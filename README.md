@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 20:59:22 GMT | LLM Pentesting Series (01/12) Foundation of LLM Pentesting Part 1 | Atharva Shirude | [Read More](https://medium.com/p/f531d9dd6cce) |
+| Sun, 26 Oct 2025 20:55:28 GMT | Hardships & Spritz talks, feat. Jane Austen | Chiara Santoro | [Read More](https://medium.com/p/a851f0ec1026) |
+| Sun, 26 Oct 2025 20:53:24 GMT | Insecure Task Manager: AI Chatbot Exploitation Lab | Ihor Sasovets | [Read More](https://medium.com/p/e7cabfd2a43b) |
+| Sun, 26 Oct 2025 20:47:32 GMT | Deploying a Cloud Honeypot with T-Pot | James Rawlings | [Read More](https://medium.com/p/76cdb7352142) |
+| Sun, 26 Oct 2025 20:47:28 GMT | Franken-server | Juan Nieto | [Read More](https://medium.com/p/81cd5180f0d4) |
+| Sun, 26 Oct 2025 20:40:32 GMT | Onboard Tailscale audit logs in your SIEM | Tim Bouman | [Read More](https://medium.com/p/d0db36f085f7) |
+| Sun, 26 Oct 2025 20:40:27 GMT | Day 21 of my Cybersecurity Journey: Cryptography Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/0a51a15e6b00) |
+| Sun, 26 Oct 2025 20:39:43 GMT | Mastering Threat Hunting: A Six-Step Methodology for Proactive Detection and Defense — Part 2 | Benyamin Ben-david | [Read More](https://medium.com/p/3506c24e38d8) |
 | Sun, 26 Oct 2025 20:36:49 GMT | The Ransomware Dilemma | Samirah A.O | [Read More](https://medium.com/p/c796332f18a7) |
+| Sun, 26 Oct 2025 20:34:54 GMT | Evasion of AiTM Detectors | Chaim Black | [Read More](https://medium.com/p/7536dfd449c2) |
 | Sun, 26 Oct 2025 20:11:51 GMT | They’re In — Now What? | Samirah A.O | [Read More](https://medium.com/p/4f4bde4c10bd) |
 | Sun, 26 Oct 2025 19:53:58 GMT | Lab 3.1: Discover — Getting started with Kibana | Azhariqbal | [Read More](https://medium.com/p/c806bc72adaa) |
 | Sun, 26 Oct 2025 19:53:52 GMT | AI for Cybersecurity: | Kushagra Gupta | [Read More](https://medium.com/p/e325e86bd7f4) |
@@ -104,12 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 12:40:20 GMT | Understanding the OSI Model: A Beginner-Friendly Guide to Network Layers | Zeli | [Read More](https://medium.com/p/484f40253f6f) |
 | Sun, 26 Oct 2025 12:40:08 GMT | Three of my favourite XSS bugs in bugbounties with my real life findings! | Diman | [Read More](https://medium.com/p/04960c2cecf5) |
 | Sun, 26 Oct 2025 12:31:52 GMT | Android Flaw + Cloud Misconfigs + Account Takeover = Disaster⚡ | VETTRIVEL | [Read More](https://medium.com/p/c17e2d291ef3) |
-| Sun, 26 Oct 2025 12:31:08 GMT | How I Hacked NASA | Pawan parmar | [Read More](https://medium.com/p/09c33a813c48) |
-| Sun, 26 Oct 2025 12:25:46 GMT | [OverTheWire] Bandit Level 10 → 11 | H$nt | [Read More](https://medium.com/p/803998670bcc) |
-| Sun, 26 Oct 2025 12:23:08 GMT | [OverTheWire] Bandit Level 9 → 10 | H$nt | [Read More](https://medium.com/p/e91d2630dbcf) |
-| Sun, 26 Oct 2025 12:22:35 GMT | Installing Wazuh on Raspberry Pi 5 — Turning a Tiny Board into a SIEM Powerhouse | Leonid | [Read More](https://medium.com/p/f92602fc1afa) |
-| Sun, 26 Oct 2025 12:20:41 GMT | DockerLabs Writeup — Status (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/41550d6f2750) |
-| Sun, 26 Oct 2025 12:19:45 GMT | Weekly Roundup — October 25 | litwtch | [Read More](https://medium.com/p/34cd76ab9be7) |
-| Sun, 26 Oct 2025 12:18:28 GMT | [OverTheWire] Bandit Level 8 → 9 | H$nt | [Read More](https://medium.com/p/d911eee28a51) |
-| Sun, 26 Oct 2025 12:17:56 GMT | Web Zafiyetleri Serisi #7 | Didem Kış | [Read More](https://medium.com/p/35eca80168ab) |
-| Sun, 26 Oct 2025 12:17:26 GMT | Exploiting SVG Upload Vulnerabilities: A Deep Dive into Stored XSS | Sheik Mohammad | [Read More](https://medium.com/p/430e9bb1cee1) |
