@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 21:29:08 GMT | The Ultimate Payload Checklist for XSS, SQLi, LFI, and SSTI | Santhosh Adiga U | [Read More](https://medium.com/p/b3bd9f1be2a5) |
+| Sun, 26 Oct 2025 21:25:56 GMT | AWS Cascading Failures Costing US 100 and 1000s of Dollars… | Mohamed Buhary | [Read More](https://medium.com/p/6b27324e0595) |
+| Sun, 26 Oct 2025 21:15:19 GMT | The Security Dangers of “Vibecoding” | Cyber Lois | [Read More](https://medium.com/p/3d7cd252bc0a) |
 | Sun, 26 Oct 2025 20:59:22 GMT | LLM Pentesting Series (01/12) Foundation of LLM Pentesting Part 1 | Atharva Shirude | [Read More](https://medium.com/p/f531d9dd6cce) |
 | Sun, 26 Oct 2025 20:55:28 GMT | Hardships & Spritz talks, feat. Jane Austen | Chiara Santoro | [Read More](https://medium.com/p/a851f0ec1026) |
 | Sun, 26 Oct 2025 20:53:24 GMT | Insecure Task Manager: AI Chatbot Exploitation Lab | Ihor Sasovets | [Read More](https://medium.com/p/e7cabfd2a43b) |
@@ -110,6 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 13:04:44 GMT | how i founded my first reflected XSS in public vdp on h1 | ali badr | [Read More](https://medium.com/p/d566ddcb63d3) |
 | Sun, 26 Oct 2025 13:04:13 GMT | GitOps Security: Building Fort Knox for Your Kubernetes Infrastructure | Salwan Mohamed | [Read More](https://medium.com/p/8c8ba6e29f44) |
 | Sun, 26 Oct 2025 12:44:49 GMT | 12 Illegal Things You Do Every Day Without Realizing | Noor Wisdom | [Read More](https://medium.com/p/411fa3467c4a) |
-| Sun, 26 Oct 2025 12:40:20 GMT | Understanding the OSI Model: A Beginner-Friendly Guide to Network Layers | Zeli | [Read More](https://medium.com/p/484f40253f6f) |
-| Sun, 26 Oct 2025 12:40:08 GMT | Three of my favourite XSS bugs in bugbounties with my real life findings! | Diman | [Read More](https://medium.com/p/04960c2cecf5) |
-| Sun, 26 Oct 2025 12:31:52 GMT | Android Flaw + Cloud Misconfigs + Account Takeover = Disaster⚡ | VETTRIVEL | [Read More](https://medium.com/p/c17e2d291ef3) |
