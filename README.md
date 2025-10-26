@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 15:07:57 GMT | LFI: A Guide to Exploit It | Imvkale | [Read More](https://medium.com/p/576e1b7e2b02) |
+| Sun, 26 Oct 2025 15:07:56 GMT | The $2,000 Bug That Changed My Life: How a Tiny URL Parameter Broke Web-Store Pricing !! | Helmiriahi | [Read More](https://medium.com/p/7275c3d1204b) |
+| Sun, 26 Oct 2025 15:04:50 GMT | Root Report: The Privilege Escalation Exploit Automation Masterclass | Esra Kayhan | [Read More](https://medium.com/p/73e40da80add) |
+| Sun, 26 Oct 2025 15:01:22 GMT | AI Inference: The Essential Executive Guide to AI Deployment Strategies | Cyber Breach Space | [Read More](https://medium.com/p/ddfc0c940e06) |
+| Sun, 26 Oct 2025 14:59:50 GMT | Why You Should Care About Yout Privacy? Meet The Basics - Make Privacy As Your Default Settings #0 | NnFace | [Read More](https://medium.com/p/7ff80b2de3c4) |
+| Sun, 26 Oct 2025 14:50:40 GMT | Roundcube: CVE-2025–49113 LAB. | lukewago | [Read More](https://medium.com/p/a3748b440a1c) |
+| Sun, 26 Oct 2025 14:36:48 GMT | Corporate Greed Chronicles: Accenture’s Billable Bloat to AI Reboot | Namir Sagheenanajar | [Read More](https://medium.com/p/03e3ea3bb0bb) |
+| Sun, 26 Oct 2025 14:30:17 GMT | How I Found My First CVE - Beginner Guide | thezeeshankhan | [Read More](https://medium.com/p/131d16d791b5) |
 | Sun, 26 Oct 2025 14:26:58 GMT | HacktheBox: Trick Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/67f7b5fbfa7c) |
 | Sun, 26 Oct 2025 14:22:20 GMT | Why AI Scammers Are Winning (And We’re Letting Them) | Cyberkech | [Read More](https://medium.com/p/9ee071d3bbde) |
 | Sun, 26 Oct 2025 14:20:38 GMT | PhishStrike Lab | Ismaelggm | [Read More](https://medium.com/p/7a6ae090474c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 07:17:25 GMT | Cyber ZeroTrace Bangladesh — The Next Generation of Ethical Cyber Defensev | Erfan Alahi Balam | [Read More](https://medium.com/p/0b2a51893a25) |
 | Sun, 26 Oct 2025 07:16:40 GMT | Why I Chose Cybersecurity and My First Steps | Deneth Vihara | [Read More](https://medium.com/p/31455727cd97) |
 | Sun, 26 Oct 2025 07:14:54 GMT | How AI Media Generation APIs Are Transforming Digital Content | Srdjan Jovanovic | [Read More](https://medium.com/p/abab30537f0e) |
-| Sun, 26 Oct 2025 07:13:33 GMT | The Things We Don’t Say | Ameliahamzat | [Read More](https://medium.com/p/49705e37118f) |
-| Sun, 26 Oct 2025 07:13:00 GMT | Web Exploitation for Beginners: Solving “Where are the robots?” on PicoCTF | Zulfianarahmi | [Read More](https://medium.com/p/10bf82c5b443) |
-| Sun, 26 Oct 2025 07:06:17 GMT | Belajar Metasploit: Dokumentasi Praktik Scan & Troubleshooting | Zulfianarahmi | [Read More](https://medium.com/p/469534f22a6a) |
-| Sun, 26 Oct 2025 07:03:18 GMT | Artificial Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/1a8ce4a0d1f8) |
-| Sun, 26 Oct 2025 07:02:13 GMT | Samsung Galaxy S25 Zero-Day exploit: How Hackers Could Access Camera and Location | Himanshu Bhatt | [Read More](https://medium.com/p/ea14e595ebd0) |
-| Sun, 26 Oct 2025 06:48:40 GMT | The Night I Scanned My Own Home: How Nmap Showed Me I Wasn’t Alone on My Network | Fateyaly | [Read More](https://medium.com/p/c4bf81463df3) |
-| Sun, 26 Oct 2025 06:39:47 GMT | OWASP: Insecure Deserialization ✦ The Silent Killer of Web Apps | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/137a3ca5820e) |
-| Sun, 26 Oct 2025 06:39:09 GMT | The Windows Security Journey — How Does Windows File Protection (WFP) Work? | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3ba18d6922de) |
