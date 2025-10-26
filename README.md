@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 22:08:48 GMT | Advanced Bug Bounty Recon: A Methodology That Uncovers Hidden Vulnerabilities | Santhosh Adiga U | [Read More](https://medium.com/p/7450bcf5200f) |
+| Sun, 26 Oct 2025 22:02:24 GMT | Secure the Next Wave: Protecting Agentic AI Solutions on Azure AI Foundry | Arsh Riz | [Read More](https://medium.com/p/73d6302a9fc0) |
+| Sun, 26 Oct 2025 22:00:14 GMT | How to Set Up Splunk Enterprise in Docker Desktop for Your Home Lab | Raynard Waits | [Read More](https://medium.com/p/af953b0e69ca) |
+| Sun, 26 Oct 2025 21:59:25 GMT | Artificial IntelligenceThe New Criminals: How AI is Fueling Smarter, Faster, and Scarier… | weber | [Read More](https://medium.com/p/e3b57f8e6cf8) |
+| Sun, 26 Oct 2025 21:57:24 GMT | HTB-Artificial walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/3f6d74c565a6) |
+| Sun, 26 Oct 2025 21:56:15 GMT | Building a Hacker Mindset for Beginner: Hands-on with MBPTL | Hadid B | [Read More](https://medium.com/p/58a79306f9ec) |
+| Sun, 26 Oct 2025 21:53:13 GMT | Life as a victim of someone else’s professional failure | Rviragh | [Read More](https://medium.com/p/825998a49cec) |
+| Sun, 26 Oct 2025 21:53:07 GMT | The New Criminals: How AI is Fueling Smarter, Faster, and Scarier Cyberattacks | weber | [Read More](https://medium.com/p/24b9d582a3a4) |
+| Sun, 26 Oct 2025 21:46:47 GMT | I Automated Finding Sensitive Data in Public JavaScript | Ibtissam hammadi | [Read More](https://medium.com/p/e51c7427a111) |
+| Sun, 26 Oct 2025 21:31:53 GMT | Learn Cloud Computing in 20 Days: Day 14 — Cloud Security Fundamentals | CaffeinatedCoder | [Read More](https://medium.com/p/8dd1222a997e) |
 | Sun, 26 Oct 2025 21:29:08 GMT | The Ultimate Payload Checklist for XSS, SQLi, LFI, and SSTI | Santhosh Adiga U | [Read More](https://medium.com/p/b3bd9f1be2a5) |
+| Sun, 26 Oct 2025 21:26:15 GMT | Meta wants your camera roll. “Opt-in” today, lock-in tomorrow. | Rick Hare | [Read More](https://medium.com/p/dcd2177f780c) |
 | Sun, 26 Oct 2025 21:25:56 GMT | AWS Cascading Failures Costing US 100 and 1000s of Dollars… | Mohamed Buhary | [Read More](https://medium.com/p/6b27324e0595) |
 | Sun, 26 Oct 2025 21:15:19 GMT | The Security Dangers of “Vibecoding” | Cyber Lois | [Read More](https://medium.com/p/3d7cd252bc0a) |
 | Sun, 26 Oct 2025 20:59:22 GMT | LLM Pentesting Series (01/12) Foundation of LLM Pentesting Part 1 | Atharva Shirude | [Read More](https://medium.com/p/f531d9dd6cce) |
@@ -102,14 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 14:01:54 GMT | How SentryPC Empowers Businesses to Build Trust and Transparency in the Digital Workplace | Paul Meyer | [Read More](https://medium.com/p/1dbd919cf0e3) |
 | Sun, 26 Oct 2025 13:54:06 GMT | TryHackMe — Brooklyn Nine Nine— Writeup | HackRight | [Read More](https://medium.com/p/865523abe53e) |
 | Sun, 26 Oct 2025 13:53:28 GMT | PixLab DOCSCAN: The Developer-Friendly, SDK-Free REST API for Global ID Scanning and Document… | Pius Oruko | [Read More](https://medium.com/p/7173cfa736b9) |
-| Sun, 26 Oct 2025 13:52:57 GMT | MOST AI Code Was INSECURE in Tests | Shahzaib | [Read More](https://medium.com/p/d3ce3c922307) |
-| Sun, 26 Oct 2025 13:43:06 GMT | Will AI Replace Cybersecurity Jobs? | Abdullah Javeed | [Read More](https://medium.com/p/589cdf93adf0) |
-| Sun, 26 Oct 2025 13:42:29 GMT | Portswigger Academy — Reflected XSS protected by CSP, with CSP bypass — Write-up | Alan | [Read More](https://medium.com/p/5954a67dbdea) |
-| Sun, 26 Oct 2025 13:38:38 GMT | Building a Secure App-Habit: Your Personal Cyber Hygiene Toolkit | Aysha Misri | [Read More](https://medium.com/p/2733c903d736) |
-| Sun, 26 Oct 2025 13:38:13 GMT | The “ATT&CK Dynamo” Strategy: Real-Time AI Adaptive Defense | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/66f2cd094494) |
-| Sun, 26 Oct 2025 13:26:47 GMT | Automating the Boring Stuff: Creating a Vulnerability Management Bot with Python and JIRA | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9093752e8f74) |
-| Sun, 26 Oct 2025 13:19:50 GMT | Public Key Cryptography Basics — Writeup | Mahir | [Read More](https://medium.com/p/8e0b01ad910f) |
-| Sun, 26 Oct 2025 13:06:07 GMT | The $25.6 Million Call: How AI Deepfakes Became a Digital Epidemic (And How We Fight Back) | Arjun B | [Read More](https://medium.com/p/40a7ecf654eb) |
-| Sun, 26 Oct 2025 13:04:44 GMT | how i founded my first reflected XSS in public vdp on h1 | ali badr | [Read More](https://medium.com/p/d566ddcb63d3) |
-| Sun, 26 Oct 2025 13:04:13 GMT | GitOps Security: Building Fort Knox for Your Kubernetes Infrastructure | Salwan Mohamed | [Read More](https://medium.com/p/8c8ba6e29f44) |
-| Sun, 26 Oct 2025 12:44:49 GMT | 12 Illegal Things You Do Every Day Without Realizing | Noor Wisdom | [Read More](https://medium.com/p/411fa3467c4a) |
