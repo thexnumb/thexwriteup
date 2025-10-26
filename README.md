@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 19:31:53 GMT | The Moment of Truth — Exploitation and Installation | Samirah A.O | [Read More](https://medium.com/p/cf006d1c9f91) |
+| Sun, 26 Oct 2025 19:11:26 GMT | Automating the Hack: When AI Writes the Payload | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/217246ef0898) |
 | Sun, 26 Oct 2025 19:08:11 GMT | ILBLOGDICRISTIANGALLO.COM | Cristian Gallo | [Read More](https://medium.com/p/3584aea51be4) |
 | Sun, 26 Oct 2025 19:08:01 GMT | Tech Enthusiast: What I Learned About Cybersecurity by Building My Own Transparent Filtration… | Aaron Constant | [Read More](https://medium.com/p/9e1c41a71b92) |
 | Sun, 26 Oct 2025 19:03:01 GMT | Day 105 — Natas Series OverTheWire Walkthrough. | Jinay | [Read More](https://medium.com/p/2a3fac597134) |
@@ -111,5 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 12:09:14 GMT | Kubernetes Networking, Demystified: From Control Plane to Packets on the Wire | akhil mittal | [Read More](https://medium.com/p/f66a5db4a936) |
 | Sun, 26 Oct 2025 12:01:57 GMT | Securing Azure Application Gateway: Addressing Critical Vulnerabilities Through TLS and HTTP/2… | Sridhar | [Read More](https://medium.com/p/416573c0a61f) |
 | Sun, 26 Oct 2025 11:54:41 GMT | Reality !!!check Are You Really Valuable??? | Mitterand Events And Management Consultancy W.L.L | [Read More](https://medium.com/p/fc5edc99b668) |
-| Sun, 26 Oct 2025 11:50:07 GMT | Networking Basics for Cybersecurity Students | Akorita Nehemiah | [Read More](https://medium.com/p/a0d770e68f9d) |
-| Sun, 26 Oct 2025 11:49:21 GMT | Etik Hacker Olma Kursu Bölüm 3: Ağlara Saldırmak | Ahmet Şimşek | [Read More](https://medium.com/p/872e903829c3) |
