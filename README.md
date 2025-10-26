@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 11:02:33 GMT | Massive Cyberattack Wave Hits 40 Countries — Experts Say This Is Just The Beginning | NidoDesigns | [Read More](https://medium.com/p/748371cb8a5f) |
+| Sun, 26 Oct 2025 10:58:36 GMT | Hack The Box: Cap Writeup (Easy Linux Machine) | Maxwell Ferreira | [Read More](https://medium.com/p/8e0708e22e9c) |
+| Sun, 26 Oct 2025 10:56:06 GMT | Cryptography Basics — Writeup | Mahir | [Read More](https://medium.com/p/e3a3cfa0b18b) |
+| Sun, 26 Oct 2025 10:49:00 GMT | The Double Life I Think I’m Living | Mitchelgitau | [Read More](https://medium.com/p/88f47a873ec9) |
+| Sun, 26 Oct 2025 10:41:16 GMT | Why Can’t You Just Open a Bank Account by Yourself in Ghana? | Abdulai Yorli Iddrisu | [Read More](https://medium.com/p/193acdcdfd83) |
 | Sun, 26 Oct 2025 10:38:15 GMT | Smart Rupiya loan   Helpline Toll free  … | Smart Rupiya loan   Helpline | [Read More](https://medium.com/p/d152c7c0450d) |
 | Sun, 26 Oct 2025 10:31:51 GMT | Understanding SSH (Secure Shell): The Secret Tunnel of the Internet | Natarajan C K | [Read More](https://medium.com/p/cefbcdd226a7) |
 | Sun, 26 Oct 2025 10:24:09 GMT | CTF Writeup — MarkdownSmartPreview (EJS SSTI) — Steps & PoC | SaLeH | [Read More](https://medium.com/p/4eb2670c8db7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 23:02:41 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/66576c03a54c) |
 | Sat, 25 Oct 2025 22:54:00 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/8d7f12ff7300) |
 | Sat, 25 Oct 2025 22:47:05 GMT | The End of “I’m Not a Robot”: Why Your Phone’s Fingerprint Sensor is the New CAPTCHA | Saman Givian | [Read More](https://medium.com/p/348335cb509e) |
-| Sat, 25 Oct 2025 22:41:25 GMT | How i win 1100 USD in bug bounty and this change my life in Bolivia | Ivan Bernardo Pedrazas Rodriguez | [Read More](https://medium.com/p/8cc58bbeb681) |
-| Sat, 25 Oct 2025 22:32:17 GMT | Intrusion Detection Systems The Cyber Alarms That Never Sleep | Thegreatpayload | [Read More](https://medium.com/p/041594db477c) |
-| Sat, 25 Oct 2025 22:32:07 GMT | #2 Cyber Security yang Penting dalam Perusahaan! | Aditya Muhamad Putra P. | [Read More](https://medium.com/p/696411828e76) |
-| Sat, 25 Oct 2025 22:08:32 GMT | I Don’t Need the Ending to Be Kind | Kina Yn | [Read More](https://medium.com/p/cd20f0f7da54) |
-| Sat, 25 Oct 2025 22:08:29 GMT | Building SOC Homelab -2 SIEM Enviroments | Nurettin Eraslan | [Read More](https://medium.com/p/8e76b9853980) |
