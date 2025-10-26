@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 20:11:51 GMT | They’re In — Now What? | Samirah A.O | [Read More](https://medium.com/p/4f4bde4c10bd) |
+| Sun, 26 Oct 2025 19:53:58 GMT | Lab 3.1: Discover — Getting started with Kibana | Azhariqbal | [Read More](https://medium.com/p/c806bc72adaa) |
+| Sun, 26 Oct 2025 19:53:52 GMT | AI for Cybersecurity: | Kushagra Gupta | [Read More](https://medium.com/p/e325e86bd7f4) |
 | Sun, 26 Oct 2025 19:31:53 GMT | The Moment of Truth — Exploitation and Installation | Samirah A.O | [Read More](https://medium.com/p/cf006d1c9f91) |
 | Sun, 26 Oct 2025 19:11:26 GMT | Automating the Hack: When AI Writes the Payload | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/217246ef0898) |
 | Sun, 26 Oct 2025 19:08:11 GMT | ILBLOGDICRISTIANGALLO.COM | Cristian Gallo | [Read More](https://medium.com/p/3584aea51be4) |
@@ -110,6 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 12:17:56 GMT | Web Zafiyetleri Serisi #7 | Didem Kış | [Read More](https://medium.com/p/35eca80168ab) |
 | Sun, 26 Oct 2025 12:17:26 GMT | Exploiting SVG Upload Vulnerabilities: A Deep Dive into Stored XSS | Sheik Mohammad | [Read More](https://medium.com/p/430e9bb1cee1) |
 | Sun, 26 Oct 2025 12:13:10 GMT | From ISO to DORA: Who Wants You to Hack Yourself — and How Often | Richard Mader | [Read More](https://medium.com/p/659b7631e5f0) |
-| Sun, 26 Oct 2025 12:09:14 GMT | Kubernetes Networking, Demystified: From Control Plane to Packets on the Wire | akhil mittal | [Read More](https://medium.com/p/f66a5db4a936) |
-| Sun, 26 Oct 2025 12:01:57 GMT | Securing Azure Application Gateway: Addressing Critical Vulnerabilities Through TLS and HTTP/2… | Sridhar | [Read More](https://medium.com/p/416573c0a61f) |
-| Sun, 26 Oct 2025 11:54:41 GMT | Reality !!!check Are You Really Valuable??? | Mitterand Events And Management Consultancy W.L.L | [Read More](https://medium.com/p/fc5edc99b668) |
