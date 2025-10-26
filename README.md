@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 07:14:54 GMT | How AI Media Generation APIs Are Transforming Digital Content | Srdjan Jovanovic | [Read More](https://medium.com/p/abab30537f0e) |
+| Sun, 26 Oct 2025 07:06:17 GMT | Belajar Metasploit: Dokumentasi Praktik Scan & Troubleshooting | Zulfianarahmi | [Read More](https://medium.com/p/469534f22a6a) |
+| Sun, 26 Oct 2025 07:03:18 GMT | Artificial Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/1a8ce4a0d1f8) |
+| Sun, 26 Oct 2025 07:02:13 GMT | Samsung Galaxy S25 Zero-Day exploit: How Hackers Could Access Camera and Location | Himanshu Bhatt | [Read More](https://medium.com/p/ea14e595ebd0) |
+| Sun, 26 Oct 2025 06:48:40 GMT | The Night I Scanned My Own Home: How Nmap Showed Me I Wasn’t Alone on My Network | Fateyaly | [Read More](https://medium.com/p/c4bf81463df3) |
 | Sun, 26 Oct 2025 06:39:47 GMT | OWASP: Insecure Deserialization ✦ The Silent Killer of Web Apps | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/137a3ca5820e) |
+| Sun, 26 Oct 2025 06:39:09 GMT | The Windows Security Journey — How Does Windows File Protection (WFP) Work? | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3ba18d6922de) |
 | Sun, 26 Oct 2025 06:31:50 GMT | What Facebook Knows About You — And How to Make It Forget | Jabeen | [Read More](https://medium.com/p/a32ac357e7d5) |
 | Sun, 26 Oct 2025 06:31:49 GMT | Hidden in Plain Sight: How we followed one malicious extension to uncover a multi-extension… | Kabilan S | [Read More](https://medium.com/p/a6f3f0792b98) |
 | Sun, 26 Oct 2025 06:30:14 GMT | Fundamentals of UAC (User Account Control) — Part 01 | Sachin Sir | [Read More](https://medium.com/p/d98d423c7289) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 17:55:55 GMT | Mastering Kali Linux for Ethical Hacking: From Beginner to Advanced | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/b96cda724b42) |
 | Sat, 25 Oct 2025 17:53:43 GMT | BankSmarter — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/b4089c2a50fc) |
 | Sat, 25 Oct 2025 17:53:34 GMT | How I Found and Claimed a Subdomain Takeover (My First Article) | cyber_wizard | [Read More](https://medium.com/p/560bad69d635) |
-| Sat, 25 Oct 2025 17:43:42 GMT | Lab 3: DOM XSS in `document.write` Sink Using Source `location.search` | Apexium Technologies Ltd | [Read More](https://medium.com/p/cef1d073d9b4) |
-| Sat, 25 Oct 2025 17:40:55 GMT | AI and Cybersecurity Take Center Stage at VivaTech 2025: | Gopi Sri | [Read More](https://medium.com/p/0749942a1f02) |
-| Sat, 25 Oct 2025 17:37:41 GMT | A Reddit Comment Can Hack Your Bank: The Hidden Danger of AI “Summarize” Buttons | ddmn | [Read More](https://medium.com/p/4ff273453fae) |
-| Sat, 25 Oct 2025 17:23:10 GMT | UI Trickery: Bypassing Locked Fields with One Browser Hack | Mohamad Abdelrahman Mohamed | [Read More](https://medium.com/p/a81300f24ba9) |
-| Sat, 25 Oct 2025 17:19:45 GMT | When Digital Disasters Strike: Your Incident Response Game Plan (IR-4) | Cyberberri | [Read More](https://medium.com/p/5c7510d65878) |
-| Sat, 25 Oct 2025 17:15:13 GMT | Lab 2: Stored XSS into HTML Context with Nothing Encoded | Apexium Technologies Ltd | [Read More](https://medium.com/p/a1b2f0d8e890) |
