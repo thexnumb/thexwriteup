@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 22:26:48 GMT | Global Input Sanitization in Angular: A Centralized Security Approach | Louis Trinh | [Read More](https://medium.com/p/1902cfdfcc65) |
+| Sun, 26 Oct 2025 22:13:06 GMT | The Panda’s Omen: HackTheboo CTF Practice OSINT | Bridget | [Read More](https://medium.com/p/3573971f51e5) |
 | Sun, 26 Oct 2025 22:08:48 GMT | Advanced Bug Bounty Recon: A Methodology That Uncovers Hidden Vulnerabilities | Santhosh Adiga U | [Read More](https://medium.com/p/7450bcf5200f) |
 | Sun, 26 Oct 2025 22:02:24 GMT | Secure the Next Wave: Protecting Agentic AI Solutions on Azure AI Foundry | Arsh Riz | [Read More](https://medium.com/p/73d6302a9fc0) |
 | Sun, 26 Oct 2025 22:00:14 GMT | How to Set Up Splunk Enterprise in Docker Desktop for Your Home Lab | Raynard Waits | [Read More](https://medium.com/p/af953b0e69ca) |
@@ -111,5 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 14:07:12 GMT | RSA Encryption and FrequencyAnalysis | Riccardo Giacinti | [Read More](https://medium.com/p/2d31f3837c5e) |
 | Sun, 26 Oct 2025 14:02:20 GMT | The Assessor’s Gambit: A Deep Dive into White, Gray, and Black Box Penetration Testing | Giorgi Akhobadze | [Read More](https://medium.com/p/5de7c7cf42aa) |
 | Sun, 26 Oct 2025 14:01:54 GMT | How SentryPC Empowers Businesses to Build Trust and Transparency in the Digital Workplace | Paul Meyer | [Read More](https://medium.com/p/1dbd919cf0e3) |
-| Sun, 26 Oct 2025 13:54:06 GMT | TryHackMe — Brooklyn Nine Nine— Writeup | HackRight | [Read More](https://medium.com/p/865523abe53e) |
-| Sun, 26 Oct 2025 13:53:28 GMT | PixLab DOCSCAN: The Developer-Friendly, SDK-Free REST API for Global ID Scanning and Document… | Pius Oruko | [Read More](https://medium.com/p/7173cfa736b9) |
