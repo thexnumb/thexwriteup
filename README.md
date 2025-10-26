@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 01:38:47 GMT | Pen Testing: It’s actually enjoyable! | Bright Omari Owusu | [Read More](https://medium.com/p/20dde17ff28a) |
+| Sun, 26 Oct 2025 01:32:29 GMT | Summit Walkthrough (TryHackMe Challenge) | Brooke Beasley | [Read More](https://medium.com/p/b8e649464c3d) |
+| Sun, 26 Oct 2025 01:16:49 GMT | Understanding CVSS | Marian Joseph Jeffrey John | [Read More](https://medium.com/p/ed70a03e8e06) |
+| Sun, 26 Oct 2025 01:10:14 GMT | Case Study: The Ad for a Fake Shop That Was Actually a Data-Stealing Framework | Om Kinkhabwala | [Read More](https://medium.com/p/106f5da6d11b) |
+| Sun, 26 Oct 2025 00:33:30 GMT | The Static Secret Exodus: Why 95% of Teams Are Ditching Traditional Credentials | Aj | [Read More](https://medium.com/p/d7741751d05e) |
+| Sun, 26 Oct 2025 00:31:13 GMT | Part 1 of Abusing Envoy+Kubernetes Staging Servers & Verb Tampering to achieve XSS, IDORs, and… | Alimuhammadsecured | [Read More](https://medium.com/p/8f4620c035b2) |
+| Sun, 26 Oct 2025 00:12:30 GMT | It Was Just a Glitch Until It Blocked Thousands of Cards | Mustapha Ajibade | [Read More](https://medium.com/p/251e807c9c07) |
+| Sun, 26 Oct 2025 00:01:11 GMT | The Stego Chronicles: Rhadamanthys, Fezbox, & Astaroth Use Steganographic Payloads | z3r0trust | [Read More](https://medium.com/p/e4ad50983027) |
+| Sat, 25 Oct 2025 23:58:27 GMT | Linux Penetration Testing | LinuxDev | [Read More](https://medium.com/p/1379f7d21275) |
+| Sat, 25 Oct 2025 23:51:46 GMT | System CA on Android: How to Install & Work Around Modern Restrictions | Rohit Suresh Borate | [Read More](https://medium.com/p/c570f000ab9a) |
+| Sat, 25 Oct 2025 23:51:27 GMT | Reference Architecture for Securing Data Flows Across Enterprise AI Systems Consuming LLMs | Shittu | [Read More](https://medium.com/p/b15fb9fedb0d) |
 | Sat, 25 Oct 2025 23:29:05 GMT | SOC Role in Blue Team | Tony Khalil Rodgers | [Read More](https://medium.com/p/418b2e619aa4) |
 | Sat, 25 Oct 2025 23:27:38 GMT | Exploring AppArmor Profiles with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/73480515258f) |
 | Sat, 25 Oct 2025 23:19:56 GMT | Three Commands. One Quiet Lab. | DuckWrites | [Read More](https://medium.com/p/d05701c10066) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 15:07:41 GMT | I´m caling out the times, guardians gather yourself. | DaShiznit | [Read More](https://medium.com/p/7ace2192f0a5) |
 | Sat, 25 Oct 2025 15:05:16 GMT | صیغه یابی همسریابی تهران صیغه یابی اصفهان صیغه کرج صیغه شیراز صیغه کرمان | مهدی رضایی | [Read More](https://medium.com/p/3d6cfbc52e22) |
 | Sat, 25 Oct 2025 15:01:59 GMT | These AI Browsers Are Out of Control | sudo whoami | [Read More](https://medium.com/p/9bf0fb6ba4f9) |
-| Sat, 25 Oct 2025 15:01:17 GMT | Cyber Security in the Digital Age: Challenges and Solutions | Cyber Security Research | [Read More](https://medium.com/p/0d909580d11d) |
-| Sat, 25 Oct 2025 14:46:57 GMT | Mapping the Hidden Paths: Understanding BloodHound in Windows Environments | Ammar Ahmed | [Read More](https://medium.com/p/8d6156423177) |
-| Sat, 25 Oct 2025 14:46:47 GMT | She Looks Perfect. Too Perfect. Here Are 5 Red Flags That Scream ‘Fake Profile.’ | The Mind Decoder | [Read More](https://medium.com/p/7ec753abd2cc) |
-| Sat, 25 Oct 2025 14:42:10 GMT | You NEED to Attend PKSIG —  Here’s Why | Rajesh Kumar | [Read More](https://medium.com/p/25ab6315f2a4) |
-| Sat, 25 Oct 2025 14:41:14 GMT | The Firewall Won’t Save You: Why Most Small Networks Are Already Compromised | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d1ab0fc3a851) |
-| Sat, 25 Oct 2025 14:35:00 GMT | SCADA over Radio: Vulnerabilities In RF Links | Investigator515 | [Read More](https://medium.com/p/57cd1ef3cd45) |
-| Sat, 25 Oct 2025 14:32:05 GMT | The Cloud Security Handbook | Sumant Khapre | [Read More](https://medium.com/p/bfcb2fce692b) |
-| Sat, 25 Oct 2025 14:31:50 GMT | 12 Security Defaults for JS Apps | Hash Block | [Read More](https://medium.com/p/8f0d0697d4f9) |
-| Sat, 25 Oct 2025 14:21:25 GMT | HACKING GOOGLE- PROJECT ZERO | Chiamaka Ezeike | [Read More](https://medium.com/p/3112dc068a81) |
-| Sat, 25 Oct 2025 14:20:19 GMT | Vulnhub Corrosion:2 Walkthrough | Enes Özkırdeniz | [Read More](https://medium.com/p/c3e2f6057574) |
-| Sat, 25 Oct 2025 14:17:00 GMT | The Future of Cybersecurity Belongs to Those Who Simplify It. | philippe Garcia | [Read More](https://medium.com/p/e83902e272a7) |
