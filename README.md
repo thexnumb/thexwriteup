@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 18:22:51 GMT | The Hidden Cost of CMMC Non-Compliance: Why Waiting Could Cost You Millions | Olivier Maignan | [Read More](https://medium.com/p/19150fe73aa3) |
+| Sun, 26 Oct 2025 18:12:03 GMT | When the Plumbing Becomes the Product | Jim Collins | [Read More](https://medium.com/p/b1e21c78d7b2) |
+| Sun, 26 Oct 2025 18:11:59 GMT | Holding On Through the Messiness of Life | hello heide | [Read More](https://medium.com/p/fdf7309c5e18) |
+| Sun, 26 Oct 2025 18:07:02 GMT | Master Network Penetration Testing — Professional PNPT-Style Course (Only $30) | Barukh Aswad | [Read More](https://medium.com/p/11b802fa4655) |
+| Sun, 26 Oct 2025 17:58:50 GMT | Master Ethical Hacking with the TCM Practical Ethical Hacking Course — Now for Only $30! | Barukh Aswad | [Read More](https://medium.com/p/40a37b9f61c2) |
+| Sun, 26 Oct 2025 17:57:09 GMT | The Investigator’s OSINT Playbook: A Guide to Open-Source Intelligence. | eRRoR | [Read More](https://medium.com/p/45df310ee254) |
+| Sun, 26 Oct 2025 17:53:45 GMT | Master OSCP Without Breaking the Bank — Get Official Materials for Just $30 | Barukh Aswad | [Read More](https://medium.com/p/fbb4cee4f724) |
+| Sun, 26 Oct 2025 17:50:56 GMT | Enforcing Strong Identity Controls in MCP Ecosystems | Zeigeist | [Read More](https://medium.com/p/76ab723e6fc2) |
+| Sun, 26 Oct 2025 17:45:32 GMT | Memory Forensics in Action Using Volatility | Meravytes | [Read More](https://medium.com/p/793024ac7c40) |
+| Sun, 26 Oct 2025 17:42:25 GMT | Advanced Account Security Techniques in Polkadot | Polkadot Anti-Scam Team | [Read More](https://medium.com/p/6b341107da3f) |
+| Sun, 26 Oct 2025 17:38:01 GMT | The 7-Year AI Chat Log Trap, Part2: The AI That Entraps: ‘Go cut the wire…now you are a terrorist’ | Berend Watchus | [Read More](https://medium.com/p/2c91508c081a) |
+| Sun, 26 Oct 2025 17:37:35 GMT | Slopeconomics: How AI is Reshaping the Digital Ecosystem | InGBTech | [Read More](https://medium.com/p/4831bbdd13ab) |
+| Sun, 26 Oct 2025 17:36:47 GMT | Open Source AGI Wins | Ersun Warncke | [Read More](https://medium.com/p/5c2029ce3b59) |
+| Sun, 26 Oct 2025 17:30:01 GMT | Nigeria cybercrime law | Chiamaka Ezeike | [Read More](https://medium.com/p/96f7f12a0dca) |
 | Sun, 26 Oct 2025 17:16:29 GMT | How To Not Get in Trouble Finding Beg Bounties | Rehan Sohail | [Read More](https://medium.com/p/bee02cbef619) |
 | Sun, 26 Oct 2025 17:12:55 GMT | When AI Becomes Intuition: Why the Real Superpower Isn’t Algorithms. | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/c457f660367a) |
 | Sun, 26 Oct 2025 16:52:55 GMT | Why Test Automation Fails — And How to Prevent It
@@ -99,17 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 11:31:01 GMT | Crafting Custom Network Scanners with Scapy in Python | Vaibhav | [Read More](https://medium.com/p/41cb6d024c71) |
 | Sun, 26 Oct 2025 11:23:49 GMT | Cupid Matching of the Seekers & Sellers: Data on People or Data of People? | Ekata Deb | [Read More](https://medium.com/p/e04e4938995b) |
 | Sun, 26 Oct 2025 11:15:56 GMT | Where the Attention Flows, the Brain Goes | Ekata Deb | [Read More](https://medium.com/p/144273957fbb) |
-| Sun, 26 Oct 2025 11:02:33 GMT | Massive Cyberattack Wave Hits 40 Countries — Experts Say This Is Just The Beginning | NidoDesigns | [Read More](https://medium.com/p/748371cb8a5f) |
-| Sun, 26 Oct 2025 10:58:36 GMT | Hack The Box: Cap Writeup (Easy Linux Machine) | Maxwell Ferreira | [Read More](https://medium.com/p/8e0708e22e9c) |
-| Sun, 26 Oct 2025 10:56:06 GMT | Cryptography Basics — Writeup | Mahir | [Read More](https://medium.com/p/e3a3cfa0b18b) |
-| Sun, 26 Oct 2025 10:49:00 GMT | The Double Life I Think I’m Living | Mitchelgitau | [Read More](https://medium.com/p/88f47a873ec9) |
-| Sun, 26 Oct 2025 10:41:16 GMT | Why Can’t You Just Open a Bank Account by Yourself in Ghana? | Abdulai Yorli Iddrisu | [Read More](https://medium.com/p/193acdcdfd83) |
-| Sun, 26 Oct 2025 10:38:15 GMT | Smart Rupiya loan   Helpline Toll free  … | Smart Rupiya loan   Helpline | [Read More](https://medium.com/p/d152c7c0450d) |
-| Sun, 26 Oct 2025 10:31:51 GMT | Understanding SSH (Secure Shell): The Secret Tunnel of the Internet | Natarajan C K | [Read More](https://medium.com/p/cefbcdd226a7) |
-| Sun, 26 Oct 2025 10:24:09 GMT | CTF Writeup — MarkdownSmartPreview (EJS SSTI) — Steps & PoC | SaLeH | [Read More](https://medium.com/p/4eb2670c8db7) |
-| Sun, 26 Oct 2025 10:23:18 GMT | From Zero to Cybersecurity and AI | Nice Place | [Read More](https://medium.com/p/de877bbc23be) |
-| Sun, 26 Oct 2025 10:13:10 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/bdb9c3bffb73) |
-| Sun, 26 Oct 2025 10:09:20 GMT | Nmap: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/c524360be3e4) |
-| Sun, 26 Oct 2025 10:04:47 GMT | Why Python Feels Faster Than C++ — And Why That Actually Matters | Rizqi Mulki | [Read More](https://medium.com/p/1dc0d2ed8fad) |
-| Sun, 26 Oct 2025 09:57:38 GMT | How I Learned Runtime Encryption In 3 Days | William Coffey | [Read More](https://medium.com/p/8616234e8571) |
-| Sun, 26 Oct 2025 09:55:03 GMT | When Fame Becomes a Weapon: How Impersonation Scams Thrive | Ericabrookssf | [Read More](https://medium.com/p/726ecac865a7) |
