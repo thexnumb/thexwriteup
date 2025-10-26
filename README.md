@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 10:13:10 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/bdb9c3bffb73) |
+| Sun, 26 Oct 2025 10:04:47 GMT | Why Python Feels Faster Than C++ — And Why That Actually Matters | Rizqi Mulki | [Read More](https://medium.com/p/1dc0d2ed8fad) |
+| Sun, 26 Oct 2025 09:57:38 GMT | How I Learned Runtime Encryption In 3 Days | William Coffey | [Read More](https://medium.com/p/8616234e8571) |
+| Sun, 26 Oct 2025 09:55:03 GMT | When Fame Becomes a Weapon: How Impersonation Scams Thrive | Ericabrookssf | [Read More](https://medium.com/p/726ecac865a7) |
+| Sun, 26 Oct 2025 09:45:28 GMT | What is SQL ?Understanding the Language of Databases | PRAVEEN J | [Read More](https://medium.com/p/0e0105eb2f7e) |
+| Sun, 26 Oct 2025 09:44:52 GMT | Title: “When the Vault Whispered and the Canvas Fell Silent” | Swaminathan Murali | [Read More](https://medium.com/p/295379266315) |
+| Sun, 26 Oct 2025 09:43:03 GMT | How I Found an Active Ransomware Leak — and Stopped It | Hania Khan | [Read More](https://medium.com/p/df77c26b4c1e) |
 | Sun, 26 Oct 2025 09:26:41 GMT | Resolviendo la máquina NodeCeption (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/7b8747911bfd) |
 | Sun, 26 Oct 2025 09:24:52 GMT | Tryhackme Walkthrough: Road | Indigo Shadow | [Read More](https://medium.com/p/37a9f1c713b7) |
 | Sun, 26 Oct 2025 09:24:28 GMT | Bluetooth Mimarisi ve Temel Kavramlar-3 | Alperkandemir | [Read More](https://medium.com/p/e10b975616cd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 21:44:00 GMT | [HackTheBox x VulnLab Write-up] Reset (Log poisoning, Trusted user with rlogin and tmux) | Chicken0248 | [Read More](https://medium.com/p/ef09f029d9e7) |
 | Sat, 25 Oct 2025 21:41:13 GMT | My Journey into Cybersecurity | Marta Dee | [Read More](https://medium.com/p/23b541c82c57) |
 | Sat, 25 Oct 2025 21:36:37 GMT | Devvortex  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/d07e9e21f239) |
-| Sat, 25 Oct 2025 21:36:16 GMT | [HackTheBox x VulnLab Write-up] Lock (Gitea PAT leak, webshell deploy, mRemoteNG and PDF24 CVE) | Chicken0248 | [Read More](https://medium.com/p/70d2de94dbac) |
-| Sat, 25 Oct 2025 21:35:37 GMT | Why Your “Forgot Password” Flow Sucks (And How We’re Fixing It With AI) | Hajareddal | [Read More](https://medium.com/p/50b4b8dd6759) |
-| Sat, 25 Oct 2025 21:28:21 GMT | [HackTheBox x VulnLab Write-up] Manage (JMX exploit, 2nd step verification and dangerous admin… | Chicken0248 | [Read More](https://medium.com/p/98d9f6866958) |
-| Sat, 25 Oct 2025 21:26:04 GMT | The $0 Bounty That Taught Me the Most Valuable Lesson in Cybersecurity | SmaRTy | [Read More](https://medium.com/p/47d2293f3a69) |
-| Sat, 25 Oct 2025 21:17:14 GMT | What Is Cybersecurity? Understanding the CIA Model That Guides It | Tawan Fonseca | [Read More](https://medium.com/p/4dfacbca399b) |
-| Sat, 25 Oct 2025 21:13:24 GMT | Security— into emotional, digital, societal, and psychological dimensions. | AJIBOYE EMMANUEL | [Read More](https://medium.com/p/a7f85cd1a14c) |
-| Sat, 25 Oct 2025 21:13:19 GMT | Day 20 of my Cybersecurity Journey: Nmap Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/67aeb9131be6) |
