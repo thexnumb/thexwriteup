@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 06:39:47 GMT | OWASP: Insecure Deserialization ✦ The Silent Killer of Web Apps | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/137a3ca5820e) |
+| Sun, 26 Oct 2025 06:31:50 GMT | What Facebook Knows About You — And How to Make It Forget | Jabeen | [Read More](https://medium.com/p/a32ac357e7d5) |
+| Sun, 26 Oct 2025 06:31:49 GMT | Hidden in Plain Sight: How we followed one malicious extension to uncover a multi-extension… | Kabilan S | [Read More](https://medium.com/p/a6f3f0792b98) |
+| Sun, 26 Oct 2025 06:30:14 GMT | Fundamentals of UAC (User Account Control) — Part 01 | Sachin Sir | [Read More](https://medium.com/p/d98d423c7289) |
+| Sun, 26 Oct 2025 06:27:48 GMT | Top 10 online cyber security course in India | Manisha Chaudhary | [Read More](https://medium.com/p/43e23fcff7a3) |
 | Sun, 26 Oct 2025 06:02:22 GMT | Apache Security Guide for PHP Developers | Edgaras | [Read More](https://medium.com/p/f7553da33a14) |
 | Sun, 26 Oct 2025 05:57:09 GMT | OverTheWire Bandit Part 1 — Getting Started (Levels 0–5) | Bagaskarapd | [Read More](https://medium.com/p/b72e900563ce) |
 | Sun, 26 Oct 2025 05:53:38 GMT | How Hackers Really Think (And Why You Should Too) | Muhummad Zaki | [Read More](https://medium.com/p/954505de5440) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 17:23:10 GMT | UI Trickery: Bypassing Locked Fields with One Browser Hack | Mohamad Abdelrahman Mohamed | [Read More](https://medium.com/p/a81300f24ba9) |
 | Sat, 25 Oct 2025 17:19:45 GMT | When Digital Disasters Strike: Your Incident Response Game Plan (IR-4) | Cyberberri | [Read More](https://medium.com/p/5c7510d65878) |
 | Sat, 25 Oct 2025 17:15:13 GMT | Lab 2: Stored XSS into HTML Context with Nothing Encoded | Apexium Technologies Ltd | [Read More](https://medium.com/p/a1b2f0d8e890) |
-| Sat, 25 Oct 2025 17:14:43 GMT | Hunting Hacktivism by URLscan (OSINT Tip Series 1) | Rishika Desai | [Read More](https://medium.com/p/d2e7c7df925f) |
-| Sat, 25 Oct 2025 17:05:29 GMT | Discord’s September 2025 Data Breach: A Cautionary Tale of Third‑Party Risks | Yug Shah | [Read More](https://medium.com/p/ab830f344558) |
-| Sat, 25 Oct 2025 17:03:04 GMT | Lab 1: Reflected XSS into HTML Context with Nothing Encoded | Apexium Technologies Ltd | [Read More](https://medium.com/p/7ba4fe35d78c) |
-| Sat, 25 Oct 2025 17:02:44 GMT | OPERATION AURORA | Chiamaka Ezeike | [Read More](https://medium.com/p/8d189abb0824) |
-| Sat, 25 Oct 2025 16:54:29 GMT | AI is Taking Over Cybersecurity But That Might Be a Good Thing | Xormium | [Read More](https://medium.com/p/dcbca4a4ec94) |
