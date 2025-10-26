@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 17:12:55 GMT | When AI Becomes Intuition: Why the Real Superpower Isn’t Algorithms. | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/c457f660367a) |
+| Sun, 26 Oct 2025 16:52:55 GMT | Why Test Automation Fails — And How to Prevent It
+Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](https://medium.com/p/a4f37b542a14) |
+| Sun, 26 Oct 2025 16:48:38 GMT | wannacry ransomware | Chiamaka Ezeike | [Read More](https://medium.com/p/5f7d5276a7a9) |
+| Sun, 26 Oct 2025 16:42:10 GMT | Understanding the State of Post-Quantum Cryptography [2025 Q3] | Marcell Ujlaki | [Read More](https://medium.com/p/cb6c4a5abc82) |
 | Sun, 26 Oct 2025 16:39:12 GMT | Post-Exploitation with Mimikatz: What Every Defender Should Know | Cybersensus | [Read More](https://medium.com/p/c7a93c9ca7ce) |
 | Sun, 26 Oct 2025 16:38:28 GMT | Malware Analysis: Vidar Stealer 2.0 -A Rebuilt, Faster, and Smarter Infostealer Dominating 2025 | Jon C | [Read More](https://medium.com/p/3f246a98a385) |
 | Sun, 26 Oct 2025 16:35:50 GMT | 99% Innovation 1% Governance | Adebukola | [Read More](https://medium.com/p/c0e8b5d96d18) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 09:57:38 GMT | How I Learned Runtime Encryption In 3 Days | William Coffey | [Read More](https://medium.com/p/8616234e8571) |
 | Sun, 26 Oct 2025 09:55:03 GMT | When Fame Becomes a Weapon: How Impersonation Scams Thrive | Ericabrookssf | [Read More](https://medium.com/p/726ecac865a7) |
 | Sun, 26 Oct 2025 09:45:28 GMT | What is SQL ?Understanding the Language of Databases | PRAVEEN J | [Read More](https://medium.com/p/0e0105eb2f7e) |
-| Sun, 26 Oct 2025 09:44:52 GMT | Title: “When the Vault Whispered and the Canvas Fell Silent” | Swaminathan Murali | [Read More](https://medium.com/p/295379266315) |
-| Sun, 26 Oct 2025 09:43:03 GMT | How I Found an Active Ransomware Leak — and Stopped It | Hania Khan | [Read More](https://medium.com/p/df77c26b4c1e) |
-| Sun, 26 Oct 2025 09:26:41 GMT | Resolviendo la máquina NodeCeption (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/7b8747911bfd) |
-| Sun, 26 Oct 2025 09:24:52 GMT | Tryhackme Walkthrough: Road | Indigo Shadow | [Read More](https://medium.com/p/37a9f1c713b7) |
