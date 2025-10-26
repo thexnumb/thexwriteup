@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 05:31:17 GMT | What does it mean to be authentic? | Glow Con Flow | [Read More](https://medium.com/p/9ee7d9f1168e) |
+| Sun, 26 Oct 2025 05:10:17 GMT | ️ AI + Cybersecurity: The New Battlefield for Enterprise Trust | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/06174b95b2e7) |
 | Sun, 26 Oct 2025 04:58:07 GMT | Microsoft Recall vs Rewind AI: Which Tool Should You Use? | nodminger | [Read More](https://medium.com/p/800442f76fe1) |
 | Sun, 26 Oct 2025 04:36:01 GMT | How Hackers Turned Crime into a Scalable Business Model | Pannag Kumaar | [Read More](https://medium.com/p/6c0f0bbaa753) |
 | Sun, 26 Oct 2025 04:36:01 GMT | Privilege Escalation Turned a Regular User Into an Admin [part-1] | Senorita_01 | [Read More](https://medium.com/p/fbe3d82440ca) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 16:46:46 GMT | Are AI Browser Agents Safe? Top Security Risks You Should Know | Tech Verse Today | [Read More](https://medium.com/p/31a4711478cf) |
 | Sat, 25 Oct 2025 16:42:13 GMT | Porta Transformacional: A Liderança Consciente na Era da Renovação Digital | Anderson Oliveira | [Read More](https://medium.com/p/a2d451058cfe) |
 | Sat, 25 Oct 2025 16:38:53 GMT | Installing Kerbrute on Linux/Ubuntu | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/677189605cd8) |
-| Sat, 25 Oct 2025 16:33:20 GMT | HackSudo Series — writeup: hacksudo: 2 (HackDudo) | Vaibhav | [Read More](https://medium.com/p/c6e9473efdc7) |
-| Sat, 25 Oct 2025 16:09:32 GMT | Yes, I Have Allowed Myself to Drink Alcohol | Shunyo Osho | [Read More](https://medium.com/p/1fcc56256d56) |
