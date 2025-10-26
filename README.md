@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 14:26:58 GMT | HacktheBox: Trick Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/67f7b5fbfa7c) |
+| Sun, 26 Oct 2025 14:22:20 GMT | Why AI Scammers Are Winning (And We’re Letting Them) | Cyberkech | [Read More](https://medium.com/p/9ee071d3bbde) |
+| Sun, 26 Oct 2025 14:20:38 GMT | PhishStrike Lab | Ismaelggm | [Read More](https://medium.com/p/7a6ae090474c) |
+| Sun, 26 Oct 2025 14:18:17 GMT | I Spent 24 Hours Hardening My Stack (and Somehow Made It Friendlier Too) | Tyler Johnston-Kent | [Read More](https://medium.com/p/395e4d39dead) |
+| Sun, 26 Oct 2025 14:17:41 GMT | Cybersecurity Architecture Models for OT and IIoT Environments | Zrhmz | [Read More](https://medium.com/p/abdad183a00b) |
+| Sun, 26 Oct 2025 14:11:13 GMT | Rising Demand for Cybersecurity Experts in India: Top Careers and Salary Insights | Faraz Weerabangsa | [Read More](https://medium.com/p/387b13ef09e2) |
+| Sun, 26 Oct 2025 14:11:13 GMT | CSI: Linux — Hunting for Persistence in the Ironshade Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/8820b8457ce0) |
 | Sun, 26 Oct 2025 14:07:12 GMT | RSA Encryption and FrequencyAnalysis | Riccardo Giacinti | [Read More](https://medium.com/p/2d31f3837c5e) |
 | Sun, 26 Oct 2025 14:02:20 GMT | The Assessor’s Gambit: A Deep Dive into White, Gray, and Black Box Penetration Testing | Giorgi Akhobadze | [Read More](https://medium.com/p/5de7c7cf42aa) |
 | Sun, 26 Oct 2025 14:01:54 GMT | How SentryPC Empowers Businesses to Build Trust and Transparency in the Digital Workplace | Paul Meyer | [Read More](https://medium.com/p/1dbd919cf0e3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 06:48:40 GMT | The Night I Scanned My Own Home: How Nmap Showed Me I Wasn’t Alone on My Network | Fateyaly | [Read More](https://medium.com/p/c4bf81463df3) |
 | Sun, 26 Oct 2025 06:39:47 GMT | OWASP: Insecure Deserialization ✦ The Silent Killer of Web Apps | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/137a3ca5820e) |
 | Sun, 26 Oct 2025 06:39:09 GMT | The Windows Security Journey — How Does Windows File Protection (WFP) Work? | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3ba18d6922de) |
-| Sun, 26 Oct 2025 06:31:50 GMT | What Facebook Knows About You — And How to Make It Forget | Jabeen | [Read More](https://medium.com/p/a32ac357e7d5) |
-| Sun, 26 Oct 2025 06:31:49 GMT | Hidden in Plain Sight: How we followed one malicious extension to uncover a multi-extension… | Kabilan S | [Read More](https://medium.com/p/a6f3f0792b98) |
-| Sun, 26 Oct 2025 06:30:14 GMT | Fundamentals of UAC (User Account Control) — Part 01 | Sachin Sir | [Read More](https://medium.com/p/d98d423c7289) |
-| Sun, 26 Oct 2025 06:27:48 GMT | Top 10 online cyber security course in India | Manisha Chaudhary | [Read More](https://medium.com/p/43e23fcff7a3) |
-| Sun, 26 Oct 2025 06:02:22 GMT | Apache Security Guide for PHP Developers | Edgaras | [Read More](https://medium.com/p/f7553da33a14) |
-| Sun, 26 Oct 2025 05:57:09 GMT | OverTheWire Bandit Part 1 — Getting Started (Levels 0–5) | Bagaskarapd | [Read More](https://medium.com/p/b72e900563ce) |
-| Sun, 26 Oct 2025 05:53:38 GMT | How Hackers Really Think (And Why You Should Too) | Muhummad Zaki | [Read More](https://medium.com/p/954505de5440) |
