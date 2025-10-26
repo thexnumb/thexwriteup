@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Sun, 26 Oct 2025 18:22:51 GMT | The Hidden Cost of CMMC Non-Compliance: Why Waiting Could Cost You Millions | Olivier Maignan | [Read More](https://medium.com/p/19150fe73aa3) |
+| Sun, 26 Oct 2025 18:22:21 GMT | My experience making a WAF | 1rhino2 | [Read More](https://medium.com/p/ed4b50a9d070) |
 | Sun, 26 Oct 2025 18:12:03 GMT | When the Plumbing Becomes the Product | Jim Collins | [Read More](https://medium.com/p/b1e21c78d7b2) |
 | Sun, 26 Oct 2025 18:11:59 GMT | Holding On Through the Messiness of Life | hello heide | [Read More](https://medium.com/p/fdf7309c5e18) |
 | Sun, 26 Oct 2025 18:07:02 GMT | Master Network Penetration Testing — Professional PNPT-Style Course (Only $30) | Barukh Aswad | [Read More](https://medium.com/p/11b802fa4655) |
@@ -112,4 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 11:32:45 GMT | How I Became the Unofficial Company Archivist (And Saw Things I Can’t Unsee) | Iski | [Read More](https://medium.com/p/626c711831e4) |
 | Sun, 26 Oct 2025 11:31:01 GMT | Crafting Custom Network Scanners with Scapy in Python | Vaibhav | [Read More](https://medium.com/p/41cb6d024c71) |
 | Sun, 26 Oct 2025 11:23:49 GMT | Cupid Matching of the Seekers & Sellers: Data on People or Data of People? | Ekata Deb | [Read More](https://medium.com/p/e04e4938995b) |
-| Sun, 26 Oct 2025 11:15:56 GMT | Where the Attention Flows, the Brain Goes | Ekata Deb | [Read More](https://medium.com/p/144273957fbb) |
