@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 14:07:12 GMT | RSA Encryption and FrequencyAnalysis | Riccardo Giacinti | [Read More](https://medium.com/p/2d31f3837c5e) |
+| Sun, 26 Oct 2025 14:02:20 GMT | The Assessor’s Gambit: A Deep Dive into White, Gray, and Black Box Penetration Testing | Giorgi Akhobadze | [Read More](https://medium.com/p/5de7c7cf42aa) |
+| Sun, 26 Oct 2025 14:01:54 GMT | How SentryPC Empowers Businesses to Build Trust and Transparency in the Digital Workplace | Paul Meyer | [Read More](https://medium.com/p/1dbd919cf0e3) |
+| Sun, 26 Oct 2025 13:54:06 GMT | TryHackMe — Brooklyn Nine Nine— Writeup | HackRight | [Read More](https://medium.com/p/865523abe53e) |
+| Sun, 26 Oct 2025 13:53:28 GMT | PixLab DOCSCAN: The Developer-Friendly, SDK-Free REST API for Global ID Scanning and Document… | Pius Oruko | [Read More](https://medium.com/p/7173cfa736b9) |
+| Sun, 26 Oct 2025 13:52:57 GMT | MOST AI Code Was INSECURE in Tests | Shahzaib | [Read More](https://medium.com/p/d3ce3c922307) |
+| Sun, 26 Oct 2025 13:43:06 GMT | Will AI Replace Cybersecurity Jobs? | Abdullah Javeed | [Read More](https://medium.com/p/589cdf93adf0) |
+| Sun, 26 Oct 2025 13:42:29 GMT | Portswigger Academy — Reflected XSS protected by CSP, with CSP bypass — Write-up | Alan | [Read More](https://medium.com/p/5954a67dbdea) |
 | Sun, 26 Oct 2025 13:38:38 GMT | Building a Secure App-Habit: Your Personal Cyber Hygiene Toolkit | Aysha Misri | [Read More](https://medium.com/p/2733c903d736) |
 | Sun, 26 Oct 2025 13:38:13 GMT | The “ATT&CK Dynamo” Strategy: Real-Time AI Adaptive Defense | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/66f2cd094494) |
 | Sun, 26 Oct 2025 13:26:47 GMT | Automating the Boring Stuff: Creating a Vulnerability Management Bot with Python and JIRA | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9093752e8f74) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 06:02:22 GMT | Apache Security Guide for PHP Developers | Edgaras | [Read More](https://medium.com/p/f7553da33a14) |
 | Sun, 26 Oct 2025 05:57:09 GMT | OverTheWire Bandit Part 1 — Getting Started (Levels 0–5) | Bagaskarapd | [Read More](https://medium.com/p/b72e900563ce) |
 | Sun, 26 Oct 2025 05:53:38 GMT | How Hackers Really Think (And Why You Should Too) | Muhummad Zaki | [Read More](https://medium.com/p/954505de5440) |
-| Sun, 26 Oct 2025 05:43:31 GMT | HackSudo 3 — Walkthrough (VulnHub) | Vaibhav | [Read More](https://medium.com/p/385c8825aa2b) |
-| Sun, 26 Oct 2025 05:31:17 GMT | What does it mean to be authentic? | Glow Con Flow | [Read More](https://medium.com/p/9ee7d9f1168e) |
-| Sun, 26 Oct 2025 05:10:17 GMT | ️ AI + Cybersecurity: The New Battlefield for Enterprise Trust | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/06174b95b2e7) |
-| Sun, 26 Oct 2025 04:58:07 GMT | Microsoft Recall vs Rewind AI: Which Tool Should You Use? | nodminger | [Read More](https://medium.com/p/800442f76fe1) |
-| Sun, 26 Oct 2025 04:36:01 GMT | How Hackers Turned Crime into a Scalable Business Model | Pannag Kumaar | [Read More](https://medium.com/p/6c0f0bbaa753) |
-| Sun, 26 Oct 2025 04:36:01 GMT | Privilege Escalation Turned a Regular User Into an Admin [part-1] | Senorita_01 | [Read More](https://medium.com/p/fbe3d82440ca) |
-| Sun, 26 Oct 2025 04:33:13 GMT | APK Malware Analysis Using Red Teaming Approach | Rizaldi Wahaz | [Read More](https://medium.com/p/e4cc6d5f9d79) |
-| Sun, 26 Oct 2025 04:30:04 GMT | Why I Stopped Paying for Commercial VPNs and Built My Own in 5 Minutes with Terraform | DemonDeLaplace | [Read More](https://medium.com/p/94496c47f45e) |
