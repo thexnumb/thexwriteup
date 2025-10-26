@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 13:19:50 GMT | Public Key Cryptography Basics — Writeup | Mahir | [Read More](https://medium.com/p/8e0b01ad910f) |
+| Sun, 26 Oct 2025 13:06:07 GMT | The $25.6 Million Call: How AI Deepfakes Became a Digital Epidemic (And How We Fight Back) | Arjun B | [Read More](https://medium.com/p/40a7ecf654eb) |
+| Sun, 26 Oct 2025 13:04:44 GMT | how i founded my first reflected XSS in public vdp on h1 | ali badr | [Read More](https://medium.com/p/d566ddcb63d3) |
+| Sun, 26 Oct 2025 13:04:13 GMT | GitOps Security: Building Fort Knox for Your Kubernetes Infrastructure | Salwan Mohamed | [Read More](https://medium.com/p/8c8ba6e29f44) |
+| Sun, 26 Oct 2025 12:44:49 GMT | 12 Illegal Things You Do Every Day Without Realizing | Noor Wisdom | [Read More](https://medium.com/p/411fa3467c4a) |
+| Sun, 26 Oct 2025 12:40:20 GMT | Understanding the OSI Model: A Beginner-Friendly Guide to Network Layers | Zeli | [Read More](https://medium.com/p/484f40253f6f) |
+| Sun, 26 Oct 2025 12:40:08 GMT | Three of my favourite XSS bugs in bugbounties with my real life findings! | Diman | [Read More](https://medium.com/p/04960c2cecf5) |
 | Sun, 26 Oct 2025 12:31:52 GMT | Android Flaw + Cloud Misconfigs + Account Takeover = Disaster⚡ | VETTRIVEL | [Read More](https://medium.com/p/c17e2d291ef3) |
 | Sun, 26 Oct 2025 12:31:08 GMT | How I Hacked NASA | Pawan parmar | [Read More](https://medium.com/p/09c33a813c48) |
 | Sun, 26 Oct 2025 12:25:46 GMT | [OverTheWire] Bandit Level 10 → 11 | H$nt | [Read More](https://medium.com/p/803998670bcc) |
@@ -30,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 11:49:21 GMT | Etik Hacker Olma Kursu Bölüm 3: Ağlara Saldırmak | Ahmet Şimşek | [Read More](https://medium.com/p/872e903829c3) |
 | Sun, 26 Oct 2025 11:43:37 GMT | I Put 130+ DevSecOps Tools in One Container So You Don’t Have To (And Lived to Tell the Tale) | Er Jaydeepgohel | [Read More](https://medium.com/p/8f2aca246219) |
 | Sun, 26 Oct 2025 11:40:45 GMT | Etik Hacker Olma Kursu Bölüm 2: Ağlarla İlgili Bilgi Toplamak | Ahmet Şimşek | [Read More](https://medium.com/p/1423d349ca4e) |
+| Sun, 26 Oct 2025 11:39:54 GMT | Etik Hacker Olma Kursu Bölüm 1: Ağlara Saldırmak için Ayarlar | Ahmet Şimşek | [Read More](https://medium.com/p/987bfcca27d5) |
 | Sun, 26 Oct 2025 11:37:55 GMT | OWASP Juice Shop TryHackMe Write-Up  Ethical Hacking Walkthrough by Yousef Amr - SQLi, XSS… | Yousef Amr | [Read More](https://medium.com/p/5d3229595cc3) |
 | Sun, 26 Oct 2025 11:35:30 GMT | The Future of Cybersecurity: Trends, Technologies, and Challenges Shaping 2025 and Beyond | Fasieha Mehar | [Read More](https://medium.com/p/c3bac0cc8c80) |
 | Sun, 26 Oct 2025 11:32:45 GMT | How I Became the Unofficial Company Archivist (And Saw Things I Can’t Unsee) | Iski | [Read More](https://medium.com/p/626c711831e4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 04:06:10 GMT | Tesla.com patched Exposed Damage Disclosure Files leaking VIN number after bugcrowd rejected my… | Krivadna | [Read More](https://medium.com/p/d6cafcaec98e) |
 | Sun, 26 Oct 2025 03:57:02 GMT | Advanced JWT Risks (Beyond the Basics) | Opsidian | [Read More](https://medium.com/p/75be479a2e5e) |
 | Sun, 26 Oct 2025 03:44:47 GMT | CSRF Lab Solution: Token Not Tied to User Session | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/4c84b58e20a0) |
-| Sun, 26 Oct 2025 03:42:08 GMT | JSON ResponseDisclosure: From Recon to Advanced Detection | Monika sharma | [Read More](https://medium.com/p/3413df37461c) |
-| Sun, 26 Oct 2025 03:39:33 GMT | Daily Insight Hub: Exploring the Future of Innovation and Technology | Ashrafhossen | [Read More](https://medium.com/p/9ae3602bf0e0) |
-| Sun, 26 Oct 2025 03:31:54 GMT | Nissan’s Design Studio Breach: Dissecting the Qilin Ransomware Strike | Deven Chhajed | [Read More](https://medium.com/p/1fb350a9cb56) |
-| Sun, 26 Oct 2025 03:20:07 GMT | 7 JavaScript Bugs That Drive Developers Crazy — and How to Actually Fix Them | Rizqi Mulki | [Read More](https://medium.com/p/099341e245a5) |
-| Sun, 26 Oct 2025 03:18:44 GMT | Vegeta1 | Diego Maia | [Read More](https://medium.com/p/ed1e7224ae59) |
-| Sun, 26 Oct 2025 03:14:02 GMT | Is Artificial Intelligence Dangerous? | Grigorios Avramidis | [Read More](https://medium.com/p/38a632cfae46) |
-| Sun, 26 Oct 2025 02:55:39 GMT | 5 Real Benefits of Using Domain-Driven Design (DDD) in Modern Software Development | Rizqi Mulki | [Read More](https://medium.com/p/5b71957565e6) |
-| Sun, 26 Oct 2025 02:41:15 GMT | The Cybersecurity Secret No One Talks About (And It’s Costing Startups Millions) | Hania Khan | [Read More](https://medium.com/p/980f4da938c9) |
