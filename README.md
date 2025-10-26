@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 04:36:01 GMT | How Hackers Turned Crime into a Scalable Business Model | Pannag Kumaar | [Read More](https://medium.com/p/6c0f0bbaa753) |
+| Sun, 26 Oct 2025 04:36:01 GMT | Privilege Escalation Turned a Regular User Into an Admin [part-1] | Senorita_01 | [Read More](https://medium.com/p/fbe3d82440ca) |
+| Sun, 26 Oct 2025 04:33:13 GMT | APK Malware Analysis Using Red Teaming Approach | Rizaldi Wahaz | [Read More](https://medium.com/p/e4cc6d5f9d79) |
+| Sun, 26 Oct 2025 04:30:04 GMT | Why I Stopped Paying for Commercial VPNs and Built My Own in 5 Minutes with Terraform | DemonDeLaplace | [Read More](https://medium.com/p/94496c47f45e) |
 | Sun, 26 Oct 2025 04:06:10 GMT | Tesla.com patched Exposed Damage Disclosure Files leaking VIN number after bugcrowd rejected my… | Krivadna | [Read More](https://medium.com/p/d6cafcaec98e) |
 | Sun, 26 Oct 2025 03:57:02 GMT | Advanced JWT Risks (Beyond the Basics) | Opsidian | [Read More](https://medium.com/p/75be479a2e5e) |
 | Sun, 26 Oct 2025 03:44:47 GMT | CSRF Lab Solution: Token Not Tied to User Session | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/4c84b58e20a0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 16:33:20 GMT | HackSudo Series — writeup: hacksudo: 2 (HackDudo) | Vaibhav | [Read More](https://medium.com/p/c6e9473efdc7) |
 | Sat, 25 Oct 2025 16:09:32 GMT | Yes, I Have Allowed Myself to Drink Alcohol | Shunyo Osho | [Read More](https://medium.com/p/1fcc56256d56) |
 | Sat, 25 Oct 2025 16:07:48 GMT | A Fake Account, a Cloned Publication, an Unexpected Shock for Substack Subscribers | Dr Mehmet Yildiz | [Read More](https://medium.com/p/4bc7e2cb124b) |
-| Sat, 25 Oct 2025 16:07:23 GMT | Human-Centered Support | Info Tech Net | [Read More](https://medium.com/p/3d8fab429cfc) |
-| Sat, 25 Oct 2025 16:03:15 GMT | How Bug Bounties Can Boost Your Cybersecurity Career | Xormium | [Read More](https://medium.com/p/ecbc45f15b00) |
-| Sat, 25 Oct 2025 15:51:29 GMT | Ultra-Responsive Speeds | Info Tech Net | [Read More](https://medium.com/p/07b6d8ffdf41) |
-| Sat, 25 Oct 2025 15:49:47 GMT | When Your AI Browser Agent Gets You Fired: The Accountability Crisis No One Is Talking About | Nanthakumar | [Read More](https://medium.com/p/e356bd5031af) |
