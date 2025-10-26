@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 09:26:41 GMT | Resolviendo la máquina NodeCeption (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/7b8747911bfd) |
+| Sun, 26 Oct 2025 09:24:52 GMT | Tryhackme Walkthrough: Road | Indigo Shadow | [Read More](https://medium.com/p/37a9f1c713b7) |
+| Sun, 26 Oct 2025 09:24:28 GMT | Bluetooth Mimarisi ve Temel Kavramlar-3 | Alperkandemir | [Read More](https://medium.com/p/e10b975616cd) |
+| Sun, 26 Oct 2025 09:22:45 GMT | What I Learned Living Between Two Cybersecurity Worlds | florianetchoubou | [Read More](https://medium.com/p/440c07dbc1a3) |
+| Sun, 26 Oct 2025 09:20:18 GMT | Cyber Fraud and the Erosion of Digital Trust | Mike Masoud, CACL, CACM, CFE, MIPA AFA, MBA | [Read More](https://medium.com/p/ab81fc97ad0f) |
+| Sun, 26 Oct 2025 09:19:43 GMT | Is Your Website Really Bulletproof? | Freelance Planet Guide! | [Read More](https://medium.com/p/6dcfb60ea3f3) |
 | Sun, 26 Oct 2025 09:06:52 GMT | How AI is Changing Cybersecurity: From Phishing Detection to LLM Defenders | Akshay Subhash | [Read More](https://medium.com/p/0b9a8d4d2d91) |
 | Sun, 26 Oct 2025 09:06:38 GMT | YouTube Ghost Network: How 3,000 Videos Stole Thousands of Passwords | Patrik Žák | [Read More](https://medium.com/p/51d3bbb27fcf) |
 | Sun, 26 Oct 2025 09:02:19 GMT | 2025 Reality Check: The Attacks Your MFA Will Not Stop | Alexandre Vandamme | [Read More](https://medium.com/p/22343e4950a6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 21:17:14 GMT | What Is Cybersecurity? Understanding the CIA Model That Guides It | Tawan Fonseca | [Read More](https://medium.com/p/4dfacbca399b) |
 | Sat, 25 Oct 2025 21:13:24 GMT | Security— into emotional, digital, societal, and psychological dimensions. | AJIBOYE EMMANUEL | [Read More](https://medium.com/p/a7f85cd1a14c) |
 | Sat, 25 Oct 2025 21:13:19 GMT | Day 20 of my Cybersecurity Journey: Nmap Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/67aeb9131be6) |
-| Sat, 25 Oct 2025 21:07:12 GMT | Who Am I | Serhan Kırca | [Read More](https://medium.com/p/81b6c70c833d) |
-| Sat, 25 Oct 2025 21:06:47 GMT | How I Automated My GitHub Recon for Critical Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/34ed27660d3a) |
-| Sat, 25 Oct 2025 21:02:01 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/0bd8bc66ff50) |
-| Sat, 25 Oct 2025 20:58:14 GMT | How I Turned Stored XSS To Account Takeover: Exploiting WebSocket-Driven Applications | Mohamed Ibrahim | [Read More](https://medium.com/p/d61ee2c38cba) |
-| Sat, 25 Oct 2025 20:50:43 GMT | HackTheBox: Sherlocks PhishNet - Kali Linux | Repp | [Read More](https://medium.com/p/245b0cfa70f0) |
-| Sat, 25 Oct 2025 20:43:20 GMT | O que é OAuth ? | Guilherme Gomes | [Read More](https://medium.com/p/2468412fe2d1) |
