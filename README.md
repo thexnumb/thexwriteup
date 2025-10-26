@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 09:06:52 GMT | How AI is Changing Cybersecurity: From Phishing Detection to LLM Defenders | Akshay Subhash | [Read More](https://medium.com/p/0b9a8d4d2d91) |
+| Sun, 26 Oct 2025 09:06:38 GMT | YouTube Ghost Network: How 3,000 Videos Stole Thousands of Passwords | Patrik Žák | [Read More](https://medium.com/p/51d3bbb27fcf) |
+| Sun, 26 Oct 2025 09:02:19 GMT | 2025 Reality Check: The Attacks Your MFA Will Not Stop | Alexandre Vandamme | [Read More](https://medium.com/p/22343e4950a6) |
+| Sun, 26 Oct 2025 09:02:17 GMT | Secrets Management for Beginners: Secure Your AWS Keys and Pipelines with AWS Secrets Manager… | Mohamed ElEmam | [Read More](https://medium.com/p/ff5ded252acd) |
+| Sun, 26 Oct 2025 08:55:18 GMT | “Exam Mode: Hitting Pause on Blogs Till Nov 24 | Nithishkumar R | [Read More](https://medium.com/p/c4b3c22badd0) |
 | Sun, 26 Oct 2025 08:15:34 GMT | How AI Automates Cyberattack Reconnaissance: The New Era of Digital Threats | Monujangra | [Read More](https://medium.com/p/8901c6a35bbc) |
 | Sun, 26 Oct 2025 08:15:16 GMT | ​Unstoppable Engine: The Generation of AI Hacks is Different Beast | Guria | [Read More](https://medium.com/p/5be8429dcece) |
 | Sun, 26 Oct 2025 08:11:51 GMT | AI-Powered Ransomware Threats | Shailendra Kumar | [Read More](https://medium.com/p/6ef141c50758) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 20:58:14 GMT | How I Turned Stored XSS To Account Takeover: Exploiting WebSocket-Driven Applications | Mohamed Ibrahim | [Read More](https://medium.com/p/d61ee2c38cba) |
 | Sat, 25 Oct 2025 20:50:43 GMT | HackTheBox: Sherlocks PhishNet - Kali Linux | Repp | [Read More](https://medium.com/p/245b0cfa70f0) |
 | Sat, 25 Oct 2025 20:43:20 GMT | O que é OAuth ? | Guilherme Gomes | [Read More](https://medium.com/p/2468412fe2d1) |
-| Sat, 25 Oct 2025 20:29:44 GMT | Recon Like a Hunter: Practical Tips from Real Findings Part 1 | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/d425d74c7c62) |
-| Sat, 25 Oct 2025 20:18:08 GMT | Implementing FIPS on AWS | Paul Short | [Read More](https://medium.com/p/b8d016597ed1) |
-| Sat, 25 Oct 2025 20:03:38 GMT | Dark Side of Developer Screening Projects on LinkedIn — and What Every Developer Should Know | Aryavhirkoul | [Read More](https://medium.com/p/8fcbb31f869b) |
-| Sat, 25 Oct 2025 19:55:56 GMT | TheHackersLabs — THLPWN [Write Up] | APS88 | [Read More](https://medium.com/p/72ef1444e8e2) |
-| Sat, 25 Oct 2025 19:44:57 GMT | Using an AI browser? You might already be hacked! | Utkarsh Agrawal | [Read More](https://medium.com/p/32768f3e7380) |
