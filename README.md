@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 02:55:39 GMT | 5 Real Benefits of Using Domain-Driven Design (DDD) in Modern Software Development | Rizqi Mulki | [Read More](https://medium.com/p/5b71957565e6) |
+| Sun, 26 Oct 2025 02:41:15 GMT | The Cybersecurity Secret No One Talks About (And It’s Costing Startups Millions) | Hania Khan | [Read More](https://medium.com/p/980f4da938c9) |
+| Sun, 26 Oct 2025 02:41:03 GMT | Top 10 Cyber Attacks You Can’t Miss(October 18 — October 25, 2025) | Siva Desetti | [Read More](https://medium.com/p/47ce92ea83e1) |
+| Sun, 26 Oct 2025 02:34:06 GMT | Comment Installer GNS3 et GNS3VM sur Windows ? | Leonel Awouma | [Read More](https://medium.com/p/7a666a177f01) |
+| Sun, 26 Oct 2025 02:33:23 GMT | Building an Enterprise Cloud Security Governance Platform with Policy-as-Code (OPA, Terraform, AWS) | Akuphe Dieudonne | [Read More](https://medium.com/p/446bff75179b) |
+| Sun, 26 Oct 2025 02:31:29 GMT | How to Get More Done by Doing Less | Global Whirl of Wonders | [Read More](https://medium.com/p/fd37230432b3) |
+| Sun, 26 Oct 2025 02:03:18 GMT | Securing Software in the Era of AI-Generated Code | Valentin Podkamennyi | [Read More](https://medium.com/p/d6026b58ab27) |
+| Sun, 26 Oct 2025 01:51:39 GMT | IBM’s Predictive AI Push: From Cybersecurity Innovation to Business Revival | Nathaniel Niyazov | [Read More](https://medium.com/p/f4da7b314a27) |
+| Sun, 26 Oct 2025 01:49:23 GMT | Rackspace Kubernetes Cluster Survival Guide | Marcus Patman | [Read More](https://medium.com/p/9ad427d4db90) |
 | Sun, 26 Oct 2025 01:38:47 GMT | Pen Testing: It’s actually enjoyable! | Bright Omari Owusu | [Read More](https://medium.com/p/20dde17ff28a) |
 | Sun, 26 Oct 2025 01:32:29 GMT | Summit Walkthrough (TryHackMe Challenge) | Brooke Beasley | [Read More](https://medium.com/p/b8e649464c3d) |
 | Sun, 26 Oct 2025 01:16:49 GMT | Understanding CVSS | Marian Joseph Jeffrey John | [Read More](https://medium.com/p/ed70a03e8e06) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 15:31:05 GMT | SIEM Basics | lukewago | [Read More](https://medium.com/p/c03bde388064) |
 | Sat, 25 Oct 2025 15:28:47 GMT | Topic 38: CSS Flexbox (Flexible Box Layout) | Rana Awais | [Read More](https://medium.com/p/51ca3d7403d3) |
 | Sat, 25 Oct 2025 15:24:30 GMT | Why Every Business Needs a VPN for Better Security ? | Technologia | [Read More](https://medium.com/p/8ceab6330ce4) |
-| Sat, 25 Oct 2025 15:23:52 GMT | The 90-Day AI Security & Governance Starter Plan | Michael Hannecke | [Read More](https://medium.com/p/f271fe3b6983) |
-| Sat, 25 Oct 2025 15:21:08 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/55faf56b7240) |
-| Sat, 25 Oct 2025 15:16:05 GMT | Topic 37: CSS Transform (Rotate, Scale, Skew, Translate) | Rana Awais | [Read More](https://medium.com/p/895e23afc419) |
-| Sat, 25 Oct 2025 15:15:09 GMT | TShark Challenge I: Teamwork - TryHackMe — Walkthrough [2025] | Rahul | [Read More](https://medium.com/p/cc360bac6c65) |
-| Sat, 25 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 25, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e2466a0476c5) |
-| Sat, 25 Oct 2025 15:14:26 GMT | Cyber Security Deep Dive: Tactics, Techniques, and Procedures | Cyber Security Research | [Read More](https://medium.com/p/dce65acd1a9f) |
-| Sat, 25 Oct 2025 15:07:41 GMT | I´m caling out the times, guardians gather yourself. | DaShiznit | [Read More](https://medium.com/p/7ace2192f0a5) |
-| Sat, 25 Oct 2025 15:05:16 GMT | صیغه یابی همسریابی تهران صیغه یابی اصفهان صیغه کرج صیغه شیراز صیغه کرمان | مهدی رضایی | [Read More](https://medium.com/p/3d6cfbc52e22) |
-| Sat, 25 Oct 2025 15:01:59 GMT | These AI Browsers Are Out of Control | sudo whoami | [Read More](https://medium.com/p/9bf0fb6ba4f9) |
