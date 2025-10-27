@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 16:17:21 GMT | Transhumanismo un tema olvidado en LATAM | Hacking en México | [Read More](https://medium.com/p/ec9dde067b12) |
+| Mon, 27 Oct 2025 16:13:04 GMT | Designing a Resilient Network Architecture: Security, Scalability, and Strategy in the Digital Age | ATTOUCHI MOHAMED | [Read More](https://medium.com/p/d85123441698) |
+| Mon, 27 Oct 2025 16:10:54 GMT | Boost Cyber Resilience with Cyber Maturity Assessment in the USA | Vishwajeettechtech | [Read More](https://medium.com/p/8a1329ad3676) |
+| Mon, 27 Oct 2025 16:10:48 GMT | ️ Cyber Immunity: What Makes You Resilient | Aysha Misri | [Read More](https://medium.com/p/d4a814ffcd37) |
+| Mon, 27 Oct 2025 16:10:33 GMT | The Paradox of Growth: Learning to Live with Emotional Maturity Without Loneliness | Pamina Victoria | [Read More](https://medium.com/p/68f8ab3232b6) |
+| Mon, 27 Oct 2025 16:06:23 GMT | Stepping into the World of Cybersecurity, as a Freshman at CarletonU! | Alvin Kapoor | [Read More](https://medium.com/p/9249d327cf88) |
+| Mon, 27 Oct 2025 16:05:43 GMT | Prompt Injection Vulnerabilities Target OpenAI’s New Atlas Browser | RealSec.io | [Read More](https://medium.com/p/073a608abfb8) |
+| Mon, 27 Oct 2025 16:02:01 GMT | The AI Paradox: How Our Most Powerful Technology Became Our Greatest Vulnerability | Female Founders Fund | [Read More](https://medium.com/p/23135a140d03) |
+| Mon, 27 Oct 2025 15:59:53 GMT | Practicing Snort Rule Creation | Citadel Cybersec | [Read More](https://medium.com/p/7bf336a726dc) |
+| Mon, 27 Oct 2025 15:59:06 GMT | Browser or Breach? What OpenAI’s ChatGPT Atlas Launch Means for AI-Driven Cybersecurity | Gopi Sri | [Read More](https://medium.com/p/d8284cb58a2c) |
+| Mon, 27 Oct 2025 15:58:39 GMT | What Is VPN Tunneling? | Vijay Kumar Gupta | [Read More](https://medium.com/p/d283445c2344) |
+| Mon, 27 Oct 2025 15:57:50 GMT | Warning to Gmail Users: 183 Million Passwords Stolen in Massive Data Leak | Rroshan | [Read More](https://medium.com/p/0e725b344862) |
+| Mon, 27 Oct 2025 15:52:46 GMT | Security Hardening Handbook | LinuxDev | [Read More](https://medium.com/p/6c5bb9655441) |
+| Mon, 27 Oct 2025 15:47:08 GMT | Understanding OWASP and the Top 10 Most Common Web Security Vulnerabilities Every Developer Should… | OpenDev | [Read More](https://medium.com/p/ea9f79096336) |
+| Mon, 27 Oct 2025 15:46:54 GMT | US-East-1 Will Probably Go Down Again | Ntombizakhona Mabaso | [Read More](https://medium.com/p/74e5014d0c01) |
+| Mon, 27 Oct 2025 15:41:54 GMT | What Happens When You Hit ‘Run’: The Secret Life of Your Code | Muhammad Ismail | [Read More](https://medium.com/p/cc79cd52cd9d) |
 | Mon, 27 Oct 2025 15:35:39 GMT | Ranjith Ravula on Personal Branding, Resilience, and Redefining the Future of Recruiting | Business Leaders of America Podcast | [Read More](https://medium.com/p/5cee62b74434) |
 | Mon, 27 Oct 2025 15:33:13 GMT | 4 Types of AI: From Reactive to Self-Aware Systems | O Código Futuro | [Read More](https://medium.com/p/ebae337be529) |
 | Mon, 27 Oct 2025 15:32:57 GMT | Top Cyber Security Solutions Building a Secure Digital Future | Nexasoftinfinity | [Read More](https://medium.com/p/1a8e1cb20149) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 12:55:58 GMT | Introduction to AI Cybersecurity: A Case Study in Prompt Injection | Jonathan Owen | [Read More](https://medium.com/p/cd58f7d76f5b) |
 | Mon, 27 Oct 2025 12:53:18 GMT | Critique of Individual Prepping | Cole Burnham | [Read More](https://medium.com/p/19920bc1d06e) |
 | Mon, 27 Oct 2025 12:52:06 GMT | The Quantum Shield: How BlackBerry Is Quietly Building the World’s First Post-Quantum Cyber Defence | Dr. Arvind Dube PhD | [Read More](https://medium.com/p/d48a24e00236) |
-| Mon, 27 Oct 2025 12:50:19 GMT | Cara Belajar Informatika Dengan Efektif | Keisya Wirawan | [Read More](https://medium.com/p/badaa77e0641) |
-| Mon, 27 Oct 2025 12:47:31 GMT | Cybersecurity Skills Gap: How You Can Fill It with the Right Certifications | IPSpecialist | [Read More](https://medium.com/p/a9ac4c8955aa) |
-| Mon, 27 Oct 2025 12:44:25 GMT | The Dark Side of Wi-Fi: What Your Laptop Is Telling Strangers | Arfa | [Read More](https://medium.com/p/4d6acfdcf635) |
-| Mon, 27 Oct 2025 12:42:52 GMT | The SaaS Innovation: From Features to Long-Term Value | Sismai Vazquez | [Read More](https://medium.com/p/bba8e0947f57) |
-| Mon, 27 Oct 2025 12:36:49 GMT | Blast From The Past: The JenniCam Legacy | Namir Sagheenanajar | [Read More](https://medium.com/p/3b363e78a227) |
-| Mon, 27 Oct 2025 12:33:45 GMT | Ketika Finance Bisa Jadi Admin: Privilege Escalation di Sistem Payroll | Robi Mohamad subagja | [Read More](https://medium.com/p/3344042258a0) |
-| Mon, 27 Oct 2025 12:33:32 GMT | Tools That Every Bug Bounty Hunter Should Master | TheCyberKnight | [Read More](https://medium.com/p/6ade8458b5d9) |
-| Mon, 27 Oct 2025 12:32:18 GMT | How to Unlock a Bathroom Door Twist Lock Without a Key: Quick & Safe Methods | Sure Lock & Key LLC | [Read More](https://medium.com/p/46aa96ea5b14) |
-| Mon, 27 Oct 2025 12:26:38 GMT | Specialized & Context-Aware: 5 RAG LLMs for Cyber Security | Mehdi | [Read More](https://medium.com/p/4670d73f67ca) |
-| Mon, 27 Oct 2025 12:25:52 GMT | [OverTheWire] Bandit Level 13 → 14 | H$nt | [Read More](https://medium.com/p/5c5b404e15c0) |
-| Mon, 27 Oct 2025 12:24:57 GMT | Google Cloud CMEK (Customer-Managed Encryption Keys) | Bhavesh Vala | [Read More](https://medium.com/p/265f4622e22d) |
-| Mon, 27 Oct 2025 12:24:09 GMT | [OverTheWire] Bandit Level 12 → 13 | H$nt | [Read More](https://medium.com/p/d2304bd221f3) |
-| Mon, 27 Oct 2025 12:23:53 GMT | Why Men Don’t Speak | Shashanksunny | [Read More](https://medium.com/p/fa36d97b4b90) |
-| Mon, 27 Oct 2025 12:21:46 GMT | BFSI in the Digital Crossfire: Building Cyber Resilience in the Fintech Era | Shreyas Ganpule | [Read More](https://medium.com/p/b80f46610160) |
-| Mon, 27 Oct 2025 12:21:36 GMT | Why I Always Restrict Outbound DNS on Servers (and How It Blocks Data Exfiltration) | Faruk Ahmed | [Read More](https://medium.com/p/d81456c158d8) |
-| Mon, 27 Oct 2025 12:21:22 GMT | [OverTheWire] Bandit Level 11 → 12 | H$nt | [Read More](https://medium.com/p/e70a81ba29db) |
