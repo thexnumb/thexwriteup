@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 15:16:50 GMT | “The $10,000 GitLab Flaw: How a Parameter Mixup Exposed Internal Files” | Aman Sharma | [Read More](https://medium.com/p/be862c071fa8) |
+| Mon, 27 Oct 2025 15:15:11 GMT | RSA Encryption and Decryption | Gadeabhishekreddy | [Read More](https://medium.com/p/57feb25a8ba7) |
+| Mon, 27 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 27, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c05fa207a13c) |
+| Mon, 27 Oct 2025 15:11:32 GMT | I was trying to run the EternalBlue exploit for Windows 7 / Server 2008 (from sleepya) in a lab… | Pedrokrezende | [Read More](https://medium.com/p/0a221cabc813) |
+| Mon, 27 Oct 2025 15:06:33 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/7dd252da6fd4) |
+| Mon, 27 Oct 2025 15:02:24 GMT | Simple Image Uploads in a React & .NET Application | James Austin Jr | [Read More](https://medium.com/p/bdf5661148f9) |
+| Mon, 27 Oct 2025 15:02:21 GMT | From Zero to Hero: How to Build Cybersecurity Skills Without a Degree | Code Link | [Read More](https://medium.com/p/8f8292d91137) |
+| Mon, 27 Oct 2025 14:57:28 GMT | Top Collaboration Tools for Remote Teams-Work Smarter, Not Harder | The Daily Technology | [Read More](https://medium.com/p/1ece2a03f49f) |
+| Mon, 27 Oct 2025 14:57:19 GMT | What the Louvre Heist teaches us about Application Security | Udit | [Read More](https://medium.com/p/6c274fbe54df) |
+| Mon, 27 Oct 2025 14:48:54 GMT | Demystifying the ARP Protocol: From Fundamentals to Advanced Attacks and Defenses | JIN | [Read More](https://medium.com/p/58e3d117bfac) |
+| Mon, 27 Oct 2025 14:47:28 GMT | Analisis Proses Xinu | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/82592c4a6693) |
+| Mon, 27 Oct 2025 14:46:47 GMT | SSRF — Part 3: Advanced Tricks, Timing Channels & Out-of-the-Box Detection | Abhishek meena | [Read More](https://medium.com/p/693c07c97015) |
+| Mon, 27 Oct 2025 14:42:19 GMT | How Small Businesses Open the Door to Big Cyberattacks | Faraz Weerabangsa | [Read More](https://medium.com/p/650639ce2c85) |
+| Mon, 27 Oct 2025 14:42:19 GMT | Case Study: The Stuxnet Legacy — What It Taught Us About OT Security | Cyberkech | [Read More](https://medium.com/p/fa53df6605fc) |
+| Mon, 27 Oct 2025 14:40:14 GMT | Beyond Zero Trust: Introducing LCAC (Least-Context Access Control) | Qstackfield | [Read More](https://medium.com/p/e36e07731039) |
 | Mon, 27 Oct 2025 14:31:17 GMT | Red Team Dorks: The Ultimate OSINT Recon Cheat-Sheet for Attack Surface Mapping | XoX | [Read More](https://medium.com/p/a94b4c778492) |
 | Mon, 27 Oct 2025 14:29:07 GMT | The domains of cybersecurity include: | Emenanjo Ndigwe | [Read More](https://medium.com/p/f989c31f5783) |
 | Mon, 27 Oct 2025 14:27:21 GMT | Security and Performance Aspects of Cgroups v2 | Eren Cankut Uysal | [Read More](https://medium.com/p/db16b29854a5) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 11:46:15 GMT | Importance of Quantum Key Distribution (QKD) in Protecting Critical Infrastructure | BlockByte | [Read More](https://medium.com/p/887aaffde0b1) |
 | Mon, 27 Oct 2025 11:32:57 GMT | Important Powershell Commands for Pentesters | Ria Banerjee | [Read More](https://medium.com/p/7b8de28d8137) |
 | Mon, 27 Oct 2025 11:31:52 GMT | 5 Slack Templates for Efficient Bug Reporting (Copy, Paste, Save Everyone’s Time) | Lola Ogungbuaro | [Read More](https://medium.com/p/650129d13165) |
-| Mon, 27 Oct 2025 11:29:37 GMT | How Red Team Testing Exposes Hidden Weaknesses Before Hackers Do | SmartCLOUD Australia | [Read More](https://medium.com/p/9e7499b05481) |
-| Mon, 27 Oct 2025 11:26:34 GMT | Part 1: Ghost in the Machine: The Art of Network Pivoting(Chisel)‍☠️ | own_the_net | [Read More](https://medium.com/p/3aa61217ce87) |
-| Mon, 27 Oct 2025 11:23:40 GMT | 8 Hidden iPhone 15 Pro Max Shortcuts That Save You Time Every Day | Grace Anderson | [Read More](https://medium.com/p/41d6f4718d65) |
-| Mon, 27 Oct 2025 11:23:28 GMT | A Lesson from Enterprise Security for Automobile Security | Sumit Chouhan | [Read More](https://medium.com/p/b5f7c085a4ab) |
-| Mon, 27 Oct 2025 11:22:18 GMT | LinkedIn Has Become the New Phishing Ground for Web3 Engineers | Misho Janiashvili | [Read More](https://medium.com/p/ef5266fb1402) |
-| Mon, 27 Oct 2025 11:13:05 GMT | m0lecon web writeups | Bhavya Gupta | [Read More](https://medium.com/p/d31ae9cb5335) |
-| Mon, 27 Oct 2025 11:12:17 GMT | After the Fire: the Human and Technical Anatomy of Cyber Recovery | Rodrigo Gutierrez | [Read More](https://medium.com/p/35edd559a58f) |
-| Mon, 27 Oct 2025 11:07:55 GMT | SQLMAP tutorial | Omar Pineda | [Read More](https://medium.com/p/feab66a77832) |
-| Mon, 27 Oct 2025 11:02:38 GMT | CTF Basics: Understanding Web Pages | Walter Moar | [Read More](https://medium.com/p/42365ca6afc0) |
-| Mon, 27 Oct 2025 11:01:46 GMT | Hacking in Movies vs. Reality | Your's Nightmare | [Read More](https://medium.com/p/3aabc37193f4) |
-| Mon, 27 Oct 2025 11:01:32 GMT | The Courage of Being Seen | Melissa Tripp | [Read More](https://medium.com/p/1952a987e30d) |
-| Mon, 27 Oct 2025 10:57:03 GMT | “From Curiosity to Career: My Experience Learning Ethical Hacking at Boston Institute of Analytics” | Afreedalok | [Read More](https://medium.com/p/05e77521b6b4) |
-| Mon, 27 Oct 2025 10:54:25 GMT | Review: The New CRTA Exam — Is It Easier Now? | 0xc4t | [Read More](https://medium.com/p/bb5f0684cc2c) |
-| Mon, 27 Oct 2025 10:51:05 GMT | How CompTIA Security+ Helps with Network Security Careers | Niyakohli | [Read More](https://medium.com/p/5dd91134b808) |
-| Mon, 27 Oct 2025 10:50:05 GMT | ExtraHOP — NDR | Moamjad | [Read More](https://medium.com/p/2ea63c7e3634) |
