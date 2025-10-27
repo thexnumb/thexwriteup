@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 21:12:22 GMT | Secure/Multipurpose Internet Mail Extensions Signing with a Personal CA in Thunderbird | Erebus | [Read More](https://medium.com/p/9952761749ed) |
+| Mon, 27 Oct 2025 20:55:37 GMT | Building a Hidden Service: A Technical and Ethical Guide to Creating a Website on the Darknet | Douglas Brian Neves | [Read More](https://medium.com/p/59d6cccf1d89) |
+| Mon, 27 Oct 2025 20:54:59 GMT | I use to sleep in the car… with $0 in my pocket…. Now I work as a Penatration tester | GhostInject | [Read More](https://medium.com/p/6ed3f35f211a) |
+| Mon, 27 Oct 2025 20:50:26 GMT | Salesforce vs HubSpot - CRM Comparison Guide for Business Leaders | Digital Transformation Playbook | [Read More](https://medium.com/p/edb3e0e3855c) |
+| Mon, 27 Oct 2025 20:47:50 GMT | Tracking Lateral Movement — Named Pipes, Scheduler, Services, Registry, and DCOM (Event IDs) | Dean | [Read More](https://medium.com/p/4f4670e70172) |
 | Mon, 27 Oct 2025 20:16:47 GMT | Hack The Boo CTF: A Technical Writeup on Web, Pwn, and Forensics | Purvansh Bhatt | [Read More](https://medium.com/p/bfb9a2aac997) |
 | Mon, 27 Oct 2025 20:12:57 GMT | DuoKey Achieves TISAX® Certification | DuoKey | [Read More](https://medium.com/p/6e27992303c6) |
 | Mon, 27 Oct 2025 20:06:58 GMT | TryHackMe walkthrough Core Windows Processes | The Commoness | [Read More](https://medium.com/p/e585061d168d) |
@@ -108,8 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 14:57:19 GMT | What the Louvre Heist teaches us about Application Security | Udit | [Read More](https://medium.com/p/6c274fbe54df) |
 | Mon, 27 Oct 2025 14:48:54 GMT | Demystifying the ARP Protocol: From Fundamentals to Advanced Attacks and Defenses | JIN | [Read More](https://medium.com/p/58e3d117bfac) |
 | Mon, 27 Oct 2025 14:47:28 GMT | Analisis Proses Xinu | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/82592c4a6693) |
-| Mon, 27 Oct 2025 14:46:47 GMT | SSRF — Part 3: Advanced Tricks, Timing Channels & Out-of-the-Box Detection | Abhishek meena | [Read More](https://medium.com/p/693c07c97015) |
-| Mon, 27 Oct 2025 14:42:19 GMT | How Small Businesses Open the Door to Big Cyberattacks | Faraz Weerabangsa | [Read More](https://medium.com/p/650639ce2c85) |
-| Mon, 27 Oct 2025 14:42:19 GMT | Case Study: The Stuxnet Legacy — What It Taught Us About OT Security | Cyberkech | [Read More](https://medium.com/p/fa53df6605fc) |
-| Mon, 27 Oct 2025 14:40:14 GMT | Beyond Zero Trust: Introducing LCAC (Least-Context Access Control) | Qstackfield | [Read More](https://medium.com/p/e36e07731039) |
-| Mon, 27 Oct 2025 14:31:17 GMT | Red Team Dorks: The Ultimate OSINT Recon Cheat-Sheet for Attack Surface Mapping | XoX | [Read More](https://medium.com/p/a94b4c778492) |
