@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 11:29:37 GMT | How Red Team Testing Exposes Hidden Weaknesses Before Hackers Do | SmartCLOUD Australia | [Read More](https://medium.com/p/9e7499b05481) |
+| Mon, 27 Oct 2025 11:26:34 GMT | Part 1: Ghost in the Machine: The Art of Network Pivoting(Chisel)‍☠️ | own_the_net | [Read More](https://medium.com/p/3aa61217ce87) |
+| Mon, 27 Oct 2025 11:23:40 GMT | 8 Hidden iPhone 15 Pro Max Shortcuts That Save You Time Every Day | Grace Anderson | [Read More](https://medium.com/p/41d6f4718d65) |
+| Mon, 27 Oct 2025 11:23:28 GMT | A Lesson from Enterprise Security for Automobile Security | Sumit Chouhan | [Read More](https://medium.com/p/b5f7c085a4ab) |
+| Mon, 27 Oct 2025 11:22:18 GMT | LinkedIn Has Become the New Phishing Ground for Web3 Engineers | Misho Janiashvili | [Read More](https://medium.com/p/ef5266fb1402) |
+| Mon, 27 Oct 2025 11:13:05 GMT | m0lecon web writeups | Bhavya Gupta | [Read More](https://medium.com/p/d31ae9cb5335) |
 | Mon, 27 Oct 2025 11:12:17 GMT | After the Fire: the Human and Technical Anatomy of Cyber Recovery | Rodrigo Gutierrez | [Read More](https://medium.com/p/35edd559a58f) |
 | Mon, 27 Oct 2025 11:07:55 GMT | SQLMAP tutorial | Omar Pineda | [Read More](https://medium.com/p/feab66a77832) |
 | Mon, 27 Oct 2025 11:02:38 GMT | CTF Basics: Understanding Web Pages | Walter Moar | [Read More](https://medium.com/p/42365ca6afc0) |
@@ -107,9 +113,3 @@ In… | Hamzaqureshiqureshi | [Read More](https://medium.com/p/e24dc925fdc5) |
 | Mon, 27 Oct 2025 06:46:37 GMT | Navigating the Future: Essential Career Strategies for IT and Software Engineering Professionals in… | okot aaron | [Read More](https://medium.com/p/4000d7f31363) |
 | Mon, 27 Oct 2025 06:43:15 GMT | Every Beginner Misses Bugs — Until They Learn This Mindset | Vivek PS | [Read More](https://medium.com/p/a995db2c4707) |
 | Mon, 27 Oct 2025 06:31:28 GMT | ️‍♂️ The Ultimate Guide to Using the Wayback Machine for Ethical Recon & Security Research | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/089337aff6c0) |
-| Mon, 27 Oct 2025 06:25:59 GMT | The Daily Tech Digest: 27 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/37ffeea5e6d4) |
-| Mon, 27 Oct 2025 06:23:39 GMT | Top 11 cyber stories (Week: Oct 20– Oct 26, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/6fb8b3797e09) |
-| Mon, 27 Oct 2025 06:19:34 GMT | Ethical Hacking Tools Yo‌u Should Master in 2025 (And Why They Matte⁠r) | Aadhidev Anihac | [Read More](https://medium.com/p/4584c323e8de) |
-| Mon, 27 Oct 2025 06:18:16 GMT | Top 7 Skills You Need to‍ Become a Su‍ccessful Ethical Hack⁠er | Aadhidev Anihac | [Read More](https://medium.com/p/b555f5073ba7) |
-| Mon, 27 Oct 2025 06:17:08 GMT | Top 5 Myth‍s About‌ Ethica‍l Hack‍in‍g — Busted by‍ Expe‌rts | Aadhidev Anihac | [Read More](https://medium.com/p/918e16b6ac1a) |
-| Mon, 27 Oct 2025 06:11:11 GMT | JWT vs PASETO — A Node.js Developer’s Guide to Modern Token-Based Authentication | NonCoderSuccess | [Read More](https://medium.com/p/d83ddd7bc691) |
