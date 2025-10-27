@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 07:12:25 GMT | Attacks by OSI Layer what they are, how they work, attacker tools, and defenses | Ritesh Thorve | [Read More](https://medium.com/p/a4a58b0dae2a) |
+| Mon, 27 Oct 2025 07:07:44 GMT | Blocky - HTB Walkthrough | Simi | [Read More](https://medium.com/p/21d494f3ab72) |
+| Mon, 27 Oct 2025 07:04:52 GMT | 7 Genius iPhone 5s Hacks to Boost Speed and Battery Life | Chloe White | [Read More](https://medium.com/p/663dbee49a97) |
+| Mon, 27 Oct 2025 07:04:40 GMT | Urgent Alert: Critical Microsoft WSUS Vulnerability (CVE-2025–59287) Actively Exploited — Patch Now! | Germano Costi | [Read More](https://medium.com/p/8d647402ac6e) |
+| Mon, 27 Oct 2025 07:03:51 GMT | Networking Explained: From Basics to Advanced Concepts | Ritesh Thorve | [Read More](https://medium.com/p/daac95b53278) |
+| Mon, 27 Oct 2025 07:02:21 GMT | This Certification Transformed the Way I See My Career | Amuda Rukayat (rukeiyahh) | [Read More](https://medium.com/p/b11493b93521) |
+| Mon, 27 Oct 2025 07:02:19 GMT | Secure Integrations, Safer Data: GDPR in n8n & Zapier | Syntal | [Read More](https://medium.com/p/a513fa8e2848) |
+| Mon, 27 Oct 2025 06:56:31 GMT | Core Windows Processes - Endpoint Security Monitoring — THM [2025] | Rahul | [Read More](https://medium.com/p/858539fde18f) |
+| Mon, 27 Oct 2025 06:52:04 GMT | Assets represent everything valuable to an organization, from digital infrastructure and devices… | Adeleke Theophilus O | [Read More](https://medium.com/p/b1597d20818a) |
+| Mon, 27 Oct 2025 06:50:03 GMT | Cloud Hosting Vs VPS Hosting: Which One You Should Choose and Why? | HostNOC | [Read More](https://medium.com/p/bd381c22a4c8) |
+| Mon, 27 Oct 2025 06:48:05 GMT | Why 90% of Websites Fail at Basic Security Headers | Vipul Sonule | [Read More](https://medium.com/p/905b76a9c52c) |
+| Mon, 27 Oct 2025 06:46:37 GMT | Navigating the Future: Essential Career Strategies for IT and Software Engineering Professionals in… | okot aaron | [Read More](https://medium.com/p/4000d7f31363) |
+| Mon, 27 Oct 2025 06:43:15 GMT | Every Beginner Misses Bugs — Until They Learn This Mindset | Vivek PS | [Read More](https://medium.com/p/a995db2c4707) |
 | Mon, 27 Oct 2025 06:31:28 GMT | ️‍♂️ The Ultimate Guide to Using the Wayback Machine for Ethical Recon & Security Research | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/089337aff6c0) |
 | Mon, 27 Oct 2025 06:25:59 GMT | The Daily Tech Digest: 27 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/37ffeea5e6d4) |
 | Mon, 27 Oct 2025 06:23:39 GMT | Top 11 cyber stories (Week: Oct 20– Oct 26, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/6fb8b3797e09) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 19:31:53 GMT | The Moment of Truth — Exploitation and Installation | Samirah A.O | [Read More](https://medium.com/p/cf006d1c9f91) |
 | Sun, 26 Oct 2025 19:11:26 GMT | Automating the Hack: When AI Writes the Payload | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/217246ef0898) |
 | Sun, 26 Oct 2025 19:08:11 GMT | ILBLOGDICRISTIANGALLO.COM | Cristian Gallo | [Read More](https://medium.com/p/3584aea51be4) |
-| Sun, 26 Oct 2025 19:08:01 GMT | Tech Enthusiast: What I Learned About Cybersecurity by Building My Own Transparent Filtration… | Aaron Constant | [Read More](https://medium.com/p/9e1c41a71b92) |
-| Sun, 26 Oct 2025 19:03:01 GMT | Day 105 — Natas Series OverTheWire Walkthrough. | Jinay | [Read More](https://medium.com/p/2a3fac597134) |
-| Sun, 26 Oct 2025 18:52:37 GMT | 30 Days of Tech Resolutions: Day 16 — Security Checkup | Ben Taylor | [Read More](https://medium.com/p/08fad02eb118) |
-| Sun, 26 Oct 2025 18:51:15 GMT | ek0msUSB: When Your USB Drive Has More Backdoors Than IKEA (And The Manual To Use Them) | ekomsSavior | [Read More](https://medium.com/p/4b78fca0fa31) |
-| Sun, 26 Oct 2025 18:47:27 GMT | Rudra OSINT: Surgical Truth. Relentless Clarity. | Rudra Open Source Intelligence | [Read More](https://medium.com/p/1ef9e0ab600b) |
-| Sun, 26 Oct 2025 18:45:21 GMT | Complete Separability Analysis of Pure Quantum States Using Karnaugh Maps | Paulo BM Sousa | [Read More](https://medium.com/p/3ca86d59b39a) |
-| Sun, 26 Oct 2025 18:33:34 GMT | Why I rejected job offers and spent years learning the hard way | Maxime Siffert | [Read More](https://medium.com/p/f0c8687912b8) |
-| Sun, 26 Oct 2025 18:22:51 GMT | The Hidden Cost of CMMC Non-Compliance: Why Waiting Could Cost You Millions | Olivier Maignan | [Read More](https://medium.com/p/19150fe73aa3) |
-| Sun, 26 Oct 2025 18:22:21 GMT | My experience making a WAF | 1rhino2 | [Read More](https://medium.com/p/ed4b50a9d070) |
-| Sun, 26 Oct 2025 18:12:03 GMT | When the Plumbing Becomes the Product | Jim Collins | [Read More](https://medium.com/p/b1e21c78d7b2) |
-| Sun, 26 Oct 2025 18:11:59 GMT | Holding On Through the Messiness of Life | hello heide | [Read More](https://medium.com/p/fdf7309c5e18) |
-| Sun, 26 Oct 2025 18:07:02 GMT | Master Network Penetration Testing — Professional PNPT-Style Course (Only $30) | Barukh Aswad | [Read More](https://medium.com/p/11b802fa4655) |
-| Sun, 26 Oct 2025 17:58:50 GMT | Master Ethical Hacking with the TCM Practical Ethical Hacking Course — Now for Only $30! | Barukh Aswad | [Read More](https://medium.com/p/40a37b9f61c2) |
