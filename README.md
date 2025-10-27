@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 19:31:06 GMT | O CÉREBRO COMO MODELO PARA NOVOS BANCOS DE DADOS | Murilo Ferreira | [Read More](https://medium.com/p/b23d4adee204) |
+| Mon, 27 Oct 2025 19:26:51 GMT | Shaping the Future of Finance, Technology & Cybersecurity in Africa | Bloomberg Feature - Executive Spotlight | [Read More](https://medium.com/p/86e48291b0a4) |
+| Mon, 27 Oct 2025 19:25:48 GMT | Hashtagged — Writeup | Abdullah | [Read More](https://medium.com/p/fb0f15016bfc) |
+| Mon, 27 Oct 2025 19:24:20 GMT | How to Configure Active Directory Certificate Services (AD CS) — Part 2 | Cybersensus | [Read More](https://medium.com/p/cd78e9f6daea) |
+| Mon, 27 Oct 2025 19:21:53 GMT | Policy vs Gate: Authorization Patterns in Laravel | Ann R. | [Read More](https://medium.com/p/98a5c49a420e) |
+| Mon, 27 Oct 2025 19:18:17 GMT | Building Military-Grade Encryption into a Secret Sharing App | Brandon Landry | [Read More](https://medium.com/p/a8b0be52c2e3) |
+| Mon, 27 Oct 2025 19:15:49 GMT | I Thought I Needed to be Strong Until I Finally Cried | Mian Umar Farooq | [Read More](https://medium.com/p/c67a9b2bee88) |
+| Mon, 27 Oct 2025 19:14:40 GMT | When Your Browser Starts Thinking: The Hidden Dangers of AI Agents Online | Tapendra Dev | [Read More](https://medium.com/p/08752d918d97) |
 | Mon, 27 Oct 2025 19:10:06 GMT | Start Owning Your Privacy Before Someone Else Does! Make Privacy As Your Default Settings. | NnFace | [Read More](https://medium.com/p/8722d7f20c96) |
+| Mon, 27 Oct 2025 19:09:28 GMT | eJPT — 4.1 Web Application Penetration Testing | Dharmendrakumar | [Read More](https://medium.com/p/1fc636e6cabe) |
+| Mon, 27 Oct 2025 19:07:10 GMT | How to Secure a Legal AI Chatbot So It Doesn’t Leak Client Data With Easy Steps to Protect Your… | Josh Lee | [Read More](https://medium.com/p/a1fdcba56f3a) |
 | Mon, 27 Oct 2025 19:05:58 GMT | Top 10 Common API Security Mistakes (and How to Fix Them) | Tuhin Kairi | [Read More](https://medium.com/p/ef9f5e2be6cd) |
 | Mon, 27 Oct 2025 19:05:39 GMT | eJPT — 4.1 CTF 1 Web Application Penetration Testing | Dharmendrakumar | [Read More](https://medium.com/p/663b181029b3) |
+| Mon, 27 Oct 2025 19:03:21 GMT | Strengthening AI Defenses through Adversarial Training for LLMs | Valdez Ladd | [Read More](https://medium.com/p/16f2f95c6cc4) |
 | Mon, 27 Oct 2025 19:02:58 GMT | Conversor (Hack The Box) — Full Description and Step-by-Step Guide | KRY | [Read More](https://medium.com/p/3b0315848c4c) |
 | Mon, 27 Oct 2025 19:01:51 GMT | Hack The Boo 2025 — Practice — Web | n01rrr | [Read More](https://medium.com/p/c814fe10d85a) |
 | Mon, 27 Oct 2025 18:35:37 GMT | Living off the Land: Why Your Network Sees Attacks as Normal Traffic - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/8f56dbe72984) |
@@ -102,14 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 14:21:51 GMT | Cybersecurity Regulations in Critical Infrastructure: Navigating New Rules (NIS2, CISA directives… | Cyberkech | [Read More](https://medium.com/p/608e82dad002) |
 | Mon, 27 Oct 2025 14:18:58 GMT | Can we sip, a little? | xO_CosmicGiggles_xO | [Read More](https://medium.com/p/53d0b717b59b) |
 | Mon, 27 Oct 2025 14:17:06 GMT | Protecting Louisiana Homes with Smart Security Solutions from A Plus Security Systems, LLC | Habaradasshazz | [Read More](https://medium.com/p/65b4a4cb69ff) |
-| Mon, 27 Oct 2025 14:15:55 GMT | I Built an AI Smart Contract Auditor That Actually Works (Here’s the Proof) | Dhillon Andrew Kannabhiran | [Read More](https://medium.com/p/61918d2f70f1) |
-| Mon, 27 Oct 2025 14:12:46 GMT | Introducing IAMSage : The Free, Open-Source LLM Assistant for IAM Pros | Abhilash | [Read More](https://medium.com/p/8f5fa383a259) |
-| Mon, 27 Oct 2025 14:11:52 GMT | Project Zero is a team that has been assembled by Google to prevent attackers from exploiting… | Emenanjo Ndigwe | [Read More](https://medium.com/p/d6cf9b6dc5d9) |
-| Mon, 27 Oct 2025 14:11:51 GMT | ULTRATECH -TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/28ee4da06125) |
-| Mon, 27 Oct 2025 14:11:51 GMT | 06 -Kali Linux-Persistence: Turning Temporary Access into Lasting Control | SDNTechForum | [Read More](https://medium.com/p/f749c0157a82) |
-| Mon, 27 Oct 2025 14:09:31 GMT | Start Here — About 30 Days of Red Team | Maxwell Cross | [Read More](https://medium.com/p/50d0a3214e9f) |
-| Mon, 27 Oct 2025 14:07:51 GMT | Is Somebody Else Reading Your E-Mails? The Ides of Email! | Bobby Andrews | [Read More](https://medium.com/p/00604499a4ae) |
-| Mon, 27 Oct 2025 14:06:01 GMT | Your Organization is not Ready for a Digital Transformation | Manuel Tress | [Read More](https://medium.com/p/9eded2e53408) |
-| Mon, 27 Oct 2025 14:03:35 GMT | CYBERCON 2025 — “Please find my u and v” — Crypto Writeup | Shoaib Bin Rashid | [Read More](https://medium.com/p/8a0bcaa4f247) |
-| Mon, 27 Oct 2025 14:02:23 GMT | Cyber Briefing: 2025.10.27 | CyberMaterial | [Read More](https://medium.com/p/9482f6ce43fa) |
-| Mon, 27 Oct 2025 14:00:07 GMT | Deathnote Vulnhub | Qargi | [Read More](https://medium.com/p/63208daa0f44) |
