@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 22:30:23 GMT | TENURE OF MILITARY SERVICE CHIEFS — GLOBAL BEST PRACTICES VS NIGERIA’S APPROACH-Do Military… | Sgshehu | [Read More](https://medium.com/p/ae3286176e7f) |
+| Mon, 27 Oct 2025 22:23:55 GMT | Breaking News!!! Gmail Confirmed 183M Account Leak—What We Do Now | My Life | [Read More](https://medium.com/p/caf1939353ee) |
 | Mon, 27 Oct 2025 22:12:13 GMT | Exfiltrating information through Telegram | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f1f9ec9204f5) |
 | Mon, 27 Oct 2025 22:06:11 GMT | According to Google’s latest security advisory, cyber-actors are increasingly leveraging bogus job… | SCtoCS | [Read More](https://medium.com/p/aa01923b65a9) |
 | Mon, 27 Oct 2025 22:02:47 GMT | Smishing Triad’s Global Domain Surge: Over 194,000 Malicious URLs Fuel SMS Phishing Empire | SCtoCS | [Read More](https://medium.com/p/4eaf00794122) |
@@ -111,5 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 15:32:57 GMT | Top Cyber Security Solutions Building a Secure Digital Future | Nexasoftinfinity | [Read More](https://medium.com/p/1a8e1cb20149) |
 | Mon, 27 Oct 2025 15:31:22 GMT | Aligning Internal IT Processes in a Non-Technical Industry Taught Me the True Value of GRC | R-Squared Cyber | [Read More](https://medium.com/p/5c16d5cccd15) |
 | Mon, 27 Oct 2025 15:31:11 GMT | How i hacked my GPON router | Natig Mammadli | [Read More](https://medium.com/p/aebbe81ff200) |
-| Mon, 27 Oct 2025 15:25:17 GMT | CVE-2025–60542 — TypeORM+MySQL SQLi =< 0.3.25 | Javad Alizada | [Read More](https://medium.com/p/a1b32bc60453) |
-| Mon, 27 Oct 2025 15:25:12 GMT | Understanding Backdoors and Payloads: A Basic Guide | Abel Thomas | [Read More](https://medium.com/p/94900ec4c533) |
