@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 13:28:09 GMT | Un año después | Juanfer | [Read More](https://medium.com/p/9c0c3acf2d67) |
+| Mon, 27 Oct 2025 13:26:52 GMT | Resilience by Design: Using Risk Assessment to Inform Architecture Decisions | Doug Jaworski | [Read More](https://medium.com/p/f579073edf16) |
+| Mon, 27 Oct 2025 13:26:19 GMT | Network Sniffing with tcpdump and Wireshark: Step-by-Step Hacker Edition for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/7e34f455ec37) |
+| Mon, 27 Oct 2025 13:17:38 GMT | He’s becoming a man, and I’m becoming the woman who learned that love doesn’t demand. | Purpose Peac3 | [Read More](https://medium.com/p/b1552ccc8fbf) |
+| Mon, 27 Oct 2025 13:11:07 GMT | The Essential Guide to IT Hardware in 2025: What Every Business Should Know | Cyberbusinesssolutions | [Read More](https://medium.com/p/4e82cc9dd67a) |
+| Mon, 27 Oct 2025 13:10:26 GMT | Securing the Future: Cyber Security Strategies for Tomorrow | Cyber Security Research | [Read More](https://medium.com/p/7b063df198c7) |
+| Mon, 27 Oct 2025 13:09:55 GMT | The Ethics of Hacking: Differentiating Between White, Gray, and Black Hats | Samina Perveen | [Read More](https://medium.com/p/448fc31d4679) |
+| Mon, 27 Oct 2025 13:07:38 GMT | The Psychology Behind Clicking That Link | Rabail Zaheer | [Read More](https://medium.com/p/a4c2c486acbb) |
+| Mon, 27 Oct 2025 13:07:24 GMT | The Day I Realized I Could Be Hacked in Seconds | Aj | [Read More](https://medium.com/p/3a7f495aaa51) |
+| Mon, 27 Oct 2025 13:07:18 GMT | The Hidden Goldmine: Why API Bugs Pay So Much | Vipul Sonule | [Read More](https://medium.com/p/e570cc4ca988) |
+| Mon, 27 Oct 2025 13:06:08 GMT | Step-by-Step OSINT Reconnaissance for Ethical Hackers | Shahzaib | [Read More](https://medium.com/p/459b8ed6a2af) |
+| Mon, 27 Oct 2025 13:02:22 GMT | Millions of Donor Records & Receipts Leaked — 0‑Click IDOR Exposes Payments $$$ | Prayers Khristi | [Read More](https://medium.com/p/76f9af6c3408) |
+| Mon, 27 Oct 2025 12:58:37 GMT | Know a Bit about Cyber Security | Sohan | [Read More](https://medium.com/p/7f1015ba3e31) |
+| Mon, 27 Oct 2025 12:55:58 GMT | Introduction to AI Cybersecurity: A Case Study in Prompt Injection | Jonathan Owen | [Read More](https://medium.com/p/cd58f7d76f5b) |
+| Mon, 27 Oct 2025 12:53:18 GMT | Critique of Individual Prepping | Cole Burnham | [Read More](https://medium.com/p/19920bc1d06e) |
+| Mon, 27 Oct 2025 12:52:06 GMT | The Quantum Shield: How BlackBerry Is Quietly Building the World’s First Post-Quantum Cyber Defence | Dr. Arvind Dube PhD | [Read More](https://medium.com/p/d48a24e00236) |
+| Mon, 27 Oct 2025 12:50:19 GMT | Cara Belajar Informatika Dengan Efektif | Keisya Wirawan | [Read More](https://medium.com/p/badaa77e0641) |
+| Mon, 27 Oct 2025 12:47:31 GMT | Cybersecurity Skills Gap: How You Can Fill It with the Right Certifications | IPSpecialist | [Read More](https://medium.com/p/a9ac4c8955aa) |
 | Mon, 27 Oct 2025 12:44:25 GMT | The Dark Side of Wi-Fi: What Your Laptop Is Telling Strangers | Arfa | [Read More](https://medium.com/p/4d6acfdcf635) |
+| Mon, 27 Oct 2025 12:42:52 GMT | The SaaS Innovation: From Features to Long-Term Value | Sismai Vazquez | [Read More](https://medium.com/p/bba8e0947f57) |
+| Mon, 27 Oct 2025 12:36:49 GMT | Blast From The Past: The JenniCam Legacy | Namir Sagheenanajar | [Read More](https://medium.com/p/3b363e78a227) |
 | Mon, 27 Oct 2025 12:33:45 GMT | Ketika Finance Bisa Jadi Admin: Privilege Escalation di Sistem Payroll | Robi Mohamad subagja | [Read More](https://medium.com/p/3344042258a0) |
 | Mon, 27 Oct 2025 12:33:32 GMT | Tools That Every Bug Bounty Hunter Should Master | TheCyberKnight | [Read More](https://medium.com/p/6ade8458b5d9) |
 | Mon, 27 Oct 2025 12:32:18 GMT | How to Unlock a Bathroom Door Twist Lock Without a Key: Quick & Safe Methods | Sure Lock & Key LLC | [Read More](https://medium.com/p/46aa96ea5b14) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 08:46:07 GMT | Introduction | Harshal Jethwa | [Read More](https://medium.com/p/8e14228596af) |
 | Mon, 27 Oct 2025 08:45:12 GMT | Can We Trust AI with Public Safety? | Neova Solutions | [Read More](https://medium.com/p/d37fc4025892) |
 | Mon, 27 Oct 2025 08:44:58 GMT | The Unbreakable Connection: How Quantum Networking is Forging a $11 Billion Cybersecurity Frontier | Sonu mark spark solutions | [Read More](https://medium.com/p/4172f317c05e) |
-| Mon, 27 Oct 2025 08:44:26 GMT | Sonatype Nexus Path Trevarsal Zafiyeti ve Canlı Örnek Üzerinde İstismarı (CVE-2024–4956) | mehmet şerif paşa | [Read More](https://medium.com/p/c5d651c2c739) |
-| Mon, 27 Oct 2025 08:38:13 GMT | DOMAINS OF CYBERSECURITY | Chiamaka Ezeike | [Read More](https://medium.com/p/46a85f0a9124) |
-| Mon, 27 Oct 2025 08:34:13 GMT | The Hidden Dangers of AI-Powered Browsers: How Prompt Injection Attacks Are Turning Your Smart… | Germano Costi | [Read More](https://medium.com/p/a196f9d16652) |
-| Mon, 27 Oct 2025 08:31:07 GMT | “كل ما تريد معرفته عن الـVPN: السلاح السري لحماية هويتك على الإنترنت | Yehya Ahmed | [Read More](https://medium.com/p/7f032993863e) |
-| Mon, 27 Oct 2025 08:23:08 GMT | Ransomware Explained: What It Is and How It Affects You | TheCyberKnight | [Read More](https://medium.com/p/2e1cf3993b96) |
-| Mon, 27 Oct 2025 08:20:10 GMT | What Is Blind SQL Injection? Content-Based and Time-Based Approaches | Sara | [Read More](https://medium.com/p/ee0d47789483) |
-| Mon, 27 Oct 2025 08:20:00 GMT | The Lowdown on ChatGPT Atlas — and Why It Might Redefine the Browser Itself | Rajiv Gopinath | [Read More](https://medium.com/p/8526c10d4972) |
-| Mon, 27 Oct 2025 08:17:06 GMT | What It Would Take for 5G to Actually Work in Nigeria | The Diary Of a Data Professional | [Read More](https://medium.com/p/1d812ef66447) |
-| Mon, 27 Oct 2025 08:10:56 GMT | Best Mobile Application Security Testing Tools for Android and iOS | cyber security Updates | [Read More](https://medium.com/p/1d81632d3744) |
-| Mon, 27 Oct 2025 08:08:13 GMT | Jenkins 취약점 이슈 (Script Security sandbox bypass vulnerability in Email Extension Plugin) | 재호 | [Read More](https://medium.com/p/c1701c823b81) |
-| Mon, 27 Oct 2025 08:05:58 GMT | The AI Vendor Questionnaire That Exposes Hidden Security Risks | SecureSlate | [Read More](https://medium.com/p/4f0e48a6f88e) |
-| Mon, 27 Oct 2025 08:05:01 GMT | Cảnh Báo Bảo Mật WordPress: 8,7 Triệu Cuộc Tấn Công Chỉ Trong 48 Giờ | BinhNN Digital – SEO - Ads - Web Solutions | [Read More](https://medium.com/p/82da86d0ed35) |
-| Mon, 27 Oct 2025 08:03:43 GMT | Day 71: Perimeter vs DMZ vs segmentation- understanding network defense | unica 02 | [Read More](https://medium.com/p/139772fb4621) |
-| Mon, 27 Oct 2025 08:02:43 GMT | The Era of Vulnerability: When a Single Failure Infects Hundreds of Companies | X1 EcoChain | [Read More](https://medium.com/p/60b678532591) |
-| Mon, 27 Oct 2025 07:56:33 GMT | Best Managed Cybersecurity Services Provider in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/f9b0553e29a0) |
-| Mon, 27 Oct 2025 07:56:14 GMT | Cyber Security Courses That Help You Stay Ahead of Hackers | The Knowledge Academy | [Read More](https://medium.com/p/08a50ba65c3b) |
-| Mon, 27 Oct 2025 07:56:11 GMT | A CISO’s View: The Real Risks and Rules for ‘Agentic’ AI Browsers | Alexander Raif | [Read More](https://medium.com/p/641dd069bb7c) |
-| Mon, 27 Oct 2025 07:53:01 GMT | From Risk to Resilience: The Role of Cyber Security Awareness Training | The Knowledge Academy | [Read More](https://medium.com/p/0185fd5f94ac) |
-| Mon, 27 Oct 2025 07:50:41 GMT | The Cracks Are Where the Light Gets Out | Nawab Khan | [Read More](https://medium.com/p/caa1b20dedd3) |
-| Mon, 27 Oct 2025 07:50:39 GMT | Breaking Root: The Ultimate Linux Priv Esc Handbook - Cyber Codex | Aenosh Rajora | [Read More](https://medium.com/p/64431eede783) |
