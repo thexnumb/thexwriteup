@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 05:36:48 GMT | How a VPN Improves Your Online Privacy and Security. | Gaurav Kumar | [Read More](https://medium.com/p/e9558f1ca707) |
+| Mon, 27 Oct 2025 05:31:51 GMT | Solving the Performance vs Security Dilemma in .NET Core APIs with JWKS Caching | Okan Yurt | [Read More](https://medium.com/p/be24d8961a18) |
+| Mon, 27 Oct 2025 05:27:47 GMT | WhatsApp Isn’t Just for Chatting Anymore — Here’s What You’re Missing | Jabeen | [Read More](https://medium.com/p/f0e9560e616a) |
+| Mon, 27 Oct 2025 05:22:48 GMT | Understanding Network Security: The Backbone of Cyber Defense | Ritesh Thorve | [Read More](https://medium.com/p/929b077b1b4e) |
 | Mon, 27 Oct 2025 05:04:54 GMT | How to Hide WordPress Login Page From Hackers [2 Effective Methods] | Hamza Hanif | [Read More](https://medium.com/p/27e5fb2bde16) |
 | Mon, 27 Oct 2025 05:04:32 GMT | How Authentication Actually Works: Simplifying Basic, Bearer, and JWT | Ashwin Sridharan | [Read More](https://medium.com/p/93f1e338cf86) |
 | Mon, 27 Oct 2025 05:00:37 GMT | Cara Belajar Informatika Dengan Efektif | keisyawirawan | [Read More](https://medium.com/p/def6057d84a9) |
@@ -108,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 17:30:01 GMT | Nigeria cybercrime law | Chiamaka Ezeike | [Read More](https://medium.com/p/96f7f12a0dca) |
 | Sun, 26 Oct 2025 17:16:29 GMT | How To Not Get in Trouble Finding Beg Bounties | Rehan Sohail | [Read More](https://medium.com/p/bee02cbef619) |
 | Sun, 26 Oct 2025 17:12:55 GMT | When AI Becomes Intuition: Why the Real Superpower Isn’t Algorithms. | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/c457f660367a) |
-| Sun, 26 Oct 2025 16:52:55 GMT | Why Test Automation Fails — And How to Prevent It
-Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](https://medium.com/p/a4f37b542a14) |
-| Sun, 26 Oct 2025 16:48:38 GMT | wannacry ransomware | Chiamaka Ezeike | [Read More](https://medium.com/p/5f7d5276a7a9) |
-| Sun, 26 Oct 2025 16:42:10 GMT | Understanding the State of Post-Quantum Cryptography [2025 Q3] | Marcell Ujlaki | [Read More](https://medium.com/p/cb6c4a5abc82) |
-| Sun, 26 Oct 2025 16:39:12 GMT | Post-Exploitation with Mimikatz: What Every Defender Should Know | Cybersensus | [Read More](https://medium.com/p/c7a93c9ca7ce) |
