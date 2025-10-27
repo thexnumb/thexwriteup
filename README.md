@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 23:30:25 GMT | Wuzen Android RAT 2025: Unleaked Source Code & Direct Connection Analysis | REE-D-BLACK | [Read More](https://medium.com/p/c98311c4a80c) |
+| Mon, 27 Oct 2025 23:21:11 GMT | SİBER GÜVENLİĞE BÜTÜNCÜL BAKIŞ | Abdullah Narin | [Read More](https://medium.com/p/a745ddad647b) |
+| Mon, 27 Oct 2025 23:20:26 GMT | How AI Will Replace 90% of What You Do (and Why That’s Okay) | Global Whirl of Wonders | [Read More](https://medium.com/p/c9ac9c348a62) |
+| Mon, 27 Oct 2025 23:13:53 GMT | Building a DIY Ad-Blocking Home Server with Ubuntu | Hirad Showghi | [Read More](https://medium.com/p/adf6351a6fbd) |
+| Mon, 27 Oct 2025 23:11:36 GMT | OSINT: The Art of Ethical Intelligence Gathering | Taha Ex | [Read More](https://medium.com/p/6264abb4e7e7) |
 | Mon, 27 Oct 2025 22:54:22 GMT | Smaller, Smarter, Safer: Why AI’s Next Phase Is About Control, Not Scale | Twinkle Jaineera | [Read More](https://medium.com/p/2649edc53e42) |
+| Mon, 27 Oct 2025 22:51:43 GMT | Cyberattack Survival: When the Internet Goes Dark | Backyard Bug Out | [Read More](https://medium.com/p/8647d4fb2a9e) |
 | Mon, 27 Oct 2025 22:49:34 GMT | SQL Injection to RCE Explained: How Attackers Take Over Servers | mwael0x | [Read More](https://medium.com/p/9687c0e1ea78) |
 | Mon, 27 Oct 2025 22:30:23 GMT | TENURE OF MILITARY SERVICE CHIEFS — GLOBAL BEST PRACTICES VS NIGERIA’S APPROACH-Do Military… | Sgshehu | [Read More](https://medium.com/p/ae3286176e7f) |
 | Mon, 27 Oct 2025 22:23:55 GMT | Breaking News!!! Gmail Confirmed 183M Account Leak—What We Do Now | My Life | [Read More](https://medium.com/p/caf1939353ee) |
@@ -107,9 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 15:58:39 GMT | What Is VPN Tunneling? | Vijay Kumar Gupta | [Read More](https://medium.com/p/d283445c2344) |
 | Mon, 27 Oct 2025 15:57:50 GMT | Warning to Gmail Users: 183 Million Passwords Stolen in Massive Data Leak | Rroshan | [Read More](https://medium.com/p/0e725b344862) |
 | Mon, 27 Oct 2025 15:52:46 GMT | Security Hardening Handbook | LinuxDev | [Read More](https://medium.com/p/6c5bb9655441) |
-| Mon, 27 Oct 2025 15:47:08 GMT | Understanding OWASP and the Top 10 Most Common Web Security Vulnerabilities Every Developer Should… | OpenDev | [Read More](https://medium.com/p/ea9f79096336) |
-| Mon, 27 Oct 2025 15:46:54 GMT | US-East-1 Will Probably Go Down Again | Ntombizakhona Mabaso | [Read More](https://medium.com/p/74e5014d0c01) |
-| Mon, 27 Oct 2025 15:41:54 GMT | What Happens When You Hit ‘Run’: The Secret Life of Your Code | Muhammad Ismail | [Read More](https://medium.com/p/cc79cd52cd9d) |
-| Mon, 27 Oct 2025 15:35:39 GMT | Ranjith Ravula on Personal Branding, Resilience, and Redefining the Future of Recruiting | Business Leaders of America Podcast | [Read More](https://medium.com/p/5cee62b74434) |
-| Mon, 27 Oct 2025 15:33:13 GMT | 4 Types of AI: From Reactive to Self-Aware Systems | O Código Futuro | [Read More](https://medium.com/p/ebae337be529) |
-| Mon, 27 Oct 2025 15:32:57 GMT | Top Cyber Security Solutions Building a Secure Digital Future | Nexasoftinfinity | [Read More](https://medium.com/p/1a8e1cb20149) |
