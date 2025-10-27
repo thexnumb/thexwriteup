@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 22:12:13 GMT | Exfiltrating information through Telegram | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f1f9ec9204f5) |
+| Mon, 27 Oct 2025 22:06:11 GMT | According to Google’s latest security advisory, cyber-actors are increasingly leveraging bogus job… | SCtoCS | [Read More](https://medium.com/p/aa01923b65a9) |
+| Mon, 27 Oct 2025 22:02:47 GMT | Smishing Triad’s Global Domain Surge: Over 194,000 Malicious URLs Fuel SMS Phishing Empire | SCtoCS | [Read More](https://medium.com/p/4eaf00794122) |
+| Mon, 27 Oct 2025 22:01:27 GMT | Cybersecurity and Teenagers: Why Protecting Your Online Identity Matters | Parinitha N | [Read More](https://medium.com/p/dae5910d36ca) |
+| Mon, 27 Oct 2025 22:00:38 GMT | TryHackMe Basic Pentesting Walkthrough | Elallalihouda | [Read More](https://medium.com/p/5a9e95113b72) |
+| Mon, 27 Oct 2025 21:58:41 GMT | Day 22 of my Cybersecurity Journey: Public key Crytography Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/d9e7290c6f85) |
+| Mon, 27 Oct 2025 21:58:05 GMT | Title: APT36’s Golang-Based DeskRAT Campaign Targets Indian Government — A Deep Dive | SCtoCS | [Read More](https://medium.com/p/579066fccc5a) |
+| Mon, 27 Oct 2025 21:53:34 GMT | The Risks of and Opportunities for Using AI to Help Vulnerable Consumers in Financial Services | Dan Holloway | [Read More](https://medium.com/p/0c7fc5df3225) |
+| Mon, 27 Oct 2025 21:42:17 GMT | Beyond the Perimeter: A CISO’s Definitive Strategy to Survive and Thwart Nation-State Attacks ️ | Cyber Breach Space | [Read More](https://medium.com/p/8b44fb691353) |
 | Mon, 27 Oct 2025 21:37:08 GMT | Join & Win $500 Instantly — The Hottest Giveaway of the Month! | Joseph Simon | [Read More](https://medium.com/p/4199ae8444ec) |
 | Mon, 27 Oct 2025 21:25:39 GMT | How IDOR and Business Logic Flaw Exposed PII | Parth Narula | [Read More](https://medium.com/p/24545a078e04) |
 | Mon, 27 Oct 2025 21:24:29 GMT | Insecure Direct Object Reference (IDOR) in engcastleportal.com | Mohammed Mogeab Ahmed Al-hajj | [Read More](https://medium.com/p/a2ac44d62f00) |
@@ -76,6 +85,7 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 16:46:50 GMT | অনলাইনে জন্ম নিবন্ধনের তথ্য সংশোধন করার নিয়ম (BDRIS ২০২৫ গাইড) | Jonmonibondhoncheck | [Read More](https://medium.com/p/ca1247f6d998) |
 | Mon, 27 Oct 2025 16:43:58 GMT | How We Built GuardianSafe to Stop the Next Bybit Hack | Jacob Hanouna | [Read More](https://medium.com/p/00e33825353a) |
 | Mon, 27 Oct 2025 16:37:53 GMT | the weight of my own light | Nisrina Zaida | [Read More](https://medium.com/p/296d3189735a) |
+| Mon, 27 Oct 2025 16:35:38 GMT | Psycovirus — Frecuencias e imágenes que podrían crear un colapso y cambiar tu mente. | Hacking en México | [Read More](https://medium.com/p/cc3b3196db6c) |
 | Mon, 27 Oct 2025 16:31:39 GMT | How to Upload Images in a React & .NET Application | James Austin Jr | [Read More](https://medium.com/p/d541a556169c) |
 | Mon, 27 Oct 2025 16:29:57 GMT | How a Foundational Skill Almost Cost Me a Client | Andrew Keitany | [Read More](https://medium.com/p/910f133adedf) |
 | Mon, 27 Oct 2025 16:26:20 GMT | Day 13 — Logs and Log Monitoring | Denise Sophy | [Read More](https://medium.com/p/b84ba8f3c38e) |
@@ -103,13 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 15:31:11 GMT | How i hacked my GPON router | Natig Mammadli | [Read More](https://medium.com/p/aebbe81ff200) |
 | Mon, 27 Oct 2025 15:25:17 GMT | CVE-2025–60542 — TypeORM+MySQL SQLi =< 0.3.25 | Javad Alizada | [Read More](https://medium.com/p/a1b32bc60453) |
 | Mon, 27 Oct 2025 15:25:12 GMT | Understanding Backdoors and Payloads: A Basic Guide | Abel Thomas | [Read More](https://medium.com/p/94900ec4c533) |
-| Mon, 27 Oct 2025 15:23:37 GMT | Avoid a Security Disaster: How to Safely Use Any Python Program | Maikel Mardjan | [Read More](https://medium.com/p/bbe3720d54a4) |
-| Mon, 27 Oct 2025 15:23:23 GMT | Connecting the Clues: An Intro to SIEM with TryHackMe | Furkanctiner | [Read More](https://medium.com/p/c5b9a89fc200) |
-| Mon, 27 Oct 2025 15:20:34 GMT | Chocolate Factory writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/f956d92bbe64) |
-| Mon, 27 Oct 2025 15:16:50 GMT | “The $10,000 GitLab Flaw: How a Parameter Mixup Exposed Internal Files” | Aman Sharma | [Read More](https://medium.com/p/be862c071fa8) |
-| Mon, 27 Oct 2025 15:15:11 GMT | RSA Encryption and Decryption | Gadeabhishekreddy | [Read More](https://medium.com/p/57feb25a8ba7) |
-| Mon, 27 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 27, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c05fa207a13c) |
-| Mon, 27 Oct 2025 15:11:32 GMT | I was trying to run the EternalBlue exploit for Windows 7 / Server 2008 (from sleepya) in a lab… | Pedrokrezende | [Read More](https://medium.com/p/0a221cabc813) |
-| Mon, 27 Oct 2025 15:06:33 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/7dd252da6fd4) |
-| Mon, 27 Oct 2025 15:02:24 GMT | Simple Image Uploads in a React & .NET Application | James Austin Jr | [Read More](https://medium.com/p/bdf5661148f9) |
-| Mon, 27 Oct 2025 15:02:21 GMT | From Zero to Hero: How to Build Cybersecurity Skills Without a Degree | Code Link | [Read More](https://medium.com/p/8f8292d91137) |
