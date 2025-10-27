@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 03:09:44 GMT | Conquering CompTIA Security+: 591Lab’s Ultimate Guide . | Al Beruni | [Read More](https://medium.com/p/c3a3e6be74b0) |
+| Mon, 27 Oct 2025 02:58:17 GMT | Security Guidelines for Model Context Protocol in AWS | Sekh Mohammad warish | [Read More](https://medium.com/p/f82db0bab8de) |
+| Mon, 27 Oct 2025 02:57:35 GMT | Week 15 — Automated JS Enum: Methodology & Architecture | Aang | [Read More](https://medium.com/p/31becf8693ec) |
+| Mon, 27 Oct 2025 02:55:46 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/e0e0e8d828f4) |
+| Mon, 27 Oct 2025 02:42:30 GMT | Black Hat Europe 2025 Arsenal: 8 AI Security Tools Transforming Cybersecurity | Ethan | [Read More](https://medium.com/p/ccd08c472aaa) |
+| Mon, 27 Oct 2025 02:18:37 GMT | How Threat Hunters Think: The Mindset, Tools, and Methodology | Yash Patel | [Read More](https://medium.com/p/59bab02db2a4) |
+| Mon, 27 Oct 2025 01:51:52 GMT | The Strength and Vulnerability of the Adult Life: Embracing Your True Feelings | Austi Gene | [Read More](https://medium.com/p/d103251df5dd) |
+| Mon, 27 Oct 2025 01:46:51 GMT | Prompt Injection: The Invisible Threat in the Age of Artificial Intelligence | Alican'ONI'Kaya | [Read More](https://medium.com/p/7a5fbe84fad2) |
 | Mon, 27 Oct 2025 01:45:02 GMT | Proving Grounds - WallpaperHub | jniket | [Read More](https://medium.com/p/26b28458bf50) |
 | Mon, 27 Oct 2025 01:01:54 GMT | Dummy Interface for Nework Traffic Analysis | Vilaysack Vorachack | [Read More](https://medium.com/p/9afd33deebab) |
 | Mon, 27 Oct 2025 00:57:38 GMT | How Safe Game Boosting Works in 2025: Behind the Scenes of Skydy | Skydy.com | [Read More](https://medium.com/p/de7a34efc80a) |
@@ -105,11 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 15:37:49 GMT | Security That Doesn’t Compromise Convenience | GGEX | [Read More](https://medium.com/p/889b3a74e542) |
 | Sun, 26 Oct 2025 15:35:31 GMT | Global Threat Intelligence Report October 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/3779eff7766d) |
 | Sun, 26 Oct 2025 15:32:57 GMT | Topic 40: Responsive Web Design (RWD) | Rana Awais | [Read More](https://medium.com/p/44a18983414d) |
-| Sun, 26 Oct 2025 15:29:19 GMT | 5. Place Items in Grid Cells | Rana Awais | [Read More](https://medium.com/p/cd2e9ecacda3) |
-| Sun, 26 Oct 2025 15:25:57 GMT | Agentic AI’s OODA Loop Problem Barath Raghavan - Fastly and the University of Southern California… | Talha Özcan | [Read More](https://medium.com/p/e9bbf8ed0eb4) |
-| Sun, 26 Oct 2025 15:20:22 GMT | Connecting the Enterprise: How SailPoint IdentityIQ Integrates with Workday, ServiceNow, Okta… | Aldrin Malakar | [Read More](https://medium.com/p/21a895714321) |
-| Sun, 26 Oct 2025 15:18:31 GMT | Topic 39: CSS Grid Layout | Rana Awais | [Read More](https://medium.com/p/55348a7f5645) |
-| Sun, 26 Oct 2025 15:17:58 GMT | CyberTalents: Encrypted Database Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/2ee5c17b55a0) |
-| Sun, 26 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 26, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/58e07482c3e9) |
-| Sun, 26 Oct 2025 15:07:57 GMT | LFI: A Guide to Exploit It | Imvkale | [Read More](https://medium.com/p/576e1b7e2b02) |
-| Sun, 26 Oct 2025 15:07:56 GMT | The $2,000 Bug That Changed My Life: How a Tiny URL Parameter Broke Web-Store Pricing !! | Helmiriahi | [Read More](https://medium.com/p/7275c3d1204b) |
