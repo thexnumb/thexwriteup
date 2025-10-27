@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 21:37:08 GMT | Join & Win $500 Instantly — The Hottest Giveaway of the Month! | Joseph Simon | [Read More](https://medium.com/p/4199ae8444ec) |
+| Mon, 27 Oct 2025 21:25:39 GMT | How IDOR and Business Logic Flaw Exposed PII | Parth Narula | [Read More](https://medium.com/p/24545a078e04) |
+| Mon, 27 Oct 2025 21:24:29 GMT | Insecure Direct Object Reference (IDOR) in engcastleportal.com | Mohammed Mogeab Ahmed Al-hajj | [Read More](https://medium.com/p/a2ac44d62f00) |
+| Mon, 27 Oct 2025 21:23:04 GMT | From Firewalls to Influence: The Rise of the BISO and the New Era of Cyber Resilience | Gabriela Berrido | [Read More](https://medium.com/p/24ac96a47ef1) |
 | Mon, 27 Oct 2025 21:12:22 GMT | Secure/Multipurpose Internet Mail Extensions Signing with a Personal CA in Thunderbird | Erebus | [Read More](https://medium.com/p/9952761749ed) |
 | Mon, 27 Oct 2025 20:55:37 GMT | Building a Hidden Service: A Technical and Ethical Guide to Creating a Website on the Darknet | Douglas Brian Neves | [Read More](https://medium.com/p/59d6cccf1d89) |
 | Mon, 27 Oct 2025 20:54:59 GMT | I use to sleep in the car… with $0 in my pocket…. Now I work as a Penatration tester | GhostInject | [Read More](https://medium.com/p/6ed3f35f211a) |
@@ -109,7 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 15:06:33 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/7dd252da6fd4) |
 | Mon, 27 Oct 2025 15:02:24 GMT | Simple Image Uploads in a React & .NET Application | James Austin Jr | [Read More](https://medium.com/p/bdf5661148f9) |
 | Mon, 27 Oct 2025 15:02:21 GMT | From Zero to Hero: How to Build Cybersecurity Skills Without a Degree | Code Link | [Read More](https://medium.com/p/8f8292d91137) |
-| Mon, 27 Oct 2025 14:57:28 GMT | Top Collaboration Tools for Remote Teams-Work Smarter, Not Harder | The Daily Technology | [Read More](https://medium.com/p/1ece2a03f49f) |
-| Mon, 27 Oct 2025 14:57:19 GMT | What the Louvre Heist teaches us about Application Security | Udit | [Read More](https://medium.com/p/6c274fbe54df) |
-| Mon, 27 Oct 2025 14:48:54 GMT | Demystifying the ARP Protocol: From Fundamentals to Advanced Attacks and Defenses | JIN | [Read More](https://medium.com/p/58e3d117bfac) |
-| Mon, 27 Oct 2025 14:47:28 GMT | Analisis Proses Xinu | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/82592c4a6693) |
