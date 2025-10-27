@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 09:38:48 GMT | Qilin Ransomware’s Hybrid Horror: Linux Payloads, BYOVD Exploits, and the 2025 Surge in… | Germano Costi | [Read More](https://medium.com/p/5a4978336767) |
+| Mon, 27 Oct 2025 09:35:16 GMT | Velociraptor: Hunt for a Nightmare. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/0fdfecfb6386) |
+| Mon, 27 Oct 2025 09:33:15 GMT | Getting Real: Why Vulnerability Management Isn’t Optional? | Maria Gomez | [Read More](https://medium.com/p/0d0146ed114b) |
+| Mon, 27 Oct 2025 09:27:24 GMT | When Everyone’s an Expert, Nobody Has a Fucking Clue: Tales from Germany’s IT Apocalypse | Marcus Bohlander | [Read More](https://medium.com/p/0d98c897d36a) |
+| Mon, 27 Oct 2025 09:27:09 GMT | EQUIFAX AND STUNEX WORM | Ogbuchisom | [Read More](https://medium.com/p/63b64bf94b57) |
+| Mon, 27 Oct 2025 09:25:08 GMT | Achieve ISO 27001 Certification Excellence with Axipro | Axipro | [Read More](https://medium.com/p/d7453da73cc4) |
+| Mon, 27 Oct 2025 09:22:26 GMT | How to Stay Safe Online: Essential Tips for Cybersecurity Today | Nasim Talukder | [Read More](https://medium.com/p/ca84838bfe8a) |
+| Mon, 27 Oct 2025 09:17:18 GMT | Nigeria cyber crime law | Ogbuchisom | [Read More](https://medium.com/p/236e50475e36) |
 | Mon, 27 Oct 2025 09:16:42 GMT | “AI Will Replace Programmers” Is the Dumbest Tech Prediction of the Decade | Shane Collins | [Read More](https://medium.com/p/7517fb53ea7a) |
 | Mon, 27 Oct 2025 09:11:22 GMT | WannaCry was a big cyberattack that happened in 2017. | Ogbuchisom | [Read More](https://medium.com/p/08c5ab544356) |
 | Mon, 27 Oct 2025 09:05:32 GMT | How I Automated Nmap to Catch Intruders While I Slept | Fateyaly | [Read More](https://medium.com/p/f488d13863d5) |
@@ -27,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 08:44:26 GMT | Sonatype Nexus Path Trevarsal Zafiyeti ve Canlı Örnek Üzerinde İstismarı (CVE-2024–4956) | mehmet şerif paşa | [Read More](https://medium.com/p/c5d651c2c739) |
 | Mon, 27 Oct 2025 08:38:13 GMT | DOMAINS OF CYBERSECURITY | Chiamaka Ezeike | [Read More](https://medium.com/p/46a85f0a9124) |
 | Mon, 27 Oct 2025 08:34:13 GMT | The Hidden Dangers of AI-Powered Browsers: How Prompt Injection Attacks Are Turning Your Smart… | Germano Costi | [Read More](https://medium.com/p/a196f9d16652) |
+| Mon, 27 Oct 2025 08:31:07 GMT | “كل ما تريد معرفته عن الـVPN: السلاح السري لحماية هويتك على الإنترنت | Yehya Ahmed | [Read More](https://medium.com/p/7f032993863e) |
 | Mon, 27 Oct 2025 08:23:08 GMT | Ransomware Explained: What It Is and How It Affects You | TheCyberKnight | [Read More](https://medium.com/p/2e1cf3993b96) |
 | Mon, 27 Oct 2025 08:20:10 GMT | What Is Blind SQL Injection? Content-Based and Time-Based Approaches | Sara | [Read More](https://medium.com/p/ee0d47789483) |
 | Mon, 27 Oct 2025 08:20:00 GMT | The Lowdown on ChatGPT Atlas — and Why It Might Redefine the Browser Itself | Rajiv Gopinath | [Read More](https://medium.com/p/8526c10d4972) |
@@ -104,12 +113,3 @@ In… | Hamzaqureshiqureshi | [Read More](https://medium.com/p/e24dc925fdc5) |
 | Mon, 27 Oct 2025 02:55:46 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/e0e0e8d828f4) |
 | Mon, 27 Oct 2025 02:42:30 GMT | Black Hat Europe 2025 Arsenal: 8 AI Security Tools Transforming Cybersecurity | Ethan | [Read More](https://medium.com/p/ccd08c472aaa) |
 | Mon, 27 Oct 2025 02:18:37 GMT | How Threat Hunters Think: The Mindset, Tools, and Methodology | Yash Patel | [Read More](https://medium.com/p/59bab02db2a4) |
-| Mon, 27 Oct 2025 01:51:52 GMT | The Strength and Vulnerability of the Adult Life: Embracing Your True Feelings | Austi Gene | [Read More](https://medium.com/p/d103251df5dd) |
-| Mon, 27 Oct 2025 01:46:51 GMT | Prompt Injection: The Invisible Threat in the Age of Artificial Intelligence | Alican'ONI'Kaya | [Read More](https://medium.com/p/7a5fbe84fad2) |
-| Mon, 27 Oct 2025 01:45:02 GMT | Proving Grounds - WallpaperHub | jniket | [Read More](https://medium.com/p/26b28458bf50) |
-| Mon, 27 Oct 2025 01:01:54 GMT | Dummy Interface for Nework Traffic Analysis | Vilaysack Vorachack | [Read More](https://medium.com/p/9afd33deebab) |
-| Mon, 27 Oct 2025 00:57:38 GMT | How Safe Game Boosting Works in 2025: Behind the Scenes of Skydy | Skydy.com | [Read More](https://medium.com/p/de7a34efc80a) |
-| Mon, 27 Oct 2025 00:56:42 GMT | RST TI Report Digest: 27 Oct 2025 | RST Cloud | [Read More](https://medium.com/p/f2cf91cb8c26) |
-| Mon, 27 Oct 2025 00:53:15 GMT | My Journey towards becoming a Site Reliability Engineer: Day 1 | Drew Jones | [Read More](https://medium.com/p/731d788d510a) |
-| Mon, 27 Oct 2025 00:46:27 GMT | Plugin Governance in SOC Environments | Pranjali Karve | [Read More](https://medium.com/p/a188b00ac35b) |
-| Mon, 27 Oct 2025 00:33:27 GMT | HTB — Learn the basics of the Penetration Testing: Starting Point [TIER 0] | Faraam | [Read More](https://medium.com/p/3710179b1854) |
