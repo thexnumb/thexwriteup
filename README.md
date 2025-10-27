@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 16:43:58 GMT | How We Built GuardianSafe to Stop the Next Bybit Hack | Jacob Hanouna | [Read More](https://medium.com/p/00e33825353a) |
+| Mon, 27 Oct 2025 16:37:53 GMT | the weight of my own light | Nisrina Zaida | [Read More](https://medium.com/p/296d3189735a) |
+| Mon, 27 Oct 2025 16:31:39 GMT | How to Upload Images in a React & .NET Application | James Austin Jr | [Read More](https://medium.com/p/d541a556169c) |
+| Mon, 27 Oct 2025 16:29:57 GMT | How a Foundational Skill Almost Cost Me a Client | Andrew Keitany | [Read More](https://medium.com/p/910f133adedf) |
+| Mon, 27 Oct 2025 16:26:20 GMT | Day 13 — Logs and Log Monitoring | Denise Sophy | [Read More](https://medium.com/p/b84ba8f3c38e) |
+| Mon, 27 Oct 2025 16:21:05 GMT | Pwn2Own Ireland 2025 : 73 failles zero-day révélées pour 1 million $ de primes | Marc Barbezat | [Read More](https://medium.com/p/25a2592dde57) |
 | Mon, 27 Oct 2025 16:17:21 GMT | Transhumanismo un tema olvidado en LATAM | Hacking en México | [Read More](https://medium.com/p/ec9dde067b12) |
 | Mon, 27 Oct 2025 16:13:04 GMT | Designing a Resilient Network Architecture: Security, Scalability, and Strategy in the Digital Age | ATTOUCHI MOHAMED | [Read More](https://medium.com/p/d85123441698) |
 | Mon, 27 Oct 2025 16:10:54 GMT | Boost Cyber Resilience with Cyber Maturity Assessment in the USA | Vishwajeettechtech | [Read More](https://medium.com/p/8a1329ad3676) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 13:07:24 GMT | The Day I Realized I Could Be Hacked in Seconds | Aj | [Read More](https://medium.com/p/3a7f495aaa51) |
 | Mon, 27 Oct 2025 13:07:18 GMT | The Hidden Goldmine: Why API Bugs Pay So Much | Vipul Sonule | [Read More](https://medium.com/p/e570cc4ca988) |
 | Mon, 27 Oct 2025 13:06:08 GMT | Step-by-Step OSINT Reconnaissance for Ethical Hackers | Shahzaib | [Read More](https://medium.com/p/459b8ed6a2af) |
-| Mon, 27 Oct 2025 13:02:22 GMT | Millions of Donor Records & Receipts Leaked — 0‑Click IDOR Exposes Payments $$$ | Prayers Khristi | [Read More](https://medium.com/p/76f9af6c3408) |
-| Mon, 27 Oct 2025 13:02:19 GMT | The Untapped Platform That Made Me $500 in Just 24 Hours (No Ads, No Face, No Stress) | Farhad Ali | [Read More](https://medium.com/p/88da52308738) |
-| Mon, 27 Oct 2025 12:58:37 GMT | Know a Bit about Cyber Security | Sohan | [Read More](https://medium.com/p/7f1015ba3e31) |
-| Mon, 27 Oct 2025 12:55:58 GMT | Introduction to AI Cybersecurity: A Case Study in Prompt Injection | Jonathan Owen | [Read More](https://medium.com/p/cd58f7d76f5b) |
-| Mon, 27 Oct 2025 12:53:18 GMT | Critique of Individual Prepping | Cole Burnham | [Read More](https://medium.com/p/19920bc1d06e) |
-| Mon, 27 Oct 2025 12:52:06 GMT | The Quantum Shield: How BlackBerry Is Quietly Building the World’s First Post-Quantum Cyber Defence | Dr. Arvind Dube PhD | [Read More](https://medium.com/p/d48a24e00236) |
