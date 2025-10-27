@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 22:54:22 GMT | Smaller, Smarter, Safer: Why AI’s Next Phase Is About Control, Not Scale | Twinkle Jaineera | [Read More](https://medium.com/p/2649edc53e42) |
+| Mon, 27 Oct 2025 22:49:34 GMT | SQL Injection to RCE Explained: How Attackers Take Over Servers | mwael0x | [Read More](https://medium.com/p/9687c0e1ea78) |
 | Mon, 27 Oct 2025 22:30:23 GMT | TENURE OF MILITARY SERVICE CHIEFS — GLOBAL BEST PRACTICES VS NIGERIA’S APPROACH-Do Military… | Sgshehu | [Read More](https://medium.com/p/ae3286176e7f) |
 | Mon, 27 Oct 2025 22:23:55 GMT | Breaking News!!! Gmail Confirmed 183M Account Leak—What We Do Now | My Life | [Read More](https://medium.com/p/caf1939353ee) |
 | Mon, 27 Oct 2025 22:12:13 GMT | Exfiltrating information through Telegram | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f1f9ec9204f5) |
@@ -111,5 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 15:35:39 GMT | Ranjith Ravula on Personal Branding, Resilience, and Redefining the Future of Recruiting | Business Leaders of America Podcast | [Read More](https://medium.com/p/5cee62b74434) |
 | Mon, 27 Oct 2025 15:33:13 GMT | 4 Types of AI: From Reactive to Self-Aware Systems | O Código Futuro | [Read More](https://medium.com/p/ebae337be529) |
 | Mon, 27 Oct 2025 15:32:57 GMT | Top Cyber Security Solutions Building a Secure Digital Future | Nexasoftinfinity | [Read More](https://medium.com/p/1a8e1cb20149) |
-| Mon, 27 Oct 2025 15:31:22 GMT | Aligning Internal IT Processes in a Non-Technical Industry Taught Me the True Value of GRC | R-Squared Cyber | [Read More](https://medium.com/p/5c16d5cccd15) |
-| Mon, 27 Oct 2025 15:31:11 GMT | How i hacked my GPON router | Natig Mammadli | [Read More](https://medium.com/p/aebbe81ff200) |
