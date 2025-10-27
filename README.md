@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 10:24:15 GMT | Root Me File upload — Polyglot | Saraqasim | [Read More](https://medium.com/p/2ef5a23e59f3) |
+| Mon, 27 Oct 2025 10:07:48 GMT | Bachelor of Science in Cybersecurity - ECCU | Shreyashettyctr | [Read More](https://medium.com/p/5cc32eb6f33a) |
+| Mon, 27 Oct 2025 10:06:15 GMT | Digital Shield: Defining a New Military-Grade Security Standard for Digital Asset Self-Custody | Digital Shield Offcial | [Read More](https://medium.com/p/85661fab9908) |
+| Mon, 27 Oct 2025 10:04:59 GMT | I Spent an Evening Over-Engineering a USB Sandbox. Then I Found the Obvious Answer. | Luis Edward M. Miranda | [Read More](https://medium.com/p/cb6a03a89ad3) |
+| Mon, 27 Oct 2025 10:04:25 GMT | From Wealth Bonds to Vibe Hacking | Rubab Fatima | [Read More](https://medium.com/p/29d7b0148a45) |
+| Mon, 27 Oct 2025 10:02:15 GMT | GenAI Threats in SaaS & Collaboration Tools | Jackdavis Iap | [Read More](https://medium.com/p/b6454c81cc50) |
+| Mon, 27 Oct 2025 10:02:05 GMT | DockerLabs Writeup — DockerLabs (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/36883d063513) |
+| Mon, 27 Oct 2025 10:00:49 GMT | From EAL6+ to Total Cold Isolation: How Digital Shield is Reshaping the Web3 Security Ecosystem | Digital Shield | [Read More](https://medium.com/p/d8a3822f489d) |
+| Mon, 27 Oct 2025 09:53:51 GMT | My Honest Thoughts on Cybersecurity: From a Nigerian Tech Girl’s Lens | Semilogo | [Read More](https://medium.com/p/bb3ee456b8f3) |
+| Mon, 27 Oct 2025 09:53:35 GMT | The Future of Check-In: AI and the Intelligent Kiosk Machine | Rakesh | [Read More](https://medium.com/p/63fad850e0c6) |
+| Mon, 27 Oct 2025 09:52:11 GMT | Engaging Your Team With Interactive And Flexible Cyber Lessons | Renaissance Computer Services Limited | [Read More](https://medium.com/p/b86c01feb8a8) |
+| Mon, 27 Oct 2025 09:49:47 GMT | From Asimov’s Fiction to Deployment Reality: The First Scalable Framework for Robot Constitutional… | Berend Watchus | [Read More](https://medium.com/p/9643833dcc0c) |
+| Mon, 27 Oct 2025 09:49:07 GMT | Wazuh File Integrity Monitoring (FIM) | Enes Cayvarli | [Read More](https://medium.com/p/b9c64669e26a) |
+| Mon, 27 Oct 2025 09:47:37 GMT | AI Governance, Ethics & Compliance: The New IT Leadership Challenge | Job24by7 | [Read More](https://medium.com/p/9122b2e088a8) |
+| Mon, 27 Oct 2025 09:47:20 GMT | The Python Script I Built That Scanned My Entire Network in Minutes | Muhummad Zaki | [Read More](https://medium.com/p/0bc8aac6e1b1) |
+| Mon, 27 Oct 2025 09:45:06 GMT | Centralize Windows Log Collection with Cribl WEC | Kaviarasan Asokan | [Read More](https://medium.com/p/3ab73d7c843f) |
 | Mon, 27 Oct 2025 09:38:48 GMT | Qilin Ransomware’s Hybrid Horror: Linux Payloads, BYOVD Exploits, and the 2025 Surge in… | Germano Costi | [Read More](https://medium.com/p/5a4978336767) |
 | Mon, 27 Oct 2025 09:35:16 GMT | Velociraptor: Hunt for a Nightmare. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/0fdfecfb6386) |
 | Mon, 27 Oct 2025 09:33:15 GMT | Getting Real: Why Vulnerability Management Isn’t Optional? | Maria Gomez | [Read More](https://medium.com/p/0d0146ed114b) |
@@ -97,19 +113,3 @@ In… | Hamzaqureshiqureshi | [Read More](https://medium.com/p/e24dc925fdc5) |
 | Mon, 27 Oct 2025 04:50:16 GMT | Forescout FSCP Dumps CertsOut Halloween Sale 70% OFF! | Jessica Adams | [Read More](https://medium.com/p/c431ee65ff3a) |
 | Mon, 27 Oct 2025 04:46:41 GMT | HackTheBox Windows Event Logs and Finding Evil Skills Assessment: Putting It All Together | Cybersecurity Simplified | [Read More](https://medium.com/p/5aea7310b0ae) |
 | Mon, 27 Oct 2025 04:45:01 GMT | #4 RFI: From an External URL Into your Application | Imvkale | [Read More](https://medium.com/p/a5aeb1c5958c) |
-| Mon, 27 Oct 2025 04:33:03 GMT | Human Error and Hacker Craft: Unraveling Twitter’s 2020 Vishing Scandal | Shivam Kanodia | [Read More](https://medium.com/p/42cd4dd29af7) |
-| Mon, 27 Oct 2025 04:31:58 GMT | How AI Helps You Detect Multi-Cloud Compliance Risks Faster | Neova Solutions | [Read More](https://medium.com/p/d70ce98c0e36) |
-| Mon, 27 Oct 2025 04:31:54 GMT | Cyber Risk Quantification: Turning Tech Jargon into Business Language | Tharun Krishnamoorthy | [Read More](https://medium.com/p/796d817ec8db) |
-| Mon, 27 Oct 2025 04:20:31 GMT | HTB Administrator: My Step-by-Step Path to Domain Admin on a Windows Lab | Joseph Jung | [Read More](https://medium.com/p/3e09cc39cd5c) |
-| Mon, 27 Oct 2025 04:19:31 GMT | Why I Transitioned From an Agency Model to Consulting | Roland Farkas | [Read More](https://medium.com/p/0997561aedd0) |
-| Mon, 27 Oct 2025 04:08:52 GMT | Hackviser: Scenario Shadow Track Writeup | Attiqorakzai | [Read More](https://medium.com/p/85251c1af4ae) |
-| Mon, 27 Oct 2025 03:56:30 GMT | Hackviser: Scenario Data Heist Writeup | Attiqorakzai | [Read More](https://medium.com/p/41c9077ecc08) |
-| Mon, 27 Oct 2025 03:49:58 GMT | Indonesia Threat Landscape 2025 | sudo3rs | [Read More](https://medium.com/p/d22e985deec7) |
-| Mon, 27 Oct 2025 03:46:18 GMT | OWASP Faction 1.7 — Major Updates for Enterprise Security Teams | Josh Summitt | [Read More](https://medium.com/p/aa205cef68e7) |
-| Mon, 27 Oct 2025 03:44:41 GMT | How to Work Like a Pro, Even When You Don’t Feel Like One | Global Whirl of Wonders | [Read More](https://medium.com/p/08503f80dcc5) |
-| Mon, 27 Oct 2025 03:09:44 GMT | Conquering CompTIA Security+: 591Lab’s Ultimate Guide . | Al Beruni | [Read More](https://medium.com/p/c3a3e6be74b0) |
-| Mon, 27 Oct 2025 02:58:17 GMT | Security Guidelines for Model Context Protocol in AWS | Sekh Mohammad warish | [Read More](https://medium.com/p/f82db0bab8de) |
-| Mon, 27 Oct 2025 02:57:35 GMT | Week 15 — Automated JS Enum: Methodology & Architecture | Aang | [Read More](https://medium.com/p/31becf8693ec) |
-| Mon, 27 Oct 2025 02:55:46 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/e0e0e8d828f4) |
-| Mon, 27 Oct 2025 02:42:30 GMT | Black Hat Europe 2025 Arsenal: 8 AI Security Tools Transforming Cybersecurity | Ethan | [Read More](https://medium.com/p/ccd08c472aaa) |
-| Mon, 27 Oct 2025 02:18:37 GMT | How Threat Hunters Think: The Mindset, Tools, and Methodology | Yash Patel | [Read More](https://medium.com/p/59bab02db2a4) |
