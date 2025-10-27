@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 09:16:42 GMT | “AI Will Replace Programmers” Is the Dumbest Tech Prediction of the Decade | Shane Collins | [Read More](https://medium.com/p/7517fb53ea7a) |
+| Mon, 27 Oct 2025 09:11:22 GMT | WannaCry was a big cyberattack that happened in 2017. | Ogbuchisom | [Read More](https://medium.com/p/08c5ab544356) |
+| Mon, 27 Oct 2025 09:05:32 GMT | How I Automated Nmap to Catch Intruders While I Slept | Fateyaly | [Read More](https://medium.com/p/f488d13863d5) |
+| Mon, 27 Oct 2025 09:01:52 GMT | Auto Remediation That Works: Reset Leaked Accounts as Soon as They Appear | Alexandre Vandamme | [Read More](https://medium.com/p/5dfb980b131b) |
+| Mon, 27 Oct 2025 09:01:52 GMT | Foundations of cybersecurity by Google: your complete guide to breaking into a high-demand… | Code Link | [Read More](https://medium.com/p/c061821fe6a0) |
+| Mon, 27 Oct 2025 09:00:35 GMT | Securing Kubernetes Dashboards: Common Issues and Fixes | Anh Trần Tuấn | [Read More](https://medium.com/p/cd95d7c4bb75) |
+| Mon, 27 Oct 2025 08:57:52 GMT | Stop Making These 5 Beginner Mistakes When Naming Files and Directories | Avishek Ghosh (AV_DEVS) | [Read More](https://medium.com/p/73c7bd995507) |
+| Mon, 27 Oct 2025 08:47:36 GMT | Threats of Unvalidated XPC Clients on macOS | Karol Mazurek | [Read More](https://medium.com/p/9c81ce918bb1) |
 | Mon, 27 Oct 2025 08:47:19 GMT | Fixing the Medium Access Issue in India: Simple Solutions That Work | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/9da36f1ba231) |
 | Mon, 27 Oct 2025 08:46:07 GMT | Introduction | Harshal Jethwa | [Read More](https://medium.com/p/8e14228596af) |
+| Mon, 27 Oct 2025 08:45:12 GMT | Can We Trust AI with Public Safety? | Neova Solutions | [Read More](https://medium.com/p/d37fc4025892) |
+| Mon, 27 Oct 2025 08:44:58 GMT | The Unbreakable Connection: How Quantum Networking is Forging a $11 Billion Cybersecurity Frontier | Sonu mark spark solutions | [Read More](https://medium.com/p/4172f317c05e) |
 | Mon, 27 Oct 2025 08:44:26 GMT | Sonatype Nexus Path Trevarsal Zafiyeti ve Canlı Örnek Üzerinde İstismarı (CVE-2024–4956) | mehmet şerif paşa | [Read More](https://medium.com/p/c5d651c2c739) |
 | Mon, 27 Oct 2025 08:38:13 GMT | DOMAINS OF CYBERSECURITY | Chiamaka Ezeike | [Read More](https://medium.com/p/46a85f0a9124) |
 | Mon, 27 Oct 2025 08:34:13 GMT | The Hidden Dangers of AI-Powered Browsers: How Prompt Injection Attacks Are Turning Your Smart… | Germano Costi | [Read More](https://medium.com/p/a196f9d16652) |
@@ -103,13 +113,3 @@ In… | Hamzaqureshiqureshi | [Read More](https://medium.com/p/e24dc925fdc5) |
 | Mon, 27 Oct 2025 00:53:15 GMT | My Journey towards becoming a Site Reliability Engineer: Day 1 | Drew Jones | [Read More](https://medium.com/p/731d788d510a) |
 | Mon, 27 Oct 2025 00:46:27 GMT | Plugin Governance in SOC Environments | Pranjali Karve | [Read More](https://medium.com/p/a188b00ac35b) |
 | Mon, 27 Oct 2025 00:33:27 GMT | HTB — Learn the basics of the Penetration Testing: Starting Point [TIER 0] | Faraam | [Read More](https://medium.com/p/3710179b1854) |
-| Mon, 27 Oct 2025 00:08:30 GMT | Nothing to Something: Building My First Home Network | Jarrielle Gathers | [Read More](https://medium.com/p/ac64a0f2d756) |
-| Mon, 27 Oct 2025 00:08:12 GMT | How I Discovered an HTML Injection via a Signup Form | Gehad Reda | [Read More](https://medium.com/p/4aa29b7da2a0) |
-| Sun, 26 Oct 2025 23:58:20 GMT | The Unsolved Frontier: Prompt Injection — the Achilles’ Heel of AI Search | Siva Thota | [Read More](https://medium.com/p/ee2581a86b6f) |
-| Sun, 26 Oct 2025 23:52:21 GMT | Detect and Block a Known Malicious Actor — Wazuh Lab | Sathinsha | [Read More](https://medium.com/p/c897167a1706) |
-| Sun, 26 Oct 2025 23:05:07 GMT | Your Brand Deserves More Than Design — It Deserves Protection | Sonny Parker | [Read More](https://medium.com/p/f928b4269c78) |
-| Sun, 26 Oct 2025 23:04:49 GMT | Exclusive BUG Bonuses & Rewards — October 2025 | BUG | [Read More](https://medium.com/p/ef1a8e17b453) |
-| Sun, 26 Oct 2025 22:41:57 GMT | Introduction to Cybersecurity | Alaa A | [Read More](https://medium.com/p/d7e1fca2db8d) |
-| Sun, 26 Oct 2025 22:37:27 GMT | Mr. Robot’s Crackwhore Fentanyl Fiend: The Untold Story of Elliot Alderson | Justas_b | [Read More](https://medium.com/p/c869039bf9df) |
-| Sun, 26 Oct 2025 22:27:32 GMT | Detecting AI-Manipulated and AI-Generated Images Using Multi-Modal Forensics | Saif hammad | [Read More](https://medium.com/p/ad909a27e318) |
-| Sun, 26 Oct 2025 22:26:48 GMT | Global Input Sanitization in Angular: A Centralized Security Approach | Louis Trinh | [Read More](https://medium.com/p/1902cfdfcc65) |
