@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 10:36:01 GMT | Smart Cybersecurity Risk Management for a Safer Digital Future | Vishwajeettechtech | [Read More](https://medium.com/p/bcb61b4bba8c) |
+| Mon, 27 Oct 2025 10:30:48 GMT | Mindset Hacker: Cara Berpikir Seorang Ahli Keamanan Siber | K1llu4 | [Read More](https://medium.com/p/e22080b363f4) |
+| Mon, 27 Oct 2025 10:24:47 GMT | Why ServiceNow Financial Management is Essential for Modern Finance Teams | Alex s | [Read More](https://medium.com/p/386b78581eb1) |
 | Mon, 27 Oct 2025 10:24:15 GMT | Root Me File upload — Polyglot | Saraqasim | [Read More](https://medium.com/p/2ef5a23e59f3) |
 | Mon, 27 Oct 2025 10:07:48 GMT | Bachelor of Science in Cybersecurity - ECCU | Shreyashettyctr | [Read More](https://medium.com/p/5cc32eb6f33a) |
 | Mon, 27 Oct 2025 10:06:15 GMT | Digital Shield: Defining a New Military-Grade Security Standard for Digital Asset Self-Custody | Digital Shield Offcial | [Read More](https://medium.com/p/85661fab9908) |
@@ -110,6 +113,3 @@ In… | Hamzaqureshiqureshi | [Read More](https://medium.com/p/e24dc925fdc5) |
 | Mon, 27 Oct 2025 05:04:54 GMT | How to Hide WordPress Login Page From Hackers [2 Effective Methods] | Hamza Hanif | [Read More](https://medium.com/p/27e5fb2bde16) |
 | Mon, 27 Oct 2025 05:04:32 GMT | How Authentication Actually Works: Simplifying Basic, Bearer, and JWT | Ashwin Sridharan | [Read More](https://medium.com/p/93f1e338cf86) |
 | Mon, 27 Oct 2025 05:00:37 GMT | Cara Belajar Informatika Dengan Efektif | keisyawirawan | [Read More](https://medium.com/p/def6057d84a9) |
-| Mon, 27 Oct 2025 04:50:16 GMT | Forescout FSCP Dumps CertsOut Halloween Sale 70% OFF! | Jessica Adams | [Read More](https://medium.com/p/c431ee65ff3a) |
-| Mon, 27 Oct 2025 04:46:41 GMT | HackTheBox Windows Event Logs and Finding Evil Skills Assessment: Putting It All Together | Cybersecurity Simplified | [Read More](https://medium.com/p/5aea7310b0ae) |
-| Mon, 27 Oct 2025 04:45:01 GMT | #4 RFI: From an External URL Into your Application | Imvkale | [Read More](https://medium.com/p/a5aeb1c5958c) |
