@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 14:31:17 GMT | Red Team Dorks: The Ultimate OSINT Recon Cheat-Sheet for Attack Surface Mapping | XoX | [Read More](https://medium.com/p/a94b4c778492) |
+| Mon, 27 Oct 2025 14:29:07 GMT | The domains of cybersecurity include: | Emenanjo Ndigwe | [Read More](https://medium.com/p/f989c31f5783) |
+| Mon, 27 Oct 2025 14:27:21 GMT | Security and Performance Aspects of Cgroups v2 | Eren Cankut Uysal | [Read More](https://medium.com/p/db16b29854a5) |
+| Mon, 27 Oct 2025 14:26:48 GMT | Cool Tech: Exploring the Future of Innovation | Elite Aneesa999 | [Read More](https://medium.com/p/8724895415cd) |
+| Mon, 27 Oct 2025 14:24:46 GMT | ha-direct enable command in Fortinet | ATTOUCHI MOHAMED | [Read More](https://medium.com/p/632f3a8eaf44) |
+| Mon, 27 Oct 2025 14:24:35 GMT | What is Quantum Computing? | Aresema Workneh | [Read More](https://medium.com/p/e8e51325fe0e) |
+| Mon, 27 Oct 2025 14:24:21 GMT | Security Review: Critical Zero-Days and Vulnerability Patches You Can’t Ignore — 27 October 2025 | SecuritySc0ut | [Read More](https://medium.com/p/77a42a5ec1bf) |
+| Mon, 27 Oct 2025 14:24:05 GMT | Announcing Creek Testnet’s Bug Bounty Program | Creek Finance | [Read More](https://medium.com/p/4580edca378c) |
+| Mon, 27 Oct 2025 14:23:27 GMT | The Federal Republic of Nigeria has laws governing cybersecurity in Nigeria. | Emenanjo Ndigwe | [Read More](https://medium.com/p/eb90bd3e0359) |
+| Mon, 27 Oct 2025 14:21:51 GMT | Cybersecurity Regulations in Critical Infrastructure: Navigating New Rules (NIS2, CISA directives… | Cyberkech | [Read More](https://medium.com/p/608e82dad002) |
+| Mon, 27 Oct 2025 14:18:58 GMT | Can we sip, a little? | xO_CosmicGiggles_xO | [Read More](https://medium.com/p/53d0b717b59b) |
+| Mon, 27 Oct 2025 14:17:06 GMT | Protecting Louisiana Homes with Smart Security Solutions from A Plus Security Systems, LLC | Habaradasshazz | [Read More](https://medium.com/p/65b4a4cb69ff) |
 | Mon, 27 Oct 2025 14:15:55 GMT | I Built an AI Smart Contract Auditor That Actually Works (Here’s the Proof) | Dhillon Andrew Kannabhiran | [Read More](https://medium.com/p/61918d2f70f1) |
 | Mon, 27 Oct 2025 14:12:46 GMT | Introducing IAMSage : The Free, Open-Source LLM Assistant for IAM Pros | Abhilash | [Read More](https://medium.com/p/8f5fa383a259) |
 | Mon, 27 Oct 2025 14:11:52 GMT | Project Zero is a team that has been assembled by Google to prevent attackers from exploiting… | Emenanjo Ndigwe | [Read More](https://medium.com/p/d6cf9b6dc5d9) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 10:54:25 GMT | Review: The New CRTA Exam — Is It Easier Now? | 0xc4t | [Read More](https://medium.com/p/bb5f0684cc2c) |
 | Mon, 27 Oct 2025 10:51:05 GMT | How CompTIA Security+ Helps with Network Security Careers | Niyakohli | [Read More](https://medium.com/p/5dd91134b808) |
 | Mon, 27 Oct 2025 10:50:05 GMT | ExtraHOP — NDR | Moamjad | [Read More](https://medium.com/p/2ea63c7e3634) |
-| Mon, 27 Oct 2025 10:48:07 GMT | Ransomware in 2025: The Dark Evolution of Cyber Extortion and How to Prevent It | Rizqi Mulki | [Read More](https://medium.com/p/4feaf17aa1b2) |
-| Mon, 27 Oct 2025 10:38:36 GMT | 8 Real-World Challenges in Multi-Tenant Database Architecture (and How to Solve Them in 2025) | Rizqi Mulki | [Read More](https://medium.com/p/ada203064b87) |
-| Mon, 27 Oct 2025 10:36:01 GMT | Smart Cybersecurity Risk Management for a Safer Digital Future | Vishwajeettechtech | [Read More](https://medium.com/p/bcb61b4bba8c) |
-| Mon, 27 Oct 2025 10:30:48 GMT | Mindset Hacker: Cara Berpikir Seorang Ahli Keamanan Siber | K1llu4 | [Read More](https://medium.com/p/e22080b363f4) |
-| Mon, 27 Oct 2025 10:24:47 GMT | Why ServiceNow Financial Management is Essential for Modern Finance Teams | Alex s | [Read More](https://medium.com/p/386b78581eb1) |
-| Mon, 27 Oct 2025 10:24:15 GMT | Root Me File upload — Polyglot | Saraqasim | [Read More](https://medium.com/p/2ef5a23e59f3) |
-| Mon, 27 Oct 2025 10:07:48 GMT | Bachelor of Science in Cybersecurity - ECCU | Shreyashettyctr | [Read More](https://medium.com/p/5cc32eb6f33a) |
-| Mon, 27 Oct 2025 10:06:15 GMT | Digital Shield: Defining a New Military-Grade Security Standard for Digital Asset Self-Custody | Digital Shield Offcial | [Read More](https://medium.com/p/85661fab9908) |
-| Mon, 27 Oct 2025 10:04:59 GMT | I Spent an Evening Over-Engineering a USB Sandbox. Then I Found the Obvious Answer. | Luis Edward M. Miranda | [Read More](https://medium.com/p/cb6a03a89ad3) |
-| Mon, 27 Oct 2025 10:04:25 GMT | From Wealth Bonds to Vibe Hacking | Rubab Fatima | [Read More](https://medium.com/p/29d7b0148a45) |
-| Mon, 27 Oct 2025 10:02:15 GMT | GenAI Threats in SaaS & Collaboration Tools | Jackdavis Iap | [Read More](https://medium.com/p/b6454c81cc50) |
-| Mon, 27 Oct 2025 10:02:05 GMT | DockerLabs Writeup — DockerLabs (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/36883d063513) |
