@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 05:04:54 GMT | How to Hide WordPress Login Page From Hackers [2 Effective Methods] | Hamza Hanif | [Read More](https://medium.com/p/27e5fb2bde16) |
+| Mon, 27 Oct 2025 05:04:32 GMT | How Authentication Actually Works: Simplifying Basic, Bearer, and JWT | Ashwin Sridharan | [Read More](https://medium.com/p/93f1e338cf86) |
+| Mon, 27 Oct 2025 05:00:37 GMT | Cara Belajar Informatika Dengan Efektif | keisyawirawan | [Read More](https://medium.com/p/def6057d84a9) |
+| Mon, 27 Oct 2025 04:50:16 GMT | Forescout FSCP Dumps CertsOut Halloween Sale 70% OFF! | Jessica Adams | [Read More](https://medium.com/p/c431ee65ff3a) |
+| Mon, 27 Oct 2025 04:46:41 GMT | HackTheBox Windows Event Logs and Finding Evil Skills Assessment: Putting It All Together | Cybersecurity Simplified | [Read More](https://medium.com/p/5aea7310b0ae) |
+| Mon, 27 Oct 2025 04:45:01 GMT | #4 RFI: From an External URL Into your Application | Imvkale | [Read More](https://medium.com/p/a5aeb1c5958c) |
 | Mon, 27 Oct 2025 04:33:03 GMT | Human Error and Hacker Craft: Unraveling Twitter’s 2020 Vishing Scandal | Shivam Kanodia | [Read More](https://medium.com/p/42cd4dd29af7) |
 | Mon, 27 Oct 2025 04:31:58 GMT | How AI Helps You Detect Multi-Cloud Compliance Risks Faster | Neova Solutions | [Read More](https://medium.com/p/d70ce98c0e36) |
 | Mon, 27 Oct 2025 04:31:54 GMT | Cyber Risk Quantification: Turning Tech Jargon into Business Language | Tharun Krishnamoorthy | [Read More](https://medium.com/p/796d817ec8db) |
@@ -107,9 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 16:48:38 GMT | wannacry ransomware | Chiamaka Ezeike | [Read More](https://medium.com/p/5f7d5276a7a9) |
 | Sun, 26 Oct 2025 16:42:10 GMT | Understanding the State of Post-Quantum Cryptography [2025 Q3] | Marcell Ujlaki | [Read More](https://medium.com/p/cb6c4a5abc82) |
 | Sun, 26 Oct 2025 16:39:12 GMT | Post-Exploitation with Mimikatz: What Every Defender Should Know | Cybersensus | [Read More](https://medium.com/p/c7a93c9ca7ce) |
-| Sun, 26 Oct 2025 16:38:28 GMT | Malware Analysis: Vidar Stealer 2.0 -A Rebuilt, Faster, and Smarter Infostealer Dominating 2025 | Jon C | [Read More](https://medium.com/p/3f246a98a385) |
-| Sun, 26 Oct 2025 16:35:50 GMT | 99% Innovation 1% Governance | Adebukola | [Read More](https://medium.com/p/c0e8b5d96d18) |
-| Sun, 26 Oct 2025 16:35:48 GMT | The Convergence of Catastrophe: Why the AWS Outage, JLR Hack, and Agentic AI Signal a New Era of… | Aneeqibtesam | [Read More](https://medium.com/p/bca34e14d5d7) |
-| Sun, 26 Oct 2025 16:27:03 GMT | Your Guide to Seamless Accounts Payable Automation | Vishwajeettechtech | [Read More](https://medium.com/p/ff1006e1e3b8) |
-| Sun, 26 Oct 2025 16:26:38 GMT | choose love, always | parichaya manjunath | [Read More](https://medium.com/p/7c01b549e861) |
-| Sun, 26 Oct 2025 16:13:24 GMT | Pentesting Firebase | Ramiz Osmanov | [Read More](https://medium.com/p/f723fd510dce) |
