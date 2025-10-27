@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 20:06:58 GMT | TryHackMe walkthrough Core Windows Processes | The Commoness | [Read More](https://medium.com/p/e585061d168d) |
+| Mon, 27 Oct 2025 19:51:27 GMT | Incident handler’s journal | Sameera Nazneen | [Read More](https://medium.com/p/c9a5512a76bd) |
+| Mon, 27 Oct 2025 19:51:02 GMT | The Cognitive Layer of Agentic Intelligence | Ashkan Karimi | [Read More](https://medium.com/p/f1dcb18421a9) |
+| Mon, 27 Oct 2025 19:50:29 GMT | Unearth the Secrets of Cybersecurity: Password Hygiene with an Indiana Jones Twist | Danielle Koppel | [Read More](https://medium.com/p/d381f8cfe481) |
+| Mon, 27 Oct 2025 19:50:05 GMT | Uncovering the Secrets of Password Managers: Your Cybersecurity Companion | Danielle Koppel | [Read More](https://medium.com/p/e9f40a9b60bf) |
+| Mon, 27 Oct 2025 19:49:01 GMT | Mastering SonarQube with Jenkins & Multi-Branch Support: Complete Hands-On Walkthrough | @Harsh | [Read More](https://medium.com/p/0d142c711305) |
+| Mon, 27 Oct 2025 19:48:05 GMT | Mitigating Cache Poisoning in AWS CloudFront: A Frontend Engineer’s Guide | eduardo aparicio cardenes | [Read More](https://medium.com/p/9a5f72d4bb9b) |
+| Mon, 27 Oct 2025 19:46:58 GMT | Do Cérebro Humano ao Cérebro Digital: Entendendo o Perceptron | Matheus_PrataScientist | [Read More](https://medium.com/p/f4da9f065cda) |
+| Mon, 27 Oct 2025 19:32:47 GMT | Learn Sigma (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/d2279e2733d6) |
 | Mon, 27 Oct 2025 19:31:06 GMT | O CÉREBRO COMO MODELO PARA NOVOS BANCOS DE DADOS | Murilo Ferreira | [Read More](https://medium.com/p/b23d4adee204) |
 | Mon, 27 Oct 2025 19:26:51 GMT | Shaping the Future of Finance, Technology & Cybersecurity in Africa | Bloomberg Feature - Executive Spotlight | [Read More](https://medium.com/p/86e48291b0a4) |
 | Mon, 27 Oct 2025 19:25:48 GMT | Hashtagged — Writeup | Abdullah | [Read More](https://medium.com/p/fb0f15016bfc) |
@@ -104,12 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 14:31:17 GMT | Red Team Dorks: The Ultimate OSINT Recon Cheat-Sheet for Attack Surface Mapping | XoX | [Read More](https://medium.com/p/a94b4c778492) |
 | Mon, 27 Oct 2025 14:29:07 GMT | The domains of cybersecurity include: | Emenanjo Ndigwe | [Read More](https://medium.com/p/f989c31f5783) |
 | Mon, 27 Oct 2025 14:27:21 GMT | Security and Performance Aspects of Cgroups v2 | Eren Cankut Uysal | [Read More](https://medium.com/p/db16b29854a5) |
-| Mon, 27 Oct 2025 14:26:48 GMT | Cool Tech: Exploring the Future of Innovation | Elite Aneesa999 | [Read More](https://medium.com/p/8724895415cd) |
-| Mon, 27 Oct 2025 14:24:46 GMT | ha-direct enable command in Fortinet | ATTOUCHI MOHAMED | [Read More](https://medium.com/p/632f3a8eaf44) |
-| Mon, 27 Oct 2025 14:24:35 GMT | What is Quantum Computing? | Aresema Workneh | [Read More](https://medium.com/p/e8e51325fe0e) |
-| Mon, 27 Oct 2025 14:24:21 GMT | Security Review: Critical Zero-Days and Vulnerability Patches You Can’t Ignore — 27 October 2025 | SecuritySc0ut | [Read More](https://medium.com/p/77a42a5ec1bf) |
-| Mon, 27 Oct 2025 14:24:05 GMT | Announcing Creek Testnet’s Bug Bounty Program | Creek Finance | [Read More](https://medium.com/p/4580edca378c) |
-| Mon, 27 Oct 2025 14:23:27 GMT | The Federal Republic of Nigeria has laws governing cybersecurity in Nigeria. | Emenanjo Ndigwe | [Read More](https://medium.com/p/eb90bd3e0359) |
-| Mon, 27 Oct 2025 14:21:51 GMT | Cybersecurity Regulations in Critical Infrastructure: Navigating New Rules (NIS2, CISA directives… | Cyberkech | [Read More](https://medium.com/p/608e82dad002) |
-| Mon, 27 Oct 2025 14:18:58 GMT | Can we sip, a little? | xO_CosmicGiggles_xO | [Read More](https://medium.com/p/53d0b717b59b) |
-| Mon, 27 Oct 2025 14:17:06 GMT | Protecting Louisiana Homes with Smart Security Solutions from A Plus Security Systems, LLC | Habaradasshazz | [Read More](https://medium.com/p/65b4a4cb69ff) |
