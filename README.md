@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 12:44:25 GMT | The Dark Side of Wi-Fi: What Your Laptop Is Telling Strangers | Arfa | [Read More](https://medium.com/p/4d6acfdcf635) |
+| Mon, 27 Oct 2025 12:33:45 GMT | Ketika Finance Bisa Jadi Admin: Privilege Escalation di Sistem Payroll | Robi Mohamad subagja | [Read More](https://medium.com/p/3344042258a0) |
+| Mon, 27 Oct 2025 12:33:32 GMT | Tools That Every Bug Bounty Hunter Should Master | TheCyberKnight | [Read More](https://medium.com/p/6ade8458b5d9) |
+| Mon, 27 Oct 2025 12:32:18 GMT | How to Unlock a Bathroom Door Twist Lock Without a Key: Quick & Safe Methods | Sure Lock & Key LLC | [Read More](https://medium.com/p/46aa96ea5b14) |
+| Mon, 27 Oct 2025 12:26:38 GMT | Specialized & Context-Aware: 5 RAG LLMs for Cyber Security | Mehdi | [Read More](https://medium.com/p/4670d73f67ca) |
+| Mon, 27 Oct 2025 12:25:52 GMT | [OverTheWire] Bandit Level 13 → 14 | H$nt | [Read More](https://medium.com/p/5c5b404e15c0) |
+| Mon, 27 Oct 2025 12:24:57 GMT | Google Cloud CMEK (Customer-Managed Encryption Keys) | Bhavesh Vala | [Read More](https://medium.com/p/265f4622e22d) |
+| Mon, 27 Oct 2025 12:24:09 GMT | [OverTheWire] Bandit Level 12 → 13 | H$nt | [Read More](https://medium.com/p/d2304bd221f3) |
+| Mon, 27 Oct 2025 12:23:53 GMT | Why Men Don’t Speak | Shashanksunny | [Read More](https://medium.com/p/fa36d97b4b90) |
+| Mon, 27 Oct 2025 12:21:46 GMT | BFSI in the Digital Crossfire: Building Cyber Resilience in the Fintech Era | Shreyas Ganpule | [Read More](https://medium.com/p/b80f46610160) |
+| Mon, 27 Oct 2025 12:21:36 GMT | Why I Always Restrict Outbound DNS on Servers (and How It Blocks Data Exfiltration) | Faruk Ahmed | [Read More](https://medium.com/p/d81456c158d8) |
+| Mon, 27 Oct 2025 12:21:22 GMT | [OverTheWire] Bandit Level 11 → 12 | H$nt | [Read More](https://medium.com/p/e70a81ba29db) |
+| Mon, 27 Oct 2025 12:20:30 GMT | Day 39: VPC Endpoints — Secure Private Access to AWS Services | Prutha_Dongre | [Read More](https://medium.com/p/3a7775866ba1) |
+| Mon, 27 Oct 2025 12:14:40 GMT | bWAPP Broken Auth. Insecure Login Forms security level medium | Ahmadfaizabdillah | [Read More](https://medium.com/p/70f0e172e836) |
+| Mon, 27 Oct 2025 12:14:31 GMT | Apartment Building Access Control Systems Solving Security Problems with Smart Solutions | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/e5392bce5d71) |
+| Mon, 27 Oct 2025 12:10:15 GMT | Most hunters chase scanners and payload lists. | Viratavi | [Read More](https://medium.com/p/f946c25db6f3) |
+| Mon, 27 Oct 2025 12:06:53 GMT | Parenting in the Digital Age. 6 Tips to Help Kids Stay Safe Online | Protect kids minds | [Read More](https://medium.com/p/1dde75df69e1) |
+| Mon, 27 Oct 2025 12:05:48 GMT | ESC1: Client Authentication with ENROLLEE_SUPPLIES_SUBJECT | Maishamanarat | [Read More](https://medium.com/p/fb3dbbc456e6) |
+| Mon, 27 Oct 2025 11:51:19 GMT | bWAPP Broken Auth. Insecure Login Forms security level low | Ahmadfaizabdillah | [Read More](https://medium.com/p/a918128deab2) |
+| Mon, 27 Oct 2025 11:49:35 GMT | How Organizations Build “Airplanes in the Sky” ✈️ | Frances Parker | [Read More](https://medium.com/p/877b9ddb49b2) |
+| Mon, 27 Oct 2025 11:47:16 GMT | Post-Quantum Now: From AES & RSA to ML-KEM Hybrids | Netlas.io | [Read More](https://medium.com/p/3c7ed6db6a1d) |
+| Mon, 27 Oct 2025 11:46:15 GMT | Importance of Quantum Key Distribution (QKD) in Protecting Critical Infrastructure | BlockByte | [Read More](https://medium.com/p/887aaffde0b1) |
+| Mon, 27 Oct 2025 11:32:57 GMT | Important Powershell Commands for Pentesters | Ria Banerjee | [Read More](https://medium.com/p/7b8de28d8137) |
+| Mon, 27 Oct 2025 11:31:52 GMT | 5 Slack Templates for Efficient Bug Reporting (Copy, Paste, Save Everyone’s Time) | Lola Ogungbuaro | [Read More](https://medium.com/p/650129d13165) |
 | Mon, 27 Oct 2025 11:29:37 GMT | How Red Team Testing Exposes Hidden Weaknesses Before Hackers Do | SmartCLOUD Australia | [Read More](https://medium.com/p/9e7499b05481) |
 | Mon, 27 Oct 2025 11:26:34 GMT | Part 1: Ghost in the Machine: The Art of Network Pivoting(Chisel)‍☠️ | own_the_net | [Read More](https://medium.com/p/3aa61217ce87) |
 | Mon, 27 Oct 2025 11:23:40 GMT | 8 Hidden iPhone 15 Pro Max Shortcuts That Save You Time Every Day | Grace Anderson | [Read More](https://medium.com/p/41d6f4718d65) |
@@ -88,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 07:53:01 GMT | From Risk to Resilience: The Role of Cyber Security Awareness Training | The Knowledge Academy | [Read More](https://medium.com/p/0185fd5f94ac) |
 | Mon, 27 Oct 2025 07:50:41 GMT | The Cracks Are Where the Light Gets Out | Nawab Khan | [Read More](https://medium.com/p/caa1b20dedd3) |
 | Mon, 27 Oct 2025 07:50:39 GMT | Breaking Root: The Ultimate Linux Priv Esc Handbook - Cyber Codex | Aenosh Rajora | [Read More](https://medium.com/p/64431eede783) |
-| Mon, 27 Oct 2025 07:43:51 GMT | Skeleton Key Attack: Active Directory’de Bellek İçi Arka Kapı (In-Memory Backdoor) Sömürüsü ve… | Tuğrul Kılıç | [Read More](https://medium.com/p/5548cb84cea8) |
-| Mon, 27 Oct 2025 07:43:44 GMT | Breaking Open in Budapest | Maryanne Pope | [Read More](https://medium.com/p/8050cdc8883a) |
-| Mon, 27 Oct 2025 07:37:53 GMT | Windows Event Logs - Endpoint Security Monitoring — THM [2025] | Rahul | [Read More](https://medium.com/p/4640daad26db) |
-| Mon, 27 Oct 2025 07:35:45 GMT | SQLi Labs Level 2 Walk | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/0ce62f08ab2b) |
-| Mon, 27 Oct 2025 07:34:11 GMT | The Hidden Dangers Lurking in Your Business Network — Why Penetration Testing Matters in 2025
-In… | Hamzaqureshiqureshi | [Read More](https://medium.com/p/e24dc925fdc5) |
-| Mon, 27 Oct 2025 07:32:18 GMT | Secure by Default for Node Apps | Thinking Loop | [Read More](https://medium.com/p/71537b7fb26d) |
-| Mon, 27 Oct 2025 07:31:56 GMT | Lets See Through a Scammer’s Eyes: How Scammers Trick You: How to Spot Phishing Traps | ThreatWatch360 | [Read More](https://medium.com/p/f582379f1f4a) |
-| Mon, 27 Oct 2025 07:26:18 GMT | خطر اتفاقية السلام في السودان | Ahmed El-Affendi | [Read More](https://medium.com/p/a43f0f5cd1bd) |
-| Mon, 27 Oct 2025 07:22:43 GMT | SQLi Labs Level 1 | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/21de4e07fe45) |
-| Mon, 27 Oct 2025 07:16:22 GMT | Sysinternals - Endpoint Security Monitoring — THM [2025] | Rahul | [Read More](https://medium.com/p/6c5430e15a10) |
-| Mon, 27 Oct 2025 07:12:25 GMT | Attacks by OSI Layer what they are, how they work, attacker tools, and defenses | Ritesh Thorve | [Read More](https://medium.com/p/a4a58b0dae2a) |
-| Mon, 27 Oct 2025 07:07:44 GMT | Blocky - HTB Walkthrough | Simi | [Read More](https://medium.com/p/21d494f3ab72) |
-| Mon, 27 Oct 2025 07:04:52 GMT | 7 Genius iPhone 5s Hacks to Boost Speed and Battery Life | Chloe White | [Read More](https://medium.com/p/663dbee49a97) |
-| Mon, 27 Oct 2025 07:04:40 GMT | Urgent Alert: Critical Microsoft WSUS Vulnerability (CVE-2025–59287) Actively Exploited — Patch Now! | Germano Costi | [Read More](https://medium.com/p/8d647402ac6e) |
-| Mon, 27 Oct 2025 07:03:51 GMT | Networking Explained: From Basics to Advanced Concepts | Ritesh Thorve | [Read More](https://medium.com/p/daac95b53278) |
-| Mon, 27 Oct 2025 07:02:21 GMT | This Certification Transformed the Way I See My Career | Amuda Rukayat (rukeiyahh) | [Read More](https://medium.com/p/b11493b93521) |
-| Mon, 27 Oct 2025 07:02:19 GMT | Secure Integrations, Safer Data: GDPR in n8n & Zapier | Syntal | [Read More](https://medium.com/p/a513fa8e2848) |
-| Mon, 27 Oct 2025 06:56:31 GMT | Core Windows Processes - Endpoint Security Monitoring — THM [2025] | Rahul | [Read More](https://medium.com/p/858539fde18f) |
-| Mon, 27 Oct 2025 06:52:04 GMT | Assets represent everything valuable to an organization, from digital infrastructure and devices… | Adeleke Theophilus O | [Read More](https://medium.com/p/b1597d20818a) |
-| Mon, 27 Oct 2025 06:50:03 GMT | Cloud Hosting Vs VPS Hosting: Which One You Should Choose and Why? | HostNOC | [Read More](https://medium.com/p/bd381c22a4c8) |
-| Mon, 27 Oct 2025 06:48:05 GMT | Why 90% of Websites Fail at Basic Security Headers | Vipul Sonule | [Read More](https://medium.com/p/905b76a9c52c) |
-| Mon, 27 Oct 2025 06:46:37 GMT | Navigating the Future: Essential Career Strategies for IT and Software Engineering Professionals in… | okot aaron | [Read More](https://medium.com/p/4000d7f31363) |
-| Mon, 27 Oct 2025 06:43:15 GMT | Every Beginner Misses Bugs — Until They Learn This Mindset | Vivek PS | [Read More](https://medium.com/p/a995db2c4707) |
-| Mon, 27 Oct 2025 06:31:28 GMT | ️‍♂️ The Ultimate Guide to Using the Wayback Machine for Ethical Recon & Security Research | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/089337aff6c0) |
