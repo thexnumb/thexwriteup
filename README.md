@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 08:47:19 GMT | Fixing the Medium Access Issue in India: Simple Solutions That Work | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/9da36f1ba231) |
+| Mon, 27 Oct 2025 08:46:07 GMT | Introduction | Harshal Jethwa | [Read More](https://medium.com/p/8e14228596af) |
+| Mon, 27 Oct 2025 08:44:26 GMT | Sonatype Nexus Path Trevarsal Zafiyeti ve Canlı Örnek Üzerinde İstismarı (CVE-2024–4956) | mehmet şerif paşa | [Read More](https://medium.com/p/c5d651c2c739) |
+| Mon, 27 Oct 2025 08:38:13 GMT | DOMAINS OF CYBERSECURITY | Chiamaka Ezeike | [Read More](https://medium.com/p/46a85f0a9124) |
+| Mon, 27 Oct 2025 08:34:13 GMT | The Hidden Dangers of AI-Powered Browsers: How Prompt Injection Attacks Are Turning Your Smart… | Germano Costi | [Read More](https://medium.com/p/a196f9d16652) |
 | Mon, 27 Oct 2025 08:23:08 GMT | Ransomware Explained: What It Is and How It Affects You | TheCyberKnight | [Read More](https://medium.com/p/2e1cf3993b96) |
 | Mon, 27 Oct 2025 08:20:10 GMT | What Is Blind SQL Injection? Content-Based and Time-Based Approaches | Sara | [Read More](https://medium.com/p/ee0d47789483) |
+| Mon, 27 Oct 2025 08:20:00 GMT | The Lowdown on ChatGPT Atlas — and Why It Might Redefine the Browser Itself | Rajiv Gopinath | [Read More](https://medium.com/p/8526c10d4972) |
 | Mon, 27 Oct 2025 08:17:06 GMT | What It Would Take for 5G to Actually Work in Nigeria | The Diary Of a Data Professional | [Read More](https://medium.com/p/1d812ef66447) |
 | Mon, 27 Oct 2025 08:10:56 GMT | Best Mobile Application Security Testing Tools for Android and iOS | cyber security Updates | [Read More](https://medium.com/p/1d81632d3744) |
 | Mon, 27 Oct 2025 08:08:13 GMT | Jenkins 취약점 이슈 (Script Security sandbox bypass vulnerability in Email Extension Plugin) | 재호 | [Read More](https://medium.com/p/c1701c823b81) |
@@ -107,9 +113,3 @@ In… | Hamzaqureshiqureshi | [Read More](https://medium.com/p/e24dc925fdc5) |
 | Sun, 26 Oct 2025 22:37:27 GMT | Mr. Robot’s Crackwhore Fentanyl Fiend: The Untold Story of Elliot Alderson | Justas_b | [Read More](https://medium.com/p/c869039bf9df) |
 | Sun, 26 Oct 2025 22:27:32 GMT | Detecting AI-Manipulated and AI-Generated Images Using Multi-Modal Forensics | Saif hammad | [Read More](https://medium.com/p/ad909a27e318) |
 | Sun, 26 Oct 2025 22:26:48 GMT | Global Input Sanitization in Angular: A Centralized Security Approach | Louis Trinh | [Read More](https://medium.com/p/1902cfdfcc65) |
-| Sun, 26 Oct 2025 22:13:06 GMT | The Panda’s Omen: HackTheboo CTF Practice OSINT | Bridget | [Read More](https://medium.com/p/3573971f51e5) |
-| Sun, 26 Oct 2025 22:08:48 GMT | Advanced Bug Bounty Recon: A Methodology That Uncovers Hidden Vulnerabilities | Santhosh Adiga U | [Read More](https://medium.com/p/7450bcf5200f) |
-| Sun, 26 Oct 2025 22:02:24 GMT | Secure the Next Wave: Protecting Agentic AI Solutions on Azure AI Foundry | Arsh Riz | [Read More](https://medium.com/p/73d6302a9fc0) |
-| Sun, 26 Oct 2025 22:00:14 GMT | How to Set Up Splunk Enterprise in Docker Desktop for Your Home Lab | Raynard Waits | [Read More](https://medium.com/p/af953b0e69ca) |
-| Sun, 26 Oct 2025 21:59:25 GMT | Artificial IntelligenceThe New Criminals: How AI is Fueling Smarter, Faster, and Scarier… | weber | [Read More](https://medium.com/p/e3b57f8e6cf8) |
-| Sun, 26 Oct 2025 21:57:24 GMT | HTB-Artificial walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/3f6d74c565a6) |
