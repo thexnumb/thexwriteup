@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 03:49:58 GMT | Indonesia Threat Landscape 2025 | sudo3rs | [Read More](https://medium.com/p/d22e985deec7) |
+| Mon, 27 Oct 2025 03:46:18 GMT | OWASP Faction 1.7 — Major Updates for Enterprise Security Teams | Josh Summitt | [Read More](https://medium.com/p/aa205cef68e7) |
+| Mon, 27 Oct 2025 03:44:41 GMT | How to Work Like a Pro, Even When You Don’t Feel Like One | Global Whirl of Wonders | [Read More](https://medium.com/p/08503f80dcc5) |
 | Mon, 27 Oct 2025 03:09:44 GMT | Conquering CompTIA Security+: 591Lab’s Ultimate Guide . | Al Beruni | [Read More](https://medium.com/p/c3a3e6be74b0) |
 | Mon, 27 Oct 2025 02:58:17 GMT | Security Guidelines for Model Context Protocol in AWS | Sekh Mohammad warish | [Read More](https://medium.com/p/f82db0bab8de) |
 | Mon, 27 Oct 2025 02:57:35 GMT | Week 15 — Automated JS Enum: Methodology & Architecture | Aang | [Read More](https://medium.com/p/31becf8693ec) |
@@ -110,6 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 15:45:21 GMT | Was macht eine Krypto-Wallet sicher? | Estoy | [Read More](https://medium.com/p/ec2d81fda07c) |
 | Sun, 26 Oct 2025 15:40:21 GMT | Post-Exploitation Toolkit: 25 Commands Every Hacker Uses (Step-by-Step Guide) | Very Lazy Tech | [Read More](https://medium.com/p/9075ebc6f7f1) |
 | Sun, 26 Oct 2025 15:38:00 GMT | How I Turned My Bug Bounty Workflow Into an AI-Powered Money Machine | Abdellaoui Ahmed | [Read More](https://medium.com/p/e6eeffea9cd8) |
-| Sun, 26 Oct 2025 15:37:49 GMT | Security That Doesn’t Compromise Convenience | GGEX | [Read More](https://medium.com/p/889b3a74e542) |
-| Sun, 26 Oct 2025 15:35:31 GMT | Global Threat Intelligence Report October 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/3779eff7766d) |
-| Sun, 26 Oct 2025 15:32:57 GMT | Topic 40: Responsive Web Design (RWD) | Rana Awais | [Read More](https://medium.com/p/44a18983414d) |
