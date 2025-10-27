@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 19:10:06 GMT | Start Owning Your Privacy Before Someone Else Does! Make Privacy As Your Default Settings. | NnFace | [Read More](https://medium.com/p/8722d7f20c96) |
+| Mon, 27 Oct 2025 19:05:58 GMT | Top 10 Common API Security Mistakes (and How to Fix Them) | Tuhin Kairi | [Read More](https://medium.com/p/ef9f5e2be6cd) |
+| Mon, 27 Oct 2025 19:05:39 GMT | eJPT — 4.1 CTF 1 Web Application Penetration Testing | Dharmendrakumar | [Read More](https://medium.com/p/663b181029b3) |
+| Mon, 27 Oct 2025 19:02:58 GMT | Conversor (Hack The Box) — Full Description and Step-by-Step Guide | KRY | [Read More](https://medium.com/p/3b0315848c4c) |
+| Mon, 27 Oct 2025 19:01:51 GMT | Hack The Boo 2025 — Practice — Web | n01rrr | [Read More](https://medium.com/p/c814fe10d85a) |
+| Mon, 27 Oct 2025 18:35:37 GMT | Living off the Land: Why Your Network Sees Attacks as Normal Traffic - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/8f56dbe72984) |
+| Mon, 27 Oct 2025 18:29:13 GMT | The Patchwork of Emotions | Dr. Nilantika Chakraborty, Ph.D. | [Read More](https://medium.com/p/18c02e9bf0c9) |
+| Mon, 27 Oct 2025 18:27:18 GMT | What is the real nature of the cyber world..?
+AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गया…? | Jassi - Admirer of RG Sir | [Read More](https://medium.com/p/c89aa389cd22) |
+| Mon, 27 Oct 2025 18:26:39 GMT | Building a Smart Security Automation Lab with Splunk and N8N | Cenky | [Read More](https://medium.com/p/76272675ba4a) |
 | Mon, 27 Oct 2025 18:22:46 GMT | Information Disclosure: The Bug Bounty Hunter’s Gold Mine - A Practical Guide | Santhosh Adiga U | [Read More](https://medium.com/p/1a31428f882a) |
+| Mon, 27 Oct 2025 18:21:26 GMT | Hashing Basics — Writeup | Mahir | [Read More](https://medium.com/p/70e39a49fead) |
 | Mon, 27 Oct 2025 18:18:43 GMT | Every Man’s Expense: SSL Certificate Purchase — What I Did Instead! | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/dfc274ff9eff) |
 | Mon, 27 Oct 2025 18:08:54 GMT | ️‍♂️ TryHackMe — NetworkMiner Write-up | Hesham Hendawy | [Read More](https://medium.com/p/f89936f2abb6) |
 | Mon, 27 Oct 2025 18:03:54 GMT | Madrid, 24 de octubre de 2025, 06:00 AM CEST. | Migdonio Suárez León | [Read More](https://medium.com/p/880f29b4eb40) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 14:03:35 GMT | CYBERCON 2025 — “Please find my u and v” — Crypto Writeup | Shoaib Bin Rashid | [Read More](https://medium.com/p/8a0bcaa4f247) |
 | Mon, 27 Oct 2025 14:02:23 GMT | Cyber Briefing: 2025.10.27 | CyberMaterial | [Read More](https://medium.com/p/9482f6ce43fa) |
 | Mon, 27 Oct 2025 14:00:07 GMT | Deathnote Vulnhub | Qargi | [Read More](https://medium.com/p/63208daa0f44) |
-| Mon, 27 Oct 2025 13:58:30 GMT | Bluetooth Mimarisi ve Temel Kavramlar-4 | Alperkandemir | [Read More](https://medium.com/p/a0a830709cd3) |
-| Mon, 27 Oct 2025 13:56:40 GMT | How Small Businesses Can Switch from Passwords to Passkeys — and Why They Should Do It Now | Cordula Boeck | [Read More](https://medium.com/p/67c1224c0d08) |
-| Mon, 27 Oct 2025 13:56:28 GMT | The Six Ways Americans Experience Home in 2025 | Prxy AI | [Read More](https://medium.com/p/aa15de280db2) |
-| Mon, 27 Oct 2025 13:56:26 GMT | HIPAA-Compliant AI: How to Use Copilot, ChatGPT, and VDI Safely in Healthcare | Technijian | [Read More](https://medium.com/p/40ed06291ab0) |
-| Mon, 27 Oct 2025 13:51:02 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/8a50bbc26b99) |
-| Mon, 27 Oct 2025 13:48:38 GMT | DEADFACE CTF 2025 part 2 - SQLite007 | Aderogbarufai | [Read More](https://medium.com/p/000c4609e020) |
-| Mon, 27 Oct 2025 13:46:56 GMT | DEADFACE CTF 2025 part 1 -Stolen Secrets | Aderogbarufai | [Read More](https://medium.com/p/ad71c9397209) |
-| Mon, 27 Oct 2025 13:44:47 GMT | Incogni 2025: The Privacy Revolution Everyone’s Talking About | The Deep Frame | [Read More](https://medium.com/p/be7886d91372) |
-| Mon, 27 Oct 2025 13:44:35 GMT | DEADFACE CTF 2025 part3- Hack the Night | Aderogbarufai | [Read More](https://medium.com/p/10d29525be79) |
-| Mon, 27 Oct 2025 13:44:29 GMT | Your New Co-Pilot: How AI Will Enhance Your Creative Genius | UXVerse — ◦ | [Read More](https://medium.com/p/3467d2af18f5) |
