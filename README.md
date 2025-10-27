@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 15:35:39 GMT | Ranjith Ravula on Personal Branding, Resilience, and Redefining the Future of Recruiting | Business Leaders of America Podcast | [Read More](https://medium.com/p/5cee62b74434) |
+| Mon, 27 Oct 2025 15:33:13 GMT | 4 Types of AI: From Reactive to Self-Aware Systems | O Código Futuro | [Read More](https://medium.com/p/ebae337be529) |
+| Mon, 27 Oct 2025 15:32:57 GMT | Top Cyber Security Solutions Building a Secure Digital Future | Nexasoftinfinity | [Read More](https://medium.com/p/1a8e1cb20149) |
+| Mon, 27 Oct 2025 15:31:22 GMT | Aligning Internal IT Processes in a Non-Technical Industry Taught Me the True Value of GRC | R-Squared Cyber | [Read More](https://medium.com/p/5c16d5cccd15) |
+| Mon, 27 Oct 2025 15:31:11 GMT | How i hacked my GPON router | Natig Mammadli | [Read More](https://medium.com/p/aebbe81ff200) |
+| Mon, 27 Oct 2025 15:25:17 GMT | CVE-2025–60542 — TypeORM+MySQL SQLi =< 0.3.25 | Javad Alizada | [Read More](https://medium.com/p/a1b32bc60453) |
+| Mon, 27 Oct 2025 15:25:12 GMT | Understanding Backdoors and Payloads: A Basic Guide | Abel Thomas | [Read More](https://medium.com/p/94900ec4c533) |
+| Mon, 27 Oct 2025 15:23:37 GMT | Avoid a Security Disaster: How to Safely Use Any Python Program | Maikel Mardjan | [Read More](https://medium.com/p/bbe3720d54a4) |
+| Mon, 27 Oct 2025 15:23:23 GMT | Connecting the Clues: An Intro to SIEM with TryHackMe | Furkanctiner | [Read More](https://medium.com/p/c5b9a89fc200) |
+| Mon, 27 Oct 2025 15:20:34 GMT | Chocolate Factory writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/f956d92bbe64) |
 | Mon, 27 Oct 2025 15:16:50 GMT | “The $10,000 GitLab Flaw: How a Parameter Mixup Exposed Internal Files” | Aman Sharma | [Read More](https://medium.com/p/be862c071fa8) |
 | Mon, 27 Oct 2025 15:15:11 GMT | RSA Encryption and Decryption | Gadeabhishekreddy | [Read More](https://medium.com/p/57feb25a8ba7) |
 | Mon, 27 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 27, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c05fa207a13c) |
@@ -71,6 +81,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 13:28:09 GMT | Un año después | Juanfer | [Read More](https://medium.com/p/9c0c3acf2d67) |
 | Mon, 27 Oct 2025 13:26:52 GMT | Resilience by Design: Using Risk Assessment to Inform Architecture Decisions | Doug Jaworski | [Read More](https://medium.com/p/f579073edf16) |
 | Mon, 27 Oct 2025 13:26:19 GMT | Network Sniffing with tcpdump and Wireshark: Step-by-Step Hacker Edition for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/7e34f455ec37) |
+| Mon, 27 Oct 2025 13:23:20 GMT | Cyber Security Unmasked: Revealing the Truth Behind the Hype | Cyber Security Research | [Read More](https://medium.com/p/7339457aa1a1) |
 | Mon, 27 Oct 2025 13:17:38 GMT | He’s becoming a man, and I’m becoming the woman who learned that love doesn’t demand. | Purpose Peac3 | [Read More](https://medium.com/p/b1552ccc8fbf) |
 | Mon, 27 Oct 2025 13:11:07 GMT | The Essential Guide to IT Hardware in 2025: What Every Business Should Know | Cyberbusinesssolutions | [Read More](https://medium.com/p/4e82cc9dd67a) |
 | Mon, 27 Oct 2025 13:10:26 GMT | Securing the Future: Cyber Security Strategies for Tomorrow | Cyber Security Research | [Read More](https://medium.com/p/7b063df198c7) |
@@ -80,6 +91,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 13:07:18 GMT | The Hidden Goldmine: Why API Bugs Pay So Much | Vipul Sonule | [Read More](https://medium.com/p/e570cc4ca988) |
 | Mon, 27 Oct 2025 13:06:08 GMT | Step-by-Step OSINT Reconnaissance for Ethical Hackers | Shahzaib | [Read More](https://medium.com/p/459b8ed6a2af) |
 | Mon, 27 Oct 2025 13:02:22 GMT | Millions of Donor Records & Receipts Leaked — 0‑Click IDOR Exposes Payments $$$ | Prayers Khristi | [Read More](https://medium.com/p/76f9af6c3408) |
+| Mon, 27 Oct 2025 13:02:19 GMT | The Untapped Platform That Made Me $500 in Just 24 Hours (No Ads, No Face, No Stress) | Farhad Ali | [Read More](https://medium.com/p/88da52308738) |
 | Mon, 27 Oct 2025 12:58:37 GMT | Know a Bit about Cyber Security | Sohan | [Read More](https://medium.com/p/7f1015ba3e31) |
 | Mon, 27 Oct 2025 12:55:58 GMT | Introduction to AI Cybersecurity: A Case Study in Prompt Injection | Jonathan Owen | [Read More](https://medium.com/p/cd58f7d76f5b) |
 | Mon, 27 Oct 2025 12:53:18 GMT | Critique of Individual Prepping | Cole Burnham | [Read More](https://medium.com/p/19920bc1d06e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 12:21:46 GMT | BFSI in the Digital Crossfire: Building Cyber Resilience in the Fintech Era | Shreyas Ganpule | [Read More](https://medium.com/p/b80f46610160) |
 | Mon, 27 Oct 2025 12:21:36 GMT | Why I Always Restrict Outbound DNS on Servers (and How It Blocks Data Exfiltration) | Faruk Ahmed | [Read More](https://medium.com/p/d81456c158d8) |
 | Mon, 27 Oct 2025 12:21:22 GMT | [OverTheWire] Bandit Level 11 → 12 | H$nt | [Read More](https://medium.com/p/e70a81ba29db) |
-| Mon, 27 Oct 2025 12:20:30 GMT | Day 39: VPC Endpoints — Secure Private Access to AWS Services | Prutha_Dongre | [Read More](https://medium.com/p/3a7775866ba1) |
-| Mon, 27 Oct 2025 12:14:40 GMT | bWAPP Broken Auth. Insecure Login Forms security level medium | Ahmadfaizabdillah | [Read More](https://medium.com/p/70f0e172e836) |
-| Mon, 27 Oct 2025 12:14:31 GMT | Apartment Building Access Control Systems Solving Security Problems with Smart Solutions | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/e5392bce5d71) |
-| Mon, 27 Oct 2025 12:10:15 GMT | Most hunters chase scanners and payload lists. | Viratavi | [Read More](https://medium.com/p/f946c25db6f3) |
-| Mon, 27 Oct 2025 12:06:53 GMT | Parenting in the Digital Age. 6 Tips to Help Kids Stay Safe Online | Protect kids minds | [Read More](https://medium.com/p/1dde75df69e1) |
-| Mon, 27 Oct 2025 12:05:48 GMT | ESC1: Client Authentication with ENROLLEE_SUPPLIES_SUBJECT | Maishamanarat | [Read More](https://medium.com/p/fb3dbbc456e6) |
-| Mon, 27 Oct 2025 11:51:19 GMT | bWAPP Broken Auth. Insecure Login Forms security level low | Ahmadfaizabdillah | [Read More](https://medium.com/p/a918128deab2) |
-| Mon, 27 Oct 2025 11:49:35 GMT | How Organizations Build “Airplanes in the Sky” ✈️ | Frances Parker | [Read More](https://medium.com/p/877b9ddb49b2) |
-| Mon, 27 Oct 2025 11:47:16 GMT | Post-Quantum Now: From AES & RSA to ML-KEM Hybrids | Netlas.io | [Read More](https://medium.com/p/3c7ed6db6a1d) |
-| Mon, 27 Oct 2025 11:46:15 GMT | Importance of Quantum Key Distribution (QKD) in Protecting Critical Infrastructure | BlockByte | [Read More](https://medium.com/p/887aaffde0b1) |
-| Mon, 27 Oct 2025 11:32:57 GMT | Important Powershell Commands for Pentesters | Ria Banerjee | [Read More](https://medium.com/p/7b8de28d8137) |
-| Mon, 27 Oct 2025 11:31:52 GMT | 5 Slack Templates for Efficient Bug Reporting (Copy, Paste, Save Everyone’s Time) | Lola Ogungbuaro | [Read More](https://medium.com/p/650129d13165) |
