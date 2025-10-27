@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 17:32:17 GMT | The AI Convergence and the Future of Law Enforcement | Ian McIntire | [Read More](https://medium.com/p/8d5166ea49d8) |
+| Mon, 27 Oct 2025 17:30:23 GMT | LFI to ATO (Universal ) | Sevada797 | [Read More](https://medium.com/p/71e3788d173c) |
+| Mon, 27 Oct 2025 17:21:32 GMT | Why Mobile-Based Access Control is the Future of Office Security | Joven A Rodrigues | [Read More](https://medium.com/p/d5a0c25678bf) |
 | Mon, 27 Oct 2025 17:16:26 GMT | The Psychology of Cybersecurity: Why System Design Matters More Than User Mistakes | Harsh Kaushik | [Read More](https://medium.com/p/48065966b5a6) |
 | Mon, 27 Oct 2025 17:13:03 GMT | Don’t Risk It: Windows 11 Migration for Business | Arshad | [Read More](https://medium.com/p/e09aaa95af98) |
 | Mon, 27 Oct 2025 17:10:32 GMT | Do you think bypassing SSL pinning can get you a bounty? | Kyrillos nady | [Read More](https://medium.com/p/6cf894148953) |
+| Mon, 27 Oct 2025 17:09:27 GMT | AWS’ DNS Outage: Why This Wasn’t an Indicator of ISO 27001 Insufficiency | R-Squared Cyber | [Read More](https://medium.com/p/b4c476b69e65) |
 | Mon, 27 Oct 2025 17:05:09 GMT | Leaked: Ukrainian Techs Bypassed Pentagon’s HIMARS Range Lock Using $200 Raspberry Pi | Global Intelligence Desk | [Read More](https://medium.com/p/bd51b04d72b0) |
 | Mon, 27 Oct 2025 17:01:56 GMT | Soft Skill Penting di Dunia Cyber Security | K1llu4 | [Read More](https://medium.com/p/de14b743cd8a) |
 | Mon, 27 Oct 2025 17:01:52 GMT | The Superintelligence Myth: How Science Fiction Masquerades (Again) as Science to Capture Real… | Roxana Ologeanu-Taddei, Phd | [Read More](https://medium.com/p/bd9b1fa27b17) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 13:40:43 GMT | Extropy Security Bytes: w41, 2025 | Extropy.IO | [Read More](https://medium.com/p/5710aaedd68c) |
 | Mon, 27 Oct 2025 13:35:09 GMT | What Are SSH Keys? Beginner Guide with Examples, Setup Steps, and Security Tips | Natarajan C K | [Read More](https://medium.com/p/c2b00c9ed45b) |
 | Mon, 27 Oct 2025 13:34:31 GMT | A.I. is NOT the Future: Let me explain [ 3-part Treatise] PART I *ONE | AI_Chief | [Read More](https://medium.com/p/c083a30c013f) |
-| Mon, 27 Oct 2025 13:31:52 GMT | Twenty-Seven Minutes to Domain Admin: Watching an AI Agent Master Active Directory | Daniel Knight | [Read More](https://medium.com/p/2e2008dd59fa) |
-| Mon, 27 Oct 2025 13:29:58 GMT | The Cyber Security Handbook: A Comprehensive Guide | Cyber Security Research | [Read More](https://medium.com/p/38b1780843e6) |
-| Mon, 27 Oct 2025 13:28:09 GMT | Un año después | Juanfer | [Read More](https://medium.com/p/9c0c3acf2d67) |
-| Mon, 27 Oct 2025 13:26:52 GMT | Resilience by Design: Using Risk Assessment to Inform Architecture Decisions | Doug Jaworski | [Read More](https://medium.com/p/f579073edf16) |
