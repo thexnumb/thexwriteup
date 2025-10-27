@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 17:16:26 GMT | The Psychology of Cybersecurity: Why System Design Matters More Than User Mistakes | Harsh Kaushik | [Read More](https://medium.com/p/48065966b5a6) |
+| Mon, 27 Oct 2025 17:13:03 GMT | Don’t Risk It: Windows 11 Migration for Business | Arshad | [Read More](https://medium.com/p/e09aaa95af98) |
+| Mon, 27 Oct 2025 17:10:32 GMT | Do you think bypassing SSL pinning can get you a bounty? | Kyrillos nady | [Read More](https://medium.com/p/6cf894148953) |
+| Mon, 27 Oct 2025 17:05:09 GMT | Leaked: Ukrainian Techs Bypassed Pentagon’s HIMARS Range Lock Using $200 Raspberry Pi | Global Intelligence Desk | [Read More](https://medium.com/p/bd51b04d72b0) |
+| Mon, 27 Oct 2025 17:01:56 GMT | Soft Skill Penting di Dunia Cyber Security | K1llu4 | [Read More](https://medium.com/p/de14b743cd8a) |
+| Mon, 27 Oct 2025 17:01:52 GMT | The Superintelligence Myth: How Science Fiction Masquerades (Again) as Science to Capture Real… | Roxana Ologeanu-Taddei, Phd | [Read More](https://medium.com/p/bd9b1fa27b17) |
+| Mon, 27 Oct 2025 17:00:14 GMT | Docuvo — The Smart & Free Online Invoice Generator for Everyone | Information For Technologies | [Read More](https://medium.com/p/78784e75a96f) |
+| Mon, 27 Oct 2025 16:57:44 GMT | Beacon Object Files (BOFs): What, Why, and How | Mert | [Read More](https://medium.com/p/a90e32d61c42) |
+| Mon, 27 Oct 2025 16:48:00 GMT | The Real Reason You’re Always Tired at Work | Global Whirl of Wonders | [Read More](https://medium.com/p/93fd27a22326) |
+| Mon, 27 Oct 2025 16:46:50 GMT | অনলাইনে জন্ম নিবন্ধনের তথ্য সংশোধন করার নিয়ম (BDRIS ২০২৫ গাইড) | Jonmonibondhoncheck | [Read More](https://medium.com/p/ca1247f6d998) |
 | Mon, 27 Oct 2025 16:43:58 GMT | How We Built GuardianSafe to Stop the Next Bybit Hack | Jacob Hanouna | [Read More](https://medium.com/p/00e33825353a) |
 | Mon, 27 Oct 2025 16:37:53 GMT | the weight of my own light | Nisrina Zaida | [Read More](https://medium.com/p/296d3189735a) |
 | Mon, 27 Oct 2025 16:31:39 GMT | How to Upload Images in a React & .NET Application | James Austin Jr | [Read More](https://medium.com/p/d541a556169c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 13:29:58 GMT | The Cyber Security Handbook: A Comprehensive Guide | Cyber Security Research | [Read More](https://medium.com/p/38b1780843e6) |
 | Mon, 27 Oct 2025 13:28:09 GMT | Un año después | Juanfer | [Read More](https://medium.com/p/9c0c3acf2d67) |
 | Mon, 27 Oct 2025 13:26:52 GMT | Resilience by Design: Using Risk Assessment to Inform Architecture Decisions | Doug Jaworski | [Read More](https://medium.com/p/f579073edf16) |
-| Mon, 27 Oct 2025 13:26:19 GMT | Network Sniffing with tcpdump and Wireshark: Step-by-Step Hacker Edition for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/7e34f455ec37) |
-| Mon, 27 Oct 2025 13:23:20 GMT | Cyber Security Unmasked: Revealing the Truth Behind the Hype | Cyber Security Research | [Read More](https://medium.com/p/7339457aa1a1) |
-| Mon, 27 Oct 2025 13:17:38 GMT | He’s becoming a man, and I’m becoming the woman who learned that love doesn’t demand. | Purpose Peac3 | [Read More](https://medium.com/p/b1552ccc8fbf) |
-| Mon, 27 Oct 2025 13:11:07 GMT | The Essential Guide to IT Hardware in 2025: What Every Business Should Know | Cyberbusinesssolutions | [Read More](https://medium.com/p/4e82cc9dd67a) |
-| Mon, 27 Oct 2025 13:10:26 GMT | Securing the Future: Cyber Security Strategies for Tomorrow | Cyber Security Research | [Read More](https://medium.com/p/7b063df198c7) |
-| Mon, 27 Oct 2025 13:09:55 GMT | The Ethics of Hacking: Differentiating Between White, Gray, and Black Hats | Samina Perveen | [Read More](https://medium.com/p/448fc31d4679) |
-| Mon, 27 Oct 2025 13:07:38 GMT | The Psychology Behind Clicking That Link | Rabail Zaheer | [Read More](https://medium.com/p/a4c2c486acbb) |
-| Mon, 27 Oct 2025 13:07:24 GMT | The Day I Realized I Could Be Hacked in Seconds | Aj | [Read More](https://medium.com/p/3a7f495aaa51) |
-| Mon, 27 Oct 2025 13:07:18 GMT | The Hidden Goldmine: Why API Bugs Pay So Much | Vipul Sonule | [Read More](https://medium.com/p/e570cc4ca988) |
-| Mon, 27 Oct 2025 13:06:08 GMT | Step-by-Step OSINT Reconnaissance for Ethical Hackers | Shahzaib | [Read More](https://medium.com/p/459b8ed6a2af) |
