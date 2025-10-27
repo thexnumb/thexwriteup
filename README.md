@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 04:33:03 GMT | Human Error and Hacker Craft: Unraveling Twitter’s 2020 Vishing Scandal | Shivam Kanodia | [Read More](https://medium.com/p/42cd4dd29af7) |
+| Mon, 27 Oct 2025 04:31:58 GMT | How AI Helps You Detect Multi-Cloud Compliance Risks Faster | Neova Solutions | [Read More](https://medium.com/p/d70ce98c0e36) |
+| Mon, 27 Oct 2025 04:31:54 GMT | Cyber Risk Quantification: Turning Tech Jargon into Business Language | Tharun Krishnamoorthy | [Read More](https://medium.com/p/796d817ec8db) |
+| Mon, 27 Oct 2025 04:20:31 GMT | HTB Administrator: My Step-by-Step Path to Domain Admin on a Windows Lab | Joseph Jung | [Read More](https://medium.com/p/3e09cc39cd5c) |
+| Mon, 27 Oct 2025 04:19:31 GMT | Why I Transitioned From an Agency Model to Consulting | Roland Farkas | [Read More](https://medium.com/p/0997561aedd0) |
+| Mon, 27 Oct 2025 04:08:52 GMT | Hackviser: Scenario Shadow Track Writeup | Attiqorakzai | [Read More](https://medium.com/p/85251c1af4ae) |
+| Mon, 27 Oct 2025 03:56:30 GMT | Hackviser: Scenario Data Heist Writeup | Attiqorakzai | [Read More](https://medium.com/p/41c9077ecc08) |
 | Mon, 27 Oct 2025 03:49:58 GMT | Indonesia Threat Landscape 2025 | sudo3rs | [Read More](https://medium.com/p/d22e985deec7) |
 | Mon, 27 Oct 2025 03:46:18 GMT | OWASP Faction 1.7 — Major Updates for Enterprise Security Teams | Josh Summitt | [Read More](https://medium.com/p/aa205cef68e7) |
 | Mon, 27 Oct 2025 03:44:41 GMT | How to Work Like a Pro, Even When You Don’t Feel Like One | Global Whirl of Wonders | [Read More](https://medium.com/p/08503f80dcc5) |
@@ -106,10 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 16:27:03 GMT | Your Guide to Seamless Accounts Payable Automation | Vishwajeettechtech | [Read More](https://medium.com/p/ff1006e1e3b8) |
 | Sun, 26 Oct 2025 16:26:38 GMT | choose love, always | parichaya manjunath | [Read More](https://medium.com/p/7c01b549e861) |
 | Sun, 26 Oct 2025 16:13:24 GMT | Pentesting Firebase | Ramiz Osmanov | [Read More](https://medium.com/p/f723fd510dce) |
-| Sun, 26 Oct 2025 16:04:16 GMT | The Universal Union: Anatomy of a Digital Empire | RandomGPT | [Read More](https://medium.com/p/da0893c6a210) |
-| Sun, 26 Oct 2025 15:54:17 GMT | Factory vs. Constructor Functions: A Developer’s “Must-Know” | Tech With Curly Girl | [Read More](https://medium.com/p/ca8683660842) |
-| Sun, 26 Oct 2025 15:53:47 GMT | Cryptography — A Practical, Beginner-Friendly Guide | Abhinsubej | [Read More](https://medium.com/p/6656b14e43c3) |
-| Sun, 26 Oct 2025 15:49:43 GMT | 30 Days of Red Team: Day 1 — Understanding the Kill Chain (Your Roadmap to Domain Admin) | Maxwell Cross | [Read More](https://medium.com/p/9e496bbf91dd) |
-| Sun, 26 Oct 2025 15:45:21 GMT | Was macht eine Krypto-Wallet sicher? | Estoy | [Read More](https://medium.com/p/ec2d81fda07c) |
-| Sun, 26 Oct 2025 15:40:21 GMT | Post-Exploitation Toolkit: 25 Commands Every Hacker Uses (Step-by-Step Guide) | Very Lazy Tech | [Read More](https://medium.com/p/9075ebc6f7f1) |
-| Sun, 26 Oct 2025 15:38:00 GMT | How I Turned My Bug Bounty Workflow Into an AI-Powered Money Machine | Abdellaoui Ahmed | [Read More](https://medium.com/p/e6eeffea9cd8) |
