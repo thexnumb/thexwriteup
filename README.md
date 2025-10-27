@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 18:22:46 GMT | Information Disclosure: The Bug Bounty Hunter’s Gold Mine - A Practical Guide | Santhosh Adiga U | [Read More](https://medium.com/p/1a31428f882a) |
+| Mon, 27 Oct 2025 18:18:43 GMT | Every Man’s Expense: SSL Certificate Purchase — What I Did Instead! | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/dfc274ff9eff) |
+| Mon, 27 Oct 2025 18:08:54 GMT | ️‍♂️ TryHackMe — NetworkMiner Write-up | Hesham Hendawy | [Read More](https://medium.com/p/f89936f2abb6) |
+| Mon, 27 Oct 2025 18:03:54 GMT | Madrid, 24 de octubre de 2025, 06:00 AM CEST. | Migdonio Suárez León | [Read More](https://medium.com/p/880f29b4eb40) |
+| Mon, 27 Oct 2025 18:03:12 GMT | Fundamentals of UAC (User Account Control) — Part 02 | Sachin Sir | [Read More](https://medium.com/p/7085ca27f465) |
+| Mon, 27 Oct 2025 17:57:06 GMT | Debugging Ktor HTTP Client Performance: A Deep Dive into OkHttp vs CIO File Upload Speeds | Pavan Andhukuri | [Read More](https://medium.com/p/cb32dbebbe06) |
 | Mon, 27 Oct 2025 17:32:17 GMT | The AI Convergence and the Future of Law Enforcement | Ian McIntire | [Read More](https://medium.com/p/8d5166ea49d8) |
 | Mon, 27 Oct 2025 17:30:23 GMT | LFI to ATO (Universal ) | Sevada797 | [Read More](https://medium.com/p/71e3788d173c) |
 | Mon, 27 Oct 2025 17:21:32 GMT | Why Mobile-Based Access Control is the Future of Office Security | Joven A Rodrigues | [Read More](https://medium.com/p/d5a0c25678bf) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 13:44:47 GMT | Incogni 2025: The Privacy Revolution Everyone’s Talking About | The Deep Frame | [Read More](https://medium.com/p/be7886d91372) |
 | Mon, 27 Oct 2025 13:44:35 GMT | DEADFACE CTF 2025 part3- Hack the Night | Aderogbarufai | [Read More](https://medium.com/p/10d29525be79) |
 | Mon, 27 Oct 2025 13:44:29 GMT | Your New Co-Pilot: How AI Will Enhance Your Creative Genius | UXVerse — ◦ | [Read More](https://medium.com/p/3467d2af18f5) |
-| Mon, 27 Oct 2025 13:44:01 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/f22a53b595ff) |
-| Mon, 27 Oct 2025 13:41:32 GMT | What No One Tells You Before You Start Bug Bounty Hunting | TheCyberKnight | [Read More](https://medium.com/p/5449926f6f24) |
-| Mon, 27 Oct 2025 13:41:16 GMT | Are There Security Issues with Increased Interoperability? | Susan Johnson: | [Read More](https://medium.com/p/66fd46b68e81) |
-| Mon, 27 Oct 2025 13:40:43 GMT | Extropy Security Bytes: w41, 2025 | Extropy.IO | [Read More](https://medium.com/p/5710aaedd68c) |
-| Mon, 27 Oct 2025 13:35:09 GMT | What Are SSH Keys? Beginner Guide with Examples, Setup Steps, and Security Tips | Natarajan C K | [Read More](https://medium.com/p/c2b00c9ed45b) |
-| Mon, 27 Oct 2025 13:34:31 GMT | A.I. is NOT the Future: Let me explain [ 3-part Treatise] PART I *ONE | AI_Chief | [Read More](https://medium.com/p/c083a30c013f) |
