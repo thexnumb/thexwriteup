@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 20:16:47 GMT | Hack The Boo CTF: A Technical Writeup on Web, Pwn, and Forensics | Purvansh Bhatt | [Read More](https://medium.com/p/bfb9a2aac997) |
+| Mon, 27 Oct 2025 20:12:57 GMT | DuoKey Achieves TISAX® Certification | DuoKey | [Read More](https://medium.com/p/6e27992303c6) |
 | Mon, 27 Oct 2025 20:06:58 GMT | TryHackMe walkthrough Core Windows Processes | The Commoness | [Read More](https://medium.com/p/e585061d168d) |
 | Mon, 27 Oct 2025 19:51:27 GMT | Incident handler’s journal | Sameera Nazneen | [Read More](https://medium.com/p/c9a5512a76bd) |
 | Mon, 27 Oct 2025 19:51:02 GMT | The Cognitive Layer of Agentic Intelligence | Ashkan Karimi | [Read More](https://medium.com/p/f1dcb18421a9) |
@@ -111,5 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 14:42:19 GMT | Case Study: The Stuxnet Legacy — What It Taught Us About OT Security | Cyberkech | [Read More](https://medium.com/p/fa53df6605fc) |
 | Mon, 27 Oct 2025 14:40:14 GMT | Beyond Zero Trust: Introducing LCAC (Least-Context Access Control) | Qstackfield | [Read More](https://medium.com/p/e36e07731039) |
 | Mon, 27 Oct 2025 14:31:17 GMT | Red Team Dorks: The Ultimate OSINT Recon Cheat-Sheet for Attack Surface Mapping | XoX | [Read More](https://medium.com/p/a94b4c778492) |
-| Mon, 27 Oct 2025 14:29:07 GMT | The domains of cybersecurity include: | Emenanjo Ndigwe | [Read More](https://medium.com/p/f989c31f5783) |
-| Mon, 27 Oct 2025 14:27:21 GMT | Security and Performance Aspects of Cgroups v2 | Eren Cankut Uysal | [Read More](https://medium.com/p/db16b29854a5) |
