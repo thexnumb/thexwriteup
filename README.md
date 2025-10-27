@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 01:45:02 GMT | Proving Grounds - WallpaperHub | jniket | [Read More](https://medium.com/p/26b28458bf50) |
+| Mon, 27 Oct 2025 01:01:54 GMT | Dummy Interface for Nework Traffic Analysis | Vilaysack Vorachack | [Read More](https://medium.com/p/9afd33deebab) |
+| Mon, 27 Oct 2025 00:57:38 GMT | How Safe Game Boosting Works in 2025: Behind the Scenes of Skydy | Skydy.com | [Read More](https://medium.com/p/de7a34efc80a) |
+| Mon, 27 Oct 2025 00:56:42 GMT | RST TI Report Digest: 27 Oct 2025 | RST Cloud | [Read More](https://medium.com/p/f2cf91cb8c26) |
+| Mon, 27 Oct 2025 00:53:15 GMT | My Journey towards becoming a Site Reliability Engineer: Day 1 | Drew Jones | [Read More](https://medium.com/p/731d788d510a) |
+| Mon, 27 Oct 2025 00:46:27 GMT | Plugin Governance in SOC Environments | Pranjali Karve | [Read More](https://medium.com/p/a188b00ac35b) |
+| Mon, 27 Oct 2025 00:33:27 GMT | HTB — Learn the basics of the Penetration Testing: Starting Point [TIER 0] | Faraam | [Read More](https://medium.com/p/3710179b1854) |
+| Mon, 27 Oct 2025 00:08:30 GMT | Nothing to Something: Building My First Home Network | Jarrielle Gathers | [Read More](https://medium.com/p/ac64a0f2d756) |
+| Mon, 27 Oct 2025 00:08:12 GMT | How I Discovered an HTML Injection via a Signup Form | Gehad Reda | [Read More](https://medium.com/p/4aa29b7da2a0) |
+| Sun, 26 Oct 2025 23:58:20 GMT | The Unsolved Frontier: Prompt Injection — the Achilles’ Heel of AI Search | Siva Thota | [Read More](https://medium.com/p/ee2581a86b6f) |
+| Sun, 26 Oct 2025 23:52:21 GMT | Detect and Block a Known Malicious Actor — Wazuh Lab | Sathinsha | [Read More](https://medium.com/p/c897167a1706) |
 | Sun, 26 Oct 2025 23:05:07 GMT | Your Brand Deserves More Than Design — It Deserves Protection | Sonny Parker | [Read More](https://medium.com/p/f928b4269c78) |
 | Sun, 26 Oct 2025 23:04:49 GMT | Exclusive BUG Bonuses & Rewards — October 2025 | BUG | [Read More](https://medium.com/p/ef1a8e17b453) |
 | Sun, 26 Oct 2025 22:41:57 GMT | Introduction to Cybersecurity | Alaa A | [Read More](https://medium.com/p/d7e1fca2db8d) |
@@ -102,14 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 26, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/58e07482c3e9) |
 | Sun, 26 Oct 2025 15:07:57 GMT | LFI: A Guide to Exploit It | Imvkale | [Read More](https://medium.com/p/576e1b7e2b02) |
 | Sun, 26 Oct 2025 15:07:56 GMT | The $2,000 Bug That Changed My Life: How a Tiny URL Parameter Broke Web-Store Pricing !! | Helmiriahi | [Read More](https://medium.com/p/7275c3d1204b) |
-| Sun, 26 Oct 2025 15:04:50 GMT | Root Report: The Privilege Escalation Exploit Automation Masterclass | Esra Kayhan | [Read More](https://medium.com/p/73e40da80add) |
-| Sun, 26 Oct 2025 15:01:22 GMT | AI Inference: The Essential Executive Guide to AI Deployment Strategies | Cyber Breach Space | [Read More](https://medium.com/p/ddfc0c940e06) |
-| Sun, 26 Oct 2025 14:59:50 GMT | Why You Should Care About Yout Privacy? Meet The Basics - Make Privacy As Your Default Settings #0 | NnFace | [Read More](https://medium.com/p/7ff80b2de3c4) |
-| Sun, 26 Oct 2025 14:50:40 GMT | Roundcube: CVE-2025–49113 LAB. | lukewago | [Read More](https://medium.com/p/a3748b440a1c) |
-| Sun, 26 Oct 2025 14:36:48 GMT | Corporate Greed Chronicles: Accenture’s Billable Bloat to AI Reboot | Namir Sagheenanajar | [Read More](https://medium.com/p/03e3ea3bb0bb) |
-| Sun, 26 Oct 2025 14:30:17 GMT | How I Found My First CVE - Beginner Guide | thezeeshankhan | [Read More](https://medium.com/p/131d16d791b5) |
-| Sun, 26 Oct 2025 14:26:58 GMT | HacktheBox: Trick Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/67f7b5fbfa7c) |
-| Sun, 26 Oct 2025 14:22:20 GMT | Why AI Scammers Are Winning (And We’re Letting Them) | Cyberkech | [Read More](https://medium.com/p/9ee071d3bbde) |
-| Sun, 26 Oct 2025 14:20:38 GMT | PhishStrike Lab | Ismaelggm | [Read More](https://medium.com/p/7a6ae090474c) |
-| Sun, 26 Oct 2025 14:18:17 GMT | I Spent 24 Hours Hardening My Stack (and Somehow Made It Friendlier Too) | Tyler Johnston-Kent | [Read More](https://medium.com/p/395e4d39dead) |
-| Sun, 26 Oct 2025 14:17:41 GMT | Cybersecurity Architecture Models for OT and IIoT Environments | Zrhmz | [Read More](https://medium.com/p/abdad183a00b) |
