@@ -12,6 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 14:15:55 GMT | I Built an AI Smart Contract Auditor That Actually Works (Here’s the Proof) | Dhillon Andrew Kannabhiran | [Read More](https://medium.com/p/61918d2f70f1) |
+| Mon, 27 Oct 2025 14:12:46 GMT | Introducing IAMSage : The Free, Open-Source LLM Assistant for IAM Pros | Abhilash | [Read More](https://medium.com/p/8f5fa383a259) |
+| Mon, 27 Oct 2025 14:11:52 GMT | Project Zero is a team that has been assembled by Google to prevent attackers from exploiting… | Emenanjo Ndigwe | [Read More](https://medium.com/p/d6cf9b6dc5d9) |
+| Mon, 27 Oct 2025 14:11:51 GMT | ULTRATECH -TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/28ee4da06125) |
+| Mon, 27 Oct 2025 14:11:51 GMT | 06 -Kali Linux-Persistence: Turning Temporary Access into Lasting Control | SDNTechForum | [Read More](https://medium.com/p/f749c0157a82) |
+| Mon, 27 Oct 2025 14:09:31 GMT | Start Here — About 30 Days of Red Team | Maxwell Cross | [Read More](https://medium.com/p/50d0a3214e9f) |
+| Mon, 27 Oct 2025 14:07:51 GMT | Is Somebody Else Reading Your E-Mails? The Ides of Email! | Bobby Andrews | [Read More](https://medium.com/p/00604499a4ae) |
+| Mon, 27 Oct 2025 14:06:01 GMT | Your Organization is not Ready for a Digital Transformation | Manuel Tress | [Read More](https://medium.com/p/9eded2e53408) |
+| Mon, 27 Oct 2025 14:03:35 GMT | CYBERCON 2025 — “Please find my u and v” — Crypto Writeup | Shoaib Bin Rashid | [Read More](https://medium.com/p/8a0bcaa4f247) |
+| Mon, 27 Oct 2025 14:02:23 GMT | Cyber Briefing: 2025.10.27 | CyberMaterial | [Read More](https://medium.com/p/9482f6ce43fa) |
+| Mon, 27 Oct 2025 14:00:07 GMT | Deathnote Vulnhub | Qargi | [Read More](https://medium.com/p/63208daa0f44) |
+| Mon, 27 Oct 2025 13:58:30 GMT | Bluetooth Mimarisi ve Temel Kavramlar-4 | Alperkandemir | [Read More](https://medium.com/p/a0a830709cd3) |
+| Mon, 27 Oct 2025 13:56:40 GMT | How Small Businesses Can Switch from Passwords to Passkeys — and Why They Should Do It Now | Cordula Boeck | [Read More](https://medium.com/p/67c1224c0d08) |
+| Mon, 27 Oct 2025 13:56:28 GMT | The Six Ways Americans Experience Home in 2025 | Prxy AI | [Read More](https://medium.com/p/aa15de280db2) |
+| Mon, 27 Oct 2025 13:56:26 GMT | HIPAA-Compliant AI: How to Use Copilot, ChatGPT, and VDI Safely in Healthcare | Technijian | [Read More](https://medium.com/p/40ed06291ab0) |
+| Mon, 27 Oct 2025 13:51:02 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/8a50bbc26b99) |
+| Mon, 27 Oct 2025 13:48:38 GMT | DEADFACE CTF 2025 part 2 - SQLite007 | Aderogbarufai | [Read More](https://medium.com/p/000c4609e020) |
+| Mon, 27 Oct 2025 13:46:56 GMT | DEADFACE CTF 2025 part 1 -Stolen Secrets | Aderogbarufai | [Read More](https://medium.com/p/ad71c9397209) |
+| Mon, 27 Oct 2025 13:44:47 GMT | Incogni 2025: The Privacy Revolution Everyone’s Talking About | The Deep Frame | [Read More](https://medium.com/p/be7886d91372) |
+| Mon, 27 Oct 2025 13:44:35 GMT | DEADFACE CTF 2025 part3- Hack the Night | Aderogbarufai | [Read More](https://medium.com/p/10d29525be79) |
+| Mon, 27 Oct 2025 13:44:29 GMT | Your New Co-Pilot: How AI Will Enhance Your Creative Genius | UXVerse — ◦ | [Read More](https://medium.com/p/3467d2af18f5) |
+| Mon, 27 Oct 2025 13:44:01 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/f22a53b595ff) |
+| Mon, 27 Oct 2025 13:41:32 GMT | What No One Tells You Before You Start Bug Bounty Hunting | TheCyberKnight | [Read More](https://medium.com/p/5449926f6f24) |
+| Mon, 27 Oct 2025 13:41:16 GMT | Are There Security Issues with Increased Interoperability? | Susan Johnson: | [Read More](https://medium.com/p/66fd46b68e81) |
+| Mon, 27 Oct 2025 13:40:43 GMT | Extropy Security Bytes: w41, 2025 | Extropy.IO | [Read More](https://medium.com/p/5710aaedd68c) |
+| Mon, 27 Oct 2025 13:35:09 GMT | What Are SSH Keys? Beginner Guide with Examples, Setup Steps, and Security Tips | Natarajan C K | [Read More](https://medium.com/p/c2b00c9ed45b) |
+| Mon, 27 Oct 2025 13:34:31 GMT | A.I. is NOT the Future: Let me explain [ 3-part Treatise] PART I *ONE | AI_Chief | [Read More](https://medium.com/p/c083a30c013f) |
+| Mon, 27 Oct 2025 13:31:52 GMT | Twenty-Seven Minutes to Domain Admin: Watching an AI Agent Master Active Directory | Daniel Knight | [Read More](https://medium.com/p/2e2008dd59fa) |
+| Mon, 27 Oct 2025 13:29:58 GMT | The Cyber Security Handbook: A Comprehensive Guide | Cyber Security Research | [Read More](https://medium.com/p/38b1780843e6) |
 | Mon, 27 Oct 2025 13:28:09 GMT | Un año después | Juanfer | [Read More](https://medium.com/p/9c0c3acf2d67) |
 | Mon, 27 Oct 2025 13:26:52 GMT | Resilience by Design: Using Risk Assessment to Inform Architecture Decisions | Doug Jaworski | [Read More](https://medium.com/p/f579073edf16) |
 | Mon, 27 Oct 2025 13:26:19 GMT | Network Sniffing with tcpdump and Wireshark: Step-by-Step Hacker Edition for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/7e34f455ec37) |
@@ -83,32 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 10:04:25 GMT | From Wealth Bonds to Vibe Hacking | Rubab Fatima | [Read More](https://medium.com/p/29d7b0148a45) |
 | Mon, 27 Oct 2025 10:02:15 GMT | GenAI Threats in SaaS & Collaboration Tools | Jackdavis Iap | [Read More](https://medium.com/p/b6454c81cc50) |
 | Mon, 27 Oct 2025 10:02:05 GMT | DockerLabs Writeup — DockerLabs (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/36883d063513) |
-| Mon, 27 Oct 2025 10:00:49 GMT | From EAL6+ to Total Cold Isolation: How Digital Shield is Reshaping the Web3 Security Ecosystem | Digital Shield | [Read More](https://medium.com/p/d8a3822f489d) |
-| Mon, 27 Oct 2025 09:53:51 GMT | My Honest Thoughts on Cybersecurity: From a Nigerian Tech Girl’s Lens | Semilogo | [Read More](https://medium.com/p/bb3ee456b8f3) |
-| Mon, 27 Oct 2025 09:53:35 GMT | The Future of Check-In: AI and the Intelligent Kiosk Machine | Rakesh | [Read More](https://medium.com/p/63fad850e0c6) |
-| Mon, 27 Oct 2025 09:52:11 GMT | Engaging Your Team With Interactive And Flexible Cyber Lessons | Renaissance Computer Services Limited | [Read More](https://medium.com/p/b86c01feb8a8) |
-| Mon, 27 Oct 2025 09:49:47 GMT | From Asimov’s Fiction to Deployment Reality: The First Scalable Framework for Robot Constitutional… | Berend Watchus | [Read More](https://medium.com/p/9643833dcc0c) |
-| Mon, 27 Oct 2025 09:49:07 GMT | Wazuh File Integrity Monitoring (FIM) | Enes Cayvarli | [Read More](https://medium.com/p/b9c64669e26a) |
-| Mon, 27 Oct 2025 09:47:37 GMT | AI Governance, Ethics & Compliance: The New IT Leadership Challenge | Job24by7 | [Read More](https://medium.com/p/9122b2e088a8) |
-| Mon, 27 Oct 2025 09:47:20 GMT | The Python Script I Built That Scanned My Entire Network in Minutes | Muhummad Zaki | [Read More](https://medium.com/p/0bc8aac6e1b1) |
-| Mon, 27 Oct 2025 09:45:06 GMT | Centralize Windows Log Collection with Cribl WEC | Kaviarasan Asokan | [Read More](https://medium.com/p/3ab73d7c843f) |
-| Mon, 27 Oct 2025 09:38:48 GMT | Qilin Ransomware’s Hybrid Horror: Linux Payloads, BYOVD Exploits, and the 2025 Surge in… | Germano Costi | [Read More](https://medium.com/p/5a4978336767) |
-| Mon, 27 Oct 2025 09:35:16 GMT | Velociraptor: Hunt for a Nightmare. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/0fdfecfb6386) |
-| Mon, 27 Oct 2025 09:33:15 GMT | Getting Real: Why Vulnerability Management Isn’t Optional? | Maria Gomez | [Read More](https://medium.com/p/0d0146ed114b) |
-| Mon, 27 Oct 2025 09:27:24 GMT | When Everyone’s an Expert, Nobody Has a Fucking Clue: Tales from Germany’s IT Apocalypse | Marcus Bohlander | [Read More](https://medium.com/p/0d98c897d36a) |
-| Mon, 27 Oct 2025 09:27:09 GMT | EQUIFAX AND STUNEX WORM | Ogbuchisom | [Read More](https://medium.com/p/63b64bf94b57) |
-| Mon, 27 Oct 2025 09:25:08 GMT | Achieve ISO 27001 Certification Excellence with Axipro | Axipro | [Read More](https://medium.com/p/d7453da73cc4) |
-| Mon, 27 Oct 2025 09:22:26 GMT | How to Stay Safe Online: Essential Tips for Cybersecurity Today | Nasim Talukder | [Read More](https://medium.com/p/ca84838bfe8a) |
-| Mon, 27 Oct 2025 09:17:18 GMT | Nigeria cyber crime law | Ogbuchisom | [Read More](https://medium.com/p/236e50475e36) |
-| Mon, 27 Oct 2025 09:16:42 GMT | “AI Will Replace Programmers” Is the Dumbest Tech Prediction of the Decade | Shane Collins | [Read More](https://medium.com/p/7517fb53ea7a) |
-| Mon, 27 Oct 2025 09:11:22 GMT | WannaCry was a big cyberattack that happened in 2017. | Ogbuchisom | [Read More](https://medium.com/p/08c5ab544356) |
-| Mon, 27 Oct 2025 09:05:32 GMT | How I Automated Nmap to Catch Intruders While I Slept | Fateyaly | [Read More](https://medium.com/p/f488d13863d5) |
-| Mon, 27 Oct 2025 09:01:52 GMT | Auto Remediation That Works: Reset Leaked Accounts as Soon as They Appear | Alexandre Vandamme | [Read More](https://medium.com/p/5dfb980b131b) |
-| Mon, 27 Oct 2025 09:01:52 GMT | Foundations of cybersecurity by Google: your complete guide to breaking into a high-demand… | Code Link | [Read More](https://medium.com/p/c061821fe6a0) |
-| Mon, 27 Oct 2025 09:00:35 GMT | Securing Kubernetes Dashboards: Common Issues and Fixes | Anh Trần Tuấn | [Read More](https://medium.com/p/cd95d7c4bb75) |
-| Mon, 27 Oct 2025 08:57:52 GMT | Stop Making These 5 Beginner Mistakes When Naming Files and Directories | Avishek Ghosh (AV_DEVS) | [Read More](https://medium.com/p/73c7bd995507) |
-| Mon, 27 Oct 2025 08:47:36 GMT | Threats of Unvalidated XPC Clients on macOS | Karol Mazurek | [Read More](https://medium.com/p/9c81ce918bb1) |
-| Mon, 27 Oct 2025 08:47:19 GMT | Fixing the Medium Access Issue in India: Simple Solutions That Work | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/9da36f1ba231) |
-| Mon, 27 Oct 2025 08:46:07 GMT | Introduction | Harshal Jethwa | [Read More](https://medium.com/p/8e14228596af) |
-| Mon, 27 Oct 2025 08:45:12 GMT | Can We Trust AI with Public Safety? | Neova Solutions | [Read More](https://medium.com/p/d37fc4025892) |
-| Mon, 27 Oct 2025 08:44:58 GMT | The Unbreakable Connection: How Quantum Networking is Forging a $11 Billion Cybersecurity Frontier | Sonu mark spark solutions | [Read More](https://medium.com/p/4172f317c05e) |
