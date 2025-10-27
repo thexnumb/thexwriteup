@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 11:12:17 GMT | After the Fire: the Human and Technical Anatomy of Cyber Recovery | Rodrigo Gutierrez | [Read More](https://medium.com/p/35edd559a58f) |
+| Mon, 27 Oct 2025 11:07:55 GMT | SQLMAP tutorial | Omar Pineda | [Read More](https://medium.com/p/feab66a77832) |
+| Mon, 27 Oct 2025 11:02:38 GMT | CTF Basics: Understanding Web Pages | Walter Moar | [Read More](https://medium.com/p/42365ca6afc0) |
+| Mon, 27 Oct 2025 11:01:46 GMT | Hacking in Movies vs. Reality | Your's Nightmare | [Read More](https://medium.com/p/3aabc37193f4) |
+| Mon, 27 Oct 2025 11:01:32 GMT | The Courage of Being Seen | Melissa Tripp | [Read More](https://medium.com/p/1952a987e30d) |
+| Mon, 27 Oct 2025 10:57:03 GMT | “From Curiosity to Career: My Experience Learning Ethical Hacking at Boston Institute of Analytics” | Afreedalok | [Read More](https://medium.com/p/05e77521b6b4) |
+| Mon, 27 Oct 2025 10:54:25 GMT | Review: The New CRTA Exam — Is It Easier Now? | 0xc4t | [Read More](https://medium.com/p/bb5f0684cc2c) |
+| Mon, 27 Oct 2025 10:51:05 GMT | How CompTIA Security+ Helps with Network Security Careers | Niyakohli | [Read More](https://medium.com/p/5dd91134b808) |
+| Mon, 27 Oct 2025 10:50:05 GMT | ExtraHOP — NDR | Moamjad | [Read More](https://medium.com/p/2ea63c7e3634) |
+| Mon, 27 Oct 2025 10:48:07 GMT | Ransomware in 2025: The Dark Evolution of Cyber Extortion and How to Prevent It | Rizqi Mulki | [Read More](https://medium.com/p/4feaf17aa1b2) |
+| Mon, 27 Oct 2025 10:38:36 GMT | 8 Real-World Challenges in Multi-Tenant Database Architecture (and How to Solve Them in 2025) | Rizqi Mulki | [Read More](https://medium.com/p/ada203064b87) |
 | Mon, 27 Oct 2025 10:36:01 GMT | Smart Cybersecurity Risk Management for a Safer Digital Future | Vishwajeettechtech | [Read More](https://medium.com/p/bcb61b4bba8c) |
 | Mon, 27 Oct 2025 10:30:48 GMT | Mindset Hacker: Cara Berpikir Seorang Ahli Keamanan Siber | K1llu4 | [Read More](https://medium.com/p/e22080b363f4) |
 | Mon, 27 Oct 2025 10:24:47 GMT | Why ServiceNow Financial Management is Essential for Modern Finance Teams | Alex s | [Read More](https://medium.com/p/386b78581eb1) |
@@ -102,14 +113,3 @@ In… | Hamzaqureshiqureshi | [Read More](https://medium.com/p/e24dc925fdc5) |
 | Mon, 27 Oct 2025 06:18:16 GMT | Top 7 Skills You Need to‍ Become a Su‍ccessful Ethical Hack⁠er | Aadhidev Anihac | [Read More](https://medium.com/p/b555f5073ba7) |
 | Mon, 27 Oct 2025 06:17:08 GMT | Top 5 Myth‍s About‌ Ethica‍l Hack‍in‍g — Busted by‍ Expe‌rts | Aadhidev Anihac | [Read More](https://medium.com/p/918e16b6ac1a) |
 | Mon, 27 Oct 2025 06:11:11 GMT | JWT vs PASETO — A Node.js Developer’s Guide to Modern Token-Based Authentication | NonCoderSuccess | [Read More](https://medium.com/p/d83ddd7bc691) |
-| Mon, 27 Oct 2025 06:09:07 GMT | The Windows Security Journey — Replacement of WFP (Windows File Protection) Protected Files | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e6e46a73ad43) |
-| Mon, 27 Oct 2025 05:51:52 GMT | Ciberseguridad al alcance de todos: cómo detectar, probar y frenar el phishing y el malware con… | AVH04 | [Read More](https://medium.com/p/b6e8ac1425d9) |
-| Mon, 27 Oct 2025 05:51:41 GMT | “Invalid use of argument matchers!” | Hirun Mihisara | [Read More](https://medium.com/p/9adc9f45ec30) |
-| Mon, 27 Oct 2025 05:45:03 GMT | How Websites Actually Work (Front End + Back End + Security Basics) | Salimassili | [Read More](https://medium.com/p/fb6f5757d156) |
-| Mon, 27 Oct 2025 05:36:48 GMT | How a VPN Improves Your Online Privacy and Security. | Gaurav Kumar | [Read More](https://medium.com/p/e9558f1ca707) |
-| Mon, 27 Oct 2025 05:31:51 GMT | Solving the Performance vs Security Dilemma in .NET Core APIs with JWKS Caching | Okan Yurt | [Read More](https://medium.com/p/be24d8961a18) |
-| Mon, 27 Oct 2025 05:27:47 GMT | WhatsApp Isn’t Just for Chatting Anymore — Here’s What You’re Missing | Jabeen | [Read More](https://medium.com/p/f0e9560e616a) |
-| Mon, 27 Oct 2025 05:22:48 GMT | Understanding Network Security: The Backbone of Cyber Defense | Ritesh Thorve | [Read More](https://medium.com/p/929b077b1b4e) |
-| Mon, 27 Oct 2025 05:04:54 GMT | How to Hide WordPress Login Page From Hackers [2 Effective Methods] | Hamza Hanif | [Read More](https://medium.com/p/27e5fb2bde16) |
-| Mon, 27 Oct 2025 05:04:32 GMT | How Authentication Actually Works: Simplifying Basic, Bearer, and JWT | Ashwin Sridharan | [Read More](https://medium.com/p/93f1e338cf86) |
-| Mon, 27 Oct 2025 05:00:37 GMT | Cara Belajar Informatika Dengan Efektif | keisyawirawan | [Read More](https://medium.com/p/def6057d84a9) |
