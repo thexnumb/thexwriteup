@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 06:31:28 GMT | ️‍♂️ The Ultimate Guide to Using the Wayback Machine for Ethical Recon & Security Research | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/089337aff6c0) |
+| Mon, 27 Oct 2025 06:25:59 GMT | The Daily Tech Digest: 27 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/37ffeea5e6d4) |
+| Mon, 27 Oct 2025 06:23:39 GMT | Top 11 cyber stories (Week: Oct 20– Oct 26, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/6fb8b3797e09) |
+| Mon, 27 Oct 2025 06:19:34 GMT | Ethical Hacking Tools Yo‌u Should Master in 2025 (And Why They Matte⁠r) | Aadhidev Anihac | [Read More](https://medium.com/p/4584c323e8de) |
+| Mon, 27 Oct 2025 06:18:16 GMT | Top 7 Skills You Need to‍ Become a Su‍ccessful Ethical Hack⁠er | Aadhidev Anihac | [Read More](https://medium.com/p/b555f5073ba7) |
+| Mon, 27 Oct 2025 06:17:08 GMT | Top 5 Myth‍s About‌ Ethica‍l Hack‍in‍g — Busted by‍ Expe‌rts | Aadhidev Anihac | [Read More](https://medium.com/p/918e16b6ac1a) |
+| Mon, 27 Oct 2025 06:11:11 GMT | JWT vs PASETO — A Node.js Developer’s Guide to Modern Token-Based Authentication | NonCoderSuccess | [Read More](https://medium.com/p/d83ddd7bc691) |
+| Mon, 27 Oct 2025 06:09:07 GMT | The Windows Security Journey — Replacement of WFP (Windows File Protection) Protected Files | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e6e46a73ad43) |
+| Mon, 27 Oct 2025 05:51:52 GMT | Ciberseguridad al alcance de todos: cómo detectar, probar y frenar el phishing y el malware con… | AVH04 | [Read More](https://medium.com/p/b6e8ac1425d9) |
+| Mon, 27 Oct 2025 05:51:41 GMT | “Invalid use of argument matchers!” | Hirun Mihisara | [Read More](https://medium.com/p/9adc9f45ec30) |
+| Mon, 27 Oct 2025 05:45:03 GMT | How Websites Actually Work (Front End + Back End + Security Basics) | Salimassili | [Read More](https://medium.com/p/fb6f5757d156) |
 | Mon, 27 Oct 2025 05:36:48 GMT | How a VPN Improves Your Online Privacy and Security. | Gaurav Kumar | [Read More](https://medium.com/p/e9558f1ca707) |
 | Mon, 27 Oct 2025 05:31:51 GMT | Solving the Performance vs Security Dilemma in .NET Core APIs with JWKS Caching | Okan Yurt | [Read More](https://medium.com/p/be24d8961a18) |
 | Mon, 27 Oct 2025 05:27:47 GMT | WhatsApp Isn’t Just for Chatting Anymore — Here’s What You’re Missing | Jabeen | [Read More](https://medium.com/p/f0e9560e616a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 18:11:59 GMT | Holding On Through the Messiness of Life | hello heide | [Read More](https://medium.com/p/fdf7309c5e18) |
 | Sun, 26 Oct 2025 18:07:02 GMT | Master Network Penetration Testing — Professional PNPT-Style Course (Only $30) | Barukh Aswad | [Read More](https://medium.com/p/11b802fa4655) |
 | Sun, 26 Oct 2025 17:58:50 GMT | Master Ethical Hacking with the TCM Practical Ethical Hacking Course — Now for Only $30! | Barukh Aswad | [Read More](https://medium.com/p/40a37b9f61c2) |
-| Sun, 26 Oct 2025 17:57:09 GMT | The Investigator’s OSINT Playbook: A Guide to Open-Source Intelligence. | eRRoR | [Read More](https://medium.com/p/45df310ee254) |
-| Sun, 26 Oct 2025 17:53:45 GMT | Master OSCP Without Breaking the Bank — Get Official Materials for Just $30 | Barukh Aswad | [Read More](https://medium.com/p/fbb4cee4f724) |
-| Sun, 26 Oct 2025 17:50:56 GMT | Enforcing Strong Identity Controls in MCP Ecosystems | Zeigeist | [Read More](https://medium.com/p/76ab723e6fc2) |
-| Sun, 26 Oct 2025 17:45:32 GMT | Memory Forensics in Action Using Volatility | Meravytes | [Read More](https://medium.com/p/793024ac7c40) |
-| Sun, 26 Oct 2025 17:42:25 GMT | Advanced Account Security Techniques in Polkadot | Polkadot Anti-Scam Team | [Read More](https://medium.com/p/6b341107da3f) |
-| Sun, 26 Oct 2025 17:38:01 GMT | The 7-Year AI Chat Log Trap, Part2: The AI That Entraps: ‘Go cut the wire…now you are a terrorist’ | Berend Watchus | [Read More](https://medium.com/p/2c91508c081a) |
-| Sun, 26 Oct 2025 17:37:35 GMT | Slopeconomics: How AI is Reshaping the Digital Ecosystem | InGBTech | [Read More](https://medium.com/p/4831bbdd13ab) |
-| Sun, 26 Oct 2025 17:36:47 GMT | Open Source AGI Wins | Ersun Warncke | [Read More](https://medium.com/p/5c2029ce3b59) |
-| Sun, 26 Oct 2025 17:30:01 GMT | Nigeria cybercrime law | Chiamaka Ezeike | [Read More](https://medium.com/p/96f7f12a0dca) |
-| Sun, 26 Oct 2025 17:16:29 GMT | How To Not Get in Trouble Finding Beg Bounties | Rehan Sohail | [Read More](https://medium.com/p/bee02cbef619) |
-| Sun, 26 Oct 2025 17:12:55 GMT | When AI Becomes Intuition: Why the Real Superpower Isn’t Algorithms. | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/c457f660367a) |
