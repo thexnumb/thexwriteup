@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Oct 2025 07:35:45 GMT | SQLi Labs Level 2 Walk | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/0ce62f08ab2b) |
+| Mon, 27 Oct 2025 07:32:18 GMT | Secure by Default for Node Apps | Thinking Loop | [Read More](https://medium.com/p/71537b7fb26d) |
+| Mon, 27 Oct 2025 07:26:18 GMT | خطر اتفاقية السلام في السودان | Ahmed El-Affendi | [Read More](https://medium.com/p/a43f0f5cd1bd) |
+| Mon, 27 Oct 2025 07:22:43 GMT | SQLi Labs Level 1 | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/21de4e07fe45) |
+| Mon, 27 Oct 2025 07:16:22 GMT | Sysinternals - Endpoint Security Monitoring — THM [2025] | Rahul | [Read More](https://medium.com/p/6c5430e15a10) |
 | Mon, 27 Oct 2025 07:12:25 GMT | Attacks by OSI Layer what they are, how they work, attacker tools, and defenses | Ritesh Thorve | [Read More](https://medium.com/p/a4a58b0dae2a) |
 | Mon, 27 Oct 2025 07:07:44 GMT | Blocky - HTB Walkthrough | Simi | [Read More](https://medium.com/p/21d494f3ab72) |
 | Mon, 27 Oct 2025 07:04:52 GMT | 7 Genius iPhone 5s Hacks to Boost Speed and Battery Life | Chloe White | [Read More](https://medium.com/p/663dbee49a97) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 20:36:49 GMT | The Ransomware Dilemma | Samirah A.O | [Read More](https://medium.com/p/c796332f18a7) |
 | Sun, 26 Oct 2025 20:34:54 GMT | Evasion of AiTM Detectors | Chaim Black | [Read More](https://medium.com/p/7536dfd449c2) |
 | Sun, 26 Oct 2025 20:11:51 GMT | They’re In — Now What? | Samirah A.O | [Read More](https://medium.com/p/4f4bde4c10bd) |
-| Sun, 26 Oct 2025 19:53:58 GMT | Lab 3.1: Discover — Getting started with Kibana | Azhariqbal | [Read More](https://medium.com/p/c806bc72adaa) |
-| Sun, 26 Oct 2025 19:53:52 GMT | AI for Cybersecurity: | Kushagra Gupta | [Read More](https://medium.com/p/e325e86bd7f4) |
-| Sun, 26 Oct 2025 19:31:53 GMT | The Moment of Truth — Exploitation and Installation | Samirah A.O | [Read More](https://medium.com/p/cf006d1c9f91) |
-| Sun, 26 Oct 2025 19:11:26 GMT | Automating the Hack: When AI Writes the Payload | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/217246ef0898) |
-| Sun, 26 Oct 2025 19:08:11 GMT | ILBLOGDICRISTIANGALLO.COM | Cristian Gallo | [Read More](https://medium.com/p/3584aea51be4) |
