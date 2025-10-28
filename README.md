@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 07:34:53 GMT | Kickstart Your IT Career with a Job-Ready Program: Why Enroll in a Networking Course in Sydney or… | Nishesgrg | [Read More](https://medium.com/p/191c595d7769) |
+| Tue, 28 Oct 2025 07:33:33 GMT | Breaking the Web (Part 5): Cross-Site Request Forgery (CSRF) — When the Browser Betrays You | Mohammed Fahad | [Read More](https://medium.com/p/ff644cce47da) |
+| Tue, 28 Oct 2025 07:18:55 GMT | House Democrats Official Online Resume Bank Exposed the PII of Thousands of Government Job Seekers | SafetyDetectives Research Team | [Read More](https://medium.com/p/6fcc2affd777) |
+| Tue, 28 Oct 2025 07:12:19 GMT | eBPF Tutorial: Privilege Escalation via File Content Manipulation | yunwei37 | [Read More](https://medium.com/p/71eb2a606829) |
 | Tue, 28 Oct 2025 07:07:40 GMT | Defending Against Clickjacking: Understanding the Invisible Threat | Himanshu Bhatt | [Read More](https://medium.com/p/47e51f4eae32) |
 | Tue, 28 Oct 2025 07:01:54 GMT | Database Exposure Security Index (DESI) | Dragos C | [Read More](https://medium.com/p/455af49dcf88) |
 | Tue, 28 Oct 2025 06:59:52 GMT | Detection Engineering Training: Detecting Browser Credential Theft Attacks | Mnik | [Read More](https://medium.com/p/40a364ab0464) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 21:25:39 GMT | How IDOR and Business Logic Flaw Exposed PII | Parth Narula | [Read More](https://medium.com/p/24545a078e04) |
 | Mon, 27 Oct 2025 21:24:29 GMT | Insecure Direct Object Reference (IDOR) in engcastleportal.com | Mohammed Mogeab Ahmed Al-hajj | [Read More](https://medium.com/p/a2ac44d62f00) |
 | Mon, 27 Oct 2025 21:23:04 GMT | From Firewalls to Influence: The Rise of the BISO and the New Era of Cyber Resilience | Gabriela Berrido | [Read More](https://medium.com/p/24ac96a47ef1) |
-| Mon, 27 Oct 2025 21:12:22 GMT | Secure/Multipurpose Internet Mail Extensions Signing with a Personal CA in Thunderbird | Erebus | [Read More](https://medium.com/p/9952761749ed) |
-| Mon, 27 Oct 2025 20:55:37 GMT | Building a Hidden Service: A Technical and Ethical Guide to Creating a Website on the Darknet | Douglas Brian Neves | [Read More](https://medium.com/p/59d6cccf1d89) |
-| Mon, 27 Oct 2025 20:54:59 GMT | I use to sleep in the car… with $0 in my pocket…. Now I work as a Penatration tester | GhostInject | [Read More](https://medium.com/p/6ed3f35f211a) |
-| Mon, 27 Oct 2025 20:50:26 GMT | Salesforce vs HubSpot - CRM Comparison Guide for Business Leaders | Digital Transformation Playbook | [Read More](https://medium.com/p/edb3e0e3855c) |
