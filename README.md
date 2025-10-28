@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 10:22:53 GMT | To the Pioneers of Web3: Are Your Digital Assets Still Enslaved by the Online World? | Digital Shield Offcial | [Read More](https://medium.com/p/e02d7d56f4e2) |
+| Tue, 28 Oct 2025 10:21:51 GMT | Evaluating Crypto Casino Safety: Essential Security Indicators for 2025 | Sharkroll | [Read More](https://medium.com/p/303d61650b9b) |
+| Tue, 28 Oct 2025 10:18:41 GMT | Banning Superintelligence Research Criminalizes the Entire Field, with Unethical Consequences | Berend Watchus | [Read More](https://medium.com/p/c019cd6ea49c) |
+| Tue, 28 Oct 2025 10:14:32 GMT | Digital Tyranny: How Arab Captagon Corrupt Regimes Are Weaponizing Cyber Power Against Their Own… | Wissamdouglas | [Read More](https://medium.com/p/45e4d0daf10a) |
+| Tue, 28 Oct 2025 10:12:00 GMT | The Importance of Ethical Hacking in the Current World | Hackerlink | [Read More](https://medium.com/p/6fb0120f7785) |
+| Tue, 28 Oct 2025 10:08:06 GMT | Simple BUG Bonus Guide — October 2025 | BUG | [Read More](https://medium.com/p/8460cb6d37eb) |
+| Tue, 28 Oct 2025 10:06:40 GMT | Strengthen Software Security with DevSecOps as a service | Vishwajeettechtech | [Read More](https://medium.com/p/f654bbedd68f) |
+| Tue, 28 Oct 2025 10:01:55 GMT | The Problem with Current Security Models | estrosec | [Read More](https://medium.com/p/862427906875) |
+| Tue, 28 Oct 2025 10:00:32 GMT | The Cybersecurity Era: Why Now Is the Best Time to Join the Most Powerful Field in Technology | KryptKP | [Read More](https://medium.com/p/0acfb0bb5da0) |
+| Tue, 28 Oct 2025 09:53:41 GMT | Autonomous Purple Teaming | Jackdavis Iap | [Read More](https://medium.com/p/fb6138ba5627) |
+| Tue, 28 Oct 2025 09:40:06 GMT | iExec on Arbitrum: Unlocking Privacy at Scale | Moses Israel A. | [Read More](https://medium.com/p/1746b8cd8cef) |
+| Tue, 28 Oct 2025 09:39:45 GMT | VMware Pro is FREE. Install Kali Linux on Windows 11 NOW | Shahzaib | [Read More](https://medium.com/p/50a00647e22d) |
 | Tue, 28 Oct 2025 09:39:35 GMT | When AI Lies Better Than Humans: The Rise of Deepfakes in Corporate Cybercrime | Smriti Singh | [Read More](https://medium.com/p/cdb650d2b0bd) |
+| Tue, 28 Oct 2025 09:39:17 GMT | Cybersecurity #9: Kali Linux | mohandika | [Read More](https://medium.com/p/8975736d6a0e) |
 | Tue, 28 Oct 2025 09:36:18 GMT | How To Sanitize A Filename | Ferran Verdés | [Read More](https://medium.com/p/7baa8ae0cfa6) |
 | Tue, 28 Oct 2025 09:36:00 GMT | How to Monitor Your Homelab with Telegraf, InfluxDB, and Grafana — Part1: (iDRAC Integration Guide) | Michael | [Read More](https://medium.com/p/08cea35d8f15) |
 | Tue, 28 Oct 2025 09:34:27 GMT | RECON TO ROYALTY: The Definitive Bug Bounty Reconnaissance Masterclass | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/1464ce403c6a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 02:59:13 GMT | 10 Warning Signs Your Phone Might Be Hacked — And How to Fix It | Adv. Moniruz Zaman | [Read More](https://medium.com/p/f4218d5eb3c6) |
 | Tue, 28 Oct 2025 02:51:39 GMT | JOURNAL REVIEW: Penerapan Metode NIST dalam Analisis Forensik Digital Pasca Serangan Siber (Studi… | Mokhamad Yusron Rafi | [Read More](https://medium.com/p/c729b77a4ddc) |
 | Tue, 28 Oct 2025 02:51:04 GMT | I’m Not Afraid Anymore | David Byron Drake | [Read More](https://medium.com/p/bc495147d5ae) |
-| Tue, 28 Oct 2025 02:47:29 GMT | Gini Caranya Jadi Hacker Legal! | Jadi Hacker | [Read More](https://medium.com/p/1387a42127b9) |
-| Tue, 28 Oct 2025 02:31:32 GMT | 2Million — HackTheBox | Delta | [Read More](https://medium.com/p/a23a4f60adef) |
-| Tue, 28 Oct 2025 02:12:57 GMT | How to Rebuild Your Cybersecurity Career from Scratch in the AI Era: A Beginner’s 6-Month Roadmap | 湊陽 | [Read More](https://medium.com/p/97c1ae7d94ca) |
-| Tue, 28 Oct 2025 02:10:48 GMT | API Vendors: The Hidden Risks Behind Convenience | Rozenn Kwon | [Read More](https://medium.com/p/802c8987bc26) |
-| Tue, 28 Oct 2025 02:02:10 GMT | HackTheBox Introduction to Threat Hunting: From Reactive Defense to Proactive Attack | Cybersecurity Simplified | [Read More](https://medium.com/p/20e9d263e9f4) |
-| Tue, 28 Oct 2025 01:53:01 GMT | Ukrainian Programmers Bypassed HIMARS GPS Geofencing: Pentagon Didn’t Know for 8 Months | Global Intelligence Desk | [Read More](https://medium.com/p/7477f8cb567d) |
-| Tue, 28 Oct 2025 01:44:17 GMT | Did DNS Really Take Down the Internet — or Was It Something Else? | Lucky Nautiyal | [Read More](https://medium.com/p/ad94a7a0c854) |
-| Tue, 28 Oct 2025 01:39:17 GMT | Bitcoin Cold Storage Keep Your Crypto Safe with Secure Paper Wallets | sonika chungi | [Read More](https://medium.com/p/4da7fa407ea0) |
-| Tue, 28 Oct 2025 01:13:05 GMT | ChatGPT Atlas vs. Chrome: Use It or Dump It? | Nathaniel Niyazov | [Read More](https://medium.com/p/3d7a22d04488) |
-| Tue, 28 Oct 2025 01:07:46 GMT | Unlocking Cybersecurity Excellence: My Journey with 591Lab’s CISSP Certification Guide. | Al Beruni | [Read More](https://medium.com/p/71df6d2dcb97) |
-| Tue, 28 Oct 2025 01:04:52 GMT | Legal Protections Against Digital Gender-Based Violence | Sophia Shalbey | [Read More](https://medium.com/p/fd626c0632cf) |
-| Tue, 28 Oct 2025 01:02:47 GMT | Evidencias (The Hacker Labs) | FeCeSociety | [Read More](https://medium.com/p/ff0261dce9f2) |
-| Tue, 28 Oct 2025 00:57:58 GMT | The BLE Protocol Stack: A Security Analysis | Irene A. Gil | [Read More](https://medium.com/p/865ee8993866) |
