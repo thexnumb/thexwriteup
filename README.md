@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 09:17:20 GMT | Are you in the Business of Secure Development? | Alberto Hernandez Acosta | [Read More](https://medium.com/p/4ad753f5291a) |
+| Tue, 28 Oct 2025 09:14:47 GMT | DockerLabs Writeup — Elevator (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fd49e7d91853) |
+| Tue, 28 Oct 2025 09:09:42 GMT | Analisis Kebijakan dan Prosedur Internal dalam Tata Kelola Teknologi InformasiPendahuluan | Valencia L Tobing | [Read More](https://medium.com/p/20ccef0f5b4d) |
+| Tue, 28 Oct 2025 09:06:38 GMT | Towards a more decentralized internet via the Asentu browser | Dewan Mukto | [Read More](https://medium.com/p/cf74e4b659ae) |
+| Tue, 28 Oct 2025 09:03:52 GMT | Innovative Design Techniques by Top UK Web Design Companies | Parthipan | [Read More](https://medium.com/p/d08e75c67d6f) |
+| Tue, 28 Oct 2025 09:02:02 GMT | Third Party Exposure in Plain Text: Audit Your Vendors in 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/fe489400b947) |
+| Tue, 28 Oct 2025 08:58:30 GMT | Difference Between Data Privacy and Cybersecurity | Anisaa | [Read More](https://medium.com/p/509d3dbd41cc) |
+| Tue, 28 Oct 2025 08:58:05 GMT | Wha⁠t Recruiters⁠ L⁠ook for in Ethical Hackers — Insights f​rom Hir​ing Manag‌ers | Aadhidev Anihac | [Read More](https://medium.com/p/b746eb2d588a) |
+| Tue, 28 Oct 2025 08:57:14 GMT | The‍ Complete B‍eginner’s Guide to‍ Ethical Ha‌cki‌n‍g | Aadhidev Anihac | [Read More](https://medium.com/p/7ab28f0ab269) |
+| Tue, 28 Oct 2025 08:56:16 GMT | Network Threat Detection Solutions for the NBFC Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/830c63608245) |
+| Tue, 28 Oct 2025 08:56:14 GMT | How to Build a Modern, Scalable Admin Portal: A Step-by-Step Guide | Wishula Jayathunga | [Read More](https://medium.com/p/3de1ffc2959e) |
+| Tue, 28 Oct 2025 08:55:40 GMT | Fr‍om Stu‍dent​ to​ Cyber Warri‌or: The Journey After Complet‍ing an Ethical Hacking Course | Aadhidev Anihac | [Read More](https://medium.com/p/e281108653ad) |
 | Tue, 28 Oct 2025 08:47:11 GMT | ประจำวันอังคารที่ 28 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/44788fa65741) |
 | Tue, 28 Oct 2025 08:45:27 GMT | How to Visualize Nmap Scans in Real-Time (With Grafana That Actually Helps) | Fateyaly | [Read More](https://medium.com/p/7b8a9a901a50) |
 | Tue, 28 Oct 2025 08:39:41 GMT | How to Spot a Social Engineering Attack | Jay C Roberts | [Read More](https://medium.com/p/a7b8004339bb) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 00:25:43 GMT | PaloAltoRCE Lab Write-Up - By BnHany | BnHany | [Read More](https://medium.com/p/03e767059788) |
 | Tue, 28 Oct 2025 00:06:33 GMT | Sobre o IBSEC | Wesley Paulow | [Read More](https://medium.com/p/32adea6b32c7) |
 | Tue, 28 Oct 2025 00:02:19 GMT | What Is a Network? From Personal Connections to the Global Web | Tawan Fonseca | [Read More](https://medium.com/p/7c05b3e90d49) |
-| Mon, 27 Oct 2025 23:48:26 GMT | Linux for Cybersecurity: Why Kali Linux Matters and How to Get Started | Yagmur Yerlikaya | [Read More](https://medium.com/p/97b85df9d183) |
-| Mon, 27 Oct 2025 23:45:16 GMT | 3,000 YouTube Videos Turned Into Malware Traps | Cyber-AppSec | [Read More](https://medium.com/p/314db0c08c05) |
-| Mon, 27 Oct 2025 23:44:32 GMT | Wuzen Android RAT 2025: Exclusive Visual Analysis of Underground’s Top Tool | REE-D-BLACK | [Read More](https://medium.com/p/d2a44f6977a1) |
-| Mon, 27 Oct 2025 23:30:25 GMT | Wuzen Android RAT 2025: Unleaked Source Code & Direct Connection Analysis | REE-D-BLACK | [Read More](https://medium.com/p/c98311c4a80c) |
-| Mon, 27 Oct 2025 23:21:11 GMT | SİBER GÜVENLİĞE BÜTÜNCÜL BAKIŞ | Abdullah Narin | [Read More](https://medium.com/p/a745ddad647b) |
-| Mon, 27 Oct 2025 23:20:26 GMT | How AI Will Replace 90% of What You Do (and Why That’s Okay) | Global Whirl of Wonders | [Read More](https://medium.com/p/c9ac9c348a62) |
-| Mon, 27 Oct 2025 23:13:53 GMT | Building a DIY Ad-Blocking Home Server with Ubuntu | Hirad Showghi | [Read More](https://medium.com/p/adf6351a6fbd) |
-| Mon, 27 Oct 2025 23:11:36 GMT | OSINT: The Art of Ethical Intelligence Gathering | Taha Ex | [Read More](https://medium.com/p/6264abb4e7e7) |
-| Mon, 27 Oct 2025 22:54:22 GMT | Smaller, Smarter, Safer: Why AI’s Next Phase Is About Control, Not Scale | Twinkle Jaineera | [Read More](https://medium.com/p/2649edc53e42) |
-| Mon, 27 Oct 2025 22:51:43 GMT | Cyberattack Survival: When the Internet Goes Dark | Backyard Bug Out | [Read More](https://medium.com/p/8647d4fb2a9e) |
-| Mon, 27 Oct 2025 22:49:34 GMT | SQL Injection to RCE Explained: How Attackers Take Over Servers | mwael0x | [Read More](https://medium.com/p/9687c0e1ea78) |
-| Mon, 27 Oct 2025 22:30:23 GMT | TENURE OF MILITARY SERVICE CHIEFS — GLOBAL BEST PRACTICES VS NIGERIA’S APPROACH-Do Military… | Sgshehu | [Read More](https://medium.com/p/ae3286176e7f) |
