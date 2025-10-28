@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 14:15:06 GMT | The OSI Model Explained: A Practical Guide to Networking’s 7 Layers | Fikri Muzadi | [Read More](https://medium.com/p/5e2c61bc62bc) |
+| Tue, 28 Oct 2025 14:06:08 GMT | The Military Seed: How Classified Simulators Birthed movie: The Matrix | Berend Watchus | [Read More](https://medium.com/p/f4984708bb40) |
+| Tue, 28 Oct 2025 14:03:00 GMT | Cyber Briefing: 2025.10.27 | CyberMaterial | [Read More](https://medium.com/p/3a2c32d7f67f) |
+| Tue, 28 Oct 2025 14:02:56 GMT | Samba Spy (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/397d6e05cd36) |
+| Tue, 28 Oct 2025 13:57:57 GMT | Invisible | mira afkaar | [Read More](https://medium.com/p/4ae2d682819a) |
+| Tue, 28 Oct 2025 13:57:26 GMT | Top-Rated Home Security Systems in Austin, TX — Protect What Matters Most with All Star Security | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/bea48e0afbe1) |
+| Tue, 28 Oct 2025 13:56:52 GMT | How to Reconnect a Garage Door Opener: Quick Steps After Disconnection | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/58313df3e783) |
+| Tue, 28 Oct 2025 13:52:44 GMT | When the Cloud Went Dark: How the AWS Outage Exposed the Internet’s Fragile Backbone | Kolamide Idowu | [Read More](https://medium.com/p/af154f6a3242) |
+| Tue, 28 Oct 2025 13:51:23 GMT | From Packets to Patterns: How Foundation Models Detect Network Threats - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/f3bf4580b026) |
+| Tue, 28 Oct 2025 13:49:49 GMT | When You Teach, You Learn Again | Mark Aylward | [Read More](https://medium.com/p/fca8582056cb) |
+| Tue, 28 Oct 2025 13:46:48 GMT | SentryPC vs. the Rest: What Makes It the Go‑To Tool for Remote Monitoring? | Paul Meyer | [Read More](https://medium.com/p/c7822606a3d7) |
+| Tue, 28 Oct 2025 13:39:56 GMT | Python : Manipulasi List Dan Operasi List | Cahyoadi | [Read More](https://medium.com/p/3a8e64bbd77b) |
+| Tue, 28 Oct 2025 13:34:54 GMT | The Hidden Threat: Why Software Extensions Are Your Organization’s Blind Spot | Patrick Lefler | [Read More](https://medium.com/p/f6ef456051a2) |
+| Tue, 28 Oct 2025 13:26:52 GMT | Can you answer interview questions on Truststore and Keystore? | Awkash | [Read More](https://medium.com/p/d6fc09f51403) |
+| Tue, 28 Oct 2025 13:26:19 GMT | The Hard Facts About Internet Privacy | Internet Exposed | [Read More](https://medium.com/p/d616782b8056) |
 | Tue, 28 Oct 2025 13:23:55 GMT | Harvesting Credentials: Phantom Stealer’s Agricultural Obfuscation Campaign | Defentive | [Read More](https://medium.com/p/7da65dd7bafd) |
 | Tue, 28 Oct 2025 13:22:45 GMT | Bugs tiktok | ZEIN | [Read More](https://medium.com/p/78259fa7b51c) |
 | Tue, 28 Oct 2025 13:21:51 GMT | Garage Door Opener Light Does Not Work: Troubleshooting Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/fb0b96794a95) |
@@ -98,18 +113,3 @@ By: Abdifatah Hassan… | Abdifatah Hassan Roble | [Read More](https://medium.co
 | Tue, 28 Oct 2025 09:34:27 GMT | RECON TO ROYALTY: The Definitive Bug Bounty Reconnaissance Masterclass | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/1464ce403c6a) |
 | Tue, 28 Oct 2025 09:23:55 GMT | Kioptrix Level 1 — Write-up | Andi Pras | [Read More](https://medium.com/p/b024e94bb536) |
 | Tue, 28 Oct 2025 09:23:41 GMT | Beyond the Firewall: Your Essential Introduction to Web Application Security Testing | Abdalla Sakr | [Read More](https://medium.com/p/95f1da410a0d) |
-| Tue, 28 Oct 2025 09:17:20 GMT | Are you in the Business of Secure Development? | Alberto Hernandez Acosta | [Read More](https://medium.com/p/4ad753f5291a) |
-| Tue, 28 Oct 2025 09:14:47 GMT | DockerLabs Writeup — Elevator (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fd49e7d91853) |
-| Tue, 28 Oct 2025 09:09:42 GMT | Analisis Kebijakan dan Prosedur Internal dalam Tata Kelola Teknologi InformasiPendahuluan | Valencia L Tobing | [Read More](https://medium.com/p/20ccef0f5b4d) |
-| Tue, 28 Oct 2025 09:06:38 GMT | Towards a more decentralized internet via the Asentu browser | Dewan Mukto | [Read More](https://medium.com/p/cf74e4b659ae) |
-| Tue, 28 Oct 2025 09:03:52 GMT | Innovative Design Techniques by Top UK Web Design Companies | Parthipan | [Read More](https://medium.com/p/d08e75c67d6f) |
-| Tue, 28 Oct 2025 09:02:02 GMT | Third Party Exposure in Plain Text: Audit Your Vendors in 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/fe489400b947) |
-| Tue, 28 Oct 2025 08:58:30 GMT | Difference Between Data Privacy and Cybersecurity | Anisaa | [Read More](https://medium.com/p/509d3dbd41cc) |
-| Tue, 28 Oct 2025 08:58:05 GMT | Wha⁠t Recruiters⁠ L⁠ook for in Ethical Hackers — Insights f​rom Hir​ing Manag‌ers | Aadhidev Anihac | [Read More](https://medium.com/p/b746eb2d588a) |
-| Tue, 28 Oct 2025 08:57:14 GMT | The‍ Complete B‍eginner’s Guide to‍ Ethical Ha‌cki‌n‍g | Aadhidev Anihac | [Read More](https://medium.com/p/7ab28f0ab269) |
-| Tue, 28 Oct 2025 08:56:16 GMT | Network Threat Detection Solutions for the NBFC Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/830c63608245) |
-| Tue, 28 Oct 2025 08:56:14 GMT | How to Build a Modern, Scalable Admin Portal: A Step-by-Step Guide | Wishula Jayathunga | [Read More](https://medium.com/p/3de1ffc2959e) |
-| Tue, 28 Oct 2025 08:55:40 GMT | Fr‍om Stu‍dent​ to​ Cyber Warri‌or: The Journey After Complet‍ing an Ethical Hacking Course | Aadhidev Anihac | [Read More](https://medium.com/p/e281108653ad) |
-| Tue, 28 Oct 2025 08:47:11 GMT | ประจำวันอังคารที่ 28 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/44788fa65741) |
-| Tue, 28 Oct 2025 08:45:27 GMT | How to Visualize Nmap Scans in Real-Time (With Grafana That Actually Helps) | Fateyaly | [Read More](https://medium.com/p/7b8a9a901a50) |
-| Tue, 28 Oct 2025 08:39:41 GMT | How to Spot a Social Engineering Attack | Jay C Roberts | [Read More](https://medium.com/p/a7b8004339bb) |
