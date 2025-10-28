@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 13:23:55 GMT | Harvesting Credentials: Phantom Stealer’s Agricultural Obfuscation Campaign | Defentive | [Read More](https://medium.com/p/7da65dd7bafd) |
+| Tue, 28 Oct 2025 13:22:45 GMT | Bugs tiktok | ZEIN | [Read More](https://medium.com/p/78259fa7b51c) |
+| Tue, 28 Oct 2025 13:21:51 GMT | Garage Door Opener Light Does Not Work: Troubleshooting Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/fb0b96794a95) |
+| Tue, 28 Oct 2025 13:16:55 GMT | Anthem writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/b3f539a12527) |
+| Tue, 28 Oct 2025 13:16:54 GMT | How a Simple Logic Flaw Can Unlock Private User Data | Ibtissam hammadi | [Read More](https://medium.com/p/19788156c270) |
+| Tue, 28 Oct 2025 13:14:13 GMT | Hardening Against Path Traversal: Breaking the Cyber Chain from DevOps to SecOps -TR | Burak Bozacı | [Read More](https://medium.com/p/d91bbe0abd3b) |
+| Tue, 28 Oct 2025 13:09:41 GMT | Time to Cover That Camera | Samirah A.O | [Read More](https://medium.com/p/6bcafbc51870) |
+| Tue, 28 Oct 2025 13:08:28 GMT | La migration semée d’embuches | Florent M | [Read More](https://medium.com/p/ee80ffbe1e8a) |
+| Tue, 28 Oct 2025 13:06:00 GMT | Keep the Middleman Out: How to Safeguard Your SaaS Infrastructure | Futurism AI | [Read More](https://medium.com/p/572305d78efd) |
+| Tue, 28 Oct 2025 13:01:57 GMT | 30 Days of Red Team: Day 3 — Weaponization: Building Payloads That Evade Detection | Maxwell Cross | [Read More](https://medium.com/p/6268da00344e) |
+| Tue, 28 Oct 2025 13:01:53 GMT | What’s Included in a Professional Garage Door Tune-Up | 24H Garage Doors | [Read More](https://medium.com/p/a581c4872630) |
+| Tue, 28 Oct 2025 12:55:47 GMT | 4 Emerging Digital Identity Trends Shaping 2025 | Anushka | [Read More](https://medium.com/p/edde7545b31f) |
+| Tue, 28 Oct 2025 12:55:12 GMT | What Smell Do Roaches Hate? (Top Natural Repellents That Actually Work) | Hina Chaudhary | [Read More](https://medium.com/p/ebceaaf0cd8f) |
+| Tue, 28 Oct 2025 12:53:06 GMT | Are You Being Watched? | Samirah A.O | [Read More](https://medium.com/p/a50828969c10) |
+| Tue, 28 Oct 2025 12:51:38 GMT | InHouse Splunk ES Automation-Eps 1 | Aufarifqi | [Read More](https://medium.com/p/e7ed8f478a9c) |
+| Tue, 28 Oct 2025 12:44:48 GMT | UltraX Night Vision Goggles : See What Others Miss at Night | ElitePromotes | [Read More](https://medium.com/p/17656ce2f1f4) |
 | Tue, 28 Oct 2025 12:34:51 GMT | How Red Teaming Services Help Businesses Stay Ahead of Cyber Threats | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/6bde2503dedb) |
+| Tue, 28 Oct 2025 12:32:05 GMT | Understanding JWT: The Beginner’s Guide to Secure Web Tokens | Sai Bhargav Rallapalli | [Read More](https://medium.com/p/c7889f82daf9) |
 | Tue, 28 Oct 2025 12:31:52 GMT | Compliance as a Growth Accelerator: Startup Cases That Got It Early | Lester Davila Escobedo | [Read More](https://medium.com/p/5de1cb4d6e59) |
 | Tue, 28 Oct 2025 12:30:35 GMT | [OverTheWire] Bandit Level 16 → 17 | H$nt | [Read More](https://medium.com/p/71c34eafd23e) |
 | Tue, 28 Oct 2025 12:26:57 GMT | Near 90 Days with no Cellphone and City Living this year | Richard Abram Austin II | [Read More](https://medium.com/p/cb84ba334c4c) |
@@ -96,20 +113,3 @@ By: Abdifatah Hassan… | Abdifatah Hassan Roble | [Read More](https://medium.co
 | Tue, 28 Oct 2025 08:47:11 GMT | ประจำวันอังคารที่ 28 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/44788fa65741) |
 | Tue, 28 Oct 2025 08:45:27 GMT | How to Visualize Nmap Scans in Real-Time (With Grafana That Actually Helps) | Fateyaly | [Read More](https://medium.com/p/7b8a9a901a50) |
 | Tue, 28 Oct 2025 08:39:41 GMT | How to Spot a Social Engineering Attack | Jay C Roberts | [Read More](https://medium.com/p/a7b8004339bb) |
-| Tue, 28 Oct 2025 08:37:23 GMT | “The Role of Each OSI Layer in Cybersecurity: Layer-by-Layer Defense in the Networking World” | Traumerei | [Read More](https://medium.com/p/d4e228172479) |
-| Tue, 28 Oct 2025 08:24:33 GMT | From HTTP to HTTPS: Understanding Encryption and TLS Termination | El Hadji Sidya Badji | [Read More](https://medium.com/p/9a12c6d0e8b4) |
-| Tue, 28 Oct 2025 08:06:18 GMT | You Don’t Have to Be Good at It to Love It | Vijay Kumar Gupta | [Read More](https://medium.com/p/80c409664d5f) |
-| Tue, 28 Oct 2025 08:06:12 GMT | How Blockchain is Enhancing Identity Verification in Digital Platforms | Evangelist Apps | [Read More](https://medium.com/p/ea963f6b14c1) |
-| Tue, 28 Oct 2025 08:04:57 GMT | From Bugs to Bosses: 6 Games That QA Specialists Will Appreciate | Darius Razzle Paciente | [Read More](https://medium.com/p/1b0665666003) |
-| Tue, 28 Oct 2025 08:02:00 GMT | AI’s Shadow Supply Chain: The Hidden Risks Behind Every Prompt | Yash Gorasiya | [Read More](https://medium.com/p/71fcfdf8038b) |
-| Tue, 28 Oct 2025 08:00:42 GMT | Cloud Networking Course in Melbourne: Your Fast-Track to High-Demand, High-Pay IT Jobs | Nishesgrg | [Read More](https://medium.com/p/6820fe8f275c) |
-| Tue, 28 Oct 2025 07:56:15 GMT | CVE-2025–59287 — When your patch server becomes the attack vector | Aditya Bhatt | [Read More](https://medium.com/p/949dcd9b6507) |
-| Tue, 28 Oct 2025 07:43:50 GMT | ️ Cyber Espionage: The Silent War Reshaping Global Security | Darknetsearch.com | [Read More](https://medium.com/p/0a8c47e632e4) |
-| Tue, 28 Oct 2025 07:40:18 GMT | Konsep Dasar Convolutional Neural Network (CNN) dalam Mengenali Gambar | Belajar AI | [Read More](https://medium.com/p/84c3cfb21e66) |
-| Tue, 28 Oct 2025 07:39:13 GMT | Critical Vulnerability in OpenAI’s ChatGPT Atlas Browser: Tainted Memories Exploit Enables… | Germano Costi | [Read More](https://medium.com/p/f94dae0ee143) |
-| Tue, 28 Oct 2025 07:34:53 GMT | Kickstart Your IT Career with a Job-Ready Program: Why Enroll in a Networking Course in Sydney or… | Nishesgrg | [Read More](https://medium.com/p/191c595d7769) |
-| Tue, 28 Oct 2025 07:33:33 GMT | Breaking the Web (Part 5): Cross-Site Request Forgery (CSRF) — When the Browser Betrays You | Mohammed Fahad | [Read More](https://medium.com/p/ff644cce47da) |
-| Tue, 28 Oct 2025 07:18:55 GMT | House Democrats Official Online Resume Bank Exposed the PII of Thousands of Government Job Seekers | SafetyDetectives Research Team | [Read More](https://medium.com/p/6fcc2affd777) |
-| Tue, 28 Oct 2025 07:12:19 GMT | eBPF Tutorial: Privilege Escalation via File Content Manipulation | yunwei37 | [Read More](https://medium.com/p/71eb2a606829) |
-| Tue, 28 Oct 2025 07:07:40 GMT | Defending Against Clickjacking: Understanding the Invisible Threat | Himanshu Bhatt | [Read More](https://medium.com/p/47e51f4eae32) |
-| Tue, 28 Oct 2025 07:01:54 GMT | Database Exposure Security Index (DESI) | Dragos C | [Read More](https://medium.com/p/455af49dcf88) |
