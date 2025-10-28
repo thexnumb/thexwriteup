@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 06:25:46 GMT | Avoid Legal and Security Risks: Why Genuine Software is Always the Right Choice | Best Software Buy | [Read More](https://medium.com/p/10359db3b57e) |
+| Tue, 28 Oct 2025 06:23:04 GMT | Attacking 2FA in Modern Web Apps | Snapsec | [Read More](https://medium.com/p/68c098abf310) |
+| Tue, 28 Oct 2025 06:18:33 GMT | 6. Responsive Images | Rana Awais | [Read More](https://medium.com/p/f08564400c73) |
+| Tue, 28 Oct 2025 06:15:15 GMT | The Hidden Risk in AI: Context Switching Attacks | Facundo Fernandez | [Read More](https://medium.com/p/beb77c3526f2) |
+| Tue, 28 Oct 2025 06:08:13 GMT | Online Basic Networking Course with AI in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/a86842635886) |
+| Tue, 28 Oct 2025 06:03:07 GMT | Inside the BlackBox: A deep technical guide to online chess cheating Detection | Ze3ter | [Read More](https://medium.com/p/2e55e94d5e31) |
+| Tue, 28 Oct 2025 06:01:57 GMT | Beyond the Demo: Rethinking How We Measure Cybersecurity Tool | Wakeyo Tolera | [Read More](https://medium.com/p/964fbf8e7dba) |
+| Tue, 28 Oct 2025 05:59:57 GMT | Password Myths That Are Putting You at Risk | Shivakshi Rawat | [Read More](https://medium.com/p/885bf333d937) |
+| Tue, 28 Oct 2025 05:59:14 GMT | What Is Wireshark | Ritesh Thorve | [Read More](https://medium.com/p/e5f50dd1b640) |
+| Tue, 28 Oct 2025 05:58:57 GMT | GZR Observer — Global Daily — Oct 28, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/237ae6d91e9f) |
+| Tue, 28 Oct 2025 05:53:16 GMT | The Daily Tech Digest: 28 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/550db8506bce) |
+| Tue, 28 Oct 2025 05:48:25 GMT | My Journey through the FortiGate 7.6 | Prateekpulastya | [Read More](https://medium.com/p/7c143a0436cf) |
+| Tue, 28 Oct 2025 05:46:51 GMT | Ready to See Who’s Sneaking Into Your Windows Account? | Vishwas R | [Read More](https://medium.com/p/d33bf2a166c2) |
 | Tue, 28 Oct 2025 05:18:16 GMT | Building Trust: Navigating Cybersecurity, Robustness and Privacy in AI at IMDA’s Technical Sharing… | IMDA BizTech Group | [Read More](https://medium.com/p/7d6bbc54c912) |
 | Tue, 28 Oct 2025 05:09:34 GMT | Decentralized Computing: The Future of Distributed Technology | BlockByte | [Read More](https://medium.com/p/83cf69ee3ba1) |
 | Tue, 28 Oct 2025 04:58:43 GMT | When a Man Breaks but No One Notices | Gursahib Singh | [Read More](https://medium.com/p/998d9abad405) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 19:48:05 GMT | Mitigating Cache Poisoning in AWS CloudFront: A Frontend Engineer’s Guide | eduardo aparicio cardenes | [Read More](https://medium.com/p/9a5f72d4bb9b) |
 | Mon, 27 Oct 2025 19:46:58 GMT | Do Cérebro Humano ao Cérebro Digital: Entendendo o Perceptron | Matheus_PrataScientist | [Read More](https://medium.com/p/f4da9f065cda) |
 | Mon, 27 Oct 2025 19:32:47 GMT | Learn Sigma (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/d2279e2733d6) |
-| Mon, 27 Oct 2025 19:31:06 GMT | O CÉREBRO COMO MODELO PARA NOVOS BANCOS DE DADOS | Murilo Ferreira | [Read More](https://medium.com/p/b23d4adee204) |
-| Mon, 27 Oct 2025 19:26:51 GMT | Shaping the Future of Finance, Technology & Cybersecurity in Africa | Bloomberg Feature - Executive Spotlight | [Read More](https://medium.com/p/86e48291b0a4) |
-| Mon, 27 Oct 2025 19:25:48 GMT | Hashtagged — Writeup | Abdullah | [Read More](https://medium.com/p/fb0f15016bfc) |
-| Mon, 27 Oct 2025 19:24:20 GMT | How to Configure Active Directory Certificate Services (AD CS) — Part 2 | Cybersensus | [Read More](https://medium.com/p/cd78e9f6daea) |
-| Mon, 27 Oct 2025 19:21:53 GMT | Policy vs Gate: Authorization Patterns in Laravel | Ann R. | [Read More](https://medium.com/p/98a5c49a420e) |
-| Mon, 27 Oct 2025 19:18:17 GMT | Building Military-Grade Encryption into a Secret Sharing App | Brandon Landry | [Read More](https://medium.com/p/a8b0be52c2e3) |
-| Mon, 27 Oct 2025 19:15:49 GMT | I Thought I Needed to be Strong Until I Finally Cried | Mian Umar Farooq | [Read More](https://medium.com/p/c67a9b2bee88) |
-| Mon, 27 Oct 2025 19:14:40 GMT | When Your Browser Starts Thinking: The Hidden Dangers of AI Agents Online | Tapendra Dev | [Read More](https://medium.com/p/08752d918d97) |
-| Mon, 27 Oct 2025 19:10:06 GMT | Start Owning Your Privacy Before Someone Else Does! Make Privacy As Your Default Settings. | NnFace | [Read More](https://medium.com/p/8722d7f20c96) |
-| Mon, 27 Oct 2025 19:09:28 GMT | eJPT — 4.1 Web Application Penetration Testing | Dharmendrakumar | [Read More](https://medium.com/p/1fc636e6cabe) |
-| Mon, 27 Oct 2025 19:07:10 GMT | How to Secure a Legal AI Chatbot So It Doesn’t Leak Client Data With Easy Steps to Protect Your… | Josh Lee | [Read More](https://medium.com/p/a1fdcba56f3a) |
-| Mon, 27 Oct 2025 19:05:58 GMT | Top 10 Common API Security Mistakes (and How to Fix Them) | Tuhin Kairi | [Read More](https://medium.com/p/ef9f5e2be6cd) |
-| Mon, 27 Oct 2025 19:05:39 GMT | eJPT — 4.1 CTF 1 Web Application Penetration Testing | Dharmendrakumar | [Read More](https://medium.com/p/663b181029b3) |
