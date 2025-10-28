@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 10:39:05 GMT | How I Almost Fell for a PUBG Hack - میں تقریباً PUBG ہیک کا شکار ہو گیا تھا | Abdul Ali | [Read More](https://medium.com/p/e98eb2ddb6e6) |
+| Tue, 28 Oct 2025 10:34:25 GMT | From Vulnerability to Resilience: How Penetration Testing Strengthens Your Security | SmartCLOUD Australia | [Read More](https://medium.com/p/f52e7e3b4ee7) |
+| Tue, 28 Oct 2025 10:28:23 GMT | Digital Shield: Forging New Coordinates for Sovereignty in the Web3 World with Military-Grade… | Digital Shield | [Read More](https://medium.com/p/0d36c0404ee1) |
+| Tue, 28 Oct 2025 10:27:38 GMT | Defender for Identity: Strengthening Enterprise Security Against Modern Threats | Zara Johnson | [Read More](https://medium.com/p/1380d2b61a3b) |
 | Tue, 28 Oct 2025 10:22:53 GMT | To the Pioneers of Web3: Are Your Digital Assets Still Enslaved by the Online World? | Digital Shield Offcial | [Read More](https://medium.com/p/e02d7d56f4e2) |
 | Tue, 28 Oct 2025 10:21:51 GMT | Evaluating Crypto Casino Safety: Essential Security Indicators for 2025 | Sharkroll | [Read More](https://medium.com/p/303d61650b9b) |
 | Tue, 28 Oct 2025 10:18:41 GMT | Banning Superintelligence Research Criminalizes the Entire Field, with Unethical Consequences | Berend Watchus | [Read More](https://medium.com/p/c019cd6ea49c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 03:36:50 GMT | Authenticator Login: Keamanan yang Mulai Dikenal Tapi Belum Dipahami Semua Orang | Dewi Mahendradita | [Read More](https://medium.com/p/14cbde7dcc2d) |
 | Tue, 28 Oct 2025 03:31:52 GMT | When Images Speak: How Downscaling Can Turn Pictures into Hidden Prompts | Deven Chhajed | [Read More](https://medium.com/p/58ad1c86b40d) |
 | Tue, 28 Oct 2025 03:23:14 GMT | State Constraints versus State Complicity: | Farhan Ahmed | [Read More](https://medium.com/p/66963468eb4a) |
-| Tue, 28 Oct 2025 03:02:21 GMT | SSH ( Secure Shell ) — A glance | Jenifar | [Read More](https://medium.com/p/71db7a024dfb) |
-| Tue, 28 Oct 2025 02:59:13 GMT | 10 Warning Signs Your Phone Might Be Hacked — And How to Fix It | Adv. Moniruz Zaman | [Read More](https://medium.com/p/f4218d5eb3c6) |
-| Tue, 28 Oct 2025 02:51:39 GMT | JOURNAL REVIEW: Penerapan Metode NIST dalam Analisis Forensik Digital Pasca Serangan Siber (Studi… | Mokhamad Yusron Rafi | [Read More](https://medium.com/p/c729b77a4ddc) |
-| Tue, 28 Oct 2025 02:51:04 GMT | I’m Not Afraid Anymore | David Byron Drake | [Read More](https://medium.com/p/bc495147d5ae) |
