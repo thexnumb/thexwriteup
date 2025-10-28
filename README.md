@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 16:25:07 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/bd006368a925) |
+| Tue, 28 Oct 2025 16:23:49 GMT | How a Small Chain Turned Duplicates into a Valid Bug with Post-Removal Access | Ahmed Hassan | [Read More](https://medium.com/p/f2829526595f) |
+| Tue, 28 Oct 2025 16:21:06 GMT | How to Decrypt AES Traffic in Flutter Apps — A Practical Guide | Emad Abedini | [Read More](https://medium.com/p/40da5258420a) |
+| Tue, 28 Oct 2025 16:17:14 GMT | Darknet Market Takedown: Europe-Wide Crackdown Reshapes the Hidden Web | Tor BBB | [Read More](https://medium.com/p/e9f299550017) |
+| Tue, 28 Oct 2025 16:13:36 GMT | Unified Security Operations: Why Physical Security and Managed IT Services Are Converging in 2025 | Teona | [Read More](https://medium.com/p/03664b71cc70) |
+| Tue, 28 Oct 2025 16:09:06 GMT | False-Flag Operation Detection & Investigation Checklist | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/80de07b79925) |
+| Tue, 28 Oct 2025 16:05:41 GMT | Can technological surveillance ever be justified in a democratic society? | Cyber and Coffee | [Read More](https://medium.com/p/4dbccb3c5c9e) |
+| Tue, 28 Oct 2025 16:00:43 GMT | TuesdayTool 36 — FullHunt.io: A Comprehensive Guide to Attack Surface Management | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/41cf4c455ffc) |
+| Tue, 28 Oct 2025 15:59:52 GMT | There is nothing new under the sun of cybersecurity realm | Martin Abramov | [Read More](https://medium.com/p/6a116c78e974) |
+| Tue, 28 Oct 2025 15:58:25 GMT | Toxic Stoicism vs Vulnerability | Riddick Lynn | [Read More](https://medium.com/p/c90a645e4db9) |
+| Tue, 28 Oct 2025 15:57:54 GMT | How Cybercrime’s Most Notorious Figures Were Betrayed by Their Own Mistakes | David SEHYEON Baek | [Read More](https://medium.com/p/97c7c1f3409f) |
+| Tue, 28 Oct 2025 15:57:26 GMT | Cyber Security: The Power of Threat Intelligence | Cyber Security Research | [Read More](https://medium.com/p/be4b4d8a329c) |
+| Tue, 28 Oct 2025 15:50:51 GMT | Cyber Security: Staying One Step Ahead of the Hackers | Cyber Security Research | [Read More](https://medium.com/p/67d32e67f8f4) |
+| Tue, 28 Oct 2025 15:47:19 GMT | The Everyday Web3: How Intuition Network Bridges Trust, Information, and Real-World Utility. | Wolfgang | [Read More](https://medium.com/p/d9f8fde1dcd3) |
+| Tue, 28 Oct 2025 15:47:13 GMT | AI Has Arrived in Kali Linux — How It’s Changing the Game | Tech Journal | [Read More](https://medium.com/p/aded91cd2a0a) |
+| Tue, 28 Oct 2025 15:44:47 GMT | Focus on the real threat, not the regulator | Glenn Wilson | [Read More](https://medium.com/p/24718b10d9fa) |
+| Tue, 28 Oct 2025 15:42:46 GMT | How a Single Message Could Take Down Discourse Instances (Bagging a $1K Bounty) | toast | [Read More](https://medium.com/p/fc0d4adfde84) |
+| Tue, 28 Oct 2025 15:41:53 GMT | Adulting: The Tears Behind the Smile | Austi Gene | [Read More](https://medium.com/p/2cddb15958fb) |
 | Tue, 28 Oct 2025 15:39:41 GMT | HacktheBox: Shoppy Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/2107db30627a) |
 | Tue, 28 Oct 2025 15:39:10 GMT | How to Secure Your A2A Server Agent with Keycloak OAuth2 | Farah Juma | [Read More](https://medium.com/p/6112810ec7bb) |
 | Tue, 28 Oct 2025 15:35:06 GMT | The Unseen Security: Why Tools and Frameworks Matter for Every Platform | Pirisa Kitichai | [Read More](https://medium.com/p/85d994a9c5de) |
@@ -94,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 12:03:17 GMT | How to Automate Vendor Governance in SaaS for Zero-Stress Compliance | SecureSlate | [Read More](https://medium.com/p/b81aac0b5f38) |
 | Tue, 28 Oct 2025 11:50:01 GMT | ️ General Network Security: How It Works and Why It Matters | Suheyl Baghban | [Read More](https://medium.com/p/f1e8d72cc0f7) |
 | Tue, 28 Oct 2025 11:49:36 GMT | Success Story: Nandita’s Journey from IT Student to Cybersecurity Analyst with Offenso’s Ethical… | Oceanofyy | [Read More](https://medium.com/p/64161612f86a) |
-| Tue, 28 Oct 2025 11:47:10 GMT | How I Turned Glitches Into Rent Money: A Year in Bug Bounties | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6b10a5d98f90) |
-| Tue, 28 Oct 2025 11:46:38 GMT | The Only Cyber Security Tutorial You’ll Ever Need in 2026! | Testleaf | [Read More](https://medium.com/p/b6f541bb5e00) |
-| Tue, 28 Oct 2025 11:42:21 GMT | Success Story: How Arjun Built His Cybersecurity Career with Offenso’s Ethical Hacking Course in… | Oceanofyy | [Read More](https://medium.com/p/91a5da05a27f) |
-| Tue, 28 Oct 2025 11:37:53 GMT | Protect Your Business with Trusted Cyber Security in Houston by Patriotmedbill | Patriotmedbill | [Read More](https://medium.com/p/98df83904d45) |
-| Tue, 28 Oct 2025 11:36:18 GMT | EMAIL HEADER ANALYSIS | Cyberfairy | [Read More](https://medium.com/p/b74d9f8041d0) |
-| Tue, 28 Oct 2025 11:35:58 GMT | Wearable Technology Transforming Everyday Life | Farid Khan | [Read More](https://medium.com/p/39270759381d) |
-| Tue, 28 Oct 2025 11:33:56 GMT | How Safe Is Your Data on Cloud Storage? | Deepak Sharma | [Read More](https://medium.com/p/41c3b68e3b8c) |
-| Tue, 28 Oct 2025 11:33:27 GMT | Diary Control Room | Diidii_winfleur | [Read More](https://medium.com/p/491f03f5fe26) |
-| Tue, 28 Oct 2025 11:32:14 GMT | DEADFACE CTF 2025 — OSINT | Nuke | [Read More](https://medium.com/p/be09aa51b6e0) |
-| Tue, 28 Oct 2025 11:27:49 GMT | Data Breaches and Cybersecurity Risks: Real Incidents and Lessons Learned
-By: Abdifatah Hassan… | Abdifatah Hassan Roble | [Read More](https://medium.com/p/632e83b577ce) |
-| Tue, 28 Oct 2025 11:25:59 GMT | Web Zafiyetleri Serisi #8 | Didem Kış | [Read More](https://medium.com/p/b709fd4457d5) |
-| Tue, 28 Oct 2025 11:25:37 GMT | ⚡ Flash USDT (Fake USDT) — Why Smart Learners Should Use It (Ethically) | Crypto Savvy | [Read More](https://medium.com/p/1aeacb60b734) |
-| Tue, 28 Oct 2025 11:24:36 GMT | The Kind of Energy That Attracts Real Love. | Bloom with Maria | [Read More](https://medium.com/p/9d6b85cba1f4) |
-| Tue, 28 Oct 2025 11:16:53 GMT | Why Many Africans Think Tech Is Too Hard (and How We Can Fix That) | Chinpilang Bigwan | [Read More](https://medium.com/p/733a07075297) |
-| Tue, 28 Oct 2025 11:16:24 GMT | Kiosk or Kiosk Machine? Why the Name Matters for Digital Transformation | Rakesh | [Read More](https://medium.com/p/32d63bec647e) |
-| Tue, 28 Oct 2025 11:11:33 GMT | « Please keep them as they are.» – Anatomie de la cyberinconscience. | EdenBlue | [Read More](https://medium.com/p/b2f0c09fc802) |
-| Tue, 28 Oct 2025 11:08:57 GMT | Hello my friends I want to ask: my OKX wallet holds big money ( OVER $ 5,000 ) and I have the seeed… | Joelle luxer | [Read More](https://medium.com/p/5cbc26ebe0f8) |
-| Tue, 28 Oct 2025 11:08:27 GMT | My Mother Left Me with Strangers | Do Capozucca | [Read More](https://medium.com/p/d5cb139f47d2) |
