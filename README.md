@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 22:09:54 GMT | Your Phone Has Been Rooted Since You Bought It (Just Not By You) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f3c7650308f5) |
+| Tue, 28 Oct 2025 22:05:28 GMT | CyberDefenders: PhishStrike Lab — Walkthrough | 0xNexionX | [Read More](https://medium.com/p/96967ee55632) |
+| Tue, 28 Oct 2025 21:59:54 GMT | Day 6: Understanding Network Services — DHCP, DNS, NAT & VPNs Made Simple | HackTrace | [Read More](https://medium.com/p/e81007b86e41) |
+| Tue, 28 Oct 2025 21:56:48 GMT | Building Web3 Security Into Your DNA: How to Transform Champions Into Company-Wide Security Culture | Olympix | [Read More](https://medium.com/p/74af320d49aa) |
+| Tue, 28 Oct 2025 21:52:57 GMT | HackTheBox — Detecting Attacker Behavior With Splunk Based On Analytics | Javier | [Read More](https://medium.com/p/89d4d627247c) |
+| Tue, 28 Oct 2025 21:51:37 GMT | Dynamic Memory Analysis with AddressSanitizer at the Binary Level | Bervice | [Read More](https://medium.com/p/b78374359da1) |
+| Tue, 28 Oct 2025 21:42:14 GMT | Visual Simulation of the Law of Large Numbers: Project and Theory | Gadeabhishekreddy | [Read More](https://medium.com/p/fb0882b8a30f) |
+| Tue, 28 Oct 2025 21:33:20 GMT | The Digital City Planner: Your Operating System, Turning Chaos into Order and Disorder into… | xploitnation | [Read More](https://medium.com/p/b3625813d575) |
 | Tue, 28 Oct 2025 21:26:27 GMT | How Bug Hunters Chain XSS Into Account Takeover in 2025 | Aj | [Read More](https://medium.com/p/525d67f07746) |
 | Tue, 28 Oct 2025 21:25:44 GMT | PWNAGOTCHI — BUILD WITH ME (full, easy, step-by-step) | Satyam Pathania | [Read More](https://medium.com/p/7c3605c4eeca) |
 | Tue, 28 Oct 2025 21:23:24 GMT | All in One — TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/42cc9ea3ea04) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 15:41:53 GMT | Adulting: The Tears Behind the Smile | Austi Gene | [Read More](https://medium.com/p/2cddb15958fb) |
 | Tue, 28 Oct 2025 15:39:41 GMT | HacktheBox: Shoppy Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/2107db30627a) |
 | Tue, 28 Oct 2025 15:39:10 GMT | How to Secure Your A2A Server Agent with Keycloak OAuth2 | Farah Juma | [Read More](https://medium.com/p/6112810ec7bb) |
-| Tue, 28 Oct 2025 15:35:06 GMT | The Unseen Security: Why Tools and Frameworks Matter for Every Platform | Pirisa Kitichai | [Read More](https://medium.com/p/85d994a9c5de) |
-| Tue, 28 Oct 2025 15:30:14 GMT | Trick or Treat... or Just Collecting Your Data? | Bridgett G Brumbaugh | [Read More](https://medium.com/p/959cd6684651) |
-| Tue, 28 Oct 2025 15:29:36 GMT | ZAST.AI found Insecure File Upload & CSP bypass issues in CodiMD | ZAST AI | [Read More](https://medium.com/p/d2439d93a542) |
-| Tue, 28 Oct 2025 15:24:51 GMT | Cyber Minimalism: Less Tech, More Control | Aysha Misri | [Read More](https://medium.com/p/2c7ee4adf94e) |
-| Tue, 28 Oct 2025 15:17:51 GMT | Best Cybersecurity Courses for Beginners in 2025: Start Your Career the Smart Way | Code Link | [Read More](https://medium.com/p/3ca83adb5280) |
-| Tue, 28 Oct 2025 15:14:08 GMT | Nový zákon o kybernetické bezpečnosti (NIS2 v ČR): co musí organizace stihnout do 60 dnů | Jan Andrascik | [Read More](https://medium.com/p/8ea1626488fb) |
-| Tue, 28 Oct 2025 15:13:37 GMT | Unmasking the Devious Raiders: Defending Against Credential Phishing | Danielle Koppel | [Read More](https://medium.com/p/020fd539deb9) |
-| Tue, 28 Oct 2025 15:13:04 GMT | The Evolution of Cybersecurity Certifications: Which One Fits Your Career Path? | VERSAtile Reads | [Read More](https://medium.com/p/7b99c4fdcd56) |
