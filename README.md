@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 04:31:10 GMT | Gen AI in Cybersecurity: Changing the Game in Threat Detection | Devarshi Acharya | [Read More](https://medium.com/p/9e2b882d5893) |
+| Tue, 28 Oct 2025 04:28:03 GMT | needrestart sudo privilege escalation | coderMohammed | [Read More](https://medium.com/p/44ae1c89bcc2) |
+| Tue, 28 Oct 2025 04:24:51 GMT | Cybersecurity Threats and How to Stay Safe | Rajputvanshika | [Read More](https://medium.com/p/934134f352c1) |
 | Tue, 28 Oct 2025 04:21:20 GMT | How Hackers Use ChatGPT — The Dark and Bright Sides of AI | Monujangra | [Read More](https://medium.com/p/f8ab73b682f5) |
 | Tue, 28 Oct 2025 04:04:21 GMT | Bridging the Gap: How Python Simplifies Algorithmic Thinking for Beginners | xploitnation | [Read More](https://medium.com/p/dabffc18c05b) |
 | Tue, 28 Oct 2025 04:01:51 GMT | Maskirovka: The Russian Weaponized Deception — From Cold War to Cyberwar | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/84a68767c334) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 18:27:18 GMT | What is the real nature of the cyber world..?
 AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गया…? | Jassi - Admirer of RG Sir | [Read More](https://medium.com/p/c89aa389cd22) |
 | Mon, 27 Oct 2025 18:26:39 GMT | Building a Smart Security Automation Lab with Splunk and N8N | Cenky | [Read More](https://medium.com/p/76272675ba4a) |
-| Mon, 27 Oct 2025 18:22:46 GMT | Information Disclosure: The Bug Bounty Hunter’s Gold Mine - A Practical Guide | Santhosh Adiga U | [Read More](https://medium.com/p/1a31428f882a) |
-| Mon, 27 Oct 2025 18:21:26 GMT | Hashing Basics — Writeup | Mahir | [Read More](https://medium.com/p/70e39a49fead) |
-| Mon, 27 Oct 2025 18:18:43 GMT | Every Man’s Expense: SSL Certificate Purchase — What I Did Instead! | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/dfc274ff9eff) |
