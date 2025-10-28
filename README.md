@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 19:33:47 GMT | Reverse Engineering API Security: How I Broke and bypass “Request-Hash” or “Signature” Protection | Ali Bahaa Alawsi | [Read More](https://medium.com/p/7c4f64276661) |
+| Tue, 28 Oct 2025 19:22:37 GMT | 7 Cybersecurity Mistakes That Kill 42% of Early-Stage Startups | Hania Khan | [Read More](https://medium.com/p/b8c6f2cd2529) |
+| Tue, 28 Oct 2025 19:21:15 GMT | Your Password Is ‘Password123’? Bold of You to Assume You Still Have Privacy | Naturinda Patra | [Read More](https://medium.com/p/3d2fec9c6f57) |
+| Tue, 28 Oct 2025 19:20:35 GMT | Hardening Against Path Traversal: Breaking the Cyber Chain from DevOps to SecOps -EN | Burak Bozacı | [Read More](https://medium.com/p/336918b9bf61) |
 | Tue, 28 Oct 2025 19:11:01 GMT | Infrastructure Collapse: How a Forgotten Folder in Coca-Cola’s Network Exposed Critical… | d0rking | [Read More](https://medium.com/p/a4d9dc1ab8a6) |
 | Tue, 28 Oct 2025 19:01:24 GMT | Reven Locker | H3XH7WK | [Read More](https://medium.com/p/d0ae103a703d) |
 | Tue, 28 Oct 2025 19:00:46 GMT | Phishing Campaigns Deploy Real-Time Validation to Confirm Victim Emails Before Stealing Credentials | Md Faizer Islam | [Read More](https://medium.com/p/6a79dfb884fd) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 14:02:56 GMT | Samba Spy (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/397d6e05cd36) |
 | Tue, 28 Oct 2025 13:57:57 GMT | Invisible | mira afkaar | [Read More](https://medium.com/p/4ae2d682819a) |
 | Tue, 28 Oct 2025 13:57:26 GMT | Top-Rated Home Security Systems in Austin, TX — Protect What Matters Most with All Star Security | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/bea48e0afbe1) |
-| Tue, 28 Oct 2025 13:56:52 GMT | How to Reconnect a Garage Door Opener: Quick Steps After Disconnection | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/58313df3e783) |
-| Tue, 28 Oct 2025 13:52:44 GMT | When the Cloud Went Dark: How the AWS Outage Exposed the Internet’s Fragile Backbone | Kolamide Idowu | [Read More](https://medium.com/p/af154f6a3242) |
-| Tue, 28 Oct 2025 13:51:23 GMT | From Packets to Patterns: How Foundation Models Detect Network Threats - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/f3bf4580b026) |
-| Tue, 28 Oct 2025 13:49:49 GMT | When You Teach, You Learn Again | Mark Aylward | [Read More](https://medium.com/p/fca8582056cb) |
