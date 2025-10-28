@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 21:26:27 GMT | How Bug Hunters Chain XSS Into Account Takeover in 2025 | Aj | [Read More](https://medium.com/p/525d67f07746) |
+| Tue, 28 Oct 2025 21:25:44 GMT | PWNAGOTCHI — BUILD WITH ME (full, easy, step-by-step) | Satyam Pathania | [Read More](https://medium.com/p/7c3605c4eeca) |
+| Tue, 28 Oct 2025 21:23:24 GMT | All in One — TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/42cc9ea3ea04) |
 | Tue, 28 Oct 2025 21:16:11 GMT | Post-Exploitation Case Study: Lessons from a Controlled Ubuntu Lab | Vivektumma27 | [Read More](https://medium.com/p/45552649eaf0) |
 | Tue, 28 Oct 2025 21:09:14 GMT | BehindTheScreens: Weekly Cyber-Threat Dispatch | Sam - Behind The Screens | [Read More](https://medium.com/p/d8c0c316b284) |
 | Tue, 28 Oct 2025 21:09:14 GMT | Heuristics under scrutiny | Progsky | [Read More](https://medium.com/p/65b2a6e4ae96) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 15:14:08 GMT | Nový zákon o kybernetické bezpečnosti (NIS2 v ČR): co musí organizace stihnout do 60 dnů | Jan Andrascik | [Read More](https://medium.com/p/8ea1626488fb) |
 | Tue, 28 Oct 2025 15:13:37 GMT | Unmasking the Devious Raiders: Defending Against Credential Phishing | Danielle Koppel | [Read More](https://medium.com/p/020fd539deb9) |
 | Tue, 28 Oct 2025 15:13:04 GMT | The Evolution of Cybersecurity Certifications: Which One Fits Your Career Path? | VERSAtile Reads | [Read More](https://medium.com/p/7b99c4fdcd56) |
-| Tue, 28 Oct 2025 15:11:05 GMT | The Credential Conundrum: Managing API Keys in Claude Skills | David Chaplin | [Read More](https://medium.com/p/430c41b21aa8) |
-| Tue, 28 Oct 2025 15:10:47 GMT | Bandit OverTheWire writeup — Level 0 | Dawid Kowalski | [Read More](https://medium.com/p/4d8c24e3f022) |
-| Tue, 28 Oct 2025 15:06:01 GMT | Ally Is A Hacked Bank and They’re Not Doing Anyting About It | ΞVΞ WЯITΞS ✍ | [Read More](https://medium.com/p/b55e9a042968) |
