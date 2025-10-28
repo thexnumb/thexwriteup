@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 15:39:41 GMT | HacktheBox: Shoppy Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/2107db30627a) |
+| Tue, 28 Oct 2025 15:39:10 GMT | How to Secure Your A2A Server Agent with Keycloak OAuth2 | Farah Juma | [Read More](https://medium.com/p/6112810ec7bb) |
+| Tue, 28 Oct 2025 15:35:06 GMT | The Unseen Security: Why Tools and Frameworks Matter for Every Platform | Pirisa Kitichai | [Read More](https://medium.com/p/85d994a9c5de) |
+| Tue, 28 Oct 2025 15:30:14 GMT | Trick or Treat... or Just Collecting Your Data? | Bridgett G Brumbaugh | [Read More](https://medium.com/p/959cd6684651) |
+| Tue, 28 Oct 2025 15:29:36 GMT | ZAST.AI found Insecure File Upload & CSP bypass issues in CodiMD | ZAST AI | [Read More](https://medium.com/p/d2439d93a542) |
+| Tue, 28 Oct 2025 15:24:51 GMT | Cyber Minimalism: Less Tech, More Control | Aysha Misri | [Read More](https://medium.com/p/2c7ee4adf94e) |
 | Tue, 28 Oct 2025 15:17:51 GMT | Best Cybersecurity Courses for Beginners in 2025: Start Your Career the Smart Way | Code Link | [Read More](https://medium.com/p/3ca83adb5280) |
 | Tue, 28 Oct 2025 15:14:08 GMT | Nový zákon o kybernetické bezpečnosti (NIS2 v ČR): co musí organizace stihnout do 60 dnů | Jan Andrascik | [Read More](https://medium.com/p/8ea1626488fb) |
 | Tue, 28 Oct 2025 15:13:37 GMT | Unmasking the Devious Raiders: Defending Against Credential Phishing | Danielle Koppel | [Read More](https://medium.com/p/020fd539deb9) |
@@ -107,9 +113,3 @@ By: Abdifatah Hassan… | Abdifatah Hassan Roble | [Read More](https://medium.co
 | Tue, 28 Oct 2025 11:11:33 GMT | « Please keep them as they are.» – Anatomie de la cyberinconscience. | EdenBlue | [Read More](https://medium.com/p/b2f0c09fc802) |
 | Tue, 28 Oct 2025 11:08:57 GMT | Hello my friends I want to ask: my OKX wallet holds big money ( OVER $ 5,000 ) and I have the seeed… | Joelle luxer | [Read More](https://medium.com/p/5cbc26ebe0f8) |
 | Tue, 28 Oct 2025 11:08:27 GMT | My Mother Left Me with Strangers | Do Capozucca | [Read More](https://medium.com/p/d5cb139f47d2) |
-| Tue, 28 Oct 2025 11:02:41 GMT | 9 Simple Samsung A Series Tricks to Improve Productivity | Chloe White | [Read More](https://medium.com/p/a34d3259b981) |
-| Tue, 28 Oct 2025 11:01:52 GMT | How to Install and Configure PGAudit on PostgreSQL 17: Complete Guide to Database Auditing and… | Matheus dos Santos | [Read More](https://medium.com/p/81ffe0ecd780) |
-| Tue, 28 Oct 2025 11:00:37 GMT | From One to Many — The Forbidden Playbook for Scaling a Single Bug into a Family of Findings | Viratavi | [Read More](https://medium.com/p/c85478aeb6ab) |
-| Tue, 28 Oct 2025 10:59:23 GMT | How I create a Network Monitor Tool | Dalta | [Read More](https://medium.com/p/0c121c77030a) |
-| Tue, 28 Oct 2025 10:57:23 GMT | Best Online Linux Essential Training Course in New Delhi, India | Manisha Chaudhary | [Read More](https://medium.com/p/1ed756df9bde) |
-| Tue, 28 Oct 2025 10:56:11 GMT | Bamboo — HTB walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/d86db3325e37) |
