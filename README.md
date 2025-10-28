@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 20:39:02 GMT | INTRODUCTION TO CYBER SECURITY By Martin Onyisi | Martin Onyisi | [Read More](https://medium.com/p/2ed1f06050db) |
+| Tue, 28 Oct 2025 20:36:33 GMT | No More AWS Keys on Servers: The Zero-Credential Way to Access AWS Resources from Anywhere | NIKHIL P PAWAR | [Read More](https://medium.com/p/2227a88f28e5) |
+| Tue, 28 Oct 2025 20:25:51 GMT | Pentagon’s $310M F-16 Deal Hides Software Locks: Ukraine Can’t Modify Weapons Systems | Global Intelligence Desk | [Read More](https://medium.com/p/32d2f7aeb822) |
 | Tue, 28 Oct 2025 20:24:56 GMT | Deep Dive: Fuel CMS 1.4.1 RCE Exploitation (CVE-2018-16763) | Yen Wang | [Read More](https://medium.com/p/1ee621fa9a4b) |
+| Tue, 28 Oct 2025 20:20:59 GMT | imToken Activity Report : October 2025 | imToken Persian Community | [Read More](https://medium.com/p/52262285ec38) |
 | Tue, 28 Oct 2025 20:16:49 GMT | [Part 10] EU Cyber Resilience Act: Centralizing Compliance with NIS2, DORA, and ISO 27001 | Cyberkech | [Read More](https://medium.com/p/1eee9f9796db) |
 | Tue, 28 Oct 2025 20:15:54 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/34de2bb53a3b) |
 | Tue, 28 Oct 2025 20:10:45 GMT | Postman HTB | Aaronashley | [Read More](https://medium.com/p/410cb3e00b60) |
@@ -21,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 19:58:15 GMT | John the Ripper: The Basics | Mahir | [Read More](https://medium.com/p/c01c98e1c568) |
 | Tue, 28 Oct 2025 19:51:05 GMT | Hackviser - SolarFlare | Tolga Can | [Read More](https://medium.com/p/ae6425b78117) |
 | Tue, 28 Oct 2025 19:50:43 GMT | You Know I Am Human | Obinna Uruakpa | [Read More](https://medium.com/p/38db361bfa9d) |
+| Tue, 28 Oct 2025 19:50:43 GMT | Cómo hacer que tu desarrollo sea súper inseguro (guía infalible) | Diego Cañizares | [Read More](https://medium.com/p/03eb7e4aa7c5) |
 | Tue, 28 Oct 2025 19:48:51 GMT | Building More Trustworthy AI Through Governed Data Architecture and Cyber Risk-Aligned Security | Valdez Ladd | [Read More](https://medium.com/p/bc83b558a0b9) |
 | Tue, 28 Oct 2025 19:45:39 GMT | Google Dork is The Biggest Tool of OSINT | Nazrul Islam Rana | [Read More](https://medium.com/p/5df812a29957) |
 | Tue, 28 Oct 2025 19:36:53 GMT | 10 AI Tools That Actually Make You Money in 2025 (No Coding Needed) | BRNK it | [Read More](https://medium.com/p/1c3a43bf3434) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 14:56:06 GMT | Five Myths About Digital Marketing That Will Kill Your Budget (And Your Agency Won’t Inform You) | Digital F7 | [Read More](https://medium.com/p/9ed2b8f557f9) |
 | Tue, 28 Oct 2025 14:47:14 GMT | Cl0p’s leak sites: 1-in-5 odds they go dark by Apr 22, 2026. | Wes Young | [Read More](https://medium.com/p/f3f5f6ed02c3) |
 | Tue, 28 Oct 2025 14:42:21 GMT | Understanding Vulnerability Types for New Ethical Hackers | Tech Journal | [Read More](https://medium.com/p/367cd06c9936) |
-| Tue, 28 Oct 2025 14:41:37 GMT | Flipper Zero Explained: Versatile Hacking Tool or Overhyped Threat? | Vaishnavi Bhandari | [Read More](https://medium.com/p/b64bb2455d8c) |
-| Tue, 28 Oct 2025 14:40:03 GMT | Understanding Different Types of Cyber Attacks: Know the Enemy Before It Strikes | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/7c98684b1c45) |
-| Tue, 28 Oct 2025 14:37:59 GMT | 5 Hidden Cybersecurity Risks Your Business Might Be Ignoring | CoopSys | [Read More](https://medium.com/p/8bf9f21d7a6a) |
-| Tue, 28 Oct 2025 14:29:09 GMT | Useful Guide: Setting Up Listeners and Creating Backdoors | Abel Thomas | [Read More](https://medium.com/p/c8816a1c9c4b) |
-| Tue, 28 Oct 2025 14:27:51 GMT | Getting Started with Bug Bounties: A Complete Beginner’s Guide | Tech Journal | [Read More](https://medium.com/p/81e90945c581) |
