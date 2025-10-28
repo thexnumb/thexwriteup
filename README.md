@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 20:24:56 GMT | Deep Dive: Fuel CMS 1.4.1 RCE Exploitation (CVE-2018-16763) | Yen Wang | [Read More](https://medium.com/p/1ee621fa9a4b) |
+| Tue, 28 Oct 2025 20:16:49 GMT | [Part 10] EU Cyber Resilience Act: Centralizing Compliance with NIS2, DORA, and ISO 27001 | Cyberkech | [Read More](https://medium.com/p/1eee9f9796db) |
+| Tue, 28 Oct 2025 20:15:54 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/34de2bb53a3b) |
+| Tue, 28 Oct 2025 20:10:45 GMT | Postman HTB | Aaronashley | [Read More](https://medium.com/p/410cb3e00b60) |
+| Tue, 28 Oct 2025 20:06:32 GMT | What If the Missile Never Existed? | DrTekno | [Read More](https://medium.com/p/829d32639c14) |
+| Tue, 28 Oct 2025 20:06:28 GMT | Phase 0: Laying the Blueprint — How Project Jupiter Begins to Take Shape | Soldier0x00 | [Read More](https://medium.com/p/12d6d61b3d82) |
+| Tue, 28 Oct 2025 19:58:15 GMT | John the Ripper: The Basics | Mahir | [Read More](https://medium.com/p/c01c98e1c568) |
+| Tue, 28 Oct 2025 19:51:05 GMT | Hackviser - SolarFlare | Tolga Can | [Read More](https://medium.com/p/ae6425b78117) |
+| Tue, 28 Oct 2025 19:50:43 GMT | You Know I Am Human | Obinna Uruakpa | [Read More](https://medium.com/p/38db361bfa9d) |
+| Tue, 28 Oct 2025 19:48:51 GMT | Building More Trustworthy AI Through Governed Data Architecture and Cyber Risk-Aligned Security | Valdez Ladd | [Read More](https://medium.com/p/bc83b558a0b9) |
+| Tue, 28 Oct 2025 19:45:39 GMT | Google Dork is The Biggest Tool of OSINT | Nazrul Islam Rana | [Read More](https://medium.com/p/5df812a29957) |
+| Tue, 28 Oct 2025 19:36:53 GMT | 10 AI Tools That Actually Make You Money in 2025 (No Coding Needed) | BRNK it | [Read More](https://medium.com/p/1c3a43bf3434) |
 | Tue, 28 Oct 2025 19:33:47 GMT | Reverse Engineering API Security: How I Broke and bypass “Request-Hash” or “Signature” Protection | Ali Bahaa Alawsi | [Read More](https://medium.com/p/7c4f64276661) |
+| Tue, 28 Oct 2025 19:27:44 GMT | The Hidden Identity Crisis in the Age of AI Agents | Deepak Gupta | [Read More](https://medium.com/p/0fa6b022567d) |
 | Tue, 28 Oct 2025 19:22:37 GMT | 7 Cybersecurity Mistakes That Kill 42% of Early-Stage Startups | Hania Khan | [Read More](https://medium.com/p/b8c6f2cd2529) |
 | Tue, 28 Oct 2025 19:21:15 GMT | Your Password Is ‘Password123’? Bold of You to Assume You Still Have Privacy | Naturinda Patra | [Read More](https://medium.com/p/3d2fec9c6f57) |
 | Tue, 28 Oct 2025 19:20:35 GMT | Hardening Against Path Traversal: Breaking the Cyber Chain from DevOps to SecOps -EN | Burak Bozacı | [Read More](https://medium.com/p/336918b9bf61) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 14:37:59 GMT | 5 Hidden Cybersecurity Risks Your Business Might Be Ignoring | CoopSys | [Read More](https://medium.com/p/8bf9f21d7a6a) |
 | Tue, 28 Oct 2025 14:29:09 GMT | Useful Guide: Setting Up Listeners and Creating Backdoors | Abel Thomas | [Read More](https://medium.com/p/c8816a1c9c4b) |
 | Tue, 28 Oct 2025 14:27:51 GMT | Getting Started with Bug Bounties: A Complete Beginner’s Guide | Tech Journal | [Read More](https://medium.com/p/81e90945c581) |
-| Tue, 28 Oct 2025 14:26:49 GMT | Network topology for targeted server and client backup with separate VLANs | Alizare | [Read More](https://medium.com/p/cbd85d29b655) |
-| Tue, 28 Oct 2025 14:26:34 GMT | Setup an Tune an OT SOC (Part 3.5): | biero llagas | [Read More](https://medium.com/p/9db66eea61c3) |
-| Tue, 28 Oct 2025 14:24:29 GMT | My First Black Hat USA Experience | VXRL | [Read More](https://medium.com/p/358e391ff8c1) |
-| Tue, 28 Oct 2025 14:18:47 GMT | Fix SwiftUI onAppear Firing infinity— The Fast iOS 17 + iOS ≤16 Fix | Omar Kader | [Read More](https://medium.com/p/4e0758223333) |
-| Tue, 28 Oct 2025 14:15:47 GMT | [TryHackMe] Blueprint | digistam | [Read More](https://medium.com/p/6a0cc5918b10) |
-| Tue, 28 Oct 2025 14:15:06 GMT | The OSI Model Explained: A Practical Guide to Networking’s 7 Layers | Fikri Muzadi | [Read More](https://medium.com/p/5e2c61bc62bc) |
-| Tue, 28 Oct 2025 14:14:01 GMT | Turns Out ChatGPT Never Forgets (And Stanford Says You Should Worry) | Pannag Kumaar | [Read More](https://medium.com/p/83ffe44047c4) |
-| Tue, 28 Oct 2025 14:13:52 GMT | How to Spot an AI Video Before It Fools You | Arkycookie | [Read More](https://medium.com/p/5d2c478488a3) |
-| Tue, 28 Oct 2025 14:06:08 GMT | The Military Seed: How Classified Simulators Birthed movie: The Matrix | Berend Watchus | [Read More](https://medium.com/p/f4984708bb40) |
-| Tue, 28 Oct 2025 14:03:00 GMT | Cyber Briefing: 2025.10.27 | CyberMaterial | [Read More](https://medium.com/p/3a2c32d7f67f) |
-| Tue, 28 Oct 2025 14:02:56 GMT | Samba Spy (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/397d6e05cd36) |
-| Tue, 28 Oct 2025 13:57:57 GMT | Invisible | mira afkaar | [Read More](https://medium.com/p/4ae2d682819a) |
-| Tue, 28 Oct 2025 13:57:26 GMT | Top-Rated Home Security Systems in Austin, TX — Protect What Matters Most with All Star Security | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/bea48e0afbe1) |
