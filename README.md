@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 08:47:11 GMT | ประจำวันอังคารที่ 28 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/44788fa65741) |
+| Tue, 28 Oct 2025 08:45:27 GMT | How to Visualize Nmap Scans in Real-Time (With Grafana That Actually Helps) | Fateyaly | [Read More](https://medium.com/p/7b8a9a901a50) |
+| Tue, 28 Oct 2025 08:39:41 GMT | How to Spot a Social Engineering Attack | Jay C Roberts | [Read More](https://medium.com/p/a7b8004339bb) |
+| Tue, 28 Oct 2025 08:37:23 GMT | “The Role of Each OSI Layer in Cybersecurity: Layer-by-Layer Defense in the Networking World” | Traumerei | [Read More](https://medium.com/p/d4e228172479) |
+| Tue, 28 Oct 2025 08:24:33 GMT | From HTTP to HTTPS: Understanding Encryption and TLS Termination | El Hadji Sidya Badji | [Read More](https://medium.com/p/9a12c6d0e8b4) |
 | Tue, 28 Oct 2025 08:06:18 GMT | You Don’t Have to Be Good at It to Love It | Vijay Kumar Gupta | [Read More](https://medium.com/p/80c409664d5f) |
 | Tue, 28 Oct 2025 08:06:12 GMT | How Blockchain is Enhancing Identity Verification in Digital Platforms | Evangelist Apps | [Read More](https://medium.com/p/ea963f6b14c1) |
 | Tue, 28 Oct 2025 08:04:57 GMT | From Bugs to Bosses: 6 Games That QA Specialists Will Appreciate | Darius Razzle Paciente | [Read More](https://medium.com/p/1b0665666003) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 22:51:43 GMT | Cyberattack Survival: When the Internet Goes Dark | Backyard Bug Out | [Read More](https://medium.com/p/8647d4fb2a9e) |
 | Mon, 27 Oct 2025 22:49:34 GMT | SQL Injection to RCE Explained: How Attackers Take Over Servers | mwael0x | [Read More](https://medium.com/p/9687c0e1ea78) |
 | Mon, 27 Oct 2025 22:30:23 GMT | TENURE OF MILITARY SERVICE CHIEFS — GLOBAL BEST PRACTICES VS NIGERIA’S APPROACH-Do Military… | Sgshehu | [Read More](https://medium.com/p/ae3286176e7f) |
-| Mon, 27 Oct 2025 22:23:55 GMT | Breaking News!!! Gmail Confirmed 183M Account Leak—What We Do Now | My Life | [Read More](https://medium.com/p/caf1939353ee) |
-| Mon, 27 Oct 2025 22:12:13 GMT | Exfiltrating information through Telegram | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f1f9ec9204f5) |
-| Mon, 27 Oct 2025 22:06:11 GMT | According to Google’s latest security advisory, cyber-actors are increasingly leveraging bogus job… | SCtoCS | [Read More](https://medium.com/p/aa01923b65a9) |
-| Mon, 27 Oct 2025 22:02:47 GMT | Smishing Triad’s Global Domain Surge: Over 194,000 Malicious URLs Fuel SMS Phishing Empire | SCtoCS | [Read More](https://medium.com/p/4eaf00794122) |
-| Mon, 27 Oct 2025 22:01:27 GMT | Cybersecurity and Teenagers: Why Protecting Your Online Identity Matters | Parinitha N | [Read More](https://medium.com/p/dae5910d36ca) |
