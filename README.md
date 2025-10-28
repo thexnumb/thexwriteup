@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 17:25:10 GMT | Deep Dive into Security Hardening on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/41494de607fb) |
+| Tue, 28 Oct 2025 17:20:29 GMT | AresGPT: Red Teaming Strategies | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/afb01cd3568e) |
 | Tue, 28 Oct 2025 17:17:30 GMT | Behind the padlock: the hidden risks of built-in password managers | Enrique Dans | [Read More](https://medium.com/p/6a76fce3a2f6) |
 | Tue, 28 Oct 2025 17:05:10 GMT | ️ The Kestrel Smuggling Bug: What Every ASP.NET Developer Needs to Know (and Do) Now | Brian Mora | [Read More](https://medium.com/p/6343a4869207) |
 | Tue, 28 Oct 2025 17:02:01 GMT | Data Privacy: Panda Security’s Guide for Individuals & Families | Panda Security | [Read More](https://medium.com/p/090e21e97703) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 13:06:00 GMT | Keep the Middleman Out: How to Safeguard Your SaaS Infrastructure | Futurism AI | [Read More](https://medium.com/p/572305d78efd) |
 | Tue, 28 Oct 2025 13:01:57 GMT | 30 Days of Red Team: Day 3 — Weaponization: Building Payloads That Evade Detection | Maxwell Cross | [Read More](https://medium.com/p/6268da00344e) |
 | Tue, 28 Oct 2025 13:01:53 GMT | What’s Included in a Professional Garage Door Tune-Up | 24H Garage Doors | [Read More](https://medium.com/p/a581c4872630) |
-| Tue, 28 Oct 2025 12:55:47 GMT | 4 Emerging Digital Identity Trends Shaping 2025 | Anushka | [Read More](https://medium.com/p/edde7545b31f) |
-| Tue, 28 Oct 2025 12:55:12 GMT | What Smell Do Roaches Hate? (Top Natural Repellents That Actually Work) | Hina Chaudhary | [Read More](https://medium.com/p/ebceaaf0cd8f) |
