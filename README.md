@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 14:42:21 GMT | Understanding Vulnerability Types for New Ethical Hackers | Tech Journal | [Read More](https://medium.com/p/367cd06c9936) |
+| Tue, 28 Oct 2025 14:41:37 GMT | Flipper Zero Explained: Versatile Hacking Tool or Overhyped Threat? | Vaishnavi Bhandari | [Read More](https://medium.com/p/b64bb2455d8c) |
+| Tue, 28 Oct 2025 14:40:03 GMT | Understanding Different Types of Cyber Attacks: Know the Enemy Before It Strikes | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/7c98684b1c45) |
+| Tue, 28 Oct 2025 14:37:59 GMT | 5 Hidden Cybersecurity Risks Your Business Might Be Ignoring | CoopSys | [Read More](https://medium.com/p/8bf9f21d7a6a) |
+| Tue, 28 Oct 2025 14:29:09 GMT | Useful Guide: Setting Up Listeners and Creating Backdoors | Abel Thomas | [Read More](https://medium.com/p/c8816a1c9c4b) |
+| Tue, 28 Oct 2025 14:27:51 GMT | Getting Started with Bug Bounties: A Complete Beginner’s Guide | Tech Journal | [Read More](https://medium.com/p/81e90945c581) |
+| Tue, 28 Oct 2025 14:26:49 GMT | Network topology for targeted server and client backup with separate VLANs | Alizare | [Read More](https://medium.com/p/cbd85d29b655) |
+| Tue, 28 Oct 2025 14:26:34 GMT | Setup an Tune an OT SOC (Part 3.5): | biero llagas | [Read More](https://medium.com/p/9db66eea61c3) |
+| Tue, 28 Oct 2025 14:24:29 GMT | My First Black Hat USA Experience | VXRL | [Read More](https://medium.com/p/358e391ff8c1) |
+| Tue, 28 Oct 2025 14:18:47 GMT | Fix SwiftUI onAppear Firing infinity— The Fast iOS 17 + iOS ≤16 Fix | Omar Kader | [Read More](https://medium.com/p/4e0758223333) |
+| Tue, 28 Oct 2025 14:15:47 GMT | [TryHackMe] Blueprint | digistam | [Read More](https://medium.com/p/6a0cc5918b10) |
 | Tue, 28 Oct 2025 14:15:06 GMT | The OSI Model Explained: A Practical Guide to Networking’s 7 Layers | Fikri Muzadi | [Read More](https://medium.com/p/5e2c61bc62bc) |
+| Tue, 28 Oct 2025 14:14:01 GMT | Turns Out ChatGPT Never Forgets (And Stanford Says You Should Worry) | Pannag Kumaar | [Read More](https://medium.com/p/83ffe44047c4) |
+| Tue, 28 Oct 2025 14:13:52 GMT | How to Spot an AI Video Before It Fools You | Arkycookie | [Read More](https://medium.com/p/5d2c478488a3) |
 | Tue, 28 Oct 2025 14:06:08 GMT | The Military Seed: How Classified Simulators Birthed movie: The Matrix | Berend Watchus | [Read More](https://medium.com/p/f4984708bb40) |
 | Tue, 28 Oct 2025 14:03:00 GMT | Cyber Briefing: 2025.10.27 | CyberMaterial | [Read More](https://medium.com/p/3a2c32d7f67f) |
 | Tue, 28 Oct 2025 14:02:56 GMT | Samba Spy (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/397d6e05cd36) |
@@ -100,16 +113,3 @@ By: Abdifatah Hassan… | Abdifatah Hassan Roble | [Read More](https://medium.co
 | Tue, 28 Oct 2025 10:14:32 GMT | Digital Tyranny: How Arab Captagon Corrupt Regimes Are Weaponizing Cyber Power Against Their Own… | Wissamdouglas | [Read More](https://medium.com/p/45e4d0daf10a) |
 | Tue, 28 Oct 2025 10:12:00 GMT | The Importance of Ethical Hacking in the Current World | Hackerlink | [Read More](https://medium.com/p/6fb0120f7785) |
 | Tue, 28 Oct 2025 10:08:06 GMT | Simple BUG Bonus Guide — October 2025 | BUG | [Read More](https://medium.com/p/8460cb6d37eb) |
-| Tue, 28 Oct 2025 10:06:40 GMT | Strengthen Software Security with DevSecOps as a service | Vishwajeettechtech | [Read More](https://medium.com/p/f654bbedd68f) |
-| Tue, 28 Oct 2025 10:01:55 GMT | The Problem with Current Security Models | estrosec | [Read More](https://medium.com/p/862427906875) |
-| Tue, 28 Oct 2025 10:00:32 GMT | The Cybersecurity Era: Why Now Is the Best Time to Join the Most Powerful Field in Technology | KryptKP | [Read More](https://medium.com/p/0acfb0bb5da0) |
-| Tue, 28 Oct 2025 09:53:41 GMT | Autonomous Purple Teaming | Jackdavis Iap | [Read More](https://medium.com/p/fb6138ba5627) |
-| Tue, 28 Oct 2025 09:40:06 GMT | iExec on Arbitrum: Unlocking Privacy at Scale | Moses Israel A. | [Read More](https://medium.com/p/1746b8cd8cef) |
-| Tue, 28 Oct 2025 09:39:45 GMT | VMware Pro is FREE. Install Kali Linux on Windows 11 NOW | Shahzaib | [Read More](https://medium.com/p/50a00647e22d) |
-| Tue, 28 Oct 2025 09:39:35 GMT | When AI Lies Better Than Humans: The Rise of Deepfakes in Corporate Cybercrime | Smriti Singh | [Read More](https://medium.com/p/cdb650d2b0bd) |
-| Tue, 28 Oct 2025 09:39:17 GMT | Cybersecurity #9: Kali Linux | mohandika | [Read More](https://medium.com/p/8975736d6a0e) |
-| Tue, 28 Oct 2025 09:36:18 GMT | How To Sanitize A Filename | Ferran Verdés | [Read More](https://medium.com/p/7baa8ae0cfa6) |
-| Tue, 28 Oct 2025 09:36:00 GMT | How to Monitor Your Homelab with Telegraf, InfluxDB, and Grafana — Part1: (iDRAC Integration Guide) | Michael | [Read More](https://medium.com/p/08cea35d8f15) |
-| Tue, 28 Oct 2025 09:34:27 GMT | RECON TO ROYALTY: The Definitive Bug Bounty Reconnaissance Masterclass | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/1464ce403c6a) |
-| Tue, 28 Oct 2025 09:23:55 GMT | Kioptrix Level 1 — Write-up | Andi Pras | [Read More](https://medium.com/p/b024e94bb536) |
-| Tue, 28 Oct 2025 09:23:41 GMT | Beyond the Firewall: Your Essential Introduction to Web Application Security Testing | Abdalla Sakr | [Read More](https://medium.com/p/95f1da410a0d) |
