@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 03:45:27 GMT | Beginner’s BUG Rewards Guide — October 2025 | BUG | [Read More](https://medium.com/p/2af32c80baf1) |
+| Tue, 28 Oct 2025 03:38:23 GMT | CSRF Lab Walkthrough: Exploiting Non-Session Cookie Token Binding | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/e3531b6497b6) |
+| Tue, 28 Oct 2025 03:38:00 GMT | Your Fingerprint - A Password You Can’t Change | The Great Exchange | [Read More](https://medium.com/p/df26aa4a5ae8) |
+| Tue, 28 Oct 2025 03:31:52 GMT | When Images Speak: How Downscaling Can Turn Pictures into Hidden Prompts | Deven Chhajed | [Read More](https://medium.com/p/58ad1c86b40d) |
+| Tue, 28 Oct 2025 03:23:14 GMT | State Constraints versus State Complicity: | Farhan Ahmed | [Read More](https://medium.com/p/66963468eb4a) |
 | Tue, 28 Oct 2025 03:02:21 GMT | SSH ( Secure Shell ) — A glance | Jenifar | [Read More](https://medium.com/p/71db7a024dfb) |
 | Tue, 28 Oct 2025 02:59:13 GMT | 10 Warning Signs Your Phone Might Be Hacked — And How to Fix It | Adv. Moniruz Zaman | [Read More](https://medium.com/p/f4218d5eb3c6) |
 | Tue, 28 Oct 2025 02:51:39 GMT | JOURNAL REVIEW: Penerapan Metode NIST dalam Analisis Forensik Digital Pasca Serangan Siber (Studi… | Mokhamad Yusron Rafi | [Read More](https://medium.com/p/c729b77a4ddc) |
@@ -108,8 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 17:32:17 GMT | The AI Convergence and the Future of Law Enforcement | Ian McIntire | [Read More](https://medium.com/p/8d5166ea49d8) |
 | Mon, 27 Oct 2025 17:30:23 GMT | LFI to ATO (Universal ) | Sevada797 | [Read More](https://medium.com/p/71e3788d173c) |
 | Mon, 27 Oct 2025 17:21:32 GMT | Why Mobile-Based Access Control is the Future of Office Security | Joven A Rodrigues | [Read More](https://medium.com/p/d5a0c25678bf) |
-| Mon, 27 Oct 2025 17:16:26 GMT | The Psychology of Cybersecurity: Why System Design Matters More Than User Mistakes | Harsh Kaushik | [Read More](https://medium.com/p/48065966b5a6) |
-| Mon, 27 Oct 2025 17:13:03 GMT | Don’t Risk It: Windows 11 Migration for Business | Arshad | [Read More](https://medium.com/p/e09aaa95af98) |
-| Mon, 27 Oct 2025 17:10:32 GMT | Do you think bypassing SSL pinning can get you a bounty? | Kyrillos nady | [Read More](https://medium.com/p/6cf894148953) |
-| Mon, 27 Oct 2025 17:09:27 GMT | AWS’ DNS Outage: Why This Wasn’t an Indicator of ISO 27001 Insufficiency | R-Squared Cyber | [Read More](https://medium.com/p/b4c476b69e65) |
-| Mon, 27 Oct 2025 17:05:09 GMT | Leaked: Ukrainian Techs Bypassed Pentagon’s HIMARS Range Lock Using $200 Raspberry Pi | Global Intelligence Desk | [Read More](https://medium.com/p/bd51b04d72b0) |
