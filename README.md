@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 07:07:40 GMT | Defending Against Clickjacking: Understanding the Invisible Threat | Himanshu Bhatt | [Read More](https://medium.com/p/47e51f4eae32) |
+| Tue, 28 Oct 2025 07:01:54 GMT | Database Exposure Security Index (DESI) | Dragos C | [Read More](https://medium.com/p/455af49dcf88) |
+| Tue, 28 Oct 2025 06:59:52 GMT | Detection Engineering Training: Detecting Browser Credential Theft Attacks | Mnik | [Read More](https://medium.com/p/40a364ab0464) |
+| Tue, 28 Oct 2025 06:49:25 GMT | Unseeable Prompt Injection: Why AI Browsers Need Better Security Now | Bhinish Dhiman | [Read More](https://medium.com/p/8c90c35e41de) |
+| Tue, 28 Oct 2025 06:45:04 GMT | Unit 42 Managed Threat Hunting: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/51ec1853cdf3) |
+| Tue, 28 Oct 2025 06:41:12 GMT | K8s Security Made Simple — CIS Benchmarking with Kube-Bench Slack Alerts and OpenAI | Omar Din | [Read More](https://medium.com/p/f4ae9b395679) |
+| Tue, 28 Oct 2025 06:34:13 GMT | Understanding Software and Data Integrity Failures in the Real World | CyberSenpai | [Read More](https://medium.com/p/cca3b5096469) |
+| Tue, 28 Oct 2025 06:31:27 GMT | Kerberos SSO: The Security Protocol That Stops Sending Your Password | Amil Mansurov | [Read More](https://medium.com/p/190f8d7c8f97) |
+| Tue, 28 Oct 2025 06:27:59 GMT | Why Go-to-Market Strategy Is So Challenging for Cybersecurity Founders | Dan Schoenbaum | [Read More](https://medium.com/p/0c182a22a48d) |
+| Tue, 28 Oct 2025 06:27:08 GMT | ⚙️ 6. Combine Transitions + Animations | Rana Awais | [Read More](https://medium.com/p/ec985e93c742) |
 | Tue, 28 Oct 2025 06:25:46 GMT | Avoid Legal and Security Risks: Why Genuine Software is Always the Right Choice | Best Software Buy | [Read More](https://medium.com/p/10359db3b57e) |
+| Tue, 28 Oct 2025 06:24:23 GMT | 183 Million Gmail Accounts Exposed: Security Action Plan (October 2025) | Nanthakumar | [Read More](https://medium.com/p/4a745e8355ee) |
+| Tue, 28 Oct 2025 06:23:09 GMT | Topic 41: CSS Transitions and Animations | Rana Awais | [Read More](https://medium.com/p/31d808112e0d) |
 | Tue, 28 Oct 2025 06:23:04 GMT | Attacking 2FA in Modern Web Apps | Snapsec | [Read More](https://medium.com/p/68c098abf310) |
 | Tue, 28 Oct 2025 06:18:33 GMT | 6. Responsive Images | Rana Awais | [Read More](https://medium.com/p/f08564400c73) |
 | Tue, 28 Oct 2025 06:15:15 GMT | The Hidden Risk in AI: Context Switching Attacks | Facundo Fernandez | [Read More](https://medium.com/p/beb77c3526f2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 20:55:37 GMT | Building a Hidden Service: A Technical and Ethical Guide to Creating a Website on the Darknet | Douglas Brian Neves | [Read More](https://medium.com/p/59d6cccf1d89) |
 | Mon, 27 Oct 2025 20:54:59 GMT | I use to sleep in the car… with $0 in my pocket…. Now I work as a Penatration tester | GhostInject | [Read More](https://medium.com/p/6ed3f35f211a) |
 | Mon, 27 Oct 2025 20:50:26 GMT | Salesforce vs HubSpot - CRM Comparison Guide for Business Leaders | Digital Transformation Playbook | [Read More](https://medium.com/p/edb3e0e3855c) |
-| Mon, 27 Oct 2025 20:47:50 GMT | Tracking Lateral Movement — Named Pipes, Scheduler, Services, Registry, and DCOM (Event IDs) | Dean | [Read More](https://medium.com/p/4f4670e70172) |
-| Mon, 27 Oct 2025 20:16:47 GMT | Hack The Boo CTF: A Technical Writeup on Web, Pwn, and Forensics | Purvansh Bhatt | [Read More](https://medium.com/p/bfb9a2aac997) |
-| Mon, 27 Oct 2025 20:12:57 GMT | DuoKey Achieves TISAX® Certification | DuoKey | [Read More](https://medium.com/p/6e27992303c6) |
-| Mon, 27 Oct 2025 20:06:58 GMT | TryHackMe walkthrough Core Windows Processes | The Commoness | [Read More](https://medium.com/p/e585061d168d) |
-| Mon, 27 Oct 2025 19:51:27 GMT | Incident handler’s journal | Sameera Nazneen | [Read More](https://medium.com/p/c9a5512a76bd) |
-| Mon, 27 Oct 2025 19:51:02 GMT | The Cognitive Layer of Agentic Intelligence | Ashkan Karimi | [Read More](https://medium.com/p/f1dcb18421a9) |
-| Mon, 27 Oct 2025 19:50:29 GMT | Unearth the Secrets of Cybersecurity: Password Hygiene with an Indiana Jones Twist | Danielle Koppel | [Read More](https://medium.com/p/d381f8cfe481) |
-| Mon, 27 Oct 2025 19:50:05 GMT | Uncovering the Secrets of Password Managers: Your Cybersecurity Companion | Danielle Koppel | [Read More](https://medium.com/p/e9f40a9b60bf) |
-| Mon, 27 Oct 2025 19:49:01 GMT | Mastering SonarQube with Jenkins & Multi-Branch Support: Complete Hands-On Walkthrough | @Harsh | [Read More](https://medium.com/p/0d142c711305) |
-| Mon, 27 Oct 2025 19:48:05 GMT | Mitigating Cache Poisoning in AWS CloudFront: A Frontend Engineer’s Guide | eduardo aparicio cardenes | [Read More](https://medium.com/p/9a5f72d4bb9b) |
-| Mon, 27 Oct 2025 19:46:58 GMT | Do Cérebro Humano ao Cérebro Digital: Entendendo o Perceptron | Matheus_PrataScientist | [Read More](https://medium.com/p/f4da9f065cda) |
-| Mon, 27 Oct 2025 19:32:47 GMT | Learn Sigma (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/d2279e2733d6) |
