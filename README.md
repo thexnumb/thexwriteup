@@ -12,9 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 12:34:51 GMT | How Red Teaming Services Help Businesses Stay Ahead of Cyber Threats | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/6bde2503dedb) |
+| Tue, 28 Oct 2025 12:31:52 GMT | Compliance as a Growth Accelerator: Startup Cases That Got It Early | Lester Davila Escobedo | [Read More](https://medium.com/p/5de1cb4d6e59) |
+| Tue, 28 Oct 2025 12:30:35 GMT | [OverTheWire] Bandit Level 16 → 17 | H$nt | [Read More](https://medium.com/p/71c34eafd23e) |
+| Tue, 28 Oct 2025 12:26:57 GMT | Near 90 Days with no Cellphone and City Living this year | Richard Abram Austin II | [Read More](https://medium.com/p/cb84ba334c4c) |
+| Tue, 28 Oct 2025 12:25:49 GMT | [OverTheWire] Bandit Level 15 → 16 | H$nt | [Read More](https://medium.com/p/c92f628c78c3) |
+| Tue, 28 Oct 2025 12:23:26 GMT | C{api}tal walkthrough. | Jei Ess | [Read More](https://medium.com/p/999f4ce8597e) |
+| Tue, 28 Oct 2025 12:21:27 GMT | [OverTheWire] Bandit Level 14 → 15 | H$nt | [Read More](https://medium.com/p/e743c5b2e184) |
+| Tue, 28 Oct 2025 12:18:43 GMT | Wazuh - Endpoint Security Monitoring — THM [2025] | Rahul | [Read More](https://medium.com/p/2366638bb324) |
+| Tue, 28 Oct 2025 12:10:56 GMT | Mustacchio TryHackMe - detailed boot2root room writeup | Scorpius | [Read More](https://medium.com/p/5c003d216ba6) |
+| Tue, 28 Oct 2025 12:07:54 GMT | Anonymous GitHub Leak Exposes Iran’s Charming Kitten Hackers — Full Infrastructure Revealed! | Very Lazy Tech | [Read More](https://medium.com/p/3d5909f58504) |
+| Tue, 28 Oct 2025 12:07:13 GMT | Kubernetes 1.34 on AKS: What Actually Matters for Production Workloads | Sridhar | [Read More](https://medium.com/p/8005a1245873) |
+| Tue, 28 Oct 2025 12:07:02 GMT | Why More Short Stories from Tech Is One of the Most Important Books of the 2020s | Ludostuartdouglas | [Read More](https://medium.com/p/bbf3769c18c3) |
+| Tue, 28 Oct 2025 12:05:16 GMT | Top SEO Utah Companies for Business Growth | Hary Battler | [Read More](https://medium.com/p/5e3b877dfef8) |
+| Tue, 28 Oct 2025 12:03:37 GMT | Beyond the Web: Over-the-Air Attack Surfaces in Transmitting IoT Devices | Michael Preston | [Read More](https://medium.com/p/a4379b319b29) |
+| Tue, 28 Oct 2025 12:03:17 GMT | How to Automate Vendor Governance in SaaS for Zero-Stress Compliance | SecureSlate | [Read More](https://medium.com/p/b81aac0b5f38) |
+| Tue, 28 Oct 2025 11:50:01 GMT | ️ General Network Security: How It Works and Why It Matters | Suheyl Baghban | [Read More](https://medium.com/p/f1e8d72cc0f7) |
+| Tue, 28 Oct 2025 11:49:36 GMT | Success Story: Nandita’s Journey from IT Student to Cybersecurity Analyst with Offenso’s Ethical… | Oceanofyy | [Read More](https://medium.com/p/64161612f86a) |
+| Tue, 28 Oct 2025 11:47:10 GMT | How I Turned Glitches Into Rent Money: A Year in Bug Bounties | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6b10a5d98f90) |
+| Tue, 28 Oct 2025 11:46:38 GMT | The Only Cyber Security Tutorial You’ll Ever Need in 2026! | Testleaf | [Read More](https://medium.com/p/b6f541bb5e00) |
+| Tue, 28 Oct 2025 11:42:21 GMT | Success Story: How Arjun Built His Cybersecurity Career with Offenso’s Ethical Hacking Course in… | Oceanofyy | [Read More](https://medium.com/p/91a5da05a27f) |
 | Tue, 28 Oct 2025 11:37:53 GMT | Protect Your Business with Trusted Cyber Security in Houston by Patriotmedbill | Patriotmedbill | [Read More](https://medium.com/p/98df83904d45) |
 | Tue, 28 Oct 2025 11:36:18 GMT | EMAIL HEADER ANALYSIS | Cyberfairy | [Read More](https://medium.com/p/b74d9f8041d0) |
+| Tue, 28 Oct 2025 11:35:58 GMT | Wearable Technology Transforming Everyday Life | Farid Khan | [Read More](https://medium.com/p/39270759381d) |
 | Tue, 28 Oct 2025 11:33:56 GMT | How Safe Is Your Data on Cloud Storage? | Deepak Sharma | [Read More](https://medium.com/p/41c3b68e3b8c) |
+| Tue, 28 Oct 2025 11:33:27 GMT | Diary Control Room | Diidii_winfleur | [Read More](https://medium.com/p/491f03f5fe26) |
 | Tue, 28 Oct 2025 11:32:14 GMT | DEADFACE CTF 2025 — OSINT | Nuke | [Read More](https://medium.com/p/be09aa51b6e0) |
 | Tue, 28 Oct 2025 11:27:49 GMT | Data Breaches and Cybersecurity Risks: Real Incidents and Lessons Learned
 By: Abdifatah Hassan… | Abdifatah Hassan Roble | [Read More](https://medium.com/p/632e83b577ce) |
@@ -91,25 +113,3 @@ By: Abdifatah Hassan… | Abdifatah Hassan Roble | [Read More](https://medium.co
 | Tue, 28 Oct 2025 07:12:19 GMT | eBPF Tutorial: Privilege Escalation via File Content Manipulation | yunwei37 | [Read More](https://medium.com/p/71eb2a606829) |
 | Tue, 28 Oct 2025 07:07:40 GMT | Defending Against Clickjacking: Understanding the Invisible Threat | Himanshu Bhatt | [Read More](https://medium.com/p/47e51f4eae32) |
 | Tue, 28 Oct 2025 07:01:54 GMT | Database Exposure Security Index (DESI) | Dragos C | [Read More](https://medium.com/p/455af49dcf88) |
-| Tue, 28 Oct 2025 06:59:52 GMT | Detection Engineering Training: Detecting Browser Credential Theft Attacks | Mnik | [Read More](https://medium.com/p/40a364ab0464) |
-| Tue, 28 Oct 2025 06:49:25 GMT | Unseeable Prompt Injection: Why AI Browsers Need Better Security Now | Bhinish Dhiman | [Read More](https://medium.com/p/8c90c35e41de) |
-| Tue, 28 Oct 2025 06:45:04 GMT | Unit 42 Managed Threat Hunting: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/51ec1853cdf3) |
-| Tue, 28 Oct 2025 06:41:12 GMT | K8s Security Made Simple — CIS Benchmarking with Kube-Bench Slack Alerts and OpenAI | Omar Din | [Read More](https://medium.com/p/f4ae9b395679) |
-| Tue, 28 Oct 2025 06:34:13 GMT | Understanding Software and Data Integrity Failures in the Real World | CyberSenpai | [Read More](https://medium.com/p/cca3b5096469) |
-| Tue, 28 Oct 2025 06:31:27 GMT | Kerberos SSO: The Security Protocol That Stops Sending Your Password | Amil Mansurov | [Read More](https://medium.com/p/190f8d7c8f97) |
-| Tue, 28 Oct 2025 06:27:59 GMT | Why Go-to-Market Strategy Is So Challenging for Cybersecurity Founders | Dan Schoenbaum | [Read More](https://medium.com/p/0c182a22a48d) |
-| Tue, 28 Oct 2025 06:27:08 GMT | ⚙️ 6. Combine Transitions + Animations | Rana Awais | [Read More](https://medium.com/p/ec985e93c742) |
-| Tue, 28 Oct 2025 06:25:46 GMT | Avoid Legal and Security Risks: Why Genuine Software is Always the Right Choice | Best Software Buy | [Read More](https://medium.com/p/10359db3b57e) |
-| Tue, 28 Oct 2025 06:24:23 GMT | 183 Million Gmail Accounts Exposed: Security Action Plan (October 2025) | Nanthakumar | [Read More](https://medium.com/p/4a745e8355ee) |
-| Tue, 28 Oct 2025 06:23:09 GMT | Topic 41: CSS Transitions and Animations | Rana Awais | [Read More](https://medium.com/p/31d808112e0d) |
-| Tue, 28 Oct 2025 06:23:04 GMT | Attacking 2FA in Modern Web Apps | Snapsec | [Read More](https://medium.com/p/68c098abf310) |
-| Tue, 28 Oct 2025 06:18:33 GMT | 6. Responsive Images | Rana Awais | [Read More](https://medium.com/p/f08564400c73) |
-| Tue, 28 Oct 2025 06:15:15 GMT | The Hidden Risk in AI: Context Switching Attacks | Facundo Fernandez | [Read More](https://medium.com/p/beb77c3526f2) |
-| Tue, 28 Oct 2025 06:08:13 GMT | Online Basic Networking Course with AI in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/a86842635886) |
-| Tue, 28 Oct 2025 06:03:07 GMT | Inside the BlackBox: A deep technical guide to online chess cheating Detection | Ze3ter | [Read More](https://medium.com/p/2e55e94d5e31) |
-| Tue, 28 Oct 2025 06:01:57 GMT | Beyond the Demo: Rethinking How We Measure Cybersecurity Tool | Wakeyo Tolera | [Read More](https://medium.com/p/964fbf8e7dba) |
-| Tue, 28 Oct 2025 05:59:57 GMT | Password Myths That Are Putting You at Risk | Shivakshi Rawat | [Read More](https://medium.com/p/885bf333d937) |
-| Tue, 28 Oct 2025 05:59:14 GMT | What Is Wireshark | Ritesh Thorve | [Read More](https://medium.com/p/e5f50dd1b640) |
-| Tue, 28 Oct 2025 05:58:57 GMT | GZR Observer — Global Daily — Oct 28, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/237ae6d91e9f) |
-| Tue, 28 Oct 2025 05:53:16 GMT | The Daily Tech Digest: 28 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/550db8506bce) |
-| Tue, 28 Oct 2025 05:48:25 GMT | My Journey through the FortiGate 7.6 | Prateekpulastya | [Read More](https://medium.com/p/7c143a0436cf) |
