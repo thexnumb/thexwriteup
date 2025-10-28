@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 01:13:05 GMT | ChatGPT Atlas vs. Chrome: Use It or Dump It? | Nathaniel Niyazov | [Read More](https://medium.com/p/3d7a22d04488) |
+| Tue, 28 Oct 2025 01:07:46 GMT | Unlocking Cybersecurity Excellence: My Journey with 591Lab’s CISSP Certification Guide. | Al Beruni | [Read More](https://medium.com/p/71df6d2dcb97) |
+| Tue, 28 Oct 2025 01:04:52 GMT | Legal Protections Against Digital Gender-Based Violence | Sophia Shalbey | [Read More](https://medium.com/p/fd626c0632cf) |
+| Tue, 28 Oct 2025 01:02:47 GMT | Evidencias (The Hacker Labs) | FeCeSociety | [Read More](https://medium.com/p/ff0261dce9f2) |
+| Tue, 28 Oct 2025 00:57:58 GMT | The BLE Protocol Stack: A Security Analysis | Irene A. Gil | [Read More](https://medium.com/p/865ee8993866) |
+| Tue, 28 Oct 2025 00:52:15 GMT | When Your Bug Bounty Gets Stolen: A Guide to Reclaiming What’s Rightfully Yours | Krystal | [Read More](https://medium.com/p/6ee3bf21ffc3) |
+| Tue, 28 Oct 2025 00:49:09 GMT | Are You Worried About Databases Hacked? And Benefits of Blackhatclique: | Donley Mark | [Read More](https://medium.com/p/c0f12c437ee0) |
+| Tue, 28 Oct 2025 00:47:32 GMT | How I Set Up Sysmon and Splunk Without Losing My Sanity | Udith Ragav | [Read More](https://medium.com/p/f151357bcfbf) |
+| Tue, 28 Oct 2025 00:25:43 GMT | PaloAltoRCE Lab Write-Up - By BnHany | BnHany | [Read More](https://medium.com/p/03e767059788) |
+| Tue, 28 Oct 2025 00:06:33 GMT | Sobre o IBSEC | Wesley Paulow | [Read More](https://medium.com/p/32adea6b32c7) |
+| Tue, 28 Oct 2025 00:02:19 GMT | What Is a Network? From Personal Connections to the Global Web | Tawan Fonseca | [Read More](https://medium.com/p/7c05b3e90d49) |
+| Mon, 27 Oct 2025 23:48:26 GMT | Linux for Cybersecurity: Why Kali Linux Matters and How to Get Started | Yagmur Yerlikaya | [Read More](https://medium.com/p/97b85df9d183) |
+| Mon, 27 Oct 2025 23:45:16 GMT | 3,000 YouTube Videos Turned Into Malware Traps | Cyber-AppSec | [Read More](https://medium.com/p/314db0c08c05) |
+| Mon, 27 Oct 2025 23:44:32 GMT | Wuzen Android RAT 2025: Exclusive Visual Analysis of Underground’s Top Tool | REE-D-BLACK | [Read More](https://medium.com/p/d2a44f6977a1) |
 | Mon, 27 Oct 2025 23:30:25 GMT | Wuzen Android RAT 2025: Unleaked Source Code & Direct Connection Analysis | REE-D-BLACK | [Read More](https://medium.com/p/c98311c4a80c) |
 | Mon, 27 Oct 2025 23:21:11 GMT | SİBER GÜVENLİĞE BÜTÜNCÜL BAKIŞ | Abdullah Narin | [Read More](https://medium.com/p/a745ddad647b) |
 | Mon, 27 Oct 2025 23:20:26 GMT | How AI Will Replace 90% of What You Do (and Why That’s Okay) | Global Whirl of Wonders | [Read More](https://medium.com/p/c9ac9c348a62) |
@@ -99,17 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 16:31:39 GMT | How to Upload Images in a React & .NET Application | James Austin Jr | [Read More](https://medium.com/p/d541a556169c) |
 | Mon, 27 Oct 2025 16:29:57 GMT | How a Foundational Skill Almost Cost Me a Client | Andrew Keitany | [Read More](https://medium.com/p/910f133adedf) |
 | Mon, 27 Oct 2025 16:26:20 GMT | Day 13 — Logs and Log Monitoring | Denise Sophy | [Read More](https://medium.com/p/b84ba8f3c38e) |
-| Mon, 27 Oct 2025 16:21:05 GMT | Pwn2Own Ireland 2025 : 73 failles zero-day révélées pour 1 million $ de primes | Marc Barbezat | [Read More](https://medium.com/p/25a2592dde57) |
-| Mon, 27 Oct 2025 16:17:21 GMT | Transhumanismo un tema olvidado en LATAM | Hacking en México | [Read More](https://medium.com/p/ec9dde067b12) |
-| Mon, 27 Oct 2025 16:13:04 GMT | Designing a Resilient Network Architecture: Security, Scalability, and Strategy in the Digital Age | ATTOUCHI MOHAMED | [Read More](https://medium.com/p/d85123441698) |
-| Mon, 27 Oct 2025 16:10:54 GMT | Boost Cyber Resilience with Cyber Maturity Assessment in the USA | Vishwajeettechtech | [Read More](https://medium.com/p/8a1329ad3676) |
-| Mon, 27 Oct 2025 16:10:48 GMT | ️ Cyber Immunity: What Makes You Resilient | Aysha Misri | [Read More](https://medium.com/p/d4a814ffcd37) |
-| Mon, 27 Oct 2025 16:10:33 GMT | The Paradox of Growth: Learning to Live with Emotional Maturity Without Loneliness | Pamina Victoria | [Read More](https://medium.com/p/68f8ab3232b6) |
-| Mon, 27 Oct 2025 16:06:23 GMT | Stepping into the World of Cybersecurity, as a Freshman at CarletonU! | Alvin Kapoor | [Read More](https://medium.com/p/9249d327cf88) |
-| Mon, 27 Oct 2025 16:05:43 GMT | Prompt Injection Vulnerabilities Target OpenAI’s New Atlas Browser | RealSec.io | [Read More](https://medium.com/p/073a608abfb8) |
-| Mon, 27 Oct 2025 16:02:01 GMT | The AI Paradox: How Our Most Powerful Technology Became Our Greatest Vulnerability | Female Founders Fund | [Read More](https://medium.com/p/23135a140d03) |
-| Mon, 27 Oct 2025 15:59:53 GMT | Practicing Snort Rule Creation | Citadel Cybersec | [Read More](https://medium.com/p/7bf336a726dc) |
-| Mon, 27 Oct 2025 15:59:06 GMT | Browser or Breach? What OpenAI’s ChatGPT Atlas Launch Means for AI-Driven Cybersecurity | Gopi Sri | [Read More](https://medium.com/p/d8284cb58a2c) |
-| Mon, 27 Oct 2025 15:58:39 GMT | What Is VPN Tunneling? | Vijay Kumar Gupta | [Read More](https://medium.com/p/d283445c2344) |
-| Mon, 27 Oct 2025 15:57:50 GMT | Warning to Gmail Users: 183 Million Passwords Stolen in Massive Data Leak | Rroshan | [Read More](https://medium.com/p/0e725b344862) |
-| Mon, 27 Oct 2025 15:52:46 GMT | Security Hardening Handbook | LinuxDev | [Read More](https://medium.com/p/6c5bb9655441) |
