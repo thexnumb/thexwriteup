@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 05:18:16 GMT | Building Trust: Navigating Cybersecurity, Robustness and Privacy in AI at IMDA’s Technical Sharing… | IMDA BizTech Group | [Read More](https://medium.com/p/7d6bbc54c912) |
+| Tue, 28 Oct 2025 05:09:34 GMT | Decentralized Computing: The Future of Distributed Technology | BlockByte | [Read More](https://medium.com/p/83cf69ee3ba1) |
+| Tue, 28 Oct 2025 04:58:43 GMT | When a Man Breaks but No One Notices | Gursahib Singh | [Read More](https://medium.com/p/998d9abad405) |
+| Tue, 28 Oct 2025 04:54:05 GMT | What Really Happens When You Open a Website? | Salimassili | [Read More](https://medium.com/p/94277952951d) |
+| Tue, 28 Oct 2025 04:45:59 GMT | India Maritime Week 2025 | Divvya Jain | [Read More](https://medium.com/p/18b1ed620e1a) |
+| Tue, 28 Oct 2025 04:38:21 GMT | Ph.D. Research Idea: Enhancing Blockchain Scalability | Dr. Surendra Kumar Shukla | [Read More](https://medium.com/p/dc78f92bf180) |
+| Tue, 28 Oct 2025 04:36:37 GMT | The Growing Importance of Ethical Hacking in the Digital Age | Hackerlink | [Read More](https://medium.com/p/ce4ef1521700) |
 | Tue, 28 Oct 2025 04:31:10 GMT | Gen AI in Cybersecurity: Changing the Game in Threat Detection | Devarshi Acharya | [Read More](https://medium.com/p/9e2b882d5893) |
 | Tue, 28 Oct 2025 04:28:03 GMT | needrestart sudo privilege escalation | coderMohammed | [Read More](https://medium.com/p/44ae1c89bcc2) |
 | Tue, 28 Oct 2025 04:24:51 GMT | Cybersecurity Threats and How to Stay Safe | Rajputvanshika | [Read More](https://medium.com/p/934134f352c1) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 19:07:10 GMT | How to Secure a Legal AI Chatbot So It Doesn’t Leak Client Data With Easy Steps to Protect Your… | Josh Lee | [Read More](https://medium.com/p/a1fdcba56f3a) |
 | Mon, 27 Oct 2025 19:05:58 GMT | Top 10 Common API Security Mistakes (and How to Fix Them) | Tuhin Kairi | [Read More](https://medium.com/p/ef9f5e2be6cd) |
 | Mon, 27 Oct 2025 19:05:39 GMT | eJPT — 4.1 CTF 1 Web Application Penetration Testing | Dharmendrakumar | [Read More](https://medium.com/p/663b181029b3) |
-| Mon, 27 Oct 2025 19:03:21 GMT | Strengthening AI Defenses through Adversarial Training for LLMs | Valdez Ladd | [Read More](https://medium.com/p/16f2f95c6cc4) |
-| Mon, 27 Oct 2025 19:02:58 GMT | Conversor (Hack The Box) — Full Description and Step-by-Step Guide | KRY | [Read More](https://medium.com/p/3b0315848c4c) |
-| Mon, 27 Oct 2025 19:01:51 GMT | Hack The Boo 2025 — Practice — Web | n01rrr | [Read More](https://medium.com/p/c814fe10d85a) |
-| Mon, 27 Oct 2025 18:35:37 GMT | Living off the Land: Why Your Network Sees Attacks as Normal Traffic - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/8f56dbe72984) |
-| Mon, 27 Oct 2025 18:29:13 GMT | The Patchwork of Emotions | Dr. Nilantika Chakraborty, Ph.D. | [Read More](https://medium.com/p/18c02e9bf0c9) |
-| Mon, 27 Oct 2025 18:27:18 GMT | What is the real nature of the cyber world..?
-AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गया…? | Jassi - Admirer of RG Sir | [Read More](https://medium.com/p/c89aa389cd22) |
-| Mon, 27 Oct 2025 18:26:39 GMT | Building a Smart Security Automation Lab with Splunk and N8N | Cenky | [Read More](https://medium.com/p/76272675ba4a) |
