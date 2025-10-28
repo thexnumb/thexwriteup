@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 23:17:48 GMT | CSRF Bypass Techniques (Deep Dive) | Ikajakam | [Read More](https://medium.com/p/12ec2f985362) |
+| Tue, 28 Oct 2025 23:10:06 GMT | Let’s get some physical | Pablo M | [Read More](https://medium.com/p/66b8ae9f50a3) |
+| Tue, 28 Oct 2025 22:44:43 GMT | X Warns Users With Security Keys: Re-Enroll or Get Locked Out | Cyber-AppSec | [Read More](https://medium.com/p/2bd3e8f9dfdc) |
+| Tue, 28 Oct 2025 22:44:27 GMT | NVIDIA’s $1 Billion Strategic Investment in Nokia: Pioneering the AI-Driven Future of 6G… | Julia Ahrens | [Read More](https://medium.com/p/80491ec9d2f1) |
 | Tue, 28 Oct 2025 22:40:11 GMT | Best Crypto Asset Recovery Services Providers: Hire Optimistic Hacker Gaius | Anderson Thomas | [Read More](https://medium.com/p/7f9a5ec6feb6) |
 | Tue, 28 Oct 2025 22:33:03 GMT | IPv6 Penetration Testing and Exploit Codes: A Secure Look at the Future of the Network ️ | Esra Kayhan | [Read More](https://medium.com/p/a974778be5bd) |
 | Tue, 28 Oct 2025 22:24:25 GMT | How Mutual TLS (mTLS) works | Matthew Sweeney | [Read More](https://medium.com/p/9278b27eef93) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 16:00:43 GMT | TuesdayTool 36 — FullHunt.io: A Comprehensive Guide to Attack Surface Management | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/41cf4c455ffc) |
 | Tue, 28 Oct 2025 15:59:52 GMT | There is nothing new under the sun of cybersecurity realm | Martin Abramov | [Read More](https://medium.com/p/6a116c78e974) |
 | Tue, 28 Oct 2025 15:58:25 GMT | Toxic Stoicism vs Vulnerability | Riddick Lynn | [Read More](https://medium.com/p/c90a645e4db9) |
-| Tue, 28 Oct 2025 15:57:54 GMT | How Cybercrime’s Most Notorious Figures Were Betrayed by Their Own Mistakes | David SEHYEON Baek | [Read More](https://medium.com/p/97c7c1f3409f) |
-| Tue, 28 Oct 2025 15:57:26 GMT | Cyber Security: The Power of Threat Intelligence | Cyber Security Research | [Read More](https://medium.com/p/be4b4d8a329c) |
-| Tue, 28 Oct 2025 15:50:51 GMT | Cyber Security: Staying One Step Ahead of the Hackers | Cyber Security Research | [Read More](https://medium.com/p/67d32e67f8f4) |
-| Tue, 28 Oct 2025 15:47:19 GMT | The Everyday Web3: How Intuition Network Bridges Trust, Information, and Real-World Utility. | Wolfgang | [Read More](https://medium.com/p/d9f8fde1dcd3) |
