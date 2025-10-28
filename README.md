@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 16:50:25 GMT | From Moonshine to Blockchain: South Carolina’s Journey Through Bootlegging, Law, and the Promise of… | TTBMath | [Read More](https://medium.com/p/286163168b16) |
+| Tue, 28 Oct 2025 16:47:08 GMT | WSUS on Fire: Inside the CVE-2025–59287 RCE that’s being exploited in the wild | Divyanshu Saini | [Read More](https://medium.com/p/b803337a8c50) |
+| Tue, 28 Oct 2025 16:45:04 GMT | “Spring Boot Security in 2024: 7 Pro Moves to Lock Down Your App Like a Fort ” | Karuna | [Read More](https://medium.com/p/ceaf6bafd08d) |
+| Tue, 28 Oct 2025 16:44:19 GMT | If Only You Knew | Natalie Stafford | [Read More](https://medium.com/p/ba76c4cd0be0) |
+| Tue, 28 Oct 2025 16:41:13 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/1f1fe95087e3) |
+| Tue, 28 Oct 2025 16:37:48 GMT | Tracing Shadows, “The Orkla: Dragon Con Detective” Investigation, WalkThrough. | Azutech | [Read More](https://medium.com/p/e69aa697b26c) |
+| Tue, 28 Oct 2025 16:36:19 GMT | AI Browsers: Smart, Fast, and a Bit Too Curious | Akanksha Mane | [Read More](https://medium.com/p/ee0d8e0e8863) |
+| Tue, 28 Oct 2025 16:35:37 GMT | Python Secure Coding Guidelines | Maikel Mardjan | [Read More](https://medium.com/p/fac884d961c1) |
+| Tue, 28 Oct 2025 16:32:04 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/57c27268a055) |
+| Tue, 28 Oct 2025 16:28:12 GMT | Types of Cyber Attacks Beginners Should Know About | Nway Nway Zay Ya | [Read More](https://medium.com/p/26672163af4e) |
 | Tue, 28 Oct 2025 16:25:07 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/bd006368a925) |
 | Tue, 28 Oct 2025 16:23:49 GMT | How a Small Chain Turned Duplicates into a Valid Bug with Post-Removal Access | Ahmed Hassan | [Read More](https://medium.com/p/f2829526595f) |
 | Tue, 28 Oct 2025 16:21:06 GMT | How to Decrypt AES Traffic in Flutter Apps — A Practical Guide | Emad Abedini | [Read More](https://medium.com/p/40da5258420a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 12:25:49 GMT | [OverTheWire] Bandit Level 15 → 16 | H$nt | [Read More](https://medium.com/p/c92f628c78c3) |
 | Tue, 28 Oct 2025 12:23:26 GMT | C{api}tal walkthrough. | Jei Ess | [Read More](https://medium.com/p/999f4ce8597e) |
 | Tue, 28 Oct 2025 12:21:27 GMT | [OverTheWire] Bandit Level 14 → 15 | H$nt | [Read More](https://medium.com/p/e743c5b2e184) |
-| Tue, 28 Oct 2025 12:18:43 GMT | Wazuh - Endpoint Security Monitoring — THM [2025] | Rahul | [Read More](https://medium.com/p/2366638bb324) |
-| Tue, 28 Oct 2025 12:10:56 GMT | Mustacchio TryHackMe - detailed boot2root room writeup | Scorpius | [Read More](https://medium.com/p/5c003d216ba6) |
-| Tue, 28 Oct 2025 12:07:54 GMT | Anonymous GitHub Leak Exposes Iran’s Charming Kitten Hackers — Full Infrastructure Revealed! | Very Lazy Tech | [Read More](https://medium.com/p/3d5909f58504) |
-| Tue, 28 Oct 2025 12:07:13 GMT | Kubernetes 1.34 on AKS: What Actually Matters for Production Workloads | Sridhar | [Read More](https://medium.com/p/8005a1245873) |
-| Tue, 28 Oct 2025 12:07:02 GMT | Why More Short Stories from Tech Is One of the Most Important Books of the 2020s | Ludostuartdouglas | [Read More](https://medium.com/p/bbf3769c18c3) |
-| Tue, 28 Oct 2025 12:05:16 GMT | Top SEO Utah Companies for Business Growth | Hary Battler | [Read More](https://medium.com/p/5e3b877dfef8) |
-| Tue, 28 Oct 2025 12:03:37 GMT | Beyond the Web: Over-the-Air Attack Surfaces in Transmitting IoT Devices | Michael Preston | [Read More](https://medium.com/p/a4379b319b29) |
-| Tue, 28 Oct 2025 12:03:17 GMT | How to Automate Vendor Governance in SaaS for Zero-Stress Compliance | SecureSlate | [Read More](https://medium.com/p/b81aac0b5f38) |
-| Tue, 28 Oct 2025 11:50:01 GMT | ️ General Network Security: How It Works and Why It Matters | Suheyl Baghban | [Read More](https://medium.com/p/f1e8d72cc0f7) |
-| Tue, 28 Oct 2025 11:49:36 GMT | Success Story: Nandita’s Journey from IT Student to Cybersecurity Analyst with Offenso’s Ethical… | Oceanofyy | [Read More](https://medium.com/p/64161612f86a) |
