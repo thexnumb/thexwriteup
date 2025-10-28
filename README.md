@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 18:17:08 GMT | How to get back your disabled Instagram Account | Lucia Banjo | [Read More](https://medium.com/p/0ae82836beee) |
+| Tue, 28 Oct 2025 18:16:36 GMT | Encoding Hell | H3XH7WK | [Read More](https://medium.com/p/4d0a7fc9d14f) |
+| Tue, 28 Oct 2025 18:13:08 GMT | ChatGPT Isn’t Smart — It’s Strategic | Global Whirl of Wonders | [Read More](https://medium.com/p/bd211d78a415) |
+| Tue, 28 Oct 2025 18:08:11 GMT | Topunlock Social media account recovery services | Lucia Banjo | [Read More](https://medium.com/p/369a23fc3c04) |
+| Tue, 28 Oct 2025 17:53:49 GMT | The Firmware Update Puzzle | H3XH7WK | [Read More](https://medium.com/p/cce6dbe9f915) |
+| Tue, 28 Oct 2025 17:52:17 GMT | The Uncomfortable Truth About Security Risk | Michael Sidelkovski | [Read More](https://medium.com/p/d3213c6a63e2) |
+| Tue, 28 Oct 2025 17:52:09 GMT | The Silent Threat: Why Zero-Day Vulnerabilities Keep Security Experts Awake at Night | Limeryem | [Read More](https://medium.com/p/3345653e454b) |
+| Tue, 28 Oct 2025 17:43:18 GMT | I Trusted the Wrong Link. Here’s What Happened Next. | Aj | [Read More](https://medium.com/p/7a0d1c878ee5) |
 | Tue, 28 Oct 2025 17:25:10 GMT | Deep Dive into Security Hardening on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/41494de607fb) |
 | Tue, 28 Oct 2025 17:20:29 GMT | AresGPT: Red Teaming Strategies | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/afb01cd3568e) |
 | Tue, 28 Oct 2025 17:17:30 GMT | Behind the padlock: the hidden risks of built-in password managers | Enrique Dans | [Read More](https://medium.com/p/6a76fce3a2f6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 13:23:55 GMT | Harvesting Credentials: Phantom Stealer’s Agricultural Obfuscation Campaign | Defentive | [Read More](https://medium.com/p/7da65dd7bafd) |
 | Tue, 28 Oct 2025 13:22:45 GMT | Bugs tiktok | ZEIN | [Read More](https://medium.com/p/78259fa7b51c) |
 | Tue, 28 Oct 2025 13:21:51 GMT | Garage Door Opener Light Does Not Work: Troubleshooting Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/fb0b96794a95) |
-| Tue, 28 Oct 2025 13:16:55 GMT | Anthem writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/b3f539a12527) |
-| Tue, 28 Oct 2025 13:16:54 GMT | How a Simple Logic Flaw Can Unlock Private User Data | Ibtissam hammadi | [Read More](https://medium.com/p/19788156c270) |
-| Tue, 28 Oct 2025 13:14:13 GMT | Hardening Against Path Traversal: Breaking the Cyber Chain from DevOps to SecOps -TR | Burak Bozacı | [Read More](https://medium.com/p/d91bbe0abd3b) |
-| Tue, 28 Oct 2025 13:09:41 GMT | Time to Cover That Camera | Samirah A.O | [Read More](https://medium.com/p/6bcafbc51870) |
-| Tue, 28 Oct 2025 13:08:28 GMT | La migration semée d’embuches | Florent M | [Read More](https://medium.com/p/ee80ffbe1e8a) |
-| Tue, 28 Oct 2025 13:06:00 GMT | Keep the Middleman Out: How to Safeguard Your SaaS Infrastructure | Futurism AI | [Read More](https://medium.com/p/572305d78efd) |
-| Tue, 28 Oct 2025 13:01:57 GMT | 30 Days of Red Team: Day 3 — Weaponization: Building Payloads That Evade Detection | Maxwell Cross | [Read More](https://medium.com/p/6268da00344e) |
-| Tue, 28 Oct 2025 13:01:53 GMT | What’s Included in a Professional Garage Door Tune-Up | 24H Garage Doors | [Read More](https://medium.com/p/a581c4872630) |
