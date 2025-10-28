@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 22:40:11 GMT | Best Crypto Asset Recovery Services Providers: Hire Optimistic Hacker Gaius | Anderson Thomas | [Read More](https://medium.com/p/7f9a5ec6feb6) |
+| Tue, 28 Oct 2025 22:33:03 GMT | IPv6 Penetration Testing and Exploit Codes: A Secure Look at the Future of the Network ️ | Esra Kayhan | [Read More](https://medium.com/p/a974778be5bd) |
+| Tue, 28 Oct 2025 22:24:25 GMT | How Mutual TLS (mTLS) works | Matthew Sweeney | [Read More](https://medium.com/p/9278b27eef93) |
+| Tue, 28 Oct 2025 22:16:09 GMT | What I Learned Hacking Hotel WiFi for Three Months Straight | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/9730e871fad0) |
+| Tue, 28 Oct 2025 22:12:39 GMT | Stage 7 — Exfiltration & Escape | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/a7ccc300cbf5) |
+| Tue, 28 Oct 2025 22:10:54 GMT | E-mail Spam with combo of Open Relay and comprising a legitimate server (Comcast). | Bob Malin | [Read More](https://medium.com/p/c7b1fc9966d3) |
 | Tue, 28 Oct 2025 22:09:54 GMT | Your Phone Has Been Rooted Since You Bought It (Just Not By You) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f3c7650308f5) |
 | Tue, 28 Oct 2025 22:05:28 GMT | CyberDefenders: PhishStrike Lab — Walkthrough | 0xNexionX | [Read More](https://medium.com/p/96967ee55632) |
 | Tue, 28 Oct 2025 21:59:54 GMT | Day 6: Understanding Network Services — DHCP, DNS, NAT & VPNs Made Simple | HackTrace | [Read More](https://medium.com/p/e81007b86e41) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 15:57:26 GMT | Cyber Security: The Power of Threat Intelligence | Cyber Security Research | [Read More](https://medium.com/p/be4b4d8a329c) |
 | Tue, 28 Oct 2025 15:50:51 GMT | Cyber Security: Staying One Step Ahead of the Hackers | Cyber Security Research | [Read More](https://medium.com/p/67d32e67f8f4) |
 | Tue, 28 Oct 2025 15:47:19 GMT | The Everyday Web3: How Intuition Network Bridges Trust, Information, and Real-World Utility. | Wolfgang | [Read More](https://medium.com/p/d9f8fde1dcd3) |
-| Tue, 28 Oct 2025 15:47:13 GMT | AI Has Arrived in Kali Linux — How It’s Changing the Game | Tech Journal | [Read More](https://medium.com/p/aded91cd2a0a) |
-| Tue, 28 Oct 2025 15:44:47 GMT | Focus on the real threat, not the regulator | Glenn Wilson | [Read More](https://medium.com/p/24718b10d9fa) |
-| Tue, 28 Oct 2025 15:42:46 GMT | How a Single Message Could Take Down Discourse Instances (Bagging a $1K Bounty) | toast | [Read More](https://medium.com/p/fc0d4adfde84) |
-| Tue, 28 Oct 2025 15:41:53 GMT | Adulting: The Tears Behind the Smile | Austi Gene | [Read More](https://medium.com/p/2cddb15958fb) |
-| Tue, 28 Oct 2025 15:39:41 GMT | HacktheBox: Shoppy Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/2107db30627a) |
-| Tue, 28 Oct 2025 15:39:10 GMT | How to Secure Your A2A Server Agent with Keycloak OAuth2 | Farah Juma | [Read More](https://medium.com/p/6112810ec7bb) |
