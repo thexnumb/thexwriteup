@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 21:16:11 GMT | Post-Exploitation Case Study: Lessons from a Controlled Ubuntu Lab | Vivektumma27 | [Read More](https://medium.com/p/45552649eaf0) |
+| Tue, 28 Oct 2025 21:09:14 GMT | BehindTheScreens: Weekly Cyber-Threat Dispatch | Sam - Behind The Screens | [Read More](https://medium.com/p/d8c0c316b284) |
+| Tue, 28 Oct 2025 21:09:14 GMT | Heuristics under scrutiny | Progsky | [Read More](https://medium.com/p/65b2a6e4ae96) |
+| Tue, 28 Oct 2025 21:09:07 GMT | Hacking APIs: Exploiting Batch and Mass Assignment | Israel Aráoz Severiche | [Read More](https://medium.com/p/3b67a56dbd01) |
+| Tue, 28 Oct 2025 21:04:27 GMT | The Peacock Syndrome”: Why Your List of Accomplishments Bores Me (and the One Thing I Actually Want… | Mia Nor | [Read More](https://medium.com/p/c8d97e81847b) |
+| Tue, 28 Oct 2025 21:00:48 GMT | Day 23 of my Cybersecurity Journey: Hashing Basics I | Ogundipe Priscilla | [Read More](https://medium.com/p/2db3c071c6c0) |
+| Tue, 28 Oct 2025 20:59:05 GMT | Eli Lab Writeup | Jaws | [Read More](https://medium.com/p/0d7b3c926821) |
+| Tue, 28 Oct 2025 20:52:06 GMT | PowerShell Code Signing Introduction for Security-Conscious Professionals | Gareth John | [Read More](https://medium.com/p/27d2583682fd) |
 | Tue, 28 Oct 2025 20:39:02 GMT | INTRODUCTION TO CYBER SECURITY By Martin Onyisi | Martin Onyisi | [Read More](https://medium.com/p/2ed1f06050db) |
 | Tue, 28 Oct 2025 20:36:33 GMT | No More AWS Keys on Servers: The Zero-Credential Way to Access AWS Resources from Anywhere | NIKHIL P PAWAR | [Read More](https://medium.com/p/2227a88f28e5) |
 | Tue, 28 Oct 2025 20:25:51 GMT | Pentagon’s $310M F-16 Deal Hides Software Locks: Ukraine Can’t Modify Weapons Systems | Global Intelligence Desk | [Read More](https://medium.com/p/32d2f7aeb822) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 15:11:05 GMT | The Credential Conundrum: Managing API Keys in Claude Skills | David Chaplin | [Read More](https://medium.com/p/430c41b21aa8) |
 | Tue, 28 Oct 2025 15:10:47 GMT | Bandit OverTheWire writeup — Level 0 | Dawid Kowalski | [Read More](https://medium.com/p/4d8c24e3f022) |
 | Tue, 28 Oct 2025 15:06:01 GMT | Ally Is A Hacked Bank and They’re Not Doing Anyting About It | ΞVΞ WЯITΞS ✍ | [Read More](https://medium.com/p/b55e9a042968) |
-| Tue, 28 Oct 2025 15:02:22 GMT | Over-Sharing: The Psychology of Seeking Emotional Abuse | Qide Lare | [Read More](https://medium.com/p/70c59c345ba8) |
-| Tue, 28 Oct 2025 15:00:37 GMT | You’re Manually Syncing TypeScript Types. Stop. | Tech With Curly Girl | [Read More](https://medium.com/p/999295d9b0b0) |
-| Tue, 28 Oct 2025 14:58:42 GMT | Gobuster İncelemesi | Ayse Kaya | [Read More](https://medium.com/p/cbcd71e51f66) |
-| Tue, 28 Oct 2025 14:58:29 GMT | “The $10,000 Handlebars Hack: How Email Templates Led to Server Takeover” | Aman Sharma | [Read More](https://medium.com/p/1458be4f48c9) |
-| Tue, 28 Oct 2025 14:56:13 GMT | The Illusion of Expertise Featured at cyberwarfare.com | Rhiannon Williams | [Read More](https://medium.com/p/96570d6295e6) |
-| Tue, 28 Oct 2025 14:56:06 GMT | Five Myths About Digital Marketing That Will Kill Your Budget (And Your Agency Won’t Inform You) | Digital F7 | [Read More](https://medium.com/p/9ed2b8f557f9) |
-| Tue, 28 Oct 2025 14:47:14 GMT | Cl0p’s leak sites: 1-in-5 odds they go dark by Apr 22, 2026. | Wes Young | [Read More](https://medium.com/p/f3f5f6ed02c3) |
-| Tue, 28 Oct 2025 14:42:21 GMT | Understanding Vulnerability Types for New Ethical Hackers | Tech Journal | [Read More](https://medium.com/p/367cd06c9936) |
