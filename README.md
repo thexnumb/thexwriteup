@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 19:11:01 GMT | Infrastructure Collapse: How a Forgotten Folder in Coca-Cola’s Network Exposed Critical… | d0rking | [Read More](https://medium.com/p/a4d9dc1ab8a6) |
+| Tue, 28 Oct 2025 19:01:24 GMT | Reven Locker | H3XH7WK | [Read More](https://medium.com/p/d0ae103a703d) |
+| Tue, 28 Oct 2025 19:00:46 GMT | Phishing Campaigns Deploy Real-Time Validation to Confirm Victim Emails Before Stealing Credentials | Md Faizer Islam | [Read More](https://medium.com/p/6a79dfb884fd) |
+| Tue, 28 Oct 2025 18:58:53 GMT | Why I Built AnonDLP: A CISO’s Journey from Enterprise DLP Frustration to Local Innovation | Rommel Jay Gadil | [Read More](https://medium.com/p/d8fa5ada3f2a) |
+| Tue, 28 Oct 2025 18:56:49 GMT | Event Security in the UK — Protecting People, Brands, and Experiences | waeventservices.co.uk/ | [Read More](https://medium.com/p/8fd55259c262) |
+| Tue, 28 Oct 2025 18:49:56 GMT | How to Improve Workplace Privacy Without Losing Productivity | Cordula Boeck | [Read More](https://medium.com/p/988c00c28a2b) |
+| Tue, 28 Oct 2025 18:35:52 GMT | How to Protect Your Information Online: Simple Cybersecurity Tips | @NSConsumers | [Read More](https://medium.com/p/5a3b4570a291) |
+| Tue, 28 Oct 2025 18:35:37 GMT | Cheyanne Mallas: Why Cybersecurity Project Management Is a Moral Imperative in the Digital Age | Cheyannemallaspa | [Read More](https://medium.com/p/7bea04fd2e04) |
 | Tue, 28 Oct 2025 18:17:08 GMT | How to get back your disabled Instagram Account | Lucia Banjo | [Read More](https://medium.com/p/0ae82836beee) |
 | Tue, 28 Oct 2025 18:16:36 GMT | Encoding Hell | H3XH7WK | [Read More](https://medium.com/p/4d0a7fc9d14f) |
 | Tue, 28 Oct 2025 18:13:08 GMT | ChatGPT Isn’t Smart — It’s Strategic | Global Whirl of Wonders | [Read More](https://medium.com/p/bd211d78a415) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 13:52:44 GMT | When the Cloud Went Dark: How the AWS Outage Exposed the Internet’s Fragile Backbone | Kolamide Idowu | [Read More](https://medium.com/p/af154f6a3242) |
 | Tue, 28 Oct 2025 13:51:23 GMT | From Packets to Patterns: How Foundation Models Detect Network Threats - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/f3bf4580b026) |
 | Tue, 28 Oct 2025 13:49:49 GMT | When You Teach, You Learn Again | Mark Aylward | [Read More](https://medium.com/p/fca8582056cb) |
-| Tue, 28 Oct 2025 13:46:48 GMT | SentryPC vs. the Rest: What Makes It the Go‑To Tool for Remote Monitoring? | Paul Meyer | [Read More](https://medium.com/p/c7822606a3d7) |
-| Tue, 28 Oct 2025 13:39:56 GMT | Python : Manipulasi List Dan Operasi List | Cahyoadi | [Read More](https://medium.com/p/3a8e64bbd77b) |
-| Tue, 28 Oct 2025 13:34:54 GMT | The Hidden Threat: Why Software Extensions Are Your Organization’s Blind Spot | Patrick Lefler | [Read More](https://medium.com/p/f6ef456051a2) |
-| Tue, 28 Oct 2025 13:26:52 GMT | Can you answer interview questions on Truststore and Keystore? | Awkash | [Read More](https://medium.com/p/d6fc09f51403) |
-| Tue, 28 Oct 2025 13:26:19 GMT | The Hard Facts About Internet Privacy | Internet Exposed | [Read More](https://medium.com/p/d616782b8056) |
-| Tue, 28 Oct 2025 13:23:55 GMT | Harvesting Credentials: Phantom Stealer’s Agricultural Obfuscation Campaign | Defentive | [Read More](https://medium.com/p/7da65dd7bafd) |
-| Tue, 28 Oct 2025 13:22:45 GMT | Bugs tiktok | ZEIN | [Read More](https://medium.com/p/78259fa7b51c) |
-| Tue, 28 Oct 2025 13:21:51 GMT | Garage Door Opener Light Does Not Work: Troubleshooting Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/fb0b96794a95) |
