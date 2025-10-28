@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 04:21:20 GMT | How Hackers Use ChatGPT — The Dark and Bright Sides of AI | Monujangra | [Read More](https://medium.com/p/f8ab73b682f5) |
+| Tue, 28 Oct 2025 04:04:21 GMT | Bridging the Gap: How Python Simplifies Algorithmic Thinking for Beginners | xploitnation | [Read More](https://medium.com/p/dabffc18c05b) |
+| Tue, 28 Oct 2025 04:01:51 GMT | Maskirovka: The Russian Weaponized Deception — From Cold War to Cyberwar | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/84a68767c334) |
+| Tue, 28 Oct 2025 03:56:59 GMT | Man-in-the-Middle Attack Simulation Using Bettercap: An Ethical Hacking Case Study | Leroyanand | [Read More](https://medium.com/p/459865467c70) |
+| Tue, 28 Oct 2025 03:56:49 GMT | Can Employees pick their Work Devices? | Raviteja Mureboina | [Read More](https://medium.com/p/575c4a904653) |
+| Tue, 28 Oct 2025 03:47:56 GMT | Write What Inspires You — So You Can Inspire Others | Julia Amante - Fiction author, Speaker, Mentor. | [Read More](https://medium.com/p/a5a4d92ead98) |
 | Tue, 28 Oct 2025 03:45:27 GMT | Beginner’s BUG Rewards Guide — October 2025 | BUG | [Read More](https://medium.com/p/2af32c80baf1) |
 | Tue, 28 Oct 2025 03:38:23 GMT | CSRF Lab Walkthrough: Exploiting Non-Session Cookie Token Binding | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/e3531b6497b6) |
 | Tue, 28 Oct 2025 03:38:00 GMT | Your Fingerprint - A Password You Can’t Change | The Great Exchange | [Read More](https://medium.com/p/df26aa4a5ae8) |
+| Tue, 28 Oct 2025 03:36:50 GMT | Authenticator Login: Keamanan yang Mulai Dikenal Tapi Belum Dipahami Semua Orang | Dewi Mahendradita | [Read More](https://medium.com/p/14cbde7dcc2d) |
 | Tue, 28 Oct 2025 03:31:52 GMT | When Images Speak: How Downscaling Can Turn Pictures into Hidden Prompts | Deven Chhajed | [Read More](https://medium.com/p/58ad1c86b40d) |
 | Tue, 28 Oct 2025 03:23:14 GMT | State Constraints versus State Complicity: | Farhan Ahmed | [Read More](https://medium.com/p/66963468eb4a) |
 | Tue, 28 Oct 2025 03:02:21 GMT | SSH ( Secure Shell ) — A glance | Jenifar | [Read More](https://medium.com/p/71db7a024dfb) |
@@ -106,10 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 18:22:46 GMT | Information Disclosure: The Bug Bounty Hunter’s Gold Mine - A Practical Guide | Santhosh Adiga U | [Read More](https://medium.com/p/1a31428f882a) |
 | Mon, 27 Oct 2025 18:21:26 GMT | Hashing Basics — Writeup | Mahir | [Read More](https://medium.com/p/70e39a49fead) |
 | Mon, 27 Oct 2025 18:18:43 GMT | Every Man’s Expense: SSL Certificate Purchase — What I Did Instead! | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/dfc274ff9eff) |
-| Mon, 27 Oct 2025 18:08:54 GMT | ️‍♂️ TryHackMe — NetworkMiner Write-up | Hesham Hendawy | [Read More](https://medium.com/p/f89936f2abb6) |
-| Mon, 27 Oct 2025 18:03:54 GMT | Madrid, 24 de octubre de 2025, 06:00 AM CEST. | Migdonio Suárez León | [Read More](https://medium.com/p/880f29b4eb40) |
-| Mon, 27 Oct 2025 18:03:12 GMT | Fundamentals of UAC (User Account Control) — Part 02 | Sachin Sir | [Read More](https://medium.com/p/7085ca27f465) |
-| Mon, 27 Oct 2025 17:57:06 GMT | Debugging Ktor HTTP Client Performance: A Deep Dive into OkHttp vs CIO File Upload Speeds | Pavan Andhukuri | [Read More](https://medium.com/p/cb32dbebbe06) |
-| Mon, 27 Oct 2025 17:32:17 GMT | The AI Convergence and the Future of Law Enforcement | Ian McIntire | [Read More](https://medium.com/p/8d5166ea49d8) |
-| Mon, 27 Oct 2025 17:30:23 GMT | LFI to ATO (Universal ) | Sevada797 | [Read More](https://medium.com/p/71e3788d173c) |
-| Mon, 27 Oct 2025 17:21:32 GMT | Why Mobile-Based Access Control is the Future of Office Security | Joven A Rodrigues | [Read More](https://medium.com/p/d5a0c25678bf) |
