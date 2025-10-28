@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 17:17:30 GMT | Behind the padlock: the hidden risks of built-in password managers | Enrique Dans | [Read More](https://medium.com/p/6a76fce3a2f6) |
+| Tue, 28 Oct 2025 17:05:10 GMT | ️ The Kestrel Smuggling Bug: What Every ASP.NET Developer Needs to Know (and Do) Now | Brian Mora | [Read More](https://medium.com/p/6343a4869207) |
+| Tue, 28 Oct 2025 17:02:01 GMT | Data Privacy: Panda Security’s Guide for Individuals & Families | Panda Security | [Read More](https://medium.com/p/090e21e97703) |
+| Tue, 28 Oct 2025 17:01:03 GMT | How This 20$ WIFI Adapter can Hack your WIFI | Napoleon Bonaparte | [Read More](https://medium.com/p/e35b05c7dbb2) |
+| Tue, 28 Oct 2025 17:00:22 GMT | byp4ss3d-picoMINI by CMU-Africa | Aderogbarufai | [Read More](https://medium.com/p/271ea202309c) |
+| Tue, 28 Oct 2025 17:00:08 GMT | Welcome to Drosera Trappers | Rebalrehan | [Read More](https://medium.com/p/311b0e646549) |
+| Tue, 28 Oct 2025 16:59:22 GMT | CISA Flags Critical Veeder Root Flaws That Could Let Attackers Run System Level Commands | Chetan Seripally | [Read More](https://medium.com/p/53230905bd9a) |
+| Tue, 28 Oct 2025 16:58:48 GMT | AI Threats Have Moved Out of the Lab | Yousri KOUKI | [Read More](https://medium.com/p/91c8fd8b32d0) |
+| Tue, 28 Oct 2025 16:56:10 GMT | To be held without guilt | wildflower | [Read More](https://medium.com/p/03c731c4cb4b) |
+| Tue, 28 Oct 2025 16:54:51 GMT | The Day I Became Everyone: How User Swapping Turned Me into a Digital Shapeshifter | Iski | [Read More](https://medium.com/p/91358848a593) |
+| Tue, 28 Oct 2025 16:50:53 GMT | Learn Cybersecurity with Microsoft: A Gateway to High-Demand Skills | Bobby Chavez | [Read More](https://medium.com/p/26bdb0451237) |
 | Tue, 28 Oct 2025 16:50:25 GMT | From Moonshine to Blockchain: South Carolina’s Journey Through Bootlegging, Law, and the Promise of… | TTBMath | [Read More](https://medium.com/p/286163168b16) |
 | Tue, 28 Oct 2025 16:47:08 GMT | WSUS on Fire: Inside the CVE-2025–59287 RCE that’s being exploited in the wild | Divyanshu Saini | [Read More](https://medium.com/p/b803337a8c50) |
 | Tue, 28 Oct 2025 16:45:04 GMT | “Spring Boot Security in 2024: 7 Pro Moves to Lock Down Your App Like a Fort ” | Karuna | [Read More](https://medium.com/p/ceaf6bafd08d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 13:01:53 GMT | What’s Included in a Professional Garage Door Tune-Up | 24H Garage Doors | [Read More](https://medium.com/p/a581c4872630) |
 | Tue, 28 Oct 2025 12:55:47 GMT | 4 Emerging Digital Identity Trends Shaping 2025 | Anushka | [Read More](https://medium.com/p/edde7545b31f) |
 | Tue, 28 Oct 2025 12:55:12 GMT | What Smell Do Roaches Hate? (Top Natural Repellents That Actually Work) | Hina Chaudhary | [Read More](https://medium.com/p/ebceaaf0cd8f) |
-| Tue, 28 Oct 2025 12:53:06 GMT | Are You Being Watched? | Samirah A.O | [Read More](https://medium.com/p/a50828969c10) |
-| Tue, 28 Oct 2025 12:51:38 GMT | InHouse Splunk ES Automation-Eps 1 | Aufarifqi | [Read More](https://medium.com/p/e7ed8f478a9c) |
-| Tue, 28 Oct 2025 12:44:48 GMT | UltraX Night Vision Goggles : See What Others Miss at Night | ElitePromotes | [Read More](https://medium.com/p/17656ce2f1f4) |
-| Tue, 28 Oct 2025 12:34:51 GMT | How Red Teaming Services Help Businesses Stay Ahead of Cyber Threats | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/6bde2503dedb) |
-| Tue, 28 Oct 2025 12:32:05 GMT | Understanding JWT: The Beginner’s Guide to Secure Web Tokens | Sai Bhargav Rallapalli | [Read More](https://medium.com/p/c7889f82daf9) |
-| Tue, 28 Oct 2025 12:31:52 GMT | Compliance as a Growth Accelerator: Startup Cases That Got It Early | Lester Davila Escobedo | [Read More](https://medium.com/p/5de1cb4d6e59) |
-| Tue, 28 Oct 2025 12:30:35 GMT | [OverTheWire] Bandit Level 16 → 17 | H$nt | [Read More](https://medium.com/p/71c34eafd23e) |
-| Tue, 28 Oct 2025 12:26:57 GMT | Near 90 Days with no Cellphone and City Living this year | Richard Abram Austin II | [Read More](https://medium.com/p/cb84ba334c4c) |
-| Tue, 28 Oct 2025 12:25:49 GMT | [OverTheWire] Bandit Level 15 → 16 | H$nt | [Read More](https://medium.com/p/c92f628c78c3) |
-| Tue, 28 Oct 2025 12:23:26 GMT | C{api}tal walkthrough. | Jei Ess | [Read More](https://medium.com/p/999f4ce8597e) |
-| Tue, 28 Oct 2025 12:21:27 GMT | [OverTheWire] Bandit Level 14 → 15 | H$nt | [Read More](https://medium.com/p/e743c5b2e184) |
