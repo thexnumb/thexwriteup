@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 23:22:30 GMT | BREAKING : Wuzen Android RAT Source Code Leaked - Now Free on Telegram Channels | REE-D-BLACK | [Read More](https://medium.com/p/b1b5e4b968ae) |
 | Tue, 28 Oct 2025 23:17:48 GMT | CSRF Bypass Techniques (Deep Dive) | Ikajakam | [Read More](https://medium.com/p/12ec2f985362) |
 | Tue, 28 Oct 2025 23:10:06 GMT | Let’s get some physical | Pablo M | [Read More](https://medium.com/p/66b8ae9f50a3) |
 | Tue, 28 Oct 2025 22:44:43 GMT | X Warns Users With Security Keys: Re-Enroll or Get Locked Out | Cyber-AppSec | [Read More](https://medium.com/p/2bd3e8f9dfdc) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 16:05:41 GMT | Can technological surveillance ever be justified in a democratic society? | Cyber and Coffee | [Read More](https://medium.com/p/4dbccb3c5c9e) |
 | Tue, 28 Oct 2025 16:00:43 GMT | TuesdayTool 36 — FullHunt.io: A Comprehensive Guide to Attack Surface Management | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/41cf4c455ffc) |
 | Tue, 28 Oct 2025 15:59:52 GMT | There is nothing new under the sun of cybersecurity realm | Martin Abramov | [Read More](https://medium.com/p/6a116c78e974) |
-| Tue, 28 Oct 2025 15:58:25 GMT | Toxic Stoicism vs Vulnerability | Riddick Lynn | [Read More](https://medium.com/p/c90a645e4db9) |
