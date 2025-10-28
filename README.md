@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 09:39:35 GMT | When AI Lies Better Than Humans: The Rise of Deepfakes in Corporate Cybercrime | Smriti Singh | [Read More](https://medium.com/p/cdb650d2b0bd) |
+| Tue, 28 Oct 2025 09:36:18 GMT | How To Sanitize A Filename | Ferran Verdés | [Read More](https://medium.com/p/7baa8ae0cfa6) |
+| Tue, 28 Oct 2025 09:36:00 GMT | How to Monitor Your Homelab with Telegraf, InfluxDB, and Grafana — Part1: (iDRAC Integration Guide) | Michael | [Read More](https://medium.com/p/08cea35d8f15) |
+| Tue, 28 Oct 2025 09:34:27 GMT | RECON TO ROYALTY: The Definitive Bug Bounty Reconnaissance Masterclass | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/1464ce403c6a) |
+| Tue, 28 Oct 2025 09:23:55 GMT | Kioptrix Level 1 — Write-up | Andi Pras | [Read More](https://medium.com/p/b024e94bb536) |
+| Tue, 28 Oct 2025 09:23:41 GMT | Beyond the Firewall: Your Essential Introduction to Web Application Security Testing | Abdalla Sakr | [Read More](https://medium.com/p/95f1da410a0d) |
 | Tue, 28 Oct 2025 09:17:20 GMT | Are you in the Business of Secure Development? | Alberto Hernandez Acosta | [Read More](https://medium.com/p/4ad753f5291a) |
 | Tue, 28 Oct 2025 09:14:47 GMT | DockerLabs Writeup — Elevator (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fd49e7d91853) |
 | Tue, 28 Oct 2025 09:09:42 GMT | Analisis Kebijakan dan Prosedur Internal dalam Tata Kelola Teknologi InformasiPendahuluan | Valencia L Tobing | [Read More](https://medium.com/p/20ccef0f5b4d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 01:04:52 GMT | Legal Protections Against Digital Gender-Based Violence | Sophia Shalbey | [Read More](https://medium.com/p/fd626c0632cf) |
 | Tue, 28 Oct 2025 01:02:47 GMT | Evidencias (The Hacker Labs) | FeCeSociety | [Read More](https://medium.com/p/ff0261dce9f2) |
 | Tue, 28 Oct 2025 00:57:58 GMT | The BLE Protocol Stack: A Security Analysis | Irene A. Gil | [Read More](https://medium.com/p/865ee8993866) |
-| Tue, 28 Oct 2025 00:52:15 GMT | When Your Bug Bounty Gets Stolen: A Guide to Reclaiming What’s Rightfully Yours | Krystal | [Read More](https://medium.com/p/6ee3bf21ffc3) |
-| Tue, 28 Oct 2025 00:49:09 GMT | Are You Worried About Databases Hacked? And Benefits of Blackhatclique: | Donley Mark | [Read More](https://medium.com/p/c0f12c437ee0) |
-| Tue, 28 Oct 2025 00:47:32 GMT | How I Set Up Sysmon and Splunk Without Losing My Sanity | Udith Ragav | [Read More](https://medium.com/p/f151357bcfbf) |
-| Tue, 28 Oct 2025 00:25:43 GMT | PaloAltoRCE Lab Write-Up - By BnHany | BnHany | [Read More](https://medium.com/p/03e767059788) |
-| Tue, 28 Oct 2025 00:06:33 GMT | Sobre o IBSEC | Wesley Paulow | [Read More](https://medium.com/p/32adea6b32c7) |
-| Tue, 28 Oct 2025 00:02:19 GMT | What Is a Network? From Personal Connections to the Global Web | Tawan Fonseca | [Read More](https://medium.com/p/7c05b3e90d49) |
