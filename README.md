@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 08:06:18 GMT | You Don’t Have to Be Good at It to Love It | Vijay Kumar Gupta | [Read More](https://medium.com/p/80c409664d5f) |
+| Tue, 28 Oct 2025 08:06:12 GMT | How Blockchain is Enhancing Identity Verification in Digital Platforms | Evangelist Apps | [Read More](https://medium.com/p/ea963f6b14c1) |
+| Tue, 28 Oct 2025 08:04:57 GMT | From Bugs to Bosses: 6 Games That QA Specialists Will Appreciate | Darius Razzle Paciente | [Read More](https://medium.com/p/1b0665666003) |
+| Tue, 28 Oct 2025 08:02:00 GMT | AI’s Shadow Supply Chain: The Hidden Risks Behind Every Prompt | Yash Gorasiya | [Read More](https://medium.com/p/71fcfdf8038b) |
+| Tue, 28 Oct 2025 08:00:42 GMT | Cloud Networking Course in Melbourne: Your Fast-Track to High-Demand, High-Pay IT Jobs | Nishesgrg | [Read More](https://medium.com/p/6820fe8f275c) |
+| Tue, 28 Oct 2025 07:56:15 GMT | CVE-2025–59287 — When your patch server becomes the attack vector | Aditya Bhatt | [Read More](https://medium.com/p/949dcd9b6507) |
+| Tue, 28 Oct 2025 07:43:50 GMT | ️ Cyber Espionage: The Silent War Reshaping Global Security | Darknetsearch.com | [Read More](https://medium.com/p/0a8c47e632e4) |
+| Tue, 28 Oct 2025 07:40:18 GMT | Konsep Dasar Convolutional Neural Network (CNN) dalam Mengenali Gambar | Belajar AI | [Read More](https://medium.com/p/84c3cfb21e66) |
+| Tue, 28 Oct 2025 07:39:13 GMT | Critical Vulnerability in OpenAI’s ChatGPT Atlas Browser: Tainted Memories Exploit Enables… | Germano Costi | [Read More](https://medium.com/p/f94dae0ee143) |
 | Tue, 28 Oct 2025 07:34:53 GMT | Kickstart Your IT Career with a Job-Ready Program: Why Enroll in a Networking Course in Sydney or… | Nishesgrg | [Read More](https://medium.com/p/191c595d7769) |
 | Tue, 28 Oct 2025 07:33:33 GMT | Breaking the Web (Part 5): Cross-Site Request Forgery (CSRF) — When the Browser Betrays You | Mohammed Fahad | [Read More](https://medium.com/p/ff644cce47da) |
 | Tue, 28 Oct 2025 07:18:55 GMT | House Democrats Official Online Resume Bank Exposed the PII of Thousands of Government Job Seekers | SafetyDetectives Research Team | [Read More](https://medium.com/p/6fcc2affd777) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Oct 2025 22:06:11 GMT | According to Google’s latest security advisory, cyber-actors are increasingly leveraging bogus job… | SCtoCS | [Read More](https://medium.com/p/aa01923b65a9) |
 | Mon, 27 Oct 2025 22:02:47 GMT | Smishing Triad’s Global Domain Surge: Over 194,000 Malicious URLs Fuel SMS Phishing Empire | SCtoCS | [Read More](https://medium.com/p/4eaf00794122) |
 | Mon, 27 Oct 2025 22:01:27 GMT | Cybersecurity and Teenagers: Why Protecting Your Online Identity Matters | Parinitha N | [Read More](https://medium.com/p/dae5910d36ca) |
-| Mon, 27 Oct 2025 22:00:38 GMT | TryHackMe Basic Pentesting Walkthrough | Elallalihouda | [Read More](https://medium.com/p/5a9e95113b72) |
-| Mon, 27 Oct 2025 21:58:41 GMT | Day 22 of my Cybersecurity Journey: Public key Crytography Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/d9e7290c6f85) |
-| Mon, 27 Oct 2025 21:58:05 GMT | Title: APT36’s Golang-Based DeskRAT Campaign Targets Indian Government — A Deep Dive | SCtoCS | [Read More](https://medium.com/p/579066fccc5a) |
-| Mon, 27 Oct 2025 21:53:34 GMT | The Risks of and Opportunities for Using AI to Help Vulnerable Consumers in Financial Services | Dan Holloway | [Read More](https://medium.com/p/0c7fc5df3225) |
-| Mon, 27 Oct 2025 21:42:17 GMT | Beyond the Perimeter: A CISO’s Definitive Strategy to Survive and Thwart Nation-State Attacks ️ | Cyber Breach Space | [Read More](https://medium.com/p/8b44fb691353) |
-| Mon, 27 Oct 2025 21:37:08 GMT | Join & Win $500 Instantly — The Hottest Giveaway of the Month! | Joseph Simon | [Read More](https://medium.com/p/4199ae8444ec) |
-| Mon, 27 Oct 2025 21:25:39 GMT | How IDOR and Business Logic Flaw Exposed PII | Parth Narula | [Read More](https://medium.com/p/24545a078e04) |
-| Mon, 27 Oct 2025 21:24:29 GMT | Insecure Direct Object Reference (IDOR) in engcastleportal.com | Mohammed Mogeab Ahmed Al-hajj | [Read More](https://medium.com/p/a2ac44d62f00) |
-| Mon, 27 Oct 2025 21:23:04 GMT | From Firewalls to Influence: The Rise of the BISO and the New Era of Cyber Resilience | Gabriela Berrido | [Read More](https://medium.com/p/24ac96a47ef1) |
