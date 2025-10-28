@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 03:02:21 GMT | SSH ( Secure Shell ) — A glance | Jenifar | [Read More](https://medium.com/p/71db7a024dfb) |
+| Tue, 28 Oct 2025 02:59:13 GMT | 10 Warning Signs Your Phone Might Be Hacked — And How to Fix It | Adv. Moniruz Zaman | [Read More](https://medium.com/p/f4218d5eb3c6) |
+| Tue, 28 Oct 2025 02:51:39 GMT | JOURNAL REVIEW: Penerapan Metode NIST dalam Analisis Forensik Digital Pasca Serangan Siber (Studi… | Mokhamad Yusron Rafi | [Read More](https://medium.com/p/c729b77a4ddc) |
+| Tue, 28 Oct 2025 02:51:04 GMT | I’m Not Afraid Anymore | David Byron Drake | [Read More](https://medium.com/p/bc495147d5ae) |
+| Tue, 28 Oct 2025 02:47:29 GMT | Gini Caranya Jadi Hacker Legal! | Jadi Hacker | [Read More](https://medium.com/p/1387a42127b9) |
+| Tue, 28 Oct 2025 02:31:32 GMT | 2Million — HackTheBox | Delta | [Read More](https://medium.com/p/a23a4f60adef) |
+| Tue, 28 Oct 2025 02:12:57 GMT | How to Rebuild Your Cybersecurity Career from Scratch in the AI Era: A Beginner’s 6-Month Roadmap | 湊陽 | [Read More](https://medium.com/p/97c1ae7d94ca) |
+| Tue, 28 Oct 2025 02:10:48 GMT | API Vendors: The Hidden Risks Behind Convenience | Rozenn Kwon | [Read More](https://medium.com/p/802c8987bc26) |
+| Tue, 28 Oct 2025 02:02:10 GMT | HackTheBox Introduction to Threat Hunting: From Reactive Defense to Proactive Attack | Cybersecurity Simplified | [Read More](https://medium.com/p/20e9d263e9f4) |
+| Tue, 28 Oct 2025 01:53:01 GMT | Ukrainian Programmers Bypassed HIMARS GPS Geofencing: Pentagon Didn’t Know for 8 Months | Global Intelligence Desk | [Read More](https://medium.com/p/7477f8cb567d) |
+| Tue, 28 Oct 2025 01:44:17 GMT | Did DNS Really Take Down the Internet — or Was It Something Else? | Lucky Nautiyal | [Read More](https://medium.com/p/ad94a7a0c854) |
+| Tue, 28 Oct 2025 01:39:17 GMT | Bitcoin Cold Storage Keep Your Crypto Safe with Secure Paper Wallets | sonika chungi | [Read More](https://medium.com/p/4da7fa407ea0) |
 | Tue, 28 Oct 2025 01:13:05 GMT | ChatGPT Atlas vs. Chrome: Use It or Dump It? | Nathaniel Niyazov | [Read More](https://medium.com/p/3d7a22d04488) |
 | Tue, 28 Oct 2025 01:07:46 GMT | Unlocking Cybersecurity Excellence: My Journey with 591Lab’s CISSP Certification Guide. | Al Beruni | [Read More](https://medium.com/p/71df6d2dcb97) |
 | Tue, 28 Oct 2025 01:04:52 GMT | Legal Protections Against Digital Gender-Based Violence | Sophia Shalbey | [Read More](https://medium.com/p/fd626c0632cf) |
@@ -101,15 +113,3 @@ AI… Deepfake… कुछ ज़्यादा नहीं बढ़ गय�
 | Mon, 27 Oct 2025 17:10:32 GMT | Do you think bypassing SSL pinning can get you a bounty? | Kyrillos nady | [Read More](https://medium.com/p/6cf894148953) |
 | Mon, 27 Oct 2025 17:09:27 GMT | AWS’ DNS Outage: Why This Wasn’t an Indicator of ISO 27001 Insufficiency | R-Squared Cyber | [Read More](https://medium.com/p/b4c476b69e65) |
 | Mon, 27 Oct 2025 17:05:09 GMT | Leaked: Ukrainian Techs Bypassed Pentagon’s HIMARS Range Lock Using $200 Raspberry Pi | Global Intelligence Desk | [Read More](https://medium.com/p/bd51b04d72b0) |
-| Mon, 27 Oct 2025 17:01:56 GMT | Soft Skill Penting di Dunia Cyber Security | K1llu4 | [Read More](https://medium.com/p/de14b743cd8a) |
-| Mon, 27 Oct 2025 17:01:52 GMT | The Superintelligence Myth: How Science Fiction Masquerades (Again) as Science to Capture Real… | Roxana Ologeanu-Taddei, Phd | [Read More](https://medium.com/p/bd9b1fa27b17) |
-| Mon, 27 Oct 2025 17:00:14 GMT | Docuvo — The Smart & Free Online Invoice Generator for Everyone | Information For Technologies | [Read More](https://medium.com/p/78784e75a96f) |
-| Mon, 27 Oct 2025 16:57:44 GMT | Beacon Object Files (BOFs): What, Why, and How | Mert | [Read More](https://medium.com/p/a90e32d61c42) |
-| Mon, 27 Oct 2025 16:48:00 GMT | The Real Reason You’re Always Tired at Work | Global Whirl of Wonders | [Read More](https://medium.com/p/93fd27a22326) |
-| Mon, 27 Oct 2025 16:46:50 GMT | অনলাইনে জন্ম নিবন্ধনের তথ্য সংশোধন করার নিয়ম (BDRIS ২০২৫ গাইড) | Jonmonibondhoncheck | [Read More](https://medium.com/p/ca1247f6d998) |
-| Mon, 27 Oct 2025 16:43:58 GMT | How We Built GuardianSafe to Stop the Next Bybit Hack | Jacob Hanouna | [Read More](https://medium.com/p/00e33825353a) |
-| Mon, 27 Oct 2025 16:37:53 GMT | the weight of my own light | Nisrina Zaida | [Read More](https://medium.com/p/296d3189735a) |
-| Mon, 27 Oct 2025 16:35:38 GMT | Psycovirus — Frecuencias e imágenes que podrían crear un colapso y cambiar tu mente. | Hacking en México | [Read More](https://medium.com/p/cc3b3196db6c) |
-| Mon, 27 Oct 2025 16:31:39 GMT | How to Upload Images in a React & .NET Application | James Austin Jr | [Read More](https://medium.com/p/d541a556169c) |
-| Mon, 27 Oct 2025 16:29:57 GMT | How a Foundational Skill Almost Cost Me a Client | Andrew Keitany | [Read More](https://medium.com/p/910f133adedf) |
-| Mon, 27 Oct 2025 16:26:20 GMT | Day 13 — Logs and Log Monitoring | Denise Sophy | [Read More](https://medium.com/p/b84ba8f3c38e) |
