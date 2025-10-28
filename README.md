@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 11:16:53 GMT | Why Many Africans Think Tech Is Too Hard (and How We Can Fix That) | Chinpilang Bigwan | [Read More](https://medium.com/p/733a07075297) |
+| Tue, 28 Oct 2025 11:16:24 GMT | Kiosk or Kiosk Machine? Why the Name Matters for Digital Transformation | Rakesh | [Read More](https://medium.com/p/32d63bec647e) |
+| Tue, 28 Oct 2025 11:11:33 GMT | « Please keep them as they are.» – Anatomie de la cyberinconscience. | EdenBlue | [Read More](https://medium.com/p/b2f0c09fc802) |
+| Tue, 28 Oct 2025 11:02:41 GMT | 9 Simple Samsung A Series Tricks to Improve Productivity | Chloe White | [Read More](https://medium.com/p/a34d3259b981) |
+| Tue, 28 Oct 2025 11:01:52 GMT | How to Install and Configure PGAudit on PostgreSQL 17: Complete Guide to Database Auditing and… | Matheus dos Santos | [Read More](https://medium.com/p/81ffe0ecd780) |
+| Tue, 28 Oct 2025 11:00:37 GMT | From One to Many — The Forbidden Playbook for Scaling a Single Bug into a Family of Findings | Viratavi | [Read More](https://medium.com/p/c85478aeb6ab) |
+| Tue, 28 Oct 2025 10:59:23 GMT | How I create a Network Monitor Tool | Dalta | [Read More](https://medium.com/p/0c121c77030a) |
+| Tue, 28 Oct 2025 10:57:23 GMT | Best Online Linux Essential Training Course in New Delhi, India | Manisha Chaudhary | [Read More](https://medium.com/p/1ed756df9bde) |
+| Tue, 28 Oct 2025 10:56:11 GMT | Bamboo — HTB walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/d86db3325e37) |
+| Tue, 28 Oct 2025 10:55:03 GMT | Reliable IT Infrastructure Management Services in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/83a649f477ce) |
+| Tue, 28 Oct 2025 10:53:34 GMT | Information Security Management System (ISMS): The Foundation of Organizational Cyber Resilience | Grace Omokhowa Audu | [Read More](https://medium.com/p/f6b4f78713cc) |
+| Tue, 28 Oct 2025 10:51:23 GMT | Smart Contracts for Micro-SaaS: Secure Transactions | Paran | [Read More](https://medium.com/p/eb788e43d58b) |
+| Tue, 28 Oct 2025 10:46:57 GMT | How Managed Security Enhances Proactive Cyber Defense Systems | Vijilan | [Read More](https://medium.com/p/e3d0164a928d) |
 | Tue, 28 Oct 2025 10:39:05 GMT | How I Almost Fell for a PUBG Hack - میں تقریباً PUBG ہیک کا شکار ہو گیا تھا | Abdul Ali | [Read More](https://medium.com/p/e98eb2ddb6e6) |
 | Tue, 28 Oct 2025 10:34:25 GMT | From Vulnerability to Resilience: How Penetration Testing Strengthens Your Security | SmartCLOUD Australia | [Read More](https://medium.com/p/f52e7e3b4ee7) |
 | Tue, 28 Oct 2025 10:28:23 GMT | Digital Shield: Forging New Coordinates for Sovereignty in the Web3 World with Military-Grade… | Digital Shield | [Read More](https://medium.com/p/0d36c0404ee1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 04:36:37 GMT | The Growing Importance of Ethical Hacking in the Digital Age | Hackerlink | [Read More](https://medium.com/p/ce4ef1521700) |
 | Tue, 28 Oct 2025 04:31:10 GMT | Gen AI in Cybersecurity: Changing the Game in Threat Detection | Devarshi Acharya | [Read More](https://medium.com/p/9e2b882d5893) |
 | Tue, 28 Oct 2025 04:28:03 GMT | needrestart sudo privilege escalation | coderMohammed | [Read More](https://medium.com/p/44ae1c89bcc2) |
-| Tue, 28 Oct 2025 04:24:51 GMT | Cybersecurity Threats and How to Stay Safe | Rajputvanshika | [Read More](https://medium.com/p/934134f352c1) |
-| Tue, 28 Oct 2025 04:21:20 GMT | How Hackers Use ChatGPT — The Dark and Bright Sides of AI | Monujangra | [Read More](https://medium.com/p/f8ab73b682f5) |
-| Tue, 28 Oct 2025 04:04:21 GMT | Bridging the Gap: How Python Simplifies Algorithmic Thinking for Beginners | xploitnation | [Read More](https://medium.com/p/dabffc18c05b) |
-| Tue, 28 Oct 2025 04:01:51 GMT | Maskirovka: The Russian Weaponized Deception — From Cold War to Cyberwar | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/84a68767c334) |
-| Tue, 28 Oct 2025 03:56:59 GMT | Man-in-the-Middle Attack Simulation Using Bettercap: An Ethical Hacking Case Study | Leroyanand | [Read More](https://medium.com/p/459865467c70) |
-| Tue, 28 Oct 2025 03:56:49 GMT | Can Employees pick their Work Devices? | Raviteja Mureboina | [Read More](https://medium.com/p/575c4a904653) |
-| Tue, 28 Oct 2025 03:47:56 GMT | Write What Inspires You — So You Can Inspire Others | Julia Amante - Fiction author, Speaker, Mentor. | [Read More](https://medium.com/p/a5a4d92ead98) |
-| Tue, 28 Oct 2025 03:45:27 GMT | Beginner’s BUG Rewards Guide — October 2025 | BUG | [Read More](https://medium.com/p/2af32c80baf1) |
-| Tue, 28 Oct 2025 03:38:23 GMT | CSRF Lab Walkthrough: Exploiting Non-Session Cookie Token Binding | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/e3531b6497b6) |
-| Tue, 28 Oct 2025 03:38:00 GMT | Your Fingerprint - A Password You Can’t Change | The Great Exchange | [Read More](https://medium.com/p/df26aa4a5ae8) |
-| Tue, 28 Oct 2025 03:36:50 GMT | Authenticator Login: Keamanan yang Mulai Dikenal Tapi Belum Dipahami Semua Orang | Dewi Mahendradita | [Read More](https://medium.com/p/14cbde7dcc2d) |
-| Tue, 28 Oct 2025 03:31:52 GMT | When Images Speak: How Downscaling Can Turn Pictures into Hidden Prompts | Deven Chhajed | [Read More](https://medium.com/p/58ad1c86b40d) |
-| Tue, 28 Oct 2025 03:23:14 GMT | State Constraints versus State Complicity: | Farhan Ahmed | [Read More](https://medium.com/p/66963468eb4a) |
