@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 15:17:51 GMT | Best Cybersecurity Courses for Beginners in 2025: Start Your Career the Smart Way | Code Link | [Read More](https://medium.com/p/3ca83adb5280) |
+| Tue, 28 Oct 2025 15:14:08 GMT | Nový zákon o kybernetické bezpečnosti (NIS2 v ČR): co musí organizace stihnout do 60 dnů | Jan Andrascik | [Read More](https://medium.com/p/8ea1626488fb) |
+| Tue, 28 Oct 2025 15:13:37 GMT | Unmasking the Devious Raiders: Defending Against Credential Phishing | Danielle Koppel | [Read More](https://medium.com/p/020fd539deb9) |
+| Tue, 28 Oct 2025 15:13:04 GMT | The Evolution of Cybersecurity Certifications: Which One Fits Your Career Path? | VERSAtile Reads | [Read More](https://medium.com/p/7b99c4fdcd56) |
+| Tue, 28 Oct 2025 15:11:05 GMT | The Credential Conundrum: Managing API Keys in Claude Skills | David Chaplin | [Read More](https://medium.com/p/430c41b21aa8) |
+| Tue, 28 Oct 2025 15:10:47 GMT | Bandit OverTheWire writeup — Level 0 | Dawid Kowalski | [Read More](https://medium.com/p/4d8c24e3f022) |
+| Tue, 28 Oct 2025 15:06:01 GMT | Ally Is A Hacked Bank and They’re Not Doing Anyting About It | ΞVΞ WЯITΞS ✍ | [Read More](https://medium.com/p/b55e9a042968) |
+| Tue, 28 Oct 2025 15:02:22 GMT | Over-Sharing: The Psychology of Seeking Emotional Abuse | Qide Lare | [Read More](https://medium.com/p/70c59c345ba8) |
+| Tue, 28 Oct 2025 15:00:37 GMT | You’re Manually Syncing TypeScript Types. Stop. | Tech With Curly Girl | [Read More](https://medium.com/p/999295d9b0b0) |
+| Tue, 28 Oct 2025 14:58:42 GMT | Gobuster İncelemesi | Ayse Kaya | [Read More](https://medium.com/p/cbcd71e51f66) |
+| Tue, 28 Oct 2025 14:58:29 GMT | “The $10,000 Handlebars Hack: How Email Templates Led to Server Takeover” | Aman Sharma | [Read More](https://medium.com/p/1458be4f48c9) |
+| Tue, 28 Oct 2025 14:56:13 GMT | The Illusion of Expertise Featured at cyberwarfare.com | Rhiannon Williams | [Read More](https://medium.com/p/96570d6295e6) |
+| Tue, 28 Oct 2025 14:56:06 GMT | Five Myths About Digital Marketing That Will Kill Your Budget (And Your Agency Won’t Inform You) | Digital F7 | [Read More](https://medium.com/p/9ed2b8f557f9) |
+| Tue, 28 Oct 2025 14:47:14 GMT | Cl0p’s leak sites: 1-in-5 odds they go dark by Apr 22, 2026. | Wes Young | [Read More](https://medium.com/p/f3f5f6ed02c3) |
 | Tue, 28 Oct 2025 14:42:21 GMT | Understanding Vulnerability Types for New Ethical Hackers | Tech Journal | [Read More](https://medium.com/p/367cd06c9936) |
 | Tue, 28 Oct 2025 14:41:37 GMT | Flipper Zero Explained: Versatile Hacking Tool or Overhyped Threat? | Vaishnavi Bhandari | [Read More](https://medium.com/p/b64bb2455d8c) |
 | Tue, 28 Oct 2025 14:40:03 GMT | Understanding Different Types of Cyber Attacks: Know the Enemy Before It Strikes | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/7c98684b1c45) |
@@ -99,17 +113,3 @@ By: Abdifatah Hassan… | Abdifatah Hassan Roble | [Read More](https://medium.co
 | Tue, 28 Oct 2025 10:59:23 GMT | How I create a Network Monitor Tool | Dalta | [Read More](https://medium.com/p/0c121c77030a) |
 | Tue, 28 Oct 2025 10:57:23 GMT | Best Online Linux Essential Training Course in New Delhi, India | Manisha Chaudhary | [Read More](https://medium.com/p/1ed756df9bde) |
 | Tue, 28 Oct 2025 10:56:11 GMT | Bamboo — HTB walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/d86db3325e37) |
-| Tue, 28 Oct 2025 10:55:03 GMT | Reliable IT Infrastructure Management Services in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/83a649f477ce) |
-| Tue, 28 Oct 2025 10:53:34 GMT | Information Security Management System (ISMS): The Foundation of Organizational Cyber Resilience | Grace Omokhowa Audu | [Read More](https://medium.com/p/f6b4f78713cc) |
-| Tue, 28 Oct 2025 10:51:23 GMT | Smart Contracts for Micro-SaaS: Secure Transactions | Paran | [Read More](https://medium.com/p/eb788e43d58b) |
-| Tue, 28 Oct 2025 10:46:57 GMT | How Managed Security Enhances Proactive Cyber Defense Systems | Vijilan | [Read More](https://medium.com/p/e3d0164a928d) |
-| Tue, 28 Oct 2025 10:39:05 GMT | How I Almost Fell for a PUBG Hack - میں تقریباً PUBG ہیک کا شکار ہو گیا تھا | Abdul Ali | [Read More](https://medium.com/p/e98eb2ddb6e6) |
-| Tue, 28 Oct 2025 10:34:25 GMT | From Vulnerability to Resilience: How Penetration Testing Strengthens Your Security | SmartCLOUD Australia | [Read More](https://medium.com/p/f52e7e3b4ee7) |
-| Tue, 28 Oct 2025 10:28:23 GMT | Digital Shield: Forging New Coordinates for Sovereignty in the Web3 World with Military-Grade… | Digital Shield | [Read More](https://medium.com/p/0d36c0404ee1) |
-| Tue, 28 Oct 2025 10:27:38 GMT | Defender for Identity: Strengthening Enterprise Security Against Modern Threats | Zara Johnson | [Read More](https://medium.com/p/1380d2b61a3b) |
-| Tue, 28 Oct 2025 10:22:53 GMT | To the Pioneers of Web3: Are Your Digital Assets Still Enslaved by the Online World? | Digital Shield Offcial | [Read More](https://medium.com/p/e02d7d56f4e2) |
-| Tue, 28 Oct 2025 10:21:51 GMT | Evaluating Crypto Casino Safety: Essential Security Indicators for 2025 | Sharkroll | [Read More](https://medium.com/p/303d61650b9b) |
-| Tue, 28 Oct 2025 10:18:41 GMT | Banning Superintelligence Research Criminalizes the Entire Field, with Unethical Consequences | Berend Watchus | [Read More](https://medium.com/p/c019cd6ea49c) |
-| Tue, 28 Oct 2025 10:14:32 GMT | Digital Tyranny: How Arab Captagon Corrupt Regimes Are Weaponizing Cyber Power Against Their Own… | Wissamdouglas | [Read More](https://medium.com/p/45e4d0daf10a) |
-| Tue, 28 Oct 2025 10:12:00 GMT | The Importance of Ethical Hacking in the Current World | Hackerlink | [Read More](https://medium.com/p/6fb0120f7785) |
-| Tue, 28 Oct 2025 10:08:06 GMT | Simple BUG Bonus Guide — October 2025 | BUG | [Read More](https://medium.com/p/8460cb6d37eb) |
