@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Oct 2025 11:37:53 GMT | Protect Your Business with Trusted Cyber Security in Houston by Patriotmedbill | Patriotmedbill | [Read More](https://medium.com/p/98df83904d45) |
+| Tue, 28 Oct 2025 11:36:18 GMT | EMAIL HEADER ANALYSIS | Cyberfairy | [Read More](https://medium.com/p/b74d9f8041d0) |
+| Tue, 28 Oct 2025 11:33:56 GMT | How Safe Is Your Data on Cloud Storage? | Deepak Sharma | [Read More](https://medium.com/p/41c3b68e3b8c) |
+| Tue, 28 Oct 2025 11:32:14 GMT | DEADFACE CTF 2025 — OSINT | Nuke | [Read More](https://medium.com/p/be09aa51b6e0) |
+| Tue, 28 Oct 2025 11:27:49 GMT | Data Breaches and Cybersecurity Risks: Real Incidents and Lessons Learned
+By: Abdifatah Hassan… | Abdifatah Hassan Roble | [Read More](https://medium.com/p/632e83b577ce) |
+| Tue, 28 Oct 2025 11:25:59 GMT | Web Zafiyetleri Serisi #8 | Didem Kış | [Read More](https://medium.com/p/b709fd4457d5) |
+| Tue, 28 Oct 2025 11:25:37 GMT | ⚡ Flash USDT (Fake USDT) — Why Smart Learners Should Use It (Ethically) | Crypto Savvy | [Read More](https://medium.com/p/1aeacb60b734) |
+| Tue, 28 Oct 2025 11:24:36 GMT | The Kind of Energy That Attracts Real Love. | Bloom with Maria | [Read More](https://medium.com/p/9d6b85cba1f4) |
 | Tue, 28 Oct 2025 11:16:53 GMT | Why Many Africans Think Tech Is Too Hard (and How We Can Fix That) | Chinpilang Bigwan | [Read More](https://medium.com/p/733a07075297) |
 | Tue, 28 Oct 2025 11:16:24 GMT | Kiosk or Kiosk Machine? Why the Name Matters for Digital Transformation | Rakesh | [Read More](https://medium.com/p/32d63bec647e) |
 | Tue, 28 Oct 2025 11:11:33 GMT | « Please keep them as they are.» – Anatomie de la cyberinconscience. | EdenBlue | [Read More](https://medium.com/p/b2f0c09fc802) |
+| Tue, 28 Oct 2025 11:08:57 GMT | Hello my friends I want to ask: my OKX wallet holds big money ( OVER $ 5,000 ) and I have the seeed… | Joelle luxer | [Read More](https://medium.com/p/5cbc26ebe0f8) |
+| Tue, 28 Oct 2025 11:08:27 GMT | My Mother Left Me with Strangers | Do Capozucca | [Read More](https://medium.com/p/d5cb139f47d2) |
 | Tue, 28 Oct 2025 11:02:41 GMT | 9 Simple Samsung A Series Tricks to Improve Productivity | Chloe White | [Read More](https://medium.com/p/a34d3259b981) |
 | Tue, 28 Oct 2025 11:01:52 GMT | How to Install and Configure PGAudit on PostgreSQL 17: Complete Guide to Database Auditing and… | Matheus dos Santos | [Read More](https://medium.com/p/81ffe0ecd780) |
 | Tue, 28 Oct 2025 11:00:37 GMT | From One to Many — The Forbidden Playbook for Scaling a Single Bug into a Family of Findings | Viratavi | [Read More](https://medium.com/p/c85478aeb6ab) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 05:58:57 GMT | GZR Observer — Global Daily — Oct 28, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/237ae6d91e9f) |
 | Tue, 28 Oct 2025 05:53:16 GMT | The Daily Tech Digest: 28 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/550db8506bce) |
 | Tue, 28 Oct 2025 05:48:25 GMT | My Journey through the FortiGate 7.6 | Prateekpulastya | [Read More](https://medium.com/p/7c143a0436cf) |
-| Tue, 28 Oct 2025 05:46:51 GMT | Ready to See Who’s Sneaking Into Your Windows Account? | Vishwas R | [Read More](https://medium.com/p/d33bf2a166c2) |
-| Tue, 28 Oct 2025 05:18:16 GMT | Building Trust: Navigating Cybersecurity, Robustness and Privacy in AI at IMDA’s Technical Sharing… | IMDA BizTech Group | [Read More](https://medium.com/p/7d6bbc54c912) |
-| Tue, 28 Oct 2025 05:09:34 GMT | Decentralized Computing: The Future of Distributed Technology | BlockByte | [Read More](https://medium.com/p/83cf69ee3ba1) |
-| Tue, 28 Oct 2025 04:58:43 GMT | When a Man Breaks but No One Notices | Gursahib Singh | [Read More](https://medium.com/p/998d9abad405) |
-| Tue, 28 Oct 2025 04:54:05 GMT | What Really Happens When You Open a Website? | Salimassili | [Read More](https://medium.com/p/94277952951d) |
-| Tue, 28 Oct 2025 04:45:59 GMT | India Maritime Week 2025 | Divvya Jain | [Read More](https://medium.com/p/18b1ed620e1a) |
-| Tue, 28 Oct 2025 04:38:21 GMT | Ph.D. Research Idea: Enhancing Blockchain Scalability | Dr. Surendra Kumar Shukla | [Read More](https://medium.com/p/dc78f92bf180) |
-| Tue, 28 Oct 2025 04:36:37 GMT | The Growing Importance of Ethical Hacking in the Digital Age | Hackerlink | [Read More](https://medium.com/p/ce4ef1521700) |
-| Tue, 28 Oct 2025 04:31:10 GMT | Gen AI in Cybersecurity: Changing the Game in Threat Detection | Devarshi Acharya | [Read More](https://medium.com/p/9e2b882d5893) |
-| Tue, 28 Oct 2025 04:28:03 GMT | needrestart sudo privilege escalation | coderMohammed | [Read More](https://medium.com/p/44ae1c89bcc2) |
