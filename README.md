@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 14:14:32 GMT | The Psychology of Clicks: How Cybersecurity Starts in the Mind | Aysha Misri | [Read More](https://medium.com/p/16c14290d573) |
+| Wed, 29 Oct 2025 14:04:40 GMT | 6G and Cybersecurity: Securing the Next Generation of Connectivity | Harshil Uttaradhi | [Read More](https://medium.com/p/f5e187936d63) |
+| Wed, 29 Oct 2025 14:02:44 GMT | Praktikum Konfigurasi dan Administrasi Sistem Jaringan: Konfigurasi File Server | Muhammad Surya Saputro | [Read More](https://medium.com/p/85ae1d77be0d) |
+| Wed, 29 Oct 2025 14:01:09 GMT | Cyber Briefing: 2025.10.29 | CyberMaterial | [Read More](https://medium.com/p/148e690dd303) |
+| Wed, 29 Oct 2025 14:01:04 GMT | Advancing Beyond Zero Trust: OSSTMM’s Trust Metrics | Chris Griffin | [Read More](https://medium.com/p/0d2e02ad09ef) |
+| Wed, 29 Oct 2025 13:58:17 GMT | The Cost of a Cloud Breach for a Mid-Sized Law Firm: Risks & Solutions | Josh Lee | [Read More](https://medium.com/p/9f37b0ffffc5) |
+| Wed, 29 Oct 2025 13:57:49 GMT | Immediate Action Required: Secure Your Broadcom Mainframe Software with Digital Package Signing | Jan Cihlar | [Read More](https://medium.com/p/c93d88ef69e4) |
+| Wed, 29 Oct 2025 13:53:54 GMT | How to Spot Fake Receipts in 2025: From Visual Clues to AI Detection | Klippa | [Read More](https://medium.com/p/397e77c1fef1) |
+| Wed, 29 Oct 2025 13:47:05 GMT | Salesforce vs Zendesk: Which CRM + CX Platform Wins in 2025? | Digital Transformation Playbook | [Read More](https://medium.com/p/6b1a87054074) |
+| Wed, 29 Oct 2025 13:46:16 GMT | What Businesses Can Learn from Canada’s Fastest-Growing Security Trends | GPS Security Group Inc | [Read More](https://medium.com/p/b82b9fc0ee63) |
+| Wed, 29 Oct 2025 13:42:35 GMT | Building Secure Package Pipelines | André Silva | [Read More](https://medium.com/p/1b1f4bc2049f) |
+| Wed, 29 Oct 2025 13:40:33 GMT | Shifting Left with Confidence: The Rise of Threat Modeling as Code (TMAC) | Isaac obune | [Read More](https://medium.com/p/0694428ae85b) |
+| Wed, 29 Oct 2025 13:37:52 GMT | The Cybersecurity Portfolio: Projects That Actually Get You Hired | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/4a065aaecf83) |
+| Wed, 29 Oct 2025 13:33:46 GMT | Love and Vulnerability Are Coexisting | Odesiania | [Read More](https://medium.com/p/965354f1df32) |
+| Wed, 29 Oct 2025 13:31:55 GMT | When OAuth Becomes a Weapon: AI Agents Authentication Crisis | Nwosu Rosemary | [Read More](https://medium.com/p/c356867e6c37) |
 | Wed, 29 Oct 2025 13:22:58 GMT | InHouse Splunk ES Automation-Eps 2 | Aufarifqi | [Read More](https://medium.com/p/5c09486f6cd4) |
 | Wed, 29 Oct 2025 13:12:35 GMT | Cybersecurity Risk Management in 2025: Trends, Market Analysis, and Investment Prospects | Manasi Stalwart | [Read More](https://medium.com/p/eb5c5e7b973a) |
 | Wed, 29 Oct 2025 13:06:50 GMT | From a Simple IDOR to a Major Security Finding | Ibtissam hammadi | [Read More](https://medium.com/p/6386077e4b8d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 08:52:39 GMT | Managed Cloud Hosting for Scalable & Secure IT growth | Vishwajeettechtech | [Read More](https://medium.com/p/30d59818a2aa) |
 | Wed, 29 Oct 2025 08:51:41 GMT | What Happens If a Quantum Computer Cracks Blockchain Encryption? | Bobby Andrews | [Read More](https://medium.com/p/91f5a676364b) |
 | Wed, 29 Oct 2025 08:49:49 GMT | How I Used Data Science to Predict Stock Movements in Real Time | Fateyaly | [Read More](https://medium.com/p/981cc9ea5316) |
-| Wed, 29 Oct 2025 08:48:28 GMT | The Night Watch and the Standard of Safety: Why Professional Security is Non-Negotiable in Kochi | Sambhu Sunil | [Read More](https://medium.com/p/fd3b7f52403b) |
-| Wed, 29 Oct 2025 08:46:21 GMT | Data Exfiltration Explained: How to Use Splunk and Wireshark to Detect Data Exfiltration | Motasem Hamdan | [Read More](https://medium.com/p/dd56367016e0) |
-| Wed, 29 Oct 2025 08:45:00 GMT | Empowering Secure Spaces with Checkpoint Access | Office | [Read More](https://medium.com/p/c8783b791638) |
-| Wed, 29 Oct 2025 08:43:09 GMT | ঢাকার ব্যস্ততম এলাকা গ্রীন রোডের একটি স্বনামধন্য হাসপাতালের স্টোর হাউজে সম্প্রতি ZKTeco F18 Access… | optimationbd | [Read More](https://medium.com/p/68a34b5d365f) |
-| Wed, 29 Oct 2025 08:43:05 GMT | From Design to Launch: Hosting Plans That Actually Fit Your Budget | Janet Watson | [Read More](https://medium.com/p/e80b2a62e0b2) |
-| Wed, 29 Oct 2025 08:40:33 GMT | Information disclosure vulnerabilities -Free hands on PortswiggerLabs | L4V4NY4  AGR3 | [Read More](https://medium.com/p/34170ac247de) |
-| Wed, 29 Oct 2025 08:38:08 GMT | Simple, Smart, and Free Online Calculators for Everyday Life | Ramzan Aslam | [Read More](https://medium.com/p/a9040312a905) |
-| Wed, 29 Oct 2025 08:34:09 GMT | Cybersecurity in 2025 — Smarter Defense for a Smarter World | Devarshi Acharya | [Read More](https://medium.com/p/9c6d5f5b9b41) |
-| Wed, 29 Oct 2025 08:32:54 GMT | Redefining Modern Access Control with Checkpoint Access | Office | [Read More](https://medium.com/p/48f0f6fc6614) |
-| Wed, 29 Oct 2025 08:25:00 GMT | Smarter Security Solutions with Checkpoint Access | Office | [Read More](https://medium.com/p/0b6d2cdc7164) |
-| Wed, 29 Oct 2025 08:20:36 GMT | The Beginning of the End for Elon Musk’s Tech Empire? | Studiology | [Read More](https://medium.com/p/acc87be6ca58) |
-| Wed, 29 Oct 2025 08:18:04 GMT | Brevis and GoPlus Security Announce Strategic Partnership: Building the “Security Oracle” to… | GoPlus Security | [Read More](https://medium.com/p/481464db1c74) |
-| Wed, 29 Oct 2025 08:16:29 GMT | THE AAA FRAMEWORK: YOUR DIGITAL GATE PASS. | Aura Verde | [Read More](https://medium.com/p/565e9f927a21) |
-| Wed, 29 Oct 2025 08:14:18 GMT | ️‍♂️ Anonimity in the Web Based on Routing Protocols — Part 1 | Bruzzese Roberto | [Read More](https://medium.com/p/e72246333cf9) |
-| Wed, 29 Oct 2025 08:07:10 GMT | Train Cargo Theft Jumped 40% Last Year: Why Containers Are Criminals’ New Favorite Target | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/ea5ff0b4185c) |
