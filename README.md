@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 08:48:28 GMT | The Night Watch and the Standard of Safety: Why Professional Security is Non-Negotiable in Kochi | Sambhu Sunil | [Read More](https://medium.com/p/fd3b7f52403b) |
+| Wed, 29 Oct 2025 08:46:21 GMT | Data Exfiltration Explained: How to Use Splunk and Wireshark to Detect Data Exfiltration | Motasem Hamdan | [Read More](https://medium.com/p/dd56367016e0) |
+| Wed, 29 Oct 2025 08:45:00 GMT | Empowering Secure Spaces with Checkpoint Access | Office | [Read More](https://medium.com/p/c8783b791638) |
+| Wed, 29 Oct 2025 08:43:05 GMT | From Design to Launch: Hosting Plans That Actually Fit Your Budget | Janet Watson | [Read More](https://medium.com/p/e80b2a62e0b2) |
+| Wed, 29 Oct 2025 08:40:33 GMT | Information disclosure vulnerabilities -Free hands on PortswiggerLabs | L4V4NY4  AGR3 | [Read More](https://medium.com/p/34170ac247de) |
+| Wed, 29 Oct 2025 08:38:08 GMT | Simple, Smart, and Free Online Calculators for Everyday Life | Ramzan Aslam | [Read More](https://medium.com/p/a9040312a905) |
+| Wed, 29 Oct 2025 08:34:09 GMT | Cybersecurity in 2025 — Smarter Defense for a Smarter World | Devarshi Acharya | [Read More](https://medium.com/p/9c6d5f5b9b41) |
+| Wed, 29 Oct 2025 08:32:54 GMT | Redefining Modern Access Control with Checkpoint Access | Office | [Read More](https://medium.com/p/48f0f6fc6614) |
+| Wed, 29 Oct 2025 08:25:00 GMT | Smarter Security Solutions with Checkpoint Access | Office | [Read More](https://medium.com/p/0b6d2cdc7164) |
 | Wed, 29 Oct 2025 08:20:36 GMT | The Beginning of the End for Elon Musk’s Tech Empire? | Studiology | [Read More](https://medium.com/p/acc87be6ca58) |
 | Wed, 29 Oct 2025 08:18:04 GMT | Brevis and GoPlus Security Announce Strategic Partnership: Building the “Security Oracle” to… | GoPlus Security | [Read More](https://medium.com/p/481464db1c74) |
 | Wed, 29 Oct 2025 08:16:29 GMT | THE AAA FRAMEWORK: YOUR DIGITAL GATE PASS. | Aura Verde | [Read More](https://medium.com/p/565e9f927a21) |
@@ -106,12 +115,3 @@ Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
 | Tue, 28 Oct 2025 22:44:43 GMT | X Warns Users With Security Keys: Re-Enroll or Get Locked Out | Cyber-AppSec | [Read More](https://medium.com/p/2bd3e8f9dfdc) |
 | Tue, 28 Oct 2025 22:44:27 GMT | NVIDIA’s $1 Billion Strategic Investment in Nokia: Pioneering the AI-Driven Future of 6G… | Julia Ahrens | [Read More](https://medium.com/p/80491ec9d2f1) |
 | Tue, 28 Oct 2025 22:40:11 GMT | Best Crypto Asset Recovery Services Providers: Hire Optimistic Hacker Gaius | Anderson Thomas | [Read More](https://medium.com/p/7f9a5ec6feb6) |
-| Tue, 28 Oct 2025 22:33:03 GMT | IPv6 Penetration Testing and Exploit Codes: A Secure Look at the Future of the Network ️ | Esra Kayhan | [Read More](https://medium.com/p/a974778be5bd) |
-| Tue, 28 Oct 2025 22:24:25 GMT | How Mutual TLS (mTLS) works | Matthew Sweeney | [Read More](https://medium.com/p/9278b27eef93) |
-| Tue, 28 Oct 2025 22:16:09 GMT | What I Learned Hacking Hotel WiFi for Three Months Straight | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/9730e871fad0) |
-| Tue, 28 Oct 2025 22:12:39 GMT | Stage 7 — Exfiltration & Escape | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/a7ccc300cbf5) |
-| Tue, 28 Oct 2025 22:10:54 GMT | E-mail Spam with combo of Open Relay and comprising a legitimate server (Comcast). | Bob Malin | [Read More](https://medium.com/p/c7b1fc9966d3) |
-| Tue, 28 Oct 2025 22:09:54 GMT | Your Phone Has Been Rooted Since You Bought It (Just Not By You) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f3c7650308f5) |
-| Tue, 28 Oct 2025 22:05:28 GMT | CyberDefenders: PhishStrike Lab — Walkthrough | 0xNexionX | [Read More](https://medium.com/p/96967ee55632) |
-| Tue, 28 Oct 2025 21:59:54 GMT | Day 6: Understanding Network Services — DHCP, DNS, NAT & VPNs Made Simple | HackTrace | [Read More](https://medium.com/p/e81007b86e41) |
-| Tue, 28 Oct 2025 21:56:48 GMT | Building Web3 Security Into Your DNA: How to Transform Champions Into Company-Wide Security Culture | Olympix | [Read More](https://medium.com/p/74af320d49aa) |
