@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 10:19:16 GMT | Top 10 Most Dangerous Hackers in History | Manisha Chaudhary | [Read More](https://medium.com/p/7bc11cec70c7) |
+| Wed, 29 Oct 2025 10:08:14 GMT | Corporate OSINT Recon: How Attackers Profile Companies Before Launching an Attack | Travis Ray Caverhill | [Read More](https://medium.com/p/01c44f8e0245) |
+| Wed, 29 Oct 2025 10:06:07 GMT | DMARC is no longer optional: Get started with ease | Red Sift | [Read More](https://medium.com/p/1d6ac703f927) |
+| Wed, 29 Oct 2025 10:00:31 GMT | Applied Cryptography: Building the Secure Digital World | Samina Perveen | [Read More](https://medium.com/p/aa56708cf1c8) |
+| Wed, 29 Oct 2025 09:59:59 GMT | AI is Already Everywhere — But Is It Governed Right? | Vijay Kumar Gupta | [Read More](https://medium.com/p/173c51a31050) |
+| Wed, 29 Oct 2025 09:55:22 GMT | TryHackMe — Friday Overtime | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/70f96fad8223) |
+| Wed, 29 Oct 2025 09:54:28 GMT | Attack Surface Management (ASM) — The Foundation of Modern Cyber Resilience | Jackdavis Iap | [Read More](https://medium.com/p/222135872b8e) |
+| Wed, 29 Oct 2025 09:53:49 GMT | DockerLabs Writeup — HackZones (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1f4f862c7339) |
+| Wed, 29 Oct 2025 09:50:01 GMT | Intro to Malware Analysis. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/d1ef67eab453) |
+| Wed, 29 Oct 2025 09:48:30 GMT | Some Days You Just Survive, and That’s Enough | Pearls | [Read More](https://medium.com/p/21a834d449f4) |
+| Wed, 29 Oct 2025 09:43:24 GMT | Cyber Resilience Frameworks Every Business Should Adopt | IPSpecialist | [Read More](https://medium.com/p/d649a9ad8777) |
+| Wed, 29 Oct 2025 09:43:02 GMT | Weaponizing Public Information: How OSINT Became a Cornerstone of Modern Cybercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/a70e2b239ca9) |
+| Wed, 29 Oct 2025 09:41:02 GMT | My First Experience Helping Host a TinkerHub Session | Jasim Nazar | [Read More](https://medium.com/p/d87a606b018a) |
+| Wed, 29 Oct 2025 09:40:50 GMT | From Avocado Toast to Authenticity: The Journey of Being Seen | Sofia EL Goud | [Read More](https://medium.com/p/ec0cdf675a4b) |
 | Wed, 29 Oct 2025 09:22:16 GMT | THM — LazyAdmin | Firhansanad | [Read More](https://medium.com/p/44a706a192a5) |
 | Wed, 29 Oct 2025 09:20:23 GMT | How Encryption Keeps Your Digital Information Safe | Dkvilas | [Read More](https://medium.com/p/eab425b49ade) |
 | Wed, 29 Oct 2025 09:17:51 GMT | So… I Could Control the OTP ‍♂️ | Rajveer | [Read More](https://medium.com/p/503ba61997ff) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 04:21:53 GMT | Finding my first vulnerability on NASA: The Power of Google Dorking | ozgun32 | [Read More](https://medium.com/p/6a5a65c7f413) |
 | Wed, 29 Oct 2025 04:19:13 GMT | Fast Internet Setup Guide for New Homeowners and Small Offices | Ask IT Support | [Read More](https://medium.com/p/10c681a6cd70) |
 | Wed, 29 Oct 2025 04:02:07 GMT | Belarus’ Hybrid War at Poland’s Border | V. Langston - Journalist | [Read More](https://medium.com/p/524577b766a1) |
-| Wed, 29 Oct 2025 03:48:10 GMT | Find Sensitive Information using: Google Dorking, Shodan, and FOFA | Monika sharma | [Read More](https://medium.com/p/cce4b19b3940) |
-| Wed, 29 Oct 2025 03:32:01 GMT | Hijacked Bandwidth: How Proxyware Malware Quietly Turns Your PC into a Profit Machine | Deven Chhajed | [Read More](https://medium.com/p/726bc1d7571f) |
-| Wed, 29 Oct 2025 03:26:48 GMT | ☁️ AWS Security Secrets: How Hackers Use the Cloud — and How You Can Earn $2$$$+ Fixing It | Monujangra | [Read More](https://medium.com/p/dfc3f0090313) |
-| Wed, 29 Oct 2025 03:21:56 GMT | The Game in the Dashboard | abram  isyagi | [Read More](https://medium.com/p/ada50c0adf76) |
-| Wed, 29 Oct 2025 03:20:06 GMT | Learning Hydra on TryHackMe: My First Taste of Password-Guessing (and Why It Matters) | Zulfianarahmi | [Read More](https://medium.com/p/227487cc0380) |
-| Wed, 29 Oct 2025 02:32:10 GMT | the fear of being seen | EternalAmore | [Read More](https://medium.com/p/57eaeaed1d55) |
-| Wed, 29 Oct 2025 02:32:10 GMT | “That little padlock in your browser hides a fascinating story of cryptography, trust, and… | TechTrellis Academy | [Read More](https://medium.com/p/77df53f13190) |
-| Wed, 29 Oct 2025 02:04:33 GMT | A Cybersecurity Decision-Maker: My In-Depth Review of 591Lab’s CyberArk Competitors Guide | Al Beruni | [Read More](https://medium.com/p/fcbb3bc10728) |
-| Wed, 29 Oct 2025 02:00:33 GMT | Weekly Threat Intelligece Report 27 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/76a73a40fc33) |
-| Wed, 29 Oct 2025 01:57:55 GMT | Excessive Self-Esteem: A Character Flaw | Eilen Lexus | [Read More](https://medium.com/p/c02e33fdc912) |
-| Wed, 29 Oct 2025 01:51:52 GMT | SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability Exploitation (CVE-2024–3400) | Brandon Love | [Read More](https://medium.com/p/55a9ffb6bbfd) |
-| Wed, 29 Oct 2025 01:51:00 GMT | You Think You’re a Good Person. But You’re Probably a Low-Key Criminal. | Sami Ullah Zaheer | [Read More](https://medium.com/p/d60cda6f8dab) |
-| Wed, 29 Oct 2025 01:41:41 GMT | CORS Vulnerability | Fatimahasan | [Read More](https://medium.com/p/fdf22666776c) |
-| Wed, 29 Oct 2025 01:40:41 GMT | GlassWorm: Self-Propagating Worm Compromises VSCode Extensions | Wraith | [Read More](https://medium.com/p/83b61afc7616) |
