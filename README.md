@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 22:11:23 GMT | HackTheBox — Escape (Medium) | Shnogeorgiev | [Read More](https://medium.com/p/306404e55e62) |
+| Wed, 29 Oct 2025 21:58:09 GMT | Master Active Directory: A Complete Beginner's to Intermediate Guide | Beri Contraster | [Read More](https://medium.com/p/2f5faf9a4fa5) |
+| Wed, 29 Oct 2025 21:55:33 GMT | Quranium: Future-Proofing Digital Assets for the Post-Quantum Era | Bright Mmaduabuchi | [Read More](https://medium.com/p/46f9f722d296) |
+| Wed, 29 Oct 2025 21:52:10 GMT | Заявление Phala о уязвимости в шине памяти DDR5 | Phala Network RU | [Read More](https://medium.com/p/ec8fd33aa94c) |
+| Wed, 29 Oct 2025 21:34:48 GMT | The Drag | Aleksei G | [Read More](https://medium.com/p/3b734bb19764) |
+| Wed, 29 Oct 2025 21:34:01 GMT | Happy Halloween Everyone! And .. to Bugs?! | SapphireCat | [Read More](https://medium.com/p/f6577ec8c060) |
 | Wed, 29 Oct 2025 21:31:34 GMT | The SHIFT key is special, and here’s the weird history behind it | Artilogic | [Read More](https://medium.com/p/dc91db8ea660) |
 | Wed, 29 Oct 2025 21:26:34 GMT | A guerra contra a geração Z | R.H. Santos | [Read More](https://medium.com/p/4d34aad811de) |
 | Wed, 29 Oct 2025 21:21:40 GMT | Hackvember: 30 Flags, 30 Days — Let’s Get CTF-ing | Alvin Kapoor | [Read More](https://medium.com/p/272a4638ddfe) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 15:44:17 GMT | Inside the Modern Phishing Trap | Saarthak Mahajan | [Read More](https://medium.com/p/c5ef3a11bf9a) |
 | Wed, 29 Oct 2025 15:42:31 GMT | # Why That Free Truck Stop WiFi Just Cost Someone Their Business (And How It Could Happen to You) | Donavan Goodman | [Read More](https://medium.com/p/0e046b03ca0f) |
 | Wed, 29 Oct 2025 15:36:49 GMT | BlackHatindian Cybersecurity Researcher | blackhatindian | [Read More](https://medium.com/p/e56235d6f137) |
-| Wed, 29 Oct 2025 15:31:25 GMT | Federated Learning: The Future of Privacy-Preserving AI | Nikhilsaimanam | [Read More](https://medium.com/p/11bd544118dd) |
-| Wed, 29 Oct 2025 15:20:38 GMT | What If Dating Apps Let You Change Their App Icon? | Karishma Agrawal | [Read More](https://medium.com/p/6042a744efc0) |
-| Wed, 29 Oct 2025 15:16:45 GMT | Série: Construindo um Orçamento de TI Inteligente e Integrado | Anderson Oliveira | [Read More](https://medium.com/p/5ae7c5a15baa) |
-| Wed, 29 Oct 2025 15:15:15 GMT | Tracking Lateral Movement: PowerShell Remoting, WMIC, Explicit Credentials, NTLM Relay Attacks… | Dean | [Read More](https://medium.com/p/5ce99e6e4b9b) |
-| Wed, 29 Oct 2025 15:07:27 GMT | Why Security Is Crypto’s Biggest Challenge — Ido Ben Natan | Aroundthecoin | [Read More](https://medium.com/p/b87631687600) |
-| Wed, 29 Oct 2025 15:02:19 GMT | The Age of the Silent Breach: Why Detection is No Longer Enough | Abatis ABTU | [Read More](https://medium.com/p/4491864a4003) |
