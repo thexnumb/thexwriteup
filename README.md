@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 05:16:26 GMT | The Windows Security Journey — WRP (Windows Resource Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7e3cde332379) |
+| Wed, 29 Oct 2025 05:14:27 GMT | Shield Your Digital Identity: 5 Powerful Steps to Keep Your Data Hidden from the Internet | Rashmika | [Read More](https://medium.com/p/4f080b5a8b9b) |
+| Wed, 29 Oct 2025 05:02:37 GMT | The Remote Job Interview That Tried To Hack Me | Andrew Keitany | [Read More](https://medium.com/p/c84aab0b443b) |
+| Wed, 29 Oct 2025 04:58:47 GMT | Shared Folders in Ubuntu | Samuel McLamb | [Read More](https://medium.com/p/44b264758a90) |
+| Wed, 29 Oct 2025 04:48:22 GMT | Your Cybersecurity Degree Won’t Get You the Job | Irene A. Gil | [Read More](https://medium.com/p/6ec6c2407082) |
+| Wed, 29 Oct 2025 04:37:09 GMT | How to Choose Genuine Software and Avoid Cracked Versions Safely | Ask IT Support | [Read More](https://medium.com/p/57c4acf15faf) |
 | Wed, 29 Oct 2025 04:23:36 GMT | Multi-Factor Authentication (MFA): The Single Most Effective Defense Against Account Takeover | Kunal Sinha | [Read More](https://medium.com/p/eab3fa768031) |
 | Wed, 29 Oct 2025 04:21:53 GMT | Finding my first vulnerability on NASA: The Power of Google Dorking | ozgun32 | [Read More](https://medium.com/p/6a5a65c7f413) |
 | Wed, 29 Oct 2025 04:19:13 GMT | Fast Internet Setup Guide for New Homeowners and Small Offices | Ask IT Support | [Read More](https://medium.com/p/10c681a6cd70) |
@@ -109,9 +115,3 @@ Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
 | Tue, 28 Oct 2025 18:16:36 GMT | Encoding Hell | H3XH7WK | [Read More](https://medium.com/p/4d0a7fc9d14f) |
 | Tue, 28 Oct 2025 18:13:08 GMT | ChatGPT Isn’t Smart — It’s Strategic | Global Whirl of Wonders | [Read More](https://medium.com/p/bd211d78a415) |
 | Tue, 28 Oct 2025 18:08:11 GMT | Topunlock Social media account recovery services | Lucia Banjo | [Read More](https://medium.com/p/369a23fc3c04) |
-| Tue, 28 Oct 2025 17:53:49 GMT | The Firmware Update Puzzle | H3XH7WK | [Read More](https://medium.com/p/cce6dbe9f915) |
-| Tue, 28 Oct 2025 17:52:17 GMT | The Uncomfortable Truth About Security Risk | Michael Sidelkovski | [Read More](https://medium.com/p/d3213c6a63e2) |
-| Tue, 28 Oct 2025 17:52:09 GMT | The Silent Threat: Why Zero-Day Vulnerabilities Keep Security Experts Awake at Night | Limeryem | [Read More](https://medium.com/p/3345653e454b) |
-| Tue, 28 Oct 2025 17:43:18 GMT | I Trusted the Wrong Link. Here’s What Happened Next. | Aj | [Read More](https://medium.com/p/7a0d1c878ee5) |
-| Tue, 28 Oct 2025 17:25:10 GMT | Deep Dive into Security Hardening on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/41494de607fb) |
-| Tue, 28 Oct 2025 17:20:29 GMT | AresGPT: Red Teaming Strategies | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/afb01cd3568e) |
