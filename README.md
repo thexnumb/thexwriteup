@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 11:10:33 GMT | Digital Shield: Forging an Unbreachable Line of Digital Sovereignty with Verifiable Security | Digital Shield | [Read More](https://medium.com/p/6a7265fe6a5e) |
+| Wed, 29 Oct 2025 11:09:30 GMT | OCI CIS 3.0 Compliance Report | Karthic | [Read More](https://medium.com/p/30e4164fa8d1) |
+| Wed, 29 Oct 2025 11:07:26 GMT | Shattering the Crypto Security Paradox: How Digital Shield Puts Digital Sovereignty Back in Your… | Digital Shield | [Read More](https://medium.com/p/fb442e56764d) |
+| Wed, 29 Oct 2025 11:06:30 GMT | Locked Liquidity or Locked Holders? | Block Hawk Security Audit | [Read More](https://medium.com/p/de3619ad8d86) |
+| Wed, 29 Oct 2025 11:04:16 GMT | Why I Want to Be Securing Humane And Sustainable Tech | E. Ibrahimi | [Read More](https://medium.com/p/69de59623343) |
+| Wed, 29 Oct 2025 11:01:54 GMT | The GDPR Blind Spot No One Talks About: AI Models That Remember | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/fc53e4c6b91a) |
+| Wed, 29 Oct 2025 11:00:26 GMT | Best Python Course for Beginners with Certificate: Learn Coding from Scratch | cyber security Updates | [Read More](https://medium.com/p/61c62b36f0c3) |
+| Wed, 29 Oct 2025 10:55:12 GMT | IDA Pro — Powerful Disassembler | ArtistaPirata | [Read More](https://medium.com/p/8e9bfc7a94c6) |
+| Wed, 29 Oct 2025 10:55:10 GMT | The Backslash Bug: How a Tiny Path Glitch in Vite Could Leak Your Secrets | Mohammad Abir Abbas | [Read More](https://medium.com/p/9641de420f5e) |
+| Wed, 29 Oct 2025 10:38:08 GMT | The Modern Villa: If your house isn’t smart, you’re just paying for the walls! | Quemahtech | [Read More](https://medium.com/p/60d8b15e9f9a) |
 | Wed, 29 Oct 2025 10:37:34 GMT | The Illusion of Security: Why a Lack of Open-Source Integrity Leads to Broken Hacking Code | VolkanŞah | [Read More](https://medium.com/p/f6b4ae34c2d0) |
 | Wed, 29 Oct 2025 10:36:58 GMT | Why Businesses Need SOC-as-a-Service Providers | Balaji | [Read More](https://medium.com/p/d68b9c30bc85) |
 | Wed, 29 Oct 2025 10:33:02 GMT | The Role of Cybersecurity Specialists in Preventing Ransomware Attacks | SmartCLOUD Australia | [Read More](https://medium.com/p/190a814c9ade) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 05:58:11 GMT | The Daily Tech Digest: 29 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/0219f15eedc2) |
 | Wed, 29 Oct 2025 05:57:44 GMT | Defend the Digital Frontier — Certified Ethical Hacking Foundation (CEHF) | Adhiraj Kasabe | [Read More](https://medium.com/p/e5816fe6ed48) |
 | Wed, 29 Oct 2025 05:55:09 GMT | The Day I Broke Medium Email Content with Script Tag | Jaivardhan Deshwal | [Read More](https://medium.com/p/de7a11cad167) |
-| Wed, 29 Oct 2025 05:44:37 GMT | Post-quantum in 2025: the easy half and the hard half | Quantum Alexey | [Read More](https://medium.com/p/b7484bdc3921) |
-| Wed, 29 Oct 2025 05:39:41 GMT | The Things I Never Say When I’m Angry | thealer | [Read More](https://medium.com/p/ec2b09832da4) |
-| Wed, 29 Oct 2025 05:34:41 GMT | Top 25 Command Line Tools for Cybersecurity Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/b669de83aec6) |
-| Wed, 29 Oct 2025 05:32:18 GMT | The Day a Single <script> Tag Crashed My React App | Jaivardhan Deshwal | [Read More](https://medium.com/p/f6c7d7d91fa5) |
-| Wed, 29 Oct 2025 05:16:26 GMT | The Windows Security Journey — WRP (Windows Resource Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7e3cde332379) |
-| Wed, 29 Oct 2025 05:15:38 GMT | The Cyber Kill Chain Explained: How Hackers Think (and How You Can Stop Them) | Sithum Ranasinghe | [Read More](https://medium.com/p/94a0182f58cc) |
-| Wed, 29 Oct 2025 05:14:54 GMT | 30 Days to Your First Bug Bounty Payout $$$$ — A Practical Playbook | Monujangra | [Read More](https://medium.com/p/dfa488e3d9b2) |
-| Wed, 29 Oct 2025 05:14:30 GMT | DOM-based XSS on Microsoft.com | Niraj Mahajan | [Read More](https://medium.com/p/f704227230a7) |
-| Wed, 29 Oct 2025 05:14:27 GMT | Shield Your Digital Identity: 5 Powerful Steps to Keep Your Data Hidden from the Internet | Rashmika | [Read More](https://medium.com/p/4f080b5a8b9b) |
-| Wed, 29 Oct 2025 05:02:37 GMT | The Remote Job Interview That Tried To Hack Me | Andrew Keitany | [Read More](https://medium.com/p/c84aab0b443b) |
