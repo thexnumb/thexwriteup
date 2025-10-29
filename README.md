@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 20:38:01 GMT | Escalating to Domain Admin via Misconfigured Certificate Templates: A Red Team Case Study (and Why… | Anthony Cihan | [Read More](https://medium.com/p/7b2f60cef58a) |
 | Wed, 29 Oct 2025 20:20:41 GMT | Hacking APIs: Cache Poisoning and Deception Attacks | Israel Aráoz Severiche | [Read More](https://medium.com/p/19527e2d7e6e) |
+| Wed, 29 Oct 2025 20:17:46 GMT | From On-Prem to XDR: Deploying Microsoft Defender for Identity(Part 3) | Florence Nwizugbe | [Read More](https://medium.com/p/453bb6b7d5b5) |
 | Wed, 29 Oct 2025 20:07:10 GMT | Siber Güvenlikte Savaş Sanatı: Cyber Kill Chain ile Stratejik Paralellikler | Zehra Tilaver | [Read More](https://medium.com/p/6b7a00eb4f90) |
 | Wed, 29 Oct 2025 20:05:52 GMT | Here are some of the most prominent cybersecurity developments currently: | Mouad B. | [Read More](https://medium.com/p/acad5c6b5105) |
 | Wed, 29 Oct 2025 19:54:12 GMT | How to recover your Facebook account after losing your phone number and cannot receive any code | Lucia Banjo | [Read More](https://medium.com/p/8d69d0dd0898) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 14:50:43 GMT | “The $12,500 DNS Trick That Hacked Snapchat’s Cloud Servers” | Aman Sharma | [Read More](https://medium.com/p/0cb299ec1d37) |
 | Wed, 29 Oct 2025 14:47:52 GMT | Active Directory’nin Anatomisi | Taha Altın | [Read More](https://medium.com/p/a185fd3d0a31) |
 | Wed, 29 Oct 2025 14:44:15 GMT | Malevolent AI, Part 1: When Machines Turn Against Us | Haniakhan | [Read More](https://medium.com/p/af4c0981fd28) |
-| Wed, 29 Oct 2025 14:40:53 GMT | How Journalists Can Cover Darkweb Stories Responsibly | Tor BBB | [Read More](https://medium.com/p/5bbae1996321) |
-| Wed, 29 Oct 2025 14:37:52 GMT | The Invisible Cost of Honesty: When Sharing Bodily Experiences Becomes a Cyber Vulnerability | olavenue | [Read More](https://medium.com/p/46ea32cea65b) |
