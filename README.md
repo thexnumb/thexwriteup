@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 15:15:15 GMT | Tracking Lateral Movement: PowerShell Remoting, WMIC, Explicit Credentials, NTLM Relay Attacks… | Dean | [Read More](https://medium.com/p/5ce99e6e4b9b) |
+| Wed, 29 Oct 2025 15:07:27 GMT | Why Security Is Crypto’s Biggest Challenge — Ido Ben Natan | Aroundthecoin | [Read More](https://medium.com/p/b87631687600) |
+| Wed, 29 Oct 2025 15:02:19 GMT | The Age of the Silent Breach: Why Detection is No Longer Enough | Abatis ABTU | [Read More](https://medium.com/p/4491864a4003) |
+| Wed, 29 Oct 2025 15:00:43 GMT | Spring Boot Secrets They Don’t Teach You: Building Production-Grade Apps That Actually Scale | Jitin Kayyala | [Read More](https://medium.com/p/8bd883e4db7d) |
+| Wed, 29 Oct 2025 15:00:42 GMT | The Gap Between Us | Tyler August Wren | [Read More](https://medium.com/p/f7ab5d5ddd68) |
+| Wed, 29 Oct 2025 14:54:57 GMT | The Medusa Principle: Finding Authenticity With Demons | Heidi K. Isern | [Read More](https://medium.com/p/3e735d901e9a) |
+| Wed, 29 Oct 2025 14:53:28 GMT | Are AI Coding Tools Leaking Your Secrets? Probably Not — But Here’s What You Should Know | Sam Smith | [Read More](https://medium.com/p/d5784b4d001b) |
+| Wed, 29 Oct 2025 14:52:12 GMT | Moniker Link (CVE-2024–21413) - Writeup | Mahir | [Read More](https://medium.com/p/25b55726de3d) |
+| Wed, 29 Oct 2025 14:50:50 GMT | Why HR Culture and Employee Training Matter More Than Firewalls | Legal Thoughts | [Read More](https://medium.com/p/78368dad7741) |
+| Wed, 29 Oct 2025 14:50:43 GMT | “The $12,500 DNS Trick That Hacked Snapchat’s Cloud Servers” | Aman Sharma | [Read More](https://medium.com/p/0cb299ec1d37) |
+| Wed, 29 Oct 2025 14:47:52 GMT | Active Directory’nin Anatomisi | Taha Altın | [Read More](https://medium.com/p/a185fd3d0a31) |
 | Wed, 29 Oct 2025 14:44:15 GMT | Malevolent AI, Part 1: When Machines Turn Against Us | Haniakhan | [Read More](https://medium.com/p/af4c0981fd28) |
 | Wed, 29 Oct 2025 14:40:53 GMT | How Journalists Can Cover Darkweb Stories Responsibly | Tor BBB | [Read More](https://medium.com/p/5bbae1996321) |
 | Wed, 29 Oct 2025 14:37:52 GMT | The Invisible Cost of Honesty: When Sharing Bodily Experiences Becomes a Cyber Vulnerability | olavenue | [Read More](https://medium.com/p/46ea32cea65b) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 09:54:28 GMT | Attack Surface Management (ASM) — The Foundation of Modern Cyber Resilience | Jackdavis Iap | [Read More](https://medium.com/p/222135872b8e) |
 | Wed, 29 Oct 2025 09:53:49 GMT | DockerLabs Writeup — HackZones (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1f4f862c7339) |
 | Wed, 29 Oct 2025 09:50:01 GMT | Intro to Malware Analysis. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/d1ef67eab453) |
-| Wed, 29 Oct 2025 09:48:30 GMT | Some Days You Just Survive, and That’s Enough | Pearls | [Read More](https://medium.com/p/21a834d449f4) |
-| Wed, 29 Oct 2025 09:43:24 GMT | Cyber Resilience Frameworks Every Business Should Adopt | IPSpecialist | [Read More](https://medium.com/p/d649a9ad8777) |
-| Wed, 29 Oct 2025 09:43:02 GMT | Weaponizing Public Information: How OSINT Became a Cornerstone of Modern Cybercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/a70e2b239ca9) |
-| Wed, 29 Oct 2025 09:41:02 GMT | My First Experience Helping Host a TinkerHub Session | Jasim Nazar | [Read More](https://medium.com/p/d87a606b018a) |
-| Wed, 29 Oct 2025 09:40:50 GMT | From Avocado Toast to Authenticity: The Journey of Being Seen | Sofia EL Goud | [Read More](https://medium.com/p/ec0cdf675a4b) |
-| Wed, 29 Oct 2025 09:22:16 GMT | THM — LazyAdmin | Firhansanad | [Read More](https://medium.com/p/44a706a192a5) |
-| Wed, 29 Oct 2025 09:20:23 GMT | How Encryption Keeps Your Digital Information Safe | Dkvilas | [Read More](https://medium.com/p/eab425b49ade) |
-| Wed, 29 Oct 2025 09:17:51 GMT | So… I Could Control the OTP ‍♂️ | Rajveer | [Read More](https://medium.com/p/503ba61997ff) |
-| Wed, 29 Oct 2025 09:16:49 GMT | Overview | Bruzzese Roberto | [Read More](https://medium.com/p/0f18f39d685a) |
-| Wed, 29 Oct 2025 09:16:20 GMT | Cybersecurity in the Age of Artificial Intelligence | Vozniak Nazar | [Read More](https://medium.com/p/08513991dfb2) |
-| Wed, 29 Oct 2025 09:12:35 GMT | From Shared to VPS: Finding the Right Hosting Without Overspending | Andy | [Read More](https://medium.com/p/e869d5fa88a1) |
