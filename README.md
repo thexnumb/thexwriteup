@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 06:24:19 GMT | Why Professional Bouncers Are Crucial for Maintaining Safety at High-Profile Venues | Ankit Singh | [Read More](https://medium.com/p/dececee3a08c) |
+| Wed, 29 Oct 2025 06:21:52 GMT | Tester, c’est douter ! | Valentin Thion | [Read More](https://medium.com/p/8618d5c88653) |
+| Wed, 29 Oct 2025 06:00:25 GMT | Building a ChatGPT-Powered Playbook in Microsoft Sentinel | X2Tech | [Read More](https://medium.com/p/d35a8c160223) |
+| Wed, 29 Oct 2025 05:59:37 GMT | Why Every Modern Enterprise Needs a Trusted Cybersecurity Consulting Partner | iCare Cyber. By ITMD | [Read More](https://medium.com/p/784985a74e8a) |
+| Wed, 29 Oct 2025 05:58:11 GMT | The Daily Tech Digest: 29 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/0219f15eedc2) |
+| Wed, 29 Oct 2025 05:57:44 GMT | Defend the Digital Frontier — Certified Ethical Hacking Foundation (CEHF) | Adhiraj Kasabe | [Read More](https://medium.com/p/e5816fe6ed48) |
+| Wed, 29 Oct 2025 05:55:09 GMT | The Day I Broke Medium Email Content with Script Tag | Jaivardhan Deshwal | [Read More](https://medium.com/p/de7a11cad167) |
+| Wed, 29 Oct 2025 05:44:37 GMT | Post-quantum in 2025: the easy half and the hard half | Quantum Alexey | [Read More](https://medium.com/p/b7484bdc3921) |
 | Wed, 29 Oct 2025 05:39:41 GMT | The Things I Never Say When I’m Angry | thealer | [Read More](https://medium.com/p/ec2b09832da4) |
 | Wed, 29 Oct 2025 05:34:41 GMT | Top 25 Command Line Tools for Cybersecurity Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/b669de83aec6) |
 | Wed, 29 Oct 2025 05:32:18 GMT | The Day a Single <script> Tag Crashed My React App | Jaivardhan Deshwal | [Read More](https://medium.com/p/f6c7d7d91fa5) |
@@ -107,11 +115,3 @@ Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
 | Tue, 28 Oct 2025 19:33:47 GMT | Reverse Engineering API Security: How I Broke and bypass “Request-Hash” or “Signature” Protection | Ali Bahaa Alawsi | [Read More](https://medium.com/p/7c4f64276661) |
 | Tue, 28 Oct 2025 19:27:44 GMT | The Hidden Identity Crisis in the Age of AI Agents | Deepak Gupta | [Read More](https://medium.com/p/0fa6b022567d) |
 | Tue, 28 Oct 2025 19:22:37 GMT | 7 Cybersecurity Mistakes That Kill 42% of Early-Stage Startups | Hania Khan | [Read More](https://medium.com/p/b8c6f2cd2529) |
-| Tue, 28 Oct 2025 19:21:15 GMT | Your Password Is ‘Password123’? Bold of You to Assume You Still Have Privacy | Naturinda Patra | [Read More](https://medium.com/p/3d2fec9c6f57) |
-| Tue, 28 Oct 2025 19:20:35 GMT | Hardening Against Path Traversal: Breaking the Cyber Chain from DevOps to SecOps -EN | Burak Bozacı | [Read More](https://medium.com/p/336918b9bf61) |
-| Tue, 28 Oct 2025 19:11:01 GMT | Infrastructure Collapse: How a Forgotten Folder in Coca-Cola’s Network Exposed Critical… | d0rking | [Read More](https://medium.com/p/a4d9dc1ab8a6) |
-| Tue, 28 Oct 2025 19:01:24 GMT | Reven Locker | H3XH7WK | [Read More](https://medium.com/p/d0ae103a703d) |
-| Tue, 28 Oct 2025 19:00:46 GMT | Phishing Campaigns Deploy Real-Time Validation to Confirm Victim Emails Before Stealing Credentials | Md Faizer Islam | [Read More](https://medium.com/p/6a79dfb884fd) |
-| Tue, 28 Oct 2025 18:58:53 GMT | Why I Built AnonDLP: A CISO’s Journey from Enterprise DLP Frustration to Local Innovation | Rommel Jay Gadil | [Read More](https://medium.com/p/d8fa5ada3f2a) |
-| Tue, 28 Oct 2025 18:56:49 GMT | Event Security in the UK — Protecting People, Brands, and Experiences | waeventservices.co.uk/ | [Read More](https://medium.com/p/8fd55259c262) |
-| Tue, 28 Oct 2025 18:49:56 GMT | How to Improve Workplace Privacy Without Losing Productivity | Cordula Boeck | [Read More](https://medium.com/p/988c00c28a2b) |
