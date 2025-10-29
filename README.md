@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 07:15:21 GMT | Top Cybersecurity Certifications for High-Paying Careers. | Mukesh Giri | [Read More](https://medium.com/p/651592e42efa) |
+| Wed, 29 Oct 2025 07:12:02 GMT | When a cyberattack becomes a macroeconomic event | Christopher Franskin | [Read More](https://medium.com/p/7e093b953dc7) |
+| Wed, 29 Oct 2025 07:11:27 GMT | Part 2: Mastering Lateral Movement with Ligolo-ng | own_the_net | [Read More](https://medium.com/p/dac616946fb2) |
+| Wed, 29 Oct 2025 07:05:44 GMT | Just-In-Time Asset Access in JumpServer | LXware | [Read More](https://medium.com/p/6612e1101115) |
+| Wed, 29 Oct 2025 07:03:06 GMT | SPARK Matrix™: Managed Detection & Response Unveiling Top Vendors Driving the Future of… | Shamita Patel | [Read More](https://medium.com/p/4e8a503b8500) |
+| Wed, 29 Oct 2025 07:01:50 GMT | Best VAPT Services Provider in India | Mathewneelan | [Read More](https://medium.com/p/747f1c4173d2) |
+| Wed, 29 Oct 2025 06:58:22 GMT | Breaking and Defending API Keys: A Hacker’s Playbook for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/b67e50badc94) |
+| Wed, 29 Oct 2025 06:58:04 GMT | AI-Assisted Exploits: What the Future of Hacking Looks Like | Fatih ÖĞLÜ | [Read More](https://medium.com/p/72f09fd17a22) |
+| Wed, 29 Oct 2025 06:55:13 GMT | Unlock Special Pricing On Genuine Microsoft Software: Don’t Miss Out! | Best Software Buy | [Read More](https://medium.com/p/b3cef913b808) |
+| Wed, 29 Oct 2025 06:55:10 GMT | 2025 Trends: Smarter Network Monitoring and IT Help Desk Solutions | Elliman Technologies | [Read More](https://medium.com/p/d2fb3ec8c7e0) |
+| Wed, 29 Oct 2025 06:53:02 GMT | Bridging the Gap: SQL Injection — From Payloads to Prepared Statements | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/9263d2e7ff68) |
+| Wed, 29 Oct 2025 06:32:17 GMT | One of the most insightful parts of my cybersecurity training was understanding how attackers… | Adeleke Theophilus O | [Read More](https://medium.com/p/12ac20cd4211) |
 | Wed, 29 Oct 2025 06:24:19 GMT | Why Professional Bouncers Are Crucial for Maintaining Safety at High-Profile Venues | Ankit Singh | [Read More](https://medium.com/p/dececee3a08c) |
 | Wed, 29 Oct 2025 06:21:52 GMT | Tester, c’est douter ! | Valentin Thion | [Read More](https://medium.com/p/8618d5c88653) |
 | Wed, 29 Oct 2025 06:00:25 GMT | Building a ChatGPT-Powered Playbook in Microsoft Sentinel | X2Tech | [Read More](https://medium.com/p/d35a8c160223) |
@@ -103,15 +115,3 @@ Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
 | Tue, 28 Oct 2025 20:16:49 GMT | [Part 10] EU Cyber Resilience Act: Centralizing Compliance with NIS2, DORA, and ISO 27001 | Cyberkech | [Read More](https://medium.com/p/1eee9f9796db) |
 | Tue, 28 Oct 2025 20:15:54 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/34de2bb53a3b) |
 | Tue, 28 Oct 2025 20:10:45 GMT | Postman HTB | Aaronashley | [Read More](https://medium.com/p/410cb3e00b60) |
-| Tue, 28 Oct 2025 20:06:32 GMT | What If the Missile Never Existed? | DrTekno | [Read More](https://medium.com/p/829d32639c14) |
-| Tue, 28 Oct 2025 20:06:28 GMT | Phase 0: Laying the Blueprint — How Project Jupiter Begins to Take Shape | Soldier0x00 | [Read More](https://medium.com/p/12d6d61b3d82) |
-| Tue, 28 Oct 2025 19:58:15 GMT | John the Ripper: The Basics | Mahir | [Read More](https://medium.com/p/c01c98e1c568) |
-| Tue, 28 Oct 2025 19:51:05 GMT | Hackviser - SolarFlare | Tolga Can | [Read More](https://medium.com/p/ae6425b78117) |
-| Tue, 28 Oct 2025 19:50:43 GMT | You Know I Am Human | Obinna Uruakpa | [Read More](https://medium.com/p/38db361bfa9d) |
-| Tue, 28 Oct 2025 19:50:43 GMT | Cómo hacer que tu desarrollo sea súper inseguro (guía infalible) | Diego Cañizares | [Read More](https://medium.com/p/03eb7e4aa7c5) |
-| Tue, 28 Oct 2025 19:48:51 GMT | Building More Trustworthy AI Through Governed Data Architecture and Cyber Risk-Aligned Security | Valdez Ladd | [Read More](https://medium.com/p/bc83b558a0b9) |
-| Tue, 28 Oct 2025 19:45:39 GMT | Google Dork is The Biggest Tool of OSINT | Nazrul Islam Rana | [Read More](https://medium.com/p/5df812a29957) |
-| Tue, 28 Oct 2025 19:36:53 GMT | 10 AI Tools That Actually Make You Money in 2025 (No Coding Needed) | BRNK it | [Read More](https://medium.com/p/1c3a43bf3434) |
-| Tue, 28 Oct 2025 19:33:47 GMT | Reverse Engineering API Security: How I Broke and bypass “Request-Hash” or “Signature” Protection | Ali Bahaa Alawsi | [Read More](https://medium.com/p/7c4f64276661) |
-| Tue, 28 Oct 2025 19:27:44 GMT | The Hidden Identity Crisis in the Age of AI Agents | Deepak Gupta | [Read More](https://medium.com/p/0fa6b022567d) |
-| Tue, 28 Oct 2025 19:22:37 GMT | 7 Cybersecurity Mistakes That Kill 42% of Early-Stage Startups | Hania Khan | [Read More](https://medium.com/p/b8c6f2cd2529) |
