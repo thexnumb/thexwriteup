@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 21:31:34 GMT | The SHIFT key is special, and here’s the weird history behind it | Artilogic | [Read More](https://medium.com/p/dc91db8ea660) |
+| Wed, 29 Oct 2025 21:26:34 GMT | A guerra contra a geração Z | R.H. Santos | [Read More](https://medium.com/p/4d34aad811de) |
+| Wed, 29 Oct 2025 21:21:40 GMT | Hackvember: 30 Flags, 30 Days — Let’s Get CTF-ing | Alvin Kapoor | [Read More](https://medium.com/p/272a4638ddfe) |
+| Wed, 29 Oct 2025 21:12:37 GMT | ️ What Makes Linux Secure (and Where It’s Weak — Plus How to Fix It) | shresth paul | [Read More](https://medium.com/p/b06019ea7db2) |
 | Wed, 29 Oct 2025 20:52:03 GMT | What Your Error Messages Are Teaching Attackers | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a7edfd93911c) |
 | Wed, 29 Oct 2025 20:49:58 GMT | When the Cloud Falls: Microsoft Azure Outage — October 29, 2025 | The Deep Frame | [Read More](https://medium.com/p/97d0cae1b6e7) |
 | Wed, 29 Oct 2025 20:44:43 GMT | Ghost HTTP Methods: How HTTP Verb Mutation Bypasses Modern WAFs across Middleware Layers | Pratik Dahal | [Read More](https://medium.com/p/32b66cd392ca) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 15:15:15 GMT | Tracking Lateral Movement: PowerShell Remoting, WMIC, Explicit Credentials, NTLM Relay Attacks… | Dean | [Read More](https://medium.com/p/5ce99e6e4b9b) |
 | Wed, 29 Oct 2025 15:07:27 GMT | Why Security Is Crypto’s Biggest Challenge — Ido Ben Natan | Aroundthecoin | [Read More](https://medium.com/p/b87631687600) |
 | Wed, 29 Oct 2025 15:02:19 GMT | The Age of the Silent Breach: Why Detection is No Longer Enough | Abatis ABTU | [Read More](https://medium.com/p/4491864a4003) |
-| Wed, 29 Oct 2025 15:00:43 GMT | Spring Boot Secrets They Don’t Teach You: Building Production-Grade Apps That Actually Scale | Jitin Kayyala | [Read More](https://medium.com/p/8bd883e4db7d) |
-| Wed, 29 Oct 2025 15:00:42 GMT | The Gap Between Us | Tyler August Wren | [Read More](https://medium.com/p/f7ab5d5ddd68) |
-| Wed, 29 Oct 2025 14:54:57 GMT | The Medusa Principle: Finding Authenticity With Demons | Heidi K. Isern | [Read More](https://medium.com/p/3e735d901e9a) |
-| Wed, 29 Oct 2025 14:53:28 GMT | Are AI Coding Tools Leaking Your Secrets? Probably Not — But Here’s What You Should Know | Sam Smith | [Read More](https://medium.com/p/d5784b4d001b) |
