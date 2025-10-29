@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 13:22:58 GMT | InHouse Splunk ES Automation-Eps 2 | Aufarifqi | [Read More](https://medium.com/p/5c09486f6cd4) |
+| Wed, 29 Oct 2025 13:12:35 GMT | Cybersecurity Risk Management in 2025: Trends, Market Analysis, and Investment Prospects | Manasi Stalwart | [Read More](https://medium.com/p/eb5c5e7b973a) |
+| Wed, 29 Oct 2025 13:06:50 GMT | From a Simple IDOR to a Major Security Finding | Ibtissam hammadi | [Read More](https://medium.com/p/6386077e4b8d) |
+| Wed, 29 Oct 2025 13:05:19 GMT | Demystifying ISA 62443 (Part 1): What is ISA 62443 and Why Should You Care | Suhail R. Ahmad | [Read More](https://medium.com/p/8dacc1224f0f) |
+| Wed, 29 Oct 2025 13:04:32 GMT | F5 Is Misleading the Market — The Breach Is Nowhere Near Contained | Deep Specter Research | [Read More](https://medium.com/p/a766d932c582) |
+| Wed, 29 Oct 2025 13:02:03 GMT | Obfuscated JavaScript (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/9f90f36ad93e) |
+| Wed, 29 Oct 2025 13:02:00 GMT | 30 Days of Red Team: Day 4 — Delivery: Social Engineering & Phishing Infrastructure | Maxwell Cross | [Read More](https://medium.com/p/4d46f27cbd35) |
+| Wed, 29 Oct 2025 13:01:29 GMT | Understanding Race Conditions in Web Applications: Vulnerabilities, Exploits, and Mitigations | Sumit Sah | [Read More](https://medium.com/p/96a2fbca39c8) |
+| Wed, 29 Oct 2025 12:58:54 GMT | Why File Type Validation is Always an Untrusted Check | Ferran Verdés | [Read More](https://medium.com/p/e547fbe945ea) |
+| Wed, 29 Oct 2025 12:56:38 GMT | “New MAC, Who Dis?” How to disappear online | SilentInject | [Read More](https://medium.com/p/0a5194640c37) |
+| Wed, 29 Oct 2025 12:54:58 GMT | What is security? | Ramanujan | [Read More](https://medium.com/p/8c60e5224ab2) |
+| Wed, 29 Oct 2025 12:53:34 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ducat India | [Read More](https://medium.com/p/20f14342dfc8) |
+| Wed, 29 Oct 2025 12:53:32 GMT | Best Ethical Hacking Training in Noida - Ducat India | Neeraj0710 | [Read More](https://medium.com/p/8d35ac01e7a8) |
 | Wed, 29 Oct 2025 12:43:05 GMT | [OverTheWire] Bandit Level 19 → 20 | H$nt | [Read More](https://medium.com/p/4e1463b198ae) |
 | Wed, 29 Oct 2025 12:38:17 GMT | Bandit OverTheWire writeup — Level 1-> 2 | Dawid Kowalski | [Read More](https://medium.com/p/25a6c8970c96) |
 | Wed, 29 Oct 2025 12:36:50 GMT | Unattended. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/5f24d998a28e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 08:16:29 GMT | THE AAA FRAMEWORK: YOUR DIGITAL GATE PASS. | Aura Verde | [Read More](https://medium.com/p/565e9f927a21) |
 | Wed, 29 Oct 2025 08:14:18 GMT | ️‍♂️ Anonimity in the Web Based on Routing Protocols — Part 1 | Bruzzese Roberto | [Read More](https://medium.com/p/e72246333cf9) |
 | Wed, 29 Oct 2025 08:07:10 GMT | Train Cargo Theft Jumped 40% Last Year: Why Containers Are Criminals’ New Favorite Target | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/ea5ff0b4185c) |
-| Wed, 29 Oct 2025 08:05:54 GMT | A Hidden Android 13 Bug That Bit Me: Lessons from a Parcelable Crash | Rokib Hasan | [Read More](https://medium.com/p/df31ba1eeb92) |
-| Wed, 29 Oct 2025 08:01:54 GMT | [Part 11] Hands-On: How to Build a Simple AI Model to Spot Phishing Emails | Cyberkech | [Read More](https://medium.com/p/9cbbcb61ea03) |
-| Wed, 29 Oct 2025 07:55:33 GMT | Title: | Axsaspty | [Read More](https://medium.com/p/112cea6ee6cf) |
-| Wed, 29 Oct 2025 07:39:14 GMT | I’ve finally made it to Burp Suite — | Abdullah Mina | [Read More](https://medium.com/p/fd8f9527e4d6) |
-| Wed, 29 Oct 2025 07:39:02 GMT | Understanding Network Security Basics: How the Internet Stays (and Sometimes Fails to Stay) Safe | Zamin Mirzad | [Read More](https://medium.com/p/ee9cc88c219a) |
-| Wed, 29 Oct 2025 07:37:52 GMT | The Wannacry ransomware was created to exploit a blue flaw in the Microsoft software application. | Emenanjo Ndigwe | [Read More](https://medium.com/p/72dcd4df1896) |
-| Wed, 29 Oct 2025 07:37:32 GMT | HTTP REQUEST METHODS | Jei Ess | [Read More](https://medium.com/p/3a4fe79aad47) |
-| Wed, 29 Oct 2025 07:36:02 GMT | Cybersecurity Behind AI Agents: Safeguarding the Autonomous Digital Frontier | Epython Lab | [Read More](https://medium.com/p/58e82ea4cd75) |
-| Wed, 29 Oct 2025 07:33:41 GMT | Partnering with RedSide Security: Building Stronger Defenses Through Real-World Experience | James | [Read More](https://medium.com/p/26ce0e26edce) |
-| Wed, 29 Oct 2025 07:32:09 GMT | The Minimum Secure Spring App | Thinking Loop | [Read More](https://medium.com/p/fd04402a43f2) |
-| Wed, 29 Oct 2025 07:32:09 GMT | The New Face of Phishing: Why Security Isn’t Just for “Security People” | Kristiyan Velkov | [Read More](https://medium.com/p/0ec10c06c2f6) |
-| Wed, 29 Oct 2025 07:31:03 GMT | Building Security Champions: Tips for Effective Awareness Campaigns | Yash Patel | [Read More](https://medium.com/p/aa4e610485dc) |
-| Wed, 29 Oct 2025 07:29:07 GMT | My Cybersecurity Learning Journey Begins: From Curiosity to Cyber Defense | Zamin Mirzad | [Read More](https://medium.com/p/e7beb35a8515) |
