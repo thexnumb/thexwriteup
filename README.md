@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 20:52:03 GMT | What Your Error Messages Are Teaching Attackers | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a7edfd93911c) |
+| Wed, 29 Oct 2025 20:49:58 GMT | When the Cloud Falls: Microsoft Azure Outage — October 29, 2025 | The Deep Frame | [Read More](https://medium.com/p/97d0cae1b6e7) |
+| Wed, 29 Oct 2025 20:44:43 GMT | Ghost HTTP Methods: How HTTP Verb Mutation Bypasses Modern WAFs across Middleware Layers | Pratik Dahal | [Read More](https://medium.com/p/32b66cd392ca) |
+| Wed, 29 Oct 2025 20:40:51 GMT | Day 24 of my Cybersecurity Journey: Hashing Basics II | Ogundipe Priscilla | [Read More](https://medium.com/p/05182590bcb8) |
 | Wed, 29 Oct 2025 20:38:01 GMT | Escalating to Domain Admin via Misconfigured Certificate Templates: A Red Team Case Study (and Why… | Anthony Cihan | [Read More](https://medium.com/p/7b2f60cef58a) |
+| Wed, 29 Oct 2025 20:37:38 GMT | Lockdown Lab Writeup | Jaws | [Read More](https://medium.com/p/394e26f20f1d) |
 | Wed, 29 Oct 2025 20:20:41 GMT | Hacking APIs: Cache Poisoning and Deception Attacks | Israel Aráoz Severiche | [Read More](https://medium.com/p/19527e2d7e6e) |
 | Wed, 29 Oct 2025 20:17:46 GMT | From On-Prem to XDR: Deploying Microsoft Defender for Identity(Part 3) | Florence Nwizugbe | [Read More](https://medium.com/p/453bb6b7d5b5) |
 | Wed, 29 Oct 2025 20:07:10 GMT | Siber Güvenlikte Savaş Sanatı: Cyber Kill Chain ile Stratejik Paralellikler | Zehra Tilaver | [Read More](https://medium.com/p/6b7a00eb4f90) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 15:00:42 GMT | The Gap Between Us | Tyler August Wren | [Read More](https://medium.com/p/f7ab5d5ddd68) |
 | Wed, 29 Oct 2025 14:54:57 GMT | The Medusa Principle: Finding Authenticity With Demons | Heidi K. Isern | [Read More](https://medium.com/p/3e735d901e9a) |
 | Wed, 29 Oct 2025 14:53:28 GMT | Are AI Coding Tools Leaking Your Secrets? Probably Not — But Here’s What You Should Know | Sam Smith | [Read More](https://medium.com/p/d5784b4d001b) |
-| Wed, 29 Oct 2025 14:52:12 GMT | Moniker Link (CVE-2024–21413) - Writeup | Mahir | [Read More](https://medium.com/p/25b55726de3d) |
-| Wed, 29 Oct 2025 14:50:50 GMT | Why HR Culture and Employee Training Matter More Than Firewalls | Legal Thoughts | [Read More](https://medium.com/p/78368dad7741) |
-| Wed, 29 Oct 2025 14:50:43 GMT | “The $12,500 DNS Trick That Hacked Snapchat’s Cloud Servers” | Aman Sharma | [Read More](https://medium.com/p/0cb299ec1d37) |
-| Wed, 29 Oct 2025 14:47:52 GMT | Active Directory’nin Anatomisi | Taha Altın | [Read More](https://medium.com/p/a185fd3d0a31) |
-| Wed, 29 Oct 2025 14:44:15 GMT | Malevolent AI, Part 1: When Machines Turn Against Us | Haniakhan | [Read More](https://medium.com/p/af4c0981fd28) |
