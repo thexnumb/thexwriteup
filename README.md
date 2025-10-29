@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 12:43:05 GMT | [OverTheWire] Bandit Level 19 → 20 | H$nt | [Read More](https://medium.com/p/4e1463b198ae) |
+| Wed, 29 Oct 2025 12:38:17 GMT | Bandit OverTheWire writeup — Level 1-> 2 | Dawid Kowalski | [Read More](https://medium.com/p/25a6c8970c96) |
+| Wed, 29 Oct 2025 12:36:50 GMT | Unattended. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/5f24d998a28e) |
+| Wed, 29 Oct 2025 12:36:06 GMT | Cyber Security Degree Online: Best Courses, Career Scope, and Benefits | Crawsec | [Read More](https://medium.com/p/f9d7c754f83c) |
+| Wed, 29 Oct 2025 12:34:39 GMT | Cyber Security Trends 2025 | Leonidas Gorgo | [Read More](https://medium.com/p/843abbc2f908) |
+| Wed, 29 Oct 2025 12:31:52 GMT | Dark Patterns in Security UX: Are They Ethical? | Kambetastephano | [Read More](https://medium.com/p/07a0a95b9f69) |
+| Wed, 29 Oct 2025 12:31:52 GMT | Boost Home Safety: Only hese 7 Tiny Gadgets with Huge Impact You Need | Azeeza | [Read More](https://medium.com/p/2374d93d3451) |
+| Wed, 29 Oct 2025 12:29:45 GMT | A step-by-step guide to automotive cybersecurity in 2025 | Cyberbali | [Read More](https://medium.com/p/e18fd9a8f81e) |
+| Wed, 29 Oct 2025 12:27:52 GMT | 9 Lombok Traps That Cost Me 100+ Bugs (And the Bulletproof Fixes) | inside Nikita's Mind | [Read More](https://medium.com/p/8defd05dd2a5) |
+| Wed, 29 Oct 2025 12:20:17 GMT | The Future of AI-Powered Cybersecurity: Can Humans Keep Up? | VLink | [Read More](https://medium.com/p/f55615979edf) |
+| Wed, 29 Oct 2025 12:19:34 GMT | Bandit OverTheWire writeup — Level 0 -> 1 | Dawid Kowalski | [Read More](https://medium.com/p/f859973077eb) |
+| Wed, 29 Oct 2025 12:18:34 GMT | The Internet Made Us Fall In Love With Each Other's Sadness | My21stNotes | [Read More](https://medium.com/p/8bdcf65dad10) |
+| Wed, 29 Oct 2025 12:17:52 GMT | Tomghost writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/56c78a7f1930) |
+| Wed, 29 Oct 2025 12:17:18 GMT | Web Cache Poisoning — Part 1: Understanding the Beast | Abhishek meena | [Read More](https://medium.com/p/d303f1741e48) |
+| Wed, 29 Oct 2025 12:14:04 GMT | I l forgot. | Joelle luxer | [Read More](https://medium.com/p/3bf7c9da3297) |
+| Wed, 29 Oct 2025 12:00:28 GMT | [ SOC Alert => Traffic to Malware Domain ] by LetsDefend / EventID: 46 = Severity: Critical /… | EduKayky | [Read More](https://medium.com/p/c47997e05731) |
+| Wed, 29 Oct 2025 11:56:09 GMT | [ SOC Alert => Traffic to Malware Domain ] by LetsDefend / EventID: 46 = Severity: Critical | EduKayky | [Read More](https://medium.com/p/52bc0527dd81) |
+| Wed, 29 Oct 2025 11:49:51 GMT | Every few months,the crypto world wakes up to another DeFi hack. | Loyalty | [Read More](https://medium.com/p/7b5ab481b7b2) |
+| Wed, 29 Oct 2025 11:46:33 GMT | The Unlikely Freedom of Admitting You’re Not Okay | Emma Blake | [Read More](https://medium.com/p/d7d82fdee41e) |
+| Wed, 29 Oct 2025 11:39:17 GMT | Chain Link Fence in Saudi Arabia Durable, Cost-Smart, and Climate-Ready Perimeters | Hitechfence | [Read More](https://medium.com/p/58824c18c1a4) |
 | Wed, 29 Oct 2025 11:20:20 GMT | Facebook Now Deep-Scans ALL Your Photos with AI | Karl Buhl | [Read More](https://medium.com/p/00fcb587f133) |
 | Wed, 29 Oct 2025 11:19:26 GMT | 5 Smart Strategies to Reduce Theft & Shrinkage in Your Business with CCTV Monitoring | Muhammadzohaib | [Read More](https://medium.com/p/16f60efb459f) |
 | Wed, 29 Oct 2025 11:16:39 GMT | Why CCTV Monitoring Security in Alberta is a Smart Move” | Muhammadzohaib | [Read More](https://medium.com/p/e6e19cda7738) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 07:32:09 GMT | The New Face of Phishing: Why Security Isn’t Just for “Security People” | Kristiyan Velkov | [Read More](https://medium.com/p/0ec10c06c2f6) |
 | Wed, 29 Oct 2025 07:31:03 GMT | Building Security Champions: Tips for Effective Awareness Campaigns | Yash Patel | [Read More](https://medium.com/p/aa4e610485dc) |
 | Wed, 29 Oct 2025 07:29:07 GMT | My Cybersecurity Learning Journey Begins: From Curiosity to Cyber Defense | Zamin Mirzad | [Read More](https://medium.com/p/e7beb35a8515) |
-| Wed, 29 Oct 2025 07:26:54 GMT | Boost Your Business Security with Managed Cybersecurity Services | UNBOUND-IT | [Read More](https://medium.com/p/3026569daebc) |
-| Wed, 29 Oct 2025 07:26:17 GMT | Man arrested in connection with Cyber Attack on Airports | Himanshu Bhatt | [Read More](https://medium.com/p/1df210e43e61) |
-| Wed, 29 Oct 2025 07:25:11 GMT | Palo Alto Networks Unit 42 Retainer: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/912373bb7f41) |
-| Wed, 29 Oct 2025 07:24:20 GMT | MITRE ATT&CK Nedir? Örneklerle Taktikler, Teknikler, IOC ve TTP | Onur Altuğ | [Read More](https://medium.com/p/7d5abce12cd3) |
-| Wed, 29 Oct 2025 07:18:06 GMT | Understanding TCP/IP: The Backbone of Networking and Cybersecurity | Tanmay Kulkanri | [Read More](https://medium.com/p/168b9e6cfef5) |
-| Wed, 29 Oct 2025 07:15:21 GMT | Top Cybersecurity Certifications for High-Paying Careers. | Mukesh Giri | [Read More](https://medium.com/p/651592e42efa) |
-| Wed, 29 Oct 2025 07:12:02 GMT | When a cyberattack becomes a macroeconomic event | Christopher Franskin | [Read More](https://medium.com/p/7e093b953dc7) |
-| Wed, 29 Oct 2025 07:11:27 GMT | Part 2: Mastering Lateral Movement with Ligolo-ng | own_the_net | [Read More](https://medium.com/p/dac616946fb2) |
-| Wed, 29 Oct 2025 07:05:44 GMT | Just-In-Time Asset Access in JumpServer | LXware | [Read More](https://medium.com/p/6612e1101115) |
-| Wed, 29 Oct 2025 07:03:06 GMT | SPARK Matrix™: Managed Detection & Response Unveiling Top Vendors Driving the Future of… | Shamita Patel | [Read More](https://medium.com/p/4e8a503b8500) |
-| Wed, 29 Oct 2025 07:01:50 GMT | Best VAPT Services Provider in India | Mathewneelan | [Read More](https://medium.com/p/747f1c4173d2) |
-| Wed, 29 Oct 2025 06:58:22 GMT | Breaking and Defending API Keys: A Hacker’s Playbook for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/b67e50badc94) |
-| Wed, 29 Oct 2025 06:58:04 GMT | AI-Assisted Exploits: What the Future of Hacking Looks Like | Fatih ÖĞLÜ | [Read More](https://medium.com/p/72f09fd17a22) |
-| Wed, 29 Oct 2025 06:55:13 GMT | Unlock Special Pricing On Genuine Microsoft Software: Don’t Miss Out! | Best Software Buy | [Read More](https://medium.com/p/b3cef913b808) |
-| Wed, 29 Oct 2025 06:55:10 GMT | 2025 Trends: Smarter Network Monitoring and IT Help Desk Solutions | Elliman Technologies | [Read More](https://medium.com/p/d2fb3ec8c7e0) |
-| Wed, 29 Oct 2025 06:53:02 GMT | Bridging the Gap: SQL Injection — From Payloads to Prepared Statements | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/9263d2e7ff68) |
-| Wed, 29 Oct 2025 06:32:17 GMT | One of the most insightful parts of my cybersecurity training was understanding how attackers… | Adeleke Theophilus O | [Read More](https://medium.com/p/12ac20cd4211) |
-| Wed, 29 Oct 2025 06:24:19 GMT | Why Professional Bouncers Are Crucial for Maintaining Safety at High-Profile Venues | Ankit Singh | [Read More](https://medium.com/p/dececee3a08c) |
-| Wed, 29 Oct 2025 06:21:52 GMT | Tester, c’est douter ! | Valentin Thion | [Read More](https://medium.com/p/8618d5c88653) |
-| Wed, 29 Oct 2025 06:00:25 GMT | Building a ChatGPT-Powered Playbook in Microsoft Sentinel | X2Tech | [Read More](https://medium.com/p/d35a8c160223) |
