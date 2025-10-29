@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 09:22:16 GMT | THM — LazyAdmin | Firhansanad | [Read More](https://medium.com/p/44a706a192a5) |
+| Wed, 29 Oct 2025 09:20:23 GMT | How Encryption Keeps Your Digital Information Safe | Dkvilas | [Read More](https://medium.com/p/eab425b49ade) |
+| Wed, 29 Oct 2025 09:17:51 GMT | So… I Could Control the OTP ‍♂️ | Rajveer | [Read More](https://medium.com/p/503ba61997ff) |
+| Wed, 29 Oct 2025 09:16:49 GMT | Overview | Bruzzese Roberto | [Read More](https://medium.com/p/0f18f39d685a) |
+| Wed, 29 Oct 2025 09:16:20 GMT | Cybersecurity in the Age of Artificial Intelligence | Vozniak Nazar | [Read More](https://medium.com/p/08513991dfb2) |
 | Wed, 29 Oct 2025 09:12:35 GMT | From Shared to VPS: Finding the Right Hosting Without Overspending | Andy | [Read More](https://medium.com/p/e869d5fa88a1) |
 | Wed, 29 Oct 2025 09:06:47 GMT | From Login to Full Access Control — The Danger of SQL Injection in Username Fields | Yaliyanto | [Read More](https://medium.com/p/123b169ddcfd) |
 | Wed, 29 Oct 2025 09:05:16 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/546a2c878414) |
@@ -27,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 08:48:28 GMT | The Night Watch and the Standard of Safety: Why Professional Security is Non-Negotiable in Kochi | Sambhu Sunil | [Read More](https://medium.com/p/fd3b7f52403b) |
 | Wed, 29 Oct 2025 08:46:21 GMT | Data Exfiltration Explained: How to Use Splunk and Wireshark to Detect Data Exfiltration | Motasem Hamdan | [Read More](https://medium.com/p/dd56367016e0) |
 | Wed, 29 Oct 2025 08:45:00 GMT | Empowering Secure Spaces with Checkpoint Access | Office | [Read More](https://medium.com/p/c8783b791638) |
+| Wed, 29 Oct 2025 08:43:09 GMT | ঢাকার ব্যস্ততম এলাকা গ্রীন রোডের একটি স্বনামধন্য হাসপাতালের স্টোর হাউজে সম্প্রতি ZKTeco F18 Access… | optimationbd | [Read More](https://medium.com/p/68a34b5d365f) |
 | Wed, 29 Oct 2025 08:43:05 GMT | From Design to Launch: Hosting Plans That Actually Fit Your Budget | Janet Watson | [Read More](https://medium.com/p/e80b2a62e0b2) |
 | Wed, 29 Oct 2025 08:40:33 GMT | Information disclosure vulnerabilities -Free hands on PortswiggerLabs | L4V4NY4  AGR3 | [Read More](https://medium.com/p/34170ac247de) |
 | Wed, 29 Oct 2025 08:38:08 GMT | Simple, Smart, and Free Online Calculators for Everyday Life | Ramzan Aslam | [Read More](https://medium.com/p/a9040312a905) |
@@ -106,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 01:51:00 GMT | You Think You’re a Good Person. But You’re Probably a Low-Key Criminal. | Sami Ullah Zaheer | [Read More](https://medium.com/p/d60cda6f8dab) |
 | Wed, 29 Oct 2025 01:41:41 GMT | CORS Vulnerability | Fatimahasan | [Read More](https://medium.com/p/fdf22666776c) |
 | Wed, 29 Oct 2025 01:40:41 GMT | GlassWorm: Self-Propagating Worm Compromises VSCode Extensions | Wraith | [Read More](https://medium.com/p/83b61afc7616) |
-| Wed, 29 Oct 2025 01:33:04 GMT | Oracle EBS Runtime Interface Vulnerability Leads to Data Exposure (CVE-2025–61884) | Criminal IP | [Read More](https://medium.com/p/1fa051587de2) |
-| Wed, 29 Oct 2025 01:23:51 GMT | PostgreSQL 17 vs 18: The Hidden Upgrade That Makes Your Queries Run Instantly | Rizqi Mulki | [Read More](https://medium.com/p/3e4952eb46b0) |
-| Wed, 29 Oct 2025 01:23:13 GMT | 8 Types of Malware and How They Really Work in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/0cd0e066bb80) |
-| Wed, 29 Oct 2025 01:06:36 GMT | Getting Started with Bash-Day 1 of My Cybersecurity Journey | Sammy | [Read More](https://medium.com/p/8b67dce8d306) |
-| Wed, 29 Oct 2025 01:02:20 GMT | The Role of Employee Training in Cybersecurity | TRS Wireless | [Read More](https://medium.com/p/886d640300be) |
-| Wed, 29 Oct 2025 00:47:08 GMT | Ghosting Your Old Network: The Bold Strategy That Unlocked $500K in Hidden Opportunities | Olivia Muhammad
-Muhammad's
-M
-Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
