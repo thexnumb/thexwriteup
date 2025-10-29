@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 23:36:51 GMT | DC-1 — Full walkthrough | Vaibhav | [Read More](https://medium.com/p/a24c7e4bd046) |
+| Wed, 29 Oct 2025 23:28:23 GMT | Seized Lab Writeup | Jaws | [Read More](https://medium.com/p/3f96a47e6f18) |
+| Wed, 29 Oct 2025 23:21:33 GMT | One ID Change, Many Accounts: Exploiting an IDOR in a User API | mwael0x | [Read More](https://medium.com/p/3863669ab509) |
+| Wed, 29 Oct 2025 23:19:09 GMT | CVE-2025–59287: When WSUS turns from a trusted patch server into an attacker launchpad | Rabbit Knight | [Read More](https://medium.com/p/39e571745381) |
+| Wed, 29 Oct 2025 23:15:55 GMT | Schnell umsetzbare & langfristige Strategien für mehr Website-Traffic | Julia Ahrens | [Read More](https://medium.com/p/042ae560aa15) |
 | Wed, 29 Oct 2025 23:10:52 GMT | The Truth About “Renting Out” Your LLC | Internet Exposed | [Read More](https://medium.com/p/8bd9298d266a) |
 | Wed, 29 Oct 2025 23:04:18 GMT | Enabling AI Adoption: Building the Foundation for Trusted Innovation with Continuous Data Risk… | Nick Deshpande | [Read More](https://medium.com/p/62a8b0cdba5d) |
 | Wed, 29 Oct 2025 23:02:30 GMT | Why I Don’t Trust Password Generators (So I Built My Own) | Atypicvoyage | [Read More](https://medium.com/p/9dc3c988bfad) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 16:26:46 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/57a59e00080c) |
 | Wed, 29 Oct 2025 16:22:22 GMT | Stop the Reuse Habit: Length and Uniqueness Win the Password War! ️ | Technology EM3 | [Read More](https://medium.com/p/9e6ea6c8cb02) |
 | Wed, 29 Oct 2025 16:22:11 GMT | Big Data : Spark SQL | Yasa Wijaya | [Read More](https://medium.com/p/9d74af205b8b) |
-| Wed, 29 Oct 2025 16:20:09 GMT | Fortinet FortiSandbox 3000E Network Security/Firewall Appliance FSA-3000E-USG HW PLUS… | Sonicomp | [Read More](https://medium.com/p/7e4bb4bfcd50) |
-| Wed, 29 Oct 2025 16:17:31 GMT | How SSL Certificates Work in Web Applications—What I think? | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/c275c6ce922d) |
-| Wed, 29 Oct 2025 16:16:02 GMT | Homework 3 RSA and Frequency Analysis | HrudaySagarG | [Read More](https://medium.com/p/2e9aa6a002e7) |
-| Wed, 29 Oct 2025 16:11:01 GMT | Network Address Translation (NAT): Understanding the Mechanisms Behind Address Translation | El Hadji Sidya Badji | [Read More](https://medium.com/p/2dbbf2035f9c) |
-| Wed, 29 Oct 2025 16:08:48 GMT | Root, Jailbreak, Emulator: How to Detect and Block Them in Your Android App | Odunayo Dada | [Read More](https://medium.com/p/187c1aa9b134) |
