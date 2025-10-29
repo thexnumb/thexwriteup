@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 16:50:58 GMT | Looks Can be Deceiving: Wolves are Hunting Your Information | Danielle Koppel | [Read More](https://medium.com/p/ea8e8a0cacf9) |
+| Wed, 29 Oct 2025 16:38:51 GMT | How I Became the Digital Spider-Man: Swinging Through Every Security Layer ️️ | Iski | [Read More](https://medium.com/p/7882e394832b) |
+| Wed, 29 Oct 2025 16:34:45 GMT | Unlock Lucrative JV Partnerships: The Value-First Networking Blueprint for Entrepreneurs | Olivia Muhammad | [Read More](https://medium.com/p/fefab77d49e8) |
 | Wed, 29 Oct 2025 16:28:47 GMT | How to Download and Install Kali Linux: Two Easy Methods (Host & VirtualBox) Download Kali Linux… | Aaditya Raj Singh | [Read More](https://medium.com/p/a5e6a3f6b425) |
+| Wed, 29 Oct 2025 16:26:46 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/57a59e00080c) |
 | Wed, 29 Oct 2025 16:22:22 GMT | Stop the Reuse Habit: Length and Uniqueness Win the Password War! ️ | Technology EM3 | [Read More](https://medium.com/p/9e6ea6c8cb02) |
 | Wed, 29 Oct 2025 16:22:11 GMT | Big Data : Spark SQL | Yasa Wijaya | [Read More](https://medium.com/p/9d74af205b8b) |
+| Wed, 29 Oct 2025 16:20:09 GMT | Fortinet FortiSandbox 3000E Network Security/Firewall Appliance FSA-3000E-USG HW PLUS… | Sonicomp | [Read More](https://medium.com/p/7e4bb4bfcd50) |
 | Wed, 29 Oct 2025 16:17:31 GMT | How SSL Certificates Work in Web Applications—What I think? | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/c275c6ce922d) |
+| Wed, 29 Oct 2025 16:16:02 GMT | Homework 3 RSA and Frequency Analysis | HrudaySagarG | [Read More](https://medium.com/p/2e9aa6a002e7) |
 | Wed, 29 Oct 2025 16:11:01 GMT | Network Address Translation (NAT): Understanding the Mechanisms Behind Address Translation | El Hadji Sidya Badji | [Read More](https://medium.com/p/2dbbf2035f9c) |
 | Wed, 29 Oct 2025 16:08:48 GMT | Root, Jailbreak, Emulator: How to Detect and Block Them in Your Android App | Odunayo Dada | [Read More](https://medium.com/p/187c1aa9b134) |
 | Wed, 29 Oct 2025 16:06:01 GMT | Siber Saldırıların Anatomisi: 7 Aşamada Cyber Kill Chain | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/9f688604b6f5) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 11:16:39 GMT | Why CCTV Monitoring Security in Alberta is a Smart Move” | Muhammadzohaib | [Read More](https://medium.com/p/e6e19cda7738) |
 | Wed, 29 Oct 2025 11:16:28 GMT | Everything you need to know about anonymous proxies, and how they outperform alternatives | Martin E. | [Read More](https://medium.com/p/0d514e7097d7) |
 | Wed, 29 Oct 2025 11:10:33 GMT | Digital Shield: Forging an Unbreachable Line of Digital Sovereignty with Verifiable Security | Digital Shield | [Read More](https://medium.com/p/6a7265fe6a5e) |
-| Wed, 29 Oct 2025 11:09:30 GMT | OCI CIS 3.0 Compliance Report | Karthic | [Read More](https://medium.com/p/30e4164fa8d1) |
-| Wed, 29 Oct 2025 11:07:26 GMT | Shattering the Crypto Security Paradox: How Digital Shield Puts Digital Sovereignty Back in Your… | Digital Shield | [Read More](https://medium.com/p/fb442e56764d) |
-| Wed, 29 Oct 2025 11:06:30 GMT | Locked Liquidity or Locked Holders? | Block Hawk Security Audit | [Read More](https://medium.com/p/de3619ad8d86) |
-| Wed, 29 Oct 2025 11:04:16 GMT | Why I Want to Be Securing Humane And Sustainable Tech | E. Ibrahimi | [Read More](https://medium.com/p/69de59623343) |
-| Wed, 29 Oct 2025 11:01:54 GMT | The GDPR Blind Spot No One Talks About: AI Models That Remember | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/fc53e4c6b91a) |
-| Wed, 29 Oct 2025 11:00:26 GMT | Best Python Course for Beginners with Certificate: Learn Coding from Scratch | cyber security Updates | [Read More](https://medium.com/p/61c62b36f0c3) |
