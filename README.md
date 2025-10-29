@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 16:28:47 GMT | How to Download and Install Kali Linux: Two Easy Methods (Host & VirtualBox) Download Kali Linux… | Aaditya Raj Singh | [Read More](https://medium.com/p/a5e6a3f6b425) |
+| Wed, 29 Oct 2025 16:22:22 GMT | Stop the Reuse Habit: Length and Uniqueness Win the Password War! ️ | Technology EM3 | [Read More](https://medium.com/p/9e6ea6c8cb02) |
+| Wed, 29 Oct 2025 16:22:11 GMT | Big Data : Spark SQL | Yasa Wijaya | [Read More](https://medium.com/p/9d74af205b8b) |
+| Wed, 29 Oct 2025 16:17:31 GMT | How SSL Certificates Work in Web Applications—What I think? | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/c275c6ce922d) |
+| Wed, 29 Oct 2025 16:11:01 GMT | Network Address Translation (NAT): Understanding the Mechanisms Behind Address Translation | El Hadji Sidya Badji | [Read More](https://medium.com/p/2dbbf2035f9c) |
+| Wed, 29 Oct 2025 16:08:48 GMT | Root, Jailbreak, Emulator: How to Detect and Block Them in Your Android App | Odunayo Dada | [Read More](https://medium.com/p/187c1aa9b134) |
+| Wed, 29 Oct 2025 16:06:01 GMT | Siber Saldırıların Anatomisi: 7 Aşamada Cyber Kill Chain | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/9f688604b6f5) |
+| Wed, 29 Oct 2025 16:05:22 GMT | Cybersecurity Stops Attacks. Cyber Insurance Saves Your Business. You Need Both. | Paradise technologies Inc | [Read More](https://medium.com/p/cb6ccb77aef9) |
+| Wed, 29 Oct 2025 16:01:37 GMT | When a Bug Takes Days to Fix… and Still Refuses to Die | Jaya Vishwakarma | [Read More](https://medium.com/p/356993327143) |
+| Wed, 29 Oct 2025 16:01:17 GMT | The Dilemma of Being in Corporate Cybersecurity — 10 Months In | Samyakgoel | [Read More](https://medium.com/p/748f0bc51d92) |
+| Wed, 29 Oct 2025 15:59:03 GMT | MITRE - THM | Isiah | [Read More](https://medium.com/p/2960c02ae755) |
+| Wed, 29 Oct 2025 15:50:19 GMT | Top 10 Cybersecurity Projects You Can’t Miss in 2026 | Maverick Steel | [Read More](https://medium.com/p/7b31b8d7a8f9) |
+| Wed, 29 Oct 2025 15:50:12 GMT | How to Use Recall Assist to Instantly Find Anything You’ve Seen | nodminger | [Read More](https://medium.com/p/44c85b06680c) |
+| Wed, 29 Oct 2025 15:44:17 GMT | Inside the Modern Phishing Trap | Saarthak Mahajan | [Read More](https://medium.com/p/c5ef3a11bf9a) |
+| Wed, 29 Oct 2025 15:42:31 GMT | # Why That Free Truck Stop WiFi Just Cost Someone Their Business (And How It Could Happen to You) | Donavan Goodman | [Read More](https://medium.com/p/0e046b03ca0f) |
+| Wed, 29 Oct 2025 15:36:49 GMT | BlackHatindian Cybersecurity Researcher | blackhatindian | [Read More](https://medium.com/p/e56235d6f137) |
 | Wed, 29 Oct 2025 15:31:25 GMT | Federated Learning: The Future of Privacy-Preserving AI | Nikhilsaimanam | [Read More](https://medium.com/p/11bd544118dd) |
 | Wed, 29 Oct 2025 15:20:38 GMT | What If Dating Apps Let You Change Their App Icon? | Karishma Agrawal | [Read More](https://medium.com/p/6042a744efc0) |
 | Wed, 29 Oct 2025 15:16:45 GMT | Série: Construindo um Orçamento de TI Inteligente e Integrado | Anderson Oliveira | [Read More](https://medium.com/p/5ae7c5a15baa) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 11:04:16 GMT | Why I Want to Be Securing Humane And Sustainable Tech | E. Ibrahimi | [Read More](https://medium.com/p/69de59623343) |
 | Wed, 29 Oct 2025 11:01:54 GMT | The GDPR Blind Spot No One Talks About: AI Models That Remember | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/fc53e4c6b91a) |
 | Wed, 29 Oct 2025 11:00:26 GMT | Best Python Course for Beginners with Certificate: Learn Coding from Scratch | cyber security Updates | [Read More](https://medium.com/p/61c62b36f0c3) |
-| Wed, 29 Oct 2025 10:55:12 GMT | IDA Pro — Powerful Disassembler | ArtistaPirata | [Read More](https://medium.com/p/8e9bfc7a94c6) |
-| Wed, 29 Oct 2025 10:55:10 GMT | The Backslash Bug: How a Tiny Path Glitch in Vite Could Leak Your Secrets | Mohammad Abir Abbas | [Read More](https://medium.com/p/9641de420f5e) |
-| Wed, 29 Oct 2025 10:38:08 GMT | The Modern Villa: If your house isn’t smart, you’re just paying for the walls! | Quemahtech | [Read More](https://medium.com/p/60d8b15e9f9a) |
-| Wed, 29 Oct 2025 10:37:34 GMT | The Illusion of Security: Why a Lack of Open-Source Integrity Leads to Broken Hacking Code | VolkanŞah | [Read More](https://medium.com/p/f6b4ae34c2d0) |
-| Wed, 29 Oct 2025 10:36:58 GMT | Why Businesses Need SOC-as-a-Service Providers | Balaji | [Read More](https://medium.com/p/d68b9c30bc85) |
-| Wed, 29 Oct 2025 10:33:02 GMT | The Role of Cybersecurity Specialists in Preventing Ransomware Attacks | SmartCLOUD Australia | [Read More](https://medium.com/p/190a814c9ade) |
-| Wed, 29 Oct 2025 10:32:04 GMT | Understanding Email Spoofing — How Attackers Impersonate Trusted Senders | Natarajan C K | [Read More](https://medium.com/p/a848da39307f) |
-| Wed, 29 Oct 2025 10:28:47 GMT | “The List That Shouldn’t Exist” | Darknetsearch.com | [Read More](https://medium.com/p/f7ecc00f0d46) |
-| Wed, 29 Oct 2025 10:22:03 GMT | From WordPress to VPS: Finding Hosting That Actually Delivers | Ann Taylor | [Read More](https://medium.com/p/a9e0ed060e51) |
-| Wed, 29 Oct 2025 10:20:57 GMT | Back Up Your Data | AA LAWSNG | [Read More](https://medium.com/p/598fa49cec9e) |
-| Wed, 29 Oct 2025 10:19:16 GMT | Top 10 Most Dangerous Hackers in History | Manisha Chaudhary | [Read More](https://medium.com/p/7bc11cec70c7) |
-| Wed, 29 Oct 2025 10:08:14 GMT | Corporate OSINT Recon: How Attackers Profile Companies Before Launching an Attack | Travis Ray Caverhill | [Read More](https://medium.com/p/01c44f8e0245) |
-| Wed, 29 Oct 2025 10:06:07 GMT | DMARC is no longer optional: Get started with ease | Red Sift | [Read More](https://medium.com/p/1d6ac703f927) |
-| Wed, 29 Oct 2025 10:00:31 GMT | Applied Cryptography: Building the Secure Digital World | Samina Perveen | [Read More](https://medium.com/p/aa56708cf1c8) |
-| Wed, 29 Oct 2025 09:59:59 GMT | AI is Already Everywhere — But Is It Governed Right? | Vijay Kumar Gupta | [Read More](https://medium.com/p/173c51a31050) |
-| Wed, 29 Oct 2025 09:55:22 GMT | TryHackMe — Friday Overtime | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/70f96fad8223) |
