@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 18:23:54 GMT | Homework 4 : | HrudaySagarG | [Read More](https://medium.com/p/46203dfb6258) |
+| Wed, 29 Oct 2025 18:22:46 GMT | Siber Güvenlikte Acı Piramidi (Pyramid of Pain) | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/8b1aba73009c) |
+| Wed, 29 Oct 2025 18:22:01 GMT | Phishing Emails- Mini SOC investigation | Jenna S | [Read More](https://medium.com/p/e8615cc7f7eb) |
+| Wed, 29 Oct 2025 18:18:31 GMT | The Cat-and-Mouse Game of a Cloud Metadata SSRF Vulnerability | Ramshath | [Read More](https://medium.com/p/6efbb26e216a) |
+| Wed, 29 Oct 2025 18:12:02 GMT | The Future of OT Cybersecurity: AI, Regulation, and Resilience | Cyberkech | [Read More](https://medium.com/p/6eec6b5b950d) |
+| Wed, 29 Oct 2025 18:10:20 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/49584901470b) |
+| Wed, 29 Oct 2025 18:09:07 GMT | CVE Record Format Version 5.2.0 and CVE Services Version 2.6.0 Now Available | CVE Program Blog | [Read More](https://medium.com/p/ea756eee3659) |
+| Wed, 29 Oct 2025 18:05:21 GMT | Physical Security & Cybersecurity: How Their Strategies Diverge | Joven A Rodrigues | [Read More](https://medium.com/p/1be5009099b8) |
+| Wed, 29 Oct 2025 18:04:21 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/5026d193c4da) |
+| Wed, 29 Oct 2025 18:03:51 GMT | Non-Brute Forcing RSA and ECC | Nicholas Ord | [Read More](https://medium.com/p/22712f8ae36d) |
+| Wed, 29 Oct 2025 17:57:42 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/a2d163fed553) |
+| Wed, 29 Oct 2025 17:53:09 GMT | Protecting Patient Data- A Cybersecurity Checklist for Healthcare Leaders | ManagedIT_Expert | [Read More](https://medium.com/p/a2439a0961e5) |
+| Wed, 29 Oct 2025 17:51:59 GMT | Cyber Security: Vulnerability Assessment and Penetration Testing | Cyber Security Research | [Read More](https://medium.com/p/dc228fd049cc) |
+| Wed, 29 Oct 2025 17:46:23 GMT | Privilege Escalation — From Member to Organization Takeover | Ahmed Mahmoud | [Read More](https://medium.com/p/4fb603817196) |
+| Wed, 29 Oct 2025 17:46:07 GMT | Cyber Security: The Ethics of Digital Defense | Cyber Security Research | [Read More](https://medium.com/p/70915deddf59) |
+| Wed, 29 Oct 2025 17:42:41 GMT | From Silent Overthinking to Bold Sharing | Maria Jose Nava | [Read More](https://medium.com/p/7e1c7c75e415) |
+| Wed, 29 Oct 2025 17:39:03 GMT | Cyber Security: Artificial Intelligence and Machine Learning | Cyber Security Research | [Read More](https://medium.com/p/710ddf9c84d8) |
+| Wed, 29 Oct 2025 17:38:48 GMT | The AI Standard Wars We’ve Seen Before | Paul M Jankowski | [Read More](https://medium.com/p/29d5ce991502) |
 | Wed, 29 Oct 2025 17:37:38 GMT | Modern Cyber Defense: The Growing Role of AI and Machine Learning Against Ransomware | Rashadul Islam | [Read More](https://medium.com/p/f90e4d9708e2) |
+| Wed, 29 Oct 2025 17:37:37 GMT | Your Network is Only as Strong as Your Weakest Partner: The Supply Chain Risk ⚠️ | Technology EM3 | [Read More](https://medium.com/p/9f487c4e996c) |
+| Wed, 29 Oct 2025 17:31:52 GMT | All In One Tryhackme Room | Mainekhacker | [Read More](https://medium.com/p/30f2f928a5c5) |
 | Wed, 29 Oct 2025 17:30:34 GMT | Question‍♂️ | Desmond | [Read More](https://medium.com/p/278baabc47b6) |
 | Wed, 29 Oct 2025 17:30:13 GMT | WordPress Security Best Practices You Can’t Afford to Ignore | Ibbad Ullah | [Read More](https://medium.com/p/d0c0061ba9c2) |
 | Wed, 29 Oct 2025 17:29:29 GMT | 10 Splunk Search Commands Every Cybersecurity Analyst Should Master (SPL Cheat Sheet) | Omar Maged Ahmed | [Read More](https://medium.com/p/cb3ad38814b8) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 13:31:55 GMT | When OAuth Becomes a Weapon: AI Agents Authentication Crisis | Nwosu Rosemary | [Read More](https://medium.com/p/c356867e6c37) |
 | Wed, 29 Oct 2025 13:22:58 GMT | InHouse Splunk ES Automation-Eps 2 | Aufarifqi | [Read More](https://medium.com/p/5c09486f6cd4) |
 | Wed, 29 Oct 2025 13:12:35 GMT | Cybersecurity Risk Management in 2025: Trends, Market Analysis, and Investment Prospects | Manasi Stalwart | [Read More](https://medium.com/p/eb5c5e7b973a) |
-| Wed, 29 Oct 2025 13:06:50 GMT | From a Simple IDOR to a Major Security Finding | Ibtissam hammadi | [Read More](https://medium.com/p/6386077e4b8d) |
-| Wed, 29 Oct 2025 13:05:19 GMT | Demystifying ISA 62443 (Part 1): What is ISA 62443 and Why Should You Care | Suhail R. Ahmad | [Read More](https://medium.com/p/8dacc1224f0f) |
-| Wed, 29 Oct 2025 13:04:32 GMT | F5 Is Misleading the Market — The Breach Is Nowhere Near Contained | Deep Specter Research | [Read More](https://medium.com/p/a766d932c582) |
-| Wed, 29 Oct 2025 13:02:03 GMT | Obfuscated JavaScript (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/9f90f36ad93e) |
-| Wed, 29 Oct 2025 13:02:00 GMT | 30 Days of Red Team: Day 4 — Delivery: Social Engineering & Phishing Infrastructure | Maxwell Cross | [Read More](https://medium.com/p/4d46f27cbd35) |
-| Wed, 29 Oct 2025 13:01:29 GMT | Understanding Race Conditions in Web Applications: Vulnerabilities, Exploits, and Mitigations | Sumit Sah | [Read More](https://medium.com/p/96a2fbca39c8) |
-| Wed, 29 Oct 2025 12:58:54 GMT | Why File Type Validation is Always an Untrusted Check | Ferran Verdés | [Read More](https://medium.com/p/e547fbe945ea) |
-| Wed, 29 Oct 2025 12:56:38 GMT | “New MAC, Who Dis?” How to disappear online | SilentInject | [Read More](https://medium.com/p/0a5194640c37) |
-| Wed, 29 Oct 2025 12:54:58 GMT | What is security? | Ramanujan | [Read More](https://medium.com/p/8c60e5224ab2) |
-| Wed, 29 Oct 2025 12:53:34 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ducat India | [Read More](https://medium.com/p/20f14342dfc8) |
-| Wed, 29 Oct 2025 12:53:32 GMT | Best Ethical Hacking Training in Noida - Ducat India | Neeraj0710 | [Read More](https://medium.com/p/8d35ac01e7a8) |
-| Wed, 29 Oct 2025 12:43:05 GMT | [OverTheWire] Bandit Level 19 → 20 | H$nt | [Read More](https://medium.com/p/4e1463b198ae) |
-| Wed, 29 Oct 2025 12:38:17 GMT | Bandit OverTheWire writeup — Level 1-> 2 | Dawid Kowalski | [Read More](https://medium.com/p/25a6c8970c96) |
-| Wed, 29 Oct 2025 12:36:50 GMT | Unattended. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/5f24d998a28e) |
-| Wed, 29 Oct 2025 12:36:06 GMT | Cyber Security Degree Online: Best Courses, Career Scope, and Benefits | Crawsec | [Read More](https://medium.com/p/f9d7c754f83c) |
-| Wed, 29 Oct 2025 12:34:39 GMT | Cyber Security Trends 2025 | Leonidas Gorgo | [Read More](https://medium.com/p/843abbc2f908) |
-| Wed, 29 Oct 2025 12:31:52 GMT | Dark Patterns in Security UX: Are They Ethical? | Kambetastephano | [Read More](https://medium.com/p/07a0a95b9f69) |
-| Wed, 29 Oct 2025 12:31:52 GMT | Boost Home Safety: Only hese 7 Tiny Gadgets with Huge Impact You Need | Azeeza | [Read More](https://medium.com/p/2374d93d3451) |
-| Wed, 29 Oct 2025 12:29:45 GMT | A step-by-step guide to automotive cybersecurity in 2025 | Cyberbali | [Read More](https://medium.com/p/e18fd9a8f81e) |
-| Wed, 29 Oct 2025 12:27:52 GMT | 9 Lombok Traps That Cost Me 100+ Bugs (And the Bulletproof Fixes) | inside Nikita's Mind | [Read More](https://medium.com/p/8defd05dd2a5) |
