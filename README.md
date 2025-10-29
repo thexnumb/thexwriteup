@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 07:33:41 GMT | Partnering with RedSide Security: Building Stronger Defenses Through Real-World Experience | James | [Read More](https://medium.com/p/26ce0e26edce) |
+| Wed, 29 Oct 2025 07:32:09 GMT | The Minimum Secure Spring App | Thinking Loop | [Read More](https://medium.com/p/fd04402a43f2) |
+| Wed, 29 Oct 2025 07:32:09 GMT | The New Face of Phishing: Why Security Isn’t Just for “Security People” | Kristiyan Velkov | [Read More](https://medium.com/p/0ec10c06c2f6) |
+| Wed, 29 Oct 2025 07:31:03 GMT | Building Security Champions: Tips for Effective Awareness Campaigns | Yash Patel | [Read More](https://medium.com/p/aa4e610485dc) |
+| Wed, 29 Oct 2025 07:29:07 GMT | My Cybersecurity Learning Journey Begins: From Curiosity to Cyber Defense | Zamin Mirzad | [Read More](https://medium.com/p/e7beb35a8515) |
+| Wed, 29 Oct 2025 07:26:54 GMT | Boost Your Business Security with Managed Cybersecurity Services | UNBOUND-IT | [Read More](https://medium.com/p/3026569daebc) |
+| Wed, 29 Oct 2025 07:26:17 GMT | Man arrested in connection with Cyber Attack on Airports | Himanshu Bhatt | [Read More](https://medium.com/p/1df210e43e61) |
+| Wed, 29 Oct 2025 07:25:11 GMT | Palo Alto Networks Unit 42 Retainer: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/912373bb7f41) |
+| Wed, 29 Oct 2025 07:24:20 GMT | MITRE ATT&CK Nedir? Örneklerle Taktikler, Teknikler, IOC ve TTP | Onur Altuğ | [Read More](https://medium.com/p/7d5abce12cd3) |
+| Wed, 29 Oct 2025 07:18:06 GMT | Understanding TCP/IP: The Backbone of Networking and Cybersecurity | Tanmay Kulkanri | [Read More](https://medium.com/p/168b9e6cfef5) |
 | Wed, 29 Oct 2025 07:15:21 GMT | Top Cybersecurity Certifications for High-Paying Careers. | Mukesh Giri | [Read More](https://medium.com/p/651592e42efa) |
 | Wed, 29 Oct 2025 07:12:02 GMT | When a cyberattack becomes a macroeconomic event | Christopher Franskin | [Read More](https://medium.com/p/7e093b953dc7) |
 | Wed, 29 Oct 2025 07:11:27 GMT | Part 2: Mastering Lateral Movement with Ligolo-ng | own_the_net | [Read More](https://medium.com/p/dac616946fb2) |
@@ -105,13 +115,3 @@ Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
 | Tue, 28 Oct 2025 21:09:07 GMT | Hacking APIs: Exploiting Batch and Mass Assignment | Israel Aráoz Severiche | [Read More](https://medium.com/p/3b67a56dbd01) |
 | Tue, 28 Oct 2025 21:04:27 GMT | The Peacock Syndrome”: Why Your List of Accomplishments Bores Me (and the One Thing I Actually Want… | Mia Nor | [Read More](https://medium.com/p/c8d97e81847b) |
 | Tue, 28 Oct 2025 21:00:48 GMT | Day 23 of my Cybersecurity Journey: Hashing Basics I | Ogundipe Priscilla | [Read More](https://medium.com/p/2db3c071c6c0) |
-| Tue, 28 Oct 2025 20:59:05 GMT | Eli Lab Writeup | Jaws | [Read More](https://medium.com/p/0d7b3c926821) |
-| Tue, 28 Oct 2025 20:52:06 GMT | PowerShell Code Signing Introduction for Security-Conscious Professionals | Gareth John | [Read More](https://medium.com/p/27d2583682fd) |
-| Tue, 28 Oct 2025 20:39:02 GMT | INTRODUCTION TO CYBER SECURITY By Martin Onyisi | Martin Onyisi | [Read More](https://medium.com/p/2ed1f06050db) |
-| Tue, 28 Oct 2025 20:36:33 GMT | No More AWS Keys on Servers: The Zero-Credential Way to Access AWS Resources from Anywhere | NIKHIL P PAWAR | [Read More](https://medium.com/p/2227a88f28e5) |
-| Tue, 28 Oct 2025 20:25:51 GMT | Pentagon’s $310M F-16 Deal Hides Software Locks: Ukraine Can’t Modify Weapons Systems | Global Intelligence Desk | [Read More](https://medium.com/p/32d2f7aeb822) |
-| Tue, 28 Oct 2025 20:24:56 GMT | Deep Dive: Fuel CMS 1.4.1 RCE Exploitation (CVE-2018-16763) | Yen Wang | [Read More](https://medium.com/p/1ee621fa9a4b) |
-| Tue, 28 Oct 2025 20:20:59 GMT | imToken Activity Report : October 2025 | imToken Persian Community | [Read More](https://medium.com/p/52262285ec38) |
-| Tue, 28 Oct 2025 20:16:49 GMT | [Part 10] EU Cyber Resilience Act: Centralizing Compliance with NIS2, DORA, and ISO 27001 | Cyberkech | [Read More](https://medium.com/p/1eee9f9796db) |
-| Tue, 28 Oct 2025 20:15:54 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/34de2bb53a3b) |
-| Tue, 28 Oct 2025 20:10:45 GMT | Postman HTB | Aaronashley | [Read More](https://medium.com/p/410cb3e00b60) |
