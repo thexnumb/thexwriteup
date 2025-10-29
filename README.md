@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 10:37:34 GMT | The Illusion of Security: Why a Lack of Open-Source Integrity Leads to Broken Hacking Code | VolkanŞah | [Read More](https://medium.com/p/f6b4ae34c2d0) |
+| Wed, 29 Oct 2025 10:36:58 GMT | Why Businesses Need SOC-as-a-Service Providers | Balaji | [Read More](https://medium.com/p/d68b9c30bc85) |
+| Wed, 29 Oct 2025 10:33:02 GMT | The Role of Cybersecurity Specialists in Preventing Ransomware Attacks | SmartCLOUD Australia | [Read More](https://medium.com/p/190a814c9ade) |
+| Wed, 29 Oct 2025 10:32:04 GMT | Understanding Email Spoofing — How Attackers Impersonate Trusted Senders | Natarajan C K | [Read More](https://medium.com/p/a848da39307f) |
+| Wed, 29 Oct 2025 10:28:47 GMT | “The List That Shouldn’t Exist” | Darknetsearch.com | [Read More](https://medium.com/p/f7ecc00f0d46) |
+| Wed, 29 Oct 2025 10:22:03 GMT | From WordPress to VPS: Finding Hosting That Actually Delivers | Ann Taylor | [Read More](https://medium.com/p/a9e0ed060e51) |
+| Wed, 29 Oct 2025 10:20:57 GMT | Back Up Your Data | AA LAWSNG | [Read More](https://medium.com/p/598fa49cec9e) |
 | Wed, 29 Oct 2025 10:19:16 GMT | Top 10 Most Dangerous Hackers in History | Manisha Chaudhary | [Read More](https://medium.com/p/7bc11cec70c7) |
 | Wed, 29 Oct 2025 10:08:14 GMT | Corporate OSINT Recon: How Attackers Profile Companies Before Launching an Attack | Travis Ray Caverhill | [Read More](https://medium.com/p/01c44f8e0245) |
 | Wed, 29 Oct 2025 10:06:07 GMT | DMARC is no longer optional: Get started with ease | Red Sift | [Read More](https://medium.com/p/1d6ac703f927) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 05:14:30 GMT | DOM-based XSS on Microsoft.com | Niraj Mahajan | [Read More](https://medium.com/p/f704227230a7) |
 | Wed, 29 Oct 2025 05:14:27 GMT | Shield Your Digital Identity: 5 Powerful Steps to Keep Your Data Hidden from the Internet | Rashmika | [Read More](https://medium.com/p/4f080b5a8b9b) |
 | Wed, 29 Oct 2025 05:02:37 GMT | The Remote Job Interview That Tried To Hack Me | Andrew Keitany | [Read More](https://medium.com/p/c84aab0b443b) |
-| Wed, 29 Oct 2025 04:58:47 GMT | Shared Folders in Ubuntu | Samuel McLamb | [Read More](https://medium.com/p/44b264758a90) |
-| Wed, 29 Oct 2025 04:48:22 GMT | Your Cybersecurity Degree Won’t Get You the Job | Irene A. Gil | [Read More](https://medium.com/p/6ec6c2407082) |
-| Wed, 29 Oct 2025 04:37:09 GMT | How to Choose Genuine Software and Avoid Cracked Versions Safely | Ask IT Support | [Read More](https://medium.com/p/57c4acf15faf) |
-| Wed, 29 Oct 2025 04:23:36 GMT | Multi-Factor Authentication (MFA): The Single Most Effective Defense Against Account Takeover | Kunal Sinha | [Read More](https://medium.com/p/eab3fa768031) |
-| Wed, 29 Oct 2025 04:21:53 GMT | Finding my first vulnerability on NASA: The Power of Google Dorking | ozgun32 | [Read More](https://medium.com/p/6a5a65c7f413) |
-| Wed, 29 Oct 2025 04:19:13 GMT | Fast Internet Setup Guide for New Homeowners and Small Offices | Ask IT Support | [Read More](https://medium.com/p/10c681a6cd70) |
-| Wed, 29 Oct 2025 04:02:07 GMT | Belarus’ Hybrid War at Poland’s Border | V. Langston - Journalist | [Read More](https://medium.com/p/524577b766a1) |
