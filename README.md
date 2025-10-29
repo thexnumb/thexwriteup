@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 08:20:36 GMT | The Beginning of the End for Elon Musk’s Tech Empire? | Studiology | [Read More](https://medium.com/p/acc87be6ca58) |
+| Wed, 29 Oct 2025 08:18:04 GMT | Brevis and GoPlus Security Announce Strategic Partnership: Building the “Security Oracle” to… | GoPlus Security | [Read More](https://medium.com/p/481464db1c74) |
+| Wed, 29 Oct 2025 08:16:29 GMT | THE AAA FRAMEWORK: YOUR DIGITAL GATE PASS. | Aura Verde | [Read More](https://medium.com/p/565e9f927a21) |
+| Wed, 29 Oct 2025 08:14:18 GMT | ️‍♂️ Anonimity in the Web Based on Routing Protocols — Part 1 | Bruzzese Roberto | [Read More](https://medium.com/p/e72246333cf9) |
+| Wed, 29 Oct 2025 08:07:10 GMT | Train Cargo Theft Jumped 40% Last Year: Why Containers Are Criminals’ New Favorite Target | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/ea5ff0b4185c) |
+| Wed, 29 Oct 2025 08:05:54 GMT | A Hidden Android 13 Bug That Bit Me: Lessons from a Parcelable Crash | Rokib Hasan | [Read More](https://medium.com/p/df31ba1eeb92) |
+| Wed, 29 Oct 2025 08:01:54 GMT | [Part 11] Hands-On: How to Build a Simple AI Model to Spot Phishing Emails | Cyberkech | [Read More](https://medium.com/p/9cbbcb61ea03) |
+| Wed, 29 Oct 2025 07:55:33 GMT | Title: | Axsaspty | [Read More](https://medium.com/p/112cea6ee6cf) |
+| Wed, 29 Oct 2025 07:39:14 GMT | I’ve finally made it to Burp Suite — | Abdullah Mina | [Read More](https://medium.com/p/fd8f9527e4d6) |
+| Wed, 29 Oct 2025 07:39:02 GMT | Understanding Network Security Basics: How the Internet Stays (and Sometimes Fails to Stay) Safe | Zamin Mirzad | [Read More](https://medium.com/p/ee9cc88c219a) |
+| Wed, 29 Oct 2025 07:37:52 GMT | The Wannacry ransomware was created to exploit a blue flaw in the Microsoft software application. | Emenanjo Ndigwe | [Read More](https://medium.com/p/72dcd4df1896) |
+| Wed, 29 Oct 2025 07:37:32 GMT | HTTP REQUEST METHODS | Jei Ess | [Read More](https://medium.com/p/3a4fe79aad47) |
+| Wed, 29 Oct 2025 07:36:02 GMT | Cybersecurity Behind AI Agents: Safeguarding the Autonomous Digital Frontier | Epython Lab | [Read More](https://medium.com/p/58e82ea4cd75) |
 | Wed, 29 Oct 2025 07:33:41 GMT | Partnering with RedSide Security: Building Stronger Defenses Through Real-World Experience | James | [Read More](https://medium.com/p/26ce0e26edce) |
 | Wed, 29 Oct 2025 07:32:09 GMT | The Minimum Secure Spring App | Thinking Loop | [Read More](https://medium.com/p/fd04402a43f2) |
 | Wed, 29 Oct 2025 07:32:09 GMT | The New Face of Phishing: Why Security Isn’t Just for “Security People” | Kristiyan Velkov | [Read More](https://medium.com/p/0ec10c06c2f6) |
@@ -102,16 +115,3 @@ Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
 | Tue, 28 Oct 2025 22:05:28 GMT | CyberDefenders: PhishStrike Lab — Walkthrough | 0xNexionX | [Read More](https://medium.com/p/96967ee55632) |
 | Tue, 28 Oct 2025 21:59:54 GMT | Day 6: Understanding Network Services — DHCP, DNS, NAT & VPNs Made Simple | HackTrace | [Read More](https://medium.com/p/e81007b86e41) |
 | Tue, 28 Oct 2025 21:56:48 GMT | Building Web3 Security Into Your DNA: How to Transform Champions Into Company-Wide Security Culture | Olympix | [Read More](https://medium.com/p/74af320d49aa) |
-| Tue, 28 Oct 2025 21:52:57 GMT | HackTheBox — Detecting Attacker Behavior With Splunk Based On Analytics | Javier | [Read More](https://medium.com/p/89d4d627247c) |
-| Tue, 28 Oct 2025 21:51:37 GMT | Dynamic Memory Analysis with AddressSanitizer at the Binary Level | Bervice | [Read More](https://medium.com/p/b78374359da1) |
-| Tue, 28 Oct 2025 21:42:14 GMT | Visual Simulation of the Law of Large Numbers: Project and Theory | Gadeabhishekreddy | [Read More](https://medium.com/p/fb0882b8a30f) |
-| Tue, 28 Oct 2025 21:33:20 GMT | The Digital City Planner: Your Operating System, Turning Chaos into Order and Disorder into… | xploitnation | [Read More](https://medium.com/p/b3625813d575) |
-| Tue, 28 Oct 2025 21:26:27 GMT | How Bug Hunters Chain XSS Into Account Takeover in 2025 | Aj | [Read More](https://medium.com/p/525d67f07746) |
-| Tue, 28 Oct 2025 21:25:44 GMT | PWNAGOTCHI — BUILD WITH ME (full, easy, step-by-step) | Satyam Pathania | [Read More](https://medium.com/p/7c3605c4eeca) |
-| Tue, 28 Oct 2025 21:23:24 GMT | All in One — TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/42cc9ea3ea04) |
-| Tue, 28 Oct 2025 21:16:11 GMT | Post-Exploitation Case Study: Lessons from a Controlled Ubuntu Lab | Vivektumma27 | [Read More](https://medium.com/p/45552649eaf0) |
-| Tue, 28 Oct 2025 21:09:14 GMT | BehindTheScreens: Weekly Cyber-Threat Dispatch | Sam - Behind The Screens | [Read More](https://medium.com/p/d8c0c316b284) |
-| Tue, 28 Oct 2025 21:09:14 GMT | Heuristics under scrutiny | Progsky | [Read More](https://medium.com/p/65b2a6e4ae96) |
-| Tue, 28 Oct 2025 21:09:07 GMT | Hacking APIs: Exploiting Batch and Mass Assignment | Israel Aráoz Severiche | [Read More](https://medium.com/p/3b67a56dbd01) |
-| Tue, 28 Oct 2025 21:04:27 GMT | The Peacock Syndrome”: Why Your List of Accomplishments Bores Me (and the One Thing I Actually Want… | Mia Nor | [Read More](https://medium.com/p/c8d97e81847b) |
-| Tue, 28 Oct 2025 21:00:48 GMT | Day 23 of my Cybersecurity Journey: Hashing Basics I | Ogundipe Priscilla | [Read More](https://medium.com/p/2db3c071c6c0) |
