@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 02:32:10 GMT | the fear of being seen | EternalAmore | [Read More](https://medium.com/p/57eaeaed1d55) |
+| Wed, 29 Oct 2025 02:32:10 GMT | “That little padlock in your browser hides a fascinating story of cryptography, trust, and… | TechTrellis Academy | [Read More](https://medium.com/p/77df53f13190) |
+| Wed, 29 Oct 2025 02:04:33 GMT | A Cybersecurity Decision-Maker: My In-Depth Review of 591Lab’s CyberArk Competitors Guide | Al Beruni | [Read More](https://medium.com/p/fcbb3bc10728) |
+| Wed, 29 Oct 2025 02:00:33 GMT | Weekly Threat Intelligece Report 27 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/76a73a40fc33) |
+| Wed, 29 Oct 2025 01:57:55 GMT | Excessive Self-Esteem: A Character Flaw | Eilen Lexus | [Read More](https://medium.com/p/c02e33fdc912) |
+| Wed, 29 Oct 2025 01:51:52 GMT | SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability Exploitation (CVE-2024–3400) | Brandon Love | [Read More](https://medium.com/p/55a9ffb6bbfd) |
+| Wed, 29 Oct 2025 01:51:00 GMT | You Think You’re a Good Person. But You’re Probably a Low-Key Criminal. | Sami Ullah Zaheer | [Read More](https://medium.com/p/d60cda6f8dab) |
+| Wed, 29 Oct 2025 01:41:41 GMT | CORS Vulnerability | Fatimahasan | [Read More](https://medium.com/p/fdf22666776c) |
 | Wed, 29 Oct 2025 01:40:41 GMT | GlassWorm: Self-Propagating Worm Compromises VSCode Extensions | Wraith | [Read More](https://medium.com/p/83b61afc7616) |
 | Wed, 29 Oct 2025 01:33:04 GMT | Oracle EBS Runtime Interface Vulnerability Leads to Data Exposure (CVE-2025–61884) | Criminal IP | [Read More](https://medium.com/p/1fa051587de2) |
 | Wed, 29 Oct 2025 01:23:51 GMT | PostgreSQL 17 vs 18: The Hidden Upgrade That Makes Your Queries Run Instantly | Rizqi Mulki | [Read More](https://medium.com/p/3e4952eb46b0) |
@@ -107,11 +115,3 @@ Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
 | Tue, 28 Oct 2025 16:59:22 GMT | CISA Flags Critical Veeder Root Flaws That Could Let Attackers Run System Level Commands | Chetan Seripally | [Read More](https://medium.com/p/53230905bd9a) |
 | Tue, 28 Oct 2025 16:58:48 GMT | AI Threats Have Moved Out of the Lab | Yousri KOUKI | [Read More](https://medium.com/p/91c8fd8b32d0) |
 | Tue, 28 Oct 2025 16:56:10 GMT | To be held without guilt | wildflower | [Read More](https://medium.com/p/03c731c4cb4b) |
-| Tue, 28 Oct 2025 16:54:51 GMT | The Day I Became Everyone: How User Swapping Turned Me into a Digital Shapeshifter | Iski | [Read More](https://medium.com/p/91358848a593) |
-| Tue, 28 Oct 2025 16:50:53 GMT | Learn Cybersecurity with Microsoft: A Gateway to High-Demand Skills | Bobby Chavez | [Read More](https://medium.com/p/26bdb0451237) |
-| Tue, 28 Oct 2025 16:50:25 GMT | From Moonshine to Blockchain: South Carolina’s Journey Through Bootlegging, Law, and the Promise of… | TTBMath | [Read More](https://medium.com/p/286163168b16) |
-| Tue, 28 Oct 2025 16:47:08 GMT | WSUS on Fire: Inside the CVE-2025–59287 RCE that’s being exploited in the wild | Divyanshu Saini | [Read More](https://medium.com/p/b803337a8c50) |
-| Tue, 28 Oct 2025 16:45:04 GMT | “Spring Boot Security in 2024: 7 Pro Moves to Lock Down Your App Like a Fort ” | Karuna | [Read More](https://medium.com/p/ceaf6bafd08d) |
-| Tue, 28 Oct 2025 16:44:19 GMT | If Only You Knew | Natalie Stafford | [Read More](https://medium.com/p/ba76c4cd0be0) |
-| Tue, 28 Oct 2025 16:41:13 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/1f1fe95087e3) |
-| Tue, 28 Oct 2025 16:37:48 GMT | Tracing Shadows, “The Orkla: Dragon Con Detective” Investigation, WalkThrough. | Azutech | [Read More](https://medium.com/p/e69aa697b26c) |
