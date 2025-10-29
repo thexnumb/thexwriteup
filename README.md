@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 19:09:01 GMT | What Is Mobile App Pentesting? | 0xnref | [Read More](https://medium.com/p/2016c840972e) |
+| Wed, 29 Oct 2025 19:03:45 GMT | The Weight of My Unfinished Systems | Soude Oluwadamilola Temilara | [Read More](https://medium.com/p/e6876693c62d) |
+| Wed, 29 Oct 2025 18:59:32 GMT | Why One Cyber Attack Can Shake an Entire Industry？ | Xinrui Chen | [Read More](https://medium.com/p/d6674dfa02b8) |
+| Wed, 29 Oct 2025 18:57:14 GMT | Automation Will Fail You: The Harsh Truth Every Bug Bounty Hunter Learns the Hard Way | Prayers Khristi | [Read More](https://medium.com/p/ad02cbfc7bda) |
+| Wed, 29 Oct 2025 18:55:46 GMT | The New Reality of Compliance: Data Must Live Where It’s Born | planck_deeptech | [Read More](https://medium.com/p/81e33599e599) |
+| Wed, 29 Oct 2025 18:54:11 GMT | Implementing the Etherhiding technique | Onhexgroup | [Read More](https://medium.com/p/438979758593) |
+| Wed, 29 Oct 2025 18:52:37 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/40bfc9815af3) |
+| Wed, 29 Oct 2025 18:45:59 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/034aa6e016a5) |
+| Wed, 29 Oct 2025 18:45:54 GMT | Ghoostow: Moroccan Artist, Designer & Cybersecurity Visionary from Marrakech | GHOOSTOW | [Read More](https://medium.com/p/a873a48a117b) |
+| Wed, 29 Oct 2025 18:41:18 GMT | VPNs for Business: Security Tool or False Sense of Safety? | Cordula Boeck | [Read More](https://medium.com/p/263319d17b13) |
+| Wed, 29 Oct 2025 18:40:36 GMT | Semiconductors- Powering the Future of Technology and Innovation | The Daily Technology | [Read More](https://medium.com/p/a2176140d415) |
+| Wed, 29 Oct 2025 18:33:12 GMT | Future of Cloud Security-Top Trends to Watch | The Daily Technology | [Read More](https://medium.com/p/aaa9b24afb40) |
 | Wed, 29 Oct 2025 18:23:54 GMT | Homework 4 : | HrudaySagarG | [Read More](https://medium.com/p/46203dfb6258) |
 | Wed, 29 Oct 2025 18:22:46 GMT | Siber Güvenlikte Acı Piramidi (Pyramid of Pain) | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/8b1aba73009c) |
 | Wed, 29 Oct 2025 18:22:01 GMT | Phishing Emails- Mini SOC investigation | Jenna S | [Read More](https://medium.com/p/e8615cc7f7eb) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 14:02:44 GMT | Praktikum Konfigurasi dan Administrasi Sistem Jaringan: Konfigurasi File Server | Muhammad Surya Saputro | [Read More](https://medium.com/p/85ae1d77be0d) |
 | Wed, 29 Oct 2025 14:01:09 GMT | Cyber Briefing: 2025.10.29 | CyberMaterial | [Read More](https://medium.com/p/148e690dd303) |
 | Wed, 29 Oct 2025 14:01:04 GMT | Advancing Beyond Zero Trust: OSSTMM’s Trust Metrics | Chris Griffin | [Read More](https://medium.com/p/0d2e02ad09ef) |
-| Wed, 29 Oct 2025 13:58:17 GMT | The Cost of a Cloud Breach for a Mid-Sized Law Firm: Risks & Solutions | Josh Lee | [Read More](https://medium.com/p/9f37b0ffffc5) |
-| Wed, 29 Oct 2025 13:57:49 GMT | Immediate Action Required: Secure Your Broadcom Mainframe Software with Digital Package Signing | Jan Cihlar | [Read More](https://medium.com/p/c93d88ef69e4) |
-| Wed, 29 Oct 2025 13:53:54 GMT | How to Spot Fake Receipts in 2025: From Visual Clues to AI Detection | Klippa | [Read More](https://medium.com/p/397e77c1fef1) |
-| Wed, 29 Oct 2025 13:47:05 GMT | Salesforce vs Zendesk: Which CRM + CX Platform Wins in 2025? | Digital Transformation Playbook | [Read More](https://medium.com/p/6b1a87054074) |
-| Wed, 29 Oct 2025 13:46:16 GMT | What Businesses Can Learn from Canada’s Fastest-Growing Security Trends | GPS Security Group Inc | [Read More](https://medium.com/p/b82b9fc0ee63) |
-| Wed, 29 Oct 2025 13:42:35 GMT | Building Secure Package Pipelines | André Silva | [Read More](https://medium.com/p/1b1f4bc2049f) |
-| Wed, 29 Oct 2025 13:40:33 GMT | Shifting Left with Confidence: The Rise of Threat Modeling as Code (TMAC) | Isaac obune | [Read More](https://medium.com/p/0694428ae85b) |
-| Wed, 29 Oct 2025 13:37:52 GMT | The Cybersecurity Portfolio: Projects That Actually Get You Hired | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/4a065aaecf83) |
-| Wed, 29 Oct 2025 13:33:46 GMT | Love and Vulnerability Are Coexisting | Odesiania | [Read More](https://medium.com/p/965354f1df32) |
-| Wed, 29 Oct 2025 13:31:55 GMT | When OAuth Becomes a Weapon: AI Agents Authentication Crisis | Nwosu Rosemary | [Read More](https://medium.com/p/c356867e6c37) |
-| Wed, 29 Oct 2025 13:22:58 GMT | InHouse Splunk ES Automation-Eps 2 | Aufarifqi | [Read More](https://medium.com/p/5c09486f6cd4) |
-| Wed, 29 Oct 2025 13:12:35 GMT | Cybersecurity Risk Management in 2025: Trends, Market Analysis, and Investment Prospects | Manasi Stalwart | [Read More](https://medium.com/p/eb5c5e7b973a) |
