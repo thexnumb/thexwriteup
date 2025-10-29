@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 23:10:52 GMT | The Truth About “Renting Out” Your LLC | Internet Exposed | [Read More](https://medium.com/p/8bd9298d266a) |
+| Wed, 29 Oct 2025 23:04:18 GMT | Enabling AI Adoption: Building the Foundation for Trusted Innovation with Continuous Data Risk… | Nick Deshpande | [Read More](https://medium.com/p/62a8b0cdba5d) |
+| Wed, 29 Oct 2025 23:02:30 GMT | Why I Don’t Trust Password Generators (So I Built My Own) | Atypicvoyage | [Read More](https://medium.com/p/9dc3c988bfad) |
+| Wed, 29 Oct 2025 22:57:24 GMT | Stop Using Complex Passwords — Do This Instead! | Cyber-AppSec | [Read More](https://medium.com/p/d0d685fa7a9a) |
+| Wed, 29 Oct 2025 22:44:05 GMT | Ready to Go Pro in Cybersecurity? | Martin Onyisi | [Read More](https://medium.com/p/00e2def578f1) |
+| Wed, 29 Oct 2025 22:42:12 GMT | Your tests break every week. Not because of bugs | Petr | [Read More](https://medium.com/p/b34b6658447d) |
+| Wed, 29 Oct 2025 22:41:27 GMT | Summit - THM | Isiah | [Read More](https://medium.com/p/d870c1ecd53b) |
 | Wed, 29 Oct 2025 22:23:34 GMT | Do You Believe Your Home Printer is Secure? Think Again | Anthony | [Read More](https://medium.com/p/9684de71734a) |
 | Wed, 29 Oct 2025 22:19:11 GMT | AWS Cloud Adoption Framework (CAF): Security Perspective Explained | Rabbiyatabassum | [Read More](https://medium.com/p/3af8204db683) |
 | Wed, 29 Oct 2025 22:19:08 GMT | CVE-2025–59287 (WSUS) — Advisory & Technical Brief | SOCFortress | [Read More](https://medium.com/p/1990862aae1a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 16:16:02 GMT | Homework 3 RSA and Frequency Analysis | HrudaySagarG | [Read More](https://medium.com/p/2e9aa6a002e7) |
 | Wed, 29 Oct 2025 16:11:01 GMT | Network Address Translation (NAT): Understanding the Mechanisms Behind Address Translation | El Hadji Sidya Badji | [Read More](https://medium.com/p/2dbbf2035f9c) |
 | Wed, 29 Oct 2025 16:08:48 GMT | Root, Jailbreak, Emulator: How to Detect and Block Them in Your Android App | Odunayo Dada | [Read More](https://medium.com/p/187c1aa9b134) |
-| Wed, 29 Oct 2025 16:06:01 GMT | Siber Saldırıların Anatomisi: 7 Aşamada Cyber Kill Chain | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/9f688604b6f5) |
-| Wed, 29 Oct 2025 16:05:22 GMT | Cybersecurity Stops Attacks. Cyber Insurance Saves Your Business. You Need Both. | Paradise technologies Inc | [Read More](https://medium.com/p/cb6ccb77aef9) |
-| Wed, 29 Oct 2025 16:01:37 GMT | When a Bug Takes Days to Fix… and Still Refuses to Die | Jaya Vishwakarma | [Read More](https://medium.com/p/356993327143) |
-| Wed, 29 Oct 2025 16:01:17 GMT | The Dilemma of Being in Corporate Cybersecurity — 10 Months In | Samyakgoel | [Read More](https://medium.com/p/748f0bc51d92) |
-| Wed, 29 Oct 2025 15:59:03 GMT | MITRE - THM | Isiah | [Read More](https://medium.com/p/2960c02ae755) |
-| Wed, 29 Oct 2025 15:50:19 GMT | Top 10 Cybersecurity Projects You Can’t Miss in 2026 | Maverick Steel | [Read More](https://medium.com/p/7b31b8d7a8f9) |
-| Wed, 29 Oct 2025 15:50:12 GMT | How to Use Recall Assist to Instantly Find Anything You’ve Seen | nodminger | [Read More](https://medium.com/p/44c85b06680c) |
