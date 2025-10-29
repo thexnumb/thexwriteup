@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 17:37:38 GMT | Modern Cyber Defense: The Growing Role of AI and Machine Learning Against Ransomware | Rashadul Islam | [Read More](https://medium.com/p/f90e4d9708e2) |
+| Wed, 29 Oct 2025 17:30:34 GMT | Question‍♂️ | Desmond | [Read More](https://medium.com/p/278baabc47b6) |
+| Wed, 29 Oct 2025 17:30:13 GMT | WordPress Security Best Practices You Can’t Afford to Ignore | Ibbad Ullah | [Read More](https://medium.com/p/d0c0061ba9c2) |
+| Wed, 29 Oct 2025 17:29:29 GMT | 10 Splunk Search Commands Every Cybersecurity Analyst Should Master (SPL Cheat Sheet) | Omar Maged Ahmed | [Read More](https://medium.com/p/cb3ad38814b8) |
+| Wed, 29 Oct 2025 17:16:43 GMT | When Vendors Become Vulnerabilities: Lessons from a Public Sector Data Breach | Christopher Montgomery | [Read More](https://medium.com/p/a006f11263e0) |
+| Wed, 29 Oct 2025 17:16:29 GMT | Quantifying Swiss Cheese, the Bayesian Way | Stephen Shaffer | [Read More](https://medium.com/p/b2b512472d85) |
 | Wed, 29 Oct 2025 17:15:00 GMT | Cybersecurity Challenges for ISPs: How Jeebr Is Building Safer Networks | Jeebrinternet | [Read More](https://medium.com/p/16e0e0f6795a) |
 | Wed, 29 Oct 2025 17:11:28 GMT | The Ultimate Ransomware Defense: Test Your Backups! | Technology EM3 | [Read More](https://medium.com/p/fd72cd95ebd4) |
 | Wed, 29 Oct 2025 17:10:30 GMT | Microsoft Flags ASP NET Flaw Allowing Sneaky HTTP Request Smuggling | Chetan Seripally | [Read More](https://medium.com/p/1fca0cc217bd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 12:31:52 GMT | Boost Home Safety: Only hese 7 Tiny Gadgets with Huge Impact You Need | Azeeza | [Read More](https://medium.com/p/2374d93d3451) |
 | Wed, 29 Oct 2025 12:29:45 GMT | A step-by-step guide to automotive cybersecurity in 2025 | Cyberbali | [Read More](https://medium.com/p/e18fd9a8f81e) |
 | Wed, 29 Oct 2025 12:27:52 GMT | 9 Lombok Traps That Cost Me 100+ Bugs (And the Bulletproof Fixes) | inside Nikita's Mind | [Read More](https://medium.com/p/8defd05dd2a5) |
-| Wed, 29 Oct 2025 12:20:17 GMT | The Future of AI-Powered Cybersecurity: Can Humans Keep Up? | VLink | [Read More](https://medium.com/p/f55615979edf) |
-| Wed, 29 Oct 2025 12:19:34 GMT | Bandit OverTheWire writeup — Level 0 -> 1 | Dawid Kowalski | [Read More](https://medium.com/p/f859973077eb) |
-| Wed, 29 Oct 2025 12:18:34 GMT | The Internet Made Us Fall In Love With Each Other's Sadness | My21stNotes | [Read More](https://medium.com/p/8bdcf65dad10) |
-| Wed, 29 Oct 2025 12:17:52 GMT | Tomghost writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/56c78a7f1930) |
-| Wed, 29 Oct 2025 12:17:18 GMT | Web Cache Poisoning — Part 1: Understanding the Beast | Abhishek meena | [Read More](https://medium.com/p/d303f1741e48) |
-| Wed, 29 Oct 2025 12:14:04 GMT | I l forgot. | Joelle luxer | [Read More](https://medium.com/p/3bf7c9da3297) |
