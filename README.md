@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 19:31:51 GMT | Crack the hash-THM..-Cyber Exploration Writeup.. -Day-8 | Deepika  B | [Read More](https://medium.com/p/ec79d298e361) |
+| Wed, 29 Oct 2025 19:19:03 GMT | Simple Cybersecurity Tips for Every Online Business | IT_Engineer | [Read More](https://medium.com/p/3ef427a7837e) |
+| Wed, 29 Oct 2025 19:18:12 GMT | HTB API Attacks Module: Broken Authentication Section Exercise | gabrielschwartz | [Read More](https://medium.com/p/999acc4476f2) |
+| Wed, 29 Oct 2025 19:17:22 GMT | Building Effective Threat Hunting Queries For Phishing Campaigns | RileyHv | [Read More](https://medium.com/p/ca481c7f0c15) |
 | Wed, 29 Oct 2025 19:09:01 GMT | What Is Mobile App Pentesting? | 0xnref | [Read More](https://medium.com/p/2016c840972e) |
 | Wed, 29 Oct 2025 19:03:45 GMT | The Weight of My Unfinished Systems | Soude Oluwadamilola Temilara | [Read More](https://medium.com/p/e6876693c62d) |
 | Wed, 29 Oct 2025 18:59:32 GMT | Why One Cyber Attack Can Shake an Entire Industry？ | Xinrui Chen | [Read More](https://medium.com/p/d6674dfa02b8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 14:19:35 GMT | The Core Vulnerability of Centralized Digital ID: When the Citizen Becomes the User Account | Julian Soloninka | [Read More](https://medium.com/p/21311c84a24f) |
 | Wed, 29 Oct 2025 14:18:20 GMT | The Real Reason POS Security Matters (And How to Actually Protect Your Business) | ZBS POS Insights | [Read More](https://medium.com/p/be132d6e8ade) |
 | Wed, 29 Oct 2025 14:14:32 GMT | The Psychology of Clicks: How Cybersecurity Starts in the Mind | Aysha Misri | [Read More](https://medium.com/p/16c14290d573) |
-| Wed, 29 Oct 2025 14:04:40 GMT | 6G and Cybersecurity: Securing the Next Generation of Connectivity | Harshil Uttaradhi | [Read More](https://medium.com/p/f5e187936d63) |
-| Wed, 29 Oct 2025 14:02:44 GMT | Praktikum Konfigurasi dan Administrasi Sistem Jaringan: Konfigurasi File Server | Muhammad Surya Saputro | [Read More](https://medium.com/p/85ae1d77be0d) |
-| Wed, 29 Oct 2025 14:01:09 GMT | Cyber Briefing: 2025.10.29 | CyberMaterial | [Read More](https://medium.com/p/148e690dd303) |
-| Wed, 29 Oct 2025 14:01:04 GMT | Advancing Beyond Zero Trust: OSSTMM’s Trust Metrics | Chris Griffin | [Read More](https://medium.com/p/0d2e02ad09ef) |
