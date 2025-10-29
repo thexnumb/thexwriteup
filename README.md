@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 05:39:41 GMT | The Things I Never Say When I’m Angry | thealer | [Read More](https://medium.com/p/ec2b09832da4) |
+| Wed, 29 Oct 2025 05:34:41 GMT | Top 25 Command Line Tools for Cybersecurity Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/b669de83aec6) |
+| Wed, 29 Oct 2025 05:32:18 GMT | The Day a Single <script> Tag Crashed My React App | Jaivardhan Deshwal | [Read More](https://medium.com/p/f6c7d7d91fa5) |
 | Wed, 29 Oct 2025 05:16:26 GMT | The Windows Security Journey — WRP (Windows Resource Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7e3cde332379) |
+| Wed, 29 Oct 2025 05:15:38 GMT | The Cyber Kill Chain Explained: How Hackers Think (and How You Can Stop Them) | Sithum Ranasinghe | [Read More](https://medium.com/p/94a0182f58cc) |
+| Wed, 29 Oct 2025 05:14:54 GMT | 30 Days to Your First Bug Bounty Payout $$$$ — A Practical Playbook | Monujangra | [Read More](https://medium.com/p/dfa488e3d9b2) |
+| Wed, 29 Oct 2025 05:14:30 GMT | DOM-based XSS on Microsoft.com | Niraj Mahajan | [Read More](https://medium.com/p/f704227230a7) |
 | Wed, 29 Oct 2025 05:14:27 GMT | Shield Your Digital Identity: 5 Powerful Steps to Keep Your Data Hidden from the Internet | Rashmika | [Read More](https://medium.com/p/4f080b5a8b9b) |
 | Wed, 29 Oct 2025 05:02:37 GMT | The Remote Job Interview That Tried To Hack Me | Andrew Keitany | [Read More](https://medium.com/p/c84aab0b443b) |
 | Wed, 29 Oct 2025 04:58:47 GMT | Shared Folders in Ubuntu | Samuel McLamb | [Read More](https://medium.com/p/44b264758a90) |
@@ -109,9 +115,3 @@ Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
 | Tue, 28 Oct 2025 18:58:53 GMT | Why I Built AnonDLP: A CISO’s Journey from Enterprise DLP Frustration to Local Innovation | Rommel Jay Gadil | [Read More](https://medium.com/p/d8fa5ada3f2a) |
 | Tue, 28 Oct 2025 18:56:49 GMT | Event Security in the UK — Protecting People, Brands, and Experiences | waeventservices.co.uk/ | [Read More](https://medium.com/p/8fd55259c262) |
 | Tue, 28 Oct 2025 18:49:56 GMT | How to Improve Workplace Privacy Without Losing Productivity | Cordula Boeck | [Read More](https://medium.com/p/988c00c28a2b) |
-| Tue, 28 Oct 2025 18:35:52 GMT | How to Protect Your Information Online: Simple Cybersecurity Tips | @NSConsumers | [Read More](https://medium.com/p/5a3b4570a291) |
-| Tue, 28 Oct 2025 18:35:37 GMT | Cheyanne Mallas: Why Cybersecurity Project Management Is a Moral Imperative in the Digital Age | Cheyannemallaspa | [Read More](https://medium.com/p/7bea04fd2e04) |
-| Tue, 28 Oct 2025 18:17:08 GMT | How to get back your disabled Instagram Account | Lucia Banjo | [Read More](https://medium.com/p/0ae82836beee) |
-| Tue, 28 Oct 2025 18:16:36 GMT | Encoding Hell | H3XH7WK | [Read More](https://medium.com/p/4d0a7fc9d14f) |
-| Tue, 28 Oct 2025 18:13:08 GMT | ChatGPT Isn’t Smart — It’s Strategic | Global Whirl of Wonders | [Read More](https://medium.com/p/bd211d78a415) |
-| Tue, 28 Oct 2025 18:08:11 GMT | Topunlock Social media account recovery services | Lucia Banjo | [Read More](https://medium.com/p/369a23fc3c04) |
