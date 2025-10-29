@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 14:44:15 GMT | Malevolent AI, Part 1: When Machines Turn Against Us | Haniakhan | [Read More](https://medium.com/p/af4c0981fd28) |
+| Wed, 29 Oct 2025 14:40:53 GMT | How Journalists Can Cover Darkweb Stories Responsibly | Tor BBB | [Read More](https://medium.com/p/5bbae1996321) |
+| Wed, 29 Oct 2025 14:37:52 GMT | The Invisible Cost of Honesty: When Sharing Bodily Experiences Becomes a Cyber Vulnerability | olavenue | [Read More](https://medium.com/p/46ea32cea65b) |
+| Wed, 29 Oct 2025 14:33:17 GMT | Host Header Injection: Poisoning Caches and Stealing Password Reset Tokens ️ | InstaTunnel | [Read More](https://medium.com/p/46ff184e2694) |
+| Wed, 29 Oct 2025 14:31:07 GMT | MITRE ATT&CK Framework Nedir? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/09175ab5229f) |
+| Wed, 29 Oct 2025 14:29:06 GMT | Threat Hunting with EDR Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/87ccae1fbcdf) |
+| Wed, 29 Oct 2025 14:28:41 GMT | XSS Vulnerabilities: A Comprehensive TryHackMe Walkthrough | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/ae1c58dd712c) |
+| Wed, 29 Oct 2025 14:28:31 GMT | Hackeři odhalili 183 milionů e-mailových hesel - co teď dělat ? | Cyber Solution | [Read More](https://medium.com/p/c60f1500c0f8) |
+| Wed, 29 Oct 2025 14:26:12 GMT | Analytical view – What will cybersecurity and hacking look like in the future (near and medium… | Mouad B. | [Read More](https://medium.com/p/b74be8c86754) |
+| Wed, 29 Oct 2025 14:19:35 GMT | The Core Vulnerability of Centralized Digital ID: When the Citizen Becomes the User Account | Julian Soloninka | [Read More](https://medium.com/p/21311c84a24f) |
+| Wed, 29 Oct 2025 14:18:20 GMT | The Real Reason POS Security Matters (And How to Actually Protect Your Business) | ZBS POS Insights | [Read More](https://medium.com/p/be132d6e8ade) |
 | Wed, 29 Oct 2025 14:14:32 GMT | The Psychology of Clicks: How Cybersecurity Starts in the Mind | Aysha Misri | [Read More](https://medium.com/p/16c14290d573) |
 | Wed, 29 Oct 2025 14:04:40 GMT | 6G and Cybersecurity: Securing the Next Generation of Connectivity | Harshil Uttaradhi | [Read More](https://medium.com/p/f5e187936d63) |
 | Wed, 29 Oct 2025 14:02:44 GMT | Praktikum Konfigurasi dan Administrasi Sistem Jaringan: Konfigurasi File Server | Muhammad Surya Saputro | [Read More](https://medium.com/p/85ae1d77be0d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 09:16:49 GMT | Overview | Bruzzese Roberto | [Read More](https://medium.com/p/0f18f39d685a) |
 | Wed, 29 Oct 2025 09:16:20 GMT | Cybersecurity in the Age of Artificial Intelligence | Vozniak Nazar | [Read More](https://medium.com/p/08513991dfb2) |
 | Wed, 29 Oct 2025 09:12:35 GMT | From Shared to VPS: Finding the Right Hosting Without Overspending | Andy | [Read More](https://medium.com/p/e869d5fa88a1) |
-| Wed, 29 Oct 2025 09:06:47 GMT | From Login to Full Access Control — The Danger of SQL Injection in Username Fields | Yaliyanto | [Read More](https://medium.com/p/123b169ddcfd) |
-| Wed, 29 Oct 2025 09:05:16 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/546a2c878414) |
-| Wed, 29 Oct 2025 09:02:16 GMT | ERP Democratization: How AI Kills the ERP Consulting Cash Cow | Namir Sagheenanajar | [Read More](https://medium.com/p/9140bbdb1df4) |
-| Wed, 29 Oct 2025 09:02:10 GMT | Dorks For Sensitive Information Disclosure Part-4 | Devansh Patel | [Read More](https://medium.com/p/5bc360ce551e) |
-| Wed, 29 Oct 2025 09:01:51 GMT | Phishing How to Avoid: Essential Tips to Stay Secure Online | Techzonego | [Read More](https://medium.com/p/10e1639f7a51) |
-| Wed, 29 Oct 2025 08:59:58 GMT | Importance of Cybersecurity for Students | Porush Nohwal | [Read More](https://medium.com/p/6bd2f36a8b92) |
-| Wed, 29 Oct 2025 08:57:29 GMT | Entry Level Cyber Security Remote: Top Jobs & Expert Tips 2025 | Techzonego | [Read More](https://medium.com/p/e46c99c89f60) |
-| Wed, 29 Oct 2025 08:54:17 GMT | Cybersécurité en Algérie : Le Regard d’un Praticien du Terrain | AMGHAR Abdenour | [Read More](https://medium.com/p/daed1a753385) |
-| Wed, 29 Oct 2025 08:52:39 GMT | Managed Cloud Hosting for Scalable & Secure IT growth | Vishwajeettechtech | [Read More](https://medium.com/p/30d59818a2aa) |
-| Wed, 29 Oct 2025 08:51:41 GMT | What Happens If a Quantum Computer Cracks Blockchain Encryption? | Bobby Andrews | [Read More](https://medium.com/p/91f5a676364b) |
-| Wed, 29 Oct 2025 08:49:49 GMT | How I Used Data Science to Predict Stock Movements in Real Time | Fateyaly | [Read More](https://medium.com/p/981cc9ea5316) |
