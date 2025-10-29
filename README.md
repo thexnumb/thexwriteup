@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 04:23:36 GMT | Multi-Factor Authentication (MFA): The Single Most Effective Defense Against Account Takeover | Kunal Sinha | [Read More](https://medium.com/p/eab3fa768031) |
+| Wed, 29 Oct 2025 04:21:53 GMT | Finding my first vulnerability on NASA: The Power of Google Dorking | ozgun32 | [Read More](https://medium.com/p/6a5a65c7f413) |
+| Wed, 29 Oct 2025 04:19:13 GMT | Fast Internet Setup Guide for New Homeowners and Small Offices | Ask IT Support | [Read More](https://medium.com/p/10c681a6cd70) |
+| Wed, 29 Oct 2025 04:02:07 GMT | Belarus’ Hybrid War at Poland’s Border | V. Langston - Journalist | [Read More](https://medium.com/p/524577b766a1) |
 | Wed, 29 Oct 2025 03:48:10 GMT | Find Sensitive Information using: Google Dorking, Shodan, and FOFA | Monika sharma | [Read More](https://medium.com/p/cce4b19b3940) |
 | Wed, 29 Oct 2025 03:32:01 GMT | Hijacked Bandwidth: How Proxyware Malware Quietly Turns Your PC into a Profit Machine | Deven Chhajed | [Read More](https://medium.com/p/726bc1d7571f) |
 | Wed, 29 Oct 2025 03:26:48 GMT | ☁️ AWS Security Secrets: How Hackers Use the Cloud — and How You Can Earn $2$$$+ Fixing It | Monujangra | [Read More](https://medium.com/p/dfc3f0090313) |
@@ -111,7 +115,3 @@ Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
 | Tue, 28 Oct 2025 17:43:18 GMT | I Trusted the Wrong Link. Here’s What Happened Next. | Aj | [Read More](https://medium.com/p/7a0d1c878ee5) |
 | Tue, 28 Oct 2025 17:25:10 GMT | Deep Dive into Security Hardening on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/41494de607fb) |
 | Tue, 28 Oct 2025 17:20:29 GMT | AresGPT: Red Teaming Strategies | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/afb01cd3568e) |
-| Tue, 28 Oct 2025 17:17:30 GMT | Behind the padlock: the hidden risks of built-in password managers | Enrique Dans | [Read More](https://medium.com/p/6a76fce3a2f6) |
-| Tue, 28 Oct 2025 17:05:10 GMT | ️ The Kestrel Smuggling Bug: What Every ASP.NET Developer Needs to Know (and Do) Now | Brian Mora | [Read More](https://medium.com/p/6343a4869207) |
-| Tue, 28 Oct 2025 17:02:01 GMT | Data Privacy: Panda Security’s Guide for Individuals & Families | Panda Security | [Read More](https://medium.com/p/090e21e97703) |
-| Tue, 28 Oct 2025 17:01:03 GMT | How This 20$ WIFI Adapter can Hack your WIFI | Napoleon Bonaparte | [Read More](https://medium.com/p/e35b05c7dbb2) |
