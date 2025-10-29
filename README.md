@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 15:31:25 GMT | Federated Learning: The Future of Privacy-Preserving AI | Nikhilsaimanam | [Read More](https://medium.com/p/11bd544118dd) |
+| Wed, 29 Oct 2025 15:20:38 GMT | What If Dating Apps Let You Change Their App Icon? | Karishma Agrawal | [Read More](https://medium.com/p/6042a744efc0) |
+| Wed, 29 Oct 2025 15:16:45 GMT | Série: Construindo um Orçamento de TI Inteligente e Integrado | Anderson Oliveira | [Read More](https://medium.com/p/5ae7c5a15baa) |
 | Wed, 29 Oct 2025 15:15:15 GMT | Tracking Lateral Movement: PowerShell Remoting, WMIC, Explicit Credentials, NTLM Relay Attacks… | Dean | [Read More](https://medium.com/p/5ce99e6e4b9b) |
 | Wed, 29 Oct 2025 15:07:27 GMT | Why Security Is Crypto’s Biggest Challenge — Ido Ben Natan | Aroundthecoin | [Read More](https://medium.com/p/b87631687600) |
 | Wed, 29 Oct 2025 15:02:19 GMT | The Age of the Silent Breach: Why Detection is No Longer Enough | Abatis ABTU | [Read More](https://medium.com/p/4491864a4003) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 10:00:31 GMT | Applied Cryptography: Building the Secure Digital World | Samina Perveen | [Read More](https://medium.com/p/aa56708cf1c8) |
 | Wed, 29 Oct 2025 09:59:59 GMT | AI is Already Everywhere — But Is It Governed Right? | Vijay Kumar Gupta | [Read More](https://medium.com/p/173c51a31050) |
 | Wed, 29 Oct 2025 09:55:22 GMT | TryHackMe — Friday Overtime | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/70f96fad8223) |
-| Wed, 29 Oct 2025 09:54:28 GMT | Attack Surface Management (ASM) — The Foundation of Modern Cyber Resilience | Jackdavis Iap | [Read More](https://medium.com/p/222135872b8e) |
-| Wed, 29 Oct 2025 09:53:49 GMT | DockerLabs Writeup — HackZones (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1f4f862c7339) |
-| Wed, 29 Oct 2025 09:50:01 GMT | Intro to Malware Analysis. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/d1ef67eab453) |
