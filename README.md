@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 03:48:10 GMT | Find Sensitive Information using: Google Dorking, Shodan, and FOFA | Monika sharma | [Read More](https://medium.com/p/cce4b19b3940) |
+| Wed, 29 Oct 2025 03:32:01 GMT | Hijacked Bandwidth: How Proxyware Malware Quietly Turns Your PC into a Profit Machine | Deven Chhajed | [Read More](https://medium.com/p/726bc1d7571f) |
+| Wed, 29 Oct 2025 03:26:48 GMT | ☁️ AWS Security Secrets: How Hackers Use the Cloud — and How You Can Earn $2$$$+ Fixing It | Monujangra | [Read More](https://medium.com/p/dfc3f0090313) |
+| Wed, 29 Oct 2025 03:21:56 GMT | The Game in the Dashboard | abram  isyagi | [Read More](https://medium.com/p/ada50c0adf76) |
+| Wed, 29 Oct 2025 03:20:06 GMT | Learning Hydra on TryHackMe: My First Taste of Password-Guessing (and Why It Matters) | Zulfianarahmi | [Read More](https://medium.com/p/227487cc0380) |
 | Wed, 29 Oct 2025 02:32:10 GMT | the fear of being seen | EternalAmore | [Read More](https://medium.com/p/57eaeaed1d55) |
 | Wed, 29 Oct 2025 02:32:10 GMT | “That little padlock in your browser hides a fascinating story of cryptography, trust, and… | TechTrellis Academy | [Read More](https://medium.com/p/77df53f13190) |
 | Wed, 29 Oct 2025 02:04:33 GMT | A Cybersecurity Decision-Maker: My In-Depth Review of 591Lab’s CyberArk Competitors Guide | Al Beruni | [Read More](https://medium.com/p/fcbb3bc10728) |
@@ -110,8 +115,3 @@ Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
 | Tue, 28 Oct 2025 17:05:10 GMT | ️ The Kestrel Smuggling Bug: What Every ASP.NET Developer Needs to Know (and Do) Now | Brian Mora | [Read More](https://medium.com/p/6343a4869207) |
 | Tue, 28 Oct 2025 17:02:01 GMT | Data Privacy: Panda Security’s Guide for Individuals & Families | Panda Security | [Read More](https://medium.com/p/090e21e97703) |
 | Tue, 28 Oct 2025 17:01:03 GMT | How This 20$ WIFI Adapter can Hack your WIFI | Napoleon Bonaparte | [Read More](https://medium.com/p/e35b05c7dbb2) |
-| Tue, 28 Oct 2025 17:00:22 GMT | byp4ss3d-picoMINI by CMU-Africa | Aderogbarufai | [Read More](https://medium.com/p/271ea202309c) |
-| Tue, 28 Oct 2025 17:00:08 GMT | Welcome to Drosera Trappers | Rebalrehan | [Read More](https://medium.com/p/311b0e646549) |
-| Tue, 28 Oct 2025 16:59:22 GMT | CISA Flags Critical Veeder Root Flaws That Could Let Attackers Run System Level Commands | Chetan Seripally | [Read More](https://medium.com/p/53230905bd9a) |
-| Tue, 28 Oct 2025 16:58:48 GMT | AI Threats Have Moved Out of the Lab | Yousri KOUKI | [Read More](https://medium.com/p/91c8fd8b32d0) |
-| Tue, 28 Oct 2025 16:56:10 GMT | To be held without guilt | wildflower | [Read More](https://medium.com/p/03c731c4cb4b) |
