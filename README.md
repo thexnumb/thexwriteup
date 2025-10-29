@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 11:20:20 GMT | Facebook Now Deep-Scans ALL Your Photos with AI | Karl Buhl | [Read More](https://medium.com/p/00fcb587f133) |
+| Wed, 29 Oct 2025 11:19:26 GMT | 5 Smart Strategies to Reduce Theft & Shrinkage in Your Business with CCTV Monitoring | Muhammadzohaib | [Read More](https://medium.com/p/16f60efb459f) |
+| Wed, 29 Oct 2025 11:16:39 GMT | Why CCTV Monitoring Security in Alberta is a Smart Move” | Muhammadzohaib | [Read More](https://medium.com/p/e6e19cda7738) |
+| Wed, 29 Oct 2025 11:16:28 GMT | Everything you need to know about anonymous proxies, and how they outperform alternatives | Martin E. | [Read More](https://medium.com/p/0d514e7097d7) |
 | Wed, 29 Oct 2025 11:10:33 GMT | Digital Shield: Forging an Unbreachable Line of Digital Sovereignty with Verifiable Security | Digital Shield | [Read More](https://medium.com/p/6a7265fe6a5e) |
 | Wed, 29 Oct 2025 11:09:30 GMT | OCI CIS 3.0 Compliance Report | Karthic | [Read More](https://medium.com/p/30e4164fa8d1) |
 | Wed, 29 Oct 2025 11:07:26 GMT | Shattering the Crypto Security Paradox: How Digital Shield Puts Digital Sovereignty Back in Your… | Digital Shield | [Read More](https://medium.com/p/fb442e56764d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 06:24:19 GMT | Why Professional Bouncers Are Crucial for Maintaining Safety at High-Profile Venues | Ankit Singh | [Read More](https://medium.com/p/dececee3a08c) |
 | Wed, 29 Oct 2025 06:21:52 GMT | Tester, c’est douter ! | Valentin Thion | [Read More](https://medium.com/p/8618d5c88653) |
 | Wed, 29 Oct 2025 06:00:25 GMT | Building a ChatGPT-Powered Playbook in Microsoft Sentinel | X2Tech | [Read More](https://medium.com/p/d35a8c160223) |
-| Wed, 29 Oct 2025 05:59:37 GMT | Why Every Modern Enterprise Needs a Trusted Cybersecurity Consulting Partner | iCare Cyber. By ITMD | [Read More](https://medium.com/p/784985a74e8a) |
-| Wed, 29 Oct 2025 05:58:11 GMT | The Daily Tech Digest: 29 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/0219f15eedc2) |
-| Wed, 29 Oct 2025 05:57:44 GMT | Defend the Digital Frontier — Certified Ethical Hacking Foundation (CEHF) | Adhiraj Kasabe | [Read More](https://medium.com/p/e5816fe6ed48) |
-| Wed, 29 Oct 2025 05:55:09 GMT | The Day I Broke Medium Email Content with Script Tag | Jaivardhan Deshwal | [Read More](https://medium.com/p/de7a11cad167) |
