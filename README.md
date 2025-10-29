@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 22:23:34 GMT | Do You Believe Your Home Printer is Secure? Think Again | Anthony | [Read More](https://medium.com/p/9684de71734a) |
+| Wed, 29 Oct 2025 22:19:11 GMT | AWS Cloud Adoption Framework (CAF): Security Perspective Explained | Rabbiyatabassum | [Read More](https://medium.com/p/3af8204db683) |
+| Wed, 29 Oct 2025 22:19:08 GMT | CVE-2025–59287 (WSUS) — Advisory & Technical Brief | SOCFortress | [Read More](https://medium.com/p/1990862aae1a) |
 | Wed, 29 Oct 2025 22:11:23 GMT | HackTheBox — Escape (Medium) | Shnogeorgiev | [Read More](https://medium.com/p/306404e55e62) |
 | Wed, 29 Oct 2025 21:58:09 GMT | Master Active Directory: A Complete Beginner's to Intermediate Guide | Beri Contraster | [Read More](https://medium.com/p/2f5faf9a4fa5) |
 | Wed, 29 Oct 2025 21:55:33 GMT | Quranium: Future-Proofing Digital Assets for the Post-Quantum Era | Bright Mmaduabuchi | [Read More](https://medium.com/p/46f9f722d296) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 15:59:03 GMT | MITRE - THM | Isiah | [Read More](https://medium.com/p/2960c02ae755) |
 | Wed, 29 Oct 2025 15:50:19 GMT | Top 10 Cybersecurity Projects You Can’t Miss in 2026 | Maverick Steel | [Read More](https://medium.com/p/7b31b8d7a8f9) |
 | Wed, 29 Oct 2025 15:50:12 GMT | How to Use Recall Assist to Instantly Find Anything You’ve Seen | nodminger | [Read More](https://medium.com/p/44c85b06680c) |
-| Wed, 29 Oct 2025 15:44:17 GMT | Inside the Modern Phishing Trap | Saarthak Mahajan | [Read More](https://medium.com/p/c5ef3a11bf9a) |
-| Wed, 29 Oct 2025 15:42:31 GMT | # Why That Free Truck Stop WiFi Just Cost Someone Their Business (And How It Could Happen to You) | Donavan Goodman | [Read More](https://medium.com/p/0e046b03ca0f) |
-| Wed, 29 Oct 2025 15:36:49 GMT | BlackHatindian Cybersecurity Researcher | blackhatindian | [Read More](https://medium.com/p/e56235d6f137) |
