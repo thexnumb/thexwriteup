@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 20:20:41 GMT | Hacking APIs: Cache Poisoning and Deception Attacks | Israel Aráoz Severiche | [Read More](https://medium.com/p/19527e2d7e6e) |
+| Wed, 29 Oct 2025 20:07:10 GMT | Siber Güvenlikte Savaş Sanatı: Cyber Kill Chain ile Stratejik Paralellikler | Zehra Tilaver | [Read More](https://medium.com/p/6b7a00eb4f90) |
+| Wed, 29 Oct 2025 20:05:52 GMT | Here are some of the most prominent cybersecurity developments currently: | Mouad B. | [Read More](https://medium.com/p/acad5c6b5105) |
+| Wed, 29 Oct 2025 19:54:12 GMT | How to recover your Facebook account after losing your phone number and cannot receive any code | Lucia Banjo | [Read More](https://medium.com/p/8d69d0dd0898) |
+| Wed, 29 Oct 2025 19:50:55 GMT | How to protect your data from phishing attacks | Lucia Banjo | [Read More](https://medium.com/p/0ee7e3d914f6) |
+| Wed, 29 Oct 2025 19:49:24 GMT | Phishing Attack Overview | Lucia Banjo | [Read More](https://medium.com/p/8e9c215c56b5) |
+| Wed, 29 Oct 2025 19:46:10 GMT | TombWatcher | Mkirahmet | [Read More](https://medium.com/p/a4f15dd3236e) |
+| Wed, 29 Oct 2025 19:40:05 GMT | To My People: Grace Over Performance | Melomind | [Read More](https://medium.com/p/5aeadd188e29) |
+| Wed, 29 Oct 2025 19:32:44 GMT | Creepy Candy Cam by Ring | Rhiannon Williams | [Read More](https://medium.com/p/617d72eeb6ec) |
 | Wed, 29 Oct 2025 19:31:51 GMT | Crack the hash-THM..-Cyber Exploration Writeup.. -Day-8 | Deepika  B | [Read More](https://medium.com/p/ec79d298e361) |
 | Wed, 29 Oct 2025 19:19:03 GMT | Simple Cybersecurity Tips for Every Online Business | IT_Engineer | [Read More](https://medium.com/p/3ef427a7837e) |
 | Wed, 29 Oct 2025 19:18:12 GMT | HTB API Attacks Module: Broken Authentication Section Exercise | gabrielschwartz | [Read More](https://medium.com/p/999acc4476f2) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 14:44:15 GMT | Malevolent AI, Part 1: When Machines Turn Against Us | Haniakhan | [Read More](https://medium.com/p/af4c0981fd28) |
 | Wed, 29 Oct 2025 14:40:53 GMT | How Journalists Can Cover Darkweb Stories Responsibly | Tor BBB | [Read More](https://medium.com/p/5bbae1996321) |
 | Wed, 29 Oct 2025 14:37:52 GMT | The Invisible Cost of Honesty: When Sharing Bodily Experiences Becomes a Cyber Vulnerability | olavenue | [Read More](https://medium.com/p/46ea32cea65b) |
-| Wed, 29 Oct 2025 14:33:17 GMT | Host Header Injection: Poisoning Caches and Stealing Password Reset Tokens ️ | InstaTunnel | [Read More](https://medium.com/p/46ff184e2694) |
-| Wed, 29 Oct 2025 14:31:07 GMT | MITRE ATT&CK Framework Nedir? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/09175ab5229f) |
-| Wed, 29 Oct 2025 14:29:06 GMT | Threat Hunting with EDR Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/87ccae1fbcdf) |
-| Wed, 29 Oct 2025 14:28:41 GMT | XSS Vulnerabilities: A Comprehensive TryHackMe Walkthrough | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/ae1c58dd712c) |
-| Wed, 29 Oct 2025 14:28:31 GMT | Hackeři odhalili 183 milionů e-mailových hesel - co teď dělat ? | Cyber Solution | [Read More](https://medium.com/p/c60f1500c0f8) |
-| Wed, 29 Oct 2025 14:26:12 GMT | Analytical view – What will cybersecurity and hacking look like in the future (near and medium… | Mouad B. | [Read More](https://medium.com/p/b74be8c86754) |
-| Wed, 29 Oct 2025 14:19:35 GMT | The Core Vulnerability of Centralized Digital ID: When the Citizen Becomes the User Account | Julian Soloninka | [Read More](https://medium.com/p/21311c84a24f) |
-| Wed, 29 Oct 2025 14:18:20 GMT | The Real Reason POS Security Matters (And How to Actually Protect Your Business) | ZBS POS Insights | [Read More](https://medium.com/p/be132d6e8ade) |
-| Wed, 29 Oct 2025 14:14:32 GMT | The Psychology of Clicks: How Cybersecurity Starts in the Mind | Aysha Misri | [Read More](https://medium.com/p/16c14290d573) |
