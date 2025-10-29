@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 09:12:35 GMT | From Shared to VPS: Finding the Right Hosting Without Overspending | Andy | [Read More](https://medium.com/p/e869d5fa88a1) |
+| Wed, 29 Oct 2025 09:06:47 GMT | From Login to Full Access Control — The Danger of SQL Injection in Username Fields | Yaliyanto | [Read More](https://medium.com/p/123b169ddcfd) |
+| Wed, 29 Oct 2025 09:05:16 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/546a2c878414) |
+| Wed, 29 Oct 2025 09:02:16 GMT | ERP Democratization: How AI Kills the ERP Consulting Cash Cow | Namir Sagheenanajar | [Read More](https://medium.com/p/9140bbdb1df4) |
+| Wed, 29 Oct 2025 09:02:10 GMT | Dorks For Sensitive Information Disclosure Part-4 | Devansh Patel | [Read More](https://medium.com/p/5bc360ce551e) |
+| Wed, 29 Oct 2025 09:01:51 GMT | Phishing How to Avoid: Essential Tips to Stay Secure Online | Techzonego | [Read More](https://medium.com/p/10e1639f7a51) |
+| Wed, 29 Oct 2025 08:59:58 GMT | Importance of Cybersecurity for Students | Porush Nohwal | [Read More](https://medium.com/p/6bd2f36a8b92) |
+| Wed, 29 Oct 2025 08:57:29 GMT | Entry Level Cyber Security Remote: Top Jobs & Expert Tips 2025 | Techzonego | [Read More](https://medium.com/p/e46c99c89f60) |
+| Wed, 29 Oct 2025 08:54:17 GMT | Cybersécurité en Algérie : Le Regard d’un Praticien du Terrain | AMGHAR Abdenour | [Read More](https://medium.com/p/daed1a753385) |
+| Wed, 29 Oct 2025 08:52:39 GMT | Managed Cloud Hosting for Scalable & Secure IT growth | Vishwajeettechtech | [Read More](https://medium.com/p/30d59818a2aa) |
+| Wed, 29 Oct 2025 08:51:41 GMT | What Happens If a Quantum Computer Cracks Blockchain Encryption? | Bobby Andrews | [Read More](https://medium.com/p/91f5a676364b) |
+| Wed, 29 Oct 2025 08:49:49 GMT | How I Used Data Science to Predict Stock Movements in Real Time | Fateyaly | [Read More](https://medium.com/p/981cc9ea5316) |
 | Wed, 29 Oct 2025 08:48:28 GMT | The Night Watch and the Standard of Safety: Why Professional Security is Non-Negotiable in Kochi | Sambhu Sunil | [Read More](https://medium.com/p/fd3b7f52403b) |
 | Wed, 29 Oct 2025 08:46:21 GMT | Data Exfiltration Explained: How to Use Splunk and Wireshark to Detect Data Exfiltration | Motasem Hamdan | [Read More](https://medium.com/p/dd56367016e0) |
 | Wed, 29 Oct 2025 08:45:00 GMT | Empowering Secure Spaces with Checkpoint Access | Office | [Read More](https://medium.com/p/c8783b791638) |
@@ -103,15 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 Muhammad's
 M
 Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
-| Wed, 29 Oct 2025 00:33:46 GMT | Cognitive Hygiene For The Feed: A Field Manual For Everyday People | M Nuri Shakoor - The Digital Navigator | [Read More](https://medium.com/p/d80505a60f91) |
-| Wed, 29 Oct 2025 00:07:42 GMT | Cybersecurity Meets Creativity: ISE 2026 Ushers in a New Era for the Audiovisual Industry | Darknetsearch.com | [Read More](https://medium.com/p/ebc86295cc60) |
-| Wed, 29 Oct 2025 00:02:02 GMT | ParamSpider Essential Guide to URL Extraction | JPablo13 | [Read More](https://medium.com/p/161ba6c56e9f) |
-| Tue, 28 Oct 2025 23:59:19 GMT | How a Dedicated Server helps protect Confidential information from Being Accessed | Adella Pasos | [Read More](https://medium.com/p/98a2c5bcefbb) |
-| Tue, 28 Oct 2025 23:50:52 GMT | TryHackMe MD2PDF: SSRF Challenge Walkthrough | Trixia Horner | [Read More](https://medium.com/p/8caf92749b3e) |
-| Tue, 28 Oct 2025 23:40:18 GMT | Practicing PowerShell Automation in My SOC Analyst Lab | Jenna S | [Read More](https://medium.com/p/3f3d0389e0d7) |
-| Tue, 28 Oct 2025 23:22:30 GMT | BREAKING : Wuzen Android RAT Source Code Leaked - Now Free on Telegram Channels | REE-D-BLACK | [Read More](https://medium.com/p/b1b5e4b968ae) |
-| Tue, 28 Oct 2025 23:17:48 GMT | CSRF Bypass Techniques (Deep Dive) | Ikajakam | [Read More](https://medium.com/p/12ec2f985362) |
-| Tue, 28 Oct 2025 23:10:06 GMT | Let’s get some physical | Pablo M | [Read More](https://medium.com/p/66b8ae9f50a3) |
-| Tue, 28 Oct 2025 22:44:43 GMT | X Warns Users With Security Keys: Re-Enroll or Get Locked Out | Cyber-AppSec | [Read More](https://medium.com/p/2bd3e8f9dfdc) |
-| Tue, 28 Oct 2025 22:44:27 GMT | NVIDIA’s $1 Billion Strategic Investment in Nokia: Pioneering the AI-Driven Future of 6G… | Julia Ahrens | [Read More](https://medium.com/p/80491ec9d2f1) |
-| Tue, 28 Oct 2025 22:40:11 GMT | Best Crypto Asset Recovery Services Providers: Hire Optimistic Hacker Gaius | Anderson Thomas | [Read More](https://medium.com/p/7f9a5ec6feb6) |
