@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 17:15:00 GMT | Cybersecurity Challenges for ISPs: How Jeebr Is Building Safer Networks | Jeebrinternet | [Read More](https://medium.com/p/16e0e0f6795a) |
+| Wed, 29 Oct 2025 17:11:28 GMT | The Ultimate Ransomware Defense: Test Your Backups! | Technology EM3 | [Read More](https://medium.com/p/fd72cd95ebd4) |
+| Wed, 29 Oct 2025 17:10:30 GMT | Microsoft Flags ASP NET Flaw Allowing Sneaky HTTP Request Smuggling | Chetan Seripally | [Read More](https://medium.com/p/1fca0cc217bd) |
+| Wed, 29 Oct 2025 17:08:11 GMT | Why I Never Leave PowerShell Logging Disabled on Windows Servers | Faruk Ahmed | [Read More](https://medium.com/p/368f35a86369) |
+| Wed, 29 Oct 2025 17:03:48 GMT | AI-Powered Citizen Development Security Risks And How To Address Them | Spektion | [Read More](https://medium.com/p/ae6552345779) |
+| Wed, 29 Oct 2025 17:01:54 GMT | Python vs. ☕ Java for Cybersecurity: Which Should You Learn First? | Code Link | [Read More](https://medium.com/p/ef99849867d9) |
+| Wed, 29 Oct 2025 17:00:06 GMT | Alert Triage With Elastic — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/44818f852564) |
+| Wed, 29 Oct 2025 16:58:07 GMT | I Traced My Stalker Using OSINT Tools and I Wish I Hadn’t | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/ec0d38f0390a) |
+| Wed, 29 Oct 2025 16:51:53 GMT | Quantum Computing Risks: Are You Prepared for the Post-Quantum Era? | Danielle Koppel | [Read More](https://medium.com/p/0ebc39c66f98) |
+| Wed, 29 Oct 2025 16:51:32 GMT | From Friend to Fraud: The Deceptive World of the Pig Butchering Scam | Danielle Koppel | [Read More](https://medium.com/p/3e113ab031c9) |
 | Wed, 29 Oct 2025 16:50:58 GMT | Looks Can be Deceiving: Wolves are Hunting Your Information | Danielle Koppel | [Read More](https://medium.com/p/ea8e8a0cacf9) |
 | Wed, 29 Oct 2025 16:38:51 GMT | How I Became the Digital Spider-Man: Swinging Through Every Security Layer ️️ | Iski | [Read More](https://medium.com/p/7882e394832b) |
 | Wed, 29 Oct 2025 16:34:45 GMT | Unlock Lucrative JV Partnerships: The Value-First Networking Blueprint for Entrepreneurs | Olivia Muhammad | [Read More](https://medium.com/p/fefab77d49e8) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 12:17:52 GMT | Tomghost writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/56c78a7f1930) |
 | Wed, 29 Oct 2025 12:17:18 GMT | Web Cache Poisoning — Part 1: Understanding the Beast | Abhishek meena | [Read More](https://medium.com/p/d303f1741e48) |
 | Wed, 29 Oct 2025 12:14:04 GMT | I l forgot. | Joelle luxer | [Read More](https://medium.com/p/3bf7c9da3297) |
-| Wed, 29 Oct 2025 12:00:28 GMT | [ SOC Alert => Traffic to Malware Domain ] by LetsDefend / EventID: 46 = Severity: Critical /… | EduKayky | [Read More](https://medium.com/p/c47997e05731) |
-| Wed, 29 Oct 2025 11:56:09 GMT | [ SOC Alert => Traffic to Malware Domain ] by LetsDefend / EventID: 46 = Severity: Critical | EduKayky | [Read More](https://medium.com/p/52bc0527dd81) |
-| Wed, 29 Oct 2025 11:49:51 GMT | Every few months,the crypto world wakes up to another DeFi hack. | Loyalty | [Read More](https://medium.com/p/7b5ab481b7b2) |
-| Wed, 29 Oct 2025 11:46:33 GMT | The Unlikely Freedom of Admitting You’re Not Okay | Emma Blake | [Read More](https://medium.com/p/d7d82fdee41e) |
-| Wed, 29 Oct 2025 11:39:17 GMT | Chain Link Fence in Saudi Arabia Durable, Cost-Smart, and Climate-Ready Perimeters | Hitechfence | [Read More](https://medium.com/p/58824c18c1a4) |
-| Wed, 29 Oct 2025 11:20:20 GMT | Facebook Now Deep-Scans ALL Your Photos with AI | Karl Buhl | [Read More](https://medium.com/p/00fcb587f133) |
-| Wed, 29 Oct 2025 11:19:26 GMT | 5 Smart Strategies to Reduce Theft & Shrinkage in Your Business with CCTV Monitoring | Muhammadzohaib | [Read More](https://medium.com/p/16f60efb459f) |
-| Wed, 29 Oct 2025 11:16:39 GMT | Why CCTV Monitoring Security in Alberta is a Smart Move” | Muhammadzohaib | [Read More](https://medium.com/p/e6e19cda7738) |
-| Wed, 29 Oct 2025 11:16:28 GMT | Everything you need to know about anonymous proxies, and how they outperform alternatives | Martin E. | [Read More](https://medium.com/p/0d514e7097d7) |
-| Wed, 29 Oct 2025 11:10:33 GMT | Digital Shield: Forging an Unbreachable Line of Digital Sovereignty with Verifiable Security | Digital Shield | [Read More](https://medium.com/p/6a7265fe6a5e) |
