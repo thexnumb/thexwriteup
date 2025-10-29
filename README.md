@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Oct 2025 01:40:41 GMT | GlassWorm: Self-Propagating Worm Compromises VSCode Extensions | Wraith | [Read More](https://medium.com/p/83b61afc7616) |
+| Wed, 29 Oct 2025 01:33:04 GMT | Oracle EBS Runtime Interface Vulnerability Leads to Data Exposure (CVE-2025–61884) | Criminal IP | [Read More](https://medium.com/p/1fa051587de2) |
+| Wed, 29 Oct 2025 01:23:51 GMT | PostgreSQL 17 vs 18: The Hidden Upgrade That Makes Your Queries Run Instantly | Rizqi Mulki | [Read More](https://medium.com/p/3e4952eb46b0) |
+| Wed, 29 Oct 2025 01:23:13 GMT | 8 Types of Malware and How They Really Work in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/0cd0e066bb80) |
+| Wed, 29 Oct 2025 01:06:36 GMT | Getting Started with Bash-Day 1 of My Cybersecurity Journey | Sammy | [Read More](https://medium.com/p/8b67dce8d306) |
+| Wed, 29 Oct 2025 01:02:20 GMT | The Role of Employee Training in Cybersecurity | TRS Wireless | [Read More](https://medium.com/p/886d640300be) |
+| Wed, 29 Oct 2025 00:47:08 GMT | Ghosting Your Old Network: The Bold Strategy That Unlocked $500K in Hidden Opportunities | Olivia Muhammad
+Muhammad's
+M
+Muhammad | [Read More](https://medium.com/p/b04783b4f6ad) |
+| Wed, 29 Oct 2025 00:33:46 GMT | Cognitive Hygiene For The Feed: A Field Manual For Everyday People | M Nuri Shakoor - The Digital Navigator | [Read More](https://medium.com/p/d80505a60f91) |
+| Wed, 29 Oct 2025 00:07:42 GMT | Cybersecurity Meets Creativity: ISE 2026 Ushers in a New Era for the Audiovisual Industry | Darknetsearch.com | [Read More](https://medium.com/p/ebc86295cc60) |
+| Wed, 29 Oct 2025 00:02:02 GMT | ParamSpider Essential Guide to URL Extraction | JPablo13 | [Read More](https://medium.com/p/161ba6c56e9f) |
+| Tue, 28 Oct 2025 23:59:19 GMT | How a Dedicated Server helps protect Confidential information from Being Accessed | Adella Pasos | [Read More](https://medium.com/p/98a2c5bcefbb) |
+| Tue, 28 Oct 2025 23:50:52 GMT | TryHackMe MD2PDF: SSRF Challenge Walkthrough | Trixia Horner | [Read More](https://medium.com/p/8caf92749b3e) |
+| Tue, 28 Oct 2025 23:40:18 GMT | Practicing PowerShell Automation in My SOC Analyst Lab | Jenna S | [Read More](https://medium.com/p/3f3d0389e0d7) |
 | Tue, 28 Oct 2025 23:22:30 GMT | BREAKING : Wuzen Android RAT Source Code Leaked - Now Free on Telegram Channels | REE-D-BLACK | [Read More](https://medium.com/p/b1b5e4b968ae) |
 | Tue, 28 Oct 2025 23:17:48 GMT | CSRF Bypass Techniques (Deep Dive) | Ikajakam | [Read More](https://medium.com/p/12ec2f985362) |
 | Tue, 28 Oct 2025 23:10:06 GMT | Let’s get some physical | Pablo M | [Read More](https://medium.com/p/66b8ae9f50a3) |
@@ -99,16 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Oct 2025 16:44:19 GMT | If Only You Knew | Natalie Stafford | [Read More](https://medium.com/p/ba76c4cd0be0) |
 | Tue, 28 Oct 2025 16:41:13 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/1f1fe95087e3) |
 | Tue, 28 Oct 2025 16:37:48 GMT | Tracing Shadows, “The Orkla: Dragon Con Detective” Investigation, WalkThrough. | Azutech | [Read More](https://medium.com/p/e69aa697b26c) |
-| Tue, 28 Oct 2025 16:36:19 GMT | AI Browsers: Smart, Fast, and a Bit Too Curious | Akanksha Mane | [Read More](https://medium.com/p/ee0d8e0e8863) |
-| Tue, 28 Oct 2025 16:35:37 GMT | Python Secure Coding Guidelines | Maikel Mardjan | [Read More](https://medium.com/p/fac884d961c1) |
-| Tue, 28 Oct 2025 16:32:04 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/57c27268a055) |
-| Tue, 28 Oct 2025 16:28:12 GMT | Types of Cyber Attacks Beginners Should Know About | Nway Nway Zay Ya | [Read More](https://medium.com/p/26672163af4e) |
-| Tue, 28 Oct 2025 16:25:07 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/bd006368a925) |
-| Tue, 28 Oct 2025 16:23:49 GMT | How a Small Chain Turned Duplicates into a Valid Bug with Post-Removal Access | Ahmed Hassan | [Read More](https://medium.com/p/f2829526595f) |
-| Tue, 28 Oct 2025 16:21:06 GMT | How to Decrypt AES Traffic in Flutter Apps — A Practical Guide | Emad Abedini | [Read More](https://medium.com/p/40da5258420a) |
-| Tue, 28 Oct 2025 16:17:14 GMT | Darknet Market Takedown: Europe-Wide Crackdown Reshapes the Hidden Web | Tor BBB | [Read More](https://medium.com/p/e9f299550017) |
-| Tue, 28 Oct 2025 16:13:36 GMT | Unified Security Operations: Why Physical Security and Managed IT Services Are Converging in 2025 | Teona | [Read More](https://medium.com/p/03664b71cc70) |
-| Tue, 28 Oct 2025 16:09:06 GMT | False-Flag Operation Detection & Investigation Checklist | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/80de07b79925) |
-| Tue, 28 Oct 2025 16:05:41 GMT | Can technological surveillance ever be justified in a democratic society? | Cyber and Coffee | [Read More](https://medium.com/p/4dbccb3c5c9e) |
-| Tue, 28 Oct 2025 16:00:43 GMT | TuesdayTool 36 — FullHunt.io: A Comprehensive Guide to Attack Surface Management | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/41cf4c455ffc) |
-| Tue, 28 Oct 2025 15:59:52 GMT | There is nothing new under the sun of cybersecurity realm | Martin Abramov | [Read More](https://medium.com/p/6a116c78e974) |
