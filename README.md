@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 09:18:37 GMT | Mastering Subdomain Takeover: Step-by-Step Guide with Real Tools and Techniques | Very Lazy Tech | [Read More](https://medium.com/p/8f1c8a4583ca) |
+| Thu, 30 Oct 2025 09:17:22 GMT | InHouse Splunk ES Automation — Full Code | Aufarifqi | [Read More](https://medium.com/p/99f6a9db724f) |
+| Thu, 30 Oct 2025 09:12:54 GMT | How to Fix “Permission Denied” When Using SCP on CentOS (Step-by-Step Guide) | Ruvimbo Mambinge | [Read More](https://medium.com/p/5dc67d11bd8b) |
+| Thu, 30 Oct 2025 09:12:44 GMT | Disgruntled. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/1fba7530aa8e) |
+| Thu, 30 Oct 2025 09:12:13 GMT | 10 Ways to Make Money With AI (That Actually Work) | Global Whirl of Wonders | [Read More](https://medium.com/p/4098d32b2ee7) |
+| Thu, 30 Oct 2025 09:04:40 GMT | How I Hacked IIT Delhi | StvRoot | [Read More](https://medium.com/p/885a7f810292) |
+| Thu, 30 Oct 2025 09:03:01 GMT | $1000 Bounty: GitLab Security Flaw Exposed | Monika sharma | [Read More](https://medium.com/p/dd309788abb4) |
+| Thu, 30 Oct 2025 08:58:26 GMT | Best VPNs for iPhone Secure Your Data and Privacy | Tsumit | [Read More](https://medium.com/p/8023f1fb3641) |
+| Thu, 30 Oct 2025 08:55:08 GMT | 302 HTTP Response Codes Are Not Always Server-Side Redirects | Parsa Riyahi | [Read More](https://medium.com/p/dc8d0851596f) |
+| Thu, 30 Oct 2025 08:53:52 GMT | Today marks the launch of Grokipedia, a new AI-driven online encyclopedia from Elon Musk’s xAI… | Sahar Rahat Khan | [Read More](https://medium.com/p/d9f763a76af1) |
+| Thu, 30 Oct 2025 08:53:44 GMT | How I Reported a Pre-Account Hijack Affecting Any Gmail User (Even Google Employees)- My Bug… | Harsh kothari | [Read More](https://medium.com/p/258180c8dd70) |
+| Thu, 30 Oct 2025 08:51:50 GMT | How Misconfigured Databases Lead to Massive Data Breaches | SecureITWorld | [Read More](https://medium.com/p/5b9ebfd63b79) |
+| Thu, 30 Oct 2025 08:50:09 GMT | 10 Common Mobile Security Threats And How To Prevent Them | Beadaptify | [Read More](https://medium.com/p/232667298a45) |
+| Thu, 30 Oct 2025 08:47:55 GMT | Securing Brand Identity Against Deepfake Threats | Ai Writter Tools | [Read More](https://medium.com/p/395319408a24) |
 | Thu, 30 Oct 2025 08:38:26 GMT | Top Tools to Master for a Career in Cybersecurity | Mukesh Giri | [Read More](https://medium.com/p/2483f48b1668) |
 | Thu, 30 Oct 2025 08:22:09 GMT | The Psychology Behind Scams in Real Estate: Facing the Storms Outside Ourselves | Aysun Celik | [Read More](https://medium.com/p/a8a950235dd3) |
 | Thu, 30 Oct 2025 08:21:11 GMT | Securing Remote Locations: How Roving Patrol Security Keeps Your Property Safe | Sentrysofficers | [Read More](https://medium.com/p/4d5edff119b1) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 23:02:30 GMT | Why I Don’t Trust Password Generators (So I Built My Own) | Atypicvoyage | [Read More](https://medium.com/p/9dc3c988bfad) |
 | Wed, 29 Oct 2025 22:57:24 GMT | Stop Using Complex Passwords — Do This Instead! | Cyber-AppSec | [Read More](https://medium.com/p/d0d685fa7a9a) |
 | Wed, 29 Oct 2025 22:44:05 GMT | Ready to Go Pro in Cybersecurity? | Martin Onyisi | [Read More](https://medium.com/p/00e2def578f1) |
-| Wed, 29 Oct 2025 22:42:12 GMT | Your tests break every week. Not because of bugs | Petr | [Read More](https://medium.com/p/b34b6658447d) |
-| Wed, 29 Oct 2025 22:41:27 GMT | Summit - THM | Isiah | [Read More](https://medium.com/p/d870c1ecd53b) |
-| Wed, 29 Oct 2025 22:23:34 GMT | Do You Believe Your Home Printer is Secure? Think Again | Anthony | [Read More](https://medium.com/p/9684de71734a) |
-| Wed, 29 Oct 2025 22:19:11 GMT | AWS Cloud Adoption Framework (CAF): Security Perspective Explained | Rabbiyatabassum | [Read More](https://medium.com/p/3af8204db683) |
-| Wed, 29 Oct 2025 22:19:08 GMT | CVE-2025–59287 (WSUS) — Advisory & Technical Brief | SOCFortress | [Read More](https://medium.com/p/1990862aae1a) |
-| Wed, 29 Oct 2025 22:11:23 GMT | HackTheBox — Escape (Medium) | Shnogeorgiev | [Read More](https://medium.com/p/306404e55e62) |
-| Wed, 29 Oct 2025 21:58:09 GMT | Master Active Directory: A Complete Beginner's to Intermediate Guide | Beri Contraster | [Read More](https://medium.com/p/2f5faf9a4fa5) |
-| Wed, 29 Oct 2025 21:55:33 GMT | Quranium: Future-Proofing Digital Assets for the Post-Quantum Era | Bright Mmaduabuchi | [Read More](https://medium.com/p/46f9f722d296) |
-| Wed, 29 Oct 2025 21:52:10 GMT | Заявление Phala о уязвимости в шине памяти DDR5 | Phala Network RU | [Read More](https://medium.com/p/ec8fd33aa94c) |
-| Wed, 29 Oct 2025 21:34:48 GMT | The Drag | Aleksei G | [Read More](https://medium.com/p/3b734bb19764) |
-| Wed, 29 Oct 2025 21:34:01 GMT | Happy Halloween Everyone! And .. to Bugs?! | SapphireCat | [Read More](https://medium.com/p/f6577ec8c060) |
-| Wed, 29 Oct 2025 21:31:34 GMT | The SHIFT key is special, and here’s the weird history behind it | Artilogic | [Read More](https://medium.com/p/dc91db8ea660) |
-| Wed, 29 Oct 2025 21:26:34 GMT | A guerra contra a geração Z | R.H. Santos | [Read More](https://medium.com/p/4d34aad811de) |
-| Wed, 29 Oct 2025 21:21:40 GMT | Hackvember: 30 Flags, 30 Days — Let’s Get CTF-ing | Alvin Kapoor | [Read More](https://medium.com/p/272a4638ddfe) |
