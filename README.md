@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 17:33:19 GMT | From Recon to Root: Lessons from a Vulnerable Ubuntu VM | Vivektumma27 | [Read More](https://medium.com/p/07c9afb15a53) |
+| Thu, 30 Oct 2025 17:29:24 GMT | Composing Detection: What Nolan & Zimmer Teach Us About Cyber Operations | ReZa AdineH | [Read More](https://medium.com/p/eeaa4f01b5be) |
+| Thu, 30 Oct 2025 17:21:48 GMT | Microsoft Power Platform: Empowering Everyone to Build Apps | Sandeepa Wimalasiri | [Read More](https://medium.com/p/33684d7f9875) |
+| Thu, 30 Oct 2025 17:19:41 GMT | Deep Shadow Wings: Powerful Web Recon — Simple, Fast, Effective | adce626 | [Read More](https://medium.com/p/305648621512) |
+| Thu, 30 Oct 2025 17:17:53 GMT | AI’s Dark Side: How Fake Invoices Became a Million-Dollar Threat | AI Rabbit | [Read More](https://medium.com/p/dd00a230dfd7) |
 | Thu, 30 Oct 2025 17:06:02 GMT | The $20,000 Robot That Isn’t Really a Robot: Inside the Neo Deception | Berend Watchus | [Read More](https://medium.com/p/87ec84cdf37d) |
 | Thu, 30 Oct 2025 17:05:54 GMT | I Thought Domain and SSL Were Boring | satyaranjan bal | [Read More](https://medium.com/p/247f734d1969) |
 | Thu, 30 Oct 2025 16:58:33 GMT | New Chromium Blink Flaw Can Crash Browsers in Seconds | Chetan Seripally | [Read More](https://medium.com/p/a0496fe388c2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 11:26:55 GMT | 7 Hidden Samsung A Series Tricks That Will Blow Your Mind | Chloe White | [Read More](https://medium.com/p/ae06c8e71764) |
 | Thu, 30 Oct 2025 11:26:12 GMT | I Almost Got Hacked By a “Job Interview” — One AI Prompt Stopped It | arshia harati | [Read More](https://medium.com/p/97fa4ebf21f9) |
 | Thu, 30 Oct 2025 11:25:55 GMT | CyberDefenders Writeup: AsyncRAT Lab | Emiliano | [Read More](https://medium.com/p/f634892e8f65) |
-| Thu, 30 Oct 2025 11:21:55 GMT | Why Smart Businesses Invest in Penetration Testing Services Before It’s Too Late | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/bf2b24618fc7) |
-| Thu, 30 Oct 2025 11:19:53 GMT | 2025’s Best Hosting Picks From Shared to Managed VPS Made Easy | Ann Taylor | [Read More](https://medium.com/p/7ea528c87459) |
-| Thu, 30 Oct 2025 11:17:23 GMT | The Art of Staying Invisible Online (Without Living Like a Ghost) | Arfa | [Read More](https://medium.com/p/3f02e6b147da) |
-| Thu, 30 Oct 2025 11:16:28 GMT | Why Choose Professional Security Guard Services in the USA | Direct Guard Services | [Read More](https://medium.com/p/d9300c20b1d7) |
-| Thu, 30 Oct 2025 11:15:23 GMT | 8 Realistic Interview Questions on Attacks Against Active Directory | CyberSenpai | [Read More](https://medium.com/p/4a28f5e96113) |
