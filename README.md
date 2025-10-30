@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 01:39:03 GMT | The Reconnaissance Lie You Keep Believing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/fcc6d6184381) |
+| Thu, 30 Oct 2025 01:35:25 GMT | App modernization in 2025 is transforming how businesses handle scalability, performance, and… | Anand | [Read More](https://medium.com/p/d21ee7d526ed) |
+| Thu, 30 Oct 2025 01:07:23 GMT | Dynamic Trust Constellation (DTC): The Next Breakthrough in Zero Trust Architecture | Nachiket Deshpande | [Read More](https://medium.com/p/34e02beaea23) |
+| Thu, 30 Oct 2025 00:32:19 GMT | ☕ When a REST Route Spills the Beans: Finding an Author-enumeration Bug (CVE-2023–5561) | AIwolfie | [Read More](https://medium.com/p/ce0acde23653) |
+| Thu, 30 Oct 2025 00:11:52 GMT | A developer’s honest take on how SSL truly keeps your web apps — and your business — safe. | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/8bd2ad288ec5) |
+| Thu, 30 Oct 2025 00:11:29 GMT | DanaBot Lab — CyberDefenders Write-Up | Johnathonsiganoff | [Read More](https://medium.com/p/8336a6c1fa3f) |
+| Thu, 30 Oct 2025 00:01:52 GMT | Precision, Accountability, and Results | Rhiannon Williams | [Read More](https://medium.com/p/568338331dbd) |
 | Wed, 29 Oct 2025 23:36:51 GMT | DC-1 — Full walkthrough | Vaibhav | [Read More](https://medium.com/p/a24c7e4bd046) |
 | Wed, 29 Oct 2025 23:28:23 GMT | Seized Lab Writeup | Jaws | [Read More](https://medium.com/p/3f96a47e6f18) |
 | Wed, 29 Oct 2025 23:21:33 GMT | One ID Change, Many Accounts: Exploiting an IDOR in a User API | mwael0x | [Read More](https://medium.com/p/3863669ab509) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 16:58:07 GMT | I Traced My Stalker Using OSINT Tools and I Wish I Hadn’t | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/ec0d38f0390a) |
 | Wed, 29 Oct 2025 16:51:53 GMT | Quantum Computing Risks: Are You Prepared for the Post-Quantum Era? | Danielle Koppel | [Read More](https://medium.com/p/0ebc39c66f98) |
 | Wed, 29 Oct 2025 16:51:32 GMT | From Friend to Fraud: The Deceptive World of the Pig Butchering Scam | Danielle Koppel | [Read More](https://medium.com/p/3e113ab031c9) |
-| Wed, 29 Oct 2025 16:50:58 GMT | Looks Can be Deceiving: Wolves are Hunting Your Information | Danielle Koppel | [Read More](https://medium.com/p/ea8e8a0cacf9) |
-| Wed, 29 Oct 2025 16:38:51 GMT | How I Became the Digital Spider-Man: Swinging Through Every Security Layer ️️ | Iski | [Read More](https://medium.com/p/7882e394832b) |
-| Wed, 29 Oct 2025 16:34:45 GMT | Unlock Lucrative JV Partnerships: The Value-First Networking Blueprint for Entrepreneurs | Olivia Muhammad | [Read More](https://medium.com/p/fefab77d49e8) |
-| Wed, 29 Oct 2025 16:28:47 GMT | How to Download and Install Kali Linux: Two Easy Methods (Host & VirtualBox) Download Kali Linux… | Aaditya Raj Singh | [Read More](https://medium.com/p/a5e6a3f6b425) |
-| Wed, 29 Oct 2025 16:26:46 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/57a59e00080c) |
-| Wed, 29 Oct 2025 16:22:22 GMT | Stop the Reuse Habit: Length and Uniqueness Win the Password War! ️ | Technology EM3 | [Read More](https://medium.com/p/9e6ea6c8cb02) |
-| Wed, 29 Oct 2025 16:22:11 GMT | Big Data : Spark SQL | Yasa Wijaya | [Read More](https://medium.com/p/9d74af205b8b) |
