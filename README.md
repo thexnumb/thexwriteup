@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 04:17:47 GMT | HTTP RESPONSE STATUS CODES | Jei Ess | [Read More](https://medium.com/p/c5c91d9e78d2) |
+| Thu, 30 Oct 2025 04:11:52 GMT | SQL Injection: A Comprehensive Guide to Types,Impacts and Prevention | PRAVEEN J | [Read More](https://medium.com/p/3ee552217d34) |
+| Thu, 30 Oct 2025 04:09:36 GMT | Zero Trust with Wazuh: Continuous Verification for Identities and Access | Ismael Barrantes | [Read More](https://medium.com/p/b5c8a440b48c) |
+| Thu, 30 Oct 2025 04:03:27 GMT | Exploring the 6 Types of Projects in Project Management | TaskFord | [Read More](https://medium.com/p/2efdf93300d0) |
+| Thu, 30 Oct 2025 04:02:32 GMT | Business Logic Flaws: The Vulnerabilities No Scanner Can Find | InstaTunnel | [Read More](https://medium.com/p/b52d64692f4d) |
+| Thu, 30 Oct 2025 03:59:54 GMT | What is wrong with me? | Hilary Bennett | [Read More](https://medium.com/p/82a3c8385281) |
 | Thu, 30 Oct 2025 03:48:13 GMT | pico ctf mod 26 | Andhika IT | [Read More](https://medium.com/p/3206e03b88ed) |
 | Thu, 30 Oct 2025 03:38:44 GMT | Server Network: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/98c2b71607ee) |
 | Thu, 30 Oct 2025 03:31:52 GMT | The Malware That Waits: How Hackers Use Android Droppers to Stay Invisible | Deven Chhajed | [Read More](https://medium.com/p/1d126d261b00) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 17:39:03 GMT | Cyber Security: Artificial Intelligence and Machine Learning | Cyber Security Research | [Read More](https://medium.com/p/710ddf9c84d8) |
 | Wed, 29 Oct 2025 17:38:48 GMT | The AI Standard Wars We’ve Seen Before | Paul M Jankowski | [Read More](https://medium.com/p/29d5ce991502) |
 | Wed, 29 Oct 2025 17:37:38 GMT | Modern Cyber Defense: The Growing Role of AI and Machine Learning Against Ransomware | Rashadul Islam | [Read More](https://medium.com/p/f90e4d9708e2) |
-| Wed, 29 Oct 2025 17:37:37 GMT | Your Network is Only as Strong as Your Weakest Partner: The Supply Chain Risk ⚠️ | Technology EM3 | [Read More](https://medium.com/p/9f487c4e996c) |
-| Wed, 29 Oct 2025 17:31:52 GMT | All In One Tryhackme Room | Mainekhacker | [Read More](https://medium.com/p/30f2f928a5c5) |
-| Wed, 29 Oct 2025 17:30:34 GMT | Question‍♂️ | Desmond | [Read More](https://medium.com/p/278baabc47b6) |
-| Wed, 29 Oct 2025 17:30:13 GMT | WordPress Security Best Practices You Can’t Afford to Ignore | Ibbad Ullah | [Read More](https://medium.com/p/d0c0061ba9c2) |
-| Wed, 29 Oct 2025 17:29:29 GMT | 10 Splunk Search Commands Every Cybersecurity Analyst Should Master (SPL Cheat Sheet) | Omar Maged Ahmed | [Read More](https://medium.com/p/cb3ad38814b8) |
-| Wed, 29 Oct 2025 17:16:43 GMT | When Vendors Become Vulnerabilities: Lessons from a Public Sector Data Breach | Christopher Montgomery | [Read More](https://medium.com/p/a006f11263e0) |
