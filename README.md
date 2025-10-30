@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 11:37:24 GMT | Top 30 Network Scanning Tools for Ethical Hackers | Manisha Chaudhary | [Read More](https://medium.com/p/0b47cd12b2cc) |
+| Thu, 30 Oct 2025 11:35:48 GMT | Types of Firewalls and the OSI Layers They Operate On | Huseyn Eyvazov | [Read More](https://medium.com/p/103e94d211b7) |
+| Thu, 30 Oct 2025 11:34:13 GMT | Securing Your Platform: How OWASP Frameworks Protect Your Development | Nway Nway Zay Ya | [Read More](https://medium.com/p/28ce11febf44) |
+| Thu, 30 Oct 2025 11:33:29 GMT | Uncovering the Dark Side of Bitcoin | Frost | [Read More](https://medium.com/p/eb91a40e35be) |
+| Thu, 30 Oct 2025 11:29:28 GMT | Defense in Depth: The Bedrock of Modern Cybersecurity | Elvin-001 | [Read More](https://medium.com/p/85d372916851) |
+| Thu, 30 Oct 2025 11:26:55 GMT | 7 Hidden Samsung A Series Tricks That Will Blow Your Mind | Chloe White | [Read More](https://medium.com/p/ae06c8e71764) |
+| Thu, 30 Oct 2025 11:26:12 GMT | I Almost Got Hacked By a “Job Interview” — One AI Prompt Stopped It | arshia harati | [Read More](https://medium.com/p/97fa4ebf21f9) |
+| Thu, 30 Oct 2025 11:25:55 GMT | CyberDefenders Writeup: AsyncRAT Lab | Emiliano | [Read More](https://medium.com/p/f634892e8f65) |
+| Thu, 30 Oct 2025 11:21:55 GMT | Why Smart Businesses Invest in Penetration Testing Services Before It’s Too Late | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/bf2b24618fc7) |
+| Thu, 30 Oct 2025 11:19:53 GMT | 2025’s Best Hosting Picks From Shared to Managed VPS Made Easy | Ann Taylor | [Read More](https://medium.com/p/7ea528c87459) |
+| Thu, 30 Oct 2025 11:17:23 GMT | The Art of Staying Invisible Online (Without Living Like a Ghost) | Arfa | [Read More](https://medium.com/p/3f02e6b147da) |
 | Thu, 30 Oct 2025 11:16:28 GMT | Why Choose Professional Security Guard Services in the USA | Direct Guard Services | [Read More](https://medium.com/p/d9300c20b1d7) |
 | Thu, 30 Oct 2025 11:15:23 GMT | 8 Realistic Interview Questions on Attacks Against Active Directory | CyberSenpai | [Read More](https://medium.com/p/4a28f5e96113) |
 | Thu, 30 Oct 2025 11:05:40 GMT | Dating Feels Exhausting Because Everyone’s Trying to Win, Not Connect. | Bloom with Maria | [Read More](https://medium.com/p/c00714910112) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 07:01:53 GMT | From Service to Silicon: How Veterans Are Successfully Transitioning Into IT Careers | Generiss Academy | [Read More](https://medium.com/p/9d7d302c15b6) |
 | Thu, 30 Oct 2025 06:58:04 GMT | Qilin Ransomware: A Growing Global Threat for Organization’s | Mohana Reddy | [Read More](https://medium.com/p/d4aea4f38fd2) |
 | Thu, 30 Oct 2025 06:48:31 GMT | Top 15 Open Source Tools for Digital Forensics Investigations | Manisha Chaudhary | [Read More](https://medium.com/p/e1d1e95d4975) |
-| Thu, 30 Oct 2025 06:45:57 GMT | Inside a Digital Investigation: What Really Happens After a Cyberattack | Chinmayravindra | [Read More](https://medium.com/p/b432a2d060b7) |
-| Thu, 30 Oct 2025 06:37:54 GMT | 3 Costly IT Mistakes That Are Holding Your Startup Back (And How to Fix Them) | Anmol Sharma | [Read More](https://medium.com/p/abc16557594a) |
-| Thu, 30 Oct 2025 06:31:58 GMT | DC-2 — Full walkthrough (VulnHub) | Vaibhav | [Read More](https://medium.com/p/c2f0f19243be) |
-| Thu, 30 Oct 2025 06:30:58 GMT | The Daily Tech Digest: 30 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/02a98fc39599) |
-| Thu, 30 Oct 2025 06:25:02 GMT | How to Spot a Data-Selling VPN: A 5-Minute Security Check | Avlex Group | [Read More](https://medium.com/p/1caf4ff4d92f) |
-| Thu, 30 Oct 2025 06:18:04 GMT | Inside the Quantum Cyber War | Aarav Gaur | [Read More](https://medium.com/p/c23aef7e61f3) |
-| Thu, 30 Oct 2025 06:13:01 GMT | The Rise of AI Sidekicks: Why Everyone Will Have a Personal Agent by 2026 | Shreshtha | [Read More](https://medium.com/p/7a03b016b4f5) |
-| Thu, 30 Oct 2025 06:08:35 GMT | SQL Injection — The Most Practical Guide for Beginners | Nitin yadav | [Read More](https://medium.com/p/e9d2ce946a49) |
-| Thu, 30 Oct 2025 06:02:34 GMT | WhatsApp’s New Privacy Rules: What They Really Mean for Your Data | Jabeen | [Read More](https://medium.com/p/d336c548e6f1) |
-| Thu, 30 Oct 2025 05:57:16 GMT | Beyond the CIA Triad: Understanding the CIANA Pentagon | Ferdi Edogawa | [Read More](https://medium.com/p/54cdc31355d8) |
-| Thu, 30 Oct 2025 05:46:30 GMT | JWT Token Explained Like You’re Five — But Smarter | TechWriter Hub | [Read More](https://medium.com/p/cec5216a7be3) |
