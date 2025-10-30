@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 05:38:51 GMT | Day 72- Understanding IAM ( identity and access management) as a beginner | unica 02 | [Read More](https://medium.com/p/450fe3f0c7f5) |
+| Thu, 30 Oct 2025 05:32:09 GMT | Your Shield in the Digital Age: Why Cybersecurity is a Top Career in Australia | Study Smart - Top Study Abroad Consultant | [Read More](https://medium.com/p/2e1733098b2c) |
 | Thu, 30 Oct 2025 05:12:28 GMT | The Right Way to Solve All Your Problems with AI | Suketu Prajapati | [Read More](https://medium.com/p/10ce20b7bb57) |
 | Thu, 30 Oct 2025 05:10:42 GMT | FIFA 2026 World Cup Scam Alert: Cybercriminals Gear Up as Global Event Nears | Breezy Business Channel | [Read More](https://medium.com/p/f2cc24c23540) |
 | Thu, 30 Oct 2025 04:56:21 GMT | My First Steps Into Linux — How I Learned to Talk to Machines | Salimassili | [Read More](https://medium.com/p/e1f41edcefa2) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 18:18:31 GMT | The Cat-and-Mouse Game of a Cloud Metadata SSRF Vulnerability | Ramshath | [Read More](https://medium.com/p/6efbb26e216a) |
 | Wed, 29 Oct 2025 18:12:02 GMT | The Future of OT Cybersecurity: AI, Regulation, and Resilience | Cyberkech | [Read More](https://medium.com/p/6eec6b5b950d) |
 | Wed, 29 Oct 2025 18:10:20 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/49584901470b) |
-| Wed, 29 Oct 2025 18:09:07 GMT | CVE Record Format Version 5.2.0 and CVE Services Version 2.6.0 Now Available | CVE Program Blog | [Read More](https://medium.com/p/ea756eee3659) |
-| Wed, 29 Oct 2025 18:05:21 GMT | Physical Security & Cybersecurity: How Their Strategies Diverge | Joven A Rodrigues | [Read More](https://medium.com/p/1be5009099b8) |
