@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 14:12:11 GMT | OUT OF TOUCH | Daniella Wanjiku | [Read More](https://medium.com/p/869b61f2e459) |
+| Thu, 30 Oct 2025 14:04:01 GMT | Certification: Your Shield Against Catastrophic Digital Failure | CFE CERTIFICATION | [Read More](https://medium.com/p/844905183011) |
+| Thu, 30 Oct 2025 14:02:54 GMT | How to Reconnect a Garage Door Opener: Quick Steps After Manual Release | Up & Down Garage Door Services | [Read More](https://medium.com/p/dc87e828d768) |
+| Thu, 30 Oct 2025 14:01:57 GMT | Hackers Can Now Steal Encryption Keys from DDR5 Memory; Even on Intel and AMD CPUs | Faraz Weerabangsa | [Read More](https://medium.com/p/f6f266af7ba9) |
+| Thu, 30 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.30 | CyberMaterial | [Read More](https://medium.com/p/37d99f3f050e) |
+| Thu, 30 Oct 2025 14:01:05 GMT | Cloud Security in 2025: A Comedy of Errors (Mostly Yours) | Aman Wraich | [Read More](https://medium.com/p/21a417dd175e) |
+| Thu, 30 Oct 2025 14:00:26 GMT | Data Privacy by Design: Protect Your Users and Build Trust | Paran | [Read More](https://medium.com/p/dd71636821b6) |
+| Thu, 30 Oct 2025 13:59:08 GMT | Lab: SameSite Strict bypass via client-side redirect | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/81fed4306b3e) |
+| Thu, 30 Oct 2025 13:57:18 GMT | Cloud Safety | AA LAWSNG | [Read More](https://medium.com/p/c97d6e449956) |
+| Thu, 30 Oct 2025 13:53:49 GMT | From Building to Protecting: My First Step into Cybersecurity | Ishicab | [Read More](https://medium.com/p/d156d486031a) |
+| Thu, 30 Oct 2025 13:53:39 GMT | PowerShell in Action: Hands-on Examples That Change How You Work | Mark Thompson | [Read More](https://medium.com/p/3c86a7531372) |
+| Thu, 30 Oct 2025 13:51:51 GMT | The Rise of Bossware — and Why SentryPC Stands Out in 2025 | Paul Meyer | [Read More](https://medium.com/p/ade60a935758) |
+| Thu, 30 Oct 2025 13:44:17 GMT | Top 5 Cybersecurity Mistakes Small Businesses Make (and How to Fix Them) | Peter Marshall James | [Read More](https://medium.com/p/58f125381a0d) |
+| Thu, 30 Oct 2025 13:40:57 GMT | Cyberattacks on SMBs: A Growing Threat | Teddy Cerra | [Read More](https://medium.com/p/9cf43ceb5baa) |
+| Thu, 30 Oct 2025 13:29:12 GMT | Why Choose BCA in Cloud Computing and Cyber Security in 2026 | Success Study Tips | [Read More](https://medium.com/p/dff977c69701) |
 | Thu, 30 Oct 2025 13:27:33 GMT | The Masks We Wear When No One’s Watching | Daniel Gagarin | [Read More](https://medium.com/p/1224c7806a0e) |
 | Thu, 30 Oct 2025 13:22:21 GMT | The True Cost of Tech Worker Burnout - 9-Figure Media | Maxwell JAMES | [Read More](https://medium.com/p/fa5d6fdafad7) |
 | Thu, 30 Oct 2025 13:21:52 GMT | PowerShell Keylogger (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/ad0e816e07e8) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 09:45:36 GMT | The Importance of Disaster Recovery in Cloud Computing | Techridge Solutions | [Read More](https://medium.com/p/ff7a2942087d) |
 | Thu, 30 Oct 2025 09:38:58 GMT | Facial verification can change the Unique identification model and stop Scams | labdhi | [Read More](https://medium.com/p/cdb99f254238) |
 | Thu, 30 Oct 2025 09:36:19 GMT | The Only Thing Your Newcomers Need Is TL;DR | Eduard Kuzhyr | [Read More](https://medium.com/p/338907ee4711) |
-| Thu, 30 Oct 2025 09:31:52 GMT | Secure File Uploads in 2025: Presigned, Scanned, Streamed | Thinking Loop | [Read More](https://medium.com/p/13e86a35307b) |
-| Thu, 30 Oct 2025 09:30:12 GMT | How I Turned Boring Data Into a Living, Breathing Story | Fateyaly | [Read More](https://medium.com/p/f60d21539ed6) |
-| Thu, 30 Oct 2025 09:26:40 GMT | Anonimity in the Web Based on Routing Protocols — Part 3 | Bruzzese Roberto | [Read More](https://medium.com/p/127e83a90d6e) |
-| Thu, 30 Oct 2025 09:26:14 GMT | AES-GCM Nonce Reuse Writeup | Malkhoori | [Read More](https://medium.com/p/7d5a92b599cb) |
-| Thu, 30 Oct 2025 09:26:09 GMT | Patchifi Launches from Stealth: Redefining Endpoint Security Through Intelligent Automation | Saarahjabir | [Read More](https://medium.com/p/684d557fa7c8) |
-| Thu, 30 Oct 2025 09:24:50 GMT | You sometimes hear about 'A match made in heaven', and that is exactly how I view this potential… | Jinshi | [Read More](https://medium.com/p/87373482338c) |
-| Thu, 30 Oct 2025 09:22:00 GMT | Why Cybersecurity Upskilling is the Cornerstone of the Digital-First Workforce | Corporate Learning Pulse | [Read More](https://medium.com/p/c83445b58f5a) |
-| Thu, 30 Oct 2025 09:21:42 GMT | How Microsoft Copilot Is Redefining Workplace Productivity with AI | Techridge Solutions | [Read More](https://medium.com/p/8745cc2d0fe4) |
-| Thu, 30 Oct 2025 09:18:52 GMT | DockerLabs Writeup — Dark (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a71d0cd0fc5f) |
-| Thu, 30 Oct 2025 09:18:37 GMT | Mastering Subdomain Takeover: Step-by-Step Guide with Real Tools and Techniques | Very Lazy Tech | [Read More](https://medium.com/p/8f1c8a4583ca) |
-| Thu, 30 Oct 2025 09:17:22 GMT | InHouse Splunk ES Automation — Full Code | Aufarifqi | [Read More](https://medium.com/p/99f6a9db724f) |
-| Thu, 30 Oct 2025 09:12:54 GMT | How to Fix “Permission Denied” When Using SCP on CentOS (Step-by-Step Guide) | Ruvimbo Mambinge | [Read More](https://medium.com/p/5dc67d11bd8b) |
-| Thu, 30 Oct 2025 09:12:44 GMT | Disgruntled. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/1fba7530aa8e) |
-| Thu, 30 Oct 2025 09:12:13 GMT | 10 Ways to Make Money With AI (That Actually Work) | Global Whirl of Wonders | [Read More](https://medium.com/p/4098d32b2ee7) |
-| Thu, 30 Oct 2025 09:04:40 GMT | How I Hacked IIT Delhi | StvRoot | [Read More](https://medium.com/p/885a7f810292) |
