@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 10:20:52 GMT | When “Is It Safe?” Becomes the Question: A Critical Look at Website Trust-Scoring Services | Jari | [Read More](https://medium.com/p/624ad218a8d0) |
+| Thu, 30 Oct 2025 10:15:25 GMT | The Story Behind Magento’s SessionReaper Vulnerability (CVE-2025–54236) | Nidhin Chandran R | [Read More](https://medium.com/p/745109fbebdb) |
+| Thu, 30 Oct 2025 10:07:20 GMT | AI Agents & Agentic AI: How Autonomous Systems Are Changing Business and Life | Rajani Kafaltia | [Read More](https://medium.com/p/d7971592008b) |
+| Thu, 30 Oct 2025 10:04:05 GMT | Safeguarding Executives Against Digital Impersonation | Ai Writter Tools | [Read More](https://medium.com/p/9a5ca8de885d) |
+| Thu, 30 Oct 2025 10:00:01 GMT | Best Cloud Managed Services Provider in India - Private, Public, and Hybrid | Mathewneelan | [Read More](https://medium.com/p/19e3542328f4) |
+| Thu, 30 Oct 2025 09:56:39 GMT | Emotional Surveillance: When AI Learns to Feel - Ai Protect | Yutika | [Read More](https://medium.com/p/5c2cc73c3de4) |
+| Thu, 30 Oct 2025 09:50:26 GMT | ️ Beyond the Box: Specialist Moving Services for High-Value Assets and Complex Transitions | The Flat Rate Movers | [Read More](https://medium.com/p/09ed82c5b538) |
+| Thu, 30 Oct 2025 09:50:12 GMT | Browser Security — New Battleground for Cyber Attacks | Tech Journal | [Read More](https://medium.com/p/45acde7a337d) |
+| Thu, 30 Oct 2025 09:48:24 GMT | Top Cloud Security Best Practices Every Small Business Should Follow | Techridge Solutions | [Read More](https://medium.com/p/0b81dd9768b3) |
+| Thu, 30 Oct 2025 09:48:19 GMT | Nvidia invests $1 billion in Nokia to build the 6G future | Technologia | [Read More](https://medium.com/p/ebfb769e4ec9) |
+| Thu, 30 Oct 2025 09:48:13 GMT | AI Red-Teaming & Model Evaluation Security: Safeguarding the Future of GenAI | Jackdavis Iap | [Read More](https://medium.com/p/89cf675fb1cb) |
+| Thu, 30 Oct 2025 09:45:36 GMT | The Importance of Disaster Recovery in Cloud Computing | Techridge Solutions | [Read More](https://medium.com/p/ff7a2942087d) |
+| Thu, 30 Oct 2025 09:38:58 GMT | Facial verification can change the Unique identification model and stop Scams | labdhi | [Read More](https://medium.com/p/cdb99f254238) |
 | Thu, 30 Oct 2025 09:36:19 GMT | The Only Thing Your Newcomers Need Is TL;DR | Eduard Kuzhyr | [Read More](https://medium.com/p/338907ee4711) |
 | Thu, 30 Oct 2025 09:31:52 GMT | Secure File Uploads in 2025: Presigned, Scanned, Streamed | Thinking Loop | [Read More](https://medium.com/p/13e86a35307b) |
 | Thu, 30 Oct 2025 09:30:12 GMT | How I Turned Boring Data Into a Living, Breathing Story | Fateyaly | [Read More](https://medium.com/p/f60d21539ed6) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 03:31:52 GMT | The Malware That Waits: How Hackers Use Android Droppers to Stay Invisible | Deven Chhajed | [Read More](https://medium.com/p/1d126d261b00) |
 | Thu, 30 Oct 2025 03:27:52 GMT | The AI Skill Nobody Is Talking About (That Could 10x Your Career) | Monujangra | [Read More](https://medium.com/p/8b8252e96b73) |
 | Thu, 30 Oct 2025 03:12:08 GMT | SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/169862c90917) |
-| Thu, 30 Oct 2025 02:38:35 GMT | Developers Aren’t CISOs — and That’s Why AI Needs Agentic Security Infrastructure | Jaz Lin | [Read More](https://medium.com/p/3bc0b69f1d29) |
-| Thu, 30 Oct 2025 02:20:22 GMT | Stop Using SELECT * — How It Quietly Destroys PostgreSQL Performance | Rizqi Mulki | [Read More](https://medium.com/p/629da71371f5) |
-| Thu, 30 Oct 2025 02:15:25 GMT | When Big Pharma Builds a Supercomputer: A Cybersecurity Reality Check | Akilnath Bodipudi | [Read More](https://medium.com/p/df42e0b70247) |
-| Thu, 30 Oct 2025 02:08:32 GMT | Why Residential Proxies Are the Hidden Power Behind Stable Online Operations | Add | [Read More](https://medium.com/p/d0ba4ad97056) |
-| Thu, 30 Oct 2025 02:07:17 GMT | My Journey Into Cybersecurity: The Story of Haruki Kira | H4ruk7 | [Read More](https://medium.com/p/6406c1c70e47) |
-| Thu, 30 Oct 2025 02:04:08 GMT | Stop Giving Them Your Real E-mail Address! | Shahzaib | [Read More](https://medium.com/p/bba5c4e8b605) |
-| Thu, 30 Oct 2025 01:39:03 GMT | The Reconnaissance Lie You Keep Believing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/fcc6d6184381) |
-| Thu, 30 Oct 2025 01:35:25 GMT | App modernization in 2025 is transforming how businesses handle scalability, performance, and… | Anand | [Read More](https://medium.com/p/d21ee7d526ed) |
-| Thu, 30 Oct 2025 01:07:23 GMT | Dynamic Trust Constellation (DTC): The Next Breakthrough in Zero Trust Architecture | Nachiket Deshpande | [Read More](https://medium.com/p/34e02beaea23) |
-| Thu, 30 Oct 2025 00:32:19 GMT | ☕ When a REST Route Spills the Beans: Finding an Author-enumeration Bug (CVE-2023–5561) | AIwolfie | [Read More](https://medium.com/p/ce0acde23653) |
-| Thu, 30 Oct 2025 00:11:52 GMT | A developer’s honest take on how SSL truly keeps your web apps — and your business — safe. | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/8bd2ad288ec5) |
-| Thu, 30 Oct 2025 00:11:29 GMT | DanaBot Lab — CyberDefenders Write-Up | Johnathonsiganoff | [Read More](https://medium.com/p/8336a6c1fa3f) |
-| Thu, 30 Oct 2025 00:01:52 GMT | Precision, Accountability, and Results | Rhiannon Williams | [Read More](https://medium.com/p/568338331dbd) |
