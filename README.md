@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 11:16:28 GMT | Why Choose Professional Security Guard Services in the USA | Direct Guard Services | [Read More](https://medium.com/p/d9300c20b1d7) |
+| Thu, 30 Oct 2025 11:15:23 GMT | 8 Realistic Interview Questions on Attacks Against Active Directory | CyberSenpai | [Read More](https://medium.com/p/4a28f5e96113) |
+| Thu, 30 Oct 2025 11:05:40 GMT | Dating Feels Exhausting Because Everyone’s Trying to Win, Not Connect. | Bloom with Maria | [Read More](https://medium.com/p/c00714910112) |
+| Thu, 30 Oct 2025 11:01:53 GMT | Software Engineer vs Software Developer: The Subtle Yet Significant Difference | Ajayi Emmanuel | [Read More](https://medium.com/p/cc2fdba3f9cc) |
+| Thu, 30 Oct 2025 11:01:53 GMT | Writeup for picoCTF challenge “Includes” | Walter Moar | [Read More](https://medium.com/p/28bcc2c42e3a) |
+| Thu, 30 Oct 2025 10:58:35 GMT | Silence, Skill, and Success in Cybersecurity — A Humble Acknowledgment | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/9108a8afbb08) |
+| Thu, 30 Oct 2025 10:57:26 GMT | How DotBig Protects Investors During Cybersecurity Threats | DotBig Forex broker Reviews | [Read More](https://medium.com/p/5af758657815) |
+| Thu, 30 Oct 2025 10:48:35 GMT | The Day My Phone Unlocked Itself. | tradaxd. | [Read More](https://medium.com/p/747ee5dbba84) |
+| Thu, 30 Oct 2025 10:48:23 GMT | Building an Enterprise Active Directory Infrastructure from Scratch — Part 2 | fatimax7 | [Read More](https://medium.com/p/c632e6ea4306) |
+| Thu, 30 Oct 2025 10:45:33 GMT | HTTP requests & responses in web security | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/5ce0c8012c03) |
 | Thu, 30 Oct 2025 10:44:32 GMT | Why SIEM Solutions Fail and How to Fix Them | NetWitness | [Read More](https://medium.com/p/8ddd8499eb73) |
+| Thu, 30 Oct 2025 10:36:58 GMT | Threat Hunting with Email Security Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/431068145b56) |
 | Thu, 30 Oct 2025 10:35:23 GMT | 6 Little-Known Samsung A Series Features That Save Time | Pimrada Thavorn | [Read More](https://medium.com/p/e7e238ea48a0) |
 | Thu, 30 Oct 2025 10:34:40 GMT | Understanding Ethical Hacking: Why It’s More Critical Than Ever - EC-Council | Cybersecurity Courses | [Read More](https://medium.com/p/ac57a18e6df2) |
 | Thu, 30 Oct 2025 10:33:12 GMT | ⚡ Race Conditions in Web 3.0: Double-Spend Beyond Blockchain | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5be1b0df6dd4) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 06:02:34 GMT | WhatsApp’s New Privacy Rules: What They Really Mean for Your Data | Jabeen | [Read More](https://medium.com/p/d336c548e6f1) |
 | Thu, 30 Oct 2025 05:57:16 GMT | Beyond the CIA Triad: Understanding the CIANA Pentagon | Ferdi Edogawa | [Read More](https://medium.com/p/54cdc31355d8) |
 | Thu, 30 Oct 2025 05:46:30 GMT | JWT Token Explained Like You’re Five — But Smarter | TechWriter Hub | [Read More](https://medium.com/p/cec5216a7be3) |
-| Thu, 30 Oct 2025 05:38:51 GMT | Day 72- Understanding IAM ( identity and access management) as a beginner | unica 02 | [Read More](https://medium.com/p/450fe3f0c7f5) |
-| Thu, 30 Oct 2025 05:32:09 GMT | Your Shield in the Digital Age: Why Cybersecurity is a Top Career in Australia | Study Smart - Top Study Abroad Consultant | [Read More](https://medium.com/p/2e1733098b2c) |
-| Thu, 30 Oct 2025 05:12:28 GMT | The Right Way to Solve All Your Problems with AI | Suketu Prajapati | [Read More](https://medium.com/p/10ce20b7bb57) |
-| Thu, 30 Oct 2025 05:10:42 GMT | FIFA 2026 World Cup Scam Alert: Cybercriminals Gear Up as Global Event Nears | Breezy Business Channel | [Read More](https://medium.com/p/f2cc24c23540) |
-| Thu, 30 Oct 2025 04:56:21 GMT | My First Steps Into Linux — How I Learned to Talk to Machines | Salimassili | [Read More](https://medium.com/p/e1f41edcefa2) |
-| Thu, 30 Oct 2025 04:54:21 GMT | SPARK Matrix™: Insider Risk Management Evaluating the Leaders in Protecting Sensitive Data | Gargiben | [Read More](https://medium.com/p/5b4511f2332a) |
-| Thu, 30 Oct 2025 04:39:39 GMT | How a Hospital’s Tool Choice Stopped a Ransomware Attack | Lanvaus | [Read More](https://medium.com/p/8cc1d2b44dbf) |
-| Thu, 30 Oct 2025 04:34:06 GMT | Cybersecurity in the Age of AI-Powered Threats | Aditya mishra | [Read More](https://medium.com/p/10c55209b29f) |
-| Thu, 30 Oct 2025 04:33:52 GMT | How I built a safe, personal phishing-simulation lab with GoPhish + ngrok (and what went wrong) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/9df9c4a5a6fa) |
-| Thu, 30 Oct 2025 04:31:52 GMT | Everyone’s an Influencer Until the Camera Starts Rolling | Sanjeev Kariyandy | [Read More](https://medium.com/p/05262722f7c6) |
-| Thu, 30 Oct 2025 04:26:43 GMT | Strengthen Your App Security in 2025: Here’s How | Eastgate Software | [Read More](https://medium.com/p/ac2c24e4a8ca) |
