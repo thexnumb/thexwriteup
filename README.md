@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 02:38:35 GMT | Developers Aren’t CISOs — and That’s Why AI Needs Agentic Security Infrastructure | Jaz Lin | [Read More](https://medium.com/p/3bc0b69f1d29) |
+| Thu, 30 Oct 2025 02:20:22 GMT | Stop Using SELECT * — How It Quietly Destroys PostgreSQL Performance | Rizqi Mulki | [Read More](https://medium.com/p/629da71371f5) |
+| Thu, 30 Oct 2025 02:15:25 GMT | When Big Pharma Builds a Supercomputer: A Cybersecurity Reality Check | Akilnath Bodipudi | [Read More](https://medium.com/p/df42e0b70247) |
+| Thu, 30 Oct 2025 02:08:32 GMT | Why Residential Proxies Are the Hidden Power Behind Stable Online Operations | Add | [Read More](https://medium.com/p/d0ba4ad97056) |
+| Thu, 30 Oct 2025 02:07:17 GMT | My Journey Into Cybersecurity: The Story of Haruki Kira | H4ruk7 | [Read More](https://medium.com/p/6406c1c70e47) |
+| Thu, 30 Oct 2025 02:04:08 GMT | Stop Giving Them Your Real E-mail Address! | Shahzaib | [Read More](https://medium.com/p/bba5c4e8b605) |
 | Thu, 30 Oct 2025 01:39:03 GMT | The Reconnaissance Lie You Keep Believing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/fcc6d6184381) |
 | Thu, 30 Oct 2025 01:35:25 GMT | App modernization in 2025 is transforming how businesses handle scalability, performance, and… | Anand | [Read More](https://medium.com/p/d21ee7d526ed) |
 | Thu, 30 Oct 2025 01:07:23 GMT | Dynamic Trust Constellation (DTC): The Next Breakthrough in Zero Trust Architecture | Nachiket Deshpande | [Read More](https://medium.com/p/34e02beaea23) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 17:11:28 GMT | The Ultimate Ransomware Defense: Test Your Backups! | Technology EM3 | [Read More](https://medium.com/p/fd72cd95ebd4) |
 | Wed, 29 Oct 2025 17:10:30 GMT | Microsoft Flags ASP NET Flaw Allowing Sneaky HTTP Request Smuggling | Chetan Seripally | [Read More](https://medium.com/p/1fca0cc217bd) |
 | Wed, 29 Oct 2025 17:08:11 GMT | Why I Never Leave PowerShell Logging Disabled on Windows Servers | Faruk Ahmed | [Read More](https://medium.com/p/368f35a86369) |
-| Wed, 29 Oct 2025 17:03:48 GMT | AI-Powered Citizen Development Security Risks And How To Address Them | Spektion | [Read More](https://medium.com/p/ae6552345779) |
-| Wed, 29 Oct 2025 17:01:54 GMT | Python vs. ☕ Java for Cybersecurity: Which Should You Learn First? | Code Link | [Read More](https://medium.com/p/ef99849867d9) |
-| Wed, 29 Oct 2025 17:00:06 GMT | Alert Triage With Elastic — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/44818f852564) |
-| Wed, 29 Oct 2025 16:58:07 GMT | I Traced My Stalker Using OSINT Tools and I Wish I Hadn’t | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/ec0d38f0390a) |
-| Wed, 29 Oct 2025 16:51:53 GMT | Quantum Computing Risks: Are You Prepared for the Post-Quantum Era? | Danielle Koppel | [Read More](https://medium.com/p/0ebc39c66f98) |
-| Wed, 29 Oct 2025 16:51:32 GMT | From Friend to Fraud: The Deceptive World of the Pig Butchering Scam | Danielle Koppel | [Read More](https://medium.com/p/3e113ab031c9) |
