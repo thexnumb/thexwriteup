@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 22:07:16 GMT | An exercise in TCP Service Enumeration | Ubongabasi | [Read More](https://medium.com/p/21b5f8af8828) |
+| Thu, 30 Oct 2025 21:57:17 GMT | Day 25 of my Cybersecurity Journey: John the Ripper Basics 1 | Ogundipe Priscilla | [Read More](https://medium.com/p/082c280a91be) |
+| Thu, 30 Oct 2025 21:52:05 GMT | Building a DNS Command Execution | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8df7a4ab5b43) |
+| Thu, 30 Oct 2025 21:49:42 GMT | ⚠️Snap. Share. Leak? The Hidden Dangers of Pixnapping | Alsabah Afshi | [Read More](https://medium.com/p/14129f1ab0f0) |
+| Thu, 30 Oct 2025 21:42:30 GMT | [Auth] How to use Zoho as an OIDC for gitea | Sarvsav Sharma | [Read More](https://medium.com/p/ed77efd8a58e) |
+| Thu, 30 Oct 2025 21:30:53 GMT | Per-request isolation in TinyKVM explained | fwsGonzo | [Read More](https://medium.com/p/080e84328ba4) |
 | Thu, 30 Oct 2025 21:19:12 GMT | The Weirdest Thing I Learned While Talking to GPT | Global Whirl of Wonders | [Read More](https://medium.com/p/ccf1589dffb1) |
 | Thu, 30 Oct 2025 21:18:41 GMT | AI in Cybersecurity | Cyber-AppSec | [Read More](https://medium.com/p/d96ec66c3b13) |
 | Thu, 30 Oct 2025 21:17:05 GMT | Hacking APIs: HTTP Parameter Pollution | Israel Aráoz Severiche | [Read More](https://medium.com/p/fba389e55ada) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 14:00:26 GMT | Data Privacy by Design: Protect Your Users and Build Trust | Paran | [Read More](https://medium.com/p/dd71636821b6) |
 | Thu, 30 Oct 2025 13:59:08 GMT | Lab: SameSite Strict bypass via client-side redirect | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/81fed4306b3e) |
 | Thu, 30 Oct 2025 13:57:18 GMT | Cloud Safety | AA LAWSNG | [Read More](https://medium.com/p/c97d6e449956) |
-| Thu, 30 Oct 2025 13:53:49 GMT | From Building to Protecting: My First Step into Cybersecurity | Ishicab | [Read More](https://medium.com/p/d156d486031a) |
-| Thu, 30 Oct 2025 13:53:39 GMT | PowerShell in Action: Hands-on Examples That Change How You Work | Mark Thompson | [Read More](https://medium.com/p/3c86a7531372) |
-| Thu, 30 Oct 2025 13:51:51 GMT | The Rise of Bossware — and Why SentryPC Stands Out in 2025 | Paul Meyer | [Read More](https://medium.com/p/ade60a935758) |
-| Thu, 30 Oct 2025 13:44:17 GMT | Top 5 Cybersecurity Mistakes Small Businesses Make (and How to Fix Them) | Peter Marshall James | [Read More](https://medium.com/p/58f125381a0d) |
-| Thu, 30 Oct 2025 13:40:57 GMT | Cyberattacks on SMBs: A Growing Threat | Teddy Cerra | [Read More](https://medium.com/p/9cf43ceb5baa) |
-| Thu, 30 Oct 2025 13:29:12 GMT | Why Choose BCA in Cloud Computing and Cyber Security in 2026 | Success Study Tips | [Read More](https://medium.com/p/dff977c69701) |
