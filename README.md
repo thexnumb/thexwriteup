@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 08:18:18 GMT | ENISA Threat Landscape 2025: 10 Powerful Dev Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/ddb3fd111477) |
+| Thu, 30 Oct 2025 08:14:26 GMT | Best Cybersecurity Certifications in the USA for 2026 for Advanced Roles | Divyanshi kulkarni | [Read More](https://medium.com/p/9469c0b1d58f) |
+| Thu, 30 Oct 2025 08:12:54 GMT | Your Website’s Best Friend: Hosting That Works Behind the Scenes | Mary Thomas | [Read More](https://medium.com/p/59aeafff4328) |
+| Thu, 30 Oct 2025 08:12:37 GMT | AI vs Hackers: How Intelligent Systems Are Redefining Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/d4fb2c299a83) |
+| Thu, 30 Oct 2025 08:09:02 GMT | The Tool Addiction — Why Hackers Obsess Over Tools & AI (and how to start using your brain) | Viratavi | [Read More](https://medium.com/p/4cb5f345f2c5) |
+| Thu, 30 Oct 2025 08:08:51 GMT | MIGRATION UCC CYBER STARS 3rd EDITION | Ronnie | [Read More](https://medium.com/p/22b6ca429fc1) |
+| Thu, 30 Oct 2025 08:05:51 GMT | Security Guards or Automated Systems: Finding the Right Balance for Better Protection | Sentrysofficers | [Read More](https://medium.com/p/d3c2aa36611c) |
+| Thu, 30 Oct 2025 08:01:54 GMT | BNF’s botched upgrade — the final chapter | Alan C. Bonnici | [Read More](https://medium.com/p/dd6853d6fc6f) |
+| Thu, 30 Oct 2025 07:54:14 GMT | The “There Are Photos of You” Scam — A Telegram Phishing Investigation | Sivasankar Das | [Read More](https://medium.com/p/855f00eb0190) |
+| Thu, 30 Oct 2025 07:46:15 GMT | Quantum Malware and the Future of Cyber Defence | Kartikeyamishra | [Read More](https://medium.com/p/0223520e007e) |
+| Thu, 30 Oct 2025 07:43:07 GMT | Today’s Top Cyber Intelligence Highlights — Oct 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7f9af8c374f9) |
+| Thu, 30 Oct 2025 07:42:44 GMT | Praktik-USB File Carving | Mursalat | [Read More](https://medium.com/p/2dbe46a62ff2) |
 | Thu, 30 Oct 2025 07:35:52 GMT | Data Backup Best Practices: How I Protect My Digital Life in 2025 | Fiona Campbell | [Read More](https://medium.com/p/7a722f86aa7d) |
 | Thu, 30 Oct 2025 07:30:45 GMT | Bandit OverTheWire writeup — Level 2 -> 3 | Dawid Kowalski | [Read More](https://medium.com/p/3ad97b4532d2) |
 | Thu, 30 Oct 2025 07:28:45 GMT | Palo Alto Networks Compromise Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/384d3c73134a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 20:52:03 GMT | What Your Error Messages Are Teaching Attackers | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a7edfd93911c) |
 | Wed, 29 Oct 2025 20:49:58 GMT | When the Cloud Falls: Microsoft Azure Outage — October 29, 2025 | The Deep Frame | [Read More](https://medium.com/p/97d0cae1b6e7) |
 | Wed, 29 Oct 2025 20:44:43 GMT | Ghost HTTP Methods: How HTTP Verb Mutation Bypasses Modern WAFs across Middleware Layers | Pratik Dahal | [Read More](https://medium.com/p/32b66cd392ca) |
-| Wed, 29 Oct 2025 20:40:51 GMT | Day 24 of my Cybersecurity Journey: Hashing Basics II | Ogundipe Priscilla | [Read More](https://medium.com/p/05182590bcb8) |
-| Wed, 29 Oct 2025 20:38:01 GMT | Escalating to Domain Admin via Misconfigured Certificate Templates: A Red Team Case Study (and Why… | Anthony Cihan | [Read More](https://medium.com/p/7b2f60cef58a) |
-| Wed, 29 Oct 2025 20:37:38 GMT | Lockdown Lab Writeup | Jaws | [Read More](https://medium.com/p/394e26f20f1d) |
-| Wed, 29 Oct 2025 20:20:41 GMT | Hacking APIs: Cache Poisoning and Deception Attacks | Israel Aráoz Severiche | [Read More](https://medium.com/p/19527e2d7e6e) |
-| Wed, 29 Oct 2025 20:17:46 GMT | From On-Prem to XDR: Deploying Microsoft Defender for Identity(Part 3) | Florence Nwizugbe | [Read More](https://medium.com/p/453bb6b7d5b5) |
-| Wed, 29 Oct 2025 20:07:10 GMT | Siber Güvenlikte Savaş Sanatı: Cyber Kill Chain ile Stratejik Paralellikler | Zehra Tilaver | [Read More](https://medium.com/p/6b7a00eb4f90) |
-| Wed, 29 Oct 2025 20:05:52 GMT | Here are some of the most prominent cybersecurity developments currently: | Mouad B. | [Read More](https://medium.com/p/acad5c6b5105) |
-| Wed, 29 Oct 2025 19:54:12 GMT | How to recover your Facebook account after losing your phone number and cannot receive any code | Lucia Banjo | [Read More](https://medium.com/p/8d69d0dd0898) |
-| Wed, 29 Oct 2025 19:50:55 GMT | How to protect your data from phishing attacks | Lucia Banjo | [Read More](https://medium.com/p/0ee7e3d914f6) |
-| Wed, 29 Oct 2025 19:49:24 GMT | Phishing Attack Overview | Lucia Banjo | [Read More](https://medium.com/p/8e9c215c56b5) |
-| Wed, 29 Oct 2025 19:46:10 GMT | TombWatcher | Mkirahmet | [Read More](https://medium.com/p/a4f15dd3236e) |
-| Wed, 29 Oct 2025 19:40:05 GMT | To My People: Grace Over Performance | Melomind | [Read More](https://medium.com/p/5aeadd188e29) |
