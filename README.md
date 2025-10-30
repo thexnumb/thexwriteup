@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 06:18:04 GMT | Inside the Quantum Cyber War | Aarav Gaur | [Read More](https://medium.com/p/c23aef7e61f3) |
+| Thu, 30 Oct 2025 06:13:01 GMT | The Rise of AI Sidekicks: Why Everyone Will Have a Personal Agent by 2026 | Shreshtha | [Read More](https://medium.com/p/7a03b016b4f5) |
+| Thu, 30 Oct 2025 06:08:35 GMT | SQL Injection — The Most Practical Guide for Beginners | Nitin yadav | [Read More](https://medium.com/p/e9d2ce946a49) |
+| Thu, 30 Oct 2025 06:02:34 GMT | WhatsApp’s New Privacy Rules: What They Really Mean for Your Data | Jabeen | [Read More](https://medium.com/p/d336c548e6f1) |
+| Thu, 30 Oct 2025 05:57:16 GMT | Beyond the CIA Triad: Understanding the CIANA Pentagon | Ferdi Edogawa | [Read More](https://medium.com/p/54cdc31355d8) |
+| Thu, 30 Oct 2025 05:46:30 GMT | JWT Token Explained Like You’re Five — But Smarter | TechWriter Hub | [Read More](https://medium.com/p/cec5216a7be3) |
 | Thu, 30 Oct 2025 05:38:51 GMT | Day 72- Understanding IAM ( identity and access management) as a beginner | unica 02 | [Read More](https://medium.com/p/450fe3f0c7f5) |
 | Thu, 30 Oct 2025 05:32:09 GMT | Your Shield in the Digital Age: Why Cybersecurity is a Top Career in Australia | Study Smart - Top Study Abroad Consultant | [Read More](https://medium.com/p/2e1733098b2c) |
 | Thu, 30 Oct 2025 05:12:28 GMT | The Right Way to Solve All Your Problems with AI | Suketu Prajapati | [Read More](https://medium.com/p/10ce20b7bb57) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 18:41:18 GMT | VPNs for Business: Security Tool or False Sense of Safety? | Cordula Boeck | [Read More](https://medium.com/p/263319d17b13) |
 | Wed, 29 Oct 2025 18:40:36 GMT | Semiconductors- Powering the Future of Technology and Innovation | The Daily Technology | [Read More](https://medium.com/p/a2176140d415) |
 | Wed, 29 Oct 2025 18:33:12 GMT | Future of Cloud Security-Top Trends to Watch | The Daily Technology | [Read More](https://medium.com/p/aaa9b24afb40) |
-| Wed, 29 Oct 2025 18:23:54 GMT | Homework 4 : | HrudaySagarG | [Read More](https://medium.com/p/46203dfb6258) |
-| Wed, 29 Oct 2025 18:22:46 GMT | Siber Güvenlikte Acı Piramidi (Pyramid of Pain) | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/8b1aba73009c) |
-| Wed, 29 Oct 2025 18:22:01 GMT | Phishing Emails- Mini SOC investigation | Jenna S | [Read More](https://medium.com/p/e8615cc7f7eb) |
-| Wed, 29 Oct 2025 18:18:31 GMT | The Cat-and-Mouse Game of a Cloud Metadata SSRF Vulnerability | Ramshath | [Read More](https://medium.com/p/6efbb26e216a) |
-| Wed, 29 Oct 2025 18:12:02 GMT | The Future of OT Cybersecurity: AI, Regulation, and Resilience | Cyberkech | [Read More](https://medium.com/p/6eec6b5b950d) |
-| Wed, 29 Oct 2025 18:10:20 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/49584901470b) |
