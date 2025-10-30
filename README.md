@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 19:00:35 GMT | [Revjew] OWASP LLM Top 10 — Overview | JAYL | [Read More](https://medium.com/p/f911e6879363) |
+| Thu, 30 Oct 2025 18:58:14 GMT | Understanding and Preventing Ransomware and Phishing Attacks | Aalekh Srivastava | [Read More](https://medium.com/p/b8150048f8ec) |
+| Thu, 30 Oct 2025 18:49:55 GMT | SOC251 — Quishing Detected (QR Code Phishing) (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/2900b96f5101) |
+| Thu, 30 Oct 2025 18:42:55 GMT | The Green Padlock Worth Billions: Inside HTTPS and SSL Certificates | Ashutosh Jha | [Read More](https://medium.com/p/fecb0079e6b4) |
+| Thu, 30 Oct 2025 18:36:30 GMT | TryHackMe - Elevating Movement - WriteUp | Axoloth | [Read More](https://medium.com/p/017e0fa0dd96) |
+| Thu, 30 Oct 2025 18:35:40 GMT | Siber güvenlikte öğrenme döngüsüne girdim ne yapmalıyım? | Huseyin KALKAN | [Read More](https://medium.com/p/4c76ab5299a4) |
+| Thu, 30 Oct 2025 18:32:00 GMT | NukeTheBrowser (Cyberdefenders) | FeCeSociety | [Read More](https://medium.com/p/9fcd85e1dcf1) |
+| Thu, 30 Oct 2025 18:26:52 GMT | The Ledger That Never Lies | TD | [Read More](https://medium.com/p/8b9fdd0096d0) |
 | Thu, 30 Oct 2025 18:25:11 GMT | The Email “+alias” Trick That Exposes Data Sellers — And Why You Should Start Using It Today | H2bm | [Read More](https://medium.com/p/32df55800aa3) |
 | Thu, 30 Oct 2025 18:23:02 GMT | AI as Artists and Music Makers: Entering the Creative Side | Kalash Harchandani | [Read More](https://medium.com/p/fad189e25344) |
 | Thu, 30 Oct 2025 18:13:50 GMT | Ukraine’s Cyber Forces: From Digital Chaos to Strategic Command Center | CCD-IS | [Read More](https://medium.com/p/e866b5b3e4c9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 12:30:48 GMT | Why CPENT Is a Game-Changer for Pen Testing | Shreyashettyctr | [Read More](https://medium.com/p/965fec00bed4) |
 | Thu, 30 Oct 2025 12:20:03 GMT | Utah Search Engine Optimization Company | Hary Battler | [Read More](https://medium.com/p/bb772cebbdd2) |
 | Thu, 30 Oct 2025 12:19:03 GMT | WSUS Under Active Attack — Patch Now or Get Owned | Φiriki Intelligence | [Read More](https://medium.com/p/ea2b55127aa3) |
-| Thu, 30 Oct 2025 12:18:19 GMT | Mobile App Authentication Best Practices: MASVS-AUTH Compliance Guide | Vinay | [Read More](https://medium.com/p/dfe6d73d9c5d) |
-| Thu, 30 Oct 2025 12:17:56 GMT | She’s Not Cold, She Just Learned to Protect Her Heart. | Bloom with Maria | [Read More](https://medium.com/p/433979e98577) |
-| Thu, 30 Oct 2025 12:13:37 GMT | Top 5 Android Security Settings Most People Ignore | Tech Journal | [Read More](https://medium.com/p/b267f113928b) |
-| Thu, 30 Oct 2025 12:13:23 GMT | AI Is Coming For African Banks — But Not In The Way Everyone Thinks. | Techero | [Read More](https://medium.com/p/022cb1c13aed) |
-| Thu, 30 Oct 2025 12:13:10 GMT | Cybersecurity #10: ProxyChains & MAC Changer | mohandika | [Read More](https://medium.com/p/96d80fd8e0b2) |
-| Thu, 30 Oct 2025 12:10:23 GMT | How to Strengthen Your AI Security Posture Before Hackers Exploit It | SecureSlate | [Read More](https://medium.com/p/6a87cad0413f) |
-| Thu, 30 Oct 2025 12:07:21 GMT | how can withdrawl my 5000 $ From my Safepal wallet to my binance?please help me | Joelle luxer | [Read More](https://medium.com/p/050a3e0ea011) |
-| Thu, 30 Oct 2025 12:04:16 GMT | Vulnlab Breach : windows pentest. | _ayman_ | [Read More](https://medium.com/p/2c75a686ef8e) |
