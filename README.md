@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 23:14:30 GMT | Brooklyn Nine Nine-Try_H4ck_M3-Walk-through… | Rokzcy Excellence | [Read More](https://medium.com/p/f0a183c508e9) |
+| Thu, 30 Oct 2025 23:11:48 GMT | From Endless Decks to Decision POCs: A Smarter Way to Make Big Tech Bets | Jen Anderson, PhD | [Read More](https://medium.com/p/7a9e3181c93b) |
+| Thu, 30 Oct 2025 23:07:31 GMT | The Future of AI in Enterprise | Jen Anderson, PhD | [Read More](https://medium.com/p/1126d5b6ee97) |
+| Thu, 30 Oct 2025 22:58:56 GMT | Malwarebytes Premium Lifetime | novadigital21 | [Read More](https://medium.com/p/3df6d0c86516) |
+| Thu, 30 Oct 2025 22:41:16 GMT | Shadow AI: Risk and Governance | Pranjali Karve | [Read More](https://medium.com/p/7db79f70474c) |
 | Thu, 30 Oct 2025 22:27:37 GMT | Sysco Walkthrough | IK4R0S-SEC | [Read More](https://medium.com/p/375b04112fdc) |
 | Thu, 30 Oct 2025 22:26:12 GMT | Building My Own Private Offline AI Server | Hirad Showghi | [Read More](https://medium.com/p/735adf00f12d) |
 | Thu, 30 Oct 2025 22:07:16 GMT | An exercise in TCP Service Enumeration | Ubongabasi | [Read More](https://medium.com/p/21b5f8af8828) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 14:16:27 GMT | Security and Compliance for Agentic AI Solutions | Amit kumar | [Read More](https://medium.com/p/c91867fc9dff) |
 | Thu, 30 Oct 2025 14:12:11 GMT | OUT OF TOUCH | Daniella Wanjiku | [Read More](https://medium.com/p/869b61f2e459) |
 | Thu, 30 Oct 2025 14:04:01 GMT | Certification: Your Shield Against Catastrophic Digital Failure | CFE CERTIFICATION | [Read More](https://medium.com/p/844905183011) |
-| Thu, 30 Oct 2025 14:02:54 GMT | How to Reconnect a Garage Door Opener: Quick Steps After Manual Release | Up & Down Garage Door Services | [Read More](https://medium.com/p/dc87e828d768) |
-| Thu, 30 Oct 2025 14:01:57 GMT | Hackers Can Now Steal Encryption Keys from DDR5 Memory; Even on Intel and AMD CPUs | Faraz Weerabangsa | [Read More](https://medium.com/p/f6f266af7ba9) |
-| Thu, 30 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.30 | CyberMaterial | [Read More](https://medium.com/p/37d99f3f050e) |
-| Thu, 30 Oct 2025 14:01:05 GMT | Cloud Security in 2025: A Comedy of Errors (Mostly Yours) | Aman Wraich | [Read More](https://medium.com/p/21a417dd175e) |
-| Thu, 30 Oct 2025 14:00:26 GMT | Data Privacy by Design: Protect Your Users and Build Trust | Paran | [Read More](https://medium.com/p/dd71636821b6) |
