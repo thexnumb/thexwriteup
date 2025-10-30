@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 07:10:20 GMT | Timeline Analysis: Reconstructing Events in a Cybercrime Case | Chinmayravindra | [Read More](https://medium.com/p/ba3545280d50) |
+| Thu, 30 Oct 2025 07:07:43 GMT | Pentest Copilot | Yaniv | [Read More](https://medium.com/p/ace7779361e6) |
+| Thu, 30 Oct 2025 07:01:53 GMT | From Service to Silicon: How Veterans Are Successfully Transitioning Into IT Careers | Generiss Academy | [Read More](https://medium.com/p/9d7d302c15b6) |
+| Thu, 30 Oct 2025 06:58:04 GMT | Qilin Ransomware: A Growing Global Threat for Organization’s | Mohana Reddy | [Read More](https://medium.com/p/d4aea4f38fd2) |
+| Thu, 30 Oct 2025 06:48:31 GMT | Top 15 Open Source Tools for Digital Forensics Investigations | Manisha Chaudhary | [Read More](https://medium.com/p/e1d1e95d4975) |
+| Thu, 30 Oct 2025 06:45:57 GMT | Inside a Digital Investigation: What Really Happens After a Cyberattack | Chinmayravindra | [Read More](https://medium.com/p/b432a2d060b7) |
+| Thu, 30 Oct 2025 06:37:54 GMT | 3 Costly IT Mistakes That Are Holding Your Startup Back (And How to Fix Them) | Anmol Sharma | [Read More](https://medium.com/p/abc16557594a) |
+| Thu, 30 Oct 2025 06:31:58 GMT | DC-2 — Full walkthrough (VulnHub) | Vaibhav | [Read More](https://medium.com/p/c2f0f19243be) |
+| Thu, 30 Oct 2025 06:30:58 GMT | The Daily Tech Digest: 30 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/02a98fc39599) |
+| Thu, 30 Oct 2025 06:25:02 GMT | How to Spot a Data-Selling VPN: A 5-Minute Security Check | Avlex Group | [Read More](https://medium.com/p/1caf4ff4d92f) |
 | Thu, 30 Oct 2025 06:18:04 GMT | Inside the Quantum Cyber War | Aarav Gaur | [Read More](https://medium.com/p/c23aef7e61f3) |
 | Thu, 30 Oct 2025 06:13:01 GMT | The Rise of AI Sidekicks: Why Everyone Will Have a Personal Agent by 2026 | Shreshtha | [Read More](https://medium.com/p/7a03b016b4f5) |
 | Thu, 30 Oct 2025 06:08:35 GMT | SQL Injection — The Most Practical Guide for Beginners | Nitin yadav | [Read More](https://medium.com/p/e9d2ce946a49) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 19:17:22 GMT | Building Effective Threat Hunting Queries For Phishing Campaigns | RileyHv | [Read More](https://medium.com/p/ca481c7f0c15) |
 | Wed, 29 Oct 2025 19:09:01 GMT | What Is Mobile App Pentesting? | 0xnref | [Read More](https://medium.com/p/2016c840972e) |
 | Wed, 29 Oct 2025 19:03:45 GMT | The Weight of My Unfinished Systems | Soude Oluwadamilola Temilara | [Read More](https://medium.com/p/e6876693c62d) |
-| Wed, 29 Oct 2025 18:59:32 GMT | Why One Cyber Attack Can Shake an Entire Industry？ | Xinrui Chen | [Read More](https://medium.com/p/d6674dfa02b8) |
-| Wed, 29 Oct 2025 18:57:14 GMT | Automation Will Fail You: The Harsh Truth Every Bug Bounty Hunter Learns the Hard Way | Prayers Khristi | [Read More](https://medium.com/p/ad02cbfc7bda) |
-| Wed, 29 Oct 2025 18:55:46 GMT | The New Reality of Compliance: Data Must Live Where It’s Born | planck_deeptech | [Read More](https://medium.com/p/81e33599e599) |
-| Wed, 29 Oct 2025 18:54:11 GMT | Implementing the Etherhiding technique | Onhexgroup | [Read More](https://medium.com/p/438979758593) |
-| Wed, 29 Oct 2025 18:52:37 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/40bfc9815af3) |
-| Wed, 29 Oct 2025 18:45:59 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/034aa6e016a5) |
-| Wed, 29 Oct 2025 18:45:54 GMT | Ghoostow: Moroccan Artist, Designer & Cybersecurity Visionary from Marrakech | GHOOSTOW | [Read More](https://medium.com/p/a873a48a117b) |
-| Wed, 29 Oct 2025 18:41:18 GMT | VPNs for Business: Security Tool or False Sense of Safety? | Cordula Boeck | [Read More](https://medium.com/p/263319d17b13) |
-| Wed, 29 Oct 2025 18:40:36 GMT | Semiconductors- Powering the Future of Technology and Innovation | The Daily Technology | [Read More](https://medium.com/p/a2176140d415) |
-| Wed, 29 Oct 2025 18:33:12 GMT | Future of Cloud Security-Top Trends to Watch | The Daily Technology | [Read More](https://medium.com/p/aaa9b24afb40) |
