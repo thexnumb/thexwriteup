@@ -12,10 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 12:41:53 GMT | Anatomy of a Phish: How We Got from the “Nigerian Prince” to Modern Scams | Furkanctiner | [Read More](https://medium.com/p/fb00aeb4ba49) |
+| Thu, 30 Oct 2025 12:36:52 GMT | CacheGuard UTM: A Smart Cybersecurity Choice for Startups | CacheGuard Technologies | [Read More](https://medium.com/p/00e48cd7c415) |
+| Thu, 30 Oct 2025 12:33:03 GMT | ️‍♀️ Takeover Challenge (TryHackMe) – Full Walkthrough | shweta | [Read More](https://medium.com/p/d54da913f525) |
+| Thu, 30 Oct 2025 12:30:48 GMT | Why CPENT Is a Game-Changer for Pen Testing | Shreyashettyctr | [Read More](https://medium.com/p/965fec00bed4) |
+| Thu, 30 Oct 2025 12:20:03 GMT | Utah Search Engine Optimization Company | Hary Battler | [Read More](https://medium.com/p/bb772cebbdd2) |
+| Thu, 30 Oct 2025 12:19:03 GMT | WSUS Under Active Attack — Patch Now or Get Owned | Φiriki Intelligence | [Read More](https://medium.com/p/ea2b55127aa3) |
+| Thu, 30 Oct 2025 12:18:19 GMT | Mobile App Authentication Best Practices: MASVS-AUTH Compliance Guide | Vinay | [Read More](https://medium.com/p/dfe6d73d9c5d) |
+| Thu, 30 Oct 2025 12:17:56 GMT | She’s Not Cold, She Just Learned to Protect Her Heart. | Bloom with Maria | [Read More](https://medium.com/p/433979e98577) |
+| Thu, 30 Oct 2025 12:13:37 GMT | Top 5 Android Security Settings Most People Ignore | Tech Journal | [Read More](https://medium.com/p/b267f113928b) |
+| Thu, 30 Oct 2025 12:13:23 GMT | AI Is Coming For African Banks — But Not In The Way Everyone Thinks. | Techero | [Read More](https://medium.com/p/022cb1c13aed) |
+| Thu, 30 Oct 2025 12:13:10 GMT | Cybersecurity #10: ProxyChains & MAC Changer | mohandika | [Read More](https://medium.com/p/96d80fd8e0b2) |
+| Thu, 30 Oct 2025 12:10:23 GMT | How to Strengthen Your AI Security Posture Before Hackers Exploit It | SecureSlate | [Read More](https://medium.com/p/6a87cad0413f) |
+| Thu, 30 Oct 2025 12:07:21 GMT | how can withdrawl my 5000 $ From my Safepal wallet to my binance?please help me | Joelle luxer | [Read More](https://medium.com/p/050a3e0ea011) |
+| Thu, 30 Oct 2025 12:04:16 GMT | Vulnlab Breach : windows pentest. | _ayman_ | [Read More](https://medium.com/p/2c75a686ef8e) |
+| Thu, 30 Oct 2025 11:51:44 GMT | Web Hosting That Works: Affordable, Fast, and Built to Last | Andy | [Read More](https://medium.com/p/243b5c722572) |
+| Thu, 30 Oct 2025 11:40:52 GMT | TV Drop: The Ultimate File Transfer Solution for Android TV | Deepak Pk | [Read More](https://medium.com/p/79aaf58ff452) |
+| Thu, 30 Oct 2025 11:40:51 GMT | broken access control IDOR in Reddit $$ | Bx1 | [Read More](https://medium.com/p/5fcd05b9a767) |
+| Thu, 30 Oct 2025 11:40:14 GMT | Network Address Translation (NAT) and Its Types | Huseyn Eyvazov | [Read More](https://medium.com/p/0eaa941f2ff9) |
 | Thu, 30 Oct 2025 11:37:24 GMT | Top 30 Network Scanning Tools for Ethical Hackers | Manisha Chaudhary | [Read More](https://medium.com/p/0b47cd12b2cc) |
 | Thu, 30 Oct 2025 11:35:48 GMT | Types of Firewalls and the OSI Layers They Operate On | Huseyn Eyvazov | [Read More](https://medium.com/p/103e94d211b7) |
 | Thu, 30 Oct 2025 11:34:13 GMT | Securing Your Platform: How OWASP Frameworks Protect Your Development | Nway Nway Zay Ya | [Read More](https://medium.com/p/28ce11febf44) |
 | Thu, 30 Oct 2025 11:33:29 GMT | Uncovering the Dark Side of Bitcoin | Frost | [Read More](https://medium.com/p/eb91a40e35be) |
+| Thu, 30 Oct 2025 11:32:43 GMT | Network Devices Work at Different OSI Layers | Huseyn Eyvazov | [Read More](https://medium.com/p/62d3c10d1ad4) |
 | Thu, 30 Oct 2025 11:29:28 GMT | Defense in Depth: The Bedrock of Modern Cybersecurity | Elvin-001 | [Read More](https://medium.com/p/85d372916851) |
 | Thu, 30 Oct 2025 11:26:55 GMT | 7 Hidden Samsung A Series Tricks That Will Blow Your Mind | Chloe White | [Read More](https://medium.com/p/ae06c8e71764) |
 | Thu, 30 Oct 2025 11:26:12 GMT | I Almost Got Hacked By a “Job Interview” — One AI Prompt Stopped It | arshia harati | [Read More](https://medium.com/p/97fa4ebf21f9) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 08:12:37 GMT | AI vs Hackers: How Intelligent Systems Are Redefining Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/d4fb2c299a83) |
 | Thu, 30 Oct 2025 08:09:02 GMT | The Tool Addiction — Why Hackers Obsess Over Tools & AI (and how to start using your brain) | Viratavi | [Read More](https://medium.com/p/4cb5f345f2c5) |
 | Thu, 30 Oct 2025 08:08:51 GMT | MIGRATION UCC CYBER STARS 3rd EDITION | Ronnie | [Read More](https://medium.com/p/22b6ca429fc1) |
-| Thu, 30 Oct 2025 08:05:51 GMT | Security Guards or Automated Systems: Finding the Right Balance for Better Protection | Sentrysofficers | [Read More](https://medium.com/p/d3c2aa36611c) |
-| Thu, 30 Oct 2025 08:01:54 GMT | BNF’s botched upgrade — the final chapter | Alan C. Bonnici | [Read More](https://medium.com/p/dd6853d6fc6f) |
-| Thu, 30 Oct 2025 07:54:14 GMT | The “There Are Photos of You” Scam — A Telegram Phishing Investigation | Sivasankar Das | [Read More](https://medium.com/p/855f00eb0190) |
-| Thu, 30 Oct 2025 07:46:15 GMT | Quantum Malware and the Future of Cyber Defence | Kartikeyamishra | [Read More](https://medium.com/p/0223520e007e) |
-| Thu, 30 Oct 2025 07:43:07 GMT | Today’s Top Cyber Intelligence Highlights — Oct 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7f9af8c374f9) |
-| Thu, 30 Oct 2025 07:42:44 GMT | Praktik-USB File Carving | Mursalat | [Read More](https://medium.com/p/2dbe46a62ff2) |
-| Thu, 30 Oct 2025 07:42:20 GMT | ประจำวันพฤหัสบดีที่ 30 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/799910b9e110) |
-| Thu, 30 Oct 2025 07:35:52 GMT | Data Backup Best Practices: How I Protect My Digital Life in 2025 | Fiona Campbell | [Read More](https://medium.com/p/7a722f86aa7d) |
-| Thu, 30 Oct 2025 07:30:45 GMT | Bandit OverTheWire writeup — Level 2 -> 3 | Dawid Kowalski | [Read More](https://medium.com/p/3ad97b4532d2) |
-| Thu, 30 Oct 2025 07:28:45 GMT | Palo Alto Networks Compromise Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/384d3c73134a) |
-| Thu, 30 Oct 2025 07:23:50 GMT | Why Are Cybersecurity Experts Suddenly Talking About Blockchain Risks? | Bobby Andrews | [Read More](https://medium.com/p/485d49951867) |
-| Thu, 30 Oct 2025 07:21:17 GMT | Understanding the OSI Model — The Foundation of Networking | Vijay Kumar Gupta | [Read More](https://medium.com/p/c432b727474e) |
-| Thu, 30 Oct 2025 07:20:24 GMT | When a feature Becomes a Backdoor | Rajveer | [Read More](https://medium.com/p/6fa83e6497fd) |
-| Thu, 30 Oct 2025 07:12:41 GMT | How to Set Up Your Own Blazing-Fast WireGuard VPN Server | Mahdi | [Read More](https://medium.com/p/27b176c39650) |
-| Thu, 30 Oct 2025 07:10:20 GMT | Timeline Analysis: Reconstructing Events in a Cybercrime Case | Chinmayravindra | [Read More](https://medium.com/p/ba3545280d50) |
-| Thu, 30 Oct 2025 07:07:43 GMT | Pentest Copilot | Yaniv | [Read More](https://medium.com/p/ace7779361e6) |
-| Thu, 30 Oct 2025 07:01:53 GMT | From Service to Silicon: How Veterans Are Successfully Transitioning Into IT Careers | Generiss Academy | [Read More](https://medium.com/p/9d7d302c15b6) |
-| Thu, 30 Oct 2025 06:58:04 GMT | Qilin Ransomware: A Growing Global Threat for Organization’s | Mohana Reddy | [Read More](https://medium.com/p/d4aea4f38fd2) |
-| Thu, 30 Oct 2025 06:48:31 GMT | Top 15 Open Source Tools for Digital Forensics Investigations | Manisha Chaudhary | [Read More](https://medium.com/p/e1d1e95d4975) |
