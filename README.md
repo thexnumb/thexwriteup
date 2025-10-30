@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 20:16:50 GMT | The “Digital Arrest” Trap: How Cyber Criminals Are Destroying Lives | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/fcc1c1880f9b) |
 | Thu, 30 Oct 2025 20:06:47 GMT | Red Team Simulation with AdaptixC2: Phishing to Beacon (Lab exercise) | Shondy Sainthea | [Read More](https://medium.com/p/0f7620a5f9d4) |
 | Thu, 30 Oct 2025 20:06:40 GMT | Cyber Security Protection | Lucia Banjo | [Read More](https://medium.com/p/ff70685cd205) |
 | Thu, 30 Oct 2025 20:06:13 GMT | How to recover an X account suspended due to violation | Lucia Banjo | [Read More](https://medium.com/p/247d14bf9987) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 13:05:01 GMT | They Both Code… But Only One Protects It — Cybersecurity vs Software Engineering! | Testleaf | [Read More](https://medium.com/p/474bc09d5e26) |
 | Thu, 30 Oct 2025 13:02:14 GMT | Leveraging Open-Source Intelligence (OSINT) with Microsoft Sentinel | Ravikiran | [Read More](https://medium.com/p/92263a52a64d) |
 | Thu, 30 Oct 2025 13:02:04 GMT | 7 CI Artifacts to Keep — and What to Purge | Nexumo | [Read More](https://medium.com/p/a23e51726386) |
-| Thu, 30 Oct 2025 13:02:02 GMT | Secure File Pipelines in n8n (with Virus Scanning) | Bhagya Rana | [Read More](https://medium.com/p/bbe7cc1e0bf8) |
