@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 15:22:20 GMT | How Swagger UI Can Accidentally Expose Your API | Ibtissam hammadi | [Read More](https://medium.com/p/2bf02c2cb2ba) |
+| Thu, 30 Oct 2025 15:21:11 GMT | HTTP Headers Explained: How They Affect Proxy Communication | ProxiesThatWork | [Read More](https://medium.com/p/d9cedcdc7647) |
+| Thu, 30 Oct 2025 15:18:32 GMT | How i found account takeover in private bug bounty program of bugcrowd | Be nice insabat | [Read More](https://medium.com/p/21df5ed3ed3c) |
+| Thu, 30 Oct 2025 15:15:40 GMT | Email Verification Bypass — A Simple Yet Overlooked Business Logic Flaw | Lakshya | [Read More](https://medium.com/p/5a9c5980f2aa) |
+| Thu, 30 Oct 2025 15:11:38 GMT | Splunk Boss of The SOC (BOTS) Write-Up Series(All Series) | Merve Güler | [Read More](https://medium.com/p/ea76111d4753) |
+| Thu, 30 Oct 2025 14:59:21 GMT | What IT Tickets Reveal About Your Company’s Weak Spots? | Aimee Liu | [Read More](https://medium.com/p/158178e8c919) |
+| Thu, 30 Oct 2025 14:58:09 GMT | eJPT v2 : Challenge Lab 24: Retro | Dhanushkumar R | [Read More](https://medium.com/p/bd3e2b3925dc) |
+| Thu, 30 Oct 2025 14:55:17 GMT | ️ Cyber Confidence: How to Talk, Teach, and Lead Safety | Aysha Misri | [Read More](https://medium.com/p/dee6a42cb39d) |
+| Thu, 30 Oct 2025 14:53:28 GMT | “The $1,000 Image Upload That Could Have Hacked Thousands of Users” | Aman Sharma | [Read More](https://medium.com/p/a650f736e7cf) |
+| Thu, 30 Oct 2025 14:50:04 GMT | unauthorized authentication to enterprise infrastructure that used by Oppo alibaba$$.. | Bx1 | [Read More](https://medium.com/p/236dd9e53652) |
+| Thu, 30 Oct 2025 14:46:51 GMT | Ignite writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/1b376f0418e8) |
+| Thu, 30 Oct 2025 14:46:22 GMT | From Laggy to Lightning Fast: My 2-Second OutSystems Optimization Story | Akshay Deshpande | [Read More](https://medium.com/p/dbbd00917853) |
+| Thu, 30 Oct 2025 14:45:26 GMT | Cybersecurity Heroes You Meet in Every Major Breach ( And Why One Call Saves the Company ) | Dhanush N | [Read More](https://medium.com/p/86a116cabe37) |
+| Thu, 30 Oct 2025 14:33:21 GMT | Experimenting with Approval Bypass (and more) in GitLab | Samuel LE GOFF | [Read More](https://medium.com/p/06a85c554fb5) |
 | Thu, 30 Oct 2025 14:28:38 GMT | Vulnhub HA: Natraj Walkthrough | cyber pancake | [Read More](https://medium.com/p/14db2d148d41) |
 | Thu, 30 Oct 2025 14:18:26 GMT | The SecOps Group — Certified Active Directory Pentesting eXpert (C-ADPenXv2) - October 2025 | Hadid B | [Read More](https://medium.com/p/912c5c97f510) |
 | Thu, 30 Oct 2025 14:16:27 GMT | Security and Compliance for Agentic AI Solutions | Amit kumar | [Read More](https://medium.com/p/c91867fc9dff) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 10:25:14 GMT | Iron Triangle for SOC: No Free Lunch, Only Trade‑Offs | Roman Trukhin | [Read More](https://medium.com/p/0d8d23de5fcd) |
 | Thu, 30 Oct 2025 10:24:17 GMT | Passive Recon 2.0: Mining Telemetry and Third-Party Metadata for Entry Points | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5e92cc76b7fe) |
 | Thu, 30 Oct 2025 10:23:25 GMT | DEX and security don’t have to be at odds | Andrew Hewitt | [Read More](https://medium.com/p/2c1212a9aca4) |
-| Thu, 30 Oct 2025 10:22:53 GMT | Business Logic Flaw in Snapchat $ | Bx1 | [Read More](https://medium.com/p/6f692d166177) |
-| Thu, 30 Oct 2025 10:20:52 GMT | When “Is It Safe?” Becomes the Question: A Critical Look at Website Trust-Scoring Services | Jari | [Read More](https://medium.com/p/624ad218a8d0) |
-| Thu, 30 Oct 2025 10:15:25 GMT | The Story Behind Magento’s SessionReaper Vulnerability (CVE-2025–54236) | Nidhin Chandran R | [Read More](https://medium.com/p/745109fbebdb) |
-| Thu, 30 Oct 2025 10:14:06 GMT | Securing the Modern Workforce — Why Endpoint Strategy Is the New Perimeter | Ola Sonola | [Read More](https://medium.com/p/e3195cd5ad58) |
-| Thu, 30 Oct 2025 10:12:14 GMT | What to Do When Your Website Faces Malicious Traffic | Maverick Steel | [Read More](https://medium.com/p/d74d40180228) |
-| Thu, 30 Oct 2025 10:07:20 GMT | AI Agents & Agentic AI: How Autonomous Systems Are Changing Business and Life | Rajani Kafaltia | [Read More](https://medium.com/p/d7971592008b) |
-| Thu, 30 Oct 2025 10:04:05 GMT | Safeguarding Executives Against Digital Impersonation | Ai Writter Tools | [Read More](https://medium.com/p/9a5ca8de885d) |
-| Thu, 30 Oct 2025 10:00:01 GMT | Best Cloud Managed Services Provider in India - Private, Public, and Hybrid | Mathewneelan | [Read More](https://medium.com/p/19e3542328f4) |
-| Thu, 30 Oct 2025 09:56:39 GMT | Emotional Surveillance: When AI Learns to Feel - Ai Protect | Yutika | [Read More](https://medium.com/p/5c2cc73c3de4) |
-| Thu, 30 Oct 2025 09:50:26 GMT | ️ Beyond the Box: Specialist Moving Services for High-Value Assets and Complex Transitions | The Flat Rate Movers | [Read More](https://medium.com/p/09ed82c5b538) |
-| Thu, 30 Oct 2025 09:50:12 GMT | Browser Security — New Battleground for Cyber Attacks | Tech Journal | [Read More](https://medium.com/p/45acde7a337d) |
-| Thu, 30 Oct 2025 09:48:24 GMT | Top Cloud Security Best Practices Every Small Business Should Follow | Techridge Solutions | [Read More](https://medium.com/p/0b81dd9768b3) |
-| Thu, 30 Oct 2025 09:48:19 GMT | Nvidia invests $1 billion in Nokia to build the 6G future | Technologia | [Read More](https://medium.com/p/ebfb769e4ec9) |
-| Thu, 30 Oct 2025 09:48:13 GMT | AI Red-Teaming & Model Evaluation Security: Safeguarding the Future of GenAI | Jackdavis Iap | [Read More](https://medium.com/p/89cf675fb1cb) |
