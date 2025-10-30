@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 17:06:02 GMT | The $20,000 Robot That Isn’t Really a Robot: Inside the Neo Deception | Berend Watchus | [Read More](https://medium.com/p/87ec84cdf37d) |
+| Thu, 30 Oct 2025 17:05:54 GMT | I Thought Domain and SSL Were Boring | satyaranjan bal | [Read More](https://medium.com/p/247f734d1969) |
+| Thu, 30 Oct 2025 16:58:33 GMT | New Chromium Blink Flaw Can Crash Browsers in Seconds | Chetan Seripally | [Read More](https://medium.com/p/a0496fe388c2) |
+| Thu, 30 Oct 2025 16:53:53 GMT | USBferry, Tropic Trooper, and ATT&CK: A Practical CTI Exercise | Citadel Cybersec | [Read More](https://medium.com/p/3fda0630bea0) |
+| Thu, 30 Oct 2025 16:51:52 GMT | ⚠️ Phishing: Detection, Defense and Ethical Simulation Guide ️ | Esra Kayhan | [Read More](https://medium.com/p/2d49c5a255c3) |
+| Thu, 30 Oct 2025 16:43:50 GMT | From Reactive Defense to Strategic Resilience: Why GRC Integration Is the Backbone of Modern… | Gabriela Berrido | [Read More](https://medium.com/p/3fa24461176c) |
 | Thu, 30 Oct 2025 16:42:58 GMT | Fragility Behind a Brave Face | ailadgtaldry | [Read More](https://medium.com/p/acd53c2432f5) |
 | Thu, 30 Oct 2025 16:38:39 GMT | How Leaked Credentials can benefit Bug Bounty Hunters | BreachCollection | [Read More](https://medium.com/p/71252b8781da) |
 | Thu, 30 Oct 2025 16:30:44 GMT | OPSEC: Operational Security | Aastha Thakker | [Read More](https://medium.com/p/04b9a00a8d9b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 11:17:23 GMT | The Art of Staying Invisible Online (Without Living Like a Ghost) | Arfa | [Read More](https://medium.com/p/3f02e6b147da) |
 | Thu, 30 Oct 2025 11:16:28 GMT | Why Choose Professional Security Guard Services in the USA | Direct Guard Services | [Read More](https://medium.com/p/d9300c20b1d7) |
 | Thu, 30 Oct 2025 11:15:23 GMT | 8 Realistic Interview Questions on Attacks Against Active Directory | CyberSenpai | [Read More](https://medium.com/p/4a28f5e96113) |
-| Thu, 30 Oct 2025 11:05:40 GMT | Dating Feels Exhausting Because Everyone’s Trying to Win, Not Connect. | Bloom with Maria | [Read More](https://medium.com/p/c00714910112) |
-| Thu, 30 Oct 2025 11:01:53 GMT | Software Engineer vs Software Developer: The Subtle Yet Significant Difference | Ajayi Emmanuel | [Read More](https://medium.com/p/cc2fdba3f9cc) |
-| Thu, 30 Oct 2025 11:01:53 GMT | Writeup for picoCTF challenge “Includes” | Walter Moar | [Read More](https://medium.com/p/28bcc2c42e3a) |
-| Thu, 30 Oct 2025 10:58:35 GMT | Silence, Skill, and Success in Cybersecurity — A Humble Acknowledgment | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/9108a8afbb08) |
-| Thu, 30 Oct 2025 10:57:26 GMT | How DotBig Protects Investors During Cybersecurity Threats | DotBig Forex broker Reviews | [Read More](https://medium.com/p/5af758657815) |
-| Thu, 30 Oct 2025 10:48:35 GMT | The Day My Phone Unlocked Itself. | tradaxd. | [Read More](https://medium.com/p/747ee5dbba84) |
