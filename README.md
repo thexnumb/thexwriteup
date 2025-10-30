@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 21:00:36 GMT | IDA 9.2: The mature life of the legendary disassembler | Progsky | [Read More](https://medium.com/p/70dad335b438) |
+| Thu, 30 Oct 2025 20:58:44 GMT | How to Manually Calculate a CVSS v3.1 Score (Full Guide With Impact Metrics) | Irem Bezci | [Read More](https://medium.com/p/6ef25b09f684) |
+| Thu, 30 Oct 2025 20:55:59 GMT | Three factors of Risk Management: Vulnerability, Threat and Risk | Sruthi Punugu | [Read More](https://medium.com/p/0097abc61ae5) |
+| Thu, 30 Oct 2025 20:41:21 GMT | The Ultimate List of Rules Every On-Chain Survivor Should Follow to Stay Safe! | Officer's Notes | [Read More](https://medium.com/p/07df7af7ea3a) |
 | Thu, 30 Oct 2025 20:16:50 GMT | The “Digital Arrest” Trap: How Cyber Criminals Are Destroying Lives | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/fcc1c1880f9b) |
 | Thu, 30 Oct 2025 20:06:47 GMT | Red Team Simulation with AdaptixC2: Phishing to Beacon (Lab exercise) | Shondy Sainthea | [Read More](https://medium.com/p/0f7620a5f9d4) |
 | Thu, 30 Oct 2025 20:06:40 GMT | Cyber Security Protection | Lucia Banjo | [Read More](https://medium.com/p/ff70685cd205) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 13:21:24 GMT | How To Remove Bad Reviews About Your Business - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/70fdb50cc29a) |
 | Thu, 30 Oct 2025 13:21:13 GMT | ARCIUM:THE ENCRYPTED SUPERCOMPUTER | Abdulrahman Abdulazeez Ayomide | [Read More](https://medium.com/p/1d7e4ca10dd4) |
 | Thu, 30 Oct 2025 13:20:49 GMT | The Future of Trading Starts with Smarter Terminals | LogiClump Technologies | [Read More](https://medium.com/p/35a6baed6f22) |
-| Thu, 30 Oct 2025 13:06:43 GMT | Recent Cyber Attacks Highlight the Importance of Central Oversight in Microsoft Automation | Frank Kresse | [Read More](https://medium.com/p/614ab90103bb) |
-| Thu, 30 Oct 2025 13:05:01 GMT | They Both Code… But Only One Protects It — Cybersecurity vs Software Engineering! | Testleaf | [Read More](https://medium.com/p/474bc09d5e26) |
-| Thu, 30 Oct 2025 13:02:14 GMT | Leveraging Open-Source Intelligence (OSINT) with Microsoft Sentinel | Ravikiran | [Read More](https://medium.com/p/92263a52a64d) |
-| Thu, 30 Oct 2025 13:02:04 GMT | 7 CI Artifacts to Keep — and What to Purge | Nexumo | [Read More](https://medium.com/p/a23e51726386) |
