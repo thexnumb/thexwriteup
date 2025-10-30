@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 22:27:37 GMT | Sysco Walkthrough | IK4R0S-SEC | [Read More](https://medium.com/p/375b04112fdc) |
+| Thu, 30 Oct 2025 22:26:12 GMT | Building My Own Private Offline AI Server | Hirad Showghi | [Read More](https://medium.com/p/735adf00f12d) |
 | Thu, 30 Oct 2025 22:07:16 GMT | An exercise in TCP Service Enumeration | Ubongabasi | [Read More](https://medium.com/p/21b5f8af8828) |
 | Thu, 30 Oct 2025 21:57:17 GMT | Day 25 of my Cybersecurity Journey: John the Ripper Basics 1 | Ogundipe Priscilla | [Read More](https://medium.com/p/082c280a91be) |
 | Thu, 30 Oct 2025 21:52:05 GMT | Building a DNS Command Execution | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8df7a4ab5b43) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.30 | CyberMaterial | [Read More](https://medium.com/p/37d99f3f050e) |
 | Thu, 30 Oct 2025 14:01:05 GMT | Cloud Security in 2025: A Comedy of Errors (Mostly Yours) | Aman Wraich | [Read More](https://medium.com/p/21a417dd175e) |
 | Thu, 30 Oct 2025 14:00:26 GMT | Data Privacy by Design: Protect Your Users and Build Trust | Paran | [Read More](https://medium.com/p/dd71636821b6) |
-| Thu, 30 Oct 2025 13:59:08 GMT | Lab: SameSite Strict bypass via client-side redirect | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/81fed4306b3e) |
-| Thu, 30 Oct 2025 13:57:18 GMT | Cloud Safety | AA LAWSNG | [Read More](https://medium.com/p/c97d6e449956) |
