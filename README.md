@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 13:27:33 GMT | The Masks We Wear When No One’s Watching | Daniel Gagarin | [Read More](https://medium.com/p/1224c7806a0e) |
+| Thu, 30 Oct 2025 13:22:21 GMT | The True Cost of Tech Worker Burnout - 9-Figure Media | Maxwell JAMES | [Read More](https://medium.com/p/fa5d6fdafad7) |
+| Thu, 30 Oct 2025 13:21:52 GMT | PowerShell Keylogger (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/ad0e816e07e8) |
+| Thu, 30 Oct 2025 13:21:24 GMT | How To Remove Bad Reviews About Your Business - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/70fdb50cc29a) |
+| Thu, 30 Oct 2025 13:21:13 GMT | ARCIUM:THE ENCRYPTED SUPERCOMPUTER | Abdulrahman Abdulazeez Ayomide | [Read More](https://medium.com/p/1d7e4ca10dd4) |
+| Thu, 30 Oct 2025 13:20:49 GMT | The Future of Trading Starts with Smarter Terminals | LogiClump Technologies | [Read More](https://medium.com/p/35a6baed6f22) |
+| Thu, 30 Oct 2025 13:06:43 GMT | Recent Cyber Attacks Highlight the Importance of Central Oversight in Microsoft Automation | Frank Kresse | [Read More](https://medium.com/p/614ab90103bb) |
+| Thu, 30 Oct 2025 13:05:01 GMT | They Both Code… But Only One Protects It — Cybersecurity vs Software Engineering! | Testleaf | [Read More](https://medium.com/p/474bc09d5e26) |
+| Thu, 30 Oct 2025 13:02:14 GMT | Leveraging Open-Source Intelligence (OSINT) with Microsoft Sentinel | Ravikiran | [Read More](https://medium.com/p/92263a52a64d) |
+| Thu, 30 Oct 2025 13:02:04 GMT | 7 CI Artifacts to Keep — and What to Purge | Nexumo | [Read More](https://medium.com/p/a23e51726386) |
+| Thu, 30 Oct 2025 13:02:02 GMT | Secure File Pipelines in n8n (with Virus Scanning) | Bhagya Rana | [Read More](https://medium.com/p/bbe7cc1e0bf8) |
+| Thu, 30 Oct 2025 13:02:02 GMT | Zero Trust is the Only Way to Secure Remote Access | RSUPPORT Blog | [Read More](https://medium.com/p/260ae4175a28) |
+| Thu, 30 Oct 2025 13:02:02 GMT | 30 Days of Red Team: Day 5 — Initial Exploitation Techniques (From Shell to System Access) | Maxwell Cross | [Read More](https://medium.com/p/fbb73d60dc27) |
+| Thu, 30 Oct 2025 13:02:00 GMT | ItsyBitsy - Complete TryHackMe Walkthrough | Rahul B | [Read More](https://medium.com/p/2bd024c87da2) |
+| Thu, 30 Oct 2025 12:59:01 GMT | The Outer Worlds 2 By Obsidian Entertainment | Mia Mi | [Read More](https://medium.com/p/ab87fb9a0e6a) |
+| Thu, 30 Oct 2025 12:47:33 GMT | IDOR : Very simple IDOR resulted in $500 | Defidev | [Read More](https://medium.com/p/1d0c3b725631) |
+| Thu, 30 Oct 2025 12:46:24 GMT | [OverTheWire] Bandit Level 22 → 23 | H$nt | [Read More](https://medium.com/p/709a1dff6a47) |
 | Thu, 30 Oct 2025 12:41:53 GMT | Anatomy of a Phish: How We Got from the “Nigerian Prince” to Modern Scams | Furkanctiner | [Read More](https://medium.com/p/fb00aeb4ba49) |
 | Thu, 30 Oct 2025 12:36:52 GMT | CacheGuard UTM: A Smart Cybersecurity Choice for Startups | CacheGuard Technologies | [Read More](https://medium.com/p/00e48cd7c415) |
 | Thu, 30 Oct 2025 12:33:03 GMT | ️‍♀️ Takeover Challenge (TryHackMe) – Full Walkthrough | shweta | [Read More](https://medium.com/p/d54da913f525) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 09:12:44 GMT | Disgruntled. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/1fba7530aa8e) |
 | Thu, 30 Oct 2025 09:12:13 GMT | 10 Ways to Make Money With AI (That Actually Work) | Global Whirl of Wonders | [Read More](https://medium.com/p/4098d32b2ee7) |
 | Thu, 30 Oct 2025 09:04:40 GMT | How I Hacked IIT Delhi | StvRoot | [Read More](https://medium.com/p/885a7f810292) |
-| Thu, 30 Oct 2025 09:03:01 GMT | $1000 Bounty: GitLab Security Flaw Exposed | Monika sharma | [Read More](https://medium.com/p/dd309788abb4) |
-| Thu, 30 Oct 2025 08:58:26 GMT | Best VPNs for iPhone Secure Your Data and Privacy | Tsumit | [Read More](https://medium.com/p/8023f1fb3641) |
-| Thu, 30 Oct 2025 08:55:08 GMT | 302 HTTP Response Codes Are Not Always Server-Side Redirects | Parsa Riyahi | [Read More](https://medium.com/p/dc8d0851596f) |
-| Thu, 30 Oct 2025 08:53:52 GMT | Today marks the launch of Grokipedia, a new AI-driven online encyclopedia from Elon Musk’s xAI… | Sahar Rahat Khan | [Read More](https://medium.com/p/d9f763a76af1) |
-| Thu, 30 Oct 2025 08:53:44 GMT | How I Reported a Pre-Account Hijack Affecting Any Gmail User (Even Google Employees)- My Bug… | Harsh kothari | [Read More](https://medium.com/p/258180c8dd70) |
-| Thu, 30 Oct 2025 08:51:50 GMT | How Misconfigured Databases Lead to Massive Data Breaches | SecureITWorld | [Read More](https://medium.com/p/5b9ebfd63b79) |
-| Thu, 30 Oct 2025 08:50:09 GMT | 10 Common Mobile Security Threats And How To Prevent Them | Beadaptify | [Read More](https://medium.com/p/232667298a45) |
-| Thu, 30 Oct 2025 08:47:55 GMT | Securing Brand Identity Against Deepfake Threats | Ai Writter Tools | [Read More](https://medium.com/p/395319408a24) |
-| Thu, 30 Oct 2025 08:38:26 GMT | Top Tools to Master for a Career in Cybersecurity | Mukesh Giri | [Read More](https://medium.com/p/2483f48b1668) |
-| Thu, 30 Oct 2025 08:22:09 GMT | The Psychology Behind Scams in Real Estate: Facing the Storms Outside Ourselves | Aysun Celik | [Read More](https://medium.com/p/a8a950235dd3) |
-| Thu, 30 Oct 2025 08:21:11 GMT | Securing Remote Locations: How Roving Patrol Security Keeps Your Property Safe | Sentrysofficers | [Read More](https://medium.com/p/4d5edff119b1) |
-| Thu, 30 Oct 2025 08:18:18 GMT | ENISA Threat Landscape 2025: 10 Powerful Dev Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/ddb3fd111477) |
-| Thu, 30 Oct 2025 08:14:26 GMT | Best Cybersecurity Certifications in the USA for 2026 for Advanced Roles | Divyanshi kulkarni | [Read More](https://medium.com/p/9469c0b1d58f) |
-| Thu, 30 Oct 2025 08:12:54 GMT | Your Website’s Best Friend: Hosting That Works Behind the Scenes | Mary Thomas | [Read More](https://medium.com/p/59aeafff4328) |
-| Thu, 30 Oct 2025 08:12:37 GMT | AI vs Hackers: How Intelligent Systems Are Redefining Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/d4fb2c299a83) |
-| Thu, 30 Oct 2025 08:09:02 GMT | The Tool Addiction — Why Hackers Obsess Over Tools & AI (and how to start using your brain) | Viratavi | [Read More](https://medium.com/p/4cb5f345f2c5) |
-| Thu, 30 Oct 2025 08:08:51 GMT | MIGRATION UCC CYBER STARS 3rd EDITION | Ronnie | [Read More](https://medium.com/p/22b6ca429fc1) |
