@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 08:38:26 GMT | Top Tools to Master for a Career in Cybersecurity | Mukesh Giri | [Read More](https://medium.com/p/2483f48b1668) |
+| Thu, 30 Oct 2025 08:22:09 GMT | The Psychology Behind Scams in Real Estate: Facing the Storms Outside Ourselves | Aysun Celik | [Read More](https://medium.com/p/a8a950235dd3) |
+| Thu, 30 Oct 2025 08:21:11 GMT | Securing Remote Locations: How Roving Patrol Security Keeps Your Property Safe | Sentrysofficers | [Read More](https://medium.com/p/4d5edff119b1) |
 | Thu, 30 Oct 2025 08:18:18 GMT | ENISA Threat Landscape 2025: 10 Powerful Dev Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/ddb3fd111477) |
 | Thu, 30 Oct 2025 08:14:26 GMT | Best Cybersecurity Certifications in the USA for 2026 for Advanced Roles | Divyanshi kulkarni | [Read More](https://medium.com/p/9469c0b1d58f) |
 | Thu, 30 Oct 2025 08:12:54 GMT | Your Website’s Best Friend: Hosting That Works Behind the Scenes | Mary Thomas | [Read More](https://medium.com/p/59aeafff4328) |
@@ -24,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 07:46:15 GMT | Quantum Malware and the Future of Cyber Defence | Kartikeyamishra | [Read More](https://medium.com/p/0223520e007e) |
 | Thu, 30 Oct 2025 07:43:07 GMT | Today’s Top Cyber Intelligence Highlights — Oct 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7f9af8c374f9) |
 | Thu, 30 Oct 2025 07:42:44 GMT | Praktik-USB File Carving | Mursalat | [Read More](https://medium.com/p/2dbe46a62ff2) |
+| Thu, 30 Oct 2025 07:42:20 GMT | ประจำวันพฤหัสบดีที่ 30 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/799910b9e110) |
 | Thu, 30 Oct 2025 07:35:52 GMT | Data Backup Best Practices: How I Protect My Digital Life in 2025 | Fiona Campbell | [Read More](https://medium.com/p/7a722f86aa7d) |
 | Thu, 30 Oct 2025 07:30:45 GMT | Bandit OverTheWire writeup — Level 2 -> 3 | Dawid Kowalski | [Read More](https://medium.com/p/3ad97b4532d2) |
 | Thu, 30 Oct 2025 07:28:45 GMT | Palo Alto Networks Compromise Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/384d3c73134a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 21:31:34 GMT | The SHIFT key is special, and here’s the weird history behind it | Artilogic | [Read More](https://medium.com/p/dc91db8ea660) |
 | Wed, 29 Oct 2025 21:26:34 GMT | A guerra contra a geração Z | R.H. Santos | [Read More](https://medium.com/p/4d34aad811de) |
 | Wed, 29 Oct 2025 21:21:40 GMT | Hackvember: 30 Flags, 30 Days — Let’s Get CTF-ing | Alvin Kapoor | [Read More](https://medium.com/p/272a4638ddfe) |
-| Wed, 29 Oct 2025 21:12:37 GMT | ️ What Makes Linux Secure (and Where It’s Weak — Plus How to Fix It) | shresth paul | [Read More](https://medium.com/p/b06019ea7db2) |
-| Wed, 29 Oct 2025 20:52:03 GMT | What Your Error Messages Are Teaching Attackers | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a7edfd93911c) |
-| Wed, 29 Oct 2025 20:49:58 GMT | When the Cloud Falls: Microsoft Azure Outage — October 29, 2025 | The Deep Frame | [Read More](https://medium.com/p/97d0cae1b6e7) |
-| Wed, 29 Oct 2025 20:44:43 GMT | Ghost HTTP Methods: How HTTP Verb Mutation Bypasses Modern WAFs across Middleware Layers | Pratik Dahal | [Read More](https://medium.com/p/32b66cd392ca) |
