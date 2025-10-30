@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 03:48:13 GMT | pico ctf mod 26 | Andhika IT | [Read More](https://medium.com/p/3206e03b88ed) |
+| Thu, 30 Oct 2025 03:38:44 GMT | Server Network: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/98c2b71607ee) |
+| Thu, 30 Oct 2025 03:31:52 GMT | The Malware That Waits: How Hackers Use Android Droppers to Stay Invisible | Deven Chhajed | [Read More](https://medium.com/p/1d126d261b00) |
+| Thu, 30 Oct 2025 03:27:52 GMT | The AI Skill Nobody Is Talking About (That Could 10x Your Career) | Monujangra | [Read More](https://medium.com/p/8b8252e96b73) |
+| Thu, 30 Oct 2025 03:12:08 GMT | SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/169862c90917) |
 | Thu, 30 Oct 2025 02:38:35 GMT | Developers Aren’t CISOs — and That’s Why AI Needs Agentic Security Infrastructure | Jaz Lin | [Read More](https://medium.com/p/3bc0b69f1d29) |
 | Thu, 30 Oct 2025 02:20:22 GMT | Stop Using SELECT * — How It Quietly Destroys PostgreSQL Performance | Rizqi Mulki | [Read More](https://medium.com/p/629da71371f5) |
 | Thu, 30 Oct 2025 02:15:25 GMT | When Big Pharma Builds a Supercomputer: A Cybersecurity Reality Check | Akilnath Bodipudi | [Read More](https://medium.com/p/df42e0b70247) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 17:30:13 GMT | WordPress Security Best Practices You Can’t Afford to Ignore | Ibbad Ullah | [Read More](https://medium.com/p/d0c0061ba9c2) |
 | Wed, 29 Oct 2025 17:29:29 GMT | 10 Splunk Search Commands Every Cybersecurity Analyst Should Master (SPL Cheat Sheet) | Omar Maged Ahmed | [Read More](https://medium.com/p/cb3ad38814b8) |
 | Wed, 29 Oct 2025 17:16:43 GMT | When Vendors Become Vulnerabilities: Lessons from a Public Sector Data Breach | Christopher Montgomery | [Read More](https://medium.com/p/a006f11263e0) |
-| Wed, 29 Oct 2025 17:16:29 GMT | Quantifying Swiss Cheese, the Bayesian Way | Stephen Shaffer | [Read More](https://medium.com/p/b2b512472d85) |
-| Wed, 29 Oct 2025 17:15:00 GMT | Cybersecurity Challenges for ISPs: How Jeebr Is Building Safer Networks | Jeebrinternet | [Read More](https://medium.com/p/16e0e0f6795a) |
-| Wed, 29 Oct 2025 17:11:28 GMT | The Ultimate Ransomware Defense: Test Your Backups! | Technology EM3 | [Read More](https://medium.com/p/fd72cd95ebd4) |
-| Wed, 29 Oct 2025 17:10:30 GMT | Microsoft Flags ASP NET Flaw Allowing Sneaky HTTP Request Smuggling | Chetan Seripally | [Read More](https://medium.com/p/1fca0cc217bd) |
-| Wed, 29 Oct 2025 17:08:11 GMT | Why I Never Leave PowerShell Logging Disabled on Windows Servers | Faruk Ahmed | [Read More](https://medium.com/p/368f35a86369) |
