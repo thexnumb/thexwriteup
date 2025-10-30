@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 10:44:32 GMT | Why SIEM Solutions Fail and How to Fix Them | NetWitness | [Read More](https://medium.com/p/8ddd8499eb73) |
+| Thu, 30 Oct 2025 10:35:23 GMT | 6 Little-Known Samsung A Series Features That Save Time | Pimrada Thavorn | [Read More](https://medium.com/p/e7e238ea48a0) |
+| Thu, 30 Oct 2025 10:34:40 GMT | Understanding Ethical Hacking: Why It’s More Critical Than Ever - EC-Council | Cybersecurity Courses | [Read More](https://medium.com/p/ac57a18e6df2) |
+| Thu, 30 Oct 2025 10:33:12 GMT | ⚡ Race Conditions in Web 3.0: Double-Spend Beyond Blockchain | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5be1b0df6dd4) |
+| Thu, 30 Oct 2025 10:32:16 GMT | The Hidden Link Between Cybersecurity and National Security | Shivakshi Rawat | [Read More](https://medium.com/p/f0e288fa98f0) |
+| Thu, 30 Oct 2025 10:31:52 GMT | Securing Your Domain — How SPF, DKIM, DMARC, and BIMI Prevent Email Spoofing | Natarajan C K | [Read More](https://medium.com/p/111c30a03a47) |
+| Thu, 30 Oct 2025 10:27:17 GMT | 6 Powerful Samsung Galaxy S24 Ultra Features You Didn’t Know Existed | Isabella Brown | [Read More](https://medium.com/p/9223b690c0ca) |
+| Thu, 30 Oct 2025 10:25:14 GMT | Iron Triangle for SOC: No Free Lunch, Only Trade‑Offs | Roman Trukhin | [Read More](https://medium.com/p/0d8d23de5fcd) |
+| Thu, 30 Oct 2025 10:24:17 GMT | Passive Recon 2.0: Mining Telemetry and Third-Party Metadata for Entry Points | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5e92cc76b7fe) |
+| Thu, 30 Oct 2025 10:23:25 GMT | DEX and security don’t have to be at odds | Andrew Hewitt | [Read More](https://medium.com/p/2c1212a9aca4) |
+| Thu, 30 Oct 2025 10:22:53 GMT | Business Logic Flaw in Snapchat $ | Bx1 | [Read More](https://medium.com/p/6f692d166177) |
 | Thu, 30 Oct 2025 10:20:52 GMT | When “Is It Safe?” Becomes the Question: A Critical Look at Website Trust-Scoring Services | Jari | [Read More](https://medium.com/p/624ad218a8d0) |
 | Thu, 30 Oct 2025 10:15:25 GMT | The Story Behind Magento’s SessionReaper Vulnerability (CVE-2025–54236) | Nidhin Chandran R | [Read More](https://medium.com/p/745109fbebdb) |
+| Thu, 30 Oct 2025 10:14:06 GMT | Securing the Modern Workforce — Why Endpoint Strategy Is the New Perimeter | Ola Sonola | [Read More](https://medium.com/p/e3195cd5ad58) |
+| Thu, 30 Oct 2025 10:12:14 GMT | What to Do When Your Website Faces Malicious Traffic | Maverick Steel | [Read More](https://medium.com/p/d74d40180228) |
 | Thu, 30 Oct 2025 10:07:20 GMT | AI Agents & Agentic AI: How Autonomous Systems Are Changing Business and Life | Rajani Kafaltia | [Read More](https://medium.com/p/d7971592008b) |
 | Thu, 30 Oct 2025 10:04:05 GMT | Safeguarding Executives Against Digital Impersonation | Ai Writter Tools | [Read More](https://medium.com/p/9a5ca8de885d) |
 | Thu, 30 Oct 2025 10:00:01 GMT | Best Cloud Managed Services Provider in India - Private, Public, and Hybrid | Mathewneelan | [Read More](https://medium.com/p/19e3542328f4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 04:33:52 GMT | How I built a safe, personal phishing-simulation lab with GoPhish + ngrok (and what went wrong) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/9df9c4a5a6fa) |
 | Thu, 30 Oct 2025 04:31:52 GMT | Everyone’s an Influencer Until the Camera Starts Rolling | Sanjeev Kariyandy | [Read More](https://medium.com/p/05262722f7c6) |
 | Thu, 30 Oct 2025 04:26:43 GMT | Strengthen Your App Security in 2025: Here’s How | Eastgate Software | [Read More](https://medium.com/p/ac2c24e4a8ca) |
-| Thu, 30 Oct 2025 04:17:47 GMT | HTTP RESPONSE STATUS CODES | Jei Ess | [Read More](https://medium.com/p/c5c91d9e78d2) |
-| Thu, 30 Oct 2025 04:15:27 GMT | AI Browsers Just Got Way More Dangerous | Mayur Patil | [Read More](https://medium.com/p/580a2f8ab182) |
-| Thu, 30 Oct 2025 04:11:52 GMT | SQL Injection: A Comprehensive Guide to Types,Impacts and Prevention | PRAVEEN J | [Read More](https://medium.com/p/3ee552217d34) |
-| Thu, 30 Oct 2025 04:09:36 GMT | Zero Trust with Wazuh: Continuous Verification for Identities and Access | Ismael Barrantes | [Read More](https://medium.com/p/b5c8a440b48c) |
-| Thu, 30 Oct 2025 04:03:27 GMT | Exploring the 6 Types of Projects in Project Management | TaskFord | [Read More](https://medium.com/p/2efdf93300d0) |
-| Thu, 30 Oct 2025 04:02:32 GMT | Business Logic Flaws: The Vulnerabilities No Scanner Can Find | InstaTunnel | [Read More](https://medium.com/p/b52d64692f4d) |
-| Thu, 30 Oct 2025 03:59:54 GMT | What is wrong with me? | Hilary Bennett | [Read More](https://medium.com/p/82a3c8385281) |
-| Thu, 30 Oct 2025 03:54:42 GMT | Automate Security Scans with GitLab CI & Slack Notifications | James Moceri | [Read More](https://medium.com/p/e6bebdd2f580) |
-| Thu, 30 Oct 2025 03:48:13 GMT | pico ctf mod 26 | Andhika IT | [Read More](https://medium.com/p/3206e03b88ed) |
-| Thu, 30 Oct 2025 03:38:44 GMT | Server Network: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/98c2b71607ee) |
-| Thu, 30 Oct 2025 03:31:52 GMT | The Malware That Waits: How Hackers Use Android Droppers to Stay Invisible | Deven Chhajed | [Read More](https://medium.com/p/1d126d261b00) |
-| Thu, 30 Oct 2025 03:27:52 GMT | The AI Skill Nobody Is Talking About (That Could 10x Your Career) | Monujangra | [Read More](https://medium.com/p/8b8252e96b73) |
-| Thu, 30 Oct 2025 03:12:08 GMT | SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/169862c90917) |
