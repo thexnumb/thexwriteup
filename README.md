@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 14:28:38 GMT | Vulnhub HA: Natraj Walkthrough | cyber pancake | [Read More](https://medium.com/p/14db2d148d41) |
+| Thu, 30 Oct 2025 14:18:26 GMT | The SecOps Group — Certified Active Directory Pentesting eXpert (C-ADPenXv2) - October 2025 | Hadid B | [Read More](https://medium.com/p/912c5c97f510) |
+| Thu, 30 Oct 2025 14:16:27 GMT | Security and Compliance for Agentic AI Solutions | Amit kumar | [Read More](https://medium.com/p/c91867fc9dff) |
 | Thu, 30 Oct 2025 14:12:11 GMT | OUT OF TOUCH | Daniella Wanjiku | [Read More](https://medium.com/p/869b61f2e459) |
 | Thu, 30 Oct 2025 14:04:01 GMT | Certification: Your Shield Against Catastrophic Digital Failure | CFE CERTIFICATION | [Read More](https://medium.com/p/844905183011) |
 | Thu, 30 Oct 2025 14:02:54 GMT | How to Reconnect a Garage Door Opener: Quick Steps After Manual Release | Up & Down Garage Door Services | [Read More](https://medium.com/p/dc87e828d768) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 09:48:24 GMT | Top Cloud Security Best Practices Every Small Business Should Follow | Techridge Solutions | [Read More](https://medium.com/p/0b81dd9768b3) |
 | Thu, 30 Oct 2025 09:48:19 GMT | Nvidia invests $1 billion in Nokia to build the 6G future | Technologia | [Read More](https://medium.com/p/ebfb769e4ec9) |
 | Thu, 30 Oct 2025 09:48:13 GMT | AI Red-Teaming & Model Evaluation Security: Safeguarding the Future of GenAI | Jackdavis Iap | [Read More](https://medium.com/p/89cf675fb1cb) |
-| Thu, 30 Oct 2025 09:45:36 GMT | The Importance of Disaster Recovery in Cloud Computing | Techridge Solutions | [Read More](https://medium.com/p/ff7a2942087d) |
-| Thu, 30 Oct 2025 09:38:58 GMT | Facial verification can change the Unique identification model and stop Scams | labdhi | [Read More](https://medium.com/p/cdb99f254238) |
-| Thu, 30 Oct 2025 09:36:19 GMT | The Only Thing Your Newcomers Need Is TL;DR | Eduard Kuzhyr | [Read More](https://medium.com/p/338907ee4711) |
