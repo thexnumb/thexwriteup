@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 16:15:08 GMT | How Quantum Computing Could Break Today’s Encryption | Akshattyagi | [Read More](https://medium.com/p/207ecdda1651) |
+| Thu, 30 Oct 2025 16:08:20 GMT | Your Android Phone Is Leaking Every Secret On Your Screen Right Now (And Google Can’t Stop It) | Biresh Kumar Singh | [Read More](https://medium.com/p/766dfcc0dced) |
+| Thu, 30 Oct 2025 16:01:08 GMT | HacktheBox: Manager Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/2ce7854f0a4a) |
+| Thu, 30 Oct 2025 15:51:01 GMT | なぜ聖書を作るのか、日本（人）と古代ユダヤ（人）は比較文化論のおもしろさ | Katsuyuki Okumura | [Read More](https://medium.com/p/41caef1cc59c) |
+| Thu, 30 Oct 2025 15:41:46 GMT | “I hope God will just allow me to have a heart as hard as stone. Then maybe I wouldn’t get hurt.” | Natalia | [Read More](https://medium.com/p/11e715a951d2) |
 | Thu, 30 Oct 2025 15:38:40 GMT | Web Cache Deception Attack – A Hidden Threat in Today’s Web Applications | 127.0.0.1 | [Read More](https://medium.com/p/9b7b4b37a3a0) |
+| Thu, 30 Oct 2025 15:34:33 GMT | pwncollege: Talking Web | Sourav Bose | [Read More](https://medium.com/p/38c68dd8549f) |
 | Thu, 30 Oct 2025 15:33:10 GMT | The World of Data Protection: Mounting Backups for Easy Restore & Shielding Them from Ransomware | Paradise technologies Inc | [Read More](https://medium.com/p/a386d9c532b0) |
 | Thu, 30 Oct 2025 15:27:01 GMT | Bridging the Tech Gap: How Apolis Empowered Digital Transformation with Aligned and Adaptable… | Apolis | [Read More](https://medium.com/p/b9c3e720c3bb) |
 | Thu, 30 Oct 2025 15:22:20 GMT | How Swagger UI Can Accidentally Expose Your API | Ibtissam hammadi | [Read More](https://medium.com/p/2bf02c2cb2ba) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 10:45:33 GMT | HTTP requests & responses in web security | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/5ce0c8012c03) |
 | Thu, 30 Oct 2025 10:44:32 GMT | Why SIEM Solutions Fail and How to Fix Them | NetWitness | [Read More](https://medium.com/p/8ddd8499eb73) |
 | Thu, 30 Oct 2025 10:36:58 GMT | Threat Hunting with Email Security Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/431068145b56) |
-| Thu, 30 Oct 2025 10:35:23 GMT | 6 Little-Known Samsung A Series Features That Save Time | Pimrada Thavorn | [Read More](https://medium.com/p/e7e238ea48a0) |
-| Thu, 30 Oct 2025 10:34:40 GMT | Understanding Ethical Hacking: Why It’s More Critical Than Ever - EC-Council | Cybersecurity Courses | [Read More](https://medium.com/p/ac57a18e6df2) |
-| Thu, 30 Oct 2025 10:33:12 GMT | ⚡ Race Conditions in Web 3.0: Double-Spend Beyond Blockchain | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5be1b0df6dd4) |
-| Thu, 30 Oct 2025 10:32:16 GMT | The Hidden Link Between Cybersecurity and National Security | Shivakshi Rawat | [Read More](https://medium.com/p/f0e288fa98f0) |
-| Thu, 30 Oct 2025 10:31:52 GMT | Securing Your Domain — How SPF, DKIM, DMARC, and BIMI Prevent Email Spoofing | Natarajan C K | [Read More](https://medium.com/p/111c30a03a47) |
-| Thu, 30 Oct 2025 10:27:17 GMT | 6 Powerful Samsung Galaxy S24 Ultra Features You Didn’t Know Existed | Isabella Brown | [Read More](https://medium.com/p/9223b690c0ca) |
