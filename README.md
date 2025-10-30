@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 09:36:19 GMT | The Only Thing Your Newcomers Need Is TL;DR | Eduard Kuzhyr | [Read More](https://medium.com/p/338907ee4711) |
+| Thu, 30 Oct 2025 09:31:52 GMT | Secure File Uploads in 2025: Presigned, Scanned, Streamed | Thinking Loop | [Read More](https://medium.com/p/13e86a35307b) |
+| Thu, 30 Oct 2025 09:30:12 GMT | How I Turned Boring Data Into a Living, Breathing Story | Fateyaly | [Read More](https://medium.com/p/f60d21539ed6) |
+| Thu, 30 Oct 2025 09:26:40 GMT | Anonimity in the Web Based on Routing Protocols — Part 3 | Bruzzese Roberto | [Read More](https://medium.com/p/127e83a90d6e) |
+| Thu, 30 Oct 2025 09:26:14 GMT | AES-GCM Nonce Reuse Writeup | Malkhoori | [Read More](https://medium.com/p/7d5a92b599cb) |
+| Thu, 30 Oct 2025 09:26:09 GMT | Patchifi Launches from Stealth: Redefining Endpoint Security Through Intelligent Automation | Saarahjabir | [Read More](https://medium.com/p/684d557fa7c8) |
+| Thu, 30 Oct 2025 09:24:50 GMT | You sometimes hear about 'A match made in heaven', and that is exactly how I view this potential… | Jinshi | [Read More](https://medium.com/p/87373482338c) |
+| Thu, 30 Oct 2025 09:22:00 GMT | Why Cybersecurity Upskilling is the Cornerstone of the Digital-First Workforce | Corporate Learning Pulse | [Read More](https://medium.com/p/c83445b58f5a) |
+| Thu, 30 Oct 2025 09:21:42 GMT | How Microsoft Copilot Is Redefining Workplace Productivity with AI | Techridge Solutions | [Read More](https://medium.com/p/8745cc2d0fe4) |
+| Thu, 30 Oct 2025 09:18:52 GMT | DockerLabs Writeup — Dark (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a71d0cd0fc5f) |
 | Thu, 30 Oct 2025 09:18:37 GMT | Mastering Subdomain Takeover: Step-by-Step Guide with Real Tools and Techniques | Very Lazy Tech | [Read More](https://medium.com/p/8f1c8a4583ca) |
 | Thu, 30 Oct 2025 09:17:22 GMT | InHouse Splunk ES Automation — Full Code | Aufarifqi | [Read More](https://medium.com/p/99f6a9db724f) |
 | Thu, 30 Oct 2025 09:12:54 GMT | How to Fix “Permission Denied” When Using SCP on CentOS (Step-by-Step Guide) | Ruvimbo Mambinge | [Read More](https://medium.com/p/5dc67d11bd8b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 00:11:52 GMT | A developer’s honest take on how SSL truly keeps your web apps — and your business — safe. | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/8bd2ad288ec5) |
 | Thu, 30 Oct 2025 00:11:29 GMT | DanaBot Lab — CyberDefenders Write-Up | Johnathonsiganoff | [Read More](https://medium.com/p/8336a6c1fa3f) |
 | Thu, 30 Oct 2025 00:01:52 GMT | Precision, Accountability, and Results | Rhiannon Williams | [Read More](https://medium.com/p/568338331dbd) |
-| Wed, 29 Oct 2025 23:36:51 GMT | DC-1 — Full walkthrough | Vaibhav | [Read More](https://medium.com/p/a24c7e4bd046) |
-| Wed, 29 Oct 2025 23:28:23 GMT | Seized Lab Writeup | Jaws | [Read More](https://medium.com/p/3f96a47e6f18) |
-| Wed, 29 Oct 2025 23:21:33 GMT | One ID Change, Many Accounts: Exploiting an IDOR in a User API | mwael0x | [Read More](https://medium.com/p/3863669ab509) |
-| Wed, 29 Oct 2025 23:19:09 GMT | CVE-2025–59287: When WSUS turns from a trusted patch server into an attacker launchpad | Rabbit Knight | [Read More](https://medium.com/p/39e571745381) |
-| Wed, 29 Oct 2025 23:15:55 GMT | Schnell umsetzbare & langfristige Strategien für mehr Website-Traffic | Julia Ahrens | [Read More](https://medium.com/p/042ae560aa15) |
-| Wed, 29 Oct 2025 23:10:52 GMT | The Truth About “Renting Out” Your LLC | Internet Exposed | [Read More](https://medium.com/p/8bd9298d266a) |
-| Wed, 29 Oct 2025 23:04:18 GMT | Enabling AI Adoption: Building the Foundation for Trusted Innovation with Continuous Data Risk… | Nick Deshpande | [Read More](https://medium.com/p/62a8b0cdba5d) |
-| Wed, 29 Oct 2025 23:02:30 GMT | Why I Don’t Trust Password Generators (So I Built My Own) | Atypicvoyage | [Read More](https://medium.com/p/9dc3c988bfad) |
-| Wed, 29 Oct 2025 22:57:24 GMT | Stop Using Complex Passwords — Do This Instead! | Cyber-AppSec | [Read More](https://medium.com/p/d0d685fa7a9a) |
-| Wed, 29 Oct 2025 22:44:05 GMT | Ready to Go Pro in Cybersecurity? | Martin Onyisi | [Read More](https://medium.com/p/00e2def578f1) |
