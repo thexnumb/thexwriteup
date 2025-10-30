@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 16:42:58 GMT | Fragility Behind a Brave Face | ailadgtaldry | [Read More](https://medium.com/p/acd53c2432f5) |
+| Thu, 30 Oct 2025 16:38:39 GMT | How Leaked Credentials can benefit Bug Bounty Hunters | BreachCollection | [Read More](https://medium.com/p/71252b8781da) |
+| Thu, 30 Oct 2025 16:30:44 GMT | OPSEC: Operational Security | Aastha Thakker | [Read More](https://medium.com/p/04b9a00a8d9b) |
+| Thu, 30 Oct 2025 16:29:48 GMT | Building a Conscious Cybersecurity System: How We Apply Integrated Information Theory to Threat… | JuanCS-Dev | [Read More](https://medium.com/p/73fb5719ba1d) |
 | Thu, 30 Oct 2025 16:15:08 GMT | How Quantum Computing Could Break Today’s Encryption | Akshattyagi | [Read More](https://medium.com/p/207ecdda1651) |
 | Thu, 30 Oct 2025 16:08:20 GMT | Your Android Phone Is Leaking Every Secret On Your Screen Right Now (And Google Can’t Stop It) | Biresh Kumar Singh | [Read More](https://medium.com/p/766dfcc0dced) |
 | Thu, 30 Oct 2025 16:01:08 GMT | HacktheBox: Manager Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/2ce7854f0a4a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 10:58:35 GMT | Silence, Skill, and Success in Cybersecurity — A Humble Acknowledgment | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/9108a8afbb08) |
 | Thu, 30 Oct 2025 10:57:26 GMT | How DotBig Protects Investors During Cybersecurity Threats | DotBig Forex broker Reviews | [Read More](https://medium.com/p/5af758657815) |
 | Thu, 30 Oct 2025 10:48:35 GMT | The Day My Phone Unlocked Itself. | tradaxd. | [Read More](https://medium.com/p/747ee5dbba84) |
-| Thu, 30 Oct 2025 10:48:23 GMT | Building an Enterprise Active Directory Infrastructure from Scratch — Part 2 | fatimax7 | [Read More](https://medium.com/p/c632e6ea4306) |
-| Thu, 30 Oct 2025 10:45:33 GMT | HTTP requests & responses in web security | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/5ce0c8012c03) |
-| Thu, 30 Oct 2025 10:44:32 GMT | Why SIEM Solutions Fail and How to Fix Them | NetWitness | [Read More](https://medium.com/p/8ddd8499eb73) |
-| Thu, 30 Oct 2025 10:36:58 GMT | Threat Hunting with Email Security Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/431068145b56) |
