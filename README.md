@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 07:35:52 GMT | Data Backup Best Practices: How I Protect My Digital Life in 2025 | Fiona Campbell | [Read More](https://medium.com/p/7a722f86aa7d) |
+| Thu, 30 Oct 2025 07:30:45 GMT | Bandit OverTheWire writeup — Level 2 -> 3 | Dawid Kowalski | [Read More](https://medium.com/p/3ad97b4532d2) |
+| Thu, 30 Oct 2025 07:28:45 GMT | Palo Alto Networks Compromise Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/384d3c73134a) |
+| Thu, 30 Oct 2025 07:23:50 GMT | Why Are Cybersecurity Experts Suddenly Talking About Blockchain Risks? | Bobby Andrews | [Read More](https://medium.com/p/485d49951867) |
+| Thu, 30 Oct 2025 07:21:17 GMT | Understanding the OSI Model — The Foundation of Networking | Vijay Kumar Gupta | [Read More](https://medium.com/p/c432b727474e) |
+| Thu, 30 Oct 2025 07:20:24 GMT | When a feature Becomes a Backdoor | Rajveer | [Read More](https://medium.com/p/6fa83e6497fd) |
+| Thu, 30 Oct 2025 07:12:41 GMT | How to Set Up Your Own Blazing-Fast WireGuard VPN Server | Mahdi | [Read More](https://medium.com/p/27b176c39650) |
 | Thu, 30 Oct 2025 07:10:20 GMT | Timeline Analysis: Reconstructing Events in a Cybercrime Case | Chinmayravindra | [Read More](https://medium.com/p/ba3545280d50) |
 | Thu, 30 Oct 2025 07:07:43 GMT | Pentest Copilot | Yaniv | [Read More](https://medium.com/p/ace7779361e6) |
 | Thu, 30 Oct 2025 07:01:53 GMT | From Service to Silicon: How Veterans Are Successfully Transitioning Into IT Careers | Generiss Academy | [Read More](https://medium.com/p/9d7d302c15b6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 19:49:24 GMT | Phishing Attack Overview | Lucia Banjo | [Read More](https://medium.com/p/8e9c215c56b5) |
 | Wed, 29 Oct 2025 19:46:10 GMT | TombWatcher | Mkirahmet | [Read More](https://medium.com/p/a4f15dd3236e) |
 | Wed, 29 Oct 2025 19:40:05 GMT | To My People: Grace Over Performance | Melomind | [Read More](https://medium.com/p/5aeadd188e29) |
-| Wed, 29 Oct 2025 19:32:44 GMT | Creepy Candy Cam by Ring | Rhiannon Williams | [Read More](https://medium.com/p/617d72eeb6ec) |
-| Wed, 29 Oct 2025 19:31:51 GMT | Crack the hash-THM..-Cyber Exploration Writeup.. -Day-8 | Deepika  B | [Read More](https://medium.com/p/ec79d298e361) |
-| Wed, 29 Oct 2025 19:19:03 GMT | Simple Cybersecurity Tips for Every Online Business | IT_Engineer | [Read More](https://medium.com/p/3ef427a7837e) |
-| Wed, 29 Oct 2025 19:18:12 GMT | HTB API Attacks Module: Broken Authentication Section Exercise | gabrielschwartz | [Read More](https://medium.com/p/999acc4476f2) |
-| Wed, 29 Oct 2025 19:17:22 GMT | Building Effective Threat Hunting Queries For Phishing Campaigns | RileyHv | [Read More](https://medium.com/p/ca481c7f0c15) |
-| Wed, 29 Oct 2025 19:09:01 GMT | What Is Mobile App Pentesting? | 0xnref | [Read More](https://medium.com/p/2016c840972e) |
-| Wed, 29 Oct 2025 19:03:45 GMT | The Weight of My Unfinished Systems | Soude Oluwadamilola Temilara | [Read More](https://medium.com/p/e6876693c62d) |
