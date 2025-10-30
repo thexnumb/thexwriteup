@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 23:28:20 GMT | eJPT Prep - Assessment Methodologies: Information Gathering CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/5b7add24f311) |
+| Thu, 30 Oct 2025 23:26:23 GMT | Hidden Secrets of the Dark Web You Should Know in 2025 | Musayyab Shah | [Read More](https://medium.com/p/0230c5f5518d) |
 | Thu, 30 Oct 2025 23:14:30 GMT | Brooklyn Nine Nine-Try_H4ck_M3-Walk-through… | Rokzcy Excellence | [Read More](https://medium.com/p/f0a183c508e9) |
 | Thu, 30 Oct 2025 23:11:48 GMT | From Endless Decks to Decision POCs: A Smarter Way to Make Big Tech Bets | Jen Anderson, PhD | [Read More](https://medium.com/p/7a9e3181c93b) |
 | Thu, 30 Oct 2025 23:07:31 GMT | The Future of AI in Enterprise | Jen Anderson, PhD | [Read More](https://medium.com/p/1126d5b6ee97) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 14:28:38 GMT | Vulnhub HA: Natraj Walkthrough | cyber pancake | [Read More](https://medium.com/p/14db2d148d41) |
 | Thu, 30 Oct 2025 14:18:26 GMT | The SecOps Group — Certified Active Directory Pentesting eXpert (C-ADPenXv2) - October 2025 | Hadid B | [Read More](https://medium.com/p/912c5c97f510) |
 | Thu, 30 Oct 2025 14:16:27 GMT | Security and Compliance for Agentic AI Solutions | Amit kumar | [Read More](https://medium.com/p/c91867fc9dff) |
-| Thu, 30 Oct 2025 14:12:11 GMT | OUT OF TOUCH | Daniella Wanjiku | [Read More](https://medium.com/p/869b61f2e459) |
-| Thu, 30 Oct 2025 14:04:01 GMT | Certification: Your Shield Against Catastrophic Digital Failure | CFE CERTIFICATION | [Read More](https://medium.com/p/844905183011) |
