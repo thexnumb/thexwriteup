@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 21:19:12 GMT | The Weirdest Thing I Learned While Talking to GPT | Global Whirl of Wonders | [Read More](https://medium.com/p/ccf1589dffb1) |
+| Thu, 30 Oct 2025 21:18:41 GMT | AI in Cybersecurity | Cyber-AppSec | [Read More](https://medium.com/p/d96ec66c3b13) |
+| Thu, 30 Oct 2025 21:17:05 GMT | Hacking APIs: HTTP Parameter Pollution | Israel Aráoz Severiche | [Read More](https://medium.com/p/fba389e55ada) |
+| Thu, 30 Oct 2025 21:16:09 GMT | Hardware-Level Cryptography with Intel SGX: Securing the Untrusted World | Bervice | [Read More](https://medium.com/p/2e6f571b6c15) |
+| Thu, 30 Oct 2025 21:13:31 GMT | Designing a Real-World SOC & EDR Automation Using Wazuh, Shuffle SOAR, and IRIS (Part-1) | Henil Gandhi | [Read More](https://medium.com/p/cbb7beda7451) |
+| Thu, 30 Oct 2025 21:11:25 GMT | What is Enumeration in Penetration Testing? | Irem Bezci | [Read More](https://medium.com/p/0ef710a06c4f) |
 | Thu, 30 Oct 2025 21:00:36 GMT | IDA 9.2: The mature life of the legendary disassembler | Progsky | [Read More](https://medium.com/p/70dad335b438) |
 | Thu, 30 Oct 2025 20:58:44 GMT | How to Manually Calculate a CVSS v3.1 Score (Full Guide With Impact Metrics) | Irem Bezci | [Read More](https://medium.com/p/6ef25b09f684) |
 | Thu, 30 Oct 2025 20:55:59 GMT | Three factors of Risk Management: Vulnerability, Threat and Risk | Sruthi Punugu | [Read More](https://medium.com/p/0097abc61ae5) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 13:44:17 GMT | Top 5 Cybersecurity Mistakes Small Businesses Make (and How to Fix Them) | Peter Marshall James | [Read More](https://medium.com/p/58f125381a0d) |
 | Thu, 30 Oct 2025 13:40:57 GMT | Cyberattacks on SMBs: A Growing Threat | Teddy Cerra | [Read More](https://medium.com/p/9cf43ceb5baa) |
 | Thu, 30 Oct 2025 13:29:12 GMT | Why Choose BCA in Cloud Computing and Cyber Security in 2026 | Success Study Tips | [Read More](https://medium.com/p/dff977c69701) |
-| Thu, 30 Oct 2025 13:27:33 GMT | The Masks We Wear When No One’s Watching | Daniel Gagarin | [Read More](https://medium.com/p/1224c7806a0e) |
-| Thu, 30 Oct 2025 13:22:21 GMT | The True Cost of Tech Worker Burnout - 9-Figure Media | Maxwell JAMES | [Read More](https://medium.com/p/fa5d6fdafad7) |
-| Thu, 30 Oct 2025 13:21:52 GMT | PowerShell Keylogger (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/ad0e816e07e8) |
-| Thu, 30 Oct 2025 13:21:24 GMT | How To Remove Bad Reviews About Your Business - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/70fdb50cc29a) |
-| Thu, 30 Oct 2025 13:21:13 GMT | ARCIUM:THE ENCRYPTED SUPERCOMPUTER | Abdulrahman Abdulazeez Ayomide | [Read More](https://medium.com/p/1d7e4ca10dd4) |
-| Thu, 30 Oct 2025 13:20:49 GMT | The Future of Trading Starts with Smarter Terminals | LogiClump Technologies | [Read More](https://medium.com/p/35a6baed6f22) |
