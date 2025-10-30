@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 18:25:11 GMT | The Email “+alias” Trick That Exposes Data Sellers — And Why You Should Start Using It Today | H2bm | [Read More](https://medium.com/p/32df55800aa3) |
+| Thu, 30 Oct 2025 18:23:02 GMT | AI as Artists and Music Makers: Entering the Creative Side | Kalash Harchandani | [Read More](https://medium.com/p/fad189e25344) |
+| Thu, 30 Oct 2025 18:13:50 GMT | Ukraine’s Cyber Forces: From Digital Chaos to Strategic Command Center | CCD-IS | [Read More](https://medium.com/p/e866b5b3e4c9) |
+| Thu, 30 Oct 2025 17:59:21 GMT | Why Linux Is Non-Negotiable for Security Beginners | Khaled M. | [Read More](https://medium.com/p/3092f7aa7b98) |
+| Thu, 30 Oct 2025 17:57:20 GMT | Types of Attacks in Cyber-Systems | Ali Naghiyev | [Read More](https://medium.com/p/cb92765bfa11) |
+| Thu, 30 Oct 2025 17:55:20 GMT | The 4TB EY Data Exposure: A Costly Cloud Misconfiguration Lesson | Aniket Sharma | [Read More](https://medium.com/p/c88533741589) |
+| Thu, 30 Oct 2025 17:53:13 GMT | Top 10 Cybersecurity Tools for Small Businesses | JSOC IT BLOG | [Read More](https://medium.com/p/2ea2713568d9) |
+| Thu, 30 Oct 2025 17:52:23 GMT | Pegasus to the Cartels: How Surveillance Tech Slipped Into the Shadows | Brandon Brasson | [Read More](https://medium.com/p/fe030eb002a3) |
+| Thu, 30 Oct 2025 17:49:24 GMT | Attacks on AI Browsers: How to Protect Sensitive Data | teufelswerk | [Read More](https://medium.com/p/2b05ff4f8f00) |
+| Thu, 30 Oct 2025 17:47:31 GMT | Sysinternals Lab Writeup | Jaws | [Read More](https://medium.com/p/ad2a5168e12c) |
+| Thu, 30 Oct 2025 17:47:06 GMT | How I Made ChatGPT My Personal Hacking Assistant (And Broke Their “AI-Powered” Security) | Iski | [Read More](https://medium.com/p/ee37d4a725c2) |
+| Thu, 30 Oct 2025 17:45:50 GMT | Active Directory Least Privilege & LDAPS Enforcement | Johnny Meintel | [Read More](https://medium.com/p/8359832c91c3) |
+| Thu, 30 Oct 2025 17:43:27 GMT | Inside the F-16 Breach: How Classified Avionics Data Slipped Out and What It Means | Waleed’s Edge Knowledge | [Read More](https://medium.com/p/40152752ae2b) |
 | Thu, 30 Oct 2025 17:33:19 GMT | From Recon to Root: Lessons from a Vulnerable Ubuntu VM | Vivektumma27 | [Read More](https://medium.com/p/07c9afb15a53) |
 | Thu, 30 Oct 2025 17:29:24 GMT | Composing Detection: What Nolan & Zimmer Teach Us About Cyber Operations | ReZa AdineH | [Read More](https://medium.com/p/eeaa4f01b5be) |
 | Thu, 30 Oct 2025 17:21:48 GMT | Microsoft Power Platform: Empowering Everyone to Build Apps | Sandeepa Wimalasiri | [Read More](https://medium.com/p/33684d7f9875) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 12:10:23 GMT | How to Strengthen Your AI Security Posture Before Hackers Exploit It | SecureSlate | [Read More](https://medium.com/p/6a87cad0413f) |
 | Thu, 30 Oct 2025 12:07:21 GMT | how can withdrawl my 5000 $ From my Safepal wallet to my binance?please help me | Joelle luxer | [Read More](https://medium.com/p/050a3e0ea011) |
 | Thu, 30 Oct 2025 12:04:16 GMT | Vulnlab Breach : windows pentest. | _ayman_ | [Read More](https://medium.com/p/2c75a686ef8e) |
-| Thu, 30 Oct 2025 11:51:44 GMT | Web Hosting That Works: Affordable, Fast, and Built to Last | Andy | [Read More](https://medium.com/p/243b5c722572) |
-| Thu, 30 Oct 2025 11:40:52 GMT | TV Drop: The Ultimate File Transfer Solution for Android TV | Deepak Pk | [Read More](https://medium.com/p/79aaf58ff452) |
-| Thu, 30 Oct 2025 11:40:51 GMT | broken access control IDOR in Reddit $$ | Bx1 | [Read More](https://medium.com/p/5fcd05b9a767) |
-| Thu, 30 Oct 2025 11:40:14 GMT | Network Address Translation (NAT) and Its Types | Huseyn Eyvazov | [Read More](https://medium.com/p/0eaa941f2ff9) |
-| Thu, 30 Oct 2025 11:37:24 GMT | Top 30 Network Scanning Tools for Ethical Hackers | Manisha Chaudhary | [Read More](https://medium.com/p/0b47cd12b2cc) |
-| Thu, 30 Oct 2025 11:35:48 GMT | Types of Firewalls and the OSI Layers They Operate On | Huseyn Eyvazov | [Read More](https://medium.com/p/103e94d211b7) |
-| Thu, 30 Oct 2025 11:34:13 GMT | Securing Your Platform: How OWASP Frameworks Protect Your Development | Nway Nway Zay Ya | [Read More](https://medium.com/p/28ce11febf44) |
-| Thu, 30 Oct 2025 11:33:29 GMT | Uncovering the Dark Side of Bitcoin | Frost | [Read More](https://medium.com/p/eb91a40e35be) |
-| Thu, 30 Oct 2025 11:32:43 GMT | Network Devices Work at Different OSI Layers | Huseyn Eyvazov | [Read More](https://medium.com/p/62d3c10d1ad4) |
-| Thu, 30 Oct 2025 11:29:28 GMT | Defense in Depth: The Bedrock of Modern Cybersecurity | Elvin-001 | [Read More](https://medium.com/p/85d372916851) |
-| Thu, 30 Oct 2025 11:26:55 GMT | 7 Hidden Samsung A Series Tricks That Will Blow Your Mind | Chloe White | [Read More](https://medium.com/p/ae06c8e71764) |
-| Thu, 30 Oct 2025 11:26:12 GMT | I Almost Got Hacked By a “Job Interview” — One AI Prompt Stopped It | arshia harati | [Read More](https://medium.com/p/97fa4ebf21f9) |
-| Thu, 30 Oct 2025 11:25:55 GMT | CyberDefenders Writeup: AsyncRAT Lab | Emiliano | [Read More](https://medium.com/p/f634892e8f65) |
