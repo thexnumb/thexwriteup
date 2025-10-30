@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 15:38:40 GMT | Web Cache Deception Attack – A Hidden Threat in Today’s Web Applications | 127.0.0.1 | [Read More](https://medium.com/p/9b7b4b37a3a0) |
+| Thu, 30 Oct 2025 15:33:10 GMT | The World of Data Protection: Mounting Backups for Easy Restore & Shielding Them from Ransomware | Paradise technologies Inc | [Read More](https://medium.com/p/a386d9c532b0) |
+| Thu, 30 Oct 2025 15:27:01 GMT | Bridging the Tech Gap: How Apolis Empowered Digital Transformation with Aligned and Adaptable… | Apolis | [Read More](https://medium.com/p/b9c3e720c3bb) |
 | Thu, 30 Oct 2025 15:22:20 GMT | How Swagger UI Can Accidentally Expose Your API | Ibtissam hammadi | [Read More](https://medium.com/p/2bf02c2cb2ba) |
 | Thu, 30 Oct 2025 15:21:11 GMT | HTTP Headers Explained: How They Affect Proxy Communication | ProxiesThatWork | [Read More](https://medium.com/p/d9cedcdc7647) |
 | Thu, 30 Oct 2025 15:18:32 GMT | How i found account takeover in private bug bounty program of bugcrowd | Be nice insabat | [Read More](https://medium.com/p/21df5ed3ed3c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 10:32:16 GMT | The Hidden Link Between Cybersecurity and National Security | Shivakshi Rawat | [Read More](https://medium.com/p/f0e288fa98f0) |
 | Thu, 30 Oct 2025 10:31:52 GMT | Securing Your Domain — How SPF, DKIM, DMARC, and BIMI Prevent Email Spoofing | Natarajan C K | [Read More](https://medium.com/p/111c30a03a47) |
 | Thu, 30 Oct 2025 10:27:17 GMT | 6 Powerful Samsung Galaxy S24 Ultra Features You Didn’t Know Existed | Isabella Brown | [Read More](https://medium.com/p/9223b690c0ca) |
-| Thu, 30 Oct 2025 10:25:14 GMT | Iron Triangle for SOC: No Free Lunch, Only Trade‑Offs | Roman Trukhin | [Read More](https://medium.com/p/0d8d23de5fcd) |
-| Thu, 30 Oct 2025 10:24:17 GMT | Passive Recon 2.0: Mining Telemetry and Third-Party Metadata for Entry Points | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5e92cc76b7fe) |
-| Thu, 30 Oct 2025 10:23:25 GMT | DEX and security don’t have to be at odds | Andrew Hewitt | [Read More](https://medium.com/p/2c1212a9aca4) |
