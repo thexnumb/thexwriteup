@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 19:19:55 GMT | Information Technology: The Magic | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/5ef5649854b4) |
+| Thu, 30 Oct 2025 19:18:14 GMT | What VetSecCon Taught Me About Community in Cybersecurity | Cybergilly | [Read More](https://medium.com/p/e8c6b639cbc8) |
+| Thu, 30 Oct 2025 19:16:21 GMT | Labshock Security: The World’s Most Advanced OT/ICS Cyber Lab — Revolutionizing Industrial Defenses | Desmond Lamptey | [Read More](https://medium.com/p/d952fe5c49a4) |
+| Thu, 30 Oct 2025 19:11:59 GMT | Understanding Cryptojacking — How Hackers Steal Your Computing Power | Afnan K | [Read More](https://medium.com/p/dbfdc4b201d8) |
+| Thu, 30 Oct 2025 19:10:06 GMT | Forget Your 64-Digit Key: WhatsApp’s Passkey Backups Are Finally Here | TechBird | [Read More](https://medium.com/p/22df68f08bb9) |
 | Thu, 30 Oct 2025 19:00:35 GMT | [Revjew] OWASP LLM Top 10 — Overview | JAYL | [Read More](https://medium.com/p/f911e6879363) |
 | Thu, 30 Oct 2025 18:58:14 GMT | Understanding and Preventing Ransomware and Phishing Attacks | Aalekh Srivastava | [Read More](https://medium.com/p/b8150048f8ec) |
 | Thu, 30 Oct 2025 18:49:55 GMT | SOC251 — Quishing Detected (QR Code Phishing) (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/2900b96f5101) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 12:47:33 GMT | IDOR : Very simple IDOR resulted in $500 | Defidev | [Read More](https://medium.com/p/1d0c3b725631) |
 | Thu, 30 Oct 2025 12:46:24 GMT | [OverTheWire] Bandit Level 22 → 23 | H$nt | [Read More](https://medium.com/p/709a1dff6a47) |
 | Thu, 30 Oct 2025 12:41:53 GMT | Anatomy of a Phish: How We Got from the “Nigerian Prince” to Modern Scams | Furkanctiner | [Read More](https://medium.com/p/fb00aeb4ba49) |
-| Thu, 30 Oct 2025 12:36:52 GMT | CacheGuard UTM: A Smart Cybersecurity Choice for Startups | CacheGuard Technologies | [Read More](https://medium.com/p/00e48cd7c415) |
-| Thu, 30 Oct 2025 12:33:03 GMT | ️‍♀️ Takeover Challenge (TryHackMe) – Full Walkthrough | shweta | [Read More](https://medium.com/p/d54da913f525) |
-| Thu, 30 Oct 2025 12:30:48 GMT | Why CPENT Is a Game-Changer for Pen Testing | Shreyashettyctr | [Read More](https://medium.com/p/965fec00bed4) |
-| Thu, 30 Oct 2025 12:20:03 GMT | Utah Search Engine Optimization Company | Hary Battler | [Read More](https://medium.com/p/bb772cebbdd2) |
-| Thu, 30 Oct 2025 12:19:03 GMT | WSUS Under Active Attack — Patch Now or Get Owned | Φiriki Intelligence | [Read More](https://medium.com/p/ea2b55127aa3) |
