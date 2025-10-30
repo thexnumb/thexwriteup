@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 04:34:06 GMT | Cybersecurity in the Age of AI-Powered Threats | Aditya mishra | [Read More](https://medium.com/p/10c55209b29f) |
+| Thu, 30 Oct 2025 04:33:52 GMT | How I built a safe, personal phishing-simulation lab with GoPhish + ngrok (and what went wrong) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/9df9c4a5a6fa) |
+| Thu, 30 Oct 2025 04:31:52 GMT | Everyone’s an Influencer Until the Camera Starts Rolling | Sanjeev Kariyandy | [Read More](https://medium.com/p/05262722f7c6) |
+| Thu, 30 Oct 2025 04:26:43 GMT | Strengthen Your App Security in 2025: Here’s How | Eastgate Software | [Read More](https://medium.com/p/ac2c24e4a8ca) |
 | Thu, 30 Oct 2025 04:17:47 GMT | HTTP RESPONSE STATUS CODES | Jei Ess | [Read More](https://medium.com/p/c5c91d9e78d2) |
+| Thu, 30 Oct 2025 04:15:27 GMT | AI Browsers Just Got Way More Dangerous | Mayur Patil | [Read More](https://medium.com/p/580a2f8ab182) |
 | Thu, 30 Oct 2025 04:11:52 GMT | SQL Injection: A Comprehensive Guide to Types,Impacts and Prevention | PRAVEEN J | [Read More](https://medium.com/p/3ee552217d34) |
 | Thu, 30 Oct 2025 04:09:36 GMT | Zero Trust with Wazuh: Continuous Verification for Identities and Access | Ismael Barrantes | [Read More](https://medium.com/p/b5c8a440b48c) |
 | Thu, 30 Oct 2025 04:03:27 GMT | Exploring the 6 Types of Projects in Project Management | TaskFord | [Read More](https://medium.com/p/2efdf93300d0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 17:53:09 GMT | Protecting Patient Data- A Cybersecurity Checklist for Healthcare Leaders | ManagedIT_Expert | [Read More](https://medium.com/p/a2439a0961e5) |
 | Wed, 29 Oct 2025 17:51:59 GMT | Cyber Security: Vulnerability Assessment and Penetration Testing | Cyber Security Research | [Read More](https://medium.com/p/dc228fd049cc) |
 | Wed, 29 Oct 2025 17:46:23 GMT | Privilege Escalation — From Member to Organization Takeover | Ahmed Mahmoud | [Read More](https://medium.com/p/4fb603817196) |
-| Wed, 29 Oct 2025 17:46:07 GMT | Cyber Security: The Ethics of Digital Defense | Cyber Security Research | [Read More](https://medium.com/p/70915deddf59) |
-| Wed, 29 Oct 2025 17:42:41 GMT | From Silent Overthinking to Bold Sharing | Maria Jose Nava | [Read More](https://medium.com/p/7e1c7c75e415) |
-| Wed, 29 Oct 2025 17:39:03 GMT | Cyber Security: Artificial Intelligence and Machine Learning | Cyber Security Research | [Read More](https://medium.com/p/710ddf9c84d8) |
-| Wed, 29 Oct 2025 17:38:48 GMT | The AI Standard Wars We’ve Seen Before | Paul M Jankowski | [Read More](https://medium.com/p/29d5ce991502) |
-| Wed, 29 Oct 2025 17:37:38 GMT | Modern Cyber Defense: The Growing Role of AI and Machine Learning Against Ransomware | Rashadul Islam | [Read More](https://medium.com/p/f90e4d9708e2) |
