@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 05:12:28 GMT | The Right Way to Solve All Your Problems with AI | Suketu Prajapati | [Read More](https://medium.com/p/10ce20b7bb57) |
+| Thu, 30 Oct 2025 05:10:42 GMT | FIFA 2026 World Cup Scam Alert: Cybercriminals Gear Up as Global Event Nears | Breezy Business Channel | [Read More](https://medium.com/p/f2cc24c23540) |
+| Thu, 30 Oct 2025 04:56:21 GMT | My First Steps Into Linux — How I Learned to Talk to Machines | Salimassili | [Read More](https://medium.com/p/e1f41edcefa2) |
+| Thu, 30 Oct 2025 04:54:21 GMT | SPARK Matrix™: Insider Risk Management Evaluating the Leaders in Protecting Sensitive Data | Gargiben | [Read More](https://medium.com/p/5b4511f2332a) |
+| Thu, 30 Oct 2025 04:39:39 GMT | How a Hospital’s Tool Choice Stopped a Ransomware Attack | Lanvaus | [Read More](https://medium.com/p/8cc1d2b44dbf) |
 | Thu, 30 Oct 2025 04:34:06 GMT | Cybersecurity in the Age of AI-Powered Threats | Aditya mishra | [Read More](https://medium.com/p/10c55209b29f) |
 | Thu, 30 Oct 2025 04:33:52 GMT | How I built a safe, personal phishing-simulation lab with GoPhish + ngrok (and what went wrong) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/9df9c4a5a6fa) |
 | Thu, 30 Oct 2025 04:31:52 GMT | Everyone’s an Influencer Until the Camera Starts Rolling | Sanjeev Kariyandy | [Read More](https://medium.com/p/05262722f7c6) |
@@ -23,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 04:03:27 GMT | Exploring the 6 Types of Projects in Project Management | TaskFord | [Read More](https://medium.com/p/2efdf93300d0) |
 | Thu, 30 Oct 2025 04:02:32 GMT | Business Logic Flaws: The Vulnerabilities No Scanner Can Find | InstaTunnel | [Read More](https://medium.com/p/b52d64692f4d) |
 | Thu, 30 Oct 2025 03:59:54 GMT | What is wrong with me? | Hilary Bennett | [Read More](https://medium.com/p/82a3c8385281) |
+| Thu, 30 Oct 2025 03:54:42 GMT | Automate Security Scans with GitLab CI & Slack Notifications | James Moceri | [Read More](https://medium.com/p/e6bebdd2f580) |
 | Thu, 30 Oct 2025 03:48:13 GMT | pico ctf mod 26 | Andhika IT | [Read More](https://medium.com/p/3206e03b88ed) |
 | Thu, 30 Oct 2025 03:38:44 GMT | Server Network: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/98c2b71607ee) |
 | Thu, 30 Oct 2025 03:31:52 GMT | The Malware That Waits: How Hackers Use Android Droppers to Stay Invisible | Deven Chhajed | [Read More](https://medium.com/p/1d126d261b00) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Oct 2025 18:10:20 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/49584901470b) |
 | Wed, 29 Oct 2025 18:09:07 GMT | CVE Record Format Version 5.2.0 and CVE Services Version 2.6.0 Now Available | CVE Program Blog | [Read More](https://medium.com/p/ea756eee3659) |
 | Wed, 29 Oct 2025 18:05:21 GMT | Physical Security & Cybersecurity: How Their Strategies Diverge | Joven A Rodrigues | [Read More](https://medium.com/p/1be5009099b8) |
-| Wed, 29 Oct 2025 18:04:21 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/5026d193c4da) |
-| Wed, 29 Oct 2025 18:03:51 GMT | Non-Brute Forcing RSA and ECC | Nicholas Ord | [Read More](https://medium.com/p/22712f8ae36d) |
-| Wed, 29 Oct 2025 17:57:42 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/a2d163fed553) |
-| Wed, 29 Oct 2025 17:53:09 GMT | Protecting Patient Data- A Cybersecurity Checklist for Healthcare Leaders | ManagedIT_Expert | [Read More](https://medium.com/p/a2439a0961e5) |
-| Wed, 29 Oct 2025 17:51:59 GMT | Cyber Security: Vulnerability Assessment and Penetration Testing | Cyber Security Research | [Read More](https://medium.com/p/dc228fd049cc) |
-| Wed, 29 Oct 2025 17:46:23 GMT | Privilege Escalation — From Member to Organization Takeover | Ahmed Mahmoud | [Read More](https://medium.com/p/4fb603817196) |
