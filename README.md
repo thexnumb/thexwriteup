@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Oct 2025 20:06:47 GMT | Red Team Simulation with AdaptixC2: Phishing to Beacon (Lab exercise) | Shondy Sainthea | [Read More](https://medium.com/p/0f7620a5f9d4) |
+| Thu, 30 Oct 2025 20:06:40 GMT | Cyber Security Protection | Lucia Banjo | [Read More](https://medium.com/p/ff70685cd205) |
+| Thu, 30 Oct 2025 20:06:13 GMT | How to recover an X account suspended due to violation | Lucia Banjo | [Read More](https://medium.com/p/247d14bf9987) |
+| Thu, 30 Oct 2025 19:57:40 GMT | The Windows Security Journey — Replacement of WRP (Windows Resource Protection) Protected Files | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/11a033b1681e) |
+| Thu, 30 Oct 2025 19:57:22 GMT | Quest for Digital Resilience: Conquering MFA Fatigue | Danielle Koppel | [Read More](https://medium.com/p/8bab9c631a93) |
+| Thu, 30 Oct 2025 19:38:18 GMT | My Current Internet Security Setup | furmanp | [Read More](https://medium.com/p/90d049006e6f) |
+| Thu, 30 Oct 2025 19:33:42 GMT | The Week That Shook the Security Foundation: From Silicon Threats to Cloud Fragility | Akilnath Bodipudi | [Read More](https://medium.com/p/9f4c3cb04354) |
 | Thu, 30 Oct 2025 19:19:55 GMT | Information Technology: The Magic | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/5ef5649854b4) |
 | Thu, 30 Oct 2025 19:18:14 GMT | What VetSecCon Taught Me About Community in Cybersecurity | Cybergilly | [Read More](https://medium.com/p/e8c6b639cbc8) |
 | Thu, 30 Oct 2025 19:16:21 GMT | Labshock Security: The World’s Most Advanced OT/ICS Cyber Lab — Revolutionizing Industrial Defenses | Desmond Lamptey | [Read More](https://medium.com/p/d952fe5c49a4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 13:02:14 GMT | Leveraging Open-Source Intelligence (OSINT) with Microsoft Sentinel | Ravikiran | [Read More](https://medium.com/p/92263a52a64d) |
 | Thu, 30 Oct 2025 13:02:04 GMT | 7 CI Artifacts to Keep — and What to Purge | Nexumo | [Read More](https://medium.com/p/a23e51726386) |
 | Thu, 30 Oct 2025 13:02:02 GMT | Secure File Pipelines in n8n (with Virus Scanning) | Bhagya Rana | [Read More](https://medium.com/p/bbe7cc1e0bf8) |
-| Thu, 30 Oct 2025 13:02:02 GMT | Zero Trust is the Only Way to Secure Remote Access | RSUPPORT Blog | [Read More](https://medium.com/p/260ae4175a28) |
-| Thu, 30 Oct 2025 13:02:02 GMT | 30 Days of Red Team: Day 5 — Initial Exploitation Techniques (From Shell to System Access) | Maxwell Cross | [Read More](https://medium.com/p/fbb73d60dc27) |
-| Thu, 30 Oct 2025 13:02:00 GMT | ItsyBitsy - Complete TryHackMe Walkthrough | Rahul B | [Read More](https://medium.com/p/2bd024c87da2) |
-| Thu, 30 Oct 2025 12:59:01 GMT | The Outer Worlds 2 By Obsidian Entertainment | Mia Mi | [Read More](https://medium.com/p/ab87fb9a0e6a) |
-| Thu, 30 Oct 2025 12:47:33 GMT | IDOR : Very simple IDOR resulted in $500 | Defidev | [Read More](https://medium.com/p/1d0c3b725631) |
-| Thu, 30 Oct 2025 12:46:24 GMT | [OverTheWire] Bandit Level 22 → 23 | H$nt | [Read More](https://medium.com/p/709a1dff6a47) |
-| Thu, 30 Oct 2025 12:41:53 GMT | Anatomy of a Phish: How We Got from the “Nigerian Prince” to Modern Scams | Furkanctiner | [Read More](https://medium.com/p/fb00aeb4ba49) |
