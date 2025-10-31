@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 16:14:01 GMT | What the Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/6b364a001419) |
+| Fri, 31 Oct 2025 16:13:07 GMT | What The Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/bb7147c03023) |
+| Fri, 31 Oct 2025 16:09:01 GMT | The Web Can’t Keep Up With Itself | Taylor Corbett | [Read More](https://medium.com/p/f6fd1053736d) |
+| Fri, 31 Oct 2025 16:08:18 GMT | Backend For Dummies: Securing Your Web App | Dillon Ansah | [Read More](https://medium.com/p/49a3127b90de) |
+| Fri, 31 Oct 2025 16:06:50 GMT | Top 10Things To Learn For The Hacker Playbook 3 by Peter Kim. | Mainekhacker | [Read More](https://medium.com/p/59cfca7aae7a) |
+| Fri, 31 Oct 2025 16:05:01 GMT | Pentesting Wi-Fi and Bluetooth Devices: A Defensive Playbook, Not a How-To | Michael Preston | [Read More](https://medium.com/p/8c4ea89694c4) |
+| Fri, 31 Oct 2025 16:04:49 GMT | CyberDefenders — WorkFromHome Lab | jon | [Read More](https://medium.com/p/f8cfec4996a1) |
+| Fri, 31 Oct 2025 16:02:47 GMT | Vol. 4 — Advanced Secret Management & Policy Enforcement | Alen Güler | [Read More](https://medium.com/p/9465a18dd697) |
+| Fri, 31 Oct 2025 16:00:27 GMT | Why C++ Still Matters in 2025 | Vipul Sonule | [Read More](https://medium.com/p/0ab6c5c13da0) |
+| Fri, 31 Oct 2025 15:56:36 GMT | Windows 11 Emergency Update Alert: Why You Should Install the Latest Patch Right Now | The question mark | [Read More](https://medium.com/p/e0c4395e4a3f) |
+| Fri, 31 Oct 2025 15:53:51 GMT | KYB, KYT & Compliance — The Core of Secure Crypto Processing | 0xProcessing | [Read More](https://medium.com/p/c4962613a571) |
+| Fri, 31 Oct 2025 15:50:00 GMT | If My Data Is So Secure, Why Is Everyone Else Using It? | Consumer Attorneys PLLC | [Read More](https://medium.com/p/d46b432507df) |
+| Fri, 31 Oct 2025 15:44:05 GMT | Google Dorking for Test Environments | Cybersecplayground | [Read More](https://medium.com/p/ae70958fa112) |
 | Fri, 31 Oct 2025 15:36:43 GMT | The Spy in Your Pocket: What Operation Triangulation Tells Us About the Future of Smartphone… | Abatis ABTU | [Read More](https://medium.com/p/c351d2eee4f8) |
 | Fri, 31 Oct 2025 15:20:09 GMT | MonsterV2 Malware-as-a-Service (MaaS) and the TA585 Threat Group’s Advanced ClickFix Campaigns… | zerOiQ | [Read More](https://medium.com/p/426c5142f818) |
 | Fri, 31 Oct 2025 15:18:22 GMT | Inside the Hacker’s Playground: Setting Up Your Virtual Lab (Part 1) | Stitoutl | [Read More](https://medium.com/p/805c4b76125b) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 10:31:56 GMT | Exploring Command-Line Shells: Bash, Zsh, Fish, and PowerShell | Natarajan C K | [Read More](https://medium.com/p/1d87f14b9007) |
 | Fri, 31 Oct 2025 10:31:55 GMT | Workflow Governance at Scale: IaC + Policy for n8n & Zapier | Bhagya Rana | [Read More](https://medium.com/p/0a790697ccd5) |
 | Fri, 31 Oct 2025 10:31:46 GMT | Best VAPT Testing Service Companies In India - Net Access | Anbarasans | [Read More](https://medium.com/p/89f7b9e583f3) |
-| Fri, 31 Oct 2025 10:28:40 GMT | How AI Is Redefining Modern Security | Modern Security | [Read More](https://medium.com/p/a800db494ea5) |
-| Fri, 31 Oct 2025 10:26:14 GMT | ️‍♂️ How to Detect Lookalike Domains and Phishing Websites Targeting Your Brand | sagar gupta | [Read More](https://medium.com/p/e913702e27e1) |
-| Fri, 31 Oct 2025 10:25:07 GMT | MITRE ATT&CK App for Splunk 3.14.0 — Release Highlights | Hilal Gevrek | [Read More](https://medium.com/p/a3f04176432d) |
-| Fri, 31 Oct 2025 10:24:16 GMT | SQLi and LFI: Safe Test Scenarios, Defense and Code Examples | Esra Kayhan | [Read More](https://medium.com/p/4919f6e3837a) |
-| Fri, 31 Oct 2025 10:21:59 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/19d68252c007) |
-| Fri, 31 Oct 2025 10:19:00 GMT | Android Malware Analysis: Reverse Engineering APK to Understand Attacks | Muhammad Haider Tallal | [Read More](https://medium.com/p/edae2b7462b9) |
-| Fri, 31 Oct 2025 10:18:34 GMT | Zen7 Vanguard Program — Unite the pioneers building the next era of agentic payments | Zen7Labs | [Read More](https://medium.com/p/998a01082669) |
-| Fri, 31 Oct 2025 10:12:25 GMT | What is Hire a Hacker Pro? 25 Essential Q&A About This 100% Free Cybersecurity Learning Resource | SinVictus | [Read More](https://medium.com/p/d78ad593d3b7) |
-| Fri, 31 Oct 2025 10:11:13 GMT | Uh Oh! Search Guard FLX’s Little Secret: How Object Fields Can Leak Info (CVE-2025–12147) | CVEHUB | [Read More](https://medium.com/p/29ab708401f6) |
-| Fri, 31 Oct 2025 10:11:08 GMT | Cyber Security: Protecting Critical Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/09f1599cbca2) |
-| Fri, 31 Oct 2025 10:09:36 GMT | InstallShield Setup.exe Vulnerability: A Stealthy Privilege Escalation Threat! ️ | CVEHUB | [Read More](https://medium.com/p/dbadb681998c) |
-| Fri, 31 Oct 2025 10:09:32 GMT | When a “Legal API” Handed Me a Data Dump UNAUTH | Evyeveline | [Read More](https://medium.com/p/e4c9ea3fd297) |
-| Fri, 31 Oct 2025 10:07:36 GMT | Hack Right: Real Ethical Hacking, No BS | SilentInject | [Read More](https://medium.com/p/98850af992aa) |
