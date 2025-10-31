@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 16:40:31 GMT | The Ultimate Bug Hunter’s Recon workflow: From Subdomains to Critical Vulnerabilities | Manoj | [Read More](https://medium.com/p/befcef19307f) |
+| Fri, 31 Oct 2025 16:38:16 GMT | The “Urgent” Email to Your CEO? It Might Be a Ticking Time Bomb | Athishsagarkishan | [Read More](https://medium.com/p/b64384ac10c9) |
+| Fri, 31 Oct 2025 16:37:54 GMT | Unauthorized USB Device Detection with AI+ML | Myth | [Read More](https://medium.com/p/cf3fcbd53fae) |
+| Fri, 31 Oct 2025 16:36:15 GMT | Windows Process Anomaly Detection with AI & ML | Myth | [Read More](https://medium.com/p/ed58163b8272) |
+| Fri, 31 Oct 2025 16:33:41 GMT | AI-Powered Phishing Email Detection Using ML Classifier | Myth | [Read More](https://medium.com/p/67c816ec733a) |
+| Fri, 31 Oct 2025 16:18:20 GMT | Hack the Box: Jerry Walkthrough | n0t_brit | [Read More](https://medium.com/p/32455755491b) |
 | Fri, 31 Oct 2025 16:14:01 GMT | What the Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/6b364a001419) |
 | Fri, 31 Oct 2025 16:13:07 GMT | What The Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/bb7147c03023) |
 | Fri, 31 Oct 2025 16:09:01 GMT | The Web Can’t Keep Up With Itself | Taylor Corbett | [Read More](https://medium.com/p/f6fd1053736d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 10:42:48 GMT | Learn Without Limits — Explore Jaipur’s Most Trusted Online Learning Platform | skill24sblog | [Read More](https://medium.com/p/af816cfea41b) |
 | Fri, 31 Oct 2025 10:41:52 GMT | Palo Alto Networks Cyber Risk Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/790db6e23756) |
 | Fri, 31 Oct 2025 10:40:10 GMT | How to Set the Default SFTP Directory in JumpServer | LXware | [Read More](https://medium.com/p/2fe47c5d81b4) |
-| Fri, 31 Oct 2025 10:39:59 GMT | When Your Automated Tests Become Your Worst Nightmare | TuringOne | [Read More](https://medium.com/p/0c21e0e3c6db) |
-| Fri, 31 Oct 2025 10:37:24 GMT | HTML injection in snapshat email form$$$ | Aksoum Abderrahmane | [Read More](https://medium.com/p/318fc1ac0a9c) |
-| Fri, 31 Oct 2025 10:33:17 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/c5a0d3858a71) |
-| Fri, 31 Oct 2025 10:31:56 GMT | Exploring Command-Line Shells: Bash, Zsh, Fish, and PowerShell | Natarajan C K | [Read More](https://medium.com/p/1d87f14b9007) |
-| Fri, 31 Oct 2025 10:31:55 GMT | Workflow Governance at Scale: IaC + Policy for n8n & Zapier | Bhagya Rana | [Read More](https://medium.com/p/0a790697ccd5) |
-| Fri, 31 Oct 2025 10:31:46 GMT | Best VAPT Testing Service Companies In India - Net Access | Anbarasans | [Read More](https://medium.com/p/89f7b9e583f3) |
