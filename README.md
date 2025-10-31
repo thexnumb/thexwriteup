@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 15:09:47 GMT | Fundamentals of Cloud Computing Security | Ayoade Akintayo (PhD) | [Read More](https://medium.com/p/73a67b0bdc0e) |
+| Fri, 31 Oct 2025 14:55:26 GMT | How Secure Is Your Password? I Built a Generator to Find Out | Anand Balachandran Pillai | [Read More](https://medium.com/p/ef2d1330bf4b) |
+| Fri, 31 Oct 2025 14:51:09 GMT | The F1 Data Pit Stop: How a Single API Bug Exposed Racing’s Biggest Stars | Aj | [Read More](https://medium.com/p/79daac3e56d0) |
+| Fri, 31 Oct 2025 14:48:50 GMT | Internet of Things — Input Analog | Zifa Tea Azzahra | [Read More](https://medium.com/p/a09b3cdb8776) |
+| Fri, 31 Oct 2025 14:45:21 GMT | RONIN OWL CTI Report Template: Proactive Defense in the Age of AI | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/43d2cb68d812) |
+| Fri, 31 Oct 2025 14:44:32 GMT | I Built My Worth on Exhaustion | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/fabbf2ebecdc) |
+| Fri, 31 Oct 2025 14:44:15 GMT | The Things I Never Said Out Loud – But Always Felt Deeply | its_that_girlpearls | [Read More](https://medium.com/p/6bccf6b9f954) |
 | Fri, 31 Oct 2025 14:33:25 GMT | The Windows Forensic Journey — Icon Cache (IconCache.db) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f81db7e4b458) |
 | Fri, 31 Oct 2025 14:27:45 GMT | Terra Dotta Exposed Unencrypted Passwords: A Major Security Oversight in Higher Ed Tech | Austin Miller | [Read More](https://medium.com/p/a6461207b220) |
 | Fri, 31 Oct 2025 14:24:45 GMT | The Strategic Role of MSPs in Cybersecurity: What Business Leaders Need to Know in 2025 | Donald Betancourt | [Read More](https://medium.com/p/94468a43e003) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 10:06:02 GMT | Cyber Audits That Strengthen Your Website Security | Cyber Shieldpro | [Read More](https://medium.com/p/b4fd623d6af0) |
 | Fri, 31 Oct 2025 10:05:40 GMT | Offensive Security | Seyed saeed Mohammadi | [Read More](https://medium.com/p/94e73a4a3ef5) |
 | Fri, 31 Oct 2025 10:02:59 GMT | The 99.9% Firewall: Key Security Lessons from Cybersecurity Awareness Month | Ejike Etolue | [Read More](https://medium.com/p/68607d0041ec) |
-| Fri, 31 Oct 2025 10:00:12 GMT | Cyber Security: The Battle Against Phishing | Cyber Security Research | [Read More](https://medium.com/p/375bd4f66358) |
-| Fri, 31 Oct 2025 09:58:37 GMT | Why Unified Patient Data Is the Future of Care | Digital Transformation Playbook | [Read More](https://medium.com/p/78f5171ef2ea) |
-| Fri, 31 Oct 2025 09:57:38 GMT | Unauthenticated access to “Confidential — licensed users” PDF (found with Google dork) | Ousski | [Read More](https://medium.com/p/867dd2f5e462) |
-| Fri, 31 Oct 2025 09:56:36 GMT | Here Are the 10 Best SAST Tools for Secure Development in 2025 | Anwar Plexicus | [Read More](https://medium.com/p/bed0e5d4b2ab) |
-| Fri, 31 Oct 2025 09:55:01 GMT | Sublime Just Got Even Smarter: Automatic Calendar Event Deletion Is Here | Dean | [Read More](https://medium.com/p/14ad4e548578) |
-| Fri, 31 Oct 2025 09:50:27 GMT | Cyber Security: The Evolution of Malware | Cyber Security Research | [Read More](https://medium.com/p/053eb118db18) |
-| Fri, 31 Oct 2025 09:50:20 GMT | Why We Need More Cybersecurity Experts and How to Fix the Shortage | CCoe | [Read More](https://medium.com/p/db2c40c3084c) |
