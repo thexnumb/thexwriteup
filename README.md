@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 08:06:51 GMT | Sideline Scruples: Watching Athletes and Vendors Gamble with Someone Else’s Money | Namir Sagheenanajar | [Read More](https://medium.com/p/537529381e7f) |
+| Fri, 31 Oct 2025 08:04:25 GMT | Why VPNs Are Not the Magic Security Shield You Think | Deepak Sharma | [Read More](https://medium.com/p/edb32e1ba102) |
+| Fri, 31 Oct 2025 08:02:46 GMT | Don’t Let Your Node.js App Get Haunted: The Horror of Prototype Pollution | Serhii Malyshev | [Read More](https://medium.com/p/73d00b3cd08c) |
+| Fri, 31 Oct 2025 08:00:28 GMT | Brash Exploit: How a Single Malicious URL Crashes Chromium Browsers in Seconds | Germano Costi | [Read More](https://medium.com/p/73d12dc7c7bc) |
+| Fri, 31 Oct 2025 07:54:12 GMT | Today’s Top Cyber Intelligence Highlights — Oct 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/20163d28dac3) |
+| Fri, 31 Oct 2025 07:49:42 GMT | Shadow Entry: Discovery of Authentication bypass vulnerability in DSE855 Communications Device | Vortex | [Read More](https://medium.com/p/938e35d4b361) |
+| Fri, 31 Oct 2025 07:43:35 GMT | Before You Fly: 7 Ways to Protect Your Data Overseas | Cloudbric VPN | [Read More](https://medium.com/p/f4a76db4e454) |
+| Fri, 31 Oct 2025 07:36:13 GMT | Beyond the Login Button: A Friendly Chat About Cookies, Sessions, and Our App’s Security | Rajeev Barnwal | [Read More](https://medium.com/p/28c892f47614) |
+| Fri, 31 Oct 2025 07:34:56 GMT | Where Do You Go When You’re Tired of Being You? | Vijay Kumar Gupta | [Read More](https://medium.com/p/a6a7c0c641a8) |
 | Fri, 31 Oct 2025 07:27:40 GMT | GenAI Governance: A Practical Framework for Secure and Responsible AI Adoption | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/b9a6c12a8029) |
 | Fri, 31 Oct 2025 07:12:11 GMT | Master Stealth Logging Bypass on Linux Systems: Step-by-Step Tactics for Ethical Hackers | Very Lazy Tech | [Read More](https://medium.com/p/cd2112ef944a) |
 | Fri, 31 Oct 2025 07:11:32 GMT | Everyone Wants to Hack — No One Wants to Think | An0n | [Read More](https://medium.com/p/a6bb8a313501) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 21:17:05 GMT | Hacking APIs: HTTP Parameter Pollution | Israel Aráoz Severiche | [Read More](https://medium.com/p/fba389e55ada) |
 | Thu, 30 Oct 2025 21:16:09 GMT | Hardware-Level Cryptography with Intel SGX: Securing the Untrusted World | Bervice | [Read More](https://medium.com/p/2e6f571b6c15) |
 | Thu, 30 Oct 2025 21:13:31 GMT | Designing a Real-World SOC & EDR Automation Using Wazuh, Shuffle SOAR, and IRIS (Part-1) | Henil Gandhi | [Read More](https://medium.com/p/cbb7beda7451) |
-| Thu, 30 Oct 2025 21:11:25 GMT | What is Enumeration in Penetration Testing? | Irem Bezci | [Read More](https://medium.com/p/0ef710a06c4f) |
-| Thu, 30 Oct 2025 21:00:36 GMT | IDA 9.2: The mature life of the legendary disassembler | Progsky | [Read More](https://medium.com/p/70dad335b438) |
-| Thu, 30 Oct 2025 20:58:44 GMT | How to Manually Calculate a CVSS v3.1 Score (Full Guide With Impact Metrics) | Irem Bezci | [Read More](https://medium.com/p/6ef25b09f684) |
-| Thu, 30 Oct 2025 20:55:59 GMT | Three factors of Risk Management: Vulnerability, Threat and Risk | Sruthi Punugu | [Read More](https://medium.com/p/0097abc61ae5) |
-| Thu, 30 Oct 2025 20:41:21 GMT | The Ultimate List of Rules Every On-Chain Survivor Should Follow to Stay Safe! | Officer's Notes | [Read More](https://medium.com/p/07df7af7ea3a) |
-| Thu, 30 Oct 2025 20:16:50 GMT | The “Digital Arrest” Trap: How Cyber Criminals Are Destroying Lives | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/fcc1c1880f9b) |
-| Thu, 30 Oct 2025 20:06:47 GMT | Red Team Simulation with AdaptixC2: Phishing to Beacon (Lab exercise) | Shondy Sainthea | [Read More](https://medium.com/p/0f7620a5f9d4) |
-| Thu, 30 Oct 2025 20:06:40 GMT | Cyber Security Protection | Lucia Banjo | [Read More](https://medium.com/p/ff70685cd205) |
-| Thu, 30 Oct 2025 20:06:13 GMT | How to recover an X account suspended due to violation | Lucia Banjo | [Read More](https://medium.com/p/247d14bf9987) |
