@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 11:14:58 GMT | Starting My eJPT Journey: A New Chapter in My Cybersecurity Path | Nawaf Alfawzan | [Read More](https://medium.com/p/c15a2c8e8f4b) |
+| Fri, 31 Oct 2025 11:11:44 GMT | Portal E-Voucher & Promo Game 2025 — Top-up Cepat dan Aman | claudio jonathan | [Read More](https://medium.com/p/9cb6131f927f) |
+| Fri, 31 Oct 2025 11:09:17 GMT | When Design Systems Break — How to Realign Your Team & Restore Consistency | Dylan Deckard | [Read More](https://medium.com/p/dc1c97bf0cf0) |
+| Fri, 31 Oct 2025 11:01:56 GMT | What Enterprises Don’t Realize About AI Data Liability | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/078bdeb6c60c) |
+| Fri, 31 Oct 2025 11:00:09 GMT | Mobile App Pen Testing: Protecting Sensitive Data on User Devices | Secure My ORG | [Read More](https://medium.com/p/40ca67ee373a) |
+| Fri, 31 Oct 2025 10:59:04 GMT | Security and Performance Aspects of Security Hardening | Eren Cankut Uysal | [Read More](https://medium.com/p/b0a6007fe4c0) |
+| Fri, 31 Oct 2025 10:57:13 GMT | DockerLabs Writeup — Walking Dead (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c386fddcd4be) |
+| Fri, 31 Oct 2025 10:52:07 GMT | Forensic Investigation of Small-Scale Digital Devices: Melacak Bukti Digital di Era Perangkat… | Harasta Putra | [Read More](https://medium.com/p/f19add519e0a) |
+| Fri, 31 Oct 2025 10:44:27 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/37875acdc97f) |
+| Fri, 31 Oct 2025 10:42:48 GMT | Learn Without Limits — Explore Jaipur’s Most Trusted Online Learning Platform | skill24sblog | [Read More](https://medium.com/p/af816cfea41b) |
 | Fri, 31 Oct 2025 10:41:52 GMT | Palo Alto Networks Cyber Risk Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/790db6e23756) |
 | Fri, 31 Oct 2025 10:40:10 GMT | How to Set the Default SFTP Directory in JumpServer | LXware | [Read More](https://medium.com/p/2fe47c5d81b4) |
+| Fri, 31 Oct 2025 10:39:59 GMT | When Your Automated Tests Become Your Worst Nightmare | TuringOne | [Read More](https://medium.com/p/0c21e0e3c6db) |
+| Fri, 31 Oct 2025 10:37:24 GMT | HTML injection in snapshat email form$$$ | Aksoum Abderrahmane | [Read More](https://medium.com/p/318fc1ac0a9c) |
+| Fri, 31 Oct 2025 10:33:17 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/c5a0d3858a71) |
 | Fri, 31 Oct 2025 10:31:56 GMT | Exploring Command-Line Shells: Bash, Zsh, Fish, and PowerShell | Natarajan C K | [Read More](https://medium.com/p/1d87f14b9007) |
 | Fri, 31 Oct 2025 10:31:55 GMT | Workflow Governance at Scale: IaC + Policy for n8n & Zapier | Bhagya Rana | [Read More](https://medium.com/p/0a790697ccd5) |
 | Fri, 31 Oct 2025 10:31:46 GMT | Best VAPT Testing Service Companies In India - Net Access | Anbarasans | [Read More](https://medium.com/p/89f7b9e583f3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 06:28:23 GMT | Boost Business Performance and Security with Managed Cloud Hosting Services | Gainside | [Read More](https://medium.com/p/e75ac740cead) |
 | Fri, 31 Oct 2025 06:24:57 GMT | How to securely delete (zeroize) a Ruby String | Anton Prudkohliad | [Read More](https://medium.com/p/bc58b0d9e5a3) |
 | Fri, 31 Oct 2025 06:23:24 GMT | Why Your Cybersecurity Website Sidebar Is Costing You Clients (And How to Fix It) | Ambreenbasit | [Read More](https://medium.com/p/9b278e5173dd) |
-| Fri, 31 Oct 2025 06:22:32 GMT | Tren Teknologi Informasi yang Mengubah Dunia Kita | Fatin Sulistiawati | [Read More](https://medium.com/p/94c51e8c1cc2) |
-| Fri, 31 Oct 2025 06:21:32 GMT | GLIBC allocators made simple | Zeyad Salah | [Read More](https://medium.com/p/98403d2a90c5) |
-| Fri, 31 Oct 2025 06:13:35 GMT | Why Managed Hosting Is Worth It (Even on a Budget)? | Ann Taylor | [Read More](https://medium.com/p/21366f590ab0) |
-| Fri, 31 Oct 2025 06:10:29 GMT | How Android’s AI Blocks 10 Billion Attacks Every Month | Tech Journal | [Read More](https://medium.com/p/7a3e370f92f9) |
-| Fri, 31 Oct 2025 05:53:30 GMT | Behind the Browser: Deconstructing HTTP Requests and Headers. | Jei Ess | [Read More](https://medium.com/p/18e76889b3dc) |
-| Fri, 31 Oct 2025 05:52:12 GMT | From Code to Thread: Why IT Professionals Are Finding New Opportunities in Embroidery business? | Amsaraj Sscreations | [Read More](https://medium.com/p/551bf8999677) |
-| Fri, 31 Oct 2025 05:51:03 GMT | My Web Application Penetration Testing SOP — A Practical, Ethical Approach | Red Evil | [Read More](https://medium.com/p/38a1a7b91a8a) |
-| Fri, 31 Oct 2025 05:50:10 GMT | MCP and Agentic AI: Old Problems in a New Wrapper | Rubab Fatima | [Read More](https://medium.com/p/55923c4e22f7) |
-| Fri, 31 Oct 2025 05:40:56 GMT | At Rock Bottom, I Found My Way Back To Cybersecurity | CosmicByte | [Read More](https://medium.com/p/4068aed6bb34) |
-| Fri, 31 Oct 2025 05:40:04 GMT | FORTIGATE GEÇİŞİ 01.06 VPN (SSL & IPSec) | Ziya DENİZ | [Read More](https://medium.com/p/03031de86ac8) |
-| Fri, 31 Oct 2025 05:39:07 GMT | Secure Your Job with the Best AI-Powered Cybersecurity Certification | sneha gaikwad | [Read More](https://medium.com/p/638639f7a370) |
-| Fri, 31 Oct 2025 05:37:30 GMT | Is MBA in Information Technology Worth It in 2025? | SICSR Pune | [Read More](https://medium.com/p/116633bc0547) |
-| Fri, 31 Oct 2025 05:26:39 GMT | The Daily Tech Digest: 31 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/4db833b266cf) |
