@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 14:18:34 GMT | HTTP Methods: The Core of Web Communication | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/33c28c826850) |
+| Fri, 31 Oct 2025 14:14:54 GMT | The Hidden Power of Your Wrist: How Wearable Smart Watches Are Taking Control of Your Life | Ampaire Elijah Evans | [Read More](https://medium.com/p/43aa64aec0e7) |
+| Fri, 31 Oct 2025 14:07:34 GMT | Is Programming needed in Cybersecurity ? | lukewago | [Read More](https://medium.com/p/92829f4d2437) |
+| Fri, 31 Oct 2025 14:02:56 GMT | Cyber Briefing: 2025.10.31 | CyberMaterial | [Read More](https://medium.com/p/986151bb6c78) |
+| Fri, 31 Oct 2025 13:58:22 GMT | BEST RECOVERY EXPERT FOR CRYPTOCURRENCY \ WIZARD MILLER HACKER | Joyceadams | [Read More](https://medium.com/p/c9da4b1c66bb) |
+| Fri, 31 Oct 2025 13:57:54 GMT | Unlocking Curiosity: My First Dive into the World of Cybersecurity | Om Kulkarni | [Read More](https://medium.com/p/42c2e1763cb9) |
+| Fri, 31 Oct 2025 13:56:45 GMT | My Data Analysis journey | Russell Okon Wilson | [Read More](https://medium.com/p/95fa0ead6dd7) |
+| Fri, 31 Oct 2025 13:56:32 GMT | Implementing Content-Security-Policy (CSP) in a GitOps Cloud Environment | Mohamed Khaled Awad | [Read More](https://medium.com/p/2d90445f197c) |
+| Fri, 31 Oct 2025 13:56:00 GMT | ☁️ The Great Cloud Shift: How AI, Edge, and Quantum Are Rewiring the Digital Sky (October 30, 2025) | The Deep Frame | [Read More](https://medium.com/p/527b03f4114f) |
+| Fri, 31 Oct 2025 13:41:55 GMT | The Security+ Blueprint: How Hitting the “Stop” instead of“Snooze” Button Forced Me to Pass | 5kullk3r | [Read More](https://medium.com/p/f4360bbae9b4) |
+| Fri, 31 Oct 2025 13:36:20 GMT | The Cloud Security Architect’s Playbook: From Engineer to Architect ️☁️ | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/3ca451cafdd0) |
+| Fri, 31 Oct 2025 13:36:20 GMT | John the Ripper: The Basics | Deepika  B | [Read More](https://medium.com/p/6810106423e6) |
 | Fri, 31 Oct 2025 13:24:22 GMT | Cyber Security Course in Hyderabad | Molletibalu | [Read More](https://medium.com/p/d38390174de3) |
 | Fri, 31 Oct 2025 13:21:28 GMT | The MCP Security Crisis: | David Aaron Rivkin | [Read More](https://medium.com/p/50ca41152dfa) |
 | Fri, 31 Oct 2025 13:19:34 GMT | IT Yönetişimi ile IT Hizmet Yönetimi Arasındaki Fark: COBIT ve ITIL | Özge Gül | [Read More](https://medium.com/p/249af7eaacfa) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 09:49:21 GMT | Telecoms vs. Cyber: Whose Guard is Down Now? | Truspex | [Read More](https://medium.com/p/d847f499d74e) |
 | Fri, 31 Oct 2025 09:48:06 GMT | The Final Flame: Lighting the Path Forward | Aysha Misri | [Read More](https://medium.com/p/be516d6ce8dd) |
 | Fri, 31 Oct 2025 09:43:07 GMT | Lethal Mind Traps: Cognitive Errors in Cybersecurity | CCoe | [Read More](https://medium.com/p/3ae8f127a63b) |
-| Fri, 31 Oct 2025 09:39:56 GMT | Turn a Phrase into a Strong Password (and Why It Works) | Irteza Asad | [Read More](https://medium.com/p/b0eabdce6273) |
-| Fri, 31 Oct 2025 09:38:25 GMT | Cybersecurity Internship: My Brutally Honest Guide | Authlyn | [Read More](https://medium.com/p/c80652a3edff) |
-| Fri, 31 Oct 2025 09:36:19 GMT | The 7 Linux Commands That Changed How I Think About Computers | Fateyaly | [Read More](https://medium.com/p/e14d52ea541a) |
-| Fri, 31 Oct 2025 09:27:50 GMT | .NET Deserialization Leading to Remote Code Execution in Composite C1 CMS — CVE-2019–18211 | Ali İltizar | [Read More](https://medium.com/p/f6874c45ce30) |
-| Fri, 31 Oct 2025 09:26:16 GMT | How Threat Intelligence Solutions Protect Your Business from Cyber Threats | NewEvol | [Read More](https://medium.com/p/a430656309fb) |
-| Fri, 31 Oct 2025 09:23:04 GMT | [HackTheBox x VulnLab Write-up] Slonik (NFS Share, PostgresSQL, Backup Script) | Chicken0248 | [Read More](https://medium.com/p/906664eb1912) |
-| Fri, 31 Oct 2025 09:20:18 GMT | [HackTheBox x VulnLab Write-up] Forgotten (Limesurvey RCE, docker shared directory) | Chicken0248 | [Read More](https://medium.com/p/2a96e4d4ce44) |
-| Fri, 31 Oct 2025 09:19:55 GMT | [HackTheBox x VulnLab Write-up] RetroTwo (Exploting AD of Windows 2008, Pre2K, GenericWrite… | Chicken0248 | [Read More](https://medium.com/p/bf0f260833c0) |
-| Fri, 31 Oct 2025 09:11:01 GMT | Hollywood Now Controls the World’s Most Dangerous Spyware | Rockefeller Kennedy | [Read More](https://medium.com/p/2ab410f70bf1) |
-| Fri, 31 Oct 2025 09:10:36 GMT | Digital Lies, Real Receipts: How Non-Repudiation and Accountability Keep Us Honest Online | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/f07ec005e379) |
-| Fri, 31 Oct 2025 09:09:58 GMT | Information Dominance: The Hidden Front of Modern Conflict | Peter Durang | [Read More](https://medium.com/p/72ceb309f695) |
-| Fri, 31 Oct 2025 09:08:49 GMT | Deception Techniques That Actually Work: Turning Intruders into Telemetry | UK Cyber Defence | [Read More](https://medium.com/p/af823ff2b957) |
