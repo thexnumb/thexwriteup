@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 10:41:52 GMT | Palo Alto Networks Cyber Risk Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/790db6e23756) |
+| Fri, 31 Oct 2025 10:40:10 GMT | How to Set the Default SFTP Directory in JumpServer | LXware | [Read More](https://medium.com/p/2fe47c5d81b4) |
+| Fri, 31 Oct 2025 10:31:56 GMT | Exploring Command-Line Shells: Bash, Zsh, Fish, and PowerShell | Natarajan C K | [Read More](https://medium.com/p/1d87f14b9007) |
+| Fri, 31 Oct 2025 10:31:55 GMT | Workflow Governance at Scale: IaC + Policy for n8n & Zapier | Bhagya Rana | [Read More](https://medium.com/p/0a790697ccd5) |
+| Fri, 31 Oct 2025 10:31:46 GMT | Best VAPT Testing Service Companies In India - Net Access | Anbarasans | [Read More](https://medium.com/p/89f7b9e583f3) |
+| Fri, 31 Oct 2025 10:28:40 GMT | How AI Is Redefining Modern Security | Modern Security | [Read More](https://medium.com/p/a800db494ea5) |
+| Fri, 31 Oct 2025 10:26:14 GMT | ️‍♂️ How to Detect Lookalike Domains and Phishing Websites Targeting Your Brand | sagar gupta | [Read More](https://medium.com/p/e913702e27e1) |
+| Fri, 31 Oct 2025 10:25:07 GMT | MITRE ATT&CK App for Splunk 3.14.0 — Release Highlights | Hilal Gevrek | [Read More](https://medium.com/p/a3f04176432d) |
+| Fri, 31 Oct 2025 10:24:16 GMT | SQLi and LFI: Safe Test Scenarios, Defense and Code Examples | Esra Kayhan | [Read More](https://medium.com/p/4919f6e3837a) |
+| Fri, 31 Oct 2025 10:21:59 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/19d68252c007) |
+| Fri, 31 Oct 2025 10:19:00 GMT | Android Malware Analysis: Reverse Engineering APK to Understand Attacks | Muhammad Haider Tallal | [Read More](https://medium.com/p/edae2b7462b9) |
+| Fri, 31 Oct 2025 10:18:34 GMT | Zen7 Vanguard Program — Unite the pioneers building the next era of agentic payments | Zen7Labs | [Read More](https://medium.com/p/998a01082669) |
 | Fri, 31 Oct 2025 10:12:25 GMT | What is Hire a Hacker Pro? 25 Essential Q&A About This 100% Free Cybersecurity Learning Resource | SinVictus | [Read More](https://medium.com/p/d78ad593d3b7) |
 | Fri, 31 Oct 2025 10:11:13 GMT | Uh Oh! Search Guard FLX’s Little Secret: How Object Fields Can Leak Info (CVE-2025–12147) | CVEHUB | [Read More](https://medium.com/p/29ab708401f6) |
 | Fri, 31 Oct 2025 10:11:08 GMT | Cyber Security: Protecting Critical Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/09f1599cbca2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 05:39:07 GMT | Secure Your Job with the Best AI-Powered Cybersecurity Certification | sneha gaikwad | [Read More](https://medium.com/p/638639f7a370) |
 | Fri, 31 Oct 2025 05:37:30 GMT | Is MBA in Information Technology Worth It in 2025? | SICSR Pune | [Read More](https://medium.com/p/116633bc0547) |
 | Fri, 31 Oct 2025 05:26:39 GMT | The Daily Tech Digest: 31 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/4db833b266cf) |
-| Fri, 31 Oct 2025 05:23:26 GMT | Web Application Discovery and Mapping | N0H4TS | [Read More](https://medium.com/p/144c8257e72b) |
-| Fri, 31 Oct 2025 05:20:35 GMT | Newdich Technology is a Software Engineering and Tech firm that focuses on building secure and… | Newdich Technology | [Read More](https://medium.com/p/9da6880204a8) |
-| Fri, 31 Oct 2025 05:10:53 GMT | Testing 123 | Site Dominion - www.sitedominion.com | [Read More](https://medium.com/p/118f8ff0e544) |
-| Fri, 31 Oct 2025 05:10:37 GMT | Learning to Command Machines: My Deep Dive into Linux, SSH & System Control | Salimassili | [Read More](https://medium.com/p/eabe62be668c) |
-| Fri, 31 Oct 2025 05:05:13 GMT | The Pulse of the Digital Battlefield: Lessons from the Shadows | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/085a83809e52) |
-| Fri, 31 Oct 2025 04:49:05 GMT | Retro - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/c89069584782) |
-| Fri, 31 Oct 2025 04:48:37 GMT | If You Still Use Public Wi-Fi, Read This Before It’s Too Late | Arfa | [Read More](https://medium.com/p/a1ff5f71f014) |
-| Fri, 31 Oct 2025 04:39:59 GMT | CORS Explained: From Zero to Hero by Steps | Babek Naghiyev | [Read More](https://medium.com/p/b96352b3f250) |
-| Fri, 31 Oct 2025 04:37:17 GMT | What First-Time Sex Feels Like for Women - Real Stories & Expert Tips | Sara | [Read More](https://medium.com/p/5463fc788c5c) |
-| Fri, 31 Oct 2025 04:36:59 GMT | Editor HTB Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/c9e7ddc0c088) |
-| Fri, 31 Oct 2025 04:13:56 GMT | Mr Robot CTF - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/ea078204aa46) |
-| Fri, 31 Oct 2025 03:58:34 GMT | OneChain’s 9 Unique Strengths: Part 7 — Top-Tier Security: MPC + Decentralized Governance | OneChain | [Read More](https://medium.com/p/1af128f829e0) |
