@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 22:07:15 GMT | The Foundations Of Digital Business Security | Douglas Goddard | [Read More](https://medium.com/p/3eaa413b151c) |
+| Fri, 31 Oct 2025 21:48:28 GMT | AI for Change: How Artificial Intelligence is Powering Social Good and Accountability | Orebisi Adeyinka Heritage Empowerment Foundation | [Read More](https://medium.com/p/41bf4b7b1248) |
+| Fri, 31 Oct 2025 21:45:24 GMT | Building a SOC Lab at Home | Arkadey | [Read More](https://medium.com/p/ca6121d767c5) |
+| Fri, 31 Oct 2025 21:39:00 GMT | EXCLUSIVE: The Autonomous Knowledge Accelerator — How a Commercial LLM Generated 200× Power and 16.4 | Berend Watchus | [Read More](https://medium.com/p/e772eceea3db) |
+| Fri, 31 Oct 2025 21:33:40 GMT | Day 26 of my Cybersecurity Journey: John the Ripper Basics II | Ogundipe Priscilla | [Read More](https://medium.com/p/0189c17f23cb) |
 | Fri, 31 Oct 2025 21:22:04 GMT | The Paradox of Women Demanding Vulnerability in Men Only to Get the Ick | Tee Mugayi | [Read More](https://medium.com/p/ecc2d8179a02) |
 | Fri, 31 Oct 2025 21:17:49 GMT | How Private-Hackers Protect What Matters: Ethical Digital Investigations for Today’s Risks. | Private-hackers.com | [Read More](https://medium.com/p/e3c741d59b49) |
 | Fri, 31 Oct 2025 20:53:37 GMT | 09032543127 | Mona09032543127 | [Read More](https://medium.com/p/f8b3bec37747) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 13:36:20 GMT | John the Ripper: The Basics | Deepika  B | [Read More](https://medium.com/p/6810106423e6) |
 | Fri, 31 Oct 2025 13:24:22 GMT | Cyber Security Course in Hyderabad | Molletibalu | [Read More](https://medium.com/p/d38390174de3) |
 | Fri, 31 Oct 2025 13:21:28 GMT | The MCP Security Crisis: | David Aaron Rivkin | [Read More](https://medium.com/p/50ca41152dfa) |
-| Fri, 31 Oct 2025 13:19:34 GMT | IT Yönetişimi ile IT Hizmet Yönetimi Arasındaki Fark: COBIT ve ITIL | Özge Gül | [Read More](https://medium.com/p/249af7eaacfa) |
-| Fri, 31 Oct 2025 13:13:49 GMT | Disarming Content Phishing Before It Reaches Your Customers | Ai Writter Tools | [Read More](https://medium.com/p/43a88edd908a) |
-| Fri, 31 Oct 2025 13:10:18 GMT | Historic Great Firewall Breach — 500GB+ Censorship Data Exposed | Technijian | [Read More](https://medium.com/p/203e413923a6) |
-| Fri, 31 Oct 2025 13:09:59 GMT | Investigating with Splunk - Complete TryHackMe Walkthrough | Rahul B | [Read More](https://medium.com/p/18bdcf10b18a) |
-| Fri, 31 Oct 2025 13:01:58 GMT | SOC 2 vs. ISO 27001: Which Matters More for Legal Practices and Building Client Trust | Josh Lee | [Read More](https://medium.com/p/5d8d62033eb0) |
