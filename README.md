@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 05:26:39 GMT | The Daily Tech Digest: 31 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/4db833b266cf) |
+| Fri, 31 Oct 2025 05:23:26 GMT | Web Application Discovery and Mapping | N0H4TS | [Read More](https://medium.com/p/144c8257e72b) |
+| Fri, 31 Oct 2025 05:20:35 GMT | Newdich Technology is a Software Engineering and Tech firm that focuses on building secure and… | Newdich Technology | [Read More](https://medium.com/p/9da6880204a8) |
+| Fri, 31 Oct 2025 05:10:53 GMT | Testing 123 | Site Dominion - www.sitedominion.com | [Read More](https://medium.com/p/118f8ff0e544) |
 | Fri, 31 Oct 2025 05:10:37 GMT | Learning to Command Machines: My Deep Dive into Linux, SSH & System Control | Salimassili | [Read More](https://medium.com/p/eabe62be668c) |
 | Fri, 31 Oct 2025 05:05:13 GMT | The Pulse of the Digital Battlefield: Lessons from the Shadows | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/085a83809e52) |
 | Fri, 31 Oct 2025 04:49:05 GMT | Retro - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/c89069584782) |
@@ -22,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 04:13:56 GMT | Mr Robot CTF - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/ea078204aa46) |
 | Fri, 31 Oct 2025 03:58:34 GMT | OneChain’s 9 Unique Strengths: Part 7 — Top-Tier Security: MPC + Decentralized Governance | OneChain | [Read More](https://medium.com/p/1af128f829e0) |
 | Fri, 31 Oct 2025 03:53:38 GMT | Song Onstage Foul-up! Cause — English Word Order! | Bill Myers | [Read More](https://medium.com/p/3a156d3e4d7d) |
+| Fri, 31 Oct 2025 03:52:26 GMT | PHP Introduction | Don Matteu | [Read More](https://medium.com/p/3512a5141fbd) |
 | Fri, 31 Oct 2025 03:50:20 GMT | PHP Introduction | Don Matteu | [Read More](https://medium.com/p/352a0eeb439c) |
 | Fri, 31 Oct 2025 03:48:21 GMT | Top 5 Laptops for Creators and Gamers in 2025 | TechMind Sphere | [Read More](https://medium.com/p/de8c2761a76a) |
 | Fri, 31 Oct 2025 03:47:23 GMT | The Importance of Financial Security in the Digital Era | Nishitha | [Read More](https://medium.com/p/5e3bbc6aa4d7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 17:47:31 GMT | Sysinternals Lab Writeup | Jaws | [Read More](https://medium.com/p/ad2a5168e12c) |
 | Thu, 30 Oct 2025 17:47:06 GMT | How I Made ChatGPT My Personal Hacking Assistant (And Broke Their “AI-Powered” Security) | Iski | [Read More](https://medium.com/p/ee37d4a725c2) |
 | Thu, 30 Oct 2025 17:45:50 GMT | Active Directory Least Privilege & LDAPS Enforcement | Johnny Meintel | [Read More](https://medium.com/p/8359832c91c3) |
-| Thu, 30 Oct 2025 17:43:27 GMT | Inside the F-16 Breach: How Classified Avionics Data Slipped Out and What It Means | Waleed’s Edge Knowledge | [Read More](https://medium.com/p/40152752ae2b) |
-| Thu, 30 Oct 2025 17:33:19 GMT | From Recon to Root: Lessons from a Vulnerable Ubuntu VM | Vivektumma27 | [Read More](https://medium.com/p/07c9afb15a53) |
-| Thu, 30 Oct 2025 17:29:24 GMT | Composing Detection: What Nolan & Zimmer Teach Us About Cyber Operations | ReZa AdineH | [Read More](https://medium.com/p/eeaa4f01b5be) |
-| Thu, 30 Oct 2025 17:21:48 GMT | Microsoft Power Platform: Empowering Everyone to Build Apps | Sandeepa Wimalasiri | [Read More](https://medium.com/p/33684d7f9875) |
-| Thu, 30 Oct 2025 17:19:41 GMT | Deep Shadow Wings: Powerful Web Recon — Simple, Fast, Effective | adce626 | [Read More](https://medium.com/p/305648621512) |
