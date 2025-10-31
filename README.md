@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 20:53:37 GMT | 09032543127 | Mona09032543127 | [Read More](https://medium.com/p/f8b3bec37747) |
+| Fri, 31 Oct 2025 20:51:52 GMT | The End of Cybersecurity? | Cyber-AppSec | [Read More](https://medium.com/p/0f9271581b31) |
+| Fri, 31 Oct 2025 20:51:19 GMT | The IT Horror Stories That Keep Admins Up at Night (And How to Survive Them) | NAKIVO | [Read More](https://medium.com/p/eef1a7057c8e) |
+| Fri, 31 Oct 2025 20:49:35 GMT | 09032543127 | Mona09032543127 | [Read More](https://medium.com/p/32fc25093c4b) |
 | Fri, 31 Oct 2025 20:42:04 GMT | How a Lab Box Taught Me the Real-World Cost of Misconfiguration | Vivektumma27 | [Read More](https://medium.com/p/dbf80940a190) |
 | Fri, 31 Oct 2025 20:41:32 GMT | How I Got a Four-Digit Bug Bounty From Grammarly | Aland Dlshad | [Read More](https://medium.com/p/187038396843) |
+| Fri, 31 Oct 2025 20:39:58 GMT | Probable scammer pretends to be a sick child, I reported it to the postal police but they didn’t… | Crime Chroninicle Online | [Read More](https://medium.com/p/796df6230664) |
+| Fri, 31 Oct 2025 20:37:41 GMT | When the Cloud Went Dark | Janet Xiu Shi | [Read More](https://medium.com/p/2de7f7bb662c) |
 | Fri, 31 Oct 2025 20:32:54 GMT | Air Force Contract That Could Counteract “Harvest Now, Decrypt Later” Methodology | Orrin Konheim | [Read More](https://medium.com/p/d0032fd1927d) |
 | Fri, 31 Oct 2025 20:03:32 GMT | LLM Invisible Prompt Smuggling & How YOU Can Earn A Quick $10k (This Isn’t Clickbait, I Swear) | Justas_b | [Read More](https://medium.com/p/2df2de834f81) |
 | Fri, 31 Oct 2025 19:51:25 GMT | SOC246 — Forced Authentication Detected (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/0747859c4bda) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 13:01:58 GMT | SOC 2 vs. ISO 27001: Which Matters More for Legal Practices and Building Client Trust | Josh Lee | [Read More](https://medium.com/p/5d8d62033eb0) |
 | Fri, 31 Oct 2025 13:01:56 GMT | Don’t Get Hacked! 7 Security Essentials for Spatie Roles & Permissions in Laravel | Coder Manjeet | [Read More](https://medium.com/p/9fa21c8b4ac5) |
 | Fri, 31 Oct 2025 13:01:54 GMT | Android Infostealer (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/0a66f1392a9d) |
-| Fri, 31 Oct 2025 13:01:33 GMT | How AI Is Shaping Everyday Life Without Us Noticing Your day probably starts with an alarm on your… | Awarbakht | [Read More](https://medium.com/p/c918d86fd108) |
-| Fri, 31 Oct 2025 12:59:24 GMT | Benefits and Challenges of a Trust Center: Balancing Transparency with Security | Akitra | [Read More](https://medium.com/p/779013b44f7a) |
-| Fri, 31 Oct 2025 12:58:05 GMT | Airdrop Zararlı Yazılım Analizi | Recep Emir | [Read More](https://medium.com/p/ccbdf3fa1e9d) |
-| Fri, 31 Oct 2025 12:56:51 GMT | Agent Sudo writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/d650f295474d) |
-| Fri, 31 Oct 2025 12:55:19 GMT | DNS – İnternet’in Adres Defteri | Enes Berk Yetim | [Read More](https://medium.com/p/ed8dde2930a6) |
-| Fri, 31 Oct 2025 12:53:40 GMT | How to Safeguard Your Investments from Scams - Sawaal Karo - World Investor Week 2025 | Kshitijm | [Read More](https://medium.com/p/1a7075316a5f) |
