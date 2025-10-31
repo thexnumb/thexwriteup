@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 07:12:11 GMT | Master Stealth Logging Bypass on Linux Systems: Step-by-Step Tactics for Ethical Hackers | Very Lazy Tech | [Read More](https://medium.com/p/cd2112ef944a) |
+| Fri, 31 Oct 2025 07:11:32 GMT | Everyone Wants to Hack — No One Wants to Think | An0n | [Read More](https://medium.com/p/a6bb8a313501) |
+| Fri, 31 Oct 2025 07:02:51 GMT | Conclusion | Hanifkhan | [Read More](https://medium.com/p/aff203e077d7) |
+| Fri, 31 Oct 2025 07:01:09 GMT | Web Hosting That Feels Expensive, Without the Cost | Mary Thomas | [Read More](https://medium.com/p/1863bc897f91) |
+| Fri, 31 Oct 2025 06:54:48 GMT | The Corix Partners Friday Reading List — October 31, 2025 | JC Gaillard | [Read More](https://medium.com/p/3955fa8c673a) |
+| Fri, 31 Oct 2025 06:54:31 GMT | The Biggest Security Flaw Is Still Human Error | Muhummad Zaki | [Read More](https://medium.com/p/5441c4035f07) |
+| Fri, 31 Oct 2025 06:45:22 GMT | Is CompTIA Security+ Worth It? A Transformative Guide from 591Lab That Launched My Cyber Career | Al Beruni | [Read More](https://medium.com/p/9637fe00aadc) |
+| Fri, 31 Oct 2025 06:43:44 GMT | Top 10 OSINT Tools for Information Gathering | Manisha Chaudhary | [Read More](https://medium.com/p/c7646b56ea2d) |
+| Fri, 31 Oct 2025 06:38:17 GMT | My First Vulnerability Scan — Excitement vs Reality | Adeleke Theophilus O | [Read More](https://medium.com/p/f7d991372db2) |
+| Fri, 31 Oct 2025 06:35:11 GMT | 120 Days of Purple Teaming & Cloud Incident Response: Days -6 to 10 | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/efd38cd2fac0) |
+| Fri, 31 Oct 2025 06:34:46 GMT | Security Robots Market: Market Demand and Growth Outlook | Upasanapradhan | [Read More](https://medium.com/p/f9a776f8fcdd) |
+| Fri, 31 Oct 2025 06:28:23 GMT | Boost Business Performance and Security with Managed Cloud Hosting Services | Gainside | [Read More](https://medium.com/p/e75ac740cead) |
 | Fri, 31 Oct 2025 06:24:57 GMT | How to securely delete (zeroize) a Ruby String | Anton Prudkohliad | [Read More](https://medium.com/p/bc58b0d9e5a3) |
 | Fri, 31 Oct 2025 06:23:24 GMT | Why Your Cybersecurity Website Sidebar Is Costing You Clients (And How to Fix It) | Ambreenbasit | [Read More](https://medium.com/p/9b278e5173dd) |
 | Fri, 31 Oct 2025 06:22:32 GMT | Tren Teknologi Informasi yang Mengubah Dunia Kita | Fatin Sulistiawati | [Read More](https://medium.com/p/94c51e8c1cc2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 19:57:40 GMT | The Windows Security Journey — Replacement of WRP (Windows Resource Protection) Protected Files | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/11a033b1681e) |
 | Thu, 30 Oct 2025 19:57:22 GMT | Quest for Digital Resilience: Conquering MFA Fatigue | Danielle Koppel | [Read More](https://medium.com/p/8bab9c631a93) |
 | Thu, 30 Oct 2025 19:38:18 GMT | My Current Internet Security Setup | furmanp | [Read More](https://medium.com/p/90d049006e6f) |
-| Thu, 30 Oct 2025 19:33:42 GMT | The Week That Shook the Security Foundation: From Silicon Threats to Cloud Fragility | Akilnath Bodipudi | [Read More](https://medium.com/p/9f4c3cb04354) |
-| Thu, 30 Oct 2025 19:19:55 GMT | Information Technology: The Magic | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/5ef5649854b4) |
-| Thu, 30 Oct 2025 19:18:14 GMT | What VetSecCon Taught Me About Community in Cybersecurity | Cybergilly | [Read More](https://medium.com/p/e8c6b639cbc8) |
-| Thu, 30 Oct 2025 19:16:21 GMT | Labshock Security: The World’s Most Advanced OT/ICS Cyber Lab — Revolutionizing Industrial Defenses | Desmond Lamptey | [Read More](https://medium.com/p/d952fe5c49a4) |
-| Thu, 30 Oct 2025 19:11:59 GMT | Understanding Cryptojacking — How Hackers Steal Your Computing Power | Afnan K | [Read More](https://medium.com/p/dbfdc4b201d8) |
-| Thu, 30 Oct 2025 19:10:06 GMT | Forget Your 64-Digit Key: WhatsApp’s Passkey Backups Are Finally Here | TechBird | [Read More](https://medium.com/p/22df68f08bb9) |
-| Thu, 30 Oct 2025 19:00:35 GMT | [Revjew] OWASP LLM Top 10 — Overview | JAYL | [Read More](https://medium.com/p/f911e6879363) |
-| Thu, 30 Oct 2025 18:58:14 GMT | Understanding and Preventing Ransomware and Phishing Attacks | Aalekh Srivastava | [Read More](https://medium.com/p/b8150048f8ec) |
-| Thu, 30 Oct 2025 18:49:55 GMT | SOC251 — Quishing Detected (QR Code Phishing) (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/2900b96f5101) |
-| Thu, 30 Oct 2025 18:42:55 GMT | The Green Padlock Worth Billions: Inside HTTPS and SSL Certificates | Ashutosh Jha | [Read More](https://medium.com/p/fecb0079e6b4) |
-| Thu, 30 Oct 2025 18:36:30 GMT | TryHackMe - Elevating Movement - WriteUp | Axoloth | [Read More](https://medium.com/p/017e0fa0dd96) |
-| Thu, 30 Oct 2025 18:35:40 GMT | Siber güvenlikte öğrenme döngüsüne girdim ne yapmalıyım? | Huseyin KALKAN | [Read More](https://medium.com/p/4c76ab5299a4) |
