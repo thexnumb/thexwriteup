@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 22:38:26 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/67055ed777ae) |
+| Fri, 31 Oct 2025 22:25:56 GMT | When the Blacklist Failed: How I Triggered XSS with a Middle Click | Rehan Ansari | [Read More](https://medium.com/p/fc45f5022543) |
+| Fri, 31 Oct 2025 22:22:39 GMT | Wankbattling, Recommendation Algorithms, and Third Spaces | Familiar News | [Read More](https://medium.com/p/9b8b34f52d64) |
+| Fri, 31 Oct 2025 22:19:43 GMT | Operational Technology and Industrial Control Systems | Shady mulla | [Read More](https://medium.com/p/02956653db56) |
 | Fri, 31 Oct 2025 22:07:15 GMT | The Foundations Of Digital Business Security | Douglas Goddard | [Read More](https://medium.com/p/3eaa413b151c) |
 | Fri, 31 Oct 2025 21:48:28 GMT | AI for Change: How Artificial Intelligence is Powering Social Good and Accountability | Orebisi Adeyinka Heritage Empowerment Foundation | [Read More](https://medium.com/p/41bf4b7b1248) |
 | Fri, 31 Oct 2025 21:45:24 GMT | Building a SOC Lab at Home | Arkadey | [Read More](https://medium.com/p/ca6121d767c5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 13:56:32 GMT | Implementing Content-Security-Policy (CSP) in a GitOps Cloud Environment | Mohamed Khaled Awad | [Read More](https://medium.com/p/2d90445f197c) |
 | Fri, 31 Oct 2025 13:56:00 GMT | ☁️ The Great Cloud Shift: How AI, Edge, and Quantum Are Rewiring the Digital Sky (October 30, 2025) | The Deep Frame | [Read More](https://medium.com/p/527b03f4114f) |
 | Fri, 31 Oct 2025 13:41:55 GMT | The Security+ Blueprint: How Hitting the “Stop” instead of“Snooze” Button Forced Me to Pass | 5kullk3r | [Read More](https://medium.com/p/f4360bbae9b4) |
-| Fri, 31 Oct 2025 13:36:20 GMT | The Cloud Security Architect’s Playbook: From Engineer to Architect ️☁️ | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/3ca451cafdd0) |
-| Fri, 31 Oct 2025 13:36:20 GMT | John the Ripper: The Basics | Deepika  B | [Read More](https://medium.com/p/6810106423e6) |
-| Fri, 31 Oct 2025 13:24:22 GMT | Cyber Security Course in Hyderabad | Molletibalu | [Read More](https://medium.com/p/d38390174de3) |
-| Fri, 31 Oct 2025 13:21:28 GMT | The MCP Security Crisis: | David Aaron Rivkin | [Read More](https://medium.com/p/50ca41152dfa) |
