@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 17:13:43 GMT | THE ILLUSION OF PRIVACY | If I Could Build A Home | [Read More](https://medium.com/p/42b8ba06c595) |
+| Fri, 31 Oct 2025 17:08:19 GMT | How AI Will Silence the Biggest Cybersecurity Threats by 2030 | Gopi Sri | [Read More](https://medium.com/p/e0a6c3b4b30f) |
+| Fri, 31 Oct 2025 17:08:02 GMT | From Zero to Hero: How to Build Cybersecurity Skills Without a Degree | Code Link | [Read More](https://medium.com/p/772ee5562c20) |
+| Fri, 31 Oct 2025 17:00:49 GMT | Drosera or how to make Ethereum secure | SorokinIllia | [Read More](https://medium.com/p/ebfb87c55fca) |
+| Fri, 31 Oct 2025 16:57:13 GMT | Non-Repudiation: How Digital Signatures Prove Authenticity | Ferdi Edogawa | [Read More](https://medium.com/p/74ee89022fe7) |
+| Fri, 31 Oct 2025 16:53:31 GMT | AI Takeover for Social Engagement Undermines Collaboration | Matthew.Rosenquist | [Read More](https://medium.com/p/9d828d958b03) |
 | Fri, 31 Oct 2025 16:40:31 GMT | The Ultimate Bug Hunter’s Recon workflow: From Subdomains to Critical Vulnerabilities | Manoj | [Read More](https://medium.com/p/befcef19307f) |
 | Fri, 31 Oct 2025 16:38:16 GMT | The “Urgent” Email to Your CEO? It Might Be a Ticking Time Bomb | Athishsagarkishan | [Read More](https://medium.com/p/b64384ac10c9) |
 | Fri, 31 Oct 2025 16:37:54 GMT | Unauthorized USB Device Detection with AI+ML | Myth | [Read More](https://medium.com/p/cf3fcbd53fae) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 11:01:56 GMT | What Enterprises Don’t Realize About AI Data Liability | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/078bdeb6c60c) |
 | Fri, 31 Oct 2025 11:00:09 GMT | Mobile App Pen Testing: Protecting Sensitive Data on User Devices | Secure My ORG | [Read More](https://medium.com/p/40ca67ee373a) |
 | Fri, 31 Oct 2025 10:59:04 GMT | Security and Performance Aspects of Security Hardening | Eren Cankut Uysal | [Read More](https://medium.com/p/b0a6007fe4c0) |
-| Fri, 31 Oct 2025 10:57:13 GMT | DockerLabs Writeup — Walking Dead (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c386fddcd4be) |
-| Fri, 31 Oct 2025 10:52:07 GMT | Forensic Investigation of Small-Scale Digital Devices: Melacak Bukti Digital di Era Perangkat… | Harasta Putra | [Read More](https://medium.com/p/f19add519e0a) |
-| Fri, 31 Oct 2025 10:44:27 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/37875acdc97f) |
-| Fri, 31 Oct 2025 10:42:48 GMT | Learn Without Limits — Explore Jaipur’s Most Trusted Online Learning Platform | skill24sblog | [Read More](https://medium.com/p/af816cfea41b) |
-| Fri, 31 Oct 2025 10:41:52 GMT | Palo Alto Networks Cyber Risk Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/790db6e23756) |
-| Fri, 31 Oct 2025 10:40:10 GMT | How to Set the Default SFTP Directory in JumpServer | LXware | [Read More](https://medium.com/p/2fe47c5d81b4) |
