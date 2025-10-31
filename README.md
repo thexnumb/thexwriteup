@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 12:33:43 GMT | Cyberdefenders 3CX Supply Chain Lab Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/5a6940da7ee8) |
+| Fri, 31 Oct 2025 12:27:05 GMT | Exploitation Escalates: Top Cyber Threats This Week | Loginsoft | [Read More](https://medium.com/p/40ed8e258464) |
+| Fri, 31 Oct 2025 12:17:06 GMT | Blockchain for Secure Digital Identity & KYC — Reducing Fraud with Tamper-Proof IDs | Malavikasajeev | [Read More](https://medium.com/p/d25eaec225cc) |
+| Fri, 31 Oct 2025 12:16:03 GMT | Detect and Response With Gen-AI | Aufarifqi | [Read More](https://medium.com/p/62711cf80565) |
+| Fri, 31 Oct 2025 12:13:18 GMT | Orkla OSINT Challenge: Dragon Con Detective Writeup | Alexander Sapo | [Read More](https://medium.com/p/256d7e4d6359) |
+| Fri, 31 Oct 2025 12:11:57 GMT | How I Uncover Hidden Vulnerabilities With Simple Recon | Ibtissam | [Read More](https://medium.com/p/f3cd5a2a91f2) |
+| Fri, 31 Oct 2025 12:11:47 GMT | Chrome Zero Day Linked to New Hacking Team Spyware | Faraz Weerabangsa | [Read More](https://medium.com/p/d6f3f777ffc0) |
+| Fri, 31 Oct 2025 12:10:54 GMT | Brute Force vs. Reality: What My “Bitcoin Brute Force” Really Shows | Asylian21 | [Read More](https://medium.com/p/67872323d6bf) |
+| Fri, 31 Oct 2025 12:06:41 GMT | Global Permissions and Organization-Level Security Settings | Erdem UÇAK | [Read More](https://medium.com/p/de0c17ca41ea) |
+| Fri, 31 Oct 2025 12:01:54 GMT | OSINT Weekly Review 2025.44 | OSINT Amy | [Read More](https://medium.com/p/1e2dce76acb1) |
+| Fri, 31 Oct 2025 11:58:56 GMT | wearing my heart on my sleeve | yang | [Read More](https://medium.com/p/66ba45fa52ae) |
+| Fri, 31 Oct 2025 11:58:24 GMT | The Linux Security Architect | LinuxDev | [Read More](https://medium.com/p/e9f1f4da55c9) |
+| Fri, 31 Oct 2025 11:54:57 GMT | ✨✨ bugfly in too much energy | Heron | [Read More](https://medium.com/p/b2e4a1d428d0) |
+| Fri, 31 Oct 2025 11:48:24 GMT | WannaCry как зеркало эпохи: вирус, который показал, что мир зависим от себя | Kartel & Kofe | [Read More](https://medium.com/p/ad6bcfdba7f6) |
+| Fri, 31 Oct 2025 11:46:53 GMT | Understanding the Cyber Kill Chain-How Cyber Attacks Unfold | Huseyn Eyvazov | [Read More](https://medium.com/p/42f3e3c68e3d) |
+| Fri, 31 Oct 2025 11:41:42 GMT | Hackers Don’t Need Malware — Just Your Email Inbox | Balaji | [Read More](https://medium.com/p/2188276e0f74) |
+| Fri, 31 Oct 2025 11:41:26 GMT | Network Security Beyond Firewalls: DHCP Attacks, IDS/IPS Evasion | Huseyn Eyvazov | [Read More](https://medium.com/p/87686f200cf6) |
+| Fri, 31 Oct 2025 11:40:57 GMT | Why I Do What I Do: Security, Manufacturing, and the Backbone of Britain | Luke Appleby | [Read More](https://medium.com/p/f668d7f24ad8) |
+| Fri, 31 Oct 2025 11:37:38 GMT | YARA: The Language of Malware Detection | Huseyn Eyvazov | [Read More](https://medium.com/p/9832496c5423) |
 | Fri, 31 Oct 2025 11:32:05 GMT | HTML Injection - Return of the P2 Elevator | Jerry Shah (Jerry) | [Read More](https://medium.com/p/0cccf93d8c98) |
 | Fri, 31 Oct 2025 11:30:46 GMT | Top 10 Password Cracking Tools Used by Pen Testers | Manisha Chaudhary | [Read More](https://medium.com/p/b62240ec28d1) |
 | Fri, 31 Oct 2025 11:26:46 GMT | Evolving Cybersecurity Paradigms: Integrating AI-Driven Risk Assessment in Modern Enterprises | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/07652f79ca51) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 08:22:45 GMT | What Game Developers Can Learn from No Man’s Sky’s Agile Makeover | Siyam | [Read More](https://medium.com/p/27fb0fb0b9d3) |
 | Fri, 31 Oct 2025 08:20:34 GMT | Policies: The Rulebook You Didn’t Know You Were Following | Aisha Majeed | [Read More](https://medium.com/p/2e1622374bdf) |
 | Fri, 31 Oct 2025 08:16:10 GMT | HackTheBox — Expressway | Anonhacker | [Read More](https://medium.com/p/2881f8480489) |
-| Fri, 31 Oct 2025 08:06:51 GMT | Sideline Scruples: Watching Athletes and Vendors Gamble with Someone Else’s Money | Namir Sagheenanajar | [Read More](https://medium.com/p/537529381e7f) |
-| Fri, 31 Oct 2025 08:04:25 GMT | Why VPNs Are Not the Magic Security Shield You Think | Deepak Sharma | [Read More](https://medium.com/p/edb32e1ba102) |
-| Fri, 31 Oct 2025 08:02:46 GMT | Don’t Let Your Node.js App Get Haunted: The Horror of Prototype Pollution | Serhii Malyshev | [Read More](https://medium.com/p/73d00b3cd08c) |
-| Fri, 31 Oct 2025 08:00:28 GMT | Brash Exploit: How a Single Malicious URL Crashes Chromium Browsers in Seconds | Germano Costi | [Read More](https://medium.com/p/73d12dc7c7bc) |
-| Fri, 31 Oct 2025 07:54:12 GMT | Today’s Top Cyber Intelligence Highlights — Oct 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/20163d28dac3) |
-| Fri, 31 Oct 2025 07:49:42 GMT | Shadow Entry: Discovery of Authentication bypass vulnerability in DSE855 Communications Device | Vortex | [Read More](https://medium.com/p/938e35d4b361) |
-| Fri, 31 Oct 2025 07:43:35 GMT | Before You Fly: 7 Ways to Protect Your Data Overseas | Cloudbric VPN | [Read More](https://medium.com/p/f4a76db4e454) |
-| Fri, 31 Oct 2025 07:36:13 GMT | Beyond the Login Button: A Friendly Chat About Cookies, Sessions, and Our App’s Security | Rajeev Barnwal | [Read More](https://medium.com/p/28c892f47614) |
-| Fri, 31 Oct 2025 07:34:56 GMT | Where Do You Go When You’re Tired of Being You? | Vijay Kumar Gupta | [Read More](https://medium.com/p/a6a7c0c641a8) |
-| Fri, 31 Oct 2025 07:27:40 GMT | GenAI Governance: A Practical Framework for Secure and Responsible AI Adoption | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/b9a6c12a8029) |
-| Fri, 31 Oct 2025 07:12:11 GMT | Master Stealth Logging Bypass on Linux Systems: Step-by-Step Tactics for Ethical Hackers | Very Lazy Tech | [Read More](https://medium.com/p/cd2112ef944a) |
-| Fri, 31 Oct 2025 07:11:32 GMT | Everyone Wants to Hack — No One Wants to Think | An0n | [Read More](https://medium.com/p/a6bb8a313501) |
-| Fri, 31 Oct 2025 07:10:59 GMT | Building Role-Based Access Control (RBAC) in Express: A Practical Guide | Fadoon Tarnongu | [Read More](https://medium.com/p/1f790b5aead0) |
-| Fri, 31 Oct 2025 07:05:49 GMT | ⚙️ Remote Code Execution in GitLab — The Tale of a Rogue “GitHub Import” | Abhishek meena | [Read More](https://medium.com/p/660ec866f07c) |
-| Fri, 31 Oct 2025 07:02:51 GMT | Conclusion | Hanifkhan | [Read More](https://medium.com/p/aff203e077d7) |
-| Fri, 31 Oct 2025 07:01:09 GMT | Web Hosting That Feels Expensive, Without the Cost | Mary Thomas | [Read More](https://medium.com/p/1863bc897f91) |
-| Fri, 31 Oct 2025 06:54:48 GMT | The Corix Partners Friday Reading List — October 31, 2025 | JC Gaillard | [Read More](https://medium.com/p/3955fa8c673a) |
-| Fri, 31 Oct 2025 06:54:31 GMT | The Biggest Security Flaw Is Still Human Error | Muhummad Zaki | [Read More](https://medium.com/p/5441c4035f07) |
-| Fri, 31 Oct 2025 06:45:22 GMT | Is CompTIA Security+ Worth It? A Transformative Guide from 591Lab That Launched My Cyber Career | Al Beruni | [Read More](https://medium.com/p/9637fe00aadc) |
