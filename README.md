@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 11:32:05 GMT | HTML Injection - Return of the P2 Elevator | Jerry Shah (Jerry) | [Read More](https://medium.com/p/0cccf93d8c98) |
+| Fri, 31 Oct 2025 11:30:46 GMT | Top 10 Password Cracking Tools Used by Pen Testers | Manisha Chaudhary | [Read More](https://medium.com/p/b62240ec28d1) |
+| Fri, 31 Oct 2025 11:26:46 GMT | Evolving Cybersecurity Paradigms: Integrating AI-Driven Risk Assessment in Modern Enterprises | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/07652f79ca51) |
+| Fri, 31 Oct 2025 11:25:18 GMT | Protecting Physical Assets Digitally with Managed Facilities Solutions | Trust Consulting Services | [Read More](https://medium.com/p/b054f5767c3e) |
+| Fri, 31 Oct 2025 11:24:14 GMT | iQOO 15 – The Next Generation AI Flagship Smartphone | TechMind Sphere | [Read More](https://medium.com/p/6333f2a778fc) |
+| Fri, 31 Oct 2025 11:22:59 GMT | Keep the CYBER Under Lock & Key | MuhammadAsim-GlobalProgressVolunteer | [Read More](https://medium.com/p/7d197a3db519) |
+| Fri, 31 Oct 2025 11:21:01 GMT | Expert Guide to Auditd Advanced Usage in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/c857955d92aa) |
 | Fri, 31 Oct 2025 11:14:58 GMT | Starting My eJPT Journey: A New Chapter in My Cybersecurity Path | Nawaf Alfawzan | [Read More](https://medium.com/p/c15a2c8e8f4b) |
 | Fri, 31 Oct 2025 11:11:44 GMT | Portal E-Voucher & Promo Game 2025 — Top-up Cepat dan Aman | claudio jonathan | [Read More](https://medium.com/p/9cb6131f927f) |
 | Fri, 31 Oct 2025 11:09:17 GMT | When Design Systems Break — How to Realign Your Team & Restore Consistency | Dylan Deckard | [Read More](https://medium.com/p/dc1c97bf0cf0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 06:54:48 GMT | The Corix Partners Friday Reading List — October 31, 2025 | JC Gaillard | [Read More](https://medium.com/p/3955fa8c673a) |
 | Fri, 31 Oct 2025 06:54:31 GMT | The Biggest Security Flaw Is Still Human Error | Muhummad Zaki | [Read More](https://medium.com/p/5441c4035f07) |
 | Fri, 31 Oct 2025 06:45:22 GMT | Is CompTIA Security+ Worth It? A Transformative Guide from 591Lab That Launched My Cyber Career | Al Beruni | [Read More](https://medium.com/p/9637fe00aadc) |
-| Fri, 31 Oct 2025 06:43:44 GMT | Top 10 OSINT Tools for Information Gathering | Manisha Chaudhary | [Read More](https://medium.com/p/c7646b56ea2d) |
-| Fri, 31 Oct 2025 06:38:17 GMT | My First Vulnerability Scan — Excitement vs Reality | Adeleke Theophilus O | [Read More](https://medium.com/p/f7d991372db2) |
-| Fri, 31 Oct 2025 06:35:11 GMT | 120 Days of Purple Teaming & Cloud Incident Response: Days -6 to 10 | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/efd38cd2fac0) |
-| Fri, 31 Oct 2025 06:34:46 GMT | Security Robots Market: Market Demand and Growth Outlook | Upasanapradhan | [Read More](https://medium.com/p/f9a776f8fcdd) |
-| Fri, 31 Oct 2025 06:28:23 GMT | Boost Business Performance and Security with Managed Cloud Hosting Services | Gainside | [Read More](https://medium.com/p/e75ac740cead) |
-| Fri, 31 Oct 2025 06:24:57 GMT | How to securely delete (zeroize) a Ruby String | Anton Prudkohliad | [Read More](https://medium.com/p/bc58b0d9e5a3) |
-| Fri, 31 Oct 2025 06:23:24 GMT | Why Your Cybersecurity Website Sidebar Is Costing You Clients (And How to Fix It) | Ambreenbasit | [Read More](https://medium.com/p/9b278e5173dd) |
