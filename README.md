@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 09:10:36 GMT | Digital Lies, Real Receipts: How Non-Repudiation and Accountability Keep Us Honest Online | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/f07ec005e379) |
+| Fri, 31 Oct 2025 09:09:58 GMT | Information Dominance: The Hidden Front of Modern Conflict | Peter Durang | [Read More](https://medium.com/p/72ceb309f695) |
+| Fri, 31 Oct 2025 09:08:49 GMT | Deception Techniques That Actually Work: Turning Intruders into Telemetry | UK Cyber Defence | [Read More](https://medium.com/p/af823ff2b957) |
+| Fri, 31 Oct 2025 09:08:06 GMT | The day LibreWolf update exposed a hidden Trojan(and my brother’s Digital Crimes) | orze4r | [Read More](https://medium.com/p/af0d7ebe2d6b) |
+| Fri, 31 Oct 2025 09:06:07 GMT | Threat Hunting with Deception Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/4f56d902d026) |
+| Fri, 31 Oct 2025 09:03:54 GMT | Bandit OverTheWire writeup — Level 5→ Level 6 | Dawid Kowalski | [Read More](https://medium.com/p/4b19ad792e16) |
+| Fri, 31 Oct 2025 09:00:43 GMT | The New Cyber Guardians: Studying Security in the Age of AI | Hristo Hristov | [Read More](https://medium.com/p/c854f6fc2e84) |
+| Fri, 31 Oct 2025 09:00:42 GMT | Handling Base64 Encoded Data in Kubernetes Secrets | Anh Trần Tuấn | [Read More](https://medium.com/p/77df09e6039d) |
+| Fri, 31 Oct 2025 09:00:41 GMT | Handling Base64 Encoded Data in Kubernetes Secrets | Anh Trần Tuấn | [Read More](https://medium.com/p/56aa00cf13c9) |
+| Fri, 31 Oct 2025 09:00:00 GMT | Bandit OverTheWire writeup — Level 4 → Level 5 | Dawid Kowalski | [Read More](https://medium.com/p/c24fab6d8406) |
+| Fri, 31 Oct 2025 08:58:23 GMT | Basics of Windows Security — What you need to know as a Ethical Hacker | Indigo Shadow | [Read More](https://medium.com/p/aad460036dcd) |
+| Fri, 31 Oct 2025 08:57:34 GMT | The Ethical Dilemma of AI (From the Systems Perspective) | The Diary Of a Data Professional | [Read More](https://medium.com/p/e9db949545dc) |
+| Fri, 31 Oct 2025 08:56:48 GMT | IAM Basics | Anuja Pawar | [Read More](https://medium.com/p/268efdf0be9b) |
+| Fri, 31 Oct 2025 08:56:03 GMT | Metasploit Introduction — Writeup | Mahir | [Read More](https://medium.com/p/08bf8780f2d9) |
 | Fri, 31 Oct 2025 08:42:46 GMT | Old vs. New Firewall: What’s Really Changed in Network Security | Devarshi Acharya | [Read More](https://medium.com/p/6a3a345bf22c) |
 | Fri, 31 Oct 2025 08:35:05 GMT | DEADFACE 2025 PWN All Challs | Zeyad Salah | [Read More](https://medium.com/p/6bcbac5c7dff) |
 | Fri, 31 Oct 2025 08:34:09 GMT | Bandit OverTheWire writeup — Level 3 → Level 4 | Dawid Kowalski | [Read More](https://medium.com/p/da149982b162) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 23:50:08 GMT | Phone Privacy and Forensics | Raviteja Mureboina | [Read More](https://medium.com/p/15885ef2dff1) |
 | Thu, 30 Oct 2025 23:44:01 GMT | Using HashiCorp Vault with Keycloak for Dynamic Database Credentials in .NET | Vitor Gomes | [Read More](https://medium.com/p/b66321905865) |
 | Thu, 30 Oct 2025 23:28:20 GMT | eJPT Prep - Assessment Methodologies: Information Gathering CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/5b7add24f311) |
-| Thu, 30 Oct 2025 23:26:23 GMT | Hidden Secrets of the Dark Web You Should Know in 2025 | Musayyab Shah | [Read More](https://medium.com/p/0230c5f5518d) |
-| Thu, 30 Oct 2025 23:14:30 GMT | Brooklyn Nine Nine-Try_H4ck_M3-Walk-through… | Rokzcy Excellence | [Read More](https://medium.com/p/f0a183c508e9) |
-| Thu, 30 Oct 2025 23:11:48 GMT | From Endless Decks to Decision POCs: A Smarter Way to Make Big Tech Bets | Jen Anderson, PhD | [Read More](https://medium.com/p/7a9e3181c93b) |
-| Thu, 30 Oct 2025 23:07:31 GMT | The Future of AI in Enterprise | Jen Anderson, PhD | [Read More](https://medium.com/p/1126d5b6ee97) |
-| Thu, 30 Oct 2025 22:58:56 GMT | Malwarebytes Premium Lifetime | novadigital21 | [Read More](https://medium.com/p/3df6d0c86516) |
-| Thu, 30 Oct 2025 22:41:32 GMT | Deep Dive: Fuel CMS 1.4.1 RCE Exploitation (CVE-2018–16763) | Yen Wang | [Read More](https://medium.com/p/8083c9b090ae) |
-| Thu, 30 Oct 2025 22:41:16 GMT | Shadow AI: Risk and Governance | Pranjali Karve | [Read More](https://medium.com/p/7db79f70474c) |
-| Thu, 30 Oct 2025 22:27:37 GMT | Sysco Walkthrough | IK4R0S-SEC | [Read More](https://medium.com/p/375b04112fdc) |
-| Thu, 30 Oct 2025 22:26:12 GMT | Building My Own Private Offline AI Server | Hirad Showghi | [Read More](https://medium.com/p/735adf00f12d) |
-| Thu, 30 Oct 2025 22:07:16 GMT | An exercise in TCP Service Enumeration | Ubongabasi | [Read More](https://medium.com/p/21b5f8af8828) |
-| Thu, 30 Oct 2025 21:57:17 GMT | Day 25 of my Cybersecurity Journey: John the Ripper Basics 1 | Ogundipe Priscilla | [Read More](https://medium.com/p/082c280a91be) |
-| Thu, 30 Oct 2025 21:52:05 GMT | Building a DNS Command Execution | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8df7a4ab5b43) |
-| Thu, 30 Oct 2025 21:49:42 GMT | ⚠️Snap. Share. Leak? The Hidden Dangers of Pixnapping | Alsabah Afshi | [Read More](https://medium.com/p/14129f1ab0f0) |
-| Thu, 30 Oct 2025 21:42:30 GMT | [Auth] How to use Zoho as an OIDC for gitea | Sarvsav Sharma | [Read More](https://medium.com/p/ed77efd8a58e) |
