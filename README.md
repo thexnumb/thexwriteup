@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 15:36:43 GMT | The Spy in Your Pocket: What Operation Triangulation Tells Us About the Future of Smartphone… | Abatis ABTU | [Read More](https://medium.com/p/c351d2eee4f8) |
+| Fri, 31 Oct 2025 15:20:09 GMT | MonsterV2 Malware-as-a-Service (MaaS) and the TA585 Threat Group’s Advanced ClickFix Campaigns… | zerOiQ | [Read More](https://medium.com/p/426c5142f818) |
+| Fri, 31 Oct 2025 15:18:22 GMT | Inside the Hacker’s Playground: Setting Up Your Virtual Lab (Part 1) | Stitoutl | [Read More](https://medium.com/p/805c4b76125b) |
+| Fri, 31 Oct 2025 15:17:39 GMT | “The $12,500 GraphQL Glitch That Exposed HackerOne’s Own Hackers” | Aman Sharma | [Read More](https://medium.com/p/40de41150f64) |
 | Fri, 31 Oct 2025 15:09:47 GMT | Fundamentals of Cloud Computing Security | Ayoade Akintayo (PhD) | [Read More](https://medium.com/p/73a67b0bdc0e) |
 | Fri, 31 Oct 2025 14:55:26 GMT | How Secure Is Your Password? I Built a Generator to Find Out | Anand Balachandran Pillai | [Read More](https://medium.com/p/ef2d1330bf4b) |
 | Fri, 31 Oct 2025 14:51:09 GMT | The F1 Data Pit Stop: How a Single API Bug Exposed Racing’s Biggest Stars | Aj | [Read More](https://medium.com/p/79daac3e56d0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 10:09:36 GMT | InstallShield Setup.exe Vulnerability: A Stealthy Privilege Escalation Threat! ️ | CVEHUB | [Read More](https://medium.com/p/dbadb681998c) |
 | Fri, 31 Oct 2025 10:09:32 GMT | When a “Legal API” Handed Me a Data Dump UNAUTH | Evyeveline | [Read More](https://medium.com/p/e4c9ea3fd297) |
 | Fri, 31 Oct 2025 10:07:36 GMT | Hack Right: Real Ethical Hacking, No BS | SilentInject | [Read More](https://medium.com/p/98850af992aa) |
-| Fri, 31 Oct 2025 10:06:29 GMT | SquareX Secures ChatGPT Atlas Browser, Comet and More | SquareX | [Read More](https://medium.com/p/ee8dc1391776) |
-| Fri, 31 Oct 2025 10:06:02 GMT | Cyber Audits That Strengthen Your Website Security | Cyber Shieldpro | [Read More](https://medium.com/p/b4fd623d6af0) |
-| Fri, 31 Oct 2025 10:05:40 GMT | Offensive Security | Seyed saeed Mohammadi | [Read More](https://medium.com/p/94e73a4a3ef5) |
-| Fri, 31 Oct 2025 10:02:59 GMT | The 99.9% Firewall: Key Security Lessons from Cybersecurity Awareness Month | Ejike Etolue | [Read More](https://medium.com/p/68607d0041ec) |
