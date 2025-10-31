@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 10:12:25 GMT | What is Hire a Hacker Pro? 25 Essential Q&A About This 100% Free Cybersecurity Learning Resource | SinVictus | [Read More](https://medium.com/p/d78ad593d3b7) |
+| Fri, 31 Oct 2025 10:11:13 GMT | Uh Oh! Search Guard FLX’s Little Secret: How Object Fields Can Leak Info (CVE-2025–12147) | CVEHUB | [Read More](https://medium.com/p/29ab708401f6) |
+| Fri, 31 Oct 2025 10:11:08 GMT | Cyber Security: Protecting Critical Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/09f1599cbca2) |
+| Fri, 31 Oct 2025 10:09:36 GMT | InstallShield Setup.exe Vulnerability: A Stealthy Privilege Escalation Threat! ️ | CVEHUB | [Read More](https://medium.com/p/dbadb681998c) |
+| Fri, 31 Oct 2025 10:09:32 GMT | When a “Legal API” Handed Me a Data Dump UNAUTH | Evyeveline | [Read More](https://medium.com/p/e4c9ea3fd297) |
+| Fri, 31 Oct 2025 10:07:36 GMT | Hack Right: Real Ethical Hacking, No BS | SilentInject | [Read More](https://medium.com/p/98850af992aa) |
+| Fri, 31 Oct 2025 10:06:29 GMT | SquareX Secures ChatGPT Atlas Browser, Comet and More | SquareX | [Read More](https://medium.com/p/ee8dc1391776) |
+| Fri, 31 Oct 2025 10:06:02 GMT | Cyber Audits That Strengthen Your Website Security | Cyber Shieldpro | [Read More](https://medium.com/p/b4fd623d6af0) |
+| Fri, 31 Oct 2025 10:05:40 GMT | Offensive Security | Seyed saeed Mohammadi | [Read More](https://medium.com/p/94e73a4a3ef5) |
+| Fri, 31 Oct 2025 10:02:59 GMT | The 99.9% Firewall: Key Security Lessons from Cybersecurity Awareness Month | Ejike Etolue | [Read More](https://medium.com/p/68607d0041ec) |
+| Fri, 31 Oct 2025 10:00:12 GMT | Cyber Security: The Battle Against Phishing | Cyber Security Research | [Read More](https://medium.com/p/375bd4f66358) |
+| Fri, 31 Oct 2025 09:58:37 GMT | Why Unified Patient Data Is the Future of Care | Digital Transformation Playbook | [Read More](https://medium.com/p/78f5171ef2ea) |
+| Fri, 31 Oct 2025 09:57:38 GMT | Unauthenticated access to “Confidential — licensed users” PDF (found with Google dork) | Ousski | [Read More](https://medium.com/p/867dd2f5e462) |
+| Fri, 31 Oct 2025 09:56:36 GMT | Here Are the 10 Best SAST Tools for Secure Development in 2025 | Anwar Plexicus | [Read More](https://medium.com/p/bed0e5d4b2ab) |
+| Fri, 31 Oct 2025 09:55:01 GMT | Sublime Just Got Even Smarter: Automatic Calendar Event Deletion Is Here | Dean | [Read More](https://medium.com/p/14ad4e548578) |
+| Fri, 31 Oct 2025 09:50:27 GMT | Cyber Security: The Evolution of Malware | Cyber Security Research | [Read More](https://medium.com/p/053eb118db18) |
+| Fri, 31 Oct 2025 09:50:20 GMT | Why We Need More Cybersecurity Experts and How to Fix the Shortage | CCoe | [Read More](https://medium.com/p/db2c40c3084c) |
+| Fri, 31 Oct 2025 09:49:21 GMT | Telecoms vs. Cyber: Whose Guard is Down Now? | Truspex | [Read More](https://medium.com/p/d847f499d74e) |
+| Fri, 31 Oct 2025 09:48:06 GMT | The Final Flame: Lighting the Path Forward | Aysha Misri | [Read More](https://medium.com/p/be516d6ce8dd) |
+| Fri, 31 Oct 2025 09:43:07 GMT | Lethal Mind Traps: Cognitive Errors in Cybersecurity | CCoe | [Read More](https://medium.com/p/3ae8f127a63b) |
+| Fri, 31 Oct 2025 09:39:56 GMT | Turn a Phrase into a Strong Password (and Why It Works) | Irteza Asad | [Read More](https://medium.com/p/b0eabdce6273) |
+| Fri, 31 Oct 2025 09:38:25 GMT | Cybersecurity Internship: My Brutally Honest Guide | Authlyn | [Read More](https://medium.com/p/c80652a3edff) |
+| Fri, 31 Oct 2025 09:36:19 GMT | The 7 Linux Commands That Changed How I Think About Computers | Fateyaly | [Read More](https://medium.com/p/e14d52ea541a) |
+| Fri, 31 Oct 2025 09:27:50 GMT | .NET Deserialization Leading to Remote Code Execution in Composite C1 CMS — CVE-2019–18211 | Ali İltizar | [Read More](https://medium.com/p/f6874c45ce30) |
 | Fri, 31 Oct 2025 09:26:16 GMT | How Threat Intelligence Solutions Protect Your Business from Cyber Threats | NewEvol | [Read More](https://medium.com/p/a430656309fb) |
 | Fri, 31 Oct 2025 09:23:04 GMT | [HackTheBox x VulnLab Write-up] Slonik (NFS Share, PostgresSQL, Backup Script) | Chicken0248 | [Read More](https://medium.com/p/906664eb1912) |
 | Fri, 31 Oct 2025 09:20:18 GMT | [HackTheBox x VulnLab Write-up] Forgotten (Limesurvey RCE, docker shared directory) | Chicken0248 | [Read More](https://medium.com/p/2a96e4d4ce44) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 04:36:59 GMT | Editor HTB Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/c9e7ddc0c088) |
 | Fri, 31 Oct 2025 04:13:56 GMT | Mr Robot CTF - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/ea078204aa46) |
 | Fri, 31 Oct 2025 03:58:34 GMT | OneChain’s 9 Unique Strengths: Part 7 — Top-Tier Security: MPC + Decentralized Governance | OneChain | [Read More](https://medium.com/p/1af128f829e0) |
-| Fri, 31 Oct 2025 03:53:38 GMT | Song Onstage Foul-up! Cause — English Word Order! | Bill Myers | [Read More](https://medium.com/p/3a156d3e4d7d) |
-| Fri, 31 Oct 2025 03:52:26 GMT | PHP Introduction | Don Matteu | [Read More](https://medium.com/p/3512a5141fbd) |
-| Fri, 31 Oct 2025 03:50:20 GMT | PHP Introduction | Don Matteu | [Read More](https://medium.com/p/352a0eeb439c) |
-| Fri, 31 Oct 2025 03:48:21 GMT | Top 5 Laptops for Creators and Gamers in 2025 | TechMind Sphere | [Read More](https://medium.com/p/de8c2761a76a) |
-| Fri, 31 Oct 2025 03:47:23 GMT | The Importance of Financial Security in the Digital Era | Nishitha | [Read More](https://medium.com/p/5e3bbc6aa4d7) |
-| Fri, 31 Oct 2025 03:42:03 GMT | OneFlip: How a Single Bit Flip Could Backdoor Your AI Model | Deven Chhajed | [Read More](https://medium.com/p/85c6460cec1e) |
-| Fri, 31 Oct 2025 03:07:22 GMT | fnox เครื่องมือจัดการ Secrets สุดประทับใจ | Kan Ouivirach | [Read More](https://medium.com/p/f2189565e60c) |
-| Fri, 31 Oct 2025 03:01:52 GMT | All About Recon — Bug Bounty | Monujangra | [Read More](https://medium.com/p/2ec869fcbe45) |
-| Fri, 31 Oct 2025 02:39:08 GMT | Web Cache Poisoning — Part 2: Weaponizing Headers & URL Discrepancies | Abhishek meena | [Read More](https://medium.com/p/bbb7b2c0159a) |
-| Fri, 31 Oct 2025 02:35:36 GMT | OSINT Meets AI: How AI Supercharges Collection, Analysis, and Correlation | Travis Ray Caverhill | [Read More](https://medium.com/p/f8488a54559e) |
-| Fri, 31 Oct 2025 02:35:32 GMT | From Cybersecurity to Generative AI: How I Discovered the Creative Side of Adversarial Learning | KanishkAshra | [Read More](https://medium.com/p/ece9e7826487) |
-| Fri, 31 Oct 2025 02:30:34 GMT | Your EXIF Is Showing: The Art of Leaving No Digital Trace | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a005ff14cea5) |
-| Fri, 31 Oct 2025 02:03:29 GMT | Pixnapping (CVE-2025–48561): An Architectural Flaw in Android | AckerWorx | [Read More](https://medium.com/p/fe8b77f0fb13) |
-| Fri, 31 Oct 2025 02:02:00 GMT | HackTheBox Introduction to Threat Hunting: The Threat Hunting Process | Cybersecurity Simplified | [Read More](https://medium.com/p/5e2b0dab3e72) |
-| Fri, 31 Oct 2025 01:59:55 GMT | 25 Top Monthly Insights — AI Security — October  2025 | Tal Eliyahu | [Read More](https://medium.com/p/2b934c2a4409) |
-| Fri, 31 Oct 2025 01:55:46 GMT | When Error Messages Leak More Than Logs: ORMs, Frameworks, and the Quiet Reconnaissance Problem | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/cfb336ce1117) |
-| Fri, 31 Oct 2025 01:52:58 GMT | Understanding Cyber Insurance: What It Covers and Why You Need It | Samina Perveen | [Read More](https://medium.com/p/48fe9b1adcaa) |
-| Fri, 31 Oct 2025 01:48:57 GMT | How to Practice Ethical Hacking Safely with Virtual Labs | Shahzaib | [Read More](https://medium.com/p/a9a04c9d86c2) |
-| Fri, 31 Oct 2025 01:48:51 GMT | The Go Security Mistake That Almost Got Me Hacked (And How I Fixed It) | syarif | [Read More](https://medium.com/p/d262ea18a512) |
-| Fri, 31 Oct 2025 01:48:47 GMT | Security Best Practices for Cloud-First Development | shivam bhatele | [Read More](https://medium.com/p/edce7ed65488) |
-| Fri, 31 Oct 2025 01:48:36 GMT | From Firewalls to AI: The Evolution of Cyber Defense in One Lifetime | Aj | [Read More](https://medium.com/p/a8a42f6131ea) |
-| Fri, 31 Oct 2025 00:51:36 GMT | Security Operations with Elasticsearch MCP and Security Onion | uhtavi0 | [Read More](https://medium.com/p/26c3819bebd6) |
-| Fri, 31 Oct 2025 00:45:04 GMT | Azure Entra ID: The Next Security Battleground for Enterprises is on the Cloud | Yua Mikanana | [Read More](https://medium.com/p/787d32a230f6) |
-| Fri, 31 Oct 2025 00:17:45 GMT | 5 Best Go Libraries for Uploading Files to MinIO (Without Losing Your Mind) | James Miller | [Read More](https://medium.com/p/afce38dcd978) |
