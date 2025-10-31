@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 23:03:16 GMT | From Africa to the World: The AI That Fights Scams, Not Creates Them | Frankline Yombih Yombih | [Read More](https://medium.com/p/494038d6aac3) |
+| Fri, 31 Oct 2025 23:02:49 GMT | How Cyber-Attacks Will Look in 2025 — And How You Can Stop Them | Davo Richy | [Read More](https://medium.com/p/3327af4abb09) |
+| Fri, 31 Oct 2025 22:53:30 GMT | Race condition vulnerability occurs when websites process requests concurrently. | Ebrahimmagdy | [Read More](https://medium.com/p/43f3e3cd2350) |
 | Fri, 31 Oct 2025 22:38:26 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/67055ed777ae) |
 | Fri, 31 Oct 2025 22:25:56 GMT | When the Blacklist Failed: How I Triggered XSS with a Middle Click | Rehan Ansari | [Read More](https://medium.com/p/fc45f5022543) |
 | Fri, 31 Oct 2025 22:22:39 GMT | Wankbattling, Recommendation Algorithms, and Third Spaces | Familiar News | [Read More](https://medium.com/p/9b8b34f52d64) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 13:58:22 GMT | BEST RECOVERY EXPERT FOR CRYPTOCURRENCY \ WIZARD MILLER HACKER | Joyceadams | [Read More](https://medium.com/p/c9da4b1c66bb) |
 | Fri, 31 Oct 2025 13:57:54 GMT | Unlocking Curiosity: My First Dive into the World of Cybersecurity | Om Kulkarni | [Read More](https://medium.com/p/42c2e1763cb9) |
 | Fri, 31 Oct 2025 13:56:45 GMT | My Data Analysis journey | Russell Okon Wilson | [Read More](https://medium.com/p/95fa0ead6dd7) |
-| Fri, 31 Oct 2025 13:56:32 GMT | Implementing Content-Security-Policy (CSP) in a GitOps Cloud Environment | Mohamed Khaled Awad | [Read More](https://medium.com/p/2d90445f197c) |
-| Fri, 31 Oct 2025 13:56:00 GMT | ☁️ The Great Cloud Shift: How AI, Edge, and Quantum Are Rewiring the Digital Sky (October 30, 2025) | The Deep Frame | [Read More](https://medium.com/p/527b03f4114f) |
-| Fri, 31 Oct 2025 13:41:55 GMT | The Security+ Blueprint: How Hitting the “Stop” instead of“Snooze” Button Forced Me to Pass | 5kullk3r | [Read More](https://medium.com/p/f4360bbae9b4) |
