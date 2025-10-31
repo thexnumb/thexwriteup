@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 20:03:32 GMT | LLM Invisible Prompt Smuggling & How YOU Can Earn A Quick $10k (This Isn’t Clickbait, I Swear) | Justas_b | [Read More](https://medium.com/p/2df2de834f81) |
+| Fri, 31 Oct 2025 19:51:25 GMT | SOC246 — Forced Authentication Detected (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/0747859c4bda) |
+| Fri, 31 Oct 2025 19:43:16 GMT | Eviction - THM | Isiah | [Read More](https://medium.com/p/05581e39ad39) |
+| Fri, 31 Oct 2025 19:39:01 GMT | The Tale of the Infamous Shadow Encounter | Cyb0rgBytes | [Read More](https://medium.com/p/cb7119cdb1fe) |
+| Fri, 31 Oct 2025 19:38:08 GMT | The Underground Web Tools Used by Digital Spies, Journalists & Hackers (That Anyone Can Access) | Mike merrillauthur | [Read More](https://medium.com/p/0f6a77dfd45a) |
 | Fri, 31 Oct 2025 19:24:03 GMT | Secure Your Internal Conversations: Why Your Intranet Needs a Self-Hosted Video Platform | Jibon Costa | [Read More](https://medium.com/p/6cdffecee771) |
 | Fri, 31 Oct 2025 19:22:39 GMT | Why Learning Networking First Makes You a Better Cybersecurity Professional | Haider Ali | [Read More](https://medium.com/p/c1b63590cce7) |
 | Fri, 31 Oct 2025 19:08:14 GMT | Setting Up SSL in Information System with HashiCorp Vault via the CLI | Umair | [Read More](https://medium.com/p/7d5e9a12897e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 12:37:20 GMT | La Cybersécurité en 2025 : Au-Delà des Pare-feu et des Mots de Passe | Limeryem | [Read More](https://medium.com/p/092fb1151da0) |
 | Fri, 31 Oct 2025 12:36:51 GMT | How to Lock a Door from Both Sides: Secure Locking Solutions Explained | Sure Lock & Key LLC | [Read More](https://medium.com/p/617ca7f906b8) |
 | Fri, 31 Oct 2025 12:33:43 GMT | Cyberdefenders 3CX Supply Chain Lab Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/5a6940da7ee8) |
-| Fri, 31 Oct 2025 12:27:05 GMT | Exploitation Escalates: Top Cyber Threats This Week | Loginsoft | [Read More](https://medium.com/p/40ed8e258464) |
-| Fri, 31 Oct 2025 12:17:06 GMT | Blockchain for Secure Digital Identity & KYC — Reducing Fraud with Tamper-Proof IDs | Malavikasajeev | [Read More](https://medium.com/p/d25eaec225cc) |
-| Fri, 31 Oct 2025 12:16:03 GMT | Detect and Response With Gen-AI | Aufarifqi | [Read More](https://medium.com/p/62711cf80565) |
-| Fri, 31 Oct 2025 12:13:18 GMT | Orkla OSINT Challenge: Dragon Con Detective Writeup | Alexander Sapo | [Read More](https://medium.com/p/256d7e4d6359) |
-| Fri, 31 Oct 2025 12:11:57 GMT | How I Uncover Hidden Vulnerabilities With Simple Recon | Ibtissam | [Read More](https://medium.com/p/f3cd5a2a91f2) |
