@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 04:13:56 GMT | Mr Robot CTF - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/ea078204aa46) |
+| Fri, 31 Oct 2025 03:58:34 GMT | OneChain’s 9 Unique Strengths: Part 7 — Top-Tier Security: MPC + Decentralized Governance | OneChain | [Read More](https://medium.com/p/1af128f829e0) |
+| Fri, 31 Oct 2025 03:53:38 GMT | Song Onstage Foul-up! Cause — English Word Order! | Bill Myers | [Read More](https://medium.com/p/3a156d3e4d7d) |
+| Fri, 31 Oct 2025 03:50:20 GMT | PHP Introduction | Don Matteu | [Read More](https://medium.com/p/352a0eeb439c) |
 | Fri, 31 Oct 2025 03:48:21 GMT | Top 5 Laptops for Creators and Gamers in 2025 | TechMind Sphere | [Read More](https://medium.com/p/de8c2761a76a) |
+| Fri, 31 Oct 2025 03:47:23 GMT | The Importance of Financial Security in the Digital Era | Nishitha | [Read More](https://medium.com/p/5e3bbc6aa4d7) |
 | Fri, 31 Oct 2025 03:42:03 GMT | OneFlip: How a Single Bit Flip Could Backdoor Your AI Model | Deven Chhajed | [Read More](https://medium.com/p/85c6460cec1e) |
 | Fri, 31 Oct 2025 03:07:22 GMT | fnox เครื่องมือจัดการ Secrets สุดประทับใจ | Kan Ouivirach | [Read More](https://medium.com/p/f2189565e60c) |
 | Fri, 31 Oct 2025 03:01:52 GMT | All About Recon — Bug Bounty | Monujangra | [Read More](https://medium.com/p/2ec869fcbe45) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 16:51:52 GMT | ⚠️ Phishing: Detection, Defense and Ethical Simulation Guide ️ | Esra Kayhan | [Read More](https://medium.com/p/2d49c5a255c3) |
 | Thu, 30 Oct 2025 16:43:50 GMT | From Reactive Defense to Strategic Resilience: Why GRC Integration Is the Backbone of Modern… | Gabriela Berrido | [Read More](https://medium.com/p/3fa24461176c) |
 | Thu, 30 Oct 2025 16:42:58 GMT | Fragility Behind a Brave Face | ailadgtaldry | [Read More](https://medium.com/p/acd53c2432f5) |
-| Thu, 30 Oct 2025 16:38:39 GMT | How Leaked Credentials can benefit Bug Bounty Hunters | BreachCollection | [Read More](https://medium.com/p/71252b8781da) |
-| Thu, 30 Oct 2025 16:30:44 GMT | OPSEC: Operational Security | Aastha Thakker | [Read More](https://medium.com/p/04b9a00a8d9b) |
-| Thu, 30 Oct 2025 16:29:48 GMT | Building a Conscious Cybersecurity System: How We Apply Integrated Information Theory to Threat… | JuanCS-Dev | [Read More](https://medium.com/p/73fb5719ba1d) |
-| Thu, 30 Oct 2025 16:15:08 GMT | How Quantum Computing Could Break Today’s Encryption | Akshattyagi | [Read More](https://medium.com/p/207ecdda1651) |
-| Thu, 30 Oct 2025 16:08:20 GMT | Your Android Phone Is Leaking Every Secret On Your Screen Right Now (And Google Can’t Stop It) | Biresh Kumar Singh | [Read More](https://medium.com/p/766dfcc0dced) |
