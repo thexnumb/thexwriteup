@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 07:27:40 GMT | GenAI Governance: A Practical Framework for Secure and Responsible AI Adoption | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/b9a6c12a8029) |
 | Fri, 31 Oct 2025 07:12:11 GMT | Master Stealth Logging Bypass on Linux Systems: Step-by-Step Tactics for Ethical Hackers | Very Lazy Tech | [Read More](https://medium.com/p/cd2112ef944a) |
 | Fri, 31 Oct 2025 07:11:32 GMT | Everyone Wants to Hack — No One Wants to Think | An0n | [Read More](https://medium.com/p/a6bb8a313501) |
+| Fri, 31 Oct 2025 07:10:59 GMT | Building Role-Based Access Control (RBAC) in Express: A Practical Guide | Fadoon Tarnongu | [Read More](https://medium.com/p/1f790b5aead0) |
+| Fri, 31 Oct 2025 07:05:49 GMT | ⚙️ Remote Code Execution in GitLab — The Tale of a Rogue “GitHub Import” | Abhishek meena | [Read More](https://medium.com/p/660ec866f07c) |
 | Fri, 31 Oct 2025 07:02:51 GMT | Conclusion | Hanifkhan | [Read More](https://medium.com/p/aff203e077d7) |
 | Fri, 31 Oct 2025 07:01:09 GMT | Web Hosting That Feels Expensive, Without the Cost | Mary Thomas | [Read More](https://medium.com/p/1863bc897f91) |
 | Fri, 31 Oct 2025 06:54:48 GMT | The Corix Partners Friday Reading List — October 31, 2025 | JC Gaillard | [Read More](https://medium.com/p/3955fa8c673a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 20:06:47 GMT | Red Team Simulation with AdaptixC2: Phishing to Beacon (Lab exercise) | Shondy Sainthea | [Read More](https://medium.com/p/0f7620a5f9d4) |
 | Thu, 30 Oct 2025 20:06:40 GMT | Cyber Security Protection | Lucia Banjo | [Read More](https://medium.com/p/ff70685cd205) |
 | Thu, 30 Oct 2025 20:06:13 GMT | How to recover an X account suspended due to violation | Lucia Banjo | [Read More](https://medium.com/p/247d14bf9987) |
-| Thu, 30 Oct 2025 19:57:40 GMT | The Windows Security Journey — Replacement of WRP (Windows Resource Protection) Protected Files | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/11a033b1681e) |
-| Thu, 30 Oct 2025 19:57:22 GMT | Quest for Digital Resilience: Conquering MFA Fatigue | Danielle Koppel | [Read More](https://medium.com/p/8bab9c631a93) |
-| Thu, 30 Oct 2025 19:38:18 GMT | My Current Internet Security Setup | furmanp | [Read More](https://medium.com/p/90d049006e6f) |
