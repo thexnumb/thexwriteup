@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 20:42:04 GMT | How a Lab Box Taught Me the Real-World Cost of Misconfiguration | Vivektumma27 | [Read More](https://medium.com/p/dbf80940a190) |
+| Fri, 31 Oct 2025 20:41:32 GMT | How I Got a Four-Digit Bug Bounty From Grammarly | Aland Dlshad | [Read More](https://medium.com/p/187038396843) |
+| Fri, 31 Oct 2025 20:32:54 GMT | Air Force Contract That Could Counteract “Harvest Now, Decrypt Later” Methodology | Orrin Konheim | [Read More](https://medium.com/p/d0032fd1927d) |
 | Fri, 31 Oct 2025 20:03:32 GMT | LLM Invisible Prompt Smuggling & How YOU Can Earn A Quick $10k (This Isn’t Clickbait, I Swear) | Justas_b | [Read More](https://medium.com/p/2df2de834f81) |
 | Fri, 31 Oct 2025 19:51:25 GMT | SOC246 — Forced Authentication Detected (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/0747859c4bda) |
 | Fri, 31 Oct 2025 19:43:16 GMT | Eviction - THM | Isiah | [Read More](https://medium.com/p/05581e39ad39) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 12:56:51 GMT | Agent Sudo writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/d650f295474d) |
 | Fri, 31 Oct 2025 12:55:19 GMT | DNS – İnternet’in Adres Defteri | Enes Berk Yetim | [Read More](https://medium.com/p/ed8dde2930a6) |
 | Fri, 31 Oct 2025 12:53:40 GMT | How to Safeguard Your Investments from Scams - Sawaal Karo - World Investor Week 2025 | Kshitijm | [Read More](https://medium.com/p/1a7075316a5f) |
-| Fri, 31 Oct 2025 12:37:20 GMT | La Cybersécurité en 2025 : Au-Delà des Pare-feu et des Mots de Passe | Limeryem | [Read More](https://medium.com/p/092fb1151da0) |
-| Fri, 31 Oct 2025 12:36:51 GMT | How to Lock a Door from Both Sides: Secure Locking Solutions Explained | Sure Lock & Key LLC | [Read More](https://medium.com/p/617ca7f906b8) |
-| Fri, 31 Oct 2025 12:33:43 GMT | Cyberdefenders 3CX Supply Chain Lab Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/5a6940da7ee8) |
