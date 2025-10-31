@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 18:13:37 GMT | Reality Is Medicated. | KL Wilks- Views From the Weave | [Read More](https://medium.com/p/5e3d01434d81) |
+| Fri, 31 Oct 2025 18:03:26 GMT | Behind the Breach Series: Anti-forensics Case Study | Dorathy Christopher | [Read More](https://medium.com/p/699dad62d5a4) |
+| Fri, 31 Oct 2025 18:01:57 GMT | The Boring Path to Web Security: CSPs That Stick | Modexa | [Read More](https://medium.com/p/fa5fd41a1b2f) |
+| Fri, 31 Oct 2025 18:01:00 GMT | Cybersecurity News Review — Week 44 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/f4461f30b0d5) |
+| Fri, 31 Oct 2025 17:53:11 GMT | Stop Brute-Force Attacks on Your NestJS API: A Dead Simple Implementation | Tanjil Hossain | [Read More](https://medium.com/p/a21bbddaee1b) |
+| Fri, 31 Oct 2025 17:47:29 GMT | Beyond Awareness: The State of Cybersecurity as October Ends | Neville Pinto | [Read More](https://medium.com/p/f58caf565551) |
+| Fri, 31 Oct 2025 17:43:16 GMT | Understanding the Latest Hardware Security Challenge and What It Means for Phala Cloud Computing | Soulman | [Read More](https://medium.com/p/ae8ec1d888db) |
+| Fri, 31 Oct 2025 17:39:30 GMT | CISA and NSA Release Urgent Guidance to Secure WSUS and Microsoft Exchange Servers | Chetan Seripally | [Read More](https://medium.com/p/7315647ab571) |
+| Fri, 31 Oct 2025 17:37:28 GMT | I Risked It All & Showed Up Naked | AllWays Written | [Read More](https://medium.com/p/2d2a0f2e3b87) |
 | Fri, 31 Oct 2025 17:31:59 GMT | The Silent Security Flaw in Your Python Scripts (And How to Fix It Before It’s Too Late) | Er.Muruganantham | [Read More](https://medium.com/p/1c432ec85f6a) |
 | Fri, 31 Oct 2025 17:24:56 GMT | The Eyes in the Signal: Why Your Phone Knows More Than You Think | Daniel Gagarin | [Read More](https://medium.com/p/885aae45fe5d) |
 | Fri, 31 Oct 2025 17:23:47 GMT | TryHackMe - Living Off the Land Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/343fc5958a66) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 11:41:42 GMT | Hackers Don’t Need Malware — Just Your Email Inbox | Balaji | [Read More](https://medium.com/p/2188276e0f74) |
 | Fri, 31 Oct 2025 11:41:26 GMT | Network Security Beyond Firewalls: DHCP Attacks, IDS/IPS Evasion | Huseyn Eyvazov | [Read More](https://medium.com/p/87686f200cf6) |
 | Fri, 31 Oct 2025 11:40:57 GMT | Why I Do What I Do: Security, Manufacturing, and the Backbone of Britain | Luke Appleby | [Read More](https://medium.com/p/f668d7f24ad8) |
-| Fri, 31 Oct 2025 11:37:38 GMT | YARA: The Language of Malware Detection | Huseyn Eyvazov | [Read More](https://medium.com/p/9832496c5423) |
-| Fri, 31 Oct 2025 11:32:05 GMT | HTML Injection - Return of the P2 Elevator | Jerry Shah (Jerry) | [Read More](https://medium.com/p/0cccf93d8c98) |
-| Fri, 31 Oct 2025 11:30:46 GMT | Top 10 Password Cracking Tools Used by Pen Testers | Manisha Chaudhary | [Read More](https://medium.com/p/b62240ec28d1) |
-| Fri, 31 Oct 2025 11:26:46 GMT | Evolving Cybersecurity Paradigms: Integrating AI-Driven Risk Assessment in Modern Enterprises | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/07652f79ca51) |
-| Fri, 31 Oct 2025 11:25:18 GMT | Protecting Physical Assets Digitally with Managed Facilities Solutions | Trust Consulting Services | [Read More](https://medium.com/p/b054f5767c3e) |
-| Fri, 31 Oct 2025 11:24:14 GMT | iQOO 15 – The Next Generation AI Flagship Smartphone | TechMind Sphere | [Read More](https://medium.com/p/6333f2a778fc) |
-| Fri, 31 Oct 2025 11:22:59 GMT | Keep the CYBER Under Lock & Key | MuhammadAsim-GlobalProgressVolunteer | [Read More](https://medium.com/p/7d197a3db519) |
-| Fri, 31 Oct 2025 11:21:01 GMT | Expert Guide to Auditd Advanced Usage in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/c857955d92aa) |
-| Fri, 31 Oct 2025 11:14:58 GMT | Starting My eJPT Journey: A New Chapter in My Cybersecurity Path | Nawaf Alfawzan | [Read More](https://medium.com/p/c15a2c8e8f4b) |
