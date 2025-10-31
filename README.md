@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 17:31:59 GMT | The Silent Security Flaw in Your Python Scripts (And How to Fix It Before It’s Too Late) | Er.Muruganantham | [Read More](https://medium.com/p/1c432ec85f6a) |
+| Fri, 31 Oct 2025 17:24:56 GMT | The Eyes in the Signal: Why Your Phone Knows More Than You Think | Daniel Gagarin | [Read More](https://medium.com/p/885aae45fe5d) |
+| Fri, 31 Oct 2025 17:23:47 GMT | TryHackMe - Living Off the Land Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/343fc5958a66) |
+| Fri, 31 Oct 2025 17:18:50 GMT | Massive Data Breach at Conduent Exposes Over 10 Million Americans’ Personal Information | Muhammad Hassan Ali | [Read More](https://medium.com/p/69458d92ab37) |
+| Fri, 31 Oct 2025 17:18:31 GMT | Differential Privacy: How Your Data Gets Analyzed Without Revealing Who You Are | Mohannad A. Karim | [Read More](https://medium.com/p/abbbb03dc889) |
 | Fri, 31 Oct 2025 17:13:43 GMT | THE ILLUSION OF PRIVACY | If I Could Build A Home | [Read More](https://medium.com/p/42b8ba06c595) |
 | Fri, 31 Oct 2025 17:08:19 GMT | How AI Will Silence the Biggest Cybersecurity Threats by 2030 | Gopi Sri | [Read More](https://medium.com/p/e0a6c3b4b30f) |
 | Fri, 31 Oct 2025 17:08:02 GMT | From Zero to Hero: How to Build Cybersecurity Skills Without a Degree | Code Link | [Read More](https://medium.com/p/772ee5562c20) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 11:22:59 GMT | Keep the CYBER Under Lock & Key | MuhammadAsim-GlobalProgressVolunteer | [Read More](https://medium.com/p/7d197a3db519) |
 | Fri, 31 Oct 2025 11:21:01 GMT | Expert Guide to Auditd Advanced Usage in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/c857955d92aa) |
 | Fri, 31 Oct 2025 11:14:58 GMT | Starting My eJPT Journey: A New Chapter in My Cybersecurity Path | Nawaf Alfawzan | [Read More](https://medium.com/p/c15a2c8e8f4b) |
-| Fri, 31 Oct 2025 11:11:44 GMT | Portal E-Voucher & Promo Game 2025 — Top-up Cepat dan Aman | claudio jonathan | [Read More](https://medium.com/p/9cb6131f927f) |
-| Fri, 31 Oct 2025 11:09:17 GMT | When Design Systems Break — How to Realign Your Team & Restore Consistency | Dylan Deckard | [Read More](https://medium.com/p/dc1c97bf0cf0) |
-| Fri, 31 Oct 2025 11:01:56 GMT | What Enterprises Don’t Realize About AI Data Liability | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/078bdeb6c60c) |
-| Fri, 31 Oct 2025 11:00:09 GMT | Mobile App Pen Testing: Protecting Sensitive Data on User Devices | Secure My ORG | [Read More](https://medium.com/p/40ca67ee373a) |
-| Fri, 31 Oct 2025 10:59:04 GMT | Security and Performance Aspects of Security Hardening | Eren Cankut Uysal | [Read More](https://medium.com/p/b0a6007fe4c0) |
