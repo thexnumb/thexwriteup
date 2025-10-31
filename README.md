@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 05:10:37 GMT | Learning to Command Machines: My Deep Dive into Linux, SSH & System Control | Salimassili | [Read More](https://medium.com/p/eabe62be668c) |
+| Fri, 31 Oct 2025 05:05:13 GMT | The Pulse of the Digital Battlefield: Lessons from the Shadows | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/085a83809e52) |
+| Fri, 31 Oct 2025 04:49:05 GMT | Retro - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/c89069584782) |
+| Fri, 31 Oct 2025 04:48:37 GMT | If You Still Use Public Wi-Fi, Read This Before It’s Too Late | Arfa | [Read More](https://medium.com/p/a1ff5f71f014) |
 | Fri, 31 Oct 2025 04:39:59 GMT | CORS Explained: From Zero to Hero by Steps | Babek Naghiyev | [Read More](https://medium.com/p/b96352b3f250) |
+| Fri, 31 Oct 2025 04:37:17 GMT | What First-Time Sex Feels Like for Women - Real Stories & Expert Tips | Sara | [Read More](https://medium.com/p/5463fc788c5c) |
 | Fri, 31 Oct 2025 04:36:59 GMT | Editor HTB Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/c9e7ddc0c088) |
 | Fri, 31 Oct 2025 04:13:56 GMT | Mr Robot CTF - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/ea078204aa46) |
 | Fri, 31 Oct 2025 03:58:34 GMT | OneChain’s 9 Unique Strengths: Part 7 — Top-Tier Security: MPC + Decentralized Governance | OneChain | [Read More](https://medium.com/p/1af128f829e0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 17:29:24 GMT | Composing Detection: What Nolan & Zimmer Teach Us About Cyber Operations | ReZa AdineH | [Read More](https://medium.com/p/eeaa4f01b5be) |
 | Thu, 30 Oct 2025 17:21:48 GMT | Microsoft Power Platform: Empowering Everyone to Build Apps | Sandeepa Wimalasiri | [Read More](https://medium.com/p/33684d7f9875) |
 | Thu, 30 Oct 2025 17:19:41 GMT | Deep Shadow Wings: Powerful Web Recon — Simple, Fast, Effective | adce626 | [Read More](https://medium.com/p/305648621512) |
-| Thu, 30 Oct 2025 17:17:53 GMT | AI’s Dark Side: How Fake Invoices Became a Million-Dollar Threat | AI Rabbit | [Read More](https://medium.com/p/dd00a230dfd7) |
-| Thu, 30 Oct 2025 17:06:02 GMT | The $20,000 Robot That Isn’t Really a Robot: Inside the Neo Deception | Berend Watchus | [Read More](https://medium.com/p/87ec84cdf37d) |
-| Thu, 30 Oct 2025 17:05:54 GMT | I Thought Domain and SSL Were Boring | satyaranjan bal | [Read More](https://medium.com/p/247f734d1969) |
-| Thu, 30 Oct 2025 16:58:33 GMT | New Chromium Blink Flaw Can Crash Browsers in Seconds | Chetan Seripally | [Read More](https://medium.com/p/a0496fe388c2) |
-| Thu, 30 Oct 2025 16:53:53 GMT | USBferry, Tropic Trooper, and ATT&CK: A Practical CTI Exercise | Citadel Cybersec | [Read More](https://medium.com/p/3fda0630bea0) |
