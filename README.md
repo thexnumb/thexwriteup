@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 14:33:25 GMT | The Windows Forensic Journey — Icon Cache (IconCache.db) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f81db7e4b458) |
+| Fri, 31 Oct 2025 14:27:45 GMT | Terra Dotta Exposed Unencrypted Passwords: A Major Security Oversight in Higher Ed Tech | Austin Miller | [Read More](https://medium.com/p/a6461207b220) |
+| Fri, 31 Oct 2025 14:24:45 GMT | The Strategic Role of MSPs in Cybersecurity: What Business Leaders Need to Know in 2025 | Donald Betancourt | [Read More](https://medium.com/p/94468a43e003) |
 | Fri, 31 Oct 2025 14:18:34 GMT | HTTP Methods: The Core of Web Communication | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/33c28c826850) |
 | Fri, 31 Oct 2025 14:14:54 GMT | The Hidden Power of Your Wrist: How Wearable Smart Watches Are Taking Control of Your Life | Ampaire Elijah Evans | [Read More](https://medium.com/p/43aa64aec0e7) |
 | Fri, 31 Oct 2025 14:07:34 GMT | Is Programming needed in Cybersecurity ? | lukewago | [Read More](https://medium.com/p/92829f4d2437) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 09:55:01 GMT | Sublime Just Got Even Smarter: Automatic Calendar Event Deletion Is Here | Dean | [Read More](https://medium.com/p/14ad4e548578) |
 | Fri, 31 Oct 2025 09:50:27 GMT | Cyber Security: The Evolution of Malware | Cyber Security Research | [Read More](https://medium.com/p/053eb118db18) |
 | Fri, 31 Oct 2025 09:50:20 GMT | Why We Need More Cybersecurity Experts and How to Fix the Shortage | CCoe | [Read More](https://medium.com/p/db2c40c3084c) |
-| Fri, 31 Oct 2025 09:49:21 GMT | Telecoms vs. Cyber: Whose Guard is Down Now? | Truspex | [Read More](https://medium.com/p/d847f499d74e) |
-| Fri, 31 Oct 2025 09:48:06 GMT | The Final Flame: Lighting the Path Forward | Aysha Misri | [Read More](https://medium.com/p/be516d6ce8dd) |
-| Fri, 31 Oct 2025 09:43:07 GMT | Lethal Mind Traps: Cognitive Errors in Cybersecurity | CCoe | [Read More](https://medium.com/p/3ae8f127a63b) |
