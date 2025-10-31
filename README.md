@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 21:22:04 GMT | The Paradox of Women Demanding Vulnerability in Men Only to Get the Ick | Tee Mugayi | [Read More](https://medium.com/p/ecc2d8179a02) |
+| Fri, 31 Oct 2025 21:17:49 GMT | How Private-Hackers Protect What Matters: Ethical Digital Investigations for Today’s Risks. | Private-hackers.com | [Read More](https://medium.com/p/e3c741d59b49) |
 | Fri, 31 Oct 2025 20:53:37 GMT | 09032543127 | Mona09032543127 | [Read More](https://medium.com/p/f8b3bec37747) |
 | Fri, 31 Oct 2025 20:51:52 GMT | The End of Cybersecurity? | Cyber-AppSec | [Read More](https://medium.com/p/0f9271581b31) |
 | Fri, 31 Oct 2025 20:51:19 GMT | The IT Horror Stories That Keep Admins Up at Night (And How to Survive Them) | NAKIVO | [Read More](https://medium.com/p/eef1a7057c8e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 13:10:18 GMT | Historic Great Firewall Breach — 500GB+ Censorship Data Exposed | Technijian | [Read More](https://medium.com/p/203e413923a6) |
 | Fri, 31 Oct 2025 13:09:59 GMT | Investigating with Splunk - Complete TryHackMe Walkthrough | Rahul B | [Read More](https://medium.com/p/18bdcf10b18a) |
 | Fri, 31 Oct 2025 13:01:58 GMT | SOC 2 vs. ISO 27001: Which Matters More for Legal Practices and Building Client Trust | Josh Lee | [Read More](https://medium.com/p/5d8d62033eb0) |
-| Fri, 31 Oct 2025 13:01:56 GMT | Don’t Get Hacked! 7 Security Essentials for Spatie Roles & Permissions in Laravel | Coder Manjeet | [Read More](https://medium.com/p/9fa21c8b4ac5) |
-| Fri, 31 Oct 2025 13:01:54 GMT | Android Infostealer (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/0a66f1392a9d) |
