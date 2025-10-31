@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 09:26:16 GMT | How Threat Intelligence Solutions Protect Your Business from Cyber Threats | NewEvol | [Read More](https://medium.com/p/a430656309fb) |
+| Fri, 31 Oct 2025 09:23:04 GMT | [HackTheBox x VulnLab Write-up] Slonik (NFS Share, PostgresSQL, Backup Script) | Chicken0248 | [Read More](https://medium.com/p/906664eb1912) |
+| Fri, 31 Oct 2025 09:20:18 GMT | [HackTheBox x VulnLab Write-up] Forgotten (Limesurvey RCE, docker shared directory) | Chicken0248 | [Read More](https://medium.com/p/2a96e4d4ce44) |
+| Fri, 31 Oct 2025 09:19:55 GMT | [HackTheBox x VulnLab Write-up] RetroTwo (Exploting AD of Windows 2008, Pre2K, GenericWrite… | Chicken0248 | [Read More](https://medium.com/p/bf0f260833c0) |
+| Fri, 31 Oct 2025 09:11:01 GMT | Hollywood Now Controls the World’s Most Dangerous Spyware | Rockefeller Kennedy | [Read More](https://medium.com/p/2ab410f70bf1) |
 | Fri, 31 Oct 2025 09:10:36 GMT | Digital Lies, Real Receipts: How Non-Repudiation and Accountability Keep Us Honest Online | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/f07ec005e379) |
 | Fri, 31 Oct 2025 09:09:58 GMT | Information Dominance: The Hidden Front of Modern Conflict | Peter Durang | [Read More](https://medium.com/p/72ceb309f695) |
 | Fri, 31 Oct 2025 09:08:49 GMT | Deception Techniques That Actually Work: Turning Intruders into Telemetry | UK Cyber Defence | [Read More](https://medium.com/p/af823ff2b957) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 00:51:36 GMT | Security Operations with Elasticsearch MCP and Security Onion | uhtavi0 | [Read More](https://medium.com/p/26c3819bebd6) |
 | Fri, 31 Oct 2025 00:45:04 GMT | Azure Entra ID: The Next Security Battleground for Enterprises is on the Cloud | Yua Mikanana | [Read More](https://medium.com/p/787d32a230f6) |
 | Fri, 31 Oct 2025 00:17:45 GMT | 5 Best Go Libraries for Uploading Files to MinIO (Without Losing Your Mind) | James Miller | [Read More](https://medium.com/p/afce38dcd978) |
-| Fri, 31 Oct 2025 00:02:08 GMT | Guía Completa de RustScan: Escaneo de Puertos Ultrarrápido | JPablo13 | [Read More](https://medium.com/p/da6ab7b7fed7) |
-| Thu, 30 Oct 2025 23:50:58 GMT | Modern Penetration Testing in 2025: A Complete Technical and Ethical Guide for Security Engineers | Abdelaziz moustakim | [Read More](https://medium.com/p/7dec7285e023) |
-| Thu, 30 Oct 2025 23:50:08 GMT | Phone Privacy and Forensics | Raviteja Mureboina | [Read More](https://medium.com/p/15885ef2dff1) |
-| Thu, 30 Oct 2025 23:44:01 GMT | Using HashiCorp Vault with Keycloak for Dynamic Database Credentials in .NET | Vitor Gomes | [Read More](https://medium.com/p/b66321905865) |
-| Thu, 30 Oct 2025 23:28:20 GMT | eJPT Prep - Assessment Methodologies: Information Gathering CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/5b7add24f311) |
