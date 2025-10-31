@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 19:04:09 GMT | When Central Banks Become the Target: Black Swan Lessons for a Fragile Digital Economy | Farhad Kabir | [Read More](https://medium.com/p/c5ae1b7ebf9f) |
+| Fri, 31 Oct 2025 19:02:03 GMT | Data Security in Snowflake | Pierre-Mickaël Chancrin | [Read More](https://medium.com/p/fc786cb5652f) |
+| Fri, 31 Oct 2025 19:02:03 GMT | The Year We Stopped Pretending: How Yash and Harshali Built Love From Shared Silence | Yash Patil | [Read More](https://medium.com/p/3cf5043ef38e) |
+| Fri, 31 Oct 2025 18:49:43 GMT | Comet Browser under the microscope: What you need to know about data protection with the Comet… | Cordula Boeck | [Read More](https://medium.com/p/22f716ff3a65) |
+| Fri, 31 Oct 2025 18:49:33 GMT | XXE: The XML External Entity Threat and Secure Parsing Code ️ | Esra Kayhan | [Read More](https://medium.com/p/31a8071d4a97) |
+| Fri, 31 Oct 2025 18:49:15 GMT | Artificial  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/741fb0f80015) |
+| Fri, 31 Oct 2025 18:41:32 GMT | Breaking Access-Control on Multi-Tenant Applications (Real world attacks explained) | seks99x | [Read More](https://medium.com/p/3c487e7db924) |
+| Fri, 31 Oct 2025 18:39:11 GMT | How I Found a Hidden Data Leak and Won a Bounty — The Practical Guide to Detecting Data… | Zoningxtr | [Read More](https://medium.com/p/fafba9fc6266) |
+| Fri, 31 Oct 2025 18:24:30 GMT | Friday Rant | ITinto Blog - Alessandro Tinivelli | [Read More](https://medium.com/p/1ab711534334) |
 | Fri, 31 Oct 2025 18:13:37 GMT | Reality Is Medicated. | KL Wilks- Views From the Weave | [Read More](https://medium.com/p/5e3d01434d81) |
 | Fri, 31 Oct 2025 18:03:26 GMT | Behind the Breach Series: Anti-forensics Case Study | Dorathy Christopher | [Read More](https://medium.com/p/699dad62d5a4) |
 | Fri, 31 Oct 2025 18:01:57 GMT | The Boring Path to Web Security: CSPs That Stick | Modexa | [Read More](https://medium.com/p/fa5fd41a1b2f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 12:11:47 GMT | Chrome Zero Day Linked to New Hacking Team Spyware | Faraz Weerabangsa | [Read More](https://medium.com/p/d6f3f777ffc0) |
 | Fri, 31 Oct 2025 12:10:54 GMT | Brute Force vs. Reality: What My “Bitcoin Brute Force” Really Shows | Asylian21 | [Read More](https://medium.com/p/67872323d6bf) |
 | Fri, 31 Oct 2025 12:06:41 GMT | Global Permissions and Organization-Level Security Settings | Erdem UÇAK | [Read More](https://medium.com/p/de0c17ca41ea) |
-| Fri, 31 Oct 2025 12:01:54 GMT | OSINT Weekly Review 2025.44 | OSINT Amy | [Read More](https://medium.com/p/1e2dce76acb1) |
-| Fri, 31 Oct 2025 11:58:56 GMT | wearing my heart on my sleeve | yang | [Read More](https://medium.com/p/66ba45fa52ae) |
-| Fri, 31 Oct 2025 11:58:24 GMT | The Linux Security Architect | LinuxDev | [Read More](https://medium.com/p/e9f1f4da55c9) |
-| Fri, 31 Oct 2025 11:54:57 GMT | ✨✨ bugfly in too much energy | Heron | [Read More](https://medium.com/p/b2e4a1d428d0) |
-| Fri, 31 Oct 2025 11:48:24 GMT | WannaCry как зеркало эпохи: вирус, который показал, что мир зависим от себя | Kartel & Kofe | [Read More](https://medium.com/p/ad6bcfdba7f6) |
-| Fri, 31 Oct 2025 11:46:53 GMT | Understanding the Cyber Kill Chain-How Cyber Attacks Unfold | Huseyn Eyvazov | [Read More](https://medium.com/p/42f3e3c68e3d) |
-| Fri, 31 Oct 2025 11:41:42 GMT | Hackers Don’t Need Malware — Just Your Email Inbox | Balaji | [Read More](https://medium.com/p/2188276e0f74) |
-| Fri, 31 Oct 2025 11:41:26 GMT | Network Security Beyond Firewalls: DHCP Attacks, IDS/IPS Evasion | Huseyn Eyvazov | [Read More](https://medium.com/p/87686f200cf6) |
-| Fri, 31 Oct 2025 11:40:57 GMT | Why I Do What I Do: Security, Manufacturing, and the Backbone of Britain | Luke Appleby | [Read More](https://medium.com/p/f668d7f24ad8) |
