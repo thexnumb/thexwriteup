@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 08:42:46 GMT | Old vs. New Firewall: What’s Really Changed in Network Security | Devarshi Acharya | [Read More](https://medium.com/p/6a3a345bf22c) |
+| Fri, 31 Oct 2025 08:35:05 GMT | DEADFACE 2025 PWN All Challs | Zeyad Salah | [Read More](https://medium.com/p/6bcbac5c7dff) |
+| Fri, 31 Oct 2025 08:34:09 GMT | Bandit OverTheWire writeup — Level 3 → Level 4 | Dawid Kowalski | [Read More](https://medium.com/p/da149982b162) |
+| Fri, 31 Oct 2025 08:22:45 GMT | What Game Developers Can Learn from No Man’s Sky’s Agile Makeover | Siyam | [Read More](https://medium.com/p/27fb0fb0b9d3) |
+| Fri, 31 Oct 2025 08:20:34 GMT | Policies: The Rulebook You Didn’t Know You Were Following | Aisha Majeed | [Read More](https://medium.com/p/2e1622374bdf) |
+| Fri, 31 Oct 2025 08:16:10 GMT | HackTheBox — Expressway | Anonhacker | [Read More](https://medium.com/p/2881f8480489) |
 | Fri, 31 Oct 2025 08:06:51 GMT | Sideline Scruples: Watching Athletes and Vendors Gamble with Someone Else’s Money | Namir Sagheenanajar | [Read More](https://medium.com/p/537529381e7f) |
 | Fri, 31 Oct 2025 08:04:25 GMT | Why VPNs Are Not the Magic Security Shield You Think | Deepak Sharma | [Read More](https://medium.com/p/edb32e1ba102) |
 | Fri, 31 Oct 2025 08:02:46 GMT | Don’t Let Your Node.js App Get Haunted: The Horror of Prototype Pollution | Serhii Malyshev | [Read More](https://medium.com/p/73d00b3cd08c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 21:52:05 GMT | Building a DNS Command Execution | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8df7a4ab5b43) |
 | Thu, 30 Oct 2025 21:49:42 GMT | ⚠️Snap. Share. Leak? The Hidden Dangers of Pixnapping | Alsabah Afshi | [Read More](https://medium.com/p/14129f1ab0f0) |
 | Thu, 30 Oct 2025 21:42:30 GMT | [Auth] How to use Zoho as an OIDC for gitea | Sarvsav Sharma | [Read More](https://medium.com/p/ed77efd8a58e) |
-| Thu, 30 Oct 2025 21:30:53 GMT | Per-request isolation in TinyKVM explained | fwsGonzo | [Read More](https://medium.com/p/080e84328ba4) |
-| Thu, 30 Oct 2025 21:19:12 GMT | The Weirdest Thing I Learned While Talking to GPT | Global Whirl of Wonders | [Read More](https://medium.com/p/ccf1589dffb1) |
-| Thu, 30 Oct 2025 21:18:41 GMT | AI in Cybersecurity | Cyber-AppSec | [Read More](https://medium.com/p/d96ec66c3b13) |
-| Thu, 30 Oct 2025 21:17:05 GMT | Hacking APIs: HTTP Parameter Pollution | Israel Aráoz Severiche | [Read More](https://medium.com/p/fba389e55ada) |
-| Thu, 30 Oct 2025 21:16:09 GMT | Hardware-Level Cryptography with Intel SGX: Securing the Untrusted World | Bervice | [Read More](https://medium.com/p/2e6f571b6c15) |
-| Thu, 30 Oct 2025 21:13:31 GMT | Designing a Real-World SOC & EDR Automation Using Wazuh, Shuffle SOAR, and IRIS (Part-1) | Henil Gandhi | [Read More](https://medium.com/p/cbb7beda7451) |
