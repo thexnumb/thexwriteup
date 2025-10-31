@@ -12,12 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 00:51:36 GMT | Security Operations with Elasticsearch MCP and Security Onion | uhtavi0 | [Read More](https://medium.com/p/26c3819bebd6) |
+| Fri, 31 Oct 2025 00:45:04 GMT | Azure Entra ID: The Next Security Battleground for Enterprises is on the Cloud | Yua Mikanana | [Read More](https://medium.com/p/787d32a230f6) |
+| Fri, 31 Oct 2025 00:17:45 GMT | 5 Best Go Libraries for Uploading Files to MinIO (Without Losing Your Mind) | James Miller | [Read More](https://medium.com/p/afce38dcd978) |
+| Thu, 30 Oct 2025 23:50:58 GMT | Modern Penetration Testing in 2025: A Complete Technical and Ethical Guide for Security Engineers | Abdelaziz moustakim | [Read More](https://medium.com/p/7dec7285e023) |
+| Thu, 30 Oct 2025 23:50:08 GMT | Phone Privacy and Forensics | Raviteja Mureboina | [Read More](https://medium.com/p/15885ef2dff1) |
+| Thu, 30 Oct 2025 23:44:01 GMT | Using HashiCorp Vault with Keycloak for Dynamic Database Credentials in .NET | Vitor Gomes | [Read More](https://medium.com/p/b66321905865) |
 | Thu, 30 Oct 2025 23:28:20 GMT | eJPT Prep - Assessment Methodologies: Information Gathering CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/5b7add24f311) |
 | Thu, 30 Oct 2025 23:26:23 GMT | Hidden Secrets of the Dark Web You Should Know in 2025 | Musayyab Shah | [Read More](https://medium.com/p/0230c5f5518d) |
 | Thu, 30 Oct 2025 23:14:30 GMT | Brooklyn Nine Nine-Try_H4ck_M3-Walk-through… | Rokzcy Excellence | [Read More](https://medium.com/p/f0a183c508e9) |
 | Thu, 30 Oct 2025 23:11:48 GMT | From Endless Decks to Decision POCs: A Smarter Way to Make Big Tech Bets | Jen Anderson, PhD | [Read More](https://medium.com/p/7a9e3181c93b) |
 | Thu, 30 Oct 2025 23:07:31 GMT | The Future of AI in Enterprise | Jen Anderson, PhD | [Read More](https://medium.com/p/1126d5b6ee97) |
 | Thu, 30 Oct 2025 22:58:56 GMT | Malwarebytes Premium Lifetime | novadigital21 | [Read More](https://medium.com/p/3df6d0c86516) |
+| Thu, 30 Oct 2025 22:41:32 GMT | Deep Dive: Fuel CMS 1.4.1 RCE Exploitation (CVE-2018–16763) | Yen Wang | [Read More](https://medium.com/p/8083c9b090ae) |
 | Thu, 30 Oct 2025 22:41:16 GMT | Shadow AI: Risk and Governance | Pranjali Karve | [Read More](https://medium.com/p/7db79f70474c) |
 | Thu, 30 Oct 2025 22:27:37 GMT | Sysco Walkthrough | IK4R0S-SEC | [Read More](https://medium.com/p/375b04112fdc) |
 | Thu, 30 Oct 2025 22:26:12 GMT | Building My Own Private Offline AI Server | Hirad Showghi | [Read More](https://medium.com/p/735adf00f12d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 14:55:17 GMT | ️ Cyber Confidence: How to Talk, Teach, and Lead Safety | Aysha Misri | [Read More](https://medium.com/p/dee6a42cb39d) |
 | Thu, 30 Oct 2025 14:53:28 GMT | “The $1,000 Image Upload That Could Have Hacked Thousands of Users” | Aman Sharma | [Read More](https://medium.com/p/a650f736e7cf) |
 | Thu, 30 Oct 2025 14:50:04 GMT | unauthorized authentication to enterprise infrastructure that used by Oppo alibaba$$.. | Bx1 | [Read More](https://medium.com/p/236dd9e53652) |
-| Thu, 30 Oct 2025 14:46:51 GMT | Ignite writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/1b376f0418e8) |
-| Thu, 30 Oct 2025 14:46:22 GMT | From Laggy to Lightning Fast: My 2-Second OutSystems Optimization Story | Akshay Deshpande | [Read More](https://medium.com/p/dbbd00917853) |
-| Thu, 30 Oct 2025 14:45:26 GMT | Cybersecurity Heroes You Meet in Every Major Breach ( And Why One Call Saves the Company ) | Dhanush N | [Read More](https://medium.com/p/86a116cabe37) |
-| Thu, 30 Oct 2025 14:33:21 GMT | Experimenting with Approval Bypass (and more) in GitLab | Samuel LE GOFF | [Read More](https://medium.com/p/06a85c554fb5) |
-| Thu, 30 Oct 2025 14:28:38 GMT | Vulnhub HA: Natraj Walkthrough | cyber pancake | [Read More](https://medium.com/p/14db2d148d41) |
-| Thu, 30 Oct 2025 14:18:26 GMT | The SecOps Group — Certified Active Directory Pentesting eXpert (C-ADPenXv2) - October 2025 | Hadid B | [Read More](https://medium.com/p/912c5c97f510) |
-| Thu, 30 Oct 2025 14:16:27 GMT | Security and Compliance for Agentic AI Solutions | Amit kumar | [Read More](https://medium.com/p/c91867fc9dff) |
