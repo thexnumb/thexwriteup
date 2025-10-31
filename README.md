@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 19:24:03 GMT | Secure Your Internal Conversations: Why Your Intranet Needs a Self-Hosted Video Platform | Jibon Costa | [Read More](https://medium.com/p/6cdffecee771) |
+| Fri, 31 Oct 2025 19:22:39 GMT | Why Learning Networking First Makes You a Better Cybersecurity Professional | Haider Ali | [Read More](https://medium.com/p/c1b63590cce7) |
+| Fri, 31 Oct 2025 19:08:14 GMT | Setting Up SSL in Information System with HashiCorp Vault via the CLI | Umair | [Read More](https://medium.com/p/7d5e9a12897e) |
 | Fri, 31 Oct 2025 19:04:09 GMT | When Central Banks Become the Target: Black Swan Lessons for a Fragile Digital Economy | Farhad Kabir | [Read More](https://medium.com/p/c5ae1b7ebf9f) |
 | Fri, 31 Oct 2025 19:02:03 GMT | Data Security in Snowflake | Pierre-Mickaël Chancrin | [Read More](https://medium.com/p/fc786cb5652f) |
 | Fri, 31 Oct 2025 19:02:03 GMT | The Year We Stopped Pretending: How Yash and Harshali Built Love From Shared Silence | Yash Patil | [Read More](https://medium.com/p/3cf5043ef38e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 12:16:03 GMT | Detect and Response With Gen-AI | Aufarifqi | [Read More](https://medium.com/p/62711cf80565) |
 | Fri, 31 Oct 2025 12:13:18 GMT | Orkla OSINT Challenge: Dragon Con Detective Writeup | Alexander Sapo | [Read More](https://medium.com/p/256d7e4d6359) |
 | Fri, 31 Oct 2025 12:11:57 GMT | How I Uncover Hidden Vulnerabilities With Simple Recon | Ibtissam | [Read More](https://medium.com/p/f3cd5a2a91f2) |
-| Fri, 31 Oct 2025 12:11:47 GMT | Chrome Zero Day Linked to New Hacking Team Spyware | Faraz Weerabangsa | [Read More](https://medium.com/p/d6f3f777ffc0) |
-| Fri, 31 Oct 2025 12:10:54 GMT | Brute Force vs. Reality: What My “Bitcoin Brute Force” Really Shows | Asylian21 | [Read More](https://medium.com/p/67872323d6bf) |
-| Fri, 31 Oct 2025 12:06:41 GMT | Global Permissions and Organization-Level Security Settings | Erdem UÇAK | [Read More](https://medium.com/p/de0c17ca41ea) |
