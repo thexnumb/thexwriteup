@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 13:24:22 GMT | Cyber Security Course in Hyderabad | Molletibalu | [Read More](https://medium.com/p/d38390174de3) |
+| Fri, 31 Oct 2025 13:21:28 GMT | The MCP Security Crisis: | David Aaron Rivkin | [Read More](https://medium.com/p/50ca41152dfa) |
+| Fri, 31 Oct 2025 13:19:34 GMT | IT Yönetişimi ile IT Hizmet Yönetimi Arasındaki Fark: COBIT ve ITIL | Özge Gül | [Read More](https://medium.com/p/249af7eaacfa) |
+| Fri, 31 Oct 2025 13:13:49 GMT | Disarming Content Phishing Before It Reaches Your Customers | Ai Writter Tools | [Read More](https://medium.com/p/43a88edd908a) |
+| Fri, 31 Oct 2025 13:10:18 GMT | Historic Great Firewall Breach — 500GB+ Censorship Data Exposed | Technijian | [Read More](https://medium.com/p/203e413923a6) |
+| Fri, 31 Oct 2025 13:09:59 GMT | Investigating with Splunk - Complete TryHackMe Walkthrough | Rahul B | [Read More](https://medium.com/p/18bdcf10b18a) |
+| Fri, 31 Oct 2025 13:01:58 GMT | SOC 2 vs. ISO 27001: Which Matters More for Legal Practices and Building Client Trust | Josh Lee | [Read More](https://medium.com/p/5d8d62033eb0) |
+| Fri, 31 Oct 2025 13:01:56 GMT | Don’t Get Hacked! 7 Security Essentials for Spatie Roles & Permissions in Laravel | Coder Manjeet | [Read More](https://medium.com/p/9fa21c8b4ac5) |
+| Fri, 31 Oct 2025 13:01:54 GMT | Android Infostealer (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/0a66f1392a9d) |
+| Fri, 31 Oct 2025 13:01:33 GMT | How AI Is Shaping Everyday Life Without Us Noticing Your day probably starts with an alarm on your… | Awarbakht | [Read More](https://medium.com/p/c918d86fd108) |
+| Fri, 31 Oct 2025 12:59:24 GMT | Benefits and Challenges of a Trust Center: Balancing Transparency with Security | Akitra | [Read More](https://medium.com/p/779013b44f7a) |
+| Fri, 31 Oct 2025 12:58:05 GMT | Airdrop Zararlı Yazılım Analizi | Recep Emir | [Read More](https://medium.com/p/ccbdf3fa1e9d) |
+| Fri, 31 Oct 2025 12:56:51 GMT | Agent Sudo writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/d650f295474d) |
+| Fri, 31 Oct 2025 12:55:19 GMT | DNS – İnternet’in Adres Defteri | Enes Berk Yetim | [Read More](https://medium.com/p/ed8dde2930a6) |
+| Fri, 31 Oct 2025 12:53:40 GMT | How to Safeguard Your Investments from Scams - Sawaal Karo - World Investor Week 2025 | Kshitijm | [Read More](https://medium.com/p/1a7075316a5f) |
+| Fri, 31 Oct 2025 12:37:20 GMT | La Cybersécurité en 2025 : Au-Delà des Pare-feu et des Mots de Passe | Limeryem | [Read More](https://medium.com/p/092fb1151da0) |
+| Fri, 31 Oct 2025 12:36:51 GMT | How to Lock a Door from Both Sides: Secure Locking Solutions Explained | Sure Lock & Key LLC | [Read More](https://medium.com/p/617ca7f906b8) |
 | Fri, 31 Oct 2025 12:33:43 GMT | Cyberdefenders 3CX Supply Chain Lab Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/5a6940da7ee8) |
 | Fri, 31 Oct 2025 12:27:05 GMT | Exploitation Escalates: Top Cyber Threats This Week | Loginsoft | [Read More](https://medium.com/p/40ed8e258464) |
 | Fri, 31 Oct 2025 12:17:06 GMT | Blockchain for Secure Digital Identity & KYC — Reducing Fraud with Tamper-Proof IDs | Malavikasajeev | [Read More](https://medium.com/p/d25eaec225cc) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 09:10:36 GMT | Digital Lies, Real Receipts: How Non-Repudiation and Accountability Keep Us Honest Online | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/f07ec005e379) |
 | Fri, 31 Oct 2025 09:09:58 GMT | Information Dominance: The Hidden Front of Modern Conflict | Peter Durang | [Read More](https://medium.com/p/72ceb309f695) |
 | Fri, 31 Oct 2025 09:08:49 GMT | Deception Techniques That Actually Work: Turning Intruders into Telemetry | UK Cyber Defence | [Read More](https://medium.com/p/af823ff2b957) |
-| Fri, 31 Oct 2025 09:08:06 GMT | The day LibreWolf update exposed a hidden Trojan(and my brother’s Digital Crimes) | orze4r | [Read More](https://medium.com/p/af0d7ebe2d6b) |
-| Fri, 31 Oct 2025 09:06:07 GMT | Threat Hunting with Deception Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/4f56d902d026) |
-| Fri, 31 Oct 2025 09:03:54 GMT | Bandit OverTheWire writeup — Level 5→ Level 6 | Dawid Kowalski | [Read More](https://medium.com/p/4b19ad792e16) |
-| Fri, 31 Oct 2025 09:00:43 GMT | The New Cyber Guardians: Studying Security in the Age of AI | Hristo Hristov | [Read More](https://medium.com/p/c854f6fc2e84) |
-| Fri, 31 Oct 2025 09:00:42 GMT | Handling Base64 Encoded Data in Kubernetes Secrets | Anh Trần Tuấn | [Read More](https://medium.com/p/77df09e6039d) |
-| Fri, 31 Oct 2025 09:00:41 GMT | Handling Base64 Encoded Data in Kubernetes Secrets | Anh Trần Tuấn | [Read More](https://medium.com/p/56aa00cf13c9) |
-| Fri, 31 Oct 2025 09:00:00 GMT | Bandit OverTheWire writeup — Level 4 → Level 5 | Dawid Kowalski | [Read More](https://medium.com/p/c24fab6d8406) |
-| Fri, 31 Oct 2025 08:58:23 GMT | Basics of Windows Security — What you need to know as a Ethical Hacker | Indigo Shadow | [Read More](https://medium.com/p/aad460036dcd) |
-| Fri, 31 Oct 2025 08:57:34 GMT | The Ethical Dilemma of AI (From the Systems Perspective) | The Diary Of a Data Professional | [Read More](https://medium.com/p/e9db949545dc) |
-| Fri, 31 Oct 2025 08:56:48 GMT | IAM Basics | Anuja Pawar | [Read More](https://medium.com/p/268efdf0be9b) |
-| Fri, 31 Oct 2025 08:56:03 GMT | Metasploit Introduction — Writeup | Mahir | [Read More](https://medium.com/p/08bf8780f2d9) |
-| Fri, 31 Oct 2025 08:42:46 GMT | Old vs. New Firewall: What’s Really Changed in Network Security | Devarshi Acharya | [Read More](https://medium.com/p/6a3a345bf22c) |
-| Fri, 31 Oct 2025 08:35:05 GMT | DEADFACE 2025 PWN All Challs | Zeyad Salah | [Read More](https://medium.com/p/6bcbac5c7dff) |
-| Fri, 31 Oct 2025 08:34:09 GMT | Bandit OverTheWire writeup — Level 3 → Level 4 | Dawid Kowalski | [Read More](https://medium.com/p/da149982b162) |
-| Fri, 31 Oct 2025 08:22:45 GMT | What Game Developers Can Learn from No Man’s Sky’s Agile Makeover | Siyam | [Read More](https://medium.com/p/27fb0fb0b9d3) |
-| Fri, 31 Oct 2025 08:20:34 GMT | Policies: The Rulebook You Didn’t Know You Were Following | Aisha Majeed | [Read More](https://medium.com/p/2e1622374bdf) |
-| Fri, 31 Oct 2025 08:16:10 GMT | HackTheBox — Expressway | Anonhacker | [Read More](https://medium.com/p/2881f8480489) |
