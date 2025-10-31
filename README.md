@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 06:24:57 GMT | How to securely delete (zeroize) a Ruby String | Anton Prudkohliad | [Read More](https://medium.com/p/bc58b0d9e5a3) |
+| Fri, 31 Oct 2025 06:23:24 GMT | Why Your Cybersecurity Website Sidebar Is Costing You Clients (And How to Fix It) | Ambreenbasit | [Read More](https://medium.com/p/9b278e5173dd) |
+| Fri, 31 Oct 2025 06:22:32 GMT | Tren Teknologi Informasi yang Mengubah Dunia Kita | Fatin Sulistiawati | [Read More](https://medium.com/p/94c51e8c1cc2) |
+| Fri, 31 Oct 2025 06:21:32 GMT | GLIBC allocators made simple | Zeyad Salah | [Read More](https://medium.com/p/98403d2a90c5) |
+| Fri, 31 Oct 2025 06:13:35 GMT | Why Managed Hosting Is Worth It (Even on a Budget)? | Ann Taylor | [Read More](https://medium.com/p/21366f590ab0) |
+| Fri, 31 Oct 2025 06:10:29 GMT | How Android’s AI Blocks 10 Billion Attacks Every Month | Tech Journal | [Read More](https://medium.com/p/7a3e370f92f9) |
+| Fri, 31 Oct 2025 05:53:30 GMT | Behind the Browser: Deconstructing HTTP Requests and Headers. | Jei Ess | [Read More](https://medium.com/p/18e76889b3dc) |
+| Fri, 31 Oct 2025 05:52:12 GMT | From Code to Thread: Why IT Professionals Are Finding New Opportunities in Embroidery business? | Amsaraj Sscreations | [Read More](https://medium.com/p/551bf8999677) |
+| Fri, 31 Oct 2025 05:51:03 GMT | My Web Application Penetration Testing SOP — A Practical, Ethical Approach | Red Evil | [Read More](https://medium.com/p/38a1a7b91a8a) |
+| Fri, 31 Oct 2025 05:50:10 GMT | MCP and Agentic AI: Old Problems in a New Wrapper | Rubab Fatima | [Read More](https://medium.com/p/55923c4e22f7) |
+| Fri, 31 Oct 2025 05:40:56 GMT | At Rock Bottom, I Found My Way Back To Cybersecurity | CosmicByte | [Read More](https://medium.com/p/4068aed6bb34) |
+| Fri, 31 Oct 2025 05:40:04 GMT | FORTIGATE GEÇİŞİ 01.06 VPN (SSL & IPSec) | Ziya DENİZ | [Read More](https://medium.com/p/03031de86ac8) |
+| Fri, 31 Oct 2025 05:39:07 GMT | Secure Your Job with the Best AI-Powered Cybersecurity Certification | sneha gaikwad | [Read More](https://medium.com/p/638639f7a370) |
+| Fri, 31 Oct 2025 05:37:30 GMT | Is MBA in Information Technology Worth It in 2025? | SICSR Pune | [Read More](https://medium.com/p/116633bc0547) |
 | Fri, 31 Oct 2025 05:26:39 GMT | The Daily Tech Digest: 31 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/4db833b266cf) |
 | Fri, 31 Oct 2025 05:23:26 GMT | Web Application Discovery and Mapping | N0H4TS | [Read More](https://medium.com/p/144c8257e72b) |
 | Fri, 31 Oct 2025 05:20:35 GMT | Newdich Technology is a Software Engineering and Tech firm that focuses on building secure and… | Newdich Technology | [Read More](https://medium.com/p/9da6880204a8) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 18:42:55 GMT | The Green Padlock Worth Billions: Inside HTTPS and SSL Certificates | Ashutosh Jha | [Read More](https://medium.com/p/fecb0079e6b4) |
 | Thu, 30 Oct 2025 18:36:30 GMT | TryHackMe - Elevating Movement - WriteUp | Axoloth | [Read More](https://medium.com/p/017e0fa0dd96) |
 | Thu, 30 Oct 2025 18:35:40 GMT | Siber güvenlikte öğrenme döngüsüne girdim ne yapmalıyım? | Huseyin KALKAN | [Read More](https://medium.com/p/4c76ab5299a4) |
-| Thu, 30 Oct 2025 18:32:00 GMT | NukeTheBrowser (Cyberdefenders) | FeCeSociety | [Read More](https://medium.com/p/9fcd85e1dcf1) |
-| Thu, 30 Oct 2025 18:26:52 GMT | The Ledger That Never Lies | TD | [Read More](https://medium.com/p/8b9fdd0096d0) |
-| Thu, 30 Oct 2025 18:25:11 GMT | The Email “+alias” Trick That Exposes Data Sellers — And Why You Should Start Using It Today | H2bm | [Read More](https://medium.com/p/32df55800aa3) |
-| Thu, 30 Oct 2025 18:23:02 GMT | AI as Artists and Music Makers: Entering the Creative Side | Kalash Harchandani | [Read More](https://medium.com/p/fad189e25344) |
-| Thu, 30 Oct 2025 18:13:50 GMT | Ukraine’s Cyber Forces: From Digital Chaos to Strategic Command Center | CCD-IS | [Read More](https://medium.com/p/e866b5b3e4c9) |
-| Thu, 30 Oct 2025 17:59:21 GMT | Why Linux Is Non-Negotiable for Security Beginners | Khaled M. | [Read More](https://medium.com/p/3092f7aa7b98) |
-| Thu, 30 Oct 2025 17:57:20 GMT | Types of Attacks in Cyber-Systems | Ali Naghiyev | [Read More](https://medium.com/p/cb92765bfa11) |
-| Thu, 30 Oct 2025 17:55:20 GMT | The 4TB EY Data Exposure: A Costly Cloud Misconfiguration Lesson | Aniket Sharma | [Read More](https://medium.com/p/c88533741589) |
-| Thu, 30 Oct 2025 17:53:13 GMT | Top 10 Cybersecurity Tools for Small Businesses | JSOC IT BLOG | [Read More](https://medium.com/p/2ea2713568d9) |
-| Thu, 30 Oct 2025 17:52:23 GMT | Pegasus to the Cartels: How Surveillance Tech Slipped Into the Shadows | Brandon Brasson | [Read More](https://medium.com/p/fe030eb002a3) |
-| Thu, 30 Oct 2025 17:49:24 GMT | Attacks on AI Browsers: How to Protect Sensitive Data | teufelswerk | [Read More](https://medium.com/p/2b05ff4f8f00) |
-| Thu, 30 Oct 2025 17:47:31 GMT | Sysinternals Lab Writeup | Jaws | [Read More](https://medium.com/p/ad2a5168e12c) |
-| Thu, 30 Oct 2025 17:47:06 GMT | How I Made ChatGPT My Personal Hacking Assistant (And Broke Their “AI-Powered” Security) | Iski | [Read More](https://medium.com/p/ee37d4a725c2) |
-| Thu, 30 Oct 2025 17:45:50 GMT | Active Directory Least Privilege & LDAPS Enforcement | Johnny Meintel | [Read More](https://medium.com/p/8359832c91c3) |
