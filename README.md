@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 03:01:52 GMT | All About Recon — Bug Bounty | Monujangra | [Read More](https://medium.com/p/2ec869fcbe45) |
+| Fri, 31 Oct 2025 02:39:08 GMT | Web Cache Poisoning — Part 2: Weaponizing Headers & URL Discrepancies | Abhishek meena | [Read More](https://medium.com/p/bbb7b2c0159a) |
+| Fri, 31 Oct 2025 02:35:36 GMT | OSINT Meets AI: How AI Supercharges Collection, Analysis, and Correlation | Travis Ray Caverhill | [Read More](https://medium.com/p/f8488a54559e) |
+| Fri, 31 Oct 2025 02:35:32 GMT | From Cybersecurity to Generative AI: How I Discovered the Creative Side of Adversarial Learning | KanishkAshra | [Read More](https://medium.com/p/ece9e7826487) |
+| Fri, 31 Oct 2025 02:30:34 GMT | Your EXIF Is Showing: The Art of Leaving No Digital Trace | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a005ff14cea5) |
+| Fri, 31 Oct 2025 02:03:29 GMT | Pixnapping (CVE-2025–48561): An Architectural Flaw in Android | AckerWorx | [Read More](https://medium.com/p/fe8b77f0fb13) |
+| Fri, 31 Oct 2025 02:02:00 GMT | HackTheBox Introduction to Threat Hunting: The Threat Hunting Process | Cybersecurity Simplified | [Read More](https://medium.com/p/5e2b0dab3e72) |
+| Fri, 31 Oct 2025 01:59:55 GMT | 25 Top Monthly Insights — AI Security — October  2025 | Tal Eliyahu | [Read More](https://medium.com/p/2b934c2a4409) |
+| Fri, 31 Oct 2025 01:55:46 GMT | When Error Messages Leak More Than Logs: ORMs, Frameworks, and the Quiet Reconnaissance Problem | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/cfb336ce1117) |
+| Fri, 31 Oct 2025 01:52:58 GMT | Understanding Cyber Insurance: What It Covers and Why You Need It | Samina Perveen | [Read More](https://medium.com/p/48fe9b1adcaa) |
+| Fri, 31 Oct 2025 01:48:57 GMT | How to Practice Ethical Hacking Safely with Virtual Labs | Shahzaib | [Read More](https://medium.com/p/a9a04c9d86c2) |
+| Fri, 31 Oct 2025 01:48:51 GMT | The Go Security Mistake That Almost Got Me Hacked (And How I Fixed It) | syarif | [Read More](https://medium.com/p/d262ea18a512) |
+| Fri, 31 Oct 2025 01:48:47 GMT | Security Best Practices for Cloud-First Development | shivam bhatele | [Read More](https://medium.com/p/edce7ed65488) |
+| Fri, 31 Oct 2025 01:48:36 GMT | From Firewalls to AI: The Evolution of Cyber Defense in One Lifetime | Aj | [Read More](https://medium.com/p/a8a42f6131ea) |
 | Fri, 31 Oct 2025 00:51:36 GMT | Security Operations with Elasticsearch MCP and Security Onion | uhtavi0 | [Read More](https://medium.com/p/26c3819bebd6) |
 | Fri, 31 Oct 2025 00:45:04 GMT | Azure Entra ID: The Next Security Battleground for Enterprises is on the Cloud | Yua Mikanana | [Read More](https://medium.com/p/787d32a230f6) |
 | Fri, 31 Oct 2025 00:17:45 GMT | 5 Best Go Libraries for Uploading Files to MinIO (Without Losing Your Mind) | James Miller | [Read More](https://medium.com/p/afce38dcd978) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 16:01:08 GMT | HacktheBox: Manager Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/2ce7854f0a4a) |
 | Thu, 30 Oct 2025 15:51:01 GMT | なぜ聖書を作るのか、日本（人）と古代ユダヤ（人）は比較文化論のおもしろさ | Katsuyuki Okumura | [Read More](https://medium.com/p/41caef1cc59c) |
 | Thu, 30 Oct 2025 15:41:46 GMT | “I hope God will just allow me to have a heart as hard as stone. Then maybe I wouldn’t get hurt.” | Natalia | [Read More](https://medium.com/p/11e715a951d2) |
-| Thu, 30 Oct 2025 15:38:40 GMT | Web Cache Deception Attack – A Hidden Threat in Today’s Web Applications | 127.0.0.1 | [Read More](https://medium.com/p/9b7b4b37a3a0) |
-| Thu, 30 Oct 2025 15:34:33 GMT | pwncollege: Talking Web | Sourav Bose | [Read More](https://medium.com/p/38c68dd8549f) |
-| Thu, 30 Oct 2025 15:33:10 GMT | The World of Data Protection: Mounting Backups for Easy Restore & Shielding Them from Ransomware | Paradise technologies Inc | [Read More](https://medium.com/p/a386d9c532b0) |
-| Thu, 30 Oct 2025 15:27:01 GMT | Bridging the Tech Gap: How Apolis Empowered Digital Transformation with Aligned and Adaptable… | Apolis | [Read More](https://medium.com/p/b9c3e720c3bb) |
-| Thu, 30 Oct 2025 15:22:20 GMT | How Swagger UI Can Accidentally Expose Your API | Ibtissam hammadi | [Read More](https://medium.com/p/2bf02c2cb2ba) |
-| Thu, 30 Oct 2025 15:21:11 GMT | HTTP Headers Explained: How They Affect Proxy Communication | ProxiesThatWork | [Read More](https://medium.com/p/d9cedcdc7647) |
-| Thu, 30 Oct 2025 15:18:32 GMT | How i found account takeover in private bug bounty program of bugcrowd | Be nice insabat | [Read More](https://medium.com/p/21df5ed3ed3c) |
-| Thu, 30 Oct 2025 15:15:40 GMT | Email Verification Bypass — A Simple Yet Overlooked Business Logic Flaw | Lakshya | [Read More](https://medium.com/p/5a9c5980f2aa) |
-| Thu, 30 Oct 2025 15:11:38 GMT | Splunk Boss of The SOC (BOTS) Write-Up Series(All Series) | Merve Güler | [Read More](https://medium.com/p/ea76111d4753) |
-| Thu, 30 Oct 2025 14:59:21 GMT | What IT Tickets Reveal About Your Company’s Weak Spots? | Aimee Liu | [Read More](https://medium.com/p/158178e8c919) |
-| Thu, 30 Oct 2025 14:58:09 GMT | eJPT v2 : Challenge Lab 24: Retro | Dhanushkumar R | [Read More](https://medium.com/p/bd3e2b3925dc) |
-| Thu, 30 Oct 2025 14:55:17 GMT | ️ Cyber Confidence: How to Talk, Teach, and Lead Safety | Aysha Misri | [Read More](https://medium.com/p/dee6a42cb39d) |
-| Thu, 30 Oct 2025 14:53:28 GMT | “The $1,000 Image Upload That Could Have Hacked Thousands of Users” | Aman Sharma | [Read More](https://medium.com/p/a650f736e7cf) |
-| Thu, 30 Oct 2025 14:50:04 GMT | unauthorized authentication to enterprise infrastructure that used by Oppo alibaba$$.. | Bx1 | [Read More](https://medium.com/p/236dd9e53652) |
