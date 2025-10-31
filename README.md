@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 03:48:21 GMT | Top 5 Laptops for Creators and Gamers in 2025 | TechMind Sphere | [Read More](https://medium.com/p/de8c2761a76a) |
+| Fri, 31 Oct 2025 03:42:03 GMT | OneFlip: How a Single Bit Flip Could Backdoor Your AI Model | Deven Chhajed | [Read More](https://medium.com/p/85c6460cec1e) |
+| Fri, 31 Oct 2025 03:07:22 GMT | fnox เครื่องมือจัดการ Secrets สุดประทับใจ | Kan Ouivirach | [Read More](https://medium.com/p/f2189565e60c) |
 | Fri, 31 Oct 2025 03:01:52 GMT | All About Recon — Bug Bounty | Monujangra | [Read More](https://medium.com/p/2ec869fcbe45) |
 | Fri, 31 Oct 2025 02:39:08 GMT | Web Cache Poisoning — Part 2: Weaponizing Headers & URL Discrepancies | Abhishek meena | [Read More](https://medium.com/p/bbb7b2c0159a) |
 | Fri, 31 Oct 2025 02:35:36 GMT | OSINT Meets AI: How AI Supercharges Collection, Analysis, and Correlation | Travis Ray Caverhill | [Read More](https://medium.com/p/f8488a54559e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 16:29:48 GMT | Building a Conscious Cybersecurity System: How We Apply Integrated Information Theory to Threat… | JuanCS-Dev | [Read More](https://medium.com/p/73fb5719ba1d) |
 | Thu, 30 Oct 2025 16:15:08 GMT | How Quantum Computing Could Break Today’s Encryption | Akshattyagi | [Read More](https://medium.com/p/207ecdda1651) |
 | Thu, 30 Oct 2025 16:08:20 GMT | Your Android Phone Is Leaking Every Secret On Your Screen Right Now (And Google Can’t Stop It) | Biresh Kumar Singh | [Read More](https://medium.com/p/766dfcc0dced) |
-| Thu, 30 Oct 2025 16:01:08 GMT | HacktheBox: Manager Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/2ce7854f0a4a) |
-| Thu, 30 Oct 2025 15:51:01 GMT | なぜ聖書を作るのか、日本（人）と古代ユダヤ（人）は比較文化論のおもしろさ | Katsuyuki Okumura | [Read More](https://medium.com/p/41caef1cc59c) |
-| Thu, 30 Oct 2025 15:41:46 GMT | “I hope God will just allow me to have a heart as hard as stone. Then maybe I wouldn’t get hurt.” | Natalia | [Read More](https://medium.com/p/11e715a951d2) |
