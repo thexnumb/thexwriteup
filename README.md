@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 31 Oct 2025 04:39:59 GMT | CORS Explained: From Zero to Hero by Steps | Babek Naghiyev | [Read More](https://medium.com/p/b96352b3f250) |
+| Fri, 31 Oct 2025 04:36:59 GMT | Editor HTB Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/c9e7ddc0c088) |
 | Fri, 31 Oct 2025 04:13:56 GMT | Mr Robot CTF - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/ea078204aa46) |
 | Fri, 31 Oct 2025 03:58:34 GMT | OneChain’s 9 Unique Strengths: Part 7 — Top-Tier Security: MPC + Decentralized Governance | OneChain | [Read More](https://medium.com/p/1af128f829e0) |
 | Fri, 31 Oct 2025 03:53:38 GMT | Song Onstage Foul-up! Cause — English Word Order! | Bill Myers | [Read More](https://medium.com/p/3a156d3e4d7d) |
@@ -37,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 00:51:36 GMT | Security Operations with Elasticsearch MCP and Security Onion | uhtavi0 | [Read More](https://medium.com/p/26c3819bebd6) |
 | Fri, 31 Oct 2025 00:45:04 GMT | Azure Entra ID: The Next Security Battleground for Enterprises is on the Cloud | Yua Mikanana | [Read More](https://medium.com/p/787d32a230f6) |
 | Fri, 31 Oct 2025 00:17:45 GMT | 5 Best Go Libraries for Uploading Files to MinIO (Without Losing Your Mind) | James Miller | [Read More](https://medium.com/p/afce38dcd978) |
+| Fri, 31 Oct 2025 00:02:08 GMT | Guía Completa de RustScan: Escaneo de Puertos Ultrarrápido | JPablo13 | [Read More](https://medium.com/p/da6ab7b7fed7) |
 | Thu, 30 Oct 2025 23:50:58 GMT | Modern Penetration Testing in 2025: A Complete Technical and Ethical Guide for Security Engineers | Abdelaziz moustakim | [Read More](https://medium.com/p/7dec7285e023) |
 | Thu, 30 Oct 2025 23:50:08 GMT | Phone Privacy and Forensics | Raviteja Mureboina | [Read More](https://medium.com/p/15885ef2dff1) |
 | Thu, 30 Oct 2025 23:44:01 GMT | Using HashiCorp Vault with Keycloak for Dynamic Database Credentials in .NET | Vitor Gomes | [Read More](https://medium.com/p/b66321905865) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Oct 2025 17:05:54 GMT | I Thought Domain and SSL Were Boring | satyaranjan bal | [Read More](https://medium.com/p/247f734d1969) |
 | Thu, 30 Oct 2025 16:58:33 GMT | New Chromium Blink Flaw Can Crash Browsers in Seconds | Chetan Seripally | [Read More](https://medium.com/p/a0496fe388c2) |
 | Thu, 30 Oct 2025 16:53:53 GMT | USBferry, Tropic Trooper, and ATT&CK: A Practical CTI Exercise | Citadel Cybersec | [Read More](https://medium.com/p/3fda0630bea0) |
-| Thu, 30 Oct 2025 16:51:52 GMT | ⚠️ Phishing: Detection, Defense and Ethical Simulation Guide ️ | Esra Kayhan | [Read More](https://medium.com/p/2d49c5a255c3) |
-| Thu, 30 Oct 2025 16:43:50 GMT | From Reactive Defense to Strategic Resilience: Why GRC Integration Is the Backbone of Modern… | Gabriela Berrido | [Read More](https://medium.com/p/3fa24461176c) |
-| Thu, 30 Oct 2025 16:42:58 GMT | Fragility Behind a Brave Face | ailadgtaldry | [Read More](https://medium.com/p/acd53c2432f5) |
