@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 12:34:17 GMT | SKBD (Scorpion-Killer):Stealthy SSH backdoor injector | Мартин. | [Read More](https://medium.com/p/16fc1652a14a) |
+| Sat, 01 Nov 2025 12:31:53 GMT | Data Breach Alert: Check Your Logins Against 180M Leaks | Azeeza | [Read More](https://medium.com/p/badaeb5aa169) |
+| Sat, 01 Nov 2025 12:29:49 GMT | Top 20 Incident Response Tools for Cybersecurity Teams | Manisha Chaudhary | [Read More](https://medium.com/p/77723337bd8e) |
+| Sat, 01 Nov 2025 12:29:18 GMT | Professional Hacker For Hire Online. | Private-hackers.com | [Read More](https://medium.com/p/44db3f18012a) |
+| Sat, 01 Nov 2025 12:28:44 GMT | From Frameworks to Audits: My Cybersecurity Learning Journey | Ankit Dhaka | [Read More](https://medium.com/p/bbed934cf206) |
+| Sat, 01 Nov 2025 12:21:02 GMT | Review: AlexNet — Perubahan Paradigma Deep Learning dalam Computer Vision | Nurlathifah Fitriyah Ruchiyat | [Read More](https://medium.com/p/9792eab6b458) |
+| Sat, 01 Nov 2025 12:15:45 GMT | More Than a Uniform: The True Value of Professional Security in an Unpredictable World | Sambhu Sunil | [Read More](https://medium.com/p/7ac37e5fb300) |
+| Sat, 01 Nov 2025 12:13:43 GMT | Phishing Attacks: Techniques and Prevention Strategies | Kartik Gupta | [Read More](https://medium.com/p/c942604f10cc) |
+| Sat, 01 Nov 2025 12:06:23 GMT | Setting up Backup Rules in Android: Why Auto-Backup Matters — and Where It Bites | Vikas Soni | [Read More](https://medium.com/p/83b0ca6b0ad3) |
+| Sat, 01 Nov 2025 12:01:53 GMT | Corporate Greed Chronicles: UPS’s Peak Efficiency Meets Valley of Tears | Namir Sagheenanajar | [Read More](https://medium.com/p/87c8c0b8df72) |
+| Sat, 01 Nov 2025 11:52:54 GMT | ️Detailed Guideline: Defending Mobile Apps Against Frida (Even With Root Bypass): [Android] | Shubham Kumar Gupta | [Read More](https://medium.com/p/f26ae7df4e89) |
+| Sat, 01 Nov 2025 11:52:09 GMT | Why Cyber Security Assessment and Management Matters in the USA | Vishwajeettechtech | [Read More](https://medium.com/p/8bf715c7a0cd) |
+| Sat, 01 Nov 2025 11:46:44 GMT | Web challenge v13w3r - Cyber Talents write-up | 3li0xR | [Read More](https://medium.com/p/c5f8b1f7aa5a) |
+| Sat, 01 Nov 2025 11:45:45 GMT | Agentic Browsers Vulnerabilities: ChatGPT Atlas, Perplexity Comet | Oleg Dubovoi | [Read More](https://medium.com/p/8bcf38e747e8) |
+| Sat, 01 Nov 2025 11:45:34 GMT | AI Just Redefined Cybersecurity — And 2026 Will Never Be the Same! | Testleaf | [Read More](https://medium.com/p/a9b42f11d82f) |
+| Sat, 01 Nov 2025 11:43:18 GMT | How Google closed the open web it once symbolized | Enrique Dans | [Read More](https://medium.com/p/e1f8cb4e1283) |
 | Sat, 01 Nov 2025 11:31:53 GMT | GitHub Dorking for Bug Bounty — A Beginner’s Guide (Guaranteed Bounty) | Nitin yadav | [Read More](https://medium.com/p/ea699b648561) |
 | Sat, 01 Nov 2025 11:16:11 GMT | DOM XSS in nasa system 90.0000$$$ | Aksoum Abderrahmane | [Read More](https://medium.com/p/addc0a383e3f) |
 | Sat, 01 Nov 2025 11:08:59 GMT | SPECTATORS AND CREATORS | Joanorifha | [Read More](https://medium.com/p/17e13bbaf3a8) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 04:40:04 GMT | The Legal and Ethical Concerns of Digital Surveillance | Samina Perveen | [Read More](https://medium.com/p/8312c47aed99) |
 | Sat, 01 Nov 2025 04:37:20 GMT | Security and Surveillance Solution | Rosby George | [Read More](https://medium.com/p/998b1f2c1a78) |
 | Sat, 01 Nov 2025 04:35:32 GMT | How Do Professional Security Services in Hisar Handle Unskilled Labor? | Lakshay Security | [Read More](https://medium.com/p/10013667a419) |
-| Sat, 01 Nov 2025 04:34:12 GMT | From Breaking Systems to Building Them Stronger | Aj | [Read More](https://medium.com/p/701bc63992d1) |
-| Sat, 01 Nov 2025 04:17:35 GMT | 5 Cybersecurity Side Hustles That Actually Pay (I Tested Them All) | S3CloudHub | [Read More](https://medium.com/p/23ac302a4f7d) |
-| Sat, 01 Nov 2025 04:02:00 GMT | South Korea’s ‘Monster Missile’ | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/08696324d13c) |
-| Sat, 01 Nov 2025 03:54:53 GMT | Titre : La rédaction web | Feiganazouiheritierprincejuven | [Read More](https://medium.com/p/5c04a8ce95b5) |
-| Sat, 01 Nov 2025 03:52:10 GMT | Anomaly Detection with NMF | Aroha blue | [Read More](https://medium.com/p/6f34b075802b) |
-| Sat, 01 Nov 2025 03:44:09 GMT | Error Audio when Update in macOS 26 | Jerry PM | [Read More](https://medium.com/p/7eeee32477b6) |
-| Sat, 01 Nov 2025 03:41:44 GMT | The Android Manifest Deep Dive: Everything Your App Tells the OS Before onCreate() | Tung Doan | [Read More](https://medium.com/p/314954f314ac) |
-| Sat, 01 Nov 2025 03:33:18 GMT | How AI and IoT Are Increasing the Risk of Healthcare Data Breaches | Legal Thoughts | [Read More](https://medium.com/p/f549a106c25f) |
-| Sat, 01 Nov 2025 03:31:55 GMT | What Tata Motors 70 TB Exposure Teaches About Cloud Security | Deven Chhajed | [Read More](https://medium.com/p/4bf97d492515) |
-| Sat, 01 Nov 2025 03:28:06 GMT | The Art Of Game Hacking | xpl0dec | [Read More](https://medium.com/p/ff55f900d0ab) |
-| Sat, 01 Nov 2025 03:27:51 GMT | ️‍♂️ All About Scanning in Bug Bounty (2025 Edition)- Earning 2$$$ | Monu Jangra | [Read More](https://medium.com/p/b758c69746bb) |
-| Sat, 01 Nov 2025 03:18:55 GMT | 7 Tips Internet Aman untuk Semua Orang | Jadi Hacker | [Read More](https://medium.com/p/176c21c5dd01) |
-| Sat, 01 Nov 2025 03:17:01 GMT | Why Xlorin Avoids Pre-Trained Models | Xlorin Cyber-Chatbot | [Read More](https://medium.com/p/ee091b238eb6) |
-| Sat, 01 Nov 2025 02:53:08 GMT | Common risk profile for Healthcare Technology (HITECH) | Joe Alongi | [Read More](https://medium.com/p/4ce00a2f6bae) |
-| Sat, 01 Nov 2025 02:47:39 GMT | Building Digital Trust: Why We Started 21 Orange Street Cyber Solutions | Orange Street | [Read More](https://medium.com/p/3cee45eb00f6) |
-| Sat, 01 Nov 2025 02:46:51 GMT | When Intimacy Feels Terrifying: Understanding Sexual Phobias and How to Heal | Johanna W | [Read More](https://medium.com/p/f06d3058b953) |
