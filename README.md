@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 15:29:28 GMT | When Phones Turn Against Their Owners: The Predator Files and the Death of Digital Trust | Abatis ABTU | [Read More](https://medium.com/p/731a0cef3d00) |
+| Sat, 01 Nov 2025 15:27:02 GMT | Beyond the Facade | Grace Omayoza | [Read More](https://medium.com/p/b4fecd2eea52) |
+| Sat, 01 Nov 2025 15:26:33 GMT | HTB — Voleur Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/b0ebbfa01f52) |
+| Sat, 01 Nov 2025 15:25:45 GMT | The Great Tenant Mix-Up: How I Accidentally Became Every Company’s Employee | Iski | [Read More](https://medium.com/p/24418d7a6d38) |
+| Sat, 01 Nov 2025 15:18:27 GMT | Using Wireshark to Examine HTTP and HTTPS Traffic | Omar Hamed | [Read More](https://medium.com/p/a9e621b11f47) |
 | Sat, 01 Nov 2025 15:10:58 GMT | OTP Disclosure in Android App | Bytewreaker | [Read More](https://medium.com/p/2de7d9660a81) |
 | Sat, 01 Nov 2025 15:07:26 GMT | What is Cybersecurity & its types? | Maktechnologyindia | [Read More](https://medium.com/p/54ff3a616123) |
 | Sat, 01 Nov 2025 15:05:47 GMT | Why Genuine People Struggle Most in Modern Dating. | Bloom with Maria | [Read More](https://medium.com/p/d0e733b55f65) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 09:12:11 GMT | How I earned ₹₹₹₹₹ by reporting API key to massive payment company. | DEep | [Read More](https://medium.com/p/f02e85fdbdab) |
 | Sat, 01 Nov 2025 09:07:20 GMT | How Does Information Technology Improve Education? | Noah Taylor | [Read More](https://medium.com/p/82b81537e1f7) |
 | Sat, 01 Nov 2025 09:07:14 GMT | How a Simple Phone Charge Could Empty Your Wallet | Donavan Goodman | [Read More](https://medium.com/p/e6f33ce679d7) |
-| Sat, 01 Nov 2025 09:02:03 GMT | 5 Powerful iPhone 12 Pro Max Tips to Maximize Battery Life | Chloe White | [Read More](https://medium.com/p/aeb70d1a7cd8) |
-| Sat, 01 Nov 2025 09:01:53 GMT | Cybersecurity For Database Administrators | Fabricio Pedroso Jorge | [Read More](https://medium.com/p/122c6abe9565) |
-| Sat, 01 Nov 2025 08:58:44 GMT | Lock HTB Machine Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/14be0f6edcb0) |
-| Sat, 01 Nov 2025 08:45:02 GMT | Palo Alto Networks Unit 42 Retainer: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d091d4ea78bc) |
-| Sat, 01 Nov 2025 08:44:44 GMT | The 5 Linux Mistakes That Nearly Broke My System (And What They Taught Me About Respecting the… | Fateyaly | [Read More](https://medium.com/p/f5c22c1d87dd) |
