@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 10:19:21 GMT | How Safe Are You Really? The Hidden Gaps Of Security No One Talks About | Marshall | [Read More](https://medium.com/p/f62c419d3fc0) |
+| Sat, 01 Nov 2025 10:17:40 GMT | BUG Bonus Claim Guide — October 2025 | Pastel | [Read More](https://medium.com/p/13e94ca278cf) |
+| Sat, 01 Nov 2025 10:11:29 GMT | THM - Lost in RAMslation | Francesco Pastore | [Read More](https://medium.com/p/14cacf484d6e) |
+| Sat, 01 Nov 2025 10:07:31 GMT | 10 Proven iPhone XR Battery Tips That Truly Extend Usage Time | Ella Walker | [Read More](https://medium.com/p/259c3228346f) |
+| Sat, 01 Nov 2025 09:52:53 GMT | Try-Hack-Me challenge walkthrough GamingServer— EasyCTF | Arka Priya Das | [Read More](https://medium.com/p/fe47798fae0f) |
+| Sat, 01 Nov 2025 09:49:15 GMT | The Complete Guide to IT Solutions in Saudi Arabia: Why Bluechip-Saudi is Your Trusted Partner? | IT Solutions Providers | [Read More](https://medium.com/p/4c0c72198620) |
+| Sat, 01 Nov 2025 09:47:16 GMT | 5 Underrated iPhone 11 Pro Max Camera Hacks for Stunning Photos | Zara Everly | [Read More](https://medium.com/p/e318afdb8eab) |
+| Sat, 01 Nov 2025 09:47:02 GMT | Beyond Shared Hosting: Smarter VPS Options for 2025 | Ann Taylor | [Read More](https://medium.com/p/04bf28006368) |
+| Sat, 01 Nov 2025 09:44:31 GMT | The Windows Forensic Journey — Windows Search Index (Windows Desktop Search) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3055667197bd) |
+| Sat, 01 Nov 2025 09:42:01 GMT | IEA rejected Pakistan’s demand for security guarantees | Gulalai Jana | [Read More](https://medium.com/p/21477c1eb48c) |
 | Sat, 01 Nov 2025 09:30:17 GMT | Hack Smart Security | Moseslu | [Read More](https://medium.com/p/394565904f93) |
 | Sat, 01 Nov 2025 09:19:37 GMT | A synergistic model for cybersecurity: Towards a proof of properties for attack-resistant systems | Mouad B. | [Read More](https://medium.com/p/91f02fd16a87) |
 | Sat, 01 Nov 2025 09:18:20 GMT | Would You Use the ChatGPT Atlas Browser? | Shahzaib | [Read More](https://medium.com/p/795ebfa76567) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 22:25:56 GMT | When the Blacklist Failed: How I Triggered XSS with a Middle Click | Rehan Ansari | [Read More](https://medium.com/p/fc45f5022543) |
 | Fri, 31 Oct 2025 22:22:39 GMT | Wankbattling, Recommendation Algorithms, and Third Spaces | Familiar News | [Read More](https://medium.com/p/9b8b34f52d64) |
 | Fri, 31 Oct 2025 22:19:43 GMT | Operational Technology and Industrial Control Systems | Shady mulla | [Read More](https://medium.com/p/02956653db56) |
-| Fri, 31 Oct 2025 22:07:15 GMT | The Foundations Of Digital Business Security | Douglas Goddard | [Read More](https://medium.com/p/3eaa413b151c) |
-| Fri, 31 Oct 2025 21:48:28 GMT | AI for Change: How Artificial Intelligence is Powering Social Good and Accountability | Orebisi Adeyinka Heritage Empowerment Foundation | [Read More](https://medium.com/p/41bf4b7b1248) |
-| Fri, 31 Oct 2025 21:45:24 GMT | Building a SOC Lab at Home | Arkadey | [Read More](https://medium.com/p/ca6121d767c5) |
-| Fri, 31 Oct 2025 21:39:00 GMT | EXCLUSIVE: The Autonomous Knowledge Accelerator — How a Commercial LLM Generated 200× Power and 16.4 | Berend Watchus | [Read More](https://medium.com/p/e772eceea3db) |
-| Fri, 31 Oct 2025 21:33:40 GMT | Day 26 of my Cybersecurity Journey: John the Ripper Basics II | Ogundipe Priscilla | [Read More](https://medium.com/p/0189c17f23cb) |
-| Fri, 31 Oct 2025 21:22:04 GMT | The Paradox of Women Demanding Vulnerability in Men Only to Get the Ick | Tee Mugayi | [Read More](https://medium.com/p/ecc2d8179a02) |
-| Fri, 31 Oct 2025 21:17:49 GMT | How Private-Hackers Protect What Matters: Ethical Digital Investigations for Today’s Risks. | Private-hackers.com | [Read More](https://medium.com/p/e3c741d59b49) |
-| Fri, 31 Oct 2025 20:53:37 GMT | 09032543127 | Mona09032543127 | [Read More](https://medium.com/p/f8b3bec37747) |
-| Fri, 31 Oct 2025 20:51:52 GMT | The End of Cybersecurity? | Cyber-AppSec | [Read More](https://medium.com/p/0f9271581b31) |
-| Fri, 31 Oct 2025 20:51:19 GMT | The IT Horror Stories That Keep Admins Up at Night (And How to Survive Them) | NAKIVO | [Read More](https://medium.com/p/eef1a7057c8e) |
