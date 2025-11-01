@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 15:52:22 GMT | Unauthorized Access to Internal Nginx Status Page via X-Forwarded-For Header | Bytewreaker | [Read More](https://medium.com/p/31de9e8b4e28) |
+| Sat, 01 Nov 2025 15:50:55 GMT | Authentication Bypass via Client-Side Response Tampering | Bytewreaker | [Read More](https://medium.com/p/f79ad16dcef9) |
+| Sat, 01 Nov 2025 15:49:29 GMT | How a Single Response Manipulation Led to Admin Takeover — Tamil Nadu Government — Police… | Gokuleswaran B | [Read More](https://medium.com/p/0d66879b81a7) |
+| Sat, 01 Nov 2025 15:49:25 GMT | DEADFACE — Hack the Night — writeup by AD3NCA | AD3NCA | [Read More](https://medium.com/p/eaa9596ef6e0) |
+| Sat, 01 Nov 2025 15:42:19 GMT | The road to nakedness | Silkeheiss | [Read More](https://medium.com/p/71cf8d3cd2cc) |
+| Sat, 01 Nov 2025 15:40:38 GMT | How to Set Up AWS IAM | The Boring Engineer | [Read More](https://medium.com/p/05b050fed154) |
 | Sat, 01 Nov 2025 15:29:28 GMT | When Phones Turn Against Their Owners: The Predator Files and the Death of Digital Trust | Abatis ABTU | [Read More](https://medium.com/p/731a0cef3d00) |
 | Sat, 01 Nov 2025 15:27:02 GMT | Beyond the Facade | Grace Omayoza | [Read More](https://medium.com/p/b4fecd2eea52) |
 | Sat, 01 Nov 2025 15:26:33 GMT | HTB — Voleur Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/b0ebbfa01f52) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 09:47:02 GMT | Beyond Shared Hosting: Smarter VPS Options for 2025 | Ann Taylor | [Read More](https://medium.com/p/04bf28006368) |
 | Sat, 01 Nov 2025 09:44:31 GMT | The Windows Forensic Journey — Windows Search Index (Windows Desktop Search) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3055667197bd) |
 | Sat, 01 Nov 2025 09:42:01 GMT | IEA rejected Pakistan’s demand for security guarantees | Gulalai Jana | [Read More](https://medium.com/p/21477c1eb48c) |
-| Sat, 01 Nov 2025 09:30:17 GMT | Hack Smart Security | Moseslu | [Read More](https://medium.com/p/394565904f93) |
-| Sat, 01 Nov 2025 09:19:37 GMT | A synergistic model for cybersecurity: Towards a proof of properties for attack-resistant systems | Mouad B. | [Read More](https://medium.com/p/91f02fd16a87) |
-| Sat, 01 Nov 2025 09:18:20 GMT | Would You Use the ChatGPT Atlas Browser? | Shahzaib | [Read More](https://medium.com/p/795ebfa76567) |
-| Sat, 01 Nov 2025 09:12:11 GMT | How I earned ₹₹₹₹₹ by reporting API key to massive payment company. | DEep | [Read More](https://medium.com/p/f02e85fdbdab) |
-| Sat, 01 Nov 2025 09:07:20 GMT | How Does Information Technology Improve Education? | Noah Taylor | [Read More](https://medium.com/p/82b81537e1f7) |
-| Sat, 01 Nov 2025 09:07:14 GMT | How a Simple Phone Charge Could Empty Your Wallet | Donavan Goodman | [Read More](https://medium.com/p/e6f33ce679d7) |
