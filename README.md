@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 04:34:12 GMT | From Breaking Systems to Building Them Stronger | Aj | [Read More](https://medium.com/p/701bc63992d1) |
 | Sat, 01 Nov 2025 04:17:35 GMT | 5 Cybersecurity Side Hustles That Actually Pay (I Tested Them All) | S3CloudHub | [Read More](https://medium.com/p/23ac302a4f7d) |
 | Sat, 01 Nov 2025 04:02:00 GMT | South Korea’s ‘Monster Missile’ | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/08696324d13c) |
+| Sat, 01 Nov 2025 03:54:53 GMT | Titre : La rédaction web | Feiganazouiheritierprincejuven | [Read More](https://medium.com/p/5c04a8ce95b5) |
 | Sat, 01 Nov 2025 03:52:10 GMT | Anomaly Detection with NMF | Aroha blue | [Read More](https://medium.com/p/6f34b075802b) |
 | Sat, 01 Nov 2025 03:44:09 GMT | Error Audio when Update in macOS 26 | Jerry PM | [Read More](https://medium.com/p/7eeee32477b6) |
 | Sat, 01 Nov 2025 03:41:44 GMT | The Android Manifest Deep Dive: Everything Your App Tells the OS Before onCreate() | Tung Doan | [Read More](https://medium.com/p/314954f314ac) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 16:13:07 GMT | What The Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/bb7147c03023) |
 | Fri, 31 Oct 2025 16:09:01 GMT | The Web Can’t Keep Up With Itself | Taylor Corbett | [Read More](https://medium.com/p/f6fd1053736d) |
 | Fri, 31 Oct 2025 16:08:18 GMT | Backend For Dummies: Securing Your Web App | Dillon Ansah | [Read More](https://medium.com/p/49a3127b90de) |
-| Fri, 31 Oct 2025 16:06:50 GMT | Top 10Things To Learn For The Hacker Playbook 3 by Peter Kim. | Mainekhacker | [Read More](https://medium.com/p/59cfca7aae7a) |
-| Fri, 31 Oct 2025 16:05:01 GMT | Pentesting Wi-Fi and Bluetooth Devices: A Defensive Playbook, Not a How-To | Michael Preston | [Read More](https://medium.com/p/8c4ea89694c4) |
