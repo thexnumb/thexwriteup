@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 06:11:06 GMT | The Hidden Dangers of AI-Powered Browsers | Abdelghani Alhijawi | [Read More](https://medium.com/p/a5fdf4f40a9b) |
+| Sat, 01 Nov 2025 05:52:27 GMT | INSIDE GYROSNOOP: MY VERSION OF “GAIROSCOPE” | Soorya A P | [Read More](https://medium.com/p/4cfeff19540f) |
+| Sat, 01 Nov 2025 05:33:20 GMT | /You are not a regular expression\./ | asperand | [Read More](https://medium.com/p/1037a256a6d3) |
 | Sat, 01 Nov 2025 05:31:58 GMT | Biometric Authentication: Enhancing Security and UX | Liam Carter | [Read More](https://medium.com/p/8a69d8fe7e51) |
 | Sat, 01 Nov 2025 05:16:54 GMT | Security method annotations in Spring security | Yasif khan | [Read More](https://medium.com/p/4448f86e16bc) |
 | Sat, 01 Nov 2025 05:00:12 GMT | How to Set Up SSL on Nginx (Step-by-Step Guide for YourOrganization) | Muhammad khan | [Read More](https://medium.com/p/06aa49c1b49a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 17:08:19 GMT | How AI Will Silence the Biggest Cybersecurity Threats by 2030 | Gopi Sri | [Read More](https://medium.com/p/e0a6c3b4b30f) |
 | Fri, 31 Oct 2025 17:08:02 GMT | From Zero to Hero: How to Build Cybersecurity Skills Without a Degree | Code Link | [Read More](https://medium.com/p/772ee5562c20) |
 | Fri, 31 Oct 2025 17:00:49 GMT | Drosera or how to make Ethereum secure | SorokinIllia | [Read More](https://medium.com/p/ebfb87c55fca) |
-| Fri, 31 Oct 2025 16:57:13 GMT | Non-Repudiation: How Digital Signatures Prove Authenticity | Ferdi Edogawa | [Read More](https://medium.com/p/74ee89022fe7) |
-| Fri, 31 Oct 2025 16:53:31 GMT | AI Takeover for Social Engagement Undermines Collaboration | Matthew.Rosenquist | [Read More](https://medium.com/p/9d828d958b03) |
-| Fri, 31 Oct 2025 16:40:31 GMT | The Ultimate Bug Hunter’s Recon workflow: From Subdomains to Critical Vulnerabilities | Manoj | [Read More](https://medium.com/p/befcef19307f) |
