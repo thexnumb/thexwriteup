@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 19:37:00 GMT | Managing Secrets in Flutter with a Simple JSON File + Singleton | Madhan | [Read More](https://medium.com/p/dd454e6e4f16) |
+| Sat, 01 Nov 2025 19:24:06 GMT | Bug Hunting | Nazrul Islam Rana | [Read More](https://medium.com/p/4c782cbe6b69) |
+| Sat, 01 Nov 2025 19:01:56 GMT | How Attackers See Active Directory — Internal vs External Threat Perspectives | Suhel Kathi | [Read More](https://medium.com/p/8d3ae96b58e7) |
+| Sat, 01 Nov 2025 19:00:10 GMT | The Insider Threat Nobody Talks About: What I’m Learning About Cybersecurity’s Hidden Vulnerability | Ayotundebabade | [Read More](https://medium.com/p/3512d18d64bf) |
 | Sat, 01 Nov 2025 18:56:39 GMT | 10 Networking Basics to Master as a Cybersecurity Professional | Muhammad Adenowo | [Read More](https://medium.com/p/0adce44500aa) |
 | Sat, 01 Nov 2025 18:55:08 GMT | The Architect’s Complete Guide to Salesforce SSO — Provisioning, Authentication & Defense in Depth… | Pedro Távora Santos | [Read More](https://medium.com/p/f7a752de6562) |
 | Sat, 01 Nov 2025 18:48:33 GMT | Cómo instalar y configurar Metasploitable 2 | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/5165087f2ad7) |
@@ -109,7 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 12:29:36 GMT | The AI Paradox: Winning the Speed Race Without Sacrificing Security | Pranjali Karve | [Read More](https://medium.com/p/6700921275a0) |
 | Sat, 01 Nov 2025 12:29:18 GMT | Professional Hacker For Hire Online. | Private-hackers.com | [Read More](https://medium.com/p/44db3f18012a) |
 | Sat, 01 Nov 2025 12:28:44 GMT | From Frameworks to Audits: My Cybersecurity Learning Journey | Ankit Dhaka | [Read More](https://medium.com/p/bbed934cf206) |
-| Sat, 01 Nov 2025 12:21:02 GMT | Review: AlexNet — Perubahan Paradigma Deep Learning dalam Computer Vision | Nurlathifah Fitriyah Ruchiyat | [Read More](https://medium.com/p/9792eab6b458) |
-| Sat, 01 Nov 2025 12:15:45 GMT | More Than a Uniform: The True Value of Professional Security in an Unpredictable World | Sambhu Sunil | [Read More](https://medium.com/p/7ac37e5fb300) |
-| Sat, 01 Nov 2025 12:13:43 GMT | Phishing Attacks: Techniques and Prevention Strategies | Kartik Gupta | [Read More](https://medium.com/p/c942604f10cc) |
-| Sat, 01 Nov 2025 12:06:23 GMT | Setting up Backup Rules in Android: Why Auto-Backup Matters — and Where It Bites | Vikas Soni | [Read More](https://medium.com/p/83b0ca6b0ad3) |
