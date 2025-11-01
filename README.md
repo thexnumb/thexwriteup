@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 13:08:53 GMT | ⚠️ WormGPT: The Evil Twin of ChatGPT ️‍️ | Sachin_lakshal | [Read More](https://medium.com/p/30fff6f96e48) |
+| Sat, 01 Nov 2025 13:01:56 GMT | 7 Common Online Scams You Still Fall For (and How to Stop It) | CyberSafe Insights | [Read More](https://medium.com/p/b501999ca008) |
+| Sat, 01 Nov 2025 12:59:14 GMT | Cybersecurity AI Trends 2025: Navigating the New Frontier of Digital Defense | The Velocity India | [Read More](https://medium.com/p/83783dc681e8) |
+| Sat, 01 Nov 2025 12:51:58 GMT | Prisma SASE vs Zscaler — A Deep Dive into the Future of Secure Cloud Access - NGCloudX | Vandit jain | [Read More](https://medium.com/p/cf2914fe4670) |
+| Sat, 01 Nov 2025 12:44:07 GMT | Umbra:ROS 2 protocol vulnerability- remote malicious component injection tool | Мартин. | [Read More](https://medium.com/p/5ae9aa9c025e) |
+| Sat, 01 Nov 2025 12:43:35 GMT | Hack the DAV TryHackMe Machine: Step-by-Step Walkthrough | IsaacNatarajan | [Read More](https://medium.com/p/bb203be2a27c) |
+| Sat, 01 Nov 2025 12:38:47 GMT | What Is Penetration Testing and Why Your Business Needs It! | Coresec | [Read More](https://medium.com/p/fb195378beb8) |
+| Sat, 01 Nov 2025 12:37:25 GMT | Vulnyx: Spooisong Write-up — Dari LFI ke Root via Miskonfigurasi DNS | Exnomous | [Read More](https://medium.com/p/ad3c4ca32afa) |
 | Sat, 01 Nov 2025 12:34:17 GMT | SKBD (Scorpion-Killer):Stealthy SSH backdoor injector | Мартин. | [Read More](https://medium.com/p/16fc1652a14a) |
 | Sat, 01 Nov 2025 12:31:53 GMT | Data Breach Alert: Check Your Logins Against 180M Leaks | Azeeza | [Read More](https://medium.com/p/badaeb5aa169) |
 | Sat, 01 Nov 2025 12:29:49 GMT | Top 20 Incident Response Tools for Cybersecurity Teams | Manisha Chaudhary | [Read More](https://medium.com/p/77723337bd8e) |
+| Sat, 01 Nov 2025 12:29:36 GMT | The AI Paradox: Winning the Speed Race Without Sacrificing Security | Pranjali Karve | [Read More](https://medium.com/p/6700921275a0) |
 | Sat, 01 Nov 2025 12:29:18 GMT | Professional Hacker For Hire Online. | Private-hackers.com | [Read More](https://medium.com/p/44db3f18012a) |
 | Sat, 01 Nov 2025 12:28:44 GMT | From Frameworks to Audits: My Cybersecurity Learning Journey | Ankit Dhaka | [Read More](https://medium.com/p/bbed934cf206) |
 | Sat, 01 Nov 2025 12:21:02 GMT | Review: AlexNet — Perubahan Paradigma Deep Learning dalam Computer Vision | Nurlathifah Fitriyah Ruchiyat | [Read More](https://medium.com/p/9792eab6b458) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 06:11:06 GMT | The Hidden Dangers of AI-Powered Browsers | Abdelghani Alhijawi | [Read More](https://medium.com/p/a5fdf4f40a9b) |
 | Sat, 01 Nov 2025 05:52:27 GMT | INSIDE GYROSNOOP: MY VERSION OF “GAIROSCOPE” | Soorya A P | [Read More](https://medium.com/p/4cfeff19540f) |
 | Sat, 01 Nov 2025 05:33:20 GMT | /You are not a regular expression\./ | asperand | [Read More](https://medium.com/p/1037a256a6d3) |
-| Sat, 01 Nov 2025 05:31:58 GMT | Biometric Authentication: Enhancing Security and UX | Liam Carter | [Read More](https://medium.com/p/8a69d8fe7e51) |
-| Sat, 01 Nov 2025 05:16:54 GMT | Security method annotations in Spring security | Yasif khan | [Read More](https://medium.com/p/4448f86e16bc) |
-| Sat, 01 Nov 2025 05:00:12 GMT | How to Set Up SSL on Nginx (Step-by-Step Guide for YourOrganization) | Muhammad khan | [Read More](https://medium.com/p/06aa49c1b49a) |
-| Sat, 01 Nov 2025 04:56:23 GMT | From Legit to Lateral: Inside the Abuse of Windows Tasking and Remote Execution Tools | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/54dfe98eb1b5) |
-| Sat, 01 Nov 2025 04:56:18 GMT | My Journey into Ethical Hacking — From Beginner to CEH Certified | Himanshu Parmar | [Read More](https://medium.com/p/e7ee328b37e9) |
-| Sat, 01 Nov 2025 04:40:08 GMT | Managing unskilled labor effectively is a hard challenge for businesses, industrial sites and… | Lakshay Security | [Read More](https://medium.com/p/fe292a183f93) |
-| Sat, 01 Nov 2025 04:40:04 GMT | The Legal and Ethical Concerns of Digital Surveillance | Samina Perveen | [Read More](https://medium.com/p/8312c47aed99) |
-| Sat, 01 Nov 2025 04:37:20 GMT | Security and Surveillance Solution | Rosby George | [Read More](https://medium.com/p/998b1f2c1a78) |
-| Sat, 01 Nov 2025 04:35:32 GMT | How Do Professional Security Services in Hisar Handle Unskilled Labor? | Lakshay Security | [Read More](https://medium.com/p/10013667a419) |
