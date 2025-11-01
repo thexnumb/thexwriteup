@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 21:28:05 GMT | Guard Your Digital Crown: The Hidden Costs of Convenience | Eric Bernard Gardner Jr | [Read More](https://medium.com/p/0b8f37d52613) |
+| Sat, 01 Nov 2025 21:24:58 GMT | When Knowledge Searches for Humans | Ahmed Mohamed | [Read More](https://medium.com/p/a1a0c24bd9e3) |
+| Sat, 01 Nov 2025 21:18:39 GMT | Mobile banking malware & overlay attacks: what they are, why they work, and how to stop them | Bervice | [Read More](https://medium.com/p/aa5f6eb1b1f7) |
+| Sat, 01 Nov 2025 21:17:07 GMT | The Cost of Connection: Reflections on Mobile Money Fraud and Digital Insecurity in Ghana | Richard Agodzo | [Read More](https://medium.com/p/e0b227007c2a) |
+| Sat, 01 Nov 2025 21:16:11 GMT | SOC205 — Malicious Macro Execution: Deep Dive Investigation Walkthrough | Omar  Alnajjar | [Read More](https://medium.com/p/86f5f6da73ed) |
+| Sat, 01 Nov 2025 21:10:01 GMT | Navigating the Risks of AI Agents Using the Protocol Bench&Router Framework | Valdez Ladd | [Read More](https://medium.com/p/5697dc438050) |
 | Sat, 01 Nov 2025 21:06:55 GMT | I Followed This Method To Find XSS In 5 Minutes | Ibtissam | [Read More](https://medium.com/p/74a4390ae1ec) |
 | Sat, 01 Nov 2025 21:06:45 GMT | SQL Server running but port closed? | DuckWrites | [Read More](https://medium.com/p/d741e303eb7a) |
 | Sat, 01 Nov 2025 20:28:26 GMT | Mobile Security | Hoploninfosec | [Read More](https://medium.com/p/6f8090b0aceb) |
@@ -107,9 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 13:36:13 GMT | 5 Critical AI-Fueled Exploits Targeting Your VMware Infrastructure: Millions at Risk | Omgee255 | [Read More](https://medium.com/p/d6a761792a4f) |
 | Sat, 01 Nov 2025 13:31:45 GMT | YES, I learned this lesson the hard way. | Omar ELFarsaoui | [Read More](https://medium.com/p/04e1959aaa95) |
 | Sat, 01 Nov 2025 13:30:17 GMT | Cloud Güvenlik Mimarisi Nasıl Kurulur? | Enes Can Adil | [Read More](https://medium.com/p/8b2b26c4f381) |
-| Sat, 01 Nov 2025 13:25:02 GMT | [OverTheWire] Bandit Level 28 → 29 | H$nt | [Read More](https://medium.com/p/41cbf0409d1c) |
-| Sat, 01 Nov 2025 13:24:43 GMT | [OverTheWire] Bandit Level 27 → 28 | H$nt | [Read More](https://medium.com/p/4d1fe0bacdb4) |
-| Sat, 01 Nov 2025 13:24:19 GMT | [OverTheWire] Bandit Level 26 → 27 | H$nt | [Read More](https://medium.com/p/93600a1489c3) |
-| Sat, 01 Nov 2025 13:21:52 GMT | Elon Musk’s Warning: Apps and Operating Systems Will Soon Be Obsolete | Rakesh Bisht | [Read More](https://medium.com/p/da9049e3594e) |
-| Sat, 01 Nov 2025 13:18:30 GMT | All-Powerful (kind of)Machines | Saai Sudarsanan D | [Read More](https://medium.com/p/375c62c830c2) |
-| Sat, 01 Nov 2025 13:12:06 GMT | Comprehensive Tech Support Solutions by L4RG: Empowering Businesses with Reliable IT Services | Saumya | [Read More](https://medium.com/p/424805b6d115) |
