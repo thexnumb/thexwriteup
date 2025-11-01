@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 01:21:52 GMT | They Didn’t Hack Your System — They Hacked You | mrwhite18 | [Read More](https://medium.com/p/79a9da3851a4) |
+| Sat, 01 Nov 2025 01:02:07 GMT | Commonwealth Bank — Cyber Fraud Detection Simulation | Javier | [Read More](https://medium.com/p/5513ba36d034) |
+| Sat, 01 Nov 2025 01:01:06 GMT | How I got into the tech industry | Reinaldo Freitas | [Read More](https://medium.com/p/4200496c37e8) |
+| Sat, 01 Nov 2025 00:58:19 GMT | The Clop Oracle Disaster Exposes Why Your Supply Chain Is Already Compromised | Shubh Patel | [Read More](https://medium.com/p/74d876ee0b56) |
+| Sat, 01 Nov 2025 00:08:23 GMT | HTB Cicada (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/92ccba1cb25f) |
+| Sat, 01 Nov 2025 00:01:58 GMT | RustScan Guide for Ultra-Fast Port Scanning | JPablo13 | [Read More](https://medium.com/p/77a7aa3cac21) |
+| Fri, 31 Oct 2025 23:56:51 GMT | The Fear of Being Known | NadiG | [Read More](https://medium.com/p/0c459d580063) |
 | Fri, 31 Oct 2025 23:03:16 GMT | From Africa to the World: The AI That Fights Scams, Not Creates Them | Frankline Yombih Yombih | [Read More](https://medium.com/p/494038d6aac3) |
 | Fri, 31 Oct 2025 23:02:49 GMT | How Cyber-Attacks Will Look in 2025 — And How You Can Stop Them | Davo Richy | [Read More](https://medium.com/p/3327af4abb09) |
 | Fri, 31 Oct 2025 22:53:30 GMT | Race condition vulnerability occurs when websites process requests concurrently. | Ebrahimmagdy | [Read More](https://medium.com/p/43f3e3cd2350) |
@@ -89,6 +96,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 16:00:27 GMT | Why C++ Still Matters in 2025 | Vipul Sonule | [Read More](https://medium.com/p/0ab6c5c13da0) |
 | Fri, 31 Oct 2025 15:56:36 GMT | Windows 11 Emergency Update Alert: Why You Should Install the Latest Patch Right Now | The question mark | [Read More](https://medium.com/p/e0c4395e4a3f) |
 | Fri, 31 Oct 2025 15:53:51 GMT | KYB, KYT & Compliance — The Core of Secure Crypto Processing | 0xProcessing | [Read More](https://medium.com/p/c4962613a571) |
+| Fri, 31 Oct 2025 15:51:50 GMT | Honesty > perfection. | Lakshmi Thampi | [Read More](https://medium.com/p/b1a45b69ccbe) |
 | Fri, 31 Oct 2025 15:50:00 GMT | If My Data Is So Secure, Why Is Everyone Else Using It? | Consumer Attorneys PLLC | [Read More](https://medium.com/p/d46b432507df) |
 | Fri, 31 Oct 2025 15:44:05 GMT | Google Dorking for Test Environments | Cybersecplayground | [Read More](https://medium.com/p/ae70958fa112) |
 | Fri, 31 Oct 2025 15:36:43 GMT | The Spy in Your Pocket: What Operation Triangulation Tells Us About the Future of Smartphone… | Abatis ABTU | [Read More](https://medium.com/p/c351d2eee4f8) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 14:44:15 GMT | The Things I Never Said Out Loud – But Always Felt Deeply | its_that_girlpearls | [Read More](https://medium.com/p/6bccf6b9f954) |
 | Fri, 31 Oct 2025 14:33:25 GMT | The Windows Forensic Journey — Icon Cache (IconCache.db) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f81db7e4b458) |
 | Fri, 31 Oct 2025 14:27:45 GMT | Terra Dotta Exposed Unencrypted Passwords: A Major Security Oversight in Higher Ed Tech | Austin Miller | [Read More](https://medium.com/p/a6461207b220) |
-| Fri, 31 Oct 2025 14:24:45 GMT | The Strategic Role of MSPs in Cybersecurity: What Business Leaders Need to Know in 2025 | Donald Betancourt | [Read More](https://medium.com/p/94468a43e003) |
-| Fri, 31 Oct 2025 14:18:34 GMT | HTTP Methods: The Core of Web Communication | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/33c28c826850) |
-| Fri, 31 Oct 2025 14:14:54 GMT | The Hidden Power of Your Wrist: How Wearable Smart Watches Are Taking Control of Your Life | Ampaire Elijah Evans | [Read More](https://medium.com/p/43aa64aec0e7) |
-| Fri, 31 Oct 2025 14:07:34 GMT | Is Programming needed in Cybersecurity ? | lukewago | [Read More](https://medium.com/p/92829f4d2437) |
-| Fri, 31 Oct 2025 14:02:56 GMT | Cyber Briefing: 2025.10.31 | CyberMaterial | [Read More](https://medium.com/p/986151bb6c78) |
-| Fri, 31 Oct 2025 13:58:22 GMT | BEST RECOVERY EXPERT FOR CRYPTOCURRENCY \ WIZARD MILLER HACKER | Joyceadams | [Read More](https://medium.com/p/c9da4b1c66bb) |
-| Fri, 31 Oct 2025 13:57:54 GMT | Unlocking Curiosity: My First Dive into the World of Cybersecurity | Om Kulkarni | [Read More](https://medium.com/p/42c2e1763cb9) |
-| Fri, 31 Oct 2025 13:56:45 GMT | My Data Analysis journey | Russell Okon Wilson | [Read More](https://medium.com/p/95fa0ead6dd7) |
