@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 17:31:48 GMT | Why This Matters Now: The more personal information you post online (birthdays, pet names, location… | Technology EM3 | [Read More](https://medium.com/p/134681819a18) |
+| Sat, 01 Nov 2025 17:27:31 GMT | Automation VS Manual Hacking. How To Do Bug Hunting The Right Way? | Rehan Sohail | [Read More](https://medium.com/p/c6e58232609f) |
+| Sat, 01 Nov 2025 17:24:48 GMT | Understanding Triage and CVSS | Huseyn Eyvazov | [Read More](https://medium.com/p/a4ecde674661) |
+| Sat, 01 Nov 2025 17:24:19 GMT | The Unintentional Attack: Learning from the AWS and Microsoft Outages — Lessons in Cyber Risk… | Juan Pablo Castro | [Read More](https://medium.com/p/0afcdbc33c54) |
+| Sat, 01 Nov 2025 17:23:11 GMT | ️ Defense in Depth: Why Layered Security Is No Longer Optional | Aslanovafidan | [Read More](https://medium.com/p/06c7775a18f3) |
+| Sat, 01 Nov 2025 17:20:56 GMT | Web Browser Forensics Cheatsheet: A practical guide for DFIR & SOC analysts | Khalil Z. | [Read More](https://medium.com/p/2ad38bbe9ca5) |
+| Sat, 01 Nov 2025 17:19:59 GMT | Zadra: A Configurable LLM Prompt Shield | Casey Johnson | [Read More](https://medium.com/p/fc5cc379e90c) |
 | Sat, 01 Nov 2025 17:10:46 GMT | 24/7 Live Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/d7b4fe1f79af) |
 | Sat, 01 Nov 2025 17:07:31 GMT | Stop Hitting ‘Later’: Software Updates are Mandatory Security Patches! | Technology EM3 | [Read More](https://medium.com/p/99d715974f16) |
 | Sat, 01 Nov 2025 17:07:23 GMT | BIOS, CMOS and UEFI - What Happens When You Turn On Your Computer | Huseyn Eyvazov | [Read More](https://medium.com/p/ee994e2f6d4e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 10:46:32 GMT | The Atomic Standard: A Practitioner’s Compendium for Single-Event Threat Detection | Andrey Pautov | [Read More](https://medium.com/p/570c4241d4d9) |
 | Sat, 01 Nov 2025 10:39:50 GMT | Comprehensive Cyber Security Solutions for a Safer Digital World — L4RG.COM | Karthik E | [Read More](https://medium.com/p/1788a07d1915) |
 | Sat, 01 Nov 2025 10:38:56 GMT | Cyber Security SEO Guide by Traffic Tail [2026 Edition] | Traffic Tail - Digital Marketing Agency | [Read More](https://medium.com/p/6dd374d32c47) |
-| Sat, 01 Nov 2025 10:36:35 GMT | Splunk — Detection Of Archive File Creation | Eymen Takak | [Read More](https://medium.com/p/592c57e727df) |
-| Sat, 01 Nov 2025 10:36:20 GMT | Why Convincing Construction Companies to Care About ISO 27001 Feels Like Asking Them to Wear Hard… | R-Squared Cyber | [Read More](https://medium.com/p/f2a3a186771c) |
-| Sat, 01 Nov 2025 10:28:15 GMT | Tyrant :A malicious tool used for penetration testing and remote control persistence | Мартин. | [Read More](https://medium.com/p/c16bdaa29c73) |
-| Sat, 01 Nov 2025 10:28:15 GMT | 5 Mind-Blowing Camera Features on the Tecno Spark 20 Pro Plus | Hana Saito | [Read More](https://medium.com/p/035c07b33e14) |
-| Sat, 01 Nov 2025 10:26:19 GMT | The Hidden Exploit That Lets AI Tools Steal Intellectual Property | Andrew Murphy | [Read More](https://medium.com/p/7a06058ee9e2) |
-| Sat, 01 Nov 2025 10:25:08 GMT | Cyber Security | Molletibalu | [Read More](https://medium.com/p/a7a2c107dc34) |
-| Sat, 01 Nov 2025 10:22:32 GMT | The AI Nightmare | Amiltha | [Read More](https://medium.com/p/be7651291fdd) |
