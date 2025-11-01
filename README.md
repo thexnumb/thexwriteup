@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 15:10:58 GMT | OTP Disclosure in Android App | Bytewreaker | [Read More](https://medium.com/p/2de7d9660a81) |
+| Sat, 01 Nov 2025 15:07:26 GMT | What is Cybersecurity & its types? | Maktechnologyindia | [Read More](https://medium.com/p/54ff3a616123) |
+| Sat, 01 Nov 2025 15:05:47 GMT | Why Genuine People Struggle Most in Modern Dating. | Bloom with Maria | [Read More](https://medium.com/p/d0e733b55f65) |
+| Sat, 01 Nov 2025 14:58:14 GMT | “Echoes of the Unheard…” | Aishwarya Mishra | [Read More](https://medium.com/p/160b07e5e39d) |
+| Sat, 01 Nov 2025 14:54:15 GMT | From Centralized Defense to Distributed Trust: The Naoris Protocol Model | Viktor.eth | [Read More](https://medium.com/p/95f6c6889e24) |
+| Sat, 01 Nov 2025 14:53:31 GMT | AI Risks: The Hidden Threat of Low-Opacity Commands in Images | Dima Kynal | [Read More](https://medium.com/p/0cfb7f566e88) |
+| Sat, 01 Nov 2025 14:40:17 GMT | User Groups, Roles, and Permission Schemes in Confluence Cloud | Erdem UÇAK | [Read More](https://medium.com/p/817477f726ab) |
+| Sat, 01 Nov 2025 14:39:51 GMT | Page and Content Access Control within a Space | Erdem UÇAK | [Read More](https://medium.com/p/bbd870f19616) |
+| Sat, 01 Nov 2025 14:33:20 GMT | Security Challenges in Internet of Things (IoT) | Jibriel Jeelani | [Read More](https://medium.com/p/5aeea10e0930) |
 | Sat, 01 Nov 2025 14:31:56 GMT | The Ultimate Browser Toolkit: Part 4 | XoX | [Read More](https://medium.com/p/748592fc64bc) |
+| Sat, 01 Nov 2025 14:29:13 GMT | I Lost My Wife. | Sufi Abdul Azeem Khan Durrani | [Read More](https://medium.com/p/8295c02f5316) |
+| Sat, 01 Nov 2025 14:28:33 GMT | The Little Cottage in the Valley | Jemina Jaja | [Read More](https://medium.com/p/f2cddc1754b6) |
 | Sat, 01 Nov 2025 14:25:25 GMT | TheHackersLabs — ZAPP [Write Up] | APS88 | [Read More](https://medium.com/p/b7b0474c22b6) |
 | Sat, 01 Nov 2025 14:19:43 GMT | AI Security Tools — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/35fbc9febeb1) |
 | Sat, 01 Nov 2025 14:19:37 GMT | Windows Forensics 1 - Complete TryHackMe Walkthrough | Rahul B | [Read More](https://medium.com/p/fea95d679f5c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 08:58:44 GMT | Lock HTB Machine Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/14be0f6edcb0) |
 | Sat, 01 Nov 2025 08:45:02 GMT | Palo Alto Networks Unit 42 Retainer: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d091d4ea78bc) |
 | Sat, 01 Nov 2025 08:44:44 GMT | The 5 Linux Mistakes That Nearly Broke My System (And What They Taught Me About Respecting the… | Fateyaly | [Read More](https://medium.com/p/f5c22c1d87dd) |
-| Sat, 01 Nov 2025 08:41:02 GMT | Caesar Cipher Encryptor/Decryptor | Shashank M.S | [Read More](https://medium.com/p/115315e23eb3) |
-| Sat, 01 Nov 2025 08:38:28 GMT | Bluetooth Low Energy (BLE) Attacks and Mobile App Protection | Bervice | [Read More](https://medium.com/p/6de642bac6ee) |
-| Sat, 01 Nov 2025 08:19:22 GMT | The Kind of Heartbreak Men Don’t Talk About: We Just Swallow It and Keep Walking | Gursahib Singh | [Read More](https://medium.com/p/95b6c2be27df) |
-| Sat, 01 Nov 2025 08:15:51 GMT | Top 15 Social-Engineering Techniques Hackers Commonly Use | Manisha Chaudhary | [Read More](https://medium.com/p/3ed6c4019876) |
-| Sat, 01 Nov 2025 08:15:06 GMT | The Idea Behind Layered Security | Dereknickel | [Read More](https://medium.com/p/a7d1a34eaf12) |
-| Sat, 01 Nov 2025 08:08:10 GMT | Today’s Top Cyber Intelligence Highlights — Nov 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5ad7f37d1ce2) |
-| Sat, 01 Nov 2025 08:05:08 GMT | Day 92: Nibbles — HTB | Nile Okomo | [Read More](https://medium.com/p/7b473521c30d) |
-| Sat, 01 Nov 2025 08:02:37 GMT | Flying to the UAE for F1 Abu Dhabi 2025? | PGS Solution | [Read More](https://medium.com/p/4bbfd088452a) |
-| Sat, 01 Nov 2025 08:01:39 GMT | It’s Okay to Cry | Nawab Khan | [Read More](https://medium.com/p/33109e028785) |
-| Sat, 01 Nov 2025 08:01:22 GMT | Path Traversal on PortSwigger | Evan Ho | [Read More](https://medium.com/p/bc05d8b4e796) |
-| Sat, 01 Nov 2025 07:54:49 GMT | Privilege Escalation in snapshat ADS$$ | Aksoum Abderrahmane | [Read More](https://medium.com/p/cb83569536e5) |
