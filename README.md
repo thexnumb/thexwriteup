@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 08:19:22 GMT | The Kind of Heartbreak Men Don’t Talk About: We Just Swallow It and Keep Walking | Gursahib Singh | [Read More](https://medium.com/p/95b6c2be27df) |
+| Sat, 01 Nov 2025 08:15:51 GMT | Top 15 Social-Engineering Techniques Hackers Commonly Use | Manisha Chaudhary | [Read More](https://medium.com/p/3ed6c4019876) |
+| Sat, 01 Nov 2025 08:15:06 GMT | The Idea Behind Layered Security | Dereknickel | [Read More](https://medium.com/p/a7d1a34eaf12) |
+| Sat, 01 Nov 2025 08:08:10 GMT | Today’s Top Cyber Intelligence Highlights — Nov 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5ad7f37d1ce2) |
+| Sat, 01 Nov 2025 08:05:08 GMT | Day 92: Nibbles — HTB | Nile Okomo | [Read More](https://medium.com/p/7b473521c30d) |
+| Sat, 01 Nov 2025 08:02:37 GMT | Flying to the UAE for F1 Abu Dhabi 2025? | PGS Solution | [Read More](https://medium.com/p/4bbfd088452a) |
+| Sat, 01 Nov 2025 08:01:39 GMT | It’s Okay to Cry | Nawab Khan | [Read More](https://medium.com/p/33109e028785) |
+| Sat, 01 Nov 2025 08:01:22 GMT | Path Traversal on PortSwigger | Evan Ho | [Read More](https://medium.com/p/bc05d8b4e796) |
+| Sat, 01 Nov 2025 07:53:08 GMT | Redefining Security with Database Firewalls | FarMan | [Read More](https://medium.com/p/b646bcbaf0d7) |
+| Sat, 01 Nov 2025 07:39:59 GMT | Understanding Palo Alto Firewall Architecture — Simplified -NGCloudX | Vanditj | [Read More](https://medium.com/p/29b915154f37) |
+| Sat, 01 Nov 2025 07:37:10 GMT | When Simple Gets Interesting: Tokens Enter the Banking Series | Invariant0 | [Read More](https://medium.com/p/daa7c7aa5997) |
+| Sat, 01 Nov 2025 07:31:53 GMT | 7 Secure Defaults for Cookies, CORS & CSRF | Thinking Loop | [Read More](https://medium.com/p/5ef7bbc25152) |
+| Sat, 01 Nov 2025 07:26:39 GMT | Blue Teaming in the AI Era: Why Check Point Firewall is the Core of Modern Cyber Defence. | Rishabh Kumar | [Read More](https://medium.com/p/b8dce0aa5c4a) |
 | Sat, 01 Nov 2025 07:16:48 GMT | Metasploit: Exploitation — Writeup | Mahir | [Read More](https://medium.com/p/74cf57859f3e) |
 | Sat, 01 Nov 2025 07:11:04 GMT | Mastering Hidden Backups & Old Versions: Step-by-Step Guide for Pentesters and Bug Hunters | Very Lazy Tech | [Read More](https://medium.com/p/e1b0b077999f) |
 | Sat, 01 Nov 2025 07:08:12 GMT | My First Day Learning XSS — and I Found a Real Bug on My University Website | Sai Jayanth | [Read More](https://medium.com/p/1969fdc3d7aa) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 19:24:03 GMT | Secure Your Internal Conversations: Why Your Intranet Needs a Self-Hosted Video Platform | Jibon Costa | [Read More](https://medium.com/p/6cdffecee771) |
 | Fri, 31 Oct 2025 19:22:39 GMT | Why Learning Networking First Makes You a Better Cybersecurity Professional | Haider Ali | [Read More](https://medium.com/p/c1b63590cce7) |
 | Fri, 31 Oct 2025 19:08:14 GMT | Setting Up SSL in Information System with HashiCorp Vault via the CLI | Umair | [Read More](https://medium.com/p/7d5e9a12897e) |
-| Fri, 31 Oct 2025 19:04:09 GMT | When Central Banks Become the Target: Black Swan Lessons for a Fragile Digital Economy | Farhad Kabir | [Read More](https://medium.com/p/c5ae1b7ebf9f) |
-| Fri, 31 Oct 2025 19:02:03 GMT | Data Security in Snowflake | Pierre-Mickaël Chancrin | [Read More](https://medium.com/p/fc786cb5652f) |
-| Fri, 31 Oct 2025 19:02:03 GMT | The Year We Stopped Pretending: How Yash and Harshali Built Love From Shared Silence | Yash Patil | [Read More](https://medium.com/p/3cf5043ef38e) |
-| Fri, 31 Oct 2025 18:49:43 GMT | Comet Browser under the microscope: What you need to know about data protection with the Comet… | Cordula Boeck | [Read More](https://medium.com/p/22f716ff3a65) |
-| Fri, 31 Oct 2025 18:49:33 GMT | XXE: The XML External Entity Threat and Secure Parsing Code ️ | Esra Kayhan | [Read More](https://medium.com/p/31a8071d4a97) |
-| Fri, 31 Oct 2025 18:49:15 GMT | Artificial  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/741fb0f80015) |
-| Fri, 31 Oct 2025 18:41:32 GMT | Breaking Access-Control on Multi-Tenant Applications (Real world attacks explained) | seks99x | [Read More](https://medium.com/p/3c487e7db924) |
-| Fri, 31 Oct 2025 18:39:11 GMT | How I Found a Hidden Data Leak and Won a Bounty — The Practical Guide to Detecting Data… | Zoningxtr | [Read More](https://medium.com/p/fafba9fc6266) |
-| Fri, 31 Oct 2025 18:24:30 GMT | Friday Rant | ITinto Blog - Alessandro Tinivelli | [Read More](https://medium.com/p/1ab711534334) |
-| Fri, 31 Oct 2025 18:13:37 GMT | Reality Is Medicated. | KL Wilks- Views From the Weave | [Read More](https://medium.com/p/5e3d01434d81) |
-| Fri, 31 Oct 2025 18:03:26 GMT | Behind the Breach Series: Anti-forensics Case Study | Dorathy Christopher | [Read More](https://medium.com/p/699dad62d5a4) |
-| Fri, 31 Oct 2025 18:01:57 GMT | The Boring Path to Web Security: CSPs That Stick | Modexa | [Read More](https://medium.com/p/fa5fd41a1b2f) |
-| Fri, 31 Oct 2025 18:01:00 GMT | Cybersecurity News Review — Week 44 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/f4461f30b0d5) |
