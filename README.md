@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 11:31:53 GMT | GitHub Dorking for Bug Bounty — A Beginner’s Guide (Guaranteed Bounty) | Nitin yadav | [Read More](https://medium.com/p/ea699b648561) |
+| Sat, 01 Nov 2025 11:16:11 GMT | DOM XSS in nasa system 90.0000$$$ | Aksoum Abderrahmane | [Read More](https://medium.com/p/addc0a383e3f) |
+| Sat, 01 Nov 2025 11:08:59 GMT | SPECTATORS AND CREATORS | Joanorifha | [Read More](https://medium.com/p/17e13bbaf3a8) |
 | Sat, 01 Nov 2025 11:01:53 GMT | Cyber Shadows and Human Futures | Angus Peterson | [Read More](https://medium.com/p/67706a52c87e) |
 | Sat, 01 Nov 2025 10:58:20 GMT | DockerLabs Writeup — HackTheHeaven (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b6934ea75fb2) |
 | Sat, 01 Nov 2025 10:57:58 GMT | The Silent Cyberwar: How Check Point Firewalls Are Powering the Next-Gen Blue Team | Rishabh Kumar | [Read More](https://medium.com/p/1520232f3f33) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 02:53:08 GMT | Common risk profile for Healthcare Technology (HITECH) | Joe Alongi | [Read More](https://medium.com/p/4ce00a2f6bae) |
 | Sat, 01 Nov 2025 02:47:39 GMT | Building Digital Trust: Why We Started 21 Orange Street Cyber Solutions | Orange Street | [Read More](https://medium.com/p/3cee45eb00f6) |
 | Sat, 01 Nov 2025 02:46:51 GMT | When Intimacy Feels Terrifying: Understanding Sexual Phobias and How to Heal | Johanna W | [Read More](https://medium.com/p/f06d3058b953) |
-| Sat, 01 Nov 2025 02:37:31 GMT | Did China Wage an Invisible War Against Taiwan in 2024 and 2025? | Jim Tyler | [Read More](https://medium.com/p/9ccff34722e9) |
-| Sat, 01 Nov 2025 02:31:57 GMT | How I Stumbled on a Bug That Gave 5x The Rewards (Without Any Hacking Tools) | StrangeRwhite | [Read More](https://medium.com/p/002767451f85) |
-| Sat, 01 Nov 2025 02:21:54 GMT | Lesson 2 : The Evolution of Cybersecurity | YogiCode | [Read More](https://medium.com/p/cd4428ce35bf) |
