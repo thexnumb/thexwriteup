@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 09:30:17 GMT | Hack Smart Security | Moseslu | [Read More](https://medium.com/p/394565904f93) |
+| Sat, 01 Nov 2025 09:19:37 GMT | A synergistic model for cybersecurity: Towards a proof of properties for attack-resistant systems | Mouad B. | [Read More](https://medium.com/p/91f02fd16a87) |
+| Sat, 01 Nov 2025 09:18:20 GMT | Would You Use the ChatGPT Atlas Browser? | Shahzaib | [Read More](https://medium.com/p/795ebfa76567) |
 | Sat, 01 Nov 2025 09:12:11 GMT | How I earned ₹₹₹₹₹ by reporting API key to massive payment company. | DEep | [Read More](https://medium.com/p/f02e85fdbdab) |
 | Sat, 01 Nov 2025 09:07:20 GMT | How Does Information Technology Improve Education? | Noah Taylor | [Read More](https://medium.com/p/82b81537e1f7) |
 | Sat, 01 Nov 2025 09:07:14 GMT | How a Simple Phone Charge Could Empty Your Wallet | Donavan Goodman | [Read More](https://medium.com/p/e6f33ce679d7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 20:53:37 GMT | 09032543127 | Mona09032543127 | [Read More](https://medium.com/p/f8b3bec37747) |
 | Fri, 31 Oct 2025 20:51:52 GMT | The End of Cybersecurity? | Cyber-AppSec | [Read More](https://medium.com/p/0f9271581b31) |
 | Fri, 31 Oct 2025 20:51:19 GMT | The IT Horror Stories That Keep Admins Up at Night (And How to Survive Them) | NAKIVO | [Read More](https://medium.com/p/eef1a7057c8e) |
-| Fri, 31 Oct 2025 20:49:35 GMT | 09032543127 | Mona09032543127 | [Read More](https://medium.com/p/32fc25093c4b) |
-| Fri, 31 Oct 2025 20:42:04 GMT | How a Lab Box Taught Me the Real-World Cost of Misconfiguration | Vivektumma27 | [Read More](https://medium.com/p/dbf80940a190) |
-| Fri, 31 Oct 2025 20:41:32 GMT | How I Got a Four-Digit Bug Bounty From Grammarly | Aland Dlshad | [Read More](https://medium.com/p/187038396843) |
