@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 11:01:53 GMT | Cyber Shadows and Human Futures | Angus Peterson | [Read More](https://medium.com/p/67706a52c87e) |
+| Sat, 01 Nov 2025 10:58:20 GMT | DockerLabs Writeup — HackTheHeaven (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b6934ea75fb2) |
+| Sat, 01 Nov 2025 10:57:58 GMT | The Silent Cyberwar: How Check Point Firewalls Are Powering the Next-Gen Blue Team | Rishabh Kumar | [Read More](https://medium.com/p/1520232f3f33) |
+| Sat, 01 Nov 2025 10:52:19 GMT | Secure Your React App in Minutes with Auth0  (Step-by-Step for SPA Developers) | Haniakhan | [Read More](https://medium.com/p/e3781b929f09) |
+| Sat, 01 Nov 2025 10:46:32 GMT | The Atomic Standard: A Practitioner’s Compendium for Single-Event Threat Detection | Andrey Pautov | [Read More](https://medium.com/p/570c4241d4d9) |
+| Sat, 01 Nov 2025 10:39:50 GMT | Comprehensive Cyber Security Solutions for a Safer Digital World — L4RG.COM | Karthik E | [Read More](https://medium.com/p/1788a07d1915) |
+| Sat, 01 Nov 2025 10:38:56 GMT | Cyber Security SEO Guide by Traffic Tail [2026 Edition] | Traffic Tail - Digital Marketing Agency | [Read More](https://medium.com/p/6dd374d32c47) |
 | Sat, 01 Nov 2025 10:36:35 GMT | Splunk — Detection Of Archive File Creation | Eymen Takak | [Read More](https://medium.com/p/592c57e727df) |
 | Sat, 01 Nov 2025 10:36:20 GMT | Why Convincing Construction Companies to Care About ISO 27001 Feels Like Asking Them to Wear Hard… | R-Squared Cyber | [Read More](https://medium.com/p/f2a3a186771c) |
 | Sat, 01 Nov 2025 10:28:15 GMT | Tyrant :A malicious tool used for penetration testing and remote control persistence | Мартин. | [Read More](https://medium.com/p/c16bdaa29c73) |
+| Sat, 01 Nov 2025 10:28:15 GMT | 5 Mind-Blowing Camera Features on the Tecno Spark 20 Pro Plus | Hana Saito | [Read More](https://medium.com/p/035c07b33e14) |
 | Sat, 01 Nov 2025 10:26:19 GMT | The Hidden Exploit That Lets AI Tools Steal Intellectual Property | Andrew Murphy | [Read More](https://medium.com/p/7a06058ee9e2) |
 | Sat, 01 Nov 2025 10:25:08 GMT | Cyber Security | Molletibalu | [Read More](https://medium.com/p/a7a2c107dc34) |
 | Sat, 01 Nov 2025 10:22:32 GMT | The AI Nightmare | Amiltha | [Read More](https://medium.com/p/be7651291fdd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 02:37:31 GMT | Did China Wage an Invisible War Against Taiwan in 2024 and 2025? | Jim Tyler | [Read More](https://medium.com/p/9ccff34722e9) |
 | Sat, 01 Nov 2025 02:31:57 GMT | How I Stumbled on a Bug That Gave 5x The Rewards (Without Any Hacking Tools) | StrangeRwhite | [Read More](https://medium.com/p/002767451f85) |
 | Sat, 01 Nov 2025 02:21:54 GMT | Lesson 2 : The Evolution of Cybersecurity | YogiCode | [Read More](https://medium.com/p/cd4428ce35bf) |
-| Sat, 01 Nov 2025 02:14:11 GMT | Decoding autonomous aerial security systems and how Indrajaal is revolutionizing counter-drone… | Kiran | [Read More](https://medium.com/p/b4add187cb5e) |
-| Sat, 01 Nov 2025 02:00:45 GMT | Understanding JWT Authentication Flow in Spring Boot | Prince kumar Maurya | [Read More](https://medium.com/p/5933bc385e66) |
-| Sat, 01 Nov 2025 01:51:32 GMT | Prompting Generative AI: A Simple Format That Still Works | Robin Kester - Please Don’t Feed the Unicorn | [Read More](https://medium.com/p/f202c1ae9062) |
-| Sat, 01 Nov 2025 01:48:13 GMT | SQL has never been a database | Outman BAZ | [Read More](https://medium.com/p/9b7670d85bdc) |
-| Sat, 01 Nov 2025 01:21:52 GMT | They Didn’t Hack Your System — They Hacked You | mrwhite18 | [Read More](https://medium.com/p/79a9da3851a4) |
-| Sat, 01 Nov 2025 01:02:07 GMT | Commonwealth Bank — Cyber Fraud Detection Simulation | Javier | [Read More](https://medium.com/p/5513ba36d034) |
-| Sat, 01 Nov 2025 01:01:06 GMT | How I got into the tech industry | Reinaldo Freitas | [Read More](https://medium.com/p/4200496c37e8) |
-| Sat, 01 Nov 2025 00:58:19 GMT | The Clop Oracle Disaster Exposes Why Your Supply Chain Is Already Compromised | Shubh Patel | [Read More](https://medium.com/p/74d876ee0b56) |
