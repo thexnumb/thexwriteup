@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 22:29:53 GMT | Day 27 of my Cybersecurity Journey: Concluding John the Ripper Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/317107a8e9ad) |
+| Sat, 01 Nov 2025 22:24:01 GMT | The Quantum Cloud Revolution: How Machines That Think in Probabilities Are Rewriting Reality | The Deep Frame | [Read More](https://medium.com/p/4d1ebf15ba7d) |
+| Sat, 01 Nov 2025 22:20:18 GMT | UnderstainReal Intimacy | Amit Sood | [Read More](https://medium.com/p/de46724080e2) |
+| Sat, 01 Nov 2025 22:17:32 GMT | Inside the AI’s Head: The Silent Risk of System Prompt Leaks. | MANOJ [M_404] | [Read More](https://medium.com/p/e5f4a008f0be) |
 | Sat, 01 Nov 2025 21:56:25 GMT | Huntress 2025 CTF: Web Challenges Writeup | Sahand Babali | [Read More](https://medium.com/p/3ad9e42e1851) |
 | Sat, 01 Nov 2025 21:54:22 GMT | Top 10 Cyber Attacks (October 25 — October 31, 2025) | Siva Desetti | [Read More](https://medium.com/p/f146352d9ae3) |
 | Sat, 01 Nov 2025 21:40:30 GMT | The Weight of Hiding: A Letter from a Closeted Girl in India | Sonya N. | [Read More](https://medium.com/p/725443f7190e) |
@@ -109,7 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 14:06:41 GMT | CVE-2019–19726: OpenBSD Local Privilege Escalation via RLIMIT_DATA Memory Limit Attack | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/62827ecf5efb) |
 | Sat, 01 Nov 2025 14:01:55 GMT | What Is a Security Audit? | Heatena | [Read More](https://medium.com/p/4cc64acaaf34) |
 | Sat, 01 Nov 2025 13:59:45 GMT | Taint analysis in PVS-Studio C and C++ analyzer | Unicorn Developer | [Read More](https://medium.com/p/614373a8ad32) |
-| Sat, 01 Nov 2025 13:55:14 GMT | My Journey to ISC² Certified in Cybersecurity (CC): Building the Foundations of a Cyber Defender | Leonid | [Read More](https://medium.com/p/fa90f19000d1) |
-| Sat, 01 Nov 2025 13:50:44 GMT | WhatsApp Görüşmelerinde IP Adresi Tespiti: Teknik Analiz ve Uygulama | Eren Aloğlu | [Read More](https://medium.com/p/a93d320cf42e) |
-| Sat, 01 Nov 2025 13:40:26 GMT | HTTP Host Header Vulnerability | appsecwarrior | [Read More](https://medium.com/p/53136726a259) |
-| Sat, 01 Nov 2025 13:38:30 GMT | safezone tryhackme walkthrough | 8i5db | [Read More](https://medium.com/p/e87545bae470) |
