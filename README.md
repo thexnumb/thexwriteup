@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 03:33:18 GMT | How AI and IoT Are Increasing the Risk of Healthcare Data Breaches | Legal Thoughts | [Read More](https://medium.com/p/f549a106c25f) |
+| Sat, 01 Nov 2025 03:31:55 GMT | What Tata Motors 70 TB Exposure Teaches About Cloud Security | Deven Chhajed | [Read More](https://medium.com/p/4bf97d492515) |
+| Sat, 01 Nov 2025 03:28:06 GMT | The Art Of Game Hacking | xpl0dec | [Read More](https://medium.com/p/ff55f900d0ab) |
+| Sat, 01 Nov 2025 03:27:51 GMT | ️‍♂️ All About Scanning in Bug Bounty (2025 Edition)- Earning 2$$$ | Monu Jangra | [Read More](https://medium.com/p/b758c69746bb) |
+| Sat, 01 Nov 2025 03:18:55 GMT | 7 Tips Internet Aman untuk Semua Orang | Jadi Hacker | [Read More](https://medium.com/p/176c21c5dd01) |
+| Sat, 01 Nov 2025 03:17:01 GMT | Why Xlorin Avoids Pre-Trained Models | Xlorin Cyber-Chatbot | [Read More](https://medium.com/p/ee091b238eb6) |
 | Sat, 01 Nov 2025 02:53:08 GMT | Common risk profile for Healthcare Technology (HITECH) | Joe Alongi | [Read More](https://medium.com/p/4ce00a2f6bae) |
 | Sat, 01 Nov 2025 02:47:39 GMT | Building Digital Trust: Why We Started 21 Orange Street Cyber Solutions | Orange Street | [Read More](https://medium.com/p/3cee45eb00f6) |
 | Sat, 01 Nov 2025 02:46:51 GMT | When Intimacy Feels Terrifying: Understanding Sexual Phobias and How to Heal | Johanna W | [Read More](https://medium.com/p/f06d3058b953) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 16:00:27 GMT | Why C++ Still Matters in 2025 | Vipul Sonule | [Read More](https://medium.com/p/0ab6c5c13da0) |
 | Fri, 31 Oct 2025 15:56:36 GMT | Windows 11 Emergency Update Alert: Why You Should Install the Latest Patch Right Now | The question mark | [Read More](https://medium.com/p/e0c4395e4a3f) |
 | Fri, 31 Oct 2025 15:53:51 GMT | KYB, KYT & Compliance — The Core of Secure Crypto Processing | 0xProcessing | [Read More](https://medium.com/p/c4962613a571) |
-| Fri, 31 Oct 2025 15:51:50 GMT | Honesty > perfection. | Lakshmi Thampi | [Read More](https://medium.com/p/b1a45b69ccbe) |
-| Fri, 31 Oct 2025 15:50:00 GMT | If My Data Is So Secure, Why Is Everyone Else Using It? | Consumer Attorneys PLLC | [Read More](https://medium.com/p/d46b432507df) |
-| Fri, 31 Oct 2025 15:44:05 GMT | Google Dorking for Test Environments | Cybersecplayground | [Read More](https://medium.com/p/ae70958fa112) |
-| Fri, 31 Oct 2025 15:36:43 GMT | The Spy in Your Pocket: What Operation Triangulation Tells Us About the Future of Smartphone… | Abatis ABTU | [Read More](https://medium.com/p/c351d2eee4f8) |
-| Fri, 31 Oct 2025 15:20:09 GMT | MonsterV2 Malware-as-a-Service (MaaS) and the TA585 Threat Group’s Advanced ClickFix Campaigns… | zerOiQ | [Read More](https://medium.com/p/426c5142f818) |
-| Fri, 31 Oct 2025 15:18:22 GMT | Inside the Hacker’s Playground: Setting Up Your Virtual Lab (Part 1) | Stitoutl | [Read More](https://medium.com/p/805c4b76125b) |
