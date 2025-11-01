@@ -12,10 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 10:36:35 GMT | Splunk — Detection Of Archive File Creation | Eymen Takak | [Read More](https://medium.com/p/592c57e727df) |
+| Sat, 01 Nov 2025 10:36:20 GMT | Why Convincing Construction Companies to Care About ISO 27001 Feels Like Asking Them to Wear Hard… | R-Squared Cyber | [Read More](https://medium.com/p/f2a3a186771c) |
+| Sat, 01 Nov 2025 10:28:15 GMT | Tyrant :A malicious tool used for penetration testing and remote control persistence | Мартин. | [Read More](https://medium.com/p/c16bdaa29c73) |
+| Sat, 01 Nov 2025 10:26:19 GMT | The Hidden Exploit That Lets AI Tools Steal Intellectual Property | Andrew Murphy | [Read More](https://medium.com/p/7a06058ee9e2) |
+| Sat, 01 Nov 2025 10:25:08 GMT | Cyber Security | Molletibalu | [Read More](https://medium.com/p/a7a2c107dc34) |
+| Sat, 01 Nov 2025 10:22:32 GMT | The AI Nightmare | Amiltha | [Read More](https://medium.com/p/be7651291fdd) |
+| Sat, 01 Nov 2025 10:22:07 GMT | 7 Underrated iPhone 5s Tricks to Boost Speed Instantly | Elowen Virelle | [Read More](https://medium.com/p/5cb143a4dab9) |
+| Sat, 01 Nov 2025 10:20:38 GMT | Splunk — Detection Of File Downloads via PowerShell & Edge | Eymen Takak | [Read More](https://medium.com/p/a04d12b1b9e4) |
 | Sat, 01 Nov 2025 10:19:21 GMT | How Safe Are You Really? The Hidden Gaps Of Security No One Talks About | Marshall | [Read More](https://medium.com/p/f62c419d3fc0) |
 | Sat, 01 Nov 2025 10:17:40 GMT | BUG Bonus Claim Guide — October 2025 | Pastel | [Read More](https://medium.com/p/13e94ca278cf) |
+| Sat, 01 Nov 2025 10:14:44 GMT | 5 Proven iPhone 8 Plus Fixes for Common Lag and Heating Issues | Luna Collins | [Read More](https://medium.com/p/9e5b61661144) |
 | Sat, 01 Nov 2025 10:11:29 GMT | THM - Lost in RAMslation | Francesco Pastore | [Read More](https://medium.com/p/14cacf484d6e) |
 | Sat, 01 Nov 2025 10:07:31 GMT | 10 Proven iPhone XR Battery Tips That Truly Extend Usage Time | Ella Walker | [Read More](https://medium.com/p/259c3228346f) |
+| Sat, 01 Nov 2025 10:07:10 GMT | Next-Generation Firewalls: Transforming Network Security for Modern Threats | IsaacNatarajan | [Read More](https://medium.com/p/09a37f3ddd5a) |
 | Sat, 01 Nov 2025 09:52:53 GMT | Try-Hack-Me challenge walkthrough GamingServer— EasyCTF | Arka Priya Das | [Read More](https://medium.com/p/fe47798fae0f) |
 | Sat, 01 Nov 2025 09:49:15 GMT | The Complete Guide to IT Solutions in Saudi Arabia: Why Bluechip-Saudi is Your Trusted Partner? | IT Solutions Providers | [Read More](https://medium.com/p/4c0c72198620) |
 | Sat, 01 Nov 2025 09:47:16 GMT | 5 Underrated iPhone 11 Pro Max Camera Hacks for Stunning Photos | Zara Everly | [Read More](https://medium.com/p/e318afdb8eab) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 01:02:07 GMT | Commonwealth Bank — Cyber Fraud Detection Simulation | Javier | [Read More](https://medium.com/p/5513ba36d034) |
 | Sat, 01 Nov 2025 01:01:06 GMT | How I got into the tech industry | Reinaldo Freitas | [Read More](https://medium.com/p/4200496c37e8) |
 | Sat, 01 Nov 2025 00:58:19 GMT | The Clop Oracle Disaster Exposes Why Your Supply Chain Is Already Compromised | Shubh Patel | [Read More](https://medium.com/p/74d876ee0b56) |
-| Sat, 01 Nov 2025 00:08:23 GMT | HTB Cicada (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/92ccba1cb25f) |
-| Sat, 01 Nov 2025 00:01:58 GMT | RustScan Guide for Ultra-Fast Port Scanning | JPablo13 | [Read More](https://medium.com/p/77a7aa3cac21) |
-| Fri, 31 Oct 2025 23:56:51 GMT | The Fear of Being Known | NadiG | [Read More](https://medium.com/p/0c459d580063) |
-| Fri, 31 Oct 2025 23:03:16 GMT | From Africa to the World: The AI That Fights Scams, Not Creates Them | Frankline Yombih Yombih | [Read More](https://medium.com/p/494038d6aac3) |
-| Fri, 31 Oct 2025 23:02:49 GMT | How Cyber-Attacks Will Look in 2025 — And How You Can Stop Them | Davo Richy | [Read More](https://medium.com/p/3327af4abb09) |
-| Fri, 31 Oct 2025 22:53:30 GMT | Race condition vulnerability occurs when websites process requests concurrently. | Ebrahimmagdy | [Read More](https://medium.com/p/43f3e3cd2350) |
-| Fri, 31 Oct 2025 22:38:26 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/67055ed777ae) |
-| Fri, 31 Oct 2025 22:25:56 GMT | When the Blacklist Failed: How I Triggered XSS with a Middle Click | Rehan Ansari | [Read More](https://medium.com/p/fc45f5022543) |
-| Fri, 31 Oct 2025 22:22:39 GMT | Wankbattling, Recommendation Algorithms, and Third Spaces | Familiar News | [Read More](https://medium.com/p/9b8b34f52d64) |
-| Fri, 31 Oct 2025 22:19:43 GMT | Operational Technology and Industrial Control Systems | Shady mulla | [Read More](https://medium.com/p/02956653db56) |
