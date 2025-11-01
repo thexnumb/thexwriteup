@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 20:18:57 GMT | Beyond True/False: Using AI to Create a ‘Trust Score’ for Information | Farouk | [Read More](https://medium.com/p/7e7736002709) |
 | Sat, 01 Nov 2025 20:12:41 GMT | Social Engineering the Rogues Gallery | David ONeal | [Read More](https://medium.com/p/d81c4599209e) |
 | Sat, 01 Nov 2025 20:09:17 GMT | just memecoin — Best Platforms | just memecoin | [Read More](https://medium.com/p/8eb4e1ab8534) |
 | Sat, 01 Nov 2025 20:04:59 GMT | How Cloud Misconfigurations in AWS and Azure Become Real Breaches for Small Organizations | Dilip Prasad | [Read More](https://medium.com/p/7faf3a1deab2) |
@@ -112,4 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 13:01:56 GMT | 7 Common Online Scams You Still Fall For (and How to Stop It) | CyberSafe Insights | [Read More](https://medium.com/p/b501999ca008) |
 | Sat, 01 Nov 2025 12:59:14 GMT | Cybersecurity AI Trends 2025: Navigating the New Frontier of Digital Defense | The Velocity India | [Read More](https://medium.com/p/83783dc681e8) |
 | Sat, 01 Nov 2025 12:51:58 GMT | Prisma SASE vs Zscaler — A Deep Dive into the Future of Secure Cloud Access - NGCloudX | Vandit jain | [Read More](https://medium.com/p/cf2914fe4670) |
-| Sat, 01 Nov 2025 12:44:07 GMT | Umbra:ROS 2 protocol vulnerability- remote malicious component injection tool | Мартин. | [Read More](https://medium.com/p/5ae9aa9c025e) |
