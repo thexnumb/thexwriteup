@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 05:16:54 GMT | Security method annotations in Spring security | Yasif khan | [Read More](https://medium.com/p/4448f86e16bc) |
+| Sat, 01 Nov 2025 05:00:12 GMT | How to Set Up SSL on Nginx (Step-by-Step Guide for YourOrganization) | Muhammad khan | [Read More](https://medium.com/p/06aa49c1b49a) |
+| Sat, 01 Nov 2025 04:56:23 GMT | From Legit to Lateral: Inside the Abuse of Windows Tasking and Remote Execution Tools | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/54dfe98eb1b5) |
+| Sat, 01 Nov 2025 04:56:18 GMT | My Journey into Ethical Hacking — From Beginner to CEH Certified | Himanshu Parmar | [Read More](https://medium.com/p/e7ee328b37e9) |
+| Sat, 01 Nov 2025 04:40:08 GMT | Managing unskilled labor effectively is a hard challenge for businesses, industrial sites and… | Lakshay Security | [Read More](https://medium.com/p/fe292a183f93) |
+| Sat, 01 Nov 2025 04:40:04 GMT | The Legal and Ethical Concerns of Digital Surveillance | Samina Perveen | [Read More](https://medium.com/p/8312c47aed99) |
+| Sat, 01 Nov 2025 04:37:20 GMT | Security and Surveillance Solution | Rosby George | [Read More](https://medium.com/p/998b1f2c1a78) |
+| Sat, 01 Nov 2025 04:35:32 GMT | How Do Professional Security Services in Hisar Handle Unskilled Labor? | Lakshay Security | [Read More](https://medium.com/p/10013667a419) |
 | Sat, 01 Nov 2025 04:34:12 GMT | From Breaking Systems to Building Them Stronger | Aj | [Read More](https://medium.com/p/701bc63992d1) |
 | Sat, 01 Nov 2025 04:17:35 GMT | 5 Cybersecurity Side Hustles That Actually Pay (I Tested Them All) | S3CloudHub | [Read More](https://medium.com/p/23ac302a4f7d) |
 | Sat, 01 Nov 2025 04:02:00 GMT | South Korea’s ‘Monster Missile’ | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/08696324d13c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 16:53:31 GMT | AI Takeover for Social Engagement Undermines Collaboration | Matthew.Rosenquist | [Read More](https://medium.com/p/9d828d958b03) |
 | Fri, 31 Oct 2025 16:40:31 GMT | The Ultimate Bug Hunter’s Recon workflow: From Subdomains to Critical Vulnerabilities | Manoj | [Read More](https://medium.com/p/befcef19307f) |
 | Fri, 31 Oct 2025 16:38:16 GMT | The “Urgent” Email to Your CEO? It Might Be a Ticking Time Bomb | Athishsagarkishan | [Read More](https://medium.com/p/b64384ac10c9) |
-| Fri, 31 Oct 2025 16:37:54 GMT | Unauthorized USB Device Detection with AI+ML | Myth | [Read More](https://medium.com/p/cf3fcbd53fae) |
-| Fri, 31 Oct 2025 16:36:15 GMT | Windows Process Anomaly Detection with AI & ML | Myth | [Read More](https://medium.com/p/ed58163b8272) |
-| Fri, 31 Oct 2025 16:33:41 GMT | AI-Powered Phishing Email Detection Using ML Classifier | Myth | [Read More](https://medium.com/p/67c816ec733a) |
-| Fri, 31 Oct 2025 16:18:20 GMT | Hack the Box: Jerry Walkthrough | n0t_brit | [Read More](https://medium.com/p/32455755491b) |
-| Fri, 31 Oct 2025 16:14:01 GMT | What the Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/6b364a001419) |
-| Fri, 31 Oct 2025 16:13:07 GMT | What The Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/bb7147c03023) |
-| Fri, 31 Oct 2025 16:09:01 GMT | The Web Can’t Keep Up With Itself | Taylor Corbett | [Read More](https://medium.com/p/f6fd1053736d) |
-| Fri, 31 Oct 2025 16:08:18 GMT | Backend For Dummies: Securing Your Web App | Dillon Ansah | [Read More](https://medium.com/p/49a3127b90de) |
