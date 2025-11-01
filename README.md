@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 02:53:08 GMT | Common risk profile for Healthcare Technology (HITECH) | Joe Alongi | [Read More](https://medium.com/p/4ce00a2f6bae) |
+| Sat, 01 Nov 2025 02:47:39 GMT | Building Digital Trust: Why We Started 21 Orange Street Cyber Solutions | Orange Street | [Read More](https://medium.com/p/3cee45eb00f6) |
+| Sat, 01 Nov 2025 02:46:51 GMT | When Intimacy Feels Terrifying: Understanding Sexual Phobias and How to Heal | Johanna W | [Read More](https://medium.com/p/f06d3058b953) |
+| Sat, 01 Nov 2025 02:37:31 GMT | Did China Wage an Invisible War Against Taiwan in 2024 and 2025? | Jim Tyler | [Read More](https://medium.com/p/9ccff34722e9) |
+| Sat, 01 Nov 2025 02:31:57 GMT | How I Stumbled on a Bug That Gave 5x The Rewards (Without Any Hacking Tools) | StrangeRwhite | [Read More](https://medium.com/p/002767451f85) |
+| Sat, 01 Nov 2025 02:21:54 GMT | Lesson 2 : The Evolution of Cybersecurity | YogiCode | [Read More](https://medium.com/p/cd4428ce35bf) |
+| Sat, 01 Nov 2025 02:14:11 GMT | Decoding autonomous aerial security systems and how Indrajaal is revolutionizing counter-drone… | Kiran | [Read More](https://medium.com/p/b4add187cb5e) |
+| Sat, 01 Nov 2025 02:00:45 GMT | Understanding JWT Authentication Flow in Spring Boot | Prince kumar Maurya | [Read More](https://medium.com/p/5933bc385e66) |
+| Sat, 01 Nov 2025 01:51:32 GMT | Prompting Generative AI: A Simple Format That Still Works | Robin Kester - Please Don’t Feed the Unicorn | [Read More](https://medium.com/p/f202c1ae9062) |
+| Sat, 01 Nov 2025 01:48:13 GMT | SQL has never been a database | Outman BAZ | [Read More](https://medium.com/p/9b7670d85bdc) |
 | Sat, 01 Nov 2025 01:21:52 GMT | They Didn’t Hack Your System — They Hacked You | mrwhite18 | [Read More](https://medium.com/p/79a9da3851a4) |
 | Sat, 01 Nov 2025 01:02:07 GMT | Commonwealth Bank — Cyber Fraud Detection Simulation | Javier | [Read More](https://medium.com/p/5513ba36d034) |
 | Sat, 01 Nov 2025 01:01:06 GMT | How I got into the tech industry | Reinaldo Freitas | [Read More](https://medium.com/p/4200496c37e8) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 15:36:43 GMT | The Spy in Your Pocket: What Operation Triangulation Tells Us About the Future of Smartphone… | Abatis ABTU | [Read More](https://medium.com/p/c351d2eee4f8) |
 | Fri, 31 Oct 2025 15:20:09 GMT | MonsterV2 Malware-as-a-Service (MaaS) and the TA585 Threat Group’s Advanced ClickFix Campaigns… | zerOiQ | [Read More](https://medium.com/p/426c5142f818) |
 | Fri, 31 Oct 2025 15:18:22 GMT | Inside the Hacker’s Playground: Setting Up Your Virtual Lab (Part 1) | Stitoutl | [Read More](https://medium.com/p/805c4b76125b) |
-| Fri, 31 Oct 2025 15:17:39 GMT | “The $12,500 GraphQL Glitch That Exposed HackerOne’s Own Hackers” | Aman Sharma | [Read More](https://medium.com/p/40de41150f64) |
-| Fri, 31 Oct 2025 15:09:47 GMT | Fundamentals of Cloud Computing Security | Ayoade Akintayo (PhD) | [Read More](https://medium.com/p/73a67b0bdc0e) |
-| Fri, 31 Oct 2025 14:55:26 GMT | How Secure Is Your Password? I Built a Generator to Find Out | Anand Balachandran Pillai | [Read More](https://medium.com/p/ef2d1330bf4b) |
-| Fri, 31 Oct 2025 14:51:09 GMT | The F1 Data Pit Stop: How a Single API Bug Exposed Racing’s Biggest Stars | Aj | [Read More](https://medium.com/p/79daac3e56d0) |
-| Fri, 31 Oct 2025 14:48:50 GMT | Internet of Things — Input Analog | Zifa Tea Azzahra | [Read More](https://medium.com/p/a09b3cdb8776) |
-| Fri, 31 Oct 2025 14:45:21 GMT | RONIN OWL CTI Report Template: Proactive Defense in the Age of AI | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/43d2cb68d812) |
-| Fri, 31 Oct 2025 14:44:32 GMT | I Built My Worth on Exhaustion | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/fabbf2ebecdc) |
-| Fri, 31 Oct 2025 14:44:15 GMT | The Things I Never Said Out Loud – But Always Felt Deeply | its_that_girlpearls | [Read More](https://medium.com/p/6bccf6b9f954) |
-| Fri, 31 Oct 2025 14:33:25 GMT | The Windows Forensic Journey — Icon Cache (IconCache.db) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f81db7e4b458) |
-| Fri, 31 Oct 2025 14:27:45 GMT | Terra Dotta Exposed Unencrypted Passwords: A Major Security Oversight in Higher Ed Tech | Austin Miller | [Read More](https://medium.com/p/a6461207b220) |
