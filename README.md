@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 18:10:30 GMT | How Cyber-Crimes affect IoT Devices | Alex P | [Read More](https://medium.com/p/f69609f592d3) |
+| Sat, 01 Nov 2025 18:08:06 GMT | Smart Office Networking Setup 2025 — Devices, Security & Speed | Jazz Cyber Shield | [Read More](https://medium.com/p/5c13d1eaaaa8) |
+| Sat, 01 Nov 2025 18:04:11 GMT | The Evolution and Integration of AI in Cybersecurity: Current Applications, Future Potential, and… | Alex P | [Read More](https://medium.com/p/5290e3509e24) |
+| Sat, 01 Nov 2025 17:54:09 GMT | The Public Wi-Fi Warning: Your Smartphone is a Mobile Vault | Technology EM3 | [Read More](https://medium.com/p/fb8fc7954895) |
+| Sat, 01 Nov 2025 17:51:01 GMT | Why People Keep Falling for Phishing—Even the Smart Ones | Nimra Ismail | [Read More](https://medium.com/p/f824bb418659) |
+| Sat, 01 Nov 2025 17:39:12 GMT | “5 Deadly Spring Boot Security Mistakes with JWT & OAuth2 (And How to Fix Them Before Hackers… | Karuna | [Read More](https://medium.com/p/0f97ee0a0d58) |
+| Sat, 01 Nov 2025 17:38:57 GMT | Honeypots and Honeynets: Tricking Hackers to Learn Their Secrets | Huseyn Eyvazov | [Read More](https://medium.com/p/b3b54eebefa7) |
 | Sat, 01 Nov 2025 17:31:48 GMT | Why This Matters Now: The more personal information you post online (birthdays, pet names, location… | Technology EM3 | [Read More](https://medium.com/p/134681819a18) |
 | Sat, 01 Nov 2025 17:27:31 GMT | Automation VS Manual Hacking. How To Do Bug Hunting The Right Way? | Rehan Sohail | [Read More](https://medium.com/p/c6e58232609f) |
 | Sat, 01 Nov 2025 17:24:48 GMT | Understanding Triage and CVSS | Huseyn Eyvazov | [Read More](https://medium.com/p/a4ecde674661) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 11:31:53 GMT | GitHub Dorking for Bug Bounty — A Beginner’s Guide (Guaranteed Bounty) | Nitin yadav | [Read More](https://medium.com/p/ea699b648561) |
 | Sat, 01 Nov 2025 11:16:11 GMT | DOM XSS in nasa system 90.0000$$$ | Aksoum Abderrahmane | [Read More](https://medium.com/p/addc0a383e3f) |
 | Sat, 01 Nov 2025 11:08:59 GMT | SPECTATORS AND CREATORS | Joanorifha | [Read More](https://medium.com/p/17e13bbaf3a8) |
-| Sat, 01 Nov 2025 11:01:53 GMT | Cyber Shadows and Human Futures | Angus Peterson | [Read More](https://medium.com/p/67706a52c87e) |
-| Sat, 01 Nov 2025 10:58:20 GMT | DockerLabs Writeup — HackTheHeaven (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b6934ea75fb2) |
-| Sat, 01 Nov 2025 10:57:58 GMT | The Silent Cyberwar: How Check Point Firewalls Are Powering the Next-Gen Blue Team | Rishabh Kumar | [Read More](https://medium.com/p/1520232f3f33) |
-| Sat, 01 Nov 2025 10:52:19 GMT | Secure Your React App in Minutes with Auth0  (Step-by-Step for SPA Developers) | Haniakhan | [Read More](https://medium.com/p/e3781b929f09) |
-| Sat, 01 Nov 2025 10:46:32 GMT | The Atomic Standard: A Practitioner’s Compendium for Single-Event Threat Detection | Andrey Pautov | [Read More](https://medium.com/p/570c4241d4d9) |
-| Sat, 01 Nov 2025 10:39:50 GMT | Comprehensive Cyber Security Solutions for a Safer Digital World — L4RG.COM | Karthik E | [Read More](https://medium.com/p/1788a07d1915) |
-| Sat, 01 Nov 2025 10:38:56 GMT | Cyber Security SEO Guide by Traffic Tail [2026 Edition] | Traffic Tail - Digital Marketing Agency | [Read More](https://medium.com/p/6dd374d32c47) |
