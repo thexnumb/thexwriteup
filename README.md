@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 14:06:41 GMT | CVE-2019–19726: OpenBSD Local Privilege Escalation via RLIMIT_DATA Memory Limit Attack | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/62827ecf5efb) |
+| Sat, 01 Nov 2025 14:01:55 GMT | What Is a Security Audit? | Heatena | [Read More](https://medium.com/p/4cc64acaaf34) |
+| Sat, 01 Nov 2025 13:59:45 GMT | Taint analysis in PVS-Studio C and C++ analyzer | Unicorn Developer | [Read More](https://medium.com/p/614373a8ad32) |
+| Sat, 01 Nov 2025 13:55:14 GMT | My Journey to ISC² Certified in Cybersecurity (CC): Building the Foundations of a Cyber Defender | Leonid | [Read More](https://medium.com/p/fa90f19000d1) |
+| Sat, 01 Nov 2025 13:50:44 GMT | WhatsApp Görüşmelerinde IP Adresi Tespiti: Teknik Analiz ve Uygulama | Eren Aloğlu | [Read More](https://medium.com/p/a93d320cf42e) |
+| Sat, 01 Nov 2025 13:40:26 GMT | HTTP Host Header Vulnerability | appsecwarrior | [Read More](https://medium.com/p/53136726a259) |
 | Sat, 01 Nov 2025 13:38:30 GMT | safezone tryhackme walkthrough | 8i5db | [Read More](https://medium.com/p/e87545bae470) |
+| Sat, 01 Nov 2025 13:36:13 GMT | 5 Critical AI-Fueled Exploits Targeting Your VMware Infrastructure: Millions at Risk | Omgee255 | [Read More](https://medium.com/p/d6a761792a4f) |
 | Sat, 01 Nov 2025 13:31:45 GMT | YES, I learned this lesson the hard way. | Omar ELFarsaoui | [Read More](https://medium.com/p/04e1959aaa95) |
+| Sat, 01 Nov 2025 13:30:17 GMT | Cloud Güvenlik Mimarisi Nasıl Kurulur? | Enes Can Adil | [Read More](https://medium.com/p/8b2b26c4f381) |
 | Sat, 01 Nov 2025 13:25:02 GMT | [OverTheWire] Bandit Level 28 → 29 | H$nt | [Read More](https://medium.com/p/41cbf0409d1c) |
 | Sat, 01 Nov 2025 13:24:43 GMT | [OverTheWire] Bandit Level 27 → 28 | H$nt | [Read More](https://medium.com/p/4d1fe0bacdb4) |
 | Sat, 01 Nov 2025 13:24:19 GMT | [OverTheWire] Bandit Level 26 → 27 | H$nt | [Read More](https://medium.com/p/93600a1489c3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 07:31:53 GMT | 7 Secure Defaults for Cookies, CORS & CSRF | Thinking Loop | [Read More](https://medium.com/p/5ef7bbc25152) |
 | Sat, 01 Nov 2025 07:26:39 GMT | Blue Teaming in the AI Era: Why Check Point Firewall is the Core of Modern Cyber Defence. | Rishabh Kumar | [Read More](https://medium.com/p/b8dce0aa5c4a) |
 | Sat, 01 Nov 2025 07:16:48 GMT | Metasploit: Exploitation — Writeup | Mahir | [Read More](https://medium.com/p/74cf57859f3e) |
-| Sat, 01 Nov 2025 07:11:04 GMT | Mastering Hidden Backups & Old Versions: Step-by-Step Guide for Pentesters and Bug Hunters | Very Lazy Tech | [Read More](https://medium.com/p/e1b0b077999f) |
-| Sat, 01 Nov 2025 07:08:12 GMT | My First Day Learning XSS — and I Found a Real Bug on My University Website | Sai Jayanth | [Read More](https://medium.com/p/1969fdc3d7aa) |
-| Sat, 01 Nov 2025 07:07:01 GMT | Les dessous du code | Kevin Wenger | [Read More](https://medium.com/p/34f1890117cb) |
-| Sat, 01 Nov 2025 06:59:33 GMT | 10 Micro-Habits That Rewire Your Brain for Calm | Vijay Kumar Gupta | [Read More](https://medium.com/p/a8b2c89fd669) |
-| Sat, 01 Nov 2025 06:49:09 GMT | How I Stay Active in Bug Bounty While Working 9–5 | Shaif Ali | [Read More](https://medium.com/p/7ab95e853c7a) |
-| Sat, 01 Nov 2025 06:46:52 GMT | How Hackers Steal Everything About You Without Touching Your Device | CyberSafe Insights | [Read More](https://medium.com/p/46640474982a) |
-| Sat, 01 Nov 2025 06:41:08 GMT | How to recover your disabled Snapchat account | Lucia Banjo | [Read More](https://medium.com/p/a34848795b7d) |
-| Sat, 01 Nov 2025 06:39:33 GMT | The Cybersecurity Habit That Made Our Startup Unhackable (It Takes 2 Minutes) | Hania Khan | [Read More](https://medium.com/p/22a895a0d3fe) |
