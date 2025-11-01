@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 13:38:30 GMT | safezone tryhackme walkthrough | 8i5db | [Read More](https://medium.com/p/e87545bae470) |
+| Sat, 01 Nov 2025 13:31:45 GMT | YES, I learned this lesson the hard way. | Omar ELFarsaoui | [Read More](https://medium.com/p/04e1959aaa95) |
+| Sat, 01 Nov 2025 13:25:02 GMT | [OverTheWire] Bandit Level 28 → 29 | H$nt | [Read More](https://medium.com/p/41cbf0409d1c) |
+| Sat, 01 Nov 2025 13:24:43 GMT | [OverTheWire] Bandit Level 27 → 28 | H$nt | [Read More](https://medium.com/p/4d1fe0bacdb4) |
+| Sat, 01 Nov 2025 13:24:19 GMT | [OverTheWire] Bandit Level 26 → 27 | H$nt | [Read More](https://medium.com/p/93600a1489c3) |
+| Sat, 01 Nov 2025 13:21:52 GMT | Elon Musk’s Warning: Apps and Operating Systems Will Soon Be Obsolete | Rakesh Bisht | [Read More](https://medium.com/p/da9049e3594e) |
+| Sat, 01 Nov 2025 13:18:30 GMT | All-Powerful (kind of)Machines | Saai Sudarsanan D | [Read More](https://medium.com/p/375c62c830c2) |
+| Sat, 01 Nov 2025 13:12:06 GMT | Comprehensive Tech Support Solutions by L4RG: Empowering Businesses with Reliable IT Services | Saumya | [Read More](https://medium.com/p/424805b6d115) |
 | Sat, 01 Nov 2025 13:08:53 GMT | ⚠️ WormGPT: The Evil Twin of ChatGPT ️‍️ | Sachin_lakshal | [Read More](https://medium.com/p/30fff6f96e48) |
 | Sat, 01 Nov 2025 13:01:56 GMT | 7 Common Online Scams You Still Fall For (and How to Stop It) | CyberSafe Insights | [Read More](https://medium.com/p/b501999ca008) |
 | Sat, 01 Nov 2025 12:59:14 GMT | Cybersecurity AI Trends 2025: Navigating the New Frontier of Digital Defense | The Velocity India | [Read More](https://medium.com/p/83783dc681e8) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 06:46:52 GMT | How Hackers Steal Everything About You Without Touching Your Device | CyberSafe Insights | [Read More](https://medium.com/p/46640474982a) |
 | Sat, 01 Nov 2025 06:41:08 GMT | How to recover your disabled Snapchat account | Lucia Banjo | [Read More](https://medium.com/p/a34848795b7d) |
 | Sat, 01 Nov 2025 06:39:33 GMT | The Cybersecurity Habit That Made Our Startup Unhackable (It Takes 2 Minutes) | Hania Khan | [Read More](https://medium.com/p/22a895a0d3fe) |
-| Sat, 01 Nov 2025 06:28:56 GMT | How Claude Killed the Password - and Redefined Digital Trust for Everyone | Parithimal Saravanan | [Read More](https://medium.com/p/aad885cfb588) |
-| Sat, 01 Nov 2025 06:26:29 GMT | Best Computer Setup Tips for Beginners to Boost Performance in 2025 | Ask IT Support | [Read More](https://medium.com/p/d2738930dfc9) |
-| Sat, 01 Nov 2025 06:25:29 GMT | The NPM Supply Chain Attack Crisis | Anish Yadav | [Read More](https://medium.com/p/041494717ec4) |
-| Sat, 01 Nov 2025 06:22:11 GMT | 【Let’s Defend Writeup】SOC279 — File and Directory Discovery Detected | kiki | [Read More](https://medium.com/p/3a937ea4808c) |
-| Sat, 01 Nov 2025 06:20:29 GMT | The CISO Role Is Broken | JC Gaillard | [Read More](https://medium.com/p/82fdb26d5012) |
-| Sat, 01 Nov 2025 06:11:06 GMT | The Hidden Dangers of AI-Powered Browsers | Abdelghani Alhijawi | [Read More](https://medium.com/p/a5fdf4f40a9b) |
-| Sat, 01 Nov 2025 05:52:27 GMT | INSIDE GYROSNOOP: MY VERSION OF “GAIROSCOPE” | Soorya A P | [Read More](https://medium.com/p/4cfeff19540f) |
-| Sat, 01 Nov 2025 05:33:20 GMT | /You are not a regular expression\./ | asperand | [Read More](https://medium.com/p/1037a256a6d3) |
