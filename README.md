@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 23:31:03 GMT | Emoji steganography and XSS: why my “clever” WAF bypass failed | Derek Johnston | [Read More](https://medium.com/p/84648f66faf1) |
 | Sat, 01 Nov 2025 23:11:22 GMT | Smart Travelers Pack This Portable Door Alarm | Marc Ford | [Read More](https://medium.com/p/7dff283fbe7e) |
+| Sat, 01 Nov 2025 23:06:12 GMT | PicoCTF Scan Surprise — Forensics [EASY] | Alvin Kapoor | [Read More](https://medium.com/p/869c423d2c3a) |
 | Sat, 01 Nov 2025 22:59:20 GMT | Roadmap | Sulaimon Yusuf | [Read More](https://medium.com/p/5801db469625) |
 | Sat, 01 Nov 2025 22:48:50 GMT | Hello… | Sulaimon Yusuf | [Read More](https://medium.com/p/2a7cb965bcbc) |
 | Sat, 01 Nov 2025 22:38:20 GMT | Why We’re All Terrible at Passwords (and That’s Okay) | Asimos | [Read More](https://medium.com/p/96ca6fc553cc) |
@@ -111,5 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 14:29:13 GMT | I Lost My Wife. | Sufi Abdul Azeem Khan Durrani | [Read More](https://medium.com/p/8295c02f5316) |
 | Sat, 01 Nov 2025 14:28:33 GMT | The Little Cottage in the Valley | Jemina Jaja | [Read More](https://medium.com/p/f2cddc1754b6) |
 | Sat, 01 Nov 2025 14:25:25 GMT | TheHackersLabs — ZAPP [Write Up] | APS88 | [Read More](https://medium.com/p/b7b0474c22b6) |
-| Sat, 01 Nov 2025 14:19:43 GMT | AI Security Tools — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/35fbc9febeb1) |
-| Sat, 01 Nov 2025 14:19:37 GMT | Windows Forensics 1 - Complete TryHackMe Walkthrough | Rahul B | [Read More](https://medium.com/p/fea95d679f5c) |
