@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 18:56:39 GMT | 10 Networking Basics to Master as a Cybersecurity Professional | Muhammad Adenowo | [Read More](https://medium.com/p/0adce44500aa) |
+| Sat, 01 Nov 2025 18:55:08 GMT | The Architect’s Complete Guide to Salesforce SSO — Provisioning, Authentication & Defense in Depth… | Pedro Távora Santos | [Read More](https://medium.com/p/f7a752de6562) |
+| Sat, 01 Nov 2025 18:48:33 GMT | Cómo instalar y configurar Metasploitable 2 | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/5165087f2ad7) |
+| Sat, 01 Nov 2025 18:47:14 GMT | Cyber-Eto 2025 Qualifications Writeups | Qais Hammad | [Read More](https://medium.com/p/64ad1a57319c) |
+| Sat, 01 Nov 2025 18:44:40 GMT | TryHackME — Shadow Trace | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/def07b35db52) |
 | Sat, 01 Nov 2025 18:43:32 GMT | AI Agents Are Learning to Hack | m1y | [Read More](https://medium.com/p/6d1a4fec2d70) |
+| Sat, 01 Nov 2025 18:38:55 GMT | The Go Security Mistake That Almost Got Me Hacked (And How I Fixed It)
+From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b5205827ce) |
 | Sat, 01 Nov 2025 18:36:38 GMT | ​ China-Backed Hackers Target European Diplomats via Unpatched Windows Flaw: The UNC6384 Threat | Midhun Thomas PT | [Read More](https://medium.com/p/eddb245c0056) |
+| Sat, 01 Nov 2025 18:32:04 GMT | The $1 Billion Lesson: How Cyber Warfare in Ukraine Changed Enterprise Java Security Forever | Toyez | [Read More](https://medium.com/p/b028c5752ce7) |
+| Sat, 01 Nov 2025 18:29:20 GMT | Race, Brute, Win: Exploiting a Weak Password-Reset Flow | Youssef Hany | [Read More](https://medium.com/p/58ebdde3a8e3) |
 | Sat, 01 Nov 2025 18:10:30 GMT | How Cyber-Crimes affect IoT Devices | Alex P | [Read More](https://medium.com/p/f69609f592d3) |
 | Sat, 01 Nov 2025 18:08:06 GMT | Smart Office Networking Setup 2025 — Devices, Security & Speed | Jazz Cyber Shield | [Read More](https://medium.com/p/5c13d1eaaaa8) |
 | Sat, 01 Nov 2025 18:04:11 GMT | The Evolution and Integration of AI in Cybersecurity: Current Applications, Future Potential, and… | Alex P | [Read More](https://medium.com/p/5290e3509e24) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 12:15:45 GMT | More Than a Uniform: The True Value of Professional Security in an Unpredictable World | Sambhu Sunil | [Read More](https://medium.com/p/7ac37e5fb300) |
 | Sat, 01 Nov 2025 12:13:43 GMT | Phishing Attacks: Techniques and Prevention Strategies | Kartik Gupta | [Read More](https://medium.com/p/c942604f10cc) |
 | Sat, 01 Nov 2025 12:06:23 GMT | Setting up Backup Rules in Android: Why Auto-Backup Matters — and Where It Bites | Vikas Soni | [Read More](https://medium.com/p/83b0ca6b0ad3) |
-| Sat, 01 Nov 2025 12:01:53 GMT | Corporate Greed Chronicles: UPS’s Peak Efficiency Meets Valley of Tears | Namir Sagheenanajar | [Read More](https://medium.com/p/87c8c0b8df72) |
-| Sat, 01 Nov 2025 11:52:54 GMT | ️Detailed Guideline: Defending Mobile Apps Against Frida (Even With Root Bypass): [Android] | Shubham Kumar Gupta | [Read More](https://medium.com/p/f26ae7df4e89) |
-| Sat, 01 Nov 2025 11:52:09 GMT | Why Cyber Security Assessment and Management Matters in the USA | Vishwajeettechtech | [Read More](https://medium.com/p/8bf715c7a0cd) |
-| Sat, 01 Nov 2025 11:46:44 GMT | Web challenge v13w3r - Cyber Talents write-up | 3li0xR | [Read More](https://medium.com/p/c5f8b1f7aa5a) |
-| Sat, 01 Nov 2025 11:45:45 GMT | Agentic Browsers Vulnerabilities: ChatGPT Atlas, Perplexity Comet | Oleg Dubovoi | [Read More](https://medium.com/p/8bcf38e747e8) |
-| Sat, 01 Nov 2025 11:45:34 GMT | AI Just Redefined Cybersecurity — And 2026 Will Never Be the Same! | Testleaf | [Read More](https://medium.com/p/a9b42f11d82f) |
-| Sat, 01 Nov 2025 11:43:18 GMT | How Google closed the open web it once symbolized | Enrique Dans | [Read More](https://medium.com/p/e1f8cb4e1283) |
-| Sat, 01 Nov 2025 11:31:53 GMT | GitHub Dorking for Bug Bounty — A Beginner’s Guide (Guaranteed Bounty) | Nitin yadav | [Read More](https://medium.com/p/ea699b648561) |
