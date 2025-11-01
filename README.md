@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 07:11:04 GMT | Mastering Hidden Backups & Old Versions: Step-by-Step Guide for Pentesters and Bug Hunters | Very Lazy Tech | [Read More](https://medium.com/p/e1b0b077999f) |
+| Sat, 01 Nov 2025 07:07:01 GMT | Les dessous du code | Kevin Wenger | [Read More](https://medium.com/p/34f1890117cb) |
+| Sat, 01 Nov 2025 06:59:33 GMT | 10 Micro-Habits That Rewire Your Brain for Calm | Vijay Kumar Gupta | [Read More](https://medium.com/p/a8b2c89fd669) |
+| Sat, 01 Nov 2025 06:49:09 GMT | How I Stay Active in Bug Bounty While Working 9–5 | Shaif Ali | [Read More](https://medium.com/p/7ab95e853c7a) |
+| Sat, 01 Nov 2025 06:46:52 GMT | How Hackers Steal Everything About You Without Touching Your Device | CyberSafe Insights | [Read More](https://medium.com/p/46640474982a) |
+| Sat, 01 Nov 2025 06:41:08 GMT | How to recover your disabled Snapchat account | Lucia Banjo | [Read More](https://medium.com/p/a34848795b7d) |
 | Sat, 01 Nov 2025 06:39:33 GMT | The Cybersecurity Habit That Made Our Startup Unhackable (It Takes 2 Minutes) | Hania Khan | [Read More](https://medium.com/p/22a895a0d3fe) |
 | Sat, 01 Nov 2025 06:28:56 GMT | How Claude Killed the Password - and Redefined Digital Trust for Everyone | Parithimal Saravanan | [Read More](https://medium.com/p/aad885cfb588) |
 | Sat, 01 Nov 2025 06:26:29 GMT | Best Computer Setup Tips for Beginners to Boost Performance in 2025 | Ask IT Support | [Read More](https://medium.com/p/d2738930dfc9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 18:01:00 GMT | Cybersecurity News Review — Week 44 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/f4461f30b0d5) |
 | Fri, 31 Oct 2025 17:53:11 GMT | Stop Brute-Force Attacks on Your NestJS API: A Dead Simple Implementation | Tanjil Hossain | [Read More](https://medium.com/p/a21bbddaee1b) |
 | Fri, 31 Oct 2025 17:47:29 GMT | Beyond Awareness: The State of Cybersecurity as October Ends | Neville Pinto | [Read More](https://medium.com/p/f58caf565551) |
-| Fri, 31 Oct 2025 17:43:16 GMT | Understanding the Latest Hardware Security Challenge and What It Means for Phala Cloud Computing | Soulman | [Read More](https://medium.com/p/ae8ec1d888db) |
-| Fri, 31 Oct 2025 17:39:30 GMT | CISA and NSA Release Urgent Guidance to Secure WSUS and Microsoft Exchange Servers | Chetan Seripally | [Read More](https://medium.com/p/7315647ab571) |
-| Fri, 31 Oct 2025 17:37:28 GMT | I Risked It All & Showed Up Naked | AllWays Written | [Read More](https://medium.com/p/2d2a0f2e3b87) |
-| Fri, 31 Oct 2025 17:31:59 GMT | The Silent Security Flaw in Your Python Scripts (And How to Fix It Before It’s Too Late) | Er.Muruganantham | [Read More](https://medium.com/p/1c432ec85f6a) |
-| Fri, 31 Oct 2025 17:24:56 GMT | The Eyes in the Signal: Why Your Phone Knows More Than You Think | Daniel Gagarin | [Read More](https://medium.com/p/885aae45fe5d) |
-| Fri, 31 Oct 2025 17:23:47 GMT | TryHackMe - Living Off the Land Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/343fc5958a66) |
