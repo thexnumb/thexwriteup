@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 21:56:25 GMT | Huntress 2025 CTF: Web Challenges Writeup | Sahand Babali | [Read More](https://medium.com/p/3ad9e42e1851) |
+| Sat, 01 Nov 2025 21:54:22 GMT | Top 10 Cyber Attacks (October 25 — October 31, 2025) | Siva Desetti | [Read More](https://medium.com/p/f146352d9ae3) |
+| Sat, 01 Nov 2025 21:40:30 GMT | The Weight of Hiding: A Letter from a Closeted Girl in India | Sonya N. | [Read More](https://medium.com/p/725443f7190e) |
 | Sat, 01 Nov 2025 21:28:05 GMT | Guard Your Digital Crown: The Hidden Costs of Convenience | Eric Bernard Gardner Jr | [Read More](https://medium.com/p/0b8f37d52613) |
 | Sat, 01 Nov 2025 21:24:58 GMT | When Knowledge Searches for Humans | Ahmed Mohamed | [Read More](https://medium.com/p/a1a0c24bd9e3) |
 | Sat, 01 Nov 2025 21:18:39 GMT | Mobile banking malware & overlay attacks: what they are, why they work, and how to stop them | Bervice | [Read More](https://medium.com/p/aa5f6eb1b1f7) |
@@ -110,6 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 13:50:44 GMT | WhatsApp Görüşmelerinde IP Adresi Tespiti: Teknik Analiz ve Uygulama | Eren Aloğlu | [Read More](https://medium.com/p/a93d320cf42e) |
 | Sat, 01 Nov 2025 13:40:26 GMT | HTTP Host Header Vulnerability | appsecwarrior | [Read More](https://medium.com/p/53136726a259) |
 | Sat, 01 Nov 2025 13:38:30 GMT | safezone tryhackme walkthrough | 8i5db | [Read More](https://medium.com/p/e87545bae470) |
-| Sat, 01 Nov 2025 13:36:13 GMT | 5 Critical AI-Fueled Exploits Targeting Your VMware Infrastructure: Millions at Risk | Omgee255 | [Read More](https://medium.com/p/d6a761792a4f) |
-| Sat, 01 Nov 2025 13:31:45 GMT | YES, I learned this lesson the hard way. | Omar ELFarsaoui | [Read More](https://medium.com/p/04e1959aaa95) |
-| Sat, 01 Nov 2025 13:30:17 GMT | Cloud Güvenlik Mimarisi Nasıl Kurulur? | Enes Can Adil | [Read More](https://medium.com/p/8b2b26c4f381) |
