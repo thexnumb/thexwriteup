@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 05:31:58 GMT | Biometric Authentication: Enhancing Security and UX | Liam Carter | [Read More](https://medium.com/p/8a69d8fe7e51) |
 | Sat, 01 Nov 2025 05:16:54 GMT | Security method annotations in Spring security | Yasif khan | [Read More](https://medium.com/p/4448f86e16bc) |
 | Sat, 01 Nov 2025 05:00:12 GMT | How to Set Up SSL on Nginx (Step-by-Step Guide for YourOrganization) | Muhammad khan | [Read More](https://medium.com/p/06aa49c1b49a) |
 | Sat, 01 Nov 2025 04:56:23 GMT | From Legit to Lateral: Inside the Abuse of Windows Tasking and Remote Execution Tools | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/54dfe98eb1b5) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 16:57:13 GMT | Non-Repudiation: How Digital Signatures Prove Authenticity | Ferdi Edogawa | [Read More](https://medium.com/p/74ee89022fe7) |
 | Fri, 31 Oct 2025 16:53:31 GMT | AI Takeover for Social Engagement Undermines Collaboration | Matthew.Rosenquist | [Read More](https://medium.com/p/9d828d958b03) |
 | Fri, 31 Oct 2025 16:40:31 GMT | The Ultimate Bug Hunter’s Recon workflow: From Subdomains to Critical Vulnerabilities | Manoj | [Read More](https://medium.com/p/befcef19307f) |
-| Fri, 31 Oct 2025 16:38:16 GMT | The “Urgent” Email to Your CEO? It Might Be a Ticking Time Bomb | Athishsagarkishan | [Read More](https://medium.com/p/b64384ac10c9) |
