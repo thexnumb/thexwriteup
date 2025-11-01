@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 18:43:32 GMT | AI Agents Are Learning to Hack | m1y | [Read More](https://medium.com/p/6d1a4fec2d70) |
+| Sat, 01 Nov 2025 18:36:38 GMT | ​ China-Backed Hackers Target European Diplomats via Unpatched Windows Flaw: The UNC6384 Threat | Midhun Thomas PT | [Read More](https://medium.com/p/eddb245c0056) |
 | Sat, 01 Nov 2025 18:10:30 GMT | How Cyber-Crimes affect IoT Devices | Alex P | [Read More](https://medium.com/p/f69609f592d3) |
 | Sat, 01 Nov 2025 18:08:06 GMT | Smart Office Networking Setup 2025 — Devices, Security & Speed | Jazz Cyber Shield | [Read More](https://medium.com/p/5c13d1eaaaa8) |
 | Sat, 01 Nov 2025 18:04:11 GMT | The Evolution and Integration of AI in Cybersecurity: Current Applications, Future Potential, and… | Alex P | [Read More](https://medium.com/p/5290e3509e24) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 11:45:34 GMT | AI Just Redefined Cybersecurity — And 2026 Will Never Be the Same! | Testleaf | [Read More](https://medium.com/p/a9b42f11d82f) |
 | Sat, 01 Nov 2025 11:43:18 GMT | How Google closed the open web it once symbolized | Enrique Dans | [Read More](https://medium.com/p/e1f8cb4e1283) |
 | Sat, 01 Nov 2025 11:31:53 GMT | GitHub Dorking for Bug Bounty — A Beginner’s Guide (Guaranteed Bounty) | Nitin yadav | [Read More](https://medium.com/p/ea699b648561) |
-| Sat, 01 Nov 2025 11:16:11 GMT | DOM XSS in nasa system 90.0000$$$ | Aksoum Abderrahmane | [Read More](https://medium.com/p/addc0a383e3f) |
-| Sat, 01 Nov 2025 11:08:59 GMT | SPECTATORS AND CREATORS | Joanorifha | [Read More](https://medium.com/p/17e13bbaf3a8) |
