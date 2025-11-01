@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 20:12:41 GMT | Social Engineering the Rogues Gallery | David ONeal | [Read More](https://medium.com/p/d81c4599209e) |
+| Sat, 01 Nov 2025 20:09:17 GMT | just memecoin — Best Platforms | just memecoin | [Read More](https://medium.com/p/8eb4e1ab8534) |
+| Sat, 01 Nov 2025 20:04:59 GMT | How Cloud Misconfigurations in AWS and Azure Become Real Breaches for Small Organizations | Dilip Prasad | [Read More](https://medium.com/p/7faf3a1deab2) |
+| Sat, 01 Nov 2025 19:51:29 GMT | Shadowmap x04: Why Trust Can’t Be a Guess in Modern Cybersecurity | Mohammad Abir Abbas | [Read More](https://medium.com/p/a43ac12cfdb4) |
+| Sat, 01 Nov 2025 19:49:27 GMT | Building a Secure GitLab CI/CD Pipeline: Scan with TMAS, Push to ECR, and Deploy to Amazon EKS | Devops Sourav | [Read More](https://medium.com/p/99d25d893fb8) |
+| Sat, 01 Nov 2025 19:48:58 GMT | Custom Tooling Using Zaproxy … | lukewago | [Read More](https://medium.com/p/498605a2447b) |
+| Sat, 01 Nov 2025 19:48:17 GMT | TryHackMe - Lost in RAMslation - WriteUp | Axoloth | [Read More](https://medium.com/p/b9ce3ad82a39) |
+| Sat, 01 Nov 2025 19:42:05 GMT | The Real Cost of Keeping a Secret: Why Love Demands Our Mess | Yash Patil | [Read More](https://medium.com/p/b9b5730851f4) |
 | Sat, 01 Nov 2025 19:37:00 GMT | Managing Secrets in Flutter with a Simple JSON File + Singleton | Madhan | [Read More](https://medium.com/p/dd454e6e4f16) |
+| Sat, 01 Nov 2025 19:29:14 GMT | HTB Machine: Artificial | Thanakrit Mek-on | [Read More](https://medium.com/p/54901b8ae6f1) |
 | Sat, 01 Nov 2025 19:24:06 GMT | Bug Hunting | Nazrul Islam Rana | [Read More](https://medium.com/p/4c782cbe6b69) |
 | Sat, 01 Nov 2025 19:01:56 GMT | How Attackers See Active Directory — Internal vs External Threat Perspectives | Suhel Kathi | [Read More](https://medium.com/p/8d3ae96b58e7) |
 | Sat, 01 Nov 2025 19:00:10 GMT | The Insider Threat Nobody Talks About: What I’m Learning About Cybersecurity’s Hidden Vulnerability | Ayotundebabade | [Read More](https://medium.com/p/3512d18d64bf) |
@@ -104,12 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 12:59:14 GMT | Cybersecurity AI Trends 2025: Navigating the New Frontier of Digital Defense | The Velocity India | [Read More](https://medium.com/p/83783dc681e8) |
 | Sat, 01 Nov 2025 12:51:58 GMT | Prisma SASE vs Zscaler — A Deep Dive into the Future of Secure Cloud Access - NGCloudX | Vandit jain | [Read More](https://medium.com/p/cf2914fe4670) |
 | Sat, 01 Nov 2025 12:44:07 GMT | Umbra:ROS 2 protocol vulnerability- remote malicious component injection tool | Мартин. | [Read More](https://medium.com/p/5ae9aa9c025e) |
-| Sat, 01 Nov 2025 12:43:35 GMT | Hack the DAV TryHackMe Machine: Step-by-Step Walkthrough | IsaacNatarajan | [Read More](https://medium.com/p/bb203be2a27c) |
-| Sat, 01 Nov 2025 12:38:47 GMT | What Is Penetration Testing and Why Your Business Needs It! | Coresec | [Read More](https://medium.com/p/fb195378beb8) |
-| Sat, 01 Nov 2025 12:37:25 GMT | Vulnyx: Spooisong Write-up — Dari LFI ke Root via Miskonfigurasi DNS | Exnomous | [Read More](https://medium.com/p/ad3c4ca32afa) |
-| Sat, 01 Nov 2025 12:34:17 GMT | SKBD (Scorpion-Killer):Stealthy SSH backdoor injector | Мартин. | [Read More](https://medium.com/p/16fc1652a14a) |
-| Sat, 01 Nov 2025 12:31:53 GMT | Data Breach Alert: Check Your Logins Against 180M Leaks | Azeeza | [Read More](https://medium.com/p/badaeb5aa169) |
-| Sat, 01 Nov 2025 12:29:49 GMT | Top 20 Incident Response Tools for Cybersecurity Teams | Manisha Chaudhary | [Read More](https://medium.com/p/77723337bd8e) |
-| Sat, 01 Nov 2025 12:29:36 GMT | The AI Paradox: Winning the Speed Race Without Sacrificing Security | Pranjali Karve | [Read More](https://medium.com/p/6700921275a0) |
-| Sat, 01 Nov 2025 12:29:18 GMT | Professional Hacker For Hire Online. | Private-hackers.com | [Read More](https://medium.com/p/44db3f18012a) |
-| Sat, 01 Nov 2025 12:28:44 GMT | From Frameworks to Audits: My Cybersecurity Learning Journey | Ankit Dhaka | [Read More](https://medium.com/p/bbed934cf206) |
