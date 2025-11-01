@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 04:17:35 GMT | 5 Cybersecurity Side Hustles That Actually Pay (I Tested Them All) | S3CloudHub | [Read More](https://medium.com/p/23ac302a4f7d) |
+| Sat, 01 Nov 2025 04:02:00 GMT | South Korea’s ‘Monster Missile’ | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/08696324d13c) |
+| Sat, 01 Nov 2025 03:52:10 GMT | Anomaly Detection with NMF | Aroha blue | [Read More](https://medium.com/p/6f34b075802b) |
+| Sat, 01 Nov 2025 03:44:09 GMT | Error Audio when Update in macOS 26 | Jerry PM | [Read More](https://medium.com/p/7eeee32477b6) |
+| Sat, 01 Nov 2025 03:41:44 GMT | The Android Manifest Deep Dive: Everything Your App Tells the OS Before onCreate() | Tung Doan | [Read More](https://medium.com/p/314954f314ac) |
 | Sat, 01 Nov 2025 03:33:18 GMT | How AI and IoT Are Increasing the Risk of Healthcare Data Breaches | Legal Thoughts | [Read More](https://medium.com/p/f549a106c25f) |
 | Sat, 01 Nov 2025 03:31:55 GMT | What Tata Motors 70 TB Exposure Teaches About Cloud Security | Deven Chhajed | [Read More](https://medium.com/p/4bf97d492515) |
 | Sat, 01 Nov 2025 03:28:06 GMT | The Art Of Game Hacking | xpl0dec | [Read More](https://medium.com/p/ff55f900d0ab) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 16:08:18 GMT | Backend For Dummies: Securing Your Web App | Dillon Ansah | [Read More](https://medium.com/p/49a3127b90de) |
 | Fri, 31 Oct 2025 16:06:50 GMT | Top 10Things To Learn For The Hacker Playbook 3 by Peter Kim. | Mainekhacker | [Read More](https://medium.com/p/59cfca7aae7a) |
 | Fri, 31 Oct 2025 16:05:01 GMT | Pentesting Wi-Fi and Bluetooth Devices: A Defensive Playbook, Not a How-To | Michael Preston | [Read More](https://medium.com/p/8c4ea89694c4) |
-| Fri, 31 Oct 2025 16:04:49 GMT | CyberDefenders — WorkFromHome Lab | jon | [Read More](https://medium.com/p/f8cfec4996a1) |
-| Fri, 31 Oct 2025 16:02:47 GMT | Vol. 4 — Advanced Secret Management & Policy Enforcement | Alen Güler | [Read More](https://medium.com/p/9465a18dd697) |
-| Fri, 31 Oct 2025 16:00:27 GMT | Why C++ Still Matters in 2025 | Vipul Sonule | [Read More](https://medium.com/p/0ab6c5c13da0) |
-| Fri, 31 Oct 2025 15:56:36 GMT | Windows 11 Emergency Update Alert: Why You Should Install the Latest Patch Right Now | The question mark | [Read More](https://medium.com/p/e0c4395e4a3f) |
-| Fri, 31 Oct 2025 15:53:51 GMT | KYB, KYT & Compliance — The Core of Secure Crypto Processing | 0xProcessing | [Read More](https://medium.com/p/c4962613a571) |
