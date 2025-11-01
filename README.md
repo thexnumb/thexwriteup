@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 16:18:42 GMT | nz gym #2 ( intro RE ) | nzunuzzz | [Read More](https://medium.com/p/fcd6de493bd8) |
+| Sat, 01 Nov 2025 16:13:41 GMT | Kod Adı: Shutterdown Operasyonu – Bir Dijital Soygun Çetesinin Çökertilmesi | kaan turanli | [Read More](https://medium.com/p/f6f88ded23f9) |
+| Sat, 01 Nov 2025 16:12:03 GMT | ShadowMap x03: How We Engineered the Final Outcome | Mohammad Abir Abbas | [Read More](https://medium.com/p/0b7c7d0e0700) |
 | Sat, 01 Nov 2025 15:52:22 GMT | Unauthorized Access to Internal Nginx Status Page via X-Forwarded-For Header | Bytewreaker | [Read More](https://medium.com/p/31de9e8b4e28) |
 | Sat, 01 Nov 2025 15:50:55 GMT | Authentication Bypass via Client-Side Response Tampering | Bytewreaker | [Read More](https://medium.com/p/f79ad16dcef9) |
 | Sat, 01 Nov 2025 15:49:29 GMT | How a Single Response Manipulation Led to Admin Takeover — Tamil Nadu Government — Police… | Gokuleswaran B | [Read More](https://medium.com/p/0d66879b81a7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 09:52:53 GMT | Try-Hack-Me challenge walkthrough GamingServer— EasyCTF | Arka Priya Das | [Read More](https://medium.com/p/fe47798fae0f) |
 | Sat, 01 Nov 2025 09:49:15 GMT | The Complete Guide to IT Solutions in Saudi Arabia: Why Bluechip-Saudi is Your Trusted Partner? | IT Solutions Providers | [Read More](https://medium.com/p/4c0c72198620) |
 | Sat, 01 Nov 2025 09:47:16 GMT | 5 Underrated iPhone 11 Pro Max Camera Hacks for Stunning Photos | Zara Everly | [Read More](https://medium.com/p/e318afdb8eab) |
-| Sat, 01 Nov 2025 09:47:02 GMT | Beyond Shared Hosting: Smarter VPS Options for 2025 | Ann Taylor | [Read More](https://medium.com/p/04bf28006368) |
-| Sat, 01 Nov 2025 09:44:31 GMT | The Windows Forensic Journey — Windows Search Index (Windows Desktop Search) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3055667197bd) |
-| Sat, 01 Nov 2025 09:42:01 GMT | IEA rejected Pakistan’s demand for security guarantees | Gulalai Jana | [Read More](https://medium.com/p/21477c1eb48c) |
