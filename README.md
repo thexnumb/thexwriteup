@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 17:10:46 GMT | 24/7 Live Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/d7b4fe1f79af) |
+| Sat, 01 Nov 2025 17:07:31 GMT | Stop Hitting ‘Later’: Software Updates are Mandatory Security Patches! | Technology EM3 | [Read More](https://medium.com/p/99d715974f16) |
+| Sat, 01 Nov 2025 17:07:23 GMT | BIOS, CMOS and UEFI - What Happens When You Turn On Your Computer | Huseyn Eyvazov | [Read More](https://medium.com/p/ee994e2f6d4e) |
+| Sat, 01 Nov 2025 17:04:02 GMT | From Strategy to Shield: Why I Chose the Cybersecurity Path | Fook Hwa Tan | [Read More](https://medium.com/p/eb58436c809c) |
+| Sat, 01 Nov 2025 17:03:47 GMT | Cybersecurity Weekly Issue 53 | This Week In I/O | [Read More](https://medium.com/p/6b926a927228) |
+| Sat, 01 Nov 2025 17:00:06 GMT | How Technology Can Reveal Signs of Cheating | Oche Emmanuel | [Read More](https://medium.com/p/d5587343d955) |
+| Sat, 01 Nov 2025 16:45:19 GMT | #LessonLearned - Username enumeration via different responses — PortSwigger Authentication Lab | Betul - Bug Bounty | [Read More](https://medium.com/p/c6dcfa508392) |
+| Sat, 01 Nov 2025 16:43:28 GMT | SQL AND SQL INJECTION | Jei Ess | [Read More](https://medium.com/p/09b72411ef86) |
+| Sat, 01 Nov 2025 16:40:51 GMT | Growing Your Cyber Revenue With Thought Leadership | Muhammad Adenowo | [Read More](https://medium.com/p/8ea7e90b6be0) |
+| Sat, 01 Nov 2025 16:39:31 GMT | eJPT Prep: Assessment Methodologies: Footprinting and Scanning CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/3e18047c7f85) |
+| Sat, 01 Nov 2025 16:33:23 GMT | Adding Container Analysis into Your CI/CD Pipeline with GitHub Actions and GCP | Prasanth Kanikicherla | [Read More](https://medium.com/p/8109163934d6) |
 | Sat, 01 Nov 2025 16:18:42 GMT | nz gym #2 ( intro RE ) | nzunuzzz | [Read More](https://medium.com/p/fcd6de493bd8) |
 | Sat, 01 Nov 2025 16:13:41 GMT | Kod Adı: Shutterdown Operasyonu – Bir Dijital Soygun Çetesinin Çökertilmesi | kaan turanli | [Read More](https://medium.com/p/f6f88ded23f9) |
 | Sat, 01 Nov 2025 16:12:03 GMT | ShadowMap x03: How We Engineered the Final Outcome | Mohammad Abir Abbas | [Read More](https://medium.com/p/0b7c7d0e0700) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 10:26:19 GMT | The Hidden Exploit That Lets AI Tools Steal Intellectual Property | Andrew Murphy | [Read More](https://medium.com/p/7a06058ee9e2) |
 | Sat, 01 Nov 2025 10:25:08 GMT | Cyber Security | Molletibalu | [Read More](https://medium.com/p/a7a2c107dc34) |
 | Sat, 01 Nov 2025 10:22:32 GMT | The AI Nightmare | Amiltha | [Read More](https://medium.com/p/be7651291fdd) |
-| Sat, 01 Nov 2025 10:22:07 GMT | 7 Underrated iPhone 5s Tricks to Boost Speed Instantly | Elowen Virelle | [Read More](https://medium.com/p/5cb143a4dab9) |
-| Sat, 01 Nov 2025 10:20:38 GMT | Splunk — Detection Of File Downloads via PowerShell & Edge | Eymen Takak | [Read More](https://medium.com/p/a04d12b1b9e4) |
-| Sat, 01 Nov 2025 10:19:21 GMT | How Safe Are You Really? The Hidden Gaps Of Security No One Talks About | Marshall | [Read More](https://medium.com/p/f62c419d3fc0) |
-| Sat, 01 Nov 2025 10:17:40 GMT | BUG Bonus Claim Guide — October 2025 | Pastel | [Read More](https://medium.com/p/13e94ca278cf) |
-| Sat, 01 Nov 2025 10:14:44 GMT | 5 Proven iPhone 8 Plus Fixes for Common Lag and Heating Issues | Luna Collins | [Read More](https://medium.com/p/9e5b61661144) |
-| Sat, 01 Nov 2025 10:11:29 GMT | THM - Lost in RAMslation | Francesco Pastore | [Read More](https://medium.com/p/14cacf484d6e) |
-| Sat, 01 Nov 2025 10:07:31 GMT | 10 Proven iPhone XR Battery Tips That Truly Extend Usage Time | Ella Walker | [Read More](https://medium.com/p/259c3228346f) |
-| Sat, 01 Nov 2025 10:07:10 GMT | Next-Generation Firewalls: Transforming Network Security for Modern Threats | IsaacNatarajan | [Read More](https://medium.com/p/09a37f3ddd5a) |
-| Sat, 01 Nov 2025 09:52:53 GMT | Try-Hack-Me challenge walkthrough GamingServer— EasyCTF | Arka Priya Das | [Read More](https://medium.com/p/fe47798fae0f) |
-| Sat, 01 Nov 2025 09:49:15 GMT | The Complete Guide to IT Solutions in Saudi Arabia: Why Bluechip-Saudi is Your Trusted Partner? | IT Solutions Providers | [Read More](https://medium.com/p/4c0c72198620) |
-| Sat, 01 Nov 2025 09:47:16 GMT | 5 Underrated iPhone 11 Pro Max Camera Hacks for Stunning Photos | Zara Everly | [Read More](https://medium.com/p/e318afdb8eab) |
