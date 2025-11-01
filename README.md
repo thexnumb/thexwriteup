@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 09:12:11 GMT | How I earned ₹₹₹₹₹ by reporting API key to massive payment company. | DEep | [Read More](https://medium.com/p/f02e85fdbdab) |
+| Sat, 01 Nov 2025 09:07:20 GMT | How Does Information Technology Improve Education? | Noah Taylor | [Read More](https://medium.com/p/82b81537e1f7) |
+| Sat, 01 Nov 2025 09:07:14 GMT | How a Simple Phone Charge Could Empty Your Wallet | Donavan Goodman | [Read More](https://medium.com/p/e6f33ce679d7) |
+| Sat, 01 Nov 2025 09:02:03 GMT | 5 Powerful iPhone 12 Pro Max Tips to Maximize Battery Life | Chloe White | [Read More](https://medium.com/p/aeb70d1a7cd8) |
+| Sat, 01 Nov 2025 09:01:53 GMT | Cybersecurity For Database Administrators | Fabricio Pedroso Jorge | [Read More](https://medium.com/p/122c6abe9565) |
+| Sat, 01 Nov 2025 08:58:44 GMT | Lock HTB Machine Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/14be0f6edcb0) |
+| Sat, 01 Nov 2025 08:45:02 GMT | Palo Alto Networks Unit 42 Retainer: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d091d4ea78bc) |
+| Sat, 01 Nov 2025 08:44:44 GMT | The 5 Linux Mistakes That Nearly Broke My System (And What They Taught Me About Respecting the… | Fateyaly | [Read More](https://medium.com/p/f5c22c1d87dd) |
 | Sat, 01 Nov 2025 08:41:02 GMT | Caesar Cipher Encryptor/Decryptor | Shashank M.S | [Read More](https://medium.com/p/115315e23eb3) |
+| Sat, 01 Nov 2025 08:38:28 GMT | Bluetooth Low Energy (BLE) Attacks and Mobile App Protection | Bervice | [Read More](https://medium.com/p/6de642bac6ee) |
 | Sat, 01 Nov 2025 08:19:22 GMT | The Kind of Heartbreak Men Don’t Talk About: We Just Swallow It and Keep Walking | Gursahib Singh | [Read More](https://medium.com/p/95b6c2be27df) |
 | Sat, 01 Nov 2025 08:15:51 GMT | Top 15 Social-Engineering Techniques Hackers Commonly Use | Manisha Chaudhary | [Read More](https://medium.com/p/3ed6c4019876) |
 | Sat, 01 Nov 2025 08:15:06 GMT | The Idea Behind Layered Security | Dereknickel | [Read More](https://medium.com/p/a7d1a34eaf12) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 20:49:35 GMT | 09032543127 | Mona09032543127 | [Read More](https://medium.com/p/32fc25093c4b) |
 | Fri, 31 Oct 2025 20:42:04 GMT | How a Lab Box Taught Me the Real-World Cost of Misconfiguration | Vivektumma27 | [Read More](https://medium.com/p/dbf80940a190) |
 | Fri, 31 Oct 2025 20:41:32 GMT | How I Got a Four-Digit Bug Bounty From Grammarly | Aland Dlshad | [Read More](https://medium.com/p/187038396843) |
-| Fri, 31 Oct 2025 20:39:58 GMT | Probable scammer pretends to be a sick child, I reported it to the postal police but they didn’t… | Crime Chroninicle Online | [Read More](https://medium.com/p/796df6230664) |
-| Fri, 31 Oct 2025 20:37:41 GMT | When the Cloud Went Dark | Janet Xiu Shi | [Read More](https://medium.com/p/2de7f7bb662c) |
-| Fri, 31 Oct 2025 20:32:54 GMT | Air Force Contract That Could Counteract “Harvest Now, Decrypt Later” Methodology | Orrin Konheim | [Read More](https://medium.com/p/d0032fd1927d) |
-| Fri, 31 Oct 2025 20:03:32 GMT | LLM Invisible Prompt Smuggling & How YOU Can Earn A Quick $10k (This Isn’t Clickbait, I Swear) | Justas_b | [Read More](https://medium.com/p/2df2de834f81) |
-| Fri, 31 Oct 2025 19:51:25 GMT | SOC246 — Forced Authentication Detected (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/0747859c4bda) |
-| Fri, 31 Oct 2025 19:43:16 GMT | Eviction - THM | Isiah | [Read More](https://medium.com/p/05581e39ad39) |
-| Fri, 31 Oct 2025 19:39:01 GMT | The Tale of the Infamous Shadow Encounter | Cyb0rgBytes | [Read More](https://medium.com/p/cb7119cdb1fe) |
-| Fri, 31 Oct 2025 19:38:08 GMT | The Underground Web Tools Used by Digital Spies, Journalists & Hackers (That Anyone Can Access) | Mike merrillauthur | [Read More](https://medium.com/p/0f6a77dfd45a) |
-| Fri, 31 Oct 2025 19:24:03 GMT | Secure Your Internal Conversations: Why Your Intranet Needs a Self-Hosted Video Platform | Jibon Costa | [Read More](https://medium.com/p/6cdffecee771) |
