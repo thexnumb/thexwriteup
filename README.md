@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 08:41:02 GMT | Caesar Cipher Encryptor/Decryptor | Shashank M.S | [Read More](https://medium.com/p/115315e23eb3) |
 | Sat, 01 Nov 2025 08:19:22 GMT | The Kind of Heartbreak Men Don’t Talk About: We Just Swallow It and Keep Walking | Gursahib Singh | [Read More](https://medium.com/p/95b6c2be27df) |
 | Sat, 01 Nov 2025 08:15:51 GMT | Top 15 Social-Engineering Techniques Hackers Commonly Use | Manisha Chaudhary | [Read More](https://medium.com/p/3ed6c4019876) |
 | Sat, 01 Nov 2025 08:15:06 GMT | The Idea Behind Layered Security | Dereknickel | [Read More](https://medium.com/p/a7d1a34eaf12) |
@@ -20,6 +21,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 08:02:37 GMT | Flying to the UAE for F1 Abu Dhabi 2025? | PGS Solution | [Read More](https://medium.com/p/4bbfd088452a) |
 | Sat, 01 Nov 2025 08:01:39 GMT | It’s Okay to Cry | Nawab Khan | [Read More](https://medium.com/p/33109e028785) |
 | Sat, 01 Nov 2025 08:01:22 GMT | Path Traversal on PortSwigger | Evan Ho | [Read More](https://medium.com/p/bc05d8b4e796) |
+| Sat, 01 Nov 2025 07:54:49 GMT | Privilege Escalation in snapshat ADS$$ | Aksoum Abderrahmane | [Read More](https://medium.com/p/cb83569536e5) |
 | Sat, 01 Nov 2025 07:53:08 GMT | Redefining Security with Database Firewalls | FarMan | [Read More](https://medium.com/p/b646bcbaf0d7) |
 | Sat, 01 Nov 2025 07:39:59 GMT | Understanding Palo Alto Firewall Architecture — Simplified -NGCloudX | Vanditj | [Read More](https://medium.com/p/29b915154f37) |
 | Sat, 01 Nov 2025 07:37:10 GMT | When Simple Gets Interesting: Tokens Enter the Banking Series | Invariant0 | [Read More](https://medium.com/p/daa7c7aa5997) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 19:39:01 GMT | The Tale of the Infamous Shadow Encounter | Cyb0rgBytes | [Read More](https://medium.com/p/cb7119cdb1fe) |
 | Fri, 31 Oct 2025 19:38:08 GMT | The Underground Web Tools Used by Digital Spies, Journalists & Hackers (That Anyone Can Access) | Mike merrillauthur | [Read More](https://medium.com/p/0f6a77dfd45a) |
 | Fri, 31 Oct 2025 19:24:03 GMT | Secure Your Internal Conversations: Why Your Intranet Needs a Self-Hosted Video Platform | Jibon Costa | [Read More](https://medium.com/p/6cdffecee771) |
-| Fri, 31 Oct 2025 19:22:39 GMT | Why Learning Networking First Makes You a Better Cybersecurity Professional | Haider Ali | [Read More](https://medium.com/p/c1b63590cce7) |
-| Fri, 31 Oct 2025 19:08:14 GMT | Setting Up SSL in Information System with HashiCorp Vault via the CLI | Umair | [Read More](https://medium.com/p/7d5e9a12897e) |
