@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 14:31:56 GMT | The Ultimate Browser Toolkit: Part 4 | XoX | [Read More](https://medium.com/p/748592fc64bc) |
+| Sat, 01 Nov 2025 14:25:25 GMT | TheHackersLabs — ZAPP [Write Up] | APS88 | [Read More](https://medium.com/p/b7b0474c22b6) |
+| Sat, 01 Nov 2025 14:19:43 GMT | AI Security Tools — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/35fbc9febeb1) |
+| Sat, 01 Nov 2025 14:19:37 GMT | Windows Forensics 1 - Complete TryHackMe Walkthrough | Rahul B | [Read More](https://medium.com/p/fea95d679f5c) |
+| Sat, 01 Nov 2025 14:19:22 GMT | Trending Smartphones in Europe (Autumn 2025): What’s Hot & Why You Should Care | TechMind Sphere | [Read More](https://medium.com/p/06f6fb9d23f3) |
+| Sat, 01 Nov 2025 14:13:40 GMT | How to secure AI agents with Rule of 2 | Liana Tomescu | [Read More](https://medium.com/p/be6927aac727) |
 | Sat, 01 Nov 2025 14:06:41 GMT | CVE-2019–19726: OpenBSD Local Privilege Escalation via RLIMIT_DATA Memory Limit Attack | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/62827ecf5efb) |
 | Sat, 01 Nov 2025 14:01:55 GMT | What Is a Security Audit? | Heatena | [Read More](https://medium.com/p/4cc64acaaf34) |
 | Sat, 01 Nov 2025 13:59:45 GMT | Taint analysis in PVS-Studio C and C++ analyzer | Unicorn Developer | [Read More](https://medium.com/p/614373a8ad32) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 08:01:39 GMT | It’s Okay to Cry | Nawab Khan | [Read More](https://medium.com/p/33109e028785) |
 | Sat, 01 Nov 2025 08:01:22 GMT | Path Traversal on PortSwigger | Evan Ho | [Read More](https://medium.com/p/bc05d8b4e796) |
 | Sat, 01 Nov 2025 07:54:49 GMT | Privilege Escalation in snapshat ADS$$ | Aksoum Abderrahmane | [Read More](https://medium.com/p/cb83569536e5) |
-| Sat, 01 Nov 2025 07:53:08 GMT | Redefining Security with Database Firewalls | FarMan | [Read More](https://medium.com/p/b646bcbaf0d7) |
-| Sat, 01 Nov 2025 07:39:59 GMT | Understanding Palo Alto Firewall Architecture — Simplified -NGCloudX | Vanditj | [Read More](https://medium.com/p/29b915154f37) |
-| Sat, 01 Nov 2025 07:37:10 GMT | When Simple Gets Interesting: Tokens Enter the Banking Series | Invariant0 | [Read More](https://medium.com/p/daa7c7aa5997) |
-| Sat, 01 Nov 2025 07:31:53 GMT | 7 Secure Defaults for Cookies, CORS & CSRF | Thinking Loop | [Read More](https://medium.com/p/5ef7bbc25152) |
-| Sat, 01 Nov 2025 07:26:39 GMT | Blue Teaming in the AI Era: Why Check Point Firewall is the Core of Modern Cyber Defence. | Rishabh Kumar | [Read More](https://medium.com/p/b8dce0aa5c4a) |
-| Sat, 01 Nov 2025 07:16:48 GMT | Metasploit: Exploitation — Writeup | Mahir | [Read More](https://medium.com/p/74cf57859f3e) |
