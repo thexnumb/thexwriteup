@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 21:06:55 GMT | I Followed This Method To Find XSS In 5 Minutes | Ibtissam | [Read More](https://medium.com/p/74a4390ae1ec) |
+| Sat, 01 Nov 2025 21:06:45 GMT | SQL Server running but port closed? | DuckWrites | [Read More](https://medium.com/p/d741e303eb7a) |
+| Sat, 01 Nov 2025 20:28:26 GMT | Mobile Security | Hoploninfosec | [Read More](https://medium.com/p/6f8090b0aceb) |
+| Sat, 01 Nov 2025 20:26:02 GMT | Stop Using Weak Passwords: How to Create Secure Ones in Seconds | id2000 | [Read More](https://medium.com/p/fd810ba0edc1) |
 | Sat, 01 Nov 2025 20:18:57 GMT | Beyond True/False: Using AI to Create a ‘Trust Score’ for Information | Farouk | [Read More](https://medium.com/p/7e7736002709) |
 | Sat, 01 Nov 2025 20:12:41 GMT | Social Engineering the Rogues Gallery | David ONeal | [Read More](https://medium.com/p/d81c4599209e) |
 | Sat, 01 Nov 2025 20:09:17 GMT | just memecoin — Best Platforms | just memecoin | [Read More](https://medium.com/p/8eb4e1ab8534) |
@@ -109,7 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 13:21:52 GMT | Elon Musk’s Warning: Apps and Operating Systems Will Soon Be Obsolete | Rakesh Bisht | [Read More](https://medium.com/p/da9049e3594e) |
 | Sat, 01 Nov 2025 13:18:30 GMT | All-Powerful (kind of)Machines | Saai Sudarsanan D | [Read More](https://medium.com/p/375c62c830c2) |
 | Sat, 01 Nov 2025 13:12:06 GMT | Comprehensive Tech Support Solutions by L4RG: Empowering Businesses with Reliable IT Services | Saumya | [Read More](https://medium.com/p/424805b6d115) |
-| Sat, 01 Nov 2025 13:08:53 GMT | ⚠️ WormGPT: The Evil Twin of ChatGPT ️‍️ | Sachin_lakshal | [Read More](https://medium.com/p/30fff6f96e48) |
-| Sat, 01 Nov 2025 13:01:56 GMT | 7 Common Online Scams You Still Fall For (and How to Stop It) | CyberSafe Insights | [Read More](https://medium.com/p/b501999ca008) |
-| Sat, 01 Nov 2025 12:59:14 GMT | Cybersecurity AI Trends 2025: Navigating the New Frontier of Digital Defense | The Velocity India | [Read More](https://medium.com/p/83783dc681e8) |
-| Sat, 01 Nov 2025 12:51:58 GMT | Prisma SASE vs Zscaler — A Deep Dive into the Future of Secure Cloud Access - NGCloudX | Vandit jain | [Read More](https://medium.com/p/cf2914fe4670) |
