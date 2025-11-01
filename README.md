@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 23:11:22 GMT | Smart Travelers Pack This Portable Door Alarm | Marc Ford | [Read More](https://medium.com/p/7dff283fbe7e) |
+| Sat, 01 Nov 2025 22:59:20 GMT | Roadmap | Sulaimon Yusuf | [Read More](https://medium.com/p/5801db469625) |
+| Sat, 01 Nov 2025 22:48:50 GMT | Hello… | Sulaimon Yusuf | [Read More](https://medium.com/p/2a7cb965bcbc) |
+| Sat, 01 Nov 2025 22:38:20 GMT | Why We’re All Terrible at Passwords (and That’s Okay) | Asimos | [Read More](https://medium.com/p/96ca6fc553cc) |
+| Sat, 01 Nov 2025 22:37:43 GMT | How to Configure Splunk Universal Forwarder to Collect Windows and Sysmon Logs | Raynard Waits | [Read More](https://medium.com/p/e4581c5ce1ad) |
 | Sat, 01 Nov 2025 22:29:53 GMT | Day 27 of my Cybersecurity Journey: Concluding John the Ripper Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/317107a8e9ad) |
 | Sat, 01 Nov 2025 22:24:01 GMT | The Quantum Cloud Revolution: How Machines That Think in Probabilities Are Rewriting Reality | The Deep Frame | [Read More](https://medium.com/p/4d1ebf15ba7d) |
 | Sat, 01 Nov 2025 22:20:18 GMT | UnderstainReal Intimacy | Amit Sood | [Read More](https://medium.com/p/de46724080e2) |
@@ -108,8 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 14:25:25 GMT | TheHackersLabs — ZAPP [Write Up] | APS88 | [Read More](https://medium.com/p/b7b0474c22b6) |
 | Sat, 01 Nov 2025 14:19:43 GMT | AI Security Tools — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/35fbc9febeb1) |
 | Sat, 01 Nov 2025 14:19:37 GMT | Windows Forensics 1 - Complete TryHackMe Walkthrough | Rahul B | [Read More](https://medium.com/p/fea95d679f5c) |
-| Sat, 01 Nov 2025 14:19:22 GMT | Trending Smartphones in Europe (Autumn 2025): What’s Hot & Why You Should Care | TechMind Sphere | [Read More](https://medium.com/p/06f6fb9d23f3) |
-| Sat, 01 Nov 2025 14:13:40 GMT | How to secure AI agents with Rule of 2 | Liana Tomescu | [Read More](https://medium.com/p/be6927aac727) |
-| Sat, 01 Nov 2025 14:06:41 GMT | CVE-2019–19726: OpenBSD Local Privilege Escalation via RLIMIT_DATA Memory Limit Attack | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/62827ecf5efb) |
-| Sat, 01 Nov 2025 14:01:55 GMT | What Is a Security Audit? | Heatena | [Read More](https://medium.com/p/4cc64acaaf34) |
-| Sat, 01 Nov 2025 13:59:45 GMT | Taint analysis in PVS-Studio C and C++ analyzer | Unicorn Developer | [Read More](https://medium.com/p/614373a8ad32) |
