@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 01 Nov 2025 07:16:48 GMT | Metasploit: Exploitation — Writeup | Mahir | [Read More](https://medium.com/p/74cf57859f3e) |
 | Sat, 01 Nov 2025 07:11:04 GMT | Mastering Hidden Backups & Old Versions: Step-by-Step Guide for Pentesters and Bug Hunters | Very Lazy Tech | [Read More](https://medium.com/p/e1b0b077999f) |
+| Sat, 01 Nov 2025 07:08:12 GMT | My First Day Learning XSS — and I Found a Real Bug on My University Website | Sai Jayanth | [Read More](https://medium.com/p/1969fdc3d7aa) |
 | Sat, 01 Nov 2025 07:07:01 GMT | Les dessous du code | Kevin Wenger | [Read More](https://medium.com/p/34f1890117cb) |
 | Sat, 01 Nov 2025 06:59:33 GMT | 10 Micro-Habits That Rewire Your Brain for Calm | Vijay Kumar Gupta | [Read More](https://medium.com/p/a8b2c89fd669) |
 | Sat, 01 Nov 2025 06:49:09 GMT | How I Stay Active in Bug Bounty While Working 9–5 | Shaif Ali | [Read More](https://medium.com/p/7ab95e853c7a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 31 Oct 2025 18:03:26 GMT | Behind the Breach Series: Anti-forensics Case Study | Dorathy Christopher | [Read More](https://medium.com/p/699dad62d5a4) |
 | Fri, 31 Oct 2025 18:01:57 GMT | The Boring Path to Web Security: CSPs That Stick | Modexa | [Read More](https://medium.com/p/fa5fd41a1b2f) |
 | Fri, 31 Oct 2025 18:01:00 GMT | Cybersecurity News Review — Week 44 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/f4461f30b0d5) |
-| Fri, 31 Oct 2025 17:53:11 GMT | Stop Brute-Force Attacks on Your NestJS API: A Dead Simple Implementation | Tanjil Hossain | [Read More](https://medium.com/p/a21bbddaee1b) |
-| Fri, 31 Oct 2025 17:47:29 GMT | Beyond Awareness: The State of Cybersecurity as October Ends | Neville Pinto | [Read More](https://medium.com/p/f58caf565551) |
