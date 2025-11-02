@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 15:11:58 GMT | Best Demanding it Skills in Europe | Migratex | [Read More](https://medium.com/p/03aa0888dee8) |
+| Sun, 02 Nov 2025 15:11:36 GMT | The Dangerous Truth of Public Wi-Fi: Why It’s a Hacker’s Playground | Precious Gautam | [Read More](https://medium.com/p/a52035e698c3) |
+| Sun, 02 Nov 2025 15:07:49 GMT | Powerline Networking Nedir? Elektrik Hatları Üzerinden İnternetin Geleceği | Çağrı Göldemir | [Read More](https://medium.com/p/1be7ed418cdb) |
+| Sun, 02 Nov 2025 15:02:36 GMT | When Encryption Fails: The WhatsApp Zero-Click Campaigns | Abatis ABTU | [Read More](https://medium.com/p/2264d6e9dadf) |
+| Sun, 02 Nov 2025 15:01:54 GMT | Password Reset Token Invalidation Failure — A Subtle Bug with Serious Security Implications | 0xMo7areb | [Read More](https://medium.com/p/a3edfed57a6a) |
+| Sun, 02 Nov 2025 15:01:08 GMT | Old School Cybersecurity: From Firewalls and Fear to AI and Adaptive Defense | Pavlović Goran | [Read More](https://medium.com/p/6775fd0f7091) |
+| Sun, 02 Nov 2025 14:58:54 GMT | Powerline Networking Nedir? Elektrik Hatları Üzerinden İnternetin Geleceği | Seray Esen | [Read More](https://medium.com/p/9d53386212e5) |
+| Sun, 02 Nov 2025 14:44:09 GMT | Your SOC is a ghost town. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/646ecfc97281) |
+| Sun, 02 Nov 2025 14:39:48 GMT | Why We All Feel Inadequate — and What It Really Means | Sandeep Bhan | [Read More](https://medium.com/p/412044e6925d) |
+| Sun, 02 Nov 2025 14:34:44 GMT | devops-devsecops basics | Myusuftr | [Read More](https://medium.com/p/a6267cf6b7d2) |
 | Sun, 02 Nov 2025 14:31:54 GMT | (Comptia A+) Understanding Proxy Servers: Enhancing Security and Efficiency in Web Browsing | Vignesh R | [Read More](https://medium.com/p/356561d76dc8) |
 | Sun, 02 Nov 2025 14:31:54 GMT | Secrets Of Fast CLI Tools: Startup, I/O, Syscalls | The Speed Engineer | [Read More](https://medium.com/p/a198dc2adb58) |
+| Sun, 02 Nov 2025 14:30:01 GMT | Will AI Replace Tech Jobs or Just Change Them? | Techtanktools | [Read More](https://medium.com/p/5b5978d34c8c) |
+| Sun, 02 Nov 2025 14:27:44 GMT | Taiwan Faces AI-Enhanced Cyberattack Experiments from Chinese Threat Actors | Himanshu Bhatt | [Read More](https://medium.com/p/b6d10c72aabe) |
 | Sun, 02 Nov 2025 14:26:20 GMT | How to Be Loved and Cherished in Relationships by Expressing Your Assertiveness | Hanpis | [Read More](https://medium.com/p/bfa81b7962a7) |
 | Sun, 02 Nov 2025 14:21:57 GMT | Why Cybersecurity Pros Secretly Ignore Their Own Rules | Cyberkech | [Read More](https://medium.com/p/1fcf80cc4e1f) |
 | Sun, 02 Nov 2025 14:17:33 GMT | Annoying bugs in iPadOS 26 | Paperless X | [Read More](https://medium.com/p/662f252131e7) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 08:54:02 GMT | The Future of SOC: How AI is Transforming Security Operations Center in 2025. | Rushikesh Girase | [Read More](https://medium.com/p/cc6785f9c583) |
 | Sun, 02 Nov 2025 08:52:18 GMT | TryHackMe - Defensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/b91bd8de9bc7) |
 | Sun, 02 Nov 2025 08:41:11 GMT | The AI Revolution in Writing: | Ki Lov3 - Bestselling Indie Author | [Read More](https://medium.com/p/46ce483fd191) |
-| Sun, 02 Nov 2025 08:38:45 GMT | Data Is the New DNA, And We Keep Donating Ours for Free | Abhishek | [Read More](https://medium.com/p/b519447fc1b8) |
-| Sun, 02 Nov 2025 08:33:36 GMT | Deploying Fluent Bit as a Windows Service for Centralized Log Forwarding | Andrey Pautov | [Read More](https://medium.com/p/baec55b8aaf8) |
-| Sun, 02 Nov 2025 08:25:54 GMT | Beyond TLS: How H/W Keys Deliver Phishing-Resistant Authentication Tokens | S.Y. Alyssa | [Read More](https://medium.com/p/76a36e23d7d4) |
-| Sun, 02 Nov 2025 08:22:15 GMT | Today’s Top Cyber Intelligence Highlights — Nov 02, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d970212eac29) |
-| Sun, 02 Nov 2025 08:20:56 GMT | NYDFS Part 500: 7 Fast Wins for Nov 1, 2025 | Pentest_Testing_Corp | [Read More](https://medium.com/p/7e6ed1547335) |
-| Sun, 02 Nov 2025 08:18:52 GMT | How I Cleared CPENT & LPT Master in Just 15 Hours — A Journey of Grit, Pressure & Passion for… | Monu Jangra | [Read More](https://medium.com/p/27d117931789) |
-| Sun, 02 Nov 2025 08:15:27 GMT | Written 20 years ago.... | Darren Robert Brown | [Read More](https://medium.com/p/ab3b16f60c15) |
-| Sun, 02 Nov 2025 08:06:35 GMT | Here you go — Medium-ready and SEO-tuned. | Pentest_Testing_Corp | [Read More](https://medium.com/p/0075a52b1c3c) |
-| Sun, 02 Nov 2025 07:57:53 GMT | Multi-Agent Systems in Cybersecurity | Shailendra Kumar | [Read More](https://medium.com/p/6957e2d7dee7) |
-| Sun, 02 Nov 2025 07:52:50 GMT | Secure USB Connection Detection and Protection in iOS | Nishant Taneja | [Read More](https://medium.com/p/c03725c74d6a) |
-| Sun, 02 Nov 2025 07:52:29 GMT | My Journey to OSCE3 | Fabian Lim | [Read More](https://medium.com/p/1a86d42a114d) |
-| Sun, 02 Nov 2025 07:37:18 GMT | From SQLi to OS Shell: Master Advanced SQL Injection Payloads for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/19bdcc8b00bd) |
