@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 16:34:36 GMT | 2FA Enforcement Bypass via Request Manipulation | Bytewreaker | [Read More](https://medium.com/p/36b2296788ec) |
+| Sun, 02 Nov 2025 16:32:06 GMT | DetectionStream: Introducing the Sigma Training Platform | Kostas | [Read More](https://medium.com/p/574721f18f45) |
+| Sun, 02 Nov 2025 16:29:10 GMT | The “Iceberg Effect”: Why the Man Who Told Me Everything on the First Date (Never Got a Second). | Mia Nor | [Read More](https://medium.com/p/07d21bfcf418) |
+| Sun, 02 Nov 2025 16:29:00 GMT | Internal API Credentials and Host Disclosure | Bytewreaker | [Read More](https://medium.com/p/a5ca1b26cc05) |
+| Sun, 02 Nov 2025 16:28:13 GMT | Driving Secure Innovation with Leading DevSecOps Companies | Vishwajeettechtech | [Read More](https://medium.com/p/c163d922efc6) |
+| Sun, 02 Nov 2025 16:25:07 GMT | TryHackMe Roadmap — Your Complete Cybersecurity Learning Path (Free & Updated) | cyberwinx | [Read More](https://medium.com/p/d0aedad2b2c7) |
+| Sun, 02 Nov 2025 16:23:27 GMT | How I Found Everything About a Stranger Using Only Google | Abdullah Javeed | [Read More](https://medium.com/p/ec7caeb2ea42) |
+| Sun, 02 Nov 2025 16:15:48 GMT | Do Security Cameras Need Wi-Fi? | Hayat Chowdhury | [Read More](https://medium.com/p/4674d937af10) |
 | Sun, 02 Nov 2025 16:15:12 GMT | Please Tell Me What Kind of Post You’d Like Me to Write. | Masumium | [Read More](https://medium.com/p/b8487fef01fc) |
 | Sun, 02 Nov 2025 16:11:56 GMT | TryHackMe: Sudo Security Bypass Room Writeup | Melisa Nyamukondiwa | [Read More](https://medium.com/p/d59ba7aef32a) |
 | Sun, 02 Nov 2025 15:58:08 GMT | How I Secured Multi-Environment Secrets Using AWS Secrets Manager and Parameter Store. | Rajesh Thakur | [Read More](https://medium.com/p/637b5afb893a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 10:39:46 GMT | Static Routing pada Cisco Packet Tracer | Yasa Wijaya | [Read More](https://medium.com/p/1ed623acbb28) |
 | Sun, 02 Nov 2025 10:37:53 GMT | Zabbix 7.0.18 — Microsoft Teams Entegrasyonu | Sureyya Kaan Perktas | [Read More](https://medium.com/p/af9cc5117757) |
 | Sun, 02 Nov 2025 10:33:22 GMT | A Step-by Step Guide to enable Intercepting Traffic with Burp Suite and FoxyProxy | Techie-stronaut | [Read More](https://medium.com/p/0fc87e62314b) |
-| Sun, 02 Nov 2025 10:32:04 GMT | ️ “DNS TXT Records: The Internet’s Name Tags That Tell the Truth” | Natarajan C K | [Read More](https://medium.com/p/9b5aded87aad) |
-| Sun, 02 Nov 2025 10:31:26 GMT | THM Boiler CTF writeup | x3n0 | [Read More](https://medium.com/p/63cb765dbb28) |
-| Sun, 02 Nov 2025 10:27:59 GMT | CVE-2025–63418: Weaponizing the Browser Console — A DOM-based XSS Deep Dive | Rohit Chaudhary | [Read More](https://medium.com/p/25ed3ac9cb53) |
-| Sun, 02 Nov 2025 10:27:23 GMT | HTB Port Forwarding with Windows Netsh | Willi | [Read More](https://medium.com/p/e9e564c240fa) |
-| Sun, 02 Nov 2025 10:17:51 GMT | Novacybernet: Real Protection Against Real Cyber Threats | Novacy Bernet | [Read More](https://medium.com/p/27a5fb8e1872) |
-| Sun, 02 Nov 2025 10:13:37 GMT | ChatGPT Clone Apps: How Cybercriminals Are Turning AI Hype into a Security Nightmare | Aniket Sharma | [Read More](https://medium.com/p/915bac1de894) |
-| Sun, 02 Nov 2025 10:12:42 GMT | Instant Asset Recovery | Yotano | [Read More](https://medium.com/p/4a3464311080) |
-| Sun, 02 Nov 2025 10:07:50 GMT | 6 Little-Known Samsung A Series Features That Save Time | Chloe White | [Read More](https://medium.com/p/07c8cf5cd1dd) |
