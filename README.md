@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 03:50:21 GMT | Performing ARP Spoofing | Guillaumebanakeng | [Read More](https://medium.com/p/0af394ecbe30) |
+| Sun, 02 Nov 2025 03:36:12 GMT | Act Now — Google Confirms Chrome 142 Security Fix For 3 Billion Users | Nauman khan | [Read More](https://medium.com/p/d249670fc0c2) |
+| Sun, 02 Nov 2025 03:34:51 GMT | All About 2FA Authentication Bypass — The Hidden Battle Behind Your Login Screen | Monu Jangra | [Read More](https://medium.com/p/2266d35100e0) |
+| Sun, 02 Nov 2025 03:31:53 GMT | When the Cloud Goes Public: How EY’s 4TB Backup Became Publicly Accessible | Deven Chhajed | [Read More](https://medium.com/p/b2384c250d82) |
+| Sun, 02 Nov 2025 03:29:43 GMT | Managing Stress in the Tech World: 5 Practical Tips for InfoSec Professionals | JJ Salley | [Read More](https://medium.com/p/d1cb2a20a873) |
+| Sun, 02 Nov 2025 03:25:06 GMT | When an Endpoint Enumerator Turned Into a P1 information disclosure bug Here’s What I Found | Mayowa omolabi | [Read More](https://medium.com/p/9cb6bd3b6752) |
 | Sun, 02 Nov 2025 02:58:21 GMT | Hacktivizm: İdeoloji mi, Siber Suç mu? | Ata Çalım | [Read More](https://medium.com/p/a8fcedc21f84) |
 | Sun, 02 Nov 2025 02:42:26 GMT | I’ve been learning JavaScript for about two months now, alongside Kali Linux, networking, Nmap… | Abdullah Mina | [Read More](https://medium.com/p/b4bb430baab4) |
 | Sun, 02 Nov 2025 02:31:53 GMT | ️Intrusion Prevention Systems … When the Alarm Starts Fighting Back | Thegreatpayload | [Read More](https://medium.com/p/5423d8692500) |
@@ -107,9 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 17:00:06 GMT | How Technology Can Reveal Signs of Cheating | Oche Emmanuel | [Read More](https://medium.com/p/d5587343d955) |
 | Sat, 01 Nov 2025 16:45:19 GMT | #LessonLearned - Username enumeration via different responses — PortSwigger Authentication Lab | Betul - Bug Bounty | [Read More](https://medium.com/p/c6dcfa508392) |
 | Sat, 01 Nov 2025 16:43:28 GMT | SQL AND SQL INJECTION | Jei Ess | [Read More](https://medium.com/p/09b72411ef86) |
-| Sat, 01 Nov 2025 16:40:51 GMT | Growing Your Cyber Revenue With Thought Leadership | Muhammad Adenowo | [Read More](https://medium.com/p/8ea7e90b6be0) |
-| Sat, 01 Nov 2025 16:39:31 GMT | eJPT Prep: Assessment Methodologies: Footprinting and Scanning CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/3e18047c7f85) |
-| Sat, 01 Nov 2025 16:33:23 GMT | Adding Container Analysis into Your CI/CD Pipeline with GitHub Actions and GCP | Prasanth Kanikicherla | [Read More](https://medium.com/p/8109163934d6) |
-| Sat, 01 Nov 2025 16:18:42 GMT | nz gym #2 ( intro RE ) | nzunuzzz | [Read More](https://medium.com/p/fcd6de493bd8) |
-| Sat, 01 Nov 2025 16:13:41 GMT | Kod Adı: Shutterdown Operasyonu – Bir Dijital Soygun Çetesinin Çökertilmesi | kaan turanli | [Read More](https://medium.com/p/f6f88ded23f9) |
-| Sat, 01 Nov 2025 16:12:03 GMT | ShadowMap x03: How We Engineered the Final Outcome | Mohammad Abir Abbas | [Read More](https://medium.com/p/0b7c7d0e0700) |
