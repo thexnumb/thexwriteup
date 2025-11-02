@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 11:28:12 GMT | Top 10 Digital Forensics Tools for Evidence Recovery | Manisha Chaudhary | [Read More](https://medium.com/p/a7aa89ff449c) |
+| Sun, 02 Nov 2025 11:24:17 GMT | 7 Hidden Samsung A Series Tricks That Will Blow Your Mind | Grace Anderson | [Read More](https://medium.com/p/6662b41e5466) |
+| Sun, 02 Nov 2025 11:20:43 GMT | How to approach attacking AD (Hands on Guide) | Hishamrazak | [Read More](https://medium.com/p/c920469967c0) |
+| Sun, 02 Nov 2025 11:19:02 GMT | CVE-2025–63417: The Chatroom Compromise — Stored XSS in SelfBest Platform | Rohit Chaudhary | [Read More](https://medium.com/p/f34ddcd984ea) |
+| Sun, 02 Nov 2025 11:17:47 GMT | Infinity Shell Walkthrough - TryHackme | Aufarifqi | [Read More](https://medium.com/p/b8541d2908d5) |
 | Sun, 02 Nov 2025 11:08:45 GMT | Traditional Relational Database is in its ACIDity, and Distributed Relational Database is in its… | Philipebuka | [Read More](https://medium.com/p/ea3dcc8a8f5e) |
 | Sun, 02 Nov 2025 11:06:51 GMT | 7 Quick Samsung A Series Tips to Unlock Its Full Potential | Aurora Green | [Read More](https://medium.com/p/12b3b3aaa86f) |
 | Sun, 02 Nov 2025 11:06:17 GMT | Cyber-eto OSINT Category Write Up | Mohammad Albaik - 0nvx | [Read More](https://medium.com/p/93c658a131f4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 00:45:11 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/4e8da609aa21) |
 | Sun, 02 Nov 2025 00:39:44 GMT | ⚙️ The Connection Pool Setting That Prevents 99% of Database Crashes (According to Real Data) | Rizqi Mulki | [Read More](https://medium.com/p/c12e796f7f73) |
 | Sun, 02 Nov 2025 00:38:25 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/5f27837163ee) |
-| Sun, 02 Nov 2025 00:31:15 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/d81ebf11d48e) |
-| Sun, 02 Nov 2025 00:25:15 GMT | Redis vs Memcached: The Real-World Speed Test (2025 Update) | Rizqi Mulki | [Read More](https://medium.com/p/6c1caf6ff157) |
-| Sun, 02 Nov 2025 00:16:52 GMT | Day 1: Introduction to CryptoHack Writeup | Siyam | [Read More](https://medium.com/p/9258a68e6012) |
-| Sun, 02 Nov 2025 00:16:04 GMT | How to migrate Centrifuge (CFG) — migration to EVM | Centrifuge (CFG) — migration to EVM | [Read More](https://medium.com/p/f870011ea867) |
-| Sun, 02 Nov 2025 00:10:42 GMT | Adaptive Composition Attacks in AI-Integrated Systems A Conceptual Analysis of Emerging… | Momen Ghazouani | [Read More](https://medium.com/p/245d3111376f) |
