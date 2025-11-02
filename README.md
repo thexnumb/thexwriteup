@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 12:28:00 GMT | Proton’s New Tool Finds 300M Stolen Logins on Dark Web | Muhammad Hassan Ali | [Read More](https://medium.com/p/7f11a6ecff97) |
+| Sun, 02 Nov 2025 12:19:14 GMT | Understanding XSS: Types, Risks, and Practical Defenses | Shayaan Khan | [Read More](https://medium.com/p/4778d4524082) |
+| Sun, 02 Nov 2025 12:05:47 GMT | DockerLabs Writeup — Los 40 Ladrones (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fc1d14834980) |
+| Sun, 02 Nov 2025 12:03:30 GMT | Decoy Sentinel: Strategic Deception Powered by Splunk Analytics | Vedanshpundir | [Read More](https://medium.com/p/4c8304e85d44) |
+| Sun, 02 Nov 2025 12:02:26 GMT | Maybe I’m Not Too Much, I’m Just Finally Alive | Ash | [Read More](https://medium.com/p/f0ba98dfb5bd) |
+| Sun, 02 Nov 2025 11:58:52 GMT | Day 73- Splunk basics for beginners | unica 02 | [Read More](https://medium.com/p/7210bb86fbe4) |
+| Sun, 02 Nov 2025 11:54:06 GMT | Blueprint TryHackMe: Full Writeup and Exploitation Guide | IsaacNatarajan | [Read More](https://medium.com/p/1c27de4a7d03) |
+| Sun, 02 Nov 2025 11:45:47 GMT | MY FIRST STEPS WITH CISCO PACKET TRACER | Shalom Chinedu | [Read More](https://medium.com/p/1a522ba7b410) |
+| Sun, 02 Nov 2025 11:42:24 GMT | Attacking GraphQL — Information Disclosure via Introspection Query | Hikmat Gasimov | [Read More](https://medium.com/p/ed3d5e9791ec) |
+| Sun, 02 Nov 2025 11:41:23 GMT | Mastering Unwritten Rules for Jump Hosts — The Day One Field Guide for Pentesters | Rubab Fatima | [Read More](https://medium.com/p/553b71574c79) |
+| Sun, 02 Nov 2025 11:37:52 GMT | CVE-2025–63416: The Admin Panel Heist — Stored XSS to Privilege Escalation | Rohit Chaudhary | [Read More](https://medium.com/p/b4c69d8487f1) |
+| Sun, 02 Nov 2025 11:36:45 GMT | TryHackMe — MalBuster | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/1f9139e1bd7a) |
 | Sun, 02 Nov 2025 11:28:12 GMT | Top 10 Digital Forensics Tools for Evidence Recovery | Manisha Chaudhary | [Read More](https://medium.com/p/a7aa89ff449c) |
 | Sun, 02 Nov 2025 11:24:17 GMT | 7 Hidden Samsung A Series Tricks That Will Blow Your Mind | Grace Anderson | [Read More](https://medium.com/p/6662b41e5466) |
 | Sun, 02 Nov 2025 11:20:43 GMT | How to approach attacking AD (Hands on Guide) | Hishamrazak | [Read More](https://medium.com/p/c920469967c0) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 03:25:06 GMT | When an Endpoint Enumerator Turned Into a P1 information disclosure bug Here’s What I Found | Mayowa omolabi | [Read More](https://medium.com/p/9cb6bd3b6752) |
 | Sun, 02 Nov 2025 02:58:21 GMT | Hacktivizm: İdeoloji mi, Siber Suç mu? | Ata Çalım | [Read More](https://medium.com/p/a8fcedc21f84) |
 | Sun, 02 Nov 2025 02:42:26 GMT | I’ve been learning JavaScript for about two months now, alongside Kali Linux, networking, Nmap… | Abdullah Mina | [Read More](https://medium.com/p/b4bb430baab4) |
-| Sun, 02 Nov 2025 02:31:53 GMT | ️Intrusion Prevention Systems … When the Alarm Starts Fighting Back | Thegreatpayload | [Read More](https://medium.com/p/5423d8692500) |
-| Sun, 02 Nov 2025 02:23:30 GMT | Can Using a Mobile Hotspot Put Your Company Network at Risk? | Raviteja Mureboina | [Read More](https://medium.com/p/f94c6e11874a) |
-| Sun, 02 Nov 2025 02:10:59 GMT | Understanding Phishing: How One Email Can Lead to a Breach | Nway Nway Zay Ya | [Read More](https://medium.com/p/b718518f1a8a) |
-| Sun, 02 Nov 2025 01:56:22 GMT | The Greatest Foresight of Middle-Aged People: Cultivating a Happy Home | Xiaochen | [Read More](https://medium.com/p/bf27b2766421) |
-| Sun, 02 Nov 2025 01:52:47 GMT | VULNERABLE..?? | Karen Umelo | [Read More](https://medium.com/p/c561e1a02840) |
-| Sun, 02 Nov 2025 01:16:01 GMT | Microsoft’s big bet on OpenAI sparked a $500 Billion power shift | Outman BAZ | [Read More](https://medium.com/p/16b9d2f5916d) |
-| Sun, 02 Nov 2025 01:03:13 GMT | How to migrate on metya to my token | MetYa - $MY token | [Read More](https://medium.com/p/64e0e4aeba68) |
-| Sun, 02 Nov 2025 01:00:55 GMT | Linux Capabilities Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/a5bcde9e3018) |
-| Sun, 02 Nov 2025 00:56:04 GMT | When Broken People Are Drawn To Your Light | Tabiya Overhand | [Read More](https://medium.com/p/7f9781860978) |
-| Sun, 02 Nov 2025 00:45:11 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/4e8da609aa21) |
-| Sun, 02 Nov 2025 00:39:44 GMT | ⚙️ The Connection Pool Setting That Prevents 99% of Database Crashes (According to Real Data) | Rizqi Mulki | [Read More](https://medium.com/p/c12e796f7f73) |
-| Sun, 02 Nov 2025 00:38:25 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/5f27837163ee) |
