@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 22:52:05 GMT | How Top Streamers on Twitch Are “Mini Celebrities” | Sean Sorita | [Read More](https://medium.com/p/bc88cd642b80) |
+| Sun, 02 Nov 2025 22:51:10 GMT | MQTT: The Language of the Internet of Things | Bervice | [Read More](https://medium.com/p/1a8c2c579693) |
+| Sun, 02 Nov 2025 22:45:08 GMT | How Job Recruiter Scams Hook You and How to Outsmart Them | TrendlineGala | [Read More](https://medium.com/p/2cb47cae48a3) |
+| Sun, 02 Nov 2025 22:43:41 GMT | The failures leading to the CPC | Cheta Nwanze | [Read More](https://medium.com/p/213dadd23d01) |
 | Sun, 02 Nov 2025 22:37:05 GMT | New Android Warning As Humanized Password Stealer Confirmed | Nauman khan | [Read More](https://medium.com/p/f878f29b7787) |
+| Sun, 02 Nov 2025 22:36:28 GMT | Here Is Where I Disappear | Sweet Vanilla Dreams | [Read More](https://medium.com/p/93a682bc4249) |
 | Sun, 02 Nov 2025 22:09:21 GMT | Automate Compliance Headaches with Delve’s Smart AI Agent | Raj | [Read More](https://medium.com/p/d0abdedc6fb3) |
 | Sun, 02 Nov 2025 22:04:41 GMT | Você está cyberseguro? | Yusouza | [Read More](https://medium.com/p/a88b84203031) |
 | Sun, 02 Nov 2025 22:01:39 GMT | RootMe: THM Walkthrough | Will Parker | [Read More](https://medium.com/p/7bd2636a6ce9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 14:31:54 GMT | (Comptia A+) Understanding Proxy Servers: Enhancing Security and Efficiency in Web Browsing | Vignesh R | [Read More](https://medium.com/p/356561d76dc8) |
 | Sun, 02 Nov 2025 14:31:54 GMT | Secrets Of Fast CLI Tools: Startup, I/O, Syscalls | The Speed Engineer | [Read More](https://medium.com/p/a198dc2adb58) |
 | Sun, 02 Nov 2025 14:30:01 GMT | Will AI Replace Tech Jobs or Just Change Them? | Techtanktools | [Read More](https://medium.com/p/5b5978d34c8c) |
-| Sun, 02 Nov 2025 14:27:44 GMT | Taiwan Faces AI-Enhanced Cyberattack Experiments from Chinese Threat Actors | Himanshu Bhatt | [Read More](https://medium.com/p/b6d10c72aabe) |
-| Sun, 02 Nov 2025 14:26:20 GMT | How to Be Loved and Cherished in Relationships by Expressing Your Assertiveness | Hanpis | [Read More](https://medium.com/p/bfa81b7962a7) |
-| Sun, 02 Nov 2025 14:21:57 GMT | Why Cybersecurity Pros Secretly Ignore Their Own Rules | Cyberkech | [Read More](https://medium.com/p/1fcf80cc4e1f) |
-| Sun, 02 Nov 2025 14:17:33 GMT | Annoying bugs in iPadOS 26 | Paperless X | [Read More](https://medium.com/p/662f252131e7) |
-| Sun, 02 Nov 2025 14:09:43 GMT | Cybersecurity: Forensic Digital Image | Ramandeep Bagri | [Read More](https://medium.com/p/a8e7c91b708e) |
