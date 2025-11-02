@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 08:06:35 GMT | Here you go — Medium-ready and SEO-tuned. | Pentest_Testing_Corp | [Read More](https://medium.com/p/0075a52b1c3c) |
+| Sun, 02 Nov 2025 07:57:53 GMT | Multi-Agent Systems in Cybersecurity | Shailendra Kumar | [Read More](https://medium.com/p/6957e2d7dee7) |
+| Sun, 02 Nov 2025 07:52:50 GMT | Secure USB Connection Detection and Protection in iOS | Nishant Taneja | [Read More](https://medium.com/p/c03725c74d6a) |
+| Sun, 02 Nov 2025 07:52:29 GMT | My Journey to OSCE3 | Fabian Lim | [Read More](https://medium.com/p/1a86d42a114d) |
+| Sun, 02 Nov 2025 07:37:18 GMT | From SQLi to OS Shell: Master Advanced SQL Injection Payloads for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/19bdcc8b00bd) |
 | Sun, 02 Nov 2025 07:19:47 GMT | It’s Either Medium or Me that Doesn’t Know What Trending Means | Illuminati Ganga Agent 86 | [Read More](https://medium.com/p/c28395c9a69d) |
 | Sun, 02 Nov 2025 07:16:47 GMT | Stream-first HTTP Client for Go | Game Master | [Read More](https://medium.com/p/404af133fbbd) |
 | Sun, 02 Nov 2025 07:08:43 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/870b73701f7f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 19:24:06 GMT | Bug Hunting | Nazrul Islam Rana | [Read More](https://medium.com/p/4c782cbe6b69) |
 | Sat, 01 Nov 2025 19:01:56 GMT | How Attackers See Active Directory — Internal vs External Threat Perspectives | Suhel Kathi | [Read More](https://medium.com/p/8d3ae96b58e7) |
 | Sat, 01 Nov 2025 19:00:10 GMT | The Insider Threat Nobody Talks About: What I’m Learning About Cybersecurity’s Hidden Vulnerability | Ayotundebabade | [Read More](https://medium.com/p/3512d18d64bf) |
-| Sat, 01 Nov 2025 18:56:39 GMT | 10 Networking Basics to Master as a Cybersecurity Professional | Muhammad Adenowo | [Read More](https://medium.com/p/0adce44500aa) |
-| Sat, 01 Nov 2025 18:55:08 GMT | The Architect’s Complete Guide to Salesforce SSO — Provisioning, Authentication & Defense in Depth… | Pedro Távora Santos | [Read More](https://medium.com/p/f7a752de6562) |
-| Sat, 01 Nov 2025 18:48:33 GMT | Cómo instalar y configurar Metasploitable 2 | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/5165087f2ad7) |
-| Sat, 01 Nov 2025 18:47:14 GMT | Cyber-Eto 2025 Qualifications Writeups | Qais Hammad | [Read More](https://medium.com/p/64ad1a57319c) |
-| Sat, 01 Nov 2025 18:44:40 GMT | TryHackME — Shadow Trace | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/def07b35db52) |
