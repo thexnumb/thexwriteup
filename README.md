@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 07:16:47 GMT | Stream-first HTTP Client for Go | Game Master | [Read More](https://medium.com/p/404af133fbbd) |
+| Sun, 02 Nov 2025 07:08:43 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/870b73701f7f) |
+| Sun, 02 Nov 2025 07:07:06 GMT | SNAKE — a Golang Serpent malware | malana | [Read More](https://medium.com/p/1ea38c3bc82a) |
+| Sun, 02 Nov 2025 07:01:26 GMT | How I Created a Private Project Without Paying — Subscription Bypass in Project Creation | black | [Read More](https://medium.com/p/14e482788422) |
+| Sun, 02 Nov 2025 06:59:12 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/6d151149e502) |
+| Sun, 02 Nov 2025 06:55:59 GMT | Top 10 Cyber Security Podcast | Manisha Chaudhary | [Read More](https://medium.com/p/088933ec820c) |
+| Sun, 02 Nov 2025 06:49:03 GMT | SOC250 — APT35 HyperScrape Data Exfiltration Tool Detected (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/f85d6388111f) |
+| Sun, 02 Nov 2025 06:48:24 GMT | You Don’t Need to Be Everywhere — You Need to Be Remembered | Vijay Kumar Gupta | [Read More](https://medium.com/p/9c34d0078035) |
+| Sun, 02 Nov 2025 06:33:15 GMT | The VS Code Trojan: How GlassWorm Infected 35,000 Developer Machines | Aj | [Read More](https://medium.com/p/5af55481d738) |
+| Sun, 02 Nov 2025 06:32:04 GMT | Why Cyberattacks Targeting Japanese Organizations Will Increase Rather Than Decrease | David SEHYEON Baek | [Read More](https://medium.com/p/2c06f8aa62bc) |
 | Sun, 02 Nov 2025 06:20:59 GMT | Snort Presentation (CMPT 782) | Sanjit Mann | [Read More](https://medium.com/p/ec9911a796c4) |
 | Sun, 02 Nov 2025 06:16:15 GMT | Behind the Screen: How I Finally Understood Linux from the Inside Out | Salimassili | [Read More](https://medium.com/p/d00d95156503) |
 | Sun, 02 Nov 2025 05:40:03 GMT | THE TECHNOCRATIC OATH | James Lynch Jr | [Read More](https://medium.com/p/0de90a7a8f53) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 18:47:14 GMT | Cyber-Eto 2025 Qualifications Writeups | Qais Hammad | [Read More](https://medium.com/p/64ad1a57319c) |
 | Sat, 01 Nov 2025 18:44:40 GMT | TryHackME — Shadow Trace | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/def07b35db52) |
 | Sat, 01 Nov 2025 18:43:32 GMT | AI Agents Are Learning to Hack | m1y | [Read More](https://medium.com/p/6d1a4fec2d70) |
-| Sat, 01 Nov 2025 18:38:55 GMT | The Go Security Mistake That Almost Got Me Hacked (And How I Fixed It)
-From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b5205827ce) |
-| Sat, 01 Nov 2025 18:36:38 GMT | ​ China-Backed Hackers Target European Diplomats via Unpatched Windows Flaw: The UNC6384 Threat | Midhun Thomas PT | [Read More](https://medium.com/p/eddb245c0056) |
-| Sat, 01 Nov 2025 18:32:04 GMT | The $1 Billion Lesson: How Cyber Warfare in Ukraine Changed Enterprise Java Security Forever | Toyez | [Read More](https://medium.com/p/b028c5752ce7) |
-| Sat, 01 Nov 2025 18:29:20 GMT | Race, Brute, Win: Exploiting a Weak Password-Reset Flow | Youssef Hany | [Read More](https://medium.com/p/58ebdde3a8e3) |
-| Sat, 01 Nov 2025 18:10:30 GMT | How Cyber-Crimes affect IoT Devices | Alex P | [Read More](https://medium.com/p/f69609f592d3) |
-| Sat, 01 Nov 2025 18:08:06 GMT | Smart Office Networking Setup 2025 — Devices, Security & Speed | Jazz Cyber Shield | [Read More](https://medium.com/p/5c13d1eaaaa8) |
-| Sat, 01 Nov 2025 18:04:11 GMT | The Evolution and Integration of AI in Cybersecurity: Current Applications, Future Potential, and… | Alex P | [Read More](https://medium.com/p/5290e3509e24) |
-| Sat, 01 Nov 2025 17:54:09 GMT | The Public Wi-Fi Warning: Your Smartphone is a Mobile Vault | Technology EM3 | [Read More](https://medium.com/p/fb8fc7954895) |
-| Sat, 01 Nov 2025 17:51:01 GMT | Why People Keep Falling for Phishing—Even the Smart Ones | Nimra Ismail | [Read More](https://medium.com/p/f824bb418659) |
-| Sat, 01 Nov 2025 17:39:12 GMT | “5 Deadly Spring Boot Security Mistakes with JWT & OAuth2 (And How to Fix Them Before Hackers… | Karuna | [Read More](https://medium.com/p/0f97ee0a0d58) |
