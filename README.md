@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 21:26:41 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/3a8a211afc22) |
+| Sun, 02 Nov 2025 21:22:48 GMT | Stripe Subscription Escalation by Default | p4 | [Read More](https://medium.com/p/9cacbb0c4ea9) |
+| Sun, 02 Nov 2025 21:16:52 GMT | How I Finally Understood the OSI Model —  It’s a Blueprint, Not a Staircase | Tawan Fonseca | [Read More](https://medium.com/p/71244604e41b) |
+| Sun, 02 Nov 2025 21:15:26 GMT | Predicting Cyber Attacks Through Data Science. | Jeremy van Gorp | [Read More](https://medium.com/p/65fff63efa2b) |
 | Sun, 02 Nov 2025 21:08:41 GMT | Change Password Hackviser | Moamenalazam | [Read More](https://medium.com/p/52e36cb72ea1) |
 | Sun, 02 Nov 2025 21:01:54 GMT | IPs, ASN & CIDR — When the Game Is the Network, We Play the Map — How target.com | القنصل | [Read More](https://medium.com/p/fbaafdb66f0b) |
 | Sun, 02 Nov 2025 21:01:21 GMT | Customizing Microsoft Security Copilot with Plugins, Prompt Books, and Custom Agents | Arsh Riz | [Read More](https://medium.com/p/7f240be82f73) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 13:56:12 GMT | Room 106 -FTP Ser Attack Practice (Red Team Lab) | blackXmask | [Read More](https://medium.com/p/dbf1b583d571) |
 | Sun, 02 Nov 2025 13:55:32 GMT | Event Crew: The Unsung Heroes Behind Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/a2188991604d) |
 | Sun, 02 Nov 2025 13:51:27 GMT | A Roadmap to Becoming a Penetration Tester in 2025 | Shahzaib | [Read More](https://medium.com/p/386c3588ed5c) |
-| Sun, 02 Nov 2025 13:51:23 GMT | The Day I Cracked My First Password Using Hashcat | Abdullah Javeed | [Read More](https://medium.com/p/3098d3446827) |
-| Sun, 02 Nov 2025 13:51:19 GMT | Hunting JavaScript: Finding Vulnerable JS Links | Monika sharma | [Read More](https://medium.com/p/3a99d01d6313) |
-| Sun, 02 Nov 2025 13:48:37 GMT | 5 Cybersecurity Myths That Are Sabotaging Your Startup’s Growth | Hania Khan | [Read More](https://medium.com/p/a52341f0407f) |
-| Sun, 02 Nov 2025 13:48:00 GMT | ️ Ever wondered what happens to a laptop after you click ‘Request’ on the IT portal? | Sandeep Kumar | [Read More](https://medium.com/p/1c895f8753f3) |
