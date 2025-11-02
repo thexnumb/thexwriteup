@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 18:26:12 GMT | The $1 Million Question for Architects: RBAC or ABAC? | BDhar | [Read More](https://medium.com/p/da2772faf80f) |
+| Sun, 02 Nov 2025 18:24:18 GMT | The Room With Too Many Doors | Hector Dotse Jr. | [Read More](https://medium.com/p/3ef1ea32c3cf) |
 | Sun, 02 Nov 2025 18:07:32 GMT | Understanding Kerberos — The heart of modern enterprise authentication — Part 1 | Aneesh Kulkarni | [Read More](https://medium.com/p/8c64968c5294) |
 | Sun, 02 Nov 2025 18:02:17 GMT | Incident Response — How SOC  Handle Cyber Incidents Step by Step | Huseyn Eyvazov | [Read More](https://medium.com/p/869bbc8ecbc6) |
 | Sun, 02 Nov 2025 18:00:54 GMT | An Introduction to Bug Haven (& some of my favorite bugs) | Bug Haven | [Read More](https://medium.com/p/272c64d191e9) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 12:28:00 GMT | Proton’s New Tool Finds 300M Stolen Logins on Dark Web | Muhammad Hassan Ali | [Read More](https://medium.com/p/7f11a6ecff97) |
 | Sun, 02 Nov 2025 12:19:14 GMT | Understanding XSS: Types, Risks, and Practical Defenses | Shayaan Khan | [Read More](https://medium.com/p/4778d4524082) |
 | Sun, 02 Nov 2025 12:05:47 GMT | DockerLabs Writeup — Los 40 Ladrones (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fc1d14834980) |
-| Sun, 02 Nov 2025 12:03:30 GMT | Decoy Sentinel: Strategic Deception Powered by Splunk Analytics | Vedanshpundir | [Read More](https://medium.com/p/4c8304e85d44) |
-| Sun, 02 Nov 2025 12:02:26 GMT | Maybe I’m Not Too Much, I’m Just Finally Alive | Ash | [Read More](https://medium.com/p/f0ba98dfb5bd) |
