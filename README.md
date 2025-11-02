@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 18:57:41 GMT | Nmap — The First Step Every Ethical Hacker Takes | Viratavi | [Read More](https://medium.com/p/2da1d356363e) |
+| Sun, 02 Nov 2025 18:47:18 GMT | Top 15 OSINT Tools | Nazrul Islam Rana | [Read More](https://medium.com/p/d2b7f2a0a6b7) |
 | Sun, 02 Nov 2025 18:26:12 GMT | The $1 Million Question for Architects: RBAC or ABAC? | BDhar | [Read More](https://medium.com/p/da2772faf80f) |
 | Sun, 02 Nov 2025 18:24:18 GMT | The Room With Too Many Doors | Hector Dotse Jr. | [Read More](https://medium.com/p/3ef1ea32c3cf) |
 | Sun, 02 Nov 2025 18:07:32 GMT | Understanding Kerberos — The heart of modern enterprise authentication — Part 1 | Aneesh Kulkarni | [Read More](https://medium.com/p/8c64968c5294) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 12:48:05 GMT | Telegram Tabanlı Gerçek Zamanlı Sahte Domain (Phishing) Tespit Sistemi | Salimuy | [Read More](https://medium.com/p/d7d77a5a8710) |
 | Sun, 02 Nov 2025 12:32:03 GMT | CIO Roadmap: 5 Must-Have Skills for IT Pros in an AI World | Azeeza | [Read More](https://medium.com/p/bd293fc6d74f) |
 | Sun, 02 Nov 2025 12:28:00 GMT | Proton’s New Tool Finds 300M Stolen Logins on Dark Web | Muhammad Hassan Ali | [Read More](https://medium.com/p/7f11a6ecff97) |
-| Sun, 02 Nov 2025 12:19:14 GMT | Understanding XSS: Types, Risks, and Practical Defenses | Shayaan Khan | [Read More](https://medium.com/p/4778d4524082) |
-| Sun, 02 Nov 2025 12:05:47 GMT | DockerLabs Writeup — Los 40 Ladrones (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fc1d14834980) |
