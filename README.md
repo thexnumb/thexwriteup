@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 06:20:59 GMT | Snort Presentation (CMPT 782) | Sanjit Mann | [Read More](https://medium.com/p/ec9911a796c4) |
+| Sun, 02 Nov 2025 06:16:15 GMT | Behind the Screen: How I Finally Understood Linux from the Inside Out | Salimassili | [Read More](https://medium.com/p/d00d95156503) |
 | Sun, 02 Nov 2025 05:40:03 GMT | THE TECHNOCRATIC OATH | James Lynch Jr | [Read More](https://medium.com/p/0de90a7a8f53) |
+| Sun, 02 Nov 2025 05:36:29 GMT | Lies or Perceptions: Scientific World, Digital World, AI and Information Age | Dawood Mamoon | [Read More](https://medium.com/p/1847bfb6070c) |
 | Sun, 02 Nov 2025 05:36:17 GMT | Japan’s Muji and Askul Hit Together — A Ransomware Shock and the Case for Supply Chain Security | David SEHYEON Baek | [Read More](https://medium.com/p/1d0cf82aac21) |
+| Sun, 02 Nov 2025 05:34:44 GMT | Include — TryHackMe — Detailed Writeup | Ankit Dhaka | [Read More](https://medium.com/p/5a5f3a8ecee9) |
 | Sun, 02 Nov 2025 05:24:50 GMT | The Digital Apocalypse Is Upon Us: Why Every Business Leader Needs to Wake Up Right Now | Piotrmak Marko | [Read More](https://medium.com/p/5c743e0ae075) |
 | Sun, 02 Nov 2025 05:22:43 GMT | Why ! Did I get -2 points on my bug crowd profile | Sai Jayanth | [Read More](https://medium.com/p/4ae5d2d72c80) |
 | Sun, 02 Nov 2025 05:10:23 GMT | The AI Revolution in Writing: | Ki Lov3 - Bestselling Indie Author | [Read More](https://medium.com/p/9add3bcf59b9) |
@@ -109,7 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 17:54:09 GMT | The Public Wi-Fi Warning: Your Smartphone is a Mobile Vault | Technology EM3 | [Read More](https://medium.com/p/fb8fc7954895) |
 | Sat, 01 Nov 2025 17:51:01 GMT | Why People Keep Falling for Phishing—Even the Smart Ones | Nimra Ismail | [Read More](https://medium.com/p/f824bb418659) |
 | Sat, 01 Nov 2025 17:39:12 GMT | “5 Deadly Spring Boot Security Mistakes with JWT & OAuth2 (And How to Fix Them Before Hackers… | Karuna | [Read More](https://medium.com/p/0f97ee0a0d58) |
-| Sat, 01 Nov 2025 17:38:57 GMT | Honeypots and Honeynets: Tricking Hackers to Learn Their Secrets | Huseyn Eyvazov | [Read More](https://medium.com/p/b3b54eebefa7) |
-| Sat, 01 Nov 2025 17:31:48 GMT | Why This Matters Now: The more personal information you post online (birthdays, pet names, location… | Technology EM3 | [Read More](https://medium.com/p/134681819a18) |
-| Sat, 01 Nov 2025 17:27:31 GMT | Automation VS Manual Hacking. How To Do Bug Hunting The Right Way? | Rehan Sohail | [Read More](https://medium.com/p/c6e58232609f) |
-| Sat, 01 Nov 2025 17:24:48 GMT | Understanding Triage and CVSS | Huseyn Eyvazov | [Read More](https://medium.com/p/a4ecde674661) |
