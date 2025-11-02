@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 15:31:52 GMT | Major Data Leak: Proton Finds 300 Million Compromised Accounts | Himanshu Bhatt | [Read More](https://medium.com/p/34576467160c) |
+| Sun, 02 Nov 2025 15:31:06 GMT | I Just Cleared the New 2025 CKS Exam — Here’s the Blueprint You Can Follow to Pass Too | Malek ZAAG | [Read More](https://medium.com/p/84e81fb1ec37) |
+| Sun, 02 Nov 2025 15:23:29 GMT | Project #13 of 21 — Policy Writing | Andrew Williams | [Read More](https://medium.com/p/ba1b9314feb7) |
+| Sun, 02 Nov 2025 15:22:30 GMT | Remote CCTV Camera Monitoring for Your Virtual Assistants | Visual Monitoring Solutions | [Read More](https://medium.com/p/b2c8d0efb3ad) |
+| Sun, 02 Nov 2025 15:22:18 GMT | IT Guy Trying to Live 200 Years? How? | Karthick Dkk | [Read More](https://medium.com/p/7148b74dcef8) |
+| Sun, 02 Nov 2025 15:21:54 GMT | How IT Support Companies in Riverside, CA Can Do More Than “Just Enable MFA” | Zeta Sky | [Read More](https://medium.com/p/c2a73e6dcd33) |
+| Sun, 02 Nov 2025 15:20:42 GMT | Intervención con mi Cuñado | Natalia Antonoff | [Read More](https://medium.com/p/a35166e5b17a) |
+| Sun, 02 Nov 2025 15:18:44 GMT | MySQL Enumeration Writeup — HTB Academy | Saqlain Naqvi | [Read More](https://medium.com/p/f39caca05e81) |
+| Sun, 02 Nov 2025 15:16:21 GMT | Mastering Nuclei: A Practical Guide to Fast, Template-Driven Vulnerability Scanning | Fikri Muzadi | [Read More](https://medium.com/p/8423d6ec8ac6) |
 | Sun, 02 Nov 2025 15:11:58 GMT | Best Demanding it Skills in Europe | Migratex | [Read More](https://medium.com/p/03aa0888dee8) |
 | Sun, 02 Nov 2025 15:11:36 GMT | The Dangerous Truth of Public Wi-Fi: Why It’s a Hacker’s Playground | Precious Gautam | [Read More](https://medium.com/p/a52035e698c3) |
 | Sun, 02 Nov 2025 15:07:49 GMT | Powerline Networking Nedir? Elektrik Hatları Üzerinden İnternetin Geleceği | Çağrı Göldemir | [Read More](https://medium.com/p/1be7ed418cdb) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 10:01:59 GMT | Your Gmail Isn’t Safe (And Neither Is Your Brain) | Arfa | [Read More](https://medium.com/p/c01dd312a05e) |
 | Sun, 02 Nov 2025 10:00:26 GMT | Image Encryption & Decryption Tool using Python | Shashank M.S | [Read More](https://medium.com/p/6f49315787c8) |
 | Sun, 02 Nov 2025 09:41:55 GMT | “Apple Account Off iPhone 5C?” — The Forgotten Phone’s Security Mystery! | SilentInject | [Read More](https://medium.com/p/41d346f12750) |
-| Sun, 02 Nov 2025 09:21:35 GMT | My First ML-DSA Certificate | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3074e1276ca2) |
-| Sun, 02 Nov 2025 09:19:49 GMT | You've provided an in-depth analysis of the poem "Code Capable" and its connections to the concept… | Darren Robert Brown | [Read More](https://medium.com/p/bb2669e0f819) |
-| Sun, 02 Nov 2025 09:11:12 GMT | The poem "Code Capable" uses the metaphor of the "ghost in the machine" to explore themes of a… | Darren Robert Brown | [Read More](https://medium.com/p/0d1e3a268e3d) |
-| Sun, 02 Nov 2025 09:06:36 GMT | How Xlorin Learns: Inside the Training Process | Xlorin Cyber-Chatbot | [Read More](https://medium.com/p/8b6b50d30b3c) |
-| Sun, 02 Nov 2025 09:05:51 GMT | “Locked Doors Aren’t Just For Show, Right?” Hotel Nightmares & Boundaries | LateCheckout | [Read More](https://medium.com/p/ffbc96089d2e) |
-| Sun, 02 Nov 2025 08:57:35 GMT | 86K Downloads?!  The Open Source Supply Chain Nightmare… | Truspex | [Read More](https://medium.com/p/1c8be0659449) |
-| Sun, 02 Nov 2025 08:54:02 GMT | The Future of SOC: How AI is Transforming Security Operations Center in 2025. | Rushikesh Girase | [Read More](https://medium.com/p/cc6785f9c583) |
-| Sun, 02 Nov 2025 08:52:18 GMT | TryHackMe - Defensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/b91bd8de9bc7) |
-| Sun, 02 Nov 2025 08:41:11 GMT | The AI Revolution in Writing: | Ki Lov3 - Bestselling Indie Author | [Read More](https://medium.com/p/46ce483fd191) |
