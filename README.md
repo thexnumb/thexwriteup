@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 10:13:37 GMT | ChatGPT Clone Apps: How Cybercriminals Are Turning AI Hype into a Security Nightmare | Aniket Sharma | [Read More](https://medium.com/p/915bac1de894) |
+| Sun, 02 Nov 2025 10:07:50 GMT | 6 Little-Known Samsung A Series Features That Save Time | Chloe White | [Read More](https://medium.com/p/07c8cf5cd1dd) |
+| Sun, 02 Nov 2025 10:02:35 GMT | From Browser to Server: What Really Happens When You Type a URL | samventure | [Read More](https://medium.com/p/93187c1e9454) |
+| Sun, 02 Nov 2025 10:01:59 GMT | Your Gmail Isn’t Safe (And Neither Is Your Brain) | Arfa | [Read More](https://medium.com/p/c01dd312a05e) |
+| Sun, 02 Nov 2025 10:00:26 GMT | Image Encryption & Decryption Tool using Python | Shashank M.S | [Read More](https://medium.com/p/6f49315787c8) |
+| Sun, 02 Nov 2025 09:41:55 GMT | “Apple Account Off iPhone 5C?” — The Forgotten Phone’s Security Mystery! | SilentInject | [Read More](https://medium.com/p/41d346f12750) |
 | Sun, 02 Nov 2025 09:21:35 GMT | My First ML-DSA Certificate | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3074e1276ca2) |
 | Sun, 02 Nov 2025 09:19:49 GMT | You've provided an in-depth analysis of the poem "Code Capable" and its connections to the concept… | Darren Robert Brown | [Read More](https://medium.com/p/bb2669e0f819) |
 | Sun, 02 Nov 2025 09:11:12 GMT | The poem "Code Capable" uses the metaphor of the "ghost in the machine" to explore themes of a… | Darren Robert Brown | [Read More](https://medium.com/p/0d1e3a268e3d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 21:40:30 GMT | The Weight of Hiding: A Letter from a Closeted Girl in India | Sonya N. | [Read More](https://medium.com/p/725443f7190e) |
 | Sat, 01 Nov 2025 21:28:05 GMT | Guard Your Digital Crown: The Hidden Costs of Convenience | Eric Bernard Gardner Jr | [Read More](https://medium.com/p/0b8f37d52613) |
 | Sat, 01 Nov 2025 21:24:58 GMT | When Knowledge Searches for Humans | Ahmed Mohamed | [Read More](https://medium.com/p/a1a0c24bd9e3) |
-| Sat, 01 Nov 2025 21:18:39 GMT | Mobile banking malware & overlay attacks: what they are, why they work, and how to stop them | Bervice | [Read More](https://medium.com/p/aa5f6eb1b1f7) |
-| Sat, 01 Nov 2025 21:17:07 GMT | The Cost of Connection: Reflections on Mobile Money Fraud and Digital Insecurity in Ghana | Richard Agodzo | [Read More](https://medium.com/p/e0b227007c2a) |
-| Sat, 01 Nov 2025 21:16:11 GMT | SOC205 — Malicious Macro Execution: Deep Dive Investigation Walkthrough | Omar  Alnajjar | [Read More](https://medium.com/p/86f5f6da73ed) |
-| Sat, 01 Nov 2025 21:10:01 GMT | Navigating the Risks of AI Agents Using the Protocol Bench&Router Framework | Valdez Ladd | [Read More](https://medium.com/p/5697dc438050) |
-| Sat, 01 Nov 2025 21:06:55 GMT | I Followed This Method To Find XSS In 5 Minutes | Ibtissam | [Read More](https://medium.com/p/74a4390ae1ec) |
-| Sat, 01 Nov 2025 21:06:45 GMT | SQL Server running but port closed? | DuckWrites | [Read More](https://medium.com/p/d741e303eb7a) |
