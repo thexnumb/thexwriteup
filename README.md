@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 01:16:01 GMT | Microsoft’s big bet on OpenAI sparked a $500 Billion power shift | Outman BAZ | [Read More](https://medium.com/p/16b9d2f5916d) |
+| Sun, 02 Nov 2025 01:03:13 GMT | How to migrate on metya to my token | MetYa - $MY token | [Read More](https://medium.com/p/64e0e4aeba68) |
+| Sun, 02 Nov 2025 01:00:55 GMT | Linux Capabilities Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/a5bcde9e3018) |
+| Sun, 02 Nov 2025 00:56:04 GMT | When Broken People Are Drawn To Your Light | Tabiya Overhand | [Read More](https://medium.com/p/7f9781860978) |
+| Sun, 02 Nov 2025 00:45:11 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/4e8da609aa21) |
+| Sun, 02 Nov 2025 00:39:44 GMT | ⚙️ The Connection Pool Setting That Prevents 99% of Database Crashes (According to Real Data) | Rizqi Mulki | [Read More](https://medium.com/p/c12e796f7f73) |
+| Sun, 02 Nov 2025 00:38:25 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/5f27837163ee) |
+| Sun, 02 Nov 2025 00:31:15 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/d81ebf11d48e) |
+| Sun, 02 Nov 2025 00:25:15 GMT | Redis vs Memcached: The Real-World Speed Test (2025 Update) | Rizqi Mulki | [Read More](https://medium.com/p/6c1caf6ff157) |
+| Sun, 02 Nov 2025 00:16:52 GMT | Day 1: Introduction to CryptoHack Writeup | Siyam | [Read More](https://medium.com/p/9258a68e6012) |
+| Sun, 02 Nov 2025 00:16:04 GMT | How to migrate Centrifuge (CFG) — migration to EVM | Centrifuge (CFG) — migration to EVM | [Read More](https://medium.com/p/f870011ea867) |
+| Sun, 02 Nov 2025 00:10:42 GMT | Adaptive Composition Attacks in AI-Integrated Systems A Conceptual Analysis of Emerging… | Momen Ghazouani | [Read More](https://medium.com/p/245d3111376f) |
+| Sun, 02 Nov 2025 00:01:53 GMT | Threat Hunting Glossary: Speaking the Language of Cyber Defense | Cybersecurity Simplified | [Read More](https://medium.com/p/caf5733cdde5) |
+| Sun, 02 Nov 2025 00:01:15 GMT | How to Create Branded Instagram Posts in Canva | VisionValutTemplate | [Read More](https://medium.com/p/d257fbc96441) |
+| Sat, 01 Nov 2025 23:51:00 GMT | Defesa de Domínio — Regras Básicas para CloudFlare WAF | Otávio Alves | [Read More](https://medium.com/p/373e6bb27948) |
+| Sat, 01 Nov 2025 23:48:20 GMT | Managerial Decision-Making in Technolo | Nejla Gul-Saglam | [Read More](https://medium.com/p/c89735b179f5) |
+| Sat, 01 Nov 2025 23:37:53 GMT | Why the Future of Cybersecurity Belongs to Agile, Independent Penetration Testing Firms | Johnsilentwire | [Read More](https://medium.com/p/39990c7021e4) |
 | Sat, 01 Nov 2025 23:31:03 GMT | Emoji steganography and XSS: why my “clever” WAF bypass failed | Derek Johnston | [Read More](https://medium.com/p/84648f66faf1) |
 | Sat, 01 Nov 2025 23:11:22 GMT | Smart Travelers Pack This Portable Door Alarm | Marc Ford | [Read More](https://medium.com/p/7dff283fbe7e) |
 | Sat, 01 Nov 2025 23:06:12 GMT | PicoCTF Scan Surprise — Forensics [EASY] | Alvin Kapoor | [Read More](https://medium.com/p/869c423d2c3a) |
@@ -96,20 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 15:42:19 GMT | The road to nakedness | Silkeheiss | [Read More](https://medium.com/p/71cf8d3cd2cc) |
 | Sat, 01 Nov 2025 15:40:38 GMT | How to Set Up AWS IAM | The Boring Engineer | [Read More](https://medium.com/p/05b050fed154) |
 | Sat, 01 Nov 2025 15:29:28 GMT | When Phones Turn Against Their Owners: The Predator Files and the Death of Digital Trust | Abatis ABTU | [Read More](https://medium.com/p/731a0cef3d00) |
-| Sat, 01 Nov 2025 15:27:02 GMT | Beyond the Facade | Grace Omayoza | [Read More](https://medium.com/p/b4fecd2eea52) |
-| Sat, 01 Nov 2025 15:26:33 GMT | HTB — Voleur Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/b0ebbfa01f52) |
-| Sat, 01 Nov 2025 15:25:45 GMT | The Great Tenant Mix-Up: How I Accidentally Became Every Company’s Employee | Iski | [Read More](https://medium.com/p/24418d7a6d38) |
-| Sat, 01 Nov 2025 15:18:27 GMT | Using Wireshark to Examine HTTP and HTTPS Traffic | Omar Hamed | [Read More](https://medium.com/p/a9e621b11f47) |
-| Sat, 01 Nov 2025 15:10:58 GMT | OTP Disclosure in Android App | Bytewreaker | [Read More](https://medium.com/p/2de7d9660a81) |
-| Sat, 01 Nov 2025 15:07:26 GMT | What is Cybersecurity & its types? | Maktechnologyindia | [Read More](https://medium.com/p/54ff3a616123) |
-| Sat, 01 Nov 2025 15:05:47 GMT | Why Genuine People Struggle Most in Modern Dating. | Bloom with Maria | [Read More](https://medium.com/p/d0e733b55f65) |
-| Sat, 01 Nov 2025 14:58:14 GMT | “Echoes of the Unheard…” | Aishwarya Mishra | [Read More](https://medium.com/p/160b07e5e39d) |
-| Sat, 01 Nov 2025 14:54:15 GMT | From Centralized Defense to Distributed Trust: The Naoris Protocol Model | Viktor.eth | [Read More](https://medium.com/p/95f6c6889e24) |
-| Sat, 01 Nov 2025 14:53:31 GMT | AI Risks: The Hidden Threat of Low-Opacity Commands in Images | Dima Kynal | [Read More](https://medium.com/p/0cfb7f566e88) |
-| Sat, 01 Nov 2025 14:40:17 GMT | User Groups, Roles, and Permission Schemes in Confluence Cloud | Erdem UÇAK | [Read More](https://medium.com/p/817477f726ab) |
-| Sat, 01 Nov 2025 14:39:51 GMT | Page and Content Access Control within a Space | Erdem UÇAK | [Read More](https://medium.com/p/bbd870f19616) |
-| Sat, 01 Nov 2025 14:33:20 GMT | Security Challenges in Internet of Things (IoT) | Jibriel Jeelani | [Read More](https://medium.com/p/5aeea10e0930) |
-| Sat, 01 Nov 2025 14:31:56 GMT | The Ultimate Browser Toolkit: Part 4 | XoX | [Read More](https://medium.com/p/748592fc64bc) |
-| Sat, 01 Nov 2025 14:29:13 GMT | I Lost My Wife. | Sufi Abdul Azeem Khan Durrani | [Read More](https://medium.com/p/8295c02f5316) |
-| Sat, 01 Nov 2025 14:28:33 GMT | The Little Cottage in the Valley | Jemina Jaja | [Read More](https://medium.com/p/f2cddc1754b6) |
-| Sat, 01 Nov 2025 14:25:25 GMT | TheHackersLabs — ZAPP [Write Up] | APS88 | [Read More](https://medium.com/p/b7b0474c22b6) |
