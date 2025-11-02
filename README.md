@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 20:25:09 GMT | Vulnerability Assessment and Penetration Testing Services - Strengthening Cyber Defense for U.S. | Aaishasharma | [Read More](https://medium.com/p/cb101871b41f) |
+| Sun, 02 Nov 2025 20:21:59 GMT | SSRF Attacks and Cloud Environment Security ☁️️ | Esra Kayhan | [Read More](https://medium.com/p/ab62a121cba6) |
 | Sun, 02 Nov 2025 20:09:12 GMT | Why Cross-Functional Projects Fail: The Critical Need for Neutral Leadership | Josh Welch | [Read More](https://medium.com/p/45f1be75bb98) |
 | Sun, 02 Nov 2025 19:57:59 GMT | Android’s built-in AI is taking a stronger stand against digital fraud. | SCtoCS | [Read More](https://medium.com/p/368e06f628f1) |
 | Sun, 02 Nov 2025 19:57:04 GMT | 30 Days of Red Team: Day 6 — Post-Exploitation (You’re In. Now What?) | Maxwell Cross | [Read More](https://medium.com/p/254b09f2688e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 13:29:02 GMT | Bandit OverTheWire writeup — Level 6 → Level 7 | Dawid Kowalski | [Read More](https://medium.com/p/4544f7fa947a) |
 | Sun, 02 Nov 2025 13:28:36 GMT | Bandit OverTheWire writeup — Level 7 → Level 8 | Dawid Kowalski | [Read More](https://medium.com/p/4dd1438dc010) |
 | Sun, 02 Nov 2025 13:24:19 GMT | FREAKSHOW DOCUMENTED: When LLM AI Assimilated the Researcher and Fabricated a Professional Identity | Berend Watchus | [Read More](https://medium.com/p/751be00f60b0) |
-| Sun, 02 Nov 2025 13:18:53 GMT | 167 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/c623c57ebca6) |
-| Sun, 02 Nov 2025 13:16:53 GMT | Apple’s AI Vision: Redefining Intelligence and Privacy In 2026 | Oliver H Blake | [Read More](https://medium.com/p/4f7496a7cefa) |
