@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 05:40:03 GMT | THE TECHNOCRATIC OATH | James Lynch Jr | [Read More](https://medium.com/p/0de90a7a8f53) |
+| Sun, 02 Nov 2025 05:36:17 GMT | Japan’s Muji and Askul Hit Together — A Ransomware Shock and the Case for Supply Chain Security | David SEHYEON Baek | [Read More](https://medium.com/p/1d0cf82aac21) |
+| Sun, 02 Nov 2025 05:24:50 GMT | The Digital Apocalypse Is Upon Us: Why Every Business Leader Needs to Wake Up Right Now | Piotrmak Marko | [Read More](https://medium.com/p/5c743e0ae075) |
+| Sun, 02 Nov 2025 05:22:43 GMT | Why ! Did I get -2 points on my bug crowd profile | Sai Jayanth | [Read More](https://medium.com/p/4ae5d2d72c80) |
+| Sun, 02 Nov 2025 05:10:23 GMT | The AI Revolution in Writing: | Ki Lov3 - Bestselling Indie Author | [Read More](https://medium.com/p/9add3bcf59b9) |
 | Sun, 02 Nov 2025 05:04:08 GMT | Find the Digital Footprints — Room Challenges: Blue Team LINUXENIC Corporation Write-up | Yuukoethic | [Read More](https://medium.com/p/8a7df2d2ca6e) |
 | Sun, 02 Nov 2025 05:01:56 GMT | 10 Signs Your Phone Might Be Hacked — And What to Do About It | CyberSafe Insights | [Read More](https://medium.com/p/26b57c81d740) |
 | Sun, 02 Nov 2025 04:50:09 GMT | From Beanstalk to Root: How I Escalated AWS Permissions with Pacu | Jorge Taylor | [Read More](https://medium.com/p/f474a21ac31d) |
@@ -108,8 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 17:31:48 GMT | Why This Matters Now: The more personal information you post online (birthdays, pet names, location… | Technology EM3 | [Read More](https://medium.com/p/134681819a18) |
 | Sat, 01 Nov 2025 17:27:31 GMT | Automation VS Manual Hacking. How To Do Bug Hunting The Right Way? | Rehan Sohail | [Read More](https://medium.com/p/c6e58232609f) |
 | Sat, 01 Nov 2025 17:24:48 GMT | Understanding Triage and CVSS | Huseyn Eyvazov | [Read More](https://medium.com/p/a4ecde674661) |
-| Sat, 01 Nov 2025 17:24:19 GMT | The Unintentional Attack: Learning from the AWS and Microsoft Outages — Lessons in Cyber Risk… | Juan Pablo Castro | [Read More](https://medium.com/p/0afcdbc33c54) |
-| Sat, 01 Nov 2025 17:23:11 GMT | ️ Defense in Depth: Why Layered Security Is No Longer Optional | Aslanovafidan | [Read More](https://medium.com/p/06c7775a18f3) |
-| Sat, 01 Nov 2025 17:20:56 GMT | Web Browser Forensics Cheatsheet: A practical guide for DFIR & SOC analysts | Khalil Z. | [Read More](https://medium.com/p/2ad38bbe9ca5) |
-| Sat, 01 Nov 2025 17:19:59 GMT | Zadra: A Configurable LLM Prompt Shield | Casey Johnson | [Read More](https://medium.com/p/fc5cc379e90c) |
-| Sat, 01 Nov 2025 17:10:46 GMT | 24/7 Live Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/d7b4fe1f79af) |
