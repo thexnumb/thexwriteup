@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 13:34:56 GMT | Top 10 Websites That Pay Developers to Contribute Code | Software Developer | [Read More](https://medium.com/p/72a9774b960c) |
+| Sun, 02 Nov 2025 13:24:19 GMT | FREAKSHOW DOCUMENTED: When LLM AI Assimilated the Researcher and Fabricated a Professional Identity | Berend Watchus | [Read More](https://medium.com/p/751be00f60b0) |
 | Sun, 02 Nov 2025 13:18:53 GMT | 167 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/c623c57ebca6) |
+| Sun, 02 Nov 2025 13:16:53 GMT | Apple’s AI Vision: Redefining Intelligence and Privacy In 2026 | Oliver H Blake | [Read More](https://medium.com/p/4f7496a7cefa) |
+| Sun, 02 Nov 2025 13:13:49 GMT | Agentic AI: The Next Frontier in Cybersecurity Risk | NitishKalra | [Read More](https://medium.com/p/f2c7b68a8a8d) |
 | Sun, 02 Nov 2025 13:08:55 GMT | The Rise of Generative AI in Cyber Attacks : A New Era of Digital Threats | Association of Computing Students (ACS) | [Read More](https://medium.com/p/fcebf57ee880) |
 | Sun, 02 Nov 2025 13:02:54 GMT | Your Email Has Almost Certainly Been Leaked. Here’s How to Check (and What to Do Next). | CyberSafe Insights | [Read More](https://medium.com/p/8a23a5bdf176) |
 | Sun, 02 Nov 2025 13:00:00 GMT | Open Source Botnet Hook — Latest Update | Balki Maharaj | [Read More](https://medium.com/p/393ed5ba8e6a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 05:10:23 GMT | The AI Revolution in Writing: | Ki Lov3 - Bestselling Indie Author | [Read More](https://medium.com/p/9add3bcf59b9) |
 | Sun, 02 Nov 2025 05:04:08 GMT | Find the Digital Footprints — Room Challenges: Blue Team LINUXENIC Corporation Write-up | Yuukoethic | [Read More](https://medium.com/p/8a7df2d2ca6e) |
 | Sun, 02 Nov 2025 05:01:56 GMT | 10 Signs Your Phone Might Be Hacked — And What to Do About It | CyberSafe Insights | [Read More](https://medium.com/p/26b57c81d740) |
-| Sun, 02 Nov 2025 04:50:09 GMT | From Beanstalk to Root: How I Escalated AWS Permissions with Pacu | Jorge Taylor | [Read More](https://medium.com/p/f474a21ac31d) |
-| Sun, 02 Nov 2025 04:43:54 GMT | Vulnhub MyCMS Walkthrough | cyber pancake | [Read More](https://medium.com/p/c9b0ef0619d1) |
-| Sun, 02 Nov 2025 04:40:50 GMT | Top 20 VAPT Tools to Strengthen Your Cybersecurity in 2025 | Securis360 Inc. | [Read More](https://medium.com/p/b2b4ce8f0881) |
-| Sun, 02 Nov 2025 04:01:55 GMT | Challenger 3: Britain’s 120mm Gun, Trophy APS, and Modular Armor Set to Redefine NATO Battlefield… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/46d835055a5d) |
