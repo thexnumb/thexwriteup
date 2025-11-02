@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 22:04:41 GMT | Você está cyberseguro? | Yusouza | [Read More](https://medium.com/p/a88b84203031) |
+| Sun, 02 Nov 2025 22:01:39 GMT | RootMe: THM Walkthrough | Will Parker | [Read More](https://medium.com/p/7bd2636a6ce9) |
+| Sun, 02 Nov 2025 22:01:22 GMT | Hacking the ‘Disaster Prepper’ Paradigm: Ep. #3 — Adapt & Overcome | Ian Barwise | [Read More](https://medium.com/p/139eee3a7414) |
+| Sun, 02 Nov 2025 21:41:28 GMT | From Principles to Controls: Operationalizing International AI Governance (2025 – 2030) | Renã L. Guarda | [Read More](https://medium.com/p/06a13e016e0d) |
 | Sun, 02 Nov 2025 21:26:41 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/3a8a211afc22) |
 | Sun, 02 Nov 2025 21:22:48 GMT | Stripe Subscription Escalation by Default | p4 | [Read More](https://medium.com/p/9cacbb0c4ea9) |
 | Sun, 02 Nov 2025 21:16:52 GMT | How I Finally Understood the OSI Model —  It’s a Blueprint, Not a Staircase | Tawan Fonseca | [Read More](https://medium.com/p/71244604e41b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 14:09:43 GMT | Cybersecurity: Forensic Digital Image | Ramandeep Bagri | [Read More](https://medium.com/p/a8e7c91b708e) |
 | Sun, 02 Nov 2025 14:08:45 GMT | You are worker #41: Lophiid Honeypot Caught an Automated AI Attack Swarm | Niels Heinen | [Read More](https://medium.com/p/0e1b21990a46) |
 | Sun, 02 Nov 2025 14:06:45 GMT | Singularity Rootkit: How a Linux Kernel Backdoor Evaded Elastic Security | Nishanth Padmanabhan | [Read More](https://medium.com/p/1f5e8e371db8) |
-| Sun, 02 Nov 2025 14:04:30 GMT | Tor IP Changer Setup Guide | Balki Maharaj | [Read More](https://medium.com/p/968301ae85bc) |
-| Sun, 02 Nov 2025 13:56:12 GMT | Room 106 -FTP Ser Attack Practice (Red Team Lab) | blackXmask | [Read More](https://medium.com/p/dbf1b583d571) |
-| Sun, 02 Nov 2025 13:55:32 GMT | Event Crew: The Unsung Heroes Behind Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/a2188991604d) |
-| Sun, 02 Nov 2025 13:51:27 GMT | A Roadmap to Becoming a Penetration Tester in 2025 | Shahzaib | [Read More](https://medium.com/p/386c3588ed5c) |
