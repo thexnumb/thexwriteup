@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 11:08:45 GMT | Traditional Relational Database is in its ACIDity, and Distributed Relational Database is in its… | Philipebuka | [Read More](https://medium.com/p/ea3dcc8a8f5e) |
+| Sun, 02 Nov 2025 11:06:51 GMT | 7 Quick Samsung A Series Tips to Unlock Its Full Potential | Aurora Green | [Read More](https://medium.com/p/12b3b3aaa86f) |
+| Sun, 02 Nov 2025 11:06:17 GMT | Cyber-eto OSINT Category Write Up | Mohammad Albaik - 0nvx | [Read More](https://medium.com/p/93c658a131f4) |
+| Sun, 02 Nov 2025 11:05:35 GMT | AI Bubble at Peak: The Next Tech Revolution Starts. | David Koch | [Read More](https://medium.com/p/5f50ed313101) |
+| Sun, 02 Nov 2025 10:57:38 GMT | FILE: LNX-001: WHY HACKERS CHOOSE LINUX | Fateyaly | [Read More](https://medium.com/p/8e5f2841d0b1) |
+| Sun, 02 Nov 2025 10:55:47 GMT | How Penetration Testing Strengthens Cloud Compliance | Musayyab Shah | [Read More](https://medium.com/p/944812672f68) |
+| Sun, 02 Nov 2025 10:49:55 GMT | Best Ceyptocurrecy Recovery Company. visit Zeus Crypto Recovery Services | Zeuscryptorecoveryservices | [Read More](https://medium.com/p/2db142564f57) |
+| Sun, 02 Nov 2025 10:49:07 GMT | How Blockchain Improves Cybersecurity: A Beginner’s Guide | Samiya Zubair | [Read More](https://medium.com/p/645d3fdf4bd8) |
+| Sun, 02 Nov 2025 10:48:02 GMT | SQL Injection: The Silent Menace — A Practical Guide for Developers and Security Engineers | Fikri Muzadi | [Read More](https://medium.com/p/9f62fb7c3b16) |
+| Sun, 02 Nov 2025 10:41:48 GMT | How I Discovered a Data Exposure Vulnerability in a WordPress Membership Site | MEGAZORD | [Read More](https://medium.com/p/bb368919a309) |
+| Sun, 02 Nov 2025 10:41:05 GMT | How to Bounce Back After a Cybersecurity Layoff | Taimur Ijlal | [Read More](https://medium.com/p/70ddf2174f23) |
+| Sun, 02 Nov 2025 10:40:28 GMT | CVE-2025–12357: Ghost in the Machine? EV Chargers Vulnerable to Man-in-the-Middle Attacks! | CVEHUB | [Read More](https://medium.com/p/a8150b04733c) |
+| Sun, 02 Nov 2025 10:39:46 GMT | Static Routing pada Cisco Packet Tracer | Yasa Wijaya | [Read More](https://medium.com/p/1ed623acbb28) |
+| Sun, 02 Nov 2025 10:37:53 GMT | Zabbix 7.0.18 — Microsoft Teams Entegrasyonu | Sureyya Kaan Perktas | [Read More](https://medium.com/p/af9cc5117757) |
 | Sun, 02 Nov 2025 10:33:22 GMT | A Step-by Step Guide to enable Intercepting Traffic with Burp Suite and FoxyProxy | Techie-stronaut | [Read More](https://medium.com/p/0fc87e62314b) |
 | Sun, 02 Nov 2025 10:32:04 GMT | ️ “DNS TXT Records: The Internet’s Name Tags That Tell the Truth” | Natarajan C K | [Read More](https://medium.com/p/9b5aded87aad) |
+| Sun, 02 Nov 2025 10:31:26 GMT | THM Boiler CTF writeup | x3n0 | [Read More](https://medium.com/p/63cb765dbb28) |
 | Sun, 02 Nov 2025 10:27:59 GMT | CVE-2025–63418: Weaponizing the Browser Console — A DOM-based XSS Deep Dive | Rohit Chaudhary | [Read More](https://medium.com/p/25ed3ac9cb53) |
 | Sun, 02 Nov 2025 10:27:23 GMT | HTB Port Forwarding with Windows Netsh | Willi | [Read More](https://medium.com/p/e9e564c240fa) |
 | Sun, 02 Nov 2025 10:17:51 GMT | Novacybernet: Real Protection Against Real Cyber Threats | Novacy Bernet | [Read More](https://medium.com/p/27a5fb8e1872) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 00:16:52 GMT | Day 1: Introduction to CryptoHack Writeup | Siyam | [Read More](https://medium.com/p/9258a68e6012) |
 | Sun, 02 Nov 2025 00:16:04 GMT | How to migrate Centrifuge (CFG) — migration to EVM | Centrifuge (CFG) — migration to EVM | [Read More](https://medium.com/p/f870011ea867) |
 | Sun, 02 Nov 2025 00:10:42 GMT | Adaptive Composition Attacks in AI-Integrated Systems A Conceptual Analysis of Emerging… | Momen Ghazouani | [Read More](https://medium.com/p/245d3111376f) |
-| Sun, 02 Nov 2025 00:01:53 GMT | Threat Hunting Glossary: Speaking the Language of Cyber Defense | Cybersecurity Simplified | [Read More](https://medium.com/p/caf5733cdde5) |
-| Sun, 02 Nov 2025 00:01:15 GMT | How to Create Branded Instagram Posts in Canva | VisionValutTemplate | [Read More](https://medium.com/p/d257fbc96441) |
-| Sat, 01 Nov 2025 23:51:00 GMT | Defesa de Domínio — Regras Básicas para CloudFlare WAF | Otávio Alves | [Read More](https://medium.com/p/373e6bb27948) |
-| Sat, 01 Nov 2025 23:48:20 GMT | Managerial Decision-Making in Technolo | Nejla Gul-Saglam | [Read More](https://medium.com/p/c89735b179f5) |
-| Sat, 01 Nov 2025 23:37:53 GMT | Why the Future of Cybersecurity Belongs to Agile, Independent Penetration Testing Firms | Johnsilentwire | [Read More](https://medium.com/p/39990c7021e4) |
-| Sat, 01 Nov 2025 23:31:03 GMT | Emoji steganography and XSS: why my “clever” WAF bypass failed | Derek Johnston | [Read More](https://medium.com/p/84648f66faf1) |
-| Sat, 01 Nov 2025 23:11:22 GMT | Smart Travelers Pack This Portable Door Alarm | Marc Ford | [Read More](https://medium.com/p/7dff283fbe7e) |
-| Sat, 01 Nov 2025 23:06:12 GMT | PicoCTF Scan Surprise — Forensics [EASY] | Alvin Kapoor | [Read More](https://medium.com/p/869c423d2c3a) |
-| Sat, 01 Nov 2025 22:59:20 GMT | Roadmap | Sulaimon Yusuf | [Read More](https://medium.com/p/5801db469625) |
-| Sat, 01 Nov 2025 22:48:50 GMT | Hello… | Sulaimon Yusuf | [Read More](https://medium.com/p/2a7cb965bcbc) |
-| Sat, 01 Nov 2025 22:38:20 GMT | Why We’re All Terrible at Passwords (and That’s Okay) | Asimos | [Read More](https://medium.com/p/96ca6fc553cc) |
-| Sat, 01 Nov 2025 22:37:43 GMT | How to Configure Splunk Universal Forwarder to Collect Windows and Sysmon Logs | Raynard Waits | [Read More](https://medium.com/p/e4581c5ce1ad) |
-| Sat, 01 Nov 2025 22:29:53 GMT | Day 27 of my Cybersecurity Journey: Concluding John the Ripper Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/317107a8e9ad) |
-| Sat, 01 Nov 2025 22:24:01 GMT | The Quantum Cloud Revolution: How Machines That Think in Probabilities Are Rewriting Reality | The Deep Frame | [Read More](https://medium.com/p/4d1ebf15ba7d) |
-| Sat, 01 Nov 2025 22:20:18 GMT | UnderstainReal Intimacy | Amit Sood | [Read More](https://medium.com/p/de46724080e2) |
