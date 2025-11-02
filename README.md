@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 19:28:33 GMT | The AI-Powered Analyst: Mastering Incident Investigation with Microsoft Security Copilot | Arsh Riz | [Read More](https://medium.com/p/03cbfe145973) |
+| Sun, 02 Nov 2025 19:24:15 GMT | Easy AWS — Basic Security | Antonella Blasetti | [Read More](https://medium.com/p/ff409b129e63) |
+| Sun, 02 Nov 2025 19:21:56 GMT | The Web’s Magician: An Intro to JavaScript Essentials with TryHackMe ✨ | Furkanctiner | [Read More](https://medium.com/p/286e9ad92d5f) |
+| Sun, 02 Nov 2025 19:18:47 GMT | HSTS: The Hidden Security Law Inside Your Browser | Mustafa Yücel | [Read More](https://medium.com/p/93acf23ec138) |
 | Sun, 02 Nov 2025 18:57:41 GMT | Nmap — The First Step Every Ethical Hacker Takes | Viratavi | [Read More](https://medium.com/p/2da1d356363e) |
 | Sun, 02 Nov 2025 18:47:18 GMT | Top 15 OSINT Tools | Nazrul Islam Rana | [Read More](https://medium.com/p/d2b7f2a0a6b7) |
 | Sun, 02 Nov 2025 18:26:12 GMT | The $1 Million Question for Architects: RBAC or ABAC? | BDhar | [Read More](https://medium.com/p/da2772faf80f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 13:00:00 GMT | Open Source Botnet Hook — Latest Update | Balki Maharaj | [Read More](https://medium.com/p/393ed5ba8e6a) |
 | Sun, 02 Nov 2025 12:57:30 GMT | The Strategy Behind Cybersecurity That Works — Our Northwave Way | Fook Hwa Tan | [Read More](https://medium.com/p/15b24fad6ac4) |
 | Sun, 02 Nov 2025 12:55:33 GMT | Top 5 Cybersecurity Questions I Get from Senior Management | Fook Hwa Tan | [Read More](https://medium.com/p/ae870f7447ce) |
-| Sun, 02 Nov 2025 12:51:46 GMT | OSINT: Proxy warfare with Rocker milieu, Discord & Telegram | SIMKRA | [Read More](https://medium.com/p/e07ab8529ffc) |
-| Sun, 02 Nov 2025 12:48:05 GMT | Telegram Tabanlı Gerçek Zamanlı Sahte Domain (Phishing) Tespit Sistemi | Salimuy | [Read More](https://medium.com/p/d7d77a5a8710) |
-| Sun, 02 Nov 2025 12:32:03 GMT | CIO Roadmap: 5 Must-Have Skills for IT Pros in an AI World | Azeeza | [Read More](https://medium.com/p/bd293fc6d74f) |
-| Sun, 02 Nov 2025 12:28:00 GMT | Proton’s New Tool Finds 300M Stolen Logins on Dark Web | Muhammad Hassan Ali | [Read More](https://medium.com/p/7f11a6ecff97) |
