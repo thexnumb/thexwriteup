@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 14:31:54 GMT | (Comptia A+) Understanding Proxy Servers: Enhancing Security and Efficiency in Web Browsing | Vignesh R | [Read More](https://medium.com/p/356561d76dc8) |
+| Sun, 02 Nov 2025 14:31:54 GMT | Secrets Of Fast CLI Tools: Startup, I/O, Syscalls | The Speed Engineer | [Read More](https://medium.com/p/a198dc2adb58) |
+| Sun, 02 Nov 2025 14:26:20 GMT | How to Be Loved and Cherished in Relationships by Expressing Your Assertiveness | Hanpis | [Read More](https://medium.com/p/bfa81b7962a7) |
+| Sun, 02 Nov 2025 14:21:57 GMT | Why Cybersecurity Pros Secretly Ignore Their Own Rules | Cyberkech | [Read More](https://medium.com/p/1fcf80cc4e1f) |
+| Sun, 02 Nov 2025 14:17:33 GMT | Annoying bugs in iPadOS 26 | Paperless X | [Read More](https://medium.com/p/662f252131e7) |
 | Sun, 02 Nov 2025 14:09:43 GMT | Cybersecurity: Forensic Digital Image | Ramandeep Bagri | [Read More](https://medium.com/p/a8e7c91b708e) |
+| Sun, 02 Nov 2025 14:08:45 GMT | You are worker #41: Lophiid Honeypot Caught an Automated AI Attack Swarm | Niels Heinen | [Read More](https://medium.com/p/0e1b21990a46) |
 | Sun, 02 Nov 2025 14:06:45 GMT | Singularity Rootkit: How a Linux Kernel Backdoor Evaded Elastic Security | Nishanth Padmanabhan | [Read More](https://medium.com/p/1f5e8e371db8) |
+| Sun, 02 Nov 2025 14:04:30 GMT | Tor IP Changer Setup Guide | Balki Maharaj | [Read More](https://medium.com/p/968301ae85bc) |
 | Sun, 02 Nov 2025 13:56:12 GMT | Room 106 -FTP Ser Attack Practice (Red Team Lab) | blackXmask | [Read More](https://medium.com/p/dbf1b583d571) |
 | Sun, 02 Nov 2025 13:55:32 GMT | Event Crew: The Unsung Heroes Behind Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/a2188991604d) |
 | Sun, 02 Nov 2025 13:51:27 GMT | A Roadmap to Becoming a Penetration Tester in 2025 | Shahzaib | [Read More](https://medium.com/p/386c3588ed5c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 07:52:50 GMT | Secure USB Connection Detection and Protection in iOS | Nishant Taneja | [Read More](https://medium.com/p/c03725c74d6a) |
 | Sun, 02 Nov 2025 07:52:29 GMT | My Journey to OSCE3 | Fabian Lim | [Read More](https://medium.com/p/1a86d42a114d) |
 | Sun, 02 Nov 2025 07:37:18 GMT | From SQLi to OS Shell: Master Advanced SQL Injection Payloads for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/19bdcc8b00bd) |
-| Sun, 02 Nov 2025 07:19:47 GMT | It’s Either Medium or Me that Doesn’t Know What Trending Means | Illuminati Ganga Agent 86 | [Read More](https://medium.com/p/c28395c9a69d) |
-| Sun, 02 Nov 2025 07:16:47 GMT | Stream-first HTTP Client for Go | Game Master | [Read More](https://medium.com/p/404af133fbbd) |
-| Sun, 02 Nov 2025 07:08:43 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/870b73701f7f) |
-| Sun, 02 Nov 2025 07:07:06 GMT | SNAKE — a Golang Serpent malware | malana | [Read More](https://medium.com/p/1ea38c3bc82a) |
-| Sun, 02 Nov 2025 07:01:26 GMT | How I Created a Private Project Without Paying — Subscription Bypass in Project Creation | black | [Read More](https://medium.com/p/14e482788422) |
-| Sun, 02 Nov 2025 06:59:12 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/6d151149e502) |
-| Sun, 02 Nov 2025 06:55:59 GMT | Top 10 Cyber Security Podcast | Manisha Chaudhary | [Read More](https://medium.com/p/088933ec820c) |
