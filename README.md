@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 10:33:22 GMT | A Step-by Step Guide to enable Intercepting Traffic with Burp Suite and FoxyProxy | Techie-stronaut | [Read More](https://medium.com/p/0fc87e62314b) |
+| Sun, 02 Nov 2025 10:32:04 GMT | ️ “DNS TXT Records: The Internet’s Name Tags That Tell the Truth” | Natarajan C K | [Read More](https://medium.com/p/9b5aded87aad) |
+| Sun, 02 Nov 2025 10:27:59 GMT | CVE-2025–63418: Weaponizing the Browser Console — A DOM-based XSS Deep Dive | Rohit Chaudhary | [Read More](https://medium.com/p/25ed3ac9cb53) |
+| Sun, 02 Nov 2025 10:27:23 GMT | HTB Port Forwarding with Windows Netsh | Willi | [Read More](https://medium.com/p/e9e564c240fa) |
+| Sun, 02 Nov 2025 10:17:51 GMT | Novacybernet: Real Protection Against Real Cyber Threats | Novacy Bernet | [Read More](https://medium.com/p/27a5fb8e1872) |
 | Sun, 02 Nov 2025 10:13:37 GMT | ChatGPT Clone Apps: How Cybercriminals Are Turning AI Hype into a Security Nightmare | Aniket Sharma | [Read More](https://medium.com/p/915bac1de894) |
+| Sun, 02 Nov 2025 10:12:42 GMT | Instant Asset Recovery | Yotano | [Read More](https://medium.com/p/4a3464311080) |
 | Sun, 02 Nov 2025 10:07:50 GMT | 6 Little-Known Samsung A Series Features That Save Time | Chloe White | [Read More](https://medium.com/p/07c8cf5cd1dd) |
 | Sun, 02 Nov 2025 10:02:35 GMT | From Browser to Server: What Really Happens When You Type a URL | samventure | [Read More](https://medium.com/p/93187c1e9454) |
 | Sun, 02 Nov 2025 10:01:59 GMT | Your Gmail Isn’t Safe (And Neither Is Your Brain) | Arfa | [Read More](https://medium.com/p/c01dd312a05e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 22:29:53 GMT | Day 27 of my Cybersecurity Journey: Concluding John the Ripper Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/317107a8e9ad) |
 | Sat, 01 Nov 2025 22:24:01 GMT | The Quantum Cloud Revolution: How Machines That Think in Probabilities Are Rewriting Reality | The Deep Frame | [Read More](https://medium.com/p/4d1ebf15ba7d) |
 | Sat, 01 Nov 2025 22:20:18 GMT | UnderstainReal Intimacy | Amit Sood | [Read More](https://medium.com/p/de46724080e2) |
-| Sat, 01 Nov 2025 22:17:32 GMT | Inside the AI’s Head: The Silent Risk of System Prompt Leaks. | MANOJ [M_404] | [Read More](https://medium.com/p/e5f4a008f0be) |
-| Sat, 01 Nov 2025 21:56:25 GMT | Huntress 2025 CTF: Web Challenges Writeup | Sahand Babali | [Read More](https://medium.com/p/3ad9e42e1851) |
-| Sat, 01 Nov 2025 21:54:22 GMT | Top 10 Cyber Attacks (October 25 — October 31, 2025) | Siva Desetti | [Read More](https://medium.com/p/f146352d9ae3) |
-| Sat, 01 Nov 2025 21:40:30 GMT | The Weight of Hiding: A Letter from a Closeted Girl in India | Sonya N. | [Read More](https://medium.com/p/725443f7190e) |
-| Sat, 01 Nov 2025 21:28:05 GMT | Guard Your Digital Crown: The Hidden Costs of Convenience | Eric Bernard Gardner Jr | [Read More](https://medium.com/p/0b8f37d52613) |
-| Sat, 01 Nov 2025 21:24:58 GMT | When Knowledge Searches for Humans | Ahmed Mohamed | [Read More](https://medium.com/p/a1a0c24bd9e3) |
