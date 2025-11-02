@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 16:15:12 GMT | Please Tell Me What Kind of Post You’d Like Me to Write. | Masumium | [Read More](https://medium.com/p/b8487fef01fc) |
+| Sun, 02 Nov 2025 16:11:56 GMT | TryHackMe: Sudo Security Bypass Room Writeup | Melisa Nyamukondiwa | [Read More](https://medium.com/p/d59ba7aef32a) |
+| Sun, 02 Nov 2025 15:58:08 GMT | How I Secured Multi-Environment Secrets Using AWS Secrets Manager and Parameter Store. | Rajesh Thakur | [Read More](https://medium.com/p/637b5afb893a) |
+| Sun, 02 Nov 2025 15:51:16 GMT | THM - Benign | Francesco Pastore | [Read More](https://medium.com/p/8ea6981bbbad) |
 | Sun, 02 Nov 2025 15:31:52 GMT | Major Data Leak: Proton Finds 300 Million Compromised Accounts | Himanshu Bhatt | [Read More](https://medium.com/p/34576467160c) |
 | Sun, 02 Nov 2025 15:31:06 GMT | I Just Cleared the New 2025 CKS Exam — Here’s the Blueprint You Can Follow to Pass Too | Malek ZAAG | [Read More](https://medium.com/p/84e81fb1ec37) |
 | Sun, 02 Nov 2025 15:23:29 GMT | Project #13 of 21 — Policy Writing | Andrew Williams | [Read More](https://medium.com/p/ba1b9314feb7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 10:13:37 GMT | ChatGPT Clone Apps: How Cybercriminals Are Turning AI Hype into a Security Nightmare | Aniket Sharma | [Read More](https://medium.com/p/915bac1de894) |
 | Sun, 02 Nov 2025 10:12:42 GMT | Instant Asset Recovery | Yotano | [Read More](https://medium.com/p/4a3464311080) |
 | Sun, 02 Nov 2025 10:07:50 GMT | 6 Little-Known Samsung A Series Features That Save Time | Chloe White | [Read More](https://medium.com/p/07c8cf5cd1dd) |
-| Sun, 02 Nov 2025 10:02:35 GMT | From Browser to Server: What Really Happens When You Type a URL | samventure | [Read More](https://medium.com/p/93187c1e9454) |
-| Sun, 02 Nov 2025 10:01:59 GMT | Your Gmail Isn’t Safe (And Neither Is Your Brain) | Arfa | [Read More](https://medium.com/p/c01dd312a05e) |
-| Sun, 02 Nov 2025 10:00:26 GMT | Image Encryption & Decryption Tool using Python | Shashank M.S | [Read More](https://medium.com/p/6f49315787c8) |
-| Sun, 02 Nov 2025 09:41:55 GMT | “Apple Account Off iPhone 5C?” — The Forgotten Phone’s Security Mystery! | SilentInject | [Read More](https://medium.com/p/41d346f12750) |
