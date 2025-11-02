@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 14:09:43 GMT | Cybersecurity: Forensic Digital Image | Ramandeep Bagri | [Read More](https://medium.com/p/a8e7c91b708e) |
+| Sun, 02 Nov 2025 14:06:45 GMT | Singularity Rootkit: How a Linux Kernel Backdoor Evaded Elastic Security | Nishanth Padmanabhan | [Read More](https://medium.com/p/1f5e8e371db8) |
+| Sun, 02 Nov 2025 13:56:12 GMT | Room 106 -FTP Ser Attack Practice (Red Team Lab) | blackXmask | [Read More](https://medium.com/p/dbf1b583d571) |
+| Sun, 02 Nov 2025 13:55:32 GMT | Event Crew: The Unsung Heroes Behind Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/a2188991604d) |
+| Sun, 02 Nov 2025 13:51:27 GMT | A Roadmap to Becoming a Penetration Tester in 2025 | Shahzaib | [Read More](https://medium.com/p/386c3588ed5c) |
+| Sun, 02 Nov 2025 13:51:23 GMT | The Day I Cracked My First Password Using Hashcat | Abdullah Javeed | [Read More](https://medium.com/p/3098d3446827) |
+| Sun, 02 Nov 2025 13:51:19 GMT | Hunting JavaScript: Finding Vulnerable JS Links | Monika sharma | [Read More](https://medium.com/p/3a99d01d6313) |
+| Sun, 02 Nov 2025 13:48:37 GMT | 5 Cybersecurity Myths That Are Sabotaging Your Startup’s Growth | Hania Khan | [Read More](https://medium.com/p/a52341f0407f) |
+| Sun, 02 Nov 2025 13:48:00 GMT | ️ Ever wondered what happens to a laptop after you click ‘Request’ on the IT portal? | Sandeep Kumar | [Read More](https://medium.com/p/1c895f8753f3) |
+| Sun, 02 Nov 2025 13:46:53 GMT | AIG Johnson Adenola Advocates Inclusive Policing, Strengthened Community Engagement in Rivers State | PHFreshnews | [Read More](https://medium.com/p/4b6fc3d2c075) |
+| Sun, 02 Nov 2025 13:42:25 GMT | JavaScript Recon for Bug Hunters — Pull, Parse, Profit ️‍♂️ | Aman Bhuiyan | [Read More](https://medium.com/p/6a0a3a3cd1df) |
+| Sun, 02 Nov 2025 13:40:21 GMT | Stop Leaking Secrets: The Modern Developer’s Guide to Secret Management | RandithaK | [Read More](https://medium.com/p/8366ff2f59a5) |
 | Sun, 02 Nov 2025 13:34:56 GMT | Top 10 Websites That Pay Developers to Contribute Code | Software Developer | [Read More](https://medium.com/p/72a9774b960c) |
+| Sun, 02 Nov 2025 13:29:27 GMT | Bandit OverTheWire writeup — Level 8→ Level 9 | Dawid Kowalski | [Read More](https://medium.com/p/66d07285550a) |
+| Sun, 02 Nov 2025 13:29:02 GMT | Bandit OverTheWire writeup — Level 6 → Level 7 | Dawid Kowalski | [Read More](https://medium.com/p/4544f7fa947a) |
+| Sun, 02 Nov 2025 13:28:36 GMT | Bandit OverTheWire writeup — Level 7 → Level 8 | Dawid Kowalski | [Read More](https://medium.com/p/4dd1438dc010) |
 | Sun, 02 Nov 2025 13:24:19 GMT | FREAKSHOW DOCUMENTED: When LLM AI Assimilated the Researcher and Fabricated a Professional Identity | Berend Watchus | [Read More](https://medium.com/p/751be00f60b0) |
 | Sun, 02 Nov 2025 13:18:53 GMT | 167 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/c623c57ebca6) |
 | Sun, 02 Nov 2025 13:16:53 GMT | Apple’s AI Vision: Redefining Intelligence and Privacy In 2026 | Oliver H Blake | [Read More](https://medium.com/p/4f7496a7cefa) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 07:01:26 GMT | How I Created a Private Project Without Paying — Subscription Bypass in Project Creation | black | [Read More](https://medium.com/p/14e482788422) |
 | Sun, 02 Nov 2025 06:59:12 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/6d151149e502) |
 | Sun, 02 Nov 2025 06:55:59 GMT | Top 10 Cyber Security Podcast | Manisha Chaudhary | [Read More](https://medium.com/p/088933ec820c) |
-| Sun, 02 Nov 2025 06:49:03 GMT | SOC250 — APT35 HyperScrape Data Exfiltration Tool Detected (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/f85d6388111f) |
-| Sun, 02 Nov 2025 06:48:24 GMT | You Don’t Need to Be Everywhere — You Need to Be Remembered | Vijay Kumar Gupta | [Read More](https://medium.com/p/9c34d0078035) |
-| Sun, 02 Nov 2025 06:33:15 GMT | The VS Code Trojan: How GlassWorm Infected 35,000 Developer Machines | Aj | [Read More](https://medium.com/p/5af55481d738) |
-| Sun, 02 Nov 2025 06:32:04 GMT | Why Cyberattacks Targeting Japanese Organizations Will Increase Rather Than Decrease | David SEHYEON Baek | [Read More](https://medium.com/p/2c06f8aa62bc) |
-| Sun, 02 Nov 2025 06:20:59 GMT | Snort Presentation (CMPT 782) | Sanjit Mann | [Read More](https://medium.com/p/ec9911a796c4) |
-| Sun, 02 Nov 2025 06:16:15 GMT | Behind the Screen: How I Finally Understood Linux from the Inside Out | Salimassili | [Read More](https://medium.com/p/d00d95156503) |
-| Sun, 02 Nov 2025 05:40:03 GMT | THE TECHNOCRATIC OATH | James Lynch Jr | [Read More](https://medium.com/p/0de90a7a8f53) |
-| Sun, 02 Nov 2025 05:36:29 GMT | Lies or Perceptions: Scientific World, Digital World, AI and Information Age | Dawood Mamoon | [Read More](https://medium.com/p/1847bfb6070c) |
-| Sun, 02 Nov 2025 05:36:17 GMT | Japan’s Muji and Askul Hit Together — A Ransomware Shock and the Case for Supply Chain Security | David SEHYEON Baek | [Read More](https://medium.com/p/1d0cf82aac21) |
-| Sun, 02 Nov 2025 05:34:44 GMT | Include — TryHackMe — Detailed Writeup | Ankit Dhaka | [Read More](https://medium.com/p/5a5f3a8ecee9) |
-| Sun, 02 Nov 2025 05:24:50 GMT | The Digital Apocalypse Is Upon Us: Why Every Business Leader Needs to Wake Up Right Now | Piotrmak Marko | [Read More](https://medium.com/p/5c743e0ae075) |
-| Sun, 02 Nov 2025 05:22:43 GMT | Why ! Did I get -2 points on my bug crowd profile | Sai Jayanth | [Read More](https://medium.com/p/4ae5d2d72c80) |
-| Sun, 02 Nov 2025 05:10:23 GMT | The AI Revolution in Writing: | Ki Lov3 - Bestselling Indie Author | [Read More](https://medium.com/p/9add3bcf59b9) |
-| Sun, 02 Nov 2025 05:04:08 GMT | Find the Digital Footprints — Room Challenges: Blue Team LINUXENIC Corporation Write-up | Yuukoethic | [Read More](https://medium.com/p/8a7df2d2ca6e) |
-| Sun, 02 Nov 2025 05:01:56 GMT | 10 Signs Your Phone Might Be Hacked — And What to Do About It | CyberSafe Insights | [Read More](https://medium.com/p/26b57c81d740) |
