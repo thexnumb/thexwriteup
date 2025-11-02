@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 20:09:12 GMT | Why Cross-Functional Projects Fail: The Critical Need for Neutral Leadership | Josh Welch | [Read More](https://medium.com/p/45f1be75bb98) |
+| Sun, 02 Nov 2025 19:57:59 GMT | Android’s built-in AI is taking a stronger stand against digital fraud. | SCtoCS | [Read More](https://medium.com/p/368e06f628f1) |
+| Sun, 02 Nov 2025 19:57:04 GMT | 30 Days of Red Team: Day 6 — Post-Exploitation (You’re In. Now What?) | Maxwell Cross | [Read More](https://medium.com/p/254b09f2688e) |
+| Sun, 02 Nov 2025 19:52:56 GMT | AI-Targeted Cloaking Attack Tricks Crawlers Into Citing False Information as Verified Facts | SCtoCS | [Read More](https://medium.com/p/327fae537e41) |
+| Sun, 02 Nov 2025 19:44:05 GMT | Vamp Byte #3 — SPF, DKIM & DMARC: The Trio That Guards Your Inbox | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/061de63c0627) |
+| Sun, 02 Nov 2025 19:39:13 GMT | Mastering Cloud Storage Forensics: Google Drive, OneDrive, Dropbox & Box Investigation Techniques | Dean | [Read More](https://medium.com/p/0cbe02cf5bad) |
 | Sun, 02 Nov 2025 19:28:33 GMT | The AI-Powered Analyst: Mastering Incident Investigation with Microsoft Security Copilot | Arsh Riz | [Read More](https://medium.com/p/03cbfe145973) |
 | Sun, 02 Nov 2025 19:24:15 GMT | Easy AWS — Basic Security | Antonella Blasetti | [Read More](https://medium.com/p/ff409b129e63) |
 | Sun, 02 Nov 2025 19:21:56 GMT | The Web’s Magician: An Intro to JavaScript Essentials with TryHackMe ✨ | Furkanctiner | [Read More](https://medium.com/p/286e9ad92d5f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 13:24:19 GMT | FREAKSHOW DOCUMENTED: When LLM AI Assimilated the Researcher and Fabricated a Professional Identity | Berend Watchus | [Read More](https://medium.com/p/751be00f60b0) |
 | Sun, 02 Nov 2025 13:18:53 GMT | 167 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/c623c57ebca6) |
 | Sun, 02 Nov 2025 13:16:53 GMT | Apple’s AI Vision: Redefining Intelligence and Privacy In 2026 | Oliver H Blake | [Read More](https://medium.com/p/4f7496a7cefa) |
-| Sun, 02 Nov 2025 13:13:49 GMT | Agentic AI: The Next Frontier in Cybersecurity Risk | NitishKalra | [Read More](https://medium.com/p/f2c7b68a8a8d) |
-| Sun, 02 Nov 2025 13:08:55 GMT | The Rise of Generative AI in Cyber Attacks : A New Era of Digital Threats | Association of Computing Students (ACS) | [Read More](https://medium.com/p/fcebf57ee880) |
-| Sun, 02 Nov 2025 13:02:54 GMT | Your Email Has Almost Certainly Been Leaked. Here’s How to Check (and What to Do Next). | CyberSafe Insights | [Read More](https://medium.com/p/8a23a5bdf176) |
-| Sun, 02 Nov 2025 13:00:00 GMT | Open Source Botnet Hook — Latest Update | Balki Maharaj | [Read More](https://medium.com/p/393ed5ba8e6a) |
-| Sun, 02 Nov 2025 12:57:30 GMT | The Strategy Behind Cybersecurity That Works — Our Northwave Way | Fook Hwa Tan | [Read More](https://medium.com/p/15b24fad6ac4) |
-| Sun, 02 Nov 2025 12:55:33 GMT | Top 5 Cybersecurity Questions I Get from Senior Management | Fook Hwa Tan | [Read More](https://medium.com/p/ae870f7447ce) |
