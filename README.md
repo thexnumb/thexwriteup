@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 21:08:41 GMT | Change Password Hackviser | Moamenalazam | [Read More](https://medium.com/p/52e36cb72ea1) |
+| Sun, 02 Nov 2025 21:01:54 GMT | IPs, ASN & CIDR — When the Game Is the Network, We Play the Map — How target.com | القنصل | [Read More](https://medium.com/p/fbaafdb66f0b) |
+| Sun, 02 Nov 2025 21:01:21 GMT | Customizing Microsoft Security Copilot with Plugins, Prompt Books, and Custom Agents | Arsh Riz | [Read More](https://medium.com/p/7f240be82f73) |
+| Sun, 02 Nov 2025 20:57:26 GMT | The Ephemeral Cipher: When Neural Networks Become The Source of Truth and Deceit. | worst.ai | [Read More](https://medium.com/p/f6421a462bcf) |
+| Sun, 02 Nov 2025 20:57:08 GMT | Is Your Payload Truly Protected? | shivam jadhav | [Read More](https://medium.com/p/ae67dbe2711e) |
+| Sun, 02 Nov 2025 20:55:47 GMT | Brim - TryHackMe — Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/92fd7c3af5e9) |
+| Sun, 02 Nov 2025 20:44:58 GMT | Day 28 of my Cybersecurity Journey: Moniker Link (CVE-2024–21413) | Ogundipe Priscilla | [Read More](https://medium.com/p/3630a819a65e) |
+| Sun, 02 Nov 2025 20:43:22 GMT | Military Simulations, COAs, and Cybersecurity in Video Game Design | Kathlene Herberger | [Read More](https://medium.com/p/b3541ba1ef17) |
 | Sun, 02 Nov 2025 20:25:09 GMT | Vulnerability Assessment and Penetration Testing Services - Strengthening Cyber Defense for U.S. | Aaishasharma | [Read More](https://medium.com/p/cb101871b41f) |
 | Sun, 02 Nov 2025 20:21:59 GMT | SSRF Attacks and Cloud Environment Security ☁️️ | Esra Kayhan | [Read More](https://medium.com/p/ab62a121cba6) |
 | Sun, 02 Nov 2025 20:09:12 GMT | Why Cross-Functional Projects Fail: The Critical Need for Neutral Leadership | Josh Welch | [Read More](https://medium.com/p/45f1be75bb98) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 13:51:19 GMT | Hunting JavaScript: Finding Vulnerable JS Links | Monika sharma | [Read More](https://medium.com/p/3a99d01d6313) |
 | Sun, 02 Nov 2025 13:48:37 GMT | 5 Cybersecurity Myths That Are Sabotaging Your Startup’s Growth | Hania Khan | [Read More](https://medium.com/p/a52341f0407f) |
 | Sun, 02 Nov 2025 13:48:00 GMT | ️ Ever wondered what happens to a laptop after you click ‘Request’ on the IT portal? | Sandeep Kumar | [Read More](https://medium.com/p/1c895f8753f3) |
-| Sun, 02 Nov 2025 13:46:53 GMT | AIG Johnson Adenola Advocates Inclusive Policing, Strengthened Community Engagement in Rivers State | PHFreshnews | [Read More](https://medium.com/p/4b6fc3d2c075) |
-| Sun, 02 Nov 2025 13:42:25 GMT | JavaScript Recon for Bug Hunters — Pull, Parse, Profit ️‍♂️ | Aman Bhuiyan | [Read More](https://medium.com/p/6a0a3a3cd1df) |
-| Sun, 02 Nov 2025 13:40:21 GMT | Stop Leaking Secrets: The Modern Developer’s Guide to Secret Management | RandithaK | [Read More](https://medium.com/p/8366ff2f59a5) |
-| Sun, 02 Nov 2025 13:34:56 GMT | Top 10 Websites That Pay Developers to Contribute Code | Software Developer | [Read More](https://medium.com/p/72a9774b960c) |
-| Sun, 02 Nov 2025 13:29:27 GMT | Bandit OverTheWire writeup — Level 8→ Level 9 | Dawid Kowalski | [Read More](https://medium.com/p/66d07285550a) |
-| Sun, 02 Nov 2025 13:29:02 GMT | Bandit OverTheWire writeup — Level 6 → Level 7 | Dawid Kowalski | [Read More](https://medium.com/p/4544f7fa947a) |
-| Sun, 02 Nov 2025 13:28:36 GMT | Bandit OverTheWire writeup — Level 7 → Level 8 | Dawid Kowalski | [Read More](https://medium.com/p/4dd1438dc010) |
-| Sun, 02 Nov 2025 13:24:19 GMT | FREAKSHOW DOCUMENTED: When LLM AI Assimilated the Researcher and Fabricated a Professional Identity | Berend Watchus | [Read More](https://medium.com/p/751be00f60b0) |
