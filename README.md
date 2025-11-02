@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 17:07:39 GMT | 6 Life Changing Lessons I Learned from Tribe of Hackers | Musayyab Shah | [Read More](https://medium.com/p/eb5b178a9864) |
+| Sun, 02 Nov 2025 17:05:53 GMT | How to Implement AI & Cyber Governance in One Day – Without Consultants or Endless Meetings | Axsaspty | [Read More](https://medium.com/p/ccdc2a236d4a) |
+| Sun, 02 Nov 2025 17:04:54 GMT | Template to Terminal — Responsible Writeup of an OS Command Injection | Nakul Singh | [Read More](https://medium.com/p/ec29922f3de4) |
+| Sun, 02 Nov 2025 16:56:54 GMT | Why Quality Control in AI Security is Critical | Shailendra Kumar | [Read More](https://medium.com/p/c4b6a95631a9) |
+| Sun, 02 Nov 2025 16:55:49 GMT | Inside the Hacker’s Playground: Setting Up Your Virtual Lab (Part 2) | Stitoutl | [Read More](https://medium.com/p/2011b87bf7d6) |
+| Sun, 02 Nov 2025 16:55:14 GMT | gaHow to Hide Files or Text Inside an Image — The Art of Steganography | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/5011e8df2f12) |
+| Sun, 02 Nov 2025 16:52:47 GMT | Make it a mess | Entrée | [Read More](https://medium.com/p/be37ded502eb) |
+| Sun, 02 Nov 2025 16:51:33 GMT | Hi I am vyadaw and I am a passionate Cybersecurity professional with a strong focus on… | VYADAW (Vishal yadaw) | [Read More](https://medium.com/p/468f651f1651) |
+| Sun, 02 Nov 2025 16:37:28 GMT | Ghana’s Government IT System Failures: How we got here and what could be the way out. | Verge Financial Technologies | [Read More](https://medium.com/p/17f8cbea3ee8) |
+| Sun, 02 Nov 2025 16:37:12 GMT | Sigma to SIEM: A Practical Guide for Advanced Teams (2025) | VulnKraft | [Read More](https://medium.com/p/f7d2d3bd845f) |
 | Sun, 02 Nov 2025 16:34:36 GMT | 2FA Enforcement Bypass via Request Manipulation | Bytewreaker | [Read More](https://medium.com/p/36b2296788ec) |
 | Sun, 02 Nov 2025 16:32:06 GMT | DetectionStream: Introducing the Sigma Training Platform | Kostas | [Read More](https://medium.com/p/574721f18f45) |
 | Sun, 02 Nov 2025 16:29:10 GMT | The “Iceberg Effect”: Why the Man Who Told Me Everything on the First Date (Never Got a Second). | Mia Nor | [Read More](https://medium.com/p/07d21bfcf418) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 11:06:17 GMT | Cyber-eto OSINT Category Write Up | Mohammad Albaik - 0nvx | [Read More](https://medium.com/p/93c658a131f4) |
 | Sun, 02 Nov 2025 11:05:35 GMT | AI Bubble at Peak: The Next Tech Revolution Starts. | David Koch | [Read More](https://medium.com/p/5f50ed313101) |
 | Sun, 02 Nov 2025 10:57:38 GMT | FILE: LNX-001: WHY HACKERS CHOOSE LINUX | Fateyaly | [Read More](https://medium.com/p/8e5f2841d0b1) |
-| Sun, 02 Nov 2025 10:55:47 GMT | How Penetration Testing Strengthens Cloud Compliance | Musayyab Shah | [Read More](https://medium.com/p/944812672f68) |
-| Sun, 02 Nov 2025 10:49:55 GMT | Best Ceyptocurrecy Recovery Company. visit Zeus Crypto Recovery Services | Zeuscryptorecoveryservices | [Read More](https://medium.com/p/2db142564f57) |
-| Sun, 02 Nov 2025 10:49:07 GMT | How Blockchain Improves Cybersecurity: A Beginner’s Guide | Samiya Zubair | [Read More](https://medium.com/p/645d3fdf4bd8) |
-| Sun, 02 Nov 2025 10:48:02 GMT | SQL Injection: The Silent Menace — A Practical Guide for Developers and Security Engineers | Fikri Muzadi | [Read More](https://medium.com/p/9f62fb7c3b16) |
-| Sun, 02 Nov 2025 10:41:48 GMT | How I Discovered a Data Exposure Vulnerability in a WordPress Membership Site | MEGAZORD | [Read More](https://medium.com/p/bb368919a309) |
-| Sun, 02 Nov 2025 10:41:05 GMT | How to Bounce Back After a Cybersecurity Layoff | Taimur Ijlal | [Read More](https://medium.com/p/70ddf2174f23) |
-| Sun, 02 Nov 2025 10:40:28 GMT | CVE-2025–12357: Ghost in the Machine? EV Chargers Vulnerable to Man-in-the-Middle Attacks! | CVEHUB | [Read More](https://medium.com/p/a8150b04733c) |
-| Sun, 02 Nov 2025 10:39:46 GMT | Static Routing pada Cisco Packet Tracer | Yasa Wijaya | [Read More](https://medium.com/p/1ed623acbb28) |
-| Sun, 02 Nov 2025 10:37:53 GMT | Zabbix 7.0.18 — Microsoft Teams Entegrasyonu | Sureyya Kaan Perktas | [Read More](https://medium.com/p/af9cc5117757) |
-| Sun, 02 Nov 2025 10:33:22 GMT | A Step-by Step Guide to enable Intercepting Traffic with Burp Suite and FoxyProxy | Techie-stronaut | [Read More](https://medium.com/p/0fc87e62314b) |
