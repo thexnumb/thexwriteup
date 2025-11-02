@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 04:01:55 GMT | Challenger 3: Britain’s 120mm Gun, Trophy APS, and Modular Armor Set to Redefine NATO Battlefield… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/46d835055a5d) |
+| Sun, 02 Nov 2025 03:59:07 GMT | Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/e49e7ea64626) |
 | Sun, 02 Nov 2025 03:50:21 GMT | Performing ARP Spoofing | Guillaumebanakeng | [Read More](https://medium.com/p/0af394ecbe30) |
 | Sun, 02 Nov 2025 03:36:12 GMT | Act Now — Google Confirms Chrome 142 Security Fix For 3 Billion Users | Nauman khan | [Read More](https://medium.com/p/d249670fc0c2) |
 | Sun, 02 Nov 2025 03:34:51 GMT | All About 2FA Authentication Bypass — The Hidden Battle Behind Your Login Screen | Monu Jangra | [Read More](https://medium.com/p/2266d35100e0) |
@@ -111,5 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 17:04:02 GMT | From Strategy to Shield: Why I Chose the Cybersecurity Path | Fook Hwa Tan | [Read More](https://medium.com/p/eb58436c809c) |
 | Sat, 01 Nov 2025 17:03:47 GMT | Cybersecurity Weekly Issue 53 | This Week In I/O | [Read More](https://medium.com/p/6b926a927228) |
 | Sat, 01 Nov 2025 17:00:06 GMT | How Technology Can Reveal Signs of Cheating | Oche Emmanuel | [Read More](https://medium.com/p/d5587343d955) |
-| Sat, 01 Nov 2025 16:45:19 GMT | #LessonLearned - Username enumeration via different responses — PortSwigger Authentication Lab | Betul - Bug Bounty | [Read More](https://medium.com/p/c6dcfa508392) |
-| Sat, 01 Nov 2025 16:43:28 GMT | SQL AND SQL INJECTION | Jei Ess | [Read More](https://medium.com/p/09b72411ef86) |
