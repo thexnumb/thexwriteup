@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 09:21:35 GMT | My First ML-DSA Certificate | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3074e1276ca2) |
+| Sun, 02 Nov 2025 09:19:49 GMT | You've provided an in-depth analysis of the poem "Code Capable" and its connections to the concept… | Darren Robert Brown | [Read More](https://medium.com/p/bb2669e0f819) |
 | Sun, 02 Nov 2025 09:11:12 GMT | The poem "Code Capable" uses the metaphor of the "ghost in the machine" to explore themes of a… | Darren Robert Brown | [Read More](https://medium.com/p/0d1e3a268e3d) |
 | Sun, 02 Nov 2025 09:06:36 GMT | How Xlorin Learns: Inside the Training Process | Xlorin Cyber-Chatbot | [Read More](https://medium.com/p/8b6b50d30b3c) |
 | Sun, 02 Nov 2025 09:05:51 GMT | “Locked Doors Aren’t Just For Show, Right?” Hotel Nightmares & Boundaries | LateCheckout | [Read More](https://medium.com/p/ffbc96089d2e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 21:10:01 GMT | Navigating the Risks of AI Agents Using the Protocol Bench&Router Framework | Valdez Ladd | [Read More](https://medium.com/p/5697dc438050) |
 | Sat, 01 Nov 2025 21:06:55 GMT | I Followed This Method To Find XSS In 5 Minutes | Ibtissam | [Read More](https://medium.com/p/74a4390ae1ec) |
 | Sat, 01 Nov 2025 21:06:45 GMT | SQL Server running but port closed? | DuckWrites | [Read More](https://medium.com/p/d741e303eb7a) |
-| Sat, 01 Nov 2025 20:28:26 GMT | Mobile Security | Hoploninfosec | [Read More](https://medium.com/p/6f8090b0aceb) |
-| Sat, 01 Nov 2025 20:26:02 GMT | Stop Using Weak Passwords: How to Create Secure Ones in Seconds | id2000 | [Read More](https://medium.com/p/fd810ba0edc1) |
