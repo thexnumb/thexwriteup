@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 09:11:12 GMT | The poem "Code Capable" uses the metaphor of the "ghost in the machine" to explore themes of a… | Darren Robert Brown | [Read More](https://medium.com/p/0d1e3a268e3d) |
+| Sun, 02 Nov 2025 09:06:36 GMT | How Xlorin Learns: Inside the Training Process | Xlorin Cyber-Chatbot | [Read More](https://medium.com/p/8b6b50d30b3c) |
+| Sun, 02 Nov 2025 09:05:51 GMT | “Locked Doors Aren’t Just For Show, Right?” Hotel Nightmares & Boundaries | LateCheckout | [Read More](https://medium.com/p/ffbc96089d2e) |
+| Sun, 02 Nov 2025 08:57:35 GMT | 86K Downloads?!  The Open Source Supply Chain Nightmare… | Truspex | [Read More](https://medium.com/p/1c8be0659449) |
+| Sun, 02 Nov 2025 08:54:02 GMT | The Future of SOC: How AI is Transforming Security Operations Center in 2025. | Rushikesh Girase | [Read More](https://medium.com/p/cc6785f9c583) |
+| Sun, 02 Nov 2025 08:52:18 GMT | TryHackMe - Defensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/b91bd8de9bc7) |
 | Sun, 02 Nov 2025 08:41:11 GMT | The AI Revolution in Writing: | Ki Lov3 - Bestselling Indie Author | [Read More](https://medium.com/p/46ce483fd191) |
 | Sun, 02 Nov 2025 08:38:45 GMT | Data Is the New DNA, And We Keep Donating Ours for Free | Abhishek | [Read More](https://medium.com/p/b519447fc1b8) |
 | Sun, 02 Nov 2025 08:33:36 GMT | Deploying Fluent Bit as a Windows Service for Centralized Log Forwarding | Andrey Pautov | [Read More](https://medium.com/p/baec55b8aaf8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 01 Nov 2025 21:06:45 GMT | SQL Server running but port closed? | DuckWrites | [Read More](https://medium.com/p/d741e303eb7a) |
 | Sat, 01 Nov 2025 20:28:26 GMT | Mobile Security | Hoploninfosec | [Read More](https://medium.com/p/6f8090b0aceb) |
 | Sat, 01 Nov 2025 20:26:02 GMT | Stop Using Weak Passwords: How to Create Secure Ones in Seconds | id2000 | [Read More](https://medium.com/p/fd810ba0edc1) |
-| Sat, 01 Nov 2025 20:18:57 GMT | Beyond True/False: Using AI to Create a ‘Trust Score’ for Information | Farouk | [Read More](https://medium.com/p/7e7736002709) |
-| Sat, 01 Nov 2025 20:12:41 GMT | Social Engineering the Rogues Gallery | David ONeal | [Read More](https://medium.com/p/d81c4599209e) |
-| Sat, 01 Nov 2025 20:09:17 GMT | just memecoin — Best Platforms | just memecoin | [Read More](https://medium.com/p/8eb4e1ab8534) |
-| Sat, 01 Nov 2025 20:04:59 GMT | How Cloud Misconfigurations in AWS and Azure Become Real Breaches for Small Organizations | Dilip Prasad | [Read More](https://medium.com/p/7faf3a1deab2) |
-| Sat, 01 Nov 2025 19:51:29 GMT | Shadowmap x04: Why Trust Can’t Be a Guess in Modern Cybersecurity | Mohammad Abir Abbas | [Read More](https://medium.com/p/a43ac12cfdb4) |
-| Sat, 01 Nov 2025 19:49:27 GMT | Building a Secure GitLab CI/CD Pipeline: Scan with TMAS, Push to ECR, and Deploy to Amazon EKS | Devops Sourav | [Read More](https://medium.com/p/99d25d893fb8) |
