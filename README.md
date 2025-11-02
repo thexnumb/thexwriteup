@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 22:37:05 GMT | New Android Warning As Humanized Password Stealer Confirmed | Nauman khan | [Read More](https://medium.com/p/f878f29b7787) |
+| Sun, 02 Nov 2025 22:09:21 GMT | Automate Compliance Headaches with Delve’s Smart AI Agent | Raj | [Read More](https://medium.com/p/d0abdedc6fb3) |
 | Sun, 02 Nov 2025 22:04:41 GMT | Você está cyberseguro? | Yusouza | [Read More](https://medium.com/p/a88b84203031) |
 | Sun, 02 Nov 2025 22:01:39 GMT | RootMe: THM Walkthrough | Will Parker | [Read More](https://medium.com/p/7bd2636a6ce9) |
 | Sun, 02 Nov 2025 22:01:22 GMT | Hacking the ‘Disaster Prepper’ Paradigm: Ep. #3 — Adapt & Overcome | Ian Barwise | [Read More](https://medium.com/p/139eee3a7414) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 14:21:57 GMT | Why Cybersecurity Pros Secretly Ignore Their Own Rules | Cyberkech | [Read More](https://medium.com/p/1fcf80cc4e1f) |
 | Sun, 02 Nov 2025 14:17:33 GMT | Annoying bugs in iPadOS 26 | Paperless X | [Read More](https://medium.com/p/662f252131e7) |
 | Sun, 02 Nov 2025 14:09:43 GMT | Cybersecurity: Forensic Digital Image | Ramandeep Bagri | [Read More](https://medium.com/p/a8e7c91b708e) |
-| Sun, 02 Nov 2025 14:08:45 GMT | You are worker #41: Lophiid Honeypot Caught an Automated AI Attack Swarm | Niels Heinen | [Read More](https://medium.com/p/0e1b21990a46) |
-| Sun, 02 Nov 2025 14:06:45 GMT | Singularity Rootkit: How a Linux Kernel Backdoor Evaded Elastic Security | Nishanth Padmanabhan | [Read More](https://medium.com/p/1f5e8e371db8) |
