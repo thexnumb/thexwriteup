@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 05:04:08 GMT | Find the Digital Footprints — Room Challenges: Blue Team LINUXENIC Corporation Write-up | Yuukoethic | [Read More](https://medium.com/p/8a7df2d2ca6e) |
+| Sun, 02 Nov 2025 05:01:56 GMT | 10 Signs Your Phone Might Be Hacked — And What to Do About It | CyberSafe Insights | [Read More](https://medium.com/p/26b57c81d740) |
+| Sun, 02 Nov 2025 04:50:09 GMT | From Beanstalk to Root: How I Escalated AWS Permissions with Pacu | Jorge Taylor | [Read More](https://medium.com/p/f474a21ac31d) |
+| Sun, 02 Nov 2025 04:43:54 GMT | Vulnhub MyCMS Walkthrough | cyber pancake | [Read More](https://medium.com/p/c9b0ef0619d1) |
+| Sun, 02 Nov 2025 04:40:50 GMT | Top 20 VAPT Tools to Strengthen Your Cybersecurity in 2025 | Securis360 Inc. | [Read More](https://medium.com/p/b2b4ce8f0881) |
 | Sun, 02 Nov 2025 04:01:55 GMT | Challenger 3: Britain’s 120mm Gun, Trophy APS, and Modular Armor Set to Redefine NATO Battlefield… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/46d835055a5d) |
 | Sun, 02 Nov 2025 03:59:07 GMT | Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/e49e7ea64626) |
 | Sun, 02 Nov 2025 03:50:21 GMT | Performing ARP Spoofing | Guillaumebanakeng | [Read More](https://medium.com/p/0af394ecbe30) |
@@ -108,8 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 17:20:56 GMT | Web Browser Forensics Cheatsheet: A practical guide for DFIR & SOC analysts | Khalil Z. | [Read More](https://medium.com/p/2ad38bbe9ca5) |
 | Sat, 01 Nov 2025 17:19:59 GMT | Zadra: A Configurable LLM Prompt Shield | Casey Johnson | [Read More](https://medium.com/p/fc5cc379e90c) |
 | Sat, 01 Nov 2025 17:10:46 GMT | 24/7 Live Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/d7b4fe1f79af) |
-| Sat, 01 Nov 2025 17:07:31 GMT | Stop Hitting ‘Later’: Software Updates are Mandatory Security Patches! | Technology EM3 | [Read More](https://medium.com/p/99d715974f16) |
-| Sat, 01 Nov 2025 17:07:23 GMT | BIOS, CMOS and UEFI - What Happens When You Turn On Your Computer | Huseyn Eyvazov | [Read More](https://medium.com/p/ee994e2f6d4e) |
-| Sat, 01 Nov 2025 17:04:02 GMT | From Strategy to Shield: Why I Chose the Cybersecurity Path | Fook Hwa Tan | [Read More](https://medium.com/p/eb58436c809c) |
-| Sat, 01 Nov 2025 17:03:47 GMT | Cybersecurity Weekly Issue 53 | This Week In I/O | [Read More](https://medium.com/p/6b926a927228) |
-| Sat, 01 Nov 2025 17:00:06 GMT | How Technology Can Reveal Signs of Cheating | Oche Emmanuel | [Read More](https://medium.com/p/d5587343d955) |
