@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 02:58:21 GMT | Hacktivizm: İdeoloji mi, Siber Suç mu? | Ata Çalım | [Read More](https://medium.com/p/a8fcedc21f84) |
+| Sun, 02 Nov 2025 02:42:26 GMT | I’ve been learning JavaScript for about two months now, alongside Kali Linux, networking, Nmap… | Abdullah Mina | [Read More](https://medium.com/p/b4bb430baab4) |
+| Sun, 02 Nov 2025 02:31:53 GMT | ️Intrusion Prevention Systems … When the Alarm Starts Fighting Back | Thegreatpayload | [Read More](https://medium.com/p/5423d8692500) |
+| Sun, 02 Nov 2025 02:23:30 GMT | Can Using a Mobile Hotspot Put Your Company Network at Risk? | Raviteja Mureboina | [Read More](https://medium.com/p/f94c6e11874a) |
+| Sun, 02 Nov 2025 02:10:59 GMT | Understanding Phishing: How One Email Can Lead to a Breach | Nway Nway Zay Ya | [Read More](https://medium.com/p/b718518f1a8a) |
+| Sun, 02 Nov 2025 01:56:22 GMT | The Greatest Foresight of Middle-Aged People: Cultivating a Happy Home | Xiaochen | [Read More](https://medium.com/p/bf27b2766421) |
+| Sun, 02 Nov 2025 01:52:47 GMT | VULNERABLE..?? | Karen Umelo | [Read More](https://medium.com/p/c561e1a02840) |
 | Sun, 02 Nov 2025 01:16:01 GMT | Microsoft’s big bet on OpenAI sparked a $500 Billion power shift | Outman BAZ | [Read More](https://medium.com/p/16b9d2f5916d) |
 | Sun, 02 Nov 2025 01:03:13 GMT | How to migrate on metya to my token | MetYa - $MY token | [Read More](https://medium.com/p/64e0e4aeba68) |
 | Sun, 02 Nov 2025 01:00:55 GMT | Linux Capabilities Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/a5bcde9e3018) |
@@ -106,10 +113,3 @@ From weak input validation… | Chathurka | [Read More](https://medium.com/p/12b
 | Sat, 01 Nov 2025 16:18:42 GMT | nz gym #2 ( intro RE ) | nzunuzzz | [Read More](https://medium.com/p/fcd6de493bd8) |
 | Sat, 01 Nov 2025 16:13:41 GMT | Kod Adı: Shutterdown Operasyonu – Bir Dijital Soygun Çetesinin Çökertilmesi | kaan turanli | [Read More](https://medium.com/p/f6f88ded23f9) |
 | Sat, 01 Nov 2025 16:12:03 GMT | ShadowMap x03: How We Engineered the Final Outcome | Mohammad Abir Abbas | [Read More](https://medium.com/p/0b7c7d0e0700) |
-| Sat, 01 Nov 2025 15:52:22 GMT | Unauthorized Access to Internal Nginx Status Page via X-Forwarded-For Header | Bytewreaker | [Read More](https://medium.com/p/31de9e8b4e28) |
-| Sat, 01 Nov 2025 15:50:55 GMT | Authentication Bypass via Client-Side Response Tampering | Bytewreaker | [Read More](https://medium.com/p/f79ad16dcef9) |
-| Sat, 01 Nov 2025 15:49:29 GMT | How a Single Response Manipulation Led to Admin Takeover — Tamil Nadu Government — Police… | Gokuleswaran B | [Read More](https://medium.com/p/0d66879b81a7) |
-| Sat, 01 Nov 2025 15:49:25 GMT | DEADFACE — Hack the Night — writeup by AD3NCA | AD3NCA | [Read More](https://medium.com/p/eaa9596ef6e0) |
-| Sat, 01 Nov 2025 15:42:19 GMT | The road to nakedness | Silkeheiss | [Read More](https://medium.com/p/71cf8d3cd2cc) |
-| Sat, 01 Nov 2025 15:40:38 GMT | How to Set Up AWS IAM | The Boring Engineer | [Read More](https://medium.com/p/05b050fed154) |
-| Sat, 01 Nov 2025 15:29:28 GMT | When Phones Turn Against Their Owners: The Predator Files and the Death of Digital Trust | Abatis ABTU | [Read More](https://medium.com/p/731a0cef3d00) |
