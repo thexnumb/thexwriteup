@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 18:07:32 GMT | Understanding Kerberos — The heart of modern enterprise authentication — Part 1 | Aneesh Kulkarni | [Read More](https://medium.com/p/8c64968c5294) |
+| Sun, 02 Nov 2025 18:02:17 GMT | Incident Response — How SOC  Handle Cyber Incidents Step by Step | Huseyn Eyvazov | [Read More](https://medium.com/p/869bbc8ecbc6) |
+| Sun, 02 Nov 2025 18:00:54 GMT | An Introduction to Bug Haven (& some of my favorite bugs) | Bug Haven | [Read More](https://medium.com/p/272c64d191e9) |
+| Sun, 02 Nov 2025 17:57:13 GMT | Lack of security generates jobs, but at what cost? | Sergio | [Read More](https://medium.com/p/4d473f0bb61a) |
+| Sun, 02 Nov 2025 17:56:11 GMT | Bridging the Gap: Stored Procedures-Advantage and Limitations in Context of SQL Injection | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8a11924b27f3) |
+| Sun, 02 Nov 2025 17:52:54 GMT | Memory Forensics: Uncovering Attacker Secrets That Never Touch the Disk | Giorgi Akhobadze | [Read More](https://medium.com/p/caaa3294d1f1) |
+| Sun, 02 Nov 2025 17:49:59 GMT | FREAKSHOW DOCUMENTED PART 2: The Confession — When AI Gaslighting Became Self-Aware | Berend Watchus | [Read More](https://medium.com/p/5b3619fb2f0a) |
+| Sun, 02 Nov 2025 17:46:05 GMT | HackTheBox (HTB) — Web Fuzzing [Skill Assessment] | Aircon | [Read More](https://medium.com/p/2989ddc4df6e) |
+| Sun, 02 Nov 2025 17:45:40 GMT | Snort vs Zeek | Huseyn Eyvazov | [Read More](https://medium.com/p/1d0b548f11ae) |
+| Sun, 02 Nov 2025 17:34:03 GMT | Dendroid Android Zararlı Yazılım Analizi — 1 | Recep Emir | [Read More](https://medium.com/p/23e22a167709) |
+| Sun, 02 Nov 2025 17:33:03 GMT | Practical Toolkit for Reconnaissance and Quick Web-Surface Assessments | Huseyn Eyvazov | [Read More](https://medium.com/p/23acd94c4150) |
 | Sun, 02 Nov 2025 17:31:53 GMT | Exposed API Key and RSA Private Key in POS Frontend | Bytewreaker | [Read More](https://medium.com/p/2132f55b0acc) |
+| Sun, 02 Nov 2025 17:31:53 GMT | Log Smart: Privacy-First Zapier Integrations | Hash Block | [Read More](https://medium.com/p/12d83ec5ad7a) |
+| Sun, 02 Nov 2025 17:31:53 GMT | 3 Things I learnt from my first CTF win | Achintya | [Read More](https://medium.com/p/1025fed8c2de) |
 | Sun, 02 Nov 2025 17:29:11 GMT | Understanding Cybersecurity Risk Management: Why It Matters for Every Organization | Thaís Lima | [Read More](https://medium.com/p/02958cf4f9e0) |
 | Sun, 02 Nov 2025 17:27:55 GMT | Skynet: Could AI really Turn Against Us? | Humberto Acosta | [Read More](https://medium.com/p/bff3c7b85d3f) |
+| Sun, 02 Nov 2025 17:22:14 GMT | When Bug Hunting Becomes a Burden: Surviving the Dark Side of Bug Bounties | Gl1tch | [Read More](https://medium.com/p/21e7c0df4ed8) |
 | Sun, 02 Nov 2025 17:07:39 GMT | 6 Life Changing Lessons I Learned from Tribe of Hackers | Musayyab Shah | [Read More](https://medium.com/p/eb5b178a9864) |
 | Sun, 02 Nov 2025 17:05:53 GMT | How to Implement AI & Cyber Governance in One Day – Without Consultants or Endless Meetings | Axsaspty | [Read More](https://medium.com/p/ccdc2a236d4a) |
 | Sun, 02 Nov 2025 17:04:54 GMT | Template to Terminal — Responsible Writeup of an OS Command Injection | Nakul Singh | [Read More](https://medium.com/p/ec29922f3de4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 12:05:47 GMT | DockerLabs Writeup — Los 40 Ladrones (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fc1d14834980) |
 | Sun, 02 Nov 2025 12:03:30 GMT | Decoy Sentinel: Strategic Deception Powered by Splunk Analytics | Vedanshpundir | [Read More](https://medium.com/p/4c8304e85d44) |
 | Sun, 02 Nov 2025 12:02:26 GMT | Maybe I’m Not Too Much, I’m Just Finally Alive | Ash | [Read More](https://medium.com/p/f0ba98dfb5bd) |
-| Sun, 02 Nov 2025 11:58:52 GMT | Day 73- Splunk basics for beginners | unica 02 | [Read More](https://medium.com/p/7210bb86fbe4) |
-| Sun, 02 Nov 2025 11:54:06 GMT | Blueprint TryHackMe: Full Writeup and Exploitation Guide | IsaacNatarajan | [Read More](https://medium.com/p/1c27de4a7d03) |
-| Sun, 02 Nov 2025 11:45:47 GMT | MY FIRST STEPS WITH CISCO PACKET TRACER | Shalom Chinedu | [Read More](https://medium.com/p/1a522ba7b410) |
-| Sun, 02 Nov 2025 11:42:24 GMT | Attacking GraphQL — Information Disclosure via Introspection Query | Hikmat Gasimov | [Read More](https://medium.com/p/ed3d5e9791ec) |
-| Sun, 02 Nov 2025 11:41:23 GMT | Mastering Unwritten Rules for Jump Hosts — The Day One Field Guide for Pentesters | Rubab Fatima | [Read More](https://medium.com/p/553b71574c79) |
-| Sun, 02 Nov 2025 11:37:52 GMT | CVE-2025–63416: The Admin Panel Heist — Stored XSS to Privilege Escalation | Rohit Chaudhary | [Read More](https://medium.com/p/b4c69d8487f1) |
-| Sun, 02 Nov 2025 11:36:45 GMT | TryHackMe — MalBuster | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/1f9139e1bd7a) |
-| Sun, 02 Nov 2025 11:28:12 GMT | Top 10 Digital Forensics Tools for Evidence Recovery | Manisha Chaudhary | [Read More](https://medium.com/p/a7aa89ff449c) |
-| Sun, 02 Nov 2025 11:24:17 GMT | 7 Hidden Samsung A Series Tricks That Will Blow Your Mind | Grace Anderson | [Read More](https://medium.com/p/6662b41e5466) |
-| Sun, 02 Nov 2025 11:20:43 GMT | How to approach attacking AD (Hands on Guide) | Hishamrazak | [Read More](https://medium.com/p/c920469967c0) |
-| Sun, 02 Nov 2025 11:19:02 GMT | CVE-2025–63417: The Chatroom Compromise — Stored XSS in SelfBest Platform | Rohit Chaudhary | [Read More](https://medium.com/p/f34ddcd984ea) |
-| Sun, 02 Nov 2025 11:17:47 GMT | Infinity Shell Walkthrough - TryHackme | Aufarifqi | [Read More](https://medium.com/p/b8541d2908d5) |
-| Sun, 02 Nov 2025 11:08:45 GMT | Traditional Relational Database is in its ACIDity, and Distributed Relational Database is in its… | Philipebuka | [Read More](https://medium.com/p/ea3dcc8a8f5e) |
-| Sun, 02 Nov 2025 11:06:51 GMT | 7 Quick Samsung A Series Tips to Unlock Its Full Potential | Aurora Green | [Read More](https://medium.com/p/12b3b3aaa86f) |
