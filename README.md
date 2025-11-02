@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 13:18:53 GMT | 167 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/c623c57ebca6) |
+| Sun, 02 Nov 2025 13:08:55 GMT | The Rise of Generative AI in Cyber Attacks : A New Era of Digital Threats | Association of Computing Students (ACS) | [Read More](https://medium.com/p/fcebf57ee880) |
+| Sun, 02 Nov 2025 13:02:54 GMT | Your Email Has Almost Certainly Been Leaked. Here’s How to Check (and What to Do Next). | CyberSafe Insights | [Read More](https://medium.com/p/8a23a5bdf176) |
+| Sun, 02 Nov 2025 13:00:00 GMT | Open Source Botnet Hook — Latest Update | Balki Maharaj | [Read More](https://medium.com/p/393ed5ba8e6a) |
+| Sun, 02 Nov 2025 12:57:30 GMT | The Strategy Behind Cybersecurity That Works — Our Northwave Way | Fook Hwa Tan | [Read More](https://medium.com/p/15b24fad6ac4) |
+| Sun, 02 Nov 2025 12:55:33 GMT | Top 5 Cybersecurity Questions I Get from Senior Management | Fook Hwa Tan | [Read More](https://medium.com/p/ae870f7447ce) |
+| Sun, 02 Nov 2025 12:51:46 GMT | OSINT: Proxy warfare with Rocker milieu, Discord & Telegram | SIMKRA | [Read More](https://medium.com/p/e07ab8529ffc) |
+| Sun, 02 Nov 2025 12:48:05 GMT | Telegram Tabanlı Gerçek Zamanlı Sahte Domain (Phishing) Tespit Sistemi | Salimuy | [Read More](https://medium.com/p/d7d77a5a8710) |
+| Sun, 02 Nov 2025 12:32:03 GMT | CIO Roadmap: 5 Must-Have Skills for IT Pros in an AI World | Azeeza | [Read More](https://medium.com/p/bd293fc6d74f) |
 | Sun, 02 Nov 2025 12:28:00 GMT | Proton’s New Tool Finds 300M Stolen Logins on Dark Web | Muhammad Hassan Ali | [Read More](https://medium.com/p/7f11a6ecff97) |
 | Sun, 02 Nov 2025 12:19:14 GMT | Understanding XSS: Types, Risks, and Practical Defenses | Shayaan Khan | [Read More](https://medium.com/p/4778d4524082) |
 | Sun, 02 Nov 2025 12:05:47 GMT | DockerLabs Writeup — Los 40 Ladrones (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fc1d14834980) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 04:43:54 GMT | Vulnhub MyCMS Walkthrough | cyber pancake | [Read More](https://medium.com/p/c9b0ef0619d1) |
 | Sun, 02 Nov 2025 04:40:50 GMT | Top 20 VAPT Tools to Strengthen Your Cybersecurity in 2025 | Securis360 Inc. | [Read More](https://medium.com/p/b2b4ce8f0881) |
 | Sun, 02 Nov 2025 04:01:55 GMT | Challenger 3: Britain’s 120mm Gun, Trophy APS, and Modular Armor Set to Redefine NATO Battlefield… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/46d835055a5d) |
-| Sun, 02 Nov 2025 03:59:07 GMT | Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/e49e7ea64626) |
-| Sun, 02 Nov 2025 03:50:21 GMT | Performing ARP Spoofing | Guillaumebanakeng | [Read More](https://medium.com/p/0af394ecbe30) |
-| Sun, 02 Nov 2025 03:36:12 GMT | Act Now — Google Confirms Chrome 142 Security Fix For 3 Billion Users | Nauman khan | [Read More](https://medium.com/p/d249670fc0c2) |
-| Sun, 02 Nov 2025 03:34:51 GMT | All About 2FA Authentication Bypass — The Hidden Battle Behind Your Login Screen | Monu Jangra | [Read More](https://medium.com/p/2266d35100e0) |
-| Sun, 02 Nov 2025 03:31:53 GMT | When the Cloud Goes Public: How EY’s 4TB Backup Became Publicly Accessible | Deven Chhajed | [Read More](https://medium.com/p/b2384c250d82) |
-| Sun, 02 Nov 2025 03:29:43 GMT | Managing Stress in the Tech World: 5 Practical Tips for InfoSec Professionals | JJ Salley | [Read More](https://medium.com/p/d1cb2a20a873) |
-| Sun, 02 Nov 2025 03:25:06 GMT | When an Endpoint Enumerator Turned Into a P1 information disclosure bug Here’s What I Found | Mayowa omolabi | [Read More](https://medium.com/p/9cb6bd3b6752) |
-| Sun, 02 Nov 2025 02:58:21 GMT | Hacktivizm: İdeoloji mi, Siber Suç mu? | Ata Çalım | [Read More](https://medium.com/p/a8fcedc21f84) |
-| Sun, 02 Nov 2025 02:42:26 GMT | I’ve been learning JavaScript for about two months now, alongside Kali Linux, networking, Nmap… | Abdullah Mina | [Read More](https://medium.com/p/b4bb430baab4) |
