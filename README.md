@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 23:22:39 GMT | The Modern Penetration Tester’s Journey: More Than Just Breaking Things | Yen Wang | [Read More](https://medium.com/p/5e13578ddad2) |
+| Sun, 02 Nov 2025 23:20:28 GMT | Politically Biased Prompt Injection: When AI Becomes an Ideological Battlefield | CCD-IS | [Read More](https://medium.com/p/65ee9515cae3) |
+| Sun, 02 Nov 2025 23:20:00 GMT | Protecting Yourself from Address Poisoning Attacks | Officer's Notes | [Read More](https://medium.com/p/e8722323c3cf) |
+| Sun, 02 Nov 2025 23:11:24 GMT | I Just Published My Book | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/c9d64c3ebfb0) |
 | Sun, 02 Nov 2025 22:52:05 GMT | How Top Streamers on Twitch Are “Mini Celebrities” | Sean Sorita | [Read More](https://medium.com/p/bc88cd642b80) |
 | Sun, 02 Nov 2025 22:51:10 GMT | MQTT: The Language of the Internet of Things | Bervice | [Read More](https://medium.com/p/1a8c2c579693) |
 | Sun, 02 Nov 2025 22:45:08 GMT | How Job Recruiter Scams Hook You and How to Outsmart Them | TrendlineGala | [Read More](https://medium.com/p/2cb47cae48a3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 14:58:54 GMT | Powerline Networking Nedir? Elektrik Hatları Üzerinden İnternetin Geleceği | Seray Esen | [Read More](https://medium.com/p/9d53386212e5) |
 | Sun, 02 Nov 2025 14:44:09 GMT | Your SOC is a ghost town. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/646ecfc97281) |
 | Sun, 02 Nov 2025 14:39:48 GMT | Why We All Feel Inadequate — and What It Really Means | Sandeep Bhan | [Read More](https://medium.com/p/412044e6925d) |
-| Sun, 02 Nov 2025 14:34:44 GMT | devops-devsecops basics | Myusuftr | [Read More](https://medium.com/p/a6267cf6b7d2) |
-| Sun, 02 Nov 2025 14:31:54 GMT | (Comptia A+) Understanding Proxy Servers: Enhancing Security and Efficiency in Web Browsing | Vignesh R | [Read More](https://medium.com/p/356561d76dc8) |
-| Sun, 02 Nov 2025 14:31:54 GMT | Secrets Of Fast CLI Tools: Startup, I/O, Syscalls | The Speed Engineer | [Read More](https://medium.com/p/a198dc2adb58) |
-| Sun, 02 Nov 2025 14:30:01 GMT | Will AI Replace Tech Jobs or Just Change Them? | Techtanktools | [Read More](https://medium.com/p/5b5978d34c8c) |
