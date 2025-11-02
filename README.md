@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 02 Nov 2025 17:31:53 GMT | Exposed API Key and RSA Private Key in POS Frontend | Bytewreaker | [Read More](https://medium.com/p/2132f55b0acc) |
+| Sun, 02 Nov 2025 17:29:11 GMT | Understanding Cybersecurity Risk Management: Why It Matters for Every Organization | Thaís Lima | [Read More](https://medium.com/p/02958cf4f9e0) |
+| Sun, 02 Nov 2025 17:27:55 GMT | Skynet: Could AI really Turn Against Us? | Humberto Acosta | [Read More](https://medium.com/p/bff3c7b85d3f) |
 | Sun, 02 Nov 2025 17:07:39 GMT | 6 Life Changing Lessons I Learned from Tribe of Hackers | Musayyab Shah | [Read More](https://medium.com/p/eb5b178a9864) |
 | Sun, 02 Nov 2025 17:05:53 GMT | How to Implement AI & Cyber Governance in One Day – Without Consultants or Endless Meetings | Axsaspty | [Read More](https://medium.com/p/ccdc2a236d4a) |
 | Sun, 02 Nov 2025 17:04:54 GMT | Template to Terminal — Responsible Writeup of an OS Command Injection | Nakul Singh | [Read More](https://medium.com/p/ec29922f3de4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 11:17:47 GMT | Infinity Shell Walkthrough - TryHackme | Aufarifqi | [Read More](https://medium.com/p/b8541d2908d5) |
 | Sun, 02 Nov 2025 11:08:45 GMT | Traditional Relational Database is in its ACIDity, and Distributed Relational Database is in its… | Philipebuka | [Read More](https://medium.com/p/ea3dcc8a8f5e) |
 | Sun, 02 Nov 2025 11:06:51 GMT | 7 Quick Samsung A Series Tips to Unlock Its Full Potential | Aurora Green | [Read More](https://medium.com/p/12b3b3aaa86f) |
-| Sun, 02 Nov 2025 11:06:17 GMT | Cyber-eto OSINT Category Write Up | Mohammad Albaik - 0nvx | [Read More](https://medium.com/p/93c658a131f4) |
-| Sun, 02 Nov 2025 11:05:35 GMT | AI Bubble at Peak: The Next Tech Revolution Starts. | David Koch | [Read More](https://medium.com/p/5f50ed313101) |
-| Sun, 02 Nov 2025 10:57:38 GMT | FILE: LNX-001: WHY HACKERS CHOOSE LINUX | Fateyaly | [Read More](https://medium.com/p/8e5f2841d0b1) |
