@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 12:31:38 GMT | Cybersecurity Reinvented: Zero Trust & AI Threat Defense | Job24by7 | [Read More](https://medium.com/p/258cc0d4df29) |
+| Mon, 03 Nov 2025 12:31:32 GMT | Detection as Code | Mostafa Moradian | [Read More](https://medium.com/p/f96ecdf581cf) |
+| Mon, 03 Nov 2025 12:30:03 GMT | The Complete Guide to ServiceNow Integration for Modern Enterprises | Alex s | [Read More](https://medium.com/p/b2ded85f950c) |
+| Mon, 03 Nov 2025 12:28:08 GMT | The Evolution of Policing: Science, Technology, and a New Generation of Crime Fighters | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/c9174db2b9f2) |
+| Mon, 03 Nov 2025 12:27:44 GMT | Is your mobile app safe? | Asif Ali | [Read More](https://medium.com/p/e6ae9949761d) |
+| Mon, 03 Nov 2025 12:26:22 GMT | Agentic Detection Creation: From Sigma to Splunk Rules (or any platform) | Burak Karaduman | [Read More](https://medium.com/p/4697e13d9ee3) |
+| Mon, 03 Nov 2025 12:17:40 GMT | OpenAI Just Open-Sourced Safety Model That Reads Your Policies at Runtime | Pawel | [Read More](https://medium.com/p/cf063e817ee2) |
+| Mon, 03 Nov 2025 12:12:45 GMT | HTB When when the wire whispered Writeup — Hack The Boo 2025 | Syed Abdulrehman | [Read More](https://medium.com/p/be9ce1856e5e) |
+| Mon, 03 Nov 2025 12:10:22 GMT | Pwning Vibecoded Apps | Florian Walter | [Read More](https://medium.com/p/3d16b525d102) |
+| Mon, 03 Nov 2025 12:10:02 GMT | Why Every Hacker Loves Human Error | Arfa | [Read More](https://medium.com/p/309fc5ec5cd6) |
+| Mon, 03 Nov 2025 12:06:52 GMT | Project #14 of 21 — Compliance Gap Analysis Project (‘ISO 27001:2022 Annex A’ Edition) | Andrew Williams | [Read More](https://medium.com/p/0fc074bc8140) |
+| Mon, 03 Nov 2025 12:03:20 GMT | Approaching stealers devs: a brief interview with AURA | g0njxa | [Read More](https://medium.com/p/9b513369e117) |
+| Mon, 03 Nov 2025 12:01:58 GMT | CTF Basics: Understanding HTTP Requests and Responses | Walter Moar | [Read More](https://medium.com/p/935299700ced) |
+| Mon, 03 Nov 2025 11:53:27 GMT | How Email Providers Detect and Block Spam | JahdiSec | [Read More](https://medium.com/p/551ff201edff) |
+| Mon, 03 Nov 2025 11:40:50 GMT | Blue — Writeup | Mahir | [Read More](https://medium.com/p/5daef36c8e2e) |
 | Mon, 03 Nov 2025 11:31:36 GMT | Healthcare Security Compliance: Key Regulations and Best Practices (Global Guide) | QualysecEurope | [Read More](https://medium.com/p/fcfe37d72cf6) |
 | Mon, 03 Nov 2025 11:29:46 GMT | CSRF Token Defense Guide | Esra Kayhan | [Read More](https://medium.com/p/b86fca6fcab7) |
 | Mon, 03 Nov 2025 11:18:15 GMT | 10 Proven iPhone XR Battery Tips That Truly Extend Usage Time | Chloe White | [Read More](https://medium.com/p/0f767e86fbca) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 07:04:54 GMT | Writeup: Vulnserver Remote Code Execution via TRUN() function | scr1++y | [Read More](https://medium.com/p/df81f087160c) |
 | Mon, 03 Nov 2025 06:57:30 GMT | Preparing 7-Eleven for the Next Wave of Cyber Threats — Credential Exposure, Ransomware Risks, and… | David SEHYEON Baek | [Read More](https://medium.com/p/69919e174217) |
 | Mon, 03 Nov 2025 06:56:47 GMT | The Daily Tech Digest: 03 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d15eead0d3a3) |
-| Mon, 03 Nov 2025 06:54:55 GMT | Palo Alto Networks Purple Team Exercises: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3950facacac6) |
-| Mon, 03 Nov 2025 06:54:01 GMT | From Cards to Crypto: The Digital Shift in Online Casino Payments | Michael Thompson | [Read More](https://medium.com/p/889c1da42ebd) |
-| Mon, 03 Nov 2025 06:48:44 GMT | Android vs. iOS — Which Mobile OS is the Hacking Target | David SEHYEON Baek | [Read More](https://medium.com/p/9d16b43be730) |
-| Mon, 03 Nov 2025 06:46:38 GMT | When Asahi Beer, Holding Over One Third of Japan’s Beer Market, Was Hit by a Ransomware Attack | David SEHYEON Baek | [Read More](https://medium.com/p/5973d669e003) |
-| Mon, 03 Nov 2025 06:46:33 GMT | Security and Performance Aspects of Advanced LVM Management | Eren Cankut Uysal | [Read More](https://medium.com/p/9201acdbd7e8) |
-| Mon, 03 Nov 2025 06:46:21 GMT | Strengthening Your Business with Cybersecurity Consulting and Incident Response Services | Jeffery Walker | [Read More](https://medium.com/p/b3617d554054) |
-| Mon, 03 Nov 2025 06:44:26 GMT | techNbuddy: Discover Your Perfect Match — Where Passion Meets Purpose | techNbuddy | [Read More](https://medium.com/p/b5d697d6e3c4) |
-| Mon, 03 Nov 2025 06:42:25 GMT | Vulnerability Assessment vs. Penetration Testing: Which Do You Need? | Embee Software | [Read More](https://medium.com/p/fe6229d2662e) |
-| Mon, 03 Nov 2025 06:35:32 GMT | During my recent cybersecurity training, I gained practical insights into the fundamentals of… | Adeleke Theophilus O | [Read More](https://medium.com/p/cbc124121928) |
-| Mon, 03 Nov 2025 06:35:20 GMT | Day 11 Building a CloudTrail Pipeline with Filebeat (S3 → SQS → Elasticsearch) | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/bfe60e70bb17) |
-| Mon, 03 Nov 2025 06:33:46 GMT | Studi Kasus VAPT: Membedah OWASP Juice Shop | Zulfianarahmi | [Read More](https://medium.com/p/39eb210b0af8) |
-| Mon, 03 Nov 2025 06:33:18 GMT | Protecting Your Digital Presence: Why Website Security Hygiene Matters | Cyber Shieldpro | [Read More](https://medium.com/p/2ebc86e4db41) |
-| Mon, 03 Nov 2025 06:32:12 GMT | Mengenal ISO/IEC 38500 dan 27001: Standar Penting dalam Tata Kelola dan Keamanan TI | Valencia L Tobing | [Read More](https://medium.com/p/5bd7082d5ca4) |
-| Mon, 03 Nov 2025 06:26:22 GMT | Certs vs Experience in IT & Cyber Security: How Employers Really Weigh Them | Vijay Kumar Gupta | [Read More](https://medium.com/p/a1c579b3bcfe) |
-| Mon, 03 Nov 2025 06:25:29 GMT | Is XBOW Taking Over Hacking Jobs? | Monu Jangra | [Read More](https://medium.com/p/dc8a6991c1fd) |
