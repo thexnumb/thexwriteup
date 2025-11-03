@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 17:17:17 GMT | Speaking the Language of Risk: Why IT Security Must Start with Business-Critical Applications | Fabien Soulis | [Read More](https://medium.com/p/73b750c49cbf) |
+| Mon, 03 Nov 2025 17:15:08 GMT | AI for Cybersecurity and Threat Detection | Rashadul Islam | [Read More](https://medium.com/p/0c0d89d4b5cc) |
+| Mon, 03 Nov 2025 17:11:58 GMT | ️ The 5 Pillars of Cybersecurity Every Professional Must Master | Code Link | [Read More](https://medium.com/p/7ab7127fa58d) |
+| Mon, 03 Nov 2025 17:09:24 GMT | Why Modern Businesses Need Smarter Compliance-Ready Security — and How Rainbow Secure Simplifies… | Dr. Shashi Karhail | [Read More](https://medium.com/p/3df38978b380) |
+| Mon, 03 Nov 2025 16:57:24 GMT | Secure Software Development Life Cycle (SSDLC) | Unachat | [Read More](https://medium.com/p/47b76d83579b) |
+| Mon, 03 Nov 2025 16:55:35 GMT | Trinity Protocol™ v3.1: We Just Achieved the World’s First 2-of-3 Multi-Chain Consensus | Chronos Vault | [Read More](https://medium.com/p/66975bd77d99) |
+| Mon, 03 Nov 2025 16:48:34 GMT | Ctrl+Alt+Del | Alex Bon | [Read More](https://medium.com/p/a1607ee3757d) |
+| Mon, 03 Nov 2025 16:46:56 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/62272f0e84d7) |
+| Mon, 03 Nov 2025 16:44:23 GMT | How I Stopped Wasting Hours and Started Trusting Machine Learning | Jaspreet Singh | [Read More](https://medium.com/p/b0a5ff340c7a) |
 | Mon, 03 Nov 2025 16:41:56 GMT | TryHackMe - Intro PoC Scripting - WriteUp | Axoloth | [Read More](https://medium.com/p/ea527b5ba0fa) |
+| Mon, 03 Nov 2025 16:40:04 GMT | New Android Trojans BankBot YNRK and DeliveryRAT Target Users to Steal Financial Data | Chetan Seripally | [Read More](https://medium.com/p/777e50a53ace) |
 | Mon, 03 Nov 2025 16:33:27 GMT | gm-sm2-cipher: Bridging Chinese Cryptographic Standards with Node.js | Sushant Raj Dangal | [Read More](https://medium.com/p/9583c73489ff) |
 | Mon, 03 Nov 2025 16:32:03 GMT | Kali Linux Installation on Windows 11 with VMware Workstation Pro | Ahmet Ekiz | [Read More](https://medium.com/p/d2e2475761ae) |
 | Mon, 03 Nov 2025 16:25:12 GMT | When Connectivity Becomes Community — And Security Becomes a Competitive Edge | Joker Frog | [Read More](https://medium.com/p/e4e1e15ffeef) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 12:10:02 GMT | Why Every Hacker Loves Human Error | Arfa | [Read More](https://medium.com/p/309fc5ec5cd6) |
 | Mon, 03 Nov 2025 12:06:52 GMT | Project #14 of 21 — Compliance Gap Analysis Project (‘ISO 27001:2022 Annex A’ Edition) | Andrew Williams | [Read More](https://medium.com/p/0fc074bc8140) |
 | Mon, 03 Nov 2025 12:03:20 GMT | Approaching stealers devs: a brief interview with AURA | g0njxa | [Read More](https://medium.com/p/9b513369e117) |
-| Mon, 03 Nov 2025 12:01:58 GMT | CTF Basics: Understanding HTTP Requests and Responses | Walter Moar | [Read More](https://medium.com/p/935299700ced) |
-| Mon, 03 Nov 2025 11:53:27 GMT | How Email Providers Detect and Block Spam | JahdiSec | [Read More](https://medium.com/p/551ff201edff) |
-| Mon, 03 Nov 2025 11:40:50 GMT | Blue — Writeup | Mahir | [Read More](https://medium.com/p/5daef36c8e2e) |
-| Mon, 03 Nov 2025 11:31:36 GMT | Healthcare Security Compliance: Key Regulations and Best Practices (Global Guide) | QualysecEurope | [Read More](https://medium.com/p/fcfe37d72cf6) |
-| Mon, 03 Nov 2025 11:29:46 GMT | CSRF Token Defense Guide | Esra Kayhan | [Read More](https://medium.com/p/b86fca6fcab7) |
-| Mon, 03 Nov 2025 11:18:15 GMT | 10 Proven iPhone XR Battery Tips That Truly Extend Usage Time | Chloe White | [Read More](https://medium.com/p/0f767e86fbca) |
-| Mon, 03 Nov 2025 11:12:22 GMT | Exorcise your IT fears | Century Solutions Group | [Read More](https://medium.com/p/55c11d561eb9) |
-| Mon, 03 Nov 2025 11:03:12 GMT | How to Run .OVA Virtual Machine on Apple Silicon Using UTM (M1/M2/M3) | Dina | [Read More](https://medium.com/p/7a2a883697d4) |
-| Mon, 03 Nov 2025 11:01:55 GMT | Safe Payments, No Drama: Zapier + n8n | Modexa | [Read More](https://medium.com/p/de18e675775a) |
-| Mon, 03 Nov 2025 11:01:55 GMT | Guard the Flow: RBAC for n8n & Node-RED | Syntal | [Read More](https://medium.com/p/23f9a4a3e710) |
