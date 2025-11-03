@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 07:37:54 GMT | The Songs Of Silent Men — Jaachimma Anyatonwu | Words Not yet Spoken | [Read More](https://medium.com/p/6e8c72e3731f) |
+| Mon, 03 Nov 2025 07:30:03 GMT | Nomad Security & Backup Stack: Never Lose Work Again | Paran | [Read More](https://medium.com/p/7984ab137113) |
+| Mon, 03 Nov 2025 07:25:24 GMT | The Future of Wireless Attack Surfaces: Trends in AI-Enabled Signal Spoofing and Defence | Michael Preston | [Read More](https://medium.com/p/928fdfd88fac) |
+| Mon, 03 Nov 2025 07:17:34 GMT | How CyberSecOp’s Cyber Security Services Strengthen Your Organization’s Digital Defense | Jeffery Walker | [Read More](https://medium.com/p/6a93fac2fd70) |
+| Mon, 03 Nov 2025 07:17:30 GMT | Secure Your Future: SGS Cybersecurity Services | SGS India | [Read More](https://medium.com/p/fb611b77d225) |
 | Mon, 03 Nov 2025 07:12:27 GMT | The CIA Triad: Confidentiality, Integrity, and Availability in Practice | Samina Perveen | [Read More](https://medium.com/p/5c8d3686c669) |
 | Mon, 03 Nov 2025 07:07:04 GMT | API Key Rotation Patterns in Spring Boot Security Layers | Alexander Obregon | [Read More](https://medium.com/p/1815e93cef37) |
 | Mon, 03 Nov 2025 07:04:54 GMT | Writeup: Vulnserver Remote Code Execution via TRUN() function | scr1++y | [Read More](https://medium.com/p/df81f087160c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 23:38:35 GMT | Security Teams Are Screwed with Agentic AI — Unless They Do This | Mudassir Syed | [Read More](https://medium.com/p/a5e713063483) |
 | Sun, 02 Nov 2025 23:27:09 GMT | Regime Change, Negotiated Settlement and Covert Ops in the Caribbean | Rubaiyat Rahman | [Read More](https://medium.com/p/cdadd0fd6db9) |
 | Sun, 02 Nov 2025 23:22:39 GMT | The Modern Penetration Tester’s Journey: More Than Just Breaking Things | Yen Wang | [Read More](https://medium.com/p/5e13578ddad2) |
-| Sun, 02 Nov 2025 23:20:28 GMT | Politically Biased Prompt Injection: When AI Becomes an Ideological Battlefield | CCD-IS | [Read More](https://medium.com/p/65ee9515cae3) |
-| Sun, 02 Nov 2025 23:20:00 GMT | Protecting Yourself from Address Poisoning Attacks | Officer's Notes | [Read More](https://medium.com/p/e8722323c3cf) |
-| Sun, 02 Nov 2025 23:11:24 GMT | I Just Published My Book | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/c9d64c3ebfb0) |
-| Sun, 02 Nov 2025 22:52:05 GMT | How Top Streamers on Twitch Are “Mini Celebrities” | Sean Sorita | [Read More](https://medium.com/p/bc88cd642b80) |
-| Sun, 02 Nov 2025 22:51:10 GMT | MQTT: The Language of the Internet of Things | Bervice | [Read More](https://medium.com/p/1a8c2c579693) |
