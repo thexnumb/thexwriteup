@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 11:31:36 GMT | Healthcare Security Compliance: Key Regulations and Best Practices (Global Guide) | QualysecEurope | [Read More](https://medium.com/p/fcfe37d72cf6) |
+| Mon, 03 Nov 2025 11:29:46 GMT | CSRF Token Defense Guide | Esra Kayhan | [Read More](https://medium.com/p/b86fca6fcab7) |
+| Mon, 03 Nov 2025 11:18:15 GMT | 10 Proven iPhone XR Battery Tips That Truly Extend Usage Time | Chloe White | [Read More](https://medium.com/p/0f767e86fbca) |
+| Mon, 03 Nov 2025 11:12:22 GMT | Exorcise your IT fears | Century Solutions Group | [Read More](https://medium.com/p/55c11d561eb9) |
 | Mon, 03 Nov 2025 11:03:12 GMT | How to Run .OVA Virtual Machine on Apple Silicon Using UTM (M1/M2/M3) | Dina | [Read More](https://medium.com/p/7a2a883697d4) |
 | Mon, 03 Nov 2025 11:01:55 GMT | Safe Payments, No Drama: Zapier + n8n | Modexa | [Read More](https://medium.com/p/de18e675775a) |
 | Mon, 03 Nov 2025 11:01:55 GMT | Guard the Flow: RBAC for n8n & Node-RED | Syntal | [Read More](https://medium.com/p/23f9a4a3e710) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 06:32:12 GMT | Mengenal ISO/IEC 38500 dan 27001: Standar Penting dalam Tata Kelola dan Keamanan TI | Valencia L Tobing | [Read More](https://medium.com/p/5bd7082d5ca4) |
 | Mon, 03 Nov 2025 06:26:22 GMT | Certs vs Experience in IT & Cyber Security: How Employers Really Weigh Them | Vijay Kumar Gupta | [Read More](https://medium.com/p/a1c579b3bcfe) |
 | Mon, 03 Nov 2025 06:25:29 GMT | Is XBOW Taking Over Hacking Jobs? | Monu Jangra | [Read More](https://medium.com/p/dc8a6991c1fd) |
-| Mon, 03 Nov 2025 06:24:36 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/dda99988859c) |
-| Mon, 03 Nov 2025 06:20:37 GMT | Crypto Isn’t Your Security Strategy: Why Web3 Teams Still Get Breached Through Old-School Email | Aysha Saifi | [Read More](https://medium.com/p/776b461c6de8) |
-| Mon, 03 Nov 2025 06:05:14 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/a3090197b801) |
-| Mon, 03 Nov 2025 06:04:58 GMT | VAPT: The Silent Armor Protecting Your Digital Business | Devarshi Acharya | [Read More](https://medium.com/p/a62e4909ca41) |
