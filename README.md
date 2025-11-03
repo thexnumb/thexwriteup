@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 16:41:56 GMT | TryHackMe - Intro PoC Scripting - WriteUp | Axoloth | [Read More](https://medium.com/p/ea527b5ba0fa) |
+| Mon, 03 Nov 2025 16:33:27 GMT | gm-sm2-cipher: Bridging Chinese Cryptographic Standards with Node.js | Sushant Raj Dangal | [Read More](https://medium.com/p/9583c73489ff) |
+| Mon, 03 Nov 2025 16:32:03 GMT | Kali Linux Installation on Windows 11 with VMware Workstation Pro | Ahmet Ekiz | [Read More](https://medium.com/p/d2e2475761ae) |
+| Mon, 03 Nov 2025 16:25:12 GMT | When Connectivity Becomes Community — And Security Becomes a Competitive Edge | Joker Frog | [Read More](https://medium.com/p/e4e1e15ffeef) |
+| Mon, 03 Nov 2025 16:25:08 GMT | Comprehensive Cybersecurity Series : A Beginner-to-Pro Learning Guide | Aman Kumar Singh | [Read More](https://medium.com/p/a635b0092dbf) |
 | Mon, 03 Nov 2025 16:19:10 GMT | SickOs 1.2 (Vulnhub) — Full Exploit Walkthrough (Step-by-Step) | Vyshnav Vinod | [Read More](https://medium.com/p/dcf1051419dc) |
 | Mon, 03 Nov 2025 16:16:50 GMT | Praktikum Internet of Things (Tugas): Input Analog | Muhammad Surya Saputro | [Read More](https://medium.com/p/c2af3da3be1c) |
 | Mon, 03 Nov 2025 16:16:20 GMT | How to Change a Door Lock Without Screws: Hidden Release Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/16d3f902fa7a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 11:03:12 GMT | How to Run .OVA Virtual Machine on Apple Silicon Using UTM (M1/M2/M3) | Dina | [Read More](https://medium.com/p/7a2a883697d4) |
 | Mon, 03 Nov 2025 11:01:55 GMT | Safe Payments, No Drama: Zapier + n8n | Modexa | [Read More](https://medium.com/p/de18e675775a) |
 | Mon, 03 Nov 2025 11:01:55 GMT | Guard the Flow: RBAC for n8n & Node-RED | Syntal | [Read More](https://medium.com/p/23f9a4a3e710) |
-| Mon, 03 Nov 2025 11:01:05 GMT | The Ultimate Web Reconnaissance Playbook — A Practical Step-by-Step Guide for Security Researchers | Kyrillos Kamal | [Read More](https://medium.com/p/aeaf13fad6d1) |
-| Mon, 03 Nov 2025 11:00:16 GMT | AltSchool Cloud Engineering Second Semester Examination Project | Ogochukwu Rita Asogwa | [Read More](https://medium.com/p/69e33b6ed298) |
-| Mon, 03 Nov 2025 10:58:55 GMT | USA Q3 2025 Cybersecurity Report — Key Threats & Insights | Cybersecurity News | [Read More](https://medium.com/p/15547962ac7e) |
-| Mon, 03 Nov 2025 10:51:55 GMT | C# Adventures in Constraint-Based Programming | Namir Sagheenanajar | [Read More](https://medium.com/p/ace1ecf5844a) |
-| Mon, 03 Nov 2025 10:50:56 GMT | Inside the Storm: A Cyber Defender’s View on China’s “Typhoon” Campaigns | Security Unfiltered | [Read More](https://medium.com/p/5015db1cc046) |
