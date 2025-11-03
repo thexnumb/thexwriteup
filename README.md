@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 21:34:25 GMT | Day 29 of my Cybersecurity Journey: Metasploit Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/82c5139d7fb0) |
+| Mon, 03 Nov 2025 21:34:08 GMT | How Inclusion Is Powering the Future of Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/82fdf57563d6) |
 | Mon, 03 Nov 2025 21:07:25 GMT | Race condition chained with logic bug leads to full bypass of free-plan site limit | Mahmoud Gamal | [Read More](https://medium.com/p/5825f5e2cb1c) |
 | Mon, 03 Nov 2025 21:04:59 GMT | صیغه فارس 09019170148صیغه آباده صیغه اقلید صیغه خرم بید صیغه بوانات صیغه پاسارگاد صیغه مرودشت صیغه… | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/0c3a5486ca5a) |
 | Mon, 03 Nov 2025 21:03:58 GMT | October 2025: Biggest Cyber Attacks, Ransomware Attacks Data Breaches | IT_Engineer | [Read More](https://medium.com/p/59a5fcd3d260) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 15:06:07 GMT | eJPT Prep: Assessment Methodologies: Enumeration CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/abcae2f525af) |
 | Mon, 03 Nov 2025 15:05:31 GMT | Research on location and dispersion measures | Riccardo Giacinti | [Read More](https://medium.com/p/915bd978fb72) |
 | Mon, 03 Nov 2025 15:02:17 GMT | Cyber Briefing: 2025.11.03 | CyberMaterial | [Read More](https://medium.com/p/2abd7d1b5063) |
-| Mon, 03 Nov 2025 14:59:17 GMT | Why Money Won’t Fix Your Life (But These Things Will) | Global Whirl of Wonders | [Read More](https://medium.com/p/b379676ddc06) |
-| Mon, 03 Nov 2025 14:55:41 GMT | “The $7,500 Steam Wallet Hack: How Parameter Pollution Bypassed Payment Security” | Aman Sharma | [Read More](https://medium.com/p/ee7e0d155f93) |
