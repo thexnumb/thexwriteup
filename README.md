@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 15:41:17 GMT | Multi-Factor Authentication (MFA): The First Line of Defense in Cybersecurity | Ferdi Edogawa | [Read More](https://medium.com/p/4b7e95c3730f) |
+| Mon, 03 Nov 2025 15:34:27 GMT | Emerging Threat: Attackers Use MIME-Encoded Invisible Characters to Evade Email Filters | Himanshu Bhatt | [Read More](https://medium.com/p/44e073f5407e) |
+| Mon, 03 Nov 2025 15:32:12 GMT | Praktikum Internet of Things: Input Analog | Muhammad Surya Saputro | [Read More](https://medium.com/p/630a599eb641) |
+| Mon, 03 Nov 2025 15:26:42 GMT | Essential Cybersecurity Facts and Figures | Awais Khan | [Read More](https://medium.com/p/848b39a79be0) |
+| Mon, 03 Nov 2025 15:23:59 GMT | Floorp — The Alternative Firefox-Based Web Browser | Balki Maharaj | [Read More](https://medium.com/p/eb6e55c102de) |
 | Mon, 03 Nov 2025 15:22:35 GMT | Digital Forensics Case Study | Jignesh Hirani | [Read More](https://medium.com/p/6d981ef5d8f9) |
+| Mon, 03 Nov 2025 15:22:30 GMT | Las Vegas’taki Hacker Cenneti: DEFCON Nedir? | iremcebeci | [Read More](https://medium.com/p/198c56ea71fc) |
 | Mon, 03 Nov 2025 15:18:18 GMT | SSH Brute-Force Exploitation: A Step-by-Step Ethical Hacking Guide (Using AI) | Leroyanand | [Read More](https://medium.com/p/1022222db2f5) |
 | Mon, 03 Nov 2025 15:16:27 GMT | HTB Analytics (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/500b463a6303) |
+| Mon, 03 Nov 2025 15:12:26 GMT | Anatomy of Approval on Stage | Shu 秋 | [Read More](https://medium.com/p/0cd03181298a) |
 | Mon, 03 Nov 2025 15:08:02 GMT | Online Computation of Mean and Variance | Riccardo Giacinti | [Read More](https://medium.com/p/cd8d741c8e54) |
 | Mon, 03 Nov 2025 15:07:05 GMT | The Day a Smart Vacuum Turned Against Its Owner | Abatis ABTU | [Read More](https://medium.com/p/470e006f18f3) |
 | Mon, 03 Nov 2025 15:06:07 GMT | eJPT Prep: Assessment Methodologies: Enumeration CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/abcae2f525af) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 10:13:36 GMT | Tech Moves Faster Than You Can Blink | CyberCaptain‍✈️ | [Read More](https://medium.com/p/4c32670a66c7) |
 | Mon, 03 Nov 2025 10:12:14 GMT | How to recover your hacked account or device | Lucia Banjo | [Read More](https://medium.com/p/96acf0035818) |
 | Mon, 03 Nov 2025 10:10:24 GMT | Red Cybersecurity: A Strategic Approach to Securing Radio Equipment Design | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/22fe208c66de) |
-| Mon, 03 Nov 2025 10:08:47 GMT | How to Be Board-Ready on AI Risk in 48 Hours – Australian Edition | Axsaspty | [Read More](https://medium.com/p/8c20c8e3995c) |
-| Mon, 03 Nov 2025 09:56:22 GMT | DockerLabs Writeup — Mirame (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/292e90941914) |
-| Mon, 03 Nov 2025 09:51:44 GMT | The Cyber Pandemic: What Happens When the Internet Itself Gets Sick | Deepak Sharma | [Read More](https://medium.com/p/e2cb89f9ef46) |
-| Mon, 03 Nov 2025 09:49:38 GMT | Cybersecurity vs Ethical Hacking: How to recover your lost | Wesleyglenn | [Read More](https://medium.com/p/77383343598b) |
-| Mon, 03 Nov 2025 09:48:53 GMT | Browser Security Platforms — Securing the Browser as the New Endpoint | Jackdavis Iap | [Read More](https://medium.com/p/3c59c67cfd5a) |
-| Mon, 03 Nov 2025 09:46:57 GMT | Secure Highway to Your Private Server with Cloudflare Tunnel | Senuk Dias | [Read More](https://medium.com/p/49f74d3e5cd2) |
-| Mon, 03 Nov 2025 09:46:06 GMT | How Linux Found Me: An Origin Story in a Terminal Window | Fateyaly | [Read More](https://medium.com/p/779d283cbf7c) |
