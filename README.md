@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 11:03:12 GMT | How to Run .OVA Virtual Machine on Apple Silicon Using UTM (M1/M2/M3) | Dina | [Read More](https://medium.com/p/7a2a883697d4) |
+| Mon, 03 Nov 2025 11:01:55 GMT | Safe Payments, No Drama: Zapier + n8n | Modexa | [Read More](https://medium.com/p/de18e675775a) |
+| Mon, 03 Nov 2025 11:01:55 GMT | Guard the Flow: RBAC for n8n & Node-RED | Syntal | [Read More](https://medium.com/p/23f9a4a3e710) |
+| Mon, 03 Nov 2025 11:01:05 GMT | The Ultimate Web Reconnaissance Playbook — A Practical Step-by-Step Guide for Security Researchers | Kyrillos Kamal | [Read More](https://medium.com/p/aeaf13fad6d1) |
+| Mon, 03 Nov 2025 11:00:16 GMT | AltSchool Cloud Engineering Second Semester Examination Project | Ogochukwu Rita Asogwa | [Read More](https://medium.com/p/69e33b6ed298) |
+| Mon, 03 Nov 2025 10:58:55 GMT | USA Q3 2025 Cybersecurity Report — Key Threats & Insights | Cybersecurity News | [Read More](https://medium.com/p/15547962ac7e) |
+| Mon, 03 Nov 2025 10:51:55 GMT | C# Adventures in Constraint-Based Programming | Namir Sagheenanajar | [Read More](https://medium.com/p/ace1ecf5844a) |
+| Mon, 03 Nov 2025 10:50:56 GMT | Inside the Storm: A Cyber Defender’s View on China’s “Typhoon” Campaigns | Security Unfiltered | [Read More](https://medium.com/p/5015db1cc046) |
+| Mon, 03 Nov 2025 10:49:04 GMT | Huntress CTF 2025 Writeups Series: Part 1 | Mahmoud Matar | [Read More](https://medium.com/p/5d6daf998a3d) |
+| Mon, 03 Nov 2025 10:47:33 GMT | AI Agent Automations in Management Information Systems (MIS) | Sayed Emad | [Read More](https://medium.com/p/bf40fc46d6c9) |
+| Mon, 03 Nov 2025 10:36:54 GMT | Cybersecurity 11#: Cracking WPA/WPA2 Wi-Fi with Aircrack-ng and Crunch | mohandika | [Read More](https://medium.com/p/31713d7c53bc) |
 | Mon, 03 Nov 2025 10:34:32 GMT | Multi-Stage Loader Analysis: Dissecting a Targeted Phishing Campaign with Byte-Reversed Payload | ctwo2182 | [Read More](https://medium.com/p/3b846ee502a3) |
 | Mon, 03 Nov 2025 10:31:06 GMT | ️ Beyond the Gate: How to Choose the Best Security Guard Service in Trivandrum | Sambhu Sunil | [Read More](https://medium.com/p/7cfda763d68d) |
 | Mon, 03 Nov 2025 10:29:52 GMT | FastAPI + MCP + Permguard = Secure Agent | Antonio Radesca | [Read More](https://medium.com/p/c8f7c66023fd) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 06:20:37 GMT | Crypto Isn’t Your Security Strategy: Why Web3 Teams Still Get Breached Through Old-School Email | Aysha Saifi | [Read More](https://medium.com/p/776b461c6de8) |
 | Mon, 03 Nov 2025 06:05:14 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/a3090197b801) |
 | Mon, 03 Nov 2025 06:04:58 GMT | VAPT: The Silent Armor Protecting Your Digital Business | Devarshi Acharya | [Read More](https://medium.com/p/a62e4909ca41) |
-| Mon, 03 Nov 2025 05:56:47 GMT | Metasploit: Meterpreter — Writeup | Mahir | [Read More](https://medium.com/p/cca9ebc5a91a) |
-| Mon, 03 Nov 2025 05:56:04 GMT | Join Our Telegram Group for Free IT Courses & Books! | Metasys Innovations | [Read More](https://medium.com/p/f9d4f1fecaea) |
-| Mon, 03 Nov 2025 05:54:40 GMT | The War Against Myself | Nawab Khan | [Read More](https://medium.com/p/e7d9b81a38ee) |
-| Mon, 03 Nov 2025 05:52:27 GMT | Advanced Web Cache Poisoning: Beyond the Basics | Abhishek meena | [Read More](https://medium.com/p/3df645bcbf95) |
-| Mon, 03 Nov 2025 05:44:59 GMT | Cyber Security: Continuous Monitoring and Improvement | Cyber Security Research | [Read More](https://medium.com/p/600e938f6c6e) |
-| Mon, 03 Nov 2025 05:43:01 GMT | HTB ACADEMY Footprinting FTP | Tomasz Kozlowski | [Read More](https://medium.com/p/647c94ba6ab6) |
-| Mon, 03 Nov 2025 05:34:55 GMT | Cyber Security: Automating Security Tasks | Cyber Security Research | [Read More](https://medium.com/p/bfd9fd5831a0) |
-| Mon, 03 Nov 2025 05:27:33 GMT | EA to CSP Pricing Update 2025 Smooth Transition with - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/f00f7a3b9576) |
-| Mon, 03 Nov 2025 05:26:50 GMT | The Fire That Erased a Nation’s Memory | Victor Yan | [Read More](https://medium.com/p/e07baa775650) |
-| Mon, 03 Nov 2025 05:26:19 GMT | When Neural Networks Turn Rogue: The Hidden Threat of Backdoored AI | Shashi Pargaonkar | [Read More](https://medium.com/p/a722377b9075) |
-| Mon, 03 Nov 2025 05:01:56 GMT | Why Your Password Isn’t Safe — Even If It Looks Strong | CyberSafe Insights | [Read More](https://medium.com/p/4d6b1efe05da) |
