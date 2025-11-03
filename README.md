@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 19:15:59 GMT | The Bug Hunter’s Automator: Why Bash Scripting is Your Greatest Force Multiplier | Santhosh Adiga U | [Read More](https://medium.com/p/1200d26db7ab) |
+| Mon, 03 Nov 2025 19:12:14 GMT | Digital Leadership: Balancing Strategy, Technology, and Culture | Maximilian Maucher | [Read More](https://medium.com/p/871d86053415) |
+| Mon, 03 Nov 2025 19:03:47 GMT | The CIA Triad: The Secret Formula Behind Every Security System | DesiDev | [Read More](https://medium.com/p/68fd0dda7304) |
+| Mon, 03 Nov 2025 19:03:45 GMT | Why the 2024 Cloudflare Outage Taught Devs a Big Lesson | Liam | [Read More](https://medium.com/p/1ea633ec8b64) |
+| Mon, 03 Nov 2025 18:57:55 GMT | Whispers of the Forgotten Code | H3XH7WK | [Read More](https://medium.com/p/2bca6c0d8f49) |
+| Mon, 03 Nov 2025 18:57:24 GMT | The Next Identity Layer: Non-Human Identity (NHI) and Why AI Agents Need Intent Verification Before… | Jon Capriola | [Read More](https://medium.com/p/4a5dad42cc3b) |
+| Mon, 03 Nov 2025 18:50:57 GMT | LetsDefend Malware Analysis — -Event ID: 36 [SOC104 — Malware Detected] | Iftikaralom | [Read More](https://medium.com/p/2c5f17a6fb25) |
+| Mon, 03 Nov 2025 18:40:44 GMT | The Hidden Cost of Sharing Too Much Online | Musayyab Shah | [Read More](https://medium.com/p/35ac3ef2868c) |
 | Mon, 03 Nov 2025 18:33:23 GMT | The 3 AM Breakthrough: How a CTF Side Quest Unlocked a Critical Bug Bounty | Santhosh Adiga U | [Read More](https://medium.com/p/f548f98245fc) |
 | Mon, 03 Nov 2025 18:23:33 GMT | Is Termux a hacker’s Creative tool? Why Termux Is the Most Exciting App | Aditya Raj | [Read More](https://medium.com/p/3550b3bfb88f) |
 | Mon, 03 Nov 2025 18:21:05 GMT | Smarter Security in 2025: How Advanced Technology Is Transforming Guard Management and IT… | Teona | [Read More](https://medium.com/p/c8ad7dbddf64) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 13:43:47 GMT | Tutorial System / Host-Based Attacks CTF 2 | cl0ud.ini | [Read More](https://medium.com/p/ee699e2de1fc) |
 | Mon, 03 Nov 2025 13:36:17 GMT | CyberDefenders — ResourcePacks Lab | jon | [Read More](https://medium.com/p/ef749623a8c0) |
 | Mon, 03 Nov 2025 13:29:41 GMT | Driving Digital Success with Epicor Consulting in Houston by DESSS | DESSS Inc | [Read More](https://medium.com/p/8163a0282591) |
-| Mon, 03 Nov 2025 13:17:15 GMT | How to Build a Unified IaaS Security Checklist Aligned with CIS, NIST, and Zero Trust | Sidharth Jayaprakash | [Read More](https://medium.com/p/b58006af1c06) |
-| Mon, 03 Nov 2025 13:15:49 GMT | Balancer v2’s Overlooked Guard | OKcontract Chainwall | [Read More](https://medium.com/p/a6847a49e0a4) |
-| Mon, 03 Nov 2025 13:12:48 GMT | Transform Your Business with Expert GlobalShop Consulting Services in Houston by DESSS | DESSS Inc | [Read More](https://medium.com/p/76c566e02e1b) |
-| Mon, 03 Nov 2025 13:04:56 GMT | Portswigger Labs My Write-Up — Authentication Vulnerabilites | Chinonsopeter | [Read More](https://medium.com/p/d89bc64f9c0a) |
-| Mon, 03 Nov 2025 13:02:58 GMT | Why Cybersecurity Firms Won’t Hire You Unless You’re “One of Them” | Rohit Sharma | [Read More](https://medium.com/p/2b34a6acb18d) |
-| Mon, 03 Nov 2025 13:02:00 GMT | The Beginner’s Guide to Staying Anonymous Online | CyberSafe Insights | [Read More](https://medium.com/p/74faf9227bcc) |
-| Mon, 03 Nov 2025 13:00:39 GMT | My Cybersecurity Program for Small Businesses and Organizations | John Bandler | [Read More](https://medium.com/p/392205e1598b) |
-| Mon, 03 Nov 2025 12:45:19 GMT | Adobe’s $50 Million Gamble: Cracked in 48 Hours | Abdullah Javeed | [Read More](https://medium.com/p/65dcf6923d8e) |
