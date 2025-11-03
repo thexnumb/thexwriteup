@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 04:39:52 GMT | [OverTheWire] Bandit Level 31 → 32 | H$nt | [Read More](https://medium.com/p/895cbbc998cb) |
+| Mon, 03 Nov 2025 04:39:39 GMT | [OverTheWire] Bandit Level 30 → 31 | H$nt | [Read More](https://medium.com/p/98fec62b3c93) |
+| Mon, 03 Nov 2025 04:39:16 GMT | [OverTheWire] Bandit Level 29 → 30 | H$nt | [Read More](https://medium.com/p/050707cf9ad8) |
+| Mon, 03 Nov 2025 04:37:01 GMT | Defense in Depth vs. Audit in Depth: Designing Layered Assurance | Tharun Krishnamoorthy | [Read More](https://medium.com/p/bc6ba92e1d09) |
+| Mon, 03 Nov 2025 04:35:22 GMT | Master Windows Exploitation: Level-Up Your Pentesting Skills with Pentesterclub | Pentester Club | [Read More](https://medium.com/p/7fd2a6bdc1ad) |
+| Mon, 03 Nov 2025 04:34:52 GMT | Server-Side Discount Validation Bypass Enables Arbitrary Price Reduction | Ali Abdelhady | [Read More](https://medium.com/p/6336dfcea79e) |
+| Mon, 03 Nov 2025 04:27:49 GMT | Real-Time Threat Reaction in PHP With Lightweight Heuristics | Asian Digital Hub | [Read More](https://medium.com/p/a4fc08b37fdc) |
+| Mon, 03 Nov 2025 04:25:28 GMT | Dive into “Ghost Stack” — The CTF You Can’t Afford to Miss | Pentester Club | [Read More](https://medium.com/p/0bb628116b8d) |
+| Mon, 03 Nov 2025 04:23:39 GMT | PHP Integrity Tips That Detect Tampered Code Immediately | Asian Digital Hub | [Read More](https://medium.com/p/c13d40909dd5) |
+| Mon, 03 Nov 2025 04:19:47 GMT | Zero Trust Serialization in PHP - Safe Data Transport Tips | Asian Digital Hub | [Read More](https://medium.com/p/3ac9ea5a0567) |
+| Mon, 03 Nov 2025 04:09:56 GMT | Unlock Your Hacker Potential: The CTF Platform Every Bug Bounty Hunter Needs | Pentester Club | [Read More](https://medium.com/p/3d09ac1a9316) |
+| Mon, 03 Nov 2025 04:04:17 GMT | # ️ Best Free Antivirus Software for 2025 — Updated Deals & Renewal Tips | Tourej | [Read More](https://medium.com/p/a030c782e3b5) |
+| Mon, 03 Nov 2025 04:01:55 GMT | Automating GDPR Requests with n8n (Without Leaks) | Nexumo | [Read More](https://medium.com/p/12e6b96f425e) |
+| Mon, 03 Nov 2025 03:58:17 GMT | When Technology Feels Human: The Story Behind GuardSmart | Henry Jan | [Read More](https://medium.com/p/2789178f6239) |
+| Mon, 03 Nov 2025 03:57:46 GMT | Server Deployment: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/02d1de8021dc) |
 | Mon, 03 Nov 2025 03:49:03 GMT | Digital Shield: The “Noah’s Ark” of Web3 — A Deep Dive into Its Compatibility Architecture and… | Digital Shield Offcial | [Read More](https://medium.com/p/78b67099bfe4) |
 | Mon, 03 Nov 2025 03:41:47 GMT | Your Business is Cyber-Bait. Are You About to Accidentally Hand the Keys to Cybercriminals? | Jared Blaine | [Read More](https://medium.com/p/cfecef748e2a) |
 | Mon, 03 Nov 2025 03:33:35 GMT | Advanced XSS Defense: Detection, Prevention and Safe Code Examples ️ | Esra Kayhan | [Read More](https://medium.com/p/4ed0beff92ae) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 18:57:41 GMT | Nmap — The First Step Every Ethical Hacker Takes | Viratavi | [Read More](https://medium.com/p/2da1d356363e) |
 | Sun, 02 Nov 2025 18:47:18 GMT | Top 15 OSINT Tools | Nazrul Islam Rana | [Read More](https://medium.com/p/d2b7f2a0a6b7) |
 | Sun, 02 Nov 2025 18:26:12 GMT | The $1 Million Question for Architects: RBAC or ABAC? | BDhar | [Read More](https://medium.com/p/da2772faf80f) |
-| Sun, 02 Nov 2025 18:24:18 GMT | The Room With Too Many Doors | Hector Dotse Jr. | [Read More](https://medium.com/p/3ef1ea32c3cf) |
-| Sun, 02 Nov 2025 18:07:32 GMT | Understanding Kerberos — The heart of modern enterprise authentication — Part 1 | Aneesh Kulkarni | [Read More](https://medium.com/p/8c64968c5294) |
-| Sun, 02 Nov 2025 18:02:17 GMT | Incident Response — How SOC  Handle Cyber Incidents Step by Step | Huseyn Eyvazov | [Read More](https://medium.com/p/869bbc8ecbc6) |
-| Sun, 02 Nov 2025 18:00:54 GMT | An Introduction to Bug Haven (& some of my favorite bugs) | Bug Haven | [Read More](https://medium.com/p/272c64d191e9) |
-| Sun, 02 Nov 2025 17:57:13 GMT | Lack of security generates jobs, but at what cost? | Sergio | [Read More](https://medium.com/p/4d473f0bb61a) |
-| Sun, 02 Nov 2025 17:56:11 GMT | Bridging the Gap: Stored Procedures-Advantage and Limitations in Context of SQL Injection | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8a11924b27f3) |
-| Sun, 02 Nov 2025 17:52:54 GMT | Memory Forensics: Uncovering Attacker Secrets That Never Touch the Disk | Giorgi Akhobadze | [Read More](https://medium.com/p/caaa3294d1f1) |
-| Sun, 02 Nov 2025 17:49:59 GMT | FREAKSHOW DOCUMENTED PART 2: The Confession — When AI Gaslighting Became Self-Aware | Berend Watchus | [Read More](https://medium.com/p/5b3619fb2f0a) |
-| Sun, 02 Nov 2025 17:46:05 GMT | HackTheBox (HTB) — Web Fuzzing [Skill Assessment] | Aircon | [Read More](https://medium.com/p/2989ddc4df6e) |
-| Sun, 02 Nov 2025 17:45:40 GMT | Snort vs Zeek | Huseyn Eyvazov | [Read More](https://medium.com/p/1d0b548f11ae) |
-| Sun, 02 Nov 2025 17:34:03 GMT | Dendroid Android Zararlı Yazılım Analizi — 1 | Recep Emir | [Read More](https://medium.com/p/23e22a167709) |
-| Sun, 02 Nov 2025 17:33:03 GMT | Practical Toolkit for Reconnaissance and Quick Web-Surface Assessments | Huseyn Eyvazov | [Read More](https://medium.com/p/23acd94c4150) |
-| Sun, 02 Nov 2025 17:31:53 GMT | Exposed API Key and RSA Private Key in POS Frontend | Bytewreaker | [Read More](https://medium.com/p/2132f55b0acc) |
-| Sun, 02 Nov 2025 17:31:53 GMT | Log Smart: Privacy-First Zapier Integrations | Hash Block | [Read More](https://medium.com/p/12d83ec5ad7a) |
-| Sun, 02 Nov 2025 17:31:53 GMT | 3 Things I learnt from my first CTF win | Achintya | [Read More](https://medium.com/p/1025fed8c2de) |
