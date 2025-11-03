@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 18:21:05 GMT | Smarter Security in 2025: How Advanced Technology Is Transforming Guard Management and IT… | Teona | [Read More](https://medium.com/p/c8ad7dbddf64) |
+| Mon, 03 Nov 2025 18:17:54 GMT | The $122 Billion Blind Spot: Why AI Security Can’t Wait | Ramya Ganesh | [Read More](https://medium.com/p/ef72f0f20639) |
+| Mon, 03 Nov 2025 18:12:24 GMT | The Top 5 Reasons for Having Event Security & Executive Protection in Manhattan | The Safety Perspective | [Read More](https://medium.com/p/670364a89007) |
+| Mon, 03 Nov 2025 18:03:24 GMT | Project: End-to-End SIEM/SOAR Pipeline for Hybrid-Cloud Threat Detection | Tejas Parmar | [Read More](https://medium.com/p/065e5316e0e5) |
+| Mon, 03 Nov 2025 18:03:14 GMT | AI/ LLM Hacking -Part 5-Improper Output Handling | Darshan Naresh Naik | [Read More](https://medium.com/p/c6eaaba173f0) |
+| Mon, 03 Nov 2025 18:02:22 GMT | Hack From Home: Remote CTFs Without Breaking the Bank | NotProudOfIt | [Read More](https://medium.com/p/ba04580978c2) |
+| Mon, 03 Nov 2025 18:00:18 GMT | Stop the Reuse Habit: Length and Uniqueness Win the Password War! ️ | Max Farnga | [Read More](https://medium.com/p/64bbff268dd8) |
+| Mon, 03 Nov 2025 17:50:08 GMT | The Windows Forensic Journey — GRR (Google Rapid Response) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/66c946aa8fbe) |
+| Mon, 03 Nov 2025 17:41:29 GMT | Scared of Phishing? You Should Be. How AI-Powered Attacks Are Targeting Your Salesforce Data | Amanda Mc | [Read More](https://medium.com/p/89365486a8db) |
+| Mon, 03 Nov 2025 17:38:51 GMT | Beyond the Certifications: Finding Your Edge in Cybersecurity | Fabien Soulis | [Read More](https://medium.com/p/1f130761d335) |
 | Mon, 03 Nov 2025 17:36:17 GMT | 20 Cache Poisoning Case Study - Depth Analysis of Real-world Bug Reports | Abhishek meena | [Read More](https://medium.com/p/d6aa02a6a44f) |
 | Mon, 03 Nov 2025 17:33:59 GMT | College adventure #1: Cybersecurity and network protocols | Reinaldo Freitas | [Read More](https://medium.com/p/f8e497d08186) |
 | Mon, 03 Nov 2025 17:31:54 GMT | The End of Platformization in Cybersecurity? | Raheel Anwar | [Read More](https://medium.com/p/dbd222c79851) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 12:45:19 GMT | Adobe’s $50 Million Gamble: Cracked in 48 Hours | Abdullah Javeed | [Read More](https://medium.com/p/65dcf6923d8e) |
 | Mon, 03 Nov 2025 12:44:38 GMT | Achieve ISO 27001 Certification: The Ultimate Guide for Busy Startups | SecureSlate | [Read More](https://medium.com/p/8790b375564a) |
 | Mon, 03 Nov 2025 12:44:30 GMT | Managing Space Permissions and Access Levels | Erdem UÇAK | [Read More](https://medium.com/p/001859e2afc2) |
-| Mon, 03 Nov 2025 12:38:54 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/bfe2d68596c9) |
-| Mon, 03 Nov 2025 12:37:51 GMT | Event Security London: Ensuring Safe, Seamless, and Professional Events Across the Capital | waeventservices.co.uk/ | [Read More](https://medium.com/p/8a4c8934da1e) |
-| Mon, 03 Nov 2025 12:33:56 GMT | LDAP Integration: A Foundational Step Toward Unified Identity Management | Openiam | [Read More](https://medium.com/p/e14384b8b9a3) |
-| Mon, 03 Nov 2025 12:33:29 GMT | Boas práticas de segurança no Mobile | Edson Melo Souza | [Read More](https://medium.com/p/67844b1937b4) |
-| Mon, 03 Nov 2025 12:32:01 GMT | Empowering Businesses with IT Digital Transformation Consulting Services in Houston by DESSS | DESSS Inc | [Read More](https://medium.com/p/2ca3385ae628) |
-| Mon, 03 Nov 2025 12:31:38 GMT | Cybersecurity Reinvented: Zero Trust & AI Threat Defense | Job24by7 | [Read More](https://medium.com/p/258cc0d4df29) |
-| Mon, 03 Nov 2025 12:31:32 GMT | Detection as Code | Mostafa Moradian | [Read More](https://medium.com/p/f96ecdf581cf) |
-| Mon, 03 Nov 2025 12:30:03 GMT | The Complete Guide to ServiceNow Integration for Modern Enterprises | Alex s | [Read More](https://medium.com/p/b2ded85f950c) |
-| Mon, 03 Nov 2025 12:28:08 GMT | The Evolution of Policing: Science, Technology, and a New Generation of Crime Fighters | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/c9174db2b9f2) |
-| Mon, 03 Nov 2025 12:27:44 GMT | Is your mobile app safe? | Asif Ali | [Read More](https://medium.com/p/e6ae9949761d) |
