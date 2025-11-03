@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 09:42:15 GMT | They Hacked Windows Updates?! Inside the WSUS RCE Exploit CVE-2025–59287 | Motasem Hamdan | [Read More](https://medium.com/p/7c3fcc8fe3e8) |
+| Mon, 03 Nov 2025 09:31:57 GMT | A Glitch in the Pit Lane: How a Security Flaw Exposed Max Verstappen’s Passport Data | Devansh Patel | [Read More](https://medium.com/p/6c0bf92c4ec4) |
+| Mon, 03 Nov 2025 09:25:22 GMT | PostgreSQL SQL Injection Defense: Your 3-Week Implementation Guide (Part 2) | Shailesh Kumar Mishra | [Read More](https://medium.com/p/44dd330d2542) |
+| Mon, 03 Nov 2025 09:24:51 GMT | Cybereto CTF 2025 Qualification Web Writeup | Zaid Dbies | [Read More](https://medium.com/p/5afb2284773f) |
+| Mon, 03 Nov 2025 09:23:31 GMT | Making my home smart | Justus | [Read More](https://medium.com/p/fa428fd025ec) |
 | Mon, 03 Nov 2025 09:22:31 GMT | AA [Foolbox]: L2ProjectedGradientDescentAttack | Gaurav Solanki | [Read More](https://medium.com/p/2345850b2658) |
 | Mon, 03 Nov 2025 09:04:24 GMT | Breach — Hack The Box Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/0723409dcb7c) |
 | Mon, 03 Nov 2025 08:59:26 GMT | Matta4ck:Remote Code Execution (RCE) | Мартин. | [Read More](https://medium.com/p/e6a7e1fbd5de) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 03:57:46 GMT | Server Deployment: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/02d1de8021dc) |
 | Mon, 03 Nov 2025 03:49:03 GMT | Digital Shield: The “Noah’s Ark” of Web3 — A Deep Dive into Its Compatibility Architecture and… | Digital Shield Offcial | [Read More](https://medium.com/p/78b67099bfe4) |
 | Mon, 03 Nov 2025 03:41:47 GMT | Your Business is Cyber-Bait. Are You About to Accidentally Hand the Keys to Cybercriminals? | Jared Blaine | [Read More](https://medium.com/p/cfecef748e2a) |
-| Mon, 03 Nov 2025 03:33:35 GMT | Advanced XSS Defense: Detection, Prevention and Safe Code Examples ️ | Esra Kayhan | [Read More](https://medium.com/p/4ed0beff92ae) |
-| Mon, 03 Nov 2025 03:31:58 GMT | Cephalus Ransomware: How Attackers Exploit RDP and DLL Sideloading | Deven Chhajed | [Read More](https://medium.com/p/a76768e67a5d) |
-| Mon, 03 Nov 2025 03:31:25 GMT | Digital Shield Redefines Military-Grade Security and Asset Sovereignty in the Web3 Era with the… | Digital Shield Offcial | [Read More](https://medium.com/p/c849481da948) |
-| Mon, 03 Nov 2025 03:30:26 GMT | Tải Shadow Fight 2 Hack modlmh (Vô Hạn Tiền, Max Level) | TaiModApk | [Read More](https://medium.com/p/1f7fb1169450) |
-| Mon, 03 Nov 2025 03:30:11 GMT | RootMe — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/885eb18fa519) |
