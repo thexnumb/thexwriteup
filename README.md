@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 21:07:25 GMT | Race condition chained with logic bug leads to full bypass of free-plan site limit | Mahmoud Gamal | [Read More](https://medium.com/p/5825f5e2cb1c) |
+| Mon, 03 Nov 2025 21:04:59 GMT | صیغه فارس 09019170148صیغه آباده صیغه اقلید صیغه خرم بید صیغه بوانات صیغه پاسارگاد صیغه مرودشت صیغه… | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/0c3a5486ca5a) |
+| Mon, 03 Nov 2025 21:03:58 GMT | October 2025: Biggest Cyber Attacks, Ransomware Attacks Data Breaches | IT_Engineer | [Read More](https://medium.com/p/59a5fcd3d260) |
+| Mon, 03 Nov 2025 21:03:26 GMT | حلال زنجان09019170148 صیغه آب بر صیغه ماه نشان صیغه ابهر صیغه زرین آباد صیغه خرم دره صیغه قیدار | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/eeaaa3c99726) |
+| Mon, 03 Nov 2025 20:59:01 GMT | Memory Forensics Deep Dive: Investigating DLL Injection using Volatility | Aman Singh Parihar | [Read More](https://medium.com/p/a42b07441d7e) |
+| Mon, 03 Nov 2025 20:58:15 GMT | Perception Under Fire: The Evolution of Reputation in a Synthetic Age | Eric Vanderburg | [Read More](https://medium.com/p/38b09ba40eee) |
+| Mon, 03 Nov 2025 20:57:02 GMT | SOC239 — Remote Code Execution Detected in Splunk Enterprise (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/34b36bd92fff) |
+| Mon, 03 Nov 2025 20:48:04 GMT | Reviews On Your Work, Make or Break? | Rick Martino | [Read More](https://medium.com/p/375273b83380) |
+| Mon, 03 Nov 2025 20:46:36 GMT | Hash | Amir Hassan | [Read More](https://medium.com/p/b180e414ab32) |
+| Mon, 03 Nov 2025 20:45:37 GMT | Lessons from the 2025 Data Breach Wave: What Companies Missed | Nichelle Fields | [Read More](https://medium.com/p/a309ab58ed67) |
 | Mon, 03 Nov 2025 20:37:12 GMT | V1t CTF 2025 — Challenges Writeups | abdelruhmanaskar | [Read More](https://medium.com/p/cd86ec22ad62) |
 | Mon, 03 Nov 2025 20:30:08 GMT | 120 Days of Purple Teaming & Cloud Incident Response -Day 12 | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/17b35bf1c181) |
 | Mon, 03 Nov 2025 20:26:48 GMT | A Practical Guide to SSL/TLS Certificate Management with OpenSSL | biruk desta | [Read More](https://medium.com/p/c844d028b34f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 15:02:17 GMT | Cyber Briefing: 2025.11.03 | CyberMaterial | [Read More](https://medium.com/p/2abd7d1b5063) |
 | Mon, 03 Nov 2025 14:59:17 GMT | Why Money Won’t Fix Your Life (But These Things Will) | Global Whirl of Wonders | [Read More](https://medium.com/p/b379676ddc06) |
 | Mon, 03 Nov 2025 14:55:41 GMT | “The $7,500 Steam Wallet Hack: How Parameter Pollution Bypassed Payment Security” | Aman Sharma | [Read More](https://medium.com/p/ee7e0d155f93) |
-| Mon, 03 Nov 2025 14:52:23 GMT | How to Prove to Clients That Your Firm’s Cloud Is Secure: Certifications, Audits, and Building… | Josh Lee | [Read More](https://medium.com/p/31ad84594598) |
-| Mon, 03 Nov 2025 14:47:17 GMT | ☁️ Cloud Security Posture Management (CSPM) in AWS | Davebhargavi | [Read More](https://medium.com/p/593d02837e7a) |
-| Mon, 03 Nov 2025 14:46:02 GMT | My First Write-Up: Wallet Top-Up Refund Vulnerability (Found on a Real Target) | Mahdi Eidi | [Read More](https://medium.com/p/5f7554389a7a) |
-| Mon, 03 Nov 2025 14:39:06 GMT | Kipnappers in US Grab $8M: Biggest Threat to Crypto Holders in the Real World! | Cyber Strategy Institute | [Read More](https://medium.com/p/a166c81f01d5) |
-| Mon, 03 Nov 2025 14:38:53 GMT | Internet of Things — Input Analog (Tugas Program Termometer Digital) | Zifa Tea Azzahra | [Read More](https://medium.com/p/f82d4e235b09) |
-| Mon, 03 Nov 2025 14:38:44 GMT | Zaman Kazandıran Rehber: PRTG’de Device Template Oluşturma Adımları | kaanvardar | [Read More](https://medium.com/p/f9767f958c70) |
-| Mon, 03 Nov 2025 14:38:23 GMT | Profesionalisme dan Kode Etik di Era Teknologi Informasi dan Komunikasi (TIK) dan Generative… | Farrelian | [Read More](https://medium.com/p/e9fa03055d51) |
-| Mon, 03 Nov 2025 14:37:47 GMT | Meta’s Porn Problem, North Korea’s Hackers, and AI’s $3 Trillion Bubble: The Latest Tech Apocalypse | David Grice | [Read More](https://medium.com/p/812bbe61c36c) |
-| Mon, 03 Nov 2025 14:31:58 GMT | (Comptia A+) Virtual Private Networks (VPNs): Everything You Need to Know | Vignesh R | [Read More](https://medium.com/p/dfb6a4b01a73) |
-| Mon, 03 Nov 2025 14:31:57 GMT | Leaking Mobile Numbers via Base64 on Government Portal | Bytewreaker | [Read More](https://medium.com/p/c354277cbbc2) |
