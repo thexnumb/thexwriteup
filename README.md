@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 22:09:34 GMT | When “Delete Conversation” Is Just Theater (part 3 of the ‘FREAKSHOW’ series) | Berend Watchus | [Read More](https://medium.com/p/05aae2422e1d) |
+| Mon, 03 Nov 2025 22:05:54 GMT | Exploiting America’s Foster Youth: Part Three | William Gladden Foundation | [Read More](https://medium.com/p/9b98bf8b30f0) |
+| Mon, 03 Nov 2025 22:02:06 GMT | Welcome to the World of Defensive Security! | Tony Khalil Rodgers | [Read More](https://medium.com/p/12c79ce2af59) |
+| Mon, 03 Nov 2025 21:54:29 GMT | The Performance of Vulnerability: Why We Overshare But Still Feel Unseen | Sophia Avanzato | [Read More](https://medium.com/p/4159f125622e) |
 | Mon, 03 Nov 2025 21:34:25 GMT | Day 29 of my Cybersecurity Journey: Metasploit Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/82c5139d7fb0) |
 | Mon, 03 Nov 2025 21:34:08 GMT | How Inclusion Is Powering the Future of Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/82fdf57563d6) |
 | Mon, 03 Nov 2025 21:07:25 GMT | Race condition chained with logic bug leads to full bypass of free-plan site limit | Mahmoud Gamal | [Read More](https://medium.com/p/5825f5e2cb1c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 15:16:27 GMT | HTB Analytics (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/500b463a6303) |
 | Mon, 03 Nov 2025 15:12:26 GMT | Anatomy of Approval on Stage | Shu 秋 | [Read More](https://medium.com/p/0cd03181298a) |
 | Mon, 03 Nov 2025 15:08:02 GMT | Online Computation of Mean and Variance | Riccardo Giacinti | [Read More](https://medium.com/p/cd8d741c8e54) |
-| Mon, 03 Nov 2025 15:07:05 GMT | The Day a Smart Vacuum Turned Against Its Owner | Abatis ABTU | [Read More](https://medium.com/p/470e006f18f3) |
-| Mon, 03 Nov 2025 15:06:07 GMT | eJPT Prep: Assessment Methodologies: Enumeration CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/abcae2f525af) |
-| Mon, 03 Nov 2025 15:05:31 GMT | Research on location and dispersion measures | Riccardo Giacinti | [Read More](https://medium.com/p/915bd978fb72) |
-| Mon, 03 Nov 2025 15:02:17 GMT | Cyber Briefing: 2025.11.03 | CyberMaterial | [Read More](https://medium.com/p/2abd7d1b5063) |
