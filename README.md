@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 23:37:34 GMT | Proton Exposes 300 Million Stolen Credentials  49% Include Passwords | Nauman khan | [Read More](https://medium.com/p/ebd656ea8021) |
 | Mon, 03 Nov 2025 22:59:38 GMT | Strategic Myopia and Democratic Drift: Lessons from 3.11.25 | Josephine Schwab | [Read More](https://medium.com/p/058935e4ed8a) |
 | Mon, 03 Nov 2025 22:57:23 GMT | CISOs Can’t Do It Alone: Shared Accountability in Cybersecurity | Fook Hwa Tan | [Read More](https://medium.com/p/305e08be301c) |
 | Mon, 03 Nov 2025 22:57:12 GMT | Think Like a Hacker, Act Like a Leader: Our 3B Model Explained | Fook Hwa Tan | [Read More](https://medium.com/p/ba1fdbd810ed) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 15:41:34 GMT | What Is a CMS? Simple Explanation with Real-Life Examples (No Tech Jargon!) | Natarajan C K | [Read More](https://medium.com/p/1327bfe21509) |
 | Mon, 03 Nov 2025 15:41:17 GMT | Multi-Factor Authentication (MFA): The First Line of Defense in Cybersecurity | Ferdi Edogawa | [Read More](https://medium.com/p/4b7e95c3730f) |
 | Mon, 03 Nov 2025 15:35:04 GMT | Pipelines Now Hold the Power | Pranav | [Read More](https://medium.com/p/587bce7e60cc) |
-| Mon, 03 Nov 2025 15:34:27 GMT | Emerging Threat: Attackers Use MIME-Encoded Invisible Characters to Evade Email Filters | Himanshu Bhatt | [Read More](https://medium.com/p/44e073f5407e) |
