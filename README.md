@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 17:36:17 GMT | 20 Cache Poisoning Case Study - Depth Analysis of Real-world Bug Reports | Abhishek meena | [Read More](https://medium.com/p/d6aa02a6a44f) |
+| Mon, 03 Nov 2025 17:33:59 GMT | College adventure #1: Cybersecurity and network protocols | Reinaldo Freitas | [Read More](https://medium.com/p/f8e497d08186) |
+| Mon, 03 Nov 2025 17:31:54 GMT | The End of Platformization in Cybersecurity? | Raheel Anwar | [Read More](https://medium.com/p/dbd222c79851) |
+| Mon, 03 Nov 2025 17:31:15 GMT | Bounty Hacker  —  TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/5d5604823c52) |
+| Mon, 03 Nov 2025 17:19:47 GMT | Zero Trust: The Architecture of Modern Resilience (NIST & CISA Blueprint) | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/1ffc9f8a0471) |
+| Mon, 03 Nov 2025 17:18:24 GMT | The Power of Wazuh: Open-Source SIEM for Modern SOCs | Rushikesh Girase | [Read More](https://medium.com/p/222a78c23b33) |
+| Mon, 03 Nov 2025 17:18:12 GMT | The Quite Side of Cybersecurity | Danielle Koppel | [Read More](https://medium.com/p/615decad5a0b) |
 | Mon, 03 Nov 2025 17:17:17 GMT | Speaking the Language of Risk: Why IT Security Must Start with Business-Critical Applications | Fabien Soulis | [Read More](https://medium.com/p/73b750c49cbf) |
 | Mon, 03 Nov 2025 17:15:08 GMT | AI for Cybersecurity and Threat Detection | Rashadul Islam | [Read More](https://medium.com/p/0c0d89d4b5cc) |
 | Mon, 03 Nov 2025 17:11:58 GMT | ️ The 5 Pillars of Cybersecurity Every Professional Must Master | Code Link | [Read More](https://medium.com/p/7ab7127fa58d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 12:30:03 GMT | The Complete Guide to ServiceNow Integration for Modern Enterprises | Alex s | [Read More](https://medium.com/p/b2ded85f950c) |
 | Mon, 03 Nov 2025 12:28:08 GMT | The Evolution of Policing: Science, Technology, and a New Generation of Crime Fighters | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/c9174db2b9f2) |
 | Mon, 03 Nov 2025 12:27:44 GMT | Is your mobile app safe? | Asif Ali | [Read More](https://medium.com/p/e6ae9949761d) |
-| Mon, 03 Nov 2025 12:26:22 GMT | Agentic Detection Creation: From Sigma to Splunk Rules (or any platform) | Burak Karaduman | [Read More](https://medium.com/p/4697e13d9ee3) |
-| Mon, 03 Nov 2025 12:17:40 GMT | OpenAI Just Open-Sourced Safety Model That Reads Your Policies at Runtime | Pawel | [Read More](https://medium.com/p/cf063e817ee2) |
-| Mon, 03 Nov 2025 12:12:45 GMT | HTB When when the wire whispered Writeup — Hack The Boo 2025 | Syed Abdulrehman | [Read More](https://medium.com/p/be9ce1856e5e) |
-| Mon, 03 Nov 2025 12:10:22 GMT | Pwning Vibecoded Apps | Florian Walter | [Read More](https://medium.com/p/3d16b525d102) |
-| Mon, 03 Nov 2025 12:10:02 GMT | Why Every Hacker Loves Human Error | Arfa | [Read More](https://medium.com/p/309fc5ec5cd6) |
-| Mon, 03 Nov 2025 12:06:52 GMT | Project #14 of 21 — Compliance Gap Analysis Project (‘ISO 27001:2022 Annex A’ Edition) | Andrew Williams | [Read More](https://medium.com/p/0fc074bc8140) |
-| Mon, 03 Nov 2025 12:03:20 GMT | Approaching stealers devs: a brief interview with AURA | g0njxa | [Read More](https://medium.com/p/9b513369e117) |
