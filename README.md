@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 22:30:27 GMT | DNS Spoofing Attacks: When Names Lie | Bervice | [Read More](https://medium.com/p/20b5bb732dd4) |
+| Mon, 03 Nov 2025 22:29:59 GMT | Polkit: CVE-2021-3560 Tryhackme Walkthrough Answers | Jawstar | [Read More](https://medium.com/p/0b4935ea6e6d) |
+| Mon, 03 Nov 2025 22:29:04 GMT | My Review on ASCP: API Security Certified Professional | Vadim Vorochilov | [Read More](https://medium.com/p/4c4fc1a0f0b7) |
+| Mon, 03 Nov 2025 22:26:39 GMT | Why Packet Fuzzing is Still Valuable for Bug Bounties | Audrey Rowen | [Read More](https://medium.com/p/5e538f4777e5) |
+| Mon, 03 Nov 2025 22:25:40 GMT | Why I Chose Security+ | Secured By Sebastion | [Read More](https://medium.com/p/a28ad665776d) |
 | Mon, 03 Nov 2025 22:09:34 GMT | When “Delete Conversation” Is Just Theater (part 3 of the ‘FREAKSHOW’ series) | Berend Watchus | [Read More](https://medium.com/p/05aae2422e1d) |
 | Mon, 03 Nov 2025 22:05:54 GMT | Exploiting America’s Foster Youth: Part Three | William Gladden Foundation | [Read More](https://medium.com/p/9b98bf8b30f0) |
 | Mon, 03 Nov 2025 22:02:06 GMT | Welcome to the World of Defensive Security! | Tony Khalil Rodgers | [Read More](https://medium.com/p/12c79ce2af59) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 15:26:42 GMT | Essential Cybersecurity Facts and Figures | Awais Khan | [Read More](https://medium.com/p/848b39a79be0) |
 | Mon, 03 Nov 2025 15:23:59 GMT | Floorp — The Alternative Firefox-Based Web Browser | Balki Maharaj | [Read More](https://medium.com/p/eb6e55c102de) |
 | Mon, 03 Nov 2025 15:22:35 GMT | Digital Forensics Case Study | Jignesh Hirani | [Read More](https://medium.com/p/6d981ef5d8f9) |
-| Mon, 03 Nov 2025 15:22:30 GMT | Las Vegas’taki Hacker Cenneti: DEFCON Nedir? | iremcebeci | [Read More](https://medium.com/p/198c56ea71fc) |
-| Mon, 03 Nov 2025 15:18:18 GMT | SSH Brute-Force Exploitation: A Step-by-Step Ethical Hacking Guide (Using AI) | Leroyanand | [Read More](https://medium.com/p/1022222db2f5) |
-| Mon, 03 Nov 2025 15:16:27 GMT | HTB Analytics (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/500b463a6303) |
-| Mon, 03 Nov 2025 15:12:26 GMT | Anatomy of Approval on Stage | Shu 秋 | [Read More](https://medium.com/p/0cd03181298a) |
-| Mon, 03 Nov 2025 15:08:02 GMT | Online Computation of Mean and Variance | Riccardo Giacinti | [Read More](https://medium.com/p/cd8d741c8e54) |
