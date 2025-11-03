@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 10:34:32 GMT | Multi-Stage Loader Analysis: Dissecting a Targeted Phishing Campaign with Byte-Reversed Payload | ctwo2182 | [Read More](https://medium.com/p/3b846ee502a3) |
+| Mon, 03 Nov 2025 10:31:06 GMT | ️ Beyond the Gate: How to Choose the Best Security Guard Service in Trivandrum | Sambhu Sunil | [Read More](https://medium.com/p/7cfda763d68d) |
+| Mon, 03 Nov 2025 10:29:52 GMT | FastAPI + MCP + Permguard = Secure Agent | Antonio Radesca | [Read More](https://medium.com/p/c8f7c66023fd) |
+| Mon, 03 Nov 2025 10:27:46 GMT | RST TI Report Digest: 03 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/b28cc151fa96) |
 | Mon, 03 Nov 2025 10:15:54 GMT | The Best Tool to Discover and Manage SaaS usage | Arun Jyothi | [Read More](https://medium.com/p/739cd40180f6) |
 | Mon, 03 Nov 2025 10:13:36 GMT | Tech Moves Faster Than You Can Blink | CyberCaptain‍✈️ | [Read More](https://medium.com/p/4c32670a66c7) |
 | Mon, 03 Nov 2025 10:12:14 GMT | How to recover your hacked account or device | Lucia Banjo | [Read More](https://medium.com/p/96acf0035818) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 05:26:50 GMT | The Fire That Erased a Nation’s Memory | Victor Yan | [Read More](https://medium.com/p/e07baa775650) |
 | Mon, 03 Nov 2025 05:26:19 GMT | When Neural Networks Turn Rogue: The Hidden Threat of Backdoored AI | Shashi Pargaonkar | [Read More](https://medium.com/p/a722377b9075) |
 | Mon, 03 Nov 2025 05:01:56 GMT | Why Your Password Isn’t Safe — Even If It Looks Strong | CyberSafe Insights | [Read More](https://medium.com/p/4d6b1efe05da) |
-| Mon, 03 Nov 2025 05:00:34 GMT | Brooklyn Nine-Nine Write-up TryHackMe | iIyas | [Read More](https://medium.com/p/858f7f7f171b) |
-| Mon, 03 Nov 2025 04:50:51 GMT | APIs: The Backbone of Modern Software Communication | Jei Ess | [Read More](https://medium.com/p/7e86ca74b31a) |
-| Mon, 03 Nov 2025 04:39:52 GMT | [OverTheWire] Bandit Level 31 → 32 | H$nt | [Read More](https://medium.com/p/895cbbc998cb) |
-| Mon, 03 Nov 2025 04:39:39 GMT | [OverTheWire] Bandit Level 30 → 31 | H$nt | [Read More](https://medium.com/p/98fec62b3c93) |
