@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 03:12:29 GMT | Yes, Men Distance Themselves from a Woman They Love | Soledad Hernandez | [Read More](https://medium.com/p/f674414870ba) |
+| Mon, 03 Nov 2025 03:08:40 GMT | From Page to Payload: Turning Knowledge into Exploits the Right Way | Aj | [Read More](https://medium.com/p/b37ae314bfef) |
+| Mon, 03 Nov 2025 03:08:37 GMT | DeadFace CTF Writeup | Dominic Crippa | [Read More](https://medium.com/p/83315eb50459) |
+| Mon, 03 Nov 2025 02:42:46 GMT | Investigating a Compromised Azure Virtual Machine (VM) | Paritosh | [Read More](https://medium.com/p/0fd2605b048c) |
+| Mon, 03 Nov 2025 02:39:49 GMT | Cyber Security: Building a Strong Security Culture | Cyber Security Research | [Read More](https://medium.com/p/0277c8a392c3) |
+| Mon, 03 Nov 2025 02:39:38 GMT | Implementing Network Segmentation and Access Control to Mitigate Internal Threats | Iheanyichukwu Onyebuchi Okoronkwo | [Read More](https://medium.com/p/58477ef42abf) |
+| Mon, 03 Nov 2025 02:17:23 GMT | PortSwigger Labs: Race Conditions Writeup (ALL LABS) | awes0meness | [Read More](https://medium.com/p/4643cf6cb664) |
+| Mon, 03 Nov 2025 02:16:01 GMT | Terraform for AWS: Governing and Securing Your Cloud Environment | AWS And Terraform Management | [Read More](https://medium.com/p/97cee88464e7) |
+| Mon, 03 Nov 2025 02:15:49 GMT | Proving Grounds - AuthBy | jniket | [Read More](https://medium.com/p/7b18e87308be) |
+| Mon, 03 Nov 2025 02:11:37 GMT | How I Found a Stored XSS Vulnerability Through a PDF Upload | Abhishek sharma | [Read More](https://medium.com/p/75b4bbfbf9a3) |
+| Mon, 03 Nov 2025 02:01:59 GMT | How Kids at a Tech Expo Taught Me About the Future of Cybersecurity | Dr Ahmed Ibrahim | [Read More](https://medium.com/p/6514b88f93cc) |
+| Mon, 03 Nov 2025 01:56:41 GMT | PortSwigger Labs: Server Side Request Forgery (SSRF) Writeup (ALL LABS) | awes0meness | [Read More](https://medium.com/p/32ff711ea2dc) |
+| Mon, 03 Nov 2025 01:48:31 GMT | PortSwigger Labs: Prototype Pollution Writeup (All labs) | awes0meness | [Read More](https://medium.com/p/9a2534bc8e07) |
 | Mon, 03 Nov 2025 01:37:57 GMT | Ini Cara Gampang Bikin Sistem Jebol! | Jadi Hacker | [Read More](https://medium.com/p/ee7f8a507eea) |
 | Mon, 03 Nov 2025 01:37:20 GMT | A Hard Truth: America’s “Help” Has Never Brought Lasting Peace. | Abdullahi Jajere | [Read More](https://medium.com/p/554573437bb9) |
 | Mon, 03 Nov 2025 01:36:18 GMT | Invisible Entry Points: Why DNS, Ports, and IP Hygiene Define Web Security | Cybamatica | [Read More](https://medium.com/p/dbbb6fec9d16) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 16:51:33 GMT | Hi I am vyadaw and I am a passionate Cybersecurity professional with a strong focus on… | VYADAW (Vishal yadaw) | [Read More](https://medium.com/p/468f651f1651) |
 | Sun, 02 Nov 2025 16:37:28 GMT | Ghana’s Government IT System Failures: How we got here and what could be the way out. | Verge Financial Technologies | [Read More](https://medium.com/p/17f8cbea3ee8) |
 | Sun, 02 Nov 2025 16:37:12 GMT | Sigma to SIEM: A Practical Guide for Advanced Teams (2025) | VulnKraft | [Read More](https://medium.com/p/f7d2d3bd845f) |
-| Sun, 02 Nov 2025 16:34:36 GMT | 2FA Enforcement Bypass via Request Manipulation | Bytewreaker | [Read More](https://medium.com/p/36b2296788ec) |
-| Sun, 02 Nov 2025 16:32:06 GMT | DetectionStream: Introducing the Sigma Training Platform | Kostas | [Read More](https://medium.com/p/574721f18f45) |
-| Sun, 02 Nov 2025 16:29:10 GMT | The “Iceberg Effect”: Why the Man Who Told Me Everything on the First Date (Never Got a Second). | Mia Nor | [Read More](https://medium.com/p/07d21bfcf418) |
-| Sun, 02 Nov 2025 16:29:00 GMT | Internal API Credentials and Host Disclosure | Bytewreaker | [Read More](https://medium.com/p/a5ca1b26cc05) |
-| Sun, 02 Nov 2025 16:28:13 GMT | Driving Secure Innovation with Leading DevSecOps Companies | Vishwajeettechtech | [Read More](https://medium.com/p/c163d922efc6) |
-| Sun, 02 Nov 2025 16:25:07 GMT | TryHackMe Roadmap — Your Complete Cybersecurity Learning Path (Free & Updated) | cyberwinx | [Read More](https://medium.com/p/d0aedad2b2c7) |
-| Sun, 02 Nov 2025 16:23:27 GMT | How I Found Everything About a Stranger Using Only Google | Abdullah Javeed | [Read More](https://medium.com/p/ec7caeb2ea42) |
-| Sun, 02 Nov 2025 16:15:48 GMT | Do Security Cameras Need Wi-Fi? | Hayat Chowdhury | [Read More](https://medium.com/p/4674d937af10) |
-| Sun, 02 Nov 2025 16:15:12 GMT | Please Tell Me What Kind of Post You’d Like Me to Write. | Masumium | [Read More](https://medium.com/p/b8487fef01fc) |
-| Sun, 02 Nov 2025 16:11:56 GMT | TryHackMe: Sudo Security Bypass Room Writeup | Melisa Nyamukondiwa | [Read More](https://medium.com/p/d59ba7aef32a) |
-| Sun, 02 Nov 2025 15:58:08 GMT | How I Secured Multi-Environment Secrets Using AWS Secrets Manager and Parameter Store. | Rajesh Thakur | [Read More](https://medium.com/p/637b5afb893a) |
-| Sun, 02 Nov 2025 15:51:16 GMT | THM - Benign | Francesco Pastore | [Read More](https://medium.com/p/8ea6981bbbad) |
-| Sun, 02 Nov 2025 15:31:52 GMT | Major Data Leak: Proton Finds 300 Million Compromised Accounts | Himanshu Bhatt | [Read More](https://medium.com/p/34576467160c) |
