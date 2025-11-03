@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 05:27:33 GMT | EA to CSP Pricing Update 2025 Smooth Transition with - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/f00f7a3b9576) |
+| Mon, 03 Nov 2025 05:26:50 GMT | The Fire That Erased a Nation’s Memory | Victor Yan | [Read More](https://medium.com/p/e07baa775650) |
+| Mon, 03 Nov 2025 05:26:19 GMT | When Neural Networks Turn Rogue: The Hidden Threat of Backdoored AI | Shashi Pargaonkar | [Read More](https://medium.com/p/a722377b9075) |
 | Mon, 03 Nov 2025 05:01:56 GMT | Why Your Password Isn’t Safe — Even If It Looks Strong | CyberSafe Insights | [Read More](https://medium.com/p/4d6b1efe05da) |
 | Mon, 03 Nov 2025 05:00:34 GMT | Brooklyn Nine-Nine Write-up TryHackMe | iIyas | [Read More](https://medium.com/p/858f7f7f171b) |
 | Mon, 03 Nov 2025 04:50:51 GMT | APIs: The Backbone of Modern Software Communication | Jei Ess | [Read More](https://medium.com/p/7e86ca74b31a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 19:44:05 GMT | Vamp Byte #3 — SPF, DKIM & DMARC: The Trio That Guards Your Inbox | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/061de63c0627) |
 | Sun, 02 Nov 2025 19:39:13 GMT | Mastering Cloud Storage Forensics: Google Drive, OneDrive, Dropbox & Box Investigation Techniques | Dean | [Read More](https://medium.com/p/0cbe02cf5bad) |
 | Sun, 02 Nov 2025 19:28:33 GMT | The AI-Powered Analyst: Mastering Incident Investigation with Microsoft Security Copilot | Arsh Riz | [Read More](https://medium.com/p/03cbfe145973) |
-| Sun, 02 Nov 2025 19:24:15 GMT | Easy AWS — Basic Security | Antonella Blasetti | [Read More](https://medium.com/p/ff409b129e63) |
-| Sun, 02 Nov 2025 19:21:56 GMT | The Web’s Magician: An Intro to JavaScript Essentials with TryHackMe ✨ | Furkanctiner | [Read More](https://medium.com/p/286e9ad92d5f) |
-| Sun, 02 Nov 2025 19:18:47 GMT | HSTS: The Hidden Security Law Inside Your Browser | Mustafa Yücel | [Read More](https://medium.com/p/93acf23ec138) |
