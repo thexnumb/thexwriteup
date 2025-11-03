@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 13:29:41 GMT | Driving Digital Success with Epicor Consulting in Houston by DESSS | DESSS Inc | [Read More](https://medium.com/p/8163a0282591) |
+| Mon, 03 Nov 2025 13:17:15 GMT | How to Build a Unified IaaS Security Checklist Aligned with CIS, NIST, and Zero Trust | Sidharth Jayaprakash | [Read More](https://medium.com/p/b58006af1c06) |
+| Mon, 03 Nov 2025 13:15:49 GMT | Balancer v2’s Overlooked Guard | OKcontract Chainwall | [Read More](https://medium.com/p/a6847a49e0a4) |
+| Mon, 03 Nov 2025 13:12:48 GMT | Transform Your Business with Expert GlobalShop Consulting Services in Houston by DESSS | DESSS Inc | [Read More](https://medium.com/p/76c566e02e1b) |
+| Mon, 03 Nov 2025 13:04:56 GMT | Portswigger Labs My Write-Up — Authentication Vulnerabilites | Chinonsopeter | [Read More](https://medium.com/p/d89bc64f9c0a) |
+| Mon, 03 Nov 2025 13:02:58 GMT | Why Cybersecurity Firms Won’t Hire You Unless You’re “One of Them” | Rohit Sharma | [Read More](https://medium.com/p/2b34a6acb18d) |
+| Mon, 03 Nov 2025 13:02:00 GMT | The Beginner’s Guide to Staying Anonymous Online | CyberSafe Insights | [Read More](https://medium.com/p/74faf9227bcc) |
+| Mon, 03 Nov 2025 13:00:39 GMT | My Cybersecurity Program for Small Businesses and Organizations | John Bandler | [Read More](https://medium.com/p/392205e1598b) |
+| Mon, 03 Nov 2025 12:45:19 GMT | Adobe’s $50 Million Gamble: Cracked in 48 Hours | Abdullah Javeed | [Read More](https://medium.com/p/65dcf6923d8e) |
+| Mon, 03 Nov 2025 12:44:38 GMT | Achieve ISO 27001 Certification: The Ultimate Guide for Busy Startups | SecureSlate | [Read More](https://medium.com/p/8790b375564a) |
+| Mon, 03 Nov 2025 12:44:30 GMT | Managing Space Permissions and Access Levels | Erdem UÇAK | [Read More](https://medium.com/p/001859e2afc2) |
+| Mon, 03 Nov 2025 12:38:54 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/bfe2d68596c9) |
+| Mon, 03 Nov 2025 12:37:51 GMT | Event Security London: Ensuring Safe, Seamless, and Professional Events Across the Capital | waeventservices.co.uk/ | [Read More](https://medium.com/p/8a4c8934da1e) |
+| Mon, 03 Nov 2025 12:33:56 GMT | LDAP Integration: A Foundational Step Toward Unified Identity Management | Openiam | [Read More](https://medium.com/p/e14384b8b9a3) |
+| Mon, 03 Nov 2025 12:33:29 GMT | Boas práticas de segurança no Mobile | Edson Melo Souza | [Read More](https://medium.com/p/67844b1937b4) |
+| Mon, 03 Nov 2025 12:32:01 GMT | Empowering Businesses with IT Digital Transformation Consulting Services in Houston by DESSS | DESSS Inc | [Read More](https://medium.com/p/2ca3385ae628) |
 | Mon, 03 Nov 2025 12:31:38 GMT | Cybersecurity Reinvented: Zero Trust & AI Threat Defense | Job24by7 | [Read More](https://medium.com/p/258cc0d4df29) |
 | Mon, 03 Nov 2025 12:31:32 GMT | Detection as Code | Mostafa Moradian | [Read More](https://medium.com/p/f96ecdf581cf) |
 | Mon, 03 Nov 2025 12:30:03 GMT | The Complete Guide to ServiceNow Integration for Modern Enterprises | Alex s | [Read More](https://medium.com/p/b2ded85f950c) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 07:46:45 GMT | Master Forensic-Evasion Techniques for Red Teamers: Actionable Tactics for Staying Undetected | Very Lazy Tech | [Read More](https://medium.com/p/3123667b8f49) |
 | Mon, 03 Nov 2025 07:44:06 GMT | CyberSecOp: Leading the Way in Cyber Response and IT Security Services | Jeffery Walker | [Read More](https://medium.com/p/fca1d3f78bcb) |
 | Mon, 03 Nov 2025 07:43:35 GMT | Security and Governance in AI Agent Architectures | Dreamy Pujara | [Read More](https://medium.com/p/07a7a9dab81d) |
-| Mon, 03 Nov 2025 07:42:28 GMT | How I Found an Unauthenticated Jira API Endpoint Leaking Internal Build Data | Dipanshu Chhanikar | [Read More](https://medium.com/p/2d1dcf10f181) |
-| Mon, 03 Nov 2025 07:41:05 GMT | Top 15 Mobile Hacking Tools for Android and iOS Testing | Manisha Chaudhary | [Read More](https://medium.com/p/f7698ce18b61) |
-| Mon, 03 Nov 2025 07:40:38 GMT | Top 10 Cyber Crimes That Shocked the World | Manisha Chaudhary | [Read More](https://medium.com/p/f3bf025aad25) |
-| Mon, 03 Nov 2025 07:37:54 GMT | The Songs Of Silent Men — Jaachimma Anyatonwu | Words Not yet Spoken | [Read More](https://medium.com/p/6e8c72e3731f) |
-| Mon, 03 Nov 2025 07:36:53 GMT | The Professional Investigator’s New Playbook: Essential Advice from Mike LaCorte | The Beyond the Boardroom Podcast | [Read More](https://medium.com/p/d2e0de32ef5f) |
-| Mon, 03 Nov 2025 07:35:50 GMT | How to Protect WordPress with Fail2ban and Cloudflare | Smit Pipaliya | [Read More](https://medium.com/p/b85880fd76ec) |
-| Mon, 03 Nov 2025 07:32:18 GMT | Common Containers Security Violations — #2 Kubernetes Role or Cluster Role Bound to Default… | Mohamed Harris Peer Mohamed | [Read More](https://medium.com/p/c4aa40aa6fb7) |
-| Mon, 03 Nov 2025 07:30:03 GMT | Nomad Security & Backup Stack: Never Lose Work Again | Paran | [Read More](https://medium.com/p/7984ab137113) |
-| Mon, 03 Nov 2025 07:25:24 GMT | The Future of Wireless Attack Surfaces: Trends in AI-Enabled Signal Spoofing and Defence | Michael Preston | [Read More](https://medium.com/p/928fdfd88fac) |
-| Mon, 03 Nov 2025 07:17:34 GMT | How CyberSecOp’s Cyber Security Services Strengthen Your Organization’s Digital Defense | Jeffery Walker | [Read More](https://medium.com/p/6a93fac2fd70) |
-| Mon, 03 Nov 2025 07:17:30 GMT | Secure Your Future: SGS Cybersecurity Services | SGS India | [Read More](https://medium.com/p/fb611b77d225) |
-| Mon, 03 Nov 2025 07:12:27 GMT | The CIA Triad: Confidentiality, Integrity, and Availability in Practice | Samina Perveen | [Read More](https://medium.com/p/5c8d3686c669) |
-| Mon, 03 Nov 2025 07:07:04 GMT | API Key Rotation Patterns in Spring Boot Security Layers | Alexander Obregon | [Read More](https://medium.com/p/1815e93cef37) |
-| Mon, 03 Nov 2025 07:04:54 GMT | Writeup: Vulnserver Remote Code Execution via TRUN() function | scr1++y | [Read More](https://medium.com/p/df81f087160c) |
-| Mon, 03 Nov 2025 06:57:30 GMT | Preparing 7-Eleven for the Next Wave of Cyber Threats — Credential Exposure, Ransomware Risks, and… | David SEHYEON Baek | [Read More](https://medium.com/p/69919e174217) |
-| Mon, 03 Nov 2025 06:56:47 GMT | The Daily Tech Digest: 03 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d15eead0d3a3) |
