@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 22:59:38 GMT | Strategic Myopia and Democratic Drift: Lessons from 3.11.25 | Josephine Schwab | [Read More](https://medium.com/p/058935e4ed8a) |
+| Mon, 03 Nov 2025 22:57:23 GMT | CISOs Can’t Do It Alone: Shared Accountability in Cybersecurity | Fook Hwa Tan | [Read More](https://medium.com/p/305e08be301c) |
+| Mon, 03 Nov 2025 22:57:12 GMT | Think Like a Hacker, Act Like a Leader: Our 3B Model Explained | Fook Hwa Tan | [Read More](https://medium.com/p/ba1fdbd810ed) |
+| Mon, 03 Nov 2025 22:51:01 GMT | Hashing- What is it, how to create it, and how to spot it. (PowerShell Version) | Jenna S | [Read More](https://medium.com/p/eed6c50dd76a) |
 | Mon, 03 Nov 2025 22:30:27 GMT | DNS Spoofing Attacks: When Names Lie | Bervice | [Read More](https://medium.com/p/20b5bb732dd4) |
 | Mon, 03 Nov 2025 22:29:59 GMT | Polkit: CVE-2021-3560 Tryhackme Walkthrough Answers | Jawstar | [Read More](https://medium.com/p/0b4935ea6e6d) |
 | Mon, 03 Nov 2025 22:29:04 GMT | My Review on ASCP: API Security Certified Professional | Vadim Vorochilov | [Read More](https://medium.com/p/4c4fc1a0f0b7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 15:41:17 GMT | Multi-Factor Authentication (MFA): The First Line of Defense in Cybersecurity | Ferdi Edogawa | [Read More](https://medium.com/p/4b7e95c3730f) |
 | Mon, 03 Nov 2025 15:35:04 GMT | Pipelines Now Hold the Power | Pranav | [Read More](https://medium.com/p/587bce7e60cc) |
 | Mon, 03 Nov 2025 15:34:27 GMT | Emerging Threat: Attackers Use MIME-Encoded Invisible Characters to Evade Email Filters | Himanshu Bhatt | [Read More](https://medium.com/p/44e073f5407e) |
-| Mon, 03 Nov 2025 15:32:12 GMT | Praktikum Internet of Things: Input Analog | Muhammad Surya Saputro | [Read More](https://medium.com/p/630a599eb641) |
-| Mon, 03 Nov 2025 15:26:42 GMT | Essential Cybersecurity Facts and Figures | Awais Khan | [Read More](https://medium.com/p/848b39a79be0) |
-| Mon, 03 Nov 2025 15:23:59 GMT | Floorp — The Alternative Firefox-Based Web Browser | Balki Maharaj | [Read More](https://medium.com/p/eb6e55c102de) |
-| Mon, 03 Nov 2025 15:22:35 GMT | Digital Forensics Case Study | Jignesh Hirani | [Read More](https://medium.com/p/6d981ef5d8f9) |
