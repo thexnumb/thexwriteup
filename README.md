@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 14:15:12 GMT | PostgreSQL and Machine Learning: Integrating TensorFlow with Your Database | Rizqi Mulki | [Read More](https://medium.com/p/e0ac1ad7623c) |
+| Mon, 03 Nov 2025 14:11:01 GMT | 3 Proven Ways to Strengthen Your Cyber Defense Before the Next Attack | CoopSys | [Read More](https://medium.com/p/5495248fab3c) |
+| Mon, 03 Nov 2025 14:10:15 GMT | Why I Always Monitor Outbound Connections on Linux (And What They Reveal) | Faruk Ahmed | [Read More](https://medium.com/p/7a809476c971) |
+| Mon, 03 Nov 2025 14:07:37 GMT | Stop Trying to Become a Hacker, Start Becoming a Technician | Michimess | [Read More](https://medium.com/p/12d40265b405) |
+| Mon, 03 Nov 2025 14:06:44 GMT | Making Security Reviews Scalable: A Modern Approach for Product Security Teams | Mehdi Khalilzadeh | [Read More](https://medium.com/p/95ae72952c3b) |
+| Mon, 03 Nov 2025 14:01:55 GMT | Day 2: picoCTF 2019 — Easy1 (Cryptography) | Siyam | [Read More](https://medium.com/p/73b011e9f859) |
+| Mon, 03 Nov 2025 14:01:40 GMT | Ransomware in India: Why Every Company Is Now a Target | Prerna Shukla | [Read More](https://medium.com/p/32ff6a99fa3d) |
+| Mon, 03 Nov 2025 14:01:40 GMT | Silver Platter Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/a97dc06e1906) |
+| Mon, 03 Nov 2025 13:59:51 GMT | CVE-2025–63243: Reflected Cross-Site Scripting in loginAlterarSenha.asp via sle_sLogin parameter | Wagner Alves | [Read More](https://medium.com/p/53808fbbeeee) |
+| Mon, 03 Nov 2025 13:57:42 GMT | 6. Advantages of Each | Rana Awais | [Read More](https://medium.com/p/79fd6be3e6da) |
+| Mon, 03 Nov 2025 13:55:44 GMT | Topic 44 – CSS Flexbox vs CSS Grid | Rana Awais | [Read More](https://medium.com/p/9a2f48b86b79) |
+| Mon, 03 Nov 2025 13:54:40 GMT | How to Automate Vulnerability Scanning for Your Servers with Python | David Massiha | [Read More](https://medium.com/p/88370983ad68) |
+| Mon, 03 Nov 2025 13:53:07 GMT | 10 Real PostgreSQL Tuning Mistakes You’ll Regret Ignoring | Rizqi Mulki | [Read More](https://medium.com/p/1326a819862f) |
+| Mon, 03 Nov 2025 13:51:55 GMT | SentryPC and Cybersecurity: Protecting Data Without Micromanaging Employees | Paul Meyer | [Read More](https://medium.com/p/c27c812d5875) |
+| Mon, 03 Nov 2025 13:51:08 GMT | 6. Aligning Content | Rana Awais | [Read More](https://medium.com/p/4c3206ff3495) |
+| Mon, 03 Nov 2025 13:43:47 GMT | Tutorial System / Host-Based Attacks CTF 2 | cl0ud.ini | [Read More](https://medium.com/p/ee699e2de1fc) |
+| Mon, 03 Nov 2025 13:36:17 GMT | CyberDefenders — ResourcePacks Lab | jon | [Read More](https://medium.com/p/ef749623a8c0) |
 | Mon, 03 Nov 2025 13:29:41 GMT | Driving Digital Success with Epicor Consulting in Houston by DESSS | DESSS Inc | [Read More](https://medium.com/p/8163a0282591) |
 | Mon, 03 Nov 2025 13:17:15 GMT | How to Build a Unified IaaS Security Checklist Aligned with CIS, NIST, and Zero Trust | Sidharth Jayaprakash | [Read More](https://medium.com/p/b58006af1c06) |
 | Mon, 03 Nov 2025 13:15:49 GMT | Balancer v2’s Overlooked Guard | OKcontract Chainwall | [Read More](https://medium.com/p/a6847a49e0a4) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 08:44:51 GMT | Why Security Is a Leadership Issue — Not Just an IT Concern | Fook Hwa Tan | [Read More](https://medium.com/p/9229a9baef5b) |
 | Mon, 03 Nov 2025 08:44:20 GMT | What AI Means for Cybersecurity Threats Next Year | Global CCTV Monitoring Services | [Read More](https://medium.com/p/801a936c39e9) |
 | Mon, 03 Nov 2025 08:40:39 GMT | Russia’s Surveillance Paradox: Total Control Meets Total Chaos | Anton Merkurov | [Read More](https://medium.com/p/683601ca1b14) |
-| Mon, 03 Nov 2025 08:34:18 GMT | Managing Certificates on Windows with a Single Native Tool — A POC | Antonio Francesco Gentile | [Read More](https://medium.com/p/0e2240e888bb) |
-| Mon, 03 Nov 2025 08:32:44 GMT | When DeFi Meets Regulation: How Traders Adapt in the New AML Era | QuppyAMLBOT | [Read More](https://medium.com/p/1507322aff90) |
-| Mon, 03 Nov 2025 08:28:22 GMT | Protect Your Personal Website: Easy Server Security with Suricata | Andrew Keitany | [Read More](https://medium.com/p/a30e9fb886a3) |
-| Mon, 03 Nov 2025 08:18:30 GMT | How a Null Byte Unlocked a $XXXX Bounty: My Reflected XSS Story | Santhosh Adiga U | [Read More](https://medium.com/p/cb1b94f8ea12) |
-| Mon, 03 Nov 2025 08:14:57 GMT | Why You Should Learn Ethical Hacking | Christie | [Read More](https://medium.com/p/3f9eda661f7c) |
-| Mon, 03 Nov 2025 08:08:57 GMT | AI-Powered Cyber Attacks | Tech Journal | [Read More](https://medium.com/p/552046223dda) |
-| Mon, 03 Nov 2025 08:06:01 GMT | The QA Chronicles #0 — Welcome to the Journey of Quality | Marisa Bernardo | [Read More](https://medium.com/p/5eae35f828ad) |
-| Mon, 03 Nov 2025 08:03:51 GMT | How Hidden Unicode Reveals AI-Generated Text | Zvi Azran | [Read More](https://medium.com/p/75a56a3eb6ea) |
-| Mon, 03 Nov 2025 08:02:23 GMT | Why Haniit Is Dubai’s Smartest Security Choice | Abhilashtec | [Read More](https://medium.com/p/8f5178439f64) |
-| Mon, 03 Nov 2025 07:54:20 GMT | Meet Aardvark: OpenAI’s Guardian AI That Hunts Bugs Before Hackers Do | The AIsh | [Read More](https://medium.com/p/48713224e1c5) |
-| Mon, 03 Nov 2025 07:49:39 GMT | پاکستان میں5G سمز کی تقسیم کا آغاز جلد
-دسمبر سے نئی رفتار، نیا دور 5G پاکستان میں! | Zarq Waleed Zeb | [Read More](https://medium.com/p/90e3fe0b2725) |
-| Mon, 03 Nov 2025 07:49:17 GMT | Critical IOS XE Exposure: Australia Warns of Renewed “BADCANDY” Web-Shell Intrusions | Germano Costi | [Read More](https://medium.com/p/3b78f128d4c1) |
-| Mon, 03 Nov 2025 07:48:53 GMT | Mastering File Uploads in React Native: A Step‑by‑Step Guide | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/42d40b064bbf) |
-| Mon, 03 Nov 2025 07:48:35 GMT | Building Facade Cleaning and Janitorial Service Companies in KSA: Where Professional Care Meets… | Asna Futorics | [Read More](https://medium.com/p/fabec7cf3ae6) |
-| Mon, 03 Nov 2025 07:46:45 GMT | Master Forensic-Evasion Techniques for Red Teamers: Actionable Tactics for Staying Undetected | Very Lazy Tech | [Read More](https://medium.com/p/3123667b8f49) |
-| Mon, 03 Nov 2025 07:44:06 GMT | CyberSecOp: Leading the Way in Cyber Response and IT Security Services | Jeffery Walker | [Read More](https://medium.com/p/fca1d3f78bcb) |
-| Mon, 03 Nov 2025 07:43:35 GMT | Security and Governance in AI Agent Architectures | Dreamy Pujara | [Read More](https://medium.com/p/07a7a9dab81d) |
