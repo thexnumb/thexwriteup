@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 08:18:30 GMT | How a Null Byte Unlocked a $XXXX Bounty: My Reflected XSS Story | Santhosh Adiga U | [Read More](https://medium.com/p/cb1b94f8ea12) |
+| Mon, 03 Nov 2025 08:14:57 GMT | Why You Should Learn Ethical Hacking | Christie | [Read More](https://medium.com/p/3f9eda661f7c) |
+| Mon, 03 Nov 2025 08:08:57 GMT | AI-Powered Cyber Attacks | Tech Journal | [Read More](https://medium.com/p/552046223dda) |
+| Mon, 03 Nov 2025 08:06:01 GMT | The QA Chronicles #0 — Welcome to the Journey of Quality | Marisa Bernardo | [Read More](https://medium.com/p/5eae35f828ad) |
+| Mon, 03 Nov 2025 08:03:51 GMT | How Hidden Unicode Reveals AI-Generated Text | Zvi Azran | [Read More](https://medium.com/p/75a56a3eb6ea) |
+| Mon, 03 Nov 2025 08:02:23 GMT | Why Haniit Is Dubai’s Smartest Security Choice | Abhilashtec | [Read More](https://medium.com/p/8f5178439f64) |
+| Mon, 03 Nov 2025 07:54:20 GMT | Meet Aardvark: OpenAI’s Guardian AI That Hunts Bugs Before Hackers Do | The AIsh | [Read More](https://medium.com/p/48713224e1c5) |
+| Mon, 03 Nov 2025 07:49:39 GMT | پاکستان میں5G سمز کی تقسیم کا آغاز جلد
+دسمبر سے نئی رفتار، نیا دور 5G پاکستان میں! | Zarq Waleed Zeb | [Read More](https://medium.com/p/90e3fe0b2725) |
+| Mon, 03 Nov 2025 07:49:17 GMT | Critical IOS XE Exposure: Australia Warns of Renewed “BADCANDY” Web-Shell Intrusions | Germano Costi | [Read More](https://medium.com/p/3b78f128d4c1) |
+| Mon, 03 Nov 2025 07:48:53 GMT | Mastering File Uploads in React Native: A Step‑by‑Step Guide | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/42d40b064bbf) |
+| Mon, 03 Nov 2025 07:48:35 GMT | Building Facade Cleaning and Janitorial Service Companies in KSA: Where Professional Care Meets… | Asna Futorics | [Read More](https://medium.com/p/fabec7cf3ae6) |
+| Mon, 03 Nov 2025 07:46:45 GMT | Master Forensic-Evasion Techniques for Red Teamers: Actionable Tactics for Staying Undetected | Very Lazy Tech | [Read More](https://medium.com/p/3123667b8f49) |
+| Mon, 03 Nov 2025 07:44:06 GMT | CyberSecOp: Leading the Way in Cyber Response and IT Security Services | Jeffery Walker | [Read More](https://medium.com/p/fca1d3f78bcb) |
+| Mon, 03 Nov 2025 07:43:35 GMT | Security and Governance in AI Agent Architectures | Dreamy Pujara | [Read More](https://medium.com/p/07a7a9dab81d) |
+| Mon, 03 Nov 2025 07:42:28 GMT | How I Found an Unauthenticated Jira API Endpoint Leaking Internal Build Data | Dipanshu Chhanikar | [Read More](https://medium.com/p/2d1dcf10f181) |
+| Mon, 03 Nov 2025 07:41:05 GMT | Top 15 Mobile Hacking Tools for Android and iOS Testing | Manisha Chaudhary | [Read More](https://medium.com/p/f7698ce18b61) |
+| Mon, 03 Nov 2025 07:40:38 GMT | Top 10 Cyber Crimes That Shocked the World | Manisha Chaudhary | [Read More](https://medium.com/p/f3bf025aad25) |
 | Mon, 03 Nov 2025 07:37:54 GMT | The Songs Of Silent Men — Jaachimma Anyatonwu | Words Not yet Spoken | [Read More](https://medium.com/p/6e8c72e3731f) |
+| Mon, 03 Nov 2025 07:36:53 GMT | The Professional Investigator’s New Playbook: Essential Advice from Mike LaCorte | The Beyond the Boardroom Podcast | [Read More](https://medium.com/p/d2e0de32ef5f) |
+| Mon, 03 Nov 2025 07:35:50 GMT | How to Protect WordPress with Fail2ban and Cloudflare | Smit Pipaliya | [Read More](https://medium.com/p/b85880fd76ec) |
+| Mon, 03 Nov 2025 07:32:18 GMT | Common Containers Security Violations — #2 Kubernetes Role or Cluster Role Bound to Default… | Mohamed Harris Peer Mohamed | [Read More](https://medium.com/p/c4aa40aa6fb7) |
 | Mon, 03 Nov 2025 07:30:03 GMT | Nomad Security & Backup Stack: Never Lose Work Again | Paran | [Read More](https://medium.com/p/7984ab137113) |
 | Mon, 03 Nov 2025 07:25:24 GMT | The Future of Wireless Attack Surfaces: Trends in AI-Enabled Signal Spoofing and Defence | Michael Preston | [Read More](https://medium.com/p/928fdfd88fac) |
 | Mon, 03 Nov 2025 07:17:34 GMT | How CyberSecOp’s Cyber Security Services Strengthen Your Organization’s Digital Defense | Jeffery Walker | [Read More](https://medium.com/p/6a93fac2fd70) |
@@ -34,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 06:35:20 GMT | Day 11 Building a CloudTrail Pipeline with Filebeat (S3 → SQS → Elasticsearch) | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/bfe60e70bb17) |
 | Mon, 03 Nov 2025 06:33:46 GMT | Studi Kasus VAPT: Membedah OWASP Juice Shop | Zulfianarahmi | [Read More](https://medium.com/p/39eb210b0af8) |
 | Mon, 03 Nov 2025 06:33:18 GMT | Protecting Your Digital Presence: Why Website Security Hygiene Matters | Cyber Shieldpro | [Read More](https://medium.com/p/2ebc86e4db41) |
+| Mon, 03 Nov 2025 06:32:12 GMT | Mengenal ISO/IEC 38500 dan 27001: Standar Penting dalam Tata Kelola dan Keamanan TI | Valencia L Tobing | [Read More](https://medium.com/p/5bd7082d5ca4) |
 | Mon, 03 Nov 2025 06:26:22 GMT | Certs vs Experience in IT & Cyber Security: How Employers Really Weigh Them | Vijay Kumar Gupta | [Read More](https://medium.com/p/a1c579b3bcfe) |
 | Mon, 03 Nov 2025 06:25:29 GMT | Is XBOW Taking Over Hacking Jobs? | Monu Jangra | [Read More](https://medium.com/p/dc8a6991c1fd) |
 | Mon, 03 Nov 2025 06:24:36 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/dda99988859c) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 02:16:01 GMT | Terraform for AWS: Governing and Securing Your Cloud Environment | AWS And Terraform Management | [Read More](https://medium.com/p/97cee88464e7) |
 | Mon, 03 Nov 2025 02:15:49 GMT | Proving Grounds - AuthBy | jniket | [Read More](https://medium.com/p/7b18e87308be) |
 | Mon, 03 Nov 2025 02:11:37 GMT | How I Found a Stored XSS Vulnerability Through a PDF Upload | Abhishek sharma | [Read More](https://medium.com/p/75b4bbfbf9a3) |
-| Mon, 03 Nov 2025 02:01:59 GMT | How Kids at a Tech Expo Taught Me About the Future of Cybersecurity | Dr Ahmed Ibrahim | [Read More](https://medium.com/p/6514b88f93cc) |
-| Mon, 03 Nov 2025 01:56:41 GMT | PortSwigger Labs: Server Side Request Forgery (SSRF) Writeup (ALL LABS) | awes0meness | [Read More](https://medium.com/p/32ff711ea2dc) |
-| Mon, 03 Nov 2025 01:48:31 GMT | PortSwigger Labs: Prototype Pollution Writeup (All labs) | awes0meness | [Read More](https://medium.com/p/9a2534bc8e07) |
-| Mon, 03 Nov 2025 01:37:57 GMT | Ini Cara Gampang Bikin Sistem Jebol! | Jadi Hacker | [Read More](https://medium.com/p/ee7f8a507eea) |
-| Mon, 03 Nov 2025 01:37:20 GMT | A Hard Truth: America’s “Help” Has Never Brought Lasting Peace. | Abdullahi Jajere | [Read More](https://medium.com/p/554573437bb9) |
-| Mon, 03 Nov 2025 01:36:18 GMT | Invisible Entry Points: Why DNS, Ports, and IP Hygiene Define Web Security | Cybamatica | [Read More](https://medium.com/p/dbbb6fec9d16) |
-| Mon, 03 Nov 2025 01:26:52 GMT | How to Achieve Truly Fulfilling Intimate Relationships | Hanpis | [Read More](https://medium.com/p/fbd51290978d) |
-| Mon, 03 Nov 2025 01:14:35 GMT | The Digital Hoarder’s Dilemma: Why Your Backup Strategy Is Probably Broken (And How to Fix It) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/04a8c31caa71) |
-| Mon, 03 Nov 2025 00:58:47 GMT | Digital Crack: Google’s Tips and Tricks | Muhammad Hassan Ali | [Read More](https://medium.com/p/682851b7a8a7) |
-| Mon, 03 Nov 2025 00:57:20 GMT | [Golang x Kafka] #8: Security & Governance | Andrian Tri Putra | [Read More](https://medium.com/p/4661602c31db) |
-| Mon, 03 Nov 2025 00:33:50 GMT | From Chapter 13 Trustee Court Attendant to Beauty Boss: How I Built the American Dream (Before It… | Krystal | [Read More](https://medium.com/p/ac96e275d0da) |
-| Mon, 03 Nov 2025 00:18:56 GMT | The Delicate and Destructive Art of the Side Project Graveyard | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d0f92a4ad95e) |
-| Mon, 03 Nov 2025 00:01:55 GMT | Inside OAuth 2.0: The Four Roles Powering Every ‘Sign in with Google | Himanshu Soni | [Read More](https://medium.com/p/4f03454a746f) |
-| Mon, 03 Nov 2025 00:01:55 GMT | Threat Intelligence Fundamentals: Turning Data Into Defense | Cybersecurity Simplified | [Read More](https://medium.com/p/69594be7d20c) |
-| Mon, 03 Nov 2025 00:01:55 GMT | Blue Team Labs Online - Memory Analysis — Ransomware - Walkthrough | Drew Arpino | [Read More](https://medium.com/p/0446bf4cde07) |
-| Mon, 03 Nov 2025 00:01:55 GMT | From Search to Insight-How Perplexity AI Is Changing the Way We Research | Pooja Borade | [Read More](https://medium.com/p/84473e131360) |
-| Sun, 02 Nov 2025 23:54:23 GMT | Testing XSS in chatbot instances | 4osp3l | [Read More](https://medium.com/p/aa988c09a6d7) |
-| Sun, 02 Nov 2025 23:49:18 GMT | My 3-Month Journey to Passing the OSCP on the First Try | KingOfPiratez | [Read More](https://medium.com/p/bd7c78e8b093) |
-| Sun, 02 Nov 2025 23:38:35 GMT | Security Teams Are Screwed with Agentic AI — Unless They Do This | Mudassir Syed | [Read More](https://medium.com/p/a5e713063483) |
-| Sun, 02 Nov 2025 23:27:09 GMT | Regime Change, Negotiated Settlement and Covert Ops in the Caribbean | Rubaiyat Rahman | [Read More](https://medium.com/p/cdadd0fd6db9) |
-| Sun, 02 Nov 2025 23:22:39 GMT | The Modern Penetration Tester’s Journey: More Than Just Breaking Things | Yen Wang | [Read More](https://medium.com/p/5e13578ddad2) |
