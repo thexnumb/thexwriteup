@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 06:33:46 GMT | Studi Kasus VAPT: Membedah OWASP Juice Shop | Zulfianarahmi | [Read More](https://medium.com/p/39eb210b0af8) |
+| Mon, 03 Nov 2025 06:26:22 GMT | Certs vs Experience in IT & Cyber Security: How Employers Really Weigh Them | Vijay Kumar Gupta | [Read More](https://medium.com/p/a1c579b3bcfe) |
+| Mon, 03 Nov 2025 06:20:37 GMT | Crypto Isn’t Your Security Strategy: Why Web3 Teams Still Get Breached Through Old-School Email | Aysha Saifi | [Read More](https://medium.com/p/776b461c6de8) |
+| Mon, 03 Nov 2025 06:05:14 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/a3090197b801) |
+| Mon, 03 Nov 2025 06:04:58 GMT | VAPT: The Silent Armor Protecting Your Digital Business | Devarshi Acharya | [Read More](https://medium.com/p/a62e4909ca41) |
+| Mon, 03 Nov 2025 05:56:47 GMT | Metasploit: Meterpreter — Writeup | Mahir | [Read More](https://medium.com/p/cca9ebc5a91a) |
+| Mon, 03 Nov 2025 05:56:04 GMT | Join Our Telegram Group for Free IT Courses & Books! | Metasys Innovations | [Read More](https://medium.com/p/f9d4f1fecaea) |
+| Mon, 03 Nov 2025 05:54:40 GMT | The War Against Myself | Nawab Khan | [Read More](https://medium.com/p/e7d9b81a38ee) |
+| Mon, 03 Nov 2025 05:52:27 GMT | Advanced Web Cache Poisoning: Beyond the Basics | Abhishek meena | [Read More](https://medium.com/p/3df645bcbf95) |
+| Mon, 03 Nov 2025 05:44:59 GMT | Cyber Security: Continuous Monitoring and Improvement | Cyber Security Research | [Read More](https://medium.com/p/600e938f6c6e) |
+| Mon, 03 Nov 2025 05:43:01 GMT | HTB ACADEMY Footprinting FTP | Tomasz Kozlowski | [Read More](https://medium.com/p/647c94ba6ab6) |
+| Mon, 03 Nov 2025 05:34:55 GMT | Cyber Security: Automating Security Tasks | Cyber Security Research | [Read More](https://medium.com/p/bfd9fd5831a0) |
 | Mon, 03 Nov 2025 05:27:33 GMT | EA to CSP Pricing Update 2025 Smooth Transition with - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/f00f7a3b9576) |
 | Mon, 03 Nov 2025 05:26:50 GMT | The Fire That Erased a Nation’s Memory | Victor Yan | [Read More](https://medium.com/p/e07baa775650) |
 | Mon, 03 Nov 2025 05:26:19 GMT | When Neural Networks Turn Rogue: The Hidden Threat of Backdoored AI | Shashi Pargaonkar | [Read More](https://medium.com/p/a722377b9075) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 21:01:21 GMT | Customizing Microsoft Security Copilot with Plugins, Prompt Books, and Custom Agents | Arsh Riz | [Read More](https://medium.com/p/7f240be82f73) |
 | Sun, 02 Nov 2025 20:57:26 GMT | The Ephemeral Cipher: When Neural Networks Become The Source of Truth and Deceit. | worst.ai | [Read More](https://medium.com/p/f6421a462bcf) |
 | Sun, 02 Nov 2025 20:57:08 GMT | Is Your Payload Truly Protected? | shivam jadhav | [Read More](https://medium.com/p/ae67dbe2711e) |
-| Sun, 02 Nov 2025 20:55:47 GMT | Brim - TryHackMe — Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/92fd7c3af5e9) |
-| Sun, 02 Nov 2025 20:44:58 GMT | Day 28 of my Cybersecurity Journey: Moniker Link (CVE-2024–21413) | Ogundipe Priscilla | [Read More](https://medium.com/p/3630a819a65e) |
-| Sun, 02 Nov 2025 20:43:22 GMT | Military Simulations, COAs, and Cybersecurity in Video Game Design | Kathlene Herberger | [Read More](https://medium.com/p/b3541ba1ef17) |
-| Sun, 02 Nov 2025 20:25:09 GMT | Vulnerability Assessment and Penetration Testing Services - Strengthening Cyber Defense for U.S. | Aaishasharma | [Read More](https://medium.com/p/cb101871b41f) |
-| Sun, 02 Nov 2025 20:21:59 GMT | SSRF Attacks and Cloud Environment Security ☁️️ | Esra Kayhan | [Read More](https://medium.com/p/ab62a121cba6) |
-| Sun, 02 Nov 2025 20:09:12 GMT | Why Cross-Functional Projects Fail: The Critical Need for Neutral Leadership | Josh Welch | [Read More](https://medium.com/p/45f1be75bb98) |
-| Sun, 02 Nov 2025 19:57:59 GMT | Android’s built-in AI is taking a stronger stand against digital fraud. | SCtoCS | [Read More](https://medium.com/p/368e06f628f1) |
-| Sun, 02 Nov 2025 19:57:04 GMT | 30 Days of Red Team: Day 6 — Post-Exploitation (You’re In. Now What?) | Maxwell Cross | [Read More](https://medium.com/p/254b09f2688e) |
-| Sun, 02 Nov 2025 19:52:56 GMT | AI-Targeted Cloaking Attack Tricks Crawlers Into Citing False Information as Verified Facts | SCtoCS | [Read More](https://medium.com/p/327fae537e41) |
-| Sun, 02 Nov 2025 19:44:05 GMT | Vamp Byte #3 — SPF, DKIM & DMARC: The Trio That Guards Your Inbox | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/061de63c0627) |
-| Sun, 02 Nov 2025 19:39:13 GMT | Mastering Cloud Storage Forensics: Google Drive, OneDrive, Dropbox & Box Investigation Techniques | Dean | [Read More](https://medium.com/p/0cbe02cf5bad) |
-| Sun, 02 Nov 2025 19:28:33 GMT | The AI-Powered Analyst: Mastering Incident Investigation with Microsoft Security Copilot | Arsh Riz | [Read More](https://medium.com/p/03cbfe145973) |
