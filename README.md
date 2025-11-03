@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 16:19:10 GMT | SickOs 1.2 (Vulnhub) — Full Exploit Walkthrough (Step-by-Step) | Vyshnav Vinod | [Read More](https://medium.com/p/dcf1051419dc) |
+| Mon, 03 Nov 2025 16:16:50 GMT | Praktikum Internet of Things (Tugas): Input Analog | Muhammad Surya Saputro | [Read More](https://medium.com/p/c2af3da3be1c) |
+| Mon, 03 Nov 2025 16:16:20 GMT | How to Change a Door Lock Without Screws: Hidden Release Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/16d3f902fa7a) |
+| Mon, 03 Nov 2025 16:06:36 GMT | Can You Still Tell What’s Real? How to Outsmart AI-Generated Images in 2025 | Akshay Bawaliwale | [Read More](https://medium.com/p/3f141d5cb9d2) |
+| Mon, 03 Nov 2025 16:04:47 GMT | Mastering REST API: A Complete Guide for Beginners | Ghanashyam Budhathoki | [Read More](https://medium.com/p/db58e8b453d3) |
+| Mon, 03 Nov 2025 16:02:35 GMT | Critical Security Gap Discovered in Microsoft Teams Cookie Protection System | Technijian | [Read More](https://medium.com/p/aa9897357745) |
+| Mon, 03 Nov 2025 15:52:56 GMT | Knowledge Not Shared Is Knowledge Lost | Daniel Ayia Adamu | [Read More](https://medium.com/p/eeaf2462d10d) |
+| Mon, 03 Nov 2025 15:48:51 GMT | 7 Secret ChatGPT Hacks That Will Make You a Pro | Najam Shehzad Writer 786 | [Read More](https://medium.com/p/090235b621c9) |
+| Mon, 03 Nov 2025 15:46:53 GMT | #07- Kali Linux -Privilege Escalation: From Access to Authority | SDNTechForum | [Read More](https://medium.com/p/c836cb25297a) |
+| Mon, 03 Nov 2025 15:41:34 GMT | What Is a CMS? Simple Explanation with Real-Life Examples (No Tech Jargon!) | Natarajan C K | [Read More](https://medium.com/p/1327bfe21509) |
 | Mon, 03 Nov 2025 15:41:17 GMT | Multi-Factor Authentication (MFA): The First Line of Defense in Cybersecurity | Ferdi Edogawa | [Read More](https://medium.com/p/4b7e95c3730f) |
+| Mon, 03 Nov 2025 15:35:04 GMT | Pipelines Now Hold the Power | Pranav | [Read More](https://medium.com/p/587bce7e60cc) |
 | Mon, 03 Nov 2025 15:34:27 GMT | Emerging Threat: Attackers Use MIME-Encoded Invisible Characters to Evade Email Filters | Himanshu Bhatt | [Read More](https://medium.com/p/44e073f5407e) |
 | Mon, 03 Nov 2025 15:32:12 GMT | Praktikum Internet of Things: Input Analog | Muhammad Surya Saputro | [Read More](https://medium.com/p/630a599eb641) |
 | Mon, 03 Nov 2025 15:26:42 GMT | Essential Cybersecurity Facts and Figures | Awais Khan | [Read More](https://medium.com/p/848b39a79be0) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 10:58:55 GMT | USA Q3 2025 Cybersecurity Report — Key Threats & Insights | Cybersecurity News | [Read More](https://medium.com/p/15547962ac7e) |
 | Mon, 03 Nov 2025 10:51:55 GMT | C# Adventures in Constraint-Based Programming | Namir Sagheenanajar | [Read More](https://medium.com/p/ace1ecf5844a) |
 | Mon, 03 Nov 2025 10:50:56 GMT | Inside the Storm: A Cyber Defender’s View on China’s “Typhoon” Campaigns | Security Unfiltered | [Read More](https://medium.com/p/5015db1cc046) |
-| Mon, 03 Nov 2025 10:49:04 GMT | Huntress CTF 2025 Writeups Series: Part 1 | Mahmoud Matar | [Read More](https://medium.com/p/5d6daf998a3d) |
-| Mon, 03 Nov 2025 10:47:33 GMT | AI Agent Automations in Management Information Systems (MIS) | Sayed Emad | [Read More](https://medium.com/p/bf40fc46d6c9) |
-| Mon, 03 Nov 2025 10:36:54 GMT | Cybersecurity 11#: Cracking WPA/WPA2 Wi-Fi with Aircrack-ng and Crunch | mohandika | [Read More](https://medium.com/p/31713d7c53bc) |
-| Mon, 03 Nov 2025 10:34:32 GMT | Multi-Stage Loader Analysis: Dissecting a Targeted Phishing Campaign with Byte-Reversed Payload | ctwo2182 | [Read More](https://medium.com/p/3b846ee502a3) |
-| Mon, 03 Nov 2025 10:31:06 GMT | ️ Beyond the Gate: How to Choose the Best Security Guard Service in Trivandrum | Sambhu Sunil | [Read More](https://medium.com/p/7cfda763d68d) |
-| Mon, 03 Nov 2025 10:29:52 GMT | FastAPI + MCP + Permguard = Secure Agent | Antonio Radesca | [Read More](https://medium.com/p/c8f7c66023fd) |
-| Mon, 03 Nov 2025 10:27:46 GMT | RST TI Report Digest: 03 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/b28cc151fa96) |
-| Mon, 03 Nov 2025 10:15:54 GMT | The Best Tool to Discover and Manage SaaS usage | Arun Jyothi | [Read More](https://medium.com/p/739cd40180f6) |
-| Mon, 03 Nov 2025 10:13:36 GMT | Tech Moves Faster Than You Can Blink | CyberCaptain‍✈️ | [Read More](https://medium.com/p/4c32670a66c7) |
-| Mon, 03 Nov 2025 10:12:14 GMT | How to recover your hacked account or device | Lucia Banjo | [Read More](https://medium.com/p/96acf0035818) |
-| Mon, 03 Nov 2025 10:10:24 GMT | Red Cybersecurity: A Strategic Approach to Securing Radio Equipment Design | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/22fe208c66de) |
