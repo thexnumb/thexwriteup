@@ -12,10 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 15:22:35 GMT | Digital Forensics Case Study | Jignesh Hirani | [Read More](https://medium.com/p/6d981ef5d8f9) |
+| Mon, 03 Nov 2025 15:18:18 GMT | SSH Brute-Force Exploitation: A Step-by-Step Ethical Hacking Guide (Using AI) | Leroyanand | [Read More](https://medium.com/p/1022222db2f5) |
+| Mon, 03 Nov 2025 15:16:27 GMT | HTB Analytics (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/500b463a6303) |
+| Mon, 03 Nov 2025 15:08:02 GMT | Online Computation of Mean and Variance | Riccardo Giacinti | [Read More](https://medium.com/p/cd8d741c8e54) |
+| Mon, 03 Nov 2025 15:07:05 GMT | The Day a Smart Vacuum Turned Against Its Owner | Abatis ABTU | [Read More](https://medium.com/p/470e006f18f3) |
+| Mon, 03 Nov 2025 15:06:07 GMT | eJPT Prep: Assessment Methodologies: Enumeration CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/abcae2f525af) |
+| Mon, 03 Nov 2025 15:05:31 GMT | Research on location and dispersion measures | Riccardo Giacinti | [Read More](https://medium.com/p/915bd978fb72) |
+| Mon, 03 Nov 2025 15:02:17 GMT | Cyber Briefing: 2025.11.03 | CyberMaterial | [Read More](https://medium.com/p/2abd7d1b5063) |
+| Mon, 03 Nov 2025 14:59:17 GMT | Why Money Won’t Fix Your Life (But These Things Will) | Global Whirl of Wonders | [Read More](https://medium.com/p/b379676ddc06) |
+| Mon, 03 Nov 2025 14:55:41 GMT | “The $7,500 Steam Wallet Hack: How Parameter Pollution Bypassed Payment Security” | Aman Sharma | [Read More](https://medium.com/p/ee7e0d155f93) |
+| Mon, 03 Nov 2025 14:52:23 GMT | How to Prove to Clients That Your Firm’s Cloud Is Secure: Certifications, Audits, and Building… | Josh Lee | [Read More](https://medium.com/p/31ad84594598) |
+| Mon, 03 Nov 2025 14:47:17 GMT | ☁️ Cloud Security Posture Management (CSPM) in AWS | Davebhargavi | [Read More](https://medium.com/p/593d02837e7a) |
+| Mon, 03 Nov 2025 14:46:02 GMT | My First Write-Up: Wallet Top-Up Refund Vulnerability (Found on a Real Target) | Mahdi Eidi | [Read More](https://medium.com/p/5f7554389a7a) |
 | Mon, 03 Nov 2025 14:39:06 GMT | Kipnappers in US Grab $8M: Biggest Threat to Crypto Holders in the Real World! | Cyber Strategy Institute | [Read More](https://medium.com/p/a166c81f01d5) |
 | Mon, 03 Nov 2025 14:38:53 GMT | Internet of Things — Input Analog (Tugas Program Termometer Digital) | Zifa Tea Azzahra | [Read More](https://medium.com/p/f82d4e235b09) |
 | Mon, 03 Nov 2025 14:38:44 GMT | Zaman Kazandıran Rehber: PRTG’de Device Template Oluşturma Adımları | kaanvardar | [Read More](https://medium.com/p/f9767f958c70) |
 | Mon, 03 Nov 2025 14:38:23 GMT | Profesionalisme dan Kode Etik di Era Teknologi Informasi dan Komunikasi (TIK) dan Generative… | Farrelian | [Read More](https://medium.com/p/e9fa03055d51) |
+| Mon, 03 Nov 2025 14:37:47 GMT | Meta’s Porn Problem, North Korea’s Hackers, and AI’s $3 Trillion Bubble: The Latest Tech Apocalypse | David Grice | [Read More](https://medium.com/p/812bbe61c36c) |
 | Mon, 03 Nov 2025 14:31:58 GMT | (Comptia A+) Virtual Private Networks (VPNs): Everything You Need to Know | Vignesh R | [Read More](https://medium.com/p/dfb6a4b01a73) |
 | Mon, 03 Nov 2025 14:31:57 GMT | Leaking Mobile Numbers via Base64 on Government Portal | Bytewreaker | [Read More](https://medium.com/p/c354277cbbc2) |
 | Mon, 03 Nov 2025 14:31:56 GMT | CVE-2025-49144: Privilege Escalation in Notepad++ v8.8.1 Installer and RCE with SYSTEM Privileges | Bash Overflow | [Read More](https://medium.com/p/c018d79a5f1d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 09:48:53 GMT | Browser Security Platforms — Securing the Browser as the New Endpoint | Jackdavis Iap | [Read More](https://medium.com/p/3c59c67cfd5a) |
 | Mon, 03 Nov 2025 09:46:57 GMT | Secure Highway to Your Private Server with Cloudflare Tunnel | Senuk Dias | [Read More](https://medium.com/p/49f74d3e5cd2) |
 | Mon, 03 Nov 2025 09:46:06 GMT | How Linux Found Me: An Origin Story in a Terminal Window | Fateyaly | [Read More](https://medium.com/p/779d283cbf7c) |
-| Mon, 03 Nov 2025 09:44:43 GMT | ️ Securing AI & ML Workloads on AWS | Davebhargavi | [Read More](https://medium.com/p/34c10bae5e02) |
-| Mon, 03 Nov 2025 09:44:04 GMT | Best Lawyer for Drafting Website Privacy Policy and Terms for a Startup | Hansen Tong | [Read More](https://medium.com/p/179615b6ce75) |
-| Mon, 03 Nov 2025 09:43:13 GMT | Leading Pest Control Services in Saudi Arabia: Safeguarding Health, Hygiene, and Property | Asna Futorics | [Read More](https://medium.com/p/212c9e35f182) |
-| Mon, 03 Nov 2025 09:42:15 GMT | They Hacked Windows Updates?! Inside the WSUS RCE Exploit CVE-2025–59287 | Motasem Hamdan | [Read More](https://medium.com/p/7c3fcc8fe3e8) |
-| Mon, 03 Nov 2025 09:40:08 GMT | Digital Transformation for Banking: Kiosk Dubai Experts Leading the Charge | Rakesh | [Read More](https://medium.com/p/3fefba099078) |
-| Mon, 03 Nov 2025 09:31:57 GMT | A Glitch in the Pit Lane: How a Security Flaw Exposed Max Verstappen’s Passport Data | Devansh Patel | [Read More](https://medium.com/p/6c0bf92c4ec4) |
-| Mon, 03 Nov 2025 09:25:22 GMT | PostgreSQL SQL Injection Defense: Your 3-Week Implementation Guide (Part 2) | Shailesh Kumar Mishra | [Read More](https://medium.com/p/44dd330d2542) |
-| Mon, 03 Nov 2025 09:24:51 GMT | Cybereto CTF 2025 Qualification Web Writeup | Zaid Dbies | [Read More](https://medium.com/p/5afb2284773f) |
-| Mon, 03 Nov 2025 09:23:31 GMT | Making my home smart | Justus | [Read More](https://medium.com/p/fa428fd025ec) |
-| Mon, 03 Nov 2025 09:22:31 GMT | AA [Foolbox]: L2ProjectedGradientDescentAttack | Gaurav Solanki | [Read More](https://medium.com/p/2345850b2658) |
-| Mon, 03 Nov 2025 09:04:24 GMT | Breach — Hack The Box Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/0723409dcb7c) |
-| Mon, 03 Nov 2025 08:59:26 GMT | Matta4ck:Remote Code Execution (RCE) | Мартин. | [Read More](https://medium.com/p/e6a7e1fbd5de) |
-| Mon, 03 Nov 2025 08:59:01 GMT | From Noob to Red Teamer: Certifications That Change Careers | Guepster | [Read More](https://medium.com/p/4cc9b90ee1ef) |
-| Mon, 03 Nov 2025 08:57:09 GMT | Is Comet Browser Safe? The Alarming Truth About AI Browser Security | Ravi | [Read More](https://medium.com/p/455dbfc70626) |
