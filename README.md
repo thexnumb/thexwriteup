@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 10:15:54 GMT | The Best Tool to Discover and Manage SaaS usage | Arun Jyothi | [Read More](https://medium.com/p/739cd40180f6) |
+| Mon, 03 Nov 2025 10:13:36 GMT | Tech Moves Faster Than You Can Blink | CyberCaptain‍✈️ | [Read More](https://medium.com/p/4c32670a66c7) |
+| Mon, 03 Nov 2025 10:12:14 GMT | How to recover your hacked account or device | Lucia Banjo | [Read More](https://medium.com/p/96acf0035818) |
+| Mon, 03 Nov 2025 10:10:24 GMT | Red Cybersecurity: A Strategic Approach to Securing Radio Equipment Design | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/22fe208c66de) |
+| Mon, 03 Nov 2025 10:08:47 GMT | How to Be Board-Ready on AI Risk in 48 Hours – Australian Edition | Axsaspty | [Read More](https://medium.com/p/8c20c8e3995c) |
+| Mon, 03 Nov 2025 09:56:22 GMT | DockerLabs Writeup — Mirame (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/292e90941914) |
+| Mon, 03 Nov 2025 09:51:44 GMT | The Cyber Pandemic: What Happens When the Internet Itself Gets Sick | Deepak Sharma | [Read More](https://medium.com/p/e2cb89f9ef46) |
+| Mon, 03 Nov 2025 09:49:38 GMT | Cybersecurity vs Ethical Hacking: How to recover your lost | Wesleyglenn | [Read More](https://medium.com/p/77383343598b) |
+| Mon, 03 Nov 2025 09:48:53 GMT | Browser Security Platforms — Securing the Browser as the New Endpoint | Jackdavis Iap | [Read More](https://medium.com/p/3c59c67cfd5a) |
+| Mon, 03 Nov 2025 09:46:57 GMT | Secure Highway to Your Private Server with Cloudflare Tunnel | Senuk Dias | [Read More](https://medium.com/p/49f74d3e5cd2) |
+| Mon, 03 Nov 2025 09:46:06 GMT | How Linux Found Me: An Origin Story in a Terminal Window | Fateyaly | [Read More](https://medium.com/p/779d283cbf7c) |
+| Mon, 03 Nov 2025 09:44:43 GMT | ️ Securing AI & ML Workloads on AWS | Davebhargavi | [Read More](https://medium.com/p/34c10bae5e02) |
+| Mon, 03 Nov 2025 09:44:04 GMT | Best Lawyer for Drafting Website Privacy Policy and Terms for a Startup | Hansen Tong | [Read More](https://medium.com/p/179615b6ce75) |
+| Mon, 03 Nov 2025 09:43:13 GMT | Leading Pest Control Services in Saudi Arabia: Safeguarding Health, Hygiene, and Property | Asna Futorics | [Read More](https://medium.com/p/212c9e35f182) |
 | Mon, 03 Nov 2025 09:42:15 GMT | They Hacked Windows Updates?! Inside the WSUS RCE Exploit CVE-2025–59287 | Motasem Hamdan | [Read More](https://medium.com/p/7c3fcc8fe3e8) |
+| Mon, 03 Nov 2025 09:40:08 GMT | Digital Transformation for Banking: Kiosk Dubai Experts Leading the Charge | Rakesh | [Read More](https://medium.com/p/3fefba099078) |
 | Mon, 03 Nov 2025 09:31:57 GMT | A Glitch in the Pit Lane: How a Security Flaw Exposed Max Verstappen’s Passport Data | Devansh Patel | [Read More](https://medium.com/p/6c0bf92c4ec4) |
 | Mon, 03 Nov 2025 09:25:22 GMT | PostgreSQL SQL Injection Defense: Your 3-Week Implementation Guide (Part 2) | Shailesh Kumar Mishra | [Read More](https://medium.com/p/44dd330d2542) |
 | Mon, 03 Nov 2025 09:24:51 GMT | Cybereto CTF 2025 Qualification Web Writeup | Zaid Dbies | [Read More](https://medium.com/p/5afb2284773f) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 04:50:51 GMT | APIs: The Backbone of Modern Software Communication | Jei Ess | [Read More](https://medium.com/p/7e86ca74b31a) |
 | Mon, 03 Nov 2025 04:39:52 GMT | [OverTheWire] Bandit Level 31 → 32 | H$nt | [Read More](https://medium.com/p/895cbbc998cb) |
 | Mon, 03 Nov 2025 04:39:39 GMT | [OverTheWire] Bandit Level 30 → 31 | H$nt | [Read More](https://medium.com/p/98fec62b3c93) |
-| Mon, 03 Nov 2025 04:39:16 GMT | [OverTheWire] Bandit Level 29 → 30 | H$nt | [Read More](https://medium.com/p/050707cf9ad8) |
-| Mon, 03 Nov 2025 04:37:01 GMT | Defense in Depth vs. Audit in Depth: Designing Layered Assurance | Tharun Krishnamoorthy | [Read More](https://medium.com/p/bc6ba92e1d09) |
-| Mon, 03 Nov 2025 04:35:22 GMT | Master Windows Exploitation: Level-Up Your Pentesting Skills with Pentesterclub | Pentester Club | [Read More](https://medium.com/p/7fd2a6bdc1ad) |
-| Mon, 03 Nov 2025 04:34:52 GMT | Server-Side Discount Validation Bypass Enables Arbitrary Price Reduction | Ali Abdelhady | [Read More](https://medium.com/p/6336dfcea79e) |
-| Mon, 03 Nov 2025 04:27:49 GMT | Real-Time Threat Reaction in PHP With Lightweight Heuristics | Asian Digital Hub | [Read More](https://medium.com/p/a4fc08b37fdc) |
-| Mon, 03 Nov 2025 04:25:28 GMT | Dive into “Ghost Stack” — The CTF You Can’t Afford to Miss | Pentester Club | [Read More](https://medium.com/p/0bb628116b8d) |
-| Mon, 03 Nov 2025 04:23:39 GMT | PHP Integrity Tips That Detect Tampered Code Immediately | Asian Digital Hub | [Read More](https://medium.com/p/c13d40909dd5) |
-| Mon, 03 Nov 2025 04:19:47 GMT | Zero Trust Serialization in PHP - Safe Data Transport Tips | Asian Digital Hub | [Read More](https://medium.com/p/3ac9ea5a0567) |
-| Mon, 03 Nov 2025 04:09:56 GMT | Unlock Your Hacker Potential: The CTF Platform Every Bug Bounty Hunter Needs | Pentester Club | [Read More](https://medium.com/p/3d09ac1a9316) |
-| Mon, 03 Nov 2025 04:04:17 GMT | # ️ Best Free Antivirus Software for 2025 — Updated Deals & Renewal Tips | Tourej | [Read More](https://medium.com/p/a030c782e3b5) |
-| Mon, 03 Nov 2025 04:01:55 GMT | Automating GDPR Requests with n8n (Without Leaks) | Nexumo | [Read More](https://medium.com/p/12e6b96f425e) |
-| Mon, 03 Nov 2025 03:58:17 GMT | When Technology Feels Human: The Story Behind GuardSmart | Henry Jan | [Read More](https://medium.com/p/2789178f6239) |
-| Mon, 03 Nov 2025 03:57:46 GMT | Server Deployment: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/02d1de8021dc) |
-| Mon, 03 Nov 2025 03:49:03 GMT | Digital Shield: The “Noah’s Ark” of Web3 — A Deep Dive into Its Compatibility Architecture and… | Digital Shield Offcial | [Read More](https://medium.com/p/78b67099bfe4) |
-| Mon, 03 Nov 2025 03:41:47 GMT | Your Business is Cyber-Bait. Are You About to Accidentally Hand the Keys to Cybercriminals? | Jared Blaine | [Read More](https://medium.com/p/cfecef748e2a) |
