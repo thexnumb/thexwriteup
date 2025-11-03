@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 19:34:21 GMT | Assessing the Attack Surface of Remote MCP Servers | Kulkan Security | [Read More](https://medium.com/p/92d630a0cab0) |
+| Mon, 03 Nov 2025 19:33:24 GMT | I Tried 7 “Weight” Hacks — Here’s The One Natural Fix That Quieted My Nighttime Cravings | Elsayedamazon | [Read More](https://medium.com/p/2123b503a0bb) |
+| Mon, 03 Nov 2025 19:26:55 GMT | Logical box | H3XH7WK | [Read More](https://medium.com/p/24dc16eeb9be) |
+| Mon, 03 Nov 2025 19:26:03 GMT | Typus, Seedify, UXLink: $16.4M Lost to Missing Checks, Key Leaks, and Mint Abuse | Olympix | [Read More](https://medium.com/p/f0d0f090954e) |
+| Mon, 03 Nov 2025 19:21:57 GMT | CyberTalents: Cool Name Effect Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/4adf0d880ea6) |
+| Mon, 03 Nov 2025 19:17:56 GMT | Document Management: Uploads, Versioning, and Access Control | Ann R. | [Read More](https://medium.com/p/ed8a761a2ee9) |
 | Mon, 03 Nov 2025 19:15:59 GMT | The Bug Hunter’s Automator: Why Bash Scripting is Your Greatest Force Multiplier | Santhosh Adiga U | [Read More](https://medium.com/p/1200d26db7ab) |
 | Mon, 03 Nov 2025 19:12:14 GMT | Digital Leadership: Balancing Strategy, Technology, and Culture | Maximilian Maucher | [Read More](https://medium.com/p/871d86053415) |
 | Mon, 03 Nov 2025 19:03:47 GMT | The CIA Triad: The Secret Formula Behind Every Security System | DesiDev | [Read More](https://medium.com/p/68fd0dda7304) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 13:57:42 GMT | 6. Advantages of Each | Rana Awais | [Read More](https://medium.com/p/79fd6be3e6da) |
 | Mon, 03 Nov 2025 13:55:44 GMT | Topic 44 – CSS Flexbox vs CSS Grid | Rana Awais | [Read More](https://medium.com/p/9a2f48b86b79) |
 | Mon, 03 Nov 2025 13:54:40 GMT | How to Automate Vulnerability Scanning for Your Servers with Python | David Massiha | [Read More](https://medium.com/p/88370983ad68) |
-| Mon, 03 Nov 2025 13:53:07 GMT | 10 Real PostgreSQL Tuning Mistakes You’ll Regret Ignoring | Rizqi Mulki | [Read More](https://medium.com/p/1326a819862f) |
-| Mon, 03 Nov 2025 13:51:55 GMT | SentryPC and Cybersecurity: Protecting Data Without Micromanaging Employees | Paul Meyer | [Read More](https://medium.com/p/c27c812d5875) |
-| Mon, 03 Nov 2025 13:51:08 GMT | 6. Aligning Content | Rana Awais | [Read More](https://medium.com/p/4c3206ff3495) |
-| Mon, 03 Nov 2025 13:43:47 GMT | Tutorial System / Host-Based Attacks CTF 2 | cl0ud.ini | [Read More](https://medium.com/p/ee699e2de1fc) |
-| Mon, 03 Nov 2025 13:36:17 GMT | CyberDefenders — ResourcePacks Lab | jon | [Read More](https://medium.com/p/ef749623a8c0) |
-| Mon, 03 Nov 2025 13:29:41 GMT | Driving Digital Success with Epicor Consulting in Houston by DESSS | DESSS Inc | [Read More](https://medium.com/p/8163a0282591) |
