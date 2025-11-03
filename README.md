@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 18:33:23 GMT | The 3 AM Breakthrough: How a CTF Side Quest Unlocked a Critical Bug Bounty | Santhosh Adiga U | [Read More](https://medium.com/p/f548f98245fc) |
+| Mon, 03 Nov 2025 18:23:33 GMT | Is Termux a hacker’s Creative tool? Why Termux Is the Most Exciting App | Aditya Raj | [Read More](https://medium.com/p/3550b3bfb88f) |
 | Mon, 03 Nov 2025 18:21:05 GMT | Smarter Security in 2025: How Advanced Technology Is Transforming Guard Management and IT… | Teona | [Read More](https://medium.com/p/c8ad7dbddf64) |
 | Mon, 03 Nov 2025 18:17:54 GMT | The $122 Billion Blind Spot: Why AI Security Can’t Wait | Ramya Ganesh | [Read More](https://medium.com/p/ef72f0f20639) |
 | Mon, 03 Nov 2025 18:12:24 GMT | The Top 5 Reasons for Having Event Security & Executive Protection in Manhattan | The Safety Perspective | [Read More](https://medium.com/p/670364a89007) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 13:02:00 GMT | The Beginner’s Guide to Staying Anonymous Online | CyberSafe Insights | [Read More](https://medium.com/p/74faf9227bcc) |
 | Mon, 03 Nov 2025 13:00:39 GMT | My Cybersecurity Program for Small Businesses and Organizations | John Bandler | [Read More](https://medium.com/p/392205e1598b) |
 | Mon, 03 Nov 2025 12:45:19 GMT | Adobe’s $50 Million Gamble: Cracked in 48 Hours | Abdullah Javeed | [Read More](https://medium.com/p/65dcf6923d8e) |
-| Mon, 03 Nov 2025 12:44:38 GMT | Achieve ISO 27001 Certification: The Ultimate Guide for Busy Startups | SecureSlate | [Read More](https://medium.com/p/8790b375564a) |
-| Mon, 03 Nov 2025 12:44:30 GMT | Managing Space Permissions and Access Levels | Erdem UÇAK | [Read More](https://medium.com/p/001859e2afc2) |
