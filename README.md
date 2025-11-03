@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 09:22:31 GMT | AA [Foolbox]: L2ProjectedGradientDescentAttack | Gaurav Solanki | [Read More](https://medium.com/p/2345850b2658) |
+| Mon, 03 Nov 2025 09:04:24 GMT | Breach — Hack The Box Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/0723409dcb7c) |
+| Mon, 03 Nov 2025 08:59:26 GMT | Matta4ck:Remote Code Execution (RCE) | Мартин. | [Read More](https://medium.com/p/e6a7e1fbd5de) |
+| Mon, 03 Nov 2025 08:59:01 GMT | From Noob to Red Teamer: Certifications That Change Careers | Guepster | [Read More](https://medium.com/p/4cc9b90ee1ef) |
+| Mon, 03 Nov 2025 08:57:09 GMT | Is Comet Browser Safe? The Alarming Truth About AI Browser Security | Ravi | [Read More](https://medium.com/p/455dbfc70626) |
+| Mon, 03 Nov 2025 08:57:04 GMT | Safety and Innovation with HandsFree Security LLC | High | [Read More](https://medium.com/p/007821f5696a) |
+| Mon, 03 Nov 2025 08:51:52 GMT | Protect What Matters with HandsFree Security LLC | High | [Read More](https://medium.com/p/b648542c52bd) |
+| Mon, 03 Nov 2025 08:49:26 GMT | Vendor Engagement & Proposal Management Process (RFI → RFP → RFQ) | Piyush Vishwakarma | [Read More](https://medium.com/p/d2246ab89a14) |
+| Mon, 03 Nov 2025 08:45:56 GMT | Secure with Confidence: HandsFree Security LLC | High | [Read More](https://medium.com/p/0898f03c61b4) |
+| Mon, 03 Nov 2025 08:45:00 GMT | VAPT for E-Commerce: Protecting Customer Data and Brand Reputation | Microscan Communications | [Read More](https://medium.com/p/6f51ad8415ae) |
+| Mon, 03 Nov 2025 08:44:51 GMT | Why Security Is a Leadership Issue — Not Just an IT Concern | Fook Hwa Tan | [Read More](https://medium.com/p/9229a9baef5b) |
+| Mon, 03 Nov 2025 08:44:20 GMT | What AI Means for Cybersecurity Threats Next Year | Global CCTV Monitoring Services | [Read More](https://medium.com/p/801a936c39e9) |
+| Mon, 03 Nov 2025 08:40:39 GMT | Russia’s Surveillance Paradox: Total Control Meets Total Chaos | Anton Merkurov | [Read More](https://medium.com/p/683601ca1b14) |
+| Mon, 03 Nov 2025 08:34:18 GMT | Managing Certificates on Windows with a Single Native Tool — A POC | Antonio Francesco Gentile | [Read More](https://medium.com/p/0e2240e888bb) |
+| Mon, 03 Nov 2025 08:32:44 GMT | When DeFi Meets Regulation: How Traders Adapt in the New AML Era | QuppyAMLBOT | [Read More](https://medium.com/p/1507322aff90) |
+| Mon, 03 Nov 2025 08:28:22 GMT | Protect Your Personal Website: Easy Server Security with Suricata | Andrew Keitany | [Read More](https://medium.com/p/a30e9fb886a3) |
 | Mon, 03 Nov 2025 08:18:30 GMT | How a Null Byte Unlocked a $XXXX Bounty: My Reflected XSS Story | Santhosh Adiga U | [Read More](https://medium.com/p/cb1b94f8ea12) |
 | Mon, 03 Nov 2025 08:14:57 GMT | Why You Should Learn Ethical Hacking | Christie | [Read More](https://medium.com/p/3f9eda661f7c) |
 | Mon, 03 Nov 2025 08:08:57 GMT | AI-Powered Cyber Attacks | Tech Journal | [Read More](https://medium.com/p/552046223dda) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 03:31:25 GMT | Digital Shield Redefines Military-Grade Security and Asset Sovereignty in the Web3 Era with the… | Digital Shield Offcial | [Read More](https://medium.com/p/c849481da948) |
 | Mon, 03 Nov 2025 03:30:26 GMT | Tải Shadow Fight 2 Hack modlmh (Vô Hạn Tiền, Max Level) | TaiModApk | [Read More](https://medium.com/p/1f7fb1169450) |
 | Mon, 03 Nov 2025 03:30:11 GMT | RootMe — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/885eb18fa519) |
-| Mon, 03 Nov 2025 03:26:11 GMT | You are not weak for showing vulnerability. | oliviaz_ | [Read More](https://medium.com/p/16b279ea68c5) |
-| Mon, 03 Nov 2025 03:21:40 GMT | Digital Shield Redefines Military-Grade Security and Asset Sovereignty in the Web3 Era with the… | Digital Shield | [Read More](https://medium.com/p/15048b804f6d) |
-| Mon, 03 Nov 2025 03:19:52 GMT | Week 16 — JS Enum Framework: From Blueprint to Reality | Aang | [Read More](https://medium.com/p/092aea4eaf4f) |
-| Mon, 03 Nov 2025 03:12:29 GMT | Yes, Men Distance Themselves from a Woman They Love | Soledad Hernandez | [Read More](https://medium.com/p/f674414870ba) |
-| Mon, 03 Nov 2025 03:09:07 GMT | Command Injection: When Your App Executes Attacker Code | Rahul Beniwal | [Read More](https://medium.com/p/c4f433247a36) |
-| Mon, 03 Nov 2025 03:08:44 GMT | Firewall | Axel Liang Gono | [Read More](https://medium.com/p/be7cbd8e3416) |
-| Mon, 03 Nov 2025 03:08:40 GMT | From Page to Payload: Turning Knowledge into Exploits the Right Way | Aj | [Read More](https://medium.com/p/b37ae314bfef) |
-| Mon, 03 Nov 2025 03:08:37 GMT | DeadFace CTF Writeup | Dominic Crippa | [Read More](https://medium.com/p/83315eb50459) |
-| Mon, 03 Nov 2025 03:08:34 GMT | SQL Injection Explained: How Attackers Exploit Your Queries and Learn how to prevent SQL Injection | Rahul Beniwal | [Read More](https://medium.com/p/e8ce4048a677) |
-| Mon, 03 Nov 2025 02:42:46 GMT | Investigating a Compromised Azure Virtual Machine (VM) | Paritosh | [Read More](https://medium.com/p/0fd2605b048c) |
-| Mon, 03 Nov 2025 02:39:49 GMT | Cyber Security: Building a Strong Security Culture | Cyber Security Research | [Read More](https://medium.com/p/0277c8a392c3) |
-| Mon, 03 Nov 2025 02:39:38 GMT | Implementing Network Segmentation and Access Control to Mitigate Internal Threats | Iheanyichukwu Onyebuchi Okoronkwo | [Read More](https://medium.com/p/58477ef42abf) |
-| Mon, 03 Nov 2025 02:17:23 GMT | PortSwigger Labs: Race Conditions Writeup (ALL LABS) | awes0meness | [Read More](https://medium.com/p/4643cf6cb664) |
-| Mon, 03 Nov 2025 02:16:01 GMT | Terraform for AWS: Governing and Securing Your Cloud Environment | AWS And Terraform Management | [Read More](https://medium.com/p/97cee88464e7) |
-| Mon, 03 Nov 2025 02:15:49 GMT | Proving Grounds - AuthBy | jniket | [Read More](https://medium.com/p/7b18e87308be) |
-| Mon, 03 Nov 2025 02:11:37 GMT | How I Found a Stored XSS Vulnerability Through a PDF Upload | Abhishek sharma | [Read More](https://medium.com/p/75b4bbfbf9a3) |
