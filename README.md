@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 01:37:57 GMT | Ini Cara Gampang Bikin Sistem Jebol! | Jadi Hacker | [Read More](https://medium.com/p/ee7f8a507eea) |
+| Mon, 03 Nov 2025 01:37:20 GMT | A Hard Truth: America’s “Help” Has Never Brought Lasting Peace. | Abdullahi Jajere | [Read More](https://medium.com/p/554573437bb9) |
+| Mon, 03 Nov 2025 01:36:18 GMT | Invisible Entry Points: Why DNS, Ports, and IP Hygiene Define Web Security | Cybamatica | [Read More](https://medium.com/p/dbbb6fec9d16) |
+| Mon, 03 Nov 2025 01:26:52 GMT | How to Achieve Truly Fulfilling Intimate Relationships | Hanpis | [Read More](https://medium.com/p/fbd51290978d) |
+| Mon, 03 Nov 2025 01:14:35 GMT | The Digital Hoarder’s Dilemma: Why Your Backup Strategy Is Probably Broken (And How to Fix It) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/04a8c31caa71) |
+| Mon, 03 Nov 2025 00:58:47 GMT | Digital Crack: Google’s Tips and Tricks | Muhammad Hassan Ali | [Read More](https://medium.com/p/682851b7a8a7) |
+| Mon, 03 Nov 2025 00:57:20 GMT | [Golang x Kafka] #8: Security & Governance | Andrian Tri Putra | [Read More](https://medium.com/p/4661602c31db) |
+| Mon, 03 Nov 2025 00:33:50 GMT | From Chapter 13 Trustee Court Attendant to Beauty Boss: How I Built the American Dream (Before It… | Krystal | [Read More](https://medium.com/p/ac96e275d0da) |
+| Mon, 03 Nov 2025 00:18:56 GMT | The Delicate and Destructive Art of the Side Project Graveyard | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d0f92a4ad95e) |
+| Mon, 03 Nov 2025 00:01:55 GMT | Inside OAuth 2.0: The Four Roles Powering Every ‘Sign in with Google | Himanshu Soni | [Read More](https://medium.com/p/4f03454a746f) |
+| Mon, 03 Nov 2025 00:01:55 GMT | Threat Intelligence Fundamentals: Turning Data Into Defense | Cybersecurity Simplified | [Read More](https://medium.com/p/69594be7d20c) |
+| Mon, 03 Nov 2025 00:01:55 GMT | Blue Team Labs Online - Memory Analysis — Ransomware - Walkthrough | Drew Arpino | [Read More](https://medium.com/p/0446bf4cde07) |
+| Mon, 03 Nov 2025 00:01:55 GMT | From Search to Insight-How Perplexity AI Is Changing the Way We Research | Pooja Borade | [Read More](https://medium.com/p/84473e131360) |
+| Sun, 02 Nov 2025 23:54:23 GMT | Testing XSS in chatbot instances | 4osp3l | [Read More](https://medium.com/p/aa988c09a6d7) |
+| Sun, 02 Nov 2025 23:49:18 GMT | My 3-Month Journey to Passing the OSCP on the First Try | KingOfPiratez | [Read More](https://medium.com/p/bd7c78e8b093) |
+| Sun, 02 Nov 2025 23:38:35 GMT | Security Teams Are Screwed with Agentic AI — Unless They Do This | Mudassir Syed | [Read More](https://medium.com/p/a5e713063483) |
+| Sun, 02 Nov 2025 23:27:09 GMT | Regime Change, Negotiated Settlement and Covert Ops in the Caribbean | Rubaiyat Rahman | [Read More](https://medium.com/p/cdadd0fd6db9) |
 | Sun, 02 Nov 2025 23:22:39 GMT | The Modern Penetration Tester’s Journey: More Than Just Breaking Things | Yen Wang | [Read More](https://medium.com/p/5e13578ddad2) |
 | Sun, 02 Nov 2025 23:20:28 GMT | Politically Biased Prompt Injection: When AI Becomes an Ideological Battlefield | CCD-IS | [Read More](https://medium.com/p/65ee9515cae3) |
 | Sun, 02 Nov 2025 23:20:00 GMT | Protecting Yourself from Address Poisoning Attacks | Officer's Notes | [Read More](https://medium.com/p/e8722323c3cf) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 15:58:08 GMT | How I Secured Multi-Environment Secrets Using AWS Secrets Manager and Parameter Store. | Rajesh Thakur | [Read More](https://medium.com/p/637b5afb893a) |
 | Sun, 02 Nov 2025 15:51:16 GMT | THM - Benign | Francesco Pastore | [Read More](https://medium.com/p/8ea6981bbbad) |
 | Sun, 02 Nov 2025 15:31:52 GMT | Major Data Leak: Proton Finds 300 Million Compromised Accounts | Himanshu Bhatt | [Read More](https://medium.com/p/34576467160c) |
-| Sun, 02 Nov 2025 15:31:06 GMT | I Just Cleared the New 2025 CKS Exam — Here’s the Blueprint You Can Follow to Pass Too | Malek ZAAG | [Read More](https://medium.com/p/84e81fb1ec37) |
-| Sun, 02 Nov 2025 15:23:29 GMT | Project #13 of 21 — Policy Writing | Andrew Williams | [Read More](https://medium.com/p/ba1b9314feb7) |
-| Sun, 02 Nov 2025 15:22:30 GMT | Remote CCTV Camera Monitoring for Your Virtual Assistants | Visual Monitoring Solutions | [Read More](https://medium.com/p/b2c8d0efb3ad) |
-| Sun, 02 Nov 2025 15:22:18 GMT | IT Guy Trying to Live 200 Years? How? | Karthick Dkk | [Read More](https://medium.com/p/7148b74dcef8) |
-| Sun, 02 Nov 2025 15:21:54 GMT | How IT Support Companies in Riverside, CA Can Do More Than “Just Enable MFA” | Zeta Sky | [Read More](https://medium.com/p/c2a73e6dcd33) |
-| Sun, 02 Nov 2025 15:20:42 GMT | Intervención con mi Cuñado | Natalia Antonoff | [Read More](https://medium.com/p/a35166e5b17a) |
-| Sun, 02 Nov 2025 15:18:44 GMT | MySQL Enumeration Writeup — HTB Academy | Saqlain Naqvi | [Read More](https://medium.com/p/f39caca05e81) |
-| Sun, 02 Nov 2025 15:16:21 GMT | Mastering Nuclei: A Practical Guide to Fast, Template-Driven Vulnerability Scanning | Fikri Muzadi | [Read More](https://medium.com/p/8423d6ec8ac6) |
-| Sun, 02 Nov 2025 15:11:58 GMT | Best Demanding it Skills in Europe | Migratex | [Read More](https://medium.com/p/03aa0888dee8) |
-| Sun, 02 Nov 2025 15:11:36 GMT | The Dangerous Truth of Public Wi-Fi: Why It’s a Hacker’s Playground | Precious Gautam | [Read More](https://medium.com/p/a52035e698c3) |
-| Sun, 02 Nov 2025 15:07:49 GMT | Powerline Networking Nedir? Elektrik Hatları Üzerinden İnternetin Geleceği | Çağrı Göldemir | [Read More](https://medium.com/p/1be7ed418cdb) |
-| Sun, 02 Nov 2025 15:02:36 GMT | When Encryption Fails: The WhatsApp Zero-Click Campaigns | Abatis ABTU | [Read More](https://medium.com/p/2264d6e9dadf) |
-| Sun, 02 Nov 2025 15:01:54 GMT | Password Reset Token Invalidation Failure — A Subtle Bug with Serious Security Implications | 0xMo7areb | [Read More](https://medium.com/p/a3edfed57a6a) |
-| Sun, 02 Nov 2025 15:01:08 GMT | Old School Cybersecurity: From Firewalls and Fear to AI and Adaptive Defense | Pavlović Goran | [Read More](https://medium.com/p/6775fd0f7091) |
-| Sun, 02 Nov 2025 14:58:54 GMT | Powerline Networking Nedir? Elektrik Hatları Üzerinden İnternetin Geleceği | Seray Esen | [Read More](https://medium.com/p/9d53386212e5) |
-| Sun, 02 Nov 2025 14:44:09 GMT | Your SOC is a ghost town. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/646ecfc97281) |
-| Sun, 02 Nov 2025 14:39:48 GMT | Why We All Feel Inadequate — and What It Really Means | Sandeep Bhan | [Read More](https://medium.com/p/412044e6925d) |
