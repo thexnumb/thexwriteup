@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 20:20:37 GMT | Something Terrible Has Happened: A Skywalker Story | Jesse Di Liello | [Read More](https://medium.com/p/56f1a8c96c81) |
+| Mon, 03 Nov 2025 20:13:01 GMT | The Hidden Risk in Your Chrome Browser: Why Saving Your Passport is a Bad Idea | TechBird | [Read More](https://medium.com/p/4752fa88b945) |
+| Mon, 03 Nov 2025 20:07:18 GMT | Introducing VulnFeed — Real-Time Vulnerability Tracking for CISA & Red Hat | shresth paul | [Read More](https://medium.com/p/f77400ca05b9) |
+| Mon, 03 Nov 2025 20:02:38 GMT | Don’t Enter the Dark Web | Gary Hobs | [Read More](https://medium.com/p/6030b0ebb625) |
+| Mon, 03 Nov 2025 19:59:51 GMT | Understanding connect-src: A Simple Guide to Content Security Policy | biruk desta | [Read More](https://medium.com/p/b6613da2b696) |
+| Mon, 03 Nov 2025 19:54:03 GMT | “RPA in Healtcare” : Reducing Administrative load & Improving Patient Care | VRAJ PATEL | [Read More](https://medium.com/p/84a6c865dffa) |
+| Mon, 03 Nov 2025 19:43:07 GMT | Five Hidden Phone Hacks That Happen While You Sleep — And the 30-Second Fix That Stops Them Cold | Nazrul Islam Rana | [Read More](https://medium.com/p/f9a7ddb863fc) |
+| Mon, 03 Nov 2025 19:42:12 GMT | Announcing DorkFi Go-Live Date: Liquidity is Coming | Haroof | [Read More](https://medium.com/p/3be1ea3de97e) |
+| Mon, 03 Nov 2025 19:42:05 GMT | What is IDOR? | Cybersecplayground | [Read More](https://medium.com/p/b8ec70302b87) |
 | Mon, 03 Nov 2025 19:34:21 GMT | Assessing the Attack Surface of Remote MCP Servers | Kulkan Security | [Read More](https://medium.com/p/92d630a0cab0) |
 | Mon, 03 Nov 2025 19:33:24 GMT | I Tried 7 “Weight” Hacks — Here’s The One Natural Fix That Quieted My Nighttime Cravings | Elsayedamazon | [Read More](https://medium.com/p/2123b503a0bb) |
 | Mon, 03 Nov 2025 19:26:55 GMT | Logical box | H3XH7WK | [Read More](https://medium.com/p/24dc16eeb9be) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 14:15:12 GMT | PostgreSQL and Machine Learning: Integrating TensorFlow with Your Database | Rizqi Mulki | [Read More](https://medium.com/p/e0ac1ad7623c) |
 | Mon, 03 Nov 2025 14:11:01 GMT | 3 Proven Ways to Strengthen Your Cyber Defense Before the Next Attack | CoopSys | [Read More](https://medium.com/p/5495248fab3c) |
 | Mon, 03 Nov 2025 14:10:15 GMT | Why I Always Monitor Outbound Connections on Linux (And What They Reveal) | Faruk Ahmed | [Read More](https://medium.com/p/7a809476c971) |
-| Mon, 03 Nov 2025 14:07:37 GMT | Stop Trying to Become a Hacker, Start Becoming a Technician | Michimess | [Read More](https://medium.com/p/12d40265b405) |
-| Mon, 03 Nov 2025 14:06:44 GMT | Making Security Reviews Scalable: A Modern Approach for Product Security Teams | Mehdi Khalilzadeh | [Read More](https://medium.com/p/95ae72952c3b) |
-| Mon, 03 Nov 2025 14:01:55 GMT | Day 2: picoCTF 2019 — Easy1 (Cryptography) | Siyam | [Read More](https://medium.com/p/73b011e9f859) |
-| Mon, 03 Nov 2025 14:01:40 GMT | Ransomware in India: Why Every Company Is Now a Target | Prerna Shukla | [Read More](https://medium.com/p/32ff6a99fa3d) |
-| Mon, 03 Nov 2025 14:01:40 GMT | Silver Platter Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/a97dc06e1906) |
-| Mon, 03 Nov 2025 13:59:51 GMT | CVE-2025–63243: Reflected Cross-Site Scripting in loginAlterarSenha.asp via sle_sLogin parameter | Wagner Alves | [Read More](https://medium.com/p/53808fbbeeee) |
-| Mon, 03 Nov 2025 13:57:42 GMT | 6. Advantages of Each | Rana Awais | [Read More](https://medium.com/p/79fd6be3e6da) |
-| Mon, 03 Nov 2025 13:55:44 GMT | Topic 44 – CSS Flexbox vs CSS Grid | Rana Awais | [Read More](https://medium.com/p/9a2f48b86b79) |
-| Mon, 03 Nov 2025 13:54:40 GMT | How to Automate Vulnerability Scanning for Your Servers with Python | David Massiha | [Read More](https://medium.com/p/88370983ad68) |
