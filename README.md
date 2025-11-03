@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 20:37:12 GMT | V1t CTF 2025 — Challenges Writeups | abdelruhmanaskar | [Read More](https://medium.com/p/cd86ec22ad62) |
+| Mon, 03 Nov 2025 20:30:08 GMT | 120 Days of Purple Teaming & Cloud Incident Response -Day 12 | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/17b35bf1c181) |
+| Mon, 03 Nov 2025 20:26:48 GMT | A Practical Guide to SSL/TLS Certificate Management with OpenSSL | biruk desta | [Read More](https://medium.com/p/c844d028b34f) |
+| Mon, 03 Nov 2025 20:24:09 GMT | How I Found a Flaw That Permanently Locked Users Out of Their Accounts | Rajveer | [Read More](https://medium.com/p/034f67951008) |
 | Mon, 03 Nov 2025 20:20:37 GMT | Something Terrible Has Happened: A Skywalker Story | Jesse Di Liello | [Read More](https://medium.com/p/56f1a8c96c81) |
 | Mon, 03 Nov 2025 20:13:01 GMT | The Hidden Risk in Your Chrome Browser: Why Saving Your Passport is a Bad Idea | TechBird | [Read More](https://medium.com/p/4752fa88b945) |
 | Mon, 03 Nov 2025 20:07:18 GMT | Introducing VulnFeed — Real-Time Vulnerability Tracking for CISA & Red Hat | shresth paul | [Read More](https://medium.com/p/f77400ca05b9) |
@@ -21,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 19:43:07 GMT | Five Hidden Phone Hacks That Happen While You Sleep — And the 30-Second Fix That Stops Them Cold | Nazrul Islam Rana | [Read More](https://medium.com/p/f9a7ddb863fc) |
 | Mon, 03 Nov 2025 19:42:12 GMT | Announcing DorkFi Go-Live Date: Liquidity is Coming | Haroof | [Read More](https://medium.com/p/3be1ea3de97e) |
 | Mon, 03 Nov 2025 19:42:05 GMT | What is IDOR? | Cybersecplayground | [Read More](https://medium.com/p/b8ec70302b87) |
+| Mon, 03 Nov 2025 19:37:57 GMT | ¿Qué pasaría si hoy un actor malicioso llamara a tu clínica? | Cyber-G | [Read More](https://medium.com/p/99af4aed9802) |
 | Mon, 03 Nov 2025 19:34:21 GMT | Assessing the Attack Surface of Remote MCP Servers | Kulkan Security | [Read More](https://medium.com/p/92d630a0cab0) |
 | Mon, 03 Nov 2025 19:33:24 GMT | I Tried 7 “Weight” Hacks — Here’s The One Natural Fix That Quieted My Nighttime Cravings | Elsayedamazon | [Read More](https://medium.com/p/2123b503a0bb) |
 | Mon, 03 Nov 2025 19:26:55 GMT | Logical box | H3XH7WK | [Read More](https://medium.com/p/24dc16eeb9be) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 14:37:47 GMT | Meta’s Porn Problem, North Korea’s Hackers, and AI’s $3 Trillion Bubble: The Latest Tech Apocalypse | David Grice | [Read More](https://medium.com/p/812bbe61c36c) |
 | Mon, 03 Nov 2025 14:31:58 GMT | (Comptia A+) Virtual Private Networks (VPNs): Everything You Need to Know | Vignesh R | [Read More](https://medium.com/p/dfb6a4b01a73) |
 | Mon, 03 Nov 2025 14:31:57 GMT | Leaking Mobile Numbers via Base64 on Government Portal | Bytewreaker | [Read More](https://medium.com/p/c354277cbbc2) |
-| Mon, 03 Nov 2025 14:31:56 GMT | CVE-2025-49144: Privilege Escalation in Notepad++ v8.8.1 Installer and RCE with SYSTEM Privileges | Bash Overflow | [Read More](https://medium.com/p/c018d79a5f1d) |
-| Mon, 03 Nov 2025 14:21:47 GMT | Snapped Phish-ing LineWalthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/0567184db3ba) |
-| Mon, 03 Nov 2025 14:15:12 GMT | PostgreSQL and Machine Learning: Integrating TensorFlow with Your Database | Rizqi Mulki | [Read More](https://medium.com/p/e0ac1ad7623c) |
-| Mon, 03 Nov 2025 14:11:01 GMT | 3 Proven Ways to Strengthen Your Cyber Defense Before the Next Attack | CoopSys | [Read More](https://medium.com/p/5495248fab3c) |
-| Mon, 03 Nov 2025 14:10:15 GMT | Why I Always Monitor Outbound Connections on Linux (And What They Reveal) | Faruk Ahmed | [Read More](https://medium.com/p/7a809476c971) |
