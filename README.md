@@ -12,9 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 03:49:03 GMT | Digital Shield: The “Noah’s Ark” of Web3 — A Deep Dive into Its Compatibility Architecture and… | Digital Shield Offcial | [Read More](https://medium.com/p/78b67099bfe4) |
+| Mon, 03 Nov 2025 03:41:47 GMT | Your Business is Cyber-Bait. Are You About to Accidentally Hand the Keys to Cybercriminals? | Jared Blaine | [Read More](https://medium.com/p/cfecef748e2a) |
+| Mon, 03 Nov 2025 03:33:35 GMT | Advanced XSS Defense: Detection, Prevention and Safe Code Examples ️ | Esra Kayhan | [Read More](https://medium.com/p/4ed0beff92ae) |
+| Mon, 03 Nov 2025 03:31:58 GMT | Cephalus Ransomware: How Attackers Exploit RDP and DLL Sideloading | Deven Chhajed | [Read More](https://medium.com/p/a76768e67a5d) |
+| Mon, 03 Nov 2025 03:31:25 GMT | Digital Shield Redefines Military-Grade Security and Asset Sovereignty in the Web3 Era with the… | Digital Shield Offcial | [Read More](https://medium.com/p/c849481da948) |
+| Mon, 03 Nov 2025 03:30:26 GMT | Tải Shadow Fight 2 Hack modlmh (Vô Hạn Tiền, Max Level) | TaiModApk | [Read More](https://medium.com/p/1f7fb1169450) |
+| Mon, 03 Nov 2025 03:30:11 GMT | RootMe — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/885eb18fa519) |
+| Mon, 03 Nov 2025 03:26:11 GMT | You are not weak for showing vulnerability. | oliviaz_ | [Read More](https://medium.com/p/16b279ea68c5) |
+| Mon, 03 Nov 2025 03:21:40 GMT | Digital Shield Redefines Military-Grade Security and Asset Sovereignty in the Web3 Era with the… | Digital Shield | [Read More](https://medium.com/p/15048b804f6d) |
+| Mon, 03 Nov 2025 03:19:52 GMT | Week 16 — JS Enum Framework: From Blueprint to Reality | Aang | [Read More](https://medium.com/p/092aea4eaf4f) |
 | Mon, 03 Nov 2025 03:12:29 GMT | Yes, Men Distance Themselves from a Woman They Love | Soledad Hernandez | [Read More](https://medium.com/p/f674414870ba) |
+| Mon, 03 Nov 2025 03:09:07 GMT | Command Injection: When Your App Executes Attacker Code | Rahul Beniwal | [Read More](https://medium.com/p/c4f433247a36) |
+| Mon, 03 Nov 2025 03:08:44 GMT | Firewall | Axel Liang Gono | [Read More](https://medium.com/p/be7cbd8e3416) |
 | Mon, 03 Nov 2025 03:08:40 GMT | From Page to Payload: Turning Knowledge into Exploits the Right Way | Aj | [Read More](https://medium.com/p/b37ae314bfef) |
 | Mon, 03 Nov 2025 03:08:37 GMT | DeadFace CTF Writeup | Dominic Crippa | [Read More](https://medium.com/p/83315eb50459) |
+| Mon, 03 Nov 2025 03:08:34 GMT | SQL Injection Explained: How Attackers Exploit Your Queries and Learn how to prevent SQL Injection | Rahul Beniwal | [Read More](https://medium.com/p/e8ce4048a677) |
 | Mon, 03 Nov 2025 02:42:46 GMT | Investigating a Compromised Azure Virtual Machine (VM) | Paritosh | [Read More](https://medium.com/p/0fd2605b048c) |
 | Mon, 03 Nov 2025 02:39:49 GMT | Cyber Security: Building a Strong Security Culture | Cyber Security Research | [Read More](https://medium.com/p/0277c8a392c3) |
 | Mon, 03 Nov 2025 02:39:38 GMT | Implementing Network Segmentation and Access Control to Mitigate Internal Threats | Iheanyichukwu Onyebuchi Okoronkwo | [Read More](https://medium.com/p/58477ef42abf) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 17:31:53 GMT | Exposed API Key and RSA Private Key in POS Frontend | Bytewreaker | [Read More](https://medium.com/p/2132f55b0acc) |
 | Sun, 02 Nov 2025 17:31:53 GMT | Log Smart: Privacy-First Zapier Integrations | Hash Block | [Read More](https://medium.com/p/12d83ec5ad7a) |
 | Sun, 02 Nov 2025 17:31:53 GMT | 3 Things I learnt from my first CTF win | Achintya | [Read More](https://medium.com/p/1025fed8c2de) |
-| Sun, 02 Nov 2025 17:29:11 GMT | Understanding Cybersecurity Risk Management: Why It Matters for Every Organization | Thaís Lima | [Read More](https://medium.com/p/02958cf4f9e0) |
-| Sun, 02 Nov 2025 17:27:55 GMT | Skynet: Could AI really Turn Against Us? | Humberto Acosta | [Read More](https://medium.com/p/bff3c7b85d3f) |
-| Sun, 02 Nov 2025 17:22:14 GMT | When Bug Hunting Becomes a Burden: Surviving the Dark Side of Bug Bounties | Gl1tch | [Read More](https://medium.com/p/21e7c0df4ed8) |
-| Sun, 02 Nov 2025 17:07:39 GMT | 6 Life Changing Lessons I Learned from Tribe of Hackers | Musayyab Shah | [Read More](https://medium.com/p/eb5b178a9864) |
-| Sun, 02 Nov 2025 17:05:53 GMT | How to Implement AI & Cyber Governance in One Day – Without Consultants or Endless Meetings | Axsaspty | [Read More](https://medium.com/p/ccdc2a236d4a) |
-| Sun, 02 Nov 2025 17:04:54 GMT | Template to Terminal — Responsible Writeup of an OS Command Injection | Nakul Singh | [Read More](https://medium.com/p/ec29922f3de4) |
-| Sun, 02 Nov 2025 16:56:54 GMT | Why Quality Control in AI Security is Critical | Shailendra Kumar | [Read More](https://medium.com/p/c4b6a95631a9) |
-| Sun, 02 Nov 2025 16:55:49 GMT | Inside the Hacker’s Playground: Setting Up Your Virtual Lab (Part 2) | Stitoutl | [Read More](https://medium.com/p/2011b87bf7d6) |
-| Sun, 02 Nov 2025 16:55:14 GMT | gaHow to Hide Files or Text Inside an Image — The Art of Steganography | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/5011e8df2f12) |
-| Sun, 02 Nov 2025 16:52:47 GMT | Make it a mess | Entrée | [Read More](https://medium.com/p/be37ded502eb) |
-| Sun, 02 Nov 2025 16:51:33 GMT | Hi I am vyadaw and I am a passionate Cybersecurity professional with a strong focus on… | VYADAW (Vishal yadaw) | [Read More](https://medium.com/p/468f651f1651) |
-| Sun, 02 Nov 2025 16:37:28 GMT | Ghana’s Government IT System Failures: How we got here and what could be the way out. | Verge Financial Technologies | [Read More](https://medium.com/p/17f8cbea3ee8) |
-| Sun, 02 Nov 2025 16:37:12 GMT | Sigma to SIEM: A Practical Guide for Advanced Teams (2025) | VulnKraft | [Read More](https://medium.com/p/f7d2d3bd845f) |
