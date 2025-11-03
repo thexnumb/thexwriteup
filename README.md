@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 05:01:56 GMT | Why Your Password Isn’t Safe — Even If It Looks Strong | CyberSafe Insights | [Read More](https://medium.com/p/4d6b1efe05da) |
+| Mon, 03 Nov 2025 05:00:34 GMT | Brooklyn Nine-Nine Write-up TryHackMe | iIyas | [Read More](https://medium.com/p/858f7f7f171b) |
+| Mon, 03 Nov 2025 04:50:51 GMT | APIs: The Backbone of Modern Software Communication | Jei Ess | [Read More](https://medium.com/p/7e86ca74b31a) |
 | Mon, 03 Nov 2025 04:39:52 GMT | [OverTheWire] Bandit Level 31 → 32 | H$nt | [Read More](https://medium.com/p/895cbbc998cb) |
 | Mon, 03 Nov 2025 04:39:39 GMT | [OverTheWire] Bandit Level 30 → 31 | H$nt | [Read More](https://medium.com/p/98fec62b3c93) |
 | Mon, 03 Nov 2025 04:39:16 GMT | [OverTheWire] Bandit Level 29 → 30 | H$nt | [Read More](https://medium.com/p/050707cf9ad8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 19:24:15 GMT | Easy AWS — Basic Security | Antonella Blasetti | [Read More](https://medium.com/p/ff409b129e63) |
 | Sun, 02 Nov 2025 19:21:56 GMT | The Web’s Magician: An Intro to JavaScript Essentials with TryHackMe ✨ | Furkanctiner | [Read More](https://medium.com/p/286e9ad92d5f) |
 | Sun, 02 Nov 2025 19:18:47 GMT | HSTS: The Hidden Security Law Inside Your Browser | Mustafa Yücel | [Read More](https://medium.com/p/93acf23ec138) |
-| Sun, 02 Nov 2025 18:57:41 GMT | Nmap — The First Step Every Ethical Hacker Takes | Viratavi | [Read More](https://medium.com/p/2da1d356363e) |
-| Sun, 02 Nov 2025 18:47:18 GMT | Top 15 OSINT Tools | Nazrul Islam Rana | [Read More](https://medium.com/p/d2b7f2a0a6b7) |
-| Sun, 02 Nov 2025 18:26:12 GMT | The $1 Million Question for Architects: RBAC or ABAC? | BDhar | [Read More](https://medium.com/p/da2772faf80f) |
