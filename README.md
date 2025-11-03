@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 07:12:27 GMT | The CIA Triad: Confidentiality, Integrity, and Availability in Practice | Samina Perveen | [Read More](https://medium.com/p/5c8d3686c669) |
+| Mon, 03 Nov 2025 07:07:04 GMT | API Key Rotation Patterns in Spring Boot Security Layers | Alexander Obregon | [Read More](https://medium.com/p/1815e93cef37) |
+| Mon, 03 Nov 2025 07:04:54 GMT | Writeup: Vulnserver Remote Code Execution via TRUN() function | scr1++y | [Read More](https://medium.com/p/df81f087160c) |
+| Mon, 03 Nov 2025 06:57:30 GMT | Preparing 7-Eleven for the Next Wave of Cyber Threats — Credential Exposure, Ransomware Risks, and… | David SEHYEON Baek | [Read More](https://medium.com/p/69919e174217) |
+| Mon, 03 Nov 2025 06:56:47 GMT | The Daily Tech Digest: 03 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d15eead0d3a3) |
+| Mon, 03 Nov 2025 06:54:55 GMT | Palo Alto Networks Purple Team Exercises: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3950facacac6) |
+| Mon, 03 Nov 2025 06:54:01 GMT | From Cards to Crypto: The Digital Shift in Online Casino Payments | Michael Thompson | [Read More](https://medium.com/p/889c1da42ebd) |
+| Mon, 03 Nov 2025 06:48:44 GMT | Android vs. iOS — Which Mobile OS is the Hacking Target | David SEHYEON Baek | [Read More](https://medium.com/p/9d16b43be730) |
+| Mon, 03 Nov 2025 06:46:38 GMT | When Asahi Beer, Holding Over One Third of Japan’s Beer Market, Was Hit by a Ransomware Attack | David SEHYEON Baek | [Read More](https://medium.com/p/5973d669e003) |
+| Mon, 03 Nov 2025 06:46:33 GMT | Security and Performance Aspects of Advanced LVM Management | Eren Cankut Uysal | [Read More](https://medium.com/p/9201acdbd7e8) |
+| Mon, 03 Nov 2025 06:46:21 GMT | Strengthening Your Business with Cybersecurity Consulting and Incident Response Services | Jeffery Walker | [Read More](https://medium.com/p/b3617d554054) |
+| Mon, 03 Nov 2025 06:44:26 GMT | techNbuddy: Discover Your Perfect Match — Where Passion Meets Purpose | techNbuddy | [Read More](https://medium.com/p/b5d697d6e3c4) |
+| Mon, 03 Nov 2025 06:42:25 GMT | Vulnerability Assessment vs. Penetration Testing: Which Do You Need? | Embee Software | [Read More](https://medium.com/p/fe6229d2662e) |
+| Mon, 03 Nov 2025 06:35:32 GMT | During my recent cybersecurity training, I gained practical insights into the fundamentals of… | Adeleke Theophilus O | [Read More](https://medium.com/p/cbc124121928) |
+| Mon, 03 Nov 2025 06:35:20 GMT | Day 11 Building a CloudTrail Pipeline with Filebeat (S3 → SQS → Elasticsearch) | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/bfe60e70bb17) |
 | Mon, 03 Nov 2025 06:33:46 GMT | Studi Kasus VAPT: Membedah OWASP Juice Shop | Zulfianarahmi | [Read More](https://medium.com/p/39eb210b0af8) |
+| Mon, 03 Nov 2025 06:33:18 GMT | Protecting Your Digital Presence: Why Website Security Hygiene Matters | Cyber Shieldpro | [Read More](https://medium.com/p/2ebc86e4db41) |
 | Mon, 03 Nov 2025 06:26:22 GMT | Certs vs Experience in IT & Cyber Security: How Employers Really Weigh Them | Vijay Kumar Gupta | [Read More](https://medium.com/p/a1c579b3bcfe) |
+| Mon, 03 Nov 2025 06:25:29 GMT | Is XBOW Taking Over Hacking Jobs? | Monu Jangra | [Read More](https://medium.com/p/dc8a6991c1fd) |
+| Mon, 03 Nov 2025 06:24:36 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/dda99988859c) |
 | Mon, 03 Nov 2025 06:20:37 GMT | Crypto Isn’t Your Security Strategy: Why Web3 Teams Still Get Breached Through Old-School Email | Aysha Saifi | [Read More](https://medium.com/p/776b461c6de8) |
 | Mon, 03 Nov 2025 06:05:14 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/a3090197b801) |
 | Mon, 03 Nov 2025 06:04:58 GMT | VAPT: The Silent Armor Protecting Your Digital Business | Devarshi Acharya | [Read More](https://medium.com/p/a62e4909ca41) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 02 Nov 2025 23:11:24 GMT | I Just Published My Book | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/c9d64c3ebfb0) |
 | Sun, 02 Nov 2025 22:52:05 GMT | How Top Streamers on Twitch Are “Mini Celebrities” | Sean Sorita | [Read More](https://medium.com/p/bc88cd642b80) |
 | Sun, 02 Nov 2025 22:51:10 GMT | MQTT: The Language of the Internet of Things | Bervice | [Read More](https://medium.com/p/1a8c2c579693) |
-| Sun, 02 Nov 2025 22:45:08 GMT | How Job Recruiter Scams Hook You and How to Outsmart Them | TrendlineGala | [Read More](https://medium.com/p/2cb47cae48a3) |
-| Sun, 02 Nov 2025 22:43:41 GMT | The failures leading to the CPC | Cheta Nwanze | [Read More](https://medium.com/p/213dadd23d01) |
-| Sun, 02 Nov 2025 22:37:05 GMT | New Android Warning As Humanized Password Stealer Confirmed | Nauman khan | [Read More](https://medium.com/p/f878f29b7787) |
-| Sun, 02 Nov 2025 22:36:28 GMT | Here Is Where I Disappear | Sweet Vanilla Dreams | [Read More](https://medium.com/p/93a682bc4249) |
-| Sun, 02 Nov 2025 22:09:21 GMT | Automate Compliance Headaches with Delve’s Smart AI Agent | Raj | [Read More](https://medium.com/p/d0abdedc6fb3) |
-| Sun, 02 Nov 2025 22:04:41 GMT | Você está cyberseguro? | Yusouza | [Read More](https://medium.com/p/a88b84203031) |
-| Sun, 02 Nov 2025 22:01:39 GMT | RootMe: THM Walkthrough | Will Parker | [Read More](https://medium.com/p/7bd2636a6ce9) |
-| Sun, 02 Nov 2025 22:01:22 GMT | Hacking the ‘Disaster Prepper’ Paradigm: Ep. #3 — Adapt & Overcome | Ian Barwise | [Read More](https://medium.com/p/139eee3a7414) |
-| Sun, 02 Nov 2025 21:41:28 GMT | From Principles to Controls: Operationalizing International AI Governance (2025 – 2030) | Renã L. Guarda | [Read More](https://medium.com/p/06a13e016e0d) |
-| Sun, 02 Nov 2025 21:26:41 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/3a8a211afc22) |
-| Sun, 02 Nov 2025 21:22:48 GMT | Stripe Subscription Escalation by Default | p4 | [Read More](https://medium.com/p/9cacbb0c4ea9) |
-| Sun, 02 Nov 2025 21:16:52 GMT | How I Finally Understood the OSI Model —  It’s a Blueprint, Not a Staircase | Tawan Fonseca | [Read More](https://medium.com/p/71244604e41b) |
-| Sun, 02 Nov 2025 21:15:26 GMT | Predicting Cyber Attacks Through Data Science. | Jeremy van Gorp | [Read More](https://medium.com/p/65fff63efa2b) |
-| Sun, 02 Nov 2025 21:08:41 GMT | Change Password Hackviser | Moamenalazam | [Read More](https://medium.com/p/52e36cb72ea1) |
-| Sun, 02 Nov 2025 21:01:54 GMT | IPs, ASN & CIDR — When the Game Is the Network, We Play the Map — How target.com | القنصل | [Read More](https://medium.com/p/fbaafdb66f0b) |
-| Sun, 02 Nov 2025 21:01:21 GMT | Customizing Microsoft Security Copilot with Plugins, Prompt Books, and Custom Agents | Arsh Riz | [Read More](https://medium.com/p/7f240be82f73) |
-| Sun, 02 Nov 2025 20:57:26 GMT | The Ephemeral Cipher: When Neural Networks Become The Source of Truth and Deceit. | worst.ai | [Read More](https://medium.com/p/f6421a462bcf) |
-| Sun, 02 Nov 2025 20:57:08 GMT | Is Your Payload Truly Protected? | shivam jadhav | [Read More](https://medium.com/p/ae67dbe2711e) |
