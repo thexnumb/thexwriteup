@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 03 Nov 2025 14:39:06 GMT | Kipnappers in US Grab $8M: Biggest Threat to Crypto Holders in the Real World! | Cyber Strategy Institute | [Read More](https://medium.com/p/a166c81f01d5) |
+| Mon, 03 Nov 2025 14:38:53 GMT | Internet of Things — Input Analog (Tugas Program Termometer Digital) | Zifa Tea Azzahra | [Read More](https://medium.com/p/f82d4e235b09) |
+| Mon, 03 Nov 2025 14:38:44 GMT | Zaman Kazandıran Rehber: PRTG’de Device Template Oluşturma Adımları | kaanvardar | [Read More](https://medium.com/p/f9767f958c70) |
+| Mon, 03 Nov 2025 14:38:23 GMT | Profesionalisme dan Kode Etik di Era Teknologi Informasi dan Komunikasi (TIK) dan Generative… | Farrelian | [Read More](https://medium.com/p/e9fa03055d51) |
+| Mon, 03 Nov 2025 14:31:58 GMT | (Comptia A+) Virtual Private Networks (VPNs): Everything You Need to Know | Vignesh R | [Read More](https://medium.com/p/dfb6a4b01a73) |
+| Mon, 03 Nov 2025 14:31:57 GMT | Leaking Mobile Numbers via Base64 on Government Portal | Bytewreaker | [Read More](https://medium.com/p/c354277cbbc2) |
+| Mon, 03 Nov 2025 14:31:56 GMT | CVE-2025-49144: Privilege Escalation in Notepad++ v8.8.1 Installer and RCE with SYSTEM Privileges | Bash Overflow | [Read More](https://medium.com/p/c018d79a5f1d) |
+| Mon, 03 Nov 2025 14:21:47 GMT | Snapped Phish-ing LineWalthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/0567184db3ba) |
 | Mon, 03 Nov 2025 14:15:12 GMT | PostgreSQL and Machine Learning: Integrating TensorFlow with Your Database | Rizqi Mulki | [Read More](https://medium.com/p/e0ac1ad7623c) |
 | Mon, 03 Nov 2025 14:11:01 GMT | 3 Proven Ways to Strengthen Your Cyber Defense Before the Next Attack | CoopSys | [Read More](https://medium.com/p/5495248fab3c) |
 | Mon, 03 Nov 2025 14:10:15 GMT | Why I Always Monitor Outbound Connections on Linux (And What They Reveal) | Faruk Ahmed | [Read More](https://medium.com/p/7a809476c971) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 08:59:26 GMT | Matta4ck:Remote Code Execution (RCE) | Мартин. | [Read More](https://medium.com/p/e6a7e1fbd5de) |
 | Mon, 03 Nov 2025 08:59:01 GMT | From Noob to Red Teamer: Certifications That Change Careers | Guepster | [Read More](https://medium.com/p/4cc9b90ee1ef) |
 | Mon, 03 Nov 2025 08:57:09 GMT | Is Comet Browser Safe? The Alarming Truth About AI Browser Security | Ravi | [Read More](https://medium.com/p/455dbfc70626) |
-| Mon, 03 Nov 2025 08:57:04 GMT | Safety and Innovation with HandsFree Security LLC | High | [Read More](https://medium.com/p/007821f5696a) |
-| Mon, 03 Nov 2025 08:51:52 GMT | Protect What Matters with HandsFree Security LLC | High | [Read More](https://medium.com/p/b648542c52bd) |
-| Mon, 03 Nov 2025 08:49:26 GMT | Vendor Engagement & Proposal Management Process (RFI → RFP → RFQ) | Piyush Vishwakarma | [Read More](https://medium.com/p/d2246ab89a14) |
-| Mon, 03 Nov 2025 08:45:56 GMT | Secure with Confidence: HandsFree Security LLC | High | [Read More](https://medium.com/p/0898f03c61b4) |
-| Mon, 03 Nov 2025 08:45:00 GMT | VAPT for E-Commerce: Protecting Customer Data and Brand Reputation | Microscan Communications | [Read More](https://medium.com/p/6f51ad8415ae) |
-| Mon, 03 Nov 2025 08:44:51 GMT | Why Security Is a Leadership Issue — Not Just an IT Concern | Fook Hwa Tan | [Read More](https://medium.com/p/9229a9baef5b) |
-| Mon, 03 Nov 2025 08:44:20 GMT | What AI Means for Cybersecurity Threats Next Year | Global CCTV Monitoring Services | [Read More](https://medium.com/p/801a936c39e9) |
-| Mon, 03 Nov 2025 08:40:39 GMT | Russia’s Surveillance Paradox: Total Control Meets Total Chaos | Anton Merkurov | [Read More](https://medium.com/p/683601ca1b14) |
