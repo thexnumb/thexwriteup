@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 19:29:28 GMT | Web Investigation Lab | FeCeSociety | [Read More](https://medium.com/p/b1bf4b145321) |
+| Tue, 04 Nov 2025 19:26:45 GMT | From PDF to Problem | Ruben Croes | [Read More](https://medium.com/p/75f7d2bb54cf) |
+| Tue, 04 Nov 2025 19:21:57 GMT | Ransomware 101: How These Digital Muggers Work and Why Backup is Your Best Shield ️ | Furkanctiner | [Read More](https://medium.com/p/2fa5d00bd165) |
 | Tue, 04 Nov 2025 19:07:34 GMT | How my blog getting featured at CloudSek website…? | Sai Jayanth | [Read More](https://medium.com/p/f2d938223a6c) |
 | Tue, 04 Nov 2025 19:05:01 GMT | TYKIT: The Stealthy Phishing Kit That Turns Images Into Credential Traps | Jon C | [Read More](https://medium.com/p/b9a1e87badbc) |
 | Tue, 04 Nov 2025 19:04:52 GMT | Data Loss Prevention (DLP) | Red_Ghost | [Read More](https://medium.com/p/bad902d9ee04) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 14:24:40 GMT | GitHub Was Up. The Internet Just Couldn’t Find It. A Case of DNS Gone Wrong. | Eunice | [Read More](https://medium.com/p/c2824aaa7e70) |
 | Tue, 04 Nov 2025 14:14:23 GMT | Your WhatsApp Wasn’t Hacked — It Was Imitated | Ink Within | [Read More](https://medium.com/p/7b4712672319) |
 | Tue, 04 Nov 2025 14:08:59 GMT | When Your VPN Installer is Actually Malware | R.D.Tarun | [Read More](https://medium.com/p/83315f42586b) |
-| Tue, 04 Nov 2025 14:05:16 GMT | Web Application Basics — Writeup | Mahir | [Read More](https://medium.com/p/f68e1bb19c9d) |
-| Tue, 04 Nov 2025 14:03:00 GMT | Part 12: Vulnerability Assessments and their importance in cybersecurity | Intelithics | [Read More](https://medium.com/p/daa98a366291) |
-| Tue, 04 Nov 2025 13:58:54 GMT | ️ When a Marketing Giant Stumbles: What the Dentsu–Merkle Data Breach Means for Global Infosec… | eL Njas!™ | [Read More](https://medium.com/p/a5563b8feddd) |
