@@ -12,10 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 10:13:57 GMT | Vulnerability Assessment and Penetration Testing (VAPT): The Shield Every Digital Business Needs | Devarshi Acharya | [Read More](https://medium.com/p/5fa3963a3339) |
+| Tue, 04 Nov 2025 10:10:12 GMT | How Zuri Njoku Helps Companies Turn Technology into a Growth Engine | Zuri Njoku | [Read More](https://medium.com/p/e8d75da9c918) |
+| Tue, 04 Nov 2025 10:05:02 GMT | How to Decide Between Building or Buying AI Solutions | Maruti Techlabs | [Read More](https://medium.com/p/054bb09a0aee) |
+| Tue, 04 Nov 2025 10:03:03 GMT | My Vision for Ethical Intelligence | CYBER CYMRU | [Read More](https://medium.com/p/88b4811708ea) |
+| Tue, 04 Nov 2025 10:03:03 GMT | Cybersecurity: How to protect your application from Cross-Site Scripting (XSS) | Bitrock | [Read More](https://medium.com/p/7f4523b8a9e2) |
+| Tue, 04 Nov 2025 10:02:03 GMT | Cybersecurity: How to protect your application from Cross-Site Scripting | Bitrock | [Read More](https://medium.com/p/e05f082bd525) |
+| Tue, 04 Nov 2025 10:00:55 GMT | DockerLabs Writeup — BadPlugin (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1f00fc8c5d3c) |
+| Tue, 04 Nov 2025 10:00:50 GMT | Dark Web And Cybersecurity: Unveiling Hidden Threats Today | Techzonego | [Read More](https://medium.com/p/46d461a0f86b) |
+| Tue, 04 Nov 2025 09:58:23 GMT | API Security Market — Forecast (2025–2030) | Samudralamohankumar | [Read More](https://medium.com/p/0c224d010487) |
+| Tue, 04 Nov 2025 09:56:35 GMT | If You’re Preparing for the CompTIA Network+ (N10–009) Exam, You’re in the Right Place! | Azhariqbal | [Read More](https://medium.com/p/a64bfd00dc42) |
+| Tue, 04 Nov 2025 09:55:12 GMT | A Pentester’s Log of an Advanced Android Anti-Debugging System | IronGhost | [Read More](https://medium.com/p/2dd303482771) |
+| Tue, 04 Nov 2025 09:54:59 GMT | The Unsung Hero of Quality: Why Incident Management Matters More Than You Think | Niraj Subedi | [Read More](https://medium.com/p/a68f22365d42) |
+| Tue, 04 Nov 2025 09:52:43 GMT | How Prompt Injection Attacks Turn Assistants into Accomplices | David SEHYEON Baek | [Read More](https://medium.com/p/31ed11e406df) |
+| Tue, 04 Nov 2025 09:50:03 GMT | Honorable Hacking: How To Red Team Without Losing Your Soul | Krishna Agarwal | [Read More](https://medium.com/p/cb67f6d35688) |
+| Tue, 04 Nov 2025 09:49:22 GMT | Waste Management Companies in KSA: Leading the Way Toward a Cleaner, Sustainable Future | Asna Futorics | [Read More](https://medium.com/p/00b600acb812) |
+| Tue, 04 Nov 2025 09:48:16 GMT | Top 25 Threat Intelligence Tools for Security Analysts | Manisha Chaudhary | [Read More](https://medium.com/p/4dec12019e72) |
+| Tue, 04 Nov 2025 09:43:42 GMT | DNS Part 1 | Kiran Naragam | [Read More](https://medium.com/p/481f7c137390) |
 | Tue, 04 Nov 2025 09:39:12 GMT | RondoDox v2: Evolution of RondoDox Botnet with 650% More Exploits | Mario Candela | [Read More](https://medium.com/p/b16427b17aea) |
+| Tue, 04 Nov 2025 09:38:52 GMT | Digital Shield: The Practical Foundation of Web3 Security — Anchoring Multi-Chain Compatibility… | Digital Shield Offcial | [Read More](https://medium.com/p/2dfe8289d5e6) |
 | Tue, 04 Nov 2025 09:37:06 GMT | People Are Your Strongest Link (or Weakest). Here’s Why. | Fook Hwa Tan | [Read More](https://medium.com/p/4d11409e5f12) |
+| Tue, 04 Nov 2025 09:36:35 GMT | Digital Shield: Ending the “Crypto Nomad Era” and Ushering in the Flagship Age of Web3 Self-Custody | Digital Shield Offcial | [Read More](https://medium.com/p/e3575e6de61b) |
 | Tue, 04 Nov 2025 09:34:11 GMT | Blockchain Isn’t Unbreakable: Key Security Risks Every Web3 Project Faces | Spiritual Machines | [Read More](https://medium.com/p/a8d55a2652dd) |
 | Tue, 04 Nov 2025 09:34:02 GMT | CVE-2025–54253: Inside the Adobe AEM-Forms Zero-Day — What Pentesters & Defenders Must Do | Aditya Bhatt | [Read More](https://medium.com/p/150f1b362e70) |
+| Tue, 04 Nov 2025 09:33:18 GMT | Resilient Supply Chains for the future. What Europe’s regions need today? | Efstathios Kassios | [Read More](https://medium.com/p/3fdb3c1adc5c) |
 | Tue, 04 Nov 2025 09:30:45 GMT | How I’m Driving Traffic to My Online Cybersecurity Course Without Udemy’s Marketing Machine | Taimur Ijlal | [Read More](https://medium.com/p/8990f9325f2a) |
 | Tue, 04 Nov 2025 09:30:32 GMT | Staying in Control: Smart Response for Modern Cyber Threats | Cloudsa Africa | [Read More](https://medium.com/p/616f9be9bd5c) |
 | Tue, 04 Nov 2025 09:30:21 GMT | Khalani.Network Hackd | Ebxd | [Read More](https://medium.com/p/91075ce7821f) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 04:32:45 GMT | The Ghost in the Machine: How I Found IDORs That Were Hiding in Plain Sight | Iski | [Read More](https://medium.com/p/0c26bca85c2f) |
 | Tue, 04 Nov 2025 04:32:34 GMT | Top CCTV Camera Brands for Saudi Arabian Security 2025 | VRS Technologies Saudi Arabia | [Read More](https://medium.com/p/d4ce4fecf5fc) |
 | Tue, 04 Nov 2025 04:29:41 GMT | Hit Your Mark with “Bulleye” — The CTF Challenge You Can’t Skip | Pentester Club | [Read More](https://medium.com/p/60373c891c9c) |
-| Tue, 04 Nov 2025 04:26:32 GMT | BROKEN OBJECT LEVEL AUTHORIZATION(BOLA) | Jei Ess | [Read More](https://medium.com/p/7a2f1d5731ef) |
-| Tue, 04 Nov 2025 04:25:01 GMT | Gartner SIEM Magic Quadrant’ın Son 10 Yılki Lideri QRadar Bu Sene Listede Neden Yok? | Ertugrul Akbas | [Read More](https://medium.com/p/e29a3cecb862) |
-| Tue, 04 Nov 2025 04:18:08 GMT | IT Project Management 360: Methods, Metrics, and Future Trends | TaskFord | [Read More](https://medium.com/p/a61262f489b5) |
-| Tue, 04 Nov 2025 04:07:40 GMT | ️‍♂️ Beyond Encryption: How to Build a Secret Messenger Using Kotlin and Images | Sivavishnu | [Read More](https://medium.com/p/e8e82e9a0120) |
-| Tue, 04 Nov 2025 04:01:59 GMT | Why “Eastern Sentry” Can’t Fully Protect NATO’s Eastern Edge — And Moscow Knows It | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/5896f6b0a2d7) |
-| Tue, 04 Nov 2025 03:56:07 GMT | 8 Best LAN IP Scanning Tools (Free & Fast) to Fix Wi-Fi Problems, Find Hidden Devices, and Scan… | Sajjad Hussain | [Read More](https://medium.com/p/5cac8bb69528) |
-| Tue, 04 Nov 2025 03:53:54 GMT | I Went on the Dark Web: What I Saw Will Shock You | Kamran Khan | [Read More](https://medium.com/p/59a6f19a3999) |
-| Tue, 04 Nov 2025 03:53:06 GMT | Hey, this is Abhiram Boyanapalli | Abhiram Boyanapalli | [Read More](https://medium.com/p/a48bd50b122a) |
-| Tue, 04 Nov 2025 03:50:11 GMT | The Internet Is Not a Picnic — But You Can Bring a Very Brave Sandwich | Dave LumAI | [Read More](https://medium.com/p/73cec3bb7180) |
-| Tue, 04 Nov 2025 03:31:56 GMT | Unzipping the Zipline Campaign: How Attackers Hijack Trust to Target Manufacturing | Deven Chhajed | [Read More](https://medium.com/p/822f311b481a) |
-| Tue, 04 Nov 2025 03:29:57 GMT | Path-Based IDORs: A Systematic Guide for Interactive Bug Bounty Learning | termireum | [Read More](https://medium.com/p/06b1b506e48c) |
-| Tue, 04 Nov 2025 03:22:13 GMT | How I Mapped and Assessed an SMB-Exposed Windows Lab — A Responsible Walkthrough | Vivektumma27 | [Read More](https://medium.com/p/c0fcb671526c) |
-| Tue, 04 Nov 2025 03:21:53 GMT | In today’s fast-evolving digital world, coding is no longer just a niche skill — it has become a… | STEMBuddy Coding & Robotics Education, Australia | [Read More](https://medium.com/p/25e11c13ad19) |
-| Tue, 04 Nov 2025 03:20:44 GMT | Cryptographic Implementation Bugs: The Hidden Flaws Weakening Modern Encryption | Monu Jangra | [Read More](https://medium.com/p/0e9e805125f3) |
-| Tue, 04 Nov 2025 03:06:50 GMT | 32KB to Chaos: Exploiting XSS and WAF Evasion in a Fintech App | Derek Johnston | [Read More](https://medium.com/p/b6afef003ee4) |
-| Tue, 04 Nov 2025 03:03:22 GMT | Can LLMs Do Better Threat Modeling Than Humans? | Aditya Kolte | [Read More](https://medium.com/p/f0177438f3d2) |
-| Tue, 04 Nov 2025 03:03:00 GMT | My IT Journey Begins - From Blue to White Collar | Daniel Eduardo Medina | [Read More](https://medium.com/p/79a167889cf1) |
-| Tue, 04 Nov 2025 02:58:04 GMT | Docker y LXC: 5 Verdades Sorprendentes | Didier Revelo | [Read More](https://medium.com/p/f826db3dc919) |
-| Tue, 04 Nov 2025 02:39:20 GMT | Fortinet NSE7 Operational Technology Security 7.2: 591Lab’s Guide to OT Mastery. | Al Beruni | [Read More](https://medium.com/p/571f2b696d63) |
-| Tue, 04 Nov 2025 02:25:35 GMT | WPScan: la navaja suiza para auditar WordPress | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/80d536daee46) |
