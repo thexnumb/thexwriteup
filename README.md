@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 18:27:30 GMT | Day 9: Mastering System Networking Commands — The Tools Every Analyst Must Know | HackTrace | [Read More](https://medium.com/p/e1c255427489) |
+| Tue, 04 Nov 2025 18:20:18 GMT | Beyond the Bounties: How Modern Platforms Are Shaping the Future of Ethical Hacking | Penough | [Read More](https://medium.com/p/5bdee62d494d) |
+| Tue, 04 Nov 2025 18:16:57 GMT | How to Ensure Cybersecurity While Developing Artificial Intelligence ️ | Lumae | [Read More](https://medium.com/p/d2430f38b476) |
+| Tue, 04 Nov 2025 18:14:45 GMT | ☕️ Cyber & Coffee Daily: Brewing the Top Tech News You Can’t Miss (Nov 4, 2025) | Cyber and Coffee | [Read More](https://medium.com/p/61815e4e7cae) |
+| Tue, 04 Nov 2025 18:13:35 GMT | The Executive Security Dashboard: Visualizing What Matters Without the Noise | Fabien Soulis | [Read More](https://medium.com/p/d46efb31c5aa) |
+| Tue, 04 Nov 2025 18:11:39 GMT | Article 1&2 : Introduction and Basic Computer Engineering and Science | Aman Kumar Singh | [Read More](https://medium.com/p/f332e2c4d540) |
+| Tue, 04 Nov 2025 18:06:41 GMT | Regen info tech creates regenerative economics | Erik Kvam | [Read More](https://medium.com/p/1bc43452d536) |
+| Tue, 04 Nov 2025 18:06:11 GMT | AI-assisted Offensive: How AI Is Changing Red Teaming, Adversary Emulation, and Responsible… | Monu Jangra | [Read More](https://medium.com/p/159f07007427) |
+| Tue, 04 Nov 2025 18:04:36 GMT | How They Find You Online, And How to Vanish with 60 Lines of Python | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/c576704b7d59) |
+| Tue, 04 Nov 2025 18:01:57 GMT | PicoCTF Writeup — Glitch Cat | SoBatista | [Read More](https://medium.com/p/54d276ef0bfb) |
+| Tue, 04 Nov 2025 18:01:56 GMT | No, I dont have a gun. | Rodrigo S Michelin | [Read More](https://medium.com/p/066a29b63dc2) |
+| Tue, 04 Nov 2025 18:01:23 GMT | The AI Capital Cycle and Small Business Strategy | David Daniel | [Read More](https://medium.com/p/099011806d13) |
+| Tue, 04 Nov 2025 17:54:10 GMT | The Missing MCP Playbook: Deploying Custom Agents on Claude.ai and Claude Mobile | George Vetticaden | [Read More](https://medium.com/p/05274f60a970) |
+| Tue, 04 Nov 2025 17:49:44 GMT | From Vulnerable to Production-Ready: A Real-World Security Hardening Journey | Adamschulte | [Read More](https://medium.com/p/190b7745c360) |
+| Tue, 04 Nov 2025 17:35:16 GMT | The Google Data Leak: Google responds to claim of millions of G-mail Passwords leaked | Himanshu Bhatt | [Read More](https://medium.com/p/4d0d65036ca7) |
 | Tue, 04 Nov 2025 17:34:26 GMT | The Most Common Medium Severity Bug Found In Almost Every Website | Rehan Sohail | [Read More](https://medium.com/p/b0d0649dd739) |
+| Tue, 04 Nov 2025 17:32:44 GMT | The Digital Vault | H3XH7WK | [Read More](https://medium.com/p/a4885ba41f8f) |
+| Tue, 04 Nov 2025 17:32:39 GMT | How to Avoid AI Detecting Your Text | Zvi Azran | [Read More](https://medium.com/p/2ed82cf46a03) |
+| Tue, 04 Nov 2025 17:32:18 GMT | Essential Website Security Practices Every Business Should Follow | Website Legends | [Read More](https://medium.com/p/e60076058b74) |
 | Tue, 04 Nov 2025 17:26:15 GMT | First Day at the IT Campus — Mohan and Arjun’s Story | Karthick Dkk | [Read More](https://medium.com/p/ddcb721991ea) |
 | Tue, 04 Nov 2025 17:23:10 GMT | Blockchain Technology and Cyber Security | Jibriel Jeelani | [Read More](https://medium.com/p/4a0b918e0d5f) |
 | Tue, 04 Nov 2025 17:20:56 GMT | Cybercriminals Weaponize PuTTY Ads to Deploy OysterLoader Malware in Sophisticated Attack Campaign | Technijian | [Read More](https://medium.com/p/884f891c31f8) |
@@ -58,6 +76,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 15:13:52 GMT | Why Every Student Should Learn About Phishing Attacks | Aj | [Read More](https://medium.com/p/1f583f9d08ae) |
 | Tue, 04 Nov 2025 15:08:29 GMT | Basic Pentesting THM Writeup | Benedict Agno | [Read More](https://medium.com/p/c0d7448f3236) |
 | Tue, 04 Nov 2025 15:04:45 GMT | Ez Creds — Extracting and Analysing DLL files | jH7z | [Read More](https://medium.com/p/f11853e9c3cf) |
+| Tue, 04 Nov 2025 15:02:30 GMT | Your Clipboard, Their Goldmine: When “Zero Trust” Becomes Personal | Abatis ABTU | [Read More](https://medium.com/p/e3bda61426f6) |
 | Tue, 04 Nov 2025 15:01:44 GMT | Every forensic investigator should know these common antiforensic wipers | Dean | [Read More](https://medium.com/p/aa30844ade47) |
 | Tue, 04 Nov 2025 14:55:21 GMT | “The Authentication Bypass That Exploited JavaScript’s Dot” | Aman Sharma | [Read More](https://medium.com/p/25397a801ef0) |
 | Tue, 04 Nov 2025 14:52:33 GMT | Absent your agency. | Daniel Moore | [Read More](https://medium.com/p/d69168706106) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 13:11:37 GMT | Hardening a Web App Against Phishing Flags and Missing Security Headers. | Ogwuazor Lucky | [Read More](https://medium.com/p/b88c2bad1e49) |
 | Tue, 04 Nov 2025 13:10:29 GMT | The CISO’s Nightmare & The Dual-Sided Threat: MCP Security Takeaways from Akto 2025 (Part 2) | Yash Virendra Prajapati | [Read More](https://medium.com/p/bdc87deee693) |
 | Tue, 04 Nov 2025 13:07:16 GMT | Securing Generative AI: Risks, Threats, and Mitigations | DhanushKumar | [Read More](https://medium.com/p/1b609330dc1e) |
-| Tue, 04 Nov 2025 13:06:07 GMT | TryHackMe: Investigating Windows Writeup | Melisa Nyamukondiwa | [Read More](https://medium.com/p/88b70cf8a0e4) |
-| Tue, 04 Nov 2025 13:05:30 GMT | Cache Poisoning: Making Your CDN Serve Malicious Content to Everyone ️ | InstaTunnel | [Read More](https://medium.com/p/c68937ba22cb) |
-| Tue, 04 Nov 2025 13:04:16 GMT | Why Reliable Security Guard Services Are Essential in Today’s Fast-Paced World | Ciss India | [Read More](https://medium.com/p/1cefd142f229) |
-| Tue, 04 Nov 2025 13:02:01 GMT | Fixing glibc Vulnerabilities in Go Containers: The Case of CVE-2025–4802 | Cássius Paim | [Read More](https://medium.com/p/cd7e4b9b327d) |
-| Tue, 04 Nov 2025 13:01:45 GMT | Labshock ICS Terminal: The “Bloomberg Terminal” for Industrial Control Systems | Desmond Lamptey | [Read More](https://medium.com/p/b6babbb79be4) |
-| Tue, 04 Nov 2025 12:59:45 GMT | Jason Costain on Preventing Crypto Fraud and Risk Management | Jason Costain | [Read More](https://medium.com/p/f735ca6ac3ba) |
-| Tue, 04 Nov 2025 12:58:13 GMT | Project #14.2— Compliance Gap Analysis [CIS Controls v8, IG2 Edition] | Andrew Williams | [Read More](https://medium.com/p/53c94a83c945) |
-| Tue, 04 Nov 2025 12:57:33 GMT | เฉลยโจทย์ Digital Forensic ในกิจกรรม Hackloween 2025 CTF Event by SEC Playground | Chicken0248 | [Read More](https://medium.com/p/ec721644ef69) |
-| Tue, 04 Nov 2025 12:55:55 GMT | IoT Security Trends 2025: Shaping the Future of Connected Ecosystems | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/9684510fd4e1) |
-| Tue, 04 Nov 2025 12:55:09 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/c55e9002ac0d) |
-| Tue, 04 Nov 2025 12:51:20 GMT | From ClickFix to EtherHiding: The Evolution of Cybercrime. | José Reyes (@Architekt) | [Read More](https://medium.com/p/b3df273a46fb) |
-| Tue, 04 Nov 2025 12:47:58 GMT | The Art of Vulnerability: Unlocking Creative Potential | Lucy Nwadike | [Read More](https://medium.com/p/53919aee0bc2) |
-| Tue, 04 Nov 2025 12:38:33 GMT | WhoAmI | ishiii | [Read More](https://medium.com/p/10865b4030f5) |
-| Tue, 04 Nov 2025 12:35:47 GMT | Stolen Mount - Tryhackme — Walkthrough | Aufarifqi | [Read More](https://medium.com/p/779a495e347e) |
-| Tue, 04 Nov 2025 12:35:46 GMT | Key Benefits of Hiring Cybersecurity Compliance Service Providers | Zelar Trust | [Read More](https://medium.com/p/8016de626998) |
-| Tue, 04 Nov 2025 12:32:08 GMT | Low-Code/No-Code Is the New “Shadow IT” And It’s a Security Nightmare | Himanshu | [Read More](https://medium.com/p/2dd527f09031) |
-| Tue, 04 Nov 2025 12:27:35 GMT | Why Multimodal AI is Better than Single-Modal AI Models? | Maruti Techlabs | [Read More](https://medium.com/p/450e6292bfaa) |
-| Tue, 04 Nov 2025 12:21:25 GMT | DNS Command & Control Server | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e1dc719f0eb1) |
-| Tue, 04 Nov 2025 12:17:49 GMT | Redefining Data Center Security for a Resilient Future in KSA & GCC | Tekfardeen | [Read More](https://medium.com/p/3141cada0d31) |
