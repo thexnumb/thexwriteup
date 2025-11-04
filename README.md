@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 21:07:47 GMT | Simple IDORs Lead To PII Leaks Got $1476 Bounty | Ferdus Alam | [Read More](https://medium.com/p/aa3e06a5976b) |
+| Tue, 04 Nov 2025 20:54:18 GMT | The day the AI woke up with the flu | Marco van Hurne | [Read More](https://medium.com/p/b67fe1da3da7) |
+| Tue, 04 Nov 2025 20:53:18 GMT | Reliable Business Internet Solutions with Strong Cybersecurity Support | Defend My Business | [Read More](https://medium.com/p/4e7174280668) |
 | Tue, 04 Nov 2025 20:35:25 GMT | The Quiet Power of Saying I Don’t Know | Zorica Pavicic | [Read More](https://medium.com/p/39cfc1b3bc60) |
 | Tue, 04 Nov 2025 20:31:19 GMT | Active Directory Help Desk Lab/Building a Two VM Windows Server Environment | Erik Diaz | [Read More](https://medium.com/p/47cf6f396bb5) |
 | Tue, 04 Nov 2025 20:21:30 GMT | The AI Security Crossroads: Navigating Risk with Human-Centered Strategies | ZENcurity | [Read More](https://medium.com/p/2fc2a249c5d6) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 15:04:45 GMT | Ez Creds — Extracting and Analysing DLL files | jH7z | [Read More](https://medium.com/p/f11853e9c3cf) |
 | Tue, 04 Nov 2025 15:02:30 GMT | Your Clipboard, Their Goldmine: When “Zero Trust” Becomes Personal | Abatis ABTU | [Read More](https://medium.com/p/e3bda61426f6) |
 | Tue, 04 Nov 2025 15:01:44 GMT | Every forensic investigator should know these common antiforensic wipers | Dean | [Read More](https://medium.com/p/aa30844ade47) |
-| Tue, 04 Nov 2025 14:55:21 GMT | “The Authentication Bypass That Exploited JavaScript’s Dot” | Aman Sharma | [Read More](https://medium.com/p/25397a801ef0) |
-| Tue, 04 Nov 2025 14:52:33 GMT | Absent your agency. | Daniel Moore | [Read More](https://medium.com/p/d69168706106) |
-| Tue, 04 Nov 2025 14:50:06 GMT | Las 5 plataformas para practicar seguridad defensiva en laboratorios virtuales | Tiziano Mass | [Read More](https://medium.com/p/d789169a096d) |
