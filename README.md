@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 04:40:20 GMT | CL0P RANSOMWARE: DISSECTING NETWORK | Rakesh Krishnan | [Read More](https://medium.com/p/75d4761deedc) |
+| Tue, 04 Nov 2025 04:39:45 GMT | [OverTheWire] Bandit Level 32 → 33 | H$nt | [Read More](https://medium.com/p/a739686811e4) |
+| Tue, 04 Nov 2025 04:32:45 GMT | The Ghost in the Machine: How I Found IDORs That Were Hiding in Plain Sight | Iski | [Read More](https://medium.com/p/0c26bca85c2f) |
+| Tue, 04 Nov 2025 04:32:34 GMT | Top CCTV Camera Brands for Saudi Arabian Security 2025 | VRS Technologies Saudi Arabia | [Read More](https://medium.com/p/d4ce4fecf5fc) |
+| Tue, 04 Nov 2025 04:29:41 GMT | Hit Your Mark with “Bulleye” — The CTF Challenge You Can’t Skip | Pentester Club | [Read More](https://medium.com/p/60373c891c9c) |
+| Tue, 04 Nov 2025 04:26:32 GMT | BROKEN OBJECT LEVEL AUTHORIZATION(BOLA) | Jei Ess | [Read More](https://medium.com/p/7a2f1d5731ef) |
+| Tue, 04 Nov 2025 04:25:01 GMT | Gartner SIEM Magic Quadrant’ın Son 10 Yılki Lideri QRadar Bu Sene Listede Neden Yok? | Ertugrul Akbas | [Read More](https://medium.com/p/e29a3cecb862) |
+| Tue, 04 Nov 2025 04:18:08 GMT | IT Project Management 360: Methods, Metrics, and Future Trends | TaskFord | [Read More](https://medium.com/p/a61262f489b5) |
 | Tue, 04 Nov 2025 04:07:40 GMT | ️‍♂️ Beyond Encryption: How to Build a Secret Messenger Using Kotlin and Images | Sivavishnu | [Read More](https://medium.com/p/e8e82e9a0120) |
 | Tue, 04 Nov 2025 04:01:59 GMT | Why “Eastern Sentry” Can’t Fully Protect NATO’s Eastern Edge — And Moscow Knows It | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/5896f6b0a2d7) |
 | Tue, 04 Nov 2025 03:56:07 GMT | 8 Best LAN IP Scanning Tools (Free & Fast) to Fix Wi-Fi Problems, Find Hidden Devices, and Scan… | Sajjad Hussain | [Read More](https://medium.com/p/5cac8bb69528) |
@@ -46,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 00:12:50 GMT | How Automation Is Redefining Online Safety | Rabail Zaheer | [Read More](https://medium.com/p/8f40f29bcf67) |
 | Tue, 04 Nov 2025 00:09:22 GMT | Friendly Interactive Shell (FISH) | Cybersec with Hemmars | [Read More](https://medium.com/p/dc5073c47365) |
 | Tue, 04 Nov 2025 00:01:56 GMT | HackTheBox Hunting for Stuxbot (A Real-World Threat Hunt with Elastic) | Cybersecurity Simplified | [Read More](https://medium.com/p/ab675a6e764d) |
+| Tue, 04 Nov 2025 00:01:56 GMT | Guía Avanzada de Penetration Testing en APIs (Parte 1) Mapeo OWASP Top 10 y Fases de Reconocimiento | JPablo13 | [Read More](https://medium.com/p/a859ed5aecc5) |
 | Mon, 03 Nov 2025 23:53:02 GMT | I Almost Didn’t Tell You | musingsfrommarc | [Read More](https://medium.com/p/bfd5bae0a175) |
 | Mon, 03 Nov 2025 23:50:47 GMT | The AI Hacker That Works for the Good Guys | Cyber-AppSec | [Read More](https://medium.com/p/c8bb7239f5a1) |
 | Mon, 03 Nov 2025 23:37:34 GMT | Proton Exposes 300 Million Stolen Credentials  49% Include Passwords | Nauman khan | [Read More](https://medium.com/p/ebd656ea8021) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 18:50:57 GMT | LetsDefend Malware Analysis — -Event ID: 36 [SOC104 — Malware Detected] | Iftikaralom | [Read More](https://medium.com/p/2c5f17a6fb25) |
 | Mon, 03 Nov 2025 18:40:44 GMT | The Hidden Cost of Sharing Too Much Online | Musayyab Shah | [Read More](https://medium.com/p/35ac3ef2868c) |
 | Mon, 03 Nov 2025 18:33:23 GMT | The 3 AM Breakthrough: How a CTF Side Quest Unlocked a Critical Bug Bounty | Santhosh Adiga U | [Read More](https://medium.com/p/f548f98245fc) |
-| Mon, 03 Nov 2025 18:23:33 GMT | Is Termux a hacker’s Creative tool? Why Termux Is the Most Exciting App | Aditya Raj | [Read More](https://medium.com/p/3550b3bfb88f) |
-| Mon, 03 Nov 2025 18:21:05 GMT | Smarter Security in 2025: How Advanced Technology Is Transforming Guard Management and IT… | Teona | [Read More](https://medium.com/p/c8ad7dbddf64) |
-| Mon, 03 Nov 2025 18:17:54 GMT | The $122 Billion Blind Spot: Why AI Security Can’t Wait | Ramya Ganesh | [Read More](https://medium.com/p/ef72f0f20639) |
-| Mon, 03 Nov 2025 18:12:24 GMT | The Top 5 Reasons for Having Event Security & Executive Protection in Manhattan | The Safety Perspective | [Read More](https://medium.com/p/670364a89007) |
-| Mon, 03 Nov 2025 18:03:24 GMT | Project: End-to-End SIEM/SOAR Pipeline for Hybrid-Cloud Threat Detection | Tejas Parmar | [Read More](https://medium.com/p/065e5316e0e5) |
-| Mon, 03 Nov 2025 18:03:14 GMT | AI/ LLM Hacking -Part 5-Improper Output Handling | Darshan Naresh Naik | [Read More](https://medium.com/p/c6eaaba173f0) |
-| Mon, 03 Nov 2025 18:02:22 GMT | Hack From Home: Remote CTFs Without Breaking the Bank | NotProudOfIt | [Read More](https://medium.com/p/ba04580978c2) |
-| Mon, 03 Nov 2025 18:00:18 GMT | Stop the Reuse Habit: Length and Uniqueness Win the Password War! ️ | Max Farnga | [Read More](https://medium.com/p/64bbff268dd8) |
-| Mon, 03 Nov 2025 17:50:08 GMT | The Windows Forensic Journey — GRR (Google Rapid Response) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/66c946aa8fbe) |
