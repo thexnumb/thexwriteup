@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 14:40:41 GMT | The danger of vibe coding: How a broken‑object‑level authorization (BOLA) bug slipped into an AI… | Jay Simmons | [Read More](https://medium.com/p/c8173a0e8536) |
+| Tue, 04 Nov 2025 14:40:23 GMT | Unlocking Privacy: Partial vs Full Homomorphic Encryption Explained with Python | Riccardo Bernardi | [Read More](https://medium.com/p/31d346641fe1) |
+| Tue, 04 Nov 2025 14:39:34 GMT | Generative AI in cybersecurity: How AI-Augmented and AI-enhanced teams can build smarter security… | Software business reviewer | [Read More](https://medium.com/p/d7aeecdfe6c7) |
+| Tue, 04 Nov 2025 14:38:41 GMT | Pablo Patel — How Businesses Will Reinvent Themselves Through AI and Digital Psychology by 2030 | Pablo | [Read More](https://medium.com/p/3873dba9f02d) |
+| Tue, 04 Nov 2025 14:38:26 GMT | Why You Hear About Data Breaches Months Later — and What Companies Aren’t Saying | Legal Thoughts | [Read More](https://medium.com/p/c2f3641b89f3) |
+| Tue, 04 Nov 2025 14:36:53 GMT | Authentication Bypass in Indian Government Mobile App | Bytewreaker | [Read More](https://medium.com/p/b0cd66662d69) |
+| Tue, 04 Nov 2025 14:34:24 GMT | OWASP top 10–2021 | omni | [Read More](https://medium.com/p/2a3a6af4ad02) |
+| Tue, 04 Nov 2025 14:30:18 GMT | What I Wish I Knew About Cybersecurity Before My Startup Got Hacked | Hania Khan | [Read More](https://medium.com/p/979cf18f37e2) |
+| Tue, 04 Nov 2025 14:27:15 GMT | Free 48-Hour AI & Cyber Governance Checklist (Australian Edition) | Axsaspty | [Read More](https://medium.com/p/47f4a0f9d704) |
+| Tue, 04 Nov 2025 14:24:40 GMT | GitHub Was Up. The Internet Just Couldn’t Find It. A Case of DNS Gone Wrong. | Eunice | [Read More](https://medium.com/p/c2824aaa7e70) |
+| Tue, 04 Nov 2025 14:14:23 GMT | Your WhatsApp Wasn’t Hacked — It Was Imitated | Ink Within | [Read More](https://medium.com/p/7b4712672319) |
 | Tue, 04 Nov 2025 14:08:59 GMT | When Your VPN Installer is Actually Malware | R.D.Tarun | [Read More](https://medium.com/p/83315f42586b) |
 | Tue, 04 Nov 2025 14:05:16 GMT | Web Application Basics — Writeup | Mahir | [Read More](https://medium.com/p/f68e1bb19c9d) |
 | Tue, 04 Nov 2025 14:03:00 GMT | Part 12: Vulnerability Assessments and their importance in cybersecurity | Intelithics | [Read More](https://medium.com/p/daa98a366291) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 09:49:22 GMT | Waste Management Companies in KSA: Leading the Way Toward a Cleaner, Sustainable Future | Asna Futorics | [Read More](https://medium.com/p/00b600acb812) |
 | Tue, 04 Nov 2025 09:48:16 GMT | Top 25 Threat Intelligence Tools for Security Analysts | Manisha Chaudhary | [Read More](https://medium.com/p/4dec12019e72) |
 | Tue, 04 Nov 2025 09:43:42 GMT | DNS Part 1 | Kiran Naragam | [Read More](https://medium.com/p/481f7c137390) |
-| Tue, 04 Nov 2025 09:39:12 GMT | RondoDox v2: Evolution of RondoDox Botnet with 650% More Exploits | Mario Candela | [Read More](https://medium.com/p/b16427b17aea) |
-| Tue, 04 Nov 2025 09:38:52 GMT | Digital Shield: The Practical Foundation of Web3 Security — Anchoring Multi-Chain Compatibility… | Digital Shield Offcial | [Read More](https://medium.com/p/2dfe8289d5e6) |
-| Tue, 04 Nov 2025 09:37:06 GMT | People Are Your Strongest Link (or Weakest). Here’s Why. | Fook Hwa Tan | [Read More](https://medium.com/p/4d11409e5f12) |
-| Tue, 04 Nov 2025 09:36:35 GMT | Digital Shield: Ending the “Crypto Nomad Era” and Ushering in the Flagship Age of Web3 Self-Custody | Digital Shield Offcial | [Read More](https://medium.com/p/e3575e6de61b) |
-| Tue, 04 Nov 2025 09:34:11 GMT | Blockchain Isn’t Unbreakable: Key Security Risks Every Web3 Project Faces | Spiritual Machines | [Read More](https://medium.com/p/a8d55a2652dd) |
-| Tue, 04 Nov 2025 09:34:02 GMT | CVE-2025–54253: Inside the Adobe AEM-Forms Zero-Day — What Pentesters & Defenders Must Do | Aditya Bhatt | [Read More](https://medium.com/p/150f1b362e70) |
-| Tue, 04 Nov 2025 09:33:18 GMT | Resilient Supply Chains for the future. What Europe’s regions need today? | Efstathios Kassios | [Read More](https://medium.com/p/3fdb3c1adc5c) |
-| Tue, 04 Nov 2025 09:30:45 GMT | How I’m Driving Traffic to My Online Cybersecurity Course Without Udemy’s Marketing Machine | Taimur Ijlal | [Read More](https://medium.com/p/8990f9325f2a) |
-| Tue, 04 Nov 2025 09:30:32 GMT | Staying in Control: Smart Response for Modern Cyber Threats | Cloudsa Africa | [Read More](https://medium.com/p/616f9be9bd5c) |
-| Tue, 04 Nov 2025 09:30:21 GMT | Khalani.Network Hackd | Ebxd | [Read More](https://medium.com/p/91075ce7821f) |
-| Tue, 04 Nov 2025 09:18:24 GMT | The Transport Layer: Delivering Data with Reliability | Zeli | [Read More](https://medium.com/p/d66f67f6c48a) |
