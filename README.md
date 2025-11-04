@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 08:29:29 GMT | Why Every Business Needs Regular VAPT Services | West Advanced Technologies Inc | [Read More](https://medium.com/p/faf94a9a5ada) |
+| Tue, 04 Nov 2025 08:23:34 GMT | Blenheim Palace Gold Toilet Heist Exposed | Global CCTV Monitoring Services | [Read More](https://medium.com/p/52ef65afb165) |
+| Tue, 04 Nov 2025 08:20:26 GMT | Learning Cybersecurity on Your Own Is Hell — Here’s What I Learned | Atiya Kharwa | [Read More](https://medium.com/p/d360498e0308) |
+| Tue, 04 Nov 2025 08:01:16 GMT | Beyond Passwords: Identity Is the New Perimeter | Yash Patel | [Read More](https://medium.com/p/c9f2874c097a) |
+| Tue, 04 Nov 2025 07:58:49 GMT | Basic Pentesting 1 of vulnhub Walkthrough : writeup | Attiqorakzai | [Read More](https://medium.com/p/f945f2a5a5ff) |
+| Tue, 04 Nov 2025 07:55:12 GMT | How Much Money Do We Need in Order to Be Completely Calm and Anxiety-Free? | Michael Laitman | [Read More](https://medium.com/p/6c30e8f1daa2) |
+| Tue, 04 Nov 2025 07:53:10 GMT | Why AI Agents and Blockchain Can’t Talk — And How I’m Fixing It | Levi Chinecherem Chidi | [Read More](https://medium.com/p/bd14678976f1) |
+| Tue, 04 Nov 2025 07:47:18 GMT | Why Saying ‘No’ Became the Best Business Decision I Ever Made | Vijay Kumar Gupta | [Read More](https://medium.com/p/0416aa6190de) |
+| Tue, 04 Nov 2025 07:46:47 GMT | Your Home Isn’t as Safe as You Think: 7 Overlooked Weak Spots Burglars Exploit | Amy Smith | [Read More](https://medium.com/p/362a0f2a2c15) |
+| Tue, 04 Nov 2025 07:46:35 GMT | SleepyDuck VSX Malware Leverages Ethereum Blockchain for Command Server Persistence | Himanshu Bhatt | [Read More](https://medium.com/p/a313b8dde63f) |
+| Tue, 04 Nov 2025 07:45:41 GMT | Unlock Your IT Future: Why a Job Ready Program in Australia is Your Fast-Track to Success | Nishesgrg | [Read More](https://medium.com/p/96cb3c555500) |
+| Tue, 04 Nov 2025 07:38:45 GMT | Timed Automata in Cybersecurity: Formal Models for Temporal Threats | Hayli Patel | [Read More](https://medium.com/p/d5f22bd08b2e) |
+| Tue, 04 Nov 2025 07:36:30 GMT | ประจำวันอังคารที่ 4 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/0db404c72012) |
 | Tue, 04 Nov 2025 07:31:55 GMT | Google Dorking | Saltık Buğrahan Kızıltaş | [Read More](https://medium.com/p/0e326d67296b) |
 | Tue, 04 Nov 2025 07:24:03 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vrindaraghav7 | [Read More](https://medium.com/p/6b4a3e9db9e0) |
 | Tue, 04 Nov 2025 07:23:13 GMT | Best Ethical Hacking Training in Noida - Ducat India | neerajr0710 | [Read More](https://medium.com/p/78360c742b96) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 22:51:01 GMT | Hashing- What is it, how to create it, and how to spot it. (PowerShell Version) | Jenna S | [Read More](https://medium.com/p/eed6c50dd76a) |
 | Mon, 03 Nov 2025 22:30:27 GMT | DNS Spoofing Attacks: When Names Lie | Bervice | [Read More](https://medium.com/p/20b5bb732dd4) |
 | Mon, 03 Nov 2025 22:29:59 GMT | Polkit: CVE-2021-3560 Tryhackme Walkthrough Answers | Jawstar | [Read More](https://medium.com/p/0b4935ea6e6d) |
-| Mon, 03 Nov 2025 22:29:04 GMT | My Review on ASCP: API Security Certified Professional | Vadim Vorochilov | [Read More](https://medium.com/p/4c4fc1a0f0b7) |
-| Mon, 03 Nov 2025 22:26:39 GMT | Why Packet Fuzzing is Still Valuable for Bug Bounties | Audrey Rowen | [Read More](https://medium.com/p/5e538f4777e5) |
-| Mon, 03 Nov 2025 22:25:40 GMT | Why I Chose Security+ | Secured By Sebastion | [Read More](https://medium.com/p/a28ad665776d) |
-| Mon, 03 Nov 2025 22:09:34 GMT | When “Delete Conversation” Is Just Theater (part 3 of the ‘FREAKSHOW’ series) | Berend Watchus | [Read More](https://medium.com/p/05aae2422e1d) |
-| Mon, 03 Nov 2025 22:05:54 GMT | Exploiting America’s Foster Youth: Part Three | William Gladden Foundation | [Read More](https://medium.com/p/9b98bf8b30f0) |
-| Mon, 03 Nov 2025 22:02:06 GMT | Welcome to the World of Defensive Security! | Tony Khalil Rodgers | [Read More](https://medium.com/p/12c79ce2af59) |
-| Mon, 03 Nov 2025 21:54:29 GMT | The Performance of Vulnerability: Why We Overshare But Still Feel Unseen | Sophia Avanzato | [Read More](https://medium.com/p/4159f125622e) |
-| Mon, 03 Nov 2025 21:34:25 GMT | Day 29 of my Cybersecurity Journey: Metasploit Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/82c5139d7fb0) |
-| Mon, 03 Nov 2025 21:34:08 GMT | How Inclusion Is Powering the Future of Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/82fdf57563d6) |
-| Mon, 03 Nov 2025 21:07:25 GMT | Race condition chained with logic bug leads to full bypass of free-plan site limit | Mahmoud Gamal | [Read More](https://medium.com/p/5825f5e2cb1c) |
-| Mon, 03 Nov 2025 21:04:59 GMT | صیغه فارس 09019170148صیغه آباده صیغه اقلید صیغه خرم بید صیغه بوانات صیغه پاسارگاد صیغه مرودشت صیغه… | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/0c3a5486ca5a) |
-| Mon, 03 Nov 2025 21:03:58 GMT | October 2025: Biggest Cyber Attacks, Ransomware Attacks Data Breaches | IT_Engineer | [Read More](https://medium.com/p/59a5fcd3d260) |
-| Mon, 03 Nov 2025 21:03:26 GMT | حلال زنجان09019170148 صیغه آب بر صیغه ماه نشان صیغه ابهر صیغه زرین آباد صیغه خرم دره صیغه قیدار | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/eeaaa3c99726) |
