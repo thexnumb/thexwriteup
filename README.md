@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 22:17:55 GMT | 6 API Injection Attacks You’re Probably Not Testing For | Cyber-AppSec | [Read More](https://medium.com/p/3bafcb81a1f6) |
+| Tue, 04 Nov 2025 22:14:16 GMT | AI-Powered Phishing: You Will Fall for This | ToxSec | [Read More](https://medium.com/p/3a9c7711fcce) |
+| Tue, 04 Nov 2025 22:08:08 GMT | Day 30 of my Cybersecurity Journey: Metasploit Introduction | Ogundipe Priscilla | [Read More](https://medium.com/p/d0b25314bf35) |
+| Tue, 04 Nov 2025 22:01:58 GMT | How to Vet Fintech Apps as a Creator (security + fees checklist) | finance time | [Read More](https://medium.com/p/e9158edce3fd) |
 | Tue, 04 Nov 2025 21:28:16 GMT | Alternatives to WhatsApp and: messengers with APIs, bots, and group chats | 0trust0day | [Read More](https://medium.com/p/5f75c3e9f2ad) |
 | Tue, 04 Nov 2025 21:27:50 GMT | The Vigilance Penalty: How Weak Passwords Make Personal Accounts a Target | Amplified Access | [Read More](https://medium.com/p/9574228ddba3) |
 | Tue, 04 Nov 2025 21:20:25 GMT | AI vs. the Human Touch in Cybersecurity (and Tech) | Teleisha Deslandes | [Read More](https://medium.com/p/4289a9ec2d2a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 15:27:35 GMT | The Power of Layers — Understanding Defense in Depth in Modern Cybersecurity | Walidchaouachi | [Read More](https://medium.com/p/a785b86a9018) |
 | Tue, 04 Nov 2025 15:20:07 GMT | Trust That Expires: Mapping the Longevity Horizon | Michal Pietrus | [Read More](https://medium.com/p/bcb7762d1597) |
 | Tue, 04 Nov 2025 15:17:43 GMT | Visualising Security: C4 Diagrams and threat modelling | Maya McDevitt | [Read More](https://medium.com/p/fc3d25aa772d) |
-| Tue, 04 Nov 2025 15:16:32 GMT | Getting BSCP and OSCP+ in 2025 | jH7z | [Read More](https://medium.com/p/7b2fd0271bf0) |
-| Tue, 04 Nov 2025 15:15:13 GMT | The Same Feature That Makes a Component Powerful Can Also Make It Dangerous. | ZAST AI | [Read More](https://medium.com/p/beb078c0208f) |
-| Tue, 04 Nov 2025 15:13:52 GMT | Why Every Student Should Learn About Phishing Attacks | Aj | [Read More](https://medium.com/p/1f583f9d08ae) |
-| Tue, 04 Nov 2025 15:08:29 GMT | Basic Pentesting THM Writeup | Benedict Agno | [Read More](https://medium.com/p/c0d7448f3236) |
