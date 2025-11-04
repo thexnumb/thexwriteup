@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 07:31:55 GMT | Google Dorking | Saltık Buğrahan Kızıltaş | [Read More](https://medium.com/p/0e326d67296b) |
+| Tue, 04 Nov 2025 07:24:03 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vrindaraghav7 | [Read More](https://medium.com/p/6b4a3e9db9e0) |
+| Tue, 04 Nov 2025 07:23:13 GMT | Best Ethical Hacking Training in Noida - Ducat India | neerajr0710 | [Read More](https://medium.com/p/78360c742b96) |
 | Tue, 04 Nov 2025 07:20:14 GMT | Top 10 Cloud Security Tools to Protect Online Data | Manisha Chaudhary | [Read More](https://medium.com/p/dca41355c0c8) |
 | Tue, 04 Nov 2025 07:10:14 GMT | How to Protect Your Web Applications Against OWASP Top 10 Threats | Rohit Singhal | [Read More](https://medium.com/p/b57fcf04149b) |
 | Tue, 04 Nov 2025 07:09:30 GMT | What are the Basics of Networking? | cyber security Updates | [Read More](https://medium.com/p/557e731a6dc9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 21:04:59 GMT | صیغه فارس 09019170148صیغه آباده صیغه اقلید صیغه خرم بید صیغه بوانات صیغه پاسارگاد صیغه مرودشت صیغه… | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/0c3a5486ca5a) |
 | Mon, 03 Nov 2025 21:03:58 GMT | October 2025: Biggest Cyber Attacks, Ransomware Attacks Data Breaches | IT_Engineer | [Read More](https://medium.com/p/59a5fcd3d260) |
 | Mon, 03 Nov 2025 21:03:26 GMT | حلال زنجان09019170148 صیغه آب بر صیغه ماه نشان صیغه ابهر صیغه زرین آباد صیغه خرم دره صیغه قیدار | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/eeaaa3c99726) |
-| Mon, 03 Nov 2025 20:59:01 GMT | Memory Forensics Deep Dive: Investigating DLL Injection using Volatility | Aman Singh Parihar | [Read More](https://medium.com/p/a42b07441d7e) |
-| Mon, 03 Nov 2025 20:58:15 GMT | Perception Under Fire: The Evolution of Reputation in a Synthetic Age | Eric Vanderburg | [Read More](https://medium.com/p/38b09ba40eee) |
-| Mon, 03 Nov 2025 20:57:02 GMT | SOC239 — Remote Code Execution Detected in Splunk Enterprise (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/34b36bd92fff) |
