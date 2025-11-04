@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 10:35:50 GMT | Secure Practices Implementations in Node.js | Mark O'Keeffe | [Read More](https://medium.com/p/cd346432ae62) |
+| Tue, 04 Nov 2025 10:35:34 GMT | Best Integrated Lease Management Software in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/fea7d8d08646) |
+| Tue, 04 Nov 2025 10:31:54 GMT | LFI vs RFI — When Your Website Starts Reading the Wrong Files | Natarajan C K | [Read More](https://medium.com/p/eb23ad6ddce5) |
+| Tue, 04 Nov 2025 10:27:50 GMT | Flutter cybersecurity setup — structured into talking points + plug-in snippets + sample answers | Punith S Uppar | [Read More](https://medium.com/p/4e5a283b787b) |
+| Tue, 04 Nov 2025 10:15:39 GMT | Ghosting always hurts | @StillLoading | [Read More](https://medium.com/p/de6e36dd5329) |
+| Tue, 04 Nov 2025 10:14:19 GMT | The Language of Tears | Sidra Noor | [Read More](https://medium.com/p/fc30fb045abc) |
+| Tue, 04 Nov 2025 10:14:01 GMT | The Silence After the Spotlight | Andy Tillman UK | [Read More](https://medium.com/p/131d0a9a68a3) |
 | Tue, 04 Nov 2025 10:13:57 GMT | Vulnerability Assessment and Penetration Testing (VAPT): The Shield Every Digital Business Needs | Devarshi Acharya | [Read More](https://medium.com/p/5fa3963a3339) |
 | Tue, 04 Nov 2025 10:10:12 GMT | How Zuri Njoku Helps Companies Turn Technology into a Growth Engine | Zuri Njoku | [Read More](https://medium.com/p/e8d75da9c918) |
 | Tue, 04 Nov 2025 10:05:02 GMT | How to Decide Between Building or Buying AI Solutions | Maruti Techlabs | [Read More](https://medium.com/p/054bb09a0aee) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 04:46:02 GMT | 10 Common Personal Security Guard Mistakes to Avoid | Lakshay Security | [Read More](https://medium.com/p/9bfce8b391ac) |
 | Tue, 04 Nov 2025 04:45:10 GMT | The Importance of Asset Protection in Today’s Economy | Lakshay Security | [Read More](https://medium.com/p/b96c36da2b5a) |
 | Tue, 04 Nov 2025 04:41:54 GMT | PBO : Abstract & Abstract Class | Yasa Wijaya | [Read More](https://medium.com/p/a26fd459ce29) |
-| Tue, 04 Nov 2025 04:41:10 GMT | 7 Expert-Approved Infinix Hot 10 Camera Tips for Stunning Photos | Chloe White | [Read More](https://medium.com/p/978222076f41) |
-| Tue, 04 Nov 2025 04:40:20 GMT | CL0P RANSOMWARE: DISSECTING NETWORK | Rakesh Krishnan | [Read More](https://medium.com/p/75d4761deedc) |
-| Tue, 04 Nov 2025 04:40:17 GMT | CVE-2025–61984 — OpenSSH command injection vulnerability | Bachchan James | [Read More](https://medium.com/p/f3957053d60c) |
-| Tue, 04 Nov 2025 04:39:45 GMT | [OverTheWire] Bandit Level 32 → 33 | H$nt | [Read More](https://medium.com/p/a739686811e4) |
-| Tue, 04 Nov 2025 04:32:45 GMT | The Ghost in the Machine: How I Found IDORs That Were Hiding in Plain Sight | Iski | [Read More](https://medium.com/p/0c26bca85c2f) |
-| Tue, 04 Nov 2025 04:32:34 GMT | Top CCTV Camera Brands for Saudi Arabian Security 2025 | VRS Technologies Saudi Arabia | [Read More](https://medium.com/p/d4ce4fecf5fc) |
-| Tue, 04 Nov 2025 04:29:41 GMT | Hit Your Mark with “Bulleye” — The CTF Challenge You Can’t Skip | Pentester Club | [Read More](https://medium.com/p/60373c891c9c) |
