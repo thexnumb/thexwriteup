@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 21:28:16 GMT | Alternatives to WhatsApp and: messengers with APIs, bots, and group chats | 0trust0day | [Read More](https://medium.com/p/5f75c3e9f2ad) |
+| Tue, 04 Nov 2025 21:27:50 GMT | The Vigilance Penalty: How Weak Passwords Make Personal Accounts a Target | Amplified Access | [Read More](https://medium.com/p/9574228ddba3) |
+| Tue, 04 Nov 2025 21:20:25 GMT | AI vs. the Human Touch in Cybersecurity (and Tech) | Teleisha Deslandes | [Read More](https://medium.com/p/4289a9ec2d2a) |
 | Tue, 04 Nov 2025 21:07:47 GMT | Simple IDORs Lead To PII Leaks Got $1476 Bounty | Ferdus Alam | [Read More](https://medium.com/p/aa3e06a5976b) |
 | Tue, 04 Nov 2025 20:54:18 GMT | The day the AI woke up with the flu | Marco van Hurne | [Read More](https://medium.com/p/b67fe1da3da7) |
 | Tue, 04 Nov 2025 20:53:18 GMT | Reliable Business Internet Solutions with Strong Cybersecurity Support | Defend My Business | [Read More](https://medium.com/p/4e7174280668) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 15:15:13 GMT | The Same Feature That Makes a Component Powerful Can Also Make It Dangerous. | ZAST AI | [Read More](https://medium.com/p/beb078c0208f) |
 | Tue, 04 Nov 2025 15:13:52 GMT | Why Every Student Should Learn About Phishing Attacks | Aj | [Read More](https://medium.com/p/1f583f9d08ae) |
 | Tue, 04 Nov 2025 15:08:29 GMT | Basic Pentesting THM Writeup | Benedict Agno | [Read More](https://medium.com/p/c0d7448f3236) |
-| Tue, 04 Nov 2025 15:04:45 GMT | Ez Creds — Extracting and Analysing DLL files | jH7z | [Read More](https://medium.com/p/f11853e9c3cf) |
-| Tue, 04 Nov 2025 15:02:30 GMT | Your Clipboard, Their Goldmine: When “Zero Trust” Becomes Personal | Abatis ABTU | [Read More](https://medium.com/p/e3bda61426f6) |
-| Tue, 04 Nov 2025 15:01:44 GMT | Every forensic investigator should know these common antiforensic wipers | Dean | [Read More](https://medium.com/p/aa30844ade47) |
