@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 06:15:56 GMT | More Than System Logs and Alerts: Why I Chose Cybersecurity | Firzan Irfandi Firman | [Read More](https://medium.com/p/8b9da580ef45) |
+| Tue, 04 Nov 2025 05:48:56 GMT | AI Meets Cybersecurity: Your Next Step Toward a Smarter Career | sneha gaikwad | [Read More](https://medium.com/p/62a62f2dfc68) |
+| Tue, 04 Nov 2025 05:47:06 GMT | AI Shift-Left Security That Actually Ships in 2026 | Sonali Sood | [Read More](https://medium.com/p/d14dad83b56f) |
+| Tue, 04 Nov 2025 05:40:29 GMT | Security & Resilience in 2025 Frontend Apps: Micro-Frontends, CSP, and Zero-Trust Principles | Satnam Singh | [Read More](https://medium.com/p/90689d393eba) |
 | Tue, 04 Nov 2025 05:35:59 GMT | The $2.9 Billion Wake-Up Call: What the AI Incident Database Reveals About Liability (And How We… | Glen Patzlaff | [Read More](https://medium.com/p/063296100221) |
 | Tue, 04 Nov 2025 05:25:59 GMT | Security Begins with People: Why Educating People Matters More Than Buying Tools. | Ifeawoyemi | [Read More](https://medium.com/p/8b43b252b609) |
 | Tue, 04 Nov 2025 05:25:56 GMT | European Automotive E/E System Summit 2026 | Ecvinternational | [Read More](https://medium.com/p/bdb1d2873239) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 20:07:18 GMT | Introducing VulnFeed — Real-Time Vulnerability Tracking for CISA & Red Hat | shresth paul | [Read More](https://medium.com/p/f77400ca05b9) |
 | Mon, 03 Nov 2025 20:02:38 GMT | Don’t Enter the Dark Web | Gary Hobs | [Read More](https://medium.com/p/6030b0ebb625) |
 | Mon, 03 Nov 2025 19:59:51 GMT | Understanding connect-src: A Simple Guide to Content Security Policy | biruk desta | [Read More](https://medium.com/p/b6613da2b696) |
-| Mon, 03 Nov 2025 19:54:03 GMT | “RPA in Healtcare” : Reducing Administrative load & Improving Patient Care | VRAJ PATEL | [Read More](https://medium.com/p/84a6c865dffa) |
-| Mon, 03 Nov 2025 19:43:07 GMT | Five Hidden Phone Hacks That Happen While You Sleep — And the 30-Second Fix That Stops Them Cold | Nazrul Islam Rana | [Read More](https://medium.com/p/f9a7ddb863fc) |
-| Mon, 03 Nov 2025 19:42:12 GMT | Announcing DorkFi Go-Live Date: Liquidity is Coming | Haroof | [Read More](https://medium.com/p/3be1ea3de97e) |
-| Mon, 03 Nov 2025 19:42:05 GMT | What is IDOR? | Cybersecplayground | [Read More](https://medium.com/p/b8ec70302b87) |
