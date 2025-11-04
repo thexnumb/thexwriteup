@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 09:15:35 GMT | The Network Layer: Finding the Right Path for Data | Zeli | [Read More](https://medium.com/p/8de28c43af97) |
+| Tue, 04 Nov 2025 09:14:43 GMT | Windows Privilege Escalation through Exploiting Services | Indigo Shadow | [Read More](https://medium.com/p/d99cb7c485a8) |
+| Tue, 04 Nov 2025 09:12:24 GMT | Practical Privacy: A Unified Guide to Browser Profiles, Tails, VPN vs Tor, and a Research Checklist | Benjaminmillerdev | [Read More](https://medium.com/p/9874ba29a94f) |
+| Tue, 04 Nov 2025 09:11:37 GMT | The Data Link Layer: Turning Bits into Reliable Communication | Zeli | [Read More](https://medium.com/p/28784b0f6a2a) |
+| Tue, 04 Nov 2025 09:08:35 GMT | Top Endpoint Security Software in 2025: Protecting Every Device with Zero Trust | sundyne | [Read More](https://medium.com/p/1f1683b8927b) |
+| Tue, 04 Nov 2025 09:07:09 GMT | The Night rm -rf Almost Took Everything | Fateyaly | [Read More](https://medium.com/p/15e4e6e43c26) |
+| Tue, 04 Nov 2025 09:06:01 GMT | Identity Security for Autonomous AI | Seb AGUELE | [Read More](https://medium.com/p/8f659be7b4ab) |
+| Tue, 04 Nov 2025 09:05:26 GMT | Threat Detection: A Proactive Strategy for Modern Security | Ishaan Nair | [Read More](https://medium.com/p/1e21a33e6625) |
+| Tue, 04 Nov 2025 08:59:08 GMT | The Data Dominance Bahrain’s growing footprint on Digital Infrastructure | expbhavya | [Read More](https://medium.com/p/874efa89f086) |
+| Tue, 04 Nov 2025 08:57:16 GMT | Ruby 3.4 just solved the tempfile cleanup headache with one keyword argument. | Raza Hussain | [Read More](https://medium.com/p/eea92b9c1146) |
+| Tue, 04 Nov 2025 08:56:33 GMT | Cyber Analyst vs. SOC Analyst | Laman Ibrahimli | [Read More](https://medium.com/p/4c15ea36061d) |
+| Tue, 04 Nov 2025 08:54:55 GMT | The Triad of AI | O. J. Okpabi | [Read More](https://medium.com/p/eef2032ff4fe) |
+| Tue, 04 Nov 2025 08:46:59 GMT | EC-Council Certified SOC Analyst (CSA) — Exam Guide | Livingston Leman | [Read More](https://medium.com/p/2644944bed6d) |
+| Tue, 04 Nov 2025 08:42:03 GMT | The Day I Replaced Windows With Linux, And Everything Actually Worked | Fateyaly | [Read More](https://medium.com/p/52e303153a57) |
+| Tue, 04 Nov 2025 08:39:06 GMT | The “Grandma Exploit”: How Simple Words Are Hacking the World’s Most Advanced AI | Lara Shamal | [Read More](https://medium.com/p/8b581e96bf03) |
+| Tue, 04 Nov 2025 08:36:53 GMT | The Researcher-Vector: Stegano-Text’s Infinite Window of Contagion | Berend Watchus | [Read More](https://medium.com/p/8e2543bffb52) |
+| Tue, 04 Nov 2025 08:33:09 GMT | Elliptic Curve Cryptography: Blockchain Security | BlockByte | [Read More](https://medium.com/p/af86d89b63ee) |
 | Tue, 04 Nov 2025 08:29:29 GMT | Why Every Business Needs Regular VAPT Services | West Advanced Technologies Inc | [Read More](https://medium.com/p/faf94a9a5ada) |
 | Tue, 04 Nov 2025 08:23:34 GMT | Blenheim Palace Gold Toilet Heist Exposed | Global CCTV Monitoring Services | [Read More](https://medium.com/p/52ef65afb165) |
 | Tue, 04 Nov 2025 08:20:26 GMT | Learning Cybersecurity on Your Own Is Hell — Here’s What I Learned | Atiya Kharwa | [Read More](https://medium.com/p/d360498e0308) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 01:10:03 GMT | Behind the Mask: How AI and Deepfakes Are Rewriting Reality. | MANOJ [M_404] | [Read More](https://medium.com/p/8ba56f267dd5) |
 | Tue, 04 Nov 2025 01:00:36 GMT | Protect Yourself Online — Simple Cybersecurity Tips for 2025 | Sam Dalgleish | [Read More](https://medium.com/p/c89a75104ea2) |
 | Tue, 04 Nov 2025 00:44:14 GMT | How to Search the Dark Web Like a Pro: The Good, The Bad, and The Ugly | Dibeesh KS | [Read More](https://medium.com/p/d93fb8812a4b) |
-| Tue, 04 Nov 2025 00:37:32 GMT | Instant Asset Recovery | Deposan | [Read More](https://medium.com/p/7cb004710fcc) |
-| Tue, 04 Nov 2025 00:28:24 GMT | DownUnderCTF 2025 — rocky [PT-BR] | Ooozaru | [Read More](https://medium.com/p/6fe3ed649776) |
-| Tue, 04 Nov 2025 00:20:50 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/05e260eb9b08) |
-| Tue, 04 Nov 2025 00:19:59 GMT | SIEM-Based Privileged Identity Misuse Detection System with Simulated AD/LDAP Environment | Ayyappan Subramanian | [Read More](https://medium.com/p/0eb289116cdc) |
-| Tue, 04 Nov 2025 00:12:50 GMT | How Automation Is Redefining Online Safety | Rabail Zaheer | [Read More](https://medium.com/p/8f40f29bcf67) |
-| Tue, 04 Nov 2025 00:09:22 GMT | Friendly Interactive Shell (FISH) | Cybersec with Hemmars | [Read More](https://medium.com/p/dc5073c47365) |
-| Tue, 04 Nov 2025 00:01:56 GMT | HackTheBox Hunting for Stuxbot (A Real-World Threat Hunt with Elastic) | Cybersecurity Simplified | [Read More](https://medium.com/p/ab675a6e764d) |
-| Tue, 04 Nov 2025 00:01:56 GMT | Guía Avanzada de Penetration Testing en APIs (Parte 1) Mapeo OWASP Top 10 y Fases de Reconocimiento | JPablo13 | [Read More](https://medium.com/p/a859ed5aecc5) |
-| Mon, 03 Nov 2025 23:53:02 GMT | I Almost Didn’t Tell You | musingsfrommarc | [Read More](https://medium.com/p/bfd5bae0a175) |
-| Mon, 03 Nov 2025 23:50:47 GMT | The AI Hacker That Works for the Good Guys | Cyber-AppSec | [Read More](https://medium.com/p/c8bb7239f5a1) |
-| Mon, 03 Nov 2025 23:37:34 GMT | Proton Exposes 300 Million Stolen Credentials  49% Include Passwords | Nauman khan | [Read More](https://medium.com/p/ebd656ea8021) |
-| Mon, 03 Nov 2025 22:59:38 GMT | Strategic Myopia and Democratic Drift: Lessons from 3.11.25 | Josephine Schwab | [Read More](https://medium.com/p/058935e4ed8a) |
-| Mon, 03 Nov 2025 22:57:23 GMT | CISOs Can’t Do It Alone: Shared Accountability in Cybersecurity | Fook Hwa Tan | [Read More](https://medium.com/p/305e08be301c) |
-| Mon, 03 Nov 2025 22:57:12 GMT | Think Like a Hacker, Act Like a Leader: Our 3B Model Explained | Fook Hwa Tan | [Read More](https://medium.com/p/ba1fdbd810ed) |
-| Mon, 03 Nov 2025 22:51:01 GMT | Hashing- What is it, how to create it, and how to spot it. (PowerShell Version) | Jenna S | [Read More](https://medium.com/p/eed6c50dd76a) |
-| Mon, 03 Nov 2025 22:30:27 GMT | DNS Spoofing Attacks: When Names Lie | Bervice | [Read More](https://medium.com/p/20b5bb732dd4) |
-| Mon, 03 Nov 2025 22:29:59 GMT | Polkit: CVE-2021-3560 Tryhackme Walkthrough Answers | Jawstar | [Read More](https://medium.com/p/0b4935ea6e6d) |
