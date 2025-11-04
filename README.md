@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 01:34:02 GMT | Global Cybersecurity Camp 2025 (GCC) in Taiwan | Arm | [Read More](https://medium.com/p/07366f8d082e) |
+| Tue, 04 Nov 2025 01:31:36 GMT | Riddle Registry: A Simple PicoCTF Walkthrough | Saumya Srivastava | [Read More](https://medium.com/p/e221cc5cf54a) |
+| Tue, 04 Nov 2025 01:10:03 GMT | Behind the Mask: How AI and Deepfakes Are Rewriting Reality. | MANOJ [M_404] | [Read More](https://medium.com/p/8ba56f267dd5) |
+| Tue, 04 Nov 2025 01:00:36 GMT | Protect Yourself Online — Simple Cybersecurity Tips for 2025 | Sam Dalgleish | [Read More](https://medium.com/p/c89a75104ea2) |
+| Tue, 04 Nov 2025 00:44:14 GMT | How to Search the Dark Web Like a Pro: The Good, The Bad, and The Ugly | Dibeesh KS | [Read More](https://medium.com/p/d93fb8812a4b) |
+| Tue, 04 Nov 2025 00:37:32 GMT | Instant Asset Recovery | Deposan | [Read More](https://medium.com/p/7cb004710fcc) |
+| Tue, 04 Nov 2025 00:28:24 GMT | DownUnderCTF 2025 — rocky [PT-BR] | Ooozaru | [Read More](https://medium.com/p/6fe3ed649776) |
+| Tue, 04 Nov 2025 00:20:50 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/05e260eb9b08) |
+| Tue, 04 Nov 2025 00:19:59 GMT | SIEM-Based Privileged Identity Misuse Detection System with Simulated AD/LDAP Environment | Ayyappan Subramanian | [Read More](https://medium.com/p/0eb289116cdc) |
+| Tue, 04 Nov 2025 00:12:50 GMT | How Automation Is Redefining Online Safety | Rabail Zaheer | [Read More](https://medium.com/p/8f40f29bcf67) |
+| Tue, 04 Nov 2025 00:09:22 GMT | Friendly Interactive Shell (FISH) | Cybersec with Hemmars | [Read More](https://medium.com/p/dc5073c47365) |
+| Tue, 04 Nov 2025 00:01:56 GMT | HackTheBox Hunting for Stuxbot (A Real-World Threat Hunt with Elastic) | Cybersecurity Simplified | [Read More](https://medium.com/p/ab675a6e764d) |
+| Mon, 03 Nov 2025 23:53:02 GMT | I Almost Didn’t Tell You | musingsfrommarc | [Read More](https://medium.com/p/bfd5bae0a175) |
+| Mon, 03 Nov 2025 23:50:47 GMT | The AI Hacker That Works for the Good Guys | Cyber-AppSec | [Read More](https://medium.com/p/c8bb7239f5a1) |
 | Mon, 03 Nov 2025 23:37:34 GMT | Proton Exposes 300 Million Stolen Credentials  49% Include Passwords | Nauman khan | [Read More](https://medium.com/p/ebd656ea8021) |
 | Mon, 03 Nov 2025 22:59:38 GMT | Strategic Myopia and Democratic Drift: Lessons from 3.11.25 | Josephine Schwab | [Read More](https://medium.com/p/058935e4ed8a) |
 | Mon, 03 Nov 2025 22:57:23 GMT | CISOs Can’t Do It Alone: Shared Accountability in Cybersecurity | Fook Hwa Tan | [Read More](https://medium.com/p/305e08be301c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 16:40:04 GMT | New Android Trojans BankBot YNRK and DeliveryRAT Target Users to Steal Financial Data | Chetan Seripally | [Read More](https://medium.com/p/777e50a53ace) |
 | Mon, 03 Nov 2025 16:33:27 GMT | gm-sm2-cipher: Bridging Chinese Cryptographic Standards with Node.js | Sushant Raj Dangal | [Read More](https://medium.com/p/9583c73489ff) |
 | Mon, 03 Nov 2025 16:32:03 GMT | Kali Linux Installation on Windows 11 with VMware Workstation Pro | Ahmet Ekiz | [Read More](https://medium.com/p/d2e2475761ae) |
-| Mon, 03 Nov 2025 16:25:12 GMT | When Connectivity Becomes Community — And Security Becomes a Competitive Edge | Joker Frog | [Read More](https://medium.com/p/e4e1e15ffeef) |
-| Mon, 03 Nov 2025 16:25:08 GMT | Comprehensive Cybersecurity Series : A Beginner-to-Pro Learning Guide | Aman Kumar Singh | [Read More](https://medium.com/p/a635b0092dbf) |
-| Mon, 03 Nov 2025 16:19:10 GMT | SickOs 1.2 (Vulnhub) — Full Exploit Walkthrough (Step-by-Step) | Vyshnav Vinod | [Read More](https://medium.com/p/dcf1051419dc) |
-| Mon, 03 Nov 2025 16:16:50 GMT | Praktikum Internet of Things (Tugas): Input Analog | Muhammad Surya Saputro | [Read More](https://medium.com/p/c2af3da3be1c) |
-| Mon, 03 Nov 2025 16:16:20 GMT | How to Change a Door Lock Without Screws: Hidden Release Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/16d3f902fa7a) |
-| Mon, 03 Nov 2025 16:06:36 GMT | Can You Still Tell What’s Real? How to Outsmart AI-Generated Images in 2025 | Akshay Bawaliwale | [Read More](https://medium.com/p/3f141d5cb9d2) |
-| Mon, 03 Nov 2025 16:04:47 GMT | Mastering REST API: A Complete Guide for Beginners | Ghanashyam Budhathoki | [Read More](https://medium.com/p/db58e8b453d3) |
-| Mon, 03 Nov 2025 16:02:35 GMT | Critical Security Gap Discovered in Microsoft Teams Cookie Protection System | Technijian | [Read More](https://medium.com/p/aa9897357745) |
-| Mon, 03 Nov 2025 15:52:56 GMT | Knowledge Not Shared Is Knowledge Lost | Daniel Ayia Adamu | [Read More](https://medium.com/p/eeaf2462d10d) |
-| Mon, 03 Nov 2025 15:48:51 GMT | 7 Secret ChatGPT Hacks That Will Make You a Pro | Najam Shehzad Writer 786 | [Read More](https://medium.com/p/090235b621c9) |
-| Mon, 03 Nov 2025 15:46:53 GMT | #07- Kali Linux -Privilege Escalation: From Access to Authority | SDNTechForum | [Read More](https://medium.com/p/c836cb25297a) |
-| Mon, 03 Nov 2025 15:41:34 GMT | What Is a CMS? Simple Explanation with Real-Life Examples (No Tech Jargon!) | Natarajan C K | [Read More](https://medium.com/p/1327bfe21509) |
-| Mon, 03 Nov 2025 15:41:17 GMT | Multi-Factor Authentication (MFA): The First Line of Defense in Cybersecurity | Ferdi Edogawa | [Read More](https://medium.com/p/4b7e95c3730f) |
-| Mon, 03 Nov 2025 15:35:04 GMT | Pipelines Now Hold the Power | Pranav | [Read More](https://medium.com/p/587bce7e60cc) |
