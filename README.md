@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 20:35:25 GMT | The Quiet Power of Saying I Don’t Know | Zorica Pavicic | [Read More](https://medium.com/p/39cfc1b3bc60) |
+| Tue, 04 Nov 2025 20:31:19 GMT | Active Directory Help Desk Lab/Building a Two VM Windows Server Environment | Erik Diaz | [Read More](https://medium.com/p/47cf6f396bb5) |
+| Tue, 04 Nov 2025 20:21:30 GMT | The AI Security Crossroads: Navigating Risk with Human-Centered Strategies | ZENcurity | [Read More](https://medium.com/p/2fc2a249c5d6) |
 | Tue, 04 Nov 2025 20:17:59 GMT | The Echo That Stayed Inside | Elan Tengis | [Read More](https://medium.com/p/5aa037d15ed2) |
 | Tue, 04 Nov 2025 20:16:03 GMT | WSUS Under Fire: How CVE-2025–59287 Lets Attackers Own Update Servers | Jason Hoskins Jr. | [Read More](https://medium.com/p/1af551c10c61) |
 | Tue, 04 Nov 2025 20:12:07 GMT | From Alert to Action: A SOC Analyst’s Guide to Triage with Elastic ️ | Furkanctiner | [Read More](https://medium.com/p/4e5354ab5da9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 14:55:21 GMT | “The Authentication Bypass That Exploited JavaScript’s Dot” | Aman Sharma | [Read More](https://medium.com/p/25397a801ef0) |
 | Tue, 04 Nov 2025 14:52:33 GMT | Absent your agency. | Daniel Moore | [Read More](https://medium.com/p/d69168706106) |
 | Tue, 04 Nov 2025 14:50:06 GMT | Las 5 plataformas para practicar seguridad defensiva en laboratorios virtuales | Tiziano Mass | [Read More](https://medium.com/p/d789169a096d) |
-| Tue, 04 Nov 2025 14:45:24 GMT | Agenda Ransomware Deploys Linux on Windows, AI Infrastructure Crisis, and Trucking Industry Under… | David Grice | [Read More](https://medium.com/p/8fdb285712f5) |
-| Tue, 04 Nov 2025 14:42:47 GMT | ️ Penetration Testing: From Fundamentals to Flutter Security | Talelbriki | [Read More](https://medium.com/p/beb001e1b781) |
-| Tue, 04 Nov 2025 14:40:41 GMT | The danger of vibe coding: How a broken‑object‑level authorization (BOLA) bug slipped into an AI… | Jay Simmons | [Read More](https://medium.com/p/c8173a0e8536) |
