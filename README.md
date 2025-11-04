@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 12:38:33 GMT | WhoAmI | ishiii | [Read More](https://medium.com/p/10865b4030f5) |
+| Tue, 04 Nov 2025 12:35:47 GMT | Stolen Mount - Tryhackme — Walkthrough | Aufarifqi | [Read More](https://medium.com/p/779a495e347e) |
+| Tue, 04 Nov 2025 12:35:46 GMT | Key Benefits of Hiring Cybersecurity Compliance Service Providers | Zelar Trust | [Read More](https://medium.com/p/8016de626998) |
+| Tue, 04 Nov 2025 12:32:08 GMT | Low-Code/No-Code Is the New “Shadow IT” And It’s a Security Nightmare | Himanshu | [Read More](https://medium.com/p/2dd527f09031) |
+| Tue, 04 Nov 2025 12:27:35 GMT | Why Multimodal AI is Better than Single-Modal AI Models? | Maruti Techlabs | [Read More](https://medium.com/p/450e6292bfaa) |
+| Tue, 04 Nov 2025 12:21:25 GMT | DNS Command & Control Server | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e1dc719f0eb1) |
+| Tue, 04 Nov 2025 12:17:49 GMT | Redefining Data Center Security for a Resilient Future in KSA & GCC | Tekfardeen | [Read More](https://medium.com/p/3141cada0d31) |
+| Tue, 04 Nov 2025 12:15:12 GMT | Your Roadmap to Cybersecurity: 7 Critical Skills You Must Have | Tech Journal | [Read More](https://medium.com/p/040c9e0065f4) |
+| Tue, 04 Nov 2025 12:14:22 GMT | What is a VPN? How It Works, Types, and Key Benefits | Rose Anne | [Read More](https://medium.com/p/45dd1ad46858) |
+| Tue, 04 Nov 2025 12:08:59 GMT | What is Wazuh? | Jonathan Daniels | [Read More](https://medium.com/p/8874ef5d8604) |
+| Tue, 04 Nov 2025 12:08:09 GMT | Cloudflare-Bypass: Origin server deserves some love too | Smit Gharat | [Read More](https://medium.com/p/e8bd2182cfea) |
+| Tue, 04 Nov 2025 12:05:41 GMT | MEAN or MERN Stack: Which Developers Fit Your Project Best? | Jhonsonsannie | [Read More](https://medium.com/p/e38216ffab5c) |
+| Tue, 04 Nov 2025 12:02:56 GMT | Curl: Top 20 most useful scripts for pentesters | Travis Ray Caverhill | [Read More](https://medium.com/p/cb7e2da47a26) |
+| Tue, 04 Nov 2025 12:01:58 GMT | Smart Contract Security in DeFi — What Audits Really Tell You | Dominic Mazzarella | [Read More](https://medium.com/p/94cc2cd9d90f) |
+| Tue, 04 Nov 2025 11:59:01 GMT | A easy Blind XSS | Hritom Bhattacharya | [Read More](https://medium.com/p/0d9dcbd06409) |
+| Tue, 04 Nov 2025 11:58:59 GMT | Chain Link Fence in Saudi Arabia Secure, Strong & Cost-Effective | Hitechfence | [Read More](https://medium.com/p/630bffe3f66b) |
+| Tue, 04 Nov 2025 11:51:16 GMT | How SOC 2 Can Cut your SaaS Sales Cycle in Half | Hicomply | [Read More](https://medium.com/p/ade2b6a74c9d) |
+| Tue, 04 Nov 2025 11:40:26 GMT | The New Frontier: Navigating the AI Browser War | Moiz Jamaal | [Read More](https://medium.com/p/9cff499f9754) |
+| Tue, 04 Nov 2025 11:36:23 GMT | The Price of Convenience: When extensions go rogue | Adewale Ayomide | [Read More](https://medium.com/p/da0235b9ea18) |
+| Tue, 04 Nov 2025 11:35:35 GMT | Signs That Your PC Needs Professional Repair Before It Crashes Permanently | Ask IT Support | [Read More](https://medium.com/p/3741c0e39145) |
 | Tue, 04 Nov 2025 11:17:00 GMT | Threat and Vulnerabilities Report — October 2025 | Loginsoft | [Read More](https://medium.com/p/223df4e39bbd) |
 | Tue, 04 Nov 2025 11:11:31 GMT | Singapore’s Senior Minister Lee Discusses Global Geopolitics at Chatham House | Imran Ahmed - insightful, informative & humorous! | [Read More](https://medium.com/p/338631989198) |
 | Tue, 04 Nov 2025 11:10:50 GMT | Why Your Organisation Needs VAPT This Quarter: From Unknown Risks to Prioritised Fixes | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/572256c80715) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 07:53:10 GMT | Why AI Agents and Blockchain Can’t Talk — And How I’m Fixing It | Levi Chinecherem Chidi | [Read More](https://medium.com/p/bd14678976f1) |
 | Tue, 04 Nov 2025 07:47:18 GMT | Why Saying ‘No’ Became the Best Business Decision I Ever Made | Vijay Kumar Gupta | [Read More](https://medium.com/p/0416aa6190de) |
 | Tue, 04 Nov 2025 07:46:47 GMT | Your Home Isn’t as Safe as You Think: 7 Overlooked Weak Spots Burglars Exploit | Amy Smith | [Read More](https://medium.com/p/362a0f2a2c15) |
-| Tue, 04 Nov 2025 07:46:35 GMT | SleepyDuck VSX Malware Leverages Ethereum Blockchain for Command Server Persistence | Himanshu Bhatt | [Read More](https://medium.com/p/a313b8dde63f) |
-| Tue, 04 Nov 2025 07:45:41 GMT | Unlock Your IT Future: Why a Job Ready Program in Australia is Your Fast-Track to Success | Nishesgrg | [Read More](https://medium.com/p/96cb3c555500) |
-| Tue, 04 Nov 2025 07:38:45 GMT | Timed Automata in Cybersecurity: Formal Models for Temporal Threats | Hayli Patel | [Read More](https://medium.com/p/d5f22bd08b2e) |
-| Tue, 04 Nov 2025 07:36:30 GMT | ประจำวันอังคารที่ 4 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/0db404c72012) |
-| Tue, 04 Nov 2025 07:31:55 GMT | Google Dorking | Saltık Buğrahan Kızıltaş | [Read More](https://medium.com/p/0e326d67296b) |
-| Tue, 04 Nov 2025 07:24:03 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vrindaraghav7 | [Read More](https://medium.com/p/6b4a3e9db9e0) |
-| Tue, 04 Nov 2025 07:23:13 GMT | Best Ethical Hacking Training in Noida - Ducat India | neerajr0710 | [Read More](https://medium.com/p/78360c742b96) |
-| Tue, 04 Nov 2025 07:20:14 GMT | Top 10 Cloud Security Tools to Protect Online Data | Manisha Chaudhary | [Read More](https://medium.com/p/dca41355c0c8) |
-| Tue, 04 Nov 2025 07:10:14 GMT | How to Protect Your Web Applications Against OWASP Top 10 Threats | Rohit Singhal | [Read More](https://medium.com/p/b57fcf04149b) |
-| Tue, 04 Nov 2025 07:09:30 GMT | What are the Basics of Networking? | cyber security Updates | [Read More](https://medium.com/p/557e731a6dc9) |
-| Tue, 04 Nov 2025 07:04:14 GMT | DIGITAL FORENSICS CASE STUDY REPORT | TheSilentBreach | [Read More](https://medium.com/p/c66bb316b23d) |
-| Tue, 04 Nov 2025 07:03:19 GMT | MPChat Security Thesis： KYC is a Security Feature, Not a Bug | MPChat_Blog | [Read More](https://medium.com/p/379e0d236682) |
-| Tue, 04 Nov 2025 06:58:12 GMT | SSRF in GitLab Self-Hosted — Import From URL | Ikrami walid | [Read More](https://medium.com/p/81e94d7888f7) |
-| Tue, 04 Nov 2025 06:57:37 GMT | The Daily Tech Digest: 04 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c32767db16b0) |
-| Tue, 04 Nov 2025 06:57:19 GMT | Master Post-Exploitation Data Exfiltration Methods (and Defenses) Step-by-Step | Very Lazy Tech | [Read More](https://medium.com/p/590f24f2f824) |
-| Tue, 04 Nov 2025 06:56:17 GMT | [ SOC Alert => Lumma Stealer — DLL Side-Loading via Click Fix Phishing ] by LetsDefend / EventID… | EduKayky | [Read More](https://medium.com/p/b3dacceb046b) |
-| Tue, 04 Nov 2025 06:47:36 GMT | Authentication Vs Authorization | Bachchan James | [Read More](https://medium.com/p/dbdf997274da) |
-| Tue, 04 Nov 2025 06:46:01 GMT | Zero Trust Architecture: Blueprint for Modern Digital Resilience | Samyukta Roy | [Read More](https://medium.com/p/b70d6cb28811) |
-| Tue, 04 Nov 2025 06:44:55 GMT | When Curiosity Costs ₦22,000: My Router Met a Screwdriver | Tolulope Abanikannda | [Read More](https://medium.com/p/0d35351d46aa) |
-| Tue, 04 Nov 2025 06:15:56 GMT | More Than System Logs and Alerts: Why I Chose Cybersecurity | Firzan Irfandi Firman | [Read More](https://medium.com/p/8b9da580ef45) |
