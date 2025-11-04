@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 23:09:38 GMT | Your Trusted Partner in GRC | Advanta Advisory | [Read More](https://medium.com/p/314f0b8870f4) |
+| Tue, 04 Nov 2025 23:01:38 GMT | Measures of Location and Dispersion | Gadeabhishekreddy | [Read More](https://medium.com/p/ea2cf34b4070) |
+| Tue, 04 Nov 2025 22:49:58 GMT | CVE–2025–25291: The SSO flaw that opens Terraform Enterprise to Account Takeover | Jacopo Bracaloni | [Read More](https://medium.com/p/761450bdb247) |
+| Tue, 04 Nov 2025 22:41:19 GMT | DeepBlueCLI for Triage and Log Analysis | Dany Christel | [Read More](https://medium.com/p/d3258b45037c) |
 | Tue, 04 Nov 2025 22:25:24 GMT | Beyond Cybersecurity: Why Cyber Resiliency is the Mindset Your Organization Needs | Sharaden Cole | [Read More](https://medium.com/p/43516970e593) |
 | Tue, 04 Nov 2025 22:25:09 GMT | How I Caught a Live Microsoft Login Scam Hiding Behind Google Redirects | Jagkter | [Read More](https://medium.com/p/c3310653f5fd) |
 | Tue, 04 Nov 2025 22:22:03 GMT | The Dead Internet — AI is Building a Fake Internet Just for You | ToxSec | [Read More](https://medium.com/p/acf8b430ebde) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 15:48:16 GMT | How to Safely Explore the Dark Web on Your iPhone | Tsumit | [Read More](https://medium.com/p/72bdde43dfec) |
 | Tue, 04 Nov 2025 15:46:23 GMT | Will UNC5221 pop a fresh zero-day before Dec 31? Updated! | Wes Young | [Read More](https://medium.com/p/b8ccd0f2f1ae) |
 | Tue, 04 Nov 2025 15:45:21 GMT | The Warning Signs I Didn’t Understand (January 2024) | Krystal | [Read More](https://medium.com/p/0d5b6e7c7bc5) |
-| Tue, 04 Nov 2025 15:39:33 GMT | Mastering XSS: Unmasking Cross-Site Scripting Vulnerabilities Across a Bug Bounty Platform | ◦•●◉✿ YSL ʜc ✿◉●•◦ | [Read More](https://medium.com/p/feb8a082a1d7) |
-| Tue, 04 Nov 2025 15:32:41 GMT | Blue — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/89f04d4cebd6) |
-| Tue, 04 Nov 2025 15:31:13 GMT | Beyond Trust: How Separation of Duties Builds Unbreachable Systems | Walidchaouachi | [Read More](https://medium.com/p/49a508174fd8) |
-| Tue, 04 Nov 2025 15:31:05 GMT | Get These 3 Items For Your Phone Right Now! | Maria Orms | [Read More](https://medium.com/p/f8d2fcf8beca) |
