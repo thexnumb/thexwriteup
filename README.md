@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 09:39:12 GMT | RondoDox v2: Evolution of RondoDox Botnet with 650% More Exploits | Mario Candela | [Read More](https://medium.com/p/b16427b17aea) |
+| Tue, 04 Nov 2025 09:37:06 GMT | People Are Your Strongest Link (or Weakest). Here’s Why. | Fook Hwa Tan | [Read More](https://medium.com/p/4d11409e5f12) |
+| Tue, 04 Nov 2025 09:34:11 GMT | Blockchain Isn’t Unbreakable: Key Security Risks Every Web3 Project Faces | Spiritual Machines | [Read More](https://medium.com/p/a8d55a2652dd) |
+| Tue, 04 Nov 2025 09:34:02 GMT | CVE-2025–54253: Inside the Adobe AEM-Forms Zero-Day — What Pentesters & Defenders Must Do | Aditya Bhatt | [Read More](https://medium.com/p/150f1b362e70) |
+| Tue, 04 Nov 2025 09:30:45 GMT | How I’m Driving Traffic to My Online Cybersecurity Course Without Udemy’s Marketing Machine | Taimur Ijlal | [Read More](https://medium.com/p/8990f9325f2a) |
+| Tue, 04 Nov 2025 09:30:32 GMT | Staying in Control: Smart Response for Modern Cyber Threats | Cloudsa Africa | [Read More](https://medium.com/p/616f9be9bd5c) |
+| Tue, 04 Nov 2025 09:30:21 GMT | Khalani.Network Hackd | Ebxd | [Read More](https://medium.com/p/91075ce7821f) |
+| Tue, 04 Nov 2025 09:18:24 GMT | The Transport Layer: Delivering Data with Reliability | Zeli | [Read More](https://medium.com/p/d66f67f6c48a) |
+| Tue, 04 Nov 2025 09:17:45 GMT | What is Network Firewall Security? Benefits, Best Practices & Tips | QualysecEurope | [Read More](https://medium.com/p/4d9cfd37ca79) |
 | Tue, 04 Nov 2025 09:15:35 GMT | The Network Layer: Finding the Right Path for Data | Zeli | [Read More](https://medium.com/p/8de28c43af97) |
 | Tue, 04 Nov 2025 09:14:43 GMT | Windows Privilege Escalation through Exploiting Services | Indigo Shadow | [Read More](https://medium.com/p/d99cb7c485a8) |
+| Tue, 04 Nov 2025 09:13:04 GMT | The Law of Silence | O. J. Okpabi | [Read More](https://medium.com/p/238b44de74d7) |
 | Tue, 04 Nov 2025 09:12:24 GMT | Practical Privacy: A Unified Guide to Browser Profiles, Tails, VPN vs Tor, and a Research Checklist | Benjaminmillerdev | [Read More](https://medium.com/p/9874ba29a94f) |
 | Tue, 04 Nov 2025 09:11:37 GMT | The Data Link Layer: Turning Bits into Reliable Communication | Zeli | [Read More](https://medium.com/p/28784b0f6a2a) |
 | Tue, 04 Nov 2025 09:08:35 GMT | Top Endpoint Security Software in 2025: Protecting Every Device with Zero Trust | sundyne | [Read More](https://medium.com/p/1f1683b8927b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 02:58:04 GMT | Docker y LXC: 5 Verdades Sorprendentes | Didier Revelo | [Read More](https://medium.com/p/f826db3dc919) |
 | Tue, 04 Nov 2025 02:39:20 GMT | Fortinet NSE7 Operational Technology Security 7.2: 591Lab’s Guide to OT Mastery. | Al Beruni | [Read More](https://medium.com/p/571f2b696d63) |
 | Tue, 04 Nov 2025 02:25:35 GMT | WPScan: la navaja suiza para auditar WordPress | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/80d536daee46) |
-| Tue, 04 Nov 2025 02:22:37 GMT | Hidden in Plain Sight — How I Extracted a Flag from a JPG | Saumya Srivastava | [Read More](https://medium.com/p/c35618e66c60) |
-| Tue, 04 Nov 2025 02:21:42 GMT | PortSwigger Labs: Clickjacking (UI Redressing) Writeup (ALL LABS) | awes0meness | [Read More](https://medium.com/p/ba5488095e99) |
-| Tue, 04 Nov 2025 02:13:13 GMT | Abstraction and Abstract Classes in Java | fijrisalwa | [Read More](https://medium.com/p/c5bb2047bf48) |
-| Tue, 04 Nov 2025 02:10:48 GMT | PortSwigger Labs: Cross-Origin Resource Sharing (CORS) Writeup (ALL LABS) | awes0meness | [Read More](https://medium.com/p/2cc61c6044f1) |
-| Tue, 04 Nov 2025 02:10:07 GMT | PortSwigger Labs: GraphQL API Vulnerabilities Writeup (ALL LABS) | awes0meness | [Read More](https://medium.com/p/a47f1a7d12cf) |
-| Tue, 04 Nov 2025 01:34:02 GMT | Global Cybersecurity Camp 2025 (GCC) in Taiwan | Arm | [Read More](https://medium.com/p/07366f8d082e) |
-| Tue, 04 Nov 2025 01:31:36 GMT | Riddle Registry: A Simple PicoCTF Walkthrough | Saumya Srivastava | [Read More](https://medium.com/p/e221cc5cf54a) |
-| Tue, 04 Nov 2025 01:10:03 GMT | Behind the Mask: How AI and Deepfakes Are Rewriting Reality. | MANOJ [M_404] | [Read More](https://medium.com/p/8ba56f267dd5) |
-| Tue, 04 Nov 2025 01:00:36 GMT | Protect Yourself Online — Simple Cybersecurity Tips for 2025 | Sam Dalgleish | [Read More](https://medium.com/p/c89a75104ea2) |
-| Tue, 04 Nov 2025 00:44:14 GMT | How to Search the Dark Web Like a Pro: The Good, The Bad, and The Ugly | Dibeesh KS | [Read More](https://medium.com/p/d93fb8812a4b) |
