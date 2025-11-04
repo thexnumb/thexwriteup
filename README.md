@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 11:17:00 GMT | Threat and Vulnerabilities Report — October 2025 | Loginsoft | [Read More](https://medium.com/p/223df4e39bbd) |
+| Tue, 04 Nov 2025 11:11:31 GMT | Singapore’s Senior Minister Lee Discusses Global Geopolitics at Chatham House | Imran Ahmed - insightful, informative & humorous! | [Read More](https://medium.com/p/338631989198) |
 | Tue, 04 Nov 2025 11:10:50 GMT | Why Your Organisation Needs VAPT This Quarter: From Unknown Risks to Prioritised Fixes | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/572256c80715) |
 | Tue, 04 Nov 2025 11:09:33 GMT | Cybersecurity in the Open: How OSINT Exposes Digital Footprints (And How 7’s Algorithm Turns the… | Kabil Preetham K | [Read More](https://medium.com/p/bfd5e004f694) |
 | Tue, 04 Nov 2025 11:04:29 GMT | The Artificial Intelligence Journey — The Security Risk with AI based Browsers | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/31bafe5a2ff5) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 06:46:01 GMT | Zero Trust Architecture: Blueprint for Modern Digital Resilience | Samyukta Roy | [Read More](https://medium.com/p/b70d6cb28811) |
 | Tue, 04 Nov 2025 06:44:55 GMT | When Curiosity Costs ₦22,000: My Router Met a Screwdriver | Tolulope Abanikannda | [Read More](https://medium.com/p/0d35351d46aa) |
 | Tue, 04 Nov 2025 06:15:56 GMT | More Than System Logs and Alerts: Why I Chose Cybersecurity | Firzan Irfandi Firman | [Read More](https://medium.com/p/8b9da580ef45) |
-| Tue, 04 Nov 2025 05:48:56 GMT | AI Meets Cybersecurity: Your Next Step Toward a Smarter Career | sneha gaikwad | [Read More](https://medium.com/p/62a62f2dfc68) |
-| Tue, 04 Nov 2025 05:47:06 GMT | AI Shift-Left Security That Actually Ships in 2026 | Sonali Sood | [Read More](https://medium.com/p/d14dad83b56f) |
