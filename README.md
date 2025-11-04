@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 16:17:40 GMT | Thought 1 | Jordan Wright | [Read More](https://medium.com/p/137aa12c10b6) |
+| Tue, 04 Nov 2025 16:15:18 GMT | The Questions Your CEO Really Needs Answered About Critical Applications | Fabien Soulis | [Read More](https://medium.com/p/83dd85c8ad93) |
+| Tue, 04 Nov 2025 16:14:03 GMT | Penetration Testing MindMarket: A Deep Dive into Web Application Security | Balogun Ayomide | [Read More](https://medium.com/p/4418562d98bf) |
+| Tue, 04 Nov 2025 16:00:20 GMT | Back Again [Rework v0.8] | Simth | [Read More](https://medium.com/p/09dfc58453be) |
+| Tue, 04 Nov 2025 16:00:15 GMT | Lo-Fi Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/25dbcd622688) |
+| Tue, 04 Nov 2025 15:57:46 GMT | From Reactive to Predictive: How AI Is Reinventing Cybersecurity in 2025 | Co-Ventech | [Read More](https://medium.com/p/3c0467df8b72) |
+| Tue, 04 Nov 2025 15:55:01 GMT | Who’s surfing the internet, you or your browser? | Enrique Dans | [Read More](https://medium.com/p/065894bb75eb) |
+| Tue, 04 Nov 2025 15:53:30 GMT | Engineering the Risk: Turning Frameworks into Mission Assurance | Peter Hillier/Halton | [Read More](https://medium.com/p/02e5a35413fa) |
+| Tue, 04 Nov 2025 15:51:44 GMT | 10 Linux Security Tricks I Wish I Knew Before My First Hack | Ashish Singh | [Read More](https://medium.com/p/fd0a254debe3) |
+| Tue, 04 Nov 2025 15:48:27 GMT | Managed IT Services for Mission-Driven Work: Signs Your Nonprofit or Small Business Can’t Afford to… | Paradise technologies Inc | [Read More](https://medium.com/p/f335f75c540f) |
+| Tue, 04 Nov 2025 15:48:16 GMT | How to Safely Explore the Dark Web on Your iPhone | Tsumit | [Read More](https://medium.com/p/72bdde43dfec) |
+| Tue, 04 Nov 2025 15:46:23 GMT | Will UNC5221 pop a fresh zero-day before Dec 31? Updated! | Wes Young | [Read More](https://medium.com/p/b8ccd0f2f1ae) |
+| Tue, 04 Nov 2025 15:45:21 GMT | The Warning Signs I Didn’t Understand (January 2024) | Krystal | [Read More](https://medium.com/p/0d5b6e7c7bc5) |
 | Tue, 04 Nov 2025 15:39:33 GMT | Mastering XSS: Unmasking Cross-Site Scripting Vulnerabilities Across a Bug Bounty Platform | ◦•●◉✿ YSL ʜc ✿◉●•◦ | [Read More](https://medium.com/p/feb8a082a1d7) |
 | Tue, 04 Nov 2025 15:32:41 GMT | Blue — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/89f04d4cebd6) |
 | Tue, 04 Nov 2025 15:31:13 GMT | Beyond Trust: How Separation of Duties Builds Unbreachable Systems | Walidchaouachi | [Read More](https://medium.com/p/49a508174fd8) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 11:09:33 GMT | Cybersecurity in the Open: How OSINT Exposes Digital Footprints (And How 7’s Algorithm Turns the… | Kabil Preetham K | [Read More](https://medium.com/p/bfd5e004f694) |
 | Tue, 04 Nov 2025 11:04:29 GMT | The Artificial Intelligence Journey — The Security Risk with AI based Browsers | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/31bafe5a2ff5) |
 | Tue, 04 Nov 2025 11:03:08 GMT | Bug Bounty Hunting — Complete Guide (Part-128) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/f9abe6ebdbb4) |
-| Tue, 04 Nov 2025 10:59:50 GMT | Bug Bounty Hunting — Complete Guide (Part-127) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/4d7d5996c574) |
-| Tue, 04 Nov 2025 10:58:26 GMT | Computer security’s next player: reinforcement learning — a friendly tour of a new paper | Maqbool Saiyed | [Read More](https://medium.com/p/5597d42424fd) |
-| Tue, 04 Nov 2025 10:57:33 GMT | Bug Bounty Hunting — Complete Guide (Part-126) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0c8583cfede4) |
-| Tue, 04 Nov 2025 10:52:21 GMT | 3 Metrics That Prove the Value of Your Kiosk Machine Investment | Rakesh | [Read More](https://medium.com/p/cc93da8a0f0f) |
-| Tue, 04 Nov 2025 10:49:44 GMT | Octubre 2025: resumen de novedades y lanzamientos | Dario Bernabeu | [Read More](https://medium.com/p/607b269882f6) |
-| Tue, 04 Nov 2025 10:48:18 GMT | Hackloween CTF 2025 Write-Up | pipe2bot | [Read More](https://medium.com/p/7fd2631ddac8) |
-| Tue, 04 Nov 2025 10:43:14 GMT | AI Security Hijacking: 2025 Guide to Prompt Injection Attacks, LLM Vulnerabilities & Defense… | Mariem Jabloun | [Read More](https://medium.com/p/0831dada4f67) |
-| Tue, 04 Nov 2025 10:42:26 GMT | Sticky Situation case, BTL lvl 1retired. | RenderGeek | [Read More](https://medium.com/p/59231fec42fa) |
-| Tue, 04 Nov 2025 10:35:50 GMT | Secure Practices Implementations in Node.js | Mark O'Keeffe | [Read More](https://medium.com/p/cd346432ae62) |
-| Tue, 04 Nov 2025 10:35:34 GMT | Best Integrated Lease Management Software in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/fea7d8d08646) |
-| Tue, 04 Nov 2025 10:35:25 GMT | Hitech Barrier (HTB-100): The Smart Access Control Choice for Saudi Arabia | Hitech Barrier | [Read More](https://medium.com/p/6a3ebb1fbbc8) |
-| Tue, 04 Nov 2025 10:35:16 GMT | Strategy Over Rhetoric | The Kronichles Of Kuranen (The K of K) | [Read More](https://medium.com/p/7bc8c33a7c18) |
-| Tue, 04 Nov 2025 10:31:54 GMT | LFI vs RFI — When Your Website Starts Reading the Wrong Files | Natarajan C K | [Read More](https://medium.com/p/eb23ad6ddce5) |
