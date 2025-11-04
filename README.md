@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 04:07:40 GMT | ️‍♂️ Beyond Encryption: How to Build a Secret Messenger Using Kotlin and Images | Sivavishnu | [Read More](https://medium.com/p/e8e82e9a0120) |
+| Tue, 04 Nov 2025 04:01:59 GMT | Why “Eastern Sentry” Can’t Fully Protect NATO’s Eastern Edge — And Moscow Knows It | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/5896f6b0a2d7) |
+| Tue, 04 Nov 2025 03:56:07 GMT | 8 Best LAN IP Scanning Tools (Free & Fast) to Fix Wi-Fi Problems, Find Hidden Devices, and Scan… | Sajjad Hussain | [Read More](https://medium.com/p/5cac8bb69528) |
+| Tue, 04 Nov 2025 03:53:54 GMT | I Went on the Dark Web: What I Saw Will Shock You | Kamran Khan | [Read More](https://medium.com/p/59a6f19a3999) |
+| Tue, 04 Nov 2025 03:53:06 GMT | Hey, this is Abhiram Boyanapalli | Abhiram Boyanapalli | [Read More](https://medium.com/p/a48bd50b122a) |
+| Tue, 04 Nov 2025 03:50:11 GMT | The Internet Is Not a Picnic — But You Can Bring a Very Brave Sandwich | Dave LumAI | [Read More](https://medium.com/p/73cec3bb7180) |
 | Tue, 04 Nov 2025 03:31:56 GMT | Unzipping the Zipline Campaign: How Attackers Hijack Trust to Target Manufacturing | Deven Chhajed | [Read More](https://medium.com/p/822f311b481a) |
 | Tue, 04 Nov 2025 03:29:57 GMT | Path-Based IDORs: A Systematic Guide for Interactive Bug Bounty Learning | termireum | [Read More](https://medium.com/p/06b1b506e48c) |
 | Tue, 04 Nov 2025 03:22:13 GMT | How I Mapped and Assessed an SMB-Exposed Windows Lab — A Responsible Walkthrough | Vivektumma27 | [Read More](https://medium.com/p/c0fcb671526c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 18:02:22 GMT | Hack From Home: Remote CTFs Without Breaking the Bank | NotProudOfIt | [Read More](https://medium.com/p/ba04580978c2) |
 | Mon, 03 Nov 2025 18:00:18 GMT | Stop the Reuse Habit: Length and Uniqueness Win the Password War! ️ | Max Farnga | [Read More](https://medium.com/p/64bbff268dd8) |
 | Mon, 03 Nov 2025 17:50:08 GMT | The Windows Forensic Journey — GRR (Google Rapid Response) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/66c946aa8fbe) |
-| Mon, 03 Nov 2025 17:41:29 GMT | Scared of Phishing? You Should Be. How AI-Powered Attacks Are Targeting Your Salesforce Data | Amanda Mc | [Read More](https://medium.com/p/89365486a8db) |
-| Mon, 03 Nov 2025 17:38:51 GMT | Beyond the Certifications: Finding Your Edge in Cybersecurity | Fabien Soulis | [Read More](https://medium.com/p/1f130761d335) |
-| Mon, 03 Nov 2025 17:36:17 GMT | 20 Cache Poisoning Case Study - Depth Analysis of Real-world Bug Reports | Abhishek meena | [Read More](https://medium.com/p/d6aa02a6a44f) |
-| Mon, 03 Nov 2025 17:33:59 GMT | College adventure #1: Cybersecurity and network protocols | Reinaldo Freitas | [Read More](https://medium.com/p/f8e497d08186) |
-| Mon, 03 Nov 2025 17:31:54 GMT | The End of Platformization in Cybersecurity? | Raheel Anwar | [Read More](https://medium.com/p/dbd222c79851) |
-| Mon, 03 Nov 2025 17:31:15 GMT | Bounty Hacker  —  TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/5d5604823c52) |
