@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 15:39:33 GMT | Mastering XSS: Unmasking Cross-Site Scripting Vulnerabilities Across a Bug Bounty Platform | ◦•●◉✿ YSL ʜc ✿◉●•◦ | [Read More](https://medium.com/p/feb8a082a1d7) |
+| Tue, 04 Nov 2025 15:32:41 GMT | Blue — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/89f04d4cebd6) |
+| Tue, 04 Nov 2025 15:31:13 GMT | Beyond Trust: How Separation of Duties Builds Unbreachable Systems | Walidchaouachi | [Read More](https://medium.com/p/49a508174fd8) |
+| Tue, 04 Nov 2025 15:31:05 GMT | Get These 3 Items For Your Phone Right Now! | Maria Orms | [Read More](https://medium.com/p/f8d2fcf8beca) |
+| Tue, 04 Nov 2025 15:31:04 GMT | Cracking the Code of Strong Passwords — My Journey Building a Password Strength Checker in Python | Shashank M.S | [Read More](https://medium.com/p/8eaae85d5da4) |
+| Tue, 04 Nov 2025 15:29:20 GMT | The Principle of Least Privilege: Your First Line of Defense in Cybersecurity | Walidchaouachi | [Read More](https://medium.com/p/c67a8e04c779) |
+| Tue, 04 Nov 2025 15:27:35 GMT | The Power of Layers — Understanding Defense in Depth in Modern Cybersecurity | Walidchaouachi | [Read More](https://medium.com/p/a785b86a9018) |
+| Tue, 04 Nov 2025 15:20:07 GMT | Trust That Expires: Mapping the Longevity Horizon | Michal Pietrus | [Read More](https://medium.com/p/bcb7762d1597) |
 | Tue, 04 Nov 2025 15:17:43 GMT | Visualising Security: C4 Diagrams and threat modelling | Maya McDevitt | [Read More](https://medium.com/p/fc3d25aa772d) |
+| Tue, 04 Nov 2025 15:16:32 GMT | Getting BSCP and OSCP+ in 2025 | jH7z | [Read More](https://medium.com/p/7b2fd0271bf0) |
+| Tue, 04 Nov 2025 15:15:13 GMT | The Same Feature That Makes a Component Powerful Can Also Make It Dangerous. | ZAST AI | [Read More](https://medium.com/p/beb078c0208f) |
+| Tue, 04 Nov 2025 15:13:52 GMT | Why Every Student Should Learn About Phishing Attacks | Aj | [Read More](https://medium.com/p/1f583f9d08ae) |
 | Tue, 04 Nov 2025 15:08:29 GMT | Basic Pentesting THM Writeup | Benedict Agno | [Read More](https://medium.com/p/c0d7448f3236) |
 | Tue, 04 Nov 2025 15:04:45 GMT | Ez Creds — Extracting and Analysing DLL files | jH7z | [Read More](https://medium.com/p/f11853e9c3cf) |
 | Tue, 04 Nov 2025 15:01:44 GMT | Every forensic investigator should know these common antiforensic wipers | Dean | [Read More](https://medium.com/p/aa30844ade47) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 10:35:25 GMT | Hitech Barrier (HTB-100): The Smart Access Control Choice for Saudi Arabia | Hitech Barrier | [Read More](https://medium.com/p/6a3ebb1fbbc8) |
 | Tue, 04 Nov 2025 10:35:16 GMT | Strategy Over Rhetoric | The Kronichles Of Kuranen (The K of K) | [Read More](https://medium.com/p/7bc8c33a7c18) |
 | Tue, 04 Nov 2025 10:31:54 GMT | LFI vs RFI — When Your Website Starts Reading the Wrong Files | Natarajan C K | [Read More](https://medium.com/p/eb23ad6ddce5) |
-| Tue, 04 Nov 2025 10:27:50 GMT | Flutter cybersecurity setup — structured into talking points + plug-in snippets + sample answers | Punith S Uppar | [Read More](https://medium.com/p/4e5a283b787b) |
-| Tue, 04 Nov 2025 10:15:39 GMT | Ghosting always hurts | @StillLoading | [Read More](https://medium.com/p/de6e36dd5329) |
-| Tue, 04 Nov 2025 10:14:19 GMT | The Language of Tears | Sidra Noor | [Read More](https://medium.com/p/fc30fb045abc) |
-| Tue, 04 Nov 2025 10:14:01 GMT | The Silence After the Spotlight | Andy Tillman UK | [Read More](https://medium.com/p/131d0a9a68a3) |
-| Tue, 04 Nov 2025 10:13:57 GMT | Vulnerability Assessment and Penetration Testing (VAPT): The Shield Every Digital Business Needs | Devarshi Acharya | [Read More](https://medium.com/p/5fa3963a3339) |
-| Tue, 04 Nov 2025 10:10:12 GMT | How Zuri Njoku Helps Companies Turn Technology into a Growth Engine | Zuri Njoku | [Read More](https://medium.com/p/e8d75da9c918) |
-| Tue, 04 Nov 2025 10:09:54 GMT | Les Pare-feu : Au-delà du Concept, Comprendre la Logique | El Hadji Sidya Badji | [Read More](https://medium.com/p/1ddf28ccdaeb) |
-| Tue, 04 Nov 2025 10:05:02 GMT | How to Decide Between Building or Buying AI Solutions | Maruti Techlabs | [Read More](https://medium.com/p/054bb09a0aee) |
-| Tue, 04 Nov 2025 10:03:03 GMT | My Vision for Ethical Intelligence | CYBER CYMRU | [Read More](https://medium.com/p/88b4811708ea) |
-| Tue, 04 Nov 2025 10:03:03 GMT | Cybersecurity: How to protect your application from Cross-Site Scripting (XSS) | Bitrock | [Read More](https://medium.com/p/7f4523b8a9e2) |
-| Tue, 04 Nov 2025 10:02:03 GMT | Cybersecurity: How to protect your application from Cross-Site Scripting | Bitrock | [Read More](https://medium.com/p/e05f082bd525) |
