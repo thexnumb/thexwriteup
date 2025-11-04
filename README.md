@@ -12,12 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 15:17:43 GMT | Visualising Security: C4 Diagrams and threat modelling | Maya McDevitt | [Read More](https://medium.com/p/fc3d25aa772d) |
+| Tue, 04 Nov 2025 15:08:29 GMT | Basic Pentesting THM Writeup | Benedict Agno | [Read More](https://medium.com/p/c0d7448f3236) |
+| Tue, 04 Nov 2025 15:04:45 GMT | Ez Creds — Extracting and Analysing DLL files | jH7z | [Read More](https://medium.com/p/f11853e9c3cf) |
+| Tue, 04 Nov 2025 15:01:44 GMT | Every forensic investigator should know these common antiforensic wipers | Dean | [Read More](https://medium.com/p/aa30844ade47) |
+| Tue, 04 Nov 2025 14:55:21 GMT | “The Authentication Bypass That Exploited JavaScript’s Dot” | Aman Sharma | [Read More](https://medium.com/p/25397a801ef0) |
+| Tue, 04 Nov 2025 14:52:33 GMT | Absent your agency. | Daniel Moore | [Read More](https://medium.com/p/d69168706106) |
+| Tue, 04 Nov 2025 14:50:06 GMT | Las 5 plataformas para practicar seguridad defensiva en laboratorios virtuales | Tiziano Mass | [Read More](https://medium.com/p/d789169a096d) |
+| Tue, 04 Nov 2025 14:45:24 GMT | Agenda Ransomware Deploys Linux on Windows, AI Infrastructure Crisis, and Trucking Industry Under… | David Grice | [Read More](https://medium.com/p/8fdb285712f5) |
+| Tue, 04 Nov 2025 14:42:47 GMT | ️ Penetration Testing: From Fundamentals to Flutter Security | Talelbriki | [Read More](https://medium.com/p/beb001e1b781) |
 | Tue, 04 Nov 2025 14:40:41 GMT | The danger of vibe coding: How a broken‑object‑level authorization (BOLA) bug slipped into an AI… | Jay Simmons | [Read More](https://medium.com/p/c8173a0e8536) |
 | Tue, 04 Nov 2025 14:40:23 GMT | Unlocking Privacy: Partial vs Full Homomorphic Encryption Explained with Python | Riccardo Bernardi | [Read More](https://medium.com/p/31d346641fe1) |
 | Tue, 04 Nov 2025 14:39:34 GMT | Generative AI in cybersecurity: How AI-Augmented and AI-enhanced teams can build smarter security… | Software business reviewer | [Read More](https://medium.com/p/d7aeecdfe6c7) |
 | Tue, 04 Nov 2025 14:38:41 GMT | Pablo Patel — How Businesses Will Reinvent Themselves Through AI and Digital Psychology by 2030 | Pablo | [Read More](https://medium.com/p/3873dba9f02d) |
 | Tue, 04 Nov 2025 14:38:26 GMT | Why You Hear About Data Breaches Months Later — and What Companies Aren’t Saying | Legal Thoughts | [Read More](https://medium.com/p/c2f3641b89f3) |
+| Tue, 04 Nov 2025 14:38:14 GMT | Goodbye Port 22: Understanding AWS SSM’s Secure Access Mechanism | Vedant Bhalerao | [Read More](https://medium.com/p/28ec1fa54a1b) |
 | Tue, 04 Nov 2025 14:36:53 GMT | Authentication Bypass in Indian Government Mobile App | Bytewreaker | [Read More](https://medium.com/p/b0cd66662d69) |
+| Tue, 04 Nov 2025 14:36:30 GMT | 5 Key Benefits of Small Business CCTV | Global CCTV Monitoring Services | [Read More](https://medium.com/p/686a5c76bffc) |
 | Tue, 04 Nov 2025 14:34:24 GMT | OWASP top 10–2021 | omni | [Read More](https://medium.com/p/2a3a6af4ad02) |
 | Tue, 04 Nov 2025 14:30:18 GMT | What I Wish I Knew About Cybersecurity Before My Startup Got Hacked | Hania Khan | [Read More](https://medium.com/p/979cf18f37e2) |
 | Tue, 04 Nov 2025 14:27:15 GMT | Free 48-Hour AI & Cyber Governance Checklist (Australian Edition) | Axsaspty | [Read More](https://medium.com/p/47f4a0f9d704) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 10:03:03 GMT | My Vision for Ethical Intelligence | CYBER CYMRU | [Read More](https://medium.com/p/88b4811708ea) |
 | Tue, 04 Nov 2025 10:03:03 GMT | Cybersecurity: How to protect your application from Cross-Site Scripting (XSS) | Bitrock | [Read More](https://medium.com/p/7f4523b8a9e2) |
 | Tue, 04 Nov 2025 10:02:03 GMT | Cybersecurity: How to protect your application from Cross-Site Scripting | Bitrock | [Read More](https://medium.com/p/e05f082bd525) |
-| Tue, 04 Nov 2025 10:00:55 GMT | DockerLabs Writeup — BadPlugin (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1f00fc8c5d3c) |
-| Tue, 04 Nov 2025 10:00:50 GMT | Dark Web And Cybersecurity: Unveiling Hidden Threats Today | Techzonego | [Read More](https://medium.com/p/46d461a0f86b) |
-| Tue, 04 Nov 2025 09:58:23 GMT | API Security Market — Forecast (2025–2030) | Samudralamohankumar | [Read More](https://medium.com/p/0c224d010487) |
-| Tue, 04 Nov 2025 09:56:35 GMT | If You’re Preparing for the CompTIA Network+ (N10–009) Exam, You’re in the Right Place! | Azhariqbal | [Read More](https://medium.com/p/a64bfd00dc42) |
-| Tue, 04 Nov 2025 09:55:12 GMT | A Pentester’s Log of an Advanced Android Anti-Debugging System | IronGhost | [Read More](https://medium.com/p/2dd303482771) |
-| Tue, 04 Nov 2025 09:54:59 GMT | The Unsung Hero of Quality: Why Incident Management Matters More Than You Think | Niraj Subedi | [Read More](https://medium.com/p/a68f22365d42) |
-| Tue, 04 Nov 2025 09:52:43 GMT | How Prompt Injection Attacks Turn Assistants into Accomplices | David SEHYEON Baek | [Read More](https://medium.com/p/31ed11e406df) |
-| Tue, 04 Nov 2025 09:50:03 GMT | Honorable Hacking: How To Red Team Without Losing Your Soul | Krishna Agarwal | [Read More](https://medium.com/p/cb67f6d35688) |
-| Tue, 04 Nov 2025 09:49:22 GMT | Waste Management Companies in KSA: Leading the Way Toward a Cleaner, Sustainable Future | Asna Futorics | [Read More](https://medium.com/p/00b600acb812) |
-| Tue, 04 Nov 2025 09:48:16 GMT | Top 25 Threat Intelligence Tools for Security Analysts | Manisha Chaudhary | [Read More](https://medium.com/p/4dec12019e72) |
-| Tue, 04 Nov 2025 09:43:42 GMT | DNS Part 1 | Kiran Naragam | [Read More](https://medium.com/p/481f7c137390) |
