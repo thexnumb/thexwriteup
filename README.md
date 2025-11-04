@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 13:21:56 GMT | “How Mature GRC Programs Give US, UK, EU & Canadian Companies a Competitive Edge” | amritesh | [Read More](https://medium.com/p/966e460aca91) |
+| Tue, 04 Nov 2025 13:15:12 GMT | Inside an OSINT Investigation: How Digital Clues Reveal the Truth | Md Rakibul Islam | [Read More](https://medium.com/p/efd6cf66dc40) |
+| Tue, 04 Nov 2025 13:11:37 GMT | Hardening a Web App Against Phishing Flags and Missing Security Headers. | Ogwuazor Lucky | [Read More](https://medium.com/p/b88c2bad1e49) |
+| Tue, 04 Nov 2025 13:10:29 GMT | The CISO’s Nightmare & The Dual-Sided Threat: MCP Security Takeaways from Akto 2025 (Part 2) | Yash Virendra Prajapati | [Read More](https://medium.com/p/bdc87deee693) |
+| Tue, 04 Nov 2025 13:07:16 GMT | Securing Generative AI: Risks, Threats, and Mitigations | DhanushKumar | [Read More](https://medium.com/p/1b609330dc1e) |
+| Tue, 04 Nov 2025 13:06:07 GMT | TryHackMe: Investigating Windows Writeup | Melisa Nyamukondiwa | [Read More](https://medium.com/p/88b70cf8a0e4) |
+| Tue, 04 Nov 2025 13:05:30 GMT | Cache Poisoning: Making Your CDN Serve Malicious Content to Everyone ️ | InstaTunnel | [Read More](https://medium.com/p/c68937ba22cb) |
+| Tue, 04 Nov 2025 13:04:16 GMT | Why Reliable Security Guard Services Are Essential in Today’s Fast-Paced World | Ciss India | [Read More](https://medium.com/p/1cefd142f229) |
+| Tue, 04 Nov 2025 13:02:01 GMT | Fixing glibc Vulnerabilities in Go Containers: The Case of CVE-2025–4802 | Cássius Paim | [Read More](https://medium.com/p/cd7e4b9b327d) |
+| Tue, 04 Nov 2025 13:01:45 GMT | Labshock ICS Terminal: The “Bloomberg Terminal” for Industrial Control Systems | Desmond Lamptey | [Read More](https://medium.com/p/b6babbb79be4) |
+| Tue, 04 Nov 2025 12:59:45 GMT | Jason Costain on Preventing Crypto Fraud and Risk Management | Jason Costain | [Read More](https://medium.com/p/f735ca6ac3ba) |
+| Tue, 04 Nov 2025 12:58:13 GMT | Project #14.2— Compliance Gap Analysis [CIS Controls v8, IG2 Edition] | Andrew Williams | [Read More](https://medium.com/p/53c94a83c945) |
+| Tue, 04 Nov 2025 12:57:33 GMT | เฉลยโจทย์ Digital Forensic ในกิจกรรม Hackloween 2025 CTF Event by SEC Playground | Chicken0248 | [Read More](https://medium.com/p/ec721644ef69) |
+| Tue, 04 Nov 2025 12:55:55 GMT | IoT Security Trends 2025: Shaping the Future of Connected Ecosystems | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/9684510fd4e1) |
+| Tue, 04 Nov 2025 12:55:09 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/c55e9002ac0d) |
+| Tue, 04 Nov 2025 12:51:20 GMT | From ClickFix to EtherHiding: The Evolution of Cybercrime. | José Reyes (@Architekt) | [Read More](https://medium.com/p/b3df273a46fb) |
+| Tue, 04 Nov 2025 12:47:58 GMT | The Art of Vulnerability: Unlocking Creative Potential | Lucy Nwadike | [Read More](https://medium.com/p/53919aee0bc2) |
 | Tue, 04 Nov 2025 12:38:33 GMT | WhoAmI | ishiii | [Read More](https://medium.com/p/10865b4030f5) |
 | Tue, 04 Nov 2025 12:35:47 GMT | Stolen Mount - Tryhackme — Walkthrough | Aufarifqi | [Read More](https://medium.com/p/779a495e347e) |
 | Tue, 04 Nov 2025 12:35:46 GMT | Key Benefits of Hiring Cybersecurity Compliance Service Providers | Zelar Trust | [Read More](https://medium.com/p/8016de626998) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 09:06:01 GMT | Identity Security for Autonomous AI | Seb AGUELE | [Read More](https://medium.com/p/8f659be7b4ab) |
 | Tue, 04 Nov 2025 09:05:26 GMT | Threat Detection: A Proactive Strategy for Modern Security | Ishaan Nair | [Read More](https://medium.com/p/1e21a33e6625) |
 | Tue, 04 Nov 2025 08:59:08 GMT | The Data Dominance Bahrain’s growing footprint on Digital Infrastructure | expbhavya | [Read More](https://medium.com/p/874efa89f086) |
-| Tue, 04 Nov 2025 08:57:16 GMT | Ruby 3.4 just solved the tempfile cleanup headache with one keyword argument. | Raza Hussain | [Read More](https://medium.com/p/eea92b9c1146) |
-| Tue, 04 Nov 2025 08:56:33 GMT | Cyber Analyst vs. SOC Analyst | Laman Ibrahimli | [Read More](https://medium.com/p/4c15ea36061d) |
-| Tue, 04 Nov 2025 08:54:55 GMT | The Triad of AI | O. J. Okpabi | [Read More](https://medium.com/p/eef2032ff4fe) |
-| Tue, 04 Nov 2025 08:46:59 GMT | EC-Council Certified SOC Analyst (CSA) — Exam Guide | Livingston Leman | [Read More](https://medium.com/p/2644944bed6d) |
-| Tue, 04 Nov 2025 08:42:03 GMT | The Day I Replaced Windows With Linux, And Everything Actually Worked | Fateyaly | [Read More](https://medium.com/p/52e303153a57) |
-| Tue, 04 Nov 2025 08:39:06 GMT | The “Grandma Exploit”: How Simple Words Are Hacking the World’s Most Advanced AI | Lara Shamal | [Read More](https://medium.com/p/8b581e96bf03) |
-| Tue, 04 Nov 2025 08:36:53 GMT | The Researcher-Vector: Stegano-Text’s Infinite Window of Contagion | Berend Watchus | [Read More](https://medium.com/p/8e2543bffb52) |
-| Tue, 04 Nov 2025 08:33:09 GMT | Elliptic Curve Cryptography: Blockchain Security | BlockByte | [Read More](https://medium.com/p/af86d89b63ee) |
-| Tue, 04 Nov 2025 08:29:29 GMT | Why Every Business Needs Regular VAPT Services | West Advanced Technologies Inc | [Read More](https://medium.com/p/faf94a9a5ada) |
-| Tue, 04 Nov 2025 08:23:34 GMT | Blenheim Palace Gold Toilet Heist Exposed | Global CCTV Monitoring Services | [Read More](https://medium.com/p/52ef65afb165) |
-| Tue, 04 Nov 2025 08:20:26 GMT | Learning Cybersecurity on Your Own Is Hell — Here’s What I Learned | Atiya Kharwa | [Read More](https://medium.com/p/d360498e0308) |
-| Tue, 04 Nov 2025 08:01:16 GMT | Beyond Passwords: Identity Is the New Perimeter | Yash Patel | [Read More](https://medium.com/p/c9f2874c097a) |
-| Tue, 04 Nov 2025 07:58:49 GMT | Basic Pentesting 1 of vulnhub Walkthrough : writeup | Attiqorakzai | [Read More](https://medium.com/p/f945f2a5a5ff) |
-| Tue, 04 Nov 2025 07:55:12 GMT | How Much Money Do We Need in Order to Be Completely Calm and Anxiety-Free? | Michael Laitman | [Read More](https://medium.com/p/6c30e8f1daa2) |
-| Tue, 04 Nov 2025 07:53:10 GMT | Why AI Agents and Blockchain Can’t Talk — And How I’m Fixing It | Levi Chinecherem Chidi | [Read More](https://medium.com/p/bd14678976f1) |
-| Tue, 04 Nov 2025 07:47:18 GMT | Why Saying ‘No’ Became the Best Business Decision I Ever Made | Vijay Kumar Gupta | [Read More](https://medium.com/p/0416aa6190de) |
-| Tue, 04 Nov 2025 07:46:47 GMT | Your Home Isn’t as Safe as You Think: 7 Overlooked Weak Spots Burglars Exploit | Amy Smith | [Read More](https://medium.com/p/362a0f2a2c15) |
