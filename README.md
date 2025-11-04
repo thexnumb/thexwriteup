@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 03:06:50 GMT | 32KB to Chaos: Exploiting XSS and WAF Evasion in a Fintech App | Derek Johnston | [Read More](https://medium.com/p/b6afef003ee4) |
+| Tue, 04 Nov 2025 03:03:22 GMT | Can LLMs Do Better Threat Modeling Than Humans? | Aditya Kolte | [Read More](https://medium.com/p/f0177438f3d2) |
+| Tue, 04 Nov 2025 02:58:04 GMT | Docker y LXC: 5 Verdades Sorprendentes | Didier Revelo | [Read More](https://medium.com/p/f826db3dc919) |
+| Tue, 04 Nov 2025 02:39:20 GMT | Fortinet NSE7 Operational Technology Security 7.2: 591Lab’s Guide to OT Mastery. | Al Beruni | [Read More](https://medium.com/p/571f2b696d63) |
+| Tue, 04 Nov 2025 02:25:35 GMT | WPScan: la navaja suiza para auditar WordPress | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/80d536daee46) |
+| Tue, 04 Nov 2025 02:22:37 GMT | Hidden in Plain Sight — How I Extracted a Flag from a JPG | Saumya Srivastava | [Read More](https://medium.com/p/c35618e66c60) |
+| Tue, 04 Nov 2025 02:21:42 GMT | PortSwigger Labs: Clickjacking (UI Redressing) Writeup (ALL LABS) | awes0meness | [Read More](https://medium.com/p/ba5488095e99) |
+| Tue, 04 Nov 2025 02:13:13 GMT | Abstraction and Abstract Classes in Java | fijrisalwa | [Read More](https://medium.com/p/c5bb2047bf48) |
+| Tue, 04 Nov 2025 02:10:48 GMT | PortSwigger Labs: Cross-Origin Resource Sharing (CORS) Writeup (ALL LABS) | awes0meness | [Read More](https://medium.com/p/2cc61c6044f1) |
+| Tue, 04 Nov 2025 02:10:07 GMT | PortSwigger Labs: GraphQL API Vulnerabilities Writeup (ALL LABS) | awes0meness | [Read More](https://medium.com/p/a47f1a7d12cf) |
 | Tue, 04 Nov 2025 01:34:02 GMT | Global Cybersecurity Camp 2025 (GCC) in Taiwan | Arm | [Read More](https://medium.com/p/07366f8d082e) |
 | Tue, 04 Nov 2025 01:31:36 GMT | Riddle Registry: A Simple PicoCTF Walkthrough | Saumya Srivastava | [Read More](https://medium.com/p/e221cc5cf54a) |
 | Tue, 04 Nov 2025 01:10:03 GMT | Behind the Mask: How AI and Deepfakes Are Rewriting Reality. | MANOJ [M_404] | [Read More](https://medium.com/p/8ba56f267dd5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 17:17:17 GMT | Speaking the Language of Risk: Why IT Security Must Start with Business-Critical Applications | Fabien Soulis | [Read More](https://medium.com/p/73b750c49cbf) |
 | Mon, 03 Nov 2025 17:15:08 GMT | AI for Cybersecurity and Threat Detection | Rashadul Islam | [Read More](https://medium.com/p/0c0d89d4b5cc) |
 | Mon, 03 Nov 2025 17:11:58 GMT | ️ The 5 Pillars of Cybersecurity Every Professional Must Master | Code Link | [Read More](https://medium.com/p/7ab7127fa58d) |
-| Mon, 03 Nov 2025 17:09:24 GMT | Why Modern Businesses Need Smarter Compliance-Ready Security — and How Rainbow Secure Simplifies… | Dr. Shashi Karhail | [Read More](https://medium.com/p/3df38978b380) |
-| Mon, 03 Nov 2025 16:57:24 GMT | Secure Software Development Life Cycle (SSDLC) | Unachat | [Read More](https://medium.com/p/47b76d83579b) |
-| Mon, 03 Nov 2025 16:55:35 GMT | Trinity Protocol™ v3.1: We Just Achieved the World’s First 2-of-3 Multi-Chain Consensus | Chronos Vault | [Read More](https://medium.com/p/66975bd77d99) |
-| Mon, 03 Nov 2025 16:48:34 GMT | Ctrl+Alt+Del | Alex Bon | [Read More](https://medium.com/p/a1607ee3757d) |
-| Mon, 03 Nov 2025 16:46:56 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/62272f0e84d7) |
-| Mon, 03 Nov 2025 16:44:23 GMT | How I Stopped Wasting Hours and Started Trusting Machine Learning | Jaspreet Singh | [Read More](https://medium.com/p/b0a5ff340c7a) |
-| Mon, 03 Nov 2025 16:41:56 GMT | TryHackMe - Intro PoC Scripting - WriteUp | Axoloth | [Read More](https://medium.com/p/ea527b5ba0fa) |
-| Mon, 03 Nov 2025 16:40:04 GMT | New Android Trojans BankBot YNRK and DeliveryRAT Target Users to Steal Financial Data | Chetan Seripally | [Read More](https://medium.com/p/777e50a53ace) |
-| Mon, 03 Nov 2025 16:33:27 GMT | gm-sm2-cipher: Bridging Chinese Cryptographic Standards with Node.js | Sushant Raj Dangal | [Read More](https://medium.com/p/9583c73489ff) |
-| Mon, 03 Nov 2025 16:32:03 GMT | Kali Linux Installation on Windows 11 with VMware Workstation Pro | Ahmet Ekiz | [Read More](https://medium.com/p/d2e2475761ae) |
