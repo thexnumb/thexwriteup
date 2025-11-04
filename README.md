@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 11:10:50 GMT | Why Your Organisation Needs VAPT This Quarter: From Unknown Risks to Prioritised Fixes | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/572256c80715) |
+| Tue, 04 Nov 2025 11:09:33 GMT | Cybersecurity in the Open: How OSINT Exposes Digital Footprints (And How 7’s Algorithm Turns the… | Kabil Preetham K | [Read More](https://medium.com/p/bfd5e004f694) |
+| Tue, 04 Nov 2025 11:04:29 GMT | The Artificial Intelligence Journey — The Security Risk with AI based Browsers | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/31bafe5a2ff5) |
+| Tue, 04 Nov 2025 11:03:08 GMT | Bug Bounty Hunting — Complete Guide (Part-128) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/f9abe6ebdbb4) |
+| Tue, 04 Nov 2025 10:59:50 GMT | Bug Bounty Hunting — Complete Guide (Part-127) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/4d7d5996c574) |
+| Tue, 04 Nov 2025 10:58:26 GMT | Computer security’s next player: reinforcement learning — a friendly tour of a new paper | Maqbool Saiyed | [Read More](https://medium.com/p/5597d42424fd) |
+| Tue, 04 Nov 2025 10:57:33 GMT | Bug Bounty Hunting — Complete Guide (Part-126) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0c8583cfede4) |
+| Tue, 04 Nov 2025 10:52:21 GMT | 3 Metrics That Prove the Value of Your Kiosk Machine Investment | Rakesh | [Read More](https://medium.com/p/cc93da8a0f0f) |
+| Tue, 04 Nov 2025 10:49:44 GMT | Octubre 2025: resumen de novedades y lanzamientos | Dario Bernabeu | [Read More](https://medium.com/p/607b269882f6) |
+| Tue, 04 Nov 2025 10:48:18 GMT | Hackloween CTF 2025 Write-Up | pipe2bot | [Read More](https://medium.com/p/7fd2631ddac8) |
+| Tue, 04 Nov 2025 10:43:14 GMT | AI Security Hijacking: 2025 Guide to Prompt Injection Attacks, LLM Vulnerabilities & Defense… | Mariem Jabloun | [Read More](https://medium.com/p/0831dada4f67) |
+| Tue, 04 Nov 2025 10:42:26 GMT | Sticky Situation case, BTL lvl 1retired. | RenderGeek | [Read More](https://medium.com/p/59231fec42fa) |
 | Tue, 04 Nov 2025 10:35:50 GMT | Secure Practices Implementations in Node.js | Mark O'Keeffe | [Read More](https://medium.com/p/cd346432ae62) |
 | Tue, 04 Nov 2025 10:35:34 GMT | Best Integrated Lease Management Software in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/fea7d8d08646) |
+| Tue, 04 Nov 2025 10:35:25 GMT | Hitech Barrier (HTB-100): The Smart Access Control Choice for Saudi Arabia | Hitech Barrier | [Read More](https://medium.com/p/6a3ebb1fbbc8) |
+| Tue, 04 Nov 2025 10:35:16 GMT | Strategy Over Rhetoric | The Kronichles Of Kuranen (The K of K) | [Read More](https://medium.com/p/7bc8c33a7c18) |
 | Tue, 04 Nov 2025 10:31:54 GMT | LFI vs RFI — When Your Website Starts Reading the Wrong Files | Natarajan C K | [Read More](https://medium.com/p/eb23ad6ddce5) |
 | Tue, 04 Nov 2025 10:27:50 GMT | Flutter cybersecurity setup — structured into talking points + plug-in snippets + sample answers | Punith S Uppar | [Read More](https://medium.com/p/4e5a283b787b) |
 | Tue, 04 Nov 2025 10:15:39 GMT | Ghosting always hurts | @StillLoading | [Read More](https://medium.com/p/de6e36dd5329) |
@@ -21,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 10:14:01 GMT | The Silence After the Spotlight | Andy Tillman UK | [Read More](https://medium.com/p/131d0a9a68a3) |
 | Tue, 04 Nov 2025 10:13:57 GMT | Vulnerability Assessment and Penetration Testing (VAPT): The Shield Every Digital Business Needs | Devarshi Acharya | [Read More](https://medium.com/p/5fa3963a3339) |
 | Tue, 04 Nov 2025 10:10:12 GMT | How Zuri Njoku Helps Companies Turn Technology into a Growth Engine | Zuri Njoku | [Read More](https://medium.com/p/e8d75da9c918) |
+| Tue, 04 Nov 2025 10:09:54 GMT | Les Pare-feu : Au-delà du Concept, Comprendre la Logique | El Hadji Sidya Badji | [Read More](https://medium.com/p/1ddf28ccdaeb) |
 | Tue, 04 Nov 2025 10:05:02 GMT | How to Decide Between Building or Buying AI Solutions | Maruti Techlabs | [Read More](https://medium.com/p/054bb09a0aee) |
 | Tue, 04 Nov 2025 10:03:03 GMT | My Vision for Ethical Intelligence | CYBER CYMRU | [Read More](https://medium.com/p/88b4811708ea) |
 | Tue, 04 Nov 2025 10:03:03 GMT | Cybersecurity: How to protect your application from Cross-Site Scripting (XSS) | Bitrock | [Read More](https://medium.com/p/7f4523b8a9e2) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 06:15:56 GMT | More Than System Logs and Alerts: Why I Chose Cybersecurity | Firzan Irfandi Firman | [Read More](https://medium.com/p/8b9da580ef45) |
 | Tue, 04 Nov 2025 05:48:56 GMT | AI Meets Cybersecurity: Your Next Step Toward a Smarter Career | sneha gaikwad | [Read More](https://medium.com/p/62a62f2dfc68) |
 | Tue, 04 Nov 2025 05:47:06 GMT | AI Shift-Left Security That Actually Ships in 2026 | Sonali Sood | [Read More](https://medium.com/p/d14dad83b56f) |
-| Tue, 04 Nov 2025 05:40:29 GMT | Security & Resilience in 2025 Frontend Apps: Micro-Frontends, CSP, and Zero-Trust Principles | Satnam Singh | [Read More](https://medium.com/p/90689d393eba) |
-| Tue, 04 Nov 2025 05:35:59 GMT | The $2.9 Billion Wake-Up Call: What the AI Incident Database Reveals About Liability (And How We… | Glen Patzlaff | [Read More](https://medium.com/p/063296100221) |
-| Tue, 04 Nov 2025 05:25:59 GMT | Security Begins with People: Why Educating People Matters More Than Buying Tools. | Ifeawoyemi | [Read More](https://medium.com/p/8b43b252b609) |
-| Tue, 04 Nov 2025 05:25:56 GMT | European Automotive E/E System Summit 2026 | Ecvinternational | [Read More](https://medium.com/p/bdb1d2873239) |
-| Tue, 04 Nov 2025 05:23:51 GMT | Palo Alto Networks Prisma AIRS 2.0: A Complete Guide | Juara IT Solutions | [Read More](https://medium.com/p/f9dc887eff6e) |
-| Tue, 04 Nov 2025 05:17:48 GMT | Cryptocurrency Heists Reach Record Highs in 2025 | Scoutinsights | [Read More](https://medium.com/p/691780ad24c8) |
-| Tue, 04 Nov 2025 05:14:26 GMT | Architectural Patterns for Securing Data: At Rest, In Transit, and At Runtime | Rost Glukhov | [Read More](https://medium.com/p/56d4676220f3) |
-| Tue, 04 Nov 2025 05:02:06 GMT | You Probably Misunderstood CORS Here’s the Full Explanation | Kalebalebachew | [Read More](https://medium.com/p/8d2df9e18f3a) |
-| Tue, 04 Nov 2025 05:01:33 GMT | A Brief (and chaotic) Summary of Research through Design | seal(theo)ry | [Read More](https://medium.com/p/784115abc8d7) |
-| Tue, 04 Nov 2025 04:58:49 GMT | The Rule That Echoes in Empty Rooms | Kushal Dhananjay Samant | [Read More](https://medium.com/p/a5de07e1fc10) |
-| Tue, 04 Nov 2025 04:57:43 GMT | [OverTheWire] Bandit Levels | H$nt | [Read More](https://medium.com/p/1f7c8abe797b) |
-| Tue, 04 Nov 2025 04:54:56 GMT | [OverTheWire] Bandit Level 33 → 34 | H$nt | [Read More](https://medium.com/p/7152d533f21e) |
-| Tue, 04 Nov 2025 04:46:02 GMT | 10 Common Personal Security Guard Mistakes to Avoid | Lakshay Security | [Read More](https://medium.com/p/9bfce8b391ac) |
-| Tue, 04 Nov 2025 04:45:10 GMT | The Importance of Asset Protection in Today’s Economy | Lakshay Security | [Read More](https://medium.com/p/b96c36da2b5a) |
-| Tue, 04 Nov 2025 04:41:54 GMT | PBO : Abstract & Abstract Class | Yasa Wijaya | [Read More](https://medium.com/p/a26fd459ce29) |
