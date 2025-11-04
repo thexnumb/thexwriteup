@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 16:44:53 GMT | Physical Security Assessments for newbies | jH7z | [Read More](https://medium.com/p/314dd00a9f25) |
+| Tue, 04 Nov 2025 16:37:34 GMT | Daylight Security: Investing in the Future of Managed Agentic Security Services | Kevin Gabura | [Read More](https://medium.com/p/0f8559d8002e) |
+| Tue, 04 Nov 2025 16:34:47 GMT | IDOR: The Bug That Opens Doors Without Knocking | NadSec | [Read More](https://medium.com/p/6abbb9f9600f) |
+| Tue, 04 Nov 2025 16:33:21 GMT | Cosas “superficiales” | May | [Read More](https://medium.com/p/d9c9c5bd18c0) |
+| Tue, 04 Nov 2025 16:32:03 GMT | When Your Phone Vanishes: Why Most People Have No Plan | Cyberberri | [Read More](https://medium.com/p/7b536551cb0f) |
+| Tue, 04 Nov 2025 16:23:29 GMT | College IT Project Guide | Samuel Lalhriatpuia | [Read More](https://medium.com/p/0daead751388) |
+| Tue, 04 Nov 2025 16:21:52 GMT | Digital Investigations in Modern Litigation: How Cyber Intelligence Is Transforming Legal Strategy | Hartley Paralegal, LLC | [Read More](https://medium.com/p/7460a36173a2) |
+| Tue, 04 Nov 2025 16:18:53 GMT | Stop Drowning in Active Directory — My Ultimate AD Notes Are Here | Vishal Sharma | [Read More](https://medium.com/p/28b6276e9008) |
 | Tue, 04 Nov 2025 16:17:40 GMT | Thought 1 | Jordan Wright | [Read More](https://medium.com/p/137aa12c10b6) |
 | Tue, 04 Nov 2025 16:15:18 GMT | The Questions Your CEO Really Needs Answered About Critical Applications | Fabien Soulis | [Read More](https://medium.com/p/83dd85c8ad93) |
 | Tue, 04 Nov 2025 16:14:03 GMT | Penetration Testing MindMarket: A Deep Dive into Web Application Security | Balogun Ayomide | [Read More](https://medium.com/p/4418562d98bf) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 11:58:59 GMT | Chain Link Fence in Saudi Arabia Secure, Strong & Cost-Effective | Hitechfence | [Read More](https://medium.com/p/630bffe3f66b) |
 | Tue, 04 Nov 2025 11:51:16 GMT | How SOC 2 Can Cut your SaaS Sales Cycle in Half | Hicomply | [Read More](https://medium.com/p/ade2b6a74c9d) |
 | Tue, 04 Nov 2025 11:40:26 GMT | The New Frontier: Navigating the AI Browser War | Moiz Jamaal | [Read More](https://medium.com/p/9cff499f9754) |
-| Tue, 04 Nov 2025 11:36:23 GMT | The Price of Convenience: When extensions go rogue | Adewale Ayomide | [Read More](https://medium.com/p/da0235b9ea18) |
-| Tue, 04 Nov 2025 11:35:35 GMT | Signs That Your PC Needs Professional Repair Before It Crashes Permanently | Ask IT Support | [Read More](https://medium.com/p/3741c0e39145) |
-| Tue, 04 Nov 2025 11:17:00 GMT | Threat and Vulnerabilities Report — October 2025 | Loginsoft | [Read More](https://medium.com/p/223df4e39bbd) |
-| Tue, 04 Nov 2025 11:11:31 GMT | Singapore’s Senior Minister Lee Discusses Global Geopolitics at Chatham House | Imran Ahmed - insightful, informative & humorous! | [Read More](https://medium.com/p/338631989198) |
-| Tue, 04 Nov 2025 11:10:50 GMT | Why Your Organisation Needs VAPT This Quarter: From Unknown Risks to Prioritised Fixes | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/572256c80715) |
-| Tue, 04 Nov 2025 11:09:33 GMT | Cybersecurity in the Open: How OSINT Exposes Digital Footprints (And How 7’s Algorithm Turns the… | Kabil Preetham K | [Read More](https://medium.com/p/bfd5e004f694) |
-| Tue, 04 Nov 2025 11:04:29 GMT | The Artificial Intelligence Journey — The Security Risk with AI based Browsers | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/31bafe5a2ff5) |
-| Tue, 04 Nov 2025 11:03:08 GMT | Bug Bounty Hunting — Complete Guide (Part-128) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/f9abe6ebdbb4) |
