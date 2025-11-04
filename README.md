@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 03:31:56 GMT | Unzipping the Zipline Campaign: How Attackers Hijack Trust to Target Manufacturing | Deven Chhajed | [Read More](https://medium.com/p/822f311b481a) |
+| Tue, 04 Nov 2025 03:29:57 GMT | Path-Based IDORs: A Systematic Guide for Interactive Bug Bounty Learning | termireum | [Read More](https://medium.com/p/06b1b506e48c) |
+| Tue, 04 Nov 2025 03:22:13 GMT | How I Mapped and Assessed an SMB-Exposed Windows Lab — A Responsible Walkthrough | Vivektumma27 | [Read More](https://medium.com/p/c0fcb671526c) |
+| Tue, 04 Nov 2025 03:21:53 GMT | In today’s fast-evolving digital world, coding is no longer just a niche skill — it has become a… | STEMBuddy Coding & Robotics Education, Australia | [Read More](https://medium.com/p/25e11c13ad19) |
+| Tue, 04 Nov 2025 03:20:44 GMT | Cryptographic Implementation Bugs: The Hidden Flaws Weakening Modern Encryption | Monu Jangra | [Read More](https://medium.com/p/0e9e805125f3) |
 | Tue, 04 Nov 2025 03:06:50 GMT | 32KB to Chaos: Exploiting XSS and WAF Evasion in a Fintech App | Derek Johnston | [Read More](https://medium.com/p/b6afef003ee4) |
 | Tue, 04 Nov 2025 03:03:22 GMT | Can LLMs Do Better Threat Modeling Than Humans? | Aditya Kolte | [Read More](https://medium.com/p/f0177438f3d2) |
+| Tue, 04 Nov 2025 03:03:00 GMT | My IT Journey Begins - From Blue to White Collar | Daniel Eduardo Medina | [Read More](https://medium.com/p/79a167889cf1) |
 | Tue, 04 Nov 2025 02:58:04 GMT | Docker y LXC: 5 Verdades Sorprendentes | Didier Revelo | [Read More](https://medium.com/p/f826db3dc919) |
 | Tue, 04 Nov 2025 02:39:20 GMT | Fortinet NSE7 Operational Technology Security 7.2: 591Lab’s Guide to OT Mastery. | Al Beruni | [Read More](https://medium.com/p/571f2b696d63) |
 | Tue, 04 Nov 2025 02:25:35 GMT | WPScan: la navaja suiza para auditar WordPress | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/80d536daee46) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 17:33:59 GMT | College adventure #1: Cybersecurity and network protocols | Reinaldo Freitas | [Read More](https://medium.com/p/f8e497d08186) |
 | Mon, 03 Nov 2025 17:31:54 GMT | The End of Platformization in Cybersecurity? | Raheel Anwar | [Read More](https://medium.com/p/dbd222c79851) |
 | Mon, 03 Nov 2025 17:31:15 GMT | Bounty Hacker  —  TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/5d5604823c52) |
-| Mon, 03 Nov 2025 17:19:47 GMT | Zero Trust: The Architecture of Modern Resilience (NIST & CISA Blueprint) | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/1ffc9f8a0471) |
-| Mon, 03 Nov 2025 17:18:24 GMT | The Power of Wazuh: Open-Source SIEM for Modern SOCs | Rushikesh Girase | [Read More](https://medium.com/p/222a78c23b33) |
-| Mon, 03 Nov 2025 17:18:12 GMT | The Quite Side of Cybersecurity | Danielle Koppel | [Read More](https://medium.com/p/615decad5a0b) |
-| Mon, 03 Nov 2025 17:17:17 GMT | Speaking the Language of Risk: Why IT Security Must Start with Business-Critical Applications | Fabien Soulis | [Read More](https://medium.com/p/73b750c49cbf) |
-| Mon, 03 Nov 2025 17:15:08 GMT | AI for Cybersecurity and Threat Detection | Rashadul Islam | [Read More](https://medium.com/p/0c0d89d4b5cc) |
-| Mon, 03 Nov 2025 17:11:58 GMT | ️ The 5 Pillars of Cybersecurity Every Professional Must Master | Code Link | [Read More](https://medium.com/p/7ab7127fa58d) |
