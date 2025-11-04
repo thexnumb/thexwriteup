@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 17:05:19 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/c72979811bba) |
+| Tue, 04 Nov 2025 16:59:49 GMT | Cyber Insurance Market is expected to increase at a compound annual growth rate (CAGR) of 29.3% | Vinita kumari | [Read More](https://medium.com/p/268210cdab9b) |
+| Tue, 04 Nov 2025 16:59:43 GMT | Security Best Practices for K3s in Distributed Environments | Veritas Automata | [Read More](https://medium.com/p/1baccf9778a4) |
+| Tue, 04 Nov 2025 16:55:44 GMT | Is XRP Tundra Legit? — Verified Audits, Smart Contract Transparency & 2025 Presale Facts | XRP Tundra | [Read More](https://medium.com/p/17903c847d85) |
+| Tue, 04 Nov 2025 16:46:32 GMT | Building “Breach Sentinel”: An AI Agent That Checks Data Breaches in Real-Time | Mydas | [Read More](https://medium.com/p/c339b157c57b) |
 | Tue, 04 Nov 2025 16:44:53 GMT | Physical Security Assessments for newbies | jH7z | [Read More](https://medium.com/p/314dd00a9f25) |
+| Tue, 04 Nov 2025 16:42:39 GMT | Sequre Style Store Associate — Full Time | Tyler Wall | [Read More](https://medium.com/p/fc5b44804a27) |
 | Tue, 04 Nov 2025 16:37:34 GMT | Daylight Security: Investing in the Future of Managed Agentic Security Services | Kevin Gabura | [Read More](https://medium.com/p/0f8559d8002e) |
 | Tue, 04 Nov 2025 16:34:47 GMT | IDOR: The Bug That Opens Doors Without Knocking | NadSec | [Read More](https://medium.com/p/6abbb9f9600f) |
 | Tue, 04 Nov 2025 16:33:21 GMT | Cosas “superficiales” | May | [Read More](https://medium.com/p/d9c9c5bd18c0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 12:08:59 GMT | What is Wazuh? | Jonathan Daniels | [Read More](https://medium.com/p/8874ef5d8604) |
 | Tue, 04 Nov 2025 12:08:09 GMT | Cloudflare-Bypass: Origin server deserves some love too | Smit Gharat | [Read More](https://medium.com/p/e8bd2182cfea) |
 | Tue, 04 Nov 2025 12:05:41 GMT | MEAN or MERN Stack: Which Developers Fit Your Project Best? | Jhonsonsannie | [Read More](https://medium.com/p/e38216ffab5c) |
-| Tue, 04 Nov 2025 12:02:56 GMT | Curl: Top 20 most useful scripts for pentesters | Travis Ray Caverhill | [Read More](https://medium.com/p/cb7e2da47a26) |
-| Tue, 04 Nov 2025 12:01:58 GMT | Smart Contract Security in DeFi — What Audits Really Tell You | Dominic Mazzarella | [Read More](https://medium.com/p/94cc2cd9d90f) |
-| Tue, 04 Nov 2025 11:59:01 GMT | A easy Blind XSS | Hritom Bhattacharya | [Read More](https://medium.com/p/0d9dcbd06409) |
-| Tue, 04 Nov 2025 11:58:59 GMT | Chain Link Fence in Saudi Arabia Secure, Strong & Cost-Effective | Hitechfence | [Read More](https://medium.com/p/630bffe3f66b) |
-| Tue, 04 Nov 2025 11:51:16 GMT | How SOC 2 Can Cut your SaaS Sales Cycle in Half | Hicomply | [Read More](https://medium.com/p/ade2b6a74c9d) |
-| Tue, 04 Nov 2025 11:40:26 GMT | The New Frontier: Navigating the AI Browser War | Moiz Jamaal | [Read More](https://medium.com/p/9cff499f9754) |
