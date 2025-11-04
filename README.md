@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 20:17:59 GMT | The Echo That Stayed Inside | Elan Tengis | [Read More](https://medium.com/p/5aa037d15ed2) |
+| Tue, 04 Nov 2025 20:16:03 GMT | WSUS Under Fire: How CVE-2025–59287 Lets Attackers Own Update Servers | Jason Hoskins Jr. | [Read More](https://medium.com/p/1af551c10c61) |
+| Tue, 04 Nov 2025 20:12:07 GMT | From Alert to Action: A SOC Analyst’s Guide to Triage with Elastic ️ | Furkanctiner | [Read More](https://medium.com/p/4e5354ab5da9) |
+| Tue, 04 Nov 2025 20:10:43 GMT | Active Directory 103: Implementing the TechX Domain | Rana chouchane - QU33NR | [Read More](https://medium.com/p/9800f10a8029) |
+| Tue, 04 Nov 2025 20:10:05 GMT | From information media to opinion media: the manufacturing of public confusion | Hayat Outahar | [Read More](https://medium.com/p/c5538dec2e1d) |
+| Tue, 04 Nov 2025 20:09:55 GMT | STON.fi Launches Bug Bounty Program Offering Up to $100,000 for Critical Vulnerabilities | Johnny Sylvanus | [Read More](https://medium.com/p/b614e6e3774b) |
+| Tue, 04 Nov 2025 20:09:16 GMT | Integrating Microsoft Sentinel with Multicloud Environments | IT_Engineer | [Read More](https://medium.com/p/a86e97d67895) |
+| Tue, 04 Nov 2025 20:05:03 GMT | Governing Your AI Workforce: Identity for Machines | Yashasvi Sharma | [Read More](https://medium.com/p/348e348576db) |
+| Tue, 04 Nov 2025 19:55:10 GMT | Top 5 vCloud Networking Mistakes Beginners Make (And How to Fix Them) | Ahmed Maher | [Read More](https://medium.com/p/3bdad77ae042) |
+| Tue, 04 Nov 2025 19:54:42 GMT | The Event Horizon of Intelligence | Paul Bujak | [Read More](https://medium.com/p/c3236627e456) |
+| Tue, 04 Nov 2025 19:44:20 GMT | Brooklyn Nine Nine— TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/d64ce39c19b1) |
+| Tue, 04 Nov 2025 19:41:57 GMT | Why Penetration Test Risk Ratings Aren’t Meant to Be Bargained For… And That’s Good for Everyone | Mark Puckett | [Read More](https://medium.com/p/a61db7cff07e) |
+| Tue, 04 Nov 2025 19:38:55 GMT | When Lean Security Meets AI: How Model Context Protocol (MCP) Changes the Game | Graylog | [Read More](https://medium.com/p/711beb16624f) |
 | Tue, 04 Nov 2025 19:29:28 GMT | Web Investigation Lab | FeCeSociety | [Read More](https://medium.com/p/b1bf4b145321) |
 | Tue, 04 Nov 2025 19:26:45 GMT | From PDF to Problem | Ruben Croes | [Read More](https://medium.com/p/75f7d2bb54cf) |
 | Tue, 04 Nov 2025 19:21:57 GMT | Ransomware 101: How These Digital Muggers Work and Why Backup is Your Best Shield ️ | Furkanctiner | [Read More](https://medium.com/p/2fa5d00bd165) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 14:45:24 GMT | Agenda Ransomware Deploys Linux on Windows, AI Infrastructure Crisis, and Trucking Industry Under… | David Grice | [Read More](https://medium.com/p/8fdb285712f5) |
 | Tue, 04 Nov 2025 14:42:47 GMT | ️ Penetration Testing: From Fundamentals to Flutter Security | Talelbriki | [Read More](https://medium.com/p/beb001e1b781) |
 | Tue, 04 Nov 2025 14:40:41 GMT | The danger of vibe coding: How a broken‑object‑level authorization (BOLA) bug slipped into an AI… | Jay Simmons | [Read More](https://medium.com/p/c8173a0e8536) |
-| Tue, 04 Nov 2025 14:40:23 GMT | Unlocking Privacy: Partial vs Full Homomorphic Encryption Explained with Python | Riccardo Bernardi | [Read More](https://medium.com/p/31d346641fe1) |
-| Tue, 04 Nov 2025 14:39:34 GMT | Generative AI in cybersecurity: How AI-Augmented and AI-enhanced teams can build smarter security… | Software business reviewer | [Read More](https://medium.com/p/d7aeecdfe6c7) |
-| Tue, 04 Nov 2025 14:38:41 GMT | Pablo Patel — How Businesses Will Reinvent Themselves Through AI and Digital Psychology by 2030 | Pablo | [Read More](https://medium.com/p/3873dba9f02d) |
-| Tue, 04 Nov 2025 14:38:26 GMT | Why You Hear About Data Breaches Months Later — and What Companies Aren’t Saying | Legal Thoughts | [Read More](https://medium.com/p/c2f3641b89f3) |
-| Tue, 04 Nov 2025 14:38:14 GMT | Goodbye Port 22: Understanding AWS SSM’s Secure Access Mechanism | Vedant Bhalerao | [Read More](https://medium.com/p/28ec1fa54a1b) |
-| Tue, 04 Nov 2025 14:36:53 GMT | Authentication Bypass in Indian Government Mobile App | Bytewreaker | [Read More](https://medium.com/p/b0cd66662d69) |
-| Tue, 04 Nov 2025 14:36:30 GMT | 5 Key Benefits of Small Business CCTV | Global CCTV Monitoring Services | [Read More](https://medium.com/p/686a5c76bffc) |
-| Tue, 04 Nov 2025 14:34:24 GMT | OWASP top 10–2021 | omni | [Read More](https://medium.com/p/2a3a6af4ad02) |
-| Tue, 04 Nov 2025 14:30:18 GMT | What I Wish I Knew About Cybersecurity Before My Startup Got Hacked | Hania Khan | [Read More](https://medium.com/p/979cf18f37e2) |
-| Tue, 04 Nov 2025 14:27:15 GMT | Free 48-Hour AI & Cyber Governance Checklist (Australian Edition) | Axsaspty | [Read More](https://medium.com/p/47f4a0f9d704) |
-| Tue, 04 Nov 2025 14:24:40 GMT | GitHub Was Up. The Internet Just Couldn’t Find It. A Case of DNS Gone Wrong. | Eunice | [Read More](https://medium.com/p/c2824aaa7e70) |
-| Tue, 04 Nov 2025 14:14:23 GMT | Your WhatsApp Wasn’t Hacked — It Was Imitated | Ink Within | [Read More](https://medium.com/p/7b4712672319) |
-| Tue, 04 Nov 2025 14:08:59 GMT | When Your VPN Installer is Actually Malware | R.D.Tarun | [Read More](https://medium.com/p/83315f42586b) |
