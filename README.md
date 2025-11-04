@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 14:08:59 GMT | When Your VPN Installer is Actually Malware | R.D.Tarun | [Read More](https://medium.com/p/83315f42586b) |
+| Tue, 04 Nov 2025 14:05:16 GMT | Web Application Basics — Writeup | Mahir | [Read More](https://medium.com/p/f68e1bb19c9d) |
+| Tue, 04 Nov 2025 14:03:00 GMT | Part 12: Vulnerability Assessments and their importance in cybersecurity | Intelithics | [Read More](https://medium.com/p/daa98a366291) |
+| Tue, 04 Nov 2025 13:58:54 GMT | ️ When a Marketing Giant Stumbles: What the Dentsu–Merkle Data Breach Means for Global Infosec… | eL Njas!™ | [Read More](https://medium.com/p/a5563b8feddd) |
+| Tue, 04 Nov 2025 13:58:48 GMT | I will write cyber security resume, IT tech resume, data analyst resume, in 24hrs | Rolerise | [Read More](https://medium.com/p/05f04da0f314) |
+| Tue, 04 Nov 2025 13:55:39 GMT | AMD Zen 5 RDSEED Flaw Weakens Randomness and Security Integrity | Chetan Seripally | [Read More](https://medium.com/p/94916ccc438c) |
+| Tue, 04 Nov 2025 13:54:01 GMT | Cybersecurity Awareness Month 2025: From Awareness to Action | Thomas Carter | [Read More](https://medium.com/p/30dcbe3a7ea1) |
+| Tue, 04 Nov 2025 13:53:46 GMT | Day 13 — Documenting My Purple Team Cloud Lab Architecture (Day -1 to Day 12 Recap) | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/7601ec4adf9d) |
+| Tue, 04 Nov 2025 13:52:19 GMT | Weaponized Putty and Fake Teams Ads Are Opening Doors for Network Breaches | Chetan Seripally | [Read More](https://medium.com/p/7b35ccbe108e) |
+| Tue, 04 Nov 2025 13:49:19 GMT | The Cybersecurity Playbook: How to Stay Ahead of the Next Threat | Thomas Carter | [Read More](https://medium.com/p/fa7dc3ad5ee3) |
+| Tue, 04 Nov 2025 13:37:41 GMT | The Digital Guardians: A Day in Cybersecurity | S_Jathurshan - Software Engineer & Hacker ✨ | [Read More](https://medium.com/p/279452382a31) |
 | Tue, 04 Nov 2025 13:21:56 GMT | “How Mature GRC Programs Give US, UK, EU & Canadian Companies a Competitive Edge” | amritesh | [Read More](https://medium.com/p/966e460aca91) |
 | Tue, 04 Nov 2025 13:15:12 GMT | Inside an OSINT Investigation: How Digital Clues Reveal the Truth | Md Rakibul Islam | [Read More](https://medium.com/p/efd6cf66dc40) |
 | Tue, 04 Nov 2025 13:11:37 GMT | Hardening a Web App Against Phishing Flags and Missing Security Headers. | Ogwuazor Lucky | [Read More](https://medium.com/p/b88c2bad1e49) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 09:30:32 GMT | Staying in Control: Smart Response for Modern Cyber Threats | Cloudsa Africa | [Read More](https://medium.com/p/616f9be9bd5c) |
 | Tue, 04 Nov 2025 09:30:21 GMT | Khalani.Network Hackd | Ebxd | [Read More](https://medium.com/p/91075ce7821f) |
 | Tue, 04 Nov 2025 09:18:24 GMT | The Transport Layer: Delivering Data with Reliability | Zeli | [Read More](https://medium.com/p/d66f67f6c48a) |
-| Tue, 04 Nov 2025 09:17:45 GMT | What is Network Firewall Security? Benefits, Best Practices & Tips | QualysecEurope | [Read More](https://medium.com/p/4d9cfd37ca79) |
-| Tue, 04 Nov 2025 09:15:35 GMT | The Network Layer: Finding the Right Path for Data | Zeli | [Read More](https://medium.com/p/8de28c43af97) |
-| Tue, 04 Nov 2025 09:14:43 GMT | Windows Privilege Escalation through Exploiting Services | Indigo Shadow | [Read More](https://medium.com/p/d99cb7c485a8) |
-| Tue, 04 Nov 2025 09:13:04 GMT | The Law of Silence | O. J. Okpabi | [Read More](https://medium.com/p/238b44de74d7) |
-| Tue, 04 Nov 2025 09:12:24 GMT | Practical Privacy: A Unified Guide to Browser Profiles, Tails, VPN vs Tor, and a Research Checklist | Benjaminmillerdev | [Read More](https://medium.com/p/9874ba29a94f) |
-| Tue, 04 Nov 2025 09:11:37 GMT | The Data Link Layer: Turning Bits into Reliable Communication | Zeli | [Read More](https://medium.com/p/28784b0f6a2a) |
-| Tue, 04 Nov 2025 09:08:35 GMT | Top Endpoint Security Software in 2025: Protecting Every Device with Zero Trust | sundyne | [Read More](https://medium.com/p/1f1683b8927b) |
-| Tue, 04 Nov 2025 09:07:09 GMT | The Night rm -rf Almost Took Everything | Fateyaly | [Read More](https://medium.com/p/15e4e6e43c26) |
-| Tue, 04 Nov 2025 09:06:01 GMT | Identity Security for Autonomous AI | Seb AGUELE | [Read More](https://medium.com/p/8f659be7b4ab) |
-| Tue, 04 Nov 2025 09:05:26 GMT | Threat Detection: A Proactive Strategy for Modern Security | Ishaan Nair | [Read More](https://medium.com/p/1e21a33e6625) |
-| Tue, 04 Nov 2025 08:59:08 GMT | The Data Dominance Bahrain’s growing footprint on Digital Infrastructure | expbhavya | [Read More](https://medium.com/p/874efa89f086) |
