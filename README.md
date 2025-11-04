@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 17:34:26 GMT | The Most Common Medium Severity Bug Found In Almost Every Website | Rehan Sohail | [Read More](https://medium.com/p/b0d0649dd739) |
+| Tue, 04 Nov 2025 17:26:15 GMT | First Day at the IT Campus — Mohan and Arjun’s Story | Karthick Dkk | [Read More](https://medium.com/p/ddcb721991ea) |
+| Tue, 04 Nov 2025 17:23:10 GMT | Blockchain Technology and Cyber Security | Jibriel Jeelani | [Read More](https://medium.com/p/4a0b918e0d5f) |
+| Tue, 04 Nov 2025 17:20:56 GMT | Cybercriminals Weaponize PuTTY Ads to Deploy OysterLoader Malware in Sophisticated Attack Campaign | Technijian | [Read More](https://medium.com/p/884f891c31f8) |
+| Tue, 04 Nov 2025 17:16:52 GMT | Custom App OAuth Token Federation to Databricks with Okta | Suraj Karuvel | [Read More](https://medium.com/p/6556c630b076) |
 | Tue, 04 Nov 2025 17:05:19 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/c72979811bba) |
 | Tue, 04 Nov 2025 16:59:49 GMT | Cyber Insurance Market is expected to increase at a compound annual growth rate (CAGR) of 29.3% | Vinita kumari | [Read More](https://medium.com/p/268210cdab9b) |
 | Tue, 04 Nov 2025 16:59:43 GMT | Security Best Practices for K3s in Distributed Environments | Veritas Automata | [Read More](https://medium.com/p/1baccf9778a4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 12:27:35 GMT | Why Multimodal AI is Better than Single-Modal AI Models? | Maruti Techlabs | [Read More](https://medium.com/p/450e6292bfaa) |
 | Tue, 04 Nov 2025 12:21:25 GMT | DNS Command & Control Server | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e1dc719f0eb1) |
 | Tue, 04 Nov 2025 12:17:49 GMT | Redefining Data Center Security for a Resilient Future in KSA & GCC | Tekfardeen | [Read More](https://medium.com/p/3141cada0d31) |
-| Tue, 04 Nov 2025 12:15:12 GMT | Your Roadmap to Cybersecurity: 7 Critical Skills You Must Have | Tech Journal | [Read More](https://medium.com/p/040c9e0065f4) |
-| Tue, 04 Nov 2025 12:14:22 GMT | What is a VPN? How It Works, Types, and Key Benefits | Rose Anne | [Read More](https://medium.com/p/45dd1ad46858) |
-| Tue, 04 Nov 2025 12:08:59 GMT | What is Wazuh? | Jonathan Daniels | [Read More](https://medium.com/p/8874ef5d8604) |
-| Tue, 04 Nov 2025 12:08:09 GMT | Cloudflare-Bypass: Origin server deserves some love too | Smit Gharat | [Read More](https://medium.com/p/e8bd2182cfea) |
-| Tue, 04 Nov 2025 12:05:41 GMT | MEAN or MERN Stack: Which Developers Fit Your Project Best? | Jhonsonsannie | [Read More](https://medium.com/p/e38216ffab5c) |
