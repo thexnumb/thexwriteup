@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 22:25:24 GMT | Beyond Cybersecurity: Why Cyber Resiliency is the Mindset Your Organization Needs | Sharaden Cole | [Read More](https://medium.com/p/43516970e593) |
+| Tue, 04 Nov 2025 22:25:09 GMT | How I Caught a Live Microsoft Login Scam Hiding Behind Google Redirects | Jagkter | [Read More](https://medium.com/p/c3310653f5fd) |
+| Tue, 04 Nov 2025 22:22:03 GMT | The Dead Internet — AI is Building a Fake Internet Just for You | ToxSec | [Read More](https://medium.com/p/acf8b430ebde) |
+| Tue, 04 Nov 2025 22:21:14 GMT | Understanding IT Frameworks vs. Cybersecurity Standards | Sharaden Cole | [Read More](https://medium.com/p/04f2e022b9dc) |
+| Tue, 04 Nov 2025 22:19:38 GMT | Human in the Loop: Before it’s Too Late | ToxSec | [Read More](https://medium.com/p/114643ee686c) |
 | Tue, 04 Nov 2025 22:17:55 GMT | 6 API Injection Attacks You’re Probably Not Testing For | Cyber-AppSec | [Read More](https://medium.com/p/3bafcb81a1f6) |
 | Tue, 04 Nov 2025 22:14:16 GMT | AI-Powered Phishing: You Will Fall for This | ToxSec | [Read More](https://medium.com/p/3a9c7711fcce) |
 | Tue, 04 Nov 2025 22:08:08 GMT | Day 30 of my Cybersecurity Journey: Metasploit Introduction | Ogundipe Priscilla | [Read More](https://medium.com/p/d0b25314bf35) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 15:32:41 GMT | Blue — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/89f04d4cebd6) |
 | Tue, 04 Nov 2025 15:31:13 GMT | Beyond Trust: How Separation of Duties Builds Unbreachable Systems | Walidchaouachi | [Read More](https://medium.com/p/49a508174fd8) |
 | Tue, 04 Nov 2025 15:31:05 GMT | Get These 3 Items For Your Phone Right Now! | Maria Orms | [Read More](https://medium.com/p/f8d2fcf8beca) |
-| Tue, 04 Nov 2025 15:31:04 GMT | Cracking the Code of Strong Passwords — My Journey Building a Password Strength Checker in Python | Shashank M.S | [Read More](https://medium.com/p/8eaae85d5da4) |
-| Tue, 04 Nov 2025 15:29:20 GMT | The Principle of Least Privilege: Your First Line of Defense in Cybersecurity | Walidchaouachi | [Read More](https://medium.com/p/c67a8e04c779) |
-| Tue, 04 Nov 2025 15:27:35 GMT | The Power of Layers — Understanding Defense in Depth in Modern Cybersecurity | Walidchaouachi | [Read More](https://medium.com/p/a785b86a9018) |
-| Tue, 04 Nov 2025 15:20:07 GMT | Trust That Expires: Mapping the Longevity Horizon | Michal Pietrus | [Read More](https://medium.com/p/bcb7762d1597) |
-| Tue, 04 Nov 2025 15:17:43 GMT | Visualising Security: C4 Diagrams and threat modelling | Maya McDevitt | [Read More](https://medium.com/p/fc3d25aa772d) |
