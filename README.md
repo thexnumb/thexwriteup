@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 19:07:34 GMT | How my blog getting featured at CloudSek website…? | Sai Jayanth | [Read More](https://medium.com/p/f2d938223a6c) |
+| Tue, 04 Nov 2025 19:05:01 GMT | TYKIT: The Stealthy Phishing Kit That Turns Images Into Credential Traps | Jon C | [Read More](https://medium.com/p/b9a1e87badbc) |
+| Tue, 04 Nov 2025 19:04:52 GMT | Data Loss Prevention (DLP) | Red_Ghost | [Read More](https://medium.com/p/bad902d9ee04) |
+| Tue, 04 Nov 2025 19:03:27 GMT | The Key Phone Setting That Reveals Your Location | The Online Safety Zone | [Read More](https://medium.com/p/2c7e64a34c81) |
+| Tue, 04 Nov 2025 19:01:01 GMT | Shadow Agentic AI: A Growing Blind Spot for CISOs | Graylog | [Read More](https://medium.com/p/4ca42e2ada6d) |
+| Tue, 04 Nov 2025 18:45:03 GMT | ️ Stay Safe in the Crypto Space with AirdropScience | Airdrop Science | [Read More](https://medium.com/p/24d9b1b8294c) |
+| Tue, 04 Nov 2025 18:43:19 GMT | The Loop That Kept Me Silent | Andy Tillman UK | [Read More](https://medium.com/p/5a2b03b13249) |
+| Tue, 04 Nov 2025 18:41:14 GMT | Why Nobody Robs Banks Anymore | Sonya | [Read More](https://medium.com/p/56c11911a7f2) |
+| Tue, 04 Nov 2025 18:40:52 GMT | BugPilot AI: Revolutionizing Penetration Testing with Intelligent Automation | LETCHU PKT | [Read More](https://medium.com/p/b2e5bacda1dd) |
+| Tue, 04 Nov 2025 18:33:50 GMT | Brutus (hackthebox) | Brandon Love | [Read More](https://medium.com/p/09ee5059f8e8) |
+| Tue, 04 Nov 2025 18:32:02 GMT | Event Crew: The Backbone of Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/3ad157a98ab5) |
+| Tue, 04 Nov 2025 18:30:57 GMT | The Weekend That Belonged to Strong Women: From BSides Chicago to the ICC World Cup 2025 | Harshad Sadashiv Kadam | [Read More](https://medium.com/p/973a755e1bdb) |
 | Tue, 04 Nov 2025 18:27:30 GMT | Day 9: Mastering System Networking Commands — The Tools Every Analyst Must Know | HackTrace | [Read More](https://medium.com/p/e1c255427489) |
 | Tue, 04 Nov 2025 18:20:18 GMT | Beyond the Bounties: How Modern Platforms Are Shaping the Future of Ethical Hacking | Penough | [Read More](https://medium.com/p/5bdee62d494d) |
 | Tue, 04 Nov 2025 18:16:57 GMT | How to Ensure Cybersecurity While Developing Artificial Intelligence ️ | Lumae | [Read More](https://medium.com/p/d2430f38b476) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 14:05:16 GMT | Web Application Basics — Writeup | Mahir | [Read More](https://medium.com/p/f68e1bb19c9d) |
 | Tue, 04 Nov 2025 14:03:00 GMT | Part 12: Vulnerability Assessments and their importance in cybersecurity | Intelithics | [Read More](https://medium.com/p/daa98a366291) |
 | Tue, 04 Nov 2025 13:58:54 GMT | ️ When a Marketing Giant Stumbles: What the Dentsu–Merkle Data Breach Means for Global Infosec… | eL Njas!™ | [Read More](https://medium.com/p/a5563b8feddd) |
-| Tue, 04 Nov 2025 13:58:48 GMT | I will write cyber security resume, IT tech resume, data analyst resume, in 24hrs | Rolerise | [Read More](https://medium.com/p/05f04da0f314) |
-| Tue, 04 Nov 2025 13:55:39 GMT | AMD Zen 5 RDSEED Flaw Weakens Randomness and Security Integrity | Chetan Seripally | [Read More](https://medium.com/p/94916ccc438c) |
-| Tue, 04 Nov 2025 13:54:01 GMT | Cybersecurity Awareness Month 2025: From Awareness to Action | Thomas Carter | [Read More](https://medium.com/p/30dcbe3a7ea1) |
-| Tue, 04 Nov 2025 13:53:46 GMT | Day 13 — Documenting My Purple Team Cloud Lab Architecture (Day -1 to Day 12 Recap) | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/7601ec4adf9d) |
-| Tue, 04 Nov 2025 13:52:19 GMT | Weaponized Putty and Fake Teams Ads Are Opening Doors for Network Breaches | Chetan Seripally | [Read More](https://medium.com/p/7b35ccbe108e) |
-| Tue, 04 Nov 2025 13:49:19 GMT | The Cybersecurity Playbook: How to Stay Ahead of the Next Threat | Thomas Carter | [Read More](https://medium.com/p/fa7dc3ad5ee3) |
-| Tue, 04 Nov 2025 13:37:41 GMT | The Digital Guardians: A Day in Cybersecurity | S_Jathurshan - Software Engineer & Hacker ✨ | [Read More](https://medium.com/p/279452382a31) |
-| Tue, 04 Nov 2025 13:21:56 GMT | “How Mature GRC Programs Give US, UK, EU & Canadian Companies a Competitive Edge” | amritesh | [Read More](https://medium.com/p/966e460aca91) |
-| Tue, 04 Nov 2025 13:15:12 GMT | Inside an OSINT Investigation: How Digital Clues Reveal the Truth | Md Rakibul Islam | [Read More](https://medium.com/p/efd6cf66dc40) |
-| Tue, 04 Nov 2025 13:11:37 GMT | Hardening a Web App Against Phishing Flags and Missing Security Headers. | Ogwuazor Lucky | [Read More](https://medium.com/p/b88c2bad1e49) |
-| Tue, 04 Nov 2025 13:10:29 GMT | The CISO’s Nightmare & The Dual-Sided Threat: MCP Security Takeaways from Akto 2025 (Part 2) | Yash Virendra Prajapati | [Read More](https://medium.com/p/bdc87deee693) |
-| Tue, 04 Nov 2025 13:07:16 GMT | Securing Generative AI: Risks, Threats, and Mitigations | DhanushKumar | [Read More](https://medium.com/p/1b609330dc1e) |
