@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 05:14:26 GMT | Architectural Patterns for Securing Data: At Rest, In Transit, and At Runtime | Rost Glukhov | [Read More](https://medium.com/p/56d4676220f3) |
+| Tue, 04 Nov 2025 05:02:06 GMT | You Probably Misunderstood CORS Here’s the Full Explanation | Kalebalebachew | [Read More](https://medium.com/p/8d2df9e18f3a) |
+| Tue, 04 Nov 2025 05:01:33 GMT | A Brief (and chaotic) Summary of Research through Design | seal(theo)ry | [Read More](https://medium.com/p/784115abc8d7) |
+| Tue, 04 Nov 2025 04:58:49 GMT | The Rule That Echoes in Empty Rooms | Kushal Dhananjay Samant | [Read More](https://medium.com/p/a5de07e1fc10) |
+| Tue, 04 Nov 2025 04:57:43 GMT | [OverTheWire] Bandit Levels | H$nt | [Read More](https://medium.com/p/1f7c8abe797b) |
+| Tue, 04 Nov 2025 04:54:56 GMT | [OverTheWire] Bandit Level 33 → 34 | H$nt | [Read More](https://medium.com/p/7152d533f21e) |
+| Tue, 04 Nov 2025 04:46:02 GMT | 10 Common Personal Security Guard Mistakes to Avoid | Lakshay Security | [Read More](https://medium.com/p/9bfce8b391ac) |
+| Tue, 04 Nov 2025 04:45:10 GMT | The Importance of Asset Protection in Today’s Economy | Lakshay Security | [Read More](https://medium.com/p/b96c36da2b5a) |
+| Tue, 04 Nov 2025 04:41:54 GMT | PBO : Abstract & Abstract Class | Yasa Wijaya | [Read More](https://medium.com/p/a26fd459ce29) |
+| Tue, 04 Nov 2025 04:41:10 GMT | 7 Expert-Approved Infinix Hot 10 Camera Tips for Stunning Photos | Chloe White | [Read More](https://medium.com/p/978222076f41) |
 | Tue, 04 Nov 2025 04:40:20 GMT | CL0P RANSOMWARE: DISSECTING NETWORK | Rakesh Krishnan | [Read More](https://medium.com/p/75d4761deedc) |
+| Tue, 04 Nov 2025 04:40:17 GMT | CVE-2025–61984 — OpenSSH command injection vulnerability | Bachchan James | [Read More](https://medium.com/p/f3957053d60c) |
 | Tue, 04 Nov 2025 04:39:45 GMT | [OverTheWire] Bandit Level 32 → 33 | H$nt | [Read More](https://medium.com/p/a739686811e4) |
 | Tue, 04 Nov 2025 04:32:45 GMT | The Ghost in the Machine: How I Found IDORs That Were Hiding in Plain Sight | Iski | [Read More](https://medium.com/p/0c26bca85c2f) |
 | Tue, 04 Nov 2025 04:32:34 GMT | Top CCTV Camera Brands for Saudi Arabian Security 2025 | VRS Technologies Saudi Arabia | [Read More](https://medium.com/p/d4ce4fecf5fc) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 19:33:24 GMT | I Tried 7 “Weight” Hacks — Here’s The One Natural Fix That Quieted My Nighttime Cravings | Elsayedamazon | [Read More](https://medium.com/p/2123b503a0bb) |
 | Mon, 03 Nov 2025 19:26:55 GMT | Logical box | H3XH7WK | [Read More](https://medium.com/p/24dc16eeb9be) |
 | Mon, 03 Nov 2025 19:26:03 GMT | Typus, Seedify, UXLink: $16.4M Lost to Missing Checks, Key Leaks, and Mint Abuse | Olympix | [Read More](https://medium.com/p/f0d0f090954e) |
-| Mon, 03 Nov 2025 19:21:57 GMT | CyberTalents: Cool Name Effect Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/4adf0d880ea6) |
-| Mon, 03 Nov 2025 19:17:56 GMT | Document Management: Uploads, Versioning, and Access Control | Ann R. | [Read More](https://medium.com/p/ed8a761a2ee9) |
-| Mon, 03 Nov 2025 19:15:59 GMT | The Bug Hunter’s Automator: Why Bash Scripting is Your Greatest Force Multiplier | Santhosh Adiga U | [Read More](https://medium.com/p/1200d26db7ab) |
-| Mon, 03 Nov 2025 19:12:14 GMT | Digital Leadership: Balancing Strategy, Technology, and Culture | Maximilian Maucher | [Read More](https://medium.com/p/871d86053415) |
-| Mon, 03 Nov 2025 19:03:47 GMT | The CIA Triad: The Secret Formula Behind Every Security System | DesiDev | [Read More](https://medium.com/p/68fd0dda7304) |
-| Mon, 03 Nov 2025 19:03:45 GMT | Why the 2024 Cloudflare Outage Taught Devs a Big Lesson | Liam | [Read More](https://medium.com/p/1ea633ec8b64) |
-| Mon, 03 Nov 2025 18:57:55 GMT | Whispers of the Forgotten Code | H3XH7WK | [Read More](https://medium.com/p/2bca6c0d8f49) |
-| Mon, 03 Nov 2025 18:57:24 GMT | The Next Identity Layer: Non-Human Identity (NHI) and Why AI Agents Need Intent Verification Before… | Jon Capriola | [Read More](https://medium.com/p/4a5dad42cc3b) |
-| Mon, 03 Nov 2025 18:50:57 GMT | LetsDefend Malware Analysis — -Event ID: 36 [SOC104 — Malware Detected] | Iftikaralom | [Read More](https://medium.com/p/2c5f17a6fb25) |
-| Mon, 03 Nov 2025 18:40:44 GMT | The Hidden Cost of Sharing Too Much Online | Musayyab Shah | [Read More](https://medium.com/p/35ac3ef2868c) |
-| Mon, 03 Nov 2025 18:33:23 GMT | The 3 AM Breakthrough: How a CTF Side Quest Unlocked a Critical Bug Bounty | Santhosh Adiga U | [Read More](https://medium.com/p/f548f98245fc) |
