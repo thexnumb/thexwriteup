@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 07:20:14 GMT | Top 10 Cloud Security Tools to Protect Online Data | Manisha Chaudhary | [Read More](https://medium.com/p/dca41355c0c8) |
+| Tue, 04 Nov 2025 07:10:14 GMT | How to Protect Your Web Applications Against OWASP Top 10 Threats | Rohit Singhal | [Read More](https://medium.com/p/b57fcf04149b) |
+| Tue, 04 Nov 2025 07:09:30 GMT | What are the Basics of Networking? | cyber security Updates | [Read More](https://medium.com/p/557e731a6dc9) |
+| Tue, 04 Nov 2025 07:04:14 GMT | DIGITAL FORENSICS CASE STUDY REPORT | TheSilentBreach | [Read More](https://medium.com/p/c66bb316b23d) |
+| Tue, 04 Nov 2025 07:03:19 GMT | MPChat Security Thesis： KYC is a Security Feature, Not a Bug | MPChat_Blog | [Read More](https://medium.com/p/379e0d236682) |
+| Tue, 04 Nov 2025 06:58:12 GMT | SSRF in GitLab Self-Hosted — Import From URL | Ikrami walid | [Read More](https://medium.com/p/81e94d7888f7) |
+| Tue, 04 Nov 2025 06:57:37 GMT | The Daily Tech Digest: 04 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c32767db16b0) |
+| Tue, 04 Nov 2025 06:57:19 GMT | Master Post-Exploitation Data Exfiltration Methods (and Defenses) Step-by-Step | Very Lazy Tech | [Read More](https://medium.com/p/590f24f2f824) |
+| Tue, 04 Nov 2025 06:56:17 GMT | [ SOC Alert => Lumma Stealer — DLL Side-Loading via Click Fix Phishing ] by LetsDefend / EventID… | EduKayky | [Read More](https://medium.com/p/b3dacceb046b) |
+| Tue, 04 Nov 2025 06:47:36 GMT | Authentication Vs Authorization | Bachchan James | [Read More](https://medium.com/p/dbdf997274da) |
+| Tue, 04 Nov 2025 06:46:01 GMT | Zero Trust Architecture: Blueprint for Modern Digital Resilience | Samyukta Roy | [Read More](https://medium.com/p/b70d6cb28811) |
+| Tue, 04 Nov 2025 06:44:55 GMT | When Curiosity Costs ₦22,000: My Router Met a Screwdriver | Tolulope Abanikannda | [Read More](https://medium.com/p/0d35351d46aa) |
 | Tue, 04 Nov 2025 06:15:56 GMT | More Than System Logs and Alerts: Why I Chose Cybersecurity | Firzan Irfandi Firman | [Read More](https://medium.com/p/8b9da580ef45) |
 | Tue, 04 Nov 2025 05:48:56 GMT | AI Meets Cybersecurity: Your Next Step Toward a Smarter Career | sneha gaikwad | [Read More](https://medium.com/p/62a62f2dfc68) |
 | Tue, 04 Nov 2025 05:47:06 GMT | AI Shift-Left Security That Actually Ships in 2026 | Sonali Sood | [Read More](https://medium.com/p/d14dad83b56f) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 20:59:01 GMT | Memory Forensics Deep Dive: Investigating DLL Injection using Volatility | Aman Singh Parihar | [Read More](https://medium.com/p/a42b07441d7e) |
 | Mon, 03 Nov 2025 20:58:15 GMT | Perception Under Fire: The Evolution of Reputation in a Synthetic Age | Eric Vanderburg | [Read More](https://medium.com/p/38b09ba40eee) |
 | Mon, 03 Nov 2025 20:57:02 GMT | SOC239 — Remote Code Execution Detected in Splunk Enterprise (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/34b36bd92fff) |
-| Mon, 03 Nov 2025 20:48:04 GMT | Reviews On Your Work, Make or Break? | Rick Martino | [Read More](https://medium.com/p/375273b83380) |
-| Mon, 03 Nov 2025 20:46:36 GMT | Hash | Amir Hassan | [Read More](https://medium.com/p/b180e414ab32) |
-| Mon, 03 Nov 2025 20:45:37 GMT | Lessons from the 2025 Data Breach Wave: What Companies Missed | Nichelle Fields | [Read More](https://medium.com/p/a309ab58ed67) |
-| Mon, 03 Nov 2025 20:37:12 GMT | V1t CTF 2025 — Challenges Writeups | abdelruhmanaskar | [Read More](https://medium.com/p/cd86ec22ad62) |
-| Mon, 03 Nov 2025 20:30:08 GMT | 120 Days of Purple Teaming & Cloud Incident Response -Day 12 | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/17b35bf1c181) |
-| Mon, 03 Nov 2025 20:26:48 GMT | A Practical Guide to SSL/TLS Certificate Management with OpenSSL | biruk desta | [Read More](https://medium.com/p/c844d028b34f) |
-| Mon, 03 Nov 2025 20:24:09 GMT | How I Found a Flaw That Permanently Locked Users Out of Their Accounts | Rajveer | [Read More](https://medium.com/p/034f67951008) |
-| Mon, 03 Nov 2025 20:20:37 GMT | Something Terrible Has Happened: A Skywalker Story | Jesse Di Liello | [Read More](https://medium.com/p/56f1a8c96c81) |
-| Mon, 03 Nov 2025 20:13:01 GMT | The Hidden Risk in Your Chrome Browser: Why Saving Your Passport is a Bad Idea | TechBird | [Read More](https://medium.com/p/4752fa88b945) |
-| Mon, 03 Nov 2025 20:07:18 GMT | Introducing VulnFeed — Real-Time Vulnerability Tracking for CISA & Red Hat | shresth paul | [Read More](https://medium.com/p/f77400ca05b9) |
-| Mon, 03 Nov 2025 20:02:38 GMT | Don’t Enter the Dark Web | Gary Hobs | [Read More](https://medium.com/p/6030b0ebb625) |
-| Mon, 03 Nov 2025 19:59:51 GMT | Understanding connect-src: A Simple Guide to Content Security Policy | biruk desta | [Read More](https://medium.com/p/b6613da2b696) |
