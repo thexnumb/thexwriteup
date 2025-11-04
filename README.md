@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 04 Nov 2025 05:35:59 GMT | The $2.9 Billion Wake-Up Call: What the AI Incident Database Reveals About Liability (And How We… | Glen Patzlaff | [Read More](https://medium.com/p/063296100221) |
+| Tue, 04 Nov 2025 05:25:59 GMT | Security Begins with People: Why Educating People Matters More Than Buying Tools. | Ifeawoyemi | [Read More](https://medium.com/p/8b43b252b609) |
+| Tue, 04 Nov 2025 05:25:56 GMT | European Automotive E/E System Summit 2026 | Ecvinternational | [Read More](https://medium.com/p/bdb1d2873239) |
+| Tue, 04 Nov 2025 05:23:51 GMT | Palo Alto Networks Prisma AIRS 2.0: A Complete Guide | Juara IT Solutions | [Read More](https://medium.com/p/f9dc887eff6e) |
+| Tue, 04 Nov 2025 05:17:48 GMT | Cryptocurrency Heists Reach Record Highs in 2025 | Scoutinsights | [Read More](https://medium.com/p/691780ad24c8) |
 | Tue, 04 Nov 2025 05:14:26 GMT | Architectural Patterns for Securing Data: At Rest, In Transit, and At Runtime | Rost Glukhov | [Read More](https://medium.com/p/56d4676220f3) |
 | Tue, 04 Nov 2025 05:02:06 GMT | You Probably Misunderstood CORS Here’s the Full Explanation | Kalebalebachew | [Read More](https://medium.com/p/8d2df9e18f3a) |
 | Tue, 04 Nov 2025 05:01:33 GMT | A Brief (and chaotic) Summary of Research through Design | seal(theo)ry | [Read More](https://medium.com/p/784115abc8d7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 03 Nov 2025 19:43:07 GMT | Five Hidden Phone Hacks That Happen While You Sleep — And the 30-Second Fix That Stops Them Cold | Nazrul Islam Rana | [Read More](https://medium.com/p/f9a7ddb863fc) |
 | Mon, 03 Nov 2025 19:42:12 GMT | Announcing DorkFi Go-Live Date: Liquidity is Coming | Haroof | [Read More](https://medium.com/p/3be1ea3de97e) |
 | Mon, 03 Nov 2025 19:42:05 GMT | What is IDOR? | Cybersecplayground | [Read More](https://medium.com/p/b8ec70302b87) |
-| Mon, 03 Nov 2025 19:37:57 GMT | ¿Qué pasaría si hoy un actor malicioso llamara a tu clínica? | Cyber-G | [Read More](https://medium.com/p/99af4aed9802) |
-| Mon, 03 Nov 2025 19:34:21 GMT | Assessing the Attack Surface of Remote MCP Servers | Kulkan Security | [Read More](https://medium.com/p/92d630a0cab0) |
-| Mon, 03 Nov 2025 19:33:24 GMT | I Tried 7 “Weight” Hacks — Here’s The One Natural Fix That Quieted My Nighttime Cravings | Elsayedamazon | [Read More](https://medium.com/p/2123b503a0bb) |
-| Mon, 03 Nov 2025 19:26:55 GMT | Logical box | H3XH7WK | [Read More](https://medium.com/p/24dc16eeb9be) |
-| Mon, 03 Nov 2025 19:26:03 GMT | Typus, Seedify, UXLink: $16.4M Lost to Missing Checks, Key Leaks, and Mint Abuse | Olympix | [Read More](https://medium.com/p/f0d0f090954e) |
