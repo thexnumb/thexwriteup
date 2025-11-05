@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 18:19:42 GMT | Upstyle Backdoor (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/7513e41cd145) |
+| Wed, 05 Nov 2025 18:16:51 GMT | Have You Ever Been Defrauded by Hackerone? You May Be Entitled To A Large Cash Settlement! | Justas_b | [Read More](https://medium.com/p/c3a1876ac2fa) |
+| Wed, 05 Nov 2025 18:08:41 GMT | BUG BOUNTY — ÖDÜL AVCILIĞI | Ahmet ŞAHİN | [Read More](https://medium.com/p/7ef15c8aa948) |
+| Wed, 05 Nov 2025 17:57:05 GMT | Why Choose Valmont Security for On-Demand Services in London | 01group | [Read More](https://medium.com/p/82879bcff890) |
+| Wed, 05 Nov 2025 17:53:13 GMT | GraphQL Security: Complete Guide to Finding Hidden Vulnerabilities | Muhammad Haider Tallal | [Read More](https://medium.com/p/cfe590b468b4) |
+| Wed, 05 Nov 2025 17:50:00 GMT | Bug Bounty for Beginners: A Direct, 2-Week Sprint to Start Hunting | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f55262f6132f) |
+| Wed, 05 Nov 2025 17:48:33 GMT | PhantomPi: A Covert Red Team Implant (Part 1) | Alessandro Tagliafierro | [Read More](https://medium.com/p/8976a72c34d0) |
+| Wed, 05 Nov 2025 17:41:55 GMT | HTB BoardLight (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/debd4b6d908f) |
+| Wed, 05 Nov 2025 17:39:52 GMT | Web Hack - SQL injection - Hacking Services - Hire Hacker | BlackHat | [Read More](https://medium.com/p/2a653f53515c) |
+| Wed, 05 Nov 2025 17:34:51 GMT | Network Detection and Response (NDR): The Modern Art of Adversary Detection | Meriem | [Read More](https://medium.com/p/cae211802f2d) |
+| Wed, 05 Nov 2025 17:31:14 GMT | ⚙️ Inside the Linux Engine Room — Why It Dominates Cybersecurity and DevOps | Zoningxtr | [Read More](https://medium.com/p/f7e04c707916) |
+| Wed, 05 Nov 2025 17:29:00 GMT | Jupyter Misconfiguration Lets Attackers Gain Root Access: What Organizations Need to Know | Chetan Seripally | [Read More](https://medium.com/p/c1c1a234cf1d) |
 | Wed, 05 Nov 2025 17:22:37 GMT | High-Resolution File Uploads for Print Production and How to Optimize Images for Web and Print | Idera Dev Tools | [Read More](https://medium.com/p/022d9ad79cce) |
 | Wed, 05 Nov 2025 17:21:32 GMT | The Windows Forensic Journey — Wifi.etl | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/de4107b8cf7c) |
 | Wed, 05 Nov 2025 17:16:59 GMT | The Unsung Art of Excavating Legacy Code | Numan Nadeem | [Read More](https://medium.com/p/59ede616e78b) |
@@ -101,15 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 12:28:04 GMT | Why A Strategic IT Partnership Matters More Than Ever | Doherty Associates | [Read More](https://medium.com/p/8760997b0b85) |
 | Wed, 05 Nov 2025 12:20:50 GMT | Top Managed Data Center Services Provider in India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/1d5f46b6cfe8) |
 | Wed, 05 Nov 2025 12:18:23 GMT | The Ghost of Professional Shame | Andy Tillman UK | [Read More](https://medium.com/p/425c2a1e09d3) |
-| Wed, 05 Nov 2025 12:11:57 GMT | Understanding Cyber Threats and Prevention | Charleskerren | [Read More](https://medium.com/p/e6bf46aecadd) |
-| Wed, 05 Nov 2025 12:08:30 GMT | Why Your Organization Must Prepare for Europe’s Cyber Overhaul Now | CFE CERTIFICATION | [Read More](https://medium.com/p/6fbe7c08ea62) |
-| Wed, 05 Nov 2025 12:06:15 GMT | Signal Desktop Path Traversal vulnerability in Attachment Saving | h4x0r_dz | [Read More](https://medium.com/p/e9de7806767e) |
-| Wed, 05 Nov 2025 12:03:47 GMT | OSINT Exercise #021 Writeup | J0n4th4nV | [Read More](https://medium.com/p/6241f5aa09c9) |
-| Wed, 05 Nov 2025 11:47:22 GMT | What Is IBM NS1 and Why Does It Matter for Modern Apps | Apoorv Gehlot | [Read More](https://medium.com/p/c3c54272af3e) |
-| Wed, 05 Nov 2025 11:29:08 GMT | Discovering Lenspect: A Powerful Binary Inspection Tool for Linux by VirusTotal | Ammarcader | [Read More](https://medium.com/p/cf546d2a9fa5) |
-| Wed, 05 Nov 2025 11:22:59 GMT | Challenges Writeup -Flaghunter 2.0 CTF | Adhamkhairy | [Read More](https://medium.com/p/8bd3939a31b3) |
-| Wed, 05 Nov 2025 11:17:51 GMT | Keep2Share: Simple, Secure, and Fast File Sharing | Filevipo | [Read More](https://medium.com/p/dfa59230c925) |
-| Wed, 05 Nov 2025 11:17:29 GMT | The AI That Started Blackmailing People — and No One Knows Why | Pdk. Pramil | [Read More](https://medium.com/p/f492a7eaea8d) |
-| Wed, 05 Nov 2025 11:16:27 GMT | Getting Started with grep in Linux (Day 7 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/ccbd48f6b8d5) |
-| Wed, 05 Nov 2025 11:16:11 GMT | 5G Security Concerns: What the Speed Upgrade Really Means | Tech Journal | [Read More](https://medium.com/p/59ebdcb19ec3) |
-| Wed, 05 Nov 2025 11:15:19 GMT | Kali Linux Command Reference Sheet | 0b1d1 | [Read More](https://medium.com/p/839362b0e928) |
