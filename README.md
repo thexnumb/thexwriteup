@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 21:29:19 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/161e127eaeee) |
+| Wed, 05 Nov 2025 21:28:53 GMT | Gen X has failed our children, but it wasn’t completely our fault. | Len Noe | [Read More](https://medium.com/p/57ff4a8381e5) |
+| Wed, 05 Nov 2025 21:28:49 GMT | AI Adoption Is Accelerating — So are Privacy Exposure Risks | Karthika Venkatraman | [Read More](https://medium.com/p/479a27143aca) |
+| Wed, 05 Nov 2025 21:27:45 GMT | Portswigger: Information disclosure in version control history. | Alex Alexander | [Read More](https://medium.com/p/f897f2106a6f) |
+| Wed, 05 Nov 2025 21:22:39 GMT | Protecting Your Network: The Role of Cyber Security Solutions in Business Internet Services | Defend My Business | [Read More](https://medium.com/p/0d8d26e1be6b) |
+| Wed, 05 Nov 2025 21:16:53 GMT | ¿Qué son las pruebas de penetración? | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/0a8c1363d399) |
 | Wed, 05 Nov 2025 21:09:26 GMT | Watcher (Tryhackme write-up) | CO0L7 | [Read More](https://medium.com/p/6c3506911280) |
 | Wed, 05 Nov 2025 21:02:22 GMT | Cyber Threat Intelligence (CTI) | Irem Bezci | [Read More](https://medium.com/p/c150f4ec6b18) |
 | Wed, 05 Nov 2025 20:54:01 GMT | How Businesses Can Reduce Cyberattack Risk This Holiday Season | IT_Engineer | [Read More](https://medium.com/p/d85ce4d13e8e) |
@@ -107,9 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 14:34:38 GMT | Enhancing Safety with Remote Security Guards in Colorado Springs | Overwatch Technologies | [Read More](https://medium.com/p/035f7799cd6c) |
 | Wed, 05 Nov 2025 14:33:48 GMT | Seguridad en Wordpress | Israel Aráoz Severiche | [Read More](https://medium.com/p/07b5d6e7ea77) |
 | Wed, 05 Nov 2025 14:33:10 GMT | When Japan’s Power Giant TEPCO Faces Digital Warning Signs That No Nation Can Afford to Ignore | David SEHYEON Baek | [Read More](https://medium.com/p/2e1052f58c64) |
-| Wed, 05 Nov 2025 14:21:18 GMT | Neighbour Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/14c8619956d8) |
-| Wed, 05 Nov 2025 14:16:01 GMT | Top 5 Parental Control Software in 2025: Why SentryPC Leads the Pack | Paul Meyer | [Read More](https://medium.com/p/726a2f355ec7) |
-| Wed, 05 Nov 2025 14:16:01 GMT | Test | Siyam | [Read More](https://medium.com/p/70cc6df9959b) |
-| Wed, 05 Nov 2025 14:13:00 GMT | The Importance of Hiring a Security Guard in USA | Direct Guard Services | [Read More](https://medium.com/p/76a3a60e3aa9) |
-| Wed, 05 Nov 2025 14:12:04 GMT | To Hack or Not to Hack: The Unholy Trinity of Malware | Furkanctiner | [Read More](https://medium.com/p/26cdc4561e25) |
-| Wed, 05 Nov 2025 14:11:20 GMT | The Right Switch for the Job: A Practical Guide to Network Switch Types | Paradise technologies Inc | [Read More](https://medium.com/p/9159f7934778) |
