@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 14:42:45 GMT | What Happens in the First 24 Hours After a Data Breach? | Tech Journal | [Read More](https://medium.com/p/4b245e87f96e) |
+| Wed, 05 Nov 2025 14:38:26 GMT | Wi-Fi Ağlarına Yönelik Siber Saldırı Vektörleri | Alperkandemir | [Read More](https://medium.com/p/bdfa891d520e) |
+| Wed, 05 Nov 2025 14:34:38 GMT | Enhancing Safety with Remote Security Guards in Colorado Springs | Overwatch Technologies | [Read More](https://medium.com/p/035f7799cd6c) |
+| Wed, 05 Nov 2025 14:33:48 GMT | Seguridad en Wordpress | Israel Aráoz Severiche | [Read More](https://medium.com/p/07b5d6e7ea77) |
+| Wed, 05 Nov 2025 14:33:10 GMT | When Japan’s Power Giant TEPCO Faces Digital Warning Signs That No Nation Can Afford to Ignore | David SEHYEON Baek | [Read More](https://medium.com/p/2e1052f58c64) |
+| Wed, 05 Nov 2025 14:21:18 GMT | Neighbour Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/14c8619956d8) |
+| Wed, 05 Nov 2025 14:16:01 GMT | Top 5 Parental Control Software in 2025: Why SentryPC Leads the Pack | Paul Meyer | [Read More](https://medium.com/p/726a2f355ec7) |
+| Wed, 05 Nov 2025 14:16:01 GMT | Test | Siyam | [Read More](https://medium.com/p/70cc6df9959b) |
+| Wed, 05 Nov 2025 14:13:00 GMT | The Importance of Hiring a Security Guard in USA | Direct Guard Services | [Read More](https://medium.com/p/76a3a60e3aa9) |
 | Wed, 05 Nov 2025 14:12:04 GMT | To Hack or Not to Hack: The Unholy Trinity of Malware | Furkanctiner | [Read More](https://medium.com/p/26cdc4561e25) |
+| Wed, 05 Nov 2025 14:11:20 GMT | The Right Switch for the Job: A Practical Guide to Network Switch Types | Paradise technologies Inc | [Read More](https://medium.com/p/9159f7934778) |
 | Wed, 05 Nov 2025 14:02:19 GMT | When Bad AI Architecture Becomes a Security Incident: The Obsidian Support Case | Nwosu Rosemary | [Read More](https://medium.com/p/0fa22ba72a90) |
 | Wed, 05 Nov 2025 14:02:18 GMT | AI Rollout Meets Policy Roadblocks: A New Source of Systemic Risk? | Pareto Technologies | [Read More](https://medium.com/p/ce26c74a7c9f) |
 | Wed, 05 Nov 2025 14:00:25 GMT | Footprinting: Open SMB Share on HTB: flag retrieved, domain leaky, and the production risk behind a… | Laura Trafford | [Read More](https://medium.com/p/9174356fb801) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 09:17:31 GMT | How a Coding Bootcamp Helped Me | 0xZerith | [Read More](https://medium.com/p/49d729e1f33c) |
 | Wed, 05 Nov 2025 09:16:00 GMT | Living Off the Land Attacks — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/3bcc197e077f) |
 | Wed, 05 Nov 2025 09:12:20 GMT | Cybersecurity Liability for Third-Party Vendor Breaches | vicky carol | [Read More](https://medium.com/p/e77fa656842e) |
-| Wed, 05 Nov 2025 08:59:13 GMT | How One Book Changed My Entire Approach to Penetration Testing | Aj | [Read More](https://medium.com/p/134dc7ca3e94) |
-| Wed, 05 Nov 2025 08:49:51 GMT | Sure! Here’s a well-written cybersecurity blog post you can use or publish anywhere — it’s… | Prince Kumar | [Read More](https://medium.com/p/7c8f70135872) |
-| Wed, 05 Nov 2025 08:45:01 GMT | Understanding How the Dark Web Works | Frost | [Read More](https://medium.com/p/d69f25530816) |
-| Wed, 05 Nov 2025 08:40:38 GMT | Inside LOLA OS: The Architecture That Unlocks On-Chain AI Agents | Levi Chinecherem Chidi | [Read More](https://medium.com/p/64d03ac3c8b6) |
-| Wed, 05 Nov 2025 08:25:57 GMT | Securing the ‘Queen of the Arabian Sea’: Why You Need the Best Security Service in Kochi | Sambhu Sunil | [Read More](https://medium.com/p/0bcbce10a7a3) |
-| Wed, 05 Nov 2025 08:23:59 GMT | The Rising Threats in Cybersecurity: Protecting Your Digital Assets | Yana Veretilnyk | [Read More](https://medium.com/p/e6a2c86c78f3) |
-| Wed, 05 Nov 2025 08:09:54 GMT | Information Security Risk Management | Timelina | [Read More](https://medium.com/p/55b0db981389) |
-| Wed, 05 Nov 2025 08:06:54 GMT | Windows 11 Security Features You Should Enable! | Bostamimahmud | [Read More](https://medium.com/p/7bbf6cef7c24) |
-| Wed, 05 Nov 2025 08:04:15 GMT | Unexpected iPhone 11 Pro Max Features That Feel Like Magic | Chloe White | [Read More](https://medium.com/p/1315a44d3bc1) |
-| Wed, 05 Nov 2025 08:01:57 GMT | Part I — Vault Chronicles: Namespaces | Raymon Epping | [Read More](https://medium.com/p/499f97bae988) |
