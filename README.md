@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 03:02:04 GMT | ️ The Art of Digital Trust: Understanding PCI DSS Compliance | Ruturaj Jarag | [Read More](https://medium.com/p/86a8f4d8e1af) |
+| Wed, 05 Nov 2025 03:02:00 GMT | Cyber Briefing: 2025.11.04 | CyberMaterial | [Read More](https://medium.com/p/944e698e5923) |
+| Wed, 05 Nov 2025 02:58:37 GMT | The Evolution of Hash Functions: From MD5 to Modern Security | Thuong To | [Read More](https://medium.com/p/b86ce531afce) |
+| Wed, 05 Nov 2025 02:52:47 GMT | HTB — Dancing | Lautaro Robayna | [Read More](https://medium.com/p/878ee534cbfb) |
+| Wed, 05 Nov 2025 02:52:02 GMT | Wazuh dashboard server is not ready yet | Haldian | [Read More](https://medium.com/p/4c78dbff7dc9) |
+| Wed, 05 Nov 2025 02:48:14 GMT | Weekly Threat Intelligence Report 4 Nov 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/9d72567c6ad5) |
+| Wed, 05 Nov 2025 02:43:57 GMT | How Authentication actually works??? | Vivek | [Read More](https://medium.com/p/db6585b5d953) |
+| Wed, 05 Nov 2025 02:40:14 GMT | WHAT EXACTLY IS A MOONSHOT IDEA? -THE ORIGIN | Adedoyin itunu | [Read More](https://medium.com/p/822936af0480) |
+| Wed, 05 Nov 2025 02:24:47 GMT | The Evolution of CAPTCHA in 2025: Striking the Balance Between Usability and Security | Onkar Shirke | [Read More](https://medium.com/p/691a382518d0) |
+| Wed, 05 Nov 2025 02:21:59 GMT | College adventure #2: computer cluster with Linux | Reinaldo Freitas | [Read More](https://medium.com/p/918efb1b5845) |
+| Wed, 05 Nov 2025 02:16:28 GMT | Social Engineering Deep Dive: The Art of Human Hacking | Ddude | [Read More](https://medium.com/p/df7406a0a9d5) |
+| Wed, 05 Nov 2025 02:07:16 GMT | Desative o piloto automático da mente. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/5d8b5ffd5391) |
+| Wed, 05 Nov 2025 02:05:32 GMT | Securing Your Bitcoin: Choosing the Right Crypto Wallet | Learning CrypTOE | [Read More](https://medium.com/p/705bf0a0833c) |
+| Wed, 05 Nov 2025 02:03:32 GMT | DownUnderCTF — Osint — GranniE/Zer0C00l [PT-BR] | Ooozaru | [Read More](https://medium.com/p/a80f9bcd59c5) |
+| Wed, 05 Nov 2025 02:02:02 GMT | Cara Pakai — dart-define-from-file di Flutter untuk Secure API Key | Fitria Widyani | [Read More](https://medium.com/p/8162ef456fe0) |
+| Wed, 05 Nov 2025 01:58:45 GMT | AI Browsers and Prompt Injection: The New Cybersecurity Frontier | Md Asaduzzaman Atik | [Read More](https://medium.com/p/c482a8bc8a9b) |
+| Wed, 05 Nov 2025 01:53:58 GMT | AWS IAM Roles Anywhere Explained: Secure Authentication for External Workloads | NIKHIL P PAWAR | [Read More](https://medium.com/p/3bcfe72de4bf) |
+| Wed, 05 Nov 2025 01:47:18 GMT | Fluffy HTB Machine Walk-Through. | Nmullenski | [Read More](https://medium.com/p/6963fc9abde2) |
 | Wed, 05 Nov 2025 01:41:23 GMT | How I Turned a Page Leak into a Post-Exploitation Report — Lessons for Defenders | Vivektumma27 | [Read More](https://medium.com/p/fc29ea8fdd8f) |
+| Wed, 05 Nov 2025 01:38:30 GMT | How hackers find ANYONE using Sherlock (OSINT basics) | Jackson Mittag | [Read More](https://medium.com/p/31030aeafa74) |
 | Wed, 05 Nov 2025 01:30:35 GMT | Can Blockchain Survive the Quantum Era? | Bobby Andrews | [Read More](https://medium.com/p/5fdadfa145bf) |
 | Wed, 05 Nov 2025 01:28:38 GMT | The End of Windows 10 and The Surge of Linux Users | Sam Writes Security | [Read More](https://medium.com/p/21960c97723d) |
 | Wed, 05 Nov 2025 01:25:15 GMT | Integrating Cloud-Hosted Wazuh with On-Premise Splunk: Part 1 — The Secure Approach | Raynard Waits | [Read More](https://medium.com/p/7695dd54bc86) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 17:35:16 GMT | The Google Data Leak: Google responds to claim of millions of G-mail Passwords leaked | Himanshu Bhatt | [Read More](https://medium.com/p/4d0d65036ca7) |
 | Tue, 04 Nov 2025 17:34:26 GMT | The Most Common Medium Severity Bug Found In Almost Every Website | Rehan Sohail | [Read More](https://medium.com/p/b0d0649dd739) |
 | Tue, 04 Nov 2025 17:32:44 GMT | The Digital Vault | H3XH7WK | [Read More](https://medium.com/p/a4885ba41f8f) |
-| Tue, 04 Nov 2025 17:32:39 GMT | How to Avoid AI Detecting Your Text | Zvi Azran | [Read More](https://medium.com/p/2ed82cf46a03) |
-| Tue, 04 Nov 2025 17:32:18 GMT | Essential Website Security Practices Every Business Should Follow | Website Legends | [Read More](https://medium.com/p/e60076058b74) |
-| Tue, 04 Nov 2025 17:26:15 GMT | First Day at the IT Campus — Mohan and Arjun’s Story | Karthick Dkk | [Read More](https://medium.com/p/ddcb721991ea) |
-| Tue, 04 Nov 2025 17:23:10 GMT | Blockchain Technology and Cyber Security | Jibriel Jeelani | [Read More](https://medium.com/p/4a0b918e0d5f) |
-| Tue, 04 Nov 2025 17:20:56 GMT | Cybercriminals Weaponize PuTTY Ads to Deploy OysterLoader Malware in Sophisticated Attack Campaign | Technijian | [Read More](https://medium.com/p/884f891c31f8) |
-| Tue, 04 Nov 2025 17:16:52 GMT | Custom App OAuth Token Federation to Databricks with Okta | Suraj Karuvel | [Read More](https://medium.com/p/6556c630b076) |
-| Tue, 04 Nov 2025 17:05:19 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/c72979811bba) |
-| Tue, 04 Nov 2025 16:59:49 GMT | Cyber Insurance Market is expected to increase at a compound annual growth rate (CAGR) of 29.3% | Vinita kumari | [Read More](https://medium.com/p/268210cdab9b) |
-| Tue, 04 Nov 2025 16:59:43 GMT | Security Best Practices for K3s in Distributed Environments | Veritas Automata | [Read More](https://medium.com/p/1baccf9778a4) |
-| Tue, 04 Nov 2025 16:55:44 GMT | Is XRP Tundra Legit? — Verified Audits, Smart Contract Transparency & 2025 Presale Facts | XRP Tundra | [Read More](https://medium.com/p/17903c847d85) |
-| Tue, 04 Nov 2025 16:46:32 GMT | Building “Breach Sentinel”: An AI Agent That Checks Data Breaches in Real-Time | Mydas | [Read More](https://medium.com/p/c339b157c57b) |
-| Tue, 04 Nov 2025 16:44:53 GMT | Physical Security Assessments for newbies | jH7z | [Read More](https://medium.com/p/314dd00a9f25) |
-| Tue, 04 Nov 2025 16:42:39 GMT | Sequre Style Store Associate — Full Time | Tyler Wall | [Read More](https://medium.com/p/fc5b44804a27) |
-| Tue, 04 Nov 2025 16:37:34 GMT | Daylight Security: Investing in the Future of Managed Agentic Security Services | Kevin Gabura | [Read More](https://medium.com/p/0f8559d8002e) |
-| Tue, 04 Nov 2025 16:34:47 GMT | IDOR: The Bug That Opens Doors Without Knocking | NadSec | [Read More](https://medium.com/p/6abbb9f9600f) |
-| Tue, 04 Nov 2025 16:33:21 GMT | Cosas “superficiales” | May | [Read More](https://medium.com/p/d9c9c5bd18c0) |
-| Tue, 04 Nov 2025 16:32:03 GMT | When Your Phone Vanishes: Why Most People Have No Plan | Cyberberri | [Read More](https://medium.com/p/7b536551cb0f) |
-| Tue, 04 Nov 2025 16:23:29 GMT | College IT Project Guide | Samuel Lalhriatpuia | [Read More](https://medium.com/p/0daead751388) |
-| Tue, 04 Nov 2025 16:21:52 GMT | Digital Investigations in Modern Litigation: How Cyber Intelligence Is Transforming Legal Strategy | Hartley Paralegal, LLC | [Read More](https://medium.com/p/7460a36173a2) |
