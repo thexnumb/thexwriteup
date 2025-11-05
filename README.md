@@ -12,10 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 07:11:23 GMT | ‍♂️ Session Zombies: The Forgotten Refresh Tokens That Never Die | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a92b5def0a78) |
+| Wed, 05 Nov 2025 07:07:54 GMT | Trivy: The X-Ray Vision for Your Containers and Code . | Dineth Sandakelum Herath | [Read More](https://medium.com/p/80f04ad84d1d) |
+| Wed, 05 Nov 2025 06:58:31 GMT | The Hidden Cost of IT Downtime (And How to Prevent It Before It Happens) | SignalAge | [Read More](https://medium.com/p/22d828b80d32) |
+| Wed, 05 Nov 2025 06:58:19 GMT | 5 Steps to Strengthen Your Cloud Security Posture | Digital Defense | [Read More](https://medium.com/p/e40738b9888f) |
+| Wed, 05 Nov 2025 06:57:54 GMT | Hacking DC-1: Your First Step into the DC Series | Kalash Kundaliya | [Read More](https://medium.com/p/0255d30715a3) |
+| Wed, 05 Nov 2025 06:57:35 GMT | From Zero to Live: Hosting That Powers Your Ideas | Mary Thomas | [Read More](https://medium.com/p/70c223407f42) |
+| Wed, 05 Nov 2025 06:54:18 GMT | Google Play vs RBI: The Hidden Compliance War Inside Every Fintech App — 2025 Edition | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/be92f4933578) |
+| Wed, 05 Nov 2025 06:54:16 GMT | Article 3: Complete Computer Arithmetic for Ethical Hacking | Aman Kumar Singh | [Read More](https://medium.com/p/b535fb42ac1a) |
+| Wed, 05 Nov 2025 06:51:36 GMT | Why Cyber Criminals Target Small Businesses: 4 Reasons Your Business May Be Vulnerable & How To Fix… | Christina Martin | [Read More](https://medium.com/p/d094a0b7dcf2) |
+| Wed, 05 Nov 2025 06:50:41 GMT | From Intent to Native Code: Exploiting a WebView’s JavascriptInterface via XSS | Mohamed hamdy | [Read More](https://medium.com/p/8a1c1edff2e6) |
+| Wed, 05 Nov 2025 06:38:59 GMT | Restricted Access Vol. 2 — Room Challenges: Red Team LINUXENIC Corporation Write-up | Yuukoethic | [Read More](https://medium.com/p/5c7968d4d771) |
+| Wed, 05 Nov 2025 06:38:19 GMT | I Got Scam By StoneWall Capital But I Finally Got Help | Gregory Davidson | [Read More](https://medium.com/p/85868b4eef77) |
+| Wed, 05 Nov 2025 06:36:30 GMT | Secure Web Browsing Protection: A Guide to Safe Browsing Protection 2026: | HawkShield | [Read More](https://medium.com/p/69def5a573cc) |
 | Wed, 05 Nov 2025 06:29:51 GMT | The Hidden Security Gaps in Every Modern Workplace (and How to Fix Them) | WorkInSync | [Read More](https://medium.com/p/cba8c23814db) |
 | Wed, 05 Nov 2025 06:26:38 GMT | Palo Alto Networks Business Email Compromise (BEC) Readiness Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3cf612347e51) |
 | Wed, 05 Nov 2025 06:26:03 GMT | FlareSolverr: Bypass Cloudflare for Seamless Web Scraping | Balki Maharaj | [Read More](https://medium.com/p/e678a11aa567) |
 | Wed, 05 Nov 2025 06:22:50 GMT | How I Stole an AI’s Diary and Found All Its Secrets | Iski | [Read More](https://medium.com/p/5d8786af54db) |
+| Wed, 05 Nov 2025 06:21:58 GMT | Building Multi Authentication in Oracle APEX: One App for All Users | Rohit Mittel | [Read More](https://medium.com/p/bf15a8232810) |
 | Wed, 05 Nov 2025 06:16:52 GMT | How I Found My First Web Bug as a Beginner | Shaikh Minhaz | [Read More](https://medium.com/p/960712e8002f) |
 | Wed, 05 Nov 2025 06:14:20 GMT | Paper Review: “Safety Monitoring for Learning-Enabled Cyber-Physical Systems in Out-of-Distribution… | Kyoungmin Roh | [Read More](https://medium.com/p/e0a73a9d60fa) |
 | Wed, 05 Nov 2025 06:10:16 GMT | The Future of Work in IT: Upskilling for the Age of AI and Automation | Amin Softtech | [Read More](https://medium.com/p/565cf78d6d8c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 22:19:38 GMT | Human in the Loop: Before it’s Too Late | ToxSec | [Read More](https://medium.com/p/114643ee686c) |
 | Tue, 04 Nov 2025 22:17:55 GMT | 6 API Injection Attacks You’re Probably Not Testing For | Cyber-AppSec | [Read More](https://medium.com/p/3bafcb81a1f6) |
 | Tue, 04 Nov 2025 22:14:16 GMT | AI-Powered Phishing: You Will Fall for This | ToxSec | [Read More](https://medium.com/p/3a9c7711fcce) |
-| Tue, 04 Nov 2025 22:08:08 GMT | Day 30 of my Cybersecurity Journey: Metasploit Introduction | Ogundipe Priscilla | [Read More](https://medium.com/p/d0b25314bf35) |
-| Tue, 04 Nov 2025 22:01:58 GMT | How to Vet Fintech Apps as a Creator (security + fees checklist) | finance time | [Read More](https://medium.com/p/e9158edce3fd) |
-| Tue, 04 Nov 2025 21:28:16 GMT | Alternatives to WhatsApp and: messengers with APIs, bots, and group chats | 0trust0day | [Read More](https://medium.com/p/5f75c3e9f2ad) |
-| Tue, 04 Nov 2025 21:27:50 GMT | The Vigilance Penalty: How Weak Passwords Make Personal Accounts a Target | Amplified Access | [Read More](https://medium.com/p/9574228ddba3) |
-| Tue, 04 Nov 2025 21:20:25 GMT | AI vs. the Human Touch in Cybersecurity (and Tech) | Teleisha Deslandes | [Read More](https://medium.com/p/4289a9ec2d2a) |
-| Tue, 04 Nov 2025 21:07:47 GMT | Simple IDORs Lead To PII Leaks Got $1476 Bounty | Ferdus Alam | [Read More](https://medium.com/p/aa3e06a5976b) |
-| Tue, 04 Nov 2025 20:54:18 GMT | The day the AI woke up with the flu | Marco van Hurne | [Read More](https://medium.com/p/b67fe1da3da7) |
-| Tue, 04 Nov 2025 20:53:18 GMT | Reliable Business Internet Solutions with Strong Cybersecurity Support | Defend My Business | [Read More](https://medium.com/p/4e7174280668) |
-| Tue, 04 Nov 2025 20:35:25 GMT | The Quiet Power of Saying I Don’t Know | Zorica Pavicic | [Read More](https://medium.com/p/39cfc1b3bc60) |
-| Tue, 04 Nov 2025 20:31:19 GMT | Active Directory Help Desk Lab/Building a Two VM Windows Server Environment | Erik Diaz | [Read More](https://medium.com/p/47cf6f396bb5) |
-| Tue, 04 Nov 2025 20:21:30 GMT | The AI Security Crossroads: Navigating Risk with Human-Centered Strategies | ZENcurity | [Read More](https://medium.com/p/2fc2a249c5d6) |
-| Tue, 04 Nov 2025 20:17:59 GMT | The Echo That Stayed Inside | Elan Tengis | [Read More](https://medium.com/p/5aa037d15ed2) |
-| Tue, 04 Nov 2025 20:16:03 GMT | WSUS Under Fire: How CVE-2025–59287 Lets Attackers Own Update Servers | Jason Hoskins Jr. | [Read More](https://medium.com/p/1af551c10c61) |
-| Tue, 04 Nov 2025 20:12:07 GMT | From Alert to Action: A SOC Analyst’s Guide to Triage with Elastic ️ | Furkanctiner | [Read More](https://medium.com/p/4e5354ab5da9) |
