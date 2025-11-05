@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 22:06:24 GMT | When Truth Became Editable: The Rise of Deepfakes and the War on Reality | Jessica Malini | [Read More](https://medium.com/p/35959c6037a1) |
+| Wed, 05 Nov 2025 21:53:57 GMT | Global Ransomware Raid: What It Means for the Darkweb Now | Tor BBB | [Read More](https://medium.com/p/dfa9e0bb927e) |
+| Wed, 05 Nov 2025 21:53:51 GMT | These Are the Cyber Risks That Worry Me Most in 2025 | Fook Hwa Tan | [Read More](https://medium.com/p/a6955e1b901d) |
+| Wed, 05 Nov 2025 21:51:22 GMT | Top 12 Ways Our Cell Phones Are Spying on us in 2025–2026 | Headshot Pros | [Read More](https://medium.com/p/d8914fd696dc) |
+| Wed, 05 Nov 2025 21:46:27 GMT | The Next Wave of Cyber Threats: Twenty Vectors That Can Disrupt at Scale | KeyboardSamurai | [Read More](https://medium.com/p/8950a490d28e) |
+| Wed, 05 Nov 2025 21:43:09 GMT | Privacy Just Went Solo: How ISO 27701:2025 Rewrote the Rules of Data Trust | André Ricardo Voidelo | [Read More](https://medium.com/p/ba4d57f43fc4) |
+| Wed, 05 Nov 2025 21:32:19 GMT | Your Stanley Quencher Is On Its Way! | Susan Brearley | [Read More](https://medium.com/p/ae14ca505958) |
 | Wed, 05 Nov 2025 21:29:19 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/161e127eaeee) |
 | Wed, 05 Nov 2025 21:28:53 GMT | Gen X has failed our children, but it wasn’t completely our fault. | Len Noe | [Read More](https://medium.com/p/57ff4a8381e5) |
 | Wed, 05 Nov 2025 21:28:49 GMT | AI Adoption Is Accelerating — So are Privacy Exposure Risks | Karthika Venkatraman | [Read More](https://medium.com/p/479a27143aca) |
@@ -106,10 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 14:54:30 GMT | The Hidden Dangers of Low-Quality USB and Bluetooth Devices | Chanitha Gunasekera | [Read More](https://medium.com/p/d5c475a4f412) |
 | Wed, 05 Nov 2025 14:51:01 GMT | 4 Bash Commands that Should Never Be Run on Any Machine! | Rishabh Agarwal | [Read More](https://medium.com/p/2dc2f5ddb5ea) |
 | Wed, 05 Nov 2025 14:50:55 GMT | The Paradox of Paranoia: When Being Too Secure Becomes the Real Cyber Risk | Wathome Malinda | [Read More](https://medium.com/p/aef8b0437b3b) |
-| Wed, 05 Nov 2025 14:48:54 GMT | Security for Your WordPress Site | Israel Aráoz Severiche | [Read More](https://medium.com/p/5ab17ab10c44) |
-| Wed, 05 Nov 2025 14:48:01 GMT | Reverse Engineering NAGRA Tiger: A Methodological Journey | ftp21 | [Read More](https://medium.com/p/51e6c620c62f) |
-| Wed, 05 Nov 2025 14:42:45 GMT | What Happens in the First 24 Hours After a Data Breach? | Tech Journal | [Read More](https://medium.com/p/4b245e87f96e) |
-| Wed, 05 Nov 2025 14:38:26 GMT | Wi-Fi Ağlarına Yönelik Siber Saldırı Vektörleri | Alperkandemir | [Read More](https://medium.com/p/bdfa891d520e) |
-| Wed, 05 Nov 2025 14:34:38 GMT | Enhancing Safety with Remote Security Guards in Colorado Springs | Overwatch Technologies | [Read More](https://medium.com/p/035f7799cd6c) |
-| Wed, 05 Nov 2025 14:33:48 GMT | Seguridad en Wordpress | Israel Aráoz Severiche | [Read More](https://medium.com/p/07b5d6e7ea77) |
-| Wed, 05 Nov 2025 14:33:10 GMT | When Japan’s Power Giant TEPCO Faces Digital Warning Signs That No Nation Can Afford to Ignore | David SEHYEON Baek | [Read More](https://medium.com/p/2e1052f58c64) |
