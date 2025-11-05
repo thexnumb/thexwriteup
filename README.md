@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 04:30:42 GMT | Secure by Design: 10-Day Proven Memory-Safe Sprint | Pentest_Testing_Corp | [Read More](https://medium.com/p/0691ff1edac9) |
+| Wed, 05 Nov 2025 04:30:38 GMT | 5 Database Trends to Watch in 2026 — Technical Deep Dive | Rizqi Mulki | [Read More](https://medium.com/p/a3d8d4157e34) |
+| Wed, 05 Nov 2025 04:28:27 GMT | The Soul of Privacy: Understanding India’s DPDP Act | Ruturaj Jarag | [Read More](https://medium.com/p/f7bf8c2226b5) |
+| Wed, 05 Nov 2025 04:18:08 GMT | Building a Mini SIEM Dashboard with Python: Automating Log Analysis, Threat Detection, and… | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/e40e7c7e5430) |
 | Wed, 05 Nov 2025 04:07:49 GMT | I Made Python Faster Than Go Using This One Weird Trick | Rizqi Mulki | [Read More](https://medium.com/p/4e1e994264f5) |
 | Wed, 05 Nov 2025 04:04:35 GMT | How I Built a Cloud-Native SIEM with Spring Boot to Detect Real-Time AWS Threats | Sohan Kanna D | [Read More](https://medium.com/p/fad725387a37) |
 | Wed, 05 Nov 2025 03:57:59 GMT | Insecure Direct Object References (IDOR): The $1 Billion Authorization Bug | InstaTunnel | [Read More](https://medium.com/p/cfc342ba428a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 18:30:57 GMT | The Weekend That Belonged to Strong Women: From BSides Chicago to the ICC World Cup 2025 | Harshad Sadashiv Kadam | [Read More](https://medium.com/p/973a755e1bdb) |
 | Tue, 04 Nov 2025 18:27:30 GMT | Day 9: Mastering System Networking Commands — The Tools Every Analyst Must Know | HackTrace | [Read More](https://medium.com/p/e1c255427489) |
 | Tue, 04 Nov 2025 18:20:18 GMT | Beyond the Bounties: How Modern Platforms Are Shaping the Future of Ethical Hacking | Penough | [Read More](https://medium.com/p/5bdee62d494d) |
-| Tue, 04 Nov 2025 18:16:57 GMT | How to Ensure Cybersecurity While Developing Artificial Intelligence ️ | Lumae | [Read More](https://medium.com/p/d2430f38b476) |
-| Tue, 04 Nov 2025 18:14:45 GMT | ☕️ Cyber & Coffee Daily: Brewing the Top Tech News You Can’t Miss (Nov 4, 2025) | Cyber and Coffee | [Read More](https://medium.com/p/61815e4e7cae) |
-| Tue, 04 Nov 2025 18:13:35 GMT | The Executive Security Dashboard: Visualizing What Matters Without the Noise | Fabien Soulis | [Read More](https://medium.com/p/d46efb31c5aa) |
-| Tue, 04 Nov 2025 18:11:39 GMT | Article 1&2 : Introduction and Basic Computer Engineering and Science | Aman Kumar Singh | [Read More](https://medium.com/p/f332e2c4d540) |
