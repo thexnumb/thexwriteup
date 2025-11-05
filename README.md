@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 17:10:28 GMT | How I got access to an IDOR that exposed PII for 6.4 million users | Dedrknex | [Read More](https://medium.com/p/cabb15961bfa) |
+| Wed, 05 Nov 2025 17:08:44 GMT | Race condition allows bypassing stored family members limit in online store website— able to add… | Ahmed Talaat | [Read More](https://medium.com/p/b3c40cfd4d0a) |
+| Wed, 05 Nov 2025 17:06:32 GMT | Understanding Security Logging and Monitoring Failures: The Silent Weakness in Modern Cyber Defense | CyberSenpai | [Read More](https://medium.com/p/02d707dbb785) |
+| Wed, 05 Nov 2025 17:04:41 GMT | Subdomain Enumeration | Yasmin Abdelraouf | [Read More](https://medium.com/p/02e0d5a54620) |
+| Wed, 05 Nov 2025 17:04:40 GMT | When Strength and Weakness Trade Places | Comet N. | [Read More](https://medium.com/p/8ad4c2c98b69) |
+| Wed, 05 Nov 2025 16:59:59 GMT | CryoVault CTF 2025 Qualification Round — WriteUps | Ojas Maheshwari | [Read More](https://medium.com/p/db7a9d4f6de5) |
 | Wed, 05 Nov 2025 16:52:32 GMT | Hi everyone,
 We’re facing a persistent issue with root detection bypass in our Android application… | vishwanath singh | [Read More](https://medium.com/p/6439ae019088) |
+| Wed, 05 Nov 2025 16:45:31 GMT | AI Bot Armies, Password Failures and Bitcoin’s Institutional Surge: Tech Intelligence | David Grice | [Read More](https://medium.com/p/c5bc5080ee06) |
 | Wed, 05 Nov 2025 16:40:08 GMT | Deploying and Managing a Multi-Instance CTF Infrastructure on AWS | Ranen Joseph Solomon | [Read More](https://medium.com/p/23dbea7ec419) |
 | Wed, 05 Nov 2025 16:24:03 GMT | Understanding HTTP: The Backbone of the Web | Arfi Tutorials | [Read More](https://medium.com/p/a948e8c7d6ba) |
 | Wed, 05 Nov 2025 16:18:04 GMT | Should you know about HMAC-SHA256 for Webhooks? | Nagarjun (Arjun) Nagesh | [Read More](https://medium.com/p/e66b70ba98a9) |
@@ -106,10 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 11:12:20 GMT | IT-Nearshoring: Definition, Potenziale und strategische Umsetzung | Thomas Faß | [Read More](https://medium.com/p/272bd8f04788) |
 | Wed, 05 Nov 2025 11:09:38 GMT | Mapping TLS 1.3 Adoption Across Azure Services: What’s Ready & What’s Not | Loginsoft | [Read More](https://medium.com/p/0e0cb28da9d3) |
 | Wed, 05 Nov 2025 10:57:37 GMT | Why Every Organization Needs a Reliable Vendor Credentialing Service and Visitor Screening Program | Green Security | [Read More](https://medium.com/p/7cd9ed71e8f8) |
-| Wed, 05 Nov 2025 10:57:15 GMT | Depression Is Not a Feeling — It’s a Verb | Jonathan Back | [Read More](https://medium.com/p/489a80b1208c) |
-| Wed, 05 Nov 2025 10:51:05 GMT | I Analysed Over 3 Million Exposed Databases Using Netlas | Netlas.io | [Read More](https://medium.com/p/446a66b3b09f) |
-| Wed, 05 Nov 2025 10:46:54 GMT | Stop Leaking Your Secrets: Solving the Hidden API Key/Secret Problem in Web Apps | Jens@Fivesec | [Read More](https://medium.com/p/5b88bc1347ed) |
-| Wed, 05 Nov 2025 10:46:23 GMT | How to keep your Magento store secure without paying for every upgrade | On Tap | [Read More](https://medium.com/p/ab9463b058dc) |
-| Wed, 05 Nov 2025 10:44:45 GMT | SSI - Part 1: Understanding the fundamental problem with digital identity today and the paradigm… | Ishan Karunanayake | [Read More](https://medium.com/p/723db2048d38) |
-| Wed, 05 Nov 2025 10:44:10 GMT | “Android Just Got Hacked”— Stop What You Are Doing | Prayers Khristi | [Read More](https://medium.com/p/a9d076a17100) |
-| Wed, 05 Nov 2025 10:40:03 GMT | 4 Outils Essentiels pour Traquer les Menaces (IoC) en Cybersécurité | Djibril Ndiaye | [Read More](https://medium.com/p/a3ffb5ea13da) |
