@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 06:29:51 GMT | The Hidden Security Gaps in Every Modern Workplace (and How to Fix Them) | WorkInSync | [Read More](https://medium.com/p/cba8c23814db) |
+| Wed, 05 Nov 2025 06:26:38 GMT | Palo Alto Networks Business Email Compromise (BEC) Readiness Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3cf612347e51) |
+| Wed, 05 Nov 2025 06:26:03 GMT | FlareSolverr: Bypass Cloudflare for Seamless Web Scraping | Balki Maharaj | [Read More](https://medium.com/p/e678a11aa567) |
+| Wed, 05 Nov 2025 06:22:50 GMT | How I Stole an AI’s Diary and Found All Its Secrets | Iski | [Read More](https://medium.com/p/5d8786af54db) |
+| Wed, 05 Nov 2025 06:16:52 GMT | How I Found My First Web Bug as a Beginner | Shaikh Minhaz | [Read More](https://medium.com/p/960712e8002f) |
+| Wed, 05 Nov 2025 06:14:20 GMT | Paper Review: “Safety Monitoring for Learning-Enabled Cyber-Physical Systems in Out-of-Distribution… | Kyoungmin Roh | [Read More](https://medium.com/p/e0a73a9d60fa) |
+| Wed, 05 Nov 2025 06:10:16 GMT | The Future of Work in IT: Upskilling for the Age of AI and Automation | Amin Softtech | [Read More](https://medium.com/p/565cf78d6d8c) |
+| Wed, 05 Nov 2025 06:09:59 GMT | How Managed IT Services Help Law Firms Boost Efficiency, Security & Growth | Com Pro | [Read More](https://medium.com/p/ce460fbc915a) |
+| Wed, 05 Nov 2025 06:07:40 GMT | The Silent Revolution: How Generative AI is Reshaping the Cyber Threat Landscape | balaji thiruvengadam | [Read More](https://medium.com/p/c24b77403df5) |
+| Wed, 05 Nov 2025 06:04:09 GMT | Internal Cache Poisoning: How Multi-Layer Caches Can Be Exploited for Stored XSS | Bash Overflow | [Read More](https://medium.com/p/9e15b0367780) |
+| Wed, 05 Nov 2025 05:57:51 GMT | HTB Whisper | Harjot Singh | [Read More](https://medium.com/p/a694a06d7001) |
+| Wed, 05 Nov 2025 05:53:38 GMT | Phishing 2.0: How Attackers Are Reinventing Deception in 2025 | Recover Right | [Read More](https://medium.com/p/3d2a38487d6a) |
+| Wed, 05 Nov 2025 05:42:09 GMT | Your Gateway to a Cyber-Secure Career | Warmdotin | [Read More](https://medium.com/p/1b963a7b061d) |
+| Wed, 05 Nov 2025 05:40:39 GMT | SPARK Matrix™: Security Information and Event Management (SIEM) | Umangp | [Read More](https://medium.com/p/a45905636cb6) |
 | Wed, 05 Nov 2025 05:31:01 GMT | DNS Part 2 | Kiran Naragam | [Read More](https://medium.com/p/eaf1e132d1a9) |
 | Wed, 05 Nov 2025 05:28:51 GMT | From XP to Windows 11: The Evolution of an Operating System That Changed Everything | Salimassili | [Read More](https://medium.com/p/79dbd1d2da68) |
 | Wed, 05 Nov 2025 05:26:48 GMT | John Star the Barrister: Justice, Integrity, and the Voice of the People | Ghost Of Spartans — Everything Music, Tech & Trend | [Read More](https://medium.com/p/9c72b4ca270f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 20:17:59 GMT | The Echo That Stayed Inside | Elan Tengis | [Read More](https://medium.com/p/5aa037d15ed2) |
 | Tue, 04 Nov 2025 20:16:03 GMT | WSUS Under Fire: How CVE-2025–59287 Lets Attackers Own Update Servers | Jason Hoskins Jr. | [Read More](https://medium.com/p/1af551c10c61) |
 | Tue, 04 Nov 2025 20:12:07 GMT | From Alert to Action: A SOC Analyst’s Guide to Triage with Elastic ️ | Furkanctiner | [Read More](https://medium.com/p/4e5354ab5da9) |
-| Tue, 04 Nov 2025 20:10:43 GMT | Active Directory 103: Implementing the TechX Domain | Rana chouchane - QU33NR | [Read More](https://medium.com/p/9800f10a8029) |
-| Tue, 04 Nov 2025 20:10:05 GMT | From information media to opinion media: the manufacturing of public confusion | Hayat Outahar | [Read More](https://medium.com/p/c5538dec2e1d) |
-| Tue, 04 Nov 2025 20:09:55 GMT | STON.fi Launches Bug Bounty Program Offering Up to $100,000 for Critical Vulnerabilities | Johnny Sylvanus | [Read More](https://medium.com/p/b614e6e3774b) |
-| Tue, 04 Nov 2025 20:09:16 GMT | Integrating Microsoft Sentinel with Multicloud Environments | IT_Engineer | [Read More](https://medium.com/p/a86e97d67895) |
-| Tue, 04 Nov 2025 20:05:03 GMT | Governing Your AI Workforce: Identity for Machines | Yashasvi Sharma | [Read More](https://medium.com/p/348e348576db) |
-| Tue, 04 Nov 2025 19:55:10 GMT | Top 5 vCloud Networking Mistakes Beginners Make (And How to Fix Them) | Ahmed Maher | [Read More](https://medium.com/p/3bdad77ae042) |
-| Tue, 04 Nov 2025 19:54:42 GMT | The Event Horizon of Intelligence | Paul Bujak | [Read More](https://medium.com/p/c3236627e456) |
-| Tue, 04 Nov 2025 19:44:20 GMT | Brooklyn Nine Nine— TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/d64ce39c19b1) |
-| Tue, 04 Nov 2025 19:41:57 GMT | Why Penetration Test Risk Ratings Aren’t Meant to Be Bargained For… And That’s Good for Everyone | Mark Puckett | [Read More](https://medium.com/p/a61db7cff07e) |
-| Tue, 04 Nov 2025 19:38:55 GMT | When Lean Security Meets AI: How Model Context Protocol (MCP) Changes the Game | Graylog | [Read More](https://medium.com/p/711beb16624f) |
-| Tue, 04 Nov 2025 19:29:28 GMT | Web Investigation Lab | FeCeSociety | [Read More](https://medium.com/p/b1bf4b145321) |
-| Tue, 04 Nov 2025 19:26:45 GMT | From PDF to Problem | Ruben Croes | [Read More](https://medium.com/p/75f7d2bb54cf) |
-| Tue, 04 Nov 2025 19:21:57 GMT | Ransomware 101: How These Digital Muggers Work and Why Backup is Your Best Shield ️ | Furkanctiner | [Read More](https://medium.com/p/2fa5d00bd165) |
-| Tue, 04 Nov 2025 19:07:34 GMT | How my blog getting featured at CloudSek website…? | Sai Jayanth | [Read More](https://medium.com/p/f2d938223a6c) |
