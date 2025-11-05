@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 15:09:38 GMT | $93 Million DeFi Loss — Another depegged story!! | Rahul Raj | [Read More](https://medium.com/p/8f42d8cb72b2) |
+| Wed, 05 Nov 2025 15:04:40 GMT | “The $15,000 IDOR That Threatened Snapchat’s Creator Economy” | Aman Sharma | [Read More](https://medium.com/p/379ac3fa6277) |
+| Wed, 05 Nov 2025 15:02:58 GMT | Cyber Briefing: 2025.11.05 | CyberMaterial | [Read More](https://medium.com/p/a0aaa67cd9d9) |
+| Wed, 05 Nov 2025 15:02:56 GMT | The Invitation We Almost Declined | Arun Kumar | [Read More](https://medium.com/p/f0e3c2f9ff70) |
+| Wed, 05 Nov 2025 15:01:41 GMT | Job Scams Masquerade as Dream Companies and Friendly Recruiters | Karl Buhl | [Read More](https://medium.com/p/eae7b5412280) |
+| Wed, 05 Nov 2025 14:58:38 GMT | Why I Always Check for Hidden Reverse Shells on My Servers (And How You Can Too) | Faruk Ahmed | [Read More](https://medium.com/p/596cf6cfed54) |
+| Wed, 05 Nov 2025 14:57:08 GMT | SQL Fundamentals — Writeup | Mahir | [Read More](https://medium.com/p/1ed15971a3b8) |
+| Wed, 05 Nov 2025 14:56:58 GMT | SOC In Blue Team Walkthrough. Revamped TryHackMe. | Lintu Oommen | [Read More](https://medium.com/p/40de16b2e819) |
+| Wed, 05 Nov 2025 14:56:20 GMT | How Cloudflare Became My Personal Website’s Shield Against the Unknown | Frex Cuadillera | [Read More](https://medium.com/p/aee450205ba9) |
+| Wed, 05 Nov 2025 14:54:30 GMT | The Hidden Dangers of Low-Quality USB and Bluetooth Devices | Chanitha Gunasekera | [Read More](https://medium.com/p/d5c475a4f412) |
+| Wed, 05 Nov 2025 14:51:01 GMT | 4 Bash Commands that Should Never Be Run on Any Machine! | Rishabh Agarwal | [Read More](https://medium.com/p/2dc2f5ddb5ea) |
+| Wed, 05 Nov 2025 14:50:55 GMT | The Paradox of Paranoia: When Being Too Secure Becomes the Real Cyber Risk | Wathome Malinda | [Read More](https://medium.com/p/aef8b0437b3b) |
+| Wed, 05 Nov 2025 14:48:54 GMT | Security for Your WordPress Site | Israel Aráoz Severiche | [Read More](https://medium.com/p/5ab17ab10c44) |
+| Wed, 05 Nov 2025 14:48:01 GMT | Reverse Engineering NAGRA Tiger: A Methodological Journey | ftp21 | [Read More](https://medium.com/p/51e6c620c62f) |
 | Wed, 05 Nov 2025 14:42:45 GMT | What Happens in the First 24 Hours After a Data Breach? | Tech Journal | [Read More](https://medium.com/p/4b245e87f96e) |
 | Wed, 05 Nov 2025 14:38:26 GMT | Wi-Fi Ağlarına Yönelik Siber Saldırı Vektörleri | Alperkandemir | [Read More](https://medium.com/p/bdfa891d520e) |
 | Wed, 05 Nov 2025 14:34:38 GMT | Enhancing Safety with Remote Security Guards in Colorado Springs | Overwatch Technologies | [Read More](https://medium.com/p/035f7799cd6c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 10:00:51 GMT | The Password Graveyard: Where Your Secrets Never Die | Deepak Sharma | [Read More](https://medium.com/p/edb48a1c62fc) |
 | Wed, 05 Nov 2025 10:00:27 GMT | 5DataInc: Delivering Trusted Compatibility Testing Services for Modern Businesses | Achana prashanth | [Read More](https://medium.com/p/9e06fe09da3e) |
 | Wed, 05 Nov 2025 09:58:35 GMT | How I found tricky $$$$ Server-Side Request Forgery (SSRF) | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/96c5fb630acd) |
-| Wed, 05 Nov 2025 09:56:52 GMT | The Architect’s Complete Guide to Salesforce SSO — Advanced Scenarios & Complex Implementations… | Pedro Távora Santos | [Read More](https://medium.com/p/bdd1bade4bc7) |
-| Wed, 05 Nov 2025 09:55:10 GMT | The Next Phase of Africa’s Technology Evolution — And Why Techero Is Building the Backbone | Techero | [Read More](https://medium.com/p/46ec4565ffe1) |
-| Wed, 05 Nov 2025 09:52:09 GMT | Excel vs Google Sheets: Which One Is Better for You? | Technologia | [Read More](https://medium.com/p/7edd864235a6) |
-| Wed, 05 Nov 2025 09:51:02 GMT | Flag in Flame — How a Giant Log File Hid a Secret Image and a Flag | Saumya Srivastava | [Read More](https://medium.com/p/e5fe920e3e12) |
-| Wed, 05 Nov 2025 09:48:23 GMT | Multi Factor Authentication Cyber Security: Boost Your Defense Today | Techzonego | [Read More](https://medium.com/p/7d38197a4aa9) |
-| Wed, 05 Nov 2025 09:44:02 GMT | Streamlining IT Growth with Smart Staff Augmentation Service | Nataliakatin | [Read More](https://medium.com/p/9cf6a4f5f364) |
-| Wed, 05 Nov 2025 09:36:16 GMT | The Moment I Realized Linux Isn’t Hard, We’ve Just Been Using Computers Wrong | Fateyaly | [Read More](https://medium.com/p/a6cfd8f07e7b) |
-| Wed, 05 Nov 2025 09:33:38 GMT | ️ AWS IAM: Introduction, Users & Groups | Prutha_Dongre | [Read More](https://medium.com/p/3127ee123867) |
-| Wed, 05 Nov 2025 09:29:45 GMT | Building Smarter Teams with Expert IT Staffing Solutions | Nataliakatin | [Read More](https://medium.com/p/a64fcc6c91f4) |
-| Wed, 05 Nov 2025 09:25:20 GMT | iPhone XR Hidden Tricks That Instantly Boost Performance | Pimrada Thavorn | [Read More](https://medium.com/p/f66cf21d36ae) |
-| Wed, 05 Nov 2025 09:24:01 GMT | Today’s Top Cyber Intelligence Highlights — Nov 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/2eda9b2dbc8c) |
-| Wed, 05 Nov 2025 09:17:31 GMT | How a Coding Bootcamp Helped Me | 0xZerith | [Read More](https://medium.com/p/49d729e1f33c) |
-| Wed, 05 Nov 2025 09:16:00 GMT | Living Off the Land Attacks — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/3bcc197e077f) |
-| Wed, 05 Nov 2025 09:12:20 GMT | Cybersecurity Liability for Third-Party Vendor Breaches | vicky carol | [Read More](https://medium.com/p/e77fa656842e) |
