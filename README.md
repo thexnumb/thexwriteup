@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 19:36:20 GMT | Midnight Bounty: How I Found a QA Portal Exposed to the Internet and Got $2,500 Overnight | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/6413393b6cb7) |
+| Wed, 05 Nov 2025 19:15:43 GMT | CyberDefenders — TOCTOU Lab | jon | [Read More](https://medium.com/p/f753e4f26f4b) |
 | Wed, 05 Nov 2025 19:12:07 GMT | Top Deepfake Apps and How to Avoid Their Risks | Awais Khan | [Read More](https://medium.com/p/7dce821b1343) |
 | Wed, 05 Nov 2025 19:11:18 GMT | Microsoft Purview’de Veri Etiketleme: Hassas Bilgi Türleriyle Daha Güçlü Koruma | Kerimcan Ö. | [Read More](https://medium.com/p/4551c1c32138) |
 | Wed, 05 Nov 2025 18:56:33 GMT | Event Services: The Complete Guide to Creating Seamless, High-Impact Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/c24f41b0d39a) |
@@ -111,5 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 12:51:28 GMT | Konfigurasi Firewall dengan Iptables dan Fail2ban, serta melakukan Log Monitoring, Network… | Deska Zodanta | [Read More](https://medium.com/p/1acb144a0c7b) |
 | Wed, 05 Nov 2025 12:46:01 GMT | Corporate Absurdities: The Farce of Anti-Moonlighting Policies | Namir Sagheenanajar | [Read More](https://medium.com/p/f2f54949d8bd) |
 | Wed, 05 Nov 2025 12:44:20 GMT | API Integration in OSINT Operations | Nazrul Islam Rana | [Read More](https://medium.com/p/88e08d515c80) |
-| Wed, 05 Nov 2025 12:43:57 GMT | Hotel Security Procedures To Protect Your Patrons | Great Valley Lockshop | [Read More](https://medium.com/p/06f02d42ff3f) |
-| Wed, 05 Nov 2025 12:43:13 GMT | Hide & Seek for a Week | Emily Gibson | [Read More](https://medium.com/p/f7fe92b3f8cd) |
