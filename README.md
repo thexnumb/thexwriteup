@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 07:31:16 GMT | Key Reasons to Install an Access Control System on Your Premises | ukstandardblog | [Read More](https://medium.com/p/03df9db1e1d3) |
+| Wed, 05 Nov 2025 07:29:16 GMT | Mighty Hacker Recovery is a reliable option for those seeking assistance in recovering stolen USDT. | Betty Cream | [Read More](https://medium.com/p/b57d783563a7) |
+| Wed, 05 Nov 2025 07:28:04 GMT | Unattended - Complete TryHackMe Walkthrough | 0xRahul | [Read More](https://medium.com/p/02a710218dfe) |
+| Wed, 05 Nov 2025 07:27:30 GMT | Intro to Malware Analysis - Complete TryHackMe Walkthrough | 0xRahul | [Read More](https://medium.com/p/d1c7c58fec87) |
+| Wed, 05 Nov 2025 07:26:50 GMT | ประจำวันพุธที่ 5 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/fde3ccf89eca) |
+| Wed, 05 Nov 2025 07:25:26 GMT | Stealthy Recon: Master Passive Information Gathering for Pentesters Step-by-Step | Very Lazy Tech | [Read More](https://medium.com/p/166c6ee8d580) |
+| Wed, 05 Nov 2025 07:24:08 GMT | Very Vulnerable Management API - Writeup (Bahasa Indonesia) | Relaaxx | [Read More](https://medium.com/p/97b4b551a0a5) |
+| Wed, 05 Nov 2025 07:22:54 GMT | How to Evaluate Security Services in Haryana for Your Business | Lakshay Security | [Read More](https://medium.com/p/5f61d1e27c24) |
+| Wed, 05 Nov 2025 07:22:01 GMT | Security is one of the most important principles of a successful business. | Lakshay Security | [Read More](https://medium.com/p/fd1a698dd5e1) |
 | Wed, 05 Nov 2025 07:11:23 GMT | ‍♂️ Session Zombies: The Forgotten Refresh Tokens That Never Die | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a92b5def0a78) |
+| Wed, 05 Nov 2025 07:10:39 GMT | Advanced SpringBoot feature @Async annotation with @Sheduled annotation in SpringBoot | Yasif khan | [Read More](https://medium.com/p/164c61aaa5bb) |
 | Wed, 05 Nov 2025 07:07:54 GMT | Trivy: The X-Ray Vision for Your Containers and Code . | Dineth Sandakelum Herath | [Read More](https://medium.com/p/80f04ad84d1d) |
 | Wed, 05 Nov 2025 06:58:31 GMT | The Hidden Cost of IT Downtime (And How to Prevent It Before It Happens) | SignalAge | [Read More](https://medium.com/p/22d828b80d32) |
 | Wed, 05 Nov 2025 06:58:19 GMT | 5 Steps to Strengthen Your Cloud Security Posture | Digital Defense | [Read More](https://medium.com/p/e40738b9888f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 23:49:20 GMT | Promise — Reverse Engineering Challenge | H3XH7WK | [Read More](https://medium.com/p/e0f24df43eb4) |
 | Tue, 04 Nov 2025 23:39:20 GMT | Cracking the Chipotle Login: A Security Researcher’s Deep Dive into Account Brute Force and Bot… | Mandar Satam | [Read More](https://medium.com/p/96749b6b5393) |
 | Tue, 04 Nov 2025 23:09:38 GMT | Your Trusted Partner in GRC | Advanta Advisory | [Read More](https://medium.com/p/314f0b8870f4) |
-| Tue, 04 Nov 2025 23:01:38 GMT | Measures of Location and Dispersion | Gadeabhishekreddy | [Read More](https://medium.com/p/ea2cf34b4070) |
-| Tue, 04 Nov 2025 22:49:58 GMT | CVE–2025–25291: The SSO flaw that opens Terraform Enterprise to Account Takeover | Jacopo Bracaloni | [Read More](https://medium.com/p/761450bdb247) |
-| Tue, 04 Nov 2025 22:41:19 GMT | DeepBlueCLI for Triage and Log Analysis | Dany Christel | [Read More](https://medium.com/p/d3258b45037c) |
-| Tue, 04 Nov 2025 22:25:24 GMT | Beyond Cybersecurity: Why Cyber Resiliency is the Mindset Your Organization Needs | Sharaden Cole | [Read More](https://medium.com/p/43516970e593) |
-| Tue, 04 Nov 2025 22:25:09 GMT | How I Caught a Live Microsoft Login Scam Hiding Behind Google Redirects | Jagkter | [Read More](https://medium.com/p/c3310653f5fd) |
-| Tue, 04 Nov 2025 22:22:03 GMT | The Dead Internet — AI is Building a Fake Internet Just for You | ToxSec | [Read More](https://medium.com/p/acf8b430ebde) |
-| Tue, 04 Nov 2025 22:21:14 GMT | Understanding IT Frameworks vs. Cybersecurity Standards | Sharaden Cole | [Read More](https://medium.com/p/04f2e022b9dc) |
-| Tue, 04 Nov 2025 22:19:38 GMT | Human in the Loop: Before it’s Too Late | ToxSec | [Read More](https://medium.com/p/114643ee686c) |
-| Tue, 04 Nov 2025 22:17:55 GMT | 6 API Injection Attacks You’re Probably Not Testing For | Cyber-AppSec | [Read More](https://medium.com/p/3bafcb81a1f6) |
-| Tue, 04 Nov 2025 22:14:16 GMT | AI-Powered Phishing: You Will Fall for This | ToxSec | [Read More](https://medium.com/p/3a9c7711fcce) |
