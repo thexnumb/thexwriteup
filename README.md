@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 03:43:53 GMT | h4cked — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/72de628a99a0) |
+| Wed, 05 Nov 2025 03:36:16 GMT | The Silent Collapse of Data Privacy: Why Control in the Age of Surveillance Capitalism Is an… | Aditya Suryawanshi | [Read More](https://medium.com/p/2499c63a1e5d) |
+| Wed, 05 Nov 2025 03:32:24 GMT | AI in the Wrong Hands: How Cybercriminals Are Weaponizing Claude | Deven Chhajed | [Read More](https://medium.com/p/9635ae5b3c84) |
+| Wed, 05 Nov 2025 03:32:23 GMT | 10 Key Tips for Implementing OWASP Top 10 in Node.js | Arunangshu Das | [Read More](https://medium.com/p/7457d2ac2665) |
+| Wed, 05 Nov 2025 03:17:51 GMT | Cybersecurity Vendors and Hackers Share One Thing in Common | Timsux Wales | [Read More](https://medium.com/p/1350c0d831cb) |
+| Wed, 05 Nov 2025 03:14:21 GMT | The Cost of Emotional Honesty | Arushi Sharma | [Read More](https://medium.com/p/2a4658d96f74) |
+| Wed, 05 Nov 2025 03:10:30 GMT | Plotted-TMS (Tryhackme writeup) | CO0L7 | [Read More](https://medium.com/p/1aa40aac7fee) |
+| Wed, 05 Nov 2025 03:10:21 GMT | Outsourced vs In-House Cybersecurity: How to Make the Right Choice | Blackbird IT | [Read More](https://medium.com/p/fe927c391c6c) |
 | Wed, 05 Nov 2025 03:02:04 GMT | ️ The Art of Digital Trust: Understanding PCI DSS Compliance | Ruturaj Jarag | [Read More](https://medium.com/p/86a8f4d8e1af) |
 | Wed, 05 Nov 2025 03:02:00 GMT | Cyber Briefing: 2025.11.04 | CyberMaterial | [Read More](https://medium.com/p/944e698e5923) |
 | Wed, 05 Nov 2025 02:58:37 GMT | The Evolution of Hash Functions: From MD5 to Modern Security | Thuong To | [Read More](https://medium.com/p/b86ce531afce) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 18:06:41 GMT | Regen info tech creates regenerative economics | Erik Kvam | [Read More](https://medium.com/p/1bc43452d536) |
 | Tue, 04 Nov 2025 18:06:11 GMT | AI-assisted Offensive: How AI Is Changing Red Teaming, Adversary Emulation, and Responsible… | Monu Jangra | [Read More](https://medium.com/p/159f07007427) |
 | Tue, 04 Nov 2025 18:04:36 GMT | How They Find You Online, And How to Vanish with 60 Lines of Python | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/c576704b7d59) |
-| Tue, 04 Nov 2025 18:01:57 GMT | PicoCTF Writeup — Glitch Cat | SoBatista | [Read More](https://medium.com/p/54d276ef0bfb) |
-| Tue, 04 Nov 2025 18:01:56 GMT | No, I dont have a gun. | Rodrigo S Michelin | [Read More](https://medium.com/p/066a29b63dc2) |
-| Tue, 04 Nov 2025 18:01:23 GMT | The AI Capital Cycle and Small Business Strategy | David Daniel | [Read More](https://medium.com/p/099011806d13) |
-| Tue, 04 Nov 2025 17:54:10 GMT | The Missing MCP Playbook: Deploying Custom Agents on Claude.ai and Claude Mobile | George Vetticaden | [Read More](https://medium.com/p/05274f60a970) |
-| Tue, 04 Nov 2025 17:49:44 GMT | From Vulnerable to Production-Ready: A Real-World Security Hardening Journey | Adamschulte | [Read More](https://medium.com/p/190b7745c360) |
-| Tue, 04 Nov 2025 17:35:16 GMT | The Google Data Leak: Google responds to claim of millions of G-mail Passwords leaked | Himanshu Bhatt | [Read More](https://medium.com/p/4d0d65036ca7) |
-| Tue, 04 Nov 2025 17:34:26 GMT | The Most Common Medium Severity Bug Found In Almost Every Website | Rehan Sohail | [Read More](https://medium.com/p/b0d0649dd739) |
-| Tue, 04 Nov 2025 17:32:44 GMT | The Digital Vault | H3XH7WK | [Read More](https://medium.com/p/a4885ba41f8f) |
