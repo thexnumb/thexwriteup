@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 22:31:44 GMT | Shadow Dominion Tool: The Stealth Reporting Power That Challenges TikTok! | Sami Khatatba | [Read More](https://medium.com/p/13b00948ee66) |
+| Wed, 05 Nov 2025 22:29:17 GMT | Navigating FedRAMP: Understanding the Journey Before You Begin | Rachid Abadli | [Read More](https://medium.com/p/64c2c6762c3b) |
+| Wed, 05 Nov 2025 22:21:08 GMT | IITG Left Student Data on a Platter — I Told Them. They Ignored. | Aviral Srivastava | [Read More](https://medium.com/p/cbf02707dbd0) |
 | Wed, 05 Nov 2025 22:06:24 GMT | When Truth Became Editable: The Rise of Deepfakes and the War on Reality | Jessica Malini | [Read More](https://medium.com/p/35959c6037a1) |
 | Wed, 05 Nov 2025 21:53:57 GMT | Global Ransomware Raid: What It Means for the Darkweb Now | Tor BBB | [Read More](https://medium.com/p/dfa9e0bb927e) |
 | Wed, 05 Nov 2025 21:53:51 GMT | These Are the Cyber Risks That Worry Me Most in 2025 | Fook Hwa Tan | [Read More](https://medium.com/p/a6955e1b901d) |
@@ -110,6 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 14:57:08 GMT | SQL Fundamentals — Writeup | Mahir | [Read More](https://medium.com/p/1ed15971a3b8) |
 | Wed, 05 Nov 2025 14:56:58 GMT | SOC In Blue Team Walkthrough. Revamped TryHackMe. | Lintu Oommen | [Read More](https://medium.com/p/40de16b2e819) |
 | Wed, 05 Nov 2025 14:56:20 GMT | How Cloudflare Became My Personal Website’s Shield Against the Unknown | Frex Cuadillera | [Read More](https://medium.com/p/aee450205ba9) |
-| Wed, 05 Nov 2025 14:54:30 GMT | The Hidden Dangers of Low-Quality USB and Bluetooth Devices | Chanitha Gunasekera | [Read More](https://medium.com/p/d5c475a4f412) |
-| Wed, 05 Nov 2025 14:51:01 GMT | 4 Bash Commands that Should Never Be Run on Any Machine! | Rishabh Agarwal | [Read More](https://medium.com/p/2dc2f5ddb5ea) |
-| Wed, 05 Nov 2025 14:50:55 GMT | The Paradox of Paranoia: When Being Too Secure Becomes the Real Cyber Risk | Wathome Malinda | [Read More](https://medium.com/p/aef8b0437b3b) |
