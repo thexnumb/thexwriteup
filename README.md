@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 05:31:01 GMT | DNS Part 2 | Kiran Naragam | [Read More](https://medium.com/p/eaf1e132d1a9) |
+| Wed, 05 Nov 2025 05:28:51 GMT | From XP to Windows 11: The Evolution of an Operating System That Changed Everything | Salimassili | [Read More](https://medium.com/p/79dbd1d2da68) |
+| Wed, 05 Nov 2025 05:26:48 GMT | John Star the Barrister: Justice, Integrity, and the Voice of the People | Ghost Of Spartans — Everything Music, Tech & Trend | [Read More](https://medium.com/p/9c72b4ca270f) |
+| Wed, 05 Nov 2025 05:22:53 GMT | Meta bug bounty — One Last Spark AR RCE | Fady Othman | [Read More](https://medium.com/p/343174b628cd) |
 | Wed, 05 Nov 2025 05:15:39 GMT | Cyber security and Data Science With the Need of Modern Era | Rana waqas | [Read More](https://medium.com/p/d63be5b25b55) |
 | Wed, 05 Nov 2025 05:15:06 GMT | Best Cybersecurity Services in Delaware: Complete Guide for 2025 | NMT Security | [Read More](https://medium.com/p/da41f17696ca) |
 | Wed, 05 Nov 2025 05:14:37 GMT | The Invisible War: Why Cybersecurity Is Everyone’s Responsibility in the Digital Ag | Chanitha Gunasekera | [Read More](https://medium.com/p/20fc4355606b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 19:26:45 GMT | From PDF to Problem | Ruben Croes | [Read More](https://medium.com/p/75f7d2bb54cf) |
 | Tue, 04 Nov 2025 19:21:57 GMT | Ransomware 101: How These Digital Muggers Work and Why Backup is Your Best Shield ️ | Furkanctiner | [Read More](https://medium.com/p/2fa5d00bd165) |
 | Tue, 04 Nov 2025 19:07:34 GMT | How my blog getting featured at CloudSek website…? | Sai Jayanth | [Read More](https://medium.com/p/f2d938223a6c) |
-| Tue, 04 Nov 2025 19:05:01 GMT | TYKIT: The Stealthy Phishing Kit That Turns Images Into Credential Traps | Jon C | [Read More](https://medium.com/p/b9a1e87badbc) |
-| Tue, 04 Nov 2025 19:04:52 GMT | Data Loss Prevention (DLP) | Red_Ghost | [Read More](https://medium.com/p/bad902d9ee04) |
-| Tue, 04 Nov 2025 19:03:27 GMT | The Key Phone Setting That Reveals Your Location | The Online Safety Zone | [Read More](https://medium.com/p/2c7e64a34c81) |
-| Tue, 04 Nov 2025 19:01:01 GMT | Shadow Agentic AI: A Growing Blind Spot for CISOs | Graylog | [Read More](https://medium.com/p/4ca42e2ada6d) |
