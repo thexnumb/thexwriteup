@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 20:36:50 GMT | The Power of Risk | She Writes Chaos | [Read More](https://medium.com/p/ae977c5ca674) |
+| Wed, 05 Nov 2025 20:23:51 GMT | Pollard’s Rho for Solving Discrete Logarithms | Declan | [Read More](https://medium.com/p/6767981ad39b) |
 | Wed, 05 Nov 2025 20:01:49 GMT | When Truth Has No Audience | Anantadev das | [Read More](https://medium.com/p/f59a71bb9885) |
 | Wed, 05 Nov 2025 19:50:59 GMT | Embedding Security Testing Across the SDLC | thedevsecopshandbook | [Read More](https://medium.com/p/32d2e6d8d7b8) |
 | Wed, 05 Nov 2025 19:44:34 GMT | The Louvre Password Leak: A Reminder of Why Cybersecurity Still Matters | mustafabakla | [Read More](https://medium.com/p/3c3ad7d89b3e) |
@@ -111,5 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 13:37:25 GMT | ISO 27001 Gap Analysis: Unlock Your Path to Compliance with Axipro | Axipro | [Read More](https://medium.com/p/eb1b6f3c858b) |
 | Wed, 05 Nov 2025 13:27:56 GMT | Mitigating Risks from Rogue Employee Accounts and Insider Threats | Ai Writter Tools | [Read More](https://medium.com/p/2b3b59937054) |
 | Wed, 05 Nov 2025 13:26:52 GMT | Changing Any User’s Profile Picture To Account Takeover | NOOBIEx404 | [Read More](https://medium.com/p/d7509dd53d7b) |
-| Wed, 05 Nov 2025 13:16:56 GMT | Defending Supply Chains from Cyber Infiltration | Ai Writter Tools | [Read More](https://medium.com/p/175487e9df54) |
-| Wed, 05 Nov 2025 13:13:56 GMT | Emerging Trends and Technologies to Watch | aryanshinde | [Read More](https://medium.com/p/00ae8e6f1768) |
