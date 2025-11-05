@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 16:52:32 GMT | Hi everyone,
+We’re facing a persistent issue with root detection bypass in our Android application… | vishwanath singh | [Read More](https://medium.com/p/6439ae019088) |
+| Wed, 05 Nov 2025 16:40:08 GMT | Deploying and Managing a Multi-Instance CTF Infrastructure on AWS | Ranen Joseph Solomon | [Read More](https://medium.com/p/23dbea7ec419) |
 | Wed, 05 Nov 2025 16:24:03 GMT | Understanding HTTP: The Backbone of the Web | Arfi Tutorials | [Read More](https://medium.com/p/a948e8c7d6ba) |
+| Wed, 05 Nov 2025 16:18:04 GMT | Should you know about HMAC-SHA256 for Webhooks? | Nagarjun (Arjun) Nagesh | [Read More](https://medium.com/p/e66b70ba98a9) |
 | Wed, 05 Nov 2025 16:15:09 GMT | The Dangerous Comfort of Public Wi-Fi and What It Is Really Costing You | Miguel Gonzalez | [Read More](https://medium.com/p/ef20ef0e4748) |
 | Wed, 05 Nov 2025 16:12:49 GMT | Ransomware Is Now a Personal Threat and Most People Are Not Ready | Miguel Gonzalez | [Read More](https://medium.com/p/c86cc7400593) |
 | Wed, 05 Nov 2025 16:05:38 GMT | AI vs. Zero-Day Attacks: How Machine Learning Detects the Unknown | Gopi Sri | [Read More](https://medium.com/p/f11e33b21da0) |
@@ -109,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 10:44:45 GMT | SSI - Part 1: Understanding the fundamental problem with digital identity today and the paradigm… | Ishan Karunanayake | [Read More](https://medium.com/p/723db2048d38) |
 | Wed, 05 Nov 2025 10:44:10 GMT | “Android Just Got Hacked”— Stop What You Are Doing | Prayers Khristi | [Read More](https://medium.com/p/a9d076a17100) |
 | Wed, 05 Nov 2025 10:40:03 GMT | 4 Outils Essentiels pour Traquer les Menaces (IoC) en Cybersécurité | Djibril Ndiaye | [Read More](https://medium.com/p/a3ffb5ea13da) |
-| Wed, 05 Nov 2025 10:38:57 GMT | The $37 Billion Problem: Uncovering the Hidden Cost of Queues and How a Kiosk Machine Solves It | Rakesh | [Read More](https://medium.com/p/502eb10fe5b5) |
-| Wed, 05 Nov 2025 10:38:48 GMT | When Silence Means Safety: My First Steps Inside a SOC | Sarigasaseendran | [Read More](https://medium.com/p/5595e4675f29) |
-| Wed, 05 Nov 2025 10:38:32 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/e6054c959a0c) |
