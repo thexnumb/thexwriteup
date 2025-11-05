@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 17:22:37 GMT | High-Resolution File Uploads for Print Production and How to Optimize Images for Web and Print | Idera Dev Tools | [Read More](https://medium.com/p/022d9ad79cce) |
+| Wed, 05 Nov 2025 17:21:32 GMT | The Windows Forensic Journey — Wifi.etl | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/de4107b8cf7c) |
+| Wed, 05 Nov 2025 17:16:59 GMT | The Unsung Art of Excavating Legacy Code | Numan Nadeem | [Read More](https://medium.com/p/59ede616e78b) |
 | Wed, 05 Nov 2025 17:10:28 GMT | How I got access to an IDOR that exposed PII for 6.4 million users | Dedrknex | [Read More](https://medium.com/p/cabb15961bfa) |
 | Wed, 05 Nov 2025 17:08:44 GMT | Race condition allows bypassing stored family members limit in online store website— able to add… | Ahmed Talaat | [Read More](https://medium.com/p/b3c40cfd4d0a) |
 | Wed, 05 Nov 2025 17:06:32 GMT | Understanding Security Logging and Monitoring Failures: The Silent Weakness in Modern Cyber Defense | CyberSenpai | [Read More](https://medium.com/p/02d707dbb785) |
@@ -110,6 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 11:16:27 GMT | Getting Started with grep in Linux (Day 7 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/ccbd48f6b8d5) |
 | Wed, 05 Nov 2025 11:16:11 GMT | 5G Security Concerns: What the Speed Upgrade Really Means | Tech Journal | [Read More](https://medium.com/p/59ebdcb19ec3) |
 | Wed, 05 Nov 2025 11:15:19 GMT | Kali Linux Command Reference Sheet | 0b1d1 | [Read More](https://medium.com/p/839362b0e928) |
-| Wed, 05 Nov 2025 11:12:20 GMT | IT-Nearshoring: Definition, Potenziale und strategische Umsetzung | Thomas Faß | [Read More](https://medium.com/p/272bd8f04788) |
-| Wed, 05 Nov 2025 11:09:38 GMT | Mapping TLS 1.3 Adoption Across Azure Services: What’s Ready & What’s Not | Loginsoft | [Read More](https://medium.com/p/0e0cb28da9d3) |
-| Wed, 05 Nov 2025 10:57:37 GMT | Why Every Organization Needs a Reliable Vendor Credentialing Service and Visitor Screening Program | Green Security | [Read More](https://medium.com/p/7cd9ed71e8f8) |
