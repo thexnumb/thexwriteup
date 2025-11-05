@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 14:12:04 GMT | To Hack or Not to Hack: The Unholy Trinity of Malware | Furkanctiner | [Read More](https://medium.com/p/26cdc4561e25) |
+| Wed, 05 Nov 2025 14:02:19 GMT | When Bad AI Architecture Becomes a Security Incident: The Obsidian Support Case | Nwosu Rosemary | [Read More](https://medium.com/p/0fa22ba72a90) |
+| Wed, 05 Nov 2025 14:02:18 GMT | AI Rollout Meets Policy Roadblocks: A New Source of Systemic Risk? | Pareto Technologies | [Read More](https://medium.com/p/ce26c74a7c9f) |
+| Wed, 05 Nov 2025 14:00:25 GMT | Footprinting: Open SMB Share on HTB: flag retrieved, domain leaky, and the production risk behind a… | Laura Trafford | [Read More](https://medium.com/p/9174356fb801) |
+| Wed, 05 Nov 2025 13:58:25 GMT | Batch Downloader(LetsDefend) | Brandon Love | [Read More](https://medium.com/p/63cf273737aa) |
+| Wed, 05 Nov 2025 13:53:03 GMT | Harnessing Artificial Intelligence for Next-Generation Network Security | Dhairyap Singh | [Read More](https://medium.com/p/77277744745c) |
+| Wed, 05 Nov 2025 13:37:25 GMT | ISO 27001 Gap Analysis: Unlock Your Path to Compliance with Axipro | Axipro | [Read More](https://medium.com/p/eb1b6f3c858b) |
+| Wed, 05 Nov 2025 13:27:56 GMT | Mitigating Risks from Rogue Employee Accounts and Insider Threats | Ai Writter Tools | [Read More](https://medium.com/p/2b3b59937054) |
 | Wed, 05 Nov 2025 13:26:52 GMT | Changing Any User’s Profile Picture To Account Takeover | NOOBIEx404 | [Read More](https://medium.com/p/d7509dd53d7b) |
 | Wed, 05 Nov 2025 13:16:56 GMT | Defending Supply Chains from Cyber Infiltration | Ai Writter Tools | [Read More](https://medium.com/p/175487e9df54) |
 | Wed, 05 Nov 2025 13:13:56 GMT | Emerging Trends and Technologies to Watch | aryanshinde | [Read More](https://medium.com/p/00ae8e6f1768) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 08:06:54 GMT | Windows 11 Security Features You Should Enable! | Bostamimahmud | [Read More](https://medium.com/p/7bbf6cef7c24) |
 | Wed, 05 Nov 2025 08:04:15 GMT | Unexpected iPhone 11 Pro Max Features That Feel Like Magic | Chloe White | [Read More](https://medium.com/p/1315a44d3bc1) |
 | Wed, 05 Nov 2025 08:01:57 GMT | Part I — Vault Chronicles: Namespaces | Raymon Epping | [Read More](https://medium.com/p/499f97bae988) |
-| Wed, 05 Nov 2025 08:01:57 GMT | [Part 12] AI vs Ransomware: Can Machine Learning Really Stop the Next Big Attack? | Cyberkech | [Read More](https://medium.com/p/9f08e02ae25b) |
-| Wed, 05 Nov 2025 07:58:59 GMT | Microsoft Teams Vulnerabilities: Attackers Can Impersonate Colleagues and Edit Messages Without… | Germano Costi | [Read More](https://medium.com/p/21f434db7b83) |
-| Wed, 05 Nov 2025 07:56:57 GMT | How to Choose a CCTV Monitoring Company | Global CCTV Monitoring Services | [Read More](https://medium.com/p/b71b4024bdc0) |
-| Wed, 05 Nov 2025 07:55:29 GMT | How Scammers Use Medium to Target Writers… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/8b1d1029bb28) |
-| Wed, 05 Nov 2025 07:48:17 GMT | Fear, Wake-Up Call, and the Future of Nigerian Security | Dennis Seikepagha | [Read More](https://medium.com/p/64c593eb3591) |
-| Wed, 05 Nov 2025 07:48:03 GMT | Broken User Authentication in Modern APIs: A Technical Deep Dive | Jei Ess | [Read More](https://medium.com/p/197cb1d89aec) |
-| Wed, 05 Nov 2025 07:46:42 GMT | What Is ISO 27001 — And Why Senior Management Should Care | Fook Hwa Tan | [Read More](https://medium.com/p/3434fb18c9e1) |
-| Wed, 05 Nov 2025 07:41:55 GMT | AuthZilla, Rethinking Authorization For The Modern Era | Criteo R&D | [Read More](https://medium.com/p/40423fb3f33c) |
