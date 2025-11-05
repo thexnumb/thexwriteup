@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 19:12:07 GMT | Top Deepfake Apps and How to Avoid Their Risks | Awais Khan | [Read More](https://medium.com/p/7dce821b1343) |
+| Wed, 05 Nov 2025 19:11:18 GMT | Microsoft Purview’de Veri Etiketleme: Hassas Bilgi Türleriyle Daha Güçlü Koruma | Kerimcan Ö. | [Read More](https://medium.com/p/4551c1c32138) |
+| Wed, 05 Nov 2025 18:56:33 GMT | Event Services: The Complete Guide to Creating Seamless, High-Impact Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/c24f41b0d39a) |
+| Wed, 05 Nov 2025 18:56:09 GMT | 164 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/90ab42c23087) |
+| Wed, 05 Nov 2025 18:41:50 GMT | Random digits | Karl Tame | [Read More](https://medium.com/p/17ad8b12d117) |
+| Wed, 05 Nov 2025 18:41:41 GMT | Alert Triage With Elastic Tryhackme Walkthrough | Jawstar | [Read More](https://medium.com/p/443de7935003) |
+| Wed, 05 Nov 2025 18:38:40 GMT | Common Attacks: An Offensive Mindset for New Pentesters | David Ajuzie | [Read More](https://medium.com/p/704869140e8f) |
+| Wed, 05 Nov 2025 18:38:06 GMT | How to bypass UAC in Windows Operating System? (Part — 01) | Sachin Sir | [Read More](https://medium.com/p/11b72c3e06fa) |
+| Wed, 05 Nov 2025 18:35:37 GMT | What I’ve Been Learning About Security Recruiting — in Plain English | LaJuan Grier/ Juannilicious | [Read More](https://medium.com/p/ea8549fe4b73) |
 | Wed, 05 Nov 2025 18:19:42 GMT | Upstyle Backdoor (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/7513e41cd145) |
 | Wed, 05 Nov 2025 18:16:51 GMT | Have You Ever Been Defrauded by Hackerone? You May Be Entitled To A Large Cash Settlement! | Justas_b | [Read More](https://medium.com/p/c3a1876ac2fa) |
 | Wed, 05 Nov 2025 18:08:41 GMT | BUG BOUNTY — ÖDÜL AVCILIĞI | Ahmet ŞAHİN | [Read More](https://medium.com/p/7ef15c8aa948) |
@@ -104,12 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 12:44:20 GMT | API Integration in OSINT Operations | Nazrul Islam Rana | [Read More](https://medium.com/p/88e08d515c80) |
 | Wed, 05 Nov 2025 12:43:57 GMT | Hotel Security Procedures To Protect Your Patrons | Great Valley Lockshop | [Read More](https://medium.com/p/06f02d42ff3f) |
 | Wed, 05 Nov 2025 12:43:13 GMT | Hide & Seek for a Week | Emily Gibson | [Read More](https://medium.com/p/f7fe92b3f8cd) |
-| Wed, 05 Nov 2025 12:42:46 GMT | How I Hacked Bank’s Admin Portal | Athul MS | [Read More](https://medium.com/p/11c1233c4938) |
-| Wed, 05 Nov 2025 12:42:06 GMT | JavaScript Essentials — Writeup | Mahir | [Read More](https://medium.com/p/8828c10665e4) |
-| Wed, 05 Nov 2025 12:40:19 GMT | Snort Challenge — The Basics Write-Up | Citadel Cybersec | [Read More](https://medium.com/p/aac54a0011f6) |
-| Wed, 05 Nov 2025 12:32:08 GMT | Open Source Under Siege | Nexumo | [Read More](https://medium.com/p/f222f5bce901) |
-| Wed, 05 Nov 2025 12:32:06 GMT | Salvation for Nigerian Saints or Washington’s strategy against China? | Busayo James-Olufade | [Read More](https://medium.com/p/0945157eb552) |
-| Wed, 05 Nov 2025 12:30:10 GMT | Why GCCs Are Betting on Next-Gen GBS for Strategic Advantage | IMS Global Business Solutions | [Read More](https://medium.com/p/d7be4f3843c6) |
-| Wed, 05 Nov 2025 12:28:04 GMT | Why A Strategic IT Partnership Matters More Than Ever | Doherty Associates | [Read More](https://medium.com/p/8760997b0b85) |
-| Wed, 05 Nov 2025 12:20:50 GMT | Top Managed Data Center Services Provider in India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/1d5f46b6cfe8) |
-| Wed, 05 Nov 2025 12:18:23 GMT | The Ghost of Professional Shame | Andy Tillman UK | [Read More](https://medium.com/p/425c2a1e09d3) |
