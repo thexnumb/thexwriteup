@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 01:41:23 GMT | How I Turned a Page Leak into a Post-Exploitation Report — Lessons for Defenders | Vivektumma27 | [Read More](https://medium.com/p/fc29ea8fdd8f) |
+| Wed, 05 Nov 2025 01:30:35 GMT | Can Blockchain Survive the Quantum Era? | Bobby Andrews | [Read More](https://medium.com/p/5fdadfa145bf) |
+| Wed, 05 Nov 2025 01:28:38 GMT | The End of Windows 10 and The Surge of Linux Users | Sam Writes Security | [Read More](https://medium.com/p/21960c97723d) |
+| Wed, 05 Nov 2025 01:25:15 GMT | Integrating Cloud-Hosted Wazuh with On-Premise Splunk: Part 1 — The Secure Approach | Raynard Waits | [Read More](https://medium.com/p/7695dd54bc86) |
+| Wed, 05 Nov 2025 01:24:15 GMT | The Vanishing Signal | H3XH7WK | [Read More](https://medium.com/p/13fb284f0ad9) |
+| Wed, 05 Nov 2025 01:01:26 GMT | Hackviser — Cryptanalysis walkthrough | Mukilan Baskaran | [Read More](https://medium.com/p/19b291173d00) |
+| Wed, 05 Nov 2025 00:55:04 GMT | Intro to Cyber Threat Intel - THM | Isiah | [Read More](https://medium.com/p/5d11799fd5eb) |
+| Wed, 05 Nov 2025 00:45:50 GMT | Building the Logic | Shantaciak | [Read More](https://medium.com/p/7100721fc5c1) |
+| Wed, 05 Nov 2025 00:31:59 GMT | HackTheBox Hunting with Elastic: Skills Assessment | Cybersecurity Simplified | [Read More](https://medium.com/p/a1783584a31f) |
+| Wed, 05 Nov 2025 00:28:53 GMT | Is a Cybersecurity Career Right for You in 2025? The No-BS Guide to Breaking In | Transfotech Academy | [Read More](https://medium.com/p/8f5e0aec00bd) |
+| Wed, 05 Nov 2025 00:07:18 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 2 Türkçe | Huseyin KALKAN | [Read More](https://medium.com/p/7b5ab3bc79d4) |
+| Wed, 05 Nov 2025 00:01:57 GMT | Advanced Guide to Penetration Testing in APIs (Part 1) OWASP Top 10 Mapping and Recognition Phases | JPablo13 | [Read More](https://medium.com/p/83f96ccc222e) |
+| Tue, 04 Nov 2025 23:49:20 GMT | Promise — Reverse Engineering Challenge | H3XH7WK | [Read More](https://medium.com/p/e0f24df43eb4) |
+| Tue, 04 Nov 2025 23:39:20 GMT | Cracking the Chipotle Login: A Security Researcher’s Deep Dive into Account Brute Force and Bot… | Mandar Satam | [Read More](https://medium.com/p/96749b6b5393) |
 | Tue, 04 Nov 2025 23:09:38 GMT | Your Trusted Partner in GRC | Advanta Advisory | [Read More](https://medium.com/p/314f0b8870f4) |
 | Tue, 04 Nov 2025 23:01:38 GMT | Measures of Location and Dispersion | Gadeabhishekreddy | [Read More](https://medium.com/p/ea2cf34b4070) |
 | Tue, 04 Nov 2025 22:49:58 GMT | CVE–2025–25291: The SSO flaw that opens Terraform Enterprise to Account Takeover | Jacopo Bracaloni | [Read More](https://medium.com/p/761450bdb247) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 16:32:03 GMT | When Your Phone Vanishes: Why Most People Have No Plan | Cyberberri | [Read More](https://medium.com/p/7b536551cb0f) |
 | Tue, 04 Nov 2025 16:23:29 GMT | College IT Project Guide | Samuel Lalhriatpuia | [Read More](https://medium.com/p/0daead751388) |
 | Tue, 04 Nov 2025 16:21:52 GMT | Digital Investigations in Modern Litigation: How Cyber Intelligence Is Transforming Legal Strategy | Hartley Paralegal, LLC | [Read More](https://medium.com/p/7460a36173a2) |
-| Tue, 04 Nov 2025 16:18:53 GMT | Stop Drowning in Active Directory — My Ultimate AD Notes Are Here | Vishal Sharma | [Read More](https://medium.com/p/28b6276e9008) |
-| Tue, 04 Nov 2025 16:17:40 GMT | Thought 1 | Jordan Wright | [Read More](https://medium.com/p/137aa12c10b6) |
-| Tue, 04 Nov 2025 16:15:18 GMT | The Questions Your CEO Really Needs Answered About Critical Applications | Fabien Soulis | [Read More](https://medium.com/p/83dd85c8ad93) |
-| Tue, 04 Nov 2025 16:14:03 GMT | Penetration Testing MindMarket: A Deep Dive into Web Application Security | Balogun Ayomide | [Read More](https://medium.com/p/4418562d98bf) |
-| Tue, 04 Nov 2025 16:00:20 GMT | Back Again [Rework v0.8] | Simth | [Read More](https://medium.com/p/09dfc58453be) |
-| Tue, 04 Nov 2025 16:00:15 GMT | Lo-Fi Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/25dbcd622688) |
-| Tue, 04 Nov 2025 15:57:46 GMT | From Reactive to Predictive: How AI Is Reinventing Cybersecurity in 2025 | Co-Ventech | [Read More](https://medium.com/p/3c0467df8b72) |
-| Tue, 04 Nov 2025 15:55:01 GMT | Who’s surfing the internet, you or your browser? | Enrique Dans | [Read More](https://medium.com/p/065894bb75eb) |
-| Tue, 04 Nov 2025 15:53:30 GMT | Engineering the Risk: Turning Frameworks into Mission Assurance | Peter Hillier/Halton | [Read More](https://medium.com/p/02e5a35413fa) |
-| Tue, 04 Nov 2025 15:51:44 GMT | 10 Linux Security Tricks I Wish I Knew Before My First Hack | Ashish Singh | [Read More](https://medium.com/p/fd0a254debe3) |
-| Tue, 04 Nov 2025 15:48:27 GMT | Managed IT Services for Mission-Driven Work: Signs Your Nonprofit or Small Business Can’t Afford to… | Paradise technologies Inc | [Read More](https://medium.com/p/f335f75c540f) |
-| Tue, 04 Nov 2025 15:48:16 GMT | How to Safely Explore the Dark Web on Your iPhone | Tsumit | [Read More](https://medium.com/p/72bdde43dfec) |
-| Tue, 04 Nov 2025 15:46:23 GMT | Will UNC5221 pop a fresh zero-day before Dec 31? Updated! | Wes Young | [Read More](https://medium.com/p/b8ccd0f2f1ae) |
-| Tue, 04 Nov 2025 15:45:21 GMT | The Warning Signs I Didn’t Understand (January 2024) | Krystal | [Read More](https://medium.com/p/0d5b6e7c7bc5) |
