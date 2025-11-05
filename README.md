@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 09:36:16 GMT | The Moment I Realized Linux Isn’t Hard, We’ve Just Been Using Computers Wrong | Fateyaly | [Read More](https://medium.com/p/a6cfd8f07e7b) |
+| Wed, 05 Nov 2025 09:33:38 GMT | ️ AWS IAM: Introduction, Users & Groups | Prutha_Dongre | [Read More](https://medium.com/p/3127ee123867) |
+| Wed, 05 Nov 2025 09:29:45 GMT | Building Smarter Teams with Expert IT Staffing Solutions | Nataliakatin | [Read More](https://medium.com/p/a64fcc6c91f4) |
+| Wed, 05 Nov 2025 09:25:20 GMT | iPhone XR Hidden Tricks That Instantly Boost Performance | Pimrada Thavorn | [Read More](https://medium.com/p/f66cf21d36ae) |
+| Wed, 05 Nov 2025 09:24:01 GMT | Today’s Top Cyber Intelligence Highlights — Nov 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/2eda9b2dbc8c) |
 | Wed, 05 Nov 2025 09:17:31 GMT | How a Coding Bootcamp Helped Me | 0xZerith | [Read More](https://medium.com/p/49d729e1f33c) |
 | Wed, 05 Nov 2025 09:16:00 GMT | Living Off the Land Attacks — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/3bcc197e077f) |
 | Wed, 05 Nov 2025 09:12:20 GMT | Cybersecurity Liability for Third-Party Vendor Breaches | vicky carol | [Read More](https://medium.com/p/e77fa656842e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 02:52:47 GMT | HTB — Dancing | Lautaro Robayna | [Read More](https://medium.com/p/878ee534cbfb) |
 | Wed, 05 Nov 2025 02:52:02 GMT | Wazuh dashboard server is not ready yet | Haldian | [Read More](https://medium.com/p/4c78dbff7dc9) |
 | Wed, 05 Nov 2025 02:48:14 GMT | Weekly Threat Intelligence Report 4 Nov 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/9d72567c6ad5) |
-| Wed, 05 Nov 2025 02:43:57 GMT | How Authentication actually works??? | Vivek | [Read More](https://medium.com/p/db6585b5d953) |
-| Wed, 05 Nov 2025 02:40:14 GMT | WHAT EXACTLY IS A MOONSHOT IDEA? -THE ORIGIN | Adedoyin itunu | [Read More](https://medium.com/p/822936af0480) |
-| Wed, 05 Nov 2025 02:24:47 GMT | The Evolution of CAPTCHA in 2025: Striking the Balance Between Usability and Security | Onkar Shirke | [Read More](https://medium.com/p/691a382518d0) |
-| Wed, 05 Nov 2025 02:21:59 GMT | College adventure #2: computer cluster with Linux | Reinaldo Freitas | [Read More](https://medium.com/p/918efb1b5845) |
-| Wed, 05 Nov 2025 02:16:28 GMT | Social Engineering Deep Dive: The Art of Human Hacking | Ddude | [Read More](https://medium.com/p/df7406a0a9d5) |
