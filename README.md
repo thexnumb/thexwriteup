@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 20:01:49 GMT | When Truth Has No Audience | Anantadev das | [Read More](https://medium.com/p/f59a71bb9885) |
+| Wed, 05 Nov 2025 19:50:59 GMT | Embedding Security Testing Across the SDLC | thedevsecopshandbook | [Read More](https://medium.com/p/32d2e6d8d7b8) |
+| Wed, 05 Nov 2025 19:44:34 GMT | The Louvre Password Leak: A Reminder of Why Cybersecurity Still Matters | mustafabakla | [Read More](https://medium.com/p/3c3ad7d89b3e) |
+| Wed, 05 Nov 2025 19:44:08 GMT | The Neurodivergent Method That Beat Traditional Distributed Architectures | Usama Haider | [Read More](https://medium.com/p/f5fe1c30d3e9) |
+| Wed, 05 Nov 2025 19:39:00 GMT | Automating Linux Privilege Escalation Checks | Cybersecplayground | [Read More](https://medium.com/p/6fb2470b07a3) |
+| Wed, 05 Nov 2025 19:38:00 GMT | THM - Alert Triage With Splunk | Abdulla Abdulrhem | [Read More](https://medium.com/p/2baa7a17783c) |
+| Wed, 05 Nov 2025 19:37:52 GMT | PQC or Bust? Well, Hybrid PQC Is The Likely Answer | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/ca78e1df3da1) |
+| Wed, 05 Nov 2025 19:36:58 GMT | Authentication Token Stored in localStorage | Abhishek sharma | [Read More](https://medium.com/p/15edd8d7a104) |
 | Wed, 05 Nov 2025 19:36:20 GMT | Midnight Bounty: How I Found a QA Portal Exposed to the Internet and Got $2,500 Overnight | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/6413393b6cb7) |
 | Wed, 05 Nov 2025 19:15:43 GMT | CyberDefenders — TOCTOU Lab | jon | [Read More](https://medium.com/p/f753e4f26f4b) |
 | Wed, 05 Nov 2025 19:12:07 GMT | Top Deepfake Apps and How to Avoid Their Risks | Awais Khan | [Read More](https://medium.com/p/7dce821b1343) |
@@ -105,11 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 13:26:52 GMT | Changing Any User’s Profile Picture To Account Takeover | NOOBIEx404 | [Read More](https://medium.com/p/d7509dd53d7b) |
 | Wed, 05 Nov 2025 13:16:56 GMT | Defending Supply Chains from Cyber Infiltration | Ai Writter Tools | [Read More](https://medium.com/p/175487e9df54) |
 | Wed, 05 Nov 2025 13:13:56 GMT | Emerging Trends and Technologies to Watch | aryanshinde | [Read More](https://medium.com/p/00ae8e6f1768) |
-| Wed, 05 Nov 2025 13:11:44 GMT | Before You Hit ‘Test’: Must-Follow QA Checklist for Every User Story” | Zubair Khan | [Read More](https://medium.com/p/65c2ab7de4dc) |
-| Wed, 05 Nov 2025 13:11:36 GMT | Chain Link Fence in Saudi Arabia Secure, Strong & Cost-Effective | Hitechfence | [Read More](https://medium.com/p/bd2d9271d173) |
-| Wed, 05 Nov 2025 13:06:30 GMT | Wi-Fi Teknolojisinin Temelleri ve Evrimi-1 | Alperkandemir | [Read More](https://medium.com/p/e3d23525e3f4) |
-| Wed, 05 Nov 2025 12:57:24 GMT | När familjedrama blir internetdrama – mina reflektioner kring Chrippa-dramat | Tiny | [Read More](https://medium.com/p/b216c2a5f16d) |
-| Wed, 05 Nov 2025 12:52:26 GMT | Secure Your AI: A Deep Dive into Data Annotation Solutions for Security and Surveillance | Sohan Lal | [Read More](https://medium.com/p/f4e5f2a3439a) |
-| Wed, 05 Nov 2025 12:51:28 GMT | Konfigurasi Firewall dengan Iptables dan Fail2ban, serta melakukan Log Monitoring, Network… | Deska Zodanta | [Read More](https://medium.com/p/1acb144a0c7b) |
-| Wed, 05 Nov 2025 12:46:01 GMT | Corporate Absurdities: The Farce of Anti-Moonlighting Policies | Namir Sagheenanajar | [Read More](https://medium.com/p/f2f54949d8bd) |
-| Wed, 05 Nov 2025 12:44:20 GMT | API Integration in OSINT Operations | Nazrul Islam Rana | [Read More](https://medium.com/p/88e08d515c80) |
