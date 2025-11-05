@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 21:09:26 GMT | Watcher (Tryhackme write-up) | CO0L7 | [Read More](https://medium.com/p/6c3506911280) |
+| Wed, 05 Nov 2025 21:02:22 GMT | Cyber Threat Intelligence (CTI) | Irem Bezci | [Read More](https://medium.com/p/c150f4ec6b18) |
+| Wed, 05 Nov 2025 20:54:01 GMT | How Businesses Can Reduce Cyberattack Risk This Holiday Season | IT_Engineer | [Read More](https://medium.com/p/d85ce4d13e8e) |
+| Wed, 05 Nov 2025 20:44:55 GMT | Everything You Love You Will Eventually Automate | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ae6abb392364) |
+| Wed, 05 Nov 2025 20:43:54 GMT | ️ Penetration Testing කියන්නේ මොකද්ද? | Ruwan Sanjeewa | [Read More](https://medium.com/p/c6eb1ff365ca) |
+| Wed, 05 Nov 2025 20:42:06 GMT | MLPI: Our Mission Statement | ogmur | [Read More](https://medium.com/p/66ba939124af) |
+| Wed, 05 Nov 2025 20:41:02 GMT | When Nobody Knows What You Sell, You’ve Built Something Terrifying | Javier Baal | [Read More](https://medium.com/p/39c81891bd00) |
 | Wed, 05 Nov 2025 20:36:50 GMT | The Power of Risk | She Writes Chaos | [Read More](https://medium.com/p/ae977c5ca674) |
+| Wed, 05 Nov 2025 20:32:05 GMT | Adiós a las contraseñas: Cómo Implementé autenticación con WebAuthn en Node.js. | Eliud Trejo | [Read More](https://medium.com/p/81db4419bc0e) |
 | Wed, 05 Nov 2025 20:23:51 GMT | Pollard’s Rho for Solving Discrete Logarithms | Declan | [Read More](https://medium.com/p/6767981ad39b) |
 | Wed, 05 Nov 2025 20:01:49 GMT | When Truth Has No Audience | Anantadev das | [Read More](https://medium.com/p/f59a71bb9885) |
 | Wed, 05 Nov 2025 19:50:59 GMT | Embedding Security Testing Across the SDLC | thedevsecopshandbook | [Read More](https://medium.com/p/32d2e6d8d7b8) |
@@ -105,11 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 14:13:00 GMT | The Importance of Hiring a Security Guard in USA | Direct Guard Services | [Read More](https://medium.com/p/76a3a60e3aa9) |
 | Wed, 05 Nov 2025 14:12:04 GMT | To Hack or Not to Hack: The Unholy Trinity of Malware | Furkanctiner | [Read More](https://medium.com/p/26cdc4561e25) |
 | Wed, 05 Nov 2025 14:11:20 GMT | The Right Switch for the Job: A Practical Guide to Network Switch Types | Paradise technologies Inc | [Read More](https://medium.com/p/9159f7934778) |
-| Wed, 05 Nov 2025 14:02:19 GMT | When Bad AI Architecture Becomes a Security Incident: The Obsidian Support Case | Nwosu Rosemary | [Read More](https://medium.com/p/0fa22ba72a90) |
-| Wed, 05 Nov 2025 14:02:18 GMT | AI Rollout Meets Policy Roadblocks: A New Source of Systemic Risk? | Pareto Technologies | [Read More](https://medium.com/p/ce26c74a7c9f) |
-| Wed, 05 Nov 2025 14:00:25 GMT | Footprinting: Open SMB Share on HTB: flag retrieved, domain leaky, and the production risk behind a… | Laura Trafford | [Read More](https://medium.com/p/9174356fb801) |
-| Wed, 05 Nov 2025 13:58:25 GMT | Batch Downloader(LetsDefend) | Brandon Love | [Read More](https://medium.com/p/63cf273737aa) |
-| Wed, 05 Nov 2025 13:53:03 GMT | Harnessing Artificial Intelligence for Next-Generation Network Security | Dhairyap Singh | [Read More](https://medium.com/p/77277744745c) |
-| Wed, 05 Nov 2025 13:37:25 GMT | ISO 27001 Gap Analysis: Unlock Your Path to Compliance with Axipro | Axipro | [Read More](https://medium.com/p/eb1b6f3c858b) |
-| Wed, 05 Nov 2025 13:27:56 GMT | Mitigating Risks from Rogue Employee Accounts and Insider Threats | Ai Writter Tools | [Read More](https://medium.com/p/2b3b59937054) |
-| Wed, 05 Nov 2025 13:26:52 GMT | Changing Any User’s Profile Picture To Account Takeover | NOOBIEx404 | [Read More](https://medium.com/p/d7509dd53d7b) |
