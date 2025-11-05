@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 05:15:39 GMT | Cyber security and Data Science With the Need of Modern Era | Rana waqas | [Read More](https://medium.com/p/d63be5b25b55) |
+| Wed, 05 Nov 2025 05:15:06 GMT | Best Cybersecurity Services in Delaware: Complete Guide for 2025 | NMT Security | [Read More](https://medium.com/p/da41f17696ca) |
+| Wed, 05 Nov 2025 05:14:37 GMT | The Invisible War: Why Cybersecurity Is Everyone’s Responsibility in the Digital Ag | Chanitha Gunasekera | [Read More](https://medium.com/p/20fc4355606b) |
+| Wed, 05 Nov 2025 05:00:25 GMT | The Hidden Cost of “Good Enough” Technology | Ivan Yurynts | [Read More](https://medium.com/p/51c0afd89926) |
+| Wed, 05 Nov 2025 04:57:58 GMT | 10 Database Monitoring Metrics You Should Track Daily (2025 Edition) | Rizqi Mulki | [Read More](https://medium.com/p/f466e0a1e669) |
+| Wed, 05 Nov 2025 04:45:31 GMT | Telling You About Our Journey at Star Computer Systems Ltd. | STAR COMPUTER SYSTEMS LIMITED (SCSL) | [Read More](https://medium.com/p/43f02970bfcf) |
+| Wed, 05 Nov 2025 04:45:10 GMT | You should use MFA and your bank account will thank you. | Jake Magness | [Read More](https://medium.com/p/891c7408c9b5) |
+| Wed, 05 Nov 2025 04:44:26 GMT | Executive Summary — Alberta’s Responsible AI Governance Report | Ray Chan, PMP | [Read More](https://medium.com/p/ace531197d9f) |
+| Wed, 05 Nov 2025 04:43:19 GMT | How Proxies Protect Against Malware, Phishing, and DDoS Attacks | ProxiesThatWork | [Read More](https://medium.com/p/d30b9e7c6f3d) |
 | Wed, 05 Nov 2025 04:30:42 GMT | Secure by Design: 10-Day Proven Memory-Safe Sprint | Pentest_Testing_Corp | [Read More](https://medium.com/p/0691ff1edac9) |
 | Wed, 05 Nov 2025 04:30:38 GMT | 5 Database Trends to Watch in 2026 — Technical Deep Dive | Rizqi Mulki | [Read More](https://medium.com/p/a3d8d4157e34) |
 | Wed, 05 Nov 2025 04:28:27 GMT | The Soul of Privacy: Understanding India’s DPDP Act | Ruturaj Jarag | [Read More](https://medium.com/p/f7bf8c2226b5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 19:04:52 GMT | Data Loss Prevention (DLP) | Red_Ghost | [Read More](https://medium.com/p/bad902d9ee04) |
 | Tue, 04 Nov 2025 19:03:27 GMT | The Key Phone Setting That Reveals Your Location | The Online Safety Zone | [Read More](https://medium.com/p/2c7e64a34c81) |
 | Tue, 04 Nov 2025 19:01:01 GMT | Shadow Agentic AI: A Growing Blind Spot for CISOs | Graylog | [Read More](https://medium.com/p/4ca42e2ada6d) |
-| Tue, 04 Nov 2025 18:45:03 GMT | ️ Stay Safe in the Crypto Space with AirdropScience | Airdrop Science | [Read More](https://medium.com/p/24d9b1b8294c) |
-| Tue, 04 Nov 2025 18:43:19 GMT | The Loop That Kept Me Silent | Andy Tillman UK | [Read More](https://medium.com/p/5a2b03b13249) |
-| Tue, 04 Nov 2025 18:41:14 GMT | Why Nobody Robs Banks Anymore | Sonya | [Read More](https://medium.com/p/56c11911a7f2) |
-| Tue, 04 Nov 2025 18:40:52 GMT | BugPilot AI: Revolutionizing Penetration Testing with Intelligent Automation | LETCHU PKT | [Read More](https://medium.com/p/b2e5bacda1dd) |
-| Tue, 04 Nov 2025 18:33:50 GMT | Brutus (hackthebox) | Brandon Love | [Read More](https://medium.com/p/09ee5059f8e8) |
-| Tue, 04 Nov 2025 18:32:02 GMT | Event Crew: The Backbone of Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/3ad157a98ab5) |
-| Tue, 04 Nov 2025 18:30:57 GMT | The Weekend That Belonged to Strong Women: From BSides Chicago to the ICC World Cup 2025 | Harshad Sadashiv Kadam | [Read More](https://medium.com/p/973a755e1bdb) |
-| Tue, 04 Nov 2025 18:27:30 GMT | Day 9: Mastering System Networking Commands — The Tools Every Analyst Must Know | HackTrace | [Read More](https://medium.com/p/e1c255427489) |
-| Tue, 04 Nov 2025 18:20:18 GMT | Beyond the Bounties: How Modern Platforms Are Shaping the Future of Ethical Hacking | Penough | [Read More](https://medium.com/p/5bdee62d494d) |
