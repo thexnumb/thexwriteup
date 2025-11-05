@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 23:27:29 GMT | Aren’t You Sick of Being Manipulated by Social Media? | Walter Rhein | [Read More](https://medium.com/p/d34bae99befe) |
 | Wed, 05 Nov 2025 23:08:47 GMT | All you need to know about JA3 & JA4 Fingerprints (and how to collect them) | Gabriel Alves | [Read More](https://medium.com/p/8f189085b61f) |
 | Wed, 05 Nov 2025 22:56:05 GMT | 5 API Calls Hackers Commonly Exploit | Cyber-AppSec | [Read More](https://medium.com/p/6fd8ede584cb) |
+| Wed, 05 Nov 2025 22:47:20 GMT | Ameaça Oculta de Hackers Explora IA nas Empresas | Erickson A. C. Dias | [Read More](https://medium.com/p/78c869dcf267) |
 | Wed, 05 Nov 2025 22:43:52 GMT | Everything I did not say: “Fading in silence” | Bianca Bortolussi | [Read More](https://medium.com/p/bce4960f216b) |
 | Wed, 05 Nov 2025 22:43:46 GMT | The Digital Wolves at the Door: How Hackers and Scammers Prey on the Elderly | Kevin Kelly | [Read More](https://medium.com/p/4546d688881a) |
 | Wed, 05 Nov 2025 22:31:44 GMT | Shadow Dominion Tool: The Stealth Reporting Power That Challenges TikTok! | Sami Khatatba | [Read More](https://medium.com/p/13b00948ee66) |
@@ -111,5 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 15:11:24 GMT | AI Security Newsletter — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/b416f3e516e1) |
 | Wed, 05 Nov 2025 15:09:38 GMT | $93 Million DeFi Loss — Another depegged story!! | Rahul Raj | [Read More](https://medium.com/p/8f42d8cb72b2) |
 | Wed, 05 Nov 2025 15:04:40 GMT | “The $15,000 IDOR That Threatened Snapchat’s Creator Economy” | Aman Sharma | [Read More](https://medium.com/p/379ac3fa6277) |
-| Wed, 05 Nov 2025 15:02:58 GMT | Cyber Briefing: 2025.11.05 | CyberMaterial | [Read More](https://medium.com/p/a0aaa67cd9d9) |
-| Wed, 05 Nov 2025 15:02:56 GMT | The Invitation We Almost Declined | Arun Kumar | [Read More](https://medium.com/p/f0e3c2f9ff70) |
