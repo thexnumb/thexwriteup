@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 08:09:54 GMT | Information Security Risk Management | Timelina | [Read More](https://medium.com/p/55b0db981389) |
+| Wed, 05 Nov 2025 08:06:54 GMT | Windows 11 Security Features You Should Enable! | Bostamimahmud | [Read More](https://medium.com/p/7bbf6cef7c24) |
+| Wed, 05 Nov 2025 08:04:15 GMT | Unexpected iPhone 11 Pro Max Features That Feel Like Magic | Chloe White | [Read More](https://medium.com/p/1315a44d3bc1) |
+| Wed, 05 Nov 2025 08:01:57 GMT | Part I — Vault Chronicles: Namespaces | Raymon Epping | [Read More](https://medium.com/p/499f97bae988) |
+| Wed, 05 Nov 2025 08:01:57 GMT | [Part 12] AI vs Ransomware: Can Machine Learning Really Stop the Next Big Attack? | Cyberkech | [Read More](https://medium.com/p/9f08e02ae25b) |
+| Wed, 05 Nov 2025 07:58:59 GMT | Microsoft Teams Vulnerabilities: Attackers Can Impersonate Colleagues and Edit Messages Without… | Germano Costi | [Read More](https://medium.com/p/21f434db7b83) |
+| Wed, 05 Nov 2025 07:56:57 GMT | How to Choose a CCTV Monitoring Company | Global CCTV Monitoring Services | [Read More](https://medium.com/p/b71b4024bdc0) |
+| Wed, 05 Nov 2025 07:55:29 GMT | How Scammers Use Medium to Target Writers… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/8b1d1029bb28) |
+| Wed, 05 Nov 2025 07:48:17 GMT | Fear, Wake-Up Call, and the Future of Nigerian Security | Dennis Seikepagha | [Read More](https://medium.com/p/64c593eb3591) |
+| Wed, 05 Nov 2025 07:48:03 GMT | Broken User Authentication in Modern APIs: A Technical Deep Dive | Jei Ess | [Read More](https://medium.com/p/197cb1d89aec) |
+| Wed, 05 Nov 2025 07:46:42 GMT | What Is ISO 27001 — And Why Senior Management Should Care | Fook Hwa Tan | [Read More](https://medium.com/p/3434fb18c9e1) |
+| Wed, 05 Nov 2025 07:41:55 GMT | AuthZilla, Rethinking Authorization For The Modern Era | Criteo R&D | [Read More](https://medium.com/p/40423fb3f33c) |
+| Wed, 05 Nov 2025 07:35:54 GMT | The Daily Tech Digest: 05 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/17d0e14f604c) |
+| Wed, 05 Nov 2025 07:33:32 GMT | Huawei Ascend GX1 — A Practical Smartphone with a Big Display | Mkmobilearena | [Read More](https://medium.com/p/d626158f401f) |
 | Wed, 05 Nov 2025 07:31:16 GMT | Key Reasons to Install an Access Control System on Your Premises | ukstandardblog | [Read More](https://medium.com/p/03df9db1e1d3) |
 | Wed, 05 Nov 2025 07:29:16 GMT | Mighty Hacker Recovery is a reliable option for those seeking assistance in recovering stolen USDT. | Betty Cream | [Read More](https://medium.com/p/b57d783563a7) |
 | Wed, 05 Nov 2025 07:28:04 GMT | Unattended - Complete TryHackMe Walkthrough | 0xRahul | [Read More](https://medium.com/p/02a710218dfe) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 01:47:18 GMT | Fluffy HTB Machine Walk-Through. | Nmullenski | [Read More](https://medium.com/p/6963fc9abde2) |
 | Wed, 05 Nov 2025 01:41:23 GMT | How I Turned a Page Leak into a Post-Exploitation Report — Lessons for Defenders | Vivektumma27 | [Read More](https://medium.com/p/fc29ea8fdd8f) |
 | Wed, 05 Nov 2025 01:38:30 GMT | How hackers find ANYONE using Sherlock (OSINT basics) | Jackson Mittag | [Read More](https://medium.com/p/31030aeafa74) |
-| Wed, 05 Nov 2025 01:30:35 GMT | Can Blockchain Survive the Quantum Era? | Bobby Andrews | [Read More](https://medium.com/p/5fdadfa145bf) |
-| Wed, 05 Nov 2025 01:28:38 GMT | The End of Windows 10 and The Surge of Linux Users | Sam Writes Security | [Read More](https://medium.com/p/21960c97723d) |
-| Wed, 05 Nov 2025 01:25:15 GMT | Integrating Cloud-Hosted Wazuh with On-Premise Splunk: Part 1 — The Secure Approach | Raynard Waits | [Read More](https://medium.com/p/7695dd54bc86) |
-| Wed, 05 Nov 2025 01:24:15 GMT | The Vanishing Signal | H3XH7WK | [Read More](https://medium.com/p/13fb284f0ad9) |
-| Wed, 05 Nov 2025 01:01:26 GMT | Hackviser — Cryptanalysis walkthrough | Mukilan Baskaran | [Read More](https://medium.com/p/19b291173d00) |
-| Wed, 05 Nov 2025 00:55:04 GMT | Intro to Cyber Threat Intel - THM | Isiah | [Read More](https://medium.com/p/5d11799fd5eb) |
-| Wed, 05 Nov 2025 00:45:50 GMT | Building the Logic | Shantaciak | [Read More](https://medium.com/p/7100721fc5c1) |
-| Wed, 05 Nov 2025 00:31:59 GMT | HackTheBox Hunting with Elastic: Skills Assessment | Cybersecurity Simplified | [Read More](https://medium.com/p/a1783584a31f) |
-| Wed, 05 Nov 2025 00:28:53 GMT | Is a Cybersecurity Career Right for You in 2025? The No-BS Guide to Breaking In | Transfotech Academy | [Read More](https://medium.com/p/8f5e0aec00bd) |
-| Wed, 05 Nov 2025 00:07:18 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 2 Türkçe | Huseyin KALKAN | [Read More](https://medium.com/p/7b5ab3bc79d4) |
-| Wed, 05 Nov 2025 00:01:57 GMT | Advanced Guide to Penetration Testing in APIs (Part 1) OWASP Top 10 Mapping and Recognition Phases | JPablo13 | [Read More](https://medium.com/p/83f96ccc222e) |
-| Tue, 04 Nov 2025 23:49:20 GMT | Promise — Reverse Engineering Challenge | H3XH7WK | [Read More](https://medium.com/p/e0f24df43eb4) |
-| Tue, 04 Nov 2025 23:39:20 GMT | Cracking the Chipotle Login: A Security Researcher’s Deep Dive into Account Brute Force and Bot… | Mandar Satam | [Read More](https://medium.com/p/96749b6b5393) |
-| Tue, 04 Nov 2025 23:09:38 GMT | Your Trusted Partner in GRC | Advanta Advisory | [Read More](https://medium.com/p/314f0b8870f4) |
