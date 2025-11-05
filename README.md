@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 10:40:03 GMT | 4 Outils Essentiels pour Traquer les Menaces (IoC) en Cybersécurité | Djibril Ndiaye | [Read More](https://medium.com/p/a3ffb5ea13da) |
+| Wed, 05 Nov 2025 10:38:57 GMT | The $37 Billion Problem: Uncovering the Hidden Cost of Queues and How a Kiosk Machine Solves It | Rakesh | [Read More](https://medium.com/p/502eb10fe5b5) |
+| Wed, 05 Nov 2025 10:38:48 GMT | When Silence Means Safety: My First Steps Inside a SOC | Sarigasaseendran | [Read More](https://medium.com/p/5595e4675f29) |
+| Wed, 05 Nov 2025 10:34:07 GMT | Two-Factor Authentication: Why It’s Essential for Your Online Security | Devarshi Acharya | [Read More](https://medium.com/p/299b68c23aa4) |
+| Wed, 05 Nov 2025 10:31:56 GMT | What Is a Chromium Shell? The Hidden Engine Powering Custom Browsers and Apps | Natarajan C K | [Read More](https://medium.com/p/15b6b9a43cd0) |
+| Wed, 05 Nov 2025 10:31:32 GMT | How Attack Surface Mapping Strengthens Enterprise Security | DeXpose | [Read More](https://medium.com/p/fc676fc24180) |
+| Wed, 05 Nov 2025 10:31:13 GMT | The invisible nature of new age Cyber Crime: Infiltration using Zero-Click AI | Ekata Deb | [Read More](https://medium.com/p/be9f00b38be3) |
+| Wed, 05 Nov 2025 10:30:40 GMT | An Alphabet for Quantum-Safe Web3: From Q to Z | QuantZen™ | [Read More](https://medium.com/p/765e68ba8146) |
+| Wed, 05 Nov 2025 10:30:13 GMT | From Simulation to Strength: How Red Teaming Builds Real-World Cyber Resilience | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/f980071438d5) |
+| Wed, 05 Nov 2025 10:27:17 GMT | From Monitoring to Management: The Key to Effective Cyber Defense | Vijilan | [Read More](https://medium.com/p/700640d60814) |
+| Wed, 05 Nov 2025 10:25:37 GMT | Which Tecno Spark Phones Offer the Best Battery Life? Our Expert Pick | Isabella Brown | [Read More](https://medium.com/p/956a31ad22d9) |
+| Wed, 05 Nov 2025 10:23:39 GMT | How to Prevent Robbery in a Business Using Security Systems | Great Valley Lockshop | [Read More](https://medium.com/p/4b244bc20ece) |
+| Wed, 05 Nov 2025 10:20:59 GMT | From Static Site to Secure Pipeline: Adding DevSecOps to My FloodSight App in One Afternoon | Afaq Ul Haq Babar | [Read More](https://medium.com/p/c7bde42f76bd) |
+| Wed, 05 Nov 2025 10:19:32 GMT | DockerLabs Writeup — BreakMySSH (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0b9f7464a24a) |
 | Wed, 05 Nov 2025 10:15:26 GMT | Introducing ETNL | Entl | [Read More](https://medium.com/p/7c0843a5e871) |
 | Wed, 05 Nov 2025 10:10:20 GMT | What’s New in the Tecno Spark 20 Pro Plus? A Smart Choice | Ava Morgan | [Read More](https://medium.com/p/e758532e53b8) |
 | Wed, 05 Nov 2025 10:07:17 GMT | Top 7 Risk Scoring Hacks Cybersecurity Experts Use to Stay Ahead | SecureSlate | [Read More](https://medium.com/p/ace3beee0587) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 05:26:48 GMT | John Star the Barrister: Justice, Integrity, and the Voice of the People | Ghost Of Spartans — Everything Music, Tech & Trend | [Read More](https://medium.com/p/9c72b4ca270f) |
 | Wed, 05 Nov 2025 05:22:53 GMT | Meta bug bounty — One Last Spark AR RCE | Fady Othman | [Read More](https://medium.com/p/343174b628cd) |
 | Wed, 05 Nov 2025 05:15:39 GMT | Cyber security and Data Science With the Need of Modern Era | Rana waqas | [Read More](https://medium.com/p/d63be5b25b55) |
-| Wed, 05 Nov 2025 05:15:06 GMT | Best Cybersecurity Services in Delaware: Complete Guide for 2025 | NMT Security | [Read More](https://medium.com/p/da41f17696ca) |
-| Wed, 05 Nov 2025 05:14:37 GMT | The Invisible War: Why Cybersecurity Is Everyone’s Responsibility in the Digital Ag | Chanitha Gunasekera | [Read More](https://medium.com/p/20fc4355606b) |
-| Wed, 05 Nov 2025 05:00:25 GMT | The Hidden Cost of “Good Enough” Technology | Ivan Yurynts | [Read More](https://medium.com/p/51c0afd89926) |
-| Wed, 05 Nov 2025 04:57:58 GMT | 10 Database Monitoring Metrics You Should Track Daily (2025 Edition) | Rizqi Mulki | [Read More](https://medium.com/p/f466e0a1e669) |
-| Wed, 05 Nov 2025 04:45:31 GMT | Telling You About Our Journey at Star Computer Systems Ltd. | STAR COMPUTER SYSTEMS LIMITED (SCSL) | [Read More](https://medium.com/p/43f02970bfcf) |
-| Wed, 05 Nov 2025 04:45:10 GMT | You should use MFA and your bank account will thank you. | Jake Magness | [Read More](https://medium.com/p/891c7408c9b5) |
-| Wed, 05 Nov 2025 04:44:26 GMT | Executive Summary — Alberta’s Responsible AI Governance Report | Ray Chan, PMP | [Read More](https://medium.com/p/ace531197d9f) |
-| Wed, 05 Nov 2025 04:43:19 GMT | How Proxies Protect Against Malware, Phishing, and DDoS Attacks | ProxiesThatWork | [Read More](https://medium.com/p/d30b9e7c6f3d) |
-| Wed, 05 Nov 2025 04:30:42 GMT | Secure by Design: 10-Day Proven Memory-Safe Sprint | Pentest_Testing_Corp | [Read More](https://medium.com/p/0691ff1edac9) |
-| Wed, 05 Nov 2025 04:30:38 GMT | 5 Database Trends to Watch in 2026 — Technical Deep Dive | Rizqi Mulki | [Read More](https://medium.com/p/a3d8d4157e34) |
-| Wed, 05 Nov 2025 04:28:27 GMT | The Soul of Privacy: Understanding India’s DPDP Act | Ruturaj Jarag | [Read More](https://medium.com/p/f7bf8c2226b5) |
-| Wed, 05 Nov 2025 04:18:08 GMT | Building a Mini SIEM Dashboard with Python: Automating Log Analysis, Threat Detection, and… | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/e40e7c7e5430) |
-| Wed, 05 Nov 2025 04:07:49 GMT | I Made Python Faster Than Go Using This One Weird Trick | Rizqi Mulki | [Read More](https://medium.com/p/4e1e994264f5) |
-| Wed, 05 Nov 2025 04:04:35 GMT | How I Built a Cloud-Native SIEM with Spring Boot to Detect Real-Time AWS Threats | Sohan Kanna D | [Read More](https://medium.com/p/fad725387a37) |
