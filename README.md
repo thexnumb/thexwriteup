@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 16:24:03 GMT | Understanding HTTP: The Backbone of the Web | Arfi Tutorials | [Read More](https://medium.com/p/a948e8c7d6ba) |
+| Wed, 05 Nov 2025 16:15:09 GMT | The Dangerous Comfort of Public Wi-Fi and What It Is Really Costing You | Miguel Gonzalez | [Read More](https://medium.com/p/ef20ef0e4748) |
+| Wed, 05 Nov 2025 16:12:49 GMT | Ransomware Is Now a Personal Threat and Most People Are Not Ready | Miguel Gonzalez | [Read More](https://medium.com/p/c86cc7400593) |
+| Wed, 05 Nov 2025 16:05:38 GMT | AI vs. Zero-Day Attacks: How Machine Learning Detects the Unknown | Gopi Sri | [Read More](https://medium.com/p/f11e33b21da0) |
+| Wed, 05 Nov 2025 16:01:02 GMT | How you can integrate our Leaked Credentials API | BreachCollection | [Read More](https://medium.com/p/f15cec126d76) |
+| Wed, 05 Nov 2025 16:01:00 GMT | Designing Secure APIs in 2025: Beyond JWTs and OAuth | Harshavardhan Mamidipaka | [Read More](https://medium.com/p/3a57f0450898) |
+| Wed, 05 Nov 2025 15:56:23 GMT | How I hacked 100,000+ motorcycles (including my own)… | Ilnur Khakimov | [Read More](https://medium.com/p/666bdb702b7d) |
+| Wed, 05 Nov 2025 15:48:09 GMT | From Curiosity to Validation — My First Successful Bug Bounty Submission | Tech Journal | [Read More](https://medium.com/p/007a60c8e55c) |
+| Wed, 05 Nov 2025 15:45:34 GMT | PoshC2 Framework Complete Guide | Lord Murak | [Read More](https://medium.com/p/0889deb298a5) |
+| Wed, 05 Nov 2025 15:45:02 GMT | My Final Internship Task: A Controlled Keylogging Experiment | Shashank M.S | [Read More](https://medium.com/p/d8c403d4e566) |
+| Wed, 05 Nov 2025 15:43:04 GMT | Big Data : Implementasi NoSQL Database dengan MongoDB | Yasa Wijaya | [Read More](https://medium.com/p/8fd543552521) |
+| Wed, 05 Nov 2025 15:41:30 GMT | New Study Exposes ChatGPT Flaws Allowing Data Leaks Through Prompt Attacks | Himanshu Bhatt | [Read More](https://medium.com/p/853e96f77bc2) |
 | Wed, 05 Nov 2025 15:39:21 GMT | Why Every Text (on paper, in the cloud, in audiobooks) on Earth Can Now Hide Complete Secret… | Berend Watchus | [Read More](https://medium.com/p/6af752dc0345) |
 | Wed, 05 Nov 2025 15:34:05 GMT | LetsDefend — PCAP Analysis Challenge | Kozi | [Read More](https://medium.com/p/433301b2603d) |
 | Wed, 05 Nov 2025 15:33:04 GMT | I Forgot How to Talk to You | Rahul Gupta | [Read More](https://medium.com/p/89b998d4855a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 10:38:57 GMT | The $37 Billion Problem: Uncovering the Hidden Cost of Queues and How a Kiosk Machine Solves It | Rakesh | [Read More](https://medium.com/p/502eb10fe5b5) |
 | Wed, 05 Nov 2025 10:38:48 GMT | When Silence Means Safety: My First Steps Inside a SOC | Sarigasaseendran | [Read More](https://medium.com/p/5595e4675f29) |
 | Wed, 05 Nov 2025 10:38:32 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/e6054c959a0c) |
-| Wed, 05 Nov 2025 10:34:11 GMT | Security Embedded Products With Threat And Risk Assessments According to CRA and IEC 62433 | Hendrik Schnack | [Read More](https://medium.com/p/a76add7ae198) |
-| Wed, 05 Nov 2025 10:34:07 GMT | Two-Factor Authentication: Why It’s Essential for Your Online Security | Devarshi Acharya | [Read More](https://medium.com/p/299b68c23aa4) |
-| Wed, 05 Nov 2025 10:31:56 GMT | What Is a Chromium Shell? The Hidden Engine Powering Custom Browsers and Apps | Natarajan C K | [Read More](https://medium.com/p/15b6b9a43cd0) |
-| Wed, 05 Nov 2025 10:31:32 GMT | How Attack Surface Mapping Strengthens Enterprise Security | DeXpose | [Read More](https://medium.com/p/fc676fc24180) |
-| Wed, 05 Nov 2025 10:31:13 GMT | The invisible nature of new age Cyber Crime: Infiltration using Zero-Click AI | Ekata Deb | [Read More](https://medium.com/p/be9f00b38be3) |
-| Wed, 05 Nov 2025 10:30:40 GMT | An Alphabet for Quantum-Safe Web3: From Q to Z | QuantZen™ | [Read More](https://medium.com/p/765e68ba8146) |
-| Wed, 05 Nov 2025 10:30:13 GMT | From Simulation to Strength: How Red Teaming Builds Real-World Cyber Resilience | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/f980071438d5) |
-| Wed, 05 Nov 2025 10:27:17 GMT | From Monitoring to Management: The Key to Effective Cyber Defense | Vijilan | [Read More](https://medium.com/p/700640d60814) |
-| Wed, 05 Nov 2025 10:25:37 GMT | Which Tecno Spark Phones Offer the Best Battery Life? Our Expert Pick | Isabella Brown | [Read More](https://medium.com/p/956a31ad22d9) |
-| Wed, 05 Nov 2025 10:23:39 GMT | How to Prevent Robbery in a Business Using Security Systems | Great Valley Lockshop | [Read More](https://medium.com/p/4b244bc20ece) |
-| Wed, 05 Nov 2025 10:20:59 GMT | From Static Site to Secure Pipeline: Adding DevSecOps to My FloodSight App in One Afternoon | Afaq Ul Haq Babar | [Read More](https://medium.com/p/c7bde42f76bd) |
-| Wed, 05 Nov 2025 10:19:32 GMT | DockerLabs Writeup — BreakMySSH (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0b9f7464a24a) |
