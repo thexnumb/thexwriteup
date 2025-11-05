@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 12:32:08 GMT | Open Source Under Siege | Nexumo | [Read More](https://medium.com/p/f222f5bce901) |
+| Wed, 05 Nov 2025 12:32:06 GMT | Salvation for Nigerian Saints or Washington’s strategy against China? | Busayo James-Olufade | [Read More](https://medium.com/p/0945157eb552) |
+| Wed, 05 Nov 2025 12:30:10 GMT | Why GCCs Are Betting on Next-Gen GBS for Strategic Advantage | IMS Global Business Solutions | [Read More](https://medium.com/p/d7be4f3843c6) |
+| Wed, 05 Nov 2025 12:28:04 GMT | Why A Strategic IT Partnership Matters More Than Ever | Doherty Associates | [Read More](https://medium.com/p/8760997b0b85) |
+| Wed, 05 Nov 2025 12:20:50 GMT | Top Managed Data Center Services Provider in India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/1d5f46b6cfe8) |
+| Wed, 05 Nov 2025 12:18:23 GMT | The Ghost of Professional Shame | Andy Tillman UK | [Read More](https://medium.com/p/425c2a1e09d3) |
+| Wed, 05 Nov 2025 12:11:57 GMT | Understanding Cyber Threats and Prevention | Charleskerren | [Read More](https://medium.com/p/e6bf46aecadd) |
+| Wed, 05 Nov 2025 12:08:30 GMT | Why Your Organization Must Prepare for Europe’s Cyber Overhaul Now | CFE CERTIFICATION | [Read More](https://medium.com/p/6fbe7c08ea62) |
+| Wed, 05 Nov 2025 12:06:15 GMT | Signal Desktop Path Traversal vulnerability in Attachment Saving | h4x0r_dz | [Read More](https://medium.com/p/e9de7806767e) |
+| Wed, 05 Nov 2025 12:03:47 GMT | OSINT Exercise #021 Writeup | J0n4th4nV | [Read More](https://medium.com/p/6241f5aa09c9) |
+| Wed, 05 Nov 2025 11:47:22 GMT | What Is IBM NS1 and Why Does It Matter for Modern Apps | Apoorv Gehlot | [Read More](https://medium.com/p/c3c54272af3e) |
+| Wed, 05 Nov 2025 11:29:08 GMT | Discovering Lenspect: A Powerful Binary Inspection Tool for Linux by VirusTotal | Ammarcader | [Read More](https://medium.com/p/cf546d2a9fa5) |
 | Wed, 05 Nov 2025 11:22:59 GMT | Challenges Writeup -Flaghunter 2.0 CTF | Adhamkhairy | [Read More](https://medium.com/p/8bd3939a31b3) |
 | Wed, 05 Nov 2025 11:17:51 GMT | Keep2Share: Simple, Secure, and Fast File Sharing | Filevipo | [Read More](https://medium.com/p/dfa59230c925) |
 | Wed, 05 Nov 2025 11:17:29 GMT | The AI That Started Blackmailing People — and No One Knows Why | Pdk. Pramil | [Read More](https://medium.com/p/f492a7eaea8d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 07:07:54 GMT | Trivy: The X-Ray Vision for Your Containers and Code . | Dineth Sandakelum Herath | [Read More](https://medium.com/p/80f04ad84d1d) |
 | Wed, 05 Nov 2025 06:58:31 GMT | The Hidden Cost of IT Downtime (And How to Prevent It Before It Happens) | SignalAge | [Read More](https://medium.com/p/22d828b80d32) |
 | Wed, 05 Nov 2025 06:58:19 GMT | 5 Steps to Strengthen Your Cloud Security Posture | Digital Defense | [Read More](https://medium.com/p/e40738b9888f) |
-| Wed, 05 Nov 2025 06:57:54 GMT | Hacking DC-1: Your First Step into the DC Series | Kalash Kundaliya | [Read More](https://medium.com/p/0255d30715a3) |
-| Wed, 05 Nov 2025 06:57:35 GMT | From Zero to Live: Hosting That Powers Your Ideas | Mary Thomas | [Read More](https://medium.com/p/70c223407f42) |
-| Wed, 05 Nov 2025 06:54:18 GMT | Google Play vs RBI: The Hidden Compliance War Inside Every Fintech App — 2025 Edition | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/be92f4933578) |
-| Wed, 05 Nov 2025 06:54:16 GMT | Article 3: Complete Computer Arithmetic for Ethical Hacking | Aman Kumar Singh | [Read More](https://medium.com/p/b535fb42ac1a) |
-| Wed, 05 Nov 2025 06:51:36 GMT | Why Cyber Criminals Target Small Businesses: 4 Reasons Your Business May Be Vulnerable & How To Fix… | Christina Martin | [Read More](https://medium.com/p/d094a0b7dcf2) |
-| Wed, 05 Nov 2025 06:50:41 GMT | From Intent to Native Code: Exploiting a WebView’s JavascriptInterface via XSS | Mohamed hamdy | [Read More](https://medium.com/p/8a1c1edff2e6) |
-| Wed, 05 Nov 2025 06:38:59 GMT | Restricted Access Vol. 2 — Room Challenges: Red Team LINUXENIC Corporation Write-up | Yuukoethic | [Read More](https://medium.com/p/5c7968d4d771) |
-| Wed, 05 Nov 2025 06:38:19 GMT | I Got Scam By StoneWall Capital But I Finally Got Help | Gregory Davidson | [Read More](https://medium.com/p/85868b4eef77) |
-| Wed, 05 Nov 2025 06:36:30 GMT | Secure Web Browsing Protection: A Guide to Safe Browsing Protection 2026: | HawkShield | [Read More](https://medium.com/p/69def5a573cc) |
-| Wed, 05 Nov 2025 06:29:51 GMT | The Hidden Security Gaps in Every Modern Workplace (and How to Fix Them) | WorkInSync | [Read More](https://medium.com/p/cba8c23814db) |
-| Wed, 05 Nov 2025 06:26:38 GMT | Palo Alto Networks Business Email Compromise (BEC) Readiness Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3cf612347e51) |
-| Wed, 05 Nov 2025 06:26:03 GMT | FlareSolverr: Bypass Cloudflare for Seamless Web Scraping | Balki Maharaj | [Read More](https://medium.com/p/e678a11aa567) |
