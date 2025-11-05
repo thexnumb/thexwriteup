@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 11:17:51 GMT | Keep2Share: Simple, Secure, and Fast File Sharing | Filevipo | [Read More](https://medium.com/p/dfa59230c925) |
+| Wed, 05 Nov 2025 11:15:19 GMT | Kali Linux Command Reference Sheet | 0b1d1 | [Read More](https://medium.com/p/839362b0e928) |
+| Wed, 05 Nov 2025 11:12:20 GMT | IT-Nearshoring: Definition, Potenziale und strategische Umsetzung | Thomas Faß | [Read More](https://medium.com/p/272bd8f04788) |
+| Wed, 05 Nov 2025 10:57:37 GMT | Why Every Organization Needs a Reliable Vendor Credentialing Service and Visitor Screening Program | Green Security | [Read More](https://medium.com/p/7cd9ed71e8f8) |
+| Wed, 05 Nov 2025 10:57:15 GMT | Depression Is Not a Feeling — It’s a Verb | Jonathan Back | [Read More](https://medium.com/p/489a80b1208c) |
+| Wed, 05 Nov 2025 10:51:05 GMT | I Analysed Over 3 Million Exposed Databases Using Netlas | Netlas.io | [Read More](https://medium.com/p/446a66b3b09f) |
+| Wed, 05 Nov 2025 10:46:54 GMT | Stop Leaking Your Secrets: Solving the Hidden API Key/Secret Problem in Web Apps | Jens@Fivesec | [Read More](https://medium.com/p/5b88bc1347ed) |
+| Wed, 05 Nov 2025 10:46:23 GMT | How to keep your Magento store secure without paying for every upgrade | On Tap | [Read More](https://medium.com/p/ab9463b058dc) |
+| Wed, 05 Nov 2025 10:44:45 GMT | SSI - Part 1: Understanding the fundamental problem with digital identity today and the paradigm… | Ishan Karunanayake | [Read More](https://medium.com/p/723db2048d38) |
+| Wed, 05 Nov 2025 10:44:10 GMT | “Android Just Got Hacked”— Stop What You Are Doing | Prayers Khristi | [Read More](https://medium.com/p/a9d076a17100) |
 | Wed, 05 Nov 2025 10:40:03 GMT | 4 Outils Essentiels pour Traquer les Menaces (IoC) en Cybersécurité | Djibril Ndiaye | [Read More](https://medium.com/p/a3ffb5ea13da) |
 | Wed, 05 Nov 2025 10:38:57 GMT | The $37 Billion Problem: Uncovering the Hidden Cost of Queues and How a Kiosk Machine Solves It | Rakesh | [Read More](https://medium.com/p/502eb10fe5b5) |
 | Wed, 05 Nov 2025 10:38:48 GMT | When Silence Means Safety: My First Steps Inside a SOC | Sarigasaseendran | [Read More](https://medium.com/p/5595e4675f29) |
+| Wed, 05 Nov 2025 10:38:32 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/e6054c959a0c) |
+| Wed, 05 Nov 2025 10:34:11 GMT | Security Embedded Products With Threat And Risk Assessments According to CRA and IEC 62433 | Hendrik Schnack | [Read More](https://medium.com/p/a76add7ae198) |
 | Wed, 05 Nov 2025 10:34:07 GMT | Two-Factor Authentication: Why It’s Essential for Your Online Security | Devarshi Acharya | [Read More](https://medium.com/p/299b68c23aa4) |
 | Wed, 05 Nov 2025 10:31:56 GMT | What Is a Chromium Shell? The Hidden Engine Powering Custom Browsers and Apps | Natarajan C K | [Read More](https://medium.com/p/15b6b9a43cd0) |
 | Wed, 05 Nov 2025 10:31:32 GMT | How Attack Surface Mapping Strengthens Enterprise Security | DeXpose | [Read More](https://medium.com/p/fc676fc24180) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 06:16:52 GMT | How I Found My First Web Bug as a Beginner | Shaikh Minhaz | [Read More](https://medium.com/p/960712e8002f) |
 | Wed, 05 Nov 2025 06:14:20 GMT | Paper Review: “Safety Monitoring for Learning-Enabled Cyber-Physical Systems in Out-of-Distribution… | Kyoungmin Roh | [Read More](https://medium.com/p/e0a73a9d60fa) |
 | Wed, 05 Nov 2025 06:10:16 GMT | The Future of Work in IT: Upskilling for the Age of AI and Automation | Amin Softtech | [Read More](https://medium.com/p/565cf78d6d8c) |
-| Wed, 05 Nov 2025 06:09:59 GMT | How Managed IT Services Help Law Firms Boost Efficiency, Security & Growth | Com Pro | [Read More](https://medium.com/p/ce460fbc915a) |
-| Wed, 05 Nov 2025 06:07:40 GMT | The Silent Revolution: How Generative AI is Reshaping the Cyber Threat Landscape | balaji thiruvengadam | [Read More](https://medium.com/p/c24b77403df5) |
-| Wed, 05 Nov 2025 06:04:09 GMT | Internal Cache Poisoning: How Multi-Layer Caches Can Be Exploited for Stored XSS | Bash Overflow | [Read More](https://medium.com/p/9e15b0367780) |
-| Wed, 05 Nov 2025 05:57:51 GMT | HTB Whisper | Harjot Singh | [Read More](https://medium.com/p/a694a06d7001) |
-| Wed, 05 Nov 2025 05:53:38 GMT | Phishing 2.0: How Attackers Are Reinventing Deception in 2025 | Recover Right | [Read More](https://medium.com/p/3d2a38487d6a) |
-| Wed, 05 Nov 2025 05:42:09 GMT | Your Gateway to a Cyber-Secure Career | Warmdotin | [Read More](https://medium.com/p/1b963a7b061d) |
-| Wed, 05 Nov 2025 05:40:39 GMT | SPARK Matrix™: Security Information and Event Management (SIEM) | Umangp | [Read More](https://medium.com/p/a45905636cb6) |
-| Wed, 05 Nov 2025 05:31:01 GMT | DNS Part 2 | Kiran Naragam | [Read More](https://medium.com/p/eaf1e132d1a9) |
-| Wed, 05 Nov 2025 05:28:51 GMT | From XP to Windows 11: The Evolution of an Operating System That Changed Everything | Salimassili | [Read More](https://medium.com/p/79dbd1d2da68) |
-| Wed, 05 Nov 2025 05:26:48 GMT | John Star the Barrister: Justice, Integrity, and the Voice of the People | Ghost Of Spartans — Everything Music, Tech & Trend | [Read More](https://medium.com/p/9c72b4ca270f) |
-| Wed, 05 Nov 2025 05:22:53 GMT | Meta bug bounty — One Last Spark AR RCE | Fady Othman | [Read More](https://medium.com/p/343174b628cd) |
-| Wed, 05 Nov 2025 05:15:39 GMT | Cyber security and Data Science With the Need of Modern Era | Rana waqas | [Read More](https://medium.com/p/d63be5b25b55) |
