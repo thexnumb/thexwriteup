@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 04:07:49 GMT | I Made Python Faster Than Go Using This One Weird Trick | Rizqi Mulki | [Read More](https://medium.com/p/4e1e994264f5) |
+| Wed, 05 Nov 2025 04:04:35 GMT | How I Built a Cloud-Native SIEM with Spring Boot to Detect Real-Time AWS Threats | Sohan Kanna D | [Read More](https://medium.com/p/fad725387a37) |
+| Wed, 05 Nov 2025 03:57:59 GMT | Insecure Direct Object References (IDOR): The $1 Billion Authorization Bug | InstaTunnel | [Read More](https://medium.com/p/cfc342ba428a) |
 | Wed, 05 Nov 2025 03:43:53 GMT | h4cked — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/72de628a99a0) |
 | Wed, 05 Nov 2025 03:36:16 GMT | The Silent Collapse of Data Privacy: Why Control in the Age of Surveillance Capitalism Is an… | Aditya Suryawanshi | [Read More](https://medium.com/p/2499c63a1e5d) |
 | Wed, 05 Nov 2025 03:32:24 GMT | AI in the Wrong Hands: How Cybercriminals Are Weaponizing Claude | Deven Chhajed | [Read More](https://medium.com/p/9635ae5b3c84) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 04 Nov 2025 18:14:45 GMT | ☕️ Cyber & Coffee Daily: Brewing the Top Tech News You Can’t Miss (Nov 4, 2025) | Cyber and Coffee | [Read More](https://medium.com/p/61815e4e7cae) |
 | Tue, 04 Nov 2025 18:13:35 GMT | The Executive Security Dashboard: Visualizing What Matters Without the Noise | Fabien Soulis | [Read More](https://medium.com/p/d46efb31c5aa) |
 | Tue, 04 Nov 2025 18:11:39 GMT | Article 1&2 : Introduction and Basic Computer Engineering and Science | Aman Kumar Singh | [Read More](https://medium.com/p/f332e2c4d540) |
-| Tue, 04 Nov 2025 18:06:41 GMT | Regen info tech creates regenerative economics | Erik Kvam | [Read More](https://medium.com/p/1bc43452d536) |
-| Tue, 04 Nov 2025 18:06:11 GMT | AI-assisted Offensive: How AI Is Changing Red Teaming, Adversary Emulation, and Responsible… | Monu Jangra | [Read More](https://medium.com/p/159f07007427) |
-| Tue, 04 Nov 2025 18:04:36 GMT | How They Find You Online, And How to Vanish with 60 Lines of Python | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/c576704b7d59) |
