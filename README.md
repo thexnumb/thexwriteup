@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 09:17:31 GMT | How a Coding Bootcamp Helped Me | 0xZerith | [Read More](https://medium.com/p/49d729e1f33c) |
+| Wed, 05 Nov 2025 09:16:00 GMT | Living Off the Land Attacks — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/3bcc197e077f) |
+| Wed, 05 Nov 2025 09:12:20 GMT | Cybersecurity Liability for Third-Party Vendor Breaches | vicky carol | [Read More](https://medium.com/p/e77fa656842e) |
+| Wed, 05 Nov 2025 08:59:13 GMT | How One Book Changed My Entire Approach to Penetration Testing | Aj | [Read More](https://medium.com/p/134dc7ca3e94) |
+| Wed, 05 Nov 2025 08:49:51 GMT | Sure! Here’s a well-written cybersecurity blog post you can use or publish anywhere — it’s… | Prince Kumar | [Read More](https://medium.com/p/7c8f70135872) |
 | Wed, 05 Nov 2025 08:45:01 GMT | Understanding How the Dark Web Works | Frost | [Read More](https://medium.com/p/d69f25530816) |
 | Wed, 05 Nov 2025 08:40:38 GMT | Inside LOLA OS: The Architecture That Unlocks On-Chain AI Agents | Levi Chinecherem Chidi | [Read More](https://medium.com/p/64d03ac3c8b6) |
 | Wed, 05 Nov 2025 08:25:57 GMT | Securing the ‘Queen of the Arabian Sea’: Why You Need the Best Security Service in Kochi | Sambhu Sunil | [Read More](https://medium.com/p/0bcbce10a7a3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 02:24:47 GMT | The Evolution of CAPTCHA in 2025: Striking the Balance Between Usability and Security | Onkar Shirke | [Read More](https://medium.com/p/691a382518d0) |
 | Wed, 05 Nov 2025 02:21:59 GMT | College adventure #2: computer cluster with Linux | Reinaldo Freitas | [Read More](https://medium.com/p/918efb1b5845) |
 | Wed, 05 Nov 2025 02:16:28 GMT | Social Engineering Deep Dive: The Art of Human Hacking | Ddude | [Read More](https://medium.com/p/df7406a0a9d5) |
-| Wed, 05 Nov 2025 02:07:16 GMT | Desative o piloto automático da mente. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/5d8b5ffd5391) |
-| Wed, 05 Nov 2025 02:05:32 GMT | Securing Your Bitcoin: Choosing the Right Crypto Wallet | Learning CrypTOE | [Read More](https://medium.com/p/705bf0a0833c) |
-| Wed, 05 Nov 2025 02:03:32 GMT | DownUnderCTF — Osint — GranniE/Zer0C00l [PT-BR] | Ooozaru | [Read More](https://medium.com/p/a80f9bcd59c5) |
-| Wed, 05 Nov 2025 02:02:02 GMT | Cara Pakai — dart-define-from-file di Flutter untuk Secure API Key | Fitria Widyani | [Read More](https://medium.com/p/8162ef456fe0) |
-| Wed, 05 Nov 2025 01:58:45 GMT | AI Browsers and Prompt Injection: The New Cybersecurity Frontier | Md Asaduzzaman Atik | [Read More](https://medium.com/p/c482a8bc8a9b) |
