@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 13:26:52 GMT | Changing Any User’s Profile Picture To Account Takeover | NOOBIEx404 | [Read More](https://medium.com/p/d7509dd53d7b) |
+| Wed, 05 Nov 2025 13:16:56 GMT | Defending Supply Chains from Cyber Infiltration | Ai Writter Tools | [Read More](https://medium.com/p/175487e9df54) |
+| Wed, 05 Nov 2025 13:13:56 GMT | Emerging Trends and Technologies to Watch | aryanshinde | [Read More](https://medium.com/p/00ae8e6f1768) |
+| Wed, 05 Nov 2025 13:11:44 GMT | Before You Hit ‘Test’: Must-Follow QA Checklist for Every User Story” | Zubair Khan | [Read More](https://medium.com/p/65c2ab7de4dc) |
+| Wed, 05 Nov 2025 13:11:36 GMT | Chain Link Fence in Saudi Arabia Secure, Strong & Cost-Effective | Hitechfence | [Read More](https://medium.com/p/bd2d9271d173) |
+| Wed, 05 Nov 2025 13:06:30 GMT | Wi-Fi Teknolojisinin Temelleri ve Evrimi-1 | Alperkandemir | [Read More](https://medium.com/p/e3d23525e3f4) |
+| Wed, 05 Nov 2025 12:57:24 GMT | När familjedrama blir internetdrama – mina reflektioner kring Chrippa-dramat | Tiny | [Read More](https://medium.com/p/b216c2a5f16d) |
+| Wed, 05 Nov 2025 12:52:26 GMT | Secure Your AI: A Deep Dive into Data Annotation Solutions for Security and Surveillance | Sohan Lal | [Read More](https://medium.com/p/f4e5f2a3439a) |
+| Wed, 05 Nov 2025 12:51:28 GMT | Konfigurasi Firewall dengan Iptables dan Fail2ban, serta melakukan Log Monitoring, Network… | Deska Zodanta | [Read More](https://medium.com/p/1acb144a0c7b) |
+| Wed, 05 Nov 2025 12:46:01 GMT | Corporate Absurdities: The Farce of Anti-Moonlighting Policies | Namir Sagheenanajar | [Read More](https://medium.com/p/f2f54949d8bd) |
+| Wed, 05 Nov 2025 12:44:20 GMT | API Integration in OSINT Operations | Nazrul Islam Rana | [Read More](https://medium.com/p/88e08d515c80) |
+| Wed, 05 Nov 2025 12:43:57 GMT | Hotel Security Procedures To Protect Your Patrons | Great Valley Lockshop | [Read More](https://medium.com/p/06f02d42ff3f) |
+| Wed, 05 Nov 2025 12:43:13 GMT | Hide & Seek for a Week | Emily Gibson | [Read More](https://medium.com/p/f7fe92b3f8cd) |
+| Wed, 05 Nov 2025 12:42:46 GMT | How I Hacked Bank’s Admin Portal | Athul MS | [Read More](https://medium.com/p/11c1233c4938) |
+| Wed, 05 Nov 2025 12:42:06 GMT | JavaScript Essentials — Writeup | Mahir | [Read More](https://medium.com/p/8828c10665e4) |
+| Wed, 05 Nov 2025 12:40:19 GMT | Snort Challenge — The Basics Write-Up | Citadel Cybersec | [Read More](https://medium.com/p/aac54a0011f6) |
 | Wed, 05 Nov 2025 12:32:08 GMT | Open Source Under Siege | Nexumo | [Read More](https://medium.com/p/f222f5bce901) |
 | Wed, 05 Nov 2025 12:32:06 GMT | Salvation for Nigerian Saints or Washington’s strategy against China? | Busayo James-Olufade | [Read More](https://medium.com/p/0945157eb552) |
 | Wed, 05 Nov 2025 12:30:10 GMT | Why GCCs Are Betting on Next-Gen GBS for Strategic Advantage | IMS Global Business Solutions | [Read More](https://medium.com/p/d7be4f3843c6) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 07:48:03 GMT | Broken User Authentication in Modern APIs: A Technical Deep Dive | Jei Ess | [Read More](https://medium.com/p/197cb1d89aec) |
 | Wed, 05 Nov 2025 07:46:42 GMT | What Is ISO 27001 — And Why Senior Management Should Care | Fook Hwa Tan | [Read More](https://medium.com/p/3434fb18c9e1) |
 | Wed, 05 Nov 2025 07:41:55 GMT | AuthZilla, Rethinking Authorization For The Modern Era | Criteo R&D | [Read More](https://medium.com/p/40423fb3f33c) |
-| Wed, 05 Nov 2025 07:35:54 GMT | The Daily Tech Digest: 05 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/17d0e14f604c) |
-| Wed, 05 Nov 2025 07:33:32 GMT | Huawei Ascend GX1 — A Practical Smartphone with a Big Display | Mkmobilearena | [Read More](https://medium.com/p/d626158f401f) |
-| Wed, 05 Nov 2025 07:31:16 GMT | Key Reasons to Install an Access Control System on Your Premises | ukstandardblog | [Read More](https://medium.com/p/03df9db1e1d3) |
-| Wed, 05 Nov 2025 07:29:16 GMT | Mighty Hacker Recovery is a reliable option for those seeking assistance in recovering stolen USDT. | Betty Cream | [Read More](https://medium.com/p/b57d783563a7) |
-| Wed, 05 Nov 2025 07:28:04 GMT | Unattended - Complete TryHackMe Walkthrough | 0xRahul | [Read More](https://medium.com/p/02a710218dfe) |
-| Wed, 05 Nov 2025 07:27:30 GMT | Intro to Malware Analysis - Complete TryHackMe Walkthrough | 0xRahul | [Read More](https://medium.com/p/d1c7c58fec87) |
-| Wed, 05 Nov 2025 07:26:50 GMT | ประจำวันพุธที่ 5 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/fde3ccf89eca) |
-| Wed, 05 Nov 2025 07:25:26 GMT | Stealthy Recon: Master Passive Information Gathering for Pentesters Step-by-Step | Very Lazy Tech | [Read More](https://medium.com/p/166c6ee8d580) |
-| Wed, 05 Nov 2025 07:24:08 GMT | Very Vulnerable Management API - Writeup (Bahasa Indonesia) | Relaaxx | [Read More](https://medium.com/p/97b4b551a0a5) |
-| Wed, 05 Nov 2025 07:22:54 GMT | How to Evaluate Security Services in Haryana for Your Business | Lakshay Security | [Read More](https://medium.com/p/5f61d1e27c24) |
-| Wed, 05 Nov 2025 07:22:01 GMT | Security is one of the most important principles of a successful business. | Lakshay Security | [Read More](https://medium.com/p/fd1a698dd5e1) |
-| Wed, 05 Nov 2025 07:11:23 GMT | ‍♂️ Session Zombies: The Forgotten Refresh Tokens That Never Die | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a92b5def0a78) |
-| Wed, 05 Nov 2025 07:10:39 GMT | Advanced SpringBoot feature @Async annotation with @Sheduled annotation in SpringBoot | Yasif khan | [Read More](https://medium.com/p/164c61aaa5bb) |
-| Wed, 05 Nov 2025 07:07:54 GMT | Trivy: The X-Ray Vision for Your Containers and Code . | Dineth Sandakelum Herath | [Read More](https://medium.com/p/80f04ad84d1d) |
-| Wed, 05 Nov 2025 06:58:31 GMT | The Hidden Cost of IT Downtime (And How to Prevent It Before It Happens) | SignalAge | [Read More](https://medium.com/p/22d828b80d32) |
-| Wed, 05 Nov 2025 06:58:19 GMT | 5 Steps to Strengthen Your Cloud Security Posture | Digital Defense | [Read More](https://medium.com/p/e40738b9888f) |
