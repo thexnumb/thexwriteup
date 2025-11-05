@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 11:22:59 GMT | Challenges Writeup -Flaghunter 2.0 CTF | Adhamkhairy | [Read More](https://medium.com/p/8bd3939a31b3) |
 | Wed, 05 Nov 2025 11:17:51 GMT | Keep2Share: Simple, Secure, and Fast File Sharing | Filevipo | [Read More](https://medium.com/p/dfa59230c925) |
+| Wed, 05 Nov 2025 11:17:29 GMT | The AI That Started Blackmailing People — and No One Knows Why | Pdk. Pramil | [Read More](https://medium.com/p/f492a7eaea8d) |
+| Wed, 05 Nov 2025 11:16:27 GMT | Getting Started with grep in Linux (Day 7 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/ccbd48f6b8d5) |
+| Wed, 05 Nov 2025 11:16:11 GMT | 5G Security Concerns: What the Speed Upgrade Really Means | Tech Journal | [Read More](https://medium.com/p/59ebdcb19ec3) |
 | Wed, 05 Nov 2025 11:15:19 GMT | Kali Linux Command Reference Sheet | 0b1d1 | [Read More](https://medium.com/p/839362b0e928) |
 | Wed, 05 Nov 2025 11:12:20 GMT | IT-Nearshoring: Definition, Potenziale und strategische Umsetzung | Thomas Faß | [Read More](https://medium.com/p/272bd8f04788) |
+| Wed, 05 Nov 2025 11:09:38 GMT | Mapping TLS 1.3 Adoption Across Azure Services: What’s Ready & What’s Not | Loginsoft | [Read More](https://medium.com/p/0e0cb28da9d3) |
 | Wed, 05 Nov 2025 10:57:37 GMT | Why Every Organization Needs a Reliable Vendor Credentialing Service and Visitor Screening Program | Green Security | [Read More](https://medium.com/p/7cd9ed71e8f8) |
 | Wed, 05 Nov 2025 10:57:15 GMT | Depression Is Not a Feeling — It’s a Verb | Jonathan Back | [Read More](https://medium.com/p/489a80b1208c) |
 | Wed, 05 Nov 2025 10:51:05 GMT | I Analysed Over 3 Million Exposed Databases Using Netlas | Netlas.io | [Read More](https://medium.com/p/446a66b3b09f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 06:29:51 GMT | The Hidden Security Gaps in Every Modern Workplace (and How to Fix Them) | WorkInSync | [Read More](https://medium.com/p/cba8c23814db) |
 | Wed, 05 Nov 2025 06:26:38 GMT | Palo Alto Networks Business Email Compromise (BEC) Readiness Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3cf612347e51) |
 | Wed, 05 Nov 2025 06:26:03 GMT | FlareSolverr: Bypass Cloudflare for Seamless Web Scraping | Balki Maharaj | [Read More](https://medium.com/p/e678a11aa567) |
-| Wed, 05 Nov 2025 06:22:50 GMT | How I Stole an AI’s Diary and Found All Its Secrets | Iski | [Read More](https://medium.com/p/5d8786af54db) |
-| Wed, 05 Nov 2025 06:21:58 GMT | Building Multi Authentication in Oracle APEX: One App for All Users | Rohit Mittel | [Read More](https://medium.com/p/bf15a8232810) |
-| Wed, 05 Nov 2025 06:16:52 GMT | How I Found My First Web Bug as a Beginner | Shaikh Minhaz | [Read More](https://medium.com/p/960712e8002f) |
-| Wed, 05 Nov 2025 06:14:20 GMT | Paper Review: “Safety Monitoring for Learning-Enabled Cyber-Physical Systems in Out-of-Distribution… | Kyoungmin Roh | [Read More](https://medium.com/p/e0a73a9d60fa) |
-| Wed, 05 Nov 2025 06:10:16 GMT | The Future of Work in IT: Upskilling for the Age of AI and Automation | Amin Softtech | [Read More](https://medium.com/p/565cf78d6d8c) |
