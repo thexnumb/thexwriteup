@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 15:39:21 GMT | Why Every Text (on paper, in the cloud, in audiobooks) on Earth Can Now Hide Complete Secret… | Berend Watchus | [Read More](https://medium.com/p/6af752dc0345) |
+| Wed, 05 Nov 2025 15:34:05 GMT | LetsDefend — PCAP Analysis Challenge | Kozi | [Read More](https://medium.com/p/433301b2603d) |
+| Wed, 05 Nov 2025 15:33:04 GMT | I Forgot How to Talk to You | Rahul Gupta | [Read More](https://medium.com/p/89b998d4855a) |
+| Wed, 05 Nov 2025 15:32:03 GMT | Input Validation and Sanitization in Node.js: Stop Injection Attacks Before They Start | Manish Prasad | [Read More](https://medium.com/p/3c318853c60b) |
+| Wed, 05 Nov 2025 15:31:36 GMT | Kerberoasting: How a TGS ticket can crack your service accounts | Damag3dRoot | [Read More](https://medium.com/p/036de74c1e1a) |
+| Wed, 05 Nov 2025 15:29:14 GMT | The Hidden Cost of Cheap Hosting | satyaranjan bal | [Read More](https://medium.com/p/6df6cfc5baab) |
+| Wed, 05 Nov 2025 15:22:06 GMT | BAD RELATIONSHIP SERIES — EP8: USED AND CONFUSED | HEALING OUT LOUD! | [Read More](https://medium.com/p/465daded7640) |
+| Wed, 05 Nov 2025 15:19:41 GMT | Why Dashboards Miss Critical Signals and What Analysts Can Do About It | Graylog | [Read More](https://medium.com/p/335f651c885f) |
+| Wed, 05 Nov 2025 15:11:24 GMT | AI Security Newsletter — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/b416f3e516e1) |
 | Wed, 05 Nov 2025 15:09:38 GMT | $93 Million DeFi Loss — Another depegged story!! | Rahul Raj | [Read More](https://medium.com/p/8f42d8cb72b2) |
 | Wed, 05 Nov 2025 15:04:40 GMT | “The $15,000 IDOR That Threatened Snapchat’s Creator Economy” | Aman Sharma | [Read More](https://medium.com/p/379ac3fa6277) |
 | Wed, 05 Nov 2025 15:02:58 GMT | Cyber Briefing: 2025.11.05 | CyberMaterial | [Read More](https://medium.com/p/a0aaa67cd9d9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 10:23:39 GMT | How to Prevent Robbery in a Business Using Security Systems | Great Valley Lockshop | [Read More](https://medium.com/p/4b244bc20ece) |
 | Wed, 05 Nov 2025 10:20:59 GMT | From Static Site to Secure Pipeline: Adding DevSecOps to My FloodSight App in One Afternoon | Afaq Ul Haq Babar | [Read More](https://medium.com/p/c7bde42f76bd) |
 | Wed, 05 Nov 2025 10:19:32 GMT | DockerLabs Writeup — BreakMySSH (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0b9f7464a24a) |
-| Wed, 05 Nov 2025 10:15:26 GMT | Introducing ETNL | Entl | [Read More](https://medium.com/p/7c0843a5e871) |
-| Wed, 05 Nov 2025 10:10:20 GMT | What’s New in the Tecno Spark 20 Pro Plus? A Smart Choice | Ava Morgan | [Read More](https://medium.com/p/e758532e53b8) |
-| Wed, 05 Nov 2025 10:07:17 GMT | Top 7 Risk Scoring Hacks Cybersecurity Experts Use to Stay Ahead | SecureSlate | [Read More](https://medium.com/p/ace3beee0587) |
-| Wed, 05 Nov 2025 10:06:12 GMT | 02-Breakout — VulnHub walk-through | Vaibhav | [Read More](https://medium.com/p/15380f86cbf4) |
-| Wed, 05 Nov 2025 10:03:38 GMT | Konfigurasi Sistem dan Administrasi Jaringan Modul 10 (Firewall & Security) | Wiyandra Syaiful Abidin | [Read More](https://medium.com/p/03b90e84d923) |
-| Wed, 05 Nov 2025 10:02:11 GMT | SOC 2 Without Spreadsheets: Why Manual Compliance Always Fails at Scale | Hicomply | [Read More](https://medium.com/p/f82f845493dc) |
-| Wed, 05 Nov 2025 10:00:51 GMT | The Password Graveyard: Where Your Secrets Never Die | Deepak Sharma | [Read More](https://medium.com/p/edb48a1c62fc) |
-| Wed, 05 Nov 2025 10:00:27 GMT | 5DataInc: Delivering Trusted Compatibility Testing Services for Modern Businesses | Achana prashanth | [Read More](https://medium.com/p/9e06fe09da3e) |
-| Wed, 05 Nov 2025 09:58:35 GMT | How I found tricky $$$$ Server-Side Request Forgery (SSRF) | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/96c5fb630acd) |
