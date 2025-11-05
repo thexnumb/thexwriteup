@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 23:08:47 GMT | All you need to know about JA3 & JA4 Fingerprints (and how to collect them) | Gabriel Alves | [Read More](https://medium.com/p/8f189085b61f) |
+| Wed, 05 Nov 2025 22:56:05 GMT | 5 API Calls Hackers Commonly Exploit | Cyber-AppSec | [Read More](https://medium.com/p/6fd8ede584cb) |
+| Wed, 05 Nov 2025 22:43:52 GMT | Everything I did not say: “Fading in silence” | Bianca Bortolussi | [Read More](https://medium.com/p/bce4960f216b) |
+| Wed, 05 Nov 2025 22:43:46 GMT | The Digital Wolves at the Door: How Hackers and Scammers Prey on the Elderly | Kevin Kelly | [Read More](https://medium.com/p/4546d688881a) |
 | Wed, 05 Nov 2025 22:31:44 GMT | Shadow Dominion Tool: The Stealth Reporting Power That Challenges TikTok! | Sami Khatatba | [Read More](https://medium.com/p/13b00948ee66) |
+| Wed, 05 Nov 2025 22:30:40 GMT | Everthing I did not say: “Almost” | Bianca Bortolussi | [Read More](https://medium.com/p/a923a17860a3) |
 | Wed, 05 Nov 2025 22:29:17 GMT | Navigating FedRAMP: Understanding the Journey Before You Begin | Rachid Abadli | [Read More](https://medium.com/p/64c2c6762c3b) |
 | Wed, 05 Nov 2025 22:21:08 GMT | IITG Left Student Data on a Platter — I Told Them. They Ignored. | Aviral Srivastava | [Read More](https://medium.com/p/cbf02707dbd0) |
 | Wed, 05 Nov 2025 22:06:24 GMT | When Truth Became Editable: The Rise of Deepfakes and the War on Reality | Jessica Malini | [Read More](https://medium.com/p/35959c6037a1) |
@@ -108,8 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 15:04:40 GMT | “The $15,000 IDOR That Threatened Snapchat’s Creator Economy” | Aman Sharma | [Read More](https://medium.com/p/379ac3fa6277) |
 | Wed, 05 Nov 2025 15:02:58 GMT | Cyber Briefing: 2025.11.05 | CyberMaterial | [Read More](https://medium.com/p/a0aaa67cd9d9) |
 | Wed, 05 Nov 2025 15:02:56 GMT | The Invitation We Almost Declined | Arun Kumar | [Read More](https://medium.com/p/f0e3c2f9ff70) |
-| Wed, 05 Nov 2025 15:01:41 GMT | Job Scams Masquerade as Dream Companies and Friendly Recruiters | Karl Buhl | [Read More](https://medium.com/p/eae7b5412280) |
-| Wed, 05 Nov 2025 14:58:38 GMT | Why I Always Check for Hidden Reverse Shells on My Servers (And How You Can Too) | Faruk Ahmed | [Read More](https://medium.com/p/596cf6cfed54) |
-| Wed, 05 Nov 2025 14:57:08 GMT | SQL Fundamentals — Writeup | Mahir | [Read More](https://medium.com/p/1ed15971a3b8) |
-| Wed, 05 Nov 2025 14:56:58 GMT | SOC In Blue Team Walkthrough. Revamped TryHackMe. | Lintu Oommen | [Read More](https://medium.com/p/40de16b2e819) |
-| Wed, 05 Nov 2025 14:56:20 GMT | How Cloudflare Became My Personal Website’s Shield Against the Unknown | Frex Cuadillera | [Read More](https://medium.com/p/aee450205ba9) |
