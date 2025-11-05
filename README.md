@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 10:15:26 GMT | Introducing ETNL | Entl | [Read More](https://medium.com/p/7c0843a5e871) |
+| Wed, 05 Nov 2025 10:10:20 GMT | What’s New in the Tecno Spark 20 Pro Plus? A Smart Choice | Ava Morgan | [Read More](https://medium.com/p/e758532e53b8) |
+| Wed, 05 Nov 2025 10:07:17 GMT | Top 7 Risk Scoring Hacks Cybersecurity Experts Use to Stay Ahead | SecureSlate | [Read More](https://medium.com/p/ace3beee0587) |
+| Wed, 05 Nov 2025 10:06:12 GMT | 02-Breakout — VulnHub walk-through | Vaibhav | [Read More](https://medium.com/p/15380f86cbf4) |
+| Wed, 05 Nov 2025 10:03:38 GMT | Konfigurasi Sistem dan Administrasi Jaringan Modul 10 (Firewall & Security) | Wiyandra Syaiful Abidin | [Read More](https://medium.com/p/03b90e84d923) |
+| Wed, 05 Nov 2025 10:02:11 GMT | SOC 2 Without Spreadsheets: Why Manual Compliance Always Fails at Scale | Hicomply | [Read More](https://medium.com/p/f82f845493dc) |
+| Wed, 05 Nov 2025 10:00:51 GMT | The Password Graveyard: Where Your Secrets Never Die | Deepak Sharma | [Read More](https://medium.com/p/edb48a1c62fc) |
+| Wed, 05 Nov 2025 10:00:27 GMT | 5DataInc: Delivering Trusted Compatibility Testing Services for Modern Businesses | Achana prashanth | [Read More](https://medium.com/p/9e06fe09da3e) |
+| Wed, 05 Nov 2025 09:58:35 GMT | How I found tricky $$$$ Server-Side Request Forgery (SSRF) | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/96c5fb630acd) |
+| Wed, 05 Nov 2025 09:56:52 GMT | The Architect’s Complete Guide to Salesforce SSO — Advanced Scenarios & Complex Implementations… | Pedro Távora Santos | [Read More](https://medium.com/p/bdd1bade4bc7) |
+| Wed, 05 Nov 2025 09:55:10 GMT | The Next Phase of Africa’s Technology Evolution — And Why Techero Is Building the Backbone | Techero | [Read More](https://medium.com/p/46ec4565ffe1) |
+| Wed, 05 Nov 2025 09:52:09 GMT | Excel vs Google Sheets: Which One Is Better for You? | Technologia | [Read More](https://medium.com/p/7edd864235a6) |
+| Wed, 05 Nov 2025 09:51:02 GMT | Flag in Flame — How a Giant Log File Hid a Secret Image and a Flag | Saumya Srivastava | [Read More](https://medium.com/p/e5fe920e3e12) |
+| Wed, 05 Nov 2025 09:48:23 GMT | Multi Factor Authentication Cyber Security: Boost Your Defense Today | Techzonego | [Read More](https://medium.com/p/7d38197a4aa9) |
+| Wed, 05 Nov 2025 09:44:02 GMT | Streamlining IT Growth with Smart Staff Augmentation Service | Nataliakatin | [Read More](https://medium.com/p/9cf6a4f5f364) |
 | Wed, 05 Nov 2025 09:36:16 GMT | The Moment I Realized Linux Isn’t Hard, We’ve Just Been Using Computers Wrong | Fateyaly | [Read More](https://medium.com/p/a6cfd8f07e7b) |
 | Wed, 05 Nov 2025 09:33:38 GMT | ️ AWS IAM: Introduction, Users & Groups | Prutha_Dongre | [Read More](https://medium.com/p/3127ee123867) |
 | Wed, 05 Nov 2025 09:29:45 GMT | Building Smarter Teams with Expert IT Staffing Solutions | Nataliakatin | [Read More](https://medium.com/p/a64fcc6c91f4) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 04:18:08 GMT | Building a Mini SIEM Dashboard with Python: Automating Log Analysis, Threat Detection, and… | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/e40e7c7e5430) |
 | Wed, 05 Nov 2025 04:07:49 GMT | I Made Python Faster Than Go Using This One Weird Trick | Rizqi Mulki | [Read More](https://medium.com/p/4e1e994264f5) |
 | Wed, 05 Nov 2025 04:04:35 GMT | How I Built a Cloud-Native SIEM with Spring Boot to Detect Real-Time AWS Threats | Sohan Kanna D | [Read More](https://medium.com/p/fad725387a37) |
-| Wed, 05 Nov 2025 03:57:59 GMT | Insecure Direct Object References (IDOR): The $1 Billion Authorization Bug | InstaTunnel | [Read More](https://medium.com/p/cfc342ba428a) |
-| Wed, 05 Nov 2025 03:43:53 GMT | h4cked — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/72de628a99a0) |
-| Wed, 05 Nov 2025 03:36:16 GMT | The Silent Collapse of Data Privacy: Why Control in the Age of Surveillance Capitalism Is an… | Aditya Suryawanshi | [Read More](https://medium.com/p/2499c63a1e5d) |
-| Wed, 05 Nov 2025 03:32:24 GMT | AI in the Wrong Hands: How Cybercriminals Are Weaponizing Claude | Deven Chhajed | [Read More](https://medium.com/p/9635ae5b3c84) |
-| Wed, 05 Nov 2025 03:32:23 GMT | 10 Key Tips for Implementing OWASP Top 10 in Node.js | Arunangshu Das | [Read More](https://medium.com/p/7457d2ac2665) |
-| Wed, 05 Nov 2025 03:17:51 GMT | Cybersecurity Vendors and Hackers Share One Thing in Common | Timsux Wales | [Read More](https://medium.com/p/1350c0d831cb) |
-| Wed, 05 Nov 2025 03:14:21 GMT | The Cost of Emotional Honesty | Arushi Sharma | [Read More](https://medium.com/p/2a4658d96f74) |
-| Wed, 05 Nov 2025 03:10:30 GMT | Plotted-TMS (Tryhackme writeup) | CO0L7 | [Read More](https://medium.com/p/1aa40aac7fee) |
-| Wed, 05 Nov 2025 03:10:21 GMT | Outsourced vs In-House Cybersecurity: How to Make the Right Choice | Blackbird IT | [Read More](https://medium.com/p/fe927c391c6c) |
-| Wed, 05 Nov 2025 03:02:04 GMT | ️ The Art of Digital Trust: Understanding PCI DSS Compliance | Ruturaj Jarag | [Read More](https://medium.com/p/86a8f4d8e1af) |
-| Wed, 05 Nov 2025 03:02:00 GMT | Cyber Briefing: 2025.11.04 | CyberMaterial | [Read More](https://medium.com/p/944e698e5923) |
-| Wed, 05 Nov 2025 02:58:37 GMT | The Evolution of Hash Functions: From MD5 to Modern Security | Thuong To | [Read More](https://medium.com/p/b86ce531afce) |
-| Wed, 05 Nov 2025 02:52:47 GMT | HTB — Dancing | Lautaro Robayna | [Read More](https://medium.com/p/878ee534cbfb) |
-| Wed, 05 Nov 2025 02:52:02 GMT | Wazuh dashboard server is not ready yet | Haldian | [Read More](https://medium.com/p/4c78dbff7dc9) |
-| Wed, 05 Nov 2025 02:48:14 GMT | Weekly Threat Intelligence Report 4 Nov 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/9d72567c6ad5) |
