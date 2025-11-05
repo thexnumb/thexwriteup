@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 05 Nov 2025 08:45:01 GMT | Understanding How the Dark Web Works | Frost | [Read More](https://medium.com/p/d69f25530816) |
+| Wed, 05 Nov 2025 08:40:38 GMT | Inside LOLA OS: The Architecture That Unlocks On-Chain AI Agents | Levi Chinecherem Chidi | [Read More](https://medium.com/p/64d03ac3c8b6) |
+| Wed, 05 Nov 2025 08:25:57 GMT | Securing the ‘Queen of the Arabian Sea’: Why You Need the Best Security Service in Kochi | Sambhu Sunil | [Read More](https://medium.com/p/0bcbce10a7a3) |
+| Wed, 05 Nov 2025 08:23:59 GMT | The Rising Threats in Cybersecurity: Protecting Your Digital Assets | Yana Veretilnyk | [Read More](https://medium.com/p/e6a2c86c78f3) |
 | Wed, 05 Nov 2025 08:09:54 GMT | Information Security Risk Management | Timelina | [Read More](https://medium.com/p/55b0db981389) |
 | Wed, 05 Nov 2025 08:06:54 GMT | Windows 11 Security Features You Should Enable! | Bostamimahmud | [Read More](https://medium.com/p/7bbf6cef7c24) |
 | Wed, 05 Nov 2025 08:04:15 GMT | Unexpected iPhone 11 Pro Max Features That Feel Like Magic | Chloe White | [Read More](https://medium.com/p/1315a44d3bc1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 02:03:32 GMT | DownUnderCTF — Osint — GranniE/Zer0C00l [PT-BR] | Ooozaru | [Read More](https://medium.com/p/a80f9bcd59c5) |
 | Wed, 05 Nov 2025 02:02:02 GMT | Cara Pakai — dart-define-from-file di Flutter untuk Secure API Key | Fitria Widyani | [Read More](https://medium.com/p/8162ef456fe0) |
 | Wed, 05 Nov 2025 01:58:45 GMT | AI Browsers and Prompt Injection: The New Cybersecurity Frontier | Md Asaduzzaman Atik | [Read More](https://medium.com/p/c482a8bc8a9b) |
-| Wed, 05 Nov 2025 01:53:58 GMT | AWS IAM Roles Anywhere Explained: Secure Authentication for External Workloads | NIKHIL P PAWAR | [Read More](https://medium.com/p/3bcfe72de4bf) |
-| Wed, 05 Nov 2025 01:47:18 GMT | Fluffy HTB Machine Walk-Through. | Nmullenski | [Read More](https://medium.com/p/6963fc9abde2) |
-| Wed, 05 Nov 2025 01:41:23 GMT | How I Turned a Page Leak into a Post-Exploitation Report — Lessons for Defenders | Vivektumma27 | [Read More](https://medium.com/p/fc29ea8fdd8f) |
-| Wed, 05 Nov 2025 01:38:30 GMT | How hackers find ANYONE using Sherlock (OSINT basics) | Jackson Mittag | [Read More](https://medium.com/p/31030aeafa74) |
