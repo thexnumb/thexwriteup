@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 11:38:49 GMT | What makes Samsung A Series Sleek and Stand Out in the Market? | Ella Walker | [Read More](https://medium.com/p/d8b1772b57e3) |
+| Thu, 06 Nov 2025 11:34:32 GMT | Why the Infinix New Phone Is the Ultimate Pick for Gamers on a Budget | Zara Everly | [Read More](https://medium.com/p/ffdb2d64fe46) |
+| Thu, 06 Nov 2025 11:25:03 GMT | Business Tech can become an attack vector for hackers | Century Solutions Group | [Read More](https://medium.com/p/7dc7d4356a35) |
+| Thu, 06 Nov 2025 11:24:24 GMT | Good day everyone,I am Musa Abubakar a cyber security student from SOFT ICU HUB. | Musaabubakahr | [Read More](https://medium.com/p/1419cfec4cff) |
+| Thu, 06 Nov 2025 11:23:32 GMT | A Fake Income Tax Email That Delivered a RAT — Inside the Attack | CipherX9F Security | [Read More](https://medium.com/p/0a7b0373e110) |
+| Thu, 06 Nov 2025 11:20:04 GMT | Good day,I’m Musa Abubakar a cyber security student at SOFT ICU HUB. | Musaabubakahr | [Read More](https://medium.com/p/f98add191f1a) |
+| Thu, 06 Nov 2025 11:16:44 GMT | cybersecurity online risk assessment | C | [Read More](https://medium.com/p/6cd54712bc6d) |
+| Thu, 06 Nov 2025 11:16:07 GMT | HTB_Academy: Skills Assessment —  Pivoting, Tunneling, and Port Forwarding | Babatunde Ojo | [Read More](https://medium.com/p/17c66daa1ff7) |
 | Thu, 06 Nov 2025 11:14:16 GMT | Electron Under the Microscope | Lukasz Wierzbicki | [Read More](https://medium.com/p/10db33009f61) |
 | Thu, 06 Nov 2025 11:11:16 GMT | Bandit OverTheWire writeup — Level 11 → Level 12 | Dawid Kowalski | [Read More](https://medium.com/p/382e597618b9) |
 | Thu, 06 Nov 2025 11:10:43 GMT | Bandit OverTheWire writeup — Level 10 → Level 11 | Dawid Kowalski | [Read More](https://medium.com/p/908b820e4675) |
@@ -48,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 09:38:57 GMT | How Data Flows Inside Linux — From Keypress to Kernel to Network | Zoningxtr | [Read More](https://medium.com/p/76e71d8b7c74) |
 | Thu, 06 Nov 2025 09:35:41 GMT | THE SELF-REPLICATING VIRUS THAT’S WIPING OUT THE WORLD: FROM SCIENCE FICTION TO FACT | Robot Crime blog | [Read More](https://medium.com/p/22b128f14e56) |
 | Thu, 06 Nov 2025 09:34:29 GMT | From Single Processors to the Post-Quantum Era: The Next Paradigm in High Availability System… | Laura Garcia | [Read More](https://medium.com/p/033fb6073086) |
+| Thu, 06 Nov 2025 09:32:43 GMT | Still 4,600+ WSUS Servers Unpatched After Critical RCE Flaw (CVE-2025–59287) | Criminal IP | [Read More](https://medium.com/p/f8d97e8d1192) |
 | Thu, 06 Nov 2025 09:31:47 GMT | Systems as Attack Vectors Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/917aad98eef3) |
 | Thu, 06 Nov 2025 09:28:54 GMT | Today’s Top Cyber Intelligence Highlights — Nov 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3c351f619d39) |
 | Thu, 06 Nov 2025 09:26:56 GMT | Ensuring Safety and Trust: The Growing Demand for Professional Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/95ab32aa0fd5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 06:54:58 GMT | Is Kali Linux for Hackers? — Kaashiv Infotech Linux | Anu Chennai | [Read More](https://medium.com/p/99c97f826be3) |
 | Thu, 06 Nov 2025 06:54:29 GMT | Zero Trust Architecture: What It Is, What It Isn’t, and Why It Matters | Abioye Orimadegun | [Read More](https://medium.com/p/35c88f987d46) |
 | Thu, 06 Nov 2025 06:53:23 GMT | More Than a Gatekeeper: Why Professional Reception Security London Is Now an Absolute Necessity | 2015 Security Services ltd | [Read More](https://medium.com/p/78f00ea18204) |
-| Thu, 06 Nov 2025 06:52:51 GMT | Cognitive Convergence: When Humans, AI, and Synthetic Minds Begin to Think Together | Code & Credibility | [Read More](https://medium.com/p/9e87152215ea) |
-| Thu, 06 Nov 2025 06:41:11 GMT | Pensar fortalece o raciocínio lógico. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/65b3f8e28ed7) |
-| Thu, 06 Nov 2025 06:39:39 GMT | How AI and Machine Learning Are Revolutionizing Credit Card Fraud Detection | Sohan Lal | [Read More](https://medium.com/p/ae1c1a467923) |
-| Thu, 06 Nov 2025 06:38:55 GMT | The Daily Tech Digest: 06 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6638b1fb20b2) |
-| Thu, 06 Nov 2025 06:34:33 GMT | Professional Development in Cybersecurity: Comparing HTCIA, IACSP, and IAFS | Anderson Santos | [Read More](https://medium.com/p/f12d317653e9) |
-| Thu, 06 Nov 2025 06:26:12 GMT | Why You’ll Love the Infinix New Phone for Its Sleek Design and Speed | Chloe White | [Read More](https://medium.com/p/5b442bfa9539) |
-| Thu, 06 Nov 2025 06:12:27 GMT | How to Keep Your Kids Safe Online Without Spying | Cybersecurity Insights | [Read More](https://medium.com/p/5578bdeb566e) |
-| Thu, 06 Nov 2025 06:03:45 GMT | gocrypt Gets Faster: Caching, Slices, and Lessons in Not Doing the Same Work Twice | Firda Safridi | [Read More](https://medium.com/p/35513c2bfefb) |
-| Thu, 06 Nov 2025 06:03:19 GMT | Why Choose Crimsafe The Ultimate Protection for Your Home | Gold Coast Security Screens | [Read More](https://medium.com/p/e5f3bf3a5118) |
