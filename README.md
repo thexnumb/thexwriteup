@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 05:06:31 GMT | Cutting Off the “Open-Box” Hands: How Arisk Helps Law Enforcement Defend Privacy | Arisk | [Read More](https://medium.com/p/ced449241db7) |
+| Thu, 06 Nov 2025 05:03:24 GMT | Jailbreak -Tuning Method | WomenTech Space Disruptor | [Read More](https://medium.com/p/572277ac4b57) |
+| Thu, 06 Nov 2025 05:02:48 GMT | How to Prepare for the Certificate of Competence in Zero Trust (CCZT) Exam? | InfosecTrain | [Read More](https://medium.com/p/0d4064fbdec9) |
+| Thu, 06 Nov 2025 05:01:37 GMT | What is Responsible AI? | InfosecTrain | [Read More](https://medium.com/p/09867bb37b47) |
+| Thu, 06 Nov 2025 05:00:17 GMT | What is Content Delivery Networks (CDN)? | InfosecTrain | [Read More](https://medium.com/p/0ef75cc9c2c5) |
+| Thu, 06 Nov 2025 04:59:26 GMT | Best Practices for Securing Proxy Servers in Corporate Networks | ProxiesThatWork | [Read More](https://medium.com/p/6fb9186bac4f) |
+| Thu, 06 Nov 2025 04:57:46 GMT | The Course-Selling Era of Cybersecurity | Rubab Fatima | [Read More](https://medium.com/p/4a6318629c57) |
+| Thu, 06 Nov 2025 04:57:32 GMT | OpenAI’s Aardvark: The GPT-5 Agent Transforming Cybersecurity | AgileWoW | [Read More](https://medium.com/p/14d02814f65f) |
+| Thu, 06 Nov 2025 04:38:02 GMT | Advanced MongoDB Operations and Data Query | fijrisalwa | [Read More](https://medium.com/p/1a25928631c9) |
+| Thu, 06 Nov 2025 04:33:31 GMT | The Hidden Language of the Internet: What Network Protocols Really Do (and Why They Matter) | Sajjad Hussain | [Read More](https://medium.com/p/b6d7a7db5123) |
 | Thu, 06 Nov 2025 04:32:55 GMT | Project Management Information System (PMIS): What is it & how it works | TaskFord | [Read More](https://medium.com/p/77b36dc58338) |
+| Thu, 06 Nov 2025 04:32:51 GMT | EXCESSIVE DATA EXPOSURE: ALL YOU NEED TO KNOW | Jei Ess | [Read More](https://medium.com/p/1c42f73f9f80) |
 | Thu, 06 Nov 2025 04:32:04 GMT | The Hacker’s Playbook Changed. Have You? | NizzCorp Academy | [Read More](https://medium.com/p/b8eb88529e2d) |
+| Thu, 06 Nov 2025 04:32:04 GMT | AWS IAM Users and Roles — Understanding | Krushnat Kapse | [Read More](https://medium.com/p/ee9327091dce) |
+| Thu, 06 Nov 2025 04:32:02 GMT | “Empowered to Secure — My Experience at BIA’s Cybersecurity Program” | Afreedalok | [Read More](https://medium.com/p/eebb1282d681) |
+| Thu, 06 Nov 2025 04:31:29 GMT | In-Depth Analysis of Runc Container Escape Vulnerabilities (CVE-2025–31133 et al.) | Ugorange | [Read More](https://medium.com/p/16e32c63871d) |
 | Thu, 06 Nov 2025 03:37:10 GMT | Protecting Your Digital Presence: Nina Creative Designs Expands into Cybersecurity Services | Sonny Parker | [Read More](https://medium.com/p/218298a25f9e) |
 | Thu, 06 Nov 2025 03:31:57 GMT | Unmasking the Underground: How a Ransomware Gang Is Redefining Cyber Extortion | Deven Chhajed | [Read More](https://medium.com/p/b6ef9ca20fba) |
 | Thu, 06 Nov 2025 03:31:57 GMT | 5 Essential Tips for Preventing SSRF and Injection Attacks in Node.js Applications | Arunangshu Das | [Read More](https://medium.com/p/5b1d5f5e555c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 19:11:18 GMT | Microsoft Purview’de Veri Etiketleme: Hassas Bilgi Türleriyle Daha Güçlü Koruma | Kerimcan Ö. | [Read More](https://medium.com/p/4551c1c32138) |
 | Wed, 05 Nov 2025 18:56:33 GMT | Event Services: The Complete Guide to Creating Seamless, High-Impact Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/c24f41b0d39a) |
 | Wed, 05 Nov 2025 18:56:09 GMT | 164 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/90ab42c23087) |
-| Wed, 05 Nov 2025 18:41:50 GMT | Random digits | Karl Tame | [Read More](https://medium.com/p/17ad8b12d117) |
-| Wed, 05 Nov 2025 18:41:41 GMT | Alert Triage With Elastic Tryhackme Walkthrough | Jawstar | [Read More](https://medium.com/p/443de7935003) |
-| Wed, 05 Nov 2025 18:38:40 GMT | Common Attacks: An Offensive Mindset for New Pentesters | David Ajuzie | [Read More](https://medium.com/p/704869140e8f) |
-| Wed, 05 Nov 2025 18:38:06 GMT | How to bypass UAC in Windows Operating System? (Part — 01) | Sachin Sir | [Read More](https://medium.com/p/11b72c3e06fa) |
-| Wed, 05 Nov 2025 18:35:37 GMT | What I’ve Been Learning About Security Recruiting — in Plain English | LaJuan Grier/ Juannilicious | [Read More](https://medium.com/p/ea8549fe4b73) |
-| Wed, 05 Nov 2025 18:19:42 GMT | Upstyle Backdoor (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/7513e41cd145) |
-| Wed, 05 Nov 2025 18:16:51 GMT | Have You Ever Been Defrauded by Hackerone? You May Be Entitled To A Large Cash Settlement! | Justas_b | [Read More](https://medium.com/p/c3a1876ac2fa) |
-| Wed, 05 Nov 2025 18:08:41 GMT | BUG BOUNTY — ÖDÜL AVCILIĞI | Ahmet ŞAHİN | [Read More](https://medium.com/p/7ef15c8aa948) |
-| Wed, 05 Nov 2025 17:57:05 GMT | Why Choose Valmont Security for On-Demand Services in London | 01group | [Read More](https://medium.com/p/82879bcff890) |
-| Wed, 05 Nov 2025 17:53:13 GMT | GraphQL Security: Complete Guide to Finding Hidden Vulnerabilities | Muhammad Haider Tallal | [Read More](https://medium.com/p/cfe590b468b4) |
-| Wed, 05 Nov 2025 17:50:00 GMT | Bug Bounty for Beginners: A Direct, 2-Week Sprint to Start Hunting | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f55262f6132f) |
-| Wed, 05 Nov 2025 17:48:33 GMT | PhantomPi: A Covert Red Team Implant (Part 1) | Alessandro Tagliafierro | [Read More](https://medium.com/p/8976a72c34d0) |
-| Wed, 05 Nov 2025 17:41:55 GMT | HTB BoardLight (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/debd4b6d908f) |
-| Wed, 05 Nov 2025 17:39:52 GMT | Web Hack - SQL injection - Hacking Services - Hire Hacker | BlackHat | [Read More](https://medium.com/p/2a653f53515c) |
