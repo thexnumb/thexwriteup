@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 11:14:16 GMT | Electron Under the Microscope | Lukasz Wierzbicki | [Read More](https://medium.com/p/10db33009f61) |
+| Thu, 06 Nov 2025 11:11:16 GMT | Bandit OverTheWire writeup — Level 11 → Level 12 | Dawid Kowalski | [Read More](https://medium.com/p/382e597618b9) |
+| Thu, 06 Nov 2025 11:10:43 GMT | Bandit OverTheWire writeup — Level 10 → Level 11 | Dawid Kowalski | [Read More](https://medium.com/p/908b820e4675) |
+| Thu, 06 Nov 2025 11:09:47 GMT | Steering Product Modernization: Key Strategies for Achieving Success | Pratik Mistry | [Read More](https://medium.com/p/a1a56c7717a0) |
+| Thu, 06 Nov 2025 11:09:28 GMT | Bandit OverTheWire writeup — Level 9 → Level 10 | Dawid Kowalski | [Read More](https://medium.com/p/f29ae80f82ef) |
+| Thu, 06 Nov 2025 11:05:00 GMT | Top 10 Ethical Hacking Tools Every Hacker Should Master in 2025 | Alphyoops | [Read More](https://medium.com/p/411ef94d60a1) |
+| Thu, 06 Nov 2025 11:01:16 GMT | Once Upon a Timeline: From Chatrooms to Chaos | Pavel Hromadnik | [Read More](https://medium.com/p/306f02f4ea82) |
+| Thu, 06 Nov 2025 10:55:51 GMT | Layers of Lies | H3XH7WK | [Read More](https://medium.com/p/b606994a4d0d) |
+| Thu, 06 Nov 2025 10:55:08 GMT | The CISO’s Guide to AI: 5 AI Major Security Concerns and a 3-Step Mitigation Plan | Zeev Kalyuzhner | [Read More](https://medium.com/p/a94a3c2e5b8f) |
+| Thu, 06 Nov 2025 10:54:38 GMT | Top 10 Cybersecurity Challenges Behind 2025’s Major Incidents | Dr. Deep Pandey | [Read More](https://medium.com/p/e132da309cad) |
+| Thu, 06 Nov 2025 10:50:33 GMT | Algorithmic Defiance, the ‘Edgelord’ Core, AI explained ‘how to switch off political correct… | Berend Watchus | [Read More](https://medium.com/p/c5e8e5ad1959) |
 | Thu, 06 Nov 2025 10:36:10 GMT | How to Migrate a Concrete5 Website to WordPress CMS: A Simple 2025 Guide | Chris | [Read More](https://medium.com/p/68741abe0e8e) |
 | Thu, 06 Nov 2025 10:35:50 GMT | How Victims Unknowingly Give Out Vital Information to Hackers | Martin Onyisi | [Read More](https://medium.com/p/e682a8dc1935) |
 | Thu, 06 Nov 2025 10:35:06 GMT | Best Endpoint Security Services Provider in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/89ddf6a6dec4) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 06:12:27 GMT | How to Keep Your Kids Safe Online Without Spying | Cybersecurity Insights | [Read More](https://medium.com/p/5578bdeb566e) |
 | Thu, 06 Nov 2025 06:03:45 GMT | gocrypt Gets Faster: Caching, Slices, and Lessons in Not Doing the Same Work Twice | Firda Safridi | [Read More](https://medium.com/p/35513c2bfefb) |
 | Thu, 06 Nov 2025 06:03:19 GMT | Why Choose Crimsafe The Ultimate Protection for Your Home | Gold Coast Security Screens | [Read More](https://medium.com/p/e5f3bf3a5118) |
-| Thu, 06 Nov 2025 05:50:15 GMT | Podman Security: Image Signing, Scanning, and Runtime Hardening | Naushil Jain | [Read More](https://medium.com/p/2a4b255fbd2b) |
-| Thu, 06 Nov 2025 05:42:13 GMT | Cybersecurity: Definition, Importance, and Best Practices | Cloudavize | [Read More](https://medium.com/p/b5764f6c2bd5) |
-| Thu, 06 Nov 2025 05:35:53 GMT | Future-Proof Your Career with These AI Security Credentials | Siddharth Sharma | [Read More](https://medium.com/p/26fa16d8bec9) |
-| Thu, 06 Nov 2025 05:30:50 GMT | Telangana MSMEs in International Trade: Catalysts of Inclusive Global Growth | World Trade Center Shamshabad - Future City | [Read More](https://medium.com/p/09f8f396019b) |
-| Thu, 06 Nov 2025 05:24:26 GMT | Writeup Evilbox-One Bahasa Indonesia | Chiekal | [Read More](https://medium.com/p/e541f16bbcbb) |
-| Thu, 06 Nov 2025 05:20:02 GMT | Deploying the Wazuh Agent on Ubuntu via the Wazuh Dashboard | Pascal Ngono | [Read More](https://medium.com/p/34b77812cce4) |
-| Thu, 06 Nov 2025 05:19:27 GMT | How Multi-Factor Authentication Strengthens Data Protection | Sytex | [Read More](https://medium.com/p/637df064a883) |
-| Thu, 06 Nov 2025 05:06:31 GMT | Cutting Off the “Open-Box” Hands: How Arisk Helps Law Enforcement Defend Privacy | Arisk | [Read More](https://medium.com/p/ced449241db7) |
-| Thu, 06 Nov 2025 05:03:24 GMT | Jailbreak -Tuning Method | WomenTech Space Disruptor | [Read More](https://medium.com/p/572277ac4b57) |
-| Thu, 06 Nov 2025 05:02:48 GMT | How to Prepare for the Certificate of Competence in Zero Trust (CCZT) Exam? | InfosecTrain | [Read More](https://medium.com/p/0d4064fbdec9) |
-| Thu, 06 Nov 2025 05:01:37 GMT | What is Responsible AI? | InfosecTrain | [Read More](https://medium.com/p/09867bb37b47) |
