@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 08:38:28 GMT | Linux Commands Every Cybersecurity Learner Should Master | Akanksha Mane | [Read More](https://medium.com/p/6a6363df91d4) |
+| Thu, 06 Nov 2025 08:38:28 GMT | Rajkot Hospital Servers Compromised, Sensitive CCTV Footage Exposed | Himanshu Bhatt | [Read More](https://medium.com/p/5185c54ff230) |
+| Thu, 06 Nov 2025 08:35:10 GMT | How to Speak Boardroom — Not Server Room — About Cyber Risk | Fook Hwa Tan | [Read More](https://medium.com/p/d034e19ee92f) |
+| Thu, 06 Nov 2025 08:32:48 GMT | Cybersecurity ≠ IT Budget: 3 Myths Leaders Still Believe | Fook Hwa Tan | [Read More](https://medium.com/p/d114f0987613) |
+| Thu, 06 Nov 2025 08:32:40 GMT | EtherHiding: How Malware Lives Inside Smart Contracts | KeyboardSamurai | [Read More](https://medium.com/p/122f09199cb6) |
+| Thu, 06 Nov 2025 08:31:48 GMT | What Is CERT-In Empanelment and Why It Matters for Indian Businesses | Digital Defense | [Read More](https://medium.com/p/c84ede53382b) |
+| Thu, 06 Nov 2025 08:31:40 GMT | Demystifying ISA 62443 (Part 2): The 62443 Family, Decoding the Standards and How They Fit Together | Suhail R. Ahmad | [Read More](https://medium.com/p/715eea6f1931) |
 | Thu, 06 Nov 2025 08:22:04 GMT | “The Day I Found an Unsecured FTP — A Responsible Disclosure Story” | H4RUK7 K1R4 | [Read More](https://medium.com/p/00caf67ec647) |
 | Thu, 06 Nov 2025 08:07:51 GMT | BOT 2.0: A Better Global Expansion Strategy for 2026 | IMS Global Business Solutions | [Read More](https://medium.com/p/ed84b79564f7) |
 | Thu, 06 Nov 2025 08:06:25 GMT | Am I Dating a Stalker? 5 Types of Stalkers Explained | Lara Wordsmith | [Read More](https://medium.com/p/e08cf7d0e42b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 00:32:20 GMT | A Closer Look at AMSI in Windows | R1cH4t | [Read More](https://medium.com/p/29bd79989e35) |
 | Thu, 06 Nov 2025 00:24:41 GMT | Evolutions of Firewalls | Kiran Adhikari | [Read More](https://medium.com/p/24c0ae1c1210) |
 | Thu, 06 Nov 2025 00:22:09 GMT | Dumping Source Code and Accessing Internal Databases via a PHPUnit Vulnerability | Aman Singh Gill | [Read More](https://medium.com/p/91bd59ff96a6) |
-| Thu, 06 Nov 2025 00:14:24 GMT | SesameOp — Backdoor Abusing OpenAI Assistants API for Covert C2 Operations | Jason Hoskins Jr. | [Read More](https://medium.com/p/20e7994ff3a9) |
-| Wed, 05 Nov 2025 23:45:26 GMT | The Louvre Heist of 2025: Small-Time Thieves and the Crown of France | Silent Observer (Nika) | [Read More](https://medium.com/p/e1e79192f240) |
-| Wed, 05 Nov 2025 23:45:12 GMT | What Is Cybersecurity? A Beginner’s Guide to Protecting Yourself in a Digital World | CyberEchoes | [Read More](https://medium.com/p/6802946b29b9) |
-| Wed, 05 Nov 2025 23:41:00 GMT | SOC Level 1 Training: Key Concepts & Skills from TryHackMe (Part 1) | Ishan Patel | [Read More](https://medium.com/p/0e354986f614) |
-| Wed, 05 Nov 2025 23:39:07 GMT | All-in-One Protection Suite - AI Antivirus & PC Utilities | Antivirus Ninja | [Read More](https://medium.com/p/2990bc0421ed) |
-| Wed, 05 Nov 2025 23:27:29 GMT | Aren’t You Sick of Being Manipulated by Social Media? | Walter Rhein | [Read More](https://medium.com/p/d34bae99befe) |
-| Wed, 05 Nov 2025 23:08:47 GMT | All you need to know about JA3 & JA4 Fingerprints (and how to collect them) | Gabriel Alves | [Read More](https://medium.com/p/8f189085b61f) |
