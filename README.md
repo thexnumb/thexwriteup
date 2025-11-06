@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 13:15:24 GMT | Militaries can’t ignore climate change — it could cripple their tech | Chris Baraniuk | [Read More](https://medium.com/p/4403bc159927) |
+| Thu, 06 Nov 2025 13:14:19 GMT | How AI Is Revolutionizing IT Support and Cybersecurity in 2025 | KnoTra Global | [Read More](https://medium.com/p/36e27efc028d) |
+| Thu, 06 Nov 2025 13:14:03 GMT | How AI is Transforming Compliance for Modern Businesses | Maruti Techlabs | [Read More](https://medium.com/p/72a5ad0df781) |
+| Thu, 06 Nov 2025 13:11:15 GMT | HackTheBox Academy Footprinting Oracle TNS (Easy setup) | Birdv | [Read More](https://medium.com/p/32c0c6944806) |
+| Thu, 06 Nov 2025 13:09:18 GMT | Microsoft Defender for Endpoints (MDE) | Navneet Kumar | [Read More](https://medium.com/p/71a4445f67b8) |
+| Thu, 06 Nov 2025 13:07:11 GMT | The War You Never See | Haroon Shahid | [Read More](https://medium.com/p/f0e36bc4eb99) |
+| Thu, 06 Nov 2025 13:03:53 GMT | Huntress CTF 2025 MEGA Write-up | Forrest Caffray | [Read More](https://medium.com/p/1b81666bc686) |
+| Thu, 06 Nov 2025 13:02:09 GMT | How Hackers Use Social Media to Steal Your Info | Cybersecurity Insights | [Read More](https://medium.com/p/755ef1c4ea53) |
+| Thu, 06 Nov 2025 13:00:58 GMT | How Passwords Are Slowly Dying Out | Aaronnsajuli | [Read More](https://medium.com/p/5035eafd961f) |
+| Thu, 06 Nov 2025 12:58:54 GMT | Free Cybersecurity Training, Internships & Soft Skills - Must Try! | Shahzaib | [Read More](https://medium.com/p/0c198f5c2736) |
+| Thu, 06 Nov 2025 12:55:57 GMT | How Hackers Collect Data Before an Attack | Shahzaib | [Read More](https://medium.com/p/296e088a7c6c) |
+| Thu, 06 Nov 2025 12:46:51 GMT | How Your SME Can Master Essential 8 Compliance Services Australia with Sentry Cyber’s Affordable… | Sentry Cyber | [Read More](https://medium.com/p/e02a92b3f10d) |
+| Thu, 06 Nov 2025 12:42:41 GMT | Top IT Technologies Transforming the Future of Digital Innovation in 2025 | Initfusion Pvt. Ltd | [Read More](https://medium.com/p/c5bb8a4201f0) |
 | Thu, 06 Nov 2025 12:39:53 GMT | Useful Hidden iPhone Codes That Unlock Secret Features | Tsumit | [Read More](https://medium.com/p/8d2a03010804) |
 | Thu, 06 Nov 2025 12:39:16 GMT | How does NDR Integrates with Existing Security Tools? | NetWitness | [Read More](https://medium.com/p/4575623c0828) |
 | Thu, 06 Nov 2025 12:34:31 GMT | Why Modern Enterprises Can No Longer Ignore Managed Detection and Response (MDR) Services | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/a5b7a2ba3b72) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 08:45:58 GMT | Evil-GPT | Kavin Jindal | [Read More](https://medium.com/p/0623b64a727c) |
 | Thu, 06 Nov 2025 08:38:28 GMT | Linux Commands Every Cybersecurity Learner Should Master | Akanksha Mane | [Read More](https://medium.com/p/6a6363df91d4) |
 | Thu, 06 Nov 2025 08:38:28 GMT | Rajkot Hospital Servers Compromised, Sensitive CCTV Footage Exposed | Himanshu Bhatt | [Read More](https://medium.com/p/5185c54ff230) |
-| Thu, 06 Nov 2025 08:35:10 GMT | How to Speak Boardroom — Not Server Room — About Cyber Risk | Fook Hwa Tan | [Read More](https://medium.com/p/d034e19ee92f) |
-| Thu, 06 Nov 2025 08:32:48 GMT | Cybersecurity ≠ IT Budget: 3 Myths Leaders Still Believe | Fook Hwa Tan | [Read More](https://medium.com/p/d114f0987613) |
-| Thu, 06 Nov 2025 08:32:40 GMT | EtherHiding: How Malware Lives Inside Smart Contracts | KeyboardSamurai | [Read More](https://medium.com/p/122f09199cb6) |
-| Thu, 06 Nov 2025 08:31:48 GMT | What Is CERT-In Empanelment and Why It Matters for Indian Businesses | Digital Defense | [Read More](https://medium.com/p/c84ede53382b) |
-| Thu, 06 Nov 2025 08:31:40 GMT | Demystifying ISA 62443 (Part 2): The 62443 Family, Decoding the Standards and How They Fit Together | Suhail R. Ahmad | [Read More](https://medium.com/p/715eea6f1931) |
-| Thu, 06 Nov 2025 08:22:04 GMT | “The Day I Found an Unsecured FTP — A Responsible Disclosure Story” | H4RUK7 K1R4 | [Read More](https://medium.com/p/00caf67ec647) |
-| Thu, 06 Nov 2025 08:07:51 GMT | BOT 2.0: A Better Global Expansion Strategy for 2026 | IMS Global Business Solutions | [Read More](https://medium.com/p/ed84b79564f7) |
-| Thu, 06 Nov 2025 08:06:25 GMT | Am I Dating a Stalker? 5 Types of Stalkers Explained | Lara Wordsmith | [Read More](https://medium.com/p/e08cf7d0e42b) |
-| Thu, 06 Nov 2025 08:02:58 GMT | The Human Firewall: Why People Are Still the Weakest Link in Cybersecurity | Shivakshi Rawat | [Read More](https://medium.com/p/4804816dc248) |
-| Thu, 06 Nov 2025 08:01:54 GMT | The Uncomfortable Truth About Hackers (And How to Stop Them) | NizzCorp Academy | [Read More](https://medium.com/p/887a6760da32) |
-| Thu, 06 Nov 2025 08:01:54 GMT | Ransomware, Rewired: 5 Trends to Watch | Syntal | [Read More](https://medium.com/p/e65402ac37a4) |
-| Thu, 06 Nov 2025 08:01:53 GMT | Part II — Vault Chronicles: Replication Without the Pager | Raymon Epping | [Read More](https://medium.com/p/052f1569412f) |
-| Thu, 06 Nov 2025 08:01:53 GMT | Smile — It Could Have Been Worse | Łukasz Ratajczak | [Read More](https://medium.com/p/17886388cdf4) |
