@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 06:26:12 GMT | Why You’ll Love the Infinix New Phone for Its Sleek Design and Speed | Chloe White | [Read More](https://medium.com/p/5b442bfa9539) |
+| Thu, 06 Nov 2025 06:12:27 GMT | How to Keep Your Kids Safe Online Without Spying | Cybersecurity Insights | [Read More](https://medium.com/p/5578bdeb566e) |
+| Thu, 06 Nov 2025 06:03:45 GMT | gocrypt Gets Faster: Caching, Slices, and Lessons in Not Doing the Same Work Twice | Firda Safridi | [Read More](https://medium.com/p/35513c2bfefb) |
+| Thu, 06 Nov 2025 06:03:19 GMT | Why Choose Crimsafe The Ultimate Protection for Your Home | Gold Coast Security Screens | [Read More](https://medium.com/p/e5f3bf3a5118) |
+| Thu, 06 Nov 2025 05:50:15 GMT | Podman Security: Image Signing, Scanning, and Runtime Hardening | Naushil Jain | [Read More](https://medium.com/p/2a4b255fbd2b) |
+| Thu, 06 Nov 2025 05:42:13 GMT | Cybersecurity: Definition, Importance, and Best Practices | Cloudavize | [Read More](https://medium.com/p/b5764f6c2bd5) |
 | Thu, 06 Nov 2025 05:35:53 GMT | Future-Proof Your Career with These AI Security Credentials | Siddharth Sharma | [Read More](https://medium.com/p/26fa16d8bec9) |
 | Thu, 06 Nov 2025 05:30:50 GMT | Telangana MSMEs in International Trade: Catalysts of Inclusive Global Growth | World Trade Center Shamshabad - Future City | [Read More](https://medium.com/p/09f8f396019b) |
 | Thu, 06 Nov 2025 05:24:26 GMT | Writeup Evilbox-One Bahasa Indonesia | Chiekal | [Read More](https://medium.com/p/e541f16bbcbb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 20:01:49 GMT | When Truth Has No Audience | Anantadev das | [Read More](https://medium.com/p/f59a71bb9885) |
 | Wed, 05 Nov 2025 19:50:59 GMT | Embedding Security Testing Across the SDLC | thedevsecopshandbook | [Read More](https://medium.com/p/32d2e6d8d7b8) |
 | Wed, 05 Nov 2025 19:44:34 GMT | The Louvre Password Leak: A Reminder of Why Cybersecurity Still Matters | mustafabakla | [Read More](https://medium.com/p/3c3ad7d89b3e) |
-| Wed, 05 Nov 2025 19:44:08 GMT | The Neurodivergent Method That Beat Traditional Distributed Architectures | Usama Haider | [Read More](https://medium.com/p/f5fe1c30d3e9) |
-| Wed, 05 Nov 2025 19:39:00 GMT | Automating Linux Privilege Escalation Checks | Cybersecplayground | [Read More](https://medium.com/p/6fb2470b07a3) |
-| Wed, 05 Nov 2025 19:38:00 GMT | THM - Alert Triage With Splunk | Abdulla Abdulrhem | [Read More](https://medium.com/p/2baa7a17783c) |
-| Wed, 05 Nov 2025 19:37:52 GMT | PQC or Bust? Well, Hybrid PQC Is The Likely Answer | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/ca78e1df3da1) |
-| Wed, 05 Nov 2025 19:36:58 GMT | Authentication Token Stored in localStorage | Abhishek sharma | [Read More](https://medium.com/p/15edd8d7a104) |
-| Wed, 05 Nov 2025 19:36:20 GMT | Midnight Bounty: How I Found a QA Portal Exposed to the Internet and Got $2,500 Overnight | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/6413393b6cb7) |
