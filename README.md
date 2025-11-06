@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 03:37:10 GMT | Protecting Your Digital Presence: Nina Creative Designs Expands into Cybersecurity Services | Sonny Parker | [Read More](https://medium.com/p/218298a25f9e) |
+| Thu, 06 Nov 2025 03:31:57 GMT | Unmasking the Underground: How a Ransomware Gang Is Redefining Cyber Extortion | Deven Chhajed | [Read More](https://medium.com/p/b6ef9ca20fba) |
+| Thu, 06 Nov 2025 03:31:57 GMT | 5 Essential Tips for Preventing SSRF and Injection Attacks in Node.js Applications | Arunangshu Das | [Read More](https://medium.com/p/5b1d5f5e555c) |
+| Thu, 06 Nov 2025 03:31:44 GMT | Top 10 Exploitation Techniques That Still Work in 2025 | Monu Jangra | [Read More](https://medium.com/p/d8a11b6d53fb) |
+| Thu, 06 Nov 2025 03:27:57 GMT | Empire for Pentesters: Automating Post-Exploitation Tasks | t2xv8 | [Read More](https://medium.com/p/3a6ad61d317c) |
+| Thu, 06 Nov 2025 03:08:47 GMT | #  Browser Security Settings You Must Enable in 2025 | Tourej | [Read More](https://medium.com/p/c008f4004f0d) |
 | Thu, 06 Nov 2025 03:06:53 GMT | PicoCTF CanYouSee — Forensics [EASY] | Alvin Kapoor | [Read More](https://medium.com/p/089b4d88518d) |
 | Thu, 06 Nov 2025 03:00:32 GMT | Practical Hypothesis Generation for Threat Hunting — Part 1 (Hunt Area) | Craig Wampler | [Read More](https://medium.com/p/ab32b3446894) |
 | Thu, 06 Nov 2025 02:58:30 GMT | Watchdog Python Code | Mersadi Freeman | [Read More](https://medium.com/p/9e7b1d0ebbdf) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 17:39:52 GMT | Web Hack - SQL injection - Hacking Services - Hire Hacker | BlackHat | [Read More](https://medium.com/p/2a653f53515c) |
 | Wed, 05 Nov 2025 17:34:51 GMT | Network Detection and Response (NDR): The Modern Art of Adversary Detection | Meriem | [Read More](https://medium.com/p/cae211802f2d) |
 | Wed, 05 Nov 2025 17:31:14 GMT | ⚙️ Inside the Linux Engine Room — Why It Dominates Cybersecurity and DevOps | Zoningxtr | [Read More](https://medium.com/p/f7e04c707916) |
-| Wed, 05 Nov 2025 17:29:00 GMT | Jupyter Misconfiguration Lets Attackers Gain Root Access: What Organizations Need to Know | Chetan Seripally | [Read More](https://medium.com/p/c1c1a234cf1d) |
-| Wed, 05 Nov 2025 17:22:37 GMT | High-Resolution File Uploads for Print Production and How to Optimize Images for Web and Print | Idera Dev Tools | [Read More](https://medium.com/p/022d9ad79cce) |
-| Wed, 05 Nov 2025 17:21:32 GMT | The Windows Forensic Journey — Wifi.etl | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/de4107b8cf7c) |
-| Wed, 05 Nov 2025 17:16:59 GMT | The Unsung Art of Excavating Legacy Code | Numan Nadeem | [Read More](https://medium.com/p/59ede616e78b) |
-| Wed, 05 Nov 2025 17:10:28 GMT | How I got access to an IDOR that exposed PII for 6.4 million users | Dedrknex | [Read More](https://medium.com/p/cabb15961bfa) |
-| Wed, 05 Nov 2025 17:08:44 GMT | Race condition allows bypassing stored family members limit in online store website— able to add… | Ahmed Talaat | [Read More](https://medium.com/p/b3c40cfd4d0a) |
