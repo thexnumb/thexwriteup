@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 01:07:16 GMT | Is Digital Identity Actually Going to Help Us? | Oleksii Zhukov | [Read More](https://medium.com/p/cf030373281a) |
+| Thu, 06 Nov 2025 00:51:53 GMT | The Hardware Pact | O. J. Okpabi | [Read More](https://medium.com/p/a0c63ce2a490) |
+| Thu, 06 Nov 2025 00:51:04 GMT | Cyber Attacks on Critical Infrastructure: The Ukraine Power Grid (2015) and the TRITON Campaign… | aasem awisat | [Read More](https://medium.com/p/51f235cb1466) |
+| Thu, 06 Nov 2025 00:49:18 GMT | The 5 most dangerous modern antibiotic resistant bacteria that threaten humans today | Michael Derek Roberts | [Read More](https://medium.com/p/b40e5bbbb011) |
+| Thu, 06 Nov 2025 00:49:06 GMT | The Cloudless Hunt | O. J. Okpabi | [Read More](https://medium.com/p/130476ae3498) |
+| Thu, 06 Nov 2025 00:45:21 GMT | PayPal Attack Update: Another ‘Do Not Pay’ Warning Issued | Nauman khan | [Read More](https://medium.com/p/e129cac91303) |
+| Thu, 06 Nov 2025 00:33:42 GMT | Introducing MCP-Gateway in Kagenti: A Unified Front Door for Your MCP Servers | hai huang | [Read More](https://medium.com/p/28db5b6ef62d) |
+| Thu, 06 Nov 2025 00:32:20 GMT | A Closer Look at AMSI in Windows | R1cH4t | [Read More](https://medium.com/p/29bd79989e35) |
+| Thu, 06 Nov 2025 00:24:41 GMT | Evolutions of Firewalls | Kiran Adhikari | [Read More](https://medium.com/p/24c0ae1c1210) |
+| Thu, 06 Nov 2025 00:22:09 GMT | Dumping Source Code and Accessing Internal Databases via a PHPUnit Vulnerability | Aman Singh Gill | [Read More](https://medium.com/p/91bd59ff96a6) |
+| Thu, 06 Nov 2025 00:14:24 GMT | SesameOp — Backdoor Abusing OpenAI Assistants API for Covert C2 Operations | Jason Hoskins Jr. | [Read More](https://medium.com/p/20e7994ff3a9) |
+| Wed, 05 Nov 2025 23:45:26 GMT | The Louvre Heist of 2025: Small-Time Thieves and the Crown of France | Silent Observer (Nika) | [Read More](https://medium.com/p/e1e79192f240) |
+| Wed, 05 Nov 2025 23:45:12 GMT | What Is Cybersecurity? A Beginner’s Guide to Protecting Yourself in a Digital World | CyberEchoes | [Read More](https://medium.com/p/6802946b29b9) |
+| Wed, 05 Nov 2025 23:41:00 GMT | SOC Level 1 Training: Key Concepts & Skills from TryHackMe (Part 1) | Ishan Patel | [Read More](https://medium.com/p/0e354986f614) |
+| Wed, 05 Nov 2025 23:39:07 GMT | All-in-One Protection Suite - AI Antivirus & PC Utilities | Antivirus Ninja | [Read More](https://medium.com/p/2990bc0421ed) |
 | Wed, 05 Nov 2025 23:27:29 GMT | Aren’t You Sick of Being Manipulated by Social Media? | Walter Rhein | [Read More](https://medium.com/p/d34bae99befe) |
 | Wed, 05 Nov 2025 23:08:47 GMT | All you need to know about JA3 & JA4 Fingerprints (and how to collect them) | Gabriel Alves | [Read More](https://medium.com/p/8f189085b61f) |
 | Wed, 05 Nov 2025 22:56:05 GMT | 5 API Calls Hackers Commonly Exploit | Cyber-AppSec | [Read More](https://medium.com/p/6fd8ede584cb) |
@@ -98,18 +113,3 @@ We’re facing a persistent issue with root detection bypass in our Android appl
 | Wed, 05 Nov 2025 16:01:00 GMT | Designing Secure APIs in 2025: Beyond JWTs and OAuth | Harshavardhan Mamidipaka | [Read More](https://medium.com/p/3a57f0450898) |
 | Wed, 05 Nov 2025 15:56:23 GMT | How I hacked 100,000+ motorcycles (including my own)… | Ilnur Khakimov | [Read More](https://medium.com/p/666bdb702b7d) |
 | Wed, 05 Nov 2025 15:48:09 GMT | From Curiosity to Validation — My First Successful Bug Bounty Submission | Tech Journal | [Read More](https://medium.com/p/007a60c8e55c) |
-| Wed, 05 Nov 2025 15:45:34 GMT | PoshC2 Framework Complete Guide | Lord Murak | [Read More](https://medium.com/p/0889deb298a5) |
-| Wed, 05 Nov 2025 15:45:02 GMT | My Final Internship Task: A Controlled Keylogging Experiment | Shashank M.S | [Read More](https://medium.com/p/d8c403d4e566) |
-| Wed, 05 Nov 2025 15:43:04 GMT | Big Data : Implementasi NoSQL Database dengan MongoDB | Yasa Wijaya | [Read More](https://medium.com/p/8fd543552521) |
-| Wed, 05 Nov 2025 15:41:30 GMT | New Study Exposes ChatGPT Flaws Allowing Data Leaks Through Prompt Attacks | Himanshu Bhatt | [Read More](https://medium.com/p/853e96f77bc2) |
-| Wed, 05 Nov 2025 15:39:21 GMT | Why Every Text (on paper, in the cloud, in audiobooks) on Earth Can Now Hide Complete Secret… | Berend Watchus | [Read More](https://medium.com/p/6af752dc0345) |
-| Wed, 05 Nov 2025 15:34:05 GMT | LetsDefend — PCAP Analysis Challenge | Kozi | [Read More](https://medium.com/p/433301b2603d) |
-| Wed, 05 Nov 2025 15:33:04 GMT | I Forgot How to Talk to You | Rahul Gupta | [Read More](https://medium.com/p/89b998d4855a) |
-| Wed, 05 Nov 2025 15:32:03 GMT | Input Validation and Sanitization in Node.js: Stop Injection Attacks Before They Start | Manish Prasad | [Read More](https://medium.com/p/3c318853c60b) |
-| Wed, 05 Nov 2025 15:31:36 GMT | Kerberoasting: How a TGS ticket can crack your service accounts | Damag3dRoot | [Read More](https://medium.com/p/036de74c1e1a) |
-| Wed, 05 Nov 2025 15:29:14 GMT | The Hidden Cost of Cheap Hosting | satyaranjan bal | [Read More](https://medium.com/p/6df6cfc5baab) |
-| Wed, 05 Nov 2025 15:22:06 GMT | BAD RELATIONSHIP SERIES — EP8: USED AND CONFUSED | HEALING OUT LOUD! | [Read More](https://medium.com/p/465daded7640) |
-| Wed, 05 Nov 2025 15:19:41 GMT | Why Dashboards Miss Critical Signals and What Analysts Can Do About It | Graylog | [Read More](https://medium.com/p/335f651c885f) |
-| Wed, 05 Nov 2025 15:11:24 GMT | AI Security Newsletter — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/b416f3e516e1) |
-| Wed, 05 Nov 2025 15:09:38 GMT | $93 Million DeFi Loss — Another depegged story!! | Rahul Raj | [Read More](https://medium.com/p/8f42d8cb72b2) |
-| Wed, 05 Nov 2025 15:04:40 GMT | “The $15,000 IDOR That Threatened Snapchat’s Creator Economy” | Aman Sharma | [Read More](https://medium.com/p/379ac3fa6277) |
