@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 03:06:53 GMT | PicoCTF CanYouSee — Forensics [EASY] | Alvin Kapoor | [Read More](https://medium.com/p/089b4d88518d) |
+| Thu, 06 Nov 2025 03:00:32 GMT | Practical Hypothesis Generation for Threat Hunting — Part 1 (Hunt Area) | Craig Wampler | [Read More](https://medium.com/p/ab32b3446894) |
+| Thu, 06 Nov 2025 02:58:30 GMT | Watchdog Python Code | Mersadi Freeman | [Read More](https://medium.com/p/9e7b1d0ebbdf) |
+| Thu, 06 Nov 2025 02:52:14 GMT | Why Beginners Struggles In Bug Bounty | Rounakraj | [Read More](https://medium.com/p/3dbfda0eae3e) |
+| Thu, 06 Nov 2025 02:51:18 GMT | Undetectable and noise resistant data hidding via direct sequence spread spectrum steganography (w… | suspendedlistener | [Read More](https://medium.com/p/fb3988bc3d3e) |
+| Thu, 06 Nov 2025 02:35:28 GMT | From Logs to Insights: Mastering SIEM for Real Security Value | Aj | [Read More](https://medium.com/p/1dd2953a823d) |
+| Thu, 06 Nov 2025 02:35:09 GMT | How Bug Bounty Programs are Improving Software Security | Samina Perveen | [Read More](https://medium.com/p/f1b8efa64d3f) |
+| Thu, 06 Nov 2025 02:34:56 GMT | Modern Recon: How Hackers Use AI to Hunt Vulnerabilities Smarter | Vipul Sonule | [Read More](https://medium.com/p/5a3cd87c3671) |
+| Thu, 06 Nov 2025 02:33:47 GMT | From Trusting Platforms to Trusting Yourself: Why 2025 Is the Year of Web3’s Security Awakening | Digital Shield Offcial | [Read More](https://medium.com/p/e20be9dc1b8a) |
+| Thu, 06 Nov 2025 02:30:31 GMT | Digital Shield: How Open Source and Universal Security End the Trust Crisis of Crypto | Digital Shield Offcial | [Read More](https://medium.com/p/e39dfcc819de) |
+| Thu, 06 Nov 2025 02:24:01 GMT | 7 AI Code Review Tools for Code Security Checks | Sonali Sood | [Read More](https://medium.com/p/aeb366d98384) |
+| Thu, 06 Nov 2025 02:18:40 GMT | Time’s Up for TOTP: Rethinking MFA in Microsoft Entra | Ean Dudley | [Read More](https://medium.com/p/3e254d0bb1f0) |
+| Thu, 06 Nov 2025 02:15:49 GMT | Very Vulnerable Management API - Writeup | Relaaxx | [Read More](https://medium.com/p/56fe55ef28f8) |
+| Thu, 06 Nov 2025 02:10:22 GMT | The Rise of SSO and MFA: A Smarter, Safer Way to Log In | Thuong To | [Read More](https://medium.com/p/c8e74329642a) |
+| Thu, 06 Nov 2025 02:01:14 GMT | Nmap Live Host Discovery TryHackMy Room | Eid Yasser Eid | [Read More](https://medium.com/p/f46a4977d240) |
+| Thu, 06 Nov 2025 01:48:19 GMT | Stop! hammerTIME: The Evolution of Memory Mayhem | ekomsSavior | [Read More](https://medium.com/p/4296b0f9db63) |
 | Thu, 06 Nov 2025 01:07:16 GMT | Is Digital Identity Actually Going to Help Us? | Oleksii Zhukov | [Read More](https://medium.com/p/cf030373281a) |
 | Thu, 06 Nov 2025 00:51:53 GMT | The Hardware Pact | O. J. Okpabi | [Read More](https://medium.com/p/a0c63ce2a490) |
 | Thu, 06 Nov 2025 00:51:04 GMT | Cyber Attacks on Critical Infrastructure: The Ukraine Power Grid (2015) and the TRITON Campaign… | aasem awisat | [Read More](https://medium.com/p/51f235cb1466) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 17:16:59 GMT | The Unsung Art of Excavating Legacy Code | Numan Nadeem | [Read More](https://medium.com/p/59ede616e78b) |
 | Wed, 05 Nov 2025 17:10:28 GMT | How I got access to an IDOR that exposed PII for 6.4 million users | Dedrknex | [Read More](https://medium.com/p/cabb15961bfa) |
 | Wed, 05 Nov 2025 17:08:44 GMT | Race condition allows bypassing stored family members limit in online store website— able to add… | Ahmed Talaat | [Read More](https://medium.com/p/b3c40cfd4d0a) |
-| Wed, 05 Nov 2025 17:06:32 GMT | Understanding Security Logging and Monitoring Failures: The Silent Weakness in Modern Cyber Defense | CyberSenpai | [Read More](https://medium.com/p/02d707dbb785) |
-| Wed, 05 Nov 2025 17:04:41 GMT | Subdomain Enumeration | Yasmin Abdelraouf | [Read More](https://medium.com/p/02e0d5a54620) |
-| Wed, 05 Nov 2025 17:04:40 GMT | When Strength and Weakness Trade Places | Comet N. | [Read More](https://medium.com/p/8ad4c2c98b69) |
-| Wed, 05 Nov 2025 16:59:59 GMT | CryoVault CTF 2025 Qualification Round — WriteUps | Ojas Maheshwari | [Read More](https://medium.com/p/db7a9d4f6de5) |
-| Wed, 05 Nov 2025 16:52:32 GMT | Hi everyone,
-We’re facing a persistent issue with root detection bypass in our Android application… | vishwanath singh | [Read More](https://medium.com/p/6439ae019088) |
-| Wed, 05 Nov 2025 16:45:31 GMT | AI Bot Armies, Password Failures and Bitcoin’s Institutional Surge: Tech Intelligence | David Grice | [Read More](https://medium.com/p/c5bc5080ee06) |
-| Wed, 05 Nov 2025 16:40:08 GMT | Deploying and Managing a Multi-Instance CTF Infrastructure on AWS | Ranen Joseph Solomon | [Read More](https://medium.com/p/23dbea7ec419) |
-| Wed, 05 Nov 2025 16:24:03 GMT | Understanding HTTP: The Backbone of the Web | Arfi Tutorials | [Read More](https://medium.com/p/a948e8c7d6ba) |
-| Wed, 05 Nov 2025 16:18:04 GMT | Should you know about HMAC-SHA256 for Webhooks? | Nagarjun (Arjun) Nagesh | [Read More](https://medium.com/p/e66b70ba98a9) |
-| Wed, 05 Nov 2025 16:15:09 GMT | The Dangerous Comfort of Public Wi-Fi and What It Is Really Costing You | Miguel Gonzalez | [Read More](https://medium.com/p/ef20ef0e4748) |
-| Wed, 05 Nov 2025 16:12:49 GMT | Ransomware Is Now a Personal Threat and Most People Are Not Ready | Miguel Gonzalez | [Read More](https://medium.com/p/c86cc7400593) |
-| Wed, 05 Nov 2025 16:05:38 GMT | AI vs. Zero-Day Attacks: How Machine Learning Detects the Unknown | Gopi Sri | [Read More](https://medium.com/p/f11e33b21da0) |
-| Wed, 05 Nov 2025 16:01:02 GMT | How you can integrate our Leaked Credentials API | BreachCollection | [Read More](https://medium.com/p/f15cec126d76) |
-| Wed, 05 Nov 2025 16:01:00 GMT | Designing Secure APIs in 2025: Beyond JWTs and OAuth | Harshavardhan Mamidipaka | [Read More](https://medium.com/p/3a57f0450898) |
-| Wed, 05 Nov 2025 15:56:23 GMT | How I hacked 100,000+ motorcycles (including my own)… | Ilnur Khakimov | [Read More](https://medium.com/p/666bdb702b7d) |
-| Wed, 05 Nov 2025 15:48:09 GMT | From Curiosity to Validation — My First Successful Bug Bounty Submission | Tech Journal | [Read More](https://medium.com/p/007a60c8e55c) |
