@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 20:07:54 GMT | Building My Snort IDS Home Lab | Dhanush Dhayalan | [Read More](https://medium.com/p/a4a425adc767) |
+| Thu, 06 Nov 2025 19:59:57 GMT | The Developer's Laptop | Tim O'Brien | [Read More](https://medium.com/p/20bbbb0932d5) |
+| Thu, 06 Nov 2025 19:57:27 GMT | V2Box: The Ultimate Guide to Digital Privacy and Unrestricted AI Access | v2box App | [Read More](https://medium.com/p/5a792d94aa9d) |
+| Thu, 06 Nov 2025 19:57:03 GMT | The Eviction Challenge — How Sunny (SOC) Stopped APT28 at E-Corp | Odiomonafe Jamal . A | [Read More](https://medium.com/p/1ad2beed8ec4) |
+| Thu, 06 Nov 2025 19:34:46 GMT | Security and Resilience through a Business Continuity Management System | Oleh Dubetcky | [Read More](https://medium.com/p/4bdb1ac28d03) |
 | Thu, 06 Nov 2025 19:25:16 GMT | The Information Theory | Chanti-Roi Cooper | [Read More](https://medium.com/p/157a19389762) |
 | Thu, 06 Nov 2025 19:22:54 GMT | Why Microsoft Copilot’s Latest Updates Are Now Your Enterprise Mandate? | IT_Engineer | [Read More](https://medium.com/p/5e97b816d714) |
 | Thu, 06 Nov 2025 19:18:59 GMT | 101 Emerging Effects of Artificial Intelligence in Cybersecurity: Trends, Opportunities, and… | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/b64832616e65) |
@@ -35,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 18:21:59 GMT | Entanglement’s Big Bet on Secure Messaging | Quellin | [Read More](https://medium.com/p/5c669945c236) |
 | Thu, 06 Nov 2025 18:21:12 GMT | Deepfake Detection and Prevention: Safeguarding Reality in the Age of AI | Arya Tiwari | [Read More](https://medium.com/p/af2694f3b2c9) |
 | Thu, 06 Nov 2025 18:19:31 GMT | AI/ LLM Hacking — Part 6 — Excessive Agency - Insecure Plugin | Darshan Naresh Naik | [Read More](https://medium.com/p/6c83013c6806) |
+| Thu, 06 Nov 2025 18:09:29 GMT | Why I’m Learning Cybersecurity in Public | Mason Hinson | [Read More](https://medium.com/p/c1d44f30acd0) |
 | Thu, 06 Nov 2025 18:07:21 GMT | NIST Cybersecurity Framework for Vulnerability Management: A Simple Guide | Dhanush N | [Read More](https://medium.com/p/3034db7fe5bb) |
 | Thu, 06 Nov 2025 18:07:10 GMT | Why Hackers Always Seem Ahead | Aj | [Read More](https://medium.com/p/ce149a2c5b8b) |
 | Thu, 06 Nov 2025 18:07:10 GMT | Praktikum Internet of Things: Monitoring Suhu Via Komputer | Muhammad Surya Saputro | [Read More](https://medium.com/p/d3ef16d220bd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 14:06:00 GMT | 3. Based on Deloitte — “C-Suite Sustainability Report 2025” | ATLAS Advisory | [Read More](https://medium.com/p/0b4c47cb1400) |
 | Thu, 06 Nov 2025 14:02:03 GMT | 2. Based on IBM — “Top Digital Transformation Trends” | ATLAS Advisory | [Read More](https://medium.com/p/93ff7cafa273) |
 | Thu, 06 Nov 2025 14:01:36 GMT | HijackLoader/GhostPulse/IDAT Loader Comprehensive Analysis | Vladyslav Bahlai | [Read More](https://medium.com/p/6e15f48eb96d) |
-| Thu, 06 Nov 2025 13:57:31 GMT | Investigating Windows — TryHackme | Aufarifqi | [Read More](https://medium.com/p/bd91cf43ba46) |
-| Thu, 06 Nov 2025 13:46:49 GMT | Designers Are Becoming the New Target for Fake Job Interview Scam | Nicola Di Marco | [Read More](https://medium.com/p/f3131eb55cc2) |
-| Thu, 06 Nov 2025 13:45:02 GMT | HTTP vs HTTPS: Understanding the Difference and Why It Matters | Arfi Tutorials | [Read More](https://medium.com/p/454aae658723) |
-| Thu, 06 Nov 2025 13:15:24 GMT | Militaries can’t ignore climate change — it could cripple their tech | Chris Baraniuk | [Read More](https://medium.com/p/4403bc159927) |
-| Thu, 06 Nov 2025 13:14:19 GMT | How AI Is Revolutionizing IT Support and Cybersecurity in 2025 | KnoTra Global | [Read More](https://medium.com/p/36e27efc028d) |
-| Thu, 06 Nov 2025 13:14:03 GMT | How AI is Transforming Compliance for Modern Businesses | Maruti Techlabs | [Read More](https://medium.com/p/72a5ad0df781) |
