@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 04:32:55 GMT | Project Management Information System (PMIS): What is it & how it works | TaskFord | [Read More](https://medium.com/p/77b36dc58338) |
+| Thu, 06 Nov 2025 04:32:04 GMT | The Hacker’s Playbook Changed. Have You? | NizzCorp Academy | [Read More](https://medium.com/p/b8eb88529e2d) |
 | Thu, 06 Nov 2025 03:37:10 GMT | Protecting Your Digital Presence: Nina Creative Designs Expands into Cybersecurity Services | Sonny Parker | [Read More](https://medium.com/p/218298a25f9e) |
 | Thu, 06 Nov 2025 03:31:57 GMT | Unmasking the Underground: How a Ransomware Gang Is Redefining Cyber Extortion | Deven Chhajed | [Read More](https://medium.com/p/b6ef9ca20fba) |
 | Thu, 06 Nov 2025 03:31:57 GMT | 5 Essential Tips for Preventing SSRF and Injection Attacks in Node.js Applications | Arunangshu Das | [Read More](https://medium.com/p/5b1d5f5e555c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 17:48:33 GMT | PhantomPi: A Covert Red Team Implant (Part 1) | Alessandro Tagliafierro | [Read More](https://medium.com/p/8976a72c34d0) |
 | Wed, 05 Nov 2025 17:41:55 GMT | HTB BoardLight (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/debd4b6d908f) |
 | Wed, 05 Nov 2025 17:39:52 GMT | Web Hack - SQL injection - Hacking Services - Hire Hacker | BlackHat | [Read More](https://medium.com/p/2a653f53515c) |
-| Wed, 05 Nov 2025 17:34:51 GMT | Network Detection and Response (NDR): The Modern Art of Adversary Detection | Meriem | [Read More](https://medium.com/p/cae211802f2d) |
-| Wed, 05 Nov 2025 17:31:14 GMT | ⚙️ Inside the Linux Engine Room — Why It Dominates Cybersecurity and DevOps | Zoningxtr | [Read More](https://medium.com/p/f7e04c707916) |
