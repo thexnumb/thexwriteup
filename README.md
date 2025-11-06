@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 18:26:43 GMT | Tools, Trouble, and Trickery: Part 2 | OSINT Amy | [Read More](https://medium.com/p/54c6febafb55) |
+| Thu, 06 Nov 2025 18:25:10 GMT | Praktikum Internet of Things (Tugas): Monitoring Suhu Via Komputer | Muhammad Surya Saputro | [Read More](https://medium.com/p/682d71939d69) |
+| Thu, 06 Nov 2025 18:21:59 GMT | Entanglement’s Big Bet on Secure Messaging | Quellin | [Read More](https://medium.com/p/5c669945c236) |
+| Thu, 06 Nov 2025 18:21:12 GMT | Deepfake Detection and Prevention: Safeguarding Reality in the Age of AI | Arya Tiwari | [Read More](https://medium.com/p/af2694f3b2c9) |
+| Thu, 06 Nov 2025 18:19:31 GMT | AI/ LLM Hacking — Part 6 — Excessive Agency - Insecure Plugin | Darshan Naresh Naik | [Read More](https://medium.com/p/6c83013c6806) |
+| Thu, 06 Nov 2025 18:07:21 GMT | NIST Cybersecurity Framework for Vulnerability Management: A Simple Guide | Dhanush N | [Read More](https://medium.com/p/3034db7fe5bb) |
+| Thu, 06 Nov 2025 18:07:10 GMT | Why Hackers Always Seem Ahead | Aj | [Read More](https://medium.com/p/ce149a2c5b8b) |
+| Thu, 06 Nov 2025 18:07:10 GMT | Praktikum Internet of Things: Monitoring Suhu Via Komputer | Muhammad Surya Saputro | [Read More](https://medium.com/p/d3ef16d220bd) |
+| Thu, 06 Nov 2025 18:01:01 GMT | The Billion-Dollar AI Race: Why Security Is the Real Cost of Intelligence | Monu Jangra | [Read More](https://medium.com/p/88f3a915ba52) |
+| Thu, 06 Nov 2025 17:59:32 GMT | Mastering AWS IAM: The Complete Security Framework Every Cloud Professional Must Know | Vikaskumar Dane | [Read More](https://medium.com/p/c5e32365c583) |
+| Thu, 06 Nov 2025 17:53:05 GMT | 29 Years Since “Smashing the Stack”: Time to Smash Memory Unsafety Itself | @boblord | [Read More](https://medium.com/p/0af3c69c2b6c) |
+| Thu, 06 Nov 2025 17:46:47 GMT | The macOS Forensic Journey — FSEvents (File System Events) Directory Location | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d842fc6707d1) |
+| Thu, 06 Nov 2025 17:43:21 GMT | PART 1: The Software Supply Chain Secret: 97% of Your Code Isn’t Yours | Gopi Sri | [Read More](https://medium.com/p/2c461701aae5) |
+| Thu, 06 Nov 2025 17:40:17 GMT | Fixing the Multiselect Input “All” Option Bug in Splunk Classic Dashboards | H$nt | [Read More](https://medium.com/p/690e9e638a8d) |
 | Thu, 06 Nov 2025 17:30:33 GMT | Role of Critical Infrastructure Security in Cyber Warfare | Abhiram S | [Read More](https://medium.com/p/005f1e4dc5e1) |
 | Thu, 06 Nov 2025 17:25:33 GMT | After the Applause: Turning Runway Energy Into Real-World Momentum | Nauld | [Read More](https://medium.com/p/1e68fc4b27ed) |
 | Thu, 06 Nov 2025 17:18:48 GMT | Ground Zero | Nine Lives Nexus | [Read More](https://medium.com/p/ddeef574776c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 12:28:35 GMT | Making Sense of the Post-Quantum Readiness: A Quick Guide for Software Leaders | K. Subramanian | [Read More](https://medium.com/p/86ae44fe42c9) |
 | Thu, 06 Nov 2025 12:27:09 GMT | AI in Cybersecurity: The Future or Detrimental? Part 1 | Jane Omoteshowo Onwuegbuosa | [Read More](https://medium.com/p/d96d2e9d6627) |
 | Thu, 06 Nov 2025 12:23:43 GMT | Lab 1: Basic server-side template injection (Server-side template injection) | L4V4NY4  AGR3 | [Read More](https://medium.com/p/8f1528c209bf) |
-| Thu, 06 Nov 2025 12:20:48 GMT | Why Your Threat Detection and Response (TDR) Approach Isn’t Working | NetWitness | [Read More](https://medium.com/p/788fd0dbe2b9) |
-| Thu, 06 Nov 2025 12:15:36 GMT | What’s the NIST Cybersecurity Framework 2.0 — Explained simply (…like I learned it) | D3ad_M3m0r13s | [Read More](https://medium.com/p/d28508659cbc) |
-| Thu, 06 Nov 2025 12:12:09 GMT | 7 AI Security Tools to Prepare You for Every Attack Phase | The Debug Diary | [Read More](https://medium.com/p/f33966d63242) |
-| Thu, 06 Nov 2025 12:07:10 GMT | AI/ML Security Threats Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/6255fc8c8d39) |
-| Thu, 06 Nov 2025 12:05:10 GMT | Ensure your office safety with Hikvision CCTV installation by OptimationBD — the most trusted name… | optimationbd | [Read More](https://medium.com/p/b20aa07c3a7e) |
-| Thu, 06 Nov 2025 12:02:05 GMT | Writeup for picoCTF challenge “Insp3ct0r” | Walter Moar | [Read More](https://medium.com/p/6a064ac4ad12) |
-| Thu, 06 Nov 2025 11:57:55 GMT | How Hackers Break Into Your CCTV Cameras (And How You Can Stop Them) | Abdullah Javeed | [Read More](https://medium.com/p/145e9e1eab56) |
-| Thu, 06 Nov 2025 11:53:20 GMT | Reliable Missed Call Services in India | Ashutosh Mallik | [Read More](https://medium.com/p/9a7bfe1606a6) |
-| Thu, 06 Nov 2025 11:48:17 GMT | Digital Marketing Agency Utah County ,Transforming Local Businesses into Online Powerhouses | Hary Battler | [Read More](https://medium.com/p/6368e406e1b8) |
-| Thu, 06 Nov 2025 11:43:19 GMT | GET all Company Support Users Details including email and phones + Mass Account Take Over | Merroun Lahcen | [Read More](https://medium.com/p/87d7d48cbe3d) |
-| Thu, 06 Nov 2025 11:41:23 GMT | The Cyber Security Bootcamp by CybeCloud Lecture 1. | CybeCloud | [Read More](https://medium.com/p/d2893d0be929) |
-| Thu, 06 Nov 2025 11:38:49 GMT | What makes Samsung A Series Sleek and Stand Out in the Market? | Ella Walker | [Read More](https://medium.com/p/d8b1772b57e3) |
-| Thu, 06 Nov 2025 11:35:01 GMT | HackedGPT: 7 New Vulnerabilities in GPT-4o / GPT-5 Enable Zero-Click Attacks | gm0 | [Read More](https://medium.com/p/8144255a6f9e) |
-| Thu, 06 Nov 2025 11:34:32 GMT | Why the Infinix New Phone Is the Ultimate Pick for Gamers on a Budget | Zara Everly | [Read More](https://medium.com/p/ffdb2d64fe46) |
