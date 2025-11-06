@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 17:15:21 GMT | This Injection Doesn’t Come with a Lollipop: How SQL Attacks Sneak Past Your Code | Jen Cracchiola | [Read More](https://medium.com/p/e331d18f9812) |
+| Thu, 06 Nov 2025 17:08:45 GMT | Can AI Hack? The Real Risks of Offensive AI Tools | News Geeek | [Read More](https://medium.com/p/bc1ebf8980e6) |
+| Thu, 06 Nov 2025 17:05:13 GMT | A Real-World AI Modernization Project | Peyton Lambert | [Read More](https://medium.com/p/e62e18e8d41c) |
+| Thu, 06 Nov 2025 17:01:18 GMT | CCTV: Guardian Angel or Silent Spy? | Nazrul Islam Rana | [Read More](https://medium.com/p/034fb1f29837) |
+| Thu, 06 Nov 2025 17:00:06 GMT | eBPF Rootkits : Malwares at the kernel level  ! | Mohamed Taha | [Read More](https://medium.com/p/6aaa4280a85c) |
+| Thu, 06 Nov 2025 16:58:51 GMT | Letters, Duplicates, False Positives and Hall of Fame: A Researcher’ Journey Through 2024–2025 | Pavanshanmukhmadhav | [Read More](https://medium.com/p/6d87068461fc) |
+| Thu, 06 Nov 2025 16:50:32 GMT | OWASP Topic — Cryptographic Failures | Jen Cracchiola | [Read More](https://medium.com/p/aa65bea59172) |
 | Thu, 06 Nov 2025 16:39:16 GMT | Identifying Runtime Risk by Correlating Log Data with Vulnerability Reports | Graylog | [Read More](https://medium.com/p/1ab97a29dc22) |
 | Thu, 06 Nov 2025 16:33:31 GMT | Imposters In Space, Errrr, Web Applications…Broken Access Controls! | Jen Cracchiola | [Read More](https://medium.com/p/147f5429b76e) |
 | Thu, 06 Nov 2025 16:30:32 GMT | Email Encryption Doesn’t Encrypt All Of My Information? Inconceivable! | Rob Abbott | [Read More](https://medium.com/p/9d1f6c1492db) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 11:24:24 GMT | Good day everyone,I am Musa Abubakar a cyber security student from SOFT ICU HUB. | Musaabubakahr | [Read More](https://medium.com/p/1419cfec4cff) |
 | Thu, 06 Nov 2025 11:23:32 GMT | A Fake Income Tax Email That Delivered a RAT — Inside the Attack | CipherX9F Security | [Read More](https://medium.com/p/0a7b0373e110) |
 | Thu, 06 Nov 2025 11:20:04 GMT | Good day,I’m Musa Abubakar a cyber security student at SOFT ICU HUB. | Musaabubakahr | [Read More](https://medium.com/p/f98add191f1a) |
-| Thu, 06 Nov 2025 11:16:44 GMT | cybersecurity online risk assessment | C | [Read More](https://medium.com/p/6cd54712bc6d) |
-| Thu, 06 Nov 2025 11:16:07 GMT | HTB_Academy: Skills Assessment —  Pivoting, Tunneling, and Port Forwarding | Babatunde Ojo | [Read More](https://medium.com/p/17c66daa1ff7) |
-| Thu, 06 Nov 2025 11:14:16 GMT | Electron Under the Microscope | Lukasz Wierzbicki | [Read More](https://medium.com/p/10db33009f61) |
-| Thu, 06 Nov 2025 11:11:16 GMT | Bandit OverTheWire writeup — Level 11 → Level 12 | Dawid Kowalski | [Read More](https://medium.com/p/382e597618b9) |
-| Thu, 06 Nov 2025 11:10:43 GMT | Bandit OverTheWire writeup — Level 10 → Level 11 | Dawid Kowalski | [Read More](https://medium.com/p/908b820e4675) |
-| Thu, 06 Nov 2025 11:09:47 GMT | Steering Product Modernization: Key Strategies for Achieving Success | Pratik Mistry | [Read More](https://medium.com/p/a1a56c7717a0) |
-| Thu, 06 Nov 2025 11:09:28 GMT | Bandit OverTheWire writeup — Level 9 → Level 10 | Dawid Kowalski | [Read More](https://medium.com/p/f29ae80f82ef) |
