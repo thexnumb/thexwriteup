@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 09:13:00 GMT | Extropy November Newsletter | Extropy.IO | [Read More](https://medium.com/p/e1a108ddde90) |
+| Thu, 06 Nov 2025 09:07:00 GMT | Managed SOC vs. In-House: What Works Best For Abu Dhabi Companies? | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/8deb91feeb4d) |
+| Thu, 06 Nov 2025 09:02:43 GMT | How Emerging AI Impacts Your Privacy — and What You Can Do About It | CyberEchoes | [Read More](https://medium.com/p/6992b05139ad) |
+| Thu, 06 Nov 2025 09:02:08 GMT | A Factory in Silence: How a Cyberattack Brought Jaguar Land Rover to a Stop | Devansh Patel | [Read More](https://medium.com/p/76118491106b) |
+| Thu, 06 Nov 2025 09:01:23 GMT | From first hackathon to winner: lessons from doing 26 hackathons | Inky Ganbold | [Read More](https://medium.com/p/74d0165af069) |
+| Thu, 06 Nov 2025 08:56:29 GMT | How I Accessed 1,800 Company Livestreams and Uncovered a New Web Exploit Class: RRE | Farzan Karimi | [Read More](https://medium.com/p/f74b7ef996e7) |
+| Thu, 06 Nov 2025 08:45:58 GMT | Evil-GPT | Kavin Jindal | [Read More](https://medium.com/p/0623b64a727c) |
 | Thu, 06 Nov 2025 08:38:28 GMT | Linux Commands Every Cybersecurity Learner Should Master | Akanksha Mane | [Read More](https://medium.com/p/6a6363df91d4) |
 | Thu, 06 Nov 2025 08:38:28 GMT | Rajkot Hospital Servers Compromised, Sensitive CCTV Footage Exposed | Himanshu Bhatt | [Read More](https://medium.com/p/5185c54ff230) |
 | Thu, 06 Nov 2025 08:35:10 GMT | How to Speak Boardroom — Not Server Room — About Cyber Risk | Fook Hwa Tan | [Read More](https://medium.com/p/d034e19ee92f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 01:07:16 GMT | Is Digital Identity Actually Going to Help Us? | Oleksii Zhukov | [Read More](https://medium.com/p/cf030373281a) |
 | Thu, 06 Nov 2025 00:51:53 GMT | The Hardware Pact | O. J. Okpabi | [Read More](https://medium.com/p/a0c63ce2a490) |
 | Thu, 06 Nov 2025 00:51:04 GMT | Cyber Attacks on Critical Infrastructure: The Ukraine Power Grid (2015) and the TRITON Campaign… | aasem awisat | [Read More](https://medium.com/p/51f235cb1466) |
-| Thu, 06 Nov 2025 00:49:18 GMT | The 5 most dangerous modern antibiotic resistant bacteria that threaten humans today | Michael Derek Roberts | [Read More](https://medium.com/p/b40e5bbbb011) |
-| Thu, 06 Nov 2025 00:49:06 GMT | The Cloudless Hunt | O. J. Okpabi | [Read More](https://medium.com/p/130476ae3498) |
-| Thu, 06 Nov 2025 00:45:21 GMT | PayPal Attack Update: Another ‘Do Not Pay’ Warning Issued | Nauman khan | [Read More](https://medium.com/p/e129cac91303) |
-| Thu, 06 Nov 2025 00:33:42 GMT | Introducing MCP-Gateway in Kagenti: A Unified Front Door for Your MCP Servers | hai huang | [Read More](https://medium.com/p/28db5b6ef62d) |
-| Thu, 06 Nov 2025 00:32:20 GMT | A Closer Look at AMSI in Windows | R1cH4t | [Read More](https://medium.com/p/29bd79989e35) |
-| Thu, 06 Nov 2025 00:24:41 GMT | Evolutions of Firewalls | Kiran Adhikari | [Read More](https://medium.com/p/24c0ae1c1210) |
-| Thu, 06 Nov 2025 00:22:09 GMT | Dumping Source Code and Accessing Internal Databases via a PHPUnit Vulnerability | Aman Singh Gill | [Read More](https://medium.com/p/91bd59ff96a6) |
