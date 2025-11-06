@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 10:14:53 GMT | Edit In-Progress Documents in BoldSign | Reethika Moovendhan | [Read More](https://medium.com/p/168477960603) |
+| Thu, 06 Nov 2025 10:07:42 GMT | A Framework of Ethical Design | Onoruke Blessing | [Read More](https://medium.com/p/d40ee0a6a4f7) |
+| Thu, 06 Nov 2025 10:05:49 GMT | Designing ELV Systems for Educational Institutions in the UAE | Abhilashtec | [Read More](https://medium.com/p/5a5761d53427) |
+| Thu, 06 Nov 2025 10:03:08 GMT | Trick or Treat? SOC 2 Promises vs Reality | Hicomply | [Read More](https://medium.com/p/97128e52cd3b) |
+| Thu, 06 Nov 2025 10:03:08 GMT | Entra-First, CNCF-Augmented Multi-Cloud Nano-Services for Insurtech companies | Lucas Carranza | [Read More](https://medium.com/p/36814b3e681f) |
+| Thu, 06 Nov 2025 09:49:09 GMT | Top-Rated IoT Security Certification Course for Penetration Testers | cyber security Updates | [Read More](https://medium.com/p/528c28a211c8) |
+| Thu, 06 Nov 2025 09:45:32 GMT | Top 5 Emerging Vendor Risks for 2025 and How to Mitigate Them | SecureSlate | [Read More](https://medium.com/p/cd898138bfa9) |
+| Thu, 06 Nov 2025 09:43:51 GMT | AI’s Dirty Little Secret: The Trillion-Dollar Power Crisis | Nowyouknow | [Read More](https://medium.com/p/b498e0250aae) |
+| Thu, 06 Nov 2025 09:41:38 GMT | 6 Linux Myths That Keep People Trapped on Windows | Fateyaly | [Read More](https://medium.com/p/12513e6ae18c) |
 | Thu, 06 Nov 2025 09:40:42 GMT | Lesson 3 : Security Principles, Frameworks & Tools | YogiCode | [Read More](https://medium.com/p/77ce4fff1005) |
 | Thu, 06 Nov 2025 09:40:35 GMT | I Spent 7 Hours Learning AI Safety So You Don’t Have To | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/37fd3891567b) |
+| Thu, 06 Nov 2025 09:39:20 GMT | DockerLabs Writeup — ForbiddenHack (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/75b8914ce832) |
 | Thu, 06 Nov 2025 09:38:57 GMT | How Data Flows Inside Linux — From Keypress to Kernel to Network | Zoningxtr | [Read More](https://medium.com/p/76e71d8b7c74) |
 | Thu, 06 Nov 2025 09:35:41 GMT | THE SELF-REPLICATING VIRUS THAT’S WIPING OUT THE WORLD: FROM SCIENCE FICTION TO FACT | Robot Crime blog | [Read More](https://medium.com/p/22b128f14e56) |
 | Thu, 06 Nov 2025 09:34:29 GMT | From Single Processors to the Post-Quantum Era: The Next Paradigm in High Availability System… | Laura Garcia | [Read More](https://medium.com/p/033fb6073086) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 04:32:51 GMT | EXCESSIVE DATA EXPOSURE: ALL YOU NEED TO KNOW | Jei Ess | [Read More](https://medium.com/p/1c42f73f9f80) |
 | Thu, 06 Nov 2025 04:32:04 GMT | The Hacker’s Playbook Changed. Have You? | NizzCorp Academy | [Read More](https://medium.com/p/b8eb88529e2d) |
 | Thu, 06 Nov 2025 04:32:04 GMT | AWS IAM Users and Roles — Understanding | Krushnat Kapse | [Read More](https://medium.com/p/ee9327091dce) |
-| Thu, 06 Nov 2025 04:32:02 GMT | “Empowered to Secure — My Experience at BIA’s Cybersecurity Program” | Afreedalok | [Read More](https://medium.com/p/eebb1282d681) |
-| Thu, 06 Nov 2025 04:31:29 GMT | In-Depth Analysis of Runc Container Escape Vulnerabilities (CVE-2025–31133 et al.) | Ugorange | [Read More](https://medium.com/p/16e32c63871d) |
-| Thu, 06 Nov 2025 03:37:10 GMT | Protecting Your Digital Presence: Nina Creative Designs Expands into Cybersecurity Services | Sonny Parker | [Read More](https://medium.com/p/218298a25f9e) |
-| Thu, 06 Nov 2025 03:31:57 GMT | Unmasking the Underground: How a Ransomware Gang Is Redefining Cyber Extortion | Deven Chhajed | [Read More](https://medium.com/p/b6ef9ca20fba) |
-| Thu, 06 Nov 2025 03:31:57 GMT | 5 Essential Tips for Preventing SSRF and Injection Attacks in Node.js Applications | Arunangshu Das | [Read More](https://medium.com/p/5b1d5f5e555c) |
-| Thu, 06 Nov 2025 03:31:44 GMT | Top 10 Exploitation Techniques That Still Work in 2025 | Monu Jangra | [Read More](https://medium.com/p/d8a11b6d53fb) |
-| Thu, 06 Nov 2025 03:27:57 GMT | Empire for Pentesters: Automating Post-Exploitation Tasks | t2xv8 | [Read More](https://medium.com/p/3a6ad61d317c) |
-| Thu, 06 Nov 2025 03:08:47 GMT | #  Browser Security Settings You Must Enable in 2025 | Tourej | [Read More](https://medium.com/p/c008f4004f0d) |
-| Thu, 06 Nov 2025 03:06:53 GMT | PicoCTF CanYouSee — Forensics [EASY] | Alvin Kapoor | [Read More](https://medium.com/p/089b4d88518d) |
-| Thu, 06 Nov 2025 03:00:32 GMT | Practical Hypothesis Generation for Threat Hunting — Part 1 (Hunt Area) | Craig Wampler | [Read More](https://medium.com/p/ab32b3446894) |
