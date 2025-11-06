@@ -12,8 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 12:39:53 GMT | Useful Hidden iPhone Codes That Unlock Secret Features | Tsumit | [Read More](https://medium.com/p/8d2a03010804) |
+| Thu, 06 Nov 2025 12:39:16 GMT | How does NDR Integrates with Existing Security Tools? | NetWitness | [Read More](https://medium.com/p/4575623c0828) |
+| Thu, 06 Nov 2025 12:34:31 GMT | Why Modern Enterprises Can No Longer Ignore Managed Detection and Response (MDR) Services | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/a5b7a2ba3b72) |
+| Thu, 06 Nov 2025 12:34:02 GMT | Tcpdump Guide to Filtering TCP, UDP, and ICMP Packets | Alfin Fanther | [Read More](https://medium.com/p/017816dcf36d) |
+| Thu, 06 Nov 2025 12:31:54 GMT | Cybersecurity Playbook 2025: The 7 Frameworks That Matter | Bhagya Rana | [Read More](https://medium.com/p/783be5aac9af) |
+| Thu, 06 Nov 2025 12:28:35 GMT | Making Sense of the Post-Quantum Readiness: A Quick Guide for Software Leaders | K. Subramanian | [Read More](https://medium.com/p/86ae44fe42c9) |
+| Thu, 06 Nov 2025 12:27:09 GMT | AI in Cybersecurity: The Future or Detrimental? Part 1 | Jane Omoteshowo Onwuegbuosa | [Read More](https://medium.com/p/d96d2e9d6627) |
+| Thu, 06 Nov 2025 12:23:43 GMT | Lab 1: Basic server-side template injection (Server-side template injection) | L4V4NY4  AGR3 | [Read More](https://medium.com/p/8f1528c209bf) |
+| Thu, 06 Nov 2025 12:20:48 GMT | Why Your Threat Detection and Response (TDR) Approach Isn’t Working | NetWitness | [Read More](https://medium.com/p/788fd0dbe2b9) |
+| Thu, 06 Nov 2025 12:15:36 GMT | What’s the NIST Cybersecurity Framework 2.0 — Explained simply (…like I learned it) | D3ad_M3m0r13s | [Read More](https://medium.com/p/d28508659cbc) |
+| Thu, 06 Nov 2025 12:12:09 GMT | 7 AI Security Tools to Prepare You for Every Attack Phase | The Debug Diary | [Read More](https://medium.com/p/f33966d63242) |
+| Thu, 06 Nov 2025 12:07:10 GMT | AI/ML Security Threats Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/6255fc8c8d39) |
+| Thu, 06 Nov 2025 12:05:10 GMT | Ensure your office safety with Hikvision CCTV installation by OptimationBD — the most trusted name… | optimationbd | [Read More](https://medium.com/p/b20aa07c3a7e) |
+| Thu, 06 Nov 2025 12:02:05 GMT | Writeup for picoCTF challenge “Insp3ct0r” | Walter Moar | [Read More](https://medium.com/p/6a064ac4ad12) |
+| Thu, 06 Nov 2025 11:57:55 GMT | How Hackers Break Into Your CCTV Cameras (And How You Can Stop Them) | Abdullah Javeed | [Read More](https://medium.com/p/145e9e1eab56) |
+| Thu, 06 Nov 2025 11:53:20 GMT | Reliable Missed Call Services in India | Ashutosh Mallik | [Read More](https://medium.com/p/9a7bfe1606a6) |
+| Thu, 06 Nov 2025 11:48:17 GMT | Digital Marketing Agency Utah County ,Transforming Local Businesses into Online Powerhouses | Hary Battler | [Read More](https://medium.com/p/6368e406e1b8) |
+| Thu, 06 Nov 2025 11:43:19 GMT | GET all Company Support Users Details including email and phones + Mass Account Take Over | Merroun Lahcen | [Read More](https://medium.com/p/87d7d48cbe3d) |
+| Thu, 06 Nov 2025 11:41:23 GMT | The Cyber Security Bootcamp by CybeCloud Lecture 1. | CybeCloud | [Read More](https://medium.com/p/d2893d0be929) |
 | Thu, 06 Nov 2025 11:38:49 GMT | What makes Samsung A Series Sleek and Stand Out in the Market? | Ella Walker | [Read More](https://medium.com/p/d8b1772b57e3) |
+| Thu, 06 Nov 2025 11:35:01 GMT | HackedGPT: 7 New Vulnerabilities in GPT-4o / GPT-5 Enable Zero-Click Attacks | gm0 | [Read More](https://medium.com/p/8144255a6f9e) |
 | Thu, 06 Nov 2025 11:34:32 GMT | Why the Infinix New Phone Is the Ultimate Pick for Gamers on a Budget | Zara Everly | [Read More](https://medium.com/p/ffdb2d64fe46) |
+| Thu, 06 Nov 2025 11:30:13 GMT | SonicWall + Wazuh Integration | Enes Ismaili | [Read More](https://medium.com/p/c96a0b3f6c30) |
 | Thu, 06 Nov 2025 11:25:03 GMT | Business Tech can become an attack vector for hackers | Century Solutions Group | [Read More](https://medium.com/p/7dc7d4356a35) |
 | Thu, 06 Nov 2025 11:24:24 GMT | Good day everyone,I am Musa Abubakar a cyber security student from SOFT ICU HUB. | Musaabubakahr | [Read More](https://medium.com/p/1419cfec4cff) |
 | Thu, 06 Nov 2025 11:23:32 GMT | A Fake Income Tax Email That Delivered a RAT — Inside the Attack | CipherX9F Security | [Read More](https://medium.com/p/0a7b0373e110) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 08:01:54 GMT | Ransomware, Rewired: 5 Trends to Watch | Syntal | [Read More](https://medium.com/p/e65402ac37a4) |
 | Thu, 06 Nov 2025 08:01:53 GMT | Part II — Vault Chronicles: Replication Without the Pager | Raymon Epping | [Read More](https://medium.com/p/052f1569412f) |
 | Thu, 06 Nov 2025 08:01:53 GMT | Smile — It Could Have Been Worse | Łukasz Ratajczak | [Read More](https://medium.com/p/17886388cdf4) |
-| Thu, 06 Nov 2025 07:58:40 GMT | The Engineering Behind QuantZen™: Practical, Not Theoretical | QuantZen™ | [Read More](https://medium.com/p/9e671bd735fa) |
-| Thu, 06 Nov 2025 07:52:09 GMT | WordPress Just Made Logins Phishing-Proof — Here’s How to Enable Passkeys in Minute | Security Pulse | [Read More](https://medium.com/p/85b233fb530e) |
-| Thu, 06 Nov 2025 07:52:02 GMT | Serenity: цифровая собственность в Web3. Почему само-кастодиум — будущее финансов | S.Technology RU | [Read More](https://medium.com/p/d9f32da243db) |
-| Thu, 06 Nov 2025 07:50:40 GMT | Every Day Should Be Cybersecurity Awareness Day in Ghana | Richard Agodzo | [Read More](https://medium.com/p/7b15eb50486e) |
-| Thu, 06 Nov 2025 07:47:45 GMT | Top 20 Phishing Attacks and How to Recognize Them | Manisha Chaudhary | [Read More](https://medium.com/p/1ba2f7bd7a3f) |
-| Thu, 06 Nov 2025 07:41:29 GMT | Zero Trust Security: Why It’s No Longer a Buzzword but a Business Necessity | Maxatlasofficial | [Read More](https://medium.com/p/13d7f628fb60) |
-| Thu, 06 Nov 2025 07:41:00 GMT | Data Privacy Laws Around the World: What Businesses Need to Know | Sytex | [Read More](https://medium.com/p/9d1ba969d9e7) |
-| Thu, 06 Nov 2025 07:40:24 GMT | PHP Security Best Practices (Preventing Session Hijacking, Securing File Uploads) | Talhaoui mouad | [Read More](https://medium.com/p/d3d09165b71d) |
-| Thu, 06 Nov 2025 07:38:18 GMT | eJPT v2 : Challenge Lab 25: Chill Hack | Dhanushkumar R | [Read More](https://medium.com/p/125243f496c5) |
-| Thu, 06 Nov 2025 07:37:27 GMT | How to Put the Brakes on the Latest DMV Text Scam | Spokeo People Search | [Read More](https://medium.com/p/058bbcdaded6) |
-| Thu, 06 Nov 2025 07:36:57 GMT | Top 10 Cryptography Tools for Secure Communication | Manisha Chaudhary | [Read More](https://medium.com/p/a01f23f493aa) |
-| Thu, 06 Nov 2025 07:35:30 GMT | 5 Architectural Truths We Learn the Hard Way (So You Don’t Have To) | Jakehsiaos | [Read More](https://medium.com/p/9cb87699bfb1) |
-| Thu, 06 Nov 2025 07:25:51 GMT | Thank You, Internet | Frank Gallagher, Ph.C | [Read More](https://medium.com/p/b30bc1b480dc) |
-| Thu, 06 Nov 2025 07:20:15 GMT | ⚔️ Understanding the “No Rate Limit” Vulnerability — The Silent API Killer | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/7b95340268e5) |
-| Thu, 06 Nov 2025 07:17:03 GMT | Hitech Barrier (HB-140S) Smart Rugged Access Control for Saudi Arabia | Hitech Barrier | [Read More](https://medium.com/p/67ca823b7e7d) |
-| Thu, 06 Nov 2025 07:14:53 GMT | Red Team Reconnaissance Building an Automated Network Change Detection System | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/71775ec79545) |
-| Thu, 06 Nov 2025 07:01:59 GMT | Advanced Deepfake Detection Architectures | Caamanno | [Read More](https://medium.com/p/c8e80166980f) |
-| Thu, 06 Nov 2025 06:56:10 GMT | Reverse Engineering Common CMS Configs for Easy Wins: Step-by-Step Guide for Hackers | Very Lazy Tech | [Read More](https://medium.com/p/c4a136c90919) |
-| Thu, 06 Nov 2025 06:54:58 GMT | Is Kali Linux for Hackers? — Kaashiv Infotech Linux | Anu Chennai | [Read More](https://medium.com/p/99c97f826be3) |
-| Thu, 06 Nov 2025 06:54:29 GMT | Zero Trust Architecture: What It Is, What It Isn’t, and Why It Matters | Abioye Orimadegun | [Read More](https://medium.com/p/35c88f987d46) |
-| Thu, 06 Nov 2025 06:53:23 GMT | More Than a Gatekeeper: Why Professional Reception Security London Is Now an Absolute Necessity | 2015 Security Services ltd | [Read More](https://medium.com/p/78f00ea18204) |
