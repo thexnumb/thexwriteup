@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 16:18:07 GMT | A Quick Intro to Cybersecurity — | Tech Dyed | [Read More](https://medium.com/p/ca058b22cb9e) |
+| Thu, 06 Nov 2025 16:17:39 GMT | Geisha — walkthrough | Vaibhav | [Read More](https://medium.com/p/2edf0fd397fd) |
+| Thu, 06 Nov 2025 16:07:12 GMT | Title: Day 2 of My eJPTv2 Journey: Putting Reconnaissance into Practice ️‍♂️ | samurai | [Read More](https://medium.com/p/be137d0eeea7) |
+| Thu, 06 Nov 2025 16:06:46 GMT | Tracing a Scam Phone Number with Maltego | Anthony | [Read More](https://medium.com/p/013df8437c96) |
+| Thu, 06 Nov 2025 16:05:17 GMT | Humanizing IT: How People-First Leadership Drives Digital Transformation Success | Roman Meydbray | [Read More](https://medium.com/p/8a66ffc7da0a) |
+| Thu, 06 Nov 2025 16:03:09 GMT | “The Charging Cable Trap”: How a Simple Cord Becomes a Hacker’s Weapon — The Demo That Made the… | Wi-Fun | [Read More](https://medium.com/p/f501e4ba6c6f) |
+| Thu, 06 Nov 2025 16:02:09 GMT | How to Confuse a Manipulator: A Simple but Brilliant Psychological Trick | Simple Life | [Read More](https://medium.com/p/e69c79f9da25) |
+| Thu, 06 Nov 2025 16:01:16 GMT | Hacking, Virtual Machines, Linux, and Networking — An Ethical Practical Guide | Aditya R Menon | [Read More](https://medium.com/p/d82f613b79fd) |
+| Thu, 06 Nov 2025 15:58:22 GMT | Should you do the Google Cybersecurity Certificate from Coursera? | Tanner Sexton | [Read More](https://medium.com/p/28c873d426e4) |
+| Thu, 06 Nov 2025 15:51:01 GMT | TryHackMe - Attacking ICS Plant #1 - WriteUp | Axoloth | [Read More](https://medium.com/p/fd3a2413c13b) |
+| Thu, 06 Nov 2025 15:50:04 GMT | A Comprehensive Survey of Fusion Models in Machine Learning: Architectures, Mechanisms, and… | Nirvana El | [Read More](https://medium.com/p/bffdbaf260e0) |
+| Thu, 06 Nov 2025 15:46:55 GMT | Full Disclosure: How Google Stole My Security Research and Gave It to an AI | David and Amber Weatherspoon-Wolf | [Read More](https://medium.com/p/bd8101073e5c) |
 | Thu, 06 Nov 2025 15:42:08 GMT | Keylogging explained: the hidden cyberthreat stealing your passwords | Panda Security | [Read More](https://medium.com/p/9c58f948493b) |
 | Thu, 06 Nov 2025 15:41:58 GMT | The Future of Career Services Isn’t Limited to Job Search Anymore — It’s About Life Design | Vijay Kumar Gupta | [Read More](https://medium.com/p/00e54c49809d) |
 | Thu, 06 Nov 2025 15:41:50 GMT | The AI Doomsday Book That Got One Thing Devastatingly Right | ToxSec | [Read More](https://medium.com/p/4285f1de0052) |
+| Thu, 06 Nov 2025 15:34:38 GMT | Agent T Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/55c9eec51405) |
+| Thu, 06 Nov 2025 15:31:59 GMT | The Software Supply Chain Risk Hiding in Your node_modules | Asma | [Read More](https://medium.com/p/d491fc71490d) |
 | Thu, 06 Nov 2025 15:23:17 GMT | Trump and Nigeria: Conspiracy Theories, Fear Mongering, and The Invasion of Idiots | Onyedikachukwu Czar | [Read More](https://medium.com/p/e298c1932f75) |
 | Thu, 06 Nov 2025 15:22:51 GMT | Next in AI: Issue #37 | Sam Ghosh | [Read More](https://medium.com/p/c5b085be0dc1) |
 | Thu, 06 Nov 2025 15:20:52 GMT | Balancing Tech Work and Life: How Hobbies Recharge Your Mind | William T. Bridge | [Read More](https://medium.com/p/15df7186c3be) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 10:55:51 GMT | Layers of Lies | H3XH7WK | [Read More](https://medium.com/p/b606994a4d0d) |
 | Thu, 06 Nov 2025 10:55:08 GMT | The CISO’s Guide to AI: 5 AI Major Security Concerns and a 3-Step Mitigation Plan | Zeev Kalyuzhner | [Read More](https://medium.com/p/a94a3c2e5b8f) |
 | Thu, 06 Nov 2025 10:54:38 GMT | Top 10 Cybersecurity Challenges Behind 2025’s Major Incidents | Dr. Deep Pandey | [Read More](https://medium.com/p/e132da309cad) |
-| Thu, 06 Nov 2025 10:50:33 GMT | Algorithmic Defiance, the ‘Edgelord’ Core, AI explained ‘how to switch off political correct… | Berend Watchus | [Read More](https://medium.com/p/c5e8e5ad1959) |
-| Thu, 06 Nov 2025 10:36:10 GMT | How to Migrate a Concrete5 Website to WordPress CMS: A Simple 2025 Guide | Chris | [Read More](https://medium.com/p/68741abe0e8e) |
-| Thu, 06 Nov 2025 10:35:50 GMT | How Victims Unknowingly Give Out Vital Information to Hackers | Martin Onyisi | [Read More](https://medium.com/p/e682a8dc1935) |
-| Thu, 06 Nov 2025 10:35:06 GMT | Best Endpoint Security Services Provider in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/89ddf6a6dec4) |
-| Thu, 06 Nov 2025 10:34:27 GMT | Navigating the New Frontier of AI Security: A Deep Dive into the OWASP GenAI Solutions Guide | noailabs | [Read More](https://medium.com/p/4cca9cd54233) |
-| Thu, 06 Nov 2025 10:34:06 GMT | ️ Mastering Spring @ControllerAdvice: Secure Your Exceptions Like a Pro! | Hirun Mihisara | [Read More](https://medium.com/p/7a045347173e) |
-| Thu, 06 Nov 2025 10:32:16 GMT | E-Government Made Easy: The Revolution Driven by Public Service Kiosk Machines | Rakesh | [Read More](https://medium.com/p/6e461a466716) |
-| Thu, 06 Nov 2025 10:32:13 GMT | Installing & Configuring Snort | Mcl0ng0ng | [Read More](https://medium.com/p/5fe420566446) |
-| Thu, 06 Nov 2025 10:31:31 GMT | My Journey to Getting Selected for the CyberMACS Erasmus Mundus Program in Applied Cybersecurity | Abu Nayem | [Read More](https://medium.com/p/7c570c583e14) |
-| Thu, 06 Nov 2025 10:24:04 GMT | 5 Critical Vulnerabilities I Found in Production AI Systems | Muhammad Haider Tallal | [Read More](https://medium.com/p/4b5059e4823a) |
-| Thu, 06 Nov 2025 10:14:53 GMT | Edit In-Progress Documents in BoldSign | Reethika Moovendhan | [Read More](https://medium.com/p/168477960603) |
-| Thu, 06 Nov 2025 10:14:09 GMT | Introduction to SIEM — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/22b5cf6448cf) |
-| Thu, 06 Nov 2025 10:07:42 GMT | A Framework of Ethical Design | Onoruke Blessing | [Read More](https://medium.com/p/d40ee0a6a4f7) |
-| Thu, 06 Nov 2025 10:05:49 GMT | Designing ELV Systems for Educational Institutions in the UAE | Abhilashtec | [Read More](https://medium.com/p/5a5761d53427) |
