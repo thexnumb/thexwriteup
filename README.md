@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 21:18:17 GMT | Named-pipe command execution | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e34a2f1dab7c) |
+| Thu, 06 Nov 2025 21:12:54 GMT | Building My Personal Cloud Infrastructure on AWS | Hirad Showghi | [Read More](https://medium.com/p/cf46a60c48e8) |
+| Thu, 06 Nov 2025 21:07:07 GMT | I Took The $400 Plunge With Hire a Hacker Pro’s Elite Training, Here’s What Happened.. | Leo Diamante | [Read More](https://medium.com/p/2bc7a34a61f3) |
+| Thu, 06 Nov 2025 21:06:53 GMT | Analyzing and Mitigating a Real-World 24/7 SSH Brute-Force Attack | Oleksiy Petrychko | [Read More](https://medium.com/p/71a5fe56fac1) |
+| Thu, 06 Nov 2025 21:05:19 GMT | Image OSINT Report for TCM SecurityOpen-Source Intelligence (OSINT) Fundamentals Course: Identify… | Irem Bezci | [Read More](https://medium.com/p/62639abc7019) |
+| Thu, 06 Nov 2025 21:03:25 GMT | Account Takeover Via Reflected XSS | Mahmoud Farag | [Read More](https://medium.com/p/6cd982ebff8d) |
+| Thu, 06 Nov 2025 20:54:52 GMT | Living Off the Land Attacks Tryhackme Walkthrough | Jawstar | [Read More](https://medium.com/p/7a88fda3775b) |
+| Thu, 06 Nov 2025 20:49:58 GMT | Portswigger Academy — CSRF where Referer validation depends on header being present — Write-up | Alan | [Read More](https://medium.com/p/97b7809d9de0) |
+| Thu, 06 Nov 2025 20:41:27 GMT | Cybersecurity 12#:Cryptography & Penetration Testing | mohandika | [Read More](https://medium.com/p/3fc83a4160b7) |
+| Thu, 06 Nov 2025 20:40:44 GMT | ️SOAR x EDR Automation with LimaCharlie, Tines, and Slack | Kent Michael | [Read More](https://medium.com/p/a947b22f866d) |
 | Thu, 06 Nov 2025 20:40:43 GMT | How I Found 6 Reflected XSS — and Turned Them into Account Takeover | Potato Human | [Read More](https://medium.com/p/3c0ace797b0a) |
+| Thu, 06 Nov 2025 20:38:57 GMT | My First Cloud Certification:) | Rakesh Elamaran | [Read More](https://medium.com/p/2af37a30c8bd) |
+| Thu, 06 Nov 2025 20:37:01 GMT | The Puppet Strings: The Real Tricks Behind Email Scams | Nine Lives Nexus | [Read More](https://medium.com/p/017816ac376f) |
+| Thu, 06 Nov 2025 20:35:36 GMT | What My Health Journey Taught Me About Leading Myself | Michele Richman | [Read More](https://medium.com/p/b5177f30d6c8) |
+| Thu, 06 Nov 2025 20:32:55 GMT | Understanding Linux File Permissions | Igor Scuculha | [Read More](https://medium.com/p/ec70a47ee4ec) |
 | Thu, 06 Nov 2025 20:31:52 GMT | Secrets, Everywhere: Why We Co-Led Truffle Security’s Series B | Nick Washburn | [Read More](https://medium.com/p/b4d5ef8337e8) |
 | Thu, 06 Nov 2025 20:29:59 GMT | V2Box: Исчерпывающее руководство по цифровой конфиденциальности и неограниченному доступу к ИИ | v2box App | [Read More](https://medium.com/p/75f9e470001e) |
 | Thu, 06 Nov 2025 20:24:39 GMT | Under The Wave | Tosan Tosanwumi | [Read More](https://medium.com/p/f4a9ae5e8a70) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 15:20:08 GMT | I Built a Home Security Lab and Caught My First “Hacker” (It Was Me) | Hanniouiyassine | [Read More](https://medium.com/p/cd5bbf0f5bb6) |
 | Thu, 06 Nov 2025 15:09:23 GMT | Three Cases, One Hack: The Human Firewall | Gautam Mengle | [Read More](https://medium.com/p/0b8e0aa6c7ee) |
 | Thu, 06 Nov 2025 15:05:42 GMT | Security and Performance Aspects of AppArmor Profiles | Linux Guide | [Read More](https://medium.com/p/bf8659d1aa96) |
-| Thu, 06 Nov 2025 15:03:12 GMT | Pelican — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/fd2615d455ab) |
-| Thu, 06 Nov 2025 15:02:58 GMT | Cyber Briefing: 2025.11.06 | CyberMaterial | [Read More](https://medium.com/p/a1aaccea99c1) |
-| Thu, 06 Nov 2025 15:02:36 GMT | Java 25: How Pattern Matching and Sealed Classes Made the Visitor Pattern Easy (Finally!) | Jitin Kayyala | [Read More](https://medium.com/p/403d0139ac50) |
-| Thu, 06 Nov 2025 15:00:13 GMT | AI in Cybersecurity : The Future or Detrimental . Part 2 | Jane Omoteshowo Onwuegbuosa | [Read More](https://medium.com/p/0caa7f525958) |
-| Thu, 06 Nov 2025 14:50:13 GMT | Mastering Productivity in Cybersecurity: Schedule Like a Hacker | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/dde8a22b8ebc) |
-| Thu, 06 Nov 2025 14:45:10 GMT | “The $750 Password Reset That Traveled in Plain Sight” | Aman Sharma | [Read More](https://medium.com/p/231dcbf35caa) |
-| Thu, 06 Nov 2025 14:41:01 GMT | SOC235 — Atlassian Confluence Broken Access Control 0-Day CVE-2023–22515 (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/c97356cd353b) |
-| Thu, 06 Nov 2025 14:38:07 GMT | Securing Systems: A Deep Dive into Network Safety | Ratish Raj | [Read More](https://medium.com/p/95192756f878) |
-| Thu, 06 Nov 2025 14:37:54 GMT | Comparing Major Darkweb Marketplaces in 2025 | Tor BBB | [Read More](https://medium.com/p/98ff9d36d064) |
-| Thu, 06 Nov 2025 14:31:59 GMT | Understanding Nessus: The Go-To Vulnerability Scanner Tool for Cybersecurity Professionals | XoX | [Read More](https://medium.com/p/f2f21f665868) |
-| Thu, 06 Nov 2025 14:19:33 GMT | I Watched Hackers Drain a $47K Wallet in Real-Time. The Trader Was Using a Proxy. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/f0a21ee7e85b) |
-| Thu, 06 Nov 2025 14:18:43 GMT | The Unseen Between the Lines | Andy Tillman UK | [Read More](https://medium.com/p/2f927e1301cb) |
-| Thu, 06 Nov 2025 14:17:57 GMT | Day 5 — Many-time-pad | Siyam | [Read More](https://medium.com/p/28f3104d517b) |
-| Thu, 06 Nov 2025 14:13:39 GMT | Skyrocket Your IT Career with AWS Course in Bangalore | Fardeen Digileem | [Read More](https://medium.com/p/ef94d90e3fab) |
