@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 05:35:53 GMT | Future-Proof Your Career with These AI Security Credentials | Siddharth Sharma | [Read More](https://medium.com/p/26fa16d8bec9) |
+| Thu, 06 Nov 2025 05:30:50 GMT | Telangana MSMEs in International Trade: Catalysts of Inclusive Global Growth | World Trade Center Shamshabad - Future City | [Read More](https://medium.com/p/09f8f396019b) |
+| Thu, 06 Nov 2025 05:24:26 GMT | Writeup Evilbox-One Bahasa Indonesia | Chiekal | [Read More](https://medium.com/p/e541f16bbcbb) |
+| Thu, 06 Nov 2025 05:20:02 GMT | Deploying the Wazuh Agent on Ubuntu via the Wazuh Dashboard | Pascal Ngono | [Read More](https://medium.com/p/34b77812cce4) |
+| Thu, 06 Nov 2025 05:19:27 GMT | How Multi-Factor Authentication Strengthens Data Protection | Sytex | [Read More](https://medium.com/p/637df064a883) |
 | Thu, 06 Nov 2025 05:06:31 GMT | Cutting Off the “Open-Box” Hands: How Arisk Helps Law Enforcement Defend Privacy | Arisk | [Read More](https://medium.com/p/ced449241db7) |
 | Thu, 06 Nov 2025 05:03:24 GMT | Jailbreak -Tuning Method | WomenTech Space Disruptor | [Read More](https://medium.com/p/572277ac4b57) |
 | Thu, 06 Nov 2025 05:02:48 GMT | How to Prepare for the Certificate of Competence in Zero Trust (CCZT) Exam? | InfosecTrain | [Read More](https://medium.com/p/0d4064fbdec9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 19:37:52 GMT | PQC or Bust? Well, Hybrid PQC Is The Likely Answer | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/ca78e1df3da1) |
 | Wed, 05 Nov 2025 19:36:58 GMT | Authentication Token Stored in localStorage | Abhishek sharma | [Read More](https://medium.com/p/15edd8d7a104) |
 | Wed, 05 Nov 2025 19:36:20 GMT | Midnight Bounty: How I Found a QA Portal Exposed to the Internet and Got $2,500 Overnight | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/6413393b6cb7) |
-| Wed, 05 Nov 2025 19:15:43 GMT | CyberDefenders — TOCTOU Lab | jon | [Read More](https://medium.com/p/f753e4f26f4b) |
-| Wed, 05 Nov 2025 19:12:07 GMT | Top Deepfake Apps and How to Avoid Their Risks | Awais Khan | [Read More](https://medium.com/p/7dce821b1343) |
-| Wed, 05 Nov 2025 19:11:18 GMT | Microsoft Purview’de Veri Etiketleme: Hassas Bilgi Türleriyle Daha Güçlü Koruma | Kerimcan Ö. | [Read More](https://medium.com/p/4551c1c32138) |
-| Wed, 05 Nov 2025 18:56:33 GMT | Event Services: The Complete Guide to Creating Seamless, High-Impact Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/c24f41b0d39a) |
-| Wed, 05 Nov 2025 18:56:09 GMT | 164 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/90ab42c23087) |
