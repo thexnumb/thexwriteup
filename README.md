@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 10:36:10 GMT | How to Migrate a Concrete5 Website to WordPress CMS: A Simple 2025 Guide | Chris | [Read More](https://medium.com/p/68741abe0e8e) |
+| Thu, 06 Nov 2025 10:35:50 GMT | How Victims Unknowingly Give Out Vital Information to Hackers | Martin Onyisi | [Read More](https://medium.com/p/e682a8dc1935) |
+| Thu, 06 Nov 2025 10:35:06 GMT | Best Endpoint Security Services Provider in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/89ddf6a6dec4) |
+| Thu, 06 Nov 2025 10:34:27 GMT | Navigating the New Frontier of AI Security: A Deep Dive into the OWASP GenAI Solutions Guide | noailabs | [Read More](https://medium.com/p/4cca9cd54233) |
+| Thu, 06 Nov 2025 10:34:06 GMT | ️ Mastering Spring @ControllerAdvice: Secure Your Exceptions Like a Pro! | Hirun Mihisara | [Read More](https://medium.com/p/7a045347173e) |
+| Thu, 06 Nov 2025 10:32:16 GMT | E-Government Made Easy: The Revolution Driven by Public Service Kiosk Machines | Rakesh | [Read More](https://medium.com/p/6e461a466716) |
+| Thu, 06 Nov 2025 10:32:13 GMT | Installing & Configuring Snort | Mcl0ng0ng | [Read More](https://medium.com/p/5fe420566446) |
+| Thu, 06 Nov 2025 10:31:31 GMT | My Journey to Getting Selected for the CyberMACS Erasmus Mundus Program in Applied Cybersecurity | Abu Nayem | [Read More](https://medium.com/p/7c570c583e14) |
+| Thu, 06 Nov 2025 10:24:04 GMT | 5 Critical Vulnerabilities I Found in Production AI Systems | Muhammad Haider Tallal | [Read More](https://medium.com/p/4b5059e4823a) |
 | Thu, 06 Nov 2025 10:14:53 GMT | Edit In-Progress Documents in BoldSign | Reethika Moovendhan | [Read More](https://medium.com/p/168477960603) |
+| Thu, 06 Nov 2025 10:14:09 GMT | Introduction to SIEM — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/22b5cf6448cf) |
 | Thu, 06 Nov 2025 10:07:42 GMT | A Framework of Ethical Design | Onoruke Blessing | [Read More](https://medium.com/p/d40ee0a6a4f7) |
 | Thu, 06 Nov 2025 10:05:49 GMT | Designing ELV Systems for Educational Institutions in the UAE | Abhilashtec | [Read More](https://medium.com/p/5a5761d53427) |
 | Thu, 06 Nov 2025 10:03:08 GMT | Trick or Treat? SOC 2 Promises vs Reality | Hicomply | [Read More](https://medium.com/p/97128e52cd3b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 05:03:24 GMT | Jailbreak -Tuning Method | WomenTech Space Disruptor | [Read More](https://medium.com/p/572277ac4b57) |
 | Thu, 06 Nov 2025 05:02:48 GMT | How to Prepare for the Certificate of Competence in Zero Trust (CCZT) Exam? | InfosecTrain | [Read More](https://medium.com/p/0d4064fbdec9) |
 | Thu, 06 Nov 2025 05:01:37 GMT | What is Responsible AI? | InfosecTrain | [Read More](https://medium.com/p/09867bb37b47) |
-| Thu, 06 Nov 2025 05:00:17 GMT | What is Content Delivery Networks (CDN)? | InfosecTrain | [Read More](https://medium.com/p/0ef75cc9c2c5) |
-| Thu, 06 Nov 2025 04:59:26 GMT | Best Practices for Securing Proxy Servers in Corporate Networks | ProxiesThatWork | [Read More](https://medium.com/p/6fb9186bac4f) |
-| Thu, 06 Nov 2025 04:57:46 GMT | The Course-Selling Era of Cybersecurity | Rubab Fatima | [Read More](https://medium.com/p/4a6318629c57) |
-| Thu, 06 Nov 2025 04:57:32 GMT | OpenAI’s Aardvark: The GPT-5 Agent Transforming Cybersecurity | AgileWoW | [Read More](https://medium.com/p/14d02814f65f) |
-| Thu, 06 Nov 2025 04:38:02 GMT | Advanced MongoDB Operations and Data Query | fijrisalwa | [Read More](https://medium.com/p/1a25928631c9) |
-| Thu, 06 Nov 2025 04:33:31 GMT | The Hidden Language of the Internet: What Network Protocols Really Do (and Why They Matter) | Sajjad Hussain | [Read More](https://medium.com/p/b6d7a7db5123) |
-| Thu, 06 Nov 2025 04:32:55 GMT | Project Management Information System (PMIS): What is it & how it works | TaskFord | [Read More](https://medium.com/p/77b36dc58338) |
-| Thu, 06 Nov 2025 04:32:51 GMT | EXCESSIVE DATA EXPOSURE: ALL YOU NEED TO KNOW | Jei Ess | [Read More](https://medium.com/p/1c42f73f9f80) |
-| Thu, 06 Nov 2025 04:32:04 GMT | The Hacker’s Playbook Changed. Have You? | NizzCorp Academy | [Read More](https://medium.com/p/b8eb88529e2d) |
-| Thu, 06 Nov 2025 04:32:04 GMT | AWS IAM Users and Roles — Understanding | Krushnat Kapse | [Read More](https://medium.com/p/ee9327091dce) |
