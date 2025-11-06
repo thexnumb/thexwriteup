@@ -12,11 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 20:40:43 GMT | How I Found 6 Reflected XSS — and Turned Them into Account Takeover | Potato Human | [Read More](https://medium.com/p/3c0ace797b0a) |
+| Thu, 06 Nov 2025 20:31:52 GMT | Secrets, Everywhere: Why We Co-Led Truffle Security’s Series B | Nick Washburn | [Read More](https://medium.com/p/b4d5ef8337e8) |
+| Thu, 06 Nov 2025 20:29:59 GMT | V2Box: Исчерпывающее руководство по цифровой конфиденциальности и неограниченному доступу к ИИ | v2box App | [Read More](https://medium.com/p/75f9e470001e) |
+| Thu, 06 Nov 2025 20:24:39 GMT | Under The Wave | Tosan Tosanwumi | [Read More](https://medium.com/p/f4a9ae5e8a70) |
+| Thu, 06 Nov 2025 20:24:05 GMT | Ciberseguridad para Startups | Israel Aráoz Severiche | [Read More](https://medium.com/p/45b896e401eb) |
+| Thu, 06 Nov 2025 20:23:48 GMT | Bypassing CSRF Token Protection | Fatimahasan | [Read More](https://medium.com/p/1283b64083ea) |
+| Thu, 06 Nov 2025 20:19:58 GMT | Cybersecurity that Actually Feels Human. | Finncurter | [Read More](https://medium.com/p/c7f70807a272) |
 | Thu, 06 Nov 2025 20:07:54 GMT | Building My Snort IDS Home Lab | Dhanush Dhayalan | [Read More](https://medium.com/p/a4a425adc767) |
 | Thu, 06 Nov 2025 19:59:57 GMT | The Developer's Laptop | Tim O'Brien | [Read More](https://medium.com/p/20bbbb0932d5) |
 | Thu, 06 Nov 2025 19:57:27 GMT | V2Box: The Ultimate Guide to Digital Privacy and Unrestricted AI Access | v2box App | [Read More](https://medium.com/p/5a792d94aa9d) |
 | Thu, 06 Nov 2025 19:57:03 GMT | The Eviction Challenge — How Sunny (SOC) Stopped APT28 at E-Corp | Odiomonafe Jamal . A | [Read More](https://medium.com/p/1ad2beed8ec4) |
 | Thu, 06 Nov 2025 19:34:46 GMT | Security and Resilience through a Business Continuity Management System | Oleh Dubetcky | [Read More](https://medium.com/p/4bdb1ac28d03) |
+| Thu, 06 Nov 2025 19:33:26 GMT | Fiberhome GPON ONU Model : HG6145F1 Router : Predictable WIFI passwords and Real Risks —… | Hani Anis Bouzid | [Read More](https://medium.com/p/d8e54da385d3) |
 | Thu, 06 Nov 2025 19:25:16 GMT | The Information Theory | Chanti-Roi Cooper | [Read More](https://medium.com/p/157a19389762) |
 | Thu, 06 Nov 2025 19:22:54 GMT | Why Microsoft Copilot’s Latest Updates Are Now Your Enterprise Mandate? | IT_Engineer | [Read More](https://medium.com/p/5e97b816d714) |
 | Thu, 06 Nov 2025 19:18:59 GMT | 101 Emerging Effects of Artificial Intelligence in Cybersecurity: Trends, Opportunities, and… | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/b64832616e65) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 14:18:43 GMT | The Unseen Between the Lines | Andy Tillman UK | [Read More](https://medium.com/p/2f927e1301cb) |
 | Thu, 06 Nov 2025 14:17:57 GMT | Day 5 — Many-time-pad | Siyam | [Read More](https://medium.com/p/28f3104d517b) |
 | Thu, 06 Nov 2025 14:13:39 GMT | Skyrocket Your IT Career with AWS Course in Bangalore | Fardeen Digileem | [Read More](https://medium.com/p/ef94d90e3fab) |
-| Thu, 06 Nov 2025 14:12:10 GMT | Cyber Security Project: How to Deploy ELK SIEM and Elastic Agent with SSL/TLS for a Secure Home Lab… | Rupesh Sharma | [Read More](https://medium.com/p/6ea872e0b3a8) |
-| Thu, 06 Nov 2025 14:11:18 GMT | Building Trust at the Root: Why Domain Registrars Are the New Gateway to the Internet’s Future | Enrique Somoza | [Read More](https://medium.com/p/dfac79fa5820) |
-| Thu, 06 Nov 2025 14:10:46 GMT | Legit Crypto Recovery Service Companies in 2025: Consult Optimistic Hacker Gaius | Optimistic Hacker Gaius | [Read More](https://medium.com/p/ba67195199b4) |
-| Thu, 06 Nov 2025 14:10:08 GMT | SOC Demystified — 5 Key Lessons (Explained the Way I Learned Them) ~10 min read | D3ad_M3m0r13s | [Read More](https://medium.com/p/3d6fa18679a6) |
-| Thu, 06 Nov 2025 14:06:55 GMT | How SentryPC Enhances Online Safety for Kids: A 2025 Review | Paul Meyer | [Read More](https://medium.com/p/860c5a995bd8) |
-| Thu, 06 Nov 2025 14:06:00 GMT | 3. Based on Deloitte — “C-Suite Sustainability Report 2025” | ATLAS Advisory | [Read More](https://medium.com/p/0b4c47cb1400) |
-| Thu, 06 Nov 2025 14:02:03 GMT | 2. Based on IBM — “Top Digital Transformation Trends” | ATLAS Advisory | [Read More](https://medium.com/p/93ff7cafa273) |
-| Thu, 06 Nov 2025 14:01:36 GMT | HijackLoader/GhostPulse/IDAT Loader Comprehensive Analysis | Vladyslav Bahlai | [Read More](https://medium.com/p/6e15f48eb96d) |
