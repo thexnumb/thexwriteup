@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 15:09:23 GMT | Three Cases, One Hack: The Human Firewall | Gautam Mengle | [Read More](https://medium.com/p/0b8e0aa6c7ee) |
+| Thu, 06 Nov 2025 15:05:42 GMT | Security and Performance Aspects of AppArmor Profiles | Linux Guide | [Read More](https://medium.com/p/bf8659d1aa96) |
+| Thu, 06 Nov 2025 15:03:12 GMT | Pelican — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/fd2615d455ab) |
+| Thu, 06 Nov 2025 15:02:58 GMT | Cyber Briefing: 2025.11.06 | CyberMaterial | [Read More](https://medium.com/p/a1aaccea99c1) |
+| Thu, 06 Nov 2025 15:02:36 GMT | Java 25: How Pattern Matching and Sealed Classes Made the Visitor Pattern Easy (Finally!) | Jitin Kayyala | [Read More](https://medium.com/p/403d0139ac50) |
+| Thu, 06 Nov 2025 15:00:13 GMT | AI in Cybersecurity : The Future or Detrimental . Part 2 | Jane Omoteshowo Onwuegbuosa | [Read More](https://medium.com/p/0caa7f525958) |
+| Thu, 06 Nov 2025 14:50:13 GMT | Mastering Productivity in Cybersecurity: Schedule Like a Hacker | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/dde8a22b8ebc) |
 | Thu, 06 Nov 2025 14:45:10 GMT | “The $750 Password Reset That Traveled in Plain Sight” | Aman Sharma | [Read More](https://medium.com/p/231dcbf35caa) |
 | Thu, 06 Nov 2025 14:41:01 GMT | SOC235 — Atlassian Confluence Broken Access Control 0-Day CVE-2023–22515 (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/c97356cd353b) |
 | Thu, 06 Nov 2025 14:38:07 GMT | Securing Systems: A Deep Dive into Network Safety | Ratish Raj | [Read More](https://medium.com/p/95192756f878) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 09:43:51 GMT | AI’s Dirty Little Secret: The Trillion-Dollar Power Crisis | Nowyouknow | [Read More](https://medium.com/p/b498e0250aae) |
 | Thu, 06 Nov 2025 09:41:38 GMT | 6 Linux Myths That Keep People Trapped on Windows | Fateyaly | [Read More](https://medium.com/p/12513e6ae18c) |
 | Thu, 06 Nov 2025 09:40:42 GMT | Lesson 3 : Security Principles, Frameworks & Tools | YogiCode | [Read More](https://medium.com/p/77ce4fff1005) |
-| Thu, 06 Nov 2025 09:40:35 GMT | I Spent 7 Hours Learning AI Safety So You Don’t Have To | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/37fd3891567b) |
-| Thu, 06 Nov 2025 09:39:20 GMT | DockerLabs Writeup — ForbiddenHack (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/75b8914ce832) |
-| Thu, 06 Nov 2025 09:38:57 GMT | How Data Flows Inside Linux — From Keypress to Kernel to Network | Zoningxtr | [Read More](https://medium.com/p/76e71d8b7c74) |
-| Thu, 06 Nov 2025 09:35:41 GMT | THE SELF-REPLICATING VIRUS THAT’S WIPING OUT THE WORLD: FROM SCIENCE FICTION TO FACT | Robot Crime blog | [Read More](https://medium.com/p/22b128f14e56) |
-| Thu, 06 Nov 2025 09:34:29 GMT | From Single Processors to the Post-Quantum Era: The Next Paradigm in High Availability System… | Laura Garcia | [Read More](https://medium.com/p/033fb6073086) |
-| Thu, 06 Nov 2025 09:32:43 GMT | Still 4,600+ WSUS Servers Unpatched After Critical RCE Flaw (CVE-2025–59287) | Criminal IP | [Read More](https://medium.com/p/f8d97e8d1192) |
-| Thu, 06 Nov 2025 09:31:47 GMT | Systems as Attack Vectors Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/917aad98eef3) |
