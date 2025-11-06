@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 19:25:16 GMT | The Information Theory | Chanti-Roi Cooper | [Read More](https://medium.com/p/157a19389762) |
+| Thu, 06 Nov 2025 19:22:54 GMT | Why Microsoft Copilot’s Latest Updates Are Now Your Enterprise Mandate? | IT_Engineer | [Read More](https://medium.com/p/5e97b816d714) |
+| Thu, 06 Nov 2025 19:18:59 GMT | 101 Emerging Effects of Artificial Intelligence in Cybersecurity: Trends, Opportunities, and… | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/b64832616e65) |
 | Thu, 06 Nov 2025 19:13:57 GMT | HTB Bashed — Walkthrough/writeup | Findlay Lewis | [Read More](https://medium.com/p/51dc6366aefa) |
 | Thu, 06 Nov 2025 19:10:07 GMT | SleepyDuck: The Ethereum-Powered Malware That Redefines Command and Control | C. Oscar Lawshea | [Read More](https://medium.com/p/c6d612ff9093) |
+| Thu, 06 Nov 2025 19:07:46 GMT | ⚠️ The One Command That Destroyed My 90K+ YouTube Channel — A Real Hacker Trap You Must Avoid | Gopi C K | [Read More](https://medium.com/p/942793631734) |
 | Thu, 06 Nov 2025 19:06:38 GMT | How can attackers easily gain access to your network? | Haned Ussama | [Read More](https://medium.com/p/dda3f1054fda) |
 | Thu, 06 Nov 2025 19:05:39 GMT | CYBER KILL CHAIN WEAPONIZATION (SİLAHLANMA) AŞAMASI | Burhan Demir | [Read More](https://medium.com/p/fbe103042f3c) |
 | Thu, 06 Nov 2025 19:00:15 GMT | Welcome Walkthrough | IK4R0S | [Read More](https://medium.com/p/b27c27edb739) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 13:15:24 GMT | Militaries can’t ignore climate change — it could cripple their tech | Chris Baraniuk | [Read More](https://medium.com/p/4403bc159927) |
 | Thu, 06 Nov 2025 13:14:19 GMT | How AI Is Revolutionizing IT Support and Cybersecurity in 2025 | KnoTra Global | [Read More](https://medium.com/p/36e27efc028d) |
 | Thu, 06 Nov 2025 13:14:03 GMT | How AI is Transforming Compliance for Modern Businesses | Maruti Techlabs | [Read More](https://medium.com/p/72a5ad0df781) |
-| Thu, 06 Nov 2025 13:11:15 GMT | HackTheBox Academy Footprinting Oracle TNS (Easy setup) | Birdv | [Read More](https://medium.com/p/32c0c6944806) |
-| Thu, 06 Nov 2025 13:09:18 GMT | Microsoft Defender for Endpoints (MDE) | Navneet Kumar | [Read More](https://medium.com/p/71a4445f67b8) |
-| Thu, 06 Nov 2025 13:07:11 GMT | The War You Never See | Haroon Shahid | [Read More](https://medium.com/p/f0e36bc4eb99) |
-| Thu, 06 Nov 2025 13:03:53 GMT | Huntress CTF 2025 MEGA Write-up | Forrest Caffray | [Read More](https://medium.com/p/1b81666bc686) |
