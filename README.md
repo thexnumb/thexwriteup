@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 07:20:15 GMT | ⚔️ Understanding the “No Rate Limit” Vulnerability — The Silent API Killer | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/7b95340268e5) |
+| Thu, 06 Nov 2025 07:17:03 GMT | Hitech Barrier (HB-140S) Smart Rugged Access Control for Saudi Arabia | Hitech Barrier | [Read More](https://medium.com/p/67ca823b7e7d) |
+| Thu, 06 Nov 2025 07:01:59 GMT | Advanced Deepfake Detection Architectures | Caamanno | [Read More](https://medium.com/p/c8e80166980f) |
+| Thu, 06 Nov 2025 06:56:10 GMT | Reverse Engineering Common CMS Configs for Easy Wins: Step-by-Step Guide for Hackers | Very Lazy Tech | [Read More](https://medium.com/p/c4a136c90919) |
+| Thu, 06 Nov 2025 06:54:58 GMT | Is Kali Linux for Hackers? — Kaashiv Infotech Linux | Anu Chennai | [Read More](https://medium.com/p/99c97f826be3) |
+| Thu, 06 Nov 2025 06:54:29 GMT | Zero Trust Architecture: What It Is, What It Isn’t, and Why It Matters | Abioye Orimadegun | [Read More](https://medium.com/p/35c88f987d46) |
+| Thu, 06 Nov 2025 06:53:23 GMT | More Than a Gatekeeper: Why Professional Reception Security London Is Now an Absolute Necessity | 2015 Security Services ltd | [Read More](https://medium.com/p/78f00ea18204) |
+| Thu, 06 Nov 2025 06:52:51 GMT | Cognitive Convergence: When Humans, AI, and Synthetic Minds Begin to Think Together | Code & Credibility | [Read More](https://medium.com/p/9e87152215ea) |
+| Thu, 06 Nov 2025 06:41:11 GMT | Pensar fortalece o raciocínio lógico. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/65b3f8e28ed7) |
+| Thu, 06 Nov 2025 06:39:39 GMT | How AI and Machine Learning Are Revolutionizing Credit Card Fraud Detection | Sohan Lal | [Read More](https://medium.com/p/ae1c1a467923) |
+| Thu, 06 Nov 2025 06:38:55 GMT | The Daily Tech Digest: 06 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6638b1fb20b2) |
+| Thu, 06 Nov 2025 06:34:33 GMT | Professional Development in Cybersecurity: Comparing HTCIA, IACSP, and IAFS | Anderson Santos | [Read More](https://medium.com/p/f12d317653e9) |
 | Thu, 06 Nov 2025 06:26:12 GMT | Why You’ll Love the Infinix New Phone for Its Sleek Design and Speed | Chloe White | [Read More](https://medium.com/p/5b442bfa9539) |
 | Thu, 06 Nov 2025 06:12:27 GMT | How to Keep Your Kids Safe Online Without Spying | Cybersecurity Insights | [Read More](https://medium.com/p/5578bdeb566e) |
 | Thu, 06 Nov 2025 06:03:45 GMT | gocrypt Gets Faster: Caching, Slices, and Lessons in Not Doing the Same Work Twice | Firda Safridi | [Read More](https://medium.com/p/35513c2bfefb) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 21:22:39 GMT | Protecting Your Network: The Role of Cyber Security Solutions in Business Internet Services | Defend My Business | [Read More](https://medium.com/p/0d8d26e1be6b) |
 | Wed, 05 Nov 2025 21:16:53 GMT | ¿Qué son las pruebas de penetración? | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/0a8c1363d399) |
 | Wed, 05 Nov 2025 21:09:26 GMT | Watcher (Tryhackme write-up) | CO0L7 | [Read More](https://medium.com/p/6c3506911280) |
-| Wed, 05 Nov 2025 21:02:22 GMT | Cyber Threat Intelligence (CTI) | Irem Bezci | [Read More](https://medium.com/p/c150f4ec6b18) |
-| Wed, 05 Nov 2025 20:54:01 GMT | How Businesses Can Reduce Cyberattack Risk This Holiday Season | IT_Engineer | [Read More](https://medium.com/p/d85ce4d13e8e) |
-| Wed, 05 Nov 2025 20:44:55 GMT | Everything You Love You Will Eventually Automate | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ae6abb392364) |
-| Wed, 05 Nov 2025 20:43:54 GMT | ️ Penetration Testing කියන්නේ මොකද්ද? | Ruwan Sanjeewa | [Read More](https://medium.com/p/c6eb1ff365ca) |
-| Wed, 05 Nov 2025 20:42:06 GMT | MLPI: Our Mission Statement | ogmur | [Read More](https://medium.com/p/66ba939124af) |
-| Wed, 05 Nov 2025 20:41:02 GMT | When Nobody Knows What You Sell, You’ve Built Something Terrifying | Javier Baal | [Read More](https://medium.com/p/39c81891bd00) |
-| Wed, 05 Nov 2025 20:36:50 GMT | The Power of Risk | She Writes Chaos | [Read More](https://medium.com/p/ae977c5ca674) |
-| Wed, 05 Nov 2025 20:32:05 GMT | Adiós a las contraseñas: Cómo Implementé autenticación con WebAuthn en Node.js. | Eliud Trejo | [Read More](https://medium.com/p/81db4419bc0e) |
-| Wed, 05 Nov 2025 20:23:51 GMT | Pollard’s Rho for Solving Discrete Logarithms | Declan | [Read More](https://medium.com/p/6767981ad39b) |
-| Wed, 05 Nov 2025 20:01:49 GMT | When Truth Has No Audience | Anantadev das | [Read More](https://medium.com/p/f59a71bb9885) |
-| Wed, 05 Nov 2025 19:50:59 GMT | Embedding Security Testing Across the SDLC | thedevsecopshandbook | [Read More](https://medium.com/p/32d2e6d8d7b8) |
-| Wed, 05 Nov 2025 19:44:34 GMT | The Louvre Password Leak: A Reminder of Why Cybersecurity Still Matters | mustafabakla | [Read More](https://medium.com/p/3c3ad7d89b3e) |
