@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 15:42:08 GMT | Keylogging explained: the hidden cyberthreat stealing your passwords | Panda Security | [Read More](https://medium.com/p/9c58f948493b) |
+| Thu, 06 Nov 2025 15:41:58 GMT | The Future of Career Services Isn’t Limited to Job Search Anymore — It’s About Life Design | Vijay Kumar Gupta | [Read More](https://medium.com/p/00e54c49809d) |
+| Thu, 06 Nov 2025 15:41:50 GMT | The AI Doomsday Book That Got One Thing Devastatingly Right | ToxSec | [Read More](https://medium.com/p/4285f1de0052) |
+| Thu, 06 Nov 2025 15:23:17 GMT | Trump and Nigeria: Conspiracy Theories, Fear Mongering, and The Invasion of Idiots | Onyedikachukwu Czar | [Read More](https://medium.com/p/e298c1932f75) |
+| Thu, 06 Nov 2025 15:22:51 GMT | Next in AI: Issue #37 | Sam Ghosh | [Read More](https://medium.com/p/c5b085be0dc1) |
+| Thu, 06 Nov 2025 15:20:52 GMT | Balancing Tech Work and Life: How Hobbies Recharge Your Mind | William T. Bridge | [Read More](https://medium.com/p/15df7186c3be) |
+| Thu, 06 Nov 2025 15:20:08 GMT | I Built a Home Security Lab and Caught My First “Hacker” (It Was Me) | Hanniouiyassine | [Read More](https://medium.com/p/cd5bbf0f5bb6) |
 | Thu, 06 Nov 2025 15:09:23 GMT | Three Cases, One Hack: The Human Firewall | Gautam Mengle | [Read More](https://medium.com/p/0b8e0aa6c7ee) |
 | Thu, 06 Nov 2025 15:05:42 GMT | Security and Performance Aspects of AppArmor Profiles | Linux Guide | [Read More](https://medium.com/p/bf8659d1aa96) |
 | Thu, 06 Nov 2025 15:03:12 GMT | Pelican — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/fd2615d455ab) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 10:14:09 GMT | Introduction to SIEM — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/22b5cf6448cf) |
 | Thu, 06 Nov 2025 10:07:42 GMT | A Framework of Ethical Design | Onoruke Blessing | [Read More](https://medium.com/p/d40ee0a6a4f7) |
 | Thu, 06 Nov 2025 10:05:49 GMT | Designing ELV Systems for Educational Institutions in the UAE | Abhilashtec | [Read More](https://medium.com/p/5a5761d53427) |
-| Thu, 06 Nov 2025 10:03:08 GMT | Trick or Treat? SOC 2 Promises vs Reality | Hicomply | [Read More](https://medium.com/p/97128e52cd3b) |
-| Thu, 06 Nov 2025 10:03:08 GMT | Entra-First, CNCF-Augmented Multi-Cloud Nano-Services for Insurtech companies | Lucas Carranza | [Read More](https://medium.com/p/36814b3e681f) |
-| Thu, 06 Nov 2025 09:49:09 GMT | Top-Rated IoT Security Certification Course for Penetration Testers | cyber security Updates | [Read More](https://medium.com/p/528c28a211c8) |
-| Thu, 06 Nov 2025 09:45:32 GMT | Top 5 Emerging Vendor Risks for 2025 and How to Mitigate Them | SecureSlate | [Read More](https://medium.com/p/cd898138bfa9) |
-| Thu, 06 Nov 2025 09:43:51 GMT | AI’s Dirty Little Secret: The Trillion-Dollar Power Crisis | Nowyouknow | [Read More](https://medium.com/p/b498e0250aae) |
-| Thu, 06 Nov 2025 09:41:38 GMT | 6 Linux Myths That Keep People Trapped on Windows | Fateyaly | [Read More](https://medium.com/p/12513e6ae18c) |
-| Thu, 06 Nov 2025 09:40:42 GMT | Lesson 3 : Security Principles, Frameworks & Tools | YogiCode | [Read More](https://medium.com/p/77ce4fff1005) |
