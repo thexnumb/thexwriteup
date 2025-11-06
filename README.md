@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 09:40:42 GMT | Lesson 3 : Security Principles, Frameworks & Tools | YogiCode | [Read More](https://medium.com/p/77ce4fff1005) |
+| Thu, 06 Nov 2025 09:40:35 GMT | I Spent 7 Hours Learning AI Safety So You Don’t Have To | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/37fd3891567b) |
+| Thu, 06 Nov 2025 09:38:57 GMT | How Data Flows Inside Linux — From Keypress to Kernel to Network | Zoningxtr | [Read More](https://medium.com/p/76e71d8b7c74) |
+| Thu, 06 Nov 2025 09:35:41 GMT | THE SELF-REPLICATING VIRUS THAT’S WIPING OUT THE WORLD: FROM SCIENCE FICTION TO FACT | Robot Crime blog | [Read More](https://medium.com/p/22b128f14e56) |
+| Thu, 06 Nov 2025 09:34:29 GMT | From Single Processors to the Post-Quantum Era: The Next Paradigm in High Availability System… | Laura Garcia | [Read More](https://medium.com/p/033fb6073086) |
+| Thu, 06 Nov 2025 09:31:47 GMT | Systems as Attack Vectors Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/917aad98eef3) |
+| Thu, 06 Nov 2025 09:28:54 GMT | Today’s Top Cyber Intelligence Highlights — Nov 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3c351f619d39) |
+| Thu, 06 Nov 2025 09:26:56 GMT | Ensuring Safety and Trust: The Growing Demand for Professional Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/95ab32aa0fd5) |
+| Thu, 06 Nov 2025 09:26:37 GMT | Cybersecurity Tool Integrations That Save Teams Hours Daily | Lanvaus | [Read More](https://medium.com/p/d0e941209fc9) |
+| Thu, 06 Nov 2025 09:24:56 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/3f8d00ce85f7) |
+| Thu, 06 Nov 2025 09:24:10 GMT | Trezor Suite Download App (2025) — Securely Manage Your Crypto Assets | Trezor suite | [Read More](https://medium.com/p/51a594db53e9) |
+| Thu, 06 Nov 2025 09:20:29 GMT | Cybersecurity for E-commerce: Keeping Online Transactions Safe | Sytex | [Read More](https://medium.com/p/1e2678a68ef0) |
+| Thu, 06 Nov 2025 09:20:10 GMT | Are you worried that your workplace will be replaced by machines? Think about that again. | Martin Abramov | [Read More](https://medium.com/p/c8a4285ad691) |
+| Thu, 06 Nov 2025 09:19:26 GMT | Agent Naïvité: The AI Security Flaw nobody is talking about | Sean Robbins | [Read More](https://medium.com/p/ec92d8c26258) |
+| Thu, 06 Nov 2025 09:17:19 GMT | The Complete Mechanics of Server-to-Server Secure Communication: A Foundational Analysis of TLS… | Pxl | [Read More](https://medium.com/p/9c48835f00ca) |
+| Thu, 06 Nov 2025 09:16:30 GMT | It Is Spooky. But Not At A Distance. It’s Spooky In Between | Frank Zickert - Quantum Machine Learning | [Read More](https://medium.com/p/af7b9e74fcf7) |
 | Thu, 06 Nov 2025 09:13:00 GMT | Extropy November Newsletter | Extropy.IO | [Read More](https://medium.com/p/e1a108ddde90) |
+| Thu, 06 Nov 2025 09:11:11 GMT | The Silent Defender: How Firewalls Protect UAE and India Businesses from Invisible Cyber Threats | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/b035f7ca796e) |
 | Thu, 06 Nov 2025 09:07:00 GMT | Managed SOC vs. In-House: What Works Best For Abu Dhabi Companies? | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/8deb91feeb4d) |
 | Thu, 06 Nov 2025 09:02:43 GMT | How Emerging AI Impacts Your Privacy — and What You Can Do About It | CyberEchoes | [Read More](https://medium.com/p/6992b05139ad) |
 | Thu, 06 Nov 2025 09:02:08 GMT | A Factory in Silence: How a Cyberattack Brought Jaguar Land Rover to a Stop | Devansh Patel | [Read More](https://medium.com/p/76118491106b) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 03:08:47 GMT | #  Browser Security Settings You Must Enable in 2025 | Tourej | [Read More](https://medium.com/p/c008f4004f0d) |
 | Thu, 06 Nov 2025 03:06:53 GMT | PicoCTF CanYouSee — Forensics [EASY] | Alvin Kapoor | [Read More](https://medium.com/p/089b4d88518d) |
 | Thu, 06 Nov 2025 03:00:32 GMT | Practical Hypothesis Generation for Threat Hunting — Part 1 (Hunt Area) | Craig Wampler | [Read More](https://medium.com/p/ab32b3446894) |
-| Thu, 06 Nov 2025 02:58:30 GMT | Watchdog Python Code | Mersadi Freeman | [Read More](https://medium.com/p/9e7b1d0ebbdf) |
-| Thu, 06 Nov 2025 02:52:14 GMT | Why Beginners Struggles In Bug Bounty | Rounakraj | [Read More](https://medium.com/p/3dbfda0eae3e) |
-| Thu, 06 Nov 2025 02:51:18 GMT | Undetectable and noise resistant data hidding via direct sequence spread spectrum steganography (w… | suspendedlistener | [Read More](https://medium.com/p/fb3988bc3d3e) |
-| Thu, 06 Nov 2025 02:35:28 GMT | From Logs to Insights: Mastering SIEM for Real Security Value | Aj | [Read More](https://medium.com/p/1dd2953a823d) |
-| Thu, 06 Nov 2025 02:35:09 GMT | How Bug Bounty Programs are Improving Software Security | Samina Perveen | [Read More](https://medium.com/p/f1b8efa64d3f) |
-| Thu, 06 Nov 2025 02:34:56 GMT | Modern Recon: How Hackers Use AI to Hunt Vulnerabilities Smarter | Vipul Sonule | [Read More](https://medium.com/p/5a3cd87c3671) |
-| Thu, 06 Nov 2025 02:33:47 GMT | From Trusting Platforms to Trusting Yourself: Why 2025 Is the Year of Web3’s Security Awakening | Digital Shield Offcial | [Read More](https://medium.com/p/e20be9dc1b8a) |
-| Thu, 06 Nov 2025 02:30:31 GMT | Digital Shield: How Open Source and Universal Security End the Trust Crisis of Crypto | Digital Shield Offcial | [Read More](https://medium.com/p/e39dfcc819de) |
-| Thu, 06 Nov 2025 02:24:01 GMT | 7 AI Code Review Tools for Code Security Checks | Sonali Sood | [Read More](https://medium.com/p/aeb366d98384) |
-| Thu, 06 Nov 2025 02:18:40 GMT | Time’s Up for TOTP: Rethinking MFA in Microsoft Entra | Ean Dudley | [Read More](https://medium.com/p/3e254d0bb1f0) |
-| Thu, 06 Nov 2025 02:15:49 GMT | Very Vulnerable Management API - Writeup | Relaaxx | [Read More](https://medium.com/p/56fe55ef28f8) |
-| Thu, 06 Nov 2025 02:10:22 GMT | The Rise of SSO and MFA: A Smarter, Safer Way to Log In | Thuong To | [Read More](https://medium.com/p/c8e74329642a) |
-| Thu, 06 Nov 2025 02:01:14 GMT | Nmap Live Host Discovery TryHackMy Room | Eid Yasser Eid | [Read More](https://medium.com/p/f46a4977d240) |
-| Thu, 06 Nov 2025 01:48:19 GMT | Stop! hammerTIME: The Evolution of Memory Mayhem | ekomsSavior | [Read More](https://medium.com/p/4296b0f9db63) |
-| Thu, 06 Nov 2025 01:07:16 GMT | Is Digital Identity Actually Going to Help Us? | Oleksii Zhukov | [Read More](https://medium.com/p/cf030373281a) |
-| Thu, 06 Nov 2025 00:51:53 GMT | The Hardware Pact | O. J. Okpabi | [Read More](https://medium.com/p/a0c63ce2a490) |
-| Thu, 06 Nov 2025 00:51:04 GMT | Cyber Attacks on Critical Infrastructure: The Ukraine Power Grid (2015) and the TRITON Campaign… | aasem awisat | [Read More](https://medium.com/p/51f235cb1466) |
