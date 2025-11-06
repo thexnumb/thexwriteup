@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 08:22:04 GMT | “The Day I Found an Unsecured FTP — A Responsible Disclosure Story” | H4RUK7 K1R4 | [Read More](https://medium.com/p/00caf67ec647) |
+| Thu, 06 Nov 2025 08:07:51 GMT | BOT 2.0: A Better Global Expansion Strategy for 2026 | IMS Global Business Solutions | [Read More](https://medium.com/p/ed84b79564f7) |
+| Thu, 06 Nov 2025 08:06:25 GMT | Am I Dating a Stalker? 5 Types of Stalkers Explained | Lara Wordsmith | [Read More](https://medium.com/p/e08cf7d0e42b) |
+| Thu, 06 Nov 2025 08:02:58 GMT | The Human Firewall: Why People Are Still the Weakest Link in Cybersecurity | Shivakshi Rawat | [Read More](https://medium.com/p/4804816dc248) |
+| Thu, 06 Nov 2025 08:01:54 GMT | The Uncomfortable Truth About Hackers (And How to Stop Them) | NizzCorp Academy | [Read More](https://medium.com/p/887a6760da32) |
+| Thu, 06 Nov 2025 08:01:54 GMT | Ransomware, Rewired: 5 Trends to Watch | Syntal | [Read More](https://medium.com/p/e65402ac37a4) |
+| Thu, 06 Nov 2025 08:01:53 GMT | Part II — Vault Chronicles: Replication Without the Pager | Raymon Epping | [Read More](https://medium.com/p/052f1569412f) |
+| Thu, 06 Nov 2025 08:01:53 GMT | Smile — It Could Have Been Worse | Łukasz Ratajczak | [Read More](https://medium.com/p/17886388cdf4) |
+| Thu, 06 Nov 2025 07:58:40 GMT | The Engineering Behind QuantZen™: Practical, Not Theoretical | QuantZen™ | [Read More](https://medium.com/p/9e671bd735fa) |
+| Thu, 06 Nov 2025 07:52:09 GMT | WordPress Just Made Logins Phishing-Proof — Here’s How to Enable Passkeys in Minute | Security Pulse | [Read More](https://medium.com/p/85b233fb530e) |
+| Thu, 06 Nov 2025 07:52:02 GMT | Serenity: цифровая собственность в Web3. Почему само-кастодиум — будущее финансов | S.Technology RU | [Read More](https://medium.com/p/d9f32da243db) |
+| Thu, 06 Nov 2025 07:50:40 GMT | Every Day Should Be Cybersecurity Awareness Day in Ghana | Richard Agodzo | [Read More](https://medium.com/p/7b15eb50486e) |
+| Thu, 06 Nov 2025 07:47:45 GMT | Top 20 Phishing Attacks and How to Recognize Them | Manisha Chaudhary | [Read More](https://medium.com/p/1ba2f7bd7a3f) |
+| Thu, 06 Nov 2025 07:41:29 GMT | Zero Trust Security: Why It’s No Longer a Buzzword but a Business Necessity | Maxatlasofficial | [Read More](https://medium.com/p/13d7f628fb60) |
+| Thu, 06 Nov 2025 07:41:00 GMT | Data Privacy Laws Around the World: What Businesses Need to Know | Sytex | [Read More](https://medium.com/p/9d1ba969d9e7) |
+| Thu, 06 Nov 2025 07:40:24 GMT | PHP Security Best Practices (Preventing Session Hijacking, Securing File Uploads) | Talhaoui mouad | [Read More](https://medium.com/p/d3d09165b71d) |
 | Thu, 06 Nov 2025 07:38:18 GMT | eJPT v2 : Challenge Lab 25: Chill Hack | Dhanushkumar R | [Read More](https://medium.com/p/125243f496c5) |
+| Thu, 06 Nov 2025 07:37:27 GMT | How to Put the Brakes on the Latest DMV Text Scam | Spokeo People Search | [Read More](https://medium.com/p/058bbcdaded6) |
 | Thu, 06 Nov 2025 07:36:57 GMT | Top 10 Cryptography Tools for Secure Communication | Manisha Chaudhary | [Read More](https://medium.com/p/a01f23f493aa) |
 | Thu, 06 Nov 2025 07:35:30 GMT | 5 Architectural Truths We Learn the Hard Way (So You Don’t Have To) | Jakehsiaos | [Read More](https://medium.com/p/9cb87699bfb1) |
 | Thu, 06 Nov 2025 07:25:51 GMT | Thank You, Internet | Frank Gallagher, Ph.C | [Read More](https://medium.com/p/b30bc1b480dc) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 23:39:07 GMT | All-in-One Protection Suite - AI Antivirus & PC Utilities | Antivirus Ninja | [Read More](https://medium.com/p/2990bc0421ed) |
 | Wed, 05 Nov 2025 23:27:29 GMT | Aren’t You Sick of Being Manipulated by Social Media? | Walter Rhein | [Read More](https://medium.com/p/d34bae99befe) |
 | Wed, 05 Nov 2025 23:08:47 GMT | All you need to know about JA3 & JA4 Fingerprints (and how to collect them) | Gabriel Alves | [Read More](https://medium.com/p/8f189085b61f) |
-| Wed, 05 Nov 2025 22:56:05 GMT | 5 API Calls Hackers Commonly Exploit | Cyber-AppSec | [Read More](https://medium.com/p/6fd8ede584cb) |
-| Wed, 05 Nov 2025 22:47:20 GMT | Ameaça Oculta de Hackers Explora IA nas Empresas | Erickson A. C. Dias | [Read More](https://medium.com/p/78c869dcf267) |
-| Wed, 05 Nov 2025 22:43:52 GMT | Everything I did not say: “Fading in silence” | Bianca Bortolussi | [Read More](https://medium.com/p/bce4960f216b) |
-| Wed, 05 Nov 2025 22:43:46 GMT | The Digital Wolves at the Door: How Hackers and Scammers Prey on the Elderly | Kevin Kelly | [Read More](https://medium.com/p/4546d688881a) |
-| Wed, 05 Nov 2025 22:31:44 GMT | Shadow Dominion Tool: The Stealth Reporting Power That Challenges TikTok! | Sami Khatatba | [Read More](https://medium.com/p/13b00948ee66) |
-| Wed, 05 Nov 2025 22:30:40 GMT | Everthing I did not say: “Almost” | Bianca Bortolussi | [Read More](https://medium.com/p/a923a17860a3) |
-| Wed, 05 Nov 2025 22:29:17 GMT | Navigating FedRAMP: Understanding the Journey Before You Begin | Rachid Abadli | [Read More](https://medium.com/p/64c2c6762c3b) |
-| Wed, 05 Nov 2025 22:21:08 GMT | IITG Left Student Data on a Platter — I Told Them. They Ignored. | Aviral Srivastava | [Read More](https://medium.com/p/cbf02707dbd0) |
-| Wed, 05 Nov 2025 22:06:24 GMT | When Truth Became Editable: The Rise of Deepfakes and the War on Reality | Jessica Malini | [Read More](https://medium.com/p/35959c6037a1) |
-| Wed, 05 Nov 2025 21:53:57 GMT | Global Ransomware Raid: What It Means for the Darkweb Now | Tor BBB | [Read More](https://medium.com/p/dfa9e0bb927e) |
-| Wed, 05 Nov 2025 21:53:51 GMT | These Are the Cyber Risks That Worry Me Most in 2025 | Fook Hwa Tan | [Read More](https://medium.com/p/a6955e1b901d) |
-| Wed, 05 Nov 2025 21:51:22 GMT | Top 12 Ways Our Cell Phones Are Spying on us in 2025–2026 | Headshot Pros | [Read More](https://medium.com/p/d8914fd696dc) |
-| Wed, 05 Nov 2025 21:46:27 GMT | The Next Wave of Cyber Threats: Twenty Vectors That Can Disrupt at Scale | KeyboardSamurai | [Read More](https://medium.com/p/8950a490d28e) |
-| Wed, 05 Nov 2025 21:43:09 GMT | Privacy Just Went Solo: How ISO 27701:2025 Rewrote the Rules of Data Trust | André Ricardo Voidelo | [Read More](https://medium.com/p/ba4d57f43fc4) |
-| Wed, 05 Nov 2025 21:32:19 GMT | Your Stanley Quencher Is On Its Way! | Susan Brearley | [Read More](https://medium.com/p/ae14ca505958) |
-| Wed, 05 Nov 2025 21:29:19 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/161e127eaeee) |
-| Wed, 05 Nov 2025 21:28:53 GMT | Gen X has failed our children, but it wasn’t completely our fault. | Len Noe | [Read More](https://medium.com/p/57ff4a8381e5) |
