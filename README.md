@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 14:13:39 GMT | Skyrocket Your IT Career with AWS Course in Bangalore | Fardeen Digileem | [Read More](https://medium.com/p/ef94d90e3fab) |
+| Thu, 06 Nov 2025 14:12:10 GMT | Cyber Security Project: How to Deploy ELK SIEM and Elastic Agent with SSL/TLS for a Secure Home Lab… | Rupesh Sharma | [Read More](https://medium.com/p/6ea872e0b3a8) |
+| Thu, 06 Nov 2025 14:11:18 GMT | Building Trust at the Root: Why Domain Registrars Are the New Gateway to the Internet’s Future | Enrique Somoza | [Read More](https://medium.com/p/dfac79fa5820) |
+| Thu, 06 Nov 2025 14:10:46 GMT | Legit Crypto Recovery Service Companies in 2025: Consult Optimistic Hacker Gaius | Optimistic Hacker Gaius | [Read More](https://medium.com/p/ba67195199b4) |
+| Thu, 06 Nov 2025 14:10:08 GMT | SOC Demystified — 5 Key Lessons (Explained the Way I Learned Them) ~10 min read | D3ad_M3m0r13s | [Read More](https://medium.com/p/3d6fa18679a6) |
+| Thu, 06 Nov 2025 14:06:55 GMT | How SentryPC Enhances Online Safety for Kids: A 2025 Review | Paul Meyer | [Read More](https://medium.com/p/860c5a995bd8) |
+| Thu, 06 Nov 2025 14:06:00 GMT | 3. Based on Deloitte — “C-Suite Sustainability Report 2025” | ATLAS Advisory | [Read More](https://medium.com/p/0b4c47cb1400) |
+| Thu, 06 Nov 2025 14:02:03 GMT | 2. Based on IBM — “Top Digital Transformation Trends” | ATLAS Advisory | [Read More](https://medium.com/p/93ff7cafa273) |
+| Thu, 06 Nov 2025 14:01:36 GMT | HijackLoader/GhostPulse/IDAT Loader Comprehensive Analysis | Vladyslav Bahlai | [Read More](https://medium.com/p/6e15f48eb96d) |
+| Thu, 06 Nov 2025 13:57:31 GMT | Investigating Windows — TryHackme | Aufarifqi | [Read More](https://medium.com/p/bd91cf43ba46) |
+| Thu, 06 Nov 2025 13:46:49 GMT | Designers Are Becoming the New Target for Fake Job Interview Scam | Nicola Di Marco | [Read More](https://medium.com/p/f3131eb55cc2) |
+| Thu, 06 Nov 2025 13:45:02 GMT | HTTP vs HTTPS: Understanding the Difference and Why It Matters | Arfi Tutorials | [Read More](https://medium.com/p/454aae658723) |
 | Thu, 06 Nov 2025 13:15:24 GMT | Militaries can’t ignore climate change — it could cripple their tech | Chris Baraniuk | [Read More](https://medium.com/p/4403bc159927) |
 | Thu, 06 Nov 2025 13:14:19 GMT | How AI Is Revolutionizing IT Support and Cybersecurity in 2025 | KnoTra Global | [Read More](https://medium.com/p/36e27efc028d) |
 | Thu, 06 Nov 2025 13:14:03 GMT | How AI is Transforming Compliance for Modern Businesses | Maruti Techlabs | [Read More](https://medium.com/p/72a5ad0df781) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 09:20:29 GMT | Cybersecurity for E-commerce: Keeping Online Transactions Safe | Sytex | [Read More](https://medium.com/p/1e2678a68ef0) |
 | Thu, 06 Nov 2025 09:20:10 GMT | Are you worried that your workplace will be replaced by machines? Think about that again. | Martin Abramov | [Read More](https://medium.com/p/c8a4285ad691) |
 | Thu, 06 Nov 2025 09:19:26 GMT | Agent Naïvité: The AI Security Flaw nobody is talking about | Sean Robbins | [Read More](https://medium.com/p/ec92d8c26258) |
-| Thu, 06 Nov 2025 09:17:19 GMT | The Complete Mechanics of Server-to-Server Secure Communication: A Foundational Analysis of TLS… | Pxl | [Read More](https://medium.com/p/9c48835f00ca) |
-| Thu, 06 Nov 2025 09:16:30 GMT | It Is Spooky. But Not At A Distance. It’s Spooky In Between | Frank Zickert - Quantum Machine Learning | [Read More](https://medium.com/p/af7b9e74fcf7) |
-| Thu, 06 Nov 2025 09:13:00 GMT | Extropy November Newsletter | Extropy.IO | [Read More](https://medium.com/p/e1a108ddde90) |
-| Thu, 06 Nov 2025 09:11:11 GMT | The Silent Defender: How Firewalls Protect UAE and India Businesses from Invisible Cyber Threats | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/b035f7ca796e) |
-| Thu, 06 Nov 2025 09:07:00 GMT | Managed SOC vs. In-House: What Works Best For Abu Dhabi Companies? | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/8deb91feeb4d) |
-| Thu, 06 Nov 2025 09:02:43 GMT | How Emerging AI Impacts Your Privacy — and What You Can Do About It | CyberEchoes | [Read More](https://medium.com/p/6992b05139ad) |
-| Thu, 06 Nov 2025 09:02:08 GMT | A Factory in Silence: How a Cyberattack Brought Jaguar Land Rover to a Stop | Devansh Patel | [Read More](https://medium.com/p/76118491106b) |
-| Thu, 06 Nov 2025 09:01:23 GMT | From first hackathon to winner: lessons from doing 26 hackathons | Inky Ganbold | [Read More](https://medium.com/p/74d0165af069) |
-| Thu, 06 Nov 2025 08:56:29 GMT | How I Accessed 1,800 Company Livestreams and Uncovered a New Web Exploit Class: RRE | Farzan Karimi | [Read More](https://medium.com/p/f74b7ef996e7) |
-| Thu, 06 Nov 2025 08:45:58 GMT | Evil-GPT | Kavin Jindal | [Read More](https://medium.com/p/0623b64a727c) |
-| Thu, 06 Nov 2025 08:38:28 GMT | Linux Commands Every Cybersecurity Learner Should Master | Akanksha Mane | [Read More](https://medium.com/p/6a6363df91d4) |
-| Thu, 06 Nov 2025 08:38:28 GMT | Rajkot Hospital Servers Compromised, Sensitive CCTV Footage Exposed | Himanshu Bhatt | [Read More](https://medium.com/p/5185c54ff230) |
