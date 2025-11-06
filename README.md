@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 19:13:57 GMT | HTB Bashed — Walkthrough/writeup | Findlay Lewis | [Read More](https://medium.com/p/51dc6366aefa) |
+| Thu, 06 Nov 2025 19:10:07 GMT | SleepyDuck: The Ethereum-Powered Malware That Redefines Command and Control | C. Oscar Lawshea | [Read More](https://medium.com/p/c6d612ff9093) |
+| Thu, 06 Nov 2025 19:06:38 GMT | How can attackers easily gain access to your network? | Haned Ussama | [Read More](https://medium.com/p/dda3f1054fda) |
+| Thu, 06 Nov 2025 19:05:39 GMT | CYBER KILL CHAIN WEAPONIZATION (SİLAHLANMA) AŞAMASI | Burhan Demir | [Read More](https://medium.com/p/fbe103042f3c) |
+| Thu, 06 Nov 2025 19:00:15 GMT | Welcome Walkthrough | IK4R0S | [Read More](https://medium.com/p/b27c27edb739) |
+| Thu, 06 Nov 2025 18:52:35 GMT | When Links Lie: Discovering a Subtle Hyperlink Injection Flaw in Email Invites | Sai Jayanth | [Read More](https://medium.com/p/dd1923d6996e) |
+| Thu, 06 Nov 2025 18:51:41 GMT | How We Got Here: Application Security Engineer | Luke | [Read More](https://medium.com/p/5dc3d0139c84) |
+| Thu, 06 Nov 2025 18:48:57 GMT | COMPUTER | Abdulrahman | [Read More](https://medium.com/p/ccf556e85e12) |
+| Thu, 06 Nov 2025 18:48:48 GMT | Eclipse Foundation Revokes Leaked Open VSX Tokens After Wiz Security Discovery | SCtoCS | [Read More](https://medium.com/p/1f28cbd8cf32) |
+| Thu, 06 Nov 2025 18:41:11 GMT | The Essential Role of Unarmed Security Guard Services in Office Buildings | Isabella | [Read More](https://medium.com/p/22ce4a946976) |
+| Thu, 06 Nov 2025 18:39:54 GMT | AI Use Cases in Information Security: How Artificial Intelligence is Transforming Cyber Defense | Tugbaseydayildirim | [Read More](https://medium.com/p/fbcaff54494a) |
+| Thu, 06 Nov 2025 18:39:33 GMT | Top Cybersecurity Interview Questions (Must Read) | The Daily Cyber News | [Read More](https://medium.com/p/39c153d74341) |
+| Thu, 06 Nov 2025 18:39:08 GMT | Why Startups Are Turning to Unarmed Security Guard Services in Corona? | Isabella | [Read More](https://medium.com/p/fb209637364c) |
+| Thu, 06 Nov 2025 18:29:42 GMT | Hacksmarter — Welcome — EN | DobTheRob | [Read More](https://medium.com/p/941116cccc7a) |
 | Thu, 06 Nov 2025 18:26:43 GMT | Tools, Trouble, and Trickery: Part 2 | OSINT Amy | [Read More](https://medium.com/p/54c6febafb55) |
 | Thu, 06 Nov 2025 18:25:10 GMT | Praktikum Internet of Things (Tugas): Monitoring Suhu Via Komputer | Muhammad Surya Saputro | [Read More](https://medium.com/p/682d71939d69) |
 | Thu, 06 Nov 2025 18:21:59 GMT | Entanglement’s Big Bet on Secure Messaging | Quellin | [Read More](https://medium.com/p/5c669945c236) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 13:09:18 GMT | Microsoft Defender for Endpoints (MDE) | Navneet Kumar | [Read More](https://medium.com/p/71a4445f67b8) |
 | Thu, 06 Nov 2025 13:07:11 GMT | The War You Never See | Haroon Shahid | [Read More](https://medium.com/p/f0e36bc4eb99) |
 | Thu, 06 Nov 2025 13:03:53 GMT | Huntress CTF 2025 MEGA Write-up | Forrest Caffray | [Read More](https://medium.com/p/1b81666bc686) |
-| Thu, 06 Nov 2025 13:02:09 GMT | How Hackers Use Social Media to Steal Your Info | Cybersecurity Insights | [Read More](https://medium.com/p/755ef1c4ea53) |
-| Thu, 06 Nov 2025 13:00:58 GMT | How Passwords Are Slowly Dying Out | Aaronnsajuli | [Read More](https://medium.com/p/5035eafd961f) |
-| Thu, 06 Nov 2025 12:58:54 GMT | Free Cybersecurity Training, Internships & Soft Skills - Must Try! | Shahzaib | [Read More](https://medium.com/p/0c198f5c2736) |
-| Thu, 06 Nov 2025 12:55:57 GMT | How Hackers Collect Data Before an Attack | Shahzaib | [Read More](https://medium.com/p/296e088a7c6c) |
-| Thu, 06 Nov 2025 12:46:51 GMT | How Your SME Can Master Essential 8 Compliance Services Australia with Sentry Cyber’s Affordable… | Sentry Cyber | [Read More](https://medium.com/p/e02a92b3f10d) |
-| Thu, 06 Nov 2025 12:42:41 GMT | Top IT Technologies Transforming the Future of Digital Innovation in 2025 | Initfusion Pvt. Ltd | [Read More](https://medium.com/p/c5bb8a4201f0) |
-| Thu, 06 Nov 2025 12:39:53 GMT | Useful Hidden iPhone Codes That Unlock Secret Features | Tsumit | [Read More](https://medium.com/p/8d2a03010804) |
-| Thu, 06 Nov 2025 12:39:16 GMT | How does NDR Integrates with Existing Security Tools? | NetWitness | [Read More](https://medium.com/p/4575623c0828) |
-| Thu, 06 Nov 2025 12:34:31 GMT | Why Modern Enterprises Can No Longer Ignore Managed Detection and Response (MDR) Services | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/a5b7a2ba3b72) |
-| Thu, 06 Nov 2025 12:34:02 GMT | Tcpdump Guide to Filtering TCP, UDP, and ICMP Packets | Alfin Fanther | [Read More](https://medium.com/p/017816dcf36d) |
-| Thu, 06 Nov 2025 12:31:54 GMT | Cybersecurity Playbook 2025: The 7 Frameworks That Matter | Bhagya Rana | [Read More](https://medium.com/p/783be5aac9af) |
-| Thu, 06 Nov 2025 12:28:35 GMT | Making Sense of the Post-Quantum Readiness: A Quick Guide for Software Leaders | K. Subramanian | [Read More](https://medium.com/p/86ae44fe42c9) |
-| Thu, 06 Nov 2025 12:27:09 GMT | AI in Cybersecurity: The Future or Detrimental? Part 1 | Jane Omoteshowo Onwuegbuosa | [Read More](https://medium.com/p/d96d2e9d6627) |
-| Thu, 06 Nov 2025 12:23:43 GMT | Lab 1: Basic server-side template injection (Server-side template injection) | L4V4NY4  AGR3 | [Read More](https://medium.com/p/8f1528c209bf) |
