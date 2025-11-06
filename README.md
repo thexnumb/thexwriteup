@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 07:38:18 GMT | eJPT v2 : Challenge Lab 25: Chill Hack | Dhanushkumar R | [Read More](https://medium.com/p/125243f496c5) |
+| Thu, 06 Nov 2025 07:36:57 GMT | Top 10 Cryptography Tools for Secure Communication | Manisha Chaudhary | [Read More](https://medium.com/p/a01f23f493aa) |
+| Thu, 06 Nov 2025 07:35:30 GMT | 5 Architectural Truths We Learn the Hard Way (So You Don’t Have To) | Jakehsiaos | [Read More](https://medium.com/p/9cb87699bfb1) |
+| Thu, 06 Nov 2025 07:25:51 GMT | Thank You, Internet | Frank Gallagher, Ph.C | [Read More](https://medium.com/p/b30bc1b480dc) |
 | Thu, 06 Nov 2025 07:20:15 GMT | ⚔️ Understanding the “No Rate Limit” Vulnerability — The Silent API Killer | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/7b95340268e5) |
 | Thu, 06 Nov 2025 07:17:03 GMT | Hitech Barrier (HB-140S) Smart Rugged Access Control for Saudi Arabia | Hitech Barrier | [Read More](https://medium.com/p/67ca823b7e7d) |
+| Thu, 06 Nov 2025 07:14:53 GMT | Red Team Reconnaissance Building an Automated Network Change Detection System | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/71775ec79545) |
 | Thu, 06 Nov 2025 07:01:59 GMT | Advanced Deepfake Detection Architectures | Caamanno | [Read More](https://medium.com/p/c8e80166980f) |
 | Thu, 06 Nov 2025 06:56:10 GMT | Reverse Engineering Common CMS Configs for Easy Wins: Step-by-Step Guide for Hackers | Very Lazy Tech | [Read More](https://medium.com/p/c4a136c90919) |
 | Thu, 06 Nov 2025 06:54:58 GMT | Is Kali Linux for Hackers? — Kaashiv Infotech Linux | Anu Chennai | [Read More](https://medium.com/p/99c97f826be3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 05 Nov 2025 21:32:19 GMT | Your Stanley Quencher Is On Its Way! | Susan Brearley | [Read More](https://medium.com/p/ae14ca505958) |
 | Wed, 05 Nov 2025 21:29:19 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/161e127eaeee) |
 | Wed, 05 Nov 2025 21:28:53 GMT | Gen X has failed our children, but it wasn’t completely our fault. | Len Noe | [Read More](https://medium.com/p/57ff4a8381e5) |
-| Wed, 05 Nov 2025 21:28:49 GMT | AI Adoption Is Accelerating — So are Privacy Exposure Risks | Karthika Venkatraman | [Read More](https://medium.com/p/479a27143aca) |
-| Wed, 05 Nov 2025 21:27:45 GMT | Portswigger: Information disclosure in version control history. | Alex Alexander | [Read More](https://medium.com/p/f897f2106a6f) |
-| Wed, 05 Nov 2025 21:22:39 GMT | Protecting Your Network: The Role of Cyber Security Solutions in Business Internet Services | Defend My Business | [Read More](https://medium.com/p/0d8d26e1be6b) |
-| Wed, 05 Nov 2025 21:16:53 GMT | ¿Qué son las pruebas de penetración? | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/0a8c1363d399) |
-| Wed, 05 Nov 2025 21:09:26 GMT | Watcher (Tryhackme write-up) | CO0L7 | [Read More](https://medium.com/p/6c3506911280) |
