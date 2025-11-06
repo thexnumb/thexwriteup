@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 23:30:37 GMT | I passed CRTA! — My honest review & how to prepare | NoZe | [Read More](https://medium.com/p/fce6379664dd) |
 | Thu, 06 Nov 2025 23:04:56 GMT | Developers!!! Wanna create your Own File Upload service? | Jaivardhan Deshwal | [Read More](https://medium.com/p/a0ae806dcc66) |
 | Thu, 06 Nov 2025 23:03:27 GMT | Listening to End of the World by Searows and getting lost in my own emotions. | Shang | [Read More](https://medium.com/p/c951ac159af4) |
 | Thu, 06 Nov 2025 22:57:55 GMT | The Rise of Emerging Cyber Threats and How We Can Stay Ahead. | Spesh Billions | [Read More](https://medium.com/p/bd1f6570fe23) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 16:06:46 GMT | Tracing a Scam Phone Number with Maltego | Anthony | [Read More](https://medium.com/p/013df8437c96) |
 | Thu, 06 Nov 2025 16:05:17 GMT | Humanizing IT: How People-First Leadership Drives Digital Transformation Success | Roman Meydbray | [Read More](https://medium.com/p/8a66ffc7da0a) |
 | Thu, 06 Nov 2025 16:03:09 GMT | “The Charging Cable Trap”: How a Simple Cord Becomes a Hacker’s Weapon — The Demo That Made the… | Wi-Fun | [Read More](https://medium.com/p/f501e4ba6c6f) |
-| Thu, 06 Nov 2025 16:02:09 GMT | How to Confuse a Manipulator: A Simple but Brilliant Psychological Trick | Simple Life | [Read More](https://medium.com/p/e69c79f9da25) |
