@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 21:22:44 GMT | صیغه حلال کرج09019170148 صیغه البرز صیغه فردیس صیغه چهارباغ صیغه نظرآباد صیغه اشتهارد صیغه طالقان… | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/1c7b39758c7a) |
+| Thu, 06 Nov 2025 21:20:55 GMT | How ChatGPT Is Changing Everything — And What Comes Next | Karolina L | [Read More](https://medium.com/p/35667bab924f) |
+| Thu, 06 Nov 2025 21:20:48 GMT | Meta’s ‘Rule of Two’ Is Dangerous: The AI Security Crisis No One’s Admitting | Kenneth Kasuba | [Read More](https://medium.com/p/5c8ff125e980) |
 | Thu, 06 Nov 2025 21:18:17 GMT | Named-pipe command execution | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e34a2f1dab7c) |
+| Thu, 06 Nov 2025 21:17:10 GMT | رامهرمز09019170148 صیغه یابی اهواز صیغه یابی سوسنگرد صیغه یابی ماهشهر صیغه یابی شادگان صیغه یابی… | صیغه دائم 09019170148صیغه شرعی | [Read More](https://medium.com/p/91d87b4ef299) |
 | Thu, 06 Nov 2025 21:12:54 GMT | Building My Personal Cloud Infrastructure on AWS | Hirad Showghi | [Read More](https://medium.com/p/cf46a60c48e8) |
 | Thu, 06 Nov 2025 21:07:07 GMT | I Took The $400 Plunge With Hire a Hacker Pro’s Elite Training, Here’s What Happened.. | Leo Diamante | [Read More](https://medium.com/p/2bc7a34a61f3) |
 | Thu, 06 Nov 2025 21:06:53 GMT | Analyzing and Mitigating a Real-World 24/7 SSH Brute-Force Attack | Oleksiy Petrychko | [Read More](https://medium.com/p/71a5fe56fac1) |
@@ -48,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 19:06:38 GMT | How can attackers easily gain access to your network? | Haned Ussama | [Read More](https://medium.com/p/dda3f1054fda) |
 | Thu, 06 Nov 2025 19:05:39 GMT | CYBER KILL CHAIN WEAPONIZATION (SİLAHLANMA) AŞAMASI | Burhan Demir | [Read More](https://medium.com/p/fbe103042f3c) |
 | Thu, 06 Nov 2025 19:00:15 GMT | Welcome Walkthrough | IK4R0S | [Read More](https://medium.com/p/b27c27edb739) |
+| Thu, 06 Nov 2025 18:58:57 GMT | El deber social y los falsos hacktivistas | Hacking en México | [Read More](https://medium.com/p/4b4952b11035) |
 | Thu, 06 Nov 2025 18:52:35 GMT | When Links Lie: Discovering a Subtle Hyperlink Injection Flaw in Email Invites | Sai Jayanth | [Read More](https://medium.com/p/dd1923d6996e) |
 | Thu, 06 Nov 2025 18:51:41 GMT | How We Got Here: Application Security Engineer | Luke | [Read More](https://medium.com/p/5dc3d0139c84) |
 | Thu, 06 Nov 2025 18:48:57 GMT | COMPUTER | Abdulrahman | [Read More](https://medium.com/p/ccf556e85e12) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 15:34:38 GMT | Agent T Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/55c9eec51405) |
 | Thu, 06 Nov 2025 15:31:59 GMT | The Software Supply Chain Risk Hiding in Your node_modules | Asma | [Read More](https://medium.com/p/d491fc71490d) |
 | Thu, 06 Nov 2025 15:23:17 GMT | Trump and Nigeria: Conspiracy Theories, Fear Mongering, and The Invasion of Idiots | Onyedikachukwu Czar | [Read More](https://medium.com/p/e298c1932f75) |
-| Thu, 06 Nov 2025 15:22:51 GMT | Next in AI: Issue #37 | Sam Ghosh | [Read More](https://medium.com/p/c5b085be0dc1) |
-| Thu, 06 Nov 2025 15:20:52 GMT | Balancing Tech Work and Life: How Hobbies Recharge Your Mind | William T. Bridge | [Read More](https://medium.com/p/15df7186c3be) |
-| Thu, 06 Nov 2025 15:20:08 GMT | I Built a Home Security Lab and Caught My First “Hacker” (It Was Me) | Hanniouiyassine | [Read More](https://medium.com/p/cd5bbf0f5bb6) |
-| Thu, 06 Nov 2025 15:09:23 GMT | Three Cases, One Hack: The Human Firewall | Gautam Mengle | [Read More](https://medium.com/p/0b8e0aa6c7ee) |
-| Thu, 06 Nov 2025 15:05:42 GMT | Security and Performance Aspects of AppArmor Profiles | Linux Guide | [Read More](https://medium.com/p/bf8659d1aa96) |
