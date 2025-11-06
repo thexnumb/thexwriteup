@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 17:30:33 GMT | Role of Critical Infrastructure Security in Cyber Warfare | Abhiram S | [Read More](https://medium.com/p/005f1e4dc5e1) |
+| Thu, 06 Nov 2025 17:25:33 GMT | After the Applause: Turning Runway Energy Into Real-World Momentum | Nauld | [Read More](https://medium.com/p/1e68fc4b27ed) |
+| Thu, 06 Nov 2025 17:18:48 GMT | Ground Zero | Nine Lives Nexus | [Read More](https://medium.com/p/ddeef574776c) |
+| Thu, 06 Nov 2025 17:18:01 GMT | NGate Malware Triggers Unauthorized ATM Cash Withdrawals Using Stolen Payment Card Data | Chetan Seripally | [Read More](https://medium.com/p/8eb74940fbb8) |
+| Thu, 06 Nov 2025 17:17:49 GMT | ⚡️ Dive Into the AstralGuard CTF Writeups Archive | Dallen Sadru | [Read More](https://medium.com/p/896ac5db5b78) |
 | Thu, 06 Nov 2025 17:15:21 GMT | This Injection Doesn’t Come with a Lollipop: How SQL Attacks Sneak Past Your Code | Jen Cracchiola | [Read More](https://medium.com/p/e331d18f9812) |
 | Thu, 06 Nov 2025 17:08:45 GMT | Can AI Hack? The Real Risks of Offensive AI Tools | News Geeek | [Read More](https://medium.com/p/bc1ebf8980e6) |
 | Thu, 06 Nov 2025 17:05:13 GMT | A Real-World AI Modernization Project | Peyton Lambert | [Read More](https://medium.com/p/e62e18e8d41c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 11:38:49 GMT | What makes Samsung A Series Sleek and Stand Out in the Market? | Ella Walker | [Read More](https://medium.com/p/d8b1772b57e3) |
 | Thu, 06 Nov 2025 11:35:01 GMT | HackedGPT: 7 New Vulnerabilities in GPT-4o / GPT-5 Enable Zero-Click Attacks | gm0 | [Read More](https://medium.com/p/8144255a6f9e) |
 | Thu, 06 Nov 2025 11:34:32 GMT | Why the Infinix New Phone Is the Ultimate Pick for Gamers on a Budget | Zara Everly | [Read More](https://medium.com/p/ffdb2d64fe46) |
-| Thu, 06 Nov 2025 11:30:13 GMT | SonicWall + Wazuh Integration | Enes Ismaili | [Read More](https://medium.com/p/c96a0b3f6c30) |
-| Thu, 06 Nov 2025 11:25:03 GMT | Business Tech can become an attack vector for hackers | Century Solutions Group | [Read More](https://medium.com/p/7dc7d4356a35) |
-| Thu, 06 Nov 2025 11:24:24 GMT | Good day everyone,I am Musa Abubakar a cyber security student from SOFT ICU HUB. | Musaabubakahr | [Read More](https://medium.com/p/1419cfec4cff) |
-| Thu, 06 Nov 2025 11:23:32 GMT | A Fake Income Tax Email That Delivered a RAT — Inside the Attack | CipherX9F Security | [Read More](https://medium.com/p/0a7b0373e110) |
-| Thu, 06 Nov 2025 11:20:04 GMT | Good day,I’m Musa Abubakar a cyber security student at SOFT ICU HUB. | Musaabubakahr | [Read More](https://medium.com/p/f98add191f1a) |
