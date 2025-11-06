@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 22:11:58 GMT | Just went through a cybersecurity audit in China — here’s what I wish I’d known earlier | Alex Graham | [Read More](https://medium.com/p/80b3dc8e8aca) |
+| Thu, 06 Nov 2025 22:06:28 GMT | Keeping Yourself Secure From Hackers in 2025 | Anthony | [Read More](https://medium.com/p/2f875e2034f9) |
 | Thu, 06 Nov 2025 21:22:44 GMT | صیغه حلال کرج09019170148 صیغه البرز صیغه فردیس صیغه چهارباغ صیغه نظرآباد صیغه اشتهارد صیغه طالقان… | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/1c7b39758c7a) |
 | Thu, 06 Nov 2025 21:20:55 GMT | How ChatGPT Is Changing Everything — And What Comes Next | Karolina L | [Read More](https://medium.com/p/35667bab924f) |
 | Thu, 06 Nov 2025 21:20:48 GMT | Meta’s ‘Rule of Two’ Is Dangerous: The AI Security Crisis No One’s Admitting | Kenneth Kasuba | [Read More](https://medium.com/p/5c8ff125e980) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 15:41:58 GMT | The Future of Career Services Isn’t Limited to Job Search Anymore — It’s About Life Design | Vijay Kumar Gupta | [Read More](https://medium.com/p/00e54c49809d) |
 | Thu, 06 Nov 2025 15:41:50 GMT | The AI Doomsday Book That Got One Thing Devastatingly Right | ToxSec | [Read More](https://medium.com/p/4285f1de0052) |
 | Thu, 06 Nov 2025 15:34:38 GMT | Agent T Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/55c9eec51405) |
-| Thu, 06 Nov 2025 15:31:59 GMT | The Software Supply Chain Risk Hiding in Your node_modules | Asma | [Read More](https://medium.com/p/d491fc71490d) |
-| Thu, 06 Nov 2025 15:23:17 GMT | Trump and Nigeria: Conspiracy Theories, Fear Mongering, and The Invasion of Idiots | Onyedikachukwu Czar | [Read More](https://medium.com/p/e298c1932f75) |
