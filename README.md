@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 16:39:16 GMT | Identifying Runtime Risk by Correlating Log Data with Vulnerability Reports | Graylog | [Read More](https://medium.com/p/1ab97a29dc22) |
+| Thu, 06 Nov 2025 16:33:31 GMT | Imposters In Space, Errrr, Web Applications…Broken Access Controls! | Jen Cracchiola | [Read More](https://medium.com/p/147f5429b76e) |
+| Thu, 06 Nov 2025 16:30:32 GMT | Email Encryption Doesn’t Encrypt All Of My Information? Inconceivable! | Rob Abbott | [Read More](https://medium.com/p/9d1f6c1492db) |
+| Thu, 06 Nov 2025 16:24:40 GMT | Jaguar33 Security 2025: Membangun Kebiasaan Digital Aman di Era Link Phishing | JAGUAR33 | [Read More](https://medium.com/p/3c20e0d2fedb) |
+| Thu, 06 Nov 2025 16:24:16 GMT | MrRobot Lab Writeup | Jaws | [Read More](https://medium.com/p/a0a33d877fc7) |
 | Thu, 06 Nov 2025 16:18:07 GMT | A Quick Intro to Cybersecurity — | Tech Dyed | [Read More](https://medium.com/p/ca058b22cb9e) |
 | Thu, 06 Nov 2025 16:17:39 GMT | Geisha — walkthrough | Vaibhav | [Read More](https://medium.com/p/2edf0fd397fd) |
 | Thu, 06 Nov 2025 16:07:12 GMT | Title: Day 2 of My eJPTv2 Journey: Putting Reconnaissance into Practice ️‍♂️ | samurai | [Read More](https://medium.com/p/be137d0eeea7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 11:10:43 GMT | Bandit OverTheWire writeup — Level 10 → Level 11 | Dawid Kowalski | [Read More](https://medium.com/p/908b820e4675) |
 | Thu, 06 Nov 2025 11:09:47 GMT | Steering Product Modernization: Key Strategies for Achieving Success | Pratik Mistry | [Read More](https://medium.com/p/a1a56c7717a0) |
 | Thu, 06 Nov 2025 11:09:28 GMT | Bandit OverTheWire writeup — Level 9 → Level 10 | Dawid Kowalski | [Read More](https://medium.com/p/f29ae80f82ef) |
-| Thu, 06 Nov 2025 11:05:00 GMT | Top 10 Ethical Hacking Tools Every Hacker Should Master in 2025 | Alphyoops | [Read More](https://medium.com/p/411ef94d60a1) |
-| Thu, 06 Nov 2025 11:01:16 GMT | Once Upon a Timeline: From Chatrooms to Chaos | Pavel Hromadnik | [Read More](https://medium.com/p/306f02f4ea82) |
-| Thu, 06 Nov 2025 10:55:51 GMT | Layers of Lies | H3XH7WK | [Read More](https://medium.com/p/b606994a4d0d) |
-| Thu, 06 Nov 2025 10:55:08 GMT | The CISO’s Guide to AI: 5 AI Major Security Concerns and a 3-Step Mitigation Plan | Zeev Kalyuzhner | [Read More](https://medium.com/p/a94a3c2e5b8f) |
-| Thu, 06 Nov 2025 10:54:38 GMT | Top 10 Cybersecurity Challenges Behind 2025’s Major Incidents | Dr. Deep Pandey | [Read More](https://medium.com/p/e132da309cad) |
