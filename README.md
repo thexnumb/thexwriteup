@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 14:45:10 GMT | “The $750 Password Reset That Traveled in Plain Sight” | Aman Sharma | [Read More](https://medium.com/p/231dcbf35caa) |
+| Thu, 06 Nov 2025 14:41:01 GMT | SOC235 — Atlassian Confluence Broken Access Control 0-Day CVE-2023–22515 (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/c97356cd353b) |
+| Thu, 06 Nov 2025 14:38:07 GMT | Securing Systems: A Deep Dive into Network Safety | Ratish Raj | [Read More](https://medium.com/p/95192756f878) |
+| Thu, 06 Nov 2025 14:37:54 GMT | Comparing Major Darkweb Marketplaces in 2025 | Tor BBB | [Read More](https://medium.com/p/98ff9d36d064) |
+| Thu, 06 Nov 2025 14:31:59 GMT | Understanding Nessus: The Go-To Vulnerability Scanner Tool for Cybersecurity Professionals | XoX | [Read More](https://medium.com/p/f2f21f665868) |
+| Thu, 06 Nov 2025 14:19:33 GMT | I Watched Hackers Drain a $47K Wallet in Real-Time. The Trader Was Using a Proxy. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/f0a21ee7e85b) |
+| Thu, 06 Nov 2025 14:18:43 GMT | The Unseen Between the Lines | Andy Tillman UK | [Read More](https://medium.com/p/2f927e1301cb) |
+| Thu, 06 Nov 2025 14:17:57 GMT | Day 5 — Many-time-pad | Siyam | [Read More](https://medium.com/p/28f3104d517b) |
 | Thu, 06 Nov 2025 14:13:39 GMT | Skyrocket Your IT Career with AWS Course in Bangalore | Fardeen Digileem | [Read More](https://medium.com/p/ef94d90e3fab) |
 | Thu, 06 Nov 2025 14:12:10 GMT | Cyber Security Project: How to Deploy ELK SIEM and Elastic Agent with SSL/TLS for a Secure Home Lab… | Rupesh Sharma | [Read More](https://medium.com/p/6ea872e0b3a8) |
 | Thu, 06 Nov 2025 14:11:18 GMT | Building Trust at the Root: Why Domain Registrars Are the New Gateway to the Internet’s Future | Enrique Somoza | [Read More](https://medium.com/p/dfac79fa5820) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 09:34:29 GMT | From Single Processors to the Post-Quantum Era: The Next Paradigm in High Availability System… | Laura Garcia | [Read More](https://medium.com/p/033fb6073086) |
 | Thu, 06 Nov 2025 09:32:43 GMT | Still 4,600+ WSUS Servers Unpatched After Critical RCE Flaw (CVE-2025–59287) | Criminal IP | [Read More](https://medium.com/p/f8d97e8d1192) |
 | Thu, 06 Nov 2025 09:31:47 GMT | Systems as Attack Vectors Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/917aad98eef3) |
-| Thu, 06 Nov 2025 09:28:54 GMT | Today’s Top Cyber Intelligence Highlights — Nov 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3c351f619d39) |
-| Thu, 06 Nov 2025 09:26:56 GMT | Ensuring Safety and Trust: The Growing Demand for Professional Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/95ab32aa0fd5) |
-| Thu, 06 Nov 2025 09:26:37 GMT | Cybersecurity Tool Integrations That Save Teams Hours Daily | Lanvaus | [Read More](https://medium.com/p/d0e941209fc9) |
-| Thu, 06 Nov 2025 09:24:56 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/3f8d00ce85f7) |
-| Thu, 06 Nov 2025 09:24:10 GMT | Trezor Suite Download App (2025) — Securely Manage Your Crypto Assets | Trezor suite | [Read More](https://medium.com/p/51a594db53e9) |
-| Thu, 06 Nov 2025 09:20:29 GMT | Cybersecurity for E-commerce: Keeping Online Transactions Safe | Sytex | [Read More](https://medium.com/p/1e2678a68ef0) |
-| Thu, 06 Nov 2025 09:20:10 GMT | Are you worried that your workplace will be replaced by machines? Think about that again. | Martin Abramov | [Read More](https://medium.com/p/c8a4285ad691) |
-| Thu, 06 Nov 2025 09:19:26 GMT | Agent Naïvité: The AI Security Flaw nobody is talking about | Sean Robbins | [Read More](https://medium.com/p/ec92d8c26258) |
