@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 06 Nov 2025 23:04:56 GMT | Developers!!! Wanna create your Own File Upload service? | Jaivardhan Deshwal | [Read More](https://medium.com/p/a0ae806dcc66) |
+| Thu, 06 Nov 2025 23:03:27 GMT | Listening to End of the World by Searows and getting lost in my own emotions. | Shang | [Read More](https://medium.com/p/c951ac159af4) |
+| Thu, 06 Nov 2025 22:57:55 GMT | The Rise of Emerging Cyber Threats and How We Can Stay Ahead. | Spesh Billions | [Read More](https://medium.com/p/bd1f6570fe23) |
+| Thu, 06 Nov 2025 22:47:26 GMT | Curious Minds: Shhhhhh Careful! Your Air Fryer is Listening: A Take on Digital Privacy Intrusion | Balajee Viswanatha Rao | [Read More](https://medium.com/p/c6e79fbf57bf) |
+| Thu, 06 Nov 2025 22:44:16 GMT | Examples of Phishing Attacks on Small Businesses — And How to Detect Them Early | Cordula Boeck | [Read More](https://medium.com/p/eed515d1ef08) |
+| Thu, 06 Nov 2025 22:39:55 GMT | IAM: A Bug Hunter’s Field Manual | ToxSec | [Read More](https://medium.com/p/c4d216b7a830) |
+| Thu, 06 Nov 2025 22:38:03 GMT | Developers!!! Do you actually get How File Uploads Actually Work? | Jaivardhan Deshwal | [Read More](https://medium.com/p/adc321222410) |
+| Thu, 06 Nov 2025 22:32:10 GMT | Building a Threat Hunting Dashboard for Detecting Suspicious Activity | Hirad Showghi | [Read More](https://medium.com/p/f87aa96adf8b) |
 | Thu, 06 Nov 2025 22:25:18 GMT | Day 93: Nibbles Pentest Report | Nile Okomo | [Read More](https://medium.com/p/313cd0deb603) |
 | Thu, 06 Nov 2025 22:11:58 GMT | Just went through a cybersecurity audit in China — here’s what I wish I’d known earlier | Alex Graham | [Read More](https://medium.com/p/80b3dc8e8aca) |
 | Thu, 06 Nov 2025 22:06:28 GMT | Keeping Yourself Secure From Hackers in 2025 | Anthony | [Read More](https://medium.com/p/2f875e2034f9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 16:05:17 GMT | Humanizing IT: How People-First Leadership Drives Digital Transformation Success | Roman Meydbray | [Read More](https://medium.com/p/8a66ffc7da0a) |
 | Thu, 06 Nov 2025 16:03:09 GMT | “The Charging Cable Trap”: How a Simple Cord Becomes a Hacker’s Weapon — The Demo That Made the… | Wi-Fun | [Read More](https://medium.com/p/f501e4ba6c6f) |
 | Thu, 06 Nov 2025 16:02:09 GMT | How to Confuse a Manipulator: A Simple but Brilliant Psychological Trick | Simple Life | [Read More](https://medium.com/p/e69c79f9da25) |
-| Thu, 06 Nov 2025 16:01:16 GMT | Hacking, Virtual Machines, Linux, and Networking — An Ethical Practical Guide | Aditya R Menon | [Read More](https://medium.com/p/d82f613b79fd) |
-| Thu, 06 Nov 2025 15:58:22 GMT | Should you do the Google Cybersecurity Certificate from Coursera? | Tanner Sexton | [Read More](https://medium.com/p/28c873d426e4) |
-| Thu, 06 Nov 2025 15:51:01 GMT | TryHackMe - Attacking ICS Plant #1 - WriteUp | Axoloth | [Read More](https://medium.com/p/fd3a2413c13b) |
-| Thu, 06 Nov 2025 15:50:04 GMT | A Comprehensive Survey of Fusion Models in Machine Learning: Architectures, Mechanisms, and… | Nirvana El | [Read More](https://medium.com/p/bffdbaf260e0) |
-| Thu, 06 Nov 2025 15:46:55 GMT | Full Disclosure: How Google Stole My Security Research and Gave It to an AI | David and Amber Weatherspoon-Wolf | [Read More](https://medium.com/p/bd8101073e5c) |
-| Thu, 06 Nov 2025 15:42:08 GMT | Keylogging explained: the hidden cyberthreat stealing your passwords | Panda Security | [Read More](https://medium.com/p/9c58f948493b) |
-| Thu, 06 Nov 2025 15:41:58 GMT | The Future of Career Services Isn’t Limited to Job Search Anymore — It’s About Life Design | Vijay Kumar Gupta | [Read More](https://medium.com/p/00e54c49809d) |
-| Thu, 06 Nov 2025 15:41:50 GMT | The AI Doomsday Book That Got One Thing Devastatingly Right | ToxSec | [Read More](https://medium.com/p/4285f1de0052) |
