@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 15:17:00 GMT | Hyundai AutoEver Data Breach Exposes Sensitive Customer Data and SSNs in Massive Cyber Incident | Himanshu Bhatt | [Read More](https://medium.com/p/459cd5c5b21f) |
+| Fri, 07 Nov 2025 15:12:50 GMT | Governança adaptativa: controle sem travar a inovação | Gustavo Lichti | [Read More](https://medium.com/p/b74a61d07c5f) |
+| Fri, 07 Nov 2025 15:11:42 GMT | Stop Chasing Clients: Build a TaskTag Upload Portal for Easy File Sharing | TaskTag | [Read More](https://medium.com/p/d8bdddf38804) |
+| Fri, 07 Nov 2025 15:09:30 GMT | How to Redirect HTTP to HTTPS in Nginx | VSYS Host | [Read More](https://medium.com/p/97f2efa16fe8) |
+| Fri, 07 Nov 2025 15:07:40 GMT | Why Every Office Network Should Include a PS5: Rethinking Cybersecurity Through Recreational… | Lauri Korpela | [Read More](https://medium.com/p/d62d7bccca2c) |
+| Fri, 07 Nov 2025 15:07:20 GMT | The Future of Business Internet: Trends Every Company Should Watch | Defend My Business | [Read More](https://medium.com/p/c0db82b7ade9) |
+| Fri, 07 Nov 2025 15:04:46 GMT | The Deepfake Dilemma: When AI Video Generators Blur the Line Between Truth and Digital Fiction | Len Noe | [Read More](https://medium.com/p/4d99ed1e25f0) |
+| Fri, 07 Nov 2025 15:03:01 GMT | Secure Coding 2025: 10 Habits That Actually Stick | Syntal | [Read More](https://medium.com/p/7f6c2677a5dc) |
+| Fri, 07 Nov 2025 15:02:03 GMT | Privacy by Design, 2025 Edition | Nexumo | [Read More](https://medium.com/p/64babea5dd6d) |
+| Fri, 07 Nov 2025 15:02:02 GMT | Cyber Briefing: 2025.11.07 | CyberMaterial | [Read More](https://medium.com/p/cdec0aa63c4a) |
+| Fri, 07 Nov 2025 15:00:03 GMT | The World’s Worst Passwords: A Hall of Fame for Digital Idiocy | Abatis ABTU | [Read More](https://medium.com/p/f1db9a7c3e8d) |
+| Fri, 07 Nov 2025 14:55:25 GMT | Burp Suite: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/0152fd315752) |
+| Fri, 07 Nov 2025 14:51:59 GMT | When a cyber monster woke up | Artilogic | [Read More](https://medium.com/p/1d03c0d477b9) |
+| Fri, 07 Nov 2025 14:51:06 GMT | Traefik 101: Reverse Proxy, Docker, and Free SSL on a VPS | Kelana Chandra Helyandika | [Read More](https://medium.com/p/90b7e1dea53c) |
+| Fri, 07 Nov 2025 14:50:05 GMT | Want Real Privacy? Start by Deleting Yourself | Czarif | [Read More](https://medium.com/p/b2e4e7d35797) |
+| Fri, 07 Nov 2025 14:49:12 GMT | Cybersecurity: Incident Response Detection | Ramandeep Bagri | [Read More](https://medium.com/p/7658b90527e6) |
+| Fri, 07 Nov 2025 14:47:22 GMT | The Future of Technology | Bhuiya Md. Nuraj Tashrif | [Read More](https://medium.com/p/f6d18b108961) |
+| Fri, 07 Nov 2025 14:39:49 GMT | DNS como Pilar Estratégico da Defesa Cibernética Moderna | Giuliano Cardozo | [Read More](https://medium.com/p/689b65f34a19) |
 | Fri, 07 Nov 2025 14:34:12 GMT | What is SYN Flood Attack and how prevent? | hamid mottaghian | [Read More](https://medium.com/p/3ba285e2228c) |
 | Fri, 07 Nov 2025 14:32:42 GMT | Emerging Cyber Threats: Global Highlights from November 1–7, 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/8a333e74ca54) |
 | Fri, 07 Nov 2025 14:32:00 GMT | Getting Started with Sysmon: Installation and Configuration | Little_Sun4lower | [Read More](https://medium.com/p/189b68223a0e) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 09:39:56 GMT | Event Security Management: Trust Securycor for Your Next Event | uk service | [Read More](https://medium.com/p/a9d24bf96391) |
 | Fri, 07 Nov 2025 09:32:26 GMT | The Hidden Python Module That Made Me Feel Like a Hacker | Fateyaly | [Read More](https://medium.com/p/00a278745512) |
 | Fri, 07 Nov 2025 09:31:26 GMT | The AI Hacker: Your New Cyber-Nightmare (and Our Best Hope?) | Gokul Kannan Ganesamoorthy | [Read More](https://medium.com/p/f8cb5c362868) |
-| Fri, 07 Nov 2025 09:29:04 GMT | Smali Hack: Root Checks Permanently Disabled | Raj Mishra | [Read More](https://medium.com/p/e13a1eb17275) |
-| Fri, 07 Nov 2025 09:23:00 GMT | The Rise of Deepfake Phishing: Why Seeing Is No Longer Believing | Tasnim Mahmud | [Read More](https://medium.com/p/a0ca6ee06416) |
-| Fri, 07 Nov 2025 09:19:29 GMT | Barzo Security Services: Your Trusted Partner for Comprehensive Security Solutions | Travel time | [Read More](https://medium.com/p/2f2f05b08b46) |
-| Fri, 07 Nov 2025 09:11:34 GMT | Spot the IoT Vulnerability! | Century Solutions Group | [Read More](https://medium.com/p/9ef7bc136767) |
-| Fri, 07 Nov 2025 09:10:17 GMT | 7 Things: On Terror, Nigeria, and the Actual Tragedy of an Aloof Elite - Sayo Aluko | Sayo Aluko | [Read More](https://medium.com/p/4dbf69a6772e) |
-| Fri, 07 Nov 2025 09:09:37 GMT | This Is Why Others Detect Cyber Attacks Before You Do | Balaji | [Read More](https://medium.com/p/f5e5113412fe) |
-| Fri, 07 Nov 2025 09:05:48 GMT | Why is Medium.com not connected from India? | Karthick Dkk | [Read More](https://medium.com/p/e465b98cc1fc) |
-| Fri, 07 Nov 2025 09:03:27 GMT | Password to Louvre’s video surveillance system was ‘Louvre’ | Rue | [Read More](https://medium.com/p/3c7bc698e2ec) |
-| Fri, 07 Nov 2025 09:02:01 GMT | HTTP Status codes explained for pentesters | Arfat Khan | [Read More](https://medium.com/p/e29a32accb3d) |
-| Fri, 07 Nov 2025 09:00:18 GMT | 3 Mindsets for Surviving the Digital Exponential Era | Nazma Fitria | [Read More](https://medium.com/p/2a9b750fc9d2) |
-| Fri, 07 Nov 2025 08:56:00 GMT | What One Client’s Crisis Taught Me About Preparation | Fook Hwa Tan | [Read More](https://medium.com/p/f502a2beeee7) |
-| Fri, 07 Nov 2025 08:54:50 GMT | Being Certified Doesn’t Mean You’re Safe — Here’s Why | Fook Hwa Tan | [Read More](https://medium.com/p/7b9b7230d4a9) |
-| Fri, 07 Nov 2025 08:53:12 GMT | Where I Find Strength: Lessons from Faith & Cyber Resilience | Fook Hwa Tan | [Read More](https://medium.com/p/ffb71022a98d) |
-| Fri, 07 Nov 2025 08:48:38 GMT | Legit Crypto Recovery Service Companies in 2025: Hire Optimistic Hacker Gaius | Optimistic Hacker Gaius | [Read More](https://medium.com/p/95af2e965a2b) |
-| Fri, 07 Nov 2025 08:48:26 GMT | ️ The New OWASP Top 10 (2025): What’s Changed and What It Means for You | Monu Jangra | [Read More](https://medium.com/p/28b9e4c8b828) |
-| Fri, 07 Nov 2025 08:38:50 GMT | Your Kubernetes Containers Can Escape. Here’s How. | Heinancabouly | [Read More](https://medium.com/p/9e2fbfcf20bb) |
-| Fri, 07 Nov 2025 08:38:38 GMT | GoNative’s Approach to Bitcoin Finance : The Game-Changer | Wayne | [Read More](https://medium.com/p/8150f6eeb185) |
-| Fri, 07 Nov 2025 08:37:27 GMT | What is Malware in Computer: Ultimate Guide to Protect Your PC | Techzonego | [Read More](https://medium.com/p/92bec8d59af5) |
