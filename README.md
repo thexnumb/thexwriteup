@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 21:23:00 GMT | OWASP Top 10 2025 | ISHII (石井) | [Read More](https://medium.com/p/f94900bc50a3) |
+| Fri, 07 Nov 2025 21:21:55 GMT | How ERC-8001 Would Have Prevented the Balancer V2 Exploit | Kwame Bryan | [Read More](https://medium.com/p/70bcbd33470d) |
 | Fri, 07 Nov 2025 21:11:37 GMT | KODOK: Advanced JavaScript Security Scanner for Bug Bounty Hunters | rhyru9 | [Read More](https://medium.com/p/bfac3d8f3927) |
 | Fri, 07 Nov 2025 21:02:40 GMT | AI Security Research — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/8151aca74958) |
+| Fri, 07 Nov 2025 21:01:56 GMT | What is Feroxbuster? | Cybersecplayground | [Read More](https://medium.com/p/fddf5a0ec79e) |
 | Fri, 07 Nov 2025 20:38:30 GMT | How a Weakly Protected WebView and a Deep Link Can Lead to Remote Code Execution (RCE) | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/ee7474141de3) |
 | Fri, 07 Nov 2025 20:18:56 GMT | Lab 5: DOM XSS in jQuery Anchor `href` Attribute Sink Using `location.search` Source | Apexium Technologies Ltd | [Read More](https://medium.com/p/8047333dfff4) |
 | Fri, 07 Nov 2025 20:18:05 GMT | Lab 4 — UNION SQL Injection: Find Text Column & Extract Database Version | Apexium Technologies Ltd | [Read More](https://medium.com/p/bad9803c5c06) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 14:51:06 GMT | Traefik 101: Reverse Proxy, Docker, and Free SSL on a VPS | Kelana Chandra Helyandika | [Read More](https://medium.com/p/90b7e1dea53c) |
 | Fri, 07 Nov 2025 14:50:05 GMT | Want Real Privacy? Start by Deleting Yourself | Czarif | [Read More](https://medium.com/p/b2e4e7d35797) |
 | Fri, 07 Nov 2025 14:49:12 GMT | Cybersecurity: Incident Response Detection | Ramandeep Bagri | [Read More](https://medium.com/p/7658b90527e6) |
-| Fri, 07 Nov 2025 14:47:22 GMT | The Future of Technology | Bhuiya Md. Nuraj Tashrif | [Read More](https://medium.com/p/f6d18b108961) |
-| Fri, 07 Nov 2025 14:39:49 GMT | DNS como Pilar Estratégico da Defesa Cibernética Moderna | Giuliano Cardozo | [Read More](https://medium.com/p/689b65f34a19) |
-| Fri, 07 Nov 2025 14:34:12 GMT | What is SYN Flood Attack and how prevent? | hamid mottaghian | [Read More](https://medium.com/p/3ba285e2228c) |
