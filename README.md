@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 11:32:08 GMT | VPN Network Detection in iOS: Technical Foundations, Implementation, and Best Practices | Nishant Taneja | [Read More](https://medium.com/p/c1408df2f392) |
+| Fri, 07 Nov 2025 11:28:24 GMT | The Power of Information Technology in Modern Life | Hafizqadeerahmad | [Read More](https://medium.com/p/c2a51f2344cc) |
+| Fri, 07 Nov 2025 11:26:18 GMT | Perks of being a people pleaser | Ayo | [Read More](https://medium.com/p/187665257701) |
+| Fri, 07 Nov 2025 11:22:31 GMT | Portswigger : API testing labs (PART 2) | Abdelhamid Elbouz | [Read More](https://medium.com/p/7d36a9ecb2b6) |
+| Fri, 07 Nov 2025 11:19:53 GMT | The Beautiful Mess of Being Human | Nawab Khan | [Read More](https://medium.com/p/d40534fcd626) |
+| Fri, 07 Nov 2025 11:15:32 GMT | Digital Transformation: Redefining How Businesses Compete and Grow | Devarshi Acharya | [Read More](https://medium.com/p/0dd7b717542b) |
+| Fri, 07 Nov 2025 11:09:25 GMT | OWASP TOP 10: 2025 UPDATES | noailabs | [Read More](https://medium.com/p/3331d304da50) |
 | Fri, 07 Nov 2025 11:08:07 GMT | The Silent Ninja in Your App: Understanding Content Security Policy (CSP) in OutSystems | Sherif El-Habibi | [Read More](https://medium.com/p/b9cfa9a49d59) |
 | Fri, 07 Nov 2025 11:01:00 GMT | DockerLabs Writeup — ApacheByte (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b8daeaa1e50f) |
 | Fri, 07 Nov 2025 10:57:46 GMT | Build Strong Defense with Cybersecurity Risk Management | Vishwajeettechtech | [Read More](https://medium.com/p/b99d6819b213) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 06:16:54 GMT | Cyber Law: Safeguarding the Digital World | Mindforge Infotech | [Read More](https://medium.com/p/5bf9b4e91445) |
 | Fri, 07 Nov 2025 06:14:04 GMT | Systems as Attack Vectors—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/6c75726912aa) |
 | Fri, 07 Nov 2025 06:13:03 GMT | This Kiosk Machine Solves Your Biggest Staffing Headache | Rakesh | [Read More](https://medium.com/p/b9b11ae1afe1) |
-| Fri, 07 Nov 2025 06:12:04 GMT | The smart way to follow anyone’s footsteps in cybersecurity | Timsux Wales | [Read More](https://medium.com/p/788a85d1e429) |
-| Fri, 07 Nov 2025 06:09:41 GMT | Vancat: Latest stable BloodHound-CE Linux-compatible installation shell script (2025) | Мартин. | [Read More](https://medium.com/p/6c73d62bd64c) |
-| Fri, 07 Nov 2025 06:09:07 GMT | TOL-API: Bulletproof File Upload/Download with Expiring Tokens & Integrity Checks | Мартин. | [Read More](https://medium.com/p/bb5d7a07d205) |
-| Fri, 07 Nov 2025 06:07:45 GMT | OWASP Top 10:2025 — The Future of Web Application Security | Abhinsubej | [Read More](https://medium.com/p/b68b09268233) |
-| Fri, 07 Nov 2025 06:05:04 GMT | SIBOS 2025: AI, Tokenised Money, Real-Time Payments & the New Era of Fraud Prevention | Balasubramaniam GD | [Read More](https://medium.com/p/2002a864791f) |
-| Fri, 07 Nov 2025 06:02:30 GMT | The Daily Tech Digest: 07 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/726653b0e6b1) |
-| Fri, 07 Nov 2025 06:01:04 GMT | A Film Screening in a Google Sheet | Laura Houlberg | [Read More](https://medium.com/p/c2f5863331bf) |
