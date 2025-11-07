@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 17:12:13 GMT | What is a VPN? Virtual Private Networks Explained | Eli Friesen | [Read More](https://medium.com/p/25c4088c22c7) |
+| Fri, 07 Nov 2025 17:08:45 GMT | OWASP TOP 10 : 2025 - Current Release Updates | SubhaDip | [Read More](https://medium.com/p/3da20afffa5c) |
+| Fri, 07 Nov 2025 17:04:29 GMT | Building Zero Trust: From Nmap Scan to Asset Intelligence Dashboard | Ashhadali | [Read More](https://medium.com/p/72b0bec97e0c) |
+| Fri, 07 Nov 2025 17:03:30 GMT | From Code to Command & Control: What I Learned Creating a Stealthy C++ Data Exfiltration Tool | Fajrjauharkk | [Read More](https://medium.com/p/1a1f4ed62bad) |
+| Fri, 07 Nov 2025 16:56:30 GMT | Overview Of Dropshipping | Knightjenny | [Read More](https://medium.com/p/d782911bc519) |
+| Fri, 07 Nov 2025 16:55:43 GMT | The Cybersecurity Habits That Changed My Career Forever | Taimur Ijlal | [Read More](https://medium.com/p/6e7a257f8d94) |
+| Fri, 07 Nov 2025 16:52:51 GMT | The Masks I Wore to Stay Safe | Andy Tillman UK | [Read More](https://medium.com/p/c8f30988c5ce) |
+| Fri, 07 Nov 2025 16:52:31 GMT | Web Zafiyetleri Serisi #9 | Didem Kış | [Read More](https://medium.com/p/732f744db68f) |
+| Fri, 07 Nov 2025 16:50:23 GMT | Hired to Write Pretty Prose. Accidentally Built a Revenue Machine. | Sophiaqureshi | [Read More](https://medium.com/p/e0e794dfb24f) |
+| Fri, 07 Nov 2025 16:48:47 GMT | HTTP Headers You Must Know | Arfat Khan | [Read More](https://medium.com/p/9a6ddbb35646) |
+| Fri, 07 Nov 2025 16:45:50 GMT | The Authorization Circus: Where Security Was the Main Clown | Iski | [Read More](https://medium.com/p/f4b84ca9356f) |
+| Fri, 07 Nov 2025 16:44:22 GMT | The Researcher Vector Is Live and online: Why “Hello, My Name Is…” Triggers Zero-Shot AI Upgrade… | Berend Watchus | [Read More](https://medium.com/p/2589b582d5ac) |
+| Fri, 07 Nov 2025 16:42:03 GMT | The Cybercrime Tsunami | Sipanticinc | [Read More](https://medium.com/p/e6c9369191cb) |
+| Fri, 07 Nov 2025 16:39:50 GMT | Hackers trying to appeal to health and wellness. Fake GLP ad and cycling through Google A | Bob Malin | [Read More](https://medium.com/p/10b2e9d2d939) |
 | Fri, 07 Nov 2025 16:27:57 GMT | CyberUP Institute and the Power of Thinking Like a Hacker | CYBERUP INSTITUTE | [Read More](https://medium.com/p/e0c10c2a7af0) |
 | Fri, 07 Nov 2025 16:24:56 GMT | PART 2: The Digital Pandemic: How 3 Attacks Changed Cybersecurity Forever | Gopi Sri | [Read More](https://medium.com/p/0f984be94e3d) |
 | Fri, 07 Nov 2025 16:18:21 GMT | Vibe Hacking: The Art of Reconnaissance in Modern Bug Bounty Work | Butrint Komoni | [Read More](https://medium.com/p/2b3aa63e0253) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 11:46:40 GMT | Why You Should Never Use Your Real E-mail Online | Ajay Yadav | [Read More](https://medium.com/p/2f3624816dd0) |
 | Fri, 07 Nov 2025 11:37:35 GMT | Evidence Beats Instinct: Why AI-Powered Security Is the Future of UK Manufacturing | Luke Appleby | [Read More](https://medium.com/p/6ad74b4fdec4) |
 | Fri, 07 Nov 2025 11:32:08 GMT | VPN Network Detection in iOS: Technical Foundations, Implementation, and Best Practices | Nishant Taneja | [Read More](https://medium.com/p/c1408df2f392) |
-| Fri, 07 Nov 2025 11:28:24 GMT | The Power of Information Technology in Modern Life | Hafizqadeerahmad | [Read More](https://medium.com/p/c2a51f2344cc) |
-| Fri, 07 Nov 2025 11:26:18 GMT | Perks of being a people pleaser | Ayo | [Read More](https://medium.com/p/187665257701) |
-| Fri, 07 Nov 2025 11:22:31 GMT | Portswigger : API testing labs (PART 2) | Abdelhamid Elbouz | [Read More](https://medium.com/p/7d36a9ecb2b6) |
-| Fri, 07 Nov 2025 11:21:54 GMT | TryHackMe - Wordpress: CVE-2021–29447 - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/b003d828ba68) |
-| Fri, 07 Nov 2025 11:19:53 GMT | The Beautiful Mess of Being Human | Nawab Khan | [Read More](https://medium.com/p/d40534fcd626) |
-| Fri, 07 Nov 2025 11:15:32 GMT | Digital Transformation: Redefining How Businesses Compete and Grow | Devarshi Acharya | [Read More](https://medium.com/p/0dd7b717542b) |
-| Fri, 07 Nov 2025 11:09:25 GMT | OWASP TOP 10: 2025 UPDATES | noailabs | [Read More](https://medium.com/p/3331d304da50) |
-| Fri, 07 Nov 2025 11:08:07 GMT | The Silent Ninja in Your App: Understanding Content Security Policy (CSP) in OutSystems | Sherif El-Habibi | [Read More](https://medium.com/p/b9cfa9a49d59) |
-| Fri, 07 Nov 2025 11:01:00 GMT | DockerLabs Writeup — ApacheByte (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b8daeaa1e50f) |
-| Fri, 07 Nov 2025 10:57:46 GMT | Build Strong Defense with Cybersecurity Risk Management | Vishwajeettechtech | [Read More](https://medium.com/p/b99d6819b213) |
-| Fri, 07 Nov 2025 10:52:12 GMT | Entry-Level Cybersecurity Winter Internship for Beginners | cyber security Updates | [Read More](https://medium.com/p/7c6bf43b328a) |
-| Fri, 07 Nov 2025 10:51:40 GMT | Why Every Software Developer Should Care About Penetration Testing | Martin Onyisi | [Read More](https://medium.com/p/4ab192fe2c3f) |
-| Fri, 07 Nov 2025 10:51:28 GMT | QuantZen™ vs Hard Forks: Choosing the Right Migration Strategy | QuantZen™ | [Read More](https://medium.com/p/b12b326b0a06) |
-| Fri, 07 Nov 2025 10:44:55 GMT | Network Forensics with NetworkMiner | Citadel Cybersec | [Read More](https://medium.com/p/b525935b3515) |
