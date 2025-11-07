@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 20:00:07 GMT | Minecraft-Server-RCE-Plugin — an educational (but dangerous) proof-of-concept | AKSHAT SINGH | [Read More](https://medium.com/p/27e727b92a23) |
+| Fri, 07 Nov 2025 19:56:46 GMT | Cloud AI Security: A Pro’s Field Guide for 2026 Challenges | ToxSec | [Read More](https://medium.com/p/7bcbb4f379c9) |
+| Fri, 07 Nov 2025 19:56:20 GMT | Privacy as a Bounty Vector: GDPR for Higher-Severity Reports | ToxSec | [Read More](https://medium.com/p/595bb616add8) |
+| Fri, 07 Nov 2025 19:43:32 GMT | GitHub Actions vs. Supply Chain Attacks using `pull_request_target` | Darren @ Checkmarx Zero | [Read More](https://medium.com/p/6b1569edf503) |
+| Fri, 07 Nov 2025 19:41:49 GMT | Harnessing the Power of NextAuth.js for Secure Applications | @rnab | [Read More](https://medium.com/p/904f9e6a20f6) |
 | Fri, 07 Nov 2025 19:33:59 GMT | AI Security Reports — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/0a490aafaead) |
 | Fri, 07 Nov 2025 19:30:59 GMT | SQL Injection: The Ultimate Guide To Types, Examples And Coping Strategies! ( 2025 ) | Ceo Defender | [Read More](https://medium.com/p/7cea8a570800) |
 | Fri, 07 Nov 2025 19:24:14 GMT | 5 Simple Security Habits Every Employee Should Know | Cordula Boeck | [Read More](https://medium.com/p/914cfd7c685b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 14:18:06 GMT | The Ransomware Hostage Crisis | David ONeal | [Read More](https://medium.com/p/35baa1ac7329) |
 | Fri, 07 Nov 2025 14:12:11 GMT | DoS vs. DDoS Attacks: What They Are and How They Overload a Website | Amay Gupta | [Read More](https://medium.com/p/eb764818cd3b) |
 | Fri, 07 Nov 2025 14:06:56 GMT | Building an AI-Powered Application Security Infrastructure: Claude Code + Multi-VM MCP Architecture | zilbon | [Read More](https://medium.com/p/d2c62fb6fbdb) |
-| Fri, 07 Nov 2025 13:59:20 GMT | A Day That Taught Me Why Fake Banking Apps Are Dangerous | Gokuleswaran B | [Read More](https://medium.com/p/64d1851d8f7f) |
-| Fri, 07 Nov 2025 13:57:00 GMT | Cyber eto Ctf write up , pwn challenge : Magic | 3mksaad1600 | [Read More](https://medium.com/p/ec1d590a9370) |
-| Fri, 07 Nov 2025 13:55:17 GMT | Tryhackme: Anonymous Playground Detailed Walk-through for Beginners | AserSec | [Read More](https://medium.com/p/4ed660d8a5f4) |
-| Fri, 07 Nov 2025 13:45:22 GMT | CloudFront Security Faults: Detection and Remediation | Rick Yang | [Read More](https://medium.com/p/652f7a223e60) |
-| Fri, 07 Nov 2025 13:38:17 GMT | How I Found the race condition vulnerability? | DOD cyber solutions | [Read More](https://medium.com/p/0c6eb290b236) |
