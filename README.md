@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 10:33:05 GMT | AWS S3 — The Backbone of Cloud Storage | Pranav soni | [Read More](https://medium.com/p/669f556562b7) |
+| Fri, 07 Nov 2025 10:29:19 GMT | Your Smart TV Is the Cookie Now—And It’s Bigger Than Meta | Stray Cat | [Read More](https://medium.com/p/118833e0e036) |
 | Fri, 07 Nov 2025 10:15:24 GMT | Dasaratha: When Cyber Threats Meet Intelligence — Building My Own Threat Intelligence Platform | Traumerei | [Read More](https://medium.com/p/49d5b7a3afea) |
 | Fri, 07 Nov 2025 10:13:43 GMT | Human Factors in Cybersecurity: Enhancing Awareness through Automated Compliance Systems | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/09710b237224) |
 | Fri, 07 Nov 2025 10:13:19 GMT | Today’s Top Cyber Intelligence Highlights — Nov 07, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/dc035d61b3be) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 05:43:55 GMT | Day 74- Why beginners in cybersecurity should learn the basics of ServiceNow | unica 02 | [Read More](https://medium.com/p/ebfed6d5f062) |
 | Fri, 07 Nov 2025 05:42:43 GMT | ShellPhish Exposed: I Simulated a Full Credential Theft Attack-Here’s How You Stop It | Guillaumebanakeng | [Read More](https://medium.com/p/666d73108b06) |
 | Fri, 07 Nov 2025 05:31:59 GMT | Cybersecurity Unlocked: Episode 6 — The “Trust No One” Rule | Yash Kitey | [Read More](https://medium.com/p/757cebf0647c) |
-| Fri, 07 Nov 2025 05:27:14 GMT | Explore the Benefits of Pursuing a Master’s in Data Science & AI | Edglobalacademy | [Read More](https://medium.com/p/3c24de7f114b) |
-| Fri, 07 Nov 2025 05:23:36 GMT | Top 10 Skills You Need to Become a Cyber Security Expert | Nagaraj | [Read More](https://medium.com/p/3b69942dcbb4) |
