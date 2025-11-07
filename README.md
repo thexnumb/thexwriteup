@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 06:28:38 GMT | CompTIA Security+ Serüvenim | Aykut Bayram | [Read More](https://medium.com/p/badb963c73a9) |
+| Fri, 07 Nov 2025 06:26:22 GMT | ATK-ROS2: This is a penetration testing environment for ROS2, designed as a production-like attack… | Мартин. | [Read More](https://medium.com/p/3bd104757085) |
+| Fri, 07 Nov 2025 06:25:31 GMT | AI Sidekick: The Smart Upgrade Ethical Hackers Deserve | Ashaun | [Read More](https://medium.com/p/8120c2336e0a) |
+| Fri, 07 Nov 2025 06:19:34 GMT | Cybersecurity courses - SBTL | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/bcdf787dfeee) |
+| Fri, 07 Nov 2025 06:19:17 GMT | Russian Ransomware Gangs Adopt Open-Source AdaptixC2 in Sophisticated Campaigns | Himanshu Bhatt | [Read More](https://medium.com/p/5259dbd879b7) |
+| Fri, 07 Nov 2025 06:16:54 GMT | Cyber Law: Safeguarding the Digital World | Mindforge Infotech | [Read More](https://medium.com/p/5bf9b4e91445) |
+| Fri, 07 Nov 2025 06:14:04 GMT | Systems as Attack Vectors—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/6c75726912aa) |
+| Fri, 07 Nov 2025 06:13:03 GMT | This Kiosk Machine Solves Your Biggest Staffing Headache | Rakesh | [Read More](https://medium.com/p/b9b11ae1afe1) |
+| Fri, 07 Nov 2025 06:12:04 GMT | The smart way to follow anyone’s footsteps in cybersecurity | Timsux Wales | [Read More](https://medium.com/p/788a85d1e429) |
+| Fri, 07 Nov 2025 06:09:41 GMT | Vancat: Latest stable BloodHound-CE Linux-compatible installation shell script (2025) | Мартин. | [Read More](https://medium.com/p/6c73d62bd64c) |
+| Fri, 07 Nov 2025 06:09:07 GMT | TOL-API: Bulletproof File Upload/Download with Expiring Tokens & Integrity Checks | Мартин. | [Read More](https://medium.com/p/bb5d7a07d205) |
+| Fri, 07 Nov 2025 06:07:45 GMT | OWASP Top 10:2025 — The Future of Web Application Security | Abhinsubej | [Read More](https://medium.com/p/b68b09268233) |
+| Fri, 07 Nov 2025 06:05:04 GMT | SIBOS 2025: AI, Tokenised Money, Real-Time Payments & the New Era of Fraud Prevention | Balasubramaniam GD | [Read More](https://medium.com/p/2002a864791f) |
+| Fri, 07 Nov 2025 06:02:30 GMT | The Daily Tech Digest: 07 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/726653b0e6b1) |
+| Fri, 07 Nov 2025 06:01:04 GMT | A Film Screening in a Google Sheet | Laura Houlberg | [Read More](https://medium.com/p/c2f5863331bf) |
+| Fri, 07 Nov 2025 06:00:51 GMT | How I’m Planning to Become a Cloud Security Architect (And the Tools I’m Using) | Mugiie | [Read More](https://medium.com/p/44eed032b202) |
+| Fri, 07 Nov 2025 06:00:38 GMT | How is AI changing the trends of Cyber Security | Shivanshu Jha | [Read More](https://medium.com/p/20b3c48e7221) |
+| Fri, 07 Nov 2025 05:54:52 GMT | DDoS Protection | Cyber Hub | [Read More](https://medium.com/p/f8a92ceafa0f) |
+| Fri, 07 Nov 2025 05:54:24 GMT | Humans as Attack Vectors—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/fd1eecbeba8d) |
+| Fri, 07 Nov 2025 05:48:29 GMT | Top Security Company in Bangalore: Ensuring Safety in India’s Silicon Valley | securityservices | [Read More](https://medium.com/p/0d758bd23b54) |
+| Fri, 07 Nov 2025 05:47:29 GMT | Cloudbric Services Progress Report (10/1 ~ 10/31) | Cloudbric | [Read More](https://medium.com/p/3abdb1691900) |
+| Fri, 07 Nov 2025 05:46:17 GMT | Is the Meister für Schutz und Sicherheit Qualification Worth It? | Sarmin Islam | [Read More](https://medium.com/p/492bbff296f9) |
+| Fri, 07 Nov 2025 05:43:55 GMT | Day 74- Why beginners in cybersecurity should learn the basics of ServiceNow | unica 02 | [Read More](https://medium.com/p/ebfed6d5f062) |
+| Fri, 07 Nov 2025 05:42:43 GMT | ShellPhish Exposed: I Simulated a Full Credential Theft Attack-Here’s How You Stop It | Guillaumebanakeng | [Read More](https://medium.com/p/666d73108b06) |
 | Fri, 07 Nov 2025 05:31:59 GMT | Cybersecurity Unlocked: Episode 6 — The “Trust No One” Rule | Yash Kitey | [Read More](https://medium.com/p/757cebf0647c) |
 | Fri, 07 Nov 2025 05:27:14 GMT | Explore the Benefits of Pursuing a Master’s in Data Science & AI | Edglobalacademy | [Read More](https://medium.com/p/3c24de7f114b) |
 | Fri, 07 Nov 2025 05:23:36 GMT | Top 10 Skills You Need to Become a Cyber Security Expert | Nagaraj | [Read More](https://medium.com/p/3b69942dcbb4) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 22:25:18 GMT | Day 93: Nibbles Pentest Report | Nile Okomo | [Read More](https://medium.com/p/313cd0deb603) |
 | Thu, 06 Nov 2025 22:11:58 GMT | Just went through a cybersecurity audit in China — here’s what I wish I’d known earlier | Alex Graham | [Read More](https://medium.com/p/80b3dc8e8aca) |
 | Thu, 06 Nov 2025 22:06:28 GMT | Keeping Yourself Secure From Hackers in 2025 | Anthony | [Read More](https://medium.com/p/2f875e2034f9) |
-| Thu, 06 Nov 2025 21:22:44 GMT | صیغه حلال کرج09019170148 صیغه البرز صیغه فردیس صیغه چهارباغ صیغه نظرآباد صیغه اشتهارد صیغه طالقان… | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/1c7b39758c7a) |
-| Thu, 06 Nov 2025 21:20:55 GMT | How ChatGPT Is Changing Everything — And What Comes Next | Karolina L | [Read More](https://medium.com/p/35667bab924f) |
-| Thu, 06 Nov 2025 21:20:48 GMT | Meta’s ‘Rule of Two’ Is Dangerous: The AI Security Crisis No One’s Admitting | Kenneth Kasuba | [Read More](https://medium.com/p/5c8ff125e980) |
-| Thu, 06 Nov 2025 21:18:17 GMT | Named-pipe command execution | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e34a2f1dab7c) |
-| Thu, 06 Nov 2025 21:17:10 GMT | رامهرمز09019170148 صیغه یابی اهواز صیغه یابی سوسنگرد صیغه یابی ماهشهر صیغه یابی شادگان صیغه یابی… | صیغه دائم 09019170148صیغه شرعی | [Read More](https://medium.com/p/91d87b4ef299) |
-| Thu, 06 Nov 2025 21:12:54 GMT | Building My Personal Cloud Infrastructure on AWS | Hirad Showghi | [Read More](https://medium.com/p/cf46a60c48e8) |
-| Thu, 06 Nov 2025 21:07:07 GMT | I Took The $400 Plunge With Hire a Hacker Pro’s Elite Training, Here’s What Happened.. | Leo Diamante | [Read More](https://medium.com/p/2bc7a34a61f3) |
-| Thu, 06 Nov 2025 21:06:53 GMT | Analyzing and Mitigating a Real-World 24/7 SSH Brute-Force Attack | Oleksiy Petrychko | [Read More](https://medium.com/p/71a5fe56fac1) |
-| Thu, 06 Nov 2025 21:05:19 GMT | Image OSINT Report for TCM SecurityOpen-Source Intelligence (OSINT) Fundamentals Course: Identify… | Irem Bezci | [Read More](https://medium.com/p/62639abc7019) |
-| Thu, 06 Nov 2025 21:03:25 GMT | Account Takeover Via Reflected XSS | Mahmoud Farag | [Read More](https://medium.com/p/6cd982ebff8d) |
-| Thu, 06 Nov 2025 20:54:52 GMT | Living Off the Land Attacks Tryhackme Walkthrough | Jawstar | [Read More](https://medium.com/p/7a88fda3775b) |
-| Thu, 06 Nov 2025 20:49:58 GMT | Portswigger Academy — CSRF where Referer validation depends on header being present — Write-up | Alan | [Read More](https://medium.com/p/97b7809d9de0) |
-| Thu, 06 Nov 2025 20:41:27 GMT | Cybersecurity 12#:Cryptography & Penetration Testing | mohandika | [Read More](https://medium.com/p/3fc83a4160b7) |
-| Thu, 06 Nov 2025 20:40:44 GMT | ️SOAR x EDR Automation with LimaCharlie, Tines, and Slack | Kent Michael | [Read More](https://medium.com/p/a947b22f866d) |
-| Thu, 06 Nov 2025 20:40:43 GMT | How I Found 6 Reflected XSS — and Turned Them into Account Takeover | Potato Human | [Read More](https://medium.com/p/3c0ace797b0a) |
-| Thu, 06 Nov 2025 20:38:57 GMT | My First Cloud Certification:) | Rakesh Elamaran | [Read More](https://medium.com/p/2af37a30c8bd) |
-| Thu, 06 Nov 2025 20:37:01 GMT | The Puppet Strings: The Real Tricks Behind Email Scams | Nine Lives Nexus | [Read More](https://medium.com/p/017816ac376f) |
-| Thu, 06 Nov 2025 20:35:36 GMT | What My Health Journey Taught Me About Leading Myself | Michele Richman | [Read More](https://medium.com/p/b5177f30d6c8) |
-| Thu, 06 Nov 2025 20:32:55 GMT | Understanding Linux File Permissions | Igor Scuculha | [Read More](https://medium.com/p/ec70a47ee4ec) |
-| Thu, 06 Nov 2025 20:31:52 GMT | Secrets, Everywhere: Why We Co-Led Truffle Security’s Series B | Nick Washburn | [Read More](https://medium.com/p/b4d5ef8337e8) |
-| Thu, 06 Nov 2025 20:29:59 GMT | V2Box: Исчерпывающее руководство по цифровой конфиденциальности и неограниченному доступу к ИИ | v2box App | [Read More](https://medium.com/p/75f9e470001e) |
-| Thu, 06 Nov 2025 20:24:39 GMT | Under The Wave | Tosan Tosanwumi | [Read More](https://medium.com/p/f4a9ae5e8a70) |
-| Thu, 06 Nov 2025 20:24:05 GMT | Ciberseguridad para Startups | Israel Aráoz Severiche | [Read More](https://medium.com/p/45b896e401eb) |
-| Thu, 06 Nov 2025 20:23:48 GMT | Bypassing CSRF Token Protection | Fatimahasan | [Read More](https://medium.com/p/1283b64083ea) |
