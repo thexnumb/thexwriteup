@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 22:36:09 GMT | How I Found a MASSIVE XSS Vulnerability on a Karting Site in 10 Minutes | Jackson Mittag | [Read More](https://medium.com/p/06ee7a444b37) |
+| Fri, 07 Nov 2025 22:17:26 GMT | Title: Day 3 of My eJPTv2 Journey: From Recon to Active Scanning | samurai | [Read More](https://medium.com/p/f3269178f9e7) |
 | Fri, 07 Nov 2025 22:03:23 GMT | 78% of API Attacks Happen After Authentication — Here’s Why | Cyber-AppSec | [Read More](https://medium.com/p/d081661728c8) |
 | Fri, 07 Nov 2025 21:56:40 GMT | Eight Bets from 2013: What I Got Right (and Wrong) About Tech’s Next Decade | Richard Northwood | [Read More](https://medium.com/p/4d164fe645a4) |
 | Fri, 07 Nov 2025 21:53:46 GMT | Create Killer Password Wordlists with CUPP — Fast, Targeted Attacks | Jackson Mittag | [Read More](https://medium.com/p/81a30c8ea6fb) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 15:04:46 GMT | The Deepfake Dilemma: When AI Video Generators Blur the Line Between Truth and Digital Fiction | Len Noe | [Read More](https://medium.com/p/4d99ed1e25f0) |
 | Fri, 07 Nov 2025 15:03:01 GMT | Secure Coding 2025: 10 Habits That Actually Stick | Syntal | [Read More](https://medium.com/p/7f6c2677a5dc) |
 | Fri, 07 Nov 2025 15:02:03 GMT | Privacy by Design, 2025 Edition | Nexumo | [Read More](https://medium.com/p/64babea5dd6d) |
-| Fri, 07 Nov 2025 15:02:02 GMT | Cyber Briefing: 2025.11.07 | CyberMaterial | [Read More](https://medium.com/p/cdec0aa63c4a) |
-| Fri, 07 Nov 2025 15:00:03 GMT | The World’s Worst Passwords: A Hall of Fame for Digital Idiocy | Abatis ABTU | [Read More](https://medium.com/p/f1db9a7c3e8d) |
