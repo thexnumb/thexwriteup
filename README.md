@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 23:28:37 GMT | Mark Yourself As a Certified Hacker! | NnFace | [Read More](https://medium.com/p/c13600813af9) |
 | Fri, 07 Nov 2025 22:43:16 GMT | How AI Empowers Cybercriminals | David SEHYEON Baek | [Read More](https://medium.com/p/1dbffc83134c) |
 | Fri, 07 Nov 2025 22:36:09 GMT | How I Found a MASSIVE XSS Vulnerability on a Karting Site in 10 Minutes | Jackson Mittag | [Read More](https://medium.com/p/06ee7a444b37) |
 | Fri, 07 Nov 2025 22:31:54 GMT | When the Internet Stops Feeling Safe | Dominic Medford | [Read More](https://medium.com/p/8bf53986c3e4) |
@@ -21,6 +22,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 21:53:46 GMT | Create Killer Password Wordlists with CUPP — Fast, Targeted Attacks | Jackson Mittag | [Read More](https://medium.com/p/81a30c8ea6fb) |
 | Fri, 07 Nov 2025 21:44:32 GMT | Cybersecurity Skills That Can Make You $100K+ a Year | Liam | [Read More](https://medium.com/p/c2396037500d) |
 | Fri, 07 Nov 2025 21:43:50 GMT | PYRAMID OF PAİN | someone | [Read More](https://medium.com/p/03a394b23a92) |
+| Fri, 07 Nov 2025 21:36:57 GMT | ¿Qué son las pruebas de caja negra, blanca y gris? | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/901c95c1b22a) |
 | Fri, 07 Nov 2025 21:34:03 GMT | Out in the Open: CVE-2020–28899 Leading to RCE on Zyxel ‘4G Router’ Boxes — An Accidental N-Day… | hacker_might | [Read More](https://medium.com/p/83b3b05ef106) |
 | Fri, 07 Nov 2025 21:23:00 GMT | OWASP Top 10 2025 | ISHII (石井) | [Read More](https://medium.com/p/f94900bc50a3) |
 | Fri, 07 Nov 2025 21:21:55 GMT | How ERC-8001 Would Have Prevented the Balancer V2 Exploit | Kwame Bryan | [Read More](https://medium.com/p/70bcbd33470d) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 15:11:42 GMT | Stop Chasing Clients: Build a TaskTag Upload Portal for Easy File Sharing | TaskTag | [Read More](https://medium.com/p/d8bdddf38804) |
 | Fri, 07 Nov 2025 15:09:30 GMT | How to Redirect HTTP to HTTPS in Nginx | VSYS Host | [Read More](https://medium.com/p/97f2efa16fe8) |
 | Fri, 07 Nov 2025 15:07:40 GMT | Why Every Office Network Should Include a PS5: Rethinking Cybersecurity Through Recreational… | Lauri Korpela | [Read More](https://medium.com/p/d62d7bccca2c) |
-| Fri, 07 Nov 2025 15:07:20 GMT | The Future of Business Internet: Trends Every Company Should Watch | Defend My Business | [Read More](https://medium.com/p/c0db82b7ade9) |
-| Fri, 07 Nov 2025 15:04:46 GMT | The Deepfake Dilemma: When AI Video Generators Blur the Line Between Truth and Digital Fiction | Len Noe | [Read More](https://medium.com/p/4d99ed1e25f0) |
