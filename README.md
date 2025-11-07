@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 07:34:30 GMT | Chain Link Fence The Smart, Durable Choice for Saudi Arabia | Hitechfence | [Read More](https://medium.com/p/0999e595c726) |
+| Fri, 07 Nov 2025 07:31:48 GMT | Digital Detox for Professionals: How Fear of Being Involved Protects My Focus | Vijay Kumar Gupta | [Read More](https://medium.com/p/55d7344e92b2) |
+| Fri, 07 Nov 2025 07:30:49 GMT | Best SCA Tools in 2025: Scan Dependencies, Secure Your Software Supply Chain | Anwar Plexicus | [Read More](https://medium.com/p/a32afa5fb74c) |
+| Fri, 07 Nov 2025 07:30:10 GMT | Cybersecurity by Thought and by Action | Abhiram Boyanapalli | [Read More](https://medium.com/p/cdc3079e24f7) |
+| Fri, 07 Nov 2025 07:27:47 GMT | 10 Secrets from PostgreSQL Logs That Exposed Hidden Bottlenecks | Rizqi Mulki | [Read More](https://medium.com/p/a332db6361c2) |
+| Fri, 07 Nov 2025 07:25:56 GMT | The Only Roadmap You Need For Bug Bounty | Raunak Raj | [Read More](https://medium.com/p/c03c8175e42b) |
 | Fri, 07 Nov 2025 07:14:13 GMT | “Cyber Skies: The New Threat Above Us” | Saanvi Jain | [Read More](https://medium.com/p/8448111f2e7e) |
 | Fri, 07 Nov 2025 07:14:11 GMT | The AI Billion-Dollar Paradox: 5 Core Tech Truths Redefining Global Business | Souren Stepanyan | [Read More](https://medium.com/p/ff24d36258b8) |
 | Fri, 07 Nov 2025 07:09:01 GMT | The Geek Squad Scam: How It Works and How To Protect Yourself | Spokeo People Search | [Read More](https://medium.com/p/3f9ab30f21bf) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 00:39:12 GMT | The Peace of Not Forcing Anything | Nura Putu | [Read More](https://medium.com/p/9064376688e6) |
 | Fri, 07 Nov 2025 00:38:18 GMT | صیغه حلال قم ۰۹۳۷۰۰۴۶۵۶۷ #صیغه قم #صیغه کاشان # صیغه حلال کاشان صیغه حلال رشت صیغه حلال تبریز | صیغه حلال ۰۹۳۷۰۰۴۶۵۶۷ | [Read More](https://medium.com/p/8cfbc2a6a91e) |
 | Fri, 07 Nov 2025 00:36:41 GMT | Offensive Security Intro | Demegorash | [Read More](https://medium.com/p/ebc962d91366) |
-| Fri, 07 Nov 2025 00:35:52 GMT | Episode 2: “The Cache of the Problem” | Dr. House In I.T. | [Read More](https://medium.com/p/0006a470fd80) |
-| Fri, 07 Nov 2025 00:32:00 GMT | Beyond Data at Rest and Data in Motion: Securing Data in Use with Confidential Computing | ThamizhElango Natarajan | [Read More](https://medium.com/p/b4cb42eef304) |
-| Fri, 07 Nov 2025 00:32:00 GMT | One Click Away: | Afolabi muhydeen olalekan | [Read More](https://medium.com/p/7b229e50307f) |
-| Fri, 07 Nov 2025 00:32:00 GMT | HackTheBox Introduction to Splunk & SPL | Cybersecurity Simplified | [Read More](https://medium.com/p/ac5589fa6738) |
-| Fri, 07 Nov 2025 00:31:49 GMT | CORS Vulnerability with Basic Origin Reflection | Bash Overflow | [Read More](https://medium.com/p/8316a2cadc3c) |
-| Fri, 07 Nov 2025 00:22:16 GMT | Episode 1: The Cart Before the Crash | Dr. House In I.T. | [Read More](https://medium.com/p/fd119fb37b11) |
