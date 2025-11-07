@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 19:02:04 GMT | Software Fuzzing: The Cornerstone of Automated Vulnerability Discovery | Suleiman Tawil | [Read More](https://medium.com/p/95aef284cd84) |
+| Fri, 07 Nov 2025 18:54:13 GMT | III. Do DNS à Cyber Threat Intelligence | Giuliano Cardozo | [Read More](https://medium.com/p/2a8c44f16b50) |
+| Fri, 07 Nov 2025 18:44:47 GMT | How IoT and AI Are Revolutionizing Cybersecurity in the Insurance Industry | Subhojit Ghosh | [Read More](https://medium.com/p/e98253f89f58) |
+| Fri, 07 Nov 2025 18:43:26 GMT | ERROR 4️⃣0️⃣4️⃣: MEANING NOT FOUND. | sobreviviente1959 | [Read More](https://medium.com/p/21e899f58d83) |
+| Fri, 07 Nov 2025 18:41:15 GMT | It Just So Happens We’re Facing Today for the First Time | Elizabeth Odelia | [Read More](https://medium.com/p/0c2fdb10ddbe) |
+| Fri, 07 Nov 2025 18:34:40 GMT | The Power of Courage | Astrid Gracias | [Read More](https://medium.com/p/b2db0ef80663) |
 | Fri, 07 Nov 2025 18:29:52 GMT | You Don’t Have to Be “Somebody Special” to Be a Target | Danielle Koppel | [Read More](https://medium.com/p/758b5807d37c) |
 | Fri, 07 Nov 2025 18:22:40 GMT | How I Simulated a Phishing → Malware → Data-Exfiltration Incident (Lab Report & Lessons Learned) | Fazal | [Read More](https://medium.com/p/16cf71b48b94) |
 | Fri, 07 Nov 2025 18:18:53 GMT | What Trump’s “Country of Particular Concern” label for Nigeria really means — and how it could hit… | Dayo Ogunrinde | [Read More](https://medium.com/p/dcfed414b009) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 13:26:31 GMT | 17 Reasons to Why We Need to Start Investing Today | Connie C | [Read More](https://medium.com/p/13f0d0e90677) |
 | Fri, 07 Nov 2025 13:17:52 GMT | Stop Building Cybersecurity | Tony Fish | [Read More](https://medium.com/p/10c5e85f4421) |
 | Fri, 07 Nov 2025 13:16:12 GMT | iPhone Users Vulnerable to WhatsApp Hack | Malloc | [Read More](https://medium.com/p/5611951955e6) |
-| Fri, 07 Nov 2025 13:14:37 GMT | Rooting Android Device or Jailbreak IOS | Sparsh Bhardwaj | [Read More](https://medium.com/p/97e3e3dea9ed) |
-| Fri, 07 Nov 2025 13:14:09 GMT | The Spring Security Defaults 90% Misunderstand: A Three-Line Fix for Core Vulnerabilities | Ark Protocol | [Read More](https://medium.com/p/15f8dbf339d7) |
-| Fri, 07 Nov 2025 13:12:47 GMT | Feelings are meant to be pushed down and bottled up, right? | Palesa | [Read More](https://medium.com/p/da4dde3a5d7b) |
-| Fri, 07 Nov 2025 13:06:33 GMT | Facial Recognition System Singapore - Smart Attendance & Security at Just 1 SGD Per Month - Exiga… | Dchinnari | [Read More](https://medium.com/p/1f8898cb34ef) |
-| Fri, 07 Nov 2025 13:06:27 GMT | 400 bad request that earns me $$$ bounty | mohaned haron | [Read More](https://medium.com/p/533f449d5dab) |
-| Fri, 07 Nov 2025 13:04:40 GMT | Packet Puzzle: Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/e94a6d3b9e6b) |
