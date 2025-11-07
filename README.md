@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 03:49:21 GMT | How Hacking for Free Made Me Employable | Gavin K | [Read More](https://medium.com/p/cfe6a9cf984d) |
+| Fri, 07 Nov 2025 03:36:54 GMT | 77% of Employees Are Feeding Company Secrets to ChatGPT | Deven Chhajed | [Read More](https://medium.com/p/c52709b78b97) |
+| Fri, 07 Nov 2025 03:31:57 GMT | 7 Ways to Combat Prototype Pollution in Your Applications | Arunangshu Das | [Read More](https://medium.com/p/7a5eb895bf96) |
+| Fri, 07 Nov 2025 03:28:21 GMT | How to Map Technical Requirements in IT Project Management | TaskFord | [Read More](https://medium.com/p/0108c379ba04) |
+| Fri, 07 Nov 2025 03:28:09 GMT | Bug Bounty Hunting — Complete Guide (Part-131) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/41f4d9bfe4c3) |
+| Fri, 07 Nov 2025 03:25:03 GMT | Bug Bounty Hunting — Complete Guide (Part-130) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/9715a26aaa38) |
+| Fri, 07 Nov 2025 03:22:49 GMT | ️ Cybersecurity in the Digital Age: Protecting a World Built on Data | Florin | [Read More](https://medium.com/p/febad390e030) |
+| Fri, 07 Nov 2025 03:21:46 GMT | Bug Bounty Hunting — Complete Guide (Part-129) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/f37b98847ff6) |
+| Fri, 07 Nov 2025 03:17:06 GMT | Zero-Day Vulnerabilities: Understanding and Protecting Against Exploitation | Mainekhacker | [Read More](https://medium.com/p/63707d5aac88) |
+| Fri, 07 Nov 2025 03:15:15 GMT | Why Our Digital Future Hinges on You Paying Attention | Rabail Zaheer | [Read More](https://medium.com/p/c8e2f4826eeb) |
+| Fri, 07 Nov 2025 03:12:14 GMT | I Rendered 50,000 Sprites at 60 FPS (And You Can Too) | Tech With Curly Girl | [Read More](https://medium.com/p/91acd1e18c44) |
+| Fri, 07 Nov 2025 03:10:06 GMT | MPChat Security Thesis: Closing the Analog Loophole | MPChat_Blog | [Read More](https://medium.com/p/89059a3d12f0) |
+| Fri, 07 Nov 2025 03:07:10 GMT | “How are you?” | Kam Alex oni | [Read More](https://medium.com/p/c018697007b7) |
+| Fri, 07 Nov 2025 03:06:21 GMT | SOC Role in Blue Team—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/1e8e833a0fec) |
+| Fri, 07 Nov 2025 03:05:08 GMT | Understanding Network-Based Cyber Attacks and How to Prevent Them | Thaís Lima | [Read More](https://medium.com/p/260820c83fe9) |
 | Fri, 07 Nov 2025 02:53:53 GMT | Visual Reconnaissance for Red Teams Automating Web Application Monitoring with Screenshots | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/d10d23a1f7ad) |
 | Fri, 07 Nov 2025 02:43:17 GMT | How I Overlooked the Problem and Shot Myself in the Foot | Dmytro Sirant | [Read More](https://medium.com/p/06841414e1de) |
 | Fri, 07 Nov 2025 02:41:59 GMT | An Open-Source AI “Hacker” Just Dropped — And It’s Going to Change App Security | Sonu Yadav | [Read More](https://medium.com/p/6b5c31dc6cb3) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 18:52:35 GMT | When Links Lie: Discovering a Subtle Hyperlink Injection Flaw in Email Invites | Sai Jayanth | [Read More](https://medium.com/p/dd1923d6996e) |
 | Thu, 06 Nov 2025 18:51:41 GMT | How We Got Here: Application Security Engineer | Luke | [Read More](https://medium.com/p/5dc3d0139c84) |
 | Thu, 06 Nov 2025 18:48:57 GMT | COMPUTER | Abdulrahman | [Read More](https://medium.com/p/ccf556e85e12) |
-| Thu, 06 Nov 2025 18:48:48 GMT | Eclipse Foundation Revokes Leaked Open VSX Tokens After Wiz Security Discovery | SCtoCS | [Read More](https://medium.com/p/1f28cbd8cf32) |
-| Thu, 06 Nov 2025 18:41:11 GMT | The Essential Role of Unarmed Security Guard Services in Office Buildings | Isabella | [Read More](https://medium.com/p/22ce4a946976) |
-| Thu, 06 Nov 2025 18:39:54 GMT | AI Use Cases in Information Security: How Artificial Intelligence is Transforming Cyber Defense | Tugbaseydayildirim | [Read More](https://medium.com/p/fbcaff54494a) |
-| Thu, 06 Nov 2025 18:39:33 GMT | Top Cybersecurity Interview Questions (Must Read) | The Daily Cyber News | [Read More](https://medium.com/p/39c153d74341) |
-| Thu, 06 Nov 2025 18:39:08 GMT | Why Startups Are Turning to Unarmed Security Guard Services in Corona? | Isabella | [Read More](https://medium.com/p/fb209637364c) |
-| Thu, 06 Nov 2025 18:29:42 GMT | Hacksmarter — Welcome — EN | DobTheRob | [Read More](https://medium.com/p/941116cccc7a) |
-| Thu, 06 Nov 2025 18:26:43 GMT | Tools, Trouble, and Trickery: Part 2 | OSINT Amy | [Read More](https://medium.com/p/54c6febafb55) |
-| Thu, 06 Nov 2025 18:25:10 GMT | Praktikum Internet of Things (Tugas): Monitoring Suhu Via Komputer | Muhammad Surya Saputro | [Read More](https://medium.com/p/682d71939d69) |
-| Thu, 06 Nov 2025 18:21:59 GMT | Entanglement’s Big Bet on Secure Messaging | Quellin | [Read More](https://medium.com/p/5c669945c236) |
-| Thu, 06 Nov 2025 18:21:12 GMT | Deepfake Detection and Prevention: Safeguarding Reality in the Age of AI | Arya Tiwari | [Read More](https://medium.com/p/af2694f3b2c9) |
-| Thu, 06 Nov 2025 18:19:31 GMT | AI/ LLM Hacking — Part 6 — Excessive Agency - Insecure Plugin | Darshan Naresh Naik | [Read More](https://medium.com/p/6c83013c6806) |
-| Thu, 06 Nov 2025 18:09:29 GMT | Why I’m Learning Cybersecurity in Public | Mason Hinson | [Read More](https://medium.com/p/c1d44f30acd0) |
-| Thu, 06 Nov 2025 18:07:21 GMT | NIST Cybersecurity Framework for Vulnerability Management: A Simple Guide | Dhanush N | [Read More](https://medium.com/p/3034db7fe5bb) |
-| Thu, 06 Nov 2025 18:07:10 GMT | Why Hackers Always Seem Ahead | Aj | [Read More](https://medium.com/p/ce149a2c5b8b) |
-| Thu, 06 Nov 2025 18:07:10 GMT | Praktikum Internet of Things: Monitoring Suhu Via Komputer | Muhammad Surya Saputro | [Read More](https://medium.com/p/d3ef16d220bd) |
