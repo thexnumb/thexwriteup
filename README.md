@@ -12,9 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 07:14:13 GMT | “Cyber Skies: The New Threat Above Us” | Saanvi Jain | [Read More](https://medium.com/p/8448111f2e7e) |
+| Fri, 07 Nov 2025 07:14:11 GMT | The AI Billion-Dollar Paradox: 5 Core Tech Truths Redefining Global Business | Souren Stepanyan | [Read More](https://medium.com/p/ff24d36258b8) |
+| Fri, 07 Nov 2025 07:09:01 GMT | The Geek Squad Scam: How It Works and How To Protect Yourself | Spokeo People Search | [Read More](https://medium.com/p/3f9ab30f21bf) |
+| Fri, 07 Nov 2025 07:08:58 GMT | Enhancing Container Security in Kubernetes with Palo Alto Networks Tools | Suraj Nayak | [Read More](https://medium.com/p/d09f75780a51) |
+| Fri, 07 Nov 2025 07:07:01 GMT | Advanced Linux Privilege Escalation: Learn SUID to Capabilities (Step-by-Step Guide) | Very Lazy Tech | [Read More](https://medium.com/p/b5c8ac6fe14b) |
+| Fri, 07 Nov 2025 07:04:46 GMT | I Tried Building a “Fake” Music Player… and Ended Up Understanding Why Pirated Apps Are… | MOGHUL KANNAN N | [Read More](https://medium.com/p/5bf8d00f61e5) |
+| Fri, 07 Nov 2025 07:02:22 GMT | Top 10 IoT Vulnerabilities Every Security Professional Should Know | Gawadenilesh | [Read More](https://medium.com/p/9cbbc9d54811) |
+| Fri, 07 Nov 2025 07:01:37 GMT | Pest Control in Bangalore - Best Pest Control Services Near You - HiCare | Hina Chaudhary | [Read More](https://medium.com/p/2e0208eb74e1) |
+| Fri, 07 Nov 2025 07:01:23 GMT | Understanding Network-Based Cyber Attacks and How Organizations Can Defend Against Them | Anderson Santos | [Read More](https://medium.com/p/a336ea5c207a) |
+| Fri, 07 Nov 2025 06:55:49 GMT | Session Fixation | Busra | [Read More](https://medium.com/p/05c846852fd2) |
+| Fri, 07 Nov 2025 06:50:35 GMT | ISO 27001 Certification | Digital Duffer | [Read More](https://medium.com/p/fb7a4ca85ae1) |
+| Fri, 07 Nov 2025 06:48:10 GMT | Why SOC Burnout Can Be Avoided: Practical Steps | Rushikesh Girase | [Read More](https://medium.com/p/58792dec4e05) |
+| Fri, 07 Nov 2025 06:41:57 GMT | Stop Using JWTs for Sessions. They’re Not Meant for That. | Dax | [Read More](https://medium.com/p/43c6b5fd178c) |
+| Fri, 07 Nov 2025 06:38:08 GMT | Switch Concrete5 Website to WordPress — Easy Migration Guide | Chris | [Read More](https://medium.com/p/96253e20ce25) |
+| Fri, 07 Nov 2025 06:37:27 GMT | Cyber Security, SOC Organizational Hierarchy and Event ID Mapping | Tahir hussain | [Read More](https://medium.com/p/b5930b68b175) |
+| Fri, 07 Nov 2025 06:32:10 GMT | How Does The Web Actually Works Securely ? | Abhay Parashar | [Read More](https://medium.com/p/8c69ddbb3149) |
 | Fri, 07 Nov 2025 06:28:38 GMT | CompTIA Security+ Serüvenim | Aykut Bayram | [Read More](https://medium.com/p/badb963c73a9) |
 | Fri, 07 Nov 2025 06:26:22 GMT | ATK-ROS2: This is a penetration testing environment for ROS2, designed as a production-like attack… | Мартин. | [Read More](https://medium.com/p/3bd104757085) |
 | Fri, 07 Nov 2025 06:25:31 GMT | AI Sidekick: The Smart Upgrade Ethical Hackers Deserve | Ashaun | [Read More](https://medium.com/p/8120c2336e0a) |
+| Fri, 07 Nov 2025 06:23:53 GMT | The Password That Broke India’s Privacy |  | [Read More](https://medium.com/p/3b9dd6bf89e1) |
 | Fri, 07 Nov 2025 06:19:34 GMT | Cybersecurity courses - SBTL | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/bcdf787dfeee) |
 | Fri, 07 Nov 2025 06:19:17 GMT | Russian Ransomware Gangs Adopt Open-Source AdaptixC2 in Sophisticated Campaigns | Himanshu Bhatt | [Read More](https://medium.com/p/5259dbd879b7) |
 | Fri, 07 Nov 2025 06:16:54 GMT | Cyber Law: Safeguarding the Digital World | Mindforge Infotech | [Read More](https://medium.com/p/5bf9b4e91445) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 00:32:00 GMT | HackTheBox Introduction to Splunk & SPL | Cybersecurity Simplified | [Read More](https://medium.com/p/ac5589fa6738) |
 | Fri, 07 Nov 2025 00:31:49 GMT | CORS Vulnerability with Basic Origin Reflection | Bash Overflow | [Read More](https://medium.com/p/8316a2cadc3c) |
 | Fri, 07 Nov 2025 00:22:16 GMT | Episode 1: The Cart Before the Crash | Dr. House In I.T. | [Read More](https://medium.com/p/fd119fb37b11) |
-| Fri, 07 Nov 2025 00:02:22 GMT | That Docker Image You Pulled from Hub Has a Root Shell. Here’s How to Prove It | Rahul Sharma | [Read More](https://medium.com/p/c0f5363027d2) |
-| Fri, 07 Nov 2025 00:02:17 GMT | Postman HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/cbed305a5178) |
-| Fri, 07 Nov 2025 00:02:05 GMT | Why HTTPS Matters: The Real Reason TLS/SSL Exists | Arfi Tutorials | [Read More](https://medium.com/p/5533c2effa99) |
-| Fri, 07 Nov 2025 00:02:04 GMT | Guía Avanzada de Penetration Testing en APIs (Parte 2) Explotación Práctica, Mitigación y Reporte… | JPablo13 | [Read More](https://medium.com/p/0a3faf4ea9b9) |
-| Fri, 07 Nov 2025 00:02:02 GMT | Top Data Security Technologies You Must Know in 2025 | Shahzaib | [Read More](https://medium.com/p/f892d352b80b) |
-| Thu, 06 Nov 2025 23:30:37 GMT | I passed CRTA! — My honest review & how to prepare | NoZe | [Read More](https://medium.com/p/fce6379664dd) |
-| Thu, 06 Nov 2025 23:04:56 GMT | Developers!!! Wanna create your Own File Upload service? | Jaivardhan Deshwal | [Read More](https://medium.com/p/a0ae806dcc66) |
-| Thu, 06 Nov 2025 23:03:27 GMT | Listening to End of the World by Searows and getting lost in my own emotions. | Shang | [Read More](https://medium.com/p/c951ac159af4) |
-| Thu, 06 Nov 2025 22:57:55 GMT | The Rise of Emerging Cyber Threats and How We Can Stay Ahead. | Spesh Billions | [Read More](https://medium.com/p/bd1f6570fe23) |
-| Thu, 06 Nov 2025 22:47:26 GMT | Curious Minds: Shhhhhh Careful! Your Air Fryer is Listening: A Take on Digital Privacy Intrusion | Balajee Viswanatha Rao | [Read More](https://medium.com/p/c6e79fbf57bf) |
-| Thu, 06 Nov 2025 22:44:16 GMT | Examples of Phishing Attacks on Small Businesses — And How to Detect Them Early | Cordula Boeck | [Read More](https://medium.com/p/eed515d1ef08) |
-| Thu, 06 Nov 2025 22:39:55 GMT | IAM: A Bug Hunter’s Field Manual | ToxSec | [Read More](https://medium.com/p/c4d216b7a830) |
-| Thu, 06 Nov 2025 22:38:03 GMT | Developers!!! Do you actually get How File Uploads Actually Work? | Jaivardhan Deshwal | [Read More](https://medium.com/p/adc321222410) |
-| Thu, 06 Nov 2025 22:32:10 GMT | Building a Threat Hunting Dashboard for Detecting Suspicious Activity | Hirad Showghi | [Read More](https://medium.com/p/f87aa96adf8b) |
-| Thu, 06 Nov 2025 22:25:18 GMT | Day 93: Nibbles Pentest Report | Nile Okomo | [Read More](https://medium.com/p/313cd0deb603) |
-| Thu, 06 Nov 2025 22:11:58 GMT | Just went through a cybersecurity audit in China — here’s what I wish I’d known earlier | Alex Graham | [Read More](https://medium.com/p/80b3dc8e8aca) |
-| Thu, 06 Nov 2025 22:06:28 GMT | Keeping Yourself Secure From Hackers in 2025 | Anthony | [Read More](https://medium.com/p/2f875e2034f9) |
