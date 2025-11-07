@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 01:31:57 GMT | How to Achieve High-Quality Intimate Relationships | Hanpis | [Read More](https://medium.com/p/17e3488144b8) |
+| Fri, 07 Nov 2025 01:22:14 GMT | Why AI Gateways Will Be Non-Negotiable | Cyber-AppSec | [Read More](https://medium.com/p/84cf6b7fc184) |
+| Fri, 07 Nov 2025 01:21:20 GMT | Canada didn’t get breached because of a highly advanced cyber weapon. | Abhinav pandey | [Read More](https://medium.com/p/1a1cd52976e9) |
+| Fri, 07 Nov 2025 01:16:15 GMT | Ignite (Tryhackme Write-up) | CO0L7 | [Read More](https://medium.com/p/1baa01c5b469) |
+| Fri, 07 Nov 2025 01:13:49 GMT | Monthly Threat Actor Group Intelligence Report, October 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6a3ac29592cb) |
+| Fri, 07 Nov 2025 01:12:30 GMT | The Importance of Secure Code | Alan Norcott | [Read More](https://medium.com/p/7b9dacb20f86) |
+| Fri, 07 Nov 2025 01:01:35 GMT | How to Build Stronger Cybersecurity Through Smarter MDR Partnerships | Scott Alldridge | [Read More](https://medium.com/p/a912ab878873) |
+| Fri, 07 Nov 2025 00:49:11 GMT | How Zero Trust and VisibleOps Are Revolutionizing Business Security with Scott Alldridge | Scott Alldridge | [Read More](https://medium.com/p/bfe0e19180bc) |
+| Fri, 07 Nov 2025 00:44:44 GMT | Episode 3: “The Phantom of the Outlook” | Dr. House In I.T. | [Read More](https://medium.com/p/a9f1cafa85b8) |
+| Fri, 07 Nov 2025 00:39:12 GMT | The Peace of Not Forcing Anything | Nura Putu | [Read More](https://medium.com/p/9064376688e6) |
+| Fri, 07 Nov 2025 00:38:18 GMT | صیغه حلال قم ۰۹۳۷۰۰۴۶۵۶۷ #صیغه قم #صیغه کاشان # صیغه حلال کاشان صیغه حلال رشت صیغه حلال تبریز | صیغه حلال ۰۹۳۷۰۰۴۶۵۶۷ | [Read More](https://medium.com/p/8cfbc2a6a91e) |
+| Fri, 07 Nov 2025 00:36:41 GMT | Offensive Security Intro | Demegorash | [Read More](https://medium.com/p/ebc962d91366) |
+| Fri, 07 Nov 2025 00:35:52 GMT | Episode 2: “The Cache of the Problem” | Dr. House In I.T. | [Read More](https://medium.com/p/0006a470fd80) |
+| Fri, 07 Nov 2025 00:32:00 GMT | Beyond Data at Rest and Data in Motion: Securing Data in Use with Confidential Computing | ThamizhElango Natarajan | [Read More](https://medium.com/p/b4cb42eef304) |
+| Fri, 07 Nov 2025 00:32:00 GMT | One Click Away: | Afolabi muhydeen olalekan | [Read More](https://medium.com/p/7b229e50307f) |
+| Fri, 07 Nov 2025 00:32:00 GMT | HackTheBox Introduction to Splunk & SPL | Cybersecurity Simplified | [Read More](https://medium.com/p/ac5589fa6738) |
+| Fri, 07 Nov 2025 00:31:49 GMT | CORS Vulnerability with Basic Origin Reflection | Bash Overflow | [Read More](https://medium.com/p/8316a2cadc3c) |
+| Fri, 07 Nov 2025 00:22:16 GMT | Episode 1: The Cart Before the Crash | Dr. House In I.T. | [Read More](https://medium.com/p/fd119fb37b11) |
+| Fri, 07 Nov 2025 00:02:22 GMT | That Docker Image You Pulled from Hub Has a Root Shell. Here’s How to Prove It | Rahul Sharma | [Read More](https://medium.com/p/c0f5363027d2) |
+| Fri, 07 Nov 2025 00:02:17 GMT | Postman HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/cbed305a5178) |
+| Fri, 07 Nov 2025 00:02:05 GMT | Why HTTPS Matters: The Real Reason TLS/SSL Exists | Arfi Tutorials | [Read More](https://medium.com/p/5533c2effa99) |
+| Fri, 07 Nov 2025 00:02:04 GMT | Guía Avanzada de Penetration Testing en APIs (Parte 2) Explotación Práctica, Mitigación y Reporte… | JPablo13 | [Read More](https://medium.com/p/0a3faf4ea9b9) |
+| Fri, 07 Nov 2025 00:02:02 GMT | Top Data Security Technologies You Must Know in 2025 | Shahzaib | [Read More](https://medium.com/p/f892d352b80b) |
 | Thu, 06 Nov 2025 23:30:37 GMT | I passed CRTA! — My honest review & how to prepare | NoZe | [Read More](https://medium.com/p/fce6379664dd) |
 | Thu, 06 Nov 2025 23:04:56 GMT | Developers!!! Wanna create your Own File Upload service? | Jaivardhan Deshwal | [Read More](https://medium.com/p/a0ae806dcc66) |
 | Thu, 06 Nov 2025 23:03:27 GMT | Listening to End of the World by Searows and getting lost in my own emotions. | Shang | [Read More](https://medium.com/p/c951ac159af4) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 17:46:47 GMT | The macOS Forensic Journey — FSEvents (File System Events) Directory Location | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d842fc6707d1) |
 | Thu, 06 Nov 2025 17:43:21 GMT | PART 1: The Software Supply Chain Secret: 97% of Your Code Isn’t Yours | Gopi Sri | [Read More](https://medium.com/p/2c461701aae5) |
 | Thu, 06 Nov 2025 17:40:17 GMT | Fixing the Multiselect Input “All” Option Bug in Splunk Classic Dashboards | H$nt | [Read More](https://medium.com/p/690e9e638a8d) |
-| Thu, 06 Nov 2025 17:30:33 GMT | Role of Critical Infrastructure Security in Cyber Warfare | Abhiram S | [Read More](https://medium.com/p/005f1e4dc5e1) |
-| Thu, 06 Nov 2025 17:25:33 GMT | After the Applause: Turning Runway Energy Into Real-World Momentum | Nauld | [Read More](https://medium.com/p/1e68fc4b27ed) |
-| Thu, 06 Nov 2025 17:18:48 GMT | Ground Zero | Nine Lives Nexus | [Read More](https://medium.com/p/ddeef574776c) |
-| Thu, 06 Nov 2025 17:18:01 GMT | NGate Malware Triggers Unauthorized ATM Cash Withdrawals Using Stolen Payment Card Data | Chetan Seripally | [Read More](https://medium.com/p/8eb74940fbb8) |
-| Thu, 06 Nov 2025 17:17:49 GMT | ⚡️ Dive Into the AstralGuard CTF Writeups Archive | Dallen Sadru | [Read More](https://medium.com/p/896ac5db5b78) |
-| Thu, 06 Nov 2025 17:15:21 GMT | This Injection Doesn’t Come with a Lollipop: How SQL Attacks Sneak Past Your Code | Jen Cracchiola | [Read More](https://medium.com/p/e331d18f9812) |
-| Thu, 06 Nov 2025 17:08:45 GMT | Can AI Hack? The Real Risks of Offensive AI Tools | News Geeek | [Read More](https://medium.com/p/bc1ebf8980e6) |
-| Thu, 06 Nov 2025 17:05:13 GMT | A Real-World AI Modernization Project | Peyton Lambert | [Read More](https://medium.com/p/e62e18e8d41c) |
-| Thu, 06 Nov 2025 17:01:18 GMT | CCTV: Guardian Angel or Silent Spy? | Nazrul Islam Rana | [Read More](https://medium.com/p/034fb1f29837) |
-| Thu, 06 Nov 2025 17:00:06 GMT | eBPF Rootkits : Malwares at the kernel level  ! | Mohamed Taha | [Read More](https://medium.com/p/6aaa4280a85c) |
-| Thu, 06 Nov 2025 16:58:51 GMT | Letters, Duplicates, False Positives and Hall of Fame: A Researcher’ Journey Through 2024–2025 | Pavanshanmukhmadhav | [Read More](https://medium.com/p/6d87068461fc) |
-| Thu, 06 Nov 2025 16:50:32 GMT | OWASP Topic — Cryptographic Failures | Jen Cracchiola | [Read More](https://medium.com/p/aa65bea59172) |
-| Thu, 06 Nov 2025 16:39:16 GMT | Identifying Runtime Risk by Correlating Log Data with Vulnerability Reports | Graylog | [Read More](https://medium.com/p/1ab97a29dc22) |
-| Thu, 06 Nov 2025 16:33:31 GMT | Imposters In Space, Errrr, Web Applications…Broken Access Controls! | Jen Cracchiola | [Read More](https://medium.com/p/147f5429b76e) |
-| Thu, 06 Nov 2025 16:30:32 GMT | Email Encryption Doesn’t Encrypt All Of My Information? Inconceivable! | Rob Abbott | [Read More](https://medium.com/p/9d1f6c1492db) |
-| Thu, 06 Nov 2025 16:24:40 GMT | Jaguar33 Security 2025: Membangun Kebiasaan Digital Aman di Era Link Phishing | JAGUAR33 | [Read More](https://medium.com/p/3c20e0d2fedb) |
-| Thu, 06 Nov 2025 16:24:16 GMT | MrRobot Lab Writeup | Jaws | [Read More](https://medium.com/p/a0a33d877fc7) |
-| Thu, 06 Nov 2025 16:18:07 GMT | A Quick Intro to Cybersecurity — | Tech Dyed | [Read More](https://medium.com/p/ca058b22cb9e) |
-| Thu, 06 Nov 2025 16:17:39 GMT | Geisha — walkthrough | Vaibhav | [Read More](https://medium.com/p/2edf0fd397fd) |
-| Thu, 06 Nov 2025 16:07:12 GMT | Title: Day 2 of My eJPTv2 Journey: Putting Reconnaissance into Practice ️‍♂️ | samurai | [Read More](https://medium.com/p/be137d0eeea7) |
-| Thu, 06 Nov 2025 16:06:46 GMT | Tracing a Scam Phone Number with Maltego | Anthony | [Read More](https://medium.com/p/013df8437c96) |
-| Thu, 06 Nov 2025 16:05:17 GMT | Humanizing IT: How People-First Leadership Drives Digital Transformation Success | Roman Meydbray | [Read More](https://medium.com/p/8a66ffc7da0a) |
-| Thu, 06 Nov 2025 16:03:09 GMT | “The Charging Cable Trap”: How a Simple Cord Becomes a Hacker’s Weapon — The Demo That Made the… | Wi-Fun | [Read More](https://medium.com/p/f501e4ba6c6f) |
