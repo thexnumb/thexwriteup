@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 09:32:26 GMT | The Hidden Python Module That Made Me Feel Like a Hacker | Fateyaly | [Read More](https://medium.com/p/00a278745512) |
+| Fri, 07 Nov 2025 09:31:26 GMT | The AI Hacker: Your New Cyber-Nightmare (and Our Best Hope?) | Gokul Kannan Ganesamoorthy | [Read More](https://medium.com/p/f8cb5c362868) |
+| Fri, 07 Nov 2025 09:29:04 GMT | Smali Hack: Root Checks Permanently Disabled | Raj Mishra | [Read More](https://medium.com/p/e13a1eb17275) |
+| Fri, 07 Nov 2025 09:23:00 GMT | The Rise of Deepfake Phishing: Why Seeing Is No Longer Believing | Tasnim Mahmud | [Read More](https://medium.com/p/a0ca6ee06416) |
+| Fri, 07 Nov 2025 09:19:29 GMT | Barzo Security Services: Your Trusted Partner for Comprehensive Security Solutions | Travel time | [Read More](https://medium.com/p/2f2f05b08b46) |
 | Fri, 07 Nov 2025 09:11:34 GMT | Spot the IoT Vulnerability! | Century Solutions Group | [Read More](https://medium.com/p/9ef7bc136767) |
 | Fri, 07 Nov 2025 09:10:17 GMT | 7 Things: On Terror, Nigeria, and the Actual Tragedy of an Aloof Elite - Sayo Aluko | Sayo Aluko | [Read More](https://medium.com/p/4dbf69a6772e) |
 | Fri, 07 Nov 2025 09:09:37 GMT | This Is Why Others Detect Cyber Attacks Before You Do | Balaji | [Read More](https://medium.com/p/f5e5113412fe) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 04:13:11 GMT | Why CIA Spies Never Get Detected | Noor Mindset | [Read More](https://medium.com/p/7f297373ab7d) |
 | Fri, 07 Nov 2025 04:02:31 GMT | Unrestricted Resource Consumption and Lack of Rate Limiting | Jei Ess | [Read More](https://medium.com/p/fc1ab69e73b9) |
 | Fri, 07 Nov 2025 04:02:13 GMT | Police Shoot Soldier During German Army Drill | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/f3c10e59e0dc) |
-| Fri, 07 Nov 2025 03:57:39 GMT | Attack Surface Mapping with UML Use-Case Diagrams: A Passive Threat Modeling Approach | Onurcan Genç | [Read More](https://medium.com/p/b05c766944a7) |
-| Fri, 07 Nov 2025 03:52:04 GMT | A Deep Dive into Windows Security Tokens (Part 1) | Indigo Shadow | [Read More](https://medium.com/p/9a2d37f4c4e5) |
-| Fri, 07 Nov 2025 03:49:21 GMT | How Hacking for Free Made Me Employable | Gavin K | [Read More](https://medium.com/p/cfe6a9cf984d) |
-| Fri, 07 Nov 2025 03:36:54 GMT | 77% of Employees Are Feeding Company Secrets to ChatGPT | Deven Chhajed | [Read More](https://medium.com/p/c52709b78b97) |
-| Fri, 07 Nov 2025 03:31:57 GMT | 7 Ways to Combat Prototype Pollution in Your Applications | Arunangshu Das | [Read More](https://medium.com/p/7a5eb895bf96) |
