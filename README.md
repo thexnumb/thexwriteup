@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 08:48:26 GMT | ️ The New OWASP Top 10 (2025): What’s Changed and What It Means for You | Monu Jangra | [Read More](https://medium.com/p/28b9e4c8b828) |
+| Fri, 07 Nov 2025 08:38:50 GMT | Your Kubernetes Containers Can Escape. Here’s How. | Heinancabouly | [Read More](https://medium.com/p/9e2fbfcf20bb) |
+| Fri, 07 Nov 2025 08:38:38 GMT | GoNative’s Approach to Bitcoin Finance : The Game-Changer | Wayne | [Read More](https://medium.com/p/8150f6eeb185) |
+| Fri, 07 Nov 2025 08:37:27 GMT | What is Malware in Computer: Ultimate Guide to Protect Your PC | Techzonego | [Read More](https://medium.com/p/92bec8d59af5) |
+| Fri, 07 Nov 2025 08:28:41 GMT | 7 Network Security Checks Every Remote Worker Should Know | Cloudbric VPN | [Read More](https://medium.com/p/59776a9b002a) |
 | Fri, 07 Nov 2025 08:19:02 GMT | What to Look For in a Parking Lot Surveillance? | Global CCTV Monitoring Services | [Read More](https://medium.com/p/4e7027f04c2a) |
+| Fri, 07 Nov 2025 08:18:31 GMT | Cloud-Native Security Threats, Attacks, and Detection Strategies | Andrey Pautov | [Read More](https://medium.com/p/55b3dd6ea2d1) |
 | Fri, 07 Nov 2025 08:10:03 GMT | Redis Security: Fix Redis Vulnerabilities and Protect Your Redis Server in Production | Karthick Dkk | [Read More](https://medium.com/p/3129e782e9cc) |
 | Fri, 07 Nov 2025 08:02:06 GMT | Part III — Vault Chronicles: Policies, Control, and Entitlements | Raymon Epping | [Read More](https://medium.com/p/5100ee0495e2) |
 | Fri, 07 Nov 2025 08:02:06 GMT | Everything’s Fine, Don’t Worry About Me | Łukasz Ratajczak | [Read More](https://medium.com/p/fe9a8ceb0967) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 03:10:06 GMT | MPChat Security Thesis: Closing the Analog Loophole | MPChat_Blog | [Read More](https://medium.com/p/89059a3d12f0) |
 | Fri, 07 Nov 2025 03:07:10 GMT | “How are you?” | Kam Alex oni | [Read More](https://medium.com/p/c018697007b7) |
 | Fri, 07 Nov 2025 03:06:21 GMT | SOC Role in Blue Team—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/1e8e833a0fec) |
-| Fri, 07 Nov 2025 03:05:08 GMT | Understanding Network-Based Cyber Attacks and How to Prevent Them | Thaís Lima | [Read More](https://medium.com/p/260820c83fe9) |
-| Fri, 07 Nov 2025 02:53:53 GMT | Visual Reconnaissance for Red Teams Automating Web Application Monitoring with Screenshots | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/d10d23a1f7ad) |
-| Fri, 07 Nov 2025 02:43:17 GMT | How I Overlooked the Problem and Shot Myself in the Foot | Dmytro Sirant | [Read More](https://medium.com/p/06841414e1de) |
-| Fri, 07 Nov 2025 02:41:59 GMT | An Open-Source AI “Hacker” Just Dropped — And It’s Going to Change App Security | Sonu Yadav | [Read More](https://medium.com/p/6b5c31dc6cb3) |
-| Fri, 07 Nov 2025 02:34:21 GMT | Linux for DevOps : Part 5 — Security, Monitoring, and Automation | Rakhi ghangas | [Read More](https://medium.com/p/1eb9f364f419) |
-| Fri, 07 Nov 2025 02:28:14 GMT | The Ultimate Guide to Bug Identification for Nature Lovers | Jackleo | [Read More](https://medium.com/p/fbc4531d6b45) |
