@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 16:27:57 GMT | CyberUP Institute and the Power of Thinking Like a Hacker | CYBERUP INSTITUTE | [Read More](https://medium.com/p/e0c10c2a7af0) |
+| Fri, 07 Nov 2025 16:24:56 GMT | PART 2: The Digital Pandemic: How 3 Attacks Changed Cybersecurity Forever | Gopi Sri | [Read More](https://medium.com/p/0f984be94e3d) |
 | Fri, 07 Nov 2025 16:18:21 GMT | Vibe Hacking: The Art of Reconnaissance in Modern Bug Bounty Work | Butrint Komoni | [Read More](https://medium.com/p/2b3aa63e0253) |
 | Fri, 07 Nov 2025 16:15:47 GMT | Why “Cybersecurity” Isn’t a Career (and What to Do If You’ve Applied to Hundreds of Jobs and Heard… | Jeremy Pretty | [Read More](https://medium.com/p/36d716465545) |
 | Fri, 07 Nov 2025 16:04:00 GMT | Cybersecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/81c0acda8556) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 10:51:40 GMT | Why Every Software Developer Should Care About Penetration Testing | Martin Onyisi | [Read More](https://medium.com/p/4ab192fe2c3f) |
 | Fri, 07 Nov 2025 10:51:28 GMT | QuantZen™ vs Hard Forks: Choosing the Right Migration Strategy | QuantZen™ | [Read More](https://medium.com/p/b12b326b0a06) |
 | Fri, 07 Nov 2025 10:44:55 GMT | Network Forensics with NetworkMiner | Citadel Cybersec | [Read More](https://medium.com/p/b525935b3515) |
-| Fri, 07 Nov 2025 10:42:29 GMT | Security Without Barriers: How Digital Shield Makes Digital Sovereignty a Universal Right | Digital Shield Offcial | [Read More](https://medium.com/p/66859ab66a5d) |
-| Fri, 07 Nov 2025 10:41:41 GMT | Was ist digitale Gewalt? | Annewolf | [Read More](https://medium.com/p/f43eda6f53a1) |
