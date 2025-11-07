@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 05:14:25 GMT | Whisper Leak: Your LLM Chats Are Not as Private as You Think (Even Encrypted!) | Berend Watchus | [Read More](https://medium.com/p/f3a3a82b6616) |
+| Fri, 07 Nov 2025 05:09:00 GMT | ⚙️ The Windows Tools Every IT Professional Should Master (But Most Users Never Discover) | Salimassili | [Read More](https://medium.com/p/472cf20b89f7) |
+| Fri, 07 Nov 2025 05:02:46 GMT | How to Improve Wi-Fi Speed in Single-Floor and Double-Floor Houses | Ask IT Support | [Read More](https://medium.com/p/a9233c217246) |
+| Fri, 07 Nov 2025 05:01:56 GMT | 5 Hidden Android Settings That Protect Your Privacy | CyberSafe Insights | [Read More](https://medium.com/p/5c1fb5caa18e) |
+| Fri, 07 Nov 2025 05:01:54 GMT | How to Use Metasploit in Termux — Step-by-Step Guide | Balki Maharaj | [Read More](https://medium.com/p/665b68210933) |
+| Fri, 07 Nov 2025 04:59:13 GMT | Learn High-Level Design in 25 Days: Day 24 — Security in System Design (AuthN, AuthZ, OAuth2) | Yash Batra | [Read More](https://medium.com/p/89a3614354a0) |
+| Fri, 07 Nov 2025 04:35:37 GMT | SOC as a Service: Benefits for Companies Without In-House Security Teams | Reghu Mohandas | [Read More](https://medium.com/p/daf75106de0d) |
 | Fri, 07 Nov 2025 04:30:12 GMT | How to Create a Winning Project Plan for IT Projects [10 Steps Included] | TaskFord | [Read More](https://medium.com/p/ca3c6e4bf56b) |
 | Fri, 07 Nov 2025 04:18:28 GMT | Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request | black | [Read More](https://medium.com/p/7e3bb5883d04) |
 | Fri, 07 Nov 2025 04:17:12 GMT | How I Took Down a Defamatory Website Using OSINT and Reputation Management | Elijah Usani | [Read More](https://medium.com/p/58ab23f5038d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 19:59:57 GMT | The Developer's Laptop | Tim O'Brien | [Read More](https://medium.com/p/20bbbb0932d5) |
 | Thu, 06 Nov 2025 19:57:27 GMT | V2Box: The Ultimate Guide to Digital Privacy and Unrestricted AI Access | v2box App | [Read More](https://medium.com/p/5a792d94aa9d) |
 | Thu, 06 Nov 2025 19:57:03 GMT | The Eviction Challenge — How Sunny (SOC) Stopped APT28 at E-Corp | Odiomonafe Jamal . A | [Read More](https://medium.com/p/1ad2beed8ec4) |
-| Thu, 06 Nov 2025 19:34:46 GMT | Security and Resilience through a Business Continuity Management System | Oleh Dubetcky | [Read More](https://medium.com/p/4bdb1ac28d03) |
-| Thu, 06 Nov 2025 19:33:26 GMT | Fiberhome GPON ONU Model : HG6145F1 Router : Predictable WIFI passwords and Real Risks —… | Hani Anis Bouzid | [Read More](https://medium.com/p/d8e54da385d3) |
-| Thu, 06 Nov 2025 19:25:16 GMT | The Information Theory | Chanti-Roi Cooper | [Read More](https://medium.com/p/157a19389762) |
-| Thu, 06 Nov 2025 19:22:54 GMT | Why Microsoft Copilot’s Latest Updates Are Now Your Enterprise Mandate? | IT_Engineer | [Read More](https://medium.com/p/5e97b816d714) |
-| Thu, 06 Nov 2025 19:18:59 GMT | 101 Emerging Effects of Artificial Intelligence in Cybersecurity: Trends, Opportunities, and… | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/b64832616e65) |
-| Thu, 06 Nov 2025 19:13:57 GMT | HTB Bashed — Walkthrough/writeup | Findlay Lewis | [Read More](https://medium.com/p/51dc6366aefa) |
-| Thu, 06 Nov 2025 19:10:07 GMT | SleepyDuck: The Ethereum-Powered Malware That Redefines Command and Control | C. Oscar Lawshea | [Read More](https://medium.com/p/c6d612ff9093) |
