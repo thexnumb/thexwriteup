@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 20:18:56 GMT | Lab 5: DOM XSS in jQuery Anchor `href` Attribute Sink Using `location.search` Source | Apexium Technologies Ltd | [Read More](https://medium.com/p/8047333dfff4) |
+| Fri, 07 Nov 2025 20:18:05 GMT | Lab 4 — UNION SQL Injection: Find Text Column & Extract Database Version | Apexium Technologies Ltd | [Read More](https://medium.com/p/bad9803c5c06) |
+| Fri, 07 Nov 2025 20:16:14 GMT | Wazuh: In-Depth Guide to localfile — Configuring Log Collection in Your SIEM System | Pensecfort | [Read More](https://medium.com/p/7ec22e358073) |
+| Fri, 07 Nov 2025 20:14:02 GMT | Firewall Log Analysis Techniques | Dany Christel | [Read More](https://medium.com/p/bf29f3a6ed2e) |
+| Fri, 07 Nov 2025 20:11:59 GMT | From Noise to Signal: A SOC Analyst’s Guide to Alert Triage in Splunk | Furkanctiner | [Read More](https://medium.com/p/b551f1d67010) |
+| Fri, 07 Nov 2025 20:10:04 GMT | Start a Career in IT Security with a Cybersecurity Diploma in Toronto — ABM College Canada | ABM College | [Read More](https://medium.com/p/b2062e1776d8) |
 | Fri, 07 Nov 2025 20:00:07 GMT | Minecraft-Server-RCE-Plugin — an educational (but dangerous) proof-of-concept | AKSHAT SINGH | [Read More](https://medium.com/p/27e727b92a23) |
 | Fri, 07 Nov 2025 19:56:46 GMT | Cloud AI Security: A Pro’s Field Guide for 2026 Challenges | ToxSec | [Read More](https://medium.com/p/7bcbb4f379c9) |
 | Fri, 07 Nov 2025 19:56:20 GMT | Privacy as a Bounty Vector: GDPR for Higher-Severity Reports | ToxSec | [Read More](https://medium.com/p/595bb616add8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 14:32:42 GMT | Emerging Cyber Threats: Global Highlights from November 1–7, 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/8a333e74ca54) |
 | Fri, 07 Nov 2025 14:32:00 GMT | Getting Started with Sysmon: Installation and Configuration | Little_Sun4lower | [Read More](https://medium.com/p/189b68223a0e) |
 | Fri, 07 Nov 2025 14:22:40 GMT | Iframe Injection — What it is, why it’s dangerous, and how to protect your site | Mohammed | [Read More](https://medium.com/p/e8bee344c25c) |
-| Fri, 07 Nov 2025 14:22:36 GMT | Day 6 – RSA: shared-prime | Siyam | [Read More](https://medium.com/p/80421d9c3694) |
-| Fri, 07 Nov 2025 14:22:04 GMT | The Only Condition for True Love: Dare to Reveal Your Authentic Self | Qide Lare | [Read More](https://medium.com/p/26a4e0433d1a) |
-| Fri, 07 Nov 2025 14:18:44 GMT | Vaults: The Coordination Core of the Onchain Economy | Dibby | [Read More](https://medium.com/p/516e81786dca) |
-| Fri, 07 Nov 2025 14:18:06 GMT | The Ransomware Hostage Crisis | David ONeal | [Read More](https://medium.com/p/35baa1ac7329) |
-| Fri, 07 Nov 2025 14:12:11 GMT | DoS vs. DDoS Attacks: What They Are and How They Overload a Website | Amay Gupta | [Read More](https://medium.com/p/eb764818cd3b) |
-| Fri, 07 Nov 2025 14:06:56 GMT | Building an AI-Powered Application Security Infrastructure: Claude Code + Multi-VM MCP Architecture | zilbon | [Read More](https://medium.com/p/d2c62fb6fbdb) |
