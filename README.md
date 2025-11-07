@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 17:31:58 GMT | Kiba Tryhackme Walkthrough Writeup | Mainekhacker | [Read More](https://medium.com/p/ae577eb5ce41) |
+| Fri, 07 Nov 2025 17:29:41 GMT | eJPT Prep - Assessment Methodologies: Vulnerability Assessment CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/8c3e0b6bef93) |
+| Fri, 07 Nov 2025 17:22:08 GMT | How to Lock a Cabinet Door: Easy Security Options for Any Setup | Sure Lock & Key LLC | [Read More](https://medium.com/p/a788e27413fc) |
 | Fri, 07 Nov 2025 17:12:13 GMT | What is a VPN? Virtual Private Networks Explained | Eli Friesen | [Read More](https://medium.com/p/25c4088c22c7) |
 | Fri, 07 Nov 2025 17:08:45 GMT | OWASP TOP 10 : 2025 - Current Release Updates | SubhaDip | [Read More](https://medium.com/p/3da20afffa5c) |
 | Fri, 07 Nov 2025 17:04:29 GMT | Building Zero Trust: From Nmap Scan to Asset Intelligence Dashboard | Ashhadali | [Read More](https://medium.com/p/72b0bec97e0c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 12:02:03 GMT | When Devs Attack | Syntal | [Read More](https://medium.com/p/8fd243f9f934) |
 | Fri, 07 Nov 2025 11:49:29 GMT | From a Curious Kid to an Ethical Hacker: My Real Journey into Cybersecurity | Sooraj Pandey | [Read More](https://medium.com/p/05bc12cc002c) |
 | Fri, 07 Nov 2025 11:47:48 GMT | How Small Businesses Can Strengthen Their Cyber Defences on a Budget | MyOtp.App | [Read More](https://medium.com/p/6846a3b03ce6) |
-| Fri, 07 Nov 2025 11:46:40 GMT | Why You Should Never Use Your Real E-mail Online | Ajay Yadav | [Read More](https://medium.com/p/2f3624816dd0) |
-| Fri, 07 Nov 2025 11:37:35 GMT | Evidence Beats Instinct: Why AI-Powered Security Is the Future of UK Manufacturing | Luke Appleby | [Read More](https://medium.com/p/6ad74b4fdec4) |
-| Fri, 07 Nov 2025 11:32:08 GMT | VPN Network Detection in iOS: Technical Foundations, Implementation, and Best Practices | Nishant Taneja | [Read More](https://medium.com/p/c1408df2f392) |
