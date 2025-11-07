@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 08:19:02 GMT | What to Look For in a Parking Lot Surveillance? | Global CCTV Monitoring Services | [Read More](https://medium.com/p/4e7027f04c2a) |
+| Fri, 07 Nov 2025 08:10:03 GMT | Redis Security: Fix Redis Vulnerabilities and Protect Your Redis Server in Production | Karthick Dkk | [Read More](https://medium.com/p/3129e782e9cc) |
+| Fri, 07 Nov 2025 08:02:06 GMT | Part III — Vault Chronicles: Policies, Control, and Entitlements | Raymon Epping | [Read More](https://medium.com/p/5100ee0495e2) |
+| Fri, 07 Nov 2025 08:02:06 GMT | Everything’s Fine, Don’t Worry About Me | Łukasz Ratajczak | [Read More](https://medium.com/p/fe9a8ceb0967) |
+| Fri, 07 Nov 2025 08:01:36 GMT | How to Build a Vendor Risk Management Policy That Ensures Compliance | SecureSlate | [Read More](https://medium.com/p/fd84d50698d7) |
+| Fri, 07 Nov 2025 07:59:50 GMT | Simple WordPress Security Tricks Every Website Owner Should Know | Swapnil S. | [Read More](https://medium.com/p/b6b6539661be) |
+| Fri, 07 Nov 2025 07:57:57 GMT | 10 Ways Misconfigured SSL Certificates Exposed Sensitive Data | Rizqi Mulki | [Read More](https://medium.com/p/c52dd5629383) |
+| Fri, 07 Nov 2025 07:56:42 GMT | Taming the Bots with AWS WAF Bot Control on ALB | Adhiraj Jarwal | [Read More](https://medium.com/p/aa20d2a0ba0c) |
+| Fri, 07 Nov 2025 07:55:21 GMT | ประจำวันศุกร์ที่ 7 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/325b66a9e237) |
+| Fri, 07 Nov 2025 07:53:48 GMT | Security Experts Just Exposed OpenAI Atlas: Why 800 Million ChatGPT Users Should Wait Before… | Volture Luxe | [Read More](https://medium.com/p/d32a3b846605) |
+| Fri, 07 Nov 2025 07:53:05 GMT | eJPT Lab Write-Up: Assessment Methodologies: Footprinting and Scanning CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/6ba9d957de0b) |
+| Fri, 07 Nov 2025 07:38:35 GMT | 7 Ways We Stopped SQL Injection Before It Became a Breach in PostgreSQL | Rizqi Mulki | [Read More](https://medium.com/p/c0d5f5c18dfc) |
 | Fri, 07 Nov 2025 07:34:30 GMT | Chain Link Fence The Smart, Durable Choice for Saudi Arabia | Hitechfence | [Read More](https://medium.com/p/0999e595c726) |
 | Fri, 07 Nov 2025 07:31:48 GMT | Digital Detox for Professionals: How Fear of Being Involved Protects My Focus | Vijay Kumar Gupta | [Read More](https://medium.com/p/55d7344e92b2) |
+| Fri, 07 Nov 2025 07:31:10 GMT | HackTheBox Academy Footprinting MySQL | Birdv | [Read More](https://medium.com/p/cc4f67902787) |
 | Fri, 07 Nov 2025 07:30:49 GMT | Best SCA Tools in 2025: Scan Dependencies, Secure Your Software Supply Chain | Anwar Plexicus | [Read More](https://medium.com/p/a32afa5fb74c) |
 | Fri, 07 Nov 2025 07:30:10 GMT | Cybersecurity by Thought and by Action | Abhiram Boyanapalli | [Read More](https://medium.com/p/cdc3079e24f7) |
 | Fri, 07 Nov 2025 07:27:47 GMT | 10 Secrets from PostgreSQL Logs That Exposed Hidden Bottlenecks | Rizqi Mulki | [Read More](https://medium.com/p/a332db6361c2) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 02:41:59 GMT | An Open-Source AI “Hacker” Just Dropped — And It’s Going to Change App Security | Sonu Yadav | [Read More](https://medium.com/p/6b5c31dc6cb3) |
 | Fri, 07 Nov 2025 02:34:21 GMT | Linux for DevOps : Part 5 — Security, Monitoring, and Automation | Rakhi ghangas | [Read More](https://medium.com/p/1eb9f364f419) |
 | Fri, 07 Nov 2025 02:28:14 GMT | The Ultimate Guide to Bug Identification for Nature Lovers | Jackleo | [Read More](https://medium.com/p/fbc4531d6b45) |
-| Fri, 07 Nov 2025 02:10:54 GMT | What is a computer virus? How it works and the 7 most common types | Safelyo Global | [Read More](https://medium.com/p/b6e3c62047be) |
-| Fri, 07 Nov 2025 01:31:57 GMT | How to Achieve High-Quality Intimate Relationships | Hanpis | [Read More](https://medium.com/p/17e3488144b8) |
-| Fri, 07 Nov 2025 01:22:14 GMT | Why AI Gateways Will Be Non-Negotiable | Cyber-AppSec | [Read More](https://medium.com/p/84cf6b7fc184) |
-| Fri, 07 Nov 2025 01:21:20 GMT | Canada didn’t get breached because of a highly advanced cyber weapon. | Abhinav pandey | [Read More](https://medium.com/p/1a1cd52976e9) |
-| Fri, 07 Nov 2025 01:16:15 GMT | Ignite (Tryhackme Write-up) | CO0L7 | [Read More](https://medium.com/p/1baa01c5b469) |
-| Fri, 07 Nov 2025 01:13:49 GMT | Monthly Threat Actor Group Intelligence Report, October 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6a3ac29592cb) |
-| Fri, 07 Nov 2025 01:12:30 GMT | The Importance of Secure Code | Alan Norcott | [Read More](https://medium.com/p/7b9dacb20f86) |
-| Fri, 07 Nov 2025 01:01:35 GMT | How to Build Stronger Cybersecurity Through Smarter MDR Partnerships | Scott Alldridge | [Read More](https://medium.com/p/a912ab878873) |
-| Fri, 07 Nov 2025 00:49:11 GMT | How Zero Trust and VisibleOps Are Revolutionizing Business Security with Scott Alldridge | Scott Alldridge | [Read More](https://medium.com/p/bfe0e19180bc) |
-| Fri, 07 Nov 2025 00:44:44 GMT | Episode 3: “The Phantom of the Outlook” | Dr. House In I.T. | [Read More](https://medium.com/p/a9f1cafa85b8) |
-| Fri, 07 Nov 2025 00:39:12 GMT | The Peace of Not Forcing Anything | Nura Putu | [Read More](https://medium.com/p/9064376688e6) |
-| Fri, 07 Nov 2025 00:38:18 GMT | صیغه حلال قم ۰۹۳۷۰۰۴۶۵۶۷ #صیغه قم #صیغه کاشان # صیغه حلال کاشان صیغه حلال رشت صیغه حلال تبریز | صیغه حلال ۰۹۳۷۰۰۴۶۵۶۷ | [Read More](https://medium.com/p/8cfbc2a6a91e) |
-| Fri, 07 Nov 2025 00:36:41 GMT | Offensive Security Intro | Demegorash | [Read More](https://medium.com/p/ebc962d91366) |
