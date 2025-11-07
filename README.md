@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 13:45:22 GMT | CloudFront Security Faults: Detection and Remediation | Rick Yang | [Read More](https://medium.com/p/652f7a223e60) |
+| Fri, 07 Nov 2025 13:38:17 GMT | How I Found the race condition vulnerability? | DOD cyber solutions | [Read More](https://medium.com/p/0c6eb290b236) |
+| Fri, 07 Nov 2025 13:37:04 GMT | The Sovereign Delusion: Why Your Job Was Never Security — What 30,000 Amazon layoffs reveal about… | The Architect | [Read More](https://medium.com/p/fe460e553cb2) |
+| Fri, 07 Nov 2025 13:33:06 GMT | Beyond Firewalls: Why Human Behavior Remains the Biggest Security Risk | Co-Ventech | [Read More](https://medium.com/p/02841ced20ab) |
+| Fri, 07 Nov 2025 13:32:54 GMT | Big Data : Advanced MongoDB Operations and Data Query | Yasa Wijaya | [Read More](https://medium.com/p/6afe69385e8e) |
+| Fri, 07 Nov 2025 13:29:33 GMT | Why Brokers Are Investing in Custom Trading Platforms | LogiClump Technologies | [Read More](https://medium.com/p/261194c2f4b9) |
 | Fri, 07 Nov 2025 13:26:31 GMT | 17 Reasons to Why We Need to Start Investing Today | Connie C | [Read More](https://medium.com/p/13f0d0e90677) |
 | Fri, 07 Nov 2025 13:17:52 GMT | Stop Building Cybersecurity | Tony Fish | [Read More](https://medium.com/p/10c5e85f4421) |
 | Fri, 07 Nov 2025 13:16:12 GMT | iPhone Users Vulnerable to WhatsApp Hack | Malloc | [Read More](https://medium.com/p/5611951955e6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 07:55:21 GMT | ประจำวันศุกร์ที่ 7 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/325b66a9e237) |
 | Fri, 07 Nov 2025 07:53:48 GMT | Security Experts Just Exposed OpenAI Atlas: Why 800 Million ChatGPT Users Should Wait Before… | Volture Luxe | [Read More](https://medium.com/p/d32a3b846605) |
 | Fri, 07 Nov 2025 07:53:05 GMT | eJPT Lab Write-Up: Assessment Methodologies: Footprinting and Scanning CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/6ba9d957de0b) |
-| Fri, 07 Nov 2025 07:38:35 GMT | 7 Ways We Stopped SQL Injection Before It Became a Breach in PostgreSQL | Rizqi Mulki | [Read More](https://medium.com/p/c0d5f5c18dfc) |
-| Fri, 07 Nov 2025 07:34:30 GMT | Chain Link Fence The Smart, Durable Choice for Saudi Arabia | Hitechfence | [Read More](https://medium.com/p/0999e595c726) |
-| Fri, 07 Nov 2025 07:31:48 GMT | Digital Detox for Professionals: How Fear of Being Involved Protects My Focus | Vijay Kumar Gupta | [Read More](https://medium.com/p/55d7344e92b2) |
-| Fri, 07 Nov 2025 07:31:10 GMT | HackTheBox Academy Footprinting MySQL | Birdv | [Read More](https://medium.com/p/cc4f67902787) |
-| Fri, 07 Nov 2025 07:30:49 GMT | Best SCA Tools in 2025: Scan Dependencies, Secure Your Software Supply Chain | Anwar Plexicus | [Read More](https://medium.com/p/a32afa5fb74c) |
-| Fri, 07 Nov 2025 07:30:10 GMT | Cybersecurity by Thought and by Action | Abhiram Boyanapalli | [Read More](https://medium.com/p/cdc3079e24f7) |
