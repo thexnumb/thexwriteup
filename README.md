@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 18:29:52 GMT | You Don’t Have to Be “Somebody Special” to Be a Target | Danielle Koppel | [Read More](https://medium.com/p/758b5807d37c) |
+| Fri, 07 Nov 2025 18:22:40 GMT | How I Simulated a Phishing → Malware → Data-Exfiltration Incident (Lab Report & Lessons Learned) | Fazal | [Read More](https://medium.com/p/16cf71b48b94) |
 | Fri, 07 Nov 2025 18:18:53 GMT | What Trump’s “Country of Particular Concern” label for Nigeria really means — and how it could hit… | Dayo Ogunrinde | [Read More](https://medium.com/p/dcfed414b009) |
+| Fri, 07 Nov 2025 18:18:37 GMT | 3 Ways To Achieve Concurrency In Python | Harisudhan.S | [Read More](https://medium.com/p/275a39d5cd18) |
 | Fri, 07 Nov 2025 18:13:11 GMT | Why I Stopped Following Tutorials and Started Building Real Projects | Mubashir | [Read More](https://medium.com/p/c08f4b7429b2) |
 | Fri, 07 Nov 2025 18:09:02 GMT | Why Organizations Need TDR to Boost Network Protection | NetWitness | [Read More](https://medium.com/p/0f4521e528c8) |
 | Fri, 07 Nov 2025 18:02:07 GMT | The Future of Hacking in a World Full of AI | SoBatista | [Read More](https://medium.com/p/97aafc20148e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 13:06:33 GMT | Facial Recognition System Singapore - Smart Attendance & Security at Just 1 SGD Per Month - Exiga… | Dchinnari | [Read More](https://medium.com/p/1f8898cb34ef) |
 | Fri, 07 Nov 2025 13:06:27 GMT | 400 bad request that earns me $$$ bounty | mohaned haron | [Read More](https://medium.com/p/533f449d5dab) |
 | Fri, 07 Nov 2025 13:04:40 GMT | Packet Puzzle: Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/e94a6d3b9e6b) |
-| Fri, 07 Nov 2025 13:01:13 GMT | OverTheWire:  Natas Walkthrough — Level 0 - 3 | Ziad Tamer | [Read More](https://medium.com/p/2fa782af6460) |
-| Fri, 07 Nov 2025 12:43:06 GMT | A Life Worth Knowing — Viktor Frankl | Hajiaga Sadikhov | [Read More](https://medium.com/p/9ba9ea1efbd0) |
-| Fri, 07 Nov 2025 12:42:07 GMT | How do ServiceNow chatbots improve employee self-service and productivity? | Alex s | [Read More](https://medium.com/p/75843b4cfbe2) |
