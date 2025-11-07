@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 02:53:53 GMT | Visual Reconnaissance for Red Teams Automating Web Application Monitoring with Screenshots | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/d10d23a1f7ad) |
+| Fri, 07 Nov 2025 02:43:17 GMT | How I Overlooked the Problem and Shot Myself in the Foot | Dmytro Sirant | [Read More](https://medium.com/p/06841414e1de) |
+| Fri, 07 Nov 2025 02:41:59 GMT | An Open-Source AI “Hacker” Just Dropped — And It’s Going to Change App Security | Sonu Yadav | [Read More](https://medium.com/p/6b5c31dc6cb3) |
+| Fri, 07 Nov 2025 02:34:21 GMT | Linux for DevOps : Part 5 — Security, Monitoring, and Automation | Rakhi ghangas | [Read More](https://medium.com/p/1eb9f364f419) |
+| Fri, 07 Nov 2025 02:28:14 GMT | The Ultimate Guide to Bug Identification for Nature Lovers | Jackleo | [Read More](https://medium.com/p/fbc4531d6b45) |
+| Fri, 07 Nov 2025 02:10:54 GMT | What is a computer virus? How it works and the 7 most common types | Safelyo Global | [Read More](https://medium.com/p/b6e3c62047be) |
 | Fri, 07 Nov 2025 01:31:57 GMT | How to Achieve High-Quality Intimate Relationships | Hanpis | [Read More](https://medium.com/p/17e3488144b8) |
 | Fri, 07 Nov 2025 01:22:14 GMT | Why AI Gateways Will Be Non-Negotiable | Cyber-AppSec | [Read More](https://medium.com/p/84cf6b7fc184) |
 | Fri, 07 Nov 2025 01:21:20 GMT | Canada didn’t get breached because of a highly advanced cyber weapon. | Abhinav pandey | [Read More](https://medium.com/p/1a1cd52976e9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 18:07:21 GMT | NIST Cybersecurity Framework for Vulnerability Management: A Simple Guide | Dhanush N | [Read More](https://medium.com/p/3034db7fe5bb) |
 | Thu, 06 Nov 2025 18:07:10 GMT | Why Hackers Always Seem Ahead | Aj | [Read More](https://medium.com/p/ce149a2c5b8b) |
 | Thu, 06 Nov 2025 18:07:10 GMT | Praktikum Internet of Things: Monitoring Suhu Via Komputer | Muhammad Surya Saputro | [Read More](https://medium.com/p/d3ef16d220bd) |
-| Thu, 06 Nov 2025 18:01:01 GMT | The Billion-Dollar AI Race: Why Security Is the Real Cost of Intelligence | Monu Jangra | [Read More](https://medium.com/p/88f3a915ba52) |
-| Thu, 06 Nov 2025 17:59:32 GMT | Mastering AWS IAM: The Complete Security Framework Every Cloud Professional Must Know | Vikaskumar Dane | [Read More](https://medium.com/p/c5e32365c583) |
-| Thu, 06 Nov 2025 17:53:05 GMT | 29 Years Since “Smashing the Stack”: Time to Smash Memory Unsafety Itself | @boblord | [Read More](https://medium.com/p/0af3c69c2b6c) |
-| Thu, 06 Nov 2025 17:46:47 GMT | The macOS Forensic Journey — FSEvents (File System Events) Directory Location | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d842fc6707d1) |
-| Thu, 06 Nov 2025 17:43:21 GMT | PART 1: The Software Supply Chain Secret: 97% of Your Code Isn’t Yours | Gopi Sri | [Read More](https://medium.com/p/2c461701aae5) |
-| Thu, 06 Nov 2025 17:40:17 GMT | Fixing the Multiselect Input “All” Option Bug in Splunk Classic Dashboards | H$nt | [Read More](https://medium.com/p/690e9e638a8d) |
