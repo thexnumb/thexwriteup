@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 11:08:07 GMT | The Silent Ninja in Your App: Understanding Content Security Policy (CSP) in OutSystems | Sherif El-Habibi | [Read More](https://medium.com/p/b9cfa9a49d59) |
+| Fri, 07 Nov 2025 11:01:00 GMT | DockerLabs Writeup — ApacheByte (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b8daeaa1e50f) |
+| Fri, 07 Nov 2025 10:57:46 GMT | Build Strong Defense with Cybersecurity Risk Management | Vishwajeettechtech | [Read More](https://medium.com/p/b99d6819b213) |
+| Fri, 07 Nov 2025 10:52:12 GMT | Entry-Level Cybersecurity Winter Internship for Beginners | cyber security Updates | [Read More](https://medium.com/p/7c6bf43b328a) |
+| Fri, 07 Nov 2025 10:51:40 GMT | Why Every Software Developer Should Care About Penetration Testing | Martin Onyisi | [Read More](https://medium.com/p/4ab192fe2c3f) |
+| Fri, 07 Nov 2025 10:51:28 GMT | QuantZen™ vs Hard Forks: Choosing the Right Migration Strategy | QuantZen™ | [Read More](https://medium.com/p/b12b326b0a06) |
+| Fri, 07 Nov 2025 10:44:55 GMT | Network Forensics with NetworkMiner | Citadel Cybersec | [Read More](https://medium.com/p/b525935b3515) |
+| Fri, 07 Nov 2025 10:42:29 GMT | Security Without Barriers: How Digital Shield Makes Digital Sovereignty a Universal Right | Digital Shield Offcial | [Read More](https://medium.com/p/66859ab66a5d) |
+| Fri, 07 Nov 2025 10:41:41 GMT | Was ist digitale Gewalt? | Annewolf | [Read More](https://medium.com/p/f43eda6f53a1) |
+| Fri, 07 Nov 2025 10:40:55 GMT | Your Face Is the Password You Can’t Change | Fuad Mammadov | [Read More](https://medium.com/p/96b5f200ace8) |
 | Fri, 07 Nov 2025 10:33:05 GMT | AWS S3 — The Backbone of Cloud Storage | Pranav soni | [Read More](https://medium.com/p/669f556562b7) |
 | Fri, 07 Nov 2025 10:29:19 GMT | Your Smart TV Is the Cookie Now—And It’s Bigger Than Meta | Stray Cat | [Read More](https://medium.com/p/118833e0e036) |
 | Fri, 07 Nov 2025 10:15:24 GMT | Dasaratha: When Cyber Threats Meet Intelligence — Building My Own Threat Intelligence Platform | Traumerei | [Read More](https://medium.com/p/49d5b7a3afea) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 06:05:04 GMT | SIBOS 2025: AI, Tokenised Money, Real-Time Payments & the New Era of Fraud Prevention | Balasubramaniam GD | [Read More](https://medium.com/p/2002a864791f) |
 | Fri, 07 Nov 2025 06:02:30 GMT | The Daily Tech Digest: 07 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/726653b0e6b1) |
 | Fri, 07 Nov 2025 06:01:04 GMT | A Film Screening in a Google Sheet | Laura Houlberg | [Read More](https://medium.com/p/c2f5863331bf) |
-| Fri, 07 Nov 2025 06:00:51 GMT | How I’m Planning to Become a Cloud Security Architect (And the Tools I’m Using) | Mugiie | [Read More](https://medium.com/p/44eed032b202) |
-| Fri, 07 Nov 2025 06:00:38 GMT | How is AI changing the trends of Cyber Security | Shivanshu Jha | [Read More](https://medium.com/p/20b3c48e7221) |
-| Fri, 07 Nov 2025 05:54:52 GMT | DDoS Protection | Cyber Hub | [Read More](https://medium.com/p/f8a92ceafa0f) |
-| Fri, 07 Nov 2025 05:54:24 GMT | Humans as Attack Vectors—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/fd1eecbeba8d) |
-| Fri, 07 Nov 2025 05:48:29 GMT | Top Security Company in Bangalore: Ensuring Safety in India’s Silicon Valley | securityservices | [Read More](https://medium.com/p/0d758bd23b54) |
-| Fri, 07 Nov 2025 05:47:29 GMT | Cloudbric Services Progress Report (10/1 ~ 10/31) | Cloudbric | [Read More](https://medium.com/p/3abdb1691900) |
-| Fri, 07 Nov 2025 05:46:17 GMT | Is the Meister für Schutz und Sicherheit Qualification Worth It? | Sarmin Islam | [Read More](https://medium.com/p/492bbff296f9) |
-| Fri, 07 Nov 2025 05:43:55 GMT | Day 74- Why beginners in cybersecurity should learn the basics of ServiceNow | unica 02 | [Read More](https://medium.com/p/ebfed6d5f062) |
-| Fri, 07 Nov 2025 05:42:43 GMT | ShellPhish Exposed: I Simulated a Full Credential Theft Attack-Here’s How You Stop It | Guillaumebanakeng | [Read More](https://medium.com/p/666d73108b06) |
-| Fri, 07 Nov 2025 05:31:59 GMT | Cybersecurity Unlocked: Episode 6 — The “Trust No One” Rule | Yash Kitey | [Read More](https://medium.com/p/757cebf0647c) |
