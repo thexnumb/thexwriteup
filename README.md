@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 18:18:53 GMT | What Trump’s “Country of Particular Concern” label for Nigeria really means — and how it could hit… | Dayo Ogunrinde | [Read More](https://medium.com/p/dcfed414b009) |
+| Fri, 07 Nov 2025 18:13:11 GMT | Why I Stopped Following Tutorials and Started Building Real Projects | Mubashir | [Read More](https://medium.com/p/c08f4b7429b2) |
+| Fri, 07 Nov 2025 18:09:02 GMT | Why Organizations Need TDR to Boost Network Protection | NetWitness | [Read More](https://medium.com/p/0f4521e528c8) |
+| Fri, 07 Nov 2025 18:02:07 GMT | The Future of Hacking in a World Full of AI | SoBatista | [Read More](https://medium.com/p/97aafc20148e) |
+| Fri, 07 Nov 2025 18:02:07 GMT | AI-Boosted Social Engineering: 5 Threats to Watch | Nexumo | [Read More](https://medium.com/p/64d60f267688) |
+| Fri, 07 Nov 2025 18:02:07 GMT | AI vs. Hackers, Round One | Bhagya Rana | [Read More](https://medium.com/p/f018c225b029) |
+| Fri, 07 Nov 2025 18:02:06 GMT | Cybersecurity Jumpstart: 7 Projects to Prove Your Skills | Modexa | [Read More](https://medium.com/p/d7dbba27e98b) |
+| Fri, 07 Nov 2025 18:02:06 GMT | XDR’s Moment: Why It’s the Next Big Thing | Syntal | [Read More](https://medium.com/p/870d396f85a6) |
+| Fri, 07 Nov 2025 18:01:36 GMT | Cybersecurity News Review — Week 45 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/015f92ae7d39) |
+| Fri, 07 Nov 2025 18:00:20 GMT | Inside the Mind of a SOC Analyst: Why SOC Playbooks Is the Ultimate Cyber Defense Companion | Motasem Hamdan | [Read More](https://medium.com/p/1e45e619f064) |
+| Fri, 07 Nov 2025 17:53:52 GMT | The Vulnerability of Early Practice | Zahida Khalid | [Read More](https://medium.com/p/74cc77e11e63) |
+| Fri, 07 Nov 2025 17:48:46 GMT | Phishing Prevention - TryHackMe | 0xRahuL | [Read More](https://medium.com/p/112bcf5fa53d) |
+| Fri, 07 Nov 2025 17:42:25 GMT | Billu_box — VulnHub walkthrough | Vaibhav | [Read More](https://medium.com/p/1301b4da71bd) |
 | Fri, 07 Nov 2025 17:31:58 GMT | Kiba Tryhackme Walkthrough Writeup | Mainekhacker | [Read More](https://medium.com/p/ae577eb5ce41) |
 | Fri, 07 Nov 2025 17:29:41 GMT | eJPT Prep - Assessment Methodologies: Vulnerability Assessment CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/8c3e0b6bef93) |
 | Fri, 07 Nov 2025 17:22:08 GMT | How to Lock a Cabinet Door: Easy Security Options for Any Setup | Sure Lock & Key LLC | [Read More](https://medium.com/p/a788e27413fc) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 13:01:13 GMT | OverTheWire:  Natas Walkthrough — Level 0 - 3 | Ziad Tamer | [Read More](https://medium.com/p/2fa782af6460) |
 | Fri, 07 Nov 2025 12:43:06 GMT | A Life Worth Knowing — Viktor Frankl | Hajiaga Sadikhov | [Read More](https://medium.com/p/9ba9ea1efbd0) |
 | Fri, 07 Nov 2025 12:42:07 GMT | How do ServiceNow chatbots improve employee self-service and productivity? | Alex s | [Read More](https://medium.com/p/75843b4cfbe2) |
-| Fri, 07 Nov 2025 12:36:49 GMT | İşletmelerde Bilgi Sistemleri: TPS, MIS, DSS ve ESS | Özge Gül | [Read More](https://medium.com/p/e867af459d87) |
-| Fri, 07 Nov 2025 12:34:40 GMT | OODA Loops and How They Can Improve Your Supply-Chain Security | Joe The OSINT Guy | [Read More](https://medium.com/p/08ea9090eca4) |
-| Fri, 07 Nov 2025 12:27:16 GMT | Multi-Tenant SaaS Security Best Practices: Protect Your Cloud Application | KodekX | [Read More](https://medium.com/p/1377801e869a) |
-| Fri, 07 Nov 2025 12:24:12 GMT | Network Detection Engineering (Part 2): Snort IPS — From Detection to Prevention | CyberFreak | [Read More](https://medium.com/p/83efe08ad21e) |
-| Fri, 07 Nov 2025 12:22:48 GMT | How I Built a Private Nuclei Template Collection for Bounties | Ibtissam | [Read More](https://medium.com/p/174f7476cb31) |
-| Fri, 07 Nov 2025 12:22:12 GMT | SiyanoAV Total Security Software for Windows: Your Ultimate Protection Against Digital Threats | Manik | [Read More](https://medium.com/p/d0f9e193cfa3) |
-| Fri, 07 Nov 2025 12:21:03 GMT | Understanding Core Security+ Domains Every IT Professional Should Know | Niyakohli | [Read More](https://medium.com/p/e9f14c944f9d) |
-| Fri, 07 Nov 2025 12:10:37 GMT | Inside the Hacker’s Mind: Understanding Threats to Build Smarter Defenses | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/3c0944b36fea) |
-| Fri, 07 Nov 2025 12:03:03 GMT | Zero Trust, Zero Excuses | Bhagya Rana | [Read More](https://medium.com/p/67a6a32b81d3) |
-| Fri, 07 Nov 2025 12:02:04 GMT | The Human Factor | Nexumo | [Read More](https://medium.com/p/e0b09dec924b) |
-| Fri, 07 Nov 2025 12:02:03 GMT | When Devs Attack | Syntal | [Read More](https://medium.com/p/8fd243f9f934) |
-| Fri, 07 Nov 2025 11:49:29 GMT | From a Curious Kid to an Ethical Hacker: My Real Journey into Cybersecurity | Sooraj Pandey | [Read More](https://medium.com/p/05bc12cc002c) |
-| Fri, 07 Nov 2025 11:47:48 GMT | How Small Businesses Can Strengthen Their Cyber Defences on a Budget | MyOtp.App | [Read More](https://medium.com/p/6846a3b03ce6) |
