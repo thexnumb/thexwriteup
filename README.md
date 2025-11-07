@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 14:34:12 GMT | What is SYN Flood Attack and how prevent? | hamid mottaghian | [Read More](https://medium.com/p/3ba285e2228c) |
+| Fri, 07 Nov 2025 14:32:42 GMT | Emerging Cyber Threats: Global Highlights from November 1–7, 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/8a333e74ca54) |
+| Fri, 07 Nov 2025 14:32:00 GMT | Getting Started with Sysmon: Installation and Configuration | Little_Sun4lower | [Read More](https://medium.com/p/189b68223a0e) |
+| Fri, 07 Nov 2025 14:22:40 GMT | Iframe Injection — What it is, why it’s dangerous, and how to protect your site | Mohammed | [Read More](https://medium.com/p/e8bee344c25c) |
+| Fri, 07 Nov 2025 14:22:36 GMT | Day 6 – RSA: shared-prime | Siyam | [Read More](https://medium.com/p/80421d9c3694) |
+| Fri, 07 Nov 2025 14:22:04 GMT | The Only Condition for True Love: Dare to Reveal Your Authentic Self | Qide Lare | [Read More](https://medium.com/p/26a4e0433d1a) |
+| Fri, 07 Nov 2025 14:18:44 GMT | Vaults: The Coordination Core of the Onchain Economy | Dibby | [Read More](https://medium.com/p/516e81786dca) |
 | Fri, 07 Nov 2025 14:18:06 GMT | The Ransomware Hostage Crisis | David ONeal | [Read More](https://medium.com/p/35baa1ac7329) |
 | Fri, 07 Nov 2025 14:12:11 GMT | DoS vs. DDoS Attacks: What They Are and How They Overload a Website | Amay Gupta | [Read More](https://medium.com/p/eb764818cd3b) |
 | Fri, 07 Nov 2025 14:06:56 GMT | Building an AI-Powered Application Security Infrastructure: Claude Code + Multi-VM MCP Architecture | zilbon | [Read More](https://medium.com/p/d2c62fb6fbdb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 08:38:50 GMT | Your Kubernetes Containers Can Escape. Here’s How. | Heinancabouly | [Read More](https://medium.com/p/9e2fbfcf20bb) |
 | Fri, 07 Nov 2025 08:38:38 GMT | GoNative’s Approach to Bitcoin Finance : The Game-Changer | Wayne | [Read More](https://medium.com/p/8150f6eeb185) |
 | Fri, 07 Nov 2025 08:37:27 GMT | What is Malware in Computer: Ultimate Guide to Protect Your PC | Techzonego | [Read More](https://medium.com/p/92bec8d59af5) |
-| Fri, 07 Nov 2025 08:28:41 GMT | 7 Network Security Checks Every Remote Worker Should Know | Cloudbric VPN | [Read More](https://medium.com/p/59776a9b002a) |
-| Fri, 07 Nov 2025 08:19:02 GMT | What to Look For in a Parking Lot Surveillance? | Global CCTV Monitoring Services | [Read More](https://medium.com/p/4e7027f04c2a) |
-| Fri, 07 Nov 2025 08:18:31 GMT | Cloud-Native Security Threats, Attacks, and Detection Strategies | Andrey Pautov | [Read More](https://medium.com/p/55b3dd6ea2d1) |
-| Fri, 07 Nov 2025 08:10:03 GMT | Redis Security: Fix Redis Vulnerabilities and Protect Your Redis Server in Production | Karthick Dkk | [Read More](https://medium.com/p/3129e782e9cc) |
-| Fri, 07 Nov 2025 08:02:06 GMT | Part III — Vault Chronicles: Policies, Control, and Entitlements | Raymon Epping | [Read More](https://medium.com/p/5100ee0495e2) |
-| Fri, 07 Nov 2025 08:02:06 GMT | Everything’s Fine, Don’t Worry About Me | Łukasz Ratajczak | [Read More](https://medium.com/p/fe9a8ceb0967) |
-| Fri, 07 Nov 2025 08:01:36 GMT | How to Build a Vendor Risk Management Policy That Ensures Compliance | SecureSlate | [Read More](https://medium.com/p/fd84d50698d7) |
