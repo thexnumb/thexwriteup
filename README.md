@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 22:03:23 GMT | 78% of API Attacks Happen After Authentication — Here’s Why | Cyber-AppSec | [Read More](https://medium.com/p/d081661728c8) |
+| Fri, 07 Nov 2025 21:56:40 GMT | Eight Bets from 2013: What I Got Right (and Wrong) About Tech’s Next Decade | Richard Northwood | [Read More](https://medium.com/p/4d164fe645a4) |
+| Fri, 07 Nov 2025 21:53:46 GMT | Create Killer Password Wordlists with CUPP — Fast, Targeted Attacks | Jackson Mittag | [Read More](https://medium.com/p/81a30c8ea6fb) |
+| Fri, 07 Nov 2025 21:44:32 GMT | Cybersecurity Skills That Can Make You $100K+ a Year | Liam | [Read More](https://medium.com/p/c2396037500d) |
+| Fri, 07 Nov 2025 21:43:50 GMT | PYRAMID OF PAİN | someone | [Read More](https://medium.com/p/03a394b23a92) |
+| Fri, 07 Nov 2025 21:34:03 GMT | Out in the Open: CVE-2020–28899 Leading to RCE on Zyxel ‘4G Router’ Boxes — An Accidental N-Day… | hacker_might | [Read More](https://medium.com/p/83b3b05ef106) |
 | Fri, 07 Nov 2025 21:23:00 GMT | OWASP Top 10 2025 | ISHII (石井) | [Read More](https://medium.com/p/f94900bc50a3) |
 | Fri, 07 Nov 2025 21:21:55 GMT | How ERC-8001 Would Have Prevented the Balancer V2 Exploit | Kwame Bryan | [Read More](https://medium.com/p/70bcbd33470d) |
 | Fri, 07 Nov 2025 21:11:37 GMT | KODOK: Advanced JavaScript Security Scanner for Bug Bounty Hunters | rhyru9 | [Read More](https://medium.com/p/bfac3d8f3927) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 15:02:03 GMT | Privacy by Design, 2025 Edition | Nexumo | [Read More](https://medium.com/p/64babea5dd6d) |
 | Fri, 07 Nov 2025 15:02:02 GMT | Cyber Briefing: 2025.11.07 | CyberMaterial | [Read More](https://medium.com/p/cdec0aa63c4a) |
 | Fri, 07 Nov 2025 15:00:03 GMT | The World’s Worst Passwords: A Hall of Fame for Digital Idiocy | Abatis ABTU | [Read More](https://medium.com/p/f1db9a7c3e8d) |
-| Fri, 07 Nov 2025 14:56:20 GMT | [정보 공유] OWASP Top 10 2025 | mmostory | [Read More](https://medium.com/p/27a18c66a453) |
-| Fri, 07 Nov 2025 14:55:25 GMT | Burp Suite: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/0152fd315752) |
-| Fri, 07 Nov 2025 14:51:59 GMT | When a cyber monster woke up | Artilogic | [Read More](https://medium.com/p/1d03c0d477b9) |
-| Fri, 07 Nov 2025 14:51:06 GMT | Traefik 101: Reverse Proxy, Docker, and Free SSL on a VPS | Kelana Chandra Helyandika | [Read More](https://medium.com/p/90b7e1dea53c) |
-| Fri, 07 Nov 2025 14:50:05 GMT | Want Real Privacy? Start by Deleting Yourself | Czarif | [Read More](https://medium.com/p/b2e4e7d35797) |
-| Fri, 07 Nov 2025 14:49:12 GMT | Cybersecurity: Incident Response Detection | Ramandeep Bagri | [Read More](https://medium.com/p/7658b90527e6) |
