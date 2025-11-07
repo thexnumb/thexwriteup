@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 05:31:59 GMT | Cybersecurity Unlocked: Episode 6 — The “Trust No One” Rule | Yash Kitey | [Read More](https://medium.com/p/757cebf0647c) |
+| Fri, 07 Nov 2025 05:27:14 GMT | Explore the Benefits of Pursuing a Master’s in Data Science & AI | Edglobalacademy | [Read More](https://medium.com/p/3c24de7f114b) |
+| Fri, 07 Nov 2025 05:23:36 GMT | Top 10 Skills You Need to Become a Cyber Security Expert | Nagaraj | [Read More](https://medium.com/p/3b69942dcbb4) |
+| Fri, 07 Nov 2025 05:21:09 GMT | Cross-Domain Interoperability Standards for Trust Exchange | Ruchik Dave | [Read More](https://medium.com/p/704d93958984) |
 | Fri, 07 Nov 2025 05:14:25 GMT | Whisper Leak: Your LLM Chats Are Not as Private as You Think (Even Encrypted!) | Berend Watchus | [Read More](https://medium.com/p/f3a3a82b6616) |
 | Fri, 07 Nov 2025 05:09:00 GMT | ⚙️ The Windows Tools Every IT Professional Should Master (But Most Users Never Discover) | Salimassili | [Read More](https://medium.com/p/472cf20b89f7) |
 | Fri, 07 Nov 2025 05:02:46 GMT | How to Improve Wi-Fi Speed in Single-Floor and Double-Floor Houses | Ask IT Support | [Read More](https://medium.com/p/a9233c217246) |
@@ -22,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 04:30:12 GMT | How to Create a Winning Project Plan for IT Projects [10 Steps Included] | TaskFord | [Read More](https://medium.com/p/ca3c6e4bf56b) |
 | Fri, 07 Nov 2025 04:18:28 GMT | Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request | black | [Read More](https://medium.com/p/7e3bb5883d04) |
 | Fri, 07 Nov 2025 04:17:12 GMT | How I Took Down a Defamatory Website Using OSINT and Reputation Management | Elijah Usani | [Read More](https://medium.com/p/58ab23f5038d) |
+| Fri, 07 Nov 2025 04:15:45 GMT | Secure Flutter Apps — How to Hide API Keys & Use .env Files | Mukesh Singh | [Read More](https://medium.com/p/a24bf77a9f58) |
 | Fri, 07 Nov 2025 04:13:11 GMT | Why CIA Spies Never Get Detected | Noor Mindset | [Read More](https://medium.com/p/7f297373ab7d) |
 | Fri, 07 Nov 2025 04:02:31 GMT | Unrestricted Resource Consumption and Lack of Rate Limiting | Jei Ess | [Read More](https://medium.com/p/fc1ab69e73b9) |
 | Fri, 07 Nov 2025 04:02:13 GMT | Police Shoot Soldier During German Army Drill | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/f3c10e59e0dc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 20:24:39 GMT | Under The Wave | Tosan Tosanwumi | [Read More](https://medium.com/p/f4a9ae5e8a70) |
 | Thu, 06 Nov 2025 20:24:05 GMT | Ciberseguridad para Startups | Israel Aráoz Severiche | [Read More](https://medium.com/p/45b896e401eb) |
 | Thu, 06 Nov 2025 20:23:48 GMT | Bypassing CSRF Token Protection | Fatimahasan | [Read More](https://medium.com/p/1283b64083ea) |
-| Thu, 06 Nov 2025 20:19:58 GMT | Cybersecurity that Actually Feels Human. | Finncurter | [Read More](https://medium.com/p/c7f70807a272) |
-| Thu, 06 Nov 2025 20:07:54 GMT | Building My Snort IDS Home Lab | Dhanush Dhayalan | [Read More](https://medium.com/p/a4a425adc767) |
-| Thu, 06 Nov 2025 19:59:57 GMT | The Developer's Laptop | Tim O'Brien | [Read More](https://medium.com/p/20bbbb0932d5) |
-| Thu, 06 Nov 2025 19:57:27 GMT | V2Box: The Ultimate Guide to Digital Privacy and Unrestricted AI Access | v2box App | [Read More](https://medium.com/p/5a792d94aa9d) |
-| Thu, 06 Nov 2025 19:57:03 GMT | The Eviction Challenge — How Sunny (SOC) Stopped APT28 at E-Corp | Odiomonafe Jamal . A | [Read More](https://medium.com/p/1ad2beed8ec4) |
