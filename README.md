@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 14:18:06 GMT | The Ransomware Hostage Crisis | David ONeal | [Read More](https://medium.com/p/35baa1ac7329) |
+| Fri, 07 Nov 2025 14:12:11 GMT | DoS vs. DDoS Attacks: What They Are and How They Overload a Website | Amay Gupta | [Read More](https://medium.com/p/eb764818cd3b) |
+| Fri, 07 Nov 2025 14:06:56 GMT | Building an AI-Powered Application Security Infrastructure: Claude Code + Multi-VM MCP Architecture | zilbon | [Read More](https://medium.com/p/d2c62fb6fbdb) |
+| Fri, 07 Nov 2025 13:59:20 GMT | A Day That Taught Me Why Fake Banking Apps Are Dangerous | Gokuleswaran B | [Read More](https://medium.com/p/64d1851d8f7f) |
+| Fri, 07 Nov 2025 13:57:00 GMT | Cyber eto Ctf write up , pwn challenge : Magic | 3mksaad1600 | [Read More](https://medium.com/p/ec1d590a9370) |
+| Fri, 07 Nov 2025 13:55:17 GMT | Tryhackme: Anonymous Playground Detailed Walk-through for Beginners | AserSec | [Read More](https://medium.com/p/4ed660d8a5f4) |
 | Fri, 07 Nov 2025 13:45:22 GMT | CloudFront Security Faults: Detection and Remediation | Rick Yang | [Read More](https://medium.com/p/652f7a223e60) |
 | Fri, 07 Nov 2025 13:38:17 GMT | How I Found the race condition vulnerability? | DOD cyber solutions | [Read More](https://medium.com/p/0c6eb290b236) |
 | Fri, 07 Nov 2025 13:37:04 GMT | The Sovereign Delusion: Why Your Job Was Never Security — What 30,000 Amazon layoffs reveal about… | The Architect | [Read More](https://medium.com/p/fe460e553cb2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 08:02:06 GMT | Part III — Vault Chronicles: Policies, Control, and Entitlements | Raymon Epping | [Read More](https://medium.com/p/5100ee0495e2) |
 | Fri, 07 Nov 2025 08:02:06 GMT | Everything’s Fine, Don’t Worry About Me | Łukasz Ratajczak | [Read More](https://medium.com/p/fe9a8ceb0967) |
 | Fri, 07 Nov 2025 08:01:36 GMT | How to Build a Vendor Risk Management Policy That Ensures Compliance | SecureSlate | [Read More](https://medium.com/p/fd84d50698d7) |
-| Fri, 07 Nov 2025 07:59:50 GMT | Simple WordPress Security Tricks Every Website Owner Should Know | Swapnil S. | [Read More](https://medium.com/p/b6b6539661be) |
-| Fri, 07 Nov 2025 07:57:57 GMT | 10 Ways Misconfigured SSL Certificates Exposed Sensitive Data | Rizqi Mulki | [Read More](https://medium.com/p/c52dd5629383) |
-| Fri, 07 Nov 2025 07:56:42 GMT | Taming the Bots with AWS WAF Bot Control on ALB | Adhiraj Jarwal | [Read More](https://medium.com/p/aa20d2a0ba0c) |
-| Fri, 07 Nov 2025 07:55:21 GMT | ประจำวันศุกร์ที่ 7 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/325b66a9e237) |
-| Fri, 07 Nov 2025 07:53:48 GMT | Security Experts Just Exposed OpenAI Atlas: Why 800 Million ChatGPT Users Should Wait Before… | Volture Luxe | [Read More](https://medium.com/p/d32a3b846605) |
-| Fri, 07 Nov 2025 07:53:05 GMT | eJPT Lab Write-Up: Assessment Methodologies: Footprinting and Scanning CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/6ba9d957de0b) |
