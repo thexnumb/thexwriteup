@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 19:33:59 GMT | AI Security Reports — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/0a490aafaead) |
+| Fri, 07 Nov 2025 19:30:59 GMT | SQL Injection: The Ultimate Guide To Types, Examples And Coping Strategies! ( 2025 ) | Ceo Defender | [Read More](https://medium.com/p/7cea8a570800) |
+| Fri, 07 Nov 2025 19:24:14 GMT | 5 Simple Security Habits Every Employee Should Know | Cordula Boeck | [Read More](https://medium.com/p/914cfd7c685b) |
+| Fri, 07 Nov 2025 19:20:05 GMT | ClickFix Attacks Against macOS Users Evolving | IT_Engineer | [Read More](https://medium.com/p/c4732e54c565) |
+| Fri, 07 Nov 2025 19:19:42 GMT | Cybersecurity Begins Here | Raviteja Mureboina | [Read More](https://medium.com/p/7236c8cfcebe) |
+| Fri, 07 Nov 2025 19:14:39 GMT | When AI Becomes a Weapon: I Caught Real-Time Manipulation on Video | Krystal | [Read More](https://medium.com/p/938c2dca391e) |
 | Fri, 07 Nov 2025 19:02:04 GMT | Software Fuzzing: The Cornerstone of Automated Vulnerability Discovery | Suleiman Tawil | [Read More](https://medium.com/p/95aef284cd84) |
 | Fri, 07 Nov 2025 18:54:13 GMT | III. Do DNS à Cyber Threat Intelligence | Giuliano Cardozo | [Read More](https://medium.com/p/2a8c44f16b50) |
 | Fri, 07 Nov 2025 18:44:47 GMT | How IoT and AI Are Revolutionizing Cybersecurity in the Insurance Industry | Subhojit Ghosh | [Read More](https://medium.com/p/e98253f89f58) |
@@ -20,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 18:34:40 GMT | The Power of Courage | Astrid Gracias | [Read More](https://medium.com/p/b2db0ef80663) |
 | Fri, 07 Nov 2025 18:29:52 GMT | You Don’t Have to Be “Somebody Special” to Be a Target | Danielle Koppel | [Read More](https://medium.com/p/758b5807d37c) |
 | Fri, 07 Nov 2025 18:22:40 GMT | How I Simulated a Phishing → Malware → Data-Exfiltration Incident (Lab Report & Lessons Learned) | Fazal | [Read More](https://medium.com/p/16cf71b48b94) |
+| Fri, 07 Nov 2025 18:21:06 GMT | Bugbounty ó demanda por intrusión la línea delgada en LATAM y el error de muchos sysadmins cuando… | Hacking en México | [Read More](https://medium.com/p/f5519ad40b3e) |
 | Fri, 07 Nov 2025 18:18:53 GMT | What Trump’s “Country of Particular Concern” label for Nigeria really means — and how it could hit… | Dayo Ogunrinde | [Read More](https://medium.com/p/dcfed414b009) |
 | Fri, 07 Nov 2025 18:18:37 GMT | 3 Ways To Achieve Concurrency In Python | Harisudhan.S | [Read More](https://medium.com/p/275a39d5cd18) |
 | Fri, 07 Nov 2025 18:13:11 GMT | Why I Stopped Following Tutorials and Started Building Real Projects | Mubashir | [Read More](https://medium.com/p/c08f4b7429b2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 13:55:17 GMT | Tryhackme: Anonymous Playground Detailed Walk-through for Beginners | AserSec | [Read More](https://medium.com/p/4ed660d8a5f4) |
 | Fri, 07 Nov 2025 13:45:22 GMT | CloudFront Security Faults: Detection and Remediation | Rick Yang | [Read More](https://medium.com/p/652f7a223e60) |
 | Fri, 07 Nov 2025 13:38:17 GMT | How I Found the race condition vulnerability? | DOD cyber solutions | [Read More](https://medium.com/p/0c6eb290b236) |
-| Fri, 07 Nov 2025 13:37:04 GMT | The Sovereign Delusion: Why Your Job Was Never Security — What 30,000 Amazon layoffs reveal about… | The Architect | [Read More](https://medium.com/p/fe460e553cb2) |
-| Fri, 07 Nov 2025 13:33:06 GMT | Beyond Firewalls: Why Human Behavior Remains the Biggest Security Risk | Co-Ventech | [Read More](https://medium.com/p/02841ced20ab) |
-| Fri, 07 Nov 2025 13:32:54 GMT | Big Data : Advanced MongoDB Operations and Data Query | Yasa Wijaya | [Read More](https://medium.com/p/6afe69385e8e) |
-| Fri, 07 Nov 2025 13:29:33 GMT | Why Brokers Are Investing in Custom Trading Platforms | LogiClump Technologies | [Read More](https://medium.com/p/261194c2f4b9) |
-| Fri, 07 Nov 2025 13:26:31 GMT | 17 Reasons to Why We Need to Start Investing Today | Connie C | [Read More](https://medium.com/p/13f0d0e90677) |
-| Fri, 07 Nov 2025 13:17:52 GMT | Stop Building Cybersecurity | Tony Fish | [Read More](https://medium.com/p/10c5e85f4421) |
-| Fri, 07 Nov 2025 13:16:12 GMT | iPhone Users Vulnerable to WhatsApp Hack | Malloc | [Read More](https://medium.com/p/5611951955e6) |
