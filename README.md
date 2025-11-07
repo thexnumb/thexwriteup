@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 04:18:28 GMT | Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request | black | [Read More](https://medium.com/p/7e3bb5883d04) |
+| Fri, 07 Nov 2025 04:17:12 GMT | How I Took Down a Defamatory Website Using OSINT and Reputation Management | Elijah Usani | [Read More](https://medium.com/p/58ab23f5038d) |
+| Fri, 07 Nov 2025 04:13:11 GMT | Why CIA Spies Never Get Detected | Noor Mindset | [Read More](https://medium.com/p/7f297373ab7d) |
+| Fri, 07 Nov 2025 04:02:31 GMT | Unrestricted Resource Consumption and Lack of Rate Limiting | Jei Ess | [Read More](https://medium.com/p/fc1ab69e73b9) |
+| Fri, 07 Nov 2025 04:02:13 GMT | Police Shoot Soldier During German Army Drill | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/f3c10e59e0dc) |
+| Fri, 07 Nov 2025 03:57:39 GMT | Attack Surface Mapping with UML Use-Case Diagrams: A Passive Threat Modeling Approach | Onurcan Genç | [Read More](https://medium.com/p/b05c766944a7) |
+| Fri, 07 Nov 2025 03:52:04 GMT | A Deep Dive into Windows Security Tokens (Part 1) | Indigo Shadow | [Read More](https://medium.com/p/9a2d37f4c4e5) |
 | Fri, 07 Nov 2025 03:49:21 GMT | How Hacking for Free Made Me Employable | Gavin K | [Read More](https://medium.com/p/cfe6a9cf984d) |
 | Fri, 07 Nov 2025 03:36:54 GMT | 77% of Employees Are Feeding Company Secrets to ChatGPT | Deven Chhajed | [Read More](https://medium.com/p/c52709b78b97) |
 | Fri, 07 Nov 2025 03:31:57 GMT | 7 Ways to Combat Prototype Pollution in Your Applications | Arunangshu Das | [Read More](https://medium.com/p/7a5eb895bf96) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 19:13:57 GMT | HTB Bashed — Walkthrough/writeup | Findlay Lewis | [Read More](https://medium.com/p/51dc6366aefa) |
 | Thu, 06 Nov 2025 19:10:07 GMT | SleepyDuck: The Ethereum-Powered Malware That Redefines Command and Control | C. Oscar Lawshea | [Read More](https://medium.com/p/c6d612ff9093) |
 | Thu, 06 Nov 2025 19:07:46 GMT | ⚠️ The One Command That Destroyed My 90K+ YouTube Channel — A Real Hacker Trap You Must Avoid | Gopi C K | [Read More](https://medium.com/p/942793631734) |
-| Thu, 06 Nov 2025 19:06:38 GMT | How can attackers easily gain access to your network? | Haned Ussama | [Read More](https://medium.com/p/dda3f1054fda) |
-| Thu, 06 Nov 2025 19:05:39 GMT | CYBER KILL CHAIN WEAPONIZATION (SİLAHLANMA) AŞAMASI | Burhan Demir | [Read More](https://medium.com/p/fbe103042f3c) |
-| Thu, 06 Nov 2025 19:00:15 GMT | Welcome Walkthrough | IK4R0S | [Read More](https://medium.com/p/b27c27edb739) |
-| Thu, 06 Nov 2025 18:58:57 GMT | El deber social y los falsos hacktivistas | Hacking en México | [Read More](https://medium.com/p/4b4952b11035) |
-| Thu, 06 Nov 2025 18:52:35 GMT | When Links Lie: Discovering a Subtle Hyperlink Injection Flaw in Email Invites | Sai Jayanth | [Read More](https://medium.com/p/dd1923d6996e) |
-| Thu, 06 Nov 2025 18:51:41 GMT | How We Got Here: Application Security Engineer | Luke | [Read More](https://medium.com/p/5dc3d0139c84) |
-| Thu, 06 Nov 2025 18:48:57 GMT | COMPUTER | Abdulrahman | [Read More](https://medium.com/p/ccf556e85e12) |
