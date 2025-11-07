@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 22:43:16 GMT | How AI Empowers Cybercriminals | David SEHYEON Baek | [Read More](https://medium.com/p/1dbffc83134c) |
 | Fri, 07 Nov 2025 22:36:09 GMT | How I Found a MASSIVE XSS Vulnerability on a Karting Site in 10 Minutes | Jackson Mittag | [Read More](https://medium.com/p/06ee7a444b37) |
+| Fri, 07 Nov 2025 22:31:54 GMT | When the Internet Stops Feeling Safe | Dominic Medford | [Read More](https://medium.com/p/8bf53986c3e4) |
 | Fri, 07 Nov 2025 22:17:26 GMT | Title: Day 3 of My eJPTv2 Journey: From Recon to Active Scanning | samurai | [Read More](https://medium.com/p/f3269178f9e7) |
 | Fri, 07 Nov 2025 22:03:23 GMT | 78% of API Attacks Happen After Authentication — Here’s Why | Cyber-AppSec | [Read More](https://medium.com/p/d081661728c8) |
 | Fri, 07 Nov 2025 21:56:40 GMT | Eight Bets from 2013: What I Got Right (and Wrong) About Tech’s Next Decade | Richard Northwood | [Read More](https://medium.com/p/4d164fe645a4) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 15:07:40 GMT | Why Every Office Network Should Include a PS5: Rethinking Cybersecurity Through Recreational… | Lauri Korpela | [Read More](https://medium.com/p/d62d7bccca2c) |
 | Fri, 07 Nov 2025 15:07:20 GMT | The Future of Business Internet: Trends Every Company Should Watch | Defend My Business | [Read More](https://medium.com/p/c0db82b7ade9) |
 | Fri, 07 Nov 2025 15:04:46 GMT | The Deepfake Dilemma: When AI Video Generators Blur the Line Between Truth and Digital Fiction | Len Noe | [Read More](https://medium.com/p/4d99ed1e25f0) |
-| Fri, 07 Nov 2025 15:03:01 GMT | Secure Coding 2025: 10 Habits That Actually Stick | Syntal | [Read More](https://medium.com/p/7f6c2677a5dc) |
-| Fri, 07 Nov 2025 15:02:03 GMT | Privacy by Design, 2025 Edition | Nexumo | [Read More](https://medium.com/p/64babea5dd6d) |
