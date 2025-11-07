@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 15:30:47 GMT | The Fight for AI Safety Is Not Over. It Just Moved. | Miriam Sauter | [Read More](https://medium.com/p/3b7bfd481f65) |
+| Fri, 07 Nov 2025 15:26:41 GMT | Security Hardening Implementation and Troubleshooting | Linux Guide | [Read More](https://medium.com/p/08b2acc9ba3f) |
+| Fri, 07 Nov 2025 15:20:37 GMT | When Giants Slip: How the Washington Post Became Another Victim of the Cl0p–Oracle E‑Business Suite… | eL Njas!™ | [Read More](https://medium.com/p/0c4cd4499362) |
 | Fri, 07 Nov 2025 15:17:00 GMT | Hyundai AutoEver Data Breach Exposes Sensitive Customer Data and SSNs in Massive Cyber Incident | Himanshu Bhatt | [Read More](https://medium.com/p/459cd5c5b21f) |
+| Fri, 07 Nov 2025 15:16:28 GMT | When Love Starts Feeling Like a Reward | Rahul Gupta | [Read More](https://medium.com/p/252676e01a1d) |
 | Fri, 07 Nov 2025 15:12:50 GMT | Governança adaptativa: controle sem travar a inovação | Gustavo Lichti | [Read More](https://medium.com/p/b74a61d07c5f) |
 | Fri, 07 Nov 2025 15:11:42 GMT | Stop Chasing Clients: Build a TaskTag Upload Portal for Easy File Sharing | TaskTag | [Read More](https://medium.com/p/d8bdddf38804) |
 | Fri, 07 Nov 2025 15:09:30 GMT | How to Redirect HTTP to HTTPS in Nginx | VSYS Host | [Read More](https://medium.com/p/97f2efa16fe8) |
@@ -23,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 15:02:03 GMT | Privacy by Design, 2025 Edition | Nexumo | [Read More](https://medium.com/p/64babea5dd6d) |
 | Fri, 07 Nov 2025 15:02:02 GMT | Cyber Briefing: 2025.11.07 | CyberMaterial | [Read More](https://medium.com/p/cdec0aa63c4a) |
 | Fri, 07 Nov 2025 15:00:03 GMT | The World’s Worst Passwords: A Hall of Fame for Digital Idiocy | Abatis ABTU | [Read More](https://medium.com/p/f1db9a7c3e8d) |
+| Fri, 07 Nov 2025 14:56:20 GMT | [정보 공유] OWASP Top 10 2025 | mmostory | [Read More](https://medium.com/p/27a18c66a453) |
 | Fri, 07 Nov 2025 14:55:25 GMT | Burp Suite: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/0152fd315752) |
 | Fri, 07 Nov 2025 14:51:59 GMT | When a cyber monster woke up | Artilogic | [Read More](https://medium.com/p/1d03c0d477b9) |
 | Fri, 07 Nov 2025 14:51:06 GMT | Traefik 101: Reverse Proxy, Docker, and Free SSL on a VPS | Kelana Chandra Helyandika | [Read More](https://medium.com/p/90b7e1dea53c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 09:46:16 GMT | secursHow OT Cybersecurity Services Protect Critical Infrastructure from Cyber Threats | Arista Cyber | [Read More](https://medium.com/p/1c6ccc05a676) |
 | Fri, 07 Nov 2025 09:44:08 GMT | Network Installation Service Federal Way - Secure, Fast & Affordable | 2Netsolutions | [Read More](https://medium.com/p/def861545843) |
 | Fri, 07 Nov 2025 09:41:58 GMT | Why Linux Users Don’t Fear Viruses, And What They Fear Instead | Fateyaly | [Read More](https://medium.com/p/bd652bc400b6) |
-| Fri, 07 Nov 2025 09:41:13 GMT | From Cataloging to Prevention: Inferara Secures Stellar Community Fund Grant to Build Inference… | Inferara | [Read More](https://medium.com/p/a79a466d1b0e) |
-| Fri, 07 Nov 2025 09:40:31 GMT | Security Systems Products from Verified Manufacturers & Suppliers | yuvaraj | [Read More](https://medium.com/p/22d90fdf267e) |
-| Fri, 07 Nov 2025 09:39:56 GMT | Event Security Management: Trust Securycor for Your Next Event | uk service | [Read More](https://medium.com/p/a9d24bf96391) |
-| Fri, 07 Nov 2025 09:32:26 GMT | The Hidden Python Module That Made Me Feel Like a Hacker | Fateyaly | [Read More](https://medium.com/p/00a278745512) |
-| Fri, 07 Nov 2025 09:31:26 GMT | The AI Hacker: Your New Cyber-Nightmare (and Our Best Hope?) | Gokul Kannan Ganesamoorthy | [Read More](https://medium.com/p/f8cb5c362868) |
