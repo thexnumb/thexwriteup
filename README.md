@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 13:26:31 GMT | 17 Reasons to Why We Need to Start Investing Today | Connie C | [Read More](https://medium.com/p/13f0d0e90677) |
+| Fri, 07 Nov 2025 13:17:52 GMT | Stop Building Cybersecurity | Tony Fish | [Read More](https://medium.com/p/10c5e85f4421) |
+| Fri, 07 Nov 2025 13:16:12 GMT | iPhone Users Vulnerable to WhatsApp Hack | Malloc | [Read More](https://medium.com/p/5611951955e6) |
+| Fri, 07 Nov 2025 13:14:37 GMT | Rooting Android Device or Jailbreak IOS | Sparsh Bhardwaj | [Read More](https://medium.com/p/97e3e3dea9ed) |
+| Fri, 07 Nov 2025 13:14:09 GMT | The Spring Security Defaults 90% Misunderstand: A Three-Line Fix for Core Vulnerabilities | Ark Protocol | [Read More](https://medium.com/p/15f8dbf339d7) |
+| Fri, 07 Nov 2025 13:12:47 GMT | Feelings are meant to be pushed down and bottled up, right? | Palesa | [Read More](https://medium.com/p/da4dde3a5d7b) |
+| Fri, 07 Nov 2025 13:06:33 GMT | Facial Recognition System Singapore - Smart Attendance & Security at Just 1 SGD Per Month - Exiga… | Dchinnari | [Read More](https://medium.com/p/1f8898cb34ef) |
+| Fri, 07 Nov 2025 13:06:27 GMT | 400 bad request that earns me $$$ bounty | mohaned haron | [Read More](https://medium.com/p/533f449d5dab) |
+| Fri, 07 Nov 2025 13:04:40 GMT | Packet Puzzle: Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/e94a6d3b9e6b) |
+| Fri, 07 Nov 2025 13:01:13 GMT | OverTheWire:  Natas Walkthrough — Level 0 - 3 | Ziad Tamer | [Read More](https://medium.com/p/2fa782af6460) |
+| Fri, 07 Nov 2025 12:43:06 GMT | A Life Worth Knowing — Viktor Frankl | Hajiaga Sadikhov | [Read More](https://medium.com/p/9ba9ea1efbd0) |
+| Fri, 07 Nov 2025 12:42:07 GMT | How do ServiceNow chatbots improve employee self-service and productivity? | Alex s | [Read More](https://medium.com/p/75843b4cfbe2) |
+| Fri, 07 Nov 2025 12:36:49 GMT | İşletmelerde Bilgi Sistemleri: TPS, MIS, DSS ve ESS | Özge Gül | [Read More](https://medium.com/p/e867af459d87) |
 | Fri, 07 Nov 2025 12:34:40 GMT | OODA Loops and How They Can Improve Your Supply-Chain Security | Joe The OSINT Guy | [Read More](https://medium.com/p/08ea9090eca4) |
 | Fri, 07 Nov 2025 12:27:16 GMT | Multi-Tenant SaaS Security Best Practices: Protect Your Cloud Application | KodekX | [Read More](https://medium.com/p/1377801e869a) |
 | Fri, 07 Nov 2025 12:24:12 GMT | Network Detection Engineering (Part 2): Snort IPS — From Detection to Prevention | CyberFreak | [Read More](https://medium.com/p/83efe08ad21e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 07:31:10 GMT | HackTheBox Academy Footprinting MySQL | Birdv | [Read More](https://medium.com/p/cc4f67902787) |
 | Fri, 07 Nov 2025 07:30:49 GMT | Best SCA Tools in 2025: Scan Dependencies, Secure Your Software Supply Chain | Anwar Plexicus | [Read More](https://medium.com/p/a32afa5fb74c) |
 | Fri, 07 Nov 2025 07:30:10 GMT | Cybersecurity by Thought and by Action | Abhiram Boyanapalli | [Read More](https://medium.com/p/cdc3079e24f7) |
-| Fri, 07 Nov 2025 07:27:47 GMT | 10 Secrets from PostgreSQL Logs That Exposed Hidden Bottlenecks | Rizqi Mulki | [Read More](https://medium.com/p/a332db6361c2) |
-| Fri, 07 Nov 2025 07:25:56 GMT | The Only Roadmap You Need For Bug Bounty | Raunak Raj | [Read More](https://medium.com/p/c03c8175e42b) |
-| Fri, 07 Nov 2025 07:14:13 GMT | “Cyber Skies: The New Threat Above Us” | Saanvi Jain | [Read More](https://medium.com/p/8448111f2e7e) |
-| Fri, 07 Nov 2025 07:14:11 GMT | The AI Billion-Dollar Paradox: 5 Core Tech Truths Redefining Global Business | Souren Stepanyan | [Read More](https://medium.com/p/ff24d36258b8) |
-| Fri, 07 Nov 2025 07:09:01 GMT | The Geek Squad Scam: How It Works and How To Protect Yourself | Spokeo People Search | [Read More](https://medium.com/p/3f9ab30f21bf) |
-| Fri, 07 Nov 2025 07:08:58 GMT | Enhancing Container Security in Kubernetes with Palo Alto Networks Tools | Suraj Nayak | [Read More](https://medium.com/p/d09f75780a51) |
-| Fri, 07 Nov 2025 07:07:01 GMT | Advanced Linux Privilege Escalation: Learn SUID to Capabilities (Step-by-Step Guide) | Very Lazy Tech | [Read More](https://medium.com/p/b5c8ac6fe14b) |
-| Fri, 07 Nov 2025 07:04:46 GMT | I Tried Building a “Fake” Music Player… and Ended Up Understanding Why Pirated Apps Are… | MOGHUL KANNAN N | [Read More](https://medium.com/p/5bf8d00f61e5) |
-| Fri, 07 Nov 2025 07:02:22 GMT | Top 10 IoT Vulnerabilities Every Security Professional Should Know | Gawadenilesh | [Read More](https://medium.com/p/9cbbc9d54811) |
-| Fri, 07 Nov 2025 07:01:37 GMT | Pest Control in Bangalore - Best Pest Control Services Near You - HiCare | Hina Chaudhary | [Read More](https://medium.com/p/2e0208eb74e1) |
-| Fri, 07 Nov 2025 07:01:23 GMT | Understanding Network-Based Cyber Attacks and How Organizations Can Defend Against Them | Anderson Santos | [Read More](https://medium.com/p/a336ea5c207a) |
-| Fri, 07 Nov 2025 06:55:49 GMT | Session Fixation | Busra | [Read More](https://medium.com/p/05c846852fd2) |
-| Fri, 07 Nov 2025 06:50:35 GMT | ISO 27001 Certification | Digital Duffer | [Read More](https://medium.com/p/fb7a4ca85ae1) |
