@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 10:15:24 GMT | Dasaratha: When Cyber Threats Meet Intelligence — Building My Own Threat Intelligence Platform | Traumerei | [Read More](https://medium.com/p/49d5b7a3afea) |
+| Fri, 07 Nov 2025 10:13:43 GMT | Human Factors in Cybersecurity: Enhancing Awareness through Automated Compliance Systems | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/09710b237224) |
+| Fri, 07 Nov 2025 10:13:19 GMT | Today’s Top Cyber Intelligence Highlights — Nov 07, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/dc035d61b3be) |
+| Fri, 07 Nov 2025 10:06:19 GMT | The Rising Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/e3f27c9f0195) |
+| Fri, 07 Nov 2025 10:05:06 GMT | Advanced Prompt Injection: The New Frontiers | Matt Mochalkin | [Read More](https://medium.com/p/1fbc078c23cf) |
+| Fri, 07 Nov 2025 09:54:33 GMT | How Your Smartphone Tracks You | Frost | [Read More](https://medium.com/p/8094b69f5302) |
+| Fri, 07 Nov 2025 09:51:59 GMT | The Architecture of Cyber Resilience: How NIST CSF Turned Cybersecurity Into a Discipline Instead… | Khushi Arora | [Read More](https://medium.com/p/8b6f2507a837) |
+| Fri, 07 Nov 2025 09:50:24 GMT | Post-Quantum Reality Check: Should You Worry About “Harvest Now, Decrypt Later”? | Michal Pietrus | [Read More](https://medium.com/p/a26ddb901768) |
+| Fri, 07 Nov 2025 09:46:54 GMT | Why Low-Code Isn’t Always the High Road: Separating Fact from Fiction | Namir Sagheenanajar | [Read More](https://medium.com/p/2b15a5551b0b) |
+| Fri, 07 Nov 2025 09:46:16 GMT | secursHow OT Cybersecurity Services Protect Critical Infrastructure from Cyber Threats | Arista Cyber | [Read More](https://medium.com/p/1c6ccc05a676) |
+| Fri, 07 Nov 2025 09:44:08 GMT | Network Installation Service Federal Way - Secure, Fast & Affordable | 2Netsolutions | [Read More](https://medium.com/p/def861545843) |
+| Fri, 07 Nov 2025 09:41:58 GMT | Why Linux Users Don’t Fear Viruses, And What They Fear Instead | Fateyaly | [Read More](https://medium.com/p/bd652bc400b6) |
+| Fri, 07 Nov 2025 09:41:13 GMT | From Cataloging to Prevention: Inferara Secures Stellar Community Fund Grant to Build Inference… | Inferara | [Read More](https://medium.com/p/a79a466d1b0e) |
+| Fri, 07 Nov 2025 09:40:31 GMT | Security Systems Products from Verified Manufacturers & Suppliers | yuvaraj | [Read More](https://medium.com/p/22d90fdf267e) |
+| Fri, 07 Nov 2025 09:39:56 GMT | Event Security Management: Trust Securycor for Your Next Event | uk service | [Read More](https://medium.com/p/a9d24bf96391) |
 | Fri, 07 Nov 2025 09:32:26 GMT | The Hidden Python Module That Made Me Feel Like a Hacker | Fateyaly | [Read More](https://medium.com/p/00a278745512) |
 | Fri, 07 Nov 2025 09:31:26 GMT | The AI Hacker: Your New Cyber-Nightmare (and Our Best Hope?) | Gokul Kannan Ganesamoorthy | [Read More](https://medium.com/p/f8cb5c362868) |
 | Fri, 07 Nov 2025 09:29:04 GMT | Smali Hack: Root Checks Permanently Disabled | Raj Mishra | [Read More](https://medium.com/p/e13a1eb17275) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 05:31:59 GMT | Cybersecurity Unlocked: Episode 6 — The “Trust No One” Rule | Yash Kitey | [Read More](https://medium.com/p/757cebf0647c) |
 | Fri, 07 Nov 2025 05:27:14 GMT | Explore the Benefits of Pursuing a Master’s in Data Science & AI | Edglobalacademy | [Read More](https://medium.com/p/3c24de7f114b) |
 | Fri, 07 Nov 2025 05:23:36 GMT | Top 10 Skills You Need to Become a Cyber Security Expert | Nagaraj | [Read More](https://medium.com/p/3b69942dcbb4) |
-| Fri, 07 Nov 2025 05:21:09 GMT | Cross-Domain Interoperability Standards for Trust Exchange | Ruchik Dave | [Read More](https://medium.com/p/704d93958984) |
-| Fri, 07 Nov 2025 05:14:25 GMT | Whisper Leak: Your LLM Chats Are Not as Private as You Think (Even Encrypted!) | Berend Watchus | [Read More](https://medium.com/p/f3a3a82b6616) |
-| Fri, 07 Nov 2025 05:09:00 GMT | ⚙️ The Windows Tools Every IT Professional Should Master (But Most Users Never Discover) | Salimassili | [Read More](https://medium.com/p/472cf20b89f7) |
-| Fri, 07 Nov 2025 05:02:46 GMT | How to Improve Wi-Fi Speed in Single-Floor and Double-Floor Houses | Ask IT Support | [Read More](https://medium.com/p/a9233c217246) |
-| Fri, 07 Nov 2025 05:01:56 GMT | 5 Hidden Android Settings That Protect Your Privacy | CyberSafe Insights | [Read More](https://medium.com/p/5c1fb5caa18e) |
-| Fri, 07 Nov 2025 05:01:54 GMT | How to Use Metasploit in Termux — Step-by-Step Guide | Balki Maharaj | [Read More](https://medium.com/p/665b68210933) |
-| Fri, 07 Nov 2025 04:59:13 GMT | Learn High-Level Design in 25 Days: Day 24 — Security in System Design (AuthN, AuthZ, OAuth2) | Yash Batra | [Read More](https://medium.com/p/89a3614354a0) |
-| Fri, 07 Nov 2025 04:35:37 GMT | SOC as a Service: Benefits for Companies Without In-House Security Teams | Reghu Mohandas | [Read More](https://medium.com/p/daf75106de0d) |
-| Fri, 07 Nov 2025 04:30:12 GMT | How to Create a Winning Project Plan for IT Projects [10 Steps Included] | TaskFord | [Read More](https://medium.com/p/ca3c6e4bf56b) |
-| Fri, 07 Nov 2025 04:18:28 GMT | Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request | black | [Read More](https://medium.com/p/7e3bb5883d04) |
-| Fri, 07 Nov 2025 04:17:12 GMT | How I Took Down a Defamatory Website Using OSINT and Reputation Management | Elijah Usani | [Read More](https://medium.com/p/58ab23f5038d) |
-| Fri, 07 Nov 2025 04:15:45 GMT | Secure Flutter Apps — How to Hide API Keys & Use .env Files | Mukesh Singh | [Read More](https://medium.com/p/a24bf77a9f58) |
-| Fri, 07 Nov 2025 04:13:11 GMT | Why CIA Spies Never Get Detected | Noor Mindset | [Read More](https://medium.com/p/7f297373ab7d) |
-| Fri, 07 Nov 2025 04:02:31 GMT | Unrestricted Resource Consumption and Lack of Rate Limiting | Jei Ess | [Read More](https://medium.com/p/fc1ab69e73b9) |
-| Fri, 07 Nov 2025 04:02:13 GMT | Police Shoot Soldier During German Army Drill | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/f3c10e59e0dc) |
