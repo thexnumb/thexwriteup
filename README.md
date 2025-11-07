@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 16:18:21 GMT | Vibe Hacking: The Art of Reconnaissance in Modern Bug Bounty Work | Butrint Komoni | [Read More](https://medium.com/p/2b3aa63e0253) |
+| Fri, 07 Nov 2025 16:15:47 GMT | Why “Cybersecurity” Isn’t a Career (and What to Do If You’ve Applied to Hundreds of Jobs and Heard… | Jeremy Pretty | [Read More](https://medium.com/p/36d716465545) |
+| Fri, 07 Nov 2025 16:04:00 GMT | Cybersecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/81c0acda8556) |
+| Fri, 07 Nov 2025 15:59:22 GMT | Traffic Marshal vs. Security Guard: What’s the Difference? | Jane Tang | [Read More](https://medium.com/p/6edc08ac2f44) |
+| Fri, 07 Nov 2025 15:55:58 GMT | Why 2026 Belongs to Security Virtual Appliances | BuzzClan | [Read More](https://medium.com/p/f697acd7c918) |
+| Fri, 07 Nov 2025 15:50:43 GMT | Beyond the Wall: A Modern Guide to Network Security Fundamentals | Cyberbali | [Read More](https://medium.com/p/c3f715a79f18) |
+| Fri, 07 Nov 2025 15:50:32 GMT | My OSED Exam Experience | Morten Hornbech | [Read More](https://medium.com/p/b6566b6bc509) |
+| Fri, 07 Nov 2025 15:49:15 GMT | HTB Challenge: SpeedNet | 0xKholoud | [Read More](https://medium.com/p/ddfa9cc3e7be) |
+| Fri, 07 Nov 2025 15:44:46 GMT | The looming shadow war of artificial intelligence | STR4T0TT0 | [Read More](https://medium.com/p/8e84367f844e) |
+| Fri, 07 Nov 2025 15:42:38 GMT | Building a “Prompt Guard” Chrome Extension — and Hitting a Wall | Akio [あきお] | [Read More](https://medium.com/p/ebd61b396b68) |
+| Fri, 07 Nov 2025 15:42:21 GMT | Is Your Office 365 Setup Secure Enough? Here’s a Guide That Helps | Yasmin | [Read More](https://medium.com/p/1b7e99e689b1) |
+| Fri, 07 Nov 2025 15:41:56 GMT | The Adaptive Cyber-Immunology Framework: An AI Defense Guide | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/0ed7907e9f6b) |
+| Fri, 07 Nov 2025 15:37:01 GMT | Inside Incident Management: How Lean Dev Teams Stay Focused Under Fire | Graylog | [Read More](https://medium.com/p/941e80021a47) |
+| Fri, 07 Nov 2025 15:36:26 GMT | CyberDefenders — Rhysida Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/bc815bac4e8a) |
 | Fri, 07 Nov 2025 15:30:47 GMT | The Fight for AI Safety Is Not Over. It Just Moved. | Miriam Sauter | [Read More](https://medium.com/p/3b7bfd481f65) |
 | Fri, 07 Nov 2025 15:26:41 GMT | Security Hardening Implementation and Troubleshooting | Linux Guide | [Read More](https://medium.com/p/08b2acc9ba3f) |
 | Fri, 07 Nov 2025 15:20:37 GMT | When Giants Slip: How the Washington Post Became Another Victim of the Cl0p–Oracle E‑Business Suite… | eL Njas!™ | [Read More](https://medium.com/p/0c4cd4499362) |
@@ -85,6 +99,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 11:28:24 GMT | The Power of Information Technology in Modern Life | Hafizqadeerahmad | [Read More](https://medium.com/p/c2a51f2344cc) |
 | Fri, 07 Nov 2025 11:26:18 GMT | Perks of being a people pleaser | Ayo | [Read More](https://medium.com/p/187665257701) |
 | Fri, 07 Nov 2025 11:22:31 GMT | Portswigger : API testing labs (PART 2) | Abdelhamid Elbouz | [Read More](https://medium.com/p/7d36a9ecb2b6) |
+| Fri, 07 Nov 2025 11:21:54 GMT | TryHackMe - Wordpress: CVE-2021–29447 - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/b003d828ba68) |
 | Fri, 07 Nov 2025 11:19:53 GMT | The Beautiful Mess of Being Human | Nawab Khan | [Read More](https://medium.com/p/d40534fcd626) |
 | Fri, 07 Nov 2025 11:15:32 GMT | Digital Transformation: Redefining How Businesses Compete and Grow | Devarshi Acharya | [Read More](https://medium.com/p/0dd7b717542b) |
 | Fri, 07 Nov 2025 11:09:25 GMT | OWASP TOP 10: 2025 UPDATES | noailabs | [Read More](https://medium.com/p/3331d304da50) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 10:44:55 GMT | Network Forensics with NetworkMiner | Citadel Cybersec | [Read More](https://medium.com/p/b525935b3515) |
 | Fri, 07 Nov 2025 10:42:29 GMT | Security Without Barriers: How Digital Shield Makes Digital Sovereignty a Universal Right | Digital Shield Offcial | [Read More](https://medium.com/p/66859ab66a5d) |
 | Fri, 07 Nov 2025 10:41:41 GMT | Was ist digitale Gewalt? | Annewolf | [Read More](https://medium.com/p/f43eda6f53a1) |
-| Fri, 07 Nov 2025 10:40:55 GMT | Your Face Is the Password You Can’t Change | Fuad Mammadov | [Read More](https://medium.com/p/96b5f200ace8) |
-| Fri, 07 Nov 2025 10:33:05 GMT | AWS S3 — The Backbone of Cloud Storage | Pranav soni | [Read More](https://medium.com/p/669f556562b7) |
-| Fri, 07 Nov 2025 10:29:19 GMT | Your Smart TV Is the Cookie Now—And It’s Bigger Than Meta | Stray Cat | [Read More](https://medium.com/p/118833e0e036) |
-| Fri, 07 Nov 2025 10:15:24 GMT | Dasaratha: When Cyber Threats Meet Intelligence — Building My Own Threat Intelligence Platform | Traumerei | [Read More](https://medium.com/p/49d5b7a3afea) |
-| Fri, 07 Nov 2025 10:13:43 GMT | Human Factors in Cybersecurity: Enhancing Awareness through Automated Compliance Systems | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/09710b237224) |
-| Fri, 07 Nov 2025 10:13:19 GMT | Today’s Top Cyber Intelligence Highlights — Nov 07, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/dc035d61b3be) |
-| Fri, 07 Nov 2025 10:06:19 GMT | The Rising Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/e3f27c9f0195) |
-| Fri, 07 Nov 2025 10:05:06 GMT | Advanced Prompt Injection: The New Frontiers | Matt Mochalkin | [Read More](https://medium.com/p/1fbc078c23cf) |
-| Fri, 07 Nov 2025 09:54:33 GMT | How Your Smartphone Tracks You | Frost | [Read More](https://medium.com/p/8094b69f5302) |
-| Fri, 07 Nov 2025 09:51:59 GMT | The Architecture of Cyber Resilience: How NIST CSF Turned Cybersecurity Into a Discipline Instead… | Khushi Arora | [Read More](https://medium.com/p/8b6f2507a837) |
-| Fri, 07 Nov 2025 09:50:24 GMT | Post-Quantum Reality Check: Should You Worry About “Harvest Now, Decrypt Later”? | Michal Pietrus | [Read More](https://medium.com/p/a26ddb901768) |
-| Fri, 07 Nov 2025 09:46:54 GMT | Why Low-Code Isn’t Always the High Road: Separating Fact from Fiction | Namir Sagheenanajar | [Read More](https://medium.com/p/2b15a5551b0b) |
-| Fri, 07 Nov 2025 09:46:16 GMT | secursHow OT Cybersecurity Services Protect Critical Infrastructure from Cyber Threats | Arista Cyber | [Read More](https://medium.com/p/1c6ccc05a676) |
-| Fri, 07 Nov 2025 09:44:08 GMT | Network Installation Service Federal Way - Secure, Fast & Affordable | 2Netsolutions | [Read More](https://medium.com/p/def861545843) |
-| Fri, 07 Nov 2025 09:41:58 GMT | Why Linux Users Don’t Fear Viruses, And What They Fear Instead | Fateyaly | [Read More](https://medium.com/p/bd652bc400b6) |
