@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 09:11:34 GMT | Spot the IoT Vulnerability! | Century Solutions Group | [Read More](https://medium.com/p/9ef7bc136767) |
+| Fri, 07 Nov 2025 09:10:17 GMT | 7 Things: On Terror, Nigeria, and the Actual Tragedy of an Aloof Elite - Sayo Aluko | Sayo Aluko | [Read More](https://medium.com/p/4dbf69a6772e) |
+| Fri, 07 Nov 2025 09:09:37 GMT | This Is Why Others Detect Cyber Attacks Before You Do | Balaji | [Read More](https://medium.com/p/f5e5113412fe) |
+| Fri, 07 Nov 2025 09:05:48 GMT | Why is Medium.com not connected from India? | Karthick Dkk | [Read More](https://medium.com/p/e465b98cc1fc) |
+| Fri, 07 Nov 2025 09:03:27 GMT | Password to Louvre’s video surveillance system was ‘Louvre’ | Rue | [Read More](https://medium.com/p/3c7bc698e2ec) |
+| Fri, 07 Nov 2025 09:02:01 GMT | HTTP Status codes explained for pentesters | Arfat Khan | [Read More](https://medium.com/p/e29a32accb3d) |
+| Fri, 07 Nov 2025 09:00:18 GMT | 3 Mindsets for Surviving the Digital Exponential Era | Nazma Fitria | [Read More](https://medium.com/p/2a9b750fc9d2) |
+| Fri, 07 Nov 2025 08:56:00 GMT | What One Client’s Crisis Taught Me About Preparation | Fook Hwa Tan | [Read More](https://medium.com/p/f502a2beeee7) |
+| Fri, 07 Nov 2025 08:54:50 GMT | Being Certified Doesn’t Mean You’re Safe — Here’s Why | Fook Hwa Tan | [Read More](https://medium.com/p/7b9b7230d4a9) |
+| Fri, 07 Nov 2025 08:53:12 GMT | Where I Find Strength: Lessons from Faith & Cyber Resilience | Fook Hwa Tan | [Read More](https://medium.com/p/ffb71022a98d) |
+| Fri, 07 Nov 2025 08:48:38 GMT | Legit Crypto Recovery Service Companies in 2025: Hire Optimistic Hacker Gaius | Optimistic Hacker Gaius | [Read More](https://medium.com/p/95af2e965a2b) |
 | Fri, 07 Nov 2025 08:48:26 GMT | ️ The New OWASP Top 10 (2025): What’s Changed and What It Means for You | Monu Jangra | [Read More](https://medium.com/p/28b9e4c8b828) |
 | Fri, 07 Nov 2025 08:38:50 GMT | Your Kubernetes Containers Can Escape. Here’s How. | Heinancabouly | [Read More](https://medium.com/p/9e2fbfcf20bb) |
 | Fri, 07 Nov 2025 08:38:38 GMT | GoNative’s Approach to Bitcoin Finance : The Game-Changer | Wayne | [Read More](https://medium.com/p/8150f6eeb185) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 03:49:21 GMT | How Hacking for Free Made Me Employable | Gavin K | [Read More](https://medium.com/p/cfe6a9cf984d) |
 | Fri, 07 Nov 2025 03:36:54 GMT | 77% of Employees Are Feeding Company Secrets to ChatGPT | Deven Chhajed | [Read More](https://medium.com/p/c52709b78b97) |
 | Fri, 07 Nov 2025 03:31:57 GMT | 7 Ways to Combat Prototype Pollution in Your Applications | Arunangshu Das | [Read More](https://medium.com/p/7a5eb895bf96) |
-| Fri, 07 Nov 2025 03:28:21 GMT | How to Map Technical Requirements in IT Project Management | TaskFord | [Read More](https://medium.com/p/0108c379ba04) |
-| Fri, 07 Nov 2025 03:28:09 GMT | Bug Bounty Hunting — Complete Guide (Part-131) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/41f4d9bfe4c3) |
-| Fri, 07 Nov 2025 03:25:03 GMT | Bug Bounty Hunting — Complete Guide (Part-130) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/9715a26aaa38) |
-| Fri, 07 Nov 2025 03:22:49 GMT | ️ Cybersecurity in the Digital Age: Protecting a World Built on Data | Florin | [Read More](https://medium.com/p/febad390e030) |
-| Fri, 07 Nov 2025 03:21:46 GMT | Bug Bounty Hunting — Complete Guide (Part-129) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/f37b98847ff6) |
-| Fri, 07 Nov 2025 03:17:06 GMT | Zero-Day Vulnerabilities: Understanding and Protecting Against Exploitation | Mainekhacker | [Read More](https://medium.com/p/63707d5aac88) |
-| Fri, 07 Nov 2025 03:15:15 GMT | Why Our Digital Future Hinges on You Paying Attention | Rabail Zaheer | [Read More](https://medium.com/p/c8e2f4826eeb) |
-| Fri, 07 Nov 2025 03:12:14 GMT | I Rendered 50,000 Sprites at 60 FPS (And You Can Too) | Tech With Curly Girl | [Read More](https://medium.com/p/91acd1e18c44) |
-| Fri, 07 Nov 2025 03:10:06 GMT | MPChat Security Thesis: Closing the Analog Loophole | MPChat_Blog | [Read More](https://medium.com/p/89059a3d12f0) |
-| Fri, 07 Nov 2025 03:07:10 GMT | “How are you?” | Kam Alex oni | [Read More](https://medium.com/p/c018697007b7) |
-| Fri, 07 Nov 2025 03:06:21 GMT | SOC Role in Blue Team—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/1e8e833a0fec) |
