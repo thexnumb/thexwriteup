@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 04:30:12 GMT | How to Create a Winning Project Plan for IT Projects [10 Steps Included] | TaskFord | [Read More](https://medium.com/p/ca3c6e4bf56b) |
 | Fri, 07 Nov 2025 04:18:28 GMT | Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request | black | [Read More](https://medium.com/p/7e3bb5883d04) |
 | Fri, 07 Nov 2025 04:17:12 GMT | How I Took Down a Defamatory Website Using OSINT and Reputation Management | Elijah Usani | [Read More](https://medium.com/p/58ab23f5038d) |
 | Fri, 07 Nov 2025 04:13:11 GMT | Why CIA Spies Never Get Detected | Noor Mindset | [Read More](https://medium.com/p/7f297373ab7d) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 06 Nov 2025 19:18:59 GMT | 101 Emerging Effects of Artificial Intelligence in Cybersecurity: Trends, Opportunities, and… | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/b64832616e65) |
 | Thu, 06 Nov 2025 19:13:57 GMT | HTB Bashed — Walkthrough/writeup | Findlay Lewis | [Read More](https://medium.com/p/51dc6366aefa) |
 | Thu, 06 Nov 2025 19:10:07 GMT | SleepyDuck: The Ethereum-Powered Malware That Redefines Command and Control | C. Oscar Lawshea | [Read More](https://medium.com/p/c6d612ff9093) |
-| Thu, 06 Nov 2025 19:07:46 GMT | ⚠️ The One Command That Destroyed My 90K+ YouTube Channel — A Real Hacker Trap You Must Avoid | Gopi C K | [Read More](https://medium.com/p/942793631734) |
