@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 07 Nov 2025 21:11:37 GMT | KODOK: Advanced JavaScript Security Scanner for Bug Bounty Hunters | rhyru9 | [Read More](https://medium.com/p/bfac3d8f3927) |
+| Fri, 07 Nov 2025 21:02:40 GMT | AI Security Research — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/8151aca74958) |
+| Fri, 07 Nov 2025 20:38:30 GMT | How a Weakly Protected WebView and a Deep Link Can Lead to Remote Code Execution (RCE) | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/ee7474141de3) |
 | Fri, 07 Nov 2025 20:18:56 GMT | Lab 5: DOM XSS in jQuery Anchor `href` Attribute Sink Using `location.search` Source | Apexium Technologies Ltd | [Read More](https://medium.com/p/8047333dfff4) |
 | Fri, 07 Nov 2025 20:18:05 GMT | Lab 4 — UNION SQL Injection: Find Text Column & Extract Database Version | Apexium Technologies Ltd | [Read More](https://medium.com/p/bad9803c5c06) |
 | Fri, 07 Nov 2025 20:16:14 GMT | Wazuh: In-Depth Guide to localfile — Configuring Log Collection in Your SIEM System | Pensecfort | [Read More](https://medium.com/p/7ec22e358073) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 14:47:22 GMT | The Future of Technology | Bhuiya Md. Nuraj Tashrif | [Read More](https://medium.com/p/f6d18b108961) |
 | Fri, 07 Nov 2025 14:39:49 GMT | DNS como Pilar Estratégico da Defesa Cibernética Moderna | Giuliano Cardozo | [Read More](https://medium.com/p/689b65f34a19) |
 | Fri, 07 Nov 2025 14:34:12 GMT | What is SYN Flood Attack and how prevent? | hamid mottaghian | [Read More](https://medium.com/p/3ba285e2228c) |
-| Fri, 07 Nov 2025 14:32:42 GMT | Emerging Cyber Threats: Global Highlights from November 1–7, 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/8a333e74ca54) |
-| Fri, 07 Nov 2025 14:32:00 GMT | Getting Started with Sysmon: Installation and Configuration | Little_Sun4lower | [Read More](https://medium.com/p/189b68223a0e) |
-| Fri, 07 Nov 2025 14:22:40 GMT | Iframe Injection — What it is, why it’s dangerous, and how to protect your site | Mohammed | [Read More](https://medium.com/p/e8bee344c25c) |
