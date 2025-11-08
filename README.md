@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 01:14:48 GMT | Hydra: The Ultimate Password Cracking Tool for Penetration Testing | Mr Abdullah | [Read More](https://medium.com/p/dff38f826f94) |
+| Sat, 08 Nov 2025 01:06:55 GMT | The Longest Confession: Why Companionship is the Truest Form of Love | Austi Gene | [Read More](https://medium.com/p/82ed50c50b80) |
+| Sat, 08 Nov 2025 01:01:56 GMT | How TLS/SSL Keeps Your Web Life Secure | Arfat Khan | [Read More](https://medium.com/p/09daabfa89f5) |
+| Sat, 08 Nov 2025 00:53:35 GMT | Dark Web Data Leak: 300 Million Records Exposed in 2025 | Tor BBB | [Read More](https://medium.com/p/a1b24bf8c88a) |
+| Sat, 08 Nov 2025 00:37:34 GMT | When You Thought You Deleted All Your Private Files and Yet Cybercrimals Recovered All Your Private… | David SEHYEON Baek | [Read More](https://medium.com/p/d0495a7e8753) |
+| Sat, 08 Nov 2025 00:31:56 GMT | Confidential Kubernetes — Implementing Confidential Computing in Kubernetes | ThamizhElango Natarajan | [Read More](https://medium.com/p/6b5c6c711601) |
+| Sat, 08 Nov 2025 00:26:06 GMT | Navigating Career Transitions: A Federal Employee’s Guide to Cybersecurity | Nick Pierrelouis | [Read More](https://medium.com/p/3cd69352da57) |
+| Sat, 08 Nov 2025 00:24:53 GMT | In today’s hyperconnected world, cybersecurity is no longer optional — it’s essential. | Transfotech Academy | [Read More](https://medium.com/p/0607fbe1c068) |
+| Sat, 08 Nov 2025 00:22:23 GMT | LetsDefend.io SOC Analyst Learning Path Completed ~ Introduction | Giovanni Isola | [Read More](https://medium.com/p/e427c3cf1f5c) |
+| Sat, 08 Nov 2025 00:12:55 GMT | Hacktivists Hit Canada’s Critical Infrastructure: When Online Mischief Meets Real-World Risk | Kamal Acharya | [Read More](https://medium.com/p/0bd8109e1a6d) |
+| Sat, 08 Nov 2025 00:12:28 GMT | TEE.fail Exposes a New Physical Attack on DDR5 That Breaks Modern TEEs | Kamal Acharya | [Read More](https://medium.com/p/2411d4f769a8) |
+| Sat, 08 Nov 2025 00:02:02 GMT | Advanced Guide to Penetration Testing in APIs (Part 2) Practical Exploitation, Mitigation, and PoC… | JPablo13 | [Read More](https://medium.com/p/140216b8eef3) |
+| Fri, 07 Nov 2025 23:52:32 GMT | Advanced Persistent Threats (APT) on Mobile and Network Systems | Bervice | [Read More](https://medium.com/p/2c1e2a76d1c3) |
+| Fri, 07 Nov 2025 23:44:19 GMT | Disponible el OWASP TOP 10 del 2025 en su versión Release Candidate — ¿Qué cambios se introdujeron? | Tiziano Mass | [Read More](https://medium.com/p/1c84cbc63767) |
 | Fri, 07 Nov 2025 23:28:37 GMT | Mark Yourself As a Certified Hacker! | NnFace | [Read More](https://medium.com/p/c13600813af9) |
 | Fri, 07 Nov 2025 22:43:16 GMT | How AI Empowers Cybercriminals | David SEHYEON Baek | [Read More](https://medium.com/p/1dbffc83134c) |
 | Fri, 07 Nov 2025 22:36:09 GMT | How I Found a MASSIVE XSS Vulnerability on a Karting Site in 10 Minutes | Jackson Mittag | [Read More](https://medium.com/p/06ee7a444b37) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 15:50:32 GMT | My OSED Exam Experience | Morten Hornbech | [Read More](https://medium.com/p/b6566b6bc509) |
 | Fri, 07 Nov 2025 15:49:15 GMT | HTB Challenge: SpeedNet | 0xKholoud | [Read More](https://medium.com/p/ddfa9cc3e7be) |
 | Fri, 07 Nov 2025 15:44:46 GMT | The looming shadow war of artificial intelligence | STR4T0TT0 | [Read More](https://medium.com/p/8e84367f844e) |
-| Fri, 07 Nov 2025 15:42:38 GMT | Building a “Prompt Guard” Chrome Extension — and Hitting a Wall | Akio [あきお] | [Read More](https://medium.com/p/ebd61b396b68) |
-| Fri, 07 Nov 2025 15:42:21 GMT | Is Your Office 365 Setup Secure Enough? Here’s a Guide That Helps | Yasmin | [Read More](https://medium.com/p/1b7e99e689b1) |
-| Fri, 07 Nov 2025 15:41:56 GMT | The Adaptive Cyber-Immunology Framework: An AI Defense Guide | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/0ed7907e9f6b) |
-| Fri, 07 Nov 2025 15:37:01 GMT | Inside Incident Management: How Lean Dev Teams Stay Focused Under Fire | Graylog | [Read More](https://medium.com/p/941e80021a47) |
-| Fri, 07 Nov 2025 15:36:26 GMT | CyberDefenders — Rhysida Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/bc815bac4e8a) |
-| Fri, 07 Nov 2025 15:30:47 GMT | The Fight for AI Safety Is Not Over. It Just Moved. | Miriam Sauter | [Read More](https://medium.com/p/3b7bfd481f65) |
-| Fri, 07 Nov 2025 15:26:41 GMT | Security Hardening Implementation and Troubleshooting | Linux Guide | [Read More](https://medium.com/p/08b2acc9ba3f) |
-| Fri, 07 Nov 2025 15:20:37 GMT | When Giants Slip: How the Washington Post Became Another Victim of the Cl0p–Oracle E‑Business Suite… | eL Njas!™ | [Read More](https://medium.com/p/0c4cd4499362) |
-| Fri, 07 Nov 2025 15:17:00 GMT | Hyundai AutoEver Data Breach Exposes Sensitive Customer Data and SSNs in Massive Cyber Incident | Himanshu Bhatt | [Read More](https://medium.com/p/459cd5c5b21f) |
-| Fri, 07 Nov 2025 15:16:28 GMT | When Love Starts Feeling Like a Reward | Rahul Gupta | [Read More](https://medium.com/p/252676e01a1d) |
-| Fri, 07 Nov 2025 15:12:50 GMT | Governança adaptativa: controle sem travar a inovação | Gustavo Lichti | [Read More](https://medium.com/p/b74a61d07c5f) |
-| Fri, 07 Nov 2025 15:11:42 GMT | Stop Chasing Clients: Build a TaskTag Upload Portal for Easy File Sharing | TaskTag | [Read More](https://medium.com/p/d8bdddf38804) |
-| Fri, 07 Nov 2025 15:09:30 GMT | How to Redirect HTTP to HTTPS in Nginx | VSYS Host | [Read More](https://medium.com/p/97f2efa16fe8) |
-| Fri, 07 Nov 2025 15:07:40 GMT | Why Every Office Network Should Include a PS5: Rethinking Cybersecurity Through Recreational… | Lauri Korpela | [Read More](https://medium.com/p/d62d7bccca2c) |
