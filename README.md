@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 09:13:49 GMT | OWASP TOP 10–2025 | Ajay Yadav | [Read More](https://medium.com/p/efe4f1f27a80) |
 | Sat, 08 Nov 2025 09:07:35 GMT | Inside the Linux Filesystem: The Hidden Architecture Powering Cybersecurity & DevOps | Zoningxtr | [Read More](https://medium.com/p/d34d7d0a0e7d) |
 | Sat, 08 Nov 2025 08:48:10 GMT | Your Phone Knows Too Much — Securing Data in the Age of Smart Devices | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/e0f7a2a01b54) |
 | Sat, 08 Nov 2025 08:46:24 GMT | Ransomware Inc: 5 Shocking Ways Cybercrime Runs Just Like a Tech Startup | Amrik  Hanjra | [Read More](https://medium.com/p/deb7480b3e6a) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 21:43:50 GMT | PYRAMID OF PAİN | someone | [Read More](https://medium.com/p/03a394b23a92) |
 | Fri, 07 Nov 2025 21:36:57 GMT | ¿Qué son las pruebas de caja negra, blanca y gris? | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/901c95c1b22a) |
 | Fri, 07 Nov 2025 21:34:03 GMT | Out in the Open: CVE-2020–28899 Leading to RCE on Zyxel ‘4G Router’ Boxes — An Accidental N-Day… | hacker_might | [Read More](https://medium.com/p/83b3b05ef106) |
-| Fri, 07 Nov 2025 21:23:00 GMT | OWASP Top 10 2025 | ISHII (石井) | [Read More](https://medium.com/p/f94900bc50a3) |
