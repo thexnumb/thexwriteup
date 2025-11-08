@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 16:08:09 GMT | Blueprint Society: Accelerating Private Capital and Transforming Africa’s Future | Blueprint Society Publications | [Read More](https://medium.com/p/75b7069c5aa0) |
+| Sat, 08 Nov 2025 16:02:39 GMT | Securing Your REST APIs: A Complete Guide | Dancanmurithi | [Read More](https://medium.com/p/202b6eccd2e4) |
+| Sat, 08 Nov 2025 16:02:03 GMT | The Interactive Voice Response (IVR) | codebynish | [Read More](https://medium.com/p/728a0a0f3282) |
+| Sat, 08 Nov 2025 15:59:09 GMT | Data Is the New Liability: Why Smart Companies Are Deleting More Than They’re Collecting | BiyteLüm | [Read More](https://medium.com/p/2569d8944fed) |
+| Sat, 08 Nov 2025 15:55:08 GMT | ️ OWASP Top 10: 2025 — The Evolved Battlefield of Web Application Security | Aditya Bhatt | [Read More](https://medium.com/p/4644afde733d) |
+| Sat, 08 Nov 2025 15:45:32 GMT | When the Program Wins and the Researcher Loses: The Subtle Scams Behind Bug Bounties | Gl1tch | [Read More](https://medium.com/p/e2e0f38d80e7) |
+| Sat, 08 Nov 2025 15:39:45 GMT | CSP Mastery: HSTS, HTTPS-Only, and Mixed Content (Series A-4) | Trevor Woollacott | [Read More](https://medium.com/p/641ee271f7a8) |
+| Sat, 08 Nov 2025 15:38:06 GMT | Hire A Hacker The Right Way | Paul Micheal | [Read More](https://medium.com/p/d8b1985e3e88) |
 | Sat, 08 Nov 2025 15:14:05 GMT | A true apology is not words. It is change. | Neon Reverie | [Read More](https://medium.com/p/0b1c8283316f) |
 | Sat, 08 Nov 2025 15:12:59 GMT | From Classical Risk to Quantum Resilience: The Web3 Imperative | QuantZen™ | [Read More](https://medium.com/p/e32f9e86d67e) |
 | Sat, 08 Nov 2025 15:12:28 GMT | A Funny Walkthrough of TryHackMe’s ‘Lookup’ Room | Teapot | [Read More](https://medium.com/p/349c9e341439) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 07:56:55 GMT | DOM XSS in jQuery anchor href attribute —  Cross-site Scripting Lab 5 | Zeyad Naguib | [Read More](https://medium.com/p/61bfaedf7807) |
 | Sat, 08 Nov 2025 07:46:39 GMT | Can AI be Hacked? Understanding the Risks and Defending Your Future | Shivakshi Rawat | [Read More](https://medium.com/p/6c19f67d897c) |
 | Sat, 08 Nov 2025 07:41:31 GMT | Your First ML Notebook: From Data to Prediction in 20 Lines | Abdul Qadir - SQL & AI | [Read More](https://medium.com/p/38572b60ecd1) |
-| Sat, 08 Nov 2025 07:36:50 GMT | The Ultimate Guide to Smart Contract Pentesting | Shady Farouk | [Read More](https://medium.com/p/34ce86ee0412) |
-| Sat, 08 Nov 2025 07:32:05 GMT | The Ultimate Guide to Smart Contract Pentesting | Shady Farouk | [Read More](https://medium.com/p/d80c96601be0) |
-| Sat, 08 Nov 2025 07:11:55 GMT | Mamdani’s Mandate: ‘Give The People What They Want’ | Herbert Dyer, Jr. | [Read More](https://medium.com/p/8151da7d9ff3) |
-| Sat, 08 Nov 2025 07:07:17 GMT | North Korean Actors Deploy “AkdoorTea” Backdoor to Target Crypto Developers Worldwide | Himanshu Bhatt | [Read More](https://medium.com/p/25b190a3b7e2) |
-| Sat, 08 Nov 2025 07:03:03 GMT | Bandit OverTheWire writeup — Level 14 → Level 15 | Dawid Kowalski | [Read More](https://medium.com/p/e2b04746af82) |
-| Sat, 08 Nov 2025 07:02:40 GMT | Bandit OverTheWire writeup — Level 13 → Level 14 | Dawid Kowalski | [Read More](https://medium.com/p/b723da93c9a5) |
-| Sat, 08 Nov 2025 07:02:03 GMT | Bandit OverTheWire writeup — Level 12 → Level 13 | Dawid Kowalski | [Read More](https://medium.com/p/0ba45b600b89) |
-| Sat, 08 Nov 2025 06:50:16 GMT | Master Real-World Web App Enumeration With Curl, Wget, and Bash: Step-By-Step Guide | Very Lazy Tech | [Read More](https://medium.com/p/9f3b45103154) |
