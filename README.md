@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 02:48:13 GMT | I Tested 3 “AI Tools”: A Detector, a Faker, and a Face-checker | Esther Abel | [Read More](https://medium.com/p/5a0c6c43145c) |
+| Sat, 08 Nov 2025 02:21:55 GMT | Strix: The Open-Source AI Pentesting Tool That Hacks Your App Before Attackers Do | Code Coup | [Read More](https://medium.com/p/df6d5d727d1e) |
+| Sat, 08 Nov 2025 02:01:55 GMT | CORS Vulnerability with Trusted Null Origin | Bash Overflow | [Read More](https://medium.com/p/0f9593bd7674) |
+| Sat, 08 Nov 2025 01:49:31 GMT | 86 — SOC141 — Phishing URL Detected — Practice With SOC Alert | Giovanni Isola | [Read More](https://medium.com/p/2b772b43464e) |
+| Sat, 08 Nov 2025 01:43:23 GMT | Zero-Knowledge Architecture: Privacy by Design | Rost Glukhov | [Read More](https://medium.com/p/ba8993fa27d7) |
+| Sat, 08 Nov 2025 01:24:42 GMT | VPN with Dedicated IP in 2025: 5 that give you personal IP | Millie Bobby | [Read More](https://medium.com/p/575ba8331812) |
 | Sat, 08 Nov 2025 01:14:48 GMT | Hydra: The Ultimate Password Cracking Tool for Penetration Testing | Mr Abdullah | [Read More](https://medium.com/p/dff38f826f94) |
 | Sat, 08 Nov 2025 01:06:55 GMT | The Longest Confession: Why Companionship is the Truest Form of Love | Austi Gene | [Read More](https://medium.com/p/82ed50c50b80) |
 | Sat, 08 Nov 2025 01:01:56 GMT | How TLS/SSL Keeps Your Web Life Secure | Arfat Khan | [Read More](https://medium.com/p/09daabfa89f5) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 16:18:21 GMT | Vibe Hacking: The Art of Reconnaissance in Modern Bug Bounty Work | Butrint Komoni | [Read More](https://medium.com/p/2b3aa63e0253) |
 | Fri, 07 Nov 2025 16:15:47 GMT | Why “Cybersecurity” Isn’t a Career (and What to Do If You’ve Applied to Hundreds of Jobs and Heard… | Jeremy Pretty | [Read More](https://medium.com/p/36d716465545) |
 | Fri, 07 Nov 2025 16:04:00 GMT | Cybersecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/81c0acda8556) |
-| Fri, 07 Nov 2025 15:59:22 GMT | Traffic Marshal vs. Security Guard: What’s the Difference? | Jane Tang | [Read More](https://medium.com/p/6edc08ac2f44) |
-| Fri, 07 Nov 2025 15:55:58 GMT | Why 2026 Belongs to Security Virtual Appliances | BuzzClan | [Read More](https://medium.com/p/f697acd7c918) |
-| Fri, 07 Nov 2025 15:50:43 GMT | Beyond the Wall: A Modern Guide to Network Security Fundamentals | Cyberbali | [Read More](https://medium.com/p/c3f715a79f18) |
-| Fri, 07 Nov 2025 15:50:32 GMT | My OSED Exam Experience | Morten Hornbech | [Read More](https://medium.com/p/b6566b6bc509) |
-| Fri, 07 Nov 2025 15:49:15 GMT | HTB Challenge: SpeedNet | 0xKholoud | [Read More](https://medium.com/p/ddfa9cc3e7be) |
-| Fri, 07 Nov 2025 15:44:46 GMT | The looming shadow war of artificial intelligence | STR4T0TT0 | [Read More](https://medium.com/p/8e84367f844e) |
