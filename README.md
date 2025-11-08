@@ -12,10 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 17:07:40 GMT | # BOTSv3 Security Investigation Report | MoFahdel | [Read More](https://medium.com/p/e69446603f6b) |
+| Sat, 08 Nov 2025 17:05:17 GMT | The 1-Minute Leak Triage: Employees vs Customers vs Third Parties | Alexandre Vandamme | [Read More](https://medium.com/p/1fdc3e597d87) |
+| Sat, 08 Nov 2025 17:02:18 GMT | Build a Free Home SOC This Weekend with Sysmon, Sigma & Wazuh — No Licenses, Just Real Detection… | Security Pulse | [Read More](https://medium.com/p/d2179602161d) |
+| Sat, 08 Nov 2025 17:00:50 GMT | Why AI Coding Assistants Are Making You Slower (And What Nobody’s Telling You To Fix It) | Wade Woolwine | [Read More](https://medium.com/p/357be6050db1) |
+| Sat, 08 Nov 2025 17:00:36 GMT | Building Your AI Development Constitution: The Essential Framework | Wade Woolwine | [Read More](https://medium.com/p/0982b4f7cf50) |
+| Sat, 08 Nov 2025 17:00:23 GMT | Mastering AI Development: Multi-Agent Patterns and Production Quality | Wade Woolwine | [Read More](https://medium.com/p/450e2eb21d08) |
+| Sat, 08 Nov 2025 16:59:49 GMT | Back to Basics: The Ontology of Information | Ilexa Yardley | [Read More](https://medium.com/p/1c27829f823b) |
+| Sat, 08 Nov 2025 16:50:29 GMT | Make Your Phone More Secure With These 3 Steps | SteveMC | [Read More](https://medium.com/p/c9daddba112f) |
+| Sat, 08 Nov 2025 16:46:46 GMT | PART 3: Your Supply Chain Survival Guide And a Golden Career Opportunity | Gopi Sri | [Read More](https://medium.com/p/27f977da29c8) |
 | Sat, 08 Nov 2025 16:37:58 GMT | CyCTF qualification 2025: Inception | s0nDOS | [Read More](https://medium.com/p/cdac9d44e968) |
 | Sat, 08 Nov 2025 16:37:51 GMT | Biometric Authentication in Android | Tharuka Thennakoon | [Read More](https://medium.com/p/eddc5f128a45) |
 | Sat, 08 Nov 2025 16:35:51 GMT | ️ VPS Security Hardening Research Report | Mohamed Elkholy | [Read More](https://medium.com/p/1cb82f951b66) |
 | Sat, 08 Nov 2025 16:35:12 GMT | OWASP Top 10 – 2025: The Most Critical Web Application Security Risks | TRH(The room of hackers) | [Read More](https://medium.com/p/b3cc45928454) |
+| Sat, 08 Nov 2025 16:33:27 GMT | Found my first Reflected XSS bug | Shresthaanushka | [Read More](https://medium.com/p/05e5aa090d21) |
 | Sat, 08 Nov 2025 16:31:07 GMT | Top 10 Open-Source Tools Every Cybersecurity Student Should Know | Little_Sun4lower | [Read More](https://medium.com/p/377fc52981b7) |
 | Sat, 08 Nov 2025 16:28:01 GMT | OWASP Top 10:2025 — The New Era of Application Security Risks | Fazal | [Read More](https://medium.com/p/a022c8e44b44) |
 | Sat, 08 Nov 2025 16:27:35 GMT | Reverse Engineering of Fixed-Code Remotes - Flipper Zero Edition | BaudSkidNinja | [Read More](https://medium.com/p/b4f318bb337e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 09:27:24 GMT | Best Cyber Security Training Courses Online in India for 2025 | Shubham Saini | [Read More](https://medium.com/p/acbbc6342d5f) |
 | Sat, 08 Nov 2025 09:13:49 GMT | OWASP TOP 10–2025 | Ajay Yadav | [Read More](https://medium.com/p/efe4f1f27a80) |
 | Sat, 08 Nov 2025 09:07:35 GMT | Inside the Linux Filesystem: The Hidden Architecture Powering Cybersecurity & DevOps | Zoningxtr | [Read More](https://medium.com/p/d34d7d0a0e7d) |
-| Sat, 08 Nov 2025 08:48:10 GMT | Your Phone Knows Too Much — Securing Data in the Age of Smart Devices | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/e0f7a2a01b54) |
-| Sat, 08 Nov 2025 08:46:24 GMT | Ransomware Inc: 5 Shocking Ways Cybercrime Runs Just Like a Tech Startup | Amrik  Hanjra | [Read More](https://medium.com/p/deb7480b3e6a) |
-| Sat, 08 Nov 2025 08:44:02 GMT | HTTP Protocol Deep Dive — The Language of the Web | Satyam Singh | [Read More](https://medium.com/p/bc2d0dd1ca7f) |
-| Sat, 08 Nov 2025 08:43:09 GMT | Bug BouBug Bounty Hunting — Complete Guide (Part-134) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/8f46c465f77c) |
-| Sat, 08 Nov 2025 08:42:58 GMT | Security Bugs Don’t Start in Code — They Start in Assumptions | Odunayo Dada | [Read More](https://medium.com/p/468e16980fb8) |
-| Sat, 08 Nov 2025 08:41:17 GMT | ntBug Bounty Hunting — Complete Guide (Part-133) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/b1afc9d20714) |
-| Sat, 08 Nov 2025 08:39:03 GMT | Bug Bounty Hunting — Complete Guide (Part-132) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/a69ed59bf331) |
-| Sat, 08 Nov 2025 08:29:59 GMT | Securing SkillLink: A Practical Web Application & Network Assessment | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/b07018bbd453) |
-| Sat, 08 Nov 2025 08:27:57 GMT | OWASP Top 10 (2025 Release Candidate): What Every Security Professional Needs to Know | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/7d050a15f087) |
-| Sat, 08 Nov 2025 08:27:15 GMT | What are the foundational principles and evolutionary functions of attachment theory across the… | Guria | [Read More](https://medium.com/p/519f9455dbb7) |
