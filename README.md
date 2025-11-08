@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 20:25:27 GMT | CyCTF “Vault Raider” Android Application | Mohamed_Mamdouh | [Read More](https://medium.com/p/e73858d2529b) |
+| Sat, 08 Nov 2025 20:24:17 GMT | CyCTF “Grand Theft Mobile GTM” Android Application | Mohamed_Mamdouh | [Read More](https://medium.com/p/19c918cc2669) |
+| Sat, 08 Nov 2025 20:21:53 GMT | What If? | Andy Tillman UK | [Read More](https://medium.com/p/382cd851d3a4) |
+| Sat, 08 Nov 2025 20:19:07 GMT | Mastering AppArmor Profiles in Production Environments | Linux Guide | [Read More](https://medium.com/p/f2f4c5d33873) |
 | Sat, 08 Nov 2025 20:13:59 GMT | PortSwigger : Authentication vulnerabilities labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/fa8a054f8e1d) |
 | Sat, 08 Nov 2025 20:09:34 GMT | Episode 4: “The Ghost in the Mesh” | Dr. House In I.T. | [Read More](https://medium.com/p/15bca5ad3fd9) |
 | Sat, 08 Nov 2025 19:55:02 GMT | 10 Phases of Ethical Hacking: Tools, Purpose & Best Practices | Nazrul Islam Rana | [Read More](https://medium.com/p/27981a796360) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 12:53:22 GMT | Linux for Beginners: The Things You Actually Need to Know | Fateyaly | [Read More](https://medium.com/p/ba9de5b0bb57) |
 | Sat, 08 Nov 2025 12:51:02 GMT | HWID Bans Explained: How Hardware ID Bans Shape Gaming Security and Privacy | Pratham Shah | [Read More](https://medium.com/p/541ab0b9b5c0) |
 | Sat, 08 Nov 2025 12:50:08 GMT | Cybersecurity Isn’t Just IT’s Job Anymore | Ashe Sule | [Read More](https://medium.com/p/a685519ee634) |
-| Sat, 08 Nov 2025 12:45:14 GMT | Introduction To SOAR | Priyash  P Prabhu Desai | [Read More](https://medium.com/p/882f87cc2a69) |
-| Sat, 08 Nov 2025 12:42:44 GMT | The Quantum Watchman part 2, IKEA for Spies: The Quantum Watchman Goes Mail-Order | Berend Watchus | [Read More](https://medium.com/p/47107015a858) |
-| Sat, 08 Nov 2025 12:41:23 GMT | DockerLabs Writeup — Apolos (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9bb978b81ee3) |
-| Sat, 08 Nov 2025 12:36:25 GMT | Enforcing Capability Security in Go with Capslock and GitLab CI | Mark Mishaev | [Read More](https://medium.com/p/d6edb4d40e29) |
