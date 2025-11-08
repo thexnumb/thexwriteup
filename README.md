@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 17:30:29 GMT | I Let an AI Browser Control My Life for a Week — Here’s What Actually Happened | Pankaj Kumar | [Read More](https://medium.com/p/e9a24c563466) |
+| Sat, 08 Nov 2025 17:28:57 GMT | Ransomware as a Service: The Business of Digital Extortion | Rashadul Islam | [Read More](https://medium.com/p/b3f6fee7bad0) |
+| Sat, 08 Nov 2025 17:14:53 GMT | How I Found Security Flaws in Bizboost Platform And What We Can Learn From It | Chinedum Udenkwo | [Read More](https://medium.com/p/0106d5488d4d) |
 | Sat, 08 Nov 2025 17:07:40 GMT | # BOTSv3 Security Investigation Report | MoFahdel | [Read More](https://medium.com/p/e69446603f6b) |
 | Sat, 08 Nov 2025 17:05:17 GMT | The 1-Minute Leak Triage: Employees vs Customers vs Third Parties | Alexandre Vandamme | [Read More](https://medium.com/p/1fdc3e597d87) |
 | Sat, 08 Nov 2025 17:02:18 GMT | Build a Free Home SOC This Weekend with Sysmon, Sigma & Wazuh — No Licenses, Just Real Detection… | Security Pulse | [Read More](https://medium.com/p/d2179602161d) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 09:52:10 GMT | Global India Security Services In Jaipur, Rajasthan | Global India Security Services | [Read More](https://medium.com/p/969f3b395c13) |
 | Sat, 08 Nov 2025 09:40:08 GMT | Why the next crypto collapse won’t be about PRICE but about SECURITY | Kiitan | [Read More](https://medium.com/p/c3f4214affc7) |
 | Sat, 08 Nov 2025 09:37:55 GMT | The Red Hat Consulting GitLab Breach 2025- A Wake-Up Call and the New Blueprint for DevSecOps… | Ismail Kovvuru | [Read More](https://medium.com/p/7f6874102cd3) |
-| Sat, 08 Nov 2025 09:27:24 GMT | Best Cyber Security Training Courses Online in India for 2025 | Shubham Saini | [Read More](https://medium.com/p/acbbc6342d5f) |
-| Sat, 08 Nov 2025 09:13:49 GMT | OWASP TOP 10–2025 | Ajay Yadav | [Read More](https://medium.com/p/efe4f1f27a80) |
-| Sat, 08 Nov 2025 09:07:35 GMT | Inside the Linux Filesystem: The Hidden Architecture Powering Cybersecurity & DevOps | Zoningxtr | [Read More](https://medium.com/p/d34d7d0a0e7d) |
