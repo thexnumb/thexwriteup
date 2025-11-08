@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 22:10:05 GMT | LLM CTFs & Challenges | Tal Eliyahu | [Read More](https://medium.com/p/03dd55a9b7e4) |
+| Sat, 08 Nov 2025 22:05:05 GMT | CyCTF 2025 Qualifications Phase | Mahmoud Fawzy | [Read More](https://medium.com/p/0a9be09ecb19) |
+| Sat, 08 Nov 2025 21:55:51 GMT | How can we protect American innovators from Big Industry. | Asolomon | [Read More](https://medium.com/p/20e106635965) |
+| Sat, 08 Nov 2025 21:43:20 GMT | Protective and Support Innovators Initiative | Asolomon | [Read More](https://medium.com/p/4a33d9ce8dd0) |
 | Sat, 08 Nov 2025 21:15:19 GMT | CyCTF25: I Hate Tasks Official Writeup | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/85d1d78b9946) |
 | Sat, 08 Nov 2025 21:14:01 GMT | CTF Challenge Writeup: Flag Checker Reverse Engineering | VampireXRay | [Read More](https://medium.com/p/f528cd6157a4) |
 | Sat, 08 Nov 2025 21:13:55 GMT | Stored XSS via uploaded SVG in group chat | HBlack Ghost | [Read More](https://medium.com/p/b45f182b2e33) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 14:06:39 GMT | Refining Your Ansible Variable Management | Jean Bertro Paul | [Read More](https://medium.com/p/e701b2943f7a) |
 | Sat, 08 Nov 2025 13:49:00 GMT | Week-2 Lab: Misconfigured Writable SMB Shares & Data Exposure | Laura Trafford | [Read More](https://medium.com/p/80c8c4dc476f) |
 | Sat, 08 Nov 2025 13:46:36 GMT | Bug Beauty Manager | Dimitar Vassilev | [Read More](https://medium.com/p/28f9385ac134) |
-| Sat, 08 Nov 2025 13:33:42 GMT | Retro2 VM Walkthrough | Spookz | [Read More](https://medium.com/p/459defe682dd) |
-| Sat, 08 Nov 2025 13:23:42 GMT | A Popcorn Order for Next Year? How a “Small” Date Bug Can Create Big Business Problems. | Abhinandan | [Read More](https://medium.com/p/1b69a5e3c181) |
-| Sat, 08 Nov 2025 13:23:00 GMT | Azure Security Tools | Rudraksh | [Read More](https://medium.com/p/b29cbdda0deb) |
-| Sat, 08 Nov 2025 13:21:30 GMT | The Storm, The Stone and The Scar | Faye Scarlet | [Read More](https://medium.com/p/78061984aff0) |
