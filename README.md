@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 15:12:28 GMT | A Funny Walkthrough of TryHackMe’s ‘Lookup’ Room | Teapot | [Read More](https://medium.com/p/349c9e341439) |
+| Sat, 08 Nov 2025 15:12:08 GMT | 1. What Are Pseudo-Classes and Pseudo-Elements? | Rana Awais | [Read More](https://medium.com/p/e2c820d3dd15) |
+| Sat, 08 Nov 2025 14:58:10 GMT | Siber Güvenliğe Giriş ve Temel Tehditlerin Analizi | Pelin Gülmez | [Read More](https://medium.com/p/3c693c582184) |
+| Sat, 08 Nov 2025 14:52:45 GMT | Shadow Trace TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/fd44562a1a33) |
+| Sat, 08 Nov 2025 14:51:21 GMT | Authentication vulnerabilities | Abdelhamid Elbouz | [Read More](https://medium.com/p/623ba0bd6235) |
+| Sat, 08 Nov 2025 14:29:27 GMT | One Image to Rule Them All: How a Single Photo Hijacked Samsung Phones | Secure Talks | [Read More](https://medium.com/p/093a1bc23b06) |
 | Sat, 08 Nov 2025 14:15:25 GMT | CyCTF 2025 Quals - Web | 0xSOS | [Read More](https://medium.com/p/c65b7ca9d2eb) |
 | Sat, 08 Nov 2025 14:12:04 GMT | Boost Workplace Productivity: How SentryPC Empowers Employers | Paul Meyer | [Read More](https://medium.com/p/097997e0a669) |
 | Sat, 08 Nov 2025 14:12:04 GMT | CyberTalents: Newsletter Walktrhough | Vedant Vartak | [Read More](https://medium.com/p/855b9fccda80) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 06:50:16 GMT | Master Real-World Web App Enumeration With Curl, Wget, and Bash: Step-By-Step Guide | Very Lazy Tech | [Read More](https://medium.com/p/9f3b45103154) |
 | Sat, 08 Nov 2025 06:42:46 GMT | My OSCP Journey | J14L3 | [Read More](https://medium.com/p/da97f0e211bf) |
 | Sat, 08 Nov 2025 06:38:24 GMT | How I Cleared eJPT in Under 5 Hours on My First Attempt! And how You Can Do it Too! | Ayushdutt | [Read More](https://medium.com/p/c9852c817944) |
-| Sat, 08 Nov 2025 06:26:06 GMT | Deep dive into Digital Privacy | Chief Thinker | [Read More](https://medium.com/p/f3cb289fc04b) |
-| Sat, 08 Nov 2025 06:16:11 GMT | The macOS Process Journey — fseventsd (File System Events Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/374522166b04) |
-| Sat, 08 Nov 2025 06:11:56 GMT | Windows 11 Attack Surface Analysis: Practical Guide Using Sysinternals and Microsoft ASA | Ashhadali | [Read More](https://medium.com/p/2dfed91331be) |
-| Sat, 08 Nov 2025 06:10:00 GMT | The npm Supply Chain Breach: When Open Source Becomes a Weapon | Monu Jangra | [Read More](https://medium.com/p/506f0ac61045) |
-| Sat, 08 Nov 2025 06:03:49 GMT | Linux Networking Commands and Static IP Configuration | Adhwaith A S | [Read More](https://medium.com/p/3e688af8a274) |
-| Sat, 08 Nov 2025 06:01:56 GMT | Shadow Risks of GenAI No One Talks About,When bots meet loose guardrails, your data is next. | Quellin | [Read More](https://medium.com/p/82233fe78e82) |
