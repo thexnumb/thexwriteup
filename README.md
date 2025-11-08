@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 23:08:13 GMT | What the 2017 Equifax Data Breach Teaches Us About Cybersecurity | Max Seo | [Read More](https://medium.com/p/5477fc35582c) |
+| Sat, 08 Nov 2025 23:05:25 GMT | Amadey Lab CyberDefenders | Fouad Shaheen | [Read More](https://medium.com/p/a077a85642be) |
+| Sat, 08 Nov 2025 22:56:46 GMT | How to Block and Stop Unwanted Emails | Awais Khan | [Read More](https://medium.com/p/597830027a9e) |
+| Sat, 08 Nov 2025 22:54:57 GMT | The New Front Line: 5 Steps States Must Take to Survive the Current Wave of Public Sector… | CCD-IS | [Read More](https://medium.com/p/0fc134f484da) |
+| Sat, 08 Nov 2025 22:45:01 GMT | CyCTF GTM Challenge: From AES Decoy to JNI Broadcast | Ahmed Alnajjar | [Read More](https://medium.com/p/2a5bd3c7a328) |
+| Sat, 08 Nov 2025 22:43:35 GMT | Slashing & Accountability: Keeping the Chain Clean | Dibby | [Read More](https://medium.com/p/0637cdc654e0) |
+| Sat, 08 Nov 2025 22:38:42 GMT | HTB — Redeemer | Lautaro Robayna | [Read More](https://medium.com/p/a04220376786) |
+| Sat, 08 Nov 2025 22:34:35 GMT | Securing the Connected Future: Navigating IoT Cybersecurity Challenges and Solutions | MadhavNair_312 | [Read More](https://medium.com/p/0ea08af72a54) |
 | Sat, 08 Nov 2025 22:18:05 GMT | The Equifax Breach: Why Blaming One Company Isn’t Enough | Max Seo | [Read More](https://medium.com/p/68c9a6cb203d) |
 | Sat, 08 Nov 2025 22:16:56 GMT | How 17 Fake npm Packages Were Used to Spread Vidar Malware | Prabh | [Read More](https://medium.com/p/fddb914c6696) |
 | Sat, 08 Nov 2025 22:10:05 GMT | LLM CTFs & Challenges | Tal Eliyahu | [Read More](https://medium.com/p/03dd55a9b7e4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 15:12:28 GMT | A Funny Walkthrough of TryHackMe’s ‘Lookup’ Room | Teapot | [Read More](https://medium.com/p/349c9e341439) |
 | Sat, 08 Nov 2025 15:12:08 GMT | 1. What Are Pseudo-Classes and Pseudo-Elements? | Rana Awais | [Read More](https://medium.com/p/e2c820d3dd15) |
 | Sat, 08 Nov 2025 14:58:10 GMT | Siber Güvenliğe Giriş ve Temel Tehditlerin Analizi | Pelin Gülmez | [Read More](https://medium.com/p/3c693c582184) |
-| Sat, 08 Nov 2025 14:52:45 GMT | Shadow Trace TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/fd44562a1a33) |
-| Sat, 08 Nov 2025 14:51:21 GMT | Authentication vulnerabilities | Abdelhamid Elbouz | [Read More](https://medium.com/p/623ba0bd6235) |
-| Sat, 08 Nov 2025 14:29:27 GMT | One Image to Rule Them All: How a Single Photo Hijacked Samsung Phones | Secure Talks | [Read More](https://medium.com/p/093a1bc23b06) |
-| Sat, 08 Nov 2025 14:15:25 GMT | CyCTF 2025 Quals - Web | 0xSOS | [Read More](https://medium.com/p/c65b7ca9d2eb) |
-| Sat, 08 Nov 2025 14:12:04 GMT | Boost Workplace Productivity: How SentryPC Empowers Employers | Paul Meyer | [Read More](https://medium.com/p/097997e0a669) |
-| Sat, 08 Nov 2025 14:12:04 GMT | CyberTalents: Newsletter Walktrhough | Vedant Vartak | [Read More](https://medium.com/p/855b9fccda80) |
-| Sat, 08 Nov 2025 14:12:04 GMT | Day 7 — Broken stream | Siyam | [Read More](https://medium.com/p/88965f6c582b) |
-| Sat, 08 Nov 2025 14:06:39 GMT | Refining Your Ansible Variable Management | Jean Bertro Paul | [Read More](https://medium.com/p/e701b2943f7a) |
