@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 09:07:35 GMT | Inside the Linux Filesystem: The Hidden Architecture Powering Cybersecurity & DevOps | Zoningxtr | [Read More](https://medium.com/p/d34d7d0a0e7d) |
+| Sat, 08 Nov 2025 08:48:10 GMT | Your Phone Knows Too Much — Securing Data in the Age of Smart Devices | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/e0f7a2a01b54) |
+| Sat, 08 Nov 2025 08:46:24 GMT | Ransomware Inc: 5 Shocking Ways Cybercrime Runs Just Like a Tech Startup | Amrik  Hanjra | [Read More](https://medium.com/p/deb7480b3e6a) |
 | Sat, 08 Nov 2025 08:44:02 GMT | HTTP Protocol Deep Dive — The Language of the Web | Satyam Singh | [Read More](https://medium.com/p/bc2d0dd1ca7f) |
+| Sat, 08 Nov 2025 08:43:09 GMT | Bug BouBug Bounty Hunting — Complete Guide (Part-134) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/8f46c465f77c) |
+| Sat, 08 Nov 2025 08:42:58 GMT | Security Bugs Don’t Start in Code — They Start in Assumptions | Odunayo Dada | [Read More](https://medium.com/p/468e16980fb8) |
+| Sat, 08 Nov 2025 08:41:17 GMT | ntBug Bounty Hunting — Complete Guide (Part-133) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/b1afc9d20714) |
+| Sat, 08 Nov 2025 08:39:03 GMT | Bug Bounty Hunting — Complete Guide (Part-132) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/a69ed59bf331) |
 | Sat, 08 Nov 2025 08:29:59 GMT | Securing SkillLink: A Practical Web Application & Network Assessment | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/b07018bbd453) |
 | Sat, 08 Nov 2025 08:27:57 GMT | OWASP Top 10 (2025 Release Candidate): What Every Security Professional Needs to Know | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/7d050a15f087) |
 | Sat, 08 Nov 2025 08:27:15 GMT | What are the foundational principles and evolutionary functions of attachment theory across the… | Guria | [Read More](https://medium.com/p/519f9455dbb7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 21:36:57 GMT | ¿Qué son las pruebas de caja negra, blanca y gris? | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/901c95c1b22a) |
 | Fri, 07 Nov 2025 21:34:03 GMT | Out in the Open: CVE-2020–28899 Leading to RCE on Zyxel ‘4G Router’ Boxes — An Accidental N-Day… | hacker_might | [Read More](https://medium.com/p/83b3b05ef106) |
 | Fri, 07 Nov 2025 21:23:00 GMT | OWASP Top 10 2025 | ISHII (石井) | [Read More](https://medium.com/p/f94900bc50a3) |
-| Fri, 07 Nov 2025 21:21:55 GMT | How ERC-8001 Would Have Prevented the Balancer V2 Exploit | Kwame Bryan | [Read More](https://medium.com/p/70bcbd33470d) |
-| Fri, 07 Nov 2025 21:11:37 GMT | KODOK: Advanced JavaScript Security Scanner for Bug Bounty Hunters | rhyru9 | [Read More](https://medium.com/p/bfac3d8f3927) |
-| Fri, 07 Nov 2025 21:02:40 GMT | AI Security Research — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/8151aca74958) |
-| Fri, 07 Nov 2025 21:01:56 GMT | What is Feroxbuster? | Cybersecplayground | [Read More](https://medium.com/p/fddf5a0ec79e) |
-| Fri, 07 Nov 2025 20:38:30 GMT | How a Weakly Protected WebView and a Deep Link Can Lead to Remote Code Execution (RCE) | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/ee7474141de3) |
-| Fri, 07 Nov 2025 20:18:56 GMT | Lab 5: DOM XSS in jQuery Anchor `href` Attribute Sink Using `location.search` Source | Apexium Technologies Ltd | [Read More](https://medium.com/p/8047333dfff4) |
-| Fri, 07 Nov 2025 20:18:05 GMT | Lab 4 — UNION SQL Injection: Find Text Column & Extract Database Version | Apexium Technologies Ltd | [Read More](https://medium.com/p/bad9803c5c06) |
