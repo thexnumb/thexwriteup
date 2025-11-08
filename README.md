@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 05:08:24 GMT | ️ Hacker Zone: How I Saw Bots, Shut Them Down, and Turned a Client Firewall Into a Trap | SmaRTy | [Read More](https://medium.com/p/90da16975f6b) |
+| Sat, 08 Nov 2025 05:01:33 GMT | There’s Never Been a Better Time to Ditch Windows Permanently for Linux | Ian Barwise | [Read More](https://medium.com/p/41e02b90b55a) |
+| Sat, 08 Nov 2025 04:55:54 GMT | Using Splunk Applications: Pre-Built Security Solutions | Cybersecurity Simplified | [Read More](https://medium.com/p/5b155f52373d) |
+| Sat, 08 Nov 2025 04:41:55 GMT | The Secrets of Cyber Forensics | CybeCloud | [Read More](https://medium.com/p/e9b85b733974) |
 | Sat, 08 Nov 2025 04:38:11 GMT | 25 Essential API Security Tools for Modern Developers and Security Professionals | Sheikh Ayan | [Read More](https://medium.com/p/e4056219d66c) |
 | Sat, 08 Nov 2025 04:26:09 GMT | Learning Fortinet Firewall — LESSON XX: How to Create OU, Users, and Groups on Active Directory… | Rouell Mamaril | [Read More](https://medium.com/p/3b345c19fac6) |
 | Sat, 08 Nov 2025 04:22:18 GMT |  | Nkirusscroll | [Read More](https://medium.com/p/039d82223fe3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 18:00:20 GMT | Inside the Mind of a SOC Analyst: Why SOC Playbooks Is the Ultimate Cyber Defense Companion | Motasem Hamdan | [Read More](https://medium.com/p/1e45e619f064) |
 | Fri, 07 Nov 2025 17:53:52 GMT | The Vulnerability of Early Practice | Zahida Khalid | [Read More](https://medium.com/p/74cc77e11e63) |
 | Fri, 07 Nov 2025 17:48:46 GMT | Phishing Prevention - TryHackMe | 0xRahuL | [Read More](https://medium.com/p/112bcf5fa53d) |
-| Fri, 07 Nov 2025 17:42:25 GMT | Billu_box — VulnHub walkthrough | Vaibhav | [Read More](https://medium.com/p/1301b4da71bd) |
-| Fri, 07 Nov 2025 17:31:58 GMT | Kiba Tryhackme Walkthrough Writeup | Mainekhacker | [Read More](https://medium.com/p/ae577eb5ce41) |
-| Fri, 07 Nov 2025 17:29:41 GMT | eJPT Prep - Assessment Methodologies: Vulnerability Assessment CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/8c3e0b6bef93) |
-| Fri, 07 Nov 2025 17:22:08 GMT | How to Lock a Cabinet Door: Easy Security Options for Any Setup | Sure Lock & Key LLC | [Read More](https://medium.com/p/a788e27413fc) |
