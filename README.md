@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 19:08:13 GMT | Deep Dive into AppArmor Profiles on Linux Systems | Linux Guide | [Read More](https://medium.com/p/6b66616a4ba7) |
+| Sat, 08 Nov 2025 18:57:57 GMT | Building a Futureproof Industrial Network with Single-Pair Ethernet (SPE) | Tamim Ahmmad | [Read More](https://medium.com/p/2b7d5dfb39cc) |
+| Sat, 08 Nov 2025 18:52:26 GMT | Building a Strong Cyber Defense with Reliable Data Security Management in Burtonsville, MD | GoodMKTG | [Read More](https://medium.com/p/598a819ffa2c) |
 | Sat, 08 Nov 2025 18:42:51 GMT | Security Management and Access Policy Configuration | Erdem UÇAK | [Read More](https://medium.com/p/0e0a7069e2c2) |
 | Sat, 08 Nov 2025 18:40:11 GMT | How to bypass UAC in Windows Operating System? (Part — 02) | Sachin Sir | [Read More](https://medium.com/p/e02b6e69ff69) |
 | Sat, 08 Nov 2025 18:38:22 GMT | Integrating Suricata with Wazuh in Windows Server 2025 | Yugal Koju | [Read More](https://medium.com/p/843303dc9c67) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 12:01:56 GMT | Deepfakes, Layoffs, and the New Reality War | Angus Peterson | [Read More](https://medium.com/p/1e39ac50d323) |
 | Sat, 08 Nov 2025 11:59:52 GMT | My Feature on The Good Men Project | Yash Patil | [Read More](https://medium.com/p/ac9990feae0e) |
 | Sat, 08 Nov 2025 11:46:25 GMT | 5 Simple Ways to Protect Your Online Privacy Today | Rishabhrsaini | [Read More](https://medium.com/p/5f46507c8139) |
-| Sat, 08 Nov 2025 11:23:05 GMT | Deconstructing Digital Spies: How I Built an Ethical Context-Aware Logger to Understand the Attack… | Sujal Adhikari | [Read More](https://medium.com/p/42b0d9d861b2) |
-| Sat, 08 Nov 2025 11:18:33 GMT | EKS Moved To containerd, GuardDuty’s Runtime Alert Stayed Behind. Here’s Why That Matters. | Divyanshu | [Read More](https://medium.com/p/4472531d9ddc) |
-| Sat, 08 Nov 2025 11:16:54 GMT | Why AUKUS Just Changed the Rules on AI Governance | AXSAS | [Read More](https://medium.com/p/9ec836344859) |
