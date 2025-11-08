@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 21:14:01 GMT | CTF Challenge Writeup: Flag Checker Reverse Engineering | VampireXRay | [Read More](https://medium.com/p/f528cd6157a4) |
+| Sat, 08 Nov 2025 21:01:44 GMT | صیغه تهران09019170148 صیغه کرج صیغه رباط کریم صیغه حلال شهریار صیغه هشتگرد صیغه دماوند صیغه ورامین… | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/94297c618e7d) |
+| Sat, 08 Nov 2025 20:55:51 GMT | IDOR Part 2 — Advanced Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/ce7f8a7c1df5) |
+| Sat, 08 Nov 2025 20:54:21 GMT | Giveback HTB Writeup | SecurityWalay | [Read More](https://medium.com/p/0fa929451b98) |
+| Sat, 08 Nov 2025 20:54:20 GMT | The Ontological Attack: Data Poisoning and the Epistemological Corruption of AI | Julian Soloninka | [Read More](https://medium.com/p/655099af1066) |
+| Sat, 08 Nov 2025 20:47:16 GMT | Microsoft Defender for Identity Deployment for Domain Controller(s) | OMAR AL-QTAISHAT | [Read More](https://medium.com/p/973aa06d8090) |
+| Sat, 08 Nov 2025 20:41:25 GMT | The Future of Trump’s Relationship with Ukraine | Emma Loeber | [Read More](https://medium.com/p/ecd87597284f) |
 | Sat, 08 Nov 2025 20:25:27 GMT | CyCTF “Vault Raider” Android Application | Mohamed_Mamdouh | [Read More](https://medium.com/p/e73858d2529b) |
 | Sat, 08 Nov 2025 20:24:17 GMT | CyCTF “Grand Theft Mobile GTM” Android Application | Mohamed_Mamdouh | [Read More](https://medium.com/p/19c918cc2669) |
 | Sat, 08 Nov 2025 20:21:53 GMT | What If? | Andy Tillman UK | [Read More](https://medium.com/p/382cd851d3a4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 13:21:30 GMT | The Storm, The Stone and The Scar | Faye Scarlet | [Read More](https://medium.com/p/78061984aff0) |
 | Sat, 08 Nov 2025 13:10:05 GMT | This Tiny Stick Can Do What a $200 Flipper Zero Can’t (If You Know How) | Satyam Pathania | [Read More](https://medium.com/p/8a88c57d95f2) |
 | Sat, 08 Nov 2025 13:10:01 GMT | The Unregulated Global Threat of Commercial Spyware | Ian McIntire | [Read More](https://medium.com/p/1524babe3c89) |
-| Sat, 08 Nov 2025 13:07:25 GMT | The Reasons Why Nearly All Individuals Depart Too Soon | Aliyu Ibrahim | [Read More](https://medium.com/p/b4b960296e0f) |
-| Sat, 08 Nov 2025 13:05:34 GMT | How I Mastered Web Proxies on Hack The Box Academy | Netsec | [Read More](https://medium.com/p/312e4b07ea73) |
-| Sat, 08 Nov 2025 13:03:51 GMT | HubSpot + Microsoft 365 = A Productivity Power Pair | Ashe Sule | [Read More](https://medium.com/p/08c9520e532f) |
-| Sat, 08 Nov 2025 13:00:59 GMT | Why Businesses Are Switching to Cloud VOIP | Ashe Sule | [Read More](https://medium.com/p/2e214cc3dc55) |
-| Sat, 08 Nov 2025 12:53:22 GMT | Linux for Beginners: The Things You Actually Need to Know | Fateyaly | [Read More](https://medium.com/p/ba9de5b0bb57) |
-| Sat, 08 Nov 2025 12:51:02 GMT | HWID Bans Explained: How Hardware ID Bans Shape Gaming Security and Privacy | Pratham Shah | [Read More](https://medium.com/p/541ab0b9b5c0) |
-| Sat, 08 Nov 2025 12:50:08 GMT | Cybersecurity Isn’t Just IT’s Job Anymore | Ashe Sule | [Read More](https://medium.com/p/a685519ee634) |
