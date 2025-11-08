@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 19:27:56 GMT | Breaking Into Cybersecurity: A Practical Certification and Transition Strategy | Nick Pierrelouis, D.Sc. | [Read More](https://medium.com/p/0bdead81f2eb) |
+| Sat, 08 Nov 2025 19:23:37 GMT | Stay Safe Anywhere with a Portable Door Lock | Marc Ford | [Read More](https://medium.com/p/73f159821ea7) |
+| Sat, 08 Nov 2025 19:20:09 GMT | ECDSA-Shamir -Beaver Triples: Understanding MPC by building it Step by Step | Bereket Gebredingle | [Read More](https://medium.com/p/4c946e596b8f) |
+| Sat, 08 Nov 2025 19:17:44 GMT | AWS Security Hub vs Security Hub CSPM: Partners in Protecting Your Cloud Journey | Lingesh B | [Read More](https://medium.com/p/cacd25b64c5d) |
+| Sat, 08 Nov 2025 19:14:55 GMT | How I Used AI to Become Someone Else (And Why Your Face Is No Longer Your Password) | Iski | [Read More](https://medium.com/p/dfd88c254733) |
 | Sat, 08 Nov 2025 19:08:13 GMT | Deep Dive into AppArmor Profiles on Linux Systems | Linux Guide | [Read More](https://medium.com/p/6b66616a4ba7) |
 | Sat, 08 Nov 2025 18:57:57 GMT | Building a Futureproof Industrial Network with Single-Pair Ethernet (SPE) | Tamim Ahmmad | [Read More](https://medium.com/p/2b7d5dfb39cc) |
 | Sat, 08 Nov 2025 18:52:26 GMT | Building a Strong Cyber Defense with Reliable Data Security Management in Burtonsville, MD | GoodMKTG | [Read More](https://medium.com/p/598a819ffa2c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 12:14:30 GMT | Insurance For The Invincible Based on true cybersecurity events told through fiction | O. J. Okpabi | [Read More](https://medium.com/p/f8c59b9694cb) |
 | Sat, 08 Nov 2025 12:07:56 GMT | The Phantom Cashier | O. J. Okpabi | [Read More](https://medium.com/p/c254b3c16fc1) |
 | Sat, 08 Nov 2025 12:07:39 GMT | [3/4] Cycling keys in Azure services with Azure DevOps | Bashkim Isai | [Read More](https://medium.com/p/04546786a4b4) |
-| Sat, 08 Nov 2025 12:07:22 GMT | [2/4] Identifying your active and cycle keys in Azure | Bashkim Isai | [Read More](https://medium.com/p/ddd32d8fbe03) |
-| Sat, 08 Nov 2025 12:06:55 GMT | [1/4] Cycling keys, access tokens and connection strings in your CI/CD pipelines with zero downtime | Bashkim Isai | [Read More](https://medium.com/p/a3f33e996da0) |
-| Sat, 08 Nov 2025 12:01:56 GMT | Deepfakes, Layoffs, and the New Reality War | Angus Peterson | [Read More](https://medium.com/p/1e39ac50d323) |
-| Sat, 08 Nov 2025 11:59:52 GMT | My Feature on The Good Men Project | Yash Patil | [Read More](https://medium.com/p/ac9990feae0e) |
-| Sat, 08 Nov 2025 11:46:25 GMT | 5 Simple Ways to Protect Your Online Privacy Today | Rishabhrsaini | [Read More](https://medium.com/p/5f46507c8139) |
