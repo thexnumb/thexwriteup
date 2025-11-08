@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 10:11:25 GMT | CCTV Installation Services — Secure Your World with Smart Surveillance | Nestrondigitalhub | [Read More](https://medium.com/p/391c52c8982c) |
+| Sat, 08 Nov 2025 10:07:03 GMT | How to Defend Yourself Against Phishing Scams: Tips and Tools | Amit Singh | [Read More](https://medium.com/p/810a0fdf4aec) |
+| Sat, 08 Nov 2025 10:05:56 GMT | For those who believe in me…. | Oluwatosin | [Read More](https://medium.com/p/74b39eeade99) |
+| Sat, 08 Nov 2025 10:03:09 GMT | Capture: A TryHackMe CTF writeup | Huzaifa Malik | [Read More](https://medium.com/p/4a5404600120) |
+| Sat, 08 Nov 2025 09:52:10 GMT | Global India Security Services In Jaipur, Rajasthan | Global India Security Services | [Read More](https://medium.com/p/969f3b395c13) |
+| Sat, 08 Nov 2025 09:40:08 GMT | Why the next crypto collapse won’t be about PRICE but about SECURITY | Kiitan | [Read More](https://medium.com/p/c3f4214affc7) |
+| Sat, 08 Nov 2025 09:37:55 GMT | The Red Hat Consulting GitLab Breach 2025- A Wake-Up Call and the New Blueprint for DevSecOps… | Ismail Kovvuru | [Read More](https://medium.com/p/7f6874102cd3) |
+| Sat, 08 Nov 2025 09:27:24 GMT | Best Cyber Security Training Courses Online in India for 2025 | Shubham Saini | [Read More](https://medium.com/p/acbbc6342d5f) |
 | Sat, 08 Nov 2025 09:13:49 GMT | OWASP TOP 10–2025 | Ajay Yadav | [Read More](https://medium.com/p/efe4f1f27a80) |
 | Sat, 08 Nov 2025 09:07:35 GMT | Inside the Linux Filesystem: The Hidden Architecture Powering Cybersecurity & DevOps | Zoningxtr | [Read More](https://medium.com/p/d34d7d0a0e7d) |
 | Sat, 08 Nov 2025 08:48:10 GMT | Your Phone Knows Too Much — Securing Data in the Age of Smart Devices | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/e0f7a2a01b54) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 22:43:16 GMT | How AI Empowers Cybercriminals | David SEHYEON Baek | [Read More](https://medium.com/p/1dbffc83134c) |
 | Fri, 07 Nov 2025 22:36:09 GMT | How I Found a MASSIVE XSS Vulnerability on a Karting Site in 10 Minutes | Jackson Mittag | [Read More](https://medium.com/p/06ee7a444b37) |
 | Fri, 07 Nov 2025 22:31:54 GMT | When the Internet Stops Feeling Safe | Dominic Medford | [Read More](https://medium.com/p/8bf53986c3e4) |
-| Fri, 07 Nov 2025 22:17:26 GMT | Title: Day 3 of My eJPTv2 Journey: From Recon to Active Scanning | samurai | [Read More](https://medium.com/p/f3269178f9e7) |
-| Fri, 07 Nov 2025 22:03:23 GMT | 78% of API Attacks Happen After Authentication — Here’s Why | Cyber-AppSec | [Read More](https://medium.com/p/d081661728c8) |
-| Fri, 07 Nov 2025 21:56:40 GMT | Eight Bets from 2013: What I Got Right (and Wrong) About Tech’s Next Decade | Richard Northwood | [Read More](https://medium.com/p/4d164fe645a4) |
-| Fri, 07 Nov 2025 21:53:46 GMT | Create Killer Password Wordlists with CUPP — Fast, Targeted Attacks | Jackson Mittag | [Read More](https://medium.com/p/81a30c8ea6fb) |
-| Fri, 07 Nov 2025 21:44:32 GMT | Cybersecurity Skills That Can Make You $100K+ a Year | Liam | [Read More](https://medium.com/p/c2396037500d) |
-| Fri, 07 Nov 2025 21:43:50 GMT | PYRAMID OF PAİN | someone | [Read More](https://medium.com/p/03a394b23a92) |
-| Fri, 07 Nov 2025 21:36:57 GMT | ¿Qué son las pruebas de caja negra, blanca y gris? | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/901c95c1b22a) |
-| Fri, 07 Nov 2025 21:34:03 GMT | Out in the Open: CVE-2020–28899 Leading to RCE on Zyxel ‘4G Router’ Boxes — An Accidental N-Day… | hacker_might | [Read More](https://medium.com/p/83b3b05ef106) |
