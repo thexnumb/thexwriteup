@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 08:44:02 GMT | HTTP Protocol Deep Dive — The Language of the Web | Satyam Singh | [Read More](https://medium.com/p/bc2d0dd1ca7f) |
+| Sat, 08 Nov 2025 08:29:59 GMT | Securing SkillLink: A Practical Web Application & Network Assessment | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/b07018bbd453) |
+| Sat, 08 Nov 2025 08:27:57 GMT | OWASP Top 10 (2025 Release Candidate): What Every Security Professional Needs to Know | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/7d050a15f087) |
+| Sat, 08 Nov 2025 08:27:15 GMT | What are the foundational principles and evolutionary functions of attachment theory across the… | Guria | [Read More](https://medium.com/p/519f9455dbb7) |
+| Sat, 08 Nov 2025 08:25:36 GMT | Cryptojacking in Cybersecurity: Unmasking Hidden Digital Threats | Techzonego | [Read More](https://medium.com/p/7c53cce51882) |
 | Sat, 08 Nov 2025 08:24:10 GMT | How Safe Are Your WhatsApp Chats? | Deepak Sharma | [Read More](https://medium.com/p/bd1d93c9cab4) |
 | Sat, 08 Nov 2025 08:09:29 GMT | Vulnerability Scanning of JARs and Docker Images Using Grype | Swapnil Damate, PMP® | [Read More](https://medium.com/p/ee182864fe3b) |
 | Sat, 08 Nov 2025 08:01:59 GMT | Part IV — Vault Chronicles: Transforming Secrets into Compliance | Raymon Epping | [Read More](https://medium.com/p/3ed9ba575154) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 20:38:30 GMT | How a Weakly Protected WebView and a Deep Link Can Lead to Remote Code Execution (RCE) | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/ee7474141de3) |
 | Fri, 07 Nov 2025 20:18:56 GMT | Lab 5: DOM XSS in jQuery Anchor `href` Attribute Sink Using `location.search` Source | Apexium Technologies Ltd | [Read More](https://medium.com/p/8047333dfff4) |
 | Fri, 07 Nov 2025 20:18:05 GMT | Lab 4 — UNION SQL Injection: Find Text Column & Extract Database Version | Apexium Technologies Ltd | [Read More](https://medium.com/p/bad9803c5c06) |
-| Fri, 07 Nov 2025 20:16:14 GMT | Wazuh: In-Depth Guide to localfile — Configuring Log Collection in Your SIEM System | Pensecfort | [Read More](https://medium.com/p/7ec22e358073) |
-| Fri, 07 Nov 2025 20:14:02 GMT | Firewall Log Analysis Techniques | Dany Christel | [Read More](https://medium.com/p/bf29f3a6ed2e) |
-| Fri, 07 Nov 2025 20:11:59 GMT | From Noise to Signal: A SOC Analyst’s Guide to Alert Triage in Splunk | Furkanctiner | [Read More](https://medium.com/p/b551f1d67010) |
-| Fri, 07 Nov 2025 20:10:04 GMT | Start a Career in IT Security with a Cybersecurity Diploma in Toronto — ABM College Canada | ABM College | [Read More](https://medium.com/p/b2062e1776d8) |
-| Fri, 07 Nov 2025 20:00:07 GMT | Minecraft-Server-RCE-Plugin — an educational (but dangerous) proof-of-concept | AKSHAT SINGH | [Read More](https://medium.com/p/27e727b92a23) |
