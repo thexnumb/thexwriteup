@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 07:32:05 GMT | The Ultimate Guide to Smart Contract Pentesting | Shady Farouk | [Read More](https://medium.com/p/d80c96601be0) |
 | Sat, 08 Nov 2025 07:11:55 GMT | Mamdani’s Mandate: ‘Give The People What They Want’ | Herbert Dyer, Jr. | [Read More](https://medium.com/p/8151da7d9ff3) |
 | Sat, 08 Nov 2025 07:07:17 GMT | North Korean Actors Deploy “AkdoorTea” Backdoor to Target Crypto Developers Worldwide | Himanshu Bhatt | [Read More](https://medium.com/p/25b190a3b7e2) |
 | Sat, 08 Nov 2025 07:03:03 GMT | Bandit OverTheWire writeup — Level 14 → Level 15 | Dawid Kowalski | [Read More](https://medium.com/p/e2b04746af82) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 19:20:05 GMT | ClickFix Attacks Against macOS Users Evolving | IT_Engineer | [Read More](https://medium.com/p/c4732e54c565) |
 | Fri, 07 Nov 2025 19:19:42 GMT | Cybersecurity Begins Here | Raviteja Mureboina | [Read More](https://medium.com/p/7236c8cfcebe) |
 | Fri, 07 Nov 2025 19:14:39 GMT | When AI Becomes a Weapon: I Caught Real-Time Manipulation on Video | Krystal | [Read More](https://medium.com/p/938c2dca391e) |
-| Fri, 07 Nov 2025 19:02:04 GMT | Software Fuzzing: The Cornerstone of Automated Vulnerability Discovery | Suleiman Tawil | [Read More](https://medium.com/p/95aef284cd84) |
