@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 03:33:38 GMT | The House: Children | Kent | [Read More](https://medium.com/p/ba5e304ab7a9) |
+| Sat, 08 Nov 2025 03:33:37 GMT | Cultive sua independência emocional, financeira e pessoal. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/9708f4a1588b) |
+| Sat, 08 Nov 2025 03:30:15 GMT | From Network Engineer to Bug Hunter — Day 1 | Md5Michael | [Read More](https://medium.com/p/3cf1cdbd4900) |
+| Sat, 08 Nov 2025 03:22:11 GMT | Is Your Computer Ageing, or Have You Been Hacked? | K Dada Saheer | [Read More](https://medium.com/p/19f2089651ee) |
+| Sat, 08 Nov 2025 03:18:46 GMT | Modifying GodPotato to Evade Antivirus | lainkusanagi | [Read More](https://medium.com/p/f066aa779cf9) |
+| Sat, 08 Nov 2025 03:07:12 GMT | WhatsApp Introduces Powerful New Security Features to Protect High-Risk Accounts | Android idea | [Read More](https://medium.com/p/5f5adff8f0a4) |
+| Sat, 08 Nov 2025 03:03:14 GMT | Nocturnal HTB Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/8a09d8aeaaf3) |
 | Sat, 08 Nov 2025 02:48:13 GMT | I Tested 3 “AI Tools”: A Detector, a Faker, and a Face-checker | Esther Abel | [Read More](https://medium.com/p/5a0c6c43145c) |
 | Sat, 08 Nov 2025 02:21:55 GMT | Strix: The Open-Source AI Pentesting Tool That Hacks Your App Before Attackers Do | Code Coup | [Read More](https://medium.com/p/df6d5d727d1e) |
 | Sat, 08 Nov 2025 02:01:55 GMT | CORS Vulnerability with Trusted Null Origin | Bash Overflow | [Read More](https://medium.com/p/0f9593bd7674) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 16:48:47 GMT | HTTP Headers You Must Know | Arfat Khan | [Read More](https://medium.com/p/9a6ddbb35646) |
 | Fri, 07 Nov 2025 16:45:50 GMT | The Authorization Circus: Where Security Was the Main Clown | Iski | [Read More](https://medium.com/p/f4b84ca9356f) |
 | Fri, 07 Nov 2025 16:44:22 GMT | The Researcher Vector Is Live and online: Why “Hello, My Name Is…” Triggers Zero-Shot AI Upgrade… | Berend Watchus | [Read More](https://medium.com/p/2589b582d5ac) |
-| Fri, 07 Nov 2025 16:42:03 GMT | The Cybercrime Tsunami | Sipanticinc | [Read More](https://medium.com/p/e6c9369191cb) |
-| Fri, 07 Nov 2025 16:39:50 GMT | Hackers trying to appeal to health and wellness. Fake GLP ad and cycling through Google A | Bob Malin | [Read More](https://medium.com/p/10b2e9d2d939) |
-| Fri, 07 Nov 2025 16:27:57 GMT | CyberUP Institute and the Power of Thinking Like a Hacker | CYBERUP INSTITUTE | [Read More](https://medium.com/p/e0c10c2a7af0) |
-| Fri, 07 Nov 2025 16:24:56 GMT | PART 2: The Digital Pandemic: How 3 Attacks Changed Cybersecurity Forever | Gopi Sri | [Read More](https://medium.com/p/0f984be94e3d) |
-| Fri, 07 Nov 2025 16:18:21 GMT | Vibe Hacking: The Art of Reconnaissance in Modern Bug Bounty Work | Butrint Komoni | [Read More](https://medium.com/p/2b3aa63e0253) |
-| Fri, 07 Nov 2025 16:15:47 GMT | Why “Cybersecurity” Isn’t a Career (and What to Do If You’ve Applied to Hundreds of Jobs and Heard… | Jeremy Pretty | [Read More](https://medium.com/p/36d716465545) |
-| Fri, 07 Nov 2025 16:04:00 GMT | Cybersecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/81c0acda8556) |
