@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 14:15:25 GMT | CyCTF 2025 Quals - Web | 0xSOS | [Read More](https://medium.com/p/c65b7ca9d2eb) |
+| Sat, 08 Nov 2025 14:12:04 GMT | Boost Workplace Productivity: How SentryPC Empowers Employers | Paul Meyer | [Read More](https://medium.com/p/097997e0a669) |
+| Sat, 08 Nov 2025 14:12:04 GMT | CyberTalents: Newsletter Walktrhough | Vedant Vartak | [Read More](https://medium.com/p/855b9fccda80) |
+| Sat, 08 Nov 2025 14:12:04 GMT | Day 7 — Broken stream | Siyam | [Read More](https://medium.com/p/88965f6c582b) |
+| Sat, 08 Nov 2025 14:06:39 GMT | Refining Your Ansible Variable Management | Jean Bertro Paul | [Read More](https://medium.com/p/e701b2943f7a) |
+| Sat, 08 Nov 2025 13:49:00 GMT | Week-2 Lab: Misconfigured Writable SMB Shares & Data Exposure | Laura Trafford | [Read More](https://medium.com/p/80c8c4dc476f) |
+| Sat, 08 Nov 2025 13:46:36 GMT | Bug Beauty Manager | Dimitar Vassilev | [Read More](https://medium.com/p/28f9385ac134) |
 | Sat, 08 Nov 2025 13:33:42 GMT | Retro2 VM Walkthrough | Spookz | [Read More](https://medium.com/p/459defe682dd) |
 | Sat, 08 Nov 2025 13:23:42 GMT | A Popcorn Order for Next Year? How a “Small” Date Bug Can Create Big Business Problems. | Abhinandan | [Read More](https://medium.com/p/1b69a5e3c181) |
 | Sat, 08 Nov 2025 13:23:00 GMT | Azure Security Tools | Rudraksh | [Read More](https://medium.com/p/b29cbdda0deb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 06:10:00 GMT | The npm Supply Chain Breach: When Open Source Becomes a Weapon | Monu Jangra | [Read More](https://medium.com/p/506f0ac61045) |
 | Sat, 08 Nov 2025 06:03:49 GMT | Linux Networking Commands and Static IP Configuration | Adhwaith A S | [Read More](https://medium.com/p/3e688af8a274) |
 | Sat, 08 Nov 2025 06:01:56 GMT | Shadow Risks of GenAI No One Talks About,When bots meet loose guardrails, your data is next. | Quellin | [Read More](https://medium.com/p/82233fe78e82) |
-| Sat, 08 Nov 2025 06:00:11 GMT | Try-Hack-Me challenge walkthrough Bounty Hacker— EasyCTF | Arka Priya Das | [Read More](https://medium.com/p/26f7530ea689) |
-| Sat, 08 Nov 2025 05:58:28 GMT | eJPT Lab Write-Up: Assessment Methodologies: Vulnerability Assessment CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/6461cbf4dccf) |
-| Sat, 08 Nov 2025 05:39:49 GMT | Huntress CTF 2025 Writeups Series: Part 2 | Mahmoud Matar | [Read More](https://medium.com/p/d386201e37df) |
-| Sat, 08 Nov 2025 05:38:59 GMT | Web3 & Ai - Is it possible to get a $1M bounty? | SAFE | [Read More](https://medium.com/p/5b4daf07de79) |
-| Sat, 08 Nov 2025 05:34:26 GMT | ️ How I Finally Understood Windows Security (And Why It Matters for Every IT Career) | Salimassili | [Read More](https://medium.com/p/6182dfb7bb78) |
-| Sat, 08 Nov 2025 05:33:48 GMT | Why Smart People Still Get Phished | CW Fong | [Read More](https://medium.com/p/6d109f86486d) |
-| Sat, 08 Nov 2025 05:18:59 GMT | Start Your Journey in Artificial Intelligence with a PGP in Data Science & AI | Edglobalacademy | [Read More](https://medium.com/p/06c334c61449) |
