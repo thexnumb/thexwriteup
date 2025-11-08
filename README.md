@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 16:37:58 GMT | CyCTF qualification 2025: Inception | s0nDOS | [Read More](https://medium.com/p/cdac9d44e968) |
+| Sat, 08 Nov 2025 16:37:51 GMT | Biometric Authentication in Android | Tharuka Thennakoon | [Read More](https://medium.com/p/eddc5f128a45) |
+| Sat, 08 Nov 2025 16:35:51 GMT | ️ VPS Security Hardening Research Report | Mohamed Elkholy | [Read More](https://medium.com/p/1cb82f951b66) |
+| Sat, 08 Nov 2025 16:35:12 GMT | OWASP Top 10 – 2025: The Most Critical Web Application Security Risks | TRH(The room of hackers) | [Read More](https://medium.com/p/b3cc45928454) |
+| Sat, 08 Nov 2025 16:31:07 GMT | Top 10 Open-Source Tools Every Cybersecurity Student Should Know | Little_Sun4lower | [Read More](https://medium.com/p/377fc52981b7) |
+| Sat, 08 Nov 2025 16:28:01 GMT | OWASP Top 10:2025 — The New Era of Application Security Risks | Fazal | [Read More](https://medium.com/p/a022c8e44b44) |
+| Sat, 08 Nov 2025 16:27:35 GMT | Reverse Engineering of Fixed-Code Remotes - Flipper Zero Edition | BaudSkidNinja | [Read More](https://medium.com/p/b4f318bb337e) |
+| Sat, 08 Nov 2025 16:26:07 GMT | DEADFACE CTF 2025 Write-up for Stolen Secret Series | Prakshit Jain | [Read More](https://medium.com/p/023f87de8853) |
+| Sat, 08 Nov 2025 16:23:35 GMT | How I Got Access To All My Friend’s Data | Raunak Raj | [Read More](https://medium.com/p/a81d50a861fd) |
+| Sat, 08 Nov 2025 16:22:52 GMT | RDP Logins Targeted to Deploy Cephalus Ransomware Across Corporate Networks | Chetan Seripally | [Read More](https://medium.com/p/e44b7ac3c362) |
 | Sat, 08 Nov 2025 16:08:09 GMT | Blueprint Society: Accelerating Private Capital and Transforming Africa’s Future | Blueprint Society Publications | [Read More](https://medium.com/p/75b7069c5aa0) |
 | Sat, 08 Nov 2025 16:02:39 GMT | Securing Your REST APIs: A Complete Guide | Dancanmurithi | [Read More](https://medium.com/p/202b6eccd2e4) |
 | Sat, 08 Nov 2025 16:02:03 GMT | The Interactive Voice Response (IVR) | codebynish | [Read More](https://medium.com/p/728a0a0f3282) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 08:29:59 GMT | Securing SkillLink: A Practical Web Application & Network Assessment | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/b07018bbd453) |
 | Sat, 08 Nov 2025 08:27:57 GMT | OWASP Top 10 (2025 Release Candidate): What Every Security Professional Needs to Know | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/7d050a15f087) |
 | Sat, 08 Nov 2025 08:27:15 GMT | What are the foundational principles and evolutionary functions of attachment theory across the… | Guria | [Read More](https://medium.com/p/519f9455dbb7) |
-| Sat, 08 Nov 2025 08:25:36 GMT | Cryptojacking in Cybersecurity: Unmasking Hidden Digital Threats | Techzonego | [Read More](https://medium.com/p/7c53cce51882) |
-| Sat, 08 Nov 2025 08:24:10 GMT | How Safe Are Your WhatsApp Chats? | Deepak Sharma | [Read More](https://medium.com/p/bd1d93c9cab4) |
-| Sat, 08 Nov 2025 08:09:29 GMT | Vulnerability Scanning of JARs and Docker Images Using Grype | Swapnil Damate, PMP® | [Read More](https://medium.com/p/ee182864fe3b) |
-| Sat, 08 Nov 2025 08:01:59 GMT | Part IV — Vault Chronicles: Transforming Secrets into Compliance | Raymon Epping | [Read More](https://medium.com/p/3ed9ba575154) |
-| Sat, 08 Nov 2025 08:01:58 GMT | That’s Not What I Meant | Łukasz Ratajczak | [Read More](https://medium.com/p/fc5425175eb4) |
-| Sat, 08 Nov 2025 07:59:11 GMT | DOM XSS in innerHTML sink using source location.search — Portswigger Cross-site Scripting Lab 4 | Zeyad Naguib | [Read More](https://medium.com/p/fcff95c92215) |
-| Sat, 08 Nov 2025 07:57:25 GMT | 10 Essential Cybersecurity Tips for Your Digital Life | Samina Perveen | [Read More](https://medium.com/p/4bbc1e5b323a) |
-| Sat, 08 Nov 2025 07:56:55 GMT | DOM XSS in jQuery anchor href attribute —  Cross-site Scripting Lab 5 | Zeyad Naguib | [Read More](https://medium.com/p/61bfaedf7807) |
-| Sat, 08 Nov 2025 07:46:39 GMT | Can AI be Hacked? Understanding the Risks and Defending Your Future | Shivakshi Rawat | [Read More](https://medium.com/p/6c19f67d897c) |
-| Sat, 08 Nov 2025 07:41:31 GMT | Your First ML Notebook: From Data to Prediction in 20 Lines | Abdul Qadir - SQL & AI | [Read More](https://medium.com/p/38572b60ecd1) |
