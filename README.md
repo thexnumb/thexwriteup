@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 18:12:36 GMT | Without the Mask, I Still Want You to Stay | Cam | [Read More](https://medium.com/p/b79a3e123bd6) |
+| Sat, 08 Nov 2025 18:07:59 GMT | When I Tried to Threat Model an AI System… Everything Broke the Rules | Hackwithabhi | [Read More](https://medium.com/p/9b25e496dd47) |
+| Sat, 08 Nov 2025 18:06:06 GMT | The Invisible War: How Cybersecurity Became the New Battlefield of the 21st Century | ACTHEBINOMA GODSTIME | [Read More](https://medium.com/p/5b1aab92dbe2) |
+| Sat, 08 Nov 2025 18:03:16 GMT | The Quiet Importance of Mosquitoes in the Environment | Leona Gray | [Read More](https://medium.com/p/36802eed232d) |
+| Sat, 08 Nov 2025 18:00:58 GMT | Injected #3: Lethal SSRF — Advanced Exploitation Series | Chux | [Read More](https://medium.com/p/f6b17f346c5a) |
+| Sat, 08 Nov 2025 17:58:16 GMT | Secrets Management in DevOps — How to Handle Secrets the Right Way | Arantika Bagewadi | [Read More](https://medium.com/p/b36a24649731) |
+| Sat, 08 Nov 2025 17:52:28 GMT | NahamStore Task 2: Setup Guide — A Beginner-Friendly Walkthrough | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/0617e59a1576) |
+| Sat, 08 Nov 2025 17:52:12 GMT | When AI Becomes the Insider Threat: What Companies Need to Know | Govind K M | [Read More](https://medium.com/p/dbd30c7333de) |
+| Sat, 08 Nov 2025 17:49:43 GMT | The Greenholt Phish - TryHackMe | 0xRahuL | [Read More](https://medium.com/p/39353fa29a7f) |
+| Sat, 08 Nov 2025 17:36:10 GMT | CyCTF - WEB WriteUp | Ahmed Salah | [Read More](https://medium.com/p/3a40b9c9902b) |
 | Sat, 08 Nov 2025 17:30:29 GMT | I Let an AI Browser Control My Life for a Week — Here’s What Actually Happened | Pankaj Kumar | [Read More](https://medium.com/p/e9a24c563466) |
 | Sat, 08 Nov 2025 17:28:57 GMT | Ransomware as a Service: The Business of Digital Extortion | Rashadul Islam | [Read More](https://medium.com/p/b3f6fee7bad0) |
 | Sat, 08 Nov 2025 17:14:53 GMT | How I Found Security Flaws in Bizboost Platform And What We Can Learn From It | Chinedum Udenkwo | [Read More](https://medium.com/p/0106d5488d4d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 10:38:10 GMT | A (one-year-old) video: “Where People Go When They Want to Hack You” | Erkan Saka | [Read More](https://medium.com/p/b673164ee9e2) |
 | Sat, 08 Nov 2025 10:33:24 GMT | Why Most PHP Auth Is a Lie? Use Situation Aware Entry Conditions Instead | Asian Digital Hub | [Read More](https://medium.com/p/ea7fbe264ec5) |
 | Sat, 08 Nov 2025 10:28:57 GMT | Generating Signed URLs for S3-Compatible Buckets | PI | [Read More](https://medium.com/p/9d06a97baecd) |
-| Sat, 08 Nov 2025 10:25:30 GMT | 7 Years of Hacks: The Real Story Behind Crypto’s Biggest Exchange Breaches | Garry | [Read More](https://medium.com/p/3f70bedc27d8) |
-| Sat, 08 Nov 2025 10:18:38 GMT | PRNG vs CSPRNG (rand vs rand.Reader) | Muyiwa-dev | [Read More](https://medium.com/p/37b1d585f556) |
-| Sat, 08 Nov 2025 10:17:40 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/6b736d4c5e80) |
-| Sat, 08 Nov 2025 10:11:25 GMT | CCTV Installation Services — Secure Your World with Smart Surveillance | Nestrondigitalhub | [Read More](https://medium.com/p/391c52c8982c) |
-| Sat, 08 Nov 2025 10:07:03 GMT | How to Defend Yourself Against Phishing Scams: Tips and Tools | Amit Singh | [Read More](https://medium.com/p/810a0fdf4aec) |
-| Sat, 08 Nov 2025 10:05:56 GMT | For those who believe in me…. | Oluwatosin | [Read More](https://medium.com/p/74b39eeade99) |
-| Sat, 08 Nov 2025 10:03:09 GMT | Capture: A TryHackMe CTF writeup | Huzaifa Malik | [Read More](https://medium.com/p/4a5404600120) |
-| Sat, 08 Nov 2025 09:52:10 GMT | Global India Security Services In Jaipur, Rajasthan | Global India Security Services | [Read More](https://medium.com/p/969f3b395c13) |
-| Sat, 08 Nov 2025 09:40:08 GMT | Why the next crypto collapse won’t be about PRICE but about SECURITY | Kiitan | [Read More](https://medium.com/p/c3f4214affc7) |
-| Sat, 08 Nov 2025 09:37:55 GMT | The Red Hat Consulting GitLab Breach 2025- A Wake-Up Call and the New Blueprint for DevSecOps… | Ismail Kovvuru | [Read More](https://medium.com/p/7f6874102cd3) |
