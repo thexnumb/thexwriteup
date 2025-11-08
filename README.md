@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 20:13:59 GMT | PortSwigger : Authentication vulnerabilities labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/fa8a054f8e1d) |
+| Sat, 08 Nov 2025 20:09:34 GMT | Episode 4: “The Ghost in the Mesh” | Dr. House In I.T. | [Read More](https://medium.com/p/15bca5ad3fd9) |
+| Sat, 08 Nov 2025 19:55:02 GMT | 10 Phases of Ethical Hacking: Tools, Purpose & Best Practices | Nazrul Islam Rana | [Read More](https://medium.com/p/27981a796360) |
+| Sat, 08 Nov 2025 19:53:31 GMT | My 111-Day Journey into Cybersecurity: Lessons, Skills, and Growth | Lavindu Rajaguru | [Read More](https://medium.com/p/f511288eba5c) |
+| Sat, 08 Nov 2025 19:46:56 GMT | Maquina THLP — The Hackers Lab | Tomas Martelon | [Read More](https://medium.com/p/fe85dd8ebb87) |
+| Sat, 08 Nov 2025 19:39:29 GMT | Siber Güvenliğin Karantina Odası: Sandbox Nedir ve Neden Önemlidir? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/3eab3c371613) |
+| Sat, 08 Nov 2025 19:31:20 GMT | Doge Lab Write-Up CyCTF - BnHany | BnHany | [Read More](https://medium.com/p/6aa0d8b71170) |
 | Sat, 08 Nov 2025 19:27:56 GMT | Breaking Into Cybersecurity: A Practical Certification and Transition Strategy | Nick Pierrelouis, D.Sc. | [Read More](https://medium.com/p/0bdead81f2eb) |
 | Sat, 08 Nov 2025 19:23:37 GMT | Stay Safe Anywhere with a Portable Door Lock | Marc Ford | [Read More](https://medium.com/p/73f159821ea7) |
 | Sat, 08 Nov 2025 19:20:09 GMT | ECDSA-Shamir -Beaver Triples: Understanding MPC by building it Step by Step | Bereket Gebredingle | [Read More](https://medium.com/p/4c946e596b8f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 12:42:44 GMT | The Quantum Watchman part 2, IKEA for Spies: The Quantum Watchman Goes Mail-Order | Berend Watchus | [Read More](https://medium.com/p/47107015a858) |
 | Sat, 08 Nov 2025 12:41:23 GMT | DockerLabs Writeup — Apolos (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9bb978b81ee3) |
 | Sat, 08 Nov 2025 12:36:25 GMT | Enforcing Capability Security in Go with Capslock and GitLab CI | Mark Mishaev | [Read More](https://medium.com/p/d6edb4d40e29) |
-| Sat, 08 Nov 2025 12:24:40 GMT | # ️ Public Exposure of NASA FTP Credentials in CORAL Document (Resuelto) | Sanrock | [Read More](https://medium.com/p/860a339a0224) |
-| Sat, 08 Nov 2025 12:18:33 GMT | 5 Cybersecurity Tools Every Remote Worker Needs | Anik Mehta | [Read More](https://medium.com/p/358f974aac00) |
-| Sat, 08 Nov 2025 12:18:17 GMT | picoCTF 2022 : Secrets (web exploitation) Medium | Eddyrakotobe | [Read More](https://medium.com/p/65bfd1b5c5b3) |
-| Sat, 08 Nov 2025 12:15:46 GMT | The Threat Modeling Manifesto for Mobile Apps | Ala Deniz | [Read More](https://medium.com/p/e02c9f69769b) |
-| Sat, 08 Nov 2025 12:14:30 GMT | Insurance For The Invincible Based on true cybersecurity events told through fiction | O. J. Okpabi | [Read More](https://medium.com/p/f8c59b9694cb) |
-| Sat, 08 Nov 2025 12:07:56 GMT | The Phantom Cashier | O. J. Okpabi | [Read More](https://medium.com/p/c254b3c16fc1) |
-| Sat, 08 Nov 2025 12:07:39 GMT | [3/4] Cycling keys in Azure services with Azure DevOps | Bashkim Isai | [Read More](https://medium.com/p/04546786a4b4) |
