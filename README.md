@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 13:33:42 GMT | Retro2 VM Walkthrough | Spookz | [Read More](https://medium.com/p/459defe682dd) |
+| Sat, 08 Nov 2025 13:23:42 GMT | A Popcorn Order for Next Year? How a “Small” Date Bug Can Create Big Business Problems. | Abhinandan | [Read More](https://medium.com/p/1b69a5e3c181) |
+| Sat, 08 Nov 2025 13:23:00 GMT | Azure Security Tools | Rudraksh | [Read More](https://medium.com/p/b29cbdda0deb) |
+| Sat, 08 Nov 2025 13:21:30 GMT | The Storm, The Stone and The Scar | Faye Scarlet | [Read More](https://medium.com/p/78061984aff0) |
 | Sat, 08 Nov 2025 13:10:05 GMT | This Tiny Stick Can Do What a $200 Flipper Zero Can’t (If You Know How) | Satyam Pathania | [Read More](https://medium.com/p/8a88c57d95f2) |
 | Sat, 08 Nov 2025 13:10:01 GMT | The Unregulated Global Threat of Commercial Spyware | Ian McIntire | [Read More](https://medium.com/p/1524babe3c89) |
 | Sat, 08 Nov 2025 13:07:25 GMT | The Reasons Why Nearly All Individuals Depart Too Soon | Aliyu Ibrahim | [Read More](https://medium.com/p/b4b960296e0f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 05:34:26 GMT | ️ How I Finally Understood Windows Security (And Why It Matters for Every IT Career) | Salimassili | [Read More](https://medium.com/p/6182dfb7bb78) |
 | Sat, 08 Nov 2025 05:33:48 GMT | Why Smart People Still Get Phished | CW Fong | [Read More](https://medium.com/p/6d109f86486d) |
 | Sat, 08 Nov 2025 05:18:59 GMT | Start Your Journey in Artificial Intelligence with a PGP in Data Science & AI | Edglobalacademy | [Read More](https://medium.com/p/06c334c61449) |
-| Sat, 08 Nov 2025 05:08:24 GMT | ️ Hacker Zone: How I Saw Bots, Shut Them Down, and Turned a Client Firewall Into a Trap | SmaRTy | [Read More](https://medium.com/p/90da16975f6b) |
-| Sat, 08 Nov 2025 05:01:33 GMT | There’s Never Been a Better Time to Ditch Windows Permanently for Linux | Ian Barwise | [Read More](https://medium.com/p/41e02b90b55a) |
-| Sat, 08 Nov 2025 04:55:54 GMT | Using Splunk Applications: Pre-Built Security Solutions | Cybersecurity Simplified | [Read More](https://medium.com/p/5b155f52373d) |
-| Sat, 08 Nov 2025 04:41:55 GMT | The Secrets of Cyber Forensics | CybeCloud | [Read More](https://medium.com/p/e9b85b733974) |
