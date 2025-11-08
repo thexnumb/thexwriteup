@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 08:24:10 GMT | How Safe Are Your WhatsApp Chats? | Deepak Sharma | [Read More](https://medium.com/p/bd1d93c9cab4) |
+| Sat, 08 Nov 2025 08:09:29 GMT | Vulnerability Scanning of JARs and Docker Images Using Grype | Swapnil Damate, PMP® | [Read More](https://medium.com/p/ee182864fe3b) |
+| Sat, 08 Nov 2025 08:01:59 GMT | Part IV — Vault Chronicles: Transforming Secrets into Compliance | Raymon Epping | [Read More](https://medium.com/p/3ed9ba575154) |
+| Sat, 08 Nov 2025 08:01:58 GMT | That’s Not What I Meant | Łukasz Ratajczak | [Read More](https://medium.com/p/fc5425175eb4) |
+| Sat, 08 Nov 2025 07:59:11 GMT | DOM XSS in innerHTML sink using source location.search — Portswigger Cross-site Scripting Lab 4 | Zeyad Naguib | [Read More](https://medium.com/p/fcff95c92215) |
+| Sat, 08 Nov 2025 07:57:25 GMT | 10 Essential Cybersecurity Tips for Your Digital Life | Samina Perveen | [Read More](https://medium.com/p/4bbc1e5b323a) |
+| Sat, 08 Nov 2025 07:56:55 GMT | DOM XSS in jQuery anchor href attribute —  Cross-site Scripting Lab 5 | Zeyad Naguib | [Read More](https://medium.com/p/61bfaedf7807) |
+| Sat, 08 Nov 2025 07:46:39 GMT | Can AI be Hacked? Understanding the Risks and Defending Your Future | Shivakshi Rawat | [Read More](https://medium.com/p/6c19f67d897c) |
+| Sat, 08 Nov 2025 07:41:31 GMT | Your First ML Notebook: From Data to Prediction in 20 Lines | Abdul Qadir - SQL & AI | [Read More](https://medium.com/p/38572b60ecd1) |
+| Sat, 08 Nov 2025 07:36:50 GMT | The Ultimate Guide to Smart Contract Pentesting | Shady Farouk | [Read More](https://medium.com/p/34ce86ee0412) |
 | Sat, 08 Nov 2025 07:32:05 GMT | The Ultimate Guide to Smart Contract Pentesting | Shady Farouk | [Read More](https://medium.com/p/d80c96601be0) |
 | Sat, 08 Nov 2025 07:11:55 GMT | Mamdani’s Mandate: ‘Give The People What They Want’ | Herbert Dyer, Jr. | [Read More](https://medium.com/p/8151da7d9ff3) |
 | Sat, 08 Nov 2025 07:07:17 GMT | North Korean Actors Deploy “AkdoorTea” Backdoor to Target Crypto Developers Worldwide | Himanshu Bhatt | [Read More](https://medium.com/p/25b190a3b7e2) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 20:11:59 GMT | From Noise to Signal: A SOC Analyst’s Guide to Alert Triage in Splunk | Furkanctiner | [Read More](https://medium.com/p/b551f1d67010) |
 | Fri, 07 Nov 2025 20:10:04 GMT | Start a Career in IT Security with a Cybersecurity Diploma in Toronto — ABM College Canada | ABM College | [Read More](https://medium.com/p/b2062e1776d8) |
 | Fri, 07 Nov 2025 20:00:07 GMT | Minecraft-Server-RCE-Plugin — an educational (but dangerous) proof-of-concept | AKSHAT SINGH | [Read More](https://medium.com/p/27e727b92a23) |
-| Fri, 07 Nov 2025 19:56:46 GMT | Cloud AI Security: A Pro’s Field Guide for 2026 Challenges | ToxSec | [Read More](https://medium.com/p/7bcbb4f379c9) |
-| Fri, 07 Nov 2025 19:56:20 GMT | Privacy as a Bounty Vector: GDPR for Higher-Severity Reports | ToxSec | [Read More](https://medium.com/p/595bb616add8) |
-| Fri, 07 Nov 2025 19:43:32 GMT | GitHub Actions vs. Supply Chain Attacks using `pull_request_target` | Darren @ Checkmarx Zero | [Read More](https://medium.com/p/6b1569edf503) |
-| Fri, 07 Nov 2025 19:41:49 GMT | Harnessing the Power of NextAuth.js for Secure Applications | @rnab | [Read More](https://medium.com/p/904f9e6a20f6) |
-| Fri, 07 Nov 2025 19:33:59 GMT | AI Security Reports — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/0a490aafaead) |
-| Fri, 07 Nov 2025 19:30:59 GMT | SQL Injection: The Ultimate Guide To Types, Examples And Coping Strategies! ( 2025 ) | Ceo Defender | [Read More](https://medium.com/p/7cea8a570800) |
-| Fri, 07 Nov 2025 19:24:14 GMT | 5 Simple Security Habits Every Employee Should Know | Cordula Boeck | [Read More](https://medium.com/p/914cfd7c685b) |
-| Fri, 07 Nov 2025 19:20:05 GMT | ClickFix Attacks Against macOS Users Evolving | IT_Engineer | [Read More](https://medium.com/p/c4732e54c565) |
-| Fri, 07 Nov 2025 19:19:42 GMT | Cybersecurity Begins Here | Raviteja Mureboina | [Read More](https://medium.com/p/7236c8cfcebe) |
-| Fri, 07 Nov 2025 19:14:39 GMT | When AI Becomes a Weapon: I Caught Real-Time Manipulation on Video | Krystal | [Read More](https://medium.com/p/938c2dca391e) |
