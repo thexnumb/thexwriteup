@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 22:18:05 GMT | The Equifax Breach: Why Blaming One Company Isn’t Enough | Max Seo | [Read More](https://medium.com/p/68c9a6cb203d) |
+| Sat, 08 Nov 2025 22:16:56 GMT | How 17 Fake npm Packages Were Used to Spread Vidar Malware | Prabh | [Read More](https://medium.com/p/fddb914c6696) |
 | Sat, 08 Nov 2025 22:10:05 GMT | LLM CTFs & Challenges | Tal Eliyahu | [Read More](https://medium.com/p/03dd55a9b7e4) |
 | Sat, 08 Nov 2025 22:05:05 GMT | CyCTF 2025 Qualifications Phase | Mahmoud Fawzy | [Read More](https://medium.com/p/0a9be09ecb19) |
 | Sat, 08 Nov 2025 21:55:51 GMT | How can we protect American innovators from Big Industry. | Asolomon | [Read More](https://medium.com/p/20e106635965) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 14:12:04 GMT | CyberTalents: Newsletter Walktrhough | Vedant Vartak | [Read More](https://medium.com/p/855b9fccda80) |
 | Sat, 08 Nov 2025 14:12:04 GMT | Day 7 — Broken stream | Siyam | [Read More](https://medium.com/p/88965f6c582b) |
 | Sat, 08 Nov 2025 14:06:39 GMT | Refining Your Ansible Variable Management | Jean Bertro Paul | [Read More](https://medium.com/p/e701b2943f7a) |
-| Sat, 08 Nov 2025 13:49:00 GMT | Week-2 Lab: Misconfigured Writable SMB Shares & Data Exposure | Laura Trafford | [Read More](https://medium.com/p/80c8c4dc476f) |
-| Sat, 08 Nov 2025 13:46:36 GMT | Bug Beauty Manager | Dimitar Vassilev | [Read More](https://medium.com/p/28f9385ac134) |
