@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 11:23:05 GMT | Deconstructing Digital Spies: How I Built an Ethical Context-Aware Logger to Understand the Attack… | Sujal Adhikari | [Read More](https://medium.com/p/42b0d9d861b2) |
+| Sat, 08 Nov 2025 11:18:33 GMT | EKS Moved To containerd, GuardDuty’s Runtime Alert Stayed Behind. Here’s Why That Matters. | Divyanshu | [Read More](https://medium.com/p/4472531d9ddc) |
+| Sat, 08 Nov 2025 11:16:54 GMT | Why AUKUS Just Changed the Rules on AI Governance | AXSAS | [Read More](https://medium.com/p/9ec836344859) |
+| Sat, 08 Nov 2025 11:16:38 GMT | The Human Factor in the Age of Deepfake Threat | Entropy0Labs | [Read More](https://medium.com/p/0c1113a8e5c3) |
 | Sat, 08 Nov 2025 11:00:52 GMT | Empowering Businesses with IT Staffing Solutions in Austin, TX | Nataliakatin | [Read More](https://medium.com/p/0dcd3a720510) |
 | Sat, 08 Nov 2025 10:58:13 GMT | Running OWASP Juice Shop on Your Free Google VPS (Cloud Shell) Using Docker | AbdelRhman_Sabry | [Read More](https://medium.com/p/3b64b9ca1725) |
 | Sat, 08 Nov 2025 10:56:03 GMT | From Browser to Azure: The Complete Journey of Your App Request | Sagar Chhabria | [Read More](https://medium.com/p/acf157b119cd) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 01:43:23 GMT | Zero-Knowledge Architecture: Privacy by Design | Rost Glukhov | [Read More](https://medium.com/p/ba8993fa27d7) |
 | Sat, 08 Nov 2025 01:24:42 GMT | VPN with Dedicated IP in 2025: 5 that give you personal IP | Millie Bobby | [Read More](https://medium.com/p/575ba8331812) |
 | Sat, 08 Nov 2025 01:14:48 GMT | Hydra: The Ultimate Password Cracking Tool for Penetration Testing | Mr Abdullah | [Read More](https://medium.com/p/dff38f826f94) |
-| Sat, 08 Nov 2025 01:06:55 GMT | The Longest Confession: Why Companionship is the Truest Form of Love | Austi Gene | [Read More](https://medium.com/p/82ed50c50b80) |
-| Sat, 08 Nov 2025 01:01:56 GMT | How TLS/SSL Keeps Your Web Life Secure | Arfat Khan | [Read More](https://medium.com/p/09daabfa89f5) |
-| Sat, 08 Nov 2025 00:53:35 GMT | Dark Web Data Leak: 300 Million Records Exposed in 2025 | Tor BBB | [Read More](https://medium.com/p/a1b24bf8c88a) |
-| Sat, 08 Nov 2025 00:37:34 GMT | When You Thought You Deleted All Your Private Files and Yet Cybercrimals Recovered All Your Private… | David SEHYEON Baek | [Read More](https://medium.com/p/d0495a7e8753) |
