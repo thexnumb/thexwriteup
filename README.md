@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 23:18:54 GMT | It Takes Two to Tango: | Maretta Morovitz | [Read More](https://medium.com/p/b7e857b4c99d) |
 | Sat, 08 Nov 2025 23:08:13 GMT | What the 2017 Equifax Data Breach Teaches Us About Cybersecurity | Max Seo | [Read More](https://medium.com/p/5477fc35582c) |
 | Sat, 08 Nov 2025 23:05:25 GMT | Amadey Lab CyberDefenders | Fouad Shaheen | [Read More](https://medium.com/p/a077a85642be) |
 | Sat, 08 Nov 2025 22:56:46 GMT | How to Block and Stop Unwanted Emails | Awais Khan | [Read More](https://medium.com/p/597830027a9e) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 15:12:59 GMT | From Classical Risk to Quantum Resilience: The Web3 Imperative | QuantZen™ | [Read More](https://medium.com/p/e32f9e86d67e) |
 | Sat, 08 Nov 2025 15:12:28 GMT | A Funny Walkthrough of TryHackMe’s ‘Lookup’ Room | Teapot | [Read More](https://medium.com/p/349c9e341439) |
 | Sat, 08 Nov 2025 15:12:08 GMT | 1. What Are Pseudo-Classes and Pseudo-Elements? | Rana Awais | [Read More](https://medium.com/p/e2c820d3dd15) |
-| Sat, 08 Nov 2025 14:58:10 GMT | Siber Güvenliğe Giriş ve Temel Tehditlerin Analizi | Pelin Gülmez | [Read More](https://medium.com/p/3c693c582184) |
