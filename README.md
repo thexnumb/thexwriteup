@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 06:38:24 GMT | How I Cleared eJPT in Under 5 Hours on My First Attempt! And how You Can Do it Too! | Ayushdutt | [Read More](https://medium.com/p/c9852c817944) |
+| Sat, 08 Nov 2025 06:26:06 GMT | Deep dive into Digital Privacy | Chief Thinker | [Read More](https://medium.com/p/f3cb289fc04b) |
+| Sat, 08 Nov 2025 06:16:11 GMT | The macOS Process Journey — fseventsd (File System Events Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/374522166b04) |
 | Sat, 08 Nov 2025 06:11:56 GMT | Windows 11 Attack Surface Analysis: Practical Guide Using Sysinternals and Microsoft ASA | Ashhadali | [Read More](https://medium.com/p/2dfed91331be) |
 | Sat, 08 Nov 2025 06:10:00 GMT | The npm Supply Chain Breach: When Open Source Becomes a Weapon | Monu Jangra | [Read More](https://medium.com/p/506f0ac61045) |
 | Sat, 08 Nov 2025 06:03:49 GMT | Linux Networking Commands and Static IP Configuration | Adhwaith A S | [Read More](https://medium.com/p/3e688af8a274) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 18:34:40 GMT | The Power of Courage | Astrid Gracias | [Read More](https://medium.com/p/b2db0ef80663) |
 | Fri, 07 Nov 2025 18:29:52 GMT | You Don’t Have to Be “Somebody Special” to Be a Target | Danielle Koppel | [Read More](https://medium.com/p/758b5807d37c) |
 | Fri, 07 Nov 2025 18:22:40 GMT | How I Simulated a Phishing → Malware → Data-Exfiltration Incident (Lab Report & Lessons Learned) | Fazal | [Read More](https://medium.com/p/16cf71b48b94) |
-| Fri, 07 Nov 2025 18:21:06 GMT | Bugbounty ó demanda por intrusión la línea delgada en LATAM y el error de muchos sysadmins cuando… | Hacking en México | [Read More](https://medium.com/p/f5519ad40b3e) |
-| Fri, 07 Nov 2025 18:18:53 GMT | What Trump’s “Country of Particular Concern” label for Nigeria really means — and how it could hit… | Dayo Ogunrinde | [Read More](https://medium.com/p/dcfed414b009) |
-| Fri, 07 Nov 2025 18:18:37 GMT | 3 Ways To Achieve Concurrency In Python | Harisudhan.S | [Read More](https://medium.com/p/275a39d5cd18) |
