@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 12:36:25 GMT | Enforcing Capability Security in Go with Capslock and GitLab CI | Mark Mishaev | [Read More](https://medium.com/p/d6edb4d40e29) |
+| Sat, 08 Nov 2025 12:24:40 GMT | # ️ Public Exposure of NASA FTP Credentials in CORAL Document (Resuelto) | Sanrock | [Read More](https://medium.com/p/860a339a0224) |
+| Sat, 08 Nov 2025 12:18:33 GMT | 5 Cybersecurity Tools Every Remote Worker Needs | Anik Mehta | [Read More](https://medium.com/p/358f974aac00) |
+| Sat, 08 Nov 2025 12:18:17 GMT | picoCTF 2022 : Secrets (web exploitation) Medium | Eddyrakotobe | [Read More](https://medium.com/p/65bfd1b5c5b3) |
+| Sat, 08 Nov 2025 12:15:46 GMT | The Threat Modeling Manifesto for Mobile Apps | Ala Deniz | [Read More](https://medium.com/p/e02c9f69769b) |
+| Sat, 08 Nov 2025 12:14:30 GMT | Insurance For The Invincible Based on true cybersecurity events told through fiction | O. J. Okpabi | [Read More](https://medium.com/p/f8c59b9694cb) |
+| Sat, 08 Nov 2025 12:07:56 GMT | The Phantom Cashier | O. J. Okpabi | [Read More](https://medium.com/p/c254b3c16fc1) |
+| Sat, 08 Nov 2025 12:07:39 GMT | [3/4] Cycling keys in Azure services with Azure DevOps | Bashkim Isai | [Read More](https://medium.com/p/04546786a4b4) |
+| Sat, 08 Nov 2025 12:07:22 GMT | [2/4] Identifying your active and cycle keys in Azure | Bashkim Isai | [Read More](https://medium.com/p/ddd32d8fbe03) |
+| Sat, 08 Nov 2025 12:06:55 GMT | [1/4] Cycling keys, access tokens and connection strings in your CI/CD pipelines with zero downtime | Bashkim Isai | [Read More](https://medium.com/p/a3f33e996da0) |
+| Sat, 08 Nov 2025 12:01:56 GMT | Deepfakes, Layoffs, and the New Reality War | Angus Peterson | [Read More](https://medium.com/p/1e39ac50d323) |
+| Sat, 08 Nov 2025 11:59:52 GMT | My Feature on The Good Men Project | Yash Patil | [Read More](https://medium.com/p/ac9990feae0e) |
+| Sat, 08 Nov 2025 11:46:25 GMT | 5 Simple Ways to Protect Your Online Privacy Today | Rishabhrsaini | [Read More](https://medium.com/p/5f46507c8139) |
 | Sat, 08 Nov 2025 11:23:05 GMT | Deconstructing Digital Spies: How I Built an Ethical Context-Aware Logger to Understand the Attack… | Sujal Adhikari | [Read More](https://medium.com/p/42b0d9d861b2) |
 | Sat, 08 Nov 2025 11:18:33 GMT | EKS Moved To containerd, GuardDuty’s Runtime Alert Stayed Behind. Here’s Why That Matters. | Divyanshu | [Read More](https://medium.com/p/4472531d9ddc) |
 | Sat, 08 Nov 2025 11:16:54 GMT | Why AUKUS Just Changed the Rules on AI Governance | AXSAS | [Read More](https://medium.com/p/9ec836344859) |
@@ -22,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 10:55:31 GMT | DOM XSS in jQuery selector sink using a hashchange event — PortSwigger Cross-site Scripting Lab 6 | Zeyad Naguib | [Read More](https://medium.com/p/427a6d91ea7a) |
 | Sat, 08 Nov 2025 10:54:53 GMT | Today’s Top Cyber Intelligence Highlights — Nov 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9d4bbd3739fb) |
 | Sat, 08 Nov 2025 10:52:48 GMT | Ethical Hacking Training Institute in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/5a9d41b6481b) |
+| Sat, 08 Nov 2025 10:49:19 GMT | Self-Hosting: My Ultimate Checklist to Harden SSH, the Firewall and Logs | Arnaud Wallon | [Read More](https://medium.com/p/5614bb447251) |
 | Sat, 08 Nov 2025 10:42:57 GMT | I Learned Cybersecurity and Got a $130,000 Job in 8 Months (Starting From Zero) | Lucky Nautiyal | [Read More](https://medium.com/p/ae3772323918) |
 | Sat, 08 Nov 2025 10:38:10 GMT | A (one-year-old) video: “Where People Go When They Want to Hack You” | Erkan Saka | [Read More](https://medium.com/p/b673164ee9e2) |
 | Sat, 08 Nov 2025 10:33:24 GMT | Why Most PHP Auth Is a Lie? Use Situation Aware Entry Conditions Instead | Asian Digital Hub | [Read More](https://medium.com/p/ea7fbe264ec5) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 03:51:34 GMT | As competências mais valiosas para alcançar prosperidade — e aplicáveis em qualquer área — são… | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/0d915d2635b4) |
 | Sat, 08 Nov 2025 03:47:20 GMT | Tornado Cash Volumes Hit Record High as Wallets Linked to Richard Heart Pour $400 Million | idcyrpt | [Read More](https://medium.com/p/9311effe0918) |
 | Sat, 08 Nov 2025 03:42:27 GMT | Tooling and Modern Security Architecture for AI | Chandan Bilvaraj | [Read More](https://medium.com/p/075392dbe412) |
-| Sat, 08 Nov 2025 03:33:38 GMT | The House: Children | Kent | [Read More](https://medium.com/p/ba5e304ab7a9) |
-| Sat, 08 Nov 2025 03:33:37 GMT | Cultive sua independência emocional, financeira e pessoal. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/9708f4a1588b) |
-| Sat, 08 Nov 2025 03:30:15 GMT | From Network Engineer to Bug Hunter — Day 1 | Md5Michael | [Read More](https://medium.com/p/3cf1cdbd4900) |
-| Sat, 08 Nov 2025 03:22:11 GMT | Is Your Computer Ageing, or Have You Been Hacked? | K Dada Saheer | [Read More](https://medium.com/p/19f2089651ee) |
-| Sat, 08 Nov 2025 03:18:46 GMT | Modifying GodPotato to Evade Antivirus | lainkusanagi | [Read More](https://medium.com/p/f066aa779cf9) |
-| Sat, 08 Nov 2025 03:07:12 GMT | WhatsApp Introduces Powerful New Security Features to Protect High-Risk Accounts | Android idea | [Read More](https://medium.com/p/5f5adff8f0a4) |
-| Sat, 08 Nov 2025 03:03:14 GMT | Nocturnal HTB Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/8a09d8aeaaf3) |
-| Sat, 08 Nov 2025 02:48:13 GMT | I Tested 3 “AI Tools”: A Detector, a Faker, and a Face-checker | Esther Abel | [Read More](https://medium.com/p/5a0c6c43145c) |
-| Sat, 08 Nov 2025 02:21:55 GMT | Strix: The Open-Source AI Pentesting Tool That Hacks Your App Before Attackers Do | Code Coup | [Read More](https://medium.com/p/df6d5d727d1e) |
-| Sat, 08 Nov 2025 02:01:55 GMT | CORS Vulnerability with Trusted Null Origin | Bash Overflow | [Read More](https://medium.com/p/0f9593bd7674) |
-| Sat, 08 Nov 2025 01:49:31 GMT | 86 — SOC141 — Phishing URL Detected — Practice With SOC Alert | Giovanni Isola | [Read More](https://medium.com/p/2b772b43464e) |
-| Sat, 08 Nov 2025 01:43:23 GMT | Zero-Knowledge Architecture: Privacy by Design | Rost Glukhov | [Read More](https://medium.com/p/ba8993fa27d7) |
-| Sat, 08 Nov 2025 01:24:42 GMT | VPN with Dedicated IP in 2025: 5 that give you personal IP | Millie Bobby | [Read More](https://medium.com/p/575ba8331812) |
-| Sat, 08 Nov 2025 01:14:48 GMT | Hydra: The Ultimate Password Cracking Tool for Penetration Testing | Mr Abdullah | [Read More](https://medium.com/p/dff38f826f94) |
