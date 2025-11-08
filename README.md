@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 13:10:05 GMT | This Tiny Stick Can Do What a $200 Flipper Zero Can’t (If You Know How) | Satyam Pathania | [Read More](https://medium.com/p/8a88c57d95f2) |
+| Sat, 08 Nov 2025 13:10:01 GMT | The Unregulated Global Threat of Commercial Spyware | Ian McIntire | [Read More](https://medium.com/p/1524babe3c89) |
+| Sat, 08 Nov 2025 13:07:25 GMT | The Reasons Why Nearly All Individuals Depart Too Soon | Aliyu Ibrahim | [Read More](https://medium.com/p/b4b960296e0f) |
+| Sat, 08 Nov 2025 13:05:34 GMT | How I Mastered Web Proxies on Hack The Box Academy | Netsec | [Read More](https://medium.com/p/312e4b07ea73) |
+| Sat, 08 Nov 2025 13:03:51 GMT | HubSpot + Microsoft 365 = A Productivity Power Pair | Ashe Sule | [Read More](https://medium.com/p/08c9520e532f) |
+| Sat, 08 Nov 2025 13:00:59 GMT | Why Businesses Are Switching to Cloud VOIP | Ashe Sule | [Read More](https://medium.com/p/2e214cc3dc55) |
+| Sat, 08 Nov 2025 12:53:22 GMT | Linux for Beginners: The Things You Actually Need to Know | Fateyaly | [Read More](https://medium.com/p/ba9de5b0bb57) |
+| Sat, 08 Nov 2025 12:51:02 GMT | HWID Bans Explained: How Hardware ID Bans Shape Gaming Security and Privacy | Pratham Shah | [Read More](https://medium.com/p/541ab0b9b5c0) |
+| Sat, 08 Nov 2025 12:50:08 GMT | Cybersecurity Isn’t Just IT’s Job Anymore | Ashe Sule | [Read More](https://medium.com/p/a685519ee634) |
+| Sat, 08 Nov 2025 12:45:14 GMT | Introduction To SOAR | Priyash  P Prabhu Desai | [Read More](https://medium.com/p/882f87cc2a69) |
+| Sat, 08 Nov 2025 12:42:44 GMT | The Quantum Watchman part 2, IKEA for Spies: The Quantum Watchman Goes Mail-Order | Berend Watchus | [Read More](https://medium.com/p/47107015a858) |
+| Sat, 08 Nov 2025 12:41:23 GMT | DockerLabs Writeup — Apolos (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9bb978b81ee3) |
 | Sat, 08 Nov 2025 12:36:25 GMT | Enforcing Capability Security in Go with Capslock and GitLab CI | Mark Mishaev | [Read More](https://medium.com/p/d6edb4d40e29) |
 | Sat, 08 Nov 2025 12:24:40 GMT | # ️ Public Exposure of NASA FTP Credentials in CORAL Document (Resuelto) | Sanrock | [Read More](https://medium.com/p/860a339a0224) |
 | Sat, 08 Nov 2025 12:18:33 GMT | 5 Cybersecurity Tools Every Remote Worker Needs | Anik Mehta | [Read More](https://medium.com/p/358f974aac00) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 05:01:33 GMT | There’s Never Been a Better Time to Ditch Windows Permanently for Linux | Ian Barwise | [Read More](https://medium.com/p/41e02b90b55a) |
 | Sat, 08 Nov 2025 04:55:54 GMT | Using Splunk Applications: Pre-Built Security Solutions | Cybersecurity Simplified | [Read More](https://medium.com/p/5b155f52373d) |
 | Sat, 08 Nov 2025 04:41:55 GMT | The Secrets of Cyber Forensics | CybeCloud | [Read More](https://medium.com/p/e9b85b733974) |
-| Sat, 08 Nov 2025 04:38:11 GMT | 25 Essential API Security Tools for Modern Developers and Security Professionals | Sheikh Ayan | [Read More](https://medium.com/p/e4056219d66c) |
-| Sat, 08 Nov 2025 04:26:09 GMT | Learning Fortinet Firewall — LESSON XX: How to Create OU, Users, and Groups on Active Directory… | Rouell Mamaril | [Read More](https://medium.com/p/3b345c19fac6) |
-| Sat, 08 Nov 2025 04:22:18 GMT |  | Nkirusscroll | [Read More](https://medium.com/p/039d82223fe3) |
-| Sat, 08 Nov 2025 04:19:32 GMT | How to Write Secure, Reliable & Scalable Python Scripts for DevOps | Jinal Lathiya | [Read More](https://medium.com/p/69022138a724) |
-| Sat, 08 Nov 2025 04:14:16 GMT | Empowering Digital Trust with Advanced Cybersecurity Monitoring Solutions by AaizelTech | Aaizel Tech | [Read More](https://medium.com/p/7180389bf25a) |
-| Sat, 08 Nov 2025 04:09:51 GMT | From Buzzword to Blueprint: How 3 New Papers Map the Real-World Fight for DevSecOps | Mpandugalang | [Read More](https://medium.com/p/4d703c3539f6) |
-| Sat, 08 Nov 2025 04:05:12 GMT | Who is Scanner Hacker Crypto Recovery and how does it succeed in recovering stolen cryptocurrency… | Nathaniel Jerry | [Read More](https://medium.com/p/51f2145fd701) |
-| Sat, 08 Nov 2025 04:01:57 GMT | MPChat Security Thesis: Beyond the Code (OpSec & User Empowerment) | MPChat_Blog | [Read More](https://medium.com/p/55ca421b90b2) |
-| Sat, 08 Nov 2025 03:58:29 GMT | Why We Hide Behind Perfection | Sandeep Bhan | [Read More](https://medium.com/p/d1677e25f72c) |
-| Sat, 08 Nov 2025 03:51:34 GMT | As competências mais valiosas para alcançar prosperidade — e aplicáveis em qualquer área — são… | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/0d915d2635b4) |
-| Sat, 08 Nov 2025 03:47:20 GMT | Tornado Cash Volumes Hit Record High as Wallets Linked to Richard Heart Pour $400 Million | idcyrpt | [Read More](https://medium.com/p/9311effe0918) |
-| Sat, 08 Nov 2025 03:42:27 GMT | Tooling and Modern Security Architecture for AI | Chandan Bilvaraj | [Read More](https://medium.com/p/075392dbe412) |
