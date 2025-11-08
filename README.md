@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 18:42:51 GMT | Security Management and Access Policy Configuration | Erdem UÇAK | [Read More](https://medium.com/p/0e0a7069e2c2) |
+| Sat, 08 Nov 2025 18:40:11 GMT | How to bypass UAC in Windows Operating System? (Part — 02) | Sachin Sir | [Read More](https://medium.com/p/e02b6e69ff69) |
+| Sat, 08 Nov 2025 18:38:22 GMT | Integrating Suricata with Wazuh in Windows Server 2025 | Yugal Koju | [Read More](https://medium.com/p/843303dc9c67) |
+| Sat, 08 Nov 2025 18:36:00 GMT | Your Invisible File | Derek Niedringhaus | [Read More](https://medium.com/p/f7689a6b5d9c) |
+| Sat, 08 Nov 2025 18:34:37 GMT | LLMs as Cyber Threat Intelligence Assistant | Jakub Kowalski | [Read More](https://medium.com/p/ecc4129e5dfe) |
+| Sat, 08 Nov 2025 18:32:17 GMT | Insecure Direct Object Reference (IDOR) | 0xKishore | [Read More](https://medium.com/p/9c8df8fe8dc5) |
+| Sat, 08 Nov 2025 18:32:07 GMT | To Hack or Not to Hack: What is Cryptojacking? The Threat That Secretly Steals Your CPU | Furkanctiner | [Read More](https://medium.com/p/8f237ee36e00) |
+| Sat, 08 Nov 2025 18:32:04 GMT | Top 5 OSINT Services in 2025: Professional Intelligence Tools in 5 Minutes | Andrey Boing | [Read More](https://medium.com/p/d8ce38fc243a) |
+| Sat, 08 Nov 2025 18:31:37 GMT | When the Internet Sleeps: BitChat — The Offline Messenger That Promises Freedom (and Carries Risks) | TheBitForge | [Read More](https://medium.com/p/a5df5a308158) |
+| Sat, 08 Nov 2025 18:28:25 GMT | BugBounty-IOS | V3locidad | [Read More](https://medium.com/p/2ce599c29a65) |
+| Sat, 08 Nov 2025 18:26:37 GMT | Broken Access Control: Why the OWASP #1 Threat Persists in 2025 | Shaif Ali | [Read More](https://medium.com/p/704d92459e4c) |
+| Sat, 08 Nov 2025 18:24:48 GMT | V. Advanced DNS Palo Alto Networks: Implementação Prática | Giuliano Cardozo | [Read More](https://medium.com/p/9d96fefcd0fd) |
 | Sat, 08 Nov 2025 18:12:36 GMT | Without the Mask, I Still Want You to Stay | Cam | [Read More](https://medium.com/p/b79a3e123bd6) |
 | Sat, 08 Nov 2025 18:07:59 GMT | When I Tried to Threat Model an AI System… Everything Broke the Rules | Hackwithabhi | [Read More](https://medium.com/p/9b25e496dd47) |
 | Sat, 08 Nov 2025 18:06:06 GMT | The Invisible War: How Cybersecurity Became the New Battlefield of the 21st Century | ACTHEBINOMA GODSTIME | [Read More](https://medium.com/p/5b1aab92dbe2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 11:23:05 GMT | Deconstructing Digital Spies: How I Built an Ethical Context-Aware Logger to Understand the Attack… | Sujal Adhikari | [Read More](https://medium.com/p/42b0d9d861b2) |
 | Sat, 08 Nov 2025 11:18:33 GMT | EKS Moved To containerd, GuardDuty’s Runtime Alert Stayed Behind. Here’s Why That Matters. | Divyanshu | [Read More](https://medium.com/p/4472531d9ddc) |
 | Sat, 08 Nov 2025 11:16:54 GMT | Why AUKUS Just Changed the Rules on AI Governance | AXSAS | [Read More](https://medium.com/p/9ec836344859) |
-| Sat, 08 Nov 2025 11:16:38 GMT | The Human Factor in the Age of Deepfake Threat | Entropy0Labs | [Read More](https://medium.com/p/0c1113a8e5c3) |
-| Sat, 08 Nov 2025 11:00:52 GMT | Empowering Businesses with IT Staffing Solutions in Austin, TX | Nataliakatin | [Read More](https://medium.com/p/0dcd3a720510) |
-| Sat, 08 Nov 2025 10:58:13 GMT | Running OWASP Juice Shop on Your Free Google VPS (Cloud Shell) Using Docker | AbdelRhman_Sabry | [Read More](https://medium.com/p/3b64b9ca1725) |
-| Sat, 08 Nov 2025 10:56:03 GMT | From Browser to Azure: The Complete Journey of Your App Request | Sagar Chhabria | [Read More](https://medium.com/p/acf157b119cd) |
-| Sat, 08 Nov 2025 10:55:31 GMT | DOM XSS in jQuery selector sink using a hashchange event — PortSwigger Cross-site Scripting Lab 6 | Zeyad Naguib | [Read More](https://medium.com/p/427a6d91ea7a) |
-| Sat, 08 Nov 2025 10:54:53 GMT | Today’s Top Cyber Intelligence Highlights — Nov 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9d4bbd3739fb) |
-| Sat, 08 Nov 2025 10:52:48 GMT | Ethical Hacking Training Institute in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/5a9d41b6481b) |
-| Sat, 08 Nov 2025 10:49:19 GMT | Self-Hosting: My Ultimate Checklist to Harden SSH, the Firewall and Logs | Arnaud Wallon | [Read More](https://medium.com/p/5614bb447251) |
-| Sat, 08 Nov 2025 10:42:57 GMT | I Learned Cybersecurity and Got a $130,000 Job in 8 Months (Starting From Zero) | Lucky Nautiyal | [Read More](https://medium.com/p/ae3772323918) |
-| Sat, 08 Nov 2025 10:38:10 GMT | A (one-year-old) video: “Where People Go When They Want to Hack You” | Erkan Saka | [Read More](https://medium.com/p/b673164ee9e2) |
-| Sat, 08 Nov 2025 10:33:24 GMT | Why Most PHP Auth Is a Lie? Use Situation Aware Entry Conditions Instead | Asian Digital Hub | [Read More](https://medium.com/p/ea7fbe264ec5) |
-| Sat, 08 Nov 2025 10:28:57 GMT | Generating Signed URLs for S3-Compatible Buckets | PI | [Read More](https://medium.com/p/9d06a97baecd) |
