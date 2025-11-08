@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 21:15:19 GMT | CyCTF25: I Hate Tasks Official Writeup | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/85d1d78b9946) |
 | Sat, 08 Nov 2025 21:14:01 GMT | CTF Challenge Writeup: Flag Checker Reverse Engineering | VampireXRay | [Read More](https://medium.com/p/f528cd6157a4) |
+| Sat, 08 Nov 2025 21:13:55 GMT | Stored XSS via uploaded SVG in group chat | HBlack Ghost | [Read More](https://medium.com/p/b45f182b2e33) |
 | Sat, 08 Nov 2025 21:01:44 GMT | صیغه تهران09019170148 صیغه کرج صیغه رباط کریم صیغه حلال شهریار صیغه هشتگرد صیغه دماوند صیغه ورامین… | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/94297c618e7d) |
 | Sat, 08 Nov 2025 20:55:51 GMT | IDOR Part 2 — Advanced Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/ce7f8a7c1df5) |
 | Sat, 08 Nov 2025 20:54:21 GMT | Giveback HTB Writeup | SecurityWalay | [Read More](https://medium.com/p/0fa929451b98) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 13:23:42 GMT | A Popcorn Order for Next Year? How a “Small” Date Bug Can Create Big Business Problems. | Abhinandan | [Read More](https://medium.com/p/1b69a5e3c181) |
 | Sat, 08 Nov 2025 13:23:00 GMT | Azure Security Tools | Rudraksh | [Read More](https://medium.com/p/b29cbdda0deb) |
 | Sat, 08 Nov 2025 13:21:30 GMT | The Storm, The Stone and The Scar | Faye Scarlet | [Read More](https://medium.com/p/78061984aff0) |
-| Sat, 08 Nov 2025 13:10:05 GMT | This Tiny Stick Can Do What a $200 Flipper Zero Can’t (If You Know How) | Satyam Pathania | [Read More](https://medium.com/p/8a88c57d95f2) |
-| Sat, 08 Nov 2025 13:10:01 GMT | The Unregulated Global Threat of Commercial Spyware | Ian McIntire | [Read More](https://medium.com/p/1524babe3c89) |
