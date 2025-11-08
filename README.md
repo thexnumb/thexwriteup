@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 15:14:05 GMT | A true apology is not words. It is change. | Neon Reverie | [Read More](https://medium.com/p/0b1c8283316f) |
+| Sat, 08 Nov 2025 15:12:59 GMT | From Classical Risk to Quantum Resilience: The Web3 Imperative | QuantZen™ | [Read More](https://medium.com/p/e32f9e86d67e) |
 | Sat, 08 Nov 2025 15:12:28 GMT | A Funny Walkthrough of TryHackMe’s ‘Lookup’ Room | Teapot | [Read More](https://medium.com/p/349c9e341439) |
 | Sat, 08 Nov 2025 15:12:08 GMT | 1. What Are Pseudo-Classes and Pseudo-Elements? | Rana Awais | [Read More](https://medium.com/p/e2c820d3dd15) |
 | Sat, 08 Nov 2025 14:58:10 GMT | Siber Güvenliğe Giriş ve Temel Tehditlerin Analizi | Pelin Gülmez | [Read More](https://medium.com/p/3c693c582184) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 07:02:40 GMT | Bandit OverTheWire writeup — Level 13 → Level 14 | Dawid Kowalski | [Read More](https://medium.com/p/b723da93c9a5) |
 | Sat, 08 Nov 2025 07:02:03 GMT | Bandit OverTheWire writeup — Level 12 → Level 13 | Dawid Kowalski | [Read More](https://medium.com/p/0ba45b600b89) |
 | Sat, 08 Nov 2025 06:50:16 GMT | Master Real-World Web App Enumeration With Curl, Wget, and Bash: Step-By-Step Guide | Very Lazy Tech | [Read More](https://medium.com/p/9f3b45103154) |
-| Sat, 08 Nov 2025 06:42:46 GMT | My OSCP Journey | J14L3 | [Read More](https://medium.com/p/da97f0e211bf) |
-| Sat, 08 Nov 2025 06:38:24 GMT | How I Cleared eJPT in Under 5 Hours on My First Attempt! And how You Can Do it Too! | Ayushdutt | [Read More](https://medium.com/p/c9852c817944) |
