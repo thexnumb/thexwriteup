@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 04:09:51 GMT | From Buzzword to Blueprint: How 3 New Papers Map the Real-World Fight for DevSecOps | Mpandugalang | [Read More](https://medium.com/p/4d703c3539f6) |
+| Sat, 08 Nov 2025 04:05:12 GMT | Who is Scanner Hacker Crypto Recovery and how does it succeed in recovering stolen cryptocurrency… | Nathaniel Jerry | [Read More](https://medium.com/p/51f2145fd701) |
+| Sat, 08 Nov 2025 04:01:57 GMT | MPChat Security Thesis: Beyond the Code (OpSec & User Empowerment) | MPChat_Blog | [Read More](https://medium.com/p/55ca421b90b2) |
+| Sat, 08 Nov 2025 03:58:29 GMT | Why We Hide Behind Perfection | Sandeep Bhan | [Read More](https://medium.com/p/d1677e25f72c) |
+| Sat, 08 Nov 2025 03:47:20 GMT | Tornado Cash Volumes Hit Record High as Wallets Linked to Richard Heart Pour $400 Million | idcyrpt | [Read More](https://medium.com/p/9311effe0918) |
+| Sat, 08 Nov 2025 03:42:27 GMT | Tooling and Modern Security Architecture for AI | Chandan Bilvaraj | [Read More](https://medium.com/p/075392dbe412) |
 | Sat, 08 Nov 2025 03:33:38 GMT | The House: Children | Kent | [Read More](https://medium.com/p/ba5e304ab7a9) |
 | Sat, 08 Nov 2025 03:33:37 GMT | Cultive sua independência emocional, financeira e pessoal. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/9708f4a1588b) |
 | Sat, 08 Nov 2025 03:30:15 GMT | From Network Engineer to Bug Hunter — Day 1 | Md5Michael | [Read More](https://medium.com/p/3cf1cdbd4900) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 17:03:30 GMT | From Code to Command & Control: What I Learned Creating a Stealthy C++ Data Exfiltration Tool | Fajrjauharkk | [Read More](https://medium.com/p/1a1f4ed62bad) |
 | Fri, 07 Nov 2025 16:56:30 GMT | Overview Of Dropshipping | Knightjenny | [Read More](https://medium.com/p/d782911bc519) |
 | Fri, 07 Nov 2025 16:55:43 GMT | The Cybersecurity Habits That Changed My Career Forever | Taimur Ijlal | [Read More](https://medium.com/p/6e7a257f8d94) |
-| Fri, 07 Nov 2025 16:52:51 GMT | The Masks I Wore to Stay Safe | Andy Tillman UK | [Read More](https://medium.com/p/c8f30988c5ce) |
-| Fri, 07 Nov 2025 16:52:31 GMT | Web Zafiyetleri Serisi #9 | Didem Kış | [Read More](https://medium.com/p/732f744db68f) |
-| Fri, 07 Nov 2025 16:50:23 GMT | Hired to Write Pretty Prose. Accidentally Built a Revenue Machine. | Sophiaqureshi | [Read More](https://medium.com/p/e0e794dfb24f) |
-| Fri, 07 Nov 2025 16:48:47 GMT | HTTP Headers You Must Know | Arfat Khan | [Read More](https://medium.com/p/9a6ddbb35646) |
-| Fri, 07 Nov 2025 16:45:50 GMT | The Authorization Circus: Where Security Was the Main Clown | Iski | [Read More](https://medium.com/p/f4b84ca9356f) |
-| Fri, 07 Nov 2025 16:44:22 GMT | The Researcher Vector Is Live and online: Why “Hello, My Name Is…” Triggers Zero-Shot AI Upgrade… | Berend Watchus | [Read More](https://medium.com/p/2589b582d5ac) |
