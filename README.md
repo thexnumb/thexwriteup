@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 05:39:49 GMT | Huntress CTF 2025 Writeups Series: Part 2 | Mahmoud Matar | [Read More](https://medium.com/p/d386201e37df) |
+| Sat, 08 Nov 2025 05:34:26 GMT | ️ How I Finally Understood Windows Security (And Why It Matters for Every IT Career) | Salimassili | [Read More](https://medium.com/p/6182dfb7bb78) |
+| Sat, 08 Nov 2025 05:33:48 GMT | Why Smart People Still Get Phished | CW Fong | [Read More](https://medium.com/p/6d109f86486d) |
+| Sat, 08 Nov 2025 05:18:59 GMT | Start Your Journey in Artificial Intelligence with a PGP in Data Science & AI | Edglobalacademy | [Read More](https://medium.com/p/06c334c61449) |
 | Sat, 08 Nov 2025 05:08:24 GMT | ️ Hacker Zone: How I Saw Bots, Shut Them Down, and Turned a Client Firewall Into a Trap | SmaRTy | [Read More](https://medium.com/p/90da16975f6b) |
 | Sat, 08 Nov 2025 05:01:33 GMT | There’s Never Been a Better Time to Ditch Windows Permanently for Linux | Ian Barwise | [Read More](https://medium.com/p/41e02b90b55a) |
 | Sat, 08 Nov 2025 04:55:54 GMT | Using Splunk Applications: Pre-Built Security Solutions | Cybersecurity Simplified | [Read More](https://medium.com/p/5b155f52373d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 18:02:07 GMT | AI vs. Hackers, Round One | Bhagya Rana | [Read More](https://medium.com/p/f018c225b029) |
 | Fri, 07 Nov 2025 18:02:06 GMT | Cybersecurity Jumpstart: 7 Projects to Prove Your Skills | Modexa | [Read More](https://medium.com/p/d7dbba27e98b) |
 | Fri, 07 Nov 2025 18:02:06 GMT | XDR’s Moment: Why It’s the Next Big Thing | Syntal | [Read More](https://medium.com/p/870d396f85a6) |
-| Fri, 07 Nov 2025 18:01:36 GMT | Cybersecurity News Review — Week 45 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/015f92ae7d39) |
-| Fri, 07 Nov 2025 18:00:20 GMT | Inside the Mind of a SOC Analyst: Why SOC Playbooks Is the Ultimate Cyber Defense Companion | Motasem Hamdan | [Read More](https://medium.com/p/1e45e619f064) |
-| Fri, 07 Nov 2025 17:53:52 GMT | The Vulnerability of Early Practice | Zahida Khalid | [Read More](https://medium.com/p/74cc77e11e63) |
-| Fri, 07 Nov 2025 17:48:46 GMT | Phishing Prevention - TryHackMe | 0xRahuL | [Read More](https://medium.com/p/112bcf5fa53d) |
