@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 11:00:52 GMT | Empowering Businesses with IT Staffing Solutions in Austin, TX | Nataliakatin | [Read More](https://medium.com/p/0dcd3a720510) |
+| Sat, 08 Nov 2025 10:58:13 GMT | Running OWASP Juice Shop on Your Free Google VPS (Cloud Shell) Using Docker | AbdelRhman_Sabry | [Read More](https://medium.com/p/3b64b9ca1725) |
+| Sat, 08 Nov 2025 10:56:03 GMT | From Browser to Azure: The Complete Journey of Your App Request | Sagar Chhabria | [Read More](https://medium.com/p/acf157b119cd) |
+| Sat, 08 Nov 2025 10:55:31 GMT | DOM XSS in jQuery selector sink using a hashchange event — PortSwigger Cross-site Scripting Lab 6 | Zeyad Naguib | [Read More](https://medium.com/p/427a6d91ea7a) |
+| Sat, 08 Nov 2025 10:54:53 GMT | Today’s Top Cyber Intelligence Highlights — Nov 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9d4bbd3739fb) |
+| Sat, 08 Nov 2025 10:52:48 GMT | Ethical Hacking Training Institute in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/5a9d41b6481b) |
+| Sat, 08 Nov 2025 10:42:57 GMT | I Learned Cybersecurity and Got a $130,000 Job in 8 Months (Starting From Zero) | Lucky Nautiyal | [Read More](https://medium.com/p/ae3772323918) |
+| Sat, 08 Nov 2025 10:38:10 GMT | A (one-year-old) video: “Where People Go When They Want to Hack You” | Erkan Saka | [Read More](https://medium.com/p/b673164ee9e2) |
 | Sat, 08 Nov 2025 10:33:24 GMT | Why Most PHP Auth Is a Lie? Use Situation Aware Entry Conditions Instead | Asian Digital Hub | [Read More](https://medium.com/p/ea7fbe264ec5) |
+| Sat, 08 Nov 2025 10:28:57 GMT | Generating Signed URLs for S3-Compatible Buckets | PI | [Read More](https://medium.com/p/9d06a97baecd) |
 | Sat, 08 Nov 2025 10:25:30 GMT | 7 Years of Hacks: The Real Story Behind Crypto’s Biggest Exchange Breaches | Garry | [Read More](https://medium.com/p/3f70bedc27d8) |
 | Sat, 08 Nov 2025 10:18:38 GMT | PRNG vs CSPRNG (rand vs rand.Reader) | Muyiwa-dev | [Read More](https://medium.com/p/37b1d585f556) |
 | Sat, 08 Nov 2025 10:17:40 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/6b736d4c5e80) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 01:01:56 GMT | How TLS/SSL Keeps Your Web Life Secure | Arfat Khan | [Read More](https://medium.com/p/09daabfa89f5) |
 | Sat, 08 Nov 2025 00:53:35 GMT | Dark Web Data Leak: 300 Million Records Exposed in 2025 | Tor BBB | [Read More](https://medium.com/p/a1b24bf8c88a) |
 | Sat, 08 Nov 2025 00:37:34 GMT | When You Thought You Deleted All Your Private Files and Yet Cybercrimals Recovered All Your Private… | David SEHYEON Baek | [Read More](https://medium.com/p/d0495a7e8753) |
-| Sat, 08 Nov 2025 00:31:56 GMT | Confidential Kubernetes — Implementing Confidential Computing in Kubernetes | ThamizhElango Natarajan | [Read More](https://medium.com/p/6b5c6c711601) |
-| Sat, 08 Nov 2025 00:26:06 GMT | Navigating Career Transitions: A Federal Employee’s Guide to Cybersecurity | Nick Pierrelouis | [Read More](https://medium.com/p/3cd69352da57) |
-| Sat, 08 Nov 2025 00:24:53 GMT | In today’s hyperconnected world, cybersecurity is no longer optional — it’s essential. | Transfotech Academy | [Read More](https://medium.com/p/0607fbe1c068) |
-| Sat, 08 Nov 2025 00:22:23 GMT | LetsDefend.io SOC Analyst Learning Path Completed ~ Introduction | Giovanni Isola | [Read More](https://medium.com/p/e427c3cf1f5c) |
-| Sat, 08 Nov 2025 00:12:55 GMT | Hacktivists Hit Canada’s Critical Infrastructure: When Online Mischief Meets Real-World Risk | Kamal Acharya | [Read More](https://medium.com/p/0bd8109e1a6d) |
-| Sat, 08 Nov 2025 00:12:28 GMT | TEE.fail Exposes a New Physical Attack on DDR5 That Breaks Modern TEEs | Kamal Acharya | [Read More](https://medium.com/p/2411d4f769a8) |
-| Sat, 08 Nov 2025 00:02:02 GMT | Advanced Guide to Penetration Testing in APIs (Part 2) Practical Exploitation, Mitigation, and PoC… | JPablo13 | [Read More](https://medium.com/p/140216b8eef3) |
-| Fri, 07 Nov 2025 23:52:32 GMT | Advanced Persistent Threats (APT) on Mobile and Network Systems | Bervice | [Read More](https://medium.com/p/2c1e2a76d1c3) |
-| Fri, 07 Nov 2025 23:44:19 GMT | Disponible el OWASP TOP 10 del 2025 en su versión Release Candidate — ¿Qué cambios se introdujeron? | Tiziano Mass | [Read More](https://medium.com/p/1c84cbc63767) |
