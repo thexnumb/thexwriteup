@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 04:38:11 GMT | 25 Essential API Security Tools for Modern Developers and Security Professionals | Sheikh Ayan | [Read More](https://medium.com/p/e4056219d66c) |
+| Sat, 08 Nov 2025 04:26:09 GMT | Learning Fortinet Firewall — LESSON XX: How to Create OU, Users, and Groups on Active Directory… | Rouell Mamaril | [Read More](https://medium.com/p/3b345c19fac6) |
+| Sat, 08 Nov 2025 04:22:18 GMT |  | Nkirusscroll | [Read More](https://medium.com/p/039d82223fe3) |
+| Sat, 08 Nov 2025 04:19:32 GMT | How to Write Secure, Reliable & Scalable Python Scripts for DevOps | Jinal Lathiya | [Read More](https://medium.com/p/69022138a724) |
+| Sat, 08 Nov 2025 04:14:16 GMT | Empowering Digital Trust with Advanced Cybersecurity Monitoring Solutions by AaizelTech | Aaizel Tech | [Read More](https://medium.com/p/7180389bf25a) |
 | Sat, 08 Nov 2025 04:09:51 GMT | From Buzzword to Blueprint: How 3 New Papers Map the Real-World Fight for DevSecOps | Mpandugalang | [Read More](https://medium.com/p/4d703c3539f6) |
 | Sat, 08 Nov 2025 04:05:12 GMT | Who is Scanner Hacker Crypto Recovery and how does it succeed in recovering stolen cryptocurrency… | Nathaniel Jerry | [Read More](https://medium.com/p/51f2145fd701) |
 | Sat, 08 Nov 2025 04:01:57 GMT | MPChat Security Thesis: Beyond the Code (OpSec & User Empowerment) | MPChat_Blog | [Read More](https://medium.com/p/55ca421b90b2) |
 | Sat, 08 Nov 2025 03:58:29 GMT | Why We Hide Behind Perfection | Sandeep Bhan | [Read More](https://medium.com/p/d1677e25f72c) |
+| Sat, 08 Nov 2025 03:51:34 GMT | As competências mais valiosas para alcançar prosperidade — e aplicáveis em qualquer área — são… | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/0d915d2635b4) |
 | Sat, 08 Nov 2025 03:47:20 GMT | Tornado Cash Volumes Hit Record High as Wallets Linked to Richard Heart Pour $400 Million | idcyrpt | [Read More](https://medium.com/p/9311effe0918) |
 | Sat, 08 Nov 2025 03:42:27 GMT | Tooling and Modern Security Architecture for AI | Chandan Bilvaraj | [Read More](https://medium.com/p/075392dbe412) |
 | Sat, 08 Nov 2025 03:33:38 GMT | The House: Children | Kent | [Read More](https://medium.com/p/ba5e304ab7a9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 17:31:58 GMT | Kiba Tryhackme Walkthrough Writeup | Mainekhacker | [Read More](https://medium.com/p/ae577eb5ce41) |
 | Fri, 07 Nov 2025 17:29:41 GMT | eJPT Prep - Assessment Methodologies: Vulnerability Assessment CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/8c3e0b6bef93) |
 | Fri, 07 Nov 2025 17:22:08 GMT | How to Lock a Cabinet Door: Easy Security Options for Any Setup | Sure Lock & Key LLC | [Read More](https://medium.com/p/a788e27413fc) |
-| Fri, 07 Nov 2025 17:12:13 GMT | What is a VPN? Virtual Private Networks Explained | Eli Friesen | [Read More](https://medium.com/p/25c4088c22c7) |
-| Fri, 07 Nov 2025 17:08:45 GMT | OWASP TOP 10 : 2025 - Current Release Updates | SubhaDip | [Read More](https://medium.com/p/3da20afffa5c) |
-| Fri, 07 Nov 2025 17:04:29 GMT | Building Zero Trust: From Nmap Scan to Asset Intelligence Dashboard | Ashhadali | [Read More](https://medium.com/p/72b0bec97e0c) |
-| Fri, 07 Nov 2025 17:03:30 GMT | From Code to Command & Control: What I Learned Creating a Stealthy C++ Data Exfiltration Tool | Fajrjauharkk | [Read More](https://medium.com/p/1a1f4ed62bad) |
-| Fri, 07 Nov 2025 16:56:30 GMT | Overview Of Dropshipping | Knightjenny | [Read More](https://medium.com/p/d782911bc519) |
-| Fri, 07 Nov 2025 16:55:43 GMT | The Cybersecurity Habits That Changed My Career Forever | Taimur Ijlal | [Read More](https://medium.com/p/6e7a257f8d94) |
