@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 07:11:55 GMT | Mamdani’s Mandate: ‘Give The People What They Want’ | Herbert Dyer, Jr. | [Read More](https://medium.com/p/8151da7d9ff3) |
+| Sat, 08 Nov 2025 07:07:17 GMT | North Korean Actors Deploy “AkdoorTea” Backdoor to Target Crypto Developers Worldwide | Himanshu Bhatt | [Read More](https://medium.com/p/25b190a3b7e2) |
+| Sat, 08 Nov 2025 07:03:03 GMT | Bandit OverTheWire writeup — Level 14 → Level 15 | Dawid Kowalski | [Read More](https://medium.com/p/e2b04746af82) |
+| Sat, 08 Nov 2025 07:02:40 GMT | Bandit OverTheWire writeup — Level 13 → Level 14 | Dawid Kowalski | [Read More](https://medium.com/p/b723da93c9a5) |
+| Sat, 08 Nov 2025 07:02:03 GMT | Bandit OverTheWire writeup — Level 12 → Level 13 | Dawid Kowalski | [Read More](https://medium.com/p/0ba45b600b89) |
+| Sat, 08 Nov 2025 06:50:16 GMT | Master Real-World Web App Enumeration With Curl, Wget, and Bash: Step-By-Step Guide | Very Lazy Tech | [Read More](https://medium.com/p/9f3b45103154) |
+| Sat, 08 Nov 2025 06:42:46 GMT | My OSCP Journey | J14L3 | [Read More](https://medium.com/p/da97f0e211bf) |
 | Sat, 08 Nov 2025 06:38:24 GMT | How I Cleared eJPT in Under 5 Hours on My First Attempt! And how You Can Do it Too! | Ayushdutt | [Read More](https://medium.com/p/c9852c817944) |
 | Sat, 08 Nov 2025 06:26:06 GMT | Deep dive into Digital Privacy | Chief Thinker | [Read More](https://medium.com/p/f3cb289fc04b) |
 | Sat, 08 Nov 2025 06:16:11 GMT | The macOS Process Journey — fseventsd (File System Events Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/374522166b04) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 19:19:42 GMT | Cybersecurity Begins Here | Raviteja Mureboina | [Read More](https://medium.com/p/7236c8cfcebe) |
 | Fri, 07 Nov 2025 19:14:39 GMT | When AI Becomes a Weapon: I Caught Real-Time Manipulation on Video | Krystal | [Read More](https://medium.com/p/938c2dca391e) |
 | Fri, 07 Nov 2025 19:02:04 GMT | Software Fuzzing: The Cornerstone of Automated Vulnerability Discovery | Suleiman Tawil | [Read More](https://medium.com/p/95aef284cd84) |
-| Fri, 07 Nov 2025 18:54:13 GMT | III. Do DNS à Cyber Threat Intelligence | Giuliano Cardozo | [Read More](https://medium.com/p/2a8c44f16b50) |
-| Fri, 07 Nov 2025 18:44:47 GMT | How IoT and AI Are Revolutionizing Cybersecurity in the Insurance Industry | Subhojit Ghosh | [Read More](https://medium.com/p/e98253f89f58) |
-| Fri, 07 Nov 2025 18:43:26 GMT | ERROR 4️⃣0️⃣4️⃣: MEANING NOT FOUND. | sobreviviente1959 | [Read More](https://medium.com/p/21e899f58d83) |
-| Fri, 07 Nov 2025 18:41:15 GMT | It Just So Happens We’re Facing Today for the First Time | Elizabeth Odelia | [Read More](https://medium.com/p/0c2fdb10ddbe) |
-| Fri, 07 Nov 2025 18:34:40 GMT | The Power of Courage | Astrid Gracias | [Read More](https://medium.com/p/b2db0ef80663) |
-| Fri, 07 Nov 2025 18:29:52 GMT | You Don’t Have to Be “Somebody Special” to Be a Target | Danielle Koppel | [Read More](https://medium.com/p/758b5807d37c) |
-| Fri, 07 Nov 2025 18:22:40 GMT | How I Simulated a Phishing → Malware → Data-Exfiltration Incident (Lab Report & Lessons Learned) | Fazal | [Read More](https://medium.com/p/16cf71b48b94) |
