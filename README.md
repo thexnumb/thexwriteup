@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 10:33:24 GMT | Why Most PHP Auth Is a Lie? Use Situation Aware Entry Conditions Instead | Asian Digital Hub | [Read More](https://medium.com/p/ea7fbe264ec5) |
+| Sat, 08 Nov 2025 10:25:30 GMT | 7 Years of Hacks: The Real Story Behind Crypto’s Biggest Exchange Breaches | Garry | [Read More](https://medium.com/p/3f70bedc27d8) |
+| Sat, 08 Nov 2025 10:18:38 GMT | PRNG vs CSPRNG (rand vs rand.Reader) | Muyiwa-dev | [Read More](https://medium.com/p/37b1d585f556) |
+| Sat, 08 Nov 2025 10:17:40 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/6b736d4c5e80) |
 | Sat, 08 Nov 2025 10:11:25 GMT | CCTV Installation Services — Secure Your World with Smart Surveillance | Nestrondigitalhub | [Read More](https://medium.com/p/391c52c8982c) |
 | Sat, 08 Nov 2025 10:07:03 GMT | How to Defend Yourself Against Phishing Scams: Tips and Tools | Amit Singh | [Read More](https://medium.com/p/810a0fdf4aec) |
 | Sat, 08 Nov 2025 10:05:56 GMT | For those who believe in me…. | Oluwatosin | [Read More](https://medium.com/p/74b39eeade99) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 00:02:02 GMT | Advanced Guide to Penetration Testing in APIs (Part 2) Practical Exploitation, Mitigation, and PoC… | JPablo13 | [Read More](https://medium.com/p/140216b8eef3) |
 | Fri, 07 Nov 2025 23:52:32 GMT | Advanced Persistent Threats (APT) on Mobile and Network Systems | Bervice | [Read More](https://medium.com/p/2c1e2a76d1c3) |
 | Fri, 07 Nov 2025 23:44:19 GMT | Disponible el OWASP TOP 10 del 2025 en su versión Release Candidate — ¿Qué cambios se introdujeron? | Tiziano Mass | [Read More](https://medium.com/p/1c84cbc63767) |
-| Fri, 07 Nov 2025 23:28:37 GMT | Mark Yourself As a Certified Hacker! | NnFace | [Read More](https://medium.com/p/c13600813af9) |
-| Fri, 07 Nov 2025 22:43:16 GMT | How AI Empowers Cybercriminals | David SEHYEON Baek | [Read More](https://medium.com/p/1dbffc83134c) |
-| Fri, 07 Nov 2025 22:36:09 GMT | How I Found a MASSIVE XSS Vulnerability on a Karting Site in 10 Minutes | Jackson Mittag | [Read More](https://medium.com/p/06ee7a444b37) |
-| Fri, 07 Nov 2025 22:31:54 GMT | When the Internet Stops Feeling Safe | Dominic Medford | [Read More](https://medium.com/p/8bf53986c3e4) |
