@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 08 Nov 2025 06:11:56 GMT | Windows 11 Attack Surface Analysis: Practical Guide Using Sysinternals and Microsoft ASA | Ashhadali | [Read More](https://medium.com/p/2dfed91331be) |
+| Sat, 08 Nov 2025 06:10:00 GMT | The npm Supply Chain Breach: When Open Source Becomes a Weapon | Monu Jangra | [Read More](https://medium.com/p/506f0ac61045) |
+| Sat, 08 Nov 2025 06:03:49 GMT | Linux Networking Commands and Static IP Configuration | Adhwaith A S | [Read More](https://medium.com/p/3e688af8a274) |
+| Sat, 08 Nov 2025 06:01:56 GMT | Shadow Risks of GenAI No One Talks About,When bots meet loose guardrails, your data is next. | Quellin | [Read More](https://medium.com/p/82233fe78e82) |
+| Sat, 08 Nov 2025 06:00:11 GMT | Try-Hack-Me challenge walkthrough Bounty Hacker— EasyCTF | Arka Priya Das | [Read More](https://medium.com/p/26f7530ea689) |
+| Sat, 08 Nov 2025 05:58:28 GMT | eJPT Lab Write-Up: Assessment Methodologies: Vulnerability Assessment CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/6461cbf4dccf) |
 | Sat, 08 Nov 2025 05:39:49 GMT | Huntress CTF 2025 Writeups Series: Part 2 | Mahmoud Matar | [Read More](https://medium.com/p/d386201e37df) |
+| Sat, 08 Nov 2025 05:38:59 GMT | Web3 & Ai - Is it possible to get a $1M bounty? | SAFE | [Read More](https://medium.com/p/5b4daf07de79) |
 | Sat, 08 Nov 2025 05:34:26 GMT | ️ How I Finally Understood Windows Security (And Why It Matters for Every IT Career) | Salimassili | [Read More](https://medium.com/p/6182dfb7bb78) |
 | Sat, 08 Nov 2025 05:33:48 GMT | Why Smart People Still Get Phished | CW Fong | [Read More](https://medium.com/p/6d109f86486d) |
 | Sat, 08 Nov 2025 05:18:59 GMT | Start Your Journey in Artificial Intelligence with a PGP in Data Science & AI | Edglobalacademy | [Read More](https://medium.com/p/06c334c61449) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 07 Nov 2025 18:21:06 GMT | Bugbounty ó demanda por intrusión la línea delgada en LATAM y el error de muchos sysadmins cuando… | Hacking en México | [Read More](https://medium.com/p/f5519ad40b3e) |
 | Fri, 07 Nov 2025 18:18:53 GMT | What Trump’s “Country of Particular Concern” label for Nigeria really means — and how it could hit… | Dayo Ogunrinde | [Read More](https://medium.com/p/dcfed414b009) |
 | Fri, 07 Nov 2025 18:18:37 GMT | 3 Ways To Achieve Concurrency In Python | Harisudhan.S | [Read More](https://medium.com/p/275a39d5cd18) |
-| Fri, 07 Nov 2025 18:13:11 GMT | Why I Stopped Following Tutorials and Started Building Real Projects | Mubashir | [Read More](https://medium.com/p/c08f4b7429b2) |
-| Fri, 07 Nov 2025 18:09:02 GMT | Why Organizations Need TDR to Boost Network Protection | NetWitness | [Read More](https://medium.com/p/0f4521e528c8) |
-| Fri, 07 Nov 2025 18:02:07 GMT | The Future of Hacking in a World Full of AI | SoBatista | [Read More](https://medium.com/p/97aafc20148e) |
-| Fri, 07 Nov 2025 18:02:07 GMT | AI-Boosted Social Engineering: 5 Threats to Watch | Nexumo | [Read More](https://medium.com/p/64d60f267688) |
-| Fri, 07 Nov 2025 18:02:07 GMT | AI vs. Hackers, Round One | Bhagya Rana | [Read More](https://medium.com/p/f018c225b029) |
-| Fri, 07 Nov 2025 18:02:06 GMT | Cybersecurity Jumpstart: 7 Projects to Prove Your Skills | Modexa | [Read More](https://medium.com/p/d7dbba27e98b) |
-| Fri, 07 Nov 2025 18:02:06 GMT | XDR’s Moment: Why It’s the Next Big Thing | Syntal | [Read More](https://medium.com/p/870d396f85a6) |
