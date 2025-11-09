@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 11:32:33 GMT | Becoming Nyells: The Girl Who Chose Code, Creativity & Cybersecurity | Nyelliembu | [Read More](https://medium.com/p/76eaed5950fb) |
+| Sun, 09 Nov 2025 11:29:36 GMT | Hold Up! Unrestricted File Upload in Online Notes Sharing Platform Could Expose Your Server! | CVEHUB | [Read More](https://medium.com/p/7bba2cb42465) |
+| Sun, 09 Nov 2025 11:24:26 GMT | Hardening in Cybersecurity — A Core Defense Strategy for Smart Grids and Power Systems | Ramandeep Bagri | [Read More](https://medium.com/p/e935f0ac0b29) |
+| Sun, 09 Nov 2025 11:24:04 GMT | İNTERNET | Alper TUĞRUL | [Read More](https://medium.com/p/8e7a4f0f527d) |
+| Sun, 09 Nov 2025 11:22:30 GMT | AD Labs: From Domain-Joined Linux to Compromised DC(AD CS) | Hishamrazak | [Read More](https://medium.com/p/4768ce3f72d5) |
+| Sun, 09 Nov 2025 11:21:57 GMT | Nigeria’s Fields Are Empty, and the Looters Are Loud | FoodNerve Society | [Read More](https://medium.com/p/b20cb6faec8d) |
+| Sun, 09 Nov 2025 11:14:16 GMT | Securing AWS-S3 Bucket | Saksham Singh | [Read More](https://medium.com/p/b02293838520) |
 | Sun, 09 Nov 2025 11:08:33 GMT | How does Samsung A Series Affordable Deliver Amazing Features? | Hana Saito | [Read More](https://medium.com/p/eff12a543e00) |
+| Sun, 09 Nov 2025 11:07:59 GMT | Article-4: Creating Our Ethical Hacking Lab | Aman Kumar Singh | [Read More](https://medium.com/p/d6b03572cb6e) |
 | Sun, 09 Nov 2025 11:05:28 GMT | Zoho People vs Keka HR : The Ultimate HR Clash for Small Biz | Softwaregyan.com | [Read More](https://medium.com/p/479106ce27ab) |
 | Sun, 09 Nov 2025 11:02:07 GMT | Today’s Top Cyber Intelligence Highlights — Nov 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9269446bf399) |
 | Sun, 09 Nov 2025 10:58:48 GMT | Quasar Port Forwarding: Unlocking Access? | SilentInject | [Read More](https://medium.com/p/7291a0924589) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 01:44:56 GMT | CyCTF qualification 2025 : Misc ‘EasyJail’ | VampireXRay | [Read More](https://medium.com/p/36db22acf52e) |
 | Sun, 09 Nov 2025 01:28:33 GMT | Kenobi — TryHackme Walkthrough | Aufarifqi | [Read More](https://medium.com/p/16c7153837f6) |
 | Sun, 09 Nov 2025 01:22:00 GMT | New Idea: Use AI to Become a Smarter, Faster Bug-Bounty Hunter — A Practical Guide | Monu Jangra | [Read More](https://medium.com/p/785e26e0c6a7) |
-| Sun, 09 Nov 2025 01:09:58 GMT | Entendendo Hashing e Hash Cracking | Guilherme Barbosa Freire Silva | [Read More](https://medium.com/p/d523d23b84ba) |
-| Sun, 09 Nov 2025 01:07:54 GMT | XSSniper Masterclass Bypass WAFs and Find XSS (for bug bounty) | Jackson Mittag | [Read More](https://medium.com/p/e2f045b50752) |
-| Sun, 09 Nov 2025 01:07:46 GMT | Introducing the TOSS7 (An OWASP-like Top Ten for Tor Services) | SirHaxAlot | [Read More](https://medium.com/p/7782ff145b22) |
-| Sun, 09 Nov 2025 00:57:58 GMT | Why Data Privacy Matters in this Digital Age | Esther Idibiye David | [Read More](https://medium.com/p/57bbf12e7959) |
-| Sun, 09 Nov 2025 00:56:52 GMT | How I Achieved Unlimited AI Voice Generation for Free — A Reverse Engineering Case Study | AYOUBSec | [Read More](https://medium.com/p/0944a1b1eda7) |
-| Sun, 09 Nov 2025 00:55:25 GMT | SmartToolHub.digital — The Future of Smart Tools | Swsg | [Read More](https://medium.com/p/81f7a4dd5ff1) |
-| Sun, 09 Nov 2025 00:50:29 GMT | cyctf25 — Inception — web | Sector | [Read More](https://medium.com/p/14a6bcb2ca62) |
-| Sun, 09 Nov 2025 00:45:41 GMT | NimCrackMe1 — Huntress CTF 2025 | Farhann Mahmoodi | [Read More](https://medium.com/p/c3bb38646291) |
