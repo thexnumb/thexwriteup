@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 21:10:49 GMT | Cisco ASA & Firewall Threat Defense (FTD) 0-Day Remote Code Execution Vulnerabilities | Jason Hoskins Jr. | [Read More](https://medium.com/p/1c1279c98b1a) |
+| Sun, 09 Nov 2025 21:04:26 GMT | The Vibe Coder’s Blind Spot is Your Next Bug Bounty | Sajjad Siam | [Read More](https://medium.com/p/26387500acbb) |
+| Sun, 09 Nov 2025 21:03:43 GMT | Wholesale Security Cameras: Cost-Effective Solutions for Complete Surveillance | Osamamustafa | [Read More](https://medium.com/p/883ceb8453f0) |
+| Sun, 09 Nov 2025 20:59:16 GMT | My eMAPT Exam Experience — More About Building Than Breaking | Tolga DEMIREL | [Read More](https://medium.com/p/aca0c6c7ad7e) |
+| Sun, 09 Nov 2025 20:53:10 GMT | Thinking in Three Dimensions: How Security Analysts Can Balance Binary, Quantitative, and… | Enleak | [Read More](https://medium.com/p/d1de97bf8efb) |
+| Sun, 09 Nov 2025 20:48:28 GMT | Why Passphrases Beat Passwords (And Why Yours Probably Needs an Upgrade) | Hulo Biral - Cyber Security | [Read More](https://medium.com/p/900239fd63cf) |
 | Sun, 09 Nov 2025 20:21:52 GMT | How artificial intelligence is reshaping both attack and defense in cyberspace. | Spesh Billions | [Read More](https://medium.com/p/acf58453445e) |
 | Sun, 09 Nov 2025 20:18:49 GMT | CyCTF 2025 Qualifications - Vault Raider - Mobile Challenge | Zeyad Karim | [Read More](https://medium.com/p/a8a9ae2018d9) |
 | Sun, 09 Nov 2025 20:17:37 GMT | If You Want People to Care About Risk, Tell Better Stories | Fook Hwa Tan | [Read More](https://medium.com/p/f80aca0ad13f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 12:49:04 GMT | The Quantum Storm | O. J. Okpabi | [Read More](https://medium.com/p/6582b01403c5) |
 | Sun, 09 Nov 2025 12:48:44 GMT | LetsDefend Walkthrough - SOC343 — WinRAR Zero-Day Path Traversal Vulnerability (CVE‑2025‑8088) | Mehmetfiliz | [Read More](https://medium.com/p/370772d74fa4) |
 | Sun, 09 Nov 2025 12:44:34 GMT | Mock Interview Questions For Penetration Testing Role | The Daily Cyber News | [Read More](https://medium.com/p/76fc2383143f) |
-| Sun, 09 Nov 2025 12:42:55 GMT | Day 9: The Lingua of Vulnerability | Gabriel Ajah | [Read More](https://medium.com/p/b56afcddee05) |
-| Sun, 09 Nov 2025 12:36:09 GMT | Se quiser transformar o mundo, comece pelo que ensinamos às crianças. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/986c1515be53) |
-| Sun, 09 Nov 2025 12:36:00 GMT | Can Samsung A Series Smooth Give You a Lag-Free User Experience? | Chloe White | [Read More](https://medium.com/p/e80feba7029b) |
-| Sun, 09 Nov 2025 12:33:33 GMT | “Within less twenty years, we will be able to capture a snapshot of a human mind and upload it into… | Martin Abramov | [Read More](https://medium.com/p/7367682ce0c4) |
-| Sun, 09 Nov 2025 12:32:00 GMT | Unlocking the Hacker’s Arsenal: A Deep Dive into the IHA089 Cybersecurity Toolkit (2025) | Nktechinfo | [Read More](https://medium.com/p/578463e76a63) |
-| Sun, 09 Nov 2025 12:32:00 GMT | 11 Game-Changing Tips: College Student Online Safety & Password Secrets | Chaos Engineer | [Read More](https://medium.com/p/24d48bf54fed) |
