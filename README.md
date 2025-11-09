@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 09:59:00 GMT | When AI Hacks AI: The Next Frontier of Cybersecurity You’re Not Ready For | NidoDesigns | [Read More](https://medium.com/p/45908ad9c9ef) |
+| Sun, 09 Nov 2025 09:57:37 GMT | JAuth picoCTF | Aderogbarufai | [Read More](https://medium.com/p/3325e62c4321) |
+| Sun, 09 Nov 2025 09:50:13 GMT | Ex-Friends Gone Rogue? What To Do When Your Past Haunts You | Authlyn | [Read More](https://medium.com/p/11cd046d7ca7) |
 | Sun, 09 Nov 2025 09:31:01 GMT | From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge | Chetan Chinchulkar | [Read More](https://medium.com/p/84c38c9fbcb8) |
 | Sun, 09 Nov 2025 09:27:25 GMT | Detecting Joomla Admin GUI Attacks with Wazuh: A Rule-Based Approach | Oliver Roca | [Read More](https://medium.com/p/4d76a007c59d) |
 | Sun, 09 Nov 2025 09:27:24 GMT | Tunneling (Tünelleme): Ağlardaki Gizli Koridorlar | Arzu Yılmaz | [Read More](https://medium.com/p/d5de21b55905) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 23:18:54 GMT | It Takes Two to Tango: | Maretta Morovitz | [Read More](https://medium.com/p/b7e857b4c99d) |
 | Sat, 08 Nov 2025 23:08:13 GMT | What the 2017 Equifax Data Breach Teaches Us About Cybersecurity | Max Seo | [Read More](https://medium.com/p/5477fc35582c) |
 | Sat, 08 Nov 2025 23:05:25 GMT | Amadey Lab CyberDefenders | Fouad Shaheen | [Read More](https://medium.com/p/a077a85642be) |
-| Sat, 08 Nov 2025 22:56:46 GMT | How to Block and Stop Unwanted Emails | Awais Khan | [Read More](https://medium.com/p/597830027a9e) |
-| Sat, 08 Nov 2025 22:54:57 GMT | The New Front Line: 5 Steps States Must Take to Survive the Current Wave of Public Sector… | CCD-IS | [Read More](https://medium.com/p/0fc134f484da) |
-| Sat, 08 Nov 2025 22:45:01 GMT | CyCTF GTM Challenge: From AES Decoy to JNI Broadcast | Ahmed Alnajjar | [Read More](https://medium.com/p/2a5bd3c7a328) |
