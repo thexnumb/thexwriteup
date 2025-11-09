@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 13:23:22 GMT | The Digital Passport Problem: Certificates, CAs, and Common Issues Explained | Arfat Khan | [Read More](https://medium.com/p/db4319c067ea) |
+| Sun, 09 Nov 2025 13:17:47 GMT | How To Detect When Cellphone/Smartphone is Hacked - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/3d9e6a235911) |
+| Sun, 09 Nov 2025 13:11:12 GMT | OWASP Top 10–2021 — Writeup | Mahir | [Read More](https://medium.com/p/af65d44c9797) |
+| Sun, 09 Nov 2025 13:01:33 GMT | I Got A Phishing Email From ‘Substack’ And I Totally Fell For It | MianAbdul Manan | [Read More](https://medium.com/p/56bc38d3de03) |
+| Sun, 09 Nov 2025 13:00:14 GMT | Writeup challenge Doge CyCTF 25 | Khonshu | [Read More](https://medium.com/p/5aa30228fc9e) |
+| Sun, 09 Nov 2025 12:59:51 GMT | North Korean Hackers’ Choice Weapon: Western AI | Perry Choi | [Read More](https://medium.com/p/0b10c4e46e98) |
+| Sun, 09 Nov 2025 12:54:58 GMT | CK44 Bangladesh: Bonuses, Security, and Support System That Players Trust | TKGRUP | [Read More](https://medium.com/p/11b487de1a40) |
+| Sun, 09 Nov 2025 12:51:55 GMT | Daily Dose of Chart : 09 Nov 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/51c69f72f8e1) |
+| Sun, 09 Nov 2025 12:49:04 GMT | The Quantum Storm | O. J. Okpabi | [Read More](https://medium.com/p/6582b01403c5) |
+| Sun, 09 Nov 2025 12:48:44 GMT | LetsDefend Walkthrough - SOC343 — WinRAR Zero-Day Path Traversal Vulnerability (CVE‑2025‑8088) | Mehmetfiliz | [Read More](https://medium.com/p/370772d74fa4) |
+| Sun, 09 Nov 2025 12:44:34 GMT | Mock Interview Questions For Penetration Testing Role | The Daily Cyber News | [Read More](https://medium.com/p/76fc2383143f) |
+| Sun, 09 Nov 2025 12:42:55 GMT | Day 9: The Lingua of Vulnerability | Gabriel Ajah | [Read More](https://medium.com/p/b56afcddee05) |
 | Sun, 09 Nov 2025 12:36:09 GMT | Se quiser transformar o mundo, comece pelo que ensinamos às crianças. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/986c1515be53) |
+| Sun, 09 Nov 2025 12:36:00 GMT | Can Samsung A Series Smooth Give You a Lag-Free User Experience? | Chloe White | [Read More](https://medium.com/p/e80feba7029b) |
+| Sun, 09 Nov 2025 12:33:33 GMT | “Within less twenty years, we will be able to capture a snapshot of a human mind and upload it into… | Martin Abramov | [Read More](https://medium.com/p/7367682ce0c4) |
 | Sun, 09 Nov 2025 12:32:00 GMT | Unlocking the Hacker’s Arsenal: A Deep Dive into the IHA089 Cybersecurity Toolkit (2025) | Nktechinfo | [Read More](https://medium.com/p/578463e76a63) |
 | Sun, 09 Nov 2025 12:32:00 GMT | 11 Game-Changing Tips: College Student Online Safety & Password Secrets | Chaos Engineer | [Read More](https://medium.com/p/24d48bf54fed) |
 | Sun, 09 Nov 2025 12:30:53 GMT | The Moment Linux Stops Feeling Hard (And Starts Feeling Like Home) | Fateyaly | [Read More](https://medium.com/p/4fc014f7467a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 07:11:21 GMT | Metasploitable 3 (Windows) Write-up — Part [III]: Port 80 — CVE-2015–1635 & FTP Upload Exploitation | Kalash Kundaliya | [Read More](https://medium.com/p/30950d611c81) |
 | Sun, 09 Nov 2025 07:07:01 GMT | Blockchain & Cryptography Development: The Real Difference Between Shor, Grover, and Annealing | SORA SS256 Satoshi is SHA-256 | [Read More](https://medium.com/p/04150a10a5ff) |
 | Sun, 09 Nov 2025 06:58:07 GMT | LFI to RCE: Mastering the Step-by-Step Path from File Inclusion to Full Shell Access | Very Lazy Tech | [Read More](https://medium.com/p/634c577056e2) |
-| Sun, 09 Nov 2025 06:58:03 GMT | Security isn’t a constraint — it’s a free diagnosis of your architecture | Fabien Soulis | [Read More](https://medium.com/p/d422404304b4) |
-| Sun, 09 Nov 2025 06:53:31 GMT | Understanding the latest Blockchain Threat: EtherHiding | Abhishek Modak | [Read More](https://medium.com/p/d4f85b87a1b5) |
-| Sun, 09 Nov 2025 06:45:00 GMT | Digital Forensics Training Institute in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/4b6bb988a00a) |
-| Sun, 09 Nov 2025 06:42:07 GMT | Top 10 Cybersecurity Trends to Watch Out for in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/58b28a5763a2) |
-| Sun, 09 Nov 2025 06:41:59 GMT | To Hack or Not to Hack: What the Heck is a SIEM? How SOC Teams See the Matrix | Furkanctiner | [Read More](https://medium.com/p/112dff9dbf28) |
-| Sun, 09 Nov 2025 06:36:07 GMT | Supply-Chain Attacks Explained: Lessons from Recent Incidents | Hania Khan | [Read More](https://medium.com/p/7b63898606bd) |
-| Sun, 09 Nov 2025 06:20:25 GMT | Do You Think iPhone Is Safe? Think Again: The Rise of Spider Phone Ransomware | Vijay Kumar Gupta | [Read More](https://medium.com/p/52c433e03db2) |
-| Sun, 09 Nov 2025 06:19:06 GMT | OAuth Authentication Bypass leading to PII disclosure | janlele91 | [Read More](https://medium.com/p/5d243b62d532) |
-| Sun, 09 Nov 2025 06:14:53 GMT | My Cybersecurity Journey — day 1–11/8/25 | Cliffetond | [Read More](https://medium.com/p/814e41143162) |
-| Sun, 09 Nov 2025 06:11:04 GMT | N-Day Everyday , CVE-2025–30065 ve CVE-2025–46762 Apache Parquet Avro Zafiyeti | Yakup Erdem Ünal | [Read More](https://medium.com/p/ecd2f45a661f) |
-| Sun, 09 Nov 2025 05:59:08 GMT | How a Simple SVG File Turned Into a Data Exfiltration Vector in an Invoice System | Bytewreaker | [Read More](https://medium.com/p/8cc78bedd1a8) |
-| Sun, 09 Nov 2025 05:44:34 GMT | Top Advanced XSS Payloads That Still Work in 2025 | Monu Jangra | [Read More](https://medium.com/p/58f11191df8f) |
-| Sun, 09 Nov 2025 05:43:27 GMT | Elevating Movement TryHackMe Walkthrough - Privilege Escalation & RDP Analysis | Visir | [Read More](https://medium.com/p/3b8f3b19bb7a) |
-| Sun, 09 Nov 2025 05:31:19 GMT | eBPF for LLM and AI Agent Tracing: The Future of Non-Invasive Observability? | Thiwanka Chameera Jayasiri | [Read More](https://medium.com/p/999db2cd4866) |
