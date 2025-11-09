@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 07:15:12 GMT | Bandit OverTheWire writeup — Level 17 → Level 18 | Dawid Kowalski | [Read More](https://medium.com/p/600b88714d13) |
+| Sun, 09 Nov 2025 07:13:48 GMT | Bandit OverTheWire writeup — Level 15  → Level 16 | Dawid Kowalski | [Read More](https://medium.com/p/f3dc932591ba) |
+| Sun, 09 Nov 2025 07:12:36 GMT | OWASP Top 10 (2025): What Changed — the Front Row Story, the Impact, and Practice Labs | Atharva Shirude | [Read More](https://medium.com/p/1a9be7f02d0a) |
+| Sun, 09 Nov 2025 07:12:15 GMT | AI Prompt Injection Attack – A Technical Deep Dive into the Emerging AI Security Frontier | David SEHYEON Baek | [Read More](https://medium.com/p/db1a51e13775) |
+| Sun, 09 Nov 2025 07:11:21 GMT | Metasploitable 3 (Windows) Write-up — Part [III]: Port 80 — CVE-2015–1635 & FTP Upload Exploitation | Kalash Kundaliya | [Read More](https://medium.com/p/30950d611c81) |
+| Sun, 09 Nov 2025 07:07:01 GMT | Blockchain & Cryptography Development: The Real Difference Between Shor, Grover, and Annealing | SORA SS256 Satoshi is SHA-256 | [Read More](https://medium.com/p/04150a10a5ff) |
+| Sun, 09 Nov 2025 06:58:07 GMT | LFI to RCE: Mastering the Step-by-Step Path from File Inclusion to Full Shell Access | Very Lazy Tech | [Read More](https://medium.com/p/634c577056e2) |
+| Sun, 09 Nov 2025 06:58:03 GMT | Security isn’t a constraint — it’s a free diagnosis of your architecture | Fabien Soulis | [Read More](https://medium.com/p/d422404304b4) |
 | Sun, 09 Nov 2025 06:45:00 GMT | Digital Forensics Training Institute in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/4b6bb988a00a) |
 | Sun, 09 Nov 2025 06:42:07 GMT | Top 10 Cybersecurity Trends to Watch Out for in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/58b28a5763a2) |
 | Sun, 09 Nov 2025 06:41:59 GMT | To Hack or Not to Hack: What the Heck is a SIEM? How SOC Teams See the Matrix | Furkanctiner | [Read More](https://medium.com/p/112dff9dbf28) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 18:52:26 GMT | Building a Strong Cyber Defense with Reliable Data Security Management in Burtonsville, MD | GoodMKTG | [Read More](https://medium.com/p/598a819ffa2c) |
 | Sat, 08 Nov 2025 18:42:51 GMT | Security Management and Access Policy Configuration | Erdem UÇAK | [Read More](https://medium.com/p/0e0a7069e2c2) |
 | Sat, 08 Nov 2025 18:40:11 GMT | How to bypass UAC in Windows Operating System? (Part — 02) | Sachin Sir | [Read More](https://medium.com/p/e02b6e69ff69) |
-| Sat, 08 Nov 2025 18:38:22 GMT | Integrating Suricata with Wazuh in Windows Server 2025 | Yugal Koju | [Read More](https://medium.com/p/843303dc9c67) |
-| Sat, 08 Nov 2025 18:36:00 GMT | Your Invisible File | Derek Niedringhaus | [Read More](https://medium.com/p/f7689a6b5d9c) |
-| Sat, 08 Nov 2025 18:34:37 GMT | LLMs as Cyber Threat Intelligence Assistant | Jakub Kowalski | [Read More](https://medium.com/p/ecc4129e5dfe) |
-| Sat, 08 Nov 2025 18:32:17 GMT | Insecure Direct Object Reference (IDOR) | 0xKishore | [Read More](https://medium.com/p/9c8df8fe8dc5) |
-| Sat, 08 Nov 2025 18:32:07 GMT | To Hack or Not to Hack: What is Cryptojacking? The Threat That Secretly Steals Your CPU | Furkanctiner | [Read More](https://medium.com/p/8f237ee36e00) |
-| Sat, 08 Nov 2025 18:32:04 GMT | Top 5 OSINT Services in 2025: Professional Intelligence Tools in 5 Minutes | Andrey Boing | [Read More](https://medium.com/p/d8ce38fc243a) |
-| Sat, 08 Nov 2025 18:31:37 GMT | When the Internet Sleeps: BitChat — The Offline Messenger That Promises Freedom (and Carries Risks) | TheBitForge | [Read More](https://medium.com/p/a5df5a308158) |
-| Sat, 08 Nov 2025 18:28:25 GMT | BugBounty-IOS | V3locidad | [Read More](https://medium.com/p/2ce599c29a65) |
