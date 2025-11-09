@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 20:21:52 GMT | How artificial intelligence is reshaping both attack and defense in cyberspace. | Spesh Billions | [Read More](https://medium.com/p/acf58453445e) |
 | Sun, 09 Nov 2025 20:18:49 GMT | CyCTF 2025 Qualifications - Vault Raider - Mobile Challenge | Zeyad Karim | [Read More](https://medium.com/p/a8a9ae2018d9) |
 | Sun, 09 Nov 2025 20:17:37 GMT | If You Want People to Care About Risk, Tell Better Stories | Fook Hwa Tan | [Read More](https://medium.com/p/f80aca0ad13f) |
 | Sun, 09 Nov 2025 20:16:35 GMT | Is Your Organization Reactive or Resilient? A Maturity Primer | Fook Hwa Tan | [Read More](https://medium.com/p/bbd2d0378cd7) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 12:33:33 GMT | “Within less twenty years, we will be able to capture a snapshot of a human mind and upload it into… | Martin Abramov | [Read More](https://medium.com/p/7367682ce0c4) |
 | Sun, 09 Nov 2025 12:32:00 GMT | Unlocking the Hacker’s Arsenal: A Deep Dive into the IHA089 Cybersecurity Toolkit (2025) | Nktechinfo | [Read More](https://medium.com/p/578463e76a63) |
 | Sun, 09 Nov 2025 12:32:00 GMT | 11 Game-Changing Tips: College Student Online Safety & Password Secrets | Chaos Engineer | [Read More](https://medium.com/p/24d48bf54fed) |
-| Sun, 09 Nov 2025 12:30:53 GMT | The Moment Linux Stops Feeling Hard (And Starts Feeling Like Home) | Fateyaly | [Read More](https://medium.com/p/4fc014f7467a) |
