@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 05:24:05 GMT | The Convergence of AI, Data Science, and Cybersecurity: Building Next Frontier of Digital Defense | Bonuke Vincent | [Read More](https://medium.com/p/9aaf12267b3f) |
 | Sun, 09 Nov 2025 04:27:30 GMT | Real-World OWASP Example in a MERN App — Broken Access Control Explained | Faisal Mahamud | [Read More](https://medium.com/p/fd3b7059236d) |
 | Sun, 09 Nov 2025 04:07:15 GMT | The Most Overlooked Bug Bounty Misconfiguration (Add This To Your Checklist) | Rehan Sohail | [Read More](https://medium.com/p/448cce763beb) |
 | Sun, 09 Nov 2025 03:58:44 GMT | Are Your Email Accounts and Passwords Safe? Or Already Exposed? | Mohamad Mahmood | [Read More](https://medium.com/p/a08aecb0cc25) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 17:52:12 GMT | When AI Becomes the Insider Threat: What Companies Need to Know | Govind K M | [Read More](https://medium.com/p/dbd30c7333de) |
 | Sat, 08 Nov 2025 17:49:43 GMT | The Greenholt Phish - TryHackMe | 0xRahuL | [Read More](https://medium.com/p/39353fa29a7f) |
 | Sat, 08 Nov 2025 17:36:10 GMT | CyCTF - WEB WriteUp | Ahmed Salah | [Read More](https://medium.com/p/3a40b9c9902b) |
-| Sat, 08 Nov 2025 17:30:29 GMT | I Let an AI Browser Control My Life for a Week — Here’s What Actually Happened | Pankaj Kumar | [Read More](https://medium.com/p/e9a24c563466) |
