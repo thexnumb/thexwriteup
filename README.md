@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 19:32:50 GMT | Routing Automation That Actually Ships: A Small but Powerful Python Script | Jeremy van Gorp | [Read More](https://medium.com/p/b56c2e16f616) |
+| Sun, 09 Nov 2025 19:30:11 GMT | Trust Me Bro: Layemor Malware Analysis | grepStrength | [Read More](https://medium.com/p/b6788ca99e6d) |
+| Sun, 09 Nov 2025 19:12:52 GMT | Automating Security Triage: Using n8n, Splunk, Gemini API and Slack | Hariharan | [Read More](https://medium.com/p/531ad6a48c19) |
 | Sun, 09 Nov 2025 19:12:41 GMT | Yoksa Siz Hala Ders Çıkarmadınız mı? | Volkan Koçkan | [Read More](https://medium.com/p/9a0fb061ebd4) |
 | Sun, 09 Nov 2025 19:02:29 GMT | Cybersecurity Tips for Businesses During the Black Friday Rush | Global Presence Marketing | [Read More](https://medium.com/p/380b5aab662c) |
+| Sun, 09 Nov 2025 19:01:42 GMT | Privacy Isn’t a Feature, It’s a Philosophy: A Guide to Choosing a Truly Private Video Platform | Jibon Costa | [Read More](https://medium.com/p/a9148be3b6a3) |
 | Sun, 09 Nov 2025 18:53:03 GMT | Flagyard — Cucy Writeup | löca | [Read More](https://medium.com/p/ecbcb4515e71) |
 | Sun, 09 Nov 2025 18:47:18 GMT | AresGPT & Aristotle’s Pen: AI for Justice, Virtue, and Security | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/a9d463904310) |
 | Sun, 09 Nov 2025 18:46:54 GMT | AI Browsers: Your New Super-Assistant | Sameer Koli | [Read More](https://medium.com/p/12f80dcf560b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 12:14:51 GMT | PortSwigger : Authentication vulnerabilities labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/c2c16bce9b2a) |
 | Sun, 09 Nov 2025 12:14:40 GMT | Why History Says You’re Wrong About AI | Zebbern | [Read More](https://medium.com/p/0a688de93607) |
 | Sun, 09 Nov 2025 12:13:41 GMT | Chota Amrani abashed at the penetration of his disguise went away and returned dressed as a man | sami toor | [Read More](https://medium.com/p/0628fbc20b5a) |
-| Sun, 09 Nov 2025 12:12:21 GMT | Palo Alto vs FortiGate vs Check Point: Which Firewall Should You Learn in 2025? - NGCloudX | Vandit jain | [Read More](https://medium.com/p/73e0aeb8ae03) |
-| Sun, 09 Nov 2025 12:05:04 GMT | OWASP Top 10 2025 in a Nutshell | PARADOX | [Read More](https://medium.com/p/bbfceed91eb2) |
-| Sun, 09 Nov 2025 12:03:33 GMT | Full Attack Chain: How Chained IDORs on Thrive Global Exposed Confidential Employee Wellness data | Mayur Pandya | [Read More](https://medium.com/p/30a657ba550d) |
-| Sun, 09 Nov 2025 12:03:21 GMT | Debloat your windows in 3 steps. | err0rgod | [Read More](https://medium.com/p/8404d6ffea58) |
