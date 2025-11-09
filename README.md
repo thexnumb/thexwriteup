@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 10:31:01 GMT | 51% of Your Traffic Is Bots — Here’s How to Protect Real Customers | STCLab, Inc. | [Read More](https://medium.com/p/27af426ad851) |
+| Sun, 09 Nov 2025 10:28:40 GMT | Can Samsung M14 Battery-Friendly Last a Full Day Without Charging? | Luna Collins | [Read More](https://medium.com/p/c4709001933c) |
+| Sun, 09 Nov 2025 10:22:28 GMT | DPRK UNC3782 | Mees van Wickeren | [Read More](https://medium.com/p/d66329e5c071) |
+| Sun, 09 Nov 2025 10:21:19 GMT | Bloom [tryhackme Walkthrough] | Roshan Rajbanshi | [Read More](https://medium.com/p/662f22b41deb) |
 | Sun, 09 Nov 2025 09:59:00 GMT | When AI Hacks AI: The Next Frontier of Cybersecurity You’re Not Ready For | NidoDesigns | [Read More](https://medium.com/p/45908ad9c9ef) |
 | Sun, 09 Nov 2025 09:57:37 GMT | JAuth picoCTF | Aderogbarufai | [Read More](https://medium.com/p/3325e62c4321) |
 | Sun, 09 Nov 2025 09:50:13 GMT | Ex-Friends Gone Rogue? What To Do When Your Past Haunts You | Authlyn | [Read More](https://medium.com/p/11cd046d7ca7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 23:47:39 GMT | CyCTF qualification 2025 : Reverse ‘BabyCrackMe’ | VampireXRay | [Read More](https://medium.com/p/d29a5b6dfcd3) |
 | Sat, 08 Nov 2025 23:46:24 GMT | When One Error Message Unlocked the Entire Kingdom: A Critical SQL Injection Tale | Jackson Mittag | [Read More](https://medium.com/p/1655c93dd2f8) |
 | Sat, 08 Nov 2025 23:32:42 GMT | Nikto: Escaneo Web Automatizado y Análisis de Vulnerabilidades | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/37b256a86faa) |
-| Sat, 08 Nov 2025 23:31:57 GMT | TLS Versions & Vulnerabilities (SSLv2/3, TLS 1.0/1.1/1.2/1.3) | Arfat Khan | [Read More](https://medium.com/p/63c82df3925f) |
-| Sat, 08 Nov 2025 23:18:54 GMT | It Takes Two to Tango: | Maretta Morovitz | [Read More](https://medium.com/p/b7e857b4c99d) |
-| Sat, 08 Nov 2025 23:08:13 GMT | What the 2017 Equifax Data Breach Teaches Us About Cybersecurity | Max Seo | [Read More](https://medium.com/p/5477fc35582c) |
-| Sat, 08 Nov 2025 23:05:25 GMT | Amadey Lab CyberDefenders | Fouad Shaheen | [Read More](https://medium.com/p/a077a85642be) |
