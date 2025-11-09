@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 15:16:14 GMT | From Scholarship Form to Security Find — My Broken Link Story | Vedant vhatkar | [Read More](https://medium.com/p/f32f8bf1f20e) |
+| Sun, 09 Nov 2025 15:01:57 GMT | Break Out The Cage Tryhackme walkthroughs | Mainekhacker | [Read More](https://medium.com/p/9af9793c8005) |
+| Sun, 09 Nov 2025 14:56:27 GMT | When Words Weave Worlds Closer Than Skin | Kushal Dhananjay Samant | [Read More](https://medium.com/p/c38d79ac7278) |
+| Sun, 09 Nov 2025 14:49:19 GMT | Beginner’s BOUNTY Rewards Guide — November 2025 | Chainbounty | [Read More](https://medium.com/p/41dc4a275da6) |
+| Sun, 09 Nov 2025 14:46:55 GMT | AI Outpaced Your Business Continuity Plan — Here’s How to Catch Up | Yael Nagler | [Read More](https://medium.com/p/3891412cc3f6) |
+| Sun, 09 Nov 2025 14:36:35 GMT | Why 2025’s ‘Online Passport’ Gold Rush Will Get People Blackmailed and Ki77ed | Berend Watchus | [Read More](https://medium.com/p/3d9d4c1aa19c) |
 | Sun, 09 Nov 2025 14:26:05 GMT | I Built My Own Real-Time Port Scan Detector | Harsh soni | [Read More](https://medium.com/p/b3fbd1dba1fa) |
 | Sun, 09 Nov 2025 14:22:17 GMT | GitHub and the New Era of Cybersecurity: How Visual Signaling Can Protect Millions of Developers | 0trust0day | [Read More](https://medium.com/p/c5a57b9e5ea4) |
 | Sun, 09 Nov 2025 14:19:53 GMT | The IDOR That Got Me My First $3K And Let Me Delete Files Across Tenants | Sid_x95 | [Read More](https://medium.com/p/be5a65021832) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 08:04:07 GMT | I Was Rejected From Every Cyber Internship. This Is My Comeback. | 4yu5h | [Read More](https://medium.com/p/56a41558cfad) |
 | Sun, 09 Nov 2025 08:03:09 GMT | The Cybertruck Collapse: What It Teaches Us About Innovation and Ego | Naseer Ahmad | [Read More](https://medium.com/p/1a09ea715f8a) |
 | Sun, 09 Nov 2025 08:01:56 GMT | Part V — Vault Chronicles: Integrations That Matter | Raymon Epping | [Read More](https://medium.com/p/d723fdac0892) |
-| Sun, 09 Nov 2025 08:01:56 GMT | Ship Securely in 2025: 5 Laws Devs Can’t Ignore | Quellin | [Read More](https://medium.com/p/8d3417c5bb4a) |
-| Sun, 09 Nov 2025 07:54:59 GMT | Encryption Series — Part 4: RSA & JWKs — The Backbone of Public Key Trust | Aditya Prakash | [Read More](https://medium.com/p/82fd0c529fb5) |
-| Sun, 09 Nov 2025 07:54:06 GMT | Whisper Leak: How Encrypted AI Chats Aren’t as Private as You Think | Virus Vanguard | [Read More](https://medium.com/p/73544bbe7971) |
-| Sun, 09 Nov 2025 07:46:44 GMT | The weight of being okay all the time | Adefunke Adeniyi | [Read More](https://medium.com/p/66dfb58ff99f) |
-| Sun, 09 Nov 2025 07:44:15 GMT | Before You Laugh at the Louvre, Check your own Passwords | Raphael Moutard | [Read More](https://medium.com/p/fa161182de7b) |
-| Sun, 09 Nov 2025 07:42:29 GMT | Tech for Earth: How Trustoryx Is Powering the Future of Secure and Sustainable Technology | NIkhil Kumar | [Read More](https://medium.com/p/2e10abea9070) |
