@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 03:04:36 GMT | HTB Academy — Web Attacks: A Walkthrough of the Challenges (Part 3) | BotsiCat | [Read More](https://medium.com/p/781c9416aa7c) |
+| Sun, 09 Nov 2025 02:48:07 GMT | hdfc bank se paise cut jaaye to kya karen 9238652455 एचडीएफसी बैंक से पैसे कट जाए तो क्या करें… | एचडीएफसी बैंक से पैसे कट जाए तो क्या करें | [Read More](https://medium.com/p/9666060f1d61) |
+| Sun, 09 Nov 2025 02:46:31 GMT | Chapter — 2.1 | Giri | [Read More](https://medium.com/p/374958da5e38) |
+| Sun, 09 Nov 2025 02:42:38 GMT | Golden Ticket Attack on Kerberos and Single Sign-On: Risks and How to Prevent It | Isaac obune | [Read More](https://medium.com/p/d7a1922b50e8) |
+| Sun, 09 Nov 2025 02:31:59 GMT | SIEM Systems The Brain That Connects It ALL | Thegreatpayload | [Read More](https://medium.com/p/cad0af935a0f) |
+| Sun, 09 Nov 2025 01:57:09 GMT | Introducing the TOSS7 (An OWASP-like Reference for Tor Services) | SirHaxAlot | [Read More](https://medium.com/p/b20822d461fe) |
 | Sun, 09 Nov 2025 01:44:56 GMT | CyCTF qualification 2025 : Misc ‘EasyJail’ | VampireXRay | [Read More](https://medium.com/p/36db22acf52e) |
 | Sun, 09 Nov 2025 01:28:33 GMT | Kenobi — TryHackme Walkthrough | Aufarifqi | [Read More](https://medium.com/p/16c7153837f6) |
 | Sun, 09 Nov 2025 01:22:00 GMT | New Idea: Use AI to Become a Smarter, Faster Bug-Bounty Hunter — A Practical Guide | Monu Jangra | [Read More](https://medium.com/p/785e26e0c6a7) |
@@ -29,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 23:50:15 GMT | How Attackers Hijack Your Software Updates (And How to Stop Them) | Ashhadali | [Read More](https://medium.com/p/a378ce4b5e80) |
 | Sat, 08 Nov 2025 23:47:39 GMT | CyCTF qualification 2025 : Reverse ‘BabyCrackMe’ | VampireXRay | [Read More](https://medium.com/p/d29a5b6dfcd3) |
 | Sat, 08 Nov 2025 23:46:24 GMT | When One Error Message Unlocked the Entire Kingdom: A Critical SQL Injection Tale | Jackson Mittag | [Read More](https://medium.com/p/1655c93dd2f8) |
+| Sat, 08 Nov 2025 23:32:42 GMT | Nikto: Escaneo Web Automatizado y Análisis de Vulnerabilidades | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/37b256a86faa) |
 | Sat, 08 Nov 2025 23:31:57 GMT | TLS Versions & Vulnerabilities (SSLv2/3, TLS 1.0/1.1/1.2/1.3) | Arfat Khan | [Read More](https://medium.com/p/63c82df3925f) |
 | Sat, 08 Nov 2025 23:18:54 GMT | It Takes Two to Tango: | Maretta Morovitz | [Read More](https://medium.com/p/b7e857b4c99d) |
 | Sat, 08 Nov 2025 23:08:13 GMT | What the 2017 Equifax Data Breach Teaches Us About Cybersecurity | Max Seo | [Read More](https://medium.com/p/5477fc35582c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 17:00:36 GMT | Building Your AI Development Constitution: The Essential Framework | Wade Woolwine | [Read More](https://medium.com/p/0982b4f7cf50) |
 | Sat, 08 Nov 2025 17:00:23 GMT | Mastering AI Development: Multi-Agent Patterns and Production Quality | Wade Woolwine | [Read More](https://medium.com/p/450e2eb21d08) |
 | Sat, 08 Nov 2025 16:59:49 GMT | Back to Basics: The Ontology of Information | Ilexa Yardley | [Read More](https://medium.com/p/1c27829f823b) |
-| Sat, 08 Nov 2025 16:50:29 GMT | Make Your Phone More Secure With These 3 Steps | SteveMC | [Read More](https://medium.com/p/c9daddba112f) |
-| Sat, 08 Nov 2025 16:46:46 GMT | PART 3: Your Supply Chain Survival Guide And a Golden Career Opportunity | Gopi Sri | [Read More](https://medium.com/p/27f977da29c8) |
-| Sat, 08 Nov 2025 16:37:58 GMT | CyCTF qualification 2025: Inception | s0nDOS | [Read More](https://medium.com/p/cdac9d44e968) |
-| Sat, 08 Nov 2025 16:37:51 GMT | Biometric Authentication in Android | Tharuka Thennakoon | [Read More](https://medium.com/p/eddc5f128a45) |
-| Sat, 08 Nov 2025 16:35:51 GMT | ️ VPS Security Hardening Research Report | Mohamed Elkholy | [Read More](https://medium.com/p/1cb82f951b66) |
-| Sat, 08 Nov 2025 16:35:12 GMT | OWASP Top 10 – 2025: The Most Critical Web Application Security Risks | TRH(The room of hackers) | [Read More](https://medium.com/p/b3cc45928454) |
-| Sat, 08 Nov 2025 16:33:27 GMT | Found my first Reflected XSS bug | Shresthaanushka | [Read More](https://medium.com/p/05e5aa090d21) |
