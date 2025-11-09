@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 17:33:08 GMT | Information Security Therapy | Elena Sarimichailidou | [Read More](https://medium.com/p/628ad2cb1f15) |
+| Sun, 09 Nov 2025 17:27:58 GMT | Secure API Design: The missing pillar in Backend Engineering | Jayanthpawar | [Read More](https://medium.com/p/9025fcac7a47) |
+| Sun, 09 Nov 2025 17:22:04 GMT | Quantum Computing: The Looming Threat to Your Supply Chain’s Encryption | Gopi Sri | [Read More](https://medium.com/p/29bee390eeb5) |
+| Sun, 09 Nov 2025 17:18:02 GMT | CyCTF Qualification: News Leak Challenge | Rawansaeed | [Read More](https://medium.com/p/fd31ce153298) |
+| Sun, 09 Nov 2025 17:17:19 GMT | What Happens When You Reply to Every Spam Email for a Week | Sourav Sardar | [Read More](https://medium.com/p/e3efd0d2cace) |
+| Sun, 09 Nov 2025 17:12:51 GMT | Active Directory (Domain Trusts) | SilentExploit | [Read More](https://medium.com/p/6418c6f84d63) |
 | Sun, 09 Nov 2025 17:02:04 GMT | Episode 5: “The Ghost in the Mesh — Part 2” | Dr. House In I.T. | [Read More](https://medium.com/p/c23f396048e6) |
 | Sun, 09 Nov 2025 16:54:26 GMT | Is BurpAI Going to Replace Pentesters? | Abhishek meena | [Read More](https://medium.com/p/1ac8856ee693) |
 | Sun, 09 Nov 2025 16:53:50 GMT | SOC L1 Alert Triage—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/c4531df57058) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 11:08:33 GMT | How does Samsung A Series Affordable Deliver Amazing Features? | Hana Saito | [Read More](https://medium.com/p/eff12a543e00) |
 | Sun, 09 Nov 2025 11:07:59 GMT | Article-4: Creating Our Ethical Hacking Lab | Aman Kumar Singh | [Read More](https://medium.com/p/d6b03572cb6e) |
 | Sun, 09 Nov 2025 11:05:28 GMT | Zoho People vs Keka HR : The Ultimate HR Clash for Small Biz | Softwaregyan.com | [Read More](https://medium.com/p/479106ce27ab) |
-| Sun, 09 Nov 2025 11:02:07 GMT | Today’s Top Cyber Intelligence Highlights — Nov 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9269446bf399) |
-| Sun, 09 Nov 2025 10:58:48 GMT | Quasar Port Forwarding: Unlocking Access? | SilentInject | [Read More](https://medium.com/p/7291a0924589) |
-| Sun, 09 Nov 2025 10:51:54 GMT | How I found SSTI into an AI model due to unsafe argument | JEETPAL | [Read More](https://medium.com/p/4a44cadcd985) |
-| Sun, 09 Nov 2025 10:46:15 GMT | DockerLabs Writeup — Pntopntobarra (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/35b9bf72e413) |
-| Sun, 09 Nov 2025 10:43:40 GMT | What are the Samsung S24 Ultra Advanced Features You Must Know? | Elowen Virelle | [Read More](https://medium.com/p/42e417e050cf) |
-| Sun, 09 Nov 2025 10:31:01 GMT | 51% of Your Traffic Is Bots — Here’s How to Protect Real Customers | STCLab, Inc. | [Read More](https://medium.com/p/27af426ad851) |
