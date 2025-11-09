@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 08:41:03 GMT | From 404 to $4,000: Real Bugs Found in Forgotten Endpoints | Monika sharma | [Read More](https://medium.com/p/5886c06f7473) |
+| Sun, 09 Nov 2025 08:38:05 GMT | Hazard List for Aviation Technicians | Jacob Daniela | [Read More](https://medium.com/p/ee189cf82ffd) |
 | Sun, 09 Nov 2025 08:20:56 GMT | Breaking Stored XSS Through Filter Bypass | Abhishek Kumar | [Read More](https://medium.com/p/fc4e4c639aa7) |
 | Sun, 09 Nov 2025 08:13:32 GMT | Safe Edges India Partners with South Korea’s LeadPoint to Strengthen Blockchain and Cybersecurity… | Piyush shukla | [Read More](https://medium.com/p/d5c2338c7eaf) |
 | Sun, 09 Nov 2025 08:08:05 GMT | Can This Startup End Winter Darkness, or Will It Blind Our Skies Forever? | Piotrmak Marko | [Read More](https://medium.com/p/8792f64132fc) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 20:55:51 GMT | IDOR Part 2 — Advanced Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/ce7f8a7c1df5) |
 | Sat, 08 Nov 2025 20:54:21 GMT | Giveback HTB Writeup | SecurityWalay | [Read More](https://medium.com/p/0fa929451b98) |
 | Sat, 08 Nov 2025 20:54:20 GMT | The Ontological Attack: Data Poisoning and the Epistemological Corruption of AI | Julian Soloninka | [Read More](https://medium.com/p/655099af1066) |
-| Sat, 08 Nov 2025 20:47:16 GMT | Microsoft Defender for Identity Deployment for Domain Controller(s) | OMAR AL-QTAISHAT | [Read More](https://medium.com/p/973aa06d8090) |
-| Sat, 08 Nov 2025 20:41:25 GMT | The Future of Trump’s Relationship with Ukraine | Emma Loeber | [Read More](https://medium.com/p/ecd87597284f) |
