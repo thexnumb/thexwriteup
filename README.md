@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 23:33:52 GMT | “Hack the System (Legally): Your First Step into Ethical Hacking” | Md Johirul Islam | [Read More](https://medium.com/p/534348f85b1d) |
+| Sun, 09 Nov 2025 23:30:58 GMT | They’re Not After Your Password Anymore. Here’s What Phishers Really Want. | Jamal Mammadli | [Read More](https://medium.com/p/6ca43dd08d30) |
+| Sun, 09 Nov 2025 23:29:14 GMT | Is the Modern internet that fragile? | Olabisi Oduola | [Read More](https://medium.com/p/b856440dc160) |
+| Sun, 09 Nov 2025 23:14:01 GMT | LLMBreaker: Red-Teaming Your LLM APIs (Built in a Weekend) | Cássio Santos | [Read More](https://medium.com/p/0891e4bec479) |
 | Sun, 09 Nov 2025 22:39:15 GMT | AWS Security — Specialty Certification Study Guide | Niraj Kumar | [Read More](https://medium.com/p/e7d4a2cae468) |
 | Sun, 09 Nov 2025 22:36:38 GMT | Access Control Deconstructed: Why a Single Admin Key is a Critical Threat? | Zainab Ibrahim | [Read More](https://medium.com/p/7998a0725c27) |
 | Sun, 09 Nov 2025 22:36:01 GMT | 160 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/64981fa6ae48) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 14:49:19 GMT | Beginner’s BOUNTY Rewards Guide — November 2025 | Chainbounty | [Read More](https://medium.com/p/41dc4a275da6) |
 | Sun, 09 Nov 2025 14:46:55 GMT | AI Outpaced Your Business Continuity Plan — Here’s How to Catch Up | Yael Nagler | [Read More](https://medium.com/p/3891412cc3f6) |
 | Sun, 09 Nov 2025 14:36:35 GMT | Why 2025’s ‘Online Passport’ Gold Rush Will Get People Blackmailed and Ki77ed | Berend Watchus | [Read More](https://medium.com/p/3d9d4c1aa19c) |
-| Sun, 09 Nov 2025 14:26:05 GMT | I Built My Own Real-Time Port Scan Detector | Harsh soni | [Read More](https://medium.com/p/b3fbd1dba1fa) |
-| Sun, 09 Nov 2025 14:22:17 GMT | GitHub and the New Era of Cybersecurity: How Visual Signaling Can Protect Millions of Developers | 0trust0day | [Read More](https://medium.com/p/c5a57b9e5ea4) |
-| Sun, 09 Nov 2025 14:19:53 GMT | The IDOR That Got Me My First $3K And Let Me Delete Files Across Tenants | Sid_x95 | [Read More](https://medium.com/p/be5a65021832) |
-| Sun, 09 Nov 2025 14:13:46 GMT | OverTheWire | LUTSVIA | [Read More](https://medium.com/p/02fb9aaf2188) |
