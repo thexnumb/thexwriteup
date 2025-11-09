@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 22:39:15 GMT | AWS Security — Specialty Certification Study Guide | Niraj Kumar | [Read More](https://medium.com/p/e7d4a2cae468) |
+| Sun, 09 Nov 2025 22:36:38 GMT | Access Control Deconstructed: Why a Single Admin Key is a Critical Threat? | Zainab Ibrahim | [Read More](https://medium.com/p/7998a0725c27) |
+| Sun, 09 Nov 2025 22:36:01 GMT | 160 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/64981fa6ae48) |
+| Sun, 09 Nov 2025 22:34:26 GMT | Why Feeling Deeply Is the Hardest Superpower | Vanny | [Read More](https://medium.com/p/e4a67a1550a8) |
 | Sun, 09 Nov 2025 22:33:39 GMT | My eCTHP Experience: A 4-Day Marathon, a 46-Page Report, and Way Too Much Coffee | Tolga DEMIREL | [Read More](https://medium.com/p/44e10a2fdc36) |
 | Sun, 09 Nov 2025 22:32:14 GMT | Introduction to SOAR — Try Hack Me Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/924682d5fc96) |
 | Sun, 09 Nov 2025 22:24:14 GMT | How Impossible Is It to Guess a Crypto Wallet? | Jeffrey Berthiaume | [Read More](https://medium.com/p/292e77eb5760) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 14:22:17 GMT | GitHub and the New Era of Cybersecurity: How Visual Signaling Can Protect Millions of Developers | 0trust0day | [Read More](https://medium.com/p/c5a57b9e5ea4) |
 | Sun, 09 Nov 2025 14:19:53 GMT | The IDOR That Got Me My First $3K And Let Me Delete Files Across Tenants | Sid_x95 | [Read More](https://medium.com/p/be5a65021832) |
 | Sun, 09 Nov 2025 14:13:46 GMT | OverTheWire | LUTSVIA | [Read More](https://medium.com/p/02fb9aaf2188) |
-| Sun, 09 Nov 2025 14:11:58 GMT | Cherish Your Job: Essential Advice for Navigating Uncertain Times | Qide Lare | [Read More](https://medium.com/p/4a7fd05fc82c) |
-| Sun, 09 Nov 2025 14:11:58 GMT | INVESTIGATING WINDOWS- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/5f0047d00201) |
-| Sun, 09 Nov 2025 14:07:18 GMT | IDOR is simple right?…. Right? | Silent Cipher | [Read More](https://medium.com/p/2a2b08773b9c) |
-| Sun, 09 Nov 2025 13:51:12 GMT | The Eavesdroppers’ War: From Enigma to Pegasus, a History of Signals Intelligence (SIGINT) | Giulia Corso | [Read More](https://medium.com/p/8fc93648c65a) |
