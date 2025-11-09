@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 12:36:09 GMT | Se quiser transformar o mundo, comece pelo que ensinamos às crianças. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/986c1515be53) |
+| Sun, 09 Nov 2025 12:32:00 GMT | Unlocking the Hacker’s Arsenal: A Deep Dive into the IHA089 Cybersecurity Toolkit (2025) | Nktechinfo | [Read More](https://medium.com/p/578463e76a63) |
+| Sun, 09 Nov 2025 12:32:00 GMT | 11 Game-Changing Tips: College Student Online Safety & Password Secrets | Chaos Engineer | [Read More](https://medium.com/p/24d48bf54fed) |
+| Sun, 09 Nov 2025 12:30:53 GMT | The Moment Linux Stops Feeling Hard (And Starts Feeling Like Home) | Fateyaly | [Read More](https://medium.com/p/4fc014f7467a) |
+| Sun, 09 Nov 2025 12:25:30 GMT | From MSP to Federal Cloud: Why Zero Breaches Matter More Than Certifications | Joshua Michael Hall | [Read More](https://medium.com/p/110c401c9fd2) |
+| Sun, 09 Nov 2025 12:22:17 GMT | How to hire a professional hacker | Paul Micheal | [Read More](https://medium.com/p/8c214816863a) |
+| Sun, 09 Nov 2025 12:21:47 GMT | Hacking, VM, Linux and Networking Introduction | Sobhidasss | [Read More](https://medium.com/p/ac053acafe81) |
+| Sun, 09 Nov 2025 12:17:08 GMT | Süni intelekt və Manipulasiya | Natig Mammadli | [Read More](https://medium.com/p/0c3c0f0c6fd9) |
+| Sun, 09 Nov 2025 12:14:51 GMT | PortSwigger : Authentication vulnerabilities labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/c2c16bce9b2a) |
+| Sun, 09 Nov 2025 12:14:40 GMT | Why History Says You’re Wrong About AI | Zebbern | [Read More](https://medium.com/p/0a688de93607) |
+| Sun, 09 Nov 2025 12:13:41 GMT | Chota Amrani abashed at the penetration of his disguise went away and returned dressed as a man | sami toor | [Read More](https://medium.com/p/0628fbc20b5a) |
+| Sun, 09 Nov 2025 12:12:21 GMT | Palo Alto vs FortiGate vs Check Point: Which Firewall Should You Learn in 2025? - NGCloudX | Vandit jain | [Read More](https://medium.com/p/73e0aeb8ae03) |
+| Sun, 09 Nov 2025 12:05:04 GMT | OWASP Top 10 2025 in a Nutshell | PARADOX | [Read More](https://medium.com/p/bbfceed91eb2) |
+| Sun, 09 Nov 2025 12:03:33 GMT | Full Attack Chain: How Chained IDORs on Thrive Global Exposed Confidential Employee Wellness data | Mayur Pandya | [Read More](https://medium.com/p/30a657ba550d) |
+| Sun, 09 Nov 2025 12:03:21 GMT | Debloat your windows in 3 steps. | err0rgod | [Read More](https://medium.com/p/8404d6ffea58) |
+| Sun, 09 Nov 2025 11:58:54 GMT | Day 3: Comfortable Silences | itsmetannahlee | [Read More](https://medium.com/p/b70e8d11210a) |
+| Sun, 09 Nov 2025 11:55:02 GMT | Freelancers Beware: How North Korean Hackers Are Using Your Identity to Bypass Global Sanctions | CrypIQ | [Read More](https://medium.com/p/b2f78fecc682) |
+| Sun, 09 Nov 2025 11:54:35 GMT | How Hackers Use Steam Games to Empty Your Bitcoin Wallet | LearnWithMe | [Read More](https://medium.com/p/fa001daf7947) |
+| Sun, 09 Nov 2025 11:40:46 GMT | Can Samsung A Series Energy-Efficient Save Your Battery Life? | Grace Anderson | [Read More](https://medium.com/p/648a2b679d0e) |
 | Sun, 09 Nov 2025 11:32:33 GMT | Becoming Nyells: The Girl Who Chose Code, Creativity & Cybersecurity | Nyelliembu | [Read More](https://medium.com/p/76eaed5950fb) |
 | Sun, 09 Nov 2025 11:29:36 GMT | Hold Up! Unrestricted File Upload in Online Notes Sharing Platform Could Expose Your Server! | CVEHUB | [Read More](https://medium.com/p/7bba2cb42465) |
 | Sun, 09 Nov 2025 11:24:26 GMT | Hardening in Cybersecurity — A Core Defense Strategy for Smart Grids and Power Systems | Ramandeep Bagri | [Read More](https://medium.com/p/e935f0ac0b29) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 05:44:34 GMT | Top Advanced XSS Payloads That Still Work in 2025 | Monu Jangra | [Read More](https://medium.com/p/58f11191df8f) |
 | Sun, 09 Nov 2025 05:43:27 GMT | Elevating Movement TryHackMe Walkthrough - Privilege Escalation & RDP Analysis | Visir | [Read More](https://medium.com/p/3b8f3b19bb7a) |
 | Sun, 09 Nov 2025 05:31:19 GMT | eBPF for LLM and AI Agent Tracing: The Future of Non-Invasive Observability? | Thiwanka Chameera Jayasiri | [Read More](https://medium.com/p/999db2cd4866) |
-| Sun, 09 Nov 2025 05:24:05 GMT | The Convergence of AI, Data Science, and Cybersecurity: Building Next Frontier of Digital Defense | Bonuke Vincent | [Read More](https://medium.com/p/9aaf12267b3f) |
-| Sun, 09 Nov 2025 04:27:30 GMT | Real-World OWASP Example in a MERN App — Broken Access Control Explained | Faisal Mahamud | [Read More](https://medium.com/p/fd3b7059236d) |
-| Sun, 09 Nov 2025 04:07:15 GMT | The Most Overlooked Bug Bounty Misconfiguration (Add This To Your Checklist) | Rehan Sohail | [Read More](https://medium.com/p/448cce763beb) |
-| Sun, 09 Nov 2025 03:58:44 GMT | Are Your Email Accounts and Passwords Safe? Or Already Exposed? | Mohamad Mahmood | [Read More](https://medium.com/p/a08aecb0cc25) |
-| Sun, 09 Nov 2025 03:45:32 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: System-Host Based Attacks CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/bf34ce5d1636) |
-| Sun, 09 Nov 2025 03:39:29 GMT | A bug Bounty Hunter’s Guide to Cloud Misconfiguration. | ToxSec | [Read More](https://medium.com/p/522db28ff93e) |
-| Sun, 09 Nov 2025 03:39:13 GMT | Get Paid: Your First Bug Bounty | ToxSec | [Read More](https://medium.com/p/6a0c52837408) |
-| Sun, 09 Nov 2025 03:31:59 GMT | How Amazon Disrupted APT29’s Watering-Hole Attack | Deven Chhajed | [Read More](https://medium.com/p/55410caab087) |
-| Sun, 09 Nov 2025 03:23:46 GMT | I found a VBS “prank” that actually fills your drives with junk files (Analysis of a 2000s… | Harsh Raj Singhania | [Read More](https://medium.com/p/5fe1c8d38155) |
-| Sun, 09 Nov 2025 03:10:06 GMT | HackSmarter: Welcome | Persecure | [Read More](https://medium.com/p/10215bcb054c) |
-| Sun, 09 Nov 2025 03:04:36 GMT | HTB Academy — Web Attacks: A Walkthrough of the Challenges (Part 3) | BotsiCat | [Read More](https://medium.com/p/781c9416aa7c) |
-| Sun, 09 Nov 2025 02:48:07 GMT | hdfc bank se paise cut jaaye to kya karen 9238652455 एचडीएफसी बैंक से पैसे कट जाए तो क्या करें… | एचडीएफसी बैंक से पैसे कट जाए तो क्या करें | [Read More](https://medium.com/p/9666060f1d61) |
-| Sun, 09 Nov 2025 02:46:31 GMT | Chapter — 2.1 | Giri | [Read More](https://medium.com/p/374958da5e38) |
-| Sun, 09 Nov 2025 02:42:38 GMT | Golden Ticket Attack on Kerberos and Single Sign-On: Risks and How to Prevent It | Isaac obune | [Read More](https://medium.com/p/d7a1922b50e8) |
-| Sun, 09 Nov 2025 02:31:59 GMT | SIEM Systems The Brain That Connects It ALL | Thegreatpayload | [Read More](https://medium.com/p/cad0af935a0f) |
-| Sun, 09 Nov 2025 01:57:09 GMT | Introducing the TOSS7 (An OWASP-like Reference for Tor Services) | SirHaxAlot | [Read More](https://medium.com/p/b20822d461fe) |
-| Sun, 09 Nov 2025 01:44:56 GMT | CyCTF qualification 2025 : Misc ‘EasyJail’ | VampireXRay | [Read More](https://medium.com/p/36db22acf52e) |
-| Sun, 09 Nov 2025 01:28:33 GMT | Kenobi — TryHackme Walkthrough | Aufarifqi | [Read More](https://medium.com/p/16c7153837f6) |
-| Sun, 09 Nov 2025 01:22:00 GMT | New Idea: Use AI to Become a Smarter, Faster Bug-Bounty Hunter — A Practical Guide | Monu Jangra | [Read More](https://medium.com/p/785e26e0c6a7) |
