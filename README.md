@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 08:20:56 GMT | Breaking Stored XSS Through Filter Bypass | Abhishek Kumar | [Read More](https://medium.com/p/fc4e4c639aa7) |
+| Sun, 09 Nov 2025 08:13:32 GMT | Safe Edges India Partners with South Korea’s LeadPoint to Strengthen Blockchain and Cybersecurity… | Piyush shukla | [Read More](https://medium.com/p/d5c2338c7eaf) |
+| Sun, 09 Nov 2025 08:08:05 GMT | Can This Startup End Winter Darkness, or Will It Blind Our Skies Forever? | Piotrmak Marko | [Read More](https://medium.com/p/8792f64132fc) |
+| Sun, 09 Nov 2025 08:04:07 GMT | I Was Rejected From Every Cyber Internship. This Is My Comeback. | 4yu5h | [Read More](https://medium.com/p/56a41558cfad) |
+| Sun, 09 Nov 2025 08:03:09 GMT | The Cybertruck Collapse: What It Teaches Us About Innovation and Ego | Naseer Ahmad | [Read More](https://medium.com/p/1a09ea715f8a) |
+| Sun, 09 Nov 2025 08:01:56 GMT | Part V — Vault Chronicles: Integrations That Matter | Raymon Epping | [Read More](https://medium.com/p/d723fdac0892) |
+| Sun, 09 Nov 2025 08:01:56 GMT | Ship Securely in 2025: 5 Laws Devs Can’t Ignore | Quellin | [Read More](https://medium.com/p/8d3417c5bb4a) |
+| Sun, 09 Nov 2025 07:54:59 GMT | Encryption Series — Part 4: RSA & JWKs — The Backbone of Public Key Trust | Aditya Prakash | [Read More](https://medium.com/p/82fd0c529fb5) |
+| Sun, 09 Nov 2025 07:54:06 GMT | Whisper Leak: How Encrypted AI Chats Aren’t as Private as You Think | Virus Vanguard | [Read More](https://medium.com/p/73544bbe7971) |
+| Sun, 09 Nov 2025 07:46:44 GMT | The weight of being okay all the time | Adefunke Adeniyi | [Read More](https://medium.com/p/66dfb58ff99f) |
+| Sun, 09 Nov 2025 07:44:15 GMT | Before You Laugh at the Louvre, Check your own Passwords | Raphael Moutard | [Read More](https://medium.com/p/fa161182de7b) |
+| Sun, 09 Nov 2025 07:42:29 GMT | Tech for Earth: How Trustoryx Is Powering the Future of Secure and Sustainable Technology | NIkhil Kumar | [Read More](https://medium.com/p/2e10abea9070) |
+| Sun, 09 Nov 2025 07:41:42 GMT | ️ Meet Aardvark — OpenAI’s Agentic Security Researcher That Might Redefine Cyber Defense Forever | Kumar Ankit | [Read More](https://medium.com/p/96dfc22107f4) |
+| Sun, 09 Nov 2025 07:39:50 GMT | Top 10 AI-Driven Cybersecurity Tools | Manisha Chaudhary | [Read More](https://medium.com/p/9d887b2ff239) |
 | Sun, 09 Nov 2025 07:33:12 GMT | Kubernetes - Pod Security Admission | Topahadzi | [Read More](https://medium.com/p/e084fb98154b) |
 | Sun, 09 Nov 2025 07:30:15 GMT | How a File-Manager Link Could Be Your Biggest Cyber Security Threat | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/90bab6cab8dd) |
 | Sun, 09 Nov 2025 07:21:38 GMT | The Most Influential Phrases About Achieving Your Goals | Aliyu Ibrahim | [Read More](https://medium.com/p/b51e4a8cd47a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 20:54:20 GMT | The Ontological Attack: Data Poisoning and the Epistemological Corruption of AI | Julian Soloninka | [Read More](https://medium.com/p/655099af1066) |
 | Sat, 08 Nov 2025 20:47:16 GMT | Microsoft Defender for Identity Deployment for Domain Controller(s) | OMAR AL-QTAISHAT | [Read More](https://medium.com/p/973aa06d8090) |
 | Sat, 08 Nov 2025 20:41:25 GMT | The Future of Trump’s Relationship with Ukraine | Emma Loeber | [Read More](https://medium.com/p/ecd87597284f) |
-| Sat, 08 Nov 2025 20:25:27 GMT | CyCTF “Vault Raider” Android Application | Mohamed_Mamdouh | [Read More](https://medium.com/p/e73858d2529b) |
-| Sat, 08 Nov 2025 20:24:17 GMT | CyCTF “Grand Theft Mobile GTM” Android Application | Mohamed_Mamdouh | [Read More](https://medium.com/p/19c918cc2669) |
-| Sat, 08 Nov 2025 20:21:53 GMT | What If? | Andy Tillman UK | [Read More](https://medium.com/p/382cd851d3a4) |
-| Sat, 08 Nov 2025 20:19:07 GMT | Mastering AppArmor Profiles in Production Environments | Linux Guide | [Read More](https://medium.com/p/f2f4c5d33873) |
-| Sat, 08 Nov 2025 20:13:59 GMT | PortSwigger : Authentication vulnerabilities labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/fa8a054f8e1d) |
-| Sat, 08 Nov 2025 20:09:34 GMT | Episode 4: “The Ghost in the Mesh” | Dr. House In I.T. | [Read More](https://medium.com/p/15bca5ad3fd9) |
-| Sat, 08 Nov 2025 19:55:02 GMT | 10 Phases of Ethical Hacking: Tools, Purpose & Best Practices | Nazrul Islam Rana | [Read More](https://medium.com/p/27981a796360) |
-| Sat, 08 Nov 2025 19:53:31 GMT | My 111-Day Journey into Cybersecurity: Lessons, Skills, and Growth | Lavindu Rajaguru | [Read More](https://medium.com/p/f511288eba5c) |
-| Sat, 08 Nov 2025 19:46:56 GMT | Maquina THLP — The Hackers Lab | Tomas Martelon | [Read More](https://medium.com/p/fe85dd8ebb87) |
-| Sat, 08 Nov 2025 19:39:29 GMT | Siber Güvenliğin Karantina Odası: Sandbox Nedir ve Neden Önemlidir? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/3eab3c371613) |
-| Sat, 08 Nov 2025 19:31:20 GMT | Doge Lab Write-Up CyCTF - BnHany | BnHany | [Read More](https://medium.com/p/6aa0d8b71170) |
-| Sat, 08 Nov 2025 19:27:56 GMT | Breaking Into Cybersecurity: A Practical Certification and Transition Strategy | Nick Pierrelouis, D.Sc. | [Read More](https://medium.com/p/0bdead81f2eb) |
-| Sat, 08 Nov 2025 19:23:37 GMT | Stay Safe Anywhere with a Portable Door Lock | Marc Ford | [Read More](https://medium.com/p/73f159821ea7) |
-| Sat, 08 Nov 2025 19:20:09 GMT | ECDSA-Shamir -Beaver Triples: Understanding MPC by building it Step by Step | Bereket Gebredingle | [Read More](https://medium.com/p/4c946e596b8f) |
