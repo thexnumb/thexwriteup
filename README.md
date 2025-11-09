@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 13:33:00 GMT | Audit Escape CyCTF2025 | Mohamed Ashraf (LΔzΔru$) | [Read More](https://medium.com/p/0316080ae546) |
 | Sun, 09 Nov 2025 13:23:22 GMT | The Digital Passport Problem: Certificates, CAs, and Common Issues Explained | Arfat Khan | [Read More](https://medium.com/p/db4319c067ea) |
+| Sun, 09 Nov 2025 13:21:55 GMT | The Factory That Froze | O. J. Okpabi | [Read More](https://medium.com/p/38c7e4b33407) |
+| Sun, 09 Nov 2025 13:19:38 GMT | É a sua frequência energética que atrai ou repele as pessoas ao seu redor. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/dc935a38fb2e) |
 | Sun, 09 Nov 2025 13:17:47 GMT | How To Detect When Cellphone/Smartphone is Hacked - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/3d9e6a235911) |
 | Sun, 09 Nov 2025 13:11:12 GMT | OWASP Top 10–2021 — Writeup | Mahir | [Read More](https://medium.com/p/af65d44c9797) |
 | Sun, 09 Nov 2025 13:01:33 GMT | I Got A Phishing Email From ‘Substack’ And I Totally Fell For It | MianAbdul Manan | [Read More](https://medium.com/p/56bc38d3de03) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 07:13:48 GMT | Bandit OverTheWire writeup — Level 15  → Level 16 | Dawid Kowalski | [Read More](https://medium.com/p/f3dc932591ba) |
 | Sun, 09 Nov 2025 07:12:36 GMT | OWASP Top 10 (2025): What Changed — the Front Row Story, the Impact, and Practice Labs | Atharva Shirude | [Read More](https://medium.com/p/1a9be7f02d0a) |
 | Sun, 09 Nov 2025 07:12:15 GMT | AI Prompt Injection Attack – A Technical Deep Dive into the Emerging AI Security Frontier | David SEHYEON Baek | [Read More](https://medium.com/p/db1a51e13775) |
-| Sun, 09 Nov 2025 07:11:21 GMT | Metasploitable 3 (Windows) Write-up — Part [III]: Port 80 — CVE-2015–1635 & FTP Upload Exploitation | Kalash Kundaliya | [Read More](https://medium.com/p/30950d611c81) |
-| Sun, 09 Nov 2025 07:07:01 GMT | Blockchain & Cryptography Development: The Real Difference Between Shor, Grover, and Annealing | SORA SS256 Satoshi is SHA-256 | [Read More](https://medium.com/p/04150a10a5ff) |
-| Sun, 09 Nov 2025 06:58:07 GMT | LFI to RCE: Mastering the Step-by-Step Path from File Inclusion to Full Shell Access | Very Lazy Tech | [Read More](https://medium.com/p/634c577056e2) |
