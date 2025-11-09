@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 03:45:32 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: System-Host Based Attacks CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/bf34ce5d1636) |
+| Sun, 09 Nov 2025 03:39:29 GMT | A bug Bounty Hunter’s Guide to Cloud Misconfiguration. | ToxSec | [Read More](https://medium.com/p/522db28ff93e) |
+| Sun, 09 Nov 2025 03:39:13 GMT | Get Paid: Your First Bug Bounty | ToxSec | [Read More](https://medium.com/p/6a0c52837408) |
+| Sun, 09 Nov 2025 03:31:59 GMT | How Amazon Disrupted APT29’s Watering-Hole Attack | Deven Chhajed | [Read More](https://medium.com/p/55410caab087) |
+| Sun, 09 Nov 2025 03:23:46 GMT | I found a VBS “prank” that actually fills your drives with junk files (Analysis of a 2000s… | Harsh Raj Singhania | [Read More](https://medium.com/p/5fe1c8d38155) |
+| Sun, 09 Nov 2025 03:10:06 GMT | HackSmarter: Welcome | Persecure | [Read More](https://medium.com/p/10215bcb054c) |
 | Sun, 09 Nov 2025 03:04:36 GMT | HTB Academy — Web Attacks: A Walkthrough of the Challenges (Part 3) | BotsiCat | [Read More](https://medium.com/p/781c9416aa7c) |
 | Sun, 09 Nov 2025 02:48:07 GMT | hdfc bank se paise cut jaaye to kya karen 9238652455 एचडीएफसी बैंक से पैसे कट जाए तो क्या करें… | एचडीएफसी बैंक से पैसे कट जाए तो क्या करें | [Read More](https://medium.com/p/9666060f1d61) |
 | Sun, 09 Nov 2025 02:46:31 GMT | Chapter — 2.1 | Giri | [Read More](https://medium.com/p/374958da5e38) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 17:28:57 GMT | Ransomware as a Service: The Business of Digital Extortion | Rashadul Islam | [Read More](https://medium.com/p/b3f6fee7bad0) |
 | Sat, 08 Nov 2025 17:14:53 GMT | How I Found Security Flaws in Bizboost Platform And What We Can Learn From It | Chinedum Udenkwo | [Read More](https://medium.com/p/0106d5488d4d) |
 | Sat, 08 Nov 2025 17:07:40 GMT | # BOTSv3 Security Investigation Report | MoFahdel | [Read More](https://medium.com/p/e69446603f6b) |
-| Sat, 08 Nov 2025 17:05:17 GMT | The 1-Minute Leak Triage: Employees vs Customers vs Third Parties | Alexandre Vandamme | [Read More](https://medium.com/p/1fdc3e597d87) |
-| Sat, 08 Nov 2025 17:02:18 GMT | Build a Free Home SOC This Weekend with Sysmon, Sigma & Wazuh — No Licenses, Just Real Detection… | Security Pulse | [Read More](https://medium.com/p/d2179602161d) |
-| Sat, 08 Nov 2025 17:00:50 GMT | Why AI Coding Assistants Are Making You Slower (And What Nobody’s Telling You To Fix It) | Wade Woolwine | [Read More](https://medium.com/p/357be6050db1) |
-| Sat, 08 Nov 2025 17:00:36 GMT | Building Your AI Development Constitution: The Essential Framework | Wade Woolwine | [Read More](https://medium.com/p/0982b4f7cf50) |
-| Sat, 08 Nov 2025 17:00:23 GMT | Mastering AI Development: Multi-Agent Patterns and Production Quality | Wade Woolwine | [Read More](https://medium.com/p/450e2eb21d08) |
-| Sat, 08 Nov 2025 16:59:49 GMT | Back to Basics: The Ontology of Information | Ilexa Yardley | [Read More](https://medium.com/p/1c27829f823b) |
