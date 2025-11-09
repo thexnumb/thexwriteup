@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 06:19:06 GMT | OAuth Authentication Bypass leading to PII disclosure | janlele91 | [Read More](https://medium.com/p/5d243b62d532) |
+| Sun, 09 Nov 2025 06:14:53 GMT | My Cybersecurity Journey — day 1–11/8/25 | Cliffetond | [Read More](https://medium.com/p/814e41143162) |
+| Sun, 09 Nov 2025 06:11:04 GMT | N-Day Everyday , CVE-2025–30065 ve CVE-2025–46762 Apache Parquet Avro Zafiyeti | Yakup Erdem Ünal | [Read More](https://medium.com/p/ecd2f45a661f) |
+| Sun, 09 Nov 2025 05:59:08 GMT | How a Simple SVG File Turned Into a Data Exfiltration Vector in an Invoice System | Bytewreaker | [Read More](https://medium.com/p/8cc78bedd1a8) |
+| Sun, 09 Nov 2025 05:44:34 GMT | Top Advanced XSS Payloads That Still Work in 2025 | Monu Jangra | [Read More](https://medium.com/p/58f11191df8f) |
+| Sun, 09 Nov 2025 05:43:27 GMT | Elevating Movement TryHackMe Walkthrough - Privilege Escalation & RDP Analysis | Visir | [Read More](https://medium.com/p/3b8f3b19bb7a) |
+| Sun, 09 Nov 2025 05:31:19 GMT | eBPF for LLM and AI Agent Tracing: The Future of Non-Invasive Observability? | Thiwanka Chameera Jayasiri | [Read More](https://medium.com/p/999db2cd4866) |
 | Sun, 09 Nov 2025 05:24:05 GMT | The Convergence of AI, Data Science, and Cybersecurity: Building Next Frontier of Digital Defense | Bonuke Vincent | [Read More](https://medium.com/p/9aaf12267b3f) |
 | Sun, 09 Nov 2025 04:27:30 GMT | Real-World OWASP Example in a MERN App — Broken Access Control Explained | Faisal Mahamud | [Read More](https://medium.com/p/fd3b7059236d) |
 | Sun, 09 Nov 2025 04:07:15 GMT | The Most Overlooked Bug Bounty Misconfiguration (Add This To Your Checklist) | Rehan Sohail | [Read More](https://medium.com/p/448cce763beb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 18:12:36 GMT | Without the Mask, I Still Want You to Stay | Cam | [Read More](https://medium.com/p/b79a3e123bd6) |
 | Sat, 08 Nov 2025 18:07:59 GMT | When I Tried to Threat Model an AI System… Everything Broke the Rules | Hackwithabhi | [Read More](https://medium.com/p/9b25e496dd47) |
 | Sat, 08 Nov 2025 18:06:06 GMT | The Invisible War: How Cybersecurity Became the New Battlefield of the 21st Century | ACTHEBINOMA GODSTIME | [Read More](https://medium.com/p/5b1aab92dbe2) |
-| Sat, 08 Nov 2025 18:03:16 GMT | The Quiet Importance of Mosquitoes in the Environment | Leona Gray | [Read More](https://medium.com/p/36802eed232d) |
-| Sat, 08 Nov 2025 18:00:58 GMT | Injected #3: Lethal SSRF — Advanced Exploitation Series | Chux | [Read More](https://medium.com/p/f6b17f346c5a) |
-| Sat, 08 Nov 2025 17:58:16 GMT | Secrets Management in DevOps — How to Handle Secrets the Right Way | Arantika Bagewadi | [Read More](https://medium.com/p/b36a24649731) |
-| Sat, 08 Nov 2025 17:52:28 GMT | NahamStore Task 2: Setup Guide — A Beginner-Friendly Walkthrough | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/0617e59a1576) |
-| Sat, 08 Nov 2025 17:52:12 GMT | When AI Becomes the Insider Threat: What Companies Need to Know | Govind K M | [Read More](https://medium.com/p/dbd30c7333de) |
-| Sat, 08 Nov 2025 17:49:43 GMT | The Greenholt Phish - TryHackMe | 0xRahuL | [Read More](https://medium.com/p/39353fa29a7f) |
-| Sat, 08 Nov 2025 17:36:10 GMT | CyCTF - WEB WriteUp | Ahmed Salah | [Read More](https://medium.com/p/3a40b9c9902b) |
