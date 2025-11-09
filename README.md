@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 22:33:39 GMT | My eCTHP Experience: A 4-Day Marathon, a 46-Page Report, and Way Too Much Coffee | Tolga DEMIREL | [Read More](https://medium.com/p/44e10a2fdc36) |
+| Sun, 09 Nov 2025 22:32:14 GMT | Introduction to SOAR — Try Hack Me Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/924682d5fc96) |
+| Sun, 09 Nov 2025 22:24:14 GMT | How Impossible Is It to Guess a Crypto Wallet? | Jeffrey Berthiaume | [Read More](https://medium.com/p/292e77eb5760) |
+| Sun, 09 Nov 2025 22:19:48 GMT | Understanding Covert Channels: Hidden Pathways of Data Leakage | Raviteja Mureboina | [Read More](https://medium.com/p/69621aec34c3) |
+| Sun, 09 Nov 2025 22:13:43 GMT | The Media Maelstrom | Bill Lovell | [Read More](https://medium.com/p/40e03bb99d07) |
 | Sun, 09 Nov 2025 22:10:20 GMT | TryHackMe — File Inclusion — Walkthrough | Alan | [Read More](https://medium.com/p/fb7c5ba9124b) |
+| Sun, 09 Nov 2025 22:07:04 GMT | AI: technical problems | Jhoan Sebastián Fuentes Hernández | [Read More](https://medium.com/p/8a56ae8d347b) |
 | Sun, 09 Nov 2025 21:57:49 GMT | HTB Challenge — Global Hyperlink Zone | Fardeen A. | [Read More](https://medium.com/p/46977f16dee4) |
 | Sun, 09 Nov 2025 21:53:13 GMT | Penforce CTF 2025 Write-up: Securing 1st Place (and 3 First Bloods) | Ibraheem EL-Mougy | [Read More](https://medium.com/p/6a8042438895) |
 | Sun, 09 Nov 2025 21:47:56 GMT | Threat Intelligence Data Classification Comparison | TΞLΞMΞTRY | [Read More](https://medium.com/p/96a6b7d4fe01) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 14:11:58 GMT | INVESTIGATING WINDOWS- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/5f0047d00201) |
 | Sun, 09 Nov 2025 14:07:18 GMT | IDOR is simple right?…. Right? | Silent Cipher | [Read More](https://medium.com/p/2a2b08773b9c) |
 | Sun, 09 Nov 2025 13:51:12 GMT | The Eavesdroppers’ War: From Enigma to Pegasus, a History of Signals Intelligence (SIGINT) | Giulia Corso | [Read More](https://medium.com/p/8fc93648c65a) |
-| Sun, 09 Nov 2025 13:45:19 GMT | KTOR: a Linux lateral-movement tool that performs fileless scans of internal HTTP services for… | Мартин. | [Read More](https://medium.com/p/f1d7911562ae) |
-| Sun, 09 Nov 2025 13:44:54 GMT | GI6E: HEX-GRID CODEX (HGC): a 6-bit structured encoding (3-bit group + 3-bit index) producing 64… | Мартин. | [Read More](https://medium.com/p/81c3c52675ae) |
-| Sun, 09 Nov 2025 13:44:31 GMT | Self Proccess Injection With CPP | 0xc4t | [Read More](https://medium.com/p/b2105fc0c1b2) |
-| Sun, 09 Nov 2025 13:33:00 GMT | Audit Escape CyCTF2025 | Mohamed Ashraf (LΔzΔru$) | [Read More](https://medium.com/p/0316080ae546) |
-| Sun, 09 Nov 2025 13:23:22 GMT | The Digital Passport Problem: Certificates, CAs, and Common Issues Explained | Arfat Khan | [Read More](https://medium.com/p/db4319c067ea) |
-| Sun, 09 Nov 2025 13:21:55 GMT | The Factory That Froze | O. J. Okpabi | [Read More](https://medium.com/p/38c7e4b33407) |
