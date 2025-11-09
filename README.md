@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 15:26:28 GMT | From Curiosity to Command Line: My Self-Taught Journey into Cybersecurity | X3RX3S Sec. | [Read More](https://medium.com/p/f7730468cb7f) |
+| Sun, 09 Nov 2025 15:25:11 GMT | Persistent Session Validity After Password Change | 0xMo7areb | [Read More](https://medium.com/p/59f7f70ef92f) |
+| Sun, 09 Nov 2025 15:23:58 GMT | TryHackMe - Red Team Engagements Write-up | Virendra Kumar | [Read More](https://medium.com/p/16062aed3af3) |
+| Sun, 09 Nov 2025 15:22:19 GMT | CVE-2025–48593 — Zero-Click Remote Code Execution in Android System | LETCHU PKT | [Read More](https://medium.com/p/6cad5ea4a9e5) |
+| Sun, 09 Nov 2025 15:21:18 GMT | How I Passed the CompTIA Security+ The Journey Beyond the Exam | Incidalus | [Read More](https://medium.com/p/01bbcc9af214) |
+| Sun, 09 Nov 2025 15:21:18 GMT | Big 6 -HTTP headers | Aryan sharma | [Read More](https://medium.com/p/588d172d7b8b) |
 | Sun, 09 Nov 2025 15:16:14 GMT | From Scholarship Form to Security Find — My Broken Link Story | Vedant vhatkar | [Read More](https://medium.com/p/f32f8bf1f20e) |
 | Sun, 09 Nov 2025 15:01:57 GMT | Break Out The Cage Tryhackme walkthroughs | Mainekhacker | [Read More](https://medium.com/p/9af9793c8005) |
 | Sun, 09 Nov 2025 14:56:27 GMT | When Words Weave Worlds Closer Than Skin | Kushal Dhananjay Samant | [Read More](https://medium.com/p/c38d79ac7278) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 08:41:03 GMT | From 404 to $4,000: Real Bugs Found in Forgotten Endpoints | Monika sharma | [Read More](https://medium.com/p/5886c06f7473) |
 | Sun, 09 Nov 2025 08:40:17 GMT | How secure is your code on the web? | Mayur Devgaonkar | [Read More](https://medium.com/p/ea256fb96871) |
 | Sun, 09 Nov 2025 08:38:05 GMT | Hazard List for Aviation Technicians | Jacob Daniela | [Read More](https://medium.com/p/ee189cf82ffd) |
-| Sun, 09 Nov 2025 08:20:56 GMT | Breaking Stored XSS Through Filter Bypass | Abhishek Kumar | [Read More](https://medium.com/p/fc4e4c639aa7) |
-| Sun, 09 Nov 2025 08:13:32 GMT | Safe Edges India Partners with South Korea’s LeadPoint to Strengthen Blockchain and Cybersecurity… | Piyush shukla | [Read More](https://medium.com/p/d5c2338c7eaf) |
-| Sun, 09 Nov 2025 08:08:05 GMT | Can This Startup End Winter Darkness, or Will It Blind Our Skies Forever? | Piotrmak Marko | [Read More](https://medium.com/p/8792f64132fc) |
-| Sun, 09 Nov 2025 08:04:07 GMT | I Was Rejected From Every Cyber Internship. This Is My Comeback. | 4yu5h | [Read More](https://medium.com/p/56a41558cfad) |
-| Sun, 09 Nov 2025 08:03:09 GMT | The Cybertruck Collapse: What It Teaches Us About Innovation and Ego | Naseer Ahmad | [Read More](https://medium.com/p/1a09ea715f8a) |
-| Sun, 09 Nov 2025 08:01:56 GMT | Part V — Vault Chronicles: Integrations That Matter | Raymon Epping | [Read More](https://medium.com/p/d723fdac0892) |
