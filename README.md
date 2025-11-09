@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 22:10:20 GMT | TryHackMe — File Inclusion — Walkthrough | Alan | [Read More](https://medium.com/p/fb7c5ba9124b) |
+| Sun, 09 Nov 2025 21:57:49 GMT | HTB Challenge — Global Hyperlink Zone | Fardeen A. | [Read More](https://medium.com/p/46977f16dee4) |
+| Sun, 09 Nov 2025 21:53:13 GMT | Penforce CTF 2025 Write-up: Securing 1st Place (and 3 First Bloods) | Ibraheem EL-Mougy | [Read More](https://medium.com/p/6a8042438895) |
+| Sun, 09 Nov 2025 21:47:56 GMT | Threat Intelligence Data Classification Comparison | TΞLΞMΞTRY | [Read More](https://medium.com/p/96a6b7d4fe01) |
+| Sun, 09 Nov 2025 21:44:46 GMT | Pipe Based Local Shell | S12 - 0x12Dark Development | [Read More](https://medium.com/p/15098e78ca64) |
+| Sun, 09 Nov 2025 21:40:11 GMT | Privilege Escalation From Guest To Admin | Mado | [Read More](https://medium.com/p/c3d2eb357dd1) |
+| Sun, 09 Nov 2025 21:39:55 GMT | Spicy Challenge — CyShield CTF | Omar Ahmed Abdelslaam | [Read More](https://medium.com/p/a808ee045589) |
+| Sun, 09 Nov 2025 21:35:38 GMT | Monese, Android & Security — Inconveniencing Fraudsters or Customers? | NSA | [Read More](https://medium.com/p/010810cd10c5) |
 | Sun, 09 Nov 2025 21:34:17 GMT | CyCTF 2025 Inception - Web | Abdelrahman Taymour | [Read More](https://medium.com/p/6530f9480fb6) |
 | Sun, 09 Nov 2025 21:32:44 GMT | Linux Security Incident Response Framework | Cube1214 | [Read More](https://medium.com/p/27c9ff14f045) |
 | Sun, 09 Nov 2025 21:17:30 GMT | Side-Channel Attacks on Mobile and IoT what they are, why they matter, and how to defend against… | Bervice | [Read More](https://medium.com/p/0a05ccea2ee9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 13:33:00 GMT | Audit Escape CyCTF2025 | Mohamed Ashraf (LΔzΔru$) | [Read More](https://medium.com/p/0316080ae546) |
 | Sun, 09 Nov 2025 13:23:22 GMT | The Digital Passport Problem: Certificates, CAs, and Common Issues Explained | Arfat Khan | [Read More](https://medium.com/p/db4319c067ea) |
 | Sun, 09 Nov 2025 13:21:55 GMT | The Factory That Froze | O. J. Okpabi | [Read More](https://medium.com/p/38c7e4b33407) |
-| Sun, 09 Nov 2025 13:19:38 GMT | É a sua frequência energética que atrai ou repele as pessoas ao seu redor. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/dc935a38fb2e) |
-| Sun, 09 Nov 2025 13:17:47 GMT | How To Detect When Cellphone/Smartphone is Hacked - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/3d9e6a235911) |
-| Sun, 09 Nov 2025 13:11:12 GMT | OWASP Top 10–2021 — Writeup | Mahir | [Read More](https://medium.com/p/af65d44c9797) |
-| Sun, 09 Nov 2025 13:03:07 GMT | Se você não honra sua palavra, mude enquanto ainda há tempo. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/9b84f0813380) |
-| Sun, 09 Nov 2025 13:01:33 GMT | I Got A Phishing Email From ‘Substack’ And I Totally Fell For It | MianAbdul Manan | [Read More](https://medium.com/p/56bc38d3de03) |
-| Sun, 09 Nov 2025 13:00:14 GMT | Writeup challenge Doge CyCTF 25 | Khonshu | [Read More](https://medium.com/p/5aa30228fc9e) |
-| Sun, 09 Nov 2025 12:59:51 GMT | North Korean Hackers’ Choice Weapon: Western AI | Perry Choi | [Read More](https://medium.com/p/0b10c4e46e98) |
-| Sun, 09 Nov 2025 12:54:58 GMT | CK44 Bangladesh: Bonuses, Security, and Support System That Players Trust | TKGRUP | [Read More](https://medium.com/p/11b487de1a40) |
