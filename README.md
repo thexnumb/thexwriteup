@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 14:11:58 GMT | Cherish Your Job: Essential Advice for Navigating Uncertain Times | Qide Lare | [Read More](https://medium.com/p/4a7fd05fc82c) |
+| Sun, 09 Nov 2025 14:07:18 GMT | IDOR is simple right?…. Right? | Silent Cipher | [Read More](https://medium.com/p/2a2b08773b9c) |
+| Sun, 09 Nov 2025 13:51:12 GMT | The Eavesdroppers’ War: From Enigma to Pegasus, a History of Signals Intelligence (SIGINT) | Giulia Corso | [Read More](https://medium.com/p/8fc93648c65a) |
+| Sun, 09 Nov 2025 13:45:19 GMT | KTOR: a Linux lateral-movement tool that performs fileless scans of internal HTTP services for… | Мартин. | [Read More](https://medium.com/p/f1d7911562ae) |
+| Sun, 09 Nov 2025 13:44:54 GMT | GI6E: HEX-GRID CODEX (HGC): a 6-bit structured encoding (3-bit group + 3-bit index) producing 64… | Мартин. | [Read More](https://medium.com/p/81c3c52675ae) |
+| Sun, 09 Nov 2025 13:44:31 GMT | Self Proccess Injection With CPP | 0xc4t | [Read More](https://medium.com/p/b2105fc0c1b2) |
 | Sun, 09 Nov 2025 13:33:00 GMT | Audit Escape CyCTF2025 | Mohamed Ashraf (LΔzΔru$) | [Read More](https://medium.com/p/0316080ae546) |
 | Sun, 09 Nov 2025 13:23:22 GMT | The Digital Passport Problem: Certificates, CAs, and Common Issues Explained | Arfat Khan | [Read More](https://medium.com/p/db4319c067ea) |
 | Sun, 09 Nov 2025 13:21:55 GMT | The Factory That Froze | O. J. Okpabi | [Read More](https://medium.com/p/38c7e4b33407) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 07:30:15 GMT | How a File-Manager Link Could Be Your Biggest Cyber Security Threat | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/90bab6cab8dd) |
 | Sun, 09 Nov 2025 07:21:38 GMT | The Most Influential Phrases About Achieving Your Goals | Aliyu Ibrahim | [Read More](https://medium.com/p/b51e4a8cd47a) |
 | Sun, 09 Nov 2025 07:19:59 GMT | Who Are You When No One’s Watching— A Writing Challenge | Mae Reed | [Read More](https://medium.com/p/b0a862f9131e) |
-| Sun, 09 Nov 2025 07:17:06 GMT | Bandit OverTheWire writeup — Level 16 → Level 17 | Dawid Kowalski | [Read More](https://medium.com/p/f2fafc1396f1) |
-| Sun, 09 Nov 2025 07:16:57 GMT | CivoraX Internship Programme 2026 — Launch Your Tech Career with Civora Nexus | Shubhamdighe | [Read More](https://medium.com/p/a6dfee16b6f4) |
-| Sun, 09 Nov 2025 07:15:12 GMT | Bandit OverTheWire writeup — Level 17 → Level 18 | Dawid Kowalski | [Read More](https://medium.com/p/600b88714d13) |
-| Sun, 09 Nov 2025 07:13:48 GMT | Bandit OverTheWire writeup — Level 15  → Level 16 | Dawid Kowalski | [Read More](https://medium.com/p/f3dc932591ba) |
-| Sun, 09 Nov 2025 07:12:36 GMT | OWASP Top 10 (2025): What Changed — the Front Row Story, the Impact, and Practice Labs | Atharva Shirude | [Read More](https://medium.com/p/1a9be7f02d0a) |
-| Sun, 09 Nov 2025 07:12:15 GMT | AI Prompt Injection Attack – A Technical Deep Dive into the Emerging AI Security Frontier | David SEHYEON Baek | [Read More](https://medium.com/p/db1a51e13775) |
