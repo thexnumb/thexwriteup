@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 09:31:01 GMT | From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge | Chetan Chinchulkar | [Read More](https://medium.com/p/84c38c9fbcb8) |
+| Sun, 09 Nov 2025 09:27:25 GMT | Detecting Joomla Admin GUI Attacks with Wazuh: A Rule-Based Approach | Oliver Roca | [Read More](https://medium.com/p/4d76a007c59d) |
+| Sun, 09 Nov 2025 09:27:24 GMT | Tunneling (Tünelleme): Ağlardaki Gizli Koridorlar | Arzu Yılmaz | [Read More](https://medium.com/p/d5de21b55905) |
+| Sun, 09 Nov 2025 09:25:50 GMT | Highly Available Vault in EKS with Postgresql Backend | Binaya Sharma | [Read More](https://medium.com/p/38c5e7a7fc04) |
+| Sun, 09 Nov 2025 09:25:39 GMT | Seven New Vulnerabilities in ChatGPT Enabling Private Data Exfiltration | Patrik Žák | [Read More](https://medium.com/p/ea0da374e063) |
+| Sun, 09 Nov 2025 09:20:18 GMT | Time-of-check Time-of-use (TOCTOU) Race Condition Leads to Broken Authentication - Critical Finding | Irsyad Muhammad Fawwaz | [Read More](https://medium.com/p/b55993c92abc) |
+| Sun, 09 Nov 2025 09:19:53 GMT | How I turned Membership into a Paycheck | StvRoot | [Read More](https://medium.com/p/a4e90afac2cc) |
 | Sun, 09 Nov 2025 09:11:22 GMT | Reflected XSS into attribute with angle brackets HTML-encoded — PortSwigger Cross-site Scripting… | Zeyad Naguib | [Read More](https://medium.com/p/29903bb632e4) |
 | Sun, 09 Nov 2025 09:04:06 GMT | CVE-2025–63644: Stored Cross-Site Scripting (XSS) Vulnerability in pH7 Social Dating CMS | Rudransh Singh Rajpurohit | [Read More](https://medium.com/p/23ed0e7eb853) |
 | Sun, 09 Nov 2025 09:02:05 GMT | CVE-2025–63645: Stored Cross-Site Scripting (XSS) Vulnerability in pH7 Social Dating CMS | Rudransh Singh Rajpurohit | [Read More](https://medium.com/p/8073ac4be5be) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 22:56:46 GMT | How to Block and Stop Unwanted Emails | Awais Khan | [Read More](https://medium.com/p/597830027a9e) |
 | Sat, 08 Nov 2025 22:54:57 GMT | The New Front Line: 5 Steps States Must Take to Survive the Current Wave of Public Sector… | CCD-IS | [Read More](https://medium.com/p/0fc134f484da) |
 | Sat, 08 Nov 2025 22:45:01 GMT | CyCTF GTM Challenge: From AES Decoy to JNI Broadcast | Ahmed Alnajjar | [Read More](https://medium.com/p/2a5bd3c7a328) |
-| Sat, 08 Nov 2025 22:43:35 GMT | Slashing & Accountability: Keeping the Chain Clean | Dibby | [Read More](https://medium.com/p/0637cdc654e0) |
-| Sat, 08 Nov 2025 22:38:42 GMT | HTB — Redeemer | Lautaro Robayna | [Read More](https://medium.com/p/a04220376786) |
-| Sat, 08 Nov 2025 22:34:35 GMT | Securing the Connected Future: Navigating IoT Cybersecurity Challenges and Solutions | MadhavNair_312 | [Read More](https://medium.com/p/0ea08af72a54) |
-| Sat, 08 Nov 2025 22:18:05 GMT | The Equifax Breach: Why Blaming One Company Isn’t Enough | Max Seo | [Read More](https://medium.com/p/68c9a6cb203d) |
-| Sat, 08 Nov 2025 22:16:56 GMT | How 17 Fake npm Packages Were Used to Spread Vidar Malware | Prabh | [Read More](https://medium.com/p/fddb914c6696) |
-| Sat, 08 Nov 2025 22:10:05 GMT | LLM CTFs & Challenges | Tal Eliyahu | [Read More](https://medium.com/p/03dd55a9b7e4) |
-| Sat, 08 Nov 2025 22:05:05 GMT | CyCTF 2025 Qualifications Phase | Mahmoud Fawzy | [Read More](https://medium.com/p/0a9be09ecb19) |
