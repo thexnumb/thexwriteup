@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 09:11:22 GMT | Reflected XSS into attribute with angle brackets HTML-encoded — PortSwigger Cross-site Scripting… | Zeyad Naguib | [Read More](https://medium.com/p/29903bb632e4) |
+| Sun, 09 Nov 2025 09:04:06 GMT | CVE-2025–63644: Stored Cross-Site Scripting (XSS) Vulnerability in pH7 Social Dating CMS | Rudransh Singh Rajpurohit | [Read More](https://medium.com/p/23ed0e7eb853) |
+| Sun, 09 Nov 2025 09:02:05 GMT | CVE-2025–63645: Stored Cross-Site Scripting (XSS) Vulnerability in pH7 Social Dating CMS | Rudransh Singh Rajpurohit | [Read More](https://medium.com/p/8073ac4be5be) |
+| Sun, 09 Nov 2025 09:02:02 GMT | Set Up Slack Leak Alerts in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/abf5fe7552f5) |
+| Sun, 09 Nov 2025 09:00:25 GMT | Best Practices for Kubernetes Secrets Management | Anh Trần Tuấn | [Read More](https://medium.com/p/7e81be1805bf) |
+| Sun, 09 Nov 2025 09:00:24 GMT | Best Practices for Kubernetes Secrets Management | Anh Trần Tuấn | [Read More](https://medium.com/p/44df21f534a7) |
+| Sun, 09 Nov 2025 08:54:50 GMT | We can’t trust even windows built in features | Piyusha Akash | [Read More](https://medium.com/p/94b474fe5fb0) |
+| Sun, 09 Nov 2025 08:51:58 GMT | Why Passwords Are Dying and Passwordless Systems Are the Future | Mohammad Soqar | [Read More](https://medium.com/p/8044e94ab211) |
 | Sun, 09 Nov 2025 08:41:03 GMT | From 404 to $4,000: Real Bugs Found in Forgotten Endpoints | Monika sharma | [Read More](https://medium.com/p/5886c06f7473) |
+| Sun, 09 Nov 2025 08:40:17 GMT | How secure is your code on the web? | Mayur Devgaonkar | [Read More](https://medium.com/p/ea256fb96871) |
 | Sun, 09 Nov 2025 08:38:05 GMT | Hazard List for Aviation Technicians | Jacob Daniela | [Read More](https://medium.com/p/ee189cf82ffd) |
 | Sun, 09 Nov 2025 08:20:56 GMT | Breaking Stored XSS Through Filter Bypass | Abhishek Kumar | [Read More](https://medium.com/p/fc4e4c639aa7) |
 | Sun, 09 Nov 2025 08:13:32 GMT | Safe Edges India Partners with South Korea’s LeadPoint to Strengthen Blockchain and Cybersecurity… | Piyush shukla | [Read More](https://medium.com/p/d5c2338c7eaf) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 22:16:56 GMT | How 17 Fake npm Packages Were Used to Spread Vidar Malware | Prabh | [Read More](https://medium.com/p/fddb914c6696) |
 | Sat, 08 Nov 2025 22:10:05 GMT | LLM CTFs & Challenges | Tal Eliyahu | [Read More](https://medium.com/p/03dd55a9b7e4) |
 | Sat, 08 Nov 2025 22:05:05 GMT | CyCTF 2025 Qualifications Phase | Mahmoud Fawzy | [Read More](https://medium.com/p/0a9be09ecb19) |
-| Sat, 08 Nov 2025 21:55:51 GMT | How can we protect American innovators from Big Industry. | Asolomon | [Read More](https://medium.com/p/20e106635965) |
-| Sat, 08 Nov 2025 21:43:20 GMT | Protective and Support Innovators Initiative | Asolomon | [Read More](https://medium.com/p/4a33d9ce8dd0) |
-| Sat, 08 Nov 2025 21:15:19 GMT | CyCTF25: I Hate Tasks Official Writeup | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/85d1d78b9946) |
-| Sat, 08 Nov 2025 21:14:01 GMT | CTF Challenge Writeup: Flag Checker Reverse Engineering | VampireXRay | [Read More](https://medium.com/p/f528cd6157a4) |
-| Sat, 08 Nov 2025 21:13:55 GMT | Stored XSS via uploaded SVG in group chat | HBlack Ghost | [Read More](https://medium.com/p/b45f182b2e33) |
-| Sat, 08 Nov 2025 21:01:44 GMT | صیغه تهران09019170148 صیغه کرج صیغه رباط کریم صیغه حلال شهریار صیغه هشتگرد صیغه دماوند صیغه ورامین… | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/94297c618e7d) |
-| Sat, 08 Nov 2025 20:55:51 GMT | IDOR Part 2 — Advanced Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/ce7f8a7c1df5) |
-| Sat, 08 Nov 2025 20:54:21 GMT | Giveback HTB Writeup | SecurityWalay | [Read More](https://medium.com/p/0fa929451b98) |
-| Sat, 08 Nov 2025 20:54:20 GMT | The Ontological Attack: Data Poisoning and the Epistemological Corruption of AI | Julian Soloninka | [Read More](https://medium.com/p/655099af1066) |
