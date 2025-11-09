@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 21:34:17 GMT | CyCTF 2025 Inception - Web | Abdelrahman Taymour | [Read More](https://medium.com/p/6530f9480fb6) |
+| Sun, 09 Nov 2025 21:32:44 GMT | Linux Security Incident Response Framework | Cube1214 | [Read More](https://medium.com/p/27c9ff14f045) |
+| Sun, 09 Nov 2025 21:17:30 GMT | Side-Channel Attacks on Mobile and IoT what they are, why they matter, and how to defend against… | Bervice | [Read More](https://medium.com/p/0a05ccea2ee9) |
 | Sun, 09 Nov 2025 21:10:49 GMT | Cisco ASA & Firewall Threat Defense (FTD) 0-Day Remote Code Execution Vulnerabilities | Jason Hoskins Jr. | [Read More](https://medium.com/p/1c1279c98b1a) |
+| Sun, 09 Nov 2025 21:09:10 GMT | A2goethe,A2telc,A2ösd | kaufen goethe telc | [Read More](https://medium.com/p/e18f8f89d97e) |
 | Sun, 09 Nov 2025 21:04:26 GMT | The Vibe Coder’s Blind Spot is Your Next Bug Bounty | Sajjad Siam | [Read More](https://medium.com/p/26387500acbb) |
 | Sun, 09 Nov 2025 21:03:43 GMT | Wholesale Security Cameras: Cost-Effective Solutions for Complete Surveillance | Osamamustafa | [Read More](https://medium.com/p/883ceb8453f0) |
 | Sun, 09 Nov 2025 20:59:16 GMT | My eMAPT Exam Experience — More About Building Than Breaking | Tolga DEMIREL | [Read More](https://medium.com/p/aca0c6c7ad7e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 13:00:14 GMT | Writeup challenge Doge CyCTF 25 | Khonshu | [Read More](https://medium.com/p/5aa30228fc9e) |
 | Sun, 09 Nov 2025 12:59:51 GMT | North Korean Hackers’ Choice Weapon: Western AI | Perry Choi | [Read More](https://medium.com/p/0b10c4e46e98) |
 | Sun, 09 Nov 2025 12:54:58 GMT | CK44 Bangladesh: Bonuses, Security, and Support System That Players Trust | TKGRUP | [Read More](https://medium.com/p/11b487de1a40) |
-| Sun, 09 Nov 2025 12:51:55 GMT | Daily Dose of Chart : 09 Nov 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/51c69f72f8e1) |
-| Sun, 09 Nov 2025 12:49:04 GMT | The Quantum Storm | O. J. Okpabi | [Read More](https://medium.com/p/6582b01403c5) |
-| Sun, 09 Nov 2025 12:48:44 GMT | LetsDefend Walkthrough - SOC343 — WinRAR Zero-Day Path Traversal Vulnerability (CVE‑2025‑8088) | Mehmetfiliz | [Read More](https://medium.com/p/370772d74fa4) |
-| Sun, 09 Nov 2025 12:44:34 GMT | Mock Interview Questions For Penetration Testing Role | The Daily Cyber News | [Read More](https://medium.com/p/76fc2383143f) |
