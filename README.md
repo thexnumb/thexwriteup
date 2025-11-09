@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 07:33:12 GMT | Kubernetes - Pod Security Admission | Topahadzi | [Read More](https://medium.com/p/e084fb98154b) |
+| Sun, 09 Nov 2025 07:30:15 GMT | How a File-Manager Link Could Be Your Biggest Cyber Security Threat | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/90bab6cab8dd) |
+| Sun, 09 Nov 2025 07:21:38 GMT | The Most Influential Phrases About Achieving Your Goals | Aliyu Ibrahim | [Read More](https://medium.com/p/b51e4a8cd47a) |
+| Sun, 09 Nov 2025 07:19:59 GMT | Who Are You When No One’s Watching— A Writing Challenge | Mae Reed | [Read More](https://medium.com/p/b0a862f9131e) |
+| Sun, 09 Nov 2025 07:17:06 GMT | Bandit OverTheWire writeup — Level 16 → Level 17 | Dawid Kowalski | [Read More](https://medium.com/p/f2fafc1396f1) |
+| Sun, 09 Nov 2025 07:16:57 GMT | CivoraX Internship Programme 2026 — Launch Your Tech Career with Civora Nexus | Shubhamdighe | [Read More](https://medium.com/p/a6dfee16b6f4) |
 | Sun, 09 Nov 2025 07:15:12 GMT | Bandit OverTheWire writeup — Level 17 → Level 18 | Dawid Kowalski | [Read More](https://medium.com/p/600b88714d13) |
 | Sun, 09 Nov 2025 07:13:48 GMT | Bandit OverTheWire writeup — Level 15  → Level 16 | Dawid Kowalski | [Read More](https://medium.com/p/f3dc932591ba) |
 | Sun, 09 Nov 2025 07:12:36 GMT | OWASP Top 10 (2025): What Changed — the Front Row Story, the Impact, and Practice Labs | Atharva Shirude | [Read More](https://medium.com/p/1a9be7f02d0a) |
@@ -20,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 07:07:01 GMT | Blockchain & Cryptography Development: The Real Difference Between Shor, Grover, and Annealing | SORA SS256 Satoshi is SHA-256 | [Read More](https://medium.com/p/04150a10a5ff) |
 | Sun, 09 Nov 2025 06:58:07 GMT | LFI to RCE: Mastering the Step-by-Step Path from File Inclusion to Full Shell Access | Very Lazy Tech | [Read More](https://medium.com/p/634c577056e2) |
 | Sun, 09 Nov 2025 06:58:03 GMT | Security isn’t a constraint — it’s a free diagnosis of your architecture | Fabien Soulis | [Read More](https://medium.com/p/d422404304b4) |
+| Sun, 09 Nov 2025 06:53:31 GMT | Understanding the latest Blockchain Threat: EtherHiding | Abhishek Modak | [Read More](https://medium.com/p/d4f85b87a1b5) |
 | Sun, 09 Nov 2025 06:45:00 GMT | Digital Forensics Training Institute in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/4b6bb988a00a) |
 | Sun, 09 Nov 2025 06:42:07 GMT | Top 10 Cybersecurity Trends to Watch Out for in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/58b28a5763a2) |
 | Sun, 09 Nov 2025 06:41:59 GMT | To Hack or Not to Hack: What the Heck is a SIEM? How SOC Teams See the Matrix | Furkanctiner | [Read More](https://medium.com/p/112dff9dbf28) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 19:27:56 GMT | Breaking Into Cybersecurity: A Practical Certification and Transition Strategy | Nick Pierrelouis, D.Sc. | [Read More](https://medium.com/p/0bdead81f2eb) |
 | Sat, 08 Nov 2025 19:23:37 GMT | Stay Safe Anywhere with a Portable Door Lock | Marc Ford | [Read More](https://medium.com/p/73f159821ea7) |
 | Sat, 08 Nov 2025 19:20:09 GMT | ECDSA-Shamir -Beaver Triples: Understanding MPC by building it Step by Step | Bereket Gebredingle | [Read More](https://medium.com/p/4c946e596b8f) |
-| Sat, 08 Nov 2025 19:17:44 GMT | AWS Security Hub vs Security Hub CSPM: Partners in Protecting Your Cloud Journey | Lingesh B | [Read More](https://medium.com/p/cacd25b64c5d) |
-| Sat, 08 Nov 2025 19:14:55 GMT | How I Used AI to Become Someone Else (And Why Your Face Is No Longer Your Password) | Iski | [Read More](https://medium.com/p/dfd88c254733) |
-| Sat, 08 Nov 2025 19:08:13 GMT | Deep Dive into AppArmor Profiles on Linux Systems | Linux Guide | [Read More](https://medium.com/p/6b66616a4ba7) |
-| Sat, 08 Nov 2025 18:57:57 GMT | Building a Futureproof Industrial Network with Single-Pair Ethernet (SPE) | Tamim Ahmmad | [Read More](https://medium.com/p/2b7d5dfb39cc) |
-| Sat, 08 Nov 2025 18:52:26 GMT | Building a Strong Cyber Defense with Reliable Data Security Management in Burtonsville, MD | GoodMKTG | [Read More](https://medium.com/p/598a819ffa2c) |
-| Sat, 08 Nov 2025 18:42:51 GMT | Security Management and Access Policy Configuration | Erdem UÇAK | [Read More](https://medium.com/p/0e0a7069e2c2) |
-| Sat, 08 Nov 2025 18:40:11 GMT | How to bypass UAC in Windows Operating System? (Part — 02) | Sachin Sir | [Read More](https://medium.com/p/e02b6e69ff69) |
