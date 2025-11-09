@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 04:07:15 GMT | The Most Overlooked Bug Bounty Misconfiguration (Add This To Your Checklist) | Rehan Sohail | [Read More](https://medium.com/p/448cce763beb) |
+| Sun, 09 Nov 2025 03:58:44 GMT | Are Your Email Accounts and Passwords Safe? Or Already Exposed? | Mohamad Mahmood | [Read More](https://medium.com/p/a08aecb0cc25) |
 | Sun, 09 Nov 2025 03:45:32 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: System-Host Based Attacks CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/bf34ce5d1636) |
 | Sun, 09 Nov 2025 03:39:29 GMT | A bug Bounty Hunter’s Guide to Cloud Misconfiguration. | ToxSec | [Read More](https://medium.com/p/522db28ff93e) |
 | Sun, 09 Nov 2025 03:39:13 GMT | Get Paid: Your First Bug Bounty | ToxSec | [Read More](https://medium.com/p/6a0c52837408) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 17:36:10 GMT | CyCTF - WEB WriteUp | Ahmed Salah | [Read More](https://medium.com/p/3a40b9c9902b) |
 | Sat, 08 Nov 2025 17:30:29 GMT | I Let an AI Browser Control My Life for a Week — Here’s What Actually Happened | Pankaj Kumar | [Read More](https://medium.com/p/e9a24c563466) |
 | Sat, 08 Nov 2025 17:28:57 GMT | Ransomware as a Service: The Business of Digital Extortion | Rashadul Islam | [Read More](https://medium.com/p/b3f6fee7bad0) |
-| Sat, 08 Nov 2025 17:14:53 GMT | How I Found Security Flaws in Bizboost Platform And What We Can Learn From It | Chinedum Udenkwo | [Read More](https://medium.com/p/0106d5488d4d) |
-| Sat, 08 Nov 2025 17:07:40 GMT | # BOTSv3 Security Investigation Report | MoFahdel | [Read More](https://medium.com/p/e69446603f6b) |
