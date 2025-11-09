@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 11:08:33 GMT | How does Samsung A Series Affordable Deliver Amazing Features? | Hana Saito | [Read More](https://medium.com/p/eff12a543e00) |
+| Sun, 09 Nov 2025 11:05:28 GMT | Zoho People vs Keka HR : The Ultimate HR Clash for Small Biz | Softwaregyan.com | [Read More](https://medium.com/p/479106ce27ab) |
+| Sun, 09 Nov 2025 11:02:07 GMT | Today’s Top Cyber Intelligence Highlights — Nov 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9269446bf399) |
+| Sun, 09 Nov 2025 10:58:48 GMT | Quasar Port Forwarding: Unlocking Access? | SilentInject | [Read More](https://medium.com/p/7291a0924589) |
+| Sun, 09 Nov 2025 10:51:54 GMT | How I found SSTI into an AI model due to unsafe argument | JEETPAL | [Read More](https://medium.com/p/4a44cadcd985) |
+| Sun, 09 Nov 2025 10:46:15 GMT | DockerLabs Writeup — Pntopntobarra (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/35b9bf72e413) |
+| Sun, 09 Nov 2025 10:43:40 GMT | What are the Samsung S24 Ultra Advanced Features You Must Know? | Elowen Virelle | [Read More](https://medium.com/p/42e417e050cf) |
 | Sun, 09 Nov 2025 10:31:01 GMT | 51% of Your Traffic Is Bots — Here’s How to Protect Real Customers | STCLab, Inc. | [Read More](https://medium.com/p/27af426ad851) |
 | Sun, 09 Nov 2025 10:28:40 GMT | Can Samsung M14 Battery-Friendly Last a Full Day Without Charging? | Luna Collins | [Read More](https://medium.com/p/c4709001933c) |
 | Sun, 09 Nov 2025 10:22:28 GMT | DPRK UNC3782 | Mees van Wickeren | [Read More](https://medium.com/p/d66329e5c071) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 00:55:25 GMT | SmartToolHub.digital — The Future of Smart Tools | Swsg | [Read More](https://medium.com/p/81f7a4dd5ff1) |
 | Sun, 09 Nov 2025 00:50:29 GMT | cyctf25 — Inception — web | Sector | [Read More](https://medium.com/p/14a6bcb2ca62) |
 | Sun, 09 Nov 2025 00:45:41 GMT | NimCrackMe1 — Huntress CTF 2025 | Farhann Mahmoodi | [Read More](https://medium.com/p/c3bb38646291) |
-| Sun, 09 Nov 2025 00:16:23 GMT | SSRF via filename -> PDF Extractor (via SMTP), detailed shi- write-up | Sevada797 | [Read More](https://medium.com/p/f494d320fa75) |
-| Sun, 09 Nov 2025 00:00:52 GMT | Memory Manipulation at the Assembly Level: The Dangerous Art of Reverse Engineering | Bervice | [Read More](https://medium.com/p/bc90f31c720a) |
-| Sat, 08 Nov 2025 23:50:18 GMT | Breaking Stored XSS Through Filter Bypass | Abhishek Kumar | [Read More](https://medium.com/p/f33668721e0c) |
-| Sat, 08 Nov 2025 23:50:15 GMT | How Attackers Hijack Your Software Updates (And How to Stop Them) | Ashhadali | [Read More](https://medium.com/p/a378ce4b5e80) |
-| Sat, 08 Nov 2025 23:47:39 GMT | CyCTF qualification 2025 : Reverse ‘BabyCrackMe’ | VampireXRay | [Read More](https://medium.com/p/d29a5b6dfcd3) |
-| Sat, 08 Nov 2025 23:46:24 GMT | When One Error Message Unlocked the Entire Kingdom: A Critical SQL Injection Tale | Jackson Mittag | [Read More](https://medium.com/p/1655c93dd2f8) |
-| Sat, 08 Nov 2025 23:32:42 GMT | Nikto: Escaneo Web Automatizado y Análisis de Vulnerabilidades | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/37b256a86faa) |
