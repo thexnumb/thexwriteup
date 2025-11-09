@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 18:14:17 GMT | Payday — Walkthrough | Jose Diaz | [Read More](https://medium.com/p/a429f105f17d) |
+| Sun, 09 Nov 2025 18:10:44 GMT | Breaking Boundaries: Mastering Windows Privilege Escalation with Boxes | RootRouteway | [Read More](https://medium.com/p/1ec73145f972) |
+| Sun, 09 Nov 2025 18:07:39 GMT | S3 Bucket Takeover, The Hidden Trap in the Cloud | Aman Bhuiyan | [Read More](https://medium.com/p/afc013675504) |
+| Sun, 09 Nov 2025 17:47:47 GMT | How to Pick the Best Cheap VPN in 2025 | Awais Khan | [Read More](https://medium.com/p/c3a0cf54620d) |
+| Sun, 09 Nov 2025 17:47:28 GMT | How to Build a Strong Online Brand for Your Small Business | HYPHEN - TECHNOLOGIES | [Read More](https://medium.com/p/5e93aa428f49) |
 | Sun, 09 Nov 2025 17:33:08 GMT | Information Security Therapy | Elena Sarimichailidou | [Read More](https://medium.com/p/628ad2cb1f15) |
 | Sun, 09 Nov 2025 17:27:58 GMT | Secure API Design: The missing pillar in Backend Engineering | Jayanthpawar | [Read More](https://medium.com/p/9025fcac7a47) |
 | Sun, 09 Nov 2025 17:22:04 GMT | Quantum Computing: The Looming Threat to Your Supply Chain’s Encryption | Gopi Sri | [Read More](https://medium.com/p/29bee390eeb5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 11:24:26 GMT | Hardening in Cybersecurity — A Core Defense Strategy for Smart Grids and Power Systems | Ramandeep Bagri | [Read More](https://medium.com/p/e935f0ac0b29) |
 | Sun, 09 Nov 2025 11:24:04 GMT | İNTERNET | Alper TUĞRUL | [Read More](https://medium.com/p/8e7a4f0f527d) |
 | Sun, 09 Nov 2025 11:22:30 GMT | AD Labs: From Domain-Joined Linux to Compromised DC(AD CS) | Hishamrazak | [Read More](https://medium.com/p/4768ce3f72d5) |
-| Sun, 09 Nov 2025 11:21:57 GMT | Nigeria’s Fields Are Empty, and the Looters Are Loud | FoodNerve Society | [Read More](https://medium.com/p/b20cb6faec8d) |
-| Sun, 09 Nov 2025 11:14:16 GMT | Securing AWS-S3 Bucket | Saksham Singh | [Read More](https://medium.com/p/b02293838520) |
-| Sun, 09 Nov 2025 11:08:33 GMT | How does Samsung A Series Affordable Deliver Amazing Features? | Hana Saito | [Read More](https://medium.com/p/eff12a543e00) |
-| Sun, 09 Nov 2025 11:07:59 GMT | Article-4: Creating Our Ethical Hacking Lab | Aman Kumar Singh | [Read More](https://medium.com/p/d6b03572cb6e) |
-| Sun, 09 Nov 2025 11:05:28 GMT | Zoho People vs Keka HR : The Ultimate HR Clash for Small Biz | Softwaregyan.com | [Read More](https://medium.com/p/479106ce27ab) |
