@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 19:12:41 GMT | Yoksa Siz Hala Ders Çıkarmadınız mı? | Volkan Koçkan | [Read More](https://medium.com/p/9a0fb061ebd4) |
+| Sun, 09 Nov 2025 19:02:29 GMT | Cybersecurity Tips for Businesses During the Black Friday Rush | Global Presence Marketing | [Read More](https://medium.com/p/380b5aab662c) |
+| Sun, 09 Nov 2025 18:53:03 GMT | Flagyard — Cucy Writeup | löca | [Read More](https://medium.com/p/ecbcb4515e71) |
+| Sun, 09 Nov 2025 18:47:18 GMT | AresGPT & Aristotle’s Pen: AI for Justice, Virtue, and Security | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/a9d463904310) |
+| Sun, 09 Nov 2025 18:46:54 GMT | AI Browsers: Your New Super-Assistant | Sameer Koli | [Read More](https://medium.com/p/12f80dcf560b) |
+| Sun, 09 Nov 2025 18:45:32 GMT | Threat Analysis: Google Identifies COLDRIVER’s Evolving Malware Toolkit. | Femintee | [Read More](https://medium.com/p/89fde53f10ad) |
+| Sun, 09 Nov 2025 18:40:36 GMT | What happens when you click “forgot password” (Part 1) | Nkiru Nwanolue | [Read More](https://medium.com/p/df804bca5fdb) |
+| Sun, 09 Nov 2025 18:34:34 GMT | Malops Challenge 8: Reversing APT 37’s RokRaT Loader | YUCA | [Read More](https://medium.com/p/7f7ad49e4662) |
 | Sun, 09 Nov 2025 18:27:06 GMT | CyCTF25 Qualification Phase | Alamin Alaa | [Read More](https://medium.com/p/a3f5ed194ee9) |
 | Sun, 09 Nov 2025 18:14:17 GMT | Payday — Walkthrough | Jose Diaz | [Read More](https://medium.com/p/a429f105f17d) |
 | Sun, 09 Nov 2025 18:10:44 GMT | Breaking Boundaries: Mastering Windows Privilege Escalation with Boxes | RootRouteway | [Read More](https://medium.com/p/1ec73145f972) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 12:05:04 GMT | OWASP Top 10 2025 in a Nutshell | PARADOX | [Read More](https://medium.com/p/bbfceed91eb2) |
 | Sun, 09 Nov 2025 12:03:33 GMT | Full Attack Chain: How Chained IDORs on Thrive Global Exposed Confidential Employee Wellness data | Mayur Pandya | [Read More](https://medium.com/p/30a657ba550d) |
 | Sun, 09 Nov 2025 12:03:21 GMT | Debloat your windows in 3 steps. | err0rgod | [Read More](https://medium.com/p/8404d6ffea58) |
-| Sun, 09 Nov 2025 11:58:54 GMT | Day 3: Comfortable Silences | itsmetannahlee | [Read More](https://medium.com/p/b70e8d11210a) |
-| Sun, 09 Nov 2025 11:55:02 GMT | Freelancers Beware: How North Korean Hackers Are Using Your Identity to Bypass Global Sanctions | CrypIQ | [Read More](https://medium.com/p/b2f78fecc682) |
-| Sun, 09 Nov 2025 11:54:35 GMT | How Hackers Use Steam Games to Empty Your Bitcoin Wallet | LearnWithMe | [Read More](https://medium.com/p/fa001daf7947) |
-| Sun, 09 Nov 2025 11:40:46 GMT | Can Samsung A Series Energy-Efficient Save Your Battery Life? | Grace Anderson | [Read More](https://medium.com/p/648a2b679d0e) |
-| Sun, 09 Nov 2025 11:32:33 GMT | Becoming Nyells: The Girl Who Chose Code, Creativity & Cybersecurity | Nyelliembu | [Read More](https://medium.com/p/76eaed5950fb) |
-| Sun, 09 Nov 2025 11:29:36 GMT | Hold Up! Unrestricted File Upload in Online Notes Sharing Platform Could Expose Your Server! | CVEHUB | [Read More](https://medium.com/p/7bba2cb42465) |
-| Sun, 09 Nov 2025 11:24:26 GMT | Hardening in Cybersecurity — A Core Defense Strategy for Smart Grids and Power Systems | Ramandeep Bagri | [Read More](https://medium.com/p/e935f0ac0b29) |
-| Sun, 09 Nov 2025 11:24:04 GMT | İNTERNET | Alper TUĞRUL | [Read More](https://medium.com/p/8e7a4f0f527d) |
