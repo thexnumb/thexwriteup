@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 17:02:04 GMT | Episode 5: “The Ghost in the Mesh — Part 2” | Dr. House In I.T. | [Read More](https://medium.com/p/c23f396048e6) |
+| Sun, 09 Nov 2025 16:54:26 GMT | Is BurpAI Going to Replace Pentesters? | Abhishek meena | [Read More](https://medium.com/p/1ac8856ee693) |
+| Sun, 09 Nov 2025 16:53:50 GMT | SOC L1 Alert Triage—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/c4531df57058) |
+| Sun, 09 Nov 2025 16:53:36 GMT | SOC L1 Alert Reporting—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/dbab6de7fe78) |
+| Sun, 09 Nov 2025 16:53:22 GMT | Should Beginners Hack on Vdps? | Rehan Sohail | [Read More](https://medium.com/p/5f62a4d6dd20) |
+| Sun, 09 Nov 2025 16:42:49 GMT | Algorithmic Bullshit — When AI Lies to You with Complete Confidence | Olivier MARECHAL | [Read More](https://medium.com/p/b34f01f8b082) |
 | Sun, 09 Nov 2025 16:34:32 GMT | Designing Tech For Humans Today | Medjue Gore | [Read More](https://medium.com/p/56c23c0ff015) |
 | Sun, 09 Nov 2025 16:22:44 GMT | WP‑Finder; the WordPress detective that runs on caffeine and Shodan | X3RX3S Sec. | [Read More](https://medium.com/p/e33ffa612555) |
 | Sun, 09 Nov 2025 16:21:15 GMT | AI Red Teaming: Making RAG Pipeline Spill Secrets | Butrint Komoni | [Read More](https://medium.com/p/62257d37d21d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 10:46:15 GMT | DockerLabs Writeup — Pntopntobarra (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/35b9bf72e413) |
 | Sun, 09 Nov 2025 10:43:40 GMT | What are the Samsung S24 Ultra Advanced Features You Must Know? | Elowen Virelle | [Read More](https://medium.com/p/42e417e050cf) |
 | Sun, 09 Nov 2025 10:31:01 GMT | 51% of Your Traffic Is Bots — Here’s How to Protect Real Customers | STCLab, Inc. | [Read More](https://medium.com/p/27af426ad851) |
-| Sun, 09 Nov 2025 10:28:40 GMT | Can Samsung M14 Battery-Friendly Last a Full Day Without Charging? | Luna Collins | [Read More](https://medium.com/p/c4709001933c) |
-| Sun, 09 Nov 2025 10:22:28 GMT | DPRK UNC3782 | Mees van Wickeren | [Read More](https://medium.com/p/d66329e5c071) |
-| Sun, 09 Nov 2025 10:21:19 GMT | Bloom [tryhackme Walkthrough] | Roshan Rajbanshi | [Read More](https://medium.com/p/662f22b41deb) |
-| Sun, 09 Nov 2025 09:59:00 GMT | When AI Hacks AI: The Next Frontier of Cybersecurity You’re Not Ready For | NidoDesigns | [Read More](https://medium.com/p/45908ad9c9ef) |
-| Sun, 09 Nov 2025 09:57:37 GMT | JAuth picoCTF | Aderogbarufai | [Read More](https://medium.com/p/3325e62c4321) |
-| Sun, 09 Nov 2025 09:50:13 GMT | Ex-Friends Gone Rogue? What To Do When Your Past Haunts You | Authlyn | [Read More](https://medium.com/p/11cd046d7ca7) |
