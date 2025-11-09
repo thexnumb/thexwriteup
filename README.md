@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 18:27:06 GMT | CyCTF25 Qualification Phase | Alamin Alaa | [Read More](https://medium.com/p/a3f5ed194ee9) |
 | Sun, 09 Nov 2025 18:14:17 GMT | Payday — Walkthrough | Jose Diaz | [Read More](https://medium.com/p/a429f105f17d) |
 | Sun, 09 Nov 2025 18:10:44 GMT | Breaking Boundaries: Mastering Windows Privilege Escalation with Boxes | RootRouteway | [Read More](https://medium.com/p/1ec73145f972) |
 | Sun, 09 Nov 2025 18:07:39 GMT | S3 Bucket Takeover, The Hidden Trap in the Cloud | Aman Bhuiyan | [Read More](https://medium.com/p/afc013675504) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 11:29:36 GMT | Hold Up! Unrestricted File Upload in Online Notes Sharing Platform Could Expose Your Server! | CVEHUB | [Read More](https://medium.com/p/7bba2cb42465) |
 | Sun, 09 Nov 2025 11:24:26 GMT | Hardening in Cybersecurity — A Core Defense Strategy for Smart Grids and Power Systems | Ramandeep Bagri | [Read More](https://medium.com/p/e935f0ac0b29) |
 | Sun, 09 Nov 2025 11:24:04 GMT | İNTERNET | Alper TUĞRUL | [Read More](https://medium.com/p/8e7a4f0f527d) |
-| Sun, 09 Nov 2025 11:22:30 GMT | AD Labs: From Domain-Joined Linux to Compromised DC(AD CS) | Hishamrazak | [Read More](https://medium.com/p/4768ce3f72d5) |
