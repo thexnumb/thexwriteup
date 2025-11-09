@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 16:22:44 GMT | WP‑Finder; the WordPress detective that runs on caffeine and Shodan | X3RX3S Sec. | [Read More](https://medium.com/p/e33ffa612555) |
+| Sun, 09 Nov 2025 16:21:15 GMT | AI Red Teaming: Making RAG Pipeline Spill Secrets | Butrint Komoni | [Read More](https://medium.com/p/62257d37d21d) |
+| Sun, 09 Nov 2025 16:16:56 GMT | The #1 Browser Hacking Tool You Need to Know (BeEF live demo) | Jackson Mittag | [Read More](https://medium.com/p/d667b92d1e42) |
+| Sun, 09 Nov 2025 16:16:12 GMT | TryHackMe: CyberHeros Writeup | ShilaHunter | [Read More](https://medium.com/p/455390e8eeba) |
+| Sun, 09 Nov 2025 16:11:40 GMT | OWASP Top 10 in Ten Minutes! | hackerdevil | [Read More](https://medium.com/p/a6ef1efd1efa) |
+| Sun, 09 Nov 2025 16:09:02 GMT | PromptFlux — AI-Driven Malware That Rewrites Itself Every Hour | Jason Hoskins Jr. | [Read More](https://medium.com/p/2ed176484df8) |
+| Sun, 09 Nov 2025 16:07:14 GMT | OpenCTI: or how I stopped googling “latest APT campaigns” at 2 a.m. | Telynor | [Read More](https://medium.com/p/f671e7ad6c57) |
+| Sun, 09 Nov 2025 16:02:00 GMT | 5 Mind-Bending Ideas from Qubes OS, the ‘Reasonably Secure’ Operating System | D.Haddad | [Read More](https://medium.com/p/a564e819c266) |
+| Sun, 09 Nov 2025 15:57:40 GMT | Ethical Hacker in India Founded Chapter of Security BSides Coimbatore | BSidesCoimbatore | [Read More](https://medium.com/p/399b57a16b20) |
+| Sun, 09 Nov 2025 15:53:39 GMT | K8s Chaos? Not on My Watch! | Chathushka Rodrigo | [Read More](https://medium.com/p/874d8a6de0e2) |
+| Sun, 09 Nov 2025 15:51:57 GMT | Inside Aardvark by OpenAI: The “How” (Without Getting Lost in the Weeds) | Akhilesh Yadav | [Read More](https://medium.com/p/e928be9a5872) |
+| Sun, 09 Nov 2025 15:51:08 GMT | Living in the Space Between | Bree | [Read More](https://medium.com/p/927a3a7edff9) |
+| Sun, 09 Nov 2025 15:46:56 GMT | Human 2.0: How AI Is Redesigning Human Evolution | Devendra Pitaliya | [Read More](https://medium.com/p/a19ec8221000) |
+| Sun, 09 Nov 2025 15:46:43 GMT | Cybersecurity #13: Metasploit | mohandika | [Read More](https://medium.com/p/74f49f455cc8) |
+| Sun, 09 Nov 2025 15:42:59 GMT | The Beginner’s Mindset: Finding Problems and Building Solutions Without Real Boundaries | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/6d2d950e131f) |
+| Sun, 09 Nov 2025 15:39:08 GMT | PhantomCollect: The Ultimate Web Data Collection Framework for Security Professionals | xsser01 | [Read More](https://medium.com/p/081244e47790) |
+| Sun, 09 Nov 2025 15:36:46 GMT | From IT Support to Cybersecurity Analyst: My Career Journey in GRC | Abdullateef Hameed | [Read More](https://medium.com/p/7f503fcace63) |
 | Sun, 09 Nov 2025 15:26:28 GMT | From Curiosity to Command Line: My Self-Taught Journey into Cybersecurity | X3RX3S Sec. | [Read More](https://medium.com/p/f7730468cb7f) |
 | Sun, 09 Nov 2025 15:25:11 GMT | Persistent Session Validity After Password Change | 0xMo7areb | [Read More](https://medium.com/p/59f7f70ef92f) |
 | Sun, 09 Nov 2025 15:23:58 GMT | TryHackMe - Red Team Engagements Write-up | Virendra Kumar | [Read More](https://medium.com/p/16062aed3af3) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 09:57:37 GMT | JAuth picoCTF | Aderogbarufai | [Read More](https://medium.com/p/3325e62c4321) |
 | Sun, 09 Nov 2025 09:50:13 GMT | Ex-Friends Gone Rogue? What To Do When Your Past Haunts You | Authlyn | [Read More](https://medium.com/p/11cd046d7ca7) |
 | Sun, 09 Nov 2025 09:31:01 GMT | From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge | Chetan Chinchulkar | [Read More](https://medium.com/p/84c38c9fbcb8) |
-| Sun, 09 Nov 2025 09:27:25 GMT | Detecting Joomla Admin GUI Attacks with Wazuh: A Rule-Based Approach | Oliver Roca | [Read More](https://medium.com/p/4d76a007c59d) |
-| Sun, 09 Nov 2025 09:27:24 GMT | Tunneling (Tünelleme): Ağlardaki Gizli Koridorlar | Arzu Yılmaz | [Read More](https://medium.com/p/d5de21b55905) |
-| Sun, 09 Nov 2025 09:25:50 GMT | Highly Available Vault in EKS with Postgresql Backend | Binaya Sharma | [Read More](https://medium.com/p/38c5e7a7fc04) |
-| Sun, 09 Nov 2025 09:25:39 GMT | Seven New Vulnerabilities in ChatGPT Enabling Private Data Exfiltration | Patrik Žák | [Read More](https://medium.com/p/ea0da374e063) |
-| Sun, 09 Nov 2025 09:20:18 GMT | Time-of-check Time-of-use (TOCTOU) Race Condition Leads to Broken Authentication - Critical Finding | Irsyad Muhammad Fawwaz | [Read More](https://medium.com/p/b55993c92abc) |
-| Sun, 09 Nov 2025 09:19:53 GMT | How I turned Membership into a Paycheck | StvRoot | [Read More](https://medium.com/p/a4e90afac2cc) |
-| Sun, 09 Nov 2025 09:11:22 GMT | Reflected XSS into attribute with angle brackets HTML-encoded — PortSwigger Cross-site Scripting… | Zeyad Naguib | [Read More](https://medium.com/p/29903bb632e4) |
-| Sun, 09 Nov 2025 09:04:06 GMT | CVE-2025–63644: Stored Cross-Site Scripting (XSS) Vulnerability in pH7 Social Dating CMS | Rudransh Singh Rajpurohit | [Read More](https://medium.com/p/23ed0e7eb853) |
-| Sun, 09 Nov 2025 09:02:05 GMT | CVE-2025–63645: Stored Cross-Site Scripting (XSS) Vulnerability in pH7 Social Dating CMS | Rudransh Singh Rajpurohit | [Read More](https://medium.com/p/8073ac4be5be) |
-| Sun, 09 Nov 2025 09:02:02 GMT | Set Up Slack Leak Alerts in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/abf5fe7552f5) |
-| Sun, 09 Nov 2025 09:00:25 GMT | Best Practices for Kubernetes Secrets Management | Anh Trần Tuấn | [Read More](https://medium.com/p/7e81be1805bf) |
-| Sun, 09 Nov 2025 09:00:24 GMT | Best Practices for Kubernetes Secrets Management | Anh Trần Tuấn | [Read More](https://medium.com/p/44df21f534a7) |
-| Sun, 09 Nov 2025 08:54:50 GMT | We can’t trust even windows built in features | Piyusha Akash | [Read More](https://medium.com/p/94b474fe5fb0) |
-| Sun, 09 Nov 2025 08:51:58 GMT | Why Passwords Are Dying and Passwordless Systems Are the Future | Mohammad Soqar | [Read More](https://medium.com/p/8044e94ab211) |
-| Sun, 09 Nov 2025 08:41:03 GMT | From 404 to $4,000: Real Bugs Found in Forgotten Endpoints | Monika sharma | [Read More](https://medium.com/p/5886c06f7473) |
-| Sun, 09 Nov 2025 08:40:17 GMT | How secure is your code on the web? | Mayur Devgaonkar | [Read More](https://medium.com/p/ea256fb96871) |
-| Sun, 09 Nov 2025 08:38:05 GMT | Hazard List for Aviation Technicians | Jacob Daniela | [Read More](https://medium.com/p/ee189cf82ffd) |
