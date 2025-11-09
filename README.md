@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 20:18:49 GMT | CyCTF 2025 Qualifications - Vault Raider - Mobile Challenge | Zeyad Karim | [Read More](https://medium.com/p/a8a9ae2018d9) |
+| Sun, 09 Nov 2025 20:17:37 GMT | If You Want People to Care About Risk, Tell Better Stories | Fook Hwa Tan | [Read More](https://medium.com/p/f80aca0ad13f) |
+| Sun, 09 Nov 2025 20:16:35 GMT | Is Your Organization Reactive or Resilient? A Maturity Primer | Fook Hwa Tan | [Read More](https://medium.com/p/bbd2d0378cd7) |
+| Sun, 09 Nov 2025 20:14:42 GMT | What I Should Do at Northwave: A CQO’s Weekly View | Fook Hwa Tan | [Read More](https://medium.com/p/b716299acf61) |
+| Sun, 09 Nov 2025 19:56:20 GMT | Part 4: intro to cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/3a36f4d45e97) |
+| Sun, 09 Nov 2025 19:37:52 GMT | Hack the Box “Headless” CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/81c619bb3dab) |
+| Sun, 09 Nov 2025 19:37:21 GMT | HydraPWK: The Open-Source Swiss Army Knife for Industrial Security | cybrNK | [Read More](https://medium.com/p/140f9fb34a16) |
 | Sun, 09 Nov 2025 19:32:50 GMT | Routing Automation That Actually Ships: A Small but Powerful Python Script | Jeremy van Gorp | [Read More](https://medium.com/p/b56c2e16f616) |
 | Sun, 09 Nov 2025 19:30:11 GMT | Trust Me Bro: Layemor Malware Analysis | grepStrength | [Read More](https://medium.com/p/b6788ca99e6d) |
 | Sun, 09 Nov 2025 19:12:52 GMT | Automating Security Triage: Using n8n, Splunk, Gemini API and Slack | Hariharan | [Read More](https://medium.com/p/531ad6a48c19) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 12:32:00 GMT | Unlocking the Hacker’s Arsenal: A Deep Dive into the IHA089 Cybersecurity Toolkit (2025) | Nktechinfo | [Read More](https://medium.com/p/578463e76a63) |
 | Sun, 09 Nov 2025 12:32:00 GMT | 11 Game-Changing Tips: College Student Online Safety & Password Secrets | Chaos Engineer | [Read More](https://medium.com/p/24d48bf54fed) |
 | Sun, 09 Nov 2025 12:30:53 GMT | The Moment Linux Stops Feeling Hard (And Starts Feeling Like Home) | Fateyaly | [Read More](https://medium.com/p/4fc014f7467a) |
-| Sun, 09 Nov 2025 12:25:30 GMT | From MSP to Federal Cloud: Why Zero Breaches Matter More Than Certifications | Joshua Michael Hall | [Read More](https://medium.com/p/110c401c9fd2) |
-| Sun, 09 Nov 2025 12:22:17 GMT | How to hire a professional hacker | Paul Micheal | [Read More](https://medium.com/p/8c214816863a) |
-| Sun, 09 Nov 2025 12:21:47 GMT | Hacking, VM, Linux and Networking Introduction | Sobhidasss | [Read More](https://medium.com/p/ac053acafe81) |
-| Sun, 09 Nov 2025 12:17:08 GMT | Süni intelekt və Manipulasiya | Natig Mammadli | [Read More](https://medium.com/p/0c3c0f0c6fd9) |
-| Sun, 09 Nov 2025 12:14:51 GMT | PortSwigger : Authentication vulnerabilities labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/c2c16bce9b2a) |
-| Sun, 09 Nov 2025 12:14:40 GMT | Why History Says You’re Wrong About AI | Zebbern | [Read More](https://medium.com/p/0a688de93607) |
-| Sun, 09 Nov 2025 12:13:41 GMT | Chota Amrani abashed at the penetration of his disguise went away and returned dressed as a man | sami toor | [Read More](https://medium.com/p/0628fbc20b5a) |
