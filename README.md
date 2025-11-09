@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 14:26:05 GMT | I Built My Own Real-Time Port Scan Detector | Harsh soni | [Read More](https://medium.com/p/b3fbd1dba1fa) |
+| Sun, 09 Nov 2025 14:22:17 GMT | GitHub and the New Era of Cybersecurity: How Visual Signaling Can Protect Millions of Developers | 0trust0day | [Read More](https://medium.com/p/c5a57b9e5ea4) |
+| Sun, 09 Nov 2025 14:19:53 GMT | The IDOR That Got Me My First $3K And Let Me Delete Files Across Tenants | Sid_x95 | [Read More](https://medium.com/p/be5a65021832) |
+| Sun, 09 Nov 2025 14:13:46 GMT | OverTheWire | LUTSVIA | [Read More](https://medium.com/p/02fb9aaf2188) |
 | Sun, 09 Nov 2025 14:11:58 GMT | Cherish Your Job: Essential Advice for Navigating Uncertain Times | Qide Lare | [Read More](https://medium.com/p/4a7fd05fc82c) |
+| Sun, 09 Nov 2025 14:11:58 GMT | INVESTIGATING WINDOWS- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/5f0047d00201) |
 | Sun, 09 Nov 2025 14:07:18 GMT | IDOR is simple right?…. Right? | Silent Cipher | [Read More](https://medium.com/p/2a2b08773b9c) |
 | Sun, 09 Nov 2025 13:51:12 GMT | The Eavesdroppers’ War: From Enigma to Pegasus, a History of Signals Intelligence (SIGINT) | Giulia Corso | [Read More](https://medium.com/p/8fc93648c65a) |
 | Sun, 09 Nov 2025 13:45:19 GMT | KTOR: a Linux lateral-movement tool that performs fileless scans of internal HTTP services for… | Мартин. | [Read More](https://medium.com/p/f1d7911562ae) |
@@ -24,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 13:19:38 GMT | É a sua frequência energética que atrai ou repele as pessoas ao seu redor. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/dc935a38fb2e) |
 | Sun, 09 Nov 2025 13:17:47 GMT | How To Detect When Cellphone/Smartphone is Hacked - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/3d9e6a235911) |
 | Sun, 09 Nov 2025 13:11:12 GMT | OWASP Top 10–2021 — Writeup | Mahir | [Read More](https://medium.com/p/af65d44c9797) |
+| Sun, 09 Nov 2025 13:03:07 GMT | Se você não honra sua palavra, mude enquanto ainda há tempo. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/9b84f0813380) |
 | Sun, 09 Nov 2025 13:01:33 GMT | I Got A Phishing Email From ‘Substack’ And I Totally Fell For It | MianAbdul Manan | [Read More](https://medium.com/p/56bc38d3de03) |
 | Sun, 09 Nov 2025 13:00:14 GMT | Writeup challenge Doge CyCTF 25 | Khonshu | [Read More](https://medium.com/p/5aa30228fc9e) |
 | Sun, 09 Nov 2025 12:59:51 GMT | North Korean Hackers’ Choice Weapon: Western AI | Perry Choi | [Read More](https://medium.com/p/0b10c4e46e98) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 07:46:44 GMT | The weight of being okay all the time | Adefunke Adeniyi | [Read More](https://medium.com/p/66dfb58ff99f) |
 | Sun, 09 Nov 2025 07:44:15 GMT | Before You Laugh at the Louvre, Check your own Passwords | Raphael Moutard | [Read More](https://medium.com/p/fa161182de7b) |
 | Sun, 09 Nov 2025 07:42:29 GMT | Tech for Earth: How Trustoryx Is Powering the Future of Secure and Sustainable Technology | NIkhil Kumar | [Read More](https://medium.com/p/2e10abea9070) |
-| Sun, 09 Nov 2025 07:41:42 GMT | ️ Meet Aardvark — OpenAI’s Agentic Security Researcher That Might Redefine Cyber Defense Forever | Kumar Ankit | [Read More](https://medium.com/p/96dfc22107f4) |
-| Sun, 09 Nov 2025 07:39:50 GMT | Top 10 AI-Driven Cybersecurity Tools | Manisha Chaudhary | [Read More](https://medium.com/p/9d887b2ff239) |
-| Sun, 09 Nov 2025 07:33:12 GMT | Kubernetes - Pod Security Admission | Topahadzi | [Read More](https://medium.com/p/e084fb98154b) |
-| Sun, 09 Nov 2025 07:30:15 GMT | How a File-Manager Link Could Be Your Biggest Cyber Security Threat | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/90bab6cab8dd) |
-| Sun, 09 Nov 2025 07:21:38 GMT | The Most Influential Phrases About Achieving Your Goals | Aliyu Ibrahim | [Read More](https://medium.com/p/b51e4a8cd47a) |
-| Sun, 09 Nov 2025 07:19:59 GMT | Who Are You When No One’s Watching— A Writing Challenge | Mae Reed | [Read More](https://medium.com/p/b0a862f9131e) |
