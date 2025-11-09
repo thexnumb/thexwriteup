@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 16:34:32 GMT | Designing Tech For Humans Today | Medjue Gore | [Read More](https://medium.com/p/56c23c0ff015) |
 | Sun, 09 Nov 2025 16:22:44 GMT | WP‑Finder; the WordPress detective that runs on caffeine and Shodan | X3RX3S Sec. | [Read More](https://medium.com/p/e33ffa612555) |
 | Sun, 09 Nov 2025 16:21:15 GMT | AI Red Teaming: Making RAG Pipeline Spill Secrets | Butrint Komoni | [Read More](https://medium.com/p/62257d37d21d) |
 | Sun, 09 Nov 2025 16:16:56 GMT | The #1 Browser Hacking Tool You Need to Know (BeEF live demo) | Jackson Mittag | [Read More](https://medium.com/p/d667b92d1e42) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 09:59:00 GMT | When AI Hacks AI: The Next Frontier of Cybersecurity You’re Not Ready For | NidoDesigns | [Read More](https://medium.com/p/45908ad9c9ef) |
 | Sun, 09 Nov 2025 09:57:37 GMT | JAuth picoCTF | Aderogbarufai | [Read More](https://medium.com/p/3325e62c4321) |
 | Sun, 09 Nov 2025 09:50:13 GMT | Ex-Friends Gone Rogue? What To Do When Your Past Haunts You | Authlyn | [Read More](https://medium.com/p/11cd046d7ca7) |
-| Sun, 09 Nov 2025 09:31:01 GMT | From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge | Chetan Chinchulkar | [Read More](https://medium.com/p/84c38c9fbcb8) |
