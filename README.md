@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 01:44:56 GMT | CyCTF qualification 2025 : Misc ‘EasyJail’ | VampireXRay | [Read More](https://medium.com/p/36db22acf52e) |
+| Sun, 09 Nov 2025 01:28:33 GMT | Kenobi — TryHackme Walkthrough | Aufarifqi | [Read More](https://medium.com/p/16c7153837f6) |
+| Sun, 09 Nov 2025 01:22:00 GMT | New Idea: Use AI to Become a Smarter, Faster Bug-Bounty Hunter — A Practical Guide | Monu Jangra | [Read More](https://medium.com/p/785e26e0c6a7) |
+| Sun, 09 Nov 2025 01:09:58 GMT | Entendendo Hashing e Hash Cracking | Guilherme Barbosa Freire Silva | [Read More](https://medium.com/p/d523d23b84ba) |
+| Sun, 09 Nov 2025 01:07:54 GMT | XSSniper Masterclass Bypass WAFs and Find XSS (for bug bounty) | Jackson Mittag | [Read More](https://medium.com/p/e2f045b50752) |
+| Sun, 09 Nov 2025 01:07:46 GMT | Introducing the TOSS7 (An OWASP-like Top Ten for Tor Services) | SirHaxAlot | [Read More](https://medium.com/p/7782ff145b22) |
+| Sun, 09 Nov 2025 00:57:58 GMT | Why Data Privacy Matters in this Digital Age | Esther Idibiye David | [Read More](https://medium.com/p/57bbf12e7959) |
+| Sun, 09 Nov 2025 00:56:52 GMT | How I Achieved Unlimited AI Voice Generation for Free — A Reverse Engineering Case Study | AYOUBSec | [Read More](https://medium.com/p/0944a1b1eda7) |
+| Sun, 09 Nov 2025 00:55:25 GMT | SmartToolHub.digital — The Future of Smart Tools | Swsg | [Read More](https://medium.com/p/81f7a4dd5ff1) |
+| Sun, 09 Nov 2025 00:50:29 GMT | cyctf25 — Inception — web | Sector | [Read More](https://medium.com/p/14a6bcb2ca62) |
+| Sun, 09 Nov 2025 00:45:41 GMT | NimCrackMe1 — Huntress CTF 2025 | Farhann Mahmoodi | [Read More](https://medium.com/p/c3bb38646291) |
+| Sun, 09 Nov 2025 00:16:23 GMT | SSRF via filename -> PDF Extractor (via SMTP), detailed shi- write-up | Sevada797 | [Read More](https://medium.com/p/f494d320fa75) |
+| Sun, 09 Nov 2025 00:00:52 GMT | Memory Manipulation at the Assembly Level: The Dangerous Art of Reverse Engineering | Bervice | [Read More](https://medium.com/p/bc90f31c720a) |
+| Sat, 08 Nov 2025 23:50:18 GMT | Breaking Stored XSS Through Filter Bypass | Abhishek Kumar | [Read More](https://medium.com/p/f33668721e0c) |
+| Sat, 08 Nov 2025 23:50:15 GMT | How Attackers Hijack Your Software Updates (And How to Stop Them) | Ashhadali | [Read More](https://medium.com/p/a378ce4b5e80) |
+| Sat, 08 Nov 2025 23:47:39 GMT | CyCTF qualification 2025 : Reverse ‘BabyCrackMe’ | VampireXRay | [Read More](https://medium.com/p/d29a5b6dfcd3) |
+| Sat, 08 Nov 2025 23:46:24 GMT | When One Error Message Unlocked the Entire Kingdom: A Critical SQL Injection Tale | Jackson Mittag | [Read More](https://medium.com/p/1655c93dd2f8) |
+| Sat, 08 Nov 2025 23:31:57 GMT | TLS Versions & Vulnerabilities (SSLv2/3, TLS 1.0/1.1/1.2/1.3) | Arfat Khan | [Read More](https://medium.com/p/63c82df3925f) |
 | Sat, 08 Nov 2025 23:18:54 GMT | It Takes Two to Tango: | Maretta Morovitz | [Read More](https://medium.com/p/b7e857b4c99d) |
 | Sat, 08 Nov 2025 23:08:13 GMT | What the 2017 Equifax Data Breach Teaches Us About Cybersecurity | Max Seo | [Read More](https://medium.com/p/5477fc35582c) |
 | Sat, 08 Nov 2025 23:05:25 GMT | Amadey Lab CyberDefenders | Fouad Shaheen | [Read More](https://medium.com/p/a077a85642be) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 16:35:51 GMT | ️ VPS Security Hardening Research Report | Mohamed Elkholy | [Read More](https://medium.com/p/1cb82f951b66) |
 | Sat, 08 Nov 2025 16:35:12 GMT | OWASP Top 10 – 2025: The Most Critical Web Application Security Risks | TRH(The room of hackers) | [Read More](https://medium.com/p/b3cc45928454) |
 | Sat, 08 Nov 2025 16:33:27 GMT | Found my first Reflected XSS bug | Shresthaanushka | [Read More](https://medium.com/p/05e5aa090d21) |
-| Sat, 08 Nov 2025 16:31:07 GMT | Top 10 Open-Source Tools Every Cybersecurity Student Should Know | Little_Sun4lower | [Read More](https://medium.com/p/377fc52981b7) |
-| Sat, 08 Nov 2025 16:28:01 GMT | OWASP Top 10:2025 — The New Era of Application Security Risks | Fazal | [Read More](https://medium.com/p/a022c8e44b44) |
-| Sat, 08 Nov 2025 16:27:35 GMT | Reverse Engineering of Fixed-Code Remotes - Flipper Zero Edition | BaudSkidNinja | [Read More](https://medium.com/p/b4f318bb337e) |
-| Sat, 08 Nov 2025 16:26:07 GMT | DEADFACE CTF 2025 Write-up for Stolen Secret Series | Prakshit Jain | [Read More](https://medium.com/p/023f87de8853) |
-| Sat, 08 Nov 2025 16:23:35 GMT | How I Got Access To All My Friend’s Data | Raunak Raj | [Read More](https://medium.com/p/a81d50a861fd) |
-| Sat, 08 Nov 2025 16:22:52 GMT | RDP Logins Targeted to Deploy Cephalus Ransomware Across Corporate Networks | Chetan Seripally | [Read More](https://medium.com/p/e44b7ac3c362) |
-| Sat, 08 Nov 2025 16:08:09 GMT | Blueprint Society: Accelerating Private Capital and Transforming Africa’s Future | Blueprint Society Publications | [Read More](https://medium.com/p/75b7069c5aa0) |
-| Sat, 08 Nov 2025 16:02:39 GMT | Securing Your REST APIs: A Complete Guide | Dancanmurithi | [Read More](https://medium.com/p/202b6eccd2e4) |
-| Sat, 08 Nov 2025 16:02:03 GMT | The Interactive Voice Response (IVR) | codebynish | [Read More](https://medium.com/p/728a0a0f3282) |
-| Sat, 08 Nov 2025 15:59:09 GMT | Data Is the New Liability: Why Smart Companies Are Deleting More Than They’re Collecting | BiyteLüm | [Read More](https://medium.com/p/2569d8944fed) |
-| Sat, 08 Nov 2025 15:55:08 GMT | ️ OWASP Top 10: 2025 — The Evolved Battlefield of Web Application Security | Aditya Bhatt | [Read More](https://medium.com/p/4644afde733d) |
-| Sat, 08 Nov 2025 15:45:32 GMT | When the Program Wins and the Researcher Loses: The Subtle Scams Behind Bug Bounties | Gl1tch | [Read More](https://medium.com/p/e2e0f38d80e7) |
-| Sat, 08 Nov 2025 15:39:45 GMT | CSP Mastery: HSTS, HTTPS-Only, and Mixed Content (Series A-4) | Trevor Woollacott | [Read More](https://medium.com/p/641ee271f7a8) |
-| Sat, 08 Nov 2025 15:38:06 GMT | Hire A Hacker The Right Way | Paul Micheal | [Read More](https://medium.com/p/d8b1985e3e88) |
-| Sat, 08 Nov 2025 15:14:05 GMT | A true apology is not words. It is change. | Neon Reverie | [Read More](https://medium.com/p/0b1c8283316f) |
-| Sat, 08 Nov 2025 15:12:59 GMT | From Classical Risk to Quantum Resilience: The Web3 Imperative | QuantZen™ | [Read More](https://medium.com/p/e32f9e86d67e) |
-| Sat, 08 Nov 2025 15:12:28 GMT | A Funny Walkthrough of TryHackMe’s ‘Lookup’ Room | Teapot | [Read More](https://medium.com/p/349c9e341439) |
-| Sat, 08 Nov 2025 15:12:08 GMT | 1. What Are Pseudo-Classes and Pseudo-Elements? | Rana Awais | [Read More](https://medium.com/p/e2c820d3dd15) |
