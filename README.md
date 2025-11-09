@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 09 Nov 2025 06:45:00 GMT | Digital Forensics Training Institute in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/4b6bb988a00a) |
+| Sun, 09 Nov 2025 06:42:07 GMT | Top 10 Cybersecurity Trends to Watch Out for in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/58b28a5763a2) |
+| Sun, 09 Nov 2025 06:41:59 GMT | To Hack or Not to Hack: What the Heck is a SIEM? How SOC Teams See the Matrix | Furkanctiner | [Read More](https://medium.com/p/112dff9dbf28) |
+| Sun, 09 Nov 2025 06:36:07 GMT | Supply-Chain Attacks Explained: Lessons from Recent Incidents | Hania Khan | [Read More](https://medium.com/p/7b63898606bd) |
+| Sun, 09 Nov 2025 06:20:25 GMT | Do You Think iPhone Is Safe? Think Again: The Rise of Spider Phone Ransomware | Vijay Kumar Gupta | [Read More](https://medium.com/p/52c433e03db2) |
 | Sun, 09 Nov 2025 06:19:06 GMT | OAuth Authentication Bypass leading to PII disclosure | janlele91 | [Read More](https://medium.com/p/5d243b62d532) |
 | Sun, 09 Nov 2025 06:14:53 GMT | My Cybersecurity Journey — day 1–11/8/25 | Cliffetond | [Read More](https://medium.com/p/814e41143162) |
 | Sun, 09 Nov 2025 06:11:04 GMT | N-Day Everyday , CVE-2025–30065 ve CVE-2025–46762 Apache Parquet Avro Zafiyeti | Yakup Erdem Ünal | [Read More](https://medium.com/p/ecd2f45a661f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 08 Nov 2025 18:32:04 GMT | Top 5 OSINT Services in 2025: Professional Intelligence Tools in 5 Minutes | Andrey Boing | [Read More](https://medium.com/p/d8ce38fc243a) |
 | Sat, 08 Nov 2025 18:31:37 GMT | When the Internet Sleeps: BitChat — The Offline Messenger That Promises Freedom (and Carries Risks) | TheBitForge | [Read More](https://medium.com/p/a5df5a308158) |
 | Sat, 08 Nov 2025 18:28:25 GMT | BugBounty-IOS | V3locidad | [Read More](https://medium.com/p/2ce599c29a65) |
-| Sat, 08 Nov 2025 18:26:37 GMT | Broken Access Control: Why the OWASP #1 Threat Persists in 2025 | Shaif Ali | [Read More](https://medium.com/p/704d92459e4c) |
-| Sat, 08 Nov 2025 18:24:48 GMT | V. Advanced DNS Palo Alto Networks: Implementação Prática | Giuliano Cardozo | [Read More](https://medium.com/p/9d96fefcd0fd) |
-| Sat, 08 Nov 2025 18:12:36 GMT | Without the Mask, I Still Want You to Stay | Cam | [Read More](https://medium.com/p/b79a3e123bd6) |
-| Sat, 08 Nov 2025 18:07:59 GMT | When I Tried to Threat Model an AI System… Everything Broke the Rules | Hackwithabhi | [Read More](https://medium.com/p/9b25e496dd47) |
-| Sat, 08 Nov 2025 18:06:06 GMT | The Invisible War: How Cybersecurity Became the New Battlefield of the 21st Century | ACTHEBINOMA GODSTIME | [Read More](https://medium.com/p/5b1aab92dbe2) |
