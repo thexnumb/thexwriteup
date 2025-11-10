@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 20:09:34 GMT | Kali Linux Temel Komutlar: Yetki Yönetimi ve “Sen Kimsin?” (chmod, chown, sudo) | Burak | [Read More](https://medium.com/p/0dda33ffdd4c) |
+| Mon, 10 Nov 2025 19:59:50 GMT | Talking to Silicon: Abusing Protocols for Security Research | Andrew Long | [Read More](https://medium.com/p/ee29f151e453) |
+| Mon, 10 Nov 2025 19:44:49 GMT | Monitoring Security News with an Open-Source Solution | Quentin Latzel | [Read More](https://medium.com/p/34c15578c2e0) |
+| Mon, 10 Nov 2025 19:32:33 GMT | Our Journey in IT: Building Echo-AI (R& D) Together | Rethabile Bridget Velelo & Dylan Gorrah | [Read More](https://medium.com/p/7f96b55890c3) |
 | Mon, 10 Nov 2025 19:19:58 GMT | SOC165 — Possible SQL Injection Payload Detected — Practice with SOC Alert | Giovanni Isola | [Read More](https://medium.com/p/8a2bfb77ebcd) |
 | Mon, 10 Nov 2025 19:17:49 GMT | Why Your Employees are Your Biggest Cyber Risk (And How to Fix It in 5 Minutes a Day) | John Muconto | [Read More](https://medium.com/p/af61cfcbbe58) |
 | Mon, 10 Nov 2025 19:11:28 GMT | We Want Smart AI, But At What Cost? | Midhun | [Read More](https://medium.com/p/7f51b763fa67) |
@@ -108,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 14:02:08 GMT | My Self-Hosted Homelab | Maniraj Chahal | [Read More](https://medium.com/p/503556101ae9) |
 | Mon, 10 Nov 2025 14:02:06 GMT | The Quiet Revolution of Self-Compassion | Evelyn Foreman | [Read More](https://medium.com/p/89a62f239459) |
 | Mon, 10 Nov 2025 13:58:18 GMT | IT and OT Specialists | YesIT Services | [Read More](https://medium.com/p/de9c06e56a94) |
-| Mon, 10 Nov 2025 13:57:55 GMT | Protecting Kids Online: The Power of Parental Control in Antivirus Software | Amit Singh | [Read More](https://medium.com/p/8db8fb4a910e) |
-| Mon, 10 Nov 2025 13:57:37 GMT | How I Built an AI Test Agent That Runs Playwright Tests Based on Jira Bug Reports | Shahnawaz Khan | [Read More](https://medium.com/p/02b8b259c8d3) |
-| Mon, 10 Nov 2025 13:56:28 GMT | ANALYSIS & INTEGRATION OF OFFICIAL PUBLICATION CHANNEL
-MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [Read More](https://medium.com/p/1a2e55e60cc9) |
-| Mon, 10 Nov 2025 13:55:44 GMT | When I’m Afraid to Hit “Publish” | Darlene López | [Read More](https://medium.com/p/57cc67d06c9e) |
