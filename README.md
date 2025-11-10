@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 09:13:18 GMT | Threat Modeling: Designing for Security from the Ground Up | Samina Perveen | [Read More](https://medium.com/p/fa268303d7da) |
+| Mon, 10 Nov 2025 09:10:37 GMT | How Do Red Teamers Adapt To Threats? They Use This | Redfox Security | [Read More](https://medium.com/p/d9e800c7f4ec) |
+| Mon, 10 Nov 2025 09:05:33 GMT | Simple Ways to Protect Yourself Online | Deepak Sharma | [Read More](https://medium.com/p/0ac3ca2389cc) |
+| Mon, 10 Nov 2025 09:03:42 GMT | Change Management: Kunci Keberhasilan Implementasi Transformasi Teknologi | Valencia L Tobing | [Read More](https://medium.com/p/3195dce63bd0) |
+| Mon, 10 Nov 2025 09:03:02 GMT | Webhook to SIEM: Auto-Unlock Leaks and Trigger Your Playbook | Alexandre Vandamme | [Read More](https://medium.com/p/47e2bcd7c9be) |
+| Mon, 10 Nov 2025 09:02:03 GMT | Monitor Europe’s Air Space | Oliver H Blake | [Read More](https://medium.com/p/9799f0927862) |
+| Mon, 10 Nov 2025 08:53:59 GMT | How I accidentally broke QBFT finality on Electroneum Smart Chain | MostReal | [Read More](https://medium.com/p/2d2f5ca11da3) |
+| Mon, 10 Nov 2025 08:44:42 GMT | Owasp Top 10:2025 Rc1 — What Changed And Why It Matters | Yaniv | [Read More](https://medium.com/p/6e6c6a7604b1) |
+| Mon, 10 Nov 2025 08:42:07 GMT | Phishing Campaign Hits Ukraine: Trojanised ESET Software Packs Kalambur Backdoor | Himanshu Bhatt | [Read More](https://medium.com/p/46197dbaa7ed) |
+| Mon, 10 Nov 2025 08:28:25 GMT | How to Setup Gophish on Kali | Adio Usman | [Read More](https://medium.com/p/590a87aad58d) |
+| Mon, 10 Nov 2025 08:28:21 GMT | FalconRecon — Automating Web Reconnaissance with Bash | Mahmoudelshorpagy | [Read More](https://medium.com/p/c4fc2cbc26bf) |
+| Mon, 10 Nov 2025 08:28:13 GMT | Cybersecurity vs. Computer Science: Is It Time to Switch Fields? | RLEDUSKILLS | [Read More](https://medium.com/p/464a90c29ad3) |
 | Mon, 10 Nov 2025 08:25:20 GMT | Unlock xss0r’s Pro Power for FREE: Your 5-Day All-Access Pass is Here! ✨ | xss0r | [Read More](https://medium.com/p/6ca246d097c6) |
 | Mon, 10 Nov 2025 08:23:06 GMT | The Interlock Effect: Why Connected Cyber Defenses Beat Layered Security Every Time | Amrik  Hanjra | [Read More](https://medium.com/p/e2dd70c26c00) |
 | Mon, 10 Nov 2025 08:21:14 GMT | How Can You Deny Being Caring. #Poetry. | Sandhya Arya | [Read More](https://medium.com/p/47604a8bbefe) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 01:05:52 GMT | How to Protect Public APIs Without API Keys | Cybamatica | [Read More](https://medium.com/p/3b3ca3e02ecd) |
 | Mon, 10 Nov 2025 00:58:55 GMT | Scenario based answers helpful for understanding concepts and interview | The Commoness | [Read More](https://medium.com/p/4cdb6ce79886) |
 | Mon, 10 Nov 2025 00:53:43 GMT | Why a Degree Won’t Get You a High Paying Cyber Job in Singapore -Offensive Security Roles are… | Yua Mikanana | [Read More](https://medium.com/p/35fbd0a1095d) |
-| Mon, 10 Nov 2025 00:46:39 GMT | CyCTF 2025 — Reverse “TakeAHook” | VampireXRay | [Read More](https://medium.com/p/e4574e551831) |
-| Mon, 10 Nov 2025 00:33:39 GMT | Proving Grounds - LaVita | jniket | [Read More](https://medium.com/p/65182c20b074) |
-| Mon, 10 Nov 2025 00:23:31 GMT | Why Russian Ransomware Gangs Never Attack Their Own Backyard | David SEHYEON Baek | [Read More](https://medium.com/p/f7caba1e69f3) |
-| Mon, 10 Nov 2025 00:02:05 GMT | LetsDefend - Learn Sigma - Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/b163ebec7a8a) |
-| Mon, 10 Nov 2025 00:02:05 GMT | The Builder's Notes: Your CFO Just Called — Except It's a $2.4M Deepfake and Your AI Approved It | Piyoosh Rai | [Read More](https://medium.com/p/263197c83a9c) |
-| Sun, 09 Nov 2025 23:51:06 GMT | The Business of Harvesting VPN Credentials for Resale | David SEHYEON Baek | [Read More](https://medium.com/p/51cc45c307a9) |
-| Sun, 09 Nov 2025 23:36:34 GMT | New Zealand’s Biometric Processing Privacy Code 2025 | Chris Buxton | [Read More](https://medium.com/p/7a7aec819ffc) |
-| Sun, 09 Nov 2025 23:33:52 GMT | “Hack the System (Legally): Your First Step into Ethical Hacking” | Md Johirul Islam | [Read More](https://medium.com/p/534348f85b1d) |
-| Sun, 09 Nov 2025 23:30:58 GMT | They’re Not After Your Password Anymore. Here’s What Phishers Really Want. | Jamal Mammadli | [Read More](https://medium.com/p/6ca43dd08d30) |
-| Sun, 09 Nov 2025 23:29:14 GMT | Is the Modern internet that fragile? | Olabisi Oduola | [Read More](https://medium.com/p/b856440dc160) |
-| Sun, 09 Nov 2025 23:14:01 GMT | LLMBreaker: Red-Teaming Your LLM APIs (Built in a Weekend) | Cássio Santos | [Read More](https://medium.com/p/0891e4bec479) |
-| Sun, 09 Nov 2025 22:39:15 GMT | AWS Security — Specialty Certification Study Guide | Niraj Kumar | [Read More](https://medium.com/p/e7d4a2cae468) |
