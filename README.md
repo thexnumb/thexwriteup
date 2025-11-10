@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 09:32:41 GMT | DockerLabs Writeup — Internship (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e344ccb6ef0e) |
+| Mon, 10 Nov 2025 09:32:02 GMT | Bug Bounties 101: 5 Platforms That Deliver | Modexa | [Read More](https://medium.com/p/cb10ede3f6d0) |
+| Mon, 10 Nov 2025 09:32:02 GMT | The Rise of AI Red Teams: Testing the Machines Before the Machines Test Us | Yash Gorasiya | [Read More](https://medium.com/p/8cb10e4fc234) |
+| Mon, 10 Nov 2025 09:32:02 GMT | Beyond Passwords: 6 Safer Ways to Log In | Syntal | [Read More](https://medium.com/p/ebcbdee4b12e) |
+| Mon, 10 Nov 2025 09:25:24 GMT | Data Integrity is the New Horsepower | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/61bc0dc1928a) |
 | Mon, 10 Nov 2025 09:13:18 GMT | Threat Modeling: Designing for Security from the Ground Up | Samina Perveen | [Read More](https://medium.com/p/fa268303d7da) |
 | Mon, 10 Nov 2025 09:10:37 GMT | How Do Red Teamers Adapt To Threats? They Use This | Redfox Security | [Read More](https://medium.com/p/d9e800c7f4ec) |
 | Mon, 10 Nov 2025 09:05:33 GMT | Simple Ways to Protect Yourself Online | Deepak Sharma | [Read More](https://medium.com/p/0ac3ca2389cc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 01:48:22 GMT | Plotted-TMS— TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/18d2357ea29c) |
 | Mon, 10 Nov 2025 01:43:26 GMT | The Courage to Lead with Heart | Evelyn Foreman | [Read More](https://medium.com/p/009098b69089) |
 | Mon, 10 Nov 2025 01:35:21 GMT | CyCTF Reverse Challenge - BabyCrackMe | Karim Walid | [Read More](https://medium.com/p/259ca18d434b) |
-| Mon, 10 Nov 2025 01:26:24 GMT | NoxPlayer on Windows 11: Fix “No VT Service Detected” — Disable Hyper-V | Armando Reniery Rodas | [Read More](https://medium.com/p/d2afa351303f) |
-| Mon, 10 Nov 2025 01:07:14 GMT | When GRC and Heatmaps Do More Harm Than Good to Cyber Risk Management — Building the Language of… | Juan Pablo Castro | [Read More](https://medium.com/p/4eff683016e8) |
-| Mon, 10 Nov 2025 01:05:52 GMT | How to Protect Public APIs Without API Keys | Cybamatica | [Read More](https://medium.com/p/3b3ca3e02ecd) |
-| Mon, 10 Nov 2025 00:58:55 GMT | Scenario based answers helpful for understanding concepts and interview | The Commoness | [Read More](https://medium.com/p/4cdb6ce79886) |
-| Mon, 10 Nov 2025 00:53:43 GMT | Why a Degree Won’t Get You a High Paying Cyber Job in Singapore -Offensive Security Roles are… | Yua Mikanana | [Read More](https://medium.com/p/35fbd0a1095d) |
