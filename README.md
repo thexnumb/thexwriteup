@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 05:25:54 GMT | The Digital Shield: Why Cybersecurity is the Core of Modern Business Resilience | Devarshi Acharya | [Read More](https://medium.com/p/267dd4ba184c) |
+| Mon, 10 Nov 2025 05:25:44 GMT | Kubesec: Strengthening k8s Security Through YAML Configuration Scanning | Rahul Singh Chauhan | [Read More](https://medium.com/p/f9a298e77c0e) |
+| Mon, 10 Nov 2025 05:24:57 GMT | Kioptrix Level 2 (original) — walkthrough | Vaibhav | [Read More](https://medium.com/p/4a6a885aa281) |
+| Mon, 10 Nov 2025 05:23:48 GMT | Disaster Recovery: The Backbone of Modern Business Continuity | Pavan Pathak | [Read More](https://medium.com/p/d8a40ecbc3cb) |
 | Mon, 10 Nov 2025 05:15:50 GMT | The 2011 Japan Earthquake: Impact on IT Infrastructure and Data Security | Asghar Hussain | [Read More](https://medium.com/p/be4eda057cd0) |
 | Mon, 10 Nov 2025 05:14:47 GMT | https://www.linkedin.com/posts/david-kariuki-a6464127b_cybersecurity-for-executives-activity-7393515 | DAVID KARIUKI "1stb0n" | [Read More](https://medium.com/p/26e62b4f07c5) |
 | Mon, 10 Nov 2025 05:04:52 GMT | IoT Penetration Testing: A Simple Guide with Tool Lists | Sheikh Ayan | [Read More](https://medium.com/p/3e52df262447) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 19:02:29 GMT | Cybersecurity Tips for Businesses During the Black Friday Rush | Global Presence Marketing | [Read More](https://medium.com/p/380b5aab662c) |
 | Sun, 09 Nov 2025 19:01:42 GMT | Privacy Isn’t a Feature, It’s a Philosophy: A Guide to Choosing a Truly Private Video Platform | Jibon Costa | [Read More](https://medium.com/p/a9148be3b6a3) |
 | Sun, 09 Nov 2025 18:53:03 GMT | Flagyard — Cucy Writeup | löca | [Read More](https://medium.com/p/ecbcb4515e71) |
-| Sun, 09 Nov 2025 18:47:18 GMT | AresGPT & Aristotle’s Pen: AI for Justice, Virtue, and Security | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/a9d463904310) |
-| Sun, 09 Nov 2025 18:46:54 GMT | AI Browsers: Your New Super-Assistant | Sameer Koli | [Read More](https://medium.com/p/12f80dcf560b) |
-| Sun, 09 Nov 2025 18:45:32 GMT | Threat Analysis: Google Identifies COLDRIVER’s Evolving Malware Toolkit. | Femintee | [Read More](https://medium.com/p/89fde53f10ad) |
-| Sun, 09 Nov 2025 18:40:36 GMT | What happens when you click “forgot password” (Part 1) | Nkiru Nwanolue | [Read More](https://medium.com/p/df804bca5fdb) |
