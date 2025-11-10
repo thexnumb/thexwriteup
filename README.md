@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 08:25:20 GMT | Unlock xss0r’s Pro Power for FREE: Your 5-Day All-Access Pass is Here! ✨ | xss0r | [Read More](https://medium.com/p/6ca246d097c6) |
+| Mon, 10 Nov 2025 08:23:06 GMT | The Interlock Effect: Why Connected Cyber Defenses Beat Layered Security Every Time | Amrik  Hanjra | [Read More](https://medium.com/p/e2dd70c26c00) |
+| Mon, 10 Nov 2025 08:21:14 GMT | How Can You Deny Being Caring. #Poetry. | Sandhya Arya | [Read More](https://medium.com/p/47604a8bbefe) |
+| Mon, 10 Nov 2025 08:20:51 GMT | Technical Analysis: Vulnerability Chain Leading to RCE in a Web Platform | Ali Ziro | [Read More](https://medium.com/p/8c7cf72d5142) |
+| Mon, 10 Nov 2025 08:17:13 GMT | NASA.com Full Origin Takeover Chain: WEBVPN RSA+SAML + SSO+VNC + MARS+DSN+CMD + 25 Hidden Portals… | Krivadna | [Read More](https://medium.com/p/d412e0fa5ce1) |
+| Mon, 10 Nov 2025 08:06:43 GMT | AI PRIVACY UNDER ATTACK — “Whisper Leak”: how your AI chats can be profiled even over encrypted… | Germano Costi | [Read More](https://medium.com/p/e9d713b865a2) |
+| Mon, 10 Nov 2025 08:02:03 GMT | Part VI — Vault Chronicles: The Approval Gate | Raymon Epping | [Read More](https://medium.com/p/06f2a6de773f) |
+| Mon, 10 Nov 2025 08:02:03 GMT | I Got Into Your Network Using a £5 Gift Card. Here’s What Your Red Team Should Check. | I_AM_R00T | [Read More](https://medium.com/p/9d4dbbf066d6) |
+| Mon, 10 Nov 2025 08:01:59 GMT | Impact of Ai with Cybersecurity | Navi_95 | [Read More](https://medium.com/p/c7c8b9edbceb) |
+| Mon, 10 Nov 2025 07:59:18 GMT | Which Testing Courses Offer the Best Real-World Project Experience? | Hollisdavid | [Read More](https://medium.com/p/1909366bcf9a) |
+| Mon, 10 Nov 2025 07:58:10 GMT | Top 10 Industries That Should Hire Unarmed Security Guard Services in La Puente Today | GuardLine Chronicles | [Read More](https://medium.com/p/51fdf1c83c28) |
+| Mon, 10 Nov 2025 07:46:42 GMT | Marketing Cybersecurity in 2026 | Max Mykal | [Read More](https://medium.com/p/ce586fa77543) |
 | Mon, 10 Nov 2025 07:22:31 GMT | How to Pick the Best CCTV Monitoring Service for Your Small Business | Global CCTV Monitoring Services | [Read More](https://medium.com/p/3227b376c233) |
 | Mon, 10 Nov 2025 07:19:29 GMT | ประจำวันจันทร์ที่ 10 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/10d22f1ad997) |
 | Mon, 10 Nov 2025 07:18:33 GMT | Automate Microsoft Graph Tasks with Azure Container App Jobs! ❤️ | Brian Veldman | [Read More](https://medium.com/p/f0ee4d5ba658) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 23:29:14 GMT | Is the Modern internet that fragile? | Olabisi Oduola | [Read More](https://medium.com/p/b856440dc160) |
 | Sun, 09 Nov 2025 23:14:01 GMT | LLMBreaker: Red-Teaming Your LLM APIs (Built in a Weekend) | Cássio Santos | [Read More](https://medium.com/p/0891e4bec479) |
 | Sun, 09 Nov 2025 22:39:15 GMT | AWS Security — Specialty Certification Study Guide | Niraj Kumar | [Read More](https://medium.com/p/e7d4a2cae468) |
-| Sun, 09 Nov 2025 22:36:38 GMT | Access Control Deconstructed: Why a Single Admin Key is a Critical Threat? | Zainab Ibrahim | [Read More](https://medium.com/p/7998a0725c27) |
-| Sun, 09 Nov 2025 22:36:01 GMT | 160 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/64981fa6ae48) |
-| Sun, 09 Nov 2025 22:34:26 GMT | Why Feeling Deeply Is the Hardest Superpower | Vanny | [Read More](https://medium.com/p/e4a67a1550a8) |
-| Sun, 09 Nov 2025 22:33:39 GMT | My eCTHP Experience: A 4-Day Marathon, a 46-Page Report, and Way Too Much Coffee | Tolga DEMIREL | [Read More](https://medium.com/p/44e10a2fdc36) |
-| Sun, 09 Nov 2025 22:32:14 GMT | Introduction to SOAR — Try Hack Me Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/924682d5fc96) |
-| Sun, 09 Nov 2025 22:24:14 GMT | How Impossible Is It to Guess a Crypto Wallet? | Jeffrey Berthiaume | [Read More](https://medium.com/p/292e77eb5760) |
-| Sun, 09 Nov 2025 22:19:48 GMT | Understanding Covert Channels: Hidden Pathways of Data Leakage | Raviteja Mureboina | [Read More](https://medium.com/p/69621aec34c3) |
-| Sun, 09 Nov 2025 22:13:43 GMT | The Media Maelstrom | Bill Lovell | [Read More](https://medium.com/p/40e03bb99d07) |
-| Sun, 09 Nov 2025 22:10:20 GMT | TryHackMe — File Inclusion — Walkthrough | Alan | [Read More](https://medium.com/p/fb7c5ba9124b) |
-| Sun, 09 Nov 2025 22:07:04 GMT | AI: technical problems | Jhoan Sebastián Fuentes Hernández | [Read More](https://medium.com/p/8a56ae8d347b) |
-| Sun, 09 Nov 2025 21:57:49 GMT | HTB Challenge — Global Hyperlink Zone | Fardeen A. | [Read More](https://medium.com/p/46977f16dee4) |
-| Sun, 09 Nov 2025 21:53:13 GMT | Penforce CTF 2025 Write-up: Securing 1st Place (and 3 First Bloods) | Ibraheem EL-Mougy | [Read More](https://medium.com/p/6a8042438895) |
