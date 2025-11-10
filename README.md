@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 07:22:31 GMT | How to Pick the Best CCTV Monitoring Service for Your Small Business | Global CCTV Monitoring Services | [Read More](https://medium.com/p/3227b376c233) |
+| Mon, 10 Nov 2025 07:19:29 GMT | ประจำวันจันทร์ที่ 10 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/10d22f1ad997) |
+| Mon, 10 Nov 2025 07:18:33 GMT | Automate Microsoft Graph Tasks with Azure Container App Jobs! ❤️ | Brian Veldman | [Read More](https://medium.com/p/f0ee4d5ba658) |
+| Mon, 10 Nov 2025 07:17:42 GMT | Challenge: Doge | N4P1 | [Read More](https://medium.com/p/7b249d5927c6) |
 | Mon, 10 Nov 2025 07:14:51 GMT | How Sophisticated Attackers Bypass KYC Using AI Deepfake Technology | Webtoolspage | [Read More](https://medium.com/p/6daf7325021a) |
+| Mon, 10 Nov 2025 07:11:09 GMT | Online Python Training in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/b7264d053256) |
 | Mon, 10 Nov 2025 07:06:55 GMT | Immediate steps to secure a breached MongoDB server | Shital Pimpale | [Read More](https://medium.com/p/9d20d5859c90) |
 | Mon, 10 Nov 2025 07:06:09 GMT | Top 10 Online IoT Penetration Testing with AI Training Institutes in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/431599329c7d) |
 | Mon, 10 Nov 2025 06:59:31 GMT | Why you should disable the new “Start a chat with anyone” feature in Microsoft Teams | Erik Lindeboom | [Read More](https://medium.com/p/b66e554c6095) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 22:07:04 GMT | AI: technical problems | Jhoan Sebastián Fuentes Hernández | [Read More](https://medium.com/p/8a56ae8d347b) |
 | Sun, 09 Nov 2025 21:57:49 GMT | HTB Challenge — Global Hyperlink Zone | Fardeen A. | [Read More](https://medium.com/p/46977f16dee4) |
 | Sun, 09 Nov 2025 21:53:13 GMT | Penforce CTF 2025 Write-up: Securing 1st Place (and 3 First Bloods) | Ibraheem EL-Mougy | [Read More](https://medium.com/p/6a8042438895) |
-| Sun, 09 Nov 2025 21:47:56 GMT | Threat Intelligence Data Classification Comparison | TΞLΞMΞTRY | [Read More](https://medium.com/p/96a6b7d4fe01) |
-| Sun, 09 Nov 2025 21:44:46 GMT | Pipe Based Local Shell | S12 - 0x12Dark Development | [Read More](https://medium.com/p/15098e78ca64) |
-| Sun, 09 Nov 2025 21:40:11 GMT | Privilege Escalation From Guest To Admin | Mado | [Read More](https://medium.com/p/c3d2eb357dd1) |
-| Sun, 09 Nov 2025 21:39:55 GMT | Spicy Challenge — CyShield CTF | Omar Ahmed Abdelslaam | [Read More](https://medium.com/p/a808ee045589) |
-| Sun, 09 Nov 2025 21:35:38 GMT | Monese, Android & Security — Inconveniencing Fraudsters or Customers? | NSA | [Read More](https://medium.com/p/010810cd10c5) |
