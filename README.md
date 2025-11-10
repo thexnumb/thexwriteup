@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 17:20:45 GMT | China-Linked Hackers Exploit Windows Shortcut Vulnerability to Target European Diplomats | SCtoCS | [Read More](https://medium.com/p/f7577476a51a) |
+| Mon, 10 Nov 2025 17:20:15 GMT | China-Linked Tick APT Exploits Lanscope Zero-Day to Compromise Corporate Networks | SCtoCS | [Read More](https://medium.com/p/cfd54e0d8a35) |
+| Mon, 10 Nov 2025 17:20:03 GMT | How I Unlocked Enterprise Features with One Parameter — and Earned $947 | Ferdus Alam | [Read More](https://medium.com/p/7a0fef6b2ad0) |
+| Mon, 10 Nov 2025 17:11:15 GMT | Vulnerability Data Enrichment for CVE Records: 252 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/7f91233b7b6b) |
+| Mon, 10 Nov 2025 17:09:20 GMT | Why “AUKUS-Ready” Isn’t a Nice-to-Have – It’s Your Contract Gateway | AXSAS | [Read More](https://medium.com/p/d0d6aa50386e) |
+| Mon, 10 Nov 2025 17:02:07 GMT | Defense Evasion: Staying Undetected While Maintaining Control | SDNTechForum | [Read More](https://medium.com/p/748b22f43e6e) |
+| Mon, 10 Nov 2025 17:02:02 GMT | Episode 6: “The Silent Rollout” | Dr. House In I.T. | [Read More](https://medium.com/p/6d75e7afb2af) |
+| Mon, 10 Nov 2025 17:01:56 GMT | Try This: Stop “Access Creep” With a Label-First Check | LaJuan Grier/ Juannilicious | [Read More](https://medium.com/p/73158c9b1c4f) |
+| Mon, 10 Nov 2025 17:01:09 GMT | The macOS Microkernel - IPC Message for Injections | RandomFlawsFinder | [Read More](https://medium.com/p/f358dde99926) |
+| Mon, 10 Nov 2025 16:56:26 GMT | HackGPT Brings AI-Powered Penetration Testing to Enterprise Security Teams | Technijian | [Read More](https://medium.com/p/0fb7723e7f05) |
+| Mon, 10 Nov 2025 16:51:15 GMT | The Hidden Fragility of Centralized Exchanges: Why Proactive Cyber Defence Must Replace Reactive… | Abatis ABTU | [Read More](https://medium.com/p/1cc5d1b971a4) |
 | Mon, 10 Nov 2025 16:45:36 GMT | How to Prevent AI Agent Attacks: A Practical Guide | Isaac obune | [Read More](https://medium.com/p/b0586e317228) |
 | Mon, 10 Nov 2025 16:44:32 GMT | How AI and Machine Learning Are Transforming Cloud Cybersecurity | Techridge Solutions | [Read More](https://medium.com/p/3f93ead81943) |
 | Mon, 10 Nov 2025 16:36:48 GMT | Delhi Red Fort Blast: Lessons for Cybersecurity and Urban Defense | Secure Talks | [Read More](https://medium.com/p/2acdda1fd5d0) |
@@ -102,14 +113,3 @@ MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [R
 | Mon, 10 Nov 2025 13:01:06 GMT | This Week in Resilience - November 10, 2025 | Sherilyn Burris | [Read More](https://medium.com/p/ace21cdf0afb) |
 | Mon, 10 Nov 2025 12:59:52 GMT | Bash Basics: From Lost to Confident in One Week | Murat Kurkoglu | [Read More](https://medium.com/p/97cc00c63577) |
 | Mon, 10 Nov 2025 12:55:54 GMT | Best Online Courses in 2025 — Learn, Grow, and Succeed with SAL Education Services | SAL Education Services | [Read More](https://medium.com/p/08b0da7ef9a6) |
-| Mon, 10 Nov 2025 12:51:26 GMT | Siber Güvenlik Araçları Rehberi: SIEM, EDR, WAF, XDR ve Diğer Savunma Sistemleri | Onur Altuğ | [Read More](https://medium.com/p/0da54be49b8d) |
-| Mon, 10 Nov 2025 12:50:02 GMT | Bug Hunting : Walking the Path of IDORs | Hello Chris | [Read More](https://medium.com/p/a6b86ffdfa1f) |
-| Mon, 10 Nov 2025 12:47:26 GMT | The Things I Never Say Out Loud | Kabii | [Read More](https://medium.com/p/60d023f6af19) |
-| Mon, 10 Nov 2025 12:45:21 GMT | Disgruntled — TryHackme | Aufarifqi | [Read More](https://medium.com/p/2c8560614c5b) |
-| Mon, 10 Nov 2025 12:44:20 GMT | Best IT Infrastructure Management Services Provider in India | Samvaskaran | [Read More](https://medium.com/p/c21302fd6f7a) |
-| Mon, 10 Nov 2025 12:37:57 GMT | Protokolün Sırları: Anormal C2 İletişiminin Tespitinde Derin Öğrenme (Deep Learning) ile Geleceğin… | Buğra Enhar Elbir | [Read More](https://medium.com/p/93f9094534d1) |
-| Mon, 10 Nov 2025 12:35:05 GMT | What Is The SS7 Exploit? How It Works | Ajay Naik | [Read More](https://medium.com/p/5f7e189b2ab9) |
-| Mon, 10 Nov 2025 12:33:01 GMT | Top 10 Emerging Technologies to Watch in 2025 | David Mark | [Read More](https://medium.com/p/91c0a6c22733) |
-| Mon, 10 Nov 2025 12:30:58 GMT | CitrixBleed 2.0: Analysis of the 2025 FEMA and CBP Data Breach | Trust Consulting Services | [Read More](https://medium.com/p/69edb3604802) |
-| Mon, 10 Nov 2025 12:28:26 GMT | How Professional Event Security Ensures a Safe and Successful Event | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/6d84488f0d4a) |
-| Mon, 10 Nov 2025 12:27:07 GMT | My Name is Ryan. My username is Eventide | Ryan Cham Rui Yang | [Read More](https://medium.com/p/f46268beaa54) |
