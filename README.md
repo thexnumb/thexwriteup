@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 16:45:36 GMT | How to Prevent AI Agent Attacks: A Practical Guide | Isaac obune | [Read More](https://medium.com/p/b0586e317228) |
+| Mon, 10 Nov 2025 16:44:32 GMT | How AI and Machine Learning Are Transforming Cloud Cybersecurity | Techridge Solutions | [Read More](https://medium.com/p/3f93ead81943) |
+| Mon, 10 Nov 2025 16:36:48 GMT | Delhi Red Fort Blast: Lessons for Cybersecurity and Urban Defense | Secure Talks | [Read More](https://medium.com/p/2acdda1fd5d0) |
+| Mon, 10 Nov 2025 16:34:30 GMT | Understanding Active Directory (AD): The Heart of Enterprise Identity and Access Management | Rushikesh Girase | [Read More](https://medium.com/p/26960e71029f) |
+| Mon, 10 Nov 2025 16:32:01 GMT | Apple Source Code Exposed Again — Why Every Enterprise AI Stack Needs Secure Code Before It’s Too… | Snow | [Read More](https://medium.com/p/330679a30b49) |
+| Mon, 10 Nov 2025 16:27:32 GMT | Business Continuity Planning in Orange County: How to Keep Your Doors Open — No Matter What | Technijian | [Read More](https://medium.com/p/2febd6e8a516) |
 | Mon, 10 Nov 2025 16:22:44 GMT | The Cybersecruity meme | Cyber Fortress | [Read More](https://medium.com/p/7e8da44b2e53) |
+| Mon, 10 Nov 2025 16:17:06 GMT | HSTS Max-Age Directives and Cyborgs | Jen Cracchiola | [Read More](https://medium.com/p/c72013bba0bc) |
 | Mon, 10 Nov 2025 16:12:02 GMT | Welcome to The Unfiltered Archive: Writing My Own Something | The Unfiltered Archive | [Read More](https://medium.com/p/52d8b95a6abd) |
 | Mon, 10 Nov 2025 16:08:25 GMT | Become a Certified Google Cloud Security Operations Engineer: Master Cloud Security with Confidence | Md Mahrab Khan | [Read More](https://medium.com/p/b9977ab3b28f) |
 | Mon, 10 Nov 2025 16:06:58 GMT | What is IP Sniffing? | Gaurav Roy CTO, Masters - BS-Cyber-Sec - MIT - LPU | [Read More](https://medium.com/p/5737d6be19b3) |
@@ -106,10 +113,3 @@ MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [R
 | Mon, 10 Nov 2025 12:30:58 GMT | CitrixBleed 2.0: Analysis of the 2025 FEMA and CBP Data Breach | Trust Consulting Services | [Read More](https://medium.com/p/69edb3604802) |
 | Mon, 10 Nov 2025 12:28:26 GMT | How Professional Event Security Ensures a Safe and Successful Event | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/6d84488f0d4a) |
 | Mon, 10 Nov 2025 12:27:07 GMT | My Name is Ryan. My username is Eventide | Ryan Cham Rui Yang | [Read More](https://medium.com/p/f46268beaa54) |
-| Mon, 10 Nov 2025 12:18:18 GMT | Cloud & IoT-Enabled Security Systems: Transforming Home & Business Surveillance for the Connected… | Digital Premium Solutions | [Read More](https://medium.com/p/fd973e4ca64d) |
-| Mon, 10 Nov 2025 12:12:04 GMT | The Secret Life of Authenticity | Tami | [Read More](https://medium.com/p/f5520abfaf29) |
-| Mon, 10 Nov 2025 12:06:02 GMT | Fletcher Reede The Coder: Retrospectives and Kumbaya | Namir Sagheenanajar | [Read More](https://medium.com/p/20bd0b7475ac) |
-| Mon, 10 Nov 2025 12:02:06 GMT | Advancements in IoT: New Applications, Devices and Challenges | Emily Chan | [Read More](https://medium.com/p/56f6bded3b3b) |
-| Mon, 10 Nov 2025 12:02:05 GMT | TLS 1.3, ECH & PQC: What Devs Need Now | Praxen | [Read More](https://medium.com/p/0efde96ecf2b) |
-| Mon, 10 Nov 2025 12:02:02 GMT | CTF Basics: Understanding the Caesar Cipher and ROT13 | Walter Moar | [Read More](https://medium.com/p/9261fa7c3686) |
-| Mon, 10 Nov 2025 12:01:41 GMT | LEAVEMEALONE: Surviving the Web Today | BlueHotel | [Read More](https://medium.com/p/c64b25273343) |
