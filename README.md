@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 15:39:32 GMT | 12 Common Cyber Attacks — Simple Explanations, Real Examples, and How to Protect Yourself | Explainer | [Read More](https://medium.com/p/7de969f770f1) |
+| Mon, 10 Nov 2025 15:35:32 GMT | From Passwords to Firewalls: A Practical Step-by-Step Plan to Secure Your Laptop | Paradise technologies Inc | [Read More](https://medium.com/p/b5df9b7b0c27) |
+| Mon, 10 Nov 2025 15:24:22 GMT | Tools, Trouble, and Trickery: Part 4 | OSINT Amy | [Read More](https://medium.com/p/e8d299e44cde) |
+| Mon, 10 Nov 2025 15:23:07 GMT | How Pax Ensures Scalability and Security for Global Users | Pax | [Read More](https://medium.com/p/cbee7f1f474c) |
+| Mon, 10 Nov 2025 15:21:29 GMT | Blood-Cat: A tool for collecting publicly exposed network cameras, with support for specifying… | Мартин. | [Read More](https://medium.com/p/50886cbf2e31) |
+| Mon, 10 Nov 2025 15:16:39 GMT | Gobuster: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/78ce57a250e2) |
 | Mon, 10 Nov 2025 15:11:28 GMT | Netforge: C2 server only 14MB in size,implementing account-based session isolation and management. | Мартин. | [Read More](https://medium.com/p/7fdb6eea8cdc) |
 | Mon, 10 Nov 2025 15:09:59 GMT | When AI Meets Cybersecurity: The Next Frontier of Protection | Dr. Shashi Karhail | [Read More](https://medium.com/p/4cf02dca2f05) |
 | Mon, 10 Nov 2025 15:09:20 GMT | Threat Investigation — Boogeyman 3 - SOC Level 1 Capstone Challenge — THM | 0xRahuL | [Read More](https://medium.com/p/f4748aec2da0) |
@@ -107,9 +113,3 @@ MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [R
 | Mon, 10 Nov 2025 11:42:56 GMT | Why Your Waiting Room Needs a Kiosk Machine? | Rakesh | [Read More](https://medium.com/p/ecc5da7f31c9) |
 | Mon, 10 Nov 2025 11:40:40 GMT | News & Insights — Target Security Group | Target securitygroup | [Read More](https://medium.com/p/a5fc1212675a) |
 | Mon, 10 Nov 2025 11:35:15 GMT | The new TryHackMe SOC Level 1 Path | Citadel Cybersec | [Read More](https://medium.com/p/7c82e90cb397) |
-| Mon, 10 Nov 2025 11:27:42 GMT | Portswigger Labs — Information Disclosure 1 | Hydra | [Read More](https://medium.com/p/327085b1c274) |
-| Mon, 10 Nov 2025 11:26:43 GMT | 5 API Security Mistakes I Made Testing with Python (and What I Learned) | Sourojit Das | [Read More](https://medium.com/p/51801df9598f) |
-| Mon, 10 Nov 2025 11:25:07 GMT | Web Hosting Without the Wallet Pain: Plans That Really Deliver | Mary Thomas | [Read More](https://medium.com/p/218bb1107e31) |
-| Mon, 10 Nov 2025 11:23:13 GMT | Bug Bounty Hunting — Complete Guide (Part-137) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/7974b05e547e) |
-| Mon, 10 Nov 2025 11:21:47 GMT | Bug Bounty Hunting — Complete Guide (Part-136) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/1e7aa4f660e3) |
-| Mon, 10 Nov 2025 11:21:05 GMT | SOC 2 vs. ISO 27001: Which Compliance Standard Is Right for You? | Digital Defense | [Read More](https://medium.com/p/c92260d80d39) |
