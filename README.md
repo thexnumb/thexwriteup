@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 19:19:58 GMT | SOC165 — Possible SQL Injection Payload Detected — Practice with SOC Alert | Giovanni Isola | [Read More](https://medium.com/p/8a2bfb77ebcd) |
+| Mon, 10 Nov 2025 19:17:49 GMT | Why Your Employees are Your Biggest Cyber Risk (And How to Fix It in 5 Minutes a Day) | John Muconto | [Read More](https://medium.com/p/af61cfcbbe58) |
 | Mon, 10 Nov 2025 19:11:28 GMT | We Want Smart AI, But At What Cost? | Midhun | [Read More](https://medium.com/p/7f51b763fa67) |
 | Mon, 10 Nov 2025 19:08:21 GMT | When Power Targets the Vulnerable | Carl J. Petersen | [Read More](https://medium.com/p/a675ae81547b) |
 | Mon, 10 Nov 2025 19:03:56 GMT | TryHackMe - Introduction to SOAR - WriteUp | Axoloth | [Read More](https://medium.com/p/cb390069dc0b) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 13:56:28 GMT | ANALYSIS & INTEGRATION OF OFFICIAL PUBLICATION CHANNEL
 MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [Read More](https://medium.com/p/1a2e55e60cc9) |
 | Mon, 10 Nov 2025 13:55:44 GMT | When I’m Afraid to Hit “Publish” | Darlene López | [Read More](https://medium.com/p/57cc67d06c9e) |
-| Mon, 10 Nov 2025 13:48:08 GMT | Nor-Tech Achieves Intel Prestige Partner Status-Delivering High-Impact Value and Innovation to… | Emma Lyons | [Read More](https://medium.com/p/ea4b721f4b18) |
-| Mon, 10 Nov 2025 13:41:26 GMT | ️ How to Become a SOC Analyst in 2026: The Complete Beginner’s Roadmap | The Daily Cyber News | [Read More](https://medium.com/p/6db314062f34) |
