@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 22:11:30 GMT | Darkweb Vendor Imposter Scams Surge in 2025 | Tor BBB | [Read More](https://medium.com/p/67b7b2854628) |
+| Mon, 10 Nov 2025 22:06:29 GMT | A Virus Disguised as an Antivirus: How Criminals Fake ESET Installers — and Why It’s Dangerous | 0trust0day | [Read More](https://medium.com/p/32c75e2adfa6) |
+| Mon, 10 Nov 2025 21:49:31 GMT | What Actually Can Make You Money from Writing in 2025? | Aliyu Ibrahim | [Read More](https://medium.com/p/d19d1ac0bf1c) |
+| Mon, 10 Nov 2025 21:42:09 GMT | Las 5 fases del Pentesting | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/85af1bc24fd0) |
+| Mon, 10 Nov 2025 21:35:48 GMT | The Courage of Being Vulnerable | Nish | [Read More](https://medium.com/p/83c99f0952e3) |
 | Mon, 10 Nov 2025 21:22:02 GMT | How 250 Files Can Break ChatGPT — The Hidden Lesson Behind AI’s Fragile Secret | Felix Keuya | [Read More](https://medium.com/p/bb7bc49a939b) |
 | Mon, 10 Nov 2025 21:13:35 GMT | SQL Injection Fundamentals (new version) —  HackTheBox ACADEMY — Skill Assessment Walkthough | th3V0!D | [Read More](https://medium.com/p/39b819505f69) |
 | Mon, 10 Nov 2025 21:06:53 GMT | One Cookie to Steal Them All: A Story of IDOR | Parth Narula | [Read More](https://medium.com/p/f99870c3a683) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 14:41:00 GMT | Reconstruction-led connectivity through Syria and stability can be the starter of a new Middle-East | MASUM BILLAH | [Read More](https://medium.com/p/1d5e3245f254) |
 | Mon, 10 Nov 2025 14:37:08 GMT | PROJETO mini-lab: Monitoramento e controle com #WAZUH >Atulizações< | EduKayky | [Read More](https://medium.com/p/0b18d2f9f795) |
 | Mon, 10 Nov 2025 14:36:15 GMT | Your Factory Floor is a $50M Liability (And Your Insurance Company Knows It) | Tec-Tel Communications | [Read More](https://medium.com/p/e99f3d0c6551) |
-| Mon, 10 Nov 2025 14:33:42 GMT | Why Your Hospital’s Doors Are Killing Your Security Budget | Tec-Tel Communications | [Read More](https://medium.com/p/892a33392268) |
-| Mon, 10 Nov 2025 14:30:11 GMT | Aura Activity Feed: Enhanced Security and Compliance for Neo4j Aura | Ian McCloy | [Read More](https://medium.com/p/2e9424eb5f8e) |
-| Mon, 10 Nov 2025 14:21:04 GMT | BIGFOOT IS REAL! And So Is The Need For HTTP Response Security Headers | Jen Cracchiola | [Read More](https://medium.com/p/e65333985e6f) |
-| Mon, 10 Nov 2025 14:19:23 GMT | The Cache Poisoning Bible: Part 1 — Advanced Fundamentals | Abhishek meena | [Read More](https://medium.com/p/2c8e9d7be2e9) |
-| Mon, 10 Nov 2025 14:12:19 GMT | Kubernetes Forensics Nightmare: When Self-Healing Erases the Evidence | Mohammad Fathul Ikhsan | [Read More](https://medium.com/p/35fe74b6cab2) |
