@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 05:15:50 GMT | The 2011 Japan Earthquake: Impact on IT Infrastructure and Data Security | Asghar Hussain | [Read More](https://medium.com/p/be4eda057cd0) |
+| Mon, 10 Nov 2025 05:14:47 GMT | https://www.linkedin.com/posts/david-kariuki-a6464127b_cybersecurity-for-executives-activity-7393515 | DAVID KARIUKI "1stb0n" | [Read More](https://medium.com/p/26e62b4f07c5) |
+| Mon, 10 Nov 2025 05:04:52 GMT | IoT Penetration Testing: A Simple Guide with Tool Lists | Sheikh Ayan | [Read More](https://medium.com/p/3e52df262447) |
+| Mon, 10 Nov 2025 04:57:39 GMT | Smart Tip | T. Cook | [Read More](https://medium.com/p/cc377a2a6023) |
+| Mon, 10 Nov 2025 04:57:07 GMT | SOC L1 Alert Triage Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/a970bdb95d06) |
+| Mon, 10 Nov 2025 04:50:28 GMT | Top 10 Web Hosting Control Panels for 2026 | HostNOC | [Read More](https://medium.com/p/eeb11dac6ee1) |
+| Mon, 10 Nov 2025 04:38:44 GMT | How I found Vulnerability on Google Forms (Duplicate Internal — Fixed) | 171.320 | [Read More](https://medium.com/p/d02aa2e6357c) |
 | Mon, 10 Nov 2025 04:31:04 GMT | OCI Security Zones na Prática: Automatizando a Conformidade Zero Trust (Shift-Left Security) | Julio Jeronymo | [Read More](https://medium.com/p/f42f9a22bf7f) |
 | Mon, 10 Nov 2025 04:30:09 GMT | Understanding Rootkits: The Invisible Threat Inside Your System | Raviteja Mureboina | [Read More](https://medium.com/p/a622072ac571) |
 | Mon, 10 Nov 2025 04:29:27 GMT | RST TI Report Digest: 10 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/ae4d32c2d956) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 18:46:54 GMT | AI Browsers: Your New Super-Assistant | Sameer Koli | [Read More](https://medium.com/p/12f80dcf560b) |
 | Sun, 09 Nov 2025 18:45:32 GMT | Threat Analysis: Google Identifies COLDRIVER’s Evolving Malware Toolkit. | Femintee | [Read More](https://medium.com/p/89fde53f10ad) |
 | Sun, 09 Nov 2025 18:40:36 GMT | What happens when you click “forgot password” (Part 1) | Nkiru Nwanolue | [Read More](https://medium.com/p/df804bca5fdb) |
-| Sun, 09 Nov 2025 18:34:34 GMT | Malops Challenge 8: Reversing APT 37’s RokRaT Loader | YUCA | [Read More](https://medium.com/p/7f7ad49e4662) |
-| Sun, 09 Nov 2025 18:27:06 GMT | CyCTF25 Qualification Phase | Alamin Alaa | [Read More](https://medium.com/p/a3f5ed194ee9) |
-| Sun, 09 Nov 2025 18:14:17 GMT | Payday — Walkthrough | Jose Diaz | [Read More](https://medium.com/p/a429f105f17d) |
-| Sun, 09 Nov 2025 18:10:44 GMT | Breaking Boundaries: Mastering Windows Privilege Escalation with Boxes | RootRouteway | [Read More](https://medium.com/p/1ec73145f972) |
-| Sun, 09 Nov 2025 18:07:39 GMT | S3 Bucket Takeover, The Hidden Trap in the Cloud | Aman Bhuiyan | [Read More](https://medium.com/p/afc013675504) |
-| Sun, 09 Nov 2025 17:47:47 GMT | How to Pick the Best Cheap VPN in 2025 | Awais Khan | [Read More](https://medium.com/p/c3a0cf54620d) |
-| Sun, 09 Nov 2025 17:47:28 GMT | How to Build a Strong Online Brand for Your Small Business | HYPHEN - TECHNOLOGIES | [Read More](https://medium.com/p/5e93aa428f49) |
