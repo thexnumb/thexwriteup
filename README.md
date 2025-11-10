@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 04:31:04 GMT | OCI Security Zones na Prática: Automatizando a Conformidade Zero Trust (Shift-Left Security) | Julio Jeronymo | [Read More](https://medium.com/p/f42f9a22bf7f) |
+| Mon, 10 Nov 2025 04:30:09 GMT | Understanding Rootkits: The Invisible Threat Inside Your System | Raviteja Mureboina | [Read More](https://medium.com/p/a622072ac571) |
+| Mon, 10 Nov 2025 04:29:27 GMT | RST TI Report Digest: 10 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/ae4d32c2d956) |
+| Mon, 10 Nov 2025 04:14:17 GMT | How Professional Thieves Choose Motorcycle Targets and the GPS Tech That Stops Them | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/fa8b476355cf) |
+| Mon, 10 Nov 2025 04:09:32 GMT | A full report of the topics I have covered so far on the metasploitable machine | Balakrishnanks | [Read More](https://medium.com/p/c4654de04656) |
 | Mon, 10 Nov 2025 03:59:00 GMT | Week 1: The Moment Everything Changed | ZAYN | [Read More](https://medium.com/p/41ee0c042795) |
 | Mon, 10 Nov 2025 03:55:02 GMT | BugBounty Fraud by cm.com | Krivadna | [Read More](https://medium.com/p/f9a942f37c9d) |
 | Mon, 10 Nov 2025 03:51:58 GMT | Fortify Your VPS: Essential Linux SSH Security Steps | Danilsyah Rizal | [Read More](https://medium.com/p/b6ae3a8a954b) |
 | Mon, 10 Nov 2025 03:47:03 GMT | The Backdoor to Admin: Unmasking Broken Function Level Authorization Vulnerabilities | Jei Ess | [Read More](https://medium.com/p/3fa93356bd72) |
+| Mon, 10 Nov 2025 03:40:23 GMT | System support for microkernel operating systems | wy-chung | [Read More](https://medium.com/p/204f5a2610c0) |
 | Mon, 10 Nov 2025 03:38:25 GMT | Huntress CTF 2025 Writeups Series: Part 3 | Mahmoud Matar | [Read More](https://medium.com/p/b2f4a22e5894) |
 | Mon, 10 Nov 2025 03:32:00 GMT | Top 3 Tools for Securing Secrets in Node.js — A practical, forward-looking guide | Arunangshu Das | [Read More](https://medium.com/p/de4bad48d129) |
 | Mon, 10 Nov 2025 03:32:00 GMT | The Phantom Code: How “Quishing” Is Redefining the Phishing Threat | Deven Chhajed | [Read More](https://medium.com/p/f92aeb2a05c7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 18:07:39 GMT | S3 Bucket Takeover, The Hidden Trap in the Cloud | Aman Bhuiyan | [Read More](https://medium.com/p/afc013675504) |
 | Sun, 09 Nov 2025 17:47:47 GMT | How to Pick the Best Cheap VPN in 2025 | Awais Khan | [Read More](https://medium.com/p/c3a0cf54620d) |
 | Sun, 09 Nov 2025 17:47:28 GMT | How to Build a Strong Online Brand for Your Small Business | HYPHEN - TECHNOLOGIES | [Read More](https://medium.com/p/5e93aa428f49) |
-| Sun, 09 Nov 2025 17:33:08 GMT | Information Security Therapy | Elena Sarimichailidou | [Read More](https://medium.com/p/628ad2cb1f15) |
-| Sun, 09 Nov 2025 17:27:58 GMT | Secure API Design: The missing pillar in Backend Engineering | Jayanthpawar | [Read More](https://medium.com/p/9025fcac7a47) |
-| Sun, 09 Nov 2025 17:22:04 GMT | Quantum Computing: The Looming Threat to Your Supply Chain’s Encryption | Gopi Sri | [Read More](https://medium.com/p/29bee390eeb5) |
-| Sun, 09 Nov 2025 17:18:02 GMT | CyCTF Qualification: News Leak Challenge | Rawansaeed | [Read More](https://medium.com/p/fd31ce153298) |
-| Sun, 09 Nov 2025 17:17:19 GMT | What Happens When You Reply to Every Spam Email for a Week | Sourav Sardar | [Read More](https://medium.com/p/e3efd0d2cace) |
-| Sun, 09 Nov 2025 17:12:51 GMT | Active Directory (Domain Trusts) | SilentExploit | [Read More](https://medium.com/p/6418c6f84d63) |
