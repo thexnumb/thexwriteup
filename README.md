@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 10:19:53 GMT | From Zero to Cybersecurity: My Journey from Confusion to Clarity | Suyash Gargote | [Read More](https://medium.com/p/42a6974b9cd1) |
+| Mon, 10 Nov 2025 10:13:36 GMT | Deep Diving into Enumeration in My CEH v13 Journey! | Bhingaresahil | [Read More](https://medium.com/p/8e3635baefe8) |
+| Mon, 10 Nov 2025 10:13:21 GMT | Every technology starts as noise, then quietly becomes normal. | Opeyemi Bamiduro | [Read More](https://medium.com/p/2cd2114f64fd) |
+| Mon, 10 Nov 2025 10:11:41 GMT | Mastering Snort: Stopping Real-Time Attacks from the TryHackMe “Live Attacks” Challenge | Citadel Cybersec | [Read More](https://medium.com/p/5d7ba308b8f0) |
+| Mon, 10 Nov 2025 10:05:24 GMT | El-Kindî’nin Gizli Dalgaları: Kriptolojiden Bilginin Modülasyonuna | Mustafa bekir kaya | [Read More](https://medium.com/p/6d8fea3414a9) |
+| Mon, 10 Nov 2025 10:03:51 GMT | Linux Privacy & Security Tricks with Tails | Frost | [Read More](https://medium.com/p/71747c1d5ac1) |
+| Mon, 10 Nov 2025 10:03:19 GMT | May hack analysis and overview | Sisi | [Read More](https://medium.com/p/6b742b0bca8f) |
+| Mon, 10 Nov 2025 10:02:11 GMT | Why the Computer Hacking Forensic Investigator (CHFI) Certification Is a Game-Changer in Digital… | Shreyashettyctr | [Read More](https://medium.com/p/013c56763658) |
+| Mon, 10 Nov 2025 10:01:48 GMT | From 403 Forbidden to Time-Based Blind SQLi: A WAF Bypass Case Study | Jenson | [Read More](https://medium.com/p/27bdfe99b210) |
+| Mon, 10 Nov 2025 10:00:35 GMT | Security & Privacy for Small Business Owners: A 2025 Guide | Sarah Moradi | [Read More](https://medium.com/p/ffc5b80d1c42) |
+| Mon, 10 Nov 2025 09:55:27 GMT | techNbuddy: Where Work Meets the Right Vibe. | techNbuddy | [Read More](https://medium.com/p/fd0fb55196e6) |
+| Mon, 10 Nov 2025 09:55:25 GMT | Resisting All-Dimensional Attacks from Network to Hardware — The Digital Shield Web3 Defense… | Digital Shield | [Read More](https://medium.com/p/ef10c10f9261) |
+| Mon, 10 Nov 2025 09:54:58 GMT | Why Hire a Security Surveillance System for Your Commercial Space | Security Surveillance System | [Read More](https://medium.com/p/035c91a2bca1) |
+| Mon, 10 Nov 2025 09:53:03 GMT | Cryptocurrency Wallet Recommendation: The Future of Decentralized Asset Management with Chip-Level… | Digital Shield | [Read More](https://medium.com/p/9d3cf8756274) |
+| Mon, 10 Nov 2025 09:49:03 GMT | Your Terminal Isn’t Scary, It’s Your Superpower | Fateyaly | [Read More](https://medium.com/p/fdfac9251c34) |
+| Mon, 10 Nov 2025 09:48:44 GMT | Security Issues in Cloud Computing | Arnav | [Read More](https://medium.com/p/335c24a91198) |
+| Mon, 10 Nov 2025 09:46:23 GMT | CyCTF Web Challenge Admin Secret , News leak and inception | Abdullah Bendary | [Read More](https://medium.com/p/84371666d663) |
+| Mon, 10 Nov 2025 09:42:40 GMT | Deja Vu Tryhackme writeup | Elallalihouda | [Read More](https://medium.com/p/fd79b16f1300) |
+| Mon, 10 Nov 2025 09:40:14 GMT | Essential Tools for Protecting Business Operations: A Beginner’s Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/c9e109ce9969) |
 | Mon, 10 Nov 2025 09:32:41 GMT | DockerLabs Writeup — Internship (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e344ccb6ef0e) |
 | Mon, 10 Nov 2025 09:32:02 GMT | Bug Bounties 101: 5 Platforms That Deliver | Modexa | [Read More](https://medium.com/p/cb10ede3f6d0) |
 | Mon, 10 Nov 2025 09:32:02 GMT | The Rise of AI Red Teams: Testing the Machines Before the Machines Test Us | Yash Gorasiya | [Read More](https://medium.com/p/8cb10e4fc234) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 03:47:03 GMT | The Backdoor to Admin: Unmasking Broken Function Level Authorization Vulnerabilities | Jei Ess | [Read More](https://medium.com/p/3fa93356bd72) |
 | Mon, 10 Nov 2025 03:40:23 GMT | System support for microkernel operating systems | wy-chung | [Read More](https://medium.com/p/204f5a2610c0) |
 | Mon, 10 Nov 2025 03:38:25 GMT | Huntress CTF 2025 Writeups Series: Part 3 | Mahmoud Matar | [Read More](https://medium.com/p/b2f4a22e5894) |
-| Mon, 10 Nov 2025 03:32:00 GMT | Top 3 Tools for Securing Secrets in Node.js — A practical, forward-looking guide | Arunangshu Das | [Read More](https://medium.com/p/de4bad48d129) |
-| Mon, 10 Nov 2025 03:32:00 GMT | The Phantom Code: How “Quishing” Is Redefining the Phishing Threat | Deven Chhajed | [Read More](https://medium.com/p/f92aeb2a05c7) |
-| Mon, 10 Nov 2025 03:17:26 GMT | Chapter 2.2— A Day in the Life of a SOC Analyst | Giri | [Read More](https://medium.com/p/e36ebf96fcbe) |
-| Mon, 10 Nov 2025 03:16:00 GMT | Unlocking the Gold Standard in Cybersecurity: Why the CISSP Certificate Matters | Cybernous Infosec consulting | [Read More](https://medium.com/p/6c70e604b00d) |
-| Mon, 10 Nov 2025 03:09:43 GMT | 10 Must-Know OSINT Tools for Cybersecurity Professionals | Shahzaib | [Read More](https://medium.com/p/5e6f4cb95ac2) |
-| Mon, 10 Nov 2025 03:01:42 GMT | From Fiction to Firewalls: How Stories Teach Us Cyber Defense | Aj | [Read More](https://medium.com/p/da1023ef9c26) |
-| Mon, 10 Nov 2025 03:00:20 GMT | My GX-FA Review | jon | [Read More](https://medium.com/p/5c8ff06b42e6) |
-| Mon, 10 Nov 2025 02:43:34 GMT | How I Cleared the CISSP and CISM in 6 Months — A Realistic Strategy That Actually Works | ThreatLens byGurdeep | [Read More](https://medium.com/p/f5f48a3ea5f7) |
-| Mon, 10 Nov 2025 02:34:14 GMT | The Gift of My Years | Ummugul Bulut | [Read More](https://medium.com/p/e6e2c8734c02) |
-| Mon, 10 Nov 2025 02:21:05 GMT | How a $200 Smart Printer Nearly Destroyed a Local Business | Noel | [Read More](https://medium.com/p/fc68f9e4e56f) |
-| Mon, 10 Nov 2025 02:20:33 GMT | How I earned Bounty from Notion.com | StvRoot | [Read More](https://medium.com/p/010dcb0e2e11) |
-| Mon, 10 Nov 2025 02:11:58 GMT | Day 15: Authentication & Security — Keeping Your App (and Users) Safe | JavaScript With Vinay | [Read More](https://medium.com/p/7182709df876) |
-| Mon, 10 Nov 2025 02:11:27 GMT | From Rejections to Red Team: How AI Security and Bug Bounty Helped Me Land My First… | Monu Jangra | [Read More](https://medium.com/p/4d2bb1c4adf0) |
-| Mon, 10 Nov 2025 02:07:43 GMT | How Hackers Crack “Uncrackable” Games | Abdullah Javeed | [Read More](https://medium.com/p/791a70d15a7d) |
-| Mon, 10 Nov 2025 02:02:00 GMT | How GenAI Helped My Students Focus on What Really Matters in Cybersecurity | Dr Ahmed Ibrahim | [Read More](https://medium.com/p/7835d9c561e8) |
-| Mon, 10 Nov 2025 01:53:10 GMT | The Paradox of Trust in Mobile Applications | ノウラ - Flare | [Read More](https://medium.com/p/38c62a3aea20) |
-| Mon, 10 Nov 2025 01:48:22 GMT | Plotted-TMS— TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/18d2357ea29c) |
-| Mon, 10 Nov 2025 01:43:26 GMT | The Courage to Lead with Heart | Evelyn Foreman | [Read More](https://medium.com/p/009098b69089) |
-| Mon, 10 Nov 2025 01:35:21 GMT | CyCTF Reverse Challenge - BabyCrackMe | Karim Walid | [Read More](https://medium.com/p/259ca18d434b) |
