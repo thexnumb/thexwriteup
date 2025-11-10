@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 23:11:30 GMT | THM - CRM Snatch | Francesco Pastore | [Read More](https://medium.com/p/8ec7135d159a) |
+| Mon, 10 Nov 2025 23:02:59 GMT | Information Disclosure: Hardcoded Encryption Keys | Umanhonlen Gabriel | [Read More](https://medium.com/p/fc375abf68a3) |
+| Mon, 10 Nov 2025 22:49:44 GMT | Applying the Principle of Least Privilege with AWS IAM: A Hands-On Project | Okeke Jehohanan Ginika | [Read More](https://medium.com/p/27c62e70fd2d) |
+| Mon, 10 Nov 2025 22:45:53 GMT | GZR Observer — Global Daily — India Perspective Nov 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/abf4faca3358) |
 | Mon, 10 Nov 2025 22:37:16 GMT | Scanned Before Consent | Mark Calee-Empathy...Power! | [Read More](https://medium.com/p/8d845345ce52) |
 | Mon, 10 Nov 2025 22:31:02 GMT | Day 10: Network Security Essentials — Firewalls, IDS/IPS, Access Control & Common Attacks | HackTrace | [Read More](https://medium.com/p/ab26cd2eb766) |
 | Mon, 10 Nov 2025 22:27:41 GMT | The $25 Million Ghost in the Machine: How AI Deepfakes Just Hacked Human Trust | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/51bea32c50dd) |
@@ -21,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 21:49:31 GMT | What Actually Can Make You Money from Writing in 2025? | Aliyu Ibrahim | [Read More](https://medium.com/p/d19d1ac0bf1c) |
 | Mon, 10 Nov 2025 21:42:09 GMT | Las 5 fases del Pentesting | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/85af1bc24fd0) |
 | Mon, 10 Nov 2025 21:35:48 GMT | The Courage of Being Vulnerable | Nish | [Read More](https://medium.com/p/83c99f0952e3) |
+| Mon, 10 Nov 2025 21:30:27 GMT | Why You Should Always Take Your Shot | xploiterr | [Read More](https://medium.com/p/8eadabce2cfc) |
 | Mon, 10 Nov 2025 21:22:02 GMT | How 250 Files Can Break ChatGPT — The Hidden Lesson Behind AI’s Fragile Secret | Felix Keuya | [Read More](https://medium.com/p/bb7bc49a939b) |
 | Mon, 10 Nov 2025 21:13:35 GMT | SQL Injection Fundamentals (new version) —  HackTheBox ACADEMY — Skill Assessment Walkthough | th3V0!D | [Read More](https://medium.com/p/39b819505f69) |
 | Mon, 10 Nov 2025 21:06:53 GMT | One Cookie to Steal Them All: A Story of IDOR | Parth Narula | [Read More](https://medium.com/p/f99870c3a683) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 14:58:36 GMT | The Securest Browser for Your Business in 2026 Is Microsoft Edge | Cordula Boeck | [Read More](https://medium.com/p/9905617558d3) |
 | Mon, 10 Nov 2025 14:57:06 GMT | picoCTF 2025: 3v@l; web exploitation category; difficulty medium | Eddyrakotobe | [Read More](https://medium.com/p/b9335a745761) |
 | Mon, 10 Nov 2025 14:55:19 GMT | “If Ethereum Had an Immune System, It Would Be Called Drosera” | Samstar71 | [Read More](https://medium.com/p/c3b6f236bb03) |
-| Mon, 10 Nov 2025 14:53:26 GMT | How to Fix a Door Lock That Won’t Turn: Step-by-Step Troubleshooting | Sure Lock & Key LLC | [Read More](https://medium.com/p/e71d4b14233c) |
-| Mon, 10 Nov 2025 14:53:26 GMT | Threat Investigation — Boogeyman 1 - SOC Level 1 Capstone Challenge — THM | 0xRahuL | [Read More](https://medium.com/p/d5da9bb63a9d) |
-| Mon, 10 Nov 2025 14:52:24 GMT | How I Found NASA’s Hidden VPN Origin IP Without a Firewall — And They Patched It in Silence | Krivadna | [Read More](https://medium.com/p/3d517e0b6426) |
-| Mon, 10 Nov 2025 14:50:56 GMT | A Single Line of Python Code That Will Get You Hacked | Maikel Mardjan | [Read More](https://medium.com/p/69a4d3a6a9b1) |
-| Mon, 10 Nov 2025 14:46:16 GMT | “The One-Click Account Takeover That Chained XSS and CSRF” | Aman Sharma | [Read More](https://medium.com/p/cd4ebe22fb7f) |
