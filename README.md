@@ -12,8 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 13:26:34 GMT | THE ATLANTA RANSOMWARE ATTACK: ANALYSIS OF NEGOTIATION STRATEGIES AND LEADERSHIP DECISIONS | Enrique Somoza | [Read More](https://medium.com/p/b10d96c9e8d4) |
+| Mon, 10 Nov 2025 13:18:56 GMT | Azure Security Best Practices: How to Protect Your Cloud Environment | Zara Johnson | [Read More](https://medium.com/p/a67953b428ef) |
+| Mon, 10 Nov 2025 13:18:03 GMT | BAD RELATIONSHIP SERIES:EPS9 WHEN LOVE IS FEAR | HEALING OUT LOUD! | [Read More](https://medium.com/p/9826067c5532) |
+| Mon, 10 Nov 2025 13:12:18 GMT | Best Tech Companies in NYC: A Deep Dive into Innovation and Growth | Sheena Khan | [Read More](https://medium.com/p/fac88c42a4e4) |
+| Mon, 10 Nov 2025 13:07:50 GMT | Stop Obsessing Over Tools. Start Showing Your Thinking. | Ann R. | [Read More](https://medium.com/p/d1ee21cdfeb8) |
+| Mon, 10 Nov 2025 13:07:48 GMT | CIA Triad (Confidentiality, Integrity, and Availability)️ | Merve Güler | [Read More](https://medium.com/p/a00dc9448dd9) |
+| Mon, 10 Nov 2025 13:06:05 GMT | Who Are You When No One’s Watching? | R.Sh | [Read More](https://medium.com/p/1c7bd6f223b4) |
+| Mon, 10 Nov 2025 13:05:52 GMT | AI and Its Impact on Businesses | Maximilian Maucher | [Read More](https://medium.com/p/c1d3e687b386) |
+| Mon, 10 Nov 2025 13:04:34 GMT | Ethical Hacking Course After 12th | EINITIAL24 | [Read More](https://medium.com/p/d743e18cfb6e) |
+| Mon, 10 Nov 2025 13:04:32 GMT | Hidden Risks in Your Code: Simple Security Lessons for Developers | Ridmi Thilakarathna | [Read More](https://medium.com/p/85c1a830f3ea) |
+| Mon, 10 Nov 2025 13:03:22 GMT | Event Services London: The Complete Guide to Professional, Reliable & Premium Event Support (2025) | waeventservices.co.uk/ | [Read More](https://medium.com/p/1fb884a36783) |
+| Mon, 10 Nov 2025 13:02:09 GMT | This Bytes — NCL Forensics CTF Challenge — Write-up | Moez Ben-Azzouz | [Read More](https://medium.com/p/39d221c4d785) |
+| Mon, 10 Nov 2025 13:02:02 GMT | Stop Pretending: Embrace Your Authentic Self for True Well-being | kitty | [Read More](https://medium.com/p/135cf9eeee1a) |
+| Mon, 10 Nov 2025 13:01:06 GMT | This Week in Resilience - November 10, 2025 | Sherilyn Burris | [Read More](https://medium.com/p/ace21cdf0afb) |
+| Mon, 10 Nov 2025 12:59:52 GMT | Bash Basics: From Lost to Confident in One Week | Murat Kurkoglu | [Read More](https://medium.com/p/97cc00c63577) |
+| Mon, 10 Nov 2025 12:55:54 GMT | Best Online Courses in 2025 — Learn, Grow, and Succeed with SAL Education Services | SAL Education Services | [Read More](https://medium.com/p/08b0da7ef9a6) |
+| Mon, 10 Nov 2025 12:51:26 GMT | Siber Güvenlik Araçları Rehberi: SIEM, EDR, WAF, XDR ve Diğer Savunma Sistemleri | Onur Altuğ | [Read More](https://medium.com/p/0da54be49b8d) |
+| Mon, 10 Nov 2025 12:50:02 GMT | Bug Hunting : Walking the Path of IDORs | Hello Chris | [Read More](https://medium.com/p/a6b86ffdfa1f) |
+| Mon, 10 Nov 2025 12:47:26 GMT | The Things I Never Say Out Loud | Kabii | [Read More](https://medium.com/p/60d023f6af19) |
+| Mon, 10 Nov 2025 12:45:21 GMT | Disgruntled — TryHackme | Aufarifqi | [Read More](https://medium.com/p/2c8560614c5b) |
+| Mon, 10 Nov 2025 12:44:20 GMT | Best IT Infrastructure Management Services Provider in India | Samvaskaran | [Read More](https://medium.com/p/c21302fd6f7a) |
 | Mon, 10 Nov 2025 12:37:57 GMT | Protokolün Sırları: Anormal C2 İletişiminin Tespitinde Derin Öğrenme (Deep Learning) ile Geleceğin… | Buğra Enhar Elbir | [Read More](https://medium.com/p/93f9094534d1) |
 | Mon, 10 Nov 2025 12:35:05 GMT | What Is The SS7 Exploit? How It Works | Ajay Naik | [Read More](https://medium.com/p/5f7e189b2ab9) |
+| Mon, 10 Nov 2025 12:33:01 GMT | Top 10 Emerging Technologies to Watch in 2025 | David Mark | [Read More](https://medium.com/p/91c0a6c22733) |
 | Mon, 10 Nov 2025 12:30:58 GMT | CitrixBleed 2.0: Analysis of the 2025 FEMA and CBP Data Breach | Trust Consulting Services | [Read More](https://medium.com/p/69edb3604802) |
 | Mon, 10 Nov 2025 12:28:26 GMT | How Professional Event Security Ensures a Safe and Successful Event | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/6d84488f0d4a) |
 | Mon, 10 Nov 2025 12:27:07 GMT | My Name is Ryan. My username is Eventide | Ryan Cham Rui Yang | [Read More](https://medium.com/p/f46268beaa54) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 09:05:33 GMT | Simple Ways to Protect Yourself Online | Deepak Sharma | [Read More](https://medium.com/p/0ac3ca2389cc) |
 | Mon, 10 Nov 2025 09:03:42 GMT | Change Management: Kunci Keberhasilan Implementasi Transformasi Teknologi | Valencia L Tobing | [Read More](https://medium.com/p/3195dce63bd0) |
 | Mon, 10 Nov 2025 09:03:02 GMT | Webhook to SIEM: Auto-Unlock Leaks and Trigger Your Playbook | Alexandre Vandamme | [Read More](https://medium.com/p/47e2bcd7c9be) |
-| Mon, 10 Nov 2025 09:02:03 GMT | Monitor Europe’s Air Space | Oliver H Blake | [Read More](https://medium.com/p/9799f0927862) |
-| Mon, 10 Nov 2025 08:53:59 GMT | How I accidentally broke QBFT finality on Electroneum Smart Chain | MostReal | [Read More](https://medium.com/p/2d2f5ca11da3) |
-| Mon, 10 Nov 2025 08:44:42 GMT | Owasp Top 10:2025 Rc1 — What Changed And Why It Matters | Yaniv | [Read More](https://medium.com/p/6e6c6a7604b1) |
-| Mon, 10 Nov 2025 08:42:07 GMT | Phishing Campaign Hits Ukraine: Trojanised ESET Software Packs Kalambur Backdoor | Himanshu Bhatt | [Read More](https://medium.com/p/46197dbaa7ed) |
-| Mon, 10 Nov 2025 08:28:25 GMT | How to Setup Gophish on Kali | Adio Usman | [Read More](https://medium.com/p/590a87aad58d) |
-| Mon, 10 Nov 2025 08:28:21 GMT | FalconRecon — Automating Web Reconnaissance with Bash | Mahmoudelshorpagy | [Read More](https://medium.com/p/c4fc2cbc26bf) |
-| Mon, 10 Nov 2025 08:28:13 GMT | Cybersecurity vs. Computer Science: Is It Time to Switch Fields? | RLEDUSKILLS | [Read More](https://medium.com/p/464a90c29ad3) |
-| Mon, 10 Nov 2025 08:25:20 GMT | Unlock xss0r’s Pro Power for FREE: Your 5-Day All-Access Pass is Here! ✨ | xss0r | [Read More](https://medium.com/p/6ca246d097c6) |
-| Mon, 10 Nov 2025 08:23:06 GMT | The Interlock Effect: Why Connected Cyber Defenses Beat Layered Security Every Time | Amrik  Hanjra | [Read More](https://medium.com/p/e2dd70c26c00) |
-| Mon, 10 Nov 2025 08:21:14 GMT | How Can You Deny Being Caring. #Poetry. | Sandhya Arya | [Read More](https://medium.com/p/47604a8bbefe) |
-| Mon, 10 Nov 2025 08:20:51 GMT | Technical Analysis: Vulnerability Chain Leading to RCE in a Web Platform | Ali Ziro | [Read More](https://medium.com/p/8c7cf72d5142) |
-| Mon, 10 Nov 2025 08:17:13 GMT | NASA.com Full Origin Takeover Chain: WEBVPN RSA+SAML + SSO+VNC + MARS+DSN+CMD + 25 Hidden Portals… | Krivadna | [Read More](https://medium.com/p/d412e0fa5ce1) |
-| Mon, 10 Nov 2025 08:06:43 GMT | AI PRIVACY UNDER ATTACK — “Whisper Leak”: how your AI chats can be profiled even over encrypted… | Germano Costi | [Read More](https://medium.com/p/e9d713b865a2) |
-| Mon, 10 Nov 2025 08:02:03 GMT | Part VI — Vault Chronicles: The Approval Gate | Raymon Epping | [Read More](https://medium.com/p/06f2a6de773f) |
-| Mon, 10 Nov 2025 08:02:03 GMT | I Got Into Your Network Using a £5 Gift Card. Here’s What Your Red Team Should Check. | I_AM_R00T | [Read More](https://medium.com/p/9d4dbbf066d6) |
-| Mon, 10 Nov 2025 08:01:59 GMT | Impact of Ai with Cybersecurity | Navi_95 | [Read More](https://medium.com/p/c7c8b9edbceb) |
-| Mon, 10 Nov 2025 07:59:18 GMT | Which Testing Courses Offer the Best Real-World Project Experience? | Hollisdavid | [Read More](https://medium.com/p/1909366bcf9a) |
-| Mon, 10 Nov 2025 07:58:10 GMT | Top 10 Industries That Should Hire Unarmed Security Guard Services in La Puente Today | GuardLine Chronicles | [Read More](https://medium.com/p/51fdf1c83c28) |
-| Mon, 10 Nov 2025 07:46:42 GMT | Marketing Cybersecurity in 2026 | Max Mykal | [Read More](https://medium.com/p/ce586fa77543) |
-| Mon, 10 Nov 2025 07:22:31 GMT | How to Pick the Best CCTV Monitoring Service for Your Small Business | Global CCTV Monitoring Services | [Read More](https://medium.com/p/3227b376c233) |
-| Mon, 10 Nov 2025 07:19:29 GMT | ประจำวันจันทร์ที่ 10 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/10d22f1ad997) |
-| Mon, 10 Nov 2025 07:18:33 GMT | Automate Microsoft Graph Tasks with Azure Container App Jobs! ❤️ | Brian Veldman | [Read More](https://medium.com/p/f0ee4d5ba658) |
