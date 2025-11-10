@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 11:35:15 GMT | The new TryHackMe SOC Level 1 Path | Citadel Cybersec | [Read More](https://medium.com/p/7c82e90cb397) |
+| Mon, 10 Nov 2025 11:27:42 GMT | Portswigger Labs — Information Disclosure 1 | Hydra | [Read More](https://medium.com/p/327085b1c274) |
+| Mon, 10 Nov 2025 11:26:43 GMT | 5 API Security Mistakes I Made Testing with Python (and What I Learned) | Sourojit Das | [Read More](https://medium.com/p/51801df9598f) |
+| Mon, 10 Nov 2025 11:25:07 GMT | Web Hosting Without the Wallet Pain: Plans That Really Deliver | Mary Thomas | [Read More](https://medium.com/p/218bb1107e31) |
+| Mon, 10 Nov 2025 11:23:13 GMT | Bug Bounty Hunting — Complete Guide (Part-137) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/7974b05e547e) |
+| Mon, 10 Nov 2025 11:21:47 GMT | Bug Bounty Hunting — Complete Guide (Part-136) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/1e7aa4f660e3) |
+| Mon, 10 Nov 2025 11:21:05 GMT | SOC 2 vs. ISO 27001: Which Compliance Standard Is Right for You? | Digital Defense | [Read More](https://medium.com/p/c92260d80d39) |
+| Mon, 10 Nov 2025 11:20:41 GMT | AI-Powered Fraud Detection: The Smarter Way to Secure Every Payment. | Digicore | [Read More](https://medium.com/p/4cf7392ee738) |
+| Mon, 10 Nov 2025 11:20:26 GMT | What Cybersecurity Really Means (and How to Protect Yourself) | Mercy Ajayi | [Read More](https://medium.com/p/70fe5ec095a1) |
+| Mon, 10 Nov 2025 11:19:32 GMT | Beyond the Basics: Supercharging Your Website Security with WAF Configuration | Andrew Keitany | [Read More](https://medium.com/p/7d83b07ca09a) |
+| Mon, 10 Nov 2025 11:19:23 GMT | BOuBug Bounty Hunting — Complete Guide (Part-135) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/3f615fedc2eb) |
+| Mon, 10 Nov 2025 11:19:13 GMT | Standards — Target Security Group | Target securitygroup | [Read More](https://medium.com/p/8c1c5e8699d8) |
 | Mon, 10 Nov 2025 11:16:44 GMT | The Burn Notice, Part 3/5 - One Simple Mistake, Thousands at Risk | Dor Attias | [Read More](https://medium.com/p/996f85fcb92f) |
 | Mon, 10 Nov 2025 11:07:07 GMT | Cybersecurity Essentials: How Hashing and Salting Protect Your Systems | Ramandeep Bagri | [Read More](https://medium.com/p/93c108a8dc43) |
 | Mon, 10 Nov 2025 11:05:53 GMT | Tactical defence logic | ProjektID | [Read More](https://medium.com/p/1f79b2ac6ad1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 05:46:36 GMT | [Security Alert] Why SECURET TV Must Protect Your Living Room Calls in the Deepfake Era | SAYCOIN | [Read More](https://medium.com/p/b03dba215078) |
 | Mon, 10 Nov 2025 05:45:59 GMT | Global eCommerce Fraud Prevention Market: Trends, Insights, and Future Outlook | Gargiben | [Read More](https://medium.com/p/ec65645d0e09) |
 | Mon, 10 Nov 2025 05:41:51 GMT | The Daily Tech Digest: 10 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7df21982857f) |
-| Mon, 10 Nov 2025 05:25:54 GMT | The Digital Shield: Why Cybersecurity is the Core of Modern Business Resilience | Devarshi Acharya | [Read More](https://medium.com/p/267dd4ba184c) |
-| Mon, 10 Nov 2025 05:25:44 GMT | Kubesec: Strengthening k8s Security Through YAML Configuration Scanning | Rahul Singh Chauhan | [Read More](https://medium.com/p/f9a298e77c0e) |
-| Mon, 10 Nov 2025 05:24:57 GMT | Kioptrix Level 2 (original) — walkthrough | Vaibhav | [Read More](https://medium.com/p/4a6a885aa281) |
-| Mon, 10 Nov 2025 05:23:48 GMT | Disaster Recovery: The Backbone of Modern Business Continuity | Pavan Pathak | [Read More](https://medium.com/p/d8a40ecbc3cb) |
-| Mon, 10 Nov 2025 05:15:50 GMT | The 2011 Japan Earthquake: Impact on IT Infrastructure and Data Security | Asghar Hussain | [Read More](https://medium.com/p/be4eda057cd0) |
-| Mon, 10 Nov 2025 05:14:47 GMT | https://www.linkedin.com/posts/david-kariuki-a6464127b_cybersecurity-for-executives-activity-7393515 | DAVID KARIUKI "1stb0n" | [Read More](https://medium.com/p/26e62b4f07c5) |
-| Mon, 10 Nov 2025 05:04:52 GMT | IoT Penetration Testing: A Simple Guide with Tool Lists | Sheikh Ayan | [Read More](https://medium.com/p/3e52df262447) |
-| Mon, 10 Nov 2025 04:57:39 GMT | Smart Tip | T. Cook | [Read More](https://medium.com/p/cc377a2a6023) |
-| Mon, 10 Nov 2025 04:57:07 GMT | SOC L1 Alert Triage Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/a970bdb95d06) |
-| Mon, 10 Nov 2025 04:50:28 GMT | Top 10 Web Hosting Control Panels for 2026 | HostNOC | [Read More](https://medium.com/p/eeb11dac6ee1) |
-| Mon, 10 Nov 2025 04:38:44 GMT | How I found Vulnerability on Google Forms (Duplicate Internal — Fixed) | 171.320 | [Read More](https://medium.com/p/d02aa2e6357c) |
-| Mon, 10 Nov 2025 04:31:04 GMT | OCI Security Zones na Prática: Automatizando a Conformidade Zero Trust (Shift-Left Security) | Julio Jeronymo | [Read More](https://medium.com/p/f42f9a22bf7f) |
