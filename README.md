@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 11:16:44 GMT | The Burn Notice, Part 3/5 - One Simple Mistake, Thousands at Risk | Dor Attias | [Read More](https://medium.com/p/996f85fcb92f) |
+| Mon, 10 Nov 2025 11:07:07 GMT | Cybersecurity Essentials: How Hashing and Salting Protect Your Systems | Ramandeep Bagri | [Read More](https://medium.com/p/93c108a8dc43) |
+| Mon, 10 Nov 2025 11:05:53 GMT | Tactical defence logic | ProjektID | [Read More](https://medium.com/p/1f79b2ac6ad1) |
+| Mon, 10 Nov 2025 11:01:27 GMT | 2FA Bypass Methods for Bug Bounty Hunters and Developers | Diman | [Read More](https://medium.com/p/8f2e83118bdd) |
+| Mon, 10 Nov 2025 11:00:32 GMT | IOT + Cybersecurity | Century Solutions Group | [Read More](https://medium.com/p/3258aaf3410c) |
+| Mon, 10 Nov 2025 10:55:05 GMT | Spotting a Fake Website in Seconds: A Guide for 2025 | Shivakshi Rawat | [Read More](https://medium.com/p/eb5f1bcea9d4) |
+| Mon, 10 Nov 2025 10:53:44 GMT | Top 10 Security Companies in Mumbai You Can Trust in 2025 | Tanisha Singh | [Read More](https://medium.com/p/64ec29a782bf) |
+| Mon, 10 Nov 2025 10:41:25 GMT | NCOG D-Calendar: Rethinking Privacy in Your Schedule | Bobby Andrews | [Read More](https://medium.com/p/6b5e325f6090) |
+| Mon, 10 Nov 2025 10:38:47 GMT | Write-up: Source code disclosure via backup files @PortSwigger Academy | Hydra | [Read More](https://medium.com/p/aae0412d8d8e) |
 | Mon, 10 Nov 2025 10:30:44 GMT | Computer Hacking Forensic Investigator (CHFI) Certification - EC-Council | Shreyashettyctr | [Read More](https://medium.com/p/1a6b52fc7fa5) |
 | Mon, 10 Nov 2025 10:19:53 GMT | From Zero to Cybersecurity: My Journey from Confusion to Clarity | Suyash Gargote | [Read More](https://medium.com/p/42a6974b9cd1) |
 | Mon, 10 Nov 2025 10:13:36 GMT | Deep Diving into Enumeration in My CEH v13 Journey! | Bhingaresahil | [Read More](https://medium.com/p/8e3635baefe8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 04:50:28 GMT | Top 10 Web Hosting Control Panels for 2026 | HostNOC | [Read More](https://medium.com/p/eeb11dac6ee1) |
 | Mon, 10 Nov 2025 04:38:44 GMT | How I found Vulnerability on Google Forms (Duplicate Internal — Fixed) | 171.320 | [Read More](https://medium.com/p/d02aa2e6357c) |
 | Mon, 10 Nov 2025 04:31:04 GMT | OCI Security Zones na Prática: Automatizando a Conformidade Zero Trust (Shift-Left Security) | Julio Jeronymo | [Read More](https://medium.com/p/f42f9a22bf7f) |
-| Mon, 10 Nov 2025 04:30:09 GMT | Understanding Rootkits: The Invisible Threat Inside Your System | Raviteja Mureboina | [Read More](https://medium.com/p/a622072ac571) |
-| Mon, 10 Nov 2025 04:29:27 GMT | RST TI Report Digest: 10 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/ae4d32c2d956) |
-| Mon, 10 Nov 2025 04:14:17 GMT | How Professional Thieves Choose Motorcycle Targets and the GPS Tech That Stops Them | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/fa8b476355cf) |
-| Mon, 10 Nov 2025 04:09:32 GMT | A full report of the topics I have covered so far on the metasploitable machine | Balakrishnanks | [Read More](https://medium.com/p/c4654de04656) |
-| Mon, 10 Nov 2025 03:59:00 GMT | Week 1: The Moment Everything Changed | ZAYN | [Read More](https://medium.com/p/41ee0c042795) |
-| Mon, 10 Nov 2025 03:55:02 GMT | BugBounty Fraud by cm.com | Krivadna | [Read More](https://medium.com/p/f9a942f37c9d) |
-| Mon, 10 Nov 2025 03:51:58 GMT | Fortify Your VPS: Essential Linux SSH Security Steps | Danilsyah Rizal | [Read More](https://medium.com/p/b6ae3a8a954b) |
-| Mon, 10 Nov 2025 03:47:03 GMT | The Backdoor to Admin: Unmasking Broken Function Level Authorization Vulnerabilities | Jei Ess | [Read More](https://medium.com/p/3fa93356bd72) |
-| Mon, 10 Nov 2025 03:40:23 GMT | System support for microkernel operating systems | wy-chung | [Read More](https://medium.com/p/204f5a2610c0) |
