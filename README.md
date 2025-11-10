@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 14:37:08 GMT | PROJETO mini-lab: Monitoramento e controle com #WAZUH >Atulizações< | EduKayky | [Read More](https://medium.com/p/0b18d2f9f795) |
+| Mon, 10 Nov 2025 14:36:15 GMT | Your Factory Floor is a $50M Liability (And Your Insurance Company Knows It) | Tec-Tel Communications | [Read More](https://medium.com/p/e99f3d0c6551) |
+| Mon, 10 Nov 2025 14:33:42 GMT | Why Your Hospital’s Doors Are Killing Your Security Budget | Tec-Tel Communications | [Read More](https://medium.com/p/892a33392268) |
+| Mon, 10 Nov 2025 14:30:11 GMT | Aura Activity Feed: Enhanced Security and Compliance for Neo4j Aura | Ian McCloy | [Read More](https://medium.com/p/2e9424eb5f8e) |
+| Mon, 10 Nov 2025 14:21:04 GMT | BIGFOOT IS REAL! And So Is The Need For HTTP Response Security Headers | Jen Cracchiola | [Read More](https://medium.com/p/e65333985e6f) |
 | Mon, 10 Nov 2025 14:19:23 GMT | The Cache Poisoning Bible: Part 1 — Advanced Fundamentals | Abhishek meena | [Read More](https://medium.com/p/2c8e9d7be2e9) |
+| Mon, 10 Nov 2025 14:12:19 GMT | Kubernetes Forensics Nightmare: When Self-Healing Erases the Evidence | Mohammad Fathul Ikhsan | [Read More](https://medium.com/p/35fe74b6cab2) |
+| Mon, 10 Nov 2025 14:11:12 GMT | What Does Netflix Know About You? | Awais Khan | [Read More](https://medium.com/p/4fb2b1e7d892) |
 | Mon, 10 Nov 2025 14:08:10 GMT | The Secret to Terminal Mastery Is Hiding in Plain Sight | Murat Kurkoglu | [Read More](https://medium.com/p/a131f9c0ca8b) |
 | Mon, 10 Nov 2025 14:05:18 GMT | Why I Always Block Outdated TLS Versions on Servers (And How It Prevents Hidden Attacks) | Faruk Ahmed | [Read More](https://medium.com/p/8b1b25a70f1e) |
 | Mon, 10 Nov 2025 14:03:51 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/528a426d2327) |
@@ -106,10 +113,3 @@ MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [R
 | Mon, 10 Nov 2025 10:13:36 GMT | Deep Diving into Enumeration in My CEH v13 Journey! | Bhingaresahil | [Read More](https://medium.com/p/8e3635baefe8) |
 | Mon, 10 Nov 2025 10:13:21 GMT | Every technology starts as noise, then quietly becomes normal. | Opeyemi Bamiduro | [Read More](https://medium.com/p/2cd2114f64fd) |
 | Mon, 10 Nov 2025 10:11:41 GMT | Mastering Snort: Stopping Real-Time Attacks from the TryHackMe “Live Attacks” Challenge | Citadel Cybersec | [Read More](https://medium.com/p/5d7ba308b8f0) |
-| Mon, 10 Nov 2025 10:05:24 GMT | El-Kindî’nin Gizli Dalgaları: Kriptolojiden Bilginin Modülasyonuna | Mustafa bekir kaya | [Read More](https://medium.com/p/6d8fea3414a9) |
-| Mon, 10 Nov 2025 10:03:51 GMT | Linux Privacy & Security Tricks with Tails | Frost | [Read More](https://medium.com/p/71747c1d5ac1) |
-| Mon, 10 Nov 2025 10:03:19 GMT | May hack analysis and overview | Sisi | [Read More](https://medium.com/p/6b742b0bca8f) |
-| Mon, 10 Nov 2025 10:02:11 GMT | Why the Computer Hacking Forensic Investigator (CHFI) Certification Is a Game-Changer in Digital… | Shreyashettyctr | [Read More](https://medium.com/p/013c56763658) |
-| Mon, 10 Nov 2025 10:01:48 GMT | From 403 Forbidden to Time-Based Blind SQLi: A WAF Bypass Case Study | Jenson | [Read More](https://medium.com/p/27bdfe99b210) |
-| Mon, 10 Nov 2025 10:00:35 GMT | Security & Privacy for Small Business Owners: A 2025 Guide | Sarah Moradi | [Read More](https://medium.com/p/ffc5b80d1c42) |
-| Mon, 10 Nov 2025 09:55:27 GMT | techNbuddy: Where Work Meets the Right Vibe. | techNbuddy | [Read More](https://medium.com/p/fd0fb55196e6) |
