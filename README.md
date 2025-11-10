@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 22:37:16 GMT | Scanned Before Consent | Mark Calee-Empathy...Power! | [Read More](https://medium.com/p/8d845345ce52) |
+| Mon, 10 Nov 2025 22:31:02 GMT | Day 10: Network Security Essentials — Firewalls, IDS/IPS, Access Control & Common Attacks | HackTrace | [Read More](https://medium.com/p/ab26cd2eb766) |
+| Mon, 10 Nov 2025 22:27:41 GMT | The $25 Million Ghost in the Machine: How AI Deepfakes Just Hacked Human Trust | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/51bea32c50dd) |
+| Mon, 10 Nov 2025 22:19:13 GMT | The Hunt for a WAF Bypass: A Bug Bounty Story | Jackson Mittag | [Read More](https://medium.com/p/0aebb17685da) |
 | Mon, 10 Nov 2025 22:11:30 GMT | Darkweb Vendor Imposter Scams Surge in 2025 | Tor BBB | [Read More](https://medium.com/p/67b7b2854628) |
 | Mon, 10 Nov 2025 22:06:29 GMT | A Virus Disguised as an Antivirus: How Criminals Fake ESET Installers — and Why It’s Dangerous | 0trust0day | [Read More](https://medium.com/p/32c75e2adfa6) |
 | Mon, 10 Nov 2025 21:49:31 GMT | What Actually Can Make You Money from Writing in 2025? | Aliyu Ibrahim | [Read More](https://medium.com/p/d19d1ac0bf1c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 14:52:24 GMT | How I Found NASA’s Hidden VPN Origin IP Without a Firewall — And They Patched It in Silence | Krivadna | [Read More](https://medium.com/p/3d517e0b6426) |
 | Mon, 10 Nov 2025 14:50:56 GMT | A Single Line of Python Code That Will Get You Hacked | Maikel Mardjan | [Read More](https://medium.com/p/69a4d3a6a9b1) |
 | Mon, 10 Nov 2025 14:46:16 GMT | “The One-Click Account Takeover That Chained XSS and CSRF” | Aman Sharma | [Read More](https://medium.com/p/cd4ebe22fb7f) |
-| Mon, 10 Nov 2025 14:42:05 GMT | Understanding Cookies, CSRF-Tokens & XSS Attacks | Atticus Ezis | [Read More](https://medium.com/p/b3cfa44bb483) |
-| Mon, 10 Nov 2025 14:41:00 GMT | Reconstruction-led connectivity through Syria and stability can be the starter of a new Middle-East | MASUM BILLAH | [Read More](https://medium.com/p/1d5e3245f254) |
-| Mon, 10 Nov 2025 14:37:08 GMT | PROJETO mini-lab: Monitoramento e controle com #WAZUH >Atulizações< | EduKayky | [Read More](https://medium.com/p/0b18d2f9f795) |
-| Mon, 10 Nov 2025 14:36:15 GMT | Your Factory Floor is a $50M Liability (And Your Insurance Company Knows It) | Tec-Tel Communications | [Read More](https://medium.com/p/e99f3d0c6551) |
