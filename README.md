@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 07:14:51 GMT | How Sophisticated Attackers Bypass KYC Using AI Deepfake Technology | Webtoolspage | [Read More](https://medium.com/p/6daf7325021a) |
+| Mon, 10 Nov 2025 07:06:55 GMT | Immediate steps to secure a breached MongoDB server | Shital Pimpale | [Read More](https://medium.com/p/9d20d5859c90) |
+| Mon, 10 Nov 2025 07:06:09 GMT | Top 10 Online IoT Penetration Testing with AI Training Institutes in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/431599329c7d) |
+| Mon, 10 Nov 2025 06:59:31 GMT | Why you should disable the new “Start a chat with anyone” feature in Microsoft Teams | Erik Lindeboom | [Read More](https://medium.com/p/b66e554c6095) |
+| Mon, 10 Nov 2025 06:58:29 GMT | Graphene OS: Your Privacy Focused Mobile OS | Investigator515 | [Read More](https://medium.com/p/2ad0d0d3153e) |
+| Mon, 10 Nov 2025 06:55:02 GMT | Ensuring Safety and Trust: The Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/a04bc70091e1) |
+| Mon, 10 Nov 2025 06:53:14 GMT | Mastering EDR Evasion: Learn Bypassing EDR with Simple Bash Tricks That Actually Work | Very Lazy Tech | [Read More](https://medium.com/p/68f761ba2d20) |
+| Mon, 10 Nov 2025 06:39:53 GMT | Room 107-SSH Server Practice | blackXmask | [Read More](https://medium.com/p/3a811eae39da) |
+| Mon, 10 Nov 2025 06:32:15 GMT | The Silence Theorem: Why Empty Tokens Carry Maximum Information | DrSwarnenduAI | [Read More](https://medium.com/p/5cb848c97388) |
+| Mon, 10 Nov 2025 06:31:42 GMT | Inside the Enterprise: The Hidden Strength of On-Premise Security Systems - Ai Protect by labSense | Yutika | [Read More](https://medium.com/p/b8d71c098372) |
+| Mon, 10 Nov 2025 06:26:31 GMT | The Hidden Role of Telecoms in Strengthening Cybersecurity Defenses | Hays Communication | [Read More](https://medium.com/p/a1162a548fc7) |
+| Mon, 10 Nov 2025 06:25:49 GMT | Why Is AI Essential for Security and Surveillance in 2025? | madhu sudhan b | [Read More](https://medium.com/p/e2f73aabd429) |
+| Mon, 10 Nov 2025 06:25:17 GMT | ⚠️ ChatGPT’s Hidden Security Flaws: What the Latest Data Theft Scare Means for You | LazyHacker | [Read More](https://medium.com/p/c933affd3d24) |
 | Mon, 10 Nov 2025 06:24:09 GMT | How Samsung Galaxy A12 Long-Lasting Battery Improves Daily Use? | Chloe White | [Read More](https://medium.com/p/b591f22230a0) |
+| Mon, 10 Nov 2025 06:21:32 GMT | Flyer Under the Door: When “Just a Pamphlet” Becomes a Security Breach | Madgod | [Read More](https://medium.com/p/6a7ac97aff2b) |
 | Mon, 10 Nov 2025 06:21:00 GMT | BUG Rewards & Earnings Guide — November 2025 | Pastel | [Read More](https://medium.com/p/b324aab48d03) |
 | Mon, 10 Nov 2025 06:19:18 GMT | Certified Information Systems Security Professional Everything You Need to Know Before Enrolling | Edglobalacademy | [Read More](https://medium.com/p/7c14c5c3f87f) |
 | Mon, 10 Nov 2025 06:12:19 GMT | Professional Python Certification Course in Delhi by Industry Experts | cyber security Updates | [Read More](https://medium.com/p/75fe0a37617a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 21:40:11 GMT | Privilege Escalation From Guest To Admin | Mado | [Read More](https://medium.com/p/c3d2eb357dd1) |
 | Sun, 09 Nov 2025 21:39:55 GMT | Spicy Challenge — CyShield CTF | Omar Ahmed Abdelslaam | [Read More](https://medium.com/p/a808ee045589) |
 | Sun, 09 Nov 2025 21:35:38 GMT | Monese, Android & Security — Inconveniencing Fraudsters or Customers? | NSA | [Read More](https://medium.com/p/010810cd10c5) |
-| Sun, 09 Nov 2025 21:34:17 GMT | CyCTF 2025 Inception - Web | Abdelrahman Taymour | [Read More](https://medium.com/p/6530f9480fb6) |
-| Sun, 09 Nov 2025 21:32:44 GMT | Linux Security Incident Response Framework | Cube1214 | [Read More](https://medium.com/p/27c9ff14f045) |
-| Sun, 09 Nov 2025 21:17:30 GMT | Side-Channel Attacks on Mobile and IoT what they are, why they matter, and how to defend against… | Bervice | [Read More](https://medium.com/p/0a05ccea2ee9) |
-| Sun, 09 Nov 2025 21:10:49 GMT | Cisco ASA & Firewall Threat Defense (FTD) 0-Day Remote Code Execution Vulnerabilities | Jason Hoskins Jr. | [Read More](https://medium.com/p/1c1279c98b1a) |
-| Sun, 09 Nov 2025 21:09:10 GMT | A2goethe,A2telc,A2ösd | kaufen goethe telc | [Read More](https://medium.com/p/e18f8f89d97e) |
-| Sun, 09 Nov 2025 21:04:26 GMT | The Vibe Coder’s Blind Spot is Your Next Bug Bounty | Sajjad Siam | [Read More](https://medium.com/p/26387500acbb) |
-| Sun, 09 Nov 2025 21:03:43 GMT | Wholesale Security Cameras: Cost-Effective Solutions for Complete Surveillance | Osamamustafa | [Read More](https://medium.com/p/883ceb8453f0) |
-| Sun, 09 Nov 2025 20:59:16 GMT | My eMAPT Exam Experience — More About Building Than Breaking | Tolga DEMIREL | [Read More](https://medium.com/p/aca0c6c7ad7e) |
-| Sun, 09 Nov 2025 20:53:10 GMT | Thinking in Three Dimensions: How Security Analysts Can Balance Binary, Quantitative, and… | Enleak | [Read More](https://medium.com/p/d1de97bf8efb) |
-| Sun, 09 Nov 2025 20:48:28 GMT | Why Passphrases Beat Passwords (And Why Yours Probably Needs an Upgrade) | Hulo Biral - Cyber Security | [Read More](https://medium.com/p/900239fd63cf) |
-| Sun, 09 Nov 2025 20:21:52 GMT | How artificial intelligence is reshaping both attack and defense in cyberspace. | Spesh Billions | [Read More](https://medium.com/p/acf58453445e) |
-| Sun, 09 Nov 2025 20:18:49 GMT | CyCTF 2025 Qualifications - Vault Raider - Mobile Challenge | Zeyad Karim | [Read More](https://medium.com/p/a8a9ae2018d9) |
-| Sun, 09 Nov 2025 20:17:37 GMT | If You Want People to Care About Risk, Tell Better Stories | Fook Hwa Tan | [Read More](https://medium.com/p/f80aca0ad13f) |
-| Sun, 09 Nov 2025 20:16:35 GMT | Is Your Organization Reactive or Resilient? A Maturity Primer | Fook Hwa Tan | [Read More](https://medium.com/p/bbd2d0378cd7) |
