@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 16:22:44 GMT | The Cybersecruity meme | Cyber Fortress | [Read More](https://medium.com/p/7e8da44b2e53) |
+| Mon, 10 Nov 2025 16:12:02 GMT | Welcome to The Unfiltered Archive: Writing My Own Something | The Unfiltered Archive | [Read More](https://medium.com/p/52d8b95a6abd) |
+| Mon, 10 Nov 2025 16:08:25 GMT | Become a Certified Google Cloud Security Operations Engineer: Master Cloud Security with Confidence | Md Mahrab Khan | [Read More](https://medium.com/p/b9977ab3b28f) |
+| Mon, 10 Nov 2025 16:06:58 GMT | What is IP Sniffing? | Gaurav Roy CTO, Masters - BS-Cyber-Sec - MIT - LPU | [Read More](https://medium.com/p/5737d6be19b3) |
+| Mon, 10 Nov 2025 16:04:48 GMT | PySpector: how my own SAST Framework, led me to an RCE in a Major AI Library | Tommaso Bona | [Read More](https://medium.com/p/c29cdce15f9c) |
+| Mon, 10 Nov 2025 15:59:58 GMT | Salesforce SLAs in Managed Services: Why They Matter More Than Ever | Digital Transformation Playbook | [Read More](https://medium.com/p/6569f5b07da1) |
+| Mon, 10 Nov 2025 15:58:37 GMT | Is Your Startup’s ‘Secure’ Data Actually Putting You Out of Business? | Hania Khan | [Read More](https://medium.com/p/d87f2a56de7a) |
+| Mon, 10 Nov 2025 15:54:46 GMT | 5 Things That Will Shape the Future of Programming in2026 | Rizqi Mulki | [Read More](https://medium.com/p/61f147db6be2) |
+| Mon, 10 Nov 2025 15:51:34 GMT | The Vulnerabilities of AI in Healthcare | Travis Ray Caverhill | [Read More](https://medium.com/p/eed5423a9edf) |
+| Mon, 10 Nov 2025 15:51:13 GMT | Reverse Engineering IoT Radios: How I Used GNU Radio and Wireshark to Decode Proprietary Signals | Michael Preston | [Read More](https://medium.com/p/b86276fb5743) |
+| Mon, 10 Nov 2025 15:49:38 GMT | LANDFALL: The Spyware That Could Hack Your Samsung Just by Sending a Photo | Rajesh Devadasan | [Read More](https://medium.com/p/47eb565814c9) |
+| Mon, 10 Nov 2025 15:47:02 GMT | The Silent War Online: Why Data Privacy Could Be the Defining Human Right of Our Century | Hritam Dutta | [Read More](https://medium.com/p/bc3121f2b4b1) |
+| Mon, 10 Nov 2025 15:46:11 GMT | Self-XSS to PII leak via Same Origin Method Execution to admin ATO via DQLi— SMS V2 CyCTF 2025… | Kalawy | [Read More](https://medium.com/p/ee79ee89055e) |
+| Mon, 10 Nov 2025 15:46:02 GMT | What’s the difference between good AI and bad AI? | Ivan Shkvarun | [Read More](https://medium.com/p/38017aaa3ac2) |
+| Mon, 10 Nov 2025 15:44:32 GMT | The Cost of Rollbacks and the Value of Security Redundancy: Historical Lessons for On-Chain… | Timelock | [Read More](https://medium.com/p/a20efc4127f7) |
 | Mon, 10 Nov 2025 15:39:32 GMT | 12 Common Cyber Attacks — Simple Explanations, Real Examples, and How to Protect Yourself | Explainer | [Read More](https://medium.com/p/7de969f770f1) |
 | Mon, 10 Nov 2025 15:35:32 GMT | From Passwords to Firewalls: A Practical Step-by-Step Plan to Secure Your Laptop | Paradise technologies Inc | [Read More](https://medium.com/p/b5df9b7b0c27) |
+| Mon, 10 Nov 2025 15:29:00 GMT | Have You Thanked Your Local Cybercriminal Today? | Jonathan Brown | [Read More](https://medium.com/p/c3c670c68847) |
 | Mon, 10 Nov 2025 15:24:22 GMT | Tools, Trouble, and Trickery: Part 4 | OSINT Amy | [Read More](https://medium.com/p/e8d299e44cde) |
 | Mon, 10 Nov 2025 15:23:07 GMT | How Pax Ensures Scalability and Security for Global Users | Pax | [Read More](https://medium.com/p/cbee7f1f474c) |
 | Mon, 10 Nov 2025 15:21:29 GMT | Blood-Cat: A tool for collecting publicly exposed network cameras, with support for specifying… | Мартин. | [Read More](https://medium.com/p/50886cbf2e31) |
@@ -97,19 +113,3 @@ MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [R
 | Mon, 10 Nov 2025 12:02:05 GMT | TLS 1.3, ECH & PQC: What Devs Need Now | Praxen | [Read More](https://medium.com/p/0efde96ecf2b) |
 | Mon, 10 Nov 2025 12:02:02 GMT | CTF Basics: Understanding the Caesar Cipher and ROT13 | Walter Moar | [Read More](https://medium.com/p/9261fa7c3686) |
 | Mon, 10 Nov 2025 12:01:41 GMT | LEAVEMEALONE: Surviving the Web Today | BlueHotel | [Read More](https://medium.com/p/c64b25273343) |
-| Mon, 10 Nov 2025 12:01:36 GMT | The CTI Analyst Roadmap: A Zero-to-Hero Guide with CTI Learning | Adam Goss | [Read More](https://medium.com/p/40cbf17ead33) |
-| Mon, 10 Nov 2025 12:01:23 GMT | Beyond Traditional AI: Unlocking the Power of Agentic AI and Conditional Agents | Mahad Akbar | [Read More](https://medium.com/p/446d5d3fe7a8) |
-| Mon, 10 Nov 2025 12:01:20 GMT | Security & Privacy Tips for Remote Workers: How to Safeguard Your Home Workspace | Sujoy | [Read More](https://medium.com/p/a07ae137649f) |
-| Mon, 10 Nov 2025 12:01:07 GMT | Introducing our Imagining the Otherwise Writers’ Cohort. | Fenya Fischler | [Read More](https://medium.com/p/d0a3acb1c65c) |
-| Mon, 10 Nov 2025 12:00:45 GMT | THE $DRO TOKEN: Real Utility for a Real Network | Westernbay | [Read More](https://medium.com/p/3cb8c3e81231) |
-| Mon, 10 Nov 2025 12:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Nov 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4fa2fa9b703c) |
-| Mon, 10 Nov 2025 11:56:35 GMT | High-Quality Dahua CCTV Installation Project Completed by OptimationBD for Banani Business Premises | optimationbd | [Read More](https://medium.com/p/5ce26addeafe) |
-| Mon, 10 Nov 2025 11:56:20 GMT | TryHackMe - CRM Snatch - WriteUp | Axoloth | [Read More](https://medium.com/p/eedbb83f1312) |
-| Mon, 10 Nov 2025 11:55:53 GMT | Case Study: How a Tech Service Provider Simplified ISO 27001 and GDPR Compliance with SecureSlate | SecureSlate | [Read More](https://medium.com/p/16bad3f3ad5b) |
-| Mon, 10 Nov 2025 11:54:26 GMT | Final Week Before Launch: Why Your Timing Matters | QuantZen™ | [Read More](https://medium.com/p/d7c4b6764a9b) |
-| Mon, 10 Nov 2025 11:54:23 GMT | How Real-Time Market Data Empowers Modern Traders | LogiClump Technologies | [Read More](https://medium.com/p/a9f73b8daccc) |
-| Mon, 10 Nov 2025 11:52:00 GMT | The True Cost of Suppressing Emotions: Lessons from The Traitors Finalist Andrew Jenkins | The Beyond the Boardroom Podcast | [Read More](https://medium.com/p/ecaaae429b6b) |
-| Mon, 10 Nov 2025 11:51:49 GMT | Jobs — Target Security Group | Target securitygroup | [Read More](https://medium.com/p/293a3439d4f7) |
-| Mon, 10 Nov 2025 11:42:56 GMT | Why Your Waiting Room Needs a Kiosk Machine? | Rakesh | [Read More](https://medium.com/p/ecc5da7f31c9) |
-| Mon, 10 Nov 2025 11:40:40 GMT | News & Insights — Target Security Group | Target securitygroup | [Read More](https://medium.com/p/a5fc1212675a) |
-| Mon, 10 Nov 2025 11:35:15 GMT | The new TryHackMe SOC Level 1 Path | Citadel Cybersec | [Read More](https://medium.com/p/7c82e90cb397) |
