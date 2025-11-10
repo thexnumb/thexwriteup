@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 19:11:28 GMT | We Want Smart AI, But At What Cost? | Midhun | [Read More](https://medium.com/p/7f51b763fa67) |
+| Mon, 10 Nov 2025 19:08:21 GMT | When Power Targets the Vulnerable | Carl J. Petersen | [Read More](https://medium.com/p/a675ae81547b) |
+| Mon, 10 Nov 2025 19:03:56 GMT | TryHackMe - Introduction to SOAR - WriteUp | Axoloth | [Read More](https://medium.com/p/cb390069dc0b) |
+| Mon, 10 Nov 2025 19:02:10 GMT | Who Pays for Election Security? Congress’s Quiet Power Lever (November 10th, 2025) | Congressional Communities | [Read More](https://medium.com/p/c8b254fd06be) |
+| Mon, 10 Nov 2025 19:01:41 GMT | The $3M XRP Hack That Every Crypto Holder Should Learn From | Haris Nadeem | [Read More](https://medium.com/p/9f5228c9d2f3) |
+| Mon, 10 Nov 2025 19:01:41 GMT | [+] TEK-UP FRIENDLY CTF REV WRITEUPS | Ad3M | [Read More](https://medium.com/p/856e4f22f4d3) |
+| Mon, 10 Nov 2025 18:54:23 GMT | Vulnerability Management — A practical and systematic approach | SOCFortress | [Read More](https://medium.com/p/31f0e6a2f673) |
+| Mon, 10 Nov 2025 18:51:33 GMT | PhantomCollect: Technical Deep Dive into a Modern OSINT Web Tool | xsser01 | [Read More](https://medium.com/p/0eeeb921bb28) |
+| Mon, 10 Nov 2025 18:49:13 GMT | Information Technology In India | Rāhula | [Read More](https://medium.com/p/074c43e588d2) |
+| Mon, 10 Nov 2025 18:46:46 GMT | Py Env Studio: Manage Python Environments Without the Command Line | Wasim Shaikh | [Read More](https://medium.com/p/61a793a5f466) |
+| Mon, 10 Nov 2025 18:35:33 GMT | SSH Isn’t Just a Service — It’s a Backdoor | bishopx_09 | [Read More](https://medium.com/p/88d579f4b798) |
 | Mon, 10 Nov 2025 18:25:19 GMT | How I Built Databases to (try to) Predict Geopolitical Events | globalgeoinsights | [Read More](https://medium.com/p/7466e9009976) |
 | Mon, 10 Nov 2025 18:21:59 GMT | Security Log The Right Way | Franco martin | [Read More](https://medium.com/p/a4d69c5eccf0) |
 | Mon, 10 Nov 2025 18:20:50 GMT | The 20 Best Security Tips for Data Protection in 2025 | John Muconto | [Read More](https://medium.com/p/e04c6b7853c9) |
@@ -102,14 +113,3 @@ MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [R
 | Mon, 10 Nov 2025 13:55:44 GMT | When I’m Afraid to Hit “Publish” | Darlene López | [Read More](https://medium.com/p/57cc67d06c9e) |
 | Mon, 10 Nov 2025 13:48:08 GMT | Nor-Tech Achieves Intel Prestige Partner Status-Delivering High-Impact Value and Innovation to… | Emma Lyons | [Read More](https://medium.com/p/ea4b721f4b18) |
 | Mon, 10 Nov 2025 13:41:26 GMT | ️ How to Become a SOC Analyst in 2026: The Complete Beginner’s Roadmap | The Daily Cyber News | [Read More](https://medium.com/p/6db314062f34) |
-| Mon, 10 Nov 2025 13:35:36 GMT | Day 9: Sakura — TryHackMe | Siyam | [Read More](https://medium.com/p/54e8503223e9) |
-| Mon, 10 Nov 2025 13:33:03 GMT | How Obsidian Turned My Notes into a Second Brain | Taha Ex | [Read More](https://medium.com/p/c10dc7cf266b) |
-| Mon, 10 Nov 2025 13:31:08 GMT | Proving Grounds Internal Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/6db719991796) |
-| Mon, 10 Nov 2025 13:30:15 GMT | Subscription for DevOps: What Really Makes You Go Faster | Karthick Dk | [Read More](https://medium.com/p/e7722911ebaa) |
-| Mon, 10 Nov 2025 13:26:34 GMT | THE ATLANTA RANSOMWARE ATTACK: ANALYSIS OF NEGOTIATION STRATEGIES AND LEADERSHIP DECISIONS | Enrique Somoza | [Read More](https://medium.com/p/b10d96c9e8d4) |
-| Mon, 10 Nov 2025 13:19:48 GMT | A coragem de ser sem vergonha | Stefani Freitas | [Read More](https://medium.com/p/2684b7f682c4) |
-| Mon, 10 Nov 2025 13:18:56 GMT | Azure Security Best Practices: How to Protect Your Cloud Environment | Zara Johnson | [Read More](https://medium.com/p/a67953b428ef) |
-| Mon, 10 Nov 2025 13:18:03 GMT | BAD RELATIONSHIP SERIES:EPS9 WHEN LOVE IS FEAR | HEALING OUT LOUD! | [Read More](https://medium.com/p/9826067c5532) |
-| Mon, 10 Nov 2025 13:12:18 GMT | Best Tech Companies in NYC: A Deep Dive into Innovation and Growth | Sheena Khan | [Read More](https://medium.com/p/fac88c42a4e4) |
-| Mon, 10 Nov 2025 13:07:50 GMT | Stop Obsessing Over Tools. Start Showing Your Thinking. | Ann R. | [Read More](https://medium.com/p/d1ee21cdfeb8) |
-| Mon, 10 Nov 2025 13:07:48 GMT | CIA Triad (Confidentiality, Integrity, and Availability)️ | Merve Güler | [Read More](https://medium.com/p/a00dc9448dd9) |
