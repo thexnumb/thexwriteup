@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 18:25:19 GMT | How I Built Databases to (try to) Predict Geopolitical Events | globalgeoinsights | [Read More](https://medium.com/p/7466e9009976) |
+| Mon, 10 Nov 2025 18:21:59 GMT | Security Log The Right Way | Franco martin | [Read More](https://medium.com/p/a4d69c5eccf0) |
+| Mon, 10 Nov 2025 18:20:50 GMT | The 20 Best Security Tips for Data Protection in 2025 | John Muconto | [Read More](https://medium.com/p/e04c6b7853c9) |
+| Mon, 10 Nov 2025 18:18:32 GMT | The “Secure Yes” Methodology | Fabien Soulis | [Read More](https://medium.com/p/4be6824b9648) |
+| Mon, 10 Nov 2025 18:14:51 GMT | These Social Media Apps Secretly Track Your Location | Len Noe | [Read More](https://medium.com/p/92b9c4cd5288) |
+| Mon, 10 Nov 2025 18:05:31 GMT | Turning Setbacks into Stepping Stones: The Vulnerable Leader’s Mindset | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/e2ead7a1bcc4) |
+| Mon, 10 Nov 2025 18:04:46 GMT | Taken down? Medium blog platform error? | Berend Watchus | [Read More](https://medium.com/p/d75cbd2e164a) |
+| Mon, 10 Nov 2025 18:04:27 GMT | My SSL Expired for Just One Day | satyaranjan bal | [Read More](https://medium.com/p/dc72ba1606fc) |
+| Mon, 10 Nov 2025 17:58:41 GMT | 10 Black Friday Scams to Watch Out For and How to Stay Safe | Chetan Seripally | [Read More](https://medium.com/p/54ec7acee0e2) |
+| Mon, 10 Nov 2025 17:53:23 GMT | The Collapse of Certainty. | Samra Ilyas | [Read More](https://medium.com/p/fc2f1ebde8ed) |
 | Mon, 10 Nov 2025 17:20:45 GMT | China-Linked Hackers Exploit Windows Shortcut Vulnerability to Target European Diplomats | SCtoCS | [Read More](https://medium.com/p/f7577476a51a) |
 | Mon, 10 Nov 2025 17:20:15 GMT | China-Linked Tick APT Exploits Lanscope Zero-Day to Compromise Corporate Networks | SCtoCS | [Read More](https://medium.com/p/cfd54e0d8a35) |
 | Mon, 10 Nov 2025 17:20:03 GMT | How I Unlocked Enterprise Features with One Parameter — and Earned $947 | Ferdus Alam | [Read More](https://medium.com/p/7a0fef6b2ad0) |
@@ -103,13 +113,3 @@ MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [R
 | Mon, 10 Nov 2025 13:12:18 GMT | Best Tech Companies in NYC: A Deep Dive into Innovation and Growth | Sheena Khan | [Read More](https://medium.com/p/fac88c42a4e4) |
 | Mon, 10 Nov 2025 13:07:50 GMT | Stop Obsessing Over Tools. Start Showing Your Thinking. | Ann R. | [Read More](https://medium.com/p/d1ee21cdfeb8) |
 | Mon, 10 Nov 2025 13:07:48 GMT | CIA Triad (Confidentiality, Integrity, and Availability)️ | Merve Güler | [Read More](https://medium.com/p/a00dc9448dd9) |
-| Mon, 10 Nov 2025 13:06:05 GMT | Who Are You When No One’s Watching? | R.Sh | [Read More](https://medium.com/p/1c7bd6f223b4) |
-| Mon, 10 Nov 2025 13:05:52 GMT | AI and Its Impact on Businesses | Maximilian Maucher | [Read More](https://medium.com/p/c1d3e687b386) |
-| Mon, 10 Nov 2025 13:04:34 GMT | Ethical Hacking Course After 12th | EINITIAL24 | [Read More](https://medium.com/p/d743e18cfb6e) |
-| Mon, 10 Nov 2025 13:04:32 GMT | Hidden Risks in Your Code: Simple Security Lessons for Developers | Ridmi Thilakarathna | [Read More](https://medium.com/p/85c1a830f3ea) |
-| Mon, 10 Nov 2025 13:03:22 GMT | Event Services London: The Complete Guide to Professional, Reliable & Premium Event Support (2025) | waeventservices.co.uk/ | [Read More](https://medium.com/p/1fb884a36783) |
-| Mon, 10 Nov 2025 13:02:09 GMT | This Bytes — NCL Forensics CTF Challenge — Write-up | Moez Ben-Azzouz | [Read More](https://medium.com/p/39d221c4d785) |
-| Mon, 10 Nov 2025 13:02:02 GMT | Stop Pretending: Embrace Your Authentic Self for True Well-being | kitty | [Read More](https://medium.com/p/135cf9eeee1a) |
-| Mon, 10 Nov 2025 13:01:06 GMT | This Week in Resilience - November 10, 2025 | Sherilyn Burris | [Read More](https://medium.com/p/ace21cdf0afb) |
-| Mon, 10 Nov 2025 12:59:52 GMT | Bash Basics: From Lost to Confident in One Week | Murat Kurkoglu | [Read More](https://medium.com/p/97cc00c63577) |
-| Mon, 10 Nov 2025 12:55:54 GMT | Best Online Courses in 2025 — Learn, Grow, and Succeed with SAL Education Services | SAL Education Services | [Read More](https://medium.com/p/08b0da7ef9a6) |
