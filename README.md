@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 21:06:53 GMT | One Cookie to Steal Them All: A Story of IDOR | Parth Narula | [Read More](https://medium.com/p/f99870c3a683) |
+| Mon, 10 Nov 2025 21:02:56 GMT | PortSwigger: Business logic vulnerabilities LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/b5c04816e891) |
+| Mon, 10 Nov 2025 20:57:24 GMT | From Algorithms to Accountability: The Next Evolution of Secure AI | Mohit Garg | [Read More](https://medium.com/p/b942c0cc4d15) |
+| Mon, 10 Nov 2025 20:47:06 GMT | Babe, Are You Awake? We Need to Talk About Last Week | Blossom Ezekwe | [Read More](https://medium.com/p/fd72bcd1af4b) |
+| Mon, 10 Nov 2025 20:42:47 GMT | How to Secure Your Linux Server through Firewall - UFW & iptables Basics | Shahzaib | [Read More](https://medium.com/p/fee16f20febd) |
 | Mon, 10 Nov 2025 20:09:34 GMT | Kali Linux Temel Komutlar: Yetki Yönetimi ve “Sen Kimsin?” (chmod, chown, sudo) | Burak | [Read More](https://medium.com/p/0dda33ffdd4c) |
 | Mon, 10 Nov 2025 19:59:50 GMT | Talking to Silicon: Abusing Protocols for Security Research | Andrew Long | [Read More](https://medium.com/p/ee29f151e453) |
 | Mon, 10 Nov 2025 19:44:49 GMT | Monitoring Security News with an Open-Source Solution | Quentin Latzel | [Read More](https://medium.com/p/34c15578c2e0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 14:12:19 GMT | Kubernetes Forensics Nightmare: When Self-Healing Erases the Evidence | Mohammad Fathul Ikhsan | [Read More](https://medium.com/p/35fe74b6cab2) |
 | Mon, 10 Nov 2025 14:11:12 GMT | What Does Netflix Know About You? | Awais Khan | [Read More](https://medium.com/p/4fb2b1e7d892) |
 | Mon, 10 Nov 2025 14:08:10 GMT | The Secret to Terminal Mastery Is Hiding in Plain Sight | Murat Kurkoglu | [Read More](https://medium.com/p/a131f9c0ca8b) |
-| Mon, 10 Nov 2025 14:05:18 GMT | Why I Always Block Outdated TLS Versions on Servers (And How It Prevents Hidden Attacks) | Faruk Ahmed | [Read More](https://medium.com/p/8b1b25a70f1e) |
-| Mon, 10 Nov 2025 14:03:51 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/528a426d2327) |
-| Mon, 10 Nov 2025 14:02:08 GMT | My Self-Hosted Homelab | Maniraj Chahal | [Read More](https://medium.com/p/503556101ae9) |
-| Mon, 10 Nov 2025 14:02:06 GMT | The Quiet Revolution of Self-Compassion | Evelyn Foreman | [Read More](https://medium.com/p/89a62f239459) |
-| Mon, 10 Nov 2025 13:58:18 GMT | IT and OT Specialists | YesIT Services | [Read More](https://medium.com/p/de9c06e56a94) |
