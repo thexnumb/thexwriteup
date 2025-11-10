@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 12:37:57 GMT | Protokolün Sırları: Anormal C2 İletişiminin Tespitinde Derin Öğrenme (Deep Learning) ile Geleceğin… | Buğra Enhar Elbir | [Read More](https://medium.com/p/93f9094534d1) |
+| Mon, 10 Nov 2025 12:35:05 GMT | What Is The SS7 Exploit? How It Works | Ajay Naik | [Read More](https://medium.com/p/5f7e189b2ab9) |
+| Mon, 10 Nov 2025 12:30:58 GMT | CitrixBleed 2.0: Analysis of the 2025 FEMA and CBP Data Breach | Trust Consulting Services | [Read More](https://medium.com/p/69edb3604802) |
+| Mon, 10 Nov 2025 12:28:26 GMT | How Professional Event Security Ensures a Safe and Successful Event | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/6d84488f0d4a) |
+| Mon, 10 Nov 2025 12:27:07 GMT | My Name is Ryan. My username is Eventide | Ryan Cham Rui Yang | [Read More](https://medium.com/p/f46268beaa54) |
+| Mon, 10 Nov 2025 12:18:18 GMT | Cloud & IoT-Enabled Security Systems: Transforming Home & Business Surveillance for the Connected… | Digital Premium Solutions | [Read More](https://medium.com/p/fd973e4ca64d) |
+| Mon, 10 Nov 2025 12:12:04 GMT | The Secret Life of Authenticity | Tami | [Read More](https://medium.com/p/f5520abfaf29) |
+| Mon, 10 Nov 2025 12:06:02 GMT | Fletcher Reede The Coder: Retrospectives and Kumbaya | Namir Sagheenanajar | [Read More](https://medium.com/p/20bd0b7475ac) |
+| Mon, 10 Nov 2025 12:02:06 GMT | Advancements in IoT: New Applications, Devices and Challenges | Emily Chan | [Read More](https://medium.com/p/56f6bded3b3b) |
+| Mon, 10 Nov 2025 12:02:05 GMT | TLS 1.3, ECH & PQC: What Devs Need Now | Praxen | [Read More](https://medium.com/p/0efde96ecf2b) |
+| Mon, 10 Nov 2025 12:02:02 GMT | CTF Basics: Understanding the Caesar Cipher and ROT13 | Walter Moar | [Read More](https://medium.com/p/9261fa7c3686) |
+| Mon, 10 Nov 2025 12:01:41 GMT | LEAVEMEALONE: Surviving the Web Today | BlueHotel | [Read More](https://medium.com/p/c64b25273343) |
+| Mon, 10 Nov 2025 12:01:36 GMT | The CTI Analyst Roadmap: A Zero-to-Hero Guide with CTI Learning | Adam Goss | [Read More](https://medium.com/p/40cbf17ead33) |
+| Mon, 10 Nov 2025 12:01:23 GMT | Beyond Traditional AI: Unlocking the Power of Agentic AI and Conditional Agents | Mahad Akbar | [Read More](https://medium.com/p/446d5d3fe7a8) |
+| Mon, 10 Nov 2025 12:01:20 GMT | Security & Privacy Tips for Remote Workers: How to Safeguard Your Home Workspace | Sujoy | [Read More](https://medium.com/p/a07ae137649f) |
+| Mon, 10 Nov 2025 12:01:07 GMT | Introducing our Imagining the Otherwise Writers’ Cohort. | Fenya Fischler | [Read More](https://medium.com/p/d0a3acb1c65c) |
+| Mon, 10 Nov 2025 12:00:45 GMT | THE $DRO TOKEN: Real Utility for a Real Network | Westernbay | [Read More](https://medium.com/p/3cb8c3e81231) |
+| Mon, 10 Nov 2025 12:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Nov 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4fa2fa9b703c) |
+| Mon, 10 Nov 2025 11:56:35 GMT | High-Quality Dahua CCTV Installation Project Completed by OptimationBD for Banani Business Premises | optimationbd | [Read More](https://medium.com/p/5ce26addeafe) |
+| Mon, 10 Nov 2025 11:56:20 GMT | TryHackMe - CRM Snatch - WriteUp | Axoloth | [Read More](https://medium.com/p/eedbb83f1312) |
+| Mon, 10 Nov 2025 11:55:53 GMT | Case Study: How a Tech Service Provider Simplified ISO 27001 and GDPR Compliance with SecureSlate | SecureSlate | [Read More](https://medium.com/p/16bad3f3ad5b) |
+| Mon, 10 Nov 2025 11:54:26 GMT | Final Week Before Launch: Why Your Timing Matters | QuantZen™ | [Read More](https://medium.com/p/d7c4b6764a9b) |
+| Mon, 10 Nov 2025 11:54:23 GMT | How Real-Time Market Data Empowers Modern Traders | LogiClump Technologies | [Read More](https://medium.com/p/a9f73b8daccc) |
+| Mon, 10 Nov 2025 11:52:00 GMT | The True Cost of Suppressing Emotions: Lessons from The Traitors Finalist Andrew Jenkins | The Beyond the Boardroom Podcast | [Read More](https://medium.com/p/ecaaae429b6b) |
+| Mon, 10 Nov 2025 11:51:49 GMT | Jobs — Target Security Group | Target securitygroup | [Read More](https://medium.com/p/293a3439d4f7) |
+| Mon, 10 Nov 2025 11:42:56 GMT | Why Your Waiting Room Needs a Kiosk Machine? | Rakesh | [Read More](https://medium.com/p/ecc5da7f31c9) |
+| Mon, 10 Nov 2025 11:40:40 GMT | News & Insights — Target Security Group | Target securitygroup | [Read More](https://medium.com/p/a5fc1212675a) |
 | Mon, 10 Nov 2025 11:35:15 GMT | The new TryHackMe SOC Level 1 Path | Citadel Cybersec | [Read More](https://medium.com/p/7c82e90cb397) |
 | Mon, 10 Nov 2025 11:27:42 GMT | Portswigger Labs — Information Disclosure 1 | Hydra | [Read More](https://medium.com/p/327085b1c274) |
 | Mon, 10 Nov 2025 11:26:43 GMT | 5 API Security Mistakes I Made Testing with Python (and What I Learned) | Sourojit Das | [Read More](https://medium.com/p/51801df9598f) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 07:22:31 GMT | How to Pick the Best CCTV Monitoring Service for Your Small Business | Global CCTV Monitoring Services | [Read More](https://medium.com/p/3227b376c233) |
 | Mon, 10 Nov 2025 07:19:29 GMT | ประจำวันจันทร์ที่ 10 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/10d22f1ad997) |
 | Mon, 10 Nov 2025 07:18:33 GMT | Automate Microsoft Graph Tasks with Azure Container App Jobs! ❤️ | Brian Veldman | [Read More](https://medium.com/p/f0ee4d5ba658) |
-| Mon, 10 Nov 2025 07:17:42 GMT | Challenge: Doge | N4P1 | [Read More](https://medium.com/p/7b249d5927c6) |
-| Mon, 10 Nov 2025 07:14:51 GMT | How Sophisticated Attackers Bypass KYC Using AI Deepfake Technology | Webtoolspage | [Read More](https://medium.com/p/6daf7325021a) |
-| Mon, 10 Nov 2025 07:11:09 GMT | Online Python Training in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/b7264d053256) |
-| Mon, 10 Nov 2025 07:06:55 GMT | Immediate steps to secure a breached MongoDB server | Shital Pimpale | [Read More](https://medium.com/p/9d20d5859c90) |
-| Mon, 10 Nov 2025 07:06:09 GMT | Top 10 Online IoT Penetration Testing with AI Training Institutes in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/431599329c7d) |
-| Mon, 10 Nov 2025 06:59:31 GMT | Why you should disable the new “Start a chat with anyone” feature in Microsoft Teams | Erik Lindeboom | [Read More](https://medium.com/p/b66e554c6095) |
-| Mon, 10 Nov 2025 06:58:29 GMT | Graphene OS: Your Privacy Focused Mobile OS | Investigator515 | [Read More](https://medium.com/p/2ad0d0d3153e) |
-| Mon, 10 Nov 2025 06:55:02 GMT | Ensuring Safety and Trust: The Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/a04bc70091e1) |
-| Mon, 10 Nov 2025 06:53:14 GMT | Mastering EDR Evasion: Learn Bypassing EDR with Simple Bash Tricks That Actually Work | Very Lazy Tech | [Read More](https://medium.com/p/68f761ba2d20) |
-| Mon, 10 Nov 2025 06:39:53 GMT | Room 107-SSH Server Practice | blackXmask | [Read More](https://medium.com/p/3a811eae39da) |
-| Mon, 10 Nov 2025 06:32:15 GMT | The Silence Theorem: Why Empty Tokens Carry Maximum Information | DrSwarnenduAI | [Read More](https://medium.com/p/5cb848c97388) |
-| Mon, 10 Nov 2025 06:31:42 GMT | Inside the Enterprise: The Hidden Strength of On-Premise Security Systems - Ai Protect by labSense | Yutika | [Read More](https://medium.com/p/b8d71c098372) |
-| Mon, 10 Nov 2025 06:26:31 GMT | The Hidden Role of Telecoms in Strengthening Cybersecurity Defenses | Hays Communication | [Read More](https://medium.com/p/a1162a548fc7) |
-| Mon, 10 Nov 2025 06:25:49 GMT | Why Is AI Essential for Security and Surveillance in 2025? | madhu sudhan b | [Read More](https://medium.com/p/e2f73aabd429) |
-| Mon, 10 Nov 2025 06:25:17 GMT | ⚠️ ChatGPT’s Hidden Security Flaws: What the Latest Data Theft Scare Means for You | LazyHacker | [Read More](https://medium.com/p/c933affd3d24) |
-| Mon, 10 Nov 2025 06:24:09 GMT | How Samsung Galaxy A12 Long-Lasting Battery Improves Daily Use? | Chloe White | [Read More](https://medium.com/p/b591f22230a0) |
-| Mon, 10 Nov 2025 06:21:32 GMT | Flyer Under the Door: When “Just a Pamphlet” Becomes a Security Breach | Madgod | [Read More](https://medium.com/p/6a7ac97aff2b) |
-| Mon, 10 Nov 2025 06:21:00 GMT | BUG Rewards & Earnings Guide — November 2025 | Pastel | [Read More](https://medium.com/p/b324aab48d03) |
-| Mon, 10 Nov 2025 06:19:18 GMT | Certified Information Systems Security Professional Everything You Need to Know Before Enrolling | Edglobalacademy | [Read More](https://medium.com/p/7c14c5c3f87f) |
-| Mon, 10 Nov 2025 06:12:19 GMT | Professional Python Certification Course in Delhi by Industry Experts | cyber security Updates | [Read More](https://medium.com/p/75fe0a37617a) |
-| Mon, 10 Nov 2025 06:10:45 GMT | techNbuddy: Connecting You to the Right People, Where Work & Vibe Align | techNbuddy | [Read More](https://medium.com/p/756ca319a41d) |
-| Mon, 10 Nov 2025 06:00:36 GMT | Create Your First Malware Using Python | Abhay Parashar | [Read More](https://medium.com/p/c8b46219d8d3) |
-| Mon, 10 Nov 2025 05:57:01 GMT | SQL Injection (SQLi): The Definitive Guide — What it is, How it works, and How to stop it | Pragya Sapkota | [Read More](https://medium.com/p/473bc35ee3d5) |
-| Mon, 10 Nov 2025 05:56:38 GMT | Data Protection & Privacy: The New Core of Digital Trust | Devarshi Acharya | [Read More](https://medium.com/p/193dea18351f) |
-| Mon, 10 Nov 2025 05:46:36 GMT | [Security Alert] Why SECURET TV Must Protect Your Living Room Calls in the Deepfake Era | SAYCOIN | [Read More](https://medium.com/p/b03dba215078) |
-| Mon, 10 Nov 2025 05:45:59 GMT | Global eCommerce Fraud Prevention Market: Trends, Insights, and Future Outlook | Gargiben | [Read More](https://medium.com/p/ec65645d0e09) |
-| Mon, 10 Nov 2025 05:41:51 GMT | The Daily Tech Digest: 10 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7df21982857f) |
