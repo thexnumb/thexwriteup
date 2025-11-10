@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 03:17:26 GMT | Chapter 2.2— A Day in the Life of a SOC Analyst | Giri | [Read More](https://medium.com/p/e36ebf96fcbe) |
+| Mon, 10 Nov 2025 03:01:42 GMT | From Fiction to Firewalls: How Stories Teach Us Cyber Defense | Aj | [Read More](https://medium.com/p/da1023ef9c26) |
+| Mon, 10 Nov 2025 03:00:20 GMT | My GX-FA Review | jon | [Read More](https://medium.com/p/5c8ff06b42e6) |
+| Mon, 10 Nov 2025 02:43:34 GMT | How I Cleared the CISSP and CISM in 6 Months — A Realistic Strategy That Actually Works | ThreatLens byGurdeep | [Read More](https://medium.com/p/f5f48a3ea5f7) |
+| Mon, 10 Nov 2025 02:34:14 GMT | The Gift of My Years | Ummugul Bulut | [Read More](https://medium.com/p/e6e2c8734c02) |
+| Mon, 10 Nov 2025 02:21:05 GMT | How a $200 Smart Printer Nearly Destroyed a Local Business | Noel | [Read More](https://medium.com/p/fc68f9e4e56f) |
+| Mon, 10 Nov 2025 02:20:33 GMT | How I earned Bounty from Notion.com | StvRoot | [Read More](https://medium.com/p/010dcb0e2e11) |
+| Mon, 10 Nov 2025 02:11:58 GMT | Day 15: Authentication & Security — Keeping Your App (and Users) Safe | JavaScript With Vinay | [Read More](https://medium.com/p/7182709df876) |
+| Mon, 10 Nov 2025 02:11:27 GMT | From Rejections to Red Team: How AI Security and Bug Bounty Helped Me Land My First… | Monu Jangra | [Read More](https://medium.com/p/4d2bb1c4adf0) |
+| Mon, 10 Nov 2025 02:07:43 GMT | How Hackers Crack “Uncrackable” Games | Abdullah Javeed | [Read More](https://medium.com/p/791a70d15a7d) |
+| Mon, 10 Nov 2025 02:02:00 GMT | How GenAI Helped My Students Focus on What Really Matters in Cybersecurity | Dr Ahmed Ibrahim | [Read More](https://medium.com/p/7835d9c561e8) |
+| Mon, 10 Nov 2025 01:53:10 GMT | The Paradox of Trust in Mobile Applications | ノウラ - Flare | [Read More](https://medium.com/p/38c62a3aea20) |
+| Mon, 10 Nov 2025 01:48:22 GMT | Plotted-TMS— TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/18d2357ea29c) |
+| Mon, 10 Nov 2025 01:43:26 GMT | The Courage to Lead with Heart | Evelyn Foreman | [Read More](https://medium.com/p/009098b69089) |
 | Mon, 10 Nov 2025 01:35:21 GMT | CyCTF Reverse Challenge - BabyCrackMe | Karim Walid | [Read More](https://medium.com/p/259ca18d434b) |
 | Mon, 10 Nov 2025 01:26:24 GMT | NoxPlayer on Windows 11: Fix “No VT Service Detected” — Disable Hyper-V | Armando Reniery Rodas | [Read More](https://medium.com/p/d2afa351303f) |
 | Mon, 10 Nov 2025 01:07:14 GMT | When GRC and Heatmaps Do More Harm Than Good to Cyber Risk Management — Building the Language of… | Juan Pablo Castro | [Read More](https://medium.com/p/4eff683016e8) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 16:34:32 GMT | Designing Tech For Humans Today | Medjue Gore | [Read More](https://medium.com/p/56c23c0ff015) |
 | Sun, 09 Nov 2025 16:22:44 GMT | WP‑Finder; the WordPress detective that runs on caffeine and Shodan | X3RX3S Sec. | [Read More](https://medium.com/p/e33ffa612555) |
 | Sun, 09 Nov 2025 16:21:15 GMT | AI Red Teaming: Making RAG Pipeline Spill Secrets | Butrint Komoni | [Read More](https://medium.com/p/62257d37d21d) |
-| Sun, 09 Nov 2025 16:16:56 GMT | The #1 Browser Hacking Tool You Need to Know (BeEF live demo) | Jackson Mittag | [Read More](https://medium.com/p/d667b92d1e42) |
-| Sun, 09 Nov 2025 16:16:12 GMT | TryHackMe: CyberHeros Writeup | ShilaHunter | [Read More](https://medium.com/p/455390e8eeba) |
-| Sun, 09 Nov 2025 16:11:40 GMT | OWASP Top 10 in Ten Minutes! | hackerdevil | [Read More](https://medium.com/p/a6ef1efd1efa) |
-| Sun, 09 Nov 2025 16:09:02 GMT | PromptFlux — AI-Driven Malware That Rewrites Itself Every Hour | Jason Hoskins Jr. | [Read More](https://medium.com/p/2ed176484df8) |
-| Sun, 09 Nov 2025 16:07:14 GMT | OpenCTI: or how I stopped googling “latest APT campaigns” at 2 a.m. | Telynor | [Read More](https://medium.com/p/f671e7ad6c57) |
-| Sun, 09 Nov 2025 16:02:00 GMT | 5 Mind-Bending Ideas from Qubes OS, the ‘Reasonably Secure’ Operating System | D.Haddad | [Read More](https://medium.com/p/a564e819c266) |
-| Sun, 09 Nov 2025 15:57:40 GMT | Ethical Hacker in India Founded Chapter of Security BSides Coimbatore | BSidesCoimbatore | [Read More](https://medium.com/p/399b57a16b20) |
-| Sun, 09 Nov 2025 15:53:39 GMT | K8s Chaos? Not on My Watch! | Chathushka Rodrigo | [Read More](https://medium.com/p/874d8a6de0e2) |
-| Sun, 09 Nov 2025 15:51:57 GMT | Inside Aardvark by OpenAI: The “How” (Without Getting Lost in the Weeds) | Akhilesh Yadav | [Read More](https://medium.com/p/e928be9a5872) |
-| Sun, 09 Nov 2025 15:51:08 GMT | Living in the Space Between | Bree | [Read More](https://medium.com/p/927a3a7edff9) |
-| Sun, 09 Nov 2025 15:46:56 GMT | Human 2.0: How AI Is Redesigning Human Evolution | Devendra Pitaliya | [Read More](https://medium.com/p/a19ec8221000) |
-| Sun, 09 Nov 2025 15:46:43 GMT | Cybersecurity #13: Metasploit | mohandika | [Read More](https://medium.com/p/74f49f455cc8) |
-| Sun, 09 Nov 2025 15:42:59 GMT | The Beginner’s Mindset: Finding Problems and Building Solutions Without Real Boundaries | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/6d2d950e131f) |
-| Sun, 09 Nov 2025 15:39:08 GMT | PhantomCollect: The Ultimate Web Data Collection Framework for Security Professionals | xsser01 | [Read More](https://medium.com/p/081244e47790) |
