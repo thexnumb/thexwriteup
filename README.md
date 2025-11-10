@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 06:24:09 GMT | How Samsung Galaxy A12 Long-Lasting Battery Improves Daily Use? | Chloe White | [Read More](https://medium.com/p/b591f22230a0) |
+| Mon, 10 Nov 2025 06:21:00 GMT | BUG Rewards & Earnings Guide — November 2025 | Pastel | [Read More](https://medium.com/p/b324aab48d03) |
+| Mon, 10 Nov 2025 06:19:18 GMT | Certified Information Systems Security Professional Everything You Need to Know Before Enrolling | Edglobalacademy | [Read More](https://medium.com/p/7c14c5c3f87f) |
+| Mon, 10 Nov 2025 06:12:19 GMT | Professional Python Certification Course in Delhi by Industry Experts | cyber security Updates | [Read More](https://medium.com/p/75fe0a37617a) |
+| Mon, 10 Nov 2025 06:10:45 GMT | techNbuddy: Connecting You to the Right People, Where Work & Vibe Align | techNbuddy | [Read More](https://medium.com/p/756ca319a41d) |
+| Mon, 10 Nov 2025 06:00:36 GMT | Create Your First Malware Using Python | Abhay Parashar | [Read More](https://medium.com/p/c8b46219d8d3) |
+| Mon, 10 Nov 2025 05:57:01 GMT | SQL Injection (SQLi): The Definitive Guide — What it is, How it works, and How to stop it | Pragya Sapkota | [Read More](https://medium.com/p/473bc35ee3d5) |
+| Mon, 10 Nov 2025 05:56:38 GMT | Data Protection & Privacy: The New Core of Digital Trust | Devarshi Acharya | [Read More](https://medium.com/p/193dea18351f) |
+| Mon, 10 Nov 2025 05:46:36 GMT | [Security Alert] Why SECURET TV Must Protect Your Living Room Calls in the Deepfake Era | SAYCOIN | [Read More](https://medium.com/p/b03dba215078) |
+| Mon, 10 Nov 2025 05:45:59 GMT | Global eCommerce Fraud Prevention Market: Trends, Insights, and Future Outlook | Gargiben | [Read More](https://medium.com/p/ec65645d0e09) |
+| Mon, 10 Nov 2025 05:41:51 GMT | The Daily Tech Digest: 10 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7df21982857f) |
 | Mon, 10 Nov 2025 05:25:54 GMT | The Digital Shield: Why Cybersecurity is the Core of Modern Business Resilience | Devarshi Acharya | [Read More](https://medium.com/p/267dd4ba184c) |
 | Mon, 10 Nov 2025 05:25:44 GMT | Kubesec: Strengthening k8s Security Through YAML Configuration Scanning | Rahul Singh Chauhan | [Read More](https://medium.com/p/f9a298e77c0e) |
 | Mon, 10 Nov 2025 05:24:57 GMT | Kioptrix Level 2 (original) — walkthrough | Vaibhav | [Read More](https://medium.com/p/4a6a885aa281) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 20:18:49 GMT | CyCTF 2025 Qualifications - Vault Raider - Mobile Challenge | Zeyad Karim | [Read More](https://medium.com/p/a8a9ae2018d9) |
 | Sun, 09 Nov 2025 20:17:37 GMT | If You Want People to Care About Risk, Tell Better Stories | Fook Hwa Tan | [Read More](https://medium.com/p/f80aca0ad13f) |
 | Sun, 09 Nov 2025 20:16:35 GMT | Is Your Organization Reactive or Resilient? A Maturity Primer | Fook Hwa Tan | [Read More](https://medium.com/p/bbd2d0378cd7) |
-| Sun, 09 Nov 2025 20:14:42 GMT | What I Should Do at Northwave: A CQO’s Weekly View | Fook Hwa Tan | [Read More](https://medium.com/p/b716299acf61) |
-| Sun, 09 Nov 2025 19:56:20 GMT | Part 4: intro to cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/3a36f4d45e97) |
-| Sun, 09 Nov 2025 19:37:52 GMT | Hack the Box “Headless” CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/81c619bb3dab) |
-| Sun, 09 Nov 2025 19:37:21 GMT | HydraPWK: The Open-Source Swiss Army Knife for Industrial Security | cybrNK | [Read More](https://medium.com/p/140f9fb34a16) |
-| Sun, 09 Nov 2025 19:32:50 GMT | Routing Automation That Actually Ships: A Small but Powerful Python Script | Jeremy van Gorp | [Read More](https://medium.com/p/b56c2e16f616) |
-| Sun, 09 Nov 2025 19:30:11 GMT | Trust Me Bro: Layemor Malware Analysis | grepStrength | [Read More](https://medium.com/p/b6788ca99e6d) |
-| Sun, 09 Nov 2025 19:12:52 GMT | Automating Security Triage: Using n8n, Splunk, Gemini API and Slack | Hariharan | [Read More](https://medium.com/p/531ad6a48c19) |
-| Sun, 09 Nov 2025 19:12:41 GMT | Yoksa Siz Hala Ders Çıkarmadınız mı? | Volkan Koçkan | [Read More](https://medium.com/p/9a0fb061ebd4) |
-| Sun, 09 Nov 2025 19:02:29 GMT | Cybersecurity Tips for Businesses During the Black Friday Rush | Global Presence Marketing | [Read More](https://medium.com/p/380b5aab662c) |
-| Sun, 09 Nov 2025 19:01:42 GMT | Privacy Isn’t a Feature, It’s a Philosophy: A Guide to Choosing a Truly Private Video Platform | Jibon Costa | [Read More](https://medium.com/p/a9148be3b6a3) |
-| Sun, 09 Nov 2025 18:53:03 GMT | Flagyard — Cucy Writeup | löca | [Read More](https://medium.com/p/ecbcb4515e71) |
