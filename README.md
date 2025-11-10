@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 10:30:44 GMT | Computer Hacking Forensic Investigator (CHFI) Certification - EC-Council | Shreyashettyctr | [Read More](https://medium.com/p/1a6b52fc7fa5) |
 | Mon, 10 Nov 2025 10:19:53 GMT | From Zero to Cybersecurity: My Journey from Confusion to Clarity | Suyash Gargote | [Read More](https://medium.com/p/42a6974b9cd1) |
 | Mon, 10 Nov 2025 10:13:36 GMT | Deep Diving into Enumeration in My CEH v13 Journey! | Bhingaresahil | [Read More](https://medium.com/p/8e3635baefe8) |
 | Mon, 10 Nov 2025 10:13:21 GMT | Every technology starts as noise, then quietly becomes normal. | Opeyemi Bamiduro | [Read More](https://medium.com/p/2cd2114f64fd) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 03:51:58 GMT | Fortify Your VPS: Essential Linux SSH Security Steps | Danilsyah Rizal | [Read More](https://medium.com/p/b6ae3a8a954b) |
 | Mon, 10 Nov 2025 03:47:03 GMT | The Backdoor to Admin: Unmasking Broken Function Level Authorization Vulnerabilities | Jei Ess | [Read More](https://medium.com/p/3fa93356bd72) |
 | Mon, 10 Nov 2025 03:40:23 GMT | System support for microkernel operating systems | wy-chung | [Read More](https://medium.com/p/204f5a2610c0) |
-| Mon, 10 Nov 2025 03:38:25 GMT | Huntress CTF 2025 Writeups Series: Part 3 | Mahmoud Matar | [Read More](https://medium.com/p/b2f4a22e5894) |
