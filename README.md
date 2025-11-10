@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 14:19:23 GMT | The Cache Poisoning Bible: Part 1 — Advanced Fundamentals | Abhishek meena | [Read More](https://medium.com/p/2c8e9d7be2e9) |
+| Mon, 10 Nov 2025 14:08:10 GMT | The Secret to Terminal Mastery Is Hiding in Plain Sight | Murat Kurkoglu | [Read More](https://medium.com/p/a131f9c0ca8b) |
+| Mon, 10 Nov 2025 14:05:18 GMT | Why I Always Block Outdated TLS Versions on Servers (And How It Prevents Hidden Attacks) | Faruk Ahmed | [Read More](https://medium.com/p/8b1b25a70f1e) |
+| Mon, 10 Nov 2025 14:03:51 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/528a426d2327) |
+| Mon, 10 Nov 2025 14:02:08 GMT | My Self-Hosted Homelab | Maniraj Chahal | [Read More](https://medium.com/p/503556101ae9) |
+| Mon, 10 Nov 2025 14:02:06 GMT | The Quiet Revolution of Self-Compassion | Evelyn Foreman | [Read More](https://medium.com/p/89a62f239459) |
+| Mon, 10 Nov 2025 13:58:18 GMT | IT and OT Specialists | YesIT Services | [Read More](https://medium.com/p/de9c06e56a94) |
+| Mon, 10 Nov 2025 13:57:55 GMT | Protecting Kids Online: The Power of Parental Control in Antivirus Software | Amit Singh | [Read More](https://medium.com/p/8db8fb4a910e) |
+| Mon, 10 Nov 2025 13:57:37 GMT | How I Built an AI Test Agent That Runs Playwright Tests Based on Jira Bug Reports | Shahnawaz Khan | [Read More](https://medium.com/p/02b8b259c8d3) |
+| Mon, 10 Nov 2025 13:56:28 GMT | ANALYSIS & INTEGRATION OF OFFICIAL PUBLICATION CHANNEL
+MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [Read More](https://medium.com/p/1a2e55e60cc9) |
+| Mon, 10 Nov 2025 13:55:44 GMT | When I’m Afraid to Hit “Publish” | Darlene López | [Read More](https://medium.com/p/57cc67d06c9e) |
+| Mon, 10 Nov 2025 13:48:08 GMT | Nor-Tech Achieves Intel Prestige Partner Status-Delivering High-Impact Value and Innovation to… | Emma Lyons | [Read More](https://medium.com/p/ea4b721f4b18) |
+| Mon, 10 Nov 2025 13:41:26 GMT | ️ How to Become a SOC Analyst in 2026: The Complete Beginner’s Roadmap | The Daily Cyber News | [Read More](https://medium.com/p/6db314062f34) |
+| Mon, 10 Nov 2025 13:35:36 GMT | Day 9: Sakura — TryHackMe | Siyam | [Read More](https://medium.com/p/54e8503223e9) |
+| Mon, 10 Nov 2025 13:33:03 GMT | How Obsidian Turned My Notes into a Second Brain | Taha Ex | [Read More](https://medium.com/p/c10dc7cf266b) |
+| Mon, 10 Nov 2025 13:31:08 GMT | Proving Grounds Internal Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/6db719991796) |
+| Mon, 10 Nov 2025 13:30:15 GMT | Subscription for DevOps: What Really Makes You Go Faster | Karthick Dk | [Read More](https://medium.com/p/e7722911ebaa) |
 | Mon, 10 Nov 2025 13:26:34 GMT | THE ATLANTA RANSOMWARE ATTACK: ANALYSIS OF NEGOTIATION STRATEGIES AND LEADERSHIP DECISIONS | Enrique Somoza | [Read More](https://medium.com/p/b10d96c9e8d4) |
+| Mon, 10 Nov 2025 13:19:48 GMT | A coragem de ser sem vergonha | Stefani Freitas | [Read More](https://medium.com/p/2684b7f682c4) |
 | Mon, 10 Nov 2025 13:18:56 GMT | Azure Security Best Practices: How to Protect Your Cloud Environment | Zara Johnson | [Read More](https://medium.com/p/a67953b428ef) |
 | Mon, 10 Nov 2025 13:18:03 GMT | BAD RELATIONSHIP SERIES:EPS9 WHEN LOVE IS FEAR | HEALING OUT LOUD! | [Read More](https://medium.com/p/9826067c5532) |
 | Mon, 10 Nov 2025 13:12:18 GMT | Best Tech Companies in NYC: A Deep Dive into Innovation and Growth | Sheena Khan | [Read More](https://medium.com/p/fac88c42a4e4) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 10:01:48 GMT | From 403 Forbidden to Time-Based Blind SQLi: A WAF Bypass Case Study | Jenson | [Read More](https://medium.com/p/27bdfe99b210) |
 | Mon, 10 Nov 2025 10:00:35 GMT | Security & Privacy for Small Business Owners: A 2025 Guide | Sarah Moradi | [Read More](https://medium.com/p/ffc5b80d1c42) |
 | Mon, 10 Nov 2025 09:55:27 GMT | techNbuddy: Where Work Meets the Right Vibe. | techNbuddy | [Read More](https://medium.com/p/fd0fb55196e6) |
-| Mon, 10 Nov 2025 09:55:25 GMT | Resisting All-Dimensional Attacks from Network to Hardware — The Digital Shield Web3 Defense… | Digital Shield | [Read More](https://medium.com/p/ef10c10f9261) |
-| Mon, 10 Nov 2025 09:54:58 GMT | Why Hire a Security Surveillance System for Your Commercial Space | Security Surveillance System | [Read More](https://medium.com/p/035c91a2bca1) |
-| Mon, 10 Nov 2025 09:53:03 GMT | Cryptocurrency Wallet Recommendation: The Future of Decentralized Asset Management with Chip-Level… | Digital Shield | [Read More](https://medium.com/p/9d3cf8756274) |
-| Mon, 10 Nov 2025 09:49:03 GMT | Your Terminal Isn’t Scary, It’s Your Superpower | Fateyaly | [Read More](https://medium.com/p/fdfac9251c34) |
-| Mon, 10 Nov 2025 09:48:44 GMT | Security Issues in Cloud Computing | Arnav | [Read More](https://medium.com/p/335c24a91198) |
-| Mon, 10 Nov 2025 09:46:23 GMT | CyCTF Web Challenge Admin Secret , News leak and inception | Abdullah Bendary | [Read More](https://medium.com/p/84371666d663) |
-| Mon, 10 Nov 2025 09:42:40 GMT | Deja Vu Tryhackme writeup | Elallalihouda | [Read More](https://medium.com/p/fd79b16f1300) |
-| Mon, 10 Nov 2025 09:40:14 GMT | Essential Tools for Protecting Business Operations: A Beginner’s Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/c9e109ce9969) |
-| Mon, 10 Nov 2025 09:32:41 GMT | DockerLabs Writeup — Internship (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e344ccb6ef0e) |
-| Mon, 10 Nov 2025 09:32:02 GMT | Bug Bounties 101: 5 Platforms That Deliver | Modexa | [Read More](https://medium.com/p/cb10ede3f6d0) |
-| Mon, 10 Nov 2025 09:32:02 GMT | The Rise of AI Red Teams: Testing the Machines Before the Machines Test Us | Yash Gorasiya | [Read More](https://medium.com/p/8cb10e4fc234) |
-| Mon, 10 Nov 2025 09:32:02 GMT | Beyond Passwords: 6 Safer Ways to Log In | Syntal | [Read More](https://medium.com/p/ebcbdee4b12e) |
-| Mon, 10 Nov 2025 09:25:24 GMT | Data Integrity is the New Horsepower | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/61bc0dc1928a) |
-| Mon, 10 Nov 2025 09:13:18 GMT | Threat Modeling: Designing for Security from the Ground Up | Samina Perveen | [Read More](https://medium.com/p/fa268303d7da) |
-| Mon, 10 Nov 2025 09:10:37 GMT | How Do Red Teamers Adapt To Threats? They Use This | Redfox Security | [Read More](https://medium.com/p/d9e800c7f4ec) |
-| Mon, 10 Nov 2025 09:05:33 GMT | Simple Ways to Protect Yourself Online | Deepak Sharma | [Read More](https://medium.com/p/0ac3ca2389cc) |
-| Mon, 10 Nov 2025 09:03:42 GMT | Change Management: Kunci Keberhasilan Implementasi Transformasi Teknologi | Valencia L Tobing | [Read More](https://medium.com/p/3195dce63bd0) |
-| Mon, 10 Nov 2025 09:03:02 GMT | Webhook to SIEM: Auto-Unlock Leaks and Trigger Your Playbook | Alexandre Vandamme | [Read More](https://medium.com/p/47e2bcd7c9be) |
