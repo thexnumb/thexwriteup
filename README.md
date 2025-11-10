@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 21:22:02 GMT | How 250 Files Can Break ChatGPT — The Hidden Lesson Behind AI’s Fragile Secret | Felix Keuya | [Read More](https://medium.com/p/bb7bc49a939b) |
+| Mon, 10 Nov 2025 21:13:35 GMT | SQL Injection Fundamentals (new version) —  HackTheBox ACADEMY — Skill Assessment Walkthough | th3V0!D | [Read More](https://medium.com/p/39b819505f69) |
 | Mon, 10 Nov 2025 21:06:53 GMT | One Cookie to Steal Them All: A Story of IDOR | Parth Narula | [Read More](https://medium.com/p/f99870c3a683) |
 | Mon, 10 Nov 2025 21:02:56 GMT | PortSwigger: Business logic vulnerabilities LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/b5c04816e891) |
 | Mon, 10 Nov 2025 20:57:24 GMT | From Algorithms to Accountability: The Next Evolution of Secure AI | Mohit Garg | [Read More](https://medium.com/p/b942c0cc4d15) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 14:21:04 GMT | BIGFOOT IS REAL! And So Is The Need For HTTP Response Security Headers | Jen Cracchiola | [Read More](https://medium.com/p/e65333985e6f) |
 | Mon, 10 Nov 2025 14:19:23 GMT | The Cache Poisoning Bible: Part 1 — Advanced Fundamentals | Abhishek meena | [Read More](https://medium.com/p/2c8e9d7be2e9) |
 | Mon, 10 Nov 2025 14:12:19 GMT | Kubernetes Forensics Nightmare: When Self-Healing Erases the Evidence | Mohammad Fathul Ikhsan | [Read More](https://medium.com/p/35fe74b6cab2) |
-| Mon, 10 Nov 2025 14:11:12 GMT | What Does Netflix Know About You? | Awais Khan | [Read More](https://medium.com/p/4fb2b1e7d892) |
-| Mon, 10 Nov 2025 14:08:10 GMT | The Secret to Terminal Mastery Is Hiding in Plain Sight | Murat Kurkoglu | [Read More](https://medium.com/p/a131f9c0ca8b) |
