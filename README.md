@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 23:19:09 GMT | مرحلة جديدة | Maria Writes | [Read More](https://medium.com/p/9dccfe1fa9da) |
 | Mon, 10 Nov 2025 23:11:30 GMT | THM - CRM Snatch | Francesco Pastore | [Read More](https://medium.com/p/8ec7135d159a) |
 | Mon, 10 Nov 2025 23:02:59 GMT | Information Disclosure: Hardcoded Encryption Keys | Umanhonlen Gabriel | [Read More](https://medium.com/p/fc375abf68a3) |
 | Mon, 10 Nov 2025 22:49:44 GMT | Applying the Principle of Least Privilege with AWS IAM: A Hands-On Project | Okeke Jehohanan Ginika | [Read More](https://medium.com/p/27c62e70fd2d) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 15:01:40 GMT | CVE-2021–4034 Technical Review | min6 | [Read More](https://medium.com/p/8aca5a7e7506) |
 | Mon, 10 Nov 2025 14:58:36 GMT | The Securest Browser for Your Business in 2026 Is Microsoft Edge | Cordula Boeck | [Read More](https://medium.com/p/9905617558d3) |
 | Mon, 10 Nov 2025 14:57:06 GMT | picoCTF 2025: 3v@l; web exploitation category; difficulty medium | Eddyrakotobe | [Read More](https://medium.com/p/b9335a745761) |
-| Mon, 10 Nov 2025 14:55:19 GMT | “If Ethereum Had an Immune System, It Would Be Called Drosera” | Samstar71 | [Read More](https://medium.com/p/c3b6f236bb03) |
