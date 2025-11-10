@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 15:11:28 GMT | Netforge: C2 server only 14MB in size,implementing account-based session isolation and management. | Мартин. | [Read More](https://medium.com/p/7fdb6eea8cdc) |
+| Mon, 10 Nov 2025 15:09:59 GMT | When AI Meets Cybersecurity: The Next Frontier of Protection | Dr. Shashi Karhail | [Read More](https://medium.com/p/4cf02dca2f05) |
+| Mon, 10 Nov 2025 15:09:20 GMT | Threat Investigation — Boogeyman 3 - SOC Level 1 Capstone Challenge — THM | 0xRahuL | [Read More](https://medium.com/p/f4748aec2da0) |
+| Mon, 10 Nov 2025 15:05:04 GMT | The Critical Difference Between Security Compliance and Cybersecurity | Defend My Business | [Read More](https://medium.com/p/986d2024fecf) |
+| Mon, 10 Nov 2025 15:03:07 GMT | Snowflake Break-Glass Account in the MFA Era: How to Stay Compliant and Unstuck | Soorya Prakash Parthiban | [Read More](https://medium.com/p/2cfc116dbb27) |
+| Mon, 10 Nov 2025 15:03:06 GMT | When GPTs Call Home: Exploiting SSRF in ChatGPT’s Custom Actions | SirLeeroyJenkins | [Read More](https://medium.com/p/5df9df27dbe9) |
+| Mon, 10 Nov 2025 15:02:20 GMT | Threat Investigation — Boogeyman 2 - SOC Level 1 Capstone Challenge — THM | 0xRahuL | [Read More](https://medium.com/p/5328e86d304f) |
+| Mon, 10 Nov 2025 15:02:08 GMT | Cyber Briefing: 2025.11.10 | CyberMaterial | [Read More](https://medium.com/p/f709a26d0705) |
+| Mon, 10 Nov 2025 15:01:40 GMT | CVE-2021–4034 Technical Review | min6 | [Read More](https://medium.com/p/8aca5a7e7506) |
+| Mon, 10 Nov 2025 14:58:36 GMT | The Securest Browser for Your Business in 2026 Is Microsoft Edge | Cordula Boeck | [Read More](https://medium.com/p/9905617558d3) |
+| Mon, 10 Nov 2025 14:57:06 GMT | picoCTF 2025: 3v@l; web exploitation category; difficulty medium | Eddyrakotobe | [Read More](https://medium.com/p/b9335a745761) |
+| Mon, 10 Nov 2025 14:55:19 GMT | “If Ethereum Had an Immune System, It Would Be Called Drosera” | Samstar71 | [Read More](https://medium.com/p/c3b6f236bb03) |
+| Mon, 10 Nov 2025 14:53:26 GMT | How to Fix a Door Lock That Won’t Turn: Step-by-Step Troubleshooting | Sure Lock & Key LLC | [Read More](https://medium.com/p/e71d4b14233c) |
+| Mon, 10 Nov 2025 14:53:26 GMT | Threat Investigation — Boogeyman 1 - SOC Level 1 Capstone Challenge — THM | 0xRahuL | [Read More](https://medium.com/p/d5da9bb63a9d) |
+| Mon, 10 Nov 2025 14:52:24 GMT | How I Found NASA’s Hidden VPN Origin IP Without a Firewall — And They Patched It in Silence | Krivadna | [Read More](https://medium.com/p/3d517e0b6426) |
+| Mon, 10 Nov 2025 14:50:56 GMT | A Single Line of Python Code That Will Get You Hacked | Maikel Mardjan | [Read More](https://medium.com/p/69a4d3a6a9b1) |
+| Mon, 10 Nov 2025 14:46:16 GMT | “The One-Click Account Takeover That Chained XSS and CSRF” | Aman Sharma | [Read More](https://medium.com/p/cd4ebe22fb7f) |
+| Mon, 10 Nov 2025 14:42:05 GMT | Understanding Cookies, CSRF-Tokens & XSS Attacks | Atticus Ezis | [Read More](https://medium.com/p/b3cfa44bb483) |
+| Mon, 10 Nov 2025 14:41:00 GMT | Reconstruction-led connectivity through Syria and stability can be the starter of a new Middle-East | MASUM BILLAH | [Read More](https://medium.com/p/1d5e3245f254) |
 | Mon, 10 Nov 2025 14:37:08 GMT | PROJETO mini-lab: Monitoramento e controle com #WAZUH >Atulizações< | EduKayky | [Read More](https://medium.com/p/0b18d2f9f795) |
 | Mon, 10 Nov 2025 14:36:15 GMT | Your Factory Floor is a $50M Liability (And Your Insurance Company Knows It) | Tec-Tel Communications | [Read More](https://medium.com/p/e99f3d0c6551) |
 | Mon, 10 Nov 2025 14:33:42 GMT | Why Your Hospital’s Doors Are Killing Your Security Budget | Tec-Tel Communications | [Read More](https://medium.com/p/892a33392268) |
@@ -94,22 +113,3 @@ MEDIUM BLOG: https://medium.com/@shahonymcaba | Shahony Montefalcon Cabahug | [R
 | Mon, 10 Nov 2025 11:23:13 GMT | Bug Bounty Hunting — Complete Guide (Part-137) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/7974b05e547e) |
 | Mon, 10 Nov 2025 11:21:47 GMT | Bug Bounty Hunting — Complete Guide (Part-136) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/1e7aa4f660e3) |
 | Mon, 10 Nov 2025 11:21:05 GMT | SOC 2 vs. ISO 27001: Which Compliance Standard Is Right for You? | Digital Defense | [Read More](https://medium.com/p/c92260d80d39) |
-| Mon, 10 Nov 2025 11:20:41 GMT | AI-Powered Fraud Detection: The Smarter Way to Secure Every Payment. | Digicore | [Read More](https://medium.com/p/4cf7392ee738) |
-| Mon, 10 Nov 2025 11:20:26 GMT | What Cybersecurity Really Means (and How to Protect Yourself) | Mercy Ajayi | [Read More](https://medium.com/p/70fe5ec095a1) |
-| Mon, 10 Nov 2025 11:19:32 GMT | Beyond the Basics: Supercharging Your Website Security with WAF Configuration | Andrew Keitany | [Read More](https://medium.com/p/7d83b07ca09a) |
-| Mon, 10 Nov 2025 11:19:23 GMT | BOuBug Bounty Hunting — Complete Guide (Part-135) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/3f615fedc2eb) |
-| Mon, 10 Nov 2025 11:19:13 GMT | Standards — Target Security Group | Target securitygroup | [Read More](https://medium.com/p/8c1c5e8699d8) |
-| Mon, 10 Nov 2025 11:16:44 GMT | The Burn Notice, Part 3/5 - One Simple Mistake, Thousands at Risk | Dor Attias | [Read More](https://medium.com/p/996f85fcb92f) |
-| Mon, 10 Nov 2025 11:07:07 GMT | Cybersecurity Essentials: How Hashing and Salting Protect Your Systems | Ramandeep Bagri | [Read More](https://medium.com/p/93c108a8dc43) |
-| Mon, 10 Nov 2025 11:05:53 GMT | Tactical defence logic | ProjektID | [Read More](https://medium.com/p/1f79b2ac6ad1) |
-| Mon, 10 Nov 2025 11:01:27 GMT | 2FA Bypass Methods for Bug Bounty Hunters and Developers | Diman | [Read More](https://medium.com/p/8f2e83118bdd) |
-| Mon, 10 Nov 2025 11:00:32 GMT | IOT + Cybersecurity | Century Solutions Group | [Read More](https://medium.com/p/3258aaf3410c) |
-| Mon, 10 Nov 2025 10:55:05 GMT | Spotting a Fake Website in Seconds: A Guide for 2025 | Shivakshi Rawat | [Read More](https://medium.com/p/eb5f1bcea9d4) |
-| Mon, 10 Nov 2025 10:53:44 GMT | Top 10 Security Companies in Mumbai You Can Trust in 2025 | Tanisha Singh | [Read More](https://medium.com/p/64ec29a782bf) |
-| Mon, 10 Nov 2025 10:41:25 GMT | NCOG D-Calendar: Rethinking Privacy in Your Schedule | Bobby Andrews | [Read More](https://medium.com/p/6b5e325f6090) |
-| Mon, 10 Nov 2025 10:38:47 GMT | Write-up: Source code disclosure via backup files @PortSwigger Academy | Hydra | [Read More](https://medium.com/p/aae0412d8d8e) |
-| Mon, 10 Nov 2025 10:30:44 GMT | Computer Hacking Forensic Investigator (CHFI) Certification - EC-Council | Shreyashettyctr | [Read More](https://medium.com/p/1a6b52fc7fa5) |
-| Mon, 10 Nov 2025 10:19:53 GMT | From Zero to Cybersecurity: My Journey from Confusion to Clarity | Suyash Gargote | [Read More](https://medium.com/p/42a6974b9cd1) |
-| Mon, 10 Nov 2025 10:13:36 GMT | Deep Diving into Enumeration in My CEH v13 Journey! | Bhingaresahil | [Read More](https://medium.com/p/8e3635baefe8) |
-| Mon, 10 Nov 2025 10:13:21 GMT | Every technology starts as noise, then quietly becomes normal. | Opeyemi Bamiduro | [Read More](https://medium.com/p/2cd2114f64fd) |
-| Mon, 10 Nov 2025 10:11:41 GMT | Mastering Snort: Stopping Real-Time Attacks from the TryHackMe “Live Attacks” Challenge | Citadel Cybersec | [Read More](https://medium.com/p/5d7ba308b8f0) |
