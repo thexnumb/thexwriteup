@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 10 Nov 2025 03:59:00 GMT | Week 1: The Moment Everything Changed | ZAYN | [Read More](https://medium.com/p/41ee0c042795) |
+| Mon, 10 Nov 2025 03:55:02 GMT | BugBounty Fraud by cm.com | Krivadna | [Read More](https://medium.com/p/f9a942f37c9d) |
+| Mon, 10 Nov 2025 03:51:58 GMT | Fortify Your VPS: Essential Linux SSH Security Steps | Danilsyah Rizal | [Read More](https://medium.com/p/b6ae3a8a954b) |
+| Mon, 10 Nov 2025 03:47:03 GMT | The Backdoor to Admin: Unmasking Broken Function Level Authorization Vulnerabilities | Jei Ess | [Read More](https://medium.com/p/3fa93356bd72) |
+| Mon, 10 Nov 2025 03:38:25 GMT | Huntress CTF 2025 Writeups Series: Part 3 | Mahmoud Matar | [Read More](https://medium.com/p/b2f4a22e5894) |
+| Mon, 10 Nov 2025 03:32:00 GMT | Top 3 Tools for Securing Secrets in Node.js — A practical, forward-looking guide | Arunangshu Das | [Read More](https://medium.com/p/de4bad48d129) |
+| Mon, 10 Nov 2025 03:32:00 GMT | The Phantom Code: How “Quishing” Is Redefining the Phishing Threat | Deven Chhajed | [Read More](https://medium.com/p/f92aeb2a05c7) |
 | Mon, 10 Nov 2025 03:17:26 GMT | Chapter 2.2— A Day in the Life of a SOC Analyst | Giri | [Read More](https://medium.com/p/e36ebf96fcbe) |
+| Mon, 10 Nov 2025 03:16:00 GMT | Unlocking the Gold Standard in Cybersecurity: Why the CISSP Certificate Matters | Cybernous Infosec consulting | [Read More](https://medium.com/p/6c70e604b00d) |
+| Mon, 10 Nov 2025 03:09:43 GMT | 10 Must-Know OSINT Tools for Cybersecurity Professionals | Shahzaib | [Read More](https://medium.com/p/5e6f4cb95ac2) |
 | Mon, 10 Nov 2025 03:01:42 GMT | From Fiction to Firewalls: How Stories Teach Us Cyber Defense | Aj | [Read More](https://medium.com/p/da1023ef9c26) |
 | Mon, 10 Nov 2025 03:00:20 GMT | My GX-FA Review | jon | [Read More](https://medium.com/p/5c8ff06b42e6) |
 | Mon, 10 Nov 2025 02:43:34 GMT | How I Cleared the CISSP and CISM in 6 Months — A Realistic Strategy That Actually Works | ThreatLens byGurdeep | [Read More](https://medium.com/p/f5f48a3ea5f7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 09 Nov 2025 17:18:02 GMT | CyCTF Qualification: News Leak Challenge | Rawansaeed | [Read More](https://medium.com/p/fd31ce153298) |
 | Sun, 09 Nov 2025 17:17:19 GMT | What Happens When You Reply to Every Spam Email for a Week | Sourav Sardar | [Read More](https://medium.com/p/e3efd0d2cace) |
 | Sun, 09 Nov 2025 17:12:51 GMT | Active Directory (Domain Trusts) | SilentExploit | [Read More](https://medium.com/p/6418c6f84d63) |
-| Sun, 09 Nov 2025 17:02:04 GMT | Episode 5: “The Ghost in the Mesh — Part 2” | Dr. House In I.T. | [Read More](https://medium.com/p/c23f396048e6) |
-| Sun, 09 Nov 2025 16:54:26 GMT | Is BurpAI Going to Replace Pentesters? | Abhishek meena | [Read More](https://medium.com/p/1ac8856ee693) |
-| Sun, 09 Nov 2025 16:53:50 GMT | SOC L1 Alert Triage—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/c4531df57058) |
-| Sun, 09 Nov 2025 16:53:36 GMT | SOC L1 Alert Reporting—TryHackMe Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/dbab6de7fe78) |
-| Sun, 09 Nov 2025 16:53:22 GMT | Should Beginners Hack on Vdps? | Rehan Sohail | [Read More](https://medium.com/p/5f62a4d6dd20) |
-| Sun, 09 Nov 2025 16:42:49 GMT | Algorithmic Bullshit — When AI Lies to You with Complete Confidence | Olivier MARECHAL | [Read More](https://medium.com/p/b34f01f8b082) |
-| Sun, 09 Nov 2025 16:34:32 GMT | Designing Tech For Humans Today | Medjue Gore | [Read More](https://medium.com/p/56c23c0ff015) |
-| Sun, 09 Nov 2025 16:22:44 GMT | WP‑Finder; the WordPress detective that runs on caffeine and Shodan | X3RX3S Sec. | [Read More](https://medium.com/p/e33ffa612555) |
-| Sun, 09 Nov 2025 16:21:15 GMT | AI Red Teaming: Making RAG Pipeline Spill Secrets | Butrint Komoni | [Read More](https://medium.com/p/62257d37d21d) |
