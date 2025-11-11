@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 09:37:12 GMT | Kiosk-Machine-vs-POS-MachineKiosk Machine vs. | Rakesh | [Read More](https://medium.com/p/b7cc67139a5a) |
+| Tue, 11 Nov 2025 09:34:59 GMT | FANTASY CTF — General Skills — picoCTF Writeup | Nirgunah | [Read More](https://medium.com/p/0d91b6fea7d8) |
+| Tue, 11 Nov 2025 09:34:12 GMT | Common website security bypasses | 80h3m14n | [Read More](https://medium.com/p/6fd80f818a01) |
+| Tue, 11 Nov 2025 09:33:59 GMT | SSH Isn’t Just a Service: How Outdated Daemons Create Unseen Backdoors | bishopx_09 | [Read More](https://medium.com/p/58ac0f47eaa9) |
+| Tue, 11 Nov 2025 09:32:59 GMT | What Happens When You Type ls *.c in Your Shell | Elmir | [Read More](https://medium.com/p/266488e04348) |
+| Tue, 11 Nov 2025 09:30:17 GMT | 0-Click Account Takeover Using Special Characters ✔ | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/0030a1e3c6d6) |
+| Tue, 11 Nov 2025 09:27:23 GMT | Joiner Process in IAM - Easy 9-Step Explanation | Anuja Pawar | [Read More](https://medium.com/p/137fe20fe17a) |
 | Tue, 11 Nov 2025 09:14:18 GMT | The Bright Wave: New Generation of Tech Entrepreneurs in Bangladesh | Spike Story | [Read More](https://medium.com/p/51a371ef6aff) |
 | Tue, 11 Nov 2025 09:06:02 GMT | Insp3ct0r — picoCTF Web Exploitation Writeup | Hasnainabid | [Read More](https://medium.com/p/84f3a9263d58) |
 | Tue, 11 Nov 2025 09:03:00 GMT | Stealer Logs Today: Is Your Domain in the Latest Dumps? | Alexandre Vandamme | [Read More](https://medium.com/p/b153505d5910) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 01:34:02 GMT | npm Paket Yayınlama Güvenlik Kuralları: Yeni Dönemin Tam Rehberi | Erhan Akkaya | [Read More](https://medium.com/p/a4d57517e1df) |
 | Tue, 11 Nov 2025 01:33:32 GMT | When Insiders Become the Greatest Threat — The Intel Case and a Hidden Corporate Crisis | David SEHYEON Baek | [Read More](https://medium.com/p/4013441e68be) |
 | Tue, 11 Nov 2025 01:18:28 GMT | Common Cybersecurity Myths You Should Stop Believing | Ferdi Edogawa | [Read More](https://medium.com/p/3612bf7e7251) |
-| Tue, 11 Nov 2025 01:15:32 GMT | HackTheBox Forest (AD series) | SilentExploit | [Read More](https://medium.com/p/8bbce22e732d) |
-| Tue, 11 Nov 2025 01:08:09 GMT | The Power of Vulnerability: Embracing True Strength and Self-Acceptance | Poly-blang | [Read More](https://medium.com/p/623e8dd9d5b4) |
-| Tue, 11 Nov 2025 01:06:47 GMT | Free, but Not Innocent: Anatomy of the Legal Fraud Dominating Online Commerce | Rodrigo Gutierrez | [Read More](https://medium.com/p/6ba6eb9bc183) |
-| Tue, 11 Nov 2025 00:51:49 GMT | Cyberdefenders PacketMaze Lab Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/db5ca2bb396c) |
-| Tue, 11 Nov 2025 00:46:31 GMT | Splunk Detection Lab: APT Taeddonggong Simulation (Splunk Boss of the SOC) | Julian Smith | [Read More](https://medium.com/p/8c18855d29ae) |
-| Tue, 11 Nov 2025 00:34:02 GMT | Adli Bilişim Açısından CD/DVD Analizi | Ayça Aslan | [Read More](https://medium.com/p/13fe8c3602d3) |
-| Tue, 11 Nov 2025 00:31:59 GMT | How to Secure Your Spring Boot APIs with Asgardeo (in 7 Easy Steps) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/5bddef784940) |
