@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 04:18:02 GMT | From Zero to Local AI in 10 Minutes With Ollama + Python | Parthiban Rajasekaran | [Read More](https://medium.com/p/a2024e22f157) |
+| Tue, 11 Nov 2025 04:13:36 GMT | “AI + Cybersecurity: The Most Underrated Certification Combo for 2026” | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/f20c96ba21a8) |
+| Tue, 11 Nov 2025 04:05:50 GMT | 5 Things to Do If Ransomware Hits Your Business in Singapore | Steven Chin | [Read More](https://medium.com/p/244e95edaf1e) |
 | Tue, 11 Nov 2025 03:55:37 GMT | Empowering Small Businesses: Transforming Technology into a Power Tool | Steven Chin | [Read More](https://medium.com/p/ab34778dd86e) |
+| Tue, 11 Nov 2025 03:53:07 GMT | Enhancing Rule-Based Detection Using Recurrent Neural Networks | Ahmed Sobhi Ali | [Read More](https://medium.com/p/1466061a718e) |
 | Tue, 11 Nov 2025 03:51:49 GMT | Fingerprint Browser: A Comprehensive Guide | 007TG | [Read More](https://medium.com/p/18de1deec8fb) |
 | Tue, 11 Nov 2025 03:45:56 GMT | From Payloads to Persistence: Lessons from a Day of Offensive Lab Work | Vivektumma27 | [Read More](https://medium.com/p/865841ddc343) |
 | Tue, 11 Nov 2025 03:44:26 GMT | CORS Vulnerability with Trusted Insecure Protocols | Bash Overflow | [Read More](https://medium.com/p/82ba36766c07) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 16:51:15 GMT | The Hidden Fragility of Centralized Exchanges: Why Proactive Cyber Defence Must Replace Reactive… | Abatis ABTU | [Read More](https://medium.com/p/1cc5d1b971a4) |
 | Mon, 10 Nov 2025 16:45:36 GMT | How to Prevent AI Agent Attacks: A Practical Guide | Isaac obune | [Read More](https://medium.com/p/b0586e317228) |
 | Mon, 10 Nov 2025 16:44:32 GMT | How AI and Machine Learning Are Transforming Cloud Cybersecurity | Techridge Solutions | [Read More](https://medium.com/p/3f93ead81943) |
-| Mon, 10 Nov 2025 16:36:48 GMT | Delhi Red Fort Blast: Lessons for Cybersecurity and Urban Defense | Secure Talks | [Read More](https://medium.com/p/2acdda1fd5d0) |
-| Mon, 10 Nov 2025 16:34:30 GMT | Understanding Active Directory (AD): The Heart of Enterprise Identity and Access Management | Rushikesh Girase | [Read More](https://medium.com/p/26960e71029f) |
-| Mon, 10 Nov 2025 16:32:01 GMT | Apple Source Code Exposed Again — Why Every Enterprise AI Stack Needs Secure Code Before It’s Too… | Snow | [Read More](https://medium.com/p/330679a30b49) |
-| Mon, 10 Nov 2025 16:27:32 GMT | Business Continuity Planning in Orange County: How to Keep Your Doors Open — No Matter What | Technijian | [Read More](https://medium.com/p/2febd6e8a516) |
