@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 07:07:49 GMT | The Role of Ango Hub in Scaling Red-Teaming for Generative AI | iMerit Inc | [Read More](https://medium.com/p/5be57e154276) |
+| Tue, 11 Nov 2025 07:06:27 GMT | Behind the Scenes of a CTF Exploit Walkthrough: Master the Art of Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/e0283d9f185e) |
+| Tue, 11 Nov 2025 07:06:10 GMT | Where IT Project Managers Are Heading: Skills That Will Define The Next Decade | TaskFord | [Read More](https://medium.com/p/7b1c767a2030) |
+| Tue, 11 Nov 2025 07:04:40 GMT | Ensuring Safety and Trust: The Growing Demand for Professional Security Services in India | Smartfish Designs | [Read More](https://medium.com/p/a33f29599378) |
+| Tue, 11 Nov 2025 07:04:18 GMT | Hacking the Damn Vulnerable RESTaurant: A Journey from Customer to Root | appsecwarrior | [Read More](https://medium.com/p/756caa1adf56) |
+| Tue, 11 Nov 2025 06:53:08 GMT | My first challenge in HTB : Brutus Walkthrough. HackTheBox | Lintu Oommen | [Read More](https://medium.com/p/4316ea18dabf) |
+| Tue, 11 Nov 2025 06:48:36 GMT | Simple Virus Removal and Protection Guide for Windows Users | Ask IT Support | [Read More](https://medium.com/p/60a88a99771c) |
+| Tue, 11 Nov 2025 06:45:43 GMT | From Military Missions to Outdoor Adventures: The Versatility of PVS7 Night Vision | Night Vision 4 Less | [Read More](https://medium.com/p/f934430a4d8e) |
+| Tue, 11 Nov 2025 06:45:09 GMT | The Agent’s Memory: Your AI Assistant Will Know Everything About You. Are You Ready for That? | Nowyouknow | [Read More](https://medium.com/p/add9b1d8224c) |
+| Tue, 11 Nov 2025 06:41:38 GMT | Why European SMEs Can’t Afford to Ignore NIS2 — and What to Do No | Jeffery | [Read More](https://medium.com/p/4e1828f0d28a) |
+| Tue, 11 Nov 2025 06:41:32 GMT | The Evolution of DDoS Mitigation Technologies: Building a Stronger Cyber Defense Framework | Gargiben | [Read More](https://medium.com/p/c50c88b97472) |
+| Tue, 11 Nov 2025 06:41:00 GMT | The Daily Tech Digest: 11 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9ffe08342237) |
+| Tue, 11 Nov 2025 06:36:50 GMT | CISM Certification Training A Simple Step-by-Step Guide to Get Certified | Edglobalacademy | [Read More](https://medium.com/p/2f1ab5c9eedc) |
+| Tue, 11 Nov 2025 06:35:47 GMT | Data Protection & Privacy in 2025: Why Businesses Can’t Afford to Ignore It | Devarshi Acharya | [Read More](https://medium.com/p/3dc9251a21d6) |
+| Tue, 11 Nov 2025 06:35:17 GMT | The Rise of Cybersecurity Awareness: Protecting Yourself in the Digital Age | Maxatlasofficial | [Read More](https://medium.com/p/2a0f62ba2ef8) |
 | Tue, 11 Nov 2025 06:32:59 GMT | Stop! Don’t Upload This Data to AI Tools | Amol Rangari | [Read More](https://medium.com/p/7ab2f4fdb247) |
+| Tue, 11 Nov 2025 06:32:38 GMT | Secrets to Hiring a Reliable Commercial Fence Contractor | Ifanbelajariklan | [Read More](https://medium.com/p/5f14a2ad4714) |
+| Tue, 11 Nov 2025 06:31:07 GMT | How AI-Powered MDR Accelerates Incident Response and Efficiency | bitsIO | [Read More](https://medium.com/p/6d5a6e66f443) |
 | Tue, 11 Nov 2025 06:12:02 GMT | How I Traced Hidden Network Calls Using ProcDOT and Wireshark: A Product Security Deep Dive | Ashhadali | [Read More](https://medium.com/p/4d263cb877bf) |
 | Tue, 11 Nov 2025 06:11:46 GMT | She’s hiding under the coffee table | Diana Ayrapetyan | [Read More](https://medium.com/p/3a04572ba3a0) |
 | Tue, 11 Nov 2025 05:54:41 GMT | Your Simple Guide to Staying Safe from Online Scams | Md.Asaad S. | [Read More](https://medium.com/p/cb7fc0d12941) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 19:44:49 GMT | Monitoring Security News with an Open-Source Solution | Quentin Latzel | [Read More](https://medium.com/p/34c15578c2e0) |
 | Mon, 10 Nov 2025 19:32:33 GMT | Our Journey in IT: Building Echo-AI (R& D) Together | Rethabile Bridget Velelo & Dylan Gorrah | [Read More](https://medium.com/p/7f96b55890c3) |
 | Mon, 10 Nov 2025 19:19:58 GMT | SOC165 — Possible SQL Injection Payload Detected — Practice with SOC Alert | Giovanni Isola | [Read More](https://medium.com/p/8a2bfb77ebcd) |
-| Mon, 10 Nov 2025 19:17:49 GMT | Why Your Employees are Your Biggest Cyber Risk (And How to Fix It in 5 Minutes a Day) | John Muconto | [Read More](https://medium.com/p/af61cfcbbe58) |
-| Mon, 10 Nov 2025 19:11:28 GMT | We Want Smart AI, But At What Cost? | Midhun | [Read More](https://medium.com/p/7f51b763fa67) |
-| Mon, 10 Nov 2025 19:08:21 GMT | When Power Targets the Vulnerable | Carl J. Petersen | [Read More](https://medium.com/p/a675ae81547b) |
-| Mon, 10 Nov 2025 19:03:56 GMT | TryHackMe - Introduction to SOAR - WriteUp | Axoloth | [Read More](https://medium.com/p/cb390069dc0b) |
-| Mon, 10 Nov 2025 19:02:10 GMT | Who Pays for Election Security? Congress’s Quiet Power Lever (November 10th, 2025) | Congressional Communities | [Read More](https://medium.com/p/c8b254fd06be) |
-| Mon, 10 Nov 2025 19:01:41 GMT | The $3M XRP Hack That Every Crypto Holder Should Learn From | Haris Nadeem | [Read More](https://medium.com/p/9f5228c9d2f3) |
-| Mon, 10 Nov 2025 19:01:41 GMT | [+] TEK-UP FRIENDLY CTF REV WRITEUPS | Ad3M | [Read More](https://medium.com/p/856e4f22f4d3) |
-| Mon, 10 Nov 2025 18:54:23 GMT | Vulnerability Management — A practical and systematic approach | SOCFortress | [Read More](https://medium.com/p/31f0e6a2f673) |
-| Mon, 10 Nov 2025 18:51:33 GMT | PhantomCollect: Technical Deep Dive into a Modern OSINT Web Tool | xsser01 | [Read More](https://medium.com/p/0eeeb921bb28) |
-| Mon, 10 Nov 2025 18:49:13 GMT | Information Technology In India | Rāhula | [Read More](https://medium.com/p/074c43e588d2) |
-| Mon, 10 Nov 2025 18:46:46 GMT | Py Env Studio: Manage Python Environments Without the Command Line | Wasim Shaikh | [Read More](https://medium.com/p/61a793a5f466) |
-| Mon, 10 Nov 2025 18:35:33 GMT | SSH Isn’t Just a Service — It’s a Backdoor | bishopx_09 | [Read More](https://medium.com/p/88d579f4b798) |
-| Mon, 10 Nov 2025 18:25:19 GMT | How I Built Databases to (try to) Predict Geopolitical Events | globalgeoinsights | [Read More](https://medium.com/p/7466e9009976) |
-| Mon, 10 Nov 2025 18:21:59 GMT | Security Log The Right Way | Franco martin | [Read More](https://medium.com/p/a4d69c5eccf0) |
-| Mon, 10 Nov 2025 18:20:50 GMT | The 20 Best Security Tips for Data Protection in 2025 | John Muconto | [Read More](https://medium.com/p/e04c6b7853c9) |
-| Mon, 10 Nov 2025 18:18:32 GMT | The “Secure Yes” Methodology | Fabien Soulis | [Read More](https://medium.com/p/4be6824b9648) |
-| Mon, 10 Nov 2025 18:14:51 GMT | These Social Media Apps Secretly Track Your Location | Len Noe | [Read More](https://medium.com/p/92b9c4cd5288) |
