@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 08:17:43 GMT | Dark Web Threat Intelligence (DWTI) 101: How Hidden Data Powers Modern Cyber Defense | Matt Black | [Read More](https://medium.com/p/1c90dd893fa3) |
+| Tue, 11 Nov 2025 08:16:22 GMT | Behind the firewall: Engineering APIs for compliance and trust | Juhi Singh | [Read More](https://medium.com/p/8d863a0786c0) |
+| Tue, 11 Nov 2025 08:12:17 GMT | Full-Stack Development in 2025: Advanced Projects and Modern Tech Stacks | okot aaron | [Read More](https://medium.com/p/f2a499951066) |
+| Tue, 11 Nov 2025 08:09:27 GMT | Web Application Security Course with AI in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/455c7dfec2f3) |
+| Tue, 11 Nov 2025 08:02:11 GMT | Part VII — Vault Chronicles: My Experience | Raymon Epping | [Read More](https://medium.com/p/3448b2ae19a3) |
+| Tue, 11 Nov 2025 07:58:34 GMT | How We Measure The Efficiency of a Technical Team | Piyush Vishwakarma | [Read More](https://medium.com/p/393e6a018f01) |
+| Tue, 11 Nov 2025 07:51:11 GMT | Digital Cyber Forensics Investigation Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/394c6cfe653d) |
+| Tue, 11 Nov 2025 07:48:01 GMT | Why Ethical Hacking Should Be Taught in Schools ✨ | Saad Maqsood | [Read More](https://medium.com/p/06eece636355) |
+| Tue, 11 Nov 2025 07:40:57 GMT | 158 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/9d22b0796d82) |
+| Tue, 11 Nov 2025 07:39:58 GMT | My Journey to Obtaining the Pentest+ Certification | Mert Kurtulmuş | [Read More](https://medium.com/p/31cca71b9429) |
 | Tue, 11 Nov 2025 07:37:31 GMT | Why Small Businesses Should Care About Cybersecurity | Abioye Orimadegun | [Read More](https://medium.com/p/348eeb39b526) |
 | Tue, 11 Nov 2025 07:29:42 GMT | Why AI-Powered CCTV Monitoring Will Change Home Security | Global CCTV Monitoring Services | [Read More](https://medium.com/p/feb9a2fa553f) |
 | Tue, 11 Nov 2025 07:28:36 GMT | First Computer Worm That Destroyed Physical Machines: The Story of Stuxnet | Malsha Hansini | [Read More](https://medium.com/p/b88cc5538621) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 22:06:29 GMT | A Virus Disguised as an Antivirus: How Criminals Fake ESET Installers — and Why It’s Dangerous | 0trust0day | [Read More](https://medium.com/p/32c75e2adfa6) |
 | Mon, 10 Nov 2025 21:49:31 GMT | What Actually Can Make You Money from Writing in 2025? | Aliyu Ibrahim | [Read More](https://medium.com/p/d19d1ac0bf1c) |
 | Mon, 10 Nov 2025 21:42:09 GMT | Las 5 fases del Pentesting | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/85af1bc24fd0) |
-| Mon, 10 Nov 2025 21:35:48 GMT | The Courage of Being Vulnerable | Nish | [Read More](https://medium.com/p/83c99f0952e3) |
-| Mon, 10 Nov 2025 21:30:27 GMT | Why You Should Always Take Your Shot | xploiterr | [Read More](https://medium.com/p/8eadabce2cfc) |
-| Mon, 10 Nov 2025 21:22:02 GMT | How 250 Files Can Break ChatGPT — The Hidden Lesson Behind AI’s Fragile Secret | Felix Keuya | [Read More](https://medium.com/p/bb7bc49a939b) |
-| Mon, 10 Nov 2025 21:13:35 GMT | SQL Injection Fundamentals (new version) —  HackTheBox ACADEMY — Skill Assessment Walkthough | th3V0!D | [Read More](https://medium.com/p/39b819505f69) |
-| Mon, 10 Nov 2025 21:06:53 GMT | One Cookie to Steal Them All: A Story of IDOR | Parth Narula | [Read More](https://medium.com/p/f99870c3a683) |
-| Mon, 10 Nov 2025 21:02:56 GMT | PortSwigger: Business logic vulnerabilities LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/b5c04816e891) |
-| Mon, 10 Nov 2025 20:57:24 GMT | From Algorithms to Accountability: The Next Evolution of Secure AI | Mohit Garg | [Read More](https://medium.com/p/b942c0cc4d15) |
-| Mon, 10 Nov 2025 20:47:06 GMT | Babe, Are You Awake? We Need to Talk About Last Week | Blossom Ezekwe | [Read More](https://medium.com/p/fd72bcd1af4b) |
-| Mon, 10 Nov 2025 20:42:47 GMT | How to Secure Your Linux Server through Firewall - UFW & iptables Basics | Shahzaib | [Read More](https://medium.com/p/fee16f20febd) |
-| Mon, 10 Nov 2025 20:09:34 GMT | Kali Linux Temel Komutlar: Yetki Yönetimi ve “Sen Kimsin?” (chmod, chown, sudo) | Burak | [Read More](https://medium.com/p/0dda33ffdd4c) |
