@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 14:13:48 GMT | Cryptography Techniques: A Simple Guide | Dhruvjain | [Read More](https://medium.com/p/c1506cc9e2b3) |
+| Tue, 11 Nov 2025 14:13:20 GMT | How a Cyber Security Development Company Can Protect Your Brand Reputation. | Webtrills | [Read More](https://medium.com/p/104b03522d60) |
+| Tue, 11 Nov 2025 14:10:37 GMT | I analyzed a polymorphic VBS virus that hijacks file associations and it’s honestly brilliant (and… | Harsh Raj Singhania | [Read More](https://medium.com/p/6bad93ae5f98) |
+| Tue, 11 Nov 2025 14:10:01 GMT | Day 10: WebNet0 — PicoCTF | Siyam | [Read More](https://medium.com/p/3567b47c45d5) |
+| Tue, 11 Nov 2025 14:09:50 GMT | Protect Your Digital Assets with Nexasoft Infinity’s Cloud Security Solutions | Nexasoftinfinity | [Read More](https://medium.com/p/c605888b09ac) |
+| Tue, 11 Nov 2025 14:02:30 GMT | Tools, Trouble, and Trickery, Part 5 | OSINT Amy | [Read More](https://medium.com/p/90b448f37967) |
+| Tue, 11 Nov 2025 13:56:17 GMT | LockBit: The Ransomware Empire That Refused to Die | Gabriel Santos | [Read More](https://medium.com/p/a6ad886f480b) |
+| Tue, 11 Nov 2025 13:49:59 GMT | Protection through deception | ProjektID | [Read More](https://medium.com/p/dcb0378f7bcb) |
+| Tue, 11 Nov 2025 13:40:56 GMT | Beyond the “IT Guy”: Why Your Dallas Business Has Outgrown the Break-Fix Model | Ighty Support | [Read More](https://medium.com/p/4349e9553ee4) |
+| Tue, 11 Nov 2025 13:35:39 GMT | Introducing Cyber Cymru — Design. Security. Performance. Zero Compromises! | CYBER CYMRU | [Read More](https://medium.com/p/88bbd627b86a) |
+| Tue, 11 Nov 2025 13:35:33 GMT | Prólogo — O Colapso do Nodo | Kleber Andrade | [Read More](https://medium.com/p/b27bbaa4d7dc) |
+| Tue, 11 Nov 2025 13:30:52 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/25d40f7526ae) |
+| Tue, 11 Nov 2025 13:27:02 GMT | What It Feels Like to Be Mediocre | Dzovag Soghomonian | [Read More](https://medium.com/p/0cd3b9f9ee25) |
+| Tue, 11 Nov 2025 13:26:28 GMT | The State of the Art of Palm Payments | Kevin Morales | [Read More](https://medium.com/p/5adbadb5cfeb) |
+| Tue, 11 Nov 2025 13:26:09 GMT | Secure by Design: Building Safety into the DNA of Technology | Richard Ndung'u | [Read More](https://medium.com/p/a518b9227864) |
 | Tue, 11 Nov 2025 13:23:46 GMT | Security Simplified: What Zero Trust and IAM Mean for Your Business | Ujjawal Ghosh | [Read More](https://medium.com/p/9fdaf39c10d6) |
 | Tue, 11 Nov 2025 13:22:55 GMT | HTB — Web Requests Notlarım | Songül Kızılay | [Read More](https://medium.com/p/cafd6948bae2) |
 | Tue, 11 Nov 2025 13:19:02 GMT | The Ultimate Guide to Employee Scheduling, Conflict-Free Rosters, and FREE Payroll in Singapore | Dchinnari | [Read More](https://medium.com/p/b99aea0e87dc) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 08:59:23 GMT | NIS 2 for Non-EU Vendors: 60-Day Remediation Playbook | Pentest_Testing_Corp | [Read More](https://medium.com/p/38606bca925d) |
 | Tue, 11 Nov 2025 08:58:23 GMT | ประจำวันอังคารที่ 11 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/137e6a715089) |
 | Tue, 11 Nov 2025 08:56:03 GMT | What a 2025-Ready Security Operations Center Looks Like | Fook Hwa Tan | [Read More](https://medium.com/p/c553846a1e62) |
-| Tue, 11 Nov 2025 08:55:02 GMT | The Hidden Security Risks in Mergers and Acquisitions | Fook Hwa Tan | [Read More](https://medium.com/p/108e8e6f12f1) |
-| Tue, 11 Nov 2025 08:53:17 GMT | It’s Not About Tech Anymore — The New CISO Skillset | Fook Hwa Tan | [Read More](https://medium.com/p/22ddf53e1d80) |
-| Tue, 11 Nov 2025 08:47:34 GMT | Log Hunt — General Skills — picoCTF WriteUp | Nirgunah | [Read More](https://medium.com/p/b71dccaf1035) |
-| Tue, 11 Nov 2025 08:45:23 GMT | Exploring Donnacazzo69: A Bold and Engaging Online Platform | Charliwilson | [Read More](https://medium.com/p/10ff8723dac6) |
-| Tue, 11 Nov 2025 08:42:26 GMT | Getting Started With Windows Red Teaming | Redfox Security | [Read More](https://medium.com/p/379981c00b89) |
-| Tue, 11 Nov 2025 08:33:35 GMT | Catching Secrets Before They Leak — TruffleHog | Msaud | [Read More](https://medium.com/p/d1f5a111f300) |
-| Tue, 11 Nov 2025 08:30:09 GMT | From Legacy Chaos to Cloud Control: Rethinking Secure File Transfers for the Modern Enterprise | Prabhu Srivastava | [Read More](https://medium.com/p/fa65ad3bf8a1) |
-| Tue, 11 Nov 2025 08:29:20 GMT | The Convergence of Consciousness: What Happens When Computers Read Minds | David Kimani | [Read More](https://medium.com/p/d72a734540c5) |
-| Tue, 11 Nov 2025 08:17:43 GMT | Dark Web Threat Intelligence (DWTI) 101: How Hidden Data Powers Modern Cyber Defense | Matt Black | [Read More](https://medium.com/p/1c90dd893fa3) |
-| Tue, 11 Nov 2025 08:16:22 GMT | Behind the firewall: Engineering APIs for compliance and trust | Juhi Singh | [Read More](https://medium.com/p/8d863a0786c0) |
-| Tue, 11 Nov 2025 08:12:17 GMT | Full-Stack Development in 2025: Advanced Projects and Modern Tech Stacks | okot aaron | [Read More](https://medium.com/p/f2a499951066) |
-| Tue, 11 Nov 2025 08:09:27 GMT | Web Application Security Course with AI in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/455c7dfec2f3) |
-| Tue, 11 Nov 2025 08:02:11 GMT | Part VII — Vault Chronicles: My Experience | Raymon Epping | [Read More](https://medium.com/p/3448b2ae19a3) |
-| Tue, 11 Nov 2025 07:58:34 GMT | How We Measure The Efficiency of a Technical Team | Piyush Vishwakarma | [Read More](https://medium.com/p/393e6a018f01) |
-| Tue, 11 Nov 2025 07:51:11 GMT | Digital Cyber Forensics Investigation Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/394c6cfe653d) |
