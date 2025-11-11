@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 22:14:16 GMT | HackGPTs: Teaching AI to Think Like a Pentester | Twinkle Jaineera | [Read More](https://medium.com/p/730c2de0b7fe) |
+| Tue, 11 Nov 2025 21:59:04 GMT | Three Weeks in Solitude: Revealing the Truth of God’s Love | Joanne Miller | [Read More](https://medium.com/p/27a528ae047a) |
+| Tue, 11 Nov 2025 21:54:12 GMT | Abusing Sudo Rights on NeedRestart for Escalation | Aniket Das | [Read More](https://medium.com/p/d1307c2af12f) |
+| Tue, 11 Nov 2025 21:47:39 GMT | Donut Shellcode Execution Evading Windows Defender | S12 - 0x12Dark Development | [Read More](https://medium.com/p/bf63b5a84576) |
 | Tue, 11 Nov 2025 21:25:39 GMT | Artificial - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/e4893f73c0e2) |
 | Tue, 11 Nov 2025 21:25:18 GMT | Planning - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/1aeed29d81bc) |
 | Tue, 11 Nov 2025 21:25:06 GMT | LetsDefend — Disclose The Agent | Javier | [Read More](https://medium.com/p/43dc3d8285c0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 16:14:24 GMT | HTB CTF Shush Protocol (ICS) | Arka Priya Das | [Read More](https://medium.com/p/588845f64a83) |
 | Tue, 11 Nov 2025 16:13:51 GMT | The Delhi Blast: Unraveling India’s Resurgent Terror Threat | Shashwata Bhattacharjee | [Read More](https://medium.com/p/1ceed40401db) |
 | Tue, 11 Nov 2025 16:11:04 GMT | Close but no cigar | Kevin | [Read More](https://medium.com/p/768f4d2e90bd) |
-| Tue, 11 Nov 2025 16:10:16 GMT | Tired of the “Log on to Microsoft Exchange Has Failed” Error in Outlook? Here’s How to Fix It. | Ashe Sule | [Read More](https://medium.com/p/040acea66187) |
-| Tue, 11 Nov 2025 16:02:55 GMT | The ThreatSpike Story: Reimagining Cybersecurity for a connected World | Barry Ritchie | [Read More](https://medium.com/p/39318b185b52) |
-| Tue, 11 Nov 2025 15:58:27 GMT | Fluffy — HTB Writeups | Alts | [Read More](https://medium.com/p/2cc66d335e26) |
-| Tue, 11 Nov 2025 15:56:56 GMT | El Caminho y La Rata: A Technical Analysis of a Caminho Loader to DcRat Infection Chain | Mato | [Read More](https://medium.com/p/0de830877f91) |
