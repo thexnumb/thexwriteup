@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 11:17:20 GMT | June 2025 Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/bae9d1a78789) |
+| Tue, 11 Nov 2025 11:07:13 GMT | Shells Overview — Writeup | Mahir | [Read More](https://medium.com/p/83d9626869d6) |
+| Tue, 11 Nov 2025 11:05:47 GMT | What is Authentication? | Rafael Mammadov | [Read More](https://medium.com/p/3bc51b5caa96) |
+| Tue, 11 Nov 2025 11:04:11 GMT | Dina Vulnhub Room: A Step-by-Step Walkthrough | Hanish | [Read More](https://medium.com/p/704189a31371) |
+| Tue, 11 Nov 2025 11:01:13 GMT | Ethical Hacker in India – SAIRAM founded the official chapter of DEF CON Madurai in Tamil Nadu | DEF CON MADURAI | [Read More](https://medium.com/p/a814f0f8ac88) |
+| Tue, 11 Nov 2025 11:01:07 GMT | Qilin Ransomware Group: The Dark Web’s Most Dangerous Ransomware Franchise | Motasem Hamdan | [Read More](https://medium.com/p/9f9abd3c4e08) |
+| Tue, 11 Nov 2025 10:52:04 GMT | Ethical Hacking Course Online in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/5506287f8cf6) |
+| Tue, 11 Nov 2025 10:50:31 GMT | How to Build a Culture of Compliance in Your Organization | Digital Defense | [Read More](https://medium.com/p/b0bac223c2bc) |
+| Tue, 11 Nov 2025 10:47:19 GMT | SEO Company in Utah — Driving Digital Growth with Proven Strategies | Hary Battler | [Read More](https://medium.com/p/436f97c16355) |
 | Tue, 11 Nov 2025 10:36:11 GMT | Genuine Windows Software in India with Offer | Om Prakash | [Read More](https://medium.com/p/c815b232fc19) |
 | Tue, 11 Nov 2025 10:34:14 GMT | From LNK to PureLog Stealer | h3xstone | [Read More](https://medium.com/p/830bb58547e8) |
 | Tue, 11 Nov 2025 10:34:12 GMT | Strengthening UK Supply Chains: Essential Cybersecurity Strategies for SMEs to Safeguard Operations… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/dd1014d25207) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 04:53:21 GMT | Master the Art of Ethical Defense — Certified Ethical Hacking Foundation | Adhiraj Kasabe | [Read More](https://medium.com/p/e0e7a088596f) |
 | Tue, 11 Nov 2025 04:48:05 GMT | Mobile App Security in 2025: How to Protect Data in the AI Era | Xaylonlabs | [Read More](https://medium.com/p/2e5132e34ccc) |
 | Tue, 11 Nov 2025 04:43:49 GMT | Here’s How You Get Easily Hacked and Why It Never Shows | Sam Writes Security | [Read More](https://medium.com/p/c2e2953dad76) |
-| Tue, 11 Nov 2025 04:39:33 GMT | From Handshake to Token: How TLS, Encryption, and JWTs Secure the Modern Web | Nirupama G R | [Read More](https://medium.com/p/00e4bc5e5f01) |
-| Tue, 11 Nov 2025 04:29:00 GMT | Think Your Password Is Strong? Hackers Would Disagree. | Feraidon A Rahimzai | [Read More](https://medium.com/p/879de9391486) |
-| Tue, 11 Nov 2025 04:20:50 GMT | If I Let You In | Andrew Miller | [Read More](https://medium.com/p/3fd308b0d03c) |
-| Tue, 11 Nov 2025 04:18:02 GMT | From Zero to Local AI in 10 Minutes With Ollama + Python | Parthiban Rajasekaran | [Read More](https://medium.com/p/a2024e22f157) |
-| Tue, 11 Nov 2025 04:13:36 GMT | “AI + Cybersecurity: The Most Underrated Certification Combo for 2026” | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/f20c96ba21a8) |
-| Tue, 11 Nov 2025 04:05:50 GMT | 5 Things to Do If Ransomware Hits Your Business in Singapore | Steven Chin | [Read More](https://medium.com/p/244e95edaf1e) |
-| Tue, 11 Nov 2025 03:55:37 GMT | Empowering Small Businesses: Transforming Technology into a Power Tool | Steven Chin | [Read More](https://medium.com/p/ab34778dd86e) |
-| Tue, 11 Nov 2025 03:53:07 GMT | Enhancing Rule-Based Detection Using Recurrent Neural Networks | Ahmed Sobhi Ali | [Read More](https://medium.com/p/1466061a718e) |
-| Tue, 11 Nov 2025 03:51:49 GMT | Fingerprint Browser: A Comprehensive Guide | 007TG | [Read More](https://medium.com/p/18de1deec8fb) |
