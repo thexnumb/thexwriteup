@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 18:21:29 GMT | From Dental Tools to Digital Defenses: My Journey into Cybersecurity | fromdentaltocyber | [Read More](https://medium.com/p/82f649e48040) |
+| Tue, 11 Nov 2025 18:04:44 GMT | The 0-Click Account Takeover Using Punycode IDN Attacks | Syed Shahwar | [Read More](https://medium.com/p/ac20c4eb05c8) |
+| Tue, 11 Nov 2025 18:01:57 GMT | PicoCTF Writeup: Python Wrangling | SoBatista | [Read More](https://medium.com/p/bf2e65fa9f69) |
+| Tue, 11 Nov 2025 18:01:49 GMT | Captain DevOps vs Guardian SecOps: The Adventure of DevSecOps | Gopi Sri | [Read More](https://medium.com/p/59b1d3494d16) |
+| Tue, 11 Nov 2025 18:00:00 GMT | The Curious Case of the Wandering URL (SSRF Discovery) | Cyberbald007 | [Read More](https://medium.com/p/a3cdf9ff53d7) |
+| Tue, 11 Nov 2025 17:59:34 GMT | SOC Investigation — SQL Injection + XSS + Command Execution (EventID: SOC127) | Syed Mohd Hassan | [Read More](https://medium.com/p/b38f9272add4) |
+| Tue, 11 Nov 2025 17:58:00 GMT | Hole I part I: Rust RCE! Logic Bugs Break the “Memory-Safe = bulletproof” Myth | Rogercastefdez | [Read More](https://medium.com/p/cb0e3494c50d) |
+| Tue, 11 Nov 2025 17:57:39 GMT | Hellcat Ransomware Explained: Attacks, Actors, and the Dox That Shook Them | Vardhan Gss | [Read More](https://medium.com/p/7ba76726e088) |
+| Tue, 11 Nov 2025 17:56:35 GMT | Brand Trust is Failing, Now What? | Robert Wheatley | [Read More](https://medium.com/p/1085f7795f46) |
+| Tue, 11 Nov 2025 17:55:38 GMT | The Subtle Art of Handling Passwords Right :) | Aman Arora | [Read More](https://medium.com/p/9f1a7f74f9fb) |
+| Tue, 11 Nov 2025 17:48:06 GMT | Networking: The First and Most Important Step in Cybersecurity | Manya Tyagi | [Read More](https://medium.com/p/44011a3e02b7) |
+| Tue, 11 Nov 2025 17:39:17 GMT | DOM XSS in document.write sink inside a select element — Cross-site Scripting Lab 10 | Zeyad Naguib | [Read More](https://medium.com/p/b83de89b0cf5) |
+| Tue, 11 Nov 2025 17:38:03 GMT | BMC: A distributed IoT C2 architecture based on Bluetooth MAC address detection nodes, capable of… | Мартин. | [Read More](https://medium.com/p/b0bc9b670243) |
 | Tue, 11 Nov 2025 17:35:22 GMT | Running Out of Data: How Synthetic Data is Saving the Future of AI | Grenish Rai | [Read More](https://medium.com/p/c7ef0332e728) |
 | Tue, 11 Nov 2025 17:34:06 GMT | Responsible Recon: how to find bug-bounty and disclosure pages (ethically) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/6b49a30eeaf6) |
 | Tue, 11 Nov 2025 17:31:37 GMT | D-link: D-link is a lightweight Linux file synchronization tool written in C++ | Мартин. | [Read More](https://medium.com/p/516999f6644f) |
@@ -54,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 15:56:20 GMT | Why Traditional Antivirus Isn’t Enough in 2025 — and What to Do About It | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/9e6fa3731673) |
 | Tue, 11 Nov 2025 15:48:24 GMT | Smarter Real Estate Decisions with Block-Level Environmental Hazard Analytics and Public Safety… | Crime Risk AI | [Read More](https://medium.com/p/d7da875bf769) |
 | Tue, 11 Nov 2025 15:48:24 GMT | Typhoon by Consent: Quiet, Durable, Everywhere | Wes Young | [Read More](https://medium.com/p/cabbbe7a1746) |
+| Tue, 11 Nov 2025 15:46:35 GMT | Arquitectura de Seguridad Avanzada (FastAPI + Keycloak + Vault) | Gorkazar | [Read More](https://medium.com/p/52fa41cd3501) |
 | Tue, 11 Nov 2025 15:41:56 GMT | Frustrated by “Permission Denied”? Here’s What Linux Is Trying to Tell You | Sukanthi R | [Read More](https://medium.com/p/c3e7faa89359) |
 | Tue, 11 Nov 2025 15:38:40 GMT | “The Mask That Smiles: How Rejection Creates Performers, Not People” | Mr. Zaffi Awan. | [Read More](https://medium.com/p/fe06d2263a39) |
 | Tue, 11 Nov 2025 15:35:27 GMT | The macOS Process Journey — countryd (Country Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/354c9c6b8290) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 13:26:28 GMT | The State of the Art of Palm Payments | Kevin Morales | [Read More](https://medium.com/p/5adbadb5cfeb) |
 | Tue, 11 Nov 2025 13:26:09 GMT | Secure by Design: Building Safety into the DNA of Technology | Richard Ndung'u | [Read More](https://medium.com/p/a518b9227864) |
 | Tue, 11 Nov 2025 13:23:46 GMT | Security Simplified: What Zero Trust and IAM Mean for Your Business | Ujjawal Ghosh | [Read More](https://medium.com/p/9fdaf39c10d6) |
-| Tue, 11 Nov 2025 13:22:55 GMT | HTB — Web Requests Notlarım | Songül Kızılay | [Read More](https://medium.com/p/cafd6948bae2) |
-| Tue, 11 Nov 2025 13:19:02 GMT | The Ultimate Guide to Employee Scheduling, Conflict-Free Rosters, and FREE Payroll in Singapore | Dchinnari | [Read More](https://medium.com/p/b99aea0e87dc) |
-| Tue, 11 Nov 2025 13:12:06 GMT | Three positive tipping points | Erik Kvam | [Read More](https://medium.com/p/278a3ec3b1c7) |
-| Tue, 11 Nov 2025 13:12:02 GMT | Malware Learned to Think: Living in the Age of Self-Rewriting Code | Pooja Kashyap | [Read More](https://medium.com/p/24f88bb33919) |
-| Tue, 11 Nov 2025 13:10:13 GMT | ⚡ Flash USDT on Coinbase Wallet — What Those *.z Coins Really Mean (and Why That’s Useful) | Crypto Savvy | [Read More](https://medium.com/p/9100d5265dec) |
-| Tue, 11 Nov 2025 13:08:46 GMT | Enhancing Security Posture with Cyber Maturity Assessment | Vishwajeettechtech | [Read More](https://medium.com/p/60bed776564b) |
-| Tue, 11 Nov 2025 13:06:02 GMT | 11 Ways to Ensure Financial Security for Early Retirement (FIRE) | Connie C | [Read More](https://medium.com/p/abe531b22cb4) |
-| Tue, 11 Nov 2025 13:05:02 GMT | The First Biometric Failure in History: How Jacob Outsmarted the System | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/8ad4f0baf84e) |
-| Tue, 11 Nov 2025 13:01:58 GMT | ️ Automating CVE Scanning in CI/CD: Make Your Builds Fail for the Right Reasons | Cássius Paim | [Read More](https://medium.com/p/8bd534f95473) |
-| Tue, 11 Nov 2025 12:57:37 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/3e413f6a4304) |
-| Tue, 11 Nov 2025 12:57:14 GMT | Firebase Authentication: The Unsung Hero of Modern App Security (and Why You’ll Cry Without It) | Akhshy Ganesh | [Read More](https://medium.com/p/ae2b83cd0034) |
-| Tue, 11 Nov 2025 12:54:20 GMT | How Supply Chain Vulnerabilities Put Healthcare Data at Risk | David Miller | [Read More](https://medium.com/p/44dda2de6eac) |
-| Tue, 11 Nov 2025 12:50:25 GMT | Why AUKUS Just Made AI Governance a Board-Level Priority | AXSAS | [Read More](https://medium.com/p/6928c69b5cfe) |
-| Tue, 11 Nov 2025 12:42:02 GMT | Lost Your Phone? How to Recover Your 2FA Codes and Avoid Being Locked Out | Anushka | [Read More](https://medium.com/p/7e3cd53ba276) |
