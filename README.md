@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 06:32:59 GMT | Stop! Don’t Upload This Data to AI Tools | Amol Rangari | [Read More](https://medium.com/p/7ab2f4fdb247) |
+| Tue, 11 Nov 2025 06:12:02 GMT | How I Traced Hidden Network Calls Using ProcDOT and Wireshark: A Product Security Deep Dive | Ashhadali | [Read More](https://medium.com/p/4d263cb877bf) |
+| Tue, 11 Nov 2025 06:11:46 GMT | She’s hiding under the coffee table | Diana Ayrapetyan | [Read More](https://medium.com/p/3a04572ba3a0) |
+| Tue, 11 Nov 2025 05:54:41 GMT | Your Simple Guide to Staying Safe from Online Scams | Md.Asaad S. | [Read More](https://medium.com/p/cb7fc0d12941) |
+| Tue, 11 Nov 2025 05:51:15 GMT | The Biggest Mistake Marketers Make: Selling Products Instead of Selling Progress | Vijay Kumar Gupta | [Read More](https://medium.com/p/ebd644afef06) |
+| Tue, 11 Nov 2025 05:51:09 GMT | Cyber Risk Quantification: Why the Worst-Case Scenario Matters More Than the Perfect Formula | Nadia Helmina | [Read More](https://medium.com/p/dcdabd827c72) |
+| Tue, 11 Nov 2025 05:47:02 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/2a53948d2d98) |
 | Tue, 11 Nov 2025 05:36:55 GMT | Learning Fortinet Firewall — LESSON XX: How to Join a Host to a Domain (Windows 7/10) (Part 4) | Rouell Mamaril | [Read More](https://medium.com/p/fbdfdb02125a) |
 | Tue, 11 Nov 2025 05:09:59 GMT | API Mass Assignment Explained | Jei Ess | [Read More](https://medium.com/p/e16c27088d6f) |
 | Tue, 11 Nov 2025 05:08:12 GMT | Tornado.Cash Team Hacks Itself to Fix Critical Vulnerability | idcyrpt | [Read More](https://medium.com/p/b0872cc5f243) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 18:20:50 GMT | The 20 Best Security Tips for Data Protection in 2025 | John Muconto | [Read More](https://medium.com/p/e04c6b7853c9) |
 | Mon, 10 Nov 2025 18:18:32 GMT | The “Secure Yes” Methodology | Fabien Soulis | [Read More](https://medium.com/p/4be6824b9648) |
 | Mon, 10 Nov 2025 18:14:51 GMT | These Social Media Apps Secretly Track Your Location | Len Noe | [Read More](https://medium.com/p/92b9c4cd5288) |
-| Mon, 10 Nov 2025 18:05:31 GMT | Turning Setbacks into Stepping Stones: The Vulnerable Leader’s Mindset | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/e2ead7a1bcc4) |
-| Mon, 10 Nov 2025 18:04:46 GMT | Taken down? Medium blog platform error? | Berend Watchus | [Read More](https://medium.com/p/d75cbd2e164a) |
-| Mon, 10 Nov 2025 18:04:27 GMT | My SSL Expired for Just One Day | satyaranjan bal | [Read More](https://medium.com/p/dc72ba1606fc) |
-| Mon, 10 Nov 2025 17:58:41 GMT | 10 Black Friday Scams to Watch Out For and How to Stay Safe | Chetan Seripally | [Read More](https://medium.com/p/54ec7acee0e2) |
-| Mon, 10 Nov 2025 17:53:23 GMT | The Collapse of Certainty. | Samra Ilyas | [Read More](https://medium.com/p/fc2f1ebde8ed) |
-| Mon, 10 Nov 2025 17:20:45 GMT | China-Linked Hackers Exploit Windows Shortcut Vulnerability to Target European Diplomats | SCtoCS | [Read More](https://medium.com/p/f7577476a51a) |
-| Mon, 10 Nov 2025 17:20:15 GMT | China-Linked Tick APT Exploits Lanscope Zero-Day to Compromise Corporate Networks | SCtoCS | [Read More](https://medium.com/p/cfd54e0d8a35) |
