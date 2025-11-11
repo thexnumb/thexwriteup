@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 20:32:01 GMT | 7 Hard Security Wins Rust Guarantees — And 9 Traps It Won’t Save You From | Noah Byteforge | [Read More](https://medium.com/p/6d2677436e0a) |
+| Tue, 11 Nov 2025 20:31:24 GMT | Ever shared files through messy email threads — and lost track halfway? | Jane Brian | [Read More](https://medium.com/p/042a977f5ba5) |
+| Tue, 11 Nov 2025 20:27:43 GMT | India’s Quiet Economic Revolution: How GCCs and Oil Rescued our Current Account | Alan Shore | [Read More](https://medium.com/p/449bb327d802) |
+| Tue, 11 Nov 2025 20:24:04 GMT | What Privacy Really Means, and How Arcium Is Building an Encrypted Internet. | Sucrecrypt | [Read More](https://medium.com/p/dae45219d076) |
+| Tue, 11 Nov 2025 20:21:54 GMT | As a Software engineer how to Prevent credentials leaks in git | fathy elshemy | [Read More](https://medium.com/p/fd5c56ebbf53) |
 | Tue, 11 Nov 2025 20:15:46 GMT | SentinelOne Series: The SSO Workaround You’ll Actually Thank Me For | Dean | [Read More](https://medium.com/p/178b44a2e210) |
 | Tue, 11 Nov 2025 20:15:00 GMT | Pakistan’s 15-Year Derailment: A Nation Engineered Into Perpetual Crisis | Danish Thanvi | [Read More](https://medium.com/p/8a7dd49d5e6b) |
 | Tue, 11 Nov 2025 20:10:54 GMT | Event Security: Why Professional Security Services Are Essential for a Safe & Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/c592ce19a4f3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 15:11:35 GMT | Grounding Generative AI in Reality: How RAG Prevents Hallucinations in Large Language Models | Robin Kester - Please Don’t Feed the Unicorn | [Read More](https://medium.com/p/99962ba98fbf) |
 | Tue, 11 Nov 2025 15:10:06 GMT | 45 Days of Cybersecurity Days 1–3: Foundations & First Hacking Labs | Wandesrtech | [Read More](https://medium.com/p/eb8f50f0af10) |
 | Tue, 11 Nov 2025 15:09:50 GMT | Why Zero Trust Fits NuVĭsum Architecture by Design | NuVisum | [Read More](https://medium.com/p/9a4fc175e188) |
-| Tue, 11 Nov 2025 15:06:32 GMT | The Ultimate Guide to Cybersecurity Compliance Consulting | Defend My Business | [Read More](https://medium.com/p/b0dbce086d82) |
-| Tue, 11 Nov 2025 15:03:39 GMT | Cyber Briefing: 2025.11.11 | CyberMaterial | [Read More](https://medium.com/p/f283757de5d7) |
-| Tue, 11 Nov 2025 15:01:11 GMT | Telegram Exploited: “Fantasy Hub” Android Trojan Turns App Into Hacker Marketplace | Himanshu Bhatt | [Read More](https://medium.com/p/bff949a3cdea) |
-| Tue, 11 Nov 2025 14:57:54 GMT | Master Cloud, System & Network Support: Your Fast-Track IT Job Ready Program in Sydney | Nishesgrg | [Read More](https://medium.com/p/b1789d1aa429) |
-| Tue, 11 Nov 2025 14:56:14 GMT | SQLMap: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/31d752c37840) |
