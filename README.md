@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 17:14:52 GMT | The 5 Hidden Systems That Make AI Feel “ Alive ” in 2025 | Aditya Suryawanshi | [Read More](https://medium.com/p/2ce9f174c8fe) |
+| Tue, 11 Nov 2025 17:10:25 GMT | How AI Will Change The Way GRC Is Done | Taimur Ijlal | [Read More](https://medium.com/p/d604df9a09ea) |
+| Tue, 11 Nov 2025 17:03:34 GMT | Reading the Internet’s Body Language: My First Step into Cybersecurity | Jim Columbus | [Read More](https://medium.com/p/97c62200a773) |
+| Tue, 11 Nov 2025 17:02:27 GMT | OSINT: From Basics to Advanced and Crazy Insights | Ghostx | [Read More](https://medium.com/p/60f5edce18a4) |
+| Tue, 11 Nov 2025 17:02:18 GMT | Beginner’s Guide to Cybersecurity Careers: What I Learned from TryHackMe | Manya Tyagi | [Read More](https://medium.com/p/8220b2b70236) |
+| Tue, 11 Nov 2025 17:02:01 GMT | The Fear of Being Seen: Why We Hide Our Brilliance | Diman HPA | [Read More](https://medium.com/p/5fe5b474e5b2) |
+| Tue, 11 Nov 2025 17:02:00 GMT | Couch Complete tryhackme walkthroughs | Mainekhacker | [Read More](https://medium.com/p/311bce6d2159) |
+| Tue, 11 Nov 2025 16:59:26 GMT | 5 Practical Kali Linux Projects Every Cybersecurity Student Should Try (2025 Edition) | Abu bakar | [Read More](https://medium.com/p/64135184b172) |
+| Tue, 11 Nov 2025 16:56:22 GMT | What an almost 70M-Device Telecom Network Taught Us About Modern Threat Detection - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/101c887bcb06) |
+| Tue, 11 Nov 2025 16:55:36 GMT | Python : Multi Keys Dan Nesting Dictionary | Cahyoadi | [Read More](https://medium.com/p/8b14c8d25456) |
+| Tue, 11 Nov 2025 16:47:56 GMT | Why Your AI Is Bad (And How to Fix It With Context Engineering) | ToxSec | [Read More](https://medium.com/p/5b2e3bc7bb70) |
+| Tue, 11 Nov 2025 16:46:39 GMT | SOC 2 Compliance Requirements — 2025 Overview | Tamzid Ahmed | [Read More](https://medium.com/p/642fe58f40a1) |
 | Tue, 11 Nov 2025 16:43:14 GMT | Beyond Google: Navigating the Hidden Internet with Shodan and Censys | Little_Sun4lower | [Read More](https://medium.com/p/2cf5015f1b57) |
 | Tue, 11 Nov 2025 16:42:58 GMT | North Korean Hackers Exploit Google Find Hub to Remotely Wipe Android Devices in Sophisticated… | Technijian | [Read More](https://medium.com/p/10ccb4757dc6) |
 | Tue, 11 Nov 2025 16:38:38 GMT | The Hidden Risk Inside Your Router: What the U.S. Crackdown on TP-Link Reveals | Abatis ABTU | [Read More](https://medium.com/p/09c4808798e2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 12:21:04 GMT | VPN vs VLAN: Which One Is the Better Fit for Your Network? | Awais Khan | [Read More](https://medium.com/p/a596eb62d184) |
 | Tue, 11 Nov 2025 12:14:32 GMT | The CIA Triad: The Foundation of Cybersecurity | _gaurang06_ | [Read More](https://medium.com/p/1ef478666eca) |
 | Tue, 11 Nov 2025 12:14:24 GMT | DevSecOps in Action: Integrating Security into CI/CD with AWS, Azure, GCP, and Kubernetes | James Jelki | [Read More](https://medium.com/p/e2b1b0ad8dc9) |
-| Tue, 11 Nov 2025 12:06:02 GMT | The Trust Dividend: Why Transparent Tech Builds Brand Resilience | Tyson Martin | [Read More](https://medium.com/p/cb4e5248327f) |
-| Tue, 11 Nov 2025 12:01:10 GMT | Stored XSS into anchor href attribute with double quotes HTML-encoded — Cross-site scripting Lab 8 | Zeyad Naguib | [Read More](https://medium.com/p/25bc419b611d) |
-| Tue, 11 Nov 2025 12:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Nov 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/456abc46342d) |
-| Tue, 11 Nov 2025 11:58:46 GMT | Security by 5D, 5S’in konseptinden daha gelişmiş bir yapı sunuyor | Gizem Şahin | [Read More](https://medium.com/p/3c0981d450f4) |
-| Tue, 11 Nov 2025 11:57:42 GMT | How to Identify and Mitigate Digital Threats in Aid Work | Indepth Research Institute (IRES) | [Read More](https://medium.com/p/90d84a528e06) |
-| Tue, 11 Nov 2025 11:46:48 GMT | An interesting duplicate: open redirect I found while bug hunting | Diman | [Read More](https://medium.com/p/456ee30723b8) |
-| Tue, 11 Nov 2025 11:46:45 GMT | What is a Malware Sandbox? Everything SOC Analysts and CISOs Need to Know | ANY.RUN | [Read More](https://medium.com/p/cab5a361ba1f) |
-| Tue, 11 Nov 2025 11:46:09 GMT | When Patches Fail: An Analysis of Patch Bypass and Incomplete Security | Netlas.io | [Read More](https://medium.com/p/828392ffd86d) |
-| Tue, 11 Nov 2025 11:35:24 GMT | How IT Teams Save 100+ Hours with Automated GRC Software | SecureSlate | [Read More](https://medium.com/p/7a46a654954f) |
-| Tue, 11 Nov 2025 11:33:50 GMT | Advanced WordPress Security Techniques to Keep Your Site Secure | InCreativeWeb | [Read More](https://medium.com/p/bcae3fcf87c0) |
-| Tue, 11 Nov 2025 11:32:19 GMT | That text you just got? It could cost you everything. | Ashe Sule | [Read More](https://medium.com/p/c7b090c00ea3) |
-| Tue, 11 Nov 2025 11:30:35 GMT | Bug Bounty Hunting — Complete Guide (Part-140) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0944b1616a29) |
