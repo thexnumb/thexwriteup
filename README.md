@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 12:42:02 GMT | Lost Your Phone? How to Recover Your 2FA Codes and Avoid Being Locked Out | Anushka | [Read More](https://medium.com/p/7e3cd53ba276) |
+| Tue, 11 Nov 2025 12:38:13 GMT | KeePass2 Nedir? Güvenli Şifre Yöneticisi Rehberi (Kurulum + Kullanım) | KursatOzdemir | [Read More](https://medium.com/p/31fec694912b) |
+| Tue, 11 Nov 2025 12:33:23 GMT | CyberDefenders — ShadowRoast Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/818508003370) |
+| Tue, 11 Nov 2025 12:30:11 GMT | Best Practices for SOAR Technical Enhancements | NetWitness | [Read More](https://medium.com/p/7f59de1438cc) |
+| Tue, 11 Nov 2025 12:25:39 GMT | The Importance of Disaster Recovery in Cloud Computing: Ensuring Business Continuity | Techridge Solutions | [Read More](https://medium.com/p/07c1309e2f32) |
+| Tue, 11 Nov 2025 12:24:55 GMT | How to Host a Custom Domain for Your Medium Blog | Karthick Dk | [Read More](https://medium.com/p/278e59cd5d4d) |
+| Tue, 11 Nov 2025 12:21:04 GMT | VPN vs VLAN: Which One Is the Better Fit for Your Network? | Awais Khan | [Read More](https://medium.com/p/a596eb62d184) |
+| Tue, 11 Nov 2025 12:14:32 GMT | The CIA Triad: The Foundation of Cybersecurity | _gaurang06_ | [Read More](https://medium.com/p/1ef478666eca) |
+| Tue, 11 Nov 2025 12:14:24 GMT | DevSecOps in Action: Integrating Security into CI/CD with AWS, Azure, GCP, and Kubernetes | James Jelki | [Read More](https://medium.com/p/e2b1b0ad8dc9) |
+| Tue, 11 Nov 2025 12:06:02 GMT | The Trust Dividend: Why Transparent Tech Builds Brand Resilience | Tyson Martin | [Read More](https://medium.com/p/cb4e5248327f) |
+| Tue, 11 Nov 2025 12:01:10 GMT | Stored XSS into anchor href attribute with double quotes HTML-encoded — Cross-site scripting Lab 8 | Zeyad Naguib | [Read More](https://medium.com/p/25bc419b611d) |
+| Tue, 11 Nov 2025 12:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Nov 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/456abc46342d) |
+| Tue, 11 Nov 2025 11:58:46 GMT | Security by 5D, 5S’in konseptinden daha gelişmiş bir yapı sunuyor | Gizem Şahin | [Read More](https://medium.com/p/3c0981d450f4) |
+| Tue, 11 Nov 2025 11:57:42 GMT | How to Identify and Mitigate Digital Threats in Aid Work | Indepth Research Institute (IRES) | [Read More](https://medium.com/p/90d84a528e06) |
+| Tue, 11 Nov 2025 11:46:48 GMT | An interesting duplicate: open redirect I found while bug hunting | Diman | [Read More](https://medium.com/p/456ee30723b8) |
+| Tue, 11 Nov 2025 11:46:45 GMT | What is a Malware Sandbox? Everything SOC Analysts and CISOs Need to Know | ANY.RUN | [Read More](https://medium.com/p/cab5a361ba1f) |
+| Tue, 11 Nov 2025 11:46:09 GMT | When Patches Fail: An Analysis of Patch Bypass and Incomplete Security | Netlas.io | [Read More](https://medium.com/p/828392ffd86d) |
 | Tue, 11 Nov 2025 11:35:24 GMT | How IT Teams Save 100+ Hours with Automated GRC Software | SecureSlate | [Read More](https://medium.com/p/7a46a654954f) |
 | Tue, 11 Nov 2025 11:33:50 GMT | Advanced WordPress Security Techniques to Keep Your Site Secure | InCreativeWeb | [Read More](https://medium.com/p/bcae3fcf87c0) |
 | Tue, 11 Nov 2025 11:32:19 GMT | That text you just got? It could cost you everything. | Ashe Sule | [Read More](https://medium.com/p/c7b090c00ea3) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 07:04:40 GMT | Ensuring Safety and Trust: The Growing Demand for Professional Security Services in India | Smartfish Designs | [Read More](https://medium.com/p/a33f29599378) |
 | Tue, 11 Nov 2025 07:04:18 GMT | Hacking the Damn Vulnerable RESTaurant: A Journey from Customer to Root | appsecwarrior | [Read More](https://medium.com/p/756caa1adf56) |
 | Tue, 11 Nov 2025 06:53:08 GMT | My first challenge in HTB : Brutus Walkthrough. HackTheBox | Lintu Oommen | [Read More](https://medium.com/p/4316ea18dabf) |
-| Tue, 11 Nov 2025 06:48:36 GMT | Simple Virus Removal and Protection Guide for Windows Users | Ask IT Support | [Read More](https://medium.com/p/60a88a99771c) |
-| Tue, 11 Nov 2025 06:45:43 GMT | From Military Missions to Outdoor Adventures: The Versatility of PVS7 Night Vision | Night Vision 4 Less | [Read More](https://medium.com/p/f934430a4d8e) |
-| Tue, 11 Nov 2025 06:45:09 GMT | The Agent’s Memory: Your AI Assistant Will Know Everything About You. Are You Ready for That? | Nowyouknow | [Read More](https://medium.com/p/add9b1d8224c) |
-| Tue, 11 Nov 2025 06:41:38 GMT | Why European SMEs Can’t Afford to Ignore NIS2 — and What to Do No | Jeffery | [Read More](https://medium.com/p/4e1828f0d28a) |
-| Tue, 11 Nov 2025 06:41:32 GMT | The Evolution of DDoS Mitigation Technologies: Building a Stronger Cyber Defense Framework | Gargiben | [Read More](https://medium.com/p/c50c88b97472) |
-| Tue, 11 Nov 2025 06:41:00 GMT | The Daily Tech Digest: 11 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9ffe08342237) |
-| Tue, 11 Nov 2025 06:36:50 GMT | CISM Certification Training A Simple Step-by-Step Guide to Get Certified | Edglobalacademy | [Read More](https://medium.com/p/2f1ab5c9eedc) |
-| Tue, 11 Nov 2025 06:35:47 GMT | Data Protection & Privacy in 2025: Why Businesses Can’t Afford to Ignore It | Devarshi Acharya | [Read More](https://medium.com/p/3dc9251a21d6) |
-| Tue, 11 Nov 2025 06:35:17 GMT | The Rise of Cybersecurity Awareness: Protecting Yourself in the Digital Age | Maxatlasofficial | [Read More](https://medium.com/p/2a0f62ba2ef8) |
-| Tue, 11 Nov 2025 06:32:59 GMT | Stop! Don’t Upload This Data to AI Tools | Amol Rangari | [Read More](https://medium.com/p/7ab2f4fdb247) |
-| Tue, 11 Nov 2025 06:32:38 GMT | Secrets to Hiring a Reliable Commercial Fence Contractor | Ifanbelajariklan | [Read More](https://medium.com/p/5f14a2ad4714) |
-| Tue, 11 Nov 2025 06:31:07 GMT | How AI-Powered MDR Accelerates Incident Response and Efficiency | bitsIO | [Read More](https://medium.com/p/6d5a6e66f443) |
-| Tue, 11 Nov 2025 06:12:02 GMT | How I Traced Hidden Network Calls Using ProcDOT and Wireshark: A Product Security Deep Dive | Ashhadali | [Read More](https://medium.com/p/4d263cb877bf) |
-| Tue, 11 Nov 2025 06:11:46 GMT | She’s hiding under the coffee table | Diana Ayrapetyan | [Read More](https://medium.com/p/3a04572ba3a0) |
-| Tue, 11 Nov 2025 05:54:41 GMT | Your Simple Guide to Staying Safe from Online Scams | Md.Asaad S. | [Read More](https://medium.com/p/cb7fc0d12941) |
-| Tue, 11 Nov 2025 05:51:15 GMT | The Biggest Mistake Marketers Make: Selling Products Instead of Selling Progress | Vijay Kumar Gupta | [Read More](https://medium.com/p/ebd644afef06) |
-| Tue, 11 Nov 2025 05:51:09 GMT | Cyber Risk Quantification: Why the Worst-Case Scenario Matters More Than the Perfect Formula | Nadia Helmina | [Read More](https://medium.com/p/dcdabd827c72) |
