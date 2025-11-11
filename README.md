@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 15:30:49 GMT | Building a Fully Automated SOC Lab with Open-Source Tools | khalifa_farhat | [Read More](https://medium.com/p/284ca39cb6c5) |
+| Tue, 11 Nov 2025 15:19:59 GMT | Handling Large File Uploads (Up to 10GB) in Django: A Complete Guide | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/efa195d80445) |
+| Tue, 11 Nov 2025 15:14:36 GMT | Analysis of API Hashing and Import Lookup Techniques for Obfuscated API Resolution in Malware | YUCA | [Read More](https://medium.com/p/ffe711c616d2) |
 | Tue, 11 Nov 2025 15:11:39 GMT | The Factory Pattern Evolved: How Modern Java (21–25) Makes Object Creation Elegant and Type-Safe | Jitin Kayyala | [Read More](https://medium.com/p/a7df30909ced) |
 | Tue, 11 Nov 2025 15:11:35 GMT | Grounding Generative AI in Reality: How RAG Prevents Hallucinations in Large Language Models | Robin Kester - Please Don’t Feed the Unicorn | [Read More](https://medium.com/p/99962ba98fbf) |
 | Tue, 11 Nov 2025 15:10:06 GMT | 45 Days of Cybersecurity Days 1–3: Foundations & First Hacking Labs | Wandesrtech | [Read More](https://medium.com/p/eb8f50f0af10) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 10:12:06 GMT | Is the Cybersecurity Industry Using PR? | Grcdigitalusa | [Read More](https://medium.com/p/c35ac1398e57) |
 | Tue, 11 Nov 2025 10:10:56 GMT | STDIO CTF 2025 Write-UP SHAW | pipe2bot | [Read More](https://medium.com/p/b6b071767dcd) |
 | Tue, 11 Nov 2025 10:09:02 GMT | Kill Your Ego Before You Kill What We Had | Amanur | [Read More](https://medium.com/p/3391a681d7b8) |
-| Tue, 11 Nov 2025 10:02:04 GMT | Quantum Locks, Real Threats: Protocols That Survive the Next Hack | Modexa | [Read More](https://medium.com/p/0bf9a2497c0a) |
-| Tue, 11 Nov 2025 10:02:03 GMT | The 5-Phase Roadmap and What’s Next | CYBER CYMRU | [Read More](https://medium.com/p/013c7a1efa5d) |
-| Tue, 11 Nov 2025 10:01:44 GMT | IT Incident Response Plan: 5 Must-Haves for Modern Business | Benn Morris | [Read More](https://medium.com/p/abb429f5dc7a) |
