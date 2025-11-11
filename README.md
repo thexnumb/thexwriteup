@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 13:23:46 GMT | Security Simplified: What Zero Trust and IAM Mean for Your Business | Ujjawal Ghosh | [Read More](https://medium.com/p/9fdaf39c10d6) |
+| Tue, 11 Nov 2025 13:22:55 GMT | HTB — Web Requests Notlarım | Songül Kızılay | [Read More](https://medium.com/p/cafd6948bae2) |
+| Tue, 11 Nov 2025 13:19:02 GMT | The Ultimate Guide to Employee Scheduling, Conflict-Free Rosters, and FREE Payroll in Singapore | Dchinnari | [Read More](https://medium.com/p/b99aea0e87dc) |
+| Tue, 11 Nov 2025 13:12:06 GMT | Three positive tipping points | Erik Kvam | [Read More](https://medium.com/p/278a3ec3b1c7) |
+| Tue, 11 Nov 2025 13:12:02 GMT | Malware Learned to Think: Living in the Age of Self-Rewriting Code | Pooja Kashyap | [Read More](https://medium.com/p/24f88bb33919) |
+| Tue, 11 Nov 2025 13:10:13 GMT | ⚡ Flash USDT on Coinbase Wallet — What Those *.z Coins Really Mean (and Why That’s Useful) | Crypto Savvy | [Read More](https://medium.com/p/9100d5265dec) |
+| Tue, 11 Nov 2025 13:08:46 GMT | Enhancing Security Posture with Cyber Maturity Assessment | Vishwajeettechtech | [Read More](https://medium.com/p/60bed776564b) |
+| Tue, 11 Nov 2025 13:06:02 GMT | 11 Ways to Ensure Financial Security for Early Retirement (FIRE) | Connie C | [Read More](https://medium.com/p/abe531b22cb4) |
+| Tue, 11 Nov 2025 13:05:02 GMT | The First Biometric Failure in History: How Jacob Outsmarted the System | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/8ad4f0baf84e) |
+| Tue, 11 Nov 2025 12:57:37 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/3e413f6a4304) |
+| Tue, 11 Nov 2025 12:57:14 GMT | Firebase Authentication: The Unsung Hero of Modern App Security (and Why You’ll Cry Without It) | Akhshy Ganesh | [Read More](https://medium.com/p/ae2b83cd0034) |
+| Tue, 11 Nov 2025 12:54:20 GMT | How Supply Chain Vulnerabilities Put Healthcare Data at Risk | David Miller | [Read More](https://medium.com/p/44dda2de6eac) |
+| Tue, 11 Nov 2025 12:50:25 GMT | Why AUKUS Just Made AI Governance a Board-Level Priority | AXSAS | [Read More](https://medium.com/p/6928c69b5cfe) |
 | Tue, 11 Nov 2025 12:42:02 GMT | Lost Your Phone? How to Recover Your 2FA Codes and Avoid Being Locked Out | Anushka | [Read More](https://medium.com/p/7e3cd53ba276) |
 | Tue, 11 Nov 2025 12:38:13 GMT | KeePass2 Nedir? Güvenli Şifre Yöneticisi Rehberi (Kurulum + Kullanım) | KursatOzdemir | [Read More](https://medium.com/p/31fec694912b) |
 | Tue, 11 Nov 2025 12:33:23 GMT | CyberDefenders — ShadowRoast Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/818508003370) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 08:02:11 GMT | Part VII — Vault Chronicles: My Experience | Raymon Epping | [Read More](https://medium.com/p/3448b2ae19a3) |
 | Tue, 11 Nov 2025 07:58:34 GMT | How We Measure The Efficiency of a Technical Team | Piyush Vishwakarma | [Read More](https://medium.com/p/393e6a018f01) |
 | Tue, 11 Nov 2025 07:51:11 GMT | Digital Cyber Forensics Investigation Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/394c6cfe653d) |
-| Tue, 11 Nov 2025 07:48:01 GMT | Why Ethical Hacking Should Be Taught in Schools ✨ | Saad Maqsood | [Read More](https://medium.com/p/06eece636355) |
-| Tue, 11 Nov 2025 07:40:57 GMT | 158 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/9d22b0796d82) |
-| Tue, 11 Nov 2025 07:39:58 GMT | My Journey to Obtaining the Pentest+ Certification | Mert Kurtulmuş | [Read More](https://medium.com/p/31cca71b9429) |
-| Tue, 11 Nov 2025 07:37:31 GMT | Why Small Businesses Should Care About Cybersecurity | Abioye Orimadegun | [Read More](https://medium.com/p/348eeb39b526) |
-| Tue, 11 Nov 2025 07:29:42 GMT | Why AI-Powered CCTV Monitoring Will Change Home Security | Global CCTV Monitoring Services | [Read More](https://medium.com/p/feb9a2fa553f) |
-| Tue, 11 Nov 2025 07:28:36 GMT | First Computer Worm That Destroyed Physical Machines: The Story of Stuxnet | Malsha Hansini | [Read More](https://medium.com/p/b88cc5538621) |
-| Tue, 11 Nov 2025 07:25:53 GMT | When a Directory Listing Became a Security Concern | Sanskruti | [Read More](https://medium.com/p/d26cc4b85498) |
-| Tue, 11 Nov 2025 07:07:49 GMT | The Role of Ango Hub in Scaling Red-Teaming for Generative AI | iMerit Inc | [Read More](https://medium.com/p/5be57e154276) |
-| Tue, 11 Nov 2025 07:06:27 GMT | Behind the Scenes of a CTF Exploit Walkthrough: Master the Art of Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/e0283d9f185e) |
-| Tue, 11 Nov 2025 07:06:10 GMT | Where IT Project Managers Are Heading: Skills That Will Define The Next Decade | TaskFord | [Read More](https://medium.com/p/7b1c767a2030) |
-| Tue, 11 Nov 2025 07:04:40 GMT | Ensuring Safety and Trust: The Growing Demand for Professional Security Services in India | Smartfish Designs | [Read More](https://medium.com/p/a33f29599378) |
-| Tue, 11 Nov 2025 07:04:18 GMT | Hacking the Damn Vulnerable RESTaurant: A Journey from Customer to Root | appsecwarrior | [Read More](https://medium.com/p/756caa1adf56) |
-| Tue, 11 Nov 2025 06:53:08 GMT | My first challenge in HTB : Brutus Walkthrough. HackTheBox | Lintu Oommen | [Read More](https://medium.com/p/4316ea18dabf) |
