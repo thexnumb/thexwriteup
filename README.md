@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 10:36:11 GMT | Genuine Windows Software in India with Offer | Om Prakash | [Read More](https://medium.com/p/c815b232fc19) |
+| Tue, 11 Nov 2025 10:34:14 GMT | From LNK to PureLog Stealer | h3xstone | [Read More](https://medium.com/p/830bb58547e8) |
+| Tue, 11 Nov 2025 10:34:12 GMT | Strengthening UK Supply Chains: Essential Cybersecurity Strategies for SMEs to Safeguard Operations… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/dd1014d25207) |
+| Tue, 11 Nov 2025 10:31:57 GMT | Which Samsung A Series Model Is Perfect for Photography and Selfies? | Chloe White | [Read More](https://medium.com/p/d069f0127abe) |
+| Tue, 11 Nov 2025 10:30:33 GMT | Why Every Teen in 2025 Needs to Take Cybersecurity Seriously — Before It’s Too Late | SannanAli.medium | [Read More](https://medium.com/p/a792984ea006) |
+| Tue, 11 Nov 2025 10:25:11 GMT | Best Data Center Services Providers In India - Net Access | Samvaskaran | [Read More](https://medium.com/p/2ffe0189b751) |
+| Tue, 11 Nov 2025 10:22:25 GMT | Truecaller’s Rival Is Not an App — It’s the Indian Government’s CNAP | Rishi | [Read More](https://medium.com/p/41e5645f8f64) |
+| Tue, 11 Nov 2025 10:18:32 GMT | OnePlus 15 Is Dropping in India on Nov 13—Here’s Why You Should Care | Technology8922 | [Read More](https://medium.com/p/8e1c94644344) |
+| Tue, 11 Nov 2025 10:17:51 GMT | DockerLabs Writeup — LogisticCloud (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1b24f588e31d) |
 | Tue, 11 Nov 2025 10:14:43 GMT | Beginner’s Guide to Securing Remote SSH Access on Kali Linux VM | Ajiboso Adeola | [Read More](https://medium.com/p/5f92e9fdd413) |
 | Tue, 11 Nov 2025 10:12:06 GMT | Is the Cybersecurity Industry Using PR? | Grcdigitalusa | [Read More](https://medium.com/p/c35ac1398e57) |
 | Tue, 11 Nov 2025 10:10:56 GMT | STDIO CTF 2025 Write-UP SHAW | pipe2bot | [Read More](https://medium.com/p/b6b071767dcd) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 03:55:37 GMT | Empowering Small Businesses: Transforming Technology into a Power Tool | Steven Chin | [Read More](https://medium.com/p/ab34778dd86e) |
 | Tue, 11 Nov 2025 03:53:07 GMT | Enhancing Rule-Based Detection Using Recurrent Neural Networks | Ahmed Sobhi Ali | [Read More](https://medium.com/p/1466061a718e) |
 | Tue, 11 Nov 2025 03:51:49 GMT | Fingerprint Browser: A Comprehensive Guide | 007TG | [Read More](https://medium.com/p/18de1deec8fb) |
-| Tue, 11 Nov 2025 03:45:56 GMT | From Payloads to Persistence: Lessons from a Day of Offensive Lab Work | Vivektumma27 | [Read More](https://medium.com/p/865841ddc343) |
-| Tue, 11 Nov 2025 03:44:26 GMT | CORS Vulnerability with Trusted Insecure Protocols | Bash Overflow | [Read More](https://medium.com/p/82ba36766c07) |
-| Tue, 11 Nov 2025 03:32:10 GMT | CheckMyCreds: Your One-Stop Solution for Data Leak Monitoring and Credential Protection | ThreatWatch360 | [Read More](https://medium.com/p/86123edf6096) |
-| Tue, 11 Nov 2025 03:32:10 GMT | The AI Waifu RAT: When Digital Companionship Turns Into a Cyber Trap | Deven Chhajed | [Read More](https://medium.com/p/e2e9d719bc3b) |
-| Tue, 11 Nov 2025 03:31:40 GMT | CISSP Certification: Elevate Your Cybersecurity Career | Cybernous Infosec consulting | [Read More](https://medium.com/p/e4d5209d1c99) |
-| Tue, 11 Nov 2025 03:06:53 GMT | Civilian Security | root zir0 | [Read More](https://medium.com/p/02763cea05a4) |
-| Tue, 11 Nov 2025 03:05:50 GMT | You Can’t Rebuild History. But You Can Capture It. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/cb42ce06b69a) |
-| Tue, 11 Nov 2025 03:02:11 GMT | Intrusion Detection with Splunk: From 500,000 Events to Full Compromise | Cybersecurity Simplified | [Read More](https://medium.com/p/caa18d2985b4) |
-| Tue, 11 Nov 2025 02:53:15 GMT | The Future Is Not Exploit Dev. The Future Is Automated Enumeration. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/95f768db62b1) |
