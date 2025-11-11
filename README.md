@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 14:41:52 GMT | TLPBLACK at Ringzer0 COUNTERMEASURE in Ottawa | Costin Raiu | [Read More](https://medium.com/p/048df2062bf9) |
+| Tue, 11 Nov 2025 14:36:34 GMT | “The 16-Hour Window: Catching a GraphQL Authorization Flaw” | Aman Sharma | [Read More](https://medium.com/p/575f6e5c1217) |
+| Tue, 11 Nov 2025 14:26:55 GMT | AI in Cybersecurity: How Generative Tools Are Powering Both Attack and Defense | Secure Talks | [Read More](https://medium.com/p/c07fd4dafa69) |
+| Tue, 11 Nov 2025 14:22:05 GMT | Exploring SentryPC’s Key Features: A Deep Dive into Its Capabilities | Paul Meyer | [Read More](https://medium.com/p/4cc9b1e0806b) |
+| Tue, 11 Nov 2025 14:21:18 GMT | Samsung Zero-Click Flaw Exploited to Deliver LANDFALL Android Spyware via WhatsApp Images | Jason Hoskins Jr. | [Read More](https://medium.com/p/6fcb9e5b9873) |
+| Tue, 11 Nov 2025 14:16:58 GMT | Linux hacks that’ll prevent 2 AM downtimes | Kavish Baghel | [Read More](https://medium.com/p/3078a110d506) |
 | Tue, 11 Nov 2025 14:13:48 GMT | Cryptography Techniques: A Simple Guide | Dhruvjain | [Read More](https://medium.com/p/c1506cc9e2b3) |
 | Tue, 11 Nov 2025 14:13:20 GMT | How a Cyber Security Development Company Can Protect Your Brand Reputation. | Webtrills | [Read More](https://medium.com/p/104b03522d60) |
 | Tue, 11 Nov 2025 14:10:37 GMT | I analyzed a polymorphic VBS virus that hijacks file associations and it’s honestly brilliant (and… | Harsh Raj Singhania | [Read More](https://medium.com/p/6bad93ae5f98) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 09:14:18 GMT | The Bright Wave: New Generation of Tech Entrepreneurs in Bangladesh | Spike Story | [Read More](https://medium.com/p/51a371ef6aff) |
 | Tue, 11 Nov 2025 09:06:02 GMT | Insp3ct0r — picoCTF Web Exploitation Writeup | Hasnainabid | [Read More](https://medium.com/p/84f3a9263d58) |
 | Tue, 11 Nov 2025 09:03:00 GMT | Stealer Logs Today: Is Your Domain in the Latest Dumps? | Alexandre Vandamme | [Read More](https://medium.com/p/b153505d5910) |
-| Tue, 11 Nov 2025 09:03:00 GMT | Where Are the Robots? — picoCTF Web Exploitation Writeup | Hasnainabid | [Read More](https://medium.com/p/82a121cfd935) |
-| Tue, 11 Nov 2025 09:00:28 GMT | SquareX Wins Multiple Cybersecurity Awards in H2 2025 | SquareX | [Read More](https://medium.com/p/f8923e544c4e) |
-| Tue, 11 Nov 2025 09:00:26 GMT | Build an Efficient Authentication Architecture for Microservices — With Working Java Code and Clear… | Anh Trần Tuấn | [Read More](https://medium.com/p/f07434ebf20b) |
-| Tue, 11 Nov 2025 08:59:23 GMT | NIS 2 for Non-EU Vendors: 60-Day Remediation Playbook | Pentest_Testing_Corp | [Read More](https://medium.com/p/38606bca925d) |
-| Tue, 11 Nov 2025 08:58:23 GMT | ประจำวันอังคารที่ 11 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/137e6a715089) |
-| Tue, 11 Nov 2025 08:56:03 GMT | What a 2025-Ready Security Operations Center Looks Like | Fook Hwa Tan | [Read More](https://medium.com/p/c553846a1e62) |
