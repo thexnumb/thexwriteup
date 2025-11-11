@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 03:55:37 GMT | Empowering Small Businesses: Transforming Technology into a Power Tool | Steven Chin | [Read More](https://medium.com/p/ab34778dd86e) |
+| Tue, 11 Nov 2025 03:51:49 GMT | Fingerprint Browser: A Comprehensive Guide | 007TG | [Read More](https://medium.com/p/18de1deec8fb) |
+| Tue, 11 Nov 2025 03:45:56 GMT | From Payloads to Persistence: Lessons from a Day of Offensive Lab Work | Vivektumma27 | [Read More](https://medium.com/p/865841ddc343) |
+| Tue, 11 Nov 2025 03:44:26 GMT | CORS Vulnerability with Trusted Insecure Protocols | Bash Overflow | [Read More](https://medium.com/p/82ba36766c07) |
+| Tue, 11 Nov 2025 03:32:10 GMT | CheckMyCreds: Your One-Stop Solution for Data Leak Monitoring and Credential Protection | ThreatWatch360 | [Read More](https://medium.com/p/86123edf6096) |
+| Tue, 11 Nov 2025 03:32:10 GMT | The AI Waifu RAT: When Digital Companionship Turns Into a Cyber Trap | Deven Chhajed | [Read More](https://medium.com/p/e2e9d719bc3b) |
+| Tue, 11 Nov 2025 03:31:40 GMT | CISSP Certification: Elevate Your Cybersecurity Career | Cybernous Infosec consulting | [Read More](https://medium.com/p/e4d5209d1c99) |
 | Tue, 11 Nov 2025 03:06:53 GMT | Civilian Security | root zir0 | [Read More](https://medium.com/p/02763cea05a4) |
+| Tue, 11 Nov 2025 03:05:50 GMT | You Can’t Rebuild History. But You Can Capture It. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/cb42ce06b69a) |
 | Tue, 11 Nov 2025 03:02:11 GMT | Intrusion Detection with Splunk: From 500,000 Events to Full Compromise | Cybersecurity Simplified | [Read More](https://medium.com/p/caa18d2985b4) |
 | Tue, 11 Nov 2025 02:53:15 GMT | The Future Is Not Exploit Dev. The Future Is Automated Enumeration. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/95f768db62b1) |
 | Tue, 11 Nov 2025 02:48:36 GMT | How I Turned a Failed “Race Condition” into a $ Bug Bounty Win | UrsaBear | [Read More](https://medium.com/p/647143a83cdd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 16:34:30 GMT | Understanding Active Directory (AD): The Heart of Enterprise Identity and Access Management | Rushikesh Girase | [Read More](https://medium.com/p/26960e71029f) |
 | Mon, 10 Nov 2025 16:32:01 GMT | Apple Source Code Exposed Again — Why Every Enterprise AI Stack Needs Secure Code Before It’s Too… | Snow | [Read More](https://medium.com/p/330679a30b49) |
 | Mon, 10 Nov 2025 16:27:32 GMT | Business Continuity Planning in Orange County: How to Keep Your Doors Open — No Matter What | Technijian | [Read More](https://medium.com/p/2febd6e8a516) |
-| Mon, 10 Nov 2025 16:22:44 GMT | The Cybersecruity meme | Cyber Fortress | [Read More](https://medium.com/p/7e8da44b2e53) |
-| Mon, 10 Nov 2025 16:17:06 GMT | HSTS Max-Age Directives and Cyborgs | Jen Cracchiola | [Read More](https://medium.com/p/c72013bba0bc) |
-| Mon, 10 Nov 2025 16:12:02 GMT | Welcome to The Unfiltered Archive: Writing My Own Something | The Unfiltered Archive | [Read More](https://medium.com/p/52d8b95a6abd) |
-| Mon, 10 Nov 2025 16:08:25 GMT | Become a Certified Google Cloud Security Operations Engineer: Master Cloud Security with Confidence | Md Mahrab Khan | [Read More](https://medium.com/p/b9977ab3b28f) |
-| Mon, 10 Nov 2025 16:06:58 GMT | What is IP Sniffing? | Gaurav Roy CTO, Masters - BS-Cyber-Sec - MIT - LPU | [Read More](https://medium.com/p/5737d6be19b3) |
-| Mon, 10 Nov 2025 16:04:48 GMT | PySpector: how my own SAST Framework, led me to an RCE in a Major AI Library | Tommaso Bona | [Read More](https://medium.com/p/c29cdce15f9c) |
-| Mon, 10 Nov 2025 15:59:58 GMT | Salesforce SLAs in Managed Services: Why They Matter More Than Ever | Digital Transformation Playbook | [Read More](https://medium.com/p/6569f5b07da1) |
-| Mon, 10 Nov 2025 15:58:37 GMT | Is Your Startup’s ‘Secure’ Data Actually Putting You Out of Business? | Hania Khan | [Read More](https://medium.com/p/d87f2a56de7a) |
