@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 07:37:31 GMT | Why Small Businesses Should Care About Cybersecurity | Abioye Orimadegun | [Read More](https://medium.com/p/348eeb39b526) |
+| Tue, 11 Nov 2025 07:29:42 GMT | Why AI-Powered CCTV Monitoring Will Change Home Security | Global CCTV Monitoring Services | [Read More](https://medium.com/p/feb9a2fa553f) |
+| Tue, 11 Nov 2025 07:28:36 GMT | First Computer Worm That Destroyed Physical Machines: The Story of Stuxnet | Malsha Hansini | [Read More](https://medium.com/p/b88cc5538621) |
+| Tue, 11 Nov 2025 07:25:53 GMT | When a Directory Listing Became a Security Concern | Sanskruti | [Read More](https://medium.com/p/d26cc4b85498) |
 | Tue, 11 Nov 2025 07:07:49 GMT | The Role of Ango Hub in Scaling Red-Teaming for Generative AI | iMerit Inc | [Read More](https://medium.com/p/5be57e154276) |
 | Tue, 11 Nov 2025 07:06:27 GMT | Behind the Scenes of a CTF Exploit Walkthrough: Master the Art of Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/e0283d9f185e) |
 | Tue, 11 Nov 2025 07:06:10 GMT | Where IT Project Managers Are Heading: Skills That Will Define The Next Decade | TaskFord | [Read More](https://medium.com/p/7b1c767a2030) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 20:47:06 GMT | Babe, Are You Awake? We Need to Talk About Last Week | Blossom Ezekwe | [Read More](https://medium.com/p/fd72bcd1af4b) |
 | Mon, 10 Nov 2025 20:42:47 GMT | How to Secure Your Linux Server through Firewall - UFW & iptables Basics | Shahzaib | [Read More](https://medium.com/p/fee16f20febd) |
 | Mon, 10 Nov 2025 20:09:34 GMT | Kali Linux Temel Komutlar: Yetki Yönetimi ve “Sen Kimsin?” (chmod, chown, sudo) | Burak | [Read More](https://medium.com/p/0dda33ffdd4c) |
-| Mon, 10 Nov 2025 19:59:50 GMT | Talking to Silicon: Abusing Protocols for Security Research | Andrew Long | [Read More](https://medium.com/p/ee29f151e453) |
-| Mon, 10 Nov 2025 19:44:49 GMT | Monitoring Security News with an Open-Source Solution | Quentin Latzel | [Read More](https://medium.com/p/34c15578c2e0) |
-| Mon, 10 Nov 2025 19:32:33 GMT | Our Journey in IT: Building Echo-AI (R& D) Together | Rethabile Bridget Velelo & Dylan Gorrah | [Read More](https://medium.com/p/7f96b55890c3) |
-| Mon, 10 Nov 2025 19:19:58 GMT | SOC165 — Possible SQL Injection Payload Detected — Practice with SOC Alert | Giovanni Isola | [Read More](https://medium.com/p/8a2bfb77ebcd) |
