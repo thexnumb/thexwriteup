@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 16:24:48 GMT | Black Hat 2025 Arsenal Experience | Faction Security | [Read More](https://medium.com/p/9301ada8e386) |
+| Tue, 11 Nov 2025 16:23:43 GMT | Navigating the Legal Landscape of a Data Breach | Samina Perveen | [Read More](https://medium.com/p/7bc2900b9329) |
+| Tue, 11 Nov 2025 16:23:34 GMT | Google Earth Pro Secrets: A Step-by-Step OSINT Guide for Beginners [Part I] | 5hr33.j11 | [Read More](https://medium.com/p/a8961111f9ae) |
+| Tue, 11 Nov 2025 16:21:09 GMT | TuesdayTool 37: OpenSourceMalware — A Developer’s Guide to Safer Code | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/e00029413c75) |
+| Tue, 11 Nov 2025 16:15:03 GMT | How I solved MD2PDF on TryHackMe — a friendly, step-by-step walkthrough | Cyber Phantom | [Read More](https://medium.com/p/a2cdc2e9e2b5) |
+| Tue, 11 Nov 2025 16:14:24 GMT | HTB CTF Shush Protocol (ICS) | Arka Priya Das | [Read More](https://medium.com/p/588845f64a83) |
+| Tue, 11 Nov 2025 16:13:51 GMT | The Delhi Blast: Unraveling India’s Resurgent Terror Threat | Shashwata Bhattacharjee | [Read More](https://medium.com/p/1ceed40401db) |
+| Tue, 11 Nov 2025 16:11:04 GMT | Close but no cigar | Kevin | [Read More](https://medium.com/p/768f4d2e90bd) |
+| Tue, 11 Nov 2025 16:10:16 GMT | Tired of the “Log on to Microsoft Exchange Has Failed” Error in Outlook? Here’s How to Fix It. | Ashe Sule | [Read More](https://medium.com/p/040acea66187) |
+| Tue, 11 Nov 2025 16:02:55 GMT | The ThreatSpike Story: Reimagining Cybersecurity for a connected World | Barry Ritchie | [Read More](https://medium.com/p/39318b185b52) |
+| Tue, 11 Nov 2025 15:58:27 GMT | Fluffy — HTB Writeups | Alts | [Read More](https://medium.com/p/2cc66d335e26) |
+| Tue, 11 Nov 2025 15:56:56 GMT | El Caminho y La Rata: A Technical Analysis of a Caminho Loader to DcRat Infection Chain | Mato | [Read More](https://medium.com/p/0de830877f91) |
+| Tue, 11 Nov 2025 15:56:20 GMT | Why Traditional Antivirus Isn’t Enough in 2025 — and What to Do About It | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/9e6fa3731673) |
+| Tue, 11 Nov 2025 15:48:24 GMT | Smarter Real Estate Decisions with Block-Level Environmental Hazard Analytics and Public Safety… | Crime Risk AI | [Read More](https://medium.com/p/d7da875bf769) |
+| Tue, 11 Nov 2025 15:48:24 GMT | Typhoon by Consent: Quiet, Durable, Everywhere | Wes Young | [Read More](https://medium.com/p/cabbbe7a1746) |
+| Tue, 11 Nov 2025 15:41:56 GMT | Frustrated by “Permission Denied”? Here’s What Linux Is Trying to Tell You | Sukanthi R | [Read More](https://medium.com/p/c3e7faa89359) |
+| Tue, 11 Nov 2025 15:38:40 GMT | “The Mask That Smiles: How Rejection Creates Performers, Not People” | Mr. Zaffi Awan. | [Read More](https://medium.com/p/fe06d2263a39) |
+| Tue, 11 Nov 2025 15:35:27 GMT | The macOS Process Journey — countryd (Country Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/354c9c6b8290) |
 | Tue, 11 Nov 2025 15:30:49 GMT | Building a Fully Automated SOC Lab with Open-Source Tools | khalifa_farhat | [Read More](https://medium.com/p/284ca39cb6c5) |
 | Tue, 11 Nov 2025 15:19:59 GMT | Handling Large File Uploads (Up to 10GB) in Django: A Complete Guide | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/efa195d80445) |
 | Tue, 11 Nov 2025 15:14:36 GMT | Analysis of API Hashing and Import Lookup Techniques for Obfuscated API Resolution in Malware | YUCA | [Read More](https://medium.com/p/ffe711c616d2) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 11:05:47 GMT | What is Authentication? | Rafael Mammadov | [Read More](https://medium.com/p/3bc51b5caa96) |
 | Tue, 11 Nov 2025 11:04:11 GMT | Dina Vulnhub Room: A Step-by-Step Walkthrough | Hanish | [Read More](https://medium.com/p/704189a31371) |
 | Tue, 11 Nov 2025 11:01:13 GMT | Ethical Hacker in India – SAIRAM founded the official chapter of DEF CON Madurai in Tamil Nadu | DEF CON MADURAI | [Read More](https://medium.com/p/a814f0f8ac88) |
-| Tue, 11 Nov 2025 11:01:07 GMT | Qilin Ransomware Group: The Dark Web’s Most Dangerous Ransomware Franchise | Motasem Hamdan | [Read More](https://medium.com/p/9f9abd3c4e08) |
-| Tue, 11 Nov 2025 10:56:54 GMT | फोनपे से पैसे कट जाने पर क्या करें? | फोनपे से पैसे कट जाने पर क्या करें? 9238652455 अगर | [Read More](https://medium.com/p/ac532f011ca5) |
-| Tue, 11 Nov 2025 10:52:04 GMT | Ethical Hacking Course Online in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/5506287f8cf6) |
-| Tue, 11 Nov 2025 10:50:31 GMT | How to Build a Culture of Compliance in Your Organization | Digital Defense | [Read More](https://medium.com/p/b0bac223c2bc) |
-| Tue, 11 Nov 2025 10:47:19 GMT | SEO Company in Utah — Driving Digital Growth with Proven Strategies | Hary Battler | [Read More](https://medium.com/p/436f97c16355) |
-| Tue, 11 Nov 2025 10:36:11 GMT | Genuine Windows Software in India with Offer | Om Prakash | [Read More](https://medium.com/p/c815b232fc19) |
-| Tue, 11 Nov 2025 10:34:14 GMT | From LNK to PureLog Stealer | h3xstone | [Read More](https://medium.com/p/830bb58547e8) |
-| Tue, 11 Nov 2025 10:34:12 GMT | Strengthening UK Supply Chains: Essential Cybersecurity Strategies for SMEs to Safeguard Operations… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/dd1014d25207) |
-| Tue, 11 Nov 2025 10:31:57 GMT | Which Samsung A Series Model Is Perfect for Photography and Selfies? | Chloe White | [Read More](https://medium.com/p/d069f0127abe) |
-| Tue, 11 Nov 2025 10:30:33 GMT | Why Every Teen in 2025 Needs to Take Cybersecurity Seriously — Before It’s Too Late | SannanAli.medium | [Read More](https://medium.com/p/a792984ea006) |
-| Tue, 11 Nov 2025 10:25:11 GMT | Best Data Center Services Providers In India - Net Access | Samvaskaran | [Read More](https://medium.com/p/2ffe0189b751) |
-| Tue, 11 Nov 2025 10:22:25 GMT | Truecaller’s Rival Is Not an App — It’s the Indian Government’s CNAP | Rishi | [Read More](https://medium.com/p/41e5645f8f64) |
-| Tue, 11 Nov 2025 10:18:32 GMT | OnePlus 15 Is Dropping in India on Nov 13—Here’s Why You Should Care | Technology8922 | [Read More](https://medium.com/p/8e1c94644344) |
-| Tue, 11 Nov 2025 10:17:51 GMT | DockerLabs Writeup — LogisticCloud (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1b24f588e31d) |
-| Tue, 11 Nov 2025 10:14:43 GMT | Beginner’s Guide to Securing Remote SSH Access on Kali Linux VM | Ajiboso Adeola | [Read More](https://medium.com/p/5f92e9fdd413) |
-| Tue, 11 Nov 2025 10:12:06 GMT | Is the Cybersecurity Industry Using PR? | Grcdigitalusa | [Read More](https://medium.com/p/c35ac1398e57) |
-| Tue, 11 Nov 2025 10:10:56 GMT | STDIO CTF 2025 Write-UP SHAW | pipe2bot | [Read More](https://medium.com/p/b6b071767dcd) |
-| Tue, 11 Nov 2025 10:09:02 GMT | Kill Your Ego Before You Kill What We Had | Amanur | [Read More](https://medium.com/p/3391a681d7b8) |
