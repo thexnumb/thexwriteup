@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 21:25:39 GMT | Artificial - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/e4893f73c0e2) |
+| Tue, 11 Nov 2025 21:25:18 GMT | Planning - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/1aeed29d81bc) |
+| Tue, 11 Nov 2025 21:25:06 GMT | LetsDefend — Disclose The Agent | Javier | [Read More](https://medium.com/p/43dc3d8285c0) |
+| Tue, 11 Nov 2025 21:25:00 GMT | Fluffy - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/c17389bec068) |
+| Tue, 11 Nov 2025 21:20:24 GMT | postMessage` XSS: It’s Like Passing Secret Notes in Class… But the Whole School Can Read Them**… | Shady Farouk | [Read More](https://medium.com/p/842c113b61dc) |
 | Tue, 11 Nov 2025 21:13:55 GMT | CyCTF25 Qualifications — Vault Raider, Mobile Challenge Writeup | محمد بن إبراهيم | [Read More](https://medium.com/p/998f38aa3e75) |
 | Tue, 11 Nov 2025 21:04:20 GMT | The Skies Are Too Crowded | Sharon Johnson | [Read More](https://medium.com/p/cce584c07a54) |
 | Tue, 11 Nov 2025 20:55:58 GMT | The DNS Tool That Became a Hacker’s Playground (And How I Caught Them Red-Handed) | HUNT3R | [Read More](https://medium.com/p/92670ee574c3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 16:02:55 GMT | The ThreatSpike Story: Reimagining Cybersecurity for a connected World | Barry Ritchie | [Read More](https://medium.com/p/39318b185b52) |
 | Tue, 11 Nov 2025 15:58:27 GMT | Fluffy — HTB Writeups | Alts | [Read More](https://medium.com/p/2cc66d335e26) |
 | Tue, 11 Nov 2025 15:56:56 GMT | El Caminho y La Rata: A Technical Analysis of a Caminho Loader to DcRat Infection Chain | Mato | [Read More](https://medium.com/p/0de830877f91) |
-| Tue, 11 Nov 2025 15:56:20 GMT | Why Traditional Antivirus Isn’t Enough in 2025 — and What to Do About It | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/9e6fa3731673) |
-| Tue, 11 Nov 2025 15:48:24 GMT | Smarter Real Estate Decisions with Block-Level Environmental Hazard Analytics and Public Safety… | Crime Risk AI | [Read More](https://medium.com/p/d7da875bf769) |
-| Tue, 11 Nov 2025 15:48:24 GMT | Typhoon by Consent: Quiet, Durable, Everywhere | Wes Young | [Read More](https://medium.com/p/cabbbe7a1746) |
-| Tue, 11 Nov 2025 15:46:35 GMT | Arquitectura de Seguridad Avanzada (FastAPI + Keycloak + Vault) | Gorkazar | [Read More](https://medium.com/p/52fa41cd3501) |
-| Tue, 11 Nov 2025 15:41:56 GMT | Frustrated by “Permission Denied”? Here’s What Linux Is Trying to Tell You | Sukanthi R | [Read More](https://medium.com/p/c3e7faa89359) |
