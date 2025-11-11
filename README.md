@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 17:35:22 GMT | Running Out of Data: How Synthetic Data is Saving the Future of AI | Grenish Rai | [Read More](https://medium.com/p/c7ef0332e728) |
+| Tue, 11 Nov 2025 17:34:06 GMT | Responsible Recon: how to find bug-bounty and disclosure pages (ethically) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/6b49a30eeaf6) |
+| Tue, 11 Nov 2025 17:31:37 GMT | D-link: D-link is a lightweight Linux file synchronization tool written in C++ | Мартин. | [Read More](https://medium.com/p/516999f6644f) |
+| Tue, 11 Nov 2025 17:29:07 GMT | When a Bug Turned Into My Best Learning Experience as a Developer | Abdullah Javeed | [Read More](https://medium.com/p/f278b65976e9) |
+| Tue, 11 Nov 2025 17:27:12 GMT | Cybersecurity Conferences in Israel | Tal Eliyahu | [Read More](https://medium.com/p/7cd9f768f173) |
+| Tue, 11 Nov 2025 17:23:21 GMT | Cross-Site Scripting (XSS): The Hidden Cyber Threat Lurking in Your Browser | Fikri Muzadi | [Read More](https://medium.com/p/0078e0f09f78) |
+| Tue, 11 Nov 2025 17:17:30 GMT | Building Trust in AI Systems: What I Learned After a Security Scare | Michael Preston | [Read More](https://medium.com/p/b122b399b5aa) |
 | Tue, 11 Nov 2025 17:14:52 GMT | The 5 Hidden Systems That Make AI Feel “ Alive ” in 2025 | Aditya Suryawanshi | [Read More](https://medium.com/p/2ce9f174c8fe) |
 | Tue, 11 Nov 2025 17:10:25 GMT | How AI Will Change The Way GRC Is Done | Taimur Ijlal | [Read More](https://medium.com/p/d604df9a09ea) |
 | Tue, 11 Nov 2025 17:03:34 GMT | Reading the Internet’s Body Language: My First Step into Cybersecurity | Jim Columbus | [Read More](https://medium.com/p/97c62200a773) |
@@ -50,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 15:41:56 GMT | Frustrated by “Permission Denied”? Here’s What Linux Is Trying to Tell You | Sukanthi R | [Read More](https://medium.com/p/c3e7faa89359) |
 | Tue, 11 Nov 2025 15:38:40 GMT | “The Mask That Smiles: How Rejection Creates Performers, Not People” | Mr. Zaffi Awan. | [Read More](https://medium.com/p/fe06d2263a39) |
 | Tue, 11 Nov 2025 15:35:27 GMT | The macOS Process Journey — countryd (Country Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/354c9c6b8290) |
+| Tue, 11 Nov 2025 15:31:59 GMT | Reconciliation Software for Banks: Streamline Compliance and Efficiency | Kosh AI | [Read More](https://medium.com/p/9201abcb4916) |
 | Tue, 11 Nov 2025 15:30:49 GMT | Building a Fully Automated SOC Lab with Open-Source Tools | khalifa_farhat | [Read More](https://medium.com/p/284ca39cb6c5) |
 | Tue, 11 Nov 2025 15:19:59 GMT | Handling Large File Uploads (Up to 10GB) in Django: A Complete Guide | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/efa195d80445) |
 | Tue, 11 Nov 2025 15:14:36 GMT | Analysis of API Hashing and Import Lookup Techniques for Obfuscated API Resolution in Malware | YUCA | [Read More](https://medium.com/p/ffe711c616d2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 12:54:20 GMT | How Supply Chain Vulnerabilities Put Healthcare Data at Risk | David Miller | [Read More](https://medium.com/p/44dda2de6eac) |
 | Tue, 11 Nov 2025 12:50:25 GMT | Why AUKUS Just Made AI Governance a Board-Level Priority | AXSAS | [Read More](https://medium.com/p/6928c69b5cfe) |
 | Tue, 11 Nov 2025 12:42:02 GMT | Lost Your Phone? How to Recover Your 2FA Codes and Avoid Being Locked Out | Anushka | [Read More](https://medium.com/p/7e3cd53ba276) |
-| Tue, 11 Nov 2025 12:38:13 GMT | KeePass2 Nedir? Güvenli Şifre Yöneticisi Rehberi (Kurulum + Kullanım) | KursatOzdemir | [Read More](https://medium.com/p/31fec694912b) |
-| Tue, 11 Nov 2025 12:33:23 GMT | CyberDefenders — ShadowRoast Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/818508003370) |
-| Tue, 11 Nov 2025 12:30:11 GMT | Best Practices for SOAR Technical Enhancements | NetWitness | [Read More](https://medium.com/p/7f59de1438cc) |
-| Tue, 11 Nov 2025 12:25:39 GMT | The Importance of Disaster Recovery in Cloud Computing: Ensuring Business Continuity | Techridge Solutions | [Read More](https://medium.com/p/07c1309e2f32) |
-| Tue, 11 Nov 2025 12:24:55 GMT | How to Host a Custom Domain for Your Medium Blog | Karthick Dk | [Read More](https://medium.com/p/278e59cd5d4d) |
-| Tue, 11 Nov 2025 12:21:04 GMT | VPN vs VLAN: Which One Is the Better Fit for Your Network? | Awais Khan | [Read More](https://medium.com/p/a596eb62d184) |
-| Tue, 11 Nov 2025 12:14:32 GMT | The CIA Triad: The Foundation of Cybersecurity | _gaurang06_ | [Read More](https://medium.com/p/1ef478666eca) |
-| Tue, 11 Nov 2025 12:14:24 GMT | DevSecOps in Action: Integrating Security into CI/CD with AWS, Azure, GCP, and Kubernetes | James Jelki | [Read More](https://medium.com/p/e2b1b0ad8dc9) |
