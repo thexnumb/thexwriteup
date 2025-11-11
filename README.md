@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 19:23:46 GMT | How You Can always be Tracked in this era. | err0rgod | [Read More](https://medium.com/p/b64dbad6c17d) |
+| Tue, 11 Nov 2025 19:15:48 GMT | The Synthetic Conscience Effect: How ΔE Translates Awareness into Engineering — or When a Machine… | Max Barzenkov | [Read More](https://medium.com/p/b2d34e8b071b) |
+| Tue, 11 Nov 2025 19:13:43 GMT | What Is Bloatware — and Why It’s a Hidden Cost to Businesses ? | IT_Engineer | [Read More](https://medium.com/p/8aa0e7b82201) |
 | Tue, 11 Nov 2025 19:12:23 GMT | CRTO Review — 2025 | Paradox | [Read More](https://medium.com/p/ecdedc2e7565) |
 | Tue, 11 Nov 2025 19:04:43 GMT | Fantasy Hub Android Trojan Turns Telegram into a Cybercrime Marketplace | Cybersectoworld | [Read More](https://medium.com/p/470930a39d92) |
 | Tue, 11 Nov 2025 18:57:38 GMT | How Many Amps Does a Garage Door Opener Use: Power Specs Explained | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/db22a3c22bba) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 14:13:48 GMT | Cryptography Techniques: A Simple Guide | Dhruvjain | [Read More](https://medium.com/p/c1506cc9e2b3) |
 | Tue, 11 Nov 2025 14:13:20 GMT | How a Cyber Security Development Company Can Protect Your Brand Reputation. | Webtrills | [Read More](https://medium.com/p/104b03522d60) |
 | Tue, 11 Nov 2025 14:10:37 GMT | I analyzed a polymorphic VBS virus that hijacks file associations and it’s honestly brilliant (and… | Harsh Raj Singhania | [Read More](https://medium.com/p/6bad93ae5f98) |
-| Tue, 11 Nov 2025 14:10:01 GMT | Day 10: WebNet0 — PicoCTF | Siyam | [Read More](https://medium.com/p/3567b47c45d5) |
-| Tue, 11 Nov 2025 14:09:50 GMT | Protect Your Digital Assets with Nexasoft Infinity’s Cloud Security Solutions | Nexasoftinfinity | [Read More](https://medium.com/p/c605888b09ac) |
-| Tue, 11 Nov 2025 14:02:30 GMT | Tools, Trouble, and Trickery, Part 5 | OSINT Amy | [Read More](https://medium.com/p/90b448f37967) |
