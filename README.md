@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 05:36:55 GMT | Learning Fortinet Firewall — LESSON XX: How to Join a Host to a Domain (Windows 7/10) (Part 4) | Rouell Mamaril | [Read More](https://medium.com/p/fbdfdb02125a) |
 | Tue, 11 Nov 2025 05:09:59 GMT | API Mass Assignment Explained | Jei Ess | [Read More](https://medium.com/p/e16c27088d6f) |
 | Tue, 11 Nov 2025 05:08:12 GMT | Tornado.Cash Team Hacks Itself to Fix Critical Vulnerability | idcyrpt | [Read More](https://medium.com/p/b0872cc5f243) |
 | Tue, 11 Nov 2025 05:08:04 GMT | Day 75- Why every beginner should know about antivirus software | unica 02 | [Read More](https://medium.com/p/c231b1e02065) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 17:53:23 GMT | The Collapse of Certainty. | Samra Ilyas | [Read More](https://medium.com/p/fc2f1ebde8ed) |
 | Mon, 10 Nov 2025 17:20:45 GMT | China-Linked Hackers Exploit Windows Shortcut Vulnerability to Target European Diplomats | SCtoCS | [Read More](https://medium.com/p/f7577476a51a) |
 | Mon, 10 Nov 2025 17:20:15 GMT | China-Linked Tick APT Exploits Lanscope Zero-Day to Compromise Corporate Networks | SCtoCS | [Read More](https://medium.com/p/cfd54e0d8a35) |
-| Mon, 10 Nov 2025 17:20:03 GMT | How I Unlocked Enterprise Features with One Parameter — and Earned $947 | Ferdus Alam | [Read More](https://medium.com/p/7a0fef6b2ad0) |
