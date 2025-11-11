@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 23:03:47 GMT | Fusion Corp — Walkthrough (TryHackMe) | Muhammad Usman Faridi | [Read More](https://medium.com/p/99c83213caf0) |
+| Tue, 11 Nov 2025 22:57:57 GMT | When a Job Offer Becomes a Cyberattack | Dmytro J. Medvid | [Read More](https://medium.com/p/689f4292d23d) |
+| Tue, 11 Nov 2025 22:51:08 GMT | Weird Is Wonderful | Matthew Stevens | [Read More](https://medium.com/p/b7b44934b692) |
+| Tue, 11 Nov 2025 22:49:09 GMT | AI Doesn’t Faze Me, But Should It? | Jane Beckman | [Read More](https://medium.com/p/0d79caa38b67) |
+| Tue, 11 Nov 2025 22:47:45 GMT | What can we learn from baristas about designing good technology? | xander koo | [Read More](https://medium.com/p/c01125800584) |
+| Tue, 11 Nov 2025 22:46:42 GMT | Atlantic Council Cyber Statecraft Initiative, | Talha Özcan | [Read More](https://medium.com/p/a0a643c8020a) |
+| Tue, 11 Nov 2025 22:45:49 GMT | Security and Human Behavior | Talha Özcan | [Read More](https://medium.com/p/7b85de454299) |
+| Tue, 11 Nov 2025 22:41:07 GMT | How to Prevent AI Adoption from Becoming Shadow AI | Audacia | [Read More](https://medium.com/p/162951212e07) |
+| Tue, 11 Nov 2025 22:36:55 GMT | Day 11: System Hardening — Building a Strong Defense with Patch Management, Account Policies, and… | HackTrace | [Read More](https://medium.com/p/4b20623b0a0b) |
+| Tue, 11 Nov 2025 22:35:57 GMT | Mighty Hacker Recovery / Bitcoin Recovery Expert WhatsApp is +14042456415. | Baron Wilson | [Read More](https://medium.com/p/1e37c560c657) |
+| Tue, 11 Nov 2025 22:35:33 GMT | Before Someone Hijacks Your Digital Identity — Read This | Elijah Usani | [Read More](https://medium.com/p/b52444274ecb) |
 | Tue, 11 Nov 2025 22:34:07 GMT | 77% of Employees Are Copy/Pasting Corporate Data Into AI Tools | Cyber-AppSec | [Read More](https://medium.com/p/2ad4afee92b0) |
 | Tue, 11 Nov 2025 22:14:16 GMT | HackGPTs: Teaching AI to Think Like a Pentester | Twinkle Jaineera | [Read More](https://medium.com/p/730c2de0b7fe) |
 | Tue, 11 Nov 2025 21:59:04 GMT | Three Weeks in Solitude: Revealing the Truth of God’s Love | Joanne Miller | [Read More](https://medium.com/p/27a528ae047a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 16:42:58 GMT | North Korean Hackers Exploit Google Find Hub to Remotely Wipe Android Devices in Sophisticated… | Technijian | [Read More](https://medium.com/p/10ccb4757dc6) |
 | Tue, 11 Nov 2025 16:38:38 GMT | The Hidden Risk Inside Your Router: What the U.S. Crackdown on TP-Link Reveals | Abatis ABTU | [Read More](https://medium.com/p/09c4808798e2) |
 | Tue, 11 Nov 2025 16:37:07 GMT | Try One Small Act of Kindness Tonight. Come Back and Tell Me What Happened | LaJuan Grier/ Juannilicious | [Read More](https://medium.com/p/2ef0103aaf0a) |
-| Tue, 11 Nov 2025 16:32:33 GMT | ️ Offensive vs Defensive Keylogger in Python | IsaacNatarajan | [Read More](https://medium.com/p/ed0190dd5d95) |
-| Tue, 11 Nov 2025 16:32:25 GMT | Your Digital Early Warning System (Or: Why You Need to Know When Bad Things Happen) | Cyberberri | [Read More](https://medium.com/p/ace8d844894e) |
-| Tue, 11 Nov 2025 16:31:47 GMT | [LAB]I cracked a WPA/WPA2 key with a basic PC, and you can do it too. | Guepster | [Read More](https://medium.com/p/c57b3230053f) |
-| Tue, 11 Nov 2025 16:27:53 GMT | Cracking වලට ආස කට්ටියට | Atsuアツ | [Read More](https://medium.com/p/22051d2ebc54) |
-| Tue, 11 Nov 2025 16:24:48 GMT | Black Hat 2025 Arsenal Experience | Faction Security | [Read More](https://medium.com/p/9301ada8e386) |
-| Tue, 11 Nov 2025 16:23:43 GMT | Navigating the Legal Landscape of a Data Breach | Samina Perveen | [Read More](https://medium.com/p/7bc2900b9329) |
-| Tue, 11 Nov 2025 16:23:34 GMT | Google Earth Pro Secrets: A Step-by-Step OSINT Guide for Beginners [Part I] | 5hr33.j11 | [Read More](https://medium.com/p/a8961111f9ae) |
-| Tue, 11 Nov 2025 16:21:09 GMT | TuesdayTool 37: OpenSourceMalware — A Developer’s Guide to Safer Code | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/e00029413c75) |
-| Tue, 11 Nov 2025 16:15:03 GMT | How I solved MD2PDF on TryHackMe — a friendly, step-by-step walkthrough | Cyber Phantom | [Read More](https://medium.com/p/a2cdc2e9e2b5) |
-| Tue, 11 Nov 2025 16:14:24 GMT | HTB CTF Shush Protocol (ICS) | Arka Priya Das | [Read More](https://medium.com/p/588845f64a83) |
-| Tue, 11 Nov 2025 16:13:51 GMT | The Delhi Blast: Unraveling India’s Resurgent Terror Threat | Shashwata Bhattacharjee | [Read More](https://medium.com/p/1ceed40401db) |
