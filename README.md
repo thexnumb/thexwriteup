@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 08:47:34 GMT | Log Hunt — General Skills — picoCTF WriteUp | Nirgunah | [Read More](https://medium.com/p/b71dccaf1035) |
+| Tue, 11 Nov 2025 08:42:26 GMT | Getting Started With Windows Red Teaming | Redfox Security | [Read More](https://medium.com/p/379981c00b89) |
+| Tue, 11 Nov 2025 08:33:35 GMT | Catching Secrets Before They Leak — TruffleHog | Msaud | [Read More](https://medium.com/p/d1f5a111f300) |
+| Tue, 11 Nov 2025 08:30:09 GMT | From Legacy Chaos to Cloud Control: Rethinking Secure File Transfers for the Modern Enterprise | Prabhu Srivastava | [Read More](https://medium.com/p/fa65ad3bf8a1) |
+| Tue, 11 Nov 2025 08:29:20 GMT | The Convergence of Consciousness: What Happens When Computers Read Minds | David Kimani | [Read More](https://medium.com/p/d72a734540c5) |
 | Tue, 11 Nov 2025 08:17:43 GMT | Dark Web Threat Intelligence (DWTI) 101: How Hidden Data Powers Modern Cyber Defense | Matt Black | [Read More](https://medium.com/p/1c90dd893fa3) |
 | Tue, 11 Nov 2025 08:16:22 GMT | Behind the firewall: Engineering APIs for compliance and trust | Juhi Singh | [Read More](https://medium.com/p/8d863a0786c0) |
 | Tue, 11 Nov 2025 08:12:17 GMT | Full-Stack Development in 2025: Advanced Projects and Modern Tech Stacks | okot aaron | [Read More](https://medium.com/p/f2a499951066) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 22:37:16 GMT | Scanned Before Consent | Mark Calee-Empathy...Power! | [Read More](https://medium.com/p/8d845345ce52) |
 | Mon, 10 Nov 2025 22:31:02 GMT | Day 10: Network Security Essentials — Firewalls, IDS/IPS, Access Control & Common Attacks | HackTrace | [Read More](https://medium.com/p/ab26cd2eb766) |
 | Mon, 10 Nov 2025 22:27:41 GMT | The $25 Million Ghost in the Machine: How AI Deepfakes Just Hacked Human Trust | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/51bea32c50dd) |
-| Mon, 10 Nov 2025 22:19:13 GMT | The Hunt for a WAF Bypass: A Bug Bounty Story | Jackson Mittag | [Read More](https://medium.com/p/0aebb17685da) |
-| Mon, 10 Nov 2025 22:11:30 GMT | Darkweb Vendor Imposter Scams Surge in 2025 | Tor BBB | [Read More](https://medium.com/p/67b7b2854628) |
-| Mon, 10 Nov 2025 22:06:29 GMT | A Virus Disguised as an Antivirus: How Criminals Fake ESET Installers — and Why It’s Dangerous | 0trust0day | [Read More](https://medium.com/p/32c75e2adfa6) |
-| Mon, 10 Nov 2025 21:49:31 GMT | What Actually Can Make You Money from Writing in 2025? | Aliyu Ibrahim | [Read More](https://medium.com/p/d19d1ac0bf1c) |
-| Mon, 10 Nov 2025 21:42:09 GMT | Las 5 fases del Pentesting | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/85af1bc24fd0) |
