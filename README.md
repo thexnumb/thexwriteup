@@ -12,12 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 11:35:24 GMT | How IT Teams Save 100+ Hours with Automated GRC Software | SecureSlate | [Read More](https://medium.com/p/7a46a654954f) |
+| Tue, 11 Nov 2025 11:33:50 GMT | Advanced WordPress Security Techniques to Keep Your Site Secure | InCreativeWeb | [Read More](https://medium.com/p/bcae3fcf87c0) |
+| Tue, 11 Nov 2025 11:32:19 GMT | That text you just got? It could cost you everything. | Ashe Sule | [Read More](https://medium.com/p/c7b090c00ea3) |
+| Tue, 11 Nov 2025 11:30:35 GMT | Bug Bounty Hunting — Complete Guide (Part-140) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0944b1616a29) |
+| Tue, 11 Nov 2025 11:28:37 GMT | Bug Bounty Hunting — Complete Guide (Part-139) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/6a8a0ec5b080) |
+| Tue, 11 Nov 2025 11:26:12 GMT | Bug Bounty Hunting — Complete Guide (Part-138) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/002300cac8c8) |
+| Tue, 11 Nov 2025 11:22:09 GMT | Discover the Elegance of Art Deco Moissanite Engagement Rings by BRILLIANT CARATS | justinwest8526 | [Read More](https://medium.com/p/1db643088c2b) |
+| Tue, 11 Nov 2025 11:21:00 GMT | Integrating AI into Your Digital Transformation Strategy for Smarter Operations | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/8077e6d67655) |
 | Tue, 11 Nov 2025 11:17:20 GMT | June 2025 Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/bae9d1a78789) |
 | Tue, 11 Nov 2025 11:07:13 GMT | Shells Overview — Writeup | Mahir | [Read More](https://medium.com/p/83d9626869d6) |
 | Tue, 11 Nov 2025 11:05:47 GMT | What is Authentication? | Rafael Mammadov | [Read More](https://medium.com/p/3bc51b5caa96) |
 | Tue, 11 Nov 2025 11:04:11 GMT | Dina Vulnhub Room: A Step-by-Step Walkthrough | Hanish | [Read More](https://medium.com/p/704189a31371) |
 | Tue, 11 Nov 2025 11:01:13 GMT | Ethical Hacker in India – SAIRAM founded the official chapter of DEF CON Madurai in Tamil Nadu | DEF CON MADURAI | [Read More](https://medium.com/p/a814f0f8ac88) |
 | Tue, 11 Nov 2025 11:01:07 GMT | Qilin Ransomware Group: The Dark Web’s Most Dangerous Ransomware Franchise | Motasem Hamdan | [Read More](https://medium.com/p/9f9abd3c4e08) |
+| Tue, 11 Nov 2025 10:56:54 GMT | फोनपे से पैसे कट जाने पर क्या करें? | फोनपे से पैसे कट जाने पर क्या करें? 9238652455 अगर | [Read More](https://medium.com/p/ac532f011ca5) |
 | Tue, 11 Nov 2025 10:52:04 GMT | Ethical Hacking Course Online in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/5506287f8cf6) |
 | Tue, 11 Nov 2025 10:50:31 GMT | How to Build a Culture of Compliance in Your Organization | Digital Defense | [Read More](https://medium.com/p/b0bac223c2bc) |
 | Tue, 11 Nov 2025 10:47:19 GMT | SEO Company in Utah — Driving Digital Growth with Proven Strategies | Hary Battler | [Read More](https://medium.com/p/436f97c16355) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 05:54:41 GMT | Your Simple Guide to Staying Safe from Online Scams | Md.Asaad S. | [Read More](https://medium.com/p/cb7fc0d12941) |
 | Tue, 11 Nov 2025 05:51:15 GMT | The Biggest Mistake Marketers Make: Selling Products Instead of Selling Progress | Vijay Kumar Gupta | [Read More](https://medium.com/p/ebd644afef06) |
 | Tue, 11 Nov 2025 05:51:09 GMT | Cyber Risk Quantification: Why the Worst-Case Scenario Matters More Than the Perfect Formula | Nadia Helmina | [Read More](https://medium.com/p/dcdabd827c72) |
-| Tue, 11 Nov 2025 05:47:02 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/2a53948d2d98) |
-| Tue, 11 Nov 2025 05:36:55 GMT | Learning Fortinet Firewall — LESSON XX: How to Join a Host to a Domain (Windows 7/10) (Part 4) | Rouell Mamaril | [Read More](https://medium.com/p/fbdfdb02125a) |
-| Tue, 11 Nov 2025 05:09:59 GMT | API Mass Assignment Explained | Jei Ess | [Read More](https://medium.com/p/e16c27088d6f) |
-| Tue, 11 Nov 2025 05:08:12 GMT | Tornado.Cash Team Hacks Itself to Fix Critical Vulnerability | idcyrpt | [Read More](https://medium.com/p/b0872cc5f243) |
-| Tue, 11 Nov 2025 05:08:04 GMT | Day 75- Why every beginner should know about antivirus software | unica 02 | [Read More](https://medium.com/p/c231b1e02065) |
-| Tue, 11 Nov 2025 04:58:16 GMT | How to Choose the Right Security Service in Bahadurgarh | Lakshay Security | [Read More](https://medium.com/p/546e76dccfe7) |
-| Tue, 11 Nov 2025 04:53:21 GMT | Master the Art of Ethical Defense — Certified Ethical Hacking Foundation | Adhiraj Kasabe | [Read More](https://medium.com/p/e0e7a088596f) |
-| Tue, 11 Nov 2025 04:48:05 GMT | Mobile App Security in 2025: How to Protect Data in the AI Era | Xaylonlabs | [Read More](https://medium.com/p/2e5132e34ccc) |
-| Tue, 11 Nov 2025 04:43:49 GMT | Here’s How You Get Easily Hacked and Why It Never Shows | Sam Writes Security | [Read More](https://medium.com/p/c2e2953dad76) |
