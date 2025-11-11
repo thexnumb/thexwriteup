@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 10:14:43 GMT | Beginner’s Guide to Securing Remote SSH Access on Kali Linux VM | Ajiboso Adeola | [Read More](https://medium.com/p/5f92e9fdd413) |
+| Tue, 11 Nov 2025 10:12:06 GMT | Is the Cybersecurity Industry Using PR? | Grcdigitalusa | [Read More](https://medium.com/p/c35ac1398e57) |
+| Tue, 11 Nov 2025 10:10:56 GMT | STDIO CTF 2025 Write-UP SHAW | pipe2bot | [Read More](https://medium.com/p/b6b071767dcd) |
+| Tue, 11 Nov 2025 10:09:02 GMT | Kill Your Ego Before You Kill What We Had | Amanur | [Read More](https://medium.com/p/3391a681d7b8) |
+| Tue, 11 Nov 2025 10:02:04 GMT | Quantum Locks, Real Threats: Protocols That Survive the Next Hack | Modexa | [Read More](https://medium.com/p/0bf9a2497c0a) |
+| Tue, 11 Nov 2025 10:02:03 GMT | The 5-Phase Roadmap and What’s Next | CYBER CYMRU | [Read More](https://medium.com/p/013c7a1efa5d) |
+| Tue, 11 Nov 2025 10:01:44 GMT | IT Incident Response Plan: 5 Must-Haves for Modern Business | Benn Morris | [Read More](https://medium.com/p/abb429f5dc7a) |
+| Tue, 11 Nov 2025 09:56:29 GMT | Unlocking Secrets: Your Digital Forensics/OSINT Roadmap Awaits! | Authlyn | [Read More](https://medium.com/p/b0ef17c9fca0) |
+| Tue, 11 Nov 2025 09:54:12 GMT | IAM , Your Digital Gatekeeper | Svn | [Read More](https://medium.com/p/b0b0dc1b958d) |
+| Tue, 11 Nov 2025 09:54:00 GMT | Internet of Things — Monitoring Suhu Via Komputer (Grafik) | Zifa Tea Azzahra | [Read More](https://medium.com/p/ddc0c46af26f) |
+| Tue, 11 Nov 2025 09:44:49 GMT | Best ASPM Tools in 2025: Unify Application Security and Gain Full Code-to-Cloud Visibility | Anwar Plexicus | [Read More](https://medium.com/p/084f4fe1bd58) |
+| Tue, 11 Nov 2025 09:44:14 GMT | The Future of Cyber Defense: Why Automated Penetration Testing Is a Game-Changer | Kate Bennett | [Read More](https://medium.com/p/6a0cd661ccd1) |
 | Tue, 11 Nov 2025 09:37:12 GMT | Kiosk-Machine-vs-POS-MachineKiosk Machine vs. | Rakesh | [Read More](https://medium.com/p/b7cc67139a5a) |
 | Tue, 11 Nov 2025 09:34:59 GMT | FANTASY CTF — General Skills — picoCTF Writeup | Nirgunah | [Read More](https://medium.com/p/0d91b6fea7d8) |
 | Tue, 11 Nov 2025 09:34:12 GMT | Common website security bypasses | 80h3m14n | [Read More](https://medium.com/p/6fd80f818a01) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 03:05:50 GMT | You Can’t Rebuild History. But You Can Capture It. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/cb42ce06b69a) |
 | Tue, 11 Nov 2025 03:02:11 GMT | Intrusion Detection with Splunk: From 500,000 Events to Full Compromise | Cybersecurity Simplified | [Read More](https://medium.com/p/caa18d2985b4) |
 | Tue, 11 Nov 2025 02:53:15 GMT | The Future Is Not Exploit Dev. The Future Is Automated Enumeration. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/95f768db62b1) |
-| Tue, 11 Nov 2025 02:48:36 GMT | How I Turned a Failed “Race Condition” into a $ Bug Bounty Win | UrsaBear | [Read More](https://medium.com/p/647143a83cdd) |
-| Tue, 11 Nov 2025 02:42:09 GMT | That’s a Good Question | Clown Face | [Read More](https://medium.com/p/f95111731648) |
-| Tue, 11 Nov 2025 02:29:11 GMT | Kiasu No More, Kiasi Later: 5 Essential Tips to Shield Your Singapore Business from Ransomware | Steven Chin | [Read More](https://medium.com/p/8b478412e7d9) |
-| Tue, 11 Nov 2025 02:09:04 GMT | Protect Your Software Pipeline: Securing CI/CD in the Modern DevSecOps Era | Thuong To | [Read More](https://medium.com/p/2a1fbc77c326) |
-| Tue, 11 Nov 2025 01:57:47 GMT | Tuesday Morning Threat Report: Nov 11, 2025 | Mark Maguire | [Read More](https://medium.com/p/f7841fa7ec48) |
-| Tue, 11 Nov 2025 01:48:35 GMT | Rust PE RE Challenge | Farhann Mahmoodi | [Read More](https://medium.com/p/aba99b27813e) |
-| Tue, 11 Nov 2025 01:40:38 GMT | Windows Recall: The VBS Enclave Paradox and the Evolution of Endpoint Espionage | Berend Watchus | [Read More](https://medium.com/p/c9349bc5537d) |
-| Tue, 11 Nov 2025 01:36:34 GMT | Full-Lifecycle Protection Upgrade: How Digital Shield Makes Web3 Assets Secure and Controllable | Digital Shield | [Read More](https://medium.com/p/e4c827d327e0) |
-| Tue, 11 Nov 2025 01:35:08 GMT | Security Baseline Linux | Cube1214 | [Read More](https://medium.com/p/04d64ade7d92) |
-| Tue, 11 Nov 2025 01:34:02 GMT | npm Paket Yayınlama Güvenlik Kuralları: Yeni Dönemin Tam Rehberi | Erhan Akkaya | [Read More](https://medium.com/p/a4d57517e1df) |
-| Tue, 11 Nov 2025 01:33:32 GMT | When Insiders Become the Greatest Threat — The Intel Case and a Hidden Corporate Crisis | David SEHYEON Baek | [Read More](https://medium.com/p/4013441e68be) |
-| Tue, 11 Nov 2025 01:18:28 GMT | Common Cybersecurity Myths You Should Stop Believing | Ferdi Edogawa | [Read More](https://medium.com/p/3612bf7e7251) |
