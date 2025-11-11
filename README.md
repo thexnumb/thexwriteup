@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 15:11:39 GMT | The Factory Pattern Evolved: How Modern Java (21–25) Makes Object Creation Elegant and Type-Safe | Jitin Kayyala | [Read More](https://medium.com/p/a7df30909ced) |
+| Tue, 11 Nov 2025 15:11:35 GMT | Grounding Generative AI in Reality: How RAG Prevents Hallucinations in Large Language Models | Robin Kester - Please Don’t Feed the Unicorn | [Read More](https://medium.com/p/99962ba98fbf) |
+| Tue, 11 Nov 2025 15:10:06 GMT | 45 Days of Cybersecurity Days 1–3: Foundations & First Hacking Labs | Wandesrtech | [Read More](https://medium.com/p/eb8f50f0af10) |
+| Tue, 11 Nov 2025 15:09:50 GMT | Why Zero Trust Fits NuVĭsum Architecture by Design | NuVisum | [Read More](https://medium.com/p/9a4fc175e188) |
+| Tue, 11 Nov 2025 15:06:32 GMT | The Ultimate Guide to Cybersecurity Compliance Consulting | Defend My Business | [Read More](https://medium.com/p/b0dbce086d82) |
+| Tue, 11 Nov 2025 15:03:39 GMT | Cyber Briefing: 2025.11.11 | CyberMaterial | [Read More](https://medium.com/p/f283757de5d7) |
+| Tue, 11 Nov 2025 15:01:11 GMT | Telegram Exploited: “Fantasy Hub” Android Trojan Turns App Into Hacker Marketplace | Himanshu Bhatt | [Read More](https://medium.com/p/bff949a3cdea) |
+| Tue, 11 Nov 2025 14:57:54 GMT | Master Cloud, System & Network Support: Your Fast-Track IT Job Ready Program in Sydney | Nishesgrg | [Read More](https://medium.com/p/b1789d1aa429) |
+| Tue, 11 Nov 2025 14:56:14 GMT | SQLMap: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/31d752c37840) |
+| Tue, 11 Nov 2025 14:53:46 GMT | I Let Attackers Train My AI-powered Security Proxy (Here’s What Happened) | Mehdi T. | [Read More](https://medium.com/p/98b22970f086) |
+| Tue, 11 Nov 2025 14:53:31 GMT | What Is a CI/CD Pipeline? | Paulo Duarte | [Read More](https://medium.com/p/6c627d578933) |
+| Tue, 11 Nov 2025 14:50:34 GMT | BEC-KY BTLO walkthrough | Jagadishtripathy | [Read More](https://medium.com/p/7ba8e5838b7a) |
+| Tue, 11 Nov 2025 14:50:34 GMT | ZAST.AI identified 6+ vulnerabilities in JeeSite | ZAST AI | [Read More](https://medium.com/p/06751797be0a) |
 | Tue, 11 Nov 2025 14:41:52 GMT | TLPBLACK at Ringzer0 COUNTERMEASURE in Ottawa | Costin Raiu | [Read More](https://medium.com/p/048df2062bf9) |
+| Tue, 11 Nov 2025 14:41:36 GMT | CRM Snatch | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/29e4e12f6898) |
+| Tue, 11 Nov 2025 14:36:58 GMT | Reflected XSS inside a JavaScript string (angle brackets HTML-encoded) — Cross-site Scripting Lab 9 | Zeyad Naguib | [Read More](https://medium.com/p/fa99886fb1ab) |
 | Tue, 11 Nov 2025 14:36:34 GMT | “The 16-Hour Window: Catching a GraphQL Authorization Flaw” | Aman Sharma | [Read More](https://medium.com/p/575f6e5c1217) |
 | Tue, 11 Nov 2025 14:26:55 GMT | AI in Cybersecurity: How Generative Tools Are Powering Both Attack and Defense | Secure Talks | [Read More](https://medium.com/p/c07fd4dafa69) |
 | Tue, 11 Nov 2025 14:22:05 GMT | Exploring SentryPC’s Key Features: A Deep Dive into Its Capabilities | Paul Meyer | [Read More](https://medium.com/p/4cc9b1e0806b) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 10:02:04 GMT | Quantum Locks, Real Threats: Protocols That Survive the Next Hack | Modexa | [Read More](https://medium.com/p/0bf9a2497c0a) |
 | Tue, 11 Nov 2025 10:02:03 GMT | The 5-Phase Roadmap and What’s Next | CYBER CYMRU | [Read More](https://medium.com/p/013c7a1efa5d) |
 | Tue, 11 Nov 2025 10:01:44 GMT | IT Incident Response Plan: 5 Must-Haves for Modern Business | Benn Morris | [Read More](https://medium.com/p/abb429f5dc7a) |
-| Tue, 11 Nov 2025 09:56:29 GMT | Unlocking Secrets: Your Digital Forensics/OSINT Roadmap Awaits! | Authlyn | [Read More](https://medium.com/p/b0ef17c9fca0) |
-| Tue, 11 Nov 2025 09:54:12 GMT | IAM , Your Digital Gatekeeper | Svn | [Read More](https://medium.com/p/b0b0dc1b958d) |
-| Tue, 11 Nov 2025 09:54:00 GMT | Internet of Things — Monitoring Suhu Via Komputer (Grafik) | Zifa Tea Azzahra | [Read More](https://medium.com/p/ddc0c46af26f) |
-| Tue, 11 Nov 2025 09:44:49 GMT | Best ASPM Tools in 2025: Unify Application Security and Gain Full Code-to-Cloud Visibility | Anwar Plexicus | [Read More](https://medium.com/p/084f4fe1bd58) |
-| Tue, 11 Nov 2025 09:44:14 GMT | The Future of Cyber Defense: Why Automated Penetration Testing Is a Game-Changer | Kate Bennett | [Read More](https://medium.com/p/6a0cd661ccd1) |
-| Tue, 11 Nov 2025 09:37:12 GMT | Kiosk-Machine-vs-POS-MachineKiosk Machine vs. | Rakesh | [Read More](https://medium.com/p/b7cc67139a5a) |
-| Tue, 11 Nov 2025 09:34:59 GMT | FANTASY CTF — General Skills — picoCTF Writeup | Nirgunah | [Read More](https://medium.com/p/0d91b6fea7d8) |
-| Tue, 11 Nov 2025 09:34:12 GMT | Common website security bypasses | 80h3m14n | [Read More](https://medium.com/p/6fd80f818a01) |
-| Tue, 11 Nov 2025 09:33:59 GMT | SSH Isn’t Just a Service: How Outdated Daemons Create Unseen Backdoors | bishopx_09 | [Read More](https://medium.com/p/58ac0f47eaa9) |
-| Tue, 11 Nov 2025 09:32:59 GMT | What Happens When You Type ls *.c in Your Shell | Elmir | [Read More](https://medium.com/p/266488e04348) |
-| Tue, 11 Nov 2025 09:30:17 GMT | 0-Click Account Takeover Using Special Characters ✔ | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/0030a1e3c6d6) |
-| Tue, 11 Nov 2025 09:27:23 GMT | Joiner Process in IAM - Easy 9-Step Explanation | Anuja Pawar | [Read More](https://medium.com/p/137fe20fe17a) |
-| Tue, 11 Nov 2025 09:14:18 GMT | The Bright Wave: New Generation of Tech Entrepreneurs in Bangladesh | Spike Story | [Read More](https://medium.com/p/51a371ef6aff) |
-| Tue, 11 Nov 2025 09:06:02 GMT | Insp3ct0r — picoCTF Web Exploitation Writeup | Hasnainabid | [Read More](https://medium.com/p/84f3a9263d58) |
-| Tue, 11 Nov 2025 09:03:00 GMT | Stealer Logs Today: Is Your Domain in the Latest Dumps? | Alexandre Vandamme | [Read More](https://medium.com/p/b153505d5910) |
