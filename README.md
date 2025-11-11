@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 23:26:22 GMT | OWASP Top 10:2025 Sürüm Adayı | hadi cicek | [Read More](https://medium.com/p/993bd36ef809) |
+| Tue, 11 Nov 2025 23:18:45 GMT | When Six Zeros Broke a Food Delivery Empire | Jackson Mittag | [Read More](https://medium.com/p/1b4a5cf5405b) |
+| Tue, 11 Nov 2025 23:17:12 GMT | First Post | Sanishsinghmaharjan | [Read More](https://medium.com/p/68158818563f) |
 | Tue, 11 Nov 2025 23:03:47 GMT | Fusion Corp — Walkthrough (TryHackMe) | Muhammad Usman Faridi | [Read More](https://medium.com/p/99c83213caf0) |
 | Tue, 11 Nov 2025 22:57:57 GMT | When a Job Offer Becomes a Cyberattack | Dmytro J. Medvid | [Read More](https://medium.com/p/689f4292d23d) |
 | Tue, 11 Nov 2025 22:51:08 GMT | Weird Is Wonderful | Matthew Stevens | [Read More](https://medium.com/p/b7b44934b692) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 16:47:56 GMT | Why Your AI Is Bad (And How to Fix It With Context Engineering) | ToxSec | [Read More](https://medium.com/p/5b2e3bc7bb70) |
 | Tue, 11 Nov 2025 16:46:39 GMT | SOC 2 Compliance Requirements — 2025 Overview | Tamzid Ahmed | [Read More](https://medium.com/p/642fe58f40a1) |
 | Tue, 11 Nov 2025 16:43:14 GMT | Beyond Google: Navigating the Hidden Internet with Shodan and Censys | Little_Sun4lower | [Read More](https://medium.com/p/2cf5015f1b57) |
-| Tue, 11 Nov 2025 16:42:58 GMT | North Korean Hackers Exploit Google Find Hub to Remotely Wipe Android Devices in Sophisticated… | Technijian | [Read More](https://medium.com/p/10ccb4757dc6) |
-| Tue, 11 Nov 2025 16:38:38 GMT | The Hidden Risk Inside Your Router: What the U.S. Crackdown on TP-Link Reveals | Abatis ABTU | [Read More](https://medium.com/p/09c4808798e2) |
-| Tue, 11 Nov 2025 16:37:07 GMT | Try One Small Act of Kindness Tonight. Come Back and Tell Me What Happened | LaJuan Grier/ Juannilicious | [Read More](https://medium.com/p/2ef0103aaf0a) |
