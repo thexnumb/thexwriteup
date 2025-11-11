@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 16:43:14 GMT | Beyond Google: Navigating the Hidden Internet with Shodan and Censys | Little_Sun4lower | [Read More](https://medium.com/p/2cf5015f1b57) |
+| Tue, 11 Nov 2025 16:42:58 GMT | North Korean Hackers Exploit Google Find Hub to Remotely Wipe Android Devices in Sophisticated… | Technijian | [Read More](https://medium.com/p/10ccb4757dc6) |
+| Tue, 11 Nov 2025 16:38:38 GMT | The Hidden Risk Inside Your Router: What the U.S. Crackdown on TP-Link Reveals | Abatis ABTU | [Read More](https://medium.com/p/09c4808798e2) |
+| Tue, 11 Nov 2025 16:37:07 GMT | Try One Small Act of Kindness Tonight. Come Back and Tell Me What Happened | LaJuan Grier/ Juannilicious | [Read More](https://medium.com/p/2ef0103aaf0a) |
+| Tue, 11 Nov 2025 16:32:33 GMT | ️ Offensive vs Defensive Keylogger in Python | IsaacNatarajan | [Read More](https://medium.com/p/ed0190dd5d95) |
+| Tue, 11 Nov 2025 16:32:25 GMT | Your Digital Early Warning System (Or: Why You Need to Know When Bad Things Happen) | Cyberberri | [Read More](https://medium.com/p/ace8d844894e) |
+| Tue, 11 Nov 2025 16:31:47 GMT | [LAB]I cracked a WPA/WPA2 key with a basic PC, and you can do it too. | Guepster | [Read More](https://medium.com/p/c57b3230053f) |
+| Tue, 11 Nov 2025 16:27:53 GMT | Cracking වලට ආස කට්ටියට | Atsuアツ | [Read More](https://medium.com/p/22051d2ebc54) |
 | Tue, 11 Nov 2025 16:24:48 GMT | Black Hat 2025 Arsenal Experience | Faction Security | [Read More](https://medium.com/p/9301ada8e386) |
 | Tue, 11 Nov 2025 16:23:43 GMT | Navigating the Legal Landscape of a Data Breach | Samina Perveen | [Read More](https://medium.com/p/7bc2900b9329) |
 | Tue, 11 Nov 2025 16:23:34 GMT | Google Earth Pro Secrets: A Step-by-Step OSINT Guide for Beginners [Part I] | 5hr33.j11 | [Read More](https://medium.com/p/a8961111f9ae) |
@@ -78,6 +86,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 13:08:46 GMT | Enhancing Security Posture with Cyber Maturity Assessment | Vishwajeettechtech | [Read More](https://medium.com/p/60bed776564b) |
 | Tue, 11 Nov 2025 13:06:02 GMT | 11 Ways to Ensure Financial Security for Early Retirement (FIRE) | Connie C | [Read More](https://medium.com/p/abe531b22cb4) |
 | Tue, 11 Nov 2025 13:05:02 GMT | The First Biometric Failure in History: How Jacob Outsmarted the System | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/8ad4f0baf84e) |
+| Tue, 11 Nov 2025 13:01:58 GMT | ️ Automating CVE Scanning in CI/CD: Make Your Builds Fail for the Right Reasons | Cássius Paim | [Read More](https://medium.com/p/8bd534f95473) |
 | Tue, 11 Nov 2025 12:57:37 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/3e413f6a4304) |
 | Tue, 11 Nov 2025 12:57:14 GMT | Firebase Authentication: The Unsung Hero of Modern App Security (and Why You’ll Cry Without It) | Akhshy Ganesh | [Read More](https://medium.com/p/ae2b83cd0034) |
 | Tue, 11 Nov 2025 12:54:20 GMT | How Supply Chain Vulnerabilities Put Healthcare Data at Risk | David Miller | [Read More](https://medium.com/p/44dda2de6eac) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 11:33:50 GMT | Advanced WordPress Security Techniques to Keep Your Site Secure | InCreativeWeb | [Read More](https://medium.com/p/bcae3fcf87c0) |
 | Tue, 11 Nov 2025 11:32:19 GMT | That text you just got? It could cost you everything. | Ashe Sule | [Read More](https://medium.com/p/c7b090c00ea3) |
 | Tue, 11 Nov 2025 11:30:35 GMT | Bug Bounty Hunting — Complete Guide (Part-140) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0944b1616a29) |
-| Tue, 11 Nov 2025 11:28:37 GMT | Bug Bounty Hunting — Complete Guide (Part-139) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/6a8a0ec5b080) |
-| Tue, 11 Nov 2025 11:26:12 GMT | Bug Bounty Hunting — Complete Guide (Part-138) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/002300cac8c8) |
-| Tue, 11 Nov 2025 11:22:09 GMT | Discover the Elegance of Art Deco Moissanite Engagement Rings by BRILLIANT CARATS | justinwest8526 | [Read More](https://medium.com/p/1db643088c2b) |
-| Tue, 11 Nov 2025 11:21:00 GMT | Integrating AI into Your Digital Transformation Strategy for Smarter Operations | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/8077e6d67655) |
-| Tue, 11 Nov 2025 11:17:20 GMT | June 2025 Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/bae9d1a78789) |
-| Tue, 11 Nov 2025 11:07:13 GMT | Shells Overview — Writeup | Mahir | [Read More](https://medium.com/p/83d9626869d6) |
-| Tue, 11 Nov 2025 11:05:47 GMT | What is Authentication? | Rafael Mammadov | [Read More](https://medium.com/p/3bc51b5caa96) |
-| Tue, 11 Nov 2025 11:04:11 GMT | Dina Vulnhub Room: A Step-by-Step Walkthrough | Hanish | [Read More](https://medium.com/p/704189a31371) |
-| Tue, 11 Nov 2025 11:01:13 GMT | Ethical Hacker in India – SAIRAM founded the official chapter of DEF CON Madurai in Tamil Nadu | DEF CON MADURAI | [Read More](https://medium.com/p/a814f0f8ac88) |
