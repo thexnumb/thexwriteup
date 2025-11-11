@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 01:40:38 GMT | Windows Recall: The VBS Enclave Paradox and the Evolution of Endpoint Espionage | Berend Watchus | [Read More](https://medium.com/p/c9349bc5537d) |
+| Tue, 11 Nov 2025 01:36:34 GMT | Full-Lifecycle Protection Upgrade: How Digital Shield Makes Web3 Assets Secure and Controllable | Digital Shield | [Read More](https://medium.com/p/e4c827d327e0) |
+| Tue, 11 Nov 2025 01:35:08 GMT | Security Baseline Linux | Cube1214 | [Read More](https://medium.com/p/04d64ade7d92) |
+| Tue, 11 Nov 2025 01:34:02 GMT | npm Paket Yayınlama Güvenlik Kuralları: Yeni Dönemin Tam Rehberi | Erhan Akkaya | [Read More](https://medium.com/p/a4d57517e1df) |
+| Tue, 11 Nov 2025 01:33:32 GMT | When Insiders Become the Greatest Threat — The Intel Case and a Hidden Corporate Crisis | David SEHYEON Baek | [Read More](https://medium.com/p/4013441e68be) |
+| Tue, 11 Nov 2025 01:18:28 GMT | Common Cybersecurity Myths You Should Stop Believing | Ferdi Edogawa | [Read More](https://medium.com/p/3612bf7e7251) |
+| Tue, 11 Nov 2025 01:15:32 GMT | HackTheBox Forest (AD series) | SilentExploit | [Read More](https://medium.com/p/8bbce22e732d) |
+| Tue, 11 Nov 2025 01:08:09 GMT | The Power of Vulnerability: Embracing True Strength and Self-Acceptance | Poly-blang | [Read More](https://medium.com/p/623e8dd9d5b4) |
+| Tue, 11 Nov 2025 01:06:47 GMT | Free, but Not Innocent: Anatomy of the Legal Fraud Dominating Online Commerce | Rodrigo Gutierrez | [Read More](https://medium.com/p/6ba6eb9bc183) |
+| Tue, 11 Nov 2025 00:51:49 GMT | Cyberdefenders PacketMaze Lab Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/db5ca2bb396c) |
+| Tue, 11 Nov 2025 00:46:31 GMT | Splunk Detection Lab: APT Taeddonggong Simulation (Splunk Boss of the SOC) | Julian Smith | [Read More](https://medium.com/p/8c18855d29ae) |
+| Tue, 11 Nov 2025 00:34:02 GMT | Adli Bilişim Açısından CD/DVD Analizi | Ayça Aslan | [Read More](https://medium.com/p/13fe8c3602d3) |
+| Tue, 11 Nov 2025 00:31:59 GMT | How to Secure Your Spring Boot APIs with Asgardeo (in 7 Easy Steps) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/5bddef784940) |
+| Tue, 11 Nov 2025 00:23:15 GMT | Code Review (Revisión de Código): una visión integral y práctica | Abraham Morales | [Read More](https://medium.com/p/f875a326ae11) |
+| Tue, 11 Nov 2025 00:02:48 GMT | Would you still trust ChatGPT with sensitive data after knowing this? | Cyber-AppSec | [Read More](https://medium.com/p/2aa6d3869a74) |
+| Mon, 10 Nov 2025 23:55:13 GMT | Apache Tomcat’s CVE Verification on 8.5: What Three New CVEs Reveal About Open Source Security | Jared Rhodes | [Read More](https://medium.com/p/8ad718ec12bc) |
+| Mon, 10 Nov 2025 23:43:42 GMT | Construction Site CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/459735203d70) |
 | Mon, 10 Nov 2025 23:19:09 GMT | مرحلة جديدة | Maria Writes | [Read More](https://medium.com/p/9dccfe1fa9da) |
 | Mon, 10 Nov 2025 23:11:30 GMT | THM - CRM Snatch | Francesco Pastore | [Read More](https://medium.com/p/8ec7135d159a) |
 | Mon, 10 Nov 2025 23:02:59 GMT | Information Disclosure: Hardcoded Encryption Keys | Umanhonlen Gabriel | [Read More](https://medium.com/p/fc375abf68a3) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 15:46:02 GMT | What’s the difference between good AI and bad AI? | Ivan Shkvarun | [Read More](https://medium.com/p/38017aaa3ac2) |
 | Mon, 10 Nov 2025 15:44:32 GMT | The Cost of Rollbacks and the Value of Security Redundancy: Historical Lessons for On-Chain… | Timelock | [Read More](https://medium.com/p/a20efc4127f7) |
 | Mon, 10 Nov 2025 15:39:32 GMT | 12 Common Cyber Attacks — Simple Explanations, Real Examples, and How to Protect Yourself | Explainer | [Read More](https://medium.com/p/7de969f770f1) |
-| Mon, 10 Nov 2025 15:35:32 GMT | From Passwords to Firewalls: A Practical Step-by-Step Plan to Secure Your Laptop | Paradise technologies Inc | [Read More](https://medium.com/p/b5df9b7b0c27) |
-| Mon, 10 Nov 2025 15:29:00 GMT | Have You Thanked Your Local Cybercriminal Today? | Jonathan Brown | [Read More](https://medium.com/p/c3c670c68847) |
-| Mon, 10 Nov 2025 15:24:22 GMT | Tools, Trouble, and Trickery: Part 4 | OSINT Amy | [Read More](https://medium.com/p/e8d299e44cde) |
-| Mon, 10 Nov 2025 15:23:07 GMT | How Pax Ensures Scalability and Security for Global Users | Pax | [Read More](https://medium.com/p/cbee7f1f474c) |
-| Mon, 10 Nov 2025 15:21:29 GMT | Blood-Cat: A tool for collecting publicly exposed network cameras, with support for specifying… | Мартин. | [Read More](https://medium.com/p/50886cbf2e31) |
-| Mon, 10 Nov 2025 15:16:39 GMT | Gobuster: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/78ce57a250e2) |
-| Mon, 10 Nov 2025 15:11:28 GMT | Netforge: C2 server only 14MB in size,implementing account-based session isolation and management. | Мартин. | [Read More](https://medium.com/p/7fdb6eea8cdc) |
-| Mon, 10 Nov 2025 15:09:59 GMT | When AI Meets Cybersecurity: The Next Frontier of Protection | Dr. Shashi Karhail | [Read More](https://medium.com/p/4cf02dca2f05) |
-| Mon, 10 Nov 2025 15:09:20 GMT | Threat Investigation — Boogeyman 3 - SOC Level 1 Capstone Challenge — THM | 0xRahuL | [Read More](https://medium.com/p/f4748aec2da0) |
-| Mon, 10 Nov 2025 15:05:04 GMT | The Critical Difference Between Security Compliance and Cybersecurity | Defend My Business | [Read More](https://medium.com/p/986d2024fecf) |
-| Mon, 10 Nov 2025 15:03:07 GMT | Snowflake Break-Glass Account in the MFA Era: How to Stay Compliant and Unstuck | Soorya Prakash Parthiban | [Read More](https://medium.com/p/2cfc116dbb27) |
-| Mon, 10 Nov 2025 15:03:06 GMT | When GPTs Call Home: Exploiting SSRF in ChatGPT’s Custom Actions | SirLeeroyJenkins | [Read More](https://medium.com/p/5df9df27dbe9) |
-| Mon, 10 Nov 2025 15:02:20 GMT | Threat Investigation — Boogeyman 2 - SOC Level 1 Capstone Challenge — THM | 0xRahuL | [Read More](https://medium.com/p/5328e86d304f) |
-| Mon, 10 Nov 2025 15:02:08 GMT | Cyber Briefing: 2025.11.10 | CyberMaterial | [Read More](https://medium.com/p/f709a26d0705) |
-| Mon, 10 Nov 2025 15:01:40 GMT | CVE-2021–4034 Technical Review | min6 | [Read More](https://medium.com/p/8aca5a7e7506) |
-| Mon, 10 Nov 2025 14:58:36 GMT | The Securest Browser for Your Business in 2026 Is Microsoft Edge | Cordula Boeck | [Read More](https://medium.com/p/9905617558d3) |
-| Mon, 10 Nov 2025 14:57:06 GMT | picoCTF 2025: 3v@l; web exploitation category; difficulty medium | Eddyrakotobe | [Read More](https://medium.com/p/b9335a745761) |
