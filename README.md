@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 05:09:59 GMT | API Mass Assignment Explained | Jei Ess | [Read More](https://medium.com/p/e16c27088d6f) |
+| Tue, 11 Nov 2025 05:08:12 GMT | Tornado.Cash Team Hacks Itself to Fix Critical Vulnerability | idcyrpt | [Read More](https://medium.com/p/b0872cc5f243) |
+| Tue, 11 Nov 2025 05:08:04 GMT | Day 75- Why every beginner should know about antivirus software | unica 02 | [Read More](https://medium.com/p/c231b1e02065) |
+| Tue, 11 Nov 2025 04:58:16 GMT | How to Choose the Right Security Service in Bahadurgarh | Lakshay Security | [Read More](https://medium.com/p/546e76dccfe7) |
+| Tue, 11 Nov 2025 04:53:21 GMT | Master the Art of Ethical Defense — Certified Ethical Hacking Foundation | Adhiraj Kasabe | [Read More](https://medium.com/p/e0e7a088596f) |
+| Tue, 11 Nov 2025 04:48:05 GMT | Mobile App Security in 2025: How to Protect Data in the AI Era | Xaylonlabs | [Read More](https://medium.com/p/2e5132e34ccc) |
+| Tue, 11 Nov 2025 04:43:49 GMT | Here’s How You Get Easily Hacked and Why It Never Shows | Sam Writes Security | [Read More](https://medium.com/p/c2e2953dad76) |
+| Tue, 11 Nov 2025 04:39:33 GMT | From Handshake to Token: How TLS, Encryption, and JWTs Secure the Modern Web | Nirupama G R | [Read More](https://medium.com/p/00e4bc5e5f01) |
+| Tue, 11 Nov 2025 04:29:00 GMT | Think Your Password Is Strong? Hackers Would Disagree. | Feraidon A Rahimzai | [Read More](https://medium.com/p/879de9391486) |
+| Tue, 11 Nov 2025 04:20:50 GMT | If I Let You In | Andrew Miller | [Read More](https://medium.com/p/3fd308b0d03c) |
 | Tue, 11 Nov 2025 04:18:02 GMT | From Zero to Local AI in 10 Minutes With Ollama + Python | Parthiban Rajasekaran | [Read More](https://medium.com/p/a2024e22f157) |
 | Tue, 11 Nov 2025 04:13:36 GMT | “AI + Cybersecurity: The Most Underrated Certification Combo for 2026” | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/f20c96ba21a8) |
 | Tue, 11 Nov 2025 04:05:50 GMT | 5 Things to Do If Ransomware Hits Your Business in Singapore | Steven Chin | [Read More](https://medium.com/p/244e95edaf1e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 17:20:45 GMT | China-Linked Hackers Exploit Windows Shortcut Vulnerability to Target European Diplomats | SCtoCS | [Read More](https://medium.com/p/f7577476a51a) |
 | Mon, 10 Nov 2025 17:20:15 GMT | China-Linked Tick APT Exploits Lanscope Zero-Day to Compromise Corporate Networks | SCtoCS | [Read More](https://medium.com/p/cfd54e0d8a35) |
 | Mon, 10 Nov 2025 17:20:03 GMT | How I Unlocked Enterprise Features with One Parameter — and Earned $947 | Ferdus Alam | [Read More](https://medium.com/p/7a0fef6b2ad0) |
-| Mon, 10 Nov 2025 17:11:15 GMT | Vulnerability Data Enrichment for CVE Records: 252 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/7f91233b7b6b) |
-| Mon, 10 Nov 2025 17:09:20 GMT | Why “AUKUS-Ready” Isn’t a Nice-to-Have – It’s Your Contract Gateway | AXSAS | [Read More](https://medium.com/p/d0d6aa50386e) |
-| Mon, 10 Nov 2025 17:02:07 GMT | Defense Evasion: Staying Undetected While Maintaining Control | SDNTechForum | [Read More](https://medium.com/p/748b22f43e6e) |
-| Mon, 10 Nov 2025 17:02:02 GMT | Episode 6: “The Silent Rollout” | Dr. House In I.T. | [Read More](https://medium.com/p/6d75e7afb2af) |
-| Mon, 10 Nov 2025 17:01:56 GMT | Try This: Stop “Access Creep” With a Label-First Check | LaJuan Grier/ Juannilicious | [Read More](https://medium.com/p/73158c9b1c4f) |
-| Mon, 10 Nov 2025 17:01:09 GMT | The macOS Microkernel - IPC Message for Injections | RandomFlawsFinder | [Read More](https://medium.com/p/f358dde99926) |
-| Mon, 10 Nov 2025 16:56:26 GMT | HackGPT Brings AI-Powered Penetration Testing to Enterprise Security Teams | Technijian | [Read More](https://medium.com/p/0fb7723e7f05) |
-| Mon, 10 Nov 2025 16:51:15 GMT | The Hidden Fragility of Centralized Exchanges: Why Proactive Cyber Defence Must Replace Reactive… | Abatis ABTU | [Read More](https://medium.com/p/1cc5d1b971a4) |
-| Mon, 10 Nov 2025 16:45:36 GMT | How to Prevent AI Agent Attacks: A Practical Guide | Isaac obune | [Read More](https://medium.com/p/b0586e317228) |
-| Mon, 10 Nov 2025 16:44:32 GMT | How AI and Machine Learning Are Transforming Cloud Cybersecurity | Techridge Solutions | [Read More](https://medium.com/p/3f93ead81943) |
