@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 22:34:07 GMT | 77% of Employees Are Copy/Pasting Corporate Data Into AI Tools | Cyber-AppSec | [Read More](https://medium.com/p/2ad4afee92b0) |
 | Tue, 11 Nov 2025 22:14:16 GMT | HackGPTs: Teaching AI to Think Like a Pentester | Twinkle Jaineera | [Read More](https://medium.com/p/730c2de0b7fe) |
 | Tue, 11 Nov 2025 21:59:04 GMT | Three Weeks in Solitude: Revealing the Truth of God’s Love | Joanne Miller | [Read More](https://medium.com/p/27a528ae047a) |
 | Tue, 11 Nov 2025 21:54:12 GMT | Abusing Sudo Rights on NeedRestart for Escalation | Aniket Das | [Read More](https://medium.com/p/d1307c2af12f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 16:15:03 GMT | How I solved MD2PDF on TryHackMe — a friendly, step-by-step walkthrough | Cyber Phantom | [Read More](https://medium.com/p/a2cdc2e9e2b5) |
 | Tue, 11 Nov 2025 16:14:24 GMT | HTB CTF Shush Protocol (ICS) | Arka Priya Das | [Read More](https://medium.com/p/588845f64a83) |
 | Tue, 11 Nov 2025 16:13:51 GMT | The Delhi Blast: Unraveling India’s Resurgent Terror Threat | Shashwata Bhattacharjee | [Read More](https://medium.com/p/1ceed40401db) |
-| Tue, 11 Nov 2025 16:11:04 GMT | Close but no cigar | Kevin | [Read More](https://medium.com/p/768f4d2e90bd) |
