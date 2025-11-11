@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 21:13:55 GMT | CyCTF25 Qualifications — Vault Raider, Mobile Challenge Writeup | محمد بن إبراهيم | [Read More](https://medium.com/p/998f38aa3e75) |
+| Tue, 11 Nov 2025 21:04:20 GMT | The Skies Are Too Crowded | Sharon Johnson | [Read More](https://medium.com/p/cce584c07a54) |
+| Tue, 11 Nov 2025 20:55:58 GMT | The DNS Tool That Became a Hacker’s Playground (And How I Caught Them Red-Handed) | HUNT3R | [Read More](https://medium.com/p/92670ee574c3) |
+| Tue, 11 Nov 2025 20:46:54 GMT | API Security Pentest Scripts — Safe Test Patterns, Automation and Examples ⚙️ | Esra Kayhan | [Read More](https://medium.com/p/5ea1c707c4d5) |
+| Tue, 11 Nov 2025 20:46:39 GMT | Setting up Tpot Honeypot using AWS EC2 instance | The Commoness | [Read More](https://medium.com/p/c7df1b0922bf) |
+| Tue, 11 Nov 2025 20:43:47 GMT | PortSwigger : Access control LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/1a9beff68649) |
+| Tue, 11 Nov 2025 20:43:06 GMT | CRM Snatch Tryhackme Answers | Jawstar | [Read More](https://medium.com/p/8c2d90a1890f) |
+| Tue, 11 Nov 2025 20:41:47 GMT | Golden Ticket challenge — LetsDefend | vdmarcos | [Read More](https://medium.com/p/4dbc26449781) |
+| Tue, 11 Nov 2025 20:37:39 GMT | [4/4] Automatically propagating keys to Kubernetes services | Bashkim Isai | [Read More](https://medium.com/p/47cd112ab32b) |
+| Tue, 11 Nov 2025 20:36:24 GMT | Amadey — Malware Evolving Through Time — Reverse Engineering | dandor2022 | [Read More](https://medium.com/p/c1f5c72a8cb6) |
 | Tue, 11 Nov 2025 20:32:01 GMT | 7 Hard Security Wins Rust Guarantees — And 9 Traps It Won’t Save You From | Noah Byteforge | [Read More](https://medium.com/p/6d2677436e0a) |
 | Tue, 11 Nov 2025 20:31:24 GMT | Ever shared files through messy email threads — and lost track halfway? | Jane Brian | [Read More](https://medium.com/p/042a977f5ba5) |
 | Tue, 11 Nov 2025 20:27:43 GMT | India’s Quiet Economic Revolution: How GCCs and Oil Rescued our Current Account | Alan Shore | [Read More](https://medium.com/p/449bb327d802) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 15:48:24 GMT | Typhoon by Consent: Quiet, Durable, Everywhere | Wes Young | [Read More](https://medium.com/p/cabbbe7a1746) |
 | Tue, 11 Nov 2025 15:46:35 GMT | Arquitectura de Seguridad Avanzada (FastAPI + Keycloak + Vault) | Gorkazar | [Read More](https://medium.com/p/52fa41cd3501) |
 | Tue, 11 Nov 2025 15:41:56 GMT | Frustrated by “Permission Denied”? Here’s What Linux Is Trying to Tell You | Sukanthi R | [Read More](https://medium.com/p/c3e7faa89359) |
-| Tue, 11 Nov 2025 15:38:40 GMT | “The Mask That Smiles: How Rejection Creates Performers, Not People” | Mr. Zaffi Awan. | [Read More](https://medium.com/p/fe06d2263a39) |
-| Tue, 11 Nov 2025 15:35:27 GMT | The macOS Process Journey — countryd (Country Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/354c9c6b8290) |
-| Tue, 11 Nov 2025 15:31:59 GMT | Reconciliation Software for Banks: Streamline Compliance and Efficiency | Kosh AI | [Read More](https://medium.com/p/9201abcb4916) |
-| Tue, 11 Nov 2025 15:30:49 GMT | Building a Fully Automated SOC Lab with Open-Source Tools | khalifa_farhat | [Read More](https://medium.com/p/284ca39cb6c5) |
-| Tue, 11 Nov 2025 15:19:59 GMT | Handling Large File Uploads (Up to 10GB) in Django: A Complete Guide | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/efa195d80445) |
-| Tue, 11 Nov 2025 15:14:36 GMT | Analysis of API Hashing and Import Lookup Techniques for Obfuscated API Resolution in Malware | YUCA | [Read More](https://medium.com/p/ffe711c616d2) |
-| Tue, 11 Nov 2025 15:11:39 GMT | The Factory Pattern Evolved: How Modern Java (21–25) Makes Object Creation Elegant and Type-Safe | Jitin Kayyala | [Read More](https://medium.com/p/a7df30909ced) |
-| Tue, 11 Nov 2025 15:11:35 GMT | Grounding Generative AI in Reality: How RAG Prevents Hallucinations in Large Language Models | Robin Kester - Please Don’t Feed the Unicorn | [Read More](https://medium.com/p/99962ba98fbf) |
-| Tue, 11 Nov 2025 15:10:06 GMT | 45 Days of Cybersecurity Days 1–3: Foundations & First Hacking Labs | Wandesrtech | [Read More](https://medium.com/p/eb8f50f0af10) |
-| Tue, 11 Nov 2025 15:09:50 GMT | Why Zero Trust Fits NuVĭsum Architecture by Design | NuVisum | [Read More](https://medium.com/p/9a4fc175e188) |
