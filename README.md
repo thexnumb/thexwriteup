@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 19:12:23 GMT | CRTO Review — 2025 | Paradox | [Read More](https://medium.com/p/ecdedc2e7565) |
+| Tue, 11 Nov 2025 19:04:43 GMT | Fantasy Hub Android Trojan Turns Telegram into a Cybercrime Marketplace | Cybersectoworld | [Read More](https://medium.com/p/470930a39d92) |
+| Tue, 11 Nov 2025 18:57:38 GMT | How Many Amps Does a Garage Door Opener Use: Power Specs Explained | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/db22a3c22bba) |
+| Tue, 11 Nov 2025 18:53:27 GMT | The Importance of Data Security in Healthcare and Financial Services | Legal Thoughts | [Read More](https://medium.com/p/21c9e9ecb4a1) |
+| Tue, 11 Nov 2025 18:46:40 GMT | EU Plans to Loosen GDPR Rules to Boost AI Development | SOCFortress | [Read More](https://medium.com/p/6399ca5c3edb) |
+| Tue, 11 Nov 2025 18:45:30 GMT | A newly discovered malicious Visual Studio Code extension, dubbed SleepyDuck, demonstrates a… | SCtoCS | [Read More](https://medium.com/p/b5e21cd9dfb1) |
+| Tue, 11 Nov 2025 18:45:23 GMT | How Big and Small Companies Manage Cybersecurity Differently | Amritesh Shree | [Read More](https://medium.com/p/acd7f2301bcd) |
+| Tue, 11 Nov 2025 18:35:01 GMT | PhantomCollect in Action: Real-World Use Cases for Security Professionals | xsser01 | [Read More](https://medium.com/p/b65b896a1cb6) |
+| Tue, 11 Nov 2025 18:34:57 GMT | I Love You, Until… | Soude Oluwadamilola Temilara | [Read More](https://medium.com/p/2fdc22392b77) |
+| Tue, 11 Nov 2025 18:30:10 GMT | If you're doing pentesting, you already love poking things to see what falls off. | Cyberbald007 | [Read More](https://medium.com/p/f3f9bb4ed3b1) |
 | Tue, 11 Nov 2025 18:21:29 GMT | From Dental Tools to Digital Defenses: My Journey into Cybersecurity | fromdentaltocyber | [Read More](https://medium.com/p/82f649e48040) |
 | Tue, 11 Nov 2025 18:04:44 GMT | The 0-Click Account Takeover Using Punycode IDN Attacks | Syed Shahwar | [Read More](https://medium.com/p/ac20c4eb05c8) |
 | Tue, 11 Nov 2025 18:01:57 GMT | PicoCTF Writeup: Python Wrangling | SoBatista | [Read More](https://medium.com/p/bf2e65fa9f69) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 14:10:01 GMT | Day 10: WebNet0 — PicoCTF | Siyam | [Read More](https://medium.com/p/3567b47c45d5) |
 | Tue, 11 Nov 2025 14:09:50 GMT | Protect Your Digital Assets with Nexasoft Infinity’s Cloud Security Solutions | Nexasoftinfinity | [Read More](https://medium.com/p/c605888b09ac) |
 | Tue, 11 Nov 2025 14:02:30 GMT | Tools, Trouble, and Trickery, Part 5 | OSINT Amy | [Read More](https://medium.com/p/90b448f37967) |
-| Tue, 11 Nov 2025 13:56:17 GMT | LockBit: The Ransomware Empire That Refused to Die | Gabriel Santos | [Read More](https://medium.com/p/a6ad886f480b) |
-| Tue, 11 Nov 2025 13:49:59 GMT | Protection through deception | ProjektID | [Read More](https://medium.com/p/dcb0378f7bcb) |
-| Tue, 11 Nov 2025 13:40:56 GMT | Beyond the “IT Guy”: Why Your Dallas Business Has Outgrown the Break-Fix Model | Ighty Support | [Read More](https://medium.com/p/4349e9553ee4) |
-| Tue, 11 Nov 2025 13:35:39 GMT | Introducing Cyber Cymru — Design. Security. Performance. Zero Compromises! | CYBER CYMRU | [Read More](https://medium.com/p/88bbd627b86a) |
-| Tue, 11 Nov 2025 13:35:33 GMT | Prólogo — O Colapso do Nodo | Kleber Andrade | [Read More](https://medium.com/p/b27bbaa4d7dc) |
-| Tue, 11 Nov 2025 13:30:52 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/25d40f7526ae) |
-| Tue, 11 Nov 2025 13:27:02 GMT | What It Feels Like to Be Mediocre | Dzovag Soghomonian | [Read More](https://medium.com/p/0cd3b9f9ee25) |
-| Tue, 11 Nov 2025 13:26:28 GMT | The State of the Art of Palm Payments | Kevin Morales | [Read More](https://medium.com/p/5adbadb5cfeb) |
-| Tue, 11 Nov 2025 13:26:09 GMT | Secure by Design: Building Safety into the DNA of Technology | Richard Ndung'u | [Read More](https://medium.com/p/a518b9227864) |
-| Tue, 11 Nov 2025 13:23:46 GMT | Security Simplified: What Zero Trust and IAM Mean for Your Business | Ujjawal Ghosh | [Read More](https://medium.com/p/9fdaf39c10d6) |
