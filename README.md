@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 20:15:46 GMT | SentinelOne Series: The SSO Workaround You’ll Actually Thank Me For | Dean | [Read More](https://medium.com/p/178b44a2e210) |
+| Tue, 11 Nov 2025 20:15:00 GMT | Pakistan’s 15-Year Derailment: A Nation Engineered Into Perpetual Crisis | Danish Thanvi | [Read More](https://medium.com/p/8a7dd49d5e6b) |
+| Tue, 11 Nov 2025 20:10:54 GMT | Event Security: Why Professional Security Services Are Essential for a Safe & Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/c592ce19a4f3) |
+| Tue, 11 Nov 2025 20:08:21 GMT | 18 Digital Forensic Tools Every Cybersecurity Professional Should Know (2025 Guide) | Nazrul Islam Rana | [Read More](https://medium.com/p/9a8ce947f287) |
+| Tue, 11 Nov 2025 20:08:01 GMT | Understanding Cloudflare Workers Routes: How They Work, Why They Matter, and How to Use Them… | Jobin J | [Read More](https://medium.com/p/aa09eb3530b9) |
+| Tue, 11 Nov 2025 20:06:24 GMT | The TikTok Trap: How Hackers Are Hiding Malware in Plain Sight | Aj | [Read More](https://medium.com/p/a88b950a17a5) |
+| Tue, 11 Nov 2025 20:06:00 GMT | Why Small Businesses Can’t Afford Weak Protection in 2026 | Cordula Boeck | [Read More](https://medium.com/p/bf47d157be4d) |
+| Tue, 11 Nov 2025 20:04:32 GMT | Part 7: Virtual Box Home Lab Common Active Directory Issues — (CMD, PC Offline) | Declan | [Read More](https://medium.com/p/ed53df9055c3) |
+| Tue, 11 Nov 2025 20:03:15 GMT | The Pulse: Crypto Risk Review | Gabriel Halm | [Read More](https://medium.com/p/21a0f66b8dc2) |
+| Tue, 11 Nov 2025 20:02:32 GMT | A Story of a Slowloris DoS — the coolest DoS Attack | Appsec.pt | [Read More](https://medium.com/p/9279442ed89a) |
+| Tue, 11 Nov 2025 20:01:32 GMT | When Love Starts Feeling Like Anxiety | Bloom with Maria | [Read More](https://medium.com/p/555ce891ec55) |
+| Tue, 11 Nov 2025 19:57:34 GMT | Legal and Regulatory “Grey Zones” The New Frontier of Tech | Modncv | [Read More](https://medium.com/p/444bf0edc6eb) |
+| Tue, 11 Nov 2025 19:52:55 GMT | Setting up your Android mobile-app pentesting lab — a fast, reliable guide | coy0te | [Read More](https://medium.com/p/f2627f4fa132) |
+| Tue, 11 Nov 2025 19:48:50 GMT | How I Built 5 AI Tools That Save Me 20+ Hours a Week | Code with Margaret | [Read More](https://medium.com/p/4da0ccf9ada6) |
+| Tue, 11 Nov 2025 19:42:23 GMT | DocScan Pro — Turning Everyday Documents into Digital Power!!! | Edcleff | [Read More](https://medium.com/p/c36fe4fd1e36) |
 | Tue, 11 Nov 2025 19:23:46 GMT | How You Can always be Tracked in this era. | err0rgod | [Read More](https://medium.com/p/b64dbad6c17d) |
 | Tue, 11 Nov 2025 19:15:48 GMT | The Synthetic Conscience Effect: How ΔE Translates Awareness into Engineering — or When a Machine… | Max Barzenkov | [Read More](https://medium.com/p/b2d34e8b071b) |
 | Tue, 11 Nov 2025 19:13:43 GMT | What Is Bloatware — and Why It’s a Hidden Cost to Businesses ? | IT_Engineer | [Read More](https://medium.com/p/8aa0e7b82201) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 15:01:11 GMT | Telegram Exploited: “Fantasy Hub” Android Trojan Turns App Into Hacker Marketplace | Himanshu Bhatt | [Read More](https://medium.com/p/bff949a3cdea) |
 | Tue, 11 Nov 2025 14:57:54 GMT | Master Cloud, System & Network Support: Your Fast-Track IT Job Ready Program in Sydney | Nishesgrg | [Read More](https://medium.com/p/b1789d1aa429) |
 | Tue, 11 Nov 2025 14:56:14 GMT | SQLMap: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/31d752c37840) |
-| Tue, 11 Nov 2025 14:53:46 GMT | I Let Attackers Train My AI-powered Security Proxy (Here’s What Happened) | Mehdi T. | [Read More](https://medium.com/p/98b22970f086) |
-| Tue, 11 Nov 2025 14:53:31 GMT | What Is a CI/CD Pipeline? | Paulo Duarte | [Read More](https://medium.com/p/6c627d578933) |
-| Tue, 11 Nov 2025 14:50:34 GMT | BEC-KY BTLO walkthrough | Jagadishtripathy | [Read More](https://medium.com/p/7ba8e5838b7a) |
-| Tue, 11 Nov 2025 14:50:34 GMT | ZAST.AI identified 6+ vulnerabilities in JeeSite | ZAST AI | [Read More](https://medium.com/p/06751797be0a) |
-| Tue, 11 Nov 2025 14:41:52 GMT | TLPBLACK at Ringzer0 COUNTERMEASURE in Ottawa | Costin Raiu | [Read More](https://medium.com/p/048df2062bf9) |
-| Tue, 11 Nov 2025 14:41:36 GMT | CRM Snatch | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/29e4e12f6898) |
-| Tue, 11 Nov 2025 14:36:58 GMT | Reflected XSS inside a JavaScript string (angle brackets HTML-encoded) — Cross-site Scripting Lab 9 | Zeyad Naguib | [Read More](https://medium.com/p/fa99886fb1ab) |
-| Tue, 11 Nov 2025 14:36:34 GMT | “The 16-Hour Window: Catching a GraphQL Authorization Flaw” | Aman Sharma | [Read More](https://medium.com/p/575f6e5c1217) |
-| Tue, 11 Nov 2025 14:26:55 GMT | AI in Cybersecurity: How Generative Tools Are Powering Both Attack and Defense | Secure Talks | [Read More](https://medium.com/p/c07fd4dafa69) |
-| Tue, 11 Nov 2025 14:22:05 GMT | Exploring SentryPC’s Key Features: A Deep Dive into Its Capabilities | Paul Meyer | [Read More](https://medium.com/p/4cc9b1e0806b) |
-| Tue, 11 Nov 2025 14:21:18 GMT | Samsung Zero-Click Flaw Exploited to Deliver LANDFALL Android Spyware via WhatsApp Images | Jason Hoskins Jr. | [Read More](https://medium.com/p/6fcb9e5b9873) |
-| Tue, 11 Nov 2025 14:16:58 GMT | Linux hacks that’ll prevent 2 AM downtimes | Kavish Baghel | [Read More](https://medium.com/p/3078a110d506) |
-| Tue, 11 Nov 2025 14:13:48 GMT | Cryptography Techniques: A Simple Guide | Dhruvjain | [Read More](https://medium.com/p/c1506cc9e2b3) |
-| Tue, 11 Nov 2025 14:13:20 GMT | How a Cyber Security Development Company Can Protect Your Brand Reputation. | Webtrills | [Read More](https://medium.com/p/104b03522d60) |
-| Tue, 11 Nov 2025 14:10:37 GMT | I analyzed a polymorphic VBS virus that hijacks file associations and it’s honestly brilliant (and… | Harsh Raj Singhania | [Read More](https://medium.com/p/6bad93ae5f98) |
