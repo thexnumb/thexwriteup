@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 09:14:18 GMT | The Bright Wave: New Generation of Tech Entrepreneurs in Bangladesh | Spike Story | [Read More](https://medium.com/p/51a371ef6aff) |
+| Tue, 11 Nov 2025 09:06:02 GMT | Insp3ct0r — picoCTF Web Exploitation Writeup | Hasnainabid | [Read More](https://medium.com/p/84f3a9263d58) |
+| Tue, 11 Nov 2025 09:03:00 GMT | Stealer Logs Today: Is Your Domain in the Latest Dumps? | Alexandre Vandamme | [Read More](https://medium.com/p/b153505d5910) |
+| Tue, 11 Nov 2025 09:03:00 GMT | Where Are the Robots? — picoCTF Web Exploitation Writeup | Hasnainabid | [Read More](https://medium.com/p/82a121cfd935) |
+| Tue, 11 Nov 2025 09:00:28 GMT | SquareX Wins Multiple Cybersecurity Awards in H2 2025 | SquareX | [Read More](https://medium.com/p/f8923e544c4e) |
+| Tue, 11 Nov 2025 09:00:26 GMT | Build an Efficient Authentication Architecture for Microservices — With Working Java Code and Clear… | Anh Trần Tuấn | [Read More](https://medium.com/p/f07434ebf20b) |
+| Tue, 11 Nov 2025 08:59:23 GMT | NIS 2 for Non-EU Vendors: 60-Day Remediation Playbook | Pentest_Testing_Corp | [Read More](https://medium.com/p/38606bca925d) |
+| Tue, 11 Nov 2025 08:58:23 GMT | ประจำวันอังคารที่ 11 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/137e6a715089) |
+| Tue, 11 Nov 2025 08:56:03 GMT | What a 2025-Ready Security Operations Center Looks Like | Fook Hwa Tan | [Read More](https://medium.com/p/c553846a1e62) |
+| Tue, 11 Nov 2025 08:55:02 GMT | The Hidden Security Risks in Mergers and Acquisitions | Fook Hwa Tan | [Read More](https://medium.com/p/108e8e6f12f1) |
+| Tue, 11 Nov 2025 08:53:17 GMT | It’s Not About Tech Anymore — The New CISO Skillset | Fook Hwa Tan | [Read More](https://medium.com/p/22ddf53e1d80) |
 | Tue, 11 Nov 2025 08:47:34 GMT | Log Hunt — General Skills — picoCTF WriteUp | Nirgunah | [Read More](https://medium.com/p/b71dccaf1035) |
+| Tue, 11 Nov 2025 08:45:23 GMT | Exploring Donnacazzo69: A Bold and Engaging Online Platform | Charliwilson | [Read More](https://medium.com/p/10ff8723dac6) |
 | Tue, 11 Nov 2025 08:42:26 GMT | Getting Started With Windows Red Teaming | Redfox Security | [Read More](https://medium.com/p/379981c00b89) |
 | Tue, 11 Nov 2025 08:33:35 GMT | Catching Secrets Before They Leak — TruffleHog | Msaud | [Read More](https://medium.com/p/d1f5a111f300) |
 | Tue, 11 Nov 2025 08:30:09 GMT | From Legacy Chaos to Cloud Control: Rethinking Secure File Transfers for the Modern Enterprise | Prabhu Srivastava | [Read More](https://medium.com/p/fa65ad3bf8a1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 00:46:31 GMT | Splunk Detection Lab: APT Taeddonggong Simulation (Splunk Boss of the SOC) | Julian Smith | [Read More](https://medium.com/p/8c18855d29ae) |
 | Tue, 11 Nov 2025 00:34:02 GMT | Adli Bilişim Açısından CD/DVD Analizi | Ayça Aslan | [Read More](https://medium.com/p/13fe8c3602d3) |
 | Tue, 11 Nov 2025 00:31:59 GMT | How to Secure Your Spring Boot APIs with Asgardeo (in 7 Easy Steps) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/5bddef784940) |
-| Tue, 11 Nov 2025 00:23:15 GMT | Code Review (Revisión de Código): una visión integral y práctica | Abraham Morales | [Read More](https://medium.com/p/f875a326ae11) |
-| Tue, 11 Nov 2025 00:02:48 GMT | Would you still trust ChatGPT with sensitive data after knowing this? | Cyber-AppSec | [Read More](https://medium.com/p/2aa6d3869a74) |
-| Mon, 10 Nov 2025 23:55:13 GMT | Apache Tomcat’s CVE Verification on 8.5: What Three New CVEs Reveal About Open Source Security | Jared Rhodes | [Read More](https://medium.com/p/8ad718ec12bc) |
-| Mon, 10 Nov 2025 23:43:42 GMT | Construction Site CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/459735203d70) |
-| Mon, 10 Nov 2025 23:19:09 GMT | مرحلة جديدة | Maria Writes | [Read More](https://medium.com/p/9dccfe1fa9da) |
-| Mon, 10 Nov 2025 23:11:30 GMT | THM - CRM Snatch | Francesco Pastore | [Read More](https://medium.com/p/8ec7135d159a) |
-| Mon, 10 Nov 2025 23:02:59 GMT | Information Disclosure: Hardcoded Encryption Keys | Umanhonlen Gabriel | [Read More](https://medium.com/p/fc375abf68a3) |
-| Mon, 10 Nov 2025 22:49:44 GMT | Applying the Principle of Least Privilege with AWS IAM: A Hands-On Project | Okeke Jehohanan Ginika | [Read More](https://medium.com/p/27c62e70fd2d) |
-| Mon, 10 Nov 2025 22:45:53 GMT | GZR Observer — Global Daily — India Perspective Nov 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/abf4faca3358) |
-| Mon, 10 Nov 2025 22:37:16 GMT | Scanned Before Consent | Mark Calee-Empathy...Power! | [Read More](https://medium.com/p/8d845345ce52) |
-| Mon, 10 Nov 2025 22:31:02 GMT | Day 10: Network Security Essentials — Firewalls, IDS/IPS, Access Control & Common Attacks | HackTrace | [Read More](https://medium.com/p/ab26cd2eb766) |
-| Mon, 10 Nov 2025 22:27:41 GMT | The $25 Million Ghost in the Machine: How AI Deepfakes Just Hacked Human Trust | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/51bea32c50dd) |
