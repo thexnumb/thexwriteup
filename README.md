@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 11 Nov 2025 03:06:53 GMT | Civilian Security | root zir0 | [Read More](https://medium.com/p/02763cea05a4) |
+| Tue, 11 Nov 2025 03:02:11 GMT | Intrusion Detection with Splunk: From 500,000 Events to Full Compromise | Cybersecurity Simplified | [Read More](https://medium.com/p/caa18d2985b4) |
+| Tue, 11 Nov 2025 02:53:15 GMT | The Future Is Not Exploit Dev. The Future Is Automated Enumeration. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/95f768db62b1) |
+| Tue, 11 Nov 2025 02:48:36 GMT | How I Turned a Failed “Race Condition” into a $ Bug Bounty Win | UrsaBear | [Read More](https://medium.com/p/647143a83cdd) |
+| Tue, 11 Nov 2025 02:42:09 GMT | That’s a Good Question | Clown Face | [Read More](https://medium.com/p/f95111731648) |
+| Tue, 11 Nov 2025 02:29:11 GMT | Kiasu No More, Kiasi Later: 5 Essential Tips to Shield Your Singapore Business from Ransomware | Steven Chin | [Read More](https://medium.com/p/8b478412e7d9) |
+| Tue, 11 Nov 2025 02:09:04 GMT | Protect Your Software Pipeline: Securing CI/CD in the Modern DevSecOps Era | Thuong To | [Read More](https://medium.com/p/2a1fbc77c326) |
+| Tue, 11 Nov 2025 01:57:47 GMT | Tuesday Morning Threat Report: Nov 11, 2025 | Mark Maguire | [Read More](https://medium.com/p/f7841fa7ec48) |
+| Tue, 11 Nov 2025 01:48:35 GMT | Rust PE RE Challenge | Farhann Mahmoodi | [Read More](https://medium.com/p/aba99b27813e) |
 | Tue, 11 Nov 2025 01:40:38 GMT | Windows Recall: The VBS Enclave Paradox and the Evolution of Endpoint Espionage | Berend Watchus | [Read More](https://medium.com/p/c9349bc5537d) |
 | Tue, 11 Nov 2025 01:36:34 GMT | Full-Lifecycle Protection Upgrade: How Digital Shield Makes Web3 Assets Secure and Controllable | Digital Shield | [Read More](https://medium.com/p/e4c827d327e0) |
 | Tue, 11 Nov 2025 01:35:08 GMT | Security Baseline Linux | Cube1214 | [Read More](https://medium.com/p/04d64ade7d92) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 10 Nov 2025 16:04:48 GMT | PySpector: how my own SAST Framework, led me to an RCE in a Major AI Library | Tommaso Bona | [Read More](https://medium.com/p/c29cdce15f9c) |
 | Mon, 10 Nov 2025 15:59:58 GMT | Salesforce SLAs in Managed Services: Why They Matter More Than Ever | Digital Transformation Playbook | [Read More](https://medium.com/p/6569f5b07da1) |
 | Mon, 10 Nov 2025 15:58:37 GMT | Is Your Startup’s ‘Secure’ Data Actually Putting You Out of Business? | Hania Khan | [Read More](https://medium.com/p/d87f2a56de7a) |
-| Mon, 10 Nov 2025 15:54:46 GMT | 5 Things That Will Shape the Future of Programming in2026 | Rizqi Mulki | [Read More](https://medium.com/p/61f147db6be2) |
-| Mon, 10 Nov 2025 15:51:34 GMT | The Vulnerabilities of AI in Healthcare | Travis Ray Caverhill | [Read More](https://medium.com/p/eed5423a9edf) |
-| Mon, 10 Nov 2025 15:51:13 GMT | Reverse Engineering IoT Radios: How I Used GNU Radio and Wireshark to Decode Proprietary Signals | Michael Preston | [Read More](https://medium.com/p/b86276fb5743) |
-| Mon, 10 Nov 2025 15:49:38 GMT | LANDFALL: The Spyware That Could Hack Your Samsung Just by Sending a Photo | Rajesh Devadasan | [Read More](https://medium.com/p/47eb565814c9) |
-| Mon, 10 Nov 2025 15:47:02 GMT | The Silent War Online: Why Data Privacy Could Be the Defining Human Right of Our Century | Hritam Dutta | [Read More](https://medium.com/p/bc3121f2b4b1) |
-| Mon, 10 Nov 2025 15:46:11 GMT | Self-XSS to PII leak via Same Origin Method Execution to admin ATO via DQLi— SMS V2 CyCTF 2025… | Kalawy | [Read More](https://medium.com/p/ee79ee89055e) |
-| Mon, 10 Nov 2025 15:46:02 GMT | What’s the difference between good AI and bad AI? | Ivan Shkvarun | [Read More](https://medium.com/p/38017aaa3ac2) |
-| Mon, 10 Nov 2025 15:44:32 GMT | The Cost of Rollbacks and the Value of Security Redundancy: Historical Lessons for On-Chain… | Timelock | [Read More](https://medium.com/p/a20efc4127f7) |
-| Mon, 10 Nov 2025 15:39:32 GMT | 12 Common Cyber Attacks — Simple Explanations, Real Examples, and How to Protect Yourself | Explainer | [Read More](https://medium.com/p/7de969f770f1) |
