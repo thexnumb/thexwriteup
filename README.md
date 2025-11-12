@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 20:41:10 GMT | How We Made $67,000+ Using The New “E/B” Attack Vector — And Other Bug Bounty Tips | Justas_b | [Read More](https://medium.com/p/753ebf8ab54b) |
+| Wed, 12 Nov 2025 20:23:06 GMT | The Windows Security Journey — BitLocker | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b4f1f35e9057) |
+| Wed, 12 Nov 2025 20:21:13 GMT | Maverick | Sampson Hart | [Read More](https://medium.com/p/a29a9160cb3b) |
+| Wed, 12 Nov 2025 20:18:42 GMT | Why AI Red Teaming is Essential: The Non-Negotiable Layer of Safety | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/77631d36623b) |
 | Wed, 12 Nov 2025 20:09:06 GMT | How Do I Protect My Small Business From Hacker Attacks? | Cordula Boeck | [Read More](https://medium.com/p/0d1241e7374f) |
 | Wed, 12 Nov 2025 20:01:57 GMT | Europe faces a convergence of profound challenges that threaten its stability and global role | MASUM BILLAH | [Read More](https://medium.com/p/9f73dc38ba6c) |
 | Wed, 12 Nov 2025 20:00:56 GMT | This Google Dorking Trick can get you $5000 Bounty [No Cap] | Prayers Khristi | [Read More](https://medium.com/p/da03a3c36355) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 13:39:42 GMT | From Cybersecurity to AI Security: The New Governance Frontier | AXSAS | [Read More](https://medium.com/p/187eed928d38) |
 | Wed, 12 Nov 2025 13:37:03 GMT | 5 Top IT Services That Help Keep Your Business Secure | Maxwell JAMES | [Read More](https://medium.com/p/8cbf18e9c79e) |
 | Wed, 12 Nov 2025 13:34:21 GMT | Cephalus Ransomware | Prinal Urkude | [Read More](https://medium.com/p/a744b04eaa55) |
-| Wed, 12 Nov 2025 13:29:11 GMT | How to Stay Anonymous Online Using Proxies | ProxiesThatWork | [Read More](https://medium.com/p/d9b7d0806487) |
-| Wed, 12 Nov 2025 13:22:40 GMT | The Check-In We All Skip: How’s Life Lately, Really? | Journeys With Sree | [Read More](https://medium.com/p/cf214e0593ef) |
-| Wed, 12 Nov 2025 13:21:03 GMT | How I Mastered Logic Bugs With One Simple Checklist | Ibtissam | [Read More](https://medium.com/p/fa94721601f0) |
-| Wed, 12 Nov 2025 13:19:37 GMT | Capítulo 1 — Ecos no SOC | Kleber Andrade | [Read More](https://medium.com/p/77fbe0180e09) |
