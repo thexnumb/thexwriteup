@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 18:59:48 GMT | At the core of Microsoft Windows Server’s ecosystem lies a principle so ingrained it’s rarely… | Rodrigo Gutierrez | [Read More](https://medium.com/p/cd19167c3def) |
+| Wed, 12 Nov 2025 18:54:10 GMT | PHP for Pentesting — Day 2 | Bazil Brohi | [Read More](https://medium.com/p/ea490040290c) |
+| Wed, 12 Nov 2025 18:52:31 GMT | cyshield 2025 — Android CTF | everythingBlackkk | [Read More](https://medium.com/p/7c864f974c25) |
+| Wed, 12 Nov 2025 18:48:10 GMT | Kernel’dan User Modundaki Uygulamaya Handle Aktarımı | Batuhan Pekdur | [Read More](https://medium.com/p/decfd568a70c) |
+| Wed, 12 Nov 2025 18:46:15 GMT | Understanding the WannaCry Ransomware Attack | Gaurang | [Read More](https://medium.com/p/265c29835b1f) |
+| Wed, 12 Nov 2025 18:42:53 GMT | Prepare for the Google Professional Cloud Security Engineer Exam— 2025+ | Ammett W | [Read More](https://medium.com/p/42ec3743f97a) |
+| Wed, 12 Nov 2025 18:40:02 GMT | Whispers of a Woman’s Mind | Nazma Sultana | [Read More](https://medium.com/p/d5d9c34cab27) |
 | Wed, 12 Nov 2025 18:33:12 GMT | XLMRat Lab CyberDefenders | Fouad Shaheen | [Read More](https://medium.com/p/24d81be3026c) |
 | Wed, 12 Nov 2025 18:28:21 GMT | Pickle Rick — TryHackMe Walkthrough | devmorav | [Read More](https://medium.com/p/154df4016293) |
 | Wed, 12 Nov 2025 18:22:08 GMT | Ransomware vs Malware Explained — How They Work and How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/c931a7ee41da) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 12:53:00 GMT | Best Black Friday VPN Deals — Save Big on Top-Rated VPNs | Volter Anderson | [Read More](https://medium.com/p/021c912bbe18) |
 | Wed, 12 Nov 2025 12:51:56 GMT | Leading Cyber Security Course in Lahore - IPEI | IPEI | [Read More](https://medium.com/p/be1237bc6c7c) |
 | Wed, 12 Nov 2025 12:51:17 GMT | Security Awareness Training May Be Your Strongest Defense | Teddy Cerra | [Read More](https://medium.com/p/5e1b58775cce) |
-| Wed, 12 Nov 2025 12:51:10 GMT | How to Choose the Right Commercial Security Services Provider | Mark Steve | [Read More](https://medium.com/p/1bb587055b78) |
-| Wed, 12 Nov 2025 12:46:18 GMT | Incogni’s Black Friday Deal Is Here! Get Ready to Save | Hugh Lawrence | [Read More](https://medium.com/p/c95f3ef17f0c) |
-| Wed, 12 Nov 2025 12:46:08 GMT | Proving Grounds Resourced Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/a3b957cc07e6) |
-| Wed, 12 Nov 2025 12:45:35 GMT | Criminals Increasingly Use Deepfake Family Voices to Demand Ransom — Why your family needs a code… | Karl Buhl | [Read More](https://medium.com/p/3a72c7d77368) |
-| Wed, 12 Nov 2025 12:39:59 GMT | Malware, Viruses, and CVEs — Part 7(The End): The Future of Malware and Defence | Sammcmullen | [Read More](https://medium.com/p/152d11102476) |
-| Wed, 12 Nov 2025 12:39:47 GMT | The Power of Integration: Building a Cohesive Cybersecurity Strategy for the Modern Enterprise | Walidchaouachi | [Read More](https://medium.com/p/142e3d08cd8b) |
-| Wed, 12 Nov 2025 12:38:36 GMT | Security Through Obscurity: Between Hidden Walls and Transparent Strength | Walidchaouachi | [Read More](https://medium.com/p/8794c25320c2) |
