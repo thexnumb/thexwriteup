@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 14:03:59 GMT | Hacksudo: Proxima — Centauri CTF - Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/37b663681ea9) |
+| Wed, 12 Nov 2025 14:01:57 GMT | Future-Proof Tech Careers with AI, Cybersecurity, Cloud, UI UX | Job Booster India | [Read More](https://medium.com/p/4437cc35f1a9) |
+| Wed, 12 Nov 2025 13:39:42 GMT | From Cybersecurity to AI Security: The New Governance Frontier | AXSAS | [Read More](https://medium.com/p/187eed928d38) |
+| Wed, 12 Nov 2025 13:37:03 GMT | 5 Top IT Services That Help Keep Your Business Secure | Maxwell JAMES | [Read More](https://medium.com/p/8cbf18e9c79e) |
+| Wed, 12 Nov 2025 13:34:21 GMT | Cephalus Ransomware | Prinal Urkude | [Read More](https://medium.com/p/a744b04eaa55) |
+| Wed, 12 Nov 2025 13:29:11 GMT | How to Stay Anonymous Online Using Proxies | ProxiesThatWork | [Read More](https://medium.com/p/d9b7d0806487) |
 | Wed, 12 Nov 2025 13:22:40 GMT | The Check-In We All Skip: How’s Life Lately, Really? | Journeys With Sree | [Read More](https://medium.com/p/cf214e0593ef) |
 | Wed, 12 Nov 2025 13:21:03 GMT | How I Mastered Logic Bugs With One Simple Checklist | Ibtissam | [Read More](https://medium.com/p/fa94721601f0) |
 | Wed, 12 Nov 2025 13:19:37 GMT | Capítulo 1 — Ecos no SOC | Kleber Andrade | [Read More](https://medium.com/p/77fbe0180e09) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 08:46:23 GMT | riBenefits of Hiring a Local Web Development Company in Sheridan | IOTAIY | [Read More](https://medium.com/p/fe90cd58c2eb) |
 | Wed, 12 Nov 2025 08:36:54 GMT | The Long Game: How APTs Infiltrate And Control Networks | Redfox Security | [Read More](https://medium.com/p/b69f7ed2e0b7) |
 | Wed, 12 Nov 2025 08:36:00 GMT | Enhance Your Security with Professional CCTV Installation by Nestron Automation | Nestrondigitalhub | [Read More](https://medium.com/p/941dc4cc09f1) |
-| Wed, 12 Nov 2025 08:34:18 GMT | Finding optimal attack paths in Active Directory with Neo4LDAP | Alejandro Rivera León | [Read More](https://medium.com/p/3d2158419f35) |
-| Wed, 12 Nov 2025 08:30:13 GMT | Best Online Endpoint Security Certification | Manisha Chaudhary | [Read More](https://medium.com/p/6a7f2846b312) |
-| Wed, 12 Nov 2025 08:29:43 GMT | The Three Ecosystems Approach: A New Lens for Measuring Cyber Resilience Potential | Yeh'iel Zohar | [Read More](https://medium.com/p/6beb5bfa9552) |
-| Wed, 12 Nov 2025 08:26:01 GMT | Best Online AWS Training Institute in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/d5c343ccf189) |
-| Wed, 12 Nov 2025 08:19:22 GMT | 5 Common Cyber Threats You Can Prevent with VAPT Solutions | Lisa Loyal | [Read More](https://medium.com/p/2201f3c1015f) |
-| Wed, 12 Nov 2025 08:17:38 GMT | Diploma of Information Technology — Build a Future in Tech Innovation | royalinternational | [Read More](https://medium.com/p/251a2f92ac9e) |
