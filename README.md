@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 05:33:59 GMT | The Rust Bug That Lived in My Code for 3 Days — and the One Trick That Finally Killed It | Kedar's CS Insight | [Read More](https://medium.com/p/e98668df30c2) |
+| Wed, 12 Nov 2025 05:29:37 GMT | The Gold Standard in Security Doors: Gold Coast Security Screens | Gold Coast Security Screens | [Read More](https://medium.com/p/20bd905ceee9) |
+| Wed, 12 Nov 2025 05:14:52 GMT | A CEO’s Checklist: 7 Essential Cybersecurity Strategies to Implement in Your Dubai Office Today | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/81af71e20e85) |
+| Wed, 12 Nov 2025 05:13:40 GMT | Union with oneself — when you truly love someone, the greatest teacher who shows us who we are is… | Authentic Leadership Podcast | [Read More](https://medium.com/p/64ddb32a1033) |
+| Wed, 12 Nov 2025 05:13:01 GMT | Strengthening Cyber Defense: The Importance Of Cybersecurity Awareness Training | Poddar Group of Institutions | [Read More](https://medium.com/p/63ed90a63f2a) |
 | Wed, 12 Nov 2025 05:00:39 GMT | No Record | Sheridan Walter | [Read More](https://medium.com/p/420e5eb1fe4f) |
 | Wed, 12 Nov 2025 04:55:57 GMT | Security Services in Libra: Ensuring Safety with Expert Security Consultancy in Dubai and the UAE | Libraseo freelancer | [Read More](https://medium.com/p/250d3ff0ebbb) |
 | Wed, 12 Nov 2025 04:49:54 GMT | Dedicated Server With GPUs: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/e11a00635e89) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 19:57:34 GMT | Legal and Regulatory “Grey Zones” The New Frontier of Tech | Modncv | [Read More](https://medium.com/p/444bf0edc6eb) |
 | Tue, 11 Nov 2025 19:52:55 GMT | Setting up your Android mobile-app pentesting lab — a fast, reliable guide | coy0te | [Read More](https://medium.com/p/f2627f4fa132) |
 | Tue, 11 Nov 2025 19:48:50 GMT | How I Built 5 AI Tools That Save Me 20+ Hours a Week | Code with Margaret | [Read More](https://medium.com/p/4da0ccf9ada6) |
-| Tue, 11 Nov 2025 19:42:23 GMT | DocScan Pro — Turning Everyday Documents into Digital Power!!! | Edcleff | [Read More](https://medium.com/p/c36fe4fd1e36) |
-| Tue, 11 Nov 2025 19:23:46 GMT | How You Can always be Tracked in this era. | err0rgod | [Read More](https://medium.com/p/b64dbad6c17d) |
-| Tue, 11 Nov 2025 19:15:48 GMT | The Synthetic Conscience Effect: How ΔE Translates Awareness into Engineering — or When a Machine… | Max Barzenkov | [Read More](https://medium.com/p/b2d34e8b071b) |
-| Tue, 11 Nov 2025 19:13:43 GMT | What Is Bloatware — and Why It’s a Hidden Cost to Businesses ? | IT_Engineer | [Read More](https://medium.com/p/8aa0e7b82201) |
-| Tue, 11 Nov 2025 19:12:23 GMT | CRTO Review — 2025 | Paradox | [Read More](https://medium.com/p/ecdedc2e7565) |
