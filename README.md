@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 11:13:58 GMT | TRP00F: fully automated Linux privilege escalation machine. | Мартин. | [Read More](https://medium.com/p/b85895363d7f) |
+| Wed, 12 Nov 2025 11:13:26 GMT | Shared RDMA or SR-IOV per-tenant networking in Kubernetes: how to “pass all the routing… | Luca Berton | [Read More](https://medium.com/p/d34d0e5b7641) |
+| Wed, 12 Nov 2025 11:08:48 GMT | My NMAP Cheat Sheet | Dan Covic | [Read More](https://medium.com/p/69be10e119d2) |
+| Wed, 12 Nov 2025 11:06:14 GMT | Why Every IT Professional Should Learn CompTIA Security+ | Christie | [Read More](https://medium.com/p/e9da9d6e3cf0) |
+| Wed, 12 Nov 2025 11:01:29 GMT | Rust Fixme 2-General Skills-picoCTF WriteUp | Nirgunah | [Read More](https://medium.com/p/b56283e6a4c1) |
+| Wed, 12 Nov 2025 10:58:08 GMT | Beyond the Firewall: How ‘Data-Driven Six Sigma’ is Quietly Solving the Multi-Billion Dollar… | Jesunahmadushno | [Read More](https://medium.com/p/90eab692ed20) |
+| Wed, 12 Nov 2025 10:57:04 GMT | How the NSA, Big Tech, and the Market Made Surveillance the Default Setting | 0trust0day | [Read More](https://medium.com/p/3b10404c28cd) |
+| Wed, 12 Nov 2025 10:56:12 GMT | Free Live Hacking Session — Sunday, 16th November 2025 - 4:00 PM EAT - Online (Google Meet) | Dallen Sadru | [Read More](https://medium.com/p/343d50af9156) |
+| Wed, 12 Nov 2025 10:53:12 GMT | Zero Trust, Infinite Security: Rethinking Cyber Defense for SMBs | SignalAge | [Read More](https://medium.com/p/3830d990f04d) |
+| Wed, 12 Nov 2025 10:52:20 GMT | App Security Checklist 2025: Swift, iOS, SwiftUI Edition | Ravi | [Read More](https://medium.com/p/46b775980c25) |
+| Wed, 12 Nov 2025 10:43:10 GMT | Identity and Access Management: The Architect’s Guide to Complex SSO Scenarios (Part 3) | Pedro Távora Santos | [Read More](https://medium.com/p/dbbf093929f8) |
 | Wed, 12 Nov 2025 10:41:21 GMT | Nmap Scripts for Penetration Testing | Dan Covic | [Read More](https://medium.com/p/01269b042f71) |
 | Wed, 12 Nov 2025 10:36:32 GMT | Hosting That Hustles: Affordable Plans Built for Creators and Coders Alike | Janet Watson | [Read More](https://medium.com/p/92360df57fd9) |
+| Wed, 12 Nov 2025 10:36:15 GMT | It’s Too Much Better Than ExamTopics… | Noraalaxay | [Read More](https://medium.com/p/496b4acc3a8b) |
 | Wed, 12 Nov 2025 10:33:01 GMT | Maximize App Reach with 5DataInc’s Cross-Platform Compatibility Testing Services | Achana prashanth | [Read More](https://medium.com/p/8f93f19452b7) |
 | Wed, 12 Nov 2025 10:32:05 GMT | Why iPhone 5s Classic Style Still Attracts Apple Fans? | Chloe White | [Read More](https://medium.com/p/ac21341307a9) |
 | Wed, 12 Nov 2025 10:29:19 GMT | Grab the Best Black Friday Cybersecurity Deals Today | cyber security Updates | [Read More](https://medium.com/p/829b0bc9d7d5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 06:07:15 GMT | Using Tools to Protect Business Operations | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f58134a67370) |
 | Wed, 12 Nov 2025 06:00:39 GMT | Yazılım Test Mühendisinden Siber Güvenliğe: TryHackMe CyberHeroes Deneyimim | Melih Kale | [Read More](https://medium.com/p/21f38146648e) |
 | Wed, 12 Nov 2025 05:50:56 GMT | ️ Securing the Web: How Techincisive Protects Businesses with Advanced Web Security Services | Devarshi Acharya | [Read More](https://medium.com/p/50de0e50c4b0) |
-| Wed, 12 Nov 2025 05:33:59 GMT | The Rust Bug That Lived in My Code for 3 Days — and the One Trick That Finally Killed It | Kedar's CS Insight | [Read More](https://medium.com/p/e98668df30c2) |
-| Wed, 12 Nov 2025 05:29:37 GMT | The Gold Standard in Security Doors: Gold Coast Security Screens | Gold Coast Security Screens | [Read More](https://medium.com/p/20bd905ceee9) |
-| Wed, 12 Nov 2025 05:14:52 GMT | A CEO’s Checklist: 7 Essential Cybersecurity Strategies to Implement in Your Dubai Office Today | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/81af71e20e85) |
-| Wed, 12 Nov 2025 05:13:40 GMT | Union with oneself — when you truly love someone, the greatest teacher who shows us who we are is… | Authentic Leadership Podcast | [Read More](https://medium.com/p/64ddb32a1033) |
-| Wed, 12 Nov 2025 05:13:01 GMT | Strengthening Cyber Defense: The Importance Of Cybersecurity Awareness Training | Poddar Group of Institutions | [Read More](https://medium.com/p/63ed90a63f2a) |
-| Wed, 12 Nov 2025 05:00:39 GMT | No Record | Sheridan Walter | [Read More](https://medium.com/p/420e5eb1fe4f) |
-| Wed, 12 Nov 2025 04:55:57 GMT | Security Services in Libra: Ensuring Safety with Expert Security Consultancy in Dubai and the UAE | Libraseo freelancer | [Read More](https://medium.com/p/250d3ff0ebbb) |
-| Wed, 12 Nov 2025 04:49:54 GMT | Dedicated Server With GPUs: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/e11a00635e89) |
-| Wed, 12 Nov 2025 04:49:08 GMT | Are you looking for the best security services in Bahadurgarh? | Lakshay Security | [Read More](https://medium.com/p/fea0441fb9a8) |
-| Wed, 12 Nov 2025 04:40:23 GMT | From Garage Tinkers To Signal Jammers: How Hardware Became Radical Again | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ee79e3313665) |
-| Wed, 12 Nov 2025 04:32:22 GMT | ⚡File Uploads and Media Management in MERN Stack | Dilakshan Sivanathan | [Read More](https://medium.com/p/45662e83eae2) |
-| Wed, 12 Nov 2025 04:25:38 GMT | Inside the Birth of Tor Browser: The U.S. Navy Project That Created Internet Anonymity | Manish Pandey | [Read More](https://medium.com/p/94623316b6eb) |
