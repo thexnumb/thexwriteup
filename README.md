@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 23:15:10 GMT | Stagnant Creativity in the Tech Sector | Rhiannon Williams | [Read More](https://medium.com/p/cbbfa11e30c5) |
+| Wed, 12 Nov 2025 23:05:11 GMT | Alteryx Server IDOR Advisory | Aleksa Zatezalo | [Read More](https://medium.com/p/782e3013ee38) |
+| Wed, 12 Nov 2025 23:01:21 GMT | Alert — Hack The Box (Easy) | d4rkonus | [Read More](https://medium.com/p/fd2e17c0aa20) |
+| Wed, 12 Nov 2025 23:00:19 GMT | Virtual Security Guards | Visual Monitoring Solutions | [Read More](https://medium.com/p/cb0fb3cb9967) |
+| Wed, 12 Nov 2025 22:57:02 GMT | SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE | Harshprajapati | [Read More](https://medium.com/p/eaa8d60179c5) |
+| Wed, 12 Nov 2025 22:46:10 GMT | NATO Counter-Drone Operations in Belgium: Deep Technical Analysis for Cyber Security… | Berend Watchus | [Read More](https://medium.com/p/a8528e214e73) |
 | Wed, 12 Nov 2025 22:38:43 GMT | Breaking mPDF with regex and logic | brun0ne | [Read More](https://medium.com/p/bf915300483f) |
 | Wed, 12 Nov 2025 22:32:24 GMT | Day 12 — Mastering Remote Access: Understanding SSH, RDP, VPN, FTP, and SFTP | HackTrace | [Read More](https://medium.com/p/21d05219e6db) |
 | Wed, 12 Nov 2025 22:23:45 GMT | Command Injection — Write-up | Omar Ahmed Abdelslaam | [Read More](https://medium.com/p/b0e37450330b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 16:24:56 GMT | Ransomware Has a New Goal: Why Control Is the Next Currency in Cybersecurity | Fortress Protocol | [Read More](https://medium.com/p/4a3135465f93) |
 | Wed, 12 Nov 2025 16:20:03 GMT | Bir Paket Yolda: İnternette Veriler Nasıl Güvende Kalıyor? | Alper TUĞRUL | [Read More](https://medium.com/p/4b7b7a524a71) |
 | Wed, 12 Nov 2025 16:18:11 GMT | Top Technologies of 2035 | Madhavaraman | [Read More](https://medium.com/p/47bdde38c770) |
-| Wed, 12 Nov 2025 16:12:23 GMT | Tor Browser 15.0.1 Released With Critical Security Fixes | Chetan Seripally | [Read More](https://medium.com/p/1498e99a0c16) |
-| Wed, 12 Nov 2025 16:11:58 GMT | How Two Interview Questions Can Stop APTs and Seed Security Culture | Ian Sun | [Read More](https://medium.com/p/b406eade4ca3) |
-| Wed, 12 Nov 2025 16:10:43 GMT | When Anti-Phishing Codes Fail: A Case of Misplaced Trust in SMTP Infrastructure | rod | [Read More](https://medium.com/p/8b6966751eef) |
-| Wed, 12 Nov 2025 16:10:23 GMT | When Uncle Sam Becomes Lazarus: The Irony of State-Sponsored Crypto Theft | Abatis ABTU | [Read More](https://medium.com/p/e1dd6782e5f3) |
-| Wed, 12 Nov 2025 16:02:24 GMT | 3,700× Faster: The Tiny Chip That Makes Quantum-Safe IoT Affordable | Berend Watchus | [Read More](https://medium.com/p/6b1cf60198c5) |
-| Wed, 12 Nov 2025 16:02:01 GMT | AI Security’s Hidden Risks | Shailendra Kumar | [Read More](https://medium.com/p/c70b4b3f60ca) |
