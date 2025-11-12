@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 09:12:25 GMT | The Scary Truth About Loving Someone | Imtiaz Ali | [Read More](https://medium.com/p/37807d7b1cee) |
+| Wed, 12 Nov 2025 09:03:36 GMT | The Digital Siege: Modeling Server Integrity as a Random Walk | Gadeabhishekreddy | [Read More](https://medium.com/p/d9cf8d3705f7) |
+| Wed, 12 Nov 2025 09:03:26 GMT | AI Just Made Hacking Easier — And That’s Terrifying for the Rest of Us | TechScribeHub | [Read More](https://medium.com/p/391269d0ef5d) |
+| Wed, 12 Nov 2025 09:03:20 GMT | Ensuring Safety and Trust: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/e32b6c2e739a) |
+| Wed, 12 Nov 2025 09:02:37 GMT | Top 5 Affordable CCTV Monitoring Provider Buying in 2025 | Global CCTV Monitoring Services | [Read More](https://medium.com/p/2ef947b5d174) |
+| Wed, 12 Nov 2025 09:01:59 GMT | From Domain Search to Monitoring: Turn Findings Into Alerts in 3 Steps | Alexandre Vandamme | [Read More](https://medium.com/p/4842f4d79543) |
+| Wed, 12 Nov 2025 08:57:32 GMT | How to Hack WIFI | Vivek Goswami | [Read More](https://medium.com/p/e624613ba317) |
+| Wed, 12 Nov 2025 08:51:32 GMT | OWASP Top 10 (2025) — What’s New and Why It Matters ‍ | CyberHead | [Read More](https://medium.com/p/f9bf279b4b28) |
+| Wed, 12 Nov 2025 08:51:19 GMT | On Beauty, Rejection, and the Self | Whispers I Never Voice | [Read More](https://medium.com/p/69e080849f47) |
+| Wed, 12 Nov 2025 08:48:30 GMT | PhantomPi: A Covert Red Team Implant (Part 2) | Alessandro Tagliafierro | [Read More](https://medium.com/p/d74493d731ee) |
+| Wed, 12 Nov 2025 08:46:23 GMT | riBenefits of Hiring a Local Web Development Company in Sheridan | IOTAIY | [Read More](https://medium.com/p/fe90cd58c2eb) |
+| Wed, 12 Nov 2025 08:36:54 GMT | The Long Game: How APTs Infiltrate And Control Networks | Redfox Security | [Read More](https://medium.com/p/b69f7ed2e0b7) |
+| Wed, 12 Nov 2025 08:36:00 GMT | Enhance Your Security with Professional CCTV Installation by Nestron Automation | Nestrondigitalhub | [Read More](https://medium.com/p/941dc4cc09f1) |
+| Wed, 12 Nov 2025 08:34:18 GMT | Finding optimal attack paths in Active Directory with Neo4LDAP | Alejandro Rivera León | [Read More](https://medium.com/p/3d2158419f35) |
+| Wed, 12 Nov 2025 08:30:13 GMT | Best Online Endpoint Security Certification | Manisha Chaudhary | [Read More](https://medium.com/p/6a7f2846b312) |
+| Wed, 12 Nov 2025 08:29:43 GMT | The Three Ecosystems Approach: A New Lens for Measuring Cyber Resilience Potential | Yeh'iel Zohar | [Read More](https://medium.com/p/6beb5bfa9552) |
+| Wed, 12 Nov 2025 08:26:01 GMT | Best Online AWS Training Institute in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/d5c343ccf189) |
 | Wed, 12 Nov 2025 08:19:22 GMT | 5 Common Cyber Threats You Can Prevent with VAPT Solutions | Lisa Loyal | [Read More](https://medium.com/p/2201f3c1015f) |
+| Wed, 12 Nov 2025 08:17:38 GMT | Diploma of Information Technology — Build a Future in Tech Innovation | royalinternational | [Read More](https://medium.com/p/251a2f92ac9e) |
 | Wed, 12 Nov 2025 08:11:12 GMT | Tryhackme Nas Ctf Writeup | Vivek Goswami | [Read More](https://medium.com/p/754cdd1d37ce) |
 | Wed, 12 Nov 2025 08:04:38 GMT | Top Jobs in Ethical Hacking: Career Paths, Skills & Salary Insights | EINITIAL24 | [Read More](https://medium.com/p/cb6c078c3aaf) |
 | Wed, 12 Nov 2025 08:02:12 GMT | How Kevin Noll Rewired Bata’s Global IT for a Smarter Future | The Executive Outlook | [Read More](https://medium.com/p/271f663fa667) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 02:01:56 GMT | Title: Day 4 of My eJPTv2 Journey: Mapping and Sniffing the Network ️ | samurai | [Read More](https://medium.com/p/625e15221230) |
 | Wed, 12 Nov 2025 02:01:17 GMT | My body wants | Unapologetically Me | [Read More](https://medium.com/p/7ebb64718c15) |
 | Wed, 12 Nov 2025 01:54:03 GMT | OWASP TOP-10 (2025) | The Commoness | [Read More](https://medium.com/p/398be912b900) |
-| Wed, 12 Nov 2025 01:38:00 GMT | My wife cheated on me. She’s cheated on me twice. | Misass | [Read More](https://medium.com/p/376f7ca3394d) |
-| Wed, 12 Nov 2025 01:37:11 GMT | O colete do agente não apenas oferece proteção, mas também representa o primeiro nível do uso… | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/7ba788931ec9) |
-| Wed, 12 Nov 2025 01:21:09 GMT | What Exactly Is the AI Stack? | Ms. Byte Dev | [Read More](https://medium.com/p/ee9354982862) |
-| Wed, 12 Nov 2025 01:08:50 GMT | Proof of Life & Proof of Existence | Ismael Trabuco | [Read More](https://medium.com/p/01f9b8ce2f67) |
-| Wed, 12 Nov 2025 01:03:45 GMT | Phishing Analysis Fundamentals — Try Hack Me Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/141dcbeee0e5) |
-| Wed, 12 Nov 2025 00:32:00 GMT | Detecting Attacker Behavior with Splunk: The TTP Approach | Cybersecurity Simplified | [Read More](https://medium.com/p/ffb5ef06ba33) |
-| Wed, 12 Nov 2025 00:17:53 GMT | Data Security with GenAI | Stéphane Burwash | [Read More](https://medium.com/p/2ede3709c5bd) |
-| Wed, 12 Nov 2025 00:02:24 GMT | Vulnerabilities in GraphQL API: Exploitation, Discovery, and Mitigation Guide | JPablo13 | [Read More](https://medium.com/p/fd36cbbe0309) |
-| Tue, 11 Nov 2025 23:35:45 GMT | Controllable AI: Teaching Robots Not to Be Jerks (And Why It’s Harder Than You Think) | Twinkle Jaineera | [Read More](https://medium.com/p/c25ace33f540) |
-| Tue, 11 Nov 2025 23:26:22 GMT | OWASP Top 10:2025 Sürüm Adayı | hadi cicek | [Read More](https://medium.com/p/993bd36ef809) |
-| Tue, 11 Nov 2025 23:18:45 GMT | When Six Zeros Broke a Food Delivery Empire | Jackson Mittag | [Read More](https://medium.com/p/1b4a5cf5405b) |
-| Tue, 11 Nov 2025 23:17:12 GMT | First Post | Sanishsinghmaharjan | [Read More](https://medium.com/p/68158818563f) |
-| Tue, 11 Nov 2025 23:03:47 GMT | Fusion Corp — Walkthrough (TryHackMe) | Muhammad Usman Faridi | [Read More](https://medium.com/p/99c83213caf0) |
-| Tue, 11 Nov 2025 22:57:57 GMT | When a Job Offer Becomes a Cyberattack | Dmytro J. Medvid | [Read More](https://medium.com/p/689f4292d23d) |
-| Tue, 11 Nov 2025 22:51:08 GMT | Weird Is Wonderful | Matthew Stevens | [Read More](https://medium.com/p/b7b44934b692) |
-| Tue, 11 Nov 2025 22:49:09 GMT | AI Doesn’t Faze Me, But Should It? | Jane Beckman | [Read More](https://medium.com/p/0d79caa38b67) |
-| Tue, 11 Nov 2025 22:47:45 GMT | What can we learn from baristas about designing good technology? | xander koo | [Read More](https://medium.com/p/c01125800584) |
-| Tue, 11 Nov 2025 22:46:42 GMT | Atlantic Council Cyber Statecraft Initiative, | Talha Özcan | [Read More](https://medium.com/p/a0a643c8020a) |
