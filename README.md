@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 03:37:53 GMT | M – The Shielded Man | Lonizz | [Read More](https://medium.com/p/342745deefd3) |
+| Wed, 12 Nov 2025 03:37:02 GMT | Migration of LTO Network(LTO) to EQTY(EQTY) | Aster airdrop | [Read More](https://medium.com/p/c26f5aced299) |
+| Wed, 12 Nov 2025 03:36:24 GMT | LAUNCHCOIN to BELIEVE Token Swap and Rebranding | Aster airdrop | [Read More](https://medium.com/p/ea426466d4d9) |
+| Wed, 12 Nov 2025 03:36:07 GMT | CORS and CSRF in Plain English: Understanding Web Security | Manish Pandey | [Read More](https://medium.com/p/18eae0d087e2) |
+| Wed, 12 Nov 2025 03:34:43 GMT | The Remote Kill Switch That Stops Stolen Trucks Before They Leave the Parking Lot | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/f74f69556f5b) |
+| Wed, 12 Nov 2025 03:31:58 GMT | How Pakistani Threat Actors Masqueraded as NIC to Target Indian Government Emails | Deven Chhajed | [Read More](https://medium.com/p/b3fd5b0b41fc) |
+| Wed, 12 Nov 2025 03:31:08 GMT | The Real Difference Between Distributed Firewalls and Traditional Firewalls | The Stack Angle | [Read More](https://medium.com/p/b3e3107d9e13) |
+| Wed, 12 Nov 2025 03:28:02 GMT | NTLM vs Kerberos _ what red teamers (and defenders) actually need to know | Yua Mikanana | [Read More](https://medium.com/p/3008aa34494e) |
+| Wed, 12 Nov 2025 03:22:21 GMT | The Hidden Danger in Your Phone: Foreign Data Harvesting. | Tech Talk | [Read More](https://medium.com/p/bc102f8f73e1) |
+| Wed, 12 Nov 2025 03:21:24 GMT | Technical Support Scam Tactics: How to Avoid Being Fooled | Steven Chin | [Read More](https://medium.com/p/5edc13c71adc) |
 | Wed, 12 Nov 2025 02:48:32 GMT | Input Manipulation & Prompt Injection: TryHackMe | TcyberSec007 | [Read More](https://medium.com/p/394753de033b) |
 | Wed, 12 Nov 2025 02:43:06 GMT | Setting up Active Directory on Linux using Virt Manger/QEMU for Learning how to hack it | niazi | [Read More](https://medium.com/p/1e7ab57ad9f3) |
 | Wed, 12 Nov 2025 02:23:41 GMT | How I Encrypt User Data Using Argon2id, AES-GCM, and AWS KMS (Without Storing Keys) | ManojSrinivasa | [Read More](https://medium.com/p/a020b4d4e776) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 18:01:57 GMT | PicoCTF Writeup: Python Wrangling | SoBatista | [Read More](https://medium.com/p/bf2e65fa9f69) |
 | Tue, 11 Nov 2025 18:01:49 GMT | Captain DevOps vs Guardian SecOps: The Adventure of DevSecOps | Gopi Sri | [Read More](https://medium.com/p/59b1d3494d16) |
 | Tue, 11 Nov 2025 18:00:00 GMT | The Curious Case of the Wandering URL (SSRF Discovery) | Cyberbald007 | [Read More](https://medium.com/p/a3cdf9ff53d7) |
-| Tue, 11 Nov 2025 17:59:34 GMT | SOC Investigation — SQL Injection + XSS + Command Execution (EventID: SOC127) | Syed Mohd Hassan | [Read More](https://medium.com/p/b38f9272add4) |
-| Tue, 11 Nov 2025 17:58:00 GMT | Hole I part I: Rust RCE! Logic Bugs Break the “Memory-Safe = bulletproof” Myth | Rogercastefdez | [Read More](https://medium.com/p/cb0e3494c50d) |
-| Tue, 11 Nov 2025 17:57:39 GMT | Hellcat Ransomware Explained: Attacks, Actors, and the Dox That Shook Them | Vardhan Gss | [Read More](https://medium.com/p/7ba76726e088) |
-| Tue, 11 Nov 2025 17:56:35 GMT | Brand Trust is Failing, Now What? | Robert Wheatley | [Read More](https://medium.com/p/1085f7795f46) |
-| Tue, 11 Nov 2025 17:55:38 GMT | The Subtle Art of Handling Passwords Right :) | Aman Arora | [Read More](https://medium.com/p/9f1a7f74f9fb) |
-| Tue, 11 Nov 2025 17:48:06 GMT | Networking: The First and Most Important Step in Cybersecurity | Manya Tyagi | [Read More](https://medium.com/p/44011a3e02b7) |
-| Tue, 11 Nov 2025 17:39:17 GMT | DOM XSS in document.write sink inside a select element — Cross-site Scripting Lab 10 | Zeyad Naguib | [Read More](https://medium.com/p/b83de89b0cf5) |
-| Tue, 11 Nov 2025 17:38:03 GMT | BMC: A distributed IoT C2 architecture based on Bluetooth MAC address detection nodes, capable of… | Мартин. | [Read More](https://medium.com/p/b0bc9b670243) |
-| Tue, 11 Nov 2025 17:35:22 GMT | Running Out of Data: How Synthetic Data is Saving the Future of AI | Grenish Rai | [Read More](https://medium.com/p/c7ef0332e728) |
-| Tue, 11 Nov 2025 17:34:06 GMT | Responsible Recon: how to find bug-bounty and disclosure pages (ethically) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/6b49a30eeaf6) |
