@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 16:27:16 GMT | When AI Becomes the Face of Deception: The Era of Deepfakes and Cyber Scams | Salihou BADIAGA | [Read More](https://medium.com/p/b2b02c0faf77) |
+| Wed, 12 Nov 2025 16:24:56 GMT | Ransomware Has a New Goal: Why Control Is the Next Currency in Cybersecurity | Fortress Protocol | [Read More](https://medium.com/p/4a3135465f93) |
+| Wed, 12 Nov 2025 16:12:23 GMT | Tor Browser 15.0.1 Released With Critical Security Fixes | Chetan Seripally | [Read More](https://medium.com/p/1498e99a0c16) |
+| Wed, 12 Nov 2025 16:11:58 GMT | How Two Interview Questions Can Stop APTs and Seed Security Culture | Ian Sun | [Read More](https://medium.com/p/b406eade4ca3) |
+| Wed, 12 Nov 2025 16:10:43 GMT | When Anti-Phishing Codes Fail: A Case of Misplaced Trust in SMTP Infrastructure | rod | [Read More](https://medium.com/p/8b6966751eef) |
+| Wed, 12 Nov 2025 16:10:23 GMT | When Uncle Sam Becomes Lazarus: The Irony of State-Sponsored Crypto Theft | Abatis ABTU | [Read More](https://medium.com/p/e1dd6782e5f3) |
+| Wed, 12 Nov 2025 16:02:24 GMT | 3,700× Faster: The Tiny Chip That Makes Quantum-Safe IoT Affordable | Berend Watchus | [Read More](https://medium.com/p/6b1cf60198c5) |
+| Wed, 12 Nov 2025 16:02:01 GMT | AI Security’s Hidden Risks | Shailendra Kumar | [Read More](https://medium.com/p/c70b4b3f60ca) |
+| Wed, 12 Nov 2025 15:59:55 GMT | Timelock Integrates GetBlock’s Robust Infrastructure to Elevate On-Chain Security | Timelock | [Read More](https://medium.com/p/816e3a0ea650) |
+| Wed, 12 Nov 2025 15:53:02 GMT | Eliminate Secret Management: Setting Up Workload Identity Federation with Azure DevOps Service… | Vaibhav Gujral | [Read More](https://medium.com/p/cb2431a68499) |
+| Wed, 12 Nov 2025 15:51:05 GMT | TryHackMe SOC L1 Alert Reporting walkthrough. | Mercykiaritha | [Read More](https://medium.com/p/00ed9245876b) |
+| Wed, 12 Nov 2025 15:48:15 GMT | Poison in the Data: How Dataset Attacks Threaten AI Systems | Abraham Biji | [Read More](https://medium.com/p/dd8dd338f8fd) |
+| Wed, 12 Nov 2025 15:45:53 GMT | Even The Banana OF This Era Is Naked | Imran Uz Zaman | [Read More](https://medium.com/p/39070532a3ac) |
 | Wed, 12 Nov 2025 15:31:13 GMT | Dua for protection from the devils | Aminul Ihsaan Islam | [Read More](https://medium.com/p/1b239318ea73) |
 | Wed, 12 Nov 2025 15:22:28 GMT | Can SAML Ever Be Truly Stateless? | Atharva Dev | [Read More](https://medium.com/p/b6ed9f4c8207) |
 | Wed, 12 Nov 2025 15:22:00 GMT | SquareX at Security Field Day 14 | SquareX | [Read More](https://medium.com/p/ea5eb59f2c36) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 10:32:05 GMT | Why iPhone 5s Classic Style Still Attracts Apple Fans? | Chloe White | [Read More](https://medium.com/p/ac21341307a9) |
 | Wed, 12 Nov 2025 10:29:19 GMT | Grab the Best Black Friday Cybersecurity Deals Today | cyber security Updates | [Read More](https://medium.com/p/829b0bc9d7d5) |
 | Wed, 12 Nov 2025 10:23:17 GMT | You Clicked a Suspicious Link — Here’s What to Do Next | Alex Hughes | [Read More](https://medium.com/p/19a5f7ee4a06) |
-| Wed, 12 Nov 2025 10:21:01 GMT | Secure your digital doors before cyber threats knock! | Century Solutions Group | [Read More](https://medium.com/p/7a2629318ff4) |
-| Wed, 12 Nov 2025 10:14:03 GMT | Top Cybersecurity Metrics Every CISO Should Track in 2026 | West Advanced Technologies Inc | [Read More](https://medium.com/p/62f61d6bfe7d) |
-| Wed, 12 Nov 2025 10:13:15 GMT | Designing Fraud-Resistant Fintech Apps: Android Architecture That Actually Works (2025) | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/ddcacd367386) |
-| Wed, 12 Nov 2025 10:12:59 GMT | What Is Decentralized Identity Management (DIM) ? | Vaibhhav Raj Kumar | [Read More](https://medium.com/p/add494f0795d) |
-| Wed, 12 Nov 2025 10:10:36 GMT | Why Your Business Needs a Kiosk Machine Upgrade in 2026. | Rakesh | [Read More](https://medium.com/p/1c706851b439) |
-| Wed, 12 Nov 2025 10:09:44 GMT | Synthient, HIBP, and the Biggest Exposure Index Yet: What Really Happened | Sabri Chaabi | [Read More](https://medium.com/p/2aa969b0e9ea) |
-| Wed, 12 Nov 2025 10:08:21 GMT | Cyber Security Certification Cost for SMEs and Large Businesses in India | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/162190b46e5a) |
-| Wed, 12 Nov 2025 10:02:03 GMT | DockerLabs Writeup — Veneno (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/846f49477413) |
-| Wed, 12 Nov 2025 10:01:43 GMT | Mohamed Banin Expands Global IT Leadership Footprint, Driving Transformation Across Continents | Mohamed Banin | [Read More](https://medium.com/p/7c97f2162ef2) |
-| Wed, 12 Nov 2025 09:59:31 GMT | :    … | FA Shuvo | [Read More](https://medium.com/p/a8f02bd5cea8) |
-| Wed, 12 Nov 2025 09:49:20 GMT | IT Integration Services: The Smart Way to Connect Systems, People, and Processes for Growth | Quadrant Systems | [Read More](https://medium.com/p/fd059979966d) |
-| Wed, 12 Nov 2025 09:48:26 GMT | The Day I Realized I Was Living My Life on Silent Mode | Amanur | [Read More](https://medium.com/p/d735e463325d) |
-| Wed, 12 Nov 2025 09:39:16 GMT | Fast, Reliable Security Staffing with ICORP’s Instant Booking Platform | ICORP Security | [Read More](https://medium.com/p/fddfd177232a) |
