@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 13:22:40 GMT | The Check-In We All Skip: How’s Life Lately, Really? | Journeys With Sree | [Read More](https://medium.com/p/cf214e0593ef) |
+| Wed, 12 Nov 2025 13:21:03 GMT | How I Mastered Logic Bugs With One Simple Checklist | Ibtissam | [Read More](https://medium.com/p/fa94721601f0) |
+| Wed, 12 Nov 2025 13:19:37 GMT | Capítulo 1 — Ecos no SOC | Kleber Andrade | [Read More](https://medium.com/p/77fbe0180e09) |
+| Wed, 12 Nov 2025 13:15:10 GMT | She Fell in Love with Your Mask, Not You | Rehan | [Read More](https://medium.com/p/12d463644ec3) |
+| Wed, 12 Nov 2025 13:11:18 GMT | GoPlus Web3 Security Report: October 2025 | GoPlus Security | [Read More](https://medium.com/p/f631a35cc1d3) |
+| Wed, 12 Nov 2025 13:08:25 GMT | Hacksudo: L.P.E CTF - Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/19bdcce6f7fe) |
+| Wed, 12 Nov 2025 13:05:06 GMT | When Love Starts Starving | Kevin | [Read More](https://medium.com/p/dbcd3dd31b17) |
+| Wed, 12 Nov 2025 13:03:02 GMT | GZR Observer — Global Daily — India Perspective Nov 12, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e420a2e562c1) |
+| Wed, 12 Nov 2025 13:01:59 GMT | Laravel on VPS Series — Part 1: Preparing Your VPS for Laravel | Coder Manjeet | [Read More](https://medium.com/p/aedc7ae7f222) |
+| Wed, 12 Nov 2025 12:53:00 GMT | Best Black Friday VPN Deals — Save Big on Top-Rated VPNs | Volter Anderson | [Read More](https://medium.com/p/021c912bbe18) |
+| Wed, 12 Nov 2025 12:51:56 GMT | Leading Cyber Security Course in Lahore - IPEI | IPEI | [Read More](https://medium.com/p/be1237bc6c7c) |
+| Wed, 12 Nov 2025 12:51:17 GMT | Security Awareness Training May Be Your Strongest Defense | Teddy Cerra | [Read More](https://medium.com/p/5e1b58775cce) |
+| Wed, 12 Nov 2025 12:51:10 GMT | How to Choose the Right Commercial Security Services Provider | Mark Steve | [Read More](https://medium.com/p/1bb587055b78) |
+| Wed, 12 Nov 2025 12:46:18 GMT | Incogni’s Black Friday Deal Is Here! Get Ready to Save | Hugh Lawrence | [Read More](https://medium.com/p/c95f3ef17f0c) |
 | Wed, 12 Nov 2025 12:46:08 GMT | Proving Grounds Resourced Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/a3b957cc07e6) |
+| Wed, 12 Nov 2025 12:45:35 GMT | Criminals Increasingly Use Deepfake Family Voices to Demand Ransom — Why your family needs a code… | Karl Buhl | [Read More](https://medium.com/p/3a72c7d77368) |
+| Wed, 12 Nov 2025 12:39:59 GMT | Malware, Viruses, and CVEs — Part 7(The End): The Future of Malware and Defence | Sammcmullen | [Read More](https://medium.com/p/152d11102476) |
 | Wed, 12 Nov 2025 12:39:47 GMT | The Power of Integration: Building a Cohesive Cybersecurity Strategy for the Modern Enterprise | Walidchaouachi | [Read More](https://medium.com/p/142e3d08cd8b) |
 | Wed, 12 Nov 2025 12:38:36 GMT | Security Through Obscurity: Between Hidden Walls and Transparent Strength | Walidchaouachi | [Read More](https://medium.com/p/8794c25320c2) |
 | Wed, 12 Nov 2025 12:36:38 GMT | Security Through Obscurity: The Hidden Layer of Defense or a Dangerous Illusion? | Walidchaouachi | [Read More](https://medium.com/p/0242c1222bca) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 08:26:01 GMT | Best Online AWS Training Institute in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/d5c343ccf189) |
 | Wed, 12 Nov 2025 08:19:22 GMT | 5 Common Cyber Threats You Can Prevent with VAPT Solutions | Lisa Loyal | [Read More](https://medium.com/p/2201f3c1015f) |
 | Wed, 12 Nov 2025 08:17:38 GMT | Diploma of Information Technology — Build a Future in Tech Innovation | royalinternational | [Read More](https://medium.com/p/251a2f92ac9e) |
-| Wed, 12 Nov 2025 08:11:12 GMT | Tryhackme Nas Ctf Writeup | Vivek Goswami | [Read More](https://medium.com/p/754cdd1d37ce) |
-| Wed, 12 Nov 2025 08:04:38 GMT | Top Jobs in Ethical Hacking: Career Paths, Skills & Salary Insights | EINITIAL24 | [Read More](https://medium.com/p/cb6c078c3aaf) |
-| Wed, 12 Nov 2025 08:02:12 GMT | How Kevin Noll Rewired Bata’s Global IT for a Smarter Future | The Executive Outlook | [Read More](https://medium.com/p/271f663fa667) |
-| Wed, 12 Nov 2025 08:02:09 GMT | Microsoft’s Massive AI Push in the UAE: Innovation or a Security Time Bomb? | LazyHacker | [Read More](https://medium.com/p/5e7cac04cb85) |
-| Wed, 12 Nov 2025 08:02:06 GMT | Part VIII — Vault Chronicles: The Cost of Control | Raymon Epping | [Read More](https://medium.com/p/18d7698fd14d) |
-| Wed, 12 Nov 2025 08:02:04 GMT | [Part 13] Case Study: How a Bank Used AI to Stop a $1 Million Cyber Fraud | Cyberkech | [Read More](https://medium.com/p/3e0485dcc2fd) |
-| Wed, 12 Nov 2025 08:01:38 GMT | A Southern Gentleman’s Guide to Cybersecurity Roles — Gumbo for the Modern Defender | the CyberStoic | [Read More](https://medium.com/p/e62357eee5fe) |
-| Wed, 12 Nov 2025 08:01:32 GMT | The GitHub Security Blindspot: When Your Organisation Members’ Personal Repos Become Your Problem | vishal | [Read More](https://medium.com/p/f30459c59ee3) |
-| Wed, 12 Nov 2025 07:58:38 GMT | How a Blue Team Saved a Company in 3 Hours: A Step-by-Step Real Incident Guide | Very Lazy Tech | [Read More](https://medium.com/p/b65915e34594) |
-| Wed, 12 Nov 2025 07:56:13 GMT | Will OpenAI’s Aardvark End Manual-Only Security for Good? | Nitin Gupta | [Read More](https://medium.com/p/fdf3236f0355) |
-| Wed, 12 Nov 2025 07:50:33 GMT | Mastering Cell-Level Security (CLS) in Oracle Cloud EPM / FCC | Anand Thota | [Read More](https://medium.com/p/65407b5b22e6) |
-| Wed, 12 Nov 2025 07:46:03 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/b32dc72a1925) |
-| Wed, 12 Nov 2025 07:41:02 GMT | Communication — The Right Stuff at the Right Time | Gog | [Read More](https://medium.com/p/c5e0e12d227c) |
-| Wed, 12 Nov 2025 07:40:19 GMT | SOC Workbooks and Lookups WalkThrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/411bf6340b49) |
-| Wed, 12 Nov 2025 07:33:43 GMT | What is Email Encryption: Types, Benefits & Best Practices? | HawkShield | [Read More](https://medium.com/p/e07b8ee4dd3c) |
-| Wed, 12 Nov 2025 07:27:56 GMT | UK’s Digital ID Scheme — What It Is and Why Does It Matter? | Vinita Ramtri | [Read More](https://medium.com/p/16da6898c506) |
