@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 22:13:48 GMT | Is College Worth It for Cybersecurity? My Honest Take as a Student and Cert Chaser | NTHSec | [Read More](https://medium.com/p/a348b46dd7e2) |
+| Wed, 12 Nov 2025 22:08:51 GMT | Not All Metrics Are Equal. These KPIs Drive Impact. | Fook Hwa Tan | [Read More](https://medium.com/p/0fcc0b494d3f) |
+| Wed, 12 Nov 2025 22:07:47 GMT | How We Guide Clients Across Strategy, Risk & Execution — Inside Our Managed Security Office | Fook Hwa Tan | [Read More](https://medium.com/p/6e0a9a6bf9b6) |
+| Wed, 12 Nov 2025 22:05:39 GMT | Stop Treating Audits Like Checklists. Here’s a Better Way. | Fook Hwa Tan | [Read More](https://medium.com/p/39d19cbbb145) |
+| Wed, 12 Nov 2025 21:59:46 GMT | Salesforce Marketing Cloud: Why You Need a Consultant | Digital Transformation Playbook | [Read More](https://medium.com/p/2f9f122d95b1) |
+| Wed, 12 Nov 2025 21:52:19 GMT | Exploits de kernel - 6 estrategias para protegerse | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/6afb6405f9cd) |
+| Wed, 12 Nov 2025 21:51:55 GMT | PortSwiggerInformation disclosure LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/89442f03c9b6) |
+| Wed, 12 Nov 2025 21:42:39 GMT | The $697 Million Heartbreak: What Romance Scammers Know About You (That You Don’t) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/dc11021c548d) |
+| Wed, 12 Nov 2025 21:40:52 GMT | O Guia de Sobrevivência Digital Para Quem Não Quer Virar Meme | Jonathan M. | [Read More](https://medium.com/p/1837f9819159) |
 | Wed, 12 Nov 2025 21:32:52 GMT | Linux best practices for DevOps and Security | Parviz Salmanov | [Read More](https://medium.com/p/7832db610c51) |
 | Wed, 12 Nov 2025 21:32:28 GMT | Azure SFTP on demand | Antoine LOIZEAU | [Read More](https://medium.com/p/9e101365453e) |
+| Wed, 12 Nov 2025 21:31:16 GMT | From Nokia to AI: Evolve or Fade Away | Jeesmon Jacob | [Read More](https://medium.com/p/d3960f06e46a) |
 | Wed, 12 Nov 2025 21:24:43 GMT | Cybersecurity Starts at the Top — How Strong Heritage Risk Advisors Helps Boards Build Cyber-Aware… | Yokota Strong | [Read More](https://medium.com/p/4925764d975f) |
 | Wed, 12 Nov 2025 21:18:07 GMT | LazyAdmin writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/998921094daf) |
 | Wed, 12 Nov 2025 21:16:47 GMT | The Challenge of Digital Trust ( I saw a dog riding a tricycle ) | David Oboite | [Read More](https://medium.com/p/657916afa22c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 15:48:15 GMT | Poison in the Data: How Dataset Attacks Threaten AI Systems | Abraham Biji | [Read More](https://medium.com/p/dd8dd338f8fd) |
 | Wed, 12 Nov 2025 15:45:53 GMT | Even The Banana OF This Era Is Naked | Imran Uz Zaman | [Read More](https://medium.com/p/39070532a3ac) |
 | Wed, 12 Nov 2025 15:31:13 GMT | Dua for protection from the devils | Aminul Ihsaan Islam | [Read More](https://medium.com/p/1b239318ea73) |
-| Wed, 12 Nov 2025 15:22:28 GMT | Can SAML Ever Be Truly Stateless? | Atharva Dev | [Read More](https://medium.com/p/b6ed9f4c8207) |
-| Wed, 12 Nov 2025 15:22:00 GMT | SquareX at Security Field Day 14 | SquareX | [Read More](https://medium.com/p/ea5eb59f2c36) |
-| Wed, 12 Nov 2025 15:18:04 GMT | HTB — Appointment | Lautaro Robayna | [Read More](https://medium.com/p/db152c149d45) |
-| Wed, 12 Nov 2025 15:16:59 GMT | Cross-Site Scripting (XSS) | Jen Cracchiola | [Read More](https://medium.com/p/5ffaada11fbf) |
-| Wed, 12 Nov 2025 15:15:34 GMT | How a PCI DSS Audit Made Me Rethink Wazuh — and How You Can Be Audit-Ready Too | yzw.joel | [Read More](https://medium.com/p/d7d4122fed35) |
-| Wed, 12 Nov 2025 15:13:24 GMT | Avoid Cryptographic Failures With These 6 Easy Steps | Jen Cracchiola | [Read More](https://medium.com/p/f0961107edfe) |
-| Wed, 12 Nov 2025 15:11:56 GMT | Azure Tenant Discovery & Reconnaissance — A Practical Guide for External Testers | Tareshsharma | [Read More](https://medium.com/p/b67c3c69f15f) |
-| Wed, 12 Nov 2025 15:11:44 GMT | How to Find the Right Cybersecurity Compliance Solutions: A 5-Step Guide for US Business Leaders | Defend My Business | [Read More](https://medium.com/p/6e03075c5587) |
-| Wed, 12 Nov 2025 15:08:30 GMT | Beyond Fear: The UAE’s moment in a new era of risk | Remi Ramcharan | [Read More](https://medium.com/p/3f5f4d3fdc07) |
-| Wed, 12 Nov 2025 15:02:35 GMT | How to Detect Emulator in Kotlin | Talsec | [Read More](https://medium.com/p/d718f78510a7) |
