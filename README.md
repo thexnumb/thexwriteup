@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 17:18:40 GMT | Why Cybercriminals Target SMBs and How Vulnerability Assessments Can Mitigate Attacks | Glenn Merritt | [Read More](https://medium.com/p/3926902e6f89) |
+| Wed, 12 Nov 2025 17:11:49 GMT | My PortSwigger Journey — Learning Web Security One Lab at a Time | b4dk4rm4sec | [Read More](https://medium.com/p/474823ceabf0) |
+| Wed, 12 Nov 2025 17:11:36 GMT | The Cache Poisoning Bible: Part 2 - Exotic Header Exploitation | Abhishek meena | [Read More](https://medium.com/p/8075377e9a68) |
+| Wed, 12 Nov 2025 17:06:35 GMT | How to Extend the Garage Door Opener Range: Boost Signal Easily | 24H Garage Doors | [Read More](https://medium.com/p/56b413fe788f) |
+| Wed, 12 Nov 2025 16:58:44 GMT | nz/note/perkakas.txt | nzunuzzz | [Read More](https://medium.com/p/05dddd066a42) |
+| Wed, 12 Nov 2025 16:58:26 GMT | The Smart Speaker Privacy Fix You’ve Probably Overlooked | The Online Safety Zone | [Read More](https://medium.com/p/8c47a6d6859e) |
+| Wed, 12 Nov 2025 16:54:54 GMT | AI/ LLM Hacking — Part 7 — System Prompt Leakage - Vector & Embedding Weakness | Darshan Naresh Naik | [Read More](https://medium.com/p/68bca76d9dd4) |
+| Wed, 12 Nov 2025 16:53:09 GMT | Bandit OverTheWire writeup — Level 19 → Level 20 | Dawid Kowalski | [Read More](https://medium.com/p/50784b920aad) |
+| Wed, 12 Nov 2025 16:53:03 GMT | How I Found a $$$ Bounty: Exposed SDK License Key | AbdelRhman_Sabry | [Read More](https://medium.com/p/81f8c3f6c5bf) |
+| Wed, 12 Nov 2025 16:51:56 GMT | Leaping into Tech | Onyinye Alosiba | [Read More](https://medium.com/p/07a7480e0e80) |
+| Wed, 12 Nov 2025 16:49:51 GMT | Bandit OverTheWire writeup — Level 18 → Level 19 | Dawid Kowalski | [Read More](https://medium.com/p/58b0590aa867) |
+| Wed, 12 Nov 2025 16:48:38 GMT | Bandit OverTheWire writeup — Level 17 → Level 18 | Dawid Kowalski | [Read More](https://medium.com/p/583b3e2b83c1) |
+| Wed, 12 Nov 2025 16:44:15 GMT | TryHackMe Threat Hunting Simulator Health Hazard | iamdonu | [Read More](https://medium.com/p/99f012e10bd5) |
+| Wed, 12 Nov 2025 16:41:54 GMT | Rhadamanthys Infostealer Operators Lose Control of Servers: Major Cybercrime Operation Disrupted | Technijian | [Read More](https://medium.com/p/2efa6e50f8ef) |
 | Wed, 12 Nov 2025 16:37:51 GMT | Two Futures, One Present — The Digital Divide We Created | Len Noe | [Read More](https://medium.com/p/a3a866faaff4) |
 | Wed, 12 Nov 2025 16:36:10 GMT | How AI-Powered Platforms Are Transforming Security Operations | Teona | [Read More](https://medium.com/p/c2515d759a27) |
 | Wed, 12 Nov 2025 16:28:35 GMT | Application of Neural Networks in Ensuring Data Security in DLT Systems | Dmytro Zarezenko | [Read More](https://medium.com/p/7c796abe53db) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 11:22:26 GMT | Vulnerability Assessment vs Penetration Testing: What’s the Real Difference? | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/12e95731bef0) |
 | Wed, 12 Nov 2025 11:21:39 GMT | Multi-tenant SR-IOV in Open | Luca Berton | [Read More](https://medium.com/p/d7575c8b706a) |
 | Wed, 12 Nov 2025 11:20:20 GMT | Exploring Seccomp Filters with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/88c7466cc379) |
-| Wed, 12 Nov 2025 11:16:00 GMT | Financial Consulting Firms Embrace AI and Data Analytics for Growth | Annumaurya | [Read More](https://medium.com/p/1f1c51fd2109) |
-| Wed, 12 Nov 2025 11:13:58 GMT | TRP00F: fully automated Linux privilege escalation machine. | Мартин. | [Read More](https://medium.com/p/b85895363d7f) |
-| Wed, 12 Nov 2025 11:13:26 GMT | Shared RDMA or SR-IOV per-tenant networking in Kubernetes: how to “pass all the routing… | Luca Berton | [Read More](https://medium.com/p/d34d0e5b7641) |
-| Wed, 12 Nov 2025 11:08:48 GMT | My NMAP Cheat Sheet | Dan Covic | [Read More](https://medium.com/p/69be10e119d2) |
-| Wed, 12 Nov 2025 11:06:14 GMT | Why Every IT Professional Should Learn CompTIA Security+ | Christie | [Read More](https://medium.com/p/e9da9d6e3cf0) |
-| Wed, 12 Nov 2025 11:01:29 GMT | Rust Fixme 2-General Skills-picoCTF WriteUp | Nirgunah | [Read More](https://medium.com/p/b56283e6a4c1) |
-| Wed, 12 Nov 2025 10:58:08 GMT | Beyond the Firewall: How ‘Data-Driven Six Sigma’ is Quietly Solving the Multi-Billion Dollar… | Jesunahmadushno | [Read More](https://medium.com/p/90eab692ed20) |
-| Wed, 12 Nov 2025 10:57:04 GMT | How the NSA, Big Tech, and the Market Made Surveillance the Default Setting | 0trust0day | [Read More](https://medium.com/p/3b10404c28cd) |
-| Wed, 12 Nov 2025 10:56:12 GMT | Free Live Hacking Session — Sunday, 16th November 2025 - 4:00 PM EAT - Online (Google Meet) | Dallen Sadru | [Read More](https://medium.com/p/343d50af9156) |
-| Wed, 12 Nov 2025 10:53:12 GMT | Zero Trust, Infinite Security: Rethinking Cyber Defense for SMBs | SignalAge | [Read More](https://medium.com/p/3830d990f04d) |
-| Wed, 12 Nov 2025 10:52:20 GMT | App Security Checklist 2025: Swift, iOS, SwiftUI Edition | Ravi | [Read More](https://medium.com/p/46b775980c25) |
-| Wed, 12 Nov 2025 10:43:10 GMT | Identity and Access Management: The Architect’s Guide to Complex SSO Scenarios (Part 3) | Pedro Távora Santos | [Read More](https://medium.com/p/dbbf093929f8) |
-| Wed, 12 Nov 2025 10:41:21 GMT | Nmap Scripts for Penetration Testing | Dan Covic | [Read More](https://medium.com/p/01269b042f71) |
-| Wed, 12 Nov 2025 10:36:32 GMT | Hosting That Hustles: Affordable Plans Built for Creators and Coders Alike | Janet Watson | [Read More](https://medium.com/p/92360df57fd9) |
