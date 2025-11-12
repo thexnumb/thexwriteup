@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 14:38:17 GMT | [INSIGHT] The Round Table of Hats: Mira’s Judgment | Guepster | [Read More](https://medium.com/p/0e27839dab41) |
+| Wed, 12 Nov 2025 14:27:37 GMT | Unmasking Digital Threats with VirusTotal and Have I Been Pwned | Little_Sun4lower | [Read More](https://medium.com/p/ba23268d3e20) |
+| Wed, 12 Nov 2025 14:22:48 GMT | Humanix — Human Threat Detection & Response for Social Engineering AttacksWelcome to boldstart. | Ed Sim | [Read More](https://medium.com/p/cf56783ee0ec) |
 | Wed, 12 Nov 2025 14:03:59 GMT | Hacksudo: Proxima — Centauri CTF - Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/37b663681ea9) |
 | Wed, 12 Nov 2025 14:01:57 GMT | Future-Proof Tech Careers with AI, Cybersecurity, Cloud, UI UX | Job Booster India | [Read More](https://medium.com/p/4437cc35f1a9) |
 | Wed, 12 Nov 2025 13:39:42 GMT | From Cybersecurity to AI Security: The New Governance Frontier | AXSAS | [Read More](https://medium.com/p/187eed928d38) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 08:51:32 GMT | OWASP Top 10 (2025) — What’s New and Why It Matters ‍ | CyberHead | [Read More](https://medium.com/p/f9bf279b4b28) |
 | Wed, 12 Nov 2025 08:51:19 GMT | On Beauty, Rejection, and the Self | Whispers I Never Voice | [Read More](https://medium.com/p/69e080849f47) |
 | Wed, 12 Nov 2025 08:48:30 GMT | PhantomPi: A Covert Red Team Implant (Part 2) | Alessandro Tagliafierro | [Read More](https://medium.com/p/d74493d731ee) |
-| Wed, 12 Nov 2025 08:46:23 GMT | riBenefits of Hiring a Local Web Development Company in Sheridan | IOTAIY | [Read More](https://medium.com/p/fe90cd58c2eb) |
-| Wed, 12 Nov 2025 08:36:54 GMT | The Long Game: How APTs Infiltrate And Control Networks | Redfox Security | [Read More](https://medium.com/p/b69f7ed2e0b7) |
-| Wed, 12 Nov 2025 08:36:00 GMT | Enhance Your Security with Professional CCTV Installation by Nestron Automation | Nestrondigitalhub | [Read More](https://medium.com/p/941dc4cc09f1) |
