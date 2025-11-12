@@ -12,11 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 22:38:43 GMT | Breaking mPDF with regex and logic | brun0ne | [Read More](https://medium.com/p/bf915300483f) |
+| Wed, 12 Nov 2025 22:32:24 GMT | Day 12 — Mastering Remote Access: Understanding SSH, RDP, VPN, FTP, and SFTP | HackTrace | [Read More](https://medium.com/p/21d05219e6db) |
+| Wed, 12 Nov 2025 22:23:45 GMT | Command Injection — Write-up | Omar Ahmed Abdelslaam | [Read More](https://medium.com/p/b0e37450330b) |
+| Wed, 12 Nov 2025 22:16:54 GMT | The Hidden Security Risks Inside MCP Servers | Cyber-AppSec | [Read More](https://medium.com/p/fbd3bda81981) |
 | Wed, 12 Nov 2025 22:13:48 GMT | Is College Worth It for Cybersecurity? My Honest Take as a Student and Cert Chaser | NTHSec | [Read More](https://medium.com/p/a348b46dd7e2) |
+| Wed, 12 Nov 2025 22:12:06 GMT | The Digital Siege: Inside Germany’s Growing Cybersecurity Crisis | Aydin Aslan | [Read More](https://medium.com/p/7d80cd52dac6) |
 | Wed, 12 Nov 2025 22:08:51 GMT | Not All Metrics Are Equal. These KPIs Drive Impact. | Fook Hwa Tan | [Read More](https://medium.com/p/0fcc0b494d3f) |
 | Wed, 12 Nov 2025 22:07:47 GMT | How We Guide Clients Across Strategy, Risk & Execution — Inside Our Managed Security Office | Fook Hwa Tan | [Read More](https://medium.com/p/6e0a9a6bf9b6) |
 | Wed, 12 Nov 2025 22:05:39 GMT | Stop Treating Audits Like Checklists. Here’s a Better Way. | Fook Hwa Tan | [Read More](https://medium.com/p/39d19cbbb145) |
 | Wed, 12 Nov 2025 21:59:46 GMT | Salesforce Marketing Cloud: Why You Need a Consultant | Digital Transformation Playbook | [Read More](https://medium.com/p/2f9f122d95b1) |
+| Wed, 12 Nov 2025 21:57:20 GMT | Le développement sécurisé | Florent M | [Read More](https://medium.com/p/47f25d6fa155) |
 | Wed, 12 Nov 2025 21:52:19 GMT | Exploits de kernel - 6 estrategias para protegerse | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/6afb6405f9cd) |
 | Wed, 12 Nov 2025 21:51:55 GMT | PortSwiggerInformation disclosure LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/89442f03c9b6) |
 | Wed, 12 Nov 2025 21:42:39 GMT | The $697 Million Heartbreak: What Romance Scammers Know About You (That You Don’t) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/dc11021c548d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 16:10:23 GMT | When Uncle Sam Becomes Lazarus: The Irony of State-Sponsored Crypto Theft | Abatis ABTU | [Read More](https://medium.com/p/e1dd6782e5f3) |
 | Wed, 12 Nov 2025 16:02:24 GMT | 3,700× Faster: The Tiny Chip That Makes Quantum-Safe IoT Affordable | Berend Watchus | [Read More](https://medium.com/p/6b1cf60198c5) |
 | Wed, 12 Nov 2025 16:02:01 GMT | AI Security’s Hidden Risks | Shailendra Kumar | [Read More](https://medium.com/p/c70b4b3f60ca) |
-| Wed, 12 Nov 2025 15:59:55 GMT | Timelock Integrates GetBlock’s Robust Infrastructure to Elevate On-Chain Security | Timelock | [Read More](https://medium.com/p/816e3a0ea650) |
-| Wed, 12 Nov 2025 15:53:02 GMT | Eliminate Secret Management: Setting Up Workload Identity Federation with Azure DevOps Service… | Vaibhav Gujral | [Read More](https://medium.com/p/cb2431a68499) |
-| Wed, 12 Nov 2025 15:51:05 GMT | TryHackMe SOC L1 Alert Reporting walkthrough. | Mercykiaritha | [Read More](https://medium.com/p/00ed9245876b) |
-| Wed, 12 Nov 2025 15:48:15 GMT | Poison in the Data: How Dataset Attacks Threaten AI Systems | Abraham Biji | [Read More](https://medium.com/p/dd8dd338f8fd) |
-| Wed, 12 Nov 2025 15:45:53 GMT | Even The Banana OF This Era Is Naked | Imran Uz Zaman | [Read More](https://medium.com/p/39070532a3ac) |
-| Wed, 12 Nov 2025 15:31:13 GMT | Dua for protection from the devils | Aminul Ihsaan Islam | [Read More](https://medium.com/p/1b239318ea73) |
