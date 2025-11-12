@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 04:20:23 GMT | PostgreSQL JSON vs JSONB: Which One Will Ruin Your Speed? | Rizqi Mulki | [Read More](https://medium.com/p/3bfb07d723a0) |
+| Wed, 12 Nov 2025 04:16:17 GMT | File Integrity Monitoring Best Practices with Wazuh: A Theoretical Perspective | Arasy Dafa Sulistya Kurniawan | [Read More](https://medium.com/p/b74fe577f1f7) |
+| Wed, 12 Nov 2025 04:15:59 GMT | VulnHub DC-2 Walkthrough: Multiple Paths to Root | Kalash Kundaliya | [Read More](https://medium.com/p/ee303a4875db) |
+| Wed, 12 Nov 2025 04:14:23 GMT | The LLM Security Checklist: How to Prevent Data Leaks from Your Private Database | Pratish Dewangan | [Read More](https://medium.com/p/6501bba65dcb) |
+| Wed, 12 Nov 2025 04:10:36 GMT | Prompt Injection: The SQL Injection of the AI Era | Dave Patten | [Read More](https://medium.com/p/3c8cfe9ad890) |
+| Wed, 12 Nov 2025 04:02:19 GMT | Google’s Grip Is Slipping | V. Langston - Journalist | [Read More](https://medium.com/p/d2809dea64de) |
+| Wed, 12 Nov 2025 03:57:12 GMT | When Clouds Betray You: Hidden Risks in Your Cloud-Setup | Cloud Shark | [Read More](https://medium.com/p/a54bd2c87f47) |
 | Wed, 12 Nov 2025 03:37:53 GMT | M – The Shielded Man | Lonizz | [Read More](https://medium.com/p/342745deefd3) |
 | Wed, 12 Nov 2025 03:37:02 GMT | Migration of LTO Network(LTO) to EQTY(EQTY) | Aster airdrop | [Read More](https://medium.com/p/c26f5aced299) |
 | Wed, 12 Nov 2025 03:36:24 GMT | LAUNCHCOIN to BELIEVE Token Swap and Rebranding | Aster airdrop | [Read More](https://medium.com/p/ea426466d4d9) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 18:45:30 GMT | A newly discovered malicious Visual Studio Code extension, dubbed SleepyDuck, demonstrates a… | SCtoCS | [Read More](https://medium.com/p/b5e21cd9dfb1) |
 | Tue, 11 Nov 2025 18:45:23 GMT | How Big and Small Companies Manage Cybersecurity Differently | Amritesh Shree | [Read More](https://medium.com/p/acd7f2301bcd) |
 | Tue, 11 Nov 2025 18:35:01 GMT | PhantomCollect in Action: Real-World Use Cases for Security Professionals | xsser01 | [Read More](https://medium.com/p/b65b896a1cb6) |
-| Tue, 11 Nov 2025 18:34:57 GMT | I Love You, Until… | Soude Oluwadamilola Temilara | [Read More](https://medium.com/p/2fdc22392b77) |
-| Tue, 11 Nov 2025 18:30:10 GMT | If you're doing pentesting, you already love poking things to see what falls off. | Cyberbald007 | [Read More](https://medium.com/p/f3f9bb4ed3b1) |
-| Tue, 11 Nov 2025 18:21:29 GMT | From Dental Tools to Digital Defenses: My Journey into Cybersecurity | fromdentaltocyber | [Read More](https://medium.com/p/82f649e48040) |
-| Tue, 11 Nov 2025 18:04:44 GMT | The 0-Click Account Takeover Using Punycode IDN Attacks | Syed Shahwar | [Read More](https://medium.com/p/ac20c4eb05c8) |
-| Tue, 11 Nov 2025 18:01:57 GMT | PicoCTF Writeup: Python Wrangling | SoBatista | [Read More](https://medium.com/p/bf2e65fa9f69) |
-| Tue, 11 Nov 2025 18:01:49 GMT | Captain DevOps vs Guardian SecOps: The Adventure of DevSecOps | Gopi Sri | [Read More](https://medium.com/p/59b1d3494d16) |
-| Tue, 11 Nov 2025 18:00:00 GMT | The Curious Case of the Wandering URL (SSRF Discovery) | Cyberbald007 | [Read More](https://medium.com/p/a3cdf9ff53d7) |
