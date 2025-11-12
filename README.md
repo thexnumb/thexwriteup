@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 07:33:43 GMT | What is Email Encryption: Types, Benefits & Best Practices? | HawkShield | [Read More](https://medium.com/p/e07b8ee4dd3c) |
+| Wed, 12 Nov 2025 07:27:56 GMT | UK’s Digital ID Scheme — What It Is and Why Does It Matter? | Vinita Ramtri | [Read More](https://medium.com/p/16da6898c506) |
+| Wed, 12 Nov 2025 07:21:55 GMT | Tracking the Trackers: Lessons from the APT43/Kimsuky Takedown | Siddhant Mishra | [Read More](https://medium.com/p/938ed2552947) |
 | Wed, 12 Nov 2025 07:18:55 GMT | Day 76- The basics of malware detection and prevention as a beginner to be known | unica 02 | [Read More](https://medium.com/p/e5057adb1428) |
+| Wed, 12 Nov 2025 07:13:22 GMT | Sistemi Değil İnsanları Kandırmak; Sosyal Mühendisliğin Anatomisi | Myusuftr | [Read More](https://medium.com/p/fcea312aec22) |
 | Wed, 12 Nov 2025 07:10:44 GMT | Building a Practical AI Automation Pipeline with n8n and Google Cloud — Lessons from Lab Work and… | Vivektumma27 | [Read More](https://medium.com/p/2615e8d5b105) |
 | Wed, 12 Nov 2025 07:10:03 GMT | What Your Smartphone Isn’t Telling You: A Guide to Its Hidden Computer | Sam Writes Security | [Read More](https://medium.com/p/23e1b8d4c267) |
 | Wed, 12 Nov 2025 07:08:22 GMT | Understanding Sessions: A Security Perspective | Kunal Sinha | [Read More](https://medium.com/p/6f1947e73f26) |
@@ -25,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 06:56:48 GMT | Beyond Walls: How Outdoor Furniture Shapes Dubai’s Everyday Spaces | Zayani & CO | [Read More](https://medium.com/p/528bdc2eef3c) |
 | Wed, 12 Nov 2025 06:55:19 GMT | Are People Really Killing Themselves to Get a Job? | Vijay Kumar Gupta | [Read More](https://medium.com/p/423c3e16ae60) |
 | Wed, 12 Nov 2025 06:53:11 GMT | The 5 AI Governance Mistakes That Trigger Regulator Attention | AXSAS | [Read More](https://medium.com/p/d6fbbcc3f3f2) |
+| Wed, 12 Nov 2025 06:39:21 GMT | Cara memasang Nessus Essentials di Arch Linux | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/bbf9914007df) |
 | Wed, 12 Nov 2025 06:33:43 GMT | From Passwords to Passkeys: The Next Era of Digital Authentication | Sakthimurugan S | [Read More](https://medium.com/p/b2c63a94340a) |
 | Wed, 12 Nov 2025 06:33:33 GMT | What is growth hacking, and how does it differ from traditional marketing? | Nschool Academy | [Read More](https://medium.com/p/2c9ebf0026fa) |
 | Wed, 12 Nov 2025 06:33:06 GMT | The Daily Tech Digest: 12 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ae5a5ee0a621) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 21:25:18 GMT | Planning - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/1aeed29d81bc) |
 | Tue, 11 Nov 2025 21:25:06 GMT | LetsDefend — Disclose The Agent | Javier | [Read More](https://medium.com/p/43dc3d8285c0) |
 | Tue, 11 Nov 2025 21:25:00 GMT | Fluffy - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/c17389bec068) |
-| Tue, 11 Nov 2025 21:20:24 GMT | postMessage` XSS: It’s Like Passing Secret Notes in Class… But the Whole School Can Read Them**… | Shady Farouk | [Read More](https://medium.com/p/842c113b61dc) |
-| Tue, 11 Nov 2025 21:13:55 GMT | CyCTF25 Qualifications — Vault Raider, Mobile Challenge Writeup | محمد بن إبراهيم | [Read More](https://medium.com/p/998f38aa3e75) |
-| Tue, 11 Nov 2025 21:04:20 GMT | The Skies Are Too Crowded | Sharon Johnson | [Read More](https://medium.com/p/cce584c07a54) |
-| Tue, 11 Nov 2025 20:55:58 GMT | The DNS Tool That Became a Hacker’s Playground (And How I Caught Them Red-Handed) | HUNT3R | [Read More](https://medium.com/p/92670ee574c3) |
-| Tue, 11 Nov 2025 20:46:54 GMT | API Security Pentest Scripts — Safe Test Patterns, Automation and Examples ⚙️ | Esra Kayhan | [Read More](https://medium.com/p/5ea1c707c4d5) |
