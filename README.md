@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 15:31:13 GMT | Dua for protection from the devils | Aminul Ihsaan Islam | [Read More](https://medium.com/p/1b239318ea73) |
+| Wed, 12 Nov 2025 15:22:28 GMT | Can SAML Ever Be Truly Stateless? | Atharva Dev | [Read More](https://medium.com/p/b6ed9f4c8207) |
 | Wed, 12 Nov 2025 15:22:00 GMT | SquareX at Security Field Day 14 | SquareX | [Read More](https://medium.com/p/ea5eb59f2c36) |
+| Wed, 12 Nov 2025 15:18:04 GMT | HTB — Appointment | Lautaro Robayna | [Read More](https://medium.com/p/db152c149d45) |
+| Wed, 12 Nov 2025 15:16:59 GMT | Cross-Site Scripting (XSS) | Jen Cracchiola | [Read More](https://medium.com/p/5ffaada11fbf) |
+| Wed, 12 Nov 2025 15:15:34 GMT | How a PCI DSS Audit Made Me Rethink Wazuh — and How You Can Be Audit-Ready Too | yzw.joel | [Read More](https://medium.com/p/d7d4122fed35) |
+| Wed, 12 Nov 2025 15:13:24 GMT | Avoid Cryptographic Failures With These 6 Easy Steps | Jen Cracchiola | [Read More](https://medium.com/p/f0961107edfe) |
 | Wed, 12 Nov 2025 15:11:56 GMT | Azure Tenant Discovery & Reconnaissance — A Practical Guide for External Testers | Tareshsharma | [Read More](https://medium.com/p/b67c3c69f15f) |
 | Wed, 12 Nov 2025 15:11:44 GMT | How to Find the Right Cybersecurity Compliance Solutions: A 5-Step Guide for US Business Leaders | Defend My Business | [Read More](https://medium.com/p/6e03075c5587) |
 | Wed, 12 Nov 2025 15:08:30 GMT | Beyond Fear: The UAE’s moment in a new era of risk | Remi Ramcharan | [Read More](https://medium.com/p/3f5f4d3fdc07) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 09:49:20 GMT | IT Integration Services: The Smart Way to Connect Systems, People, and Processes for Growth | Quadrant Systems | [Read More](https://medium.com/p/fd059979966d) |
 | Wed, 12 Nov 2025 09:48:26 GMT | The Day I Realized I Was Living My Life on Silent Mode | Amanur | [Read More](https://medium.com/p/d735e463325d) |
 | Wed, 12 Nov 2025 09:39:16 GMT | Fast, Reliable Security Staffing with ICORP’s Instant Booking Platform | ICORP Security | [Read More](https://medium.com/p/fddfd177232a) |
-| Wed, 12 Nov 2025 09:37:31 GMT | The Most Common Mistake People Make Online | Shivakshi Rawat | [Read More](https://medium.com/p/c4cf13139d45) |
-| Wed, 12 Nov 2025 09:32:51 GMT | Why Regular Security Updates Are Crucial for Your Systems | Smit Pipaliya | [Read More](https://medium.com/p/cf1debda4459) |
-| Wed, 12 Nov 2025 09:32:21 GMT | Your First Crypto Wallet, Demystified | Praxen | [Read More](https://medium.com/p/70c9a6a72093) |
-| Wed, 12 Nov 2025 09:26:32 GMT | Imagine What Could Be, Unburdened by What Has Been, Technology Version | Namir Sagheenanajar | [Read More](https://medium.com/p/6aad87a926cf) |
-| Wed, 12 Nov 2025 09:23:07 GMT | Cyber Security | TPETE67 | [Read More](https://medium.com/p/12a063ac2004) |
-| Wed, 12 Nov 2025 09:16:34 GMT | ประจำวันพุธที่ 12 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f741deecd531) |
