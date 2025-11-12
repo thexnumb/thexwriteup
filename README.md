@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 02:48:32 GMT | Input Manipulation & Prompt Injection: TryHackMe | TcyberSec007 | [Read More](https://medium.com/p/394753de033b) |
+| Wed, 12 Nov 2025 02:43:06 GMT | Setting up Active Directory on Linux using Virt Manger/QEMU for Learning how to hack it | niazi | [Read More](https://medium.com/p/1e7ab57ad9f3) |
+| Wed, 12 Nov 2025 02:23:41 GMT | How I Encrypt User Data Using Argon2id, AES-GCM, and AWS KMS (Without Storing Keys) | ManojSrinivasa | [Read More](https://medium.com/p/a020b4d4e776) |
+| Wed, 12 Nov 2025 02:19:02 GMT | Μεγάλες Διαρροές Δεδομένων 2025: Τί σημαίνουν για εσένα και πώς να προστατευτείς; | Akis Papas | [Read More](https://medium.com/p/bed63f85820d) |
+| Wed, 12 Nov 2025 02:12:05 GMT | LUKS-Encrypted Loopback Files: A Practical Approach to Personal Data Security | Ronald Farrer | [Read More](https://medium.com/p/8e177008cd6d) |
+| Wed, 12 Nov 2025 02:03:30 GMT | Weekly Threat Intelligence Report 10 Nov 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6330dca3b7f8) |
+| Wed, 12 Nov 2025 02:01:56 GMT | Title: Day 4 of My eJPTv2 Journey: Mapping and Sniffing the Network ️ | samurai | [Read More](https://medium.com/p/625e15221230) |
+| Wed, 12 Nov 2025 02:01:17 GMT | My body wants | Unapologetically Me | [Read More](https://medium.com/p/7ebb64718c15) |
+| Wed, 12 Nov 2025 01:54:03 GMT | OWASP TOP-10 (2025) | The Commoness | [Read More](https://medium.com/p/398be912b900) |
+| Wed, 12 Nov 2025 01:38:00 GMT | My wife cheated on me. She’s cheated on me twice. | Misass | [Read More](https://medium.com/p/376f7ca3394d) |
+| Wed, 12 Nov 2025 01:37:11 GMT | O colete do agente não apenas oferece proteção, mas também representa o primeiro nível do uso… | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/7ba788931ec9) |
 | Wed, 12 Nov 2025 01:21:09 GMT | What Exactly Is the AI Stack? | Ms. Byte Dev | [Read More](https://medium.com/p/ee9354982862) |
 | Wed, 12 Nov 2025 01:08:50 GMT | Proof of Life & Proof of Existence | Ismael Trabuco | [Read More](https://medium.com/p/01f9b8ce2f67) |
 | Wed, 12 Nov 2025 01:03:45 GMT | Phishing Analysis Fundamentals — Try Hack Me Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/141dcbeee0e5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 17:38:03 GMT | BMC: A distributed IoT C2 architecture based on Bluetooth MAC address detection nodes, capable of… | Мартин. | [Read More](https://medium.com/p/b0bc9b670243) |
 | Tue, 11 Nov 2025 17:35:22 GMT | Running Out of Data: How Synthetic Data is Saving the Future of AI | Grenish Rai | [Read More](https://medium.com/p/c7ef0332e728) |
 | Tue, 11 Nov 2025 17:34:06 GMT | Responsible Recon: how to find bug-bounty and disclosure pages (ethically) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/6b49a30eeaf6) |
-| Tue, 11 Nov 2025 17:31:37 GMT | D-link: D-link is a lightweight Linux file synchronization tool written in C++ | Мартин. | [Read More](https://medium.com/p/516999f6644f) |
-| Tue, 11 Nov 2025 17:29:07 GMT | When a Bug Turned Into My Best Learning Experience as a Developer | Abdullah Javeed | [Read More](https://medium.com/p/f278b65976e9) |
-| Tue, 11 Nov 2025 17:27:12 GMT | Cybersecurity Conferences in Israel | Tal Eliyahu | [Read More](https://medium.com/p/7cd9f768f173) |
-| Tue, 11 Nov 2025 17:23:21 GMT | Cross-Site Scripting (XSS): The Hidden Cyber Threat Lurking in Your Browser | Fikri Muzadi | [Read More](https://medium.com/p/0078e0f09f78) |
-| Tue, 11 Nov 2025 17:17:30 GMT | Building Trust in AI Systems: What I Learned After a Security Scare | Michael Preston | [Read More](https://medium.com/p/b122b399b5aa) |
-| Tue, 11 Nov 2025 17:14:52 GMT | The 5 Hidden Systems That Make AI Feel “ Alive ” in 2025 | Aditya Suryawanshi | [Read More](https://medium.com/p/2ce9f174c8fe) |
-| Tue, 11 Nov 2025 17:10:25 GMT | How AI Will Change The Way GRC Is Done | Taimur Ijlal | [Read More](https://medium.com/p/d604df9a09ea) |
-| Tue, 11 Nov 2025 17:03:34 GMT | Reading the Internet’s Body Language: My First Step into Cybersecurity | Jim Columbus | [Read More](https://medium.com/p/97c62200a773) |
-| Tue, 11 Nov 2025 17:02:27 GMT | OSINT: From Basics to Advanced and Crazy Insights | Ghostx | [Read More](https://medium.com/p/60f5edce18a4) |
-| Tue, 11 Nov 2025 17:02:18 GMT | Beginner’s Guide to Cybersecurity Careers: What I Learned from TryHackMe | Manya Tyagi | [Read More](https://medium.com/p/8220b2b70236) |
-| Tue, 11 Nov 2025 17:02:01 GMT | The Fear of Being Seen: Why We Hide Our Brilliance | Diman HPA | [Read More](https://medium.com/p/5fe5b474e5b2) |
