@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 23:17:56 GMT | System Configuration and Troubleshooting in Linux: A Hands-On Challenge | Russell "Dusty" Broad | [Read More](https://medium.com/p/21551f42b024) |
 | Wed, 12 Nov 2025 23:15:10 GMT | Stagnant Creativity in the Tech Sector | Rhiannon Williams | [Read More](https://medium.com/p/cbbfa11e30c5) |
 | Wed, 12 Nov 2025 23:05:11 GMT | Alteryx Server IDOR Advisory | Aleksa Zatezalo | [Read More](https://medium.com/p/782e3013ee38) |
 | Wed, 12 Nov 2025 23:01:21 GMT | Alert — Hack The Box (Easy) | d4rkonus | [Read More](https://medium.com/p/fd2e17c0aa20) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 16:27:16 GMT | When AI Becomes the Face of Deception: The Era of Deepfakes and Cyber Scams | Salihou BADIAGA | [Read More](https://medium.com/p/b2b02c0faf77) |
 | Wed, 12 Nov 2025 16:24:56 GMT | Ransomware Has a New Goal: Why Control Is the Next Currency in Cybersecurity | Fortress Protocol | [Read More](https://medium.com/p/4a3135465f93) |
 | Wed, 12 Nov 2025 16:20:03 GMT | Bir Paket Yolda: İnternette Veriler Nasıl Güvende Kalıyor? | Alper TUĞRUL | [Read More](https://medium.com/p/4b7b7a524a71) |
-| Wed, 12 Nov 2025 16:18:11 GMT | Top Technologies of 2035 | Madhavaraman | [Read More](https://medium.com/p/47bdde38c770) |
