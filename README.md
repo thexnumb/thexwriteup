@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 04:40:23 GMT | From Garage Tinkers To Signal Jammers: How Hardware Became Radical Again | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ee79e3313665) |
+| Wed, 12 Nov 2025 04:32:22 GMT | ⚡File Uploads and Media Management in MERN Stack | Dilakshan Sivanathan | [Read More](https://medium.com/p/45662e83eae2) |
+| Wed, 12 Nov 2025 04:25:38 GMT | Inside the Birth of Tor Browser: The U.S. Navy Project That Created Internet Anonymity | Manish Pandey | [Read More](https://medium.com/p/94623316b6eb) |
 | Wed, 12 Nov 2025 04:20:23 GMT | PostgreSQL JSON vs JSONB: Which One Will Ruin Your Speed? | Rizqi Mulki | [Read More](https://medium.com/p/3bfb07d723a0) |
 | Wed, 12 Nov 2025 04:16:17 GMT | File Integrity Monitoring Best Practices with Wazuh: A Theoretical Perspective | Arasy Dafa Sulistya Kurniawan | [Read More](https://medium.com/p/b74fe577f1f7) |
 | Wed, 12 Nov 2025 04:15:59 GMT | VulnHub DC-2 Walkthrough: Multiple Paths to Root | Kalash Kundaliya | [Read More](https://medium.com/p/ee303a4875db) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 18:57:38 GMT | How Many Amps Does a Garage Door Opener Use: Power Specs Explained | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/db22a3c22bba) |
 | Tue, 11 Nov 2025 18:53:27 GMT | The Importance of Data Security in Healthcare and Financial Services | Legal Thoughts | [Read More](https://medium.com/p/21c9e9ecb4a1) |
 | Tue, 11 Nov 2025 18:46:40 GMT | EU Plans to Loosen GDPR Rules to Boost AI Development | SOCFortress | [Read More](https://medium.com/p/6399ca5c3edb) |
-| Tue, 11 Nov 2025 18:45:30 GMT | A newly discovered malicious Visual Studio Code extension, dubbed SleepyDuck, demonstrates a… | SCtoCS | [Read More](https://medium.com/p/b5e21cd9dfb1) |
-| Tue, 11 Nov 2025 18:45:23 GMT | How Big and Small Companies Manage Cybersecurity Differently | Amritesh Shree | [Read More](https://medium.com/p/acd7f2301bcd) |
-| Tue, 11 Nov 2025 18:35:01 GMT | PhantomCollect in Action: Real-World Use Cases for Security Professionals | xsser01 | [Read More](https://medium.com/p/b65b896a1cb6) |
