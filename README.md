@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 12:46:08 GMT | Proving Grounds Resourced Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/a3b957cc07e6) |
+| Wed, 12 Nov 2025 12:39:47 GMT | The Power of Integration: Building a Cohesive Cybersecurity Strategy for the Modern Enterprise | Walidchaouachi | [Read More](https://medium.com/p/142e3d08cd8b) |
+| Wed, 12 Nov 2025 12:38:36 GMT | Security Through Obscurity: Between Hidden Walls and Transparent Strength | Walidchaouachi | [Read More](https://medium.com/p/8794c25320c2) |
+| Wed, 12 Nov 2025 12:36:38 GMT | Security Through Obscurity: The Hidden Layer of Defense or a Dangerous Illusion? | Walidchaouachi | [Read More](https://medium.com/p/0242c1222bca) |
+| Wed, 12 Nov 2025 12:35:53 GMT | A Strategy for Targeted Password Craking | Victor Quéméneur | [Read More](https://medium.com/p/b60322a378c2) |
+| Wed, 12 Nov 2025 12:32:21 GMT | Drifter | Ifechukwu Ahanonu | [Read More](https://medium.com/p/be65b09a99cc) |
+| Wed, 12 Nov 2025 12:32:20 GMT | Beyond SHIELD: Why Payload-Level Intent Verification Is the Missing Layer in AI Security | Jon Capriola | [Read More](https://medium.com/p/3e1f883fff3f) |
+| Wed, 12 Nov 2025 12:29:15 GMT | I Passed the Security+ Exam — Here’s What I Study in 3 Steps | EnesMalikÖzata | [Read More](https://medium.com/p/a4819cedabdf) |
+| Wed, 12 Nov 2025 12:27:44 GMT | PCI DSS Simplified: A Non-Technical Guide for Business Owners | Digital Defense | [Read More](https://medium.com/p/6ea1112bf358) |
+| Wed, 12 Nov 2025 12:19:31 GMT | How Ransomware Groups Actually Operate Inside the Modern Cybercrime Economy | ED-360 AFRICA | [Read More](https://medium.com/p/010797c7f2a9) |
+| Wed, 12 Nov 2025 12:16:16 GMT | Best Graduate Diploma of Management in Australia — Boost Your Leadership Career | AIST | [Read More](https://medium.com/p/dcfc0084ed6f) |
+| Wed, 12 Nov 2025 12:15:45 GMT | Cisco CyberOps — Lab Cybersecurity Case Studies-1 | Genet Shibru | [Read More](https://medium.com/p/9a5149ff5347) |
+| Wed, 12 Nov 2025 12:15:37 GMT | Hacksudo: 2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c1dadeab1f34) |
+| Wed, 12 Nov 2025 12:10:13 GMT | Best Online Courses in Pakistan Learn with SAL Education Services, Lahore | SAL Education Services | [Read More](https://medium.com/p/4d2c4b734639) |
+| Wed, 12 Nov 2025 12:06:35 GMT | How I encrypt files on a Mac so no one else can access them | Olena Khodos | [Read More](https://medium.com/p/67f142831e83) |
+| Wed, 12 Nov 2025 11:54:34 GMT | Rust Fixme 3-General Skills-picoCTF WriteUp | Nirgunah | [Read More](https://medium.com/p/ff13374e17e3) |
+| Wed, 12 Nov 2025 11:53:58 GMT | Be careful — I could steal your identity - Business logic bug | MahmoudKroush | [Read More](https://medium.com/p/76c1d83868dc) |
+| Wed, 12 Nov 2025 11:48:57 GMT | Riyadh’s Smart City Revolution: The Rise of Intelligent Parking Management Systems | Zenecaastra | [Read More](https://medium.com/p/72c8d2074586) |
+| Wed, 12 Nov 2025 11:38:55 GMT | The Hidden Cost of API Security Misconfigurations (and How to Avoid Them) | Jei Ess | [Read More](https://medium.com/p/f132701315fd) |
 | Wed, 12 Nov 2025 11:30:07 GMT | NVIDIA Enterprise architecture with SR-IOV networking: why “16 nodes” today — and what’s next | Luca Berton | [Read More](https://medium.com/p/258b6a1c3699) |
+| Wed, 12 Nov 2025 11:27:12 GMT | Episode 7: “The Cubicle Core” | Dr. House In I.T. | [Read More](https://medium.com/p/eab4c587ed9b) |
 | Wed, 12 Nov 2025 11:26:52 GMT | Business Logic Flaw: How an Empty Team Name Can Trap Users Forever | Aminouji | [Read More](https://medium.com/p/fb9152acb990) |
 | Wed, 12 Nov 2025 11:26:10 GMT | Pentesting an Active Directory Homelab | Silas Aosige | [Read More](https://medium.com/p/d256639319fb) |
 | Wed, 12 Nov 2025 11:22:26 GMT | Vulnerability Assessment vs Penetration Testing: What’s the Real Difference? | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/12e95731bef0) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 07:40:19 GMT | SOC Workbooks and Lookups WalkThrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/411bf6340b49) |
 | Wed, 12 Nov 2025 07:33:43 GMT | What is Email Encryption: Types, Benefits & Best Practices? | HawkShield | [Read More](https://medium.com/p/e07b8ee4dd3c) |
 | Wed, 12 Nov 2025 07:27:56 GMT | UK’s Digital ID Scheme — What It Is and Why Does It Matter? | Vinita Ramtri | [Read More](https://medium.com/p/16da6898c506) |
-| Wed, 12 Nov 2025 07:21:55 GMT | Tracking the Trackers: Lessons from the APT43/Kimsuky Takedown | Siddhant Mishra | [Read More](https://medium.com/p/938ed2552947) |
-| Wed, 12 Nov 2025 07:18:55 GMT | Day 76- The basics of malware detection and prevention as a beginner to be known | unica 02 | [Read More](https://medium.com/p/e5057adb1428) |
-| Wed, 12 Nov 2025 07:13:22 GMT | Sistemi Değil İnsanları Kandırmak; Sosyal Mühendisliğin Anatomisi | Myusuftr | [Read More](https://medium.com/p/fcea312aec22) |
-| Wed, 12 Nov 2025 07:10:44 GMT | Building a Practical AI Automation Pipeline with n8n and Google Cloud — Lessons from Lab Work and… | Vivektumma27 | [Read More](https://medium.com/p/2615e8d5b105) |
-| Wed, 12 Nov 2025 07:10:03 GMT | What Your Smartphone Isn’t Telling You: A Guide to Its Hidden Computer | Sam Writes Security | [Read More](https://medium.com/p/23e1b8d4c267) |
-| Wed, 12 Nov 2025 07:08:22 GMT | Understanding Sessions: A Security Perspective | Kunal Sinha | [Read More](https://medium.com/p/6f1947e73f26) |
-| Wed, 12 Nov 2025 07:05:53 GMT | Email = Token = Broken Auth in Booking System | AZIMA | [Read More](https://medium.com/p/b54a7f5d7a52) |
-| Wed, 12 Nov 2025 07:05:30 GMT | Mask. | The Boundless Dreamer | [Read More](https://medium.com/p/d5fb6aaf1623) |
-| Wed, 12 Nov 2025 07:02:01 GMT | How I Practiced File Carving and Data Recovery Using a Virtual Hard Drive | Odunlade Adeola | [Read More](https://medium.com/p/f6920d55414c) |
-| Wed, 12 Nov 2025 07:00:26 GMT | Beyond Locks and Keys: The Modern Appeal of Godrej Safes in Dubai | Zayani & CO | [Read More](https://medium.com/p/57e5e5cb433d) |
-| Wed, 12 Nov 2025 06:59:33 GMT | Input Manipulation & Prompt Injection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/bbf3b09ebc08) |
-| Wed, 12 Nov 2025 06:56:55 GMT | Energy & Water: The Connected Foundations of Industry, Health, Society, and Security | George J. Assad | [Read More](https://medium.com/p/87e08a0e4827) |
-| Wed, 12 Nov 2025 06:56:48 GMT | Beyond Walls: How Outdoor Furniture Shapes Dubai’s Everyday Spaces | Zayani & CO | [Read More](https://medium.com/p/528bdc2eef3c) |
-| Wed, 12 Nov 2025 06:55:19 GMT | Are People Really Killing Themselves to Get a Job? | Vijay Kumar Gupta | [Read More](https://medium.com/p/423c3e16ae60) |
-| Wed, 12 Nov 2025 06:53:11 GMT | The 5 AI Governance Mistakes That Trigger Regulator Attention | AXSAS | [Read More](https://medium.com/p/d6fbbcc3f3f2) |
-| Wed, 12 Nov 2025 06:39:21 GMT | Cara memasang Nessus Essentials di Arch Linux | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/bbf9914007df) |
-| Wed, 12 Nov 2025 06:33:43 GMT | From Passwords to Passkeys: The Next Era of Digital Authentication | Sakthimurugan S | [Read More](https://medium.com/p/b2c63a94340a) |
-| Wed, 12 Nov 2025 06:33:33 GMT | What is growth hacking, and how does it differ from traditional marketing? | Nschool Academy | [Read More](https://medium.com/p/2c9ebf0026fa) |
-| Wed, 12 Nov 2025 06:33:06 GMT | The Daily Tech Digest: 12 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ae5a5ee0a621) |
-| Wed, 12 Nov 2025 06:31:10 GMT | Organize Technical Communication for Clear IT Project Delivery | TaskFord | [Read More](https://medium.com/p/5f9caadae3cc) |
