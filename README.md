@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 06:31:10 GMT | Organize Technical Communication for Clear IT Project Delivery | TaskFord | [Read More](https://medium.com/p/5f9caadae3cc) |
+| Wed, 12 Nov 2025 06:17:28 GMT | Capability-based memory bounds checking | wy-chung | [Read More](https://medium.com/p/98dd9df6e8d4) |
+| Wed, 12 Nov 2025 06:14:59 GMT | China Accuses US of Stealing $13 Billion in Bitcoin Through State-Level Hack | Brave New Coin | [Read More](https://medium.com/p/007f5e8e948b) |
+| Wed, 12 Nov 2025 06:13:30 GMT | Pentesting Kioptrix | Peterhunt | [Read More](https://medium.com/p/5e5d2874d57b) |
+| Wed, 12 Nov 2025 06:07:56 GMT | Cyber Defense: Building the Invisible Shield for a Digital World | Dinesh | [Read More](https://medium.com/p/11487142e10a) |
+| Wed, 12 Nov 2025 06:07:15 GMT | Using Tools to Protect Business Operations | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f58134a67370) |
+| Wed, 12 Nov 2025 06:00:39 GMT | Yazılım Test Mühendisinden Siber Güvenliğe: TryHackMe CyberHeroes Deneyimim | Melih Kale | [Read More](https://medium.com/p/21f38146648e) |
+| Wed, 12 Nov 2025 05:50:56 GMT | ️ Securing the Web: How Techincisive Protects Businesses with Advanced Web Security Services | Devarshi Acharya | [Read More](https://medium.com/p/50de0e50c4b0) |
 | Wed, 12 Nov 2025 05:33:59 GMT | The Rust Bug That Lived in My Code for 3 Days — and the One Trick That Finally Killed It | Kedar's CS Insight | [Read More](https://medium.com/p/e98668df30c2) |
 | Wed, 12 Nov 2025 05:29:37 GMT | The Gold Standard in Security Doors: Gold Coast Security Screens | Gold Coast Security Screens | [Read More](https://medium.com/p/20bd905ceee9) |
 | Wed, 12 Nov 2025 05:14:52 GMT | A CEO’s Checklist: 7 Essential Cybersecurity Strategies to Implement in Your Dubai Office Today | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/81af71e20e85) |
@@ -74,6 +82,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 22:35:57 GMT | Mighty Hacker Recovery / Bitcoin Recovery Expert WhatsApp is +14042456415. | Baron Wilson | [Read More](https://medium.com/p/1e37c560c657) |
 | Tue, 11 Nov 2025 22:35:33 GMT | Before Someone Hijacks Your Digital Identity — Read This | Elijah Usani | [Read More](https://medium.com/p/b52444274ecb) |
 | Tue, 11 Nov 2025 22:34:07 GMT | 77% of Employees Are Copy/Pasting Corporate Data Into AI Tools | Cyber-AppSec | [Read More](https://medium.com/p/2ad4afee92b0) |
+| Tue, 11 Nov 2025 22:33:38 GMT | How I turned a “Not Applicable” RXSS into an “Accepted” finding on a European HR Giant. | Jorge Taylor | [Read More](https://medium.com/p/6f9bff1f07c4) |
 | Tue, 11 Nov 2025 22:14:16 GMT | HackGPTs: Teaching AI to Think Like a Pentester | Twinkle Jaineera | [Read More](https://medium.com/p/730c2de0b7fe) |
 | Tue, 11 Nov 2025 21:59:04 GMT | Three Weeks in Solitude: Revealing the Truth of God’s Love | Joanne Miller | [Read More](https://medium.com/p/27a528ae047a) |
 | Tue, 11 Nov 2025 21:54:12 GMT | Abusing Sudo Rights on NeedRestart for Escalation | Aniket Das | [Read More](https://medium.com/p/d1307c2af12f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 20:10:54 GMT | Event Security: Why Professional Security Services Are Essential for a Safe & Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/c592ce19a4f3) |
 | Tue, 11 Nov 2025 20:08:21 GMT | 18 Digital Forensic Tools Every Cybersecurity Professional Should Know (2025 Guide) | Nazrul Islam Rana | [Read More](https://medium.com/p/9a8ce947f287) |
 | Tue, 11 Nov 2025 20:08:01 GMT | Understanding Cloudflare Workers Routes: How They Work, Why They Matter, and How to Use Them… | Jobin J | [Read More](https://medium.com/p/aa09eb3530b9) |
-| Tue, 11 Nov 2025 20:06:24 GMT | The TikTok Trap: How Hackers Are Hiding Malware in Plain Sight | Aj | [Read More](https://medium.com/p/a88b950a17a5) |
-| Tue, 11 Nov 2025 20:06:00 GMT | Why Small Businesses Can’t Afford Weak Protection in 2026 | Cordula Boeck | [Read More](https://medium.com/p/bf47d157be4d) |
-| Tue, 11 Nov 2025 20:04:32 GMT | Part 7: Virtual Box Home Lab Common Active Directory Issues — (CMD, PC Offline) | Declan | [Read More](https://medium.com/p/ed53df9055c3) |
-| Tue, 11 Nov 2025 20:03:15 GMT | The Pulse: Crypto Risk Review | Gabriel Halm | [Read More](https://medium.com/p/21a0f66b8dc2) |
-| Tue, 11 Nov 2025 20:02:32 GMT | A Story of a Slowloris DoS — the coolest DoS Attack | Appsec.pt | [Read More](https://medium.com/p/9279442ed89a) |
-| Tue, 11 Nov 2025 20:01:32 GMT | When Love Starts Feeling Like Anxiety | Bloom with Maria | [Read More](https://medium.com/p/555ce891ec55) |
-| Tue, 11 Nov 2025 19:57:34 GMT | Legal and Regulatory “Grey Zones” The New Frontier of Tech | Modncv | [Read More](https://medium.com/p/444bf0edc6eb) |
-| Tue, 11 Nov 2025 19:52:55 GMT | Setting up your Android mobile-app pentesting lab — a fast, reliable guide | coy0te | [Read More](https://medium.com/p/f2627f4fa132) |
-| Tue, 11 Nov 2025 19:48:50 GMT | How I Built 5 AI Tools That Save Me 20+ Hours a Week | Code with Margaret | [Read More](https://medium.com/p/4da0ccf9ada6) |
