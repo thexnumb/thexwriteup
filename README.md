@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 11:30:07 GMT | NVIDIA Enterprise architecture with SR-IOV networking: why “16 nodes” today — and what’s next | Luca Berton | [Read More](https://medium.com/p/258b6a1c3699) |
+| Wed, 12 Nov 2025 11:26:52 GMT | Business Logic Flaw: How an Empty Team Name Can Trap Users Forever | Aminouji | [Read More](https://medium.com/p/fb9152acb990) |
+| Wed, 12 Nov 2025 11:26:10 GMT | Pentesting an Active Directory Homelab | Silas Aosige | [Read More](https://medium.com/p/d256639319fb) |
+| Wed, 12 Nov 2025 11:22:26 GMT | Vulnerability Assessment vs Penetration Testing: What’s the Real Difference? | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/12e95731bef0) |
+| Wed, 12 Nov 2025 11:21:39 GMT | Multi-tenant SR-IOV in Open | Luca Berton | [Read More](https://medium.com/p/d7575c8b706a) |
+| Wed, 12 Nov 2025 11:20:20 GMT | Exploring Seccomp Filters with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/88c7466cc379) |
+| Wed, 12 Nov 2025 11:16:00 GMT | Financial Consulting Firms Embrace AI and Data Analytics for Growth | Annumaurya | [Read More](https://medium.com/p/1f1c51fd2109) |
 | Wed, 12 Nov 2025 11:13:58 GMT | TRP00F: fully automated Linux privilege escalation machine. | Мартин. | [Read More](https://medium.com/p/b85895363d7f) |
 | Wed, 12 Nov 2025 11:13:26 GMT | Shared RDMA or SR-IOV per-tenant networking in Kubernetes: how to “pass all the routing… | Luca Berton | [Read More](https://medium.com/p/d34d0e5b7641) |
 | Wed, 12 Nov 2025 11:08:48 GMT | My NMAP Cheat Sheet | Dan Covic | [Read More](https://medium.com/p/69be10e119d2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 06:33:33 GMT | What is growth hacking, and how does it differ from traditional marketing? | Nschool Academy | [Read More](https://medium.com/p/2c9ebf0026fa) |
 | Wed, 12 Nov 2025 06:33:06 GMT | The Daily Tech Digest: 12 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ae5a5ee0a621) |
 | Wed, 12 Nov 2025 06:31:10 GMT | Organize Technical Communication for Clear IT Project Delivery | TaskFord | [Read More](https://medium.com/p/5f9caadae3cc) |
-| Wed, 12 Nov 2025 06:17:28 GMT | Capability-based memory bounds checking | wy-chung | [Read More](https://medium.com/p/98dd9df6e8d4) |
-| Wed, 12 Nov 2025 06:14:59 GMT | China Accuses US of Stealing $13 Billion in Bitcoin Through State-Level Hack | Brave New Coin | [Read More](https://medium.com/p/007f5e8e948b) |
-| Wed, 12 Nov 2025 06:13:30 GMT | Pentesting Kioptrix | Peterhunt | [Read More](https://medium.com/p/5e5d2874d57b) |
-| Wed, 12 Nov 2025 06:07:56 GMT | Cyber Defense: Building the Invisible Shield for a Digital World | Dinesh | [Read More](https://medium.com/p/11487142e10a) |
-| Wed, 12 Nov 2025 06:07:15 GMT | Using Tools to Protect Business Operations | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f58134a67370) |
-| Wed, 12 Nov 2025 06:00:39 GMT | Yazılım Test Mühendisinden Siber Güvenliğe: TryHackMe CyberHeroes Deneyimim | Melih Kale | [Read More](https://medium.com/p/21f38146648e) |
-| Wed, 12 Nov 2025 05:50:56 GMT | ️ Securing the Web: How Techincisive Protects Businesses with Advanced Web Security Services | Devarshi Acharya | [Read More](https://medium.com/p/50de0e50c4b0) |
