@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 10:41:21 GMT | Nmap Scripts for Penetration Testing | Dan Covic | [Read More](https://medium.com/p/01269b042f71) |
+| Wed, 12 Nov 2025 10:36:32 GMT | Hosting That Hustles: Affordable Plans Built for Creators and Coders Alike | Janet Watson | [Read More](https://medium.com/p/92360df57fd9) |
+| Wed, 12 Nov 2025 10:33:01 GMT | Maximize App Reach with 5DataInc’s Cross-Platform Compatibility Testing Services | Achana prashanth | [Read More](https://medium.com/p/8f93f19452b7) |
+| Wed, 12 Nov 2025 10:32:05 GMT | Why iPhone 5s Classic Style Still Attracts Apple Fans? | Chloe White | [Read More](https://medium.com/p/ac21341307a9) |
+| Wed, 12 Nov 2025 10:29:19 GMT | Grab the Best Black Friday Cybersecurity Deals Today | cyber security Updates | [Read More](https://medium.com/p/829b0bc9d7d5) |
+| Wed, 12 Nov 2025 10:23:17 GMT | You Clicked a Suspicious Link — Here’s What to Do Next | Alex Hughes | [Read More](https://medium.com/p/19a5f7ee4a06) |
+| Wed, 12 Nov 2025 10:21:01 GMT | Secure your digital doors before cyber threats knock! | Century Solutions Group | [Read More](https://medium.com/p/7a2629318ff4) |
 | Wed, 12 Nov 2025 10:14:03 GMT | Top Cybersecurity Metrics Every CISO Should Track in 2026 | West Advanced Technologies Inc | [Read More](https://medium.com/p/62f61d6bfe7d) |
+| Wed, 12 Nov 2025 10:13:15 GMT | Designing Fraud-Resistant Fintech Apps: Android Architecture That Actually Works (2025) | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/ddcacd367386) |
+| Wed, 12 Nov 2025 10:12:59 GMT | What Is Decentralized Identity Management (DIM) ? | Vaibhhav Raj Kumar | [Read More](https://medium.com/p/add494f0795d) |
 | Wed, 12 Nov 2025 10:10:36 GMT | Why Your Business Needs a Kiosk Machine Upgrade in 2026. | Rakesh | [Read More](https://medium.com/p/1c706851b439) |
 | Wed, 12 Nov 2025 10:09:44 GMT | Synthient, HIBP, and the Biggest Exposure Index Yet: What Really Happened | Sabri Chaabi | [Read More](https://medium.com/p/2aa969b0e9ea) |
 | Wed, 12 Nov 2025 10:08:21 GMT | Cyber Security Certification Cost for SMEs and Large Businesses in India | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/162190b46e5a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 04:40:23 GMT | From Garage Tinkers To Signal Jammers: How Hardware Became Radical Again | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ee79e3313665) |
 | Wed, 12 Nov 2025 04:32:22 GMT | ⚡File Uploads and Media Management in MERN Stack | Dilakshan Sivanathan | [Read More](https://medium.com/p/45662e83eae2) |
 | Wed, 12 Nov 2025 04:25:38 GMT | Inside the Birth of Tor Browser: The U.S. Navy Project That Created Internet Anonymity | Manish Pandey | [Read More](https://medium.com/p/94623316b6eb) |
-| Wed, 12 Nov 2025 04:20:23 GMT | PostgreSQL JSON vs JSONB: Which One Will Ruin Your Speed? | Rizqi Mulki | [Read More](https://medium.com/p/3bfb07d723a0) |
-| Wed, 12 Nov 2025 04:16:17 GMT | File Integrity Monitoring Best Practices with Wazuh: A Theoretical Perspective | Arasy Dafa Sulistya Kurniawan | [Read More](https://medium.com/p/b74fe577f1f7) |
-| Wed, 12 Nov 2025 04:15:59 GMT | VulnHub DC-2 Walkthrough: Multiple Paths to Root | Kalash Kundaliya | [Read More](https://medium.com/p/ee303a4875db) |
-| Wed, 12 Nov 2025 04:14:23 GMT | The LLM Security Checklist: How to Prevent Data Leaks from Your Private Database | Pratish Dewangan | [Read More](https://medium.com/p/6501bba65dcb) |
-| Wed, 12 Nov 2025 04:10:36 GMT | Prompt Injection: The SQL Injection of the AI Era | Dave Patten | [Read More](https://medium.com/p/3c8cfe9ad890) |
-| Wed, 12 Nov 2025 04:02:19 GMT | Google’s Grip Is Slipping | V. Langston - Journalist | [Read More](https://medium.com/p/d2809dea64de) |
-| Wed, 12 Nov 2025 03:57:12 GMT | When Clouds Betray You: Hidden Risks in Your Cloud-Setup | Cloud Shark | [Read More](https://medium.com/p/a54bd2c87f47) |
-| Wed, 12 Nov 2025 03:37:53 GMT | M – The Shielded Man | Lonizz | [Read More](https://medium.com/p/342745deefd3) |
-| Wed, 12 Nov 2025 03:37:02 GMT | Migration of LTO Network(LTO) to EQTY(EQTY) | Aster airdrop | [Read More](https://medium.com/p/c26f5aced299) |
