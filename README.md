@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 21:32:52 GMT | Linux best practices for DevOps and Security | Parviz Salmanov | [Read More](https://medium.com/p/7832db610c51) |
+| Wed, 12 Nov 2025 21:32:28 GMT | Azure SFTP on demand | Antoine LOIZEAU | [Read More](https://medium.com/p/9e101365453e) |
+| Wed, 12 Nov 2025 21:24:43 GMT | Cybersecurity Starts at the Top — How Strong Heritage Risk Advisors Helps Boards Build Cyber-Aware… | Yokota Strong | [Read More](https://medium.com/p/4925764d975f) |
 | Wed, 12 Nov 2025 21:18:07 GMT | LazyAdmin writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/998921094daf) |
+| Wed, 12 Nov 2025 21:16:47 GMT | The Challenge of Digital Trust ( I saw a dog riding a tricycle ) | David Oboite | [Read More](https://medium.com/p/657916afa22c) |
 | Wed, 12 Nov 2025 21:14:02 GMT | Cybersecurity Starts at the Top — How Strong Heritage Risk Advisors Helps Boards Build Cyber-Aware… | Yokota Strong | [Read More](https://medium.com/p/e059313d2438) |
 | Wed, 12 Nov 2025 21:11:47 GMT | The Simple Guide to Passwords and Hack-Proofing Your Accounts | Stonevale AI | [Read More](https://medium.com/p/d156b745e288) |
 | Wed, 12 Nov 2025 21:07:00 GMT | The Strategic Advantage of a vCISO — Why Cybersecurity Leadership is No Longer Optional | Yokota Strong | [Read More](https://medium.com/p/f5283be75887) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 15:11:44 GMT | How to Find the Right Cybersecurity Compliance Solutions: A 5-Step Guide for US Business Leaders | Defend My Business | [Read More](https://medium.com/p/6e03075c5587) |
 | Wed, 12 Nov 2025 15:08:30 GMT | Beyond Fear: The UAE’s moment in a new era of risk | Remi Ramcharan | [Read More](https://medium.com/p/3f5f4d3fdc07) |
 | Wed, 12 Nov 2025 15:02:35 GMT | How to Detect Emulator in Kotlin | Talsec | [Read More](https://medium.com/p/d718f78510a7) |
-| Wed, 12 Nov 2025 15:02:07 GMT | Cyber Briefing: 2025.11.12 | CyberMaterial | [Read More](https://medium.com/p/3b308af1a746) |
-| Wed, 12 Nov 2025 15:01:52 GMT | A Friendly Piece of Advice to Recruiters and Founders | Euripedes Batista | [Read More](https://medium.com/p/e3e59f7030d0) |
-| Wed, 12 Nov 2025 14:53:35 GMT | Unlock The Power Of USDT And Bitcoin Transactions with Flash Coin Generator Software-Crypto… | victor jay | [Read More](https://medium.com/p/7940cdbf194e) |
-| Wed, 12 Nov 2025 14:52:16 GMT | Why I Always Monitor USB Device Activity on Servers (And How It Exposes Insider Threats) | Faruk Ahmed | [Read More](https://medium.com/p/0e496efc6420) |
