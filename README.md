@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 17:25:36 GMT | AresGPT & AthenaGPT: Rise of Strategic AI Agents | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/d21b25eb2c0f) |
+| Wed, 12 Nov 2025 17:24:46 GMT | Inside My Pocket: How Hackers Hack Phones in 2025 (and How I Protect Mine) | Monu Jangra | [Read More](https://medium.com/p/4bafd34472ec) |
+| Wed, 12 Nov 2025 17:22:09 GMT | Issue #251 — Harness, Terraform Security Scanning, SSM Parameter Management, Athena State Queries… | Anton Babenko | [Read More](https://medium.com/p/513e0dba3ba4) |
 | Wed, 12 Nov 2025 17:18:40 GMT | Why Cybercriminals Target SMBs and How Vulnerability Assessments Can Mitigate Attacks | Glenn Merritt | [Read More](https://medium.com/p/3926902e6f89) |
+| Wed, 12 Nov 2025 17:16:50 GMT | Security First | Gail Coates | [Read More](https://medium.com/p/c97ac0d4d5cb) |
+| Wed, 12 Nov 2025 17:14:49 GMT | eJPT Review (2025): A Great Starting Point, But It’s Showing Its Age | Shaheer Yasir | [Read More](https://medium.com/p/206054c6e3e7) |
+| Wed, 12 Nov 2025 17:14:30 GMT | What Really Happens After a Data Breach: A Legal and Cybersecurity Breakdown | Legal Thoughts | [Read More](https://medium.com/p/67286c90f96b) |
 | Wed, 12 Nov 2025 17:11:49 GMT | My PortSwigger Journey — Learning Web Security One Lab at a Time | b4dk4rm4sec | [Read More](https://medium.com/p/474823ceabf0) |
 | Wed, 12 Nov 2025 17:11:36 GMT | The Cache Poisoning Bible: Part 2 - Exotic Header Exploitation | Abhishek meena | [Read More](https://medium.com/p/8075377e9a68) |
 | Wed, 12 Nov 2025 17:06:35 GMT | How to Extend the Garage Door Opener Range: Boost Signal Easily | 24H Garage Doors | [Read More](https://medium.com/p/56b413fe788f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 11:48:57 GMT | Riyadh’s Smart City Revolution: The Rise of Intelligent Parking Management Systems | Zenecaastra | [Read More](https://medium.com/p/72c8d2074586) |
 | Wed, 12 Nov 2025 11:38:55 GMT | The Hidden Cost of API Security Misconfigurations (and How to Avoid Them) | Jei Ess | [Read More](https://medium.com/p/f132701315fd) |
 | Wed, 12 Nov 2025 11:30:07 GMT | NVIDIA Enterprise architecture with SR-IOV networking: why “16 nodes” today — and what’s next | Luca Berton | [Read More](https://medium.com/p/258b6a1c3699) |
-| Wed, 12 Nov 2025 11:27:12 GMT | Episode 7: “The Cubicle Core” | Dr. House In I.T. | [Read More](https://medium.com/p/eab4c587ed9b) |
-| Wed, 12 Nov 2025 11:26:52 GMT | Business Logic Flaw: How an Empty Team Name Can Trap Users Forever | Aminouji | [Read More](https://medium.com/p/fb9152acb990) |
-| Wed, 12 Nov 2025 11:26:10 GMT | Pentesting an Active Directory Homelab | Silas Aosige | [Read More](https://medium.com/p/d256639319fb) |
-| Wed, 12 Nov 2025 11:22:26 GMT | Vulnerability Assessment vs Penetration Testing: What’s the Real Difference? | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/12e95731bef0) |
-| Wed, 12 Nov 2025 11:21:39 GMT | Multi-tenant SR-IOV in Open | Luca Berton | [Read More](https://medium.com/p/d7575c8b706a) |
-| Wed, 12 Nov 2025 11:20:20 GMT | Exploring Seccomp Filters with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/88c7466cc379) |
