@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 21:18:07 GMT | LazyAdmin writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/998921094daf) |
+| Wed, 12 Nov 2025 21:14:02 GMT | Cybersecurity Starts at the Top — How Strong Heritage Risk Advisors Helps Boards Build Cyber-Aware… | Yokota Strong | [Read More](https://medium.com/p/e059313d2438) |
+| Wed, 12 Nov 2025 21:11:47 GMT | The Simple Guide to Passwords and Hack-Proofing Your Accounts | Stonevale AI | [Read More](https://medium.com/p/d156b745e288) |
+| Wed, 12 Nov 2025 21:07:00 GMT | The Strategic Advantage of a vCISO — Why Cybersecurity Leadership is No Longer Optional | Yokota Strong | [Read More](https://medium.com/p/f5283be75887) |
+| Wed, 12 Nov 2025 20:58:41 GMT | ¿Construir o Comprar Seguridad? | Orlando Medina | [Read More](https://medium.com/p/13c7f630eb62) |
+| Wed, 12 Nov 2025 20:51:24 GMT | Mistakes That I Made Before I Got My First Bounty | Silent Cipher | [Read More](https://medium.com/p/5d460eae31b6) |
+| Wed, 12 Nov 2025 20:46:45 GMT | We Don’t Need Perfect People — We Need Real Ones | Sagar Ali | [Read More](https://medium.com/p/2ae6d91827cb) |
+| Wed, 12 Nov 2025 20:46:35 GMT | The LinkedIn Data Scraping Incident of 2021: A Wake-Up Call for the Digital Era | Tanay Harsith | [Read More](https://medium.com/p/79da7a8e6471) |
+| Wed, 12 Nov 2025 20:45:38 GMT | Aardvark: AI That Writes Exploits, Hacks Your Code, and Patches It Before You Notice | Twinkle Jaineera | [Read More](https://medium.com/p/1b70154dc675) |
 | Wed, 12 Nov 2025 20:41:10 GMT | How We Made $67,000+ Using The New “E/B” Attack Vector — And Other Bug Bounty Tips | Justas_b | [Read More](https://medium.com/p/753ebf8ab54b) |
+| Wed, 12 Nov 2025 20:37:43 GMT | Understanding Token Visibility and Safety Measures on STON.fi | Abdulqayyum Alaranse | [Read More](https://medium.com/p/76cd2fc52de5) |
 | Wed, 12 Nov 2025 20:23:06 GMT | The Windows Security Journey — BitLocker | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b4f1f35e9057) |
 | Wed, 12 Nov 2025 20:21:13 GMT | Maverick | Sampson Hart | [Read More](https://medium.com/p/a29a9160cb3b) |
 | Wed, 12 Nov 2025 20:18:42 GMT | Why AI Red Teaming is Essential: The Non-Negotiable Layer of Safety | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/77631d36623b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 15:01:52 GMT | A Friendly Piece of Advice to Recruiters and Founders | Euripedes Batista | [Read More](https://medium.com/p/e3e59f7030d0) |
 | Wed, 12 Nov 2025 14:53:35 GMT | Unlock The Power Of USDT And Bitcoin Transactions with Flash Coin Generator Software-Crypto… | victor jay | [Read More](https://medium.com/p/7940cdbf194e) |
 | Wed, 12 Nov 2025 14:52:16 GMT | Why I Always Monitor USB Device Activity on Servers (And How It Exposes Insider Threats) | Faruk Ahmed | [Read More](https://medium.com/p/0e496efc6420) |
-| Wed, 12 Nov 2025 14:46:07 GMT | What is SSL Encryption? A Beginner’s Guide to HTTPS Security | Chaitanya Rai | [Read More](https://medium.com/p/663b5740df4d) |
-| Wed, 12 Nov 2025 14:42:23 GMT | July hacks analysis and overview | Sisi | [Read More](https://medium.com/p/9d80195c922c) |
-| Wed, 12 Nov 2025 14:38:17 GMT | [INSIGHT] The Round Table of Hats: Mira’s Judgment | Guepster | [Read More](https://medium.com/p/0e27839dab41) |
-| Wed, 12 Nov 2025 14:27:37 GMT | Unmasking Digital Threats with VirusTotal and Have I Been Pwned | Little_Sun4lower | [Read More](https://medium.com/p/ba23268d3e20) |
-| Wed, 12 Nov 2025 14:22:48 GMT | Humanix — Human Threat Detection & Response for Social Engineering AttacksWelcome to boldstart. | Ed Sim | [Read More](https://medium.com/p/cf56783ee0ec) |
-| Wed, 12 Nov 2025 14:03:59 GMT | Hacksudo: Proxima — Centauri CTF - Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/37b663681ea9) |
-| Wed, 12 Nov 2025 14:01:57 GMT | Future-Proof Tech Careers with AI, Cybersecurity, Cloud, UI UX | Job Booster India | [Read More](https://medium.com/p/4437cc35f1a9) |
-| Wed, 12 Nov 2025 13:39:42 GMT | From Cybersecurity to AI Security: The New Governance Frontier | AXSAS | [Read More](https://medium.com/p/187eed928d38) |
-| Wed, 12 Nov 2025 13:37:03 GMT | 5 Top IT Services That Help Keep Your Business Secure | Maxwell JAMES | [Read More](https://medium.com/p/8cbf18e9c79e) |
-| Wed, 12 Nov 2025 13:34:21 GMT | Cephalus Ransomware | Prinal Urkude | [Read More](https://medium.com/p/a744b04eaa55) |
