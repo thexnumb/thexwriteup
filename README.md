@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 10:14:03 GMT | Top Cybersecurity Metrics Every CISO Should Track in 2026 | West Advanced Technologies Inc | [Read More](https://medium.com/p/62f61d6bfe7d) |
+| Wed, 12 Nov 2025 10:10:36 GMT | Why Your Business Needs a Kiosk Machine Upgrade in 2026. | Rakesh | [Read More](https://medium.com/p/1c706851b439) |
+| Wed, 12 Nov 2025 10:09:44 GMT | Synthient, HIBP, and the Biggest Exposure Index Yet: What Really Happened | Sabri Chaabi | [Read More](https://medium.com/p/2aa969b0e9ea) |
+| Wed, 12 Nov 2025 10:08:21 GMT | Cyber Security Certification Cost for SMEs and Large Businesses in India | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/162190b46e5a) |
+| Wed, 12 Nov 2025 10:02:03 GMT | DockerLabs Writeup — Veneno (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/846f49477413) |
+| Wed, 12 Nov 2025 10:01:43 GMT | Mohamed Banin Expands Global IT Leadership Footprint, Driving Transformation Across Continents | Mohamed Banin | [Read More](https://medium.com/p/7c97f2162ef2) |
+| Wed, 12 Nov 2025 09:59:31 GMT | :    … | FA Shuvo | [Read More](https://medium.com/p/a8f02bd5cea8) |
+| Wed, 12 Nov 2025 09:49:20 GMT | IT Integration Services: The Smart Way to Connect Systems, People, and Processes for Growth | Quadrant Systems | [Read More](https://medium.com/p/fd059979966d) |
+| Wed, 12 Nov 2025 09:48:26 GMT | The Day I Realized I Was Living My Life on Silent Mode | Amanur | [Read More](https://medium.com/p/d735e463325d) |
 | Wed, 12 Nov 2025 09:39:16 GMT | Fast, Reliable Security Staffing with ICORP’s Instant Booking Platform | ICORP Security | [Read More](https://medium.com/p/fddfd177232a) |
 | Wed, 12 Nov 2025 09:37:31 GMT | The Most Common Mistake People Make Online | Shivakshi Rawat | [Read More](https://medium.com/p/c4cf13139d45) |
 | Wed, 12 Nov 2025 09:32:51 GMT | Why Regular Security Updates Are Crucial for Your Systems | Smit Pipaliya | [Read More](https://medium.com/p/cf1debda4459) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 03:57:12 GMT | When Clouds Betray You: Hidden Risks in Your Cloud-Setup | Cloud Shark | [Read More](https://medium.com/p/a54bd2c87f47) |
 | Wed, 12 Nov 2025 03:37:53 GMT | M – The Shielded Man | Lonizz | [Read More](https://medium.com/p/342745deefd3) |
 | Wed, 12 Nov 2025 03:37:02 GMT | Migration of LTO Network(LTO) to EQTY(EQTY) | Aster airdrop | [Read More](https://medium.com/p/c26f5aced299) |
-| Wed, 12 Nov 2025 03:36:24 GMT | LAUNCHCOIN to BELIEVE Token Swap and Rebranding | Aster airdrop | [Read More](https://medium.com/p/ea426466d4d9) |
-| Wed, 12 Nov 2025 03:36:07 GMT | CORS and CSRF in Plain English: Understanding Web Security | Manish Pandey | [Read More](https://medium.com/p/18eae0d087e2) |
-| Wed, 12 Nov 2025 03:34:43 GMT | The Remote Kill Switch That Stops Stolen Trucks Before They Leave the Parking Lot | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/f74f69556f5b) |
-| Wed, 12 Nov 2025 03:31:58 GMT | How Pakistani Threat Actors Masqueraded as NIC to Target Indian Government Emails | Deven Chhajed | [Read More](https://medium.com/p/b3fd5b0b41fc) |
-| Wed, 12 Nov 2025 03:31:08 GMT | The Real Difference Between Distributed Firewalls and Traditional Firewalls | The Stack Angle | [Read More](https://medium.com/p/b3e3107d9e13) |
-| Wed, 12 Nov 2025 03:28:02 GMT | NTLM vs Kerberos _ what red teamers (and defenders) actually need to know | Yua Mikanana | [Read More](https://medium.com/p/3008aa34494e) |
-| Wed, 12 Nov 2025 03:22:21 GMT | The Hidden Danger in Your Phone: Foreign Data Harvesting. | Tech Talk | [Read More](https://medium.com/p/bc102f8f73e1) |
-| Wed, 12 Nov 2025 03:21:24 GMT | Technical Support Scam Tactics: How to Avoid Being Fooled | Steven Chin | [Read More](https://medium.com/p/5edc13c71adc) |
-| Wed, 12 Nov 2025 02:48:32 GMT | Input Manipulation & Prompt Injection: TryHackMe | TcyberSec007 | [Read More](https://medium.com/p/394753de033b) |
