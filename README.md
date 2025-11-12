@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 05:00:39 GMT | No Record | Sheridan Walter | [Read More](https://medium.com/p/420e5eb1fe4f) |
+| Wed, 12 Nov 2025 04:55:57 GMT | Security Services in Libra: Ensuring Safety with Expert Security Consultancy in Dubai and the UAE | Libraseo freelancer | [Read More](https://medium.com/p/250d3ff0ebbb) |
+| Wed, 12 Nov 2025 04:49:54 GMT | Dedicated Server With GPUs: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/e11a00635e89) |
+| Wed, 12 Nov 2025 04:49:08 GMT | Are you looking for the best security services in Bahadurgarh? | Lakshay Security | [Read More](https://medium.com/p/fea0441fb9a8) |
 | Wed, 12 Nov 2025 04:40:23 GMT | From Garage Tinkers To Signal Jammers: How Hardware Became Radical Again | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ee79e3313665) |
 | Wed, 12 Nov 2025 04:32:22 GMT | ⚡File Uploads and Media Management in MERN Stack | Dilakshan Sivanathan | [Read More](https://medium.com/p/45662e83eae2) |
 | Wed, 12 Nov 2025 04:25:38 GMT | Inside the Birth of Tor Browser: The U.S. Navy Project That Created Internet Anonymity | Manish Pandey | [Read More](https://medium.com/p/94623316b6eb) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 19:15:48 GMT | The Synthetic Conscience Effect: How ΔE Translates Awareness into Engineering — or When a Machine… | Max Barzenkov | [Read More](https://medium.com/p/b2d34e8b071b) |
 | Tue, 11 Nov 2025 19:13:43 GMT | What Is Bloatware — and Why It’s a Hidden Cost to Businesses ? | IT_Engineer | [Read More](https://medium.com/p/8aa0e7b82201) |
 | Tue, 11 Nov 2025 19:12:23 GMT | CRTO Review — 2025 | Paradox | [Read More](https://medium.com/p/ecdedc2e7565) |
-| Tue, 11 Nov 2025 19:04:43 GMT | Fantasy Hub Android Trojan Turns Telegram into a Cybercrime Marketplace | Cybersectoworld | [Read More](https://medium.com/p/470930a39d92) |
-| Tue, 11 Nov 2025 18:57:38 GMT | How Many Amps Does a Garage Door Opener Use: Power Specs Explained | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/db22a3c22bba) |
-| Tue, 11 Nov 2025 18:53:27 GMT | The Importance of Data Security in Healthcare and Financial Services | Legal Thoughts | [Read More](https://medium.com/p/21c9e9ecb4a1) |
-| Tue, 11 Nov 2025 18:46:40 GMT | EU Plans to Loosen GDPR Rules to Boost AI Development | SOCFortress | [Read More](https://medium.com/p/6399ca5c3edb) |
