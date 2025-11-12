@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 19:27:37 GMT | An OSINT Case Study on Railway Infrastructure Using Modat Magnify | hacker_might | [Read More](https://medium.com/p/2650699c0a08) |
+| Wed, 12 Nov 2025 19:23:11 GMT | MCP and A2A in AI Agent Protocols — Security considerations (IV) — Artificial Intelligence Risk… | SOCFortress | [Read More](https://medium.com/p/ca6cfb23ed35) |
+| Wed, 12 Nov 2025 19:20:56 GMT | The Rise of Prompt Injection: When Words Become Weapons ️ | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/16b65cd8a929) |
 | Wed, 12 Nov 2025 18:59:48 GMT | At the core of Microsoft Windows Server’s ecosystem lies a principle so ingrained it’s rarely… | Rodrigo Gutierrez | [Read More](https://medium.com/p/cd19167c3def) |
 | Wed, 12 Nov 2025 18:54:10 GMT | PHP for Pentesting — Day 2 | Bazil Brohi | [Read More](https://medium.com/p/ea490040290c) |
 | Wed, 12 Nov 2025 18:52:31 GMT | cyshield 2025 — Android CTF | everythingBlackkk | [Read More](https://medium.com/p/7c864f974c25) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 13:05:06 GMT | When Love Starts Starving | Kevin | [Read More](https://medium.com/p/dbcd3dd31b17) |
 | Wed, 12 Nov 2025 13:03:02 GMT | GZR Observer — Global Daily — India Perspective Nov 12, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e420a2e562c1) |
 | Wed, 12 Nov 2025 13:01:59 GMT | Laravel on VPS Series — Part 1: Preparing Your VPS for Laravel | Coder Manjeet | [Read More](https://medium.com/p/aedc7ae7f222) |
-| Wed, 12 Nov 2025 12:53:00 GMT | Best Black Friday VPN Deals — Save Big on Top-Rated VPNs | Volter Anderson | [Read More](https://medium.com/p/021c912bbe18) |
-| Wed, 12 Nov 2025 12:51:56 GMT | Leading Cyber Security Course in Lahore - IPEI | IPEI | [Read More](https://medium.com/p/be1237bc6c7c) |
-| Wed, 12 Nov 2025 12:51:17 GMT | Security Awareness Training May Be Your Strongest Defense | Teddy Cerra | [Read More](https://medium.com/p/5e1b58775cce) |
