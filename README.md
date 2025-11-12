@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 18:33:12 GMT | XLMRat Lab CyberDefenders | Fouad Shaheen | [Read More](https://medium.com/p/24d81be3026c) |
+| Wed, 12 Nov 2025 18:28:21 GMT | Pickle Rick — TryHackMe Walkthrough | devmorav | [Read More](https://medium.com/p/154df4016293) |
 | Wed, 12 Nov 2025 18:22:08 GMT | Ransomware vs Malware Explained — How They Work and How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/c931a7ee41da) |
 | Wed, 12 Nov 2025 18:16:57 GMT | When Love Starts Feeling One-Sided. | Bloom with Maria | [Read More](https://medium.com/p/11549fcbc94a) |
 | Wed, 12 Nov 2025 18:16:18 GMT | True Reason Why Hackers Don’t Use Windows | Abdullah Javeed | [Read More](https://medium.com/p/02dbd975741e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 12:39:59 GMT | Malware, Viruses, and CVEs — Part 7(The End): The Future of Malware and Defence | Sammcmullen | [Read More](https://medium.com/p/152d11102476) |
 | Wed, 12 Nov 2025 12:39:47 GMT | The Power of Integration: Building a Cohesive Cybersecurity Strategy for the Modern Enterprise | Walidchaouachi | [Read More](https://medium.com/p/142e3d08cd8b) |
 | Wed, 12 Nov 2025 12:38:36 GMT | Security Through Obscurity: Between Hidden Walls and Transparent Strength | Walidchaouachi | [Read More](https://medium.com/p/8794c25320c2) |
-| Wed, 12 Nov 2025 12:36:38 GMT | Security Through Obscurity: The Hidden Layer of Defense or a Dangerous Illusion? | Walidchaouachi | [Read More](https://medium.com/p/0242c1222bca) |
-| Wed, 12 Nov 2025 12:35:53 GMT | A Strategy for Targeted Password Craking | Victor Quéméneur | [Read More](https://medium.com/p/b60322a378c2) |
