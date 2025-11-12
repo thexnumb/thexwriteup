@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 20:09:06 GMT | How Do I Protect My Small Business From Hacker Attacks? | Cordula Boeck | [Read More](https://medium.com/p/0d1241e7374f) |
+| Wed, 12 Nov 2025 20:01:57 GMT | Europe faces a convergence of profound challenges that threaten its stability and global role | MASUM BILLAH | [Read More](https://medium.com/p/9f73dc38ba6c) |
+| Wed, 12 Nov 2025 20:00:56 GMT | This Google Dorking Trick can get you $5000 Bounty [No Cap] | Prayers Khristi | [Read More](https://medium.com/p/da03a3c36355) |
+| Wed, 12 Nov 2025 19:56:13 GMT | Data Leakage in Enterprise AI APIs: The Invisible Threat to Your IP | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/7e6641512a1d) |
+| Wed, 12 Nov 2025 19:43:51 GMT | Notes On Post-Quantum Cryptography Methods | Mi'kail Eli'yah | [Read More](https://medium.com/p/7b81e45a332f) |
+| Wed, 12 Nov 2025 19:32:22 GMT | How Scammers Steal Lives - ProtectYourself from Online Fraud & Global ⚠️⚠️⚠️Scam Networks | Muhammad Ali Raza | [Read More](https://medium.com/p/38753a14b898) |
 | Wed, 12 Nov 2025 19:27:37 GMT | An OSINT Case Study on Railway Infrastructure Using Modat Magnify | hacker_might | [Read More](https://medium.com/p/2650699c0a08) |
 | Wed, 12 Nov 2025 19:23:11 GMT | MCP and A2A in AI Agent Protocols — Security considerations (IV) — Artificial Intelligence Risk… | SOCFortress | [Read More](https://medium.com/p/ca6cfb23ed35) |
 | Wed, 12 Nov 2025 19:20:56 GMT | The Rise of Prompt Injection: When Words Become Weapons ️ | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/16b65cd8a929) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 13:22:40 GMT | The Check-In We All Skip: How’s Life Lately, Really? | Journeys With Sree | [Read More](https://medium.com/p/cf214e0593ef) |
 | Wed, 12 Nov 2025 13:21:03 GMT | How I Mastered Logic Bugs With One Simple Checklist | Ibtissam | [Read More](https://medium.com/p/fa94721601f0) |
 | Wed, 12 Nov 2025 13:19:37 GMT | Capítulo 1 — Ecos no SOC | Kleber Andrade | [Read More](https://medium.com/p/77fbe0180e09) |
-| Wed, 12 Nov 2025 13:15:10 GMT | She Fell in Love with Your Mask, Not You | Rehan | [Read More](https://medium.com/p/12d463644ec3) |
-| Wed, 12 Nov 2025 13:11:18 GMT | GoPlus Web3 Security Report: October 2025 | GoPlus Security | [Read More](https://medium.com/p/f631a35cc1d3) |
-| Wed, 12 Nov 2025 13:08:25 GMT | Hacksudo: L.P.E CTF - Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/19bdcce6f7fe) |
-| Wed, 12 Nov 2025 13:05:06 GMT | When Love Starts Starving | Kevin | [Read More](https://medium.com/p/dbcd3dd31b17) |
-| Wed, 12 Nov 2025 13:03:02 GMT | GZR Observer — Global Daily — India Perspective Nov 12, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e420a2e562c1) |
-| Wed, 12 Nov 2025 13:01:59 GMT | Laravel on VPS Series — Part 1: Preparing Your VPS for Laravel | Coder Manjeet | [Read More](https://medium.com/p/aedc7ae7f222) |
