@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 07:18:55 GMT | Day 76- The basics of malware detection and prevention as a beginner to be known | unica 02 | [Read More](https://medium.com/p/e5057adb1428) |
+| Wed, 12 Nov 2025 07:10:44 GMT | Building a Practical AI Automation Pipeline with n8n and Google Cloud — Lessons from Lab Work and… | Vivektumma27 | [Read More](https://medium.com/p/2615e8d5b105) |
+| Wed, 12 Nov 2025 07:10:03 GMT | What Your Smartphone Isn’t Telling You: A Guide to Its Hidden Computer | Sam Writes Security | [Read More](https://medium.com/p/23e1b8d4c267) |
+| Wed, 12 Nov 2025 07:08:22 GMT | Understanding Sessions: A Security Perspective | Kunal Sinha | [Read More](https://medium.com/p/6f1947e73f26) |
+| Wed, 12 Nov 2025 07:05:53 GMT | Email = Token = Broken Auth in Booking System | AZIMA | [Read More](https://medium.com/p/b54a7f5d7a52) |
+| Wed, 12 Nov 2025 07:05:30 GMT | Mask. | The Boundless Dreamer | [Read More](https://medium.com/p/d5fb6aaf1623) |
+| Wed, 12 Nov 2025 07:02:01 GMT | How I Practiced File Carving and Data Recovery Using a Virtual Hard Drive | Odunlade Adeola | [Read More](https://medium.com/p/f6920d55414c) |
+| Wed, 12 Nov 2025 07:00:26 GMT | Beyond Locks and Keys: The Modern Appeal of Godrej Safes in Dubai | Zayani & CO | [Read More](https://medium.com/p/57e5e5cb433d) |
+| Wed, 12 Nov 2025 06:59:33 GMT | Input Manipulation & Prompt Injection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/bbf3b09ebc08) |
+| Wed, 12 Nov 2025 06:56:55 GMT | Energy & Water: The Connected Foundations of Industry, Health, Society, and Security | George J. Assad | [Read More](https://medium.com/p/87e08a0e4827) |
+| Wed, 12 Nov 2025 06:56:48 GMT | Beyond Walls: How Outdoor Furniture Shapes Dubai’s Everyday Spaces | Zayani & CO | [Read More](https://medium.com/p/528bdc2eef3c) |
+| Wed, 12 Nov 2025 06:55:19 GMT | Are People Really Killing Themselves to Get a Job? | Vijay Kumar Gupta | [Read More](https://medium.com/p/423c3e16ae60) |
+| Wed, 12 Nov 2025 06:53:11 GMT | The 5 AI Governance Mistakes That Trigger Regulator Attention | AXSAS | [Read More](https://medium.com/p/d6fbbcc3f3f2) |
+| Wed, 12 Nov 2025 06:33:43 GMT | From Passwords to Passkeys: The Next Era of Digital Authentication | Sakthimurugan S | [Read More](https://medium.com/p/b2c63a94340a) |
+| Wed, 12 Nov 2025 06:33:33 GMT | What is growth hacking, and how does it differ from traditional marketing? | Nschool Academy | [Read More](https://medium.com/p/2c9ebf0026fa) |
+| Wed, 12 Nov 2025 06:33:06 GMT | The Daily Tech Digest: 12 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ae5a5ee0a621) |
 | Wed, 12 Nov 2025 06:31:10 GMT | Organize Technical Communication for Clear IT Project Delivery | TaskFord | [Read More](https://medium.com/p/5f9caadae3cc) |
 | Wed, 12 Nov 2025 06:17:28 GMT | Capability-based memory bounds checking | wy-chung | [Read More](https://medium.com/p/98dd9df6e8d4) |
 | Wed, 12 Nov 2025 06:14:59 GMT | China Accuses US of Stealing $13 Billion in Bitcoin Through State-Level Hack | Brave New Coin | [Read More](https://medium.com/p/007f5e8e948b) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 21:04:20 GMT | The Skies Are Too Crowded | Sharon Johnson | [Read More](https://medium.com/p/cce584c07a54) |
 | Tue, 11 Nov 2025 20:55:58 GMT | The DNS Tool That Became a Hacker’s Playground (And How I Caught Them Red-Handed) | HUNT3R | [Read More](https://medium.com/p/92670ee574c3) |
 | Tue, 11 Nov 2025 20:46:54 GMT | API Security Pentest Scripts — Safe Test Patterns, Automation and Examples ⚙️ | Esra Kayhan | [Read More](https://medium.com/p/5ea1c707c4d5) |
-| Tue, 11 Nov 2025 20:46:39 GMT | Setting up Tpot Honeypot using AWS EC2 instance | The Commoness | [Read More](https://medium.com/p/c7df1b0922bf) |
-| Tue, 11 Nov 2025 20:43:47 GMT | PortSwigger : Access control LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/1a9beff68649) |
-| Tue, 11 Nov 2025 20:43:06 GMT | CRM Snatch Tryhackme Answers | Jawstar | [Read More](https://medium.com/p/8c2d90a1890f) |
-| Tue, 11 Nov 2025 20:41:47 GMT | Golden Ticket challenge — LetsDefend | vdmarcos | [Read More](https://medium.com/p/4dbc26449781) |
-| Tue, 11 Nov 2025 20:37:39 GMT | [4/4] Automatically propagating keys to Kubernetes services | Bashkim Isai | [Read More](https://medium.com/p/47cd112ab32b) |
-| Tue, 11 Nov 2025 20:36:24 GMT | Amadey — Malware Evolving Through Time — Reverse Engineering | dandor2022 | [Read More](https://medium.com/p/c1f5c72a8cb6) |
-| Tue, 11 Nov 2025 20:32:01 GMT | 7 Hard Security Wins Rust Guarantees — And 9 Traps It Won’t Save You From | Noah Byteforge | [Read More](https://medium.com/p/6d2677436e0a) |
-| Tue, 11 Nov 2025 20:31:24 GMT | Ever shared files through messy email threads — and lost track halfway? | Jane Brian | [Read More](https://medium.com/p/042a977f5ba5) |
-| Tue, 11 Nov 2025 20:27:43 GMT | India’s Quiet Economic Revolution: How GCCs and Oil Rescued our Current Account | Alan Shore | [Read More](https://medium.com/p/449bb327d802) |
-| Tue, 11 Nov 2025 20:24:04 GMT | What Privacy Really Means, and How Arcium Is Building an Encrypted Internet. | Sucrecrypt | [Read More](https://medium.com/p/dae45219d076) |
-| Tue, 11 Nov 2025 20:21:54 GMT | As a Software engineer how to Prevent credentials leaks in git | fathy elshemy | [Read More](https://medium.com/p/fd5c56ebbf53) |
-| Tue, 11 Nov 2025 20:15:46 GMT | SentinelOne Series: The SSO Workaround You’ll Actually Thank Me For | Dean | [Read More](https://medium.com/p/178b44a2e210) |
-| Tue, 11 Nov 2025 20:15:00 GMT | Pakistan’s 15-Year Derailment: A Nation Engineered Into Perpetual Crisis | Danish Thanvi | [Read More](https://medium.com/p/8a7dd49d5e6b) |
-| Tue, 11 Nov 2025 20:10:54 GMT | Event Security: Why Professional Security Services Are Essential for a Safe & Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/c592ce19a4f3) |
-| Tue, 11 Nov 2025 20:08:21 GMT | 18 Digital Forensic Tools Every Cybersecurity Professional Should Know (2025 Guide) | Nazrul Islam Rana | [Read More](https://medium.com/p/9a8ce947f287) |
-| Tue, 11 Nov 2025 20:08:01 GMT | Understanding Cloudflare Workers Routes: How They Work, Why They Matter, and How to Use Them… | Jobin J | [Read More](https://medium.com/p/aa09eb3530b9) |
