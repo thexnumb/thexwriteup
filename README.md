@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 18:22:08 GMT | Ransomware vs Malware Explained — How They Work and How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/c931a7ee41da) |
+| Wed, 12 Nov 2025 18:16:57 GMT | When Love Starts Feeling One-Sided. | Bloom with Maria | [Read More](https://medium.com/p/11549fcbc94a) |
+| Wed, 12 Nov 2025 18:16:18 GMT | True Reason Why Hackers Don’t Use Windows | Abdullah Javeed | [Read More](https://medium.com/p/02dbd975741e) |
+| Wed, 12 Nov 2025 18:11:10 GMT | Watch Out: Mobile Malware That Targets Your Bank Cards | Cybersectoworld | [Read More](https://medium.com/p/3dfc5ffbfe5a) |
+| Wed, 12 Nov 2025 18:09:25 GMT | AI in Cybersecurity: How Machines Are Learning to Catch Hackers | Mubashir | [Read More](https://medium.com/p/87f1bdb40f71) |
+| Wed, 12 Nov 2025 18:09:18 GMT | The Gate of the Panopticon | Khoiru Rizal | [Read More](https://medium.com/p/a4956a384b9b) |
+| Wed, 12 Nov 2025 18:04:58 GMT | How a Simple 401 Error Revealed the Keys to the Kingdom | Mayowa omolabi | [Read More](https://medium.com/p/880ad7b35353) |
+| Wed, 12 Nov 2025 18:02:06 GMT | 10 FastAPI Security Designs (JWT/OAuth2) With No Latency Penalty | Thinking Loop | [Read More](https://medium.com/p/79ad33c04a96) |
+| Wed, 12 Nov 2025 18:01:24 GMT | The Cache Poisoning Bible: Part 2 — Exotic Header Exploitation | Abhishek meena | [Read More](https://medium.com/p/d074746690cb) |
+| Wed, 12 Nov 2025 18:00:44 GMT | The Easiest Way Hackers Steal Your Passwords (and How to Stop Them) | Hania Khan | [Read More](https://medium.com/p/7a899b11f97f) |
+| Wed, 12 Nov 2025 17:53:53 GMT | Hacking, VMs, Linux & Networking — a compact guide | Adhwaith A S | [Read More](https://medium.com/p/71e38523128e) |
+| Wed, 12 Nov 2025 17:49:03 GMT | The Identity Shift: Why IAM is Becoming the Heart of Enterprise Security | Sunnysinha | [Read More](https://medium.com/p/d100751b00ab) |
+| Wed, 12 Nov 2025 17:47:38 GMT | The Passive OSINT Toolkit: +15 Information Gathering & Recon Tools Every Ethical Hacker Should Know | Omar Maged Ahmed | [Read More](https://medium.com/p/b90db8766672) |
+| Wed, 12 Nov 2025 17:37:09 GMT | Tiny but Mighty: 10 Raspberry Pi Pico 2 W Cybersecurity Projects You Can Build in a Weekend | Jesse Ridley | [Read More](https://medium.com/p/1f87ee6c6125) |
+| Wed, 12 Nov 2025 17:30:40 GMT | Lightweight Cryptographfor Resource-Constrained Devices | Dhruv Jain | [Read More](https://medium.com/p/c0d47570c5d1) |
 | Wed, 12 Nov 2025 17:25:36 GMT | AresGPT & AthenaGPT: Rise of Strategic AI Agents | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/d21b25eb2c0f) |
 | Wed, 12 Nov 2025 17:24:46 GMT | Inside My Pocket: How Hackers Hack Phones in 2025 (and How I Protect Mine) | Monu Jangra | [Read More](https://medium.com/p/4bafd34472ec) |
 | Wed, 12 Nov 2025 17:22:09 GMT | Issue #251 — Harness, Terraform Security Scanning, SSM Parameter Management, Athena State Queries… | Anton Babenko | [Read More](https://medium.com/p/513e0dba3ba4) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 12:38:36 GMT | Security Through Obscurity: Between Hidden Walls and Transparent Strength | Walidchaouachi | [Read More](https://medium.com/p/8794c25320c2) |
 | Wed, 12 Nov 2025 12:36:38 GMT | Security Through Obscurity: The Hidden Layer of Defense or a Dangerous Illusion? | Walidchaouachi | [Read More](https://medium.com/p/0242c1222bca) |
 | Wed, 12 Nov 2025 12:35:53 GMT | A Strategy for Targeted Password Craking | Victor Quéméneur | [Read More](https://medium.com/p/b60322a378c2) |
-| Wed, 12 Nov 2025 12:32:21 GMT | Drifter | Ifechukwu Ahanonu | [Read More](https://medium.com/p/be65b09a99cc) |
-| Wed, 12 Nov 2025 12:32:20 GMT | Beyond SHIELD: Why Payload-Level Intent Verification Is the Missing Layer in AI Security | Jon Capriola | [Read More](https://medium.com/p/3e1f883fff3f) |
-| Wed, 12 Nov 2025 12:29:15 GMT | I Passed the Security+ Exam — Here’s What I Study in 3 Steps | EnesMalikÖzata | [Read More](https://medium.com/p/a4819cedabdf) |
-| Wed, 12 Nov 2025 12:27:44 GMT | PCI DSS Simplified: A Non-Technical Guide for Business Owners | Digital Defense | [Read More](https://medium.com/p/6ea1112bf358) |
-| Wed, 12 Nov 2025 12:19:31 GMT | How Ransomware Groups Actually Operate Inside the Modern Cybercrime Economy | ED-360 AFRICA | [Read More](https://medium.com/p/010797c7f2a9) |
-| Wed, 12 Nov 2025 12:16:16 GMT | Best Graduate Diploma of Management in Australia — Boost Your Leadership Career | AIST | [Read More](https://medium.com/p/dcfc0084ed6f) |
-| Wed, 12 Nov 2025 12:15:45 GMT | Cisco CyberOps — Lab Cybersecurity Case Studies-1 | Genet Shibru | [Read More](https://medium.com/p/9a5149ff5347) |
-| Wed, 12 Nov 2025 12:15:37 GMT | Hacksudo: 2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c1dadeab1f34) |
-| Wed, 12 Nov 2025 12:10:13 GMT | Best Online Courses in Pakistan Learn with SAL Education Services, Lahore | SAL Education Services | [Read More](https://medium.com/p/4d2c4b734639) |
-| Wed, 12 Nov 2025 12:06:35 GMT | How I encrypt files on a Mac so no one else can access them | Olena Khodos | [Read More](https://medium.com/p/67f142831e83) |
-| Wed, 12 Nov 2025 11:54:34 GMT | Rust Fixme 3-General Skills-picoCTF WriteUp | Nirgunah | [Read More](https://medium.com/p/ff13374e17e3) |
-| Wed, 12 Nov 2025 11:53:58 GMT | Be careful — I could steal your identity - Business logic bug | MahmoudKroush | [Read More](https://medium.com/p/76c1d83868dc) |
-| Wed, 12 Nov 2025 11:48:57 GMT | Riyadh’s Smart City Revolution: The Rise of Intelligent Parking Management Systems | Zenecaastra | [Read More](https://medium.com/p/72c8d2074586) |
-| Wed, 12 Nov 2025 11:38:55 GMT | The Hidden Cost of API Security Misconfigurations (and How to Avoid Them) | Jei Ess | [Read More](https://medium.com/p/f132701315fd) |
-| Wed, 12 Nov 2025 11:30:07 GMT | NVIDIA Enterprise architecture with SR-IOV networking: why “16 nodes” today — and what’s next | Luca Berton | [Read More](https://medium.com/p/258b6a1c3699) |
