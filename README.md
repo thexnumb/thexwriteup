@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 15:22:00 GMT | SquareX at Security Field Day 14 | SquareX | [Read More](https://medium.com/p/ea5eb59f2c36) |
+| Wed, 12 Nov 2025 15:11:56 GMT | Azure Tenant Discovery & Reconnaissance — A Practical Guide for External Testers | Tareshsharma | [Read More](https://medium.com/p/b67c3c69f15f) |
+| Wed, 12 Nov 2025 15:11:44 GMT | How to Find the Right Cybersecurity Compliance Solutions: A 5-Step Guide for US Business Leaders | Defend My Business | [Read More](https://medium.com/p/6e03075c5587) |
+| Wed, 12 Nov 2025 15:08:30 GMT | Beyond Fear: The UAE’s moment in a new era of risk | Remi Ramcharan | [Read More](https://medium.com/p/3f5f4d3fdc07) |
+| Wed, 12 Nov 2025 15:02:35 GMT | How to Detect Emulator in Kotlin | Talsec | [Read More](https://medium.com/p/d718f78510a7) |
+| Wed, 12 Nov 2025 15:02:07 GMT | Cyber Briefing: 2025.11.12 | CyberMaterial | [Read More](https://medium.com/p/3b308af1a746) |
+| Wed, 12 Nov 2025 15:01:52 GMT | A Friendly Piece of Advice to Recruiters and Founders | Euripedes Batista | [Read More](https://medium.com/p/e3e59f7030d0) |
+| Wed, 12 Nov 2025 14:53:35 GMT | Unlock The Power Of USDT And Bitcoin Transactions with Flash Coin Generator Software-Crypto… | victor jay | [Read More](https://medium.com/p/7940cdbf194e) |
+| Wed, 12 Nov 2025 14:52:16 GMT | Why I Always Monitor USB Device Activity on Servers (And How It Exposes Insider Threats) | Faruk Ahmed | [Read More](https://medium.com/p/0e496efc6420) |
+| Wed, 12 Nov 2025 14:46:07 GMT | What is SSL Encryption? A Beginner’s Guide to HTTPS Security | Chaitanya Rai | [Read More](https://medium.com/p/663b5740df4d) |
+| Wed, 12 Nov 2025 14:42:23 GMT | July hacks analysis and overview | Sisi | [Read More](https://medium.com/p/9d80195c922c) |
 | Wed, 12 Nov 2025 14:38:17 GMT | [INSIGHT] The Round Table of Hats: Mira’s Judgment | Guepster | [Read More](https://medium.com/p/0e27839dab41) |
 | Wed, 12 Nov 2025 14:27:37 GMT | Unmasking Digital Threats with VirusTotal and Have I Been Pwned | Little_Sun4lower | [Read More](https://medium.com/p/ba23268d3e20) |
 | Wed, 12 Nov 2025 14:22:48 GMT | Humanix — Human Threat Detection & Response for Social Engineering AttacksWelcome to boldstart. | Ed Sim | [Read More](https://medium.com/p/cf56783ee0ec) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 09:26:32 GMT | Imagine What Could Be, Unburdened by What Has Been, Technology Version | Namir Sagheenanajar | [Read More](https://medium.com/p/6aad87a926cf) |
 | Wed, 12 Nov 2025 09:23:07 GMT | Cyber Security | TPETE67 | [Read More](https://medium.com/p/12a063ac2004) |
 | Wed, 12 Nov 2025 09:16:34 GMT | ประจำวันพุธที่ 12 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f741deecd531) |
-| Wed, 12 Nov 2025 09:12:25 GMT | The Scary Truth About Loving Someone | Imtiaz Ali | [Read More](https://medium.com/p/37807d7b1cee) |
-| Wed, 12 Nov 2025 09:10:42 GMT | Why the PTZ Optics MOVE SE Camera is Ideal for Recording? | Kingdom | [Read More](https://medium.com/p/ffd43fd7d965) |
-| Wed, 12 Nov 2025 09:03:36 GMT | The Digital Siege: Modeling Server Integrity as a Random Walk | Gadeabhishekreddy | [Read More](https://medium.com/p/d9cf8d3705f7) |
-| Wed, 12 Nov 2025 09:03:26 GMT | AI Just Made Hacking Easier — And That’s Terrifying for the Rest of Us | TechScribeHub | [Read More](https://medium.com/p/391269d0ef5d) |
-| Wed, 12 Nov 2025 09:03:20 GMT | Ensuring Safety and Trust: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/e32b6c2e739a) |
-| Wed, 12 Nov 2025 09:02:37 GMT | Top 5 Affordable CCTV Monitoring Provider Buying in 2025 | Global CCTV Monitoring Services | [Read More](https://medium.com/p/2ef947b5d174) |
-| Wed, 12 Nov 2025 09:01:59 GMT | From Domain Search to Monitoring: Turn Findings Into Alerts in 3 Steps | Alexandre Vandamme | [Read More](https://medium.com/p/4842f4d79543) |
-| Wed, 12 Nov 2025 08:57:32 GMT | How to Hack WIFI | Vivek Goswami | [Read More](https://medium.com/p/e624613ba317) |
-| Wed, 12 Nov 2025 08:51:32 GMT | OWASP Top 10 (2025) — What’s New and Why It Matters ‍ | CyberHead | [Read More](https://medium.com/p/f9bf279b4b28) |
-| Wed, 12 Nov 2025 08:51:19 GMT | On Beauty, Rejection, and the Self | Whispers I Never Voice | [Read More](https://medium.com/p/69e080849f47) |
-| Wed, 12 Nov 2025 08:48:30 GMT | PhantomPi: A Covert Red Team Implant (Part 2) | Alessandro Tagliafierro | [Read More](https://medium.com/p/d74493d731ee) |
