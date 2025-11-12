@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 08:19:22 GMT | 5 Common Cyber Threats You Can Prevent with VAPT Solutions | Lisa Loyal | [Read More](https://medium.com/p/2201f3c1015f) |
+| Wed, 12 Nov 2025 08:11:12 GMT | Tryhackme Nas Ctf Writeup | Vivek Goswami | [Read More](https://medium.com/p/754cdd1d37ce) |
+| Wed, 12 Nov 2025 08:04:38 GMT | Top Jobs in Ethical Hacking: Career Paths, Skills & Salary Insights | EINITIAL24 | [Read More](https://medium.com/p/cb6c078c3aaf) |
+| Wed, 12 Nov 2025 08:02:12 GMT | How Kevin Noll Rewired Bata’s Global IT for a Smarter Future | The Executive Outlook | [Read More](https://medium.com/p/271f663fa667) |
+| Wed, 12 Nov 2025 08:02:09 GMT | Microsoft’s Massive AI Push in the UAE: Innovation or a Security Time Bomb? | LazyHacker | [Read More](https://medium.com/p/5e7cac04cb85) |
+| Wed, 12 Nov 2025 08:02:06 GMT | Part VIII — Vault Chronicles: The Cost of Control | Raymon Epping | [Read More](https://medium.com/p/18d7698fd14d) |
+| Wed, 12 Nov 2025 08:02:04 GMT | [Part 13] Case Study: How a Bank Used AI to Stop a $1 Million Cyber Fraud | Cyberkech | [Read More](https://medium.com/p/3e0485dcc2fd) |
+| Wed, 12 Nov 2025 08:01:38 GMT | A Southern Gentleman’s Guide to Cybersecurity Roles — Gumbo for the Modern Defender | the CyberStoic | [Read More](https://medium.com/p/e62357eee5fe) |
+| Wed, 12 Nov 2025 08:01:32 GMT | The GitHub Security Blindspot: When Your Organisation Members’ Personal Repos Become Your Problem | vishal | [Read More](https://medium.com/p/f30459c59ee3) |
+| Wed, 12 Nov 2025 07:58:38 GMT | How a Blue Team Saved a Company in 3 Hours: A Step-by-Step Real Incident Guide | Very Lazy Tech | [Read More](https://medium.com/p/b65915e34594) |
+| Wed, 12 Nov 2025 07:56:13 GMT | Will OpenAI’s Aardvark End Manual-Only Security for Good? | Nitin Gupta | [Read More](https://medium.com/p/fdf3236f0355) |
+| Wed, 12 Nov 2025 07:50:33 GMT | Mastering Cell-Level Security (CLS) in Oracle Cloud EPM / FCC | Anand Thota | [Read More](https://medium.com/p/65407b5b22e6) |
+| Wed, 12 Nov 2025 07:46:03 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/b32dc72a1925) |
+| Wed, 12 Nov 2025 07:41:02 GMT | Communication — The Right Stuff at the Right Time | Gog | [Read More](https://medium.com/p/c5e0e12d227c) |
+| Wed, 12 Nov 2025 07:40:19 GMT | SOC Workbooks and Lookups WalkThrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/411bf6340b49) |
 | Wed, 12 Nov 2025 07:33:43 GMT | What is Email Encryption: Types, Benefits & Best Practices? | HawkShield | [Read More](https://medium.com/p/e07b8ee4dd3c) |
 | Wed, 12 Nov 2025 07:27:56 GMT | UK’s Digital ID Scheme — What It Is and Why Does It Matter? | Vinita Ramtri | [Read More](https://medium.com/p/16da6898c506) |
 | Wed, 12 Nov 2025 07:21:55 GMT | Tracking the Trackers: Lessons from the APT43/Kimsuky Takedown | Siddhant Mishra | [Read More](https://medium.com/p/938ed2552947) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 22:49:09 GMT | AI Doesn’t Faze Me, But Should It? | Jane Beckman | [Read More](https://medium.com/p/0d79caa38b67) |
 | Tue, 11 Nov 2025 22:47:45 GMT | What can we learn from baristas about designing good technology? | xander koo | [Read More](https://medium.com/p/c01125800584) |
 | Tue, 11 Nov 2025 22:46:42 GMT | Atlantic Council Cyber Statecraft Initiative, | Talha Özcan | [Read More](https://medium.com/p/a0a643c8020a) |
-| Tue, 11 Nov 2025 22:45:49 GMT | Security and Human Behavior | Talha Özcan | [Read More](https://medium.com/p/7b85de454299) |
-| Tue, 11 Nov 2025 22:41:07 GMT | How to Prevent AI Adoption from Becoming Shadow AI | Audacia | [Read More](https://medium.com/p/162951212e07) |
-| Tue, 11 Nov 2025 22:36:55 GMT | Day 11: System Hardening — Building a Strong Defense with Patch Management, Account Policies, and… | HackTrace | [Read More](https://medium.com/p/4b20623b0a0b) |
-| Tue, 11 Nov 2025 22:35:57 GMT | Mighty Hacker Recovery / Bitcoin Recovery Expert WhatsApp is +14042456415. | Baron Wilson | [Read More](https://medium.com/p/1e37c560c657) |
-| Tue, 11 Nov 2025 22:35:33 GMT | Before Someone Hijacks Your Digital Identity — Read This | Elijah Usani | [Read More](https://medium.com/p/b52444274ecb) |
-| Tue, 11 Nov 2025 22:34:07 GMT | 77% of Employees Are Copy/Pasting Corporate Data Into AI Tools | Cyber-AppSec | [Read More](https://medium.com/p/2ad4afee92b0) |
-| Tue, 11 Nov 2025 22:33:38 GMT | How I turned a “Not Applicable” RXSS into an “Accepted” finding on a European HR Giant. | Jorge Taylor | [Read More](https://medium.com/p/6f9bff1f07c4) |
-| Tue, 11 Nov 2025 22:14:16 GMT | HackGPTs: Teaching AI to Think Like a Pentester | Twinkle Jaineera | [Read More](https://medium.com/p/730c2de0b7fe) |
-| Tue, 11 Nov 2025 21:59:04 GMT | Three Weeks in Solitude: Revealing the Truth of God’s Love | Joanne Miller | [Read More](https://medium.com/p/27a528ae047a) |
-| Tue, 11 Nov 2025 21:54:12 GMT | Abusing Sudo Rights on NeedRestart for Escalation | Aniket Das | [Read More](https://medium.com/p/d1307c2af12f) |
-| Tue, 11 Nov 2025 21:47:39 GMT | Donut Shellcode Execution Evading Windows Defender | S12 - 0x12Dark Development | [Read More](https://medium.com/p/bf63b5a84576) |
-| Tue, 11 Nov 2025 21:25:39 GMT | Artificial - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/e4893f73c0e2) |
-| Tue, 11 Nov 2025 21:25:18 GMT | Planning - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/1aeed29d81bc) |
-| Tue, 11 Nov 2025 21:25:06 GMT | LetsDefend — Disclose The Agent | Javier | [Read More](https://medium.com/p/43dc3d8285c0) |
-| Tue, 11 Nov 2025 21:25:00 GMT | Fluffy - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/c17389bec068) |
