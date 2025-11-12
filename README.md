@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 09:39:16 GMT | Fast, Reliable Security Staffing with ICORP’s Instant Booking Platform | ICORP Security | [Read More](https://medium.com/p/fddfd177232a) |
+| Wed, 12 Nov 2025 09:37:31 GMT | The Most Common Mistake People Make Online | Shivakshi Rawat | [Read More](https://medium.com/p/c4cf13139d45) |
+| Wed, 12 Nov 2025 09:32:51 GMT | Why Regular Security Updates Are Crucial for Your Systems | Smit Pipaliya | [Read More](https://medium.com/p/cf1debda4459) |
+| Wed, 12 Nov 2025 09:32:21 GMT | Your First Crypto Wallet, Demystified | Praxen | [Read More](https://medium.com/p/70c9a6a72093) |
+| Wed, 12 Nov 2025 09:26:32 GMT | Imagine What Could Be, Unburdened by What Has Been, Technology Version | Namir Sagheenanajar | [Read More](https://medium.com/p/6aad87a926cf) |
+| Wed, 12 Nov 2025 09:23:07 GMT | Cyber Security | TPETE67 | [Read More](https://medium.com/p/12a063ac2004) |
+| Wed, 12 Nov 2025 09:16:34 GMT | ประจำวันพุธที่ 12 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f741deecd531) |
 | Wed, 12 Nov 2025 09:12:25 GMT | The Scary Truth About Loving Someone | Imtiaz Ali | [Read More](https://medium.com/p/37807d7b1cee) |
+| Wed, 12 Nov 2025 09:10:42 GMT | Why the PTZ Optics MOVE SE Camera is Ideal for Recording? | Kingdom | [Read More](https://medium.com/p/ffd43fd7d965) |
 | Wed, 12 Nov 2025 09:03:36 GMT | The Digital Siege: Modeling Server Integrity as a Random Walk | Gadeabhishekreddy | [Read More](https://medium.com/p/d9cf8d3705f7) |
 | Wed, 12 Nov 2025 09:03:26 GMT | AI Just Made Hacking Easier — And That’s Terrifying for the Rest of Us | TechScribeHub | [Read More](https://medium.com/p/391269d0ef5d) |
 | Wed, 12 Nov 2025 09:03:20 GMT | Ensuring Safety and Trust: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/e32b6c2e739a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 03:22:21 GMT | The Hidden Danger in Your Phone: Foreign Data Harvesting. | Tech Talk | [Read More](https://medium.com/p/bc102f8f73e1) |
 | Wed, 12 Nov 2025 03:21:24 GMT | Technical Support Scam Tactics: How to Avoid Being Fooled | Steven Chin | [Read More](https://medium.com/p/5edc13c71adc) |
 | Wed, 12 Nov 2025 02:48:32 GMT | Input Manipulation & Prompt Injection: TryHackMe | TcyberSec007 | [Read More](https://medium.com/p/394753de033b) |
-| Wed, 12 Nov 2025 02:43:06 GMT | Setting up Active Directory on Linux using Virt Manger/QEMU for Learning how to hack it | niazi | [Read More](https://medium.com/p/1e7ab57ad9f3) |
-| Wed, 12 Nov 2025 02:23:41 GMT | How I Encrypt User Data Using Argon2id, AES-GCM, and AWS KMS (Without Storing Keys) | ManojSrinivasa | [Read More](https://medium.com/p/a020b4d4e776) |
-| Wed, 12 Nov 2025 02:19:02 GMT | Μεγάλες Διαρροές Δεδομένων 2025: Τί σημαίνουν για εσένα και πώς να προστατευτείς; | Akis Papas | [Read More](https://medium.com/p/bed63f85820d) |
-| Wed, 12 Nov 2025 02:12:05 GMT | LUKS-Encrypted Loopback Files: A Practical Approach to Personal Data Security | Ronald Farrer | [Read More](https://medium.com/p/8e177008cd6d) |
-| Wed, 12 Nov 2025 02:03:30 GMT | Weekly Threat Intelligence Report 10 Nov 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6330dca3b7f8) |
-| Wed, 12 Nov 2025 02:01:56 GMT | Title: Day 4 of My eJPTv2 Journey: Mapping and Sniffing the Network ️ | samurai | [Read More](https://medium.com/p/625e15221230) |
-| Wed, 12 Nov 2025 02:01:17 GMT | My body wants | Unapologetically Me | [Read More](https://medium.com/p/7ebb64718c15) |
-| Wed, 12 Nov 2025 01:54:03 GMT | OWASP TOP-10 (2025) | The Commoness | [Read More](https://medium.com/p/398be912b900) |
