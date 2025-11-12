@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 01:21:09 GMT | What Exactly Is the AI Stack? | Ms. Byte Dev | [Read More](https://medium.com/p/ee9354982862) |
+| Wed, 12 Nov 2025 01:08:50 GMT | Proof of Life & Proof of Existence | Ismael Trabuco | [Read More](https://medium.com/p/01f9b8ce2f67) |
+| Wed, 12 Nov 2025 01:03:45 GMT | Phishing Analysis Fundamentals — Try Hack Me Walkthrough | Chaitanya Garware | [Read More](https://medium.com/p/141dcbeee0e5) |
+| Wed, 12 Nov 2025 00:32:00 GMT | Detecting Attacker Behavior with Splunk: The TTP Approach | Cybersecurity Simplified | [Read More](https://medium.com/p/ffb5ef06ba33) |
+| Wed, 12 Nov 2025 00:17:53 GMT | Data Security with GenAI | Stéphane Burwash | [Read More](https://medium.com/p/2ede3709c5bd) |
+| Wed, 12 Nov 2025 00:02:24 GMT | Vulnerabilities in GraphQL API: Exploitation, Discovery, and Mitigation Guide | JPablo13 | [Read More](https://medium.com/p/fd36cbbe0309) |
+| Tue, 11 Nov 2025 23:35:45 GMT | Controllable AI: Teaching Robots Not to Be Jerks (And Why It’s Harder Than You Think) | Twinkle Jaineera | [Read More](https://medium.com/p/c25ace33f540) |
 | Tue, 11 Nov 2025 23:26:22 GMT | OWASP Top 10:2025 Sürüm Adayı | hadi cicek | [Read More](https://medium.com/p/993bd36ef809) |
 | Tue, 11 Nov 2025 23:18:45 GMT | When Six Zeros Broke a Food Delivery Empire | Jackson Mittag | [Read More](https://medium.com/p/1b4a5cf5405b) |
 | Tue, 11 Nov 2025 23:17:12 GMT | First Post | Sanishsinghmaharjan | [Read More](https://medium.com/p/68158818563f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 11 Nov 2025 17:02:27 GMT | OSINT: From Basics to Advanced and Crazy Insights | Ghostx | [Read More](https://medium.com/p/60f5edce18a4) |
 | Tue, 11 Nov 2025 17:02:18 GMT | Beginner’s Guide to Cybersecurity Careers: What I Learned from TryHackMe | Manya Tyagi | [Read More](https://medium.com/p/8220b2b70236) |
 | Tue, 11 Nov 2025 17:02:01 GMT | The Fear of Being Seen: Why We Hide Our Brilliance | Diman HPA | [Read More](https://medium.com/p/5fe5b474e5b2) |
-| Tue, 11 Nov 2025 17:02:00 GMT | Couch Complete tryhackme walkthroughs | Mainekhacker | [Read More](https://medium.com/p/311bce6d2159) |
-| Tue, 11 Nov 2025 16:59:26 GMT | 5 Practical Kali Linux Projects Every Cybersecurity Student Should Try (2025 Edition) | Abu bakar | [Read More](https://medium.com/p/64135184b172) |
-| Tue, 11 Nov 2025 16:56:22 GMT | What an almost 70M-Device Telecom Network Taught Us About Modern Threat Detection - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/101c887bcb06) |
-| Tue, 11 Nov 2025 16:55:36 GMT | Python : Multi Keys Dan Nesting Dictionary | Cahyoadi | [Read More](https://medium.com/p/8b14c8d25456) |
-| Tue, 11 Nov 2025 16:47:56 GMT | Why Your AI Is Bad (And How to Fix It With Context Engineering) | ToxSec | [Read More](https://medium.com/p/5b2e3bc7bb70) |
-| Tue, 11 Nov 2025 16:46:39 GMT | SOC 2 Compliance Requirements — 2025 Overview | Tamzid Ahmed | [Read More](https://medium.com/p/642fe58f40a1) |
-| Tue, 11 Nov 2025 16:43:14 GMT | Beyond Google: Navigating the Hidden Internet with Shodan and Censys | Little_Sun4lower | [Read More](https://medium.com/p/2cf5015f1b57) |
