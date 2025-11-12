@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 12 Nov 2025 16:37:51 GMT | Two Futures, One Present — The Digital Divide We Created | Len Noe | [Read More](https://medium.com/p/a3a866faaff4) |
+| Wed, 12 Nov 2025 16:36:10 GMT | How AI-Powered Platforms Are Transforming Security Operations | Teona | [Read More](https://medium.com/p/c2515d759a27) |
+| Wed, 12 Nov 2025 16:28:35 GMT | Application of Neural Networks in Ensuring Data Security in DLT Systems | Dmytro Zarezenko | [Read More](https://medium.com/p/7c796abe53db) |
 | Wed, 12 Nov 2025 16:27:16 GMT | When AI Becomes the Face of Deception: The Era of Deepfakes and Cyber Scams | Salihou BADIAGA | [Read More](https://medium.com/p/b2b02c0faf77) |
 | Wed, 12 Nov 2025 16:24:56 GMT | Ransomware Has a New Goal: Why Control Is the Next Currency in Cybersecurity | Fortress Protocol | [Read More](https://medium.com/p/4a3135465f93) |
+| Wed, 12 Nov 2025 16:20:03 GMT | Bir Paket Yolda: İnternette Veriler Nasıl Güvende Kalıyor? | Alper TUĞRUL | [Read More](https://medium.com/p/4b7b7a524a71) |
+| Wed, 12 Nov 2025 16:18:11 GMT | Top Technologies of 2035 | Madhavaraman | [Read More](https://medium.com/p/47bdde38c770) |
 | Wed, 12 Nov 2025 16:12:23 GMT | Tor Browser 15.0.1 Released With Critical Security Fixes | Chetan Seripally | [Read More](https://medium.com/p/1498e99a0c16) |
 | Wed, 12 Nov 2025 16:11:58 GMT | How Two Interview Questions Can Stop APTs and Seed Security Culture | Ian Sun | [Read More](https://medium.com/p/b406eade4ca3) |
 | Wed, 12 Nov 2025 16:10:43 GMT | When Anti-Phishing Codes Fail: A Case of Misplaced Trust in SMTP Infrastructure | rod | [Read More](https://medium.com/p/8b6966751eef) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 10:43:10 GMT | Identity and Access Management: The Architect’s Guide to Complex SSO Scenarios (Part 3) | Pedro Távora Santos | [Read More](https://medium.com/p/dbbf093929f8) |
 | Wed, 12 Nov 2025 10:41:21 GMT | Nmap Scripts for Penetration Testing | Dan Covic | [Read More](https://medium.com/p/01269b042f71) |
 | Wed, 12 Nov 2025 10:36:32 GMT | Hosting That Hustles: Affordable Plans Built for Creators and Coders Alike | Janet Watson | [Read More](https://medium.com/p/92360df57fd9) |
-| Wed, 12 Nov 2025 10:36:15 GMT | It’s Too Much Better Than ExamTopics… | Noraalaxay | [Read More](https://medium.com/p/496b4acc3a8b) |
-| Wed, 12 Nov 2025 10:33:01 GMT | Maximize App Reach with 5DataInc’s Cross-Platform Compatibility Testing Services | Achana prashanth | [Read More](https://medium.com/p/8f93f19452b7) |
-| Wed, 12 Nov 2025 10:32:05 GMT | Why iPhone 5s Classic Style Still Attracts Apple Fans? | Chloe White | [Read More](https://medium.com/p/ac21341307a9) |
-| Wed, 12 Nov 2025 10:29:19 GMT | Grab the Best Black Friday Cybersecurity Deals Today | cyber security Updates | [Read More](https://medium.com/p/829b0bc9d7d5) |
-| Wed, 12 Nov 2025 10:23:17 GMT | You Clicked a Suspicious Link — Here’s What to Do Next | Alex Hughes | [Read More](https://medium.com/p/19a5f7ee4a06) |
