@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 15:34:43 GMT | Return Oriented Programming [ROP] (Binary Exploitation) | Aditya Bhos | [Read More](https://medium.com/p/57f6d92497e1) |
+| Thu, 13 Nov 2025 15:33:05 GMT | The Director’s Blind Spot: Why “Doing Nothing” on AI Risk Is Now a Breach of Duty | AXSAS | [Read More](https://medium.com/p/f9be73f11629) |
+| Thu, 13 Nov 2025 15:32:58 GMT | Evaluation of LLMs: The Final Safety Net | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/7b36d28e1b54) |
+| Thu, 13 Nov 2025 15:32:40 GMT | The Complete OpenVPN CloudConnexa Series | Divyesh Vaishnav | [Read More](https://medium.com/p/dc378885ff64) |
+| Thu, 13 Nov 2025 15:25:54 GMT | TryHackMe Pickle Rick Write-Up | Emir Fatih AYYILDIZ | [Read More](https://medium.com/p/5b3b4d294de4) |
+| Thu, 13 Nov 2025 15:24:52 GMT | AUKUS Just Quietly Rewrote the Rules on AI – and Most Boards Haven’t Noticed | AXSAS | [Read More](https://medium.com/p/b3fc6f6142a9) |
 | Thu, 13 Nov 2025 15:20:31 GMT | OWASP TOP 10:-2025 | Ashishsinghu | [Read More](https://medium.com/p/43b4292ffd5a) |
+| Thu, 13 Nov 2025 15:20:00 GMT | Security Misconfiguration? Sounds like a job for Agent Burt Macklin | Jen Cracchiola | [Read More](https://medium.com/p/507b061647f2) |
 | Thu, 13 Nov 2025 15:15:45 GMT | 45 Days of Cybersecurity Days 4–7 | Wandesrtech | [Read More](https://medium.com/p/e54454feb34c) |
 | Thu, 13 Nov 2025 15:13:49 GMT | OWASP A01:2021-Broken Access Control | Jen Cracchiola | [Read More](https://medium.com/p/a4467cbae216) |
 | Thu, 13 Nov 2025 15:12:18 GMT | Network Forensics with NetworkMiner | Citadel Cybersec | [Read More](https://medium.com/p/e5d6d1d0ec11) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 10:41:59 GMT | A Complete Guide to Cybersecurity Services in Orange County for Safe Operations | KaufmanIT Inc. | [Read More](https://medium.com/p/cda0fb529236) |
 | Thu, 13 Nov 2025 10:40:29 GMT | Best Managed Cybersecurity Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/5e7ac35e9d18) |
 | Thu, 13 Nov 2025 10:39:46 GMT | Forensic Readiness in Cybersecurity: Building a Proactive Digital Defense | Abdifatah Hassan Roble | [Read More](https://medium.com/p/880eba02b614) |
-| Thu, 13 Nov 2025 10:39:27 GMT | Security Uniforms Manufacturer in India — Professional, Durable & Comfortable Workwear | Ard Digital Media | [Read More](https://medium.com/p/045afee2232e) |
-| Thu, 13 Nov 2025 10:28:56 GMT | Top Software Outsourcing Company in India 2025–2026 | Innov8world - Outsourcing software developers | [Read More](https://medium.com/p/0d9d3fbe7d92) |
-| Thu, 13 Nov 2025 10:27:37 GMT | How I pwned a production app from the dev playground | Abdullah Hammad | [Read More](https://medium.com/p/5e35ace34bbe) |
-| Thu, 13 Nov 2025 10:24:50 GMT | Bachelor of Science in Cyber Security Online - EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/9fb43a247089) |
-| Thu, 13 Nov 2025 10:17:14 GMT | Building a Vulnerable Active Directory Lab for Penetration Testing: A Practical Walkthrough | Beri Contraster | [Read More](https://medium.com/p/b98a8a36aec3) |
-| Thu, 13 Nov 2025 10:11:12 GMT | Avast Antivirus Flaw: How a Bug Could Let Attackers Turn Off Your Protection (CVE-2025–10905) | CVEHUB | [Read More](https://medium.com/p/4fbe74437fc5) |
-| Thu, 13 Nov 2025 10:07:38 GMT | I reverse-engineered the legendary “You Are An Idiot” trojan and it’s simpler (and smarter) than I… | Harsh Raj Singhania | [Read More](https://medium.com/p/cbebd817f7fd) |
