@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 14:07:44 GMT | Dc:7 Vulnhub Walkthrough | Ankit Dhaka | [Read More](https://medium.com/p/39aa91a66a41) |
+| Thu, 13 Nov 2025 14:01:59 GMT | Series Round-Up: Tools, Trouble, and Trickery | OSINT Amy | [Read More](https://medium.com/p/ae9207aad181) |
+| Thu, 13 Nov 2025 13:57:53 GMT | Gallery — TryHackMe Walkthrough | devmorav | [Read More](https://medium.com/p/c5423ce7fd10) |
+| Thu, 13 Nov 2025 13:54:55 GMT | How I Found a Reflected XSS Using ParamSpider & Kxss | mohamed metwally | [Read More](https://medium.com/p/37a6b3e09ec8) |
+| Thu, 13 Nov 2025 13:49:57 GMT | Liderar é conduzir pelo exemplo. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/9950814ad6f6) |
+| Thu, 13 Nov 2025 13:48:32 GMT | NordVPN Black Friday: Your Guide to the Best Deals | Craig Krebstel | [Read More](https://medium.com/p/6450b83f3c09) |
+| Thu, 13 Nov 2025 13:43:54 GMT | How to Find and Protect Yourself from Chase Phishing Emails in 2025 | Awais Khan | [Read More](https://medium.com/p/7f94d9eeb3f7) |
+| Thu, 13 Nov 2025 13:43:35 GMT | Why a Licensed Security Guards Company in Singapore Is Essential for Safety | Jane Tang | [Read More](https://medium.com/p/7d2f3dd17d48) |
+| Thu, 13 Nov 2025 13:41:57 GMT | How to Align Garage Door Sensors: Tips From Professionals | Up & Down Garage Door Services | [Read More](https://medium.com/p/b5daef8f4358) |
+| Thu, 13 Nov 2025 13:40:57 GMT | Why Smart People Get Scammed: The Hidden Psychology Behind Modern Manipulation | The Forensic Mind | [Read More](https://medium.com/p/736a17464580) |
+| Thu, 13 Nov 2025 13:40:06 GMT | Operation Endgame: How the November 2025 Takedown Disrupted the Cybercrime Supply Chain | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/40487651522c) |
+| Thu, 13 Nov 2025 13:39:31 GMT | When Among Us Meets Academia: An OSINT Challenge That’s Not Sus At All - v1t CTF OSINT Challenge | Chetan Chinchulkar | [Read More](https://medium.com/p/00bba5775179) |
+| Thu, 13 Nov 2025 13:39:07 GMT | PortSwigger: Web LLM attacks LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/00425aee8237) |
+| Thu, 13 Nov 2025 13:39:05 GMT | Top 10 Reasons to Hire a Professional Security Guard Company in Orange County | Direct Guard Services | [Read More](https://medium.com/p/0dd809ec984e) |
+| Thu, 13 Nov 2025 13:36:35 GMT | CAP -HACK THE BOX- ROOM | 5kullk3r | [Read More](https://medium.com/p/c6c14a4ded6f) |
+| Thu, 13 Nov 2025 13:34:51 GMT | Metasploit Framework: Comprehensive Tips and Tricks | Parth srivastava | [Read More](https://medium.com/p/7f5a0c4e11a8) |
+| Thu, 13 Nov 2025 13:34:00 GMT | GHDB OSINT TOOLS | Nochia | [Read More](https://medium.com/p/73313abdb078) |
+| Thu, 13 Nov 2025 13:32:04 GMT | How I Found a 0-Click Flaw That Compromised Any Account | Ibtissam | [Read More](https://medium.com/p/81863568d340) |
 | Thu, 13 Nov 2025 13:27:02 GMT | How to Find P1 Bugs using Google in your Target — (Part-2) | RivuDon | [Read More](https://medium.com/p/d37a9bb0b2e7) |
 | Thu, 13 Nov 2025 13:26:31 GMT | Securing Remote Work: Your Current Strategy Is Creating The Risk It’s Meant to Prevent | Tyson Martin | [Read More](https://medium.com/p/0f234e2c6e5f) |
 | Thu, 13 Nov 2025 13:24:55 GMT | Advanced Audit and Security Controls for Jira Cloud Enterprise | Erdem UÇAK | [Read More](https://medium.com/p/fbd48b031f5b) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 09:03:35 GMT | Is Your Token Invisible? The Simple Reason STON.fi Hides Some Assets (It’s All About Protection!) | MADEOFBLU | [Read More](https://medium.com/p/ce55f26b7ea9) |
 | Thu, 13 Nov 2025 09:02:32 GMT | Part IX — Vault Chronicles: Closure | Raymon Epping | [Read More](https://medium.com/p/28c0a4d20ddf) |
 | Thu, 13 Nov 2025 09:02:31 GMT | DevSecOps Demystified: Secure CI/CD, For Real | Syntal | [Read More](https://medium.com/p/18999a684ca9) |
-| Thu, 13 Nov 2025 09:02:31 GMT | Enable Telegram Leak Alerts in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/15a961f9788f) |
-| Thu, 13 Nov 2025 08:57:34 GMT | Can AI Fight AI? | Aditi Kapoor | [Read More](https://medium.com/p/9c11eaa5b5f1) |
-| Thu, 13 Nov 2025 08:53:36 GMT | From Castles To Code: Medieval Strategies That Built Modern Cybersecurity | Redfox Security | [Read More](https://medium.com/p/0d51c6f450f2) |
-| Thu, 13 Nov 2025 08:53:30 GMT | 7 Hidden Pitfalls while integrating a SharePoint File Picker | Axel Joigneau | [Read More](https://medium.com/p/ebbfe6451b68) |
-| Thu, 13 Nov 2025 08:50:03 GMT | Balancing Security and Usability | Adedaniel | [Read More](https://medium.com/p/995db679d137) |
-| Thu, 13 Nov 2025 08:49:08 GMT | npm Supply Chain Attack Playbook: How to Respond When a Package Is Compromised | Germano Costi | [Read More](https://medium.com/p/d0fa67d1feaf) |
-| Thu, 13 Nov 2025 08:45:30 GMT | Privacy SOS: Simple Steps to Vanish Online? | Authlyn | [Read More](https://medium.com/p/01a84aa1e9ca) |
-| Thu, 13 Nov 2025 08:42:19 GMT | Enhancing Security with Advanced License Plate Recognition Systems in Singapore - HRS Security… | HRS Security Service | [Read More](https://medium.com/p/b39c0cd90042) |
-| Thu, 13 Nov 2025 08:37:54 GMT | Listening to Images: How Brain-Inspired Networks Hide Audio in Plain Sight | Bradley Susser | [Read More](https://medium.com/p/774b946e1329) |
-| Thu, 13 Nov 2025 08:36:48 GMT | Bitcoin Heist: $13B Stolen? US Accused?! | Truspex | [Read More](https://medium.com/p/76ce4abf0886) |
-| Thu, 13 Nov 2025 08:34:57 GMT | Password-Based Time-Lock Key Escrow System | Anand Lahoti | [Read More](https://medium.com/p/0f325732a522) |
-| Thu, 13 Nov 2025 08:30:14 GMT | JWT Verification for Application Load Balancer | Vinayak Pandey | [Read More](https://medium.com/p/d5c949cb6d44) |
-| Thu, 13 Nov 2025 08:29:43 GMT | Why Countries Must Build Their Own Sovereign AI and Open-Source Intelligence Systems | Karan Singh | [Read More](https://medium.com/p/16a638058448) |
-| Thu, 13 Nov 2025 08:27:38 GMT | Deep Dark Sea: This is a Flask application for LAN-based file sharing and real-time anonymous… | Мартин. | [Read More](https://medium.com/p/c3007cab01d5) |
-| Thu, 13 Nov 2025 08:20:55 GMT | Mole: a Linux LD_PRELOAD-based tool for function hooking to spawn reverse shells and execute remote… | Мартин. | [Read More](https://medium.com/p/25b1b56025e5) |
-| Thu, 13 Nov 2025 08:20:04 GMT | Craft Your Own CSP: A Head of Security’s Guide to Locking Down Your Website | Ladecruze | [Read More](https://medium.com/p/cf207d1d50d9) |
-| Thu, 13 Nov 2025 08:18:35 GMT | My CISM Journey at 26 — How I Qualified and Passed | Taipun | [Read More](https://medium.com/p/1516fb4a597a) |
-| Thu, 13 Nov 2025 08:16:33 GMT | What Makes a Good CCTV Monitoring Provider in 2025 | Global CCTV Monitoring Services | [Read More](https://medium.com/p/775df8c71bc4) |
