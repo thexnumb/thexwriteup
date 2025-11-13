@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 17:18:09 GMT | The Ingress NGINX Retirement: How to Prepare, Migrate, and Choose the Right Successor | Mahernaija | [Read More](https://medium.com/p/a1640e5dac20) |
+| Thu, 13 Nov 2025 17:16:25 GMT | No One Ever Expects the Security Inquisition | TD | [Read More](https://medium.com/p/4fbaf21b0490) |
+| Thu, 13 Nov 2025 17:07:28 GMT | Crypto Exchanges Hacked Again — for Over $100 Million | Matthew.Rosenquist | [Read More](https://medium.com/p/2933f141e606) |
+| Thu, 13 Nov 2025 16:58:03 GMT | UTMStack v11.0.0: A Strategic Leap in Performance, Security, and Scalability. | UTMStack | [Read More](https://medium.com/p/947640453ddc) |
+| Thu, 13 Nov 2025 16:53:42 GMT | The Technical Deep Dive: PhantomCollect Browser API Exploitation Masterclass | xsser01 | [Read More](https://medium.com/p/4890dbc30867) |
+| Thu, 13 Nov 2025 16:52:19 GMT | When “Incognito” Isn’t Invisible: What Google’s Settlement Reveals About the False Promise of… | Decentr | [Read More](https://medium.com/p/ddec28e171ef) |
+| Thu, 13 Nov 2025 16:52:19 GMT | Episode 8: “The Cloud That Ate Manhattan” | Dr. House In I.T. | [Read More](https://medium.com/p/d2905b32fda3) |
+| Thu, 13 Nov 2025 16:52:05 GMT | A Curious VAPT Finding: A Real-World Story of Broken Authentication | Abhishek Kumar | [Read More](https://medium.com/p/cb6f73409e19) |
+| Thu, 13 Nov 2025 16:46:42 GMT | Yes, Olivia, It’s So Easy to Fall in Love | Teresa | [Read More](https://medium.com/p/81159332deba) |
 | Thu, 13 Nov 2025 16:45:35 GMT | Big Data : Data Cleaning and Preparation using Pandas | Yasa Wijaya | [Read More](https://medium.com/p/8d0285f7a112) |
+| Thu, 13 Nov 2025 16:42:29 GMT | Basic Pentesting-1 (VulnHub) — Step-by-Step Walkthrough | Vyshnav Vinod | [Read More](https://medium.com/p/2ff8010134a1) |
 | Thu, 13 Nov 2025 16:33:20 GMT | HUMLA Workshop: Breaking AI (Ethically) Was My Saturday Plan | Pooja | [Read More](https://medium.com/p/319bde7cc448) |
 | Thu, 13 Nov 2025 16:07:04 GMT | Advanced Security Hardening Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/8fad8c2b363e) |
 | Thu, 13 Nov 2025 16:00:39 GMT | The Best Apps to Prepare for IT & Cybersecurity Certifications in 2025 | PrepMe | [Read More](https://medium.com/p/a25e40ca81e0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 11:48:14 GMT | On Page Optimization Utah: The Key to Higher Search Rankings | Hary Battler | [Read More](https://medium.com/p/9b6552d4f29b) |
 | Thu, 13 Nov 2025 11:46:59 GMT | Two years after October the 7th: Why the failure to fight Antisemitism and stand up for Israel is… | ChrisfromAustria | [Read More](https://medium.com/p/af726dba1a13) |
 | Thu, 13 Nov 2025 11:45:03 GMT | Live Webinar: Building a Winning BaaS & DRaaS Portfolio: A Guide for MSPs | NAKIVO | [Read More](https://medium.com/p/62e2e035ee54) |
-| Thu, 13 Nov 2025 11:43:47 GMT | Reflected XSS in PUBG | Monika sharma | [Read More](https://medium.com/p/7cee89243268) |
-| Thu, 13 Nov 2025 11:34:36 GMT | What Makes a Strong Password? | Mercy Ajayi | [Read More](https://medium.com/p/dce92bc5bba1) |
-| Thu, 13 Nov 2025 11:34:11 GMT | Day 2/100: Temporary User Setup with Expiry | Kripal Parsekar | [Read More](https://medium.com/p/b79b62d79c65) |
-| Thu, 13 Nov 2025 11:33:59 GMT | How to Choose the Right Bug Bounty Program: A Complete Guide for Ethical Hackers | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/72f52e16e360) |
-| Thu, 13 Nov 2025 11:28:01 GMT | MuddyWater’s Latest Malware Suite Exposed: A Global Espionage Campaign | Himanshu Bhatt | [Read More](https://medium.com/p/3112367f32fd) |
-| Thu, 13 Nov 2025 11:24:35 GMT | Static Malware Analysis with Remnux (CyberSecurity Bootcamp by CybeCloud) | CybeCloud | [Read More](https://medium.com/p/dbc824c651d0) |
-| Thu, 13 Nov 2025 11:23:05 GMT | ️ How to Protect APIs from Unauthorised Access and Overuse | Ravi | [Read More](https://medium.com/p/21b7bfc68e73) |
-| Thu, 13 Nov 2025 11:22:38 GMT | Blockchain AML Screening and Monitoring: The Future of Financial Integrity | QuppyAMLBOT | [Read More](https://medium.com/p/398377c1a731) |
-| Thu, 13 Nov 2025 11:22:04 GMT | Why ServiceNow GRC is essential for compliance-driven industries | Alex s | [Read More](https://medium.com/p/5e19fa7a103d) |
-| Thu, 13 Nov 2025 11:17:30 GMT | Introducing Miso Security: Real-Time Protection for Individuals Against Telegram Stealer Logs | Ron Agnos | [Read More](https://medium.com/p/9c73b079a4cd) |
