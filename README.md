@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 09:19:00 GMT | I Failed OSCP Three Times — Here’s the Study Plan That Finally Worked | Muhammad Haider Tallal | [Read More](https://medium.com/p/75b351f87d67) |
+| Thu, 13 Nov 2025 09:17:49 GMT | Free Code Isn’t Free: The Security Debt of Open-Source and Automation | Through Smriti's Lens | [Read More](https://medium.com/p/4eafa1ef805b) |
+| Thu, 13 Nov 2025 09:12:10 GMT | Making Encryption Smarter: What If We Could Teach Ciphers to Learn? | Eke Chukwudi | [Read More](https://medium.com/p/93dde8d27b2b) |
+| Thu, 13 Nov 2025 09:08:20 GMT | The Unseen Hand: Prompt Injection Isn’t a Model Flaw - It’s a Supply-Chain Breach | Michael Arty - Music A&R - Entertainment - | [Read More](https://medium.com/p/28d8d5b5906f) |
+| Thu, 13 Nov 2025 09:03:35 GMT | Is Your Token Invisible? The Simple Reason STON.fi Hides Some Assets (It’s All About Protection!) | MADEOFBLU | [Read More](https://medium.com/p/ce55f26b7ea9) |
+| Thu, 13 Nov 2025 09:02:32 GMT | Part IX — Vault Chronicles: Closure | Raymon Epping | [Read More](https://medium.com/p/28c0a4d20ddf) |
+| Thu, 13 Nov 2025 09:02:31 GMT | DevSecOps Demystified: Secure CI/CD, For Real | Syntal | [Read More](https://medium.com/p/18999a684ca9) |
+| Thu, 13 Nov 2025 09:02:31 GMT | Enable Telegram Leak Alerts in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/15a961f9788f) |
+| Thu, 13 Nov 2025 08:57:34 GMT | Can AI Fight AI? | Aditi Kapoor | [Read More](https://medium.com/p/9c11eaa5b5f1) |
+| Thu, 13 Nov 2025 08:53:36 GMT | From Castles To Code: Medieval Strategies That Built Modern Cybersecurity | Redfox Security | [Read More](https://medium.com/p/0d51c6f450f2) |
+| Thu, 13 Nov 2025 08:53:30 GMT | 7 Hidden Pitfalls while integrating a SharePoint File Picker | Axel Joigneau | [Read More](https://medium.com/p/ebbfe6451b68) |
+| Thu, 13 Nov 2025 08:50:03 GMT | Balancing Security and Usability | Adedaniel | [Read More](https://medium.com/p/995db679d137) |
 | Thu, 13 Nov 2025 08:49:08 GMT | npm Supply Chain Attack Playbook: How to Respond When a Package Is Compromised | Germano Costi | [Read More](https://medium.com/p/d0fa67d1feaf) |
 | Thu, 13 Nov 2025 08:45:30 GMT | Privacy SOS: Simple Steps to Vanish Online? | Authlyn | [Read More](https://medium.com/p/01a84aa1e9ca) |
 | Thu, 13 Nov 2025 08:42:19 GMT | Enhancing Security with Advanced License Plate Recognition Systems in Singapore - HRS Security… | HRS Security Service | [Read More](https://medium.com/p/b39c0cd90042) |
@@ -57,6 +69,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 06:37:00 GMT | latest update | Gopi Krishna | [Read More](https://medium.com/p/1bcbe47a9087) |
 | Thu, 13 Nov 2025 06:36:40 GMT | “Advance Your IT Career with Ethical Hacking Training at BIA Institute” | Afreedalok | [Read More](https://medium.com/p/c04a1facf121) |
 | Thu, 13 Nov 2025 06:35:03 GMT | The Ultimate Guide to Small Business Antivirus: Protect Your Company | Steven Chin | [Read More](https://medium.com/p/739e2f9b90a0) |
+| Thu, 13 Nov 2025 06:32:14 GMT | Create the perfect Amazon Wedding & Baby Registry: easy, trusted, and made for real life | Divine Emmanuel | [Read More](https://medium.com/p/bda9c8a72ac9) |
 | Thu, 13 Nov 2025 06:28:29 GMT | My First Bug Bounty Experience | Abdullah Javeed | [Read More](https://medium.com/p/9897db5c3076) |
 | Thu, 13 Nov 2025 06:28:10 GMT | Top 10 AI app Development Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/35482270822c) |
 | Thu, 13 Nov 2025 06:21:47 GMT | Server Deployment: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/f237bfe8cd85) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 03:09:42 GMT | Why CREST-Certified Cybersecurity Companies Matter in Singapore | Dianna Johnson | [Read More](https://medium.com/p/a593ac2eba58) |
 | Thu, 13 Nov 2025 03:09:24 GMT | Mastering Live PHP Debugging with Xdebug and VS Code (Perfect for OSWE Prep) | Anekant Singhai Jain | [Read More](https://medium.com/p/58eeb7ab4b9c) |
 | Thu, 13 Nov 2025 03:07:05 GMT | OWASP Top 10 (2025): What’s New & What It Means for Your AppSec Roadmap | Mr Madani | [Read More](https://medium.com/p/3b44f0ebe06a) |
-| Thu, 13 Nov 2025 03:06:30 GMT | Vibe Coding is Insecure Coding: 5 Security Habits Every Developer Needs to Learn the Hard Way | NextGenTech | [Read More](https://medium.com/p/d2e9c0a4c580) |
-| Thu, 13 Nov 2025 02:58:34 GMT | 스터닝 채용 과제, 직접 만들어봤습니다 | stunning | [Read More](https://medium.com/p/b44ac93e9610) |
-| Thu, 13 Nov 2025 02:51:14 GMT | Did the U.S. Seize or Steal? Unpacking China’s Allegations in the LuBian Bitcoin Scandal | Faisal Khan | [Read More](https://medium.com/p/32175532bf37) |
-| Thu, 13 Nov 2025 02:37:00 GMT | Why is torrenting without a VPN unsafe? What your ISP can see | Millie Bobby | [Read More](https://medium.com/p/78e7446e8280) |
-| Thu, 13 Nov 2025 02:18:35 GMT | The Secret Life of Proxy Websites and Why They Keep the Internet Fun | Blanche X | [Read More](https://medium.com/p/a12f5b65eb50) |
-| Thu, 13 Nov 2025 01:54:08 GMT | Just Because You Can Find It, Should You? | Rabail Zaheer | [Read More](https://medium.com/p/c839f1da929b) |
-| Thu, 13 Nov 2025 01:54:00 GMT | Red Team vs. Blue Team: Simulating the Adversary to Build Better Defenses | Aj | [Read More](https://medium.com/p/ca628ed1b4fb) |
-| Thu, 13 Nov 2025 01:51:59 GMT | The Hidden Threat in Plain Sight: Why You Must AVOID Public USB Charging Sockets Now (Juice Jacking… | mrwhite18 | [Read More](https://medium.com/p/50c0cbbad3ed) |
-| Thu, 13 Nov 2025 01:51:19 GMT | Pocket Hacker : Install Kali on a $15 Raspberry Pi Zero W | Satyam Pathania | [Read More](https://medium.com/p/a9968323ed00) |
-| Thu, 13 Nov 2025 01:40:43 GMT | Moving to a new laptop is a pain | Bruce Coulter | [Read More](https://medium.com/p/4b4f4969aaa7) |
-| Thu, 13 Nov 2025 01:39:35 GMT | Exploring AI Red Teaming: Challenges and Opportunities | Mainekhacker | [Read More](https://medium.com/p/9f76787d3ee3) |
-| Thu, 13 Nov 2025 01:39:30 GMT | Why 99% of Bug Hunters Fail — and How to Be the 1% | Vipul Sonule | [Read More](https://medium.com/p/d2c29ae84e1a) |
-| Thu, 13 Nov 2025 01:39:25 GMT | All About MSF - Metasploit Framework Explained for Beginners | Shahzaib | [Read More](https://medium.com/p/2c7529bb6e4a) |
