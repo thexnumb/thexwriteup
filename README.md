@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 10:17:14 GMT | Building a Vulnerable Active Directory Lab for Penetration Testing: A Practical Walkthrough | Beri Contraster | [Read More](https://medium.com/p/b98a8a36aec3) |
+| Thu, 13 Nov 2025 10:11:12 GMT | Avast Antivirus Flaw: How a Bug Could Let Attackers Turn Off Your Protection (CVE-2025–10905) | CVEHUB | [Read More](https://medium.com/p/4fbe74437fc5) |
+| Thu, 13 Nov 2025 10:07:38 GMT | I reverse-engineered the legendary “You Are An Idiot” trojan and it’s simpler (and smarter) than I… | Harsh Raj Singhania | [Read More](https://medium.com/p/cbebd817f7fd) |
+| Thu, 13 Nov 2025 09:59:50 GMT | DockerLabs Writeup — Obsession (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/dfdd7006790d) |
+| Thu, 13 Nov 2025 09:57:03 GMT | How to Detect Screen Capture & Recording using Kotlin | Talsec | [Read More](https://medium.com/p/ec1801501cb6) |
+| Thu, 13 Nov 2025 09:51:48 GMT | How I Turned a Boring Image Downloader into an IDOR Goldmine | Shafayat Ahmed Alif | [Read More](https://medium.com/p/77a77d8c6c05) |
+| Thu, 13 Nov 2025 09:45:23 GMT | ประจำวันพฤหัสบดีที่ 13 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/bbf199ce014e) |
+| Thu, 13 Nov 2025 09:45:15 GMT | How to Ingest a Cyber Mentality Without Getting Technical | Anthonymatta | [Read More](https://medium.com/p/945d220a3f65) |
+| Thu, 13 Nov 2025 09:40:25 GMT | Networking | Soundaryaps | [Read More](https://medium.com/p/f3c32c32bc5a) |
+| Thu, 13 Nov 2025 09:34:39 GMT | Upskilling Trends 2026: Why Continuous Learning Is the New Competitive Edge | Netsmartz Academy | [Read More](https://medium.com/p/5ad16064f840) |
+| Thu, 13 Nov 2025 09:33:48 GMT | Secure Software Development Lifecycle: Concepts, Principles, and Governance | Tung Son Ngo | [Read More](https://medium.com/p/3781bfd374c1) |
 | Thu, 13 Nov 2025 09:28:45 GMT | Network Discovery Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/56362c885fa8) |
 | Thu, 13 Nov 2025 09:27:11 GMT | Fear of being vulnerable | sanj_giridhar | [Read More](https://medium.com/p/948f6aa8f90b) |
 | Thu, 13 Nov 2025 09:26:34 GMT | CYBER KALKI Medium account suspended | Cyber Kalki | [Read More](https://medium.com/p/c49fe61c8dc7) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 04:53:04 GMT | Who Should Pursue the ISSAP Certification? | InfosecTrain | [Read More](https://medium.com/p/a1c04284cf1a) |
 | Thu, 13 Nov 2025 04:51:56 GMT | How AI Becomes Disruptive? | InfosecTrain | [Read More](https://medium.com/p/7f7001e8c022) |
 | Thu, 13 Nov 2025 04:50:28 GMT | Elements of ISO 42001 AIMS Audits | InfosecTrain | [Read More](https://medium.com/p/62323a6d0f09) |
-| Thu, 13 Nov 2025 04:41:58 GMT | The Human-Centric Security Imperative: From Obstacle to Enabler | cyber_pix | [Read More](https://medium.com/p/abe26d464d70) |
-| Thu, 13 Nov 2025 04:41:15 GMT | How User-Space and Kernel-Space Affect Security in Linux | shresth paul | [Read More](https://medium.com/p/cb4f679d9ce7) |
-| Thu, 13 Nov 2025 04:31:32 GMT | A Day in the Life of a Hacker (Must Know, Don’t Skip) | Monu Jangra | [Read More](https://medium.com/p/08c12a461213) |
-| Thu, 13 Nov 2025 04:30:08 GMT | Saudi Arabia’s Cybersecurity Boom: What It Means for Your Career | Chetan R. | [Read More](https://medium.com/p/09d7dfb0c467) |
-| Thu, 13 Nov 2025 04:13:01 GMT | Improper Assets Management(Improper Inventory Management-2023) | Jei Ess | [Read More](https://medium.com/p/cf7f2790fa57) |
-| Thu, 13 Nov 2025 03:58:05 GMT | Smart API Security: The Power of Postman MCP and LLMs | Anurag Mewar | [Read More](https://medium.com/p/48d52f53480f) |
-| Thu, 13 Nov 2025 03:32:07 GMT | Learning Fortinet Firewall — LESSON XX: How to Create a Service Account | Rouell Mamaril | [Read More](https://medium.com/p/3ec974ab77e7) |
-| Thu, 13 Nov 2025 03:26:16 GMT | $4500 Local File Inclusion: The Tiny Parameter That Exposed an Entire Infrastructure | Swapnil Ade | [Read More](https://medium.com/p/74f7d3cc669c) |
-| Thu, 13 Nov 2025 03:21:06 GMT | The New World Next Door: How Globalization Shapes a Young Filipino’s View on Politics and Safety | Mark Welly Pardillo | [Read More](https://medium.com/p/ecac9e363eee) |
-| Thu, 13 Nov 2025 03:18:54 GMT | Google’s Private AI Compute: cloud muscle without giving up your data | Codingo Singapore | [Read More](https://medium.com/p/0fe5ecf6d7f4) |
-| Thu, 13 Nov 2025 03:18:26 GMT | The Intelligent Visitor: Real Strategies for Exploring the Darkweb Without Leaving Traces | Rodrigo Gutierrez | [Read More](https://medium.com/p/2a24b29b3497) |
