@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 10:28:56 GMT | Top Software Outsourcing Company in India 2025–2026 | Innov8world - Outsourcing software developers | [Read More](https://medium.com/p/0d9d3fbe7d92) |
+| Thu, 13 Nov 2025 10:27:37 GMT | How I pwned a production app from the dev playground | Abdullah Hammad | [Read More](https://medium.com/p/5e35ace34bbe) |
+| Thu, 13 Nov 2025 10:24:50 GMT | Bachelor of Science in Cyber Security Online - EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/9fb43a247089) |
 | Thu, 13 Nov 2025 10:17:14 GMT | Building a Vulnerable Active Directory Lab for Penetration Testing: A Practical Walkthrough | Beri Contraster | [Read More](https://medium.com/p/b98a8a36aec3) |
 | Thu, 13 Nov 2025 10:11:12 GMT | Avast Antivirus Flaw: How a Bug Could Let Attackers Turn Off Your Protection (CVE-2025–10905) | CVEHUB | [Read More](https://medium.com/p/4fbe74437fc5) |
 | Thu, 13 Nov 2025 10:07:38 GMT | I reverse-engineered the legendary “You Are An Idiot” trojan and it’s simpler (and smarter) than I… | Harsh Raj Singhania | [Read More](https://medium.com/p/cbebd817f7fd) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 04:58:30 GMT | Block Attacks by Letting PHP Notice Unnatural Request Sequences | Asian Digital Hub | [Read More](https://medium.com/p/6ce5d3510fbd) |
 | Thu, 13 Nov 2025 04:56:01 GMT | How to Get Your First CVE as a Beginner | Harsh kothari | [Read More](https://medium.com/p/2d4122121ed4) |
 | Thu, 13 Nov 2025 04:55:31 GMT | When Your App Freezes, and So Does the User: My Take on “App Hangs in iOS” | Jennifer James | [Read More](https://medium.com/p/42cf17eff8d5) |
-| Thu, 13 Nov 2025 04:53:04 GMT | Who Should Pursue the ISSAP Certification? | InfosecTrain | [Read More](https://medium.com/p/a1c04284cf1a) |
-| Thu, 13 Nov 2025 04:51:56 GMT | How AI Becomes Disruptive? | InfosecTrain | [Read More](https://medium.com/p/7f7001e8c022) |
-| Thu, 13 Nov 2025 04:50:28 GMT | Elements of ISO 42001 AIMS Audits | InfosecTrain | [Read More](https://medium.com/p/62323a6d0f09) |
