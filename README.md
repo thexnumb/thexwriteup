@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 06:28:29 GMT | My First Bug Bounty Experience | Abdullah Javeed | [Read More](https://medium.com/p/9897db5c3076) |
+| Thu, 13 Nov 2025 06:28:10 GMT | Top 10 AI app Development Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/35482270822c) |
+| Thu, 13 Nov 2025 06:21:47 GMT | Server Deployment: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/f237bfe8cd85) |
+| Thu, 13 Nov 2025 06:16:49 GMT | BOLA | Ghost0Sun | [Read More](https://medium.com/p/5e3d9545921c) |
+| Thu, 13 Nov 2025 06:16:44 GMT | What Perth Homeowners Should Know About Modern Intercom Systems | Securitec Security | [Read More](https://medium.com/p/2072a8943a59) |
+| Thu, 13 Nov 2025 06:12:01 GMT | The Emotional Cost of Being “The Strong One” | Abhinav Misra | [Read More](https://medium.com/p/aae98b75adc7) |
+| Thu, 13 Nov 2025 06:11:57 GMT | Why the World Needs a Self-Healing LLM | Bhawini. | [Read More](https://medium.com/p/06cde624de35) |
+| Thu, 13 Nov 2025 06:09:02 GMT | The Daily Tech Digest: 13 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/537c0f83514b) |
+| Thu, 13 Nov 2025 06:01:33 GMT | The Night a Hacker Unplugged a Country | Uvindu E | [Read More](https://medium.com/p/5e1c6b1ab647) |
+| Thu, 13 Nov 2025 05:55:04 GMT | IT Services Hobart — Your Trusted Technology Partner in Tasmania | It Services Hobart | [Read More](https://medium.com/p/9acf9d12145c) |
+| Thu, 13 Nov 2025 05:53:51 GMT | Evolution of Cyber Law in India: From IT Act 2000 to Today | Law Books Store | [Read More](https://medium.com/p/72b5bc6d6002) |
+| Thu, 13 Nov 2025 05:48:24 GMT | SSO Explained: Why You Only Login Once to Access Multiple Apps | Seremwe Ngoni | [Read More](https://medium.com/p/eee916150245) |
 | Thu, 13 Nov 2025 05:36:03 GMT | Fortune Favors the Protected: Why Managed Security Services Are Essential for Mumbai Businesses in… | Maxatlasofficial | [Read More](https://medium.com/p/39f94ca0ac8d) |
 | Thu, 13 Nov 2025 05:33:49 GMT | Privilege Escalation via GraphQL: Editors Can Become Owners Through the “Share” Flow | black | [Read More](https://medium.com/p/b67782b98804) |
 | Thu, 13 Nov 2025 05:28:33 GMT | HTB Interceptor | Harjot Singh | [Read More](https://medium.com/p/7f1faf7d5142) |
@@ -101,15 +113,3 @@ With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/
 | Wed, 12 Nov 2025 20:51:24 GMT | Mistakes That I Made Before I Got My First Bounty | Silent Cipher | [Read More](https://medium.com/p/5d460eae31b6) |
 | Wed, 12 Nov 2025 20:46:45 GMT | We Don’t Need Perfect People — We Need Real Ones | Sagar Ali | [Read More](https://medium.com/p/2ae6d91827cb) |
 | Wed, 12 Nov 2025 20:46:35 GMT | The LinkedIn Data Scraping Incident of 2021: A Wake-Up Call for the Digital Era | Tanay Harsith | [Read More](https://medium.com/p/79da7a8e6471) |
-| Wed, 12 Nov 2025 20:45:38 GMT | Aardvark: AI That Writes Exploits, Hacks Your Code, and Patches It Before You Notice | Twinkle Jaineera | [Read More](https://medium.com/p/1b70154dc675) |
-| Wed, 12 Nov 2025 20:41:10 GMT | How We Made $67,000+ Using The New “E/B” Attack Vector — And Other Bug Bounty Tips | Justas_b | [Read More](https://medium.com/p/753ebf8ab54b) |
-| Wed, 12 Nov 2025 20:37:43 GMT | Understanding Token Visibility and Safety Measures on STON.fi | Abdulqayyum Alaranse | [Read More](https://medium.com/p/76cd2fc52de5) |
-| Wed, 12 Nov 2025 20:23:06 GMT | The Windows Security Journey — BitLocker | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b4f1f35e9057) |
-| Wed, 12 Nov 2025 20:21:13 GMT | Maverick | Sampson Hart | [Read More](https://medium.com/p/a29a9160cb3b) |
-| Wed, 12 Nov 2025 20:18:42 GMT | Why AI Red Teaming is Essential: The Non-Negotiable Layer of Safety | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/77631d36623b) |
-| Wed, 12 Nov 2025 20:09:06 GMT | How Do I Protect My Small Business From Hacker Attacks? | Cordula Boeck | [Read More](https://medium.com/p/0d1241e7374f) |
-| Wed, 12 Nov 2025 20:01:57 GMT | Europe faces a convergence of profound challenges that threaten its stability and global role | MASUM BILLAH | [Read More](https://medium.com/p/9f73dc38ba6c) |
-| Wed, 12 Nov 2025 20:00:56 GMT | This Google Dorking Trick can get you $5000 Bounty [No Cap] | Prayers Khristi | [Read More](https://medium.com/p/da03a3c36355) |
-| Wed, 12 Nov 2025 19:56:13 GMT | Data Leakage in Enterprise AI APIs: The Invisible Threat to Your IP | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/7e6641512a1d) |
-| Wed, 12 Nov 2025 19:43:51 GMT | Notes On Post-Quantum Cryptography Methods | Mi'kail Eli'yah | [Read More](https://medium.com/p/7b81e45a332f) |
-| Wed, 12 Nov 2025 19:32:22 GMT | How Scammers Steal Lives - ProtectYourself from Online Fraud & Global ⚠️⚠️⚠️Scam Networks | Muhammad Ali Raza | [Read More](https://medium.com/p/38753a14b898) |
