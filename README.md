@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 08:20:55 GMT | Mole: a Linux LD_PRELOAD-based tool for function hooking to spawn reverse shells and execute remote… | Мартин. | [Read More](https://medium.com/p/25b1b56025e5) |
+| Thu, 13 Nov 2025 08:20:04 GMT | Craft Your Own CSP: A Head of Security’s Guide to Locking Down Your Website | Ladecruze | [Read More](https://medium.com/p/cf207d1d50d9) |
+| Thu, 13 Nov 2025 08:18:35 GMT | My CISM Journey at 26 — How I Qualified and Passed | Taipun | [Read More](https://medium.com/p/1516fb4a597a) |
+| Thu, 13 Nov 2025 08:16:33 GMT | What Makes a Good CCTV Monitoring Provider in 2025 | Global CCTV Monitoring Services | [Read More](https://medium.com/p/775df8c71bc4) |
+| Thu, 13 Nov 2025 08:13:13 GMT | LetsDefend — SOC141: Phishing URL Analysis (Event ID 86) | Soumodeep Das | [Read More](https://medium.com/p/252873ddd242) |
+| Thu, 13 Nov 2025 08:08:20 GMT | BO - Broken Authentication | Ghost0Sun | [Read More](https://medium.com/p/94c900a0b4c1) |
+| Thu, 13 Nov 2025 08:05:03 GMT | Row Level Security (RLS) in PostgreSQL | Mozaffaritabar H | [Read More](https://medium.com/p/497695f5145e) |
+| Thu, 13 Nov 2025 08:04:12 GMT | Elastic Stack: The Basics - TryHackMe —Core SOC Solutions | Kate D Terracore | [Read More](https://medium.com/p/23dc5bb6e3e7) |
+| Thu, 13 Nov 2025 08:03:36 GMT | Why Linux Will Quietly Win the Future, Even If Most People Never Notice | Fateyaly | [Read More](https://medium.com/p/19b8074de7d6) |
+| Thu, 13 Nov 2025 08:02:48 GMT | Why Compliance Alone Doesn’t Guarantee Cybersecurity | Digital Defense | [Read More](https://medium.com/p/790908e435ab) |
+| Thu, 13 Nov 2025 08:02:20 GMT | Getting to grips with real-time clocks | Mansfield-Devine | [Read More](https://medium.com/p/4a69aa8cee3f) |
+| Thu, 13 Nov 2025 08:02:19 GMT | The Security Operations Center: The Kitchen at the Heart of Cyber Defense | the CyberStoic | [Read More](https://medium.com/p/b245c40fe924) |
+| Thu, 13 Nov 2025 07:57:40 GMT | What is a VPN and How Can You Be Sure It’s Actually Safe? | V2ray tor | [Read More](https://medium.com/p/13459639ded9) |
+| Thu, 13 Nov 2025 07:55:39 GMT | Black Friday Cybersecurity Training Offers — Learn to Hack Ethically | cyber security Updates | [Read More](https://medium.com/p/d8ba7bb8e6aa) |
+| Thu, 13 Nov 2025 07:55:31 GMT | Proxies vs VPNs: Which Offers Better Cybersecurity Protection? | ProxiesThatWork | [Read More](https://medium.com/p/4bcf3eddf6b7) |
+| Thu, 13 Nov 2025 07:54:40 GMT | Black Friday & Cyber Monday Mega Sale on Cybersecurity Courses | Manisha Chaudhary | [Read More](https://medium.com/p/c06c3ebeac2a) |
+| Thu, 13 Nov 2025 07:36:40 GMT | On Fucking Around and Finding Out | Omondi Ochuka | [Read More](https://medium.com/p/469d43849f66) |
 | Thu, 13 Nov 2025 07:34:46 GMT | Hackviser - Salem’s Curse (Hallowen) | Tolga Can | [Read More](https://medium.com/p/61cc6d45934e) |
 | Thu, 13 Nov 2025 07:33:39 GMT | Why Two-Way Verification Is Essential for Securing Your Social Media Accounts | Zeeshan Masood Keyani | [Read More](https://medium.com/p/0daa097f32f9) |
 | Thu, 13 Nov 2025 07:28:01 GMT | Cloud Security Lessons from the Capital One Breach: Strengthening Virtualization and Cloud Defenses | Anderson Santos | [Read More](https://medium.com/p/8f686c56102a) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 23:53:51 GMT | Crypto Scam and Ponzi Scheme Recovery: What to Do If You’ve Been Scammed
 With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/78e8650b7a07) |
 | Wed, 12 Nov 2025 23:50:54 GMT | Threat Research: Inside Scattered LAPSUS$ Hunters (SLH) - UNC6040, UNC6395 | Gabriel Alves | [Read More](https://medium.com/p/4bab193c0899) |
-| Wed, 12 Nov 2025 23:36:14 GMT | Power and Electromagnetic Side Channels: Data Extraction Across Physical Gaps | Bervice | [Read More](https://medium.com/p/0be74d32e3d2) |
-| Wed, 12 Nov 2025 23:17:56 GMT | System Configuration and Troubleshooting in Linux: A Hands-On Challenge | Russell "Dusty" Broad | [Read More](https://medium.com/p/21551f42b024) |
-| Wed, 12 Nov 2025 23:15:10 GMT | Stagnant Creativity in the Tech Sector | Rhiannon Williams | [Read More](https://medium.com/p/cbbfa11e30c5) |
-| Wed, 12 Nov 2025 23:05:11 GMT | Alteryx Server IDOR Advisory | Aleksa Zatezalo | [Read More](https://medium.com/p/782e3013ee38) |
-| Wed, 12 Nov 2025 23:01:21 GMT | Alert — Hack The Box (Easy) | d4rkonus | [Read More](https://medium.com/p/fd2e17c0aa20) |
-| Wed, 12 Nov 2025 23:00:19 GMT | Virtual Security Guards | Visual Monitoring Solutions | [Read More](https://medium.com/p/cb0fb3cb9967) |
-| Wed, 12 Nov 2025 22:57:02 GMT | SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE | Harshprajapati | [Read More](https://medium.com/p/eaa8d60179c5) |
-| Wed, 12 Nov 2025 22:46:10 GMT | NATO Counter-Drone Operations in Belgium: Deep Technical Analysis for Cyber Security… | Berend Watchus | [Read More](https://medium.com/p/a8528e214e73) |
-| Wed, 12 Nov 2025 22:38:43 GMT | Breaking mPDF with regex and logic | brun0ne | [Read More](https://medium.com/p/bf915300483f) |
-| Wed, 12 Nov 2025 22:32:24 GMT | Day 12 — Mastering Remote Access: Understanding SSH, RDP, VPN, FTP, and SFTP | HackTrace | [Read More](https://medium.com/p/21d05219e6db) |
-| Wed, 12 Nov 2025 22:23:45 GMT | Command Injection — Write-up | Omar Ahmed Abdelslaam | [Read More](https://medium.com/p/b0e37450330b) |
-| Wed, 12 Nov 2025 22:16:54 GMT | The Hidden Security Risks Inside MCP Servers | Cyber-AppSec | [Read More](https://medium.com/p/fbd3bda81981) |
-| Wed, 12 Nov 2025 22:13:48 GMT | Is College Worth It for Cybersecurity? My Honest Take as a Student and Cert Chaser | NTHSec | [Read More](https://medium.com/p/a348b46dd7e2) |
-| Wed, 12 Nov 2025 22:12:06 GMT | The Digital Siege: Inside Germany’s Growing Cybersecurity Crisis | Aydin Aslan | [Read More](https://medium.com/p/7d80cd52dac6) |
-| Wed, 12 Nov 2025 22:08:51 GMT | Not All Metrics Are Equal. These KPIs Drive Impact. | Fook Hwa Tan | [Read More](https://medium.com/p/0fcc0b494d3f) |
-| Wed, 12 Nov 2025 22:07:47 GMT | How We Guide Clients Across Strategy, Risk & Execution — Inside Our Managed Security Office | Fook Hwa Tan | [Read More](https://medium.com/p/6e0a9a6bf9b6) |
-| Wed, 12 Nov 2025 22:05:39 GMT | Stop Treating Audits Like Checklists. Here’s a Better Way. | Fook Hwa Tan | [Read More](https://medium.com/p/39d19cbbb145) |
