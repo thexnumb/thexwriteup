@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 17:33:27 GMT | Proactive Threat Hunting using YARA | OluwapelumiOyerinde | [Read More](https://medium.com/p/e129bd351e9f) |
+| Thu, 13 Nov 2025 17:28:46 GMT | The Modern Attack Landscape: Telegram, the Dark Web, and the New AI-Powered Phishing Threats | Raya P | [Read More](https://medium.com/p/b885ef6cf29c) |
+| Thu, 13 Nov 2025 17:23:49 GMT | The AI Agent Threat Landscape — Part 1 | özgün özçetin | [Read More](https://medium.com/p/0439d3ef6193) |
 | Thu, 13 Nov 2025 17:18:09 GMT | The Ingress NGINX Retirement: How to Prepare, Migrate, and Choose the Right Successor | Mahernaija | [Read More](https://medium.com/p/a1640e5dac20) |
+| Thu, 13 Nov 2025 17:17:39 GMT | SOC227 — Microsoft SharePoint Server Elevation of Privilege | Brandon Love | [Read More](https://medium.com/p/054803829e80) |
 | Thu, 13 Nov 2025 17:16:25 GMT | No One Ever Expects the Security Inquisition | TD | [Read More](https://medium.com/p/4fbaf21b0490) |
+| Thu, 13 Nov 2025 17:08:35 GMT | I Ignored Website Backups | satyaranjan bal | [Read More](https://medium.com/p/3c6165f78300) |
 | Thu, 13 Nov 2025 17:07:28 GMT | Crypto Exchanges Hacked Again — for Over $100 Million | Matthew.Rosenquist | [Read More](https://medium.com/p/2933f141e606) |
 | Thu, 13 Nov 2025 16:58:03 GMT | UTMStack v11.0.0: A Strategic Leap in Performance, Security, and Scalability. | UTMStack | [Read More](https://medium.com/p/947640453ddc) |
 | Thu, 13 Nov 2025 16:53:42 GMT | The Technical Deep Dive: PhantomCollect Browser API Exploitation Masterclass | xsser01 | [Read More](https://medium.com/p/4890dbc30867) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 12:06:15 GMT | How Recruiters Use Technical Scenarios to Filter Real SOC Analysts | Motasem Hamdan | [Read More](https://medium.com/p/73da0b261326) |
 | Thu, 13 Nov 2025 12:02:21 GMT | Need for a new order to save the world | ahmed fouad | [Read More](https://medium.com/p/1188e5842857) |
 | Thu, 13 Nov 2025 12:02:00 GMT | Writeup for picoCTF challenge “Search source” | Walter Moar | [Read More](https://medium.com/p/0fce7e391f67) |
-| Thu, 13 Nov 2025 12:00:44 GMT | Today’s Top Cyber Intelligence Highlights — Nov 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9e7120149820) |
-| Thu, 13 Nov 2025 11:50:20 GMT | 8 Strategies to Shield Your Business from Identity Theft | Eggleston Services | [Read More](https://medium.com/p/ae2410936d2d) |
-| Thu, 13 Nov 2025 11:48:14 GMT | On Page Optimization Utah: The Key to Higher Search Rankings | Hary Battler | [Read More](https://medium.com/p/9b6552d4f29b) |
-| Thu, 13 Nov 2025 11:46:59 GMT | Two years after October the 7th: Why the failure to fight Antisemitism and stand up for Israel is… | ChrisfromAustria | [Read More](https://medium.com/p/af726dba1a13) |
-| Thu, 13 Nov 2025 11:45:03 GMT | Live Webinar: Building a Winning BaaS & DRaaS Portfolio: A Guide for MSPs | NAKIVO | [Read More](https://medium.com/p/62e2e035ee54) |
