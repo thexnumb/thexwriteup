@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 23:17:17 GMT | Somewhere in Between | Jana Gauthier | [Read More](https://medium.com/p/b91323636833) |
+| Thu, 13 Nov 2025 23:06:51 GMT | [Wait_for_the_Clock] — [Digital Forensics] — [Cyber Sprint 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/96f5ad6a902a) |
+| Thu, 13 Nov 2025 22:43:59 GMT | The Quiet Collapse: Why Cybersecurity Fatigue Is the Greatest Threat MSPs Aren’t Talking About | Donald Betancourt | [Read More](https://medium.com/p/80687de01f92) |
+| Thu, 13 Nov 2025 22:42:49 GMT | The Strategic Advantage of a vCISO — Why Cybersecurity Leadership is No Longer Optional | Yokota Strong | [Read More](https://medium.com/p/08bde0c4a44d) |
 | Thu, 13 Nov 2025 22:39:06 GMT | Criminal Justice in the Age of Cybercrime | Anum Khan | [Read More](https://medium.com/p/d797323746a6) |
 | Thu, 13 Nov 2025 22:27:18 GMT | Input Manipulation & Prompt Injection - Tryhackme | Aaron | [Read More](https://medium.com/p/f6439ff1bbfd) |
 | Thu, 13 Nov 2025 22:21:36 GMT | The Internet Has a “Copy” Problem. I Used Quantum Physics to Build a “Cut” Button. | Damian Griggs | [Read More](https://medium.com/p/2b7801377fbf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 15:20:31 GMT | OWASP TOP 10:-2025 | Ashishsinghu | [Read More](https://medium.com/p/43b4292ffd5a) |
 | Thu, 13 Nov 2025 15:20:00 GMT | Security Misconfiguration? Sounds like a job for Agent Burt Macklin | Jen Cracchiola | [Read More](https://medium.com/p/507b061647f2) |
 | Thu, 13 Nov 2025 15:15:45 GMT | 45 Days of Cybersecurity Days 4–7 | Wandesrtech | [Read More](https://medium.com/p/e54454feb34c) |
-| Thu, 13 Nov 2025 15:13:49 GMT | OWASP A01:2021-Broken Access Control | Jen Cracchiola | [Read More](https://medium.com/p/a4467cbae216) |
-| Thu, 13 Nov 2025 15:12:18 GMT | Network Forensics with NetworkMiner | Citadel Cybersec | [Read More](https://medium.com/p/e5d6d1d0ec11) |
-| Thu, 13 Nov 2025 15:06:02 GMT | Runtime Risk Is Already Here, Can Your AI Prove Trust in Motion? | Rampart AI™ | [Read More](https://medium.com/p/9adc06671019) |
-| Thu, 13 Nov 2025 15:05:56 GMT | SOC Threat Detection: From Business Risk to Measurable Signals | Sabri Chaabi | [Read More](https://medium.com/p/75ff780caecb) |
