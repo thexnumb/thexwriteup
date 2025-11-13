@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 12:42:09 GMT | Guys pls a question:my Okx wallet holds 5,000. USDT, and I have the 12 words phrase: | Joelle luxer | [Read More](https://medium.com/p/029daf5abc93) |
+| Thu, 13 Nov 2025 12:41:51 GMT | Feeling Vulnerable At Work II | Kirsty Tither | [Read More](https://medium.com/p/11b1d60012bf) |
+| Thu, 13 Nov 2025 12:40:35 GMT | Strengthening npm Security: What Package Maintainers Need to Know | Dhanush N | [Read More](https://medium.com/p/0bcdb8b7ad65) |
+| Thu, 13 Nov 2025 12:40:04 GMT | Server Hacked? DON’T Shut It Down! | Dhanush N | [Read More](https://medium.com/p/50a411e5b803) |
+| Thu, 13 Nov 2025 12:39:36 GMT | How Companies Pay Experts to Break Into Their Own Systems | Dhanush N | [Read More](https://medium.com/p/520d1df1338f) |
+| Thu, 13 Nov 2025 12:31:04 GMT | Why Your ‘Simple’ Upload System Will Cost You Three Months | Idera Dev Tools | [Read More](https://medium.com/p/7603f9fa7482) |
+| Thu, 13 Nov 2025 12:23:47 GMT | Your Data Has Already Been Stolen. The Only Question Is By Whom |  | [Read More](https://medium.com/p/0b4d502b91fa) |
+| Thu, 13 Nov 2025 12:23:34 GMT | Grand Rising with Drosera | Barryyyy | [Read More](https://medium.com/p/c918bb4979bd) |
+| Thu, 13 Nov 2025 12:20:32 GMT | Kerberoasted — CyberDefenders Blue Team Challenge | khalifa_farhat | [Read More](https://medium.com/p/e422dd4511f3) |
+| Thu, 13 Nov 2025 12:18:18 GMT | Building a Multi-Agent ADK/A2A Malware Analysis Agent: For Fun and Profit | Dima Fomberg | [Read More](https://medium.com/p/ea1e7264510b) |
+| Thu, 13 Nov 2025 12:12:31 GMT | Kubernetes Secrets Management: How We Rotate Secrets Without Breaking Production | Zoe | [Read More](https://medium.com/p/6c6ed6fcb115) |
+| Thu, 13 Nov 2025 12:06:15 GMT | How Recruiters Use Technical Scenarios to Filter Real SOC Analysts | Motasem Hamdan | [Read More](https://medium.com/p/73da0b261326) |
+| Thu, 13 Nov 2025 12:02:21 GMT | Need for a new order to save the world | ahmed fouad | [Read More](https://medium.com/p/1188e5842857) |
+| Thu, 13 Nov 2025 12:02:00 GMT | Writeup for picoCTF challenge “Search source” | Walter Moar | [Read More](https://medium.com/p/0fce7e391f67) |
+| Thu, 13 Nov 2025 12:00:44 GMT | Today’s Top Cyber Intelligence Highlights — Nov 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9e7120149820) |
+| Thu, 13 Nov 2025 11:50:20 GMT | 8 Strategies to Shield Your Business from Identity Theft | Eggleston Services | [Read More](https://medium.com/p/ae2410936d2d) |
+| Thu, 13 Nov 2025 11:48:14 GMT | On Page Optimization Utah: The Key to Higher Search Rankings | Hary Battler | [Read More](https://medium.com/p/9b6552d4f29b) |
+| Thu, 13 Nov 2025 11:46:59 GMT | Two years after October the 7th: Why the failure to fight Antisemitism and stand up for Israel is… | ChrisfromAustria | [Read More](https://medium.com/p/af726dba1a13) |
+| Thu, 13 Nov 2025 11:45:03 GMT | Live Webinar: Building a Winning BaaS & DRaaS Portfolio: A Guide for MSPs | NAKIVO | [Read More](https://medium.com/p/62e2e035ee54) |
+| Thu, 13 Nov 2025 11:43:47 GMT | Reflected XSS in PUBG | Monika sharma | [Read More](https://medium.com/p/7cee89243268) |
+| Thu, 13 Nov 2025 11:34:36 GMT | What Makes a Strong Password? | Mercy Ajayi | [Read More](https://medium.com/p/dce92bc5bba1) |
 | Thu, 13 Nov 2025 11:34:11 GMT | Day 2/100: Temporary User Setup with Expiry | Kripal Parsekar | [Read More](https://medium.com/p/b79b62d79c65) |
 | Thu, 13 Nov 2025 11:33:59 GMT | How to Choose the Right Bug Bounty Program: A Complete Guide for Ethical Hackers | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/72f52e16e360) |
 | Thu, 13 Nov 2025 11:28:01 GMT | MuddyWater’s Latest Malware Suite Exposed: A Global Espionage Campaign | Himanshu Bhatt | [Read More](https://medium.com/p/3112367f32fd) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 07:55:39 GMT | Black Friday Cybersecurity Training Offers — Learn to Hack Ethically | cyber security Updates | [Read More](https://medium.com/p/d8ba7bb8e6aa) |
 | Thu, 13 Nov 2025 07:55:31 GMT | Proxies vs VPNs: Which Offers Better Cybersecurity Protection? | ProxiesThatWork | [Read More](https://medium.com/p/4bcf3eddf6b7) |
 | Thu, 13 Nov 2025 07:54:40 GMT | Black Friday & Cyber Monday Mega Sale on Cybersecurity Courses | Manisha Chaudhary | [Read More](https://medium.com/p/c06c3ebeac2a) |
-| Thu, 13 Nov 2025 07:36:40 GMT | On Fucking Around and Finding Out | Omondi Ochuka | [Read More](https://medium.com/p/469d43849f66) |
-| Thu, 13 Nov 2025 07:34:46 GMT | Hackviser - Salem’s Curse (Hallowen) | Tolga Can | [Read More](https://medium.com/p/61cc6d45934e) |
-| Thu, 13 Nov 2025 07:33:39 GMT | Why Two-Way Verification Is Essential for Securing Your Social Media Accounts | Zeeshan Masood Keyani | [Read More](https://medium.com/p/0daa097f32f9) |
-| Thu, 13 Nov 2025 07:28:01 GMT | Cloud Security Lessons from the Capital One Breach: Strengthening Virtualization and Cloud Defenses | Anderson Santos | [Read More](https://medium.com/p/8f686c56102a) |
-| Thu, 13 Nov 2025 07:26:57 GMT | Why Your “Clean Code” Still Has Bugs-The Unseen Threat of Poor Requirements ️ | Hitesh Gera | [Read More](https://medium.com/p/2fad961228a3) |
-| Thu, 13 Nov 2025 07:19:54 GMT | Bypassing Content Filter with Browser Isolation | Mina Ghaly | [Read More](https://medium.com/p/f323d23cfeaa) |
-| Thu, 13 Nov 2025 07:16:15 GMT | Bypassing Authentication in a Major API Gateway: A Path Normalization Story | Dipanshu Chhanikar | [Read More](https://medium.com/p/5f1bea6d3f08) |
-| Thu, 13 Nov 2025 07:13:39 GMT | AI Cloud Security: Securing Cloud Infrastructure with Artificial Intelligence | QualysecEurope | [Read More](https://medium.com/p/b0b07109416c) |
-| Thu, 13 Nov 2025 07:12:26 GMT | Reverse-Engineering Upload Names to Win an IDOR Bug | Kazi Sabbir | [Read More](https://medium.com/p/296f7e068c1a) |
-| Thu, 13 Nov 2025 07:10:51 GMT | RN Payments Powerhouse: Integrating Midtrans, Xendit, or Stripe with Webhook Security (The… | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/321f5b266906) |
-| Thu, 13 Nov 2025 07:02:49 GMT | Bug Bounty Hunting — Complete Guide (Part-143) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/89516bc6830d) |
-| Thu, 13 Nov 2025 07:00:46 GMT | Bug Bounty Hunting — Complete Guide (Part-142) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/c4d72c123c57) |
-| Thu, 13 Nov 2025 06:59:05 GMT | Bug Bounty Hunting — Complete Guide (Part-141) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/d4dec569e264) |
-| Thu, 13 Nov 2025 06:56:10 GMT | Policy Brief: How Canada Can Fulfill Its NATO Pledge | Bolu Michael-Biyi | [Read More](https://medium.com/p/f6c662c5f041) |
-| Thu, 13 Nov 2025 06:55:55 GMT | Gliding Through OSWP: The Calm After the Storm | Joshua Alwin | [Read More](https://medium.com/p/8d58117f66c2) |
-| Thu, 13 Nov 2025 06:54:52 GMT | “Cybersecurity Simplified: Become a Certified Professional with BIA Institute” | Afreedalok | [Read More](https://medium.com/p/e3a6718d8237) |
-| Thu, 13 Nov 2025 06:44:59 GMT | Network Security Essentials Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/d68cc8e4c9c6) |
-| Thu, 13 Nov 2025 06:37:00 GMT | latest update | Gopi Krishna | [Read More](https://medium.com/p/1bcbe47a9087) |
-| Thu, 13 Nov 2025 06:36:40 GMT | “Advance Your IT Career with Ethical Hacking Training at BIA Institute” | Afreedalok | [Read More](https://medium.com/p/c04a1facf121) |
-| Thu, 13 Nov 2025 06:35:03 GMT | The Ultimate Guide to Small Business Antivirus: Protect Your Company | Steven Chin | [Read More](https://medium.com/p/739e2f9b90a0) |
-| Thu, 13 Nov 2025 06:32:14 GMT | Create the perfect Amazon Wedding & Baby Registry: easy, trusted, and made for real life | Divine Emmanuel | [Read More](https://medium.com/p/bda9c8a72ac9) |
