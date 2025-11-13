@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 15:20:31 GMT | OWASP TOP 10:-2025 | Ashishsinghu | [Read More](https://medium.com/p/43b4292ffd5a) |
+| Thu, 13 Nov 2025 15:15:45 GMT | 45 Days of Cybersecurity Days 4–7 | Wandesrtech | [Read More](https://medium.com/p/e54454feb34c) |
+| Thu, 13 Nov 2025 15:13:49 GMT | OWASP A01:2021-Broken Access Control | Jen Cracchiola | [Read More](https://medium.com/p/a4467cbae216) |
+| Thu, 13 Nov 2025 15:12:18 GMT | Network Forensics with NetworkMiner | Citadel Cybersec | [Read More](https://medium.com/p/e5d6d1d0ec11) |
+| Thu, 13 Nov 2025 15:06:02 GMT | Runtime Risk Is Already Here, Can Your AI Prove Trust in Motion? | Rampart AI™ | [Read More](https://medium.com/p/9adc06671019) |
+| Thu, 13 Nov 2025 15:05:56 GMT | SOC Threat Detection: From Business Risk to Measurable Signals | Sabri Chaabi | [Read More](https://medium.com/p/75ff780caecb) |
+| Thu, 13 Nov 2025 15:01:29 GMT | China’s Expanding Cyber Contractor State: What the Knownsec Breach Reveals About the PRC’s New… | Abatis ABTU | [Read More](https://medium.com/p/9d786edba1cb) |
+| Thu, 13 Nov 2025 15:01:13 GMT | Cyber Briefing: 2025.11.13 | CyberMaterial | [Read More](https://medium.com/p/1ae9d5dd4cfd) |
+| Thu, 13 Nov 2025 15:00:29 GMT | India’s Cybersecurity Law Is Still Stuck in the Year 2000 | Jatin. | [Read More](https://medium.com/p/7b61dd89c7db) |
+| Thu, 13 Nov 2025 14:55:40 GMT | Why You Need Private Investigator On Suspicious Cheating Spouse - Professional Hackers | BlackHat | [Read More](https://medium.com/p/282a0ae25d72) |
+| Thu, 13 Nov 2025 14:52:33 GMT | Blog 49: AWS S3 — Transfer Acceleration & Requester Pays | Prutha_Dongre | [Read More](https://medium.com/p/d0e0432ed542) |
+| Thu, 13 Nov 2025 14:52:23 GMT | How to Test Your AI Chatbot’s Security in 4 Steps | TenXers | [Read More](https://medium.com/p/611f75b936d9) |
 | Thu, 13 Nov 2025 14:32:16 GMT | ️ How to Integrate DevSecOps into an Old Infrastructure Without Burning It Down | Anthonymatta | [Read More](https://medium.com/p/bd76676d9a05) |
 | Thu, 13 Nov 2025 14:29:07 GMT | LetsDefend — SOC274 Command Injection — (CVE-2024–3400) | Andrew Shires | [Read More](https://medium.com/p/8a62e56645fa) |
 | Thu, 13 Nov 2025 14:26:49 GMT | 8ksec FactsDroid android APK challenge writeup | bara almustafa | [Read More](https://medium.com/p/0a336be78b08) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 10:17:14 GMT | Building a Vulnerable Active Directory Lab for Penetration Testing: A Practical Walkthrough | Beri Contraster | [Read More](https://medium.com/p/b98a8a36aec3) |
 | Thu, 13 Nov 2025 10:11:12 GMT | Avast Antivirus Flaw: How a Bug Could Let Attackers Turn Off Your Protection (CVE-2025–10905) | CVEHUB | [Read More](https://medium.com/p/4fbe74437fc5) |
 | Thu, 13 Nov 2025 10:07:38 GMT | I reverse-engineered the legendary “You Are An Idiot” trojan and it’s simpler (and smarter) than I… | Harsh Raj Singhania | [Read More](https://medium.com/p/cbebd817f7fd) |
-| Thu, 13 Nov 2025 09:59:50 GMT | DockerLabs Writeup — Obsession (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/dfdd7006790d) |
-| Thu, 13 Nov 2025 09:57:03 GMT | How to Detect Screen Capture & Recording using Kotlin | Talsec | [Read More](https://medium.com/p/ec1801501cb6) |
-| Thu, 13 Nov 2025 09:53:32 GMT | Reconnaissance For WEB Site | Purushotham.R | [Read More](https://medium.com/p/935cc90002e4) |
-| Thu, 13 Nov 2025 09:51:48 GMT | How I Turned a Boring Image Downloader into an IDOR Goldmine | Shafayat Ahmed Alif | [Read More](https://medium.com/p/77a77d8c6c05) |
-| Thu, 13 Nov 2025 09:45:23 GMT | ประจำวันพฤหัสบดีที่ 13 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/bbf199ce014e) |
-| Thu, 13 Nov 2025 09:45:15 GMT | How to Ingest a Cyber Mentality Without Getting Technical | Anthonymatta | [Read More](https://medium.com/p/945d220a3f65) |
-| Thu, 13 Nov 2025 09:40:25 GMT | Networking | Soundaryaps | [Read More](https://medium.com/p/f3c32c32bc5a) |
-| Thu, 13 Nov 2025 09:34:39 GMT | Upskilling Trends 2026: Why Continuous Learning Is the New Competitive Edge | Netsmartz Academy | [Read More](https://medium.com/p/5ad16064f840) |
-| Thu, 13 Nov 2025 09:33:48 GMT | Secure Software Development Lifecycle: Concepts, Principles, and Governance | Tung Son Ngo | [Read More](https://medium.com/p/3781bfd374c1) |
-| Thu, 13 Nov 2025 09:28:45 GMT | Network Discovery Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/56362c885fa8) |
-| Thu, 13 Nov 2025 09:27:11 GMT | Fear of being vulnerable | sanj_giridhar | [Read More](https://medium.com/p/948f6aa8f90b) |
-| Thu, 13 Nov 2025 09:26:34 GMT | CYBER KALKI Medium account suspended | Cyber Kalki | [Read More](https://medium.com/p/c49fe61c8dc7) |
