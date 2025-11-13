@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 05:21:04 GMT | Important Security and Audit Middlewares while using Express in Node.js (Bonus point: GraphQL) | Jayant Varshney | [Read More](https://medium.com/p/cdd4d3c73c39) |
+| Thu, 13 Nov 2025 05:20:12 GMT | Mastering Kubernetes ConfigMaps & Secrets: Stop Hardcoding and Start Managing Configuration the… | Mehul Morker | [Read More](https://medium.com/p/dcca93585801) |
+| Thu, 13 Nov 2025 05:17:15 GMT | Docker Secrets Management: The DevOps Essential You Should Master | bektiaw | [Read More](https://medium.com/p/f27a4233fd1d) |
+| Thu, 13 Nov 2025 05:05:15 GMT | The Things I Never Say Out Loud | Kabii | [Read More](https://medium.com/p/e9ad1bc659dd) |
+| Thu, 13 Nov 2025 04:58:30 GMT | Block Attacks by Letting PHP Notice Unnatural Request Sequences | Asian Digital Hub | [Read More](https://medium.com/p/6ce5d3510fbd) |
+| Thu, 13 Nov 2025 04:56:01 GMT | How to Get Your First CVE as a Beginner | Harsh kothari | [Read More](https://medium.com/p/2d4122121ed4) |
+| Thu, 13 Nov 2025 04:55:31 GMT | When Your App Freezes, and So Does the User: My Take on “App Hangs in iOS” | Jennifer James | [Read More](https://medium.com/p/42cf17eff8d5) |
+| Thu, 13 Nov 2025 04:53:04 GMT | Who Should Pursue the ISSAP Certification? | InfosecTrain | [Read More](https://medium.com/p/a1c04284cf1a) |
+| Thu, 13 Nov 2025 04:51:56 GMT | How AI Becomes Disruptive? | InfosecTrain | [Read More](https://medium.com/p/7f7001e8c022) |
+| Thu, 13 Nov 2025 04:50:28 GMT | Elements of ISO 42001 AIMS Audits | InfosecTrain | [Read More](https://medium.com/p/62323a6d0f09) |
+| Thu, 13 Nov 2025 04:41:58 GMT | The Human-Centric Security Imperative: From Obstacle to Enabler | cyber_pix | [Read More](https://medium.com/p/abe26d464d70) |
+| Thu, 13 Nov 2025 04:41:15 GMT | How User-Space and Kernel-Space Affect Security in Linux | shresth paul | [Read More](https://medium.com/p/cb4f679d9ce7) |
+| Thu, 13 Nov 2025 04:31:32 GMT | A Day in the Life of a Hacker (Must Know, Don’t Skip) | Monu Jangra | [Read More](https://medium.com/p/08c12a461213) |
+| Thu, 13 Nov 2025 04:30:08 GMT | Saudi Arabia’s Cybersecurity Boom: What It Means for Your Career | Chetan R. | [Read More](https://medium.com/p/09d7dfb0c467) |
 | Thu, 13 Nov 2025 04:13:01 GMT | Improper Assets Management(Improper Inventory Management-2023) | Jei Ess | [Read More](https://medium.com/p/cf7f2790fa57) |
 | Thu, 13 Nov 2025 03:58:05 GMT | Smart API Security: The Power of Postman MCP and LLMs | Anurag Mewar | [Read More](https://medium.com/p/48d52f53480f) |
 | Thu, 13 Nov 2025 03:32:07 GMT | Learning Fortinet Firewall — LESSON XX: How to Create a Service Account | Rouell Mamaril | [Read More](https://medium.com/p/3ec974ab77e7) |
@@ -99,17 +113,3 @@ With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/
 | Wed, 12 Nov 2025 19:23:11 GMT | MCP and A2A in AI Agent Protocols — Security considerations (IV) — Artificial Intelligence Risk… | SOCFortress | [Read More](https://medium.com/p/ca6cfb23ed35) |
 | Wed, 12 Nov 2025 19:20:56 GMT | The Rise of Prompt Injection: When Words Become Weapons ️ | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/16b65cd8a929) |
 | Wed, 12 Nov 2025 19:08:55 GMT | Atone Bounties opportunity | 4th Eye Vision | [Read More](https://medium.com/p/1a65b52249e6) |
-| Wed, 12 Nov 2025 18:59:48 GMT | At the core of Microsoft Windows Server’s ecosystem lies a principle so ingrained it’s rarely… | Rodrigo Gutierrez | [Read More](https://medium.com/p/cd19167c3def) |
-| Wed, 12 Nov 2025 18:54:10 GMT | PHP for Pentesting — Day 2 | Bazil Brohi | [Read More](https://medium.com/p/ea490040290c) |
-| Wed, 12 Nov 2025 18:52:31 GMT | cyshield 2025 — Android CTF | everythingBlackkk | [Read More](https://medium.com/p/7c864f974c25) |
-| Wed, 12 Nov 2025 18:48:10 GMT | Kernel’dan User Modundaki Uygulamaya Handle Aktarımı | Batuhan Pekdur | [Read More](https://medium.com/p/decfd568a70c) |
-| Wed, 12 Nov 2025 18:46:15 GMT | Understanding the WannaCry Ransomware Attack | Gaurang | [Read More](https://medium.com/p/265c29835b1f) |
-| Wed, 12 Nov 2025 18:42:53 GMT | Prepare for the Google Professional Cloud Security Engineer Exam— 2025+ | Ammett W | [Read More](https://medium.com/p/42ec3743f97a) |
-| Wed, 12 Nov 2025 18:40:02 GMT | Whispers of a Woman’s Mind | Nazma Sultana | [Read More](https://medium.com/p/d5d9c34cab27) |
-| Wed, 12 Nov 2025 18:33:12 GMT | XLMRat Lab CyberDefenders | Fouad Shaheen | [Read More](https://medium.com/p/24d81be3026c) |
-| Wed, 12 Nov 2025 18:28:21 GMT | Pickle Rick — TryHackMe Walkthrough | devmorav | [Read More](https://medium.com/p/154df4016293) |
-| Wed, 12 Nov 2025 18:22:08 GMT | Ransomware vs Malware Explained — How They Work and How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/c931a7ee41da) |
-| Wed, 12 Nov 2025 18:16:57 GMT | When Love Starts Feeling One-Sided. | Bloom with Maria | [Read More](https://medium.com/p/11549fcbc94a) |
-| Wed, 12 Nov 2025 18:16:18 GMT | True Reason Why Hackers Don’t Use Windows | Abdullah Javeed | [Read More](https://medium.com/p/02dbd975741e) |
-| Wed, 12 Nov 2025 18:11:10 GMT | Watch Out: Mobile Malware That Targets Your Bank Cards | Cybersectoworld | [Read More](https://medium.com/p/3dfc5ffbfe5a) |
-| Wed, 12 Nov 2025 18:09:25 GMT | AI in Cybersecurity: How Machines Are Learning to Catch Hackers | Mubashir | [Read More](https://medium.com/p/87f1bdb40f71) |
