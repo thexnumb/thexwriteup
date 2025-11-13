@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 21:19:02 GMT | I’m Scared All The Time  — | Eleojo | [Read More](https://medium.com/p/76c14c395743) |
+| Thu, 13 Nov 2025 21:18:17 GMT | Why Password Managers Make You Anxious (And How Design Can Fix It) | KAMALJEET SINGH | [Read More](https://medium.com/p/ce8b0f9691a7) |
 | Thu, 13 Nov 2025 21:04:45 GMT | I am the First Person to be Enlightened by AI | Tyler Wall | [Read More](https://medium.com/p/28f97399fdeb) |
 | Thu, 13 Nov 2025 20:58:30 GMT | Write-up : TakeOver | DylanSec | [Read More](https://medium.com/p/b992ce9a1c2a) |
 | Thu, 13 Nov 2025 20:55:00 GMT | Introducing SOCFortress Capsules: Fast, Practical Security Walkthroughs for Modern SOC Teams… | SOCFortress | [Read More](https://medium.com/p/0de98e7a818b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 14:07:44 GMT | Dc:7 Vulnhub Walkthrough | Ankit Dhaka | [Read More](https://medium.com/p/39aa91a66a41) |
 | Thu, 13 Nov 2025 14:02:01 GMT | Day 12: Wireshark doo dooo do doo… | Siyam | [Read More](https://medium.com/p/77b0e6ea6c11) |
 | Thu, 13 Nov 2025 14:01:59 GMT | Series Round-Up: Tools, Trouble, and Trickery | OSINT Amy | [Read More](https://medium.com/p/ae9207aad181) |
-| Thu, 13 Nov 2025 13:57:53 GMT | Gallery — TryHackMe Walkthrough | devmorav | [Read More](https://medium.com/p/c5423ce7fd10) |
-| Thu, 13 Nov 2025 13:54:55 GMT | How I Found a Reflected XSS Using ParamSpider & Kxss | mohamed metwally | [Read More](https://medium.com/p/37a6b3e09ec8) |
