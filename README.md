@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 04:13:01 GMT | Improper Assets Management(Improper Inventory Management-2023) | Jei Ess | [Read More](https://medium.com/p/cf7f2790fa57) |
+| Thu, 13 Nov 2025 03:58:05 GMT | Smart API Security: The Power of Postman MCP and LLMs | Anurag Mewar | [Read More](https://medium.com/p/48d52f53480f) |
 | Thu, 13 Nov 2025 03:32:07 GMT | Learning Fortinet Firewall — LESSON XX: How to Create a Service Account | Rouell Mamaril | [Read More](https://medium.com/p/3ec974ab77e7) |
 | Thu, 13 Nov 2025 03:26:16 GMT | $4500 Local File Inclusion: The Tiny Parameter That Exposed an Entire Infrastructure | Swapnil Ade | [Read More](https://medium.com/p/74f7d3cc669c) |
 | Thu, 13 Nov 2025 03:21:06 GMT | The New World Next Door: How Globalization Shapes a Young Filipino’s View on Politics and Safety | Mark Welly Pardillo | [Read More](https://medium.com/p/ecac9e363eee) |
@@ -96,6 +98,7 @@ With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/
 | Wed, 12 Nov 2025 19:27:37 GMT | An OSINT Case Study on Railway Infrastructure Using Modat Magnify | hacker_might | [Read More](https://medium.com/p/2650699c0a08) |
 | Wed, 12 Nov 2025 19:23:11 GMT | MCP and A2A in AI Agent Protocols — Security considerations (IV) — Artificial Intelligence Risk… | SOCFortress | [Read More](https://medium.com/p/ca6cfb23ed35) |
 | Wed, 12 Nov 2025 19:20:56 GMT | The Rise of Prompt Injection: When Words Become Weapons ️ | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/16b65cd8a929) |
+| Wed, 12 Nov 2025 19:08:55 GMT | Atone Bounties opportunity | 4th Eye Vision | [Read More](https://medium.com/p/1a65b52249e6) |
 | Wed, 12 Nov 2025 18:59:48 GMT | At the core of Microsoft Windows Server’s ecosystem lies a principle so ingrained it’s rarely… | Rodrigo Gutierrez | [Read More](https://medium.com/p/cd19167c3def) |
 | Wed, 12 Nov 2025 18:54:10 GMT | PHP for Pentesting — Day 2 | Bazil Brohi | [Read More](https://medium.com/p/ea490040290c) |
 | Wed, 12 Nov 2025 18:52:31 GMT | cyshield 2025 — Android CTF | everythingBlackkk | [Read More](https://medium.com/p/7c864f974c25) |
@@ -110,6 +113,3 @@ With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/
 | Wed, 12 Nov 2025 18:16:18 GMT | True Reason Why Hackers Don’t Use Windows | Abdullah Javeed | [Read More](https://medium.com/p/02dbd975741e) |
 | Wed, 12 Nov 2025 18:11:10 GMT | Watch Out: Mobile Malware That Targets Your Bank Cards | Cybersectoworld | [Read More](https://medium.com/p/3dfc5ffbfe5a) |
 | Wed, 12 Nov 2025 18:09:25 GMT | AI in Cybersecurity: How Machines Are Learning to Catch Hackers | Mubashir | [Read More](https://medium.com/p/87f1bdb40f71) |
-| Wed, 12 Nov 2025 18:09:18 GMT | The Gate of the Panopticon | Khoiru Rizal | [Read More](https://medium.com/p/a4956a384b9b) |
-| Wed, 12 Nov 2025 18:04:58 GMT | How a Simple 401 Error Revealed the Keys to the Kingdom | Mayowa omolabi | [Read More](https://medium.com/p/880ad7b35353) |
-| Wed, 12 Nov 2025 18:02:06 GMT | 10 FastAPI Security Designs (JWT/OAuth2) With No Latency Penalty | Thinking Loop | [Read More](https://medium.com/p/79ad33c04a96) |
