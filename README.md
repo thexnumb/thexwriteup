@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 09:28:45 GMT | Network Discovery Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/56362c885fa8) |
+| Thu, 13 Nov 2025 09:27:11 GMT | Fear of being vulnerable | sanj_giridhar | [Read More](https://medium.com/p/948f6aa8f90b) |
+| Thu, 13 Nov 2025 09:26:34 GMT | CYBER KALKI Medium account suspended | Cyber Kalki | [Read More](https://medium.com/p/c49fe61c8dc7) |
+| Thu, 13 Nov 2025 09:24:01 GMT | Demystifying Domain Nesting: From Root Domains to Subdomains | RJ Patel | [Read More](https://medium.com/p/328afb98eb1a) |
 | Thu, 13 Nov 2025 09:19:00 GMT | I Failed OSCP Three Times — Here’s the Study Plan That Finally Worked | Muhammad Haider Tallal | [Read More](https://medium.com/p/75b351f87d67) |
+| Thu, 13 Nov 2025 09:18:54 GMT | How Teclonex Delivers the Best IT Support Services in Dubai | Inshidhackm | [Read More](https://medium.com/p/5740aa9ca238) |
 | Thu, 13 Nov 2025 09:17:49 GMT | Free Code Isn’t Free: The Security Debt of Open-Source and Automation | Through Smriti's Lens | [Read More](https://medium.com/p/4eafa1ef805b) |
 | Thu, 13 Nov 2025 09:12:10 GMT | Making Encryption Smarter: What If We Could Teach Ciphers to Learn? | Eke Chukwudi | [Read More](https://medium.com/p/93dde8d27b2b) |
 | Thu, 13 Nov 2025 09:08:20 GMT | The Unseen Hand: Prompt Injection Isn’t a Model Flaw - It’s a Supply-Chain Breach | Michael Arty - Music A&R - Entertainment - | [Read More](https://medium.com/p/28d8d5b5906f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 03:21:06 GMT | The New World Next Door: How Globalization Shapes a Young Filipino’s View on Politics and Safety | Mark Welly Pardillo | [Read More](https://medium.com/p/ecac9e363eee) |
 | Thu, 13 Nov 2025 03:18:54 GMT | Google’s Private AI Compute: cloud muscle without giving up your data | Codingo Singapore | [Read More](https://medium.com/p/0fe5ecf6d7f4) |
 | Thu, 13 Nov 2025 03:18:26 GMT | The Intelligent Visitor: Real Strategies for Exploring the Darkweb Without Leaving Traces | Rodrigo Gutierrez | [Read More](https://medium.com/p/2a24b29b3497) |
-| Thu, 13 Nov 2025 03:14:10 GMT | The Illusion of Safety: Why Legacy Systems Are Banks’ Biggest Risk | ITAsoft Indonesia | [Read More](https://medium.com/p/91204dc2ac7c) |
-| Thu, 13 Nov 2025 03:11:29 GMT | Input Manipulation & Prompt Injection — Tryhackme | Mr.Cool | [Read More](https://medium.com/p/93b79d2bf0d8) |
-| Thu, 13 Nov 2025 03:09:42 GMT | Why CREST-Certified Cybersecurity Companies Matter in Singapore | Dianna Johnson | [Read More](https://medium.com/p/a593ac2eba58) |
-| Thu, 13 Nov 2025 03:09:24 GMT | Mastering Live PHP Debugging with Xdebug and VS Code (Perfect for OSWE Prep) | Anekant Singhai Jain | [Read More](https://medium.com/p/58eeb7ab4b9c) |
-| Thu, 13 Nov 2025 03:07:05 GMT | OWASP Top 10 (2025): What’s New & What It Means for Your AppSec Roadmap | Mr Madani | [Read More](https://medium.com/p/3b44f0ebe06a) |
