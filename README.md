@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 11:34:11 GMT | Day 2/100: Temporary User Setup with Expiry | Kripal Parsekar | [Read More](https://medium.com/p/b79b62d79c65) |
+| Thu, 13 Nov 2025 11:33:59 GMT | How to Choose the Right Bug Bounty Program: A Complete Guide for Ethical Hackers | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/72f52e16e360) |
+| Thu, 13 Nov 2025 11:28:01 GMT | MuddyWater’s Latest Malware Suite Exposed: A Global Espionage Campaign | Himanshu Bhatt | [Read More](https://medium.com/p/3112367f32fd) |
+| Thu, 13 Nov 2025 11:24:35 GMT | Static Malware Analysis with Remnux (CyberSecurity Bootcamp by CybeCloud) | CybeCloud | [Read More](https://medium.com/p/dbc824c651d0) |
+| Thu, 13 Nov 2025 11:23:05 GMT | ️ How to Protect APIs from Unauthorised Access and Overuse | Ravi | [Read More](https://medium.com/p/21b7bfc68e73) |
+| Thu, 13 Nov 2025 11:22:38 GMT | Blockchain AML Screening and Monitoring: The Future of Financial Integrity | QuppyAMLBOT | [Read More](https://medium.com/p/398377c1a731) |
+| Thu, 13 Nov 2025 11:22:04 GMT | Why ServiceNow GRC is essential for compliance-driven industries | Alex s | [Read More](https://medium.com/p/5e19fa7a103d) |
+| Thu, 13 Nov 2025 11:17:30 GMT | Introducing Miso Security: Real-Time Protection for Individuals Against Telegram Stealer Logs | Ron Agnos | [Read More](https://medium.com/p/9c73b079a4cd) |
 | Thu, 13 Nov 2025 11:15:02 GMT | Cloud Telephony Services in India | Ashutosh Mallik | [Read More](https://medium.com/p/66969811086a) |
 | Thu, 13 Nov 2025 11:03:59 GMT | Lab 4: DOM XSS in `innerHTML` Sink Using Source `location.search` | Apexium Technologies Ltd | [Read More](https://medium.com/p/66928f47437f) |
 | Thu, 13 Nov 2025 11:02:23 GMT | Master the Psychology Behind Phishing Success: Learn How Attackers Really Hack Humans | Very Lazy Tech | [Read More](https://medium.com/p/154727c0518e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 06:36:40 GMT | “Advance Your IT Career with Ethical Hacking Training at BIA Institute” | Afreedalok | [Read More](https://medium.com/p/c04a1facf121) |
 | Thu, 13 Nov 2025 06:35:03 GMT | The Ultimate Guide to Small Business Antivirus: Protect Your Company | Steven Chin | [Read More](https://medium.com/p/739e2f9b90a0) |
 | Thu, 13 Nov 2025 06:32:14 GMT | Create the perfect Amazon Wedding & Baby Registry: easy, trusted, and made for real life | Divine Emmanuel | [Read More](https://medium.com/p/bda9c8a72ac9) |
-| Thu, 13 Nov 2025 06:28:29 GMT | My First Bug Bounty Experience | Abdullah Javeed | [Read More](https://medium.com/p/9897db5c3076) |
-| Thu, 13 Nov 2025 06:28:10 GMT | Top 10 AI app Development Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/35482270822c) |
-| Thu, 13 Nov 2025 06:21:47 GMT | Server Deployment: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/f237bfe8cd85) |
-| Thu, 13 Nov 2025 06:16:49 GMT | BOLA | Ghost0Sun | [Read More](https://medium.com/p/5e3d9545921c) |
-| Thu, 13 Nov 2025 06:16:44 GMT | What Perth Homeowners Should Know About Modern Intercom Systems | Securitec Security | [Read More](https://medium.com/p/2072a8943a59) |
-| Thu, 13 Nov 2025 06:12:01 GMT | The Emotional Cost of Being “The Strong One” | Abhinav Misra | [Read More](https://medium.com/p/aae98b75adc7) |
-| Thu, 13 Nov 2025 06:11:57 GMT | Why the World Needs a Self-Healing LLM | Bhawini. | [Read More](https://medium.com/p/06cde624de35) |
-| Thu, 13 Nov 2025 06:09:02 GMT | The Daily Tech Digest: 13 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/537c0f83514b) |
