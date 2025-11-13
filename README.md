@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 23:27:18 GMT | Officer Snaggletooth and the Static of Justice: part 2 | Lea Martin | [Read More](https://medium.com/p/a6904997b232) |
+| Thu, 13 Nov 2025 23:19:40 GMT | The Bridge Between Justice and Cybersecurity | Anum Khan | [Read More](https://medium.com/p/6e63a0d18d71) |
 | Thu, 13 Nov 2025 23:17:17 GMT | Somewhere in Between | Jana Gauthier | [Read More](https://medium.com/p/b91323636833) |
 | Thu, 13 Nov 2025 23:06:51 GMT | [Wait_for_the_Clock] — [Digital Forensics] — [Cyber Sprint 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/96f5ad6a902a) |
 | Thu, 13 Nov 2025 22:43:59 GMT | The Quiet Collapse: Why Cybersecurity Fatigue Is the Greatest Threat MSPs Aren’t Talking About | Donald Betancourt | [Read More](https://medium.com/p/80687de01f92) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 15:25:54 GMT | TryHackMe Pickle Rick Write-Up | Emir Fatih AYYILDIZ | [Read More](https://medium.com/p/5b3b4d294de4) |
 | Thu, 13 Nov 2025 15:24:52 GMT | AUKUS Just Quietly Rewrote the Rules on AI – and Most Boards Haven’t Noticed | AXSAS | [Read More](https://medium.com/p/b3fc6f6142a9) |
 | Thu, 13 Nov 2025 15:20:31 GMT | OWASP TOP 10:-2025 | Ashishsinghu | [Read More](https://medium.com/p/43b4292ffd5a) |
-| Thu, 13 Nov 2025 15:20:00 GMT | Security Misconfiguration? Sounds like a job for Agent Burt Macklin | Jen Cracchiola | [Read More](https://medium.com/p/507b061647f2) |
-| Thu, 13 Nov 2025 15:15:45 GMT | 45 Days of Cybersecurity Days 4–7 | Wandesrtech | [Read More](https://medium.com/p/e54454feb34c) |
