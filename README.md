@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 03:32:07 GMT | Learning Fortinet Firewall — LESSON XX: How to Create a Service Account | Rouell Mamaril | [Read More](https://medium.com/p/3ec974ab77e7) |
+| Thu, 13 Nov 2025 03:26:16 GMT | $4500 Local File Inclusion: The Tiny Parameter That Exposed an Entire Infrastructure | Swapnil Ade | [Read More](https://medium.com/p/74f7d3cc669c) |
+| Thu, 13 Nov 2025 03:21:06 GMT | The New World Next Door: How Globalization Shapes a Young Filipino’s View on Politics and Safety | Mark Welly Pardillo | [Read More](https://medium.com/p/ecac9e363eee) |
+| Thu, 13 Nov 2025 03:18:54 GMT | Google’s Private AI Compute: cloud muscle without giving up your data | Codingo Singapore | [Read More](https://medium.com/p/0fe5ecf6d7f4) |
+| Thu, 13 Nov 2025 03:18:26 GMT | The Intelligent Visitor: Real Strategies for Exploring the Darkweb Without Leaving Traces | Rodrigo Gutierrez | [Read More](https://medium.com/p/2a24b29b3497) |
+| Thu, 13 Nov 2025 03:14:10 GMT | The Illusion of Safety: Why Legacy Systems Are Banks’ Biggest Risk | ITAsoft Indonesia | [Read More](https://medium.com/p/91204dc2ac7c) |
 | Thu, 13 Nov 2025 03:11:29 GMT | Input Manipulation & Prompt Injection — Tryhackme | Mr.Cool | [Read More](https://medium.com/p/93b79d2bf0d8) |
 | Thu, 13 Nov 2025 03:09:42 GMT | Why CREST-Certified Cybersecurity Companies Matter in Singapore | Dianna Johnson | [Read More](https://medium.com/p/a593ac2eba58) |
+| Thu, 13 Nov 2025 03:09:24 GMT | Mastering Live PHP Debugging with Xdebug and VS Code (Perfect for OSWE Prep) | Anekant Singhai Jain | [Read More](https://medium.com/p/58eeb7ab4b9c) |
 | Thu, 13 Nov 2025 03:07:05 GMT | OWASP Top 10 (2025): What’s New & What It Means for Your AppSec Roadmap | Mr Madani | [Read More](https://medium.com/p/3b44f0ebe06a) |
 | Thu, 13 Nov 2025 03:06:30 GMT | Vibe Coding is Insecure Coding: 5 Security Habits Every Developer Needs to Learn the Hard Way | NextGenTech | [Read More](https://medium.com/p/d2e9c0a4c580) |
 | Thu, 13 Nov 2025 02:58:34 GMT | 스터닝 채용 과제, 직접 만들어봤습니다 | stunning | [Read More](https://medium.com/p/b44ac93e9610) |
@@ -106,10 +113,3 @@ With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/
 | Wed, 12 Nov 2025 18:09:18 GMT | The Gate of the Panopticon | Khoiru Rizal | [Read More](https://medium.com/p/a4956a384b9b) |
 | Wed, 12 Nov 2025 18:04:58 GMT | How a Simple 401 Error Revealed the Keys to the Kingdom | Mayowa omolabi | [Read More](https://medium.com/p/880ad7b35353) |
 | Wed, 12 Nov 2025 18:02:06 GMT | 10 FastAPI Security Designs (JWT/OAuth2) With No Latency Penalty | Thinking Loop | [Read More](https://medium.com/p/79ad33c04a96) |
-| Wed, 12 Nov 2025 18:01:24 GMT | The Cache Poisoning Bible: Part 2 — Exotic Header Exploitation | Abhishek meena | [Read More](https://medium.com/p/d074746690cb) |
-| Wed, 12 Nov 2025 18:00:44 GMT | The Easiest Way Hackers Steal Your Passwords (and How to Stop Them) | Hania Khan | [Read More](https://medium.com/p/7a899b11f97f) |
-| Wed, 12 Nov 2025 17:53:53 GMT | Hacking, VMs, Linux & Networking — a compact guide | Adhwaith A S | [Read More](https://medium.com/p/71e38523128e) |
-| Wed, 12 Nov 2025 17:49:03 GMT | The Identity Shift: Why IAM is Becoming the Heart of Enterprise Security | Sunnysinha | [Read More](https://medium.com/p/d100751b00ab) |
-| Wed, 12 Nov 2025 17:47:38 GMT | The Passive OSINT Toolkit: +15 Information Gathering & Recon Tools Every Ethical Hacker Should Know | Omar Maged Ahmed | [Read More](https://medium.com/p/b90db8766672) |
-| Wed, 12 Nov 2025 17:37:09 GMT | Tiny but Mighty: 10 Raspberry Pi Pico 2 W Cybersecurity Projects You Can Build in a Weekend | Jesse Ridley | [Read More](https://medium.com/p/1f87ee6c6125) |
-| Wed, 12 Nov 2025 17:30:40 GMT | Lightweight Cryptographfor Resource-Constrained Devices | Dhruv Jain | [Read More](https://medium.com/p/c0d47570c5d1) |
