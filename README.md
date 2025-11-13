@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 14:32:16 GMT | ️ How to Integrate DevSecOps into an Old Infrastructure Without Burning It Down | Anthonymatta | [Read More](https://medium.com/p/bd76676d9a05) |
+| Thu, 13 Nov 2025 14:29:07 GMT | LetsDefend — SOC274 Command Injection — (CVE-2024–3400) | Andrew Shires | [Read More](https://medium.com/p/8a62e56645fa) |
+| Thu, 13 Nov 2025 14:26:49 GMT | 8ksec FactsDroid android APK challenge writeup | bara almustafa | [Read More](https://medium.com/p/0a336be78b08) |
+| Thu, 13 Nov 2025 14:18:07 GMT | German Police Detain Dark Web Hit-List Operator: Key Insights for Researchers | Tor BBB | [Read More](https://medium.com/p/5c1233a06144) |
+| Thu, 13 Nov 2025 14:12:00 GMT | Who’s Watching Your Network When You’re Not? | QualityIP | [Read More](https://medium.com/p/cecbe567bd18) |
+| Thu, 13 Nov 2025 14:12:00 GMT | Neurotechnology’s (Wearables) New Frontier: AI Protecting the Human Mind, And UNESCO’s Recent… | Ross W. Green, MD (CustomAI Studio) | [Read More](https://medium.com/p/71184858706f) |
+| Thu, 13 Nov 2025 14:11:11 GMT | Why Cyber Attacks in Dubai Are Rising — And How Businesses Can Stay Protected | Ayeshatariq | [Read More](https://medium.com/p/ffedea603fa2) |
+| Thu, 13 Nov 2025 14:08:01 GMT | Capítulo 2 — A Cidade dos Dados | Kleber Andrade | [Read More](https://medium.com/p/524e29df9751) |
 | Thu, 13 Nov 2025 14:07:44 GMT | Dc:7 Vulnhub Walkthrough | Ankit Dhaka | [Read More](https://medium.com/p/39aa91a66a41) |
+| Thu, 13 Nov 2025 14:02:01 GMT | Day 12: Wireshark doo dooo do doo… | Siyam | [Read More](https://medium.com/p/77b0e6ea6c11) |
 | Thu, 13 Nov 2025 14:01:59 GMT | Series Round-Up: Tools, Trouble, and Trickery | OSINT Amy | [Read More](https://medium.com/p/ae9207aad181) |
 | Thu, 13 Nov 2025 13:57:53 GMT | Gallery — TryHackMe Walkthrough | devmorav | [Read More](https://medium.com/p/c5423ce7fd10) |
 | Thu, 13 Nov 2025 13:54:55 GMT | How I Found a Reflected XSS Using ParamSpider & Kxss | mohamed metwally | [Read More](https://medium.com/p/37a6b3e09ec8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 09:28:45 GMT | Network Discovery Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/56362c885fa8) |
 | Thu, 13 Nov 2025 09:27:11 GMT | Fear of being vulnerable | sanj_giridhar | [Read More](https://medium.com/p/948f6aa8f90b) |
 | Thu, 13 Nov 2025 09:26:34 GMT | CYBER KALKI Medium account suspended | Cyber Kalki | [Read More](https://medium.com/p/c49fe61c8dc7) |
-| Thu, 13 Nov 2025 09:24:01 GMT | Demystifying Domain Nesting: From Root Domains to Subdomains | RJ Patel | [Read More](https://medium.com/p/328afb98eb1a) |
-| Thu, 13 Nov 2025 09:19:00 GMT | I Failed OSCP Three Times — Here’s the Study Plan That Finally Worked | Muhammad Haider Tallal | [Read More](https://medium.com/p/75b351f87d67) |
-| Thu, 13 Nov 2025 09:18:54 GMT | How Teclonex Delivers the Best IT Support Services in Dubai | Inshidhackm | [Read More](https://medium.com/p/5740aa9ca238) |
-| Thu, 13 Nov 2025 09:17:49 GMT | Free Code Isn’t Free: The Security Debt of Open-Source and Automation | Through Smriti's Lens | [Read More](https://medium.com/p/4eafa1ef805b) |
-| Thu, 13 Nov 2025 09:12:10 GMT | Making Encryption Smarter: What If We Could Teach Ciphers to Learn? | Eke Chukwudi | [Read More](https://medium.com/p/93dde8d27b2b) |
-| Thu, 13 Nov 2025 09:08:20 GMT | The Unseen Hand: Prompt Injection Isn’t a Model Flaw - It’s a Supply-Chain Breach | Michael Arty - Music A&R - Entertainment - | [Read More](https://medium.com/p/28d8d5b5906f) |
-| Thu, 13 Nov 2025 09:03:35 GMT | Is Your Token Invisible? The Simple Reason STON.fi Hides Some Assets (It’s All About Protection!) | MADEOFBLU | [Read More](https://medium.com/p/ce55f26b7ea9) |
-| Thu, 13 Nov 2025 09:02:32 GMT | Part IX — Vault Chronicles: Closure | Raymon Epping | [Read More](https://medium.com/p/28c0a4d20ddf) |
-| Thu, 13 Nov 2025 09:02:31 GMT | DevSecOps Demystified: Secure CI/CD, For Real | Syntal | [Read More](https://medium.com/p/18999a684ca9) |
