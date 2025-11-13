@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 21:04:45 GMT | I am the First Person to be Enlightened by AI | Tyler Wall | [Read More](https://medium.com/p/28f97399fdeb) |
+| Thu, 13 Nov 2025 20:58:30 GMT | Write-up : TakeOver | DylanSec | [Read More](https://medium.com/p/b992ce9a1c2a) |
+| Thu, 13 Nov 2025 20:55:00 GMT | Introducing SOCFortress Capsules: Fast, Practical Security Walkthroughs for Modern SOC Teams… | SOCFortress | [Read More](https://medium.com/p/0de98e7a818b) |
+| Thu, 13 Nov 2025 20:50:25 GMT | Please  Stop waste your time for reporting a false security vulnerabilities used AI! | Kocheengtom | [Read More](https://medium.com/p/09243aba8af1) |
+| Thu, 13 Nov 2025 20:37:39 GMT | Stop a CrowdStrike-Type Incident from Crippling Your Business: Build Endpoint Resilience | IT_Engineer | [Read More](https://medium.com/p/b17bd6139f54) |
+| Thu, 13 Nov 2025 20:36:39 GMT | There are no heros in enterprise | Alex R. | [Read More](https://medium.com/p/3640d4c8bf70) |
 | Thu, 13 Nov 2025 20:18:55 GMT | Physically bypassing Windows Tamper Protection — a responsible disclosure | err0rgod | [Read More](https://medium.com/p/f437a41863b5) |
 | Thu, 13 Nov 2025 20:07:35 GMT | Wicys SANS 2025 THM CTF — Web Exploitation walkthrough | lyna Ben yakoub | [Read More](https://medium.com/p/b34a4a368c45) |
 | Thu, 13 Nov 2025 20:05:21 GMT | Time Necromancy: Python Scripts That Resurrect Lost Hours | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b3e51411dbf4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 14:01:59 GMT | Series Round-Up: Tools, Trouble, and Trickery | OSINT Amy | [Read More](https://medium.com/p/ae9207aad181) |
 | Thu, 13 Nov 2025 13:57:53 GMT | Gallery — TryHackMe Walkthrough | devmorav | [Read More](https://medium.com/p/c5423ce7fd10) |
 | Thu, 13 Nov 2025 13:54:55 GMT | How I Found a Reflected XSS Using ParamSpider & Kxss | mohamed metwally | [Read More](https://medium.com/p/37a6b3e09ec8) |
-| Thu, 13 Nov 2025 13:49:57 GMT | Liderar é conduzir pelo exemplo. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/9950814ad6f6) |
-| Thu, 13 Nov 2025 13:48:32 GMT | NordVPN Black Friday: Your Guide to the Best Deals | Craig Krebstel | [Read More](https://medium.com/p/6450b83f3c09) |
-| Thu, 13 Nov 2025 13:43:54 GMT | How to Find and Protect Yourself from Chase Phishing Emails in 2025 | Awais Khan | [Read More](https://medium.com/p/7f94d9eeb3f7) |
-| Thu, 13 Nov 2025 13:43:35 GMT | Why a Licensed Security Guards Company in Singapore Is Essential for Safety | Jane Tang | [Read More](https://medium.com/p/7d2f3dd17d48) |
-| Thu, 13 Nov 2025 13:41:57 GMT | How to Align Garage Door Sensors: Tips From Professionals | Up & Down Garage Door Services | [Read More](https://medium.com/p/b5daef8f4358) |
-| Thu, 13 Nov 2025 13:40:57 GMT | Why Smart People Get Scammed: The Hidden Psychology Behind Modern Manipulation | The Forensic Mind | [Read More](https://medium.com/p/736a17464580) |
