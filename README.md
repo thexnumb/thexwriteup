@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 07:34:46 GMT | Hackviser - Salem’s Curse (Hallowen) | Tolga Can | [Read More](https://medium.com/p/61cc6d45934e) |
+| Thu, 13 Nov 2025 07:33:39 GMT | Why Two-Way Verification Is Essential for Securing Your Social Media Accounts | Zeeshan Masood Keyani | [Read More](https://medium.com/p/0daa097f32f9) |
+| Thu, 13 Nov 2025 07:28:01 GMT | Cloud Security Lessons from the Capital One Breach: Strengthening Virtualization and Cloud Defenses | Anderson Santos | [Read More](https://medium.com/p/8f686c56102a) |
+| Thu, 13 Nov 2025 07:26:57 GMT | Why Your “Clean Code” Still Has Bugs-The Unseen Threat of Poor Requirements ️ | Hitesh Gera | [Read More](https://medium.com/p/2fad961228a3) |
+| Thu, 13 Nov 2025 07:19:54 GMT | Bypassing Content Filter with Browser Isolation | Mina Ghaly | [Read More](https://medium.com/p/f323d23cfeaa) |
 | Thu, 13 Nov 2025 07:16:15 GMT | Bypassing Authentication in a Major API Gateway: A Path Normalization Story | Dipanshu Chhanikar | [Read More](https://medium.com/p/5f1bea6d3f08) |
 | Thu, 13 Nov 2025 07:13:39 GMT | AI Cloud Security: Securing Cloud Infrastructure with Artificial Intelligence | QualysecEurope | [Read More](https://medium.com/p/b0b07109416c) |
 | Thu, 13 Nov 2025 07:12:26 GMT | Reverse-Engineering Upload Names to Win an IDOR Bug | Kazi Sabbir | [Read More](https://medium.com/p/296f7e068c1a) |
+| Thu, 13 Nov 2025 07:10:51 GMT | RN Payments Powerhouse: Integrating Midtrans, Xendit, or Stripe with Webhook Security (The… | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/321f5b266906) |
 | Thu, 13 Nov 2025 07:02:49 GMT | Bug Bounty Hunting — Complete Guide (Part-143) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/89516bc6830d) |
 | Thu, 13 Nov 2025 07:00:46 GMT | Bug Bounty Hunting — Complete Guide (Part-142) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/c4d72c123c57) |
 | Thu, 13 Nov 2025 06:59:05 GMT | Bug Bounty Hunting — Complete Guide (Part-141) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/d4dec569e264) |
@@ -107,9 +113,3 @@ With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/
 | Wed, 12 Nov 2025 22:08:51 GMT | Not All Metrics Are Equal. These KPIs Drive Impact. | Fook Hwa Tan | [Read More](https://medium.com/p/0fcc0b494d3f) |
 | Wed, 12 Nov 2025 22:07:47 GMT | How We Guide Clients Across Strategy, Risk & Execution — Inside Our Managed Security Office | Fook Hwa Tan | [Read More](https://medium.com/p/6e0a9a6bf9b6) |
 | Wed, 12 Nov 2025 22:05:39 GMT | Stop Treating Audits Like Checklists. Here’s a Better Way. | Fook Hwa Tan | [Read More](https://medium.com/p/39d19cbbb145) |
-| Wed, 12 Nov 2025 21:59:46 GMT | Salesforce Marketing Cloud: Why You Need a Consultant | Digital Transformation Playbook | [Read More](https://medium.com/p/2f9f122d95b1) |
-| Wed, 12 Nov 2025 21:57:20 GMT | Le développement sécurisé | Florent M | [Read More](https://medium.com/p/47f25d6fa155) |
-| Wed, 12 Nov 2025 21:52:19 GMT | Exploits de kernel - 6 estrategias para protegerse | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/6afb6405f9cd) |
-| Wed, 12 Nov 2025 21:51:55 GMT | PortSwiggerInformation disclosure LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/89442f03c9b6) |
-| Wed, 12 Nov 2025 21:42:39 GMT | The $697 Million Heartbreak: What Romance Scammers Know About You (That You Don’t) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/dc11021c548d) |
-| Wed, 12 Nov 2025 21:40:52 GMT | O Guia de Sobrevivência Digital Para Quem Não Quer Virar Meme | Jonathan M. | [Read More](https://medium.com/p/1837f9819159) |
