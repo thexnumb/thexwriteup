@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 13:27:02 GMT | How to Find P1 Bugs using Google in your Target — (Part-2) | RivuDon | [Read More](https://medium.com/p/d37a9bb0b2e7) |
+| Thu, 13 Nov 2025 13:26:31 GMT | Securing Remote Work: Your Current Strategy Is Creating The Risk It’s Meant to Prevent | Tyson Martin | [Read More](https://medium.com/p/0f234e2c6e5f) |
+| Thu, 13 Nov 2025 13:24:55 GMT | Advanced Audit and Security Controls for Jira Cloud Enterprise | Erdem UÇAK | [Read More](https://medium.com/p/fbd48b031f5b) |
+| Thu, 13 Nov 2025 13:20:56 GMT | I Could Change Anyone’s Email Preferences — Without Logging In | Munna✨ | [Read More](https://medium.com/p/dc228b541ef9) |
+| Thu, 13 Nov 2025 13:03:53 GMT | The Hidden ROI-Killer in Your AI-Driven Workflows: Uncontrolled Access | Frank Kresse | [Read More](https://medium.com/p/10f3d3048ef2) |
+| Thu, 13 Nov 2025 12:58:33 GMT | The Code You Didn’t Write: How Transitive Dependencies Became Your Greatest Security Liability | Patrick Lefler | [Read More](https://medium.com/p/d4e469e5caf5) |
+| Thu, 13 Nov 2025 12:56:19 GMT | Letters On Linux Security — By Salah Alaya | Salah Alaya | [Read More](https://medium.com/p/02ad460d60dc) |
+| Thu, 13 Nov 2025 12:55:24 GMT | TakeFile The Fast, Secure, and Reliable Way to Download Large Files in 2025 | Filevipo | [Read More](https://medium.com/p/c4ee3584aa17) |
+| Thu, 13 Nov 2025 12:55:05 GMT | What is GRC (and GRC Engineering) , and why is it more complicated than you think! | Harsh Kahate | [Read More](https://medium.com/p/70e55fd3623d) |
+| Thu, 13 Nov 2025 12:49:16 GMT | From Racks to Rooms: Complete Data Centre Security in Bahrain & GCC | Tekhabeeb | [Read More](https://medium.com/p/a2fd2f5fbd8b) |
+| Thu, 13 Nov 2025 12:48:01 GMT | Transnational Repression on Campus: The West’s Research-Security Blind Spot | Brian Iselin | [Read More](https://medium.com/p/1c7ad275b46b) |
+| Thu, 13 Nov 2025 12:45:20 GMT | ⚠️ Une nouvelle faille critique dans Active Directory : la délégation Kerberos vulnérable à une… | Limeryem | [Read More](https://medium.com/p/c3730a5fae51) |
 | Thu, 13 Nov 2025 12:42:09 GMT | Guys pls a question:my Okx wallet holds 5,000. USDT, and I have the 12 words phrase: | Joelle luxer | [Read More](https://medium.com/p/029daf5abc93) |
 | Thu, 13 Nov 2025 12:41:51 GMT | Feeling Vulnerable At Work II | Kirsty Tither | [Read More](https://medium.com/p/11b1d60012bf) |
 | Thu, 13 Nov 2025 12:40:35 GMT | Strengthening npm Security: What Package Maintainers Need to Know | Dhanush N | [Read More](https://medium.com/p/0bcdb8b7ad65) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 08:20:04 GMT | Craft Your Own CSP: A Head of Security’s Guide to Locking Down Your Website | Ladecruze | [Read More](https://medium.com/p/cf207d1d50d9) |
 | Thu, 13 Nov 2025 08:18:35 GMT | My CISM Journey at 26 — How I Qualified and Passed | Taipun | [Read More](https://medium.com/p/1516fb4a597a) |
 | Thu, 13 Nov 2025 08:16:33 GMT | What Makes a Good CCTV Monitoring Provider in 2025 | Global CCTV Monitoring Services | [Read More](https://medium.com/p/775df8c71bc4) |
-| Thu, 13 Nov 2025 08:13:13 GMT | LetsDefend — SOC141: Phishing URL Analysis (Event ID 86) | Soumodeep Das | [Read More](https://medium.com/p/252873ddd242) |
-| Thu, 13 Nov 2025 08:08:20 GMT | BO - Broken Authentication | Ghost0Sun | [Read More](https://medium.com/p/94c900a0b4c1) |
-| Thu, 13 Nov 2025 08:05:03 GMT | Row Level Security (RLS) in PostgreSQL | Mozaffaritabar H | [Read More](https://medium.com/p/497695f5145e) |
-| Thu, 13 Nov 2025 08:04:12 GMT | Elastic Stack: The Basics - TryHackMe —Core SOC Solutions | Kate D Terracore | [Read More](https://medium.com/p/23dc5bb6e3e7) |
-| Thu, 13 Nov 2025 08:03:36 GMT | Why Linux Will Quietly Win the Future, Even If Most People Never Notice | Fateyaly | [Read More](https://medium.com/p/19b8074de7d6) |
-| Thu, 13 Nov 2025 08:02:48 GMT | Why Compliance Alone Doesn’t Guarantee Cybersecurity | Digital Defense | [Read More](https://medium.com/p/790908e435ab) |
-| Thu, 13 Nov 2025 08:02:20 GMT | Getting to grips with real-time clocks | Mansfield-Devine | [Read More](https://medium.com/p/4a69aa8cee3f) |
-| Thu, 13 Nov 2025 08:02:19 GMT | The Security Operations Center: The Kitchen at the Heart of Cyber Defense | the CyberStoic | [Read More](https://medium.com/p/b245c40fe924) |
-| Thu, 13 Nov 2025 07:57:40 GMT | What is a VPN and How Can You Be Sure It’s Actually Safe? | V2ray tor | [Read More](https://medium.com/p/13459639ded9) |
-| Thu, 13 Nov 2025 07:55:39 GMT | Black Friday Cybersecurity Training Offers — Learn to Hack Ethically | cyber security Updates | [Read More](https://medium.com/p/d8ba7bb8e6aa) |
-| Thu, 13 Nov 2025 07:55:31 GMT | Proxies vs VPNs: Which Offers Better Cybersecurity Protection? | ProxiesThatWork | [Read More](https://medium.com/p/4bcf3eddf6b7) |
-| Thu, 13 Nov 2025 07:54:40 GMT | Black Friday & Cyber Monday Mega Sale on Cybersecurity Courses | Manisha Chaudhary | [Read More](https://medium.com/p/c06c3ebeac2a) |
