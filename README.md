@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 18:08:42 GMT | How I Hacked My Own Router (Legally) and What It Taught Me About Security | H3NRY B41T | [Read More](https://medium.com/p/8d8dea3e046e) |
+| Thu, 13 Nov 2025 18:08:21 GMT | Event Crew: The Backbone of Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/ed516a6bcc45) |
+| Thu, 13 Nov 2025 18:07:51 GMT | Interface | Zurichsabil | [Read More](https://medium.com/p/9322861882b6) |
+| Thu, 13 Nov 2025 18:01:56 GMT | What Are Construction Site Security Measures? Essential Guide for Washington Projects | Liam Truth | [Read More](https://medium.com/p/5f9be1b02559) |
+| Thu, 13 Nov 2025 18:01:51 GMT | Cognition Under Load: The Geometry of Refusal at the Frontier | Zachary Fitzgerald | [Read More](https://medium.com/p/57d135dd82ca) |
+| Thu, 13 Nov 2025 18:00:17 GMT | How AI is changing security testing — and why you still need a human in charge. | Gopi Sri | [Read More](https://medium.com/p/2dd67110a9a7) |
+| Thu, 13 Nov 2025 17:55:21 GMT | Threats to Tranquility: How United Security Keeps You Safe | United Security | [Read More](https://medium.com/p/4d119a823315) |
+| Thu, 13 Nov 2025 17:39:46 GMT | CLI vs. IDE for AI Coding | Teri Radichel | [Read More](https://medium.com/p/61cb0bc2db28) |
+| Thu, 13 Nov 2025 17:38:18 GMT | The Best AI for Ethical Hacking | Appsec.pt | [Read More](https://medium.com/p/911c92de3b37) |
+| Thu, 13 Nov 2025 17:37:23 GMT | CVE‑2025‑12249 — RCE via CSV Injection (Part 2: RCE Escalation) | Nakul Singh | [Read More](https://medium.com/p/76ce62222e3b) |
 | Thu, 13 Nov 2025 17:33:27 GMT | Proactive Threat Hunting using YARA | OluwapelumiOyerinde | [Read More](https://medium.com/p/e129bd351e9f) |
 | Thu, 13 Nov 2025 17:28:46 GMT | The Modern Attack Landscape: Telegram, the Dark Web, and the New AI-Powered Phishing Threats | Raya P | [Read More](https://medium.com/p/b885ef6cf29c) |
 | Thu, 13 Nov 2025 17:23:49 GMT | The AI Agent Threat Landscape — Part 1 | özgün özçetin | [Read More](https://medium.com/p/0439d3ef6193) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 12:41:51 GMT | Feeling Vulnerable At Work II | Kirsty Tither | [Read More](https://medium.com/p/11b1d60012bf) |
 | Thu, 13 Nov 2025 12:40:35 GMT | Strengthening npm Security: What Package Maintainers Need to Know | Dhanush N | [Read More](https://medium.com/p/0bcdb8b7ad65) |
 | Thu, 13 Nov 2025 12:40:04 GMT | Server Hacked? DON’T Shut It Down! | Dhanush N | [Read More](https://medium.com/p/50a411e5b803) |
-| Thu, 13 Nov 2025 12:39:36 GMT | How Companies Pay Experts to Break Into Their Own Systems | Dhanush N | [Read More](https://medium.com/p/520d1df1338f) |
-| Thu, 13 Nov 2025 12:31:04 GMT | Why Your ‘Simple’ Upload System Will Cost You Three Months | Idera Dev Tools | [Read More](https://medium.com/p/7603f9fa7482) |
-| Thu, 13 Nov 2025 12:23:47 GMT | Your Data Has Already Been Stolen. The Only Question Is By Whom |  | [Read More](https://medium.com/p/0b4d502b91fa) |
-| Thu, 13 Nov 2025 12:23:34 GMT | Grand Rising with Drosera | Barryyyy | [Read More](https://medium.com/p/c918bb4979bd) |
-| Thu, 13 Nov 2025 12:20:32 GMT | Kerberoasted — CyberDefenders Blue Team Challenge | khalifa_farhat | [Read More](https://medium.com/p/e422dd4511f3) |
-| Thu, 13 Nov 2025 12:18:18 GMT | Building a Multi-Agent ADK/A2A Malware Analysis Agent: For Fun and Profit | Dima Fomberg | [Read More](https://medium.com/p/ea1e7264510b) |
-| Thu, 13 Nov 2025 12:12:31 GMT | Kubernetes Secrets Management: How We Rotate Secrets Without Breaking Production | Zoe | [Read More](https://medium.com/p/6c6ed6fcb115) |
-| Thu, 13 Nov 2025 12:06:15 GMT | How Recruiters Use Technical Scenarios to Filter Real SOC Analysts | Motasem Hamdan | [Read More](https://medium.com/p/73da0b261326) |
-| Thu, 13 Nov 2025 12:02:21 GMT | Need for a new order to save the world | ahmed fouad | [Read More](https://medium.com/p/1188e5842857) |
-| Thu, 13 Nov 2025 12:02:00 GMT | Writeup for picoCTF challenge “Search source” | Walter Moar | [Read More](https://medium.com/p/0fce7e391f67) |
