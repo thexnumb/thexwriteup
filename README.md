@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 20:18:55 GMT | Physically bypassing Windows Tamper Protection — a responsible disclosure | err0rgod | [Read More](https://medium.com/p/f437a41863b5) |
+| Thu, 13 Nov 2025 20:07:35 GMT | Wicys SANS 2025 THM CTF — Web Exploitation walkthrough | lyna Ben yakoub | [Read More](https://medium.com/p/b34a4a368c45) |
+| Thu, 13 Nov 2025 20:05:21 GMT | Time Necromancy: Python Scripts That Resurrect Lost Hours | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b3e51411dbf4) |
+| Thu, 13 Nov 2025 20:04:40 GMT | That web site sucks if it hits you with trackers and predators | Fred Showker | [Read More](https://medium.com/p/013917ece61c) |
+| Thu, 13 Nov 2025 20:03:44 GMT | Reclaiming Control: The CI/CD Chaos | Burak Bozacı | [Read More](https://medium.com/p/6e6f77d237f2) |
+| Thu, 13 Nov 2025 20:02:22 GMT | The Bug I Found Twice On Microsoft | ak | [Read More](https://medium.com/p/bfd23a58d5c1) |
+| Thu, 13 Nov 2025 19:45:21 GMT | Đừng Để IT Cũ Kỹ ‘Dìm Hàng’ Sự Phát Triển Của Doanh Nghiệp Bạn! | Trang Võ Minh IT Support | [Read More](https://medium.com/p/66e5a47e2c71) |
+| Thu, 13 Nov 2025 19:32:04 GMT | Subdomain Enumeration: Uncovering the Hidden Corners of the Web | Purushotham.R | [Read More](https://medium.com/p/0bb2ae523c21) |
 | Thu, 13 Nov 2025 19:16:23 GMT | What I Learned from Analyzing Malicious npm Packages | shivangi satija | [Read More](https://medium.com/p/aac384234ba4) |
 | Thu, 13 Nov 2025 19:12:23 GMT | The Day I Broke (and Fixed) My Virtual Network: A Cybersecurity Lesson in Troubleshooting | Secured By Sebastion | [Read More](https://medium.com/p/e6ff853c080b) |
 | Thu, 13 Nov 2025 19:11:12 GMT | “I’m Fine” — The Damage This Cliché Has Done to Friendships | Rhoda Badejo | [Read More](https://medium.com/p/9e0b0ce40a80) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 13:43:35 GMT | Why a Licensed Security Guards Company in Singapore Is Essential for Safety | Jane Tang | [Read More](https://medium.com/p/7d2f3dd17d48) |
 | Thu, 13 Nov 2025 13:41:57 GMT | How to Align Garage Door Sensors: Tips From Professionals | Up & Down Garage Door Services | [Read More](https://medium.com/p/b5daef8f4358) |
 | Thu, 13 Nov 2025 13:40:57 GMT | Why Smart People Get Scammed: The Hidden Psychology Behind Modern Manipulation | The Forensic Mind | [Read More](https://medium.com/p/736a17464580) |
-| Thu, 13 Nov 2025 13:40:06 GMT | Operation Endgame: How the November 2025 Takedown Disrupted the Cybercrime Supply Chain | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/40487651522c) |
-| Thu, 13 Nov 2025 13:39:31 GMT | When Among Us Meets Academia: An OSINT Challenge That’s Not Sus At All - v1t CTF OSINT Challenge | Chetan Chinchulkar | [Read More](https://medium.com/p/00bba5775179) |
-| Thu, 13 Nov 2025 13:39:07 GMT | PortSwigger: Web LLM attacks LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/00425aee8237) |
-| Thu, 13 Nov 2025 13:39:05 GMT | Top 10 Reasons to Hire a Professional Security Guard Company in Orange County | Direct Guard Services | [Read More](https://medium.com/p/0dd809ec984e) |
-| Thu, 13 Nov 2025 13:36:35 GMT | CAP -HACK THE BOX- ROOM | 5kullk3r | [Read More](https://medium.com/p/c6c14a4ded6f) |
-| Thu, 13 Nov 2025 13:34:51 GMT | Metasploit Framework: Comprehensive Tips and Tricks | Parth srivastava | [Read More](https://medium.com/p/7f5a0c4e11a8) |
-| Thu, 13 Nov 2025 13:34:00 GMT | GHDB OSINT TOOLS | Nochia | [Read More](https://medium.com/p/73313abdb078) |
-| Thu, 13 Nov 2025 13:32:04 GMT | How I Found a 0-Click Flaw That Compromised Any Account | Ibtissam | [Read More](https://medium.com/p/81863568d340) |
