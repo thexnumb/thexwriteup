@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 05:36:03 GMT | Fortune Favors the Protected: Why Managed Security Services Are Essential for Mumbai Businesses in… | Maxatlasofficial | [Read More](https://medium.com/p/39f94ca0ac8d) |
+| Thu, 13 Nov 2025 05:33:49 GMT | Privilege Escalation via GraphQL: Editors Can Become Owners Through the “Share” Flow | black | [Read More](https://medium.com/p/b67782b98804) |
+| Thu, 13 Nov 2025 05:28:33 GMT | HTB Interceptor | Harjot Singh | [Read More](https://medium.com/p/7f1faf7d5142) |
 | Thu, 13 Nov 2025 05:21:04 GMT | Important Security and Audit Middlewares while using Express in Node.js (Bonus point: GraphQL) | Jayant Varshney | [Read More](https://medium.com/p/cdd4d3c73c39) |
+| Thu, 13 Nov 2025 05:20:36 GMT | Why I Switched to Unigox for My P2P Crypto Trades | Letthelordbewithyou | [Read More](https://medium.com/p/4fda4fffde16) |
 | Thu, 13 Nov 2025 05:20:12 GMT | Mastering Kubernetes ConfigMaps & Secrets: Stop Hardcoding and Start Managing Configuration the… | Mehul Morker | [Read More](https://medium.com/p/dcca93585801) |
 | Thu, 13 Nov 2025 05:17:15 GMT | Docker Secrets Management: The DevOps Essential You Should Master | bektiaw | [Read More](https://medium.com/p/f27a4233fd1d) |
 | Thu, 13 Nov 2025 05:05:15 GMT | The Things I Never Say Out Loud | Kabii | [Read More](https://medium.com/p/e9ad1bc659dd) |
@@ -109,7 +113,3 @@ With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/
 | Wed, 12 Nov 2025 19:56:13 GMT | Data Leakage in Enterprise AI APIs: The Invisible Threat to Your IP | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/7e6641512a1d) |
 | Wed, 12 Nov 2025 19:43:51 GMT | Notes On Post-Quantum Cryptography Methods | Mi'kail Eli'yah | [Read More](https://medium.com/p/7b81e45a332f) |
 | Wed, 12 Nov 2025 19:32:22 GMT | How Scammers Steal Lives - ProtectYourself from Online Fraud & Global ⚠️⚠️⚠️Scam Networks | Muhammad Ali Raza | [Read More](https://medium.com/p/38753a14b898) |
-| Wed, 12 Nov 2025 19:27:37 GMT | An OSINT Case Study on Railway Infrastructure Using Modat Magnify | hacker_might | [Read More](https://medium.com/p/2650699c0a08) |
-| Wed, 12 Nov 2025 19:23:11 GMT | MCP and A2A in AI Agent Protocols — Security considerations (IV) — Artificial Intelligence Risk… | SOCFortress | [Read More](https://medium.com/p/ca6cfb23ed35) |
-| Wed, 12 Nov 2025 19:20:56 GMT | The Rise of Prompt Injection: When Words Become Weapons ️ | Kalkinetra Research and Threat Intelligence Lab | [Read More](https://medium.com/p/16b65cd8a929) |
-| Wed, 12 Nov 2025 19:08:55 GMT | Atone Bounties opportunity | 4th Eye Vision | [Read More](https://medium.com/p/1a65b52249e6) |
