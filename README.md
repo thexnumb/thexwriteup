@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 16:45:35 GMT | Big Data : Data Cleaning and Preparation using Pandas | Yasa Wijaya | [Read More](https://medium.com/p/8d0285f7a112) |
+| Thu, 13 Nov 2025 16:33:20 GMT | HUMLA Workshop: Breaking AI (Ethically) Was My Saturday Plan | Pooja | [Read More](https://medium.com/p/319bde7cc448) |
 | Thu, 13 Nov 2025 16:07:04 GMT | Advanced Security Hardening Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/8fad8c2b363e) |
 | Thu, 13 Nov 2025 16:00:39 GMT | The Best Apps to Prepare for IT & Cybersecurity Certifications in 2025 | PrepMe | [Read More](https://medium.com/p/a25e40ca81e0) |
 | Thu, 13 Nov 2025 15:57:59 GMT | CyberUP Institute and the Strategic Role of AI in the Future of Cybersecurity | CYBERUP INSTITUTE | [Read More](https://medium.com/p/b633647c03c0) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 11:22:38 GMT | Blockchain AML Screening and Monitoring: The Future of Financial Integrity | QuppyAMLBOT | [Read More](https://medium.com/p/398377c1a731) |
 | Thu, 13 Nov 2025 11:22:04 GMT | Why ServiceNow GRC is essential for compliance-driven industries | Alex s | [Read More](https://medium.com/p/5e19fa7a103d) |
 | Thu, 13 Nov 2025 11:17:30 GMT | Introducing Miso Security: Real-Time Protection for Individuals Against Telegram Stealer Logs | Ron Agnos | [Read More](https://medium.com/p/9c73b079a4cd) |
-| Thu, 13 Nov 2025 11:15:02 GMT | Cloud Telephony Services in India | Ashutosh Mallik | [Read More](https://medium.com/p/66969811086a) |
-| Thu, 13 Nov 2025 11:03:59 GMT | Lab 4: DOM XSS in `innerHTML` Sink Using Source `location.search` | Apexium Technologies Ltd | [Read More](https://medium.com/p/66928f47437f) |
