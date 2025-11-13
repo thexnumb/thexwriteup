@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 19:12:23 GMT | The Day I Broke (and Fixed) My Virtual Network: A Cybersecurity Lesson in Troubleshooting | Secured By Sebastion | [Read More](https://medium.com/p/e6ff853c080b) |
+| Thu, 13 Nov 2025 19:08:04 GMT | 10 Cybersecurity Tools You Should Try in 2025 | Liam | [Read More](https://medium.com/p/4339078a8bd1) |
+| Thu, 13 Nov 2025 19:00:48 GMT | Penetrasyon Testi: Kavramlar, Süreçler ve Türler | HNASecurity | [Read More](https://medium.com/p/2c7dcadfc8b0) |
+| Thu, 13 Nov 2025 18:54:05 GMT | Red Teaming — Abusing Active Directory Certificate Services (AD CS) to Escalate Privileges: ESC1… | Rakshit Kashyap | [Read More](https://medium.com/p/29ebb6f7e50b) |
+| Thu, 13 Nov 2025 18:49:10 GMT | The Future of Security is Identity: How IAM is Redefining Enterprise Protection | Sunnysinha | [Read More](https://medium.com/p/2545f7aef9f1) |
+| Thu, 13 Nov 2025 18:49:01 GMT | From Private Islands to Private Servers: The Infamous Data Trafficker Jobert Epstein & “The List” | Justas_b | [Read More](https://medium.com/p/eba817f8f105) |
+| Thu, 13 Nov 2025 18:43:57 GMT | VI. Conclusão: DNS como investimento estratégico | Giuliano Cardozo | [Read More](https://medium.com/p/694e7413f37c) |
+| Thu, 13 Nov 2025 18:42:32 GMT | “How I Passed the CompTIA Security+ Exam: Tips, Tricks, and Tools for Success” | Secured By Sebastion | [Read More](https://medium.com/p/ffa48540c7a7) |
+| Thu, 13 Nov 2025 18:39:13 GMT | CyberDefenders — GoldenSpray Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/0b492f015ef1) |
+| Thu, 13 Nov 2025 18:35:42 GMT | Stop Coding Blindly: Your Step-by-Step Guide to Threat Modeling (and Why Developers Love It) | Ravindran Dharshan | [Read More](https://medium.com/p/adcc2abda59c) |
+| Thu, 13 Nov 2025 18:35:32 GMT | Here’s How I Passed CompTIA Security+ in 9 Days (With 0 years of Corporate Experience) and You can… | Yug Shah | [Read More](https://medium.com/p/bdf60805fc4b) |
+| Thu, 13 Nov 2025 18:31:18 GMT | Is Penligent the Future of Ethical Hacking — or the Beginning of the End for Manual Pentesters? | Borhan413 | [Read More](https://medium.com/p/5345530c3192) |
+| Thu, 13 Nov 2025 18:29:54 GMT | OWASP TOP 10 2025 | Rakesh Elamaran | [Read More](https://medium.com/p/b17f97cb3afd) |
+| Thu, 13 Nov 2025 18:28:38 GMT | Road to OSCP, Proving Grounds “Exfiltration” Linux Machine | Cyb0rgBytes | [Read More](https://medium.com/p/2bba2150c30b) |
 | Thu, 13 Nov 2025 18:08:42 GMT | How I Hacked My Own Router (Legally) and What It Taught Me About Security | H3NRY B41T | [Read More](https://medium.com/p/8d8dea3e046e) |
 | Thu, 13 Nov 2025 18:08:21 GMT | Event Crew: The Backbone of Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/ed516a6bcc45) |
 | Thu, 13 Nov 2025 18:07:51 GMT | Interface | Zurichsabil | [Read More](https://medium.com/p/9322861882b6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 13:32:04 GMT | How I Found a 0-Click Flaw That Compromised Any Account | Ibtissam | [Read More](https://medium.com/p/81863568d340) |
 | Thu, 13 Nov 2025 13:27:02 GMT | How to Find P1 Bugs using Google in your Target — (Part-2) | RivuDon | [Read More](https://medium.com/p/d37a9bb0b2e7) |
 | Thu, 13 Nov 2025 13:26:31 GMT | Securing Remote Work: Your Current Strategy Is Creating The Risk It’s Meant to Prevent | Tyson Martin | [Read More](https://medium.com/p/0f234e2c6e5f) |
-| Thu, 13 Nov 2025 13:24:55 GMT | Advanced Audit and Security Controls for Jira Cloud Enterprise | Erdem UÇAK | [Read More](https://medium.com/p/fbd48b031f5b) |
-| Thu, 13 Nov 2025 13:20:56 GMT | I Could Change Anyone’s Email Preferences — Without Logging In | Munna✨ | [Read More](https://medium.com/p/dc228b541ef9) |
-| Thu, 13 Nov 2025 13:03:53 GMT | The Hidden ROI-Killer in Your AI-Driven Workflows: Uncontrolled Access | Frank Kresse | [Read More](https://medium.com/p/10f3d3048ef2) |
-| Thu, 13 Nov 2025 12:58:33 GMT | The Code You Didn’t Write: How Transitive Dependencies Became Your Greatest Security Liability | Patrick Lefler | [Read More](https://medium.com/p/d4e469e5caf5) |
-| Thu, 13 Nov 2025 12:56:19 GMT | Letters On Linux Security — By Salah Alaya | Salah Alaya | [Read More](https://medium.com/p/02ad460d60dc) |
-| Thu, 13 Nov 2025 12:55:24 GMT | TakeFile The Fast, Secure, and Reliable Way to Download Large Files in 2025 | Filevipo | [Read More](https://medium.com/p/c4ee3584aa17) |
-| Thu, 13 Nov 2025 12:55:05 GMT | What is GRC (and GRC Engineering) , and why is it more complicated than you think! | Harsh Kahate | [Read More](https://medium.com/p/70e55fd3623d) |
-| Thu, 13 Nov 2025 12:49:16 GMT | From Racks to Rooms: Complete Data Centre Security in Bahrain & GCC | Tekhabeeb | [Read More](https://medium.com/p/a2fd2f5fbd8b) |
-| Thu, 13 Nov 2025 12:48:01 GMT | Transnational Repression on Campus: The West’s Research-Security Blind Spot | Brian Iselin | [Read More](https://medium.com/p/1c7ad275b46b) |
-| Thu, 13 Nov 2025 12:45:20 GMT | ⚠️ Une nouvelle faille critique dans Active Directory : la délégation Kerberos vulnérable à une… | Limeryem | [Read More](https://medium.com/p/c3730a5fae51) |
-| Thu, 13 Nov 2025 12:42:09 GMT | Guys pls a question:my Okx wallet holds 5,000. USDT, and I have the 12 words phrase: | Joelle luxer | [Read More](https://medium.com/p/029daf5abc93) |
-| Thu, 13 Nov 2025 12:41:51 GMT | Feeling Vulnerable At Work II | Kirsty Tither | [Read More](https://medium.com/p/11b1d60012bf) |
-| Thu, 13 Nov 2025 12:40:35 GMT | Strengthening npm Security: What Package Maintainers Need to Know | Dhanush N | [Read More](https://medium.com/p/0bcdb8b7ad65) |
-| Thu, 13 Nov 2025 12:40:04 GMT | Server Hacked? DON’T Shut It Down! | Dhanush N | [Read More](https://medium.com/p/50a411e5b803) |
