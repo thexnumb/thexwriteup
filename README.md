@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 03:11:29 GMT | Input Manipulation & Prompt Injection — Tryhackme | Mr.Cool | [Read More](https://medium.com/p/93b79d2bf0d8) |
+| Thu, 13 Nov 2025 03:09:42 GMT | Why CREST-Certified Cybersecurity Companies Matter in Singapore | Dianna Johnson | [Read More](https://medium.com/p/a593ac2eba58) |
+| Thu, 13 Nov 2025 03:07:05 GMT | OWASP Top 10 (2025): What’s New & What It Means for Your AppSec Roadmap | Mr Madani | [Read More](https://medium.com/p/3b44f0ebe06a) |
+| Thu, 13 Nov 2025 03:06:30 GMT | Vibe Coding is Insecure Coding: 5 Security Habits Every Developer Needs to Learn the Hard Way | NextGenTech | [Read More](https://medium.com/p/d2e9c0a4c580) |
+| Thu, 13 Nov 2025 02:58:34 GMT | 스터닝 채용 과제, 직접 만들어봤습니다 | stunning | [Read More](https://medium.com/p/b44ac93e9610) |
+| Thu, 13 Nov 2025 02:51:14 GMT | Did the U.S. Seize or Steal? Unpacking China’s Allegations in the LuBian Bitcoin Scandal | Faisal Khan | [Read More](https://medium.com/p/32175532bf37) |
+| Thu, 13 Nov 2025 02:37:00 GMT | Why is torrenting without a VPN unsafe? What your ISP can see | Millie Bobby | [Read More](https://medium.com/p/78e7446e8280) |
+| Thu, 13 Nov 2025 02:18:35 GMT | The Secret Life of Proxy Websites and Why They Keep the Internet Fun | Blanche X | [Read More](https://medium.com/p/a12f5b65eb50) |
+| Thu, 13 Nov 2025 01:54:08 GMT | Just Because You Can Find It, Should You? | Rabail Zaheer | [Read More](https://medium.com/p/c839f1da929b) |
+| Thu, 13 Nov 2025 01:54:00 GMT | Red Team vs. Blue Team: Simulating the Adversary to Build Better Defenses | Aj | [Read More](https://medium.com/p/ca628ed1b4fb) |
+| Thu, 13 Nov 2025 01:51:59 GMT | The Hidden Threat in Plain Sight: Why You Must AVOID Public USB Charging Sockets Now (Juice Jacking… | mrwhite18 | [Read More](https://medium.com/p/50c0cbbad3ed) |
+| Thu, 13 Nov 2025 01:51:19 GMT | Pocket Hacker : Install Kali on a $15 Raspberry Pi Zero W | Satyam Pathania | [Read More](https://medium.com/p/a9968323ed00) |
 | Thu, 13 Nov 2025 01:40:43 GMT | Moving to a new laptop is a pain | Bruce Coulter | [Read More](https://medium.com/p/4b4f4969aaa7) |
 | Thu, 13 Nov 2025 01:39:35 GMT | Exploring AI Red Teaming: Challenges and Opportunities | Mainekhacker | [Read More](https://medium.com/p/9f76787d3ee3) |
 | Thu, 13 Nov 2025 01:39:30 GMT | Why 99% of Bug Hunters Fail — and How to Be the 1% | Vipul Sonule | [Read More](https://medium.com/p/d2c29ae84e1a) |
@@ -101,15 +113,3 @@ With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/
 | Wed, 12 Nov 2025 17:47:38 GMT | The Passive OSINT Toolkit: +15 Information Gathering & Recon Tools Every Ethical Hacker Should Know | Omar Maged Ahmed | [Read More](https://medium.com/p/b90db8766672) |
 | Wed, 12 Nov 2025 17:37:09 GMT | Tiny but Mighty: 10 Raspberry Pi Pico 2 W Cybersecurity Projects You Can Build in a Weekend | Jesse Ridley | [Read More](https://medium.com/p/1f87ee6c6125) |
 | Wed, 12 Nov 2025 17:30:40 GMT | Lightweight Cryptographfor Resource-Constrained Devices | Dhruv Jain | [Read More](https://medium.com/p/c0d47570c5d1) |
-| Wed, 12 Nov 2025 17:25:36 GMT | AresGPT & AthenaGPT: Rise of Strategic AI Agents | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/d21b25eb2c0f) |
-| Wed, 12 Nov 2025 17:24:46 GMT | Inside My Pocket: How Hackers Hack Phones in 2025 (and How I Protect Mine) | Monu Jangra | [Read More](https://medium.com/p/4bafd34472ec) |
-| Wed, 12 Nov 2025 17:22:09 GMT | Issue #251 — Harness, Terraform Security Scanning, SSM Parameter Management, Athena State Queries… | Anton Babenko | [Read More](https://medium.com/p/513e0dba3ba4) |
-| Wed, 12 Nov 2025 17:18:40 GMT | Why Cybercriminals Target SMBs and How Vulnerability Assessments Can Mitigate Attacks | Glenn Merritt | [Read More](https://medium.com/p/3926902e6f89) |
-| Wed, 12 Nov 2025 17:16:50 GMT | Security First | Gail Coates | [Read More](https://medium.com/p/c97ac0d4d5cb) |
-| Wed, 12 Nov 2025 17:14:49 GMT | eJPT Review (2025): A Great Starting Point, But It’s Showing Its Age | Shaheer Yasir | [Read More](https://medium.com/p/206054c6e3e7) |
-| Wed, 12 Nov 2025 17:14:30 GMT | What Really Happens After a Data Breach: A Legal and Cybersecurity Breakdown | Legal Thoughts | [Read More](https://medium.com/p/67286c90f96b) |
-| Wed, 12 Nov 2025 17:11:49 GMT | My PortSwigger Journey — Learning Web Security One Lab at a Time | b4dk4rm4sec | [Read More](https://medium.com/p/474823ceabf0) |
-| Wed, 12 Nov 2025 17:11:36 GMT | The Cache Poisoning Bible: Part 2 - Exotic Header Exploitation | Abhishek meena | [Read More](https://medium.com/p/8075377e9a68) |
-| Wed, 12 Nov 2025 17:06:35 GMT | How to Extend the Garage Door Opener Range: Boost Signal Easily | 24H Garage Doors | [Read More](https://medium.com/p/56b413fe788f) |
-| Wed, 12 Nov 2025 16:58:44 GMT | nz/note/perkakas.txt | nzunuzzz | [Read More](https://medium.com/p/05dddd066a42) |
-| Wed, 12 Nov 2025 16:58:26 GMT | The Smart Speaker Privacy Fix You’ve Probably Overlooked | The Online Safety Zone | [Read More](https://medium.com/p/8c47a6d6859e) |
