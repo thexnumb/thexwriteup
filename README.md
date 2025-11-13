@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 11:15:02 GMT | Cloud Telephony Services in India | Ashutosh Mallik | [Read More](https://medium.com/p/66969811086a) |
+| Thu, 13 Nov 2025 11:03:59 GMT | Lab 4: DOM XSS in `innerHTML` Sink Using Source `location.search` | Apexium Technologies Ltd | [Read More](https://medium.com/p/66928f47437f) |
+| Thu, 13 Nov 2025 11:02:23 GMT | Master the Psychology Behind Phishing Success: Learn How Attackers Really Hack Humans | Very Lazy Tech | [Read More](https://medium.com/p/154727c0518e) |
+| Thu, 13 Nov 2025 11:02:04 GMT | The Rising Importance of Security Guard Services and Professional Security Services in India | Ciss India | [Read More](https://medium.com/p/49c518f7730b) |
+| Thu, 13 Nov 2025 10:52:47 GMT | CHARLENE ATHENA | Charleneathena | [Read More](https://medium.com/p/5118ecdad712) |
+| Thu, 13 Nov 2025 10:51:39 GMT | What to Do When My Website Experiences Huge AI Bots | Maverick Steel | [Read More](https://medium.com/p/d2fb889e6382) |
+| Thu, 13 Nov 2025 10:51:08 GMT | The ThreatSpike Story: Cybersecurity. Solved. | Barry Ritchie | [Read More](https://medium.com/p/76f47754c9c2) |
+| Thu, 13 Nov 2025 10:50:27 GMT | Active Directory’de Kerberoasting Saldırısı | Mustafa Gürkan Karakaya | [Read More](https://medium.com/p/7ce573fc023a) |
+| Thu, 13 Nov 2025 10:45:08 GMT | How I Took Over the mkingdom: A Fun & Detailed TryHackMe Walkthrough | Teapot | [Read More](https://medium.com/p/ad7d3a253704) |
+| Thu, 13 Nov 2025 10:44:28 GMT | Phishing Simulation Tools That Employees Don’t Hate | Lanvaus | [Read More](https://medium.com/p/6561f5fb613e) |
+| Thu, 13 Nov 2025 10:41:59 GMT | A Complete Guide to Cybersecurity Services in Orange County for Safe Operations | KaufmanIT Inc. | [Read More](https://medium.com/p/cda0fb529236) |
+| Thu, 13 Nov 2025 10:40:29 GMT | Best Managed Cybersecurity Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/5e7ac35e9d18) |
+| Thu, 13 Nov 2025 10:39:46 GMT | Forensic Readiness in Cybersecurity: Building a Proactive Digital Defense | Abdifatah Hassan Roble | [Read More](https://medium.com/p/880eba02b614) |
+| Thu, 13 Nov 2025 10:39:27 GMT | Security Uniforms Manufacturer in India — Professional, Durable & Comfortable Workwear | Ard Digital Media | [Read More](https://medium.com/p/045afee2232e) |
 | Thu, 13 Nov 2025 10:28:56 GMT | Top Software Outsourcing Company in India 2025–2026 | Innov8world - Outsourcing software developers | [Read More](https://medium.com/p/0d9d3fbe7d92) |
 | Thu, 13 Nov 2025 10:27:37 GMT | How I pwned a production app from the dev playground | Abdullah Hammad | [Read More](https://medium.com/p/5e35ace34bbe) |
 | Thu, 13 Nov 2025 10:24:50 GMT | Bachelor of Science in Cyber Security Online - EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/9fb43a247089) |
@@ -20,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 10:07:38 GMT | I reverse-engineered the legendary “You Are An Idiot” trojan and it’s simpler (and smarter) than I… | Harsh Raj Singhania | [Read More](https://medium.com/p/cbebd817f7fd) |
 | Thu, 13 Nov 2025 09:59:50 GMT | DockerLabs Writeup — Obsession (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/dfdd7006790d) |
 | Thu, 13 Nov 2025 09:57:03 GMT | How to Detect Screen Capture & Recording using Kotlin | Talsec | [Read More](https://medium.com/p/ec1801501cb6) |
+| Thu, 13 Nov 2025 09:53:32 GMT | Reconnaissance For WEB Site | Purushotham.R | [Read More](https://medium.com/p/935cc90002e4) |
 | Thu, 13 Nov 2025 09:51:48 GMT | How I Turned a Boring Image Downloader into an IDOR Goldmine | Shafayat Ahmed Alif | [Read More](https://medium.com/p/77a77d8c6c05) |
 | Thu, 13 Nov 2025 09:45:23 GMT | ประจำวันพฤหัสบดีที่ 13 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/bbf199ce014e) |
 | Thu, 13 Nov 2025 09:45:15 GMT | How to Ingest a Cyber Mentality Without Getting Technical | Anthonymatta | [Read More](https://medium.com/p/945d220a3f65) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 06:12:01 GMT | The Emotional Cost of Being “The Strong One” | Abhinav Misra | [Read More](https://medium.com/p/aae98b75adc7) |
 | Thu, 13 Nov 2025 06:11:57 GMT | Why the World Needs a Self-Healing LLM | Bhawini. | [Read More](https://medium.com/p/06cde624de35) |
 | Thu, 13 Nov 2025 06:09:02 GMT | The Daily Tech Digest: 13 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/537c0f83514b) |
-| Thu, 13 Nov 2025 06:01:33 GMT | The Night a Hacker Unplugged a Country | Uvindu E | [Read More](https://medium.com/p/5e1c6b1ab647) |
-| Thu, 13 Nov 2025 05:55:04 GMT | IT Services Hobart — Your Trusted Technology Partner in Tasmania | It Services Hobart | [Read More](https://medium.com/p/9acf9d12145c) |
-| Thu, 13 Nov 2025 05:53:51 GMT | Evolution of Cyber Law in India: From IT Act 2000 to Today | Law Books Store | [Read More](https://medium.com/p/72b5bc6d6002) |
-| Thu, 13 Nov 2025 05:48:24 GMT | SSO Explained: Why You Only Login Once to Access Multiple Apps | Seremwe Ngoni | [Read More](https://medium.com/p/eee916150245) |
-| Thu, 13 Nov 2025 05:36:03 GMT | Fortune Favors the Protected: Why Managed Security Services Are Essential for Mumbai Businesses in… | Maxatlasofficial | [Read More](https://medium.com/p/39f94ca0ac8d) |
-| Thu, 13 Nov 2025 05:33:49 GMT | Privilege Escalation via GraphQL: Editors Can Become Owners Through the “Share” Flow | black | [Read More](https://medium.com/p/b67782b98804) |
-| Thu, 13 Nov 2025 05:28:33 GMT | HTB Interceptor | Harjot Singh | [Read More](https://medium.com/p/7f1faf7d5142) |
-| Thu, 13 Nov 2025 05:21:04 GMT | Important Security and Audit Middlewares while using Express in Node.js (Bonus point: GraphQL) | Jayant Varshney | [Read More](https://medium.com/p/cdd4d3c73c39) |
-| Thu, 13 Nov 2025 05:20:36 GMT | Why I Switched to Unigox for My P2P Crypto Trades | Letthelordbewithyou | [Read More](https://medium.com/p/4fda4fffde16) |
-| Thu, 13 Nov 2025 05:20:12 GMT | Mastering Kubernetes ConfigMaps & Secrets: Stop Hardcoding and Start Managing Configuration the… | Mehul Morker | [Read More](https://medium.com/p/dcca93585801) |
-| Thu, 13 Nov 2025 05:17:15 GMT | Docker Secrets Management: The DevOps Essential You Should Master | bektiaw | [Read More](https://medium.com/p/f27a4233fd1d) |
-| Thu, 13 Nov 2025 05:05:15 GMT | The Things I Never Say Out Loud | Kabii | [Read More](https://medium.com/p/e9ad1bc659dd) |
-| Thu, 13 Nov 2025 04:58:30 GMT | Block Attacks by Letting PHP Notice Unnatural Request Sequences | Asian Digital Hub | [Read More](https://medium.com/p/6ce5d3510fbd) |
-| Thu, 13 Nov 2025 04:56:01 GMT | How to Get Your First CVE as a Beginner | Harsh kothari | [Read More](https://medium.com/p/2d4122121ed4) |
-| Thu, 13 Nov 2025 04:55:31 GMT | When Your App Freezes, and So Does the User: My Take on “App Hangs in iOS” | Jennifer James | [Read More](https://medium.com/p/42cf17eff8d5) |
