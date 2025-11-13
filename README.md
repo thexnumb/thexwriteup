@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 07:16:15 GMT | Bypassing Authentication in a Major API Gateway: A Path Normalization Story | Dipanshu Chhanikar | [Read More](https://medium.com/p/5f1bea6d3f08) |
+| Thu, 13 Nov 2025 07:13:39 GMT | AI Cloud Security: Securing Cloud Infrastructure with Artificial Intelligence | QualysecEurope | [Read More](https://medium.com/p/b0b07109416c) |
+| Thu, 13 Nov 2025 07:12:26 GMT | Reverse-Engineering Upload Names to Win an IDOR Bug | Kazi Sabbir | [Read More](https://medium.com/p/296f7e068c1a) |
+| Thu, 13 Nov 2025 07:02:49 GMT | Bug Bounty Hunting — Complete Guide (Part-143) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/89516bc6830d) |
+| Thu, 13 Nov 2025 07:00:46 GMT | Bug Bounty Hunting — Complete Guide (Part-142) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/c4d72c123c57) |
+| Thu, 13 Nov 2025 06:59:05 GMT | Bug Bounty Hunting — Complete Guide (Part-141) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/d4dec569e264) |
+| Thu, 13 Nov 2025 06:56:10 GMT | Policy Brief: How Canada Can Fulfill Its NATO Pledge | Bolu Michael-Biyi | [Read More](https://medium.com/p/f6c662c5f041) |
+| Thu, 13 Nov 2025 06:55:55 GMT | Gliding Through OSWP: The Calm After the Storm | Joshua Alwin | [Read More](https://medium.com/p/8d58117f66c2) |
+| Thu, 13 Nov 2025 06:54:52 GMT | “Cybersecurity Simplified: Become a Certified Professional with BIA Institute” | Afreedalok | [Read More](https://medium.com/p/e3a6718d8237) |
+| Thu, 13 Nov 2025 06:44:59 GMT | Network Security Essentials Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/d68cc8e4c9c6) |
+| Thu, 13 Nov 2025 06:37:00 GMT | latest update | Gopi Krishna | [Read More](https://medium.com/p/1bcbe47a9087) |
+| Thu, 13 Nov 2025 06:36:40 GMT | “Advance Your IT Career with Ethical Hacking Training at BIA Institute” | Afreedalok | [Read More](https://medium.com/p/c04a1facf121) |
+| Thu, 13 Nov 2025 06:35:03 GMT | The Ultimate Guide to Small Business Antivirus: Protect Your Company | Steven Chin | [Read More](https://medium.com/p/739e2f9b90a0) |
 | Thu, 13 Nov 2025 06:28:29 GMT | My First Bug Bounty Experience | Abdullah Javeed | [Read More](https://medium.com/p/9897db5c3076) |
 | Thu, 13 Nov 2025 06:28:10 GMT | Top 10 AI app Development Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/35482270822c) |
 | Thu, 13 Nov 2025 06:21:47 GMT | Server Deployment: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/f237bfe8cd85) |
@@ -100,16 +113,3 @@ With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/
 | Wed, 12 Nov 2025 21:51:55 GMT | PortSwiggerInformation disclosure LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/89442f03c9b6) |
 | Wed, 12 Nov 2025 21:42:39 GMT | The $697 Million Heartbreak: What Romance Scammers Know About You (That You Don’t) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/dc11021c548d) |
 | Wed, 12 Nov 2025 21:40:52 GMT | O Guia de Sobrevivência Digital Para Quem Não Quer Virar Meme | Jonathan M. | [Read More](https://medium.com/p/1837f9819159) |
-| Wed, 12 Nov 2025 21:32:52 GMT | Linux best practices for DevOps and Security | Parviz Salmanov | [Read More](https://medium.com/p/7832db610c51) |
-| Wed, 12 Nov 2025 21:32:28 GMT | Azure SFTP on demand | Antoine LOIZEAU | [Read More](https://medium.com/p/9e101365453e) |
-| Wed, 12 Nov 2025 21:31:16 GMT | From Nokia to AI: Evolve or Fade Away | Jeesmon Jacob | [Read More](https://medium.com/p/d3960f06e46a) |
-| Wed, 12 Nov 2025 21:24:43 GMT | Cybersecurity Starts at the Top — How Strong Heritage Risk Advisors Helps Boards Build Cyber-Aware… | Yokota Strong | [Read More](https://medium.com/p/4925764d975f) |
-| Wed, 12 Nov 2025 21:18:07 GMT | LazyAdmin writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/998921094daf) |
-| Wed, 12 Nov 2025 21:16:47 GMT | The Challenge of Digital Trust ( I saw a dog riding a tricycle ) | David Oboite | [Read More](https://medium.com/p/657916afa22c) |
-| Wed, 12 Nov 2025 21:14:02 GMT | Cybersecurity Starts at the Top — How Strong Heritage Risk Advisors Helps Boards Build Cyber-Aware… | Yokota Strong | [Read More](https://medium.com/p/e059313d2438) |
-| Wed, 12 Nov 2025 21:11:47 GMT | The Simple Guide to Passwords and Hack-Proofing Your Accounts | Stonevale AI | [Read More](https://medium.com/p/d156b745e288) |
-| Wed, 12 Nov 2025 21:07:00 GMT | The Strategic Advantage of a vCISO — Why Cybersecurity Leadership is No Longer Optional | Yokota Strong | [Read More](https://medium.com/p/f5283be75887) |
-| Wed, 12 Nov 2025 20:58:41 GMT | ¿Construir o Comprar Seguridad? | Orlando Medina | [Read More](https://medium.com/p/13c7f630eb62) |
-| Wed, 12 Nov 2025 20:51:24 GMT | Mistakes That I Made Before I Got My First Bounty | Silent Cipher | [Read More](https://medium.com/p/5d460eae31b6) |
-| Wed, 12 Nov 2025 20:46:45 GMT | We Don’t Need Perfect People — We Need Real Ones | Sagar Ali | [Read More](https://medium.com/p/2ae6d91827cb) |
-| Wed, 12 Nov 2025 20:46:35 GMT | The LinkedIn Data Scraping Incident of 2021: A Wake-Up Call for the Digital Era | Tanay Harsith | [Read More](https://medium.com/p/79da7a8e6471) |
