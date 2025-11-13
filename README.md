@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 16:07:04 GMT | Advanced Security Hardening Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/8fad8c2b363e) |
+| Thu, 13 Nov 2025 16:00:39 GMT | The Best Apps to Prepare for IT & Cybersecurity Certifications in 2025 | PrepMe | [Read More](https://medium.com/p/a25e40ca81e0) |
+| Thu, 13 Nov 2025 15:57:59 GMT | CyberUP Institute and the Strategic Role of AI in the Future of Cybersecurity | CYBERUP INSTITUTE | [Read More](https://medium.com/p/b633647c03c0) |
+| Thu, 13 Nov 2025 15:57:52 GMT | Mobexler OVA Mobile Forensics & Offensive Security Platform | Lord Murak | [Read More](https://medium.com/p/eb01ff55c831) |
+| Thu, 13 Nov 2025 15:50:40 GMT | My First Cybersecurity Blog — And It Starts with a Bang! | Vijay K | [Read More](https://medium.com/p/16fed0543ff1) |
+| Thu, 13 Nov 2025 15:47:24 GMT | How I Found a Backdoor in Their AI’s Brain (And It Was Someone Else’s Fault) | Iski | [Read More](https://medium.com/p/7f455ab5cd16) |
+| Thu, 13 Nov 2025 15:46:40 GMT | Triofox Exploitation Cluster (UNC6485): Six-Month Outlook, Copycat Risk, and What to Watch | Wes Young | [Read More](https://medium.com/p/2201a90255eb) |
+| Thu, 13 Nov 2025 15:45:35 GMT | Beyond the Router: Understanding Firewalls, APs, Load Balancers, and More in Enterprise Networking | Paradise technologies Inc | [Read More](https://medium.com/p/e4012ce9df21) |
+| Thu, 13 Nov 2025 15:44:19 GMT | How Do We Know the Company Isn’t Hiding Risk Inside Their IT Stack? | Barry Ritchie | [Read More](https://medium.com/p/4885e86ab725) |
+| Thu, 13 Nov 2025 15:42:40 GMT | The Myth of Private AI: Why Your Chat Logs Are a Legal Battlefield | Vlad Arbatov | [Read More](https://medium.com/p/6608af6a66db) |
+| Thu, 13 Nov 2025 15:39:58 GMT | Binary Search-General Skills-picoCTF WriteUp | Nirgunah | [Read More](https://medium.com/p/a72d24a6d458) |
 | Thu, 13 Nov 2025 15:34:43 GMT | Return Oriented Programming [ROP] (Binary Exploitation) | Aditya Bhos | [Read More](https://medium.com/p/57f6d92497e1) |
 | Thu, 13 Nov 2025 15:33:05 GMT | The Director’s Blind Spot: Why “Doing Nothing” on AI Risk Is Now a Breach of Duty | AXSAS | [Read More](https://medium.com/p/f9be73f11629) |
 | Thu, 13 Nov 2025 15:32:58 GMT | Evaluation of LLMs: The Final Safety Net | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/7b36d28e1b54) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 11:17:30 GMT | Introducing Miso Security: Real-Time Protection for Individuals Against Telegram Stealer Logs | Ron Agnos | [Read More](https://medium.com/p/9c73b079a4cd) |
 | Thu, 13 Nov 2025 11:15:02 GMT | Cloud Telephony Services in India | Ashutosh Mallik | [Read More](https://medium.com/p/66969811086a) |
 | Thu, 13 Nov 2025 11:03:59 GMT | Lab 4: DOM XSS in `innerHTML` Sink Using Source `location.search` | Apexium Technologies Ltd | [Read More](https://medium.com/p/66928f47437f) |
-| Thu, 13 Nov 2025 11:02:23 GMT | Master the Psychology Behind Phishing Success: Learn How Attackers Really Hack Humans | Very Lazy Tech | [Read More](https://medium.com/p/154727c0518e) |
-| Thu, 13 Nov 2025 11:02:04 GMT | The Rising Importance of Security Guard Services and Professional Security Services in India | Ciss India | [Read More](https://medium.com/p/49c518f7730b) |
-| Thu, 13 Nov 2025 10:52:47 GMT | CHARLENE ATHENA | Charleneathena | [Read More](https://medium.com/p/5118ecdad712) |
-| Thu, 13 Nov 2025 10:51:39 GMT | What to Do When My Website Experiences Huge AI Bots | Maverick Steel | [Read More](https://medium.com/p/d2fb889e6382) |
-| Thu, 13 Nov 2025 10:51:08 GMT | The ThreatSpike Story: Cybersecurity. Solved. | Barry Ritchie | [Read More](https://medium.com/p/76f47754c9c2) |
-| Thu, 13 Nov 2025 10:50:27 GMT | Active Directory’de Kerberoasting Saldırısı | Mustafa Gürkan Karakaya | [Read More](https://medium.com/p/7ce573fc023a) |
-| Thu, 13 Nov 2025 10:45:08 GMT | How I Took Over the mkingdom: A Fun & Detailed TryHackMe Walkthrough | Teapot | [Read More](https://medium.com/p/ad7d3a253704) |
-| Thu, 13 Nov 2025 10:44:28 GMT | Phishing Simulation Tools That Employees Don’t Hate | Lanvaus | [Read More](https://medium.com/p/6561f5fb613e) |
-| Thu, 13 Nov 2025 10:41:59 GMT | A Complete Guide to Cybersecurity Services in Orange County for Safe Operations | KaufmanIT Inc. | [Read More](https://medium.com/p/cda0fb529236) |
-| Thu, 13 Nov 2025 10:40:29 GMT | Best Managed Cybersecurity Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/5e7ac35e9d18) |
-| Thu, 13 Nov 2025 10:39:46 GMT | Forensic Readiness in Cybersecurity: Building a Proactive Digital Defense | Abdifatah Hassan Roble | [Read More](https://medium.com/p/880eba02b614) |
