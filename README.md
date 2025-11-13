@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 01:40:43 GMT | Moving to a new laptop is a pain | Bruce Coulter | [Read More](https://medium.com/p/4b4f4969aaa7) |
+| Thu, 13 Nov 2025 01:39:35 GMT | Exploring AI Red Teaming: Challenges and Opportunities | Mainekhacker | [Read More](https://medium.com/p/9f76787d3ee3) |
+| Thu, 13 Nov 2025 01:39:30 GMT | Why 99% of Bug Hunters Fail — and How to Be the 1% | Vipul Sonule | [Read More](https://medium.com/p/d2c29ae84e1a) |
+| Thu, 13 Nov 2025 01:39:25 GMT | All About MSF - Metasploit Framework Explained for Beginners | Shahzaib | [Read More](https://medium.com/p/2c7529bb6e4a) |
+| Thu, 13 Nov 2025 01:28:30 GMT | How Proxy Websites Unlock the Internet: Privacy, Access, and Freedom Online | Novada | [Read More](https://medium.com/p/500f729d11f5) |
+| Thu, 13 Nov 2025 00:53:36 GMT | Terrascan: A Comprehensive Guide to the Infrastructure as Code (IaC) Scanning Tool | kaliarch | [Read More](https://medium.com/p/a41705ab6f4e) |
+| Thu, 13 Nov 2025 00:51:09 GMT | UniFi OS Security Warning: A flaw in the Backup API could let attackers run code without… | Criminal IP | [Read More](https://medium.com/p/221341636c69) |
+| Thu, 13 Nov 2025 00:43:20 GMT | VA 1st State w/ Official Digital ID. Here’s where it’s accepted | Natalia Lorsk | [Read More](https://medium.com/p/2b03b8caba94) |
+| Thu, 13 Nov 2025 00:37:51 GMT | Developing a Robust Cybersecurity Incident Response Plan: A Step-by-Step Guide | Steven Chin | [Read More](https://medium.com/p/0c28d0ab5f15) |
+| Thu, 13 Nov 2025 00:32:29 GMT | Secure Your Spring Boot App: Managing Secrets with Spring Secret Starter | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/8434ef9cfa9c) |
+| Thu, 13 Nov 2025 00:32:29 GMT | Detecting Attacker Behavior with Splunk: The Analytics Approach | Cybersecurity Simplified | [Read More](https://medium.com/p/5f90ffcaeb99) |
+| Wed, 12 Nov 2025 23:53:51 GMT | Crypto Scam and Ponzi Scheme Recovery: What to Do If You’ve Been Scammed
+With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/78e8650b7a07) |
+| Wed, 12 Nov 2025 23:50:54 GMT | Threat Research: Inside Scattered LAPSUS$ Hunters (SLH) - UNC6040, UNC6395 | Gabriel Alves | [Read More](https://medium.com/p/4bab193c0899) |
+| Wed, 12 Nov 2025 23:36:14 GMT | Power and Electromagnetic Side Channels: Data Extraction Across Physical Gaps | Bervice | [Read More](https://medium.com/p/0be74d32e3d2) |
 | Wed, 12 Nov 2025 23:17:56 GMT | System Configuration and Troubleshooting in Linux: A Hands-On Challenge | Russell "Dusty" Broad | [Read More](https://medium.com/p/21551f42b024) |
 | Wed, 12 Nov 2025 23:15:10 GMT | Stagnant Creativity in the Tech Sector | Rhiannon Williams | [Read More](https://medium.com/p/cbbfa11e30c5) |
 | Wed, 12 Nov 2025 23:05:11 GMT | Alteryx Server IDOR Advisory | Aleksa Zatezalo | [Read More](https://medium.com/p/782e3013ee38) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 12 Nov 2025 17:06:35 GMT | How to Extend the Garage Door Opener Range: Boost Signal Easily | 24H Garage Doors | [Read More](https://medium.com/p/56b413fe788f) |
 | Wed, 12 Nov 2025 16:58:44 GMT | nz/note/perkakas.txt | nzunuzzz | [Read More](https://medium.com/p/05dddd066a42) |
 | Wed, 12 Nov 2025 16:58:26 GMT | The Smart Speaker Privacy Fix You’ve Probably Overlooked | The Online Safety Zone | [Read More](https://medium.com/p/8c47a6d6859e) |
-| Wed, 12 Nov 2025 16:54:54 GMT | AI/ LLM Hacking — Part 7 — System Prompt Leakage - Vector & Embedding Weakness | Darshan Naresh Naik | [Read More](https://medium.com/p/68bca76d9dd4) |
-| Wed, 12 Nov 2025 16:53:09 GMT | Bandit OverTheWire writeup — Level 19 → Level 20 | Dawid Kowalski | [Read More](https://medium.com/p/50784b920aad) |
-| Wed, 12 Nov 2025 16:53:03 GMT | How I Found a $$$ Bounty: Exposed SDK License Key | AbdelRhman_Sabry | [Read More](https://medium.com/p/81f8c3f6c5bf) |
-| Wed, 12 Nov 2025 16:51:56 GMT | Leaping into Tech | Onyinye Alosiba | [Read More](https://medium.com/p/07a7480e0e80) |
-| Wed, 12 Nov 2025 16:49:51 GMT | Bandit OverTheWire writeup — Level 18 → Level 19 | Dawid Kowalski | [Read More](https://medium.com/p/58b0590aa867) |
-| Wed, 12 Nov 2025 16:48:38 GMT | Bandit OverTheWire writeup — Level 17 → Level 18 | Dawid Kowalski | [Read More](https://medium.com/p/583b3e2b83c1) |
-| Wed, 12 Nov 2025 16:44:15 GMT | TryHackMe Threat Hunting Simulator Health Hazard | iamdonu | [Read More](https://medium.com/p/99f012e10bd5) |
-| Wed, 12 Nov 2025 16:41:54 GMT | Rhadamanthys Infostealer Operators Lose Control of Servers: Major Cybercrime Operation Disrupted | Technijian | [Read More](https://medium.com/p/2efa6e50f8ef) |
-| Wed, 12 Nov 2025 16:37:51 GMT | Two Futures, One Present — The Digital Divide We Created | Len Noe | [Read More](https://medium.com/p/a3a866faaff4) |
-| Wed, 12 Nov 2025 16:36:10 GMT | How AI-Powered Platforms Are Transforming Security Operations | Teona | [Read More](https://medium.com/p/c2515d759a27) |
-| Wed, 12 Nov 2025 16:28:35 GMT | Application of Neural Networks in Ensuring Data Security in DLT Systems | Dmytro Zarezenko | [Read More](https://medium.com/p/7c796abe53db) |
-| Wed, 12 Nov 2025 16:27:16 GMT | When AI Becomes the Face of Deception: The Era of Deepfakes and Cyber Scams | Salihou BADIAGA | [Read More](https://medium.com/p/b2b02c0faf77) |
-| Wed, 12 Nov 2025 16:24:56 GMT | Ransomware Has a New Goal: Why Control Is the Next Currency in Cybersecurity | Fortress Protocol | [Read More](https://medium.com/p/4a3135465f93) |
-| Wed, 12 Nov 2025 16:20:03 GMT | Bir Paket Yolda: İnternette Veriler Nasıl Güvende Kalıyor? | Alper TUĞRUL | [Read More](https://medium.com/p/4b7b7a524a71) |
