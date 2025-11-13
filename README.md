@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 19:16:23 GMT | What I Learned from Analyzing Malicious npm Packages | shivangi satija | [Read More](https://medium.com/p/aac384234ba4) |
 | Thu, 13 Nov 2025 19:12:23 GMT | The Day I Broke (and Fixed) My Virtual Network: A Cybersecurity Lesson in Troubleshooting | Secured By Sebastion | [Read More](https://medium.com/p/e6ff853c080b) |
+| Thu, 13 Nov 2025 19:11:12 GMT | “I’m Fine” — The Damage This Cliché Has Done to Friendships | Rhoda Badejo | [Read More](https://medium.com/p/9e0b0ce40a80) |
 | Thu, 13 Nov 2025 19:08:04 GMT | 10 Cybersecurity Tools You Should Try in 2025 | Liam | [Read More](https://medium.com/p/4339078a8bd1) |
 | Thu, 13 Nov 2025 19:00:48 GMT | Penetrasyon Testi: Kavramlar, Süreçler ve Türler | HNASecurity | [Read More](https://medium.com/p/2c7dcadfc8b0) |
 | Thu, 13 Nov 2025 18:54:05 GMT | Red Teaming — Abusing Active Directory Certificate Services (AD CS) to Escalate Privileges: ESC1… | Rakshit Kashyap | [Read More](https://medium.com/p/29ebb6f7e50b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 13:34:51 GMT | Metasploit Framework: Comprehensive Tips and Tricks | Parth srivastava | [Read More](https://medium.com/p/7f5a0c4e11a8) |
 | Thu, 13 Nov 2025 13:34:00 GMT | GHDB OSINT TOOLS | Nochia | [Read More](https://medium.com/p/73313abdb078) |
 | Thu, 13 Nov 2025 13:32:04 GMT | How I Found a 0-Click Flaw That Compromised Any Account | Ibtissam | [Read More](https://medium.com/p/81863568d340) |
-| Thu, 13 Nov 2025 13:27:02 GMT | How to Find P1 Bugs using Google in your Target — (Part-2) | RivuDon | [Read More](https://medium.com/p/d37a9bb0b2e7) |
-| Thu, 13 Nov 2025 13:26:31 GMT | Securing Remote Work: Your Current Strategy Is Creating The Risk It’s Meant to Prevent | Tyson Martin | [Read More](https://medium.com/p/0f234e2c6e5f) |
