@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 08:49:08 GMT | npm Supply Chain Attack Playbook: How to Respond When a Package Is Compromised | Germano Costi | [Read More](https://medium.com/p/d0fa67d1feaf) |
+| Thu, 13 Nov 2025 08:45:30 GMT | Privacy SOS: Simple Steps to Vanish Online? | Authlyn | [Read More](https://medium.com/p/01a84aa1e9ca) |
+| Thu, 13 Nov 2025 08:42:19 GMT | Enhancing Security with Advanced License Plate Recognition Systems in Singapore - HRS Security… | HRS Security Service | [Read More](https://medium.com/p/b39c0cd90042) |
+| Thu, 13 Nov 2025 08:37:54 GMT | Listening to Images: How Brain-Inspired Networks Hide Audio in Plain Sight | Bradley Susser | [Read More](https://medium.com/p/774b946e1329) |
+| Thu, 13 Nov 2025 08:36:48 GMT | Bitcoin Heist: $13B Stolen? US Accused?! | Truspex | [Read More](https://medium.com/p/76ce4abf0886) |
+| Thu, 13 Nov 2025 08:34:57 GMT | Password-Based Time-Lock Key Escrow System | Anand Lahoti | [Read More](https://medium.com/p/0f325732a522) |
+| Thu, 13 Nov 2025 08:30:14 GMT | JWT Verification for Application Load Balancer | Vinayak Pandey | [Read More](https://medium.com/p/d5c949cb6d44) |
+| Thu, 13 Nov 2025 08:29:43 GMT | Why Countries Must Build Their Own Sovereign AI and Open-Source Intelligence Systems | Karan Singh | [Read More](https://medium.com/p/16a638058448) |
+| Thu, 13 Nov 2025 08:27:38 GMT | Deep Dark Sea: This is a Flask application for LAN-based file sharing and real-time anonymous… | Мартин. | [Read More](https://medium.com/p/c3007cab01d5) |
 | Thu, 13 Nov 2025 08:20:55 GMT | Mole: a Linux LD_PRELOAD-based tool for function hooking to spawn reverse shells and execute remote… | Мартин. | [Read More](https://medium.com/p/25b1b56025e5) |
 | Thu, 13 Nov 2025 08:20:04 GMT | Craft Your Own CSP: A Head of Security’s Guide to Locking Down Your Website | Ladecruze | [Read More](https://medium.com/p/cf207d1d50d9) |
 | Thu, 13 Nov 2025 08:18:35 GMT | My CISM Journey at 26 — How I Qualified and Passed | Taipun | [Read More](https://medium.com/p/1516fb4a597a) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 01:39:35 GMT | Exploring AI Red Teaming: Challenges and Opportunities | Mainekhacker | [Read More](https://medium.com/p/9f76787d3ee3) |
 | Thu, 13 Nov 2025 01:39:30 GMT | Why 99% of Bug Hunters Fail — and How to Be the 1% | Vipul Sonule | [Read More](https://medium.com/p/d2c29ae84e1a) |
 | Thu, 13 Nov 2025 01:39:25 GMT | All About MSF - Metasploit Framework Explained for Beginners | Shahzaib | [Read More](https://medium.com/p/2c7529bb6e4a) |
-| Thu, 13 Nov 2025 01:28:30 GMT | How Proxy Websites Unlock the Internet: Privacy, Access, and Freedom Online | Novada | [Read More](https://medium.com/p/500f729d11f5) |
-| Thu, 13 Nov 2025 00:53:36 GMT | Terrascan: A Comprehensive Guide to the Infrastructure as Code (IaC) Scanning Tool | kaliarch | [Read More](https://medium.com/p/a41705ab6f4e) |
-| Thu, 13 Nov 2025 00:51:09 GMT | UniFi OS Security Warning: A flaw in the Backup API could let attackers run code without… | Criminal IP | [Read More](https://medium.com/p/221341636c69) |
-| Thu, 13 Nov 2025 00:43:20 GMT | VA 1st State w/ Official Digital ID. Here’s where it’s accepted | Natalia Lorsk | [Read More](https://medium.com/p/2b03b8caba94) |
-| Thu, 13 Nov 2025 00:37:51 GMT | Developing a Robust Cybersecurity Incident Response Plan: A Step-by-Step Guide | Steven Chin | [Read More](https://medium.com/p/0c28d0ab5f15) |
-| Thu, 13 Nov 2025 00:32:29 GMT | Secure Your Spring Boot App: Managing Secrets with Spring Secret Starter | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/8434ef9cfa9c) |
-| Thu, 13 Nov 2025 00:32:29 GMT | Detecting Attacker Behavior with Splunk: The Analytics Approach | Cybersecurity Simplified | [Read More](https://medium.com/p/5f90ffcaeb99) |
-| Wed, 12 Nov 2025 23:53:51 GMT | Crypto Scam and Ponzi Scheme Recovery: What to Do If You’ve Been Scammed
-With the rise of Bitcoin… | Derek Williams | [Read More](https://medium.com/p/78e8650b7a07) |
-| Wed, 12 Nov 2025 23:50:54 GMT | Threat Research: Inside Scattered LAPSUS$ Hunters (SLH) - UNC6040, UNC6395 | Gabriel Alves | [Read More](https://medium.com/p/4bab193c0899) |
