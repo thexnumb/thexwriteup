@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 22:18:36 GMT | Write-up: Máquina “Cap” Hack The Box | Marianoacostafc | [Read More](https://medium.com/p/708cffea237f) |
+| Thu, 13 Nov 2025 22:12:13 GMT | The Most Common API Security Failures | Cyber-AppSec | [Read More](https://medium.com/p/b9598f5015c6) |
+| Thu, 13 Nov 2025 22:04:20 GMT | Vinciani -The importance of a brand’s security, reliability and reputation | Manny Vinciani | [Read More](https://medium.com/p/38a534830e9e) |
+| Thu, 13 Nov 2025 22:03:30 GMT | AI Isn’t New: How IT Has Been Doing “Smart” Things Long Before the Buzzword | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/a5dbdfc1ac8e) |
+| Thu, 13 Nov 2025 21:59:16 GMT | Neon CRM vs Salesforce: Strategic Comparison | Digital Transformation Playbook | [Read More](https://medium.com/p/a822e5d3b9fd) |
+| Thu, 13 Nov 2025 21:52:22 GMT | Temporary Email vs. Privacy Mode: The Real Path to Being Anonymous Online | Taylor | [Read More](https://medium.com/p/59e6f7f286ff) |
+| Thu, 13 Nov 2025 21:51:29 GMT | The Dangerous Delusion — Why “I’m Not Important Enough to Be Hacked” Could Cost You Everything | David SEHYEON Baek | [Read More](https://medium.com/p/5ea1e6be5b8c) |
+| Thu, 13 Nov 2025 21:46:29 GMT | SOC from Scratch #4 — Log Analysis 101: How Analysts Catch Threats | Shane Samuel | [Read More](https://medium.com/p/f7be27d08141) |
+| Thu, 13 Nov 2025 21:44:17 GMT | Simple CTF writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/27b5d0f31ba9) |
+| Thu, 13 Nov 2025 21:43:03 GMT | Windows Web Shell | S12 - 0x12Dark Development | [Read More](https://medium.com/p/10991fd42a8c) |
+| Thu, 13 Nov 2025 21:39:13 GMT | Chutzpah Meets Kindness (Chayei Sarah) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/4e877f4ab691) |
+| Thu, 13 Nov 2025 21:35:57 GMT | ️Instantly Harden your Linux system | Lennart Pieperjohanns | [Read More](https://medium.com/p/de10aecf6988) |
+| Thu, 13 Nov 2025 21:28:40 GMT | How a Russian Couple Was Killed for Cryptocurrency and Dumped in a Desert near Dubai, UAE — When… | David SEHYEON Baek | [Read More](https://medium.com/p/36ffda00bd31) |
 | Thu, 13 Nov 2025 21:19:02 GMT | I’m Scared All The Time  — | Eleojo | [Read More](https://medium.com/p/76c14c395743) |
 | Thu, 13 Nov 2025 21:18:17 GMT | Why Password Managers Make You Anxious (And How Design Can Fix It) | KAMALJEET SINGH | [Read More](https://medium.com/p/ce8b0f9691a7) |
 | Thu, 13 Nov 2025 21:04:45 GMT | I am the First Person to be Enlightened by AI | Tyler Wall | [Read More](https://medium.com/p/28f97399fdeb) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 15:01:13 GMT | Cyber Briefing: 2025.11.13 | CyberMaterial | [Read More](https://medium.com/p/1ae9d5dd4cfd) |
 | Thu, 13 Nov 2025 15:00:29 GMT | India’s Cybersecurity Law Is Still Stuck in the Year 2000 | Jatin. | [Read More](https://medium.com/p/7b61dd89c7db) |
 | Thu, 13 Nov 2025 14:55:40 GMT | Why You Need Private Investigator On Suspicious Cheating Spouse - Professional Hackers | BlackHat | [Read More](https://medium.com/p/282a0ae25d72) |
-| Thu, 13 Nov 2025 14:52:33 GMT | Blog 49: AWS S3 — Transfer Acceleration & Requester Pays | Prutha_Dongre | [Read More](https://medium.com/p/d0e0432ed542) |
-| Thu, 13 Nov 2025 14:52:23 GMT | How to Test Your AI Chatbot’s Security in 4 Steps | TenXers | [Read More](https://medium.com/p/611f75b936d9) |
-| Thu, 13 Nov 2025 14:32:16 GMT | ️ How to Integrate DevSecOps into an Old Infrastructure Without Burning It Down | Anthonymatta | [Read More](https://medium.com/p/bd76676d9a05) |
-| Thu, 13 Nov 2025 14:29:07 GMT | LetsDefend — SOC274 Command Injection — (CVE-2024–3400) | Andrew Shires | [Read More](https://medium.com/p/8a62e56645fa) |
-| Thu, 13 Nov 2025 14:26:49 GMT | 8ksec FactsDroid android APK challenge writeup | bara almustafa | [Read More](https://medium.com/p/0a336be78b08) |
-| Thu, 13 Nov 2025 14:18:07 GMT | German Police Detain Dark Web Hit-List Operator: Key Insights for Researchers | Tor BBB | [Read More](https://medium.com/p/5c1233a06144) |
-| Thu, 13 Nov 2025 14:12:00 GMT | Who’s Watching Your Network When You’re Not? | QualityIP | [Read More](https://medium.com/p/cecbe567bd18) |
-| Thu, 13 Nov 2025 14:12:00 GMT | Neurotechnology’s (Wearables) New Frontier: AI Protecting the Human Mind, And UNESCO’s Recent… | Ross W. Green, MD (CustomAI Studio) | [Read More](https://medium.com/p/71184858706f) |
-| Thu, 13 Nov 2025 14:11:11 GMT | Why Cyber Attacks in Dubai Are Rising — And How Businesses Can Stay Protected | Ayeshatariq | [Read More](https://medium.com/p/ffedea603fa2) |
-| Thu, 13 Nov 2025 14:08:01 GMT | Capítulo 2 — A Cidade dos Dados | Kleber Andrade | [Read More](https://medium.com/p/524e29df9751) |
-| Thu, 13 Nov 2025 14:07:44 GMT | Dc:7 Vulnhub Walkthrough | Ankit Dhaka | [Read More](https://medium.com/p/39aa91a66a41) |
-| Thu, 13 Nov 2025 14:02:01 GMT | Day 12: Wireshark doo dooo do doo… | Siyam | [Read More](https://medium.com/p/77b0e6ea6c11) |
-| Thu, 13 Nov 2025 14:01:59 GMT | Series Round-Up: Tools, Trouble, and Trickery | OSINT Amy | [Read More](https://medium.com/p/ae9207aad181) |
