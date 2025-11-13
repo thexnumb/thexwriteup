@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 13 Nov 2025 22:39:06 GMT | Criminal Justice in the Age of Cybercrime | Anum Khan | [Read More](https://medium.com/p/d797323746a6) |
+| Thu, 13 Nov 2025 22:27:18 GMT | Input Manipulation & Prompt Injection - Tryhackme | Aaron | [Read More](https://medium.com/p/f6439ff1bbfd) |
+| Thu, 13 Nov 2025 22:21:36 GMT | The Internet Has a “Copy” Problem. I Used Quantum Physics to Build a “Cut” Button. | Damian Griggs | [Read More](https://medium.com/p/2b7801377fbf) |
 | Thu, 13 Nov 2025 22:18:36 GMT | Write-up: Máquina “Cap” Hack The Box | Marianoacostafc | [Read More](https://medium.com/p/708cffea237f) |
+| Thu, 13 Nov 2025 22:15:32 GMT | The Healthcare Crisis — When Weak Passwords Become a Matter of Life and Death | David SEHYEON Baek | [Read More](https://medium.com/p/aaa14b5b9846) |
 | Thu, 13 Nov 2025 22:12:13 GMT | The Most Common API Security Failures | Cyber-AppSec | [Read More](https://medium.com/p/b9598f5015c6) |
 | Thu, 13 Nov 2025 22:04:20 GMT | Vinciani -The importance of a brand’s security, reliability and reputation | Manny Vinciani | [Read More](https://medium.com/p/38a534830e9e) |
 | Thu, 13 Nov 2025 22:03:30 GMT | AI Isn’t New: How IT Has Been Doing “Smart” Things Long Before the Buzzword | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/a5dbdfc1ac8e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 15:12:18 GMT | Network Forensics with NetworkMiner | Citadel Cybersec | [Read More](https://medium.com/p/e5d6d1d0ec11) |
 | Thu, 13 Nov 2025 15:06:02 GMT | Runtime Risk Is Already Here, Can Your AI Prove Trust in Motion? | Rampart AI™ | [Read More](https://medium.com/p/9adc06671019) |
 | Thu, 13 Nov 2025 15:05:56 GMT | SOC Threat Detection: From Business Risk to Measurable Signals | Sabri Chaabi | [Read More](https://medium.com/p/75ff780caecb) |
-| Thu, 13 Nov 2025 15:01:29 GMT | China’s Expanding Cyber Contractor State: What the Knownsec Breach Reveals About the PRC’s New… | Abatis ABTU | [Read More](https://medium.com/p/9d786edba1cb) |
-| Thu, 13 Nov 2025 15:01:13 GMT | Cyber Briefing: 2025.11.13 | CyberMaterial | [Read More](https://medium.com/p/1ae9d5dd4cfd) |
-| Thu, 13 Nov 2025 15:00:29 GMT | India’s Cybersecurity Law Is Still Stuck in the Year 2000 | Jatin. | [Read More](https://medium.com/p/7b61dd89c7db) |
-| Thu, 13 Nov 2025 14:55:40 GMT | Why You Need Private Investigator On Suspicious Cheating Spouse - Professional Hackers | BlackHat | [Read More](https://medium.com/p/282a0ae25d72) |
