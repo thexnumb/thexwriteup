@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 17:22:29 GMT | When My Epson Printer Decided to Fight Ubuntu (Again) | Jishnu J P | [Read More](https://medium.com/p/3e6695368a62) |
 | Fri, 14 Nov 2025 16:58:11 GMT | The 10-Second Test That Exposed Everything | Pinki Singh | [Read More](https://medium.com/p/c34e0a31fba9) |
 | Fri, 14 Nov 2025 16:53:43 GMT | Becoming Who We Are Meant to Be: The Final Door Toward a Deeper Happiness | Habil Lokadjaja CFP | [Read More](https://medium.com/p/bc1ac1e44e74) |
 | Fri, 14 Nov 2025 16:50:56 GMT | The First AI-Orchestrated Cyber Espionage Campaign: What GTG-1002 Means for Enterprise Security | Pawel | [Read More](https://medium.com/p/b82f32b7c7a7) |
@@ -112,4 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 11:08:42 GMT | Ransomware’s Fragmentation Has Hit a Breaking Point — and LockBit’s Return Could Change Everything | Germano Costi | [Read More](https://medium.com/p/aa78a7310d92) |
 | Fri, 14 Nov 2025 11:07:21 GMT | Man-in-the-Middle Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/531ae36abee4) |
 | Fri, 14 Nov 2025 11:07:10 GMT | Email Security Challenges in Healthcare and How to Overcome Them | SmartCLOUD Australia | [Read More](https://medium.com/p/cf24945f53dc) |
-| Fri, 14 Nov 2025 11:00:38 GMT | Non-Degree Cyber Security Certifications and Courses: 12 Options to Boost Your Career - ECCU | Cybersecurity Courses | [Read More](https://medium.com/p/155d93b90f3b) |
