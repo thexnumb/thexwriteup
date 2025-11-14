@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 10:44:44 GMT | Hyperliquid Buyback, Burn, and Staking Mechanism Research Report | GoPlus Security | [Read More](https://medium.com/p/72e0e1765fd9) |
+| Fri, 14 Nov 2025 10:37:08 GMT | The internet is becoming divided | Jalaj Gupta | [Read More](https://medium.com/p/18dc91cf77d5) |
+| Fri, 14 Nov 2025 10:33:00 GMT | AI “Jailbreaking”: Why Learning to Trick AI Makes You a Safer Coder | Numan Nadeem | [Read More](https://medium.com/p/cea78cc61f36) |
+| Fri, 14 Nov 2025 10:32:05 GMT | AI Hackers Are Here: AI Launched a Cyberattack at Nation-State Scale | Namrata | [Read More](https://medium.com/p/47ac0d3303c0) |
+| Fri, 14 Nov 2025 10:28:52 GMT | The First Wave of AI-Powered Malware Is Here | Czarif | [Read More](https://medium.com/p/b91924b008a7) |
+| Fri, 14 Nov 2025 10:27:38 GMT | Best Cybersecurity Degree in India - EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/64bd10b7d3d0) |
+| Fri, 14 Nov 2025 10:27:35 GMT | Introduction to Emulators, Debuggers,
+and ADB for Mobile Penetration Testing (Android
+Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
+| Fri, 14 Nov 2025 10:27:05 GMT | DockerLabs Writeup — InfluencerHate (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/88d091ad13f7) |
+| Fri, 14 Nov 2025 10:25:30 GMT | The ‘Invisible Sticker’ Threat: How a Simple Patch on road signs Can Fool AI Cars | Berend Watchus | [Read More](https://medium.com/p/0e11578c4f04) |
+| Fri, 14 Nov 2025 10:22:28 GMT | Security Services in Mumbai -CISB | Ritik | [Read More](https://medium.com/p/097aa5b5f12b) |
+| Fri, 14 Nov 2025 10:17:05 GMT | Cybersecurity Control Types: A Practical Guide (with Energy-Sector Applications) | Ramandeep Bagri | [Read More](https://medium.com/p/84b1d4c41176) |
+| Fri, 14 Nov 2025 10:12:55 GMT | Winter Training in Ethical Hacking 2025–2026 | Manisha Chaudhary | [Read More](https://medium.com/p/1bdf097d4569) |
 | Fri, 14 Nov 2025 10:10:39 GMT | A Complete Guide to Web Application Security for Beginners | cyber security Updates | [Read More](https://medium.com/p/110884f2e49c) |
 | Fri, 14 Nov 2025 10:05:57 GMT | JWTs Explained - HackTheBox Criticalops Writeup | Motasem Hamdan | [Read More](https://medium.com/p/5f628921993c) |
 | Fri, 14 Nov 2025 10:05:23 GMT | Security Challenges and Solutions for Remote Teams Managing Social Media Accounts | 007TG | [Read More](https://medium.com/p/638776f04087) |
@@ -104,15 +118,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 14 Nov 2025 04:42:50 GMT | The Choice Divide: Why Self-Belief Shapes the Path You Take | L's Representation | [Read More](https://medium.com/p/412cc4800413) |
 | Fri, 14 Nov 2025 04:31:56 GMT | Cookie Security: Everything Developers Need to Know | Balki Maharaj | [Read More](https://medium.com/p/9c8fa98c5801) |
 | Fri, 14 Nov 2025 04:29:54 GMT | How Purposeful Corrupt A File Online In 2026 QA Game Changer | Abdur Rahman Isty | [Read More](https://medium.com/p/344c2122b4d7) |
-| Fri, 14 Nov 2025 04:18:04 GMT | Why Annual Penetration Testing Is No Longer Enough in 2025 | SilentWire Cybersecurity | [Read More](https://medium.com/p/71bdb9a57bc7) |
-| Fri, 14 Nov 2025 04:15:49 GMT | Firefox Is Thinking Differently: A New Kind of AI Browser Experience | Dibeesh KS | [Read More](https://medium.com/p/acdb2fd38b0e) |
-| Fri, 14 Nov 2025 04:08:24 GMT | Router Security Tips to Block WiFi Thieves and Protect Your Network | Ask IT Support | [Read More](https://medium.com/p/fea08d592fcb) |
-| Fri, 14 Nov 2025 04:08:12 GMT | 1-Line curl to steal your unexposed secret creds Escaping Protection from AWS API Gateway | Greg K | [Read More](https://medium.com/p/0c52f4f47300) |
-| Fri, 14 Nov 2025 04:05:45 GMT | love | i am, i was, i will be | [Read More](https://medium.com/p/7de6f43fc154) |
-| Fri, 14 Nov 2025 04:05:02 GMT | I Was Raised to Be Proud, Not Vulnerable | Arindora | [Read More](https://medium.com/p/8c78bbec5244) |
-| Fri, 14 Nov 2025 03:58:28 GMT | Why SMEs Are Delaying AI Adoption | Tom | [Read More](https://medium.com/p/b438da327867) |
-| Fri, 14 Nov 2025 03:55:50 GMT | Emphasis on Cybersecurity with Artificial Intelligence in 2026: Why It Matters for Everyone | FutureLens | [Read More](https://medium.com/p/3371a816bffb) |
-| Fri, 14 Nov 2025 03:52:54 GMT | Why Traditional Penetration Testing Is Broken — And What Businesses Should Demand Instead | SilentWire Cybersecurity | [Read More](https://medium.com/p/accd1a35ad0b) |
-| Fri, 14 Nov 2025 03:45:42 GMT | The ‘How-To’ of Ethical OSINT | Rabail Zaheer | [Read More](https://medium.com/p/253e4385d90f) |
-| Fri, 14 Nov 2025 03:45:26 GMT | $6000 Bounty: Breakdown XSS Vulnerability | Monika sharma | [Read More](https://medium.com/p/e03f3f537c6d) |
-| Fri, 14 Nov 2025 03:45:03 GMT | $650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Games’ Admin Panel | Monika sharma | [Read More](https://medium.com/p/3bfdf6a352b0) |
