@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 01:32:14 GMT | OWASP top 10–2025 vs 2021- The “what” and “why” | Cyberbali | [Read More](https://medium.com/p/961acac772db) |
+| Fri, 14 Nov 2025 01:31:50 GMT | CyberSecurity Lesson 4 : Seeing Security in Action | YogiCode | [Read More](https://medium.com/p/79ea46309a15) |
+| Fri, 14 Nov 2025 01:31:04 GMT | How I Became the #1 Security Researcher on the DHS Vulnerability Disclosure Program | Philip Garabandic | [Read More](https://medium.com/p/cf75da2b83be) |
+| Fri, 14 Nov 2025 01:26:44 GMT | HTB — Sequel | Lautaro Robayna | [Read More](https://medium.com/p/3f7fcfffa683) |
+| Fri, 14 Nov 2025 01:19:37 GMT | Introducing Ph.Sh_URL: Your New Go-To OSINT Tool for URL Discovery | Philopater Shenouda | [Read More](https://medium.com/p/709f1036e56f) |
+| Fri, 14 Nov 2025 01:15:17 GMT | How to Spot and Avoid the Latest WhatsApp Scams in 2025 | Steven Chin | [Read More](https://medium.com/p/306c84ad49a7) |
+| Fri, 14 Nov 2025 01:12:42 GMT | Hydra & Cewl: Toolkit Profesional para Pentesting en Formularios de Login | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/68b7fbb6ad13) |
+| Fri, 14 Nov 2025 01:08:02 GMT | Washington Post Confirms Data Breach Linked to Zero-Day Exploit | RealSec.io | [Read More](https://medium.com/p/78191151931a) |
+| Fri, 14 Nov 2025 01:06:06 GMT | Write-up: Máquina “Jerry” Hack The Box | Marianoacostafc | [Read More](https://medium.com/p/0e0511003ca0) |
+| Fri, 14 Nov 2025 00:57:21 GMT | Lessons from 5 Levels of the Microcorruption CTF | Johnny L Jones Iv | [Read More](https://medium.com/p/34b5a49f45df) |
+| Fri, 14 Nov 2025 00:33:59 GMT | Deploying AWS Wavelength: Complete End-to-End Setup With VPCs, Carrier Gateway, Peering, Routing &… | Salah-eddine Lyoubi Idrissi | [Read More](https://medium.com/p/bc6163b7e228) |
+| Fri, 14 Nov 2025 00:06:24 GMT | Fixing IDOR in a Flask API: Guide to Broken Access Control | Kay Adelaja | [Read More](https://medium.com/p/c116c6905988) |
+| Fri, 14 Nov 2025 00:05:40 GMT | Research on Attack and Attribution in Penetration Testing | IceCliffs | [Read More](https://medium.com/p/ed5db902ce96) |
 | Thu, 13 Nov 2025 23:27:18 GMT | Officer Snaggletooth and the Static of Justice: part 2 | Lea Martin | [Read More](https://medium.com/p/a6904997b232) |
 | Thu, 13 Nov 2025 23:19:40 GMT | The Bridge Between Justice and Cybersecurity | Anum Khan | [Read More](https://medium.com/p/6e63a0d18d71) |
 | Thu, 13 Nov 2025 23:17:17 GMT | Somewhere in Between | Jana Gauthier | [Read More](https://medium.com/p/b91323636833) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 15:57:59 GMT | CyberUP Institute and the Strategic Role of AI in the Future of Cybersecurity | CYBERUP INSTITUTE | [Read More](https://medium.com/p/b633647c03c0) |
 | Thu, 13 Nov 2025 15:57:52 GMT | Mobexler OVA Mobile Forensics & Offensive Security Platform | Lord Murak | [Read More](https://medium.com/p/eb01ff55c831) |
 | Thu, 13 Nov 2025 15:50:40 GMT | My First Cybersecurity Blog — And It Starts with a Bang! | Vijay K | [Read More](https://medium.com/p/16fed0543ff1) |
-| Thu, 13 Nov 2025 15:47:24 GMT | How I Found a Backdoor in Their AI’s Brain (And It Was Someone Else’s Fault) | Iski | [Read More](https://medium.com/p/7f455ab5cd16) |
-| Thu, 13 Nov 2025 15:46:40 GMT | Triofox Exploitation Cluster (UNC6485): Six-Month Outlook, Copycat Risk, and What to Watch | Wes Young | [Read More](https://medium.com/p/2201a90255eb) |
-| Thu, 13 Nov 2025 15:45:35 GMT | Beyond the Router: Understanding Firewalls, APs, Load Balancers, and More in Enterprise Networking | Paradise technologies Inc | [Read More](https://medium.com/p/e4012ce9df21) |
-| Thu, 13 Nov 2025 15:44:19 GMT | How Do We Know the Company Isn’t Hiding Risk Inside Their IT Stack? | Barry Ritchie | [Read More](https://medium.com/p/4885e86ab725) |
-| Thu, 13 Nov 2025 15:42:40 GMT | The Myth of Private AI: Why Your Chat Logs Are a Legal Battlefield | Vlad Arbatov | [Read More](https://medium.com/p/6608af6a66db) |
-| Thu, 13 Nov 2025 15:39:58 GMT | Binary Search-General Skills-picoCTF WriteUp | Nirgunah | [Read More](https://medium.com/p/a72d24a6d458) |
-| Thu, 13 Nov 2025 15:34:43 GMT | Return Oriented Programming [ROP] (Binary Exploitation) | Aditya Bhos | [Read More](https://medium.com/p/57f6d92497e1) |
-| Thu, 13 Nov 2025 15:33:05 GMT | The Director’s Blind Spot: Why “Doing Nothing” on AI Risk Is Now a Breach of Duty | AXSAS | [Read More](https://medium.com/p/f9be73f11629) |
-| Thu, 13 Nov 2025 15:32:58 GMT | Evaluation of LLMs: The Final Safety Net | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/7b36d28e1b54) |
-| Thu, 13 Nov 2025 15:32:40 GMT | The Complete OpenVPN CloudConnexa Series | Divyesh Vaishnav | [Read More](https://medium.com/p/dc378885ff64) |
-| Thu, 13 Nov 2025 15:25:54 GMT | TryHackMe Pickle Rick Write-Up | Emir Fatih AYYILDIZ | [Read More](https://medium.com/p/5b3b4d294de4) |
-| Thu, 13 Nov 2025 15:24:52 GMT | AUKUS Just Quietly Rewrote the Rules on AI – and Most Boards Haven’t Noticed | AXSAS | [Read More](https://medium.com/p/b3fc6f6142a9) |
-| Thu, 13 Nov 2025 15:20:31 GMT | OWASP TOP 10:-2025 | Ashishsinghu | [Read More](https://medium.com/p/43b4292ffd5a) |
