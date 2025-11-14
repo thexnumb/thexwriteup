@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 13:49:59 GMT | How Data Breach Attorneys Assess Negligence in Cybersecurity Incidents | Legal Thoughts | [Read More](https://medium.com/p/b06e3e33c2d8) |
+| Fri, 14 Nov 2025 13:47:39 GMT | How to Build a Home SOC (Free + VirtualBox) | Zachary Marcy | [Read More](https://medium.com/p/e01b276745f3) |
+| Fri, 14 Nov 2025 13:47:11 GMT | How to Detect Jailbreak on Flutter | Talsec | [Read More](https://medium.com/p/74f1bf3b1827) |
+| Fri, 14 Nov 2025 13:39:34 GMT | Security Services in India: Trends, Innovations & the Future of Protection | Noman Ali | [Read More](https://medium.com/p/7c9a5872f78d) |
+| Fri, 14 Nov 2025 13:37:05 GMT | Part 2. Wallet Drainers and their TTPs | Joe LeFever | [Read More](https://medium.com/p/5e0512cee2cb) |
 | Fri, 14 Nov 2025 13:29:55 GMT | Bash Commands You Should Never Run on Any Machine | Arun Malve | [Read More](https://medium.com/p/52a6bca9a143) |
 | Fri, 14 Nov 2025 13:27:45 GMT | When the Bug Bounty Platform Turns Against Its Own Hunters | Gl1tch | [Read More](https://medium.com/p/3f5da87851ff) |
 | Fri, 14 Nov 2025 13:19:33 GMT | Security Audits for Early-Stage SaaS Products | KodekX | [Read More](https://medium.com/p/c740f37f4b22) |
@@ -109,8 +114,3 @@ Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
 | Fri, 14 Nov 2025 08:39:21 GMT | Design Systems and Reusable Components in 2025: A Practical Guide | OneEntry Platform | [Read More](https://medium.com/p/c3f9ac904a57) |
 | Fri, 14 Nov 2025 08:13:41 GMT | 15 Terminal Commands Every Beginner Should Master, The Ones That Actually Change Your Life | Fateyaly | [Read More](https://medium.com/p/209d3c098b85) |
 | Fri, 14 Nov 2025 08:09:45 GMT | You’ve been pwned | DeltaBytes | [Read More](https://medium.com/p/e7a98725cb6c) |
-| Fri, 14 Nov 2025 08:08:54 GMT | Easiest way to Fulfill Server Storage with 1-TB or 1-PB— 1-Line Curl from a Closed CVE | Greg K | [Read More](https://medium.com/p/df77e6cdd17c) |
-| Fri, 14 Nov 2025 08:06:42 GMT | DPDP Act and India’s Cybersecurity Growth | GyaanSetu | [Read More](https://medium.com/p/a55ce3c5ffcb) |
-| Fri, 14 Nov 2025 08:05:37 GMT | I’ve Been Lying and It’s Getting Ugly | Blossom Chidiuto | [Read More](https://medium.com/p/089b04f06afa) |
-| Fri, 14 Nov 2025 08:04:18 GMT | The Hidden Superpowers of the Linux Terminal, Why GUI Users Miss the Real Magic | Fateyaly | [Read More](https://medium.com/p/d52ecdb0a919) |
-| Fri, 14 Nov 2025 08:03:05 GMT | The Daily Tech Digest: 14 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/42b228f68710) |
