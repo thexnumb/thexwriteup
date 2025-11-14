@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 10:10:39 GMT | A Complete Guide to Web Application Security for Beginners | cyber security Updates | [Read More](https://medium.com/p/110884f2e49c) |
+| Fri, 14 Nov 2025 10:05:57 GMT | JWTs Explained - HackTheBox Criticalops Writeup | Motasem Hamdan | [Read More](https://medium.com/p/5f628921993c) |
+| Fri, 14 Nov 2025 10:05:23 GMT | Security Challenges and Solutions for Remote Teams Managing Social Media Accounts | 007TG | [Read More](https://medium.com/p/638776f04087) |
+| Fri, 14 Nov 2025 10:02:31 GMT | Zero Trust Architecture: Why Trust Is No Longer Enough in Modern Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/a9de81c9e13d) |
+| Fri, 14 Nov 2025 09:56:17 GMT | Guarding Digital Sovereignty: How Digital Shield Forges an Offline, Multi-Chain Asset Management… | Digital Shield | [Read More](https://medium.com/p/57b872135715) |
+| Fri, 14 Nov 2025 09:55:03 GMT | Why Security Guard Services Are Essential for Modern Businesses in India | Ciss India | [Read More](https://medium.com/p/3d31b16c15f5) |
+| Fri, 14 Nov 2025 09:54:02 GMT | Cyberattacks Cost UK SMEs Over £10,000: The Direct Hybrid Work Link & Mitigation Strategy | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/98e60846ce5e) |
+| Fri, 14 Nov 2025 09:52:13 GMT | Why HR Kiosk Machines Are Becoming Essential for Large Enterprises | Rakesh | [Read More](https://medium.com/p/436160cda6e6) |
+| Fri, 14 Nov 2025 09:47:45 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/d6bf5f84c356) |
 | Fri, 14 Nov 2025 09:41:27 GMT | Advanced Threat Modeling Techniques | Esra Kayhan | [Read More](https://medium.com/p/c6f6e7bd3268) |
 | Fri, 14 Nov 2025 09:31:58 GMT | Quantum Computing and Its Impact on Encryption | Digital Defense | [Read More](https://medium.com/p/9c70fbf162fd) |
 | Fri, 14 Nov 2025 09:29:11 GMT | “I Wish We Had Acted Sooner”: Common Post-Breach Regrets | Fook Hwa Tan | [Read More](https://medium.com/p/b64356208990) |
@@ -107,12 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 14 Nov 2025 03:45:42 GMT | The ‘How-To’ of Ethical OSINT | Rabail Zaheer | [Read More](https://medium.com/p/253e4385d90f) |
 | Fri, 14 Nov 2025 03:45:26 GMT | $6000 Bounty: Breakdown XSS Vulnerability | Monika sharma | [Read More](https://medium.com/p/e03f3f537c6d) |
 | Fri, 14 Nov 2025 03:45:03 GMT | $650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Games’ Admin Panel | Monika sharma | [Read More](https://medium.com/p/3bfdf6a352b0) |
-| Fri, 14 Nov 2025 03:43:46 GMT | 2025年第46周链上被盗事件周报 | GE_uang | [Read More](https://medium.com/p/c63e740dcdff) |
-| Fri, 14 Nov 2025 03:32:03 GMT | 8 Must-Know Node.js Security Measures for Azure Users | Arunangshu Das | [Read More](https://medium.com/p/2379b0b78e35) |
-| Fri, 14 Nov 2025 03:32:03 GMT | New Phishing Campaign Exploits Meta Business Suite Invitations | Deven Chhajed | [Read More](https://medium.com/p/4e82b1f21b84) |
-| Fri, 14 Nov 2025 03:25:29 GMT | The 5 Best Online Learning Platforms to Launch Your Cybersecurity Career in 2025 | SinVictus | [Read More](https://medium.com/p/ce0edb9778de) |
-| Fri, 14 Nov 2025 03:17:01 GMT | Hacker For Hire Industry Has Gone Dark. | SinVictus | [Read More](https://medium.com/p/f0527ec59cc8) |
-| Fri, 14 Nov 2025 03:12:51 GMT | We’re Looking for Pentesters Who Want to Be Part of Something Bigger | SilentWire Cybersecurity | [Read More](https://medium.com/p/75576c49ebd3) |
-| Fri, 14 Nov 2025 02:49:23 GMT | Essential 8 for Small Business | PECyber | [Read More](https://medium.com/p/a02a3f8b69a5) |
-| Fri, 14 Nov 2025 02:22:20 GMT | How to Crack CCNA in 10 Days? A Beginner’s Survival Guide | Breeze | [Read More](https://medium.com/p/a27c411c4aa4) |
-| Fri, 14 Nov 2025 02:06:42 GMT | Cybersecurity: What People See vs. What Really Happens | Madhava Sai Kolluri | [Read More](https://medium.com/p/0aefef8d48cd) |
