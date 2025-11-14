@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 22:26:53 GMT | Maximum Courage challenge write up | -_ENIGMA_- | [Read More](https://medium.com/p/86b5256225ea) |
+| Fri, 14 Nov 2025 22:26:32 GMT | CyberLens Write-up | Tanuik Kendrick | [Read More](https://medium.com/p/a4d3c85442f0) |
+| Fri, 14 Nov 2025 22:23:51 GMT | Kirrel3: The Chaotic Editor of Your Mind | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/45462b148479) |
 | Fri, 14 Nov 2025 22:16:56 GMT | [Cat’s_Hidden_Scratch] — [Digital Forensics] — [CUET CTF 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/0967a4afb567) |
 | Fri, 14 Nov 2025 22:11:10 GMT | CodeTwo CTF Walkthrough | Lol.spades | [Read More](https://medium.com/p/60fdd422a400) |
 | Fri, 14 Nov 2025 21:55:46 GMT | Strategic Cloud Scaling: Balancing Growth with Cost Governance | Modncv | [Read More](https://medium.com/p/bce838ad6f82) |
@@ -110,6 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 15:02:31 GMT | Cyber Briefing: 2025.11.14 | CyberMaterial | [Read More](https://medium.com/p/7dcce28385e4) |
 | Fri, 14 Nov 2025 14:56:43 GMT | Auth0, OAuth 2.0, and Other Login Options for Your App | Mozaffaritabar H | [Read More](https://medium.com/p/183c6f09a62a) |
 | Fri, 14 Nov 2025 14:56:28 GMT | Love Can’t Handle Testing and Ambiguity | tiner | [Read More](https://medium.com/p/1e363436b866) |
-| Fri, 14 Nov 2025 14:53:53 GMT | The First Fully Agentic Cyberattack Just Happened — And It Changes Everything | HIYA CHATTERJEE | [Read More](https://medium.com/p/f664a4adf1ae) |
-| Fri, 14 Nov 2025 14:51:52 GMT | Exploitation Intensifies Following New KEV Additions | Loginsoft | [Read More](https://medium.com/p/c2d78e76979c) |
-| Fri, 14 Nov 2025 14:48:54 GMT | When the Machines Begin to Act | Tom Yonashiro | [Read More](https://medium.com/p/e08660270dae) |
