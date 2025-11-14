@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 11:12:13 GMT | AI Browser Extensions Truth: Safer Choices | Dr. Hernani Costa - First AI Movers Insights | [Read More](https://medium.com/p/b04f9abb7bf5) |
+| Fri, 14 Nov 2025 11:08:50 GMT | Kerberoasting (T1558.003) — Active Directory Detection | Aufarifqi | [Read More](https://medium.com/p/ece17802055e) |
+| Fri, 14 Nov 2025 11:08:42 GMT | Ransomware’s Fragmentation Has Hit a Breaking Point — and LockBit’s Return Could Change Everything | Germano Costi | [Read More](https://medium.com/p/aa78a7310d92) |
+| Fri, 14 Nov 2025 11:07:21 GMT | Man-in-the-Middle Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/531ae36abee4) |
+| Fri, 14 Nov 2025 11:07:10 GMT | Email Security Challenges in Healthcare and How to Overcome Them | SmartCLOUD Australia | [Read More](https://medium.com/p/cf24945f53dc) |
+| Fri, 14 Nov 2025 11:00:38 GMT | Non-Degree Cyber Security Certifications and Courses: 12 Options to Boost Your Career - ECCU | Cybersecurity Courses | [Read More](https://medium.com/p/155d93b90f3b) |
+| Fri, 14 Nov 2025 10:56:27 GMT | SQL Injection: Querying Database Type & Version (MySQL & MSSQL) | Aditya Bhatt | [Read More](https://medium.com/p/b53801892925) |
+| Fri, 14 Nov 2025 10:52:00 GMT | Wi-Fi is watching you! | Kirthikka Devi Venkataram | [Read More](https://medium.com/p/07e44510ed12) |
+| Fri, 14 Nov 2025 10:47:59 GMT | WAF Showdown: Real Deployment Costs Compared | Maverick Steel | [Read More](https://medium.com/p/4e9c6d1557b6) |
 | Fri, 14 Nov 2025 10:44:44 GMT | Hyperliquid Buyback, Burn, and Staking Mechanism Research Report | GoPlus Security | [Read More](https://medium.com/p/72e0e1765fd9) |
+| Fri, 14 Nov 2025 10:38:50 GMT | The Importance of Self-Learning in the Information Age | Ahmed Mohamed | [Read More](https://medium.com/p/686d5981256a) |
 | Fri, 14 Nov 2025 10:37:08 GMT | The internet is becoming divided | Jalaj Gupta | [Read More](https://medium.com/p/18dc91cf77d5) |
 | Fri, 14 Nov 2025 10:33:00 GMT | AI “Jailbreaking”: Why Learning to Trick AI Makes You a Safer Coder | Numan Nadeem | [Read More](https://medium.com/p/cea78cc61f36) |
 | Fri, 14 Nov 2025 10:32:05 GMT | AI Hackers Are Here: AI Launched a Cyberattack at Nation-State Scale | Namrata | [Read More](https://medium.com/p/47ac0d3303c0) |
@@ -108,13 +118,3 @@ Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
 | Fri, 14 Nov 2025 05:26:14 GMT | Room 108-Telnet vs SSH | blackXmask | [Read More](https://medium.com/p/2aceb35892b4) |
 | Fri, 14 Nov 2025 05:21:24 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/99706f9d7885) |
 | Fri, 14 Nov 2025 05:20:25 GMT | Who Provides the Best Security Services in Bhiwani? | Lakshay Security | [Read More](https://medium.com/p/4dfe35f71548) |
-| Fri, 14 Nov 2025 05:18:19 GMT | AI vs. AI: The New Cybersecurity Battleground Your Organization Can’t Ignore | Kaustubh Phatak | [Read More](https://medium.com/p/b7f3607aa3af) |
-| Fri, 14 Nov 2025 05:17:30 GMT | Valley | ben_0xCTF | [Read More](https://medium.com/p/0cda76bbd521) |
-| Fri, 14 Nov 2025 05:16:30 GMT | Cache Poisoning: How We Analyzed $44K in Bug Bounties | Abhishek meena | [Read More](https://medium.com/p/eda1107c779a) |
-| Fri, 14 Nov 2025 05:09:35 GMT | Phase 1 — How We Built a Content-Based Exercise Recommender Using MITRE ATT&CK | Data:Algo | [Read More](https://medium.com/p/d18d23f45328) |
-| Fri, 14 Nov 2025 05:00:26 GMT | Anonforce | ben_0xCTF | [Read More](https://medium.com/p/3f083fac89a8) |
-| Fri, 14 Nov 2025 04:52:37 GMT | Become the First Line of Cyber Defense — Certified Ethical Hacking Foundation (CEHF) | Adhiraj Kasabe | [Read More](https://medium.com/p/38223c5a3136) |
-| Fri, 14 Nov 2025 04:50:46 GMT | Why Every Business Needs Managed Cybersecurity: A Reality Check from Mumbai’s Digital Frontlines | Maxatlasofficial | [Read More](https://medium.com/p/23842b4ab693) |
-| Fri, 14 Nov 2025 04:42:50 GMT | The Choice Divide: Why Self-Belief Shapes the Path You Take | L's Representation | [Read More](https://medium.com/p/412cc4800413) |
-| Fri, 14 Nov 2025 04:31:56 GMT | Cookie Security: Everything Developers Need to Know | Balki Maharaj | [Read More](https://medium.com/p/9c8fa98c5801) |
-| Fri, 14 Nov 2025 04:29:54 GMT | How Purposeful Corrupt A File Online In 2026 QA Game Changer | Abdur Rahman Isty | [Read More](https://medium.com/p/344c2122b4d7) |
