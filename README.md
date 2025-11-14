@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 19:09:45 GMT | TryHackMe — CyberHeros Write‑up | Andrey.Web | [Read More](https://medium.com/p/13cf0474cdb6) |
+| Fri, 14 Nov 2025 19:04:10 GMT | How an Exported Broadcast Receiver in Android Can Lead to Full Remote Control of Smart Home IoT… | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/f5aed0a7aff9) |
+| Fri, 14 Nov 2025 18:59:40 GMT | VPC Endpoint Service to the Rescue | Balaji Radhakrishnan | [Read More](https://medium.com/p/e66ff32ecc2a) |
+| Fri, 14 Nov 2025 18:52:48 GMT | Think Before You Charge: What You Need To Know About Juice Jacking | Umar Al-Mahfuz | [Read More](https://medium.com/p/2095dcf4ec88) |
+| Fri, 14 Nov 2025 18:45:37 GMT | Active Directory Nedir? Avantajları, Bileşenleri ve Özellikleri Nelerdir? | Aytuğ Çelikdönmez | [Read More](https://medium.com/p/6e31af8ce32b) |
+| Fri, 14 Nov 2025 18:37:01 GMT | Hidden Role, Full Takeover: How an Invite API Let Me Become an Organization Owner | MegaTron | [Read More](https://medium.com/p/86c9e55298e4) |
+| Fri, 14 Nov 2025 18:32:09 GMT | The Art and Science of Jailbreaking LLMs: Unlocking the Boundaries of AI | Chiraggarg | [Read More](https://medium.com/p/2888abab748c) |
+| Fri, 14 Nov 2025 18:32:03 GMT | ️ How to Secure Your Backend from Common Attacks | Chami | [Read More](https://medium.com/p/5d038185da08) |
 | Fri, 14 Nov 2025 18:27:13 GMT | Reflected XSS → DVWA Walkthrough: Learn How User Input Can Trigger a Script Execution | Adwaith S | [Read More](https://medium.com/p/3c9f9f26962b) |
 | Fri, 14 Nov 2025 18:22:32 GMT | How to Build a Simple and Effective Cybersecurity Plan for Your Team | Cordula Boeck | [Read More](https://medium.com/p/1cfb792fbb76) |
 | Fri, 14 Nov 2025 18:21:11 GMT | Cybersecurity News Review — Week 46 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/3318548b631a) |
+| Fri, 14 Nov 2025 18:21:03 GMT | No more credentials with Snowflake Storage Integration | Fabien Monnery | [Read More](https://medium.com/p/ec1a1f6de49f) |
 | Fri, 14 Nov 2025 18:19:23 GMT | CYBERSECURITY INTERNSHIP | Adeleke Theophilus O | [Read More](https://medium.com/p/2c5aaf33f859) |
 | Fri, 14 Nov 2025 18:18:24 GMT | 10 Mistakes AI SaaS Startups Make With Data Privacy | Hamza Rahmoun | [Read More](https://medium.com/p/fe42d990b4c5) |
 | Fri, 14 Nov 2025 18:16:19 GMT | The Silent ATO | Omar Mahmoud | [Read More](https://medium.com/p/238edcda6dd0) |
@@ -104,12 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 12:31:03 GMT | Zeroday Slims9 Bulian(v9.7.2) Arbitrary File Write to RCE | xpl0dec | [Read More](https://medium.com/p/6a458ad7960f) |
 | Fri, 14 Nov 2025 12:23:25 GMT | PHP for Pentesters — Day 3 | Bazil Brohi | [Read More](https://medium.com/p/d2ff8a6aa8bc) |
 | Fri, 14 Nov 2025 12:23:06 GMT | A Classic Hacking Technique Works on Some Quantum Computers | Nosheen Butt | [Read More](https://medium.com/p/3fbdfe848b2b) |
-| Fri, 14 Nov 2025 12:22:28 GMT | I Built a Zero-Trust Network in Azure — and It Immediately Blocked Me. | Gideon John Utong | [Read More](https://medium.com/p/5d64db245ec2) |
-| Fri, 14 Nov 2025 12:21:31 GMT | Secure Your Walls With Fencing Security | Meena Devi | [Read More](https://medium.com/p/e9347ebd5f98) |
-| Fri, 14 Nov 2025 12:17:32 GMT | A New Muslim Bloc: Reimagining Global Geopolitics | Javeria Iman | [Read More](https://medium.com/p/c02b92870505) |
-| Fri, 14 Nov 2025 12:07:45 GMT | CISO Digest: Inside the Claude Hack | int0x33 | [Read More](https://medium.com/p/35b843d7cfcc) |
-| Fri, 14 Nov 2025 12:07:44 GMT | Why Many Nigerian ISPs Don’t Allow Port-Forwarding — The CGNAT REALITY | Adebisi mololuwa | [Read More](https://medium.com/p/5d8c01dec0fa) |
-| Fri, 14 Nov 2025 12:05:26 GMT | [CyberSecNews] Anthropic — Disrupting the First Reported AI-Orchestrated Cyber Espionage Campaign | Pietro Romano / SecBeret | [Read More](https://medium.com/p/69e6fa932a88) |
-| Fri, 14 Nov 2025 12:01:20 GMT | OSI Layers ️ | Merve Güler | [Read More](https://medium.com/p/7abe52123cc7) |
-| Fri, 14 Nov 2025 12:00:59 GMT | Today’s Top Cyber Intelligence Highlights — Nov 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/dcac21a94b5d) |
-| Fri, 14 Nov 2025 11:52:36 GMT | AI in Cyber Security: From Hype to Hard Outcomes | Pietro Romano / SecBeret | [Read More](https://medium.com/p/62ecef8b5ee5) |
