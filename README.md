@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 16:24:31 GMT | Security and Performance Aspects of Filesystem Optimization | Linux Guide | [Read More](https://medium.com/p/3a2e5f20a5d1) |
+| Fri, 14 Nov 2025 16:21:45 GMT | Pickle Rick TryHackMe Writeup | Benedict Agno | [Read More](https://medium.com/p/e7039ecb3711) |
+| Fri, 14 Nov 2025 16:14:15 GMT | Advanced Seccomp Filters Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/c027f5f62ecc) |
+| Fri, 14 Nov 2025 16:11:28 GMT | New ClickFix Attack Targeting Windows and macOS Users to Deploy Infostealer Malware | Technijian | [Read More](https://medium.com/p/4086172bd737) |
+| Fri, 14 Nov 2025 16:06:25 GMT | ⚙️ Inside PostgreSQL Performance Optimization: Real Tuning Lessons from 2025 | Rizqi Mulki | [Read More](https://medium.com/p/2387c86542cd) |
+| Fri, 14 Nov 2025 16:03:29 GMT | How Melbourne’s Growth Is Transforming the Demand for Fencing Solutions | Herwin Rosairo | [Read More](https://medium.com/p/0489e4c2b72a) |
+| Fri, 14 Nov 2025 16:02:08 GMT | Vault Chronicles: The Codex | Raymon Epping | [Read More](https://medium.com/p/1d6bf78e5ca6) |
+| Fri, 14 Nov 2025 16:00:18 GMT | ASM, NYT vs OpenAI, NightHawk [251113_Jscrap] | JAYL | [Read More](https://medium.com/p/e3fc5caaf09c) |
+| Fri, 14 Nov 2025 15:52:39 GMT | Critical RCE Flaw in React Native CLI Exposes Dev Servers | Valentin Podkamennyi | [Read More](https://medium.com/p/99c03f06c39d) |
+| Fri, 14 Nov 2025 15:47:32 GMT | Why a Data Breach Attorney Matters When Your Personal Information Is Exposed | Legal Thoughts | [Read More](https://medium.com/p/0efeb5122e1f) |
+| Fri, 14 Nov 2025 15:45:22 GMT | Capítulo 3 — O Jogo dos Logs | Kleber Andrade | [Read More](https://medium.com/p/e6874b07af31) |
 | Fri, 14 Nov 2025 15:40:05 GMT | When Even My Angels Run Out of Words: Learning to Come Home to Yourself | Daniel Gagarin | [Read More](https://medium.com/p/a6a9da2a9eac) |
+| Fri, 14 Nov 2025 15:38:07 GMT | CTF With ChatGPT: Helpful Vibes, Zero Flags | Matt Snyder | [Read More](https://medium.com/p/de3e6a7a6e27) |
 | Fri, 14 Nov 2025 15:34:57 GMT | When Fragility Makes Us Stronger:
 Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com/p/ca4a4955f223) |
+| Fri, 14 Nov 2025 15:31:04 GMT | AI-Driven Cyberattacks Have Arrived: What Project Managers and Technology Strategists Must Do Now | CCL Montante | [Read More](https://medium.com/p/82959712276e) |
+| Fri, 14 Nov 2025 15:30:59 GMT | Unknown Caller? Suspicious Email? Here’s How to Verify Anyone in Seconds (Without Them Knowing) | Risfat | [Read More](https://medium.com/p/e5bde434f0b0) |
 | Fri, 14 Nov 2025 15:17:39 GMT | My $0 Path to SOC Analyst: Mastering the “Human Side” (Alerts, Escalation, Communication — Week 2) | Ayush Kumbhar | [Read More](https://medium.com/p/b4c781442664) |
 | Fri, 14 Nov 2025 15:17:18 GMT | The Shai-Hulud Attack: Exposing Weak Links in Modern Software Supply Chains | Himanshu Bhatt | [Read More](https://medium.com/p/07422d6f19b3) |
 | Fri, 14 Nov 2025 15:15:50 GMT | Master the Art of Writing Better Cybersecurity Reports with AI: Step-by-Step Guide for Pros | Very Lazy Tech | [Read More](https://medium.com/p/45393249dcf4) |
@@ -99,19 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 10:32:05 GMT | AI Hackers Are Here: AI Launched a Cyberattack at Nation-State Scale | Namrata | [Read More](https://medium.com/p/47ac0d3303c0) |
 | Fri, 14 Nov 2025 10:28:52 GMT | The First Wave of AI-Powered Malware Is Here | Czarif | [Read More](https://medium.com/p/b91924b008a7) |
 | Fri, 14 Nov 2025 10:27:38 GMT | Best Cybersecurity Degree in India - EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/64bd10b7d3d0) |
-| Fri, 14 Nov 2025 10:27:35 GMT | Introduction to Emulators, Debuggers,
-and ADB for Mobile Penetration Testing (Android
-Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
-| Fri, 14 Nov 2025 10:27:05 GMT | DockerLabs Writeup — InfluencerHate (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/88d091ad13f7) |
-| Fri, 14 Nov 2025 10:25:30 GMT | The ‘Invisible Sticker’ Threat: How a Simple Patch on road signs Can Fool AI Cars | Berend Watchus | [Read More](https://medium.com/p/0e11578c4f04) |
-| Fri, 14 Nov 2025 10:22:28 GMT | Security Services in Mumbai -CISB | Ritik | [Read More](https://medium.com/p/097aa5b5f12b) |
-| Fri, 14 Nov 2025 10:17:05 GMT | Cybersecurity Control Types: A Practical Guide (with Energy-Sector Applications) | Ramandeep Bagri | [Read More](https://medium.com/p/84b1d4c41176) |
-| Fri, 14 Nov 2025 10:12:55 GMT | Winter Training in Ethical Hacking 2025–2026 | Manisha Chaudhary | [Read More](https://medium.com/p/1bdf097d4569) |
-| Fri, 14 Nov 2025 10:10:39 GMT | A Complete Guide to Web Application Security for Beginners | cyber security Updates | [Read More](https://medium.com/p/110884f2e49c) |
-| Fri, 14 Nov 2025 10:05:57 GMT | JWTs Explained - HackTheBox Criticalops Writeup | Motasem Hamdan | [Read More](https://medium.com/p/5f628921993c) |
-| Fri, 14 Nov 2025 10:05:23 GMT | Security Challenges and Solutions for Remote Teams Managing Social Media Accounts | 007TG | [Read More](https://medium.com/p/638776f04087) |
-| Fri, 14 Nov 2025 10:02:31 GMT | Zero Trust Architecture: Why Trust Is No Longer Enough in Modern Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/a9de81c9e13d) |
-| Fri, 14 Nov 2025 09:56:17 GMT | Guarding Digital Sovereignty: How Digital Shield Forges an Offline, Multi-Chain Asset Management… | Digital Shield | [Read More](https://medium.com/p/57b872135715) |
-| Fri, 14 Nov 2025 09:55:03 GMT | Why Security Guard Services Are Essential for Modern Businesses in India | Ciss India | [Read More](https://medium.com/p/3d31b16c15f5) |
-| Fri, 14 Nov 2025 09:54:02 GMT | Cyberattacks Cost UK SMEs Over £10,000: The Direct Hybrid Work Link & Mitigation Strategy | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/98e60846ce5e) |
-| Fri, 14 Nov 2025 09:52:13 GMT | Why HR Kiosk Machines Are Becoming Essential for Large Enterprises | Rakesh | [Read More](https://medium.com/p/436160cda6e6) |
