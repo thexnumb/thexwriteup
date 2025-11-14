@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 13:29:55 GMT | Bash Commands You Should Never Run on Any Machine | Arun Malve | [Read More](https://medium.com/p/52a6bca9a143) |
+| Fri, 14 Nov 2025 13:27:45 GMT | When the Bug Bounty Platform Turns Against Its Own Hunters | Gl1tch | [Read More](https://medium.com/p/3f5da87851ff) |
+| Fri, 14 Nov 2025 13:19:33 GMT | Security Audits for Early-Stage SaaS Products | KodekX | [Read More](https://medium.com/p/c740f37f4b22) |
+| Fri, 14 Nov 2025 13:17:14 GMT | Building Smarter Systems: The Role of AI in Next-Gen Cloud Infrastructure | Business Websoft | [Read More](https://medium.com/p/2d18c5b43f42) |
+| Fri, 14 Nov 2025 13:11:39 GMT | PyPitfall: Dependency Chaos and Software Supply Chain Vulnerabilities in Python — A critical review | Maikel Mardjan | [Read More](https://medium.com/p/03af62b75676) |
+| Fri, 14 Nov 2025 13:06:20 GMT | How to Lock a Sliding Door: Practical Tips for Better Home Security | Sure Lock & Key LLC | [Read More](https://medium.com/p/3441346fec5f) |
+| Fri, 14 Nov 2025 13:02:26 GMT | Understanding the CIA Triad: The Foundation of Information Security | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/86ca34eb568f) |
+| Fri, 14 Nov 2025 13:02:01 GMT | Laravel on VPS Series — Part 2: Connecting Your Domain to VPS with Cloudflare & Free SSL | Coder Manjeet | [Read More](https://medium.com/p/03ff2a90cefd) |
+| Fri, 14 Nov 2025 13:02:00 GMT | You Can Finally Beat Zero-Day Threats: How a New AI Changes Mobile Security | Tomas Tibensky | [Read More](https://medium.com/p/e520ff656dda) |
+| Fri, 14 Nov 2025 12:52:17 GMT | Best Cyber Monday VPN Deals With Extra Free Months | George B | [Read More](https://medium.com/p/6a8cb3d8e0c4) |
+| Fri, 14 Nov 2025 12:52:16 GMT | How NIDPS Protects Next-Gen IoT Devices from Cyberattacks? | Century Solutions Group | [Read More](https://medium.com/p/decb03b5cc19) |
+| Fri, 14 Nov 2025 12:49:52 GMT | My Room Turns Red Every Time a Company Gets Hacked | ANKIT KUMAR | [Read More](https://medium.com/p/e18c48b5bb47) |
+| Fri, 14 Nov 2025 12:47:03 GMT | Cybersecurity for Small Business Owners Who Definitely Did Not Sign Up For This | X3RX3S Sec. | [Read More](https://medium.com/p/061f5009f400) |
+| Fri, 14 Nov 2025 12:46:12 GMT | When the Heart Feels Too Tight: On Learning It’s Okay to Be Not Okay. | Candrika Nadia | [Read More](https://medium.com/p/12e73d695ec8) |
 | Fri, 14 Nov 2025 12:33:36 GMT | How I found a critical 0-Click Account Takeover vulnerability | Ibtissam | [Read More](https://medium.com/p/c2ac0f61f097) |
 | Fri, 14 Nov 2025 12:32:46 GMT | ISO 27001 Wasn’t the Goal — Security Was. Here’s How Wazuh Helped Us Get There. | Rathinasabapathy Ramalingam (Saba) | [Read More](https://medium.com/p/a9551db01d7b) |
 | Fri, 14 Nov 2025 12:31:03 GMT | Zeroday Slims9 Bulian(v9.7.2) Arbitrary File Write to RCE | xpl0dec | [Read More](https://medium.com/p/6a458ad7960f) |
@@ -100,17 +114,3 @@ Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
 | Fri, 14 Nov 2025 08:05:37 GMT | I’ve Been Lying and It’s Getting Ugly | Blossom Chidiuto | [Read More](https://medium.com/p/089b04f06afa) |
 | Fri, 14 Nov 2025 08:04:18 GMT | The Hidden Superpowers of the Linux Terminal, Why GUI Users Miss the Real Magic | Fateyaly | [Read More](https://medium.com/p/d52ecdb0a919) |
 | Fri, 14 Nov 2025 08:03:05 GMT | The Daily Tech Digest: 14 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/42b228f68710) |
-| Fri, 14 Nov 2025 07:58:31 GMT | Fake Chrome Extension “Safery” Turns the Sui Blockchain into a Seed Phrase Stealer | Germano Costi | [Read More](https://medium.com/p/2e1087b7e942) |
-| Fri, 14 Nov 2025 07:51:36 GMT | Nginx: The Most Powerful Reverse Proxy & Security Layer You’re Not Using Fully | HackerVault | [Read More](https://medium.com/p/a188b0721d47) |
-| Fri, 14 Nov 2025 07:51:33 GMT | Beyond Protection: Creating a Culture of Digital Responsibility | Devarshi Acharya | [Read More](https://medium.com/p/c933be482629) |
-| Fri, 14 Nov 2025 07:47:46 GMT | 21 Top AI Courses for IT Consultants in 2025 | Jeroen @ CompleteAiTraining.com | [Read More](https://medium.com/p/436075213aa0) |
-| Fri, 14 Nov 2025 07:45:36 GMT | Why Modern Software Must Start with Security | Digiratina Technology Solutions | [Read More](https://medium.com/p/01a9d56137f4) |
-| Fri, 14 Nov 2025 07:41:42 GMT | Inside China’s Expanding Cyber Empire: From Espionage to Digital Influence Operations in Asia | Techtrekkertech | [Read More](https://medium.com/p/7ecc38950f19) |
-| Fri, 14 Nov 2025 07:34:42 GMT | You’re Not Bad at Your Job — You’re Just Doing the Work of Five | Vijay Kumar Gupta | [Read More](https://medium.com/p/e5f9ef19641e) |
-| Fri, 14 Nov 2025 07:29:27 GMT | ⭐ NMAP COMPLETE BEGINNER → ADVANCED | Dhruv | [Read More](https://medium.com/p/d8ebf8296266) |
-| Fri, 14 Nov 2025 07:21:36 GMT | Data Exfiltration Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/f14f99a5558a) |
-| Fri, 14 Nov 2025 07:21:19 GMT | Building a Microservice to Detect and Anonymize Sensitive Data in Files | Prabhu Srivastava | [Read More](https://medium.com/p/abd3cf0180b6) |
-| Fri, 14 Nov 2025 07:17:54 GMT | Beyond the Cloud: What’s Next for Data Storage and Computing? | Raj Ribadiya | [Read More](https://medium.com/p/d1ea0c9a57a8) |
-| Fri, 14 Nov 2025 07:12:52 GMT | FortiSIEM (ClickHouse) Hot Tier — Warm Tier Veri Taşıma Sorunu: Kök Neden Analizi ve move_factor… | Beratbayraktar | [Read More](https://medium.com/p/c4616c652643) |
-| Fri, 14 Nov 2025 07:02:44 GMT | Surfshark Black Friday Deal — The Lowest VPN Price of the Year | Caydenal Waon | [Read More](https://medium.com/p/7e1bc6c21019) |
-| Fri, 14 Nov 2025 06:56:10 GMT | Find the best AI App Development Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/ae4c93c501a1) |
