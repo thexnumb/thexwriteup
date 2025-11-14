@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 06:26:34 GMT | Sealed Classes in Java: Taking Control of Your Class Hierarchy | Jitin Kayyala | [Read More](https://medium.com/p/6f2ca91d1717) |
+| Fri, 14 Nov 2025 06:09:43 GMT | Hire a Hacker Pro vs. TryHackMe: Black-Hat Mission Tactics vs. Defensive Playbooks | Laura Maldonado | [Read More](https://medium.com/p/1e3c256302c9) |
+| Fri, 14 Nov 2025 06:07:58 GMT | How AI is Rewriting the Rules of Data Privacy | Blue Bird Digital Technology | [Read More](https://medium.com/p/468d032864f2) |
+| Fri, 14 Nov 2025 05:56:51 GMT | Optical Fiber Market Valued at USD 9.81 Bn in 2023 — Future Growth Outlook to USD 21.14 Bn by 2030 | kalpesh rajput | [Read More](https://medium.com/p/4ee88724e4fb) |
+| Fri, 14 Nov 2025 05:56:47 GMT | How Event Security Services Handle Emergencies in Venues | Jane Tang | [Read More](https://medium.com/p/4dfc65831e9c) |
+| Fri, 14 Nov 2025 05:50:06 GMT | Practical Steps for Preparing Your Startup for a Data Breach: Legal and Contractual Musts | Hansen Tong | [Read More](https://medium.com/p/8cc4ef50b9a0) |
+| Fri, 14 Nov 2025 05:48:05 GMT | EU MDR 2017/745 Compliance Checklist for Medical Devices | QualysecEurope | [Read More](https://medium.com/p/730da5adcebb) |
+| Fri, 14 Nov 2025 05:44:35 GMT | The Growing Need for MDR/XDR in Modern Enterprises Using IT Managed Services Orlando | Gainside | [Read More](https://medium.com/p/3be36398ca5e) |
+| Fri, 14 Nov 2025 05:42:02 GMT | Google Earth Pro Secrets: A Step-by-Step OSINT Guide for Beginners [Part II] | 5hr33.j11 | [Read More](https://medium.com/p/f722aadc30d3) |
 | Fri, 14 Nov 2025 05:39:39 GMT | The Importance of Continuous Cyber Security Monitoring for Modern Businesses | Cyberextent | [Read More](https://medium.com/p/62788978ffcd) |
 | Fri, 14 Nov 2025 05:36:23 GMT | The Hidden Flaw in X402, AP2, and ACP: | Jon Capriola | [Read More](https://medium.com/p/748720e7f6d2) |
 | Fri, 14 Nov 2025 05:32:44 GMT | Closing Security Gaps: TDR Solutions Perspectives | NetWitness | [Read More](https://medium.com/p/7367d527ab7d) |
+| Fri, 14 Nov 2025 05:32:00 GMT | How a Pilot Hijacked a Plane | Noor Mindset | [Read More](https://medium.com/p/106efbc4f53b) |
 | Fri, 14 Nov 2025 05:26:14 GMT | Room 108-Telnet vs SSH | blackXmask | [Read More](https://medium.com/p/2aceb35892b4) |
 | Fri, 14 Nov 2025 05:21:24 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/99706f9d7885) |
 | Fri, 14 Nov 2025 05:20:25 GMT | Who Provides the Best Security Services in Bhiwani? | Lakshay Security | [Read More](https://medium.com/p/4dfe35f71548) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 20:03:44 GMT | Reclaiming Control: The CI/CD Chaos | Burak Bozacı | [Read More](https://medium.com/p/6e6f77d237f2) |
 | Thu, 13 Nov 2025 20:02:22 GMT | The Bug I Found Twice On Microsoft | ak | [Read More](https://medium.com/p/bfd23a58d5c1) |
 | Thu, 13 Nov 2025 19:45:21 GMT | Đừng Để IT Cũ Kỹ ‘Dìm Hàng’ Sự Phát Triển Của Doanh Nghiệp Bạn! | Trang Võ Minh IT Support | [Read More](https://medium.com/p/66e5a47e2c71) |
-| Thu, 13 Nov 2025 19:32:04 GMT | Subdomain Enumeration: Uncovering the Hidden Corners of the Web | Purushotham.R | [Read More](https://medium.com/p/0bb2ae523c21) |
-| Thu, 13 Nov 2025 19:16:23 GMT | What I Learned from Analyzing Malicious npm Packages | shivangi satija | [Read More](https://medium.com/p/aac384234ba4) |
-| Thu, 13 Nov 2025 19:12:23 GMT | The Day I Broke (and Fixed) My Virtual Network: A Cybersecurity Lesson in Troubleshooting | Secured By Sebastion | [Read More](https://medium.com/p/e6ff853c080b) |
-| Thu, 13 Nov 2025 19:11:12 GMT | “I’m Fine” — The Damage This Cliché Has Done to Friendships | Rhoda Badejo | [Read More](https://medium.com/p/9e0b0ce40a80) |
-| Thu, 13 Nov 2025 19:08:04 GMT | 10 Cybersecurity Tools You Should Try in 2025 | Liam | [Read More](https://medium.com/p/4339078a8bd1) |
-| Thu, 13 Nov 2025 19:00:48 GMT | Penetrasyon Testi: Kavramlar, Süreçler ve Türler | HNASecurity | [Read More](https://medium.com/p/2c7dcadfc8b0) |
-| Thu, 13 Nov 2025 18:54:05 GMT | Red Teaming — Abusing Active Directory Certificate Services (AD CS) to Escalate Privileges: ESC1… | Rakshit Kashyap | [Read More](https://medium.com/p/29ebb6f7e50b) |
-| Thu, 13 Nov 2025 18:49:10 GMT | The Future of Security is Identity: How IAM is Redefining Enterprise Protection | Sunnysinha | [Read More](https://medium.com/p/2545f7aef9f1) |
-| Thu, 13 Nov 2025 18:49:01 GMT | From Private Islands to Private Servers: The Infamous Data Trafficker Jobert Epstein & “The List” | Justas_b | [Read More](https://medium.com/p/eba817f8f105) |
-| Thu, 13 Nov 2025 18:43:57 GMT | VI. Conclusão: DNS como investimento estratégico | Giuliano Cardozo | [Read More](https://medium.com/p/694e7413f37c) |
