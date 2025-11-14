@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 22:16:56 GMT | [Cat’s_Hidden_Scratch] — [Digital Forensics] — [CUET CTF 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/0967a4afb567) |
+| Fri, 14 Nov 2025 22:11:10 GMT | CodeTwo CTF Walkthrough | Lol.spades | [Read More](https://medium.com/p/60fdd422a400) |
+| Fri, 14 Nov 2025 21:55:46 GMT | Strategic Cloud Scaling: Balancing Growth with Cost Governance | Modncv | [Read More](https://medium.com/p/bce838ad6f82) |
+| Fri, 14 Nov 2025 21:44:40 GMT | ️‍♂️ Threat Simulation with Splunk Enterprise Security — Reconnaissance | Julian Smith | [Read More](https://medium.com/p/7f28d3499124) |
+| Fri, 14 Nov 2025 21:39:04 GMT | Lessons in Vulnerability, Communication, and Letting Go of Control | Edrika Gutierrez | [Read More](https://medium.com/p/a9c05ad1d2f0) |
+| Fri, 14 Nov 2025 21:38:53 GMT | The Importance of Updating Your Software and Devices | Samina Perveen | [Read More](https://medium.com/p/5d394016d8ab) |
+| Fri, 14 Nov 2025 21:36:15 GMT | How Data-Driven Security Improves Risk Decision-Making | Madhava Sai Kolluri | [Read More](https://medium.com/p/73703ae277ea) |
 | Fri, 14 Nov 2025 21:30:42 GMT | Docker Üzerine Grafana Loki Kurulumu (Windows) | Volkan Yılmaz | [Read More](https://medium.com/p/89017de3c40c) |
 | Fri, 14 Nov 2025 21:28:47 GMT | How to Prepare Ourself for Job Interviews in the AI Era | Simran | [Read More](https://medium.com/p/82fd3502c384) |
 | Fri, 14 Nov 2025 21:22:21 GMT | Anthropic’s Claude AI First Reported AI Orchestrated Cyber Espionage Campaign | Valdez Ladd | [Read More](https://medium.com/p/cd6dff6ddd8f) |
@@ -106,10 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 14:53:53 GMT | The First Fully Agentic Cyberattack Just Happened — And It Changes Everything | HIYA CHATTERJEE | [Read More](https://medium.com/p/f664a4adf1ae) |
 | Fri, 14 Nov 2025 14:51:52 GMT | Exploitation Intensifies Following New KEV Additions | Loginsoft | [Read More](https://medium.com/p/c2d78e76979c) |
 | Fri, 14 Nov 2025 14:48:54 GMT | When the Machines Begin to Act | Tom Yonashiro | [Read More](https://medium.com/p/e08660270dae) |
-| Fri, 14 Nov 2025 14:47:15 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: The Metasploit Framework CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/e12f60efcff8) |
-| Fri, 14 Nov 2025 14:36:47 GMT | The Coming Storm Over Taiwan | MASUM BILLAH | [Read More](https://medium.com/p/5ca9f2c554be) |
-| Fri, 14 Nov 2025 14:36:28 GMT | Building a Digital Fortress: A Guide to Web Security Essentials ️ | Furkanctiner | [Read More](https://medium.com/p/de8014bab1ae) |
-| Fri, 14 Nov 2025 14:32:01 GMT | The First Autonomous AI Cyber Attack Exposed | Nwosu Rosemary | [Read More](https://medium.com/p/4974dd6e6083) |
-| Fri, 14 Nov 2025 14:28:22 GMT | Centralized File Integrity Monitoring (FIM) Using Wazuh Manager for Linux and Windows Agents | Rupesh Sharma | [Read More](https://medium.com/p/09348d8e1f58) |
-| Fri, 14 Nov 2025 14:26:44 GMT | How to solve the DVAPI’s Broken Authentication Lab | R1punjay_Singh | [Read More](https://medium.com/p/7389ae9d0c26) |
-| Fri, 14 Nov 2025 14:24:22 GMT | From Family to Furlough: The Comedy of Authentic Leadership | Namir Sagheenanajar | [Read More](https://medium.com/p/1b4338883de0) |
