@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 08:13:41 GMT | 15 Terminal Commands Every Beginner Should Master, The Ones That Actually Change Your Life | Fateyaly | [Read More](https://medium.com/p/209d3c098b85) |
+| Fri, 14 Nov 2025 08:09:45 GMT | You’ve been pwned | DeltaBytes | [Read More](https://medium.com/p/e7a98725cb6c) |
+| Fri, 14 Nov 2025 08:08:54 GMT | Easiest way to Fulfill Server Storage with 1-TB or 1-PB— 1-Line Curl from a Closed CVE | Greg K | [Read More](https://medium.com/p/df77e6cdd17c) |
+| Fri, 14 Nov 2025 08:06:42 GMT | DPDP Act and India’s Cybersecurity Growth | GyaanSetu | [Read More](https://medium.com/p/a55ce3c5ffcb) |
+| Fri, 14 Nov 2025 08:05:37 GMT | I’ve Been Lying and It’s Getting Ugly | Blossom Chidiuto | [Read More](https://medium.com/p/089b04f06afa) |
+| Fri, 14 Nov 2025 08:04:18 GMT | The Hidden Superpowers of the Linux Terminal, Why GUI Users Miss the Real Magic | Fateyaly | [Read More](https://medium.com/p/d52ecdb0a919) |
+| Fri, 14 Nov 2025 08:03:05 GMT | The Daily Tech Digest: 14 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/42b228f68710) |
+| Fri, 14 Nov 2025 07:58:31 GMT | Fake Chrome Extension “Safery” Turns the Sui Blockchain into a Seed Phrase Stealer | Germano Costi | [Read More](https://medium.com/p/2e1087b7e942) |
+| Fri, 14 Nov 2025 07:51:36 GMT | Nginx: The Most Powerful Reverse Proxy & Security Layer You’re Not Using Fully | HackerVault | [Read More](https://medium.com/p/a188b0721d47) |
+| Fri, 14 Nov 2025 07:51:33 GMT | Beyond Protection: Creating a Culture of Digital Responsibility | Devarshi Acharya | [Read More](https://medium.com/p/c933be482629) |
+| Fri, 14 Nov 2025 07:47:46 GMT | 21 Top AI Courses for IT Consultants in 2025 | Jeroen @ CompleteAiTraining.com | [Read More](https://medium.com/p/436075213aa0) |
+| Fri, 14 Nov 2025 07:45:36 GMT | Why Modern Software Must Start with Security | Digiratina Technology Solutions | [Read More](https://medium.com/p/01a9d56137f4) |
+| Fri, 14 Nov 2025 07:41:42 GMT | Inside China’s Expanding Cyber Empire: From Espionage to Digital Influence Operations in Asia | Techtrekkertech | [Read More](https://medium.com/p/7ecc38950f19) |
+| Fri, 14 Nov 2025 07:34:42 GMT | You’re Not Bad at Your Job — You’re Just Doing the Work of Five | Vijay Kumar Gupta | [Read More](https://medium.com/p/e5f9ef19641e) |
 | Fri, 14 Nov 2025 07:29:27 GMT | ⭐ NMAP COMPLETE BEGINNER → ADVANCED | Dhruv | [Read More](https://medium.com/p/d8ebf8296266) |
 | Fri, 14 Nov 2025 07:21:36 GMT | Data Exfiltration Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/f14f99a5558a) |
 | Fri, 14 Nov 2025 07:21:19 GMT | Building a Microservice to Detect and Anonymize Sensitive Data in Files | Prabhu Srivastava | [Read More](https://medium.com/p/abd3cf0180b6) |
@@ -102,17 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 22:42:49 GMT | The Strategic Advantage of a vCISO — Why Cybersecurity Leadership is No Longer Optional | Yokota Strong | [Read More](https://medium.com/p/08bde0c4a44d) |
 | Thu, 13 Nov 2025 22:39:06 GMT | Criminal Justice in the Age of Cybercrime | Anum Khan | [Read More](https://medium.com/p/d797323746a6) |
 | Thu, 13 Nov 2025 22:27:18 GMT | Input Manipulation & Prompt Injection - Tryhackme | Aaron | [Read More](https://medium.com/p/f6439ff1bbfd) |
-| Thu, 13 Nov 2025 22:21:36 GMT | The Internet Has a “Copy” Problem. I Used Quantum Physics to Build a “Cut” Button. | Damian Griggs | [Read More](https://medium.com/p/2b7801377fbf) |
-| Thu, 13 Nov 2025 22:18:36 GMT | Write-up: Máquina “Cap” Hack The Box | Marianoacostafc | [Read More](https://medium.com/p/708cffea237f) |
-| Thu, 13 Nov 2025 22:15:32 GMT | The Healthcare Crisis — When Weak Passwords Become a Matter of Life and Death | David SEHYEON Baek | [Read More](https://medium.com/p/aaa14b5b9846) |
-| Thu, 13 Nov 2025 22:12:13 GMT | The Most Common API Security Failures | Cyber-AppSec | [Read More](https://medium.com/p/b9598f5015c6) |
-| Thu, 13 Nov 2025 22:04:20 GMT | Vinciani -The importance of a brand’s security, reliability and reputation | Manny Vinciani | [Read More](https://medium.com/p/38a534830e9e) |
-| Thu, 13 Nov 2025 22:03:30 GMT | AI Isn’t New: How IT Has Been Doing “Smart” Things Long Before the Buzzword | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/a5dbdfc1ac8e) |
-| Thu, 13 Nov 2025 21:59:16 GMT | Neon CRM vs Salesforce: Strategic Comparison | Digital Transformation Playbook | [Read More](https://medium.com/p/a822e5d3b9fd) |
-| Thu, 13 Nov 2025 21:52:22 GMT | Temporary Email vs. Privacy Mode: The Real Path to Being Anonymous Online | Taylor | [Read More](https://medium.com/p/59e6f7f286ff) |
-| Thu, 13 Nov 2025 21:51:29 GMT | The Dangerous Delusion — Why “I’m Not Important Enough to Be Hacked” Could Cost You Everything | David SEHYEON Baek | [Read More](https://medium.com/p/5ea1e6be5b8c) |
-| Thu, 13 Nov 2025 21:46:29 GMT | SOC from Scratch #4 — Log Analysis 101: How Analysts Catch Threats | Shane Samuel | [Read More](https://medium.com/p/f7be27d08141) |
-| Thu, 13 Nov 2025 21:44:17 GMT | Simple CTF writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/27b5d0f31ba9) |
-| Thu, 13 Nov 2025 21:43:03 GMT | Windows Web Shell | S12 - 0x12Dark Development | [Read More](https://medium.com/p/10991fd42a8c) |
-| Thu, 13 Nov 2025 21:39:13 GMT | Chutzpah Meets Kindness (Chayei Sarah) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/4e877f4ab691) |
-| Thu, 13 Nov 2025 21:35:57 GMT | ️Instantly Harden your Linux system | Lennart Pieperjohanns | [Read More](https://medium.com/p/de10aecf6988) |
