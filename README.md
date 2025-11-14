@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 12:33:36 GMT | How I found a critical 0-Click Account Takeover vulnerability | Ibtissam | [Read More](https://medium.com/p/c2ac0f61f097) |
+| Fri, 14 Nov 2025 12:32:46 GMT | ISO 27001 Wasn’t the Goal — Security Was. Here’s How Wazuh Helped Us Get There. | Rathinasabapathy Ramalingam (Saba) | [Read More](https://medium.com/p/a9551db01d7b) |
+| Fri, 14 Nov 2025 12:31:03 GMT | Zeroday Slims9 Bulian(v9.7.2) Arbitrary File Write to RCE | xpl0dec | [Read More](https://medium.com/p/6a458ad7960f) |
+| Fri, 14 Nov 2025 12:23:25 GMT | PHP for Pentesters — Day 3 | Bazil Brohi | [Read More](https://medium.com/p/d2ff8a6aa8bc) |
+| Fri, 14 Nov 2025 12:23:06 GMT | A Classic Hacking Technique Works on Some Quantum Computers | Nosheen Butt | [Read More](https://medium.com/p/3fbdfe848b2b) |
+| Fri, 14 Nov 2025 12:22:28 GMT | I Built a Zero-Trust Network in Azure — and It Immediately Blocked Me. | Gideon John Utong | [Read More](https://medium.com/p/5d64db245ec2) |
+| Fri, 14 Nov 2025 12:21:31 GMT | Secure Your Walls With Fencing Security | Meena Devi | [Read More](https://medium.com/p/e9347ebd5f98) |
+| Fri, 14 Nov 2025 12:17:32 GMT | A New Muslim Bloc: Reimagining Global Geopolitics | Javeria Iman | [Read More](https://medium.com/p/c02b92870505) |
+| Fri, 14 Nov 2025 12:07:45 GMT | CISO Digest: Inside the Claude Hack | int0x33 | [Read More](https://medium.com/p/35b843d7cfcc) |
+| Fri, 14 Nov 2025 12:07:44 GMT | Why Many Nigerian ISPs Don’t Allow Port-Forwarding — The CGNAT REALITY | Adebisi mololuwa | [Read More](https://medium.com/p/5d8c01dec0fa) |
+| Fri, 14 Nov 2025 12:05:26 GMT | [CyberSecNews] Anthropic — Disrupting the First Reported AI-Orchestrated Cyber Espionage Campaign | Pietro Romano / SecBeret | [Read More](https://medium.com/p/69e6fa932a88) |
+| Fri, 14 Nov 2025 12:01:20 GMT | OSI Layers ️ | Merve Güler | [Read More](https://medium.com/p/7abe52123cc7) |
+| Fri, 14 Nov 2025 12:00:59 GMT | Today’s Top Cyber Intelligence Highlights — Nov 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/dcac21a94b5d) |
+| Fri, 14 Nov 2025 11:52:36 GMT | AI in Cyber Security: From Hype to Hard Outcomes | Pietro Romano / SecBeret | [Read More](https://medium.com/p/62ecef8b5ee5) |
+| Fri, 14 Nov 2025 11:52:02 GMT | Three Words That Will Change How You Think About Cybersecurity: Risk, Threat, and Vulnerability | BnHany | [Read More](https://medium.com/p/ab716e1a9ee5) |
+| Fri, 14 Nov 2025 11:43:01 GMT | The Static and the Ghosts : Armenia’s Cybersecurity Infrastructure and the Fall of the Dark… | Michael Arty - Cyber Security - Music A&R - | [Read More](https://medium.com/p/56e344263917) |
+| Fri, 14 Nov 2025 11:33:18 GMT | All Been Crypto — Week 14 Nov 2025 | Bat Tai Chi | [Read More](https://medium.com/p/28ff3e0aff98) |
 | Fri, 14 Nov 2025 11:31:30 GMT | Building a Verifiable Blockchain for Government: The SIGN Approach | Emmanuel Nwidemua | [Read More](https://medium.com/p/5795fc1f06cc) |
 | Fri, 14 Nov 2025 11:28:43 GMT | Is Your Security Strategy Holding Back Your Business Growth? | Luke Appleby | [Read More](https://medium.com/p/09f8e99f5da5) |
 | Fri, 14 Nov 2025 11:25:32 GMT | Advanced Phishing Detection Models ️ | Esra Kayhan Uysal | [Read More](https://medium.com/p/e945d940ac14) |
@@ -97,24 +114,3 @@ Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
 | Fri, 14 Nov 2025 07:12:52 GMT | FortiSIEM (ClickHouse) Hot Tier — Warm Tier Veri Taşıma Sorunu: Kök Neden Analizi ve move_factor… | Beratbayraktar | [Read More](https://medium.com/p/c4616c652643) |
 | Fri, 14 Nov 2025 07:02:44 GMT | Surfshark Black Friday Deal — The Lowest VPN Price of the Year | Caydenal Waon | [Read More](https://medium.com/p/7e1bc6c21019) |
 | Fri, 14 Nov 2025 06:56:10 GMT | Find the best AI App Development Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/ae4c93c501a1) |
-| Fri, 14 Nov 2025 06:55:16 GMT | OWASP Top 10 (2021 vs 2025): Complete Guide, Changes, Reasons, Practice, and Easy Memory Tricks | Tandelpruthvi | [Read More](https://medium.com/p/0a304c696ac4) |
-| Fri, 14 Nov 2025 06:52:00 GMT | The Corix Partners Friday Reading List — November 14, 2025 | JC Gaillard | [Read More](https://medium.com/p/3bf93f549a1d) |
-| Fri, 14 Nov 2025 06:50:47 GMT | Information Disclosure in APIs | Jei Ess | [Read More](https://medium.com/p/e52825527ac8) |
-| Fri, 14 Nov 2025 06:43:27 GMT | Software should evolve with your business. | Tech Immortals | [Read More](https://medium.com/p/3aa202144500) |
-| Fri, 14 Nov 2025 06:43:04 GMT | I Tested Every Major Security Tool for 90 Days — Here’s What Actually Works (And What’s Just… | Muhammad Haider Tallal | [Read More](https://medium.com/p/32e2b8a0b1f1) |
-| Fri, 14 Nov 2025 06:42:34 GMT | I Stopped Wasting Time on Forums and My Certification Scores Finally Improved | Siddharth Sharma | [Read More](https://medium.com/p/3f4b575de547) |
-| Fri, 14 Nov 2025 06:40:15 GMT | شماره‌خاله‌تهران
-شماره‌خاله‌چابهار
-شماره‌خاله‌اهواز
-شماره‌خاله‌شیراز
-09039145515 | مهسا نعمتی | [Read More](https://medium.com/p/b3e2d28a111d) |
-| Fri, 14 Nov 2025 06:39:21 GMT | ☕ Security Check: Keeping Your Code Out of Trouble with the OWASP Top 10 | Vinod Atwal | [Read More](https://medium.com/p/85b7181d3ff8) |
-| Fri, 14 Nov 2025 06:38:01 GMT | ⚠️Your AI Chats Aren’t Private: Hackers Can Read Your Encrypted Conversations — Take Action Right… | Biresh Kumar Singh | [Read More](https://medium.com/p/bed7cce82fa3) |
-| Fri, 14 Nov 2025 06:26:34 GMT | Sealed Classes in Java: Taking Control of Your Class Hierarchy | Jitin Kayyala | [Read More](https://medium.com/p/6f2ca91d1717) |
-| Fri, 14 Nov 2025 06:09:43 GMT | Hire a Hacker Pro vs. TryHackMe: Black-Hat Mission Tactics vs. Defensive Playbooks | Laura Maldonado | [Read More](https://medium.com/p/1e3c256302c9) |
-| Fri, 14 Nov 2025 06:07:58 GMT | How AI is Rewriting the Rules of Data Privacy | Blue Bird Digital Technology | [Read More](https://medium.com/p/468d032864f2) |
-| Fri, 14 Nov 2025 05:56:51 GMT | Optical Fiber Market Valued at USD 9.81 Bn in 2023 — Future Growth Outlook to USD 21.14 Bn by 2030 | kalpesh rajput | [Read More](https://medium.com/p/4ee88724e4fb) |
-| Fri, 14 Nov 2025 05:56:47 GMT | How Event Security Services Handle Emergencies in Venues | Jane Tang | [Read More](https://medium.com/p/4dfc65831e9c) |
-| Fri, 14 Nov 2025 05:50:06 GMT | Practical Steps for Preparing Your Startup for a Data Breach: Legal and Contractual Musts | Hansen Tong | [Read More](https://medium.com/p/8cc4ef50b9a0) |
-| Fri, 14 Nov 2025 05:48:05 GMT | EU MDR 2017/745 Compliance Checklist for Medical Devices | QualysecEurope | [Read More](https://medium.com/p/730da5adcebb) |
-| Fri, 14 Nov 2025 05:44:35 GMT | The Growing Need for MDR/XDR in Modern Enterprises Using IT Managed Services Orlando | Gainside | [Read More](https://medium.com/p/3be36398ca5e) |
