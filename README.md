@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 23:10:44 GMT | TryHackMe Input Manipulation & Prompt Injection Walkthrough WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/502ff2446dbf) |
+| Fri, 14 Nov 2025 23:01:08 GMT | AI-Powered Secure CI/CD Pipeline: The Future of Zero-Trust Software Delivery | 1blnrequests | [Read More](https://medium.com/p/dd9215812d6c) |
+| Fri, 14 Nov 2025 22:54:42 GMT | Building Autonomous Cybersecurity For A Hyper-Connected World | Vaultnet Defense | [Read More](https://medium.com/p/7653006e4870) |
+| Fri, 14 Nov 2025 22:53:08 GMT | Would You Trust AI or a Human to Watch Your Store? | Visual Monitoring Solutions | [Read More](https://medium.com/p/c24b2b3b6c2a) |
+| Fri, 14 Nov 2025 22:34:55 GMT | 4,300 Fake Booking Sites Designed to Steal Your Money | Cyber-AppSec | [Read More](https://medium.com/p/00cc1d1a34e0) |
 | Fri, 14 Nov 2025 22:26:53 GMT | Maximum Courage challenge write up | -_ENIGMA_- | [Read More](https://medium.com/p/86b5256225ea) |
 | Fri, 14 Nov 2025 22:26:32 GMT | CyberLens Write-up | Tanuik Kendrick | [Read More](https://medium.com/p/a4d3c85442f0) |
 | Fri, 14 Nov 2025 22:23:51 GMT | Kirrel3: The Chaotic Editor of Your Mind | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/45462b148479) |
@@ -108,8 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 15:17:18 GMT | The Shai-Hulud Attack: Exposing Weak Links in Modern Software Supply Chains | Himanshu Bhatt | [Read More](https://medium.com/p/07422d6f19b3) |
 | Fri, 14 Nov 2025 15:15:50 GMT | Master the Art of Writing Better Cybersecurity Reports with AI: Step-by-Step Guide for Pros | Very Lazy Tech | [Read More](https://medium.com/p/45393249dcf4) |
 | Fri, 14 Nov 2025 15:13:55 GMT | VAPT Uncovered: What Businesses Learn When They Test Their Own Walls | Co-Ventech | [Read More](https://medium.com/p/89e540fc09c4) |
-| Fri, 14 Nov 2025 15:11:25 GMT | How to Optimize Docker Images for Speed & Security | Janith Malinga | [Read More](https://medium.com/p/1375a0de4a01) |
-| Fri, 14 Nov 2025 15:06:11 GMT | I Tried Hacking My Own Wi-Fi — Here’s What I Learned | Hania Khan | [Read More](https://medium.com/p/563017143f03) |
-| Fri, 14 Nov 2025 15:02:31 GMT | Cyber Briefing: 2025.11.14 | CyberMaterial | [Read More](https://medium.com/p/7dcce28385e4) |
-| Fri, 14 Nov 2025 14:56:43 GMT | Auth0, OAuth 2.0, and Other Login Options for Your App | Mozaffaritabar H | [Read More](https://medium.com/p/183c6f09a62a) |
-| Fri, 14 Nov 2025 14:56:28 GMT | Love Can’t Handle Testing and Ambiguity | tiner | [Read More](https://medium.com/p/1e363436b866) |
