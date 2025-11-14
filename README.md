@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 04:18:04 GMT | Why Annual Penetration Testing Is No Longer Enough in 2025 | SilentWire Cybersecurity | [Read More](https://medium.com/p/71bdb9a57bc7) |
+| Fri, 14 Nov 2025 04:15:49 GMT | Firefox Is Thinking Differently: A New Kind of AI Browser Experience | Dibeesh KS | [Read More](https://medium.com/p/acdb2fd38b0e) |
+| Fri, 14 Nov 2025 04:08:24 GMT | Router Security Tips to Block WiFi Thieves and Protect Your Network | Ask IT Support | [Read More](https://medium.com/p/fea08d592fcb) |
+| Fri, 14 Nov 2025 04:08:12 GMT | 1-Line curl to steal your unexposed secret creds Escaping Protection from AWS API Gateway | Greg K | [Read More](https://medium.com/p/0c52f4f47300) |
+| Fri, 14 Nov 2025 04:05:45 GMT | love | i am, i was, i will be | [Read More](https://medium.com/p/7de6f43fc154) |
+| Fri, 14 Nov 2025 04:05:02 GMT | I Was Raised to Be Proud, Not Vulnerable | Arindora | [Read More](https://medium.com/p/8c78bbec5244) |
+| Fri, 14 Nov 2025 03:58:28 GMT | Why SMEs Are Delaying AI Adoption | Tom | [Read More](https://medium.com/p/b438da327867) |
+| Fri, 14 Nov 2025 03:55:50 GMT | Emphasis on Cybersecurity with Artificial Intelligence in 2026: Why It Matters for Everyone | FutureLens | [Read More](https://medium.com/p/3371a816bffb) |
 | Fri, 14 Nov 2025 03:52:54 GMT | Why Traditional Penetration Testing Is Broken — And What Businesses Should Demand Instead | SilentWire Cybersecurity | [Read More](https://medium.com/p/accd1a35ad0b) |
 | Fri, 14 Nov 2025 03:45:42 GMT | The ‘How-To’ of Ethical OSINT | Rabail Zaheer | [Read More](https://medium.com/p/253e4385d90f) |
 | Fri, 14 Nov 2025 03:45:26 GMT | $6000 Bounty: Breakdown XSS Vulnerability | Monika sharma | [Read More](https://medium.com/p/e03f3f537c6d) |
@@ -39,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 14 Nov 2025 00:33:59 GMT | Deploying AWS Wavelength: Complete End-to-End Setup With VPCs, Carrier Gateway, Peering, Routing &… | Salah-eddine Lyoubi Idrissi | [Read More](https://medium.com/p/bc6163b7e228) |
 | Fri, 14 Nov 2025 00:06:24 GMT | Fixing IDOR in a Flask API: Guide to Broken Access Control | Kay Adelaja | [Read More](https://medium.com/p/c116c6905988) |
 | Fri, 14 Nov 2025 00:05:40 GMT | Research on Attack and Attribution in Penetration Testing | IceCliffs | [Read More](https://medium.com/p/ed5db902ce96) |
+| Fri, 14 Nov 2025 00:02:00 GMT | BOLA (IDOR): La Falla Crítica de Autorización en APIs y Detección en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/3f50b58c3da9) |
 | Thu, 13 Nov 2025 23:27:18 GMT | Officer Snaggletooth and the Static of Justice: part 2 | Lea Martin | [Read More](https://medium.com/p/a6904997b232) |
 | Thu, 13 Nov 2025 23:19:40 GMT | The Bridge Between Justice and Cybersecurity | Anum Khan | [Read More](https://medium.com/p/6e63a0d18d71) |
 | Thu, 13 Nov 2025 23:17:17 GMT | Somewhere in Between | Jana Gauthier | [Read More](https://medium.com/p/b91323636833) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 17:55:21 GMT | Threats to Tranquility: How United Security Keeps You Safe | United Security | [Read More](https://medium.com/p/4d119a823315) |
 | Thu, 13 Nov 2025 17:39:46 GMT | CLI vs. IDE for AI Coding | Teri Radichel | [Read More](https://medium.com/p/61cb0bc2db28) |
 | Thu, 13 Nov 2025 17:38:18 GMT | The Best AI for Ethical Hacking | Appsec.pt | [Read More](https://medium.com/p/911c92de3b37) |
-| Thu, 13 Nov 2025 17:37:23 GMT | CVE‑2025‑12249 — RCE via CSV Injection (Part 2: RCE Escalation) | Nakul Singh | [Read More](https://medium.com/p/76ce62222e3b) |
-| Thu, 13 Nov 2025 17:33:27 GMT | Proactive Threat Hunting using YARA | OluwapelumiOyerinde | [Read More](https://medium.com/p/e129bd351e9f) |
-| Thu, 13 Nov 2025 17:28:46 GMT | The Modern Attack Landscape: Telegram, the Dark Web, and the New AI-Powered Phishing Threats | Raya P | [Read More](https://medium.com/p/b885ef6cf29c) |
-| Thu, 13 Nov 2025 17:23:49 GMT | The AI Agent Threat Landscape — Part 1 | özgün özçetin | [Read More](https://medium.com/p/0439d3ef6193) |
-| Thu, 13 Nov 2025 17:18:09 GMT | The Ingress NGINX Retirement: How to Prepare, Migrate, and Choose the Right Successor | Mahernaija | [Read More](https://medium.com/p/a1640e5dac20) |
-| Thu, 13 Nov 2025 17:17:39 GMT | SOC227 — Microsoft SharePoint Server Elevation of Privilege | Brandon Love | [Read More](https://medium.com/p/054803829e80) |
-| Thu, 13 Nov 2025 17:16:25 GMT | No One Ever Expects the Security Inquisition | TD | [Read More](https://medium.com/p/4fbaf21b0490) |
-| Thu, 13 Nov 2025 17:08:35 GMT | I Ignored Website Backups | satyaranjan bal | [Read More](https://medium.com/p/3c6165f78300) |
-| Thu, 13 Nov 2025 17:07:28 GMT | Crypto Exchanges Hacked Again — for Over $100 Million | Matthew.Rosenquist | [Read More](https://medium.com/p/2933f141e606) |
