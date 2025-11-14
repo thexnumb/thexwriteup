@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 15:40:05 GMT | When Even My Angels Run Out of Words: Learning to Come Home to Yourself | Daniel Gagarin | [Read More](https://medium.com/p/a6a9da2a9eac) |
+| Fri, 14 Nov 2025 15:34:57 GMT | When Fragility Makes Us Stronger:
+Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com/p/ca4a4955f223) |
+| Fri, 14 Nov 2025 15:17:39 GMT | My $0 Path to SOC Analyst: Mastering the “Human Side” (Alerts, Escalation, Communication — Week 2) | Ayush Kumbhar | [Read More](https://medium.com/p/b4c781442664) |
 | Fri, 14 Nov 2025 15:17:18 GMT | The Shai-Hulud Attack: Exposing Weak Links in Modern Software Supply Chains | Himanshu Bhatt | [Read More](https://medium.com/p/07422d6f19b3) |
 | Fri, 14 Nov 2025 15:15:50 GMT | Master the Art of Writing Better Cybersecurity Reports with AI: Step-by-Step Guide for Pros | Very Lazy Tech | [Read More](https://medium.com/p/45393249dcf4) |
 | Fri, 14 Nov 2025 15:13:55 GMT | VAPT Uncovered: What Businesses Learn When They Test Their Own Walls | Co-Ventech | [Read More](https://medium.com/p/89e540fc09c4) |
@@ -111,6 +115,3 @@ Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
 | Fri, 14 Nov 2025 09:55:03 GMT | Why Security Guard Services Are Essential for Modern Businesses in India | Ciss India | [Read More](https://medium.com/p/3d31b16c15f5) |
 | Fri, 14 Nov 2025 09:54:02 GMT | Cyberattacks Cost UK SMEs Over £10,000: The Direct Hybrid Work Link & Mitigation Strategy | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/98e60846ce5e) |
 | Fri, 14 Nov 2025 09:52:13 GMT | Why HR Kiosk Machines Are Becoming Essential for Large Enterprises | Rakesh | [Read More](https://medium.com/p/436160cda6e6) |
-| Fri, 14 Nov 2025 09:47:45 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/d6bf5f84c356) |
-| Fri, 14 Nov 2025 09:41:27 GMT | Advanced Threat Modeling Techniques | Esra Kayhan | [Read More](https://medium.com/p/c6f6e7bd3268) |
-| Fri, 14 Nov 2025 09:31:58 GMT | Quantum Computing and Its Impact on Encryption | Digital Defense | [Read More](https://medium.com/p/9c70fbf162fd) |
