@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 03:52:54 GMT | Why Traditional Penetration Testing Is Broken — And What Businesses Should Demand Instead | SilentWire Cybersecurity | [Read More](https://medium.com/p/accd1a35ad0b) |
+| Fri, 14 Nov 2025 03:45:42 GMT | The ‘How-To’ of Ethical OSINT | Rabail Zaheer | [Read More](https://medium.com/p/253e4385d90f) |
+| Fri, 14 Nov 2025 03:45:26 GMT | $6000 Bounty: Breakdown XSS Vulnerability | Monika sharma | [Read More](https://medium.com/p/e03f3f537c6d) |
+| Fri, 14 Nov 2025 03:45:03 GMT | $650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Games’ Admin Panel | Monika sharma | [Read More](https://medium.com/p/3bfdf6a352b0) |
+| Fri, 14 Nov 2025 03:43:46 GMT | 2025年第46周链上被盗事件周报 | GE_uang | [Read More](https://medium.com/p/c63e740dcdff) |
+| Fri, 14 Nov 2025 03:32:03 GMT | 8 Must-Know Node.js Security Measures for Azure Users | Arunangshu Das | [Read More](https://medium.com/p/2379b0b78e35) |
+| Fri, 14 Nov 2025 03:32:03 GMT | New Phishing Campaign Exploits Meta Business Suite Invitations | Deven Chhajed | [Read More](https://medium.com/p/4e82b1f21b84) |
+| Fri, 14 Nov 2025 03:25:29 GMT | The 5 Best Online Learning Platforms to Launch Your Cybersecurity Career in 2025 | SinVictus | [Read More](https://medium.com/p/ce0edb9778de) |
+| Fri, 14 Nov 2025 03:17:01 GMT | Hacker For Hire Industry Has Gone Dark. | SinVictus | [Read More](https://medium.com/p/f0527ec59cc8) |
 | Fri, 14 Nov 2025 03:12:51 GMT | We’re Looking for Pentesters Who Want to Be Part of Something Bigger | SilentWire Cybersecurity | [Read More](https://medium.com/p/75576c49ebd3) |
 | Fri, 14 Nov 2025 02:49:23 GMT | Essential 8 for Small Business | PECyber | [Read More](https://medium.com/p/a02a3f8b69a5) |
 | Fri, 14 Nov 2025 02:22:20 GMT | How to Crack CCNA in 10 Days? A Beginner’s Survival Guide | Breeze | [Read More](https://medium.com/p/a27c411c4aa4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 17:16:25 GMT | No One Ever Expects the Security Inquisition | TD | [Read More](https://medium.com/p/4fbaf21b0490) |
 | Thu, 13 Nov 2025 17:08:35 GMT | I Ignored Website Backups | satyaranjan bal | [Read More](https://medium.com/p/3c6165f78300) |
 | Thu, 13 Nov 2025 17:07:28 GMT | Crypto Exchanges Hacked Again — for Over $100 Million | Matthew.Rosenquist | [Read More](https://medium.com/p/2933f141e606) |
-| Thu, 13 Nov 2025 16:58:03 GMT | UTMStack v11.0.0: A Strategic Leap in Performance, Security, and Scalability. | UTMStack | [Read More](https://medium.com/p/947640453ddc) |
-| Thu, 13 Nov 2025 16:53:42 GMT | The Technical Deep Dive: PhantomCollect Browser API Exploitation Masterclass | xsser01 | [Read More](https://medium.com/p/4890dbc30867) |
-| Thu, 13 Nov 2025 16:52:19 GMT | When “Incognito” Isn’t Invisible: What Google’s Settlement Reveals About the False Promise of… | Decentr | [Read More](https://medium.com/p/ddec28e171ef) |
-| Thu, 13 Nov 2025 16:52:19 GMT | Episode 8: “The Cloud That Ate Manhattan” | Dr. House In I.T. | [Read More](https://medium.com/p/d2905b32fda3) |
-| Thu, 13 Nov 2025 16:52:05 GMT | A Curious VAPT Finding: A Real-World Story of Broken Authentication | Abhishek Kumar | [Read More](https://medium.com/p/cb6f73409e19) |
-| Thu, 13 Nov 2025 16:46:42 GMT | Yes, Olivia, It’s So Easy to Fall in Love | Teresa | [Read More](https://medium.com/p/81159332deba) |
-| Thu, 13 Nov 2025 16:45:35 GMT | Big Data : Data Cleaning and Preparation using Pandas | Yasa Wijaya | [Read More](https://medium.com/p/8d0285f7a112) |
-| Thu, 13 Nov 2025 16:42:29 GMT | Basic Pentesting-1 (VulnHub) — Step-by-Step Walkthrough | Vyshnav Vinod | [Read More](https://medium.com/p/2ff8010134a1) |
-| Thu, 13 Nov 2025 16:33:20 GMT | HUMLA Workshop: Breaking AI (Ethically) Was My Saturday Plan | Pooja | [Read More](https://medium.com/p/319bde7cc448) |
