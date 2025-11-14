@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 15:17:18 GMT | The Shai-Hulud Attack: Exposing Weak Links in Modern Software Supply Chains | Himanshu Bhatt | [Read More](https://medium.com/p/07422d6f19b3) |
+| Fri, 14 Nov 2025 15:15:50 GMT | Master the Art of Writing Better Cybersecurity Reports with AI: Step-by-Step Guide for Pros | Very Lazy Tech | [Read More](https://medium.com/p/45393249dcf4) |
+| Fri, 14 Nov 2025 15:13:55 GMT | VAPT Uncovered: What Businesses Learn When They Test Their Own Walls | Co-Ventech | [Read More](https://medium.com/p/89e540fc09c4) |
+| Fri, 14 Nov 2025 15:11:25 GMT | How to Optimize Docker Images for Speed & Security | Janith Malinga | [Read More](https://medium.com/p/1375a0de4a01) |
+| Fri, 14 Nov 2025 15:06:11 GMT | I Tried Hacking My Own Wi-Fi — Here’s What I Learned | Hania Khan | [Read More](https://medium.com/p/563017143f03) |
+| Fri, 14 Nov 2025 15:02:31 GMT | Cyber Briefing: 2025.11.14 | CyberMaterial | [Read More](https://medium.com/p/7dcce28385e4) |
+| Fri, 14 Nov 2025 14:56:43 GMT | Auth0, OAuth 2.0, and Other Login Options for Your App | Mozaffaritabar H | [Read More](https://medium.com/p/183c6f09a62a) |
+| Fri, 14 Nov 2025 14:56:28 GMT | Love Can’t Handle Testing and Ambiguity | tiner | [Read More](https://medium.com/p/1e363436b866) |
+| Fri, 14 Nov 2025 14:53:53 GMT | The First Fully Agentic Cyberattack Just Happened — And It Changes Everything | HIYA CHATTERJEE | [Read More](https://medium.com/p/f664a4adf1ae) |
+| Fri, 14 Nov 2025 14:51:52 GMT | Exploitation Intensifies Following New KEV Additions | Loginsoft | [Read More](https://medium.com/p/c2d78e76979c) |
+| Fri, 14 Nov 2025 14:48:54 GMT | When the Machines Begin to Act | Tom Yonashiro | [Read More](https://medium.com/p/e08660270dae) |
+| Fri, 14 Nov 2025 14:47:15 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: The Metasploit Framework CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/e12f60efcff8) |
+| Fri, 14 Nov 2025 14:36:47 GMT | The Coming Storm Over Taiwan | MASUM BILLAH | [Read More](https://medium.com/p/5ca9f2c554be) |
+| Fri, 14 Nov 2025 14:36:28 GMT | Building a Digital Fortress: A Guide to Web Security Essentials ️ | Furkanctiner | [Read More](https://medium.com/p/de8014bab1ae) |
+| Fri, 14 Nov 2025 14:32:01 GMT | The First Autonomous AI Cyber Attack Exposed | Nwosu Rosemary | [Read More](https://medium.com/p/4974dd6e6083) |
 | Fri, 14 Nov 2025 14:28:22 GMT | Centralized File Integrity Monitoring (FIM) Using Wazuh Manager for Linux and Windows Agents | Rupesh Sharma | [Read More](https://medium.com/p/09348d8e1f58) |
 | Fri, 14 Nov 2025 14:26:44 GMT | How to solve the DVAPI’s Broken Authentication Lab | R1punjay_Singh | [Read More](https://medium.com/p/7389ae9d0c26) |
 | Fri, 14 Nov 2025 14:24:22 GMT | From Family to Furlough: The Comedy of Authentic Leadership | Namir Sagheenanajar | [Read More](https://medium.com/p/1b4338883de0) |
@@ -99,18 +114,3 @@ Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
 | Fri, 14 Nov 2025 09:47:45 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/d6bf5f84c356) |
 | Fri, 14 Nov 2025 09:41:27 GMT | Advanced Threat Modeling Techniques | Esra Kayhan | [Read More](https://medium.com/p/c6f6e7bd3268) |
 | Fri, 14 Nov 2025 09:31:58 GMT | Quantum Computing and Its Impact on Encryption | Digital Defense | [Read More](https://medium.com/p/9c70fbf162fd) |
-| Fri, 14 Nov 2025 09:29:11 GMT | “I Wish We Had Acted Sooner”: Common Post-Breach Regrets | Fook Hwa Tan | [Read More](https://medium.com/p/b64356208990) |
-| Fri, 14 Nov 2025 09:28:12 GMT | The One Cybersecurity Investment Most Leaders Overlook | Fook Hwa Tan | [Read More](https://medium.com/p/d00c0ddf4ebd) |
-| Fri, 14 Nov 2025 09:27:52 GMT | CVE-2025–46701 Bypass Tomcat CGI security constraints with a Crafted URI | Greg K with k4security Lab | [Read More](https://medium.com/p/23bf15374d47) |
-| Fri, 14 Nov 2025 09:26:49 GMT | It’s Not Technical Skill. It’s This. | Fook Hwa Tan | [Read More](https://medium.com/p/50c38c717c8f) |
-| Fri, 14 Nov 2025 09:24:13 GMT | Exploring Kali Linux: My Journey Through Essential Commands | Cyber Timi | [Read More](https://medium.com/p/7e53153e889c) |
-| Fri, 14 Nov 2025 09:19:53 GMT | ⭐ How I Integrated GitLeaks Into My GitLab CI Pipeline (With Real CI/CD YAML) | Omer Mohammed | [Read More](https://medium.com/p/829eb4c85090) |
-| Fri, 14 Nov 2025 09:14:05 GMT | The Capability Delta: When AI Agents Outgrow Their Sandboxes | Philippe Bogaerts | [Read More](https://medium.com/p/47efed3ad697) |
-| Fri, 14 Nov 2025 09:11:37 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/35cea756197f) |
-| Fri, 14 Nov 2025 09:09:49 GMT | Been a while i did a box on hack the box, talk more of a writeup. | 0xLeonidas | [Read More](https://medium.com/p/e46250dd3f2d) |
-| Fri, 14 Nov 2025 09:05:21 GMT | Forget About the Threat from Putin and Trump - This Is Far Worse | Øivind H. Solheim - Typing facts and feelings. | [Read More](https://medium.com/p/f2e07dec0f76) |
-| Fri, 14 Nov 2025 08:56:51 GMT | The Evolution of VAPT: Why Modern Security Testing Has Transformed Completely | Devarshi Acharya | [Read More](https://medium.com/p/2cb87bc46260) |
-| Fri, 14 Nov 2025 08:54:21 GMT | The Artificial Intelligence Journey — Lumon AI | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f7be04766138) |
-| Fri, 14 Nov 2025 08:54:10 GMT | RedTail Cryptominer: First Evidence of Docker API Targeting | Mario Candela | [Read More](https://medium.com/p/c061096443f8) |
-| Fri, 14 Nov 2025 08:52:38 GMT | Downgrade Frida Version On iOS Devices | Redfox Security | [Read More](https://medium.com/p/0c6801e7b49b) |
-| Fri, 14 Nov 2025 08:52:15 GMT | Why Fortinet’s Security Fabric Is Redefining Cyber Defense in 2025 | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/dad0abf34b9f) |
