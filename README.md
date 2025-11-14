@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 11:31:30 GMT | Building a Verifiable Blockchain for Government: The SIGN Approach | Emmanuel Nwidemua | [Read More](https://medium.com/p/5795fc1f06cc) |
+| Fri, 14 Nov 2025 11:28:43 GMT | Is Your Security Strategy Holding Back Your Business Growth? | Luke Appleby | [Read More](https://medium.com/p/09f8e99f5da5) |
+| Fri, 14 Nov 2025 11:25:32 GMT | Advanced Phishing Detection Models ️ | Esra Kayhan Uysal | [Read More](https://medium.com/p/e945d940ac14) |
+| Fri, 14 Nov 2025 11:23:42 GMT | Your Smart Toaster is Watching You: The Global Battle for Your Data | Allan & Ida | [Read More](https://medium.com/p/cfb7ac053574) |
+| Fri, 14 Nov 2025 11:23:40 GMT | Threat Modeling: A Practical Guide for Modern Application Security | SAKTHIVEL P | [Read More](https://medium.com/p/e0ae09ae6398) |
+| Fri, 14 Nov 2025 11:23:34 GMT | In Today’s Rapidly Digitalizing World: The Role and Methodology of Penetration Testing | HNASecurity | [Read More](https://medium.com/p/94ba4f7eb17d) |
+| Fri, 14 Nov 2025 11:19:07 GMT | MITRE ATT&CK Haritalama Yöntemleri ️ | Esra Kayhan Uysal | [Read More](https://medium.com/p/661680adaaaa) |
+| Fri, 14 Nov 2025 11:15:28 GMT | AI-Enhanced Cloud Security Monitoring for Real-Time Intrusion Detection | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/e62a18db0e4e) |
 | Fri, 14 Nov 2025 11:12:13 GMT | AI Browser Extensions Truth: Safer Choices | Dr. Hernani Costa - First AI Movers Insights | [Read More](https://medium.com/p/b04f9abb7bf5) |
 | Fri, 14 Nov 2025 11:08:50 GMT | Kerberoasting (T1558.003) — Active Directory Detection | Aufarifqi | [Read More](https://medium.com/p/ece17802055e) |
 | Fri, 14 Nov 2025 11:08:42 GMT | Ransomware’s Fragmentation Has Hit a Breaking Point — and LockBit’s Return Could Change Everything | Germano Costi | [Read More](https://medium.com/p/aa78a7310d92) |
@@ -110,11 +118,3 @@ Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
 | Fri, 14 Nov 2025 05:50:06 GMT | Practical Steps for Preparing Your Startup for a Data Breach: Legal and Contractual Musts | Hansen Tong | [Read More](https://medium.com/p/8cc4ef50b9a0) |
 | Fri, 14 Nov 2025 05:48:05 GMT | EU MDR 2017/745 Compliance Checklist for Medical Devices | QualysecEurope | [Read More](https://medium.com/p/730da5adcebb) |
 | Fri, 14 Nov 2025 05:44:35 GMT | The Growing Need for MDR/XDR in Modern Enterprises Using IT Managed Services Orlando | Gainside | [Read More](https://medium.com/p/3be36398ca5e) |
-| Fri, 14 Nov 2025 05:42:02 GMT | Google Earth Pro Secrets: A Step-by-Step OSINT Guide for Beginners [Part II] | 5hr33.j11 | [Read More](https://medium.com/p/f722aadc30d3) |
-| Fri, 14 Nov 2025 05:39:39 GMT | The Importance of Continuous Cyber Security Monitoring for Modern Businesses | Cyberextent | [Read More](https://medium.com/p/62788978ffcd) |
-| Fri, 14 Nov 2025 05:36:23 GMT | The Hidden Flaw in X402, AP2, and ACP: | Jon Capriola | [Read More](https://medium.com/p/748720e7f6d2) |
-| Fri, 14 Nov 2025 05:32:44 GMT | Closing Security Gaps: TDR Solutions Perspectives | NetWitness | [Read More](https://medium.com/p/7367d527ab7d) |
-| Fri, 14 Nov 2025 05:32:00 GMT | How a Pilot Hijacked a Plane | Noor Mindset | [Read More](https://medium.com/p/106efbc4f53b) |
-| Fri, 14 Nov 2025 05:26:14 GMT | Room 108-Telnet vs SSH | blackXmask | [Read More](https://medium.com/p/2aceb35892b4) |
-| Fri, 14 Nov 2025 05:21:24 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/99706f9d7885) |
-| Fri, 14 Nov 2025 05:20:25 GMT | Who Provides the Best Security Services in Bhiwani? | Lakshay Security | [Read More](https://medium.com/p/4dfe35f71548) |
