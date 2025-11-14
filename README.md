@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 16:58:11 GMT | The 10-Second Test That Exposed Everything | Pinki Singh | [Read More](https://medium.com/p/c34e0a31fba9) |
+| Fri, 14 Nov 2025 16:53:43 GMT | Becoming Who We Are Meant to Be: The Final Door Toward a Deeper Happiness | Habil Lokadjaja CFP | [Read More](https://medium.com/p/bc1ac1e44e74) |
+| Fri, 14 Nov 2025 16:50:56 GMT | The First AI-Orchestrated Cyber Espionage Campaign: What GTG-1002 Means for Enterprise Security | Pawel | [Read More](https://medium.com/p/b82f32b7c7a7) |
+| Fri, 14 Nov 2025 16:46:37 GMT | ️ The Ultimate 2025 Spring Boot API Security Blueprint: Rate Limiting, Anti-Replay & Signature… | Karuna | [Read More](https://medium.com/p/356fb09b30ee) |
 | Fri, 14 Nov 2025 16:35:53 GMT | What Is WMI in Cybersecurity? A Simple Beginner-Friendly Explanation | Natarajan C K | [Read More](https://medium.com/p/eac2cf12774f) |
 | Fri, 14 Nov 2025 16:28:07 GMT | We’re Going Up, Up, Up… | Nessa Amherst | [Read More](https://medium.com/p/a0608ad2b0ef) |
 | Fri, 14 Nov 2025 16:26:28 GMT | Hacking in the Age of MCP — Lessons from the Past, Risks for the Future (Model Context Protocol… | Marshfire | [Read More](https://medium.com/p/6e91349fa614) |
@@ -109,7 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 11:07:21 GMT | Man-in-the-Middle Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/531ae36abee4) |
 | Fri, 14 Nov 2025 11:07:10 GMT | Email Security Challenges in Healthcare and How to Overcome Them | SmartCLOUD Australia | [Read More](https://medium.com/p/cf24945f53dc) |
 | Fri, 14 Nov 2025 11:00:38 GMT | Non-Degree Cyber Security Certifications and Courses: 12 Options to Boost Your Career - ECCU | Cybersecurity Courses | [Read More](https://medium.com/p/155d93b90f3b) |
-| Fri, 14 Nov 2025 10:56:27 GMT | SQL Injection: Querying Database Type & Version (MySQL & MSSQL) | Aditya Bhatt | [Read More](https://medium.com/p/b53801892925) |
-| Fri, 14 Nov 2025 10:52:00 GMT | Wi-Fi is watching you! | Kirthikka Devi Venkataram | [Read More](https://medium.com/p/07e44510ed12) |
-| Fri, 14 Nov 2025 10:47:59 GMT | WAF Showdown: Real Deployment Costs Compared | Maverick Steel | [Read More](https://medium.com/p/4e9c6d1557b6) |
-| Fri, 14 Nov 2025 10:44:44 GMT | Hyperliquid Buyback, Burn, and Staking Mechanism Research Report | GoPlus Security | [Read More](https://medium.com/p/72e0e1765fd9) |
