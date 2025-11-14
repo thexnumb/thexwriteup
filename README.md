@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 09:41:27 GMT | Advanced Threat Modeling Techniques | Esra Kayhan | [Read More](https://medium.com/p/c6f6e7bd3268) |
+| Fri, 14 Nov 2025 09:31:58 GMT | Quantum Computing and Its Impact on Encryption | Digital Defense | [Read More](https://medium.com/p/9c70fbf162fd) |
+| Fri, 14 Nov 2025 09:29:11 GMT | “I Wish We Had Acted Sooner”: Common Post-Breach Regrets | Fook Hwa Tan | [Read More](https://medium.com/p/b64356208990) |
+| Fri, 14 Nov 2025 09:28:12 GMT | The One Cybersecurity Investment Most Leaders Overlook | Fook Hwa Tan | [Read More](https://medium.com/p/d00c0ddf4ebd) |
+| Fri, 14 Nov 2025 09:26:49 GMT | It’s Not Technical Skill. It’s This. | Fook Hwa Tan | [Read More](https://medium.com/p/50c38c717c8f) |
+| Fri, 14 Nov 2025 09:24:13 GMT | Exploring Kali Linux: My Journey Through Essential Commands | Cyber Timi | [Read More](https://medium.com/p/7e53153e889c) |
+| Fri, 14 Nov 2025 09:19:53 GMT | ⭐ How I Integrated GitLeaks Into My GitLab CI Pipeline (With Real CI/CD YAML) | Omer Mohammed | [Read More](https://medium.com/p/829eb4c85090) |
+| Fri, 14 Nov 2025 09:14:05 GMT | The Capability Delta: When AI Agents Outgrow Their Sandboxes | Philippe Bogaerts | [Read More](https://medium.com/p/47efed3ad697) |
+| Fri, 14 Nov 2025 09:11:37 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/35cea756197f) |
 | Fri, 14 Nov 2025 09:09:49 GMT | Been a while i did a box on hack the box, talk more of a writeup. | 0xLeonidas | [Read More](https://medium.com/p/e46250dd3f2d) |
 | Fri, 14 Nov 2025 09:05:21 GMT | Forget About the Threat from Putin and Trump - This Is Far Worse | Øivind H. Solheim - Typing facts and feelings. | [Read More](https://medium.com/p/f2e07dec0f76) |
 | Fri, 14 Nov 2025 08:56:51 GMT | The Evolution of VAPT: Why Modern Security Testing Has Transformed Completely | Devarshi Acharya | [Read More](https://medium.com/p/2cb87bc46260) |
@@ -107,12 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 14 Nov 2025 02:49:23 GMT | Essential 8 for Small Business | PECyber | [Read More](https://medium.com/p/a02a3f8b69a5) |
 | Fri, 14 Nov 2025 02:22:20 GMT | How to Crack CCNA in 10 Days? A Beginner’s Survival Guide | Breeze | [Read More](https://medium.com/p/a27c411c4aa4) |
 | Fri, 14 Nov 2025 02:06:42 GMT | Cybersecurity: What People See vs. What Really Happens | Madhava Sai Kolluri | [Read More](https://medium.com/p/0aefef8d48cd) |
-| Fri, 14 Nov 2025 02:02:51 GMT | Ethernet Üzerinden Raspberry Pi SSH Bağlantısı Nasıl Sağlanır ? | Enes Berk Yetim | [Read More](https://medium.com/p/05152f158378) |
-| Fri, 14 Nov 2025 01:32:14 GMT | OWASP top 10–2025 vs 2021- The “what” and “why” | Cyberbali | [Read More](https://medium.com/p/961acac772db) |
-| Fri, 14 Nov 2025 01:31:50 GMT | CyberSecurity Lesson 4 : Seeing Security in Action | YogiCode | [Read More](https://medium.com/p/79ea46309a15) |
-| Fri, 14 Nov 2025 01:31:04 GMT | How I Became the #1 Security Researcher on the DHS Vulnerability Disclosure Program | Philip Garabandic | [Read More](https://medium.com/p/cf75da2b83be) |
-| Fri, 14 Nov 2025 01:26:44 GMT | HTB — Sequel | Lautaro Robayna | [Read More](https://medium.com/p/3f7fcfffa683) |
-| Fri, 14 Nov 2025 01:19:37 GMT | Introducing Ph.Sh_URL: Your New Go-To OSINT Tool for URL Discovery | Philopater Shenouda | [Read More](https://medium.com/p/709f1036e56f) |
-| Fri, 14 Nov 2025 01:15:17 GMT | How to Spot and Avoid the Latest WhatsApp Scams in 2025 | Steven Chin | [Read More](https://medium.com/p/306c84ad49a7) |
-| Fri, 14 Nov 2025 01:12:42 GMT | Hydra & Cewl: Toolkit Profesional para Pentesting en Formularios de Login | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/68b7fbb6ad13) |
-| Fri, 14 Nov 2025 01:08:02 GMT | Washington Post Confirms Data Breach Linked to Zero-Day Exploit | RealSec.io | [Read More](https://medium.com/p/78191151931a) |
