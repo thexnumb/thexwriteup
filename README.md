@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 04:31:56 GMT | Cookie Security: Everything Developers Need to Know | Balki Maharaj | [Read More](https://medium.com/p/9c8fa98c5801) |
+| Fri, 14 Nov 2025 04:29:54 GMT | How Purposeful Corrupt A File Online In 2026 QA Game Changer | Abdur Rahman Isty | [Read More](https://medium.com/p/344c2122b4d7) |
 | Fri, 14 Nov 2025 04:18:04 GMT | Why Annual Penetration Testing Is No Longer Enough in 2025 | SilentWire Cybersecurity | [Read More](https://medium.com/p/71bdb9a57bc7) |
 | Fri, 14 Nov 2025 04:15:49 GMT | Firefox Is Thinking Differently: A New Kind of AI Browser Experience | Dibeesh KS | [Read More](https://medium.com/p/acdb2fd38b0e) |
 | Fri, 14 Nov 2025 04:08:24 GMT | Router Security Tips to Block WiFi Thieves and Protect Your Network | Ask IT Support | [Read More](https://medium.com/p/fea08d592fcb) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 18:01:51 GMT | Cognition Under Load: The Geometry of Refusal at the Frontier | Zachary Fitzgerald | [Read More](https://medium.com/p/57d135dd82ca) |
 | Thu, 13 Nov 2025 18:00:17 GMT | How AI is changing security testing — and why you still need a human in charge. | Gopi Sri | [Read More](https://medium.com/p/2dd67110a9a7) |
 | Thu, 13 Nov 2025 17:55:21 GMT | Threats to Tranquility: How United Security Keeps You Safe | United Security | [Read More](https://medium.com/p/4d119a823315) |
-| Thu, 13 Nov 2025 17:39:46 GMT | CLI vs. IDE for AI Coding | Teri Radichel | [Read More](https://medium.com/p/61cb0bc2db28) |
-| Thu, 13 Nov 2025 17:38:18 GMT | The Best AI for Ethical Hacking | Appsec.pt | [Read More](https://medium.com/p/911c92de3b37) |
