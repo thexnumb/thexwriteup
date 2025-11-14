@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 07:29:27 GMT | ⭐ NMAP COMPLETE BEGINNER → ADVANCED | Dhruv | [Read More](https://medium.com/p/d8ebf8296266) |
+| Fri, 14 Nov 2025 07:21:36 GMT | Data Exfiltration Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/f14f99a5558a) |
+| Fri, 14 Nov 2025 07:21:19 GMT | Building a Microservice to Detect and Anonymize Sensitive Data in Files | Prabhu Srivastava | [Read More](https://medium.com/p/abd3cf0180b6) |
+| Fri, 14 Nov 2025 07:17:54 GMT | Beyond the Cloud: What’s Next for Data Storage and Computing? | Raj Ribadiya | [Read More](https://medium.com/p/d1ea0c9a57a8) |
+| Fri, 14 Nov 2025 07:12:52 GMT | FortiSIEM (ClickHouse) Hot Tier — Warm Tier Veri Taşıma Sorunu: Kök Neden Analizi ve move_factor… | Beratbayraktar | [Read More](https://medium.com/p/c4616c652643) |
 | Fri, 14 Nov 2025 07:02:44 GMT | Surfshark Black Friday Deal — The Lowest VPN Price of the Year | Caydenal Waon | [Read More](https://medium.com/p/7e1bc6c21019) |
 | Fri, 14 Nov 2025 06:56:10 GMT | Find the best AI App Development Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/ae4c93c501a1) |
 | Fri, 14 Nov 2025 06:55:16 GMT | OWASP Top 10 (2021 vs 2025): Complete Guide, Changes, Reasons, Practice, and Easy Memory Tricks | Tandelpruthvi | [Read More](https://medium.com/p/0a304c696ac4) |
@@ -111,8 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 21:43:03 GMT | Windows Web Shell | S12 - 0x12Dark Development | [Read More](https://medium.com/p/10991fd42a8c) |
 | Thu, 13 Nov 2025 21:39:13 GMT | Chutzpah Meets Kindness (Chayei Sarah) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/4e877f4ab691) |
 | Thu, 13 Nov 2025 21:35:57 GMT | ️Instantly Harden your Linux system | Lennart Pieperjohanns | [Read More](https://medium.com/p/de10aecf6988) |
-| Thu, 13 Nov 2025 21:28:40 GMT | How a Russian Couple Was Killed for Cryptocurrency and Dumped in a Desert near Dubai, UAE — When… | David SEHYEON Baek | [Read More](https://medium.com/p/36ffda00bd31) |
-| Thu, 13 Nov 2025 21:19:02 GMT | I’m Scared All The Time  — | Eleojo | [Read More](https://medium.com/p/76c14c395743) |
-| Thu, 13 Nov 2025 21:18:17 GMT | Why Password Managers Make You Anxious (And How Design Can Fix It) | KAMALJEET SINGH | [Read More](https://medium.com/p/ce8b0f9691a7) |
-| Thu, 13 Nov 2025 21:04:45 GMT | I am the First Person to be Enlightened by AI | Tyler Wall | [Read More](https://medium.com/p/28f97399fdeb) |
-| Thu, 13 Nov 2025 20:58:30 GMT | Write-up : TakeOver | DylanSec | [Read More](https://medium.com/p/b992ce9a1c2a) |
