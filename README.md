@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 21:08:09 GMT | Meliodas Stealer Malware | Vaibhav Kanada | [Read More](https://medium.com/p/c3f0ff63e587) |
+| Fri, 14 Nov 2025 20:44:05 GMT | AI for Security Operations: The Ultimate Guide to Smarter, Automated Threat Response | CodeToKloud | [Read More](https://medium.com/p/a8a134c24e37) |
+| Fri, 14 Nov 2025 20:43:35 GMT | Grotesque 1 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c6958332d656) |
 | Fri, 14 Nov 2025 20:35:01 GMT | The $100,000 Token: How a ChatGPT Flaw Exposed Azure and Why Your Cloud Identity is Next | IT_Engineer | [Read More](https://medium.com/p/91b9de02506e) |
+| Fri, 14 Nov 2025 20:31:05 GMT | Merhaba Medium! Yeni Bir Yolculuğun İlk Adımı | Abdullah HANÇERLİ | [Read More](https://medium.com/p/b8b5abe00dce) |
 | Fri, 14 Nov 2025 20:29:24 GMT | SQL Injection: Listing Database Contents on Non-Oracle Databases | Aditya Bhatt | [Read More](https://medium.com/p/ff10335aa34b) |
 | Fri, 14 Nov 2025 20:26:08 GMT | Building a Cybersecurity Home Lab — Part 3: Building the Virtual Environment | JBXSec | [Read More](https://medium.com/p/94a1be61d376) |
 | Fri, 14 Nov 2025 20:25:50 GMT | Building a Cybersecurity Home Lab — Part 2: Setting Up Virtualization | JBXSec | [Read More](https://medium.com/p/cef8939cbda0) |
@@ -109,7 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 14:18:32 GMT | XWiki Uzaktan Kod Yürütme Zafiyeti (RCE) — CVE-2025–24893 | Ali Rıza Zengince | [Read More](https://medium.com/p/46877cb434d4) |
 | Fri, 14 Nov 2025 14:15:44 GMT | A Fake Ethereum Wallet Extension Is Giving Attackers Full Control of User Funds | Jasmitha | [Read More](https://medium.com/p/562fc4921156) |
 | Fri, 14 Nov 2025 14:15:21 GMT | Python & Cybersecurity | Kauan Querino | [Read More](https://medium.com/p/1fcbf44b8489) |
-| Fri, 14 Nov 2025 13:49:59 GMT | How Data Breach Attorneys Assess Negligence in Cybersecurity Incidents | Legal Thoughts | [Read More](https://medium.com/p/b06e3e33c2d8) |
-| Fri, 14 Nov 2025 13:47:39 GMT | How to Build a Home SOC (Free + VirtualBox) | Zachary Marcy | [Read More](https://medium.com/p/e01b276745f3) |
-| Fri, 14 Nov 2025 13:47:11 GMT | How to Detect Jailbreak on Flutter | Talsec | [Read More](https://medium.com/p/74f1bf3b1827) |
-| Fri, 14 Nov 2025 13:39:34 GMT | Security Services in India: Trends, Innovations & the Future of Protection | Noman Ali | [Read More](https://medium.com/p/7c9a5872f78d) |
