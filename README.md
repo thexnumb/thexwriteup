@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 16:35:53 GMT | What Is WMI in Cybersecurity? A Simple Beginner-Friendly Explanation | Natarajan C K | [Read More](https://medium.com/p/eac2cf12774f) |
+| Fri, 14 Nov 2025 16:28:07 GMT | We’re Going Up, Up, Up… | Nessa Amherst | [Read More](https://medium.com/p/a0608ad2b0ef) |
+| Fri, 14 Nov 2025 16:26:28 GMT | Hacking in the Age of MCP — Lessons from the Past, Risks for the Future (Model Context Protocol… | Marshfire | [Read More](https://medium.com/p/6e91349fa614) |
+| Fri, 14 Nov 2025 16:24:47 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: The Metasploit Framework CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/912d5b7e4c09) |
+| Fri, 14 Nov 2025 16:24:42 GMT | Top 30 AI Security Startups –2025 | Tal Eliyahu | [Read More](https://medium.com/p/05847ac90747) |
 | Fri, 14 Nov 2025 16:24:31 GMT | Security and Performance Aspects of Filesystem Optimization | Linux Guide | [Read More](https://medium.com/p/3a2e5f20a5d1) |
 | Fri, 14 Nov 2025 16:21:45 GMT | Pickle Rick TryHackMe Writeup | Benedict Agno | [Read More](https://medium.com/p/e7039ecb3711) |
+| Fri, 14 Nov 2025 16:21:39 GMT | The Hidden Cost of Compromised Accounts And Why Your Private Messages Aren’t As Private As You… | Hitesh Said | [Read More](https://medium.com/p/34472173cd23) |
 | Fri, 14 Nov 2025 16:14:15 GMT | Advanced Seccomp Filters Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/c027f5f62ecc) |
 | Fri, 14 Nov 2025 16:11:28 GMT | New ClickFix Attack Targeting Windows and macOS Users to Deploy Infostealer Malware | Technijian | [Read More](https://medium.com/p/4086172bd737) |
 | Fri, 14 Nov 2025 16:06:25 GMT | ⚙️ Inside PostgreSQL Performance Optimization: Real Tuning Lessons from 2025 | Rizqi Mulki | [Read More](https://medium.com/p/2387c86542cd) |
@@ -107,9 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 10:52:00 GMT | Wi-Fi is watching you! | Kirthikka Devi Venkataram | [Read More](https://medium.com/p/07e44510ed12) |
 | Fri, 14 Nov 2025 10:47:59 GMT | WAF Showdown: Real Deployment Costs Compared | Maverick Steel | [Read More](https://medium.com/p/4e9c6d1557b6) |
 | Fri, 14 Nov 2025 10:44:44 GMT | Hyperliquid Buyback, Burn, and Staking Mechanism Research Report | GoPlus Security | [Read More](https://medium.com/p/72e0e1765fd9) |
-| Fri, 14 Nov 2025 10:38:50 GMT | The Importance of Self-Learning in the Information Age | Ahmed Mohamed | [Read More](https://medium.com/p/686d5981256a) |
-| Fri, 14 Nov 2025 10:37:08 GMT | The internet is becoming divided | Jalaj Gupta | [Read More](https://medium.com/p/18dc91cf77d5) |
-| Fri, 14 Nov 2025 10:33:00 GMT | AI “Jailbreaking”: Why Learning to Trick AI Makes You a Safer Coder | Numan Nadeem | [Read More](https://medium.com/p/cea78cc61f36) |
-| Fri, 14 Nov 2025 10:32:05 GMT | AI Hackers Are Here: AI Launched a Cyberattack at Nation-State Scale | Namrata | [Read More](https://medium.com/p/47ac0d3303c0) |
-| Fri, 14 Nov 2025 10:28:52 GMT | The First Wave of AI-Powered Malware Is Here | Czarif | [Read More](https://medium.com/p/b91924b008a7) |
-| Fri, 14 Nov 2025 10:27:38 GMT | Best Cybersecurity Degree in India - EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/64bd10b7d3d0) |
