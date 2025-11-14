@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 18:27:13 GMT | Reflected XSS → DVWA Walkthrough: Learn How User Input Can Trigger a Script Execution | Adwaith S | [Read More](https://medium.com/p/3c9f9f26962b) |
+| Fri, 14 Nov 2025 18:22:32 GMT | How to Build a Simple and Effective Cybersecurity Plan for Your Team | Cordula Boeck | [Read More](https://medium.com/p/1cfb792fbb76) |
+| Fri, 14 Nov 2025 18:21:11 GMT | Cybersecurity News Review — Week 46 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/3318548b631a) |
+| Fri, 14 Nov 2025 18:19:23 GMT | CYBERSECURITY INTERNSHIP | Adeleke Theophilus O | [Read More](https://medium.com/p/2c5aaf33f859) |
+| Fri, 14 Nov 2025 18:18:24 GMT | 10 Mistakes AI SaaS Startups Make With Data Privacy | Hamza Rahmoun | [Read More](https://medium.com/p/fe42d990b4c5) |
+| Fri, 14 Nov 2025 18:16:19 GMT | The Silent ATO | Omar Mahmoud | [Read More](https://medium.com/p/238edcda6dd0) |
+| Fri, 14 Nov 2025 18:07:00 GMT | Business logic lead to Permanently Locked Any Email Out of Their Account | 0xbug | [Read More](https://medium.com/p/c6077f2cee59) |
+| Fri, 14 Nov 2025 18:05:04 GMT | The Magic T-Shirt That Hides You From AI — But Only From Half the System | Berend Watchus | [Read More](https://medium.com/p/c3ab8028b7ad) |
+| Fri, 14 Nov 2025 18:03:07 GMT | SOC vs. NOC: 5 Key Differences and Choosing One or Both for Superior IT Operations | ITTStar Consulting | [Read More](https://medium.com/p/49bb81aa53c8) |
+| Fri, 14 Nov 2025 18:02:48 GMT | Let’s talk about Compliance. | Marko | [Read More](https://medium.com/p/c2bd39bed3ad) |
+| Fri, 14 Nov 2025 18:02:14 GMT | HackTheBox: Editor Writeup | Rahaliashraf | [Read More](https://medium.com/p/5602c1cda18a) |
+| Fri, 14 Nov 2025 18:02:06 GMT | HackTheBox Meow: from telnet to root access | SoBatista | [Read More](https://medium.com/p/0bc025c4e94d) |
+| Fri, 14 Nov 2025 18:00:45 GMT | Build a Cybersecurity AI agent with Postgres Lakebase on Databricks | AI on Databricks | [Read More](https://medium.com/p/03f206a83edb) |
+| Fri, 14 Nov 2025 17:59:47 GMT | The Silent Debris: Why 70% of Failed Crypto Projects Haunt the Blockchain | zoctracker | [Read More](https://medium.com/p/4dba9b016a8a) |
+| Fri, 14 Nov 2025 17:44:04 GMT | The Unseen Spill: 7 simple ways data is left exposed in Financial Institutions | Sonareon | [Read More](https://medium.com/p/14e8260fcfe4) |
+| Fri, 14 Nov 2025 17:38:20 GMT | 20 Must-Have Features in a Food Delivery App | Startup Consultant | [Read More](https://medium.com/p/cdc207e90e0b) |
 | Fri, 14 Nov 2025 17:22:29 GMT | When My Epson Printer Decided to Fight Ubuntu (Again) | Jishnu J P | [Read More](https://medium.com/p/3e6695368a62) |
 | Fri, 14 Nov 2025 16:58:11 GMT | The 10-Second Test That Exposed Everything | Pinki Singh | [Read More](https://medium.com/p/c34e0a31fba9) |
 | Fri, 14 Nov 2025 16:53:43 GMT | Becoming Who We Are Meant to Be: The Final Door Toward a Deeper Happiness | Habil Lokadjaja CFP | [Read More](https://medium.com/p/bc1ac1e44e74) |
@@ -97,19 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 12:01:20 GMT | OSI Layers ️ | Merve Güler | [Read More](https://medium.com/p/7abe52123cc7) |
 | Fri, 14 Nov 2025 12:00:59 GMT | Today’s Top Cyber Intelligence Highlights — Nov 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/dcac21a94b5d) |
 | Fri, 14 Nov 2025 11:52:36 GMT | AI in Cyber Security: From Hype to Hard Outcomes | Pietro Romano / SecBeret | [Read More](https://medium.com/p/62ecef8b5ee5) |
-| Fri, 14 Nov 2025 11:52:02 GMT | Three Words That Will Change How You Think About Cybersecurity: Risk, Threat, and Vulnerability | BnHany | [Read More](https://medium.com/p/ab716e1a9ee5) |
-| Fri, 14 Nov 2025 11:43:01 GMT | The Static and the Ghosts : Armenia’s Cybersecurity Infrastructure and the Fall of the Dark… | Michael Arty - Cyber Security - Music A&R - | [Read More](https://medium.com/p/56e344263917) |
-| Fri, 14 Nov 2025 11:33:18 GMT | All Been Crypto — Week 14 Nov 2025 | Bat Tai Chi | [Read More](https://medium.com/p/28ff3e0aff98) |
-| Fri, 14 Nov 2025 11:31:30 GMT | Building a Verifiable Blockchain for Government: The SIGN Approach | Emmanuel Nwidemua | [Read More](https://medium.com/p/5795fc1f06cc) |
-| Fri, 14 Nov 2025 11:28:43 GMT | Is Your Security Strategy Holding Back Your Business Growth? | Luke Appleby | [Read More](https://medium.com/p/09f8e99f5da5) |
-| Fri, 14 Nov 2025 11:25:32 GMT | Advanced Phishing Detection Models ️ | Esra Kayhan Uysal | [Read More](https://medium.com/p/e945d940ac14) |
-| Fri, 14 Nov 2025 11:23:42 GMT | Your Smart Toaster is Watching You: The Global Battle for Your Data | Allan & Ida | [Read More](https://medium.com/p/cfb7ac053574) |
-| Fri, 14 Nov 2025 11:23:40 GMT | Threat Modeling: A Practical Guide for Modern Application Security | SAKTHIVEL P | [Read More](https://medium.com/p/e0ae09ae6398) |
-| Fri, 14 Nov 2025 11:23:34 GMT | In Today’s Rapidly Digitalizing World: The Role and Methodology of Penetration Testing | HNASecurity | [Read More](https://medium.com/p/94ba4f7eb17d) |
-| Fri, 14 Nov 2025 11:19:07 GMT | MITRE ATT&CK Haritalama Yöntemleri ️ | Esra Kayhan Uysal | [Read More](https://medium.com/p/661680adaaaa) |
-| Fri, 14 Nov 2025 11:15:28 GMT | AI-Enhanced Cloud Security Monitoring for Real-Time Intrusion Detection | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/e62a18db0e4e) |
-| Fri, 14 Nov 2025 11:12:13 GMT | AI Browser Extensions Truth: Safer Choices | Dr. Hernani Costa - First AI Movers Insights | [Read More](https://medium.com/p/b04f9abb7bf5) |
-| Fri, 14 Nov 2025 11:08:50 GMT | Kerberoasting (T1558.003) — Active Directory Detection | Aufarifqi | [Read More](https://medium.com/p/ece17802055e) |
-| Fri, 14 Nov 2025 11:08:42 GMT | Ransomware’s Fragmentation Has Hit a Breaking Point — and LockBit’s Return Could Change Everything | Germano Costi | [Read More](https://medium.com/p/aa78a7310d92) |
-| Fri, 14 Nov 2025 11:07:21 GMT | Man-in-the-Middle Detection Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/531ae36abee4) |
-| Fri, 14 Nov 2025 11:07:10 GMT | Email Security Challenges in Healthcare and How to Overcome Them | SmartCLOUD Australia | [Read More](https://medium.com/p/cf24945f53dc) |
