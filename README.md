@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 08:48:15 GMT | Knowledge vs. Information: The Silent Shift That Changes How We Think | Arwa | [Read More](https://medium.com/p/766ddb816b9e) |
+| Fri, 14 Nov 2025 08:47:28 GMT | Mastering the Four Essential Risk Management Approaches Every Trader Needs | Ravikant choudhary | [Read More](https://medium.com/p/ead60b155e9a) |
+| Fri, 14 Nov 2025 08:42:00 GMT | ประจำวันศุกร์ที่ 14 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/2fb78bd16c30) |
+| Fri, 14 Nov 2025 08:39:21 GMT | Design Systems and Reusable Components in 2025: A Practical Guide | OneEntry Platform | [Read More](https://medium.com/p/c3f9ac904a57) |
 | Fri, 14 Nov 2025 08:13:41 GMT | 15 Terminal Commands Every Beginner Should Master, The Ones That Actually Change Your Life | Fateyaly | [Read More](https://medium.com/p/209d3c098b85) |
 | Fri, 14 Nov 2025 08:09:45 GMT | You’ve been pwned | DeltaBytes | [Read More](https://medium.com/p/e7a98725cb6c) |
 | Fri, 14 Nov 2025 08:08:54 GMT | Easiest way to Fulfill Server Storage with 1-TB or 1-PB— 1-Line Curl from a Closed CVE | Greg K | [Read More](https://medium.com/p/df77e6cdd17c) |
@@ -112,7 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 23:19:40 GMT | The Bridge Between Justice and Cybersecurity | Anum Khan | [Read More](https://medium.com/p/6e63a0d18d71) |
 | Thu, 13 Nov 2025 23:17:17 GMT | Somewhere in Between | Jana Gauthier | [Read More](https://medium.com/p/b91323636833) |
 | Thu, 13 Nov 2025 23:06:51 GMT | [Wait_for_the_Clock] — [Digital Forensics] — [Cyber Sprint 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/96f5ad6a902a) |
-| Thu, 13 Nov 2025 22:43:59 GMT | The Quiet Collapse: Why Cybersecurity Fatigue Is the Greatest Threat MSPs Aren’t Talking About | Donald Betancourt | [Read More](https://medium.com/p/80687de01f92) |
-| Thu, 13 Nov 2025 22:42:49 GMT | The Strategic Advantage of a vCISO — Why Cybersecurity Leadership is No Longer Optional | Yokota Strong | [Read More](https://medium.com/p/08bde0c4a44d) |
-| Thu, 13 Nov 2025 22:39:06 GMT | Criminal Justice in the Age of Cybercrime | Anum Khan | [Read More](https://medium.com/p/d797323746a6) |
-| Thu, 13 Nov 2025 22:27:18 GMT | Input Manipulation & Prompt Injection - Tryhackme | Aaron | [Read More](https://medium.com/p/f6439ff1bbfd) |
