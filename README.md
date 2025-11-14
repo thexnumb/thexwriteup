@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 20:35:01 GMT | The $100,000 Token: How a ChatGPT Flaw Exposed Azure and Why Your Cloud Identity is Next | IT_Engineer | [Read More](https://medium.com/p/91b9de02506e) |
+| Fri, 14 Nov 2025 20:29:24 GMT | SQL Injection: Listing Database Contents on Non-Oracle Databases | Aditya Bhatt | [Read More](https://medium.com/p/ff10335aa34b) |
+| Fri, 14 Nov 2025 20:26:08 GMT | Building a Cybersecurity Home Lab — Part 3: Building the Virtual Environment | JBXSec | [Read More](https://medium.com/p/94a1be61d376) |
+| Fri, 14 Nov 2025 20:25:50 GMT | Building a Cybersecurity Home Lab — Part 2: Setting Up Virtualization | JBXSec | [Read More](https://medium.com/p/cef8939cbda0) |
+| Fri, 14 Nov 2025 20:25:22 GMT | Building a Cybersecurity Home Lab — Part 1: Planning Your Infrastructure | JBXSec | [Read More](https://medium.com/p/1028a9205dd2) |
+| Fri, 14 Nov 2025 20:23:47 GMT | From Vulnerable to Bulletproof: A TCP Stack’s Security Transformation | Onionknight | [Read More](https://medium.com/p/ee357fce314a) |
 | Fri, 14 Nov 2025 20:21:44 GMT | Critical Vulnerability in v380 Cameras: How Plaintext Credentials Exposed Millions of Devices | Romaxa | [Read More](https://medium.com/p/17c89451889d) |
 | Fri, 14 Nov 2025 20:05:32 GMT | Authentication and Types | Pearl Rathour | [Read More](https://medium.com/p/cf14c18d0de8) |
 | Fri, 14 Nov 2025 19:50:55 GMT | What Cybersecurity Can Learn From Military Stress Management | Victoria | [Read More](https://medium.com/p/fff1ef747906) |
@@ -107,9 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 13:47:39 GMT | How to Build a Home SOC (Free + VirtualBox) | Zachary Marcy | [Read More](https://medium.com/p/e01b276745f3) |
 | Fri, 14 Nov 2025 13:47:11 GMT | How to Detect Jailbreak on Flutter | Talsec | [Read More](https://medium.com/p/74f1bf3b1827) |
 | Fri, 14 Nov 2025 13:39:34 GMT | Security Services in India: Trends, Innovations & the Future of Protection | Noman Ali | [Read More](https://medium.com/p/7c9a5872f78d) |
-| Fri, 14 Nov 2025 13:37:05 GMT | Part 2. Wallet Drainers and their TTPs | Joe LeFever | [Read More](https://medium.com/p/5e0512cee2cb) |
-| Fri, 14 Nov 2025 13:29:55 GMT | Bash Commands You Should Never Run on Any Machine | Arun Malve | [Read More](https://medium.com/p/52a6bca9a143) |
-| Fri, 14 Nov 2025 13:27:45 GMT | When the Bug Bounty Platform Turns Against Its Own Hunters | Gl1tch | [Read More](https://medium.com/p/3f5da87851ff) |
-| Fri, 14 Nov 2025 13:19:33 GMT | Security Audits for Early-Stage SaaS Products | KodekX | [Read More](https://medium.com/p/c740f37f4b22) |
-| Fri, 14 Nov 2025 13:17:14 GMT | Building Smarter Systems: The Role of AI in Next-Gen Cloud Infrastructure | Business Websoft | [Read More](https://medium.com/p/2d18c5b43f42) |
-| Fri, 14 Nov 2025 13:11:39 GMT | PyPitfall: Dependency Chaos and Software Supply Chain Vulnerabilities in Python — A critical review | Maikel Mardjan | [Read More](https://medium.com/p/03af62b75676) |
