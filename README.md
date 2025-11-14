@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 23:33:14 GMT | Fantasy Hub: The Android Trojan Turning Telegram Into a Hacker Marketplace | C. Oscar Lawshea | [Read More](https://medium.com/p/0da0876becd5) |
+| Fri, 14 Nov 2025 23:32:06 GMT | CYBERSECURITY AWARENESS TRAINERS AREN’T DOING THEIR JOB | Olatunji David | [Read More](https://medium.com/p/b8b54f3f6a7e) |
+| Fri, 14 Nov 2025 23:26:40 GMT | A Community Acupuncturist at Industrial Cyber 2025 | Mike Gonzalez | [Read More](https://medium.com/p/0294c22c2213) |
+| Fri, 14 Nov 2025 23:26:38 GMT | Why Every Cybersecurity Professional Should Understand the Radio Spectrum | Michael Preston | [Read More](https://medium.com/p/c9c74ae99f78) |
 | Fri, 14 Nov 2025 23:10:44 GMT | TryHackMe Input Manipulation & Prompt Injection Walkthrough WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/502ff2446dbf) |
 | Fri, 14 Nov 2025 23:01:08 GMT | AI-Powered Secure CI/CD Pipeline: The Future of Zero-Trust Software Delivery | 1blnrequests | [Read More](https://medium.com/p/dd9215812d6c) |
 | Fri, 14 Nov 2025 22:54:42 GMT | Building Autonomous Cybersecurity For A Hyper-Connected World | Vaultnet Defense | [Read More](https://medium.com/p/7653006e4870) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com/p/ca4a4955f223) |
 | Fri, 14 Nov 2025 15:31:04 GMT | AI-Driven Cyberattacks Have Arrived: What Project Managers and Technology Strategists Must Do Now | CCL Montante | [Read More](https://medium.com/p/82959712276e) |
 | Fri, 14 Nov 2025 15:30:59 GMT | Unknown Caller? Suspicious Email? Here’s How to Verify Anyone in Seconds (Without Them Knowing) | Risfat | [Read More](https://medium.com/p/e5bde434f0b0) |
-| Fri, 14 Nov 2025 15:17:39 GMT | My $0 Path to SOC Analyst: Mastering the “Human Side” (Alerts, Escalation, Communication — Week 2) | Ayush Kumbhar | [Read More](https://medium.com/p/b4c781442664) |
-| Fri, 14 Nov 2025 15:17:18 GMT | The Shai-Hulud Attack: Exposing Weak Links in Modern Software Supply Chains | Himanshu Bhatt | [Read More](https://medium.com/p/07422d6f19b3) |
-| Fri, 14 Nov 2025 15:15:50 GMT | Master the Art of Writing Better Cybersecurity Reports with AI: Step-by-Step Guide for Pros | Very Lazy Tech | [Read More](https://medium.com/p/45393249dcf4) |
-| Fri, 14 Nov 2025 15:13:55 GMT | VAPT Uncovered: What Businesses Learn When They Test Their Own Walls | Co-Ventech | [Read More](https://medium.com/p/89e540fc09c4) |
