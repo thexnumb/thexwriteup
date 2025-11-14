@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 14:28:22 GMT | Centralized File Integrity Monitoring (FIM) Using Wazuh Manager for Linux and Windows Agents | Rupesh Sharma | [Read More](https://medium.com/p/09348d8e1f58) |
+| Fri, 14 Nov 2025 14:26:44 GMT | How to solve the DVAPI’s Broken Authentication Lab | R1punjay_Singh | [Read More](https://medium.com/p/7389ae9d0c26) |
+| Fri, 14 Nov 2025 14:24:22 GMT | From Family to Furlough: The Comedy of Authentic Leadership | Namir Sagheenanajar | [Read More](https://medium.com/p/1b4338883de0) |
+| Fri, 14 Nov 2025 14:22:55 GMT | Cyberwarfare: Nation-State Attacks in the New Era | Intellitron Genesis | [Read More](https://medium.com/p/dac74db8cce5) |
+| Fri, 14 Nov 2025 14:22:27 GMT | How i Found My first IDOR On Heavily Tested Target | Pawan parmar | [Read More](https://medium.com/p/ace3322824cc) |
+| Fri, 14 Nov 2025 14:18:32 GMT | XWiki Uzaktan Kod Yürütme Zafiyeti (RCE) — CVE-2025–24893 | Ali Rıza Zengince | [Read More](https://medium.com/p/46877cb434d4) |
+| Fri, 14 Nov 2025 14:15:44 GMT | A Fake Ethereum Wallet Extension Is Giving Attackers Full Control of User Funds | Jasmitha | [Read More](https://medium.com/p/562fc4921156) |
+| Fri, 14 Nov 2025 14:15:21 GMT | Python & Cybersecurity | Kauan Querino | [Read More](https://medium.com/p/1fcbf44b8489) |
 | Fri, 14 Nov 2025 13:49:59 GMT | How Data Breach Attorneys Assess Negligence in Cybersecurity Incidents | Legal Thoughts | [Read More](https://medium.com/p/b06e3e33c2d8) |
 | Fri, 14 Nov 2025 13:47:39 GMT | How to Build a Home SOC (Free + VirtualBox) | Zachary Marcy | [Read More](https://medium.com/p/e01b276745f3) |
 | Fri, 14 Nov 2025 13:47:11 GMT | How to Detect Jailbreak on Flutter | Talsec | [Read More](https://medium.com/p/74f1bf3b1827) |
@@ -93,6 +101,7 @@ Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
 | Fri, 14 Nov 2025 09:31:58 GMT | Quantum Computing and Its Impact on Encryption | Digital Defense | [Read More](https://medium.com/p/9c70fbf162fd) |
 | Fri, 14 Nov 2025 09:29:11 GMT | “I Wish We Had Acted Sooner”: Common Post-Breach Regrets | Fook Hwa Tan | [Read More](https://medium.com/p/b64356208990) |
 | Fri, 14 Nov 2025 09:28:12 GMT | The One Cybersecurity Investment Most Leaders Overlook | Fook Hwa Tan | [Read More](https://medium.com/p/d00c0ddf4ebd) |
+| Fri, 14 Nov 2025 09:27:52 GMT | CVE-2025–46701 Bypass Tomcat CGI security constraints with a Crafted URI | Greg K with k4security Lab | [Read More](https://medium.com/p/23bf15374d47) |
 | Fri, 14 Nov 2025 09:26:49 GMT | It’s Not Technical Skill. It’s This. | Fook Hwa Tan | [Read More](https://medium.com/p/50c38c717c8f) |
 | Fri, 14 Nov 2025 09:24:13 GMT | Exploring Kali Linux: My Journey Through Essential Commands | Cyber Timi | [Read More](https://medium.com/p/7e53153e889c) |
 | Fri, 14 Nov 2025 09:19:53 GMT | ⭐ How I Integrated GitLeaks Into My GitLab CI Pipeline (With Real CI/CD YAML) | Omer Mohammed | [Read More](https://medium.com/p/829eb4c85090) |
@@ -105,12 +114,3 @@ Focused) | Kemal Rajasa | [Read More](https://medium.com/p/d6b92372c032) |
 | Fri, 14 Nov 2025 08:54:10 GMT | RedTail Cryptominer: First Evidence of Docker API Targeting | Mario Candela | [Read More](https://medium.com/p/c061096443f8) |
 | Fri, 14 Nov 2025 08:52:38 GMT | Downgrade Frida Version On iOS Devices | Redfox Security | [Read More](https://medium.com/p/0c6801e7b49b) |
 | Fri, 14 Nov 2025 08:52:15 GMT | Why Fortinet’s Security Fabric Is Redefining Cyber Defense in 2025 | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/dad0abf34b9f) |
-| Fri, 14 Nov 2025 08:48:15 GMT | Knowledge vs. Information: The Silent Shift That Changes How We Think | Arwa | [Read More](https://medium.com/p/766ddb816b9e) |
-| Fri, 14 Nov 2025 08:47:44 GMT | 7-Step Incident Response Plan to Stop Cyber Attacks Before They Spread | SecureSlate | [Read More](https://medium.com/p/8d6dd93ccea4) |
-| Fri, 14 Nov 2025 08:47:28 GMT | Mastering the Four Essential Risk Management Approaches Every Trader Needs | Ravikant choudhary | [Read More](https://medium.com/p/ead60b155e9a) |
-| Fri, 14 Nov 2025 08:44:33 GMT | Building an Automated SAST + DAST Pipeline: Solving One of the Biggest Security Problems in Modern… | Rajesh Thakur | [Read More](https://medium.com/p/23fc1f5c0c58) |
-| Fri, 14 Nov 2025 08:42:22 GMT | The Hidden Threat in Your Inbox: Why Email Security Is Your First Line of Defense | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/4188287c7aca) |
-| Fri, 14 Nov 2025 08:42:00 GMT | ประจำวันศุกร์ที่ 14 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/2fb78bd16c30) |
-| Fri, 14 Nov 2025 08:39:21 GMT | Design Systems and Reusable Components in 2025: A Practical Guide | OneEntry Platform | [Read More](https://medium.com/p/c3f9ac904a57) |
-| Fri, 14 Nov 2025 08:13:41 GMT | 15 Terminal Commands Every Beginner Should Master, The Ones That Actually Change Your Life | Fateyaly | [Read More](https://medium.com/p/209d3c098b85) |
-| Fri, 14 Nov 2025 08:09:45 GMT | You’ve been pwned | DeltaBytes | [Read More](https://medium.com/p/e7a98725cb6c) |
