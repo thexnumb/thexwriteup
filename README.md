@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 03:12:51 GMT | We’re Looking for Pentesters Who Want to Be Part of Something Bigger | SilentWire Cybersecurity | [Read More](https://medium.com/p/75576c49ebd3) |
+| Fri, 14 Nov 2025 02:49:23 GMT | Essential 8 for Small Business | PECyber | [Read More](https://medium.com/p/a02a3f8b69a5) |
+| Fri, 14 Nov 2025 02:22:20 GMT | How to Crack CCNA in 10 Days? A Beginner’s Survival Guide | Breeze | [Read More](https://medium.com/p/a27c411c4aa4) |
+| Fri, 14 Nov 2025 02:06:42 GMT | Cybersecurity: What People See vs. What Really Happens | Madhava Sai Kolluri | [Read More](https://medium.com/p/0aefef8d48cd) |
+| Fri, 14 Nov 2025 02:02:51 GMT | Ethernet Üzerinden Raspberry Pi SSH Bağlantısı Nasıl Sağlanır ? | Enes Berk Yetim | [Read More](https://medium.com/p/05152f158378) |
 | Fri, 14 Nov 2025 01:32:14 GMT | OWASP top 10–2025 vs 2021- The “what” and “why” | Cyberbali | [Read More](https://medium.com/p/961acac772db) |
 | Fri, 14 Nov 2025 01:31:50 GMT | CyberSecurity Lesson 4 : Seeing Security in Action | YogiCode | [Read More](https://medium.com/p/79ea46309a15) |
 | Fri, 14 Nov 2025 01:31:04 GMT | How I Became the #1 Security Researcher on the DHS Vulnerability Disclosure Program | Philip Garabandic | [Read More](https://medium.com/p/cf75da2b83be) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 16:45:35 GMT | Big Data : Data Cleaning and Preparation using Pandas | Yasa Wijaya | [Read More](https://medium.com/p/8d0285f7a112) |
 | Thu, 13 Nov 2025 16:42:29 GMT | Basic Pentesting-1 (VulnHub) — Step-by-Step Walkthrough | Vyshnav Vinod | [Read More](https://medium.com/p/2ff8010134a1) |
 | Thu, 13 Nov 2025 16:33:20 GMT | HUMLA Workshop: Breaking AI (Ethically) Was My Saturday Plan | Pooja | [Read More](https://medium.com/p/319bde7cc448) |
-| Thu, 13 Nov 2025 16:07:04 GMT | Advanced Security Hardening Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/8fad8c2b363e) |
-| Thu, 13 Nov 2025 16:00:39 GMT | The Best Apps to Prepare for IT & Cybersecurity Certifications in 2025 | PrepMe | [Read More](https://medium.com/p/a25e40ca81e0) |
-| Thu, 13 Nov 2025 15:57:59 GMT | CyberUP Institute and the Strategic Role of AI in the Future of Cybersecurity | CYBERUP INSTITUTE | [Read More](https://medium.com/p/b633647c03c0) |
-| Thu, 13 Nov 2025 15:57:52 GMT | Mobexler OVA Mobile Forensics & Offensive Security Platform | Lord Murak | [Read More](https://medium.com/p/eb01ff55c831) |
-| Thu, 13 Nov 2025 15:50:40 GMT | My First Cybersecurity Blog — And It Starts with a Bang! | Vijay K | [Read More](https://medium.com/p/16fed0543ff1) |
