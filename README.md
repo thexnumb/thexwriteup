@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 05:39:39 GMT | The Importance of Continuous Cyber Security Monitoring for Modern Businesses | Cyberextent | [Read More](https://medium.com/p/62788978ffcd) |
+| Fri, 14 Nov 2025 05:36:23 GMT | The Hidden Flaw in X402, AP2, and ACP: | Jon Capriola | [Read More](https://medium.com/p/748720e7f6d2) |
+| Fri, 14 Nov 2025 05:32:44 GMT | Closing Security Gaps: TDR Solutions Perspectives | NetWitness | [Read More](https://medium.com/p/7367d527ab7d) |
+| Fri, 14 Nov 2025 05:26:14 GMT | Room 108-Telnet vs SSH | blackXmask | [Read More](https://medium.com/p/2aceb35892b4) |
+| Fri, 14 Nov 2025 05:21:24 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/99706f9d7885) |
+| Fri, 14 Nov 2025 05:20:25 GMT | Who Provides the Best Security Services in Bhiwani? | Lakshay Security | [Read More](https://medium.com/p/4dfe35f71548) |
+| Fri, 14 Nov 2025 05:18:19 GMT | AI vs. AI: The New Cybersecurity Battleground Your Organization Can’t Ignore | Kaustubh Phatak | [Read More](https://medium.com/p/b7f3607aa3af) |
+| Fri, 14 Nov 2025 05:17:30 GMT | Valley | ben_0xCTF | [Read More](https://medium.com/p/0cda76bbd521) |
 | Fri, 14 Nov 2025 05:16:30 GMT | Cache Poisoning: How We Analyzed $44K in Bug Bounties | Abhishek meena | [Read More](https://medium.com/p/eda1107c779a) |
+| Fri, 14 Nov 2025 05:09:35 GMT | Phase 1 — How We Built a Content-Based Exercise Recommender Using MITRE ATT&CK | Data:Algo | [Read More](https://medium.com/p/d18d23f45328) |
 | Fri, 14 Nov 2025 05:00:26 GMT | Anonforce | ben_0xCTF | [Read More](https://medium.com/p/3f083fac89a8) |
 | Fri, 14 Nov 2025 04:52:37 GMT | Become the First Line of Cyber Defense — Certified Ethical Hacking Foundation (CEHF) | Adhiraj Kasabe | [Read More](https://medium.com/p/38223c5a3136) |
 | Fri, 14 Nov 2025 04:50:46 GMT | Why Every Business Needs Managed Cybersecurity: A Reality Check from Mumbai’s Digital Frontlines | Maxatlasofficial | [Read More](https://medium.com/p/23842b4ab693) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 18:49:10 GMT | The Future of Security is Identity: How IAM is Redefining Enterprise Protection | Sunnysinha | [Read More](https://medium.com/p/2545f7aef9f1) |
 | Thu, 13 Nov 2025 18:49:01 GMT | From Private Islands to Private Servers: The Infamous Data Trafficker Jobert Epstein & “The List” | Justas_b | [Read More](https://medium.com/p/eba817f8f105) |
 | Thu, 13 Nov 2025 18:43:57 GMT | VI. Conclusão: DNS como investimento estratégico | Giuliano Cardozo | [Read More](https://medium.com/p/694e7413f37c) |
-| Thu, 13 Nov 2025 18:42:32 GMT | “How I Passed the CompTIA Security+ Exam: Tips, Tricks, and Tools for Success” | Secured By Sebastion | [Read More](https://medium.com/p/ffa48540c7a7) |
-| Thu, 13 Nov 2025 18:39:13 GMT | CyberDefenders — GoldenSpray Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/0b492f015ef1) |
-| Thu, 13 Nov 2025 18:35:42 GMT | Stop Coding Blindly: Your Step-by-Step Guide to Threat Modeling (and Why Developers Love It) | Ravindran Dharshan | [Read More](https://medium.com/p/adcc2abda59c) |
-| Thu, 13 Nov 2025 18:35:32 GMT | Here’s How I Passed CompTIA Security+ in 9 Days (With 0 years of Corporate Experience) and You can… | Yug Shah | [Read More](https://medium.com/p/bdf60805fc4b) |
-| Thu, 13 Nov 2025 18:31:18 GMT | Is Penligent the Future of Ethical Hacking — or the Beginning of the End for Manual Pentesters? | Borhan413 | [Read More](https://medium.com/p/5345530c3192) |
-| Thu, 13 Nov 2025 18:29:54 GMT | OWASP TOP 10 2025 | Rakesh Elamaran | [Read More](https://medium.com/p/b17f97cb3afd) |
-| Thu, 13 Nov 2025 18:28:38 GMT | Road to OSCP, Proving Grounds “Exfiltration” Linux Machine | Cyb0rgBytes | [Read More](https://medium.com/p/2bba2150c30b) |
-| Thu, 13 Nov 2025 18:08:42 GMT | How I Hacked My Own Router (Legally) and What It Taught Me About Security | H3NRY B41T | [Read More](https://medium.com/p/8d8dea3e046e) |
-| Thu, 13 Nov 2025 18:08:21 GMT | Event Crew: The Backbone of Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/ed516a6bcc45) |
