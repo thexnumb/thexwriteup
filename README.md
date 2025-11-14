@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 09:09:49 GMT | Been a while i did a box on hack the box, talk more of a writeup. | 0xLeonidas | [Read More](https://medium.com/p/e46250dd3f2d) |
+| Fri, 14 Nov 2025 09:05:21 GMT | Forget About the Threat from Putin and Trump - This Is Far Worse | Øivind H. Solheim - Typing facts and feelings. | [Read More](https://medium.com/p/f2e07dec0f76) |
+| Fri, 14 Nov 2025 08:56:51 GMT | The Evolution of VAPT: Why Modern Security Testing Has Transformed Completely | Devarshi Acharya | [Read More](https://medium.com/p/2cb87bc46260) |
+| Fri, 14 Nov 2025 08:54:21 GMT | The Artificial Intelligence Journey — Lumon AI | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f7be04766138) |
+| Fri, 14 Nov 2025 08:54:10 GMT | RedTail Cryptominer: First Evidence of Docker API Targeting | Mario Candela | [Read More](https://medium.com/p/c061096443f8) |
+| Fri, 14 Nov 2025 08:52:38 GMT | Downgrade Frida Version On iOS Devices | Redfox Security | [Read More](https://medium.com/p/0c6801e7b49b) |
+| Fri, 14 Nov 2025 08:52:15 GMT | Why Fortinet’s Security Fabric Is Redefining Cyber Defense in 2025 | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/dad0abf34b9f) |
 | Fri, 14 Nov 2025 08:48:15 GMT | Knowledge vs. Information: The Silent Shift That Changes How We Think | Arwa | [Read More](https://medium.com/p/766ddb816b9e) |
+| Fri, 14 Nov 2025 08:47:44 GMT | 7-Step Incident Response Plan to Stop Cyber Attacks Before They Spread | SecureSlate | [Read More](https://medium.com/p/8d6dd93ccea4) |
 | Fri, 14 Nov 2025 08:47:28 GMT | Mastering the Four Essential Risk Management Approaches Every Trader Needs | Ravikant choudhary | [Read More](https://medium.com/p/ead60b155e9a) |
+| Fri, 14 Nov 2025 08:44:33 GMT | Building an Automated SAST + DAST Pipeline: Solving One of the Biggest Security Problems in Modern… | Rajesh Thakur | [Read More](https://medium.com/p/23fc1f5c0c58) |
+| Fri, 14 Nov 2025 08:42:22 GMT | The Hidden Threat in Your Inbox: Why Email Security Is Your First Line of Defense | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/4188287c7aca) |
 | Fri, 14 Nov 2025 08:42:00 GMT | ประจำวันศุกร์ที่ 14 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/2fb78bd16c30) |
 | Fri, 14 Nov 2025 08:39:21 GMT | Design Systems and Reusable Components in 2025: A Practical Guide | OneEntry Platform | [Read More](https://medium.com/p/c3f9ac904a57) |
 | Fri, 14 Nov 2025 08:13:41 GMT | 15 Terminal Commands Every Beginner Should Master, The Ones That Actually Change Your Life | Fateyaly | [Read More](https://medium.com/p/209d3c098b85) |
@@ -106,13 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 14 Nov 2025 01:15:17 GMT | How to Spot and Avoid the Latest WhatsApp Scams in 2025 | Steven Chin | [Read More](https://medium.com/p/306c84ad49a7) |
 | Fri, 14 Nov 2025 01:12:42 GMT | Hydra & Cewl: Toolkit Profesional para Pentesting en Formularios de Login | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/68b7fbb6ad13) |
 | Fri, 14 Nov 2025 01:08:02 GMT | Washington Post Confirms Data Breach Linked to Zero-Day Exploit | RealSec.io | [Read More](https://medium.com/p/78191151931a) |
-| Fri, 14 Nov 2025 01:06:06 GMT | Write-up: Máquina “Jerry” Hack The Box | Marianoacostafc | [Read More](https://medium.com/p/0e0511003ca0) |
-| Fri, 14 Nov 2025 00:57:21 GMT | Lessons from 5 Levels of the Microcorruption CTF | Johnny L Jones Iv | [Read More](https://medium.com/p/34b5a49f45df) |
-| Fri, 14 Nov 2025 00:33:59 GMT | Deploying AWS Wavelength: Complete End-to-End Setup With VPCs, Carrier Gateway, Peering, Routing &… | Salah-eddine Lyoubi Idrissi | [Read More](https://medium.com/p/bc6163b7e228) |
-| Fri, 14 Nov 2025 00:06:24 GMT | Fixing IDOR in a Flask API: Guide to Broken Access Control | Kay Adelaja | [Read More](https://medium.com/p/c116c6905988) |
-| Fri, 14 Nov 2025 00:05:40 GMT | Research on Attack and Attribution in Penetration Testing | IceCliffs | [Read More](https://medium.com/p/ed5db902ce96) |
-| Fri, 14 Nov 2025 00:02:00 GMT | BOLA (IDOR): La Falla Crítica de Autorización en APIs y Detección en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/3f50b58c3da9) |
-| Thu, 13 Nov 2025 23:27:18 GMT | Officer Snaggletooth and the Static of Justice: part 2 | Lea Martin | [Read More](https://medium.com/p/a6904997b232) |
-| Thu, 13 Nov 2025 23:19:40 GMT | The Bridge Between Justice and Cybersecurity | Anum Khan | [Read More](https://medium.com/p/6e63a0d18d71) |
-| Thu, 13 Nov 2025 23:17:17 GMT | Somewhere in Between | Jana Gauthier | [Read More](https://medium.com/p/b91323636833) |
-| Thu, 13 Nov 2025 23:06:51 GMT | [Wait_for_the_Clock] — [Digital Forensics] — [Cyber Sprint 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/96f5ad6a902a) |
