@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 07:02:44 GMT | Surfshark Black Friday Deal — The Lowest VPN Price of the Year | Caydenal Waon | [Read More](https://medium.com/p/7e1bc6c21019) |
+| Fri, 14 Nov 2025 06:56:10 GMT | Find the best AI App Development Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/ae4c93c501a1) |
+| Fri, 14 Nov 2025 06:55:16 GMT | OWASP Top 10 (2021 vs 2025): Complete Guide, Changes, Reasons, Practice, and Easy Memory Tricks | Tandelpruthvi | [Read More](https://medium.com/p/0a304c696ac4) |
+| Fri, 14 Nov 2025 06:52:00 GMT | The Corix Partners Friday Reading List — November 14, 2025 | JC Gaillard | [Read More](https://medium.com/p/3bf93f549a1d) |
+| Fri, 14 Nov 2025 06:50:47 GMT | Information Disclosure in APIs | Jei Ess | [Read More](https://medium.com/p/e52825527ac8) |
+| Fri, 14 Nov 2025 06:43:27 GMT | Software should evolve with your business. | Tech Immortals | [Read More](https://medium.com/p/3aa202144500) |
+| Fri, 14 Nov 2025 06:43:04 GMT | I Tested Every Major Security Tool for 90 Days — Here’s What Actually Works (And What’s Just… | Muhammad Haider Tallal | [Read More](https://medium.com/p/32e2b8a0b1f1) |
+| Fri, 14 Nov 2025 06:42:34 GMT | I Stopped Wasting Time on Forums and My Certification Scores Finally Improved | Siddharth Sharma | [Read More](https://medium.com/p/3f4b575de547) |
+| Fri, 14 Nov 2025 06:40:15 GMT | شماره‌خاله‌تهران
+شماره‌خاله‌چابهار
+شماره‌خاله‌اهواز
+شماره‌خاله‌شیراز
+09039145515 | مهسا نعمتی | [Read More](https://medium.com/p/b3e2d28a111d) |
+| Fri, 14 Nov 2025 06:39:21 GMT | ☕ Security Check: Keeping Your Code Out of Trouble with the OWASP Top 10 | Vinod Atwal | [Read More](https://medium.com/p/85b7181d3ff8) |
+| Fri, 14 Nov 2025 06:38:01 GMT | ⚠️Your AI Chats Aren’t Private: Hackers Can Read Your Encrypted Conversations — Take Action Right… | Biresh Kumar Singh | [Read More](https://medium.com/p/bed7cce82fa3) |
 | Fri, 14 Nov 2025 06:26:34 GMT | Sealed Classes in Java: Taking Control of Your Class Hierarchy | Jitin Kayyala | [Read More](https://medium.com/p/6f2ca91d1717) |
 | Fri, 14 Nov 2025 06:09:43 GMT | Hire a Hacker Pro vs. TryHackMe: Black-Hat Mission Tactics vs. Defensive Playbooks | Laura Maldonado | [Read More](https://medium.com/p/1e3c256302c9) |
 | Fri, 14 Nov 2025 06:07:58 GMT | How AI is Rewriting the Rules of Data Privacy | Blue Bird Digital Technology | [Read More](https://medium.com/p/468d032864f2) |
@@ -101,14 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 21:18:17 GMT | Why Password Managers Make You Anxious (And How Design Can Fix It) | KAMALJEET SINGH | [Read More](https://medium.com/p/ce8b0f9691a7) |
 | Thu, 13 Nov 2025 21:04:45 GMT | I am the First Person to be Enlightened by AI | Tyler Wall | [Read More](https://medium.com/p/28f97399fdeb) |
 | Thu, 13 Nov 2025 20:58:30 GMT | Write-up : TakeOver | DylanSec | [Read More](https://medium.com/p/b992ce9a1c2a) |
-| Thu, 13 Nov 2025 20:55:00 GMT | Introducing SOCFortress Capsules: Fast, Practical Security Walkthroughs for Modern SOC Teams… | SOCFortress | [Read More](https://medium.com/p/0de98e7a818b) |
-| Thu, 13 Nov 2025 20:50:25 GMT | Please  Stop waste your time for reporting a false security vulnerabilities used AI! | Kocheengtom | [Read More](https://medium.com/p/09243aba8af1) |
-| Thu, 13 Nov 2025 20:37:39 GMT | Stop a CrowdStrike-Type Incident from Crippling Your Business: Build Endpoint Resilience | IT_Engineer | [Read More](https://medium.com/p/b17bd6139f54) |
-| Thu, 13 Nov 2025 20:36:39 GMT | There are no heros in enterprise | Alex R. | [Read More](https://medium.com/p/3640d4c8bf70) |
-| Thu, 13 Nov 2025 20:18:55 GMT | Physically bypassing Windows Tamper Protection — a responsible disclosure | err0rgod | [Read More](https://medium.com/p/f437a41863b5) |
-| Thu, 13 Nov 2025 20:07:35 GMT | Wicys SANS 2025 THM CTF — Web Exploitation walkthrough | lyna Ben yakoub | [Read More](https://medium.com/p/b34a4a368c45) |
-| Thu, 13 Nov 2025 20:05:21 GMT | Time Necromancy: Python Scripts That Resurrect Lost Hours | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b3e51411dbf4) |
-| Thu, 13 Nov 2025 20:04:40 GMT | That web site sucks if it hits you with trackers and predators | Fred Showker | [Read More](https://medium.com/p/013917ece61c) |
-| Thu, 13 Nov 2025 20:03:44 GMT | Reclaiming Control: The CI/CD Chaos | Burak Bozacı | [Read More](https://medium.com/p/6e6f77d237f2) |
-| Thu, 13 Nov 2025 20:02:22 GMT | The Bug I Found Twice On Microsoft | ak | [Read More](https://medium.com/p/bfd23a58d5c1) |
-| Thu, 13 Nov 2025 19:45:21 GMT | Đừng Để IT Cũ Kỹ ‘Dìm Hàng’ Sự Phát Triển Của Doanh Nghiệp Bạn! | Trang Võ Minh IT Support | [Read More](https://medium.com/p/66e5a47e2c71) |
