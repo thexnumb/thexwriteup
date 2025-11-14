@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 20:21:44 GMT | Critical Vulnerability in v380 Cameras: How Plaintext Credentials Exposed Millions of Devices | Romaxa | [Read More](https://medium.com/p/17c89451889d) |
+| Fri, 14 Nov 2025 20:05:32 GMT | Authentication and Types | Pearl Rathour | [Read More](https://medium.com/p/cf14c18d0de8) |
+| Fri, 14 Nov 2025 19:50:55 GMT | What Cybersecurity Can Learn From Military Stress Management | Victoria | [Read More](https://medium.com/p/fff1ef747906) |
+| Fri, 14 Nov 2025 19:50:08 GMT | How FloFusion HubSpot Helped Us Boost Revenue and Streamline Patient Engagement | FloFusion | [Read More](https://medium.com/p/ef3273abab38) |
+| Fri, 14 Nov 2025 19:50:07 GMT | WhatsApp’s “Walled Garden” Has a New Gate: What You Must Know About Third-Party Chats in Europe | TechBird | [Read More](https://medium.com/p/df8de87e5f05) |
+| Fri, 14 Nov 2025 19:32:15 GMT | The Global Gray Zone Power Crisis No One Is Talking About | Drew C | [Read More](https://medium.com/p/d398b61c2a4e) |
+| Fri, 14 Nov 2025 19:32:09 GMT | macOS Forensics: Structure, Persistence, and Investigation | Dean | [Read More](https://medium.com/p/7fa228e837af) |
 | Fri, 14 Nov 2025 19:21:29 GMT | SafeFeed Challenge Write-up | 3mksaad1600 | [Read More](https://medium.com/p/4b6300087b2f) |
 | Fri, 14 Nov 2025 19:21:12 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: Exploitation CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/c10d1272c713) |
 | Fri, 14 Nov 2025 19:16:32 GMT | Critical Broken Access Control: Public Tokens Enable Sensitive Actions | Thomas Youssef | [Read More](https://medium.com/p/ada4a5dad40a) |
@@ -106,10 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 13:19:33 GMT | Security Audits for Early-Stage SaaS Products | KodekX | [Read More](https://medium.com/p/c740f37f4b22) |
 | Fri, 14 Nov 2025 13:17:14 GMT | Building Smarter Systems: The Role of AI in Next-Gen Cloud Infrastructure | Business Websoft | [Read More](https://medium.com/p/2d18c5b43f42) |
 | Fri, 14 Nov 2025 13:11:39 GMT | PyPitfall: Dependency Chaos and Software Supply Chain Vulnerabilities in Python — A critical review | Maikel Mardjan | [Read More](https://medium.com/p/03af62b75676) |
-| Fri, 14 Nov 2025 13:06:20 GMT | How to Lock a Sliding Door: Practical Tips for Better Home Security | Sure Lock & Key LLC | [Read More](https://medium.com/p/3441346fec5f) |
-| Fri, 14 Nov 2025 13:02:26 GMT | Understanding the CIA Triad: The Foundation of Information Security | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/86ca34eb568f) |
-| Fri, 14 Nov 2025 13:02:01 GMT | Laravel on VPS Series — Part 2: Connecting Your Domain to VPS with Cloudflare & Free SSL | Coder Manjeet | [Read More](https://medium.com/p/03ff2a90cefd) |
-| Fri, 14 Nov 2025 13:02:00 GMT | You Can Finally Beat Zero-Day Threats: How a New AI Changes Mobile Security | Tomas Tibensky | [Read More](https://medium.com/p/e520ff656dda) |
-| Fri, 14 Nov 2025 12:52:17 GMT | Best Cyber Monday VPN Deals With Extra Free Months | George B | [Read More](https://medium.com/p/6a8cb3d8e0c4) |
-| Fri, 14 Nov 2025 12:52:16 GMT | How NIDPS Protects Next-Gen IoT Devices from Cyberattacks? | Century Solutions Group | [Read More](https://medium.com/p/decb03b5cc19) |
-| Fri, 14 Nov 2025 12:49:52 GMT | My Room Turns Red Every Time a Company Gets Hacked | ANKIT KUMAR | [Read More](https://medium.com/p/e18c48b5bb47) |
