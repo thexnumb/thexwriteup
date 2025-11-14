@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 05:16:30 GMT | Cache Poisoning: How We Analyzed $44K in Bug Bounties | Abhishek meena | [Read More](https://medium.com/p/eda1107c779a) |
+| Fri, 14 Nov 2025 05:00:26 GMT | Anonforce | ben_0xCTF | [Read More](https://medium.com/p/3f083fac89a8) |
+| Fri, 14 Nov 2025 04:52:37 GMT | Become the First Line of Cyber Defense — Certified Ethical Hacking Foundation (CEHF) | Adhiraj Kasabe | [Read More](https://medium.com/p/38223c5a3136) |
+| Fri, 14 Nov 2025 04:50:46 GMT | Why Every Business Needs Managed Cybersecurity: A Reality Check from Mumbai’s Digital Frontlines | Maxatlasofficial | [Read More](https://medium.com/p/23842b4ab693) |
+| Fri, 14 Nov 2025 04:42:50 GMT | The Choice Divide: Why Self-Belief Shapes the Path You Take | L's Representation | [Read More](https://medium.com/p/412cc4800413) |
 | Fri, 14 Nov 2025 04:31:56 GMT | Cookie Security: Everything Developers Need to Know | Balki Maharaj | [Read More](https://medium.com/p/9c8fa98c5801) |
 | Fri, 14 Nov 2025 04:29:54 GMT | How Purposeful Corrupt A File Online In 2026 QA Game Changer | Abdur Rahman Isty | [Read More](https://medium.com/p/344c2122b4d7) |
 | Fri, 14 Nov 2025 04:18:04 GMT | Why Annual Penetration Testing Is No Longer Enough in 2025 | SilentWire Cybersecurity | [Read More](https://medium.com/p/71bdb9a57bc7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 13 Nov 2025 18:28:38 GMT | Road to OSCP, Proving Grounds “Exfiltration” Linux Machine | Cyb0rgBytes | [Read More](https://medium.com/p/2bba2150c30b) |
 | Thu, 13 Nov 2025 18:08:42 GMT | How I Hacked My Own Router (Legally) and What It Taught Me About Security | H3NRY B41T | [Read More](https://medium.com/p/8d8dea3e046e) |
 | Thu, 13 Nov 2025 18:08:21 GMT | Event Crew: The Backbone of Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/ed516a6bcc45) |
-| Thu, 13 Nov 2025 18:07:51 GMT | Interface | Zurichsabil | [Read More](https://medium.com/p/9322861882b6) |
-| Thu, 13 Nov 2025 18:01:56 GMT | What Are Construction Site Security Measures? Essential Guide for Washington Projects | Liam Truth | [Read More](https://medium.com/p/5f9be1b02559) |
-| Thu, 13 Nov 2025 18:01:51 GMT | Cognition Under Load: The Geometry of Refusal at the Frontier | Zachary Fitzgerald | [Read More](https://medium.com/p/57d135dd82ca) |
-| Thu, 13 Nov 2025 18:00:17 GMT | How AI is changing security testing — and why you still need a human in charge. | Gopi Sri | [Read More](https://medium.com/p/2dd67110a9a7) |
-| Thu, 13 Nov 2025 17:55:21 GMT | Threats to Tranquility: How United Security Keeps You Safe | United Security | [Read More](https://medium.com/p/4d119a823315) |
