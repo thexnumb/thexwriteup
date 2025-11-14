@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 21:30:42 GMT | Docker Üzerine Grafana Loki Kurulumu (Windows) | Volkan Yılmaz | [Read More](https://medium.com/p/89017de3c40c) |
+| Fri, 14 Nov 2025 21:28:47 GMT | How to Prepare Ourself for Job Interviews in the AI Era | Simran | [Read More](https://medium.com/p/82fd3502c384) |
+| Fri, 14 Nov 2025 21:22:21 GMT | Anthropic’s Claude AI First Reported AI Orchestrated Cyber Espionage Campaign | Valdez Ladd | [Read More](https://medium.com/p/cd6dff6ddd8f) |
+| Fri, 14 Nov 2025 21:20:04 GMT | I Checked the Worst OpSec Practices So You Don’t Have To | Officer's Notes | [Read More](https://medium.com/p/59501825c50f) |
+| Fri, 14 Nov 2025 21:12:46 GMT | Event Logistics — A Complete Guide to Planning Smooth & Successful Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/9272cb51d41f) |
 | Fri, 14 Nov 2025 21:08:09 GMT | Meliodas Stealer Malware | Vaibhav Kanada | [Read More](https://medium.com/p/c3f0ff63e587) |
 | Fri, 14 Nov 2025 20:44:05 GMT | AI for Security Operations: The Ultimate Guide to Smarter, Automated Threat Response | CodeToKloud | [Read More](https://medium.com/p/a8a134c24e37) |
 | Fri, 14 Nov 2025 20:43:35 GMT | Grotesque 1 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c6958332d656) |
@@ -108,8 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 14:28:22 GMT | Centralized File Integrity Monitoring (FIM) Using Wazuh Manager for Linux and Windows Agents | Rupesh Sharma | [Read More](https://medium.com/p/09348d8e1f58) |
 | Fri, 14 Nov 2025 14:26:44 GMT | How to solve the DVAPI’s Broken Authentication Lab | R1punjay_Singh | [Read More](https://medium.com/p/7389ae9d0c26) |
 | Fri, 14 Nov 2025 14:24:22 GMT | From Family to Furlough: The Comedy of Authentic Leadership | Namir Sagheenanajar | [Read More](https://medium.com/p/1b4338883de0) |
-| Fri, 14 Nov 2025 14:22:55 GMT | Cyberwarfare: Nation-State Attacks in the New Era | Intellitron Genesis | [Read More](https://medium.com/p/dac74db8cce5) |
-| Fri, 14 Nov 2025 14:22:27 GMT | How i Found My first IDOR On Heavily Tested Target | Pawan parmar | [Read More](https://medium.com/p/ace3322824cc) |
-| Fri, 14 Nov 2025 14:18:32 GMT | XWiki Uzaktan Kod Yürütme Zafiyeti (RCE) — CVE-2025–24893 | Ali Rıza Zengince | [Read More](https://medium.com/p/46877cb434d4) |
-| Fri, 14 Nov 2025 14:15:44 GMT | A Fake Ethereum Wallet Extension Is Giving Attackers Full Control of User Funds | Jasmitha | [Read More](https://medium.com/p/562fc4921156) |
-| Fri, 14 Nov 2025 14:15:21 GMT | Python & Cybersecurity | Kauan Querino | [Read More](https://medium.com/p/1fcbf44b8489) |
