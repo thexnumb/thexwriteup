@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 14 Nov 2025 19:21:29 GMT | SafeFeed Challenge Write-up | 3mksaad1600 | [Read More](https://medium.com/p/4b6300087b2f) |
+| Fri, 14 Nov 2025 19:21:12 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: Exploitation CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/c10d1272c713) |
+| Fri, 14 Nov 2025 19:16:32 GMT | Critical Broken Access Control: Public Tokens Enable Sensitive Actions | Thomas Youssef | [Read More](https://medium.com/p/ada4a5dad40a) |
+| Fri, 14 Nov 2025 19:13:33 GMT | How to Get Hired in Cybersecurity in 2025 — The Complete Beginner’s Roadmap | The Daily Cyber News | [Read More](https://medium.com/p/5b03aa19b921) |
 | Fri, 14 Nov 2025 19:09:45 GMT | TryHackMe — CyberHeros Write‑up | Andrey.Web | [Read More](https://medium.com/p/13cf0474cdb6) |
+| Fri, 14 Nov 2025 19:08:56 GMT | How LLM Injection Attacks Are Shaping the Future of AI Security | Giulio Sistilli | [Read More](https://medium.com/p/937d802e6bfe) |
+| Fri, 14 Nov 2025 19:08:35 GMT | EKS Users, Read This: The SAP AI Core Hack Shows How One Pod Can Compromise Them All | Rahul Sharma | [Read More](https://medium.com/p/fcf08b79daf5) |
+| Fri, 14 Nov 2025 19:08:33 GMT | Stop Storing Sensitive Data Wrong: Master Android Keystore the Right way | Deepak jangra | [Read More](https://medium.com/p/7362af83394e) |
 | Fri, 14 Nov 2025 19:04:10 GMT | How an Exported Broadcast Receiver in Android Can Lead to Full Remote Control of Smart Home IoT… | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/f5aed0a7aff9) |
 | Fri, 14 Nov 2025 18:59:40 GMT | VPC Endpoint Service to the Rescue | Balaji Radhakrishnan | [Read More](https://medium.com/p/e66ff32ecc2a) |
 | Fri, 14 Nov 2025 18:52:48 GMT | Think Before You Charge: What You Need To Know About Juice Jacking | Umar Al-Mahfuz | [Read More](https://medium.com/p/2095dcf4ec88) |
@@ -106,10 +113,3 @@ Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com
 | Fri, 14 Nov 2025 12:52:17 GMT | Best Cyber Monday VPN Deals With Extra Free Months | George B | [Read More](https://medium.com/p/6a8cb3d8e0c4) |
 | Fri, 14 Nov 2025 12:52:16 GMT | How NIDPS Protects Next-Gen IoT Devices from Cyberattacks? | Century Solutions Group | [Read More](https://medium.com/p/decb03b5cc19) |
 | Fri, 14 Nov 2025 12:49:52 GMT | My Room Turns Red Every Time a Company Gets Hacked | ANKIT KUMAR | [Read More](https://medium.com/p/e18c48b5bb47) |
-| Fri, 14 Nov 2025 12:47:03 GMT | Cybersecurity for Small Business Owners Who Definitely Did Not Sign Up For This | X3RX3S Sec. | [Read More](https://medium.com/p/061f5009f400) |
-| Fri, 14 Nov 2025 12:46:12 GMT | When the Heart Feels Too Tight: On Learning It’s Okay to Be Not Okay. | Candrika Nadia | [Read More](https://medium.com/p/12e73d695ec8) |
-| Fri, 14 Nov 2025 12:33:36 GMT | How I found a critical 0-Click Account Takeover vulnerability | Ibtissam | [Read More](https://medium.com/p/c2ac0f61f097) |
-| Fri, 14 Nov 2025 12:32:46 GMT | ISO 27001 Wasn’t the Goal — Security Was. Here’s How Wazuh Helped Us Get There. | Rathinasabapathy Ramalingam (Saba) | [Read More](https://medium.com/p/a9551db01d7b) |
-| Fri, 14 Nov 2025 12:31:03 GMT | Zeroday Slims9 Bulian(v9.7.2) Arbitrary File Write to RCE | xpl0dec | [Read More](https://medium.com/p/6a458ad7960f) |
-| Fri, 14 Nov 2025 12:23:25 GMT | PHP for Pentesters — Day 3 | Bazil Brohi | [Read More](https://medium.com/p/d2ff8a6aa8bc) |
-| Fri, 14 Nov 2025 12:23:06 GMT | A Classic Hacking Technique Works on Some Quantum Computers | Nosheen Butt | [Read More](https://medium.com/p/3fbdfe848b2b) |
