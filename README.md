@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 07:25:15 GMT | Setup Environment Android untuk Mobile Pentest : Emulator, ADB, dan Burp Suite (Step-by-Step) | Aria Dimas Mastur | [Read More](https://medium.com/p/00d709a559a9) |
+| Sat, 15 Nov 2025 07:22:58 GMT | How Chinese Hackers Are Using Anthropic’s AI for Cyberespionage: The 2025 Wake-Up Call | Varun Chopra | [Read More](https://medium.com/p/b0b12a71121d) |
+| Sat, 15 Nov 2025 07:19:46 GMT | Why Your AI-Built App Probably Isn’t Secure | NullCoin | [Read More](https://medium.com/p/6609a215bbed) |
+| Sat, 15 Nov 2025 07:18:47 GMT | Active Directory Nedir? Avantajları, Bileşenleri ve Özellikleri Nelerdir? | Aytuğ Çelikdönmez | [Read More](https://medium.com/p/10f9bf2c5a18) |
 | Sat, 15 Nov 2025 07:08:39 GMT | Netcat Port Scanning Cheatsheet | Dhruv | [Read More](https://medium.com/p/572638f1dbd9) |
 | Sat, 15 Nov 2025 06:56:16 GMT | Sometimes, We Just Need Someone to Listen | human | [Read More](https://medium.com/p/dc41f7ce4374) |
 | Sat, 15 Nov 2025 06:55:59 GMT | Architecting Secure and Resilient Delivery Systems: A DevSecOps Perspective | Shramish Kafle | [Read More](https://medium.com/p/6306b3b7456e) |
@@ -109,7 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 20:05:32 GMT | Authentication and Types | Pearl Rathour | [Read More](https://medium.com/p/cf14c18d0de8) |
 | Fri, 14 Nov 2025 19:50:55 GMT | What Cybersecurity Can Learn From Military Stress Management | Victoria | [Read More](https://medium.com/p/fff1ef747906) |
 | Fri, 14 Nov 2025 19:50:08 GMT | How FloFusion HubSpot Helped Us Boost Revenue and Streamline Patient Engagement | FloFusion | [Read More](https://medium.com/p/ef3273abab38) |
-| Fri, 14 Nov 2025 19:50:07 GMT | WhatsApp’s “Walled Garden” Has a New Gate: What You Must Know About Third-Party Chats in Europe | TechBird | [Read More](https://medium.com/p/df8de87e5f05) |
-| Fri, 14 Nov 2025 19:32:15 GMT | The Global Gray Zone Power Crisis No One Is Talking About | Drew C | [Read More](https://medium.com/p/d398b61c2a4e) |
-| Fri, 14 Nov 2025 19:32:09 GMT | macOS Forensics: Structure, Persistence, and Investigation | Dean | [Read More](https://medium.com/p/7fa228e837af) |
-| Fri, 14 Nov 2025 19:21:29 GMT | SafeFeed Challenge Write-up | 3mksaad1600 | [Read More](https://medium.com/p/4b6300087b2f) |
