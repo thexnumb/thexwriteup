@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 20:05:55 GMT | Exposing North Korea’s Stealthiest Trap 2025 | O. J. Okpabi | [Read More](https://medium.com/p/8116403d120c) |
+| Sat, 15 Nov 2025 19:56:24 GMT | How Hidden Communities Form on the Darkweb | Tor BBB | [Read More](https://medium.com/p/9b2f043bda3c) |
+| Sat, 15 Nov 2025 19:55:06 GMT | I Almost Lost My Apple Account to the Most Sophisticated Phishing Attack I’ve Ever Seen | Eric Moret | [Read More](https://medium.com/p/cff92a470950) |
+| Sat, 15 Nov 2025 19:51:58 GMT | The Co-Pilot AI Just Took the Control. | Thiranjaya Sundarapperuma | [Read More](https://medium.com/p/ad9dceb9d18d) |
+| Sat, 15 Nov 2025 19:47:42 GMT | From Law to Ethical Hacking: How I Transitioned Into Cybersecurity | Mbcyberworks | [Read More](https://medium.com/p/106e9c3a5645) |
+| Sat, 15 Nov 2025 19:46:08 GMT | OWASP Top 10 2025: Insecure Data Handling | G MRSY | [Read More](https://medium.com/p/ddff14c49784) |
+| Sat, 15 Nov 2025 19:44:07 GMT | Advanced Auditd Advanced Usage Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/8efd89a0c01d) |
+| Sat, 15 Nov 2025 19:31:31 GMT | Previous HTB Machine — Complete Walkthrough | Oussama Djelloul | [Read More](https://medium.com/p/f7e6414804cd) |
 | Sat, 15 Nov 2025 19:23:43 GMT | Stay protected with our real-time CCTV surveillance, ensuring safety, security, and peace of mind… | Visual Monitoring Solutions | [Read More](https://medium.com/p/718ae9a92c22) |
 | Sat, 15 Nov 2025 19:18:57 GMT | Basic Pentesting — TryHackMe (Write-out) | Muhammad Saad | [Read More](https://medium.com/p/28a301cb9d3e) |
 | Sat, 15 Nov 2025 19:17:21 GMT | OWASP Top 10 2025: IAAA Failures | G MRSY | [Read More](https://medium.com/p/d755d761220d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 12:04:35 GMT | The Agent is Inside the House: Why EDR Can’t Stop the “Insider Threat” You Invited In | Matan Yemini | [Read More](https://medium.com/p/f642d17b5111) |
 | Sat, 15 Nov 2025 12:02:27 GMT | The Cyber Signal We Keep Ignoring | Angus Peterson | [Read More](https://medium.com/p/db64bcd859b9) |
 | Sat, 15 Nov 2025 12:01:18 GMT | Today’s Top Cyber Intelligence Highlights — Nov 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/540a2aa0101e) |
-| Sat, 15 Nov 2025 11:59:01 GMT | Hack The Box — Imagery: A Complete Walkthrough | Oussama Djelloul | [Read More](https://medium.com/p/ec6fdb5bd814) |
-| Sat, 15 Nov 2025 11:57:03 GMT | CyberDefenders FalconEye Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/5e38e9eaf398) |
-| Sat, 15 Nov 2025 11:54:14 GMT | Tunnels Are Plumbing. Logs Are Proof. | Rubab Fatima | [Read More](https://medium.com/p/8fe516c7da36) |
-| Sat, 15 Nov 2025 11:52:01 GMT | AI as the New Operator: Inside the First AI-Orchestrated Cyber Espionage Campaign | Emre Karatas | [Read More](https://medium.com/p/bdedffc6ed51) |
-| Sat, 15 Nov 2025 11:49:21 GMT | Your Data Is Everywhere: The Origin of Data Leaks | nullorx | [Read More](https://medium.com/p/739dc8ae6bc1) |
-| Sat, 15 Nov 2025 11:48:33 GMT | How Infinix New Phone Makes Gaming Smooth and Lag-Free? | Isabella Brown | [Read More](https://medium.com/p/f1e33b9afb19) |
-| Sat, 15 Nov 2025 11:45:34 GMT | Why Vivo V15 Pro Battery Life Still Impresses Heavy Users? | Ella Walker | [Read More](https://medium.com/p/ad9f1aeae5af) |
-| Sat, 15 Nov 2025 11:38:53 GMT | Why Vivo Mobile Phone Is the Best Choice for Gaming Under Budget? | Zara Everly | [Read More](https://medium.com/p/0aa84be5ac7e) |
