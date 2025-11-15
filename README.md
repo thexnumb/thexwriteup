@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 18:21:31 GMT | Intro: What I’ll Post On This Page | Avigail Laing | [Read More](https://medium.com/p/4f51eba5bd48) |
+| Sat, 15 Nov 2025 18:13:47 GMT | How to Test Vulnerable Windows.A Complete Guide Of System Security… | Ajmir khan | [Read More](https://medium.com/p/8083b93ddd14) |
+| Sat, 15 Nov 2025 18:09:00 GMT | Is AI Coming for SOC Jobs? A Real Talk + My First Look at Dropzone AI | Dean | [Read More](https://medium.com/p/769db07b4843) |
+| Sat, 15 Nov 2025 18:06:44 GMT | Solving NIST’s Post-Quantum IoT Crisis: An 8,700× Efficiency Architecture (Original Research &… | Berend Watchus | [Read More](https://medium.com/p/f231935f4481) |
+| Sat, 15 Nov 2025 18:06:15 GMT | Hijacking Reviews: IDOR is Everywhere | Parth Narula | [Read More](https://medium.com/p/32256f649cd5) |
+| Sat, 15 Nov 2025 18:05:00 GMT | Anthropic’s AI Just Hacked 30 Companies Almost By Itself | Rohit Kumar Thakur | [Read More](https://medium.com/p/e558f312d922) |
+| Sat, 15 Nov 2025 18:03:50 GMT | What is Phishing ? A Simple explanation for beginners | Veeresh HS | [Read More](https://medium.com/p/399f1aec582b) |
+| Sat, 15 Nov 2025 17:54:52 GMT | MemLabs Lab 1 — Beginner’s Luck Write-Up | Busraugur | [Read More](https://medium.com/p/fa27f1dc6d32) |
+| Sat, 15 Nov 2025 17:50:18 GMT | De-Risking Enterprise AI Adoption: A CISO’s Playbook | Krishna Sai Marella | [Read More](https://medium.com/p/3b90be085736) |
+| Sat, 15 Nov 2025 17:49:34 GMT | Best 7 AI Code Review Tools for Security & Dependencies in 2026 | Sonali Sood | [Read More](https://medium.com/p/6831344eb298) |
+| Sat, 15 Nov 2025 17:48:43 GMT | 3 Recon Tricks + Advanced Pivots for Hidden Asset Discovery | Metiryx | [Read More](https://medium.com/p/daccdaa9e074) |
+| Sat, 15 Nov 2025 17:45:34 GMT | Claude on why it helped China cyberattack the West | Kevin O'Shaughnessy | [Read More](https://medium.com/p/6c06ae59adc0) |
+| Sat, 15 Nov 2025 17:44:19 GMT | AD Tradecraft: Certificate Services & Lateral Movement | Hishamrazak | [Read More](https://medium.com/p/98674d8c8839) |
 | Sat, 15 Nov 2025 17:32:56 GMT | Ethical Hacking with AI Tools: Inside the New Cybersecurity Tug-of-War | Rishi Singh | [Read More](https://medium.com/p/af5ed61a7218) |
+| Sat, 15 Nov 2025 17:32:56 GMT | Zero Trust Implementation Plan | Esra Kayhan Uysal | [Read More](https://medium.com/p/a5a7abbc43e8) |
 | Sat, 15 Nov 2025 17:23:52 GMT | RondoDox Is Pulling Unpatched XWiki Servers Into a Growing Botnet | Jasmitha | [Read More](https://medium.com/p/00c6c4de01b5) |
 | Sat, 15 Nov 2025 17:08:46 GMT | The Unedited Story of My First Root: Hacking Kioptrix Level 1 | Adbin Mgr | [Read More](https://medium.com/p/c999ad177fa3) |
 | Sat, 15 Nov 2025 17:06:13 GMT | Can Two Devices Have the Same MAC Address? And Do They Receive Each Other’s Messages? | Sidrahaaishahguitar | [Read More](https://medium.com/p/f17d7cc500e1) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 10:40:30 GMT | Limited Char XSS Challange Solution of Nowasky | Muhammad ilyas | [Read More](https://medium.com/p/6ed3fb6387f8) |
 | Sat, 15 Nov 2025 10:36:35 GMT | The demand for cybersecurity professionals is at an all-time high in 2025. | Hachion Trainings | [Read More](https://medium.com/p/c5bc3895f535) |
 | Sat, 15 Nov 2025 10:35:26 GMT | Cybersecurity 2025: Trends, Threats, and the New Skillsets | Tejasri Nareshit | [Read More](https://medium.com/p/3f624f088e0b) |
-| Sat, 15 Nov 2025 10:32:08 GMT | What Is Tab Nabbing & Reverse Tab Nabbing? Beginner-Friendly Explanation and How to Prevent It | Natarajan C K | [Read More](https://medium.com/p/0e0db8e2cde5) |
-| Sat, 15 Nov 2025 10:31:46 GMT | Understanding Business Logic Vulnerabilities: A Real-World Guide for Security Researchers | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d00f76957686) |
-| Sat, 15 Nov 2025 10:25:06 GMT | Unlocking SELinux: Security Without the Confusion. | Devinda wanasinghe | [Read More](https://medium.com/p/14c6ca927829) |
-| Sat, 15 Nov 2025 10:21:59 GMT | Taming the Digital Wilderness: Your Guide to the MITRE ATT&CK® Framework. | Cyberbali | [Read More](https://medium.com/p/aea51a16a772) |
-| Sat, 15 Nov 2025 10:20:23 GMT | Prototype Confusion: abusing prototypes when prototype pollution is not exploitable | Qlich | [Read More](https://medium.com/p/ec3d18aefdb7) |
-| Sat, 15 Nov 2025 10:15:27 GMT | Spyware Security & Anti Spy AI | Spyware Security | [Read More](https://medium.com/p/d5521932464a) |
-| Sat, 15 Nov 2025 10:10:33 GMT | Defensive Programming in Flutter: Ensuring Robustness and Security | Mewan Chathuranga | [Read More](https://medium.com/p/5cf8e7cb521e) |
-| Sat, 15 Nov 2025 10:07:52 GMT | Why VAPT Is No Longer Optional in 2025 — It’s Your First Line of Cyber Defense | Devarshi Acharya | [Read More](https://medium.com/p/0f14616349a0) |
-| Sat, 15 Nov 2025 10:04:56 GMT | TryHackMe: OWASP Top 10–2021 Walkthrough | AbOu | [Read More](https://medium.com/p/a47e427bc14c) |
-| Sat, 15 Nov 2025 10:04:18 GMT | Why Everyone Is Talking About Infinix New Phone Cameras in 2025? | Chloe White | [Read More](https://medium.com/p/a1983d5fbc07) |
-| Sat, 15 Nov 2025 10:03:56 GMT | Data Protection with NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/9ffa084b7a6e) |
-| Sat, 15 Nov 2025 09:47:41 GMT | How a Single SSRF Changed My Life: My Journey From Logistics Into Cybersecurity | jsll | [Read More](https://medium.com/p/e1eba7ff7ce1) |
-| Sat, 15 Nov 2025 09:47:06 GMT | Pay Per Click Management Utah: Driving Real Growth Through Strategic Advertising | Hary Battler | [Read More](https://medium.com/p/e1be1095806b) |
-| Sat, 15 Nov 2025 09:39:48 GMT | Android Security Warning: Google Says to Uninstall These Risky Apps Now | AG4Tech | [Read More](https://medium.com/p/0c7908bca3a5) |
