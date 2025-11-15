@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 21:21:21 GMT | TRYHACKME: LOOKUP | Stephen Alumasa | [Read More](https://medium.com/p/5692bd4cc707) |
+| Sat, 15 Nov 2025 21:16:39 GMT | I Built a Simple Script That Found Hidden Race Conditions | Ibtissam | [Read More](https://medium.com/p/2a4c6366671c) |
+| Sat, 15 Nov 2025 21:15:49 GMT | How to Easily Start in Cybersecurity: A Complete Beginner’s Roadmap | Anthonymatta | [Read More](https://medium.com/p/d3a950e6560d) |
 | Sat, 15 Nov 2025 21:02:45 GMT | From Codes in the Colonies to Hideouts on the Frontier: A Look at Security, Privacy, and OpSec… | Officer's Notes | [Read More](https://medium.com/p/35b2194393a1) |
 | Sat, 15 Nov 2025 20:56:37 GMT | The JavaScript Supply Chain Is Broken — So I Built NPM Scan To Fix It | Shyngys Shynbolatov | [Read More](https://medium.com/p/339c21014fb5) |
 | Sat, 15 Nov 2025 20:35:57 GMT | A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience | Erkan Kavas | [Read More](https://medium.com/p/1882f3dfd1b5) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 13:02:13 GMT | Remote Work & Cybersecurity: Protecting the Digital Workplace | Oliver H Blake | [Read More](https://medium.com/p/82ed1efd05da) |
 | Sat, 15 Nov 2025 13:00:52 GMT | New Bug Hunters: This Is How You Land a Critical Find | Rehan Sohail | [Read More](https://medium.com/p/eaaf71fae5f4) |
 | Sat, 15 Nov 2025 12:59:48 GMT | HackTheBox: Expressway Writeup | Rahaliashraf | [Read More](https://medium.com/p/b386c21cc780) |
-| Sat, 15 Nov 2025 12:54:29 GMT | Unrestricted File Upload on /frontend-filemanager | Hisyamraya | [Read More](https://medium.com/p/840868f693d9) |
-| Sat, 15 Nov 2025 12:44:10 GMT | Switching Your Pixel Phone to GrapheneOS: The Definitive Guide to What You Gain, What You Lose, and… | Devesh Mankar | [Read More](https://medium.com/p/a1b1d4f40512) |
-| Sat, 15 Nov 2025 12:43:03 GMT | AI and Data Science Classes: A Complete Guide for Students and Beginners | Sivarao AI | [Read More](https://medium.com/p/517f52b74af7) |
