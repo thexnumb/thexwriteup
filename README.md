@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 03:32:53 GMT | FLUFFY (HACKTHEBOX) WALKTHROUGH | SilentExploit | [Read More](https://medium.com/p/eeab539e10f5) |
+| Sat, 15 Nov 2025 03:32:06 GMT | How WhatsApp and Messenger Are Quietly Reinventing Scam Protection | Deven Chhajed | [Read More](https://medium.com/p/b44712e77b85) |
+| Sat, 15 Nov 2025 03:19:15 GMT | How One Runaway Process Can Crash Your Entire Linux System — And How to Stop It | Sukanthi R | [Read More](https://medium.com/p/b6a51f1fedaa) |
+| Sat, 15 Nov 2025 03:11:12 GMT | I will write IT resume, technical resume, software engineering, linkedin optimization | Bettymatt | [Read More](https://medium.com/p/e71b2ebfcfd8) |
+| Sat, 15 Nov 2025 03:00:03 GMT | Attacking Active Directory for Noobs: User Enumeration | Zach K | [Read More](https://medium.com/p/4476378829d7) |
 | Sat, 15 Nov 2025 02:07:23 GMT | Here’s how I recover my money from DmmBitcoin | Margaret | [Read More](https://medium.com/p/778f8c9a3db4) |
 | Sat, 15 Nov 2025 02:01:46 GMT | Five Critical Cyber-Security Measures Every Australian Business Must Implement Today | Elevate | [Read More](https://medium.com/p/69b2354b1313) |
 | Sat, 15 Nov 2025 01:59:29 GMT | ☁️ Cloud Red Teaming: Azure vs AWS TTPs You Need to Know | Yua Mikanana | [Read More](https://medium.com/p/b031b69dcac7) |
@@ -108,8 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 16:50:56 GMT | The First AI-Orchestrated Cyber Espionage Campaign: What GTG-1002 Means for Enterprise Security | Pawel | [Read More](https://medium.com/p/b82f32b7c7a7) |
 | Fri, 14 Nov 2025 16:46:37 GMT | ️ The Ultimate 2025 Spring Boot API Security Blueprint: Rate Limiting, Anti-Replay & Signature… | Karuna | [Read More](https://medium.com/p/356fb09b30ee) |
 | Fri, 14 Nov 2025 16:35:53 GMT | What Is WMI in Cybersecurity? A Simple Beginner-Friendly Explanation | Natarajan C K | [Read More](https://medium.com/p/eac2cf12774f) |
-| Fri, 14 Nov 2025 16:28:07 GMT | We’re Going Up, Up, Up… | Nessa Amherst | [Read More](https://medium.com/p/a0608ad2b0ef) |
-| Fri, 14 Nov 2025 16:26:28 GMT | Hacking in the Age of MCP — Lessons from the Past, Risks for the Future (Model Context Protocol… | Marshfire | [Read More](https://medium.com/p/6e91349fa614) |
-| Fri, 14 Nov 2025 16:24:47 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: The Metasploit Framework CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/912d5b7e4c09) |
-| Fri, 14 Nov 2025 16:24:42 GMT | Top 30 AI Security Startups –2025 | Tal Eliyahu | [Read More](https://medium.com/p/05847ac90747) |
-| Fri, 14 Nov 2025 16:24:31 GMT | Security and Performance Aspects of Filesystem Optimization | Linux Guide | [Read More](https://medium.com/p/3a2e5f20a5d1) |
