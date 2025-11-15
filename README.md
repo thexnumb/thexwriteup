@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 15:12:24 GMT | Outbound Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/863b6abf9f3f) |
+| Sat, 15 Nov 2025 15:02:58 GMT | Outbound HTB Write-up | Pr3ach3r | [Read More](https://medium.com/p/690ff54f5277) |
+| Sat, 15 Nov 2025 14:46:26 GMT | Unlock Your Networking Potential — for Free | Mohammed Hegaz | [Read More](https://medium.com/p/5536767cad20) |
+| Sat, 15 Nov 2025 14:44:37 GMT | Understanding RBAC and ABAC: Bugs Related to Them (From a Pentester’s Lens) | Dikshya Shrestha | [Read More](https://medium.com/p/144b6118f52e) |
+| Sat, 15 Nov 2025 14:44:29 GMT | This Simple Habit Can Save Your App from XSS and SQL Injection Attacks | CodeByUmar | [Read More](https://medium.com/p/f169999deae2) |
+| Sat, 15 Nov 2025 14:41:03 GMT | Finding Open Service Ports: Reducing Your Attack Surface with Nmap | Ramandeep Bagri | [Read More](https://medium.com/p/118d90b31224) |
 | Sat, 15 Nov 2025 14:35:27 GMT | TryHackMe: Sunshine | Muhammad Alshlqany | [Read More](https://medium.com/p/6c559796691a) |
 | Sat, 15 Nov 2025 14:26:25 GMT | To Hack or Not to Hack: EDR vs. Antivirus — What’s the Real Difference? ️ | Furkanctiner | [Read More](https://medium.com/p/94be74ef88d0) |
 | Sat, 15 Nov 2025 14:23:07 GMT | PhantomCollect Architecture: Building a Stealth Data Collection Engine from Scratch | xsser01 | [Read More](https://medium.com/p/9e58560290b0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 07:45:17 GMT | CSRF & CORS in Modern APIs: Browser Drama That Adds Zero Security | Craftsman | [Read More](https://medium.com/p/4cda9494488f) |
 | Sat, 15 Nov 2025 07:41:37 GMT | Google’s “Big Sleep”: How AI Is Transforming Cybersecurity in 2025 | Staunch | [Read More](https://medium.com/p/5ccc010265d4) |
 | Sat, 15 Nov 2025 07:36:37 GMT | Grandoreiro: Inside the Return of a Notorious Banking Trojan | Himanshu Bhatt | [Read More](https://medium.com/p/487dd9a4a39a) |
-| Sat, 15 Nov 2025 07:34:20 GMT | Where Do We Go When We Have Nowhere to Cry? | Saumya Dubey | [Read More](https://medium.com/p/f14e82837c6f) |
-| Sat, 15 Nov 2025 07:31:57 GMT | OWASP Top 10 2025 What You Need To Know as a Security Engineer or Hacker | Aditya Pidurkar | [Read More](https://medium.com/p/70f075c5b284) |
-| Sat, 15 Nov 2025 07:25:15 GMT | Setup Environment Android untuk Mobile Pentest : Emulator, ADB, dan Burp Suite (Step-by-Step) | Aria Dimas Mastur | [Read More](https://medium.com/p/00d709a559a9) |
-| Sat, 15 Nov 2025 07:22:58 GMT | How Chinese Hackers Are Using Anthropic’s AI for Cyberespionage: The 2025 Wake-Up Call | Varun Chopra | [Read More](https://medium.com/p/b0b12a71121d) |
-| Sat, 15 Nov 2025 07:19:46 GMT | Why Your AI-Built App Probably Isn’t Secure | NullCoin | [Read More](https://medium.com/p/6609a215bbed) |
-| Sat, 15 Nov 2025 07:18:47 GMT | Active Directory Nedir? Avantajları, Bileşenleri ve Özellikleri Nelerdir? | Aytuğ Çelikdönmez | [Read More](https://medium.com/p/10f9bf2c5a18) |
