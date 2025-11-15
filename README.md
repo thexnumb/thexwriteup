@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 10:35:26 GMT | Cybersecurity 2025: Trends, Threats, and the New Skillsets | Tejasri Nareshit | [Read More](https://medium.com/p/3f624f088e0b) |
+| Sat, 15 Nov 2025 10:32:08 GMT | What Is Tab Nabbing & Reverse Tab Nabbing? Beginner-Friendly Explanation and How to Prevent It | Natarajan C K | [Read More](https://medium.com/p/0e0db8e2cde5) |
+| Sat, 15 Nov 2025 10:31:46 GMT | Understanding Business Logic Vulnerabilities: A Real-World Guide for Security Researchers | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d00f76957686) |
+| Sat, 15 Nov 2025 10:25:06 GMT | Unlocking SELinux: Security Without the Confusion. | Devinda wanasinghe | [Read More](https://medium.com/p/14c6ca927829) |
+| Sat, 15 Nov 2025 10:21:59 GMT | Taming the Digital Wilderness: Your Guide to the MITRE ATT&CK® Framework. | Cyberbali | [Read More](https://medium.com/p/aea51a16a772) |
+| Sat, 15 Nov 2025 10:20:23 GMT | Prototype Confusion: abusing prototypes when prototype pollution is not exploitable | Qlich | [Read More](https://medium.com/p/ec3d18aefdb7) |
+| Sat, 15 Nov 2025 10:15:27 GMT | Spyware Security & Anti Spy AI | Spyware Security | [Read More](https://medium.com/p/d5521932464a) |
+| Sat, 15 Nov 2025 10:10:33 GMT | Defensive Programming in Flutter: Ensuring Robustness and Security | Mewan Chathuranga | [Read More](https://medium.com/p/5cf8e7cb521e) |
 | Sat, 15 Nov 2025 10:07:52 GMT | Why VAPT Is No Longer Optional in 2025 — It’s Your First Line of Cyber Defense | Devarshi Acharya | [Read More](https://medium.com/p/0f14616349a0) |
 | Sat, 15 Nov 2025 10:04:56 GMT | TryHackMe: OWASP Top 10–2021 Walkthrough | AbOu | [Read More](https://medium.com/p/a47e427bc14c) |
 | Sat, 15 Nov 2025 10:04:18 GMT | Why Everyone Is Talking About Infinix New Phone Cameras in 2025? | Chloe White | [Read More](https://medium.com/p/a1983d5fbc07) |
@@ -104,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 00:33:22 GMT | Chinese Hackers Weaponize AI in First Autonomous Cyberattack: A New Era in Cyber Warfare | CCD-IS | [Read More](https://medium.com/p/de3326d2f7e4) |
 | Sat, 15 Nov 2025 00:32:02 GMT | HackTheBox Investigating with Splunk: Skills Assessment | Cybersecurity Simplified | [Read More](https://medium.com/p/1ac3f32df39a) |
 | Sat, 15 Nov 2025 00:18:19 GMT | Write-up : Easy Peasy-TryHackMe | DylanSec | [Read More](https://medium.com/p/9c5d938f8369) |
-| Sat, 15 Nov 2025 00:17:40 GMT | Machine-Learning in Cybersecurity: A dive into innovation | Shivam Kanodia | [Read More](https://medium.com/p/6299e2b0b5f1) |
-| Sat, 15 Nov 2025 00:04:03 GMT | Title:
-Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issue | Ganiyah Otubambo | [Read More](https://medium.com/p/d0fab8c3095b) |
-| Sat, 15 Nov 2025 00:02:03 GMT | BOLA (IDOR): Critical API Authorization Flaw & Bug Bounty Detection | JPablo13 | [Read More](https://medium.com/p/3203133a5040) |
-| Fri, 14 Nov 2025 23:42:15 GMT | Hackers Chineses efetuam campanha de espionagem usando o Claude Tools da Antrophic | Lucasgabriel | [Read More](https://medium.com/p/bdea244953a6) |
-| Fri, 14 Nov 2025 23:33:14 GMT | Fantasy Hub: The Android Trojan Turning Telegram Into a Hacker Marketplace | C. Oscar Lawshea | [Read More](https://medium.com/p/0da0876becd5) |
-| Fri, 14 Nov 2025 23:32:06 GMT | CYBERSECURITY AWARENESS TRAINERS AREN’T DOING THEIR JOB | Olatunji David | [Read More](https://medium.com/p/b8b54f3f6a7e) |
-| Fri, 14 Nov 2025 23:26:40 GMT | A Community Acupuncturist at Industrial Cyber 2025 | Mike Gonzalez | [Read More](https://medium.com/p/0294c22c2213) |
-| Fri, 14 Nov 2025 23:26:38 GMT | Why Every Cybersecurity Professional Should Understand the Radio Spectrum | Michael Preston | [Read More](https://medium.com/p/c9c74ae99f78) |
