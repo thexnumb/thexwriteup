@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 01:32:59 GMT | Riddle Registry Walkthrough— picoCTF | Jerome M. Lolong | [Read More](https://medium.com/p/d348ee7c6f2d) |
+| Sat, 15 Nov 2025 01:32:21 GMT | Men, Do You Know What Your Woman Really Wants? | Ophaly Kate | [Read More](https://medium.com/p/aa712e79ecd0) |
+| Sat, 15 Nov 2025 01:29:06 GMT | How to configure DNS settings on a router in 2 minutes | Safelyo Global | [Read More](https://medium.com/p/769f043de24a) |
+| Sat, 15 Nov 2025 00:43:29 GMT | IaC Security and Compliance Tool Solutions | kaliarch | [Read More](https://medium.com/p/28f5a1183a51) |
+| Sat, 15 Nov 2025 00:39:41 GMT | Phishing Prevention | Demegorash | [Read More](https://medium.com/p/89579a326d7b) |
+| Sat, 15 Nov 2025 00:33:22 GMT | Chinese Hackers Weaponize AI in First Autonomous Cyberattack: A New Era in Cyber Warfare | CCD-IS | [Read More](https://medium.com/p/de3326d2f7e4) |
+| Sat, 15 Nov 2025 00:32:02 GMT | HackTheBox Investigating with Splunk: Skills Assessment | Cybersecurity Simplified | [Read More](https://medium.com/p/1ac3f32df39a) |
+| Sat, 15 Nov 2025 00:18:19 GMT | Write-up : Easy Peasy-TryHackMe | DylanSec | [Read More](https://medium.com/p/9c5d938f8369) |
+| Sat, 15 Nov 2025 00:17:40 GMT | Machine-Learning in Cybersecurity: A dive into innovation | Shivam Kanodia | [Read More](https://medium.com/p/6299e2b0b5f1) |
+| Sat, 15 Nov 2025 00:04:03 GMT | Title:
+Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issue | Ganiyah Otubambo | [Read More](https://medium.com/p/d0fab8c3095b) |
+| Sat, 15 Nov 2025 00:02:03 GMT | BOLA (IDOR): Critical API Authorization Flaw & Bug Bounty Detection | JPablo13 | [Read More](https://medium.com/p/3203133a5040) |
+| Fri, 14 Nov 2025 23:42:15 GMT | Hackers Chineses efetuam campanha de espionagem usando o Claude Tools da Antrophic | Lucasgabriel | [Read More](https://medium.com/p/bdea244953a6) |
 | Fri, 14 Nov 2025 23:33:14 GMT | Fantasy Hub: The Android Trojan Turning Telegram Into a Hacker Marketplace | C. Oscar Lawshea | [Read More](https://medium.com/p/0da0876becd5) |
 | Fri, 14 Nov 2025 23:32:06 GMT | CYBERSECURITY AWARENESS TRAINERS AREN’T DOING THEIR JOB | Olatunji David | [Read More](https://medium.com/p/b8b54f3f6a7e) |
 | Fri, 14 Nov 2025 23:26:40 GMT | A Community Acupuncturist at Industrial Cyber 2025 | Mike Gonzalez | [Read More](https://medium.com/p/0294c22c2213) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 14 Nov 2025 16:21:39 GMT | The Hidden Cost of Compromised Accounts And Why Your Private Messages Aren’t As Private As You… | Hitesh Said | [Read More](https://medium.com/p/34472173cd23) |
 | Fri, 14 Nov 2025 16:14:15 GMT | Advanced Seccomp Filters Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/c027f5f62ecc) |
 | Fri, 14 Nov 2025 16:11:28 GMT | New ClickFix Attack Targeting Windows and macOS Users to Deploy Infostealer Malware | Technijian | [Read More](https://medium.com/p/4086172bd737) |
-| Fri, 14 Nov 2025 16:06:25 GMT | ⚙️ Inside PostgreSQL Performance Optimization: Real Tuning Lessons from 2025 | Rizqi Mulki | [Read More](https://medium.com/p/2387c86542cd) |
-| Fri, 14 Nov 2025 16:03:29 GMT | How Melbourne’s Growth Is Transforming the Demand for Fencing Solutions | Herwin Rosairo | [Read More](https://medium.com/p/0489e4c2b72a) |
-| Fri, 14 Nov 2025 16:02:08 GMT | Vault Chronicles: The Codex | Raymon Epping | [Read More](https://medium.com/p/1d6bf78e5ca6) |
-| Fri, 14 Nov 2025 16:00:18 GMT | ASM, NYT vs OpenAI, NightHawk [251113_Jscrap] | JAYL | [Read More](https://medium.com/p/e3fc5caaf09c) |
-| Fri, 14 Nov 2025 15:52:39 GMT | Critical RCE Flaw in React Native CLI Exposes Dev Servers | Valentin Podkamennyi | [Read More](https://medium.com/p/99c03f06c39d) |
-| Fri, 14 Nov 2025 15:47:32 GMT | Why a Data Breach Attorney Matters When Your Personal Information Is Exposed | Legal Thoughts | [Read More](https://medium.com/p/0efeb5122e1f) |
-| Fri, 14 Nov 2025 15:45:22 GMT | Capítulo 3 — O Jogo dos Logs | Kleber Andrade | [Read More](https://medium.com/p/e6874b07af31) |
-| Fri, 14 Nov 2025 15:40:05 GMT | When Even My Angels Run Out of Words: Learning to Come Home to Yourself | Daniel Gagarin | [Read More](https://medium.com/p/a6a9da2a9eac) |
-| Fri, 14 Nov 2025 15:38:07 GMT | CTF With ChatGPT: Helpful Vibes, Zero Flags | Matt Snyder | [Read More](https://medium.com/p/de3e6a7a6e27) |
-| Fri, 14 Nov 2025 15:34:57 GMT | When Fragility Makes Us Stronger:
-Gratitude Through Honesty | Habil Lokadjaja CFP | [Read More](https://medium.com/p/ca4a4955f223) |
-| Fri, 14 Nov 2025 15:31:04 GMT | AI-Driven Cyberattacks Have Arrived: What Project Managers and Technology Strategists Must Do Now | CCL Montante | [Read More](https://medium.com/p/82959712276e) |
-| Fri, 14 Nov 2025 15:30:59 GMT | Unknown Caller? Suspicious Email? Here’s How to Verify Anyone in Seconds (Without Them Knowing) | Risfat | [Read More](https://medium.com/p/e5bde434f0b0) |
