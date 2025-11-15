@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 21:02:45 GMT | From Codes in the Colonies to Hideouts on the Frontier: A Look at Security, Privacy, and OpSec… | Officer's Notes | [Read More](https://medium.com/p/35b2194393a1) |
+| Sat, 15 Nov 2025 20:56:37 GMT | The JavaScript Supply Chain Is Broken — So I Built NPM Scan To Fix It | Shyngys Shynbolatov | [Read More](https://medium.com/p/339c21014fb5) |
 | Sat, 15 Nov 2025 20:35:57 GMT | A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience | Erkan Kavas | [Read More](https://medium.com/p/1882f3dfd1b5) |
 | Sat, 15 Nov 2025 20:16:36 GMT | Galois field (or finite field) theory for cryptography. | SachaWos | [Read More](https://medium.com/p/bb16a9182c90) |
 | Sat, 15 Nov 2025 20:13:48 GMT | Claude on National Insecurity Policy | Kevin O'Shaughnessy | [Read More](https://medium.com/p/aee5cfc9e3cb) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 12:54:29 GMT | Unrestricted File Upload on /frontend-filemanager | Hisyamraya | [Read More](https://medium.com/p/840868f693d9) |
 | Sat, 15 Nov 2025 12:44:10 GMT | Switching Your Pixel Phone to GrapheneOS: The Definitive Guide to What You Gain, What You Lose, and… | Devesh Mankar | [Read More](https://medium.com/p/a1b1d4f40512) |
 | Sat, 15 Nov 2025 12:43:03 GMT | AI and Data Science Classes: A Complete Guide for Students and Beginners | Sivarao AI | [Read More](https://medium.com/p/517f52b74af7) |
-| Sat, 15 Nov 2025 12:29:56 GMT | The Future of Data Centre Security Starts in Qatar & GCC | Tekhabeeb | [Read More](https://medium.com/p/9b0cd13c84a7) |
-| Sat, 15 Nov 2025 12:19:54 GMT | How to Test for IDOR: The Practical Methodology | z0h3 | [Read More](https://medium.com/p/fec3688febfb) |
