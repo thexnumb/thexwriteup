@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 13:19:57 GMT | WarGames Reloaded: When AI Became the Hacker | Lakshmi narayana .U | [Read More](https://medium.com/p/6eb18c1db164) |
+| Sat, 15 Nov 2025 13:13:40 GMT | HTB: CAP Machine Walkthrough | Isha Sangpal | [Read More](https://medium.com/p/bea6403e4690) |
+| Sat, 15 Nov 2025 13:02:56 GMT | Stop Drowning in ‘Critical’ Alerts | Jialei Q. | [Read More](https://medium.com/p/13b19aba84e4) |
+| Sat, 15 Nov 2025 13:02:13 GMT | Remote Work & Cybersecurity: Protecting the Digital Workplace | Oliver H Blake | [Read More](https://medium.com/p/82ed1efd05da) |
+| Sat, 15 Nov 2025 13:00:52 GMT | New Bug Hunters: This Is How You Land a Critical Find | Rehan Sohail | [Read More](https://medium.com/p/eaaf71fae5f4) |
+| Sat, 15 Nov 2025 12:59:48 GMT | HackTheBox: Expressway Writeup | Rahaliashraf | [Read More](https://medium.com/p/b386c21cc780) |
+| Sat, 15 Nov 2025 12:54:29 GMT | Unrestricted File Upload on /frontend-filemanager | Hisyamraya | [Read More](https://medium.com/p/840868f693d9) |
+| Sat, 15 Nov 2025 12:44:10 GMT | Switching Your Pixel Phone to GrapheneOS: The Definitive Guide to What You Gain, What You Lose, and… | Devesh Mankar | [Read More](https://medium.com/p/a1b1d4f40512) |
+| Sat, 15 Nov 2025 12:43:03 GMT | AI and Data Science Classes: A Complete Guide for Students and Beginners | Sivarao AI | [Read More](https://medium.com/p/517f52b74af7) |
 | Sat, 15 Nov 2025 12:29:56 GMT | The Future of Data Centre Security Starts in Qatar & GCC | Tekhabeeb | [Read More](https://medium.com/p/9b0cd13c84a7) |
 | Sat, 15 Nov 2025 12:19:54 GMT | How to Test for IDOR: The Practical Methodology | z0h3 | [Read More](https://medium.com/p/fec3688febfb) |
 | Sat, 15 Nov 2025 12:04:35 GMT | The Agent is Inside the House: Why EDR Can’t Stop the “Insider Threat” You Invited In | Matan Yemini | [Read More](https://medium.com/p/f642d17b5111) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 05:43:40 GMT | How AI-Enhanced Cryptocurrency Mixers Fuel Global Crime | David SEHYEON Baek | [Read More](https://medium.com/p/150245991be0) |
 | Sat, 15 Nov 2025 05:35:28 GMT | A Mindset of Enhanced Security at Tekion | Tekion | [Read More](https://medium.com/p/42c43ad4b382) |
 | Sat, 15 Nov 2025 05:23:22 GMT | VANHELSING RANSOMWARE | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/c350c3991579) |
-| Sat, 15 Nov 2025 05:23:02 GMT | When AI Became a Hacker: My Perspective on the First AI-Orchestrated Cyber Espionage Campaign | Seneth Lakshan | [Read More](https://medium.com/p/29c107e5706b) |
-| Sat, 15 Nov 2025 05:21:44 GMT | LETSDEFEND — SOC140: Phishing Mail Detected (Event ID 82) | Soumodeep Das | [Read More](https://medium.com/p/dc88e1134d7e) |
-| Sat, 15 Nov 2025 05:18:54 GMT | Security for Modern Platforms: Why OWASP ZAP Should Be in Every Developer’s Toolkit | PAING SOE KHANT - | [Read More](https://medium.com/p/facdaf7b6919) |
-| Sat, 15 Nov 2025 05:16:36 GMT | What is Cyber Security? The Different Types of Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/53527aec29a0) |
-| Sat, 15 Nov 2025 05:07:28 GMT | Enhance Cyber Security Expertise with a Globally Recognized Master of Science | Edglobalacademy | [Read More](https://medium.com/p/a2250a441237) |
-| Sat, 15 Nov 2025 05:03:57 GMT | Credential Optics ≠ Institutional Access: Competence is Authored, Not Conferred | Narnaiezzsshaa Truong | [Read More](https://medium.com/p/a04b86c02b74) |
-| Sat, 15 Nov 2025 04:57:45 GMT | The First AI Orchestrated Cyberattack and the Road We Chose Not to See | Basil C. Puglisi | [Read More](https://medium.com/p/54087393a22a) |
-| Sat, 15 Nov 2025 04:52:29 GMT | Security — Valet Key | Udayan Sawant | [Read More](https://medium.com/p/c4b20c865816) |
-| Sat, 15 Nov 2025 04:48:04 GMT | How I Got a Letter of Recognition from NASA (And How You Can Too) | Philip Garabandic | [Read More](https://medium.com/p/006f1b4c2649) |
