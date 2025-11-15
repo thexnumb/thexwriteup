@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 11:33:57 GMT | Behave Like an ATP: Get that Data. | nullorx | [Read More](https://medium.com/p/701b1a7b3898) |
+| Sat, 15 Nov 2025 11:30:10 GMT | [televerse_shadow_tag] — [Digital Forensics] — [CUET CTF 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/9dd2cea4cb37) |
+| Sat, 15 Nov 2025 11:25:19 GMT | Understanding Credential Replay Attacks in Windows Using Crackmapexec | Ammar Ahmed | [Read More](https://medium.com/p/c13fa0ee8307) |
+| Sat, 15 Nov 2025 11:20:14 GMT | Why Hacking Is The Path I Chose? | H4V0C | [Read More](https://medium.com/p/67a27811efb1) |
+| Sat, 15 Nov 2025 11:16:38 GMT | A security analysis of the “Shia Organization 313” group: The rise of an ideologically driven… | Omar Iraqi | [Read More](https://medium.com/p/63079dfa55e5) |
 | Sat, 15 Nov 2025 11:04:32 GMT | “Directors: In 2026, ‘We Didn’t Know’ Won’t Save You.” | AXSAS | [Read More](https://medium.com/p/7d7f40b31127) |
 | Sat, 15 Nov 2025 10:56:41 GMT | How Dark Web Breach Monitoring Protects Your Data Fast | DeXpose | [Read More](https://medium.com/p/679c7e455e8e) |
 | Sat, 15 Nov 2025 10:56:06 GMT | Don’t Trust the Server: How Response Manipulation Exposed a Business Logic Flaw | Killua199 | [Read More](https://medium.com/p/8b554e36c6fe) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 03:11:12 GMT | I will write IT resume, technical resume, software engineering, linkedin optimization | Bettymatt | [Read More](https://medium.com/p/e71b2ebfcfd8) |
 | Sat, 15 Nov 2025 03:00:03 GMT | Attacking Active Directory for Noobs: User Enumeration | Zach K | [Read More](https://medium.com/p/4476378829d7) |
 | Sat, 15 Nov 2025 02:07:23 GMT | Here’s how I recover my money from DmmBitcoin | Margaret | [Read More](https://medium.com/p/778f8c9a3db4) |
-| Sat, 15 Nov 2025 02:01:46 GMT | Five Critical Cyber-Security Measures Every Australian Business Must Implement Today | Elevate | [Read More](https://medium.com/p/69b2354b1313) |
-| Sat, 15 Nov 2025 01:59:29 GMT | ☁️ Cloud Red Teaming: Azure vs AWS TTPs You Need to Know | Yua Mikanana | [Read More](https://medium.com/p/b031b69dcac7) |
-| Sat, 15 Nov 2025 01:57:52 GMT | IPVanish review: Can it’s US-based be trusted in 2025? | Safelyo VPN | [Read More](https://medium.com/p/f1c408489b64) |
-| Sat, 15 Nov 2025 01:32:59 GMT | Riddle Registry Walkthrough— picoCTF | Jerome M. Lolong | [Read More](https://medium.com/p/d348ee7c6f2d) |
-| Sat, 15 Nov 2025 01:32:21 GMT | Men, Do You Know What Your Woman Really Wants? | Ophaly Kate | [Read More](https://medium.com/p/aa712e79ecd0) |
