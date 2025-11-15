@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 10:07:52 GMT | Why VAPT Is No Longer Optional in 2025 — It’s Your First Line of Cyber Defense | Devarshi Acharya | [Read More](https://medium.com/p/0f14616349a0) |
+| Sat, 15 Nov 2025 10:04:56 GMT | TryHackMe: OWASP Top 10–2021 Walkthrough | AbOu | [Read More](https://medium.com/p/a47e427bc14c) |
+| Sat, 15 Nov 2025 10:04:18 GMT | Why Everyone Is Talking About Infinix New Phone Cameras in 2025? | Chloe White | [Read More](https://medium.com/p/a1983d5fbc07) |
+| Sat, 15 Nov 2025 10:03:56 GMT | Data Protection with NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/9ffa084b7a6e) |
+| Sat, 15 Nov 2025 09:47:41 GMT | How a Single SSRF Changed My Life: My Journey From Logistics Into Cybersecurity | jsll | [Read More](https://medium.com/p/e1eba7ff7ce1) |
+| Sat, 15 Nov 2025 09:47:06 GMT | Pay Per Click Management Utah: Driving Real Growth Through Strategic Advertising | Hary Battler | [Read More](https://medium.com/p/e1be1095806b) |
+| Sat, 15 Nov 2025 09:39:48 GMT | Android Security Warning: Google Says to Uninstall These Risky Apps Now | AG4Tech | [Read More](https://medium.com/p/0c7908bca3a5) |
+| Sat, 15 Nov 2025 09:36:37 GMT | Congrats, Everyone, Your Firewalls Are on Fire: The Cisco Screw-Up That Won’t Die | Travis Ray Caverhill | [Read More](https://medium.com/p/4fc93e31b8b8) |
 | Sat, 15 Nov 2025 09:29:26 GMT | The Quantum Curtain Is Falling — And the World Is Not Ready | Shahjahan Khan | [Read More](https://medium.com/p/5d633a2e58a1) |
 | Sat, 15 Nov 2025 09:19:25 GMT | The Ethics of Hacking: Where Do We Draw the Line? | Shayoni Jahan | [Read More](https://medium.com/p/20675e92ca71) |
 | Sat, 15 Nov 2025 09:18:38 GMT | Understanding SSH Host Key Verification Strategies | ADESH BODE | [Read More](https://medium.com/p/85777cc36675) |
@@ -105,11 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 23:32:06 GMT | CYBERSECURITY AWARENESS TRAINERS AREN’T DOING THEIR JOB | Olatunji David | [Read More](https://medium.com/p/b8b54f3f6a7e) |
 | Fri, 14 Nov 2025 23:26:40 GMT | A Community Acupuncturist at Industrial Cyber 2025 | Mike Gonzalez | [Read More](https://medium.com/p/0294c22c2213) |
 | Fri, 14 Nov 2025 23:26:38 GMT | Why Every Cybersecurity Professional Should Understand the Radio Spectrum | Michael Preston | [Read More](https://medium.com/p/c9c74ae99f78) |
-| Fri, 14 Nov 2025 23:10:44 GMT | TryHackMe Input Manipulation & Prompt Injection Walkthrough WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/502ff2446dbf) |
-| Fri, 14 Nov 2025 23:01:08 GMT | AI-Powered Secure CI/CD Pipeline: The Future of Zero-Trust Software Delivery | 1blnrequests | [Read More](https://medium.com/p/dd9215812d6c) |
-| Fri, 14 Nov 2025 22:54:42 GMT | Building Autonomous Cybersecurity For A Hyper-Connected World | Vaultnet Defense | [Read More](https://medium.com/p/7653006e4870) |
-| Fri, 14 Nov 2025 22:53:08 GMT | Would You Trust AI or a Human to Watch Your Store? | Visual Monitoring Solutions | [Read More](https://medium.com/p/c24b2b3b6c2a) |
-| Fri, 14 Nov 2025 22:34:55 GMT | 4,300 Fake Booking Sites Designed to Steal Your Money | Cyber-AppSec | [Read More](https://medium.com/p/00cc1d1a34e0) |
-| Fri, 14 Nov 2025 22:26:53 GMT | Maximum Courage challenge write up | -_ENIGMA_- | [Read More](https://medium.com/p/86b5256225ea) |
-| Fri, 14 Nov 2025 22:26:32 GMT | CyberLens Write-up | Tanuik Kendrick | [Read More](https://medium.com/p/a4d3c85442f0) |
-| Fri, 14 Nov 2025 22:23:51 GMT | Kirrel3: The Chaotic Editor of Your Mind | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/45462b148479) |
