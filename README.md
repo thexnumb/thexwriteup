@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 04:31:17 GMT | Modern Django 6.0 Async Security Guide (OWASP 2025) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/99bef2964ca0) |
+| Sat, 15 Nov 2025 04:21:56 GMT | Top Skills You Need to Become a Successful CISM Professional | Dhanashri Bhale | [Read More](https://medium.com/p/bbd7f33c1056) |
 | Sat, 15 Nov 2025 04:18:31 GMT | Cyber-Secure, Future-Ready IT Solutions For Australian Businesses | Elevate | [Read More](https://medium.com/p/f1af415a9d3e) |
 | Sat, 15 Nov 2025 04:16:22 GMT | Why Securing Agents Demands a Different Playbook | Julian B | [Read More](https://medium.com/p/5702dc0ae216) |
 | Sat, 15 Nov 2025 04:03:59 GMT | ️ Defense in Depth: The Multi-Layer Shield Every Server Needs | Geeky Vartika | [Read More](https://medium.com/p/cbea0a3d5d55) |
@@ -111,5 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 18:00:45 GMT | Build a Cybersecurity AI agent with Postgres Lakebase on Databricks | AI on Databricks | [Read More](https://medium.com/p/03f206a83edb) |
 | Fri, 14 Nov 2025 17:59:47 GMT | The Silent Debris: Why 70% of Failed Crypto Projects Haunt the Blockchain | zoctracker | [Read More](https://medium.com/p/4dba9b016a8a) |
 | Fri, 14 Nov 2025 17:44:04 GMT | The Unseen Spill: 7 simple ways data is left exposed in Financial Institutions | Sonareon | [Read More](https://medium.com/p/14e8260fcfe4) |
-| Fri, 14 Nov 2025 17:38:20 GMT | 20 Must-Have Features in a Food Delivery App | Startup Consultant | [Read More](https://medium.com/p/cdc207e90e0b) |
-| Fri, 14 Nov 2025 17:22:29 GMT | When My Epson Printer Decided to Fight Ubuntu (Again) | Jishnu J P | [Read More](https://medium.com/p/3e6695368a62) |
