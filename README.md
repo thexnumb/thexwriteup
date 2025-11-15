@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 18:32:28 GMT | Footprinting in Ethical Hacking: Your Complete OSINT Guide (Simple, Practical & Powerful) | Purushotham.R | [Read More](https://medium.com/p/99b2de8f1974) |
+| Sat, 15 Nov 2025 18:29:43 GMT | TryHackme Writeup: Tomghost | Berkay AĞGÜL | [Read More](https://medium.com/p/d518fb2d7945) |
+| Sat, 15 Nov 2025 18:24:13 GMT | Where Do I Put All This Love Nobody Wants? | Oluwabunmi Fortune Ajibade | [Read More](https://medium.com/p/cbf3a451467c) |
 | Sat, 15 Nov 2025 18:21:31 GMT | Intro: What I’ll Post On This Page | Avigail Laing | [Read More](https://medium.com/p/4f51eba5bd48) |
 | Sat, 15 Nov 2025 18:13:47 GMT | How to Test Vulnerable Windows.A Complete Guide Of System Security… | Ajmir khan | [Read More](https://medium.com/p/8083b93ddd14) |
 | Sat, 15 Nov 2025 18:09:00 GMT | Is AI Coming for SOC Jobs? A Real Talk + My First Look at Dropzone AI | Dean | [Read More](https://medium.com/p/769db07b4843) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 10:56:41 GMT | How Dark Web Breach Monitoring Protects Your Data Fast | DeXpose | [Read More](https://medium.com/p/679c7e455e8e) |
 | Sat, 15 Nov 2025 10:56:06 GMT | Don’t Trust the Server: How Response Manipulation Exposed a Business Logic Flaw | Killua199 | [Read More](https://medium.com/p/8b554e36c6fe) |
 | Sat, 15 Nov 2025 10:49:31 GMT | Welcome to ClickWise Nigeria: Your Guide to Staying Safe Online | Clickwise Nigeria | [Read More](https://medium.com/p/a9c6647c3177) |
-| Sat, 15 Nov 2025 10:40:30 GMT | Limited Char XSS Challange Solution of Nowasky | Muhammad ilyas | [Read More](https://medium.com/p/6ed3fb6387f8) |
-| Sat, 15 Nov 2025 10:36:35 GMT | The demand for cybersecurity professionals is at an all-time high in 2025. | Hachion Trainings | [Read More](https://medium.com/p/c5bc3895f535) |
-| Sat, 15 Nov 2025 10:35:26 GMT | Cybersecurity 2025: Trends, Threats, and the New Skillsets | Tejasri Nareshit | [Read More](https://medium.com/p/3f624f088e0b) |
