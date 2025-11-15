@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 02:07:23 GMT | Here’s how I recover my money from DmmBitcoin | Margaret | [Read More](https://medium.com/p/778f8c9a3db4) |
+| Sat, 15 Nov 2025 02:01:46 GMT | Five Critical Cyber-Security Measures Every Australian Business Must Implement Today | Elevate | [Read More](https://medium.com/p/69b2354b1313) |
+| Sat, 15 Nov 2025 01:59:29 GMT | ☁️ Cloud Red Teaming: Azure vs AWS TTPs You Need to Know | Yua Mikanana | [Read More](https://medium.com/p/b031b69dcac7) |
+| Sat, 15 Nov 2025 01:57:52 GMT | IPVanish review: Can it’s US-based be trusted in 2025? | Safelyo VPN | [Read More](https://medium.com/p/f1c408489b64) |
 | Sat, 15 Nov 2025 01:32:59 GMT | Riddle Registry Walkthrough— picoCTF | Jerome M. Lolong | [Read More](https://medium.com/p/d348ee7c6f2d) |
 | Sat, 15 Nov 2025 01:32:21 GMT | Men, Do You Know What Your Woman Really Wants? | Ophaly Kate | [Read More](https://medium.com/p/aa712e79ecd0) |
 | Sat, 15 Nov 2025 01:29:06 GMT | How to configure DNS settings on a router in 2 minutes | Safelyo Global | [Read More](https://medium.com/p/769f043de24a) |
@@ -109,7 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 16:24:47 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: The Metasploit Framework CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/912d5b7e4c09) |
 | Fri, 14 Nov 2025 16:24:42 GMT | Top 30 AI Security Startups –2025 | Tal Eliyahu | [Read More](https://medium.com/p/05847ac90747) |
 | Fri, 14 Nov 2025 16:24:31 GMT | Security and Performance Aspects of Filesystem Optimization | Linux Guide | [Read More](https://medium.com/p/3a2e5f20a5d1) |
-| Fri, 14 Nov 2025 16:21:45 GMT | Pickle Rick TryHackMe Writeup | Benedict Agno | [Read More](https://medium.com/p/e7039ecb3711) |
-| Fri, 14 Nov 2025 16:21:39 GMT | The Hidden Cost of Compromised Accounts And Why Your Private Messages Aren’t As Private As You… | Hitesh Said | [Read More](https://medium.com/p/34472173cd23) |
-| Fri, 14 Nov 2025 16:14:15 GMT | Advanced Seccomp Filters Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/c027f5f62ecc) |
-| Fri, 14 Nov 2025 16:11:28 GMT | New ClickFix Attack Targeting Windows and macOS Users to Deploy Infostealer Malware | Technijian | [Read More](https://medium.com/p/4086172bd737) |
