@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 04:18:31 GMT | Cyber-Secure, Future-Ready IT Solutions For Australian Businesses | Elevate | [Read More](https://medium.com/p/f1af415a9d3e) |
+| Sat, 15 Nov 2025 04:16:22 GMT | Why Securing Agents Demands a Different Playbook | Julian B | [Read More](https://medium.com/p/5702dc0ae216) |
+| Sat, 15 Nov 2025 04:03:59 GMT | ️ Defense in Depth: The Multi-Layer Shield Every Server Needs | Geeky Vartika | [Read More](https://medium.com/p/cbea0a3d5d55) |
+| Sat, 15 Nov 2025 04:01:59 GMT | Can Golden Dome Stop Nukes and Hypersonics? | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/682ecf8e8ace) |
+| Sat, 15 Nov 2025 03:49:45 GMT | Protegendo a Chave da CA Raiz com HashiCorp Vault Transit | Cleiton Hoffmann | [Read More](https://medium.com/p/f4cd1a29c701) |
 | Sat, 15 Nov 2025 03:32:53 GMT | FLUFFY (HACKTHEBOX) WALKTHROUGH | SilentExploit | [Read More](https://medium.com/p/eeab539e10f5) |
 | Sat, 15 Nov 2025 03:32:06 GMT | How WhatsApp and Messenger Are Quietly Reinventing Scam Protection | Deven Chhajed | [Read More](https://medium.com/p/b44712e77b85) |
 | Sat, 15 Nov 2025 03:19:15 GMT | How One Runaway Process Can Crash Your Entire Linux System — And How to Stop It | Sukanthi R | [Read More](https://medium.com/p/b6a51f1fedaa) |
@@ -108,8 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 17:44:04 GMT | The Unseen Spill: 7 simple ways data is left exposed in Financial Institutions | Sonareon | [Read More](https://medium.com/p/14e8260fcfe4) |
 | Fri, 14 Nov 2025 17:38:20 GMT | 20 Must-Have Features in a Food Delivery App | Startup Consultant | [Read More](https://medium.com/p/cdc207e90e0b) |
 | Fri, 14 Nov 2025 17:22:29 GMT | When My Epson Printer Decided to Fight Ubuntu (Again) | Jishnu J P | [Read More](https://medium.com/p/3e6695368a62) |
-| Fri, 14 Nov 2025 16:58:11 GMT | The 10-Second Test That Exposed Everything | Pinki Singh | [Read More](https://medium.com/p/c34e0a31fba9) |
-| Fri, 14 Nov 2025 16:53:43 GMT | Becoming Who We Are Meant to Be: The Final Door Toward a Deeper Happiness | Habil Lokadjaja CFP | [Read More](https://medium.com/p/bc1ac1e44e74) |
-| Fri, 14 Nov 2025 16:50:56 GMT | The First AI-Orchestrated Cyber Espionage Campaign: What GTG-1002 Means for Enterprise Security | Pawel | [Read More](https://medium.com/p/b82f32b7c7a7) |
-| Fri, 14 Nov 2025 16:46:37 GMT | ️ The Ultimate 2025 Spring Boot API Security Blueprint: Rate Limiting, Anti-Replay & Signature… | Karuna | [Read More](https://medium.com/p/356fb09b30ee) |
-| Fri, 14 Nov 2025 16:35:53 GMT | What Is WMI in Cybersecurity? A Simple Beginner-Friendly Explanation | Natarajan C K | [Read More](https://medium.com/p/eac2cf12774f) |
