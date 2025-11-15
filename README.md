@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 15:33:02 GMT | Cybersecurity Awareness Best Practices for Remote Workers | Compciti | [Read More](https://medium.com/p/4db31b161c97) |
+| Sat, 15 Nov 2025 15:31:30 GMT | How Ransomware Works: Anatomy of an Attack | Tech & Earn | [Read More](https://medium.com/p/be3160e219dc) |
+| Sat, 15 Nov 2025 15:23:00 GMT | From Curiosity to Caution: My Journey into Network Security Awareness | Mubashir | [Read More](https://medium.com/p/686841d64f02) |
+| Sat, 15 Nov 2025 15:18:20 GMT | Don’t Get Exploited: Patch Your Boundaries | Vijay Kumar Gupta | [Read More](https://medium.com/p/f2f3dffd1ba9) |
+| Sat, 15 Nov 2025 15:12:45 GMT | The Economic Fallout of Cyber Attacks: Why the World Keeps Paying the Same Ransom | Abatis ABTU | [Read More](https://medium.com/p/81bba3ed5c1e) |
 | Sat, 15 Nov 2025 15:12:24 GMT | Outbound Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/863b6abf9f3f) |
 | Sat, 15 Nov 2025 15:02:58 GMT | Outbound HTB Write-up | Pr3ach3r | [Read More](https://medium.com/p/690ff54f5277) |
 | Sat, 15 Nov 2025 14:46:26 GMT | Unlock Your Networking Potential — for Free | Mohammed Hegaz | [Read More](https://medium.com/p/5536767cad20) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 08:17:08 GMT | Top Career Opportunities in Digital Cyber Forensics for Freshers | cyber security Updates | [Read More](https://medium.com/p/98a54b1a1cd2) |
 | Sat, 15 Nov 2025 08:10:06 GMT | Shell Scripting for People Who Don’t Think They’re Programmers | Fateyaly | [Read More](https://medium.com/p/cb5b0dc7fbae) |
 | Sat, 15 Nov 2025 08:09:24 GMT | Complete Penetration Testing Guide: 9 Critical Phases Every Security Professional Must Master | Dhanush N | [Read More](https://medium.com/p/f5b944bf4d5d) |
-| Sat, 15 Nov 2025 07:52:03 GMT | Choosing the Right IAM Solution: A Practical Guide to Identity Management Platforms | Svn | [Read More](https://medium.com/p/71653d361453) |
-| Sat, 15 Nov 2025 07:45:49 GMT | Your Complete Guide to Strong Password Security | Rahul Sharma | [Read More](https://medium.com/p/5138e09a3b66) |
-| Sat, 15 Nov 2025 07:45:17 GMT | CSRF & CORS in Modern APIs: Browser Drama That Adds Zero Security | Craftsman | [Read More](https://medium.com/p/4cda9494488f) |
-| Sat, 15 Nov 2025 07:41:37 GMT | Google’s “Big Sleep”: How AI Is Transforming Cybersecurity in 2025 | Staunch | [Read More](https://medium.com/p/5ccc010265d4) |
-| Sat, 15 Nov 2025 07:36:37 GMT | Grandoreiro: Inside the Return of a Notorious Banking Trojan | Himanshu Bhatt | [Read More](https://medium.com/p/487dd9a4a39a) |
