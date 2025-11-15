@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 05:23:22 GMT | VANHELSING RANSOMWARE | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/c350c3991579) |
+| Sat, 15 Nov 2025 05:23:02 GMT | When AI Became a Hacker: My Perspective on the First AI-Orchestrated Cyber Espionage Campaign | Seneth Lakshan | [Read More](https://medium.com/p/29c107e5706b) |
+| Sat, 15 Nov 2025 05:21:44 GMT | LETSDEFEND — SOC140: Phishing Mail Detected (Event ID 82) | Soumodeep Das | [Read More](https://medium.com/p/dc88e1134d7e) |
+| Sat, 15 Nov 2025 05:18:54 GMT | Security for Modern Platforms: Why OWASP ZAP Should Be in Every Developer’s Toolkit | PAING SOE KHANT - | [Read More](https://medium.com/p/facdaf7b6919) |
 | Sat, 15 Nov 2025 05:16:36 GMT | What is Cyber Security? The Different Types of Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/53527aec29a0) |
 | Sat, 15 Nov 2025 05:07:28 GMT | Enhance Cyber Security Expertise with a Globally Recognized Master of Science | Edglobalacademy | [Read More](https://medium.com/p/a2250a441237) |
 | Sat, 15 Nov 2025 05:03:57 GMT | Credential Optics ≠ Institutional Access: Competence is Authored, Not Conferred | Narnaiezzsshaa Truong | [Read More](https://medium.com/p/a04b86c02b74) |
@@ -109,7 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 18:21:11 GMT | Cybersecurity News Review — Week 46 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/3318548b631a) |
 | Fri, 14 Nov 2025 18:21:03 GMT | No more credentials with Snowflake Storage Integration | Fabien Monnery | [Read More](https://medium.com/p/ec1a1f6de49f) |
 | Fri, 14 Nov 2025 18:19:23 GMT | CYBERSECURITY INTERNSHIP | Adeleke Theophilus O | [Read More](https://medium.com/p/2c5aaf33f859) |
-| Fri, 14 Nov 2025 18:18:24 GMT | 10 Mistakes AI SaaS Startups Make With Data Privacy | Hamza Rahmoun | [Read More](https://medium.com/p/fe42d990b4c5) |
-| Fri, 14 Nov 2025 18:16:19 GMT | The Silent ATO | Omar Mahmoud | [Read More](https://medium.com/p/238edcda6dd0) |
-| Fri, 14 Nov 2025 18:07:00 GMT | Business logic lead to Permanently Locked Any Email Out of Their Account | 0xbug | [Read More](https://medium.com/p/c6077f2cee59) |
-| Fri, 14 Nov 2025 18:05:04 GMT | The Magic T-Shirt That Hides You From AI — But Only From Half the System | Berend Watchus | [Read More](https://medium.com/p/c3ab8028b7ad) |
