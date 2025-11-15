@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 12:29:56 GMT | The Future of Data Centre Security Starts in Qatar & GCC | Tekhabeeb | [Read More](https://medium.com/p/9b0cd13c84a7) |
+| Sat, 15 Nov 2025 12:19:54 GMT | How to Test for IDOR: The Practical Methodology | z0h3 | [Read More](https://medium.com/p/fec3688febfb) |
+| Sat, 15 Nov 2025 12:04:35 GMT | The Agent is Inside the House: Why EDR Can’t Stop the “Insider Threat” You Invited In | Matan Yemini | [Read More](https://medium.com/p/f642d17b5111) |
+| Sat, 15 Nov 2025 12:02:27 GMT | The Cyber Signal We Keep Ignoring | Angus Peterson | [Read More](https://medium.com/p/db64bcd859b9) |
+| Sat, 15 Nov 2025 12:01:18 GMT | Today’s Top Cyber Intelligence Highlights — Nov 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/540a2aa0101e) |
+| Sat, 15 Nov 2025 11:59:01 GMT | Hack The Box — Imagery: A Complete Walkthrough | Oussama Djelloul | [Read More](https://medium.com/p/ec6fdb5bd814) |
+| Sat, 15 Nov 2025 11:57:03 GMT | CyberDefenders FalconEye Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/5e38e9eaf398) |
+| Sat, 15 Nov 2025 11:54:14 GMT | Tunnels Are Plumbing. Logs Are Proof. | Rubab Fatima | [Read More](https://medium.com/p/8fe516c7da36) |
+| Sat, 15 Nov 2025 11:52:01 GMT | AI as the New Operator: Inside the First AI-Orchestrated Cyber Espionage Campaign | Emre Karatas | [Read More](https://medium.com/p/bdedffc6ed51) |
+| Sat, 15 Nov 2025 11:49:21 GMT | Your Data Is Everywhere: The Origin of Data Leaks | nullorx | [Read More](https://medium.com/p/739dc8ae6bc1) |
+| Sat, 15 Nov 2025 11:48:33 GMT | How Infinix New Phone Makes Gaming Smooth and Lag-Free? | Isabella Brown | [Read More](https://medium.com/p/f1e33b9afb19) |
+| Sat, 15 Nov 2025 11:45:34 GMT | Why Vivo V15 Pro Battery Life Still Impresses Heavy Users? | Ella Walker | [Read More](https://medium.com/p/ad9f1aeae5af) |
+| Sat, 15 Nov 2025 11:38:53 GMT | Why Vivo Mobile Phone Is the Best Choice for Gaming Under Budget? | Zara Everly | [Read More](https://medium.com/p/0aa84be5ac7e) |
+| Sat, 15 Nov 2025 11:34:23 GMT | Which Infinix New Phone Offers the Longest Battery Life Right Now? | Pimrada Thavorn | [Read More](https://medium.com/p/04f76c220253) |
 | Sat, 15 Nov 2025 11:33:57 GMT | Behave Like an ATP: Get that Data. | nullorx | [Read More](https://medium.com/p/701b1a7b3898) |
 | Sat, 15 Nov 2025 11:30:10 GMT | [televerse_shadow_tag] — [Digital Forensics] — [CUET CTF 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/9dd2cea4cb37) |
 | Sat, 15 Nov 2025 11:25:19 GMT | Understanding Credential Replay Attacks in Windows Using Crackmapexec | Ammar Ahmed | [Read More](https://medium.com/p/c13fa0ee8307) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 04:57:45 GMT | The First AI Orchestrated Cyberattack and the Road We Chose Not to See | Basil C. Puglisi | [Read More](https://medium.com/p/54087393a22a) |
 | Sat, 15 Nov 2025 04:52:29 GMT | Security — Valet Key | Udayan Sawant | [Read More](https://medium.com/p/c4b20c865816) |
 | Sat, 15 Nov 2025 04:48:04 GMT | How I Got a Letter of Recognition from NASA (And How You Can Too) | Philip Garabandic | [Read More](https://medium.com/p/006f1b4c2649) |
-| Sat, 15 Nov 2025 04:40:15 GMT | The Truth About the 2026 Cybersecurity Job Market — You’re Not Ready | Taimur Ijlal | [Read More](https://medium.com/p/83df0966a7b8) |
-| Sat, 15 Nov 2025 04:31:17 GMT | Modern Django 6.0 Async Security Guide (OWASP 2025) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/99bef2964ca0) |
-| Sat, 15 Nov 2025 04:21:56 GMT | Top Skills You Need to Become a Successful CISM Professional | Dhanashri Bhale | [Read More](https://medium.com/p/bbd7f33c1056) |
-| Sat, 15 Nov 2025 04:18:31 GMT | Cyber-Secure, Future-Ready IT Solutions For Australian Businesses | Elevate | [Read More](https://medium.com/p/f1af415a9d3e) |
-| Sat, 15 Nov 2025 04:16:22 GMT | Why Securing Agents Demands a Different Playbook | Julian B | [Read More](https://medium.com/p/5702dc0ae216) |
-| Sat, 15 Nov 2025 04:03:59 GMT | ️ Defense in Depth: The Multi-Layer Shield Every Server Needs | Geeky Vartika | [Read More](https://medium.com/p/cbea0a3d5d55) |
-| Sat, 15 Nov 2025 04:01:59 GMT | Can Golden Dome Stop Nukes and Hypersonics? | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/682ecf8e8ace) |
-| Sat, 15 Nov 2025 03:49:45 GMT | Protegendo a Chave da CA Raiz com HashiCorp Vault Transit | Cleiton Hoffmann | [Read More](https://medium.com/p/f4cd1a29c701) |
-| Sat, 15 Nov 2025 03:32:53 GMT | FLUFFY (HACKTHEBOX) WALKTHROUGH | SilentExploit | [Read More](https://medium.com/p/eeab539e10f5) |
-| Sat, 15 Nov 2025 03:32:06 GMT | How WhatsApp and Messenger Are Quietly Reinventing Scam Protection | Deven Chhajed | [Read More](https://medium.com/p/b44712e77b85) |
-| Sat, 15 Nov 2025 03:19:15 GMT | How One Runaway Process Can Crash Your Entire Linux System — And How to Stop It | Sukanthi R | [Read More](https://medium.com/p/b6a51f1fedaa) |
-| Sat, 15 Nov 2025 03:11:12 GMT | I will write IT resume, technical resume, software engineering, linkedin optimization | Bettymatt | [Read More](https://medium.com/p/e71b2ebfcfd8) |
-| Sat, 15 Nov 2025 03:00:03 GMT | Attacking Active Directory for Noobs: User Enumeration | Zach K | [Read More](https://medium.com/p/4476378829d7) |
-| Sat, 15 Nov 2025 02:07:23 GMT | Here’s how I recover my money from DmmBitcoin | Margaret | [Read More](https://medium.com/p/778f8c9a3db4) |
