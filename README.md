@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 22:16:10 GMT | Building a Cybersecurity Home Lab — Part 3.1: Configuring Networking with pfSense | JBXSec | [Read More](https://medium.com/p/ee5decba8f47) |
+| Sat, 15 Nov 2025 22:04:05 GMT | China Just Let AI Hack 30 Companies on Its Own, And It Worked | The Bilalverse | [Read More](https://medium.com/p/1733d5df3756) |
+| Sat, 15 Nov 2025 21:48:18 GMT | Reconnaissance - Open Source Intelligence- Ethical Hacking | Aj | [Read More](https://medium.com/p/e2cd1a6cb651) |
+| Sat, 15 Nov 2025 21:47:55 GMT | Harnessing OSINT: Empowering Personal Defense and Everyday Decision-Making | Officer's Notes | [Read More](https://medium.com/p/d033948fe567) |
+| Sat, 15 Nov 2025 21:47:45 GMT | The Vital Role of OpSec in Everyday Life: Building Your Digital and Physical Fortress | Officer's Notes | [Read More](https://medium.com/p/9f972ae0f276) |
+| Sat, 15 Nov 2025 21:33:36 GMT | Control your notes with AI (FREE) | ZeakPeak | [Read More](https://medium.com/p/f177f6b987c7) |
 | Sat, 15 Nov 2025 21:21:21 GMT | TRYHACKME: LOOKUP | Stephen Alumasa | [Read More](https://medium.com/p/5692bd4cc707) |
 | Sat, 15 Nov 2025 21:16:39 GMT | I Built a Simple Script That Found Hidden Race Conditions | Ibtissam | [Read More](https://medium.com/p/2a4c6366671c) |
 | Sat, 15 Nov 2025 21:15:49 GMT | How to Easily Start in Cybersecurity: A Complete Beginner’s Roadmap | Anthonymatta | [Read More](https://medium.com/p/d3a950e6560d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 13:37:24 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/76a0f38cc744) |
 | Sat, 15 Nov 2025 13:33:34 GMT | Is BSNL Being Quietly Phased Out? | Maithilee Singh | [Read More](https://medium.com/p/554fc3931422) |
 | Sat, 15 Nov 2025 13:31:30 GMT | DockerLabs Writeup — Psycho (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d2f0b5626b04) |
-| Sat, 15 Nov 2025 13:19:57 GMT | WarGames Reloaded: When AI Became the Hacker | Lakshmi narayana .U | [Read More](https://medium.com/p/6eb18c1db164) |
-| Sat, 15 Nov 2025 13:13:40 GMT | HTB: CAP Machine Walkthrough | Isha Sangpal | [Read More](https://medium.com/p/bea6403e4690) |
-| Sat, 15 Nov 2025 13:02:56 GMT | Stop Drowning in ‘Critical’ Alerts | Jialei Q. | [Read More](https://medium.com/p/13b19aba84e4) |
-| Sat, 15 Nov 2025 13:02:13 GMT | Remote Work & Cybersecurity: Protecting the Digital Workplace | Oliver H Blake | [Read More](https://medium.com/p/82ed1efd05da) |
-| Sat, 15 Nov 2025 13:00:52 GMT | New Bug Hunters: This Is How You Land a Critical Find | Rehan Sohail | [Read More](https://medium.com/p/eaaf71fae5f4) |
-| Sat, 15 Nov 2025 12:59:48 GMT | HackTheBox: Expressway Writeup | Rahaliashraf | [Read More](https://medium.com/p/b386c21cc780) |
