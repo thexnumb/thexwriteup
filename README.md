@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 06:28:09 GMT | Cyber Security Training -George College | Ritik | [Read More](https://medium.com/p/84bff952bfd5) |
 | Sat, 15 Nov 2025 06:06:44 GMT | Do You Really Need IT? Here’s What We Actually Do | CodeZen | [Read More](https://medium.com/p/cb2ab0c2e8ef) |
 | Sat, 15 Nov 2025 06:00:24 GMT | Launching “The First 100 Days of the New CISO: A Leadership Guide to Lasting Impact” | JC Gaillard | [Read More](https://medium.com/p/a66ea7b1e9ff) |
 | Sat, 15 Nov 2025 05:57:47 GMT | When Reading the Source Code Is the Real Hack: A Web Challenge Story - v1t CTF | Chetan Chinchulkar | [Read More](https://medium.com/p/b6adfcaa0fee) |
@@ -112,4 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 19:04:10 GMT | How an Exported Broadcast Receiver in Android Can Lead to Full Remote Control of Smart Home IoT… | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/f5aed0a7aff9) |
 | Fri, 14 Nov 2025 18:59:40 GMT | VPC Endpoint Service to the Rescue | Balaji Radhakrishnan | [Read More](https://medium.com/p/e66ff32ecc2a) |
 | Fri, 14 Nov 2025 18:52:48 GMT | Think Before You Charge: What You Need To Know About Juice Jacking | Umar Al-Mahfuz | [Read More](https://medium.com/p/2095dcf4ec88) |
-| Fri, 14 Nov 2025 18:45:37 GMT | Active Directory Nedir? Avantajları, Bileşenleri ve Özellikleri Nelerdir? | Aytuğ Çelikdönmez | [Read More](https://medium.com/p/6e31af8ce32b) |
