@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 09:02:01 GMT | Advanced Search Tips: url:yourdomain and Phone Identifiers | Alexandre Vandamme | [Read More](https://medium.com/p/769bca9b4eaf) |
+| Sat, 15 Nov 2025 08:56:28 GMT | Always Log Out: It’s Not Your Browser, It’s Your Session | Kunal Sinha | [Read More](https://medium.com/p/cf9cc16daa06) |
+| Sat, 15 Nov 2025 08:48:07 GMT | Log Hunt — picoCTF Writeups | Jerome Lolong | [Read More](https://medium.com/p/55e7b32c4605) |
+| Sat, 15 Nov 2025 08:43:31 GMT | Security Control Categories: Stirrin’ Up the Basics (A Gumbo Tale) | the CyberStoic | [Read More](https://medium.com/p/b2573f732e78) |
+| Sat, 15 Nov 2025 08:36:55 GMT | The Message You Should Never Open | Deepak Sharma | [Read More](https://medium.com/p/a7637b82da0c) |
 | Sat, 15 Nov 2025 08:34:01 GMT | How Hackers Abuse Error Pages for Recon: Step-by-Step Guide for Pentesters & Bug Bounty Pros | Very Lazy Tech | [Read More](https://medium.com/p/cbe013b89f70) |
 | Sat, 15 Nov 2025 08:33:02 GMT | The Things We Never Say Out Loud | Unknown | [Read More](https://medium.com/p/9bae1296d236) |
 | Sat, 15 Nov 2025 08:27:43 GMT | NymVPN: Outsmarting Authoritarian Censorship with Mixnets | S. M. Abdullah | [Read More](https://medium.com/p/088af7447c02) |
@@ -108,8 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 22:11:10 GMT | CodeTwo CTF Walkthrough | Lol.spades | [Read More](https://medium.com/p/60fdd422a400) |
 | Fri, 14 Nov 2025 21:55:46 GMT | Strategic Cloud Scaling: Balancing Growth with Cost Governance | Modncv | [Read More](https://medium.com/p/bce838ad6f82) |
 | Fri, 14 Nov 2025 21:44:40 GMT | ️‍♂️ Threat Simulation with Splunk Enterprise Security — Reconnaissance | Julian Smith | [Read More](https://medium.com/p/7f28d3499124) |
-| Fri, 14 Nov 2025 21:39:04 GMT | Lessons in Vulnerability, Communication, and Letting Go of Control | Edrika Gutierrez | [Read More](https://medium.com/p/a9c05ad1d2f0) |
-| Fri, 14 Nov 2025 21:38:53 GMT | The Importance of Updating Your Software and Devices | Samina Perveen | [Read More](https://medium.com/p/5d394016d8ab) |
-| Fri, 14 Nov 2025 21:36:15 GMT | How Data-Driven Security Improves Risk Decision-Making | Madhava Sai Kolluri | [Read More](https://medium.com/p/73703ae277ea) |
-| Fri, 14 Nov 2025 21:30:42 GMT | Docker Üzerine Grafana Loki Kurulumu (Windows) | Volkan Yılmaz | [Read More](https://medium.com/p/89017de3c40c) |
-| Fri, 14 Nov 2025 21:28:47 GMT | How to Prepare Ourself for Job Interviews in the AI Era | Simran | [Read More](https://medium.com/p/82fd3502c384) |
