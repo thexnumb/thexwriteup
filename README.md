@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 20:35:57 GMT | A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience | Erkan Kavas | [Read More](https://medium.com/p/1882f3dfd1b5) |
+| Sat, 15 Nov 2025 20:16:36 GMT | Galois field (or finite field) theory for cryptography. | SachaWos | [Read More](https://medium.com/p/bb16a9182c90) |
+| Sat, 15 Nov 2025 20:13:48 GMT | Claude on National Insecurity Policy | Kevin O'Shaughnessy | [Read More](https://medium.com/p/aee5cfc9e3cb) |
 | Sat, 15 Nov 2025 20:05:55 GMT | Exposing North Korea’s Stealthiest Trap 2025 | O. J. Okpabi | [Read More](https://medium.com/p/8116403d120c) |
 | Sat, 15 Nov 2025 19:56:24 GMT | How Hidden Communities Form on the Darkweb | Tor BBB | [Read More](https://medium.com/p/9b2f043bda3c) |
 | Sat, 15 Nov 2025 19:55:06 GMT | I Almost Lost My Apple Account to the Most Sophisticated Phishing Attack I’ve Ever Seen | Eric Moret | [Read More](https://medium.com/p/cff92a470950) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 12:43:03 GMT | AI and Data Science Classes: A Complete Guide for Students and Beginners | Sivarao AI | [Read More](https://medium.com/p/517f52b74af7) |
 | Sat, 15 Nov 2025 12:29:56 GMT | The Future of Data Centre Security Starts in Qatar & GCC | Tekhabeeb | [Read More](https://medium.com/p/9b0cd13c84a7) |
 | Sat, 15 Nov 2025 12:19:54 GMT | How to Test for IDOR: The Practical Methodology | z0h3 | [Read More](https://medium.com/p/fec3688febfb) |
-| Sat, 15 Nov 2025 12:04:35 GMT | The Agent is Inside the House: Why EDR Can’t Stop the “Insider Threat” You Invited In | Matan Yemini | [Read More](https://medium.com/p/f642d17b5111) |
-| Sat, 15 Nov 2025 12:02:27 GMT | The Cyber Signal We Keep Ignoring | Angus Peterson | [Read More](https://medium.com/p/db64bcd859b9) |
-| Sat, 15 Nov 2025 12:01:18 GMT | Today’s Top Cyber Intelligence Highlights — Nov 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/540a2aa0101e) |
