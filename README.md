@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 09:29:26 GMT | The Quantum Curtain Is Falling — And the World Is Not Ready | Shahjahan Khan | [Read More](https://medium.com/p/5d633a2e58a1) |
+| Sat, 15 Nov 2025 09:19:25 GMT | The Ethics of Hacking: Where Do We Draw the Line? | Shayoni Jahan | [Read More](https://medium.com/p/20675e92ca71) |
+| Sat, 15 Nov 2025 09:18:38 GMT | Understanding SSH Host Key Verification Strategies | ADESH BODE | [Read More](https://medium.com/p/85777cc36675) |
+| Sat, 15 Nov 2025 09:14:35 GMT | Exploring Sysdig Falco: A Hands-On Review of Runtime Security and Network Forensics | Anderson Santos | [Read More](https://medium.com/p/58a614a1a2a0) |
 | Sat, 15 Nov 2025 09:02:01 GMT | Advanced Search Tips: url:yourdomain and Phone Identifiers | Alexandre Vandamme | [Read More](https://medium.com/p/769bca9b4eaf) |
 | Sat, 15 Nov 2025 08:56:28 GMT | Always Log Out: It’s Not Your Browser, It’s Your Session | Kunal Sinha | [Read More](https://medium.com/p/cf9cc16daa06) |
 | Sat, 15 Nov 2025 08:48:07 GMT | Log Hunt — picoCTF Writeups | Jerome Lolong | [Read More](https://medium.com/p/55e7b32c4605) |
@@ -109,7 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 22:26:53 GMT | Maximum Courage challenge write up | -_ENIGMA_- | [Read More](https://medium.com/p/86b5256225ea) |
 | Fri, 14 Nov 2025 22:26:32 GMT | CyberLens Write-up | Tanuik Kendrick | [Read More](https://medium.com/p/a4d3c85442f0) |
 | Fri, 14 Nov 2025 22:23:51 GMT | Kirrel3: The Chaotic Editor of Your Mind | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/45462b148479) |
-| Fri, 14 Nov 2025 22:16:56 GMT | [Cat’s_Hidden_Scratch] — [Digital Forensics] — [CUET CTF 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/0967a4afb567) |
-| Fri, 14 Nov 2025 22:11:10 GMT | CodeTwo CTF Walkthrough | Lol.spades | [Read More](https://medium.com/p/60fdd422a400) |
-| Fri, 14 Nov 2025 21:55:46 GMT | Strategic Cloud Scaling: Balancing Growth with Cost Governance | Modncv | [Read More](https://medium.com/p/bce838ad6f82) |
-| Fri, 14 Nov 2025 21:44:40 GMT | ️‍♂️ Threat Simulation with Splunk Enterprise Security — Reconnaissance | Julian Smith | [Read More](https://medium.com/p/7f28d3499124) |
