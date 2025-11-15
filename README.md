@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 08:19:21 GMT | Global Talent Shortage Crisis: A Strategy to Recruit & Retain Cybersecurity Professionals | Vedha Mahadevan | [Read More](https://medium.com/p/fd43a4ffcb51) |
+| Sat, 15 Nov 2025 08:17:08 GMT | Top Career Opportunities in Digital Cyber Forensics for Freshers | cyber security Updates | [Read More](https://medium.com/p/98a54b1a1cd2) |
+| Sat, 15 Nov 2025 08:10:06 GMT | Shell Scripting for People Who Don’t Think They’re Programmers | Fateyaly | [Read More](https://medium.com/p/cb5b0dc7fbae) |
+| Sat, 15 Nov 2025 08:09:24 GMT | Complete Penetration Testing Guide: 9 Critical Phases Every Security Professional Must Master | Dhanush N | [Read More](https://medium.com/p/f5b944bf4d5d) |
+| Sat, 15 Nov 2025 07:52:03 GMT | Choosing the Right IAM Solution: A Practical Guide to Identity Management Platforms | Svn | [Read More](https://medium.com/p/71653d361453) |
+| Sat, 15 Nov 2025 07:45:49 GMT | Your Complete Guide to Strong Password Security | Rahul Sharma | [Read More](https://medium.com/p/5138e09a3b66) |
+| Sat, 15 Nov 2025 07:45:17 GMT | CSRF & CORS in Modern APIs: Browser Drama That Adds Zero Security | Craftsman | [Read More](https://medium.com/p/4cda9494488f) |
+| Sat, 15 Nov 2025 07:41:37 GMT | Google’s “Big Sleep”: How AI Is Transforming Cybersecurity in 2025 | Staunch | [Read More](https://medium.com/p/5ccc010265d4) |
+| Sat, 15 Nov 2025 07:36:37 GMT | Grandoreiro: Inside the Return of a Notorious Banking Trojan | Himanshu Bhatt | [Read More](https://medium.com/p/487dd9a4a39a) |
+| Sat, 15 Nov 2025 07:34:20 GMT | Where Do We Go When We Have Nowhere to Cry? | Saumya Dubey | [Read More](https://medium.com/p/f14e82837c6f) |
+| Sat, 15 Nov 2025 07:31:57 GMT | OWASP Top 10 2025 What You Need To Know as a Security Engineer or Hacker | Aditya Pidurkar | [Read More](https://medium.com/p/70f075c5b284) |
 | Sat, 15 Nov 2025 07:25:15 GMT | Setup Environment Android untuk Mobile Pentest : Emulator, ADB, dan Burp Suite (Step-by-Step) | Aria Dimas Mastur | [Read More](https://medium.com/p/00d709a559a9) |
 | Sat, 15 Nov 2025 07:22:58 GMT | How Chinese Hackers Are Using Anthropic’s AI for Cyberespionage: The 2025 Wake-Up Call | Varun Chopra | [Read More](https://medium.com/p/b0b12a71121d) |
 | Sat, 15 Nov 2025 07:19:46 GMT | Why Your AI-Built App Probably Isn’t Secure | NullCoin | [Read More](https://medium.com/p/6609a215bbed) |
@@ -102,14 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 21:08:09 GMT | Meliodas Stealer Malware | Vaibhav Kanada | [Read More](https://medium.com/p/c3f0ff63e587) |
 | Fri, 14 Nov 2025 20:44:05 GMT | AI for Security Operations: The Ultimate Guide to Smarter, Automated Threat Response | CodeToKloud | [Read More](https://medium.com/p/a8a134c24e37) |
 | Fri, 14 Nov 2025 20:43:35 GMT | Grotesque 1 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c6958332d656) |
-| Fri, 14 Nov 2025 20:35:01 GMT | The $100,000 Token: How a ChatGPT Flaw Exposed Azure and Why Your Cloud Identity is Next | IT_Engineer | [Read More](https://medium.com/p/91b9de02506e) |
-| Fri, 14 Nov 2025 20:31:05 GMT | Merhaba Medium! Yeni Bir Yolculuğun İlk Adımı | Abdullah HANÇERLİ | [Read More](https://medium.com/p/b8b5abe00dce) |
-| Fri, 14 Nov 2025 20:29:24 GMT | SQL Injection: Listing Database Contents on Non-Oracle Databases | Aditya Bhatt | [Read More](https://medium.com/p/ff10335aa34b) |
-| Fri, 14 Nov 2025 20:26:08 GMT | Building a Cybersecurity Home Lab — Part 3: Building the Virtual Environment | JBXSec | [Read More](https://medium.com/p/94a1be61d376) |
-| Fri, 14 Nov 2025 20:25:50 GMT | Building a Cybersecurity Home Lab — Part 2: Setting Up Virtualization | JBXSec | [Read More](https://medium.com/p/cef8939cbda0) |
-| Fri, 14 Nov 2025 20:25:22 GMT | Building a Cybersecurity Home Lab — Part 1: Planning Your Infrastructure | JBXSec | [Read More](https://medium.com/p/1028a9205dd2) |
-| Fri, 14 Nov 2025 20:23:47 GMT | From Vulnerable to Bulletproof: A TCP Stack’s Security Transformation | Onionknight | [Read More](https://medium.com/p/ee357fce314a) |
-| Fri, 14 Nov 2025 20:21:44 GMT | Critical Vulnerability in v380 Cameras: How Plaintext Credentials Exposed Millions of Devices | Romaxa | [Read More](https://medium.com/p/17c89451889d) |
-| Fri, 14 Nov 2025 20:05:32 GMT | Authentication and Types | Pearl Rathour | [Read More](https://medium.com/p/cf14c18d0de8) |
-| Fri, 14 Nov 2025 19:50:55 GMT | What Cybersecurity Can Learn From Military Stress Management | Victoria | [Read More](https://medium.com/p/fff1ef747906) |
-| Fri, 14 Nov 2025 19:50:08 GMT | How FloFusion HubSpot Helped Us Boost Revenue and Streamline Patient Engagement | FloFusion | [Read More](https://medium.com/p/ef3273abab38) |
