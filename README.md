@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 07:08:39 GMT | Netcat Port Scanning Cheatsheet | Dhruv | [Read More](https://medium.com/p/572638f1dbd9) |
+| Sat, 15 Nov 2025 06:56:16 GMT | Sometimes, We Just Need Someone to Listen | human | [Read More](https://medium.com/p/dc41f7ce4374) |
+| Sat, 15 Nov 2025 06:55:59 GMT | Architecting Secure and Resilient Delivery Systems: A DevSecOps Perspective | Shramish Kafle | [Read More](https://medium.com/p/6306b3b7456e) |
+| Sat, 15 Nov 2025 06:52:45 GMT | Master the Art of Writing Better Cybersecurity Reports with AI: Step-by-Step Guide for Pros | Very Lazy Tech | [Read More](https://medium.com/p/e273b75389ae) |
+| Sat, 15 Nov 2025 06:50:23 GMT | “Session Fixation Zafiyeti: Flask ile Lab Çalışması ve Çözümü” | Türkü Durmuş | [Read More](https://medium.com/p/270df4e58d2a) |
+| Sat, 15 Nov 2025 06:49:51 GMT | ️ Home Router Security Audit & Hardening Project Type: Cybersecurity / Network Security… | Falah Rohmatuloh | [Read More](https://medium.com/p/e13c948755f3) |
+| Sat, 15 Nov 2025 06:49:32 GMT | The Hunger No One Sees | Daniel Gagarin | [Read More](https://medium.com/p/792cd2d618b1) |
+| Sat, 15 Nov 2025 06:44:22 GMT | INFILTRATION: The takedown of a phishing syndicate | Potech | [Read More](https://medium.com/p/560d80b0af4c) |
+| Sat, 15 Nov 2025 06:44:00 GMT | The End of Passwords: How Sirraya Labs Is Rewriting Digital Identity | Aamir Hameed | [Read More](https://medium.com/p/e0ad9ef46405) |
+| Sat, 15 Nov 2025 06:42:09 GMT | Become an Ethical Hacker and Cyber Security Specialist with Hackersprey Cybersecurity Courses. | HackersPrey | [Read More](https://medium.com/p/4305321e1a67) |
 | Sat, 15 Nov 2025 06:28:09 GMT | Cyber Security Training -George College | Ritik | [Read More](https://medium.com/p/84bff952bfd5) |
 | Sat, 15 Nov 2025 06:06:44 GMT | Do You Really Need IT? Here’s What We Actually Do | CodeZen | [Read More](https://medium.com/p/cb2ab0c2e8ef) |
 | Sat, 15 Nov 2025 06:00:24 GMT | Launching “The First 100 Days of the New CISO: A Leadership Guide to Lasting Impact” | JC Gaillard | [Read More](https://medium.com/p/a66ea7b1e9ff) |
@@ -103,13 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 19:32:15 GMT | The Global Gray Zone Power Crisis No One Is Talking About | Drew C | [Read More](https://medium.com/p/d398b61c2a4e) |
 | Fri, 14 Nov 2025 19:32:09 GMT | macOS Forensics: Structure, Persistence, and Investigation | Dean | [Read More](https://medium.com/p/7fa228e837af) |
 | Fri, 14 Nov 2025 19:21:29 GMT | SafeFeed Challenge Write-up | 3mksaad1600 | [Read More](https://medium.com/p/4b6300087b2f) |
-| Fri, 14 Nov 2025 19:21:12 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: Exploitation CTF 1 | Ninadkarkhanis | [Read More](https://medium.com/p/c10d1272c713) |
-| Fri, 14 Nov 2025 19:16:32 GMT | Critical Broken Access Control: Public Tokens Enable Sensitive Actions | Thomas Youssef | [Read More](https://medium.com/p/ada4a5dad40a) |
-| Fri, 14 Nov 2025 19:13:33 GMT | How to Get Hired in Cybersecurity in 2025 — The Complete Beginner’s Roadmap | The Daily Cyber News | [Read More](https://medium.com/p/5b03aa19b921) |
-| Fri, 14 Nov 2025 19:09:45 GMT | TryHackMe — CyberHeros Write‑up | Andrey.Web | [Read More](https://medium.com/p/13cf0474cdb6) |
-| Fri, 14 Nov 2025 19:08:56 GMT | How LLM Injection Attacks Are Shaping the Future of AI Security | Giulio Sistilli | [Read More](https://medium.com/p/937d802e6bfe) |
-| Fri, 14 Nov 2025 19:08:35 GMT | EKS Users, Read This: The SAP AI Core Hack Shows How One Pod Can Compromise Them All | Rahul Sharma | [Read More](https://medium.com/p/fcf08b79daf5) |
-| Fri, 14 Nov 2025 19:08:33 GMT | Stop Storing Sensitive Data Wrong: Master Android Keystore the Right way | Deepak jangra | [Read More](https://medium.com/p/7362af83394e) |
-| Fri, 14 Nov 2025 19:04:10 GMT | How an Exported Broadcast Receiver in Android Can Lead to Full Remote Control of Smart Home IoT… | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/f5aed0a7aff9) |
-| Fri, 14 Nov 2025 18:59:40 GMT | VPC Endpoint Service to the Rescue | Balaji Radhakrishnan | [Read More](https://medium.com/p/e66ff32ecc2a) |
-| Fri, 14 Nov 2025 18:52:48 GMT | Think Before You Charge: What You Need To Know About Juice Jacking | Umar Al-Mahfuz | [Read More](https://medium.com/p/2095dcf4ec88) |
