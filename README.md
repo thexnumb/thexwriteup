@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 08:34:01 GMT | How Hackers Abuse Error Pages for Recon: Step-by-Step Guide for Pentesters & Bug Bounty Pros | Very Lazy Tech | [Read More](https://medium.com/p/cbe013b89f70) |
+| Sat, 15 Nov 2025 08:33:02 GMT | The Things We Never Say Out Loud | Unknown | [Read More](https://medium.com/p/9bae1296d236) |
+| Sat, 15 Nov 2025 08:27:43 GMT | NymVPN: Outsmarting Authoritarian Censorship with Mixnets | S. M. Abdullah | [Read More](https://medium.com/p/088af7447c02) |
+| Sat, 15 Nov 2025 08:27:35 GMT | The First 10 Shell Tricks That Make You Look Like a Wizard | Fateyaly | [Read More](https://medium.com/p/6325a363b8ff) |
+| Sat, 15 Nov 2025 08:25:46 GMT | 5 Productivity Hacks I Use Every Day to Get More Done | KirtiBankarCBP | [Read More](https://medium.com/p/f1c8e8944bb7) |
+| Sat, 15 Nov 2025 08:23:16 GMT | LogQuest Windows Event Logs Forensic Challenge | Za1d | [Read More](https://medium.com/p/41ecc83c9dbc) |
 | Sat, 15 Nov 2025 08:19:21 GMT | Global Talent Shortage Crisis: A Strategy to Recruit & Retain Cybersecurity Professionals | Vedha Mahadevan | [Read More](https://medium.com/p/fd43a4ffcb51) |
 | Sat, 15 Nov 2025 08:17:08 GMT | Top Career Opportunities in Digital Cyber Forensics for Freshers | cyber security Updates | [Read More](https://medium.com/p/98a54b1a1cd2) |
 | Sat, 15 Nov 2025 08:10:06 GMT | Shell Scripting for People Who Don’t Think They’re Programmers | Fateyaly | [Read More](https://medium.com/p/cb5b0dc7fbae) |
@@ -107,9 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 21:36:15 GMT | How Data-Driven Security Improves Risk Decision-Making | Madhava Sai Kolluri | [Read More](https://medium.com/p/73703ae277ea) |
 | Fri, 14 Nov 2025 21:30:42 GMT | Docker Üzerine Grafana Loki Kurulumu (Windows) | Volkan Yılmaz | [Read More](https://medium.com/p/89017de3c40c) |
 | Fri, 14 Nov 2025 21:28:47 GMT | How to Prepare Ourself for Job Interviews in the AI Era | Simran | [Read More](https://medium.com/p/82fd3502c384) |
-| Fri, 14 Nov 2025 21:22:21 GMT | Anthropic’s Claude AI First Reported AI Orchestrated Cyber Espionage Campaign | Valdez Ladd | [Read More](https://medium.com/p/cd6dff6ddd8f) |
-| Fri, 14 Nov 2025 21:20:04 GMT | I Checked the Worst OpSec Practices So You Don’t Have To | Officer's Notes | [Read More](https://medium.com/p/59501825c50f) |
-| Fri, 14 Nov 2025 21:12:46 GMT | Event Logistics — A Complete Guide to Planning Smooth & Successful Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/9272cb51d41f) |
-| Fri, 14 Nov 2025 21:08:09 GMT | Meliodas Stealer Malware | Vaibhav Kanada | [Read More](https://medium.com/p/c3f0ff63e587) |
-| Fri, 14 Nov 2025 20:44:05 GMT | AI for Security Operations: The Ultimate Guide to Smarter, Automated Threat Response | CodeToKloud | [Read More](https://medium.com/p/a8a134c24e37) |
-| Fri, 14 Nov 2025 20:43:35 GMT | Grotesque 1 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c6958332d656) |
