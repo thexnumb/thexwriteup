@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 14:35:27 GMT | TryHackMe: Sunshine | Muhammad Alshlqany | [Read More](https://medium.com/p/6c559796691a) |
+| Sat, 15 Nov 2025 14:26:25 GMT | To Hack or Not to Hack: EDR vs. Antivirus — What’s the Real Difference? ️ | Furkanctiner | [Read More](https://medium.com/p/94be74ef88d0) |
+| Sat, 15 Nov 2025 14:23:07 GMT | PhantomCollect Architecture: Building a Stealth Data Collection Engine from Scratch | xsser01 | [Read More](https://medium.com/p/9e58560290b0) |
+| Sat, 15 Nov 2025 14:16:40 GMT | How to Reduce Up to 95% of Your Office Costs by Increasing Your Security — As a Gift | CacheGuard Technologies | [Read More](https://medium.com/p/e99a20017d00) |
 | Sat, 15 Nov 2025 14:15:08 GMT | DorkBounty: Supercharging Recon for Bug Bounty Hunters | Bytewreaker | [Read More](https://medium.com/p/68d985f9df9b) |
+| Sat, 15 Nov 2025 14:10:58 GMT | LLM Guardrails: 50+ Safety Layers Every AI Application Needs | Aayush Gid | [Read More](https://medium.com/p/fe9d037aafe1) |
 | Sat, 15 Nov 2025 14:09:01 GMT | RustyKey HackTheBox -TimeRoasting & RBCD & DACL & Protected Users | Mohamed Eletreby | [Read More](https://medium.com/p/6988365025d1) |
+| Sat, 15 Nov 2025 14:08:12 GMT | The Silent AUKUS Gap: Australian Boards Are Now Exposed on AI Risk – And Most Don’t Even Know It… | AXSAS | [Read More](https://medium.com/p/2ee9edc98c61) |
 | Sat, 15 Nov 2025 14:04:25 GMT | This was how the plate got broken | Deb | [Read More](https://medium.com/p/c0e6777a5268) |
 | Sat, 15 Nov 2025 14:03:04 GMT | Hack The Box Rastalabs Review: Everything You Need to Know Before Starting | Krishnakant Sharma | [Read More](https://medium.com/p/378ffe3cc5ff) |
 | Sat, 15 Nov 2025 14:01:59 GMT | How SentryPC Aligns with the Growing Demand for Digital Safety Solutions | Paul Meyer | [Read More](https://medium.com/p/21518c293772) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 07:22:58 GMT | How Chinese Hackers Are Using Anthropic’s AI for Cyberespionage: The 2025 Wake-Up Call | Varun Chopra | [Read More](https://medium.com/p/b0b12a71121d) |
 | Sat, 15 Nov 2025 07:19:46 GMT | Why Your AI-Built App Probably Isn’t Secure | NullCoin | [Read More](https://medium.com/p/6609a215bbed) |
 | Sat, 15 Nov 2025 07:18:47 GMT | Active Directory Nedir? Avantajları, Bileşenleri ve Özellikleri Nelerdir? | Aytuğ Çelikdönmez | [Read More](https://medium.com/p/10f9bf2c5a18) |
-| Sat, 15 Nov 2025 07:08:39 GMT | Netcat Port Scanning Cheatsheet | Dhruv | [Read More](https://medium.com/p/572638f1dbd9) |
-| Sat, 15 Nov 2025 06:56:16 GMT | Sometimes, We Just Need Someone to Listen | human | [Read More](https://medium.com/p/dc41f7ce4374) |
-| Sat, 15 Nov 2025 06:55:59 GMT | Architecting Secure and Resilient Delivery Systems: A DevSecOps Perspective | Shramish Kafle | [Read More](https://medium.com/p/6306b3b7456e) |
-| Sat, 15 Nov 2025 06:52:45 GMT | Master the Art of Writing Better Cybersecurity Reports with AI: Step-by-Step Guide for Pros | Very Lazy Tech | [Read More](https://medium.com/p/e273b75389ae) |
-| Sat, 15 Nov 2025 06:50:23 GMT | “Session Fixation Zafiyeti: Flask ile Lab Çalışması ve Çözümü” | Türkü Durmuş | [Read More](https://medium.com/p/270df4e58d2a) |
-| Sat, 15 Nov 2025 06:49:51 GMT | ️ Home Router Security Audit & Hardening Project Type: Cybersecurity / Network Security… | Falah Rohmatuloh | [Read More](https://medium.com/p/e13c948755f3) |
