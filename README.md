@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 06:06:44 GMT | Do You Really Need IT? Here’s What We Actually Do | CodeZen | [Read More](https://medium.com/p/cb2ab0c2e8ef) |
+| Sat, 15 Nov 2025 06:00:24 GMT | Launching “The First 100 Days of the New CISO: A Leadership Guide to Lasting Impact” | JC Gaillard | [Read More](https://medium.com/p/a66ea7b1e9ff) |
+| Sat, 15 Nov 2025 05:57:47 GMT | When Reading the Source Code Is the Real Hack: A Web Challenge Story - v1t CTF | Chetan Chinchulkar | [Read More](https://medium.com/p/b6adfcaa0fee) |
+| Sat, 15 Nov 2025 05:50:27 GMT | How Attackers Use OSINT to Gain Initial Access | Hacker Halt | [Read More](https://medium.com/p/1e3d8b34dcee) |
+| Sat, 15 Nov 2025 05:46:30 GMT | The AI Social Engineering Revolution — When Machines Master the Art of Deception | David SEHYEON Baek | [Read More](https://medium.com/p/29e9f1b9e6d4) |
+| Sat, 15 Nov 2025 05:45:17 GMT | How Artificial Intelligence Is Supercharging Ransomware and Cyber Destruction | David SEHYEON Baek | [Read More](https://medium.com/p/b025ba8f5106) |
+| Sat, 15 Nov 2025 05:43:40 GMT | How AI-Enhanced Cryptocurrency Mixers Fuel Global Crime | David SEHYEON Baek | [Read More](https://medium.com/p/150245991be0) |
+| Sat, 15 Nov 2025 05:35:28 GMT | A Mindset of Enhanced Security at Tekion | Tekion | [Read More](https://medium.com/p/42c43ad4b382) |
 | Sat, 15 Nov 2025 05:23:22 GMT | VANHELSING RANSOMWARE | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/c350c3991579) |
 | Sat, 15 Nov 2025 05:23:02 GMT | When AI Became a Hacker: My Perspective on the First AI-Orchestrated Cyber Espionage Campaign | Seneth Lakshan | [Read More](https://medium.com/p/29c107e5706b) |
 | Sat, 15 Nov 2025 05:21:44 GMT | LETSDEFEND — SOC140: Phishing Mail Detected (Event ID 82) | Soumodeep Das | [Read More](https://medium.com/p/dc88e1134d7e) |
@@ -105,11 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 18:59:40 GMT | VPC Endpoint Service to the Rescue | Balaji Radhakrishnan | [Read More](https://medium.com/p/e66ff32ecc2a) |
 | Fri, 14 Nov 2025 18:52:48 GMT | Think Before You Charge: What You Need To Know About Juice Jacking | Umar Al-Mahfuz | [Read More](https://medium.com/p/2095dcf4ec88) |
 | Fri, 14 Nov 2025 18:45:37 GMT | Active Directory Nedir? Avantajları, Bileşenleri ve Özellikleri Nelerdir? | Aytuğ Çelikdönmez | [Read More](https://medium.com/p/6e31af8ce32b) |
-| Fri, 14 Nov 2025 18:37:01 GMT | Hidden Role, Full Takeover: How an Invite API Let Me Become an Organization Owner | MegaTron | [Read More](https://medium.com/p/86c9e55298e4) |
-| Fri, 14 Nov 2025 18:32:09 GMT | The Art and Science of Jailbreaking LLMs: Unlocking the Boundaries of AI | Chiraggarg | [Read More](https://medium.com/p/2888abab748c) |
-| Fri, 14 Nov 2025 18:32:03 GMT | ️ How to Secure Your Backend from Common Attacks | Chami | [Read More](https://medium.com/p/5d038185da08) |
-| Fri, 14 Nov 2025 18:27:13 GMT | Reflected XSS → DVWA Walkthrough: Learn How User Input Can Trigger a Script Execution | Adwaith S | [Read More](https://medium.com/p/3c9f9f26962b) |
-| Fri, 14 Nov 2025 18:22:32 GMT | How to Build a Simple and Effective Cybersecurity Plan for Your Team | Cordula Boeck | [Read More](https://medium.com/p/1cfb792fbb76) |
-| Fri, 14 Nov 2025 18:21:11 GMT | Cybersecurity News Review — Week 46 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/3318548b631a) |
-| Fri, 14 Nov 2025 18:21:03 GMT | No more credentials with Snowflake Storage Integration | Fabien Monnery | [Read More](https://medium.com/p/ec1a1f6de49f) |
-| Fri, 14 Nov 2025 18:19:23 GMT | CYBERSECURITY INTERNSHIP | Adeleke Theophilus O | [Read More](https://medium.com/p/2c5aaf33f859) |
