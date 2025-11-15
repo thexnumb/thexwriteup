@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 22:26:11 GMT | HackTheBox CDSA Experience | DarkGlitch | [Read More](https://medium.com/p/dde710447e61) |
+| Sat, 15 Nov 2025 22:17:49 GMT | Building a Cybersecurity Home Lab — Part 3.2: Deploying and Configuring Windows VMs | JBXSec | [Read More](https://medium.com/p/fb3687b3b209) |
 | Sat, 15 Nov 2025 22:16:10 GMT | Building a Cybersecurity Home Lab — Part 3.1: Configuring Networking with pfSense | JBXSec | [Read More](https://medium.com/p/ee5decba8f47) |
+| Sat, 15 Nov 2025 22:13:52 GMT | OpenLit: The Unified Observability Layer for LLM Applications | vishal acharya | [Read More](https://medium.com/p/58cf43938691) |
+| Sat, 15 Nov 2025 22:12:49 GMT | case: Quantum Computing, Solving Problems That Don’t Exist | Berend Watchus | [Read More](https://medium.com/p/8891df0a23f4) |
+| Sat, 15 Nov 2025 22:12:20 GMT | Rethinking Your Security Career: Learning the Craft of AI Security Architecture | Arsh Riz | [Read More](https://medium.com/p/f8540d9e8069) |
 | Sat, 15 Nov 2025 22:04:05 GMT | China Just Let AI Hack 30 Companies on Its Own, And It Worked | The Bilalverse | [Read More](https://medium.com/p/1733d5df3756) |
 | Sat, 15 Nov 2025 21:48:18 GMT | Reconnaissance - Open Source Intelligence- Ethical Hacking | Aj | [Read More](https://medium.com/p/e2cd1a6cb651) |
 | Sat, 15 Nov 2025 21:47:55 GMT | Harnessing OSINT: Empowering Personal Defense and Everyday Decision-Making | Officer's Notes | [Read More](https://medium.com/p/d033948fe567) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 13:57:10 GMT | [HTB-WriteUp] Lame / SAMBA _ usermap_script | Cy3erS@up | [Read More](https://medium.com/p/4c120053e670) |
 | Sat, 15 Nov 2025 13:55:30 GMT | Blue Machine — TryHackMe Full Exploit Walkthrough | Vyshnav Vinod | [Read More](https://medium.com/p/402b38175074) |
 | Sat, 15 Nov 2025 13:53:56 GMT | Changing the Geometry of Cyber Defense | Lior Gd | [Read More](https://medium.com/p/e2f9110048fa) |
-| Sat, 15 Nov 2025 13:51:58 GMT | China Just Hacked America. With Their Own AI. | Derick David | [Read More](https://medium.com/p/82baa8ab7267) |
-| Sat, 15 Nov 2025 13:42:08 GMT | The Cybersecurity Engineer’s Complete Guide to CVEs: From Identification to Scoring | Santhosh Adiga U | [Read More](https://medium.com/p/a4e14fca0488) |
-| Sat, 15 Nov 2025 13:37:24 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/76a0f38cc744) |
-| Sat, 15 Nov 2025 13:33:34 GMT | Is BSNL Being Quietly Phased Out? | Maithilee Singh | [Read More](https://medium.com/p/554fc3931422) |
-| Sat, 15 Nov 2025 13:31:30 GMT | DockerLabs Writeup — Psycho (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d2f0b5626b04) |
