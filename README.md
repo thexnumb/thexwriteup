@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 16:21:31 GMT | Siber Güvenlikte Etik İlkeler | İbrahim Yiğit Çetin | [Read More](https://medium.com/p/97bc3930ae34) |
+| Sat, 15 Nov 2025 15:50:47 GMT | The Moment Everyone Missed | AXSAS | [Read More](https://medium.com/p/b302e0af0bc6) |
+| Sat, 15 Nov 2025 15:45:27 GMT | Ethical ux/ui design: prioritizing user privacy and security | Mochi | [Read More](https://medium.com/p/95915f84c8b1) |
+| Sat, 15 Nov 2025 15:40:35 GMT | Next in AI: Issue | Sam Ghosh | [Read More](https://medium.com/p/73c9786041bb) |
 | Sat, 15 Nov 2025 15:33:02 GMT | Cybersecurity Awareness Best Practices for Remote Workers | Compciti | [Read More](https://medium.com/p/4db31b161c97) |
 | Sat, 15 Nov 2025 15:31:30 GMT | How Ransomware Works: Anatomy of an Attack | Tech & Earn | [Read More](https://medium.com/p/be3160e219dc) |
 | Sat, 15 Nov 2025 15:23:00 GMT | From Curiosity to Caution: My Journey into Network Security Awareness | Mubashir | [Read More](https://medium.com/p/686841d64f02) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 08:27:35 GMT | The First 10 Shell Tricks That Make You Look Like a Wizard | Fateyaly | [Read More](https://medium.com/p/6325a363b8ff) |
 | Sat, 15 Nov 2025 08:25:46 GMT | 5 Productivity Hacks I Use Every Day to Get More Done | KirtiBankarCBP | [Read More](https://medium.com/p/f1c8e8944bb7) |
 | Sat, 15 Nov 2025 08:23:16 GMT | LogQuest Windows Event Logs Forensic Challenge | Za1d | [Read More](https://medium.com/p/41ecc83c9dbc) |
-| Sat, 15 Nov 2025 08:19:21 GMT | Global Talent Shortage Crisis: A Strategy to Recruit & Retain Cybersecurity Professionals | Vedha Mahadevan | [Read More](https://medium.com/p/fd43a4ffcb51) |
-| Sat, 15 Nov 2025 08:17:08 GMT | Top Career Opportunities in Digital Cyber Forensics for Freshers | cyber security Updates | [Read More](https://medium.com/p/98a54b1a1cd2) |
-| Sat, 15 Nov 2025 08:10:06 GMT | Shell Scripting for People Who Don’t Think They’re Programmers | Fateyaly | [Read More](https://medium.com/p/cb5b0dc7fbae) |
-| Sat, 15 Nov 2025 08:09:24 GMT | Complete Penetration Testing Guide: 9 Critical Phases Every Security Professional Must Master | Dhanush N | [Read More](https://medium.com/p/f5b944bf4d5d) |
