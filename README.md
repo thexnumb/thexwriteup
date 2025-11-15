@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 05:16:36 GMT | What is Cyber Security? The Different Types of Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/53527aec29a0) |
+| Sat, 15 Nov 2025 05:07:28 GMT | Enhance Cyber Security Expertise with a Globally Recognized Master of Science | Edglobalacademy | [Read More](https://medium.com/p/a2250a441237) |
+| Sat, 15 Nov 2025 05:03:57 GMT | Credential Optics ≠ Institutional Access: Competence is Authored, Not Conferred | Narnaiezzsshaa Truong | [Read More](https://medium.com/p/a04b86c02b74) |
+| Sat, 15 Nov 2025 04:57:45 GMT | The First AI Orchestrated Cyberattack and the Road We Chose Not to See | Basil C. Puglisi | [Read More](https://medium.com/p/54087393a22a) |
+| Sat, 15 Nov 2025 04:52:29 GMT | Security — Valet Key | Udayan Sawant | [Read More](https://medium.com/p/c4b20c865816) |
+| Sat, 15 Nov 2025 04:48:04 GMT | How I Got a Letter of Recognition from NASA (And How You Can Too) | Philip Garabandic | [Read More](https://medium.com/p/006f1b4c2649) |
+| Sat, 15 Nov 2025 04:40:15 GMT | The Truth About the 2026 Cybersecurity Job Market — You’re Not Ready | Taimur Ijlal | [Read More](https://medium.com/p/83df0966a7b8) |
 | Sat, 15 Nov 2025 04:31:17 GMT | Modern Django 6.0 Async Security Guide (OWASP 2025) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/99bef2964ca0) |
 | Sat, 15 Nov 2025 04:21:56 GMT | Top Skills You Need to Become a Successful CISM Professional | Dhanashri Bhale | [Read More](https://medium.com/p/bbd7f33c1056) |
 | Sat, 15 Nov 2025 04:18:31 GMT | Cyber-Secure, Future-Ready IT Solutions For Australian Businesses | Elevate | [Read More](https://medium.com/p/f1af415a9d3e) |
@@ -106,10 +113,3 @@ Cybersecurity Isn’t Just a Tech Problem , It’s a Workforce Capability Issu
 | Fri, 14 Nov 2025 18:16:19 GMT | The Silent ATO | Omar Mahmoud | [Read More](https://medium.com/p/238edcda6dd0) |
 | Fri, 14 Nov 2025 18:07:00 GMT | Business logic lead to Permanently Locked Any Email Out of Their Account | 0xbug | [Read More](https://medium.com/p/c6077f2cee59) |
 | Fri, 14 Nov 2025 18:05:04 GMT | The Magic T-Shirt That Hides You From AI — But Only From Half the System | Berend Watchus | [Read More](https://medium.com/p/c3ab8028b7ad) |
-| Fri, 14 Nov 2025 18:03:07 GMT | SOC vs. NOC: 5 Key Differences and Choosing One or Both for Superior IT Operations | ITTStar Consulting | [Read More](https://medium.com/p/49bb81aa53c8) |
-| Fri, 14 Nov 2025 18:02:48 GMT | Let’s talk about Compliance. | Marko | [Read More](https://medium.com/p/c2bd39bed3ad) |
-| Fri, 14 Nov 2025 18:02:14 GMT | HackTheBox: Editor Writeup | Rahaliashraf | [Read More](https://medium.com/p/5602c1cda18a) |
-| Fri, 14 Nov 2025 18:02:06 GMT | HackTheBox Meow: from telnet to root access | SoBatista | [Read More](https://medium.com/p/0bc025c4e94d) |
-| Fri, 14 Nov 2025 18:00:45 GMT | Build a Cybersecurity AI agent with Postgres Lakebase on Databricks | AI on Databricks | [Read More](https://medium.com/p/03f206a83edb) |
-| Fri, 14 Nov 2025 17:59:47 GMT | The Silent Debris: Why 70% of Failed Crypto Projects Haunt the Blockchain | zoctracker | [Read More](https://medium.com/p/4dba9b016a8a) |
-| Fri, 14 Nov 2025 17:44:04 GMT | The Unseen Spill: 7 simple ways data is left exposed in Financial Institutions | Sonareon | [Read More](https://medium.com/p/14e8260fcfe4) |
