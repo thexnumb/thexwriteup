@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 19:23:43 GMT | Stay protected with our real-time CCTV surveillance, ensuring safety, security, and peace of mind… | Visual Monitoring Solutions | [Read More](https://medium.com/p/718ae9a92c22) |
+| Sat, 15 Nov 2025 19:18:57 GMT | Basic Pentesting — TryHackMe (Write-out) | Muhammad Saad | [Read More](https://medium.com/p/28a301cb9d3e) |
+| Sat, 15 Nov 2025 19:17:21 GMT | OWASP Top 10 2025: IAAA Failures | G MRSY | [Read More](https://medium.com/p/d755d761220d) |
+| Sat, 15 Nov 2025 19:09:11 GMT | BoardLight — Hack The Box (easy) | d4rkonus | [Read More](https://medium.com/p/24491328347e) |
 | Sat, 15 Nov 2025 19:06:48 GMT | OWASP Top 10 2025: Application Design Flaws | G MRSY | [Read More](https://medium.com/p/445ef1dca584) |
 | Sat, 15 Nov 2025 19:01:06 GMT | “I’m Too Smart to Be Scammed.” (Famous Last Words) | ByteSwift Digital pro | [Read More](https://medium.com/p/81d29e6fb839) |
 | Sat, 15 Nov 2025 18:56:36 GMT | Operation Blackout 2025: Phantom Check- HTB Sherlock | Ghost0Sun | [Read More](https://medium.com/p/f43877fb01df) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 11:48:33 GMT | How Infinix New Phone Makes Gaming Smooth and Lag-Free? | Isabella Brown | [Read More](https://medium.com/p/f1e33b9afb19) |
 | Sat, 15 Nov 2025 11:45:34 GMT | Why Vivo V15 Pro Battery Life Still Impresses Heavy Users? | Ella Walker | [Read More](https://medium.com/p/ad9f1aeae5af) |
 | Sat, 15 Nov 2025 11:38:53 GMT | Why Vivo Mobile Phone Is the Best Choice for Gaming Under Budget? | Zara Everly | [Read More](https://medium.com/p/0aa84be5ac7e) |
-| Sat, 15 Nov 2025 11:34:23 GMT | Which Infinix New Phone Offers the Longest Battery Life Right Now? | Pimrada Thavorn | [Read More](https://medium.com/p/04f76c220253) |
-| Sat, 15 Nov 2025 11:33:57 GMT | Behave Like an ATP: Get that Data. | nullorx | [Read More](https://medium.com/p/701b1a7b3898) |
-| Sat, 15 Nov 2025 11:30:10 GMT | [televerse_shadow_tag] — [Digital Forensics] — [CUET CTF 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/9dd2cea4cb37) |
-| Sat, 15 Nov 2025 11:25:19 GMT | Understanding Credential Replay Attacks in Windows Using Crackmapexec | Ammar Ahmed | [Read More](https://medium.com/p/c13fa0ee8307) |
