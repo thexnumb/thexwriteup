@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 17:32:56 GMT | Ethical Hacking with AI Tools: Inside the New Cybersecurity Tug-of-War | Rishi Singh | [Read More](https://medium.com/p/af5ed61a7218) |
+| Sat, 15 Nov 2025 17:23:52 GMT | RondoDox Is Pulling Unpatched XWiki Servers Into a Growing Botnet | Jasmitha | [Read More](https://medium.com/p/00c6c4de01b5) |
 | Sat, 15 Nov 2025 17:08:46 GMT | The Unedited Story of My First Root: Hacking Kioptrix Level 1 | Adbin Mgr | [Read More](https://medium.com/p/c999ad177fa3) |
 | Sat, 15 Nov 2025 17:06:13 GMT | Can Two Devices Have the Same MAC Address? And Do They Receive Each Other’s Messages? | Sidrahaaishahguitar | [Read More](https://medium.com/p/f17d7cc500e1) |
 | Sat, 15 Nov 2025 16:58:23 GMT | Operation Endgame: The Takedown That Proved We’re Fighting the Wrong War | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/bf5a156a6972) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 09:47:41 GMT | How a Single SSRF Changed My Life: My Journey From Logistics Into Cybersecurity | jsll | [Read More](https://medium.com/p/e1eba7ff7ce1) |
 | Sat, 15 Nov 2025 09:47:06 GMT | Pay Per Click Management Utah: Driving Real Growth Through Strategic Advertising | Hary Battler | [Read More](https://medium.com/p/e1be1095806b) |
 | Sat, 15 Nov 2025 09:39:48 GMT | Android Security Warning: Google Says to Uninstall These Risky Apps Now | AG4Tech | [Read More](https://medium.com/p/0c7908bca3a5) |
-| Sat, 15 Nov 2025 09:36:37 GMT | Congrats, Everyone, Your Firewalls Are on Fire: The Cisco Screw-Up That Won’t Die | Travis Ray Caverhill | [Read More](https://medium.com/p/4fc93e31b8b8) |
-| Sat, 15 Nov 2025 09:29:26 GMT | The Quantum Curtain Is Falling — And the World Is Not Ready | Shahjahan Khan | [Read More](https://medium.com/p/5d633a2e58a1) |
