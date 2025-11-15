@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 23:00:35 GMT | Se tiver a opção de escolher o silêncio, escolha sem hesitar. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/8d602662f0ef) |
+| Sat, 15 Nov 2025 22:59:15 GMT | Getting Wi-Fi 7 Working on Parrot OS (Qualcomm WCN7850 / ath12k) | Cody Richard | [Read More](https://medium.com/p/18cf91b24174) |
+| Sat, 15 Nov 2025 22:52:38 GMT | HTB-CDSA Review | MalwareBro | [Read More](https://medium.com/p/fed125f25936) |
+| Sat, 15 Nov 2025 22:52:15 GMT | Asfixia Financeira no Combate às Organizações Criminosas: “Follow the money” | Gustavo D. Santos | [Read More](https://medium.com/p/737805af67cf) |
+| Sat, 15 Nov 2025 22:38:27 GMT | From Zero to Secure Connection: Mastering AWS Client VPN | José Carlos Carvalheira | [Read More](https://medium.com/p/18f269e096d2) |
 | Sat, 15 Nov 2025 22:26:11 GMT | HackTheBox CDSA Experience | DarkGlitch | [Read More](https://medium.com/p/dde710447e61) |
 | Sat, 15 Nov 2025 22:17:49 GMT | Building a Cybersecurity Home Lab — Part 3.2: Deploying and Configuring Windows VMs | JBXSec | [Read More](https://medium.com/p/fb3687b3b209) |
 | Sat, 15 Nov 2025 22:16:10 GMT | Building a Cybersecurity Home Lab — Part 3.1: Configuring Networking with pfSense | JBXSec | [Read More](https://medium.com/p/ee5decba8f47) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 14:08:12 GMT | The Silent AUKUS Gap: Australian Boards Are Now Exposed on AI Risk – And Most Don’t Even Know It… | AXSAS | [Read More](https://medium.com/p/2ee9edc98c61) |
 | Sat, 15 Nov 2025 14:04:25 GMT | This was how the plate got broken | Deb | [Read More](https://medium.com/p/c0e6777a5268) |
 | Sat, 15 Nov 2025 14:03:04 GMT | Hack The Box Rastalabs Review: Everything You Need to Know Before Starting | Krishnakant Sharma | [Read More](https://medium.com/p/378ffe3cc5ff) |
-| Sat, 15 Nov 2025 14:01:59 GMT | How SentryPC Aligns with the Growing Demand for Digital Safety Solutions | Paul Meyer | [Read More](https://medium.com/p/21518c293772) |
-| Sat, 15 Nov 2025 14:01:53 GMT | TryHackme — HashHunt — Write-up- Hussein Ibrahim | Hussin Ibrahim | [Read More](https://medium.com/p/077aff34778d) |
-| Sat, 15 Nov 2025 13:57:10 GMT | [HTB-WriteUp] Lame / SAMBA _ usermap_script | Cy3erS@up | [Read More](https://medium.com/p/4c120053e670) |
-| Sat, 15 Nov 2025 13:55:30 GMT | Blue Machine — TryHackMe Full Exploit Walkthrough | Vyshnav Vinod | [Read More](https://medium.com/p/402b38175074) |
-| Sat, 15 Nov 2025 13:53:56 GMT | Changing the Geometry of Cyber Defense | Lior Gd | [Read More](https://medium.com/p/e2f9110048fa) |
