@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 16:34:46 GMT | Iran Is Hitting a Breaking Point and the Regime Knows It | Money, Guns & Oil | [Read More](https://medium.com/p/a882f9e7ab72) |
+| Sat, 15 Nov 2025 16:27:09 GMT | What the KnownSec Breach Reveals About China’s Cyber Machine | Marcel | [Read More](https://medium.com/p/1ca09a621812) |
+| Sat, 15 Nov 2025 16:26:54 GMT | OSINT Photo Geolocation Challenge: Identifying the Precise Location of a City Photograph | Irem Bezci | [Read More](https://medium.com/p/e89fe19bcc1f) |
 | Sat, 15 Nov 2025 16:21:31 GMT | Siber Güvenlikte Etik İlkeler | İbrahim Yiğit Çetin | [Read More](https://medium.com/p/97bc3930ae34) |
+| Sat, 15 Nov 2025 16:17:50 GMT | Practical Setup of Mobile Penetration Testing Environments (Android Focused) | Aria Dimas Mastur | [Read More](https://medium.com/p/88e72395b931) |
+| Sat, 15 Nov 2025 16:14:24 GMT | How Hackers Use npm to Steal Crypto & API Keys — And How You Can Stay Safe | Aswanyaugustine | [Read More](https://medium.com/p/0ffdefb7847a) |
+| Sat, 15 Nov 2025 16:05:01 GMT | JSON Storageleri Kullanarak Sisteme Sızan Kuzey Koreli Hackerlerin Saldırısının Detayları | Onur OKTAY | [Read More](https://medium.com/p/3623b8780788) |
 | Sat, 15 Nov 2025 15:50:47 GMT | The Moment Everyone Missed | AXSAS | [Read More](https://medium.com/p/b302e0af0bc6) |
 | Sat, 15 Nov 2025 15:45:27 GMT | Ethical ux/ui design: prioritizing user privacy and security | Mochi | [Read More](https://medium.com/p/95915f84c8b1) |
 | Sat, 15 Nov 2025 15:40:35 GMT | Next in AI: Issue | Sam Ghosh | [Read More](https://medium.com/p/73c9786041bb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 08:48:07 GMT | Log Hunt — picoCTF Writeups | Jerome Lolong | [Read More](https://medium.com/p/55e7b32c4605) |
 | Sat, 15 Nov 2025 08:43:31 GMT | Security Control Categories: Stirrin’ Up the Basics (A Gumbo Tale) | the CyberStoic | [Read More](https://medium.com/p/b2573f732e78) |
 | Sat, 15 Nov 2025 08:36:55 GMT | The Message You Should Never Open | Deepak Sharma | [Read More](https://medium.com/p/a7637b82da0c) |
-| Sat, 15 Nov 2025 08:34:01 GMT | How Hackers Abuse Error Pages for Recon: Step-by-Step Guide for Pentesters & Bug Bounty Pros | Very Lazy Tech | [Read More](https://medium.com/p/cbe013b89f70) |
-| Sat, 15 Nov 2025 08:33:02 GMT | The Things We Never Say Out Loud | Unknown | [Read More](https://medium.com/p/9bae1296d236) |
-| Sat, 15 Nov 2025 08:27:43 GMT | NymVPN: Outsmarting Authoritarian Censorship with Mixnets | S. M. Abdullah | [Read More](https://medium.com/p/088af7447c02) |
-| Sat, 15 Nov 2025 08:27:35 GMT | The First 10 Shell Tricks That Make You Look Like a Wizard | Fateyaly | [Read More](https://medium.com/p/6325a363b8ff) |
-| Sat, 15 Nov 2025 08:25:46 GMT | 5 Productivity Hacks I Use Every Day to Get More Done | KirtiBankarCBP | [Read More](https://medium.com/p/f1c8e8944bb7) |
-| Sat, 15 Nov 2025 08:23:16 GMT | LogQuest Windows Event Logs Forensic Challenge | Za1d | [Read More](https://medium.com/p/41ecc83c9dbc) |
