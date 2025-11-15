@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 19:06:48 GMT | OWASP Top 10 2025: Application Design Flaws | G MRSY | [Read More](https://medium.com/p/445ef1dca584) |
+| Sat, 15 Nov 2025 19:01:06 GMT | “I’m Too Smart to Be Scammed.” (Famous Last Words) | ByteSwift Digital pro | [Read More](https://medium.com/p/81d29e6fb839) |
+| Sat, 15 Nov 2025 18:56:36 GMT | Operation Blackout 2025: Phantom Check- HTB Sherlock | Ghost0Sun | [Read More](https://medium.com/p/f43877fb01df) |
+| Sat, 15 Nov 2025 18:53:10 GMT | Trace Vector — Edition 01 - November 2025 Theme: The Architecture of Influence | Muhammad Ateeb Malik | [Read More](https://medium.com/p/373516a014ab) |
+| Sat, 15 Nov 2025 18:50:46 GMT | Penetration Testing Execution Standard (PTES) | Prathameshchandekar | [Read More](https://medium.com/p/7a4f4a4d4846) |
+| Sat, 15 Nov 2025 18:43:18 GMT | AI Frameworks Hit by Copy-Paste Code Vulnerabilities | Valentin Podkamennyi | [Read More](https://medium.com/p/b880fbb0ce4f) |
 | Sat, 15 Nov 2025 18:32:28 GMT | Footprinting in Ethical Hacking: Your Complete OSINT Guide (Simple, Practical & Powerful) | Purushotham.R | [Read More](https://medium.com/p/99b2de8f1974) |
 | Sat, 15 Nov 2025 18:29:43 GMT | TryHackme Writeup: Tomghost | Berkay AĞGÜL | [Read More](https://medium.com/p/d518fb2d7945) |
 | Sat, 15 Nov 2025 18:24:13 GMT | Where Do I Put All This Love Nobody Wants? | Oluwabunmi Fortune Ajibade | [Read More](https://medium.com/p/cbf3a451467c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 11:33:57 GMT | Behave Like an ATP: Get that Data. | nullorx | [Read More](https://medium.com/p/701b1a7b3898) |
 | Sat, 15 Nov 2025 11:30:10 GMT | [televerse_shadow_tag] — [Digital Forensics] — [CUET CTF 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/9dd2cea4cb37) |
 | Sat, 15 Nov 2025 11:25:19 GMT | Understanding Credential Replay Attacks in Windows Using Crackmapexec | Ammar Ahmed | [Read More](https://medium.com/p/c13fa0ee8307) |
-| Sat, 15 Nov 2025 11:20:14 GMT | Why Hacking Is The Path I Chose? | H4V0C | [Read More](https://medium.com/p/67a27811efb1) |
-| Sat, 15 Nov 2025 11:16:38 GMT | A security analysis of the “Shia Organization 313” group: The rise of an ideologically driven… | Omar Iraqi | [Read More](https://medium.com/p/63079dfa55e5) |
-| Sat, 15 Nov 2025 11:04:32 GMT | “Directors: In 2026, ‘We Didn’t Know’ Won’t Save You.” | AXSAS | [Read More](https://medium.com/p/7d7f40b31127) |
-| Sat, 15 Nov 2025 10:56:41 GMT | How Dark Web Breach Monitoring Protects Your Data Fast | DeXpose | [Read More](https://medium.com/p/679c7e455e8e) |
-| Sat, 15 Nov 2025 10:56:06 GMT | Don’t Trust the Server: How Response Manipulation Exposed a Business Logic Flaw | Killua199 | [Read More](https://medium.com/p/8b554e36c6fe) |
-| Sat, 15 Nov 2025 10:49:31 GMT | Welcome to ClickWise Nigeria: Your Guide to Staying Safe Online | Clickwise Nigeria | [Read More](https://medium.com/p/a9c6647c3177) |
