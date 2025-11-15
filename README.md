@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 14:15:08 GMT | DorkBounty: Supercharging Recon for Bug Bounty Hunters | Bytewreaker | [Read More](https://medium.com/p/68d985f9df9b) |
+| Sat, 15 Nov 2025 14:09:01 GMT | RustyKey HackTheBox -TimeRoasting & RBCD & DACL & Protected Users | Mohamed Eletreby | [Read More](https://medium.com/p/6988365025d1) |
+| Sat, 15 Nov 2025 14:04:25 GMT | This was how the plate got broken | Deb | [Read More](https://medium.com/p/c0e6777a5268) |
+| Sat, 15 Nov 2025 14:03:04 GMT | Hack The Box Rastalabs Review: Everything You Need to Know Before Starting | Krishnakant Sharma | [Read More](https://medium.com/p/378ffe3cc5ff) |
+| Sat, 15 Nov 2025 14:01:59 GMT | How SentryPC Aligns with the Growing Demand for Digital Safety Solutions | Paul Meyer | [Read More](https://medium.com/p/21518c293772) |
+| Sat, 15 Nov 2025 14:01:53 GMT | TryHackme — HashHunt — Write-up- Hussein Ibrahim | Hussin Ibrahim | [Read More](https://medium.com/p/077aff34778d) |
+| Sat, 15 Nov 2025 13:57:10 GMT | [HTB-WriteUp] Lame / SAMBA _ usermap_script | Cy3erS@up | [Read More](https://medium.com/p/4c120053e670) |
+| Sat, 15 Nov 2025 13:55:30 GMT | Blue Machine — TryHackMe Full Exploit Walkthrough | Vyshnav Vinod | [Read More](https://medium.com/p/402b38175074) |
+| Sat, 15 Nov 2025 13:53:56 GMT | Changing the Geometry of Cyber Defense | Lior Gd | [Read More](https://medium.com/p/e2f9110048fa) |
+| Sat, 15 Nov 2025 13:51:58 GMT | China Just Hacked America. With Their Own AI. | Derick David | [Read More](https://medium.com/p/82baa8ab7267) |
+| Sat, 15 Nov 2025 13:42:08 GMT | The Cybersecurity Engineer’s Complete Guide to CVEs: From Identification to Scoring | Santhosh Adiga U | [Read More](https://medium.com/p/a4e14fca0488) |
+| Sat, 15 Nov 2025 13:37:24 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/76a0f38cc744) |
+| Sat, 15 Nov 2025 13:33:34 GMT | Is BSNL Being Quietly Phased Out? | Maithilee Singh | [Read More](https://medium.com/p/554fc3931422) |
+| Sat, 15 Nov 2025 13:31:30 GMT | DockerLabs Writeup — Psycho (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d2f0b5626b04) |
 | Sat, 15 Nov 2025 13:19:57 GMT | WarGames Reloaded: When AI Became the Hacker | Lakshmi narayana .U | [Read More](https://medium.com/p/6eb18c1db164) |
 | Sat, 15 Nov 2025 13:13:40 GMT | HTB: CAP Machine Walkthrough | Isha Sangpal | [Read More](https://medium.com/p/bea6403e4690) |
 | Sat, 15 Nov 2025 13:02:56 GMT | Stop Drowning in ‘Critical’ Alerts | Jialei Q. | [Read More](https://medium.com/p/13b19aba84e4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 06:52:45 GMT | Master the Art of Writing Better Cybersecurity Reports with AI: Step-by-Step Guide for Pros | Very Lazy Tech | [Read More](https://medium.com/p/e273b75389ae) |
 | Sat, 15 Nov 2025 06:50:23 GMT | “Session Fixation Zafiyeti: Flask ile Lab Çalışması ve Çözümü” | Türkü Durmuş | [Read More](https://medium.com/p/270df4e58d2a) |
 | Sat, 15 Nov 2025 06:49:51 GMT | ️ Home Router Security Audit & Hardening Project Type: Cybersecurity / Network Security… | Falah Rohmatuloh | [Read More](https://medium.com/p/e13c948755f3) |
-| Sat, 15 Nov 2025 06:49:32 GMT | The Hunger No One Sees | Daniel Gagarin | [Read More](https://medium.com/p/792cd2d618b1) |
-| Sat, 15 Nov 2025 06:44:22 GMT | INFILTRATION: The takedown of a phishing syndicate | Potech | [Read More](https://medium.com/p/560d80b0af4c) |
-| Sat, 15 Nov 2025 06:44:00 GMT | The End of Passwords: How Sirraya Labs Is Rewriting Digital Identity | Aamir Hameed | [Read More](https://medium.com/p/e0ad9ef46405) |
-| Sat, 15 Nov 2025 06:42:09 GMT | Become an Ethical Hacker and Cyber Security Specialist with Hackersprey Cybersecurity Courses. | HackersPrey | [Read More](https://medium.com/p/4305321e1a67) |
-| Sat, 15 Nov 2025 06:28:09 GMT | Cyber Security Training -George College | Ritik | [Read More](https://medium.com/p/84bff952bfd5) |
-| Sat, 15 Nov 2025 06:06:44 GMT | Do You Really Need IT? Here’s What We Actually Do | CodeZen | [Read More](https://medium.com/p/cb2ab0c2e8ef) |
-| Sat, 15 Nov 2025 06:00:24 GMT | Launching “The First 100 Days of the New CISO: A Leadership Guide to Lasting Impact” | JC Gaillard | [Read More](https://medium.com/p/a66ea7b1e9ff) |
-| Sat, 15 Nov 2025 05:57:47 GMT | When Reading the Source Code Is the Real Hack: A Web Challenge Story - v1t CTF | Chetan Chinchulkar | [Read More](https://medium.com/p/b6adfcaa0fee) |
-| Sat, 15 Nov 2025 05:50:27 GMT | How Attackers Use OSINT to Gain Initial Access | Hacker Halt | [Read More](https://medium.com/p/1e3d8b34dcee) |
-| Sat, 15 Nov 2025 05:46:30 GMT | The AI Social Engineering Revolution — When Machines Master the Art of Deception | David SEHYEON Baek | [Read More](https://medium.com/p/29e9f1b9e6d4) |
-| Sat, 15 Nov 2025 05:45:17 GMT | How Artificial Intelligence Is Supercharging Ransomware and Cyber Destruction | David SEHYEON Baek | [Read More](https://medium.com/p/b025ba8f5106) |
-| Sat, 15 Nov 2025 05:43:40 GMT | How AI-Enhanced Cryptocurrency Mixers Fuel Global Crime | David SEHYEON Baek | [Read More](https://medium.com/p/150245991be0) |
-| Sat, 15 Nov 2025 05:35:28 GMT | A Mindset of Enhanced Security at Tekion | Tekion | [Read More](https://medium.com/p/42c43ad4b382) |
-| Sat, 15 Nov 2025 05:23:22 GMT | VANHELSING RANSOMWARE | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/c350c3991579) |
