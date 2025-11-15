@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 11:04:32 GMT | “Directors: In 2026, ‘We Didn’t Know’ Won’t Save You.” | AXSAS | [Read More](https://medium.com/p/7d7f40b31127) |
+| Sat, 15 Nov 2025 10:56:41 GMT | How Dark Web Breach Monitoring Protects Your Data Fast | DeXpose | [Read More](https://medium.com/p/679c7e455e8e) |
+| Sat, 15 Nov 2025 10:56:06 GMT | Don’t Trust the Server: How Response Manipulation Exposed a Business Logic Flaw | Killua199 | [Read More](https://medium.com/p/8b554e36c6fe) |
+| Sat, 15 Nov 2025 10:49:31 GMT | Welcome to ClickWise Nigeria: Your Guide to Staying Safe Online | Clickwise Nigeria | [Read More](https://medium.com/p/a9c6647c3177) |
+| Sat, 15 Nov 2025 10:40:30 GMT | Limited Char XSS Challange Solution of Nowasky | Muhammad ilyas | [Read More](https://medium.com/p/6ed3fb6387f8) |
+| Sat, 15 Nov 2025 10:36:35 GMT | The demand for cybersecurity professionals is at an all-time high in 2025. | Hachion Trainings | [Read More](https://medium.com/p/c5bc3895f535) |
 | Sat, 15 Nov 2025 10:35:26 GMT | Cybersecurity 2025: Trends, Threats, and the New Skillsets | Tejasri Nareshit | [Read More](https://medium.com/p/3f624f088e0b) |
 | Sat, 15 Nov 2025 10:32:08 GMT | What Is Tab Nabbing & Reverse Tab Nabbing? Beginner-Friendly Explanation and How to Prevent It | Natarajan C K | [Read More](https://medium.com/p/0e0db8e2cde5) |
 | Sat, 15 Nov 2025 10:31:46 GMT | Understanding Business Logic Vulnerabilities: A Real-World Guide for Security Researchers | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d00f76957686) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 01:57:52 GMT | IPVanish review: Can it’s US-based be trusted in 2025? | Safelyo VPN | [Read More](https://medium.com/p/f1c408489b64) |
 | Sat, 15 Nov 2025 01:32:59 GMT | Riddle Registry Walkthrough— picoCTF | Jerome M. Lolong | [Read More](https://medium.com/p/d348ee7c6f2d) |
 | Sat, 15 Nov 2025 01:32:21 GMT | Men, Do You Know What Your Woman Really Wants? | Ophaly Kate | [Read More](https://medium.com/p/aa712e79ecd0) |
-| Sat, 15 Nov 2025 01:29:06 GMT | How to configure DNS settings on a router in 2 minutes | Safelyo Global | [Read More](https://medium.com/p/769f043de24a) |
-| Sat, 15 Nov 2025 00:43:29 GMT | IaC Security and Compliance Tool Solutions | kaliarch | [Read More](https://medium.com/p/28f5a1183a51) |
-| Sat, 15 Nov 2025 00:39:41 GMT | Phishing Prevention | Demegorash | [Read More](https://medium.com/p/89579a326d7b) |
-| Sat, 15 Nov 2025 00:33:22 GMT | Chinese Hackers Weaponize AI in First Autonomous Cyberattack: A New Era in Cyber Warfare | CCD-IS | [Read More](https://medium.com/p/de3326d2f7e4) |
-| Sat, 15 Nov 2025 00:32:02 GMT | HackTheBox Investigating with Splunk: Skills Assessment | Cybersecurity Simplified | [Read More](https://medium.com/p/1ac3f32df39a) |
-| Sat, 15 Nov 2025 00:18:19 GMT | Write-up : Easy Peasy-TryHackMe | DylanSec | [Read More](https://medium.com/p/9c5d938f8369) |
