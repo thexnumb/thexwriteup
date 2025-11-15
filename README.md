@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 15 Nov 2025 17:08:46 GMT | The Unedited Story of My First Root: Hacking Kioptrix Level 1 | Adbin Mgr | [Read More](https://medium.com/p/c999ad177fa3) |
+| Sat, 15 Nov 2025 17:06:13 GMT | Can Two Devices Have the Same MAC Address? And Do They Receive Each Other’s Messages? | Sidrahaaishahguitar | [Read More](https://medium.com/p/f17d7cc500e1) |
+| Sat, 15 Nov 2025 16:58:23 GMT | Operation Endgame: The Takedown That Proved We’re Fighting the Wrong War | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/bf5a156a6972) |
+| Sat, 15 Nov 2025 16:52:10 GMT | Silent Siege: How Attackers Compromise Your Phone & PC (and Exactly How to Stop Them) | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/ba7bcdd19472) |
+| Sat, 15 Nov 2025 16:47:11 GMT | Understanding VMware Memory Ballooning and Why Hypervisor Swapping Is a Performance Killer | Ahmed Maher | [Read More](https://medium.com/p/d60807886afb) |
+| Sat, 15 Nov 2025 16:46:15 GMT | [hidden_in_the_stream] — [Digital Forensics] — [CUET CTF 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/4e231577a71b) |
+| Sat, 15 Nov 2025 16:40:37 GMT | EN 18031: How to Demonstrate Best Practice Cryptography | Dr. Guillaume Dupont | [Read More](https://medium.com/p/0b13d3945ccf) |
+| Sat, 15 Nov 2025 16:39:01 GMT | Watermarking Images and videos for deepfake detection. | Prabu R | [Read More](https://medium.com/p/73d722fd1cfb) |
 | Sat, 15 Nov 2025 16:34:46 GMT | Iran Is Hitting a Breaking Point and the Regime Knows It | Money, Guns & Oil | [Read More](https://medium.com/p/a882f9e7ab72) |
 | Sat, 15 Nov 2025 16:27:09 GMT | What the KnownSec Breach Reveals About China’s Cyber Machine | Marcel | [Read More](https://medium.com/p/1ca09a621812) |
 | Sat, 15 Nov 2025 16:26:54 GMT | OSINT Photo Geolocation Challenge: Identifying the Precise Location of a City Photograph | Irem Bezci | [Read More](https://medium.com/p/e89fe19bcc1f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 09:39:48 GMT | Android Security Warning: Google Says to Uninstall These Risky Apps Now | AG4Tech | [Read More](https://medium.com/p/0c7908bca3a5) |
 | Sat, 15 Nov 2025 09:36:37 GMT | Congrats, Everyone, Your Firewalls Are on Fire: The Cisco Screw-Up That Won’t Die | Travis Ray Caverhill | [Read More](https://medium.com/p/4fc93e31b8b8) |
 | Sat, 15 Nov 2025 09:29:26 GMT | The Quantum Curtain Is Falling — And the World Is Not Ready | Shahjahan Khan | [Read More](https://medium.com/p/5d633a2e58a1) |
-| Sat, 15 Nov 2025 09:19:25 GMT | The Ethics of Hacking: Where Do We Draw the Line? | Shayoni Jahan | [Read More](https://medium.com/p/20675e92ca71) |
-| Sat, 15 Nov 2025 09:18:38 GMT | Understanding SSH Host Key Verification Strategies | ADESH BODE | [Read More](https://medium.com/p/85777cc36675) |
-| Sat, 15 Nov 2025 09:14:35 GMT | Exploring Sysdig Falco: A Hands-On Review of Runtime Security and Network Forensics | Anderson Santos | [Read More](https://medium.com/p/58a614a1a2a0) |
-| Sat, 15 Nov 2025 09:02:01 GMT | Advanced Search Tips: url:yourdomain and Phone Identifiers | Alexandre Vandamme | [Read More](https://medium.com/p/769bca9b4eaf) |
-| Sat, 15 Nov 2025 08:56:28 GMT | Always Log Out: It’s Not Your Browser, It’s Your Session | Kunal Sinha | [Read More](https://medium.com/p/cf9cc16daa06) |
-| Sat, 15 Nov 2025 08:48:07 GMT | Log Hunt — picoCTF Writeups | Jerome Lolong | [Read More](https://medium.com/p/55e7b32c4605) |
-| Sat, 15 Nov 2025 08:43:31 GMT | Security Control Categories: Stirrin’ Up the Basics (A Gumbo Tale) | the CyberStoic | [Read More](https://medium.com/p/b2573f732e78) |
-| Sat, 15 Nov 2025 08:36:55 GMT | The Message You Should Never Open | Deepak Sharma | [Read More](https://medium.com/p/a7637b82da0c) |
