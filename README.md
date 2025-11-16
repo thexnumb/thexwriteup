@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 21:29:25 GMT | Proxychains Deep Dive | Danoss777 | [Read More](https://medium.com/p/0f5632a42091) |
+| Sun, 16 Nov 2025 21:26:40 GMT | How I Found a Critical IDOR Flaw in Minutes | Ibtissam | [Read More](https://medium.com/p/85ddf0648d99) |
+| Sun, 16 Nov 2025 21:26:40 GMT | Uber, Lapsus$, and the Insider Risk You Forgot About | Fook Hwa Tan | [Read More](https://medium.com/p/5d601aae0baa) |
+| Sun, 16 Nov 2025 21:25:39 GMT | The Hype and the Reality: What AI Really Means for Your Security | Fook Hwa Tan | [Read More](https://medium.com/p/de2d30957999) |
+| Sun, 16 Nov 2025 21:24:00 GMT | How to Frame Risk So Even Non-Tech Execs Get It | Fook Hwa Tan | [Read More](https://medium.com/p/08e382d54722) |
+| Sun, 16 Nov 2025 21:18:33 GMT | Black Hat vs White Hat: The Career Path Where One Ends With Applause and the Other With Handcuffs | Travis Ray Caverhill | [Read More](https://medium.com/p/222ad516aa7d) |
+| Sun, 16 Nov 2025 21:15:47 GMT | How I Bypassed Authentication on a Public Program Just by Changing One Word | D0loresH4ze | [Read More](https://medium.com/p/53b6173b5feb) |
+| Sun, 16 Nov 2025 21:11:01 GMT | Claude impersonates Dario Amodei | Kevin O'Shaughnessy | [Read More](https://medium.com/p/2c6a303e5aaf) |
 | Sun, 16 Nov 2025 21:05:19 GMT | Multi-Stage Web Exploitation Leading to Full System Compromise and Privilege Dominance | Kiza | [Read More](https://medium.com/p/c0382c706111) |
+| Sun, 16 Nov 2025 21:04:46 GMT | Impact vs Sophistication: A different Way to Map Threat Actors | TΞLΞMΞTRY | [Read More](https://medium.com/p/789eef1edce9) |
 | Sun, 16 Nov 2025 20:58:17 GMT | Security and Performance Aspects of HugePages Configuration | Linux Guide | [Read More](https://medium.com/p/72f138dc7d09) |
 | Sun, 16 Nov 2025 20:49:36 GMT | Grotesque3 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/14e9eca4a180) |
 | Sun, 16 Nov 2025 20:37:42 GMT | The Recon Playbook Every Hacker Uses (But No One Talks About)b | iam_with_you11 | [Read More](https://medium.com/p/4c4e0477fa5d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 14:16:29 GMT | i created a product i believed in. but deep down, i did not expect it to work | Avil Beckford | [Read More](https://medium.com/p/5b5d328dbe88) |
 | Sun, 16 Nov 2025 14:11:21 GMT | Mover - IAM Process Flow - 9 Step Explanation | Anuja Pawar | [Read More](https://medium.com/p/c82d4f8fcaec) |
 | Sun, 16 Nov 2025 14:04:56 GMT | What is a Trojan? (Trojan Horse) - VIIEGO | Rolando | [Read More](https://medium.com/p/a70cba582b91) |
-| Sun, 16 Nov 2025 14:00:29 GMT | Chinese Hackers Exploit Claude AI to Automate Cyberattacks | Patrik Žák | [Read More](https://medium.com/p/2eda80705f5a) |
-| Sun, 16 Nov 2025 14:00:24 GMT | From Prompt Injection to RCE: The Dawn of AI-Powered Cyber Warfare | Entropy0Labs | [Read More](https://medium.com/p/334f2f53c899) |
-| Sun, 16 Nov 2025 13:46:00 GMT | From Domain User to SYSTEM: Deep Dive into the NTLM LDAP Authentication Bypass (CVE-2025-54918)When… | Aju Deb | [Read More](https://medium.com/p/9ea4fba6ca17) |
-| Sun, 16 Nov 2025 13:45:19 GMT | Major Supply-Chain Alert: 150K+ Malicious Packages in the npm Registry | Virus Vanguard | [Read More](https://medium.com/p/1fcf0ebe63d1) |
-| Sun, 16 Nov 2025 13:44:56 GMT | Bounty Hacker : TryHackMe - 2025 | Mahmoudmkassem | [Read More](https://medium.com/p/6562c7235d1a) |
-| Sun, 16 Nov 2025 13:36:40 GMT | AI-Driven SIEM Alert Noise Reduction: A Machine Learning Approach to Filtering False Positives and… | Myth | [Read More](https://medium.com/p/f2da2be7c536) |
-| Sun, 16 Nov 2025 13:34:44 GMT | Cracking Wi-Fi WPA2 Password Using Kali Linux | Hardik | [Read More](https://medium.com/p/bd9993ae9651) |
-| Sun, 16 Nov 2025 13:32:43 GMT | Cyber Armor: Defending the Modern Digital World | Ayush Mittal | [Read More](https://medium.com/p/c5efccba219c) |
-| Sun, 16 Nov 2025 13:28:05 GMT | Dark Web Alert: 120,000 Resumes Leaked in Cornerstone Staffing Breach by Qilin Gang | Rabia AMAAOUCH | [Read More](https://medium.com/p/65b9a691afd9) |
