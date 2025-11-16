@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 13:24:18 GMT | How We Hacked inside e-commerce company: From Hidden Endpoints to Server Files: Our Full… | D0loresH4ze | [Read More](https://medium.com/p/f274d10f5997) |
+| Sun, 16 Nov 2025 13:17:48 GMT | Let’s Bypass LLM Safety Guardrail | restdone | [Read More](https://medium.com/p/646767cf041d) |
+| Sun, 16 Nov 2025 13:12:13 GMT | Metasploitable 3 (Windows) Write-up — Part [IV]: Port 445 — SMB Enumeration & EternalBlue… | Kalash Kundaliya | [Read More](https://medium.com/p/049c3224e5ff) |
+| Sun, 16 Nov 2025 13:09:36 GMT | 6 Farklı şirkette nasıl XSS buldum? | Burak | [Read More](https://medium.com/p/f74cd6c0e59b) |
+| Sun, 16 Nov 2025 13:07:05 GMT | Perfectly Imperfect Love | DeeArte | [Read More](https://medium.com/p/56abfaee47a7) |
+| Sun, 16 Nov 2025 12:51:26 GMT | How a fake Fiverr email fooled me (and what I built to stop it) | Mathisdev | [Read More](https://medium.com/p/b27e34004dfa) |
+| Sun, 16 Nov 2025 12:48:12 GMT | Python : Pennerapan Fungsi | Cahyoadi | [Read More](https://medium.com/p/e7b4f5f7c3fe) |
+| Sun, 16 Nov 2025 12:46:23 GMT | IDOR — Insecure Direct Object Reference | Enes Demir | [Read More](https://medium.com/p/cb247ed6c878) |
+| Sun, 16 Nov 2025 12:45:48 GMT | Understanding and Installing Kali Linux | LUTSVIA | [Read More](https://medium.com/p/fbbdf3c419e9) |
+| Sun, 16 Nov 2025 12:43:30 GMT | Why the Internet Trusts TLS: A Deep Dive You Wish You Read Earlier | Amr Elhewy | [Read More](https://medium.com/p/e3d47bcab52e) |
 | Sun, 16 Nov 2025 12:12:01 GMT | “The Unspoken Struggles: Finding Solace in a World That Demands Strength” | Ueiiowd | [Read More](https://medium.com/p/a8fb7ea69e6d) |
 | Sun, 16 Nov 2025 12:06:04 GMT | Medidas Preventivas y Buenas Prácticas en Ciberseguridad | Jonatan Vazquez Martinez | [Read More](https://medium.com/p/828e237ed438) |
 | Sun, 16 Nov 2025 12:04:15 GMT | DockerLabs Writeup — Sender (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3ef36439baeb) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 05:34:24 GMT | I will write IT resume, technical resume, software engineering, linkedin optimization | Bettymatt | [Read More](https://medium.com/p/afdb1b74cb43) |
 | Sun, 16 Nov 2025 05:29:32 GMT | Belajar coding sudah tidak lagi worth it karena AI?! | Willy Hardian | [Read More](https://medium.com/p/df06a40f03c3) |
 | Sun, 16 Nov 2025 05:23:35 GMT | Ruined by the Things She Hated in Herself | ୨୧⋆｡˚ ⋆ | [Read More](https://medium.com/p/1ec0d30159e4) |
-| Sun, 16 Nov 2025 05:19:03 GMT | The Philippines as Guest of Honor: Literacy, Democracy, and the Challenges Beneath the Celebration | Rabel Catayoc, DM, FRIEdr | [Read More](https://medium.com/p/df722cc8a5ad) |
-| Sun, 16 Nov 2025 05:16:23 GMT | Ransomware as a Service: How the Franchise Model Exploits You | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d0ccd2d450f0) |
-| Sun, 16 Nov 2025 04:56:29 GMT | You too, Agents? | Yogesh Haribhau Kulkarni (PhD) | [Read More](https://medium.com/p/fdcfe7094b6d) |
-| Sun, 16 Nov 2025 04:54:52 GMT | Small Business? Big Target. The Exploit That’s Quietly Going Viral | Rendur M. Saunter | [Read More](https://medium.com/p/31ee5e304057) |
-| Sun, 16 Nov 2025 04:54:26 GMT | Cicada— HTB Writeups | Alts | [Read More](https://medium.com/p/c5c720e16a4c) |
-| Sun, 16 Nov 2025 04:45:47 GMT | We Are Not Prepared for AI-Powered Social Engineering | PATHAKHRK | [Read More](https://medium.com/p/771b32d9b4b8) |
-| Sun, 16 Nov 2025 04:45:01 GMT | The Teen Who Hacked the Pentagon | Sami Ullah | [Read More](https://medium.com/p/f088906429bf) |
-| Sun, 16 Nov 2025 04:08:54 GMT | WebAssembly as an Attack Surface: New Browser Exploitation | zerOiQ | [Read More](https://medium.com/p/b7acfbd2801f) |
-| Sun, 16 Nov 2025 04:06:56 GMT | The scariest realization? I don’t trust myself. | Lunaria | [Read More](https://medium.com/p/7a7c683cb56c) |
-| Sun, 16 Nov 2025 04:02:29 GMT | The Great Russian Digital Firewall: How Russia Is Isolating Its Internet | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/3e24862f9d86) |
