@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 14:11:21 GMT | Mover - IAM Process Flow - 9 Step Explanation | Anuja Pawar | [Read More](https://medium.com/p/c82d4f8fcaec) |
+| Sun, 16 Nov 2025 14:04:56 GMT | What is a Trojan? (Trojan Horse) - VIIEGO | Rolando | [Read More](https://medium.com/p/a70cba582b91) |
+| Sun, 16 Nov 2025 14:00:29 GMT | Chinese Hackers Exploit Claude AI to Automate Cyberattacks | Patrik Žák | [Read More](https://medium.com/p/2eda80705f5a) |
+| Sun, 16 Nov 2025 14:00:24 GMT | From Prompt Injection to RCE: The Dawn of AI-Powered Cyber Warfare | Entropy0Labs | [Read More](https://medium.com/p/334f2f53c899) |
+| Sun, 16 Nov 2025 13:46:00 GMT | From Domain User to SYSTEM: Deep Dive into the NTLM LDAP Authentication Bypass (CVE-2025-54918)When… | Aju Deb | [Read More](https://medium.com/p/9ea4fba6ca17) |
+| Sun, 16 Nov 2025 13:45:19 GMT | Major Supply-Chain Alert: 150K+ Malicious Packages in the npm Registry | Virus Vanguard | [Read More](https://medium.com/p/1fcf0ebe63d1) |
+| Sun, 16 Nov 2025 13:44:56 GMT | Bounty Hacker : TryHackMe - 2025 | Mahmoudmkassem | [Read More](https://medium.com/p/6562c7235d1a) |
+| Sun, 16 Nov 2025 13:36:40 GMT | AI-Driven SIEM Alert Noise Reduction: A Machine Learning Approach to Filtering False Positives and… | Myth | [Read More](https://medium.com/p/f2da2be7c536) |
 | Sun, 16 Nov 2025 13:34:44 GMT | Cracking Wi-Fi WPA2 Password Using Kali Linux | Hardik | [Read More](https://medium.com/p/bd9993ae9651) |
 | Sun, 16 Nov 2025 13:32:43 GMT | Cyber Armor: Defending the Modern Digital World | Ayush Mittal | [Read More](https://medium.com/p/c5efccba219c) |
 | Sun, 16 Nov 2025 13:28:05 GMT | Dark Web Alert: 120,000 Resumes Leaked in Cornerstone Staffing Breach by Qilin Gang | Rabia AMAAOUCH | [Read More](https://medium.com/p/65b9a691afd9) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 06:34:20 GMT | A $1000 Bounty — Role Manipulation . | Monu Jangra | [Read More](https://medium.com/p/7523f77cd623) |
 | Sun, 16 Nov 2025 06:34:07 GMT | How to Choose the Best Penetration Testing Course: Complete Guide | cyber security Updates | [Read More](https://medium.com/p/f67ed9e26f2c) |
 | Sun, 16 Nov 2025 06:23:00 GMT | ️ The ‘Unpatchable’ Human: Why AI-Driven Social Engineering is the Ultimate Threat | Hamza Younas | [Read More](https://medium.com/p/bd134552e549) |
-| Sun, 16 Nov 2025 06:10:58 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: Post-Exploitation CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/359edfc713a2) |
-| Sun, 16 Nov 2025 06:10:20 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: Exploitation CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/c274ac540d97) |
-| Sun, 16 Nov 2025 06:09:54 GMT | Customer-Centric Work: The Mindset That Builds Winning Teams | Vijay Kumar Gupta | [Read More](https://medium.com/p/468a3ed26bdb) |
-| Sun, 16 Nov 2025 06:07:29 GMT | Ethical Hacking with AI Tools — How AI Helps and Also Threatens Cybersecurity | Yashbendra singh | [Read More](https://medium.com/p/67f88674e69f) |
-| Sun, 16 Nov 2025 06:07:12 GMT | Windows Security: Abusing Access Tokens - A Practical CTF Walkthrough | ToxSec | [Read More](https://medium.com/p/800b8e633ffe) |
-| Sun, 16 Nov 2025 06:01:12 GMT | OSCP Proving Grounds — Levram Walkthrough | ToxSec | [Read More](https://medium.com/p/de90f5ccb12b) |
-| Sun, 16 Nov 2025 05:58:08 GMT | Digital Authoritarianism and Threats to Free Speech | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/1565c38cb0d2) |
-| Sun, 16 Nov 2025 05:56:01 GMT | File Upload Vulnerabilities for Bug Bounty | ToxSec | [Read More](https://medium.com/p/3718567050c0) |
