@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 18:44:11 GMT | Why Blocking Web Advertising at the Gateway Protects the Planet and Boosts Productivity | CacheGuard Technologies | [Read More](https://medium.com/p/f9d221f943c7) |
+| Sun, 16 Nov 2025 18:36:28 GMT | (File 18)Sir Weston — The Frosty Explorer | Ink Stories Primal | [Read More](https://medium.com/p/982e01aa6b0a) |
+| Sun, 16 Nov 2025 18:29:20 GMT | We Saw It Coming: First Reports of an AI-Orchestrated Cyber Espionage Campaign | Phil Stafford | [Read More](https://medium.com/p/e45e0b047edf) |
+| Sun, 16 Nov 2025 18:22:01 GMT | Secure Cookies vs Tokens: Choose by Threat Model | Nexumo | [Read More](https://medium.com/p/163bbe898252) |
 | Sun, 16 Nov 2025 18:16:29 GMT | The Loneliness of a Latte and the Radical Act of Stumbling (Authentically) | Vanessa Gomes | [Read More](https://medium.com/p/85bbc34bce11) |
 | Sun, 16 Nov 2025 18:09:06 GMT | That New AI-Orchestrated Attack? I’ve Deconstructed It. Here’s What I Found. | Mohan reddy | [Read More](https://medium.com/p/acec45b4e1c7) |
 | Sun, 16 Nov 2025 18:07:20 GMT | I Used Google and ChatGPT to Expose a  Scam | Sam Galope | [Read More](https://medium.com/p/6494a265c753) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 11:19:03 GMT | Chapter 1 — The Descent | inner fiction | [Read More](https://medium.com/p/21bfbededb4c) |
 | Sun, 16 Nov 2025 11:18:35 GMT | The Kubernetes Hangover: Why Companies Are Moving On from Complexity | TechScribeHub | [Read More](https://medium.com/p/c32006781e3f) |
 | Sun, 16 Nov 2025 11:17:50 GMT | Five Bounties, One Bug: Exploiting the Same SSRF via Five Unique Techniques | Kayra Öksüz | [Read More](https://medium.com/p/3f0adb7965d6) |
-| Sun, 16 Nov 2025 11:10:29 GMT | Which OnePlus 7 Pro Features Make It Ideal for Content Creators? | Chloe White | [Read More](https://medium.com/p/aef24c7d1b85) |
-| Sun, 16 Nov 2025 11:09:57 GMT | Exposure | R A Kenyon | [Read More](https://medium.com/p/82dabd349aad) |
-| Sun, 16 Nov 2025 11:08:24 GMT | Claude on how it helped China attack the West | Kevin O'Shaughnessy | [Read More](https://medium.com/p/6a702f00e1cc) |
-| Sun, 16 Nov 2025 10:54:36 GMT | Purple Team Analysis: When Red Meets Blue in aWeb Attack | Biscotti Diskette | [Read More](https://medium.com/p/c1411d51d2df) |
