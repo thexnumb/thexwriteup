@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 23:29:08 GMT | The Gospel According to GPT | TJ Larson | [Read More](https://medium.com/p/77d5476e55b4) |
+| Sun, 16 Nov 2025 23:23:06 GMT | Decoding the UXLINK Attack: NyxSwap as an Exit Vector | CryptoGuard | [Read More](https://medium.com/p/63972eb6303c) |
+| Sun, 16 Nov 2025 23:19:20 GMT | Summit — THM Challenge Writeup | Radulescugabriel | [Read More](https://medium.com/p/bb47712b695f) |
 | Sun, 16 Nov 2025 23:08:47 GMT | Common security risks while adopting public repositories | Rick Yang | [Read More](https://medium.com/p/4f86aa7edbac) |
 | Sun, 16 Nov 2025 22:50:35 GMT | A Eulogy in Real Time | Lisa Martin | [Read More](https://medium.com/p/59556280f012) |
 | Sun, 16 Nov 2025 22:39:09 GMT | Build CVE Watcher AI Agent using GitHub MCP Server in Azure AI Foundry with Observability | Dipesh Shah | [Read More](https://medium.com/p/cc4e6dc944ec) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 15:24:28 GMT | My Medical Database ERD (SQL Project) | Faysal Dhimbil | [Read More](https://medium.com/p/29f12e81bdd7) |
 | Sun, 16 Nov 2025 15:24:27 GMT | SQL Security Analysis Portfolio Project. Investigating Login Activity & Employee Machines | Mark Csete | [Read More](https://medium.com/p/93c14efebebc) |
 | Sun, 16 Nov 2025 15:19:27 GMT | CORRIDOR CHALLENGE TRYHACKME | Yukesh | [Read More](https://medium.com/p/d4dca411e56b) |
-| Sun, 16 Nov 2025 15:12:59 GMT | OhMyPP Web challenge PWNSEC CTF | 00xCanelo | [Read More](https://medium.com/p/7a46ff7b9350) |
-| Sun, 16 Nov 2025 15:02:08 GMT | How to Build Emotional Resilience Without Hardening Your Heart | Whimiscal | [Read More](https://medium.com/p/686582d06980) |
-| Sun, 16 Nov 2025 14:56:41 GMT | Fully Undetectable Reverse Shell using Staged Payload on Windows Systems | Salman Ahmed | [Read More](https://medium.com/p/8b26c1aef443) |
