@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 17:07:32 GMT | Rivalry — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/fa309f60983a) |
+| Sun, 16 Nov 2025 17:07:29 GMT | The Data Gold Rush: How Companies Secretly Collect Your Personal Information And Why You Should Be… | xsser01 | [Read More](https://medium.com/p/bbf198737284) |
+| Sun, 16 Nov 2025 17:02:56 GMT | Why the First AI-Orchestrated and Autonomously Executed Cyberattack Changes Everything | Berend Watchus | [Read More](https://medium.com/p/b7358636d7d0) |
+| Sun, 16 Nov 2025 16:59:28 GMT | Stanford’s 8-Word Hack That Unlocked AI’s Lost Creativity | Akshaya Mary Lingala | [Read More](https://medium.com/p/fcdd8ab1e0a0) |
+| Sun, 16 Nov 2025 16:59:05 GMT | Beyond the Blockchain: Building a “Quantum Notary” for the Web3 Era | Damian Griggs | [Read More](https://medium.com/p/f3ac2ab5015d) |
+| Sun, 16 Nov 2025 16:47:04 GMT | Securing SSH on AWS Ubuntu with Fail2Ban: A Beginner’s Hands-On Lab | Genet Shibru | [Read More](https://medium.com/p/841024858cbb) |
 | Sun, 16 Nov 2025 16:27:41 GMT | Void — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/94b59f68a97d) |
 | Sun, 16 Nov 2025 16:27:32 GMT | Kubernetes isn’t at rest. | Rajesh V | [Read More](https://medium.com/p/b3aff221bd8c) |
 | Sun, 16 Nov 2025 16:21:59 GMT | Breached! Five Cyber Attacks of 2025 — and the Hard Lessons | Quellin | [Read More](https://medium.com/p/5d3018be3e21) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 09:50:04 GMT | Winter Training in Penetration Testing Course with AI | Manisha Chaudhary | [Read More](https://medium.com/p/488cfe0b62ea) |
 | Sun, 16 Nov 2025 09:48:55 GMT | Blockchain for Cybersecurity: Benefits and Limitations | Jannatul Ferdous | [Read More](https://medium.com/p/315c7cb605c3) |
 | Sun, 16 Nov 2025 09:47:33 GMT | Deploying Azure Bicep via GitHub Actions | Brian Veldman | [Read More](https://medium.com/p/3cc2d6025948) |
-| Sun, 16 Nov 2025 09:44:32 GMT | Burp Suite for Beginners: Quick & Simple Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/7c6908a82ba5) |
-| Sun, 16 Nov 2025 09:39:36 GMT | Everyone Thinks I’m Doing Great… But Here’s the Story They Never Saw | Satyam Pathania | [Read More](https://medium.com/p/60b46a320b48) |
-| Sun, 16 Nov 2025 09:36:19 GMT | Why I’m Writing About Secure Development and VAPT | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/c7b93f319ffe) |
-| Sun, 16 Nov 2025 09:05:12 GMT | Storing Data Leaks Without Consent: Be Ready for Prison | 0trust0day | [Read More](https://medium.com/p/d787fe81dfe0) |
-| Sun, 16 Nov 2025 09:03:22 GMT | Why Vivo Y81 Is the Best Choice for Social Media Lovers? | Grace Anderson | [Read More](https://medium.com/p/f6652d0718cc) |
-| Sun, 16 Nov 2025 09:02:26 GMT | Enable Email Leak Alerts in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/85cf6b7e4769) |
