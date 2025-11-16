@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 16:27:41 GMT | Void — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/94b59f68a97d) |
+| Sun, 16 Nov 2025 16:27:32 GMT | Kubernetes isn’t at rest. | Rajesh V | [Read More](https://medium.com/p/b3aff221bd8c) |
+| Sun, 16 Nov 2025 16:21:59 GMT | Breached! Five Cyber Attacks of 2025 — and the Hard Lessons | Quellin | [Read More](https://medium.com/p/5d3018be3e21) |
+| Sun, 16 Nov 2025 16:19:02 GMT | What Is Information Security? — Building a Strong Foundation in the CIA Triad and Beyond | Damir Kolobaric | [Read More](https://medium.com/p/5b6c6fb68bc3) |
+| Sun, 16 Nov 2025 16:18:02 GMT | Reversing Lab Challenge Writeup | Salman Ahmed | [Read More](https://medium.com/p/669990998bb9) |
 | Sun, 16 Nov 2025 16:17:29 GMT | ReconX — The Fastest All-in-One Reconnaissance Framework for Pentesters | Divyanshu Saini | [Read More](https://medium.com/p/f4145a4d92b1) |
 | Sun, 16 Nov 2025 16:11:42 GMT | How a Single CSRF Vulnerability Can Lead to a Huge Bug Bounty — Full Breakdown + Complete… | Zoningxtr | [Read More](https://medium.com/p/5eee0d69a6ad) |
 | Sun, 16 Nov 2025 16:09:22 GMT | Certified Red Team Operator (CRTO): An Honest Review and Strategy Guide | Ryan Moore | [Read More](https://medium.com/p/72db2df2bad6) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 09:05:12 GMT | Storing Data Leaks Without Consent: Be Ready for Prison | 0trust0day | [Read More](https://medium.com/p/d787fe81dfe0) |
 | Sun, 16 Nov 2025 09:03:22 GMT | Why Vivo Y81 Is the Best Choice for Social Media Lovers? | Grace Anderson | [Read More](https://medium.com/p/f6652d0718cc) |
 | Sun, 16 Nov 2025 09:02:26 GMT | Enable Email Leak Alerts in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/85cf6b7e4769) |
-| Sun, 16 Nov 2025 09:01:33 GMT | Bug Turned into a Double Payout: The Azure Pipeline Variable Leak | Vibhurushi Chotaliya | [Read More](https://medium.com/p/e4ff16719260) |
-| Sun, 16 Nov 2025 08:54:28 GMT | Decisiveness: The Most Underrated Skill in Product Management | Bob Torabi | [Read More](https://medium.com/p/a90863cee490) |
-| Sun, 16 Nov 2025 08:47:54 GMT | API 1 Web Challenge Writeup | Shatha511 | [Read More](https://medium.com/p/fec91d10fc67) |
-| Sun, 16 Nov 2025 08:37:09 GMT | Building a Full SOC Home Lab From Scratch Configuration, Challenges, and What I Learned | Hirad Showghi | [Read More](https://medium.com/p/97d91575a6fe) |
-| Sun, 16 Nov 2025 08:24:30 GMT | N-Day Everyday , CVE-2025–57772 DataEase H2 ve DB2 Üzerinden JDBC Uzaktan Kod Çalıştırma | Yakup Erdem Ünal | [Read More](https://medium.com/p/1ab782fa3bba) |
