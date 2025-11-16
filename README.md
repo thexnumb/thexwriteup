@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 12:12:01 GMT | “The Unspoken Struggles: Finding Solace in a World That Demands Strength” | Ueiiowd | [Read More](https://medium.com/p/a8fb7ea69e6d) |
+| Sun, 16 Nov 2025 12:06:04 GMT | Medidas Preventivas y Buenas Prácticas en Ciberseguridad | Jonatan Vazquez Martinez | [Read More](https://medium.com/p/828e237ed438) |
+| Sun, 16 Nov 2025 12:04:15 GMT | DockerLabs Writeup — Sender (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3ef36439baeb) |
+| Sun, 16 Nov 2025 12:01:52 GMT | Today’s Top Cyber Intelligence Highlights — Nov 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3028a285b312) |
+| Sun, 16 Nov 2025 11:42:26 GMT | The Industrial-Scale Initial Access Revolution – When AI Transforms Every Vector Into a Precision… | David SEHYEON Baek | [Read More](https://medium.com/p/98164610b3bf) |
+| Sun, 16 Nov 2025 11:37:58 GMT | Detecting DLL Side-Loading: From Attack Simulation to SIEM Detection | CyberFreak | [Read More](https://medium.com/p/50f8ee41e407) |
+| Sun, 16 Nov 2025 11:37:33 GMT | How AI Transforms Breached Data Into Precision Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/52db7e7a0167) |
 | Sun, 16 Nov 2025 11:31:58 GMT | Why AI-Powered Attackers Will Outpace Defenses and Win | David SEHYEON Baek | [Read More](https://medium.com/p/72475154ef29) |
 | Sun, 16 Nov 2025 11:29:28 GMT | South Asia’s Cyber Battleground: Bangladesh on the Frontline | S. M. Abdullah | [Read More](https://medium.com/p/f536d3e8e6c5) |
 | Sun, 16 Nov 2025 11:27:48 GMT | Beyond the Law: Threat Modelling India’s New DPDP Act (Part 1) | praveen raj | [Read More](https://medium.com/p/9111b2218035) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 04:08:54 GMT | WebAssembly as an Attack Surface: New Browser Exploitation | zerOiQ | [Read More](https://medium.com/p/b7acfbd2801f) |
 | Sun, 16 Nov 2025 04:06:56 GMT | The scariest realization? I don’t trust myself. | Lunaria | [Read More](https://medium.com/p/7a7c683cb56c) |
 | Sun, 16 Nov 2025 04:02:29 GMT | The Great Russian Digital Firewall: How Russia Is Isolating Its Internet | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/3e24862f9d86) |
-| Sun, 16 Nov 2025 03:32:03 GMT | Lost Your iPhone? A New “Found Device” Scam Is Targeting You | Deven Chhajed | [Read More](https://medium.com/p/0608d90be54b) |
-| Sun, 16 Nov 2025 03:32:01 GMT | ️ Nmap Scripting Engine (NSE) Cheat Sheet | Dhruv | [Read More](https://medium.com/p/93632b39d95d) |
-| Sun, 16 Nov 2025 03:22:21 GMT | The $15 Billion AI Romance Scheme That Made Millions Question Reality | The Financial Yua | [Read More](https://medium.com/p/41a1932b7ea4) |
-| Sun, 16 Nov 2025 03:03:33 GMT | OAuth 2.0 : Fundamentals of Authorization | Mudassir Syed | [Read More](https://medium.com/p/313ec621e5c5) |
-| Sun, 16 Nov 2025 02:54:52 GMT | So Here Goes No(Some)thing | Buchi | [Read More](https://medium.com/p/c86d0d28ea26) |
-| Sun, 16 Nov 2025 02:53:06 GMT | AI CVE Slop: The Crisis Drowning Open Source Security | Daniel Ușurelu | [Read More](https://medium.com/p/583549c8e836) |
-| Sun, 16 Nov 2025 02:46:28 GMT | ⚙️SOAR When Your Security Team Starts Automating Its Superpowers | Thegreatpayload | [Read More](https://medium.com/p/193700b14ceb) |
