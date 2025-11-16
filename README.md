@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 23:08:47 GMT | Common security risks while adopting public repositories | Rick Yang | [Read More](https://medium.com/p/4f86aa7edbac) |
+| Sun, 16 Nov 2025 22:50:35 GMT | A Eulogy in Real Time | Lisa Martin | [Read More](https://medium.com/p/59556280f012) |
+| Sun, 16 Nov 2025 22:39:09 GMT | Build CVE Watcher AI Agent using GitHub MCP Server in Azure AI Foundry with Observability | Dipesh Shah | [Read More](https://medium.com/p/cc4e6dc944ec) |
+| Sun, 16 Nov 2025 22:37:39 GMT | The Future of SIEM: Streaming Analytics and Real-Time Correlation | Eric Howard, Ph. D. | [Read More](https://medium.com/p/382240b39566) |
+| Sun, 16 Nov 2025 22:35:47 GMT | SOC Automation: Integrating SOAR and AI for Threat Response | Eric Howard, Ph. D. | [Read More](https://medium.com/p/59f53aab9adb) |
 | Sun, 16 Nov 2025 22:18:06 GMT | LetsDefend— A SOC342 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/229db6e5a238) |
 | Sun, 16 Nov 2025 22:12:25 GMT | Vulnerability | Bobby Z. Ford | [Read More](https://medium.com/p/32853969ff4e) |
 | Sun, 16 Nov 2025 22:03:18 GMT | Social Engineering: The Most Human Exploit in Cybersecurity | Understand IT | [Read More](https://medium.com/p/11148fec8d6c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 15:12:59 GMT | OhMyPP Web challenge PWNSEC CTF | 00xCanelo | [Read More](https://medium.com/p/7a46ff7b9350) |
 | Sun, 16 Nov 2025 15:02:08 GMT | How to Build Emotional Resilience Without Hardening Your Heart | Whimiscal | [Read More](https://medium.com/p/686582d06980) |
 | Sun, 16 Nov 2025 14:56:41 GMT | Fully Undetectable Reverse Shell using Staged Payload on Windows Systems | Salman Ahmed | [Read More](https://medium.com/p/8b26c1aef443) |
-| Sun, 16 Nov 2025 14:56:05 GMT | Anthropic’s Nation State “Claude Hack”: Nothing to patch here | Julian B | [Read More](https://medium.com/p/2aebcf59a6a9) |
-| Sun, 16 Nov 2025 14:54:49 GMT | จากตำนานกรีกโบราณ สู่ภัยร้ายดิจิทัล: ประวัติศาสตร์ของ “ม้าไม้โทรจัน” และการเกิดใหม่ในโลกไซเบอร์ | TechTalk by Taa | [Read More](https://medium.com/p/36d0d1cfbc80) |
-| Sun, 16 Nov 2025 14:49:53 GMT | AI Is Going To Make This Worse: The Thing We Forget When Securing the Business | Helen Patton | [Read More](https://medium.com/p/8364388b1841) |
-| Sun, 16 Nov 2025 14:49:52 GMT | Asset management boutique under attack, the real cybersecurity case | 0trust0day | [Read More](https://medium.com/p/b6f61d79d744) |
-| Sun, 16 Nov 2025 14:36:21 GMT | How to Respond When a Man Asks if You Need Money: Navigating Subtle Tests in Relationships | Hanpis | [Read More](https://medium.com/p/4ec023a870f6) |
