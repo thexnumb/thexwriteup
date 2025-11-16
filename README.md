@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 17:31:51 GMT | ️ Building a Simple VPN From Scratch in C++ (Beginner-Friendly, Using TUN Interfaces) | Shivesh Chaturvedi | [Read More](https://medium.com/p/42719164b858) |
+| Sun, 16 Nov 2025 17:24:08 GMT | How to Create a Basic Antivirus — Part 1 | S.Ali | [Read More](https://medium.com/p/a0aa75958352) |
+| Sun, 16 Nov 2025 17:22:02 GMT | Pentesting 2025: 5 Tools That Change the Game | Quellin | [Read More](https://medium.com/p/1ffa12743fd2) |
 | Sun, 16 Nov 2025 17:07:32 GMT | Rivalry — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/fa309f60983a) |
 | Sun, 16 Nov 2025 17:07:29 GMT | The Data Gold Rush: How Companies Secretly Collect Your Personal Information And Why You Should Be… | xsser01 | [Read More](https://medium.com/p/bbf198737284) |
 | Sun, 16 Nov 2025 17:02:56 GMT | Why the First AI-Orchestrated and Autonomously Executed Cyberattack Changes Everything | Berend Watchus | [Read More](https://medium.com/p/b7358636d7d0) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 10:01:51 GMT | The Parts of You No One Sees | Unknown | [Read More](https://medium.com/p/d1328cf5ece0) |
 | Sun, 16 Nov 2025 10:01:21 GMT | Setting Up Grafana to Visualize Wazuh (SIEM) Alerts and OPNsense (Firewall) Logs | Arfan Abid | [Read More](https://medium.com/p/752cce12d2ef) |
 | Sun, 16 Nov 2025 09:55:02 GMT | DDoS (Distributed Denial-of-Service) | Enes Demir | [Read More](https://medium.com/p/491780ce306f) |
-| Sun, 16 Nov 2025 09:50:04 GMT | Winter Training in Penetration Testing Course with AI | Manisha Chaudhary | [Read More](https://medium.com/p/488cfe0b62ea) |
-| Sun, 16 Nov 2025 09:48:55 GMT | Blockchain for Cybersecurity: Benefits and Limitations | Jannatul Ferdous | [Read More](https://medium.com/p/315c7cb605c3) |
-| Sun, 16 Nov 2025 09:47:33 GMT | Deploying Azure Bicep via GitHub Actions | Brian Veldman | [Read More](https://medium.com/p/3cc2d6025948) |
