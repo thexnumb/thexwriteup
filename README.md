@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 06:23:00 GMT | ️ The ‘Unpatchable’ Human: Why AI-Driven Social Engineering is the Ultimate Threat | Hamza Younas | [Read More](https://medium.com/p/bd134552e549) |
+| Sun, 16 Nov 2025 06:10:58 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: Post-Exploitation CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/359edfc713a2) |
+| Sun, 16 Nov 2025 06:10:20 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: Exploitation CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/c274ac540d97) |
+| Sun, 16 Nov 2025 06:09:54 GMT | Customer-Centric Work: The Mindset That Builds Winning Teams | Vijay Kumar Gupta | [Read More](https://medium.com/p/468a3ed26bdb) |
+| Sun, 16 Nov 2025 06:07:29 GMT | Ethical Hacking with AI Tools — How AI Helps and Also Threatens Cybersecurity | Yashbendra singh | [Read More](https://medium.com/p/67f88674e69f) |
+| Sun, 16 Nov 2025 06:07:12 GMT | Windows Security: Abusing Access Tokens - A Practical CTF Walkthrough | ToxSec | [Read More](https://medium.com/p/800b8e633ffe) |
+| Sun, 16 Nov 2025 06:01:12 GMT | OSCP Proving Grounds — Levram Walkthrough | ToxSec | [Read More](https://medium.com/p/de90f5ccb12b) |
+| Sun, 16 Nov 2025 05:58:08 GMT | Digital Authoritarianism and Threats to Free Speech | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/1565c38cb0d2) |
+| Sun, 16 Nov 2025 05:56:01 GMT | File Upload Vulnerabilities for Bug Bounty | ToxSec | [Read More](https://medium.com/p/3718567050c0) |
+| Sun, 16 Nov 2025 05:54:53 GMT | Linux Privilege Escalation: Practical Guide to Kernel Exploits, Sudo, SUID, Capabilities, Cron… | Bash Overflow | [Read More](https://medium.com/p/472cff83bd9b) |
+| Sun, 16 Nov 2025 05:40:29 GMT | The Stages of Ethical Hacking: A Complete Professional Guide | Ritesh Thorve | [Read More](https://medium.com/p/789fa8492415) |
+| Sun, 16 Nov 2025 05:34:24 GMT | I will write IT resume, technical resume, software engineering, linkedin optimization | Bettymatt | [Read More](https://medium.com/p/afdb1b74cb43) |
 | Sun, 16 Nov 2025 05:29:32 GMT | Belajar coding sudah tidak lagi worth it karena AI?! | Willy Hardian | [Read More](https://medium.com/p/df06a40f03c3) |
 | Sun, 16 Nov 2025 05:23:35 GMT | Ruined by the Things She Hated in Herself | ୨୧⋆｡˚ ⋆ | [Read More](https://medium.com/p/1ec0d30159e4) |
 | Sun, 16 Nov 2025 05:19:03 GMT | The Philippines as Guest of Honor: Literacy, Democracy, and the Challenges Beneath the Celebration | Rabel Catayoc, DM, FRIEdr | [Read More](https://medium.com/p/df722cc8a5ad) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 18:03:50 GMT | What is Phishing ? A Simple explanation for beginners | Veeresh HS | [Read More](https://medium.com/p/399f1aec582b) |
 | Sat, 15 Nov 2025 17:54:52 GMT | MemLabs Lab 1 — Beginner’s Luck Write-Up | Busraugur | [Read More](https://medium.com/p/fa27f1dc6d32) |
 | Sat, 15 Nov 2025 17:50:18 GMT | De-Risking Enterprise AI Adoption: A CISO’s Playbook | Krishna Sai Marella | [Read More](https://medium.com/p/3b90be085736) |
-| Sat, 15 Nov 2025 17:49:34 GMT | Best 7 AI Code Review Tools for Security & Dependencies in 2026 | Sonali Sood | [Read More](https://medium.com/p/6831344eb298) |
-| Sat, 15 Nov 2025 17:48:43 GMT | 3 Recon Tricks + Advanced Pivots for Hidden Asset Discovery | Metiryx | [Read More](https://medium.com/p/daccdaa9e074) |
-| Sat, 15 Nov 2025 17:45:34 GMT | Claude on why it helped China cyberattack the West | Kevin O'Shaughnessy | [Read More](https://medium.com/p/6c06ae59adc0) |
-| Sat, 15 Nov 2025 17:44:19 GMT | AD Tradecraft: Certificate Services & Lateral Movement | Hishamrazak | [Read More](https://medium.com/p/98674d8c8839) |
-| Sat, 15 Nov 2025 17:32:56 GMT | Ethical Hacking with AI Tools: Inside the New Cybersecurity Tug-of-War | Rishi Singh | [Read More](https://medium.com/p/af5ed61a7218) |
-| Sat, 15 Nov 2025 17:32:56 GMT | Zero Trust Implementation Plan | Esra Kayhan Uysal | [Read More](https://medium.com/p/a5a7abbc43e8) |
-| Sat, 15 Nov 2025 17:23:52 GMT | RondoDox Is Pulling Unpatched XWiki Servers Into a Growing Botnet | Jasmitha | [Read More](https://medium.com/p/00c6c4de01b5) |
-| Sat, 15 Nov 2025 17:08:46 GMT | The Unedited Story of My First Root: Hacking Kioptrix Level 1 | Adbin Mgr | [Read More](https://medium.com/p/c999ad177fa3) |
-| Sat, 15 Nov 2025 17:06:13 GMT | Can Two Devices Have the Same MAC Address? And Do They Receive Each Other’s Messages? | Sidrahaaishahguitar | [Read More](https://medium.com/p/f17d7cc500e1) |
-| Sat, 15 Nov 2025 16:58:23 GMT | Operation Endgame: The Takedown That Proved We’re Fighting the Wrong War | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/bf5a156a6972) |
-| Sat, 15 Nov 2025 16:52:10 GMT | Silent Siege: How Attackers Compromise Your Phone & PC (and Exactly How to Stop Them) | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/ba7bcdd19472) |
-| Sat, 15 Nov 2025 16:47:11 GMT | Understanding VMware Memory Ballooning and Why Hypervisor Swapping Is a Performance Killer | Ahmed Maher | [Read More](https://medium.com/p/d60807886afb) |
