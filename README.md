@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 03:03:33 GMT | OAuth 2.0 : Fundamentals of Authorization | Mudassir Syed | [Read More](https://medium.com/p/313ec621e5c5) |
+| Sun, 16 Nov 2025 02:54:52 GMT | So Here Goes No(Some)thing | Buchi | [Read More](https://medium.com/p/c86d0d28ea26) |
+| Sun, 16 Nov 2025 02:53:06 GMT | AI CVE Slop: The Crisis Drowning Open Source Security | Daniel Ușurelu | [Read More](https://medium.com/p/583549c8e836) |
+| Sun, 16 Nov 2025 02:46:28 GMT | ⚙️SOAR When Your Security Team Starts Automating Its Superpowers | Thegreatpayload | [Read More](https://medium.com/p/193700b14ceb) |
 | Sun, 16 Nov 2025 01:48:54 GMT | Digital Comms Security — an extreme take | various | [Read More](https://medium.com/p/41cce1d8e48c) |
 | Sun, 16 Nov 2025 01:35:18 GMT | Hacking the Hacker®: Turning the Tables When an Intruder Thinks They Are Invisible | Travis Ray Caverhill | [Read More](https://medium.com/p/65312ac77937) |
 | Sun, 16 Nov 2025 01:18:42 GMT | Day 6 of My eJPTv2 Journey: The Great Enumeration Spree! ️‍♂️ | samurai | [Read More](https://medium.com/p/a012cb9850b7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 15:33:02 GMT | Cybersecurity Awareness Best Practices for Remote Workers | Compciti | [Read More](https://medium.com/p/4db31b161c97) |
 | Sat, 15 Nov 2025 15:31:30 GMT | How Ransomware Works: Anatomy of an Attack | Tech & Earn | [Read More](https://medium.com/p/be3160e219dc) |
 | Sat, 15 Nov 2025 15:23:00 GMT | From Curiosity to Caution: My Journey into Network Security Awareness | Mubashir | [Read More](https://medium.com/p/686841d64f02) |
-| Sat, 15 Nov 2025 15:18:20 GMT | Don’t Get Exploited: Patch Your Boundaries | Vijay Kumar Gupta | [Read More](https://medium.com/p/f2f3dffd1ba9) |
-| Sat, 15 Nov 2025 15:12:45 GMT | The Economic Fallout of Cyber Attacks: Why the World Keeps Paying the Same Ransom | Abatis ABTU | [Read More](https://medium.com/p/81bba3ed5c1e) |
-| Sat, 15 Nov 2025 15:12:24 GMT | Outbound Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/863b6abf9f3f) |
-| Sat, 15 Nov 2025 15:02:58 GMT | Outbound HTB Write-up | Pr3ach3r | [Read More](https://medium.com/p/690ff54f5277) |
