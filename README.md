@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 20:27:44 GMT | How I Turned My Wi-Fi Into a Motion Sensor… | Francesco Pace | [Read More](https://medium.com/p/61a631a9b4ec) |
+| Sun, 16 Nov 2025 20:24:59 GMT | EN 18031 Security Assets Clarified— with 24 Examples Not Present in the Standards | Dr. Guillaume Dupont | [Read More](https://medium.com/p/507cb2be556f) |
 | Sun, 16 Nov 2025 20:19:42 GMT | Grotesque 2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/5cc983e43a6b) |
 | Sun, 16 Nov 2025 20:19:23 GMT | IDOR Part 3 — Automation & Bug Bounty Mastery | Cybersecplayground | [Read More](https://medium.com/p/e3524b9a8a34) |
 | Sun, 16 Nov 2025 20:15:38 GMT | Cybersecurity Best Practices in Outsourcing Partnership | Enosis Outsourcing Staff | [Read More](https://medium.com/p/9466a5a35736) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 13:17:48 GMT | Let’s Bypass LLM Safety Guardrail | restdone | [Read More](https://medium.com/p/646767cf041d) |
 | Sun, 16 Nov 2025 13:17:46 GMT | PBO : Interface | Yasa Wijaya | [Read More](https://medium.com/p/461a9410e231) |
 | Sun, 16 Nov 2025 13:12:13 GMT | Metasploitable 3 (Windows) Write-up — Part [IV]: Port 445 — SMB Enumeration & EternalBlue… | Kalash Kundaliya | [Read More](https://medium.com/p/049c3224e5ff) |
-| Sun, 16 Nov 2025 13:09:36 GMT | 6 Farklı şirkette nasıl XSS buldum? | Burak | [Read More](https://medium.com/p/f74cd6c0e59b) |
-| Sun, 16 Nov 2025 13:07:05 GMT | Perfectly Imperfect Love | DeeArte | [Read More](https://medium.com/p/56abfaee47a7) |
