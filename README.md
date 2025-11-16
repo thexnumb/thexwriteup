@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 14:33:32 GMT | How My Custom IDOR Hunter Made Me $50k (And Saved My Clicking Finger) ️ | Iski | [Read More](https://medium.com/p/c4fc5dc3b3d1) |
+| Sun, 16 Nov 2025 14:30:02 GMT | Computer Networks Final Project Writeup | Salman Ahmed | [Read More](https://medium.com/p/b7794fcf75a8) |
+| Sun, 16 Nov 2025 14:29:13 GMT | MongoDB — Disaster Recovery Strategies | Ankit Gupta | [Read More](https://medium.com/p/6fe8e20bffbb) |
+| Sun, 16 Nov 2025 14:28:27 GMT | How I Finally Took Control of My Online Privacy in 2025 | Gunawan Aditya | [Read More](https://medium.com/p/f026a37f8251) |
+| Sun, 16 Nov 2025 14:26:20 GMT | Following the Data Trail: A Guide to Detecting Data Exfiltration ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/de3deb47bcfa) |
+| Sun, 16 Nov 2025 14:20:16 GMT | My First Day in a SOC | Manya Tyagi | [Read More](https://medium.com/p/8ab4357441bd) |
+| Sun, 16 Nov 2025 14:16:29 GMT | i created a product i believed in. but deep down, i did not expect it to work | Avil Beckford | [Read More](https://medium.com/p/5b5d328dbe88) |
 | Sun, 16 Nov 2025 14:11:21 GMT | Mover - IAM Process Flow - 9 Step Explanation | Anuja Pawar | [Read More](https://medium.com/p/c82d4f8fcaec) |
 | Sun, 16 Nov 2025 14:04:56 GMT | What is a Trojan? (Trojan Horse) - VIIEGO | Rolando | [Read More](https://medium.com/p/a70cba582b91) |
 | Sun, 16 Nov 2025 14:00:29 GMT | Chinese Hackers Exploit Claude AI to Automate Cyberattacks | Patrik Žák | [Read More](https://medium.com/p/2eda80705f5a) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 07:13:08 GMT | “Python For Hackers: A 10x Skill Upgrade [_AI_]” | Monu Jangra | [Read More](https://medium.com/p/9a6f44a9c8d8) |
 | Sun, 16 Nov 2025 07:07:49 GMT | Meta’s LeCun vs Anthropic: The AI Safety Battle That Will Shape Global Regulation | Nanthakumar | [Read More](https://medium.com/p/ccfa3ed1fc6c) |
 | Sun, 16 Nov 2025 07:03:10 GMT | Next-Gen VPNs Outsmart Censors: How Artificial Intelligence Redefines Internet Freedom | Voidly | [Read More](https://medium.com/p/6f6216850ee9) |
-| Sun, 16 Nov 2025 07:03:00 GMT | Step-by-Step Guide: How to Build a Lightweight Internal Pentest Toolkit That Just Works | Very Lazy Tech | [Read More](https://medium.com/p/ebcc188b2ca6) |
-| Sun, 16 Nov 2025 07:01:53 GMT | How Microsoft Defender Protects Against Cyber Threats | akas | [Read More](https://medium.com/p/e692dcd43eee) |
-| Sun, 16 Nov 2025 06:53:31 GMT | Hack The Box — Outbound Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/b245ab9b467b) |
-| Sun, 16 Nov 2025 06:42:25 GMT | Quantum Computing: The $20 Billion Revolution That’s Finally Getting Real | Rohit Dev | [Read More](https://medium.com/p/aacf3c740c92) |
-| Sun, 16 Nov 2025 06:34:20 GMT | A $1000 Bounty — Role Manipulation . | Monu Jangra | [Read More](https://medium.com/p/7523f77cd623) |
-| Sun, 16 Nov 2025 06:34:07 GMT | How to Choose the Best Penetration Testing Course: Complete Guide | cyber security Updates | [Read More](https://medium.com/p/f67ed9e26f2c) |
-| Sun, 16 Nov 2025 06:23:00 GMT | ️ The ‘Unpatchable’ Human: Why AI-Driven Social Engineering is the Ultimate Threat | Hamza Younas | [Read More](https://medium.com/p/bd134552e549) |
