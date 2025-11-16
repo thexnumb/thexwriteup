@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 10:17:39 GMT | DeDaSP: Революционизируя безопасность данных и их сохранность в эпоху
+децентрализации | S.Technology RU | [Read More](https://medium.com/p/e07c49c2e1da) |
+| Sun, 16 Nov 2025 10:03:21 GMT | My Beginner Journey into Cybersecurity and Bug Bounty | NPC | [Read More](https://medium.com/p/01555bffe5ed) |
+| Sun, 16 Nov 2025 10:01:51 GMT | The Parts of You No One Sees | Unknown | [Read More](https://medium.com/p/d1328cf5ece0) |
+| Sun, 16 Nov 2025 10:01:21 GMT | Setting Up Grafana to Visualize Wazuh (SIEM) Alerts and OPNsense (Firewall) Logs | Arfan Abid | [Read More](https://medium.com/p/752cce12d2ef) |
+| Sun, 16 Nov 2025 09:55:02 GMT | DDoS (Distributed Denial-of-Service) | Enes Demir | [Read More](https://medium.com/p/491780ce306f) |
+| Sun, 16 Nov 2025 09:50:04 GMT | Winter Training in Penetration Testing Course with AI | Manisha Chaudhary | [Read More](https://medium.com/p/488cfe0b62ea) |
+| Sun, 16 Nov 2025 09:48:55 GMT | Blockchain for Cybersecurity: Benefits and Limitations | Jannatul Ferdous | [Read More](https://medium.com/p/315c7cb605c3) |
+| Sun, 16 Nov 2025 09:47:33 GMT | Deploying Azure Bicep via GitHub Actions | Brian Veldman | [Read More](https://medium.com/p/3cc2d6025948) |
+| Sun, 16 Nov 2025 09:44:32 GMT | Burp Suite for Beginners: Quick & Simple Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/7c6908a82ba5) |
+| Sun, 16 Nov 2025 09:39:36 GMT | Everyone Thinks I’m Doing Great… But Here’s the Story They Never Saw | Satyam Pathania | [Read More](https://medium.com/p/60b46a320b48) |
+| Sun, 16 Nov 2025 09:36:19 GMT | Why I’m Writing About Secure Development and VAPT | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/c7b93f319ffe) |
 | Sun, 16 Nov 2025 09:05:12 GMT | Storing Data Leaks Without Consent: Be Ready for Prison | 0trust0day | [Read More](https://medium.com/p/d787fe81dfe0) |
 | Sun, 16 Nov 2025 09:03:22 GMT | Why Vivo Y81 Is the Best Choice for Social Media Lovers? | Grace Anderson | [Read More](https://medium.com/p/f6652d0718cc) |
 | Sun, 16 Nov 2025 09:02:26 GMT | Enable Email Leak Alerts in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/85cf6b7e4769) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 22:52:15 GMT | Asfixia Financeira no Combate às Organizações Criminosas: “Follow the money” | Gustavo D. Santos | [Read More](https://medium.com/p/737805af67cf) |
 | Sat, 15 Nov 2025 22:46:30 GMT | Enquanto não houver tecnologia capaz de ler pensamentos, a mente continuará sendo nosso último… | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/bb6c9a79d258) |
 | Sat, 15 Nov 2025 22:38:27 GMT | From Zero to Secure Connection: Mastering AWS Client VPN | José Carlos Carvalheira | [Read More](https://medium.com/p/18f269e096d2) |
-| Sat, 15 Nov 2025 22:26:11 GMT | HackTheBox CDSA Experience | DarkGlitch | [Read More](https://medium.com/p/dde710447e61) |
-| Sat, 15 Nov 2025 22:17:49 GMT | Building a Cybersecurity Home Lab — Part 3.2: Deploying and Configuring Windows VMs | JBXSec | [Read More](https://medium.com/p/fb3687b3b209) |
-| Sat, 15 Nov 2025 22:16:10 GMT | Building a Cybersecurity Home Lab — Part 3.1: Configuring Networking with pfSense | JBXSec | [Read More](https://medium.com/p/ee5decba8f47) |
-| Sat, 15 Nov 2025 22:13:52 GMT | OpenLit: The Unified Observability Layer for LLM Applications | vishal acharya | [Read More](https://medium.com/p/58cf43938691) |
-| Sat, 15 Nov 2025 22:12:49 GMT | case: Quantum Computing, Solving Problems That Don’t Exist | Berend Watchus | [Read More](https://medium.com/p/8891df0a23f4) |
-| Sat, 15 Nov 2025 22:12:20 GMT | Rethinking Your Security Career: Learning the Craft of AI Security Architecture | Arsh Riz | [Read More](https://medium.com/p/f8540d9e8069) |
-| Sat, 15 Nov 2025 22:04:05 GMT | China Just Let AI Hack 30 Companies on Its Own, And It Worked | The Bilalverse | [Read More](https://medium.com/p/1733d5df3756) |
-| Sat, 15 Nov 2025 21:48:18 GMT | Reconnaissance - Open Source Intelligence- Ethical Hacking | Aj | [Read More](https://medium.com/p/e2cd1a6cb651) |
-| Sat, 15 Nov 2025 21:47:55 GMT | Harnessing OSINT: Empowering Personal Defense and Everyday Decision-Making | Officer's Notes | [Read More](https://medium.com/p/d033948fe567) |
-| Sat, 15 Nov 2025 21:47:45 GMT | The Vital Role of OpSec in Everyday Life: Building Your Digital and Physical Fortress | Officer's Notes | [Read More](https://medium.com/p/9f972ae0f276) |
-| Sat, 15 Nov 2025 21:33:36 GMT | Control your notes with AI (FREE) | ZeakPeak | [Read More](https://medium.com/p/f177f6b987c7) |
