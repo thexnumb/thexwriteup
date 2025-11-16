@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 19:30:53 GMT | THE LETHAL QUIET | Tahir Malik | [Read More](https://medium.com/p/a3b6a08c32f6) |
+| Sun, 16 Nov 2025 19:18:02 GMT | A Practical Guide to Security Guard Compliance: How to Stay Ready for SOC 2, HIPAA, and GDPR Using… | Teona | [Read More](https://medium.com/p/3690f2230708) |
+| Sun, 16 Nov 2025 19:09:59 GMT | CyCTF Quals 2025 | Artful Dodger | [Read More](https://medium.com/p/8b71d480c50c) |
 | Sun, 16 Nov 2025 19:04:06 GMT | You’ve found me. | Yan_awrites;༊ | [Read More](https://medium.com/p/67935390b1b0) |
 | Sun, 16 Nov 2025 19:01:54 GMT | How the System Remembers: Diving into Memory Analysis | Dany Christel | [Read More](https://medium.com/p/f81f4fda4e87) |
 | Sun, 16 Nov 2025 19:00:23 GMT | India’s DPDP Act vs EU GDPR: What Today’s Rollout Means for Businesses | Hemant Patkar, CISSP | [Read More](https://medium.com/p/2d7055fb8bb8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 12:06:04 GMT | Medidas Preventivas y Buenas Prácticas en Ciberseguridad | Jonatan Vazquez Martinez | [Read More](https://medium.com/p/828e237ed438) |
 | Sun, 16 Nov 2025 12:04:15 GMT | DockerLabs Writeup — Sender (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3ef36439baeb) |
 | Sun, 16 Nov 2025 12:01:52 GMT | Today’s Top Cyber Intelligence Highlights — Nov 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3028a285b312) |
-| Sun, 16 Nov 2025 11:42:26 GMT | The Industrial-Scale Initial Access Revolution – When AI Transforms Every Vector Into a Precision… | David SEHYEON Baek | [Read More](https://medium.com/p/98164610b3bf) |
-| Sun, 16 Nov 2025 11:37:58 GMT | Detecting DLL Side-Loading: From Attack Simulation to SIEM Detection | CyberFreak | [Read More](https://medium.com/p/50f8ee41e407) |
-| Sun, 16 Nov 2025 11:37:33 GMT | How AI Transforms Breached Data Into Precision Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/52db7e7a0167) |
