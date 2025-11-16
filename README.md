@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 16:17:29 GMT | ReconX — The Fastest All-in-One Reconnaissance Framework for Pentesters | Divyanshu Saini | [Read More](https://medium.com/p/f4145a4d92b1) |
+| Sun, 16 Nov 2025 16:11:42 GMT | How a Single CSRF Vulnerability Can Lead to a Huge Bug Bounty — Full Breakdown + Complete… | Zoningxtr | [Read More](https://medium.com/p/5eee0d69a6ad) |
+| Sun, 16 Nov 2025 16:09:22 GMT | Certified Red Team Operator (CRTO): An Honest Review and Strategy Guide | Ryan Moore | [Read More](https://medium.com/p/72db2df2bad6) |
+| Sun, 16 Nov 2025 16:05:55 GMT | Beyond Antivirus: Understanding the Cybersecurity Evolution from EPP to SOAR | Sooraj Chettianakndy | [Read More](https://medium.com/p/a8f8a11f8d1c) |
+| Sun, 16 Nov 2025 16:01:53 GMT | Building Resilience Through Cybersecurity Risk Management | Vishwajeettechtech | [Read More](https://medium.com/p/d2ae0ee76c1a) |
+| Sun, 16 Nov 2025 16:00:28 GMT | Blue | Melih Kılıç | [Read More](https://medium.com/p/bb41f0ef6fb2) |
+| Sun, 16 Nov 2025 15:59:36 GMT | Cybersecurity in the Age of IoT: A Hacker’s Perspective | Dipta paul | [Read More](https://medium.com/p/d236e97507d7) |
+| Sun, 16 Nov 2025 15:48:56 GMT | What is RSA Encryption and How Does It Keep Your Data Safe? | Chaitanya Rai | [Read More](https://medium.com/p/a6fcb1b4032e) |
+| Sun, 16 Nov 2025 15:42:46 GMT | EUBW Draft, Nov 19 2025: What to Expext  and Why This is Very Important | Carsten Stöcker | [Read More](https://medium.com/p/4f8676e60d93) |
+| Sun, 16 Nov 2025 15:39:18 GMT | Don’t Fear the Market: Upgrade Your Skills and Switch with Confidence‍ | Shubham Vartak | [Read More](https://medium.com/p/fd371cda12d5) |
+| Sun, 16 Nov 2025 15:36:20 GMT | The Linux Security Journey — Protected FIFO (First In First Out) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/dbb9d946440c) |
+| Sun, 16 Nov 2025 15:32:45 GMT | OWASP top 10 2025 | Andrii Shyshenko | [Read More](https://medium.com/p/291fffcf8f94) |
 | Sun, 16 Nov 2025 15:25:10 GMT | Outbound — ackthebox Machine Writeup | Zubair Ahmed | [Read More](https://medium.com/p/02813f218c40) |
 | Sun, 16 Nov 2025 15:24:28 GMT | My Medical Database ERD (SQL Project) | Faysal Dhimbil | [Read More](https://medium.com/p/29f12e81bdd7) |
 | Sun, 16 Nov 2025 15:24:27 GMT | SQL Security Analysis Portfolio Project. Investigating Login Activity & Employee Machines | Mark Csete | [Read More](https://medium.com/p/93c14efebebc) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 08:47:54 GMT | API 1 Web Challenge Writeup | Shatha511 | [Read More](https://medium.com/p/fec91d10fc67) |
 | Sun, 16 Nov 2025 08:37:09 GMT | Building a Full SOC Home Lab From Scratch Configuration, Challenges, and What I Learned | Hirad Showghi | [Read More](https://medium.com/p/97d91575a6fe) |
 | Sun, 16 Nov 2025 08:24:30 GMT | N-Day Everyday , CVE-2025–57772 DataEase H2 ve DB2 Üzerinden JDBC Uzaktan Kod Çalıştırma | Yakup Erdem Ünal | [Read More](https://medium.com/p/1ab782fa3bba) |
-| Sun, 16 Nov 2025 08:17:18 GMT | Mo0n: A Python-based offensive toolkit for scanning and exploiting MCGS HMI devices (weak… | Мартин. | [Read More](https://medium.com/p/0b7fb0855bd0) |
-| Sun, 16 Nov 2025 08:17:04 GMT | One Address, One Disaster — Revealing GOT/HMI Tampering Techniques That Bypass Audit | Мартин. | [Read More](https://medium.com/p/a753902d15f7) |
-| Sun, 16 Nov 2025 08:16:27 GMT | Night_of_19: an Arduino/Python near‑field penetration toolkit that relays victims’ reverse shells… | Мартин. | [Read More](https://medium.com/p/a42d6490d1bc) |
-| Sun, 16 Nov 2025 08:13:31 GMT | Introduction to NIST Cybersecurity Framework (CSF) | Shree | [Read More](https://medium.com/p/80347ae67e09) |
-| Sun, 16 Nov 2025 08:02:27 GMT | They Said Their System Was Safe. It Took One Hour to Prove Them Wrong. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7dfe0d6c2390) |
-| Sun, 16 Nov 2025 08:02:00 GMT | Security and Threat Intelligence: Stirrin’ Up the Cyber Gumbo, Southern Style | the CyberStoic | [Read More](https://medium.com/p/1ec58697360f) |
-| Sun, 16 Nov 2025 07:59:21 GMT | Loving You is Coloring Me | Rabail Inshra Cheema | [Read More](https://medium.com/p/7642c0cefbd2) |
-| Sun, 16 Nov 2025 07:57:48 GMT | NIST 800–171 Rev.3: 60-Day Fast-Track Gap Fix Plan for SMBs | Pentest_Testing_Corp | [Read More](https://medium.com/p/00633ccc95ca) |
-| Sun, 16 Nov 2025 07:56:19 GMT | The Return of a Legend: A New Era for Private Marketplaces? | Susan A D A M | [Read More](https://medium.com/p/48e0a826131c) |
-| Sun, 16 Nov 2025 07:52:35 GMT | Docker Container Escape by Exploiting CGroups | Indigo Shadow | [Read More](https://medium.com/p/e52efab898d3) |
-| Sun, 16 Nov 2025 07:44:19 GMT | ⚡ Flash USDT on MetaMask — The Feature Most Crypto Users Don’t Realize Exists | Crypto Savvy | [Read More](https://medium.com/p/094be50dcc1d) |
-| Sun, 16 Nov 2025 07:37:42 GMT | Thornspire: The Whisper of Chains | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/bfbc144523ba) |
