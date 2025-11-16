@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 13:34:44 GMT | Cracking Wi-Fi WPA2 Password Using Kali Linux | Hardik | [Read More](https://medium.com/p/bd9993ae9651) |
+| Sun, 16 Nov 2025 13:32:43 GMT | Cyber Armor: Defending the Modern Digital World | Ayush Mittal | [Read More](https://medium.com/p/c5efccba219c) |
+| Sun, 16 Nov 2025 13:28:05 GMT | Dark Web Alert: 120,000 Resumes Leaked in Cornerstone Staffing Breach by Qilin Gang | Rabia AMAAOUCH | [Read More](https://medium.com/p/65b9a691afd9) |
 | Sun, 16 Nov 2025 13:24:18 GMT | How We Hacked inside e-commerce company: From Hidden Endpoints to Server Files: Our Full… | D0loresH4ze | [Read More](https://medium.com/p/f274d10f5997) |
+| Sun, 16 Nov 2025 13:21:34 GMT | Passwords, 2FA, and Crypto  The Common Sense Guide to Not Getting Hacked | Learn With Hatty | [Read More](https://medium.com/p/ec2766cfe63f) |
 | Sun, 16 Nov 2025 13:17:48 GMT | Let’s Bypass LLM Safety Guardrail | restdone | [Read More](https://medium.com/p/646767cf041d) |
+| Sun, 16 Nov 2025 13:17:46 GMT | PBO : Interface | Yasa Wijaya | [Read More](https://medium.com/p/461a9410e231) |
 | Sun, 16 Nov 2025 13:12:13 GMT | Metasploitable 3 (Windows) Write-up — Part [IV]: Port 445 — SMB Enumeration & EternalBlue… | Kalash Kundaliya | [Read More](https://medium.com/p/049c3224e5ff) |
 | Sun, 16 Nov 2025 13:09:36 GMT | 6 Farklı şirkette nasıl XSS buldum? | Burak | [Read More](https://medium.com/p/f74cd6c0e59b) |
 | Sun, 16 Nov 2025 13:07:05 GMT | Perfectly Imperfect Love | DeeArte | [Read More](https://medium.com/p/56abfaee47a7) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 06:01:12 GMT | OSCP Proving Grounds — Levram Walkthrough | ToxSec | [Read More](https://medium.com/p/de90f5ccb12b) |
 | Sun, 16 Nov 2025 05:58:08 GMT | Digital Authoritarianism and Threats to Free Speech | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/1565c38cb0d2) |
 | Sun, 16 Nov 2025 05:56:01 GMT | File Upload Vulnerabilities for Bug Bounty | ToxSec | [Read More](https://medium.com/p/3718567050c0) |
-| Sun, 16 Nov 2025 05:54:53 GMT | Linux Privilege Escalation: Practical Guide to Kernel Exploits, Sudo, SUID, Capabilities, Cron… | Bash Overflow | [Read More](https://medium.com/p/472cff83bd9b) |
-| Sun, 16 Nov 2025 05:40:29 GMT | The Stages of Ethical Hacking: A Complete Professional Guide | Ritesh Thorve | [Read More](https://medium.com/p/789fa8492415) |
-| Sun, 16 Nov 2025 05:34:24 GMT | I will write IT resume, technical resume, software engineering, linkedin optimization | Bettymatt | [Read More](https://medium.com/p/afdb1b74cb43) |
-| Sun, 16 Nov 2025 05:29:32 GMT | Belajar coding sudah tidak lagi worth it karena AI?! | Willy Hardian | [Read More](https://medium.com/p/df06a40f03c3) |
-| Sun, 16 Nov 2025 05:23:35 GMT | Ruined by the Things She Hated in Herself | ୨୧⋆｡˚ ⋆ | [Read More](https://medium.com/p/1ec0d30159e4) |
