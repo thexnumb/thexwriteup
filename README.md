@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 01:48:54 GMT | Digital Comms Security — an extreme take | various | [Read More](https://medium.com/p/41cce1d8e48c) |
+| Sun, 16 Nov 2025 01:35:18 GMT | Hacking the Hacker®: Turning the Tables When an Intruder Thinks They Are Invisible | Travis Ray Caverhill | [Read More](https://medium.com/p/65312ac77937) |
+| Sun, 16 Nov 2025 01:18:42 GMT | Day 6 of My eJPTv2 Journey: The Great Enumeration Spree! ️‍♂️ | samurai | [Read More](https://medium.com/p/a012cb9850b7) |
+| Sun, 16 Nov 2025 00:53:35 GMT | SOC Analyst L1 Series — Module 2: Alert Handling & Triage | Ishan Patel | [Read More](https://medium.com/p/57be922eb0ca) |
+| Sun, 16 Nov 2025 00:53:23 GMT | Farewell ingress-nginx: How Repeated Security Breaches Led to Its Downfall | Or Aspir | [Read More](https://medium.com/p/b3e2caad0f95) |
+| Sun, 16 Nov 2025 00:35:47 GMT | Claude AI & IBM: Is This the Ethical Backbone Enterprise Has Been Waiting For? | Sophia Lyimo - Author - Leader - Coach - Mentor | [Read More](https://medium.com/p/4dc580ecd684) |
+| Sun, 16 Nov 2025 00:32:22 GMT | Active Directory Attacks & Defense: The Enterprise Battlefield | Cybersecurity Simplified | [Read More](https://medium.com/p/54dac4042834) |
+| Sun, 16 Nov 2025 00:26:50 GMT | The Jaguar Land Rover Cyberattack: How a Single Breach Shook the UK Auto Industry | SECURE IT! | [Read More](https://medium.com/p/43c4228371ca) |
+| Sat, 15 Nov 2025 23:53:02 GMT | Are Satellite Communications Insecure? | Alejandro Polanco Masa | [Read More](https://medium.com/p/3d50f0a1a213) |
+| Sat, 15 Nov 2025 23:52:19 GMT | CKAD Diary 7: Security context and Resource requirements | Ngomba Litombe | [Read More](https://medium.com/p/6714cc84a35a) |
+| Sat, 15 Nov 2025 23:38:05 GMT | Documenting My Cybersecurity Journey : Introduction | Roxi | [Read More](https://medium.com/p/2c31a0b427b5) |
+| Sat, 15 Nov 2025 23:33:29 GMT | Report cryptocurrency scam/Contact: Scanner Hacker Crypto Recovery | Geowpsgdskalmxbxxb | [Read More](https://medium.com/p/67a98e18c7c4) |
+| Sat, 15 Nov 2025 23:32:45 GMT | Drosera: The Moment Web3 Security Stops Guessing and Starts Thinking | BYTE | [Read More](https://medium.com/p/40863e9a65e5) |
+| Sat, 15 Nov 2025 23:31:37 GMT | Exploitation Lab MBPL Part 2 : Bayu Fedra (Indonesia) | - NasPad Favoriteku - | [Read More](https://medium.com/p/07f23e869588) |
 | Sat, 15 Nov 2025 23:00:35 GMT | Se tiver a opção de escolher o silêncio, escolha sem hesitar. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/8d602662f0ef) |
 | Sat, 15 Nov 2025 22:59:15 GMT | Getting Wi-Fi 7 Working on Parrot OS (Qualcomm WCN7850 / ath12k) | Cody Richard | [Read More](https://medium.com/p/18cf91b24174) |
 | Sat, 15 Nov 2025 22:52:38 GMT | HTB-CDSA Review | MalwareBro | [Read More](https://medium.com/p/fed125f25936) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 15:12:45 GMT | The Economic Fallout of Cyber Attacks: Why the World Keeps Paying the Same Ransom | Abatis ABTU | [Read More](https://medium.com/p/81bba3ed5c1e) |
 | Sat, 15 Nov 2025 15:12:24 GMT | Outbound Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/863b6abf9f3f) |
 | Sat, 15 Nov 2025 15:02:58 GMT | Outbound HTB Write-up | Pr3ach3r | [Read More](https://medium.com/p/690ff54f5277) |
-| Sat, 15 Nov 2025 14:46:26 GMT | Unlock Your Networking Potential — for Free | Mohammed Hegaz | [Read More](https://medium.com/p/5536767cad20) |
-| Sat, 15 Nov 2025 14:44:37 GMT | Understanding RBAC and ABAC: Bugs Related to Them (From a Pentester’s Lens) | Dikshya Shrestha | [Read More](https://medium.com/p/144b6118f52e) |
-| Sat, 15 Nov 2025 14:44:29 GMT | This Simple Habit Can Save Your App from XSS and SQL Injection Attacks | CodeByUmar | [Read More](https://medium.com/p/f169999deae2) |
-| Sat, 15 Nov 2025 14:41:03 GMT | Finding Open Service Ports: Reducing Your Attack Surface with Nmap | Ramandeep Bagri | [Read More](https://medium.com/p/118d90b31224) |
-| Sat, 15 Nov 2025 14:35:27 GMT | TryHackMe: Sunshine | Muhammad Alshlqany | [Read More](https://medium.com/p/6c559796691a) |
-| Sat, 15 Nov 2025 14:26:25 GMT | To Hack or Not to Hack: EDR vs. Antivirus — What’s the Real Difference? ️ | Furkanctiner | [Read More](https://medium.com/p/94be74ef88d0) |
-| Sat, 15 Nov 2025 14:23:07 GMT | PhantomCollect Architecture: Building a Stealth Data Collection Engine from Scratch | xsser01 | [Read More](https://medium.com/p/9e58560290b0) |
-| Sat, 15 Nov 2025 14:16:40 GMT | How to Reduce Up to 95% of Your Office Costs by Increasing Your Security — As a Gift | CacheGuard Technologies | [Read More](https://medium.com/p/e99a20017d00) |
-| Sat, 15 Nov 2025 14:15:08 GMT | DorkBounty: Supercharging Recon for Bug Bounty Hunters | Bytewreaker | [Read More](https://medium.com/p/68d985f9df9b) |
-| Sat, 15 Nov 2025 14:10:58 GMT | LLM Guardrails: 50+ Safety Layers Every AI Application Needs | Aayush Gid | [Read More](https://medium.com/p/fe9d037aafe1) |
-| Sat, 15 Nov 2025 14:09:01 GMT | RustyKey HackTheBox -TimeRoasting & RBCD & DACL & Protected Users | Mohamed Eletreby | [Read More](https://medium.com/p/6988365025d1) |
-| Sat, 15 Nov 2025 14:08:12 GMT | The Silent AUKUS Gap: Australian Boards Are Now Exposed on AI Risk – And Most Don’t Even Know It… | AXSAS | [Read More](https://medium.com/p/2ee9edc98c61) |
-| Sat, 15 Nov 2025 14:04:25 GMT | This was how the plate got broken | Deb | [Read More](https://medium.com/p/c0e6777a5268) |
-| Sat, 15 Nov 2025 14:03:04 GMT | Hack The Box Rastalabs Review: Everything You Need to Know Before Starting | Krishnakant Sharma | [Read More](https://medium.com/p/378ffe3cc5ff) |
