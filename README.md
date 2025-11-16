@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 04:08:54 GMT | WebAssembly as an Attack Surface: New Browser Exploitation | zerOiQ | [Read More](https://medium.com/p/b7acfbd2801f) |
+| Sun, 16 Nov 2025 04:06:56 GMT | The scariest realization? I don’t trust myself. | Lunaria | [Read More](https://medium.com/p/7a7c683cb56c) |
+| Sun, 16 Nov 2025 04:02:29 GMT | The Great Russian Digital Firewall: How Russia Is Isolating Its Internet | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/3e24862f9d86) |
 | Sun, 16 Nov 2025 03:32:03 GMT | Lost Your iPhone? A New “Found Device” Scam Is Targeting You | Deven Chhajed | [Read More](https://medium.com/p/0608d90be54b) |
 | Sun, 16 Nov 2025 03:32:01 GMT | ️ Nmap Scripting Engine (NSE) Cheat Sheet | Dhruv | [Read More](https://medium.com/p/93632b39d95d) |
 | Sun, 16 Nov 2025 03:22:21 GMT | The $15 Billion AI Romance Scheme That Made Millions Question Reality | The Financial Yua | [Read More](https://medium.com/p/41a1932b7ea4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 16:21:31 GMT | Siber Güvenlikte Etik İlkeler | İbrahim Yiğit Çetin | [Read More](https://medium.com/p/97bc3930ae34) |
 | Sat, 15 Nov 2025 16:17:50 GMT | Practical Setup of Mobile Penetration Testing Environments (Android Focused) | Aria Dimas Mastur | [Read More](https://medium.com/p/88e72395b931) |
 | Sat, 15 Nov 2025 16:14:24 GMT | How Hackers Use npm to Steal Crypto & API Keys — And How You Can Stay Safe | Aswanyaugustine | [Read More](https://medium.com/p/0ffdefb7847a) |
-| Sat, 15 Nov 2025 16:05:01 GMT | JSON Storageleri Kullanarak Sisteme Sızan Kuzey Koreli Hackerlerin Saldırısının Detayları | Onur OKTAY | [Read More](https://medium.com/p/3623b8780788) |
-| Sat, 15 Nov 2025 15:50:47 GMT | The Moment Everyone Missed | AXSAS | [Read More](https://medium.com/p/b302e0af0bc6) |
-| Sat, 15 Nov 2025 15:45:27 GMT | Ethical ux/ui design: prioritizing user privacy and security | Mochi | [Read More](https://medium.com/p/95915f84c8b1) |
