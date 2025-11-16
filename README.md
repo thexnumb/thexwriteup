@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 03:32:03 GMT | Lost Your iPhone? A New “Found Device” Scam Is Targeting You | Deven Chhajed | [Read More](https://medium.com/p/0608d90be54b) |
+| Sun, 16 Nov 2025 03:32:01 GMT | ️ Nmap Scripting Engine (NSE) Cheat Sheet | Dhruv | [Read More](https://medium.com/p/93632b39d95d) |
+| Sun, 16 Nov 2025 03:22:21 GMT | The $15 Billion AI Romance Scheme That Made Millions Question Reality | The Financial Yua | [Read More](https://medium.com/p/41a1932b7ea4) |
 | Sun, 16 Nov 2025 03:03:33 GMT | OAuth 2.0 : Fundamentals of Authorization | Mudassir Syed | [Read More](https://medium.com/p/313ec621e5c5) |
 | Sun, 16 Nov 2025 02:54:52 GMT | So Here Goes No(Some)thing | Buchi | [Read More](https://medium.com/p/c86d0d28ea26) |
 | Sun, 16 Nov 2025 02:53:06 GMT | AI CVE Slop: The Crisis Drowning Open Source Security | Daniel Ușurelu | [Read More](https://medium.com/p/583549c8e836) |
@@ -34,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 22:59:15 GMT | Getting Wi-Fi 7 Working on Parrot OS (Qualcomm WCN7850 / ath12k) | Cody Richard | [Read More](https://medium.com/p/18cf91b24174) |
 | Sat, 15 Nov 2025 22:52:38 GMT | HTB-CDSA Review | MalwareBro | [Read More](https://medium.com/p/fed125f25936) |
 | Sat, 15 Nov 2025 22:52:15 GMT | Asfixia Financeira no Combate às Organizações Criminosas: “Follow the money” | Gustavo D. Santos | [Read More](https://medium.com/p/737805af67cf) |
+| Sat, 15 Nov 2025 22:46:30 GMT | Enquanto não houver tecnologia capaz de ler pensamentos, a mente continuará sendo nosso último… | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/bb6c9a79d258) |
 | Sat, 15 Nov 2025 22:38:27 GMT | From Zero to Secure Connection: Mastering AWS Client VPN | José Carlos Carvalheira | [Read More](https://medium.com/p/18f269e096d2) |
 | Sat, 15 Nov 2025 22:26:11 GMT | HackTheBox CDSA Experience | DarkGlitch | [Read More](https://medium.com/p/dde710447e61) |
 | Sat, 15 Nov 2025 22:17:49 GMT | Building a Cybersecurity Home Lab — Part 3.2: Deploying and Configuring Windows VMs | JBXSec | [Read More](https://medium.com/p/fb3687b3b209) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 16:05:01 GMT | JSON Storageleri Kullanarak Sisteme Sızan Kuzey Koreli Hackerlerin Saldırısının Detayları | Onur OKTAY | [Read More](https://medium.com/p/3623b8780788) |
 | Sat, 15 Nov 2025 15:50:47 GMT | The Moment Everyone Missed | AXSAS | [Read More](https://medium.com/p/b302e0af0bc6) |
 | Sat, 15 Nov 2025 15:45:27 GMT | Ethical ux/ui design: prioritizing user privacy and security | Mochi | [Read More](https://medium.com/p/95915f84c8b1) |
-| Sat, 15 Nov 2025 15:40:35 GMT | Next in AI: Issue | Sam Ghosh | [Read More](https://medium.com/p/73c9786041bb) |
-| Sat, 15 Nov 2025 15:33:02 GMT | Cybersecurity Awareness Best Practices for Remote Workers | Compciti | [Read More](https://medium.com/p/4db31b161c97) |
-| Sat, 15 Nov 2025 15:31:30 GMT | How Ransomware Works: Anatomy of an Attack | Tech & Earn | [Read More](https://medium.com/p/be3160e219dc) |
-| Sat, 15 Nov 2025 15:23:00 GMT | From Curiosity to Caution: My Journey into Network Security Awareness | Mubashir | [Read More](https://medium.com/p/686841d64f02) |
