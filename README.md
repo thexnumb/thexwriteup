@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 11:10:29 GMT | Which OnePlus 7 Pro Features Make It Ideal for Content Creators? | Chloe White | [Read More](https://medium.com/p/aef24c7d1b85) |
+| Sun, 16 Nov 2025 11:08:24 GMT | Claude on how it helped China attack the West | Kevin O'Shaughnessy | [Read More](https://medium.com/p/6a702f00e1cc) |
+| Sun, 16 Nov 2025 10:54:36 GMT | Purple Team Analysis: When Red Meets Blue in aWeb Attack | Biscotti Diskette | [Read More](https://medium.com/p/c1411d51d2df) |
+| Sun, 16 Nov 2025 10:52:27 GMT | Define Your Threat Landscape | Daniel | [Read More](https://medium.com/p/629fc678eb41) |
+| Sun, 16 Nov 2025 10:42:14 GMT | What Companies Actually Look For in Cybersecurity Hires — 2025 Report | Muhammad Haider Tallal | [Read More](https://medium.com/p/1d0d2e2a843e) |
+| Sun, 16 Nov 2025 10:41:38 GMT | How to Install Any Tool in Linux - APT Errors Solved (Fix Guide) | Shahzaib | [Read More](https://medium.com/p/afb88f547ac1) |
+| Sun, 16 Nov 2025 10:41:01 GMT | Cybersecurity #14: Nmap | mohandika | [Read More](https://medium.com/p/5ed1e0cdf66b) |
+| Sun, 16 Nov 2025 10:40:29 GMT | API 2 Web Challenge Writeup | Shatha511 | [Read More](https://medium.com/p/ef1a195068b8) |
 | Sun, 16 Nov 2025 10:24:16 GMT | PortSwigger Lab: Mystery Challenge (Apprentice) | Bazil Brohi | [Read More](https://medium.com/p/c3c967ad078c) |
 | Sun, 16 Nov 2025 10:23:42 GMT | AI Security Alert: Why Finance Leaders Must Check Their AI Vendors’ Trust Centres ASAP | Peter Beard, ACA | [Read More](https://medium.com/p/aff3495d6eba) |
 | Sun, 16 Nov 2025 10:22:23 GMT | ️ Dark Web: Efsaneler, Gerçekler ve Siber Dünyanın Görünmeyen Yüzü | Abdullah HANÇERLİ | [Read More](https://medium.com/p/0498f202546b) |
+| Sun, 16 Nov 2025 10:20:08 GMT | How I Hacked an Account Using Reset Password Poisoning | Nicole Franz Dizon | [Read More](https://medium.com/p/934f7e9b1bdc) |
 | Sun, 16 Nov 2025 10:17:39 GMT | DeDaSP: Революционизируя безопасность данных и их сохранность в эпоху
 децентрализации | S.Technology RU | [Read More](https://medium.com/p/e07c49c2e1da) |
 | Sun, 16 Nov 2025 10:03:21 GMT | My Beginner Journey into Cybersecurity and Bug Bounty | NPC | [Read More](https://medium.com/p/01555bffe5ed) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 00:35:47 GMT | Claude AI & IBM: Is This the Ethical Backbone Enterprise Has Been Waiting For? | Sophia Lyimo - Author - Leader - Coach - Mentor | [Read More](https://medium.com/p/4dc580ecd684) |
 | Sun, 16 Nov 2025 00:32:22 GMT | Active Directory Attacks & Defense: The Enterprise Battlefield | Cybersecurity Simplified | [Read More](https://medium.com/p/54dac4042834) |
 | Sun, 16 Nov 2025 00:26:50 GMT | The Jaguar Land Rover Cyberattack: How a Single Breach Shook the UK Auto Industry | SECURE IT! | [Read More](https://medium.com/p/43c4228371ca) |
-| Sat, 15 Nov 2025 23:53:02 GMT | Are Satellite Communications Insecure? | Alejandro Polanco Masa | [Read More](https://medium.com/p/3d50f0a1a213) |
-| Sat, 15 Nov 2025 23:52:19 GMT | CKAD Diary 7: Security context and Resource requirements | Ngomba Litombe | [Read More](https://medium.com/p/6714cc84a35a) |
-| Sat, 15 Nov 2025 23:38:05 GMT | Documenting My Cybersecurity Journey : Introduction | Roxi | [Read More](https://medium.com/p/2c31a0b427b5) |
-| Sat, 15 Nov 2025 23:33:29 GMT | Report cryptocurrency scam/Contact: Scanner Hacker Crypto Recovery | Geowpsgdskalmxbxxb | [Read More](https://medium.com/p/67a98e18c7c4) |
-| Sat, 15 Nov 2025 23:32:45 GMT | Drosera: The Moment Web3 Security Stops Guessing and Starts Thinking | BYTE | [Read More](https://medium.com/p/40863e9a65e5) |
-| Sat, 15 Nov 2025 23:31:37 GMT | Exploitation Lab MBPL Part 2 : Bayu Fedra (Indonesia) | - NasPad Favoriteku - | [Read More](https://medium.com/p/07f23e869588) |
-| Sat, 15 Nov 2025 23:00:35 GMT | Se tiver a opção de escolher o silêncio, escolha sem hesitar. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/8d602662f0ef) |
-| Sat, 15 Nov 2025 22:59:15 GMT | Getting Wi-Fi 7 Working on Parrot OS (Qualcomm WCN7850 / ath12k) | Cody Richard | [Read More](https://medium.com/p/18cf91b24174) |
-| Sat, 15 Nov 2025 22:52:38 GMT | HTB-CDSA Review | MalwareBro | [Read More](https://medium.com/p/fed125f25936) |
