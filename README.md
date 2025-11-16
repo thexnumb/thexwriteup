@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 15:25:10 GMT | Outbound — ackthebox Machine Writeup | Zubair Ahmed | [Read More](https://medium.com/p/02813f218c40) |
+| Sun, 16 Nov 2025 15:24:28 GMT | My Medical Database ERD (SQL Project) | Faysal Dhimbil | [Read More](https://medium.com/p/29f12e81bdd7) |
+| Sun, 16 Nov 2025 15:24:27 GMT | SQL Security Analysis Portfolio Project. Investigating Login Activity & Employee Machines | Mark Csete | [Read More](https://medium.com/p/93c14efebebc) |
+| Sun, 16 Nov 2025 15:19:27 GMT | CORRIDOR CHALLENGE TRYHACKME | Yukesh | [Read More](https://medium.com/p/d4dca411e56b) |
+| Sun, 16 Nov 2025 15:12:59 GMT | OhMyPP Web challenge PWNSEC CTF | 00xCanelo | [Read More](https://medium.com/p/7a46ff7b9350) |
 | Sun, 16 Nov 2025 15:02:08 GMT | How to Build Emotional Resilience Without Hardening Your Heart | Whimiscal | [Read More](https://medium.com/p/686582d06980) |
 | Sun, 16 Nov 2025 14:56:41 GMT | Fully Undetectable Reverse Shell using Staged Payload on Windows Systems | Salman Ahmed | [Read More](https://medium.com/p/8b26c1aef443) |
 | Sun, 16 Nov 2025 14:56:05 GMT | Anthropic’s Nation State “Claude Hack”: Nothing to patch here | Julian B | [Read More](https://medium.com/p/2aebcf59a6a9) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 07:52:35 GMT | Docker Container Escape by Exploiting CGroups | Indigo Shadow | [Read More](https://medium.com/p/e52efab898d3) |
 | Sun, 16 Nov 2025 07:44:19 GMT | ⚡ Flash USDT on MetaMask — The Feature Most Crypto Users Don’t Realize Exists | Crypto Savvy | [Read More](https://medium.com/p/094be50dcc1d) |
 | Sun, 16 Nov 2025 07:37:42 GMT | Thornspire: The Whisper of Chains | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/bfbc144523ba) |
-| Sun, 16 Nov 2025 07:37:31 GMT | Building My Virtual Cybersecurity Lab: Step 1 — Initializing VMs, and pfSense setup | bdls_cyber | [Read More](https://medium.com/p/a83f980bc9ac) |
-| Sun, 16 Nov 2025 07:37:04 GMT | Signs of Hard Drive Failure That You Should Know | EINITIAL24 | [Read More](https://medium.com/p/226f6a712055) |
-| Sun, 16 Nov 2025 07:36:12 GMT | Zip Slip: The Hidden Archive Extraction Vulnerability That Can Lead to RCE | Adithya | [Read More](https://medium.com/p/423c6bdeacf6) |
-| Sun, 16 Nov 2025 07:31:09 GMT | Adobe Or Salesforce: Which Stock Has More Upside? | Nauman khan | [Read More](https://medium.com/p/91000e6cdf92) |
-| Sun, 16 Nov 2025 07:30:47 GMT | Smart Data Archival: Cut Costs and Improve Performance | Ravi | [Read More](https://medium.com/p/83b083883c2e) |
