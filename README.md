@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 10:24:16 GMT | PortSwigger Lab: Mystery Challenge (Apprentice) | Bazil Brohi | [Read More](https://medium.com/p/c3c967ad078c) |
+| Sun, 16 Nov 2025 10:23:42 GMT | AI Security Alert: Why Finance Leaders Must Check Their AI Vendors’ Trust Centres ASAP | Peter Beard, ACA | [Read More](https://medium.com/p/aff3495d6eba) |
+| Sun, 16 Nov 2025 10:22:23 GMT | ️ Dark Web: Efsaneler, Gerçekler ve Siber Dünyanın Görünmeyen Yüzü | Abdullah HANÇERLİ | [Read More](https://medium.com/p/0498f202546b) |
 | Sun, 16 Nov 2025 10:17:39 GMT | DeDaSP: Революционизируя безопасность данных и их сохранность в эпоху
 децентрализации | S.Technology RU | [Read More](https://medium.com/p/e07c49c2e1da) |
 | Sun, 16 Nov 2025 10:03:21 GMT | My Beginner Journey into Cybersecurity and Bug Bounty | NPC | [Read More](https://medium.com/p/01555bffe5ed) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 23:00:35 GMT | Se tiver a opção de escolher o silêncio, escolha sem hesitar. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/8d602662f0ef) |
 | Sat, 15 Nov 2025 22:59:15 GMT | Getting Wi-Fi 7 Working on Parrot OS (Qualcomm WCN7850 / ath12k) | Cody Richard | [Read More](https://medium.com/p/18cf91b24174) |
 | Sat, 15 Nov 2025 22:52:38 GMT | HTB-CDSA Review | MalwareBro | [Read More](https://medium.com/p/fed125f25936) |
-| Sat, 15 Nov 2025 22:52:15 GMT | Asfixia Financeira no Combate às Organizações Criminosas: “Follow the money” | Gustavo D. Santos | [Read More](https://medium.com/p/737805af67cf) |
-| Sat, 15 Nov 2025 22:46:30 GMT | Enquanto não houver tecnologia capaz de ler pensamentos, a mente continuará sendo nosso último… | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/bb6c9a79d258) |
-| Sat, 15 Nov 2025 22:38:27 GMT | From Zero to Secure Connection: Mastering AWS Client VPN | José Carlos Carvalheira | [Read More](https://medium.com/p/18f269e096d2) |
