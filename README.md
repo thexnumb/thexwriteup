@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 08:37:09 GMT | Building a Full SOC Home Lab From Scratch Configuration, Challenges, and What I Learned | Hirad Showghi | [Read More](https://medium.com/p/97d91575a6fe) |
+| Sun, 16 Nov 2025 08:24:30 GMT | N-Day Everyday , CVE-2025–57772 DataEase H2 ve DB2 Üzerinden JDBC Uzaktan Kod Çalıştırma | Yakup Erdem Ünal | [Read More](https://medium.com/p/1ab782fa3bba) |
+| Sun, 16 Nov 2025 08:17:18 GMT | Mo0n: A Python-based offensive toolkit for scanning and exploiting MCGS HMI devices (weak… | Мартин. | [Read More](https://medium.com/p/0b7fb0855bd0) |
+| Sun, 16 Nov 2025 08:17:04 GMT | One Address, One Disaster — Revealing GOT/HMI Tampering Techniques That Bypass Audit | Мартин. | [Read More](https://medium.com/p/a753902d15f7) |
 | Sun, 16 Nov 2025 08:16:27 GMT | Night_of_19: an Arduino/Python near‑field penetration toolkit that relays victims’ reverse shells… | Мартин. | [Read More](https://medium.com/p/a42d6490d1bc) |
 | Sun, 16 Nov 2025 08:13:31 GMT | Introduction to NIST Cybersecurity Framework (CSF) | Shree | [Read More](https://medium.com/p/80347ae67e09) |
 | Sun, 16 Nov 2025 08:02:27 GMT | They Said Their System Was Safe. It Took One Hour to Prove Them Wrong. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7dfe0d6c2390) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 21:02:45 GMT | From Codes in the Colonies to Hideouts on the Frontier: A Look at Security, Privacy, and OpSec… | Officer's Notes | [Read More](https://medium.com/p/35b2194393a1) |
 | Sat, 15 Nov 2025 20:56:37 GMT | The JavaScript Supply Chain Is Broken — So I Built NPM Scan To Fix It | Shyngys Shynbolatov | [Read More](https://medium.com/p/339c21014fb5) |
 | Sat, 15 Nov 2025 20:35:57 GMT | A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience | Erkan Kavas | [Read More](https://medium.com/p/1882f3dfd1b5) |
-| Sat, 15 Nov 2025 20:16:36 GMT | Galois field (or finite field) theory for cryptography. | SachaWos | [Read More](https://medium.com/p/bb16a9182c90) |
-| Sat, 15 Nov 2025 20:13:48 GMT | Claude on National Insecurity Policy | Kevin O'Shaughnessy | [Read More](https://medium.com/p/aee5cfc9e3cb) |
-| Sat, 15 Nov 2025 20:05:55 GMT | Exposing North Korea’s Stealthiest Trap 2025 | O. J. Okpabi | [Read More](https://medium.com/p/8116403d120c) |
-| Sat, 15 Nov 2025 19:56:24 GMT | How Hidden Communities Form on the Darkweb | Tor BBB | [Read More](https://medium.com/p/9b2f043bda3c) |
