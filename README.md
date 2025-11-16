@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 21:05:19 GMT | Multi-Stage Web Exploitation Leading to Full System Compromise and Privilege Dominance | Kiza | [Read More](https://medium.com/p/c0382c706111) |
+| Sun, 16 Nov 2025 20:58:17 GMT | Security and Performance Aspects of HugePages Configuration | Linux Guide | [Read More](https://medium.com/p/72f138dc7d09) |
+| Sun, 16 Nov 2025 20:49:36 GMT | Grotesque3 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/14e9eca4a180) |
+| Sun, 16 Nov 2025 20:37:42 GMT | The Recon Playbook Every Hacker Uses (But No One Talks About)b | iam_with_you11 | [Read More](https://medium.com/p/4c4e0477fa5d) |
+| Sun, 16 Nov 2025 20:35:04 GMT | Bitcoin Doesn’t Use Encryption — What Adam Back’s Comment Really Means | Aaron Recompile | [Read More](https://medium.com/p/4c3f1527a4d3) |
 | Sun, 16 Nov 2025 20:27:44 GMT | How I Turned My Wi-Fi Into a Motion Sensor… | Francesco Pace | [Read More](https://medium.com/p/61a631a9b4ec) |
 | Sun, 16 Nov 2025 20:24:59 GMT | EN 18031 Security Assets Clarified— with 24 Examples Not Present in the Standards | Dr. Guillaume Dupont | [Read More](https://medium.com/p/507cb2be556f) |
 | Sun, 16 Nov 2025 20:19:42 GMT | Grotesque 2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/5cc983e43a6b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 13:34:44 GMT | Cracking Wi-Fi WPA2 Password Using Kali Linux | Hardik | [Read More](https://medium.com/p/bd9993ae9651) |
 | Sun, 16 Nov 2025 13:32:43 GMT | Cyber Armor: Defending the Modern Digital World | Ayush Mittal | [Read More](https://medium.com/p/c5efccba219c) |
 | Sun, 16 Nov 2025 13:28:05 GMT | Dark Web Alert: 120,000 Resumes Leaked in Cornerstone Staffing Breach by Qilin Gang | Rabia AMAAOUCH | [Read More](https://medium.com/p/65b9a691afd9) |
-| Sun, 16 Nov 2025 13:24:18 GMT | How We Hacked inside e-commerce company: From Hidden Endpoints to Server Files: Our Full… | D0loresH4ze | [Read More](https://medium.com/p/f274d10f5997) |
-| Sun, 16 Nov 2025 13:21:34 GMT | Passwords, 2FA, and Crypto  The Common Sense Guide to Not Getting Hacked | Learn With Hatty | [Read More](https://medium.com/p/ec2766cfe63f) |
-| Sun, 16 Nov 2025 13:17:48 GMT | Let’s Bypass LLM Safety Guardrail | restdone | [Read More](https://medium.com/p/646767cf041d) |
-| Sun, 16 Nov 2025 13:17:46 GMT | PBO : Interface | Yasa Wijaya | [Read More](https://medium.com/p/461a9410e231) |
-| Sun, 16 Nov 2025 13:12:13 GMT | Metasploitable 3 (Windows) Write-up — Part [IV]: Port 445 — SMB Enumeration & EternalBlue… | Kalash Kundaliya | [Read More](https://medium.com/p/049c3224e5ff) |
