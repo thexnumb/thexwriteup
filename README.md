@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 05:29:32 GMT | Belajar coding sudah tidak lagi worth it karena AI?! | Willy Hardian | [Read More](https://medium.com/p/df06a40f03c3) |
+| Sun, 16 Nov 2025 05:23:35 GMT | Ruined by the Things She Hated in Herself | ୨୧⋆｡˚ ⋆ | [Read More](https://medium.com/p/1ec0d30159e4) |
+| Sun, 16 Nov 2025 05:19:03 GMT | The Philippines as Guest of Honor: Literacy, Democracy, and the Challenges Beneath the Celebration | Rabel Catayoc, DM, FRIEdr | [Read More](https://medium.com/p/df722cc8a5ad) |
+| Sun, 16 Nov 2025 05:16:23 GMT | Ransomware as a Service: How the Franchise Model Exploits You | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d0ccd2d450f0) |
 | Sun, 16 Nov 2025 04:56:29 GMT | You too, Agents? | Yogesh Haribhau Kulkarni (PhD) | [Read More](https://medium.com/p/fdcfe7094b6d) |
 | Sun, 16 Nov 2025 04:54:52 GMT | Small Business? Big Target. The Exploit That’s Quietly Going Viral | Rendur M. Saunter | [Read More](https://medium.com/p/31ee5e304057) |
 | Sun, 16 Nov 2025 04:54:26 GMT | Cicada— HTB Writeups | Alts | [Read More](https://medium.com/p/c5c720e16a4c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 16:58:23 GMT | Operation Endgame: The Takedown That Proved We’re Fighting the Wrong War | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/bf5a156a6972) |
 | Sat, 15 Nov 2025 16:52:10 GMT | Silent Siege: How Attackers Compromise Your Phone & PC (and Exactly How to Stop Them) | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/ba7bcdd19472) |
 | Sat, 15 Nov 2025 16:47:11 GMT | Understanding VMware Memory Ballooning and Why Hypervisor Swapping Is a Performance Killer | Ahmed Maher | [Read More](https://medium.com/p/d60807886afb) |
-| Sat, 15 Nov 2025 16:46:15 GMT | [hidden_in_the_stream] — [Digital Forensics] — [CUET CTF 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/4e231577a71b) |
-| Sat, 15 Nov 2025 16:40:37 GMT | EN 18031: How to Demonstrate Best Practice Cryptography | Dr. Guillaume Dupont | [Read More](https://medium.com/p/0b13d3945ccf) |
-| Sat, 15 Nov 2025 16:39:01 GMT | Watermarking Images and videos for deepfake detection. | Prabu R | [Read More](https://medium.com/p/73d722fd1cfb) |
-| Sat, 15 Nov 2025 16:34:46 GMT | Iran Is Hitting a Breaking Point and the Regime Knows It | Money, Guns & Oil | [Read More](https://medium.com/p/a882f9e7ab72) |
