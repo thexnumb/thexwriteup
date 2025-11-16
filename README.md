@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 07:31:09 GMT | Adobe Or Salesforce: Which Stock Has More Upside? | Nauman khan | [Read More](https://medium.com/p/91000e6cdf92) |
+| Sun, 16 Nov 2025 07:30:08 GMT | End-to-End Cryptography Implementations ✨ | Esra Kayhan Uysal | [Read More](https://medium.com/p/ae538fb01298) |
+| Sun, 16 Nov 2025 07:27:01 GMT | Beginner to Advanced Networking — Complete Practical Guide | Om Gohil | [Read More](https://medium.com/p/d66f2dbac6a2) |
+| Sun, 16 Nov 2025 07:23:32 GMT | Implementing CASEF for Artificial Intelligence: Can Your GRC Keep Up When Access Belongs to… | Travis Ray Caverhill | [Read More](https://medium.com/p/ceb5edec768b) |
+| Sun, 16 Nov 2025 07:20:03 GMT | Sovereign API keys | Alquante Foster - Sentinel Dynamics | [Read More](https://medium.com/p/146818b0c87c) |
+| Sun, 16 Nov 2025 07:13:08 GMT | “Python For Hackers: A 10x Skill Upgrade [_AI_]” | Monu Jangra | [Read More](https://medium.com/p/9a6f44a9c8d8) |
 | Sun, 16 Nov 2025 07:07:49 GMT | Meta’s LeCun vs Anthropic: The AI Safety Battle That Will Shape Global Regulation | Nanthakumar | [Read More](https://medium.com/p/ccfa3ed1fc6c) |
 | Sun, 16 Nov 2025 07:03:10 GMT | Next-Gen VPNs Outsmart Censors: How Artificial Intelligence Redefines Internet Freedom | Voidly | [Read More](https://medium.com/p/6f6216850ee9) |
 | Sun, 16 Nov 2025 07:03:00 GMT | Step-by-Step Guide: How to Build a Lightweight Internal Pentest Toolkit That Just Works | Very Lazy Tech | [Read More](https://medium.com/p/ebcc188b2ca6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 19:01:06 GMT | “I’m Too Smart to Be Scammed.” (Famous Last Words) | ByteSwift Digital pro | [Read More](https://medium.com/p/81d29e6fb839) |
 | Sat, 15 Nov 2025 18:56:36 GMT | Operation Blackout 2025: Phantom Check- HTB Sherlock | Ghost0Sun | [Read More](https://medium.com/p/f43877fb01df) |
 | Sat, 15 Nov 2025 18:53:10 GMT | Trace Vector — Edition 01 - November 2025 Theme: The Architecture of Influence | Muhammad Ateeb Malik | [Read More](https://medium.com/p/373516a014ab) |
-| Sat, 15 Nov 2025 18:50:46 GMT | Penetration Testing Execution Standard (PTES) | Prathameshchandekar | [Read More](https://medium.com/p/7a4f4a4d4846) |
-| Sat, 15 Nov 2025 18:43:18 GMT | AI Frameworks Hit by Copy-Paste Code Vulnerabilities | Valentin Podkamennyi | [Read More](https://medium.com/p/b880fbb0ce4f) |
-| Sat, 15 Nov 2025 18:32:28 GMT | Footprinting in Ethical Hacking: Your Complete OSINT Guide (Simple, Practical & Powerful) | Purushotham.R | [Read More](https://medium.com/p/99b2de8f1974) |
-| Sat, 15 Nov 2025 18:29:43 GMT | TryHackme Writeup: Tomghost | Berkay AĞGÜL | [Read More](https://medium.com/p/d518fb2d7945) |
-| Sat, 15 Nov 2025 18:24:13 GMT | Where Do I Put All This Love Nobody Wants? | Oluwabunmi Fortune Ajibade | [Read More](https://medium.com/p/cbf3a451467c) |
-| Sat, 15 Nov 2025 18:21:31 GMT | Intro: What I’ll Post On This Page | Avigail Laing | [Read More](https://medium.com/p/4f51eba5bd48) |
