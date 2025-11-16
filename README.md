@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 04:56:29 GMT | You too, Agents? | Yogesh Haribhau Kulkarni (PhD) | [Read More](https://medium.com/p/fdcfe7094b6d) |
+| Sun, 16 Nov 2025 04:54:52 GMT | Small Business? Big Target. The Exploit That’s Quietly Going Viral | Rendur M. Saunter | [Read More](https://medium.com/p/31ee5e304057) |
+| Sun, 16 Nov 2025 04:54:26 GMT | Cicada— HTB Writeups | Alts | [Read More](https://medium.com/p/c5c720e16a4c) |
+| Sun, 16 Nov 2025 04:45:47 GMT | We Are Not Prepared for AI-Powered Social Engineering | PATHAKHRK | [Read More](https://medium.com/p/771b32d9b4b8) |
+| Sun, 16 Nov 2025 04:45:01 GMT | The Teen Who Hacked the Pentagon | Sami Ullah | [Read More](https://medium.com/p/f088906429bf) |
 | Sun, 16 Nov 2025 04:08:54 GMT | WebAssembly as an Attack Surface: New Browser Exploitation | zerOiQ | [Read More](https://medium.com/p/b7acfbd2801f) |
 | Sun, 16 Nov 2025 04:06:56 GMT | The scariest realization? I don’t trust myself. | Lunaria | [Read More](https://medium.com/p/7a7c683cb56c) |
 | Sun, 16 Nov 2025 04:02:29 GMT | The Great Russian Digital Firewall: How Russia Is Isolating Its Internet | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/3e24862f9d86) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 16:40:37 GMT | EN 18031: How to Demonstrate Best Practice Cryptography | Dr. Guillaume Dupont | [Read More](https://medium.com/p/0b13d3945ccf) |
 | Sat, 15 Nov 2025 16:39:01 GMT | Watermarking Images and videos for deepfake detection. | Prabu R | [Read More](https://medium.com/p/73d722fd1cfb) |
 | Sat, 15 Nov 2025 16:34:46 GMT | Iran Is Hitting a Breaking Point and the Regime Knows It | Money, Guns & Oil | [Read More](https://medium.com/p/a882f9e7ab72) |
-| Sat, 15 Nov 2025 16:27:09 GMT | What the KnownSec Breach Reveals About China’s Cyber Machine | Marcel | [Read More](https://medium.com/p/1ca09a621812) |
-| Sat, 15 Nov 2025 16:26:54 GMT | OSINT Photo Geolocation Challenge: Identifying the Precise Location of a City Photograph | Irem Bezci | [Read More](https://medium.com/p/e89fe19bcc1f) |
-| Sat, 15 Nov 2025 16:21:31 GMT | Siber Güvenlikte Etik İlkeler | İbrahim Yiğit Çetin | [Read More](https://medium.com/p/97bc3930ae34) |
-| Sat, 15 Nov 2025 16:17:50 GMT | Practical Setup of Mobile Penetration Testing Environments (Android Focused) | Aria Dimas Mastur | [Read More](https://medium.com/p/88e72395b931) |
-| Sat, 15 Nov 2025 16:14:24 GMT | How Hackers Use npm to Steal Crypto & API Keys — And How You Can Stay Safe | Aswanyaugustine | [Read More](https://medium.com/p/0ffdefb7847a) |
