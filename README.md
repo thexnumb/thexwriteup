@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 08:16:27 GMT | Night_of_19: an Arduino/Python near‑field penetration toolkit that relays victims’ reverse shells… | Мартин. | [Read More](https://medium.com/p/a42d6490d1bc) |
+| Sun, 16 Nov 2025 08:13:31 GMT | Introduction to NIST Cybersecurity Framework (CSF) | Shree | [Read More](https://medium.com/p/80347ae67e09) |
+| Sun, 16 Nov 2025 08:02:27 GMT | They Said Their System Was Safe. It Took One Hour to Prove Them Wrong. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7dfe0d6c2390) |
+| Sun, 16 Nov 2025 08:02:00 GMT | Security and Threat Intelligence: Stirrin’ Up the Cyber Gumbo, Southern Style | the CyberStoic | [Read More](https://medium.com/p/1ec58697360f) |
+| Sun, 16 Nov 2025 07:59:21 GMT | Loving You is Coloring Me | Rabail Inshra Cheema | [Read More](https://medium.com/p/7642c0cefbd2) |
+| Sun, 16 Nov 2025 07:57:48 GMT | NIST 800–171 Rev.3: 60-Day Fast-Track Gap Fix Plan for SMBs | Pentest_Testing_Corp | [Read More](https://medium.com/p/00633ccc95ca) |
+| Sun, 16 Nov 2025 07:56:19 GMT | The Return of a Legend: A New Era for Private Marketplaces? | Susan A D A M | [Read More](https://medium.com/p/48e0a826131c) |
+| Sun, 16 Nov 2025 07:52:35 GMT | Docker Container Escape by Exploiting CGroups | Indigo Shadow | [Read More](https://medium.com/p/e52efab898d3) |
+| Sun, 16 Nov 2025 07:44:19 GMT | ⚡ Flash USDT on MetaMask — The Feature Most Crypto Users Don’t Realize Exists | Crypto Savvy | [Read More](https://medium.com/p/094be50dcc1d) |
+| Sun, 16 Nov 2025 07:37:42 GMT | Thornspire: The Whisper of Chains | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/bfbc144523ba) |
+| Sun, 16 Nov 2025 07:37:31 GMT | Building My Virtual Cybersecurity Lab: Step 1 — Initializing VMs, and pfSense setup | bdls_cyber | [Read More](https://medium.com/p/a83f980bc9ac) |
+| Sun, 16 Nov 2025 07:37:04 GMT | Signs of Hard Drive Failure That You Should Know | EINITIAL24 | [Read More](https://medium.com/p/226f6a712055) |
+| Sun, 16 Nov 2025 07:36:12 GMT | Zip Slip: The Hidden Archive Extraction Vulnerability That Can Lead to RCE | Adithya | [Read More](https://medium.com/p/423c6bdeacf6) |
 | Sun, 16 Nov 2025 07:31:09 GMT | Adobe Or Salesforce: Which Stock Has More Upside? | Nauman khan | [Read More](https://medium.com/p/91000e6cdf92) |
+| Sun, 16 Nov 2025 07:30:47 GMT | Smart Data Archival: Cut Costs and Improve Performance | Ravi | [Read More](https://medium.com/p/83b083883c2e) |
 | Sun, 16 Nov 2025 07:30:08 GMT | End-to-End Cryptography Implementations ✨ | Esra Kayhan Uysal | [Read More](https://medium.com/p/ae538fb01298) |
 | Sun, 16 Nov 2025 07:27:01 GMT | Beginner to Advanced Networking — Complete Practical Guide | Om Gohil | [Read More](https://medium.com/p/d66f2dbac6a2) |
 | Sun, 16 Nov 2025 07:23:32 GMT | Implementing CASEF for Artificial Intelligence: Can Your GRC Keep Up When Access Belongs to… | Travis Ray Caverhill | [Read More](https://medium.com/p/ceb5edec768b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 20:13:48 GMT | Claude on National Insecurity Policy | Kevin O'Shaughnessy | [Read More](https://medium.com/p/aee5cfc9e3cb) |
 | Sat, 15 Nov 2025 20:05:55 GMT | Exposing North Korea’s Stealthiest Trap 2025 | O. J. Okpabi | [Read More](https://medium.com/p/8116403d120c) |
 | Sat, 15 Nov 2025 19:56:24 GMT | How Hidden Communities Form on the Darkweb | Tor BBB | [Read More](https://medium.com/p/9b2f043bda3c) |
-| Sat, 15 Nov 2025 19:55:06 GMT | I Almost Lost My Apple Account to the Most Sophisticated Phishing Attack I’ve Ever Seen | Eric Moret | [Read More](https://medium.com/p/cff92a470950) |
-| Sat, 15 Nov 2025 19:51:58 GMT | The Co-Pilot AI Just Took the Control. | Thiranjaya Sundarapperuma | [Read More](https://medium.com/p/ad9dceb9d18d) |
-| Sat, 15 Nov 2025 19:47:42 GMT | From Law to Ethical Hacking: How I Transitioned Into Cybersecurity | Mbcyberworks | [Read More](https://medium.com/p/106e9c3a5645) |
-| Sat, 15 Nov 2025 19:46:08 GMT | OWASP Top 10 2025: Insecure Data Handling | G MRSY | [Read More](https://medium.com/p/ddff14c49784) |
-| Sat, 15 Nov 2025 19:44:07 GMT | Advanced Auditd Advanced Usage Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/8efd89a0c01d) |
-| Sat, 15 Nov 2025 19:31:31 GMT | Previous HTB Machine — Complete Walkthrough | Oussama Djelloul | [Read More](https://medium.com/p/f7e6414804cd) |
-| Sat, 15 Nov 2025 19:23:43 GMT | Stay protected with our real-time CCTV surveillance, ensuring safety, security, and peace of mind… | Visual Monitoring Solutions | [Read More](https://medium.com/p/718ae9a92c22) |
-| Sat, 15 Nov 2025 19:18:57 GMT | Basic Pentesting — TryHackMe (Write-out) | Muhammad Saad | [Read More](https://medium.com/p/28a301cb9d3e) |
-| Sat, 15 Nov 2025 19:17:21 GMT | OWASP Top 10 2025: IAAA Failures | G MRSY | [Read More](https://medium.com/p/d755d761220d) |
-| Sat, 15 Nov 2025 19:09:11 GMT | BoardLight — Hack The Box (easy) | d4rkonus | [Read More](https://medium.com/p/24491328347e) |
-| Sat, 15 Nov 2025 19:06:48 GMT | OWASP Top 10 2025: Application Design Flaws | G MRSY | [Read More](https://medium.com/p/445ef1dca584) |
-| Sat, 15 Nov 2025 19:01:06 GMT | “I’m Too Smart to Be Scammed.” (Famous Last Words) | ByteSwift Digital pro | [Read More](https://medium.com/p/81d29e6fb839) |
-| Sat, 15 Nov 2025 18:56:36 GMT | Operation Blackout 2025: Phantom Check- HTB Sherlock | Ghost0Sun | [Read More](https://medium.com/p/f43877fb01df) |
-| Sat, 15 Nov 2025 18:53:10 GMT | Trace Vector — Edition 01 - November 2025 Theme: The Architecture of Influence | Muhammad Ateeb Malik | [Read More](https://medium.com/p/373516a014ab) |
