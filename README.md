@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 19:04:06 GMT | You’ve found me. | Yan_awrites;༊ | [Read More](https://medium.com/p/67935390b1b0) |
+| Sun, 16 Nov 2025 19:01:54 GMT | How the System Remembers: Diving into Memory Analysis | Dany Christel | [Read More](https://medium.com/p/f81f4fda4e87) |
+| Sun, 16 Nov 2025 19:00:23 GMT | India’s DPDP Act vs EU GDPR: What Today’s Rollout Means for Businesses | Hemant Patkar, CISSP | [Read More](https://medium.com/p/2d7055fb8bb8) |
+| Sun, 16 Nov 2025 18:49:57 GMT | Kindness | Naikteenu | [Read More](https://medium.com/p/55d9d5b8ec6e) |
+| Sun, 16 Nov 2025 18:44:43 GMT | Large File Uploads (10GB) with Django — Part 2: Resuming Uploads | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/b15dde60f8f3) |
 | Sun, 16 Nov 2025 18:44:11 GMT | Why Blocking Web Advertising at the Gateway Protects the Planet and Boosts Productivity | CacheGuard Technologies | [Read More](https://medium.com/p/f9d221f943c7) |
+| Sun, 16 Nov 2025 18:42:42 GMT | Large File Uploads (10GB) with Django — Full Architecture + S3 + Chunked Uploads | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/ff8030390139) |
 | Sun, 16 Nov 2025 18:36:28 GMT | (File 18)Sir Weston — The Frosty Explorer | Ink Stories Primal | [Read More](https://medium.com/p/982e01aa6b0a) |
 | Sun, 16 Nov 2025 18:29:20 GMT | We Saw It Coming: First Reports of an AI-Orchestrated Cyber Espionage Campaign | Phil Stafford | [Read More](https://medium.com/p/e45e0b047edf) |
 | Sun, 16 Nov 2025 18:22:01 GMT | Secure Cookies vs Tokens: Choose by Threat Model | Nexumo | [Read More](https://medium.com/p/163bbe898252) |
@@ -29,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 17:51:18 GMT | HackTheBox: Conversor | Rahaliashraf | [Read More](https://medium.com/p/330f55df8c2f) |
 | Sun, 16 Nov 2025 17:49:59 GMT | Technology: Shaping Today, Transforming Tomorrow | Madelyn Sadie | [Read More](https://medium.com/p/97fe395dee94) |
 | Sun, 16 Nov 2025 17:42:29 GMT | The Human Side of Hacking No One Talks About | Aj | [Read More](https://medium.com/p/419dc7b498e6) |
+| Sun, 16 Nov 2025 17:41:54 GMT | Come ho trasformato il mio Wi-Fi in un sensore di movimento… | Francesco Pace | [Read More](https://medium.com/p/40053fd83128) |
 | Sun, 16 Nov 2025 17:37:00 GMT | Learning Fortinet Firewall — LESSON XX: Authentication via AD(LDAP) | Rouell Mamaril | [Read More](https://medium.com/p/21cfe52c0a72) |
 | Sun, 16 Nov 2025 17:31:51 GMT | ️ Building a Simple VPN From Scratch in C++ (Beginner-Friendly, Using TUN Interfaces) | Shivesh Chaturvedi | [Read More](https://medium.com/p/42719164b858) |
 | Sun, 16 Nov 2025 17:24:08 GMT | How to Create a Basic Antivirus — Part 1 | S.Ali | [Read More](https://medium.com/p/a0aa75958352) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 11:42:26 GMT | The Industrial-Scale Initial Access Revolution – When AI Transforms Every Vector Into a Precision… | David SEHYEON Baek | [Read More](https://medium.com/p/98164610b3bf) |
 | Sun, 16 Nov 2025 11:37:58 GMT | Detecting DLL Side-Loading: From Attack Simulation to SIEM Detection | CyberFreak | [Read More](https://medium.com/p/50f8ee41e407) |
 | Sun, 16 Nov 2025 11:37:33 GMT | How AI Transforms Breached Data Into Precision Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/52db7e7a0167) |
-| Sun, 16 Nov 2025 11:31:58 GMT | Why AI-Powered Attackers Will Outpace Defenses and Win | David SEHYEON Baek | [Read More](https://medium.com/p/72475154ef29) |
-| Sun, 16 Nov 2025 11:29:28 GMT | South Asia’s Cyber Battleground: Bangladesh on the Frontline | S. M. Abdullah | [Read More](https://medium.com/p/f536d3e8e6c5) |
-| Sun, 16 Nov 2025 11:27:48 GMT | Beyond the Law: Threat Modelling India’s New DPDP Act (Part 1) | praveen raj | [Read More](https://medium.com/p/9111b2218035) |
-| Sun, 16 Nov 2025 11:26:38 GMT | You’re Already Using Web3’s Best Kept Secret (You Just Don’t Know It Yet) | Keshav Verma | [Read More](https://medium.com/p/ebd6c2ccfca8) |
-| Sun, 16 Nov 2025 11:19:03 GMT | Chapter 1 — The Descent | inner fiction | [Read More](https://medium.com/p/21bfbededb4c) |
-| Sun, 16 Nov 2025 11:18:35 GMT | The Kubernetes Hangover: Why Companies Are Moving On from Complexity | TechScribeHub | [Read More](https://medium.com/p/c32006781e3f) |
-| Sun, 16 Nov 2025 11:17:50 GMT | Five Bounties, One Bug: Exploiting the Same SSRF via Five Unique Techniques | Kayra Öksüz | [Read More](https://medium.com/p/3f0adb7965d6) |
