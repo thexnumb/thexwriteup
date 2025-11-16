@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 22:18:06 GMT | LetsDefend— A SOC342 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/229db6e5a238) |
+| Sun, 16 Nov 2025 22:03:18 GMT | Social Engineering: The Most Human Exploit in Cybersecurity | Understand IT | [Read More](https://medium.com/p/11148fec8d6c) |
+| Sun, 16 Nov 2025 22:02:26 GMT | [ SOC Alert => Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) ] by LetsDefend… | EduKayky | [Read More](https://medium.com/p/f7ff92502f07) |
+| Sun, 16 Nov 2025 21:59:25 GMT | Credential Provider DLL Hijacking for Persistence | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e437e838e382) |
+| Sun, 16 Nov 2025 21:57:37 GMT | Could Phishing Training Be Making Phishing Worse? | Andrew Zuo | [Read More](https://medium.com/p/146409213fdf) |
+| Sun, 16 Nov 2025 21:53:14 GMT | Why Cybersecurity Freelancers Are the New Digital Soldiers | Liam | [Read More](https://medium.com/p/f5be3412f5a3) |
+| Sun, 16 Nov 2025 21:48:52 GMT | How a Simple USB Folder Triggered a VBScript Worm: A SOC Case Study | Omar AlSahily | [Read More](https://medium.com/p/6c05f8604a54) |
+| Sun, 16 Nov 2025 21:42:58 GMT | The Silver Fox Tech Squad: Seniors Beating Scammers | Dave Of All Styles | [Read More](https://medium.com/p/3ea096d049b2) |
 | Sun, 16 Nov 2025 21:29:25 GMT | Proxychains Deep Dive | Danoss777 | [Read More](https://medium.com/p/0f5632a42091) |
 | Sun, 16 Nov 2025 21:26:40 GMT | How I Found a Critical IDOR Flaw in Minutes | Ibtissam | [Read More](https://medium.com/p/85ddf0648d99) |
 | Sun, 16 Nov 2025 21:26:40 GMT | Uber, Lapsus$, and the Insider Risk You Forgot About | Fook Hwa Tan | [Read More](https://medium.com/p/5d601aae0baa) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 14:49:52 GMT | Asset management boutique under attack, the real cybersecurity case | 0trust0day | [Read More](https://medium.com/p/b6f61d79d744) |
 | Sun, 16 Nov 2025 14:36:21 GMT | How to Respond When a Man Asks if You Need Money: Navigating Subtle Tests in Relationships | Hanpis | [Read More](https://medium.com/p/4ec023a870f6) |
 | Sun, 16 Nov 2025 14:33:32 GMT | How My Custom IDOR Hunter Made Me $50k (And Saved My Clicking Finger) ️ | Iski | [Read More](https://medium.com/p/c4fc5dc3b3d1) |
-| Sun, 16 Nov 2025 14:30:02 GMT | Computer Networks Final Project Writeup | Salman Ahmed | [Read More](https://medium.com/p/b7794fcf75a8) |
-| Sun, 16 Nov 2025 14:29:13 GMT | MongoDB — Disaster Recovery Strategies | Ankit Gupta | [Read More](https://medium.com/p/6fe8e20bffbb) |
-| Sun, 16 Nov 2025 14:28:27 GMT | How I Finally Took Control of My Online Privacy in 2025 | Gunawan Aditya | [Read More](https://medium.com/p/f026a37f8251) |
-| Sun, 16 Nov 2025 14:26:20 GMT | Following the Data Trail: A Guide to Detecting Data Exfiltration ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/de3deb47bcfa) |
-| Sun, 16 Nov 2025 14:20:16 GMT | My First Day in a SOC | Manya Tyagi | [Read More](https://medium.com/p/8ab4357441bd) |
-| Sun, 16 Nov 2025 14:16:29 GMT | i created a product i believed in. but deep down, i did not expect it to work | Avil Beckford | [Read More](https://medium.com/p/5b5d328dbe88) |
-| Sun, 16 Nov 2025 14:11:21 GMT | Mover - IAM Process Flow - 9 Step Explanation | Anuja Pawar | [Read More](https://medium.com/p/c82d4f8fcaec) |
-| Sun, 16 Nov 2025 14:04:56 GMT | What is a Trojan? (Trojan Horse) - VIIEGO | Rolando | [Read More](https://medium.com/p/a70cba582b91) |
