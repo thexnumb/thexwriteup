@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 09:05:12 GMT | Storing Data Leaks Without Consent: Be Ready for Prison | 0trust0day | [Read More](https://medium.com/p/d787fe81dfe0) |
+| Sun, 16 Nov 2025 09:03:22 GMT | Why Vivo Y81 Is the Best Choice for Social Media Lovers? | Grace Anderson | [Read More](https://medium.com/p/f6652d0718cc) |
+| Sun, 16 Nov 2025 09:02:26 GMT | Enable Email Leak Alerts in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/85cf6b7e4769) |
+| Sun, 16 Nov 2025 09:01:33 GMT | Bug Turned into a Double Payout: The Azure Pipeline Variable Leak | Vibhurushi Chotaliya | [Read More](https://medium.com/p/e4ff16719260) |
+| Sun, 16 Nov 2025 08:54:28 GMT | Decisiveness: The Most Underrated Skill in Product Management | Bob Torabi | [Read More](https://medium.com/p/a90863cee490) |
+| Sun, 16 Nov 2025 08:47:54 GMT | API 1 Web Challenge Writeup | Shatha511 | [Read More](https://medium.com/p/fec91d10fc67) |
 | Sun, 16 Nov 2025 08:37:09 GMT | Building a Full SOC Home Lab From Scratch Configuration, Challenges, and What I Learned | Hirad Showghi | [Read More](https://medium.com/p/97d91575a6fe) |
 | Sun, 16 Nov 2025 08:24:30 GMT | N-Day Everyday , CVE-2025–57772 DataEase H2 ve DB2 Üzerinden JDBC Uzaktan Kod Çalıştırma | Yakup Erdem Ünal | [Read More](https://medium.com/p/1ab782fa3bba) |
 | Sun, 16 Nov 2025 08:17:18 GMT | Mo0n: A Python-based offensive toolkit for scanning and exploiting MCGS HMI devices (weak… | Мартин. | [Read More](https://medium.com/p/0b7fb0855bd0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 21:47:55 GMT | Harnessing OSINT: Empowering Personal Defense and Everyday Decision-Making | Officer's Notes | [Read More](https://medium.com/p/d033948fe567) |
 | Sat, 15 Nov 2025 21:47:45 GMT | The Vital Role of OpSec in Everyday Life: Building Your Digital and Physical Fortress | Officer's Notes | [Read More](https://medium.com/p/9f972ae0f276) |
 | Sat, 15 Nov 2025 21:33:36 GMT | Control your notes with AI (FREE) | ZeakPeak | [Read More](https://medium.com/p/f177f6b987c7) |
-| Sat, 15 Nov 2025 21:21:21 GMT | TRYHACKME: LOOKUP | Stephen Alumasa | [Read More](https://medium.com/p/5692bd4cc707) |
-| Sat, 15 Nov 2025 21:16:39 GMT | I Built a Simple Script That Found Hidden Race Conditions | Ibtissam | [Read More](https://medium.com/p/2a4c6366671c) |
-| Sat, 15 Nov 2025 21:15:49 GMT | How to Easily Start in Cybersecurity: A Complete Beginner’s Roadmap | Anthonymatta | [Read More](https://medium.com/p/d3a950e6560d) |
-| Sat, 15 Nov 2025 21:02:45 GMT | From Codes in the Colonies to Hideouts on the Frontier: A Look at Security, Privacy, and OpSec… | Officer's Notes | [Read More](https://medium.com/p/35b2194393a1) |
-| Sat, 15 Nov 2025 20:56:37 GMT | The JavaScript Supply Chain Is Broken — So I Built NPM Scan To Fix It | Shyngys Shynbolatov | [Read More](https://medium.com/p/339c21014fb5) |
-| Sat, 15 Nov 2025 20:35:57 GMT | A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience | Erkan Kavas | [Read More](https://medium.com/p/1882f3dfd1b5) |
