@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 20:19:42 GMT | Grotesque 2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/5cc983e43a6b) |
+| Sun, 16 Nov 2025 20:19:23 GMT | IDOR Part 3 — Automation & Bug Bounty Mastery | Cybersecplayground | [Read More](https://medium.com/p/e3524b9a8a34) |
+| Sun, 16 Nov 2025 20:15:38 GMT | Cybersecurity Best Practices in Outsourcing Partnership | Enosis Outsourcing Staff | [Read More](https://medium.com/p/9466a5a35736) |
+| Sun, 16 Nov 2025 20:06:51 GMT | Beginner’s Guide to Nmap: Understanding Port Scanning in Cybersecurity | Fairy Sluthe ❤️‍ | [Read More](https://medium.com/p/2e91c0f2a4b5) |
+| Sun, 16 Nov 2025 20:04:11 GMT | AI Driven Cyberattacks Have Arrived: A First of Its Kind Incident | Raviteja Mureboina | [Read More](https://medium.com/p/45d2fef3afba) |
+| Sun, 16 Nov 2025 20:02:13 GMT | Hacksudo: Aliens CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c8894dca05fa) |
+| Sun, 16 Nov 2025 19:50:05 GMT | The Top 7 Most In-Demand Cybersecurity Skills for Career Growth This Year | BMR EDUCATION | [Read More](https://medium.com/p/543e8ff6c86f) |
+| Sun, 16 Nov 2025 19:47:25 GMT | The Cyber Security Paradox: Why You Can’t Fight Back (Even When You Want To) | Mehdi T. | [Read More](https://medium.com/p/8b30162b3636) |
+| Sun, 16 Nov 2025 19:45:26 GMT | The website is infected with a virus — what do you need to do urgently? | 0trust0day | [Read More](https://medium.com/p/e8fa85accc45) |
 | Sun, 16 Nov 2025 19:30:53 GMT | THE LETHAL QUIET | Tahir Malik | [Read More](https://medium.com/p/a3b6a08c32f6) |
 | Sun, 16 Nov 2025 19:18:02 GMT | A Practical Guide to Security Guard Compliance: How to Stay Ready for SOC 2, HIPAA, and GDPR Using… | Teona | [Read More](https://medium.com/p/3690f2230708) |
 | Sun, 16 Nov 2025 19:09:59 GMT | CyCTF Quals 2025 | Artful Dodger | [Read More](https://medium.com/p/8b71d480c50c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 13:12:13 GMT | Metasploitable 3 (Windows) Write-up — Part [IV]: Port 445 — SMB Enumeration & EternalBlue… | Kalash Kundaliya | [Read More](https://medium.com/p/049c3224e5ff) |
 | Sun, 16 Nov 2025 13:09:36 GMT | 6 Farklı şirkette nasıl XSS buldum? | Burak | [Read More](https://medium.com/p/f74cd6c0e59b) |
 | Sun, 16 Nov 2025 13:07:05 GMT | Perfectly Imperfect Love | DeeArte | [Read More](https://medium.com/p/56abfaee47a7) |
-| Sun, 16 Nov 2025 12:51:26 GMT | How a fake Fiverr email fooled me (and what I built to stop it) | Mathisdev | [Read More](https://medium.com/p/b27e34004dfa) |
-| Sun, 16 Nov 2025 12:48:12 GMT | Python : Pennerapan Fungsi | Cahyoadi | [Read More](https://medium.com/p/e7b4f5f7c3fe) |
-| Sun, 16 Nov 2025 12:46:23 GMT | IDOR — Insecure Direct Object Reference | Enes Demir | [Read More](https://medium.com/p/cb247ed6c878) |
-| Sun, 16 Nov 2025 12:45:48 GMT | Understanding and Installing Kali Linux | LUTSVIA | [Read More](https://medium.com/p/fbbdf3c419e9) |
-| Sun, 16 Nov 2025 12:43:30 GMT | Why the Internet Trusts TLS: A Deep Dive You Wish You Read Earlier | Amr Elhewy | [Read More](https://medium.com/p/e3d47bcab52e) |
-| Sun, 16 Nov 2025 12:12:01 GMT | “The Unspoken Struggles: Finding Solace in a World That Demands Strength” | Ueiiowd | [Read More](https://medium.com/p/a8fb7ea69e6d) |
-| Sun, 16 Nov 2025 12:06:04 GMT | Medidas Preventivas y Buenas Prácticas en Ciberseguridad | Jonatan Vazquez Martinez | [Read More](https://medium.com/p/828e237ed438) |
-| Sun, 16 Nov 2025 12:04:15 GMT | DockerLabs Writeup — Sender (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3ef36439baeb) |
-| Sun, 16 Nov 2025 12:01:52 GMT | Today’s Top Cyber Intelligence Highlights — Nov 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3028a285b312) |
