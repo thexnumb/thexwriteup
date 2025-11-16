@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 18:16:29 GMT | The Loneliness of a Latte and the Radical Act of Stumbling (Authentically) | Vanessa Gomes | [Read More](https://medium.com/p/85bbc34bce11) |
+| Sun, 16 Nov 2025 18:09:06 GMT | That New AI-Orchestrated Attack? I’ve Deconstructed It. Here’s What I Found. | Mohan reddy | [Read More](https://medium.com/p/acec45b4e1c7) |
+| Sun, 16 Nov 2025 18:07:20 GMT | I Used Google and ChatGPT to Expose a  Scam | Sam Galope | [Read More](https://medium.com/p/6494a265c753) |
+| Sun, 16 Nov 2025 18:06:36 GMT | Why Consumer Trust Is Becoming the Most Valuable Currency in Finance and Healthcare | Legal Thoughts | [Read More](https://medium.com/p/13207890f7f6) |
+| Sun, 16 Nov 2025 18:06:01 GMT | Going Beyond Cost Optimization: GPU Security and Isolation | Debosmit Ray | [Read More](https://medium.com/p/55b507ba7a47) |
+| Sun, 16 Nov 2025 18:04:48 GMT | PortSwigger: Server-side request forgery (SSRF) LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/ad898c859a4c) |
+| Sun, 16 Nov 2025 18:03:26 GMT | Threat Modeling: The Ultimate Guide for Modern Engineering Teams | Rajat Gupta | [Read More](https://medium.com/p/c1e95d4b1605) |
+| Sun, 16 Nov 2025 18:00:24 GMT | CTEM Phase 1: Scoping - The Art and Strategy of Knowing Where to Begin in Continuous Threat… | Sahil Malvi | [Read More](https://medium.com/p/fad40064d245) |
+| Sun, 16 Nov 2025 17:59:57 GMT | Katana Proving Grounds Play | Aaronashley | [Read More](https://medium.com/p/c82f6051827a) |
+| Sun, 16 Nov 2025 17:56:26 GMT | Sherlock : PwnSec CTF 2025 | L4z3x | [Read More](https://medium.com/p/3f16a2ed2f19) |
+| Sun, 16 Nov 2025 17:51:18 GMT | HackTheBox: Conversor | Rahaliashraf | [Read More](https://medium.com/p/330f55df8c2f) |
+| Sun, 16 Nov 2025 17:49:59 GMT | Technology: Shaping Today, Transforming Tomorrow | Madelyn Sadie | [Read More](https://medium.com/p/97fe395dee94) |
+| Sun, 16 Nov 2025 17:42:29 GMT | The Human Side of Hacking No One Talks About | Aj | [Read More](https://medium.com/p/419dc7b498e6) |
+| Sun, 16 Nov 2025 17:37:00 GMT | Learning Fortinet Firewall — LESSON XX: Authentication via AD(LDAP) | Rouell Mamaril | [Read More](https://medium.com/p/21cfe52c0a72) |
 | Sun, 16 Nov 2025 17:31:51 GMT | ️ Building a Simple VPN From Scratch in C++ (Beginner-Friendly, Using TUN Interfaces) | Shivesh Chaturvedi | [Read More](https://medium.com/p/42719164b858) |
 | Sun, 16 Nov 2025 17:24:08 GMT | How to Create a Basic Antivirus — Part 1 | S.Ali | [Read More](https://medium.com/p/a0aa75958352) |
 | Sun, 16 Nov 2025 17:22:02 GMT | Pentesting 2025: 5 Tools That Change the Game | Quellin | [Read More](https://medium.com/p/1ffa12743fd2) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 11:09:57 GMT | Exposure | R A Kenyon | [Read More](https://medium.com/p/82dabd349aad) |
 | Sun, 16 Nov 2025 11:08:24 GMT | Claude on how it helped China attack the West | Kevin O'Shaughnessy | [Read More](https://medium.com/p/6a702f00e1cc) |
 | Sun, 16 Nov 2025 10:54:36 GMT | Purple Team Analysis: When Red Meets Blue in aWeb Attack | Biscotti Diskette | [Read More](https://medium.com/p/c1411d51d2df) |
-| Sun, 16 Nov 2025 10:52:27 GMT | Define Your Threat Landscape | Daniel | [Read More](https://medium.com/p/629fc678eb41) |
-| Sun, 16 Nov 2025 10:42:14 GMT | What Companies Actually Look For in Cybersecurity Hires — 2025 Report | Muhammad Haider Tallal | [Read More](https://medium.com/p/1d0d2e2a843e) |
-| Sun, 16 Nov 2025 10:41:38 GMT | How to Install Any Tool in Linux - APT Errors Solved (Fix Guide) | Shahzaib | [Read More](https://medium.com/p/afb88f547ac1) |
-| Sun, 16 Nov 2025 10:41:01 GMT | Cybersecurity #14: Nmap | mohandika | [Read More](https://medium.com/p/5ed1e0cdf66b) |
-| Sun, 16 Nov 2025 10:40:29 GMT | API 2 Web Challenge Writeup | Shatha511 | [Read More](https://medium.com/p/ef1a195068b8) |
-| Sun, 16 Nov 2025 10:24:16 GMT | PortSwigger Lab: Mystery Challenge (Apprentice) | Bazil Brohi | [Read More](https://medium.com/p/c3c967ad078c) |
-| Sun, 16 Nov 2025 10:23:42 GMT | AI Security Alert: Why Finance Leaders Must Check Their AI Vendors’ Trust Centres ASAP | Peter Beard, ACA | [Read More](https://medium.com/p/aff3495d6eba) |
-| Sun, 16 Nov 2025 10:22:23 GMT | ️ Dark Web: Efsaneler, Gerçekler ve Siber Dünyanın Görünmeyen Yüzü | Abdullah HANÇERLİ | [Read More](https://medium.com/p/0498f202546b) |
-| Sun, 16 Nov 2025 10:20:08 GMT | How I Hacked an Account Using Reset Password Poisoning | Nicole Franz Dizon | [Read More](https://medium.com/p/934f7e9b1bdc) |
-| Sun, 16 Nov 2025 10:17:39 GMT | DeDaSP: Революционизируя безопасность данных и их сохранность в эпоху
-децентрализации | S.Technology RU | [Read More](https://medium.com/p/e07c49c2e1da) |
-| Sun, 16 Nov 2025 10:03:21 GMT | My Beginner Journey into Cybersecurity and Bug Bounty | NPC | [Read More](https://medium.com/p/01555bffe5ed) |
-| Sun, 16 Nov 2025 10:01:51 GMT | The Parts of You No One Sees | Unknown | [Read More](https://medium.com/p/d1328cf5ece0) |
-| Sun, 16 Nov 2025 10:01:21 GMT | Setting Up Grafana to Visualize Wazuh (SIEM) Alerts and OPNsense (Firewall) Logs | Arfan Abid | [Read More](https://medium.com/p/752cce12d2ef) |
-| Sun, 16 Nov 2025 09:55:02 GMT | DDoS (Distributed Denial-of-Service) | Enes Demir | [Read More](https://medium.com/p/491780ce306f) |
