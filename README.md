@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 07:07:49 GMT | Meta’s LeCun vs Anthropic: The AI Safety Battle That Will Shape Global Regulation | Nanthakumar | [Read More](https://medium.com/p/ccfa3ed1fc6c) |
+| Sun, 16 Nov 2025 07:03:10 GMT | Next-Gen VPNs Outsmart Censors: How Artificial Intelligence Redefines Internet Freedom | Voidly | [Read More](https://medium.com/p/6f6216850ee9) |
+| Sun, 16 Nov 2025 07:03:00 GMT | Step-by-Step Guide: How to Build a Lightweight Internal Pentest Toolkit That Just Works | Very Lazy Tech | [Read More](https://medium.com/p/ebcc188b2ca6) |
+| Sun, 16 Nov 2025 07:01:53 GMT | How Microsoft Defender Protects Against Cyber Threats | akas | [Read More](https://medium.com/p/e692dcd43eee) |
+| Sun, 16 Nov 2025 06:53:31 GMT | Hack The Box — Outbound Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/b245ab9b467b) |
+| Sun, 16 Nov 2025 06:42:25 GMT | Quantum Computing: The $20 Billion Revolution That’s Finally Getting Real | Rohit Dev | [Read More](https://medium.com/p/aacf3c740c92) |
+| Sun, 16 Nov 2025 06:34:20 GMT | A $1000 Bounty — Role Manipulation . | Monu Jangra | [Read More](https://medium.com/p/7523f77cd623) |
+| Sun, 16 Nov 2025 06:34:07 GMT | How to Choose the Best Penetration Testing Course: Complete Guide | cyber security Updates | [Read More](https://medium.com/p/f67ed9e26f2c) |
 | Sun, 16 Nov 2025 06:23:00 GMT | ️ The ‘Unpatchable’ Human: Why AI-Driven Social Engineering is the Ultimate Threat | Hamza Younas | [Read More](https://medium.com/p/bd134552e549) |
 | Sun, 16 Nov 2025 06:10:58 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: Post-Exploitation CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/359edfc713a2) |
 | Sun, 16 Nov 2025 06:10:20 GMT | eJPT Lab Write-Up: Host & Network Penetration Testing: Exploitation CTF 2 | Ninadkarkhanis | [Read More](https://medium.com/p/c274ac540d97) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 15 Nov 2025 18:29:43 GMT | TryHackme Writeup: Tomghost | Berkay AĞGÜL | [Read More](https://medium.com/p/d518fb2d7945) |
 | Sat, 15 Nov 2025 18:24:13 GMT | Where Do I Put All This Love Nobody Wants? | Oluwabunmi Fortune Ajibade | [Read More](https://medium.com/p/cbf3a451467c) |
 | Sat, 15 Nov 2025 18:21:31 GMT | Intro: What I’ll Post On This Page | Avigail Laing | [Read More](https://medium.com/p/4f51eba5bd48) |
-| Sat, 15 Nov 2025 18:13:47 GMT | How to Test Vulnerable Windows.A Complete Guide Of System Security… | Ajmir khan | [Read More](https://medium.com/p/8083b93ddd14) |
-| Sat, 15 Nov 2025 18:09:00 GMT | Is AI Coming for SOC Jobs? A Real Talk + My First Look at Dropzone AI | Dean | [Read More](https://medium.com/p/769db07b4843) |
-| Sat, 15 Nov 2025 18:06:44 GMT | Solving NIST’s Post-Quantum IoT Crisis: An 8,700× Efficiency Architecture (Original Research &… | Berend Watchus | [Read More](https://medium.com/p/f231935f4481) |
-| Sat, 15 Nov 2025 18:06:15 GMT | Hijacking Reviews: IDOR is Everywhere | Parth Narula | [Read More](https://medium.com/p/32256f649cd5) |
-| Sat, 15 Nov 2025 18:05:00 GMT | Anthropic’s AI Just Hacked 30 Companies Almost By Itself | Rohit Kumar Thakur | [Read More](https://medium.com/p/e558f312d922) |
-| Sat, 15 Nov 2025 18:03:50 GMT | What is Phishing ? A Simple explanation for beginners | Veeresh HS | [Read More](https://medium.com/p/399f1aec582b) |
-| Sat, 15 Nov 2025 17:54:52 GMT | MemLabs Lab 1 — Beginner’s Luck Write-Up | Busraugur | [Read More](https://medium.com/p/fa27f1dc6d32) |
-| Sat, 15 Nov 2025 17:50:18 GMT | De-Risking Enterprise AI Adoption: A CISO’s Playbook | Krishna Sai Marella | [Read More](https://medium.com/p/3b90be085736) |
