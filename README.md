@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 15:02:08 GMT | How to Build Emotional Resilience Without Hardening Your Heart | Whimiscal | [Read More](https://medium.com/p/686582d06980) |
+| Sun, 16 Nov 2025 14:56:41 GMT | Fully Undetectable Reverse Shell using Staged Payload on Windows Systems | Salman Ahmed | [Read More](https://medium.com/p/8b26c1aef443) |
+| Sun, 16 Nov 2025 14:56:05 GMT | Anthropic’s Nation State “Claude Hack”: Nothing to patch here | Julian B | [Read More](https://medium.com/p/2aebcf59a6a9) |
+| Sun, 16 Nov 2025 14:54:49 GMT | จากตำนานกรีกโบราณ สู่ภัยร้ายดิจิทัล: ประวัติศาสตร์ของ “ม้าไม้โทรจัน” และการเกิดใหม่ในโลกไซเบอร์ | TechTalk by Taa | [Read More](https://medium.com/p/36d0d1cfbc80) |
+| Sun, 16 Nov 2025 14:49:53 GMT | AI Is Going To Make This Worse: The Thing We Forget When Securing the Business | Helen Patton | [Read More](https://medium.com/p/8364388b1841) |
+| Sun, 16 Nov 2025 14:49:52 GMT | Asset management boutique under attack, the real cybersecurity case | 0trust0day | [Read More](https://medium.com/p/b6f61d79d744) |
+| Sun, 16 Nov 2025 14:36:21 GMT | How to Respond When a Man Asks if You Need Money: Navigating Subtle Tests in Relationships | Hanpis | [Read More](https://medium.com/p/4ec023a870f6) |
 | Sun, 16 Nov 2025 14:33:32 GMT | How My Custom IDOR Hunter Made Me $50k (And Saved My Clicking Finger) ️ | Iski | [Read More](https://medium.com/p/c4fc5dc3b3d1) |
 | Sun, 16 Nov 2025 14:30:02 GMT | Computer Networks Final Project Writeup | Salman Ahmed | [Read More](https://medium.com/p/b7794fcf75a8) |
 | Sun, 16 Nov 2025 14:29:13 GMT | MongoDB — Disaster Recovery Strategies | Ankit Gupta | [Read More](https://medium.com/p/6fe8e20bffbb) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 07:36:12 GMT | Zip Slip: The Hidden Archive Extraction Vulnerability That Can Lead to RCE | Adithya | [Read More](https://medium.com/p/423c6bdeacf6) |
 | Sun, 16 Nov 2025 07:31:09 GMT | Adobe Or Salesforce: Which Stock Has More Upside? | Nauman khan | [Read More](https://medium.com/p/91000e6cdf92) |
 | Sun, 16 Nov 2025 07:30:47 GMT | Smart Data Archival: Cut Costs and Improve Performance | Ravi | [Read More](https://medium.com/p/83b083883c2e) |
-| Sun, 16 Nov 2025 07:30:08 GMT | End-to-End Cryptography Implementations ✨ | Esra Kayhan Uysal | [Read More](https://medium.com/p/ae538fb01298) |
-| Sun, 16 Nov 2025 07:27:01 GMT | Beginner to Advanced Networking — Complete Practical Guide | Om Gohil | [Read More](https://medium.com/p/d66f2dbac6a2) |
-| Sun, 16 Nov 2025 07:23:32 GMT | Implementing CASEF for Artificial Intelligence: Can Your GRC Keep Up When Access Belongs to… | Travis Ray Caverhill | [Read More](https://medium.com/p/ceb5edec768b) |
-| Sun, 16 Nov 2025 07:20:03 GMT | Sovereign API keys | Alquante Foster - Sentinel Dynamics | [Read More](https://medium.com/p/146818b0c87c) |
-| Sun, 16 Nov 2025 07:13:08 GMT | “Python For Hackers: A 10x Skill Upgrade [_AI_]” | Monu Jangra | [Read More](https://medium.com/p/9a6f44a9c8d8) |
-| Sun, 16 Nov 2025 07:07:49 GMT | Meta’s LeCun vs Anthropic: The AI Safety Battle That Will Shape Global Regulation | Nanthakumar | [Read More](https://medium.com/p/ccfa3ed1fc6c) |
-| Sun, 16 Nov 2025 07:03:10 GMT | Next-Gen VPNs Outsmart Censors: How Artificial Intelligence Redefines Internet Freedom | Voidly | [Read More](https://medium.com/p/6f6216850ee9) |
