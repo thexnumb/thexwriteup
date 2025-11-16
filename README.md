@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Sun, 16 Nov 2025 22:18:06 GMT | LetsDefend— A SOC342 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/229db6e5a238) |
+| Sun, 16 Nov 2025 22:12:25 GMT | Vulnerability | Bobby Z. Ford | [Read More](https://medium.com/p/32853969ff4e) |
 | Sun, 16 Nov 2025 22:03:18 GMT | Social Engineering: The Most Human Exploit in Cybersecurity | Understand IT | [Read More](https://medium.com/p/11148fec8d6c) |
 | Sun, 16 Nov 2025 22:02:26 GMT | [ SOC Alert => Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) ] by LetsDefend… | EduKayky | [Read More](https://medium.com/p/f7ff92502f07) |
 | Sun, 16 Nov 2025 21:59:25 GMT | Credential Provider DLL Hijacking for Persistence | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e437e838e382) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 14:49:53 GMT | AI Is Going To Make This Worse: The Thing We Forget When Securing the Business | Helen Patton | [Read More](https://medium.com/p/8364388b1841) |
 | Sun, 16 Nov 2025 14:49:52 GMT | Asset management boutique under attack, the real cybersecurity case | 0trust0day | [Read More](https://medium.com/p/b6f61d79d744) |
 | Sun, 16 Nov 2025 14:36:21 GMT | How to Respond When a Man Asks if You Need Money: Navigating Subtle Tests in Relationships | Hanpis | [Read More](https://medium.com/p/4ec023a870f6) |
-| Sun, 16 Nov 2025 14:33:32 GMT | How My Custom IDOR Hunter Made Me $50k (And Saved My Clicking Finger) ️ | Iski | [Read More](https://medium.com/p/c4fc5dc3b3d1) |
