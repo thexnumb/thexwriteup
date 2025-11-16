@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 16 Nov 2025 11:31:58 GMT | Why AI-Powered Attackers Will Outpace Defenses and Win | David SEHYEON Baek | [Read More](https://medium.com/p/72475154ef29) |
+| Sun, 16 Nov 2025 11:29:28 GMT | South Asia’s Cyber Battleground: Bangladesh on the Frontline | S. M. Abdullah | [Read More](https://medium.com/p/f536d3e8e6c5) |
+| Sun, 16 Nov 2025 11:27:48 GMT | Beyond the Law: Threat Modelling India’s New DPDP Act (Part 1) | praveen raj | [Read More](https://medium.com/p/9111b2218035) |
+| Sun, 16 Nov 2025 11:26:38 GMT | You’re Already Using Web3’s Best Kept Secret (You Just Don’t Know It Yet) | Keshav Verma | [Read More](https://medium.com/p/ebd6c2ccfca8) |
+| Sun, 16 Nov 2025 11:19:03 GMT | Chapter 1 — The Descent | inner fiction | [Read More](https://medium.com/p/21bfbededb4c) |
+| Sun, 16 Nov 2025 11:18:35 GMT | The Kubernetes Hangover: Why Companies Are Moving On from Complexity | TechScribeHub | [Read More](https://medium.com/p/c32006781e3f) |
+| Sun, 16 Nov 2025 11:17:50 GMT | Five Bounties, One Bug: Exploiting the Same SSRF via Five Unique Techniques | Kayra Öksüz | [Read More](https://medium.com/p/3f0adb7965d6) |
 | Sun, 16 Nov 2025 11:10:29 GMT | Which OnePlus 7 Pro Features Make It Ideal for Content Creators? | Chloe White | [Read More](https://medium.com/p/aef24c7d1b85) |
+| Sun, 16 Nov 2025 11:09:57 GMT | Exposure | R A Kenyon | [Read More](https://medium.com/p/82dabd349aad) |
 | Sun, 16 Nov 2025 11:08:24 GMT | Claude on how it helped China attack the West | Kevin O'Shaughnessy | [Read More](https://medium.com/p/6a702f00e1cc) |
 | Sun, 16 Nov 2025 10:54:36 GMT | Purple Team Analysis: When Red Meets Blue in aWeb Attack | Biscotti Diskette | [Read More](https://medium.com/p/c1411d51d2df) |
 | Sun, 16 Nov 2025 10:52:27 GMT | Define Your Threat Landscape | Daniel | [Read More](https://medium.com/p/629fc678eb41) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 02:54:52 GMT | So Here Goes No(Some)thing | Buchi | [Read More](https://medium.com/p/c86d0d28ea26) |
 | Sun, 16 Nov 2025 02:53:06 GMT | AI CVE Slop: The Crisis Drowning Open Source Security | Daniel Ușurelu | [Read More](https://medium.com/p/583549c8e836) |
 | Sun, 16 Nov 2025 02:46:28 GMT | ⚙️SOAR When Your Security Team Starts Automating Its Superpowers | Thegreatpayload | [Read More](https://medium.com/p/193700b14ceb) |
-| Sun, 16 Nov 2025 01:48:54 GMT | Digital Comms Security — an extreme take | various | [Read More](https://medium.com/p/41cce1d8e48c) |
-| Sun, 16 Nov 2025 01:35:18 GMT | Hacking the Hacker®: Turning the Tables When an Intruder Thinks They Are Invisible | Travis Ray Caverhill | [Read More](https://medium.com/p/65312ac77937) |
-| Sun, 16 Nov 2025 01:18:42 GMT | Day 6 of My eJPTv2 Journey: The Great Enumeration Spree! ️‍♂️ | samurai | [Read More](https://medium.com/p/a012cb9850b7) |
-| Sun, 16 Nov 2025 00:53:35 GMT | SOC Analyst L1 Series — Module 2: Alert Handling & Triage | Ishan Patel | [Read More](https://medium.com/p/57be922eb0ca) |
-| Sun, 16 Nov 2025 00:53:23 GMT | Farewell ingress-nginx: How Repeated Security Breaches Led to Its Downfall | Or Aspir | [Read More](https://medium.com/p/b3e2caad0f95) |
-| Sun, 16 Nov 2025 00:35:47 GMT | Claude AI & IBM: Is This the Ethical Backbone Enterprise Has Been Waiting For? | Sophia Lyimo - Author - Leader - Coach - Mentor | [Read More](https://medium.com/p/4dc580ecd684) |
-| Sun, 16 Nov 2025 00:32:22 GMT | Active Directory Attacks & Defense: The Enterprise Battlefield | Cybersecurity Simplified | [Read More](https://medium.com/p/54dac4042834) |
-| Sun, 16 Nov 2025 00:26:50 GMT | The Jaguar Land Rover Cyberattack: How a Single Breach Shook the UK Auto Industry | SECURE IT! | [Read More](https://medium.com/p/43c4228371ca) |
