@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 08:18:39 GMT | GPS Spoofing: The Invisible Threat Manipulating Modern Navigation | Himanshu Bhatt | [Read More](https://medium.com/p/c661fc3d4961) |
+| Mon, 17 Nov 2025 08:18:03 GMT | BOFZ: a simple Buffer Overflow Scanner designed to detect buffer overflow vulnerabilities in a… | Мартин. | [Read More](https://medium.com/p/9d6a8f7441d6) |
+| Mon, 17 Nov 2025 08:17:42 GMT | MCGS_DD: About MCGS HMI vulnerability exploit tool | Мартин. | [Read More](https://medium.com/p/21a4b6b6dcfe) |
+| Mon, 17 Nov 2025 08:17:13 GMT | J0ker: Real time live streaming tool | Мартин. | [Read More](https://medium.com/p/cb6649aeb01c) |
+| Mon, 17 Nov 2025 08:12:41 GMT | The Ghost in the Wires: How Kevin Mitnick Became the World’s Most Wanted Hacker | Uvindu E | [Read More](https://medium.com/p/c43e6d9641d6) |
+| Mon, 17 Nov 2025 08:11:39 GMT | Oasis | WhisperedVerse | [Read More](https://medium.com/p/8492106c9a68) |
+| Mon, 17 Nov 2025 08:10:32 GMT | Critical AI Vulnerabilities Are Spreading Across Meta, Nvidia, and Microsoft Frameworks — And… | Germano Costi | [Read More](https://medium.com/p/079e88e8b0d6) |
+| Mon, 17 Nov 2025 08:06:45 GMT | The Ornament Heist | Erica Jayasundera | [Read More](https://medium.com/p/ddfd6c68f49f) |
+| Mon, 17 Nov 2025 07:53:46 GMT | How Can CCTV Surveillance Systems Improve Security? | Global CCTV Monitoring Services | [Read More](https://medium.com/p/05e94559e1c2) |
+| Mon, 17 Nov 2025 07:50:52 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/fd64f55f3ed5) |
+| Mon, 17 Nov 2025 07:46:31 GMT | Why Data Matters | BOOX Community | [Read More](https://medium.com/p/5b96eb69aef8) |
+| Mon, 17 Nov 2025 07:45:39 GMT | Android Vulnerability CVE-2025–48593 (No-Click Attack) | M Vandam Singha | [Read More](https://medium.com/p/d4f2561848fb) |
+| Mon, 17 Nov 2025 07:37:51 GMT | First Recorded Major Hack Using AI | Yagyesh Bobde | [Read More](https://medium.com/p/941eeec4d55b) |
 | Mon, 17 Nov 2025 07:33:57 GMT | The £3.76 Million AI Risk: Lessons from This Week’s Claude Security Incident for Finance Teams | Peter Beard, ACA | [Read More](https://medium.com/p/cd086542a5f9) |
+| Mon, 17 Nov 2025 07:32:29 GMT | Crypto Security Breaches and How Exchanges Are Reinforcing Defenses | Abhinav Soomaney | [Read More](https://medium.com/p/41a82a0d0586) |
 | Mon, 17 Nov 2025 07:32:27 GMT | The Apex Predator | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/c33da6dbbb6b) |
 | Mon, 17 Nov 2025 07:31:59 GMT | How I Taught AI to Predict Zero-Days Before They Happened (And Got Paid for Bugs That Didn’t Exist… | Iski | [Read More](https://medium.com/p/3e0fe162d92f) |
 | Mon, 17 Nov 2025 07:26:37 GMT | Cybersecurity, AI & Quantum Computing: The New Digital Triangle of Power | Gopi Sri | [Read More](https://medium.com/p/4869d24b8191) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 01:15:38 GMT | How to view history in DuckDuckGo: Step by step 2025 guide | Millie Bobby | [Read More](https://medium.com/p/9caffb517785) |
 | Mon, 17 Nov 2025 01:10:31 GMT | 12 AWS IAM Security Leaks Hackers Look For (+ How to defend) | Chris St. John | [Read More](https://medium.com/p/848f4c2ec36e) |
 | Mon, 17 Nov 2025 01:00:46 GMT | The IoT Device That Wouldn’t Connect (And How I Fixed It) | Odunze Jennifer Oluchukwu | [Read More](https://medium.com/p/926c6b32a732) |
-| Mon, 17 Nov 2025 00:32:05 GMT | Behind the Scenes of Spring Security: Mastering the SecurityFilterChain | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/a63c0f076d58) |
-| Mon, 17 Nov 2025 00:18:35 GMT | Write-up: Máquina “Expressway” de Hack The Box | Marianoacostafc | [Read More](https://medium.com/p/40c488cb5286) |
-| Mon, 17 Nov 2025 00:14:04 GMT | Capítulo 5 — Espelhos e Sombras | Kleber Andrade | [Read More](https://medium.com/p/464143da4403) |
-| Mon, 17 Nov 2025 00:03:38 GMT | Balancer V2 Exploit Analysis | Sisi | [Read More](https://medium.com/p/9c17cb8081a5) |
-| Sun, 16 Nov 2025 23:53:51 GMT | Today’s News (November 16, 2025) | Tim O'Brien | [Read More](https://medium.com/p/aedb076fa85f) |
-| Sun, 16 Nov 2025 23:49:05 GMT | How to Host a Website for Free on Linux - Legal & Secure Methods | Shahzaib | [Read More](https://medium.com/p/125bda840c05) |
-| Sun, 16 Nov 2025 23:48:07 GMT | Production readiness and migration playbook | BoNeZ | [Read More](https://medium.com/p/d68101874c9d) |
-| Sun, 16 Nov 2025 23:39:34 GMT | Proving Grounds - MedJed | jniket | [Read More](https://medium.com/p/ce6c6b52801d) |
-| Sun, 16 Nov 2025 23:39:01 GMT | Python — Blind SSTI Filters Bypass | Aderogbarufai | [Read More](https://medium.com/p/9585f421db67) |
-| Sun, 16 Nov 2025 23:35:30 GMT | Wi-Fi Güvenliği 101: EAPOL Handshake ve Parola Doğrulama Mekanizması | Enes Berk Yetim | [Read More](https://medium.com/p/11c0e95643de) |
-| Sun, 16 Nov 2025 23:29:08 GMT | The Gospel According to GPT | TJ Larson | [Read More](https://medium.com/p/77d5476e55b4) |
-| Sun, 16 Nov 2025 23:23:06 GMT | Decoding the UXLINK Attack: NyxSwap as an Exit Vector | CryptoGuard | [Read More](https://medium.com/p/63972eb6303c) |
-| Sun, 16 Nov 2025 23:19:20 GMT | Summit — THM Challenge Writeup | Radulescugabriel | [Read More](https://medium.com/p/bb47712b695f) |
-| Sun, 16 Nov 2025 23:08:47 GMT | Common security risks while adopting public repositories | Rick Yang | [Read More](https://medium.com/p/4f86aa7edbac) |
