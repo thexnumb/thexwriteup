@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 12:32:23 GMT | Project #11 — Framework Mapping Project | Andrew Williams | [Read More](https://medium.com/p/2cd078e78c81) |
+| Mon, 17 Nov 2025 12:32:02 GMT | When Pentests Fail: 10 Lessons from Botched Red Teams, Overconfident CISOs & Security Theater Gone… | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/33d327dc97ba) |
+| Mon, 17 Nov 2025 12:31:48 GMT | The MCP Server: The Critical Security Boundary for Agentic AI | Gaurav | [Read More](https://medium.com/p/629ab06c727b) |
+| Mon, 17 Nov 2025 12:31:47 GMT | Top 5 Careers You Can Pursue After a BS in Cyber Security | Shreyashettyctr | [Read More](https://medium.com/p/b2790e05ebff) |
+| Mon, 17 Nov 2025 12:30:38 GMT | CISO: “The hardest part wasn’t the tech…it was the betrayal.” | Truspex | [Read More](https://medium.com/p/cdc25894d192) |
+| Mon, 17 Nov 2025 12:25:26 GMT | Large File Uploads (10GB) with Django — Part 3: Virus Scanning Pipeline | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/eb1167e19d57) |
+| Mon, 17 Nov 2025 12:24:27 GMT | Why So Many Teenagers Want to Become Hackers in 2025 | besto | [Read More](https://medium.com/p/2d5f85579aa6) |
+| Mon, 17 Nov 2025 12:23:44 GMT | OWASP Top 10 2025: What Changed and Why It Matters | BeamSec | [Read More](https://medium.com/p/203ffe7d920f) |
+| Mon, 17 Nov 2025 12:22:45 GMT | Bypassing RASP and White-Box Protections | Joseph James (JJ) | [Read More](https://medium.com/p/24e677ad17ef) |
+| Mon, 17 Nov 2025 12:22:11 GMT | My IT Journey | K Serghini | [Read More](https://medium.com/p/62512df50ca4) |
+| Mon, 17 Nov 2025 12:21:27 GMT | How AI Is Transforming Cybersecurity in 2025: From Detection to Defense | Rock Johnson | [Read More](https://medium.com/p/771da0b6d777) |
+| Mon, 17 Nov 2025 12:18:47 GMT | TryHackMe Writeup: Pickle Rick | Berkay AĞGÜL | [Read More](https://medium.com/p/5a0023b499d8) |
+| Mon, 17 Nov 2025 12:18:09 GMT | Security and Compliance in Cloud Communications: What Every Business Needs to Know | David | [Read More](https://medium.com/p/976c0d9c01e1) |
+| Mon, 17 Nov 2025 12:17:07 GMT | This Week in Resilience - November 17, 2025 | Sherilyn Burris | [Read More](https://medium.com/p/d513d5b73753) |
+| Mon, 17 Nov 2025 12:05:53 GMT | ISC2 CC Exam: Nail It! My brain dump of tips that actually work. | Authlyn | [Read More](https://medium.com/p/b18708216fb3) |
+| Mon, 17 Nov 2025 12:02:01 GMT | Understanding CWE-489: Active Debug Code | Walter Moar | [Read More](https://medium.com/p/9787a7960a01) |
+| Mon, 17 Nov 2025 11:55:37 GMT | Güvenlik Araştırmacısı ile Sorgularınızın Bakış Açısını Değiştirin | Perform Yazılım | [Read More](https://medium.com/p/816ccba95848) |
+| Mon, 17 Nov 2025 11:44:03 GMT | Top Cybersecurity Tips to Protect Your Data in 2025 | Silversky Technology | [Read More](https://medium.com/p/841cb4f39334) |
+| Mon, 17 Nov 2025 11:41:59 GMT | The Hidden 72-Byte Trap in bcrypt | Hafidz Mahrus | [Read More](https://medium.com/p/2b26dd77eb62) |
+| Mon, 17 Nov 2025 11:37:02 GMT | The Real Reason Companies Get Hacked: Human Laziness | Lavanya Mishra | [Read More](https://medium.com/p/8dd49d2ac7a6) |
 | Mon, 17 Nov 2025 11:36:41 GMT | Oliva - HackMyVM Writeup | Cillia | [Read More](https://medium.com/p/77fbc288a3d5) |
 | Mon, 17 Nov 2025 11:33:32 GMT | The Rise of Ransomware-as-a-Service (RaaS): A Growing Threat to Businesses | Digital Defense | [Read More](https://medium.com/p/33145a758ba0) |
 | Mon, 17 Nov 2025 11:25:04 GMT | In Your Hardest Seasons, You Are Still Growing | The Lantern of Her | [Read More](https://medium.com/p/c5a59a721aad) |
@@ -35,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 10:28:05 GMT | Why AI Attackers Already Won The Speed Race | Lewis Thomson | [Read More](https://medium.com/p/4a028970ec3d) |
 | Mon, 17 Nov 2025 10:18:49 GMT | Foundations of Probability: Interpretations, Axioms, and Measure-Theoretic Structure | Riccardo Giacinti | [Read More](https://medium.com/p/7255ad9c525d) |
 | Mon, 17 Nov 2025 10:16:41 GMT | The Quantum Computer That Will Break Your Bitcoin Is Already Being Built | UnoLock CybVault | [Read More](https://medium.com/p/3537e7c99d05) |
+| Mon, 17 Nov 2025 10:16:36 GMT | CVE-2025–60709: Out-of-Bounds Read in Windows CLFS | Eugene Peh | [Read More](https://medium.com/p/0269a8e09d99) |
 | Mon, 17 Nov 2025 10:14:19 GMT | I was hacked… You might be too… | Ginger Mongi | [Read More](https://medium.com/p/ca4b40e0295b) |
 | Mon, 17 Nov 2025 10:09:07 GMT | Best IT Infrastructure Management Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/da8985c8210c) |
 | Mon, 17 Nov 2025 10:07:50 GMT | Top 10 Virtual Assistant Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/121cddc7eb57) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 07:31:59 GMT | How I Taught AI to Predict Zero-Days Before They Happened (And Got Paid for Bugs That Didn’t Exist… | Iski | [Read More](https://medium.com/p/3e0fe162d92f) |
 | Mon, 17 Nov 2025 07:26:37 GMT | Cybersecurity, AI & Quantum Computing: The New Digital Triangle of Power | Gopi Sri | [Read More](https://medium.com/p/4869d24b8191) |
 | Mon, 17 Nov 2025 07:21:39 GMT | Introducing the DRAPE Index: How to measure (in)success in a Threat Detection practice? | Alex Teixeira | [Read More](https://medium.com/p/154fd977f731) |
-| Mon, 17 Nov 2025 07:12:33 GMT | How Computer Networking Redefined the Way I Understand Technology | Jmulokikisira | [Read More](https://medium.com/p/b13db0466eea) |
-| Mon, 17 Nov 2025 07:10:36 GMT | Cybersecurity Career in Hyderabad with Firewall-Zone Institute of IT | Firewall Zone Institute of IT | [Read More](https://medium.com/p/4218ad3b6bc5) |
-| Mon, 17 Nov 2025 07:09:15 GMT | From Token to Takeover: Exploiting Weak HS256 Secrets (POC) | Satheesh | [Read More](https://medium.com/p/c53afb9a75a0) |
-| Mon, 17 Nov 2025 07:07:12 GMT | Why Choosing the Best Cloud Computing Institute in 2026 Matters More Than Ever? | JetkingChandigarh | [Read More](https://medium.com/p/019ee61f317e) |
-| Mon, 17 Nov 2025 07:06:51 GMT | ประจำวันจันทร์ที่ 17 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/3155f8d82e89) |
-| Mon, 17 Nov 2025 07:06:41 GMT | My Cybersecurity Journey: From Curiosity to Purpose | Jmulokikisira | [Read More](https://medium.com/p/34a98e31ac25) |
-| Mon, 17 Nov 2025 07:04:18 GMT | Rust Is Quietly Transforming Android Security — And the Entire Software Industry Should Pay… | Germano Costi | [Read More](https://medium.com/p/e3911d8de91c) |
-| Mon, 17 Nov 2025 07:02:07 GMT | The Real Cost of WordPress Security Failures (And How to Avoid Becoming a Statistic) | Eddy Enoma | [Read More](https://medium.com/p/821e787e3552) |
-| Mon, 17 Nov 2025 06:59:16 GMT | RST TI Report Digest: 17 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/e9cbd30f1af7) |
-| Mon, 17 Nov 2025 06:52:26 GMT | OSINT tools and Vulnerabilities Assessment | Adeleke Theophilus O | [Read More](https://medium.com/p/a994ac28c553) |
-| Mon, 17 Nov 2025 06:47:47 GMT | The Top 5 Cybersecurity Skills Employers Want in 2026 | Steven Chin | [Read More](https://medium.com/p/e456cecbc666) |
-| Mon, 17 Nov 2025 06:45:19 GMT | Phishing Email Analysis — LetsDefend Challenge (PayPal Spoof) | Soumodeep Das | [Read More](https://medium.com/p/a6d4e96a391d) |
-| Mon, 17 Nov 2025 06:41:47 GMT | How To Hackers Turn DNS Into a Backdoor (2025 ) | Webdev Carlos | [Read More](https://medium.com/p/b8a291d8c751) |
-| Mon, 17 Nov 2025 06:41:20 GMT | The Cybersecurity Lies That Put SMBs at Risk — and How to Break Them | Narnaiezzsshaa Truong | [Read More](https://medium.com/p/8ffe22414e50) |
-| Mon, 17 Nov 2025 06:31:36 GMT | Scams @ Holiday Season | Vishal Thakur | [Read More](https://medium.com/p/bd1777d24b19) |
-| Mon, 17 Nov 2025 06:29:27 GMT | Top Security Services in India: Ensuring Safety, Trust, and Protection in a Changing World | Ciss India | [Read More](https://medium.com/p/d128dd9a3d67) |
-| Mon, 17 Nov 2025 06:18:55 GMT | Building Mobile Apps That Drive Real Business Growth | Tech Immortals | [Read More](https://medium.com/p/9d2a73ae5307) |
-| Mon, 17 Nov 2025 06:15:59 GMT | Hidden Lies of the Ego: How We Deceive Ourselves | Seliora | [Read More](https://medium.com/p/2199c6698649) |
-| Mon, 17 Nov 2025 06:15:31 GMT | TCP/IP Model: A Technical Guide with a Slice of Pizza | Merve Güler | [Read More](https://medium.com/p/dfa00f857f2a) |
-| Mon, 17 Nov 2025 06:15:07 GMT | The First AI Cyberweapon Attack |  | [Read More](https://medium.com/p/93f6cf092378) |
-| Mon, 17 Nov 2025 06:04:16 GMT | Who Needs ISO 27001? | NidaWaqas | [Read More](https://medium.com/p/5eb1fe2e65b4) |
