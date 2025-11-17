@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 11:08:48 GMT | Revolutionizing the Dining Experience: Custom Self-Ordering Kiosk Design for UAE F&B Businesses | Rakesh | [Read More](https://medium.com/p/406adcc76813) |
+| Mon, 17 Nov 2025 11:05:39 GMT | Best IVR Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/147df9d04d14) |
+| Mon, 17 Nov 2025 10:58:48 GMT | Logs, Telemetry, and the Golden Ratio: Why the Data Ownership Ratio Will Redefine Cybersecurity… | Juan Pablo Castro | [Read More](https://medium.com/p/3defe9a47b6d) |
+| Mon, 17 Nov 2025 10:55:46 GMT | Guarding Digital Sovereignty: How Digital Shield Forges an Offline, Multi-Chain Asset Management… | Digital Shield | [Read More](https://medium.com/p/02e9acf2ccc5) |
+| Mon, 17 Nov 2025 10:53:01 GMT | Cyber Safety | Pulkita Aggarwal | [Read More](https://medium.com/p/8f3b4c1dd79a) |
+| Mon, 17 Nov 2025 10:44:49 GMT | How Apex Consultants’ Software Products Are Transforming Modern Businesses | ApexConsultants | [Read More](https://medium.com/p/901dfa4d7ed9) |
 | Mon, 17 Nov 2025 10:35:35 GMT | Collision Writeup (Pwnable.kr) | Ivan Daňo | [Read More](https://medium.com/p/344af5ba9451) |
+| Mon, 17 Nov 2025 10:34:31 GMT | How I Find Real Bug Bounty Targets - Live Recon and Workflow | Jackson Mittag | [Read More](https://medium.com/p/4971bbd8230b) |
 | Mon, 17 Nov 2025 10:30:11 GMT | Best Black Friday Offers on Cybersecurity Certifications | cyber security Updates | [Read More](https://medium.com/p/1742d0e92f8c) |
 | Mon, 17 Nov 2025 10:28:05 GMT | Why AI Attackers Already Won The Speed Race | Lewis Thomson | [Read More](https://medium.com/p/4a028970ec3d) |
 | Mon, 17 Nov 2025 10:18:49 GMT | Foundations of Probability: Interpretations, Axioms, and Measure-Theoretic Structure | Riccardo Giacinti | [Read More](https://medium.com/p/7255ad9c525d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 05:37:31 GMT | How to Get SOC 2 Certification | NidaWaqas | [Read More](https://medium.com/p/0a7cb518a0f4) |
 | Mon, 17 Nov 2025 05:32:40 GMT | Inside the Shellcode: Dissecting North Korean APT43’s Advanced PowerShell Loader | Siddhant Mishra | [Read More](https://medium.com/p/e6c51b77f486) |
 | Mon, 17 Nov 2025 05:22:59 GMT | Operation Endgame ? The Digital Heist We Missed | Siva Desetti | [Read More](https://medium.com/p/5ef4a03a9aae) |
-| Mon, 17 Nov 2025 05:16:11 GMT | Essential Strategies for Defending Against Today’s Cyber Threats | Lakshay Security | [Read More](https://medium.com/p/de1ed4a2adee) |
-| Mon, 17 Nov 2025 05:15:24 GMT | How Do Professional Security Services in Hisar Handle Unskilled Labor? | Lakshay Security | [Read More](https://medium.com/p/ebdf59f1225d) |
-| Mon, 17 Nov 2025 05:14:21 GMT | Understanding the Types of Security Services Available Near You | Lakshay Security | [Read More](https://medium.com/p/9c483e3393b3) |
-| Mon, 17 Nov 2025 05:13:33 GMT | ️Cracking a UTF-7 Path Traversal: My Walkthrough of Web 100–1 (Pointer Overflow CTF) | v4br0 | [Read More](https://medium.com/p/a51f6fc048c6) |
-| Mon, 17 Nov 2025 05:07:19 GMT | Building a Unified SAST + DAST Security Pipeline (Our Next Step in DevSecOps) | Rajesh Thakur | [Read More](https://medium.com/p/10d4963c9c7c) |
-| Mon, 17 Nov 2025 04:57:56 GMT | AI + ML‑Based Insider Threat Detection via User Logon Patterns | Myth | [Read More](https://medium.com/p/6133945b50cf) |
-| Mon, 17 Nov 2025 04:53:32 GMT | What is Detection as Code? | InfosecTrain | [Read More](https://medium.com/p/0e7e15d86de4) |
