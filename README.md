@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 23:10:15 GMT | DNS Tunneling and Covert Communication Channels Explained | Eric Howard, Ph. D. | [Read More](https://medium.com/p/bed354f797d1) |
+| Mon, 17 Nov 2025 22:59:28 GMT | Guardrails for the Machine Mind: The Future of AI Security | Marwan | [Read More](https://medium.com/p/d1318673fa70) |
+| Mon, 17 Nov 2025 22:57:12 GMT | Layoff and Termination Advice | Rhiannon Williams | [Read More](https://medium.com/p/e1459fb208a4) |
+| Mon, 17 Nov 2025 22:39:17 GMT | How to integrate ReconFTW with KaliGPT
+(or an LLM-assisted workflow) | ghostyjoe | [Read More](https://medium.com/p/2416ea09045b) |
 | Mon, 17 Nov 2025 22:37:55 GMT | What is Transport Layer Security(SSL/TLS)? | Kamal Kishor Mahto | [Read More](https://medium.com/p/c9304435f496) |
 | Mon, 17 Nov 2025 22:26:29 GMT | In the Storm | Tom Sims | [Read More](https://medium.com/p/a9c52127a4f0) |
 | Mon, 17 Nov 2025 22:24:05 GMT | The moment I stopped chasing files… everything changed. | Jane Brian | [Read More](https://medium.com/p/27953c9635df) |
@@ -66,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 18:16:00 GMT | WAF: Introduction | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/3095deefa162) |
 | Mon, 17 Nov 2025 18:13:25 GMT | LetsDefend — A SOC336 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/088a2e04d8a2) |
 | Mon, 17 Nov 2025 18:11:39 GMT | How I Tricked the AI: A Write-up of TCM Security’s Black Friday CTF | Gokhan Can | [Read More](https://medium.com/p/22d7c243644f) |
+| Mon, 17 Nov 2025 18:07:17 GMT | Dijital Hayalet Olmak: MAC Adresi Nedir ve Neden Değiştirmek İsteyebilirsiniz? | Çınar Genç | [Read More](https://medium.com/p/9853cce010c5) |
 | Mon, 17 Nov 2025 18:05:26 GMT | When Digital Sovereignty Is at Stake: Lessons from the November 2025 State Website Hack. | eL Njas!™ | [Read More](https://medium.com/p/6f02dffd117d) |
 | Mon, 17 Nov 2025 18:01:30 GMT | ️ Advanced Log Correlation Scenarios: Maximizing SOC Detection Capabilities | Esra Kayhan | [Read More](https://medium.com/p/2a89a4f8ed01) |
 | Mon, 17 Nov 2025 17:59:11 GMT | AI: The Boon and the Threat — How Artificial Intelligence Is Reshaping Data Science & Analytics… | Naman Gupta | [Read More](https://medium.com/p/5ffc24140b4e) |
@@ -108,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 15:53:21 GMT | Public Wi-Fi Safety Tips 2025: How to
 Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/p/2e20a72206d1) |
 | Mon, 17 Nov 2025 15:52:42 GMT | New TaskHound Tool Exposes Hidden Risks in Windows Scheduled Tasks | Jasmitha | [Read More](https://medium.com/p/b13d8becebe2) |
-| Mon, 17 Nov 2025 15:52:20 GMT | From Pentest to GTFOBins: How I Discovered and Proposed a New Root-Escalation Method Using… | Nebty | [Read More](https://medium.com/p/1a2a6b469ba6) |
-| Mon, 17 Nov 2025 15:48:38 GMT | Data Dome Hackviser Writeup | Elvinhuseynov | [Read More](https://medium.com/p/bd905ee794e4) |
-| Mon, 17 Nov 2025 15:45:35 GMT | HTB — Artificial Writeup: TensorFlow to Root | Aashraymt | [Read More](https://medium.com/p/50ce32c56ae2) |
-| Mon, 17 Nov 2025 15:38:40 GMT | Claude Guides Us Through the Steps of Building Your First Decentralized Local Ai Model | Martin D. Vasquez | [Read More](https://medium.com/p/f2e68f6fc2cc) |
-| Mon, 17 Nov 2025 15:35:05 GMT | Identity Is the New Battleground: How Rainbow Secure Protects Businesses Against the Latest Cyber… | Dr. Shashi Karhail | [Read More](https://medium.com/p/68b085763b40) |
