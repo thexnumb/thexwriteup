@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 07:10:36 GMT | Cybersecurity Career in Hyderabad with Firewall-Zone Institute of IT | Firewall Zone Institute of IT | [Read More](https://medium.com/p/4218ad3b6bc5) |
+| Mon, 17 Nov 2025 07:09:15 GMT | From Token to Takeover: Exploiting Weak HS256 Secrets (POC) | Satheesh | [Read More](https://medium.com/p/c53afb9a75a0) |
+| Mon, 17 Nov 2025 07:07:12 GMT | Why Choosing the Best Cloud Computing Institute in 2026 Matters More Than Ever? | JetkingChandigarh | [Read More](https://medium.com/p/019ee61f317e) |
+| Mon, 17 Nov 2025 07:06:51 GMT | ประจำวันจันทร์ที่ 17 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/3155f8d82e89) |
+| Mon, 17 Nov 2025 07:06:41 GMT | My Cybersecurity Journey: From Curiosity to Purpose | Jmulokikisira | [Read More](https://medium.com/p/34a98e31ac25) |
+| Mon, 17 Nov 2025 07:04:18 GMT | Rust Is Quietly Transforming Android Security — And the Entire Software Industry Should Pay… | Germano Costi | [Read More](https://medium.com/p/e3911d8de91c) |
+| Mon, 17 Nov 2025 07:02:07 GMT | The Real Cost of WordPress Security Failures (And How to Avoid Becoming a Statistic) | Eddy Enoma | [Read More](https://medium.com/p/821e787e3552) |
+| Mon, 17 Nov 2025 06:59:16 GMT | RST TI Report Digest: 17 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/e9cbd30f1af7) |
+| Mon, 17 Nov 2025 06:52:26 GMT | OSINT tools and Vulnerabilities Assessment | Adeleke Theophilus O | [Read More](https://medium.com/p/a994ac28c553) |
+| Mon, 17 Nov 2025 06:47:47 GMT | The Top 5 Cybersecurity Skills Employers Want in 2026 | Steven Chin | [Read More](https://medium.com/p/e456cecbc666) |
+| Mon, 17 Nov 2025 06:45:19 GMT | Phishing Email Analysis — LetsDefend Challenge (PayPal Spoof) | Soumodeep Das | [Read More](https://medium.com/p/a6d4e96a391d) |
+| Mon, 17 Nov 2025 06:41:47 GMT | How To Hackers Turn DNS Into a Backdoor (2025 ) | Webdev Carlos | [Read More](https://medium.com/p/b8a291d8c751) |
+| Mon, 17 Nov 2025 06:41:20 GMT | The Cybersecurity Lies That Put SMBs at Risk — and How to Break Them | Narnaiezzsshaa Truong | [Read More](https://medium.com/p/8ffe22414e50) |
+| Mon, 17 Nov 2025 06:31:36 GMT | Scams @ Holiday Season | Vishal Thakur | [Read More](https://medium.com/p/bd1777d24b19) |
+| Mon, 17 Nov 2025 06:29:27 GMT | Top Security Services in India: Ensuring Safety, Trust, and Protection in a Changing World | Ciss India | [Read More](https://medium.com/p/d128dd9a3d67) |
 | Mon, 17 Nov 2025 06:18:55 GMT | Building Mobile Apps That Drive Real Business Growth | Tech Immortals | [Read More](https://medium.com/p/9d2a73ae5307) |
 | Mon, 17 Nov 2025 06:15:59 GMT | Hidden Lies of the Ego: How We Deceive Ourselves | Seliora | [Read More](https://medium.com/p/2199c6698649) |
 | Mon, 17 Nov 2025 06:15:31 GMT | TCP/IP Model: A Technical Guide with a Slice of Pizza | Merve Güler | [Read More](https://medium.com/p/dfa00f857f2a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 22:35:47 GMT | SOC Automation: Integrating SOAR and AI for Threat Response | Eric Howard, Ph. D. | [Read More](https://medium.com/p/59f53aab9adb) |
 | Sun, 16 Nov 2025 22:18:06 GMT | LetsDefend— A SOC342 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/229db6e5a238) |
 | Sun, 16 Nov 2025 22:12:25 GMT | Vulnerability | Bobby Z. Ford | [Read More](https://medium.com/p/32853969ff4e) |
-| Sun, 16 Nov 2025 22:03:18 GMT | Social Engineering: The Most Human Exploit in Cybersecurity | Understand IT | [Read More](https://medium.com/p/11148fec8d6c) |
-| Sun, 16 Nov 2025 22:02:26 GMT | [ SOC Alert => Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) ] by LetsDefend… | EduKayky | [Read More](https://medium.com/p/f7ff92502f07) |
-| Sun, 16 Nov 2025 21:59:25 GMT | Credential Provider DLL Hijacking for Persistence | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e437e838e382) |
-| Sun, 16 Nov 2025 21:57:37 GMT | Could Phishing Training Be Making Phishing Worse? | Andrew Zuo | [Read More](https://medium.com/p/146409213fdf) |
-| Sun, 16 Nov 2025 21:53:14 GMT | Why Cybersecurity Freelancers Are the New Digital Soldiers | Liam | [Read More](https://medium.com/p/f5be3412f5a3) |
-| Sun, 16 Nov 2025 21:48:52 GMT | How a Simple USB Folder Triggered a VBScript Worm: A SOC Case Study | Omar AlSahily | [Read More](https://medium.com/p/6c05f8604a54) |
-| Sun, 16 Nov 2025 21:42:58 GMT | The Silver Fox Tech Squad: Seniors Beating Scammers | Dave Of All Styles | [Read More](https://medium.com/p/3ea096d049b2) |
-| Sun, 16 Nov 2025 21:29:25 GMT | Proxychains Deep Dive | Danoss777 | [Read More](https://medium.com/p/0f5632a42091) |
-| Sun, 16 Nov 2025 21:26:40 GMT | How I Found a Critical IDOR Flaw in Minutes | Ibtissam | [Read More](https://medium.com/p/85ddf0648d99) |
-| Sun, 16 Nov 2025 21:26:40 GMT | Uber, Lapsus$, and the Insider Risk You Forgot About | Fook Hwa Tan | [Read More](https://medium.com/p/5d601aae0baa) |
-| Sun, 16 Nov 2025 21:25:39 GMT | The Hype and the Reality: What AI Really Means for Your Security | Fook Hwa Tan | [Read More](https://medium.com/p/de2d30957999) |
-| Sun, 16 Nov 2025 21:24:00 GMT | How to Frame Risk So Even Non-Tech Execs Get It | Fook Hwa Tan | [Read More](https://medium.com/p/08e382d54722) |
-| Sun, 16 Nov 2025 21:18:33 GMT | Black Hat vs White Hat: The Career Path Where One Ends With Applause and the Other With Handcuffs | Travis Ray Caverhill | [Read More](https://medium.com/p/222ad516aa7d) |
-| Sun, 16 Nov 2025 21:15:47 GMT | How I Bypassed Authentication on a Public Program Just by Changing One Word | D0loresH4ze | [Read More](https://medium.com/p/53b6173b5feb) |
-| Sun, 16 Nov 2025 21:11:01 GMT | Claude impersonates Dario Amodei | Kevin O'Shaughnessy | [Read More](https://medium.com/p/2c6a303e5aaf) |
