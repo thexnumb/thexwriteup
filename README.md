@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 21:27:01 GMT | Data Heist — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/97a8feafbf88) |
+| Mon, 17 Nov 2025 21:23:01 GMT | The Night the Machines Broke In: Why AI-Fueled Cyberattacks Just Rewrote the Security Rulebook | Anindya Mishra | [Read More](https://medium.com/p/a65e428b99bd) |
 | Mon, 17 Nov 2025 21:09:58 GMT | Certified AI/ML Pentester (C-AI/MLPen) Exam Review | Ihor Sasovets | [Read More](https://medium.com/p/93813e80b628) |
+| Mon, 17 Nov 2025 21:07:55 GMT | Threat Modeling — Thinking on Security Before Writing Code — The Big Roll Back #02 | Kelvin Santos[zdk] | [Read More](https://medium.com/p/07f6a5f44152) |
 | Mon, 17 Nov 2025 21:02:01 GMT | Outbound  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/0fa8ea412990) |
 | Mon, 17 Nov 2025 20:58:14 GMT | My journey to helping Colorado State University Pueblo achieve first place in the NCL Cybersecurity… | diGi | [Read More](https://medium.com/p/d9504b1efb50) |
 | Mon, 17 Nov 2025 20:57:21 GMT | The Cybersecurity Sentinel (November 2025) | Franklin Rhodes | [Read More](https://medium.com/p/4a72f20b7ad4) |
@@ -110,6 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 14:51:18 GMT | Ethereum (ETH) টোকেনে এখন থেকে পেমেন্ট গ্রহণ করছে NymVPN | S. M. Abdullah | [Read More](https://medium.com/p/7c99b1219968) |
 | Mon, 17 Nov 2025 14:46:48 GMT | GitHub Copilot: The AI Assistant Transforming Software Development | Aurélien | [Read More](https://medium.com/p/1ce891af7e0e) |
 | Mon, 17 Nov 2025 14:42:18 GMT | From Webshells to the Cloud | Joseph Harrison | [Read More](https://medium.com/p/6549b2b14aa3) |
-| Mon, 17 Nov 2025 14:40:59 GMT | AI Inference Engines Hit by Critical RCE Flaws Putting Major Tech Frameworks at Risk | Jasmitha | [Read More](https://medium.com/p/305df3ff0c1e) |
-| Mon, 17 Nov 2025 14:39:47 GMT | Input Manipulation & Prompt Injection: The Invisible Attacks You’re Probably Overlooking | Vaishnavi Bhandari | [Read More](https://medium.com/p/22ffd68c9795) |
-| Mon, 17 Nov 2025 14:31:40 GMT | OSINT detailed guide for 2026 | Mainekhacker | [Read More](https://medium.com/p/367dd20249bf) |
