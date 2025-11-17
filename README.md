@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 15:35:05 GMT | Identity Is the New Battleground: How Rainbow Secure Protects Businesses Against the Latest Cyber… | Dr. Shashi Karhail | [Read More](https://medium.com/p/68b085763b40) |
+| Mon, 17 Nov 2025 15:34:10 GMT | How I Passed the eJPT (94%) and What Helped the Most | Ninadkarkhanis | [Read More](https://medium.com/p/d86e73a009ab) |
+| Mon, 17 Nov 2025 15:24:57 GMT | Uniform Suppliers for Industrial - Uniform Manufacturers for Industrial | Uniswin | [Read More](https://medium.com/p/7796e1df8b29) |
 | Mon, 17 Nov 2025 15:23:24 GMT | AresGPT: Decision-Making with Red | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/dc5c655a4802) |
 | Mon, 17 Nov 2025 15:22:00 GMT | #09- Kali Linux — Credential Access: Harvesting the Keys to the Kingdom | SDNTechForum | [Read More](https://medium.com/p/d5af5b204783) |
 | Mon, 17 Nov 2025 15:05:03 GMT | What is Malware ? A Simple Explanation for Beginners | Veeresh HS | [Read More](https://medium.com/p/adfd2f26cf24) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 10:05:01 GMT | Cybersecurity Gap Assessment: Turning Security Gap Analysis from Compliance Paperwork into Threat… | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/6837f2637763) |
 | Mon, 17 Nov 2025 09:59:00 GMT | My QA Journey: The Beginning | Aparna Mishra | [Read More](https://medium.com/p/65cf6be5b7b8) |
 | Mon, 17 Nov 2025 09:54:35 GMT | Mastering IT Risk: The Role of a GRC Platform in Cybersecurity Management | SecureSlate | [Read More](https://medium.com/p/05f72223c52b) |
-| Mon, 17 Nov 2025 09:53:41 GMT | Unlocking Digital Safety: A Comprehensive Guide to Cybersecurity for Everyone | Stephen Bernard Agwai | [Read More](https://medium.com/p/dcc1833ecd9a) |
-| Mon, 17 Nov 2025 09:49:45 GMT | How Hackers Hack Using AI in 2025 — 2026 | Monu Jangra | [Read More](https://medium.com/p/1a061d6dea15) |
-| Mon, 17 Nov 2025 09:49:25 GMT | AI + Cloud Security: How Artificial Intelligence Is Transforming the Future of Cloud Defense | Monu Jangra | [Read More](https://medium.com/p/a8d436ddb017) |
