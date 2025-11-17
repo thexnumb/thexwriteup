@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 01:34:44 GMT | How I Accidentally Discovered an Undocumented Vulnerability in “Web for Pentester 1” | Zahi halimi | [Read More](https://medium.com/p/aff4bfd608a6) |
+| Mon, 17 Nov 2025 01:33:38 GMT | How to configure static IP address on Windows 10 with 2 easy methods | Safelyo Global | [Read More](https://medium.com/p/cfec1a5b9b13) |
+| Mon, 17 Nov 2025 01:31:59 GMT | Keylogger project using Python | The Commoness | [Read More](https://medium.com/p/50680770c307) |
+| Mon, 17 Nov 2025 01:15:38 GMT | How to view history in DuckDuckGo: Step by step 2025 guide | Millie Bobby | [Read More](https://medium.com/p/9caffb517785) |
+| Mon, 17 Nov 2025 01:10:31 GMT | 12 AWS IAM Security Leaks Hackers Look For (+ How to defend) | Chris St. John | [Read More](https://medium.com/p/848f4c2ec36e) |
+| Mon, 17 Nov 2025 01:00:46 GMT | The IoT Device That Wouldn’t Connect (And How I Fixed It) | Odunze Jennifer Oluchukwu | [Read More](https://medium.com/p/926c6b32a732) |
+| Mon, 17 Nov 2025 00:32:05 GMT | Behind the Scenes of Spring Security: Mastering the SecurityFilterChain | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/a63c0f076d58) |
+| Mon, 17 Nov 2025 00:18:35 GMT | Write-up: Máquina “Expressway” de Hack The Box | Marianoacostafc | [Read More](https://medium.com/p/40c488cb5286) |
+| Mon, 17 Nov 2025 00:14:04 GMT | Capítulo 5 — Espelhos e Sombras | Kleber Andrade | [Read More](https://medium.com/p/464143da4403) |
+| Mon, 17 Nov 2025 00:03:38 GMT | Balancer V2 Exploit Analysis | Sisi | [Read More](https://medium.com/p/9c17cb8081a5) |
+| Sun, 16 Nov 2025 23:53:51 GMT | Today’s News (November 16, 2025) | Tim O'Brien | [Read More](https://medium.com/p/aedb076fa85f) |
+| Sun, 16 Nov 2025 23:49:05 GMT | How to Host a Website for Free on Linux - Legal & Secure Methods | Shahzaib | [Read More](https://medium.com/p/125bda840c05) |
+| Sun, 16 Nov 2025 23:48:07 GMT | Production readiness and migration playbook | BoNeZ | [Read More](https://medium.com/p/d68101874c9d) |
+| Sun, 16 Nov 2025 23:39:34 GMT | Proving Grounds - MedJed | jniket | [Read More](https://medium.com/p/ce6c6b52801d) |
+| Sun, 16 Nov 2025 23:39:01 GMT | Python — Blind SSTI Filters Bypass | Aderogbarufai | [Read More](https://medium.com/p/9585f421db67) |
+| Sun, 16 Nov 2025 23:35:30 GMT | Wi-Fi Güvenliği 101: EAPOL Handshake ve Parola Doğrulama Mekanizması | Enes Berk Yetim | [Read More](https://medium.com/p/11c0e95643de) |
 | Sun, 16 Nov 2025 23:29:08 GMT | The Gospel According to GPT | TJ Larson | [Read More](https://medium.com/p/77d5476e55b4) |
 | Sun, 16 Nov 2025 23:23:06 GMT | Decoding the UXLINK Attack: NyxSwap as an Exit Vector | CryptoGuard | [Read More](https://medium.com/p/63972eb6303c) |
 | Sun, 16 Nov 2025 23:19:20 GMT | Summit — THM Challenge Writeup | Radulescugabriel | [Read More](https://medium.com/p/bb47712b695f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 16:21:59 GMT | Breached! Five Cyber Attacks of 2025 — and the Hard Lessons | Quellin | [Read More](https://medium.com/p/5d3018be3e21) |
 | Sun, 16 Nov 2025 16:19:02 GMT | What Is Information Security? — Building a Strong Foundation in the CIA Triad and Beyond | Damir Kolobaric | [Read More](https://medium.com/p/5b6c6fb68bc3) |
 | Sun, 16 Nov 2025 16:18:02 GMT | Reversing Lab Challenge Writeup | Salman Ahmed | [Read More](https://medium.com/p/669990998bb9) |
-| Sun, 16 Nov 2025 16:17:29 GMT | ReconX — The Fastest All-in-One Reconnaissance Framework for Pentesters | Divyanshu Saini | [Read More](https://medium.com/p/f4145a4d92b1) |
-| Sun, 16 Nov 2025 16:11:42 GMT | How a Single CSRF Vulnerability Can Lead to a Huge Bug Bounty — Full Breakdown + Complete… | Zoningxtr | [Read More](https://medium.com/p/5eee0d69a6ad) |
-| Sun, 16 Nov 2025 16:09:22 GMT | Certified Red Team Operator (CRTO): An Honest Review and Strategy Guide | Ryan Moore | [Read More](https://medium.com/p/72db2df2bad6) |
-| Sun, 16 Nov 2025 16:05:55 GMT | Beyond Antivirus: Understanding the Cybersecurity Evolution from EPP to SOAR | Sooraj Chettianakndy | [Read More](https://medium.com/p/a8f8a11f8d1c) |
-| Sun, 16 Nov 2025 16:01:53 GMT | Building Resilience Through Cybersecurity Risk Management | Vishwajeettechtech | [Read More](https://medium.com/p/d2ae0ee76c1a) |
-| Sun, 16 Nov 2025 16:00:28 GMT | Blue | Melih Kılıç | [Read More](https://medium.com/p/bb41f0ef6fb2) |
-| Sun, 16 Nov 2025 15:59:36 GMT | Cybersecurity in the Age of IoT: A Hacker’s Perspective | Dipta paul | [Read More](https://medium.com/p/d236e97507d7) |
-| Sun, 16 Nov 2025 15:48:56 GMT | What is RSA Encryption and How Does It Keep Your Data Safe? | Chaitanya Rai | [Read More](https://medium.com/p/a6fcb1b4032e) |
-| Sun, 16 Nov 2025 15:42:46 GMT | EUBW Draft, Nov 19 2025: What to Expext  and Why This is Very Important | Carsten Stöcker | [Read More](https://medium.com/p/4f8676e60d93) |
-| Sun, 16 Nov 2025 15:39:18 GMT | Don’t Fear the Market: Upgrade Your Skills and Switch with Confidence‍ | Shubham Vartak | [Read More](https://medium.com/p/fd371cda12d5) |
-| Sun, 16 Nov 2025 15:36:20 GMT | The Linux Security Journey — Protected FIFO (First In First Out) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/dbb9d946440c) |
-| Sun, 16 Nov 2025 15:32:45 GMT | OWASP top 10 2025 | Andrii Shyshenko | [Read More](https://medium.com/p/291fffcf8f94) |
-| Sun, 16 Nov 2025 15:25:10 GMT | Outbound — ackthebox Machine Writeup | Zubair Ahmed | [Read More](https://medium.com/p/02813f218c40) |
-| Sun, 16 Nov 2025 15:24:28 GMT | My Medical Database ERD (SQL Project) | Faysal Dhimbil | [Read More](https://medium.com/p/29f12e81bdd7) |
-| Sun, 16 Nov 2025 15:24:27 GMT | SQL Security Analysis Portfolio Project. Investigating Login Activity & Employee Machines | Mark Csete | [Read More](https://medium.com/p/93c14efebebc) |
-| Sun, 16 Nov 2025 15:19:27 GMT | CORRIDOR CHALLENGE TRYHACKME | Yukesh | [Read More](https://medium.com/p/d4dca411e56b) |
