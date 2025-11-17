@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 10:35:35 GMT | Collision Writeup (Pwnable.kr) | Ivan Daňo | [Read More](https://medium.com/p/344af5ba9451) |
+| Mon, 17 Nov 2025 10:30:11 GMT | Best Black Friday Offers on Cybersecurity Certifications | cyber security Updates | [Read More](https://medium.com/p/1742d0e92f8c) |
+| Mon, 17 Nov 2025 10:28:05 GMT | Why AI Attackers Already Won The Speed Race | Lewis Thomson | [Read More](https://medium.com/p/4a028970ec3d) |
 | Mon, 17 Nov 2025 10:18:49 GMT | Foundations of Probability: Interpretations, Axioms, and Measure-Theoretic Structure | Riccardo Giacinti | [Read More](https://medium.com/p/7255ad9c525d) |
 | Mon, 17 Nov 2025 10:16:41 GMT | The Quantum Computer That Will Break Your Bitcoin Is Already Being Built | UnoLock CybVault | [Read More](https://medium.com/p/3537e7c99d05) |
 | Mon, 17 Nov 2025 10:14:19 GMT | I was hacked… You might be too… | Ginger Mongi | [Read More](https://medium.com/p/ca4b40e0295b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 05:07:19 GMT | Building a Unified SAST + DAST Security Pipeline (Our Next Step in DevSecOps) | Rajesh Thakur | [Read More](https://medium.com/p/10d4963c9c7c) |
 | Mon, 17 Nov 2025 04:57:56 GMT | AI + ML‑Based Insider Threat Detection via User Logon Patterns | Myth | [Read More](https://medium.com/p/6133945b50cf) |
 | Mon, 17 Nov 2025 04:53:32 GMT | What is Detection as Code? | InfosecTrain | [Read More](https://medium.com/p/0e7e15d86de4) |
-| Mon, 17 Nov 2025 04:52:20 GMT | What is Packet Capture (PCAP)? | InfosecTrain | [Read More](https://medium.com/p/5d2200c19162) |
-| Mon, 17 Nov 2025 04:46:42 GMT | JWT Signature Bypass: A Code-Oriented Walkthrough | Raja Sekar Durairaj | [Read More](https://medium.com/p/d3c451eb7595) |
-| Mon, 17 Nov 2025 04:43:33 GMT | Top Cyber Attack News: Last 7 Days (Nov 8–15, 2025) | Siva Desetti | [Read More](https://medium.com/p/bdf5f0196dd5) |
