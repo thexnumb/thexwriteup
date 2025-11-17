@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 16:45:27 GMT | Your Domain Is Probably in Stealer Logs: See What LeakRadar Finds in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/31bd1a1d8086) |
+| Mon, 17 Nov 2025 16:38:03 GMT | How Digital Intimacy Turned Into a Weapon of Control | The Observer | [Read More](https://medium.com/p/4c44f3d4f0af) |
+| Mon, 17 Nov 2025 16:35:56 GMT | PortSwigger: XML external entity (XXE) injection LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/24092b88afc7) |
+| Mon, 17 Nov 2025 16:35:44 GMT | AI Impacts All Enterprise IT Jobs | David H. Deans | [Read More](https://medium.com/p/ff7a5171f8fa) |
+| Mon, 17 Nov 2025 16:28:59 GMT | RootMe TryHackMe Writeup | Benedict Agno | [Read More](https://medium.com/p/5356193a2667) |
+| Mon, 17 Nov 2025 16:27:12 GMT | Top 12 Cybersecurity Tools Every Beginner Must Learn | Pratap Sahu | [Read More](https://medium.com/p/ecf9d57c0178) |
 | Mon, 17 Nov 2025 16:20:41 GMT | Proving Grounds “Twiggy” Linux box | Cyb0rgBytes | [Read More](https://medium.com/p/2098933fda1e) |
 | Mon, 17 Nov 2025 16:20:18 GMT | The Art Of Writing a Bug Report | Hüseyin Tarık Uslu | [Read More](https://medium.com/p/4266bd58ed2a) |
 | Mon, 17 Nov 2025 16:19:31 GMT | Fiber Networking: The Future-Proof Backbone Your Business Can’t Afford to Ignore | Paradise technologies Inc | [Read More](https://medium.com/p/5a423192123c) |
@@ -107,9 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 11:19:46 GMT | Simulating a Counting Process with Constant Rate λ | Riccardo Giacinti | [Read More](https://medium.com/p/fa81878d1e13) |
 | Mon, 17 Nov 2025 11:19:41 GMT | Architectural Blueprints for Securing LLM Agents | Abi Varma | [Read More](https://medium.com/p/96591c5d7db9) |
 | Mon, 17 Nov 2025 11:17:29 GMT | CISSP-Domain 1: Security and Risk Management — 1.1–1.2 | Gülşah Demiryürek | [Read More](https://medium.com/p/ff8eeac110f5) |
-| Mon, 17 Nov 2025 11:16:49 GMT | The Silent Cost of IT Downtime Most CEOs Ignore | Techero | [Read More](https://medium.com/p/69ed3181e396) |
-| Mon, 17 Nov 2025 11:14:55 GMT | DockerLabs Writeup — HackPenguin (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/677993b08483) |
-| Mon, 17 Nov 2025 11:08:48 GMT | Revolutionizing the Dining Experience: Custom Self-Ordering Kiosk Design for UAE F&B Businesses | Rakesh | [Read More](https://medium.com/p/406adcc76813) |
-| Mon, 17 Nov 2025 11:07:32 GMT | Deep Insights into Digital Asset Security: The Surge of Hardware Wallet Sales in 2025 and How to… | Digital Shield Offcial | [Read More](https://medium.com/p/05180bbc1355) |
-| Mon, 17 Nov 2025 11:05:39 GMT | Best IVR Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/147df9d04d14) |
-| Mon, 17 Nov 2025 10:58:48 GMT | Logs, Telemetry, and the Golden Ratio: Why the Data Ownership Ratio Will Redefine Cybersecurity… | Juan Pablo Castro | [Read More](https://medium.com/p/3defe9a47b6d) |
