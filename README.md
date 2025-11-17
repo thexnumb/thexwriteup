@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 03:39:40 GMT | Access to ecosystem.atlassian.net — Official Statement from cMd_p1nG | [cMd_p1nG] | [Read More](https://medium.com/p/15fb73090659) |
+| Mon, 17 Nov 2025 03:31:59 GMT | 7 Tips for Using GCP Secret Manager in Node.js | Arunangshu Das | [Read More](https://medium.com/p/8f89d90b82a9) |
+| Mon, 17 Nov 2025 03:31:59 GMT | Beyond the Inbox: Inside the LinkedIn Phishing Campaign Targeting Finance Executives | Deven Chhajed | [Read More](https://medium.com/p/84d52098c6fc) |
+| Mon, 17 Nov 2025 03:31:20 GMT | Cloudbric AMA (Ask Me Anything) Responses | Cloudbric | [Read More](https://medium.com/p/dec62a7cac8f) |
+| Mon, 17 Nov 2025 03:31:06 GMT | Cloudbric AMA (Ask Me Anything) 답변 공지 | Cloudbric | [Read More](https://medium.com/p/59d4b16fceda) |
+| Mon, 17 Nov 2025 03:30:04 GMT | Strengthening Cybersecurity or Expanding State Power? | cybergriotz | [Read More](https://medium.com/p/073799fbea7c) |
+| Mon, 17 Nov 2025 03:27:18 GMT | We should make the Beta public (famous last words) | Louis Shyers | [Read More](https://medium.com/p/69b6f3bab550) |
+| Mon, 17 Nov 2025 03:18:47 GMT | Only 1% of Developers Truly Understand How XSS and SQL Injection Happen | CodeByUmar | [Read More](https://medium.com/p/b6d046f38037) |
+| Mon, 17 Nov 2025 03:10:19 GMT | Are You a True Engineer If DNS and TLS Still Confuse You? | David Lee | [Read More](https://medium.com/p/2ae590667e31) |
 | Mon, 17 Nov 2025 03:01:01 GMT | Advanced Template Injection Lifecycle From Input Vector Discovery to Command Execution and Post… | Kiza | [Read More](https://medium.com/p/c1e8998de131) |
 | Mon, 17 Nov 2025 03:00:36 GMT | Windows Attack Surface Reduction | Johnny Meintel | [Read More](https://medium.com/p/ee0745e0ead8) |
 | Mon, 17 Nov 2025 02:44:01 GMT | Respuesta a incidentes en AWS: Desafíos y buenas prácticas | Roberto Carlos Reyes Fernandez | [Read More](https://medium.com/p/99b8a7aa5f89) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 18:06:36 GMT | Why Consumer Trust Is Becoming the Most Valuable Currency in Finance and Healthcare | Legal Thoughts | [Read More](https://medium.com/p/13207890f7f6) |
 | Sun, 16 Nov 2025 18:06:01 GMT | Going Beyond Cost Optimization: GPU Security and Isolation | Debosmit Ray | [Read More](https://medium.com/p/55b507ba7a47) |
 | Sun, 16 Nov 2025 18:04:48 GMT | PortSwigger: Server-side request forgery (SSRF) LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/ad898c859a4c) |
-| Sun, 16 Nov 2025 18:03:26 GMT | Threat Modeling: The Ultimate Guide for Modern Engineering Teams | Rajat Gupta | [Read More](https://medium.com/p/c1e95d4b1605) |
-| Sun, 16 Nov 2025 18:00:24 GMT | CTEM Phase 1: Scoping - The Art and Strategy of Knowing Where to Begin in Continuous Threat… | Sahil Malvi | [Read More](https://medium.com/p/fad40064d245) |
-| Sun, 16 Nov 2025 17:59:57 GMT | Katana Proving Grounds Play | Aaronashley | [Read More](https://medium.com/p/c82f6051827a) |
-| Sun, 16 Nov 2025 17:56:26 GMT | Sherlock : PwnSec CTF 2025 | L4z3x | [Read More](https://medium.com/p/3f16a2ed2f19) |
-| Sun, 16 Nov 2025 17:51:18 GMT | HackTheBox: Conversor | Rahaliashraf | [Read More](https://medium.com/p/330f55df8c2f) |
-| Sun, 16 Nov 2025 17:49:59 GMT | Technology: Shaping Today, Transforming Tomorrow | Madelyn Sadie | [Read More](https://medium.com/p/97fe395dee94) |
-| Sun, 16 Nov 2025 17:42:29 GMT | The Human Side of Hacking No One Talks About | Aj | [Read More](https://medium.com/p/419dc7b498e6) |
-| Sun, 16 Nov 2025 17:41:54 GMT | Come ho trasformato il mio Wi-Fi in un sensore di movimento… | Francesco Pace | [Read More](https://medium.com/p/40053fd83128) |
-| Sun, 16 Nov 2025 17:37:00 GMT | Learning Fortinet Firewall — LESSON XX: Authentication via AD(LDAP) | Rouell Mamaril | [Read More](https://medium.com/p/21cfe52c0a72) |
