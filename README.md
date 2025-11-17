@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 06:18:55 GMT | Building Mobile Apps That Drive Real Business Growth | Tech Immortals | [Read More](https://medium.com/p/9d2a73ae5307) |
+| Mon, 17 Nov 2025 06:15:59 GMT | Hidden Lies of the Ego: How We Deceive Ourselves | Seliora | [Read More](https://medium.com/p/2199c6698649) |
+| Mon, 17 Nov 2025 06:15:31 GMT | TCP/IP Model: A Technical Guide with a Slice of Pizza | Merve Güler | [Read More](https://medium.com/p/dfa00f857f2a) |
+| Mon, 17 Nov 2025 06:15:07 GMT | The First AI Cyberweapon Attack |  | [Read More](https://medium.com/p/93f6cf092378) |
+| Mon, 17 Nov 2025 06:04:16 GMT | Who Needs ISO 27001? | NidaWaqas | [Read More](https://medium.com/p/5eb1fe2e65b4) |
+| Mon, 17 Nov 2025 06:02:04 GMT | NLP ile Zihin Avcılığı: Gelişmiş Kimlik Avı (Phishing) E-postalarının Davranışsal Tespiti | Buğra Enhar Elbir | [Read More](https://medium.com/p/785b8a6440b5) |
+| Mon, 17 Nov 2025 05:58:22 GMT | The Day Google Search Got Hacked: A Real Story of XSS in the Wild | NineTales | [Read More](https://medium.com/p/42dff5a1a690) |
+| Mon, 17 Nov 2025 05:57:31 GMT | Multitasking is the only way to be vulnerable. | Evan Leslie | [Read More](https://medium.com/p/4b9c156c5914) |
+| Mon, 17 Nov 2025 05:55:48 GMT | Data Protection & Privacy in 2025: The Shift That Will Redefine Every Modern Business | Devarshi Acharya | [Read More](https://medium.com/p/a07f27cadd5b) |
+| Mon, 17 Nov 2025 05:53:04 GMT | A Zero Trust Approach to Securing Your Organization’s Data | Gwen | [Read More](https://medium.com/p/399c422867f7) |
+| Mon, 17 Nov 2025 05:51:55 GMT | The Daily Tech Digest: 17 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ebb080f1a6db) |
+| Mon, 17 Nov 2025 05:44:31 GMT | Day 77- How systems stay protected from cyber threats | unica 02 | [Read More](https://medium.com/p/7a221bf79a51) |
+| Mon, 17 Nov 2025 05:41:39 GMT | What is CORS, and why does it bother us? | sam 3 | [Read More](https://medium.com/p/571eb89b1b0c) |
+| Mon, 17 Nov 2025 05:37:31 GMT | How to Get SOC 2 Certification | NidaWaqas | [Read More](https://medium.com/p/0a7cb518a0f4) |
 | Mon, 17 Nov 2025 05:32:40 GMT | Inside the Shellcode: Dissecting North Korean APT43’s Advanced PowerShell Loader | Siddhant Mishra | [Read More](https://medium.com/p/e6c51b77f486) |
 | Mon, 17 Nov 2025 05:22:59 GMT | Operation Endgame ? The Digital Heist We Missed | Siva Desetti | [Read More](https://medium.com/p/5ef4a03a9aae) |
 | Mon, 17 Nov 2025 05:16:11 GMT | Essential Strategies for Defending Against Today’s Cyber Threats | Lakshay Security | [Read More](https://medium.com/p/de1ed4a2adee) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 21:18:33 GMT | Black Hat vs White Hat: The Career Path Where One Ends With Applause and the Other With Handcuffs | Travis Ray Caverhill | [Read More](https://medium.com/p/222ad516aa7d) |
 | Sun, 16 Nov 2025 21:15:47 GMT | How I Bypassed Authentication on a Public Program Just by Changing One Word | D0loresH4ze | [Read More](https://medium.com/p/53b6173b5feb) |
 | Sun, 16 Nov 2025 21:11:01 GMT | Claude impersonates Dario Amodei | Kevin O'Shaughnessy | [Read More](https://medium.com/p/2c6a303e5aaf) |
-| Sun, 16 Nov 2025 21:05:19 GMT | Multi-Stage Web Exploitation Leading to Full System Compromise and Privilege Dominance | Kiza | [Read More](https://medium.com/p/c0382c706111) |
-| Sun, 16 Nov 2025 21:04:46 GMT | Impact vs Sophistication: A different Way to Map Threat Actors | TΞLΞMΞTRY | [Read More](https://medium.com/p/789eef1edce9) |
-| Sun, 16 Nov 2025 20:58:17 GMT | Security and Performance Aspects of HugePages Configuration | Linux Guide | [Read More](https://medium.com/p/72f138dc7d09) |
-| Sun, 16 Nov 2025 20:49:36 GMT | Grotesque3 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/14e9eca4a180) |
-| Sun, 16 Nov 2025 20:37:42 GMT | The Recon Playbook Every Hacker Uses (But No One Talks About)b | iam_with_you11 | [Read More](https://medium.com/p/4c4e0477fa5d) |
-| Sun, 16 Nov 2025 20:35:04 GMT | Bitcoin Doesn’t Use Encryption — What Adam Back’s Comment Really Means | Aaron Recompile | [Read More](https://medium.com/p/4c3f1527a4d3) |
-| Sun, 16 Nov 2025 20:27:44 GMT | How I Turned My Wi-Fi Into a Motion Sensor… | Francesco Pace | [Read More](https://medium.com/p/61a631a9b4ec) |
-| Sun, 16 Nov 2025 20:24:59 GMT | EN 18031 Security Assets Clarified— with 24 Examples Not Present in the Standards | Dr. Guillaume Dupont | [Read More](https://medium.com/p/507cb2be556f) |
-| Sun, 16 Nov 2025 20:19:42 GMT | Grotesque 2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/5cc983e43a6b) |
-| Sun, 16 Nov 2025 20:19:23 GMT | IDOR Part 3 — Automation & Bug Bounty Mastery | Cybersecplayground | [Read More](https://medium.com/p/e3524b9a8a34) |
-| Sun, 16 Nov 2025 20:15:38 GMT | Cybersecurity Best Practices in Outsourcing Partnership | Enosis Outsourcing Staff | [Read More](https://medium.com/p/9466a5a35736) |
-| Sun, 16 Nov 2025 20:06:51 GMT | Beginner’s Guide to Nmap: Understanding Port Scanning in Cybersecurity | Fairy Sluthe ❤️‍ | [Read More](https://medium.com/p/2e91c0f2a4b5) |
-| Sun, 16 Nov 2025 20:04:11 GMT | AI Driven Cyberattacks Have Arrived: A First of Its Kind Incident | Raviteja Mureboina | [Read More](https://medium.com/p/45d2fef3afba) |
-| Sun, 16 Nov 2025 20:02:13 GMT | Hacksudo: Aliens CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c8894dca05fa) |
