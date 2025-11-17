@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 19:24:19 GMT | The OSINT Tricks Hackers Use to See What Everyone Else Misses | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/86ce8f13f025) |
+| Mon, 17 Nov 2025 19:21:58 GMT | What Your Public Profiles Say About You (Even If You Think They Do Not) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e3ec516f2a7e) |
+| Mon, 17 Nov 2025 19:20:33 GMT | When Strength Becomes a Vulnerability | Hira Ahmad | [Read More](https://medium.com/p/68da84fd9ac6) |
 | Mon, 17 Nov 2025 19:05:29 GMT | PART 1 — Practical Linux Threat Hunting in CrowdStrike | Inteldalal | [Read More](https://medium.com/p/ac7cde98e4f9) |
 | Mon, 17 Nov 2025 19:01:46 GMT | Pentesing Commands Library: HTB Labs Edition | Shraddha M. | [Read More](https://medium.com/p/3703188594f0) |
 | Mon, 17 Nov 2025 18:48:20 GMT | Introdução | Tiago Demay | [Read More](https://medium.com/p/af5763dc8206) |
@@ -110,6 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 13:47:43 GMT | How an AI Chatbot Reduced a $195,000 Hospital Bill to $33,000 and What It Teaches Us About the… | Soham Gadekar | [Read More](https://medium.com/p/4fe00dfb3ff4) |
 | Mon, 17 Nov 2025 13:47:33 GMT | I Found a Business Logic Bug That Exposed User Identities | Ibtissam | [Read More](https://medium.com/p/b402d2adb2e4) |
 | Mon, 17 Nov 2025 13:43:01 GMT | THE QUANTUM SHIFT | Shadlymaliyekkal | [Read More](https://medium.com/p/b4136c7a659b) |
-| Mon, 17 Nov 2025 13:32:25 GMT | Automated Jira → Playwright Test Creator (AI-powered with OpenAI GPT-5.1) | Kumar Ankit | [Read More](https://medium.com/p/2c03a8c0bef5) |
-| Mon, 17 Nov 2025 13:30:28 GMT | Cybersecurity for SMEs: Essential Steps to Stay Secure Online | Elite IT Team | [Read More](https://medium.com/p/15d9da4d5b84) |
-| Mon, 17 Nov 2025 13:28:02 GMT | 8 Practical Ways IT Managers Can Use AI Tools Today | Damien Griffin | [Read More](https://medium.com/p/774690d00c0b) |
