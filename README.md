@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 11:36:41 GMT | Oliva - HackMyVM Writeup | Cillia | [Read More](https://medium.com/p/77fbc288a3d5) |
+| Mon, 17 Nov 2025 11:33:32 GMT | The Rise of Ransomware-as-a-Service (RaaS): A Growing Threat to Businesses | Digital Defense | [Read More](https://medium.com/p/33145a758ba0) |
+| Mon, 17 Nov 2025 11:25:04 GMT | In Your Hardest Seasons, You Are Still Growing | The Lantern of Her | [Read More](https://medium.com/p/c5a59a721aad) |
+| Mon, 17 Nov 2025 11:23:27 GMT | Cryptology Fundamentals ملخص | SadiQ-hashim | [Read More](https://medium.com/p/11938411ada3) |
+| Mon, 17 Nov 2025 11:19:46 GMT | Simulating a Counting Process with Constant Rate λ | Riccardo Giacinti | [Read More](https://medium.com/p/fa81878d1e13) |
+| Mon, 17 Nov 2025 11:19:41 GMT | Architectural Blueprints for Securing LLM Agents | Abi Varma | [Read More](https://medium.com/p/96591c5d7db9) |
+| Mon, 17 Nov 2025 11:17:29 GMT | CISSP-Domain 1: Security and Risk Management — 1.1–1.2 | Gülşah Demiryürek | [Read More](https://medium.com/p/ff8eeac110f5) |
+| Mon, 17 Nov 2025 11:16:49 GMT | The Silent Cost of IT Downtime Most CEOs Ignore | Techero | [Read More](https://medium.com/p/69ed3181e396) |
+| Mon, 17 Nov 2025 11:14:55 GMT | DockerLabs Writeup — HackPenguin (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/677993b08483) |
 | Mon, 17 Nov 2025 11:08:48 GMT | Revolutionizing the Dining Experience: Custom Self-Ordering Kiosk Design for UAE F&B Businesses | Rakesh | [Read More](https://medium.com/p/406adcc76813) |
+| Mon, 17 Nov 2025 11:07:32 GMT | Deep Insights into Digital Asset Security: The Surge of Hardware Wallet Sales in 2025 and How to… | Digital Shield Offcial | [Read More](https://medium.com/p/05180bbc1355) |
 | Mon, 17 Nov 2025 11:05:39 GMT | Best IVR Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/147df9d04d14) |
 | Mon, 17 Nov 2025 10:58:48 GMT | Logs, Telemetry, and the Golden Ratio: Why the Data Ownership Ratio Will Redefine Cybersecurity… | Juan Pablo Castro | [Read More](https://medium.com/p/3defe9a47b6d) |
+| Mon, 17 Nov 2025 10:56:35 GMT | How Off-Duty Police Officers Elevate Your Security | Reliable Security Staffing | [Read More](https://medium.com/p/1cc10052acd2) |
 | Mon, 17 Nov 2025 10:55:46 GMT | Guarding Digital Sovereignty: How Digital Shield Forges an Offline, Multi-Chain Asset Management… | Digital Shield | [Read More](https://medium.com/p/02e9acf2ccc5) |
 | Mon, 17 Nov 2025 10:53:01 GMT | Cyber Safety | Pulkita Aggarwal | [Read More](https://medium.com/p/8f3b4c1dd79a) |
 | Mon, 17 Nov 2025 10:44:49 GMT | How Apex Consultants’ Software Products Are Transforming Modern Businesses | ApexConsultants | [Read More](https://medium.com/p/901dfa4d7ed9) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 06:15:31 GMT | TCP/IP Model: A Technical Guide with a Slice of Pizza | Merve Güler | [Read More](https://medium.com/p/dfa00f857f2a) |
 | Mon, 17 Nov 2025 06:15:07 GMT | The First AI Cyberweapon Attack |  | [Read More](https://medium.com/p/93f6cf092378) |
 | Mon, 17 Nov 2025 06:04:16 GMT | Who Needs ISO 27001? | NidaWaqas | [Read More](https://medium.com/p/5eb1fe2e65b4) |
-| Mon, 17 Nov 2025 06:02:04 GMT | NLP ile Zihin Avcılığı: Gelişmiş Kimlik Avı (Phishing) E-postalarının Davranışsal Tespiti | Buğra Enhar Elbir | [Read More](https://medium.com/p/785b8a6440b5) |
-| Mon, 17 Nov 2025 05:58:22 GMT | The Day Google Search Got Hacked: A Real Story of XSS in the Wild | NineTales | [Read More](https://medium.com/p/42dff5a1a690) |
-| Mon, 17 Nov 2025 05:57:31 GMT | Multitasking is the only way to be vulnerable. | Evan Leslie | [Read More](https://medium.com/p/4b9c156c5914) |
-| Mon, 17 Nov 2025 05:55:48 GMT | Data Protection & Privacy in 2025: The Shift That Will Redefine Every Modern Business | Devarshi Acharya | [Read More](https://medium.com/p/a07f27cadd5b) |
-| Mon, 17 Nov 2025 05:53:04 GMT | A Zero Trust Approach to Securing Your Organization’s Data | Gwen | [Read More](https://medium.com/p/399c422867f7) |
-| Mon, 17 Nov 2025 05:51:55 GMT | The Daily Tech Digest: 17 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ebb080f1a6db) |
-| Mon, 17 Nov 2025 05:44:31 GMT | Day 77- How systems stay protected from cyber threats | unica 02 | [Read More](https://medium.com/p/7a221bf79a51) |
-| Mon, 17 Nov 2025 05:41:39 GMT | What is CORS, and why does it bother us? | sam 3 | [Read More](https://medium.com/p/571eb89b1b0c) |
-| Mon, 17 Nov 2025 05:37:31 GMT | How to Get SOC 2 Certification | NidaWaqas | [Read More](https://medium.com/p/0a7cb518a0f4) |
-| Mon, 17 Nov 2025 05:32:40 GMT | Inside the Shellcode: Dissecting North Korean APT43’s Advanced PowerShell Loader | Siddhant Mishra | [Read More](https://medium.com/p/e6c51b77f486) |
-| Mon, 17 Nov 2025 05:22:59 GMT | Operation Endgame ? The Digital Heist We Missed | Siva Desetti | [Read More](https://medium.com/p/5ef4a03a9aae) |
