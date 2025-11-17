@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 20:23:44 GMT | Inside Timmins’ Security Pilot: What Worked, What Didn’t, and What Comes Next | Scott Hill | [Read More](https://medium.com/p/4f5b7b30b76b) |
+| Mon, 17 Nov 2025 20:02:25 GMT | Cloud Security 101: How Small Teams Can Stay Secure on Google Drive, Dropbox, and OneDrive | Secured By Sebastion | [Read More](https://medium.com/p/533ec0081b40) |
+| Mon, 17 Nov 2025 19:59:37 GMT | Lock the Gate, open on demand: Securing Azure VMs with JIT. | Erik Lindeboom | [Read More](https://medium.com/p/ca48eace4a42) |
+| Mon, 17 Nov 2025 19:42:00 GMT | Pentesting Commands Library: HTB Labs Edition — Part 2 | Shraddha M. | [Read More](https://medium.com/p/855e7c0d17dc) |
+| Mon, 17 Nov 2025 19:34:06 GMT | Multi-Cloud Strategy | Configr Technologies | [Read More](https://medium.com/p/1169751c3bdd) |
 | Mon, 17 Nov 2025 19:24:19 GMT | The OSINT Tricks Hackers Use to See What Everyone Else Misses | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/86ce8f13f025) |
 | Mon, 17 Nov 2025 19:21:58 GMT | What Your Public Profiles Say About You (Even If You Think They Do Not) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e3ec516f2a7e) |
 | Mon, 17 Nov 2025 19:20:33 GMT | When Strength Becomes a Vulnerability | Hira Ahmad | [Read More](https://medium.com/p/68da84fd9ac6) |
@@ -108,8 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 13:55:41 GMT | Meliodas Stealer Malware | Kanada | [Read More](https://medium.com/p/81b7d118ab8f) |
 | Mon, 17 Nov 2025 13:51:11 GMT | Google Cloud Model Armor: Securing AI Models from Prompt Injection and Data Leaks | Vikas Kumar | [Read More](https://medium.com/p/ae924f8849da) |
 | Mon, 17 Nov 2025 13:50:40 GMT | When the Machine Learned to Blackmail | Sandeep Sengupta | [Read More](https://medium.com/p/df9a5bf47ec6) |
-| Mon, 17 Nov 2025 13:50:33 GMT | Secure Containers: Strengthening Your Docker Defenses | Ashwini Puranik | [Read More](https://medium.com/p/bc3b81d21cbb) |
-| Mon, 17 Nov 2025 13:48:28 GMT | Gratitude for Writing… | Erin Schaden | [Read More](https://medium.com/p/531c21aad9a6) |
-| Mon, 17 Nov 2025 13:47:43 GMT | How an AI Chatbot Reduced a $195,000 Hospital Bill to $33,000 and What It Teaches Us About the… | Soham Gadekar | [Read More](https://medium.com/p/4fe00dfb3ff4) |
-| Mon, 17 Nov 2025 13:47:33 GMT | I Found a Business Logic Bug That Exposed User Identities | Ibtissam | [Read More](https://medium.com/p/b402d2adb2e4) |
-| Mon, 17 Nov 2025 13:43:01 GMT | THE QUANTUM SHIFT | Shadlymaliyekkal | [Read More](https://medium.com/p/b4136c7a659b) |
