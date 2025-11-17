@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 17:15:06 GMT | The New Normal of Cyberattacks: Why Both Developers and Ordinary People Are Now in the Blast Radius | Abatis ABTU | [Read More](https://medium.com/p/376cd0f5db7e) |
+| Mon, 17 Nov 2025 17:12:41 GMT | Security Controls Demystified — 5 Key Lessons (Explained the Way I Learned Them) ~10 min read | D3ad_M3m0r13s | [Read More](https://medium.com/p/03f6e1a24749) |
+| Mon, 17 Nov 2025 17:11:47 GMT | Common Points We Usually Miss in Automation Testing | Abu Talha | [Read More](https://medium.com/p/8cd534776a02) |
+| Mon, 17 Nov 2025 17:02:11 GMT | OSCP Grind - PG Practice - Kevin | Mr Jokar | [Read More](https://medium.com/p/70edf532b3c9) |
+| Mon, 17 Nov 2025 17:02:07 GMT | 5 Zero-Downtime Auth Flows for FastAPI | Syntal | [Read More](https://medium.com/p/fc6cbda48156) |
+| Mon, 17 Nov 2025 17:02:06 GMT | Free VPN: How to Use One Without Spending a Cent | Sergey Sokulsky | [Read More](https://medium.com/p/f2a1b5e3f399) |
+| Mon, 17 Nov 2025 16:51:04 GMT | AI / LLM Hacking — Part 8 — Misinformation & Overreliance - Unbounded Consumption - MDoS - Model… | Darshan Naresh Naik | [Read More](https://medium.com/p/d1cee7d625d2) |
+| Mon, 17 Nov 2025 16:48:01 GMT | DC-1 VulnHub Walkthrough: Complete Beginner’s Guide | Ajmir khan | [Read More](https://medium.com/p/fbd774a7c329) |
 | Mon, 17 Nov 2025 16:45:27 GMT | Your Domain Is Probably in Stealer Logs: See What LeakRadar Finds in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/31bd1a1d8086) |
 | Mon, 17 Nov 2025 16:38:03 GMT | How Digital Intimacy Turned Into a Weapon of Control | The Observer | [Read More](https://medium.com/p/4c44f3d4f0af) |
 | Mon, 17 Nov 2025 16:35:56 GMT | PortSwigger: XML external entity (XXE) injection LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/24092b88afc7) |
@@ -105,11 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 11:55:37 GMT | Güvenlik Araştırmacısı ile Sorgularınızın Bakış Açısını Değiştirin | Perform Yazılım | [Read More](https://medium.com/p/816ccba95848) |
 | Mon, 17 Nov 2025 11:44:03 GMT | Top Cybersecurity Tips to Protect Your Data in 2025 | Silversky Technology | [Read More](https://medium.com/p/841cb4f39334) |
 | Mon, 17 Nov 2025 11:41:59 GMT | The Hidden 72-Byte Trap in bcrypt | Hafidz Mahrus | [Read More](https://medium.com/p/2b26dd77eb62) |
-| Mon, 17 Nov 2025 11:37:02 GMT | The Real Reason Companies Get Hacked: Human Laziness | Lavanya Mishra | [Read More](https://medium.com/p/8dd49d2ac7a6) |
-| Mon, 17 Nov 2025 11:36:41 GMT | Oliva - HackMyVM Writeup | Cillia | [Read More](https://medium.com/p/77fbc288a3d5) |
-| Mon, 17 Nov 2025 11:33:32 GMT | The Rise of Ransomware-as-a-Service (RaaS): A Growing Threat to Businesses | Digital Defense | [Read More](https://medium.com/p/33145a758ba0) |
-| Mon, 17 Nov 2025 11:25:04 GMT | In Your Hardest Seasons, You Are Still Growing | The Lantern of Her | [Read More](https://medium.com/p/c5a59a721aad) |
-| Mon, 17 Nov 2025 11:23:27 GMT | Cryptology Fundamentals ملخص | SadiQ-hashim | [Read More](https://medium.com/p/11938411ada3) |
-| Mon, 17 Nov 2025 11:19:46 GMT | Simulating a Counting Process with Constant Rate λ | Riccardo Giacinti | [Read More](https://medium.com/p/fa81878d1e13) |
-| Mon, 17 Nov 2025 11:19:41 GMT | Architectural Blueprints for Securing LLM Agents | Abi Varma | [Read More](https://medium.com/p/96591c5d7db9) |
-| Mon, 17 Nov 2025 11:17:29 GMT | CISSP-Domain 1: Security and Risk Management — 1.1–1.2 | Gülşah Demiryürek | [Read More](https://medium.com/p/ff8eeac110f5) |
