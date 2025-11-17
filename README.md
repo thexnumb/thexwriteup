@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 03:01:01 GMT | Advanced Template Injection Lifecycle From Input Vector Discovery to Command Execution and Post… | Kiza | [Read More](https://medium.com/p/c1e8998de131) |
+| Mon, 17 Nov 2025 03:00:36 GMT | Windows Attack Surface Reduction | Johnny Meintel | [Read More](https://medium.com/p/ee0745e0ead8) |
+| Mon, 17 Nov 2025 02:44:01 GMT | Respuesta a incidentes en AWS: Desafíos y buenas prácticas | Roberto Carlos Reyes Fernandez | [Read More](https://medium.com/p/99b8a7aa5f89) |
+| Mon, 17 Nov 2025 02:41:38 GMT | FFUF Interactive Mode ( fuzzing made easy ) | Rajesh Sagar | [Read More](https://medium.com/p/8d29fd9b5ab3) |
+| Mon, 17 Nov 2025 02:32:04 GMT | Detection Quality Indicators: A Structured Approach to Better Detections | Harsh Mehta | [Read More](https://medium.com/p/ee8d93cc6ba2) |
+| Mon, 17 Nov 2025 02:32:04 GMT | The Inevitable Collision: How Generative AI is Reshaping the Cybersecurity Battlefield | Akshat Ratanpal | [Read More](https://medium.com/p/be76077726bb) |
+| Mon, 17 Nov 2025 02:22:20 GMT | Holistic Injection Exploit Report Mapping Vulnerable Input Points to Account Takeover and… | Kiza | [Read More](https://medium.com/p/b8a093f4e17d) |
+| Mon, 17 Nov 2025 02:18:34 GMT | How AI Can Find Information About You Online And How to Stay Safe | Mustapha Aitigunaoun | [Read More](https://medium.com/p/078d28d98520) |
+| Mon, 17 Nov 2025 02:18:28 GMT | The Digital Footprint of a Tweet | Rabail Zaheer | [Read More](https://medium.com/p/fcd1411d9864) |
+| Mon, 17 Nov 2025 02:18:22 GMT | The Art of Noticing | StvRoot | [Read More](https://medium.com/p/d88e4aee1ac5) |
+| Mon, 17 Nov 2025 02:06:49 GMT | How to Make Money from Pinterest: A Complete 2025 Guide | Make Money Online Tips | [Read More](https://medium.com/p/9c8bc86764d0) |
+| Mon, 17 Nov 2025 01:52:08 GMT | Working as a Tierless SOC Analyst: Managing Chaos Without a Map | Xeipher | [Read More](https://medium.com/p/28aeaed0cef9) |
+| Mon, 17 Nov 2025 01:48:47 GMT | Hide.me VPN review: A powerful toolkit for privacy experts in 2025 | Safelyo VPN | [Read More](https://medium.com/p/17f5309dc03a) |
+| Mon, 17 Nov 2025 01:36:40 GMT | Skipping Cash, Going Mobile | Decoded Intel | [Read More](https://medium.com/p/8cb3b8fc60c7) |
 | Mon, 17 Nov 2025 01:34:44 GMT | How I Accidentally Discovered an Undocumented Vulnerability in “Web for Pentester 1” | Zahi halimi | [Read More](https://medium.com/p/aff4bfd608a6) |
 | Mon, 17 Nov 2025 01:33:38 GMT | How to configure static IP address on Windows 10 with 2 easy methods | Safelyo Global | [Read More](https://medium.com/p/cfec1a5b9b13) |
 | Mon, 17 Nov 2025 01:31:59 GMT | Keylogger project using Python | The Commoness | [Read More](https://medium.com/p/50680770c307) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 17:42:29 GMT | The Human Side of Hacking No One Talks About | Aj | [Read More](https://medium.com/p/419dc7b498e6) |
 | Sun, 16 Nov 2025 17:41:54 GMT | Come ho trasformato il mio Wi-Fi in un sensore di movimento… | Francesco Pace | [Read More](https://medium.com/p/40053fd83128) |
 | Sun, 16 Nov 2025 17:37:00 GMT | Learning Fortinet Firewall — LESSON XX: Authentication via AD(LDAP) | Rouell Mamaril | [Read More](https://medium.com/p/21cfe52c0a72) |
-| Sun, 16 Nov 2025 17:31:51 GMT | ️ Building a Simple VPN From Scratch in C++ (Beginner-Friendly, Using TUN Interfaces) | Shivesh Chaturvedi | [Read More](https://medium.com/p/42719164b858) |
-| Sun, 16 Nov 2025 17:24:08 GMT | How to Create a Basic Antivirus — Part 1 | S.Ali | [Read More](https://medium.com/p/a0aa75958352) |
-| Sun, 16 Nov 2025 17:22:02 GMT | Pentesting 2025: 5 Tools That Change the Game | Quellin | [Read More](https://medium.com/p/1ffa12743fd2) |
-| Sun, 16 Nov 2025 17:07:32 GMT | Rivalry — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/fa309f60983a) |
-| Sun, 16 Nov 2025 17:07:29 GMT | The Data Gold Rush: How Companies Secretly Collect Your Personal Information And Why You Should Be… | xsser01 | [Read More](https://medium.com/p/bbf198737284) |
-| Sun, 16 Nov 2025 17:02:56 GMT | Why the First AI-Orchestrated and Autonomously Executed Cyberattack Changes Everything | Berend Watchus | [Read More](https://medium.com/p/b7358636d7d0) |
-| Sun, 16 Nov 2025 16:59:28 GMT | Stanford’s 8-Word Hack That Unlocked AI’s Lost Creativity | Akshaya Mary Lingala | [Read More](https://medium.com/p/fcdd8ab1e0a0) |
-| Sun, 16 Nov 2025 16:59:05 GMT | Beyond the Blockchain: Building a “Quantum Notary” for the Web3 Era | Damian Griggs | [Read More](https://medium.com/p/f3ac2ab5015d) |
-| Sun, 16 Nov 2025 16:47:04 GMT | Securing SSH on AWS Ubuntu with Fail2Ban: A Beginner’s Hands-On Lab | Genet Shibru | [Read More](https://medium.com/p/841024858cbb) |
-| Sun, 16 Nov 2025 16:27:41 GMT | Void — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/94b59f68a97d) |
-| Sun, 16 Nov 2025 16:27:32 GMT | Kubernetes isn’t at rest. | Rajesh V | [Read More](https://medium.com/p/b3aff221bd8c) |
-| Sun, 16 Nov 2025 16:21:59 GMT | Breached! Five Cyber Attacks of 2025 — and the Hard Lessons | Quellin | [Read More](https://medium.com/p/5d3018be3e21) |
-| Sun, 16 Nov 2025 16:19:02 GMT | What Is Information Security? — Building a Strong Foundation in the CIA Triad and Beyond | Damir Kolobaric | [Read More](https://medium.com/p/5b6c6fb68bc3) |
-| Sun, 16 Nov 2025 16:18:02 GMT | Reversing Lab Challenge Writeup | Salman Ahmed | [Read More](https://medium.com/p/669990998bb9) |
