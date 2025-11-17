@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 04:34:33 GMT | Social Engineering: Why You Shouldn’t Trust Too Easily in the Digital Age | Geeky Vartika | [Read More](https://medium.com/p/344e0b0f1c30) |
+| Mon, 17 Nov 2025 04:21:34 GMT | InfoSec Black Friday 2025 - Cybersecurity Certification Deals | Practical DevSecOps | [Read More](https://medium.com/p/a900c5a89735) |
+| Mon, 17 Nov 2025 04:14:10 GMT | CRUNCH: El Arte de Crear Contraseñas | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/7a84737e4c13) |
+| Mon, 17 Nov 2025 04:07:17 GMT | Contemplating the Power of Vulnerability | Anisa Cole | [Read More](https://medium.com/p/f017bff752a0) |
+| Mon, 17 Nov 2025 04:03:20 GMT | Large-Scale Log Collection Architectures | Esra Kayhan | [Read More](https://medium.com/p/fca5cf9ecbb9) |
+| Mon, 17 Nov 2025 04:01:47 GMT | Install SafeLine WAF in 10 Minutes: Quick‑Start Guide for DevOps Teams | Maverick Steel | [Read More](https://medium.com/p/9d4746651888) |
+| Mon, 17 Nov 2025 03:52:20 GMT | When AI Meets Zero Trust: The Leadership Blueprint for Secure Innovation | Harish Elavala | [Read More](https://medium.com/p/99c03747e610) |
+| Mon, 17 Nov 2025 03:51:39 GMT | Migrating from Cloud WAF to Self-Hosted SafeLine: A Practical Guide | Maverick Steel | [Read More](https://medium.com/p/49f16f9baed9) |
 | Mon, 17 Nov 2025 03:39:40 GMT | Access to ecosystem.atlassian.net — Official Statement from cMd_p1nG | [cMd_p1nG] | [Read More](https://medium.com/p/15fb73090659) |
 | Mon, 17 Nov 2025 03:31:59 GMT | 7 Tips for Using GCP Secret Manager in Node.js | Arunangshu Das | [Read More](https://medium.com/p/8f89d90b82a9) |
 | Mon, 17 Nov 2025 03:31:59 GMT | Beyond the Inbox: Inside the LinkedIn Phishing Campaign Targeting Finance Executives | Deven Chhajed | [Read More](https://medium.com/p/84d52098c6fc) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 18:44:11 GMT | Why Blocking Web Advertising at the Gateway Protects the Planet and Boosts Productivity | CacheGuard Technologies | [Read More](https://medium.com/p/f9d221f943c7) |
 | Sun, 16 Nov 2025 18:42:42 GMT | Large File Uploads (10GB) with Django — Full Architecture + S3 + Chunked Uploads | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/ff8030390139) |
 | Sun, 16 Nov 2025 18:36:28 GMT | (File 18)Sir Weston — The Frosty Explorer | Ink Stories Primal | [Read More](https://medium.com/p/982e01aa6b0a) |
-| Sun, 16 Nov 2025 18:29:20 GMT | We Saw It Coming: First Reports of an AI-Orchestrated Cyber Espionage Campaign | Phil Stafford | [Read More](https://medium.com/p/e45e0b047edf) |
-| Sun, 16 Nov 2025 18:22:01 GMT | Secure Cookies vs Tokens: Choose by Threat Model | Nexumo | [Read More](https://medium.com/p/163bbe898252) |
-| Sun, 16 Nov 2025 18:16:29 GMT | The Loneliness of a Latte and the Radical Act of Stumbling (Authentically) | Vanessa Gomes | [Read More](https://medium.com/p/85bbc34bce11) |
-| Sun, 16 Nov 2025 18:09:06 GMT | That New AI-Orchestrated Attack? I’ve Deconstructed It. Here’s What I Found. | Mohan reddy | [Read More](https://medium.com/p/acec45b4e1c7) |
-| Sun, 16 Nov 2025 18:07:20 GMT | I Used Google and ChatGPT to Expose a  Scam | Sam Galope | [Read More](https://medium.com/p/6494a265c753) |
-| Sun, 16 Nov 2025 18:06:36 GMT | Why Consumer Trust Is Becoming the Most Valuable Currency in Finance and Healthcare | Legal Thoughts | [Read More](https://medium.com/p/13207890f7f6) |
-| Sun, 16 Nov 2025 18:06:01 GMT | Going Beyond Cost Optimization: GPU Security and Isolation | Debosmit Ray | [Read More](https://medium.com/p/55b507ba7a47) |
-| Sun, 16 Nov 2025 18:04:48 GMT | PortSwigger: Server-side request forgery (SSRF) LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/ad898c859a4c) |
