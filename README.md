@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 19:05:29 GMT | PART 1 — Practical Linux Threat Hunting in CrowdStrike | Inteldalal | [Read More](https://medium.com/p/ac7cde98e4f9) |
+| Mon, 17 Nov 2025 19:01:46 GMT | Pentesing Commands Library: HTB Labs Edition | Shraddha M. | [Read More](https://medium.com/p/3703188594f0) |
+| Mon, 17 Nov 2025 18:48:20 GMT | Introdução | Tiago Demay | [Read More](https://medium.com/p/af5763dc8206) |
+| Mon, 17 Nov 2025 18:47:29 GMT | HTB — Flagportation Write-Up | CyberFaez | [Read More](https://medium.com/p/e1a1b0c010ca) |
+| Mon, 17 Nov 2025 18:47:27 GMT | Zero-Click Hack Alert: The LANDFALL Attack on Samsung Devices | Kunal Gangani | [Read More](https://medium.com/p/0735affc14b4) |
+| Mon, 17 Nov 2025 18:44:28 GMT | How Cyber Espionage Evolved into Autonomous Warfare | TechDemocracy | [Read More](https://medium.com/p/d9971666e3ce) |
+| Mon, 17 Nov 2025 18:43:39 GMT | A Tale of Two Security Programs and Two Different Trajectories | IOmergent | [Read More](https://medium.com/p/e1b85d6f2154) |
+| Mon, 17 Nov 2025 18:43:27 GMT | CVE-2025–64446 — A Red Team Offensive Playbook for FortiWeb RCE via Path Traversal +… | Very Lazy Tech | [Read More](https://medium.com/p/c79880f8b902) |
+| Mon, 17 Nov 2025 18:42:01 GMT | (File 19) Vincent Van Gore — The Mad Painter | Ink Stories Primal | [Read More](https://medium.com/p/cd2ac63325d1) |
+| Mon, 17 Nov 2025 18:35:46 GMT | Are We One Security Flaw Away From Losing Trust in AI-Generated Code? | Gadi Bashvitz | [Read More](https://medium.com/p/307b8221a069) |
+| Mon, 17 Nov 2025 18:32:15 GMT | Why On-chain Analysis Is Essential for Blockchain Security | Web3 in Three Minutes | [Read More](https://medium.com/p/588d7bf05929) |
+| Mon, 17 Nov 2025 18:32:01 GMT | The Wildest Tech Founder Story You’ve Never Heard: Crime, Code, and Chaos | The Latency Gambler | [Read More](https://medium.com/p/5e1528396c2d) |
 | Mon, 17 Nov 2025 18:20:55 GMT | Open Redirects: The Little Link That Could Destroy Your Reputation | Sajjan Nehal | [Read More](https://medium.com/p/73295eb13264) |
+| Mon, 17 Nov 2025 18:19:41 GMT | The Future of Information: What We Need to Know | CarAng | [Read More](https://medium.com/p/091f2f6ddb68) |
 | Mon, 17 Nov 2025 18:16:00 GMT | WAF: Introduction | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/3095deefa162) |
 | Mon, 17 Nov 2025 18:13:25 GMT | LetsDefend — A SOC336 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/088a2e04d8a2) |
 | Mon, 17 Nov 2025 18:11:39 GMT | How I Tricked the AI: A Write-up of TCM Security’s Black Friday CTF | Gokhan Can | [Read More](https://medium.com/p/22d7c243644f) |
@@ -100,16 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 13:32:25 GMT | Automated Jira → Playwright Test Creator (AI-powered with OpenAI GPT-5.1) | Kumar Ankit | [Read More](https://medium.com/p/2c03a8c0bef5) |
 | Mon, 17 Nov 2025 13:30:28 GMT | Cybersecurity for SMEs: Essential Steps to Stay Secure Online | Elite IT Team | [Read More](https://medium.com/p/15d9da4d5b84) |
 | Mon, 17 Nov 2025 13:28:02 GMT | 8 Practical Ways IT Managers Can Use AI Tools Today | Damien Griffin | [Read More](https://medium.com/p/774690d00c0b) |
-| Mon, 17 Nov 2025 13:27:49 GMT | A Hacker’s Tribute ~ Mr. Siddhesh Writes | Siddhesh Surve | [Read More](https://medium.com/p/661869106370) |
-| Mon, 17 Nov 2025 13:24:08 GMT | All-in-One Recon: A Complete Automated Recon Script for Bug Bounty Hunters (v2.1) | PradyumnTiwareNexus | [Read More](https://medium.com/p/b66f389c88d5) |
-| Mon, 17 Nov 2025 13:20:26 GMT | ️ Day 51: Understanding DNS Before Route 53 — DNS Servers + How DNS Works | Prutha_Dongre | [Read More](https://medium.com/p/0012cc628677) |
-| Mon, 17 Nov 2025 13:16:12 GMT | EDR Agent Hacking: “Where do I even BEGIN?!” | SilentInject | [Read More](https://medium.com/p/e73432a2107f) |
-| Mon, 17 Nov 2025 13:14:40 GMT | What Does IT Support Do? | Cloudavize | [Read More](https://medium.com/p/be8e961d1bcd) |
-| Mon, 17 Nov 2025 13:13:47 GMT | [infinity] — [Binary Exploitation] — [Cyber Sprint 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/aa904facfefe) |
-| Mon, 17 Nov 2025 12:59:48 GMT | A Comprehensive Guide to LLMNR Poisoning: Threat Analysis and Countermeasures | Santhosh duraipandiyan | [Read More](https://medium.com/p/b7ff5514e0ba) |
-| Mon, 17 Nov 2025 12:53:39 GMT | Post-Quantum AWS: A Practical Guide to Securing KMS, TLS, and SFTP for next decade | Madhura Jayashanka | [Read More](https://medium.com/p/d9cb286497f1) |
-| Mon, 17 Nov 2025 12:48:38 GMT | The Hidden Scripts of Desire | Kushal Dhananjay Samant | [Read More](https://medium.com/p/908a8a66f241) |
-| Mon, 17 Nov 2025 12:47:59 GMT | Phishing-Resistant Logins Made Simple: A Beginner’s Guide to Secure MFA and Security Keys | Anushka | [Read More](https://medium.com/p/be209bb9bf67) |
-| Mon, 17 Nov 2025 12:38:45 GMT | Dear, Rei. | jeapoems. | [Read More](https://medium.com/p/b9e9f8302cb9) |
-| Mon, 17 Nov 2025 12:37:21 GMT | Weak Isolation on Dual-Use Endpoint: Understanding the Logic Flaw Behind Account Takeovers | Bash Overflow | [Read More](https://medium.com/p/7f8529a68d23) |
-| Mon, 17 Nov 2025 12:32:23 GMT | Project #11 — Framework Mapping Project | Andrew Williams | [Read More](https://medium.com/p/2cd078e78c81) |
