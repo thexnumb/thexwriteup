@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 23:12:45 GMT | Eviction — THM Challenge Write-up | Radulescu Alexandru-Gabriel | [Read More](https://medium.com/p/f3bb3dacf236) |
 | Mon, 17 Nov 2025 23:10:15 GMT | DNS Tunneling and Covert Communication Channels Explained | Eric Howard, Ph. D. | [Read More](https://medium.com/p/bed354f797d1) |
 | Mon, 17 Nov 2025 22:59:28 GMT | Guardrails for the Machine Mind: The Future of AI Security | Marwan | [Read More](https://medium.com/p/d1318673fa70) |
 | Mon, 17 Nov 2025 22:57:12 GMT | Layoff and Termination Advice | Rhiannon Williams | [Read More](https://medium.com/p/e1459fb208a4) |
@@ -113,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 15:53:24 GMT | Entrepreneurs vs. Businessmen: The Real Difference No One Talks About | Vijay Kumar Gupta | [Read More](https://medium.com/p/21988bd3304a) |
 | Mon, 17 Nov 2025 15:53:21 GMT | Public Wi-Fi Safety Tips 2025: How to
 Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/p/2e20a72206d1) |
-| Mon, 17 Nov 2025 15:52:42 GMT | New TaskHound Tool Exposes Hidden Risks in Windows Scheduled Tasks | Jasmitha | [Read More](https://medium.com/p/b13d8becebe2) |
