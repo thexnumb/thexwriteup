@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 21:09:58 GMT | Certified AI/ML Pentester (C-AI/MLPen) Exam Review | Ihor Sasovets | [Read More](https://medium.com/p/93813e80b628) |
+| Mon, 17 Nov 2025 21:02:01 GMT | Outbound  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/0fa8ea412990) |
+| Mon, 17 Nov 2025 20:58:14 GMT | My journey to helping Colorado State University Pueblo achieve first place in the NCL Cybersecurity… | diGi | [Read More](https://medium.com/p/d9504b1efb50) |
+| Mon, 17 Nov 2025 20:57:21 GMT | The Cybersecurity Sentinel (November 2025) | Franklin Rhodes | [Read More](https://medium.com/p/4a72f20b7ad4) |
+| Mon, 17 Nov 2025 20:52:32 GMT | Beyond Borders: From Battlefield to Browser: Faridabad Files | Krishna Garg | [Read More](https://medium.com/p/641d05a72698) |
 | Mon, 17 Nov 2025 20:49:34 GMT | Ben Neden Siber Güvenlikçi Olmak İstiyorum? Bir IT’cinin İç Dökmeleri | Abdullah HANÇERLİ | [Read More](https://medium.com/p/edd68ec585f3) |
+| Mon, 17 Nov 2025 20:46:10 GMT | PsExec Hunt — Write-Up | 0xTT-byte | [Read More](https://medium.com/p/75c982fe0320) |
+| Mon, 17 Nov 2025 20:40:55 GMT | Same Kidnapping Methods, Same Security Tactics: When will Nigeria Improve? | Owadasa-Olusola Martins Olakunle | [Read More](https://medium.com/p/13f7056fec1e) |
 | Mon, 17 Nov 2025 20:30:23 GMT | WAF: Introduction -CHEAT SHEET tryhackme | G MRSY | [Read More](https://medium.com/p/10895fb85a94) |
 | Mon, 17 Nov 2025 20:28:56 GMT | 12 Hours to SOC Lab: How I Built a Functional SIEM with Wazuh, Ubuntu, and Kali Linux | Widson Ambaisi | [Read More](https://medium.com/p/1d2a11eca976) |
 | Mon, 17 Nov 2025 20:28:55 GMT | HTB — Cuidado | Harjot Singh | [Read More](https://medium.com/p/f2dd519781e4) |
@@ -106,10 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 14:40:59 GMT | AI Inference Engines Hit by Critical RCE Flaws Putting Major Tech Frameworks at Risk | Jasmitha | [Read More](https://medium.com/p/305df3ff0c1e) |
 | Mon, 17 Nov 2025 14:39:47 GMT | Input Manipulation & Prompt Injection: The Invisible Attacks You’re Probably Overlooking | Vaishnavi Bhandari | [Read More](https://medium.com/p/22ffd68c9795) |
 | Mon, 17 Nov 2025 14:31:40 GMT | OSINT detailed guide for 2026 | Mainekhacker | [Read More](https://medium.com/p/367dd20249bf) |
-| Mon, 17 Nov 2025 14:29:32 GMT | Where OSINT Goes Wrong | Joe The OSINT Guy | [Read More](https://medium.com/p/98bd9caf4be6) |
-| Mon, 17 Nov 2025 14:26:02 GMT | How I Built My Own AMSI Bypass in Rust | Shaheer Yasir | [Read More](https://medium.com/p/be2b6604632d) |
-| Mon, 17 Nov 2025 14:21:12 GMT | When a Few Lines of Code Can Bring a Nation to Its Knees | Hello @ Octellient | [Read More](https://medium.com/p/b3d9f6795529) |
-| Mon, 17 Nov 2025 14:19:55 GMT | New Threat — MITM Interception Toolkit & PowerShell Loader | Joseph Harrison | [Read More](https://medium.com/p/3558a7e6d79a) |
-| Mon, 17 Nov 2025 14:14:03 GMT | Cybersecurity: Not Just a Course, But a Must-Have Life Skill | Mohammed Fizal | [Read More](https://medium.com/p/fae9a31781fa) |
-| Mon, 17 Nov 2025 14:10:48 GMT | Lessons to Learn from the Claude Code Attack | Edward Chenard | [Read More](https://medium.com/p/48046bd4a7b5) |
-| Mon, 17 Nov 2025 14:07:18 GMT | From Prompt to Pwn: How I Pen-Tested and Broke a LLM | Abhishek M L | [Read More](https://medium.com/p/25471e1b22f3) |
