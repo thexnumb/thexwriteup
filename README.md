@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 22:37:55 GMT | What is Transport Layer Security(SSL/TLS)? | Kamal Kishor Mahto | [Read More](https://medium.com/p/c9304435f496) |
+| Mon, 17 Nov 2025 22:26:29 GMT | In the Storm | Tom Sims | [Read More](https://medium.com/p/a9c52127a4f0) |
+| Mon, 17 Nov 2025 22:24:05 GMT | The moment I stopped chasing files… everything changed. | Jane Brian | [Read More](https://medium.com/p/27953c9635df) |
+| Mon, 17 Nov 2025 22:13:30 GMT | Data HTB Machine Walk-Through | Nmullenski | [Read More](https://medium.com/p/9ab185032975) |
 | Mon, 17 Nov 2025 22:02:21 GMT | Cómo frenar el Cross-Site Scripting en 5 pasos | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/9594edaf534b) |
 | Mon, 17 Nov 2025 21:59:38 GMT | How to Ensure Maximum Security in Your Data Room | IT_Engineer | [Read More](https://medium.com/p/8a25f84d7221) |
 | Mon, 17 Nov 2025 21:50:21 GMT | The Experience Equation | Chris Perkins | [Read More](https://medium.com/p/74953a64c03f) |
@@ -109,7 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 15:45:35 GMT | HTB — Artificial Writeup: TensorFlow to Root | Aashraymt | [Read More](https://medium.com/p/50ce32c56ae2) |
 | Mon, 17 Nov 2025 15:38:40 GMT | Claude Guides Us Through the Steps of Building Your First Decentralized Local Ai Model | Martin D. Vasquez | [Read More](https://medium.com/p/f2e68f6fc2cc) |
 | Mon, 17 Nov 2025 15:35:05 GMT | Identity Is the New Battleground: How Rainbow Secure Protects Businesses Against the Latest Cyber… | Dr. Shashi Karhail | [Read More](https://medium.com/p/68b085763b40) |
-| Mon, 17 Nov 2025 15:34:10 GMT | How I Passed the eJPT (94%) and What Helped the Most | Ninadkarkhanis | [Read More](https://medium.com/p/d86e73a009ab) |
-| Mon, 17 Nov 2025 15:24:57 GMT | Uniform Suppliers for Industrial - Uniform Manufacturers for Industrial | Uniswin | [Read More](https://medium.com/p/7796e1df8b29) |
-| Mon, 17 Nov 2025 15:23:24 GMT | AresGPT: Decision-Making with Red | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/dc5c655a4802) |
-| Mon, 17 Nov 2025 15:22:00 GMT | #09- Kali Linux — Credential Access: Harvesting the Keys to the Kingdom | SDNTechForum | [Read More](https://medium.com/p/d5af5b204783) |
