@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 14:40:59 GMT | AI Inference Engines Hit by Critical RCE Flaws Putting Major Tech Frameworks at Risk | Jasmitha | [Read More](https://medium.com/p/305df3ff0c1e) |
+| Mon, 17 Nov 2025 14:31:40 GMT | OSINT detailed guide for 2026 | Mainekhacker | [Read More](https://medium.com/p/367dd20249bf) |
+| Mon, 17 Nov 2025 14:29:32 GMT | Where OSINT Goes Wrong | Joe The OSINT Guy | [Read More](https://medium.com/p/98bd9caf4be6) |
+| Mon, 17 Nov 2025 14:26:02 GMT | How I Built My Own AMSI Bypass in Rust | Shaheer Yasir | [Read More](https://medium.com/p/be2b6604632d) |
+| Mon, 17 Nov 2025 14:21:12 GMT | When a Few Lines of Code Can Bring a Nation to Its Knees | Hello @ Octellient | [Read More](https://medium.com/p/b3d9f6795529) |
+| Mon, 17 Nov 2025 14:19:55 GMT | New Threat — MITM Interception Toolkit & PowerShell Loader | Joseph Harrison | [Read More](https://medium.com/p/3558a7e6d79a) |
 | Mon, 17 Nov 2025 14:14:03 GMT | Cybersecurity: Not Just a Course, But a Must-Have Life Skill | Mohammed Fizal | [Read More](https://medium.com/p/fae9a31781fa) |
+| Mon, 17 Nov 2025 14:10:48 GMT | Lessons to Learn from the Claude Code Attack | Edward Chenard | [Read More](https://medium.com/p/48046bd4a7b5) |
 | Mon, 17 Nov 2025 14:07:18 GMT | From Prompt to Pwn: How I Pen-Tested and Broke a LLM | Abhishek M L | [Read More](https://medium.com/p/25471e1b22f3) |
 | Mon, 17 Nov 2025 14:02:34 GMT | LDAP Integration: A Foundational Step Toward Unified Identity Management | Openiam | [Read More](https://medium.com/p/b3a280c09614) |
 | Mon, 17 Nov 2025 14:01:05 GMT | Practical PowerShell Automation: Temp Password Scripts, Bulk Ping Checks, and Server Feature… | Tyrik Emptage | [Read More](https://medium.com/p/360edfe738d7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 09:27:29 GMT | 200 reports, 11 valid bugs, 0 critical issues. Here’s everything we wish we’d known about VDP. | is*hosting | [Read More](https://medium.com/p/9e54108c737f) |
 | Mon, 17 Nov 2025 09:27:13 GMT | Password-Protected Links: LinkTrim.io Does It for Free | Ziteny | [Read More](https://medium.com/p/d60b1943bac0) |
 | Mon, 17 Nov 2025 09:24:23 GMT | CS Issue 6: Scripting and Python Scripting | Celestine Emmanuel | [Read More](https://medium.com/p/0321ca42f629) |
-| Mon, 17 Nov 2025 09:24:20 GMT | Exploit Guide on Metasploitable 2 | Hydra | [Read More](https://medium.com/p/c54bbead1b5a) |
-| Mon, 17 Nov 2025 09:23:25 GMT | SQL Injection: Retrieving Data From Other Tables (UNION-Based SQLi) | Aditya Bhatt | [Read More](https://medium.com/p/b9284e644d03) |
-| Mon, 17 Nov 2025 09:14:49 GMT | Card-Swap & ATM Fraud (Hannah’s Story) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/d1be5e2a24ca) |
-| Mon, 17 Nov 2025 09:12:05 GMT | Signs Your Getting Swindled in Your ERP Operations | Namir Sagheenanajar | [Read More](https://medium.com/p/7bbb3c5f85eb) |
-| Mon, 17 Nov 2025 09:11:46 GMT | The New Frontier of Cyber Defense: How AI Is Becoming Every Organization’s Silent Security Partner | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/427bb29bc669) |
-| Mon, 17 Nov 2025 08:57:57 GMT | How Dynamic Residential Proxies Supercharge Web Scraping and Large-Scale Data Collection | koowave | [Read More](https://medium.com/p/e637c9fa8bc6) |
-| Mon, 17 Nov 2025 08:56:22 GMT | Creating the next generation of  Tech & AI enabled professionals | ISCS - The British School of Zug | [Read More](https://medium.com/p/b7bf99027cfa) |
