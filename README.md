@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 05:16:11 GMT | Essential Strategies for Defending Against Today’s Cyber Threats | Lakshay Security | [Read More](https://medium.com/p/de1ed4a2adee) |
+| Mon, 17 Nov 2025 05:15:24 GMT | How Do Professional Security Services in Hisar Handle Unskilled Labor? | Lakshay Security | [Read More](https://medium.com/p/ebdf59f1225d) |
+| Mon, 17 Nov 2025 05:14:21 GMT | Understanding the Types of Security Services Available Near You | Lakshay Security | [Read More](https://medium.com/p/9c483e3393b3) |
+| Mon, 17 Nov 2025 05:13:33 GMT | ️Cracking a UTF-7 Path Traversal: My Walkthrough of Web 100–1 (Pointer Overflow CTF) | v4br0 | [Read More](https://medium.com/p/a51f6fc048c6) |
+| Mon, 17 Nov 2025 05:07:19 GMT | Building a Unified SAST + DAST Security Pipeline (Our Next Step in DevSecOps) | Rajesh Thakur | [Read More](https://medium.com/p/10d4963c9c7c) |
+| Mon, 17 Nov 2025 04:57:56 GMT | AI + ML‑Based Insider Threat Detection via User Logon Patterns | Myth | [Read More](https://medium.com/p/6133945b50cf) |
+| Mon, 17 Nov 2025 04:53:32 GMT | What is Detection as Code? | InfosecTrain | [Read More](https://medium.com/p/0e7e15d86de4) |
+| Mon, 17 Nov 2025 04:52:20 GMT | What is Packet Capture (PCAP)? | InfosecTrain | [Read More](https://medium.com/p/5d2200c19162) |
+| Mon, 17 Nov 2025 04:46:42 GMT | JWT Signature Bypass: A Code-Oriented Walkthrough | Raja Sekar Durairaj | [Read More](https://medium.com/p/d3c451eb7595) |
+| Mon, 17 Nov 2025 04:43:33 GMT | Top Cyber Attack News: Last 7 Days (Nov 8–15, 2025) | Siva Desetti | [Read More](https://medium.com/p/bdf5f0196dd5) |
+| Mon, 17 Nov 2025 04:38:57 GMT | GTG-1002 AI-Orchestrated Espionage Campaign (Nov 2025) | SOCFortress | [Read More](https://medium.com/p/0f8151471be5) |
 | Mon, 17 Nov 2025 04:34:33 GMT | Social Engineering: Why You Shouldn’t Trust Too Easily in the Digital Age | Geeky Vartika | [Read More](https://medium.com/p/344e0b0f1c30) |
+| Mon, 17 Nov 2025 04:30:28 GMT | THE IT RESKILLING FIELD MANUAL (FOR JOBCENTER + REAL LIFE) | Tzvi Arieli | [Read More](https://medium.com/p/d79ed67f01cc) |
 | Mon, 17 Nov 2025 04:21:34 GMT | InfoSec Black Friday 2025 - Cybersecurity Certification Deals | Practical DevSecOps | [Read More](https://medium.com/p/a900c5a89735) |
 | Mon, 17 Nov 2025 04:14:10 GMT | CRUNCH: El Arte de Crear Contraseñas | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/7a84737e4c13) |
 | Mon, 17 Nov 2025 04:07:17 GMT | Contemplating the Power of Vulnerability | Anisa Cole | [Read More](https://medium.com/p/f017bff752a0) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 20:02:13 GMT | Hacksudo: Aliens CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c8894dca05fa) |
 | Sun, 16 Nov 2025 19:50:05 GMT | The Top 7 Most In-Demand Cybersecurity Skills for Career Growth This Year | BMR EDUCATION | [Read More](https://medium.com/p/543e8ff6c86f) |
 | Sun, 16 Nov 2025 19:47:25 GMT | The Cyber Security Paradox: Why You Can’t Fight Back (Even When You Want To) | Mehdi T. | [Read More](https://medium.com/p/8b30162b3636) |
-| Sun, 16 Nov 2025 19:45:26 GMT | The website is infected with a virus — what do you need to do urgently? | 0trust0day | [Read More](https://medium.com/p/e8fa85accc45) |
-| Sun, 16 Nov 2025 19:30:53 GMT | THE LETHAL QUIET | Tahir Malik | [Read More](https://medium.com/p/a3b6a08c32f6) |
-| Sun, 16 Nov 2025 19:18:02 GMT | A Practical Guide to Security Guard Compliance: How to Stay Ready for SOC 2, HIPAA, and GDPR Using… | Teona | [Read More](https://medium.com/p/3690f2230708) |
-| Sun, 16 Nov 2025 19:09:59 GMT | CyCTF Quals 2025 | Artful Dodger | [Read More](https://medium.com/p/8b71d480c50c) |
-| Sun, 16 Nov 2025 19:04:06 GMT | You’ve found me. | Yan_awrites;༊ | [Read More](https://medium.com/p/67935390b1b0) |
-| Sun, 16 Nov 2025 19:01:54 GMT | How the System Remembers: Diving into Memory Analysis | Dany Christel | [Read More](https://medium.com/p/f81f4fda4e87) |
-| Sun, 16 Nov 2025 19:00:23 GMT | India’s DPDP Act vs EU GDPR: What Today’s Rollout Means for Businesses | Hemant Patkar, CISSP | [Read More](https://medium.com/p/2d7055fb8bb8) |
-| Sun, 16 Nov 2025 18:49:57 GMT | Kindness | Naikteenu | [Read More](https://medium.com/p/55d9d5b8ec6e) |
-| Sun, 16 Nov 2025 18:44:43 GMT | Large File Uploads (10GB) with Django — Part 2: Resuming Uploads | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/b15dde60f8f3) |
-| Sun, 16 Nov 2025 18:44:11 GMT | Why Blocking Web Advertising at the Gateway Protects the Planet and Boosts Productivity | CacheGuard Technologies | [Read More](https://medium.com/p/f9d221f943c7) |
-| Sun, 16 Nov 2025 18:42:42 GMT | Large File Uploads (10GB) with Django — Full Architecture + S3 + Chunked Uploads | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/ff8030390139) |
-| Sun, 16 Nov 2025 18:36:28 GMT | (File 18)Sir Weston — The Frosty Explorer | Ink Stories Primal | [Read More](https://medium.com/p/982e01aa6b0a) |
