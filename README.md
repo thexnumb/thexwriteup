@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 14:14:03 GMT | Cybersecurity: Not Just a Course, But a Must-Have Life Skill | Mohammed Fizal | [Read More](https://medium.com/p/fae9a31781fa) |
+| Mon, 17 Nov 2025 14:07:18 GMT | From Prompt to Pwn: How I Pen-Tested and Broke a LLM | Abhishek M L | [Read More](https://medium.com/p/25471e1b22f3) |
+| Mon, 17 Nov 2025 14:02:34 GMT | LDAP Integration: A Foundational Step Toward Unified Identity Management | Openiam | [Read More](https://medium.com/p/b3a280c09614) |
+| Mon, 17 Nov 2025 14:01:05 GMT | Practical PowerShell Automation: Temp Password Scripts, Bulk Ping Checks, and Server Feature… | Tyrik Emptage | [Read More](https://medium.com/p/360edfe738d7) |
+| Mon, 17 Nov 2025 14:01:02 GMT | Impact On The Supply Chain | Ethan Wilk | [Read More](https://medium.com/p/63bcb5402ded) |
+| Mon, 17 Nov 2025 13:55:41 GMT | Meliodas Stealer Malware | Kanada | [Read More](https://medium.com/p/81b7d118ab8f) |
+| Mon, 17 Nov 2025 13:51:11 GMT | Google Cloud Model Armor: Securing AI Models from Prompt Injection and Data Leaks | Vikas Kumar | [Read More](https://medium.com/p/ae924f8849da) |
+| Mon, 17 Nov 2025 13:50:40 GMT | When the Machine Learned to Blackmail | Sandeep Sengupta | [Read More](https://medium.com/p/df9a5bf47ec6) |
+| Mon, 17 Nov 2025 13:50:33 GMT | Secure Containers: Strengthening Your Docker Defenses | Ashwini Puranik | [Read More](https://medium.com/p/bc3b81d21cbb) |
+| Mon, 17 Nov 2025 13:48:28 GMT | Gratitude for Writing… | Erin Schaden | [Read More](https://medium.com/p/531c21aad9a6) |
+| Mon, 17 Nov 2025 13:47:43 GMT | How an AI Chatbot Reduced a $195,000 Hospital Bill to $33,000 and What It Teaches Us About the… | Soham Gadekar | [Read More](https://medium.com/p/4fe00dfb3ff4) |
+| Mon, 17 Nov 2025 13:47:33 GMT | I Found a Business Logic Bug That Exposed User Identities | Ibtissam | [Read More](https://medium.com/p/b402d2adb2e4) |
+| Mon, 17 Nov 2025 13:43:01 GMT | THE QUANTUM SHIFT | Shadlymaliyekkal | [Read More](https://medium.com/p/b4136c7a659b) |
+| Mon, 17 Nov 2025 13:32:25 GMT | Automated Jira → Playwright Test Creator (AI-powered with OpenAI GPT-5.1) | Kumar Ankit | [Read More](https://medium.com/p/2c03a8c0bef5) |
+| Mon, 17 Nov 2025 13:30:28 GMT | Cybersecurity for SMEs: Essential Steps to Stay Secure Online | Elite IT Team | [Read More](https://medium.com/p/15d9da4d5b84) |
+| Mon, 17 Nov 2025 13:28:02 GMT | 8 Practical Ways IT Managers Can Use AI Tools Today | Damien Griffin | [Read More](https://medium.com/p/774690d00c0b) |
+| Mon, 17 Nov 2025 13:27:49 GMT | A Hacker’s Tribute ~ Mr. Siddhesh Writes | Siddhesh Surve | [Read More](https://medium.com/p/661869106370) |
 | Mon, 17 Nov 2025 13:24:08 GMT | All-in-One Recon: A Complete Automated Recon Script for Bug Bounty Hunters (v2.1) | PradyumnTiwareNexus | [Read More](https://medium.com/p/b66f389c88d5) |
 | Mon, 17 Nov 2025 13:20:26 GMT | ️ Day 51: Understanding DNS Before Route 53 — DNS Servers + How DNS Works | Prutha_Dongre | [Read More](https://medium.com/p/0012cc628677) |
 | Mon, 17 Nov 2025 13:16:12 GMT | EDR Agent Hacking: “Where do I even BEGIN?!” | SilentInject | [Read More](https://medium.com/p/e73432a2107f) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 09:11:46 GMT | The New Frontier of Cyber Defense: How AI Is Becoming Every Organization’s Silent Security Partner | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/427bb29bc669) |
 | Mon, 17 Nov 2025 08:57:57 GMT | How Dynamic Residential Proxies Supercharge Web Scraping and Large-Scale Data Collection | koowave | [Read More](https://medium.com/p/e637c9fa8bc6) |
 | Mon, 17 Nov 2025 08:56:22 GMT | Creating the next generation of  Tech & AI enabled professionals | ISCS - The British School of Zug | [Read More](https://medium.com/p/b7bf99027cfa) |
-| Mon, 17 Nov 2025 08:54:09 GMT | Black Trace Analytics and the Malware Hidden Inside the Epstein File Frenzy | Travis Ray Caverhill | [Read More](https://medium.com/p/b4b381b556dd) |
-| Mon, 17 Nov 2025 08:51:47 GMT | Why scanf() function is just like your Ex?! | Hritom Bhattacharya | [Read More](https://medium.com/p/5ceb468585cb) |
-| Mon, 17 Nov 2025 08:48:00 GMT | Cybersecurity: the return of the procedure | Spazioformadesign | [Read More](https://medium.com/p/be7593bfaa00) |
-| Mon, 17 Nov 2025 08:47:28 GMT | The Silent Shield: How AI and Automation Are Transforming Cyber Defense in 2025 | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/0be0ed6b5668) |
-| Mon, 17 Nov 2025 08:41:34 GMT | Why You Should Get a VPN With Multi-Device Protection This Black Friday | Haris Shahid | [Read More](https://medium.com/p/e911208e4f64) |
-| Mon, 17 Nov 2025 08:37:31 GMT | MaskProxy 4 Ever Proxy — offering both rotating and dedicated IP flexibility | GovernanceGolem | [Read More](https://medium.com/p/4cbca9fbed49) |
-| Mon, 17 Nov 2025 08:37:12 GMT | PortSwigger SQL Injection Lab Çözümleri-1 | ENES KURTULAN | [Read More](https://medium.com/p/cea25395cf68) |
-| Mon, 17 Nov 2025 08:35:54 GMT | Avast Security & Cleanup Software — Antivirus Ninja | Antivirus Ninja | [Read More](https://medium.com/p/67b2a6b8af42) |
-| Mon, 17 Nov 2025 08:32:05 GMT | The Morning Norway Killed Putin’s Arctic Cable Dream — With a Fisherman’s Memo | Vivek Anand | [Read More](https://medium.com/p/a41f02898f94) |
-| Mon, 17 Nov 2025 08:18:39 GMT | GPS Spoofing: The Invisible Threat Manipulating Modern Navigation | Himanshu Bhatt | [Read More](https://medium.com/p/c661fc3d4961) |
-| Mon, 17 Nov 2025 08:18:03 GMT | BOFZ: a simple Buffer Overflow Scanner designed to detect buffer overflow vulnerabilities in a… | Мартин. | [Read More](https://medium.com/p/9d6a8f7441d6) |
-| Mon, 17 Nov 2025 08:17:42 GMT | MCGS_DD: About MCGS HMI vulnerability exploit tool | Мартин. | [Read More](https://medium.com/p/21a4b6b6dcfe) |
-| Mon, 17 Nov 2025 08:17:13 GMT | J0ker: Real time live streaming tool | Мартин. | [Read More](https://medium.com/p/cb6649aeb01c) |
-| Mon, 17 Nov 2025 08:12:41 GMT | The Ghost in the Wires: How Kevin Mitnick Became the World’s Most Wanted Hacker | Uvindu E | [Read More](https://medium.com/p/c43e6d9641d6) |
-| Mon, 17 Nov 2025 08:11:39 GMT | Oasis | WhisperedVerse | [Read More](https://medium.com/p/8492106c9a68) |
-| Mon, 17 Nov 2025 08:10:32 GMT | Critical AI Vulnerabilities Are Spreading Across Meta, Nvidia, and Microsoft Frameworks — And… | Germano Costi | [Read More](https://medium.com/p/079e88e8b0d6) |
-| Mon, 17 Nov 2025 08:06:45 GMT | The Ornament Heist | Erica Jayasundera | [Read More](https://medium.com/p/ddfd6c68f49f) |
