@@ -12,11 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 10:18:49 GMT | Foundations of Probability: Interpretations, Axioms, and Measure-Theoretic Structure | Riccardo Giacinti | [Read More](https://medium.com/p/7255ad9c525d) |
+| Mon, 17 Nov 2025 10:16:41 GMT | The Quantum Computer That Will Break Your Bitcoin Is Already Being Built | UnoLock CybVault | [Read More](https://medium.com/p/3537e7c99d05) |
+| Mon, 17 Nov 2025 10:14:19 GMT | I was hacked… You might be too… | Ginger Mongi | [Read More](https://medium.com/p/ca4b40e0295b) |
+| Mon, 17 Nov 2025 10:09:07 GMT | Best IT Infrastructure Management Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/da8985c8210c) |
+| Mon, 17 Nov 2025 10:07:50 GMT | Top 10 Virtual Assistant Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/121cddc7eb57) |
+| Mon, 17 Nov 2025 10:05:01 GMT | Cybersecurity Gap Assessment: Turning Security Gap Analysis from Compliance Paperwork into Threat… | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/6837f2637763) |
+| Mon, 17 Nov 2025 09:59:00 GMT | My QA Journey: The Beginning | Aparna Mishra | [Read More](https://medium.com/p/65cf6be5b7b8) |
+| Mon, 17 Nov 2025 09:54:35 GMT | Mastering IT Risk: The Role of a GRC Platform in Cybersecurity Management | SecureSlate | [Read More](https://medium.com/p/05f72223c52b) |
+| Mon, 17 Nov 2025 09:53:41 GMT | Unlocking Digital Safety: A Comprehensive Guide to Cybersecurity for Everyone | Stephen Bernard Agwai | [Read More](https://medium.com/p/dcc1833ecd9a) |
+| Mon, 17 Nov 2025 09:49:45 GMT | How Hackers Hack Using AI in 2025 — 2026 | Monu Jangra | [Read More](https://medium.com/p/1a061d6dea15) |
+| Mon, 17 Nov 2025 09:49:25 GMT | AI + Cloud Security: How Artificial Intelligence Is Transforming the Future of Cloud Defense | Monu Jangra | [Read More](https://medium.com/p/a8d436ddb017) |
 | Mon, 17 Nov 2025 09:43:54 GMT | Cyber Security Course for Beginners in Delhi (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/f1ab2cefc9fc) |
 | Mon, 17 Nov 2025 09:39:52 GMT | How long does it take to Build an official NodeJS docker image — and is it worth it? | Balazs Csaba | [Read More](https://medium.com/p/c74de85d71fe) |
 | Mon, 17 Nov 2025 09:39:20 GMT | How to Detect Docker Container Escapes using AppArmor, SELinux, Seccomp & Falco Rules | Motasem Hamdan | [Read More](https://medium.com/p/7059f02a41d8) |
 | Mon, 17 Nov 2025 09:38:40 GMT | Top 10 Cybersecurity Training Resources for 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/ada5ac7cdadb) |
+| Mon, 17 Nov 2025 09:36:36 GMT | A Step-by-Step Guide to Install Cribl | Kaviarasan Asokan | [Read More](https://medium.com/p/2dbd1e4b5304) |
 | Mon, 17 Nov 2025 09:36:30 GMT | Why Freedom in 2025 Depends on Controlling Your Crypto Keys and Data | UnoLock CybVault | [Read More](https://medium.com/p/e6f9c7d2f55a) |
+| Mon, 17 Nov 2025 09:32:43 GMT | Security Risks in Agentic Platforms — And What We Can Actually Do About Them | Emre Bayram | [Read More](https://medium.com/p/6d3069715e5b) |
 | Mon, 17 Nov 2025 09:31:54 GMT | Why You Must Detect AS-REP Roasting Before It’s Too Late | Aufarifqi | [Read More](https://medium.com/p/da91a8f1eeb3) |
 | Mon, 17 Nov 2025 09:28:04 GMT | CSI: Web Server — A Defender’s Guide to Detecting Web Attacks ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/000b2bcee0b0) |
 | Mon, 17 Nov 2025 09:27:29 GMT | 200 reports, 11 valid bugs, 0 critical issues. Here’s everything we wish we’d known about VDP. | is*hosting | [Read More](https://medium.com/p/9e54108c737f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 04:52:20 GMT | What is Packet Capture (PCAP)? | InfosecTrain | [Read More](https://medium.com/p/5d2200c19162) |
 | Mon, 17 Nov 2025 04:46:42 GMT | JWT Signature Bypass: A Code-Oriented Walkthrough | Raja Sekar Durairaj | [Read More](https://medium.com/p/d3c451eb7595) |
 | Mon, 17 Nov 2025 04:43:33 GMT | Top Cyber Attack News: Last 7 Days (Nov 8–15, 2025) | Siva Desetti | [Read More](https://medium.com/p/bdf5f0196dd5) |
-| Mon, 17 Nov 2025 04:38:57 GMT | GTG-1002 AI-Orchestrated Espionage Campaign (Nov 2025) | SOCFortress | [Read More](https://medium.com/p/0f8151471be5) |
-| Mon, 17 Nov 2025 04:34:33 GMT | Social Engineering: Why You Shouldn’t Trust Too Easily in the Digital Age | Geeky Vartika | [Read More](https://medium.com/p/344e0b0f1c30) |
-| Mon, 17 Nov 2025 04:30:28 GMT | THE IT RESKILLING FIELD MANUAL (FOR JOBCENTER + REAL LIFE) | Tzvi Arieli | [Read More](https://medium.com/p/d79ed67f01cc) |
-| Mon, 17 Nov 2025 04:21:34 GMT | InfoSec Black Friday 2025 - Cybersecurity Certification Deals | Practical DevSecOps | [Read More](https://medium.com/p/a900c5a89735) |
-| Mon, 17 Nov 2025 04:14:10 GMT | CRUNCH: El Arte de Crear Contraseñas | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/7a84737e4c13) |
-| Mon, 17 Nov 2025 04:07:17 GMT | Contemplating the Power of Vulnerability | Anisa Cole | [Read More](https://medium.com/p/f017bff752a0) |
-| Mon, 17 Nov 2025 04:03:20 GMT | Large-Scale Log Collection Architectures | Esra Kayhan | [Read More](https://medium.com/p/fca5cf9ecbb9) |
-| Mon, 17 Nov 2025 04:01:47 GMT | Install SafeLine WAF in 10 Minutes: Quick‑Start Guide for DevOps Teams | Maverick Steel | [Read More](https://medium.com/p/9d4746651888) |
-| Mon, 17 Nov 2025 03:52:20 GMT | When AI Meets Zero Trust: The Leadership Blueprint for Secure Innovation | Harish Elavala | [Read More](https://medium.com/p/99c03747e610) |
-| Mon, 17 Nov 2025 03:51:39 GMT | Migrating from Cloud WAF to Self-Hosted SafeLine: A Practical Guide | Maverick Steel | [Read More](https://medium.com/p/49f16f9baed9) |
-| Mon, 17 Nov 2025 03:39:40 GMT | Access to ecosystem.atlassian.net — Official Statement from cMd_p1nG | [cMd_p1nG] | [Read More](https://medium.com/p/15fb73090659) |
-| Mon, 17 Nov 2025 03:31:59 GMT | 7 Tips for Using GCP Secret Manager in Node.js | Arunangshu Das | [Read More](https://medium.com/p/8f89d90b82a9) |
-| Mon, 17 Nov 2025 03:31:59 GMT | Beyond the Inbox: Inside the LinkedIn Phishing Campaign Targeting Finance Executives | Deven Chhajed | [Read More](https://medium.com/p/84d52098c6fc) |
