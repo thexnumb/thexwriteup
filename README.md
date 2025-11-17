@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 09:14:49 GMT | Card-Swap & ATM Fraud (Hannah’s Story) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/d1be5e2a24ca) |
+| Mon, 17 Nov 2025 09:12:05 GMT | Signs Your Getting Swindled in Your ERP Operations | Namir Sagheenanajar | [Read More](https://medium.com/p/7bbb3c5f85eb) |
+| Mon, 17 Nov 2025 09:11:46 GMT | The New Frontier of Cyber Defense: How AI Is Becoming Every Organization’s Silent Security Partner | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/427bb29bc669) |
+| Mon, 17 Nov 2025 08:57:57 GMT | How Dynamic Residential Proxies Supercharge Web Scraping and Large-Scale Data Collection | koowave | [Read More](https://medium.com/p/e637c9fa8bc6) |
+| Mon, 17 Nov 2025 08:56:22 GMT | Creating the next generation of  Tech & AI enabled professionals | ISCS - The British School of Zug | [Read More](https://medium.com/p/b7bf99027cfa) |
+| Mon, 17 Nov 2025 08:54:09 GMT | Black Trace Analytics and the Malware Hidden Inside the Epstein File Frenzy | Travis Ray Caverhill | [Read More](https://medium.com/p/b4b381b556dd) |
+| Mon, 17 Nov 2025 08:51:47 GMT | Why scanf() function is just like your Ex?! | Hritom Bhattacharya | [Read More](https://medium.com/p/5ceb468585cb) |
+| Mon, 17 Nov 2025 08:48:00 GMT | Cybersecurity: the return of the procedure | Spazioformadesign | [Read More](https://medium.com/p/be7593bfaa00) |
+| Mon, 17 Nov 2025 08:47:28 GMT | The Silent Shield: How AI and Automation Are Transforming Cyber Defense in 2025 | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/0be0ed6b5668) |
+| Mon, 17 Nov 2025 08:41:34 GMT | Why You Should Get a VPN With Multi-Device Protection This Black Friday | Haris Shahid | [Read More](https://medium.com/p/e911208e4f64) |
+| Mon, 17 Nov 2025 08:37:31 GMT | MaskProxy 4 Ever Proxy — offering both rotating and dedicated IP flexibility | GovernanceGolem | [Read More](https://medium.com/p/4cbca9fbed49) |
+| Mon, 17 Nov 2025 08:37:12 GMT | PortSwigger SQL Injection Lab Çözümleri-1 | ENES KURTULAN | [Read More](https://medium.com/p/cea25395cf68) |
+| Mon, 17 Nov 2025 08:35:54 GMT | Avast Security & Cleanup Software — Antivirus Ninja | Antivirus Ninja | [Read More](https://medium.com/p/67b2a6b8af42) |
+| Mon, 17 Nov 2025 08:32:05 GMT | The Morning Norway Killed Putin’s Arctic Cable Dream — With a Fisherman’s Memo | Vivek Anand | [Read More](https://medium.com/p/a41f02898f94) |
 | Mon, 17 Nov 2025 08:18:39 GMT | GPS Spoofing: The Invisible Threat Manipulating Modern Navigation | Himanshu Bhatt | [Read More](https://medium.com/p/c661fc3d4961) |
 | Mon, 17 Nov 2025 08:18:03 GMT | BOFZ: a simple Buffer Overflow Scanner designed to detect buffer overflow vulnerabilities in a… | Мартин. | [Read More](https://medium.com/p/9d6a8f7441d6) |
 | Mon, 17 Nov 2025 08:17:42 GMT | MCGS_DD: About MCGS HMI vulnerability exploit tool | Мартин. | [Read More](https://medium.com/p/21a4b6b6dcfe) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 02:41:38 GMT | FFUF Interactive Mode ( fuzzing made easy ) | Rajesh Sagar | [Read More](https://medium.com/p/8d29fd9b5ab3) |
 | Mon, 17 Nov 2025 02:32:04 GMT | Detection Quality Indicators: A Structured Approach to Better Detections | Harsh Mehta | [Read More](https://medium.com/p/ee8d93cc6ba2) |
 | Mon, 17 Nov 2025 02:32:04 GMT | The Inevitable Collision: How Generative AI is Reshaping the Cybersecurity Battlefield | Akshat Ratanpal | [Read More](https://medium.com/p/be76077726bb) |
-| Mon, 17 Nov 2025 02:22:20 GMT | Holistic Injection Exploit Report Mapping Vulnerable Input Points to Account Takeover and… | Kiza | [Read More](https://medium.com/p/b8a093f4e17d) |
-| Mon, 17 Nov 2025 02:18:34 GMT | How AI Can Find Information About You Online And How to Stay Safe | Mustapha Aitigunaoun | [Read More](https://medium.com/p/078d28d98520) |
-| Mon, 17 Nov 2025 02:18:28 GMT | The Digital Footprint of a Tweet | Rabail Zaheer | [Read More](https://medium.com/p/fcd1411d9864) |
-| Mon, 17 Nov 2025 02:18:22 GMT | The Art of Noticing | StvRoot | [Read More](https://medium.com/p/d88e4aee1ac5) |
-| Mon, 17 Nov 2025 02:06:49 GMT | How to Make Money from Pinterest: A Complete 2025 Guide | Make Money Online Tips | [Read More](https://medium.com/p/9c8bc86764d0) |
-| Mon, 17 Nov 2025 01:52:08 GMT | Working as a Tierless SOC Analyst: Managing Chaos Without a Map | Xeipher | [Read More](https://medium.com/p/28aeaed0cef9) |
-| Mon, 17 Nov 2025 01:48:47 GMT | Hide.me VPN review: A powerful toolkit for privacy experts in 2025 | Safelyo VPN | [Read More](https://medium.com/p/17f5309dc03a) |
-| Mon, 17 Nov 2025 01:36:40 GMT | Skipping Cash, Going Mobile | Decoded Intel | [Read More](https://medium.com/p/8cb3b8fc60c7) |
-| Mon, 17 Nov 2025 01:34:44 GMT | How I Accidentally Discovered an Undocumented Vulnerability in “Web for Pentester 1” | Zahi halimi | [Read More](https://medium.com/p/aff4bfd608a6) |
-| Mon, 17 Nov 2025 01:33:38 GMT | How to configure static IP address on Windows 10 with 2 easy methods | Safelyo Global | [Read More](https://medium.com/p/cfec1a5b9b13) |
-| Mon, 17 Nov 2025 01:31:59 GMT | Keylogger project using Python | The Commoness | [Read More](https://medium.com/p/50680770c307) |
-| Mon, 17 Nov 2025 01:15:38 GMT | How to view history in DuckDuckGo: Step by step 2025 guide | Millie Bobby | [Read More](https://medium.com/p/9caffb517785) |
-| Mon, 17 Nov 2025 01:10:31 GMT | 12 AWS IAM Security Leaks Hackers Look For (+ How to defend) | Chris St. John | [Read More](https://medium.com/p/848f4c2ec36e) |
-| Mon, 17 Nov 2025 01:00:46 GMT | The IoT Device That Wouldn’t Connect (And How I Fixed It) | Odunze Jennifer Oluchukwu | [Read More](https://medium.com/p/926c6b32a732) |
