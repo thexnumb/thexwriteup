@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 13:24:08 GMT | All-in-One Recon: A Complete Automated Recon Script for Bug Bounty Hunters (v2.1) | PradyumnTiwareNexus | [Read More](https://medium.com/p/b66f389c88d5) |
+| Mon, 17 Nov 2025 13:20:26 GMT | ️ Day 51: Understanding DNS Before Route 53 — DNS Servers + How DNS Works | Prutha_Dongre | [Read More](https://medium.com/p/0012cc628677) |
+| Mon, 17 Nov 2025 13:16:12 GMT | EDR Agent Hacking: “Where do I even BEGIN?!” | SilentInject | [Read More](https://medium.com/p/e73432a2107f) |
+| Mon, 17 Nov 2025 13:14:40 GMT | What Does IT Support Do? | Cloudavize | [Read More](https://medium.com/p/be8e961d1bcd) |
+| Mon, 17 Nov 2025 13:13:47 GMT | [infinity] — [Binary Exploitation] — [Cyber Sprint 2025] | Ryuji Hirasaka | [Read More](https://medium.com/p/aa904facfefe) |
+| Mon, 17 Nov 2025 12:59:48 GMT | A Comprehensive Guide to LLMNR Poisoning: Threat Analysis and Countermeasures | Santhosh duraipandiyan | [Read More](https://medium.com/p/b7ff5514e0ba) |
+| Mon, 17 Nov 2025 12:53:39 GMT | Post-Quantum AWS: A Practical Guide to Securing KMS, TLS, and SFTP for next decade | Madhura Jayashanka | [Read More](https://medium.com/p/d9cb286497f1) |
+| Mon, 17 Nov 2025 12:48:38 GMT | The Hidden Scripts of Desire | Kushal Dhananjay Samant | [Read More](https://medium.com/p/908a8a66f241) |
+| Mon, 17 Nov 2025 12:47:59 GMT | Phishing-Resistant Logins Made Simple: A Beginner’s Guide to Secure MFA and Security Keys | Anushka | [Read More](https://medium.com/p/be209bb9bf67) |
+| Mon, 17 Nov 2025 12:38:45 GMT | Dear, Rei. | jeapoems. | [Read More](https://medium.com/p/b9e9f8302cb9) |
+| Mon, 17 Nov 2025 12:37:21 GMT | Weak Isolation on Dual-Use Endpoint: Understanding the Logic Flaw Behind Account Takeovers | Bash Overflow | [Read More](https://medium.com/p/7f8529a68d23) |
 | Mon, 17 Nov 2025 12:32:23 GMT | Project #11 — Framework Mapping Project | Andrew Williams | [Read More](https://medium.com/p/2cd078e78c81) |
 | Mon, 17 Nov 2025 12:32:02 GMT | When Pentests Fail: 10 Lessons from Botched Red Teams, Overconfident CISOs & Security Theater Gone… | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/33d327dc97ba) |
 | Mon, 17 Nov 2025 12:31:48 GMT | The MCP Server: The Critical Security Boundary for Agentic AI | Gaurav | [Read More](https://medium.com/p/629ab06c727b) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 08:11:39 GMT | Oasis | WhisperedVerse | [Read More](https://medium.com/p/8492106c9a68) |
 | Mon, 17 Nov 2025 08:10:32 GMT | Critical AI Vulnerabilities Are Spreading Across Meta, Nvidia, and Microsoft Frameworks — And… | Germano Costi | [Read More](https://medium.com/p/079e88e8b0d6) |
 | Mon, 17 Nov 2025 08:06:45 GMT | The Ornament Heist | Erica Jayasundera | [Read More](https://medium.com/p/ddfd6c68f49f) |
-| Mon, 17 Nov 2025 07:53:46 GMT | How Can CCTV Surveillance Systems Improve Security? | Global CCTV Monitoring Services | [Read More](https://medium.com/p/05e94559e1c2) |
-| Mon, 17 Nov 2025 07:50:52 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/fd64f55f3ed5) |
-| Mon, 17 Nov 2025 07:46:31 GMT | Why Data Matters | BOOX Community | [Read More](https://medium.com/p/5b96eb69aef8) |
-| Mon, 17 Nov 2025 07:45:39 GMT | Android Vulnerability CVE-2025–48593 (No-Click Attack) | M Vandam Singha | [Read More](https://medium.com/p/d4f2561848fb) |
-| Mon, 17 Nov 2025 07:37:51 GMT | First Recorded Major Hack Using AI | Yagyesh Bobde | [Read More](https://medium.com/p/941eeec4d55b) |
-| Mon, 17 Nov 2025 07:33:57 GMT | The £3.76 Million AI Risk: Lessons from This Week’s Claude Security Incident for Finance Teams | Peter Beard, ACA | [Read More](https://medium.com/p/cd086542a5f9) |
-| Mon, 17 Nov 2025 07:32:29 GMT | Crypto Security Breaches and How Exchanges Are Reinforcing Defenses | Abhinav Soomaney | [Read More](https://medium.com/p/41a82a0d0586) |
-| Mon, 17 Nov 2025 07:32:27 GMT | The Apex Predator | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/c33da6dbbb6b) |
-| Mon, 17 Nov 2025 07:31:59 GMT | How I Taught AI to Predict Zero-Days Before They Happened (And Got Paid for Bugs That Didn’t Exist… | Iski | [Read More](https://medium.com/p/3e0fe162d92f) |
-| Mon, 17 Nov 2025 07:26:37 GMT | Cybersecurity, AI & Quantum Computing: The New Digital Triangle of Power | Gopi Sri | [Read More](https://medium.com/p/4869d24b8191) |
-| Mon, 17 Nov 2025 07:21:39 GMT | Introducing the DRAPE Index: How to measure (in)success in a Threat Detection practice? | Alex Teixeira | [Read More](https://medium.com/p/154fd977f731) |
