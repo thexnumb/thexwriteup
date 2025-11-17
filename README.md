@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 17:35:58 GMT | The Corruption of the Protectors – AI Poisoning Attacks Against Defensive Models | David SEHYEON Baek | [Read More](https://medium.com/p/c8e751131c43) |
+| Mon, 17 Nov 2025 17:29:53 GMT | Devlog #1: Cybersecurity-focused programming language — Infinitas | 0x221E | [Read More](https://medium.com/p/73b83fd11fd7) |
+| Mon, 17 Nov 2025 17:26:29 GMT | John von Neumann and the Birth of Modern Computing | Stacklegend | [Read More](https://medium.com/p/b397f9a6bd5c) |
+| Mon, 17 Nov 2025 17:25:49 GMT | Reinventing Background Checks with Steven Ward | Jason Sherman | [Read More](https://medium.com/p/c5ff6b4a823a) |
+| Mon, 17 Nov 2025 17:23:17 GMT | AppSec with AI: I Combined Ollama, Nessus, and BurpSuite MCP | Tahir Khatri | [Read More](https://medium.com/p/1cb84ca430dc) |
 | Mon, 17 Nov 2025 17:15:06 GMT | The New Normal of Cyberattacks: Why Both Developers and Ordinary People Are Now in the Blast Radius | Abatis ABTU | [Read More](https://medium.com/p/376cd0f5db7e) |
+| Mon, 17 Nov 2025 17:13:13 GMT | Hack My Car: The Dark Reality of Cyber Car Theft — How to Protect Your Vehicle from Digital… | Piotrmak Marko | [Read More](https://medium.com/p/c6cb9fdbe17a) |
 | Mon, 17 Nov 2025 17:12:41 GMT | Security Controls Demystified — 5 Key Lessons (Explained the Way I Learned Them) ~10 min read | D3ad_M3m0r13s | [Read More](https://medium.com/p/03f6e1a24749) |
 | Mon, 17 Nov 2025 17:11:47 GMT | Common Points We Usually Miss in Automation Testing | Abu Talha | [Read More](https://medium.com/p/8cd534776a02) |
 | Mon, 17 Nov 2025 17:02:11 GMT | OSCP Grind - PG Practice - Kevin | Mr Jokar | [Read More](https://medium.com/p/70edf532b3c9) |
@@ -107,9 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 12:21:27 GMT | How AI Is Transforming Cybersecurity in 2025: From Detection to Defense | Rock Johnson | [Read More](https://medium.com/p/771da0b6d777) |
 | Mon, 17 Nov 2025 12:18:47 GMT | TryHackMe Writeup: Pickle Rick | Berkay AĞGÜL | [Read More](https://medium.com/p/5a0023b499d8) |
 | Mon, 17 Nov 2025 12:18:09 GMT | Security and Compliance in Cloud Communications: What Every Business Needs to Know | David | [Read More](https://medium.com/p/976c0d9c01e1) |
-| Mon, 17 Nov 2025 12:17:07 GMT | This Week in Resilience - November 17, 2025 | Sherilyn Burris | [Read More](https://medium.com/p/d513d5b73753) |
-| Mon, 17 Nov 2025 12:05:53 GMT | ISC2 CC Exam: Nail It! My brain dump of tips that actually work. | Authlyn | [Read More](https://medium.com/p/b18708216fb3) |
-| Mon, 17 Nov 2025 12:02:01 GMT | Understanding CWE-489: Active Debug Code | Walter Moar | [Read More](https://medium.com/p/9787a7960a01) |
-| Mon, 17 Nov 2025 11:55:37 GMT | Güvenlik Araştırmacısı ile Sorgularınızın Bakış Açısını Değiştirin | Perform Yazılım | [Read More](https://medium.com/p/816ccba95848) |
-| Mon, 17 Nov 2025 11:44:03 GMT | Top Cybersecurity Tips to Protect Your Data in 2025 | Silversky Technology | [Read More](https://medium.com/p/841cb4f39334) |
-| Mon, 17 Nov 2025 11:41:59 GMT | The Hidden 72-Byte Trap in bcrypt | Hafidz Mahrus | [Read More](https://medium.com/p/2b26dd77eb62) |
