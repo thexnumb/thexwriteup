@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 15:23:24 GMT | AresGPT: Decision-Making with Red | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/dc5c655a4802) |
+| Mon, 17 Nov 2025 15:22:00 GMT | #09- Kali Linux — Credential Access: Harvesting the Keys to the Kingdom | SDNTechForum | [Read More](https://medium.com/p/d5af5b204783) |
+| Mon, 17 Nov 2025 15:05:03 GMT | What is Malware ? A Simple Explanation for Beginners | Veeresh HS | [Read More](https://medium.com/p/adfd2f26cf24) |
+| Mon, 17 Nov 2025 15:03:00 GMT | Cyber Briefing: 2025.11.17 | CyberMaterial | [Read More](https://medium.com/p/14af605ae265) |
+| Mon, 17 Nov 2025 14:55:48 GMT | The Command Pattern Simplified: How Modern Java (21–25) Makes It Elegant | Jitin Kayyala | [Read More](https://medium.com/p/3d9891227cc7) |
+| Mon, 17 Nov 2025 14:55:27 GMT | “Why are IT and security handled by separate vendors? | Barry Ritchie | [Read More](https://medium.com/p/9333ceed73f7) |
+| Mon, 17 Nov 2025 14:54:08 GMT | The Hidden Risk: How Hackers Use Your Browser to Breach Your Business | Cordula Boeck | [Read More](https://medium.com/p/f1a8afc8f9af) |
+| Mon, 17 Nov 2025 14:52:03 GMT | Why are Digital Transformations so Hard? | Manuel Tress | [Read More](https://medium.com/p/ec7cd02c597e) |
+| Mon, 17 Nov 2025 14:51:18 GMT | Ethereum (ETH) টোকেনে এখন থেকে পেমেন্ট গ্রহণ করছে NymVPN | S. M. Abdullah | [Read More](https://medium.com/p/7c99b1219968) |
+| Mon, 17 Nov 2025 14:46:48 GMT | GitHub Copilot: The AI Assistant Transforming Software Development | Aurélien | [Read More](https://medium.com/p/1ce891af7e0e) |
+| Mon, 17 Nov 2025 14:42:18 GMT | From Webshells to the Cloud | Joseph Harrison | [Read More](https://medium.com/p/6549b2b14aa3) |
 | Mon, 17 Nov 2025 14:40:59 GMT | AI Inference Engines Hit by Critical RCE Flaws Putting Major Tech Frameworks at Risk | Jasmitha | [Read More](https://medium.com/p/305df3ff0c1e) |
+| Mon, 17 Nov 2025 14:39:47 GMT | Input Manipulation & Prompt Injection: The Invisible Attacks You’re Probably Overlooking | Vaishnavi Bhandari | [Read More](https://medium.com/p/22ffd68c9795) |
 | Mon, 17 Nov 2025 14:31:40 GMT | OSINT detailed guide for 2026 | Mainekhacker | [Read More](https://medium.com/p/367dd20249bf) |
 | Mon, 17 Nov 2025 14:29:32 GMT | Where OSINT Goes Wrong | Joe The OSINT Guy | [Read More](https://medium.com/p/98bd9caf4be6) |
 | Mon, 17 Nov 2025 14:26:02 GMT | How I Built My Own AMSI Bypass in Rust | Shaheer Yasir | [Read More](https://medium.com/p/be2b6604632d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 09:53:41 GMT | Unlocking Digital Safety: A Comprehensive Guide to Cybersecurity for Everyone | Stephen Bernard Agwai | [Read More](https://medium.com/p/dcc1833ecd9a) |
 | Mon, 17 Nov 2025 09:49:45 GMT | How Hackers Hack Using AI in 2025 — 2026 | Monu Jangra | [Read More](https://medium.com/p/1a061d6dea15) |
 | Mon, 17 Nov 2025 09:49:25 GMT | AI + Cloud Security: How Artificial Intelligence Is Transforming the Future of Cloud Defense | Monu Jangra | [Read More](https://medium.com/p/a8d436ddb017) |
-| Mon, 17 Nov 2025 09:43:54 GMT | Cyber Security Course for Beginners in Delhi (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/f1ab2cefc9fc) |
-| Mon, 17 Nov 2025 09:39:52 GMT | How long does it take to Build an official NodeJS docker image — and is it worth it? | Balazs Csaba | [Read More](https://medium.com/p/c74de85d71fe) |
-| Mon, 17 Nov 2025 09:39:20 GMT | How to Detect Docker Container Escapes using AppArmor, SELinux, Seccomp & Falco Rules | Motasem Hamdan | [Read More](https://medium.com/p/7059f02a41d8) |
-| Mon, 17 Nov 2025 09:38:40 GMT | Top 10 Cybersecurity Training Resources for 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/ada5ac7cdadb) |
-| Mon, 17 Nov 2025 09:36:36 GMT | A Step-by-Step Guide to Install Cribl | Kaviarasan Asokan | [Read More](https://medium.com/p/2dbd1e4b5304) |
-| Mon, 17 Nov 2025 09:36:30 GMT | Why Freedom in 2025 Depends on Controlling Your Crypto Keys and Data | UnoLock CybVault | [Read More](https://medium.com/p/e6f9c7d2f55a) |
-| Mon, 17 Nov 2025 09:32:43 GMT | Security Risks in Agentic Platforms — And What We Can Actually Do About Them | Emre Bayram | [Read More](https://medium.com/p/6d3069715e5b) |
-| Mon, 17 Nov 2025 09:31:54 GMT | Why You Must Detect AS-REP Roasting Before It’s Too Late | Aufarifqi | [Read More](https://medium.com/p/da91a8f1eeb3) |
-| Mon, 17 Nov 2025 09:28:04 GMT | CSI: Web Server — A Defender’s Guide to Detecting Web Attacks ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/000b2bcee0b0) |
-| Mon, 17 Nov 2025 09:27:29 GMT | 200 reports, 11 valid bugs, 0 critical issues. Here’s everything we wish we’d known about VDP. | is*hosting | [Read More](https://medium.com/p/9e54108c737f) |
-| Mon, 17 Nov 2025 09:27:13 GMT | Password-Protected Links: LinkTrim.io Does It for Free | Ziteny | [Read More](https://medium.com/p/d60b1943bac0) |
-| Mon, 17 Nov 2025 09:24:23 GMT | CS Issue 6: Scripting and Python Scripting | Celestine Emmanuel | [Read More](https://medium.com/p/0321ca42f629) |
