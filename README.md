@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 09:43:54 GMT | Cyber Security Course for Beginners in Delhi (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/f1ab2cefc9fc) |
+| Mon, 17 Nov 2025 09:39:52 GMT | How long does it take to Build an official NodeJS docker image — and is it worth it? | Balazs Csaba | [Read More](https://medium.com/p/c74de85d71fe) |
+| Mon, 17 Nov 2025 09:39:20 GMT | How to Detect Docker Container Escapes using AppArmor, SELinux, Seccomp & Falco Rules | Motasem Hamdan | [Read More](https://medium.com/p/7059f02a41d8) |
+| Mon, 17 Nov 2025 09:38:40 GMT | Top 10 Cybersecurity Training Resources for 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/ada5ac7cdadb) |
+| Mon, 17 Nov 2025 09:36:30 GMT | Why Freedom in 2025 Depends on Controlling Your Crypto Keys and Data | UnoLock CybVault | [Read More](https://medium.com/p/e6f9c7d2f55a) |
+| Mon, 17 Nov 2025 09:31:54 GMT | Why You Must Detect AS-REP Roasting Before It’s Too Late | Aufarifqi | [Read More](https://medium.com/p/da91a8f1eeb3) |
+| Mon, 17 Nov 2025 09:28:04 GMT | CSI: Web Server — A Defender’s Guide to Detecting Web Attacks ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/000b2bcee0b0) |
+| Mon, 17 Nov 2025 09:27:29 GMT | 200 reports, 11 valid bugs, 0 critical issues. Here’s everything we wish we’d known about VDP. | is*hosting | [Read More](https://medium.com/p/9e54108c737f) |
+| Mon, 17 Nov 2025 09:27:13 GMT | Password-Protected Links: LinkTrim.io Does It for Free | Ziteny | [Read More](https://medium.com/p/d60b1943bac0) |
+| Mon, 17 Nov 2025 09:24:23 GMT | CS Issue 6: Scripting and Python Scripting | Celestine Emmanuel | [Read More](https://medium.com/p/0321ca42f629) |
+| Mon, 17 Nov 2025 09:24:20 GMT | Exploit Guide on Metasploitable 2 | Hydra | [Read More](https://medium.com/p/c54bbead1b5a) |
+| Mon, 17 Nov 2025 09:23:25 GMT | SQL Injection: Retrieving Data From Other Tables (UNION-Based SQLi) | Aditya Bhatt | [Read More](https://medium.com/p/b9284e644d03) |
 | Mon, 17 Nov 2025 09:14:49 GMT | Card-Swap & ATM Fraud (Hannah’s Story) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/d1be5e2a24ca) |
 | Mon, 17 Nov 2025 09:12:05 GMT | Signs Your Getting Swindled in Your ERP Operations | Namir Sagheenanajar | [Read More](https://medium.com/p/7bbb3c5f85eb) |
 | Mon, 17 Nov 2025 09:11:46 GMT | The New Frontier of Cyber Defense: How AI Is Becoming Every Organization’s Silent Security Partner | ANSI CONSULT AND SERVICES | [Read More](https://medium.com/p/427bb29bc669) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 03:39:40 GMT | Access to ecosystem.atlassian.net — Official Statement from cMd_p1nG | [cMd_p1nG] | [Read More](https://medium.com/p/15fb73090659) |
 | Mon, 17 Nov 2025 03:31:59 GMT | 7 Tips for Using GCP Secret Manager in Node.js | Arunangshu Das | [Read More](https://medium.com/p/8f89d90b82a9) |
 | Mon, 17 Nov 2025 03:31:59 GMT | Beyond the Inbox: Inside the LinkedIn Phishing Campaign Targeting Finance Executives | Deven Chhajed | [Read More](https://medium.com/p/84d52098c6fc) |
-| Mon, 17 Nov 2025 03:31:20 GMT | Cloudbric AMA (Ask Me Anything) Responses | Cloudbric | [Read More](https://medium.com/p/dec62a7cac8f) |
-| Mon, 17 Nov 2025 03:31:06 GMT | Cloudbric AMA (Ask Me Anything) 답변 공지 | Cloudbric | [Read More](https://medium.com/p/59d4b16fceda) |
-| Mon, 17 Nov 2025 03:30:04 GMT | Strengthening Cybersecurity or Expanding State Power? | cybergriotz | [Read More](https://medium.com/p/073799fbea7c) |
-| Mon, 17 Nov 2025 03:27:18 GMT | We should make the Beta public (famous last words) | Louis Shyers | [Read More](https://medium.com/p/69b6f3bab550) |
-| Mon, 17 Nov 2025 03:18:47 GMT | Only 1% of Developers Truly Understand How XSS and SQL Injection Happen | CodeByUmar | [Read More](https://medium.com/p/b6d046f38037) |
-| Mon, 17 Nov 2025 03:10:19 GMT | Are You a True Engineer If DNS and TLS Still Confuse You? | David Lee | [Read More](https://medium.com/p/2ae590667e31) |
-| Mon, 17 Nov 2025 03:01:01 GMT | Advanced Template Injection Lifecycle From Input Vector Discovery to Command Execution and Post… | Kiza | [Read More](https://medium.com/p/c1e8998de131) |
-| Mon, 17 Nov 2025 03:00:36 GMT | Windows Attack Surface Reduction | Johnny Meintel | [Read More](https://medium.com/p/ee0745e0ead8) |
-| Mon, 17 Nov 2025 02:44:01 GMT | Respuesta a incidentes en AWS: Desafíos y buenas prácticas | Roberto Carlos Reyes Fernandez | [Read More](https://medium.com/p/99b8a7aa5f89) |
-| Mon, 17 Nov 2025 02:41:38 GMT | FFUF Interactive Mode ( fuzzing made easy ) | Rajesh Sagar | [Read More](https://medium.com/p/8d29fd9b5ab3) |
-| Mon, 17 Nov 2025 02:32:04 GMT | Detection Quality Indicators: A Structured Approach to Better Detections | Harsh Mehta | [Read More](https://medium.com/p/ee8d93cc6ba2) |
-| Mon, 17 Nov 2025 02:32:04 GMT | The Inevitable Collision: How Generative AI is Reshaping the Cybersecurity Battlefield | Akshat Ratanpal | [Read More](https://medium.com/p/be76077726bb) |
