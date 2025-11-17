@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 07:33:57 GMT | The £3.76 Million AI Risk: Lessons from This Week’s Claude Security Incident for Finance Teams | Peter Beard, ACA | [Read More](https://medium.com/p/cd086542a5f9) |
+| Mon, 17 Nov 2025 07:32:27 GMT | The Apex Predator | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/c33da6dbbb6b) |
+| Mon, 17 Nov 2025 07:31:59 GMT | How I Taught AI to Predict Zero-Days Before They Happened (And Got Paid for Bugs That Didn’t Exist… | Iski | [Read More](https://medium.com/p/3e0fe162d92f) |
+| Mon, 17 Nov 2025 07:26:37 GMT | Cybersecurity, AI & Quantum Computing: The New Digital Triangle of Power | Gopi Sri | [Read More](https://medium.com/p/4869d24b8191) |
+| Mon, 17 Nov 2025 07:21:39 GMT | Introducing the DRAPE Index: How to measure (in)success in a Threat Detection practice? | Alex Teixeira | [Read More](https://medium.com/p/154fd977f731) |
+| Mon, 17 Nov 2025 07:12:33 GMT | How Computer Networking Redefined the Way I Understand Technology | Jmulokikisira | [Read More](https://medium.com/p/b13db0466eea) |
 | Mon, 17 Nov 2025 07:10:36 GMT | Cybersecurity Career in Hyderabad with Firewall-Zone Institute of IT | Firewall Zone Institute of IT | [Read More](https://medium.com/p/4218ad3b6bc5) |
 | Mon, 17 Nov 2025 07:09:15 GMT | From Token to Takeover: Exploiting Weak HS256 Secrets (POC) | Satheesh | [Read More](https://medium.com/p/c53afb9a75a0) |
 | Mon, 17 Nov 2025 07:07:12 GMT | Why Choosing the Best Cloud Computing Institute in 2026 Matters More Than Ever? | JetkingChandigarh | [Read More](https://medium.com/p/019ee61f317e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 23:23:06 GMT | Decoding the UXLINK Attack: NyxSwap as an Exit Vector | CryptoGuard | [Read More](https://medium.com/p/63972eb6303c) |
 | Sun, 16 Nov 2025 23:19:20 GMT | Summit — THM Challenge Writeup | Radulescugabriel | [Read More](https://medium.com/p/bb47712b695f) |
 | Sun, 16 Nov 2025 23:08:47 GMT | Common security risks while adopting public repositories | Rick Yang | [Read More](https://medium.com/p/4f86aa7edbac) |
-| Sun, 16 Nov 2025 22:50:35 GMT | A Eulogy in Real Time | Lisa Martin | [Read More](https://medium.com/p/59556280f012) |
-| Sun, 16 Nov 2025 22:39:09 GMT | Build CVE Watcher AI Agent using GitHub MCP Server in Azure AI Foundry with Observability | Dipesh Shah | [Read More](https://medium.com/p/cc4e6dc944ec) |
-| Sun, 16 Nov 2025 22:37:39 GMT | The Future of SIEM: Streaming Analytics and Real-Time Correlation | Eric Howard, Ph. D. | [Read More](https://medium.com/p/382240b39566) |
-| Sun, 16 Nov 2025 22:35:47 GMT | SOC Automation: Integrating SOAR and AI for Threat Response | Eric Howard, Ph. D. | [Read More](https://medium.com/p/59f53aab9adb) |
-| Sun, 16 Nov 2025 22:18:06 GMT | LetsDefend— A SOC342 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/229db6e5a238) |
-| Sun, 16 Nov 2025 22:12:25 GMT | Vulnerability | Bobby Z. Ford | [Read More](https://medium.com/p/32853969ff4e) |
