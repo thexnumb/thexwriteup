@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 20:49:34 GMT | Ben Neden Siber Güvenlikçi Olmak İstiyorum? Bir IT’cinin İç Dökmeleri | Abdullah HANÇERLİ | [Read More](https://medium.com/p/edd68ec585f3) |
+| Mon, 17 Nov 2025 20:30:23 GMT | WAF: Introduction -CHEAT SHEET tryhackme | G MRSY | [Read More](https://medium.com/p/10895fb85a94) |
+| Mon, 17 Nov 2025 20:28:56 GMT | 12 Hours to SOC Lab: How I Built a Functional SIEM with Wazuh, Ubuntu, and Kali Linux | Widson Ambaisi | [Read More](https://medium.com/p/1d2a11eca976) |
+| Mon, 17 Nov 2025 20:28:55 GMT | HTB — Cuidado | Harjot Singh | [Read More](https://medium.com/p/f2dd519781e4) |
+| Mon, 17 Nov 2025 20:24:49 GMT | LGDroid Lab Writeup | Jaws | [Read More](https://medium.com/p/fac807e1b648) |
 | Mon, 17 Nov 2025 20:23:44 GMT | Inside Timmins’ Security Pilot: What Worked, What Didn’t, and What Comes Next | Scott Hill | [Read More](https://medium.com/p/4f5b7b30b76b) |
+| Mon, 17 Nov 2025 20:20:07 GMT | Why the Next Big Financial Scandal Won’t Be About Money — It Will Be About Data | David Miller | [Read More](https://medium.com/p/bc751b599443) |
 | Mon, 17 Nov 2025 20:02:25 GMT | Cloud Security 101: How Small Teams Can Stay Secure on Google Drive, Dropbox, and OneDrive | Secured By Sebastion | [Read More](https://medium.com/p/533ec0081b40) |
 | Mon, 17 Nov 2025 19:59:37 GMT | Lock the Gate, open on demand: Securing Azure VMs with JIT. | Erik Lindeboom | [Read More](https://medium.com/p/ca48eace4a42) |
 | Mon, 17 Nov 2025 19:42:00 GMT | Pentesting Commands Library: HTB Labs Edition — Part 2 | Shraddha M. | [Read More](https://medium.com/p/855e7c0d17dc) |
@@ -107,9 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 14:14:03 GMT | Cybersecurity: Not Just a Course, But a Must-Have Life Skill | Mohammed Fizal | [Read More](https://medium.com/p/fae9a31781fa) |
 | Mon, 17 Nov 2025 14:10:48 GMT | Lessons to Learn from the Claude Code Attack | Edward Chenard | [Read More](https://medium.com/p/48046bd4a7b5) |
 | Mon, 17 Nov 2025 14:07:18 GMT | From Prompt to Pwn: How I Pen-Tested and Broke a LLM | Abhishek M L | [Read More](https://medium.com/p/25471e1b22f3) |
-| Mon, 17 Nov 2025 14:02:34 GMT | LDAP Integration: A Foundational Step Toward Unified Identity Management | Openiam | [Read More](https://medium.com/p/b3a280c09614) |
-| Mon, 17 Nov 2025 14:01:05 GMT | Practical PowerShell Automation: Temp Password Scripts, Bulk Ping Checks, and Server Feature… | Tyrik Emptage | [Read More](https://medium.com/p/360edfe738d7) |
-| Mon, 17 Nov 2025 14:01:02 GMT | Impact On The Supply Chain | Ethan Wilk | [Read More](https://medium.com/p/63bcb5402ded) |
-| Mon, 17 Nov 2025 13:55:41 GMT | Meliodas Stealer Malware | Kanada | [Read More](https://medium.com/p/81b7d118ab8f) |
-| Mon, 17 Nov 2025 13:51:11 GMT | Google Cloud Model Armor: Securing AI Models from Prompt Injection and Data Leaks | Vikas Kumar | [Read More](https://medium.com/p/ae924f8849da) |
-| Mon, 17 Nov 2025 13:50:40 GMT | When the Machine Learned to Blackmail | Sandeep Sengupta | [Read More](https://medium.com/p/df9a5bf47ec6) |
