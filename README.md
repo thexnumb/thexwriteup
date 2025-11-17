@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 16:20:41 GMT | Proving Grounds “Twiggy” Linux box | Cyb0rgBytes | [Read More](https://medium.com/p/2098933fda1e) |
+| Mon, 17 Nov 2025 16:20:18 GMT | The Art Of Writing a Bug Report | Hüseyin Tarık Uslu | [Read More](https://medium.com/p/4266bd58ed2a) |
+| Mon, 17 Nov 2025 16:19:31 GMT | Fiber Networking: The Future-Proof Backbone Your Business Can’t Afford to Ignore | Paradise technologies Inc | [Read More](https://medium.com/p/5a423192123c) |
+| Mon, 17 Nov 2025 16:10:21 GMT | LetsDefend — A SOC338 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/afcb76c9c9a8) |
+| Mon, 17 Nov 2025 16:09:00 GMT | The Right Gatekeepers: Secure Your Python Flask App with Flask Security (Part 2/2) | Daniel Easterman | [Read More](https://medium.com/p/2cf8a7f1e667) |
+| Mon, 17 Nov 2025 16:05:11 GMT | 5 Cybersecurity Threats That Even Experts Miss | Hania Khan | [Read More](https://medium.com/p/987e8451a756) |
+| Mon, 17 Nov 2025 16:02:30 GMT | Your AI Girlfriend Is a Trap: The Loneliness Machine. | ToxSec | [Read More](https://medium.com/p/fa1d1d319199) |
+| Mon, 17 Nov 2025 16:02:30 GMT | Farewell THM - Writeup | Domon | [Read More](https://medium.com/p/e85c8fc9c161) |
+| Mon, 17 Nov 2025 16:02:27 GMT | Introducing Decentr Lite The New Flavor of Fast, Fresh, Private Browsing | Decentr | [Read More](https://medium.com/p/15ec11d6cf26) |
+| Mon, 17 Nov 2025 15:59:43 GMT | 90 DAYS , AI/ML/DS LEARNING CHALLENGE | Arumuga Perumal | [Read More](https://medium.com/p/b5b576d53893) |
+| Mon, 17 Nov 2025 15:53:24 GMT | Entrepreneurs vs. Businessmen: The Real Difference No One Talks About | Vijay Kumar Gupta | [Read More](https://medium.com/p/21988bd3304a) |
+| Mon, 17 Nov 2025 15:53:21 GMT | Public Wi-Fi Safety Tips 2025: How to
+Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/p/2e20a72206d1) |
+| Mon, 17 Nov 2025 15:52:42 GMT | New TaskHound Tool Exposes Hidden Risks in Windows Scheduled Tasks | Jasmitha | [Read More](https://medium.com/p/b13d8becebe2) |
+| Mon, 17 Nov 2025 15:52:20 GMT | From Pentest to GTFOBins: How I Discovered and Proposed a New Root-Escalation Method Using… | Nebty | [Read More](https://medium.com/p/1a2a6b469ba6) |
+| Mon, 17 Nov 2025 15:48:38 GMT | Data Dome Hackviser Writeup | Elvinhuseynov | [Read More](https://medium.com/p/bd905ee794e4) |
+| Mon, 17 Nov 2025 15:45:35 GMT | HTB — Artificial Writeup: TensorFlow to Root | Aashraymt | [Read More](https://medium.com/p/50ce32c56ae2) |
+| Mon, 17 Nov 2025 15:38:40 GMT | Claude Guides Us Through the Steps of Building Your First Decentralized Local Ai Model | Martin D. Vasquez | [Read More](https://medium.com/p/f2e68f6fc2cc) |
 | Mon, 17 Nov 2025 15:35:05 GMT | Identity Is the New Battleground: How Rainbow Secure Protects Businesses Against the Latest Cyber… | Dr. Shashi Karhail | [Read More](https://medium.com/p/68b085763b40) |
 | Mon, 17 Nov 2025 15:34:10 GMT | How I Passed the eJPT (94%) and What Helped the Most | Ninadkarkhanis | [Read More](https://medium.com/p/d86e73a009ab) |
 | Mon, 17 Nov 2025 15:24:57 GMT | Uniform Suppliers for Industrial - Uniform Manufacturers for Industrial | Uniswin | [Read More](https://medium.com/p/7796e1df8b29) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 11:07:32 GMT | Deep Insights into Digital Asset Security: The Surge of Hardware Wallet Sales in 2025 and How to… | Digital Shield Offcial | [Read More](https://medium.com/p/05180bbc1355) |
 | Mon, 17 Nov 2025 11:05:39 GMT | Best IVR Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/147df9d04d14) |
 | Mon, 17 Nov 2025 10:58:48 GMT | Logs, Telemetry, and the Golden Ratio: Why the Data Ownership Ratio Will Redefine Cybersecurity… | Juan Pablo Castro | [Read More](https://medium.com/p/3defe9a47b6d) |
-| Mon, 17 Nov 2025 10:56:35 GMT | How Off-Duty Police Officers Elevate Your Security | Reliable Security Staffing | [Read More](https://medium.com/p/1cc10052acd2) |
-| Mon, 17 Nov 2025 10:55:46 GMT | Guarding Digital Sovereignty: How Digital Shield Forges an Offline, Multi-Chain Asset Management… | Digital Shield | [Read More](https://medium.com/p/02e9acf2ccc5) |
-| Mon, 17 Nov 2025 10:53:01 GMT | Cyber Safety | Pulkita Aggarwal | [Read More](https://medium.com/p/8f3b4c1dd79a) |
-| Mon, 17 Nov 2025 10:44:49 GMT | How Apex Consultants’ Software Products Are Transforming Modern Businesses | ApexConsultants | [Read More](https://medium.com/p/901dfa4d7ed9) |
-| Mon, 17 Nov 2025 10:35:35 GMT | Collision Writeup (Pwnable.kr) | Ivan Daňo | [Read More](https://medium.com/p/344af5ba9451) |
-| Mon, 17 Nov 2025 10:34:31 GMT | How I Find Real Bug Bounty Targets - Live Recon and Workflow | Jackson Mittag | [Read More](https://medium.com/p/4971bbd8230b) |
-| Mon, 17 Nov 2025 10:30:11 GMT | Best Black Friday Offers on Cybersecurity Certifications | cyber security Updates | [Read More](https://medium.com/p/1742d0e92f8c) |
-| Mon, 17 Nov 2025 10:28:05 GMT | Why AI Attackers Already Won The Speed Race | Lewis Thomson | [Read More](https://medium.com/p/4a028970ec3d) |
-| Mon, 17 Nov 2025 10:18:49 GMT | Foundations of Probability: Interpretations, Axioms, and Measure-Theoretic Structure | Riccardo Giacinti | [Read More](https://medium.com/p/7255ad9c525d) |
-| Mon, 17 Nov 2025 10:16:41 GMT | The Quantum Computer That Will Break Your Bitcoin Is Already Being Built | UnoLock CybVault | [Read More](https://medium.com/p/3537e7c99d05) |
-| Mon, 17 Nov 2025 10:16:36 GMT | CVE-2025–60709: Out-of-Bounds Read in Windows CLFS | Eugene Peh | [Read More](https://medium.com/p/0269a8e09d99) |
-| Mon, 17 Nov 2025 10:14:19 GMT | I was hacked… You might be too… | Ginger Mongi | [Read More](https://medium.com/p/ca4b40e0295b) |
-| Mon, 17 Nov 2025 10:09:07 GMT | Best IT Infrastructure Management Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/da8985c8210c) |
-| Mon, 17 Nov 2025 10:07:50 GMT | Top 10 Virtual Assistant Companies in Australia | Supportsoft Technologies | [Read More](https://medium.com/p/121cddc7eb57) |
-| Mon, 17 Nov 2025 10:05:01 GMT | Cybersecurity Gap Assessment: Turning Security Gap Analysis from Compliance Paperwork into Threat… | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/6837f2637763) |
-| Mon, 17 Nov 2025 09:59:00 GMT | My QA Journey: The Beginning | Aparna Mishra | [Read More](https://medium.com/p/65cf6be5b7b8) |
-| Mon, 17 Nov 2025 09:54:35 GMT | Mastering IT Risk: The Role of a GRC Platform in Cybersecurity Management | SecureSlate | [Read More](https://medium.com/p/05f72223c52b) |
