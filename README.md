@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 18:20:55 GMT | Open Redirects: The Little Link That Could Destroy Your Reputation | Sajjan Nehal | [Read More](https://medium.com/p/73295eb13264) |
+| Mon, 17 Nov 2025 18:16:00 GMT | WAF: Introduction | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/3095deefa162) |
+| Mon, 17 Nov 2025 18:13:25 GMT | LetsDefend — A SOC336 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/088a2e04d8a2) |
+| Mon, 17 Nov 2025 18:11:39 GMT | How I Tricked the AI: A Write-up of TCM Security’s Black Friday CTF | Gokhan Can | [Read More](https://medium.com/p/22d7c243644f) |
+| Mon, 17 Nov 2025 18:05:26 GMT | When Digital Sovereignty Is at Stake: Lessons from the November 2025 State Website Hack. | eL Njas!™ | [Read More](https://medium.com/p/6f02dffd117d) |
+| Mon, 17 Nov 2025 18:01:30 GMT | ️ Advanced Log Correlation Scenarios: Maximizing SOC Detection Capabilities | Esra Kayhan | [Read More](https://medium.com/p/2a89a4f8ed01) |
+| Mon, 17 Nov 2025 17:59:11 GMT | AI: The Boon and the Threat — How Artificial Intelligence Is Reshaping Data Science & Analytics… | Naman Gupta | [Read More](https://medium.com/p/5ffc24140b4e) |
+| Mon, 17 Nov 2025 17:58:16 GMT | API Security Mastery: A Developer’s Guide to Stopping SQL Injections and DDoS Attacks | Nilutpal | [Read More](https://medium.com/p/2b86bbaf9a1e) |
+| Mon, 17 Nov 2025 17:58:12 GMT | 100TB SSD: What It Is, Why It Matters, and What’s Next” | EINITIAL24 | [Read More](https://medium.com/p/edf30fcce782) |
+| Mon, 17 Nov 2025 17:49:24 GMT | Explaining Bash in the Easiest Way | Vaishnav S | [Read More](https://medium.com/p/8591b65c7b0c) |
+| Mon, 17 Nov 2025 17:42:26 GMT | IriusRisk: The Complete Threat Modeling Platform for Modern Engineering Teams | Hackwithabhi | [Read More](https://medium.com/p/4d9e65ec3222) |
 | Mon, 17 Nov 2025 17:35:58 GMT | The Corruption of the Protectors – AI Poisoning Attacks Against Defensive Models | David SEHYEON Baek | [Read More](https://medium.com/p/c8e751131c43) |
+| Mon, 17 Nov 2025 17:35:27 GMT | Comment craquer la machine la plus difficile de HTB | RavenBreach | [Read More](https://medium.com/p/5c4de7255bcf) |
 | Mon, 17 Nov 2025 17:29:53 GMT | Devlog #1: Cybersecurity-focused programming language — Infinitas | 0x221E | [Read More](https://medium.com/p/73b83fd11fd7) |
 | Mon, 17 Nov 2025 17:26:29 GMT | John von Neumann and the Birth of Modern Computing | Stacklegend | [Read More](https://medium.com/p/b397f9a6bd5c) |
 | Mon, 17 Nov 2025 17:25:49 GMT | Reinventing Background Checks with Steven Ward | Jason Sherman | [Read More](https://medium.com/p/c5ff6b4a823a) |
@@ -101,15 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 12:38:45 GMT | Dear, Rei. | jeapoems. | [Read More](https://medium.com/p/b9e9f8302cb9) |
 | Mon, 17 Nov 2025 12:37:21 GMT | Weak Isolation on Dual-Use Endpoint: Understanding the Logic Flaw Behind Account Takeovers | Bash Overflow | [Read More](https://medium.com/p/7f8529a68d23) |
 | Mon, 17 Nov 2025 12:32:23 GMT | Project #11 — Framework Mapping Project | Andrew Williams | [Read More](https://medium.com/p/2cd078e78c81) |
-| Mon, 17 Nov 2025 12:32:02 GMT | When Pentests Fail: 10 Lessons from Botched Red Teams, Overconfident CISOs & Security Theater Gone… | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/33d327dc97ba) |
-| Mon, 17 Nov 2025 12:31:48 GMT | The MCP Server: The Critical Security Boundary for Agentic AI | Gaurav | [Read More](https://medium.com/p/629ab06c727b) |
-| Mon, 17 Nov 2025 12:31:47 GMT | Top 5 Careers You Can Pursue After a BS in Cyber Security | Shreyashettyctr | [Read More](https://medium.com/p/b2790e05ebff) |
-| Mon, 17 Nov 2025 12:30:38 GMT | CISO: “The hardest part wasn’t the tech…it was the betrayal.” | Truspex | [Read More](https://medium.com/p/cdc25894d192) |
-| Mon, 17 Nov 2025 12:25:26 GMT | Large File Uploads (10GB) with Django — Part 3: Virus Scanning Pipeline | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/eb1167e19d57) |
-| Mon, 17 Nov 2025 12:24:27 GMT | Why So Many Teenagers Want to Become Hackers in 2025 | besto | [Read More](https://medium.com/p/2d5f85579aa6) |
-| Mon, 17 Nov 2025 12:23:44 GMT | OWASP Top 10 2025: What Changed and Why It Matters | BeamSec | [Read More](https://medium.com/p/203ffe7d920f) |
-| Mon, 17 Nov 2025 12:22:45 GMT | Bypassing RASP and White-Box Protections | Joseph James (JJ) | [Read More](https://medium.com/p/24e677ad17ef) |
-| Mon, 17 Nov 2025 12:22:11 GMT | My IT Journey | K Serghini | [Read More](https://medium.com/p/62512df50ca4) |
-| Mon, 17 Nov 2025 12:21:27 GMT | How AI Is Transforming Cybersecurity in 2025: From Detection to Defense | Rock Johnson | [Read More](https://medium.com/p/771da0b6d777) |
-| Mon, 17 Nov 2025 12:18:47 GMT | TryHackMe Writeup: Pickle Rick | Berkay AĞGÜL | [Read More](https://medium.com/p/5a0023b499d8) |
-| Mon, 17 Nov 2025 12:18:09 GMT | Security and Compliance in Cloud Communications: What Every Business Needs to Know | David | [Read More](https://medium.com/p/976c0d9c01e1) |
