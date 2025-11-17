@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 05:32:40 GMT | Inside the Shellcode: Dissecting North Korean APT43’s Advanced PowerShell Loader | Siddhant Mishra | [Read More](https://medium.com/p/e6c51b77f486) |
+| Mon, 17 Nov 2025 05:22:59 GMT | Operation Endgame ? The Digital Heist We Missed | Siva Desetti | [Read More](https://medium.com/p/5ef4a03a9aae) |
 | Mon, 17 Nov 2025 05:16:11 GMT | Essential Strategies for Defending Against Today’s Cyber Threats | Lakshay Security | [Read More](https://medium.com/p/de1ed4a2adee) |
 | Mon, 17 Nov 2025 05:15:24 GMT | How Do Professional Security Services in Hisar Handle Unskilled Labor? | Lakshay Security | [Read More](https://medium.com/p/ebdf59f1225d) |
 | Mon, 17 Nov 2025 05:14:21 GMT | Understanding the Types of Security Services Available Near You | Lakshay Security | [Read More](https://medium.com/p/9c483e3393b3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 16 Nov 2025 20:06:51 GMT | Beginner’s Guide to Nmap: Understanding Port Scanning in Cybersecurity | Fairy Sluthe ❤️‍ | [Read More](https://medium.com/p/2e91c0f2a4b5) |
 | Sun, 16 Nov 2025 20:04:11 GMT | AI Driven Cyberattacks Have Arrived: A First of Its Kind Incident | Raviteja Mureboina | [Read More](https://medium.com/p/45d2fef3afba) |
 | Sun, 16 Nov 2025 20:02:13 GMT | Hacksudo: Aliens CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c8894dca05fa) |
-| Sun, 16 Nov 2025 19:50:05 GMT | The Top 7 Most In-Demand Cybersecurity Skills for Career Growth This Year | BMR EDUCATION | [Read More](https://medium.com/p/543e8ff6c86f) |
-| Sun, 16 Nov 2025 19:47:25 GMT | The Cyber Security Paradox: Why You Can’t Fight Back (Even When You Want To) | Mehdi T. | [Read More](https://medium.com/p/8b30162b3636) |
