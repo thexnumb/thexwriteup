@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 17 Nov 2025 22:02:21 GMT | Cómo frenar el Cross-Site Scripting en 5 pasos | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/9594edaf534b) |
+| Mon, 17 Nov 2025 21:59:38 GMT | How to Ensure Maximum Security in Your Data Room | IT_Engineer | [Read More](https://medium.com/p/8a25f84d7221) |
+| Mon, 17 Nov 2025 21:50:21 GMT | The Experience Equation | Chris Perkins | [Read More](https://medium.com/p/74953a64c03f) |
+| Mon, 17 Nov 2025 21:50:14 GMT | Shadow Track — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/309f671d8f24) |
+| Mon, 17 Nov 2025 21:48:55 GMT | Rompiendo Sombras: Guía de John the Ripper | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/568a48ecc280) |
+| Mon, 17 Nov 2025 21:38:21 GMT | Forget “Locking It Down.” The Real Goal Is “Seeing It Change. | Ashe Sule | [Read More](https://medium.com/p/ba4142fa7108) |
+| Mon, 17 Nov 2025 21:30:27 GMT | Django: CVE-2025–64459 — tryhackme | G MRSY | [Read More](https://medium.com/p/d5f6423e9639) |
+| Mon, 17 Nov 2025 21:30:18 GMT | AI Porn Is Winning. AI Security Is Losing. And Nobody Wants To Admit It. | Jon Capriola | [Read More](https://medium.com/p/27ca427f5127) |
 | Mon, 17 Nov 2025 21:27:01 GMT | Data Heist — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/97a8feafbf88) |
+| Mon, 17 Nov 2025 21:26:44 GMT | Investigating Letsdefend’s SOC140 — Phishing Mail Detected — Suspicious Task Scheduler (Event ID… | Faree | [Read More](https://medium.com/p/59920caa1f68) |
 | Mon, 17 Nov 2025 21:23:01 GMT | The Night the Machines Broke In: Why AI-Fueled Cyberattacks Just Rewrote the Security Rulebook | Anindya Mishra | [Read More](https://medium.com/p/a65e428b99bd) |
 | Mon, 17 Nov 2025 21:09:58 GMT | Certified AI/ML Pentester (C-AI/MLPen) Exam Review | Ihor Sasovets | [Read More](https://medium.com/p/93813e80b628) |
 | Mon, 17 Nov 2025 21:07:55 GMT | Threat Modeling — Thinking on Security Before Writing Code — The Big Roll Back #02 | Kelvin Santos[zdk] | [Read More](https://medium.com/p/07f6a5f44152) |
@@ -104,12 +113,3 @@ Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/
 | Mon, 17 Nov 2025 15:24:57 GMT | Uniform Suppliers for Industrial - Uniform Manufacturers for Industrial | Uniswin | [Read More](https://medium.com/p/7796e1df8b29) |
 | Mon, 17 Nov 2025 15:23:24 GMT | AresGPT: Decision-Making with Red | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/dc5c655a4802) |
 | Mon, 17 Nov 2025 15:22:00 GMT | #09- Kali Linux — Credential Access: Harvesting the Keys to the Kingdom | SDNTechForum | [Read More](https://medium.com/p/d5af5b204783) |
-| Mon, 17 Nov 2025 15:05:03 GMT | What is Malware ? A Simple Explanation for Beginners | Veeresh HS | [Read More](https://medium.com/p/adfd2f26cf24) |
-| Mon, 17 Nov 2025 15:03:00 GMT | Cyber Briefing: 2025.11.17 | CyberMaterial | [Read More](https://medium.com/p/14af605ae265) |
-| Mon, 17 Nov 2025 14:55:48 GMT | The Command Pattern Simplified: How Modern Java (21–25) Makes It Elegant | Jitin Kayyala | [Read More](https://medium.com/p/3d9891227cc7) |
-| Mon, 17 Nov 2025 14:55:27 GMT | “Why are IT and security handled by separate vendors? | Barry Ritchie | [Read More](https://medium.com/p/9333ceed73f7) |
-| Mon, 17 Nov 2025 14:54:08 GMT | The Hidden Risk: How Hackers Use Your Browser to Breach Your Business | Cordula Boeck | [Read More](https://medium.com/p/f1a8afc8f9af) |
-| Mon, 17 Nov 2025 14:52:03 GMT | Why are Digital Transformations so Hard? | Manuel Tress | [Read More](https://medium.com/p/ec7cd02c597e) |
-| Mon, 17 Nov 2025 14:51:18 GMT | Ethereum (ETH) টোকেনে এখন থেকে পেমেন্ট গ্রহণ করছে NymVPN | S. M. Abdullah | [Read More](https://medium.com/p/7c99b1219968) |
-| Mon, 17 Nov 2025 14:46:48 GMT | GitHub Copilot: The AI Assistant Transforming Software Development | Aurélien | [Read More](https://medium.com/p/1ce891af7e0e) |
-| Mon, 17 Nov 2025 14:42:18 GMT | From Webshells to the Cloud | Joseph Harrison | [Read More](https://medium.com/p/6549b2b14aa3) |
