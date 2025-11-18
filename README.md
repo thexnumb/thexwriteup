@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 21:56:07 GMT | 30 Days of Red Team: Day 7 — Week 1 Integration & Practice | Maxwell Cross | [Read More](https://medium.com/p/4840f85389a3) |
+| Tue, 18 Nov 2025 21:43:24 GMT | Process Migration | S12 - 0x12Dark Development | [Read More](https://medium.com/p/dc9ff6d4b5cf) |
+| Tue, 18 Nov 2025 21:35:40 GMT | CFOs Are From Mars, CIOs From GitHub | Dr Tyrone Grandison | [Read More](https://medium.com/p/bd24db1e4956) |
+| Tue, 18 Nov 2025 21:32:05 GMT | How I Received an Appreciation Letter from NASA for Identifying a CVE | CyberTechAjju | [Read More](https://medium.com/p/cc36b955f86e) |
+| Tue, 18 Nov 2025 21:16:27 GMT | The Agent Will Be Your Judge and Jury | ToxSec | [Read More](https://medium.com/p/4e8e0e6ffe3d) |
+| Tue, 18 Nov 2025 21:14:22 GMT | Vulnerable poetry | Rose | [Read More](https://medium.com/p/6715906dbe84) |
+| Tue, 18 Nov 2025 21:13:06 GMT | Is DySec the Future for securing the Python package repository? | Maikel Mardjan | [Read More](https://medium.com/p/1fe6f403268f) |
+| Tue, 18 Nov 2025 20:56:41 GMT | AWS and Cloudflare Just Broke the Internet Twice — Taking Twitter, ChatGPT, and 10,000+ Apps Down | CodeOrbit | [Read More](https://medium.com/p/29a7f61b6119) |
+| Tue, 18 Nov 2025 20:56:09 GMT | Welcome to Staying Human | Shaun McNulty | [Read More](https://medium.com/p/21f41809db35) |
+| Tue, 18 Nov 2025 20:51:55 GMT | Introduction | Hartannanaa | [Read More](https://medium.com/p/caf01183e9d0) |
+| Tue, 18 Nov 2025 20:49:08 GMT | API Security: The Forgotten Fortress in Your Architecture | Samuel Obeng Amoako Jnr | [Read More](https://medium.com/p/6255c3e61365) |
+| Tue, 18 Nov 2025 20:39:43 GMT | The User Survival Guide to Internet Outages (Cloudflare & Beyond) | MEDUSA | [Read More](https://medium.com/p/664d51a004ce) |
+| Tue, 18 Nov 2025 20:34:35 GMT | The QR Code Scam Nobody Saw Coming | Kael Virex | [Read More](https://medium.com/p/17f586a64f3d) |
+| Tue, 18 Nov 2025 20:32:26 GMT | Education & Certifications vs. Experience: Why Experience Still Wipes the Floor With Degrees | Travis Ray Caverhill | [Read More](https://medium.com/p/ffea1fb436fc) |
 | Tue, 18 Nov 2025 20:12:52 GMT | Critical Vulnerability CVE-2025–62765 in Lynx+ Gateway: Is Your Network Exposed? | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/2101986062aa) |
 | Tue, 18 Nov 2025 20:08:58 GMT | Burnout and Mental Health in Tech : The Conversation Every Team Needs | Modncv | [Read More](https://medium.com/p/2590a5d14052) |
 | Tue, 18 Nov 2025 20:01:29 GMT | Cloudflare Outages: Why it is always DNS misconfiguration? | Kavi Kumar | [Read More](https://medium.com/p/5a5b60ad4e8e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 15:24:02 GMT | Keychain vs Secure Enclave — A Complete, Practical Guide for iOS Developers | AmitAswal | [Read More](https://medium.com/p/9b2c04ba7a6a) |
 | Tue, 18 Nov 2025 15:23:16 GMT | Vendor Offboarding in 20 Minutes (From My Kitchen Table) | LaJuan Grier/ Juannilicious | [Read More](https://medium.com/p/c39de74e4239) |
 | Tue, 18 Nov 2025 15:16:58 GMT | The Best VS Code Options for Kali Linux (2025 Guide) | ghostyjoe | [Read More](https://medium.com/p/fb2d13329391) |
-| Tue, 18 Nov 2025 15:14:22 GMT | Past Endeavours in Addressing The Love of Paper Across the European Union | Letro | [Read More](https://medium.com/p/d380201133f3) |
-| Tue, 18 Nov 2025 15:13:11 GMT | Cloudflare’s Global Outage: Cost, Consequences, and Lessons for Large Enterprises | Youaleu Frank Loic | [Read More](https://medium.com/p/9434529d2573) |
-| Tue, 18 Nov 2025 15:11:46 GMT | Privacy and M&A: The New Frontier for Security Teams | Hello @ Octellient | [Read More](https://medium.com/p/98e2207ce90e) |
-| Tue, 18 Nov 2025 15:08:22 GMT | Chaos on the Web: Cloudflare Outage Takes Down AI, Social Media, and More | Athirani | [Read More](https://medium.com/p/b10973049a13) |
-| Tue, 18 Nov 2025 15:02:32 GMT | FCC to Reverse Telecom Cyber Rules: What CISOs Need to Know Now | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/1a49e19f1d0c) |
-| Tue, 18 Nov 2025 15:02:01 GMT | Cyber Briefing: 2025.11.18 | CyberMaterial | [Read More](https://medium.com/p/90b0daab686c) |
-| Tue, 18 Nov 2025 14:49:45 GMT | Let’s Talk DNS: The Internet’s Phone Book.… Cloudflare? | Carita Emelie | [Read More](https://medium.com/p/7d07cdafcbb5) |
-| Tue, 18 Nov 2025 14:48:24 GMT | Cloudflare outage and cybersecurity | Rebecca Trocki | [Read More](https://medium.com/p/2ad211364769) |
-| Tue, 18 Nov 2025 14:44:14 GMT | Installing and Configuring Wazuh on Ubuntu (with Windows Agent & Sysmon Integration) | Aisha B. B | [Read More](https://medium.com/p/018442a17f5e) |
-| Tue, 18 Nov 2025 14:43:58 GMT | AI Cybersecurity Reality Check: Agentic Attacks, Supply Chain Nightmares, and the New Normal | Monroe Rodriguez | [Read More](https://medium.com/p/d88cc5c20cbc) |
-| Tue, 18 Nov 2025 14:43:45 GMT | Prompt Injection Isn’t Theoretical Anymore: What Academic Paper Manipulation Tells Us About AI… | Kaustubh Phatak | [Read More](https://medium.com/p/5d94f7fc85c9) |
-| Tue, 18 Nov 2025 14:36:41 GMT | How i was able to find my first 3 bugs in bugcrowd | mrx_w_ | [Read More](https://medium.com/p/77a1b673ed90) |
-| Tue, 18 Nov 2025 14:35:36 GMT | Every Cloud Outage Was One of the 30 Targets: The Anthropic/Claude AI Hacking Incident and the Real… | Monroe Rodriguez | [Read More](https://medium.com/p/a46a67a0a284) |
-| Tue, 18 Nov 2025 14:25:52 GMT | Cloudflare isCloudflare Internal Server Error 500 | Ashar Arif | [Read More](https://medium.com/p/1bcbf3dd9756) |
