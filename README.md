@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 17:27:48 GMT | Building a Cybersecurity Home Lab — Part 3.3: Deploying and Configuring Linux VMs | JBXSec | [Read More](https://medium.com/p/635fd3e01be0) |
+| Tue, 18 Nov 2025 17:27:15 GMT | I Dived into the Dark Web in 2025: Shocking Secrets, Scams, and Surprises That’ll Haunt Your… | Hugo Valters | [Read More](https://medium.com/p/9c3fef5e34ad) |
+| Tue, 18 Nov 2025 17:25:04 GMT | The Hottest AI Tools Just Landed on Ainsider.Store: November 2025 Edition | Piotr Macai | [Read More](https://medium.com/p/8ebcc3320f87) |
+| Tue, 18 Nov 2025 17:23:00 GMT | xss0r Early Black Friday Deal | xss0r | [Read More](https://medium.com/p/8f407923e0ab) |
 | Tue, 18 Nov 2025 17:13:38 GMT | OSINT Tutorial 4: How to Solve a Geolocation Puzzle | S.Ali | [Read More](https://medium.com/p/7bcd9f222116) |
 | Tue, 18 Nov 2025 17:11:11 GMT | The Secret to AWS Security? Don’t Store Secrets. | Stephanie Batanwi | [Read More](https://medium.com/p/4fd95e880659) |
 | Tue, 18 Nov 2025 17:06:06 GMT | OSINT Researcher: Fast GitHub intelligence tool | OSINT Researcher | [Read More](https://medium.com/p/437ccbf87d2b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 11:45:24 GMT | How I Learned to Be Mentally Strong: A Journey Worth Taking | Lucy Loo | [Read More](https://medium.com/p/5913dfe6cf55) |
 | Tue, 18 Nov 2025 11:32:00 GMT | Networking 101: Updating Firmware Manually on Nomadix AG 5900 | Gukesh Ramashwani | [Read More](https://medium.com/p/bad009c4e53e) |
 | Tue, 18 Nov 2025 11:28:59 GMT | Best Ethical Hacking Course in Mohali - CEH Training Chandigarh — techcadd | Simranjit Kaur | [Read More](https://medium.com/p/9961332aac3f) |
-| Tue, 18 Nov 2025 11:23:42 GMT | The Art of Wi-Fi Hacking & Protection with Aircrack-ng | Gopi Mukka | [Read More](https://medium.com/p/ad7d363647e1) |
-| Tue, 18 Nov 2025 11:21:38 GMT | Local SEO Company in Utah: Your Key to Ranking Higher and Getting More Local Customers | Hary Battler | [Read More](https://medium.com/p/97fe42b3cec6) |
-| Tue, 18 Nov 2025 11:17:30 GMT | Zero-Click Exploits | Netlas.io | [Read More](https://medium.com/p/ce9c0adc73f0) |
-| Tue, 18 Nov 2025 11:17:10 GMT | freeRASP for Unreal Engine: Secure Your Revenue | Talsec | [Read More](https://medium.com/p/ef9b59a38240) |
