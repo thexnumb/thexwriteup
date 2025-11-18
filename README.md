@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 08:15:59 GMT | Smart Devices, Dark Intentions | Oghenemaro Ikelegbe | [Read More](https://medium.com/p/263a5393c891) |
+| Tue, 18 Nov 2025 08:11:29 GMT | Authentication Bypass via a Flawed State Machine | Bash Overflow | [Read More](https://medium.com/p/28bbe211f248) |
+| Tue, 18 Nov 2025 08:04:36 GMT | Here’s how a Cyber Security Degree from George College can transform your future in IT security. | Ritik | [Read More](https://medium.com/p/87280e1635bc) |
+| Tue, 18 Nov 2025 08:03:49 GMT | When Privacy Clashes with Safety: Kerala HC balances Article 21 Rights. | Seema | [Read More](https://medium.com/p/372af3d9df78) |
+| Tue, 18 Nov 2025 08:02:01 GMT | Why is self-hosting replacing cloud services? | MyChat team | [Read More](https://medium.com/p/3440963ea578) |
+| Tue, 18 Nov 2025 07:58:39 GMT | Google Issues Emergency Fix for Actively Exploited Chrome V8 Zero-Day: What You Need to Know Now | Germano Costi | [Read More](https://medium.com/p/96d93c3bfece) |
+| Tue, 18 Nov 2025 07:58:19 GMT | My First Web Hack | Cheethan | [Read More](https://medium.com/p/a74164572803) |
+| Tue, 18 Nov 2025 07:49:58 GMT | Modern SSRF — Part 1: From Blind Requests to Cloud Risk (Beginner-Friendly) | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/4e3805641c5c) |
+| Tue, 18 Nov 2025 07:46:57 GMT | Tor and Privacy in the Digital Age | Red | [Read More](https://medium.com/p/d17feaa9e643) |
+| Tue, 18 Nov 2025 07:46:19 GMT | The Digital Detective: Synthesis | David ONeal | [Read More](https://medium.com/p/745637ddd3dc) |
+| Tue, 18 Nov 2025 07:44:27 GMT | Overconfidence, Blind Spots, and Breaches: Cyber Lessons from History | Fook Hwa Tan | [Read More](https://medium.com/p/f274f81b7866) |
+| Tue, 18 Nov 2025 07:43:05 GMT | Signs Your Org Actually Has a Security Culture (Not Just Posters) | Fook Hwa Tan | [Read More](https://medium.com/p/12a208b3f9af) |
+| Tue, 18 Nov 2025 07:42:39 GMT | Securing Next.js Applications: Authentication, Authorization, and Beyond | Lucas Wade | [Read More](https://medium.com/p/c4355efbbe82) |
+| Tue, 18 Nov 2025 07:40:10 GMT | Ghost Protocol: Anonymity vs. Justice | David ONeal | [Read More](https://medium.com/p/2c80d3c11dec) |
+| Tue, 18 Nov 2025 07:37:53 GMT | I Used WormGPT for Free! | Shahzaib | [Read More](https://medium.com/p/0bca119b447b) |
+| Tue, 18 Nov 2025 07:36:35 GMT | 2.4 TB Data Leak Caused By Microsoft’s Misconfiguration | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/18bb6cf42523) |
+| Tue, 18 Nov 2025 07:35:49 GMT | Importance of Employee Awareness in Preventing Cyber Attacks | Indsys Holdings India Private Limited | [Read More](https://medium.com/p/0e9365c51111) |
 | Tue, 18 Nov 2025 07:33:21 GMT | Saatnya Beralih dari Password Manager ke MFA (Multi Factor Authentication) | Adi Saputra | [Read More](https://medium.com/p/ba899a84b0d7) |
 | Tue, 18 Nov 2025 07:30:19 GMT | How to Securely Grant EC2 Instances Access to S3 Buckets in Another AWS Account | Osman ALP | [Read More](https://medium.com/p/3e49b634584e) |
 | Tue, 18 Nov 2025 07:30:09 GMT | Using Automated Attack Surface Analysis Tools ️‍♂️⚡ | Esra Kayhan | [Read More](https://medium.com/p/d853bcdb96a8) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 01:05:22 GMT | NTLM Relay: Red Team Network Abuse (and Why It Still Works in 2025) | Yua Mikanana | [Read More](https://medium.com/p/af79e886118f) |
 | Tue, 18 Nov 2025 01:02:02 GMT | Information Obesity: Why You Know Everything But Understand Nothing | Souliscent | [Read More](https://medium.com/p/a12773158094) |
 | Tue, 18 Nov 2025 00:42:20 GMT | Web Security Essentials | Demegorash | [Read More](https://medium.com/p/1c1250d160b7) |
-| Tue, 18 Nov 2025 00:42:10 GMT | The AI Illusion: Why Companies Think They’re Safe- and Why They’re Not | Diya mukherjee | [Read More](https://medium.com/p/0ebe619a129d) |
-| Tue, 18 Nov 2025 00:31:23 GMT | Meningkatkan Keamanan Software-Defined Network Menggunakan Hybrid Honeypot dan Quality of Service | Revanza Hafiz Erianto | [Read More](https://medium.com/p/7f8a5427696c) |
-| Tue, 18 Nov 2025 00:30:24 GMT | 10 Tools to Secure MCP Servers and Protect Your AI Ecosystem | Cyber-AppSec | [Read More](https://medium.com/p/77122d13f168) |
-| Tue, 18 Nov 2025 00:25:06 GMT | THM- One Piece Writeup | cbev | [Read More](https://medium.com/p/b461d5b2269c) |
-| Tue, 18 Nov 2025 00:16:49 GMT | SOC L1 Alert Reporting | Demegorash | [Read More](https://medium.com/p/4af68a0a7896) |
-| Tue, 18 Nov 2025 00:16:45 GMT | THM - Shock and Silence | Francesco Pastore | [Read More](https://medium.com/p/b240c19c7059) |
-| Tue, 18 Nov 2025 00:12:46 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Noviembre 2025 | Tiziano Mass | [Read More](https://medium.com/p/fa953400101a) |
-| Tue, 18 Nov 2025 00:02:04 GMT | API2:2023 Broken Authentication: Fallos Críticos de Identidad en APIs y Ataques JWT | JPablo13 | [Read More](https://medium.com/p/9c91d58fd739) |
-| Tue, 18 Nov 2025 00:02:04 GMT | Kerberoasting: Stealing Service Account Passwords from Kerberos Tickets | Cybersecurity Simplified | [Read More](https://medium.com/p/968d94416cd3) |
-| Mon, 17 Nov 2025 23:51:42 GMT | Virtual Security Guard CCTV Camera Monitoring for your Property | Visual Monitoring Solutions | [Read More](https://medium.com/p/dfd0be386f79) |
-| Mon, 17 Nov 2025 23:45:18 GMT | DorkFi: The Triumph of a Team You Can Trust | DorkFi | [Read More](https://medium.com/p/12702dcc0d99) |
-| Mon, 17 Nov 2025 23:37:18 GMT | Security Officer Sacramento - Licensed Security Guard | james carter | [Read More](https://medium.com/p/d9ded6a0b213) |
-| Mon, 17 Nov 2025 23:25:16 GMT | DOM Clobbering XSS — vulnbydefault Write-Up | Bader ALmutairi | [Read More](https://medium.com/p/f6bb6a412de8) |
-| Mon, 17 Nov 2025 23:12:45 GMT | Eviction — THM Challenge Write-up | Radulescu Alexandru-Gabriel | [Read More](https://medium.com/p/f3bb3dacf236) |
-| Mon, 17 Nov 2025 23:10:15 GMT | DNS Tunneling and Covert Communication Channels Explained | Eric Howard, Ph. D. | [Read More](https://medium.com/p/bed354f797d1) |
-| Mon, 17 Nov 2025 22:59:28 GMT | Guardrails for the Machine Mind: The Future of AI Security | Marwan | [Read More](https://medium.com/p/d1318673fa70) |
-| Mon, 17 Nov 2025 22:57:12 GMT | Layoff and Termination Advice | Rhiannon Williams | [Read More](https://medium.com/p/e1459fb208a4) |
