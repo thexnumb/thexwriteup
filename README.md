@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 06:30:25 GMT | Fake Users, Real Damage — A Story of How Platforms Lose Millions Without Realizing It | Gokul Nair | [Read More](https://medium.com/p/be7846d0f055) |
+| Tue, 18 Nov 2025 06:26:34 GMT | What Are the Key Components of a Phishing Simulation? A Practical Guide for Modern Organizations | Securis360 Inc. | [Read More](https://medium.com/p/b7c68314ff72) |
+| Tue, 18 Nov 2025 06:20:33 GMT | Chrome Fake Wallet Scandal: A Wake-Up Call for Crypto Security — And Digital Shield’s Response | Digital Shield Offcial | [Read More](https://medium.com/p/a079f8c3493e) |
+| Tue, 18 Nov 2025 06:13:44 GMT | Integrating Snort IDS with Wazuh SIEM for Enhanced Security Monitoring | Syed Jawad | [Read More](https://medium.com/p/c3dbc57a9f10) |
+| Tue, 18 Nov 2025 06:13:03 GMT | A $2.2 Billion Wake-Up Call: Why Hardware Wallets Are No Longer Optional but Essential | Digital Shield Offcial | [Read More](https://medium.com/p/7a1dbc53db87) |
+| Tue, 18 Nov 2025 06:05:38 GMT | OWASP Top 10 2025: Application Design Flaws - TryHackMe - Walkthrough | Visir | [Read More](https://medium.com/p/23b871afc820) |
+| Tue, 18 Nov 2025 06:02:49 GMT | Cyber Security Training vs Certificates: What Employers Actually Care About in 2025 | Msdevipriya | [Read More](https://medium.com/p/37ce4de70c75) |
+| Tue, 18 Nov 2025 05:42:38 GMT | Level Up Your Digital Defence Skills — BIA’s Best Cybersecurity Course in Bangalore” | Afreedalok | [Read More](https://medium.com/p/765a9b35ae3d) |
+| Tue, 18 Nov 2025 05:38:59 GMT | Guardando segredos como um profissional: HashiCorp Vault no Kubernetes | IvanCl4udio | [Read More](https://medium.com/p/3b38380141b4) |
+| Tue, 18 Nov 2025 05:37:49 GMT | AI-Orchestrated Espionage: How Anthropic Exposed the Future of Cyberattacks | Jagan Raj Raviraja | [Read More](https://medium.com/p/49f59c804d5c) |
+| Tue, 18 Nov 2025 05:36:42 GMT | Will Agentic AI Revolutionize Cybersecurity Teams in 2026? | Steven Chin | [Read More](https://medium.com/p/52c3cef37e31) |
+| Tue, 18 Nov 2025 05:36:02 GMT | Unlock Secure Gmail Login: How to Generate App Passwords the Right Way | Karthick Dk | [Read More](https://medium.com/p/fa96f64a52c5) |
 | Tue, 18 Nov 2025 05:25:36 GMT | Japan Web Proxy Routing for Stable Regional Automation Workflows | GovernanceGolem | [Read More](https://medium.com/p/eeb9221dcc63) |
 | Tue, 18 Nov 2025 05:24:41 GMT | The Importance of Endpoint security | unica 02 | [Read More](https://medium.com/p/bbd8c0fdb8bb) |
 | Tue, 18 Nov 2025 05:23:30 GMT | THM - Farewell | Francesco Pastore | [Read More](https://medium.com/p/e5d0dc82f978) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 20:57:21 GMT | The Cybersecurity Sentinel (November 2025) | Franklin Rhodes | [Read More](https://medium.com/p/4a72f20b7ad4) |
 | Mon, 17 Nov 2025 20:52:32 GMT | Beyond Borders: From Battlefield to Browser: Faridabad Files | Krishna Garg | [Read More](https://medium.com/p/641d05a72698) |
 | Mon, 17 Nov 2025 20:49:34 GMT | Ben Neden Siber Güvenlikçi Olmak İstiyorum? Bir IT’cinin İç Dökmeleri | Abdullah HANÇERLİ | [Read More](https://medium.com/p/edd68ec585f3) |
-| Mon, 17 Nov 2025 20:46:10 GMT | PsExec Hunt — Write-Up | 0xTT-byte | [Read More](https://medium.com/p/75c982fe0320) |
-| Mon, 17 Nov 2025 20:40:55 GMT | Same Kidnapping Methods, Same Security Tactics: When will Nigeria Improve? | Owadasa-Olusola Martins Olakunle | [Read More](https://medium.com/p/13f7056fec1e) |
-| Mon, 17 Nov 2025 20:30:23 GMT | WAF: Introduction -CHEAT SHEET tryhackme | G MRSY | [Read More](https://medium.com/p/10895fb85a94) |
-| Mon, 17 Nov 2025 20:28:56 GMT | 12 Hours to SOC Lab: How I Built a Functional SIEM with Wazuh, Ubuntu, and Kali Linux | Widson Ambaisi | [Read More](https://medium.com/p/1d2a11eca976) |
-| Mon, 17 Nov 2025 20:28:55 GMT | HTB — Cuidado | Harjot Singh | [Read More](https://medium.com/p/f2dd519781e4) |
-| Mon, 17 Nov 2025 20:24:49 GMT | LGDroid Lab Writeup | Jaws | [Read More](https://medium.com/p/fac807e1b648) |
-| Mon, 17 Nov 2025 20:23:44 GMT | Inside Timmins’ Security Pilot: What Worked, What Didn’t, and What Comes Next | Scott Hill | [Read More](https://medium.com/p/4f5b7b30b76b) |
-| Mon, 17 Nov 2025 20:20:07 GMT | Why the Next Big Financial Scandal Won’t Be About Money — It Will Be About Data | David Miller | [Read More](https://medium.com/p/bc751b599443) |
-| Mon, 17 Nov 2025 20:02:25 GMT | Cloud Security 101: How Small Teams Can Stay Secure on Google Drive, Dropbox, and OneDrive | Secured By Sebastion | [Read More](https://medium.com/p/533ec0081b40) |
-| Mon, 17 Nov 2025 19:59:37 GMT | Lock the Gate, open on demand: Securing Azure VMs with JIT. | Erik Lindeboom | [Read More](https://medium.com/p/ca48eace4a42) |
-| Mon, 17 Nov 2025 19:42:00 GMT | Pentesting Commands Library: HTB Labs Edition — Part 2 | Shraddha M. | [Read More](https://medium.com/p/855e7c0d17dc) |
-| Mon, 17 Nov 2025 19:34:06 GMT | Multi-Cloud Strategy | Configr Technologies | [Read More](https://medium.com/p/1169751c3bdd) |
