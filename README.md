@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 19:10:01 GMT | The World Doesn’t Need More Cybersecurity Professionals | InfosecPandey | [Read More](https://medium.com/p/686856682db4) |
+| Tue, 18 Nov 2025 19:08:15 GMT | The Hidden Cost of a Ransomware Attack — And Why It Can Break Your Business | Cordula Boeck | [Read More](https://medium.com/p/f4f6bc385f51) |
+| Tue, 18 Nov 2025 18:58:28 GMT | Anthropic’s Disclosure Missed the Real Point, The Attack Didn’t Succeed Because AI Got Smarter; It… | Rampart AI™ | [Read More](https://medium.com/p/e3ef16841e6c) |
+| Tue, 18 Nov 2025 18:58:02 GMT | My CISSP Journey: An 8-Month Preparation and Strategy Guide | Mainak Biswas | [Read More](https://medium.com/p/696de2c9ce8e) |
+| Tue, 18 Nov 2025 18:56:27 GMT | Building a Cybersecurity Home Lab — Part 3.4: Lab Milestone & Critical Considerations | JBXSec | [Read More](https://medium.com/p/10cbb800408f) |
+| Tue, 18 Nov 2025 18:56:19 GMT | Why GRC Matters More Than Ever in a Digital-First World | Samuel Dhamodharan | [Read More](https://medium.com/p/2475851c9fe5) |
+| Tue, 18 Nov 2025 18:54:21 GMT | Drosera Litepaper Breakdown (Continuation): | Abdulgafarojewale | [Read More](https://medium.com/p/d22f5f7553d8) |
+| Tue, 18 Nov 2025 18:52:54 GMT | Preventing AI‑orchestrated cyberattacks with behavior‑based governance | Rampart AI™ | [Read More](https://medium.com/p/c4c9071d1015) |
+| Tue, 18 Nov 2025 18:51:36 GMT | A Practical Guide to DNN-Based Intrusion Detection Systems | Elkadiayoub | [Read More](https://medium.com/p/6cfdff715075) |
+| Tue, 18 Nov 2025 18:51:02 GMT | Application Security Pipeline (DevSecOps) and Scripts | Parviz Salmanov | [Read More](https://medium.com/p/3b59ac2c5a3c) |
+| Tue, 18 Nov 2025 18:48:05 GMT | Article 6: Introduction to Networking For Ethical Hacking | Aman Kumar Singh | [Read More](https://medium.com/p/70b29d452aa5) |
+| Tue, 18 Nov 2025 18:46:37 GMT | Ransomed Lab (Cyberdefenders) | FeCeSociety | [Read More](https://medium.com/p/6def412b157f) |
+| Tue, 18 Nov 2025 18:42:01 GMT | (File 20) King Boo — The Ruler of Mischief | Ink Stories Primal | [Read More](https://medium.com/p/4b843f57b8a3) |
+| Tue, 18 Nov 2025 18:39:39 GMT | OSCP Grind - PG Practice - ClamAV | Mr Jokar | [Read More](https://medium.com/p/1281ef91f195) |
+| Tue, 18 Nov 2025 18:37:12 GMT | I Tracked My Own Digital Footprint for 24 Hours | Hareem Fatima | [Read More](https://medium.com/p/f7f334455940) |
+| Tue, 18 Nov 2025 18:33:04 GMT | My experience with certification CRTP + Bootcamp | X0Anubis | [Read More](https://medium.com/p/6f1cd095dd9d) |
 | Tue, 18 Nov 2025 18:15:38 GMT | The Cloudflare Crash That Exposed My Biggest Digital Fear | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/bfcbae9fd315) |
 | Tue, 18 Nov 2025 18:12:40 GMT | Dork Labs Awarded AWS Activate Startup Grant | DorkFi | [Read More](https://medium.com/p/96f7e7ded890) |
 | Tue, 18 Nov 2025 18:04:55 GMT | How Explainable AI Is Reshaping the Modern SOC | Graylog | [Read More](https://medium.com/p/c15ab84406c8) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 13:27:24 GMT | AI — Why You Won’t See It Coming | Egor Ryashin | [Read More](https://medium.com/p/b886d1cb0bdb) |
 | Tue, 18 Nov 2025 13:26:47 GMT | GitHub Dorking: The Hunter’s Guide to Finding Secrets in Public Code | N0aziXss | [Read More](https://medium.com/p/f1b8582309e8) |
 | Tue, 18 Nov 2025 13:24:19 GMT | The Future of Data Center Security in KSA & GCC Is Here | Tekfardeen | [Read More](https://medium.com/p/35bf5ac345ad) |
-| Tue, 18 Nov 2025 13:09:59 GMT | From the archive: WordStar 2000 Plus reviews | Mansfield-Devine | [Read More](https://medium.com/p/4faf458cf3c0) |
-| Tue, 18 Nov 2025 13:08:35 GMT | Can ChatGPT be Poisoned with Bad Data? | Devashish Datt Mamgain | [Read More](https://medium.com/p/8ec121261d79) |
-| Tue, 18 Nov 2025 13:03:32 GMT | How I Found My First Bug Bounty In 24 Hours | Ibtissam | [Read More](https://medium.com/p/cd7ca5e18f50) |
-| Tue, 18 Nov 2025 12:54:05 GMT | Understanding JWT Tokens: The Beginner’s Guide to Modern Authentication | Atharva Baheti | [Read More](https://medium.com/p/7a14b5b2aaa7) |
-| Tue, 18 Nov 2025 12:52:59 GMT | What’s this Glob NPM madness? Suddenly every Node.js image is Vulnerable — But why? | Balazs Csaba | [Read More](https://medium.com/p/1ba1b0cbad97) |
-| Tue, 18 Nov 2025 12:50:56 GMT | Article 5: Kali Linux Commands Cheatsheet | Aman Kumar Singh | [Read More](https://medium.com/p/18c6ff0157bf) |
-| Tue, 18 Nov 2025 12:40:52 GMT | Bashed — Write-up | Taxaneh | [Read More](https://medium.com/p/52966f6e8539) |
-| Tue, 18 Nov 2025 12:37:26 GMT | HTB Academy: SQL Injection Fundamentals — Skills Assessment | Oddshell | [Read More](https://medium.com/p/031ca15a30a4) |
-| Tue, 18 Nov 2025 12:35:57 GMT | The Cybersecurity Model Is Broken Autonomous Defense Is the Only Fix | Vaultnet Defense | [Read More](https://medium.com/p/780f14070dc7) |
-| Tue, 18 Nov 2025 12:34:31 GMT | How I Built a Robot That Finds Broken Authorization While I Sleep | Iski | [Read More](https://medium.com/p/458e94f4d879) |
-| Tue, 18 Nov 2025 12:26:16 GMT | The Myth of the Beauty in Falling Apart | Aiswarya Shivasankaran | [Read More](https://medium.com/p/5a08c0d5fad5) |
-| Tue, 18 Nov 2025 12:18:59 GMT | Diploma and Certificate Courses in Australia — Build Practical Skills for a Successful Career | AIST | [Read More](https://medium.com/p/e06bfbb8a727) |
-| Tue, 18 Nov 2025 12:17:35 GMT | The Strategic Advantage of a CMS-Powered Website for Scalable Growth | Dineshsvaan | [Read More](https://medium.com/p/4f5987c31a99) |
-| Tue, 18 Nov 2025 12:16:54 GMT | How One Book Changed My Entire Approach to Penetration Testing | Aj | [Read More](https://medium.com/p/58680ccd85d6) |
-| Tue, 18 Nov 2025 12:16:28 GMT | Kamu Harus Melek Pentingnya Privasi | Hartzel | [Read More](https://medium.com/p/ab39a9846a30) |
-| Tue, 18 Nov 2025 12:15:32 GMT | Ring Battery Doorbell Pro: Cutting-Edge 1536p Head-to-Toe Security for Your Home | Tried & True Reviews | [Read More](https://medium.com/p/208441fd71fa) |
