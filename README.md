@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 23:31:22 GMT | Looking for round-the-clock security without the high cost of on-site guards? | Visual Monitoring Solutions | [Read More](https://medium.com/p/bcdcd36f45e1) |
+| Tue, 18 Nov 2025 23:27:06 GMT | What Happens When You Actually Pentest a Wireless Sensor? | Michael Preston | [Read More](https://medium.com/p/dd3a684f6838) |
+| Tue, 18 Nov 2025 23:14:17 GMT | It’s Not Failure You’re Afraid Of. It’s Embarrassment. | Abhinav Misra | [Read More](https://medium.com/p/c45c7379d6b4) |
 | Tue, 18 Nov 2025 23:02:35 GMT | The Advanced User Survival Guide to Intecrnet Outages | MEDUSA | [Read More](https://medium.com/p/b1cc7e01fee5) |
 | Tue, 18 Nov 2025 22:56:58 GMT | The Leap from Casual Dating to Serious Commitment | Shayma Popova | [Read More](https://medium.com/p/87c7e058eb48) |
 | Tue, 18 Nov 2025 22:54:42 GMT | What Happens When Quantum Computers Break Every Password on Earth? | Tars | [Read More](https://medium.com/p/5d54e72f1782) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 16:02:47 GMT | UAT vs Production Pentesting: What Pentesters Must Understand | Abhishek Kumar | [Read More](https://medium.com/p/7e03ca037850) |
 | Tue, 18 Nov 2025 16:01:40 GMT | Cloudflare Outage Explained: Why the Internet Went Down Today (18 Nov 2025) | Mohamed Basil | [Read More](https://medium.com/p/92e89e625b11) |
 | Tue, 18 Nov 2025 15:59:10 GMT | The Day the Web Stumbled: Cloudflare’s Outage and the Hidden Crisis of Digital Sovereignty | Abatis ABTU | [Read More](https://medium.com/p/0f0a5da7a196) |
-| Tue, 18 Nov 2025 15:58:29 GMT | This Remains the Most Alarming Cleantech Stories of the Year | Tony Paradiso | [Read More](https://medium.com/p/905b297db575) |
-| Tue, 18 Nov 2025 15:54:46 GMT | When the Internet Sneezes: The Great Cloudflare Outage of 2025 | MEDUSA | [Read More](https://medium.com/p/9d783dfe713c) |
-| Tue, 18 Nov 2025 15:52:06 GMT | Cybersecurity & Ethical Hacking | Oliver H Blake | [Read More](https://medium.com/p/a3fa14a94f84) |
