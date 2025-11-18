@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 15:33:51 GMT | What Happens When You Visit a Website? | R1punjay_Singh | [Read More](https://medium.com/p/b2fd0737d540) |
+| Tue, 18 Nov 2025 15:32:55 GMT | How Chinese Hackers Used Anthropic’s Claude to Automate Cyberattacks: A New Era of AI-Driven… | Faisal Khan | [Read More](https://medium.com/p/0a0f4c7f1500) |
+| Tue, 18 Nov 2025 15:24:51 GMT | The Bank Staff Impersonation & OTP Scam | Oludare Stephen Ayobami | [Read More](https://medium.com/p/b8f7c02a0e39) |
+| Tue, 18 Nov 2025 15:24:31 GMT | The Disruptive Workforce: Psychological Deterrence Through Security-Minded Behaviour | Resilience Reflections | [Read More](https://medium.com/p/c0e5bfb0a4cd) |
+| Tue, 18 Nov 2025 15:24:02 GMT | Keychain vs Secure Enclave — A Complete, Practical Guide for iOS Developers | AmitAswal | [Read More](https://medium.com/p/9b2c04ba7a6a) |
+| Tue, 18 Nov 2025 15:23:16 GMT | Vendor Offboarding in 20 Minutes (From My Kitchen Table) | LaJuan Grier/ Juannilicious | [Read More](https://medium.com/p/c39de74e4239) |
+| Tue, 18 Nov 2025 15:16:58 GMT | The Best VS Code Options for Kali Linux (2025 Guide) | ghostyjoe | [Read More](https://medium.com/p/fb2d13329391) |
 | Tue, 18 Nov 2025 15:14:22 GMT | Past Endeavours in Addressing The Love of Paper Across the European Union | Letro | [Read More](https://medium.com/p/d380201133f3) |
+| Tue, 18 Nov 2025 15:13:11 GMT | Cloudflare’s Global Outage: Cost, Consequences, and Lessons for Large Enterprises | Youaleu Frank Loic | [Read More](https://medium.com/p/9434529d2573) |
 | Tue, 18 Nov 2025 15:11:46 GMT | Privacy and M&A: The New Frontier for Security Teams | Hello @ Octellient | [Read More](https://medium.com/p/98e2207ce90e) |
 | Tue, 18 Nov 2025 15:08:22 GMT | Chaos on the Web: Cloudflare Outage Takes Down AI, Social Media, and More | Athirani | [Read More](https://medium.com/p/b10973049a13) |
 | Tue, 18 Nov 2025 15:02:32 GMT | FCC to Reverse Telecom Cyber Rules: What CISOs Need to Know Now | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/1a49e19f1d0c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 10:24:07 GMT | Brain: The Built-In Payload Attackers Can Exploit "The human element is the easiest to exploit… | Olatunji David | [Read More](https://medium.com/p/8ff8e153a7db) |
 | Tue, 18 Nov 2025 10:20:51 GMT | Business Leadership Courses in Australia — Build Skills for a Successful Future | royalinternational | [Read More](https://medium.com/p/018f25d303db) |
 | Tue, 18 Nov 2025 10:13:47 GMT | The Increasing Use of AI in Both Attacks and Defenses | Ansilg | [Read More](https://medium.com/p/3b06cbf2f140) |
-| Tue, 18 Nov 2025 10:11:55 GMT | Understanding Modern NICs and Offloading: From Hardware Offloads to SmartNICs | Muradstepacademy | [Read More](https://medium.com/p/1087ef9e60f4) |
-| Tue, 18 Nov 2025 10:05:36 GMT | IDOR — Authentication Token & Video Metadata Manipulation | Defidev | [Read More](https://medium.com/p/c058111945a0) |
-| Tue, 18 Nov 2025 10:05:17 GMT | Recon Automation Toolkit: Master Screenshots, Crawling & Fuzzing for High-Impact Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/9c4d869ca0e4) |
-| Tue, 18 Nov 2025 10:02:07 GMT | Data Generations, Collection, and Ingestion — The Foundation for Successful Logging | Apto Solutions | [Read More](https://medium.com/p/aa3cd39a093d) |
-| Tue, 18 Nov 2025 10:02:06 GMT | What I am building and Why | CYBER CYMRU | [Read More](https://medium.com/p/3c9d9b12f1dc) |
-| Tue, 18 Nov 2025 10:01:51 GMT | Zuri Ozeomachukwu Njoku Discusses Strengthening Digital Foundations for Organizations | Zuri Njoku | [Read More](https://medium.com/p/17f8e9d31938) |
-| Tue, 18 Nov 2025 10:00:12 GMT | Flutter Cybersecurity | Punith S Uppar | [Read More](https://medium.com/p/d4cbf0ba0f4c) |
-| Tue, 18 Nov 2025 09:58:52 GMT | How to Disable Qustodio for Unrestricted Online Activity | Awais Khan | [Read More](https://medium.com/p/24d0dd78e2ab) |
