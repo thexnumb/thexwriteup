@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 03:40:37 GMT | Jaringan Komputer : Konfigurasi Mikrotik, DHCP Server & DHCP Client | Yasa Wijaya | [Read More](https://medium.com/p/98975b6f1a6d) |
+| Tue, 18 Nov 2025 03:40:02 GMT | DevSecOps Is the New Norm: Embedding Security Into DevOps Workflows | Ram Milan | [Read More](https://medium.com/p/d0b172163b22) |
+| Tue, 18 Nov 2025 03:38:34 GMT | All Quiet on the Agent Front: A Glimpse of Modern Warfare from the Claude Incident | Yasushi Oh | [Read More](https://medium.com/p/a175b48f9df3) |
+| Tue, 18 Nov 2025 03:32:29 GMT | 6 Common Node.js Security Risks in Cloud Deployments | Arunangshu Das | [Read More](https://medium.com/p/16ae11babdb0) |
+| Tue, 18 Nov 2025 03:32:29 GMT | Your Next Meal Could Be Rerouted by a Hacker: The Hidden Security Risks of Delivery Robots | Deven Chhajed | [Read More](https://medium.com/p/a2c44aee4e97) |
+| Tue, 18 Nov 2025 03:31:28 GMT | Japan Proxy Server Solutions for Reliable Automation Routing | SnapshotSage | [Read More](https://medium.com/p/9965bfd2bf7e) |
+| Tue, 18 Nov 2025 03:28:36 GMT | Illegal Things You Do Every Day Without Realizing | Sami Ullah | [Read More](https://medium.com/p/25197eab2e0e) |
+| Tue, 18 Nov 2025 03:05:51 GMT | HOW AI/Machine Learning (ML) COULD TRANSFORM AMERICA’S SUPPLY CHAIN — AND WHY ONE ENGINEER… | Pin-Chieh (Jerry)  Huang | [Read More](https://medium.com/p/ecd1080a8de4) |
 | Tue, 18 Nov 2025 03:01:07 GMT | Cross-Site Scripting in Bug Bounty | ToxSec | [Read More](https://medium.com/p/d45daa7210c5) |
 | Tue, 18 Nov 2025 02:31:05 GMT | TryHackMe — Farewell Walkthrough (Full Write-Up) | SmaRTy | [Read More](https://medium.com/p/fa42afd90f9c) |
 | Tue, 18 Nov 2025 02:27:20 GMT | apan Proxy Server Routing for Stable Automation Workloads | SnapshotSage | [Read More](https://medium.com/p/e471b7738700) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 17:58:16 GMT | API Security Mastery: A Developer’s Guide to Stopping SQL Injections and DDoS Attacks | Nilutpal | [Read More](https://medium.com/p/2b86bbaf9a1e) |
 | Mon, 17 Nov 2025 17:58:12 GMT | 100TB SSD: What It Is, Why It Matters, and What’s Next” | EINITIAL24 | [Read More](https://medium.com/p/edf30fcce782) |
 | Mon, 17 Nov 2025 17:49:24 GMT | Explaining Bash in the Easiest Way | Vaishnav S | [Read More](https://medium.com/p/8591b65c7b0c) |
-| Mon, 17 Nov 2025 17:42:26 GMT | IriusRisk: The Complete Threat Modeling Platform for Modern Engineering Teams | Hackwithabhi | [Read More](https://medium.com/p/4d9e65ec3222) |
-| Mon, 17 Nov 2025 17:35:58 GMT | The Corruption of the Protectors – AI Poisoning Attacks Against Defensive Models | David SEHYEON Baek | [Read More](https://medium.com/p/c8e751131c43) |
-| Mon, 17 Nov 2025 17:35:27 GMT | Comment craquer la machine la plus difficile de HTB | RavenBreach | [Read More](https://medium.com/p/5c4de7255bcf) |
-| Mon, 17 Nov 2025 17:29:53 GMT | Devlog #1: Cybersecurity-focused programming language — Infinitas | 0x221E | [Read More](https://medium.com/p/73b83fd11fd7) |
-| Mon, 17 Nov 2025 17:26:29 GMT | John von Neumann and the Birth of Modern Computing | Stacklegend | [Read More](https://medium.com/p/b397f9a6bd5c) |
-| Mon, 17 Nov 2025 17:25:49 GMT | Reinventing Background Checks with Steven Ward | Jason Sherman | [Read More](https://medium.com/p/c5ff6b4a823a) |
-| Mon, 17 Nov 2025 17:23:17 GMT | AppSec with AI: I Combined Ollama, Nessus, and BurpSuite MCP | Tahir Khatri | [Read More](https://medium.com/p/1cb84ca430dc) |
-| Mon, 17 Nov 2025 17:15:06 GMT | The New Normal of Cyberattacks: Why Both Developers and Ordinary People Are Now in the Blast Radius | Abatis ABTU | [Read More](https://medium.com/p/376cd0f5db7e) |
