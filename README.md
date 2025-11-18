@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 07:33:21 GMT | Saatnya Beralih dari Password Manager ke MFA (Multi Factor Authentication) | Adi Saputra | [Read More](https://medium.com/p/ba899a84b0d7) |
+| Tue, 18 Nov 2025 07:30:19 GMT | How to Securely Grant EC2 Instances Access to S3 Buckets in Another AWS Account | Osman ALP | [Read More](https://medium.com/p/3e49b634584e) |
+| Tue, 18 Nov 2025 07:30:09 GMT | Using Automated Attack Surface Analysis Tools ️‍♂️⚡ | Esra Kayhan | [Read More](https://medium.com/p/d853bcdb96a8) |
+| Tue, 18 Nov 2025 07:28:54 GMT | Understanding Web Application Technologies: HTTP, Methods, and Security | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/9b66b1aafc6d) |
+| Tue, 18 Nov 2025 07:26:55 GMT | Tools Installation | Shahul Hameed | [Read More](https://medium.com/p/5f58802788c6) |
+| Tue, 18 Nov 2025 07:25:57 GMT | Instalasi Honeypot Cowrie | Axel Liang Gono | [Read More](https://medium.com/p/5e1380ceb3c9) |
+| Tue, 18 Nov 2025 07:22:15 GMT | Instalasi Wazuh Server dan Client | Axel Liang Gono | [Read More](https://medium.com/p/268d75e75fb4) |
 | Tue, 18 Nov 2025 07:11:54 GMT | Threat Hunting based on Tor Exit Nodes (+ KQLs queries) | Sergio Albea | [Read More](https://medium.com/p/4cf9ebd33cda) |
 | Tue, 18 Nov 2025 07:08:08 GMT | Simplifying OAuth 2.0 | Juhie Motiani | [Read More](https://medium.com/p/1b45a815c11f) |
 | Tue, 18 Nov 2025 07:05:14 GMT | Private Proxy USA Routing for Stable Identity and Automation Workflows | ProposalPundit | [Read More](https://medium.com/p/5de4732c5a03) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 23:10:15 GMT | DNS Tunneling and Covert Communication Channels Explained | Eric Howard, Ph. D. | [Read More](https://medium.com/p/bed354f797d1) |
 | Mon, 17 Nov 2025 22:59:28 GMT | Guardrails for the Machine Mind: The Future of AI Security | Marwan | [Read More](https://medium.com/p/d1318673fa70) |
 | Mon, 17 Nov 2025 22:57:12 GMT | Layoff and Termination Advice | Rhiannon Williams | [Read More](https://medium.com/p/e1459fb208a4) |
-| Mon, 17 Nov 2025 22:39:17 GMT | How to integrate ReconFTW with KaliGPT
-(or an LLM-assisted workflow) | ghostyjoe | [Read More](https://medium.com/p/2416ea09045b) |
-| Mon, 17 Nov 2025 22:37:55 GMT | What is Transport Layer Security(SSL/TLS)? | Kamal Kishor Mahto | [Read More](https://medium.com/p/c9304435f496) |
-| Mon, 17 Nov 2025 22:26:29 GMT | In the Storm | Tom Sims | [Read More](https://medium.com/p/a9c52127a4f0) |
-| Mon, 17 Nov 2025 22:24:05 GMT | The moment I stopped chasing files… everything changed. | Jane Brian | [Read More](https://medium.com/p/27953c9635df) |
-| Mon, 17 Nov 2025 22:13:30 GMT | Data HTB Machine Walk-Through | Nmullenski | [Read More](https://medium.com/p/9ab185032975) |
-| Mon, 17 Nov 2025 22:02:21 GMT | Cómo frenar el Cross-Site Scripting en 5 pasos | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/9594edaf534b) |
-| Mon, 17 Nov 2025 21:59:38 GMT | How to Ensure Maximum Security in Your Data Room | IT_Engineer | [Read More](https://medium.com/p/8a25f84d7221) |
