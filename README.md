@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 14:36:41 GMT | How i was able to find my first 3 bugs in bugcrowd | mrx_w_ | [Read More](https://medium.com/p/77a1b673ed90) |
+| Tue, 18 Nov 2025 14:25:52 GMT | Cloudflare isCloudflare Internal Server Error 500 | Ashar Arif | [Read More](https://medium.com/p/1bcbf3dd9756) |
+| Tue, 18 Nov 2025 14:25:52 GMT | Why brilliant people still use one single password. | EdenBlue | [Read More](https://medium.com/p/fd160437bafd) |
+| Tue, 18 Nov 2025 14:25:04 GMT | Mr. Robot CTF — TryHackme Walkthrough | Cypher.One | [Read More](https://medium.com/p/3482e1b358c5) |
+| Tue, 18 Nov 2025 14:22:04 GMT | A Man’s True Love: 4 Text Messages That Show He Sees You as His Wife | Dancemi Clare | [Read More](https://medium.com/p/80698e5883cd) |
+| Tue, 18 Nov 2025 14:12:26 GMT | The Best Types of Garage Door Insulation | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/a32a78f155f5) |
 | Tue, 18 Nov 2025 14:11:24 GMT | Cyber Hygiene Assistant: A Modern Approach to Everyday Digital Safety | Chandan Raj | [Read More](https://medium.com/p/ad9b62959b24) |
+| Tue, 18 Nov 2025 13:54:43 GMT | Le jour où un homme d’affaires m’a confié son mot de passe sans hésiter. | EdenBlue | [Read More](https://medium.com/p/761107dd7238) |
 | Tue, 18 Nov 2025 13:50:15 GMT | BREAKING NEWS: Global Cloudflare Outage Triggers Mass Internet Failures, Underscoring Dual-Use Risk… | Berend Watchus | [Read More](https://medium.com/p/bec24572cba8) |
 | Tue, 18 Nov 2025 13:46:37 GMT | How to Open a Garage Door If the Spring Is Broken: Safe DIY Steps | 24H Garage Doors | [Read More](https://medium.com/p/b824a2f395f2) |
 | Tue, 18 Nov 2025 13:46:25 GMT | Fix “Please Unblock challenges.cloudflare.com to Proceed” Error: Quick & Trusted Solutions | Radha Kulkarni | [Read More](https://medium.com/p/3605868bfd44) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 09:43:25 GMT | Ethical Hacking Certification Course Duration in Delhi (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/f28b48d6b0bf) |
 | Tue, 18 Nov 2025 09:40:04 GMT | Nigeria's Security Crisis | The Kronichles Of Kuranen (The K of K) | [Read More](https://medium.com/p/a3d3b91e940e) |
 | Tue, 18 Nov 2025 09:36:30 GMT | Why Your Agentforce POC Will Fail: An Architect’s Pre-Mortem | Pedro Távora Santos | [Read More](https://medium.com/p/1be74f2b43db) |
-| Tue, 18 Nov 2025 09:34:32 GMT | Learn Social Engineering in Ethical Hacking Course | Manisha Chaudhary | [Read More](https://medium.com/p/18c960a13bbf) |
-| Tue, 18 Nov 2025 09:26:27 GMT | Mr.Robot (THM write-up) | CO0L7 | [Read More](https://medium.com/p/23c5ce01e12d) |
-| Tue, 18 Nov 2025 09:08:45 GMT | The Human Behaviors That Open the Door to Cyber Attacks — And We Don’t Even Realize We’re Doing… | Tasnia Washim | [Read More](https://medium.com/p/eae9cfc3ff49) |
-| Tue, 18 Nov 2025 09:08:32 GMT | PicoCTF : Crack the Gate 1 (Web Exploitation) Writes up | Revanza Hafiz Erianto | [Read More](https://medium.com/p/1f19685749e2) |
-| Tue, 18 Nov 2025 09:05:05 GMT | How IT Advisory Services Drive Sustainable Business Growth | Total Computer Technology | [Read More](https://medium.com/p/6fdde6fa8794) |
-| Tue, 18 Nov 2025 09:03:01 GMT | From One Free Search to 24/7 Monitoring: How Teams Turn LeakRadar Into an Early-Warning System | Alexandre Vandamme | [Read More](https://medium.com/p/a7b1ea04d8f3) |
-| Tue, 18 Nov 2025 09:02:24 GMT | 20+ Vulnerabilities in a Static Website | Saurabh Jain | [Read More](https://medium.com/p/2f32a4902377) |
