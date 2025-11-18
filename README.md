@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 07:11:54 GMT | Threat Hunting based on Tor Exit Nodes (+ KQLs queries) | Sergio Albea | [Read More](https://medium.com/p/4cf9ebd33cda) |
+| Tue, 18 Nov 2025 07:08:08 GMT | Simplifying OAuth 2.0 | Juhie Motiani | [Read More](https://medium.com/p/1b45a815c11f) |
+| Tue, 18 Nov 2025 07:05:14 GMT | Private Proxy USA Routing for Stable Identity and Automation Workflows | ProposalPundit | [Read More](https://medium.com/p/5de4732c5a03) |
+| Tue, 18 Nov 2025 07:02:05 GMT | Why Security Guard Services Are Essential Today: A Complete Guide to Top Security Services for… | Ciss India | [Read More](https://medium.com/p/c629fce633ef) |
+| Tue, 18 Nov 2025 07:00:28 GMT | Third-Party RiskWhat To Know About The Evolving Face of Third-Party Risk? | Beaconer | [Read More](https://medium.com/p/1044d0b60bf6) |
+| Tue, 18 Nov 2025 07:00:02 GMT | Secure by Default: A Practical SDLC for Supply-Chain Attacks and SBOMs | Ismat Babirli | [Read More](https://medium.com/p/80e11839487d) |
+| Tue, 18 Nov 2025 06:52:44 GMT | What Does It Take to Succeed in Business, Cybersecurity, and Digital Marketing? | Vijay Kumar Gupta | [Read More](https://medium.com/p/d807e5b2271d) |
+| Tue, 18 Nov 2025 06:47:36 GMT | More Than Vandalism | Charles Mwaniki | [Read More](https://medium.com/p/abc3c23a59a7) |
+| Tue, 18 Nov 2025 06:44:18 GMT | August hacks Analysis and Overview | Sisi | [Read More](https://medium.com/p/f1e80d24c42e) |
+| Tue, 18 Nov 2025 06:42:38 GMT | Japan Web Proxy Server Routing for Consistent Regional Automation | GovernanceGolem | [Read More](https://medium.com/p/e05dbbd37ed0) |
+| Tue, 18 Nov 2025 06:41:37 GMT | Concurrency Testing: Maintaining Data Consistency | Shubham Joshi | [Read More](https://medium.com/p/dcc31e53dfc5) |
+| Tue, 18 Nov 2025 06:34:36 GMT | Excessive trust in client-side controls (Business Logic — Portswigger Lab) | Mirage Insights | [Read More](https://medium.com/p/2794c42e39f6) |
+| Tue, 18 Nov 2025 06:33:57 GMT | TryHackMe — Django: CVE-2025–64459/Walkthrough with Answers | Anandkumar k | [Read More](https://medium.com/p/3734e805a5fa) |
+| Tue, 18 Nov 2025 06:33:51 GMT | Unleash the Dark Web’s Secrets!!! | cybrNK | [Read More](https://medium.com/p/edb505c1cce9) |
+| Tue, 18 Nov 2025 06:31:01 GMT | How to Implement ISO 27001: A Practical Guide | NidaWaqas | [Read More](https://medium.com/p/6ab9e997bc16) |
+| Tue, 18 Nov 2025 06:30:45 GMT | Top 10 Free Cybersecurity Tools | CodeZen | [Read More](https://medium.com/p/e7177eb50992) |
 | Tue, 18 Nov 2025 06:30:25 GMT | Fake Users, Real Damage — A Story of How Platforms Lose Millions Without Realizing It | Gokul Nair | [Read More](https://medium.com/p/be7846d0f055) |
 | Tue, 18 Nov 2025 06:26:34 GMT | What Are the Key Components of a Phishing Simulation? A Practical Guide for Modern Organizations | Securis360 Inc. | [Read More](https://medium.com/p/b7c68314ff72) |
 | Tue, 18 Nov 2025 06:20:33 GMT | Chrome Fake Wallet Scandal: A Wake-Up Call for Crypto Security — And Digital Shield’s Response | Digital Shield Offcial | [Read More](https://medium.com/p/a079f8c3493e) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 22:13:30 GMT | Data HTB Machine Walk-Through | Nmullenski | [Read More](https://medium.com/p/9ab185032975) |
 | Mon, 17 Nov 2025 22:02:21 GMT | Cómo frenar el Cross-Site Scripting en 5 pasos | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/9594edaf534b) |
 | Mon, 17 Nov 2025 21:59:38 GMT | How to Ensure Maximum Security in Your Data Room | IT_Engineer | [Read More](https://medium.com/p/8a25f84d7221) |
-| Mon, 17 Nov 2025 21:50:21 GMT | The Experience Equation | Chris Perkins | [Read More](https://medium.com/p/74953a64c03f) |
-| Mon, 17 Nov 2025 21:50:14 GMT | Shadow Track — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/309f671d8f24) |
-| Mon, 17 Nov 2025 21:48:55 GMT | Rompiendo Sombras: Guía de John the Ripper | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/568a48ecc280) |
-| Mon, 17 Nov 2025 21:38:21 GMT | Forget “Locking It Down.” The Real Goal Is “Seeing It Change. | Ashe Sule | [Read More](https://medium.com/p/ba4142fa7108) |
-| Mon, 17 Nov 2025 21:30:27 GMT | Django: CVE-2025–64459 — tryhackme | G MRSY | [Read More](https://medium.com/p/d5f6423e9639) |
-| Mon, 17 Nov 2025 21:30:18 GMT | AI Porn Is Winning. AI Security Is Losing. And Nobody Wants To Admit It. | Jon Capriola | [Read More](https://medium.com/p/27ca427f5127) |
-| Mon, 17 Nov 2025 21:27:01 GMT | Data Heist — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/97a8feafbf88) |
-| Mon, 17 Nov 2025 21:26:44 GMT | Investigating Letsdefend’s SOC140 — Phishing Mail Detected — Suspicious Task Scheduler (Event ID… | Faree | [Read More](https://medium.com/p/59920caa1f68) |
-| Mon, 17 Nov 2025 21:23:01 GMT | The Night the Machines Broke In: Why AI-Fueled Cyberattacks Just Rewrote the Security Rulebook | Anindya Mishra | [Read More](https://medium.com/p/a65e428b99bd) |
-| Mon, 17 Nov 2025 21:09:58 GMT | Certified AI/ML Pentester (C-AI/MLPen) Exam Review | Ihor Sasovets | [Read More](https://medium.com/p/93813e80b628) |
-| Mon, 17 Nov 2025 21:07:55 GMT | Threat Modeling — Thinking on Security Before Writing Code — The Big Roll Back #02 | Kelvin Santos[zdk] | [Read More](https://medium.com/p/07f6a5f44152) |
-| Mon, 17 Nov 2025 21:02:01 GMT | Outbound  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/0fa8ea412990) |
-| Mon, 17 Nov 2025 20:58:14 GMT | My journey to helping Colorado State University Pueblo achieve first place in the NCL Cybersecurity… | diGi | [Read More](https://medium.com/p/d9504b1efb50) |
-| Mon, 17 Nov 2025 20:57:21 GMT | The Cybersecurity Sentinel (November 2025) | Franklin Rhodes | [Read More](https://medium.com/p/4a72f20b7ad4) |
-| Mon, 17 Nov 2025 20:52:32 GMT | Beyond Borders: From Battlefield to Browser: Faridabad Files | Krishna Garg | [Read More](https://medium.com/p/641d05a72698) |
-| Mon, 17 Nov 2025 20:49:34 GMT | Ben Neden Siber Güvenlikçi Olmak İstiyorum? Bir IT’cinin İç Dökmeleri | Abdullah HANÇERLİ | [Read More](https://medium.com/p/edd68ec585f3) |
