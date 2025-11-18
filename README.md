@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 15:14:22 GMT | Past Endeavours in Addressing The Love of Paper Across the European Union | Letro | [Read More](https://medium.com/p/d380201133f3) |
+| Tue, 18 Nov 2025 15:11:46 GMT | Privacy and M&A: The New Frontier for Security Teams | Hello @ Octellient | [Read More](https://medium.com/p/98e2207ce90e) |
+| Tue, 18 Nov 2025 15:08:22 GMT | Chaos on the Web: Cloudflare Outage Takes Down AI, Social Media, and More | Athirani | [Read More](https://medium.com/p/b10973049a13) |
+| Tue, 18 Nov 2025 15:02:32 GMT | FCC to Reverse Telecom Cyber Rules: What CISOs Need to Know Now | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/1a49e19f1d0c) |
+| Tue, 18 Nov 2025 15:02:01 GMT | Cyber Briefing: 2025.11.18 | CyberMaterial | [Read More](https://medium.com/p/90b0daab686c) |
+| Tue, 18 Nov 2025 14:49:45 GMT | Let’s Talk DNS: The Internet’s Phone Book.… Cloudflare? | Carita Emelie | [Read More](https://medium.com/p/7d07cdafcbb5) |
+| Tue, 18 Nov 2025 14:48:24 GMT | Cloudflare outage and cybersecurity | Rebecca Trocki | [Read More](https://medium.com/p/2ad211364769) |
+| Tue, 18 Nov 2025 14:44:14 GMT | Installing and Configuring Wazuh on Ubuntu (with Windows Agent & Sysmon Integration) | Aisha B. B | [Read More](https://medium.com/p/018442a17f5e) |
+| Tue, 18 Nov 2025 14:43:58 GMT | AI Cybersecurity Reality Check: Agentic Attacks, Supply Chain Nightmares, and the New Normal | Monroe Rodriguez | [Read More](https://medium.com/p/d88cc5c20cbc) |
+| Tue, 18 Nov 2025 14:43:45 GMT | Prompt Injection Isn’t Theoretical Anymore: What Academic Paper Manipulation Tells Us About AI… | Kaustubh Phatak | [Read More](https://medium.com/p/5d94f7fc85c9) |
 | Tue, 18 Nov 2025 14:36:41 GMT | How i was able to find my first 3 bugs in bugcrowd | mrx_w_ | [Read More](https://medium.com/p/77a1b673ed90) |
+| Tue, 18 Nov 2025 14:35:36 GMT | Every Cloud Outage Was One of the 30 Targets: The Anthropic/Claude AI Hacking Incident and the Real… | Monroe Rodriguez | [Read More](https://medium.com/p/a46a67a0a284) |
 | Tue, 18 Nov 2025 14:25:52 GMT | Cloudflare isCloudflare Internal Server Error 500 | Ashar Arif | [Read More](https://medium.com/p/1bcbf3dd9756) |
 | Tue, 18 Nov 2025 14:25:52 GMT | Why brilliant people still use one single password. | EdenBlue | [Read More](https://medium.com/p/fd160437bafd) |
 | Tue, 18 Nov 2025 14:25:04 GMT | Mr. Robot CTF — TryHackme Walkthrough | Cypher.One | [Read More](https://medium.com/p/3482e1b358c5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 10:01:51 GMT | Zuri Ozeomachukwu Njoku Discusses Strengthening Digital Foundations for Organizations | Zuri Njoku | [Read More](https://medium.com/p/17f8e9d31938) |
 | Tue, 18 Nov 2025 10:00:12 GMT | Flutter Cybersecurity | Punith S Uppar | [Read More](https://medium.com/p/d4cbf0ba0f4c) |
 | Tue, 18 Nov 2025 09:58:52 GMT | How to Disable Qustodio for Unrestricted Online Activity | Awais Khan | [Read More](https://medium.com/p/24d0dd78e2ab) |
-| Tue, 18 Nov 2025 09:58:13 GMT | New UK law mandates 24-hour Cyberattack reporting — The UK Cyber Resilience Bill: What SME… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/023532d2d973) |
-| Tue, 18 Nov 2025 09:52:16 GMT | How Self-Service Kiosk Machines Increase Sales and Customer Loyalty | Rakesh | [Read More](https://medium.com/p/d7cf02ebbadd) |
-| Tue, 18 Nov 2025 09:50:03 GMT | From Pixels to Profits: How Designers Win Big with Reseller Hosting? | Janet Watson | [Read More](https://medium.com/p/f7a06d1bf5b5) |
-| Tue, 18 Nov 2025 09:49:49 GMT | When AI Turns Against You: Malware, Spy Campaigns, Scam Ads and the Fight For Your Data | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/44907ff36d3f) |
-| Tue, 18 Nov 2025 09:48:35 GMT | DockerLabs Writeup — Gitea (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/8ced40326f31) |
-| Tue, 18 Nov 2025 09:47:29 GMT | I’m Back, and This Time I’m Not Running From Myself | Lucy Loo | [Read More](https://medium.com/p/13160c9a21ec) |
-| Tue, 18 Nov 2025 09:46:46 GMT | NIGERIANS, WE MUST STOP AMPLIFYING THE TERRORIST AGENDA | Abduljalil Hassan Muhammad | [Read More](https://medium.com/p/e1b366c3b762) |
-| Tue, 18 Nov 2025 09:46:01 GMT | Home Security — Target Security Group Malawi | Target securitygroup | [Read More](https://medium.com/p/636d60a50c30) |
-| Tue, 18 Nov 2025 09:43:25 GMT | Ethical Hacking Certification Course Duration in Delhi (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/f28b48d6b0bf) |
-| Tue, 18 Nov 2025 09:40:04 GMT | Nigeria's Security Crisis | The Kronichles Of Kuranen (The K of K) | [Read More](https://medium.com/p/a3d3b91e940e) |
-| Tue, 18 Nov 2025 09:36:30 GMT | Why Your Agentforce POC Will Fail: An Architect’s Pre-Mortem | Pedro Távora Santos | [Read More](https://medium.com/p/1be74f2b43db) |
