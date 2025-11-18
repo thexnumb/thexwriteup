@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 03:01:07 GMT | Cross-Site Scripting in Bug Bounty | ToxSec | [Read More](https://medium.com/p/d45daa7210c5) |
+| Tue, 18 Nov 2025 02:31:05 GMT | TryHackMe — Farewell Walkthrough (Full Write-Up) | SmaRTy | [Read More](https://medium.com/p/fa42afd90f9c) |
+| Tue, 18 Nov 2025 02:27:20 GMT | apan Proxy Server Routing for Stable Automation Workloads | SnapshotSage | [Read More](https://medium.com/p/e471b7738700) |
+| Tue, 18 Nov 2025 02:02:54 GMT | What Changes After AI? — Skill Gain | Monu Jangra | [Read More](https://medium.com/p/25b94677be6f) |
+| Tue, 18 Nov 2025 01:51:29 GMT | Building a Production-Ready Secure MCP Server with Python | Achref Tlili | [Read More](https://medium.com/p/13b583e18d2d) |
+| Tue, 18 Nov 2025 01:42:02 GMT | Discovering True Security: What Women Truly Desire in a Relationship | anni | [Read More](https://medium.com/p/d9a321dd11e2) |
 | Tue, 18 Nov 2025 01:40:43 GMT | SOC127 — SQL Injection Detected (LetsDefend) — Professional Rewrite | ahmed mostafa | [Read More](https://medium.com/p/6888a44f83df) |
 | Tue, 18 Nov 2025 01:33:10 GMT | OWASP Top 10 2025 — TryHackMe | Mr.Cool | [Read More](https://medium.com/p/d3093a8516cf) |
 | Tue, 18 Nov 2025 01:32:20 GMT | A Free Hands-On Threat Hunting Lab in Elastic SIEM | Dhruv Patel | [Read More](https://medium.com/p/d7c3cfdf92b5) |
@@ -25,11 +31,13 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 00:25:06 GMT | THM- One Piece Writeup | cbev | [Read More](https://medium.com/p/b461d5b2269c) |
 | Tue, 18 Nov 2025 00:16:49 GMT | SOC L1 Alert Reporting | Demegorash | [Read More](https://medium.com/p/4af68a0a7896) |
 | Tue, 18 Nov 2025 00:16:45 GMT | THM - Shock and Silence | Francesco Pastore | [Read More](https://medium.com/p/b240c19c7059) |
+| Tue, 18 Nov 2025 00:12:46 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Noviembre 2025 | Tiziano Mass | [Read More](https://medium.com/p/fa953400101a) |
 | Tue, 18 Nov 2025 00:02:04 GMT | API2:2023 Broken Authentication: Fallos Críticos de Identidad en APIs y Ataques JWT | JPablo13 | [Read More](https://medium.com/p/9c91d58fd739) |
 | Tue, 18 Nov 2025 00:02:04 GMT | Kerberoasting: Stealing Service Account Passwords from Kerberos Tickets | Cybersecurity Simplified | [Read More](https://medium.com/p/968d94416cd3) |
 | Mon, 17 Nov 2025 23:51:42 GMT | Virtual Security Guard CCTV Camera Monitoring for your Property | Visual Monitoring Solutions | [Read More](https://medium.com/p/dfd0be386f79) |
 | Mon, 17 Nov 2025 23:45:18 GMT | DorkFi: The Triumph of a Team You Can Trust | DorkFi | [Read More](https://medium.com/p/12702dcc0d99) |
 | Mon, 17 Nov 2025 23:37:18 GMT | Security Officer Sacramento - Licensed Security Guard | james carter | [Read More](https://medium.com/p/d9ded6a0b213) |
+| Mon, 17 Nov 2025 23:25:16 GMT | DOM Clobbering XSS — vulnbydefault Write-Up | Bader ALmutairi | [Read More](https://medium.com/p/f6bb6a412de8) |
 | Mon, 17 Nov 2025 23:12:45 GMT | Eviction — THM Challenge Write-up | Radulescu Alexandru-Gabriel | [Read More](https://medium.com/p/f3bb3dacf236) |
 | Mon, 17 Nov 2025 23:10:15 GMT | DNS Tunneling and Covert Communication Channels Explained | Eric Howard, Ph. D. | [Read More](https://medium.com/p/bed354f797d1) |
 | Mon, 17 Nov 2025 22:59:28 GMT | Guardrails for the Machine Mind: The Future of AI Security | Marwan | [Read More](https://medium.com/p/d1318673fa70) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 17:25:49 GMT | Reinventing Background Checks with Steven Ward | Jason Sherman | [Read More](https://medium.com/p/c5ff6b4a823a) |
 | Mon, 17 Nov 2025 17:23:17 GMT | AppSec with AI: I Combined Ollama, Nessus, and BurpSuite MCP | Tahir Khatri | [Read More](https://medium.com/p/1cb84ca430dc) |
 | Mon, 17 Nov 2025 17:15:06 GMT | The New Normal of Cyberattacks: Why Both Developers and Ordinary People Are Now in the Blast Radius | Abatis ABTU | [Read More](https://medium.com/p/376cd0f5db7e) |
-| Mon, 17 Nov 2025 17:13:13 GMT | Hack My Car: The Dark Reality of Cyber Car Theft — How to Protect Your Vehicle from Digital… | Piotrmak Marko | [Read More](https://medium.com/p/c6cb9fdbe17a) |
-| Mon, 17 Nov 2025 17:12:41 GMT | Security Controls Demystified — 5 Key Lessons (Explained the Way I Learned Them) ~10 min read | D3ad_M3m0r13s | [Read More](https://medium.com/p/03f6e1a24749) |
-| Mon, 17 Nov 2025 17:11:47 GMT | Common Points We Usually Miss in Automation Testing | Abu Talha | [Read More](https://medium.com/p/8cd534776a02) |
-| Mon, 17 Nov 2025 17:02:11 GMT | OSCP Grind - PG Practice - Kevin | Mr Jokar | [Read More](https://medium.com/p/70edf532b3c9) |
-| Mon, 17 Nov 2025 17:02:07 GMT | 5 Zero-Downtime Auth Flows for FastAPI | Syntal | [Read More](https://medium.com/p/fc6cbda48156) |
-| Mon, 17 Nov 2025 17:02:06 GMT | Free VPN: How to Use One Without Spending a Cent | Sergey Sokulsky | [Read More](https://medium.com/p/f2a1b5e3f399) |
-| Mon, 17 Nov 2025 16:51:04 GMT | AI / LLM Hacking — Part 8 — Misinformation & Overreliance - Unbounded Consumption - MDoS - Model… | Darshan Naresh Naik | [Read More](https://medium.com/p/d1cee7d625d2) |
-| Mon, 17 Nov 2025 16:48:01 GMT | DC-1 VulnHub Walkthrough: Complete Beginner’s Guide | Ajmir khan | [Read More](https://medium.com/p/fbd774a7c329) |
