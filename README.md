@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 04:16:31 GMT | How Blockchain Ensures Security and Transparency | idcyrpt | [Read More](https://medium.com/p/dfbe5f4b1fe5) |
+| Tue, 18 Nov 2025 04:00:24 GMT | If JWTs Can Shared, Are They Really Secure? | Vaibhav Singh | [Read More](https://medium.com/p/8b4ddc0d0c45) |
 | Tue, 18 Nov 2025 03:40:37 GMT | Jaringan Komputer : Konfigurasi Mikrotik, DHCP Server & DHCP Client | Yasa Wijaya | [Read More](https://medium.com/p/98975b6f1a6d) |
 | Tue, 18 Nov 2025 03:40:02 GMT | DevSecOps Is the New Norm: Embedding Security Into DevOps Workflows | Ram Milan | [Read More](https://medium.com/p/d0b172163b22) |
 | Tue, 18 Nov 2025 03:38:34 GMT | All Quiet on the Agent Front: A Glimpse of Modern Warfare from the Claude Incident | Yasushi Oh | [Read More](https://medium.com/p/a175b48f9df3) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 18:01:30 GMT | ️ Advanced Log Correlation Scenarios: Maximizing SOC Detection Capabilities | Esra Kayhan | [Read More](https://medium.com/p/2a89a4f8ed01) |
 | Mon, 17 Nov 2025 17:59:11 GMT | AI: The Boon and the Threat — How Artificial Intelligence Is Reshaping Data Science & Analytics… | Naman Gupta | [Read More](https://medium.com/p/5ffc24140b4e) |
 | Mon, 17 Nov 2025 17:58:16 GMT | API Security Mastery: A Developer’s Guide to Stopping SQL Injections and DDoS Attacks | Nilutpal | [Read More](https://medium.com/p/2b86bbaf9a1e) |
-| Mon, 17 Nov 2025 17:58:12 GMT | 100TB SSD: What It Is, Why It Matters, and What’s Next” | EINITIAL24 | [Read More](https://medium.com/p/edf30fcce782) |
-| Mon, 17 Nov 2025 17:49:24 GMT | Explaining Bash in the Easiest Way | Vaishnav S | [Read More](https://medium.com/p/8591b65c7b0c) |
