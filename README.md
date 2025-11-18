@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 22:34:18 GMT | I Watched a Phishing Attack Happen in Real Time ..Here’s the Part Hackers Don’t Want You to See | Caleb Mingle | [Read More](https://medium.com/p/52680956f55b) |
+| Tue, 18 Nov 2025 22:33:09 GMT | LinkedIn Has Become the New Phishing Playground | Cyber-AppSec | [Read More](https://medium.com/p/bc3794f44aeb) |
+| Tue, 18 Nov 2025 22:32:30 GMT | Chasing what....? | Nazma Sultana | [Read More](https://medium.com/p/85f40056d3da) |
+| Tue, 18 Nov 2025 22:26:21 GMT | Adversarial Red Game: Surviving the LLM Arena of Squid Game | Onurcan Genç | [Read More](https://medium.com/p/1a89df09abd5) |
+| Tue, 18 Nov 2025 22:21:27 GMT | Introducing the Fortress Protocol Landing Page | Fortress Protocol | [Read More](https://medium.com/p/accc71763119) |
 | Tue, 18 Nov 2025 21:56:07 GMT | 30 Days of Red Team: Day 7 — Week 1 Integration & Practice | Maxwell Cross | [Read More](https://medium.com/p/4840f85389a3) |
 | Tue, 18 Nov 2025 21:43:24 GMT | Process Migration | S12 - 0x12Dark Development | [Read More](https://medium.com/p/dc9ff6d4b5cf) |
 | Tue, 18 Nov 2025 21:35:40 GMT | CFOs Are From Mars, CIOs From GitHub | Dr Tyrone Grandison | [Read More](https://medium.com/p/bd24db1e4956) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 15:40:51 GMT | Beyond Compliance: Why OT Red Teaming Proves Actual Resilience Over Paper Readiness | Gary S Mullen | [Read More](https://medium.com/p/05cf2f7c9526) |
 | Tue, 18 Nov 2025 15:33:51 GMT | What Happens When You Visit a Website? | R1punjay_Singh | [Read More](https://medium.com/p/b2fd0737d540) |
 | Tue, 18 Nov 2025 15:32:55 GMT | How Chinese Hackers Used Anthropic’s Claude to Automate Cyberattacks: A New Era of AI-Driven… | Faisal Khan | [Read More](https://medium.com/p/0a0f4c7f1500) |
-| Tue, 18 Nov 2025 15:24:51 GMT | The Bank Staff Impersonation & OTP Scam | Oludare Stephen Ayobami | [Read More](https://medium.com/p/b8f7c02a0e39) |
-| Tue, 18 Nov 2025 15:24:31 GMT | The Disruptive Workforce: Psychological Deterrence Through Security-Minded Behaviour | Resilience Reflections | [Read More](https://medium.com/p/c0e5bfb0a4cd) |
-| Tue, 18 Nov 2025 15:24:02 GMT | Keychain vs Secure Enclave — A Complete, Practical Guide for iOS Developers | AmitAswal | [Read More](https://medium.com/p/9b2c04ba7a6a) |
-| Tue, 18 Nov 2025 15:23:16 GMT | Vendor Offboarding in 20 Minutes (From My Kitchen Table) | LaJuan Grier/ Juannilicious | [Read More](https://medium.com/p/c39de74e4239) |
-| Tue, 18 Nov 2025 15:16:58 GMT | The Best VS Code Options for Kali Linux (2025 Guide) | ghostyjoe | [Read More](https://medium.com/p/fb2d13329391) |
