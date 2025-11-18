@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 14:11:24 GMT | Cyber Hygiene Assistant: A Modern Approach to Everyday Digital Safety | Chandan Raj | [Read More](https://medium.com/p/ad9b62959b24) |
+| Tue, 18 Nov 2025 13:50:15 GMT | BREAKING NEWS: Global Cloudflare Outage Triggers Mass Internet Failures, Underscoring Dual-Use Risk… | Berend Watchus | [Read More](https://medium.com/p/bec24572cba8) |
+| Tue, 18 Nov 2025 13:46:37 GMT | How to Open a Garage Door If the Spring Is Broken: Safe DIY Steps | 24H Garage Doors | [Read More](https://medium.com/p/b824a2f395f2) |
+| Tue, 18 Nov 2025 13:46:25 GMT | Fix “Please Unblock challenges.cloudflare.com to Proceed” Error: Quick & Trusted Solutions | Radha Kulkarni | [Read More](https://medium.com/p/3605868bfd44) |
+| Tue, 18 Nov 2025 13:42:28 GMT | Top CMMC Compliance Challenges Faced by New York Organizations and How to Overcome Them | Compciti | [Read More](https://medium.com/p/b5afd6a7dc2e) |
+| Tue, 18 Nov 2025 13:31:23 GMT | Advantages And Disadvantages Of Ethical Hacking | Irfan Sharief | [Read More](https://medium.com/p/5b87b39ea709) |
 | Tue, 18 Nov 2025 13:28:26 GMT | # How I Fingerprinted the OpenAI 2025 ChatGPT Containers (Using Only the Free Tier) | ANTIBUGS | [Read More](https://medium.com/p/4be9c2740fd2) |
 | Tue, 18 Nov 2025 13:27:24 GMT | AI — Why You Won’t See It Coming | Egor Ryashin | [Read More](https://medium.com/p/b886d1cb0bdb) |
 | Tue, 18 Nov 2025 13:26:47 GMT | GitHub Dorking: The Hunter’s Guide to Finding Secrets in Public Code | N0aziXss | [Read More](https://medium.com/p/f1b8582309e8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 09:05:05 GMT | How IT Advisory Services Drive Sustainable Business Growth | Total Computer Technology | [Read More](https://medium.com/p/6fdde6fa8794) |
 | Tue, 18 Nov 2025 09:03:01 GMT | From One Free Search to 24/7 Monitoring: How Teams Turn LeakRadar Into an Early-Warning System | Alexandre Vandamme | [Read More](https://medium.com/p/a7b1ea04d8f3) |
 | Tue, 18 Nov 2025 09:02:24 GMT | 20+ Vulnerabilities in a Static Website | Saurabh Jain | [Read More](https://medium.com/p/2f32a4902377) |
-| Tue, 18 Nov 2025 09:00:33 GMT | Cybersecurity Has a Pricing Problem — And No One Talks About It | SilentWire Cybersecurity | [Read More](https://medium.com/p/86abdfdad64e) |
-| Tue, 18 Nov 2025 08:59:32 GMT | Installing Burp Suite’s CA As A System Certificate On Android | Redfox Security | [Read More](https://medium.com/p/889b0aa3d98b) |
-| Tue, 18 Nov 2025 08:55:48 GMT | cybersecurity faq | C | [Read More](https://medium.com/p/3b40e3ca6faa) |
-| Tue, 18 Nov 2025 08:52:27 GMT | eWPTXv3 Exam Review | Sudeepa Shiranthaka | [Read More](https://medium.com/p/447ff8c3aa7d) |
-| Tue, 18 Nov 2025 08:50:08 GMT | SITA — An AI-Powered Real-Time Log Analyzer for Developers | Maram Srinivasulu reddy | [Read More](https://medium.com/p/5c862b9dd875) |
-| Tue, 18 Nov 2025 08:46:31 GMT | Identity Drift (IDOR) CTF Challenge | Ahmed Mapher | [Read More](https://medium.com/p/8a88d5a2c9d5) |
