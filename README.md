@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 12:40:52 GMT | Bashed — Write-up | Taxaneh | [Read More](https://medium.com/p/52966f6e8539) |
+| Tue, 18 Nov 2025 12:37:26 GMT | HTB Academy: SQL Injection Fundamentals — Skills Assessment | Oddshell | [Read More](https://medium.com/p/031ca15a30a4) |
+| Tue, 18 Nov 2025 12:34:31 GMT | How I Built a Robot That Finds Broken Authorization While I Sleep | Iski | [Read More](https://medium.com/p/458e94f4d879) |
+| Tue, 18 Nov 2025 12:26:16 GMT | The Myth of the Beauty in Falling Apart | Aiswarya Shivasankaran | [Read More](https://medium.com/p/5a08c0d5fad5) |
+| Tue, 18 Nov 2025 12:18:59 GMT | Diploma and Certificate Courses in Australia — Build Practical Skills for a Successful Career | AIST | [Read More](https://medium.com/p/e06bfbb8a727) |
+| Tue, 18 Nov 2025 12:17:35 GMT | The Strategic Advantage of a CMS-Powered Website for Scalable Growth | Dineshsvaan | [Read More](https://medium.com/p/4f5987c31a99) |
+| Tue, 18 Nov 2025 12:16:54 GMT | How One Book Changed My Entire Approach to Penetration Testing | Aj | [Read More](https://medium.com/p/58680ccd85d6) |
+| Tue, 18 Nov 2025 12:16:28 GMT | Kamu Harus Melek Pentingnya Privasi | Hartzel | [Read More](https://medium.com/p/ab39a9846a30) |
+| Tue, 18 Nov 2025 12:15:32 GMT | Ring Battery Doorbell Pro: Cutting-Edge 1536p Head-to-Toe Security for Your Home | Tried & True Reviews | [Read More](https://medium.com/p/208441fd71fa) |
+| Tue, 18 Nov 2025 12:15:04 GMT | The Rebirth of a Man Who Finally Let Himself Feel | Medium | [Read More](https://medium.com/p/6eee6d03c257) |
+| Tue, 18 Nov 2025 12:14:52 GMT | LLMScanPro — LLM models vulnerability scanner | Deepanshu khanna | [Read More](https://medium.com/p/c4b584d4ef0f) |
+| Tue, 18 Nov 2025 12:12:29 GMT | Microsoft Releases Emergency Windows 10 Update to Fix Extended Security Update Installation Errors | Technijian | [Read More](https://medium.com/p/ddd5c10f5a6a) |
+| Tue, 18 Nov 2025 12:12:01 GMT | Write-up : Simple CTF — TryHackMe | DylanSec | [Read More](https://medium.com/p/6fdb8c0de708) |
+| Tue, 18 Nov 2025 12:11:26 GMT | The Five Domains of Cybersecurity: A Comprehensive Framework | Samina Perveen | [Read More](https://medium.com/p/4d0d771c73fc) |
+| Tue, 18 Nov 2025 12:10:25 GMT | Digital Emergency Assistant: Your Data & System Lifesaver in the Digital Era | Dwi Pratama | [Read More](https://medium.com/p/08d2b3f90e7d) |
+| Tue, 18 Nov 2025 12:10:00 GMT | Detecting DCSync Attacks: The Silent Domain Takeover Most SOCs Miss | Aufarifqi | [Read More](https://medium.com/p/52cda0ae6358) |
+| Tue, 18 Nov 2025 12:02:03 GMT | Did China Really Use Claude AI to Hack 30 Companies? | MKWriteshere | [Read More](https://medium.com/p/70948b5d15ac) |
+| Tue, 18 Nov 2025 12:00:28 GMT | Today’s Top Cyber Intelligence Highlights — Nov 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/74de973650a5) |
+| Tue, 18 Nov 2025 11:57:02 GMT | CISA Hiring Surge 2026: What It Means for Your Cybersecurity Strategy | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/215c5b31cb17) |
+| Tue, 18 Nov 2025 11:54:20 GMT | The Art of Cryptography | Mahad Aqeel | [Read More](https://medium.com/p/7c39fa704f4f) |
+| Tue, 18 Nov 2025 11:53:36 GMT | Cyber Security Analyst Career Path: Skills, Roles, and Growth Opportunities in 2026 | Crawsec | [Read More](https://medium.com/p/8e01e7d96038) |
+| Tue, 18 Nov 2025 11:50:32 GMT | The Border is Closed: How Pakistan-Afghanistan Tensions Threaten Regional Stability | MASUM BILLAH | [Read More](https://medium.com/p/5f3d90ae9729) |
+| Tue, 18 Nov 2025 11:48:24 GMT | AUTHENTIC PAYPAL DL CC ATM cloned cards Bank Cashapp Wu CASH TRANSFERS Criminal Record cleared… | Randal Wood | [Read More](https://medium.com/p/48331267f52c) |
+| Tue, 18 Nov 2025 11:48:10 GMT | Achieving IT Cost Reduction and Efficiency Gains Through ServiceNow ITOM | Alex s | [Read More](https://medium.com/p/cfb81d2f3fb2) |
+| Tue, 18 Nov 2025 11:45:24 GMT | How I Learned to Be Mentally Strong: A Journey Worth Taking | Lucy Loo | [Read More](https://medium.com/p/5913dfe6cf55) |
+| Tue, 18 Nov 2025 11:32:00 GMT | Networking 101: Updating Firmware Manually on Nomadix AG 5900 | Gukesh Ramashwani | [Read More](https://medium.com/p/bad009c4e53e) |
 | Tue, 18 Nov 2025 11:28:59 GMT | Best Ethical Hacking Course in Mohali - CEH Training Chandigarh — techcadd | Simranjit Kaur | [Read More](https://medium.com/p/9961332aac3f) |
 | Tue, 18 Nov 2025 11:23:42 GMT | The Art of Wi-Fi Hacking & Protection with Aircrack-ng | Gopi Mukka | [Read More](https://medium.com/p/ad7d363647e1) |
 | Tue, 18 Nov 2025 11:21:38 GMT | Local SEO Company in Utah: Your Key to Ranking Higher and Getting More Local Customers | Hary Battler | [Read More](https://medium.com/p/97fe42b3cec6) |
@@ -27,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 11:03:30 GMT | The Linux Advantage: Why a Cheap Linux Server Can Power Big Ambitions | Andy | [Read More](https://medium.com/p/6c6809ea0a6d) |
 | Tue, 18 Nov 2025 10:56:19 GMT | Zero Trust Isn’t a Framework — It’s a Wake-Up Call for Modern Security | Devarshi Acharya | [Read More](https://medium.com/p/86b617096540) |
 | Tue, 18 Nov 2025 10:56:03 GMT | Zero Trust Architecture: Why the Future of Security Starts With Eliminating Assumptions | Devarshi Acharya | [Read More](https://medium.com/p/ecb23bf75e55) |
+| Tue, 18 Nov 2025 10:53:05 GMT | If Your Zodiac Sign Was A Malicious Virus | Lynn Elena Torbay | [Read More](https://medium.com/p/8bddbe2fcd6d) |
 | Tue, 18 Nov 2025 10:51:01 GMT | Your Guide to HTTPS & TLS for Node.js | Manish Prasad | [Read More](https://medium.com/p/56ae77ee12e1) |
 | Tue, 18 Nov 2025 10:49:01 GMT | Why 2025 Marks the End of Traditional Cybersecurity in Finance | Legal Thoughts | [Read More](https://medium.com/p/a29d35c47722) |
 | Tue, 18 Nov 2025 10:45:46 GMT | Broken Link Hijacking: Explained Simply | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/cacdbf2f3df7) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 08:04:36 GMT | Here’s how a Cyber Security Degree from George College can transform your future in IT security. | Ritik | [Read More](https://medium.com/p/87280e1635bc) |
 | Tue, 18 Nov 2025 08:03:49 GMT | When Privacy Clashes with Safety: Kerala HC balances Article 21 Rights. | Seema | [Read More](https://medium.com/p/372af3d9df78) |
 | Tue, 18 Nov 2025 08:02:01 GMT | Why is self-hosting replacing cloud services? | MyChat team | [Read More](https://medium.com/p/3440963ea578) |
-| Tue, 18 Nov 2025 07:58:39 GMT | Google Issues Emergency Fix for Actively Exploited Chrome V8 Zero-Day: What You Need to Know Now | Germano Costi | [Read More](https://medium.com/p/96d93c3bfece) |
-| Tue, 18 Nov 2025 07:58:19 GMT | My First Web Hack | Cheethan | [Read More](https://medium.com/p/a74164572803) |
-| Tue, 18 Nov 2025 07:49:58 GMT | Modern SSRF — Part 1: From Blind Requests to Cloud Risk (Beginner-Friendly) | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/4e3805641c5c) |
-| Tue, 18 Nov 2025 07:46:57 GMT | Tor and Privacy in the Digital Age | Red | [Read More](https://medium.com/p/d17feaa9e643) |
-| Tue, 18 Nov 2025 07:46:19 GMT | The Digital Detective: Synthesis | David ONeal | [Read More](https://medium.com/p/745637ddd3dc) |
-| Tue, 18 Nov 2025 07:44:27 GMT | Overconfidence, Blind Spots, and Breaches: Cyber Lessons from History | Fook Hwa Tan | [Read More](https://medium.com/p/f274f81b7866) |
-| Tue, 18 Nov 2025 07:43:05 GMT | Signs Your Org Actually Has a Security Culture (Not Just Posters) | Fook Hwa Tan | [Read More](https://medium.com/p/12a208b3f9af) |
-| Tue, 18 Nov 2025 07:42:39 GMT | Securing Next.js Applications: Authentication, Authorization, and Beyond | Lucas Wade | [Read More](https://medium.com/p/c4355efbbe82) |
-| Tue, 18 Nov 2025 07:40:10 GMT | Ghost Protocol: Anonymity vs. Justice | David ONeal | [Read More](https://medium.com/p/2c80d3c11dec) |
-| Tue, 18 Nov 2025 07:37:53 GMT | I Used WormGPT for Free! | Shahzaib | [Read More](https://medium.com/p/0bca119b447b) |
-| Tue, 18 Nov 2025 07:36:35 GMT | 2.4 TB Data Leak Caused By Microsoft’s Misconfiguration | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/18bb6cf42523) |
-| Tue, 18 Nov 2025 07:35:49 GMT | Importance of Employee Awareness in Preventing Cyber Attacks | Indsys Holdings India Private Limited | [Read More](https://medium.com/p/0e9365c51111) |
-| Tue, 18 Nov 2025 07:33:21 GMT | Saatnya Beralih dari Password Manager ke MFA (Multi Factor Authentication) | Adi Saputra | [Read More](https://medium.com/p/ba899a84b0d7) |
-| Tue, 18 Nov 2025 07:30:19 GMT | How to Securely Grant EC2 Instances Access to S3 Buckets in Another AWS Account | Osman ALP | [Read More](https://medium.com/p/3e49b634584e) |
-| Tue, 18 Nov 2025 07:30:09 GMT | Using Automated Attack Surface Analysis Tools ️‍♂️⚡ | Esra Kayhan | [Read More](https://medium.com/p/d853bcdb96a8) |
-| Tue, 18 Nov 2025 07:28:54 GMT | Understanding Web Application Technologies: HTTP, Methods, and Security | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/9b66b1aafc6d) |
-| Tue, 18 Nov 2025 07:26:55 GMT | Tools Installation | Shahul Hameed | [Read More](https://medium.com/p/5f58802788c6) |
-| Tue, 18 Nov 2025 07:25:57 GMT | Instalasi Honeypot Cowrie | Axel Liang Gono | [Read More](https://medium.com/p/5e1380ceb3c9) |
-| Tue, 18 Nov 2025 07:22:15 GMT | Instalasi Wazuh Server dan Client | Axel Liang Gono | [Read More](https://medium.com/p/268d75e75fb4) |
-| Tue, 18 Nov 2025 07:11:54 GMT | Threat Hunting based on Tor Exit Nodes (+ KQLs queries) | Sergio Albea | [Read More](https://medium.com/p/4cf9ebd33cda) |
-| Tue, 18 Nov 2025 07:08:08 GMT | Simplifying OAuth 2.0 | Juhie Motiani | [Read More](https://medium.com/p/1b45a815c11f) |
-| Tue, 18 Nov 2025 07:05:14 GMT | Private Proxy USA Routing for Stable Identity and Automation Workflows | ProposalPundit | [Read More](https://medium.com/p/5de4732c5a03) |
-| Tue, 18 Nov 2025 07:02:05 GMT | Why Security Guard Services Are Essential Today: A Complete Guide to Top Security Services for… | Ciss India | [Read More](https://medium.com/p/c629fce633ef) |
-| Tue, 18 Nov 2025 07:00:28 GMT | Third-Party RiskWhat To Know About The Evolving Face of Third-Party Risk? | Beaconer | [Read More](https://medium.com/p/1044d0b60bf6) |
-| Tue, 18 Nov 2025 07:00:02 GMT | Secure by Default: A Practical SDLC for Supply-Chain Attacks and SBOMs | Ismat Babirli | [Read More](https://medium.com/p/80e11839487d) |
-| Tue, 18 Nov 2025 06:52:44 GMT | What Does It Take to Succeed in Business, Cybersecurity, and Digital Marketing? | Vijay Kumar Gupta | [Read More](https://medium.com/p/d807e5b2271d) |
-| Tue, 18 Nov 2025 06:47:36 GMT | More Than Vandalism | Charles Mwaniki | [Read More](https://medium.com/p/abc3c23a59a7) |
