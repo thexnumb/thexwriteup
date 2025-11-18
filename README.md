@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 05:25:36 GMT | Japan Web Proxy Routing for Stable Regional Automation Workflows | GovernanceGolem | [Read More](https://medium.com/p/eeb9221dcc63) |
+| Tue, 18 Nov 2025 05:24:41 GMT | The Importance of Endpoint security | unica 02 | [Read More](https://medium.com/p/bbd8c0fdb8bb) |
+| Tue, 18 Nov 2025 05:23:30 GMT | THM - Farewell | Francesco Pastore | [Read More](https://medium.com/p/e5d0dc82f978) |
+| Tue, 18 Nov 2025 05:17:32 GMT | Are you still using the Office 365 password for Email Alerts? Don’t | Karthick Dk | [Read More](https://medium.com/p/1d35dfab7df3) |
 | Tue, 18 Nov 2025 05:10:35 GMT | MY FIRST SPLUNK DASH | Osho | [Read More](https://medium.com/p/d91e1ba29247) |
 | Tue, 18 Nov 2025 05:10:30 GMT | Your LinkedIn Inbox is the New Danger Zone: Why Hackers Have Moved on From Email. | Athishsagarkishan | [Read More](https://medium.com/p/9a1a685c5af2) |
 | Tue, 18 Nov 2025 05:05:36 GMT | Apex: Your AI-Powered Guardian Against Malicious Websites | Ajay Agrawal | [Read More](https://medium.com/p/ff7445837843) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 19:59:37 GMT | Lock the Gate, open on demand: Securing Azure VMs with JIT. | Erik Lindeboom | [Read More](https://medium.com/p/ca48eace4a42) |
 | Mon, 17 Nov 2025 19:42:00 GMT | Pentesting Commands Library: HTB Labs Edition — Part 2 | Shraddha M. | [Read More](https://medium.com/p/855e7c0d17dc) |
 | Mon, 17 Nov 2025 19:34:06 GMT | Multi-Cloud Strategy | Configr Technologies | [Read More](https://medium.com/p/1169751c3bdd) |
-| Mon, 17 Nov 2025 19:24:19 GMT | The OSINT Tricks Hackers Use to See What Everyone Else Misses | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/86ce8f13f025) |
-| Mon, 17 Nov 2025 19:21:58 GMT | What Your Public Profiles Say About You (Even If You Think They Do Not) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e3ec516f2a7e) |
-| Mon, 17 Nov 2025 19:20:33 GMT | When Strength Becomes a Vulnerability | Hira Ahmad | [Read More](https://medium.com/p/68da84fd9ac6) |
-| Mon, 17 Nov 2025 19:05:29 GMT | PART 1 — Practical Linux Threat Hunting in CrowdStrike | Inteldalal | [Read More](https://medium.com/p/ac7cde98e4f9) |
