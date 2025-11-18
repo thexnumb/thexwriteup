@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 08:46:31 GMT | Identity Drift (IDOR) CTF Challenge | Ahmed Mapher | [Read More](https://medium.com/p/8a88d5a2c9d5) |
+| Tue, 18 Nov 2025 08:39:50 GMT | The Older We Get, the More Loss Follows Us | Rahul Gupta | [Read More](https://medium.com/p/c4a3950ec304) |
+| Tue, 18 Nov 2025 08:34:29 GMT | Running Under the Hood: Bypassing Next Gen EDRs | Owais | [Read More](https://medium.com/p/5fe0c834f197) |
+| Tue, 18 Nov 2025 08:34:27 GMT | One Subscription Away from Criticals | Pwnr | [Read More](https://medium.com/p/e7a7bacde4b7) |
+| Tue, 18 Nov 2025 08:33:41 GMT | A Chain of Vulnerabilities Leading to Critical Information Disclosure | Pwnr | [Read More](https://medium.com/p/cf273686c0fc) |
+| Tue, 18 Nov 2025 08:31:18 GMT | The Future of Offensive Security in an AI-Powered World | Digital Defense | [Read More](https://medium.com/p/0080a67f3e6d) |
+| Tue, 18 Nov 2025 08:27:20 GMT | Microsoft vs AISURU: Inside the Record 5.72 Tbps DDoS Attack That Redefined Cloud Security | Germano Costi | [Read More](https://medium.com/p/ffe50f905cd1) |
 | Tue, 18 Nov 2025 08:15:59 GMT | Smart Devices, Dark Intentions | Oghenemaro Ikelegbe | [Read More](https://medium.com/p/263a5393c891) |
 | Tue, 18 Nov 2025 08:11:29 GMT | Authentication Bypass via a Flawed State Machine | Bash Overflow | [Read More](https://medium.com/p/28bbe211f248) |
 | Tue, 18 Nov 2025 08:04:36 GMT | Here’s how a Cyber Security Degree from George College can transform your future in IT security. | Ritik | [Read More](https://medium.com/p/87280e1635bc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 02:02:54 GMT | What Changes After AI? — Skill Gain | Monu Jangra | [Read More](https://medium.com/p/25b94677be6f) |
 | Tue, 18 Nov 2025 01:51:29 GMT | Building a Production-Ready Secure MCP Server with Python | Achref Tlili | [Read More](https://medium.com/p/13b583e18d2d) |
 | Tue, 18 Nov 2025 01:42:02 GMT | Discovering True Security: What Women Truly Desire in a Relationship | anni | [Read More](https://medium.com/p/d9a321dd11e2) |
-| Tue, 18 Nov 2025 01:40:43 GMT | SOC127 — SQL Injection Detected (LetsDefend) — Professional Rewrite | ahmed mostafa | [Read More](https://medium.com/p/6888a44f83df) |
-| Tue, 18 Nov 2025 01:33:10 GMT | OWASP Top 10 2025 — TryHackMe | Mr.Cool | [Read More](https://medium.com/p/d3093a8516cf) |
-| Tue, 18 Nov 2025 01:32:20 GMT | A Free Hands-On Threat Hunting Lab in Elastic SIEM | Dhruv Patel | [Read More](https://medium.com/p/d7c3cfdf92b5) |
-| Tue, 18 Nov 2025 01:28:45 GMT | Simple Cybersecurity Checklist | LeakingElixir | [Read More](https://medium.com/p/769ae229ad59) |
-| Tue, 18 Nov 2025 01:05:22 GMT | NTLM Relay: Red Team Network Abuse (and Why It Still Works in 2025) | Yua Mikanana | [Read More](https://medium.com/p/af79e886118f) |
-| Tue, 18 Nov 2025 01:02:02 GMT | Information Obesity: Why You Know Everything But Understand Nothing | Souliscent | [Read More](https://medium.com/p/a12773158094) |
-| Tue, 18 Nov 2025 00:42:20 GMT | Web Security Essentials | Demegorash | [Read More](https://medium.com/p/1c1250d160b7) |
