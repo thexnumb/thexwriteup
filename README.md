@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 10:13:47 GMT | The Increasing Use of AI in Both Attacks and Defenses | Ansilg | [Read More](https://medium.com/p/3b06cbf2f140) |
+| Tue, 18 Nov 2025 10:11:55 GMT | Understanding Modern NICs and Offloading: From Hardware Offloads to SmartNICs | Muradstepacademy | [Read More](https://medium.com/p/1087ef9e60f4) |
+| Tue, 18 Nov 2025 10:05:36 GMT | IDOR — Authentication Token & Video Metadata Manipulation | Defidev | [Read More](https://medium.com/p/c058111945a0) |
+| Tue, 18 Nov 2025 10:05:17 GMT | Recon Automation Toolkit: Master Screenshots, Crawling & Fuzzing for High-Impact Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/9c4d869ca0e4) |
+| Tue, 18 Nov 2025 10:02:07 GMT | Data Generations, Collection, and Ingestion — The Foundation for Successful Logging | Apto Solutions | [Read More](https://medium.com/p/aa3cd39a093d) |
+| Tue, 18 Nov 2025 10:02:06 GMT | What I am building and Why | CYBER CYMRU | [Read More](https://medium.com/p/3c9d9b12f1dc) |
+| Tue, 18 Nov 2025 10:01:51 GMT | Zuri Ozeomachukwu Njoku Discusses Strengthening Digital Foundations for Organizations | Zuri Njoku | [Read More](https://medium.com/p/17f8e9d31938) |
+| Tue, 18 Nov 2025 10:00:12 GMT | Flutter Cybersecurity | Punith S Uppar | [Read More](https://medium.com/p/d4cbf0ba0f4c) |
+| Tue, 18 Nov 2025 09:58:52 GMT | How to Disable Qustodio for Unrestricted Online Activity | Awais Khan | [Read More](https://medium.com/p/24d0dd78e2ab) |
+| Tue, 18 Nov 2025 09:58:13 GMT | New UK law mandates 24-hour Cyberattack reporting — The UK Cyber Resilience Bill: What SME… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/023532d2d973) |
+| Tue, 18 Nov 2025 09:52:16 GMT | How Self-Service Kiosk Machines Increase Sales and Customer Loyalty | Rakesh | [Read More](https://medium.com/p/d7cf02ebbadd) |
+| Tue, 18 Nov 2025 09:50:03 GMT | From Pixels to Profits: How Designers Win Big with Reseller Hosting? | Janet Watson | [Read More](https://medium.com/p/f7a06d1bf5b5) |
+| Tue, 18 Nov 2025 09:49:49 GMT | When AI Turns Against You: Malware, Spy Campaigns, Scam Ads and the Fight For Your Data | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/44907ff36d3f) |
+| Tue, 18 Nov 2025 09:48:35 GMT | DockerLabs Writeup — Gitea (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/8ced40326f31) |
+| Tue, 18 Nov 2025 09:47:29 GMT | I’m Back, and This Time I’m Not Running From Myself | Lucy Loo | [Read More](https://medium.com/p/13160c9a21ec) |
+| Tue, 18 Nov 2025 09:46:46 GMT | NIGERIANS, WE MUST STOP AMPLIFYING THE TERRORIST AGENDA | Abduljalil Hassan Muhammad | [Read More](https://medium.com/p/e1b366c3b762) |
+| Tue, 18 Nov 2025 09:46:01 GMT | Home Security — Target Security Group Malawi | Target securitygroup | [Read More](https://medium.com/p/636d60a50c30) |
+| Tue, 18 Nov 2025 09:43:25 GMT | Ethical Hacking Certification Course Duration in Delhi (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/f28b48d6b0bf) |
 | Tue, 18 Nov 2025 09:40:04 GMT | Nigeria's Security Crisis | The Kronichles Of Kuranen (The K of K) | [Read More](https://medium.com/p/a3d3b91e940e) |
+| Tue, 18 Nov 2025 09:36:30 GMT | Why Your Agentforce POC Will Fail: An Architect’s Pre-Mortem | Pedro Távora Santos | [Read More](https://medium.com/p/1be74f2b43db) |
 | Tue, 18 Nov 2025 09:34:32 GMT | Learn Social Engineering in Ethical Hacking Course | Manisha Chaudhary | [Read More](https://medium.com/p/18c960a13bbf) |
 | Tue, 18 Nov 2025 09:26:27 GMT | Mr.Robot (THM write-up) | CO0L7 | [Read More](https://medium.com/p/23c5ce01e12d) |
 | Tue, 18 Nov 2025 09:08:45 GMT | The Human Behaviors That Open the Door to Cyber Attacks — And We Don’t Even Realize We’re Doing… | Tasnia Washim | [Read More](https://medium.com/p/eae9cfc3ff49) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 05:05:36 GMT | Apex: Your AI-Powered Guardian Against Malicious Websites | Ajay Agrawal | [Read More](https://medium.com/p/ff7445837843) |
 | Tue, 18 Nov 2025 05:04:38 GMT | Large File Uploads (10GB) with Django — Part 4: Cloud Storage Patterns | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/ff06106c49fc) |
 | Tue, 18 Nov 2025 05:02:09 GMT | Get Started with Kali Linux and Understand the Standard Commands | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8fc83cb086c9) |
-| Tue, 18 Nov 2025 04:59:12 GMT | CCTV for Small Shops in Bathinda: Affordable Security Solutions | Ask IT Support | [Read More](https://medium.com/p/f90e7e19c6da) |
-| Tue, 18 Nov 2025 04:58:03 GMT | Ghost Protocol: Anonymity vs. Justice | David ONeal | [Read More](https://medium.com/p/e98591cc8d44) |
-| Tue, 18 Nov 2025 04:56:58 GMT | #astralguardacademy #onlinecourses #globalcommunity #certificationprograms #pentesting… | Mariatheresia | [Read More](https://medium.com/p/360fdae99147) |
-| Tue, 18 Nov 2025 04:54:50 GMT | The Stalemate and the Shadow: Europe’s Unfinished War with Russia | MASUM BILLAH | [Read More](https://medium.com/p/ab34a2c578c5) |
-| Tue, 18 Nov 2025 04:52:17 GMT | Investigating an XSS Attempt in LetsDefend (SOC166 — Event ID 166) | Soumodeep Das | [Read More](https://medium.com/p/2ba7ee08a944) |
-| Tue, 18 Nov 2025 04:50:14 GMT | Closing the Global Cybersecurity Skills Gap: How AstralGuard from Africa Is Training the Next… | Mariatheresia | [Read More](https://medium.com/p/93bd10809a36) |
-| Tue, 18 Nov 2025 04:46:27 GMT | Why Cybersecurity is everyone’s responsibility, Not just IT’s | The phantom speaks | [Read More](https://medium.com/p/762c176ff596) |
-| Tue, 18 Nov 2025 04:45:37 GMT | Understanding DDoS Attacks: How They Work and How to Stay Protected | Geeky Vartika | [Read More](https://medium.com/p/76181756f0ce) |
-| Tue, 18 Nov 2025 04:43:47 GMT | Phishing Safety Checklist for Seniors | Lizzy N | [Read More](https://medium.com/p/8f1b9dd2c31f) |
-| Tue, 18 Nov 2025 04:36:00 GMT | Mastering Linux Capabilities in Production Environments | Linux Guide | [Read More](https://medium.com/p/5a85641a9c7e) |
-| Tue, 18 Nov 2025 04:35:51 GMT | Importance of Cybersecurity for Small Companies | Wbc Software Lab | [Read More](https://medium.com/p/965a568495e8) |
-| Tue, 18 Nov 2025 04:32:35 GMT | Ransomware-as-a-Service Is Booming in 2025: Here’s What You Should Know | Sam Writes Security | [Read More](https://medium.com/p/47934af901e6) |
-| Tue, 18 Nov 2025 04:30:04 GMT | ️ Dissecting the First AI-Orchestrated Cyber Espionage Campaign | Varnith Yemula | [Read More](https://medium.com/p/c75d77a6c2b7) |
-| Tue, 18 Nov 2025 04:28:57 GMT | Amir Khan Muttaqi Meets High-Level Tajikistan Delegation in Kabul | Gulalai Jana | [Read More](https://medium.com/p/34a68cc28387) |
-| Tue, 18 Nov 2025 04:25:39 GMT | Splunk Clustering and Indexing | InfosecTrain | [Read More](https://medium.com/p/b18a8fb1c6e3) |
-| Tue, 18 Nov 2025 04:20:02 GMT | 5 Ways Elevate Helps Australian Businesses Stay Secure 24/7 | Elevate | [Read More](https://medium.com/p/ef1552b76c2a) |
-| Tue, 18 Nov 2025 04:16:31 GMT | How Blockchain Ensures Security and Transparency | idcyrpt | [Read More](https://medium.com/p/dfbe5f4b1fe5) |
-| Tue, 18 Nov 2025 04:00:24 GMT | If JWTs Can Shared, Are They Really Secure? | Vaibhav Singh | [Read More](https://medium.com/p/8b4ddc0d0c45) |
-| Tue, 18 Nov 2025 03:40:37 GMT | Jaringan Komputer : Konfigurasi Mikrotik, DHCP Server & DHCP Client | Yasa Wijaya | [Read More](https://medium.com/p/98975b6f1a6d) |
