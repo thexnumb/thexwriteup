@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 09:08:45 GMT | The Human Behaviors That Open the Door to Cyber Attacks — And We Don’t Even Realize We’re Doing… | Tasnia Washim | [Read More](https://medium.com/p/eae9cfc3ff49) |
+| Tue, 18 Nov 2025 09:08:32 GMT | PicoCTF : Crack the Gate 1 (Web Exploitation) Writes up | Revanza Hafiz Erianto | [Read More](https://medium.com/p/1f19685749e2) |
+| Tue, 18 Nov 2025 09:05:05 GMT | How IT Advisory Services Drive Sustainable Business Growth | Total Computer Technology | [Read More](https://medium.com/p/6fdde6fa8794) |
+| Tue, 18 Nov 2025 09:03:01 GMT | From One Free Search to 24/7 Monitoring: How Teams Turn LeakRadar Into an Early-Warning System | Alexandre Vandamme | [Read More](https://medium.com/p/a7b1ea04d8f3) |
+| Tue, 18 Nov 2025 09:02:24 GMT | 20+ Vulnerabilities in a Static Website | Saurabh Jain | [Read More](https://medium.com/p/2f32a4902377) |
+| Tue, 18 Nov 2025 09:00:33 GMT | Cybersecurity Has a Pricing Problem — And No One Talks About It | SilentWire Cybersecurity | [Read More](https://medium.com/p/86abdfdad64e) |
+| Tue, 18 Nov 2025 08:59:32 GMT | Installing Burp Suite’s CA As A System Certificate On Android | Redfox Security | [Read More](https://medium.com/p/889b0aa3d98b) |
+| Tue, 18 Nov 2025 08:55:48 GMT | cybersecurity faq | C | [Read More](https://medium.com/p/3b40e3ca6faa) |
+| Tue, 18 Nov 2025 08:52:27 GMT | eWPTXv3 Exam Review | Sudeepa Shiranthaka | [Read More](https://medium.com/p/447ff8c3aa7d) |
+| Tue, 18 Nov 2025 08:50:08 GMT | SITA — An AI-Powered Real-Time Log Analyzer for Developers | Maram Srinivasulu reddy | [Read More](https://medium.com/p/5c862b9dd875) |
 | Tue, 18 Nov 2025 08:46:31 GMT | Identity Drift (IDOR) CTF Challenge | Ahmed Mapher | [Read More](https://medium.com/p/8a88d5a2c9d5) |
 | Tue, 18 Nov 2025 08:39:50 GMT | The Older We Get, the More Loss Follows Us | Rahul Gupta | [Read More](https://medium.com/p/c4a3950ec304) |
 | Tue, 18 Nov 2025 08:34:29 GMT | Running Under the Hood: Bypassing Next Gen EDRs | Owais | [Read More](https://medium.com/p/5fe0c834f197) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 03:40:02 GMT | DevSecOps Is the New Norm: Embedding Security Into DevOps Workflows | Ram Milan | [Read More](https://medium.com/p/d0b172163b22) |
 | Tue, 18 Nov 2025 03:38:34 GMT | All Quiet on the Agent Front: A Glimpse of Modern Warfare from the Claude Incident | Yasushi Oh | [Read More](https://medium.com/p/a175b48f9df3) |
 | Tue, 18 Nov 2025 03:32:29 GMT | 6 Common Node.js Security Risks in Cloud Deployments | Arunangshu Das | [Read More](https://medium.com/p/16ae11babdb0) |
-| Tue, 18 Nov 2025 03:32:29 GMT | Your Next Meal Could Be Rerouted by a Hacker: The Hidden Security Risks of Delivery Robots | Deven Chhajed | [Read More](https://medium.com/p/a2c44aee4e97) |
-| Tue, 18 Nov 2025 03:31:28 GMT | Japan Proxy Server Solutions for Reliable Automation Routing | SnapshotSage | [Read More](https://medium.com/p/9965bfd2bf7e) |
-| Tue, 18 Nov 2025 03:28:36 GMT | Illegal Things You Do Every Day Without Realizing | Sami Ullah | [Read More](https://medium.com/p/25197eab2e0e) |
-| Tue, 18 Nov 2025 03:05:51 GMT | HOW AI/Machine Learning (ML) COULD TRANSFORM AMERICA’S SUPPLY CHAIN — AND WHY ONE ENGINEER… | Pin-Chieh (Jerry)  Huang | [Read More](https://medium.com/p/ecd1080a8de4) |
-| Tue, 18 Nov 2025 03:01:07 GMT | Cross-Site Scripting in Bug Bounty | ToxSec | [Read More](https://medium.com/p/d45daa7210c5) |
-| Tue, 18 Nov 2025 02:31:05 GMT | TryHackMe — Farewell Walkthrough (Full Write-Up) | SmaRTy | [Read More](https://medium.com/p/fa42afd90f9c) |
-| Tue, 18 Nov 2025 02:27:20 GMT | apan Proxy Server Routing for Stable Automation Workloads | SnapshotSage | [Read More](https://medium.com/p/e471b7738700) |
-| Tue, 18 Nov 2025 02:02:54 GMT | What Changes After AI? — Skill Gain | Monu Jangra | [Read More](https://medium.com/p/25b94677be6f) |
-| Tue, 18 Nov 2025 01:51:29 GMT | Building a Production-Ready Secure MCP Server with Python | Achref Tlili | [Read More](https://medium.com/p/13b583e18d2d) |
-| Tue, 18 Nov 2025 01:42:02 GMT | Discovering True Security: What Women Truly Desire in a Relationship | anni | [Read More](https://medium.com/p/d9a321dd11e2) |
