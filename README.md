@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 17:13:38 GMT | OSINT Tutorial 4: How to Solve a Geolocation Puzzle | S.Ali | [Read More](https://medium.com/p/7bcd9f222116) |
+| Tue, 18 Nov 2025 17:11:11 GMT | The Secret to AWS Security? Don’t Store Secrets. | Stephanie Batanwi | [Read More](https://medium.com/p/4fd95e880659) |
+| Tue, 18 Nov 2025 17:06:06 GMT | OSINT Researcher: Fast GitHub intelligence tool | OSINT Researcher | [Read More](https://medium.com/p/437ccbf87d2b) |
+| Tue, 18 Nov 2025 16:58:04 GMT | When the Internet Broke: What Really Happened During the Cloudflare Outage | Rohan kumar | [Read More](https://medium.com/p/fcfc6fdf137a) |
+| Tue, 18 Nov 2025 16:56:27 GMT | Monitoring Keycloak Events in Wazuh — A Complete, Working Integration Guide | Yash Patel | [Read More](https://medium.com/p/a669817dc018) |
+| Tue, 18 Nov 2025 16:50:56 GMT | Cloudflare Crushed Elon Musk’s X and ChatGPT. How One Tiny File Broke the Web. | Tanzid (TechToFit.space) | [Read More](https://medium.com/p/1afa60b01b60) |
+| Tue, 18 Nov 2025 16:50:31 GMT | From Broke to Boss: Mastering Financial Literacy One Step at a Time | Aliyu Ibrahim | [Read More](https://medium.com/p/83688d317fef) |
 | Tue, 18 Nov 2025 16:46:25 GMT | Episode 9: “The Cloud That Ate Manhattan — Part 2” | Dr. House In I.T. | [Read More](https://medium.com/p/8fd2ba0b4424) |
 | Tue, 18 Nov 2025 16:36:02 GMT | The 2025 State of Cybersecurity: The Everyday Mistakes Leaving Millions Exposed | Voidly | [Read More](https://medium.com/p/3850c845eb43) |
 | Tue, 18 Nov 2025 16:34:15 GMT | Understanding API Security: Lessons from the API Security Fundamentals Course | Gamuchirai | [Read More](https://medium.com/p/94b3fe072890) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 11:21:38 GMT | Local SEO Company in Utah: Your Key to Ranking Higher and Getting More Local Customers | Hary Battler | [Read More](https://medium.com/p/97fe42b3cec6) |
 | Tue, 18 Nov 2025 11:17:30 GMT | Zero-Click Exploits | Netlas.io | [Read More](https://medium.com/p/ce9c0adc73f0) |
 | Tue, 18 Nov 2025 11:17:10 GMT | freeRASP for Unreal Engine: Secure Your Revenue | Talsec | [Read More](https://medium.com/p/ef9b59a38240) |
-| Tue, 18 Nov 2025 11:16:51 GMT | When Steel Meets Malware: How a Jaguar Cyberattack Stalled its Ops and Shook the Industry | Gaurav Sharma | [Read More](https://medium.com/p/5b2829569bc0) |
-| Tue, 18 Nov 2025 11:15:07 GMT | The Story I Was Afraid to Tell: How Vulnerability Changed My Writing | Otun Stephen Gbenga | [Read More](https://medium.com/p/309e848e766e) |
-| Tue, 18 Nov 2025 11:12:03 GMT | How Data Breaches Shape Market Value: Lessons from Real Incidents | Tyson Martin | [Read More](https://medium.com/p/c78adb22229d) |
-| Tue, 18 Nov 2025 11:12:01 GMT | How the Bitcoin Halving Is Reshaping the Crypto Market in 2025 | FortisX | [Read More](https://medium.com/p/c86346f5a4d0) |
-| Tue, 18 Nov 2025 11:11:50 GMT | Lost Crypto? Here’s How People Are Getting Their Money Back in 2025 | Lost Crypto Recovery Service. | [Read More](https://medium.com/p/6a3e4aa10c26) |
-| Tue, 18 Nov 2025 11:08:10 GMT | The First AI-Orchestrated Cyberattack Is Here: 5 Lessons That Change Everything | Amrik  Hanjra | [Read More](https://medium.com/p/418b69e7ce92) |
-| Tue, 18 Nov 2025 11:03:36 GMT | Why Zero-Knowledge Privacy Matters for Your Crypto Wallet | Vygha | [Read More](https://medium.com/p/fb27ef01ccdd) |
