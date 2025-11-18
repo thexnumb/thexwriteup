@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 09:40:04 GMT | Nigeria's Security Crisis | The Kronichles Of Kuranen (The K of K) | [Read More](https://medium.com/p/a3d3b91e940e) |
+| Tue, 18 Nov 2025 09:34:32 GMT | Learn Social Engineering in Ethical Hacking Course | Manisha Chaudhary | [Read More](https://medium.com/p/18c960a13bbf) |
+| Tue, 18 Nov 2025 09:26:27 GMT | Mr.Robot (THM write-up) | CO0L7 | [Read More](https://medium.com/p/23c5ce01e12d) |
 | Tue, 18 Nov 2025 09:08:45 GMT | The Human Behaviors That Open the Door to Cyber Attacks — And We Don’t Even Realize We’re Doing… | Tasnia Washim | [Read More](https://medium.com/p/eae9cfc3ff49) |
 | Tue, 18 Nov 2025 09:08:32 GMT | PicoCTF : Crack the Gate 1 (Web Exploitation) Writes up | Revanza Hafiz Erianto | [Read More](https://medium.com/p/1f19685749e2) |
 | Tue, 18 Nov 2025 09:05:05 GMT | How IT Advisory Services Drive Sustainable Business Growth | Total Computer Technology | [Read More](https://medium.com/p/6fdde6fa8794) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 04:16:31 GMT | How Blockchain Ensures Security and Transparency | idcyrpt | [Read More](https://medium.com/p/dfbe5f4b1fe5) |
 | Tue, 18 Nov 2025 04:00:24 GMT | If JWTs Can Shared, Are They Really Secure? | Vaibhav Singh | [Read More](https://medium.com/p/8b4ddc0d0c45) |
 | Tue, 18 Nov 2025 03:40:37 GMT | Jaringan Komputer : Konfigurasi Mikrotik, DHCP Server & DHCP Client | Yasa Wijaya | [Read More](https://medium.com/p/98975b6f1a6d) |
-| Tue, 18 Nov 2025 03:40:02 GMT | DevSecOps Is the New Norm: Embedding Security Into DevOps Workflows | Ram Milan | [Read More](https://medium.com/p/d0b172163b22) |
-| Tue, 18 Nov 2025 03:38:34 GMT | All Quiet on the Agent Front: A Glimpse of Modern Warfare from the Claude Incident | Yasushi Oh | [Read More](https://medium.com/p/a175b48f9df3) |
-| Tue, 18 Nov 2025 03:32:29 GMT | 6 Common Node.js Security Risks in Cloud Deployments | Arunangshu Das | [Read More](https://medium.com/p/16ae11babdb0) |
