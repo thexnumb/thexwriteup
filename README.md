@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 01:40:43 GMT | SOC127 — SQL Injection Detected (LetsDefend) — Professional Rewrite | ahmed mostafa | [Read More](https://medium.com/p/6888a44f83df) |
+| Tue, 18 Nov 2025 01:33:10 GMT | OWASP Top 10 2025 — TryHackMe | Mr.Cool | [Read More](https://medium.com/p/d3093a8516cf) |
+| Tue, 18 Nov 2025 01:32:20 GMT | A Free Hands-On Threat Hunting Lab in Elastic SIEM | Dhruv Patel | [Read More](https://medium.com/p/d7c3cfdf92b5) |
+| Tue, 18 Nov 2025 01:28:45 GMT | Simple Cybersecurity Checklist | LeakingElixir | [Read More](https://medium.com/p/769ae229ad59) |
+| Tue, 18 Nov 2025 01:05:22 GMT | NTLM Relay: Red Team Network Abuse (and Why It Still Works in 2025) | Yua Mikanana | [Read More](https://medium.com/p/af79e886118f) |
+| Tue, 18 Nov 2025 01:02:02 GMT | Information Obesity: Why You Know Everything But Understand Nothing | Souliscent | [Read More](https://medium.com/p/a12773158094) |
+| Tue, 18 Nov 2025 00:42:20 GMT | Web Security Essentials | Demegorash | [Read More](https://medium.com/p/1c1250d160b7) |
+| Tue, 18 Nov 2025 00:42:10 GMT | The AI Illusion: Why Companies Think They’re Safe- and Why They’re Not | Diya mukherjee | [Read More](https://medium.com/p/0ebe619a129d) |
+| Tue, 18 Nov 2025 00:31:23 GMT | Meningkatkan Keamanan Software-Defined Network Menggunakan Hybrid Honeypot dan Quality of Service | Revanza Hafiz Erianto | [Read More](https://medium.com/p/7f8a5427696c) |
+| Tue, 18 Nov 2025 00:30:24 GMT | 10 Tools to Secure MCP Servers and Protect Your AI Ecosystem | Cyber-AppSec | [Read More](https://medium.com/p/77122d13f168) |
+| Tue, 18 Nov 2025 00:25:06 GMT | THM- One Piece Writeup | cbev | [Read More](https://medium.com/p/b461d5b2269c) |
+| Tue, 18 Nov 2025 00:16:49 GMT | SOC L1 Alert Reporting | Demegorash | [Read More](https://medium.com/p/4af68a0a7896) |
+| Tue, 18 Nov 2025 00:16:45 GMT | THM - Shock and Silence | Francesco Pastore | [Read More](https://medium.com/p/b240c19c7059) |
+| Tue, 18 Nov 2025 00:02:04 GMT | API2:2023 Broken Authentication: Fallos Críticos de Identidad en APIs y Ataques JWT | JPablo13 | [Read More](https://medium.com/p/9c91d58fd739) |
+| Tue, 18 Nov 2025 00:02:04 GMT | Kerberoasting: Stealing Service Account Passwords from Kerberos Tickets | Cybersecurity Simplified | [Read More](https://medium.com/p/968d94416cd3) |
+| Mon, 17 Nov 2025 23:51:42 GMT | Virtual Security Guard CCTV Camera Monitoring for your Property | Visual Monitoring Solutions | [Read More](https://medium.com/p/dfd0be386f79) |
+| Mon, 17 Nov 2025 23:45:18 GMT | DorkFi: The Triumph of a Team You Can Trust | DorkFi | [Read More](https://medium.com/p/12702dcc0d99) |
+| Mon, 17 Nov 2025 23:37:18 GMT | Security Officer Sacramento - Licensed Security Guard | james carter | [Read More](https://medium.com/p/d9ded6a0b213) |
 | Mon, 17 Nov 2025 23:12:45 GMT | Eviction — THM Challenge Write-up | Radulescu Alexandru-Gabriel | [Read More](https://medium.com/p/f3bb3dacf236) |
 | Mon, 17 Nov 2025 23:10:15 GMT | DNS Tunneling and Covert Communication Channels Explained | Eric Howard, Ph. D. | [Read More](https://medium.com/p/bed354f797d1) |
 | Mon, 17 Nov 2025 22:59:28 GMT | Guardrails for the Machine Mind: The Future of AI Security | Marwan | [Read More](https://medium.com/p/d1318673fa70) |
@@ -95,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 17:02:06 GMT | Free VPN: How to Use One Without Spending a Cent | Sergey Sokulsky | [Read More](https://medium.com/p/f2a1b5e3f399) |
 | Mon, 17 Nov 2025 16:51:04 GMT | AI / LLM Hacking — Part 8 — Misinformation & Overreliance - Unbounded Consumption - MDoS - Model… | Darshan Naresh Naik | [Read More](https://medium.com/p/d1cee7d625d2) |
 | Mon, 17 Nov 2025 16:48:01 GMT | DC-1 VulnHub Walkthrough: Complete Beginner’s Guide | Ajmir khan | [Read More](https://medium.com/p/fbd774a7c329) |
-| Mon, 17 Nov 2025 16:45:27 GMT | Your Domain Is Probably in Stealer Logs: See What LeakRadar Finds in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/31bd1a1d8086) |
-| Mon, 17 Nov 2025 16:38:03 GMT | How Digital Intimacy Turned Into a Weapon of Control | The Observer | [Read More](https://medium.com/p/4c44f3d4f0af) |
-| Mon, 17 Nov 2025 16:35:56 GMT | PortSwigger: XML external entity (XXE) injection LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/24092b88afc7) |
-| Mon, 17 Nov 2025 16:35:44 GMT | AI Impacts All Enterprise IT Jobs | David H. Deans | [Read More](https://medium.com/p/ff7a5171f8fa) |
-| Mon, 17 Nov 2025 16:28:59 GMT | RootMe TryHackMe Writeup | Benedict Agno | [Read More](https://medium.com/p/5356193a2667) |
-| Mon, 17 Nov 2025 16:27:12 GMT | Top 12 Cybersecurity Tools Every Beginner Must Learn | Pratap Sahu | [Read More](https://medium.com/p/ecf9d57c0178) |
-| Mon, 17 Nov 2025 16:20:41 GMT | Proving Grounds “Twiggy” Linux box | Cyb0rgBytes | [Read More](https://medium.com/p/2098933fda1e) |
-| Mon, 17 Nov 2025 16:20:18 GMT | The Art Of Writing a Bug Report | Hüseyin Tarık Uslu | [Read More](https://medium.com/p/4266bd58ed2a) |
-| Mon, 17 Nov 2025 16:19:31 GMT | Fiber Networking: The Future-Proof Backbone Your Business Can’t Afford to Ignore | Paradise technologies Inc | [Read More](https://medium.com/p/5a423192123c) |
-| Mon, 17 Nov 2025 16:10:21 GMT | LetsDefend — A SOC338 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/afcb76c9c9a8) |
-| Mon, 17 Nov 2025 16:09:00 GMT | The Right Gatekeepers: Secure Your Python Flask App with Flask Security (Part 2/2) | Daniel Easterman | [Read More](https://medium.com/p/2cf8a7f1e667) |
-| Mon, 17 Nov 2025 16:05:11 GMT | 5 Cybersecurity Threats That Even Experts Miss | Hania Khan | [Read More](https://medium.com/p/987e8451a756) |
-| Mon, 17 Nov 2025 16:02:30 GMT | Your AI Girlfriend Is a Trap: The Loneliness Machine. | ToxSec | [Read More](https://medium.com/p/fa1d1d319199) |
-| Mon, 17 Nov 2025 16:02:30 GMT | Farewell THM - Writeup | Domon | [Read More](https://medium.com/p/e85c8fc9c161) |
-| Mon, 17 Nov 2025 16:02:27 GMT | Introducing Decentr Lite The New Flavor of Fast, Fresh, Private Browsing | Decentr | [Read More](https://medium.com/p/15ec11d6cf26) |
-| Mon, 17 Nov 2025 15:59:43 GMT | 90 DAYS , AI/ML/DS LEARNING CHALLENGE | Arumuga Perumal | [Read More](https://medium.com/p/b5b576d53893) |
-| Mon, 17 Nov 2025 15:53:24 GMT | Entrepreneurs vs. Businessmen: The Real Difference No One Talks About | Vijay Kumar Gupta | [Read More](https://medium.com/p/21988bd3304a) |
-| Mon, 17 Nov 2025 15:53:21 GMT | Public Wi-Fi Safety Tips 2025: How to
-Keep Your Data Secure Anywhere | Ayesha Faisal | [Read More](https://medium.com/p/2e20a72206d1) |
