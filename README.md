@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 10:45:46 GMT | Broken Link Hijacking: Explained Simply | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/cacdbf2f3df7) |
+| Tue, 18 Nov 2025 10:44:49 GMT | ️ VedicRecon (v1.0.a): | Shikhar Sinha | [Read More](https://medium.com/p/cf5a4473f42e) |
+| Tue, 18 Nov 2025 10:44:08 GMT | Ketika Windows Defender Kena Fake-Out: Masuknya RONINGLOADER | Adi Saputra | [Read More](https://medium.com/p/11a441bc12d5) |
+| Tue, 18 Nov 2025 10:32:35 GMT | AI Ops & Cyber Risk: 7 Essential Governance Controls | Pentest_Testing_Corp | [Read More](https://medium.com/p/afc7d41dba3d) |
+| Tue, 18 Nov 2025 10:29:18 GMT | Symmetric vs Asymmetric Encryption — Explained | Attiqorakzai | [Read More](https://medium.com/p/1f782b3263b4) |
+| Tue, 18 Nov 2025 10:28:25 GMT | Artificial Intelligence & Automation: How They’re Quietly Changing Your Everyday Life | Rashmi H. | [Read More](https://medium.com/p/a5c65bb91689) |
+| Tue, 18 Nov 2025 10:28:13 GMT | Yescrypt — The Large Scale Password Protector | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/aec8364fdf94) |
+| Tue, 18 Nov 2025 10:25:55 GMT | How I Earned My First Bug Bounty: A Beginner’s Journey | Geek Divyanshu | [Read More](https://medium.com/p/5adfdbd2ccdd) |
+| Tue, 18 Nov 2025 10:25:13 GMT | Why AI Is Redefining Sales Engagement in 2025? | Donnager | [Read More](https://medium.com/p/7704ecc6bdaa) |
+| Tue, 18 Nov 2025 10:24:07 GMT | Brain: The Built-In Payload Attackers Can Exploit "The human element is the easiest to exploit… | Olatunji David | [Read More](https://medium.com/p/8ff8e153a7db) |
+| Tue, 18 Nov 2025 10:20:51 GMT | Business Leadership Courses in Australia — Build Skills for a Successful Future | royalinternational | [Read More](https://medium.com/p/018f25d303db) |
 | Tue, 18 Nov 2025 10:13:47 GMT | The Increasing Use of AI in Both Attacks and Defenses | Ansilg | [Read More](https://medium.com/p/3b06cbf2f140) |
 | Tue, 18 Nov 2025 10:11:55 GMT | Understanding Modern NICs and Offloading: From Hardware Offloads to SmartNICs | Muradstepacademy | [Read More](https://medium.com/p/1087ef9e60f4) |
 | Tue, 18 Nov 2025 10:05:36 GMT | IDOR — Authentication Token & Video Metadata Manipulation | Defidev | [Read More](https://medium.com/p/c058111945a0) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 05:42:38 GMT | Level Up Your Digital Defence Skills — BIA’s Best Cybersecurity Course in Bangalore” | Afreedalok | [Read More](https://medium.com/p/765a9b35ae3d) |
 | Tue, 18 Nov 2025 05:38:59 GMT | Guardando segredos como um profissional: HashiCorp Vault no Kubernetes | IvanCl4udio | [Read More](https://medium.com/p/3b38380141b4) |
 | Tue, 18 Nov 2025 05:37:49 GMT | AI-Orchestrated Espionage: How Anthropic Exposed the Future of Cyberattacks | Jagan Raj Raviraja | [Read More](https://medium.com/p/49f59c804d5c) |
-| Tue, 18 Nov 2025 05:36:42 GMT | Will Agentic AI Revolutionize Cybersecurity Teams in 2026? | Steven Chin | [Read More](https://medium.com/p/52c3cef37e31) |
-| Tue, 18 Nov 2025 05:36:02 GMT | Unlock Secure Gmail Login: How to Generate App Passwords the Right Way | Karthick Dk | [Read More](https://medium.com/p/fa96f64a52c5) |
-| Tue, 18 Nov 2025 05:25:36 GMT | Japan Web Proxy Routing for Stable Regional Automation Workflows | GovernanceGolem | [Read More](https://medium.com/p/eeb9221dcc63) |
-| Tue, 18 Nov 2025 05:24:41 GMT | The Importance of Endpoint security | unica 02 | [Read More](https://medium.com/p/bbd8c0fdb8bb) |
-| Tue, 18 Nov 2025 05:23:30 GMT | THM - Farewell | Francesco Pastore | [Read More](https://medium.com/p/e5d0dc82f978) |
-| Tue, 18 Nov 2025 05:17:32 GMT | Are you still using the Office 365 password for Email Alerts? Don’t | Karthick Dk | [Read More](https://medium.com/p/1d35dfab7df3) |
-| Tue, 18 Nov 2025 05:10:35 GMT | MY FIRST SPLUNK DASH | Osho | [Read More](https://medium.com/p/d91e1ba29247) |
-| Tue, 18 Nov 2025 05:10:30 GMT | Your LinkedIn Inbox is the New Danger Zone: Why Hackers Have Moved on From Email. | Athishsagarkishan | [Read More](https://medium.com/p/9a1a685c5af2) |
-| Tue, 18 Nov 2025 05:05:36 GMT | Apex: Your AI-Powered Guardian Against Malicious Websites | Ajay Agrawal | [Read More](https://medium.com/p/ff7445837843) |
-| Tue, 18 Nov 2025 05:04:38 GMT | Large File Uploads (10GB) with Django — Part 4: Cloud Storage Patterns | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/ff06106c49fc) |
-| Tue, 18 Nov 2025 05:02:09 GMT | Get Started with Kali Linux and Understand the Standard Commands | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8fc83cb086c9) |
