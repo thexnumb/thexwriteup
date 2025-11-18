@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 18:15:38 GMT | The Cloudflare Crash That Exposed My Biggest Digital Fear | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/bfcbae9fd315) |
+| Tue, 18 Nov 2025 18:12:40 GMT | Dork Labs Awarded AWS Activate Startup Grant | DorkFi | [Read More](https://medium.com/p/96f7e7ded890) |
+| Tue, 18 Nov 2025 18:04:55 GMT | How Explainable AI Is Reshaping the Modern SOC | Graylog | [Read More](https://medium.com/p/c15ab84406c8) |
+| Tue, 18 Nov 2025 18:03:53 GMT | The Quiet Threat of AI Tools: What We Should Really Be Talking About | Saurabh R Pande | [Read More](https://medium.com/p/318118198df2) |
+| Tue, 18 Nov 2025 18:02:29 GMT | Copy, Paste and Get Robbed — The danger of Vanity address | Régis | [Read More](https://medium.com/p/d1c90f86e6fc) |
+| Tue, 18 Nov 2025 18:00:53 GMT | Fear and Shame Are Weaknesses You’re Not Supposed to Show | Nico Cost | [Read More](https://medium.com/p/ad8db9b3a4d6) |
+| Tue, 18 Nov 2025 18:00:12 GMT | Axiom A2 – Das Axiom des Strukturwachstums | Gabriel James Kingsworth | [Read More](https://medium.com/p/9b362c655445) |
+| Tue, 18 Nov 2025 17:58:57 GMT | Good Luck Countering AI attacks with Batch Jobs | Gilles Philippart | [Read More](https://medium.com/p/2df625212937) |
+| Tue, 18 Nov 2025 17:58:17 GMT | CAPenX Exam Review: Is It Really That Difficult? | Abhishek Gupta | [Read More](https://medium.com/p/530d65f61bcf) |
+| Tue, 18 Nov 2025 17:56:41 GMT | PacketMaze Lab Writeup | Jaws | [Read More](https://medium.com/p/d7ed443ac434) |
+| Tue, 18 Nov 2025 17:55:25 GMT | Axiom A1 – Das Axiom der Entstehenden Information | Gabriel James Kingsworth | [Read More](https://medium.com/p/117878fc7f04) |
+| Tue, 18 Nov 2025 17:51:56 GMT | Heart-Blood | Langley Häftling | [Read More](https://medium.com/p/d9cc26d51c16) |
+| Tue, 18 Nov 2025 17:51:16 GMT | Breaking Authentication: How I Bypassed Email Verification by Changing One Word in the Response | Madanu Akash | [Read More](https://medium.com/p/3bf37dd779c8) |
+| Tue, 18 Nov 2025 17:47:29 GMT | Deep Dive: How Dropzone AI Investigates Alerts (Example Explained) | Dean | [Read More](https://medium.com/p/e47610f00014) |
+| Tue, 18 Nov 2025 17:41:20 GMT | My Journey in Hacking, Virtual Machines, Linux, and Networking | Rishikesh M | [Read More](https://medium.com/p/ebc2d8dfe24a) |
+| Tue, 18 Nov 2025 17:38:44 GMT | The Update That Crashed the Planet: What Really Happened in the CrowdStrike Outage | Dax | [Read More](https://medium.com/p/e52db14ded10) |
+| Tue, 18 Nov 2025 17:35:51 GMT | Google Warns Billions About Fake VPN Apps Hijacking Devices and Stealing Private Data | David Miller | [Read More](https://medium.com/p/1cf02dcc3b0a) |
+| Tue, 18 Nov 2025 17:32:28 GMT | The Hyper Connected City, The Isolated Citizen: Why We’re Lonelier Than Ever We live in a world… | NEWTON | [Read More](https://medium.com/p/84d91c509cda) |
 | Tue, 18 Nov 2025 17:27:48 GMT | Building a Cybersecurity Home Lab — Part 3.3: Deploying and Configuring Linux VMs | JBXSec | [Read More](https://medium.com/p/635fd3e01be0) |
 | Tue, 18 Nov 2025 17:27:15 GMT | I Dived into the Dark Web in 2025: Shocking Secrets, Scams, and Surprises That’ll Haunt Your… | Hugo Valters | [Read More](https://medium.com/p/9c3fef5e34ad) |
 | Tue, 18 Nov 2025 17:25:04 GMT | The Hottest AI Tools Just Landed on Ainsider.Store: November 2025 Edition | Piotr Macai | [Read More](https://medium.com/p/8ebcc3320f87) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 12:16:54 GMT | How One Book Changed My Entire Approach to Penetration Testing | Aj | [Read More](https://medium.com/p/58680ccd85d6) |
 | Tue, 18 Nov 2025 12:16:28 GMT | Kamu Harus Melek Pentingnya Privasi | Hartzel | [Read More](https://medium.com/p/ab39a9846a30) |
 | Tue, 18 Nov 2025 12:15:32 GMT | Ring Battery Doorbell Pro: Cutting-Edge 1536p Head-to-Toe Security for Your Home | Tried & True Reviews | [Read More](https://medium.com/p/208441fd71fa) |
-| Tue, 18 Nov 2025 12:15:04 GMT | The Rebirth of a Man Who Finally Let Himself Feel | Medium | [Read More](https://medium.com/p/6eee6d03c257) |
-| Tue, 18 Nov 2025 12:14:52 GMT | LLMScanPro — LLM models vulnerability scanner | Deepanshu khanna | [Read More](https://medium.com/p/c4b584d4ef0f) |
-| Tue, 18 Nov 2025 12:12:29 GMT | Microsoft Releases Emergency Windows 10 Update to Fix Extended Security Update Installation Errors | Technijian | [Read More](https://medium.com/p/ddd5c10f5a6a) |
-| Tue, 18 Nov 2025 12:12:01 GMT | Write-up : Simple CTF — TryHackMe | DylanSec | [Read More](https://medium.com/p/6fdb8c0de708) |
-| Tue, 18 Nov 2025 12:11:26 GMT | The Five Domains of Cybersecurity: A Comprehensive Framework | Samina Perveen | [Read More](https://medium.com/p/4d0d771c73fc) |
-| Tue, 18 Nov 2025 12:10:25 GMT | Digital Emergency Assistant: Your Data & System Lifesaver in the Digital Era | Dwi Pratama | [Read More](https://medium.com/p/08d2b3f90e7d) |
-| Tue, 18 Nov 2025 12:10:00 GMT | Detecting DCSync Attacks: The Silent Domain Takeover Most SOCs Miss | Aufarifqi | [Read More](https://medium.com/p/52cda0ae6358) |
-| Tue, 18 Nov 2025 12:02:03 GMT | Did China Really Use Claude AI to Hack 30 Companies? | MKWriteshere | [Read More](https://medium.com/p/70948b5d15ac) |
-| Tue, 18 Nov 2025 12:00:28 GMT | Today’s Top Cyber Intelligence Highlights — Nov 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/74de973650a5) |
-| Tue, 18 Nov 2025 11:57:02 GMT | CISA Hiring Surge 2026: What It Means for Your Cybersecurity Strategy | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/215c5b31cb17) |
-| Tue, 18 Nov 2025 11:54:20 GMT | The Art of Cryptography | Mahad Aqeel | [Read More](https://medium.com/p/7c39fa704f4f) |
-| Tue, 18 Nov 2025 11:53:36 GMT | Cyber Security Analyst Career Path: Skills, Roles, and Growth Opportunities in 2026 | Crawsec | [Read More](https://medium.com/p/8e01e7d96038) |
-| Tue, 18 Nov 2025 11:50:32 GMT | The Border is Closed: How Pakistan-Afghanistan Tensions Threaten Regional Stability | MASUM BILLAH | [Read More](https://medium.com/p/5f3d90ae9729) |
-| Tue, 18 Nov 2025 11:48:24 GMT | AUTHENTIC PAYPAL DL CC ATM cloned cards Bank Cashapp Wu CASH TRANSFERS Criminal Record cleared… | Randal Wood | [Read More](https://medium.com/p/48331267f52c) |
-| Tue, 18 Nov 2025 11:48:10 GMT | Achieving IT Cost Reduction and Efficiency Gains Through ServiceNow ITOM | Alex s | [Read More](https://medium.com/p/cfb81d2f3fb2) |
-| Tue, 18 Nov 2025 11:45:24 GMT | How I Learned to Be Mentally Strong: A Journey Worth Taking | Lucy Loo | [Read More](https://medium.com/p/5913dfe6cf55) |
-| Tue, 18 Nov 2025 11:32:00 GMT | Networking 101: Updating Firmware Manually on Nomadix AG 5900 | Gukesh Ramashwani | [Read More](https://medium.com/p/bad009c4e53e) |
-| Tue, 18 Nov 2025 11:28:59 GMT | Best Ethical Hacking Course in Mohali - CEH Training Chandigarh — techcadd | Simranjit Kaur | [Read More](https://medium.com/p/9961332aac3f) |
