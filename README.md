@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 11:12:03 GMT | How Data Breaches Shape Market Value: Lessons from Real Incidents | Tyson Martin | [Read More](https://medium.com/p/c78adb22229d) |
+| Tue, 18 Nov 2025 11:11:50 GMT | Lost Crypto? Here’s How People Are Getting Their Money Back in 2025 | Lost Crypto Recovery Service. | [Read More](https://medium.com/p/6a3e4aa10c26) |
+| Tue, 18 Nov 2025 11:08:10 GMT | The First AI-Orchestrated Cyberattack Is Here: 5 Lessons That Change Everything | Amrik  Hanjra | [Read More](https://medium.com/p/418b69e7ce92) |
+| Tue, 18 Nov 2025 11:03:36 GMT | Why Zero-Knowledge Privacy Matters for Your Crypto Wallet | Vygha | [Read More](https://medium.com/p/fb27ef01ccdd) |
+| Tue, 18 Nov 2025 11:03:30 GMT | The Linux Advantage: Why a Cheap Linux Server Can Power Big Ambitions | Andy | [Read More](https://medium.com/p/6c6809ea0a6d) |
+| Tue, 18 Nov 2025 10:56:19 GMT | Zero Trust Isn’t a Framework — It’s a Wake-Up Call for Modern Security | Devarshi Acharya | [Read More](https://medium.com/p/86b617096540) |
+| Tue, 18 Nov 2025 10:56:03 GMT | Zero Trust Architecture: Why the Future of Security Starts With Eliminating Assumptions | Devarshi Acharya | [Read More](https://medium.com/p/ecb23bf75e55) |
+| Tue, 18 Nov 2025 10:51:01 GMT | Your Guide to HTTPS & TLS for Node.js | Manish Prasad | [Read More](https://medium.com/p/56ae77ee12e1) |
+| Tue, 18 Nov 2025 10:49:01 GMT | Why 2025 Marks the End of Traditional Cybersecurity in Finance | Legal Thoughts | [Read More](https://medium.com/p/a29d35c47722) |
 | Tue, 18 Nov 2025 10:45:46 GMT | Broken Link Hijacking: Explained Simply | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/cacdbf2f3df7) |
 | Tue, 18 Nov 2025 10:44:49 GMT | ️ VedicRecon (v1.0.a): | Shikhar Sinha | [Read More](https://medium.com/p/cf5a4473f42e) |
 | Tue, 18 Nov 2025 10:44:08 GMT | Ketika Windows Defender Kena Fake-Out: Masuknya RONINGLOADER | Adi Saputra | [Read More](https://medium.com/p/11a441bc12d5) |
+| Tue, 18 Nov 2025 10:40:25 GMT | Why is everyone upgrading to Samsung A Series this year? | Chloe White | [Read More](https://medium.com/p/07c56d66fb0e) |
 | Tue, 18 Nov 2025 10:32:35 GMT | AI Ops & Cyber Risk: 7 Essential Governance Controls | Pentest_Testing_Corp | [Read More](https://medium.com/p/afc7d41dba3d) |
 | Tue, 18 Nov 2025 10:29:18 GMT | Symmetric vs Asymmetric Encryption — Explained | Attiqorakzai | [Read More](https://medium.com/p/1f782b3263b4) |
 | Tue, 18 Nov 2025 10:28:25 GMT | Artificial Intelligence & Automation: How They’re Quietly Changing Your Everyday Life | Rashmi H. | [Read More](https://medium.com/p/a5c65bb91689) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 06:33:51 GMT | Unleash the Dark Web’s Secrets!!! | cybrNK | [Read More](https://medium.com/p/edb505c1cce9) |
 | Tue, 18 Nov 2025 06:31:01 GMT | How to Implement ISO 27001: A Practical Guide | NidaWaqas | [Read More](https://medium.com/p/6ab9e997bc16) |
 | Tue, 18 Nov 2025 06:30:45 GMT | Top 10 Free Cybersecurity Tools | CodeZen | [Read More](https://medium.com/p/e7177eb50992) |
-| Tue, 18 Nov 2025 06:30:25 GMT | Fake Users, Real Damage — A Story of How Platforms Lose Millions Without Realizing It | Gokul Nair | [Read More](https://medium.com/p/be7846d0f055) |
-| Tue, 18 Nov 2025 06:26:34 GMT | What Are the Key Components of a Phishing Simulation? A Practical Guide for Modern Organizations | Securis360 Inc. | [Read More](https://medium.com/p/b7c68314ff72) |
-| Tue, 18 Nov 2025 06:20:33 GMT | Chrome Fake Wallet Scandal: A Wake-Up Call for Crypto Security — And Digital Shield’s Response | Digital Shield Offcial | [Read More](https://medium.com/p/a079f8c3493e) |
-| Tue, 18 Nov 2025 06:13:44 GMT | Integrating Snort IDS with Wazuh SIEM for Enhanced Security Monitoring | Syed Jawad | [Read More](https://medium.com/p/c3dbc57a9f10) |
-| Tue, 18 Nov 2025 06:13:03 GMT | A $2.2 Billion Wake-Up Call: Why Hardware Wallets Are No Longer Optional but Essential | Digital Shield Offcial | [Read More](https://medium.com/p/7a1dbc53db87) |
-| Tue, 18 Nov 2025 06:05:38 GMT | OWASP Top 10 2025: Application Design Flaws - TryHackMe - Walkthrough | Visir | [Read More](https://medium.com/p/23b871afc820) |
-| Tue, 18 Nov 2025 06:02:49 GMT | Cyber Security Training vs Certificates: What Employers Actually Care About in 2025 | Msdevipriya | [Read More](https://medium.com/p/37ce4de70c75) |
-| Tue, 18 Nov 2025 05:42:38 GMT | Level Up Your Digital Defence Skills — BIA’s Best Cybersecurity Course in Bangalore” | Afreedalok | [Read More](https://medium.com/p/765a9b35ae3d) |
-| Tue, 18 Nov 2025 05:38:59 GMT | Guardando segredos como um profissional: HashiCorp Vault no Kubernetes | IvanCl4udio | [Read More](https://medium.com/p/3b38380141b4) |
-| Tue, 18 Nov 2025 05:37:49 GMT | AI-Orchestrated Espionage: How Anthropic Exposed the Future of Cyberattacks | Jagan Raj Raviraja | [Read More](https://medium.com/p/49f59c804d5c) |
