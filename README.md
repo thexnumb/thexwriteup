@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 19:28:08 GMT | The Builder’s Notes: The De-identification Pipeline No One Shows You — Processing PHI Through LLMs | Piyoosh Rai | [Read More](https://medium.com/p/23c803f14b08) |
+| Tue, 18 Nov 2025 19:21:59 GMT | How Do Websites Remember You? The Complete Guide to Cookies — Beyond Just “Staying Logged In” | Vaibhav Singh | [Read More](https://medium.com/p/1fde2b3f0e69) |
+| Tue, 18 Nov 2025 19:21:02 GMT | How Do You Disable Tracking for Android Apps? | Awais Khan | [Read More](https://medium.com/p/ce8587398752) |
+| Tue, 18 Nov 2025 19:16:12 GMT | Stress level After 147 Job Rejections last 30 days | lagigi | [Read More](https://medium.com/p/a949f636ea72) |
+| Tue, 18 Nov 2025 19:14:56 GMT | When AI Became The Hacker: How Three November Discoveries Prove Autonomous Cyberattacks Are Already… | Berend Watchus | [Read More](https://medium.com/p/d61914e8e1d7) |
 | Tue, 18 Nov 2025 19:10:01 GMT | The World Doesn’t Need More Cybersecurity Professionals | InfosecPandey | [Read More](https://medium.com/p/686856682db4) |
 | Tue, 18 Nov 2025 19:08:15 GMT | The Hidden Cost of a Ransomware Attack — And Why It Can Break Your Business | Cordula Boeck | [Read More](https://medium.com/p/f4f6bc385f51) |
+| Tue, 18 Nov 2025 19:06:32 GMT | When AI Becomes the Attacker: Why Your Security Stack Can’t Save You Anymore | Spencer Thomason | [Read More](https://medium.com/p/c2a2453dfcfd) |
 | Tue, 18 Nov 2025 18:58:28 GMT | Anthropic’s Disclosure Missed the Real Point, The Attack Didn’t Succeed Because AI Got Smarter; It… | Rampart AI™ | [Read More](https://medium.com/p/e3ef16841e6c) |
 | Tue, 18 Nov 2025 18:58:02 GMT | My CISSP Journey: An 8-Month Preparation and Strategy Guide | Mainak Biswas | [Read More](https://medium.com/p/696de2c9ce8e) |
 | Tue, 18 Nov 2025 18:56:27 GMT | Building a Cybersecurity Home Lab — Part 3.4: Lab Milestone & Critical Considerations | JBXSec | [Read More](https://medium.com/p/10cbb800408f) |
@@ -28,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 18:39:39 GMT | OSCP Grind - PG Practice - ClamAV | Mr Jokar | [Read More](https://medium.com/p/1281ef91f195) |
 | Tue, 18 Nov 2025 18:37:12 GMT | I Tracked My Own Digital Footprint for 24 Hours | Hareem Fatima | [Read More](https://medium.com/p/f7f334455940) |
 | Tue, 18 Nov 2025 18:33:04 GMT | My experience with certification CRTP + Bootcamp | X0Anubis | [Read More](https://medium.com/p/6f1cd095dd9d) |
+| Tue, 18 Nov 2025 18:16:05 GMT | Cisco Alerts Users to New Firewall Attack Exploiting CVE 2025 20333 and CVE 2025 20362 | SCtoCS | [Read More](https://medium.com/p/2d6a70690bd3) |
 | Tue, 18 Nov 2025 18:15:38 GMT | The Cloudflare Crash That Exposed My Biggest Digital Fear | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/bfcbae9fd315) |
 | Tue, 18 Nov 2025 18:12:40 GMT | Dork Labs Awarded AWS Activate Startup Grant | DorkFi | [Read More](https://medium.com/p/96f7e7ded890) |
 | Tue, 18 Nov 2025 18:04:55 GMT | How Explainable AI Is Reshaping the Modern SOC | Graylog | [Read More](https://medium.com/p/c15ab84406c8) |
@@ -53,6 +60,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 17:13:38 GMT | OSINT Tutorial 4: How to Solve a Geolocation Puzzle | S.Ali | [Read More](https://medium.com/p/7bcd9f222116) |
 | Tue, 18 Nov 2025 17:11:11 GMT | The Secret to AWS Security? Don’t Store Secrets. | Stephanie Batanwi | [Read More](https://medium.com/p/4fd95e880659) |
 | Tue, 18 Nov 2025 17:06:06 GMT | OSINT Researcher: Fast GitHub intelligence tool | OSINT Researcher | [Read More](https://medium.com/p/437ccbf87d2b) |
+| Tue, 18 Nov 2025 16:59:02 GMT | TryHackMe:Farewell | Altair | [Read More](https://medium.com/p/f5eca8134229) |
 | Tue, 18 Nov 2025 16:58:04 GMT | When the Internet Broke: What Really Happened During the Cloudflare Outage | Rohan kumar | [Read More](https://medium.com/p/fcfc6fdf137a) |
 | Tue, 18 Nov 2025 16:56:27 GMT | Monitoring Keycloak Events in Wazuh — A Complete, Working Integration Guide | Yash Patel | [Read More](https://medium.com/p/a669817dc018) |
 | Tue, 18 Nov 2025 16:50:56 GMT | Cloudflare Crushed Elon Musk’s X and ChatGPT. How One Tiny File Broke the Web. | Tanzid (TechToFit.space) | [Read More](https://medium.com/p/1afa60b01b60) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 14:11:24 GMT | Cyber Hygiene Assistant: A Modern Approach to Everyday Digital Safety | Chandan Raj | [Read More](https://medium.com/p/ad9b62959b24) |
 | Tue, 18 Nov 2025 13:54:43 GMT | Le jour où un homme d’affaires m’a confié son mot de passe sans hésiter. | EdenBlue | [Read More](https://medium.com/p/761107dd7238) |
 | Tue, 18 Nov 2025 13:50:15 GMT | BREAKING NEWS: Global Cloudflare Outage Triggers Mass Internet Failures, Underscoring Dual-Use Risk… | Berend Watchus | [Read More](https://medium.com/p/bec24572cba8) |
-| Tue, 18 Nov 2025 13:46:37 GMT | How to Open a Garage Door If the Spring Is Broken: Safe DIY Steps | 24H Garage Doors | [Read More](https://medium.com/p/b824a2f395f2) |
-| Tue, 18 Nov 2025 13:46:25 GMT | Fix “Please Unblock challenges.cloudflare.com to Proceed” Error: Quick & Trusted Solutions | Radha Kulkarni | [Read More](https://medium.com/p/3605868bfd44) |
-| Tue, 18 Nov 2025 13:42:28 GMT | Top CMMC Compliance Challenges Faced by New York Organizations and How to Overcome Them | Compciti | [Read More](https://medium.com/p/b5afd6a7dc2e) |
-| Tue, 18 Nov 2025 13:31:23 GMT | Advantages And Disadvantages Of Ethical Hacking | Irfan Sharief | [Read More](https://medium.com/p/5b87b39ea709) |
-| Tue, 18 Nov 2025 13:28:26 GMT | # How I Fingerprinted the OpenAI 2025 ChatGPT Containers (Using Only the Free Tier) | ANTIBUGS | [Read More](https://medium.com/p/4be9c2740fd2) |
-| Tue, 18 Nov 2025 13:27:24 GMT | AI — Why You Won’t See It Coming | Egor Ryashin | [Read More](https://medium.com/p/b886d1cb0bdb) |
-| Tue, 18 Nov 2025 13:26:47 GMT | GitHub Dorking: The Hunter’s Guide to Finding Secrets in Public Code | N0aziXss | [Read More](https://medium.com/p/f1b8582309e8) |
-| Tue, 18 Nov 2025 13:24:19 GMT | The Future of Data Center Security in KSA & GCC Is Here | Tekfardeen | [Read More](https://medium.com/p/35bf5ac345ad) |
