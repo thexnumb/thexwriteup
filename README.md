@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 16:14:03 GMT | Why Identity Threat Detection & Response (ITDR) Is Becoming Essential in Modern Security | Sunnysinha | [Read More](https://medium.com/p/0e5cd19a5320) |
+| Tue, 18 Nov 2025 16:09:47 GMT | The Dark Side of “Unofficial Apps” | Hitesh Said | [Read More](https://medium.com/p/a67c39571d34) |
+| Tue, 18 Nov 2025 16:07:04 GMT | Scams? Or Cyber-scams! | Umair Imran | [Read More](https://medium.com/p/b27887cf1725) |
+| Tue, 18 Nov 2025 16:02:47 GMT | UAT vs Production Pentesting: What Pentesters Must Understand | Abhishek Kumar | [Read More](https://medium.com/p/7e03ca037850) |
+| Tue, 18 Nov 2025 16:01:40 GMT | Cloudflare Outage Explained: Why the Internet Went Down Today (18 Nov 2025) | Mohamed Basil | [Read More](https://medium.com/p/92e89e625b11) |
+| Tue, 18 Nov 2025 15:59:10 GMT | The Day the Web Stumbled: Cloudflare’s Outage and the Hidden Crisis of Digital Sovereignty | Abatis ABTU | [Read More](https://medium.com/p/0f0a5da7a196) |
+| Tue, 18 Nov 2025 15:58:29 GMT | This Remains the Most Alarming Cleantech Stories of the Year | Tony Paradiso | [Read More](https://medium.com/p/905b297db575) |
+| Tue, 18 Nov 2025 15:54:46 GMT | When the Internet Sneezes: The Great Cloudflare Outage of 2025 | MEDUSA | [Read More](https://medium.com/p/9d783dfe713c) |
+| Tue, 18 Nov 2025 15:52:06 GMT | Cybersecurity & Ethical Hacking | Oliver H Blake | [Read More](https://medium.com/p/a3fa14a94f84) |
+| Tue, 18 Nov 2025 15:50:22 GMT | Phishing vs Social Engineering: What’s the Difference? | AndrewKiema | [Read More](https://medium.com/p/553234e57f57) |
+| Tue, 18 Nov 2025 15:46:38 GMT | After LockBit and BlackCat, Is Cl0p Really Next in Line? | Wes Young | [Read More](https://medium.com/p/49e9a701d7bb) |
+| Tue, 18 Nov 2025 15:40:51 GMT | Beyond Compliance: Why OT Red Teaming Proves Actual Resilience Over Paper Readiness | Gary S Mullen | [Read More](https://medium.com/p/05cf2f7c9526) |
 | Tue, 18 Nov 2025 15:33:51 GMT | What Happens When You Visit a Website? | R1punjay_Singh | [Read More](https://medium.com/p/b2fd0737d540) |
 | Tue, 18 Nov 2025 15:32:55 GMT | How Chinese Hackers Used Anthropic’s Claude to Automate Cyberattacks: A New Era of AI-Driven… | Faisal Khan | [Read More](https://medium.com/p/0a0f4c7f1500) |
 | Tue, 18 Nov 2025 15:24:51 GMT | The Bank Staff Impersonation & OTP Scam | Oludare Stephen Ayobami | [Read More](https://medium.com/p/b8f7c02a0e39) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 10:51:01 GMT | Your Guide to HTTPS & TLS for Node.js | Manish Prasad | [Read More](https://medium.com/p/56ae77ee12e1) |
 | Tue, 18 Nov 2025 10:49:01 GMT | Why 2025 Marks the End of Traditional Cybersecurity in Finance | Legal Thoughts | [Read More](https://medium.com/p/a29d35c47722) |
 | Tue, 18 Nov 2025 10:45:46 GMT | Broken Link Hijacking: Explained Simply | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/cacdbf2f3df7) |
-| Tue, 18 Nov 2025 10:44:49 GMT | ️ VedicRecon (v1.0.a): | Shikhar Sinha | [Read More](https://medium.com/p/cf5a4473f42e) |
-| Tue, 18 Nov 2025 10:44:08 GMT | Ketika Windows Defender Kena Fake-Out: Masuknya RONINGLOADER | Adi Saputra | [Read More](https://medium.com/p/11a441bc12d5) |
-| Tue, 18 Nov 2025 10:40:25 GMT | Why is everyone upgrading to Samsung A Series this year? | Chloe White | [Read More](https://medium.com/p/07c56d66fb0e) |
-| Tue, 18 Nov 2025 10:32:35 GMT | AI Ops & Cyber Risk: 7 Essential Governance Controls | Pentest_Testing_Corp | [Read More](https://medium.com/p/afc7d41dba3d) |
-| Tue, 18 Nov 2025 10:29:18 GMT | Symmetric vs Asymmetric Encryption — Explained | Attiqorakzai | [Read More](https://medium.com/p/1f782b3263b4) |
-| Tue, 18 Nov 2025 10:28:25 GMT | Artificial Intelligence & Automation: How They’re Quietly Changing Your Everyday Life | Rashmi H. | [Read More](https://medium.com/p/a5c65bb91689) |
-| Tue, 18 Nov 2025 10:28:13 GMT | Yescrypt — The Large Scale Password Protector | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/aec8364fdf94) |
-| Tue, 18 Nov 2025 10:25:55 GMT | How I Earned My First Bug Bounty: A Beginner’s Journey | Geek Divyanshu | [Read More](https://medium.com/p/5adfdbd2ccdd) |
-| Tue, 18 Nov 2025 10:25:13 GMT | Why AI Is Redefining Sales Engagement in 2025? | Donnager | [Read More](https://medium.com/p/7704ecc6bdaa) |
-| Tue, 18 Nov 2025 10:24:07 GMT | Brain: The Built-In Payload Attackers Can Exploit "The human element is the easiest to exploit… | Olatunji David | [Read More](https://medium.com/p/8ff8e153a7db) |
-| Tue, 18 Nov 2025 10:20:51 GMT | Business Leadership Courses in Australia — Build Skills for a Successful Future | royalinternational | [Read More](https://medium.com/p/018f25d303db) |
-| Tue, 18 Nov 2025 10:13:47 GMT | The Increasing Use of AI in Both Attacks and Defenses | Ansilg | [Read More](https://medium.com/p/3b06cbf2f140) |
