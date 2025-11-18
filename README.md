@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 23:02:35 GMT | The Advanced User Survival Guide to Intecrnet Outages | MEDUSA | [Read More](https://medium.com/p/b1cc7e01fee5) |
+| Tue, 18 Nov 2025 22:56:58 GMT | The Leap from Casual Dating to Serious Commitment | Shayma Popova | [Read More](https://medium.com/p/87c7e058eb48) |
+| Tue, 18 Nov 2025 22:54:42 GMT | What Happens When Quantum Computers Break Every Password on Earth? | Tars | [Read More](https://medium.com/p/5d54e72f1782) |
+| Tue, 18 Nov 2025 22:53:45 GMT | They’re Not After Your Password Anymore. Here’s What Phishers Really Want. | Jamal Mammadli | [Read More](https://medium.com/p/6e6d006268a7) |
+| Tue, 18 Nov 2025 22:52:45 GMT | Online Scams to Avoid in 2025 | Smart Grind | [Read More](https://medium.com/p/ee53e1e371ce) |
 | Tue, 18 Nov 2025 22:34:18 GMT | I Watched a Phishing Attack Happen in Real Time ..Here’s the Part Hackers Don’t Want You to See | Caleb Mingle | [Read More](https://medium.com/p/52680956f55b) |
 | Tue, 18 Nov 2025 22:33:09 GMT | LinkedIn Has Become the New Phishing Playground | Cyber-AppSec | [Read More](https://medium.com/p/bc3794f44aeb) |
 | Tue, 18 Nov 2025 22:32:30 GMT | Chasing what....? | Nazma Sultana | [Read More](https://medium.com/p/85f40056d3da) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 15:58:29 GMT | This Remains the Most Alarming Cleantech Stories of the Year | Tony Paradiso | [Read More](https://medium.com/p/905b297db575) |
 | Tue, 18 Nov 2025 15:54:46 GMT | When the Internet Sneezes: The Great Cloudflare Outage of 2025 | MEDUSA | [Read More](https://medium.com/p/9d783dfe713c) |
 | Tue, 18 Nov 2025 15:52:06 GMT | Cybersecurity & Ethical Hacking | Oliver H Blake | [Read More](https://medium.com/p/a3fa14a94f84) |
-| Tue, 18 Nov 2025 15:50:22 GMT | Phishing vs Social Engineering: What’s the Difference? | AndrewKiema | [Read More](https://medium.com/p/553234e57f57) |
-| Tue, 18 Nov 2025 15:46:38 GMT | After LockBit and BlackCat, Is Cl0p Really Next in Line? | Wes Young | [Read More](https://medium.com/p/49e9a701d7bb) |
-| Tue, 18 Nov 2025 15:40:51 GMT | Beyond Compliance: Why OT Red Teaming Proves Actual Resilience Over Paper Readiness | Gary S Mullen | [Read More](https://medium.com/p/05cf2f7c9526) |
-| Tue, 18 Nov 2025 15:33:51 GMT | What Happens When You Visit a Website? | R1punjay_Singh | [Read More](https://medium.com/p/b2fd0737d540) |
-| Tue, 18 Nov 2025 15:32:55 GMT | How Chinese Hackers Used Anthropic’s Claude to Automate Cyberattacks: A New Era of AI-Driven… | Faisal Khan | [Read More](https://medium.com/p/0a0f4c7f1500) |
