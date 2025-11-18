@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 20:12:52 GMT | Critical Vulnerability CVE-2025–62765 in Lynx+ Gateway: Is Your Network Exposed? | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/2101986062aa) |
+| Tue, 18 Nov 2025 20:08:58 GMT | Burnout and Mental Health in Tech : The Conversation Every Team Needs | Modncv | [Read More](https://medium.com/p/2590a5d14052) |
+| Tue, 18 Nov 2025 20:01:29 GMT | Cloudflare Outages: Why it is always DNS misconfiguration? | Kavi Kumar | [Read More](https://medium.com/p/5a5b60ad4e8e) |
+| Tue, 18 Nov 2025 19:55:43 GMT | Building a Cybersecurity Home Lab — Part 4: Installing Core Security Applications | JBXSec | [Read More](https://medium.com/p/fae91cd02971) |
+| Tue, 18 Nov 2025 19:55:02 GMT | The Future of Automotive Cybersecurity: Jobs, Skills, and the Best Countries for a High-Growth… | Kirthi | [Read More](https://medium.com/p/2fda24cfb2c1) |
+| Tue, 18 Nov 2025 19:50:21 GMT | Cloudfare Outage: The. Tuesday morning when 1/4th of the internet went silent | Anindya Mishra | [Read More](https://medium.com/p/4e42f2176a0a) |
+| Tue, 18 Nov 2025 19:35:52 GMT | Videos from “CVE Program Technical Workshop 2025” Now Available | CVE Program Blog | [Read More](https://medium.com/p/0855c2d3531d) |
 | Tue, 18 Nov 2025 19:28:08 GMT | The Builder’s Notes: The De-identification Pipeline No One Shows You — Processing PHI Through LLMs | Piyoosh Rai | [Read More](https://medium.com/p/23c803f14b08) |
 | Tue, 18 Nov 2025 19:21:59 GMT | How Do Websites Remember You? The Complete Guide to Cookies — Beyond Just “Staying Logged In” | Vaibhav Singh | [Read More](https://medium.com/p/1fde2b3f0e69) |
 | Tue, 18 Nov 2025 19:21:02 GMT | How Do You Disable Tracking for Android Apps? | Awais Khan | [Read More](https://medium.com/p/ce8587398752) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 14:36:41 GMT | How i was able to find my first 3 bugs in bugcrowd | mrx_w_ | [Read More](https://medium.com/p/77a1b673ed90) |
 | Tue, 18 Nov 2025 14:35:36 GMT | Every Cloud Outage Was One of the 30 Targets: The Anthropic/Claude AI Hacking Incident and the Real… | Monroe Rodriguez | [Read More](https://medium.com/p/a46a67a0a284) |
 | Tue, 18 Nov 2025 14:25:52 GMT | Cloudflare isCloudflare Internal Server Error 500 | Ashar Arif | [Read More](https://medium.com/p/1bcbf3dd9756) |
-| Tue, 18 Nov 2025 14:25:52 GMT | Why brilliant people still use one single password. | EdenBlue | [Read More](https://medium.com/p/fd160437bafd) |
-| Tue, 18 Nov 2025 14:25:04 GMT | Mr. Robot CTF — TryHackme Walkthrough | Cypher.One | [Read More](https://medium.com/p/3482e1b358c5) |
-| Tue, 18 Nov 2025 14:22:04 GMT | A Man’s True Love: 4 Text Messages That Show He Sees You as His Wife | Dancemi Clare | [Read More](https://medium.com/p/80698e5883cd) |
-| Tue, 18 Nov 2025 14:12:26 GMT | The Best Types of Garage Door Insulation | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/a32a78f155f5) |
-| Tue, 18 Nov 2025 14:11:24 GMT | Cyber Hygiene Assistant: A Modern Approach to Everyday Digital Safety | Chandan Raj | [Read More](https://medium.com/p/ad9b62959b24) |
-| Tue, 18 Nov 2025 13:54:43 GMT | Le jour où un homme d’affaires m’a confié son mot de passe sans hésiter. | EdenBlue | [Read More](https://medium.com/p/761107dd7238) |
-| Tue, 18 Nov 2025 13:50:15 GMT | BREAKING NEWS: Global Cloudflare Outage Triggers Mass Internet Failures, Underscoring Dual-Use Risk… | Berend Watchus | [Read More](https://medium.com/p/bec24572cba8) |
