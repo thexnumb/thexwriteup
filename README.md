@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 05:10:35 GMT | MY FIRST SPLUNK DASH | Osho | [Read More](https://medium.com/p/d91e1ba29247) |
+| Tue, 18 Nov 2025 05:10:30 GMT | Your LinkedIn Inbox is the New Danger Zone: Why Hackers Have Moved on From Email. | Athishsagarkishan | [Read More](https://medium.com/p/9a1a685c5af2) |
+| Tue, 18 Nov 2025 05:05:36 GMT | Apex: Your AI-Powered Guardian Against Malicious Websites | Ajay Agrawal | [Read More](https://medium.com/p/ff7445837843) |
+| Tue, 18 Nov 2025 05:04:38 GMT | Large File Uploads (10GB) with Django — Part 4: Cloud Storage Patterns | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/ff06106c49fc) |
+| Tue, 18 Nov 2025 05:02:09 GMT | Get Started with Kali Linux and Understand the Standard Commands | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8fc83cb086c9) |
+| Tue, 18 Nov 2025 04:59:12 GMT | CCTV for Small Shops in Bathinda: Affordable Security Solutions | Ask IT Support | [Read More](https://medium.com/p/f90e7e19c6da) |
+| Tue, 18 Nov 2025 04:58:03 GMT | Ghost Protocol: Anonymity vs. Justice | David ONeal | [Read More](https://medium.com/p/e98591cc8d44) |
+| Tue, 18 Nov 2025 04:56:58 GMT | #astralguardacademy #onlinecourses #globalcommunity #certificationprograms #pentesting… | Mariatheresia | [Read More](https://medium.com/p/360fdae99147) |
+| Tue, 18 Nov 2025 04:54:50 GMT | The Stalemate and the Shadow: Europe’s Unfinished War with Russia | MASUM BILLAH | [Read More](https://medium.com/p/ab34a2c578c5) |
+| Tue, 18 Nov 2025 04:52:17 GMT | Investigating an XSS Attempt in LetsDefend (SOC166 — Event ID 166) | Soumodeep Das | [Read More](https://medium.com/p/2ba7ee08a944) |
+| Tue, 18 Nov 2025 04:50:14 GMT | Closing the Global Cybersecurity Skills Gap: How AstralGuard from Africa Is Training the Next… | Mariatheresia | [Read More](https://medium.com/p/93bd10809a36) |
+| Tue, 18 Nov 2025 04:46:27 GMT | Why Cybersecurity is everyone’s responsibility, Not just IT’s | The phantom speaks | [Read More](https://medium.com/p/762c176ff596) |
 | Tue, 18 Nov 2025 04:45:37 GMT | Understanding DDoS Attacks: How They Work and How to Stay Protected | Geeky Vartika | [Read More](https://medium.com/p/76181756f0ce) |
+| Tue, 18 Nov 2025 04:43:47 GMT | Phishing Safety Checklist for Seniors | Lizzy N | [Read More](https://medium.com/p/8f1b9dd2c31f) |
 | Tue, 18 Nov 2025 04:36:00 GMT | Mastering Linux Capabilities in Production Environments | Linux Guide | [Read More](https://medium.com/p/5a85641a9c7e) |
 | Tue, 18 Nov 2025 04:35:51 GMT | Importance of Cybersecurity for Small Companies | Wbc Software Lab | [Read More](https://medium.com/p/965a568495e8) |
+| Tue, 18 Nov 2025 04:32:35 GMT | Ransomware-as-a-Service Is Booming in 2025: Here’s What You Should Know | Sam Writes Security | [Read More](https://medium.com/p/47934af901e6) |
 | Tue, 18 Nov 2025 04:30:04 GMT | ️ Dissecting the First AI-Orchestrated Cyber Espionage Campaign | Varnith Yemula | [Read More](https://medium.com/p/c75d77a6c2b7) |
 | Tue, 18 Nov 2025 04:28:57 GMT | Amir Khan Muttaqi Meets High-Level Tajikistan Delegation in Kabul | Gulalai Jana | [Read More](https://medium.com/p/34a68cc28387) |
 | Tue, 18 Nov 2025 04:25:39 GMT | Splunk Clustering and Indexing | InfosecTrain | [Read More](https://medium.com/p/b18a8fb1c6e3) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 19:21:58 GMT | What Your Public Profiles Say About You (Even If You Think They Do Not) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e3ec516f2a7e) |
 | Mon, 17 Nov 2025 19:20:33 GMT | When Strength Becomes a Vulnerability | Hira Ahmad | [Read More](https://medium.com/p/68da84fd9ac6) |
 | Mon, 17 Nov 2025 19:05:29 GMT | PART 1 — Practical Linux Threat Hunting in CrowdStrike | Inteldalal | [Read More](https://medium.com/p/ac7cde98e4f9) |
-| Mon, 17 Nov 2025 19:01:46 GMT | Pentesing Commands Library: HTB Labs Edition | Shraddha M. | [Read More](https://medium.com/p/3703188594f0) |
-| Mon, 17 Nov 2025 18:48:20 GMT | Introdução | Tiago Demay | [Read More](https://medium.com/p/af5763dc8206) |
-| Mon, 17 Nov 2025 18:47:29 GMT | HTB — Flagportation Write-Up | CyberFaez | [Read More](https://medium.com/p/e1a1b0c010ca) |
-| Mon, 17 Nov 2025 18:47:27 GMT | Zero-Click Hack Alert: The LANDFALL Attack on Samsung Devices | Kunal Gangani | [Read More](https://medium.com/p/0735affc14b4) |
-| Mon, 17 Nov 2025 18:44:28 GMT | How Cyber Espionage Evolved into Autonomous Warfare | TechDemocracy | [Read More](https://medium.com/p/d9971666e3ce) |
-| Mon, 17 Nov 2025 18:43:39 GMT | A Tale of Two Security Programs and Two Different Trajectories | IOmergent | [Read More](https://medium.com/p/e1b85d6f2154) |
-| Mon, 17 Nov 2025 18:43:27 GMT | CVE-2025–64446 — A Red Team Offensive Playbook for FortiWeb RCE via Path Traversal +… | Very Lazy Tech | [Read More](https://medium.com/p/c79880f8b902) |
-| Mon, 17 Nov 2025 18:42:01 GMT | (File 19) Vincent Van Gore — The Mad Painter | Ink Stories Primal | [Read More](https://medium.com/p/cd2ac63325d1) |
-| Mon, 17 Nov 2025 18:35:46 GMT | Are We One Security Flaw Away From Losing Trust in AI-Generated Code? | Gadi Bashvitz | [Read More](https://medium.com/p/307b8221a069) |
-| Mon, 17 Nov 2025 18:32:15 GMT | Why On-chain Analysis Is Essential for Blockchain Security | Web3 in Three Minutes | [Read More](https://medium.com/p/588d7bf05929) |
-| Mon, 17 Nov 2025 18:32:01 GMT | The Wildest Tech Founder Story You’ve Never Heard: Crime, Code, and Chaos | The Latency Gambler | [Read More](https://medium.com/p/5e1528396c2d) |
-| Mon, 17 Nov 2025 18:20:55 GMT | Open Redirects: The Little Link That Could Destroy Your Reputation | Sajjan Nehal | [Read More](https://medium.com/p/73295eb13264) |
-| Mon, 17 Nov 2025 18:19:41 GMT | The Future of Information: What We Need to Know | CarAng | [Read More](https://medium.com/p/091f2f6ddb68) |
-| Mon, 17 Nov 2025 18:16:00 GMT | WAF: Introduction | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/3095deefa162) |
