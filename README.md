@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 13:28:26 GMT | # How I Fingerprinted the OpenAI 2025 ChatGPT Containers (Using Only the Free Tier) | ANTIBUGS | [Read More](https://medium.com/p/4be9c2740fd2) |
+| Tue, 18 Nov 2025 13:27:24 GMT | AI — Why You Won’t See It Coming | Egor Ryashin | [Read More](https://medium.com/p/b886d1cb0bdb) |
+| Tue, 18 Nov 2025 13:26:47 GMT | GitHub Dorking: The Hunter’s Guide to Finding Secrets in Public Code | N0aziXss | [Read More](https://medium.com/p/f1b8582309e8) |
+| Tue, 18 Nov 2025 13:24:19 GMT | The Future of Data Center Security in KSA & GCC Is Here | Tekfardeen | [Read More](https://medium.com/p/35bf5ac345ad) |
+| Tue, 18 Nov 2025 13:09:59 GMT | From the archive: WordStar 2000 Plus reviews | Mansfield-Devine | [Read More](https://medium.com/p/4faf458cf3c0) |
+| Tue, 18 Nov 2025 13:08:35 GMT | Can ChatGPT be Poisoned with Bad Data? | Devashish Datt Mamgain | [Read More](https://medium.com/p/8ec121261d79) |
+| Tue, 18 Nov 2025 13:03:32 GMT | How I Found My First Bug Bounty In 24 Hours | Ibtissam | [Read More](https://medium.com/p/cd7ca5e18f50) |
+| Tue, 18 Nov 2025 12:54:05 GMT | Understanding JWT Tokens: The Beginner’s Guide to Modern Authentication | Atharva Baheti | [Read More](https://medium.com/p/7a14b5b2aaa7) |
+| Tue, 18 Nov 2025 12:52:59 GMT | What’s this Glob NPM madness? Suddenly every Node.js image is Vulnerable — But why? | Balazs Csaba | [Read More](https://medium.com/p/1ba1b0cbad97) |
+| Tue, 18 Nov 2025 12:50:56 GMT | Article 5: Kali Linux Commands Cheatsheet | Aman Kumar Singh | [Read More](https://medium.com/p/18c6ff0157bf) |
 | Tue, 18 Nov 2025 12:40:52 GMT | Bashed — Write-up | Taxaneh | [Read More](https://medium.com/p/52966f6e8539) |
 | Tue, 18 Nov 2025 12:37:26 GMT | HTB Academy: SQL Injection Fundamentals — Skills Assessment | Oddshell | [Read More](https://medium.com/p/031ca15a30a4) |
+| Tue, 18 Nov 2025 12:35:57 GMT | The Cybersecurity Model Is Broken Autonomous Defense Is the Only Fix | Vaultnet Defense | [Read More](https://medium.com/p/780f14070dc7) |
 | Tue, 18 Nov 2025 12:34:31 GMT | How I Built a Robot That Finds Broken Authorization While I Sleep | Iski | [Read More](https://medium.com/p/458e94f4d879) |
 | Tue, 18 Nov 2025 12:26:16 GMT | The Myth of the Beauty in Falling Apart | Aiswarya Shivasankaran | [Read More](https://medium.com/p/5a08c0d5fad5) |
 | Tue, 18 Nov 2025 12:18:59 GMT | Diploma and Certificate Courses in Australia — Build Practical Skills for a Successful Career | AIST | [Read More](https://medium.com/p/e06bfbb8a727) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 08:52:27 GMT | eWPTXv3 Exam Review | Sudeepa Shiranthaka | [Read More](https://medium.com/p/447ff8c3aa7d) |
 | Tue, 18 Nov 2025 08:50:08 GMT | SITA — An AI-Powered Real-Time Log Analyzer for Developers | Maram Srinivasulu reddy | [Read More](https://medium.com/p/5c862b9dd875) |
 | Tue, 18 Nov 2025 08:46:31 GMT | Identity Drift (IDOR) CTF Challenge | Ahmed Mapher | [Read More](https://medium.com/p/8a88d5a2c9d5) |
-| Tue, 18 Nov 2025 08:39:50 GMT | The Older We Get, the More Loss Follows Us | Rahul Gupta | [Read More](https://medium.com/p/c4a3950ec304) |
-| Tue, 18 Nov 2025 08:34:29 GMT | Running Under the Hood: Bypassing Next Gen EDRs | Owais | [Read More](https://medium.com/p/5fe0c834f197) |
-| Tue, 18 Nov 2025 08:34:27 GMT | One Subscription Away from Criticals | Pwnr | [Read More](https://medium.com/p/e7a7bacde4b7) |
-| Tue, 18 Nov 2025 08:33:41 GMT | A Chain of Vulnerabilities Leading to Critical Information Disclosure | Pwnr | [Read More](https://medium.com/p/cf273686c0fc) |
-| Tue, 18 Nov 2025 08:31:18 GMT | The Future of Offensive Security in an AI-Powered World | Digital Defense | [Read More](https://medium.com/p/0080a67f3e6d) |
-| Tue, 18 Nov 2025 08:27:20 GMT | Microsoft vs AISURU: Inside the Record 5.72 Tbps DDoS Attack That Redefined Cloud Security | Germano Costi | [Read More](https://medium.com/p/ffe50f905cd1) |
-| Tue, 18 Nov 2025 08:15:59 GMT | Smart Devices, Dark Intentions | Oghenemaro Ikelegbe | [Read More](https://medium.com/p/263a5393c891) |
-| Tue, 18 Nov 2025 08:11:29 GMT | Authentication Bypass via a Flawed State Machine | Bash Overflow | [Read More](https://medium.com/p/28bbe211f248) |
-| Tue, 18 Nov 2025 08:04:36 GMT | Here’s how a Cyber Security Degree from George College can transform your future in IT security. | Ritik | [Read More](https://medium.com/p/87280e1635bc) |
-| Tue, 18 Nov 2025 08:03:49 GMT | When Privacy Clashes with Safety: Kerala HC balances Article 21 Rights. | Seema | [Read More](https://medium.com/p/372af3d9df78) |
-| Tue, 18 Nov 2025 08:02:01 GMT | Why is self-hosting replacing cloud services? | MyChat team | [Read More](https://medium.com/p/3440963ea578) |
