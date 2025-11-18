@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 04:45:37 GMT | Understanding DDoS Attacks: How They Work and How to Stay Protected | Geeky Vartika | [Read More](https://medium.com/p/76181756f0ce) |
+| Tue, 18 Nov 2025 04:36:00 GMT | Mastering Linux Capabilities in Production Environments | Linux Guide | [Read More](https://medium.com/p/5a85641a9c7e) |
+| Tue, 18 Nov 2025 04:35:51 GMT | Importance of Cybersecurity for Small Companies | Wbc Software Lab | [Read More](https://medium.com/p/965a568495e8) |
+| Tue, 18 Nov 2025 04:30:04 GMT | ️ Dissecting the First AI-Orchestrated Cyber Espionage Campaign | Varnith Yemula | [Read More](https://medium.com/p/c75d77a6c2b7) |
+| Tue, 18 Nov 2025 04:28:57 GMT | Amir Khan Muttaqi Meets High-Level Tajikistan Delegation in Kabul | Gulalai Jana | [Read More](https://medium.com/p/34a68cc28387) |
+| Tue, 18 Nov 2025 04:25:39 GMT | Splunk Clustering and Indexing | InfosecTrain | [Read More](https://medium.com/p/b18a8fb1c6e3) |
+| Tue, 18 Nov 2025 04:20:02 GMT | 5 Ways Elevate Helps Australian Businesses Stay Secure 24/7 | Elevate | [Read More](https://medium.com/p/ef1552b76c2a) |
 | Tue, 18 Nov 2025 04:16:31 GMT | How Blockchain Ensures Security and Transparency | idcyrpt | [Read More](https://medium.com/p/dfbe5f4b1fe5) |
 | Tue, 18 Nov 2025 04:00:24 GMT | If JWTs Can Shared, Are They Really Secure? | Vaibhav Singh | [Read More](https://medium.com/p/8b4ddc0d0c45) |
 | Tue, 18 Nov 2025 03:40:37 GMT | Jaringan Komputer : Konfigurasi Mikrotik, DHCP Server & DHCP Client | Yasa Wijaya | [Read More](https://medium.com/p/98975b6f1a6d) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 17 Nov 2025 18:20:55 GMT | Open Redirects: The Little Link That Could Destroy Your Reputation | Sajjan Nehal | [Read More](https://medium.com/p/73295eb13264) |
 | Mon, 17 Nov 2025 18:19:41 GMT | The Future of Information: What We Need to Know | CarAng | [Read More](https://medium.com/p/091f2f6ddb68) |
 | Mon, 17 Nov 2025 18:16:00 GMT | WAF: Introduction | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/3095deefa162) |
-| Mon, 17 Nov 2025 18:13:25 GMT | LetsDefend — A SOC336 Challenge Walkthrough | Andrew Shires | [Read More](https://medium.com/p/088a2e04d8a2) |
-| Mon, 17 Nov 2025 18:11:39 GMT | How I Tricked the AI: A Write-up of TCM Security’s Black Friday CTF | Gokhan Can | [Read More](https://medium.com/p/22d7c243644f) |
-| Mon, 17 Nov 2025 18:07:17 GMT | Dijital Hayalet Olmak: MAC Adresi Nedir ve Neden Değiştirmek İsteyebilirsiniz? | Çınar Genç | [Read More](https://medium.com/p/9853cce010c5) |
-| Mon, 17 Nov 2025 18:05:26 GMT | When Digital Sovereignty Is at Stake: Lessons from the November 2025 State Website Hack. | eL Njas!™ | [Read More](https://medium.com/p/6f02dffd117d) |
-| Mon, 17 Nov 2025 18:01:30 GMT | ️ Advanced Log Correlation Scenarios: Maximizing SOC Detection Capabilities | Esra Kayhan | [Read More](https://medium.com/p/2a89a4f8ed01) |
-| Mon, 17 Nov 2025 17:59:11 GMT | AI: The Boon and the Threat — How Artificial Intelligence Is Reshaping Data Science & Analytics… | Naman Gupta | [Read More](https://medium.com/p/5ffc24140b4e) |
-| Mon, 17 Nov 2025 17:58:16 GMT | API Security Mastery: A Developer’s Guide to Stopping SQL Injections and DDoS Attacks | Nilutpal | [Read More](https://medium.com/p/2b86bbaf9a1e) |
