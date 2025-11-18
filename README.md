@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 16:46:25 GMT | Episode 9: “The Cloud That Ate Manhattan — Part 2” | Dr. House In I.T. | [Read More](https://medium.com/p/8fd2ba0b4424) |
+| Tue, 18 Nov 2025 16:36:02 GMT | The 2025 State of Cybersecurity: The Everyday Mistakes Leaving Millions Exposed | Voidly | [Read More](https://medium.com/p/3850c845eb43) |
+| Tue, 18 Nov 2025 16:34:15 GMT | Understanding API Security: Lessons from the API Security Fundamentals Course | Gamuchirai | [Read More](https://medium.com/p/94b3fe072890) |
+| Tue, 18 Nov 2025 16:30:20 GMT | The Collapse We’re Ignoring: How Overstretching the Military Is Endangering Nigeria | Emmanuel Amoo | [Read More](https://medium.com/p/95dc9f5a8d5d) |
+| Tue, 18 Nov 2025 16:24:58 GMT | ประจำวันอังคารที่ 18 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c75e50e07faa) |
+| Tue, 18 Nov 2025 16:22:55 GMT | How Hackers Are Using AI in 2025 (And You’re Probably Vulnerable) | Hania Khan | [Read More](https://medium.com/p/44951ef707f8) |
+| Tue, 18 Nov 2025 16:22:05 GMT | The Daily Tech Digest: 18 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/111f98f6f6c4) |
 | Tue, 18 Nov 2025 16:14:03 GMT | Why Identity Threat Detection & Response (ITDR) Is Becoming Essential in Modern Security | Sunnysinha | [Read More](https://medium.com/p/0e5cd19a5320) |
 | Tue, 18 Nov 2025 16:09:47 GMT | The Dark Side of “Unofficial Apps” | Hitesh Said | [Read More](https://medium.com/p/a67c39571d34) |
 | Tue, 18 Nov 2025 16:07:04 GMT | Scams? Or Cyber-scams! | Umair Imran | [Read More](https://medium.com/p/b27887cf1725) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 11:11:50 GMT | Lost Crypto? Here’s How People Are Getting Their Money Back in 2025 | Lost Crypto Recovery Service. | [Read More](https://medium.com/p/6a3e4aa10c26) |
 | Tue, 18 Nov 2025 11:08:10 GMT | The First AI-Orchestrated Cyberattack Is Here: 5 Lessons That Change Everything | Amrik  Hanjra | [Read More](https://medium.com/p/418b69e7ce92) |
 | Tue, 18 Nov 2025 11:03:36 GMT | Why Zero-Knowledge Privacy Matters for Your Crypto Wallet | Vygha | [Read More](https://medium.com/p/fb27ef01ccdd) |
-| Tue, 18 Nov 2025 11:03:30 GMT | The Linux Advantage: Why a Cheap Linux Server Can Power Big Ambitions | Andy | [Read More](https://medium.com/p/6c6809ea0a6d) |
-| Tue, 18 Nov 2025 10:56:19 GMT | Zero Trust Isn’t a Framework — It’s a Wake-Up Call for Modern Security | Devarshi Acharya | [Read More](https://medium.com/p/86b617096540) |
-| Tue, 18 Nov 2025 10:56:03 GMT | Zero Trust Architecture: Why the Future of Security Starts With Eliminating Assumptions | Devarshi Acharya | [Read More](https://medium.com/p/ecb23bf75e55) |
-| Tue, 18 Nov 2025 10:53:05 GMT | If Your Zodiac Sign Was A Malicious Virus | Lynn Elena Torbay | [Read More](https://medium.com/p/8bddbe2fcd6d) |
-| Tue, 18 Nov 2025 10:51:01 GMT | Your Guide to HTTPS & TLS for Node.js | Manish Prasad | [Read More](https://medium.com/p/56ae77ee12e1) |
-| Tue, 18 Nov 2025 10:49:01 GMT | Why 2025 Marks the End of Traditional Cybersecurity in Finance | Legal Thoughts | [Read More](https://medium.com/p/a29d35c47722) |
-| Tue, 18 Nov 2025 10:45:46 GMT | Broken Link Hijacking: Explained Simply | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/cacdbf2f3df7) |
