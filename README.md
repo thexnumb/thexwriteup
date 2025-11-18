@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 18 Nov 2025 11:28:59 GMT | Best Ethical Hacking Course in Mohali - CEH Training Chandigarh — techcadd | Simranjit Kaur | [Read More](https://medium.com/p/9961332aac3f) |
+| Tue, 18 Nov 2025 11:23:42 GMT | The Art of Wi-Fi Hacking & Protection with Aircrack-ng | Gopi Mukka | [Read More](https://medium.com/p/ad7d363647e1) |
+| Tue, 18 Nov 2025 11:21:38 GMT | Local SEO Company in Utah: Your Key to Ranking Higher and Getting More Local Customers | Hary Battler | [Read More](https://medium.com/p/97fe42b3cec6) |
+| Tue, 18 Nov 2025 11:17:30 GMT | Zero-Click Exploits | Netlas.io | [Read More](https://medium.com/p/ce9c0adc73f0) |
+| Tue, 18 Nov 2025 11:17:10 GMT | freeRASP for Unreal Engine: Secure Your Revenue | Talsec | [Read More](https://medium.com/p/ef9b59a38240) |
+| Tue, 18 Nov 2025 11:16:51 GMT | When Steel Meets Malware: How a Jaguar Cyberattack Stalled its Ops and Shook the Industry | Gaurav Sharma | [Read More](https://medium.com/p/5b2829569bc0) |
+| Tue, 18 Nov 2025 11:15:07 GMT | The Story I Was Afraid to Tell: How Vulnerability Changed My Writing | Otun Stephen Gbenga | [Read More](https://medium.com/p/309e848e766e) |
 | Tue, 18 Nov 2025 11:12:03 GMT | How Data Breaches Shape Market Value: Lessons from Real Incidents | Tyson Martin | [Read More](https://medium.com/p/c78adb22229d) |
+| Tue, 18 Nov 2025 11:12:01 GMT | How the Bitcoin Halving Is Reshaping the Crypto Market in 2025 | FortisX | [Read More](https://medium.com/p/c86346f5a4d0) |
 | Tue, 18 Nov 2025 11:11:50 GMT | Lost Crypto? Here’s How People Are Getting Their Money Back in 2025 | Lost Crypto Recovery Service. | [Read More](https://medium.com/p/6a3e4aa10c26) |
 | Tue, 18 Nov 2025 11:08:10 GMT | The First AI-Orchestrated Cyberattack Is Here: 5 Lessons That Change Everything | Amrik  Hanjra | [Read More](https://medium.com/p/418b69e7ce92) |
 | Tue, 18 Nov 2025 11:03:36 GMT | Why Zero-Knowledge Privacy Matters for Your Crypto Wallet | Vygha | [Read More](https://medium.com/p/fb27ef01ccdd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 07:00:02 GMT | Secure by Default: A Practical SDLC for Supply-Chain Attacks and SBOMs | Ismat Babirli | [Read More](https://medium.com/p/80e11839487d) |
 | Tue, 18 Nov 2025 06:52:44 GMT | What Does It Take to Succeed in Business, Cybersecurity, and Digital Marketing? | Vijay Kumar Gupta | [Read More](https://medium.com/p/d807e5b2271d) |
 | Tue, 18 Nov 2025 06:47:36 GMT | More Than Vandalism | Charles Mwaniki | [Read More](https://medium.com/p/abc3c23a59a7) |
-| Tue, 18 Nov 2025 06:44:18 GMT | August hacks Analysis and Overview | Sisi | [Read More](https://medium.com/p/f1e80d24c42e) |
-| Tue, 18 Nov 2025 06:42:38 GMT | Japan Web Proxy Server Routing for Consistent Regional Automation | GovernanceGolem | [Read More](https://medium.com/p/e05dbbd37ed0) |
-| Tue, 18 Nov 2025 06:41:37 GMT | Concurrency Testing: Maintaining Data Consistency | Shubham Joshi | [Read More](https://medium.com/p/dcc31e53dfc5) |
-| Tue, 18 Nov 2025 06:34:36 GMT | Excessive trust in client-side controls (Business Logic — Portswigger Lab) | Mirage Insights | [Read More](https://medium.com/p/2794c42e39f6) |
-| Tue, 18 Nov 2025 06:33:57 GMT | TryHackMe — Django: CVE-2025–64459/Walkthrough with Answers | Anandkumar k | [Read More](https://medium.com/p/3734e805a5fa) |
-| Tue, 18 Nov 2025 06:33:51 GMT | Unleash the Dark Web’s Secrets!!! | cybrNK | [Read More](https://medium.com/p/edb505c1cce9) |
-| Tue, 18 Nov 2025 06:31:01 GMT | How to Implement ISO 27001: A Practical Guide | NidaWaqas | [Read More](https://medium.com/p/6ab9e997bc16) |
-| Tue, 18 Nov 2025 06:30:45 GMT | Top 10 Free Cybersecurity Tools | CodeZen | [Read More](https://medium.com/p/e7177eb50992) |
