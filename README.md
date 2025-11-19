@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 22:25:18 GMT | Hello Cyber-NeuroSecurity. | Erdem Keles | [Read More](https://medium.com/p/c610df22a228) |
 | Wed, 19 Nov 2025 21:54:58 GMT | 1Password vs LastPass (2025): The Truth Most People Only Realize After a Security Scare | LeadAdvisors | [Read More](https://medium.com/p/a0649ec0ed3a) |
 | Wed, 19 Nov 2025 21:48:09 GMT | Race condition results in abusing a feature which requires subscription | Mehran | [Read More](https://medium.com/p/9b322ad31085) |
 | Wed, 19 Nov 2025 21:44:00 GMT | Intigriti Challenge 1125: From JWT Bypass to RCE | msfire | [Read More](https://medium.com/p/12366a11e530) |
@@ -112,4 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 16:23:05 GMT | Dark Web Algorithms for Beginners: An Educational & Technical Guide | Gopi Sri | [Read More](https://medium.com/p/6b97744c1612) |
 | Wed, 19 Nov 2025 16:13:02 GMT | DataCove Phishing Detection API: The Segment-Aware Revolution in URL Security | Vivek | [Read More](https://medium.com/p/8ac83fe892b0) |
 | Wed, 19 Nov 2025 16:04:35 GMT | ChatGPT Down: What Does “Please Unblock Challenges.Cloudflare.com to Proceed” Mean? | satyaranjan bal | [Read More](https://medium.com/p/6f8baaaa62e0) |
-| Wed, 19 Nov 2025 16:03:05 GMT | Enterprise IT Case Study: Access Management | Victoria Ayomide Ayodeji | [Read More](https://medium.com/p/f7de8f13f378) |
