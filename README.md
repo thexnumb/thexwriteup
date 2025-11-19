@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 07:32:24 GMT | 10 JavaScript Security Headers That Stay Fast | Velorum | [Read More](https://medium.com/p/94519d8e972e) |
+| Wed, 19 Nov 2025 07:20:41 GMT | Which Is the Best CCTV Installation Company in Tamil Nadu & What Are the Benefits of Hiring a… | Berkshire Hathaway | [Read More](https://medium.com/p/d5e5d714a792) |
+| Wed, 19 Nov 2025 07:19:09 GMT | One Click Can Change Your Life: Stay Secure in a Digital World | Monu Jangra | [Read More](https://medium.com/p/5d8d363457e4) |
+| Wed, 19 Nov 2025 07:16:44 GMT | Why Security Guard Services Are Essential for Every Business: A Complete Guide to the Top Security… | Ciss India | [Read More](https://medium.com/p/e0bc1d42a194) |
 | Wed, 19 Nov 2025 07:15:45 GMT | Security Disclosure: Exposed Prometheus Node Exporter - Jio Infrastructure Internal System… | Christoscoming | [Read More](https://medium.com/p/16ab4ad64b58) |
+| Wed, 19 Nov 2025 07:14:06 GMT | Windows Command Line Complete (THM) | Mohammed Allehyani | [Read More](https://medium.com/p/267b40475527) |
+| Wed, 19 Nov 2025 07:12:16 GMT | Cloudflare Outage Explained: | Xeeshan A. | [Read More](https://medium.com/p/c4d8ae18d29a) |
+| Wed, 19 Nov 2025 07:11:16 GMT | Hurting Love: A Journey Through Love and Healing | Ella Amuli | [Read More](https://medium.com/p/732d64fdb4a5) |
 | Wed, 19 Nov 2025 07:04:04 GMT | The Daily Tech Digest: 19 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e5b12a442844) |
 | Wed, 19 Nov 2025 07:03:16 GMT | SSI IT Cyber Security Services Munich | SSI IT Solutions | [Read More](https://medium.com/p/2130b415ac22) |
 | Wed, 19 Nov 2025 06:58:38 GMT | EJPT — walkthrough | JABEZ | [Read More](https://medium.com/p/b9e12f6c9931) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 23:27:06 GMT | What Happens When You Actually Pentest a Wireless Sensor? | Michael Preston | [Read More](https://medium.com/p/dd3a684f6838) |
 | Tue, 18 Nov 2025 23:14:17 GMT | It’s Not Failure You’re Afraid Of. It’s Embarrassment. | Abhinav Misra | [Read More](https://medium.com/p/c45c7379d6b4) |
 | Tue, 18 Nov 2025 23:02:35 GMT | The Advanced User Survival Guide to Intecrnet Outages | MEDUSA | [Read More](https://medium.com/p/b1cc7e01fee5) |
-| Tue, 18 Nov 2025 22:56:58 GMT | The Leap from Casual Dating to Serious Commitment | Shayma Popova | [Read More](https://medium.com/p/87c7e058eb48) |
-| Tue, 18 Nov 2025 22:54:42 GMT | What Happens When Quantum Computers Break Every Password on Earth? | Tars | [Read More](https://medium.com/p/5d54e72f1782) |
-| Tue, 18 Nov 2025 22:53:45 GMT | They’re Not After Your Password Anymore. Here’s What Phishers Really Want. | Jamal Mammadli | [Read More](https://medium.com/p/6e6d006268a7) |
-| Tue, 18 Nov 2025 22:52:45 GMT | Online Scams to Avoid in 2025 | Smart Grind | [Read More](https://medium.com/p/ee53e1e371ce) |
-| Tue, 18 Nov 2025 22:34:18 GMT | I Watched a Phishing Attack Happen in Real Time ..Here’s the Part Hackers Don’t Want You to See | Caleb Mingle | [Read More](https://medium.com/p/52680956f55b) |
-| Tue, 18 Nov 2025 22:33:09 GMT | LinkedIn Has Become the New Phishing Playground | Cyber-AppSec | [Read More](https://medium.com/p/bc3794f44aeb) |
-| Tue, 18 Nov 2025 22:32:30 GMT | Chasing what....? | Nazma Sultana | [Read More](https://medium.com/p/85f40056d3da) |
