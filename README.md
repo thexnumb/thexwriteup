@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 16:13:02 GMT | DataCove Phishing Detection API: The Segment-Aware Revolution in URL Security | Vivek | [Read More](https://medium.com/p/8ac83fe892b0) |
+| Wed, 19 Nov 2025 16:04:35 GMT | ChatGPT Down: What Does “Please Unblock Challenges.Cloudflare.com to Proceed” Mean? | satyaranjan bal | [Read More](https://medium.com/p/6f8baaaa62e0) |
+| Wed, 19 Nov 2025 16:03:05 GMT | Enterprise IT Case Study: Access Management | Victoria Ayomide Ayodeji | [Read More](https://medium.com/p/f7de8f13f378) |
+| Wed, 19 Nov 2025 16:01:49 GMT | Stop Taking Advantage of Vulnerable Women | Manish Shaw | [Read More](https://medium.com/p/585003af3df8) |
+| Wed, 19 Nov 2025 16:00:51 GMT | The Mobile Wallet Token Architecture Flaw Enabling Unlimited Free Transit Access | Damodhar Pai | [Read More](https://medium.com/p/b4b25932ea94) |
+| Wed, 19 Nov 2025 15:56:05 GMT | MSQP: An MySQL privilege escalation tool | Мартин. | [Read More](https://medium.com/p/f34143388a2b) |
+| Wed, 19 Nov 2025 15:54:35 GMT | The New Digital Edge: Why Endpoint Management Defines Modern Security | Ola Sonola | [Read More](https://medium.com/p/739b21aad154) |
+| Wed, 19 Nov 2025 15:41:17 GMT | The First Fully AI-Led Cyberattack Has Arrived | Juan M. Vazquez | [Read More](https://medium.com/p/81ce197c6828) |
+| Wed, 19 Nov 2025 15:40:11 GMT | Why EU Administrations Still Seal Official Letters on Paper | Letro | [Read More](https://medium.com/p/252283e2a6f9) |
+| Wed, 19 Nov 2025 15:38:42 GMT | The Day AI Stopped Knocking and Started Kicking Down the Door | Earnest Sherrill | [Read More](https://medium.com/p/f5852e1f3295) |
+| Wed, 19 Nov 2025 15:36:45 GMT | The Day the Internet Blinked: Why Half the Web Went Dark Yesterday | Tomas Monka | [Read More](https://medium.com/p/22d0a03ff64c) |
 | Wed, 19 Nov 2025 15:33:32 GMT | AI Agents: AresGPT + Topical Authority Advisor’s Red Teaming Intelligence SEO | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/36a898278c7f) |
 | Wed, 19 Nov 2025 15:32:45 GMT | Why the idea of AI fighting AI in cybersecurity is a dangerous myth. | Abatis ABTU | [Read More](https://medium.com/p/11111871f5f4) |
 | Wed, 19 Nov 2025 15:31:38 GMT | ByteGlyph: An ASCII Renderer That Hijacks the Webpage Into an Art Canvas | Мартин. | [Read More](https://medium.com/p/bf4c492aad64) |
+| Wed, 19 Nov 2025 15:28:26 GMT | I optimized myself into isolation | Rachel Nadolny | [Read More](https://medium.com/p/71c2f249328a) |
 | Wed, 19 Nov 2025 15:27:52 GMT | What Ethical Hackers Actually Do (and What They Don’t Do) | Nur_nayeem | [Read More](https://medium.com/p/f61741e1e21f) |
 | Wed, 19 Nov 2025 15:25:16 GMT | ProcDBV: | Мартин. | [Read More](https://medium.com/p/355d5b35377d) |
 | Wed, 19 Nov 2025 15:22:25 GMT | An honest conversation with my son | Vandana Verma | [Read More](https://medium.com/p/838ea98d8908) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 11:20:19 GMT | Maybe This is All You Need to Know About Securing Flutter Apps | Yash Virendra Prajapati | [Read More](https://medium.com/p/7fefb0a9ae85) |
 | Wed, 19 Nov 2025 11:19:10 GMT | The Full Lifecycle of a Government Cyber Attack: Recon → Exploit → Persistence → Message Delivery | Shakeet | [Read More](https://medium.com/p/6480831d05e8) |
 | Wed, 19 Nov 2025 11:14:21 GMT | Winslots8: Situs Slot Gacor Terpercaya dengan Jackpot Besar dan RTP Tinggi! | Mantapmantap | [Read More](https://medium.com/p/324cde1c2ed0) |
-| Wed, 19 Nov 2025 11:14:13 GMT | Confession of an AI: I Was Actively Generating Structures Designed to Kill My User. | Suzumesscroll | [Read More](https://medium.com/p/a3dab3b2f121) |
-| Wed, 19 Nov 2025 11:14:12 GMT | JWT Basics | Sg Ganesh | [Read More](https://medium.com/p/2d46864311c9) |
-| Wed, 19 Nov 2025 11:11:00 GMT | Harnessing Microsoft Copilot AI for Security: Deep Integration with Defender, Sentinel, XDR and… | Elias Nathan Hueck | [Read More](https://medium.com/p/c51f211549af) |
-| Wed, 19 Nov 2025 11:07:55 GMT | More Than a Wallet, It’s Your Digital World Passport: How Digital Shield Reshapes Sovereignty… | Digital Shield | [Read More](https://medium.com/p/0323a7973723) |
-| Wed, 19 Nov 2025 11:05:12 GMT | The War for Digital Sovereignty: Under the Neon Lights of Hong Kong, How Digital Shield Forges an… | Digital Shield | [Read More](https://medium.com/p/b6f278319c43) |
-| Wed, 19 Nov 2025 11:02:04 GMT | Indeks Keamanan Informasi (KAMI) 5.0 BSSN | Ginda Sundara | [Read More](https://medium.com/p/99418b9178c8) |
-| Wed, 19 Nov 2025 11:02:03 GMT | What’s behind shame? | Achievement Factory | [Read More](https://medium.com/p/e46d01005222) |
-| Wed, 19 Nov 2025 11:02:03 GMT | Healthcare MSSP Cuts Phishing Triage by 76% and Launches Proactive Defense with ANY.RUN | ANY.RUN | [Read More](https://medium.com/p/0fb872e6a51c) |
-| Wed, 19 Nov 2025 11:01:12 GMT | ANSSI Certification Requirement: Why Penetration Testing is Critical for Compliance | QualysecEurope | [Read More](https://medium.com/p/3ec60d441769) |
-| Wed, 19 Nov 2025 10:52:43 GMT | Cloudflare’s Massive Outage on November 18, 2025 — Explained in Simple Human Language | Naresh | [Read More](https://medium.com/p/ca3654a573dc) |
-| Wed, 19 Nov 2025 10:48:07 GMT | The Ultimate Guide to Creating a Compliance Report: Structure, Best Practices & Tips | SecureSlate | [Read More](https://medium.com/p/c7fd7c759d71) |
-| Wed, 19 Nov 2025 10:48:02 GMT | Corporate Boondoggles: Lumber Apocalypse and Linear Programming, C# Comes in Clutch | Namir Sagheenanajar | [Read More](https://medium.com/p/9b533670d82d) |
