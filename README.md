@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 15:06:26 GMT | Resupply Exploit Post-Mortem: How $9.56M Was Stolen in 90 Minutes | Olympix | [Read More](https://medium.com/p/75eced577077) |
+| Wed, 19 Nov 2025 15:06:08 GMT | The Ultimate Ransomware Defense: Test Your Backups! | Max Farnga | [Read More](https://medium.com/p/7735654d6077) |
+| Wed, 19 Nov 2025 15:05:02 GMT | When the Internet Went Dark & the ‘Silicon’ in Silicon Valley: Resilience as a Commodity in a… | Shani Zanescu | [Read More](https://medium.com/p/c966e03743c2) |
+| Wed, 19 Nov 2025 15:02:26 GMT | My API Got DDoS’d Because I Trusted REST Best Practices | Ritik | [Read More](https://medium.com/p/b45f68d9baec) |
+| Wed, 19 Nov 2025 15:02:26 GMT | Cyber Briefing: 2025.11.19 | CyberMaterial | [Read More](https://medium.com/p/a2aa9f3bf0f5) |
+| Wed, 19 Nov 2025 15:00:16 GMT | Dolor que se convierte en arte | Estefanía Gonzalez | [Read More](https://medium.com/p/526b2d6e896f) |
+| Wed, 19 Nov 2025 14:59:21 GMT | When DNS Breaks the Cloud: What the AWS and Azure/M365 Outages Teach Us | Chris Yeung | [Read More](https://medium.com/p/d9087463e70d) |
+| Wed, 19 Nov 2025 14:57:47 GMT | Your Network is Only as Strong as Your Weakest Partner: The Supply Chain Risk ⚠️ | Max Farnga | [Read More](https://medium.com/p/74b84a93f4c1) |
+| Wed, 19 Nov 2025 14:52:00 GMT | Cloudflare’s Global Outage Explained! What Really Happened on November 18, 2025 | U.Senthil Kumar | [Read More](https://medium.com/p/df37d8617a3e) |
+| Wed, 19 Nov 2025 14:49:05 GMT | Data Visualization using Matplotlib and Seaborn | fijrisalwa | [Read More](https://medium.com/p/2bd3398e487b) |
+| Wed, 19 Nov 2025 14:48:48 GMT | Are Browser Extensions Safe? | Pixel Post | [Read More](https://medium.com/p/8198222db7d6) |
+| Wed, 19 Nov 2025 14:47:55 GMT | SAL Education Services — Pakistan’s Leading Institute for OTHM, Undergraduate, IELTS & NAVTTC… | SAL Education Services | [Read More](https://medium.com/p/182d79b590b4) |
+| Wed, 19 Nov 2025 14:45:22 GMT | How to Detect App Tampering & Repackaging using Kotlin | Talsec | [Read More](https://medium.com/p/93765ca3124d) |
+| Wed, 19 Nov 2025 14:43:40 GMT | People keep asking if AI will replace them. Here is the Real Answer. | Anuraj S.L | [Read More](https://medium.com/p/f4f11c5cbfc1) |
+| Wed, 19 Nov 2025 14:40:49 GMT | From Confused to Confident: The JavaScript Bug That Taught Me Everything | Arslan Qutab | [Read More](https://medium.com/p/d096f1c80799) |
+| Wed, 19 Nov 2025 14:36:02 GMT | Why Your Relationship Might Fail: 3 Key Areas Men Often Can’t Satisfy Women | Flaye Kate | [Read More](https://medium.com/p/0bf3464ade6c) |
 | Wed, 19 Nov 2025 14:33:36 GMT | Pickle Rick THM | Nate Harris | [Read More](https://medium.com/p/57c17054cb68) |
 | Wed, 19 Nov 2025 14:31:02 GMT | 5 Everyday Tools Criminals Use to Launder Millions | FinCrimeXpert | [Read More](https://medium.com/p/daa97f1b3cf8) |
 | Wed, 19 Nov 2025 14:28:00 GMT | Digital Identity, Real World Impact: The Industrial Upside of the European Business Wallet (EUBW) | Carsten Stöcker | [Read More](https://medium.com/p/d9e0c4e96aae) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 10:24:42 GMT | I Hid Messages in Flickering Noise That Only Cameras Can See: Introducing OTIS | X-3306 | [Read More](https://medium.com/p/8cdbbb00fc06) |
 | Wed, 19 Nov 2025 10:20:43 GMT | residential-proxy-use-cases | EtherFlicker | [Read More](https://medium.com/p/1b36be47037a) |
 | Wed, 19 Nov 2025 10:15:52 GMT | Tailgating in Cybersecurity: What You Need to Know | Beetles IO | [Read More](https://medium.com/p/26cc932ad55b) |
-| Wed, 19 Nov 2025 10:14:34 GMT | Samsung A Series: Big Screen Fun Without Big Price | Pimrada Thavorn | [Read More](https://medium.com/p/e5029715e408) |
-| Wed, 19 Nov 2025 10:09:57 GMT | Find Comfort in ERRORS: Crypto | lukewago | [Read More](https://medium.com/p/e3dde27c6095) |
-| Wed, 19 Nov 2025 10:06:02 GMT | The Investment/Ponzi Scheme (Too Good To Be True) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/96a35c8d7eec) |
-| Wed, 19 Nov 2025 10:04:31 GMT | Strengthening Business Security Through Cyber Risk Management | Vishwajeettechtech | [Read More](https://medium.com/p/555e20306977) |
-| Wed, 19 Nov 2025 10:03:39 GMT | Next-Gen File Security: Ransomware-Proof File Management Systems | Salesinnovativa | [Read More](https://medium.com/p/1babb14b45c5) |
-| Wed, 19 Nov 2025 10:03:17 GMT | Top 10 Industries Hiring Ethical Hackers in 2026 | cyber security Updates | [Read More](https://medium.com/p/42e46123434f) |
-| Wed, 19 Nov 2025 10:00:55 GMT | Ethical Hacking Course with Labs and Hands-On Practice | Manisha Chaudhary | [Read More](https://medium.com/p/ce808719962d) |
-| Wed, 19 Nov 2025 09:56:50 GMT | Beyond the Zero-Sum Game: Rethinking Privacy and Protection in the Digital Age | Eaabid | [Read More](https://medium.com/p/7e19cd8ab407) |
-| Wed, 19 Nov 2025 09:54:40 GMT | Guardians or Gatekeepers? The Ethics Behind Cybersecurity Decisions | Nodimasuraaktar | [Read More](https://medium.com/p/06b3c923e88c) |
-| Wed, 19 Nov 2025 09:54:10 GMT | TryHackMe: AI/ML Security Threats (Short) | Pavneet_Singh_ | [Read More](https://medium.com/p/9ce390101c52) |
-| Wed, 19 Nov 2025 09:53:02 GMT | Penetration Testing vs Ethical Hacking: Key Differences Explained (2026 Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/04dcd28eaf9b) |
-| Wed, 19 Nov 2025 09:49:07 GMT | Key Benefits of Implementing Infor SyteLine ERP — Fidel Softech | Linda Garcia | [Read More](https://medium.com/p/12be8cd758ae) |
-| Wed, 19 Nov 2025 09:47:26 GMT | Best Speech Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/052085a10244) |
-| Wed, 19 Nov 2025 09:33:16 GMT | Game On: Can the Samsung A Series Handle Mobile Gaming? | Isabella Brown | [Read More](https://medium.com/p/b1eee8087bb3) |
-| Wed, 19 Nov 2025 09:26:50 GMT | The Unlikely Truth About Online Scams: Why Rudeness, Shame, and Prototypes Matter More Than Tech | ObserIQ Insights | [Read More](https://medium.com/p/050cb797d6a8) |
-| Wed, 19 Nov 2025 09:23:20 GMT | ️ Beyond the Gate: Why Investing in the Best Security Guard Service in Trivandrum is… | Sambhu Sunil | [Read More](https://medium.com/p/b5654c726d70) |
