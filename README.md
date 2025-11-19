@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 17:16:29 GMT | VulnHub DC-3 Walkthrough: Exploiting Joomla CMS | Kalash Kundaliya | [Read More](https://medium.com/p/f9b7ddce5150) |
+| Wed, 19 Nov 2025 17:07:54 GMT | WEB-300 and OSWE 2025: Review and Insights | 0x5ea3o1f | [Read More](https://medium.com/p/b1d9197447aa) |
+| Wed, 19 Nov 2025 17:06:44 GMT | Why a Security Architecture Review Is Essential to Risk Management | Cindy Kaplan | [Read More](https://medium.com/p/ef1cff74435b) |
+| Wed, 19 Nov 2025 17:04:23 GMT | TryHackMe - Shock and Silence - WriteUp | Axoloth | [Read More](https://medium.com/p/5ded41464733) |
+| Wed, 19 Nov 2025 17:02:19 GMT | Building a Modern IDS with Snort 3 on Ubuntu | Murad  InfoSec | [Read More](https://medium.com/p/3c7cf9a5aa9d) |
+| Wed, 19 Nov 2025 17:00:41 GMT | Bug Bounty Commands Generator — A Practical Tool for Faster Pen-testing Workflows | HackByteX | [Read More](https://medium.com/p/f7d3d7a6addc) |
+| Wed, 19 Nov 2025 16:59:39 GMT | Artificial intelligence and digital security in online transactions | Jalal Mohammadzadeh | [Read More](https://medium.com/p/90ed509a9df5) |
+| Wed, 19 Nov 2025 16:54:40 GMT | How to Survive and Excel: A Guide to University Education in Information Technology (short ideas) | Ladislav Mariš | [Read More](https://medium.com/p/e3a752de8373) |
 | Wed, 19 Nov 2025 16:52:10 GMT | MCP Servers Are Electric | Patrick Walsh | [Read More](https://medium.com/p/a23d5dc9aba2) |
 | Wed, 19 Nov 2025 16:48:22 GMT | Hacker VS Hacker Writeup Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/aa519c0738ee) |
 | Wed, 19 Nov 2025 16:47:04 GMT | Adaptive Cognitive Deception Mesh (ACDM) | Anirban Mitra | [Read More](https://medium.com/p/56a46579be68) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 12:29:58 GMT | Learning Fortinet Firewall — LESSON XX: FSSO (Fortinet Single Sign-On) | Rouell Mamaril | [Read More](https://medium.com/p/d57090afd6bf) |
 | Wed, 19 Nov 2025 12:28:12 GMT | Sunucuyu “Ghostlamak”: SYN Flood Atağı Nedir? - “Ghosting” the server : What is SYN Flood Attack? | Samet Koca | [Read More](https://medium.com/p/609f66933632) |
 | Wed, 19 Nov 2025 12:20:50 GMT | Your “Ethical” AI is a Lie | Victor Babaniyi | [Read More](https://medium.com/p/82bc3971a4f7) |
-| Wed, 19 Nov 2025 12:19:25 GMT | Dost GPT’nin dizginlerini ele almak- LLM Jailbreak | Hilmi Enginar | [Read More](https://medium.com/p/4c9aba866f55) |
-| Wed, 19 Nov 2025 12:18:50 GMT | Using SET to Perform Social Engineering in Cybersecurity — And Why It Matters in the Energy Sector | Ramandeep Bagri | [Read More](https://medium.com/p/cdd93bd4f986) |
-| Wed, 19 Nov 2025 12:18:38 GMT | 4 Powerful Cloudflare Features You Probably Didn’t Know Were Free | MilankumarParmar | [Read More](https://medium.com/p/883cf7c8e048) |
-| Wed, 19 Nov 2025 12:15:38 GMT | Cloudflare Outage November 2025: The Bug That Almost Broke the Internet (And Took Down X, ChatGPT… | Hayanan | [Read More](https://medium.com/p/69a187feac68) |
-| Wed, 19 Nov 2025 12:15:36 GMT | Western Vatniks and Russian propaganda | Rachel Saunders | [Read More](https://medium.com/p/ead94baf9452) |
-| Wed, 19 Nov 2025 12:14:42 GMT | Shift Left or Get Left Behind: Why Modern DevOps Teams Must Treat Security as Code | TechScribeHub | [Read More](https://medium.com/p/1745b1974912) |
-| Wed, 19 Nov 2025 12:13:55 GMT | 10 Things I Wish Someone Guided Me On Before Starting My Cybersecurity Career | Pavneet_Singh_ | [Read More](https://medium.com/p/ef8d40b248e1) |
-| Wed, 19 Nov 2025 12:12:27 GMT | residential-proxy-online-guide | BlockChimera | [Read More](https://medium.com/p/cdf0dc4d3cec) |
