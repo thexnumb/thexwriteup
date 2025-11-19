@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 09:20:37 GMT | Lessons from Major Breaches: The Role of an Effective Cyber Crisis Plan | Himanshu Sharma | [Read More](https://medium.com/p/3574020c2869) |
+| Wed, 19 Nov 2025 09:19:45 GMT | Implementing Mathematical “Correctness” with the New ADIC Standard — Validated by “Prime Gravity”… | GhostDrift Mathematical Institute | [Read More](https://medium.com/p/e337b6566ea9) |
+| Wed, 19 Nov 2025 09:14:44 GMT | Modern Authentication in 2025: OAuth2, MFA, and the Shift to Passwordless | OneEntry Platform | [Read More](https://medium.com/p/66a7d6ae90cf) |
+| Wed, 19 Nov 2025 09:10:38 GMT | SOAR Integration Challenges and How to Fix it | NetWitness | [Read More](https://medium.com/p/68feff8e8618) |
+| Wed, 19 Nov 2025 09:08:08 GMT | Simple Guide to Secure Boot for Linux | Manish Kumar | [Read More](https://medium.com/p/846b57fcfa17) |
+| Wed, 19 Nov 2025 09:07:00 GMT | Multi-Layer Threat Detection: Why One Tool Isn’t Enough | Balaji | [Read More](https://medium.com/p/3557cf60f621) |
+| Wed, 19 Nov 2025 09:05:10 GMT | The 5 Essential Nmap Scans Every Beginner MUST Know | Riki Satya | [Read More](https://medium.com/p/d94e8dd657c5) |
+| Wed, 19 Nov 2025 09:03:05 GMT | Third-Party Exposure: Use LeakRadar to See Which Vendors Already Have Leaked Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/afb10cb11d27) |
+| Wed, 19 Nov 2025 09:00:16 GMT | The LinkedIn Post That Changed My Cybersecurity Mindset And Why It Matters Today | Lakshita Gulliya | [Read More](https://medium.com/p/91115bff6244) |
+| Wed, 19 Nov 2025 08:59:23 GMT | Application Security Code Analysis (SAST/DAST) | Esra Kayhan | [Read More](https://medium.com/p/8ea737288298) |
+| Wed, 19 Nov 2025 08:54:13 GMT | Advanced Alert Enrichment in the SOC: Turning Analyst Time into Gold | Esra Kayhan | [Read More](https://medium.com/p/a8c7d4a88315) |
+| Wed, 19 Nov 2025 08:53:51 GMT | VAPT in 2025: The Cybersecurity Reality Check Every Company Needs | Devarshi Acharya | [Read More](https://medium.com/p/f2bd844576a9) |
+| Wed, 19 Nov 2025 08:49:01 GMT | Task Hijacking (StrandHogg) — Part 1: Understanding The Fundamentals | Redfox Security | [Read More](https://medium.com/p/89792424fef5) |
 | Wed, 19 Nov 2025 08:33:32 GMT | If AI has influenced any of your important decisions lately, you need to read this right now | Seungchul Jeff Ha | [Read More](https://medium.com/p/3eca174e1212) |
 | Wed, 19 Nov 2025 08:32:12 GMT | FortiWeb Under Fire: What the New CVE-2025–58034 Vulnerability Really Means for Defenders | Germano Costi | [Read More](https://medium.com/p/658a87c00d96) |
 | Wed, 19 Nov 2025 08:26:05 GMT | SQL injection — Portswigger LAB 1 -SQL injection vulnerability in WHERE clause allowing retrieval… | Emir Gkta | [Read More](https://medium.com/p/f734c234215d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 03:25:59 GMT | How to Build a Data Framework That Powers AI Adoption: 6 Steps | Maruti Techlabs | [Read More](https://medium.com/p/a91c0d70c019) |
 | Wed, 19 Nov 2025 03:24:28 GMT | Authorization for MCP: OAuth 2.1, PRMs, and Best Practices | Tahmeed Zaman | [Read More](https://medium.com/p/5a824f6b18e3) |
 | Wed, 19 Nov 2025 03:21:44 GMT | The Massive Cloudflare Outage of November 18, 2025: What Happened, Why It Broke, and What We… | Shruti yadav | [Read More](https://medium.com/p/c6daed3058f4) |
-| Wed, 19 Nov 2025 03:21:32 GMT | Sitting In My Car In Silence | Zeke | [Read More](https://medium.com/p/0db96e0f964f) |
-| Wed, 19 Nov 2025 03:20:01 GMT | File Upload UI for Non-Technical Users | Idera Dev Tools | [Read More](https://medium.com/p/a374d806d2d4) |
-| Wed, 19 Nov 2025 03:07:49 GMT | From Beginner to OSCP, LPT Master, CISSP & CISO in 5 Years — The Ultimate Cybersecurity Growth… | Monu Jangra | [Read More](https://medium.com/p/482c66ff9dea) |
-| Wed, 19 Nov 2025 02:59:02 GMT | Indonesia’s Hidden Islands Show Why Connectivity is Security | Isa Amanda Julia | [Read More](https://medium.com/p/75da5a36f63a) |
-| Wed, 19 Nov 2025 02:35:37 GMT | CVE-2025-63872: SVG-Based XSS in DeepSeek Chat V3.2 | Vinit Kundu | [Read More](https://medium.com/p/db4ebc1f1f28) |
-| Wed, 19 Nov 2025 02:33:53 GMT | The Hidden Complexity of Secure Serialization & Deserialization in Modern Distributed Systems | Bervice | [Read More](https://medium.com/p/f374b9fcf497) |
-| Wed, 19 Nov 2025 02:15:01 GMT | BANKING RENOVATION FOR 2030 | Shantanukumarsahoo Sbi | [Read More](https://medium.com/p/d834f77f6469) |
-| Wed, 19 Nov 2025 02:11:18 GMT | professional-proxy-solutions | WeiWizard | [Read More](https://medium.com/p/17eeb1daff57) |
-| Wed, 19 Nov 2025 02:09:54 GMT | Crack the Gate 2 web challenge write-up | -_ENIGMA_- | [Read More](https://medium.com/p/02a4cb00fc71) |
-| Wed, 19 Nov 2025 02:07:47 GMT | Owning the Black Box: Why AI Integrity Has to Become an Engineering Discipline | Pavel Glukhikh | [Read More](https://medium.com/p/cb72113c817a) |
-| Wed, 19 Nov 2025 01:49:49 GMT | How to set up a local development environment for PHP 2025 | Safelyo Global | [Read More](https://medium.com/p/96ff3dab0648) |
-| Wed, 19 Nov 2025 01:46:19 GMT | The Day the Internet Felt Broken: What Really Happened During the November 2025 Cloud flare Outage… | Athishsagarkishan | [Read More](https://medium.com/p/bc5d5f7e28af) |
-| Wed, 19 Nov 2025 01:45:42 GMT | The Fool’s Path to Creativity | The Existential Ginger | [Read More](https://medium.com/p/586aea6c9ba8) |
