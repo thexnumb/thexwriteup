@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 15:33:32 GMT | AI Agents: AresGPT + Topical Authority Advisor’s Red Teaming Intelligence SEO | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/36a898278c7f) |
+| Wed, 19 Nov 2025 15:32:45 GMT | Why the idea of AI fighting AI in cybersecurity is a dangerous myth. | Abatis ABTU | [Read More](https://medium.com/p/11111871f5f4) |
+| Wed, 19 Nov 2025 15:31:38 GMT | ByteGlyph: An ASCII Renderer That Hijacks the Webpage Into an Art Canvas | Мартин. | [Read More](https://medium.com/p/bf4c492aad64) |
+| Wed, 19 Nov 2025 15:27:52 GMT | What Ethical Hackers Actually Do (and What They Don’t Do) | Nur_nayeem | [Read More](https://medium.com/p/f61741e1e21f) |
+| Wed, 19 Nov 2025 15:25:16 GMT | ProcDBV: | Мартин. | [Read More](https://medium.com/p/355d5b35377d) |
+| Wed, 19 Nov 2025 15:22:25 GMT | An honest conversation with my son | Vandana Verma | [Read More](https://medium.com/p/838ea98d8908) |
+| Wed, 19 Nov 2025 15:22:06 GMT | Securing MCP Agents: What's Actually Different from Regular APIs? | Håkon Onsager | [Read More](https://medium.com/p/706d209b918e) |
+| Wed, 19 Nov 2025 15:20:33 GMT | New Data Security Posture Management | Mechanics Team | [Read More](https://medium.com/p/8b9b707640d1) |
+| Wed, 19 Nov 2025 15:19:32 GMT | Strategy Pattern 2.0:How Modern Java(21–25) makes the Strategy Pattern Actually Fun to Write | Jitin Kayyala | [Read More](https://medium.com/p/43cd6012ccce) |
 | Wed, 19 Nov 2025 15:06:26 GMT | Resupply Exploit Post-Mortem: How $9.56M Was Stolen in 90 Minutes | Olympix | [Read More](https://medium.com/p/75eced577077) |
 | Wed, 19 Nov 2025 15:06:08 GMT | The Ultimate Ransomware Defense: Test Your Backups! | Max Farnga | [Read More](https://medium.com/p/7735654d6077) |
 | Wed, 19 Nov 2025 15:05:02 GMT | When the Internet Went Dark & the ‘Silicon’ in Silicon Valley: Resilience as a Commodity in a… | Shani Zanescu | [Read More](https://medium.com/p/c966e03743c2) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 10:52:43 GMT | Cloudflare’s Massive Outage on November 18, 2025 — Explained in Simple Human Language | Naresh | [Read More](https://medium.com/p/ca3654a573dc) |
 | Wed, 19 Nov 2025 10:48:07 GMT | The Ultimate Guide to Creating a Compliance Report: Structure, Best Practices & Tips | SecureSlate | [Read More](https://medium.com/p/c7fd7c759d71) |
 | Wed, 19 Nov 2025 10:48:02 GMT | Corporate Boondoggles: Lumber Apocalypse and Linear Programming, C# Comes in Clutch | Namir Sagheenanajar | [Read More](https://medium.com/p/9b533670d82d) |
-| Wed, 19 Nov 2025 10:46:16 GMT | The Global Money Laundering Machine — How North Korean and Chinese Cybercriminals Cash Out… | David SEHYEON Baek | [Read More](https://medium.com/p/ad1421b0b0b6) |
-| Wed, 19 Nov 2025 10:43:41 GMT | What Happens When a Single Database Change Takes Down 10% of the Internet? | R Amogh | [Read More](https://medium.com/p/7a4567b5581e) |
-| Wed, 19 Nov 2025 10:43:35 GMT | Smart IT That Helps You Get On With Business - Elevate | Elevate | [Read More](https://medium.com/p/bd3244601e13) |
-| Wed, 19 Nov 2025 10:37:31 GMT | Secure Token Storage in KMM (Part 2) With Proto DataStore, Android Keystore & Apple Keychain | Fakhour Mohammed | [Read More](https://medium.com/p/0940714efe80) |
-| Wed, 19 Nov 2025 10:35:43 GMT | HackTheBox Writeup: Cap — Easy Level Linux based Machine | Pradithareddy | [Read More](https://medium.com/p/833c66b34d78) |
-| Wed, 19 Nov 2025 10:29:20 GMT | Why Human Error Is Still the Weakest Link in Cybersecurity | Digital Defense | [Read More](https://medium.com/p/07e46fa1e0bf) |
-| Wed, 19 Nov 2025 10:24:42 GMT | I Hid Messages in Flickering Noise That Only Cameras Can See: Introducing OTIS | X-3306 | [Read More](https://medium.com/p/8cdbbb00fc06) |
-| Wed, 19 Nov 2025 10:20:43 GMT | residential-proxy-use-cases | EtherFlicker | [Read More](https://medium.com/p/1b36be47037a) |
-| Wed, 19 Nov 2025 10:15:52 GMT | Tailgating in Cybersecurity: What You Need to Know | Beetles IO | [Read More](https://medium.com/p/26cc932ad55b) |
