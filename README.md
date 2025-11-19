@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 09:26:50 GMT | The Unlikely Truth About Online Scams: Why Rudeness, Shame, and Prototypes Matter More Than Tech | ObserIQ Insights | [Read More](https://medium.com/p/050cb797d6a8) |
+| Wed, 19 Nov 2025 09:23:20 GMT | ️ Beyond the Gate: Why Investing in the Best Security Guard Service in Trivandrum is… | Sambhu Sunil | [Read More](https://medium.com/p/b5654c726d70) |
 | Wed, 19 Nov 2025 09:20:37 GMT | Lessons from Major Breaches: The Role of an Effective Cyber Crisis Plan | Himanshu Sharma | [Read More](https://medium.com/p/3574020c2869) |
 | Wed, 19 Nov 2025 09:19:45 GMT | Implementing Mathematical “Correctness” with the New ADIC Standard — Validated by “Prime Gravity”… | GhostDrift Mathematical Institute | [Read More](https://medium.com/p/e337b6566ea9) |
 | Wed, 19 Nov 2025 09:14:44 GMT | Modern Authentication in 2025: OAuth2, MFA, and the Shift to Passwordless | OneEntry Platform | [Read More](https://medium.com/p/66a7d6ae90cf) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 03:38:32 GMT | I Finally Understood XSS and SQL Injection After Seeing This Demo | CodeByUmar | [Read More](https://medium.com/p/77bbd292d86b) |
 | Wed, 19 Nov 2025 03:28:05 GMT | Cloudflare Is A Man-in-the-Middle (And So Is Your ‘Protection’) | Rockefeller Kennedy | [Read More](https://medium.com/p/4a7a28635791) |
 | Wed, 19 Nov 2025 03:25:59 GMT | How to Build a Data Framework That Powers AI Adoption: 6 Steps | Maruti Techlabs | [Read More](https://medium.com/p/a91c0d70c019) |
-| Wed, 19 Nov 2025 03:24:28 GMT | Authorization for MCP: OAuth 2.1, PRMs, and Best Practices | Tahmeed Zaman | [Read More](https://medium.com/p/5a824f6b18e3) |
-| Wed, 19 Nov 2025 03:21:44 GMT | The Massive Cloudflare Outage of November 18, 2025: What Happened, Why It Broke, and What We… | Shruti yadav | [Read More](https://medium.com/p/c6daed3058f4) |
