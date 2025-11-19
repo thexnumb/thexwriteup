@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 07:15:45 GMT | Security Disclosure: Exposed Prometheus Node Exporter - Jio Infrastructure Internal System… | Christoscoming | [Read More](https://medium.com/p/16ab4ad64b58) |
+| Wed, 19 Nov 2025 07:04:04 GMT | The Daily Tech Digest: 19 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e5b12a442844) |
+| Wed, 19 Nov 2025 07:03:16 GMT | SSI IT Cyber Security Services Munich | SSI IT Solutions | [Read More](https://medium.com/p/2130b415ac22) |
+| Wed, 19 Nov 2025 06:58:38 GMT | EJPT — walkthrough | JABEZ | [Read More](https://medium.com/p/b9e12f6c9931) |
+| Wed, 19 Nov 2025 06:56:43 GMT | Can Samsung A Series Replace Your Old Flagship Phone? | Chloe White | [Read More](https://medium.com/p/6feaf01fc3ed) |
+| Wed, 19 Nov 2025 06:56:40 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/98dba91336ee) |
+| Wed, 19 Nov 2025 06:55:48 GMT | How to Choose the Right Security Service in Bahadurgarh | Lakshay Security | [Read More](https://medium.com/p/cf9fd54b2ed7) |
+| Wed, 19 Nov 2025 06:53:58 GMT | MediaTek Dimensity 9400 Full Specification and Benchmark Details | Rakesh Sahani | [Read More](https://medium.com/p/1ad1f4eac747) |
+| Wed, 19 Nov 2025 06:46:41 GMT | Security Intelligence and Response Automation: Closing the Attack Gap | Prakriti Juneja | [Read More](https://medium.com/p/c68ddf7b8ec6) |
+| Wed, 19 Nov 2025 06:42:52 GMT | Broken Access Control | Pratik Solanki | [Read More](https://medium.com/p/971c0259af9c) |
+| Wed, 19 Nov 2025 06:36:02 GMT | Will Bangladesh Embrace AI Agents? | Ishraka Rahin Eka | [Read More](https://medium.com/p/905abd25786c) |
+| Wed, 19 Nov 2025 06:33:06 GMT | The 18th Nov Cloudflare Outage: A Wake-Up Call for the Entire Internet | Shubham Naliyapara | [Read More](https://medium.com/p/361ad11f269c) |
+| Wed, 19 Nov 2025 06:31:35 GMT | When Cloudflare Went Down: The Day the Internet Remembered Cloud Isn’t Invincible | Yaseenmd | [Read More](https://medium.com/p/2fe74f74f6b2) |
+| Wed, 19 Nov 2025 06:27:28 GMT | Prompt-Level Attacks: A Deep Technical Analysis of Modern Prompt Injection Vectors | Aditya Pandey | [Read More](https://medium.com/p/352312b18170) |
+| Wed, 19 Nov 2025 06:24:47 GMT | When Cloudflare Went Down: How One Company Can Shake the Entire Internet | Siddharth | [Read More](https://medium.com/p/d8f0c404db7a) |
 | Wed, 19 Nov 2025 06:18:53 GMT | Live Hacking Masterclass Phase 2 — Ultimate CTF Breakdown & Final Exploits | Dallen Sadru | [Read More](https://medium.com/p/199043f97939) |
 | Wed, 19 Nov 2025 06:18:25 GMT | Docker Container Escape by Exploiting Shared Namespaces | Indigo Shadow | [Read More](https://medium.com/p/5716409d4d1a) |
 | Wed, 19 Nov 2025 06:14:20 GMT | United States cybersecurity market: Size, Growth Key Players, Latest Insights and Forecast… | Market Researcher | [Read More](https://medium.com/p/b619b4cae3a3) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 22:34:18 GMT | I Watched a Phishing Attack Happen in Real Time ..Here’s the Part Hackers Don’t Want You to See | Caleb Mingle | [Read More](https://medium.com/p/52680956f55b) |
 | Tue, 18 Nov 2025 22:33:09 GMT | LinkedIn Has Become the New Phishing Playground | Cyber-AppSec | [Read More](https://medium.com/p/bc3794f44aeb) |
 | Tue, 18 Nov 2025 22:32:30 GMT | Chasing what....? | Nazma Sultana | [Read More](https://medium.com/p/85f40056d3da) |
-| Tue, 18 Nov 2025 22:26:21 GMT | Adversarial Red Game: Surviving the LLM Arena of Squid Game | Onurcan Genç | [Read More](https://medium.com/p/1a89df09abd5) |
-| Tue, 18 Nov 2025 22:21:27 GMT | Introducing the Fortress Protocol Landing Page | Fortress Protocol | [Read More](https://medium.com/p/accc71763119) |
-| Tue, 18 Nov 2025 21:56:07 GMT | 30 Days of Red Team: Day 7 — Week 1 Integration & Practice | Maxwell Cross | [Read More](https://medium.com/p/4840f85389a3) |
-| Tue, 18 Nov 2025 21:43:24 GMT | Process Migration | S12 - 0x12Dark Development | [Read More](https://medium.com/p/dc9ff6d4b5cf) |
-| Tue, 18 Nov 2025 21:35:40 GMT | CFOs Are From Mars, CIOs From GitHub | Dr Tyrone Grandison | [Read More](https://medium.com/p/bd24db1e4956) |
-| Tue, 18 Nov 2025 21:32:05 GMT | How I Received an Appreciation Letter from NASA for Identifying a CVE | CyberTechAjju | [Read More](https://medium.com/p/cc36b955f86e) |
-| Tue, 18 Nov 2025 21:16:27 GMT | The Agent Will Be Your Judge and Jury | ToxSec | [Read More](https://medium.com/p/4e8e0e6ffe3d) |
-| Tue, 18 Nov 2025 21:14:22 GMT | Vulnerable poetry | Rose | [Read More](https://medium.com/p/6715906dbe84) |
-| Tue, 18 Nov 2025 21:13:06 GMT | Is DySec the Future for securing the Python package repository? | Maikel Mardjan | [Read More](https://medium.com/p/1fe6f403268f) |
-| Tue, 18 Nov 2025 20:56:41 GMT | AWS and Cloudflare Just Broke the Internet Twice — Taking Twitter, ChatGPT, and 10,000+ Apps Down | CodeOrbit | [Read More](https://medium.com/p/29a7f61b6119) |
-| Tue, 18 Nov 2025 20:56:09 GMT | Welcome to Staying Human | Shaun McNulty | [Read More](https://medium.com/p/21f41809db35) |
-| Tue, 18 Nov 2025 20:51:55 GMT | Introduction | Hartannanaa | [Read More](https://medium.com/p/caf01183e9d0) |
-| Tue, 18 Nov 2025 20:49:08 GMT | API Security: The Forgotten Fortress in Your Architecture | Samuel Obeng Amoako Jnr | [Read More](https://medium.com/p/6255c3e61365) |
-| Tue, 18 Nov 2025 20:39:43 GMT | The User Survival Guide to Internet Outages (Cloudflare & Beyond) | MEDUSA | [Read More](https://medium.com/p/664d51a004ce) |
-| Tue, 18 Nov 2025 20:34:35 GMT | The QR Code Scam Nobody Saw Coming | Kael Virex | [Read More](https://medium.com/p/17f586a64f3d) |
