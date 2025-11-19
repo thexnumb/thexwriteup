@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 01:35:12 GMT | Questions Bubbling to a Tear | Jasmine Rose | [Read More](https://medium.com/p/fd4f82f38541) |
+| Wed, 19 Nov 2025 01:34:26 GMT | GitLab CVE-2023–7028 - TryHackMe | q1mthi | [Read More](https://medium.com/p/f48c51ed58b2) |
+| Wed, 19 Nov 2025 01:29:12 GMT | Cloudflare Outage Briefly Takes Down Parts of the Internet — Including ChatGPT and X | Theotismatthews | [Read More](https://medium.com/p/f64fafa4a332) |
+| Wed, 19 Nov 2025 01:24:35 GMT | Metasploit Framework: Ingeniería Ofensiva desde la Vulnerabilidad hasta el Control Total | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/aaaed9bc0e31) |
+| Wed, 19 Nov 2025 01:21:51 GMT | Listing the Database Contents on Non-Oracle Databases | Cybernerddd | [Read More](https://medium.com/p/279297da9277) |
+| Wed, 19 Nov 2025 01:16:14 GMT | The Kessler Twins’ Assisted Suicide | Flavia Corso | [Read More](https://medium.com/p/6725392c96f9) |
+| Wed, 19 Nov 2025 01:06:49 GMT | Cybersecurity for Teens: Protect Your Social Media | Tech Tea with Navika | [Read More](https://medium.com/p/32d65993218d) |
+| Wed, 19 Nov 2025 01:05:48 GMT | EchoEcho CTF Writeup — by vulnbydefault | Bader ALmutairi | [Read More](https://medium.com/p/7bb2ebf0051d) |
+| Wed, 19 Nov 2025 01:02:02 GMT | When Production Exposes Your Source Code: A Deep Dive into JavaScript Obfuscation | Jaival Suthar | [Read More](https://medium.com/p/605a903847b4) |
+| Wed, 19 Nov 2025 00:10:51 GMT | General Best Practices for Web3 Security | Officer's Notes | [Read More](https://medium.com/p/53bf5b88d2a4) |
+| Wed, 19 Nov 2025 00:09:56 GMT | IoT, Endpoints, and the Silent War for Network Control: What SOC Teams Must Understand in 2025 | Spesh Billions | [Read More](https://medium.com/p/b93b50e24f5a) |
+| Wed, 19 Nov 2025 00:02:03 GMT | API2:2023 Broken Authentication: Critical API Identity Flaws and JWT Attacks | JPablo13 | [Read More](https://medium.com/p/c8a31e86b604) |
+| Tue, 18 Nov 2025 23:38:27 GMT | Why API Security Matters More Than Ever | CXY | [Read More](https://medium.com/p/54c3e0e1d965) |
 | Tue, 18 Nov 2025 23:31:22 GMT | Looking for round-the-clock security without the high cost of on-site guards? | Visual Monitoring Solutions | [Read More](https://medium.com/p/bcdcd36f45e1) |
 | Tue, 18 Nov 2025 23:27:06 GMT | What Happens When You Actually Pentest a Wireless Sensor? | Michael Preston | [Read More](https://medium.com/p/dd3a684f6838) |
 | Tue, 18 Nov 2025 23:14:17 GMT | It’s Not Failure You’re Afraid Of. It’s Embarrassment. | Abhinav Misra | [Read More](https://medium.com/p/c45c7379d6b4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 16:56:27 GMT | Monitoring Keycloak Events in Wazuh — A Complete, Working Integration Guide | Yash Patel | [Read More](https://medium.com/p/a669817dc018) |
 | Tue, 18 Nov 2025 16:50:56 GMT | Cloudflare Crushed Elon Musk’s X and ChatGPT. How One Tiny File Broke the Web. | Tanzid (TechToFit.space) | [Read More](https://medium.com/p/1afa60b01b60) |
 | Tue, 18 Nov 2025 16:50:31 GMT | From Broke to Boss: Mastering Financial Literacy One Step at a Time | Aliyu Ibrahim | [Read More](https://medium.com/p/83688d317fef) |
-| Tue, 18 Nov 2025 16:46:25 GMT | Episode 9: “The Cloud That Ate Manhattan — Part 2” | Dr. House In I.T. | [Read More](https://medium.com/p/8fd2ba0b4424) |
-| Tue, 18 Nov 2025 16:36:02 GMT | The 2025 State of Cybersecurity: The Everyday Mistakes Leaving Millions Exposed | Voidly | [Read More](https://medium.com/p/3850c845eb43) |
-| Tue, 18 Nov 2025 16:34:15 GMT | Understanding API Security: Lessons from the API Security Fundamentals Course | Gamuchirai | [Read More](https://medium.com/p/94b3fe072890) |
-| Tue, 18 Nov 2025 16:30:20 GMT | The Collapse We’re Ignoring: How Overstretching the Military Is Endangering Nigeria | Emmanuel Amoo | [Read More](https://medium.com/p/95dc9f5a8d5d) |
-| Tue, 18 Nov 2025 16:24:58 GMT | ประจำวันอังคารที่ 18 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c75e50e07faa) |
-| Tue, 18 Nov 2025 16:22:55 GMT | How Hackers Are Using AI in 2025 (And You’re Probably Vulnerable) | Hania Khan | [Read More](https://medium.com/p/44951ef707f8) |
-| Tue, 18 Nov 2025 16:22:05 GMT | The Daily Tech Digest: 18 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/111f98f6f6c4) |
-| Tue, 18 Nov 2025 16:14:03 GMT | Why Identity Threat Detection & Response (ITDR) Is Becoming Essential in Modern Security | Sunnysinha | [Read More](https://medium.com/p/0e5cd19a5320) |
-| Tue, 18 Nov 2025 16:09:47 GMT | The Dark Side of “Unofficial Apps” | Hitesh Said | [Read More](https://medium.com/p/a67c39571d34) |
-| Tue, 18 Nov 2025 16:07:04 GMT | Scams? Or Cyber-scams! | Umair Imran | [Read More](https://medium.com/p/b27887cf1725) |
-| Tue, 18 Nov 2025 16:02:47 GMT | UAT vs Production Pentesting: What Pentesters Must Understand | Abhishek Kumar | [Read More](https://medium.com/p/7e03ca037850) |
-| Tue, 18 Nov 2025 16:01:40 GMT | Cloudflare Outage Explained: Why the Internet Went Down Today (18 Nov 2025) | Mohamed Basil | [Read More](https://medium.com/p/92e89e625b11) |
-| Tue, 18 Nov 2025 15:59:10 GMT | The Day the Web Stumbled: Cloudflare’s Outage and the Hidden Crisis of Digital Sovereignty | Abatis ABTU | [Read More](https://medium.com/p/0f0a5da7a196) |
