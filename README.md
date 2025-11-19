@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 08:26:05 GMT | SQL injection — Portswigger LAB 1 -SQL injection vulnerability in WHERE clause allowing retrieval… | Emir Gkta | [Read More](https://medium.com/p/f734c234215d) |
+| Wed, 19 Nov 2025 08:18:10 GMT | Qilin Ransomware: Real Attacks, Behavioral Patterns & How SOC Teams Can Spot It Early | Motasem Hamdan | [Read More](https://medium.com/p/912bc9f05b41) |
+| Wed, 19 Nov 2025 08:15:12 GMT | What Is Pretexting in Cyber Security? Why This Attack Still Works | Beetles IO | [Read More](https://medium.com/p/549a829e2f9f) |
+| Wed, 19 Nov 2025 08:06:01 GMT | Wazuh Part 2 — Kurulum, Dashboard İncelemesi ve İlk Agent Bağlantısı | İremDamar | [Read More](https://medium.com/p/2434b9dc537d) |
+| Wed, 19 Nov 2025 08:04:48 GMT | What 1,500 minutes of Mentoring This Year taught me about the future of engineering | Johnsonoaseru | [Read More](https://medium.com/p/1b3c35d2586d) |
+| Wed, 19 Nov 2025 08:02:44 GMT | I Found Millions in Losses Hidden in Zero-Knowledge Proofs | Bytescan Security Group | [Read More](https://medium.com/p/ed7a3dea5be7) |
+| Wed, 19 Nov 2025 08:02:34 GMT | The Producer-Consumer Pattern | Lukasz Wierzbicki | [Read More](https://medium.com/p/18c228e388f2) |
+| Wed, 19 Nov 2025 08:02:08 GMT | [Part 14] Explained: Machine Learning, Deep Learning, and Neural Networks for Security Pros | Cyberkech | [Read More](https://medium.com/p/b7a26ca1261a) |
+| Wed, 19 Nov 2025 08:01:33 GMT | Best Cybersecurity Awareness Training Courses Online | CodeRed | [Read More](https://medium.com/p/6888d4e8b9a5) |
+| Wed, 19 Nov 2025 07:56:00 GMT | What You See Is Only the Tip: The Layers of Hidden Risk | Fook Hwa Tan | [Read More](https://medium.com/p/b490f240400e) |
+| Wed, 19 Nov 2025 07:54:59 GMT | Why MFA Is Not a Silver Bullet — And What to Do Instead | Fook Hwa Tan | [Read More](https://medium.com/p/45e45d6bc33c) |
+| Wed, 19 Nov 2025 07:53:25 GMT | This Changed How Staff Behaved in Just 30 Days | Fook Hwa Tan | [Read More](https://medium.com/p/cbe4d306bb0b) |
+| Wed, 19 Nov 2025 07:47:57 GMT | Fix Outlook Sending Multiple Copies of Emails: Step-by-Step Guide | EINITIAL24 | [Read More](https://medium.com/p/8c9a2848d69b) |
+| Wed, 19 Nov 2025 07:46:08 GMT | [NASA] GlobalProtect VPN Pre-Auth Leak → | Christoscoming | [Read More](https://medium.com/p/d868aa005341) |
+| Wed, 19 Nov 2025 07:46:06 GMT | Top 10 Network Visibility Tools Every Pentester Needs in 2025: Level Up Your Recon | Very Lazy Tech | [Read More](https://medium.com/p/a2b6749c5d60) |
+| Wed, 19 Nov 2025 07:33:55 GMT | Risk Management: Essential Tools & Strategies for iGaming Operators | Max Kerry | [Read More](https://medium.com/p/46aa38d5bb46) |
 | Wed, 19 Nov 2025 07:32:24 GMT | 10 JavaScript Security Headers That Stay Fast | Velorum | [Read More](https://medium.com/p/94519d8e972e) |
 | Wed, 19 Nov 2025 07:20:41 GMT | Which Is the Best CCTV Installation Company in Tamil Nadu & What Are the Benefits of Hiring a… | Berkshire Hathaway | [Read More](https://medium.com/p/d5e5d714a792) |
 | Wed, 19 Nov 2025 07:19:09 GMT | One Click Can Change Your Life: Stay Secure in a Digital World | Monu Jangra | [Read More](https://medium.com/p/5d8d363457e4) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 01:45:42 GMT | The Fool’s Path to Creativity | The Existential Ginger | [Read More](https://medium.com/p/586aea6c9ba8) |
 | Wed, 19 Nov 2025 01:39:37 GMT | China Used an AI Agent to Hack 30 Companies — and It Transforms Cybersecurity Forever | Code Pulse | [Read More](https://medium.com/p/0e8a4f2e03e6) |
 | Wed, 19 Nov 2025 01:35:12 GMT | Questions Bubbling to a Tear | Jasmine Rose | [Read More](https://medium.com/p/fd4f82f38541) |
-| Wed, 19 Nov 2025 01:34:26 GMT | GitLab CVE-2023–7028 - TryHackMe | q1mthi | [Read More](https://medium.com/p/f48c51ed58b2) |
-| Wed, 19 Nov 2025 01:29:12 GMT | Cloudflare Outage Briefly Takes Down Parts of the Internet — Including ChatGPT and X | Theotismatthews | [Read More](https://medium.com/p/f64fafa4a332) |
-| Wed, 19 Nov 2025 01:24:35 GMT | Metasploit Framework: Ingeniería Ofensiva desde la Vulnerabilidad hasta el Control Total | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/aaaed9bc0e31) |
-| Wed, 19 Nov 2025 01:21:51 GMT | Listing the Database Contents on Non-Oracle Databases | Cybernerddd | [Read More](https://medium.com/p/279297da9277) |
-| Wed, 19 Nov 2025 01:16:14 GMT | The Kessler Twins’ Assisted Suicide | Flavia Corso | [Read More](https://medium.com/p/6725392c96f9) |
-| Wed, 19 Nov 2025 01:06:49 GMT | Cybersecurity for Teens: Protect Your Social Media | Tech Tea with Navika | [Read More](https://medium.com/p/32d65993218d) |
-| Wed, 19 Nov 2025 01:05:48 GMT | EchoEcho CTF Writeup — by vulnbydefault | Bader ALmutairi | [Read More](https://medium.com/p/7bb2ebf0051d) |
-| Wed, 19 Nov 2025 01:02:02 GMT | When Production Exposes Your Source Code: A Deep Dive into JavaScript Obfuscation | Jaival Suthar | [Read More](https://medium.com/p/605a903847b4) |
-| Wed, 19 Nov 2025 00:10:51 GMT | General Best Practices for Web3 Security | Officer's Notes | [Read More](https://medium.com/p/53bf5b88d2a4) |
-| Wed, 19 Nov 2025 00:09:56 GMT | IoT, Endpoints, and the Silent War for Network Control: What SOC Teams Must Understand in 2025 | Spesh Billions | [Read More](https://medium.com/p/b93b50e24f5a) |
-| Wed, 19 Nov 2025 00:02:03 GMT | API2:2023 Broken Authentication: Critical API Identity Flaws and JWT Attacks | JPablo13 | [Read More](https://medium.com/p/c8a31e86b604) |
-| Tue, 18 Nov 2025 23:38:27 GMT | Why API Security Matters More Than Ever | CXY | [Read More](https://medium.com/p/54c3e0e1d965) |
-| Tue, 18 Nov 2025 23:31:22 GMT | Looking for round-the-clock security without the high cost of on-site guards? | Visual Monitoring Solutions | [Read More](https://medium.com/p/bcdcd36f45e1) |
-| Tue, 18 Nov 2025 23:27:06 GMT | What Happens When You Actually Pentest a Wireless Sensor? | Michael Preston | [Read More](https://medium.com/p/dd3a684f6838) |
-| Tue, 18 Nov 2025 23:14:17 GMT | It’s Not Failure You’re Afraid Of. It’s Embarrassment. | Abhinav Misra | [Read More](https://medium.com/p/c45c7379d6b4) |
-| Tue, 18 Nov 2025 23:02:35 GMT | The Advanced User Survival Guide to Intecrnet Outages | MEDUSA | [Read More](https://medium.com/p/b1cc7e01fee5) |
