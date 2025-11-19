@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 20:19:28 GMT | ISO 27005 in SaaS Integrations: Making Smart Choices, Not Just Rushing into Things | RMaria | [Read More](https://medium.com/p/f5e703638e9f) |
+| Wed, 19 Nov 2025 20:11:05 GMT | The Princeton University Data Breach: What Happened? | IT_Engineer | [Read More](https://medium.com/p/6330c271ad4a) |
+| Wed, 19 Nov 2025 20:10:39 GMT | TCM Security’s PMAT Challenge: SillyPutty | Sagar Joshi | [Read More](https://medium.com/p/68509e77b4e1) |
+| Wed, 19 Nov 2025 20:09:10 GMT | Post-Quantum Cryptography: The Enterprise Readiness Playbook for CTOs | Vaultnet Defense | [Read More](https://medium.com/p/db673def04ae) |
+| Wed, 19 Nov 2025 20:07:48 GMT | Passkeys: The Future of Secure Logins | Kael Virex | [Read More](https://medium.com/p/ef10315f453d) |
+| Wed, 19 Nov 2025 20:05:27 GMT | Cybersecurity Career Roadmap 2025: Step-by-Step Guide from Beginner to Professional -kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/df99394ba0ee) |
+| Wed, 19 Nov 2025 20:01:00 GMT | AUKUS and the Limits of Deterrence: Why Security (Still) Depends on Diplomacy — Lessons from 19.11 | Josephine Schwab | [Read More](https://medium.com/p/570d34d363ba) |
+| Wed, 19 Nov 2025 19:53:55 GMT | How Guided Workflows Reduce SOC Burnout and Boost Analyst Performance | Graylog | [Read More](https://medium.com/p/64dbc857b5bd) |
+| Wed, 19 Nov 2025 19:49:04 GMT | 10 Mistakes Freshers Make in Cybersecurity (From a CTO’s Laptop) | Devkumar Shah | [Read More](https://medium.com/p/86c3c08ddbf6) |
+| Wed, 19 Nov 2025 19:45:00 GMT | Removing Your LinkedIn Followers, Likes, and Comments. | Dmitry Mikhailov | [Read More](https://medium.com/p/b727156f331d) |
+| Wed, 19 Nov 2025 19:44:02 GMT | The Pulse of Liquidity: How DorkFi’s Interest Rates Adapt in Real Time | DorkFi | [Read More](https://medium.com/p/8073efb716c2) |
+| Wed, 19 Nov 2025 19:39:37 GMT | Soul Love | Savannah Gilmore | [Read More](https://medium.com/p/22844c428a33) |
 | Wed, 19 Nov 2025 19:32:01 GMT | Cloudflare’s November Meltdown: The Tiny Bug That Triggered a Global Internet Outage | ArchitectOfExperience | [Read More](https://medium.com/p/bebcedf4c7c9) |
+| Wed, 19 Nov 2025 19:30:29 GMT | Room 109-SMTP: The Hidden Recon Goldmine Every Hacker Uses | blackXmask | [Read More](https://medium.com/p/3589b3e082b2) |
+| Wed, 19 Nov 2025 19:27:46 GMT | Article 7 : Bypassing Network Access Control - Ethical Hacking | Aman Kumar Singh | [Read More](https://medium.com/p/c7c8b3bd77ff) |
 | Wed, 19 Nov 2025 19:26:02 GMT | “Building Houses to Breaking Systems: My Huntress CTF 2025 Results & Ethical Hacking Journey!” | Nmullenski | [Read More](https://medium.com/p/607a12eb00d4) |
 | Wed, 19 Nov 2025 19:15:59 GMT | Security and Performance Aspects of TCP/IP Stack Tuning | Linux Guide | [Read More](https://medium.com/p/e2f38a8cf2a4) |
 | Wed, 19 Nov 2025 19:10:15 GMT | “I Already Have a Token — Why Do I Need Another One?” | Apoorva Dixit | [Read More](https://medium.com/p/84d0a461e28b) |
@@ -99,17 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 15:06:26 GMT | Resupply Exploit Post-Mortem: How $9.56M Was Stolen in 90 Minutes | Olympix | [Read More](https://medium.com/p/75eced577077) |
 | Wed, 19 Nov 2025 15:06:08 GMT | The Ultimate Ransomware Defense: Test Your Backups! | Max Farnga | [Read More](https://medium.com/p/7735654d6077) |
 | Wed, 19 Nov 2025 15:05:02 GMT | When the Internet Went Dark & the ‘Silicon’ in Silicon Valley: Resilience as a Commodity in a… | Shani Zanescu | [Read More](https://medium.com/p/c966e03743c2) |
-| Wed, 19 Nov 2025 15:02:26 GMT | My API Got DDoS’d Because I Trusted REST Best Practices | Ritik | [Read More](https://medium.com/p/b45f68d9baec) |
-| Wed, 19 Nov 2025 15:02:26 GMT | Cyber Briefing: 2025.11.19 | CyberMaterial | [Read More](https://medium.com/p/a2aa9f3bf0f5) |
-| Wed, 19 Nov 2025 15:00:16 GMT | Dolor que se convierte en arte | Estefanía Gonzalez | [Read More](https://medium.com/p/526b2d6e896f) |
-| Wed, 19 Nov 2025 14:59:21 GMT | When DNS Breaks the Cloud: What the AWS and Azure/M365 Outages Teach Us | Chris Yeung | [Read More](https://medium.com/p/d9087463e70d) |
-| Wed, 19 Nov 2025 14:57:47 GMT | Your Network is Only as Strong as Your Weakest Partner: The Supply Chain Risk ⚠️ | Max Farnga | [Read More](https://medium.com/p/74b84a93f4c1) |
-| Wed, 19 Nov 2025 14:52:00 GMT | Cloudflare’s Global Outage Explained! What Really Happened on November 18, 2025 | U.Senthil Kumar | [Read More](https://medium.com/p/df37d8617a3e) |
-| Wed, 19 Nov 2025 14:49:05 GMT | Data Visualization using Matplotlib and Seaborn | fijrisalwa | [Read More](https://medium.com/p/2bd3398e487b) |
-| Wed, 19 Nov 2025 14:48:48 GMT | Are Browser Extensions Safe? | Pixel Post | [Read More](https://medium.com/p/8198222db7d6) |
-| Wed, 19 Nov 2025 14:47:55 GMT | SAL Education Services — Pakistan’s Leading Institute for OTHM, Undergraduate, IELTS & NAVTTC… | SAL Education Services | [Read More](https://medium.com/p/182d79b590b4) |
-| Wed, 19 Nov 2025 14:45:22 GMT | How to Detect App Tampering & Repackaging using Kotlin | Talsec | [Read More](https://medium.com/p/93765ca3124d) |
-| Wed, 19 Nov 2025 14:43:40 GMT | People keep asking if AI will replace them. Here is the Real Answer. | Anuraj S.L | [Read More](https://medium.com/p/f4f11c5cbfc1) |
-| Wed, 19 Nov 2025 14:40:49 GMT | From Confused to Confident: The JavaScript Bug That Taught Me Everything | Arslan Qutab | [Read More](https://medium.com/p/d096f1c80799) |
-| Wed, 19 Nov 2025 14:36:02 GMT | Why Your Relationship Might Fail: 3 Key Areas Men Often Can’t Satisfy Women | Flaye Kate | [Read More](https://medium.com/p/0bf3464ade6c) |
-| Wed, 19 Nov 2025 14:33:36 GMT | Pickle Rick THM | Nate Harris | [Read More](https://medium.com/p/57c17054cb68) |
