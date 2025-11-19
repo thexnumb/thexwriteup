@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 05:10:39 GMT | Cloudfare Down | Rohith | [Read More](https://medium.com/p/47fbc10e1971) |
+| Wed, 19 Nov 2025 05:05:57 GMT | ประจำวันพุธที่ 19 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/686769cd95e9) |
+| Wed, 19 Nov 2025 04:59:37 GMT | Active Directory Security: Understanding the Attacks That Matter | Devkumar Shah | [Read More](https://medium.com/p/1e978ae9f39e) |
+| Wed, 19 Nov 2025 04:57:20 GMT | From Play Store to Hall of Fame: My Journey Hunting Bugs in Government Mobile Apps | Bytewreaker | [Read More](https://medium.com/p/81f242ad8916) |
+| Wed, 19 Nov 2025 04:52:40 GMT | AI Agent for Risk Prioritization: How Context Tames the Alert Storm | Nikhil Chatterjee | [Read More](https://medium.com/p/66af4d1bf096) |
+| Wed, 19 Nov 2025 04:52:00 GMT | Game Theory for Audit Leaders: Negotiating Scope, Budget & Credibility | Tharun Krishnamoorthy | [Read More](https://medium.com/p/5e1992125a49) |
+| Wed, 19 Nov 2025 04:50:16 GMT | Navigating the Global Shift in AI Governance | Pawan K. Pradhan | [Read More](https://medium.com/p/ee00ec9ce62e) |
+| Wed, 19 Nov 2025 04:49:46 GMT | I’ve Been in Customer Service for Years. Now I’m Learning IT. | Mason Nemzoff | [Read More](https://medium.com/p/1c860cb0169d) |
+| Wed, 19 Nov 2025 04:43:05 GMT | The Phantom Risk: How AI in the Financial Sector Is Exposing Its Internal Logic Through Unintended… | Rodrigo Gutierrez | [Read More](https://medium.com/p/c6dd79d85400) |
 | Wed, 19 Nov 2025 04:32:07 GMT | 10 Security-Header Recipes That Don’t Slow Your Site | Hash Block | [Read More](https://medium.com/p/06ecee5a8b00) |
 | Wed, 19 Nov 2025 04:25:25 GMT | Understanding Cryptojacking — How Hackers Steal Your Computing Power | Kerala Blockchain Academy | [Read More](https://medium.com/p/846c1a6ca750) |
 | Wed, 19 Nov 2025 04:24:46 GMT | Hello, | Seth J | [Read More](https://medium.com/p/71afc8ff8886) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 19:06:32 GMT | When AI Becomes the Attacker: Why Your Security Stack Can’t Save You Anymore | Spencer Thomason | [Read More](https://medium.com/p/c2a2453dfcfd) |
 | Tue, 18 Nov 2025 18:58:28 GMT | Anthropic’s Disclosure Missed the Real Point, The Attack Didn’t Succeed Because AI Got Smarter; It… | Rampart AI™ | [Read More](https://medium.com/p/e3ef16841e6c) |
 | Tue, 18 Nov 2025 18:58:02 GMT | My CISSP Journey: An 8-Month Preparation and Strategy Guide | Mainak Biswas | [Read More](https://medium.com/p/696de2c9ce8e) |
-| Tue, 18 Nov 2025 18:56:27 GMT | Building a Cybersecurity Home Lab — Part 3.4: Lab Milestone & Critical Considerations | JBXSec | [Read More](https://medium.com/p/10cbb800408f) |
-| Tue, 18 Nov 2025 18:56:19 GMT | Why GRC Matters More Than Ever in a Digital-First World | Samuel Dhamodharan | [Read More](https://medium.com/p/2475851c9fe5) |
-| Tue, 18 Nov 2025 18:54:21 GMT | Drosera Litepaper Breakdown (Continuation): | Abdulgafarojewale | [Read More](https://medium.com/p/d22f5f7553d8) |
-| Tue, 18 Nov 2025 18:52:54 GMT | Preventing AI‑orchestrated cyberattacks with behavior‑based governance | Rampart AI™ | [Read More](https://medium.com/p/c4c9071d1015) |
-| Tue, 18 Nov 2025 18:51:36 GMT | A Practical Guide to DNN-Based Intrusion Detection Systems | Elkadiayoub | [Read More](https://medium.com/p/6cfdff715075) |
-| Tue, 18 Nov 2025 18:51:02 GMT | Application Security Pipeline (DevSecOps) and Scripts | Parviz Salmanov | [Read More](https://medium.com/p/3b59ac2c5a3c) |
-| Tue, 18 Nov 2025 18:48:05 GMT | Article 6: Introduction to Networking For Ethical Hacking | Aman Kumar Singh | [Read More](https://medium.com/p/70b29d452aa5) |
-| Tue, 18 Nov 2025 18:46:37 GMT | Ransomed Lab (Cyberdefenders) | FeCeSociety | [Read More](https://medium.com/p/6def412b157f) |
-| Tue, 18 Nov 2025 18:42:01 GMT | (File 20) King Boo — The Ruler of Mischief | Ink Stories Primal | [Read More](https://medium.com/p/4b843f57b8a3) |
