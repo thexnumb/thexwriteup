@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 05:31:16 GMT | Cloudflare Down | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/2a308cfdfa72) |
+| Wed, 19 Nov 2025 05:30:06 GMT | Firewalld Advanced Rules for High Performance Linux Servers | Linux Guide | [Read More](https://medium.com/p/aa9aae37c047) |
+| Wed, 19 Nov 2025 05:27:37 GMT | Hackers Don’t Need Your Password… Just Your Feelings | Everyday CYBER | [Read More](https://medium.com/p/fb4f860e181c) |
 | Wed, 19 Nov 2025 05:10:39 GMT | Cloudfare Down | Rohith | [Read More](https://medium.com/p/47fbc10e1971) |
 | Wed, 19 Nov 2025 05:05:57 GMT | ประจำวันพุธที่ 19 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/686769cd95e9) |
 | Wed, 19 Nov 2025 04:59:37 GMT | Active Directory Security: Understanding the Attacks That Matter | Devkumar Shah | [Read More](https://medium.com/p/1e978ae9f39e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 19:14:56 GMT | When AI Became The Hacker: How Three November Discoveries Prove Autonomous Cyberattacks Are Already… | Berend Watchus | [Read More](https://medium.com/p/d61914e8e1d7) |
 | Tue, 18 Nov 2025 19:10:01 GMT | The World Doesn’t Need More Cybersecurity Professionals | InfosecPandey | [Read More](https://medium.com/p/686856682db4) |
 | Tue, 18 Nov 2025 19:08:15 GMT | The Hidden Cost of a Ransomware Attack — And Why It Can Break Your Business | Cordula Boeck | [Read More](https://medium.com/p/f4f6bc385f51) |
-| Tue, 18 Nov 2025 19:06:32 GMT | When AI Becomes the Attacker: Why Your Security Stack Can’t Save You Anymore | Spencer Thomason | [Read More](https://medium.com/p/c2a2453dfcfd) |
-| Tue, 18 Nov 2025 18:58:28 GMT | Anthropic’s Disclosure Missed the Real Point, The Attack Didn’t Succeed Because AI Got Smarter; It… | Rampart AI™ | [Read More](https://medium.com/p/e3ef16841e6c) |
-| Tue, 18 Nov 2025 18:58:02 GMT | My CISSP Journey: An 8-Month Preparation and Strategy Guide | Mainak Biswas | [Read More](https://medium.com/p/696de2c9ce8e) |
