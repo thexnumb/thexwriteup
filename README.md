@@ -12,9 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 18:31:21 GMT | Happy Men’s Day to the Men Who Break Before They Bend | Gursahib Singh | [Read More](https://medium.com/p/3e16c8cf8237) |
+| Wed, 19 Nov 2025 18:24:18 GMT | Introduction to ShieldLabs: Real-Time Risk Scoring for Modern Web Traffic | ShieldLabs | [Read More](https://medium.com/p/af694afcf4c9) |
+| Wed, 19 Nov 2025 18:23:05 GMT | Cyber Kill Chain 1.1 : Pasif Bilgi Toplama (OSINT) Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/b5d58d7a8378) |
+| Wed, 19 Nov 2025 18:21:45 GMT | Cloud Computing Is Simpler Than You Think : Why It Matters in 2025 | Mughira Ahmed | [Read More](https://medium.com/p/354f9c77291d) |
+| Wed, 19 Nov 2025 18:20:44 GMT | Building Trust in the Digital Age: How Blockchain Transforms Document Integrity | Ylium Token | [Read More](https://medium.com/p/d1c0d05983ed) |
+| Wed, 19 Nov 2025 18:20:31 GMT | OWASP Top 10: 2025 — Web Application Vulnerabilities (PART 1) | 0xBinaryOrbit | [Read More](https://medium.com/p/c3fdc2911c45) |
+| Wed, 19 Nov 2025 18:20:09 GMT | Cyber Infinity CTF 2025 — Writeup | Muhammad Junaid Akhtar | [Read More](https://medium.com/p/7346b8a088f1) |
+| Wed, 19 Nov 2025 18:16:06 GMT | !! | Vansh Sharma | [Read More](https://medium.com/p/ef6cea747491) |
+| Wed, 19 Nov 2025 18:14:46 GMT | OWASP Top 10: 2025 — Web Application Vulnerabilities (PART 1) | 0xBinaryOrbit | [Read More](https://medium.com/p/f1c05232b417) |
+| Wed, 19 Nov 2025 18:11:37 GMT | Deep Dive into the iOS File System. | Kamal | [Read More](https://medium.com/p/4506a64fb21a) |
+| Wed, 19 Nov 2025 18:05:13 GMT | The Untold Story of Mirai Botnet | Abdullah Javeed | [Read More](https://medium.com/p/71059a5b4a15) |
+| Wed, 19 Nov 2025 18:04:23 GMT | LetsDefend - SOC Fundamentals Training | RITESH RAJPUT | [Read More](https://medium.com/p/67333b98a4f9) |
+| Wed, 19 Nov 2025 18:02:19 GMT | Help! Help! I’m Being Robbed in 2033 Today! | TD | [Read More](https://medium.com/p/2b2833e7c6eb) |
+| Wed, 19 Nov 2025 17:47:19 GMT | Why MS Excel Is the Superpower Every IT Student Needs | Ladislav Mariš | [Read More](https://medium.com/p/955dedb9c74e) |
+| Wed, 19 Nov 2025 17:47:16 GMT | ✨ The Hacker Who Could See Feelings | Aradhya Sharma | [Read More](https://medium.com/p/96d9d2bf731b) |
 | Wed, 19 Nov 2025 17:38:11 GMT | Stop Hitting ‘Later’: Software Updates are Mandatory Security Patches! | Max Farnga | [Read More](https://medium.com/p/bf56c6e84d1a) |
+| Wed, 19 Nov 2025 17:36:51 GMT | Balancer, 0x48cf, dTrinity: $121M Lost to Rounding Bugs, Upgrade Backdoors, and Missing Auth | Olympix | [Read More](https://medium.com/p/c5d02358b735) |
 | Wed, 19 Nov 2025 17:35:50 GMT | Episode 14: Campus Rise | Day One Signal | [Read More](https://medium.com/p/2366c12435b7) |
+| Wed, 19 Nov 2025 17:29:53 GMT | The Night I Stopped Trying to Be Perfect | Heidi K. Isern | [Read More](https://medium.com/p/55bea7b7d971) |
 | Wed, 19 Nov 2025 17:28:07 GMT | Introduce myself | Purapung | [Read More](https://medium.com/p/a8866ed1c614) |
+| Wed, 19 Nov 2025 17:27:47 GMT | Still Talking About The Security Situation In Nigeria | Emmanuel Amoo | [Read More](https://medium.com/p/9c49f2611e37) |
 | Wed, 19 Nov 2025 17:21:37 GMT | The job offer:
 Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](https://medium.com/p/e41a8a78ed00) |
 | Wed, 19 Nov 2025 17:16:29 GMT | VulnHub DC-3 Walkthrough: Exploiting Joomla CMS | Kalash Kundaliya | [Read More](https://medium.com/p/f9b7ddce5150) |
@@ -95,21 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 14:03:25 GMT | When Africa’s Internet Goes Dark, the Problem Isn’t Where You Think It Is | Hector Dotse Jr. | [Read More](https://medium.com/p/c2c9f7b5aea5) |
 | Wed, 19 Nov 2025 14:02:23 GMT | Zero Trust, Infinite Security: Rethinking Cyber Defense for SMBs | SignalAge | [Read More](https://medium.com/p/03efde91fde0) |
 | Wed, 19 Nov 2025 13:58:07 GMT | How To Uncover A Major Security Risk With One Line | Ibtissam | [Read More](https://medium.com/p/136708cfd70c) |
-| Wed, 19 Nov 2025 13:57:21 GMT | BurpSuite + Ffuf - Make Your Life Easier | Mr Jokar | [Read More](https://medium.com/p/b6ffc290ba68) |
-| Wed, 19 Nov 2025 13:53:54 GMT | I Finally Saw the NTLM Relay Escalation Chain And It Changed How I View Active Directory Security | Mbcyberworks | [Read More](https://medium.com/p/8e14eb2a2241) |
-| Wed, 19 Nov 2025 13:45:49 GMT | Lposed module not working on android 16 | Jonsnow | [Read More](https://medium.com/p/9e06c1a53c1e) |
-| Wed, 19 Nov 2025 13:32:03 GMT | Detecting Web Shells Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/38a7beaea0f2) |
-| Wed, 19 Nov 2025 13:29:44 GMT | Mastering Vulnerability Scanning: A Deep Dive into vuln-checker 0.5.5 | Skm248 | [Read More](https://medium.com/p/f148acb65a23) |
-| Wed, 19 Nov 2025 13:24:59 GMT | A Day in the Life of a Cyber Security Analyst | 464-Eshan | [Read More](https://medium.com/p/5283e4214e64) |
-| Wed, 19 Nov 2025 13:22:16 GMT | Reflections and takeaways on deepfakes and emotional manipulation | Torben B. Sørensen | [Read More](https://medium.com/p/ce217ac0fd6f) |
-| Wed, 19 Nov 2025 13:21:37 GMT | The Hidden Chaos of Frontend Dependencies — And a Cleaner Way Out | Manish Kalra | [Read More](https://medium.com/p/6c3a1d0dfb41) |
-| Wed, 19 Nov 2025 13:21:21 GMT | The Rise and Fall of Wally: How a Promising Web3 Project Collapsed and What Really Happened. | Jinners | [Read More](https://medium.com/p/1b628a2e0dd7) |
-| Wed, 19 Nov 2025 13:19:36 GMT | Behind the scripts: chasing a clever ninja infostealer | Dawid Bolkowski | [Read More](https://medium.com/p/58801dbefbda) |
-| Wed, 19 Nov 2025 13:19:22 GMT | Upgrade Your Skills & Transform Your Future: Why IT Training is the Key to a Successful Career in… | Swhizztechnlogies | [Read More](https://medium.com/p/91d45fd8c0bf) |
-| Wed, 19 Nov 2025 13:19:16 GMT | Building a Cyber Security Portfolio — Learning Step 2: Learning to teach | Randy Puffin | [Read More](https://medium.com/p/c8d6997eec09) |
-| Wed, 19 Nov 2025 13:15:20 GMT | SPF, DKIM, and DMARC: the three protocols protecting your inbox (and why you need all of them) | Red Sift | [Read More](https://medium.com/p/c7519c72a6b8) |
-| Wed, 19 Nov 2025 13:11:31 GMT | The Importance of Online Security and How to Apply It | Best Ecommerce Life | [Read More](https://medium.com/p/f6af4ef57fa6) |
-| Wed, 19 Nov 2025 13:02:27 GMT | Part 3 — OSINT for Insider Threats: Quiet Signals, Early Warnings | OSINT Amy | [Read More](https://medium.com/p/ad2e31b55a87) |
-| Wed, 19 Nov 2025 13:02:17 GMT | Building a Cyber Security Portfolio — Networking Step 2: Conferences | Randy Puffin | [Read More](https://medium.com/p/69c4a02408be) |
-| Wed, 19 Nov 2025 12:56:35 GMT | eJPT v2 : Challenge Lab 26: Cheese | Dhanushkumar R | [Read More](https://medium.com/p/7dd39a0e722d) |
-| Wed, 19 Nov 2025 12:53:50 GMT | The Day the Internet Died (For a Few Hours): Cloudflare Outage Explained | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/0b876451d1ef) |
