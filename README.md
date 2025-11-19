@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 19:32:01 GMT | Cloudflare’s November Meltdown: The Tiny Bug That Triggered a Global Internet Outage | ArchitectOfExperience | [Read More](https://medium.com/p/bebcedf4c7c9) |
+| Wed, 19 Nov 2025 19:26:02 GMT | “Building Houses to Breaking Systems: My Huntress CTF 2025 Results & Ethical Hacking Journey!” | Nmullenski | [Read More](https://medium.com/p/607a12eb00d4) |
 | Wed, 19 Nov 2025 19:15:59 GMT | Security and Performance Aspects of TCP/IP Stack Tuning | Linux Guide | [Read More](https://medium.com/p/e2f38a8cf2a4) |
 | Wed, 19 Nov 2025 19:10:15 GMT | “I Already Have a Token — Why Do I Need Another One?” | Apoorva Dixit | [Read More](https://medium.com/p/84d0a461e28b) |
 | Wed, 19 Nov 2025 19:07:29 GMT | The Header No One Was Watching: A Quiet IDOR in a Financial System | sin99xx | [Read More](https://medium.com/p/0fcba65e2ace) |
@@ -111,5 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 14:40:49 GMT | From Confused to Confident: The JavaScript Bug That Taught Me Everything | Arslan Qutab | [Read More](https://medium.com/p/d096f1c80799) |
 | Wed, 19 Nov 2025 14:36:02 GMT | Why Your Relationship Might Fail: 3 Key Areas Men Often Can’t Satisfy Women | Flaye Kate | [Read More](https://medium.com/p/0bf3464ade6c) |
 | Wed, 19 Nov 2025 14:33:36 GMT | Pickle Rick THM | Nate Harris | [Read More](https://medium.com/p/57c17054cb68) |
-| Wed, 19 Nov 2025 14:31:02 GMT | 5 Everyday Tools Criminals Use to Launder Millions | FinCrimeXpert | [Read More](https://medium.com/p/daa97f1b3cf8) |
-| Wed, 19 Nov 2025 14:28:00 GMT | Digital Identity, Real World Impact: The Industrial Upside of the European Business Wallet (EUBW) | Carsten Stöcker | [Read More](https://medium.com/p/d9e0c4e96aae) |
