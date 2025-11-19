@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 14:16:21 GMT | “The Safety Gap: How AI Is Quietly Rewriting the Future of Manufacturing” | Tec-Tel Communications | [Read More](https://medium.com/p/f35f514c76ea) |
+| Wed, 19 Nov 2025 14:16:08 GMT | If Elon Musk applied today, would he get hired? | Hachtechnology | [Read More](https://medium.com/p/cbea808c7fb0) |
+| Wed, 19 Nov 2025 14:11:08 GMT | The Autonomous Researcher: How I Engineered Guaranteed 1,000×–10,000× Breakthroughs On Demand | Berend Watchus | [Read More](https://medium.com/p/7c530854166c) |
+| Wed, 19 Nov 2025 14:09:24 GMT | Call for Papers for “VulnCon 2026” Open Until December 22, 2025 | CVE Program Blog | [Read More](https://medium.com/p/7498e097b454) |
+| Wed, 19 Nov 2025 14:08:06 GMT | Security Headers affect your SEO | ari nakos | [Read More](https://medium.com/p/077a4f6b44be) |
+| Wed, 19 Nov 2025 14:05:55 GMT | The 7 Biggest Cybersecurity Trends of 2026 That Everyone Must Be Prepared For | Tradister-Managed IT Services | [Read More](https://medium.com/p/2d67263d2d9d) |
+| Wed, 19 Nov 2025 14:03:25 GMT | When Africa’s Internet Goes Dark, the Problem Isn’t Where You Think It Is | Hector Dotse Jr. | [Read More](https://medium.com/p/c2c9f7b5aea5) |
+| Wed, 19 Nov 2025 14:02:23 GMT | Zero Trust, Infinite Security: Rethinking Cyber Defense for SMBs | SignalAge | [Read More](https://medium.com/p/03efde91fde0) |
+| Wed, 19 Nov 2025 13:58:07 GMT | How To Uncover A Major Security Risk With One Line | Ibtissam | [Read More](https://medium.com/p/136708cfd70c) |
+| Wed, 19 Nov 2025 13:57:21 GMT | BurpSuite + Ffuf - Make Your Life Easier | Mr Jokar | [Read More](https://medium.com/p/b6ffc290ba68) |
+| Wed, 19 Nov 2025 13:53:54 GMT | I Finally Saw the NTLM Relay Escalation Chain And It Changed How I View Active Directory Security | Mbcyberworks | [Read More](https://medium.com/p/8e14eb2a2241) |
+| Wed, 19 Nov 2025 13:45:49 GMT | Lposed module not working on android 16 | Jonsnow | [Read More](https://medium.com/p/9e06c1a53c1e) |
 | Wed, 19 Nov 2025 13:32:03 GMT | Detecting Web Shells Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/38a7beaea0f2) |
 | Wed, 19 Nov 2025 13:29:44 GMT | Mastering Vulnerability Scanning: A Deep Dive into vuln-checker 0.5.5 | Skm248 | [Read More](https://medium.com/p/f148acb65a23) |
 | Wed, 19 Nov 2025 13:24:59 GMT | A Day in the Life of a Cyber Security Analyst | 464-Eshan | [Read More](https://medium.com/p/5283e4214e64) |
@@ -27,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 13:02:17 GMT | Building a Cyber Security Portfolio — Networking Step 2: Conferences | Randy Puffin | [Read More](https://medium.com/p/69c4a02408be) |
 | Wed, 19 Nov 2025 12:56:35 GMT | eJPT v2 : Challenge Lab 26: Cheese | Dhanushkumar R | [Read More](https://medium.com/p/7dd39a0e722d) |
 | Wed, 19 Nov 2025 12:53:50 GMT | The Day the Internet Died (For a Few Hours): Cloudflare Outage Explained | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/0b876451d1ef) |
+| Wed, 19 Nov 2025 12:51:52 GMT | The Unseen Engine: How the Linux Kernel Powers Our World | IR0-k_oo1 | [Read More](https://medium.com/p/29ffcf4cd16b) |
 | Wed, 19 Nov 2025 12:48:46 GMT | How ZeroThreat Detects Real Vulnerabilities in Minutes: A Deep Dive Into AI-Driven Security | Kate Bennett | [Read More](https://medium.com/p/1e0dc3a433b0) |
 | Wed, 19 Nov 2025 12:45:35 GMT | Top HR Challenges in 2025 and How ServiceNow HRSD Solves Them | Alex s | [Read More](https://medium.com/p/66ceae5aa836) |
 | Wed, 19 Nov 2025 12:42:23 GMT | Detecting Web Attacks Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/fb3c24d5702f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 09:08:08 GMT | Simple Guide to Secure Boot for Linux | Manish Kumar | [Read More](https://medium.com/p/846b57fcfa17) |
 | Wed, 19 Nov 2025 09:07:00 GMT | Multi-Layer Threat Detection: Why One Tool Isn’t Enough | Balaji | [Read More](https://medium.com/p/3557cf60f621) |
 | Wed, 19 Nov 2025 09:05:10 GMT | The 5 Essential Nmap Scans Every Beginner MUST Know | Riki Satya | [Read More](https://medium.com/p/d94e8dd657c5) |
-| Wed, 19 Nov 2025 09:03:05 GMT | Third-Party Exposure: Use LeakRadar to See Which Vendors Already Have Leaked Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/afb10cb11d27) |
-| Wed, 19 Nov 2025 09:00:16 GMT | The LinkedIn Post That Changed My Cybersecurity Mindset And Why It Matters Today | Lakshita Gulliya | [Read More](https://medium.com/p/91115bff6244) |
-| Wed, 19 Nov 2025 08:59:23 GMT | Application Security Code Analysis (SAST/DAST) | Esra Kayhan | [Read More](https://medium.com/p/8ea737288298) |
-| Wed, 19 Nov 2025 08:54:13 GMT | Advanced Alert Enrichment in the SOC: Turning Analyst Time into Gold | Esra Kayhan | [Read More](https://medium.com/p/a8c7d4a88315) |
-| Wed, 19 Nov 2025 08:53:51 GMT | VAPT in 2025: The Cybersecurity Reality Check Every Company Needs | Devarshi Acharya | [Read More](https://medium.com/p/f2bd844576a9) |
-| Wed, 19 Nov 2025 08:49:01 GMT | Task Hijacking (StrandHogg) — Part 1: Understanding The Fundamentals | Redfox Security | [Read More](https://medium.com/p/89792424fef5) |
-| Wed, 19 Nov 2025 08:33:32 GMT | If AI has influenced any of your important decisions lately, you need to read this right now | Seungchul Jeff Ha | [Read More](https://medium.com/p/3eca174e1212) |
-| Wed, 19 Nov 2025 08:32:12 GMT | FortiWeb Under Fire: What the New CVE-2025–58034 Vulnerability Really Means for Defenders | Germano Costi | [Read More](https://medium.com/p/658a87c00d96) |
-| Wed, 19 Nov 2025 08:26:05 GMT | SQL injection — Portswigger LAB 1 -SQL injection vulnerability in WHERE clause allowing retrieval… | Emir Gkta | [Read More](https://medium.com/p/f734c234215d) |
-| Wed, 19 Nov 2025 08:18:10 GMT | Qilin Ransomware: Real Attacks, Behavioral Patterns & How SOC Teams Can Spot It Early | Motasem Hamdan | [Read More](https://medium.com/p/912bc9f05b41) |
-| Wed, 19 Nov 2025 08:15:12 GMT | What Is Pretexting in Cyber Security? Why This Attack Still Works | Beetles IO | [Read More](https://medium.com/p/549a829e2f9f) |
-| Wed, 19 Nov 2025 08:06:01 GMT | Wazuh Part 2 — Kurulum, Dashboard İncelemesi ve İlk Agent Bağlantısı | İremDamar | [Read More](https://medium.com/p/2434b9dc537d) |
-| Wed, 19 Nov 2025 08:04:48 GMT | What 1,500 minutes of Mentoring This Year taught me about the future of engineering | Johnsonoaseru | [Read More](https://medium.com/p/1b3c35d2586d) |
