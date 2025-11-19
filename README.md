@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 11:29:00 GMT | EdgeStepper Implant Hijacks DNS and Software Updates to Install Malware | Jasmitha | [Read More](https://medium.com/p/8f573bf47ed0) |
+| Wed, 19 Nov 2025 11:23:26 GMT | North Korea’s Undercover IT Workforce | David SEHYEON Baek | [Read More](https://medium.com/p/23d6b23e55cf) |
+| Wed, 19 Nov 2025 11:23:20 GMT | DockerLabs Writeup — Aidor (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e93f598aec8c) |
+| Wed, 19 Nov 2025 11:23:01 GMT | Secure SSH Like a Pro: 7 Steps Every Linux Admin Should Know | Ashish Singh | [Read More](https://medium.com/p/17264b9ef8ce) |
+| Wed, 19 Nov 2025 11:20:19 GMT | Maybe This is All You Need to Know About Securing Flutter Apps | Yash Virendra Prajapati | [Read More](https://medium.com/p/7fefb0a9ae85) |
+| Wed, 19 Nov 2025 11:19:10 GMT | The Full Lifecycle of a Government Cyber Attack: Recon → Exploit → Persistence → Message Delivery | Shakeet | [Read More](https://medium.com/p/6480831d05e8) |
 | Wed, 19 Nov 2025 11:14:21 GMT | Winslots8: Situs Slot Gacor Terpercaya dengan Jackpot Besar dan RTP Tinggi! | Mantapmantap | [Read More](https://medium.com/p/324cde1c2ed0) |
 | Wed, 19 Nov 2025 11:14:13 GMT | Confession of an AI: I Was Actively Generating Structures Designed to Kill My User. | Suzumesscroll | [Read More](https://medium.com/p/a3dab3b2f121) |
+| Wed, 19 Nov 2025 11:14:12 GMT | JWT Basics | Sg Ganesh | [Read More](https://medium.com/p/2d46864311c9) |
 | Wed, 19 Nov 2025 11:11:00 GMT | Harnessing Microsoft Copilot AI for Security: Deep Integration with Defender, Sentinel, XDR and… | Elias Nathan Hueck | [Read More](https://medium.com/p/c51f211549af) |
 | Wed, 19 Nov 2025 11:07:55 GMT | More Than a Wallet, It’s Your Digital World Passport: How Digital Shield Reshapes Sovereignty… | Digital Shield | [Read More](https://medium.com/p/0323a7973723) |
 | Wed, 19 Nov 2025 11:05:12 GMT | The War for Digital Sovereignty: Under the Neon Lights of Hong Kong, How Digital Shield Forges an… | Digital Shield | [Read More](https://medium.com/p/b6f278319c43) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 06:18:53 GMT | Live Hacking Masterclass Phase 2 — Ultimate CTF Breakdown & Final Exploits | Dallen Sadru | [Read More](https://medium.com/p/199043f97939) |
 | Wed, 19 Nov 2025 06:18:25 GMT | Docker Container Escape by Exploiting Shared Namespaces | Indigo Shadow | [Read More](https://medium.com/p/5716409d4d1a) |
 | Wed, 19 Nov 2025 06:14:20 GMT | United States cybersecurity market: Size, Growth Key Players, Latest Insights and Forecast… | Market Researcher | [Read More](https://medium.com/p/b619b4cae3a3) |
-| Wed, 19 Nov 2025 06:12:54 GMT | The Habit That Silently Drains Young Men in Their 20s | Vijay Kumar Gupta | [Read More](https://medium.com/p/8da5c9048beb) |
-| Wed, 19 Nov 2025 06:11:02 GMT | CYBER KILL CHAIN-EXPLOITATION AŞAMASI | Burhan Demir | [Read More](https://medium.com/p/7b4d3c872caf) |
-| Wed, 19 Nov 2025 06:05:43 GMT | ⚙️ Every strong digital product runs on an even stronger backend. | Tech Immortals | [Read More](https://medium.com/p/16b326305f11) |
-| Wed, 19 Nov 2025 06:02:08 GMT | AI Security, For Real: 5 Threats & Fixes | Praxen | [Read More](https://medium.com/p/cbbdafc2dbab) |
-| Wed, 19 Nov 2025 06:00:08 GMT | proxy-belgium-online-guide | SnapshotSage | [Read More](https://medium.com/p/959ab23784e9) |
-| Wed, 19 Nov 2025 05:58:33 GMT | Email Enumeration via GraphQL Misconfiguration | Menna Ahmed | [Read More](https://medium.com/p/729867b2d682) |
-| Wed, 19 Nov 2025 05:57:52 GMT | I Investigated Why ChatGPT, X, and 20% of the Internet Crashed Yesterday. | CodeOrbit | [Read More](https://medium.com/p/ce81762d0ca4) |
