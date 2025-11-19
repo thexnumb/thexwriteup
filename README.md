@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 19:15:59 GMT | Security and Performance Aspects of TCP/IP Stack Tuning | Linux Guide | [Read More](https://medium.com/p/e2f38a8cf2a4) |
+| Wed, 19 Nov 2025 19:10:15 GMT | “I Already Have a Token — Why Do I Need Another One?” | Apoorva Dixit | [Read More](https://medium.com/p/84d0a461e28b) |
+| Wed, 19 Nov 2025 19:07:29 GMT | The Header No One Was Watching: A Quiet IDOR in a Financial System | sin99xx | [Read More](https://medium.com/p/0fcba65e2ace) |
+| Wed, 19 Nov 2025 18:59:52 GMT | Reverse Engineer | Ayoub BenChetioui | [Read More](https://medium.com/p/682dd8a4ec12) |
+| Wed, 19 Nov 2025 18:52:22 GMT | Why a Fake Invoice Can Ruin Your Business — and How to Prevent It | Cordula Boeck | [Read More](https://medium.com/p/33ce94a76f37) |
+| Wed, 19 Nov 2025 18:51:13 GMT | RCE via a malicious SVG in mPDF | brun0ne | [Read More](https://medium.com/p/216e613b250b) |
+| Wed, 19 Nov 2025 18:50:37 GMT | How I Turned a Dark Web Sketch into a $ Bug Bounty Payday ️‍♂️ | Iski | [Read More](https://medium.com/p/fafc5a1176ef) |
+| Wed, 19 Nov 2025 18:45:29 GMT | Trust Issues: How I Hijacked Financial Data with a Single Header | Sinxx | [Read More](https://medium.com/p/29e3b94d6ca0) |
+| Wed, 19 Nov 2025 18:36:55 GMT | Buffer Overflows, Part 1: | Poojan Ghetiya | [Read More](https://medium.com/p/44b3255b489f) |
+| Wed, 19 Nov 2025 18:35:48 GMT | Cloudflare Outage 2025 | Yaswanth M | [Read More](https://medium.com/p/c53242bd0b36) |
+| Wed, 19 Nov 2025 18:34:58 GMT | The Ultimate Guide to Security Workforce Management Software Features | Teona | [Read More](https://medium.com/p/1f6166123515) |
+| Wed, 19 Nov 2025 18:33:12 GMT | OWASP Top 10: 2025 — Web Application Vulnerabilities (PART 2) | 0xBinaryOrbit aka Faisal Khan | [Read More](https://medium.com/p/31a2188c8833) |
 | Wed, 19 Nov 2025 18:31:21 GMT | Happy Men’s Day to the Men Who Break Before They Bend | Gursahib Singh | [Read More](https://medium.com/p/3e16c8cf8237) |
 | Wed, 19 Nov 2025 18:24:18 GMT | Introduction to ShieldLabs: Real-Time Risk Scoring for Modern Web Traffic | ShieldLabs | [Read More](https://medium.com/p/af694afcf4c9) |
 | Wed, 19 Nov 2025 18:23:05 GMT | Cyber Kill Chain 1.1 : Pasif Bilgi Toplama (OSINT) Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/b5d58d7a8378) |
@@ -35,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 17:27:47 GMT | Still Talking About The Security Situation In Nigeria | Emmanuel Amoo | [Read More](https://medium.com/p/9c49f2611e37) |
 | Wed, 19 Nov 2025 17:21:37 GMT | The job offer:
 Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](https://medium.com/p/e41a8a78ed00) |
+| Wed, 19 Nov 2025 17:17:26 GMT | TryHackMe - Django: CVE-2025-64459 - WriteUp | Axoloth | [Read More](https://medium.com/p/b93885f1cf23) |
 | Wed, 19 Nov 2025 17:16:29 GMT | VulnHub DC-3 Walkthrough: Exploiting Joomla CMS | Kalash Kundaliya | [Read More](https://medium.com/p/f9b7ddce5150) |
 | Wed, 19 Nov 2025 17:12:32 GMT | The Quiet Breach: A Reminder That Hackers Are Not Your Biggest Problem | Travis Ray Caverhill | [Read More](https://medium.com/p/01dab4dc8d14) |
 | Wed, 19 Nov 2025 17:11:55 GMT | TryHackMe - WAF: Introduction - WriteUp | Axoloth | [Read More](https://medium.com/p/ba16ff7cf3d4) |
@@ -100,16 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 14:33:36 GMT | Pickle Rick THM | Nate Harris | [Read More](https://medium.com/p/57c17054cb68) |
 | Wed, 19 Nov 2025 14:31:02 GMT | 5 Everyday Tools Criminals Use to Launder Millions | FinCrimeXpert | [Read More](https://medium.com/p/daa97f1b3cf8) |
 | Wed, 19 Nov 2025 14:28:00 GMT | Digital Identity, Real World Impact: The Industrial Upside of the European Business Wallet (EUBW) | Carsten Stöcker | [Read More](https://medium.com/p/d9e0c4e96aae) |
-| Wed, 19 Nov 2025 14:25:07 GMT | How to Find Authorization Bypass Bugs (Easy Guide for Beginners) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/0be6abdf3e90) |
-| Wed, 19 Nov 2025 14:24:27 GMT | The OSI Model : What The Internet Does In 0.001 Seconds | Vorgex | [Read More](https://medium.com/p/68602b2f3ec5) |
-| Wed, 19 Nov 2025 14:21:58 GMT | Simple CTF — TryHackMe Writeup | Pradithareddy | [Read More](https://medium.com/p/762abd003975) |
-| Wed, 19 Nov 2025 14:19:17 GMT | The New Era of C-Store Operations: Why AI Is Becoming the Most Important Tool in Retail Convenience | Tec-Tel Communications | [Read More](https://medium.com/p/2a76cb6a2508) |
-| Wed, 19 Nov 2025 14:16:21 GMT | “The Safety Gap: How AI Is Quietly Rewriting the Future of Manufacturing” | Tec-Tel Communications | [Read More](https://medium.com/p/f35f514c76ea) |
-| Wed, 19 Nov 2025 14:16:08 GMT | If Elon Musk applied today, would he get hired? | Hachtechnology | [Read More](https://medium.com/p/cbea808c7fb0) |
-| Wed, 19 Nov 2025 14:11:08 GMT | The Autonomous Researcher: How I Engineered Guaranteed 1,000×–10,000× Breakthroughs On Demand | Berend Watchus | [Read More](https://medium.com/p/7c530854166c) |
-| Wed, 19 Nov 2025 14:09:24 GMT | Call for Papers for “VulnCon 2026” Open Until December 22, 2025 | CVE Program Blog | [Read More](https://medium.com/p/7498e097b454) |
-| Wed, 19 Nov 2025 14:08:06 GMT | Security Headers affect your SEO | ari nakos | [Read More](https://medium.com/p/077a4f6b44be) |
-| Wed, 19 Nov 2025 14:05:55 GMT | The 7 Biggest Cybersecurity Trends of 2026 That Everyone Must Be Prepared For | Tradister-Managed IT Services | [Read More](https://medium.com/p/2d67263d2d9d) |
-| Wed, 19 Nov 2025 14:03:25 GMT | When Africa’s Internet Goes Dark, the Problem Isn’t Where You Think It Is | Hector Dotse Jr. | [Read More](https://medium.com/p/c2c9f7b5aea5) |
-| Wed, 19 Nov 2025 14:02:23 GMT | Zero Trust, Infinite Security: Rethinking Cyber Defense for SMBs | SignalAge | [Read More](https://medium.com/p/03efde91fde0) |
-| Wed, 19 Nov 2025 13:58:07 GMT | How To Uncover A Major Security Risk With One Line | Ibtissam | [Read More](https://medium.com/p/136708cfd70c) |
