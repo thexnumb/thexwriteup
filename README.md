@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 04:25:25 GMT | Understanding Cryptojacking — How Hackers Steal Your Computing Power | Kerala Blockchain Academy | [Read More](https://medium.com/p/846c1a6ca750) |
+| Wed, 19 Nov 2025 04:17:46 GMT | วิธีติดตั้ง OpenVAS (GVM) บน Kali Linux แบบง่าย เร็ว และใช้งานได้จริง | ArtF412 | [Read More](https://medium.com/p/78cd3c80c44a) |
+| Wed, 19 Nov 2025 04:17:39 GMT | Samsung Galaxy S25 & all S Series November 2025 critical fix: install now | DevaDas Writer | [Read More](https://medium.com/p/29fedcb67a2e) |
+| Wed, 19 Nov 2025 04:15:44 GMT | When the Keys Go Missing: Inside the Modern Crypto Heist — a TZNXG Field Note | TZNXG | [Read More](https://medium.com/p/4919ff922e20) |
+| Wed, 19 Nov 2025 04:13:52 GMT | Carbanak Malware Analysis — by MalwareDoctor | MalwareDoctor | [Read More](https://medium.com/p/77cb2ddf59cc) |
+| Wed, 19 Nov 2025 04:13:27 GMT | Hidden in Plain Sight: Understanding Steganography in the Digital Age | Geeky Vartika | [Read More](https://medium.com/p/1242abc853bb) |
+| Wed, 19 Nov 2025 04:00:25 GMT | HireMe Lab (Cyberdefenders) | FeCeSociety | [Read More](https://medium.com/p/b955e367fcb3) |
+| Wed, 19 Nov 2025 03:57:18 GMT | Claude Just Leaked My .env File — Here’s How to Stay Safe in Laravel (2025) | Sadique Ali | [Read More](https://medium.com/p/1aad7472464d) |
+| Wed, 19 Nov 2025 03:56:24 GMT | The strategic and geographical importance og Taiwan in regional security | Steven | [Read More](https://medium.com/p/f84023261583) |
 | Wed, 19 Nov 2025 03:49:19 GMT | What Is a Sybil Attack? | Pasan Madhuranga | [Read More](https://medium.com/p/ab7b06d4facd) |
 | Wed, 19 Nov 2025 03:46:45 GMT | :   (Easy) | Karthikparambil | [Read More](https://medium.com/p/c80802be1e4f) |
 | Wed, 19 Nov 2025 03:38:32 GMT | I Finally Understood XSS and SQL Injection After Seeing This Demo | CodeByUmar | [Read More](https://medium.com/p/77bbd292d86b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 18:37:12 GMT | I Tracked My Own Digital Footprint for 24 Hours | Hareem Fatima | [Read More](https://medium.com/p/f7f334455940) |
 | Tue, 18 Nov 2025 18:33:04 GMT | My experience with certification CRTP + Bootcamp | X0Anubis | [Read More](https://medium.com/p/6f1cd095dd9d) |
 | Tue, 18 Nov 2025 18:16:05 GMT | Cisco Alerts Users to New Firewall Attack Exploiting CVE 2025 20333 and CVE 2025 20362 | SCtoCS | [Read More](https://medium.com/p/2d6a70690bd3) |
-| Tue, 18 Nov 2025 18:15:38 GMT | The Cloudflare Crash That Exposed My Biggest Digital Fear | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/bfcbae9fd315) |
-| Tue, 18 Nov 2025 18:12:40 GMT | Dork Labs Awarded AWS Activate Startup Grant | DorkFi | [Read More](https://medium.com/p/96f7e7ded890) |
-| Tue, 18 Nov 2025 18:04:55 GMT | How Explainable AI Is Reshaping the Modern SOC | Graylog | [Read More](https://medium.com/p/c15ab84406c8) |
-| Tue, 18 Nov 2025 18:03:53 GMT | The Quiet Threat of AI Tools: What We Should Really Be Talking About | Saurabh R Pande | [Read More](https://medium.com/p/318118198df2) |
-| Tue, 18 Nov 2025 18:02:29 GMT | Copy, Paste and Get Robbed — The danger of Vanity address | Régis | [Read More](https://medium.com/p/d1c90f86e6fc) |
-| Tue, 18 Nov 2025 18:00:53 GMT | Fear and Shame Are Weaknesses You’re Not Supposed to Show | Nico Cost | [Read More](https://medium.com/p/ad8db9b3a4d6) |
-| Tue, 18 Nov 2025 18:00:12 GMT | Axiom A2 – Das Axiom des Strukturwachstums | Gabriel James Kingsworth | [Read More](https://medium.com/p/9b362c655445) |
-| Tue, 18 Nov 2025 17:58:57 GMT | Good Luck Countering AI attacks with Batch Jobs | Gilles Philippart | [Read More](https://medium.com/p/2df625212937) |
-| Tue, 18 Nov 2025 17:58:17 GMT | CAPenX Exam Review: Is It Really That Difficult? | Abhishek Gupta | [Read More](https://medium.com/p/530d65f61bcf) |
