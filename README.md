@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 20:21:34 GMT | BloodHound & PlumHound on Kali Linux 2025: The Guide I Wish Existed Before I Lost 2 Hours Fighting… | Mbcyberworks | [Read More](https://medium.com/p/397e43035fa7) |
 | Wed, 19 Nov 2025 20:19:28 GMT | ISO 27005 in SaaS Integrations: Making Smart Choices, Not Just Rushing into Things | RMaria | [Read More](https://medium.com/p/f5e703638e9f) |
 | Wed, 19 Nov 2025 20:11:05 GMT | The Princeton University Data Breach: What Happened? | IT_Engineer | [Read More](https://medium.com/p/6330c271ad4a) |
 | Wed, 19 Nov 2025 20:10:39 GMT | TCM Security’s PMAT Challenge: SillyPutty | Sagar Joshi | [Read More](https://medium.com/p/68509e77b4e1) |
@@ -112,4 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 15:19:32 GMT | Strategy Pattern 2.0:How Modern Java(21–25) makes the Strategy Pattern Actually Fun to Write | Jitin Kayyala | [Read More](https://medium.com/p/43cd6012ccce) |
 | Wed, 19 Nov 2025 15:06:26 GMT | Resupply Exploit Post-Mortem: How $9.56M Was Stolen in 90 Minutes | Olympix | [Read More](https://medium.com/p/75eced577077) |
 | Wed, 19 Nov 2025 15:06:08 GMT | The Ultimate Ransomware Defense: Test Your Backups! | Max Farnga | [Read More](https://medium.com/p/7735654d6077) |
-| Wed, 19 Nov 2025 15:05:02 GMT | When the Internet Went Dark & the ‘Silicon’ in Silicon Valley: Resilience as a Commodity in a… | Shani Zanescu | [Read More](https://medium.com/p/c966e03743c2) |
