@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 23:19:24 GMT | How Hackers Weaponize Tone, Timing, And Confidence | Rendur M. Saunter | [Read More](https://medium.com/p/01a9c62bb043) |
+| Wed, 19 Nov 2025 23:14:51 GMT | TryHackMe Writeup: Dogcat | Berkay AĞGÜL | [Read More](https://medium.com/p/3476777dd860) |
+| Wed, 19 Nov 2025 23:11:53 GMT | AI Agents Are Breaking APIs — Here’s How Rate Limiting Must Evolve | Cyber-AppSec | [Read More](https://medium.com/p/22a4d4e0bdf7) |
+| Wed, 19 Nov 2025 23:01:32 GMT | Backing Bedrock’s Series A: The New Standard for Enterprise Data Security and Governance | Mangusta Capital | [Read More](https://medium.com/p/93a122fc5242) |
+| Wed, 19 Nov 2025 22:58:04 GMT | Passwords Remain Ridiculously Insecure | Matthew.Rosenquist | [Read More](https://medium.com/p/67dc960d9e1b) |
+| Wed, 19 Nov 2025 22:51:19 GMT | The One Bug That Broke the Internet: A Deep Dive Into Cloudflare’s Global Failure | Kaif Azmi | [Read More](https://medium.com/p/58c7cfcd2ede) |
+| Wed, 19 Nov 2025 22:47:00 GMT | InfoSec Cybersecurity BlackFriday CyberMonday Deals 2025 | Rectifyq | [Read More](https://medium.com/p/646d577912b0) |
 | Wed, 19 Nov 2025 22:25:18 GMT | Hello Cyber-NeuroSecurity. | Erdem Keles | [Read More](https://medium.com/p/c610df22a228) |
 | Wed, 19 Nov 2025 21:54:58 GMT | 1Password vs LastPass (2025): The Truth Most People Only Realize After a Security Scare | LeadAdvisors | [Read More](https://medium.com/p/a0649ec0ed3a) |
 | Wed, 19 Nov 2025 21:48:09 GMT | Race condition results in abusing a feature which requires subscription | Mehran | [Read More](https://medium.com/p/9b322ad31085) |
@@ -106,10 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 16:37:42 GMT | The State Of Europe | Vox Vento | [Read More](https://medium.com/p/689bc1086f85) |
 | Wed, 19 Nov 2025 16:34:24 GMT | SSH with 2FA — An Extra Layer of Security for Linux Servers | Dominik Tracz | [Read More](https://medium.com/p/bd2e25e272a3) |
 | Wed, 19 Nov 2025 16:34:23 GMT | CSS is Spyware: How I Can Track Your Behavior Without JavaScript | Manavkaushal | [Read More](https://medium.com/p/4a43ae022787) |
-| Wed, 19 Nov 2025 16:33:44 GMT | Big Data : Data Visualization using Matplotlib and Seaborn | Yasa Wijaya | [Read More](https://medium.com/p/ffb618b75bed) |
-| Wed, 19 Nov 2025 16:32:24 GMT | Cryptocurrency — A History Of Failures | VTECH | [Read More](https://medium.com/p/a5ae08399fd2) |
-| Wed, 19 Nov 2025 16:32:24 GMT | Secrets in MCP (Model Context Protocol) Servers | Vikrant Karvir | [Read More](https://medium.com/p/b6ada09f70b5) |
-| Wed, 19 Nov 2025 16:32:24 GMT | Part 6 ~ Azure NSGs in Action: From Theory to Real-World Security | Shubham Barman | [Read More](https://medium.com/p/7e53fde6e59e) |
-| Wed, 19 Nov 2025 16:23:05 GMT | Dark Web Algorithms for Beginners: An Educational & Technical Guide | Gopi Sri | [Read More](https://medium.com/p/6b97744c1612) |
-| Wed, 19 Nov 2025 16:13:02 GMT | DataCove Phishing Detection API: The Segment-Aware Revolution in URL Security | Vivek | [Read More](https://medium.com/p/8ac83fe892b0) |
-| Wed, 19 Nov 2025 16:04:35 GMT | ChatGPT Down: What Does “Please Unblock Challenges.Cloudflare.com to Proceed” Mean? | satyaranjan bal | [Read More](https://medium.com/p/6f8baaaa62e0) |
