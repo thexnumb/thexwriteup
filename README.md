@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 10:15:52 GMT | Tailgating in Cybersecurity: What You Need to Know | Beetles IO | [Read More](https://medium.com/p/26cc932ad55b) |
+| Wed, 19 Nov 2025 10:14:34 GMT | Samsung A Series: Big Screen Fun Without Big Price | Pimrada Thavorn | [Read More](https://medium.com/p/e5029715e408) |
+| Wed, 19 Nov 2025 10:09:57 GMT | Find Comfort in ERRORS: Crypto | lukewago | [Read More](https://medium.com/p/e3dde27c6095) |
+| Wed, 19 Nov 2025 10:06:02 GMT | The Investment/Ponzi Scheme (Too Good To Be True) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/96a35c8d7eec) |
+| Wed, 19 Nov 2025 10:04:31 GMT | Strengthening Business Security Through Cyber Risk Management | Vishwajeettechtech | [Read More](https://medium.com/p/555e20306977) |
+| Wed, 19 Nov 2025 10:03:39 GMT | Next-Gen File Security: Ransomware-Proof File Management Systems | Salesinnovativa | [Read More](https://medium.com/p/1babb14b45c5) |
+| Wed, 19 Nov 2025 10:03:17 GMT | Top 10 Industries Hiring Ethical Hackers in 2026 | cyber security Updates | [Read More](https://medium.com/p/42e46123434f) |
+| Wed, 19 Nov 2025 10:00:55 GMT | Ethical Hacking Course with Labs and Hands-On Practice | Manisha Chaudhary | [Read More](https://medium.com/p/ce808719962d) |
+| Wed, 19 Nov 2025 09:56:50 GMT | Beyond the Zero-Sum Game: Rethinking Privacy and Protection in the Digital Age | Eaabid | [Read More](https://medium.com/p/7e19cd8ab407) |
+| Wed, 19 Nov 2025 09:54:40 GMT | Guardians or Gatekeepers? The Ethics Behind Cybersecurity Decisions | Nodimasuraaktar | [Read More](https://medium.com/p/06b3c923e88c) |
+| Wed, 19 Nov 2025 09:54:10 GMT | TryHackMe: AI/ML Security Threats (Short) | Pavneet_Singh_ | [Read More](https://medium.com/p/9ce390101c52) |
+| Wed, 19 Nov 2025 09:53:02 GMT | Penetration Testing vs Ethical Hacking: Key Differences Explained (2026 Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/04dcd28eaf9b) |
+| Wed, 19 Nov 2025 09:49:07 GMT | Key Benefits of Implementing Infor SyteLine ERP — Fidel Softech | Linda Garcia | [Read More](https://medium.com/p/12be8cd758ae) |
+| Wed, 19 Nov 2025 09:47:26 GMT | Best Speech Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/052085a10244) |
+| Wed, 19 Nov 2025 09:33:16 GMT | Game On: Can the Samsung A Series Handle Mobile Gaming? | Isabella Brown | [Read More](https://medium.com/p/b1eee8087bb3) |
 | Wed, 19 Nov 2025 09:26:50 GMT | The Unlikely Truth About Online Scams: Why Rudeness, Shame, and Prototypes Matter More Than Tech | ObserIQ Insights | [Read More](https://medium.com/p/050cb797d6a8) |
 | Wed, 19 Nov 2025 09:23:20 GMT | ️ Beyond the Gate: Why Investing in the Best Security Guard Service in Trivandrum is… | Sambhu Sunil | [Read More](https://medium.com/p/b5654c726d70) |
 | Wed, 19 Nov 2025 09:20:37 GMT | Lessons from Major Breaches: The Role of an Effective Cyber Crisis Plan | Himanshu Sharma | [Read More](https://medium.com/p/3574020c2869) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 04:32:07 GMT | 10 Security-Header Recipes That Don’t Slow Your Site | Hash Block | [Read More](https://medium.com/p/06ecee5a8b00) |
 | Wed, 19 Nov 2025 04:25:25 GMT | Understanding Cryptojacking — How Hackers Steal Your Computing Power | Kerala Blockchain Academy | [Read More](https://medium.com/p/846c1a6ca750) |
 | Wed, 19 Nov 2025 04:24:46 GMT | Hello, | Seth J | [Read More](https://medium.com/p/71afc8ff8886) |
-| Wed, 19 Nov 2025 04:22:31 GMT | THE DAY THE INTERNET TOOK A BREAK: | 0X595 | [Read More](https://medium.com/p/516c874db804) |
-| Wed, 19 Nov 2025 04:22:26 GMT | How ZetoZone Became Idukki’s Most Reliable Tech Lifeline | Elza | [Read More](https://medium.com/p/5a3c50210731) |
-| Wed, 19 Nov 2025 04:17:46 GMT | วิธีติดตั้ง OpenVAS (GVM) บน Kali Linux แบบง่าย เร็ว และใช้งานได้จริง | ArtF412 | [Read More](https://medium.com/p/78cd3c80c44a) |
-| Wed, 19 Nov 2025 04:17:39 GMT | Samsung Galaxy S25 & all S Series November 2025 critical fix: install now | DevaDas Writer | [Read More](https://medium.com/p/29fedcb67a2e) |
-| Wed, 19 Nov 2025 04:15:44 GMT | When the Keys Go Missing: Inside the Modern Crypto Heist — a TZNXG Field Note | TZNXG | [Read More](https://medium.com/p/4919ff922e20) |
-| Wed, 19 Nov 2025 04:13:52 GMT | Carbanak Malware Analysis — by MalwareDoctor | MalwareDoctor | [Read More](https://medium.com/p/77cb2ddf59cc) |
-| Wed, 19 Nov 2025 04:13:27 GMT | Hidden in Plain Sight: Understanding Steganography in the Digital Age | Geeky Vartika | [Read More](https://medium.com/p/1242abc853bb) |
-| Wed, 19 Nov 2025 04:00:25 GMT | HireMe Lab (Cyberdefenders) | FeCeSociety | [Read More](https://medium.com/p/b955e367fcb3) |
-| Wed, 19 Nov 2025 03:57:18 GMT | Claude Just Leaked My .env File — Here’s How to Stay Safe in Laravel (2025) | Sadique Ali | [Read More](https://medium.com/p/1aad7472464d) |
-| Wed, 19 Nov 2025 03:56:24 GMT | The strategic and geographical importance og Taiwan in regional security | Steven | [Read More](https://medium.com/p/f84023261583) |
-| Wed, 19 Nov 2025 03:49:19 GMT | What Is a Sybil Attack? | Pasan Madhuranga | [Read More](https://medium.com/p/ab7b06d4facd) |
-| Wed, 19 Nov 2025 03:46:45 GMT | :   (Easy) | Karthikparambil | [Read More](https://medium.com/p/c80802be1e4f) |
-| Wed, 19 Nov 2025 03:38:32 GMT | I Finally Understood XSS and SQL Injection After Seeing This Demo | CodeByUmar | [Read More](https://medium.com/p/77bbd292d86b) |
-| Wed, 19 Nov 2025 03:28:05 GMT | Cloudflare Is A Man-in-the-Middle (And So Is Your ‘Protection’) | Rockefeller Kennedy | [Read More](https://medium.com/p/4a7a28635791) |
-| Wed, 19 Nov 2025 03:25:59 GMT | How to Build a Data Framework That Powers AI Adoption: 6 Steps | Maruti Techlabs | [Read More](https://medium.com/p/a91c0d70c019) |
