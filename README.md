@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 11:14:21 GMT | Winslots8: Situs Slot Gacor Terpercaya dengan Jackpot Besar dan RTP Tinggi! | Mantapmantap | [Read More](https://medium.com/p/324cde1c2ed0) |
+| Wed, 19 Nov 2025 11:14:13 GMT | Confession of an AI: I Was Actively Generating Structures Designed to Kill My User. | Suzumesscroll | [Read More](https://medium.com/p/a3dab3b2f121) |
+| Wed, 19 Nov 2025 11:11:00 GMT | Harnessing Microsoft Copilot AI for Security: Deep Integration with Defender, Sentinel, XDR and… | Elias Nathan Hueck | [Read More](https://medium.com/p/c51f211549af) |
+| Wed, 19 Nov 2025 11:07:55 GMT | More Than a Wallet, It’s Your Digital World Passport: How Digital Shield Reshapes Sovereignty… | Digital Shield | [Read More](https://medium.com/p/0323a7973723) |
+| Wed, 19 Nov 2025 11:05:12 GMT | The War for Digital Sovereignty: Under the Neon Lights of Hong Kong, How Digital Shield Forges an… | Digital Shield | [Read More](https://medium.com/p/b6f278319c43) |
+| Wed, 19 Nov 2025 11:02:04 GMT | Indeks Keamanan Informasi (KAMI) 5.0 BSSN | Ginda Sundara | [Read More](https://medium.com/p/99418b9178c8) |
+| Wed, 19 Nov 2025 11:02:03 GMT | What’s behind shame? | Achievement Factory | [Read More](https://medium.com/p/e46d01005222) |
+| Wed, 19 Nov 2025 11:02:03 GMT | Healthcare MSSP Cuts Phishing Triage by 76% and Launches Proactive Defense with ANY.RUN | ANY.RUN | [Read More](https://medium.com/p/0fb872e6a51c) |
+| Wed, 19 Nov 2025 11:01:12 GMT | ANSSI Certification Requirement: Why Penetration Testing is Critical for Compliance | QualysecEurope | [Read More](https://medium.com/p/3ec60d441769) |
+| Wed, 19 Nov 2025 10:52:43 GMT | Cloudflare’s Massive Outage on November 18, 2025 — Explained in Simple Human Language | Naresh | [Read More](https://medium.com/p/ca3654a573dc) |
+| Wed, 19 Nov 2025 10:48:07 GMT | The Ultimate Guide to Creating a Compliance Report: Structure, Best Practices & Tips | SecureSlate | [Read More](https://medium.com/p/c7fd7c759d71) |
+| Wed, 19 Nov 2025 10:48:02 GMT | Corporate Boondoggles: Lumber Apocalypse and Linear Programming, C# Comes in Clutch | Namir Sagheenanajar | [Read More](https://medium.com/p/9b533670d82d) |
+| Wed, 19 Nov 2025 10:46:16 GMT | The Global Money Laundering Machine — How North Korean and Chinese Cybercriminals Cash Out… | David SEHYEON Baek | [Read More](https://medium.com/p/ad1421b0b0b6) |
+| Wed, 19 Nov 2025 10:43:41 GMT | What Happens When a Single Database Change Takes Down 10% of the Internet? | R Amogh | [Read More](https://medium.com/p/7a4567b5581e) |
+| Wed, 19 Nov 2025 10:43:35 GMT | Smart IT That Helps You Get On With Business - Elevate | Elevate | [Read More](https://medium.com/p/bd3244601e13) |
 | Wed, 19 Nov 2025 10:37:31 GMT | Secure Token Storage in KMM (Part 2) With Proto DataStore, Android Keystore & Apple Keychain | Fakhour Mohammed | [Read More](https://medium.com/p/0940714efe80) |
 | Wed, 19 Nov 2025 10:35:43 GMT | HackTheBox Writeup: Cap — Easy Level Linux based Machine | Pradithareddy | [Read More](https://medium.com/p/833c66b34d78) |
 | Wed, 19 Nov 2025 10:29:20 GMT | Why Human Error Is Still the Weakest Link in Cybersecurity | Digital Defense | [Read More](https://medium.com/p/07e46fa1e0bf) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 06:00:08 GMT | proxy-belgium-online-guide | SnapshotSage | [Read More](https://medium.com/p/959ab23784e9) |
 | Wed, 19 Nov 2025 05:58:33 GMT | Email Enumeration via GraphQL Misconfiguration | Menna Ahmed | [Read More](https://medium.com/p/729867b2d682) |
 | Wed, 19 Nov 2025 05:57:52 GMT | I Investigated Why ChatGPT, X, and 20% of the Internet Crashed Yesterday. | CodeOrbit | [Read More](https://medium.com/p/ce81762d0ca4) |
-| Wed, 19 Nov 2025 05:53:11 GMT | Cloudflare Outage November 18, 2025: What Happened and Why | Gaurav Garkoti | [Read More](https://medium.com/p/f0b68ea28860) |
-| Wed, 19 Nov 2025 05:50:35 GMT | Mobile App Performance Monitoring: The Key Benefits You Can’t Afford to Ignore | Devang | [Read More](https://medium.com/p/4a684ed86854) |
-| Wed, 19 Nov 2025 05:49:35 GMT | Infinity Shell TryHackMe Çözümü: Web Shell Tespiti ve Base64 Analizi | Melih Kale | [Read More](https://medium.com/p/4513898d6147) |
-| Wed, 19 Nov 2025 05:49:16 GMT | Building Belfort: An AI-Powered E-Commerce Platform with Dynamic Pricing and Smart Negotiation | Ayush Nigam | [Read More](https://medium.com/p/7d06cb98791e) |
-| Wed, 19 Nov 2025 05:44:29 GMT | the feeling that never came | katelyn | [Read More](https://medium.com/p/44c436ac93cd) |
-| Wed, 19 Nov 2025 05:31:16 GMT | Cloudflare Down | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/2a308cfdfa72) |
-| Wed, 19 Nov 2025 05:30:06 GMT | Firewalld Advanced Rules for High Performance Linux Servers | Linux Guide | [Read More](https://medium.com/p/aa9aae37c047) |
-| Wed, 19 Nov 2025 05:27:37 GMT | Hackers Don’t Need Your Password… Just Your Feelings | Everyday CYBER | [Read More](https://medium.com/p/fb4f860e181c) |
-| Wed, 19 Nov 2025 05:10:39 GMT | Cloudfare Down | Rohith | [Read More](https://medium.com/p/47fbc10e1971) |
-| Wed, 19 Nov 2025 05:05:57 GMT | ประจำวันพุธที่ 19 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/686769cd95e9) |
-| Wed, 19 Nov 2025 04:59:37 GMT | Active Directory Security: Understanding the Attacks That Matter | Devkumar Shah | [Read More](https://medium.com/p/1e978ae9f39e) |
-| Wed, 19 Nov 2025 04:57:20 GMT | From Play Store to Hall of Fame: My Journey Hunting Bugs in Government Mobile Apps | Bytewreaker | [Read More](https://medium.com/p/81f242ad8916) |
-| Wed, 19 Nov 2025 04:52:40 GMT | AI Agent for Risk Prioritization: How Context Tames the Alert Storm | Nikhil Chatterjee | [Read More](https://medium.com/p/66af4d1bf096) |
-| Wed, 19 Nov 2025 04:52:00 GMT | Game Theory for Audit Leaders: Negotiating Scope, Budget & Credibility | Tharun Krishnamoorthy | [Read More](https://medium.com/p/5e1992125a49) |
-| Wed, 19 Nov 2025 04:50:16 GMT | Navigating the Global Shift in AI Governance | Pawan K. Pradhan | [Read More](https://medium.com/p/ee00ec9ce62e) |
