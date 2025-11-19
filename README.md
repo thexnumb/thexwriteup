@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 08:33:32 GMT | If AI has influenced any of your important decisions lately, you need to read this right now | Seungchul Jeff Ha | [Read More](https://medium.com/p/3eca174e1212) |
+| Wed, 19 Nov 2025 08:32:12 GMT | FortiWeb Under Fire: What the New CVE-2025–58034 Vulnerability Really Means for Defenders | Germano Costi | [Read More](https://medium.com/p/658a87c00d96) |
 | Wed, 19 Nov 2025 08:26:05 GMT | SQL injection — Portswigger LAB 1 -SQL injection vulnerability in WHERE clause allowing retrieval… | Emir Gkta | [Read More](https://medium.com/p/f734c234215d) |
 | Wed, 19 Nov 2025 08:18:10 GMT | Qilin Ransomware: Real Attacks, Behavioral Patterns & How SOC Teams Can Spot It Early | Motasem Hamdan | [Read More](https://medium.com/p/912bc9f05b41) |
 | Wed, 19 Nov 2025 08:15:12 GMT | What Is Pretexting in Cyber Security? Why This Attack Still Works | Beetles IO | [Read More](https://medium.com/p/549a829e2f9f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 01:49:49 GMT | How to set up a local development environment for PHP 2025 | Safelyo Global | [Read More](https://medium.com/p/96ff3dab0648) |
 | Wed, 19 Nov 2025 01:46:19 GMT | The Day the Internet Felt Broken: What Really Happened During the November 2025 Cloud flare Outage… | Athishsagarkishan | [Read More](https://medium.com/p/bc5d5f7e28af) |
 | Wed, 19 Nov 2025 01:45:42 GMT | The Fool’s Path to Creativity | The Existential Ginger | [Read More](https://medium.com/p/586aea6c9ba8) |
-| Wed, 19 Nov 2025 01:39:37 GMT | China Used an AI Agent to Hack 30 Companies — and It Transforms Cybersecurity Forever | Code Pulse | [Read More](https://medium.com/p/0e8a4f2e03e6) |
-| Wed, 19 Nov 2025 01:35:12 GMT | Questions Bubbling to a Tear | Jasmine Rose | [Read More](https://medium.com/p/fd4f82f38541) |
