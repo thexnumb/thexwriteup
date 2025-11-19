@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 03:49:19 GMT | What Is a Sybil Attack? | Pasan Madhuranga | [Read More](https://medium.com/p/ab7b06d4facd) |
+| Wed, 19 Nov 2025 03:46:45 GMT | :   (Easy) | Karthikparambil | [Read More](https://medium.com/p/c80802be1e4f) |
+| Wed, 19 Nov 2025 03:38:32 GMT | I Finally Understood XSS and SQL Injection After Seeing This Demo | CodeByUmar | [Read More](https://medium.com/p/77bbd292d86b) |
+| Wed, 19 Nov 2025 03:28:05 GMT | Cloudflare Is A Man-in-the-Middle (And So Is Your ‘Protection’) | Rockefeller Kennedy | [Read More](https://medium.com/p/4a7a28635791) |
+| Wed, 19 Nov 2025 03:25:59 GMT | How to Build a Data Framework That Powers AI Adoption: 6 Steps | Maruti Techlabs | [Read More](https://medium.com/p/a91c0d70c019) |
+| Wed, 19 Nov 2025 03:24:28 GMT | Authorization for MCP: OAuth 2.1, PRMs, and Best Practices | Tahmeed Zaman | [Read More](https://medium.com/p/5a824f6b18e3) |
+| Wed, 19 Nov 2025 03:21:44 GMT | The Massive Cloudflare Outage of November 18, 2025: What Happened, Why It Broke, and What We… | Shruti yadav | [Read More](https://medium.com/p/c6daed3058f4) |
+| Wed, 19 Nov 2025 03:21:32 GMT | Sitting In My Car In Silence | Zeke | [Read More](https://medium.com/p/0db96e0f964f) |
+| Wed, 19 Nov 2025 03:20:01 GMT | File Upload UI for Non-Technical Users | Idera Dev Tools | [Read More](https://medium.com/p/a374d806d2d4) |
 | Wed, 19 Nov 2025 03:07:49 GMT | From Beginner to OSCP, LPT Master, CISSP & CISO in 5 Years — The Ultimate Cybersecurity Growth… | Monu Jangra | [Read More](https://medium.com/p/482c66ff9dea) |
 | Wed, 19 Nov 2025 02:59:02 GMT | Indonesia’s Hidden Islands Show Why Connectivity is Security | Isa Amanda Julia | [Read More](https://medium.com/p/75da5a36f63a) |
 | Wed, 19 Nov 2025 02:35:37 GMT | CVE-2025-63872: SVG-Based XSS in DeepSeek Chat V3.2 | Vinit Kundu | [Read More](https://medium.com/p/db4ebc1f1f28) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 18:00:12 GMT | Axiom A2 – Das Axiom des Strukturwachstums | Gabriel James Kingsworth | [Read More](https://medium.com/p/9b362c655445) |
 | Tue, 18 Nov 2025 17:58:57 GMT | Good Luck Countering AI attacks with Batch Jobs | Gilles Philippart | [Read More](https://medium.com/p/2df625212937) |
 | Tue, 18 Nov 2025 17:58:17 GMT | CAPenX Exam Review: Is It Really That Difficult? | Abhishek Gupta | [Read More](https://medium.com/p/530d65f61bcf) |
-| Tue, 18 Nov 2025 17:56:41 GMT | PacketMaze Lab Writeup | Jaws | [Read More](https://medium.com/p/d7ed443ac434) |
-| Tue, 18 Nov 2025 17:55:25 GMT | Axiom A1 – Das Axiom der Entstehenden Information | Gabriel James Kingsworth | [Read More](https://medium.com/p/117878fc7f04) |
-| Tue, 18 Nov 2025 17:51:56 GMT | Heart-Blood | Langley Häftling | [Read More](https://medium.com/p/d9cc26d51c16) |
-| Tue, 18 Nov 2025 17:51:16 GMT | Breaking Authentication: How I Bypassed Email Verification by Changing One Word in the Response | Madanu Akash | [Read More](https://medium.com/p/3bf37dd779c8) |
-| Tue, 18 Nov 2025 17:47:29 GMT | Deep Dive: How Dropzone AI Investigates Alerts (Example Explained) | Dean | [Read More](https://medium.com/p/e47610f00014) |
-| Tue, 18 Nov 2025 17:41:20 GMT | My Journey in Hacking, Virtual Machines, Linux, and Networking | Rishikesh M | [Read More](https://medium.com/p/ebc2d8dfe24a) |
-| Tue, 18 Nov 2025 17:38:44 GMT | The Update That Crashed the Planet: What Really Happened in the CrowdStrike Outage | Dax | [Read More](https://medium.com/p/e52db14ded10) |
-| Tue, 18 Nov 2025 17:35:51 GMT | Google Warns Billions About Fake VPN Apps Hijacking Devices and Stealing Private Data | David Miller | [Read More](https://medium.com/p/1cf02dcc3b0a) |
-| Tue, 18 Nov 2025 17:32:28 GMT | The Hyper Connected City, The Isolated Citizen: Why We’re Lonelier Than Ever We live in a world… | NEWTON | [Read More](https://medium.com/p/84d91c509cda) |
