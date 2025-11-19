@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 21:08:41 GMT | Reprendre le contrôle de ses données : Mon installation Syncthing ultime (Docker, Nginx & MikroTik) | RAPATT | [Read More](https://medium.com/p/1940806a425b) |
+| Wed, 19 Nov 2025 21:04:37 GMT | Cybersecurity Basics Everyone Gets Wrong (And How to Fix Them) | David Constance | [Read More](https://medium.com/p/0b45381c0b27) |
+| Wed, 19 Nov 2025 20:49:05 GMT | A Student’s Guide to VPNs: How They Work and When to Use Them | Md Shahata Zarab Efti | [Read More](https://medium.com/p/a253be422c37) |
+| Wed, 19 Nov 2025 20:46:07 GMT | 1.3 Billion Passwords Exposed | Lisa | [Read More](https://medium.com/p/8c55c29c8aab) |
+| Wed, 19 Nov 2025 20:43:44 GMT | Mobile Hacking Lab “Post Board” Writeup | Akshay Ravi | [Read More](https://medium.com/p/ef3772750546) |
+| Wed, 19 Nov 2025 20:42:51 GMT | ICA-1 — Full Walk-through & Mastery: Decoding Base64, Custom Recon Tool | Shikhar Sinha | [Read More](https://medium.com/p/de3d7ba41b72) |
+| Wed, 19 Nov 2025 20:42:35 GMT | Synced Passkeys in Microsoft Entra for Phishing-resistant MFA | Mechanics Team | [Read More](https://medium.com/p/ee83dd3182b4) |
+| Wed, 19 Nov 2025 20:40:46 GMT | What the Cloudflare outage reveals about cloud power & cyberspace governance | Hayat Outahar | [Read More](https://medium.com/p/8619fedf5769) |
 | Wed, 19 Nov 2025 20:21:34 GMT | BloodHound & PlumHound on Kali Linux 2025: The Guide I Wish Existed Before I Lost 2 Hours Fighting… | Mbcyberworks | [Read More](https://medium.com/p/397e43035fa7) |
 | Wed, 19 Nov 2025 20:19:28 GMT | ISO 27005 in SaaS Integrations: Making Smart Choices, Not Just Rushing into Things | RMaria | [Read More](https://medium.com/p/f5e703638e9f) |
 | Wed, 19 Nov 2025 20:11:05 GMT | The Princeton University Data Breach: What Happened? | IT_Engineer | [Read More](https://medium.com/p/6330c271ad4a) |
@@ -105,11 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 15:32:45 GMT | Why the idea of AI fighting AI in cybersecurity is a dangerous myth. | Abatis ABTU | [Read More](https://medium.com/p/11111871f5f4) |
 | Wed, 19 Nov 2025 15:31:38 GMT | ByteGlyph: An ASCII Renderer That Hijacks the Webpage Into an Art Canvas | Мартин. | [Read More](https://medium.com/p/bf4c492aad64) |
 | Wed, 19 Nov 2025 15:28:26 GMT | I optimized myself into isolation | Rachel Nadolny | [Read More](https://medium.com/p/71c2f249328a) |
-| Wed, 19 Nov 2025 15:27:52 GMT | What Ethical Hackers Actually Do (and What They Don’t Do) | Nur_nayeem | [Read More](https://medium.com/p/f61741e1e21f) |
-| Wed, 19 Nov 2025 15:25:16 GMT | ProcDBV: | Мартин. | [Read More](https://medium.com/p/355d5b35377d) |
-| Wed, 19 Nov 2025 15:22:25 GMT | An honest conversation with my son | Vandana Verma | [Read More](https://medium.com/p/838ea98d8908) |
-| Wed, 19 Nov 2025 15:22:06 GMT | Securing MCP Agents: What's Actually Different from Regular APIs? | Håkon Onsager | [Read More](https://medium.com/p/706d209b918e) |
-| Wed, 19 Nov 2025 15:20:33 GMT | New Data Security Posture Management | Mechanics Team | [Read More](https://medium.com/p/8b9b707640d1) |
-| Wed, 19 Nov 2025 15:19:32 GMT | Strategy Pattern 2.0:How Modern Java(21–25) makes the Strategy Pattern Actually Fun to Write | Jitin Kayyala | [Read More](https://medium.com/p/43cd6012ccce) |
-| Wed, 19 Nov 2025 15:06:26 GMT | Resupply Exploit Post-Mortem: How $9.56M Was Stolen in 90 Minutes | Olympix | [Read More](https://medium.com/p/75eced577077) |
-| Wed, 19 Nov 2025 15:06:08 GMT | The Ultimate Ransomware Defense: Test Your Backups! | Max Farnga | [Read More](https://medium.com/p/7735654d6077) |
