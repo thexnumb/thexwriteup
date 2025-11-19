@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 06:18:53 GMT | Live Hacking Masterclass Phase 2 — Ultimate CTF Breakdown & Final Exploits | Dallen Sadru | [Read More](https://medium.com/p/199043f97939) |
+| Wed, 19 Nov 2025 06:18:25 GMT | Docker Container Escape by Exploiting Shared Namespaces | Indigo Shadow | [Read More](https://medium.com/p/5716409d4d1a) |
+| Wed, 19 Nov 2025 06:14:20 GMT | United States cybersecurity market: Size, Growth Key Players, Latest Insights and Forecast… | Market Researcher | [Read More](https://medium.com/p/b619b4cae3a3) |
+| Wed, 19 Nov 2025 06:12:54 GMT | The Habit That Silently Drains Young Men in Their 20s | Vijay Kumar Gupta | [Read More](https://medium.com/p/8da5c9048beb) |
+| Wed, 19 Nov 2025 06:11:02 GMT | CYBER KILL CHAIN-EXPLOITATION AŞAMASI | Burhan Demir | [Read More](https://medium.com/p/7b4d3c872caf) |
+| Wed, 19 Nov 2025 06:05:43 GMT | ⚙️ Every strong digital product runs on an even stronger backend. | Tech Immortals | [Read More](https://medium.com/p/16b326305f11) |
+| Wed, 19 Nov 2025 06:02:08 GMT | AI Security, For Real: 5 Threats & Fixes | Praxen | [Read More](https://medium.com/p/cbbdafc2dbab) |
+| Wed, 19 Nov 2025 06:00:08 GMT | proxy-belgium-online-guide | SnapshotSage | [Read More](https://medium.com/p/959ab23784e9) |
+| Wed, 19 Nov 2025 05:58:33 GMT | Email Enumeration via GraphQL Misconfiguration | Menna Ahmed | [Read More](https://medium.com/p/729867b2d682) |
+| Wed, 19 Nov 2025 05:57:52 GMT | I Investigated Why ChatGPT, X, and 20% of the Internet Crashed Yesterday. | CodeOrbit | [Read More](https://medium.com/p/ce81762d0ca4) |
+| Wed, 19 Nov 2025 05:53:11 GMT | Cloudflare Outage November 18, 2025: What Happened and Why | Gaurav Garkoti | [Read More](https://medium.com/p/f0b68ea28860) |
+| Wed, 19 Nov 2025 05:50:35 GMT | Mobile App Performance Monitoring: The Key Benefits You Can’t Afford to Ignore | Devang | [Read More](https://medium.com/p/4a684ed86854) |
+| Wed, 19 Nov 2025 05:49:35 GMT | Infinity Shell TryHackMe Çözümü: Web Shell Tespiti ve Base64 Analizi | Melih Kale | [Read More](https://medium.com/p/4513898d6147) |
+| Wed, 19 Nov 2025 05:49:16 GMT | Building Belfort: An AI-Powered E-Commerce Platform with Dynamic Pricing and Smart Negotiation | Ayush Nigam | [Read More](https://medium.com/p/7d06cb98791e) |
+| Wed, 19 Nov 2025 05:44:29 GMT | the feeling that never came | katelyn | [Read More](https://medium.com/p/44c436ac93cd) |
 | Wed, 19 Nov 2025 05:31:16 GMT | Cloudflare Down | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/2a308cfdfa72) |
 | Wed, 19 Nov 2025 05:30:06 GMT | Firewalld Advanced Rules for High Performance Linux Servers | Linux Guide | [Read More](https://medium.com/p/aa9aae37c047) |
 | Wed, 19 Nov 2025 05:27:37 GMT | Hackers Don’t Need Your Password… Just Your Feelings | Everyday CYBER | [Read More](https://medium.com/p/fb4f860e181c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 20:49:08 GMT | API Security: The Forgotten Fortress in Your Architecture | Samuel Obeng Amoako Jnr | [Read More](https://medium.com/p/6255c3e61365) |
 | Tue, 18 Nov 2025 20:39:43 GMT | The User Survival Guide to Internet Outages (Cloudflare & Beyond) | MEDUSA | [Read More](https://medium.com/p/664d51a004ce) |
 | Tue, 18 Nov 2025 20:34:35 GMT | The QR Code Scam Nobody Saw Coming | Kael Virex | [Read More](https://medium.com/p/17f586a64f3d) |
-| Tue, 18 Nov 2025 20:32:26 GMT | Education & Certifications vs. Experience: Why Experience Still Wipes the Floor With Degrees | Travis Ray Caverhill | [Read More](https://medium.com/p/ffea1fb436fc) |
-| Tue, 18 Nov 2025 20:12:52 GMT | Critical Vulnerability CVE-2025–62765 in Lynx+ Gateway: Is Your Network Exposed? | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/2101986062aa) |
-| Tue, 18 Nov 2025 20:08:58 GMT | Burnout and Mental Health in Tech : The Conversation Every Team Needs | Modncv | [Read More](https://medium.com/p/2590a5d14052) |
-| Tue, 18 Nov 2025 20:01:29 GMT | Cloudflare Outages: Why it is always DNS misconfiguration? | Kavi Kumar | [Read More](https://medium.com/p/5a5b60ad4e8e) |
-| Tue, 18 Nov 2025 19:55:43 GMT | Building a Cybersecurity Home Lab — Part 4: Installing Core Security Applications | JBXSec | [Read More](https://medium.com/p/fae91cd02971) |
-| Tue, 18 Nov 2025 19:55:02 GMT | The Future of Automotive Cybersecurity: Jobs, Skills, and the Best Countries for a High-Growth… | Kirthi | [Read More](https://medium.com/p/2fda24cfb2c1) |
-| Tue, 18 Nov 2025 19:50:21 GMT | Cloudfare Outage: The. Tuesday morning when 1/4th of the internet went silent | Anindya Mishra | [Read More](https://medium.com/p/4e42f2176a0a) |
-| Tue, 18 Nov 2025 19:35:52 GMT | Videos from “CVE Program Technical Workshop 2025” Now Available | CVE Program Blog | [Read More](https://medium.com/p/0855c2d3531d) |
-| Tue, 18 Nov 2025 19:28:08 GMT | The Builder’s Notes: The De-identification Pipeline No One Shows You — Processing PHI Through LLMs | Piyoosh Rai | [Read More](https://medium.com/p/23c803f14b08) |
-| Tue, 18 Nov 2025 19:21:59 GMT | How Do Websites Remember You? The Complete Guide to Cookies — Beyond Just “Staying Logged In” | Vaibhav Singh | [Read More](https://medium.com/p/1fde2b3f0e69) |
-| Tue, 18 Nov 2025 19:21:02 GMT | How Do You Disable Tracking for Android Apps? | Awais Khan | [Read More](https://medium.com/p/ce8587398752) |
-| Tue, 18 Nov 2025 19:16:12 GMT | Stress level After 147 Job Rejections last 30 days | lagigi | [Read More](https://medium.com/p/a949f636ea72) |
-| Tue, 18 Nov 2025 19:14:56 GMT | When AI Became The Hacker: How Three November Discoveries Prove Autonomous Cyberattacks Are Already… | Berend Watchus | [Read More](https://medium.com/p/d61914e8e1d7) |
-| Tue, 18 Nov 2025 19:10:01 GMT | The World Doesn’t Need More Cybersecurity Professionals | InfosecPandey | [Read More](https://medium.com/p/686856682db4) |
-| Tue, 18 Nov 2025 19:08:15 GMT | The Hidden Cost of a Ransomware Attack — And Why It Can Break Your Business | Cordula Boeck | [Read More](https://medium.com/p/f4f6bc385f51) |
