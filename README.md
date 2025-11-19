@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 10:37:31 GMT | Secure Token Storage in KMM (Part 2) With Proto DataStore, Android Keystore & Apple Keychain | Fakhour Mohammed | [Read More](https://medium.com/p/0940714efe80) |
+| Wed, 19 Nov 2025 10:35:43 GMT | HackTheBox Writeup: Cap — Easy Level Linux based Machine | Pradithareddy | [Read More](https://medium.com/p/833c66b34d78) |
+| Wed, 19 Nov 2025 10:29:20 GMT | Why Human Error Is Still the Weakest Link in Cybersecurity | Digital Defense | [Read More](https://medium.com/p/07e46fa1e0bf) |
+| Wed, 19 Nov 2025 10:24:42 GMT | I Hid Messages in Flickering Noise That Only Cameras Can See: Introducing OTIS | X-3306 | [Read More](https://medium.com/p/8cdbbb00fc06) |
+| Wed, 19 Nov 2025 10:20:43 GMT | residential-proxy-use-cases | EtherFlicker | [Read More](https://medium.com/p/1b36be47037a) |
 | Wed, 19 Nov 2025 10:15:52 GMT | Tailgating in Cybersecurity: What You Need to Know | Beetles IO | [Read More](https://medium.com/p/26cc932ad55b) |
 | Wed, 19 Nov 2025 10:14:34 GMT | Samsung A Series: Big Screen Fun Without Big Price | Pimrada Thavorn | [Read More](https://medium.com/p/e5029715e408) |
 | Wed, 19 Nov 2025 10:09:57 GMT | Find Comfort in ERRORS: Crypto | lukewago | [Read More](https://medium.com/p/e3dde27c6095) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 04:52:40 GMT | AI Agent for Risk Prioritization: How Context Tames the Alert Storm | Nikhil Chatterjee | [Read More](https://medium.com/p/66af4d1bf096) |
 | Wed, 19 Nov 2025 04:52:00 GMT | Game Theory for Audit Leaders: Negotiating Scope, Budget & Credibility | Tharun Krishnamoorthy | [Read More](https://medium.com/p/5e1992125a49) |
 | Wed, 19 Nov 2025 04:50:16 GMT | Navigating the Global Shift in AI Governance | Pawan K. Pradhan | [Read More](https://medium.com/p/ee00ec9ce62e) |
-| Wed, 19 Nov 2025 04:49:46 GMT | I’ve Been in Customer Service for Years. Now I’m Learning IT. | Mason Nemzoff | [Read More](https://medium.com/p/1c860cb0169d) |
-| Wed, 19 Nov 2025 04:43:05 GMT | The Phantom Risk: How AI in the Financial Sector Is Exposing Its Internal Logic Through Unintended… | Rodrigo Gutierrez | [Read More](https://medium.com/p/c6dd79d85400) |
-| Wed, 19 Nov 2025 04:32:07 GMT | 10 Security-Header Recipes That Don’t Slow Your Site | Hash Block | [Read More](https://medium.com/p/06ecee5a8b00) |
-| Wed, 19 Nov 2025 04:25:25 GMT | Understanding Cryptojacking — How Hackers Steal Your Computing Power | Kerala Blockchain Academy | [Read More](https://medium.com/p/846c1a6ca750) |
-| Wed, 19 Nov 2025 04:24:46 GMT | Hello, | Seth J | [Read More](https://medium.com/p/71afc8ff8886) |
