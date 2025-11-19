@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 21:20:35 GMT | ElasticSecOpsCoPilot — Autonomous IOC Enrichment for Elastic Security | shresth paul | [Read More](https://medium.com/p/407717b6a4ab) |
+| Wed, 19 Nov 2025 21:19:33 GMT | Welcome — What I’ll Be Writing About on Medium | Hamza Gharandoq | [Read More](https://medium.com/p/6a2033fe76b5) |
+| Wed, 19 Nov 2025 21:17:37 GMT | I Broke Down in the Shower. Here’s What Actually Helped. | Inner Spiral | [Read More](https://medium.com/p/8e15d0bf072d) |
+| Wed, 19 Nov 2025 21:17:30 GMT | Kimlik Doğrulama Zafiyetlerine Giriş: Modern Web Uygulamalarında Görülen Yaygın Hatalar | Songül Kızılay | [Read More](https://medium.com/p/9fdced04ae58) |
 | Wed, 19 Nov 2025 21:08:41 GMT | Reprendre le contrôle de ses données : Mon installation Syncthing ultime (Docker, Nginx & MikroTik) | RAPATT | [Read More](https://medium.com/p/1940806a425b) |
 | Wed, 19 Nov 2025 21:04:37 GMT | Cybersecurity Basics Everyone Gets Wrong (And How to Fix Them) | David Constance | [Read More](https://medium.com/p/0b45381c0b27) |
 | Wed, 19 Nov 2025 20:49:05 GMT | A Student’s Guide to VPNs: How They Work and When to Use Them | Md Shahata Zarab Efti | [Read More](https://medium.com/p/a253be422c37) |
@@ -109,7 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 15:40:11 GMT | Why EU Administrations Still Seal Official Letters on Paper | Letro | [Read More](https://medium.com/p/252283e2a6f9) |
 | Wed, 19 Nov 2025 15:38:42 GMT | The Day AI Stopped Knocking and Started Kicking Down the Door | Earnest Sherrill | [Read More](https://medium.com/p/f5852e1f3295) |
 | Wed, 19 Nov 2025 15:36:45 GMT | The Day the Internet Blinked: Why Half the Web Went Dark Yesterday | Tomas Monka | [Read More](https://medium.com/p/22d0a03ff64c) |
-| Wed, 19 Nov 2025 15:33:32 GMT | AI Agents: AresGPT + Topical Authority Advisor’s Red Teaming Intelligence SEO | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/36a898278c7f) |
-| Wed, 19 Nov 2025 15:32:45 GMT | Why the idea of AI fighting AI in cybersecurity is a dangerous myth. | Abatis ABTU | [Read More](https://medium.com/p/11111871f5f4) |
-| Wed, 19 Nov 2025 15:31:38 GMT | ByteGlyph: An ASCII Renderer That Hijacks the Webpage Into an Art Canvas | Мартин. | [Read More](https://medium.com/p/bf4c492aad64) |
-| Wed, 19 Nov 2025 15:28:26 GMT | I optimized myself into isolation | Rachel Nadolny | [Read More](https://medium.com/p/71c2f249328a) |
