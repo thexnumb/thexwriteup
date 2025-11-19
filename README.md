@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 04:32:07 GMT | 10 Security-Header Recipes That Don’t Slow Your Site | Hash Block | [Read More](https://medium.com/p/06ecee5a8b00) |
 | Wed, 19 Nov 2025 04:25:25 GMT | Understanding Cryptojacking — How Hackers Steal Your Computing Power | Kerala Blockchain Academy | [Read More](https://medium.com/p/846c1a6ca750) |
+| Wed, 19 Nov 2025 04:24:46 GMT | Hello, | Seth J | [Read More](https://medium.com/p/71afc8ff8886) |
+| Wed, 19 Nov 2025 04:22:31 GMT | THE DAY THE INTERNET TOOK A BREAK: | 0X595 | [Read More](https://medium.com/p/516c874db804) |
+| Wed, 19 Nov 2025 04:22:26 GMT | How ZetoZone Became Idukki’s Most Reliable Tech Lifeline | Elza | [Read More](https://medium.com/p/5a3c50210731) |
 | Wed, 19 Nov 2025 04:17:46 GMT | วิธีติดตั้ง OpenVAS (GVM) บน Kali Linux แบบง่าย เร็ว และใช้งานได้จริง | ArtF412 | [Read More](https://medium.com/p/78cd3c80c44a) |
 | Wed, 19 Nov 2025 04:17:39 GMT | Samsung Galaxy S25 & all S Series November 2025 critical fix: install now | DevaDas Writer | [Read More](https://medium.com/p/29fedcb67a2e) |
 | Wed, 19 Nov 2025 04:15:44 GMT | When the Keys Go Missing: Inside the Modern Crypto Heist — a TZNXG Field Note | TZNXG | [Read More](https://medium.com/p/4919ff922e20) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 18:48:05 GMT | Article 6: Introduction to Networking For Ethical Hacking | Aman Kumar Singh | [Read More](https://medium.com/p/70b29d452aa5) |
 | Tue, 18 Nov 2025 18:46:37 GMT | Ransomed Lab (Cyberdefenders) | FeCeSociety | [Read More](https://medium.com/p/6def412b157f) |
 | Tue, 18 Nov 2025 18:42:01 GMT | (File 20) King Boo — The Ruler of Mischief | Ink Stories Primal | [Read More](https://medium.com/p/4b843f57b8a3) |
-| Tue, 18 Nov 2025 18:39:39 GMT | OSCP Grind - PG Practice - ClamAV | Mr Jokar | [Read More](https://medium.com/p/1281ef91f195) |
-| Tue, 18 Nov 2025 18:37:12 GMT | I Tracked My Own Digital Footprint for 24 Hours | Hareem Fatima | [Read More](https://medium.com/p/f7f334455940) |
-| Tue, 18 Nov 2025 18:33:04 GMT | My experience with certification CRTP + Bootcamp | X0Anubis | [Read More](https://medium.com/p/6f1cd095dd9d) |
-| Tue, 18 Nov 2025 18:16:05 GMT | Cisco Alerts Users to New Firewall Attack Exploiting CVE 2025 20333 and CVE 2025 20362 | SCtoCS | [Read More](https://medium.com/p/2d6a70690bd3) |
