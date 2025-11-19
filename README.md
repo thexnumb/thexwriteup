@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 03:07:49 GMT | From Beginner to OSCP, LPT Master, CISSP & CISO in 5 Years — The Ultimate Cybersecurity Growth… | Monu Jangra | [Read More](https://medium.com/p/482c66ff9dea) |
+| Wed, 19 Nov 2025 02:59:02 GMT | Indonesia’s Hidden Islands Show Why Connectivity is Security | Isa Amanda Julia | [Read More](https://medium.com/p/75da5a36f63a) |
+| Wed, 19 Nov 2025 02:35:37 GMT | CVE-2025-63872: SVG-Based XSS in DeepSeek Chat V3.2 | Vinit Kundu | [Read More](https://medium.com/p/db4ebc1f1f28) |
+| Wed, 19 Nov 2025 02:33:53 GMT | The Hidden Complexity of Secure Serialization & Deserialization in Modern Distributed Systems | Bervice | [Read More](https://medium.com/p/f374b9fcf497) |
+| Wed, 19 Nov 2025 02:15:01 GMT | BANKING RENOVATION FOR 2030 | Shantanukumarsahoo Sbi | [Read More](https://medium.com/p/d834f77f6469) |
+| Wed, 19 Nov 2025 02:11:18 GMT | professional-proxy-solutions | WeiWizard | [Read More](https://medium.com/p/17eeb1daff57) |
+| Wed, 19 Nov 2025 02:09:54 GMT | Crack the Gate 2 web challenge write-up | -_ENIGMA_- | [Read More](https://medium.com/p/02a4cb00fc71) |
+| Wed, 19 Nov 2025 02:07:47 GMT | Owning the Black Box: Why AI Integrity Has to Become an Engineering Discipline | Pavel Glukhikh | [Read More](https://medium.com/p/cb72113c817a) |
+| Wed, 19 Nov 2025 01:49:49 GMT | How to set up a local development environment for PHP 2025 | Safelyo Global | [Read More](https://medium.com/p/96ff3dab0648) |
+| Wed, 19 Nov 2025 01:46:19 GMT | The Day the Internet Felt Broken: What Really Happened During the November 2025 Cloud flare Outage… | Athishsagarkishan | [Read More](https://medium.com/p/bc5d5f7e28af) |
+| Wed, 19 Nov 2025 01:45:42 GMT | The Fool’s Path to Creativity | The Existential Ginger | [Read More](https://medium.com/p/586aea6c9ba8) |
+| Wed, 19 Nov 2025 01:39:37 GMT | China Used an AI Agent to Hack 30 Companies — and It Transforms Cybersecurity Forever | Code Pulse | [Read More](https://medium.com/p/0e8a4f2e03e6) |
 | Wed, 19 Nov 2025 01:35:12 GMT | Questions Bubbling to a Tear | Jasmine Rose | [Read More](https://medium.com/p/fd4f82f38541) |
 | Wed, 19 Nov 2025 01:34:26 GMT | GitLab CVE-2023–7028 - TryHackMe | q1mthi | [Read More](https://medium.com/p/f48c51ed58b2) |
 | Wed, 19 Nov 2025 01:29:12 GMT | Cloudflare Outage Briefly Takes Down Parts of the Internet — Including ChatGPT and X | Theotismatthews | [Read More](https://medium.com/p/f64fafa4a332) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 18 Nov 2025 17:38:44 GMT | The Update That Crashed the Planet: What Really Happened in the CrowdStrike Outage | Dax | [Read More](https://medium.com/p/e52db14ded10) |
 | Tue, 18 Nov 2025 17:35:51 GMT | Google Warns Billions About Fake VPN Apps Hijacking Devices and Stealing Private Data | David Miller | [Read More](https://medium.com/p/1cf02dcc3b0a) |
 | Tue, 18 Nov 2025 17:32:28 GMT | The Hyper Connected City, The Isolated Citizen: Why We’re Lonelier Than Ever We live in a world… | NEWTON | [Read More](https://medium.com/p/84d91c509cda) |
-| Tue, 18 Nov 2025 17:27:48 GMT | Building a Cybersecurity Home Lab — Part 3.3: Deploying and Configuring Linux VMs | JBXSec | [Read More](https://medium.com/p/635fd3e01be0) |
-| Tue, 18 Nov 2025 17:27:15 GMT | I Dived into the Dark Web in 2025: Shocking Secrets, Scams, and Surprises That’ll Haunt Your… | Hugo Valters | [Read More](https://medium.com/p/9c3fef5e34ad) |
-| Tue, 18 Nov 2025 17:25:04 GMT | The Hottest AI Tools Just Landed on Ainsider.Store: November 2025 Edition | Piotr Macai | [Read More](https://medium.com/p/8ebcc3320f87) |
-| Tue, 18 Nov 2025 17:23:00 GMT | xss0r Early Black Friday Deal | xss0r | [Read More](https://medium.com/p/8f407923e0ab) |
-| Tue, 18 Nov 2025 17:13:38 GMT | OSINT Tutorial 4: How to Solve a Geolocation Puzzle | S.Ali | [Read More](https://medium.com/p/7bcd9f222116) |
-| Tue, 18 Nov 2025 17:11:11 GMT | The Secret to AWS Security? Don’t Store Secrets. | Stephanie Batanwi | [Read More](https://medium.com/p/4fd95e880659) |
-| Tue, 18 Nov 2025 17:06:06 GMT | OSINT Researcher: Fast GitHub intelligence tool | OSINT Researcher | [Read More](https://medium.com/p/437ccbf87d2b) |
-| Tue, 18 Nov 2025 16:59:02 GMT | TryHackMe:Farewell | Altair | [Read More](https://medium.com/p/f5eca8134229) |
-| Tue, 18 Nov 2025 16:58:04 GMT | When the Internet Broke: What Really Happened During the Cloudflare Outage | Rohan kumar | [Read More](https://medium.com/p/fcfc6fdf137a) |
-| Tue, 18 Nov 2025 16:56:27 GMT | Monitoring Keycloak Events in Wazuh — A Complete, Working Integration Guide | Yash Patel | [Read More](https://medium.com/p/a669817dc018) |
-| Tue, 18 Nov 2025 16:50:56 GMT | Cloudflare Crushed Elon Musk’s X and ChatGPT. How One Tiny File Broke the Web. | Tanzid (TechToFit.space) | [Read More](https://medium.com/p/1afa60b01b60) |
-| Tue, 18 Nov 2025 16:50:31 GMT | From Broke to Boss: Mastering Financial Literacy One Step at a Time | Aliyu Ibrahim | [Read More](https://medium.com/p/83688d317fef) |
