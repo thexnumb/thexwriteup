@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 21:54:58 GMT | 1Password vs LastPass (2025): The Truth Most People Only Realize After a Security Scare | LeadAdvisors | [Read More](https://medium.com/p/a0649ec0ed3a) |
+| Wed, 19 Nov 2025 21:48:09 GMT | Race condition results in abusing a feature which requires subscription | Mehran | [Read More](https://medium.com/p/9b322ad31085) |
+| Wed, 19 Nov 2025 21:44:00 GMT | Intigriti Challenge 1125: From JWT Bypass to RCE | msfire | [Read More](https://medium.com/p/12366a11e530) |
+| Wed, 19 Nov 2025 21:40:45 GMT | CyberDefenders - Amadey Lab - Fácil - Meu passo a passo | Arthur Gomez Aquino | [Read More](https://medium.com/p/78a30d3bc4bb) |
+| Wed, 19 Nov 2025 21:40:04 GMT | Cross Site Scripting (XSS) | Enes Demir | [Read More](https://medium.com/p/410d85109580) |
+| Wed, 19 Nov 2025 21:37:53 GMT | CSRF — Cross-site Request Forgery nedir ? | Enes Demir | [Read More](https://medium.com/p/3d512f9d54f7) |
+| Wed, 19 Nov 2025 21:36:20 GMT | IDOR — Insecure Direct Object Referance Nedir | Enes Demir | [Read More](https://medium.com/p/b38e6b3feba0) |
 | Wed, 19 Nov 2025 21:20:35 GMT | ElasticSecOpsCoPilot — Autonomous IOC Enrichment for Elastic Security | shresth paul | [Read More](https://medium.com/p/407717b6a4ab) |
 | Wed, 19 Nov 2025 21:19:33 GMT | Welcome — What I’ll Be Writing About on Medium | Hamza Gharandoq | [Read More](https://medium.com/p/6a2033fe76b5) |
 | Wed, 19 Nov 2025 21:17:37 GMT | I Broke Down in the Shower. Here’s What Actually Helped. | Inner Spiral | [Read More](https://medium.com/p/8e15d0bf072d) |
@@ -49,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 18:51:13 GMT | RCE via a malicious SVG in mPDF | brun0ne | [Read More](https://medium.com/p/216e613b250b) |
 | Wed, 19 Nov 2025 18:50:37 GMT | How I Turned a Dark Web Sketch into a $ Bug Bounty Payday ️‍♂️ | Iski | [Read More](https://medium.com/p/fafc5a1176ef) |
 | Wed, 19 Nov 2025 18:45:29 GMT | Trust Issues: How I Hijacked Financial Data with a Single Header | Sinxx | [Read More](https://medium.com/p/29e3b94d6ca0) |
+| Wed, 19 Nov 2025 18:39:33 GMT | Anti-Detect Browsers: How ShieldLabs Identifies Browser Masquerading | ShieldLabs | [Read More](https://medium.com/p/a053c94f49e3) |
 | Wed, 19 Nov 2025 18:36:55 GMT | Buffer Overflows, Part 1: | Poojan Ghetiya | [Read More](https://medium.com/p/44b3255b489f) |
 | Wed, 19 Nov 2025 18:35:48 GMT | Cloudflare Outage 2025 | Yaswanth M | [Read More](https://medium.com/p/c53242bd0b36) |
 | Wed, 19 Nov 2025 18:34:58 GMT | The Ultimate Guide to Security Workforce Management Software Features | Teona | [Read More](https://medium.com/p/1f6166123515) |
@@ -105,11 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 16:13:02 GMT | DataCove Phishing Detection API: The Segment-Aware Revolution in URL Security | Vivek | [Read More](https://medium.com/p/8ac83fe892b0) |
 | Wed, 19 Nov 2025 16:04:35 GMT | ChatGPT Down: What Does “Please Unblock Challenges.Cloudflare.com to Proceed” Mean? | satyaranjan bal | [Read More](https://medium.com/p/6f8baaaa62e0) |
 | Wed, 19 Nov 2025 16:03:05 GMT | Enterprise IT Case Study: Access Management | Victoria Ayomide Ayodeji | [Read More](https://medium.com/p/f7de8f13f378) |
-| Wed, 19 Nov 2025 16:01:49 GMT | Stop Taking Advantage of Vulnerable Women | Manish Shaw | [Read More](https://medium.com/p/585003af3df8) |
-| Wed, 19 Nov 2025 16:00:51 GMT | The Mobile Wallet Token Architecture Flaw Enabling Unlimited Free Transit Access | Damodhar Pai | [Read More](https://medium.com/p/b4b25932ea94) |
-| Wed, 19 Nov 2025 15:56:05 GMT | MSQP: An MySQL privilege escalation tool | Мартин. | [Read More](https://medium.com/p/f34143388a2b) |
-| Wed, 19 Nov 2025 15:54:35 GMT | The New Digital Edge: Why Endpoint Management Defines Modern Security | Ola Sonola | [Read More](https://medium.com/p/739b21aad154) |
-| Wed, 19 Nov 2025 15:41:17 GMT | The First Fully AI-Led Cyberattack Has Arrived | Juan M. Vazquez | [Read More](https://medium.com/p/81ce197c6828) |
-| Wed, 19 Nov 2025 15:40:11 GMT | Why EU Administrations Still Seal Official Letters on Paper | Letro | [Read More](https://medium.com/p/252283e2a6f9) |
-| Wed, 19 Nov 2025 15:38:42 GMT | The Day AI Stopped Knocking and Started Kicking Down the Door | Earnest Sherrill | [Read More](https://medium.com/p/f5852e1f3295) |
-| Wed, 19 Nov 2025 15:36:45 GMT | The Day the Internet Blinked: Why Half the Web Went Dark Yesterday | Tomas Monka | [Read More](https://medium.com/p/22d0a03ff64c) |
