@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 12:29:58 GMT | Learning Fortinet Firewall — LESSON XX: FSSO (Fortinet Single Sign-On) | Rouell Mamaril | [Read More](https://medium.com/p/d57090afd6bf) |
+| Wed, 19 Nov 2025 12:28:12 GMT | Sunucuyu “Ghostlamak”: SYN Flood Atağı Nedir? - “Ghosting” the server : What is SYN Flood Attack? | Samet Koca | [Read More](https://medium.com/p/609f66933632) |
+| Wed, 19 Nov 2025 12:20:50 GMT | Your “Ethical” AI is a Lie | Victor Babaniyi | [Read More](https://medium.com/p/82bc3971a4f7) |
+| Wed, 19 Nov 2025 12:19:25 GMT | Dost GPT’nin dizginlerini ele almak- LLM Jailbreak | Hilmi Enginar | [Read More](https://medium.com/p/4c9aba866f55) |
+| Wed, 19 Nov 2025 12:18:50 GMT | Using SET to Perform Social Engineering in Cybersecurity — And Why It Matters in the Energy Sector | Ramandeep Bagri | [Read More](https://medium.com/p/cdd93bd4f986) |
+| Wed, 19 Nov 2025 12:18:38 GMT | 4 Powerful Cloudflare Features You Probably Didn’t Know Were Free | MilankumarParmar | [Read More](https://medium.com/p/883cf7c8e048) |
+| Wed, 19 Nov 2025 12:15:38 GMT | Cloudflare Outage November 2025: The Bug That Almost Broke the Internet (And Took Down X, ChatGPT… | Hayanan | [Read More](https://medium.com/p/69a187feac68) |
+| Wed, 19 Nov 2025 12:15:36 GMT | Western Vatniks and Russian propaganda | Rachel Saunders | [Read More](https://medium.com/p/ead94baf9452) |
+| Wed, 19 Nov 2025 12:14:42 GMT | Shift Left or Get Left Behind: Why Modern DevOps Teams Must Treat Security as Code | TechScribeHub | [Read More](https://medium.com/p/1745b1974912) |
+| Wed, 19 Nov 2025 12:13:55 GMT | 10 Things I Wish Someone Guided Me On Before Starting My Cybersecurity Career | Pavneet_Singh_ | [Read More](https://medium.com/p/ef8d40b248e1) |
+| Wed, 19 Nov 2025 12:12:27 GMT | residential-proxy-online-guide | BlockChimera | [Read More](https://medium.com/p/cdf0dc4d3cec) |
+| Wed, 19 Nov 2025 12:12:17 GMT | OSCP Grind - PG Practice - PayDay | Mr Jokar | [Read More](https://medium.com/p/f4cbd0a1a550) |
+| Wed, 19 Nov 2025 12:09:13 GMT | Understanding the Difference Between Penetration Testing and Red Teaming | Beetles IO | [Read More](https://medium.com/p/0e155d92f8df) |
+| Wed, 19 Nov 2025 12:07:06 GMT | Week 1: Breaking the Ice into Cybersecurity — Starting New, Google Cybersecutiy Certificate, Free… | Roxi | [Read More](https://medium.com/p/e1daa4d417cd) |
+| Wed, 19 Nov 2025 11:52:39 GMT | Your First CI/CD Pipeline in 5 Minutes: GitHub Actions to AWS Lightsail | Abdul Hadi | [Read More](https://medium.com/p/aeb200093934) |
+| Wed, 19 Nov 2025 11:51:07 GMT | How Hackers Crack Passwords & How to Protect Yourself | NAFIZ MUNTASIR | [Read More](https://medium.com/p/d2c9fa3118d8) |
+| Wed, 19 Nov 2025 11:46:38 GMT | ️ Cybersecurity Isn’t a Product — It’s a Practice | Alex Hughes | [Read More](https://medium.com/p/db7238c50ca1) |
 | Wed, 19 Nov 2025 11:29:00 GMT | EdgeStepper Implant Hijacks DNS and Software Updates to Install Malware | Jasmitha | [Read More](https://medium.com/p/8f573bf47ed0) |
 | Wed, 19 Nov 2025 11:23:26 GMT | North Korea’s Undercover IT Workforce | David SEHYEON Baek | [Read More](https://medium.com/p/23d6b23e55cf) |
 | Wed, 19 Nov 2025 11:23:20 GMT | DockerLabs Writeup — Aidor (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e93f598aec8c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 07:14:06 GMT | Windows Command Line Complete (THM) | Mohammed Allehyani | [Read More](https://medium.com/p/267b40475527) |
 | Wed, 19 Nov 2025 07:12:16 GMT | Cloudflare Outage Explained: | Xeeshan A. | [Read More](https://medium.com/p/c4d8ae18d29a) |
 | Wed, 19 Nov 2025 07:11:16 GMT | Hurting Love: A Journey Through Love and Healing | Ella Amuli | [Read More](https://medium.com/p/732d64fdb4a5) |
-| Wed, 19 Nov 2025 07:04:04 GMT | The Daily Tech Digest: 19 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e5b12a442844) |
-| Wed, 19 Nov 2025 07:03:16 GMT | SSI IT Cyber Security Services Munich | SSI IT Solutions | [Read More](https://medium.com/p/2130b415ac22) |
-| Wed, 19 Nov 2025 06:58:38 GMT | EJPT — walkthrough | JABEZ | [Read More](https://medium.com/p/b9e12f6c9931) |
-| Wed, 19 Nov 2025 06:56:43 GMT | Can Samsung A Series Replace Your Old Flagship Phone? | Chloe White | [Read More](https://medium.com/p/6feaf01fc3ed) |
-| Wed, 19 Nov 2025 06:56:40 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/98dba91336ee) |
-| Wed, 19 Nov 2025 06:55:48 GMT | How to Choose the Right Security Service in Bahadurgarh | Lakshay Security | [Read More](https://medium.com/p/cf9fd54b2ed7) |
-| Wed, 19 Nov 2025 06:53:58 GMT | MediaTek Dimensity 9400 Full Specification and Benchmark Details | Rakesh Sahani | [Read More](https://medium.com/p/1ad1f4eac747) |
-| Wed, 19 Nov 2025 06:46:41 GMT | Security Intelligence and Response Automation: Closing the Attack Gap | Prakriti Juneja | [Read More](https://medium.com/p/c68ddf7b8ec6) |
-| Wed, 19 Nov 2025 06:42:52 GMT | Broken Access Control | Pratik Solanki | [Read More](https://medium.com/p/971c0259af9c) |
-| Wed, 19 Nov 2025 06:36:02 GMT | Will Bangladesh Embrace AI Agents? | Ishraka Rahin Eka | [Read More](https://medium.com/p/905abd25786c) |
-| Wed, 19 Nov 2025 06:33:06 GMT | The 18th Nov Cloudflare Outage: A Wake-Up Call for the Entire Internet | Shubham Naliyapara | [Read More](https://medium.com/p/361ad11f269c) |
-| Wed, 19 Nov 2025 06:31:35 GMT | When Cloudflare Went Down: The Day the Internet Remembered Cloud Isn’t Invincible | Yaseenmd | [Read More](https://medium.com/p/2fe74f74f6b2) |
-| Wed, 19 Nov 2025 06:27:28 GMT | Prompt-Level Attacks: A Deep Technical Analysis of Modern Prompt Injection Vectors | Aditya Pandey | [Read More](https://medium.com/p/352312b18170) |
-| Wed, 19 Nov 2025 06:24:47 GMT | When Cloudflare Went Down: How One Company Can Shake the Entire Internet | Siddharth | [Read More](https://medium.com/p/d8f0c404db7a) |
-| Wed, 19 Nov 2025 06:18:53 GMT | Live Hacking Masterclass Phase 2 — Ultimate CTF Breakdown & Final Exploits | Dallen Sadru | [Read More](https://medium.com/p/199043f97939) |
-| Wed, 19 Nov 2025 06:18:25 GMT | Docker Container Escape by Exploiting Shared Namespaces | Indigo Shadow | [Read More](https://medium.com/p/5716409d4d1a) |
-| Wed, 19 Nov 2025 06:14:20 GMT | United States cybersecurity market: Size, Growth Key Players, Latest Insights and Forecast… | Market Researcher | [Read More](https://medium.com/p/b619b4cae3a3) |
