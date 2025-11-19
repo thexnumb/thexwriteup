@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 17:38:11 GMT | Stop Hitting ‘Later’: Software Updates are Mandatory Security Patches! | Max Farnga | [Read More](https://medium.com/p/bf56c6e84d1a) |
+| Wed, 19 Nov 2025 17:35:50 GMT | Episode 14: Campus Rise | Day One Signal | [Read More](https://medium.com/p/2366c12435b7) |
+| Wed, 19 Nov 2025 17:28:07 GMT | Introduce myself | Purapung | [Read More](https://medium.com/p/a8866ed1c614) |
+| Wed, 19 Nov 2025 17:21:37 GMT | The job offer:
+Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](https://medium.com/p/e41a8a78ed00) |
 | Wed, 19 Nov 2025 17:16:29 GMT | VulnHub DC-3 Walkthrough: Exploiting Joomla CMS | Kalash Kundaliya | [Read More](https://medium.com/p/f9b7ddce5150) |
+| Wed, 19 Nov 2025 17:12:32 GMT | The Quiet Breach: A Reminder That Hackers Are Not Your Biggest Problem | Travis Ray Caverhill | [Read More](https://medium.com/p/01dab4dc8d14) |
+| Wed, 19 Nov 2025 17:11:55 GMT | TryHackMe - WAF: Introduction - WriteUp | Axoloth | [Read More](https://medium.com/p/ba16ff7cf3d4) |
+| Wed, 19 Nov 2025 17:10:44 GMT | Why We’re Doubling Down into Doppel | Justin Schulman | [Read More](https://medium.com/p/24e42938bba7) |
 | Wed, 19 Nov 2025 17:07:54 GMT | WEB-300 and OSWE 2025: Review and Insights | 0x5ea3o1f | [Read More](https://medium.com/p/b1d9197447aa) |
 | Wed, 19 Nov 2025 17:06:44 GMT | Why a Security Architecture Review Is Essential to Risk Management | Cindy Kaplan | [Read More](https://medium.com/p/ef1cff74435b) |
 | Wed, 19 Nov 2025 17:04:23 GMT | TryHackMe - Shock and Silence - WriteUp | Axoloth | [Read More](https://medium.com/p/5ded41464733) |
@@ -20,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 17:00:41 GMT | Bug Bounty Commands Generator — A Practical Tool for Faster Pen-testing Workflows | HackByteX | [Read More](https://medium.com/p/f7d3d7a6addc) |
 | Wed, 19 Nov 2025 16:59:39 GMT | Artificial intelligence and digital security in online transactions | Jalal Mohammadzadeh | [Read More](https://medium.com/p/90ed509a9df5) |
 | Wed, 19 Nov 2025 16:54:40 GMT | How to Survive and Excel: A Guide to University Education in Information Technology (short ideas) | Ladislav Mariš | [Read More](https://medium.com/p/e3a752de8373) |
+| Wed, 19 Nov 2025 16:54:25 GMT | Praktikum Konfigurasi dan Administrasi Sistem Jaringan: Backup & Recovery | Muhammad Surya Saputro | [Read More](https://medium.com/p/2a2799ecf077) |
 | Wed, 19 Nov 2025 16:52:10 GMT | MCP Servers Are Electric | Patrick Walsh | [Read More](https://medium.com/p/a23d5dc9aba2) |
 | Wed, 19 Nov 2025 16:48:22 GMT | Hacker VS Hacker Writeup Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/aa519c0738ee) |
 | Wed, 19 Nov 2025 16:47:04 GMT | Adaptive Cognitive Deception Mesh (ACDM) | Anirban Mitra | [Read More](https://medium.com/p/56a46579be68) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 13:02:17 GMT | Building a Cyber Security Portfolio — Networking Step 2: Conferences | Randy Puffin | [Read More](https://medium.com/p/69c4a02408be) |
 | Wed, 19 Nov 2025 12:56:35 GMT | eJPT v2 : Challenge Lab 26: Cheese | Dhanushkumar R | [Read More](https://medium.com/p/7dd39a0e722d) |
 | Wed, 19 Nov 2025 12:53:50 GMT | The Day the Internet Died (For a Few Hours): Cloudflare Outage Explained | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/0b876451d1ef) |
-| Wed, 19 Nov 2025 12:51:52 GMT | The Unseen Engine: How the Linux Kernel Powers Our World | IR0-k_oo1 | [Read More](https://medium.com/p/29ffcf4cd16b) |
-| Wed, 19 Nov 2025 12:48:46 GMT | How ZeroThreat Detects Real Vulnerabilities in Minutes: A Deep Dive Into AI-Driven Security | Kate Bennett | [Read More](https://medium.com/p/1e0dc3a433b0) |
-| Wed, 19 Nov 2025 12:45:35 GMT | Top HR Challenges in 2025 and How ServiceNow HRSD Solves Them | Alex s | [Read More](https://medium.com/p/66ceae5aa836) |
-| Wed, 19 Nov 2025 12:42:23 GMT | Detecting Web Attacks Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/fb3c24d5702f) |
-| Wed, 19 Nov 2025 12:38:55 GMT | “Navigating the Algorithmic Wave: African Brands and the Future of AI-Driven Marketing” | coachtdee | [Read More](https://medium.com/p/a5b64fb56587) |
-| Wed, 19 Nov 2025 12:29:58 GMT | Learning Fortinet Firewall — LESSON XX: FSSO (Fortinet Single Sign-On) | Rouell Mamaril | [Read More](https://medium.com/p/d57090afd6bf) |
-| Wed, 19 Nov 2025 12:28:12 GMT | Sunucuyu “Ghostlamak”: SYN Flood Atağı Nedir? - “Ghosting” the server : What is SYN Flood Attack? | Samet Koca | [Read More](https://medium.com/p/609f66933632) |
-| Wed, 19 Nov 2025 12:20:50 GMT | Your “Ethical” AI is a Lie | Victor Babaniyi | [Read More](https://medium.com/p/82bc3971a4f7) |
