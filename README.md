@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 14:33:36 GMT | Pickle Rick THM | Nate Harris | [Read More](https://medium.com/p/57c17054cb68) |
+| Wed, 19 Nov 2025 14:31:02 GMT | 5 Everyday Tools Criminals Use to Launder Millions | FinCrimeXpert | [Read More](https://medium.com/p/daa97f1b3cf8) |
+| Wed, 19 Nov 2025 14:28:00 GMT | Digital Identity, Real World Impact: The Industrial Upside of the European Business Wallet (EUBW) | Carsten Stöcker | [Read More](https://medium.com/p/d9e0c4e96aae) |
+| Wed, 19 Nov 2025 14:25:07 GMT | How to Find Authorization Bypass Bugs (Easy Guide for Beginners) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/0be6abdf3e90) |
+| Wed, 19 Nov 2025 14:24:27 GMT | The OSI Model : What The Internet Does In 0.001 Seconds | Vorgex | [Read More](https://medium.com/p/68602b2f3ec5) |
+| Wed, 19 Nov 2025 14:21:58 GMT | Simple CTF — TryHackMe Writeup | Pradithareddy | [Read More](https://medium.com/p/762abd003975) |
+| Wed, 19 Nov 2025 14:19:17 GMT | The New Era of C-Store Operations: Why AI Is Becoming the Most Important Tool in Retail Convenience | Tec-Tel Communications | [Read More](https://medium.com/p/2a76cb6a2508) |
 | Wed, 19 Nov 2025 14:16:21 GMT | “The Safety Gap: How AI Is Quietly Rewriting the Future of Manufacturing” | Tec-Tel Communications | [Read More](https://medium.com/p/f35f514c76ea) |
 | Wed, 19 Nov 2025 14:16:08 GMT | If Elon Musk applied today, would he get hired? | Hachtechnology | [Read More](https://medium.com/p/cbea808c7fb0) |
 | Wed, 19 Nov 2025 14:11:08 GMT | The Autonomous Researcher: How I Engineered Guaranteed 1,000×–10,000× Breakthroughs On Demand | Berend Watchus | [Read More](https://medium.com/p/7c530854166c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 09:33:16 GMT | Game On: Can the Samsung A Series Handle Mobile Gaming? | Isabella Brown | [Read More](https://medium.com/p/b1eee8087bb3) |
 | Wed, 19 Nov 2025 09:26:50 GMT | The Unlikely Truth About Online Scams: Why Rudeness, Shame, and Prototypes Matter More Than Tech | ObserIQ Insights | [Read More](https://medium.com/p/050cb797d6a8) |
 | Wed, 19 Nov 2025 09:23:20 GMT | ️ Beyond the Gate: Why Investing in the Best Security Guard Service in Trivandrum is… | Sambhu Sunil | [Read More](https://medium.com/p/b5654c726d70) |
-| Wed, 19 Nov 2025 09:20:37 GMT | Lessons from Major Breaches: The Role of an Effective Cyber Crisis Plan | Himanshu Sharma | [Read More](https://medium.com/p/3574020c2869) |
-| Wed, 19 Nov 2025 09:19:45 GMT | Implementing Mathematical “Correctness” with the New ADIC Standard — Validated by “Prime Gravity”… | GhostDrift Mathematical Institute | [Read More](https://medium.com/p/e337b6566ea9) |
-| Wed, 19 Nov 2025 09:14:44 GMT | Modern Authentication in 2025: OAuth2, MFA, and the Shift to Passwordless | OneEntry Platform | [Read More](https://medium.com/p/66a7d6ae90cf) |
-| Wed, 19 Nov 2025 09:10:38 GMT | SOAR Integration Challenges and How to Fix it | NetWitness | [Read More](https://medium.com/p/68feff8e8618) |
-| Wed, 19 Nov 2025 09:08:08 GMT | Simple Guide to Secure Boot for Linux | Manish Kumar | [Read More](https://medium.com/p/846b57fcfa17) |
-| Wed, 19 Nov 2025 09:07:00 GMT | Multi-Layer Threat Detection: Why One Tool Isn’t Enough | Balaji | [Read More](https://medium.com/p/3557cf60f621) |
-| Wed, 19 Nov 2025 09:05:10 GMT | The 5 Essential Nmap Scans Every Beginner MUST Know | Riki Satya | [Read More](https://medium.com/p/d94e8dd657c5) |
