@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 13:32:03 GMT | Detecting Web Shells Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/38a7beaea0f2) |
+| Wed, 19 Nov 2025 13:29:44 GMT | Mastering Vulnerability Scanning: A Deep Dive into vuln-checker 0.5.5 | Skm248 | [Read More](https://medium.com/p/f148acb65a23) |
+| Wed, 19 Nov 2025 13:24:59 GMT | A Day in the Life of a Cyber Security Analyst | 464-Eshan | [Read More](https://medium.com/p/5283e4214e64) |
+| Wed, 19 Nov 2025 13:22:16 GMT | Reflections and takeaways on deepfakes and emotional manipulation | Torben B. Sørensen | [Read More](https://medium.com/p/ce217ac0fd6f) |
+| Wed, 19 Nov 2025 13:21:37 GMT | The Hidden Chaos of Frontend Dependencies — And a Cleaner Way Out | Manish Kalra | [Read More](https://medium.com/p/6c3a1d0dfb41) |
+| Wed, 19 Nov 2025 13:21:21 GMT | The Rise and Fall of Wally: How a Promising Web3 Project Collapsed and What Really Happened. | Jinners | [Read More](https://medium.com/p/1b628a2e0dd7) |
+| Wed, 19 Nov 2025 13:19:36 GMT | Behind the scripts: chasing a clever ninja infostealer | Dawid Bolkowski | [Read More](https://medium.com/p/58801dbefbda) |
+| Wed, 19 Nov 2025 13:19:22 GMT | Upgrade Your Skills & Transform Your Future: Why IT Training is the Key to a Successful Career in… | Swhizztechnlogies | [Read More](https://medium.com/p/91d45fd8c0bf) |
+| Wed, 19 Nov 2025 13:19:16 GMT | Building a Cyber Security Portfolio — Learning Step 2: Learning to teach | Randy Puffin | [Read More](https://medium.com/p/c8d6997eec09) |
+| Wed, 19 Nov 2025 13:15:20 GMT | SPF, DKIM, and DMARC: the three protocols protecting your inbox (and why you need all of them) | Red Sift | [Read More](https://medium.com/p/c7519c72a6b8) |
+| Wed, 19 Nov 2025 13:11:31 GMT | The Importance of Online Security and How to Apply It | Best Ecommerce Life | [Read More](https://medium.com/p/f6af4ef57fa6) |
+| Wed, 19 Nov 2025 13:02:27 GMT | Part 3 — OSINT for Insider Threats: Quiet Signals, Early Warnings | OSINT Amy | [Read More](https://medium.com/p/ad2e31b55a87) |
+| Wed, 19 Nov 2025 13:02:17 GMT | Building a Cyber Security Portfolio — Networking Step 2: Conferences | Randy Puffin | [Read More](https://medium.com/p/69c4a02408be) |
+| Wed, 19 Nov 2025 12:56:35 GMT | eJPT v2 : Challenge Lab 26: Cheese | Dhanushkumar R | [Read More](https://medium.com/p/7dd39a0e722d) |
+| Wed, 19 Nov 2025 12:53:50 GMT | The Day the Internet Died (For a Few Hours): Cloudflare Outage Explained | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/0b876451d1ef) |
+| Wed, 19 Nov 2025 12:48:46 GMT | How ZeroThreat Detects Real Vulnerabilities in Minutes: A Deep Dive Into AI-Driven Security | Kate Bennett | [Read More](https://medium.com/p/1e0dc3a433b0) |
+| Wed, 19 Nov 2025 12:45:35 GMT | Top HR Challenges in 2025 and How ServiceNow HRSD Solves Them | Alex s | [Read More](https://medium.com/p/66ceae5aa836) |
+| Wed, 19 Nov 2025 12:42:23 GMT | Detecting Web Attacks Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/fb3c24d5702f) |
+| Wed, 19 Nov 2025 12:38:55 GMT | “Navigating the Algorithmic Wave: African Brands and the Future of AI-Driven Marketing” | coachtdee | [Read More](https://medium.com/p/a5b64fb56587) |
 | Wed, 19 Nov 2025 12:29:58 GMT | Learning Fortinet Firewall — LESSON XX: FSSO (Fortinet Single Sign-On) | Rouell Mamaril | [Read More](https://medium.com/p/d57090afd6bf) |
 | Wed, 19 Nov 2025 12:28:12 GMT | Sunucuyu “Ghostlamak”: SYN Flood Atağı Nedir? - “Ghosting” the server : What is SYN Flood Attack? | Samet Koca | [Read More](https://medium.com/p/609f66933632) |
 | Wed, 19 Nov 2025 12:20:50 GMT | Your “Ethical” AI is a Lie | Victor Babaniyi | [Read More](https://medium.com/p/82bc3971a4f7) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 08:15:12 GMT | What Is Pretexting in Cyber Security? Why This Attack Still Works | Beetles IO | [Read More](https://medium.com/p/549a829e2f9f) |
 | Wed, 19 Nov 2025 08:06:01 GMT | Wazuh Part 2 — Kurulum, Dashboard İncelemesi ve İlk Agent Bağlantısı | İremDamar | [Read More](https://medium.com/p/2434b9dc537d) |
 | Wed, 19 Nov 2025 08:04:48 GMT | What 1,500 minutes of Mentoring This Year taught me about the future of engineering | Johnsonoaseru | [Read More](https://medium.com/p/1b3c35d2586d) |
-| Wed, 19 Nov 2025 08:02:44 GMT | I Found Millions in Losses Hidden in Zero-Knowledge Proofs | Bytescan Security Group | [Read More](https://medium.com/p/ed7a3dea5be7) |
-| Wed, 19 Nov 2025 08:02:34 GMT | The Producer-Consumer Pattern | Lukasz Wierzbicki | [Read More](https://medium.com/p/18c228e388f2) |
-| Wed, 19 Nov 2025 08:02:08 GMT | [Part 14] Explained: Machine Learning, Deep Learning, and Neural Networks for Security Pros | Cyberkech | [Read More](https://medium.com/p/b7a26ca1261a) |
-| Wed, 19 Nov 2025 08:01:33 GMT | Best Cybersecurity Awareness Training Courses Online | CodeRed | [Read More](https://medium.com/p/6888d4e8b9a5) |
-| Wed, 19 Nov 2025 07:56:00 GMT | What You See Is Only the Tip: The Layers of Hidden Risk | Fook Hwa Tan | [Read More](https://medium.com/p/b490f240400e) |
-| Wed, 19 Nov 2025 07:54:59 GMT | Why MFA Is Not a Silver Bullet — And What to Do Instead | Fook Hwa Tan | [Read More](https://medium.com/p/45e45d6bc33c) |
-| Wed, 19 Nov 2025 07:53:25 GMT | This Changed How Staff Behaved in Just 30 Days | Fook Hwa Tan | [Read More](https://medium.com/p/cbe4d306bb0b) |
-| Wed, 19 Nov 2025 07:47:57 GMT | Fix Outlook Sending Multiple Copies of Emails: Step-by-Step Guide | EINITIAL24 | [Read More](https://medium.com/p/8c9a2848d69b) |
-| Wed, 19 Nov 2025 07:46:08 GMT | [NASA] GlobalProtect VPN Pre-Auth Leak → | Christoscoming | [Read More](https://medium.com/p/d868aa005341) |
-| Wed, 19 Nov 2025 07:46:06 GMT | Top 10 Network Visibility Tools Every Pentester Needs in 2025: Level Up Your Recon | Very Lazy Tech | [Read More](https://medium.com/p/a2b6749c5d60) |
-| Wed, 19 Nov 2025 07:33:55 GMT | Risk Management: Essential Tools & Strategies for iGaming Operators | Max Kerry | [Read More](https://medium.com/p/46aa38d5bb46) |
-| Wed, 19 Nov 2025 07:32:24 GMT | 10 JavaScript Security Headers That Stay Fast | Velorum | [Read More](https://medium.com/p/94519d8e972e) |
-| Wed, 19 Nov 2025 07:20:41 GMT | Which Is the Best CCTV Installation Company in Tamil Nadu & What Are the Benefits of Hiring a… | Berkshire Hathaway | [Read More](https://medium.com/p/d5e5d714a792) |
-| Wed, 19 Nov 2025 07:19:09 GMT | One Click Can Change Your Life: Stay Secure in a Digital World | Monu Jangra | [Read More](https://medium.com/p/5d8d363457e4) |
-| Wed, 19 Nov 2025 07:16:44 GMT | Why Security Guard Services Are Essential for Every Business: A Complete Guide to the Top Security… | Ciss India | [Read More](https://medium.com/p/e0bc1d42a194) |
-| Wed, 19 Nov 2025 07:15:45 GMT | Security Disclosure: Exposed Prometheus Node Exporter - Jio Infrastructure Internal System… | Christoscoming | [Read More](https://medium.com/p/16ab4ad64b58) |
-| Wed, 19 Nov 2025 07:14:06 GMT | Windows Command Line Complete (THM) | Mohammed Allehyani | [Read More](https://medium.com/p/267b40475527) |
-| Wed, 19 Nov 2025 07:12:16 GMT | Cloudflare Outage Explained: | Xeeshan A. | [Read More](https://medium.com/p/c4d8ae18d29a) |
-| Wed, 19 Nov 2025 07:11:16 GMT | Hurting Love: A Journey Through Love and Healing | Ella Amuli | [Read More](https://medium.com/p/732d64fdb4a5) |
