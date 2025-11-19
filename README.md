@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 19 Nov 2025 16:52:10 GMT | MCP Servers Are Electric | Patrick Walsh | [Read More](https://medium.com/p/a23d5dc9aba2) |
+| Wed, 19 Nov 2025 16:48:22 GMT | Hacker VS Hacker Writeup Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/aa519c0738ee) |
+| Wed, 19 Nov 2025 16:47:04 GMT | Adaptive Cognitive Deception Mesh (ACDM) | Anirban Mitra | [Read More](https://medium.com/p/56a46579be68) |
+| Wed, 19 Nov 2025 16:40:49 GMT | Bounty Hacker — TryHackMe Write-up | Pradithareddy | [Read More](https://medium.com/p/ee4920d9f746) |
+| Wed, 19 Nov 2025 16:38:38 GMT | Why We’re Investing in Bedrock Data: The AI-Native Data Security Platform | Gaurav Bhogale | [Read More](https://medium.com/p/48e9b8194cd6) |
+| Wed, 19 Nov 2025 16:37:42 GMT | The State Of Europe | Vox Vento | [Read More](https://medium.com/p/689bc1086f85) |
+| Wed, 19 Nov 2025 16:34:24 GMT | SSH with 2FA — An Extra Layer of Security for Linux Servers | Dominik Tracz | [Read More](https://medium.com/p/bd2e25e272a3) |
+| Wed, 19 Nov 2025 16:34:23 GMT | CSS is Spyware: How I Can Track Your Behavior Without JavaScript | Manavkaushal | [Read More](https://medium.com/p/4a43ae022787) |
+| Wed, 19 Nov 2025 16:33:44 GMT | Big Data : Data Visualization using Matplotlib and Seaborn | Yasa Wijaya | [Read More](https://medium.com/p/ffb618b75bed) |
+| Wed, 19 Nov 2025 16:32:24 GMT | Cryptocurrency — A History Of Failures | VTECH | [Read More](https://medium.com/p/a5ae08399fd2) |
+| Wed, 19 Nov 2025 16:32:24 GMT | Secrets in MCP (Model Context Protocol) Servers | Vikrant Karvir | [Read More](https://medium.com/p/b6ada09f70b5) |
+| Wed, 19 Nov 2025 16:32:24 GMT | Part 6 ~ Azure NSGs in Action: From Theory to Real-World Security | Shubham Barman | [Read More](https://medium.com/p/7e53fde6e59e) |
+| Wed, 19 Nov 2025 16:23:05 GMT | Dark Web Algorithms for Beginners: An Educational & Technical Guide | Gopi Sri | [Read More](https://medium.com/p/6b97744c1612) |
 | Wed, 19 Nov 2025 16:13:02 GMT | DataCove Phishing Detection API: The Segment-Aware Revolution in URL Security | Vivek | [Read More](https://medium.com/p/8ac83fe892b0) |
 | Wed, 19 Nov 2025 16:04:35 GMT | ChatGPT Down: What Does “Please Unblock Challenges.Cloudflare.com to Proceed” Mean? | satyaranjan bal | [Read More](https://medium.com/p/6f8baaaa62e0) |
 | Wed, 19 Nov 2025 16:03:05 GMT | Enterprise IT Case Study: Access Management | Victoria Ayomide Ayodeji | [Read More](https://medium.com/p/f7de8f13f378) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 12:14:42 GMT | Shift Left or Get Left Behind: Why Modern DevOps Teams Must Treat Security as Code | TechScribeHub | [Read More](https://medium.com/p/1745b1974912) |
 | Wed, 19 Nov 2025 12:13:55 GMT | 10 Things I Wish Someone Guided Me On Before Starting My Cybersecurity Career | Pavneet_Singh_ | [Read More](https://medium.com/p/ef8d40b248e1) |
 | Wed, 19 Nov 2025 12:12:27 GMT | residential-proxy-online-guide | BlockChimera | [Read More](https://medium.com/p/cdf0dc4d3cec) |
-| Wed, 19 Nov 2025 12:12:17 GMT | OSCP Grind - PG Practice - PayDay | Mr Jokar | [Read More](https://medium.com/p/f4cbd0a1a550) |
-| Wed, 19 Nov 2025 12:09:13 GMT | Understanding the Difference Between Penetration Testing and Red Teaming | Beetles IO | [Read More](https://medium.com/p/0e155d92f8df) |
-| Wed, 19 Nov 2025 12:07:06 GMT | Week 1: Breaking the Ice into Cybersecurity — Starting New, Google Cybersecutiy Certificate, Free… | Roxi | [Read More](https://medium.com/p/e1daa4d417cd) |
-| Wed, 19 Nov 2025 11:52:39 GMT | Your First CI/CD Pipeline in 5 Minutes: GitHub Actions to AWS Lightsail | Abdul Hadi | [Read More](https://medium.com/p/aeb200093934) |
-| Wed, 19 Nov 2025 11:51:07 GMT | How Hackers Crack Passwords & How to Protect Yourself | NAFIZ MUNTASIR | [Read More](https://medium.com/p/d2c9fa3118d8) |
-| Wed, 19 Nov 2025 11:46:38 GMT | ️ Cybersecurity Isn’t a Product — It’s a Practice | Alex Hughes | [Read More](https://medium.com/p/db7238c50ca1) |
-| Wed, 19 Nov 2025 11:29:00 GMT | EdgeStepper Implant Hijacks DNS and Software Updates to Install Malware | Jasmitha | [Read More](https://medium.com/p/8f573bf47ed0) |
-| Wed, 19 Nov 2025 11:23:26 GMT | North Korea’s Undercover IT Workforce | David SEHYEON Baek | [Read More](https://medium.com/p/23d6b23e55cf) |
-| Wed, 19 Nov 2025 11:23:20 GMT | DockerLabs Writeup — Aidor (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e93f598aec8c) |
-| Wed, 19 Nov 2025 11:23:01 GMT | Secure SSH Like a Pro: 7 Steps Every Linux Admin Should Know | Ashish Singh | [Read More](https://medium.com/p/17264b9ef8ce) |
-| Wed, 19 Nov 2025 11:20:19 GMT | Maybe This is All You Need to Know About Securing Flutter Apps | Yash Virendra Prajapati | [Read More](https://medium.com/p/7fefb0a9ae85) |
-| Wed, 19 Nov 2025 11:19:10 GMT | The Full Lifecycle of a Government Cyber Attack: Recon → Exploit → Persistence → Message Delivery | Shakeet | [Read More](https://medium.com/p/6480831d05e8) |
-| Wed, 19 Nov 2025 11:14:21 GMT | Winslots8: Situs Slot Gacor Terpercaya dengan Jackpot Besar dan RTP Tinggi! | Mantapmantap | [Read More](https://medium.com/p/324cde1c2ed0) |
