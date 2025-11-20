@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 01:16:31 GMT | The Day I Learned That “Temporary” Means Forever in Corporate IT | NAJEEB WEERABANGSA | [Read More](https://medium.com/p/675842b29819) |
+| Thu, 20 Nov 2025 01:09:17 GMT | A zero-trust identity playbook with Okta + SailPoint that costs nothing extra and deploys in one… | Awadyafai | [Read More](https://medium.com/p/63b55adcf47e) |
+| Thu, 20 Nov 2025 01:06:57 GMT | Capítulo 7 — Códigos de Sangue | Kleber Andrade | [Read More](https://medium.com/p/8fa86946adb9) |
+| Thu, 20 Nov 2025 00:58:58 GMT | Week 2: The First “Aha!” Moment | ZAYN | [Read More](https://medium.com/p/3829de51ab7d) |
+| Thu, 20 Nov 2025 00:57:11 GMT | The Quiet Apocalypse: Why the Most Dangerous Cyberattacks Are the Ones You Never Hear About | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/de88fac39777) |
+| Thu, 20 Nov 2025 00:52:44 GMT | International Conference on Cyberlaw, Cybercrime & Cybersecurity Conference 2025 | Matthew.Rosenquist | [Read More](https://medium.com/p/40bed03af38c) |
+| Thu, 20 Nov 2025 00:34:51 GMT | صیغه حلال سمنان صیغه شاهرود صیغه میامی صیغه دامغان صیغه مهدی شهر صیغه گرمسار صیغه سرخه صیغه آرادان | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/b1b2f2efe625) |
+| Thu, 20 Nov 2025 00:01:55 GMT | The Death of Annual Audits: Why AI Is Making Compliance a Real-Time Function | ThreatLens byGurdeep | [Read More](https://medium.com/p/e70e411e2a71) |
+| Wed, 19 Nov 2025 23:52:49 GMT | IT JOURNEY CompTIA A+ (Intro episode to new tech series). | Game Compute | [Read More](https://medium.com/p/0a43c59a164c) |
+| Wed, 19 Nov 2025 23:44:24 GMT | It's like being a superhero | Christian | [Read More](https://medium.com/p/7b46ad7400f8) |
+| Wed, 19 Nov 2025 23:40:14 GMT | THM — Basic Pentesting | ThackLab | [Read More](https://medium.com/p/c19ef53796f0) |
+| Wed, 19 Nov 2025 23:27:11 GMT | How Hackers Weaponize Tone, Timing, And Confidence | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c02efd9924cc) |
 | Wed, 19 Nov 2025 23:19:24 GMT | How Hackers Weaponize Tone, Timing, And Confidence | Rendur M. Saunter | [Read More](https://medium.com/p/01a9c62bb043) |
 | Wed, 19 Nov 2025 23:14:51 GMT | TryHackMe Writeup: Dogcat | Berkay AĞGÜL | [Read More](https://medium.com/p/3476777dd860) |
+| Wed, 19 Nov 2025 23:13:06 GMT | Source— TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/80dd066a8abe) |
 | Wed, 19 Nov 2025 23:11:53 GMT | AI Agents Are Breaking APIs — Here’s How Rate Limiting Must Evolve | Cyber-AppSec | [Read More](https://medium.com/p/22a4d4e0bdf7) |
 | Wed, 19 Nov 2025 23:01:32 GMT | Backing Bedrock’s Series A: The New Standard for Enterprise Data Security and Governance | Mangusta Capital | [Read More](https://medium.com/p/93a122fc5242) |
 | Wed, 19 Nov 2025 22:58:04 GMT | Passwords Remain Ridiculously Insecure | Matthew.Rosenquist | [Read More](https://medium.com/p/67dc960d9e1b) |
@@ -100,16 +113,3 @@ Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](htt
 | Wed, 19 Nov 2025 17:07:54 GMT | WEB-300 and OSWE 2025: Review and Insights | 0x5ea3o1f | [Read More](https://medium.com/p/b1d9197447aa) |
 | Wed, 19 Nov 2025 17:06:44 GMT | Why a Security Architecture Review Is Essential to Risk Management | Cindy Kaplan | [Read More](https://medium.com/p/ef1cff74435b) |
 | Wed, 19 Nov 2025 17:04:23 GMT | TryHackMe - Shock and Silence - WriteUp | Axoloth | [Read More](https://medium.com/p/5ded41464733) |
-| Wed, 19 Nov 2025 17:02:19 GMT | Building a Modern IDS with Snort 3 on Ubuntu | Murad  InfoSec | [Read More](https://medium.com/p/3c7cf9a5aa9d) |
-| Wed, 19 Nov 2025 17:00:41 GMT | Bug Bounty Commands Generator — A Practical Tool for Faster Pen-testing Workflows | HackByteX | [Read More](https://medium.com/p/f7d3d7a6addc) |
-| Wed, 19 Nov 2025 16:59:39 GMT | Artificial intelligence and digital security in online transactions | Jalal Mohammadzadeh | [Read More](https://medium.com/p/90ed509a9df5) |
-| Wed, 19 Nov 2025 16:54:40 GMT | How to Survive and Excel: A Guide to University Education in Information Technology (short ideas) | Ladislav Mariš | [Read More](https://medium.com/p/e3a752de8373) |
-| Wed, 19 Nov 2025 16:54:25 GMT | Praktikum Konfigurasi dan Administrasi Sistem Jaringan: Backup & Recovery | Muhammad Surya Saputro | [Read More](https://medium.com/p/2a2799ecf077) |
-| Wed, 19 Nov 2025 16:52:10 GMT | MCP Servers Are Electric | Patrick Walsh | [Read More](https://medium.com/p/a23d5dc9aba2) |
-| Wed, 19 Nov 2025 16:48:22 GMT | Hacker VS Hacker Writeup Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/aa519c0738ee) |
-| Wed, 19 Nov 2025 16:47:04 GMT | Adaptive Cognitive Deception Mesh (ACDM) | Anirban Mitra | [Read More](https://medium.com/p/56a46579be68) |
-| Wed, 19 Nov 2025 16:40:49 GMT | Bounty Hacker — TryHackMe Write-up | Pradithareddy | [Read More](https://medium.com/p/ee4920d9f746) |
-| Wed, 19 Nov 2025 16:38:38 GMT | Why We’re Investing in Bedrock Data: The AI-Native Data Security Platform | Gaurav Bhogale | [Read More](https://medium.com/p/48e9b8194cd6) |
-| Wed, 19 Nov 2025 16:37:42 GMT | The State Of Europe | Vox Vento | [Read More](https://medium.com/p/689bc1086f85) |
-| Wed, 19 Nov 2025 16:34:24 GMT | SSH with 2FA — An Extra Layer of Security for Linux Servers | Dominik Tracz | [Read More](https://medium.com/p/bd2e25e272a3) |
-| Wed, 19 Nov 2025 16:34:23 GMT | CSS is Spyware: How I Can Track Your Behavior Without JavaScript | Manavkaushal | [Read More](https://medium.com/p/4a43ae022787) |
