@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 21:33:19 GMT | Outbound - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/9aba36f48e83) |
+| Thu, 20 Nov 2025 21:31:03 GMT | Introducing MANTA — A Privacy-First AI Malware Analysis Tool Built on GitHub Pages | shresth paul | [Read More](https://medium.com/p/eb45dc9a61ea) |
+| Thu, 20 Nov 2025 21:29:27 GMT | Benchmarking the Sovereign Stack: Llama 3, Phi-3, and .NET 8 in Production | Ramazan Yavuz | [Read More](https://medium.com/p/5f6cd50830e1) |
+| Thu, 20 Nov 2025 21:22:30 GMT | Kernel Driver Network Manipulation | S12 - 0x12Dark Development | [Read More](https://medium.com/p/bf9752f16a1a) |
+| Thu, 20 Nov 2025 21:13:57 GMT | How to Extract Email Addresses from a Text File with Sublime | Jared Douville | [Read More](https://medium.com/p/c2545ebda0d6) |
 | Thu, 20 Nov 2025 21:05:33 GMT | The ROI of Shifting Security Left | Patrick Lefler | [Read More](https://medium.com/p/d0c9f893753f) |
 | Thu, 20 Nov 2025 21:04:32 GMT | SIEM: A Beginner’s Guide to Security Information and Event Management | Kameliaremaki | [Read More](https://medium.com/p/f52ac10b5142) |
 | Thu, 20 Nov 2025 20:56:39 GMT | Container Security for High Performance Linux Servers | Linux Guide | [Read More](https://medium.com/p/6f2ccef033cf) |
@@ -46,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 18:38:23 GMT | Building a Cybersecurity Home Lab — Part 4.1: Splunk Installation & Configuration | JBXSec | [Read More](https://medium.com/p/9c7fb879990d) |
 | Thu, 20 Nov 2025 18:35:04 GMT | Applying Cluster Wide mTLS Certificactes in Kubernetes (Ingress Nginx) | Luke Paris | [Read More](https://medium.com/p/0daee4104b19) |
 | Thu, 20 Nov 2025 18:30:39 GMT | How I Started Learning Cybersecurity From a Small Village in Chitral | Fida Ur Rahman | [Read More](https://medium.com/p/18fea2020661) |
+| Thu, 20 Nov 2025 18:29:00 GMT | Membongkar Supervised Learning: Dari Teori “y = f(x)” hingga Implementasi Python | SatriaWiyana | [Read More](https://medium.com/p/3e01a3819a0c) |
 | Thu, 20 Nov 2025 18:27:28 GMT | September Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/e95b18b177ed) |
 | Thu, 20 Nov 2025 18:26:30 GMT | The 2025 Data Breach Report: AI Saved Us, AI Doomed Us, and the US is Breaking Records (Again) | Cyberhaven | [Read More](https://medium.com/p/7cab2ea0ac74) |
 | Thu, 20 Nov 2025 18:10:06 GMT | Symfonos: 1 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/249290623b1d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 15:21:35 GMT | GenAI Is Empowering Cybercriminals to Create More Believable Scams | Jasmitha | [Read More](https://medium.com/p/62603490885e) |
 | Thu, 20 Nov 2025 15:21:22 GMT | Dark API Exploits: Why Companies Have Thousands of Unmonitored APIs That Leak Data Daily | Legal Thoughts | [Read More](https://medium.com/p/6eed3b358d88) |
 | Thu, 20 Nov 2025 15:13:16 GMT | Airline Security: How Acme Seals Protects Aviation Safety | M Wood | [Read More](https://medium.com/p/514305800743) |
-| Thu, 20 Nov 2025 15:06:01 GMT | Inside a Real World Claude MCP Roll-out | C. L. Beard | [Read More](https://medium.com/p/7562ca47d231) |
-| Thu, 20 Nov 2025 15:02:09 GMT | Cyber Briefing: 2025.11.20 | CyberMaterial | [Read More](https://medium.com/p/0546ae26bd51) |
-| Thu, 20 Nov 2025 14:52:03 GMT | Mikrotik hEX Lite RB750R2 İle İlk Anti-DDoS Denemeleri | Hakan ÇEVİK | [Read More](https://medium.com/p/90a12153eaa5) |
-| Thu, 20 Nov 2025 14:48:34 GMT | Vulnerability | Deep Dive Poet | [Read More](https://medium.com/p/101abf6ff44d) |
-| Thu, 20 Nov 2025 14:41:40 GMT | Detecting Active Directory Attacks With Splunks ( PART 1) | khalifa_farhat | [Read More](https://medium.com/p/0a404d8e12ff) |
-| Thu, 20 Nov 2025 14:41:28 GMT | What Betrayal Taught Me: The Pain I Survived and the Lessons I’ll Never Forget | Phillix Bissa | [Read More](https://medium.com/p/c65a016a2fef) |
