@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 07:28:25 GMT | Build Your First Domain Controller Lab: Windows Server & Client VM Setup. | Muniza Badar | [Read More](https://medium.com/p/1e3bedf7b198) |
+| Thu, 20 Nov 2025 07:24:33 GMT | API Security Using crAPI & Postman on OWASP | Gamuchirai | [Read More](https://medium.com/p/5f385a2864dd) |
+| Thu, 20 Nov 2025 07:24:14 GMT | Reimagining the Enterprise Service Desk for the Hybrid Workplace Era | ANSI Technologies | [Read More](https://medium.com/p/7e8d3af0513c) |
+| Thu, 20 Nov 2025 07:23:36 GMT | Python, WhatsApp, and a Silent Thief: Inside the Eternidade Stealer Campaign Targeting Brazil | Germano Costi | [Read More](https://medium.com/p/014519583f9d) |
+| Thu, 20 Nov 2025 07:23:33 GMT | Why Fraud Today Is Harder to Detect Than Ever ? | Gokul Nair | [Read More](https://medium.com/p/4a46bc8d6b60) |
+| Thu, 20 Nov 2025 07:23:03 GMT | I Thought I Was Being Paranoid About Untrusted Code — Until This Happened | ryuux05 | [Read More](https://medium.com/p/6925abbae346) |
+| Thu, 20 Nov 2025 07:17:22 GMT | The Silent Killer: Why Your “Secure” Code Might Already Be Compromised | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/47d06494264d) |
 | Thu, 20 Nov 2025 07:14:13 GMT | Market Forecast: Enterprise Email Security | Umangp | [Read More](https://medium.com/p/de52ab8a0dbe) |
 | Thu, 20 Nov 2025 07:10:37 GMT | The Day Our Office Went Dark — And What It Taught Me About Power Backup Solutions | Sarah | [Read More](https://medium.com/p/1ce54e241c69) |
 | Thu, 20 Nov 2025 07:10:13 GMT | How Tsutomu Shimomura Hunted Down the World’s Most Wanted Hacker, Kevin Mitnick | David SEHYEON Baek | [Read More](https://medium.com/p/23b4649a2bcb) |
@@ -107,10 +114,3 @@ By Pavan Teja Somisetty | Pavan Naidu | [Read More](https://medium.com/p/7860a59
 | Wed, 19 Nov 2025 21:40:45 GMT | CyberDefenders - Amadey Lab - Fácil - Meu passo a passo | Arthur Gomez Aquino | [Read More](https://medium.com/p/78a30d3bc4bb) |
 | Wed, 19 Nov 2025 21:40:04 GMT | Cross Site Scripting (XSS) | Enes Demir | [Read More](https://medium.com/p/410d85109580) |
 | Wed, 19 Nov 2025 21:37:53 GMT | CSRF — Cross-site Request Forgery nedir ? | Enes Demir | [Read More](https://medium.com/p/3d512f9d54f7) |
-| Wed, 19 Nov 2025 21:36:20 GMT | IDOR — Insecure Direct Object Referance Nedir | Enes Demir | [Read More](https://medium.com/p/b38e6b3feba0) |
-| Wed, 19 Nov 2025 21:20:35 GMT | ElasticSecOpsCoPilot — Autonomous IOC Enrichment for Elastic Security | shresth paul | [Read More](https://medium.com/p/407717b6a4ab) |
-| Wed, 19 Nov 2025 21:19:33 GMT | Welcome — What I’ll Be Writing About on Medium | Hamza Gharandoq | [Read More](https://medium.com/p/6a2033fe76b5) |
-| Wed, 19 Nov 2025 21:17:37 GMT | I Broke Down in the Shower. Here’s What Actually Helped. | Inner Spiral | [Read More](https://medium.com/p/8e15d0bf072d) |
-| Wed, 19 Nov 2025 21:17:30 GMT | Kimlik Doğrulama Zafiyetlerine Giriş: Modern Web Uygulamalarında Görülen Yaygın Hatalar | Songül Kızılay | [Read More](https://medium.com/p/9fdced04ae58) |
-| Wed, 19 Nov 2025 21:08:41 GMT | Reprendre le contrôle de ses données : Mon installation Syncthing ultime (Docker, Nginx & MikroTik) | RAPATT | [Read More](https://medium.com/p/1940806a425b) |
-| Wed, 19 Nov 2025 21:04:37 GMT | Cybersecurity Basics Everyone Gets Wrong (And How to Fix Them) | David Constance | [Read More](https://medium.com/p/0b45381c0b27) |
