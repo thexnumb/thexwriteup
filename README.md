@@ -24,6 +24,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 22:11:53 GMT | Cybersecurity for Small Biz Owners Who’d Rather Be Doing Literally Anything Else | Danny Kowalsky | [Read More](https://medium.com/p/f8ce5865424a) |
 | Thu, 20 Nov 2025 22:09:52 GMT | Mastering GitHub Actions: Building Enterprise-Grade Secret Management with HashiCorp Vault and OIDC | Salwan Mohamed | [Read More](https://medium.com/p/97e8fb550306) |
 | Thu, 20 Nov 2025 22:05:27 GMT | How to Access the Dark Web Safely in 2025 | Tor BBB | [Read More](https://medium.com/p/58a5dd053e60) |
+| Thu, 20 Nov 2025 21:58:02 GMT | WiFi Güvenliği Serisi #1: Görünmeyen Ağlar, Sinyallerin Dili ve Protokollerin Zafiyetleri | Keremduz | [Read More](https://medium.com/p/050a35c2c1e0) |
 | Thu, 20 Nov 2025 21:47:12 GMT | Why “Unreliable” UDP Is the Best Choice for VPNs | Vishnu Unnikrishnan | [Read More](https://medium.com/p/ae61e34176c3) |
 | Thu, 20 Nov 2025 21:38:08 GMT | Manual Integral de Análisis de Riesgo Basado en Factor Humano (H-FRA) | Mauricio Alan Illera Diaz | [Read More](https://medium.com/p/88351d91ded4) |
 | Thu, 20 Nov 2025 21:33:19 GMT | Outbound - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/9aba36f48e83) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 16:36:55 GMT | ️ Secure and Smart Storage: Why Ace Grease Service Provides the Best Used Cooking Oil Containers | Meeryclear | [Read More](https://medium.com/p/0cfb41c84411) |
 | Thu, 20 Nov 2025 16:22:28 GMT | Digital Fingerprints: How Your Online Footprint Can Solve Crimes Or Implicate You | Paradise technologies Inc | [Read More](https://medium.com/p/e863325a7dfd) |
 | Thu, 20 Nov 2025 16:19:43 GMT | Secure and Smart Storage: Why Ace Grease Service Provides the Best Used Cooking Oil Containers | Marketing | [Read More](https://medium.com/p/fd68de677dc0) |
-| Thu, 20 Nov 2025 16:14:29 GMT | Security Guard Jobs in Ottawa 2026–5 Qualities We Look For When Hiring | Hydra Security | [Read More](https://medium.com/p/9de251d6e984) |
