@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 04:15:03 GMT | GraphQLScoper | bineeg | [Read More](https://medium.com/p/45f51f29a194) |
+| Thu, 20 Nov 2025 04:12:04 GMT | 99% of Developers Don’t Understand JWT and OAuth | Jatin Prasad | [Read More](https://medium.com/p/f156fc297dcb) |
+| Thu, 20 Nov 2025 04:02:02 GMT | Breaking Down Webmin File Disclosure Vulnerability — A Lab Walkthrough | Vivektumma27 | [Read More](https://medium.com/p/0f44675007bc) |
+| Thu, 20 Nov 2025 03:54:36 GMT | Cloudflare outage on November 18, 2025
+By Pavan Teja Somisetty | Pavan Naidu | [Read More](https://medium.com/p/7860a597db3c) |
 | Thu, 20 Nov 2025 03:33:29 GMT | EdgeStepper: Trojan di Tingkat Router yang Bikin Update Software jadi Malware | Adi Saputra | [Read More](https://medium.com/p/0c798873dab9) |
 | Thu, 20 Nov 2025 03:32:31 GMT | How I would apply 5 IT Lessons to my Professional Development | Asif Sayed | [Read More](https://medium.com/p/b9ccd901e9ac) |
 | Thu, 20 Nov 2025 03:32:04 GMT | 5 Key Steps to Harden Node.js for Cloud Environments | Arunangshu Das | [Read More](https://medium.com/p/aa08c76d899a) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 18:21:45 GMT | Cloud Computing Is Simpler Than You Think : Why It Matters in 2025 | Mughira Ahmed | [Read More](https://medium.com/p/354f9c77291d) |
 | Wed, 19 Nov 2025 18:20:44 GMT | Building Trust in the Digital Age: How Blockchain Transforms Document Integrity | Ylium Token | [Read More](https://medium.com/p/d1c0d05983ed) |
 | Wed, 19 Nov 2025 18:20:31 GMT | OWASP Top 10: 2025 — Web Application Vulnerabilities (PART 1) | 0xBinaryOrbit | [Read More](https://medium.com/p/c3fdc2911c45) |
-| Wed, 19 Nov 2025 18:20:09 GMT | Cyber Infinity CTF 2025 — Writeup | Muhammad Junaid Akhtar | [Read More](https://medium.com/p/7346b8a088f1) |
-| Wed, 19 Nov 2025 18:16:06 GMT | !! | Vansh Sharma | [Read More](https://medium.com/p/ef6cea747491) |
-| Wed, 19 Nov 2025 18:14:46 GMT | OWASP Top 10: 2025 — Web Application Vulnerabilities (PART 1) | 0xBinaryOrbit | [Read More](https://medium.com/p/f1c05232b417) |
-| Wed, 19 Nov 2025 18:11:37 GMT | Deep Dive into the iOS File System. | Kamal | [Read More](https://medium.com/p/4506a64fb21a) |
