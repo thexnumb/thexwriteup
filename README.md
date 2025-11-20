@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 19:07:11 GMT | Unhooking ntdll.dll in Rust: A Beginner-Friendly Guide to Bypassing EDR Hooks | Shaheer Yasir | [Read More](https://medium.com/p/ca113c22ef01) |
+| Thu, 20 Nov 2025 19:05:57 GMT | A Security Vulnerability That Could Have Led to Full Twitter Account Takeover | Berat Blmz | [Read More](https://medium.com/p/6598a58de4c6) |
+| Thu, 20 Nov 2025 19:02:11 GMT | First Documented Large-Scale AI-Orchestrated Cyberattack Raises New Security Concerns | ODSC - Open Data Science | [Read More](https://medium.com/p/123c070c4e14) |
+| Thu, 20 Nov 2025 18:58:30 GMT | AI Governance = Data Governance (A Data Engineer’s Perspective) | Egezon Baruti | [Read More](https://medium.com/p/4e550c662a84) |
+| Thu, 20 Nov 2025 18:55:12 GMT | Overlooked Android Vulnerability: OAuth custom scheme hijacking | Abdullah Ahmed aka EntropyDrifter | [Read More](https://medium.com/p/4e7dbaad1678) |
+| Thu, 20 Nov 2025 18:54:13 GMT | How semantic caching transforms enterprise AI economics and security architectures | Valdez Ladd | [Read More](https://medium.com/p/c550c717984b) |
+| Thu, 20 Nov 2025 18:50:08 GMT | How Startups Are Winning With Edge-First, API-Driven Web Architecture | Deepak Srivastava | [Read More](https://medium.com/p/2e9da27db198) |
+| Thu, 20 Nov 2025 18:39:16 GMT | How TLS 1.2 Uses RSA to Build a Secure Connection (Step-by-Step Guide) | Pubudu Madushan | [Read More](https://medium.com/p/1463ab692562) |
+| Thu, 20 Nov 2025 18:38:23 GMT | Building a Cybersecurity Home Lab — Part 4.1: Splunk Installation & Configuration | JBXSec | [Read More](https://medium.com/p/9c7fb879990d) |
+| Thu, 20 Nov 2025 18:35:04 GMT | Applying Cluster Wide mTLS Certificactes in Kubernetes (Ingress Nginx) | Luke Paris | [Read More](https://medium.com/p/0daee4104b19) |
+| Thu, 20 Nov 2025 18:30:39 GMT | How I Started Learning Cybersecurity From a Small Village in Chitral | Fida Ur Rahman | [Read More](https://medium.com/p/18fea2020661) |
 | Thu, 20 Nov 2025 18:27:28 GMT | September Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/e95b18b177ed) |
+| Thu, 20 Nov 2025 18:26:30 GMT | The 2025 Data Breach Report: AI Saved Us, AI Doomed Us, and the US is Breaking Records (Again) | Cyberhaven | [Read More](https://medium.com/p/7cab2ea0ac74) |
 | Thu, 20 Nov 2025 18:10:06 GMT | Symfonos: 1 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/249290623b1d) |
 | Thu, 20 Nov 2025 18:05:22 GMT | Phase 1: Infrastructure & Network Segmentation | Alex Wilcox | [Read More](https://medium.com/p/1d41729a6cb4) |
 | Thu, 20 Nov 2025 17:53:25 GMT | How AI is Breaking Cybersecurity (And Also Fixing It) | Hania Khan | [Read More](https://medium.com/p/941a2554eb60) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 13:49:50 GMT | When Your Expertise Becomes Obsolete | Kevin Novak | [Read More](https://medium.com/p/dda7014075d7) |
 | Thu, 20 Nov 2025 13:48:19 GMT | How Did I Hack a Website By Editing JSON | Ibtissam | [Read More](https://medium.com/p/2e7814920be2) |
 | Thu, 20 Nov 2025 13:41:02 GMT | How I Found a Bug Fast With Git Bisect | Gaurav | [Read More](https://medium.com/p/fc07d36087bb) |
-| Thu, 20 Nov 2025 13:30:26 GMT | TryHackMe Anonymous Room — Complete Beginner’s Walkthrough | Attiqorakzai | [Read More](https://medium.com/p/9d72b7abaafd) |
-| Thu, 20 Nov 2025 13:29:44 GMT | Why Local Security Services Matter More Than Ever | Security services Near Me | [Read More](https://medium.com/p/965284b86a50) |
-| Thu, 20 Nov 2025 13:28:05 GMT | Fordefi partners with Blockaid to bring real-time transaction screening to institutional wallets | Trey Archambeau | [Read More](https://medium.com/p/8929491e4d79) |
-| Thu, 20 Nov 2025 13:27:47 GMT | For months, I looked into why it’s so hard to find a good tech agency. | Kshitij Dua | [Read More](https://medium.com/p/321ac4f4e037) |
-| Thu, 20 Nov 2025 13:25:25 GMT | Data Heist  Hackviser Walkthrough | HAIDAR MUSAMEH | [Read More](https://medium.com/p/bcff138a725a) |
-| Thu, 20 Nov 2025 13:23:08 GMT | ️ Blog 53: What Are Name Servers, Why They Are Important? Hosted Zones in Amazon Route 53 | Prutha_Dongre | [Read More](https://medium.com/p/50c118898948) |
-| Thu, 20 Nov 2025 13:18:52 GMT | AI in Cybersecurity Detecting Threats Before They Strike | Codearies | [Read More](https://medium.com/p/8ecb514ec6f4) |
-| Thu, 20 Nov 2025 13:16:32 GMT | Blue — TryHackMe Writeup | Pradithareddy | [Read More](https://medium.com/p/c52dc524c723) |
-| Thu, 20 Nov 2025 13:04:25 GMT | Fusion Centers and the Structural Transformation of Intelligence in the Twenty-First Century | Andrey Spiridonov | [Read More](https://medium.com/p/24c97c1f8c92) |
-| Thu, 20 Nov 2025 13:02:36 GMT | Education, Training, and the Missing Infrastructure of an Intelligence Profession | Andrey Spiridonov | [Read More](https://medium.com/p/5afa26a89793) |
-| Thu, 20 Nov 2025 13:02:03 GMT | How AI Actually Sees Your Content — And Why It Matters More Than SEO | Jen Anderson, PhD | [Read More](https://medium.com/p/f75b986a5347) |
-| Thu, 20 Nov 2025 13:02:02 GMT | Detecting Web DDoS Walkthrough. TryHackMe. | Lintu Oommen | [Read More](https://medium.com/p/fffdabfab96b) |
