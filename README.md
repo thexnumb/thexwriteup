@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 05:10:07 GMT | Build Your Future with an Advanced Cyber Security Education Program | Edglobalacademy | [Read More](https://medium.com/p/c041d114958e) |
+| Thu, 20 Nov 2025 05:06:02 GMT | Securing the Stateless Backend: Identity and Isolation in Java Microservices | cyber_pix | [Read More](https://medium.com/p/9006d3e0bb3f) |
+| Thu, 20 Nov 2025 04:51:09 GMT | The Rise of Organized Cross-Border Fraud Networks in Asia: Structural Risks for Global Governance | Raven LyΣ | [Read More](https://medium.com/p/157b09461b8b) |
+| Thu, 20 Nov 2025 04:47:49 GMT | Quantitative Risk Scoring for Autonomous AI Agents: Integrating Intent, Capabilities, and… | Ruchik Dave | [Read More](https://medium.com/p/a83a78ae9ce9) |
+| Thu, 20 Nov 2025 04:44:37 GMT | The Rise of Data Breach Lawsuits: How Cyberattacks and AI Powered Phishing Are Fueling New Class… | Dilip Barot | [Read More](https://medium.com/p/327bcd8d95cc) |
 | Thu, 20 Nov 2025 04:36:02 GMT | P4 Bugs every beginner can find in 2025 | ProwlSec | [Read More](https://medium.com/p/1c1094719e60) |
 | Thu, 20 Nov 2025 04:31:15 GMT | The Phishing Playbook of 2025: How AI and “Crime-as-a-Service” Changed the Game | Sidhantchaurasiya | [Read More](https://medium.com/p/d56945989f7c) |
 | Thu, 20 Nov 2025 04:15:03 GMT | GraphQLScoper | bineeg | [Read More](https://medium.com/p/45f51f29a194) |
@@ -108,8 +113,3 @@ By Pavan Teja Somisetty | Pavan Naidu | [Read More](https://medium.com/p/7860a59
 | Wed, 19 Nov 2025 18:36:55 GMT | Buffer Overflows, Part 1: | Poojan Ghetiya | [Read More](https://medium.com/p/44b3255b489f) |
 | Wed, 19 Nov 2025 18:35:48 GMT | Cloudflare Outage 2025 | Yaswanth M | [Read More](https://medium.com/p/c53242bd0b36) |
 | Wed, 19 Nov 2025 18:34:58 GMT | The Ultimate Guide to Security Workforce Management Software Features | Teona | [Read More](https://medium.com/p/1f6166123515) |
-| Wed, 19 Nov 2025 18:33:12 GMT | OWASP Top 10: 2025 — Web Application Vulnerabilities (PART 2) | 0xBinaryOrbit aka Faisal Khan | [Read More](https://medium.com/p/31a2188c8833) |
-| Wed, 19 Nov 2025 18:31:21 GMT | Happy Men’s Day to the Men Who Break Before They Bend | Gursahib Singh | [Read More](https://medium.com/p/3e16c8cf8237) |
-| Wed, 19 Nov 2025 18:24:18 GMT | Introduction to ShieldLabs: Real-Time Risk Scoring for Modern Web Traffic | ShieldLabs | [Read More](https://medium.com/p/af694afcf4c9) |
-| Wed, 19 Nov 2025 18:23:05 GMT | Cyber Kill Chain 1.1 : Pasif Bilgi Toplama (OSINT) Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/b5d58d7a8378) |
-| Wed, 19 Nov 2025 18:21:45 GMT | Cloud Computing Is Simpler Than You Think : Why It Matters in 2025 | Mughira Ahmed | [Read More](https://medium.com/p/354f9c77291d) |
