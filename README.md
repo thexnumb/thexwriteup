@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 15:13:16 GMT | Airline Security: How Acme Seals Protects Aviation Safety | M Wood | [Read More](https://medium.com/p/514305800743) |
+| Thu, 20 Nov 2025 15:06:01 GMT | Inside a Real World Claude MCP Roll-out | C. L. Beard | [Read More](https://medium.com/p/7562ca47d231) |
+| Thu, 20 Nov 2025 15:02:09 GMT | Cyber Briefing: 2025.11.20 | CyberMaterial | [Read More](https://medium.com/p/0546ae26bd51) |
+| Thu, 20 Nov 2025 14:52:03 GMT | Mikrotik hEX Lite RB750R2 İle İlk Anti-DDoS Denemeleri | Hakan ÇEVİK | [Read More](https://medium.com/p/90a12153eaa5) |
+| Thu, 20 Nov 2025 14:48:34 GMT | Vulnerability | Deep Dive Poet | [Read More](https://medium.com/p/101abf6ff44d) |
+| Thu, 20 Nov 2025 14:41:40 GMT | Detecting Active Directory Attacks With Splunks ( PART 1) | khalifa_farhat | [Read More](https://medium.com/p/0a404d8e12ff) |
+| Thu, 20 Nov 2025 14:41:28 GMT | What Betrayal Taught Me: The Pain I Survived and the Lessons I’ll Never Forget | Phillix Bissa | [Read More](https://medium.com/p/c65a016a2fef) |
+| Thu, 20 Nov 2025 14:39:57 GMT | CISA Raises Alarm Over Active Google Chrome 0-Day Exploit | Jasmitha | [Read More](https://medium.com/p/a7e4605f9505) |
 | Thu, 20 Nov 2025 14:35:39 GMT | I Secured My Cloud Network by Breaking Its Internet Connection | Gideon John Utong | [Read More](https://medium.com/p/3a586ba65105) |
 | Thu, 20 Nov 2025 14:32:15 GMT | When “Just Following Guidelines” Isn’t Enough | Nwosu Rosemary | [Read More](https://medium.com/p/d66700c31940) |
 | Thu, 20 Nov 2025 14:32:14 GMT | The Hidden Failure Pattern the 2025 AWS, Azure & Cloudflare Outages | Soumalya De | [Read More](https://medium.com/p/3af14e58a1c5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 10:21:25 GMT | AI in Cybersecurity: Tool or Threat? | Lanvaus | [Read More](https://medium.com/p/2961ba4719c2) |
 | Thu, 20 Nov 2025 10:20:20 GMT | The 3 Most Subtle Solidity Bugs We Found in Audits (And How We Found Them) | Extropy.IO | [Read More](https://medium.com/p/31eb5757c327) |
 | Thu, 20 Nov 2025 10:18:05 GMT | Fintech Compliance in 2025: Simple Strategies for Complex Regulations | SecureSlate | [Read More](https://medium.com/p/f17729de18a5) |
-| Thu, 20 Nov 2025 10:15:12 GMT | Cyber Security Services That Protect Your Business from Ransomware Attacks | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/d5fcfb281359) |
-| Thu, 20 Nov 2025 10:13:46 GMT | Stop Guessing — Samsung A Series Delivers Exactly This | Hana Saito | [Read More](https://medium.com/p/cfe0e72ea003) |
-| Thu, 20 Nov 2025 10:13:34 GMT | Acceptance Criteria: How to Define and Deliver User Stories | TaskFord | [Read More](https://medium.com/p/c31815a372aa) |
-| Thu, 20 Nov 2025 10:11:18 GMT | DockerLabs Writeup — Reflection (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a5f93732671b) |
-| Thu, 20 Nov 2025 10:08:48 GMT | Leveraging Deep Learning for Real-Time Threat Detection in Public Spaces: Lessons from the Delhi… | Rohit Thakur | [Read More](https://medium.com/p/4c23da327883) |
-| Thu, 20 Nov 2025 10:05:26 GMT | Top Oracle PeopleSoft Implementation Pitfalls to Watch Out For | DPR Solutions Inc | [Read More](https://medium.com/p/0cc32eac2e7a) |
-| Thu, 20 Nov 2025 10:05:12 GMT | Keyloggers: Friend or Foe? What You Need to Know | SilentInject | [Read More](https://medium.com/p/ee8037c3c34e) |
-| Thu, 20 Nov 2025 09:58:49 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/8ba26d8cc7fa) |
