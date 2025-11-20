@@ -12,12 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 03:33:29 GMT | EdgeStepper: Trojan di Tingkat Router yang Bikin Update Software jadi Malware | Adi Saputra | [Read More](https://medium.com/p/0c798873dab9) |
+| Thu, 20 Nov 2025 03:32:31 GMT | How I would apply 5 IT Lessons to my Professional Development | Asif Sayed | [Read More](https://medium.com/p/b9ccd901e9ac) |
+| Thu, 20 Nov 2025 03:32:04 GMT | 5 Key Steps to Harden Node.js for Cloud Environments | Arunangshu Das | [Read More](https://medium.com/p/aa08c76d899a) |
+| Thu, 20 Nov 2025 03:18:05 GMT | Silver Fox APT’s Playbook: How a Signed Driver Became a Weapon Against Security Software | Deven Chhajed | [Read More](https://medium.com/p/65948263c376) |
+| Thu, 20 Nov 2025 03:16:53 GMT | 30 Days of Red Team: Day 8 — Windows Persistence Mechanisms | Maxwell Cross | [Read More](https://medium.com/p/bee31a6ba75d) |
+| Thu, 20 Nov 2025 03:10:58 GMT | In real world scenario if a company is located in different geographical locations, In that case… | Amitabha | [Read More](https://medium.com/p/2651ad5fe57e) |
 | Thu, 20 Nov 2025 03:02:24 GMT | Understanding Forward and Reverse Proxies | Mohomedrushdi | [Read More](https://medium.com/p/66f0d90fc6f4) |
 | Thu, 20 Nov 2025 02:55:09 GMT | 5 Critical Actively Exploited Vulnerabilities While AI Bubble Shows Cracks: What Security Teams… | David Grice | [Read More](https://medium.com/p/0db01d23190b) |
 | Thu, 20 Nov 2025 02:35:13 GMT | How Incidents, Events, and Logs Work Together in Cybersecurity | Nagendra Korasikha | [Read More](https://medium.com/p/0d65192467b7) |
 | Thu, 20 Nov 2025 02:32:52 GMT | The Internet Is Becoming Less Open — And We’re All Feeling It | Sam Writes Security | [Read More](https://medium.com/p/3dc14c8c93e7) |
 | Thu, 20 Nov 2025 02:30:41 GMT | DemonScan – Seeing the Code the Way a Security Mind Sees the World | Nabharaj Sawant | [Read More](https://medium.com/p/e735c6517afc) |
 | Thu, 20 Nov 2025 02:10:35 GMT | From Wi-Fi Hacks to India’s #1 Red Teamer: The Nikhil Srivastava Story | Cyber Unbound | [Read More](https://medium.com/p/4cc5d5d3179c) |
+| Thu, 20 Nov 2025 02:08:55 GMT | Integrasi Wazuh dan IDS Suricata | Axel Liang Gono | [Read More](https://medium.com/p/c6b009cfee9c) |
 | Thu, 20 Nov 2025 02:07:02 GMT | Weekly Threat Intelligence Report 17 Nov 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/610fbd3b9bc6) |
 | Thu, 20 Nov 2025 02:05:06 GMT | A Beginner’s Guide to Security Information and Event Management (SIEM) | Samina Perveen | [Read More](https://medium.com/p/30904fe4afcb) |
 | Thu, 20 Nov 2025 02:04:37 GMT | 0-Day Hunting Guide ️‍♂️: Recon Techniques Nobody Talks About | Vipul Sonule | [Read More](https://medium.com/p/d37fcaebf560) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 18:16:06 GMT | !! | Vansh Sharma | [Read More](https://medium.com/p/ef6cea747491) |
 | Wed, 19 Nov 2025 18:14:46 GMT | OWASP Top 10: 2025 — Web Application Vulnerabilities (PART 1) | 0xBinaryOrbit | [Read More](https://medium.com/p/f1c05232b417) |
 | Wed, 19 Nov 2025 18:11:37 GMT | Deep Dive into the iOS File System. | Kamal | [Read More](https://medium.com/p/4506a64fb21a) |
-| Wed, 19 Nov 2025 18:05:13 GMT | The Untold Story of Mirai Botnet | Abdullah Javeed | [Read More](https://medium.com/p/71059a5b4a15) |
-| Wed, 19 Nov 2025 18:04:23 GMT | LetsDefend - SOC Fundamentals Training | RITESH RAJPUT | [Read More](https://medium.com/p/67333b98a4f9) |
-| Wed, 19 Nov 2025 18:02:19 GMT | Help! Help! I’m Being Robbed in 2033 Today! | TD | [Read More](https://medium.com/p/2b2833e7c6eb) |
-| Wed, 19 Nov 2025 17:47:19 GMT | Why MS Excel Is the Superpower Every IT Student Needs | Ladislav Mariš | [Read More](https://medium.com/p/955dedb9c74e) |
-| Wed, 19 Nov 2025 17:47:16 GMT | ✨ The Hacker Who Could See Feelings | Aradhya Sharma | [Read More](https://medium.com/p/96d9d2bf731b) |
-| Wed, 19 Nov 2025 17:38:11 GMT | Stop Hitting ‘Later’: Software Updates are Mandatory Security Patches! | Max Farnga | [Read More](https://medium.com/p/bf56c6e84d1a) |
-| Wed, 19 Nov 2025 17:36:51 GMT | Balancer, 0x48cf, dTrinity: $121M Lost to Rounding Bugs, Upgrade Backdoors, and Missing Auth | Olympix | [Read More](https://medium.com/p/c5d02358b735) |
