@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 09:41:32 GMT | Samsung A Series Is Cheaper Than You Think — And Better | Luna Collins | [Read More](https://medium.com/p/46ebdbb2ac14) |
+| Thu, 20 Nov 2025 09:35:03 GMT | Comprehensive Airport and Event Security Solutions - Barzo Security | Travel time | [Read More](https://medium.com/p/ea4158049de2) |
+| Thu, 20 Nov 2025 09:32:21 GMT | IT Services Provider vs In-House IT: Costs and Risks | Tech Rajendra | [Read More](https://medium.com/p/cc45dc117463) |
+| Thu, 20 Nov 2025 09:30:21 GMT | Key Benefits of Implementing ServiceNow Financial Management | Alex s | [Read More](https://medium.com/p/1a48823b3bd0) |
+| Thu, 20 Nov 2025 09:24:50 GMT | Essential Security Tips For Microsoft Windows 10 Pro Users | Rory Deleon | [Read More](https://medium.com/p/8b41d1c9dee1) |
+| Thu, 20 Nov 2025 09:24:32 GMT | Samsung A Series: Small Price, Huge Surprise | Zara Everly | [Read More](https://medium.com/p/ca241e2d2f77) |
+| Thu, 20 Nov 2025 09:24:30 GMT | Having a cyber insurance: Is NIS2 necessary? | expermentus | [Read More](https://medium.com/p/94cf0daa1805) |
+| Thu, 20 Nov 2025 09:20:53 GMT | Stay Safe Anywhere: Why the Sabre Personal Alarm with LED Light is a Must-Have | Criminology Expert | [Read More](https://medium.com/p/b448c9302464) |
+| Thu, 20 Nov 2025 09:20:47 GMT | What is the Blockchain Triangle? Features of a Blockchain | Ali Sultanalizadeh | [Read More](https://medium.com/p/db628ce19ef6) |
+| Thu, 20 Nov 2025 09:19:36 GMT | How TechIncisive Helped a Growing Enterprise Strengthen Its Data Protection & Privacy Framework | Devarshi Acharya | [Read More](https://medium.com/p/7f72bec4441f) |
 | Thu, 20 Nov 2025 09:17:26 GMT | SaaS Security Is the New Perimeter: Why Shadow SaaS Is Exploding | Jay C Roberts | [Read More](https://medium.com/p/db7463772d1b) |
 | Thu, 20 Nov 2025 09:17:16 GMT | Your Organisation Already Deployed AI – You Just Didn’t Govern It | AXSAS | [Read More](https://medium.com/p/a6a062cb3d8b) |
 | Thu, 20 Nov 2025 09:11:19 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/8cda7546476b) |
@@ -104,13 +114,3 @@ By Pavan Teja Somisetty | Pavan Naidu | [Read More](https://medium.com/p/7860a59
 | Thu, 20 Nov 2025 03:16:53 GMT | 30 Days of Red Team: Day 8 — Windows Persistence Mechanisms | Maxwell Cross | [Read More](https://medium.com/p/bee31a6ba75d) |
 | Thu, 20 Nov 2025 03:10:58 GMT | In real world scenario if a company is located in different geographical locations, In that case… | Amitabha | [Read More](https://medium.com/p/2651ad5fe57e) |
 | Thu, 20 Nov 2025 03:02:24 GMT | Understanding Forward and Reverse Proxies | Mohomedrushdi | [Read More](https://medium.com/p/66f0d90fc6f4) |
-| Thu, 20 Nov 2025 02:55:09 GMT | 5 Critical Actively Exploited Vulnerabilities While AI Bubble Shows Cracks: What Security Teams… | David Grice | [Read More](https://medium.com/p/0db01d23190b) |
-| Thu, 20 Nov 2025 02:35:13 GMT | How Incidents, Events, and Logs Work Together in Cybersecurity | Nagendra Korasikha | [Read More](https://medium.com/p/0d65192467b7) |
-| Thu, 20 Nov 2025 02:32:52 GMT | The Internet Is Becoming Less Open — And We’re All Feeling It | Sam Writes Security | [Read More](https://medium.com/p/3dc14c8c93e7) |
-| Thu, 20 Nov 2025 02:30:41 GMT | DemonScan – Seeing the Code the Way a Security Mind Sees the World | Nabharaj Sawant | [Read More](https://medium.com/p/e735c6517afc) |
-| Thu, 20 Nov 2025 02:10:35 GMT | From Wi-Fi Hacks to India’s #1 Red Teamer: The Nikhil Srivastava Story | Cyber Unbound | [Read More](https://medium.com/p/4cc5d5d3179c) |
-| Thu, 20 Nov 2025 02:08:55 GMT | Integrasi Wazuh dan IDS Suricata | Axel Liang Gono | [Read More](https://medium.com/p/c6b009cfee9c) |
-| Thu, 20 Nov 2025 02:07:02 GMT | Weekly Threat Intelligence Report 17 Nov 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/610fbd3b9bc6) |
-| Thu, 20 Nov 2025 02:05:06 GMT | A Beginner’s Guide to Security Information and Event Management (SIEM) | Samina Perveen | [Read More](https://medium.com/p/30904fe4afcb) |
-| Thu, 20 Nov 2025 02:04:37 GMT | 0-Day Hunting Guide ️‍♂️: Recon Techniques Nobody Talks About | Vipul Sonule | [Read More](https://medium.com/p/d37fcaebf560) |
-| Thu, 20 Nov 2025 02:04:20 GMT | They Clicked One Link. Within 24 Hours, Their Entire Business Was Gone | Noel | [Read More](https://medium.com/p/fda0e89e70b0) |
