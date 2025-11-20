@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 06:30:05 GMT | The Code You Don’t See Is the One Driving Your Business Forward | Tech Immortals | [Read More](https://medium.com/p/3328e775ba3b) |
+| Thu, 20 Nov 2025 06:25:52 GMT | Why Security Guard Services Are Essential Today: A Complete Guide to Top Security Services | Ciss India | [Read More](https://medium.com/p/7c9c5df83901) |
+| Thu, 20 Nov 2025 06:18:32 GMT | East Asia’s Strategic Crossroads: Rethinking Economic Dependence on China | MASUM BILLAH | [Read More](https://medium.com/p/910cc1de9d62) |
+| Thu, 20 Nov 2025 06:17:54 GMT | SIEM ( Security Information And Event Management) SYSTEMS | Nishant Lungare | [Read More](https://medium.com/p/076b857e9271) |
+| Thu, 20 Nov 2025 06:16:14 GMT | HTB WhyFind | Harjot Singh | [Read More](https://medium.com/p/069f85675f34) |
+| Thu, 20 Nov 2025 06:14:38 GMT | Day 79- What is Zscaler authentication? | unica 02 | [Read More](https://medium.com/p/578b983e1f4a) |
+| Thu, 20 Nov 2025 06:08:14 GMT | From Compliance to Competitive Edge: Rethinking Cybersecurity Strategy | IPSpecialist | [Read More](https://medium.com/p/59db74c2848b) |
+| Thu, 20 Nov 2025 06:04:59 GMT | Guarding Your React Native App — Common Security Pitfalls & How to Avoid Them | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/d78ef6c2790a) |
+| Thu, 20 Nov 2025 06:02:37 GMT | Choosing the Right Security Attendance Register for Your Business | Joven A Rodrigues | [Read More](https://medium.com/p/e869d9e803b1) |
+| Thu, 20 Nov 2025 05:59:55 GMT | The Day the Internet Blinked: Why Your Favorite Sites Just Vanished | Proditive - Smart Apps . Maximum Productivity | [Read More](https://medium.com/p/6a63db344a5b) |
+| Thu, 20 Nov 2025 05:53:16 GMT | The Machine Doesn’t Care: Why Intent is the Only Thing That Matters in the AI Debate | robb.fladry | [Read More](https://medium.com/p/b6c9368201e5) |
+| Thu, 20 Nov 2025 05:50:33 GMT | Why GSDC’s Ethical Hacking Foundation Could Be Your Best Career Move | Tomcruise | [Read More](https://medium.com/p/ededfce6349c) |
+| Thu, 20 Nov 2025 05:46:11 GMT | [Android] Root Detection Bypass Using Frida — Writeup 1 | MrEhAcKeR | [Read More](https://medium.com/p/85994a28ced2) |
+| Thu, 20 Nov 2025 05:45:43 GMT | Digital Shadows: When Hackers Become Stalkers and Blockchain Can Fight Back | Criminal Justice Chris | [Read More](https://medium.com/p/c53cf3f01234) |
 | Thu, 20 Nov 2025 05:36:45 GMT | The Essential Guide to Vulnerability Assessment: Why It Matters More Than Ever | Devarshi Acharya | [Read More](https://medium.com/p/86684ae03596) |
+| Thu, 20 Nov 2025 05:28:48 GMT | Why In-App Protection Is Becoming the New Standard for Digital Security | Gargiben | [Read More](https://medium.com/p/f13ad816dab2) |
 | Thu, 20 Nov 2025 05:23:05 GMT | Anthropic’s “AI-orchestrated” hack | Anand Raj | [Read More](https://medium.com/p/1db76d4cceed) |
 | Thu, 20 Nov 2025 05:10:46 GMT | Are Software Updates Helping You or Slowing You Down? | Abinesh | [Read More](https://medium.com/p/7ef897d65c7b) |
 | Thu, 20 Nov 2025 05:10:07 GMT | Build Your Future with an Advanced Cyber Security Education Program | Edglobalacademy | [Read More](https://medium.com/p/c041d114958e) |
@@ -98,18 +113,3 @@ By Pavan Teja Somisetty | Pavan Naidu | [Read More](https://medium.com/p/7860a59
 | Wed, 19 Nov 2025 20:01:00 GMT | AUKUS and the Limits of Deterrence: Why Security (Still) Depends on Diplomacy — Lessons from 19.11 | Josephine Schwab | [Read More](https://medium.com/p/570d34d363ba) |
 | Wed, 19 Nov 2025 19:53:55 GMT | How Guided Workflows Reduce SOC Burnout and Boost Analyst Performance | Graylog | [Read More](https://medium.com/p/64dbc857b5bd) |
 | Wed, 19 Nov 2025 19:49:04 GMT | 10 Mistakes Freshers Make in Cybersecurity (From a CTO’s Laptop) | Devkumar Shah | [Read More](https://medium.com/p/86c3c08ddbf6) |
-| Wed, 19 Nov 2025 19:45:00 GMT | Removing Your LinkedIn Followers, Likes, and Comments. | Dmitry Mikhailov | [Read More](https://medium.com/p/b727156f331d) |
-| Wed, 19 Nov 2025 19:44:02 GMT | The Pulse of Liquidity: How DorkFi’s Interest Rates Adapt in Real Time | DorkFi | [Read More](https://medium.com/p/8073efb716c2) |
-| Wed, 19 Nov 2025 19:39:37 GMT | Soul Love | Savannah Gilmore | [Read More](https://medium.com/p/22844c428a33) |
-| Wed, 19 Nov 2025 19:32:01 GMT | Cloudflare’s November Meltdown: The Tiny Bug That Triggered a Global Internet Outage | ArchitectOfExperience | [Read More](https://medium.com/p/bebcedf4c7c9) |
-| Wed, 19 Nov 2025 19:30:29 GMT | Room 109-SMTP: The Hidden Recon Goldmine Every Hacker Uses | blackXmask | [Read More](https://medium.com/p/3589b3e082b2) |
-| Wed, 19 Nov 2025 19:27:46 GMT | Article 7 : Bypassing Network Access Control - Ethical Hacking | Aman Kumar Singh | [Read More](https://medium.com/p/c7c8b3bd77ff) |
-| Wed, 19 Nov 2025 19:26:02 GMT | “Building Houses to Breaking Systems: My Huntress CTF 2025 Results & Ethical Hacking Journey!” | Nmullenski | [Read More](https://medium.com/p/607a12eb00d4) |
-| Wed, 19 Nov 2025 19:15:59 GMT | Security and Performance Aspects of TCP/IP Stack Tuning | Linux Guide | [Read More](https://medium.com/p/e2f38a8cf2a4) |
-| Wed, 19 Nov 2025 19:10:15 GMT | “I Already Have a Token — Why Do I Need Another One?” | Apoorva Dixit | [Read More](https://medium.com/p/84d0a461e28b) |
-| Wed, 19 Nov 2025 19:07:29 GMT | The Header No One Was Watching: A Quiet IDOR in a Financial System | sin99xx | [Read More](https://medium.com/p/0fcba65e2ace) |
-| Wed, 19 Nov 2025 18:59:52 GMT | Reverse Engineer | Ayoub BenChetioui | [Read More](https://medium.com/p/682dd8a4ec12) |
-| Wed, 19 Nov 2025 18:52:22 GMT | Why a Fake Invoice Can Ruin Your Business — and How to Prevent It | Cordula Boeck | [Read More](https://medium.com/p/33ce94a76f37) |
-| Wed, 19 Nov 2025 18:51:13 GMT | RCE via a malicious SVG in mPDF | brun0ne | [Read More](https://medium.com/p/216e613b250b) |
-| Wed, 19 Nov 2025 18:50:37 GMT | How I Turned a Dark Web Sketch into a $ Bug Bounty Payday ️‍♂️ | Iski | [Read More](https://medium.com/p/fafc5a1176ef) |
-| Wed, 19 Nov 2025 18:45:29 GMT | Trust Issues: How I Hijacked Financial Data with a Single Header | Sinxx | [Read More](https://medium.com/p/29e3b94d6ca0) |
