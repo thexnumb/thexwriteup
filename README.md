@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 08:23:56 GMT | Perl Jam: When Your Server Starts “Even Flow”-ing Your Secrets | Arnav Vaidya | [Read More](https://medium.com/p/febb42efeabc) |
+| Thu, 20 Nov 2025 08:15:24 GMT | How to set up SmartDNS on router: 4 steps for any service | Safelyo Global | [Read More](https://medium.com/p/b1ee71867e7d) |
+| Thu, 20 Nov 2025 08:10:57 GMT | DetectionStream Just Got a Major Upgrade: Suricata Integration is Here! | Kostas | [Read More](https://medium.com/p/96ea5caf635c) |
+| Thu, 20 Nov 2025 08:04:04 GMT | Security Goals | Bhuvana Medicherla | [Read More](https://medium.com/p/21bc6380faf0) |
+| Thu, 20 Nov 2025 08:03:33 GMT | Eliminating Web3 Security Blind Spots: How Digital Shield Shifts Risk Management from Human Trust… | Digital Shield Offcial | [Read More](https://medium.com/p/58e5563a9f59) |
+| Thu, 20 Nov 2025 07:59:46 GMT | Learning to Choose Myself | Rahul Gupta | [Read More](https://medium.com/p/618be48a5008) |
+| Thu, 20 Nov 2025 07:58:15 GMT | Cyber Hygiene: The Everyday Habits That Keep You Secure | Digital Defense | [Read More](https://medium.com/p/c62bd3541e1a) |
+| Thu, 20 Nov 2025 07:57:54 GMT | This Is What a Real Phishing Attempt Looks Like | Fook Hwa Tan | [Read More](https://medium.com/p/dd00037ef378) |
+| Thu, 20 Nov 2025 07:56:55 GMT | How One Click Took Down a Company — And How to Prevent It | Fook Hwa Tan | [Read More](https://medium.com/p/cc33ad1c6c21) |
+| Thu, 20 Nov 2025 07:56:18 GMT | Bypassing SSL/TLS Verification in GitGuardian’s GGShield: A Practical Security Analysis | Tanish Saxena | [Read More](https://medium.com/p/ed638e79d6ec) |
+| Thu, 20 Nov 2025 07:55:42 GMT | When I Meet CEOs, These Are Their Top Questions | Fook Hwa Tan | [Read More](https://medium.com/p/fe56a6c235f6) |
+| Thu, 20 Nov 2025 07:54:56 GMT | Eliminating Web3 Security Blind Spots: How Digital Shield Shifts Risk Management from Human Trust… | Digital Shield | [Read More](https://medium.com/p/ace987dd74e9) |
+| Thu, 20 Nov 2025 07:53:41 GMT | Rafale’s Rebel Wings: France’s 100-Jet Gift Arms Ukraine’s Skies for a Frozen Forever. | Blake Wood | [Read More](https://medium.com/p/0c195be69060) |
+| Thu, 20 Nov 2025 07:46:38 GMT | Inside Asia’s Cyber Arms Race 2025: How Nations Are Expanding Offensive Cyber Capabilities | Digitalvoyager | [Read More](https://medium.com/p/9d15f8d04e6d) |
+| Thu, 20 Nov 2025 07:32:04 GMT | D2–12 Top 10 API Security Settings That Don’t Add Latency | Thinking Loop | [Read More](https://medium.com/p/ce2e3a59a2a7) |
+| Thu, 20 Nov 2025 07:31:17 GMT | Na Segurança Privada, o principal objetivo não é remediar o problema — é impedir que ele aconteça. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/156186191c0f) |
 | Thu, 20 Nov 2025 07:28:25 GMT | Build Your First Domain Controller Lab: Windows Server & Client VM Setup. | Muniza Badar | [Read More](https://medium.com/p/1e3bedf7b198) |
 | Thu, 20 Nov 2025 07:24:33 GMT | API Security Using crAPI & Postman on OWASP | Gamuchirai | [Read More](https://medium.com/p/5f385a2864dd) |
 | Thu, 20 Nov 2025 07:24:14 GMT | Reimagining the Enterprise Service Desk for the Hybrid Workplace Era | ANSI Technologies | [Read More](https://medium.com/p/7e8d3af0513c) |
@@ -98,19 +114,3 @@ By Pavan Teja Somisetty | Pavan Naidu | [Read More](https://medium.com/p/7860a59
 | Wed, 19 Nov 2025 23:52:49 GMT | IT JOURNEY CompTIA A+ (Intro episode to new tech series). | Game Compute | [Read More](https://medium.com/p/0a43c59a164c) |
 | Wed, 19 Nov 2025 23:44:24 GMT | It's like being a superhero | Christian | [Read More](https://medium.com/p/7b46ad7400f8) |
 | Wed, 19 Nov 2025 23:40:14 GMT | THM — Basic Pentesting | ThackLab | [Read More](https://medium.com/p/c19ef53796f0) |
-| Wed, 19 Nov 2025 23:27:11 GMT | How Hackers Weaponize Tone, Timing, And Confidence | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c02efd9924cc) |
-| Wed, 19 Nov 2025 23:19:24 GMT | How Hackers Weaponize Tone, Timing, And Confidence | Rendur M. Saunter | [Read More](https://medium.com/p/01a9c62bb043) |
-| Wed, 19 Nov 2025 23:14:51 GMT | TryHackMe Writeup: Dogcat | Berkay AĞGÜL | [Read More](https://medium.com/p/3476777dd860) |
-| Wed, 19 Nov 2025 23:13:06 GMT | Source— TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/80dd066a8abe) |
-| Wed, 19 Nov 2025 23:11:53 GMT | AI Agents Are Breaking APIs — Here’s How Rate Limiting Must Evolve | Cyber-AppSec | [Read More](https://medium.com/p/22a4d4e0bdf7) |
-| Wed, 19 Nov 2025 23:01:32 GMT | Backing Bedrock’s Series A: The New Standard for Enterprise Data Security and Governance | Mangusta Capital | [Read More](https://medium.com/p/93a122fc5242) |
-| Wed, 19 Nov 2025 22:58:04 GMT | Passwords Remain Ridiculously Insecure | Matthew.Rosenquist | [Read More](https://medium.com/p/67dc960d9e1b) |
-| Wed, 19 Nov 2025 22:51:19 GMT | The One Bug That Broke the Internet: A Deep Dive Into Cloudflare’s Global Failure | Kaif Azmi | [Read More](https://medium.com/p/58c7cfcd2ede) |
-| Wed, 19 Nov 2025 22:47:00 GMT | InfoSec Cybersecurity BlackFriday CyberMonday Deals 2025 | Rectifyq | [Read More](https://medium.com/p/646d577912b0) |
-| Wed, 19 Nov 2025 22:25:18 GMT | Hello Cyber-NeuroSecurity. | Erdem Keles | [Read More](https://medium.com/p/c610df22a228) |
-| Wed, 19 Nov 2025 21:54:58 GMT | 1Password vs LastPass (2025): The Truth Most People Only Realize After a Security Scare | LeadAdvisors | [Read More](https://medium.com/p/a0649ec0ed3a) |
-| Wed, 19 Nov 2025 21:48:09 GMT | Race condition results in abusing a feature which requires subscription | Mehran | [Read More](https://medium.com/p/9b322ad31085) |
-| Wed, 19 Nov 2025 21:44:00 GMT | Intigriti Challenge 1125: From JWT Bypass to RCE | msfire | [Read More](https://medium.com/p/12366a11e530) |
-| Wed, 19 Nov 2025 21:40:45 GMT | CyberDefenders - Amadey Lab - Fácil - Meu passo a passo | Arthur Gomez Aquino | [Read More](https://medium.com/p/78a30d3bc4bb) |
-| Wed, 19 Nov 2025 21:40:04 GMT | Cross Site Scripting (XSS) | Enes Demir | [Read More](https://medium.com/p/410d85109580) |
-| Wed, 19 Nov 2025 21:37:53 GMT | CSRF — Cross-site Request Forgery nedir ? | Enes Demir | [Read More](https://medium.com/p/3d512f9d54f7) |
