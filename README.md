@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 12:32:59 GMT | Building a DevSecOps Pipeline in GitHub Actions: From Code to Signed Docker Image | Binaya Sharma | [Read More](https://medium.com/p/04854f760551) |
+| Thu, 20 Nov 2025 12:27:34 GMT | I Watched 40% of Cyber Insurance Claims Get Denied. Here’s What Nobody Tells Small Businesses. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/b0830877a896) |
+| Thu, 20 Nov 2025 12:26:46 GMT | Benefits of 24/7 Security Guard Services in Delhi NCR | Ankit Singh | [Read More](https://medium.com/p/b8ad5f61d769) |
+| Thu, 20 Nov 2025 12:25:51 GMT | TryHackMe — Linux Privilege Escalation — Walkthrough | Alan | [Read More](https://medium.com/p/1712f6a6a232) |
+| Thu, 20 Nov 2025 12:20:55 GMT | Is asking for help… okay? | cian | [Read More](https://medium.com/p/448df393d0f5) |
+| Thu, 20 Nov 2025 12:13:59 GMT | Conscious IT Architecture | Pedro Távora Santos | [Read More](https://medium.com/p/090ee3f57248) |
+| Thu, 20 Nov 2025 12:11:23 GMT | eJPT Prep - Host & Network Penetration Testing: System-Host Based Attacks CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/a117150d2855) |
+| Thu, 20 Nov 2025 12:05:52 GMT | Cyber Kill Chain 1.2 : Nmap ile Detaylı Aktif Bilgi Toplama Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/e69f6b326c7d) |
+| Thu, 20 Nov 2025 12:05:27 GMT | What Jelly Aisles Taught Me About Writing Security Tickets Engineers Actually Fix. | Joshua McDonald | [Read More](https://medium.com/p/a9ca91754282) |
+| Thu, 20 Nov 2025 12:05:22 GMT | Open Redirection Vulnerabilities: Complete Guide to Improper Front-End Redirect Validation… | Lovelesh Gangil | [Read More](https://medium.com/p/2d40599d8442) |
+| Thu, 20 Nov 2025 12:02:03 GMT | Writeup for picoCTF challenge “Crack the Gate 1” | Walter Moar | [Read More](https://medium.com/p/00049b0d28f3) |
+| Thu, 20 Nov 2025 12:02:02 GMT | The Fake Humanitarian/Romance Scam (Emotional Manipulation) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/e9f4bbbc40c8) |
+| Thu, 20 Nov 2025 12:00:51 GMT | Today’s Top Cyber Intelligence Highlights — Nov 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a0528d48f49e) |
+| Thu, 20 Nov 2025 12:00:41 GMT | From RC4 to AES-CTR: Riding the Modern Stream | Rohit Ballurgi | [Read More](https://medium.com/p/404f51085cb1) |
+| Thu, 20 Nov 2025 11:56:59 GMT | What is Identity Engineering? (DIM) - VIIEGO | Rolando | [Read More](https://medium.com/p/66bfceca2d83) |
+| Thu, 20 Nov 2025 11:55:35 GMT | What Is a Computer Virus? | Rolando | [Read More](https://medium.com/p/9592a9f2c80f) |
+| Thu, 20 Nov 2025 11:49:52 GMT | Visual Clothing Guide for Incident Reporting | ADITYA PATHAK | [Read More](https://medium.com/p/406066b94bf6) |
+| Thu, 20 Nov 2025 11:47:55 GMT | Using Predictive Analytics to Fortify LLM Security Against Jailbreak Attacks — A Theory | TechnoNova | [Read More](https://medium.com/p/0110299e288b) |
+| Thu, 20 Nov 2025 11:46:19 GMT | From Compliance to Competitive Edge: Elevating Cybersecurity in BFSI | Sameera J Khan | [Read More](https://medium.com/p/21ce9669a4e0) |
+| Thu, 20 Nov 2025 11:45:32 GMT | Want to Sign a PDF but Don’t Trust Online Tools? Here’s a Safe Solution | Pratik Ranpariya | [Read More](https://medium.com/p/c872fc167b96) |
 | Thu, 20 Nov 2025 11:38:57 GMT | Pay Per Click Utah: Drive Instant Growth with Expert PPC Marketing Services | Hary Battler | [Read More](https://medium.com/p/0320601583f4) |
 | Thu, 20 Nov 2025 11:30:00 GMT | Phishing to Encryption: Reconstructing a Cerber Ransomware Attack Across an Enterprise Network | Kaylaaa | [Read More](https://medium.com/p/94c59db7ab76) |
 | Thu, 20 Nov 2025 11:28:48 GMT | When Your ZIP Tool Turns Against You: How Hackers Are Exploiting the 7-Zip Symbolic Link… | Germano Costi | [Read More](https://medium.com/p/07696e9ef066) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 08:10:57 GMT | DetectionStream Just Got a Major Upgrade: Suricata Integration is Here! | Kostas | [Read More](https://medium.com/p/96ea5caf635c) |
 | Thu, 20 Nov 2025 08:04:04 GMT | Security Goals | Bhuvana Medicherla | [Read More](https://medium.com/p/21bc6380faf0) |
 | Thu, 20 Nov 2025 08:03:33 GMT | Eliminating Web3 Security Blind Spots: How Digital Shield Shifts Risk Management from Human Trust… | Digital Shield Offcial | [Read More](https://medium.com/p/58e5563a9f59) |
-| Thu, 20 Nov 2025 07:59:46 GMT | Learning to Choose Myself | Rahul Gupta | [Read More](https://medium.com/p/618be48a5008) |
-| Thu, 20 Nov 2025 07:58:15 GMT | Cyber Hygiene: The Everyday Habits That Keep You Secure | Digital Defense | [Read More](https://medium.com/p/c62bd3541e1a) |
-| Thu, 20 Nov 2025 07:57:54 GMT | This Is What a Real Phishing Attempt Looks Like | Fook Hwa Tan | [Read More](https://medium.com/p/dd00037ef378) |
-| Thu, 20 Nov 2025 07:56:55 GMT | How One Click Took Down a Company — And How to Prevent It | Fook Hwa Tan | [Read More](https://medium.com/p/cc33ad1c6c21) |
-| Thu, 20 Nov 2025 07:56:18 GMT | Bypassing SSL/TLS Verification in GitGuardian’s GGShield: A Practical Security Analysis | Tanish Saxena | [Read More](https://medium.com/p/ed638e79d6ec) |
-| Thu, 20 Nov 2025 07:55:42 GMT | When I Meet CEOs, These Are Their Top Questions | Fook Hwa Tan | [Read More](https://medium.com/p/fe56a6c235f6) |
-| Thu, 20 Nov 2025 07:54:56 GMT | Eliminating Web3 Security Blind Spots: How Digital Shield Shifts Risk Management from Human Trust… | Digital Shield | [Read More](https://medium.com/p/ace987dd74e9) |
-| Thu, 20 Nov 2025 07:53:41 GMT | Rafale’s Rebel Wings: France’s 100-Jet Gift Arms Ukraine’s Skies for a Frozen Forever. | Blake Wood | [Read More](https://medium.com/p/0c195be69060) |
-| Thu, 20 Nov 2025 07:46:38 GMT | Inside Asia’s Cyber Arms Race 2025: How Nations Are Expanding Offensive Cyber Capabilities | Digitalvoyager | [Read More](https://medium.com/p/9d15f8d04e6d) |
-| Thu, 20 Nov 2025 07:32:04 GMT | D2–12 Top 10 API Security Settings That Don’t Add Latency | Thinking Loop | [Read More](https://medium.com/p/ce2e3a59a2a7) |
-| Thu, 20 Nov 2025 07:31:17 GMT | Na Segurança Privada, o principal objetivo não é remediar o problema — é impedir que ele aconteça. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/156186191c0f) |
-| Thu, 20 Nov 2025 07:28:25 GMT | Build Your First Domain Controller Lab: Windows Server & Client VM Setup. | Muniza Badar | [Read More](https://medium.com/p/1e3bedf7b198) |
-| Thu, 20 Nov 2025 07:24:33 GMT | API Security Using crAPI & Postman on OWASP | Gamuchirai | [Read More](https://medium.com/p/5f385a2864dd) |
-| Thu, 20 Nov 2025 07:24:14 GMT | Reimagining the Enterprise Service Desk for the Hybrid Workplace Era | ANSI Technologies | [Read More](https://medium.com/p/7e8d3af0513c) |
-| Thu, 20 Nov 2025 07:23:36 GMT | Python, WhatsApp, and a Silent Thief: Inside the Eternidade Stealer Campaign Targeting Brazil | Germano Costi | [Read More](https://medium.com/p/014519583f9d) |
-| Thu, 20 Nov 2025 07:23:33 GMT | Why Fraud Today Is Harder to Detect Than Ever ? | Gokul Nair | [Read More](https://medium.com/p/4a46bc8d6b60) |
-| Thu, 20 Nov 2025 07:23:03 GMT | I Thought I Was Being Paranoid About Untrusted Code — Until This Happened | ryuux05 | [Read More](https://medium.com/p/6925abbae346) |
-| Thu, 20 Nov 2025 07:17:22 GMT | The Silent Killer: Why Your “Secure” Code Might Already Be Compromised | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/47d06494264d) |
-| Thu, 20 Nov 2025 07:14:13 GMT | Market Forecast: Enterprise Email Security | Umangp | [Read More](https://medium.com/p/de52ab8a0dbe) |
-| Thu, 20 Nov 2025 07:10:37 GMT | The Day Our Office Went Dark — And What It Taught Me About Power Backup Solutions | Sarah | [Read More](https://medium.com/p/1ce54e241c69) |
