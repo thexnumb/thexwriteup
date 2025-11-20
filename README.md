@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 19:33:52 GMT | Drowning in Data | Rafa Bez | [Read More](https://medium.com/p/5ef43fa41609) |
+| Thu, 20 Nov 2025 19:26:29 GMT | The Cybersecurity Universe: 9 Paths (And Yes, There’s Room for You) | Tia B | [Read More](https://medium.com/p/2503b58c8517) |
+| Thu, 20 Nov 2025 19:23:04 GMT | Cloudflare 18 November 2025 Outage: Full Breakdown, Root Cause, and Impact: A DevOps Perspective | Shegezzy | [Read More](https://medium.com/p/c73d0e9b4af2) |
+| Thu, 20 Nov 2025 19:19:04 GMT | Why Construction Site Security Is Essential in 2025: Protect Your Site, Equipment & Workers | Hirasarfraz | [Read More](https://medium.com/p/7059cd5a8cff) |
+| Thu, 20 Nov 2025 19:13:08 GMT | Warrantless Geofence Warrants: Scrutinizing the Legal Use of Mass Location Data by Law Enforcement | Ian McIntire | [Read More](https://medium.com/p/014adf8cc553) |
+| Thu, 20 Nov 2025 19:09:09 GMT | Stop Apps From Spying On You: A Simple Setup to Block Ads Everywhere | Richard Jakab | [Read More](https://medium.com/p/a0061d849bb0) |
 | Thu, 20 Nov 2025 19:07:11 GMT | Unhooking ntdll.dll in Rust: A Beginner-Friendly Guide to Bypassing EDR Hooks | Shaheer Yasir | [Read More](https://medium.com/p/ca113c22ef01) |
 | Thu, 20 Nov 2025 19:05:57 GMT | A Security Vulnerability That Could Have Led to Full Twitter Account Takeover | Berat Blmz | [Read More](https://medium.com/p/6598a58de4c6) |
 | Thu, 20 Nov 2025 19:02:11 GMT | First Documented Large-Scale AI-Orchestrated Cyberattack Raises New Security Concerns | ODSC - Open Data Science | [Read More](https://medium.com/p/123c070c4e14) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 14:02:04 GMT | Is Your Fullerton Business at Risk? The Essential Role of Managed Cybersecurity Services Near You | Xonicwave support | [Read More](https://medium.com/p/5005885b8fb0) |
 | Thu, 20 Nov 2025 14:02:04 GMT | The Complete Guide to Managed Cybersecurity Services for San Diego Companies: Finding Trusted… | Xonicwave IT Support | [Read More](https://medium.com/p/5882838b35af) |
 | Thu, 20 Nov 2025 14:01:49 GMT | What To Do With Pentest Vendor Variance | Chris Griffin | [Read More](https://medium.com/p/379a3abdc7aa) |
-| Thu, 20 Nov 2025 14:01:21 GMT | Fortress Protocol and Modulus Announce Strategic Partnership to Revolutionize Privacy-First… | Fortress Protocol | [Read More](https://medium.com/p/72e09a50f88e) |
-| Thu, 20 Nov 2025 13:59:35 GMT | Hacken Audit Validates QANplatform’s Quantum Security Protocol | QANplatform | [Read More](https://medium.com/p/8cb23923bcd3) |
-| Thu, 20 Nov 2025 13:56:05 GMT | AgeTech: The Most Overlooked Market Opportunity of the Decade | SenCyberly Inc | [Read More](https://medium.com/p/40340bebf9c4) |
-| Thu, 20 Nov 2025 13:49:50 GMT | When Your Expertise Becomes Obsolete | Kevin Novak | [Read More](https://medium.com/p/dda7014075d7) |
-| Thu, 20 Nov 2025 13:48:19 GMT | How Did I Hack a Website By Editing JSON | Ibtissam | [Read More](https://medium.com/p/2e7814920be2) |
-| Thu, 20 Nov 2025 13:41:02 GMT | How I Found a Bug Fast With Git Bisect | Gaurav | [Read More](https://medium.com/p/fc07d36087bb) |
