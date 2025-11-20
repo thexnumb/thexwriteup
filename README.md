@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 20:36:11 GMT | Active Exploitation of 7‑Zip (CVE‑2025‑11001) | Cybersectoworld | [Read More](https://medium.com/p/65854f902f54) |
+| Thu, 20 Nov 2025 20:35:43 GMT | Siber İstihbarat Sanatı: Pasif Tarama ve OSINT Araçları | Onur Altuğ | [Read More](https://medium.com/p/3d62e4d505a1) |
+| Thu, 20 Nov 2025 20:31:19 GMT | CyberDefenders — Kerberoasted Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/3b6aea3ecf11) |
+| Thu, 20 Nov 2025 20:27:05 GMT | Learning to Forgive Myself | Guillermo Palchik | [Read More](https://medium.com/p/65f42912b1ee) |
 | Thu, 20 Nov 2025 20:21:03 GMT | The Rise of AI-Powered Cyberattacks: Why the Next Wave of Threats Will Blindside Unprepared… | Pasan Madhuranga | [Read More](https://medium.com/p/987ea90f0fa4) |
+| Thu, 20 Nov 2025 20:17:55 GMT | Security is the Government’s Job | Temitope Ogunlana | [Read More](https://medium.com/p/03453a0dd5de) |
 | Thu, 20 Nov 2025 20:17:52 GMT | AI-Generated Phishing: The New Era of Cyber Deception | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/521d0cdaa96c) |
+| Thu, 20 Nov 2025 20:16:04 GMT | The Day I Realized Everything in Tech is Just Sockets Talking | Mohamed Gebril | [Read More](https://medium.com/p/335178b2f2ab) |
 | Thu, 20 Nov 2025 20:12:13 GMT | Cyber Security is 10% Actual Security and 90% Theatre | Rich B | [Read More](https://medium.com/p/28b0cff03777) |
 | Thu, 20 Nov 2025 20:05:02 GMT | The Network Stack Stripped Bare: A Deep Dive into Socket Programming and Its Security Implications | Mohamed Gebril | [Read More](https://medium.com/p/1e282e43c915) |
 | Thu, 20 Nov 2025 19:45:34 GMT | Why Most Managed IT Providers Are Not Truly Local | Asad Shahzad - Content Marketer | [Read More](https://medium.com/p/6d31507f431a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 14:32:14 GMT | The Hidden Failure Pattern the 2025 AWS, Azure & Cloudflare Outages | Soumalya De | [Read More](https://medium.com/p/3af14e58a1c5) |
 | Thu, 20 Nov 2025 14:27:07 GMT | Closing the C-Suite Cybersecurity Gap | Hello @ Octellient | [Read More](https://medium.com/p/debb8b54aa20) |
 | Thu, 20 Nov 2025 14:26:32 GMT | The Shocking Truth: How 2 Million Private Photos Became AI Porn Without Consent | CodeKnight | [Read More](https://medium.com/p/9414be04dcfe) |
-| Thu, 20 Nov 2025 14:23:31 GMT | The Converged Threat: Managing IT-OT Integration Risks in GCC Critical National Infrastructure | Geopolitical Intelligence Network - GEO' | [Read More](https://medium.com/p/bc11b3545089) |
-| Thu, 20 Nov 2025 14:21:58 GMT | From Detection to Determinism: Why the Cybersecurity Model Must Now Change | Abatis ABTU | [Read More](https://medium.com/p/3664f5697326) |
-| Thu, 20 Nov 2025 14:21:21 GMT | When Cloudflare Went Down, I Saw the Collapse of “Digital Central Planning.” | Cher from the Island | [Read More](https://medium.com/p/1e37e0832dab) |
-| Thu, 20 Nov 2025 14:20:06 GMT | AI + Quantum Pre-Threat (Hybrid Attacks) – When Future Decryption Becomes Present Danger | David SEHYEON Baek | [Read More](https://medium.com/p/92fa8df2c08a) |
-| Thu, 20 Nov 2025 14:19:48 GMT | Why GCC Oil & Gas Executives Must Treat SCADA & ICS Cybersecurity As A Strategic National… | Geopolitical Intelligence Network - GEO' | [Read More](https://medium.com/p/9bfe75a18b54) |
-| Thu, 20 Nov 2025 14:04:10 GMT | The Cybersecurity Jobs That AI Will Kill — And the Ones That Will Survive | Taimur Ijlal | [Read More](https://medium.com/p/824e1f60cf1c) |
