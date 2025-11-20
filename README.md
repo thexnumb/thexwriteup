@@ -12,16 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 11:38:57 GMT | Pay Per Click Utah: Drive Instant Growth with Expert PPC Marketing Services | Hary Battler | [Read More](https://medium.com/p/0320601583f4) |
+| Thu, 20 Nov 2025 11:30:00 GMT | Phishing to Encryption: Reconstructing a Cerber Ransomware Attack Across an Enterprise Network | Kaylaaa | [Read More](https://medium.com/p/94c59db7ab76) |
+| Thu, 20 Nov 2025 11:28:48 GMT | When Your ZIP Tool Turns Against You: How Hackers Are Exploiting the 7-Zip Symbolic Link… | Germano Costi | [Read More](https://medium.com/p/07696e9ef066) |
+| Thu, 20 Nov 2025 11:26:18 GMT | Cybersecurity #15: Cross-Site Scripting (XSS) Attack & How to Prevent It | mohandika | [Read More](https://medium.com/p/c5b9754fd376) |
+| Thu, 20 Nov 2025 11:26:03 GMT | The First AI-Orchestrated Cyberattack: What You Need to Know | Navya | [Read More](https://medium.com/p/de7b702ace6e) |
+| Thu, 20 Nov 2025 11:23:50 GMT | Ethics in the Age of AI: Who Holds the Moral Compass? | Prasanna Kumar | [Read More](https://medium.com/p/26f19b8b3d10) |
 | Thu, 20 Nov 2025 11:13:03 GMT | Samsung A Series Review: Big Screen, Big Value | Chloe White | [Read More](https://medium.com/p/1be74f6710e4) |
 | Thu, 20 Nov 2025 11:12:23 GMT | Let’s Talk Cyber — AstralGuard Cyber Night Talk | Dallen Sadru | [Read More](https://medium.com/p/c46c270c913c) |
 | Thu, 20 Nov 2025 11:11:29 GMT | CVE Program Expands Partnership with European Union Agency for Cybersecurity (ENISA) — ENISA Is… | CVE Program Blog | [Read More](https://medium.com/p/0395ddb8422d) |
+| Thu, 20 Nov 2025 11:11:05 GMT | Tech’s New World Order? Europe’s Bold Stand Against US Giants | Truspex | [Read More](https://medium.com/p/74b78faf28a2) |
+| Thu, 20 Nov 2025 11:07:53 GMT | IT Dreams Do Come True! From Zero to Healthcare IT Hero? | Devquest | [Read More](https://medium.com/p/29f57133dda0) |
+| Thu, 20 Nov 2025 11:07:45 GMT | Digital Payments vs Digital Risks: How AI is Bridging India’s Trust Gap in FinTech | NexIntel | [Read More](https://medium.com/p/d8cde0d7cbc3) |
 | Thu, 20 Nov 2025 11:05:21 GMT | How to extract apk file from an Android phone | Joseph Savio | [Read More](https://medium.com/p/993428bd8404) |
+| Thu, 20 Nov 2025 11:05:18 GMT | The Night Delhi’s Sky Glitched: A Story About SDR, PNT and a Mystery That Hid in Plain Sight | Prashant Jha | [Read More](https://medium.com/p/6d631af609a3) |
+| Thu, 20 Nov 2025 11:04:35 GMT | Guide de conformité EN 18031 & RED DA pour les fabricants d’IoT | Dr. Guillaume Dupont | [Read More](https://medium.com/p/a8ac7d49fc14) |
 | Thu, 20 Nov 2025 11:03:01 GMT | Massive WhatsApp Flaw Exposed — 3.5 Billion Phone Numbers & Profile Photos At Risk | RealTyme | [Read More](https://medium.com/p/fce1ae7a059f) |
 | Thu, 20 Nov 2025 11:00:21 GMT | If I Can’t Be Myself With You, Who Am I? | Higgor Araújo de Souza | [Read More](https://medium.com/p/383559465a5a) |
 | Thu, 20 Nov 2025 11:00:20 GMT | Why Small and Medium Businesses Need Cyber Security Assessment Services | Zelar Trust | [Read More](https://medium.com/p/45b1c8d35c77) |
 | Thu, 20 Nov 2025 10:56:45 GMT | How to Get Certified Ethical Hacker (CEH) in 2026: Complete Guide | Manisha Chaudhary | [Read More](https://medium.com/p/427fc841c544) |
 | Thu, 20 Nov 2025 10:49:14 GMT | Cybersecurity Course to Get Job as an Ethical Hacker | Manisha Chaudhary | [Read More](https://medium.com/p/8b4d80d2ef63) |
 | Thu, 20 Nov 2025 10:44:13 GMT | Indicator Search Techniques in Threat Hunting: How We Hunt the Unknown | Esra Kayhan | [Read More](https://medium.com/p/800bd3c19801) |
+| Thu, 20 Nov 2025 10:42:44 GMT | What Is Cyber Security Training and How Does It Work? | Janbask | [Read More](https://medium.com/p/b6fa14ac3685) |
 | Thu, 20 Nov 2025 10:41:09 GMT | romania-proxy-guide | BlockCypher | [Read More](https://medium.com/p/7c8d3aabe663) |
 | Thu, 20 Nov 2025 10:40:37 GMT | Garbage In, Garbage Out | Dwayne Phillips | [Read More](https://medium.com/p/64e8e062297e) |
 | Thu, 20 Nov 2025 10:37:27 GMT | Cybersecurity Essentials: Protecting Your Custom Software Assets | Searchenginemarketing | [Read More](https://medium.com/p/08daa9137a03) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 07:17:22 GMT | The Silent Killer: Why Your “Secure” Code Might Already Be Compromised | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/47d06494264d) |
 | Thu, 20 Nov 2025 07:14:13 GMT | Market Forecast: Enterprise Email Security | Umangp | [Read More](https://medium.com/p/de52ab8a0dbe) |
 | Thu, 20 Nov 2025 07:10:37 GMT | The Day Our Office Went Dark — And What It Taught Me About Power Backup Solutions | Sarah | [Read More](https://medium.com/p/1ce54e241c69) |
-| Thu, 20 Nov 2025 07:10:13 GMT | How Tsutomu Shimomura Hunted Down the World’s Most Wanted Hacker, Kevin Mitnick | David SEHYEON Baek | [Read More](https://medium.com/p/23b4649a2bcb) |
-| Thu, 20 Nov 2025 07:08:41 GMT | 4 Components of Data Security Management: A Simple Guide by Aptimized | Akhilareddy | [Read More](https://medium.com/p/beaccb68b59e) |
-| Thu, 20 Nov 2025 07:08:32 GMT | Unlock Business Growth with Apex Consultants’ Advanced IT Products & Solutions | ApexConsultants | [Read More](https://medium.com/p/b4d9b2a81a63) |
-| Thu, 20 Nov 2025 07:07:47 GMT | Unprecedented WhatsApp Leak Exposes Identities of Billions | Himanshu Bhatt | [Read More](https://medium.com/p/b26f7e35e8e7) |
-| Thu, 20 Nov 2025 07:07:46 GMT | PDF Magical — A Safe, Client-Side PDF Tool in a World Where Most Websites Still Upload Your Files | Pratik Ranpariya | [Read More](https://medium.com/p/46556a5ee314) |
-| Thu, 20 Nov 2025 07:02:08 GMT | Tails 7.2: Privacy Linux That Actually Matters | Can Artuc | [Read More](https://medium.com/p/59645027c248) |
-| Thu, 20 Nov 2025 06:55:47 GMT | The Future Together Between AI and Blockchain: The Perfect Contract Match | Dealonai | [Read More](https://medium.com/p/e7fe1bac9c18) |
-| Thu, 20 Nov 2025 06:49:31 GMT | BloodHound Mastery: 20 Queries for Step-by-Step Active Directory Domination | Very Lazy Tech | [Read More](https://medium.com/p/98d813c9cdf8) |
-| Thu, 20 Nov 2025 06:47:59 GMT | The Daily Tech Digest: 20 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f8a1fc35650c) |
-| Thu, 20 Nov 2025 06:47:40 GMT | ETHICAL HACKING MASTER PACK 
- All Courses + Premium Tools in One Place! | DARKNET GHOST | [Read More](https://medium.com/p/0c583eeee494) |
-| Thu, 20 Nov 2025 06:47:23 GMT | ประจำวันพฤหัสบดีที่ 20 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7b0ee84da79a) |
-| Thu, 20 Nov 2025 06:46:16 GMT | How North Korean Hackers Are Misusing JSON Storage — The “Contagious Interview” Campaign | June Klove | [Read More](https://medium.com/p/1df0797a2b84) |
