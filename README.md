@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 14:20:06 GMT | AI + Quantum Pre-Threat (Hybrid Attacks) – When Future Decryption Becomes Present Danger | David SEHYEON Baek | [Read More](https://medium.com/p/92fa8df2c08a) |
+| Thu, 20 Nov 2025 14:19:48 GMT | Why GCC Oil & Gas Executives Must Treat SCADA & ICS Cybersecurity As A Strategic National… | Geopolitical Intelligence Network - GEO' | [Read More](https://medium.com/p/9bfe75a18b54) |
+| Thu, 20 Nov 2025 14:04:10 GMT | The Cybersecurity Jobs That AI Will Kill — And the Ones That Will Survive | Taimur Ijlal | [Read More](https://medium.com/p/824e1f60cf1c) |
+| Thu, 20 Nov 2025 14:03:48 GMT | Sahte QR Kod Nasıl Anlaşılır? | Onur Muhammet Akçay | [Read More](https://medium.com/p/0a660bab1751) |
+| Thu, 20 Nov 2025 14:02:06 GMT | The Hidden Leadership Skill No One Teaches | Evelyn Foreman | [Read More](https://medium.com/p/da87ff63aa35) |
+| Thu, 20 Nov 2025 14:02:04 GMT | Is Your Fullerton Business at Risk? The Essential Role of Managed Cybersecurity Services Near You | Xonicwave support | [Read More](https://medium.com/p/5005885b8fb0) |
+| Thu, 20 Nov 2025 14:02:04 GMT | The Complete Guide to Managed Cybersecurity Services for San Diego Companies: Finding Trusted… | Xonicwave IT Support | [Read More](https://medium.com/p/5882838b35af) |
+| Thu, 20 Nov 2025 14:01:49 GMT | What To Do With Pentest Vendor Variance | Chris Griffin | [Read More](https://medium.com/p/379a3abdc7aa) |
+| Thu, 20 Nov 2025 14:01:21 GMT | Fortress Protocol and Modulus Announce Strategic Partnership to Revolutionize Privacy-First… | Fortress Protocol | [Read More](https://medium.com/p/72e09a50f88e) |
+| Thu, 20 Nov 2025 13:59:35 GMT | Hacken Audit Validates QANplatform’s Quantum Security Protocol | QANplatform | [Read More](https://medium.com/p/8cb23923bcd3) |
+| Thu, 20 Nov 2025 13:56:05 GMT | AgeTech: The Most Overlooked Market Opportunity of the Decade | SenCyberly Inc | [Read More](https://medium.com/p/40340bebf9c4) |
+| Thu, 20 Nov 2025 13:49:50 GMT | When Your Expertise Becomes Obsolete | Kevin Novak | [Read More](https://medium.com/p/dda7014075d7) |
+| Thu, 20 Nov 2025 13:48:19 GMT | How Did I Hack a Website By Editing JSON | Ibtissam | [Read More](https://medium.com/p/2e7814920be2) |
+| Thu, 20 Nov 2025 13:41:02 GMT | How I Found a Bug Fast With Git Bisect | Gaurav | [Read More](https://medium.com/p/fc07d36087bb) |
+| Thu, 20 Nov 2025 13:30:26 GMT | TryHackMe Anonymous Room — Complete Beginner’s Walkthrough | Attiqorakzai | [Read More](https://medium.com/p/9d72b7abaafd) |
 | Thu, 20 Nov 2025 13:29:44 GMT | Why Local Security Services Matter More Than Ever | Security services Near Me | [Read More](https://medium.com/p/965284b86a50) |
 | Thu, 20 Nov 2025 13:28:05 GMT | Fordefi partners with Blockaid to bring real-time transaction screening to institutional wallets | Trey Archambeau | [Read More](https://medium.com/p/8929491e4d79) |
 | Thu, 20 Nov 2025 13:27:47 GMT | For months, I looked into why it’s so hard to find a good tech agency. | Kshitij Dua | [Read More](https://medium.com/p/321ac4f4e037) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 09:50:28 GMT | Firmware Reverse Engineering 101: Finding Vulnerabilities in Home Routers | Cyb3rpeter | [Read More](https://medium.com/p/d65f958f56f8) |
 | Thu, 20 Nov 2025 09:45:04 GMT | Timber Doors in Surrey: Style, Durability, and Value Explained | Callumdavey | [Read More](https://medium.com/p/a1999bf38681) |
 | Thu, 20 Nov 2025 09:41:32 GMT | Samsung A Series Is Cheaper Than You Think — And Better | Luna Collins | [Read More](https://medium.com/p/46ebdbb2ac14) |
-| Thu, 20 Nov 2025 09:41:03 GMT | How to Secure Your MySQL Database on XAMPP and WAMP | MySQL FUEL | [Read More](https://medium.com/p/4db610068965) |
-| Thu, 20 Nov 2025 09:35:03 GMT | Comprehensive Airport and Event Security Solutions - Barzo Security | Travel time | [Read More](https://medium.com/p/ea4158049de2) |
-| Thu, 20 Nov 2025 09:33:21 GMT | Why Investing in Cybersecurity Consultancy Services Is Crucial for Your Organisation’s Future | Sentry Cyber | [Read More](https://medium.com/p/16a4ee153706) |
-| Thu, 20 Nov 2025 09:32:21 GMT | IT Services Provider vs In-House IT: Costs and Risks | Tech Rajendra | [Read More](https://medium.com/p/cc45dc117463) |
-| Thu, 20 Nov 2025 09:30:21 GMT | Key Benefits of Implementing ServiceNow Financial Management | Alex s | [Read More](https://medium.com/p/1a48823b3bd0) |
-| Thu, 20 Nov 2025 09:24:50 GMT | Essential Security Tips For Microsoft Windows 10 Pro Users | Rory Deleon | [Read More](https://medium.com/p/8b41d1c9dee1) |
-| Thu, 20 Nov 2025 09:24:32 GMT | Samsung A Series: Small Price, Huge Surprise | Zara Everly | [Read More](https://medium.com/p/ca241e2d2f77) |
-| Thu, 20 Nov 2025 09:24:30 GMT | Having a cyber insurance: Is NIS2 necessary? | expermentus | [Read More](https://medium.com/p/94cf0daa1805) |
-| Thu, 20 Nov 2025 09:20:53 GMT | Stay Safe Anywhere: Why the Sabre Personal Alarm with LED Light is a Must-Have | Criminology Expert | [Read More](https://medium.com/p/b448c9302464) |
-| Thu, 20 Nov 2025 09:20:47 GMT | What is the Blockchain Triangle? Features of a Blockchain | Ali Sultanalizadeh | [Read More](https://medium.com/p/db628ce19ef6) |
-| Thu, 20 Nov 2025 09:19:36 GMT | How TechIncisive Helped a Growing Enterprise Strengthen Its Data Protection & Privacy Framework | Devarshi Acharya | [Read More](https://medium.com/p/7f72bec4441f) |
-| Thu, 20 Nov 2025 09:17:26 GMT | SaaS Security Is the New Perimeter: Why Shadow SaaS Is Exploding | Jay C Roberts | [Read More](https://medium.com/p/db7463772d1b) |
-| Thu, 20 Nov 2025 09:17:16 GMT | Your Organisation Already Deployed AI – You Just Didn’t Govern It | AXSAS | [Read More](https://medium.com/p/a6a062cb3d8b) |
-| Thu, 20 Nov 2025 09:11:19 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/8cda7546476b) |
-| Thu, 20 Nov 2025 09:03:25 GMT | Security & Auth for Your Backend Swift — Protecting the Data on Your App | BB - iOS Developer | [Read More](https://medium.com/p/c245a04c91e6) |
