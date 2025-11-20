@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 22:05:27 GMT | How to Access the Dark Web Safely in 2025 | Tor BBB | [Read More](https://medium.com/p/58a5dd053e60) |
+| Thu, 20 Nov 2025 21:47:12 GMT | Why “Unreliable” UDP Is the Best Choice for VPNs | Vishnu Unnikrishnan | [Read More](https://medium.com/p/ae61e34176c3) |
+| Thu, 20 Nov 2025 21:38:08 GMT | Manual Integral de Análisis de Riesgo Basado en Factor Humano (H-FRA) | Mauricio Alan Illera Diaz | [Read More](https://medium.com/p/88351d91ded4) |
 | Thu, 20 Nov 2025 21:33:19 GMT | Outbound - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/9aba36f48e83) |
 | Thu, 20 Nov 2025 21:31:03 GMT | Introducing MANTA — A Privacy-First AI Malware Analysis Tool Built on GitHub Pages | shresth paul | [Read More](https://medium.com/p/eb45dc9a61ea) |
 | Thu, 20 Nov 2025 21:29:27 GMT | Benchmarking the Sovereign Stack: Llama 3, Phi-3, and .NET 8 in Production | Ramazan Yavuz | [Read More](https://medium.com/p/5f6cd50830e1) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 15:39:47 GMT | Crypto Platforms Hit as Cloudflare Outage Sparks New Questions About Web3 Dependence on Web2 | Faisal Khan | [Read More](https://medium.com/p/5a7a77d45451) |
 | Thu, 20 Nov 2025 15:33:10 GMT | USB Rubber Ducky — Creating Custom Payloads | TAYO | [Read More](https://medium.com/p/9b6adb141e31) |
 | Thu, 20 Nov 2025 15:30:42 GMT | SOC Incident Report — IDOR Web Attack Analysis (LetsDefend) | Soumodeep Das | [Read More](https://medium.com/p/c96371d8c5fb) |
-| Thu, 20 Nov 2025 15:21:35 GMT | GenAI Is Empowering Cybercriminals to Create More Believable Scams | Jasmitha | [Read More](https://medium.com/p/62603490885e) |
-| Thu, 20 Nov 2025 15:21:22 GMT | Dark API Exploits: Why Companies Have Thousands of Unmonitored APIs That Leak Data Daily | Legal Thoughts | [Read More](https://medium.com/p/6eed3b358d88) |
-| Thu, 20 Nov 2025 15:13:16 GMT | Airline Security: How Acme Seals Protects Aviation Safety | M Wood | [Read More](https://medium.com/p/514305800743) |
