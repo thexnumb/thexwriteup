@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 16:19:43 GMT | Secure and Smart Storage: Why Ace Grease Service Provides the Best Used Cooking Oil Containers | Marketing | [Read More](https://medium.com/p/fd68de677dc0) |
+| Thu, 20 Nov 2025 16:14:29 GMT | Security Guard Jobs in Ottawa 2026–5 Qualities We Look For When Hiring | Hydra Security | [Read More](https://medium.com/p/9de251d6e984) |
+| Thu, 20 Nov 2025 16:14:05 GMT | Building a Zero Trust Network at Home: Tools, Categories, and Why It Matters | Alex Wilcox | [Read More](https://medium.com/p/a14043364d6e) |
+| Thu, 20 Nov 2025 16:09:16 GMT | Global Flag Hunter 2.0 Competition: How I Hacked My Way Through the Web Challenges | Isv0x1 | [Read More](https://medium.com/p/e1498249db17) |
+| Thu, 20 Nov 2025 16:07:12 GMT | Atomic Challenge (MISC) - CyCTF 25 | Khonshu | [Read More](https://medium.com/p/cd01065dab34) |
+| Thu, 20 Nov 2025 15:58:38 GMT | CyberDefenders — BumbleSting Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/8e4d94736490) |
+| Thu, 20 Nov 2025 15:52:05 GMT | Tired of “This content isn’t available in your region”? Here’s how to fix it | Panda Security | [Read More](https://medium.com/p/9e7e9cf20bdc) |
+| Thu, 20 Nov 2025 15:51:44 GMT | L’ambition d’Olivia | Florent M | [Read More](https://medium.com/p/0511da950aa9) |
+| Thu, 20 Nov 2025 15:46:39 GMT | Will Akira trigger a week-long hospital disruption by end of 2026? | Wes Young | [Read More](https://medium.com/p/f458759a4b23) |
+| Thu, 20 Nov 2025 15:42:48 GMT | Voices for Development: A Gendered Crisis of Security in Northern Nigeria. | ABBA’s Masterpiece ✨ | [Read More](https://medium.com/p/3aac0516d5b6) |
+| Thu, 20 Nov 2025 15:39:47 GMT | Crypto Platforms Hit as Cloudflare Outage Sparks New Questions About Web3 Dependence on Web2 | Faisal Khan | [Read More](https://medium.com/p/5a7a77d45451) |
 | Thu, 20 Nov 2025 15:33:10 GMT | USB Rubber Ducky — Creating Custom Payloads | TAYO | [Read More](https://medium.com/p/9b6adb141e31) |
 | Thu, 20 Nov 2025 15:30:42 GMT | SOC Incident Report — IDOR Web Attack Analysis (LetsDefend) | Soumodeep Das | [Read More](https://medium.com/p/c96371d8c5fb) |
 | Thu, 20 Nov 2025 15:21:35 GMT | GenAI Is Empowering Cybercriminals to Create More Believable Scams | Jasmitha | [Read More](https://medium.com/p/62603490885e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 11:00:21 GMT | If I Can’t Be Myself With You, Who Am I? | Higgor Araújo de Souza | [Read More](https://medium.com/p/383559465a5a) |
 | Thu, 20 Nov 2025 11:00:20 GMT | Why Small and Medium Businesses Need Cyber Security Assessment Services | Zelar Trust | [Read More](https://medium.com/p/45b1c8d35c77) |
 | Thu, 20 Nov 2025 10:56:45 GMT | How to Get Certified Ethical Hacker (CEH) in 2026: Complete Guide | Manisha Chaudhary | [Read More](https://medium.com/p/427fc841c544) |
-| Thu, 20 Nov 2025 10:49:14 GMT | Cybersecurity Course to Get Job as an Ethical Hacker | Manisha Chaudhary | [Read More](https://medium.com/p/8b4d80d2ef63) |
-| Thu, 20 Nov 2025 10:44:13 GMT | Indicator Search Techniques in Threat Hunting: How We Hunt the Unknown | Esra Kayhan | [Read More](https://medium.com/p/800bd3c19801) |
-| Thu, 20 Nov 2025 10:42:44 GMT | What Is Cyber Security Training and How Does It Work? | Janbask | [Read More](https://medium.com/p/b6fa14ac3685) |
-| Thu, 20 Nov 2025 10:41:09 GMT | romania-proxy-guide | BlockCypher | [Read More](https://medium.com/p/7c8d3aabe663) |
-| Thu, 20 Nov 2025 10:40:37 GMT | Garbage In, Garbage Out | Dwayne Phillips | [Read More](https://medium.com/p/64e8e062297e) |
-| Thu, 20 Nov 2025 10:37:27 GMT | Cybersecurity Essentials: Protecting Your Custom Software Assets | Searchenginemarketing | [Read More](https://medium.com/p/08daa9137a03) |
-| Thu, 20 Nov 2025 10:36:35 GMT | How to Secure Your Smartphone from Hackers | YT.Shi | [Read More](https://medium.com/p/7f7add9c768d) |
-| Thu, 20 Nov 2025 10:34:34 GMT | How Pen Tests Help You Fix Security Gaps Before Hackers Exploit Them | SmartCLOUD Australia | [Read More](https://medium.com/p/e8a27af91ee3) |
-| Thu, 20 Nov 2025 10:34:08 GMT | Cloudflare Went Down and Took the Internet With It | Shirsh Shukla | [Read More](https://medium.com/p/7f5548f308c4) |
-| Thu, 20 Nov 2025 10:31:58 GMT | What Career Options Are Available After Ethical Hacking Training? | Shubham Saini | [Read More](https://medium.com/p/1129cf8bd939) |
-| Thu, 20 Nov 2025 10:25:05 GMT | 7 Essential Steps to Compliance 3.0 Sprints | Pentest_Testing_Corp | [Read More](https://medium.com/p/254c1f72e560) |
