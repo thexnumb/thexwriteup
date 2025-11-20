@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 21:05:33 GMT | The ROI of Shifting Security Left | Patrick Lefler | [Read More](https://medium.com/p/d0c9f893753f) |
+| Thu, 20 Nov 2025 21:04:32 GMT | SIEM: A Beginner’s Guide to Security Information and Event Management | Kameliaremaki | [Read More](https://medium.com/p/f52ac10b5142) |
+| Thu, 20 Nov 2025 20:56:39 GMT | Container Security for High Performance Linux Servers | Linux Guide | [Read More](https://medium.com/p/6f2ccef033cf) |
+| Thu, 20 Nov 2025 20:53:05 GMT | Every Time We Upgrade Wireless Technology, the World Faces a Crisis coincidence or something… | iam_with_you11 | [Read More](https://medium.com/p/f8b410434e97) |
+| Thu, 20 Nov 2025 20:51:34 GMT | Building a Cybersecurity Home Lab — Part 4.2: Wazuh Installation & Configuration | JBXSec | [Read More](https://medium.com/p/785c67231e2b) |
+| Thu, 20 Nov 2025 20:43:57 GMT | Forage ANZ Job Simulation | Tomomi | [Read More](https://medium.com/p/28772a7ba225) |
 | Thu, 20 Nov 2025 20:36:11 GMT | Active Exploitation of 7‑Zip (CVE‑2025‑11001) | Cybersectoworld | [Read More](https://medium.com/p/65854f902f54) |
 | Thu, 20 Nov 2025 20:35:43 GMT | Siber İstihbarat Sanatı: Pasif Tarama ve OSINT Araçları | Onur Altuğ | [Read More](https://medium.com/p/3d62e4d505a1) |
 | Thu, 20 Nov 2025 20:31:19 GMT | CyberDefenders — Kerberoasted Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/3b6aea3ecf11) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 14:48:34 GMT | Vulnerability | Deep Dive Poet | [Read More](https://medium.com/p/101abf6ff44d) |
 | Thu, 20 Nov 2025 14:41:40 GMT | Detecting Active Directory Attacks With Splunks ( PART 1) | khalifa_farhat | [Read More](https://medium.com/p/0a404d8e12ff) |
 | Thu, 20 Nov 2025 14:41:28 GMT | What Betrayal Taught Me: The Pain I Survived and the Lessons I’ll Never Forget | Phillix Bissa | [Read More](https://medium.com/p/c65a016a2fef) |
-| Thu, 20 Nov 2025 14:39:57 GMT | CISA Raises Alarm Over Active Google Chrome 0-Day Exploit | Jasmitha | [Read More](https://medium.com/p/a7e4605f9505) |
-| Thu, 20 Nov 2025 14:35:39 GMT | I Secured My Cloud Network by Breaking Its Internet Connection | Gideon John Utong | [Read More](https://medium.com/p/3a586ba65105) |
-| Thu, 20 Nov 2025 14:32:15 GMT | When “Just Following Guidelines” Isn’t Enough | Nwosu Rosemary | [Read More](https://medium.com/p/d66700c31940) |
-| Thu, 20 Nov 2025 14:32:14 GMT | The Hidden Failure Pattern the 2025 AWS, Azure & Cloudflare Outages | Soumalya De | [Read More](https://medium.com/p/3af14e58a1c5) |
-| Thu, 20 Nov 2025 14:27:07 GMT | Closing the C-Suite Cybersecurity Gap | Hello @ Octellient | [Read More](https://medium.com/p/debb8b54aa20) |
-| Thu, 20 Nov 2025 14:26:32 GMT | The Shocking Truth: How 2 Million Private Photos Became AI Porn Without Consent | CodeKnight | [Read More](https://medium.com/p/9414be04dcfe) |
