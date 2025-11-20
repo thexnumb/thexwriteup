@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 18:27:28 GMT | September Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/e95b18b177ed) |
+| Thu, 20 Nov 2025 18:10:06 GMT | Symfonos: 1 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/249290623b1d) |
+| Thu, 20 Nov 2025 18:05:22 GMT | Phase 1: Infrastructure & Network Segmentation | Alex Wilcox | [Read More](https://medium.com/p/1d41729a6cb4) |
+| Thu, 20 Nov 2025 17:53:25 GMT | How AI is Breaking Cybersecurity (And Also Fixing It) | Hania Khan | [Read More](https://medium.com/p/941a2554eb60) |
+| Thu, 20 Nov 2025 17:52:13 GMT | Event Services in the UK: Delivering Seamless, Safe & Professionally Managed Events with Absolute… | waeventservices.co.uk/ | [Read More](https://medium.com/p/c4842fba56c8) |
+| Thu, 20 Nov 2025 17:51:12 GMT | The Game of IT and Relationships — Why Modern Love Feels So Different | Hafizbilaltariq | [Read More](https://medium.com/p/4c56eb09b337) |
+| Thu, 20 Nov 2025 17:49:44 GMT | Inside ShinySp1d3r: The New Ransomware-as-a-Service by ShinyHunters | Vardhan Gss | [Read More](https://medium.com/p/a843739ffb37) |
+| Thu, 20 Nov 2025 17:49:14 GMT | Abuja — The Conceptual Shortcut: A Cultural and Societal Reflection | AJIBOYE EMMANUEL | [Read More](https://medium.com/p/d7dee656b7bf) |
+| Thu, 20 Nov 2025 17:48:36 GMT | 10 Essential Security Practices Every Developer Should Follow in 2025 | Liam | [Read More](https://medium.com/p/60f3a8107ebc) |
+| Thu, 20 Nov 2025 17:48:07 GMT | Capstone Challenge 1 — Beanstalk_secrets | VajRe1 | [Read More](https://medium.com/p/7880d4546875) |
+| Thu, 20 Nov 2025 17:48:05 GMT | Phase 0: Laying the Foundation — Documents, Diagrams, and Design | Alex Wilcox | [Read More](https://medium.com/p/cb55556bb621) |
+| Thu, 20 Nov 2025 17:42:00 GMT | TryHackMe - Data Integrity & Model Poisoning - WriteUp | Axoloth | [Read More](https://medium.com/p/1ddce78dfbc6) |
 | Thu, 20 Nov 2025 17:36:55 GMT | Anthropic vs. the AI super hacker: epochal threat or textbook marketing? | Effedielle | [Read More](https://medium.com/p/69ba3d04053a) |
 | Thu, 20 Nov 2025 17:33:38 GMT | The Year I Stopped Waiting for the “Perfect Time” and Started Building My Cybersecurity Future | Manas Mahato | [Read More](https://medium.com/p/b3f487c9a687) |
+| Thu, 20 Nov 2025 17:33:31 GMT | Why Most Businesses Struggle with Microsoft Copilot? | IT_Engineer | [Read More](https://medium.com/p/d2da9016718c) |
+| Thu, 20 Nov 2025 17:31:19 GMT | Eliminating Static Secrets: Implementing Vault AppRole with Dynamic MySQL Credentials (Part 1) | Alvin Adisatria | [Read More](https://medium.com/p/71b7ecca5bbe) |
+| Thu, 20 Nov 2025 17:31:19 GMT | How to Securely Share a Drive Between Two Windows Laptops on the Same Network | salhi Yassin | [Read More](https://medium.com/p/775f55405ee0) |
 | Thu, 20 Nov 2025 17:30:18 GMT | The Linux Security Journey — “protected_regular” (Protect Regular Files) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/909ec552e70a) |
 | Thu, 20 Nov 2025 17:28:38 GMT | How I Started My Cybersecurity Journey With No Degree, No Contacts — Just Persistence | Manas Mahato | [Read More](https://medium.com/p/76c683332708) |
 | Thu, 20 Nov 2025 17:25:16 GMT | Active Exploitation Alert: Analysts at watchTowr Warn on FortiWeb | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/13a446937363) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 13:02:36 GMT | Education, Training, and the Missing Infrastructure of an Intelligence Profession | Andrey Spiridonov | [Read More](https://medium.com/p/5afa26a89793) |
 | Thu, 20 Nov 2025 13:02:03 GMT | How AI Actually Sees Your Content — And Why It Matters More Than SEO | Jen Anderson, PhD | [Read More](https://medium.com/p/f75b986a5347) |
 | Thu, 20 Nov 2025 13:02:02 GMT | Detecting Web DDoS Walkthrough. TryHackMe. | Lintu Oommen | [Read More](https://medium.com/p/fffdabfab96b) |
-| Thu, 20 Nov 2025 12:43:19 GMT | How Machine Learning Detects Frauds in UPI & Digital Payments | Deepanshuchawda | [Read More](https://medium.com/p/35457fa507e2) |
-| Thu, 20 Nov 2025 12:41:08 GMT | The Advanced User Survival Guide to Internet Outages | MEDUSA | [Read More](https://medium.com/p/a6362970069c) |
-| Thu, 20 Nov 2025 12:35:38 GMT | Cyber threats are no longer limited to attackers breaking in from the outside. | Hachion Trainings | [Read More](https://medium.com/p/c5cc95a0bea8) |
-| Thu, 20 Nov 2025 12:35:21 GMT | Cybersecurity and Data Protection in Cloud ERP: Safeguarding Your Business Operations | Business Experts MEA LLC | [Read More](https://medium.com/p/93fec03316ca) |
-| Thu, 20 Nov 2025 12:32:59 GMT | Building a DevSecOps Pipeline in GitHub Actions: From Code to Signed Docker Image | Binaya Sharma | [Read More](https://medium.com/p/04854f760551) |
-| Thu, 20 Nov 2025 12:27:34 GMT | I Watched 40% of Cyber Insurance Claims Get Denied. Here’s What Nobody Tells Small Businesses. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/b0830877a896) |
-| Thu, 20 Nov 2025 12:26:46 GMT | Benefits of 24/7 Security Guard Services in Delhi NCR | Ankit Singh | [Read More](https://medium.com/p/b8ad5f61d769) |
-| Thu, 20 Nov 2025 12:25:51 GMT | TryHackMe — Linux Privilege Escalation — Walkthrough | Alan | [Read More](https://medium.com/p/1712f6a6a232) |
-| Thu, 20 Nov 2025 12:20:55 GMT | Is asking for help… okay? | cian | [Read More](https://medium.com/p/448df393d0f5) |
-| Thu, 20 Nov 2025 12:13:59 GMT | Conscious IT Architecture | Pedro Távora Santos | [Read More](https://medium.com/p/090ee3f57248) |
-| Thu, 20 Nov 2025 12:11:23 GMT | eJPT Prep - Host & Network Penetration Testing: System-Host Based Attacks CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/a117150d2855) |
-| Thu, 20 Nov 2025 12:05:52 GMT | Cyber Kill Chain 1.2 : Nmap ile Detaylı Aktif Bilgi Toplama Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/e69f6b326c7d) |
-| Thu, 20 Nov 2025 12:05:27 GMT | What Jelly Aisles Taught Me About Writing Security Tickets Engineers Actually Fix. | Joshua McDonald | [Read More](https://medium.com/p/a9ca91754282) |
-| Thu, 20 Nov 2025 12:05:22 GMT | Open Redirection Vulnerabilities: Complete Guide to Improper Front-End Redirect Validation… | Lovelesh Gangil | [Read More](https://medium.com/p/2d40599d8442) |
-| Thu, 20 Nov 2025 12:02:03 GMT | Writeup for picoCTF challenge “Crack the Gate 1” | Walter Moar | [Read More](https://medium.com/p/00049b0d28f3) |
