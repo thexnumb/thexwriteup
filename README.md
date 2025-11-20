@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 16:51:15 GMT | How to setup your own Cybersecurity Homelab — Linux/Ubuntu [Part 1] | 0xRahuL | [Read More](https://medium.com/p/e9947141b940) |
+| Thu, 20 Nov 2025 16:49:57 GMT | Bandit OverTheWire writeup — Level 23 → Level 24 | Dawid Kowalski | [Read More](https://medium.com/p/b15105821be6) |
+| Thu, 20 Nov 2025 16:49:36 GMT | Bandit OverTheWire writeup — Level 22 → Level 23 | Dawid Kowalski | [Read More](https://medium.com/p/ed07b4dc4ee5) |
+| Thu, 20 Nov 2025 16:49:00 GMT | Bandit OverTheWire writeup — Level 21 → Level 22 | Dawid Kowalski | [Read More](https://medium.com/p/b7e537c715b7) |
+| Thu, 20 Nov 2025 16:48:44 GMT | Critical Full Organization Takeover via Email Verification Bypass | Eslam Gamal | [Read More](https://medium.com/p/3f5a55287824) |
+| Thu, 20 Nov 2025 16:47:19 GMT | A Practical Guide to Managing the AI ‘Wild West’ | Raj Patrao | [Read More](https://medium.com/p/17e79c65ac6b) |
+| Thu, 20 Nov 2025 16:41:40 GMT | The Unscripted Confession – Episode 01 | Karlomaria In LOVEPORTION | [Read More](https://medium.com/p/3b6fc741bd51) |
+| Thu, 20 Nov 2025 16:41:02 GMT | Da2025: The Year Deleted Data Stopped Being Deleted — A Look Into Modern Digital Forensics | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/2a28d84be8da) |
+| Thu, 20 Nov 2025 16:38:52 GMT | Active Directory Attack Chain: From Network Access to Domain Compromise | Johnny Meintel | [Read More](https://medium.com/p/0df6ef3f9a37) |
+| Thu, 20 Nov 2025 16:38:12 GMT | Your Digital Diary is a Corporate Asset: The Intimate Danger of AI “Erotica” Modes | Aman Sharma | [Read More](https://medium.com/p/463ab2ac5801) |
+| Thu, 20 Nov 2025 16:36:55 GMT | ️ Secure and Smart Storage: Why Ace Grease Service Provides the Best Used Cooking Oil Containers | Meeryclear | [Read More](https://medium.com/p/0cfb41c84411) |
+| Thu, 20 Nov 2025 16:22:28 GMT | Digital Fingerprints: How Your Online Footprint Can Solve Crimes Or Implicate You | Paradise technologies Inc | [Read More](https://medium.com/p/e863325a7dfd) |
 | Thu, 20 Nov 2025 16:19:43 GMT | Secure and Smart Storage: Why Ace Grease Service Provides the Best Used Cooking Oil Containers | Marketing | [Read More](https://medium.com/p/fd68de677dc0) |
 | Thu, 20 Nov 2025 16:14:29 GMT | Security Guard Jobs in Ottawa 2026–5 Qualities We Look For When Hiring | Hydra Security | [Read More](https://medium.com/p/9de251d6e984) |
 | Thu, 20 Nov 2025 16:14:05 GMT | Building a Zero Trust Network at Home: Tools, Categories, and Why It Matters | Alex Wilcox | [Read More](https://medium.com/p/a14043364d6e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 11:26:03 GMT | The First AI-Orchestrated Cyberattack: What You Need to Know | Navya | [Read More](https://medium.com/p/de7b702ace6e) |
 | Thu, 20 Nov 2025 11:23:50 GMT | Ethics in the Age of AI: Who Holds the Moral Compass? | Prasanna Kumar | [Read More](https://medium.com/p/26f19b8b3d10) |
 | Thu, 20 Nov 2025 11:13:03 GMT | Samsung A Series Review: Big Screen, Big Value | Chloe White | [Read More](https://medium.com/p/1be74f6710e4) |
-| Thu, 20 Nov 2025 11:12:23 GMT | Let’s Talk Cyber — AstralGuard Cyber Night Talk | Dallen Sadru | [Read More](https://medium.com/p/c46c270c913c) |
-| Thu, 20 Nov 2025 11:11:29 GMT | CVE Program Expands Partnership with European Union Agency for Cybersecurity (ENISA) — ENISA Is… | CVE Program Blog | [Read More](https://medium.com/p/0395ddb8422d) |
-| Thu, 20 Nov 2025 11:11:05 GMT | Tech’s New World Order? Europe’s Bold Stand Against US Giants | Truspex | [Read More](https://medium.com/p/74b78faf28a2) |
-| Thu, 20 Nov 2025 11:07:53 GMT | IT Dreams Do Come True! From Zero to Healthcare IT Hero? | Devquest | [Read More](https://medium.com/p/29f57133dda0) |
-| Thu, 20 Nov 2025 11:07:45 GMT | Digital Payments vs Digital Risks: How AI is Bridging India’s Trust Gap in FinTech | NexIntel | [Read More](https://medium.com/p/d8cde0d7cbc3) |
-| Thu, 20 Nov 2025 11:05:21 GMT | How to extract apk file from an Android phone | Joseph Savio | [Read More](https://medium.com/p/993428bd8404) |
-| Thu, 20 Nov 2025 11:05:18 GMT | The Night Delhi’s Sky Glitched: A Story About SDR, PNT and a Mystery That Hid in Plain Sight | Prashant Jha | [Read More](https://medium.com/p/6d631af609a3) |
-| Thu, 20 Nov 2025 11:04:35 GMT | Guide de conformité EN 18031 & RED DA pour les fabricants d’IoT | Dr. Guillaume Dupont | [Read More](https://medium.com/p/a8ac7d49fc14) |
-| Thu, 20 Nov 2025 11:03:01 GMT | Massive WhatsApp Flaw Exposed — 3.5 Billion Phone Numbers & Profile Photos At Risk | RealTyme | [Read More](https://medium.com/p/fce1ae7a059f) |
-| Thu, 20 Nov 2025 11:00:21 GMT | If I Can’t Be Myself With You, Who Am I? | Higgor Araújo de Souza | [Read More](https://medium.com/p/383559465a5a) |
-| Thu, 20 Nov 2025 11:00:20 GMT | Why Small and Medium Businesses Need Cyber Security Assessment Services | Zelar Trust | [Read More](https://medium.com/p/45b1c8d35c77) |
-| Thu, 20 Nov 2025 10:56:45 GMT | How to Get Certified Ethical Hacker (CEH) in 2026: Complete Guide | Manisha Chaudhary | [Read More](https://medium.com/p/427fc841c544) |
