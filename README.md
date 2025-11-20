@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 14:35:39 GMT | I Secured My Cloud Network by Breaking Its Internet Connection | Gideon John Utong | [Read More](https://medium.com/p/3a586ba65105) |
+| Thu, 20 Nov 2025 14:32:15 GMT | When “Just Following Guidelines” Isn’t Enough | Nwosu Rosemary | [Read More](https://medium.com/p/d66700c31940) |
+| Thu, 20 Nov 2025 14:32:14 GMT | The Hidden Failure Pattern the 2025 AWS, Azure & Cloudflare Outages | Soumalya De | [Read More](https://medium.com/p/3af14e58a1c5) |
+| Thu, 20 Nov 2025 14:27:07 GMT | Closing the C-Suite Cybersecurity Gap | Hello @ Octellient | [Read More](https://medium.com/p/debb8b54aa20) |
+| Thu, 20 Nov 2025 14:26:32 GMT | The Shocking Truth: How 2 Million Private Photos Became AI Porn Without Consent | CodeKnight | [Read More](https://medium.com/p/9414be04dcfe) |
+| Thu, 20 Nov 2025 14:23:31 GMT | The Converged Threat: Managing IT-OT Integration Risks in GCC Critical National Infrastructure | Geopolitical Intelligence Network - GEO' | [Read More](https://medium.com/p/bc11b3545089) |
+| Thu, 20 Nov 2025 14:21:58 GMT | From Detection to Determinism: Why the Cybersecurity Model Must Now Change | Abatis ABTU | [Read More](https://medium.com/p/3664f5697326) |
+| Thu, 20 Nov 2025 14:21:21 GMT | When Cloudflare Went Down, I Saw the Collapse of “Digital Central Planning.” | Cher from the Island | [Read More](https://medium.com/p/1e37e0832dab) |
 | Thu, 20 Nov 2025 14:20:06 GMT | AI + Quantum Pre-Threat (Hybrid Attacks) – When Future Decryption Becomes Present Danger | David SEHYEON Baek | [Read More](https://medium.com/p/92fa8df2c08a) |
 | Thu, 20 Nov 2025 14:19:48 GMT | Why GCC Oil & Gas Executives Must Treat SCADA & ICS Cybersecurity As A Strategic National… | Geopolitical Intelligence Network - GEO' | [Read More](https://medium.com/p/9bfe75a18b54) |
 | Thu, 20 Nov 2025 14:04:10 GMT | The Cybersecurity Jobs That AI Will Kill — And the Ones That Will Survive | Taimur Ijlal | [Read More](https://medium.com/p/824e1f60cf1c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 10:05:26 GMT | Top Oracle PeopleSoft Implementation Pitfalls to Watch Out For | DPR Solutions Inc | [Read More](https://medium.com/p/0cc32eac2e7a) |
 | Thu, 20 Nov 2025 10:05:12 GMT | Keyloggers: Friend or Foe? What You Need to Know | SilentInject | [Read More](https://medium.com/p/ee8037c3c34e) |
 | Thu, 20 Nov 2025 09:58:49 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/8ba26d8cc7fa) |
-| Thu, 20 Nov 2025 09:58:47 GMT | Docker Container Escape and Privilege Escalation with CAP_SYS_MODULE | Indigo Shadow | [Read More](https://medium.com/p/eaaf4b1962c1) |
-| Thu, 20 Nov 2025 09:58:37 GMT | TIPS ESET: Konfigurasi Anti-Ransomware | Adi Saputra | [Read More](https://medium.com/p/c59d897cdc63) |
-| Thu, 20 Nov 2025 09:57:03 GMT | Is This the Only Phone You’ll Ever Need? Samsung A Series | Elowen Virelle | [Read More](https://medium.com/p/23cc460b7346) |
-| Thu, 20 Nov 2025 09:55:21 GMT | Trusted Partner for Reliable Security Services - SecurYCor | uk service | [Read More](https://medium.com/p/1ff24b35aefd) |
-| Thu, 20 Nov 2025 09:50:50 GMT | Samsung Note 10 Plus: Camera Features You’ll Actually Use | Ella Walker | [Read More](https://medium.com/p/468e7aab5cdd) |
-| Thu, 20 Nov 2025 09:50:28 GMT | Firmware Reverse Engineering 101: Finding Vulnerabilities in Home Routers | Cyb3rpeter | [Read More](https://medium.com/p/d65f958f56f8) |
-| Thu, 20 Nov 2025 09:45:04 GMT | Timber Doors in Surrey: Style, Durability, and Value Explained | Callumdavey | [Read More](https://medium.com/p/a1999bf38681) |
-| Thu, 20 Nov 2025 09:41:32 GMT | Samsung A Series Is Cheaper Than You Think — And Better | Luna Collins | [Read More](https://medium.com/p/46ebdbb2ac14) |
