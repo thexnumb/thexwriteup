@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 22:30:55 GMT | PROJETO mini-lab: Monitoramento e controle com #WAZUH >Atulizações: Honeypot< | EduKayky | [Read More](https://medium.com/p/6c785cc0cd99) |
+| Thu, 20 Nov 2025 22:18:21 GMT | Before You Deploy Another API, Read This: My Takeaways From Studying API Security Fundamentals | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/caa2f888ae22) |
+| Thu, 20 Nov 2025 22:12:01 GMT | Linux Malware Detection is Broken. We Built SemanticsAV to Fix It. | Sungkyun Jung | [Read More](https://medium.com/p/49468f515cf4) |
+| Thu, 20 Nov 2025 22:11:53 GMT | Cybersecurity for Small Biz Owners Who’d Rather Be Doing Literally Anything Else | Danny Kowalsky | [Read More](https://medium.com/p/f8ce5865424a) |
+| Thu, 20 Nov 2025 22:09:52 GMT | Mastering GitHub Actions: Building Enterprise-Grade Secret Management with HashiCorp Vault and OIDC | Salwan Mohamed | [Read More](https://medium.com/p/97e8fb550306) |
 | Thu, 20 Nov 2025 22:05:27 GMT | How to Access the Dark Web Safely in 2025 | Tor BBB | [Read More](https://medium.com/p/58a5dd053e60) |
 | Thu, 20 Nov 2025 21:47:12 GMT | Why “Unreliable” UDP Is the Best Choice for VPNs | Vishnu Unnikrishnan | [Read More](https://medium.com/p/ae61e34176c3) |
 | Thu, 20 Nov 2025 21:38:08 GMT | Manual Integral de Análisis de Riesgo Basado en Factor Humano (H-FRA) | Mauricio Alan Illera Diaz | [Read More](https://medium.com/p/88351d91ded4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 15:58:38 GMT | CyberDefenders — BumbleSting Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/8e4d94736490) |
 | Thu, 20 Nov 2025 15:52:05 GMT | Tired of “This content isn’t available in your region”? Here’s how to fix it | Panda Security | [Read More](https://medium.com/p/9e7e9cf20bdc) |
 | Thu, 20 Nov 2025 15:51:44 GMT | L’ambition d’Olivia | Florent M | [Read More](https://medium.com/p/0511da950aa9) |
-| Thu, 20 Nov 2025 15:46:39 GMT | Will Akira trigger a week-long hospital disruption by end of 2026? | Wes Young | [Read More](https://medium.com/p/f458759a4b23) |
-| Thu, 20 Nov 2025 15:42:48 GMT | Voices for Development: A Gendered Crisis of Security in Northern Nigeria. | ABBA’s Masterpiece ✨ | [Read More](https://medium.com/p/3aac0516d5b6) |
-| Thu, 20 Nov 2025 15:39:47 GMT | Crypto Platforms Hit as Cloudflare Outage Sparks New Questions About Web3 Dependence on Web2 | Faisal Khan | [Read More](https://medium.com/p/5a7a77d45451) |
-| Thu, 20 Nov 2025 15:33:10 GMT | USB Rubber Ducky — Creating Custom Payloads | TAYO | [Read More](https://medium.com/p/9b6adb141e31) |
-| Thu, 20 Nov 2025 15:30:42 GMT | SOC Incident Report — IDOR Web Attack Analysis (LetsDefend) | Soumodeep Das | [Read More](https://medium.com/p/c96371d8c5fb) |
