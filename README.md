@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 09:17:26 GMT | SaaS Security Is the New Perimeter: Why Shadow SaaS Is Exploding | Jay C Roberts | [Read More](https://medium.com/p/db7463772d1b) |
+| Thu, 20 Nov 2025 09:17:16 GMT | Your Organisation Already Deployed AI – You Just Didn’t Govern It | AXSAS | [Read More](https://medium.com/p/a6a062cb3d8b) |
+| Thu, 20 Nov 2025 09:11:19 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/8cda7546476b) |
+| Thu, 20 Nov 2025 09:03:25 GMT | Security & Auth for Your Backend Swift — Protecting the Data on Your App | BB - iOS Developer | [Read More](https://medium.com/p/c245a04c91e6) |
+| Thu, 20 Nov 2025 09:02:26 GMT | Bug Bounty Shortcut: Turn LeakRadar Results Into High-Impact Reports in Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/ceba3bd9ad96) |
+| Thu, 20 Nov 2025 09:00:20 GMT | OverTheWire Bandit Walkthrough: Conquering Level 0 & Your First SSH Login | Sajad Chehrazi | [Read More](https://medium.com/p/f238cce3c97a) |
+| Thu, 20 Nov 2025 08:59:06 GMT | How to Pen-test Your Own Network? | Beetles IO | [Read More](https://medium.com/p/9e81b63f275f) |
+| Thu, 20 Nov 2025 08:55:41 GMT | Fixing Python PEP 668 Errors on Kali Linux: Safely Installing Tool Dependencies Without Breaking… | Jestin Samuel | [Read More](https://medium.com/p/8ae48828a54b) |
+| Thu, 20 Nov 2025 08:54:13 GMT | Hyderabad Website Design Experts | Mr Techies | [Read More](https://medium.com/p/33fde3a2b07a) |
+| Thu, 20 Nov 2025 08:53:06 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/12393d0e142a) |
+| Thu, 20 Nov 2025 08:45:49 GMT | Task Hijacking & StrandHogg (Part 2): A Deeper Dive Into Android’s Activity Manipulation… | Redfox Security | [Read More](https://medium.com/p/ee7bf8e36ef0) |
+| Thu, 20 Nov 2025 08:39:24 GMT | Best VPN for censorship bypass: 5 options that actually work | Safelyo VPN | [Read More](https://medium.com/p/ec18a2170e5f) |
+| Thu, 20 Nov 2025 08:30:27 GMT | Nigeria of Particular Concern | ‘Gbubemi Atimomo | [Read More](https://medium.com/p/646b5670d530) |
+| Thu, 20 Nov 2025 08:29:02 GMT | Overview and Remediation Guide for the Cisco IOS XE Web UI Bug (CVE-2023–20198), Also Known as… | Criminal IP | [Read More](https://medium.com/p/ba7c736bad2e) |
 | Thu, 20 Nov 2025 08:23:56 GMT | Perl Jam: When Your Server Starts “Even Flow”-ing Your Secrets | Arnav Vaidya | [Read More](https://medium.com/p/febb42efeabc) |
 | Thu, 20 Nov 2025 08:15:24 GMT | How to set up SmartDNS on router: 4 steps for any service | Safelyo Global | [Read More](https://medium.com/p/b1ee71867e7d) |
 | Thu, 20 Nov 2025 08:10:57 GMT | DetectionStream Just Got a Major Upgrade: Suricata Integration is Here! | Kostas | [Read More](https://medium.com/p/96ea5caf635c) |
@@ -100,17 +114,3 @@ By Pavan Teja Somisetty | Pavan Naidu | [Read More](https://medium.com/p/7860a59
 | Thu, 20 Nov 2025 02:05:06 GMT | A Beginner’s Guide to Security Information and Event Management (SIEM) | Samina Perveen | [Read More](https://medium.com/p/30904fe4afcb) |
 | Thu, 20 Nov 2025 02:04:37 GMT | 0-Day Hunting Guide ️‍♂️: Recon Techniques Nobody Talks About | Vipul Sonule | [Read More](https://medium.com/p/d37fcaebf560) |
 | Thu, 20 Nov 2025 02:04:20 GMT | They Clicked One Link. Within 24 Hours, Their Entire Business Was Gone | Noel | [Read More](https://medium.com/p/fda0e89e70b0) |
-| Thu, 20 Nov 2025 01:52:07 GMT | Signs Your Man Fears Losing You: Understanding His True Affection | Sevenqian | [Read More](https://medium.com/p/16bda7ca320c) |
-| Thu, 20 Nov 2025 01:50:39 GMT | HTB Write-Up: Flag Command | MZEEN | [Read More](https://medium.com/p/0d606f2db295) |
-| Thu, 20 Nov 2025 01:47:27 GMT | OSCP Grind - PG Practice - Snookums | Mr Jokar | [Read More](https://medium.com/p/5fcb9c3a30f4) |
-| Thu, 20 Nov 2025 01:16:31 GMT | The Day I Learned That “Temporary” Means Forever in Corporate IT | NAJEEB WEERABANGSA | [Read More](https://medium.com/p/675842b29819) |
-| Thu, 20 Nov 2025 01:09:17 GMT | A zero-trust identity playbook with Okta + SailPoint that costs nothing extra and deploys in one… | Awadyafai | [Read More](https://medium.com/p/63b55adcf47e) |
-| Thu, 20 Nov 2025 01:06:57 GMT | Capítulo 7 — Códigos de Sangue | Kleber Andrade | [Read More](https://medium.com/p/8fa86946adb9) |
-| Thu, 20 Nov 2025 00:58:58 GMT | Week 2: The First “Aha!” Moment | ZAYN | [Read More](https://medium.com/p/3829de51ab7d) |
-| Thu, 20 Nov 2025 00:57:11 GMT | The Quiet Apocalypse: Why the Most Dangerous Cyberattacks Are the Ones You Never Hear About | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/de88fac39777) |
-| Thu, 20 Nov 2025 00:52:44 GMT | International Conference on Cyberlaw, Cybercrime & Cybersecurity Conference 2025 | Matthew.Rosenquist | [Read More](https://medium.com/p/40bed03af38c) |
-| Thu, 20 Nov 2025 00:34:51 GMT | صیغه حلال سمنان صیغه شاهرود صیغه میامی صیغه دامغان صیغه مهدی شهر صیغه گرمسار صیغه سرخه صیغه آرادان | صیغه موقت و شرعی 09019170148همسریابی | [Read More](https://medium.com/p/b1b2f2efe625) |
-| Thu, 20 Nov 2025 00:01:55 GMT | The Death of Annual Audits: Why AI Is Making Compliance a Real-Time Function | ThreatLens byGurdeep | [Read More](https://medium.com/p/e70e411e2a71) |
-| Wed, 19 Nov 2025 23:52:49 GMT | IT JOURNEY CompTIA A+ (Intro episode to new tech series). | Game Compute | [Read More](https://medium.com/p/0a43c59a164c) |
-| Wed, 19 Nov 2025 23:44:24 GMT | It's like being a superhero | Christian | [Read More](https://medium.com/p/7b46ad7400f8) |
-| Wed, 19 Nov 2025 23:40:14 GMT | THM — Basic Pentesting | ThackLab | [Read More](https://medium.com/p/c19ef53796f0) |
