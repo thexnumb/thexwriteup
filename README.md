@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 04:36:02 GMT | P4 Bugs every beginner can find in 2025 | ProwlSec | [Read More](https://medium.com/p/1c1094719e60) |
+| Thu, 20 Nov 2025 04:31:15 GMT | The Phishing Playbook of 2025: How AI and “Crime-as-a-Service” Changed the Game | Sidhantchaurasiya | [Read More](https://medium.com/p/d56945989f7c) |
 | Thu, 20 Nov 2025 04:15:03 GMT | GraphQLScoper | bineeg | [Read More](https://medium.com/p/45f51f29a194) |
 | Thu, 20 Nov 2025 04:12:04 GMT | 99% of Developers Don’t Understand JWT and OAuth | Jatin Prasad | [Read More](https://medium.com/p/f156fc297dcb) |
 | Thu, 20 Nov 2025 04:02:02 GMT | Breaking Down Webmin File Disclosure Vulnerability — A Lab Walkthrough | Vivektumma27 | [Read More](https://medium.com/p/0f44675007bc) |
@@ -111,5 +113,3 @@ By Pavan Teja Somisetty | Pavan Naidu | [Read More](https://medium.com/p/7860a59
 | Wed, 19 Nov 2025 18:24:18 GMT | Introduction to ShieldLabs: Real-Time Risk Scoring for Modern Web Traffic | ShieldLabs | [Read More](https://medium.com/p/af694afcf4c9) |
 | Wed, 19 Nov 2025 18:23:05 GMT | Cyber Kill Chain 1.1 : Pasif Bilgi Toplama (OSINT) Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/b5d58d7a8378) |
 | Wed, 19 Nov 2025 18:21:45 GMT | Cloud Computing Is Simpler Than You Think : Why It Matters in 2025 | Mughira Ahmed | [Read More](https://medium.com/p/354f9c77291d) |
-| Wed, 19 Nov 2025 18:20:44 GMT | Building Trust in the Digital Age: How Blockchain Transforms Document Integrity | Ylium Token | [Read More](https://medium.com/p/d1c0d05983ed) |
-| Wed, 19 Nov 2025 18:20:31 GMT | OWASP Top 10: 2025 — Web Application Vulnerabilities (PART 1) | 0xBinaryOrbit | [Read More](https://medium.com/p/c3fdc2911c45) |
