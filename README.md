@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 07:14:13 GMT | Market Forecast: Enterprise Email Security | Umangp | [Read More](https://medium.com/p/de52ab8a0dbe) |
+| Thu, 20 Nov 2025 07:10:37 GMT | The Day Our Office Went Dark — And What It Taught Me About Power Backup Solutions | Sarah | [Read More](https://medium.com/p/1ce54e241c69) |
+| Thu, 20 Nov 2025 07:10:13 GMT | How Tsutomu Shimomura Hunted Down the World’s Most Wanted Hacker, Kevin Mitnick | David SEHYEON Baek | [Read More](https://medium.com/p/23b4649a2bcb) |
+| Thu, 20 Nov 2025 07:08:41 GMT | 4 Components of Data Security Management: A Simple Guide by Aptimized | Akhilareddy | [Read More](https://medium.com/p/beaccb68b59e) |
+| Thu, 20 Nov 2025 07:08:32 GMT | Unlock Business Growth with Apex Consultants’ Advanced IT Products & Solutions | ApexConsultants | [Read More](https://medium.com/p/b4d9b2a81a63) |
+| Thu, 20 Nov 2025 07:07:47 GMT | Unprecedented WhatsApp Leak Exposes Identities of Billions | Himanshu Bhatt | [Read More](https://medium.com/p/b26f7e35e8e7) |
+| Thu, 20 Nov 2025 07:07:46 GMT | PDF Magical — A Safe, Client-Side PDF Tool in a World Where Most Websites Still Upload Your Files | Pratik Ranpariya | [Read More](https://medium.com/p/46556a5ee314) |
+| Thu, 20 Nov 2025 07:02:08 GMT | Tails 7.2: Privacy Linux That Actually Matters | Can Artuc | [Read More](https://medium.com/p/59645027c248) |
+| Thu, 20 Nov 2025 06:55:47 GMT | The Future Together Between AI and Blockchain: The Perfect Contract Match | Dealonai | [Read More](https://medium.com/p/e7fe1bac9c18) |
+| Thu, 20 Nov 2025 06:49:31 GMT | BloodHound Mastery: 20 Queries for Step-by-Step Active Directory Domination | Very Lazy Tech | [Read More](https://medium.com/p/98d813c9cdf8) |
+| Thu, 20 Nov 2025 06:47:59 GMT | The Daily Tech Digest: 20 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f8a1fc35650c) |
+| Thu, 20 Nov 2025 06:47:40 GMT | ETHICAL HACKING MASTER PACK 
+ All Courses + Premium Tools in One Place! | DARKNET GHOST | [Read More](https://medium.com/p/0c583eeee494) |
+| Thu, 20 Nov 2025 06:47:23 GMT | ประจำวันพฤหัสบดีที่ 20 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7b0ee84da79a) |
+| Thu, 20 Nov 2025 06:46:16 GMT | How North Korean Hackers Are Misusing JSON Storage — The “Contagious Interview” Campaign | June Klove | [Read More](https://medium.com/p/1df0797a2b84) |
+| Thu, 20 Nov 2025 06:37:06 GMT | How to Perform a Comprehensive Data Breach Risk Assessment in Indonesia: | HawkShield | [Read More](https://medium.com/p/b80d7e796bd0) |
+| Thu, 20 Nov 2025 06:36:29 GMT | The NIS2 Compliance Imperative: Strategies for Avoiding €10M Fines | Consulting4sec | [Read More](https://medium.com/p/464610f4390b) |
 | Thu, 20 Nov 2025 06:30:05 GMT | The Code You Don’t See Is the One Driving Your Business Forward | Tech Immortals | [Read More](https://medium.com/p/3328e775ba3b) |
 | Thu, 20 Nov 2025 06:25:52 GMT | Why Security Guard Services Are Essential Today: A Complete Guide to Top Security Services | Ciss India | [Read More](https://medium.com/p/7c9c5df83901) |
 | Thu, 20 Nov 2025 06:18:32 GMT | East Asia’s Strategic Crossroads: Rethinking Economic Dependence on China | MASUM BILLAH | [Read More](https://medium.com/p/910cc1de9d62) |
@@ -97,19 +114,3 @@ By Pavan Teja Somisetty | Pavan Naidu | [Read More](https://medium.com/p/7860a59
 | Wed, 19 Nov 2025 21:17:30 GMT | Kimlik Doğrulama Zafiyetlerine Giriş: Modern Web Uygulamalarında Görülen Yaygın Hatalar | Songül Kızılay | [Read More](https://medium.com/p/9fdced04ae58) |
 | Wed, 19 Nov 2025 21:08:41 GMT | Reprendre le contrôle de ses données : Mon installation Syncthing ultime (Docker, Nginx & MikroTik) | RAPATT | [Read More](https://medium.com/p/1940806a425b) |
 | Wed, 19 Nov 2025 21:04:37 GMT | Cybersecurity Basics Everyone Gets Wrong (And How to Fix Them) | David Constance | [Read More](https://medium.com/p/0b45381c0b27) |
-| Wed, 19 Nov 2025 20:49:05 GMT | A Student’s Guide to VPNs: How They Work and When to Use Them | Md Shahata Zarab Efti | [Read More](https://medium.com/p/a253be422c37) |
-| Wed, 19 Nov 2025 20:46:07 GMT | 1.3 Billion Passwords Exposed | Lisa | [Read More](https://medium.com/p/8c55c29c8aab) |
-| Wed, 19 Nov 2025 20:43:44 GMT | Mobile Hacking Lab “Post Board” Writeup | Akshay Ravi | [Read More](https://medium.com/p/ef3772750546) |
-| Wed, 19 Nov 2025 20:42:51 GMT | ICA-1 — Full Walk-through & Mastery: Decoding Base64, Custom Recon Tool | Shikhar Sinha | [Read More](https://medium.com/p/de3d7ba41b72) |
-| Wed, 19 Nov 2025 20:42:35 GMT | Synced Passkeys in Microsoft Entra for Phishing-resistant MFA | Mechanics Team | [Read More](https://medium.com/p/ee83dd3182b4) |
-| Wed, 19 Nov 2025 20:40:46 GMT | What the Cloudflare outage reveals about cloud power & cyberspace governance | Hayat Outahar | [Read More](https://medium.com/p/8619fedf5769) |
-| Wed, 19 Nov 2025 20:21:34 GMT | BloodHound & PlumHound on Kali Linux 2025: The Guide I Wish Existed Before I Lost 2 Hours Fighting… | Mbcyberworks | [Read More](https://medium.com/p/397e43035fa7) |
-| Wed, 19 Nov 2025 20:19:28 GMT | ISO 27005 in SaaS Integrations: Making Smart Choices, Not Just Rushing into Things | RMaria | [Read More](https://medium.com/p/f5e703638e9f) |
-| Wed, 19 Nov 2025 20:11:05 GMT | The Princeton University Data Breach: What Happened? | IT_Engineer | [Read More](https://medium.com/p/6330c271ad4a) |
-| Wed, 19 Nov 2025 20:10:39 GMT | TCM Security’s PMAT Challenge: SillyPutty | Sagar Joshi | [Read More](https://medium.com/p/68509e77b4e1) |
-| Wed, 19 Nov 2025 20:09:10 GMT | Post-Quantum Cryptography: The Enterprise Readiness Playbook for CTOs | Vaultnet Defense | [Read More](https://medium.com/p/db673def04ae) |
-| Wed, 19 Nov 2025 20:07:48 GMT | Passkeys: The Future of Secure Logins | Kael Virex | [Read More](https://medium.com/p/ef10315f453d) |
-| Wed, 19 Nov 2025 20:05:27 GMT | Cybersecurity Career Roadmap 2025: Step-by-Step Guide from Beginner to Professional -kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/df99394ba0ee) |
-| Wed, 19 Nov 2025 20:01:00 GMT | AUKUS and the Limits of Deterrence: Why Security (Still) Depends on Diplomacy — Lessons from 19.11 | Josephine Schwab | [Read More](https://medium.com/p/570d34d363ba) |
-| Wed, 19 Nov 2025 19:53:55 GMT | How Guided Workflows Reduce SOC Burnout and Boost Analyst Performance | Graylog | [Read More](https://medium.com/p/64dbc857b5bd) |
-| Wed, 19 Nov 2025 19:49:04 GMT | 10 Mistakes Freshers Make in Cybersecurity (From a CTO’s Laptop) | Devkumar Shah | [Read More](https://medium.com/p/86c3c08ddbf6) |
