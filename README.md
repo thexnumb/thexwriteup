@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 03:02:24 GMT | Understanding Forward and Reverse Proxies | Mohomedrushdi | [Read More](https://medium.com/p/66f0d90fc6f4) |
+| Thu, 20 Nov 2025 02:55:09 GMT | 5 Critical Actively Exploited Vulnerabilities While AI Bubble Shows Cracks: What Security Teams… | David Grice | [Read More](https://medium.com/p/0db01d23190b) |
+| Thu, 20 Nov 2025 02:35:13 GMT | How Incidents, Events, and Logs Work Together in Cybersecurity | Nagendra Korasikha | [Read More](https://medium.com/p/0d65192467b7) |
+| Thu, 20 Nov 2025 02:32:52 GMT | The Internet Is Becoming Less Open — And We’re All Feeling It | Sam Writes Security | [Read More](https://medium.com/p/3dc14c8c93e7) |
+| Thu, 20 Nov 2025 02:30:41 GMT | DemonScan – Seeing the Code the Way a Security Mind Sees the World | Nabharaj Sawant | [Read More](https://medium.com/p/e735c6517afc) |
+| Thu, 20 Nov 2025 02:10:35 GMT | From Wi-Fi Hacks to India’s #1 Red Teamer: The Nikhil Srivastava Story | Cyber Unbound | [Read More](https://medium.com/p/4cc5d5d3179c) |
+| Thu, 20 Nov 2025 02:07:02 GMT | Weekly Threat Intelligence Report 17 Nov 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/610fbd3b9bc6) |
+| Thu, 20 Nov 2025 02:05:06 GMT | A Beginner’s Guide to Security Information and Event Management (SIEM) | Samina Perveen | [Read More](https://medium.com/p/30904fe4afcb) |
+| Thu, 20 Nov 2025 02:04:37 GMT | 0-Day Hunting Guide ️‍♂️: Recon Techniques Nobody Talks About | Vipul Sonule | [Read More](https://medium.com/p/d37fcaebf560) |
+| Thu, 20 Nov 2025 02:04:20 GMT | They Clicked One Link. Within 24 Hours, Their Entire Business Was Gone | Noel | [Read More](https://medium.com/p/fda0e89e70b0) |
+| Thu, 20 Nov 2025 01:52:07 GMT | Signs Your Man Fears Losing You: Understanding His True Affection | Sevenqian | [Read More](https://medium.com/p/16bda7ca320c) |
+| Thu, 20 Nov 2025 01:50:39 GMT | HTB Write-Up: Flag Command | MZEEN | [Read More](https://medium.com/p/0d606f2db295) |
+| Thu, 20 Nov 2025 01:47:27 GMT | OSCP Grind - PG Practice - Snookums | Mr Jokar | [Read More](https://medium.com/p/5fcb9c3a30f4) |
 | Thu, 20 Nov 2025 01:16:31 GMT | The Day I Learned That “Temporary” Means Forever in Corporate IT | NAJEEB WEERABANGSA | [Read More](https://medium.com/p/675842b29819) |
 | Thu, 20 Nov 2025 01:09:17 GMT | A zero-trust identity playbook with Okta + SailPoint that costs nothing extra and deploys in one… | Awadyafai | [Read More](https://medium.com/p/63b55adcf47e) |
 | Thu, 20 Nov 2025 01:06:57 GMT | Capítulo 7 — Códigos de Sangue | Kleber Andrade | [Read More](https://medium.com/p/8fa86946adb9) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 19 Nov 2025 17:47:16 GMT | ✨ The Hacker Who Could See Feelings | Aradhya Sharma | [Read More](https://medium.com/p/96d9d2bf731b) |
 | Wed, 19 Nov 2025 17:38:11 GMT | Stop Hitting ‘Later’: Software Updates are Mandatory Security Patches! | Max Farnga | [Read More](https://medium.com/p/bf56c6e84d1a) |
 | Wed, 19 Nov 2025 17:36:51 GMT | Balancer, 0x48cf, dTrinity: $121M Lost to Rounding Bugs, Upgrade Backdoors, and Missing Auth | Olympix | [Read More](https://medium.com/p/c5d02358b735) |
-| Wed, 19 Nov 2025 17:35:50 GMT | Episode 14: Campus Rise | Day One Signal | [Read More](https://medium.com/p/2366c12435b7) |
-| Wed, 19 Nov 2025 17:29:53 GMT | The Night I Stopped Trying to Be Perfect | Heidi K. Isern | [Read More](https://medium.com/p/55bea7b7d971) |
-| Wed, 19 Nov 2025 17:28:07 GMT | Introduce myself | Purapung | [Read More](https://medium.com/p/a8866ed1c614) |
-| Wed, 19 Nov 2025 17:27:47 GMT | Still Talking About The Security Situation In Nigeria | Emmanuel Amoo | [Read More](https://medium.com/p/9c49f2611e37) |
-| Wed, 19 Nov 2025 17:21:37 GMT | The job offer:
-Seeking a young, dynamic, proactive person... | PlavsicMassimo | [Read More](https://medium.com/p/e41a8a78ed00) |
-| Wed, 19 Nov 2025 17:17:26 GMT | TryHackMe - Django: CVE-2025-64459 - WriteUp | Axoloth | [Read More](https://medium.com/p/b93885f1cf23) |
-| Wed, 19 Nov 2025 17:16:29 GMT | VulnHub DC-3 Walkthrough: Exploiting Joomla CMS | Kalash Kundaliya | [Read More](https://medium.com/p/f9b7ddce5150) |
-| Wed, 19 Nov 2025 17:12:32 GMT | The Quiet Breach: A Reminder That Hackers Are Not Your Biggest Problem | Travis Ray Caverhill | [Read More](https://medium.com/p/01dab4dc8d14) |
-| Wed, 19 Nov 2025 17:11:55 GMT | TryHackMe - WAF: Introduction - WriteUp | Axoloth | [Read More](https://medium.com/p/ba16ff7cf3d4) |
-| Wed, 19 Nov 2025 17:10:44 GMT | Why We’re Doubling Down into Doppel | Justin Schulman | [Read More](https://medium.com/p/24e42938bba7) |
-| Wed, 19 Nov 2025 17:07:54 GMT | WEB-300 and OSWE 2025: Review and Insights | 0x5ea3o1f | [Read More](https://medium.com/p/b1d9197447aa) |
-| Wed, 19 Nov 2025 17:06:44 GMT | Why a Security Architecture Review Is Essential to Risk Management | Cindy Kaplan | [Read More](https://medium.com/p/ef1cff74435b) |
-| Wed, 19 Nov 2025 17:04:23 GMT | TryHackMe - Shock and Silence - WriteUp | Axoloth | [Read More](https://medium.com/p/5ded41464733) |
