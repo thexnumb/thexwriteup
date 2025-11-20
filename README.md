@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 10:21:25 GMT | AI in Cybersecurity: Tool or Threat? | Lanvaus | [Read More](https://medium.com/p/2961ba4719c2) |
+| Thu, 20 Nov 2025 10:18:05 GMT | Fintech Compliance in 2025: Simple Strategies for Complex Regulations | SecureSlate | [Read More](https://medium.com/p/f17729de18a5) |
+| Thu, 20 Nov 2025 10:15:12 GMT | Cyber Security Services That Protect Your Business from Ransomware Attacks | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/d5fcfb281359) |
+| Thu, 20 Nov 2025 10:13:46 GMT | Stop Guessing — Samsung A Series Delivers Exactly This | Hana Saito | [Read More](https://medium.com/p/cfe0e72ea003) |
+| Thu, 20 Nov 2025 10:13:34 GMT | Acceptance Criteria: How to Define and Deliver User Stories | TaskFord | [Read More](https://medium.com/p/c31815a372aa) |
+| Thu, 20 Nov 2025 10:11:18 GMT | DockerLabs Writeup — Reflection (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a5f93732671b) |
+| Thu, 20 Nov 2025 10:08:48 GMT | Leveraging Deep Learning for Real-Time Threat Detection in Public Spaces: Lessons from the Delhi… | Rohit Thakur | [Read More](https://medium.com/p/4c23da327883) |
+| Thu, 20 Nov 2025 10:05:26 GMT | Top Oracle PeopleSoft Implementation Pitfalls to Watch Out For | DPR Solutions Inc | [Read More](https://medium.com/p/0cc32eac2e7a) |
+| Thu, 20 Nov 2025 10:05:12 GMT | Keyloggers: Friend or Foe? What You Need to Know | SilentInject | [Read More](https://medium.com/p/ee8037c3c34e) |
+| Thu, 20 Nov 2025 09:58:49 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/8ba26d8cc7fa) |
+| Thu, 20 Nov 2025 09:58:47 GMT | Docker Container Escape and Privilege Escalation with CAP_SYS_MODULE | Indigo Shadow | [Read More](https://medium.com/p/eaaf4b1962c1) |
+| Thu, 20 Nov 2025 09:58:37 GMT | TIPS ESET: Konfigurasi Anti-Ransomware | Adi Saputra | [Read More](https://medium.com/p/c59d897cdc63) |
+| Thu, 20 Nov 2025 09:57:03 GMT | Is This the Only Phone You’ll Ever Need? Samsung A Series | Elowen Virelle | [Read More](https://medium.com/p/23cc460b7346) |
+| Thu, 20 Nov 2025 09:55:21 GMT | Trusted Partner for Reliable Security Services - SecurYCor | uk service | [Read More](https://medium.com/p/1ff24b35aefd) |
+| Thu, 20 Nov 2025 09:50:50 GMT | Samsung Note 10 Plus: Camera Features You’ll Actually Use | Ella Walker | [Read More](https://medium.com/p/468e7aab5cdd) |
+| Thu, 20 Nov 2025 09:50:28 GMT | Firmware Reverse Engineering 101: Finding Vulnerabilities in Home Routers | Cyb3rpeter | [Read More](https://medium.com/p/d65f958f56f8) |
+| Thu, 20 Nov 2025 09:45:04 GMT | Timber Doors in Surrey: Style, Durability, and Value Explained | Callumdavey | [Read More](https://medium.com/p/a1999bf38681) |
 | Thu, 20 Nov 2025 09:41:32 GMT | Samsung A Series Is Cheaper Than You Think — And Better | Luna Collins | [Read More](https://medium.com/p/46ebdbb2ac14) |
+| Thu, 20 Nov 2025 09:41:03 GMT | How to Secure Your MySQL Database on XAMPP and WAMP | MySQL FUEL | [Read More](https://medium.com/p/4db610068965) |
 | Thu, 20 Nov 2025 09:35:03 GMT | Comprehensive Airport and Event Security Solutions - Barzo Security | Travel time | [Read More](https://medium.com/p/ea4158049de2) |
+| Thu, 20 Nov 2025 09:33:21 GMT | Why Investing in Cybersecurity Consultancy Services Is Crucial for Your Organisation’s Future | Sentry Cyber | [Read More](https://medium.com/p/16a4ee153706) |
 | Thu, 20 Nov 2025 09:32:21 GMT | IT Services Provider vs In-House IT: Costs and Risks | Tech Rajendra | [Read More](https://medium.com/p/cc45dc117463) |
 | Thu, 20 Nov 2025 09:30:21 GMT | Key Benefits of Implementing ServiceNow Financial Management | Alex s | [Read More](https://medium.com/p/1a48823b3bd0) |
 | Thu, 20 Nov 2025 09:24:50 GMT | Essential Security Tips For Microsoft Windows 10 Pro Users | Rory Deleon | [Read More](https://medium.com/p/8b41d1c9dee1) |
@@ -94,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 05:28:48 GMT | Why In-App Protection Is Becoming the New Standard for Digital Security | Gargiben | [Read More](https://medium.com/p/f13ad816dab2) |
 | Thu, 20 Nov 2025 05:23:05 GMT | Anthropic’s “AI-orchestrated” hack | Anand Raj | [Read More](https://medium.com/p/1db76d4cceed) |
 | Thu, 20 Nov 2025 05:10:46 GMT | Are Software Updates Helping You or Slowing You Down? | Abinesh | [Read More](https://medium.com/p/7ef897d65c7b) |
-| Thu, 20 Nov 2025 05:10:07 GMT | Build Your Future with an Advanced Cyber Security Education Program | Edglobalacademy | [Read More](https://medium.com/p/c041d114958e) |
-| Thu, 20 Nov 2025 05:06:02 GMT | Securing the Stateless Backend: Identity and Isolation in Java Microservices | cyber_pix | [Read More](https://medium.com/p/9006d3e0bb3f) |
-| Thu, 20 Nov 2025 05:05:49 GMT | How Can Data Loss Prevention Software Strengthen Your Organization’s Security Framework? | keyTrackr | [Read More](https://medium.com/p/be0387714496) |
-| Thu, 20 Nov 2025 04:51:09 GMT | The Rise of Organized Cross-Border Fraud Networks in Asia: Structural Risks for Global Governance | Raven LyΣ | [Read More](https://medium.com/p/157b09461b8b) |
-| Thu, 20 Nov 2025 04:47:49 GMT | Quantitative Risk Scoring for Autonomous AI Agents: Integrating Intent, Capabilities, and… | Ruchik Dave | [Read More](https://medium.com/p/a83a78ae9ce9) |
-| Thu, 20 Nov 2025 04:44:37 GMT | The Rise of Data Breach Lawsuits: How Cyberattacks and AI Powered Phishing Are Fueling New Class… | Dilip Barot | [Read More](https://medium.com/p/327bcd8d95cc) |
-| Thu, 20 Nov 2025 04:36:02 GMT | P4 Bugs every beginner can find in 2025 | ProwlSec | [Read More](https://medium.com/p/1c1094719e60) |
-| Thu, 20 Nov 2025 04:31:15 GMT | The Phishing Playbook of 2025: How AI and “Crime-as-a-Service” Changed the Game | Sidhantchaurasiya | [Read More](https://medium.com/p/d56945989f7c) |
-| Thu, 20 Nov 2025 04:15:03 GMT | GraphQLScoper | bineeg | [Read More](https://medium.com/p/45f51f29a194) |
-| Thu, 20 Nov 2025 04:12:04 GMT | 99% of Developers Don’t Understand JWT and OAuth | Jatin Prasad | [Read More](https://medium.com/p/f156fc297dcb) |
-| Thu, 20 Nov 2025 04:02:02 GMT | Breaking Down Webmin File Disclosure Vulnerability — A Lab Walkthrough | Vivektumma27 | [Read More](https://medium.com/p/0f44675007bc) |
-| Thu, 20 Nov 2025 03:54:36 GMT | Cloudflare outage on November 18, 2025
-By Pavan Teja Somisetty | Pavan Naidu | [Read More](https://medium.com/p/7860a597db3c) |
-| Thu, 20 Nov 2025 03:33:29 GMT | EdgeStepper: Trojan di Tingkat Router yang Bikin Update Software jadi Malware | Adi Saputra | [Read More](https://medium.com/p/0c798873dab9) |
-| Thu, 20 Nov 2025 03:32:31 GMT | How I would apply 5 IT Lessons to my Professional Development | Asif Sayed | [Read More](https://medium.com/p/b9ccd901e9ac) |
-| Thu, 20 Nov 2025 03:32:04 GMT | 5 Key Steps to Harden Node.js for Cloud Environments | Arunangshu Das | [Read More](https://medium.com/p/aa08c76d899a) |
-| Thu, 20 Nov 2025 03:18:05 GMT | Silver Fox APT’s Playbook: How a Signed Driver Became a Weapon Against Security Software | Deven Chhajed | [Read More](https://medium.com/p/65948263c376) |
-| Thu, 20 Nov 2025 03:16:53 GMT | 30 Days of Red Team: Day 8 — Windows Persistence Mechanisms | Maxwell Cross | [Read More](https://medium.com/p/bee31a6ba75d) |
-| Thu, 20 Nov 2025 03:10:58 GMT | In real world scenario if a company is located in different geographical locations, In that case… | Amitabha | [Read More](https://medium.com/p/2651ad5fe57e) |
-| Thu, 20 Nov 2025 03:02:24 GMT | Understanding Forward and Reverse Proxies | Mohomedrushdi | [Read More](https://medium.com/p/66f0d90fc6f4) |
