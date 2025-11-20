@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 13:29:44 GMT | Why Local Security Services Matter More Than Ever | Security services Near Me | [Read More](https://medium.com/p/965284b86a50) |
+| Thu, 20 Nov 2025 13:28:05 GMT | Fordefi partners with Blockaid to bring real-time transaction screening to institutional wallets | Trey Archambeau | [Read More](https://medium.com/p/8929491e4d79) |
+| Thu, 20 Nov 2025 13:27:47 GMT | For months, I looked into why it’s so hard to find a good tech agency. | Kshitij Dua | [Read More](https://medium.com/p/321ac4f4e037) |
+| Thu, 20 Nov 2025 13:25:25 GMT | Data Heist  Hackviser Walkthrough | HAIDAR MUSAMEH | [Read More](https://medium.com/p/bcff138a725a) |
+| Thu, 20 Nov 2025 13:23:08 GMT | ️ Blog 53: What Are Name Servers, Why They Are Important? Hosted Zones in Amazon Route 53 | Prutha_Dongre | [Read More](https://medium.com/p/50c118898948) |
+| Thu, 20 Nov 2025 13:18:52 GMT | AI in Cybersecurity Detecting Threats Before They Strike | Codearies | [Read More](https://medium.com/p/8ecb514ec6f4) |
+| Thu, 20 Nov 2025 13:16:32 GMT | Blue — TryHackMe Writeup | Pradithareddy | [Read More](https://medium.com/p/c52dc524c723) |
+| Thu, 20 Nov 2025 13:04:25 GMT | Fusion Centers and the Structural Transformation of Intelligence in the Twenty-First Century | Andrey Spiridonov | [Read More](https://medium.com/p/24c97c1f8c92) |
+| Thu, 20 Nov 2025 13:02:36 GMT | Education, Training, and the Missing Infrastructure of an Intelligence Profession | Andrey Spiridonov | [Read More](https://medium.com/p/5afa26a89793) |
+| Thu, 20 Nov 2025 13:02:03 GMT | How AI Actually Sees Your Content — And Why It Matters More Than SEO | Jen Anderson, PhD | [Read More](https://medium.com/p/f75b986a5347) |
+| Thu, 20 Nov 2025 13:02:02 GMT | Detecting Web DDoS Walkthrough. TryHackMe. | Lintu Oommen | [Read More](https://medium.com/p/fffdabfab96b) |
+| Thu, 20 Nov 2025 12:43:19 GMT | How Machine Learning Detects Frauds in UPI & Digital Payments | Deepanshuchawda | [Read More](https://medium.com/p/35457fa507e2) |
+| Thu, 20 Nov 2025 12:41:08 GMT | The Advanced User Survival Guide to Internet Outages | MEDUSA | [Read More](https://medium.com/p/a6362970069c) |
+| Thu, 20 Nov 2025 12:35:38 GMT | Cyber threats are no longer limited to attackers breaking in from the outside. | Hachion Trainings | [Read More](https://medium.com/p/c5cc95a0bea8) |
+| Thu, 20 Nov 2025 12:35:21 GMT | Cybersecurity and Data Protection in Cloud ERP: Safeguarding Your Business Operations | Business Experts MEA LLC | [Read More](https://medium.com/p/93fec03316ca) |
 | Thu, 20 Nov 2025 12:32:59 GMT | Building a DevSecOps Pipeline in GitHub Actions: From Code to Signed Docker Image | Binaya Sharma | [Read More](https://medium.com/p/04854f760551) |
 | Thu, 20 Nov 2025 12:27:34 GMT | I Watched 40% of Cyber Insurance Claims Get Denied. Here’s What Nobody Tells Small Businesses. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/b0830877a896) |
 | Thu, 20 Nov 2025 12:26:46 GMT | Benefits of 24/7 Security Guard Services in Delhi NCR | Ankit Singh | [Read More](https://medium.com/p/b8ad5f61d769) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 09:17:16 GMT | Your Organisation Already Deployed AI – You Just Didn’t Govern It | AXSAS | [Read More](https://medium.com/p/a6a062cb3d8b) |
 | Thu, 20 Nov 2025 09:11:19 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/8cda7546476b) |
 | Thu, 20 Nov 2025 09:03:25 GMT | Security & Auth for Your Backend Swift — Protecting the Data on Your App | BB - iOS Developer | [Read More](https://medium.com/p/c245a04c91e6) |
-| Thu, 20 Nov 2025 09:02:26 GMT | Bug Bounty Shortcut: Turn LeakRadar Results Into High-Impact Reports in Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/ceba3bd9ad96) |
-| Thu, 20 Nov 2025 09:00:20 GMT | OverTheWire Bandit Walkthrough: Conquering Level 0 & Your First SSH Login | Sajad Chehrazi | [Read More](https://medium.com/p/f238cce3c97a) |
-| Thu, 20 Nov 2025 08:59:06 GMT | How to Pen-test Your Own Network? | Beetles IO | [Read More](https://medium.com/p/9e81b63f275f) |
-| Thu, 20 Nov 2025 08:55:41 GMT | Fixing Python PEP 668 Errors on Kali Linux: Safely Installing Tool Dependencies Without Breaking… | Jestin Samuel | [Read More](https://medium.com/p/8ae48828a54b) |
-| Thu, 20 Nov 2025 08:54:13 GMT | Hyderabad Website Design Experts | Mr Techies | [Read More](https://medium.com/p/33fde3a2b07a) |
-| Thu, 20 Nov 2025 08:53:06 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/12393d0e142a) |
-| Thu, 20 Nov 2025 08:45:49 GMT | Task Hijacking & StrandHogg (Part 2): A Deeper Dive Into Android’s Activity Manipulation… | Redfox Security | [Read More](https://medium.com/p/ee7bf8e36ef0) |
-| Thu, 20 Nov 2025 08:39:24 GMT | Best VPN for censorship bypass: 5 options that actually work | Safelyo VPN | [Read More](https://medium.com/p/ec18a2170e5f) |
-| Thu, 20 Nov 2025 08:30:27 GMT | Nigeria of Particular Concern | ‘Gbubemi Atimomo | [Read More](https://medium.com/p/646b5670d530) |
-| Thu, 20 Nov 2025 08:29:02 GMT | Overview and Remediation Guide for the Cisco IOS XE Web UI Bug (CVE-2023–20198), Also Known as… | Criminal IP | [Read More](https://medium.com/p/ba7c736bad2e) |
-| Thu, 20 Nov 2025 08:23:56 GMT | Perl Jam: When Your Server Starts “Even Flow”-ing Your Secrets | Arnav Vaidya | [Read More](https://medium.com/p/febb42efeabc) |
-| Thu, 20 Nov 2025 08:15:24 GMT | How to set up SmartDNS on router: 4 steps for any service | Safelyo Global | [Read More](https://medium.com/p/b1ee71867e7d) |
-| Thu, 20 Nov 2025 08:10:57 GMT | DetectionStream Just Got a Major Upgrade: Suricata Integration is Here! | Kostas | [Read More](https://medium.com/p/96ea5caf635c) |
-| Thu, 20 Nov 2025 08:04:04 GMT | Security Goals | Bhuvana Medicherla | [Read More](https://medium.com/p/21bc6380faf0) |
-| Thu, 20 Nov 2025 08:03:33 GMT | Eliminating Web3 Security Blind Spots: How Digital Shield Shifts Risk Management from Human Trust… | Digital Shield Offcial | [Read More](https://medium.com/p/58e5563a9f59) |
