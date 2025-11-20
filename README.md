@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 17:03:07 GMT | Episode 10: “The Cloud of Unknowing” | Dr. House In I.T. | [Read More](https://medium.com/p/394dc9dafda6) |
+| Thu, 20 Nov 2025 17:02:10 GMT | The Builder’s Notes: Building HIPAA-Compliant Audit Logging from Scratch | Piyoosh Rai | [Read More](https://medium.com/p/968cafd16faa) |
+| Thu, 20 Nov 2025 16:59:36 GMT | Business Technologists: The Missing Link Between Strategy, Cost, and Technology | Tyson Martin | [Read More](https://medium.com/p/aabebea71924) |
+| Thu, 20 Nov 2025 16:58:41 GMT | Cheat Software as Malware: How Gaming Culture Accidentally Created the Perfect Distribution System… | Jforrest | [Read More](https://medium.com/p/94a202b1fd6c) |
+| Thu, 20 Nov 2025 16:57:46 GMT | # TryHackMe Room: WAF: Introduction | SpectralCore | [Read More](https://medium.com/p/10ad473d03a5) |
+| Thu, 20 Nov 2025 16:56:31 GMT | When Paper Fails Audits: How Proof Breaks in Postal Mail | Letro | [Read More](https://medium.com/p/b01e15f3a6fc) |
+| Thu, 20 Nov 2025 16:55:19 GMT | ️ Secure and Smart Storage: Why Ace Grease Service Provides the Best Used Cooking Oil Containers | Fourarmsninja | [Read More](https://medium.com/p/4616b7828589) |
+| Thu, 20 Nov 2025 16:52:03 GMT | VPN engine | Cube1214 | [Read More](https://medium.com/p/251624414fc1) |
 | Thu, 20 Nov 2025 16:51:15 GMT | How to setup your own Cybersecurity Homelab — Linux/Ubuntu [Part 1] | 0xRahuL | [Read More](https://medium.com/p/e9947141b940) |
 | Thu, 20 Nov 2025 16:49:57 GMT | Bandit OverTheWire writeup — Level 23 → Level 24 | Dawid Kowalski | [Read More](https://medium.com/p/b15105821be6) |
 | Thu, 20 Nov 2025 16:49:36 GMT | Bandit OverTheWire writeup — Level 22 → Level 23 | Dawid Kowalski | [Read More](https://medium.com/p/ed07b4dc4ee5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 11:49:52 GMT | Visual Clothing Guide for Incident Reporting | ADITYA PATHAK | [Read More](https://medium.com/p/406066b94bf6) |
 | Thu, 20 Nov 2025 11:47:55 GMT | Using Predictive Analytics to Fortify LLM Security Against Jailbreak Attacks — A Theory | TechnoNova | [Read More](https://medium.com/p/0110299e288b) |
 | Thu, 20 Nov 2025 11:46:19 GMT | From Compliance to Competitive Edge: Elevating Cybersecurity in BFSI | Sameera J Khan | [Read More](https://medium.com/p/21ce9669a4e0) |
-| Thu, 20 Nov 2025 11:45:32 GMT | Want to Sign a PDF but Don’t Trust Online Tools? Here’s a Safe Solution | Pratik Ranpariya | [Read More](https://medium.com/p/c872fc167b96) |
-| Thu, 20 Nov 2025 11:38:57 GMT | Pay Per Click Utah: Drive Instant Growth with Expert PPC Marketing Services | Hary Battler | [Read More](https://medium.com/p/0320601583f4) |
-| Thu, 20 Nov 2025 11:30:00 GMT | Phishing to Encryption: Reconstructing a Cerber Ransomware Attack Across an Enterprise Network | Kaylaaa | [Read More](https://medium.com/p/94c59db7ab76) |
-| Thu, 20 Nov 2025 11:28:48 GMT | When Your ZIP Tool Turns Against You: How Hackers Are Exploiting the 7-Zip Symbolic Link… | Germano Costi | [Read More](https://medium.com/p/07696e9ef066) |
-| Thu, 20 Nov 2025 11:26:18 GMT | Cybersecurity #15: Cross-Site Scripting (XSS) Attack & How to Prevent It | mohandika | [Read More](https://medium.com/p/c5b9754fd376) |
-| Thu, 20 Nov 2025 11:26:03 GMT | The First AI-Orchestrated Cyberattack: What You Need to Know | Navya | [Read More](https://medium.com/p/de7b702ace6e) |
-| Thu, 20 Nov 2025 11:23:50 GMT | Ethics in the Age of AI: Who Holds the Moral Compass? | Prasanna Kumar | [Read More](https://medium.com/p/26f19b8b3d10) |
-| Thu, 20 Nov 2025 11:13:03 GMT | Samsung A Series Review: Big Screen, Big Value | Chloe White | [Read More](https://medium.com/p/1be74f6710e4) |
