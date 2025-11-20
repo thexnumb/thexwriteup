@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 10:44:13 GMT | Indicator Search Techniques in Threat Hunting: How We Hunt the Unknown | Esra Kayhan | [Read More](https://medium.com/p/800bd3c19801) |
+| Thu, 20 Nov 2025 10:40:37 GMT | Garbage In, Garbage Out | Dwayne Phillips | [Read More](https://medium.com/p/64e8e062297e) |
+| Thu, 20 Nov 2025 10:36:35 GMT | How to Secure Your Smartphone from Hackers | YT.Shi | [Read More](https://medium.com/p/7f7add9c768d) |
+| Thu, 20 Nov 2025 10:34:34 GMT | How Pen Tests Help You Fix Security Gaps Before Hackers Exploit Them | SmartCLOUD Australia | [Read More](https://medium.com/p/e8a27af91ee3) |
+| Thu, 20 Nov 2025 10:31:58 GMT | What Career Options Are Available After Ethical Hacking Training? | Shubham Saini | [Read More](https://medium.com/p/1129cf8bd939) |
+| Thu, 20 Nov 2025 10:25:05 GMT | 7 Essential Steps to Compliance 3.0 Sprints | Pentest_Testing_Corp | [Read More](https://medium.com/p/254c1f72e560) |
+| Thu, 20 Nov 2025 10:22:59 GMT | Best MSSP Cybersecurity Services Provider in India - Monitor & Manage Your Security in Your… | Samvaskaran | [Read More](https://medium.com/p/f1d7890870bb) |
 | Thu, 20 Nov 2025 10:21:25 GMT | AI in Cybersecurity: Tool or Threat? | Lanvaus | [Read More](https://medium.com/p/2961ba4719c2) |
+| Thu, 20 Nov 2025 10:20:20 GMT | The 3 Most Subtle Solidity Bugs We Found in Audits (And How We Found Them) | Extropy.IO | [Read More](https://medium.com/p/31eb5757c327) |
 | Thu, 20 Nov 2025 10:18:05 GMT | Fintech Compliance in 2025: Simple Strategies for Complex Regulations | SecureSlate | [Read More](https://medium.com/p/f17729de18a5) |
 | Thu, 20 Nov 2025 10:15:12 GMT | Cyber Security Services That Protect Your Business from Ransomware Attacks | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/d5fcfb281359) |
 | Thu, 20 Nov 2025 10:13:46 GMT | Stop Guessing — Samsung A Series Delivers Exactly This | Hana Saito | [Read More](https://medium.com/p/cfe0e72ea003) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 06:04:59 GMT | Guarding Your React Native App — Common Security Pitfalls & How to Avoid Them | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/d78ef6c2790a) |
 | Thu, 20 Nov 2025 06:02:37 GMT | Choosing the Right Security Attendance Register for Your Business | Joven A Rodrigues | [Read More](https://medium.com/p/e869d9e803b1) |
 | Thu, 20 Nov 2025 05:59:55 GMT | The Day the Internet Blinked: Why Your Favorite Sites Just Vanished | Proditive - Smart Apps . Maximum Productivity | [Read More](https://medium.com/p/6a63db344a5b) |
-| Thu, 20 Nov 2025 05:53:16 GMT | The Machine Doesn’t Care: Why Intent is the Only Thing That Matters in the AI Debate | robb.fladry | [Read More](https://medium.com/p/b6c9368201e5) |
-| Thu, 20 Nov 2025 05:50:33 GMT | Why GSDC’s Ethical Hacking Foundation Could Be Your Best Career Move | Tomcruise | [Read More](https://medium.com/p/ededfce6349c) |
-| Thu, 20 Nov 2025 05:46:11 GMT | [Android] Root Detection Bypass Using Frida — Writeup 1 | MrEhAcKeR | [Read More](https://medium.com/p/85994a28ced2) |
-| Thu, 20 Nov 2025 05:45:43 GMT | Digital Shadows: When Hackers Become Stalkers and Blockchain Can Fight Back | Criminal Justice Chris | [Read More](https://medium.com/p/c53cf3f01234) |
-| Thu, 20 Nov 2025 05:36:45 GMT | The Essential Guide to Vulnerability Assessment: Why It Matters More Than Ever | Devarshi Acharya | [Read More](https://medium.com/p/86684ae03596) |
-| Thu, 20 Nov 2025 05:28:48 GMT | Why In-App Protection Is Becoming the New Standard for Digital Security | Gargiben | [Read More](https://medium.com/p/f13ad816dab2) |
-| Thu, 20 Nov 2025 05:23:05 GMT | Anthropic’s “AI-orchestrated” hack | Anand Raj | [Read More](https://medium.com/p/1db76d4cceed) |
-| Thu, 20 Nov 2025 05:10:46 GMT | Are Software Updates Helping You or Slowing You Down? | Abinesh | [Read More](https://medium.com/p/7ef897d65c7b) |
