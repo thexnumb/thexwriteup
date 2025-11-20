@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 23:06:20 GMT | Software Defined Networking (SDN): The Foundation of Modern Cloud Infrastructure | Ahmed Maher | [Read More](https://medium.com/p/8c79e9730d7d) |
+| Thu, 20 Nov 2025 23:05:30 GMT | ️‍ Magical Palindrome-HackTheBox | Anas Elsaba | [Read More](https://medium.com/p/7f4db21e40da) |
+| Thu, 20 Nov 2025 23:02:13 GMT | From EBITDA Consumption to EBITDA Propulsion: | Naren Gangavarapu | [Read More](https://medium.com/p/013f83cc391d) |
+| Thu, 20 Nov 2025 22:52:09 GMT | Capítulo 8 — A Origem | Kleber Andrade | [Read More](https://medium.com/p/bfe310199333) |
+| Thu, 20 Nov 2025 22:46:31 GMT | TryHackMe - Introduction to SOAR — Write-Up | CyberWithManos | [Read More](https://medium.com/p/344efd9a498e) |
+| Thu, 20 Nov 2025 22:46:01 GMT | ServiceNow AI Agents Can Be Hijacked With a Single Hidden Prompt | Cyber-AppSec | [Read More](https://medium.com/p/15c691a1b8c1) |
 | Thu, 20 Nov 2025 22:30:55 GMT | PROJETO mini-lab: Monitoramento e controle com #WAZUH >Atulizações: Honeypot< | EduKayky | [Read More](https://medium.com/p/6c785cc0cd99) |
 | Thu, 20 Nov 2025 22:18:21 GMT | Before You Deploy Another API, Read This: My Takeaways From Studying API Security Fundamentals | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/caa2f888ae22) |
 | Thu, 20 Nov 2025 22:12:01 GMT | Linux Malware Detection is Broken. We Built SemanticsAV to Fix It. | Sungkyun Jung | [Read More](https://medium.com/p/49468f515cf4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 16:22:28 GMT | Digital Fingerprints: How Your Online Footprint Can Solve Crimes Or Implicate You | Paradise technologies Inc | [Read More](https://medium.com/p/e863325a7dfd) |
 | Thu, 20 Nov 2025 16:19:43 GMT | Secure and Smart Storage: Why Ace Grease Service Provides the Best Used Cooking Oil Containers | Marketing | [Read More](https://medium.com/p/fd68de677dc0) |
 | Thu, 20 Nov 2025 16:14:29 GMT | Security Guard Jobs in Ottawa 2026–5 Qualities We Look For When Hiring | Hydra Security | [Read More](https://medium.com/p/9de251d6e984) |
-| Thu, 20 Nov 2025 16:14:05 GMT | Building a Zero Trust Network at Home: Tools, Categories, and Why It Matters | Alex Wilcox | [Read More](https://medium.com/p/a14043364d6e) |
-| Thu, 20 Nov 2025 16:09:16 GMT | Global Flag Hunter 2.0 Competition: How I Hacked My Way Through the Web Challenges | Isv0x1 | [Read More](https://medium.com/p/e1498249db17) |
-| Thu, 20 Nov 2025 16:07:12 GMT | Atomic Challenge (MISC) - CyCTF 25 | Khonshu | [Read More](https://medium.com/p/cd01065dab34) |
-| Thu, 20 Nov 2025 15:58:38 GMT | CyberDefenders — BumbleSting Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/8e4d94736490) |
-| Thu, 20 Nov 2025 15:52:05 GMT | Tired of “This content isn’t available in your region”? Here’s how to fix it | Panda Security | [Read More](https://medium.com/p/9e7e9cf20bdc) |
-| Thu, 20 Nov 2025 15:51:44 GMT | L’ambition d’Olivia | Florent M | [Read More](https://medium.com/p/0511da950aa9) |
