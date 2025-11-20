@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 15:33:10 GMT | USB Rubber Ducky — Creating Custom Payloads | TAYO | [Read More](https://medium.com/p/9b6adb141e31) |
+| Thu, 20 Nov 2025 15:30:42 GMT | SOC Incident Report — IDOR Web Attack Analysis (LetsDefend) | Soumodeep Das | [Read More](https://medium.com/p/c96371d8c5fb) |
+| Thu, 20 Nov 2025 15:21:35 GMT | GenAI Is Empowering Cybercriminals to Create More Believable Scams | Jasmitha | [Read More](https://medium.com/p/62603490885e) |
+| Thu, 20 Nov 2025 15:21:22 GMT | Dark API Exploits: Why Companies Have Thousands of Unmonitored APIs That Leak Data Daily | Legal Thoughts | [Read More](https://medium.com/p/6eed3b358d88) |
 | Thu, 20 Nov 2025 15:13:16 GMT | Airline Security: How Acme Seals Protects Aviation Safety | M Wood | [Read More](https://medium.com/p/514305800743) |
 | Thu, 20 Nov 2025 15:06:01 GMT | Inside a Real World Claude MCP Roll-out | C. L. Beard | [Read More](https://medium.com/p/7562ca47d231) |
 | Thu, 20 Nov 2025 15:02:09 GMT | Cyber Briefing: 2025.11.20 | CyberMaterial | [Read More](https://medium.com/p/0546ae26bd51) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 10:34:08 GMT | Cloudflare Went Down and Took the Internet With It | Shirsh Shukla | [Read More](https://medium.com/p/7f5548f308c4) |
 | Thu, 20 Nov 2025 10:31:58 GMT | What Career Options Are Available After Ethical Hacking Training? | Shubham Saini | [Read More](https://medium.com/p/1129cf8bd939) |
 | Thu, 20 Nov 2025 10:25:05 GMT | 7 Essential Steps to Compliance 3.0 Sprints | Pentest_Testing_Corp | [Read More](https://medium.com/p/254c1f72e560) |
-| Thu, 20 Nov 2025 10:22:59 GMT | Best MSSP Cybersecurity Services Provider in India - Monitor & Manage Your Security in Your… | Samvaskaran | [Read More](https://medium.com/p/f1d7890870bb) |
-| Thu, 20 Nov 2025 10:21:25 GMT | AI in Cybersecurity: Tool or Threat? | Lanvaus | [Read More](https://medium.com/p/2961ba4719c2) |
-| Thu, 20 Nov 2025 10:20:20 GMT | The 3 Most Subtle Solidity Bugs We Found in Audits (And How We Found Them) | Extropy.IO | [Read More](https://medium.com/p/31eb5757c327) |
-| Thu, 20 Nov 2025 10:18:05 GMT | Fintech Compliance in 2025: Simple Strategies for Complex Regulations | SecureSlate | [Read More](https://medium.com/p/f17729de18a5) |
