@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 20:21:03 GMT | The Rise of AI-Powered Cyberattacks: Why the Next Wave of Threats Will Blindside Unprepared… | Pasan Madhuranga | [Read More](https://medium.com/p/987ea90f0fa4) |
+| Thu, 20 Nov 2025 20:17:52 GMT | AI-Generated Phishing: The New Era of Cyber Deception | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/521d0cdaa96c) |
+| Thu, 20 Nov 2025 20:12:13 GMT | Cyber Security is 10% Actual Security and 90% Theatre | Rich B | [Read More](https://medium.com/p/28b0cff03777) |
+| Thu, 20 Nov 2025 20:05:02 GMT | The Network Stack Stripped Bare: A Deep Dive into Socket Programming and Its Security Implications | Mohamed Gebril | [Read More](https://medium.com/p/1e282e43c915) |
+| Thu, 20 Nov 2025 19:45:34 GMT | Why Most Managed IT Providers Are Not Truly Local | Asad Shahzad - Content Marketer | [Read More](https://medium.com/p/6d31507f431a) |
 | Thu, 20 Nov 2025 19:33:52 GMT | Drowning in Data | Rafa Bez | [Read More](https://medium.com/p/5ef43fa41609) |
 | Thu, 20 Nov 2025 19:26:29 GMT | The Cybersecurity Universe: 9 Paths (And Yes, There’s Room for You) | Tia B | [Read More](https://medium.com/p/2503b58c8517) |
 | Thu, 20 Nov 2025 19:23:04 GMT | Cloudflare 18 November 2025 Outage: Full Breakdown, Root Cause, and Impact: A DevOps Perspective | Shegezzy | [Read More](https://medium.com/p/c73d0e9b4af2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 14:20:06 GMT | AI + Quantum Pre-Threat (Hybrid Attacks) – When Future Decryption Becomes Present Danger | David SEHYEON Baek | [Read More](https://medium.com/p/92fa8df2c08a) |
 | Thu, 20 Nov 2025 14:19:48 GMT | Why GCC Oil & Gas Executives Must Treat SCADA & ICS Cybersecurity As A Strategic National… | Geopolitical Intelligence Network - GEO' | [Read More](https://medium.com/p/9bfe75a18b54) |
 | Thu, 20 Nov 2025 14:04:10 GMT | The Cybersecurity Jobs That AI Will Kill — And the Ones That Will Survive | Taimur Ijlal | [Read More](https://medium.com/p/824e1f60cf1c) |
-| Thu, 20 Nov 2025 14:03:48 GMT | Sahte QR Kod Nasıl Anlaşılır? | Onur Muhammet Akçay | [Read More](https://medium.com/p/0a660bab1751) |
-| Thu, 20 Nov 2025 14:02:06 GMT | The Hidden Leadership Skill No One Teaches | Evelyn Foreman | [Read More](https://medium.com/p/da87ff63aa35) |
-| Thu, 20 Nov 2025 14:02:04 GMT | Is Your Fullerton Business at Risk? The Essential Role of Managed Cybersecurity Services Near You | Xonicwave support | [Read More](https://medium.com/p/5005885b8fb0) |
-| Thu, 20 Nov 2025 14:02:04 GMT | The Complete Guide to Managed Cybersecurity Services for San Diego Companies: Finding Trusted… | Xonicwave IT Support | [Read More](https://medium.com/p/5882838b35af) |
-| Thu, 20 Nov 2025 14:01:49 GMT | What To Do With Pentest Vendor Variance | Chris Griffin | [Read More](https://medium.com/p/379a3abdc7aa) |
