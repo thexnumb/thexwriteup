@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 20 Nov 2025 17:36:55 GMT | Anthropic vs. the AI super hacker: epochal threat or textbook marketing? | Effedielle | [Read More](https://medium.com/p/69ba3d04053a) |
+| Thu, 20 Nov 2025 17:33:38 GMT | The Year I Stopped Waiting for the “Perfect Time” and Started Building My Cybersecurity Future | Manas Mahato | [Read More](https://medium.com/p/b3f487c9a687) |
+| Thu, 20 Nov 2025 17:30:18 GMT | The Linux Security Journey — “protected_regular” (Protect Regular Files) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/909ec552e70a) |
+| Thu, 20 Nov 2025 17:28:38 GMT | How I Started My Cybersecurity Journey With No Degree, No Contacts — Just Persistence | Manas Mahato | [Read More](https://medium.com/p/76c683332708) |
+| Thu, 20 Nov 2025 17:25:16 GMT | Active Exploitation Alert: Analysts at watchTowr Warn on FortiWeb | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/13a446937363) |
+| Thu, 20 Nov 2025 17:21:08 GMT | Buffer Overflows, Part 2: From Random Crashing to Precision Stack Smashing | Poojan Ghetiya | [Read More](https://medium.com/p/766a4e44f281) |
+| Thu, 20 Nov 2025 17:18:35 GMT | Publicly Exposed RAG API Leading to Unauthenticated Access to PII and Internal System Data | Gouri Sankar A | [Read More](https://medium.com/p/83913558b2e2) |
+| Thu, 20 Nov 2025 17:16:26 GMT | What Is a VPN Used For? Top VPN Uses & Benefits Explained | Awais Khan | [Read More](https://medium.com/p/3e4353a19aba) |
 | Thu, 20 Nov 2025 17:03:07 GMT | Episode 10: “The Cloud of Unknowing” | Dr. House In I.T. | [Read More](https://medium.com/p/394dc9dafda6) |
 | Thu, 20 Nov 2025 17:02:10 GMT | The Builder’s Notes: Building HIPAA-Compliant Audit Logging from Scratch | Piyoosh Rai | [Read More](https://medium.com/p/968cafd16faa) |
 | Thu, 20 Nov 2025 16:59:36 GMT | Business Technologists: The Missing Link Between Strategy, Cost, and Technology | Tyson Martin | [Read More](https://medium.com/p/aabebea71924) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 12:05:27 GMT | What Jelly Aisles Taught Me About Writing Security Tickets Engineers Actually Fix. | Joshua McDonald | [Read More](https://medium.com/p/a9ca91754282) |
 | Thu, 20 Nov 2025 12:05:22 GMT | Open Redirection Vulnerabilities: Complete Guide to Improper Front-End Redirect Validation… | Lovelesh Gangil | [Read More](https://medium.com/p/2d40599d8442) |
 | Thu, 20 Nov 2025 12:02:03 GMT | Writeup for picoCTF challenge “Crack the Gate 1” | Walter Moar | [Read More](https://medium.com/p/00049b0d28f3) |
-| Thu, 20 Nov 2025 12:02:02 GMT | The Fake Humanitarian/Romance Scam (Emotional Manipulation) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/e9f4bbbc40c8) |
-| Thu, 20 Nov 2025 12:00:51 GMT | Today’s Top Cyber Intelligence Highlights — Nov 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a0528d48f49e) |
-| Thu, 20 Nov 2025 12:00:41 GMT | From RC4 to AES-CTR: Riding the Modern Stream | Rohit Ballurgi | [Read More](https://medium.com/p/404f51085cb1) |
-| Thu, 20 Nov 2025 11:56:59 GMT | What is Identity Engineering? (DIM) - VIIEGO | Rolando | [Read More](https://medium.com/p/66bfceca2d83) |
-| Thu, 20 Nov 2025 11:55:35 GMT | What Is a Computer Virus? | Rolando | [Read More](https://medium.com/p/9592a9f2c80f) |
-| Thu, 20 Nov 2025 11:49:52 GMT | Visual Clothing Guide for Incident Reporting | ADITYA PATHAK | [Read More](https://medium.com/p/406066b94bf6) |
-| Thu, 20 Nov 2025 11:47:55 GMT | Using Predictive Analytics to Fortify LLM Security Against Jailbreak Attacks — A Theory | TechnoNova | [Read More](https://medium.com/p/0110299e288b) |
-| Thu, 20 Nov 2025 11:46:19 GMT | From Compliance to Competitive Edge: Elevating Cybersecurity in BFSI | Sameera J Khan | [Read More](https://medium.com/p/21ce9669a4e0) |
