@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 19:29:20 GMT | Write up Mautic [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/1bfbecbd6c4a) |
+| Fri, 21 Nov 2025 19:25:07 GMT | Explaining Bash in the Easiest Way- Part III | Vaishnav S | [Read More](https://medium.com/p/532fcf4c9f7d) |
+| Fri, 21 Nov 2025 19:22:18 GMT | Symbiotic — The Universal Staking Layer | Dibby | [Read More](https://medium.com/p/b4a44aeea667) |
 | Fri, 21 Nov 2025 19:16:08 GMT | IT Reminder: DOCUMENT. YOUR. WORK. | Ashe Sule | [Read More](https://medium.com/p/a110fe345a38) |
 | Fri, 21 Nov 2025 19:11:08 GMT | The Truth Detector and the AI Agent Crisis: | Jon Capriola | [Read More](https://medium.com/p/bfb67553cdbc) |
 | Fri, 21 Nov 2025 18:56:42 GMT | Stack Overflow: Your Silent Code Killer?  Why Blind Copy-Pasting is Tanking Your Go Projects | Puneet | [Read More](https://medium.com/p/005876311333) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 13:25:14 GMT | [Ethernaut] 0. Hello Ethernaut | Jiseop Shin | [Read More](https://medium.com/p/2c17419e40ac) |
 | Fri, 21 Nov 2025 13:20:38 GMT | russian-proxy-list-guide | CryptoDawn | [Read More](https://medium.com/p/e9fdc25b236a) |
 | Fri, 21 Nov 2025 13:17:33 GMT | Azure Web Application Firewall | santosh santosh | [Read More](https://medium.com/p/253b37567f64) |
-| Fri, 21 Nov 2025 13:16:36 GMT | Parrot OS on VirtualBox - Secure VM Setup (Beginner Friendly) | Shahzaib | [Read More](https://medium.com/p/2bf9a2060f82) |
-| Fri, 21 Nov 2025 13:14:49 GMT | How to Build Instant AI-Powered Dashboards with 0-shot prompting | Zvonimir | [Read More](https://medium.com/p/bb2d3a62c87b) |
-| Fri, 21 Nov 2025 13:07:08 GMT | Why You’re Getting Packages You Never Ordered: The Brushing Scam Explained | No Scam | [Read More](https://medium.com/p/e242943f4413) |
