@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 13:40:22 GMT | Welcome to the Cognitive Divide | Bridget | [Read More](https://medium.com/p/f4d9d5035753) |
+| Fri, 21 Nov 2025 13:38:22 GMT | Trustless Doesn’t Mean Risky: Why Web3 Payments Are More Secure | bepay | [Read More](https://medium.com/p/64f8e6cb4ab3) |
+| Fri, 21 Nov 2025 13:37:53 GMT | Future-Proofing for the Data-Driven Ecosystem: Securing Your Application and Data APIs | Talsec | [Read More](https://medium.com/p/75fe50695aff) |
+| Fri, 21 Nov 2025 13:33:30 GMT | The Hacker’s Compass: Why Threat Modeling is a Pentester’s True North | Wafa | [Read More](https://medium.com/p/21bccea7a8ad) |
+| Fri, 21 Nov 2025 13:32:07 GMT | CONCEPT 009 — Vulnerability Cascades: CONSCIENCE ENGINEERING LEXICON | Deusdedit Ruhangariyo | [Read More](https://medium.com/p/b89a816fa048) |
+| Fri, 21 Nov 2025 13:31:31 GMT | The Non-Negotiable Role of ISO 27001 in Cyber-Resilience | CFE CERTIFICATION | [Read More](https://medium.com/p/1cbca18f6353) |
 | Fri, 21 Nov 2025 13:27:10 GMT | How to Build a Bulletproof Personal Privacy Stack in 2025 | Voidly | [Read More](https://medium.com/p/14b73cf3356c) |
 | Fri, 21 Nov 2025 13:25:14 GMT | [Ethernaut] 0. Hello Ethernaut | Jiseop Shin | [Read More](https://medium.com/p/2c17419e40ac) |
 | Fri, 21 Nov 2025 13:20:38 GMT | russian-proxy-list-guide | CryptoDawn | [Read More](https://medium.com/p/e9fdc25b236a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 07:15:48 GMT | Cyber securityAI-Powered Scams: The New Age of Cybercrime and How to Stay Protected | Bitdefenderppc | [Read More](https://medium.com/p/11a9ac94bd92) |
 | Fri, 21 Nov 2025 07:15:27 GMT | Securing Embedded and Specialized Systems: Challenges, Consequences, and Lessons from Real-World… | Anderson Santos | [Read More](https://medium.com/p/443f7ecfca26) |
 | Fri, 21 Nov 2025 07:09:36 GMT | The Corix Partners Friday Reading List — November 21, 2025 | JC Gaillard | [Read More](https://medium.com/p/733daf752ed8) |
-| Fri, 21 Nov 2025 07:07:10 GMT | Stop Committing Secrets to GitHub: How to Avoid It and How to Fix It If You Already Did | Kaylee C | [Read More](https://medium.com/p/3a78fbdfbaad) |
-| Fri, 21 Nov 2025 07:06:43 GMT | What Skills Guarantee Engineers Top Roles in Modern AI Teams | Modern Security | [Read More](https://medium.com/p/423443fe4828) |
-| Fri, 21 Nov 2025 07:05:02 GMT | How do Sturdy NDR Solutions Assist Cloud Security | NetWitness | [Read More](https://medium.com/p/5eb0be049d4d) |
-| Fri, 21 Nov 2025 07:04:07 GMT | Digital Personal Data Protection (DPDP) Act Explained | Cytrusst | [Read More](https://medium.com/p/4b9f8756c406) |
-| Fri, 21 Nov 2025 07:03:06 GMT | Top Ethical Hacking Online Classes to Learn Cybersecurity Skills | cyber security Updates | [Read More](https://medium.com/p/7ebd6d837f04) |
-| Fri, 21 Nov 2025 06:59:48 GMT | Engineering Governance Pipelines | Erik Lacson | [Read More](https://medium.com/p/626e81f6e110) |
