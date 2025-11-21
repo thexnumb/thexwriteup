@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 23:32:25 GMT | In an age where nearly every aspect of our lives is connected to the internet — from banking and… | Joshua Wardak | [Read More](https://medium.com/p/ab5b45e9e03c) |
+| Fri, 21 Nov 2025 23:27:27 GMT | Voidly AI: A Smarter, Crowd-Powered VPN Built to Survive Modern Internet Blocks | Voidly | [Read More](https://medium.com/p/e13a7a2edf40) |
+| Fri, 21 Nov 2025 23:24:28 GMT | When Quantum Computing Kills Secrets: Why We’re All Too Late (But Still Need to Move) | Deep Thinking AI | [Read More](https://medium.com/p/235035b546ad) |
 | Fri, 21 Nov 2025 23:11:01 GMT | iOS 26 Just Made Apple Passwords So Good, I Stopped Using Other Managers | apple inside | [Read More](https://medium.com/p/87de3bd58531) |
 | Fri, 21 Nov 2025 23:09:15 GMT | From Gatekeeper to Enabler: The 10 Traps Holding Security Teams Back | Mehdi Khalilzadeh | [Read More](https://medium.com/p/2822cafb3d1b) |
 | Fri, 21 Nov 2025 22:49:41 GMT | Top 10 Cybersecurity Companies in Pakistan in 2026 | Muhammad Inam Abbasi | [Read More](https://medium.com/p/bc90349e793a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 14:59:02 GMT | When Trusted Sites Turn Malicious: How APT24’s ‘BadAudio’ Is Redefining Cyber Espionage | Jasmitha | [Read More](https://medium.com/p/b74de3139913) |
 | Fri, 21 Nov 2025 14:58:39 GMT | A BILL | Keith Hayes | [Read More](https://medium.com/p/6f1bad4e5f17) |
 | Fri, 21 Nov 2025 14:56:24 GMT | Why Do Fractional CISOs Get Sideways With Your MSP? | IOmergent | [Read More](https://medium.com/p/c9e72eeb5e53) |
-| Fri, 21 Nov 2025 14:54:38 GMT | saudi-arabia-proxy-guide | CoinZenith | [Read More](https://medium.com/p/3096e77bb5ed) |
-| Fri, 21 Nov 2025 14:51:22 GMT | How I Hacked Gmail Creds at a Tech Event With a $30 Device | Satyam Pathania | [Read More](https://medium.com/p/d67ef4e6461e) |
-| Fri, 21 Nov 2025 14:50:27 GMT | symmetric Challenge (Crypto) - CyCTF 25 | Khonshu | [Read More](https://medium.com/p/b74f23a11884) |
