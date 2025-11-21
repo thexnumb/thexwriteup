@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 05:29:59 GMT | Become a Certified Information Systems Security Professional and Boost Your Career | Edglobalacademy | [Read More](https://medium.com/p/f1f73a529fef) |
+| Fri, 21 Nov 2025 05:27:47 GMT | Unveiling China’s Data Dominance: The Hidden Force Behind Its AI Ambitions | Jared Douville | [Read More](https://medium.com/p/3fd367376bb5) |
+| Fri, 21 Nov 2025 05:24:16 GMT | India Just Solved the Spam Call Problem (And It’s Genius) | TechTrellis Academy | [Read More](https://medium.com/p/10568b37a83f) |
+| Fri, 21 Nov 2025 05:24:15 GMT | Beyond Shared Hosting: Why Managed VPS Is the Upgrade Your Website Deserves | Ann Taylor | [Read More](https://medium.com/p/0749a94dcace) |
+| Fri, 21 Nov 2025 05:21:05 GMT | Why Is Data Loss Prevention Software Essential For Protecting Modern Business Data? | keyTrackr | [Read More](https://medium.com/p/59911e540a77) |
+| Fri, 21 Nov 2025 05:20:37 GMT | The Rise of AI-Based Cyberattacks: A New Challenge for Ethical Hackers | HackersPrey | [Read More](https://medium.com/p/449384aef1c9) |
+| Fri, 21 Nov 2025 05:20:20 GMT | Create and configure User Flow with AWS Cognito User Pool | Parfaitkouess | [Read More](https://medium.com/p/6c8b19f9e337) |
+| Fri, 21 Nov 2025 05:12:59 GMT | What Are Temporary Wallets? | TempWallets | [Read More](https://medium.com/p/99ffb8cf5a69) |
 | Fri, 21 Nov 2025 05:10:34 GMT | A Day of Focused Cybersecurity Practice: Cracking Nine HTB Machines | Vivektumma27 | [Read More](https://medium.com/p/c3e5cf1aef51) |
 | Fri, 21 Nov 2025 05:04:42 GMT | Who Provides the Best Security Services in Bhiwani? | Lakshay Security | [Read More](https://medium.com/p/f03c445f73af) |
 | Fri, 21 Nov 2025 05:03:40 GMT | The Growing Demand for Security Services in Ambala | Lakshay Security | [Read More](https://medium.com/p/6a661a5b7795) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 18:30:39 GMT | How I Started Learning Cybersecurity From a Small Village in Chitral | Fida Ur Rahman | [Read More](https://medium.com/p/18fea2020661) |
 | Thu, 20 Nov 2025 18:29:00 GMT | Membongkar Supervised Learning: Dari Teori “y = f(x)” hingga Implementasi Python | SatriaWiyana | [Read More](https://medium.com/p/3e01a3819a0c) |
 | Thu, 20 Nov 2025 18:27:28 GMT | September Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/e95b18b177ed) |
-| Thu, 20 Nov 2025 18:26:30 GMT | The 2025 Data Breach Report: AI Saved Us, AI Doomed Us, and the US is Breaking Records (Again) | Cyberhaven | [Read More](https://medium.com/p/7cab2ea0ac74) |
-| Thu, 20 Nov 2025 18:10:06 GMT | Symfonos: 1 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/249290623b1d) |
-| Thu, 20 Nov 2025 18:05:22 GMT | Phase 1: Infrastructure & Network Segmentation | Alex Wilcox | [Read More](https://medium.com/p/1d41729a6cb4) |
-| Thu, 20 Nov 2025 17:53:25 GMT | How AI is Breaking Cybersecurity (And Also Fixing It) | Hania Khan | [Read More](https://medium.com/p/941a2554eb60) |
-| Thu, 20 Nov 2025 17:52:13 GMT | Event Services in the UK: Delivering Seamless, Safe & Professionally Managed Events with Absolute… | waeventservices.co.uk/ | [Read More](https://medium.com/p/c4842fba56c8) |
-| Thu, 20 Nov 2025 17:51:12 GMT | The Game of IT and Relationships — Why Modern Love Feels So Different | Hafizbilaltariq | [Read More](https://medium.com/p/4c56eb09b337) |
-| Thu, 20 Nov 2025 17:49:44 GMT | Inside ShinySp1d3r: The New Ransomware-as-a-Service by ShinyHunters | Vardhan Gss | [Read More](https://medium.com/p/a843739ffb37) |
-| Thu, 20 Nov 2025 17:49:14 GMT | Abuja — The Conceptual Shortcut: A Cultural and Societal Reflection | AJIBOYE EMMANUEL | [Read More](https://medium.com/p/d7dee656b7bf) |
