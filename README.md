@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 03:32:25 GMT | How Attackers Hijack OneDrive With DLL Sideloading and Why It Matters | Deven Chhajed | [Read More](https://medium.com/p/e067ad05fffc) |
 | Fri, 21 Nov 2025 02:56:16 GMT | Staying Private, Staying You: Protecting Yourself Online | Ann Harris | [Read More](https://medium.com/p/a3aacf9ef45d) |
 | Fri, 21 Nov 2025 02:56:10 GMT | Archangel writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/781014f30777) |
 | Fri, 21 Nov 2025 02:49:49 GMT | Cracking the Database: My SQL Injection Adventure on PortSwigger | Kyrillos Kamal | [Read More](https://medium.com/p/46482dedd4d7) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 17:02:10 GMT | The Builder’s Notes: Building HIPAA-Compliant Audit Logging from Scratch | Piyoosh Rai | [Read More](https://medium.com/p/968cafd16faa) |
 | Thu, 20 Nov 2025 16:59:36 GMT | Business Technologists: The Missing Link Between Strategy, Cost, and Technology | Tyson Martin | [Read More](https://medium.com/p/aabebea71924) |
 | Thu, 20 Nov 2025 16:58:41 GMT | Cheat Software as Malware: How Gaming Culture Accidentally Created the Perfect Distribution System… | Jforrest | [Read More](https://medium.com/p/94a202b1fd6c) |
-| Thu, 20 Nov 2025 16:57:46 GMT | # TryHackMe Room: WAF: Introduction | SpectralCore | [Read More](https://medium.com/p/10ad473d03a5) |
