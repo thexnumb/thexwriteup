@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 13:27:10 GMT | How to Build a Bulletproof Personal Privacy Stack in 2025 | Voidly | [Read More](https://medium.com/p/14b73cf3356c) |
+| Fri, 21 Nov 2025 13:25:14 GMT | [Ethernaut] 0. Hello Ethernaut | Jiseop Shin | [Read More](https://medium.com/p/2c17419e40ac) |
+| Fri, 21 Nov 2025 13:20:38 GMT | russian-proxy-list-guide | CryptoDawn | [Read More](https://medium.com/p/e9fdc25b236a) |
+| Fri, 21 Nov 2025 13:17:33 GMT | Azure Web Application Firewall | santosh santosh | [Read More](https://medium.com/p/253b37567f64) |
+| Fri, 21 Nov 2025 13:16:36 GMT | Parrot OS on VirtualBox - Secure VM Setup (Beginner Friendly) | Shahzaib | [Read More](https://medium.com/p/2bf9a2060f82) |
+| Fri, 21 Nov 2025 13:14:49 GMT | How to Build Instant AI-Powered Dashboards with 0-shot prompting | Zvonimir | [Read More](https://medium.com/p/bb2d3a62c87b) |
+| Fri, 21 Nov 2025 13:07:08 GMT | Why You’re Getting Packages You Never Ordered: The Brushing Scam Explained | No Scam | [Read More](https://medium.com/p/e242943f4413) |
+| Fri, 21 Nov 2025 13:00:58 GMT | AI-Boosted Financial Fraud and Market Manipulation – The Industrialization of Deception at Scale | David SEHYEON Baek | [Read More](https://medium.com/p/621c679f8c12) |
+| Fri, 21 Nov 2025 13:00:49 GMT | AI in Cybersecurity: The Next Frontier in Data Protection | VLink | [Read More](https://medium.com/p/29570230ca55) |
+| Fri, 21 Nov 2025 12:55:49 GMT | Hunting the Noise: How I Designed a 90% PowerShell False Positive Reduction Strategy in Cortex XDR | Samyakgoel | [Read More](https://medium.com/p/29ba0ab5bbf8) |
+| Fri, 21 Nov 2025 12:45:19 GMT | Data Centers Deserve Smarter Security — Start in Kuwait & GCC | Tek Zeba | [Read More](https://medium.com/p/6aff02489b39) |
 | Fri, 21 Nov 2025 12:30:26 GMT | Zero-Day Exploitation and Large-Scale Campaigns Define This Week’s Threat Outlook | Loginsoft | [Read More](https://medium.com/p/ae9162841a81) |
 | Fri, 21 Nov 2025 12:23:38 GMT | Rooting DoubleTrouble (VulnHub): A Sweet_Cow Ride Through a Nested VM | Shikhar Sinha | [Read More](https://medium.com/p/9a15baecdaa6) |
 | Fri, 21 Nov 2025 12:16:49 GMT | Why Is My iPhone Not Charging and How to Fix It: Simple Troubleshooting Guide | applebuysell | [Read More](https://medium.com/p/6a41ef5956ab) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 07:04:07 GMT | Digital Personal Data Protection (DPDP) Act Explained | Cytrusst | [Read More](https://medium.com/p/4b9f8756c406) |
 | Fri, 21 Nov 2025 07:03:06 GMT | Top Ethical Hacking Online Classes to Learn Cybersecurity Skills | cyber security Updates | [Read More](https://medium.com/p/7ebd6d837f04) |
 | Fri, 21 Nov 2025 06:59:48 GMT | Engineering Governance Pipelines | Erik Lacson | [Read More](https://medium.com/p/626e81f6e110) |
-| Fri, 21 Nov 2025 06:59:40 GMT | Setiap orang punya alasan dan itu nggak apa-apa | Zidni Ilman Nafi'a | [Read More](https://medium.com/p/638931d926d4) |
-| Fri, 21 Nov 2025 06:58:51 GMT | Injection flaws in APIs | Jei Ess | [Read More](https://medium.com/p/518c7810fd79) |
-| Fri, 21 Nov 2025 06:56:57 GMT | The Linux Firewall Nobody Talks About, And the Nmap Scan That Changed How I See Security | Fateyaly | [Read More](https://medium.com/p/5dae74ead692) |
-| Fri, 21 Nov 2025 06:50:34 GMT | Dubai Events: Demand the Best in Self-Service Ticketing Kiosk Machines | Rakesh | [Read More](https://medium.com/p/cc1232d2c41f) |
-| Fri, 21 Nov 2025 06:48:06 GMT | 10 Key Lessons IT Leaders Learned In 2025 | HostNOC | [Read More](https://medium.com/p/e290119a6e93) |
-| Fri, 21 Nov 2025 06:45:41 GMT | HTB Challenge — The Last Dance | Fardeen A. | [Read More](https://medium.com/p/bf1a19884d85) |
-| Fri, 21 Nov 2025 06:41:03 GMT | Flutter IOS 웹뷰 다이얼로그or바텀시트 이후 클릭 안되는 이슈 (임시)해결 | Moomin | [Read More](https://medium.com/p/d15f57d30853) |
-| Fri, 21 Nov 2025 06:30:37 GMT | $XXX Bounty, How I Chained a Leaked AWS Secret Key into a Full Subdomain Takeover | M0n3m | [Read More](https://medium.com/p/56bb4be67c4c) |
-| Fri, 21 Nov 2025 06:25:09 GMT | Your Website’s Best Wingman: Secure Hosting That Works While You Sleep | Andy | [Read More](https://medium.com/p/5ded0d265aaa) |
-| Fri, 21 Nov 2025 06:12:09 GMT | CyberMason Web Development | Marc Matthew Mason | [Read More](https://medium.com/p/b1b29c315dab) |
-| Fri, 21 Nov 2025 06:11:29 GMT | things that make me cry | rhijoyce | [Read More](https://medium.com/p/113b98400614) |
