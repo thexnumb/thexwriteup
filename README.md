@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 23:11:01 GMT | iOS 26 Just Made Apple Passwords So Good, I Stopped Using Other Managers | apple inside | [Read More](https://medium.com/p/87de3bd58531) |
+| Fri, 21 Nov 2025 23:09:15 GMT | From Gatekeeper to Enabler: The 10 Traps Holding Security Teams Back | Mehdi Khalilzadeh | [Read More](https://medium.com/p/2822cafb3d1b) |
+| Fri, 21 Nov 2025 22:49:41 GMT | Top 10 Cybersecurity Companies in Pakistan in 2026 | Muhammad Inam Abbasi | [Read More](https://medium.com/p/bc90349e793a) |
+| Fri, 21 Nov 2025 22:38:26 GMT | How I Bypassed 2FA and Earned My Second Bug Bounty | Hamza | [Read More](https://medium.com/p/4ac3f2412cf7) |
 | Fri, 21 Nov 2025 22:34:39 GMT | Wordfence Weekly Review — November 10 — November 16, 2025 | Wordfence | [Read More](https://medium.com/p/11b211f6e5df) |
 | Fri, 21 Nov 2025 22:22:11 GMT | MITRE ATT&CK | someone | [Read More](https://medium.com/p/0538d87ba759) |
 | Fri, 21 Nov 2025 22:19:07 GMT | The Simplest Way to Learn Containers: Compose | Sara Sheon | [Read More](https://medium.com/p/d0733cfdd2f3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 14:54:38 GMT | saudi-arabia-proxy-guide | CoinZenith | [Read More](https://medium.com/p/3096e77bb5ed) |
 | Fri, 21 Nov 2025 14:51:22 GMT | How I Hacked Gmail Creds at a Tech Event With a $30 Device | Satyam Pathania | [Read More](https://medium.com/p/d67ef4e6461e) |
 | Fri, 21 Nov 2025 14:50:27 GMT | symmetric Challenge (Crypto) - CyCTF 25 | Khonshu | [Read More](https://medium.com/p/b74f23a11884) |
-| Fri, 21 Nov 2025 14:39:23 GMT | Defending Against ClickFix: Building Real-World Behavioral Detections Using Atomic Red Team | CyberFreak | [Read More](https://medium.com/p/863660eb87cb) |
-| Fri, 21 Nov 2025 14:33:43 GMT | Best Security Companies San Jose for Full Protection | Direct Guard Services | [Read More](https://medium.com/p/90f10105064f) |
-| Fri, 21 Nov 2025 14:32:19 GMT | Protecting Our Ports | Abdelaziz moustakim | [Read More](https://medium.com/p/916ffd8e000a) |
-| Fri, 21 Nov 2025 14:27:41 GMT | When to Escalate: The Clear Protocols Unarmed Guards Follow in a Crisis | The Safety Perspective | [Read More](https://medium.com/p/3226666a75b5) |
