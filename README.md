@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 04:14:48 GMT | Launching Your Career in OT Security: A Practical Guide to References, Tools, and Pathways | Ajay Naik | [Read More](https://medium.com/p/83ef6e8127ef) |
+| Fri, 21 Nov 2025 04:12:08 GMT | Artificial Intelligence (AI) vs Artificial Instinct (Ai), The Distinction Cybersecurity Can’t… | Juan Pablo Castro | [Read More](https://medium.com/p/f300aec71a3b) |
+| Fri, 21 Nov 2025 04:09:02 GMT | Hacking Windows — Ethical Hacking | Md. Raihan | [Read More](https://medium.com/p/4f92bcb48713) |
+| Fri, 21 Nov 2025 04:01:46 GMT | Bulk Event Technology Rental: The Smart Way to Power Modern Events | DLC Events | [Read More](https://medium.com/p/034745fcb39d) |
+| Fri, 21 Nov 2025 03:59:24 GMT | The Biggest Cybersecurity Threat You Face Isn’t a Hacker — It’s You | CyberHelp911_SecurityAdvisor | [Read More](https://medium.com/p/e1d0579bb6c7) |
+| Fri, 21 Nov 2025 03:41:26 GMT | Cautionary Note for Security Researchers: My Experience With Beem Computer / Toby Brown | Bug hunter | [Read More](https://medium.com/p/b844a894925d) |
+| Fri, 21 Nov 2025 03:38:20 GMT | Scaling A One Person Operation With Python | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/beef2fa1e6b9) |
 | Fri, 21 Nov 2025 03:32:25 GMT | How Attackers Hijack OneDrive With DLL Sideloading and Why It Matters | Deven Chhajed | [Read More](https://medium.com/p/e067ad05fffc) |
 | Fri, 21 Nov 2025 02:56:16 GMT | Staying Private, Staying You: Protecting Yourself Online | Ann Harris | [Read More](https://medium.com/p/a3aacf9ef45d) |
 | Fri, 21 Nov 2025 02:56:10 GMT | Archangel writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/781014f30777) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 17:30:18 GMT | The Linux Security Journey — “protected_regular” (Protect Regular Files) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/909ec552e70a) |
 | Thu, 20 Nov 2025 17:28:38 GMT | How I Started My Cybersecurity Journey With No Degree, No Contacts — Just Persistence | Manas Mahato | [Read More](https://medium.com/p/76c683332708) |
 | Thu, 20 Nov 2025 17:25:16 GMT | Active Exploitation Alert: Analysts at watchTowr Warn on FortiWeb | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/13a446937363) |
-| Thu, 20 Nov 2025 17:21:08 GMT | Buffer Overflows, Part 2: From Random Crashing to Precision Stack Smashing | Poojan Ghetiya | [Read More](https://medium.com/p/766a4e44f281) |
-| Thu, 20 Nov 2025 17:18:35 GMT | Publicly Exposed RAG API Leading to Unauthenticated Access to PII and Internal System Data | Gouri Sankar A | [Read More](https://medium.com/p/83913558b2e2) |
-| Thu, 20 Nov 2025 17:16:26 GMT | What Is a VPN Used For? Top VPN Uses & Benefits Explained | Awais Khan | [Read More](https://medium.com/p/3e4353a19aba) |
-| Thu, 20 Nov 2025 17:03:07 GMT | Episode 10: “The Cloud of Unknowing” | Dr. House In I.T. | [Read More](https://medium.com/p/394dc9dafda6) |
-| Thu, 20 Nov 2025 17:02:10 GMT | The Builder’s Notes: Building HIPAA-Compliant Audit Logging from Scratch | Piyoosh Rai | [Read More](https://medium.com/p/968cafd16faa) |
-| Thu, 20 Nov 2025 16:59:36 GMT | Business Technologists: The Missing Link Between Strategy, Cost, and Technology | Tyson Martin | [Read More](https://medium.com/p/aabebea71924) |
-| Thu, 20 Nov 2025 16:58:41 GMT | Cheat Software as Malware: How Gaming Culture Accidentally Created the Perfect Distribution System… | Jforrest | [Read More](https://medium.com/p/94a202b1fd6c) |
