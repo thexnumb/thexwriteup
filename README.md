@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 20:24:09 GMT | Bypassing University Email Verification: A Logical Flaw in a Saudi Cybersecurity Education Platform | A7medsaber | [Read More](https://medium.com/p/3073721ce9bd) |
+| Fri, 21 Nov 2025 19:48:55 GMT | Open RAN Architecture & Principles | Asitha Kodithuwakku | [Read More](https://medium.com/p/a1751bb421c7) |
+| Fri, 21 Nov 2025 19:44:21 GMT | Cybersecurity News Review — Week 47 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/df7ef1d67f1b) |
 | Fri, 21 Nov 2025 19:29:20 GMT | Write up Mautic [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/1bfbecbd6c4a) |
 | Fri, 21 Nov 2025 19:25:07 GMT | Explaining Bash in the Easiest Way- Part III | Vaishnav S | [Read More](https://medium.com/p/532fcf4c9f7d) |
 | Fri, 21 Nov 2025 19:22:18 GMT | Symbiotic — The Universal Staking Layer | Dibby | [Read More](https://medium.com/p/b4a44aeea667) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 13:32:07 GMT | CONCEPT 009 — Vulnerability Cascades: CONSCIENCE ENGINEERING LEXICON | Deusdedit Ruhangariyo | [Read More](https://medium.com/p/b89a816fa048) |
 | Fri, 21 Nov 2025 13:31:31 GMT | The Non-Negotiable Role of ISO 27001 in Cyber-Resilience | CFE CERTIFICATION | [Read More](https://medium.com/p/1cbca18f6353) |
 | Fri, 21 Nov 2025 13:27:10 GMT | How to Build a Bulletproof Personal Privacy Stack in 2025 | Voidly | [Read More](https://medium.com/p/14b73cf3356c) |
-| Fri, 21 Nov 2025 13:25:14 GMT | [Ethernaut] 0. Hello Ethernaut | Jiseop Shin | [Read More](https://medium.com/p/2c17419e40ac) |
-| Fri, 21 Nov 2025 13:20:38 GMT | russian-proxy-list-guide | CryptoDawn | [Read More](https://medium.com/p/e9fdc25b236a) |
-| Fri, 21 Nov 2025 13:17:33 GMT | Azure Web Application Firewall | santosh santosh | [Read More](https://medium.com/p/253b37567f64) |
