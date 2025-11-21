@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 12:30:26 GMT | Zero-Day Exploitation and Large-Scale Campaigns Define This Week’s Threat Outlook | Loginsoft | [Read More](https://medium.com/p/ae9162841a81) |
+| Fri, 21 Nov 2025 12:23:38 GMT | Rooting DoubleTrouble (VulnHub): A Sweet_Cow Ride Through a Nested VM | Shikhar Sinha | [Read More](https://medium.com/p/9a15baecdaa6) |
+| Fri, 21 Nov 2025 12:16:49 GMT | Why Is My iPhone Not Charging and How to Fix It: Simple Troubleshooting Guide | applebuysell | [Read More](https://medium.com/p/6a41ef5956ab) |
+| Fri, 21 Nov 2025 12:11:02 GMT | I Automated My Recon And Found 3 Bugs In 24 Hours | Ibtissam | [Read More](https://medium.com/p/e34145829db0) |
+| Fri, 21 Nov 2025 12:08:45 GMT | Dark UI/UX Pattern: I Got Misdirected to Gemini Instead of Perplexity | Sachin      Verlekar | [Read More](https://medium.com/p/c77b039e0762) |
+| Fri, 21 Nov 2025 12:03:24 GMT | Advent of Cyber 2025 Prep Track — Walkthrough challenges | Jason Utama | [Read More](https://medium.com/p/a0f03a144c78) |
+| Fri, 21 Nov 2025 12:02:07 GMT | The Great Tech Showdown: AI/ML  vs Cybersecurity | Intelligent Hustle | [Read More](https://medium.com/p/4f8cd76f4b2b) |
+| Fri, 21 Nov 2025 12:01:24 GMT | The Anatomy of Becoming. | Being_Anet | [Read More](https://medium.com/p/4d099af68813) |
+| Fri, 21 Nov 2025 12:01:03 GMT | Today’s Top Cyber Intelligence Highlights — Nov 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6d3e88872891) |
+| Fri, 21 Nov 2025 11:47:13 GMT | Exposing a Vast Phishing Campaign by Probing Malicious Emails and URLs | Citadel Cybersec | [Read More](https://medium.com/p/7b7766d788e7) |
+| Fri, 21 Nov 2025 11:34:28 GMT | What is Malware ? | Soundaryaps | [Read More](https://medium.com/p/3092f3aadae3) |
+| Fri, 21 Nov 2025 11:33:57 GMT | ThreatsDay: 0-Days, LinkedIn Spies, Crypto Crimes and the Week the Internet Felt Smalle | Germano Costi | [Read More](https://medium.com/p/1ecc8d5aac54) |
 | Fri, 21 Nov 2025 11:31:42 GMT | How to Choose the Right Engineering Branch for Your Future | Marathwada Mitra Mandal's Institute of Technology | [Read More](https://medium.com/p/32c8e8748d97) |
 | Fri, 21 Nov 2025 11:31:17 GMT | What Is Ethical Hacking and How Does It Work? | Manisha Chaudhary | [Read More](https://medium.com/p/b9706e71223c) |
 | Fri, 21 Nov 2025 11:30:18 GMT | Virtual Laboratory — Understanding Virtual Lab and VitualBox | LUTSVIA | [Read More](https://medium.com/p/c1ee6cf5ce88) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 06:25:09 GMT | Your Website’s Best Wingman: Secure Hosting That Works While You Sleep | Andy | [Read More](https://medium.com/p/5ded0d265aaa) |
 | Fri, 21 Nov 2025 06:12:09 GMT | CyberMason Web Development | Marc Matthew Mason | [Read More](https://medium.com/p/b1b29c315dab) |
 | Fri, 21 Nov 2025 06:11:29 GMT | things that make me cry | rhijoyce | [Read More](https://medium.com/p/113b98400614) |
-| Fri, 21 Nov 2025 06:04:30 GMT | 5 Cybersecurity Certificates You Need To Improve in AI Security | Zeniteq Co | [Read More](https://medium.com/p/047572739621) |
-| Fri, 21 Nov 2025 06:04:02 GMT | How Machine Learning is changing Cybersecurity | Tarun Chauhan | [Read More](https://medium.com/p/9c6e0001a275) |
-| Fri, 21 Nov 2025 06:03:36 GMT | شماره‌خاله‌تهران | مهسا نعمتی | [Read More](https://medium.com/p/15df20b2ecf5) |
-| Fri, 21 Nov 2025 05:56:24 GMT | Encryption Explained: Symmetric vs Asymmetric — What’s the Difference? | Geeky Vartika | [Read More](https://medium.com/p/659626ad41f7) |
-| Fri, 21 Nov 2025 05:46:54 GMT | The Bug I Spent 3 Days On… and the One Line That Solved It | Amarpratapsingh | [Read More](https://medium.com/p/d8b14e641f9d) |
-| Fri, 21 Nov 2025 05:43:19 GMT | FCC Withdraws Telecom Cybersecurity Mandates After Salt Typhoon Hack | Elijah Shane White | [Read More](https://medium.com/p/3bb145268187) |
-| Fri, 21 Nov 2025 05:29:59 GMT | Become a Certified Information Systems Security Professional and Boost Your Career | Edglobalacademy | [Read More](https://medium.com/p/f1f73a529fef) |
-| Fri, 21 Nov 2025 05:27:47 GMT | Unveiling China’s Data Dominance: The Hidden Force Behind Its AI Ambitions | Jared Douville | [Read More](https://medium.com/p/3fd367376bb5) |
-| Fri, 21 Nov 2025 05:24:16 GMT | India Just Solved the Spam Call Problem (And It’s Genius) | TechTrellis Academy | [Read More](https://medium.com/p/10568b37a83f) |
-| Fri, 21 Nov 2025 05:24:15 GMT | Beyond Shared Hosting: Why Managed VPS Is the Upgrade Your Website Deserves | Ann Taylor | [Read More](https://medium.com/p/0749a94dcace) |
-| Fri, 21 Nov 2025 05:21:05 GMT | Why Is Data Loss Prevention Software Essential For Protecting Modern Business Data? | keyTrackr | [Read More](https://medium.com/p/59911e540a77) |
-| Fri, 21 Nov 2025 05:20:37 GMT | The Rise of AI-Based Cyberattacks: A New Challenge for Ethical Hackers | HackersPrey | [Read More](https://medium.com/p/449384aef1c9) |
