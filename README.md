@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 07:15:27 GMT | Securing Embedded and Specialized Systems: Challenges, Consequences, and Lessons from Real-World… | Anderson Santos | [Read More](https://medium.com/p/443f7ecfca26) |
+| Fri, 21 Nov 2025 07:09:36 GMT | The Corix Partners Friday Reading List — November 21, 2025 | JC Gaillard | [Read More](https://medium.com/p/733daf752ed8) |
+| Fri, 21 Nov 2025 07:07:10 GMT | Stop Committing Secrets to GitHub: How to Avoid It and How to Fix It If You Already Did | Kaylee C | [Read More](https://medium.com/p/3a78fbdfbaad) |
+| Fri, 21 Nov 2025 07:06:43 GMT | What Skills Guarantee Engineers Top Roles in Modern AI Teams | Modern Security | [Read More](https://medium.com/p/423443fe4828) |
+| Fri, 21 Nov 2025 07:05:02 GMT | How do Sturdy NDR Solutions Assist Cloud Security | NetWitness | [Read More](https://medium.com/p/5eb0be049d4d) |
+| Fri, 21 Nov 2025 07:04:07 GMT | Digital Personal Data Protection (DPDP) Act Explained | Cytrusst | [Read More](https://medium.com/p/4b9f8756c406) |
+| Fri, 21 Nov 2025 07:03:06 GMT | Top Ethical Hacking Online Classes to Learn Cybersecurity Skills | cyber security Updates | [Read More](https://medium.com/p/7ebd6d837f04) |
+| Fri, 21 Nov 2025 06:59:48 GMT | Engineering Governance Pipelines | Erik Lacson | [Read More](https://medium.com/p/626e81f6e110) |
+| Fri, 21 Nov 2025 06:59:40 GMT | Setiap orang punya alasan dan itu nggak apa-apa | Zidni Ilman Nafi'a | [Read More](https://medium.com/p/638931d926d4) |
+| Fri, 21 Nov 2025 06:58:51 GMT | Injection flaws in APIs | Jei Ess | [Read More](https://medium.com/p/518c7810fd79) |
+| Fri, 21 Nov 2025 06:56:57 GMT | The Linux Firewall Nobody Talks About, And the Nmap Scan That Changed How I See Security | Fateyaly | [Read More](https://medium.com/p/5dae74ead692) |
+| Fri, 21 Nov 2025 06:50:34 GMT | Dubai Events: Demand the Best in Self-Service Ticketing Kiosk Machines | Rakesh | [Read More](https://medium.com/p/cc1232d2c41f) |
+| Fri, 21 Nov 2025 06:48:06 GMT | 10 Key Lessons IT Leaders Learned In 2025 | HostNOC | [Read More](https://medium.com/p/e290119a6e93) |
+| Fri, 21 Nov 2025 06:45:41 GMT | HTB Challenge — The Last Dance | Fardeen A. | [Read More](https://medium.com/p/bf1a19884d85) |
+| Fri, 21 Nov 2025 06:41:03 GMT | Flutter IOS 웹뷰 다이얼로그or바텀시트 이후 클릭 안되는 이슈 (임시)해결 | Moomin | [Read More](https://medium.com/p/d15f57d30853) |
+| Fri, 21 Nov 2025 06:30:37 GMT | $XXX Bounty, How I Chained a Leaked AWS Secret Key into a Full Subdomain Takeover | M0n3m | [Read More](https://medium.com/p/56bb4be67c4c) |
 | Fri, 21 Nov 2025 06:25:09 GMT | Your Website’s Best Wingman: Secure Hosting That Works While You Sleep | Andy | [Read More](https://medium.com/p/5ded0d265aaa) |
 | Fri, 21 Nov 2025 06:12:09 GMT | CyberMason Web Development | Marc Matthew Mason | [Read More](https://medium.com/p/b1b29c315dab) |
 | Fri, 21 Nov 2025 06:11:29 GMT | things that make me cry | rhijoyce | [Read More](https://medium.com/p/113b98400614) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 20:31:19 GMT | CyberDefenders — Kerberoasted Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/3b6aea3ecf11) |
 | Thu, 20 Nov 2025 20:27:05 GMT | Learning to Forgive Myself | Guillermo Palchik | [Read More](https://medium.com/p/65f42912b1ee) |
 | Thu, 20 Nov 2025 20:21:03 GMT | The Rise of AI-Powered Cyberattacks: Why the Next Wave of Threats Will Blindside Unprepared… | Pasan Madhuranga | [Read More](https://medium.com/p/987ea90f0fa4) |
-| Thu, 20 Nov 2025 20:17:55 GMT | Security is the Government’s Job | Temitope Ogunlana | [Read More](https://medium.com/p/03453a0dd5de) |
-| Thu, 20 Nov 2025 20:17:52 GMT | AI-Generated Phishing: The New Era of Cyber Deception | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/521d0cdaa96c) |
-| Thu, 20 Nov 2025 20:16:04 GMT | The Day I Realized Everything in Tech is Just Sockets Talking | Mohamed Gebril | [Read More](https://medium.com/p/335178b2f2ab) |
-| Thu, 20 Nov 2025 20:12:13 GMT | Cyber Security is 10% Actual Security and 90% Theatre | Rich B | [Read More](https://medium.com/p/28b0cff03777) |
-| Thu, 20 Nov 2025 20:05:02 GMT | The Network Stack Stripped Bare: A Deep Dive into Socket Programming and Its Security Implications | Mohamed Gebril | [Read More](https://medium.com/p/1e282e43c915) |
-| Thu, 20 Nov 2025 19:45:34 GMT | Why Most Managed IT Providers Are Not Truly Local | Asad Shahzad - Content Marketer | [Read More](https://medium.com/p/6d31507f431a) |
-| Thu, 20 Nov 2025 19:33:52 GMT | Drowning in Data | Rafa Bez | [Read More](https://medium.com/p/5ef43fa41609) |
-| Thu, 20 Nov 2025 19:26:29 GMT | The Cybersecurity Universe: 9 Paths (And Yes, There’s Room for You) | Tia B | [Read More](https://medium.com/p/2503b58c8517) |
-| Thu, 20 Nov 2025 19:23:04 GMT | Cloudflare 18 November 2025 Outage: Full Breakdown, Root Cause, and Impact: A DevOps Perspective | Shegezzy | [Read More](https://medium.com/p/c73d0e9b4af2) |
-| Thu, 20 Nov 2025 19:19:04 GMT | Why Construction Site Security Is Essential in 2025: Protect Your Site, Equipment & Workers | Hirasarfraz | [Read More](https://medium.com/p/7059cd5a8cff) |
-| Thu, 20 Nov 2025 19:13:08 GMT | Warrantless Geofence Warrants: Scrutinizing the Legal Use of Mass Location Data by Law Enforcement | Ian McIntire | [Read More](https://medium.com/p/014adf8cc553) |
-| Thu, 20 Nov 2025 19:09:09 GMT | Stop Apps From Spying On You: A Simple Setup to Block Ads Everywhere | Richard Jakab | [Read More](https://medium.com/p/a0061d849bb0) |
-| Thu, 20 Nov 2025 19:07:11 GMT | Unhooking ntdll.dll in Rust: A Beginner-Friendly Guide to Bypassing EDR Hooks | Shaheer Yasir | [Read More](https://medium.com/p/ca113c22ef01) |
-| Thu, 20 Nov 2025 19:05:57 GMT | A Security Vulnerability That Could Have Led to Full Twitter Account Takeover | Berat Blmz | [Read More](https://medium.com/p/6598a58de4c6) |
-| Thu, 20 Nov 2025 19:02:11 GMT | First Documented Large-Scale AI-Orchestrated Cyberattack Raises New Security Concerns | ODSC - Open Data Science | [Read More](https://medium.com/p/123c070c4e14) |
-| Thu, 20 Nov 2025 18:58:30 GMT | AI Governance = Data Governance (A Data Engineer’s Perspective) | Egezon Baruti | [Read More](https://medium.com/p/4e550c662a84) |
