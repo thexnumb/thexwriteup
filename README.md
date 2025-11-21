@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 11:31:42 GMT | How to Choose the Right Engineering Branch for Your Future | Marathwada Mitra Mandal's Institute of Technology | [Read More](https://medium.com/p/32c8e8748d97) |
+| Fri, 21 Nov 2025 11:31:17 GMT | What Is Ethical Hacking and How Does It Work? | Manisha Chaudhary | [Read More](https://medium.com/p/b9706e71223c) |
+| Fri, 21 Nov 2025 11:30:18 GMT | Virtual Laboratory — Understanding Virtual Lab and VitualBox | LUTSVIA | [Read More](https://medium.com/p/c1ee6cf5ce88) |
+| Fri, 21 Nov 2025 11:29:11 GMT | Making Enterprise AI Work | Hassan Lâasri | [Read More](https://medium.com/p/dd05b905ddaa) |
+| Fri, 21 Nov 2025 11:27:40 GMT | Your Phone Is Giving Away More Info Than You Think: The Hidden Data Privacy Crisis | Deepak Sharma | [Read More](https://medium.com/p/40ee67dd4afc) |
+| Fri, 21 Nov 2025 11:23:56 GMT | Implementation of Virtual Laboratory Using VirtualBox Application and Virtualization Alternatives… | HABIBI | [Read More](https://medium.com/p/dc8ec79beac0) |
+| Fri, 21 Nov 2025 11:22:08 GMT | Which Companies Provide OT Cybersecurity Services in Canada? | Arista Cyber | [Read More](https://medium.com/p/c3035fab61d0) |
 | Fri, 21 Nov 2025 11:16:18 GMT | INTRODUCTION TO DROSERA | Stellamaris ❤️ | [Read More](https://medium.com/p/2650b8484a02) |
 | Fri, 21 Nov 2025 11:07:53 GMT | TryHackMe Writeup: Nax | Berkay AĞGÜL | [Read More](https://medium.com/p/18708881cb79) |
 | Fri, 21 Nov 2025 11:06:55 GMT | Cyber Security Training Certification for Beginners in India 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/8e830c068097) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 05:24:15 GMT | Beyond Shared Hosting: Why Managed VPS Is the Upgrade Your Website Deserves | Ann Taylor | [Read More](https://medium.com/p/0749a94dcace) |
 | Fri, 21 Nov 2025 05:21:05 GMT | Why Is Data Loss Prevention Software Essential For Protecting Modern Business Data? | keyTrackr | [Read More](https://medium.com/p/59911e540a77) |
 | Fri, 21 Nov 2025 05:20:37 GMT | The Rise of AI-Based Cyberattacks: A New Challenge for Ethical Hackers | HackersPrey | [Read More](https://medium.com/p/449384aef1c9) |
-| Fri, 21 Nov 2025 05:20:20 GMT | Create and configure User Flow with AWS Cognito User Pool | Parfaitkouess | [Read More](https://medium.com/p/6c8b19f9e337) |
-| Fri, 21 Nov 2025 05:12:59 GMT | What Are Temporary Wallets? | TempWallets | [Read More](https://medium.com/p/99ffb8cf5a69) |
-| Fri, 21 Nov 2025 05:10:34 GMT | A Day of Focused Cybersecurity Practice: Cracking Nine HTB Machines | Vivektumma27 | [Read More](https://medium.com/p/c3e5cf1aef51) |
-| Fri, 21 Nov 2025 05:04:42 GMT | Who Provides the Best Security Services in Bhiwani? | Lakshay Security | [Read More](https://medium.com/p/f03c445f73af) |
-| Fri, 21 Nov 2025 05:03:40 GMT | The Growing Demand for Security Services in Ambala | Lakshay Security | [Read More](https://medium.com/p/6a661a5b7795) |
-| Fri, 21 Nov 2025 04:57:03 GMT | Prophetic Reflection on the Killings in Nigeria by Ayodeji Awodoyin | Ayodeji Bello | [Read More](https://medium.com/p/150287353bd2) |
-| Fri, 21 Nov 2025 04:55:52 GMT | Cybersecurity Challenges and Defense Strategies for Military Drones | Perimeterwatch | [Read More](https://medium.com/p/2373aadd67e3) |
