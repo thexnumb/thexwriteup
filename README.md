@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 19:16:08 GMT | IT Reminder: DOCUMENT. YOUR. WORK. | Ashe Sule | [Read More](https://medium.com/p/a110fe345a38) |
+| Fri, 21 Nov 2025 19:11:08 GMT | The Truth Detector and the AI Agent Crisis: | Jon Capriola | [Read More](https://medium.com/p/bfb67553cdbc) |
+| Fri, 21 Nov 2025 18:56:42 GMT | Stack Overflow: Your Silent Code Killer?  Why Blind Copy-Pasting is Tanking Your Go Projects | Puneet | [Read More](https://medium.com/p/005876311333) |
+| Fri, 21 Nov 2025 18:54:16 GMT | My Go-To Tools That Balance Risk, Cost, and Usability | Fook Hwa Tan | [Read More](https://medium.com/p/3a051ce43c59) |
+| Fri, 21 Nov 2025 18:52:40 GMT | The Resilience Formula: What Survivors Do Differently | Fook Hwa Tan | [Read More](https://medium.com/p/4ed867d92ebd) |
+| Fri, 21 Nov 2025 18:51:29 GMT | Unified BOM : The Complete Guide | Ratnadeep Dey Roy | [Read More](https://medium.com/p/99a7ca284023) |
 | Fri, 21 Nov 2025 18:39:31 GMT | How I Broke a Realtime Editor’s WebSocket Authentication | darivxe | [Read More](https://medium.com/p/b3cf6dffd380) |
 | Fri, 21 Nov 2025 18:32:10 GMT | SQL Injection Attacks A Beginner-Friendly Explainer for Ethical Hackers | Purushotham.R | [Read More](https://medium.com/p/8b7c8487fa8f) |
+| Fri, 21 Nov 2025 18:29:53 GMT | The Architecture of Browser Sandboxes: A Deep Dive into JavaScript Code Isolation | Aleksandr Grigorenko | [Read More](https://medium.com/p/2dc337703191) |
 | Fri, 21 Nov 2025 18:24:27 GMT | Hayabusa: A Powerful Log Analysis Tool for Forensics and Threat Hunting | Dean | [Read More](https://medium.com/p/a00fb3ae8635) |
 | Fri, 21 Nov 2025 18:13:01 GMT | TwoMillion — Easy Level Linux based Machine Writeup | Pradithareddy | [Read More](https://medium.com/p/e438d98aab56) |
 | Fri, 21 Nov 2025 18:10:50 GMT | How Identification Works in Cybersecurity Systems | Damir Kolobaric | [Read More](https://medium.com/p/05625d2533cc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 13:16:36 GMT | Parrot OS on VirtualBox - Secure VM Setup (Beginner Friendly) | Shahzaib | [Read More](https://medium.com/p/2bf9a2060f82) |
 | Fri, 21 Nov 2025 13:14:49 GMT | How to Build Instant AI-Powered Dashboards with 0-shot prompting | Zvonimir | [Read More](https://medium.com/p/bb2d3a62c87b) |
 | Fri, 21 Nov 2025 13:07:08 GMT | Why You’re Getting Packages You Never Ordered: The Brushing Scam Explained | No Scam | [Read More](https://medium.com/p/e242943f4413) |
-| Fri, 21 Nov 2025 13:00:58 GMT | AI-Boosted Financial Fraud and Market Manipulation – The Industrialization of Deception at Scale | David SEHYEON Baek | [Read More](https://medium.com/p/621c679f8c12) |
-| Fri, 21 Nov 2025 13:00:49 GMT | AI in Cybersecurity: The Next Frontier in Data Protection | VLink | [Read More](https://medium.com/p/29570230ca55) |
-| Fri, 21 Nov 2025 12:55:49 GMT | Hunting the Noise: How I Designed a 90% PowerShell False Positive Reduction Strategy in Cortex XDR | Samyakgoel | [Read More](https://medium.com/p/29ba0ab5bbf8) |
-| Fri, 21 Nov 2025 12:45:19 GMT | Data Centers Deserve Smarter Security — Start in Kuwait & GCC | Tek Zeba | [Read More](https://medium.com/p/6aff02489b39) |
-| Fri, 21 Nov 2025 12:30:26 GMT | Zero-Day Exploitation and Large-Scale Campaigns Define This Week’s Threat Outlook | Loginsoft | [Read More](https://medium.com/p/ae9162841a81) |
-| Fri, 21 Nov 2025 12:23:38 GMT | Rooting DoubleTrouble (VulnHub): A Sweet_Cow Ride Through a Nested VM | Shikhar Sinha | [Read More](https://medium.com/p/9a15baecdaa6) |
-| Fri, 21 Nov 2025 12:16:49 GMT | Why Is My iPhone Not Charging and How to Fix It: Simple Troubleshooting Guide | applebuysell | [Read More](https://medium.com/p/6a41ef5956ab) |
