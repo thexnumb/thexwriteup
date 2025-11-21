@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 10:20:18 GMT | What working across major government departments taught us about Privileged Access, risk and human… | rainmaker | [Read More](https://medium.com/p/b288eeece2bc) |
+| Fri, 21 Nov 2025 10:12:16 GMT | Stop Hackers: Secure Data Using AES Encryption/Decryption Algorithm | Java Techie | [Read More](https://medium.com/p/7b79b381b038) |
+| Fri, 21 Nov 2025 10:03:35 GMT | How macOS File Metadata Exposes Authentication Tokens | Karol Mazurek | [Read More](https://medium.com/p/ef6846842b8d) |
+| Fri, 21 Nov 2025 10:01:30 GMT | russian-proxies-business-use | ChainNova | [Read More](https://medium.com/p/c3e42d3356dc) |
+| Fri, 21 Nov 2025 10:01:28 GMT | How Technology Changed the World: Understanding the Global Impact of Innovation: | Alisha | [Read More](https://medium.com/p/c3a8e9fec1fb) |
+| Fri, 21 Nov 2025 09:52:29 GMT | The Australian Secret Intelligence Service (ASIS) | Permana Dewangga | [Read More](https://medium.com/p/293f4c501bf5) |
+| Fri, 21 Nov 2025 09:51:15 GMT | Risk-based Testing Using AI Prioritization Models in FinTech Projects | Varuni De Silva | [Read More](https://medium.com/p/5b7a0c97d20d) |
+| Fri, 21 Nov 2025 09:50:14 GMT | The 23-Year-Old Hacker Who Turned Banned Chinese Drones Into a $4 Billion War Machine — Killing… | The Forensic Archive | [Read More](https://medium.com/p/350f1a6c07e0) |
+| Fri, 21 Nov 2025 09:42:53 GMT | How Cloud Hosting Strengthens Your Data Security in 2025 (And Why Businesses Are Switching Fast) | Swapnil S. | [Read More](https://medium.com/p/0b8ebd4eed5e) |
 | Fri, 21 Nov 2025 09:41:17 GMT | My social media account hacked Because of VPN, What to do? | Jeetendra khatri | [Read More](https://medium.com/p/3338b1bc58c7) |
 | Fri, 21 Nov 2025 09:41:14 GMT | Before You Share Your Data Read This: Key DPDP Act Definitions Explained. | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/ad1e504f3b30) |
 | Fri, 21 Nov 2025 09:40:59 GMT | Should Manufacturers Settle for Off-the-Shelf Security, or Demand Tailored Solutions? | Luke Appleby | [Read More](https://medium.com/p/6be90a6156db) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 02:56:16 GMT | Staying Private, Staying You: Protecting Yourself Online | Ann Harris | [Read More](https://medium.com/p/a3aacf9ef45d) |
 | Fri, 21 Nov 2025 02:56:10 GMT | Archangel writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/781014f30777) |
 | Fri, 21 Nov 2025 02:49:49 GMT | Cracking the Database: My SQL Injection Adventure on PortSwigger | Kyrillos Kamal | [Read More](https://medium.com/p/46482dedd4d7) |
-| Fri, 21 Nov 2025 02:43:48 GMT | Dilithium Signatures: The Quantum-Ready Security Layer Blockchains Need Next | Javier Calderon Jr | [Read More](https://medium.com/p/ef42da1b062c) |
-| Fri, 21 Nov 2025 02:36:37 GMT | Give Me 5 Minutes and I’ll Fix Your Bug Bounty Strategy (The 2026 Blueprint) | Abhishek meena | [Read More](https://medium.com/p/1262cb57589b) |
-| Fri, 21 Nov 2025 02:34:11 GMT | What You MUST Know -Especially If You Handle Customer Data… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/10daf62761ca) |
-| Fri, 21 Nov 2025 02:02:30 GMT | Week 3: When Reality Hits | ZAYN | [Read More](https://medium.com/p/1137f6bdee80) |
-| Fri, 21 Nov 2025 01:58:17 GMT | THE TRUST ME TRAP: WHY BELIEVING VENDORS IS HOW HOSPITALS END UP ON THE EVENING NEWS | Travis Ray Caverhill | [Read More](https://medium.com/p/fd5a7b73bdea) |
-| Fri, 21 Nov 2025 01:28:00 GMT | My favorite Linux command #2 — find | Balazs Kocsis | [Read More](https://medium.com/p/3612c2a09a5b) |
-| Fri, 21 Nov 2025 01:27:34 GMT | Modernizing Legacy Exadata Workloads to Snowflake | LeapLogic | [Read More](https://medium.com/p/10d1dbbfe4e4) |
-| Fri, 21 Nov 2025 01:25:15 GMT | Hacking India’s biggest Cake Shop | StvRoot | [Read More](https://medium.com/p/aac8e586eb64) |
-| Fri, 21 Nov 2025 01:12:24 GMT | 4 Reasons Why a Woman Stays With You Even If She Doesn’t Love You | Ophaly Kate | [Read More](https://medium.com/p/6c2c838aa1c3) |
