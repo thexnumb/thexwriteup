@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 16:11:16 GMT | Critical Oracle E-Business Suite Zero-Day Exposed in Clop Ransomware Attack on Broadcom | Jasmitha | [Read More](https://medium.com/p/8f29dd32f1ad) |
+| Fri, 21 Nov 2025 16:08:18 GMT | [Ethernaut] 1. Fallback | Jiseop Shin | [Read More](https://medium.com/p/8c480fa49741) |
+| Fri, 21 Nov 2025 16:07:42 GMT | Hacksudo: 1 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/47b51b663cb6) |
+| Fri, 21 Nov 2025 16:06:57 GMT | Hacksudo: 3 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/d948e4be5407) |
+| Fri, 21 Nov 2025 16:03:59 GMT | Le Dispositif Security Champion @Axa France | Arnaud Foissac | [Read More](https://medium.com/p/3451401c95cd) |
+| Fri, 21 Nov 2025 15:53:36 GMT | TCP Three-Way Handshake: The First Step Every Cybersecurity Professional Must Understand | Aniket Nayak | [Read More](https://medium.com/p/6bfc44bd9ccf) |
+| Fri, 21 Nov 2025 15:45:58 GMT | Why is it Easier to Confide in Strangers? | Nivedita Mukherjee | [Read More](https://medium.com/p/dcc18026164d) |
+| Fri, 21 Nov 2025 15:44:15 GMT | Shifting Sands: The Three Forces Reshaping the Middle East’s Future | MASUM BILLAH | [Read More](https://medium.com/p/c8c5b1b7c441) |
+| Fri, 21 Nov 2025 15:42:46 GMT | Why Most Bug Bounty Hunters Fail — and How to Win | Hania Khan | [Read More](https://medium.com/p/3121ec732a22) |
+| Fri, 21 Nov 2025 15:42:39 GMT | Is Your AI Chatbot Whispering Your Secrets? Microsoft’s “Whisper Leak” Demystified | Akhilesh Yadav | [Read More](https://medium.com/p/51bcdd9450ec) |
+| Fri, 21 Nov 2025 15:41:52 GMT | Simple Cybersecurity Habits Everyone Needs. | Girish Dhamane | [Read More](https://medium.com/p/337228524d7b) |
+| Fri, 21 Nov 2025 15:41:45 GMT | Quantum Computing | BoNeZ | [Read More](https://medium.com/p/26ccafdfa952) |
+| Fri, 21 Nov 2025 15:39:17 GMT | Why Nuclei Kind of Feels Like Cheating (And That’s Okay) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f76004eaea22) |
 | Fri, 21 Nov 2025 15:35:12 GMT | 2 ATO via CSRF by using the same mechanism in different positions | CANITEY | [Read More](https://medium.com/p/20188133c625) |
 | Fri, 21 Nov 2025 15:34:43 GMT | When the Internet Stalls: What the Cloudflare Outage Teaches Developers and Users | Stefano Di Cecco | [Read More](https://medium.com/p/83375d412fba) |
+| Fri, 21 Nov 2025 15:34:02 GMT | HTB — Crocodile | Lautaro Robayna | [Read More](https://medium.com/p/c2746f7e3c57) |
 | Fri, 21 Nov 2025 15:22:58 GMT | Write Up File Hunter di Platform — Hackviser | Kang_BlankOn | [Read More](https://medium.com/p/054668fb86f3) |
 | Fri, 21 Nov 2025 15:21:40 GMT | NTFS ADS for Cyber Security Man’s | zerbaliy3v | [Read More](https://medium.com/p/992cadea900b) |
 | Fri, 21 Nov 2025 15:18:33 GMT | Military Intelligence and Strategic Operations in Modern Conflicts | Andrey Spiridonov | [Read More](https://medium.com/p/9bfe7f0da23f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 10:20:18 GMT | What working across major government departments taught us about Privileged Access, risk and human… | rainmaker | [Read More](https://medium.com/p/b288eeece2bc) |
 | Fri, 21 Nov 2025 10:20:04 GMT | DockerLabs Writeup — Redirection (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a1b378bd08b6) |
 | Fri, 21 Nov 2025 10:19:45 GMT | 小心！你的 AI 可能被人控制了 | 林鼎淵 | [Read More](https://medium.com/p/24c710e11698) |
-| Fri, 21 Nov 2025 10:13:51 GMT | Quarterly Cybersecurity Readiness: A Practical 20-Step Framework | Brillianttechnologies | [Read More](https://medium.com/p/5933e237f0ea) |
-| Fri, 21 Nov 2025 10:12:16 GMT | Stop Hackers: Secure Data Using AES Encryption/Decryption Algorithm | Java Techie | [Read More](https://medium.com/p/7b79b381b038) |
-| Fri, 21 Nov 2025 10:03:35 GMT | How macOS File Metadata Exposes Authentication Tokens | Karol Mazurek | [Read More](https://medium.com/p/ef6846842b8d) |
-| Fri, 21 Nov 2025 10:01:30 GMT | russian-proxies-business-use | ChainNova | [Read More](https://medium.com/p/c3e42d3356dc) |
-| Fri, 21 Nov 2025 10:01:28 GMT | How Technology Changed the World: Understanding the Global Impact of Innovation: | Alisha | [Read More](https://medium.com/p/c3a8e9fec1fb) |
-| Fri, 21 Nov 2025 09:52:29 GMT | The Australian Secret Intelligence Service (ASIS) | Permana Dewangga | [Read More](https://medium.com/p/293f4c501bf5) |
-| Fri, 21 Nov 2025 09:51:15 GMT | Risk-based Testing Using AI Prioritization Models in FinTech Projects | Varuni De Silva | [Read More](https://medium.com/p/5b7a0c97d20d) |
-| Fri, 21 Nov 2025 09:50:14 GMT | The 23-Year-Old Hacker Who Turned Banned Chinese Drones Into a $4 Billion War Machine — Killing… | The Forensic Archive | [Read More](https://medium.com/p/350f1a6c07e0) |
-| Fri, 21 Nov 2025 09:42:53 GMT | How Cloud Hosting Strengthens Your Data Security in 2025 (And Why Businesses Are Switching Fast) | Swapnil S. | [Read More](https://medium.com/p/0b8ebd4eed5e) |
-| Fri, 21 Nov 2025 09:41:17 GMT | My social media account hacked Because of VPN, What to do? | Jeetendra khatri | [Read More](https://medium.com/p/3338b1bc58c7) |
-| Fri, 21 Nov 2025 09:41:14 GMT | Before You Share Your Data Read This: Key DPDP Act Definitions Explained. | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/ad1e504f3b30) |
-| Fri, 21 Nov 2025 09:40:59 GMT | Should Manufacturers Settle for Off-the-Shelf Security, or Demand Tailored Solutions? | Luke Appleby | [Read More](https://medium.com/p/6be90a6156db) |
-| Fri, 21 Nov 2025 09:27:21 GMT | ประจำวันศุกร์ที่ 21 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/504855a44aec) |
-| Fri, 21 Nov 2025 09:20:21 GMT | ️Tryhackme - Web Security Essentials - Walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/593f404a10b1) |
