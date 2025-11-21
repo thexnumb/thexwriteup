@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 18:39:31 GMT | How I Broke a Realtime Editor’s WebSocket Authentication | darivxe | [Read More](https://medium.com/p/b3cf6dffd380) |
+| Fri, 21 Nov 2025 18:32:10 GMT | SQL Injection Attacks A Beginner-Friendly Explainer for Ethical Hackers | Purushotham.R | [Read More](https://medium.com/p/8b7c8487fa8f) |
+| Fri, 21 Nov 2025 18:24:27 GMT | Hayabusa: A Powerful Log Analysis Tool for Forensics and Threat Hunting | Dean | [Read More](https://medium.com/p/a00fb3ae8635) |
 | Fri, 21 Nov 2025 18:13:01 GMT | TwoMillion — Easy Level Linux based Machine Writeup | Pradithareddy | [Read More](https://medium.com/p/e438d98aab56) |
 | Fri, 21 Nov 2025 18:10:50 GMT | How Identification Works in Cybersecurity Systems | Damir Kolobaric | [Read More](https://medium.com/p/05625d2533cc) |
 | Fri, 21 Nov 2025 17:54:34 GMT | API Keys vs JWT vs OAuth: Which Should You Use? | Navanath Jadhav | [Read More](https://medium.com/p/da51c461f554) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 12:30:26 GMT | Zero-Day Exploitation and Large-Scale Campaigns Define This Week’s Threat Outlook | Loginsoft | [Read More](https://medium.com/p/ae9162841a81) |
 | Fri, 21 Nov 2025 12:23:38 GMT | Rooting DoubleTrouble (VulnHub): A Sweet_Cow Ride Through a Nested VM | Shikhar Sinha | [Read More](https://medium.com/p/9a15baecdaa6) |
 | Fri, 21 Nov 2025 12:16:49 GMT | Why Is My iPhone Not Charging and How to Fix It: Simple Troubleshooting Guide | applebuysell | [Read More](https://medium.com/p/6a41ef5956ab) |
-| Fri, 21 Nov 2025 12:11:02 GMT | I Automated My Recon And Found 3 Bugs In 24 Hours | Ibtissam | [Read More](https://medium.com/p/e34145829db0) |
-| Fri, 21 Nov 2025 12:08:45 GMT | Dark UI/UX Pattern: I Got Misdirected to Gemini Instead of Perplexity | Sachin      Verlekar | [Read More](https://medium.com/p/c77b039e0762) |
-| Fri, 21 Nov 2025 12:03:24 GMT | Advent of Cyber 2025 Prep Track — Walkthrough challenges | Jason Utama | [Read More](https://medium.com/p/a0f03a144c78) |
