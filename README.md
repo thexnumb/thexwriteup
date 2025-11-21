@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 17:03:17 GMT | My First Week in API Security: Lessons, Labs, and Learning the Hard Truths About APIs | Maryblessing | [Read More](https://medium.com/p/592d84882d05) |
+| Fri, 21 Nov 2025 17:02:33 GMT | The AI Analyst — Revolutionizing DFIR and Blue Teams | Purvansh Bhatt | [Read More](https://medium.com/p/35d8f251e79d) |
+| Fri, 21 Nov 2025 17:01:45 GMT | Post-Quantum AI Agents: How Autonomous Systems Will Survive a Quantum-Attack World | RAKTIM SINGH | [Read More](https://medium.com/p/63197be8a1b7) |
+| Fri, 21 Nov 2025 17:00:32 GMT | IDOR Part 4 — IoT & API Gateway Exploitation | Cybersecplayground | [Read More](https://medium.com/p/8392c9aeb9be) |
+| Fri, 21 Nov 2025 16:58:10 GMT | Real Time Malware Detection System for AWS-S3 Bucket | Saksham Singh | [Read More](https://medium.com/p/423a1f824326) |
+| Fri, 21 Nov 2025 16:55:15 GMT | Why Verified Dark Web Links Matter for Safe Research | Tor BBB | [Read More](https://medium.com/p/83f7416a29a6) |
+| Fri, 21 Nov 2025 16:51:37 GMT | The Art of War in the Age of AI and Asymmetric Conflict | Cynthia Hickman | [Read More](https://medium.com/p/1ec0258edfa0) |
 | Fri, 21 Nov 2025 16:41:08 GMT | Why Building a Zero‑Dependencies Covert Data Collector Is Harder Than You Think | xsser01 | [Read More](https://medium.com/p/6a810961261a) |
 | Fri, 21 Nov 2025 16:40:50 GMT | In many societies battling serious insecurity, the causes are complex. | Lucky Ndupu | [Read More](https://medium.com/p/98611f82a3d6) |
 | Fri, 21 Nov 2025 16:36:34 GMT | Top Career Paths in Cybersecurity: From Analyst to CISO | Ferdi Edogawa | [Read More](https://medium.com/p/7c81c8dfcc46) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 11:23:56 GMT | Implementation of Virtual Laboratory Using VirtualBox Application and Virtualization Alternatives… | HABIBI | [Read More](https://medium.com/p/dc8ec79beac0) |
 | Fri, 21 Nov 2025 11:22:08 GMT | Which Companies Provide OT Cybersecurity Services in Canada? | Arista Cyber | [Read More](https://medium.com/p/c3035fab61d0) |
 | Fri, 21 Nov 2025 11:16:18 GMT | INTRODUCTION TO DROSERA | Stellamaris ❤️ | [Read More](https://medium.com/p/2650b8484a02) |
-| Fri, 21 Nov 2025 11:07:53 GMT | TryHackMe Writeup: Nax | Berkay AĞGÜL | [Read More](https://medium.com/p/18708881cb79) |
-| Fri, 21 Nov 2025 11:06:55 GMT | Cyber Security Training Certification for Beginners in India 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/8e830c068097) |
-| Fri, 21 Nov 2025 11:02:06 GMT | The Cult of the Command Line: Why Text Beats Shiny GUIs | Franziska "Ziska" Fink | [Read More](https://medium.com/p/dffc64b41c4c) |
-| Fri, 21 Nov 2025 10:59:11 GMT | DC-2 VulnHub CTF Walkthrough | Hanish | [Read More](https://medium.com/p/fc6c0ad613ef) |
-| Fri, 21 Nov 2025 10:58:19 GMT | Capítulo 9 — Rastros Digitais | Kleber Andrade | [Read More](https://medium.com/p/1dfbbd4f6a7c) |
-| Fri, 21 Nov 2025 10:57:46 GMT | Data Breaches:A Strong Password Is Not Enough Anymore | Gilad | [Read More](https://medium.com/p/a73a9444c885) |
-| Fri, 21 Nov 2025 10:55:37 GMT | How EC-Council University Supports Veterans in Building Cybersecurity Careers | Shreyashettyctr | [Read More](https://medium.com/p/dea6a223c93c) |
