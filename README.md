@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 14:16:50 GMT | cyberscurity is a tas | Steven Chin | [Read More](https://medium.com/p/d46a0809a689) |
+| Fri, 21 Nov 2025 14:12:11 GMT | A Session Within a Session: Demystifying Real Application Security Contexts | Thomas Minne | [Read More](https://medium.com/p/278a096af84e) |
+| Fri, 21 Nov 2025 14:10:11 GMT | Use the FRIA Template Questionnaire — Structure is your best ally. | Sara Magdalena Goldberger | [Read More](https://medium.com/p/31891d0a23eb) |
+| Fri, 21 Nov 2025 14:02:08 GMT | Injected #4: Lethal SSRF — Advanced Exploitation Series (Part II) | Chux | [Read More](https://medium.com/p/13480b8cc4ab) |
+| Fri, 21 Nov 2025 13:56:49 GMT | Why I Felt Compelled to Write an Anti-Fraud Design and Implementation Book with Passion | Dr Mehmet Yildiz | [Read More](https://medium.com/p/ae8229830c87) |
+| Fri, 21 Nov 2025 13:56:39 GMT | Why I Always Disable Unused Network Services on Servers (And How I Hunt for Hidden Listeners) | Faruk Ahmed | [Read More](https://medium.com/p/2d09fc1284a4) |
+| Fri, 21 Nov 2025 13:55:25 GMT | The 10 VAPT Failures That Bring Companies Down Faster Than Any Breach | shivam yadav | [Read More](https://medium.com/p/57622090871e) |
+| Fri, 21 Nov 2025 13:52:03 GMT | Russian Proxy Server Strategies for Stable Cross-Border Operations | BlockMosac | [Read More](https://medium.com/p/e953b54a5a76) |
+| Fri, 21 Nov 2025 13:51:45 GMT | Forensic memory: RAM is the Solution to Cybercrimes. | Nabila Tabassum | [Read More](https://medium.com/p/34a84f9f916d) |
+| Fri, 21 Nov 2025 13:41:12 GMT | When Silence Becomes a Cage | Onuh Patience Chinweokwu | [Read More](https://medium.com/p/ad155eca53be) |
 | Fri, 21 Nov 2025 13:40:22 GMT | Welcome to the Cognitive Divide | Bridget | [Read More](https://medium.com/p/f4d9d5035753) |
 | Fri, 21 Nov 2025 13:38:22 GMT | Trustless Doesn’t Mean Risky: Why Web3 Payments Are More Secure | bepay | [Read More](https://medium.com/p/64f8e6cb4ab3) |
 | Fri, 21 Nov 2025 13:37:53 GMT | Future-Proofing for the Data-Driven Ecosystem: Securing Your Application and Data APIs | Talsec | [Read More](https://medium.com/p/75fe50695aff) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 08:02:05 GMT | Turning Trust Into Zero Trust | Raymon Epping | [Read More](https://medium.com/p/f2eb59f9935b) |
 | Fri, 21 Nov 2025 07:52:24 GMT | HIPAA Disaster Recovery Plan: Data Protection Beyond Compliance | SecureSlate | [Read More](https://medium.com/p/277fff24648b) |
 | Fri, 21 Nov 2025 07:49:50 GMT | Nella mente dell’hacker | Arturo Di Corinto | [Read More](https://medium.com/p/48bbce09804e) |
-| Fri, 21 Nov 2025 07:49:02 GMT | What Technology the Cloud Is Revolving Around — and How It Is Changing the World. | JetkingChandigarh | [Read More](https://medium.com/p/45e3e1f159d0) |
-| Fri, 21 Nov 2025 07:47:21 GMT | Work of Steve Jobs and the Rise of Apple | Stacklegend | [Read More](https://medium.com/p/e8ef627cb153) |
-| Fri, 21 Nov 2025 07:45:30 GMT | Ethical Hacking & AI Toolkit: 17 Tools You Can Build Today for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/8fdf33be8c58) |
-| Fri, 21 Nov 2025 07:32:44 GMT | A Simple Guide to Logic Locking for Chip Security | Surabhi Misra | [Read More](https://medium.com/p/97c5da66b29c) |
-| Fri, 21 Nov 2025 07:25:33 GMT | Jangan Cuma Jago Excel: 5 Skill Wajib yang Bikin Kamu Dilirik HRD di Bidang Tech! | Vivian Liam | [Read More](https://medium.com/p/850d69ffb484) |
-| Fri, 21 Nov 2025 07:22:38 GMT | Why Security Guard Services Are Essential for Modern Businesses and Homes | Ciss India | [Read More](https://medium.com/p/cb2b47d0c5f2) |
-| Fri, 21 Nov 2025 07:21:31 GMT | ️Pen-testing Tutorial for Beginners & Advanced Users — Part 1 | MumoVictor | [Read More](https://medium.com/p/0d45f3d9c0b6) |
-| Fri, 21 Nov 2025 07:15:48 GMT | Cyber securityAI-Powered Scams: The New Age of Cybercrime and How to Stay Protected | Bitdefenderppc | [Read More](https://medium.com/p/11a9ac94bd92) |
-| Fri, 21 Nov 2025 07:15:27 GMT | Securing Embedded and Specialized Systems: Challenges, Consequences, and Lessons from Real-World… | Anderson Santos | [Read More](https://medium.com/p/443f7ecfca26) |
-| Fri, 21 Nov 2025 07:09:36 GMT | The Corix Partners Friday Reading List — November 21, 2025 | JC Gaillard | [Read More](https://medium.com/p/733daf752ed8) |
