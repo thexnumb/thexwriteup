@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 01:28:00 GMT | My favorite Linux command #2 — find | Balazs Kocsis | [Read More](https://medium.com/p/3612c2a09a5b) |
+| Fri, 21 Nov 2025 01:27:34 GMT | Modernizing Legacy Exadata Workloads to Snowflake | LeapLogic | [Read More](https://medium.com/p/10d1dbbfe4e4) |
+| Fri, 21 Nov 2025 01:25:15 GMT | Hacking India’s biggest Cake Shop | StvRoot | [Read More](https://medium.com/p/aac8e586eb64) |
+| Fri, 21 Nov 2025 01:12:24 GMT | 4 Reasons Why a Woman Stays With You Even If She Doesn’t Love You | Ophaly Kate | [Read More](https://medium.com/p/6c2c838aa1c3) |
+| Fri, 21 Nov 2025 00:34:37 GMT | Hands-On Threat-Hunting Lab — Practice Golden SAML Detection Using the Free SIEM Environment… | Dhruv Patel | [Read More](https://medium.com/p/e30edaea3d29) |
+| Fri, 21 Nov 2025 00:28:36 GMT | Golden SAML Attack : Attack Breakdown | Dhruv Patel | [Read More](https://medium.com/p/7ebba2ddbcf4) |
+| Fri, 21 Nov 2025 00:02:27 GMT | API3:2023 BOPLA (Broken Object Property Level Authorization): Mass Assignment y Exposición de Datos | JPablo13 | [Read More](https://medium.com/p/6e14e90821e8) |
+| Thu, 20 Nov 2025 23:37:19 GMT | Leveraging GraphXR to Study Ransomware Threat Actors | Kineviz | [Read More](https://medium.com/p/01ce123deb44) |
 | Thu, 20 Nov 2025 23:06:20 GMT | Software Defined Networking (SDN): The Foundation of Modern Cloud Infrastructure | Ahmed Maher | [Read More](https://medium.com/p/8c79e9730d7d) |
 | Thu, 20 Nov 2025 23:05:30 GMT | ️‍ Magical Palindrome-HackTheBox | Anas Elsaba | [Read More](https://medium.com/p/7f4db21e40da) |
 | Thu, 20 Nov 2025 23:02:13 GMT | From EBITDA Consumption to EBITDA Propulsion: | Naren Gangavarapu | [Read More](https://medium.com/p/013f83cc391d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 16:49:36 GMT | Bandit OverTheWire writeup — Level 22 → Level 23 | Dawid Kowalski | [Read More](https://medium.com/p/ed07b4dc4ee5) |
 | Thu, 20 Nov 2025 16:49:00 GMT | Bandit OverTheWire writeup — Level 21 → Level 22 | Dawid Kowalski | [Read More](https://medium.com/p/b7e537c715b7) |
 | Thu, 20 Nov 2025 16:48:44 GMT | Critical Full Organization Takeover via Email Verification Bypass | Eslam Gamal | [Read More](https://medium.com/p/3f5a55287824) |
-| Thu, 20 Nov 2025 16:47:19 GMT | A Practical Guide to Managing the AI ‘Wild West’ | Raj Patrao | [Read More](https://medium.com/p/17e79c65ac6b) |
-| Thu, 20 Nov 2025 16:41:40 GMT | The Unscripted Confession – Episode 01 | Karlomaria In LOVEPORTION | [Read More](https://medium.com/p/3b6fc741bd51) |
-| Thu, 20 Nov 2025 16:41:02 GMT | Da2025: The Year Deleted Data Stopped Being Deleted — A Look Into Modern Digital Forensics | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/2a28d84be8da) |
-| Thu, 20 Nov 2025 16:38:52 GMT | Active Directory Attack Chain: From Network Access to Domain Compromise | Johnny Meintel | [Read More](https://medium.com/p/0df6ef3f9a37) |
-| Thu, 20 Nov 2025 16:38:12 GMT | Your Digital Diary is a Corporate Asset: The Intimate Danger of AI “Erotica” Modes | Aman Sharma | [Read More](https://medium.com/p/463ab2ac5801) |
-| Thu, 20 Nov 2025 16:36:55 GMT | ️ Secure and Smart Storage: Why Ace Grease Service Provides the Best Used Cooking Oil Containers | Meeryclear | [Read More](https://medium.com/p/0cfb41c84411) |
-| Thu, 20 Nov 2025 16:22:28 GMT | Digital Fingerprints: How Your Online Footprint Can Solve Crimes Or Implicate You | Paradise technologies Inc | [Read More](https://medium.com/p/e863325a7dfd) |
-| Thu, 20 Nov 2025 16:19:43 GMT | Secure and Smart Storage: Why Ace Grease Service Provides the Best Used Cooking Oil Containers | Marketing | [Read More](https://medium.com/p/fd68de677dc0) |
