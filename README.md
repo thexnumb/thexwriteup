@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 08:18:13 GMT | Building a Cyber-Resilient Business: How Managed Antivirus Services Deliver Peace of Mind | ANSI Technologies | [Read More](https://medium.com/p/1bd06a628888) |
+| Fri, 21 Nov 2025 08:16:17 GMT | Which Online Cybersecurity Certification Is Best? | Janbask | [Read More](https://medium.com/p/091b84d12ab1) |
+| Fri, 21 Nov 2025 08:08:51 GMT | Knownsec Data Breach: What Happens When a State-Sponsored Cyber Arsenal Leaks? | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/b88939702682) |
+| Fri, 21 Nov 2025 08:07:54 GMT | The Dawn of Agentic AI Threats: How Anthropic Disrupted the First AI-Orchestrated Cyber-Espionage… | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/dcfb81fc546b) |
+| Fri, 21 Nov 2025 08:02:09 GMT | Security: Protecting AI Systems and Data | Omar Aly | [Read More](https://medium.com/p/ba1f8c8b5ac9) |
+| Fri, 21 Nov 2025 08:02:09 GMT | Fixing IDOR in .NET: (Another) Guide to Broken Access Control | Kay Adelaja | [Read More](https://medium.com/p/b9655f1ec00a) |
+| Fri, 21 Nov 2025 08:02:05 GMT | Turning Trust Into Zero Trust | Raymon Epping | [Read More](https://medium.com/p/f2eb59f9935b) |
+| Fri, 21 Nov 2025 07:52:24 GMT | HIPAA Disaster Recovery Plan: Data Protection Beyond Compliance | SecureSlate | [Read More](https://medium.com/p/277fff24648b) |
+| Fri, 21 Nov 2025 07:49:50 GMT | Nella mente dell’hacker | Arturo Di Corinto | [Read More](https://medium.com/p/48bbce09804e) |
+| Fri, 21 Nov 2025 07:49:02 GMT | What Technology the Cloud Is Revolving Around — and How It Is Changing the World. | JetkingChandigarh | [Read More](https://medium.com/p/45e3e1f159d0) |
+| Fri, 21 Nov 2025 07:47:21 GMT | Work of Steve Jobs and the Rise of Apple | Stacklegend | [Read More](https://medium.com/p/e8ef627cb153) |
+| Fri, 21 Nov 2025 07:45:30 GMT | Ethical Hacking & AI Toolkit: 17 Tools You Can Build Today for Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/8fdf33be8c58) |
 | Fri, 21 Nov 2025 07:32:44 GMT | A Simple Guide to Logic Locking for Chip Security | Surabhi Misra | [Read More](https://medium.com/p/97c5da66b29c) |
 | Fri, 21 Nov 2025 07:25:33 GMT | Jangan Cuma Jago Excel: 5 Skill Wajib yang Bikin Kamu Dilirik HRD di Bidang Tech! | Vivian Liam | [Read More](https://medium.com/p/850d69ffb484) |
 | Fri, 21 Nov 2025 07:22:38 GMT | Why Security Guard Services Are Essential for Modern Businesses and Homes | Ciss India | [Read More](https://medium.com/p/cb2b47d0c5f2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 22:05:27 GMT | How to Access the Dark Web Safely in 2025 | Tor BBB | [Read More](https://medium.com/p/58a5dd053e60) |
 | Thu, 20 Nov 2025 21:58:02 GMT | WiFi Güvenliği Serisi #1: Görünmeyen Ağlar, Sinyallerin Dili ve Protokollerin Zafiyetleri | Keremduz | [Read More](https://medium.com/p/050a35c2c1e0) |
 | Thu, 20 Nov 2025 21:47:12 GMT | Why “Unreliable” UDP Is the Best Choice for VPNs | Vishnu Unnikrishnan | [Read More](https://medium.com/p/ae61e34176c3) |
-| Thu, 20 Nov 2025 21:38:08 GMT | Manual Integral de Análisis de Riesgo Basado en Factor Humano (H-FRA) | Mauricio Alan Illera Diaz | [Read More](https://medium.com/p/88351d91ded4) |
-| Thu, 20 Nov 2025 21:33:19 GMT | Outbound - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/9aba36f48e83) |
-| Thu, 20 Nov 2025 21:31:03 GMT | Introducing MANTA — A Privacy-First AI Malware Analysis Tool Built on GitHub Pages | shresth paul | [Read More](https://medium.com/p/eb45dc9a61ea) |
-| Thu, 20 Nov 2025 21:29:27 GMT | Benchmarking the Sovereign Stack: Llama 3, Phi-3, and .NET 8 in Production | Ramazan Yavuz | [Read More](https://medium.com/p/5f6cd50830e1) |
-| Thu, 20 Nov 2025 21:22:30 GMT | Kernel Driver Network Manipulation | S12 - 0x12Dark Development | [Read More](https://medium.com/p/bf9752f16a1a) |
-| Thu, 20 Nov 2025 21:13:57 GMT | How to Extract Email Addresses from a Text File with Sublime | Jared Douville | [Read More](https://medium.com/p/c2545ebda0d6) |
-| Thu, 20 Nov 2025 21:05:33 GMT | The ROI of Shifting Security Left | Patrick Lefler | [Read More](https://medium.com/p/d0c9f893753f) |
-| Thu, 20 Nov 2025 21:04:32 GMT | SIEM: A Beginner’s Guide to Security Information and Event Management | Kameliaremaki | [Read More](https://medium.com/p/f52ac10b5142) |
-| Thu, 20 Nov 2025 20:56:39 GMT | Container Security for High Performance Linux Servers | Linux Guide | [Read More](https://medium.com/p/6f2ccef033cf) |
-| Thu, 20 Nov 2025 20:53:05 GMT | Every Time We Upgrade Wireless Technology, the World Faces a Crisis coincidence or something… | iam_with_you11 | [Read More](https://medium.com/p/f8b410434e97) |
-| Thu, 20 Nov 2025 20:51:34 GMT | Building a Cybersecurity Home Lab — Part 4.2: Wazuh Installation & Configuration | JBXSec | [Read More](https://medium.com/p/785c67231e2b) |
-| Thu, 20 Nov 2025 20:43:57 GMT | Forage ANZ Job Simulation | Tomomi | [Read More](https://medium.com/p/28772a7ba225) |
