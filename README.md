@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 10:40:58 GMT | Gamifying Cybersecurity: Making Training Engaging and Effective | Digital Defense | [Read More](https://medium.com/p/15a1c803b8a0) |
+| Fri, 21 Nov 2025 10:40:38 GMT | 7 ChatGPT Hacks to Get Ahead of 99% of People | Theophilus Nagberi | [Read More](https://medium.com/p/90d1bf26c3ad) |
+| Fri, 21 Nov 2025 10:39:14 GMT | Best Endpoint Security Services Provider in India - Threat Detection | Samvaskaran | [Read More](https://medium.com/p/296dd3881b46) |
+| Fri, 21 Nov 2025 10:29:06 GMT | The Art of Affordable Hosting: Smart Ways to Power Your Online Presence | Janet Watson | [Read More](https://medium.com/p/9cc24afc1840) |
+| Fri, 21 Nov 2025 10:21:50 GMT | Enterprise IT Case Study: Incident Response | Victoria Ayomide Ayodeji | [Read More](https://medium.com/p/fd165897f7a3) |
 | Fri, 21 Nov 2025 10:20:18 GMT | What working across major government departments taught us about Privileged Access, risk and human… | rainmaker | [Read More](https://medium.com/p/b288eeece2bc) |
+| Fri, 21 Nov 2025 10:20:04 GMT | DockerLabs Writeup — Redirection (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a1b378bd08b6) |
+| Fri, 21 Nov 2025 10:19:45 GMT | 小心！你的 AI 可能被人控制了 | 林鼎淵 | [Read More](https://medium.com/p/24c710e11698) |
+| Fri, 21 Nov 2025 10:13:51 GMT | Quarterly Cybersecurity Readiness: A Practical 20-Step Framework | Brillianttechnologies | [Read More](https://medium.com/p/5933e237f0ea) |
 | Fri, 21 Nov 2025 10:12:16 GMT | Stop Hackers: Secure Data Using AES Encryption/Decryption Algorithm | Java Techie | [Read More](https://medium.com/p/7b79b381b038) |
 | Fri, 21 Nov 2025 10:03:35 GMT | How macOS File Metadata Exposes Authentication Tokens | Karol Mazurek | [Read More](https://medium.com/p/ef6846842b8d) |
 | Fri, 21 Nov 2025 10:01:30 GMT | russian-proxies-business-use | ChainNova | [Read More](https://medium.com/p/c3e42d3356dc) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 04:14:48 GMT | Launching Your Career in OT Security: A Practical Guide to References, Tools, and Pathways | Ajay Naik | [Read More](https://medium.com/p/83ef6e8127ef) |
 | Fri, 21 Nov 2025 04:12:08 GMT | Artificial Intelligence (AI) vs Artificial Instinct (Ai), The Distinction Cybersecurity Can’t… | Juan Pablo Castro | [Read More](https://medium.com/p/f300aec71a3b) |
 | Fri, 21 Nov 2025 04:09:02 GMT | Hacking Windows — Ethical Hacking | Md. Raihan | [Read More](https://medium.com/p/4f92bcb48713) |
-| Fri, 21 Nov 2025 04:01:46 GMT | Bulk Event Technology Rental: The Smart Way to Power Modern Events | DLC Events | [Read More](https://medium.com/p/034745fcb39d) |
-| Fri, 21 Nov 2025 03:59:24 GMT | The Biggest Cybersecurity Threat You Face Isn’t a Hacker — It’s You | CyberHelp911_SecurityAdvisor | [Read More](https://medium.com/p/e1d0579bb6c7) |
-| Fri, 21 Nov 2025 03:41:26 GMT | Cautionary Note for Security Researchers: My Experience With Beem Computer / Toby Brown | Bug hunter | [Read More](https://medium.com/p/b844a894925d) |
-| Fri, 21 Nov 2025 03:38:20 GMT | Scaling A One Person Operation With Python | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/beef2fa1e6b9) |
-| Fri, 21 Nov 2025 03:32:25 GMT | How Attackers Hijack OneDrive With DLL Sideloading and Why It Matters | Deven Chhajed | [Read More](https://medium.com/p/e067ad05fffc) |
-| Fri, 21 Nov 2025 02:56:16 GMT | Staying Private, Staying You: Protecting Yourself Online | Ann Harris | [Read More](https://medium.com/p/a3aacf9ef45d) |
-| Fri, 21 Nov 2025 02:56:10 GMT | Archangel writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/781014f30777) |
-| Fri, 21 Nov 2025 02:49:49 GMT | Cracking the Database: My SQL Injection Adventure on PortSwigger | Kyrillos Kamal | [Read More](https://medium.com/p/46482dedd4d7) |
