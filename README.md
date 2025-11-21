@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 06:25:09 GMT | Your Website’s Best Wingman: Secure Hosting That Works While You Sleep | Andy | [Read More](https://medium.com/p/5ded0d265aaa) |
+| Fri, 21 Nov 2025 06:12:09 GMT | CyberMason Web Development | Marc Matthew Mason | [Read More](https://medium.com/p/b1b29c315dab) |
+| Fri, 21 Nov 2025 06:11:29 GMT | things that make me cry | rhijoyce | [Read More](https://medium.com/p/113b98400614) |
+| Fri, 21 Nov 2025 06:04:30 GMT | 5 Cybersecurity Certificates You Need To Improve in AI Security | Zeniteq Co | [Read More](https://medium.com/p/047572739621) |
+| Fri, 21 Nov 2025 06:04:02 GMT | How Machine Learning is changing Cybersecurity | Tarun Chauhan | [Read More](https://medium.com/p/9c6e0001a275) |
+| Fri, 21 Nov 2025 06:03:36 GMT | شماره‌خاله‌تهران | مهسا نعمتی | [Read More](https://medium.com/p/15df20b2ecf5) |
+| Fri, 21 Nov 2025 05:56:24 GMT | Encryption Explained: Symmetric vs Asymmetric — What’s the Difference? | Geeky Vartika | [Read More](https://medium.com/p/659626ad41f7) |
+| Fri, 21 Nov 2025 05:46:54 GMT | The Bug I Spent 3 Days On… and the One Line That Solved It | Amarpratapsingh | [Read More](https://medium.com/p/d8b14e641f9d) |
+| Fri, 21 Nov 2025 05:43:19 GMT | FCC Withdraws Telecom Cybersecurity Mandates After Salt Typhoon Hack | Elijah Shane White | [Read More](https://medium.com/p/3bb145268187) |
 | Fri, 21 Nov 2025 05:29:59 GMT | Become a Certified Information Systems Security Professional and Boost Your Career | Edglobalacademy | [Read More](https://medium.com/p/f1f73a529fef) |
 | Fri, 21 Nov 2025 05:27:47 GMT | Unveiling China’s Data Dominance: The Hidden Force Behind Its AI Ambitions | Jared Douville | [Read More](https://medium.com/p/3fd367376bb5) |
 | Fri, 21 Nov 2025 05:24:16 GMT | India Just Solved the Spam Call Problem (And It’s Genius) | TechTrellis Academy | [Read More](https://medium.com/p/10568b37a83f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 19:05:57 GMT | A Security Vulnerability That Could Have Led to Full Twitter Account Takeover | Berat Blmz | [Read More](https://medium.com/p/6598a58de4c6) |
 | Thu, 20 Nov 2025 19:02:11 GMT | First Documented Large-Scale AI-Orchestrated Cyberattack Raises New Security Concerns | ODSC - Open Data Science | [Read More](https://medium.com/p/123c070c4e14) |
 | Thu, 20 Nov 2025 18:58:30 GMT | AI Governance = Data Governance (A Data Engineer’s Perspective) | Egezon Baruti | [Read More](https://medium.com/p/4e550c662a84) |
-| Thu, 20 Nov 2025 18:55:12 GMT | Overlooked Android Vulnerability: OAuth custom scheme hijacking | Abdullah Ahmed aka EntropyDrifter | [Read More](https://medium.com/p/4e7dbaad1678) |
-| Thu, 20 Nov 2025 18:54:13 GMT | How semantic caching transforms enterprise AI economics and security architectures | Valdez Ladd | [Read More](https://medium.com/p/c550c717984b) |
-| Thu, 20 Nov 2025 18:50:08 GMT | How Startups Are Winning With Edge-First, API-Driven Web Architecture | Deepak Srivastava | [Read More](https://medium.com/p/2e9da27db198) |
-| Thu, 20 Nov 2025 18:39:16 GMT | How TLS 1.2 Uses RSA to Build a Secure Connection (Step-by-Step Guide) | Pubudu Madushan | [Read More](https://medium.com/p/1463ab692562) |
-| Thu, 20 Nov 2025 18:38:23 GMT | Building a Cybersecurity Home Lab — Part 4.1: Splunk Installation & Configuration | JBXSec | [Read More](https://medium.com/p/9c7fb879990d) |
-| Thu, 20 Nov 2025 18:35:04 GMT | Applying Cluster Wide mTLS Certificactes in Kubernetes (Ingress Nginx) | Luke Paris | [Read More](https://medium.com/p/0daee4104b19) |
-| Thu, 20 Nov 2025 18:30:39 GMT | How I Started Learning Cybersecurity From a Small Village in Chitral | Fida Ur Rahman | [Read More](https://medium.com/p/18fea2020661) |
-| Thu, 20 Nov 2025 18:29:00 GMT | Membongkar Supervised Learning: Dari Teori “y = f(x)” hingga Implementasi Python | SatriaWiyana | [Read More](https://medium.com/p/3e01a3819a0c) |
-| Thu, 20 Nov 2025 18:27:28 GMT | September Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/e95b18b177ed) |
