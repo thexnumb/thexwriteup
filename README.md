@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 22:34:39 GMT | Wordfence Weekly Review — November 10 — November 16, 2025 | Wordfence | [Read More](https://medium.com/p/11b211f6e5df) |
+| Fri, 21 Nov 2025 22:22:11 GMT | MITRE ATT&CK | someone | [Read More](https://medium.com/p/0538d87ba759) |
+| Fri, 21 Nov 2025 22:19:07 GMT | The Simplest Way to Learn Containers: Compose | Sara Sheon | [Read More](https://medium.com/p/d0733cfdd2f3) |
 | Fri, 21 Nov 2025 22:15:03 GMT | The Unrestricted Key: How I Bypassed Microsoft’s API Controls | Aman Kumar (ak) | [Read More](https://medium.com/p/b399009cc00c) |
 | Fri, 21 Nov 2025 22:12:42 GMT | THE PHYSICAL MARKETPLACE FRAUD | Oludare Stephen Ayobami | [Read More](https://medium.com/p/21f538caa2f7) |
+| Fri, 21 Nov 2025 22:08:48 GMT | Recon Like a Hunter: Practical Tips from Real Findings Part 2 | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/e71bcf5af0ae) |
 | Fri, 21 Nov 2025 22:07:27 GMT | A Free Incident Response Readiness Toolkit for Small Businesses (With a Real-World Tabletop… | Ijiola olawale | [Read More](https://medium.com/p/ed21f1019480) |
 | Fri, 21 Nov 2025 21:59:57 GMT | Claude on Gemini 3 Pro | Kevin O'Shaughnessy | [Read More](https://medium.com/p/e39b57f44ebb) |
 | Fri, 21 Nov 2025 21:40:34 GMT | The New OWASP Top 10 Is Out | Cyber-AppSec | [Read More](https://medium.com/p/64e09de15b3c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 14:33:43 GMT | Best Security Companies San Jose for Full Protection | Direct Guard Services | [Read More](https://medium.com/p/90f10105064f) |
 | Fri, 21 Nov 2025 14:32:19 GMT | Protecting Our Ports | Abdelaziz moustakim | [Read More](https://medium.com/p/916ffd8e000a) |
 | Fri, 21 Nov 2025 14:27:41 GMT | When to Escalate: The Clear Protocols Unarmed Guards Follow in a Crisis | The Safety Perspective | [Read More](https://medium.com/p/3226666a75b5) |
-| Fri, 21 Nov 2025 14:22:59 GMT | Inside SillyAuthority: A Complete Pentest of a Purpose-Built AD Lab | Beri Contraster | [Read More](https://medium.com/p/7fc6978e18f8) |
-| Fri, 21 Nov 2025 14:22:30 GMT | From Firewalls to SIEM: What Layered Security Looks Like in Real Life | Vijay Kumar Gupta | [Read More](https://medium.com/p/34d4cb5a2f64) |
-| Fri, 21 Nov 2025 14:21:28 GMT | Write Up Arrow di Platform — Hackviser | Kang_BlankOn | [Read More](https://medium.com/p/5616b89d61e9) |
-| Fri, 21 Nov 2025 14:16:50 GMT | cyberscurity is a tas | Steven Chin | [Read More](https://medium.com/p/d46a0809a689) |
