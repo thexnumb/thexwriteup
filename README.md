@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 20:29:00 GMT | “The New Power Duo: How IT Management and Business Strategy Grow Stronger Together in 2025” | Muqaddas Akhter | [Read More](https://medium.com/p/d5adf9fd2f48) |
+| Fri, 21 Nov 2025 20:28:37 GMT | Siber Tehdit Avcılığına Giriş: Velociraptor ile Kalıcılık (Persistence) Analizi | Emre ESER | [Read More](https://medium.com/p/dc59c17a2fe4) |
 | Fri, 21 Nov 2025 20:24:09 GMT | Bypassing University Email Verification: A Logical Flaw in a Saudi Cybersecurity Education Platform | A7medsaber | [Read More](https://medium.com/p/3073721ce9bd) |
+| Fri, 21 Nov 2025 20:20:30 GMT | The Psychology of Red Team Operators: Why You Think Differently | Maxwell Cross | [Read More](https://medium.com/p/753d26b7d129) |
 | Fri, 21 Nov 2025 19:48:55 GMT | Open RAN Architecture & Principles | Asitha Kodithuwakku | [Read More](https://medium.com/p/a1751bb421c7) |
 | Fri, 21 Nov 2025 19:44:21 GMT | Cybersecurity News Review — Week 47 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/df7ef1d67f1b) |
 | Fri, 21 Nov 2025 19:29:20 GMT | Write up Mautic [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/1bfbecbd6c4a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 13:38:22 GMT | Trustless Doesn’t Mean Risky: Why Web3 Payments Are More Secure | bepay | [Read More](https://medium.com/p/64f8e6cb4ab3) |
 | Fri, 21 Nov 2025 13:37:53 GMT | Future-Proofing for the Data-Driven Ecosystem: Securing Your Application and Data APIs | Talsec | [Read More](https://medium.com/p/75fe50695aff) |
 | Fri, 21 Nov 2025 13:33:30 GMT | The Hacker’s Compass: Why Threat Modeling is a Pentester’s True North | Wafa | [Read More](https://medium.com/p/21bccea7a8ad) |
-| Fri, 21 Nov 2025 13:32:07 GMT | CONCEPT 009 — Vulnerability Cascades: CONSCIENCE ENGINEERING LEXICON | Deusdedit Ruhangariyo | [Read More](https://medium.com/p/b89a816fa048) |
-| Fri, 21 Nov 2025 13:31:31 GMT | The Non-Negotiable Role of ISO 27001 in Cyber-Resilience | CFE CERTIFICATION | [Read More](https://medium.com/p/1cbca18f6353) |
-| Fri, 21 Nov 2025 13:27:10 GMT | How to Build a Bulletproof Personal Privacy Stack in 2025 | Voidly | [Read More](https://medium.com/p/14b73cf3356c) |
