@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 05:10:34 GMT | A Day of Focused Cybersecurity Practice: Cracking Nine HTB Machines | Vivektumma27 | [Read More](https://medium.com/p/c3e5cf1aef51) |
+| Fri, 21 Nov 2025 05:04:42 GMT | Who Provides the Best Security Services in Bhiwani? | Lakshay Security | [Read More](https://medium.com/p/f03c445f73af) |
+| Fri, 21 Nov 2025 05:03:40 GMT | The Growing Demand for Security Services in Ambala | Lakshay Security | [Read More](https://medium.com/p/6a661a5b7795) |
+| Fri, 21 Nov 2025 04:57:03 GMT | Prophetic Reflection on the Killings in Nigeria by Ayodeji Awodoyin | Ayodeji Bello | [Read More](https://medium.com/p/150287353bd2) |
+| Fri, 21 Nov 2025 04:55:52 GMT | Cybersecurity Challenges and Defense Strategies for Military Drones | Perimeterwatch | [Read More](https://medium.com/p/2373aadd67e3) |
+| Fri, 21 Nov 2025 04:42:48 GMT | Transforming Cybersecurity Learning into Leadership with Maximus Atlas | Maxatlasofficial | [Read More](https://medium.com/p/cb2553432761) |
 | Fri, 21 Nov 2025 04:38:08 GMT | Continued Government project failures and the inability to learn from mistakes* | Damian Heffernan | [Read More](https://medium.com/p/4f16c1daffe9) |
 | Fri, 21 Nov 2025 04:34:40 GMT | How Hidden APIs Expose More of Your Data Than You Think | Kael Virex | [Read More](https://medium.com/p/499c30327f2c) |
 | Fri, 21 Nov 2025 04:29:10 GMT | How to Secure Your SPA with Laravel 11 and Sanctum Cookie-Based Authentication | Syedmoiz | [Read More](https://medium.com/p/845f6c207a06) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 17:51:12 GMT | The Game of IT and Relationships — Why Modern Love Feels So Different | Hafizbilaltariq | [Read More](https://medium.com/p/4c56eb09b337) |
 | Thu, 20 Nov 2025 17:49:44 GMT | Inside ShinySp1d3r: The New Ransomware-as-a-Service by ShinyHunters | Vardhan Gss | [Read More](https://medium.com/p/a843739ffb37) |
 | Thu, 20 Nov 2025 17:49:14 GMT | Abuja — The Conceptual Shortcut: A Cultural and Societal Reflection | AJIBOYE EMMANUEL | [Read More](https://medium.com/p/d7dee656b7bf) |
-| Thu, 20 Nov 2025 17:48:36 GMT | 10 Essential Security Practices Every Developer Should Follow in 2025 | Liam | [Read More](https://medium.com/p/60f3a8107ebc) |
-| Thu, 20 Nov 2025 17:48:07 GMT | Capstone Challenge 1 — Beanstalk_secrets | VajRe1 | [Read More](https://medium.com/p/7880d4546875) |
-| Thu, 20 Nov 2025 17:48:05 GMT | Phase 0: Laying the Foundation — Documents, Diagrams, and Design | Alex Wilcox | [Read More](https://medium.com/p/cb55556bb621) |
-| Thu, 20 Nov 2025 17:42:00 GMT | TryHackMe - Data Integrity & Model Poisoning - WriteUp | Axoloth | [Read More](https://medium.com/p/1ddce78dfbc6) |
-| Thu, 20 Nov 2025 17:36:55 GMT | Anthropic vs. the AI super hacker: epochal threat or textbook marketing? | Effedielle | [Read More](https://medium.com/p/69ba3d04053a) |
-| Thu, 20 Nov 2025 17:33:38 GMT | The Year I Stopped Waiting for the “Perfect Time” and Started Building My Cybersecurity Future | Manas Mahato | [Read More](https://medium.com/p/b3f487c9a687) |
