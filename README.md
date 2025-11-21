@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 11:16:18 GMT | INTRODUCTION TO DROSERA | Stellamaris ❤️ | [Read More](https://medium.com/p/2650b8484a02) |
+| Fri, 21 Nov 2025 11:07:53 GMT | TryHackMe Writeup: Nax | Berkay AĞGÜL | [Read More](https://medium.com/p/18708881cb79) |
+| Fri, 21 Nov 2025 11:06:55 GMT | Cyber Security Training Certification for Beginners in India 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/8e830c068097) |
+| Fri, 21 Nov 2025 11:02:06 GMT | The Cult of the Command Line: Why Text Beats Shiny GUIs | Franziska "Ziska" Fink | [Read More](https://medium.com/p/dffc64b41c4c) |
+| Fri, 21 Nov 2025 10:59:11 GMT | DC-2 VulnHub CTF Walkthrough | Hanish | [Read More](https://medium.com/p/fc6c0ad613ef) |
+| Fri, 21 Nov 2025 10:58:19 GMT | Capítulo 9 — Rastros Digitais | Kleber Andrade | [Read More](https://medium.com/p/1dfbbd4f6a7c) |
+| Fri, 21 Nov 2025 10:57:46 GMT | Data Breaches:A Strong Password Is Not Enough Anymore | Gilad | [Read More](https://medium.com/p/a73a9444c885) |
+| Fri, 21 Nov 2025 10:55:37 GMT | How EC-Council University Supports Veterans in Building Cybersecurity Careers | Shreyashettyctr | [Read More](https://medium.com/p/dea6a223c93c) |
+| Fri, 21 Nov 2025 10:50:10 GMT | Global Internet Disruption: A Forensic Look at the 2025 Cloudflare Outage | Sagarchhetri | [Read More](https://medium.com/p/0fc129e44a48) |
+| Fri, 21 Nov 2025 10:48:01 GMT | Portswigger Academy — Lab: Username enumeration via subtly different responses | Songül Kızılay | [Read More](https://medium.com/p/a60157feda4b) |
 | Fri, 21 Nov 2025 10:40:58 GMT | Gamifying Cybersecurity: Making Training Engaging and Effective | Digital Defense | [Read More](https://medium.com/p/15a1c803b8a0) |
 | Fri, 21 Nov 2025 10:40:38 GMT | 7 ChatGPT Hacks to Get Ahead of 99% of People | Theophilus Nagberi | [Read More](https://medium.com/p/90d1bf26c3ad) |
 | Fri, 21 Nov 2025 10:39:14 GMT | Best Endpoint Security Services Provider in India - Threat Detection | Samvaskaran | [Read More](https://medium.com/p/296dd3881b46) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 05:03:40 GMT | The Growing Demand for Security Services in Ambala | Lakshay Security | [Read More](https://medium.com/p/6a661a5b7795) |
 | Fri, 21 Nov 2025 04:57:03 GMT | Prophetic Reflection on the Killings in Nigeria by Ayodeji Awodoyin | Ayodeji Bello | [Read More](https://medium.com/p/150287353bd2) |
 | Fri, 21 Nov 2025 04:55:52 GMT | Cybersecurity Challenges and Defense Strategies for Military Drones | Perimeterwatch | [Read More](https://medium.com/p/2373aadd67e3) |
-| Fri, 21 Nov 2025 04:42:48 GMT | Transforming Cybersecurity Learning into Leadership with Maximus Atlas | Maxatlasofficial | [Read More](https://medium.com/p/cb2553432761) |
-| Fri, 21 Nov 2025 04:38:08 GMT | Continued Government project failures and the inability to learn from mistakes* | Damian Heffernan | [Read More](https://medium.com/p/4f16c1daffe9) |
-| Fri, 21 Nov 2025 04:34:40 GMT | How Hidden APIs Expose More of Your Data Than You Think | Kael Virex | [Read More](https://medium.com/p/499c30327f2c) |
-| Fri, 21 Nov 2025 04:29:10 GMT | How to Secure Your SPA with Laravel 11 and Sanctum Cookie-Based Authentication | Syedmoiz | [Read More](https://medium.com/p/845f6c207a06) |
-| Fri, 21 Nov 2025 04:27:31 GMT | How Outdated Software Is Still One of the Biggest Cyber Risks in 2025 | Sam Writes Security | [Read More](https://medium.com/p/6decf8fa2859) |
-| Fri, 21 Nov 2025 04:26:51 GMT | How CCTV Helps Protect Elderly Parents Living Alone | Ask IT Support | [Read More](https://medium.com/p/f5d217e78995) |
-| Fri, 21 Nov 2025 04:15:52 GMT | Kenapa Linux selalu jadi Operasi Sistem Andalan Hacker ? | Jadi Hacker | [Read More](https://medium.com/p/c36d93cf41a6) |
-| Fri, 21 Nov 2025 04:14:48 GMT | Launching Your Career in OT Security: A Practical Guide to References, Tools, and Pathways | Ajay Naik | [Read More](https://medium.com/p/83ef6e8127ef) |
-| Fri, 21 Nov 2025 04:12:08 GMT | Artificial Intelligence (AI) vs Artificial Instinct (Ai), The Distinction Cybersecurity Can’t… | Juan Pablo Castro | [Read More](https://medium.com/p/f300aec71a3b) |
-| Fri, 21 Nov 2025 04:09:02 GMT | Hacking Windows — Ethical Hacking | Md. Raihan | [Read More](https://medium.com/p/4f92bcb48713) |
