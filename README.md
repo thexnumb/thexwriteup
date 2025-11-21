@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 02:56:16 GMT | Staying Private, Staying You: Protecting Yourself Online | Ann Harris | [Read More](https://medium.com/p/a3aacf9ef45d) |
+| Fri, 21 Nov 2025 02:56:10 GMT | Archangel writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/781014f30777) |
+| Fri, 21 Nov 2025 02:49:49 GMT | Cracking the Database: My SQL Injection Adventure on PortSwigger | Kyrillos Kamal | [Read More](https://medium.com/p/46482dedd4d7) |
+| Fri, 21 Nov 2025 02:43:48 GMT | Dilithium Signatures: The Quantum-Ready Security Layer Blockchains Need Next | Javier Calderon Jr | [Read More](https://medium.com/p/ef42da1b062c) |
+| Fri, 21 Nov 2025 02:36:37 GMT | Give Me 5 Minutes and I’ll Fix Your Bug Bounty Strategy (The 2026 Blueprint) | Abhishek meena | [Read More](https://medium.com/p/1262cb57589b) |
+| Fri, 21 Nov 2025 02:34:11 GMT | What You MUST Know -Especially If You Handle Customer Data… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/10daf62761ca) |
+| Fri, 21 Nov 2025 02:02:30 GMT | Week 3: When Reality Hits | ZAYN | [Read More](https://medium.com/p/1137f6bdee80) |
+| Fri, 21 Nov 2025 01:58:17 GMT | THE TRUST ME TRAP: WHY BELIEVING VENDORS IS HOW HOSPITALS END UP ON THE EVENING NEWS | Travis Ray Caverhill | [Read More](https://medium.com/p/fd5a7b73bdea) |
 | Fri, 21 Nov 2025 01:28:00 GMT | My favorite Linux command #2 — find | Balazs Kocsis | [Read More](https://medium.com/p/3612c2a09a5b) |
 | Fri, 21 Nov 2025 01:27:34 GMT | Modernizing Legacy Exadata Workloads to Snowflake | LeapLogic | [Read More](https://medium.com/p/10d1dbbfe4e4) |
 | Fri, 21 Nov 2025 01:25:15 GMT | Hacking India’s biggest Cake Shop | StvRoot | [Read More](https://medium.com/p/aac8e586eb64) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 16:59:36 GMT | Business Technologists: The Missing Link Between Strategy, Cost, and Technology | Tyson Martin | [Read More](https://medium.com/p/aabebea71924) |
 | Thu, 20 Nov 2025 16:58:41 GMT | Cheat Software as Malware: How Gaming Culture Accidentally Created the Perfect Distribution System… | Jforrest | [Read More](https://medium.com/p/94a202b1fd6c) |
 | Thu, 20 Nov 2025 16:57:46 GMT | # TryHackMe Room: WAF: Introduction | SpectralCore | [Read More](https://medium.com/p/10ad473d03a5) |
-| Thu, 20 Nov 2025 16:56:31 GMT | When Paper Fails Audits: How Proof Breaks in Postal Mail | Letro | [Read More](https://medium.com/p/b01e15f3a6fc) |
-| Thu, 20 Nov 2025 16:55:19 GMT | ️ Secure and Smart Storage: Why Ace Grease Service Provides the Best Used Cooking Oil Containers | Fourarmsninja | [Read More](https://medium.com/p/4616b7828589) |
-| Thu, 20 Nov 2025 16:52:03 GMT | VPN engine | Cube1214 | [Read More](https://medium.com/p/251624414fc1) |
-| Thu, 20 Nov 2025 16:51:15 GMT | How to setup your own Cybersecurity Homelab — Linux/Ubuntu [Part 1] | 0xRahuL | [Read More](https://medium.com/p/e9947141b940) |
-| Thu, 20 Nov 2025 16:49:57 GMT | Bandit OverTheWire writeup — Level 23 → Level 24 | Dawid Kowalski | [Read More](https://medium.com/p/b15105821be6) |
-| Thu, 20 Nov 2025 16:49:36 GMT | Bandit OverTheWire writeup — Level 22 → Level 23 | Dawid Kowalski | [Read More](https://medium.com/p/ed07b4dc4ee5) |
-| Thu, 20 Nov 2025 16:49:00 GMT | Bandit OverTheWire writeup — Level 21 → Level 22 | Dawid Kowalski | [Read More](https://medium.com/p/b7e537c715b7) |
-| Thu, 20 Nov 2025 16:48:44 GMT | Critical Full Organization Takeover via Email Verification Bypass | Eslam Gamal | [Read More](https://medium.com/p/3f5a55287824) |
