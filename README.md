@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 17:29:32 GMT | From Fundamentals to Mastery: Navigating the World of Modern Software Engineering and Cybersecurity | Boutmedjet Abd elmoudjib | [Read More](https://medium.com/p/81dae0496760) |
+| Fri, 21 Nov 2025 17:28:43 GMT | Palo Alto Is Buying Its Way Into Observability. The Hard Part Starts Now. | Nick Heudecker | [Read More](https://medium.com/p/5d1deae6453e) |
+| Fri, 21 Nov 2025 17:26:36 GMT | Microsoft Sentinel platform — Unified, Graph-enabled, and AI-ready Security | Mechanics Team | [Read More](https://medium.com/p/9cbf41dd5056) |
+| Fri, 21 Nov 2025 17:19:32 GMT | BOF Writeup (Pwnable.kr) | Ivan Daňo | [Read More](https://medium.com/p/c3a63a1c15e7) |
+| Fri, 21 Nov 2025 17:12:52 GMT | From source code review to Access to Admin Panel | Mohammed Alsaqqaf | [Read More](https://medium.com/p/ad51b847ee78) |
 | Fri, 21 Nov 2025 17:03:17 GMT | My First Week in API Security: Lessons, Labs, and Learning the Hard Truths About APIs | Maryblessing | [Read More](https://medium.com/p/592d84882d05) |
 | Fri, 21 Nov 2025 17:02:33 GMT | The AI Analyst — Revolutionizing DFIR and Blue Teams | Purvansh Bhatt | [Read More](https://medium.com/p/35d8f251e79d) |
 | Fri, 21 Nov 2025 17:01:45 GMT | Post-Quantum AI Agents: How Autonomous Systems Will Survive a Quantum-Attack World | RAKTIM SINGH | [Read More](https://medium.com/p/63197be8a1b7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 11:31:42 GMT | How to Choose the Right Engineering Branch for Your Future | Marathwada Mitra Mandal's Institute of Technology | [Read More](https://medium.com/p/32c8e8748d97) |
 | Fri, 21 Nov 2025 11:31:17 GMT | What Is Ethical Hacking and How Does It Work? | Manisha Chaudhary | [Read More](https://medium.com/p/b9706e71223c) |
 | Fri, 21 Nov 2025 11:30:18 GMT | Virtual Laboratory — Understanding Virtual Lab and VitualBox | LUTSVIA | [Read More](https://medium.com/p/c1ee6cf5ce88) |
-| Fri, 21 Nov 2025 11:29:11 GMT | Making Enterprise AI Work | Hassan Lâasri | [Read More](https://medium.com/p/dd05b905ddaa) |
-| Fri, 21 Nov 2025 11:27:40 GMT | Your Phone Is Giving Away More Info Than You Think: The Hidden Data Privacy Crisis | Deepak Sharma | [Read More](https://medium.com/p/40ee67dd4afc) |
-| Fri, 21 Nov 2025 11:23:56 GMT | Implementation of Virtual Laboratory Using VirtualBox Application and Virtualization Alternatives… | HABIBI | [Read More](https://medium.com/p/dc8ec79beac0) |
-| Fri, 21 Nov 2025 11:22:08 GMT | Which Companies Provide OT Cybersecurity Services in Canada? | Arista Cyber | [Read More](https://medium.com/p/c3035fab61d0) |
-| Fri, 21 Nov 2025 11:16:18 GMT | INTRODUCTION TO DROSERA | Stellamaris ❤️ | [Read More](https://medium.com/p/2650b8484a02) |
