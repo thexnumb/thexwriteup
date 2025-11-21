@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 22:15:03 GMT | The Unrestricted Key: How I Bypassed Microsoft’s API Controls | Aman Kumar (ak) | [Read More](https://medium.com/p/b399009cc00c) |
+| Fri, 21 Nov 2025 22:12:42 GMT | THE PHYSICAL MARKETPLACE FRAUD | Oludare Stephen Ayobami | [Read More](https://medium.com/p/21f538caa2f7) |
+| Fri, 21 Nov 2025 22:07:27 GMT | A Free Incident Response Readiness Toolkit for Small Businesses (With a Real-World Tabletop… | Ijiola olawale | [Read More](https://medium.com/p/ed21f1019480) |
+| Fri, 21 Nov 2025 21:59:57 GMT | Claude on Gemini 3 Pro | Kevin O'Shaughnessy | [Read More](https://medium.com/p/e39b57f44ebb) |
+| Fri, 21 Nov 2025 21:40:34 GMT | The New OWASP Top 10 Is Out | Cyber-AppSec | [Read More](https://medium.com/p/64e09de15b3c) |
+| Fri, 21 Nov 2025 21:35:00 GMT | Wireshark Traffic Analysis — A Complete TryHackMe Walkthrough | Mohamed Fathy Kamel | [Read More](https://medium.com/p/11fd4cf82eb5) |
+| Fri, 21 Nov 2025 21:34:42 GMT | ☁️ Cloud Security Jargon Busted: The A-to-Z Guide for Engineers | Ayush Bulbule | [Read More](https://medium.com/p/6e75a2e45fed) |
 | Fri, 21 Nov 2025 21:26:47 GMT | From College Labs to a Billion-Dollar Cybersecurity Empire — ft. Sanjay Katkar | Cyber Unbound | [Read More](https://medium.com/p/8d60ce151564) |
 | Fri, 21 Nov 2025 21:18:18 GMT | API Security 101 | BlueTeam Bytes | [Read More](https://medium.com/p/c03168a1eb72) |
 | Fri, 21 Nov 2025 21:17:34 GMT | The Beginner’s Guide to AI Security (and Why It Matters) | Birzu Alexandru-Adrian | [Read More](https://medium.com/p/117325cf0f4b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 14:22:30 GMT | From Firewalls to SIEM: What Layered Security Looks Like in Real Life | Vijay Kumar Gupta | [Read More](https://medium.com/p/34d4cb5a2f64) |
 | Fri, 21 Nov 2025 14:21:28 GMT | Write Up Arrow di Platform — Hackviser | Kang_BlankOn | [Read More](https://medium.com/p/5616b89d61e9) |
 | Fri, 21 Nov 2025 14:16:50 GMT | cyberscurity is a tas | Steven Chin | [Read More](https://medium.com/p/d46a0809a689) |
-| Fri, 21 Nov 2025 14:12:11 GMT | A Session Within a Session: Demystifying Real Application Security Contexts | Thomas Minne | [Read More](https://medium.com/p/278a096af84e) |
-| Fri, 21 Nov 2025 14:10:11 GMT | Use the FRIA Template Questionnaire — Structure is your best ally. | Sara Magdalena Goldberger | [Read More](https://medium.com/p/31891d0a23eb) |
-| Fri, 21 Nov 2025 14:02:08 GMT | Injected #4: Lethal SSRF — Advanced Exploitation Series (Part II) | Chux | [Read More](https://medium.com/p/13480b8cc4ab) |
-| Fri, 21 Nov 2025 13:56:49 GMT | Why I Felt Compelled to Write an Anti-Fraud Design and Implementation Book with Passion | Dr Mehmet Yildiz | [Read More](https://medium.com/p/ae8229830c87) |
-| Fri, 21 Nov 2025 13:56:39 GMT | Why I Always Disable Unused Network Services on Servers (And How I Hunt for Hidden Listeners) | Faruk Ahmed | [Read More](https://medium.com/p/2d09fc1284a4) |
-| Fri, 21 Nov 2025 13:55:25 GMT | The 10 VAPT Failures That Bring Companies Down Faster Than Any Breach | shivam yadav | [Read More](https://medium.com/p/57622090871e) |
-| Fri, 21 Nov 2025 13:52:03 GMT | Russian Proxy Server Strategies for Stable Cross-Border Operations | BlockMosac | [Read More](https://medium.com/p/e953b54a5a76) |
