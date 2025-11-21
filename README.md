@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 18:13:01 GMT | TwoMillion — Easy Level Linux based Machine Writeup | Pradithareddy | [Read More](https://medium.com/p/e438d98aab56) |
+| Fri, 21 Nov 2025 18:10:50 GMT | How Identification Works in Cybersecurity Systems | Damir Kolobaric | [Read More](https://medium.com/p/05625d2533cc) |
+| Fri, 21 Nov 2025 17:54:34 GMT | API Keys vs JWT vs OAuth: Which Should You Use? | Navanath Jadhav | [Read More](https://medium.com/p/da51c461f554) |
+| Fri, 21 Nov 2025 17:52:30 GMT | Nigeria and Its Intractable Security Challenges | JJ. Omojuwa | [Read More](https://medium.com/p/49fc3facdfdc) |
+| Fri, 21 Nov 2025 17:45:40 GMT | Where Nigerian Football Meets Its Insecurity | JJ. Omojuwa | [Read More](https://medium.com/p/a4c338271e26) |
+| Fri, 21 Nov 2025 17:44:14 GMT | When defensive automation breaks the internet | STR4T0TT0 | [Read More](https://medium.com/p/bafc30307588) |
+| Fri, 21 Nov 2025 17:42:01 GMT | Why G2G and B2G Communication Needs More Than Just Email Security | Letro | [Read More](https://medium.com/p/462980b7f3a2) |
+| Fri, 21 Nov 2025 17:32:34 GMT | Awaiting D4 Order – The hidden Strength of SQL From a Different lens(Through Sextans-RT Automation) | Umar Al-Mahfuz | [Read More](https://medium.com/p/c0582d64886d) |
+| Fri, 21 Nov 2025 17:32:01 GMT | “Free Robux” Is the New Stranger Danger — Here’s How Scammers Target Your Kids | Cyber Dive | [Read More](https://medium.com/p/09572b3c0b76) |
 | Fri, 21 Nov 2025 17:29:32 GMT | From Fundamentals to Mastery: Navigating the World of Modern Software Engineering and Cybersecurity | Boutmedjet Abd elmoudjib | [Read More](https://medium.com/p/81dae0496760) |
 | Fri, 21 Nov 2025 17:28:43 GMT | Palo Alto Is Buying Its Way Into Observability. The Hard Part Starts Now. | Nick Heudecker | [Read More](https://medium.com/p/5d1deae6453e) |
 | Fri, 21 Nov 2025 17:26:36 GMT | Microsoft Sentinel platform — Unified, Graph-enabled, and AI-ready Security | Mechanics Team | [Read More](https://medium.com/p/9cbf41dd5056) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 12:11:02 GMT | I Automated My Recon And Found 3 Bugs In 24 Hours | Ibtissam | [Read More](https://medium.com/p/e34145829db0) |
 | Fri, 21 Nov 2025 12:08:45 GMT | Dark UI/UX Pattern: I Got Misdirected to Gemini Instead of Perplexity | Sachin      Verlekar | [Read More](https://medium.com/p/c77b039e0762) |
 | Fri, 21 Nov 2025 12:03:24 GMT | Advent of Cyber 2025 Prep Track — Walkthrough challenges | Jason Utama | [Read More](https://medium.com/p/a0f03a144c78) |
-| Fri, 21 Nov 2025 12:02:07 GMT | The Great Tech Showdown: AI/ML  vs Cybersecurity | Intelligent Hustle | [Read More](https://medium.com/p/4f8cd76f4b2b) |
-| Fri, 21 Nov 2025 12:01:24 GMT | The Anatomy of Becoming. | Being_Anet | [Read More](https://medium.com/p/4d099af68813) |
-| Fri, 21 Nov 2025 12:01:03 GMT | Today’s Top Cyber Intelligence Highlights — Nov 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6d3e88872891) |
-| Fri, 21 Nov 2025 11:47:13 GMT | Exposing a Vast Phishing Campaign by Probing Malicious Emails and URLs | Citadel Cybersec | [Read More](https://medium.com/p/7b7766d788e7) |
-| Fri, 21 Nov 2025 11:34:28 GMT | What is Malware ? | Soundaryaps | [Read More](https://medium.com/p/3092f3aadae3) |
-| Fri, 21 Nov 2025 11:33:57 GMT | ThreatsDay: 0-Days, LinkedIn Spies, Crypto Crimes and the Week the Internet Felt Smalle | Germano Costi | [Read More](https://medium.com/p/1ecc8d5aac54) |
-| Fri, 21 Nov 2025 11:31:42 GMT | How to Choose the Right Engineering Branch for Your Future | Marathwada Mitra Mandal's Institute of Technology | [Read More](https://medium.com/p/32c8e8748d97) |
-| Fri, 21 Nov 2025 11:31:17 GMT | What Is Ethical Hacking and How Does It Work? | Manisha Chaudhary | [Read More](https://medium.com/p/b9706e71223c) |
-| Fri, 21 Nov 2025 11:30:18 GMT | Virtual Laboratory — Understanding Virtual Lab and VitualBox | LUTSVIA | [Read More](https://medium.com/p/c1ee6cf5ce88) |
