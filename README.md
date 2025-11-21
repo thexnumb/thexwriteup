@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 09:41:17 GMT | My social media account hacked Because of VPN, What to do? | Jeetendra khatri | [Read More](https://medium.com/p/3338b1bc58c7) |
+| Fri, 21 Nov 2025 09:41:14 GMT | Before You Share Your Data Read This: Key DPDP Act Definitions Explained. | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/ad1e504f3b30) |
+| Fri, 21 Nov 2025 09:40:59 GMT | Should Manufacturers Settle for Off-the-Shelf Security, or Demand Tailored Solutions? | Luke Appleby | [Read More](https://medium.com/p/6be90a6156db) |
+| Fri, 21 Nov 2025 09:27:21 GMT | ประจำวันศุกร์ที่ 21 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/504855a44aec) |
 | Fri, 21 Nov 2025 09:20:21 GMT | ️Tryhackme - Web Security Essentials - Walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/593f404a10b1) |
+| Fri, 21 Nov 2025 09:18:25 GMT | Stuck on Security+? Here is exactly how to pass SY0–701 exam efficiently. | Sotrinakko | [Read More](https://medium.com/p/6923e20e5b30) |
 | Fri, 21 Nov 2025 09:16:30 GMT | Need-to-Know Basis: The Basic Rule That Saves Millions in ERP Implementations | Namir Sagheenanajar | [Read More](https://medium.com/p/0159261585ff) |
 | Fri, 21 Nov 2025 09:11:57 GMT | russia-proxy-server-guide | ChainNova | [Read More](https://medium.com/p/c3d6bd031a7a) |
 | Fri, 21 Nov 2025 09:04:59 GMT | Vibe Coding Faction Extensions at PhreakNic 26 | Faction Security | [Read More](https://medium.com/p/ac547b103294) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 01:27:34 GMT | Modernizing Legacy Exadata Workloads to Snowflake | LeapLogic | [Read More](https://medium.com/p/10d1dbbfe4e4) |
 | Fri, 21 Nov 2025 01:25:15 GMT | Hacking India’s biggest Cake Shop | StvRoot | [Read More](https://medium.com/p/aac8e586eb64) |
 | Fri, 21 Nov 2025 01:12:24 GMT | 4 Reasons Why a Woman Stays With You Even If She Doesn’t Love You | Ophaly Kate | [Read More](https://medium.com/p/6c2c838aa1c3) |
-| Fri, 21 Nov 2025 00:34:37 GMT | Hands-On Threat-Hunting Lab — Practice Golden SAML Detection Using the Free SIEM Environment… | Dhruv Patel | [Read More](https://medium.com/p/e30edaea3d29) |
-| Fri, 21 Nov 2025 00:28:36 GMT | Golden SAML Attack : Attack Breakdown | Dhruv Patel | [Read More](https://medium.com/p/7ebba2ddbcf4) |
-| Fri, 21 Nov 2025 00:02:27 GMT | API3:2023 BOPLA (Broken Object Property Level Authorization): Mass Assignment y Exposición de Datos | JPablo13 | [Read More](https://medium.com/p/6e14e90821e8) |
-| Thu, 20 Nov 2025 23:37:19 GMT | Leveraging GraphXR to Study Ransomware Threat Actors | Kineviz | [Read More](https://medium.com/p/01ce123deb44) |
-| Thu, 20 Nov 2025 23:06:20 GMT | Software Defined Networking (SDN): The Foundation of Modern Cloud Infrastructure | Ahmed Maher | [Read More](https://medium.com/p/8c79e9730d7d) |
