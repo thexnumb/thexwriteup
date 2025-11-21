@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 15:07:50 GMT | The Front Door Was Wide Open: Lessons from Lynx Ransomware | Abdenour Bourennane | [Read More](https://medium.com/p/b05e907c6c73) |
+| Fri, 21 Nov 2025 15:03:27 GMT | Cyber Briefing: 2025.11.21 | CyberMaterial | [Read More](https://medium.com/p/e3713476a8ae) |
+| Fri, 21 Nov 2025 15:01:13 GMT | Automated Pipeline Setup for IOC Detection: Speed and Scale in Cybersecurity | Esra Kayhan | [Read More](https://medium.com/p/e4f7469f52bb) |
+| Fri, 21 Nov 2025 15:00:03 GMT | High-Sensitivity Use-Case Design for SOC: Reducing Noise and Detecting Real Threats | Esra Kayhan | [Read More](https://medium.com/p/fc5fcca3384f) |
+| Fri, 21 Nov 2025 14:59:02 GMT | When Trusted Sites Turn Malicious: How APT24’s ‘BadAudio’ Is Redefining Cyber Espionage | Jasmitha | [Read More](https://medium.com/p/b74de3139913) |
+| Fri, 21 Nov 2025 14:58:39 GMT | A BILL | Keith Hayes | [Read More](https://medium.com/p/6f1bad4e5f17) |
+| Fri, 21 Nov 2025 14:56:24 GMT | Why Do Fractional CISOs Get Sideways With Your MSP? | IOmergent | [Read More](https://medium.com/p/c9e72eeb5e53) |
+| Fri, 21 Nov 2025 14:54:38 GMT | saudi-arabia-proxy-guide | CoinZenith | [Read More](https://medium.com/p/3096e77bb5ed) |
+| Fri, 21 Nov 2025 14:51:22 GMT | How I Hacked Gmail Creds at a Tech Event With a $30 Device | Satyam Pathania | [Read More](https://medium.com/p/d67ef4e6461e) |
+| Fri, 21 Nov 2025 14:50:27 GMT | symmetric Challenge (Crypto) - CyCTF 25 | Khonshu | [Read More](https://medium.com/p/b74f23a11884) |
+| Fri, 21 Nov 2025 14:39:23 GMT | Defending Against ClickFix: Building Real-World Behavioral Detections Using Atomic Red Team | CyberFreak | [Read More](https://medium.com/p/863660eb87cb) |
 | Fri, 21 Nov 2025 14:33:43 GMT | Best Security Companies San Jose for Full Protection | Direct Guard Services | [Read More](https://medium.com/p/90f10105064f) |
 | Fri, 21 Nov 2025 14:32:19 GMT | Protecting Our Ports | Abdelaziz moustakim | [Read More](https://medium.com/p/916ffd8e000a) |
 | Fri, 21 Nov 2025 14:27:41 GMT | When to Escalate: The Clear Protocols Unarmed Guards Follow in a Crisis | The Safety Perspective | [Read More](https://medium.com/p/3226666a75b5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 09:11:57 GMT | russia-proxy-server-guide | ChainNova | [Read More](https://medium.com/p/c3d6bd031a7a) |
 | Fri, 21 Nov 2025 09:04:59 GMT | Vibe Coding Faction Extensions at PhreakNic 26 | Faction Security | [Read More](https://medium.com/p/ac547b103294) |
 | Fri, 21 Nov 2025 09:04:22 GMT | What to expect from future digital marketers: upcoming trends in the field | Night Thread Co | [Read More](https://medium.com/p/8070215726c6) |
-| Fri, 21 Nov 2025 09:03:15 GMT | What Plain-Text Leaks Reveal About Your Employees, Customers and Attack Surface | Alexandre Vandamme | [Read More](https://medium.com/p/866b6687de40) |
-| Fri, 21 Nov 2025 09:03:14 GMT | Together, We Learn: Co-Learning ที่เปลี่ยนทั้งผู้สอนและผู้เรียน P.3 | Arise by INFINITAS | [Read More](https://medium.com/p/c0fbfebbfcaf) |
-| Fri, 21 Nov 2025 09:02:17 GMT | SaaS Security in 2025: Why 79% of Companies Are Dangerously Overconfident About Their Security | CodeOrbit | [Read More](https://medium.com/p/634a7b9483e9) |
-| Fri, 21 Nov 2025 08:52:52 GMT | How I Built a Complete Wazuh SIEM Lab for Threat Detection and Monitoring | Pradeepkumaru | [Read More](https://medium.com/p/f9cfe92aac9e) |
-| Fri, 21 Nov 2025 08:51:46 GMT | GridHaven Blackhawk: Your No-BS Security Command Center | Ryan Collier | [Read More](https://medium.com/p/54b97a72a1ad) |
-| Fri, 21 Nov 2025 08:44:17 GMT | ChatGPT For Pen Testing (Pt. 1): Expanding the Role Of AI In Modern Security Assessments | Redfox Security | [Read More](https://medium.com/p/452e52f2103b) |
-| Fri, 21 Nov 2025 08:41:56 GMT | I l forgot. | Joelle luxer | [Read More](https://medium.com/p/725e24f7b060) |
-| Fri, 21 Nov 2025 08:25:10 GMT | The Future of Executive Protection Services: Trends, Tech, and Training to Watch | The Safety Perspective | [Read More](https://medium.com/p/7679aaaf3860) |
-| Fri, 21 Nov 2025 08:18:13 GMT | Building a Cyber-Resilient Business: How Managed Antivirus Services Deliver Peace of Mind | ANSI Technologies | [Read More](https://medium.com/p/1bd06a628888) |
-| Fri, 21 Nov 2025 08:16:17 GMT | Which Online Cybersecurity Certification Is Best? | Janbask | [Read More](https://medium.com/p/091b84d12ab1) |
-| Fri, 21 Nov 2025 08:08:51 GMT | Knownsec Data Breach: What Happens When a State-Sponsored Cyber Arsenal Leaks? | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/b88939702682) |
