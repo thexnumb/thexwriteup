@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 07:32:44 GMT | A Simple Guide to Logic Locking for Chip Security | Surabhi Misra | [Read More](https://medium.com/p/97c5da66b29c) |
+| Fri, 21 Nov 2025 07:25:33 GMT | Jangan Cuma Jago Excel: 5 Skill Wajib yang Bikin Kamu Dilirik HRD di Bidang Tech! | Vivian Liam | [Read More](https://medium.com/p/850d69ffb484) |
+| Fri, 21 Nov 2025 07:22:38 GMT | Why Security Guard Services Are Essential for Modern Businesses and Homes | Ciss India | [Read More](https://medium.com/p/cb2b47d0c5f2) |
+| Fri, 21 Nov 2025 07:21:31 GMT | ️Pen-testing Tutorial for Beginners & Advanced Users — Part 1 | MumoVictor | [Read More](https://medium.com/p/0d45f3d9c0b6) |
+| Fri, 21 Nov 2025 07:15:48 GMT | Cyber securityAI-Powered Scams: The New Age of Cybercrime and How to Stay Protected | Bitdefenderppc | [Read More](https://medium.com/p/11a9ac94bd92) |
 | Fri, 21 Nov 2025 07:15:27 GMT | Securing Embedded and Specialized Systems: Challenges, Consequences, and Lessons from Real-World… | Anderson Santos | [Read More](https://medium.com/p/443f7ecfca26) |
 | Fri, 21 Nov 2025 07:09:36 GMT | The Corix Partners Friday Reading List — November 21, 2025 | JC Gaillard | [Read More](https://medium.com/p/733daf752ed8) |
 | Fri, 21 Nov 2025 07:07:10 GMT | Stop Committing Secrets to GitHub: How to Avoid It and How to Fix It If You Already Did | Kaylee C | [Read More](https://medium.com/p/3a78fbdfbaad) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 20:53:05 GMT | Every Time We Upgrade Wireless Technology, the World Faces a Crisis coincidence or something… | iam_with_you11 | [Read More](https://medium.com/p/f8b410434e97) |
 | Thu, 20 Nov 2025 20:51:34 GMT | Building a Cybersecurity Home Lab — Part 4.2: Wazuh Installation & Configuration | JBXSec | [Read More](https://medium.com/p/785c67231e2b) |
 | Thu, 20 Nov 2025 20:43:57 GMT | Forage ANZ Job Simulation | Tomomi | [Read More](https://medium.com/p/28772a7ba225) |
-| Thu, 20 Nov 2025 20:36:11 GMT | Active Exploitation of 7‑Zip (CVE‑2025‑11001) | Cybersectoworld | [Read More](https://medium.com/p/65854f902f54) |
-| Thu, 20 Nov 2025 20:35:43 GMT | Siber İstihbarat Sanatı: Pasif Tarama ve OSINT Araçları | Onur Altuğ | [Read More](https://medium.com/p/3d62e4d505a1) |
-| Thu, 20 Nov 2025 20:31:19 GMT | CyberDefenders — Kerberoasted Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/3b6aea3ecf11) |
-| Thu, 20 Nov 2025 20:27:05 GMT | Learning to Forgive Myself | Guillermo Palchik | [Read More](https://medium.com/p/65f42912b1ee) |
-| Thu, 20 Nov 2025 20:21:03 GMT | The Rise of AI-Powered Cyberattacks: Why the Next Wave of Threats Will Blindside Unprepared… | Pasan Madhuranga | [Read More](https://medium.com/p/987ea90f0fa4) |
