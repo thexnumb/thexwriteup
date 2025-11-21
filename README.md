@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 15:35:12 GMT | 2 ATO via CSRF by using the same mechanism in different positions | CANITEY | [Read More](https://medium.com/p/20188133c625) |
+| Fri, 21 Nov 2025 15:34:43 GMT | When the Internet Stalls: What the Cloudflare Outage Teaches Developers and Users | Stefano Di Cecco | [Read More](https://medium.com/p/83375d412fba) |
+| Fri, 21 Nov 2025 15:22:58 GMT | Write Up File Hunter di Platform — Hackviser | Kang_BlankOn | [Read More](https://medium.com/p/054668fb86f3) |
+| Fri, 21 Nov 2025 15:21:40 GMT | NTFS ADS for Cyber Security Man’s | zerbaliy3v | [Read More](https://medium.com/p/992cadea900b) |
+| Fri, 21 Nov 2025 15:18:33 GMT | Military Intelligence and Strategic Operations in Modern Conflicts | Andrey Spiridonov | [Read More](https://medium.com/p/9bfe7f0da23f) |
 | Fri, 21 Nov 2025 15:07:50 GMT | The Front Door Was Wide Open: Lessons from Lynx Ransomware | Abdenour Bourennane | [Read More](https://medium.com/p/b05e907c6c73) |
 | Fri, 21 Nov 2025 15:03:27 GMT | Cyber Briefing: 2025.11.21 | CyberMaterial | [Read More](https://medium.com/p/e3713476a8ae) |
 | Fri, 21 Nov 2025 15:01:13 GMT | Automated Pipeline Setup for IOC Detection: Speed and Scale in Cybersecurity | Esra Kayhan | [Read More](https://medium.com/p/e4f7469f52bb) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 09:40:59 GMT | Should Manufacturers Settle for Off-the-Shelf Security, or Demand Tailored Solutions? | Luke Appleby | [Read More](https://medium.com/p/6be90a6156db) |
 | Fri, 21 Nov 2025 09:27:21 GMT | ประจำวันศุกร์ที่ 21 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/504855a44aec) |
 | Fri, 21 Nov 2025 09:20:21 GMT | ️Tryhackme - Web Security Essentials - Walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/593f404a10b1) |
-| Fri, 21 Nov 2025 09:18:25 GMT | Stuck on Security+? Here is exactly how to pass SY0–701 exam efficiently. | Sotrinakko | [Read More](https://medium.com/p/6923e20e5b30) |
-| Fri, 21 Nov 2025 09:16:30 GMT | Need-to-Know Basis: The Basic Rule That Saves Millions in ERP Implementations | Namir Sagheenanajar | [Read More](https://medium.com/p/0159261585ff) |
-| Fri, 21 Nov 2025 09:11:57 GMT | russia-proxy-server-guide | ChainNova | [Read More](https://medium.com/p/c3d6bd031a7a) |
-| Fri, 21 Nov 2025 09:04:59 GMT | Vibe Coding Faction Extensions at PhreakNic 26 | Faction Security | [Read More](https://medium.com/p/ac547b103294) |
-| Fri, 21 Nov 2025 09:04:22 GMT | What to expect from future digital marketers: upcoming trends in the field | Night Thread Co | [Read More](https://medium.com/p/8070215726c6) |
