@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 21:26:47 GMT | From College Labs to a Billion-Dollar Cybersecurity Empire — ft. Sanjay Katkar | Cyber Unbound | [Read More](https://medium.com/p/8d60ce151564) |
+| Fri, 21 Nov 2025 21:18:18 GMT | API Security 101 | BlueTeam Bytes | [Read More](https://medium.com/p/c03168a1eb72) |
+| Fri, 21 Nov 2025 21:17:34 GMT | The Beginner’s Guide to AI Security (and Why It Matters) | Birzu Alexandru-Adrian | [Read More](https://medium.com/p/117325cf0f4b) |
+| Fri, 21 Nov 2025 21:04:32 GMT | Your Permission Slip to Be Yourself | Nawab Khan | [Read More](https://medium.com/p/edf533b01fbb) |
+| Fri, 21 Nov 2025 20:43:17 GMT | BTLO: Malware Analysis Ransomware Script | Krono | [Read More](https://medium.com/p/cca173f0fefa) |
+| Fri, 21 Nov 2025 20:42:05 GMT | Pause Before You Browse—Microsoft Marketplace Risks You Need to Know | O Alquimista | [Read More](https://medium.com/p/f5d729225ba3) |
 | Fri, 21 Nov 2025 20:29:00 GMT | “The New Power Duo: How IT Management and Business Strategy Grow Stronger Together in 2025” | Muqaddas Akhter | [Read More](https://medium.com/p/d5adf9fd2f48) |
 | Fri, 21 Nov 2025 20:28:37 GMT | Siber Tehdit Avcılığına Giriş: Velociraptor ile Kalıcılık (Persistence) Analizi | Emre ESER | [Read More](https://medium.com/p/dc59c17a2fe4) |
 | Fri, 21 Nov 2025 20:24:09 GMT | Bypassing University Email Verification: A Logical Flaw in a Saudi Cybersecurity Education Platform | A7medsaber | [Read More](https://medium.com/p/3073721ce9bd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 13:56:39 GMT | Why I Always Disable Unused Network Services on Servers (And How I Hunt for Hidden Listeners) | Faruk Ahmed | [Read More](https://medium.com/p/2d09fc1284a4) |
 | Fri, 21 Nov 2025 13:55:25 GMT | The 10 VAPT Failures That Bring Companies Down Faster Than Any Breach | shivam yadav | [Read More](https://medium.com/p/57622090871e) |
 | Fri, 21 Nov 2025 13:52:03 GMT | Russian Proxy Server Strategies for Stable Cross-Border Operations | BlockMosac | [Read More](https://medium.com/p/e953b54a5a76) |
-| Fri, 21 Nov 2025 13:51:45 GMT | Forensic memory: RAM is the Solution to Cybercrimes. | Nabila Tabassum | [Read More](https://medium.com/p/34a84f9f916d) |
-| Fri, 21 Nov 2025 13:41:12 GMT | When Silence Becomes a Cage | Onuh Patience Chinweokwu | [Read More](https://medium.com/p/ad155eca53be) |
-| Fri, 21 Nov 2025 13:40:22 GMT | Welcome to the Cognitive Divide | Bridget | [Read More](https://medium.com/p/f4d9d5035753) |
-| Fri, 21 Nov 2025 13:38:22 GMT | Trustless Doesn’t Mean Risky: Why Web3 Payments Are More Secure | bepay | [Read More](https://medium.com/p/64f8e6cb4ab3) |
-| Fri, 21 Nov 2025 13:37:53 GMT | Future-Proofing for the Data-Driven Ecosystem: Securing Your Application and Data APIs | Talsec | [Read More](https://medium.com/p/75fe50695aff) |
-| Fri, 21 Nov 2025 13:33:30 GMT | The Hacker’s Compass: Why Threat Modeling is a Pentester’s True North | Wafa | [Read More](https://medium.com/p/21bccea7a8ad) |
