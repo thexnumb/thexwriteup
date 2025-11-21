@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 16:41:08 GMT | Why Building a Zero‑Dependencies Covert Data Collector Is Harder Than You Think | xsser01 | [Read More](https://medium.com/p/6a810961261a) |
+| Fri, 21 Nov 2025 16:40:50 GMT | In many societies battling serious insecurity, the causes are complex. | Lucky Ndupu | [Read More](https://medium.com/p/98611f82a3d6) |
+| Fri, 21 Nov 2025 16:36:34 GMT | Top Career Paths in Cybersecurity: From Analyst to CISO | Ferdi Edogawa | [Read More](https://medium.com/p/7c81c8dfcc46) |
+| Fri, 21 Nov 2025 16:33:55 GMT | 10 Practical Cloud & Enterprise Security Scenarios to Practice This Month | Muhammad Haider Tallal | [Read More](https://medium.com/p/79c16051b7f7) |
+| Fri, 21 Nov 2025 16:26:39 GMT | Phishing resistant solution — FIDO2 | Gaurav Gupta | [Read More](https://medium.com/p/2f6624ecf064) |
+| Fri, 21 Nov 2025 16:26:33 GMT | Hack a Windows System Using PowerShell | Scofield O. Idehen | [Read More](https://medium.com/p/3737b8aabc95) |
+| Fri, 21 Nov 2025 16:25:21 GMT | Exposure Management vs Vulnerability Management: The Evolution in Cyber Risk | Spektion | [Read More](https://medium.com/p/fe0808b8516b) |
+| Fri, 21 Nov 2025 16:23:58 GMT | Hacking for Good: The Truth About Ethical Hackers in an Age of Constant Breaches | Paradise technologies Inc | [Read More](https://medium.com/p/27e1013d7f0e) |
+| Fri, 21 Nov 2025 16:21:51 GMT | Establishing Robust Security Measures and Ensuring Maximum System Uptime and Reliability | Amanda Francis | [Read More](https://medium.com/p/9e81a6c174bb) |
+| Fri, 21 Nov 2025 16:19:47 GMT | Meningkatkan Kinerja Bisnis Melalui Tingkat Keberhasilan Penggunaan Customer Relationship… | Amanda | [Read More](https://medium.com/p/535641f421c6) |
 | Fri, 21 Nov 2025 16:11:16 GMT | Critical Oracle E-Business Suite Zero-Day Exposed in Clop Ransomware Attack on Broadcom | Jasmitha | [Read More](https://medium.com/p/8f29dd32f1ad) |
 | Fri, 21 Nov 2025 16:08:18 GMT | [Ethernaut] 1. Fallback | Jiseop Shin | [Read More](https://medium.com/p/8c480fa49741) |
 | Fri, 21 Nov 2025 16:07:42 GMT | Hacksudo: 1 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/47b51b663cb6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 10:58:19 GMT | Capítulo 9 — Rastros Digitais | Kleber Andrade | [Read More](https://medium.com/p/1dfbbd4f6a7c) |
 | Fri, 21 Nov 2025 10:57:46 GMT | Data Breaches:A Strong Password Is Not Enough Anymore | Gilad | [Read More](https://medium.com/p/a73a9444c885) |
 | Fri, 21 Nov 2025 10:55:37 GMT | How EC-Council University Supports Veterans in Building Cybersecurity Careers | Shreyashettyctr | [Read More](https://medium.com/p/dea6a223c93c) |
-| Fri, 21 Nov 2025 10:50:10 GMT | Global Internet Disruption: A Forensic Look at the 2025 Cloudflare Outage | Sagarchhetri | [Read More](https://medium.com/p/0fc129e44a48) |
-| Fri, 21 Nov 2025 10:48:01 GMT | Portswigger Academy — Lab: Username enumeration via subtly different responses | Songül Kızılay | [Read More](https://medium.com/p/a60157feda4b) |
-| Fri, 21 Nov 2025 10:40:58 GMT | Gamifying Cybersecurity: Making Training Engaging and Effective | Digital Defense | [Read More](https://medium.com/p/15a1c803b8a0) |
-| Fri, 21 Nov 2025 10:40:38 GMT | 7 ChatGPT Hacks to Get Ahead of 99% of People | Theophilus Nagberi | [Read More](https://medium.com/p/90d1bf26c3ad) |
-| Fri, 21 Nov 2025 10:39:14 GMT | Best Endpoint Security Services Provider in India - Threat Detection | Samvaskaran | [Read More](https://medium.com/p/296dd3881b46) |
-| Fri, 21 Nov 2025 10:29:06 GMT | The Art of Affordable Hosting: Smart Ways to Power Your Online Presence | Janet Watson | [Read More](https://medium.com/p/9cc24afc1840) |
-| Fri, 21 Nov 2025 10:21:50 GMT | Enterprise IT Case Study: Incident Response | Victoria Ayomide Ayodeji | [Read More](https://medium.com/p/fd165897f7a3) |
-| Fri, 21 Nov 2025 10:20:18 GMT | What working across major government departments taught us about Privileged Access, risk and human… | rainmaker | [Read More](https://medium.com/p/b288eeece2bc) |
-| Fri, 21 Nov 2025 10:20:04 GMT | DockerLabs Writeup — Redirection (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a1b378bd08b6) |
-| Fri, 21 Nov 2025 10:19:45 GMT | 小心！你的 AI 可能被人控制了 | 林鼎淵 | [Read More](https://medium.com/p/24c710e11698) |
