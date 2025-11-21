@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 04:38:08 GMT | Continued Government project failures and the inability to learn from mistakes* | Damian Heffernan | [Read More](https://medium.com/p/4f16c1daffe9) |
+| Fri, 21 Nov 2025 04:34:40 GMT | How Hidden APIs Expose More of Your Data Than You Think | Kael Virex | [Read More](https://medium.com/p/499c30327f2c) |
+| Fri, 21 Nov 2025 04:29:10 GMT | How to Secure Your SPA with Laravel 11 and Sanctum Cookie-Based Authentication | Syedmoiz | [Read More](https://medium.com/p/845f6c207a06) |
+| Fri, 21 Nov 2025 04:27:31 GMT | How Outdated Software Is Still One of the Biggest Cyber Risks in 2025 | Sam Writes Security | [Read More](https://medium.com/p/6decf8fa2859) |
+| Fri, 21 Nov 2025 04:26:51 GMT | How CCTV Helps Protect Elderly Parents Living Alone | Ask IT Support | [Read More](https://medium.com/p/f5d217e78995) |
+| Fri, 21 Nov 2025 04:15:52 GMT | Kenapa Linux selalu jadi Operasi Sistem Andalan Hacker ? | Jadi Hacker | [Read More](https://medium.com/p/c36d93cf41a6) |
 | Fri, 21 Nov 2025 04:14:48 GMT | Launching Your Career in OT Security: A Practical Guide to References, Tools, and Pathways | Ajay Naik | [Read More](https://medium.com/p/83ef6e8127ef) |
 | Fri, 21 Nov 2025 04:12:08 GMT | Artificial Intelligence (AI) vs Artificial Instinct (Ai), The Distinction Cybersecurity Can’t… | Juan Pablo Castro | [Read More](https://medium.com/p/f300aec71a3b) |
 | Fri, 21 Nov 2025 04:09:02 GMT | Hacking Windows — Ethical Hacking | Md. Raihan | [Read More](https://medium.com/p/4f92bcb48713) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 20 Nov 2025 17:42:00 GMT | TryHackMe - Data Integrity & Model Poisoning - WriteUp | Axoloth | [Read More](https://medium.com/p/1ddce78dfbc6) |
 | Thu, 20 Nov 2025 17:36:55 GMT | Anthropic vs. the AI super hacker: epochal threat or textbook marketing? | Effedielle | [Read More](https://medium.com/p/69ba3d04053a) |
 | Thu, 20 Nov 2025 17:33:38 GMT | The Year I Stopped Waiting for the “Perfect Time” and Started Building My Cybersecurity Future | Manas Mahato | [Read More](https://medium.com/p/b3f487c9a687) |
-| Thu, 20 Nov 2025 17:33:31 GMT | Why Most Businesses Struggle with Microsoft Copilot? | IT_Engineer | [Read More](https://medium.com/p/d2da9016718c) |
-| Thu, 20 Nov 2025 17:31:19 GMT | Eliminating Static Secrets: Implementing Vault AppRole with Dynamic MySQL Credentials (Part 1) | Alvin Adisatria | [Read More](https://medium.com/p/71b7ecca5bbe) |
-| Thu, 20 Nov 2025 17:31:19 GMT | How to Securely Share a Drive Between Two Windows Laptops on the Same Network | salhi Yassin | [Read More](https://medium.com/p/775f55405ee0) |
-| Thu, 20 Nov 2025 17:30:18 GMT | The Linux Security Journey — “protected_regular” (Protect Regular Files) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/909ec552e70a) |
-| Thu, 20 Nov 2025 17:28:38 GMT | How I Started My Cybersecurity Journey With No Degree, No Contacts — Just Persistence | Manas Mahato | [Read More](https://medium.com/p/76c683332708) |
-| Thu, 20 Nov 2025 17:25:16 GMT | Active Exploitation Alert: Analysts at watchTowr Warn on FortiWeb | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/13a446937363) |
