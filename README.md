@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 09:20:21 GMT | ️Tryhackme - Web Security Essentials - Walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/593f404a10b1) |
+| Fri, 21 Nov 2025 09:16:30 GMT | Need-to-Know Basis: The Basic Rule That Saves Millions in ERP Implementations | Namir Sagheenanajar | [Read More](https://medium.com/p/0159261585ff) |
+| Fri, 21 Nov 2025 09:11:57 GMT | russia-proxy-server-guide | ChainNova | [Read More](https://medium.com/p/c3d6bd031a7a) |
+| Fri, 21 Nov 2025 09:04:59 GMT | Vibe Coding Faction Extensions at PhreakNic 26 | Faction Security | [Read More](https://medium.com/p/ac547b103294) |
+| Fri, 21 Nov 2025 09:04:22 GMT | What to expect from future digital marketers: upcoming trends in the field | Night Thread Co | [Read More](https://medium.com/p/8070215726c6) |
+| Fri, 21 Nov 2025 09:03:15 GMT | What Plain-Text Leaks Reveal About Your Employees, Customers and Attack Surface | Alexandre Vandamme | [Read More](https://medium.com/p/866b6687de40) |
+| Fri, 21 Nov 2025 09:03:14 GMT | Together, We Learn: Co-Learning ที่เปลี่ยนทั้งผู้สอนและผู้เรียน P.3 | Arise by INFINITAS | [Read More](https://medium.com/p/c0fbfebbfcaf) |
+| Fri, 21 Nov 2025 09:02:17 GMT | SaaS Security in 2025: Why 79% of Companies Are Dangerously Overconfident About Their Security | CodeOrbit | [Read More](https://medium.com/p/634a7b9483e9) |
+| Fri, 21 Nov 2025 08:52:52 GMT | How I Built a Complete Wazuh SIEM Lab for Threat Detection and Monitoring | Pradeepkumaru | [Read More](https://medium.com/p/f9cfe92aac9e) |
+| Fri, 21 Nov 2025 08:51:46 GMT | GridHaven Blackhawk: Your No-BS Security Command Center | Ryan Collier | [Read More](https://medium.com/p/54b97a72a1ad) |
+| Fri, 21 Nov 2025 08:44:17 GMT | ChatGPT For Pen Testing (Pt. 1): Expanding the Role Of AI In Modern Security Assessments | Redfox Security | [Read More](https://medium.com/p/452e52f2103b) |
+| Fri, 21 Nov 2025 08:41:56 GMT | I l forgot. | Joelle luxer | [Read More](https://medium.com/p/725e24f7b060) |
+| Fri, 21 Nov 2025 08:25:10 GMT | The Future of Executive Protection Services: Trends, Tech, and Training to Watch | The Safety Perspective | [Read More](https://medium.com/p/7679aaaf3860) |
 | Fri, 21 Nov 2025 08:18:13 GMT | Building a Cyber-Resilient Business: How Managed Antivirus Services Deliver Peace of Mind | ANSI Technologies | [Read More](https://medium.com/p/1bd06a628888) |
 | Fri, 21 Nov 2025 08:16:17 GMT | Which Online Cybersecurity Certification Is Best? | Janbask | [Read More](https://medium.com/p/091b84d12ab1) |
 | Fri, 21 Nov 2025 08:08:51 GMT | Knownsec Data Breach: What Happens When a State-Sponsored Cyber Arsenal Leaks? | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/b88939702682) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 00:02:27 GMT | API3:2023 BOPLA (Broken Object Property Level Authorization): Mass Assignment y Exposición de Datos | JPablo13 | [Read More](https://medium.com/p/6e14e90821e8) |
 | Thu, 20 Nov 2025 23:37:19 GMT | Leveraging GraphXR to Study Ransomware Threat Actors | Kineviz | [Read More](https://medium.com/p/01ce123deb44) |
 | Thu, 20 Nov 2025 23:06:20 GMT | Software Defined Networking (SDN): The Foundation of Modern Cloud Infrastructure | Ahmed Maher | [Read More](https://medium.com/p/8c79e9730d7d) |
-| Thu, 20 Nov 2025 23:05:30 GMT | ️‍ Magical Palindrome-HackTheBox | Anas Elsaba | [Read More](https://medium.com/p/7f4db21e40da) |
-| Thu, 20 Nov 2025 23:02:13 GMT | From EBITDA Consumption to EBITDA Propulsion: | Naren Gangavarapu | [Read More](https://medium.com/p/013f83cc391d) |
-| Thu, 20 Nov 2025 22:52:09 GMT | Capítulo 8 — A Origem | Kleber Andrade | [Read More](https://medium.com/p/bfe310199333) |
-| Thu, 20 Nov 2025 22:46:31 GMT | TryHackMe - Introduction to SOAR — Write-Up | CyberWithManos | [Read More](https://medium.com/p/344efd9a498e) |
-| Thu, 20 Nov 2025 22:46:01 GMT | ServiceNow AI Agents Can Be Hijacked With a Single Hidden Prompt | Cyber-AppSec | [Read More](https://medium.com/p/15c691a1b8c1) |
-| Thu, 20 Nov 2025 22:30:55 GMT | PROJETO mini-lab: Monitoramento e controle com #WAZUH >Atulizações: Honeypot< | EduKayky | [Read More](https://medium.com/p/6c785cc0cd99) |
-| Thu, 20 Nov 2025 22:18:21 GMT | Before You Deploy Another API, Read This: My Takeaways From Studying API Security Fundamentals | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/caa2f888ae22) |
-| Thu, 20 Nov 2025 22:12:01 GMT | Linux Malware Detection is Broken. We Built SemanticsAV to Fix It. | Sungkyun Jung | [Read More](https://medium.com/p/49468f515cf4) |
-| Thu, 20 Nov 2025 22:11:53 GMT | Cybersecurity for Small Biz Owners Who’d Rather Be Doing Literally Anything Else | Danny Kowalsky | [Read More](https://medium.com/p/f8ce5865424a) |
-| Thu, 20 Nov 2025 22:09:52 GMT | Mastering GitHub Actions: Building Enterprise-Grade Secret Management with HashiCorp Vault and OIDC | Salwan Mohamed | [Read More](https://medium.com/p/97e8fb550306) |
-| Thu, 20 Nov 2025 22:05:27 GMT | How to Access the Dark Web Safely in 2025 | Tor BBB | [Read More](https://medium.com/p/58a5dd053e60) |
-| Thu, 20 Nov 2025 21:58:02 GMT | WiFi Güvenliği Serisi #1: Görünmeyen Ağlar, Sinyallerin Dili ve Protokollerin Zafiyetleri | Keremduz | [Read More](https://medium.com/p/050a35c2c1e0) |
-| Thu, 20 Nov 2025 21:47:12 GMT | Why “Unreliable” UDP Is the Best Choice for VPNs | Vishnu Unnikrishnan | [Read More](https://medium.com/p/ae61e34176c3) |
