@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 21 Nov 2025 14:33:43 GMT | Best Security Companies San Jose for Full Protection | Direct Guard Services | [Read More](https://medium.com/p/90f10105064f) |
+| Fri, 21 Nov 2025 14:32:19 GMT | Protecting Our Ports | Abdelaziz moustakim | [Read More](https://medium.com/p/916ffd8e000a) |
+| Fri, 21 Nov 2025 14:27:41 GMT | When to Escalate: The Clear Protocols Unarmed Guards Follow in a Crisis | The Safety Perspective | [Read More](https://medium.com/p/3226666a75b5) |
+| Fri, 21 Nov 2025 14:22:59 GMT | Inside SillyAuthority: A Complete Pentest of a Purpose-Built AD Lab | Beri Contraster | [Read More](https://medium.com/p/7fc6978e18f8) |
+| Fri, 21 Nov 2025 14:22:30 GMT | From Firewalls to SIEM: What Layered Security Looks Like in Real Life | Vijay Kumar Gupta | [Read More](https://medium.com/p/34d4cb5a2f64) |
+| Fri, 21 Nov 2025 14:21:28 GMT | Write Up Arrow di Platform — Hackviser | Kang_BlankOn | [Read More](https://medium.com/p/5616b89d61e9) |
 | Fri, 21 Nov 2025 14:16:50 GMT | cyberscurity is a tas | Steven Chin | [Read More](https://medium.com/p/d46a0809a689) |
 | Fri, 21 Nov 2025 14:12:11 GMT | A Session Within a Session: Demystifying Real Application Security Contexts | Thomas Minne | [Read More](https://medium.com/p/278a096af84e) |
 | Fri, 21 Nov 2025 14:10:11 GMT | Use the FRIA Template Questionnaire — Structure is your best ally. | Sara Magdalena Goldberger | [Read More](https://medium.com/p/31891d0a23eb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 08:18:13 GMT | Building a Cyber-Resilient Business: How Managed Antivirus Services Deliver Peace of Mind | ANSI Technologies | [Read More](https://medium.com/p/1bd06a628888) |
 | Fri, 21 Nov 2025 08:16:17 GMT | Which Online Cybersecurity Certification Is Best? | Janbask | [Read More](https://medium.com/p/091b84d12ab1) |
 | Fri, 21 Nov 2025 08:08:51 GMT | Knownsec Data Breach: What Happens When a State-Sponsored Cyber Arsenal Leaks? | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/b88939702682) |
-| Fri, 21 Nov 2025 08:07:54 GMT | The Dawn of Agentic AI Threats: How Anthropic Disrupted the First AI-Orchestrated Cyber-Espionage… | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/dcfb81fc546b) |
-| Fri, 21 Nov 2025 08:02:09 GMT | Security: Protecting AI Systems and Data | Omar Aly | [Read More](https://medium.com/p/ba1f8c8b5ac9) |
-| Fri, 21 Nov 2025 08:02:09 GMT | Fixing IDOR in .NET: (Another) Guide to Broken Access Control | Kay Adelaja | [Read More](https://medium.com/p/b9655f1ec00a) |
-| Fri, 21 Nov 2025 08:02:05 GMT | Turning Trust Into Zero Trust | Raymon Epping | [Read More](https://medium.com/p/f2eb59f9935b) |
-| Fri, 21 Nov 2025 07:52:24 GMT | HIPAA Disaster Recovery Plan: Data Protection Beyond Compliance | SecureSlate | [Read More](https://medium.com/p/277fff24648b) |
-| Fri, 21 Nov 2025 07:49:50 GMT | Nella mente dell’hacker | Arturo Di Corinto | [Read More](https://medium.com/p/48bbce09804e) |
