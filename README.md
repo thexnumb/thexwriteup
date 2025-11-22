@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 21:16:43 GMT | A Tip For Cyber Security Interviews | Jbird | [Read More](https://medium.com/p/849b6667cd03) |
+| Sat, 22 Nov 2025 21:06:40 GMT | I Automated Finding Cache Deception In Web Applications | Ibtissam | [Read More](https://medium.com/p/13bd1d700a37) |
+| Sat, 22 Nov 2025 21:02:09 GMT | AS-REProasting: Attacking Accounts Without Kerberos Pre-Authentication | Cybersecurity Simplified | [Read More](https://medium.com/p/30e05ed397e9) |
+| Sat, 22 Nov 2025 20:48:04 GMT | JWT Privilege Escalation to Container RCE via Jinja2 SSTI “ Intigriti challenge” | Adham Heinrich | [Read More](https://medium.com/p/beadf4185f12) |
+| Sat, 22 Nov 2025 20:47:01 GMT | Detecting Zero-Day Web Attacks Using Cross-Domain Semi-Supervised Learning: A Paper Review | Md. Mostafijur Rahman | [Read More](https://medium.com/p/db2e7091fb50) |
+| Sat, 22 Nov 2025 20:42:02 GMT | Securing Docker Containers: Practical Hands-On Guide for Real-World DevSecOps | Ashhadali | [Read More](https://medium.com/p/4c2001c4486a) |
 | Sat, 22 Nov 2025 20:30:10 GMT | Token Impersonation using Metasploit | Ammar Ahmed | [Read More](https://medium.com/p/f2a5936d20ef) |
 | Sat, 22 Nov 2025 20:27:47 GMT | Breaking Pickle: How I Got Remote Code Execution Through Python Deserialization | Esom Eze | [Read More](https://medium.com/p/e579637fcb2e) |
 | Sat, 22 Nov 2025 20:26:40 GMT | How to Find a Lost Phone That Is Turned Off (2025 Method) | Julie White | [Read More](https://medium.com/p/b56bc4de278d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 11:41:51 GMT | No System Is Safe: Matrix Push C2 Turns Browser Notifications into Fileless Attacks Across Windows… | Germano Costi | [Read More](https://medium.com/p/f0abef453d48) |
 | Sat, 22 Nov 2025 11:35:36 GMT | Lock It Down: Your Complete Guide to Protecting Your Data from AI | Ravi | [Read More](https://medium.com/p/3e4a3e044170) |
 | Sat, 22 Nov 2025 11:33:49 GMT | SQL Injection: Determining the Number of Columns Returned by the Query | Aditya Bhatt | [Read More](https://medium.com/p/177263c206c6) |
-| Sat, 22 Nov 2025 11:31:48 GMT | TryHackMe:Padelify | Altair | [Read More](https://medium.com/p/9e69cdec4886) |
-| Sat, 22 Nov 2025 11:29:08 GMT | SQL Injection: Listing the Database Contents on Oracle | Aditya Bhatt | [Read More](https://medium.com/p/43fb897ba95a) |
-| Sat, 22 Nov 2025 11:20:04 GMT | Certification in Penetration Testing and Cyber Security in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/568ab0116d50) |
-| Sat, 22 Nov 2025 11:18:56 GMT | Linux Password Cracking Demystified: Hands-On Demos & Security Best Practices | Suman Gangopadhyay | [Read More](https://medium.com/p/db51040dcd7b) |
-| Sat, 22 Nov 2025 11:11:39 GMT | Black Friday VPN Deals 2025: Save Up to 90% on the Best VPNs | Haris Shahid | [Read More](https://medium.com/p/10ec8b40878a) |
-| Sat, 22 Nov 2025 11:10:51 GMT | ShadowScan: Exposing Hidden Android Apps, Cyber Frauds & Background Threats With AI-Powered Risk… | Sourabh Panchal | [Read More](https://medium.com/p/9a9f4729ed3b) |
