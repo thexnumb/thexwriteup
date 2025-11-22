@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 04:32:54 GMT | A Simple Clear Comparison of Three Popular Home Security Cameras | Mohammed Saleh | [Read More](https://medium.com/p/a1eb56e50720) |
+| Sat, 22 Nov 2025 04:27:08 GMT | service-vpn-proxy-guide | HashCrest | [Read More](https://medium.com/p/5dfdbe450b56) |
+| Sat, 22 Nov 2025 04:27:00 GMT | How CISM Improves Risk Management Capabilities | Dhanashri Bhale | [Read More](https://medium.com/p/c99b95a414c0) |
+| Sat, 22 Nov 2025 04:21:26 GMT | How to swap AGIB (AGIB) Contract Swap | Etherchain | [Read More](https://medium.com/p/06f5cf8afe77) |
 | Sat, 22 Nov 2025 04:10:43 GMT | Good UI/UX Isn’t Decoration. It’s Security in Disguise. | Melby Thomas | [Read More](https://medium.com/p/322131e917e1) |
 | Sat, 22 Nov 2025 03:57:18 GMT | PMAT: Dropper.Installer.msi.malz | Cwrw | [Read More](https://medium.com/p/afbb851b400f) |
 | Sat, 22 Nov 2025 03:57:13 GMT | PoC (Proof-of-Concept) Recordings on Bypass Disabled Functions | Jason Utama | [Read More](https://medium.com/p/f74caff7d9e3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 16:55:15 GMT | Why Verified Dark Web Links Matter for Safe Research | Tor BBB | [Read More](https://medium.com/p/83f7416a29a6) |
 | Fri, 21 Nov 2025 16:51:37 GMT | The Art of War in the Age of AI and Asymmetric Conflict | Cynthia Hickman | [Read More](https://medium.com/p/1ec0258edfa0) |
 | Fri, 21 Nov 2025 16:41:08 GMT | Why Building a Zero‑Dependencies Covert Data Collector Is Harder Than You Think | xsser01 | [Read More](https://medium.com/p/6a810961261a) |
-| Fri, 21 Nov 2025 16:40:50 GMT | In many societies battling serious insecurity, the causes are complex. | Lucky Ndupu | [Read More](https://medium.com/p/98611f82a3d6) |
-| Fri, 21 Nov 2025 16:36:34 GMT | Top Career Paths in Cybersecurity: From Analyst to CISO | Ferdi Edogawa | [Read More](https://medium.com/p/7c81c8dfcc46) |
-| Fri, 21 Nov 2025 16:33:55 GMT | 10 Practical Cloud & Enterprise Security Scenarios to Practice This Month | Muhammad Haider Tallal | [Read More](https://medium.com/p/79c16051b7f7) |
-| Fri, 21 Nov 2025 16:26:39 GMT | Phishing resistant solution — FIDO2 | Gaurav Gupta | [Read More](https://medium.com/p/2f6624ecf064) |
