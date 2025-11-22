@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 13:27:39 GMT | Cloudflare Outage 2025: Why the World Froze — And Why India Must Rethink Its Digital Future | Rushikesh Girase | [Read More](https://medium.com/p/2fdf9cbb4c33) |
 | Sat, 22 Nov 2025 13:16:13 GMT | It’s Not You, It’s Your Moves: How to Fix Unlikable Actions | Ruthie Owen-Moreno | [Read More](https://medium.com/p/37dcac8201d3) |
 | Sat, 22 Nov 2025 13:13:12 GMT | Nigeria Is Not Balanced But the Law Is Still the Law | Sadiq Oladapo Abdulfatah | [Read More](https://medium.com/p/12d92c328c08) |
 | Sat, 22 Nov 2025 13:01:55 GMT | XSS : A Direct Hit to Brand Trust Revenue, Reputation, Users | Sajjan Nehal | [Read More](https://medium.com/p/e15e42fb591c) |
@@ -53,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 09:43:39 GMT | Beyond the Costumes: Keeping Retail Spaces Safe This Halloween | sweetydahiyaa146 | [Read More](https://medium.com/p/b8ca35d415cc) |
 | Sat, 22 Nov 2025 09:31:43 GMT | Strengthening Linux File Security: Permission Audit with Linux Commands | Victor Nkereuwem | [Read More](https://medium.com/p/b4d6074a60fe) |
 | Sat, 22 Nov 2025 09:26:22 GMT | The Next Tech Mirage: Why the AI Gold Rush Is Cracking — and What Bubble Is Quietly Inflating… | Foodibites | [Read More](https://medium.com/p/6266e6b28b8a) |
+| Sat, 22 Nov 2025 09:25:25 GMT | File Uploads Done Right: Presigned URLs, Direct Uploads, and Chunking | Coders Stop | [Read More](https://medium.com/p/39e9c7cf1fe0) |
 | Sat, 22 Nov 2025 09:22:28 GMT | Unified Security Authentication Design for Microservices: A Deep Dive into Modern Architecture… | JIN | [Read More](https://medium.com/p/115a6e8f8e22) |
 | Sat, 22 Nov 2025 09:19:29 GMT | Kadena vs. Cardano: How Kadena’s Governance Transition Is a Real Test of Decentralization | Kristian Catering | [Read More](https://medium.com/p/667a35230f48) |
 | Sat, 22 Nov 2025 09:16:30 GMT | Introducing kali-clean — A Privacy-First Cleanup & Encrypted Backup Utility for Kali Linux | Jestin Samuel | [Read More](https://medium.com/p/0705498ce7f8) |
@@ -89,6 +91,7 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 06:52:49 GMT | Are you looking for the best security services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/13ed3cb01c4a) |
 | Sat, 22 Nov 2025 06:51:18 GMT | The Growing Demand for Security Services in Ambala | Lakshay Security | [Read More](https://medium.com/p/5c86d92f49e8) |
 | Sat, 22 Nov 2025 06:49:49 GMT | How My Small Decision Led Me to Big Success? | JetkingChandigarh | [Read More](https://medium.com/p/c12d57883ade) |
+| Sat, 22 Nov 2025 06:45:29 GMT | Root Me: HTTP — Directory indexing | Kamal S | [Read More](https://medium.com/p/45e8b195d6ca) |
 | Sat, 22 Nov 2025 06:43:29 GMT | Windows 11 Security Tips for Freelancers | Marina Anderson | [Read More](https://medium.com/p/87df2f15e2a9) |
 | Sat, 22 Nov 2025 06:42:36 GMT | The Death of Phishing: How AI Will Make Scams Impossible by 2030 | Aliyan Hidayatallah | [Read More](https://medium.com/p/fcb1d08c59f5) |
 | Sat, 22 Nov 2025 06:42:03 GMT | WAF Exploitation Techniques TryHackMe | TcyberSec007 | [Read More](https://medium.com/p/35f41f8a6195) |
@@ -111,6 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 05:15:16 GMT | When the Internet’s Safety Net Failed: Inside the Cloudflare Outage That Broke 20% of the Web | Amįń | [Read More](https://medium.com/p/66defeb59a73) |
 | Sat, 22 Nov 2025 05:13:01 GMT | What is Clickjacking Technique? | Soundaryaps | [Read More](https://medium.com/p/cae6b6305dad) |
 | Sat, 22 Nov 2025 05:10:04 GMT | AI Gone Rogue: When Machines Learn to Sabotage and Spy | Jay Cadmus | [Read More](https://medium.com/p/d8b2dee55bf4) |
-| Sat, 22 Nov 2025 05:09:22 GMT | From Exposing a National Leak to My First $2000USDT Pentest: A Story of Resilience and Purpose | Ivan Bernardo Pedrazas Rodriguez | [Read More](https://medium.com/p/706a9b9962b1) |
-| Sat, 22 Nov 2025 05:09:01 GMT | The Digital Shield: Why the US-Saudi AI and Cyber Alliance is America’s Next Geopolitical… | CCD-IS | [Read More](https://medium.com/p/55a99a286a0d) |
-| Sat, 22 Nov 2025 04:50:00 GMT | Cloud security has evolved dramatically. | Monu Jangra | [Read More](https://medium.com/p/c87156a1728e) |
