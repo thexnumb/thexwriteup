@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 03:02:25 GMT | SecretPictures: Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/17550b661d79) |
+| Sat, 22 Nov 2025 02:35:26 GMT | Anne ben hacker olucam — Red Teaming Giriş 1 | Hazal Karayiğit | [Read More](https://medium.com/p/fc3f8281fa8a) |
+| Sat, 22 Nov 2025 02:31:11 GMT | Job Description of Chief AI Officer | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/86ccf4596e1c) |
+| Sat, 22 Nov 2025 02:29:01 GMT | A potência de ser vulnerável | Giovanna Fraga | [Read More](https://medium.com/p/160074b7332e) |
+| Sat, 22 Nov 2025 02:07:01 GMT | Week 4: First Real User Test | ZAYN | [Read More](https://medium.com/p/d6ccea16dfdb) |
+| Sat, 22 Nov 2025 01:53:14 GMT | TryHackMe - Phishing Analysis Fundamentals — Write-Up | CyberWithManos | [Read More](https://medium.com/p/3c27ed85a855) |
 | Sat, 22 Nov 2025 01:20:16 GMT | Geolocating the Karadzic-Limonov Sarajevo Footage | Matt Deel | [Read More](https://medium.com/p/0bd1da35b4a0) |
 | Sat, 22 Nov 2025 01:16:35 GMT | The End of Blind Faith: How TroyVest’s Volatility Insurance is Reshaping Digital Asset Security | Troyvest | [Read More](https://medium.com/p/72e52f3ef268) |
 | Sat, 22 Nov 2025 01:16:30 GMT | The Pillars of Lasting Love: Why Security, Loyalty, and Trust Bring True Peace of Mind | Poly-blang | [Read More](https://medium.com/p/22c4da300434) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 16:03:59 GMT | Le Dispositif Security Champion @Axa France | Arnaud Foissac | [Read More](https://medium.com/p/3451401c95cd) |
 | Fri, 21 Nov 2025 15:53:36 GMT | TCP Three-Way Handshake: The First Step Every Cybersecurity Professional Must Understand | Aniket Nayak | [Read More](https://medium.com/p/6bfc44bd9ccf) |
 | Fri, 21 Nov 2025 15:45:58 GMT | Why is it Easier to Confide in Strangers? | Nivedita Mukherjee | [Read More](https://medium.com/p/dcc18026164d) |
-| Fri, 21 Nov 2025 15:44:15 GMT | Shifting Sands: The Three Forces Reshaping the Middle East’s Future | MASUM BILLAH | [Read More](https://medium.com/p/c8c5b1b7c441) |
-| Fri, 21 Nov 2025 15:42:46 GMT | Why Most Bug Bounty Hunters Fail — and How to Win | Hania Khan | [Read More](https://medium.com/p/3121ec732a22) |
-| Fri, 21 Nov 2025 15:42:39 GMT | Is Your AI Chatbot Whispering Your Secrets? Microsoft’s “Whisper Leak” Demystified | Akhilesh Yadav | [Read More](https://medium.com/p/51bcdd9450ec) |
-| Fri, 21 Nov 2025 15:41:52 GMT | Simple Cybersecurity Habits Everyone Needs. | Girish Dhamane | [Read More](https://medium.com/p/337228524d7b) |
-| Fri, 21 Nov 2025 15:41:45 GMT | Quantum Computing | BoNeZ | [Read More](https://medium.com/p/26ccafdfa952) |
-| Fri, 21 Nov 2025 15:39:17 GMT | Why Nuclei Kind of Feels Like Cheating (And That’s Okay) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f76004eaea22) |
