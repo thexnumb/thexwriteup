@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 06:43:29 GMT | Windows 11 Security Tips for Freelancers | Marina Anderson | [Read More](https://medium.com/p/87df2f15e2a9) |
+| Sat, 22 Nov 2025 06:39:02 GMT | How Smart Founders Learn Faster With AI (Without Losing Their Own Thinking) | Ai Founder Lab | [Read More](https://medium.com/p/eca138facbe8) |
+| Sat, 22 Nov 2025 06:23:57 GMT | Dark Art of Tap To Approve — MFA Fatigue | Samratthsingh | [Read More](https://medium.com/p/962c67619bb0) |
+| Sat, 22 Nov 2025 06:19:59 GMT | setup-proxy-android-guide | ChainDusk | [Read More](https://medium.com/p/e50bf38a03b0) |
 | Sat, 22 Nov 2025 06:05:38 GMT | The Real Reason Breaches Happen (and Why Fixing “Boring Stuff” Matters Most) | anthony k | [Read More](https://medium.com/p/ab70f477b127) |
 | Sat, 22 Nov 2025 06:03:03 GMT | Guarding the Future: Why Construction Site Security Matters More Than Ever | Group One Security Services Pty Ltd | [Read More](https://medium.com/p/3697bf7a6056) |
 | Sat, 22 Nov 2025 06:01:27 GMT | Wordpress Development Company in Ahmedabad - Wordpress Company in Ahmedabad | IBeam Infosys | [Read More](https://medium.com/p/c77b73b6d0c5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 18:39:31 GMT | How I Broke a Realtime Editor’s WebSocket Authentication | darivxe | [Read More](https://medium.com/p/b3cf6dffd380) |
 | Fri, 21 Nov 2025 18:32:10 GMT | SQL Injection Attacks A Beginner-Friendly Explainer for Ethical Hackers | Purushotham.R | [Read More](https://medium.com/p/8b7c8487fa8f) |
 | Fri, 21 Nov 2025 18:29:53 GMT | The Architecture of Browser Sandboxes: A Deep Dive into JavaScript Code Isolation | Aleksandr Grigorenko | [Read More](https://medium.com/p/2dc337703191) |
-| Fri, 21 Nov 2025 18:24:27 GMT | Hayabusa: A Powerful Log Analysis Tool for Forensics and Threat Hunting | Dean | [Read More](https://medium.com/p/a00fb3ae8635) |
-| Fri, 21 Nov 2025 18:13:01 GMT | TwoMillion — Easy Level Linux based Machine Writeup | Pradithareddy | [Read More](https://medium.com/p/e438d98aab56) |
-| Fri, 21 Nov 2025 18:10:50 GMT | How Identification Works in Cybersecurity Systems | Damir Kolobaric | [Read More](https://medium.com/p/05625d2533cc) |
-| Fri, 21 Nov 2025 17:54:34 GMT | API Keys vs JWT vs OAuth: Which Should You Use? | Navanath Jadhav | [Read More](https://medium.com/p/da51c461f554) |
