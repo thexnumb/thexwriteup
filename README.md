@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 16:12:49 GMT | Advanced Machine Learning using Spark MLlib | Salwa Fijri | [Read More](https://medium.com/p/5ce7894d06cf) |
+| Sat, 22 Nov 2025 16:11:31 GMT | Why Nobody Wants to Hire You Anymore | Vijay Kumar Gupta | [Read More](https://medium.com/p/3d6749cb5903) |
+| Sat, 22 Nov 2025 15:56:06 GMT | ️replicating the *‘absurdly’ successful Breakthrough Formula and Autonomous Researcher >Fails… | Berend Watchus | [Read More](https://medium.com/p/0e5bccbdebf0) |
+| Sat, 22 Nov 2025 15:48:56 GMT | THM - The Case: Seven Minutes on the Seine | Francesco Pastore | [Read More](https://medium.com/p/932083ad2b4c) |
+| Sat, 22 Nov 2025 15:41:35 GMT | Your Browser, Their Beam | Mail 17 | [Read More](https://medium.com/p/92d2603e59e3) |
+| Sat, 22 Nov 2025 15:41:29 GMT | Removing the Armor: The Case for Authentic Storytelling at Work | True North Journal by Chris Jelinek | [Read More](https://medium.com/p/c4513ed3ca07) |
 | Sat, 22 Nov 2025 15:35:36 GMT | Testing RAT Detection: Why Modern Defender Makes Blue Team Testing Harder | Raynard Waits | [Read More](https://medium.com/p/6d8f21af8607) |
 | Sat, 22 Nov 2025 15:35:21 GMT | Fix Your Website Bugs Fast — My New Upwork Service Is Live! | Globalantic | [Read More](https://medium.com/p/c24c5779d442) |
 | Sat, 22 Nov 2025 15:32:06 GMT | ChatGPT History Is Now on Google Search? Here’s Exactly How I Secured My Chats in 10 Minutes. | Saurabh Kumar Singh | [Read More](https://medium.com/p/c8c6d79dcb58) |
@@ -108,9 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 07:22:06 GMT | Letting My AI Fill Forms While Keeping Other Bots Out | Pradyumna Kaushal | [Read More](https://medium.com/p/4f96c1deffdd) |
 | Sat, 22 Nov 2025 07:20:25 GMT | Analyzing SSH Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/73d3e29db8d3) |
 | Sat, 22 Nov 2025 07:09:51 GMT | Understanding File Integrity Monitoring (FIM) in Wazuh SIEM | Pradeepkumaru | [Read More](https://medium.com/p/5618be559704) |
-| Sat, 22 Nov 2025 07:04:16 GMT | Cybersecurity Mesh Analysis & Reconnaissance | Don (δψ) Tadaya - DaScient - The Prompt Atlas | [Read More](https://medium.com/p/f2559e0ef4c2) |
-| Sat, 22 Nov 2025 06:57:29 GMT | How I Hacked Gmail Creds at a Tech Event With a $30 Device | Satyam Pathania | [Read More](https://medium.com/p/92c6df875ea5) |
-| Sat, 22 Nov 2025 06:55:27 GMT | Understanding Server Side Request Forgery (SSRF) — The Hidden Doorway into Your Servers | CyberSenpai | [Read More](https://medium.com/p/e0526f07221b) |
-| Sat, 22 Nov 2025 06:52:49 GMT | Are you looking for the best security services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/13ed3cb01c4a) |
-| Sat, 22 Nov 2025 06:51:18 GMT | The Growing Demand for Security Services in Ambala | Lakshay Security | [Read More](https://medium.com/p/5c86d92f49e8) |
-| Sat, 22 Nov 2025 06:49:49 GMT | How My Small Decision Led Me to Big Success? | JetkingChandigarh | [Read More](https://medium.com/p/c12d57883ade) |
