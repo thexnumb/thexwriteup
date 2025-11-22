@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 20:30:10 GMT | Token Impersonation using Metasploit | Ammar Ahmed | [Read More](https://medium.com/p/f2a5936d20ef) |
+| Sat, 22 Nov 2025 20:27:47 GMT | Breaking Pickle: How I Got Remote Code Execution Through Python Deserialization | Esom Eze | [Read More](https://medium.com/p/e579637fcb2e) |
+| Sat, 22 Nov 2025 20:26:40 GMT | How to Find a Lost Phone That Is Turned Off (2025 Method) | Julie White | [Read More](https://medium.com/p/b56bc4de278d) |
+| Sat, 22 Nov 2025 20:25:53 GMT | Today marks the beginning of my path into cybersecurity specifically the SOC Analyst track. | Ofoegbu Franklin | [Read More](https://medium.com/p/8a6eb5f069fe) |
 | Sat, 22 Nov 2025 20:17:03 GMT | Exploiting Django CVE‑2025‑64459 on TryHackMe: Complete Walkthrough | iIyas | [Read More](https://medium.com/p/59d353e1a7ac) |
 | Sat, 22 Nov 2025 20:07:05 GMT | Are spammers using your SaaS product as an attack vector? | Ted Spence | [Read More](https://medium.com/p/b6cbdb196d77) |
 | Sat, 22 Nov 2025 20:02:00 GMT | ⟐ Finding Prototype Pollution (CVE-2019–11358) in Week 3 of My IT Security Career | jsll | [Read More](https://medium.com/p/447352b6dfa8) |
+| Sat, 22 Nov 2025 20:00:05 GMT | The Audio File That Wasn’t: When Trust Became a Weapon | Gracie Emmanuel | [Read More](https://medium.com/p/38dded7531cc) |
 | Sat, 22 Nov 2025 19:53:15 GMT | Unlocking the Benefits of Verified HTX Accounts: What You Need to Know | Mstkiyando | [Read More](https://medium.com/p/f4dc2c8b4008) |
 | Sat, 22 Nov 2025 19:47:16 GMT | Quick ELK SIEM Lab Setup with Suricata | Geexirooz | [Read More](https://medium.com/p/153208d51777) |
 | Sat, 22 Nov 2025 19:46:38 GMT | iOS 26 Settings App Privacy: A Short Guide | Sean Andreas | [Read More](https://medium.com/p/5bc075c9255c) |
@@ -31,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 18:32:33 GMT | Building a Cybersecurity Home Lab — Part 4.3: Velociraptor Installation & Configuration | JBXSec | [Read More](https://medium.com/p/61ba0b6c9348) |
 | Sat, 22 Nov 2025 18:20:45 GMT | A new browser security report sheds light on the rising wave of enterprise-focused threats… | SCtoCS | [Read More](https://medium.com/p/db251bed2350) |
 | Sat, 22 Nov 2025 18:06:02 GMT | What Really Happens When You Type Your Password on a Website | Ujjawal Rohra | [Read More](https://medium.com/p/872a60e6d91d) |
+| Sat, 22 Nov 2025 18:05:57 GMT | TryHackMe - Tech_Supp0rt: 1 - Walkthough | Sornphut | [Read More](https://medium.com/p/5fc22e45b646) |
 | Sat, 22 Nov 2025 17:54:53 GMT | Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨ | Iski | [Read More](https://medium.com/p/a226dbacba7a) |
 | Sat, 22 Nov 2025 17:50:37 GMT | 8 Real, ProvenWays to Protect Your VPS From Constant Global Brute-Force Attacks | Trahulprabhu38 | [Read More](https://medium.com/p/07497c4db823) |
 | Sat, 22 Nov 2025 17:37:56 GMT | Zero Trust & Identity-First Security: The Future of Cyber Defense | Sruthi Punugu | [Read More](https://medium.com/p/3d5b3082c237) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 11:18:56 GMT | Linux Password Cracking Demystified: Hands-On Demos & Security Best Practices | Suman Gangopadhyay | [Read More](https://medium.com/p/db51040dcd7b) |
 | Sat, 22 Nov 2025 11:11:39 GMT | Black Friday VPN Deals 2025: Save Up to 90% on the Best VPNs | Haris Shahid | [Read More](https://medium.com/p/10ec8b40878a) |
 | Sat, 22 Nov 2025 11:10:51 GMT | ShadowScan: Exposing Hidden Android Apps, Cyber Frauds & Background Threats With AI-Powered Risk… | Sourabh Panchal | [Read More](https://medium.com/p/9a9f4729ed3b) |
-| Sat, 22 Nov 2025 11:04:06 GMT | The Secret Handshake: Securely Ingesting External Docker Images with Cross-Account AWS EventBridge… | Zivgl | [Read More](https://medium.com/p/3fca5e49ff96) |
-| Sat, 22 Nov 2025 11:03:17 GMT | Identity, Safety, and the Strange Ethics of Social Media | Tom Yonashiro | [Read More](https://medium.com/p/0c04b43ed5fd) |
-| Sat, 22 Nov 2025 10:55:31 GMT | Security Solution Module — Writeup | Mahir | [Read More](https://medium.com/p/69da70f4b165) |
-| Sat, 22 Nov 2025 10:50:26 GMT | AI Models Iearn Deception Through Training Shortcuts Anthropic Finds | Techsankar | [Read More](https://medium.com/p/6a0ec8a18d41) |
-| Sat, 22 Nov 2025 10:48:00 GMT | Cracking the Code: My Complete Writeup for the KPMG Campus Edition CTF 2025 | Madhavgarg | [Read More](https://medium.com/p/0ae108dde99a) |
-| Sat, 22 Nov 2025 10:47:54 GMT | How to Enable Password + 2FA Login on Arch Linux (GNOME + GDM) | Tolulope Abanikannda | [Read More](https://medium.com/p/2372080e6545) |
