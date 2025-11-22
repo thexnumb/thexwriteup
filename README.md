@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 10:18:29 GMT | Cloudflare Outage — What Went Wrong? | David SEHYEON Baek | [Read More](https://medium.com/p/2c54995d97f7) |
 | Sat, 22 Nov 2025 10:11:10 GMT | Web Authentication Types: A Practical Guide | Sunny Sharma | [Read More](https://medium.com/p/3ffd5c94b785) |
 | Sat, 22 Nov 2025 09:43:39 GMT | Beyond the Costumes: Keeping Retail Spaces Safe This Halloween | sweetydahiyaa146 | [Read More](https://medium.com/p/b8ca35d415cc) |
 | Sat, 22 Nov 2025 09:31:43 GMT | Strengthening Linux File Security: Permission Audit with Linux Commands | Victor Nkereuwem | [Read More](https://medium.com/p/b4d6074a60fe) |
@@ -113,4 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Fri, 21 Nov 2025 23:56:46 GMT | THM — The Case: Seven Minutes on the Seine — Writeup | Seth | [Read More](https://medium.com/p/ab6d7fe04e9a) |
 | Fri, 21 Nov 2025 23:36:30 GMT | Building More Secure C# .NET Applications with HashiCorp Vault | Ertugrul Kara | [Read More](https://medium.com/p/22c9067b3f8a) |
 | Fri, 21 Nov 2025 23:36:06 GMT | Defending Against Autonomous AI Cybercrime Agents | Andrew Kagan | [Read More](https://medium.com/p/db4075222a2f) |
-| Fri, 21 Nov 2025 23:32:25 GMT | In an age where nearly every aspect of our lives is connected to the internet — from banking and… | Joshua Wardak | [Read More](https://medium.com/p/ab5b45e9e03c) |
