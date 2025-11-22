@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 09:31:43 GMT | Strengthening Linux File Security: Permission Audit with Linux Commands | Victor Nkereuwem | [Read More](https://medium.com/p/b4d6074a60fe) |
+| Sat, 22 Nov 2025 09:26:22 GMT | The Next Tech Mirage: Why the AI Gold Rush Is Cracking — and What Bubble Is Quietly Inflating… | Foodibites | [Read More](https://medium.com/p/6266e6b28b8a) |
+| Sat, 22 Nov 2025 09:22:28 GMT | Unified Security Authentication Design for Microservices: A Deep Dive into Modern Architecture… | JIN | [Read More](https://medium.com/p/115a6e8f8e22) |
+| Sat, 22 Nov 2025 09:19:29 GMT | Kadena vs. Cardano: How Kadena’s Governance Transition Is a Real Test of Decentralization | Kristian Catering | [Read More](https://medium.com/p/667a35230f48) |
+| Sat, 22 Nov 2025 09:16:30 GMT | Introducing kali-clean — A Privacy-First Cleanup & Encrypted Backup Utility for Kali Linux | Jestin Samuel | [Read More](https://medium.com/p/0705498ce7f8) |
 | Sat, 22 Nov 2025 09:03:22 GMT | Stop Guessing After a Breach: How LeakRadar Shows You Exactly What Was Exposed | Alexandre Vandamme | [Read More](https://medium.com/p/5d835991ea4c) |
 | Sat, 22 Nov 2025 08:58:34 GMT | A Day in the Life of a Junior Security Analyst | Mohammed Allehyani | [Read More](https://medium.com/p/3f8729332bdf) |
 | Sat, 22 Nov 2025 08:54:36 GMT | How to Use auto_prepend_file in PHP Effectively | Smit Pipaliya | [Read More](https://medium.com/p/ee3917b668f6) |
@@ -109,8 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Fri, 21 Nov 2025 23:32:25 GMT | In an age where nearly every aspect of our lives is connected to the internet — from banking and… | Joshua Wardak | [Read More](https://medium.com/p/ab5b45e9e03c) |
 | Fri, 21 Nov 2025 23:27:48 GMT | TryHackMe - VulnNet: Node - Walkthough | Sornphut | [Read More](https://medium.com/p/51ffe59d8438) |
 | Fri, 21 Nov 2025 23:27:27 GMT | Voidly AI: A Smarter, Crowd-Powered VPN Built to Survive Modern Internet Blocks | Voidly | [Read More](https://medium.com/p/e13a7a2edf40) |
-| Fri, 21 Nov 2025 23:24:28 GMT | When Quantum Computing Kills Secrets: Why We’re All Too Late (But Still Need to Move) | Deep Thinking AI | [Read More](https://medium.com/p/235035b546ad) |
-| Fri, 21 Nov 2025 23:11:01 GMT | iOS 26 Just Made Apple Passwords So Good, I Stopped Using Other Managers | apple inside | [Read More](https://medium.com/p/87de3bd58531) |
-| Fri, 21 Nov 2025 23:09:15 GMT | From Gatekeeper to Enabler: The 10 Traps Holding Security Teams Back | Mehdi Khalilzadeh | [Read More](https://medium.com/p/2822cafb3d1b) |
-| Fri, 21 Nov 2025 22:49:41 GMT | Top 10 Cybersecurity Companies in Pakistan in 2026 | Muhammad Inam Abbasi | [Read More](https://medium.com/p/bc90349e793a) |
-| Fri, 21 Nov 2025 22:38:26 GMT | How I Bypassed 2FA and Earned My Second Bug Bounty | Hamza | [Read More](https://medium.com/p/4ac3f2412cf7) |
