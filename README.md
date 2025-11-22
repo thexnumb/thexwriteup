@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 17:35:29 GMT | How Burp Suite Decrypt HTTPS Traffic ? A Clear Explanation. | Bappe Sarker | [Read More](https://medium.com/p/dc421f414720) |
+| Sat, 22 Nov 2025 17:30:33 GMT | Top 7 Websites to Verify Your Pay pal Account in 2025 … | Pipejaj | [Read More](https://medium.com/p/1e5b15e54fd8) |
+| Sat, 22 Nov 2025 17:26:57 GMT | Y2K vs AI: Why Looking Back Can Help Us Move Forward | Tiglu Mekuria | [Read More](https://medium.com/p/cadd555043e3) |
+| Sat, 22 Nov 2025 17:25:43 GMT | What Happens When You Click Forgot Password (Part 2) | Nkiru Nwanolue | [Read More](https://medium.com/p/15649980a3d5) |
+| Sat, 22 Nov 2025 17:18:03 GMT | Stone Walls, Strong Kernels | Cube1214 | [Read More](https://medium.com/p/1d762064d658) |
+| Sat, 22 Nov 2025 17:13:57 GMT | Prompt Injection & Jailbreak Attacks: A Simple Guide to LLM Security | Tarunvoff | [Read More](https://medium.com/p/0fc6f16c8774) |
+| Sat, 22 Nov 2025 17:11:30 GMT | AS-REP Roasting Demystified: The Step-by-Step Guide to Offline Hash Harvesting | Muniza Badar | [Read More](https://medium.com/p/46ab4f265534) |
+| Sat, 22 Nov 2025 17:11:00 GMT | The Daily Download: Enterprise AI Ascends, Google Battles on All Fronts, and Cyber Woes Persist | Sully Greene | [Read More](https://medium.com/p/ff6340efbbc5) |
 | Sat, 22 Nov 2025 17:02:09 GMT | OSCP Grind - PG Practice - Levram | Mr Jokar | [Read More](https://medium.com/p/c33d78030465) |
 | Sat, 22 Nov 2025 17:00:31 GMT | Telecom Security CTF challenges | Ahmed_Salem | [Read More](https://medium.com/p/5bcb053ce554) |
 | Sat, 22 Nov 2025 16:44:10 GMT | Douglas cane | Mudiuth | [Read More](https://medium.com/p/21b574855574) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 Communications, Authentication, and Data Handling in
 Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 08:21:28 GMT | Wait.. what even is Cybersecurity? | flix | [Read More](https://medium.com/p/f58d81d05726) |
-| Sat, 22 Nov 2025 08:20:42 GMT | 7 Common API Security Mistakes Developers Make — And How to Fix Them Before They Turn Into Breaches | Rizqi Mulki | [Read More](https://medium.com/p/a41b959b2cc1) |
-| Sat, 22 Nov 2025 08:11:31 GMT | The Role of Cognitive Biases in Information Warfare (Psychological Warfare) | Ankiambom Feka | [Read More](https://medium.com/p/95353f3b8833) |
-| Sat, 22 Nov 2025 08:10:54 GMT | The Nmap Commands Every Beginner Should Know (But Nobody Explains Clearly) | Fateyaly | [Read More](https://medium.com/p/06934ff44f98) |
-| Sat, 22 Nov 2025 08:02:16 GMT | One Email, Lakhs Lost: Why Phishing Still Breaks SMBs in 2025 -How to Stop It | Aysha Saifi | [Read More](https://medium.com/p/59d842790a45) |
-| Sat, 22 Nov 2025 07:41:52 GMT | BOKO HARAM AMNESTY REMAINS A THREAT TO NIGERIA'S JUDICIAL INTEGRITY AND NATIONAL SECURITY. | Mary Mmesoma Maduekwe | [Read More](https://medium.com/p/97e77ff354f7) |
-| Sat, 22 Nov 2025 07:37:43 GMT | Discover the real reasons talented entrepreneurs and cricketers fail. | gridverse | [Read More](https://medium.com/p/8978e8ac2354) |
-| Sat, 22 Nov 2025 07:37:34 GMT | When Intelligence Turns Illegal - | Keerthi-Verse | [Read More](https://medium.com/p/d4c41fc1386f) |
-| Sat, 22 Nov 2025 07:24:51 GMT | Stronger Communities, Safer Lives: Your Guide to Reliable Security Services in Melbourne | Johnwilliam | [Read More](https://medium.com/p/d28f01b50ba0) |
