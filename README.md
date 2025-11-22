@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 07:04:16 GMT | Cybersecurity Mesh Analysis & Reconnaissance | Don (δψ) Tadaya - DaScient - The Prompt Atlas | [Read More](https://medium.com/p/f2559e0ef4c2) |
+| Sat, 22 Nov 2025 06:57:29 GMT | How I Hacked Gmail Creds at a Tech Event With a $30 Device | Satyam Pathania | [Read More](https://medium.com/p/92c6df875ea5) |
+| Sat, 22 Nov 2025 06:55:27 GMT | Understanding Server Side Request Forgery (SSRF) — The Hidden Doorway into Your Servers | CyberSenpai | [Read More](https://medium.com/p/e0526f07221b) |
+| Sat, 22 Nov 2025 06:52:49 GMT | Are you looking for the best security services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/13ed3cb01c4a) |
+| Sat, 22 Nov 2025 06:51:18 GMT | The Growing Demand for Security Services in Ambala | Lakshay Security | [Read More](https://medium.com/p/5c86d92f49e8) |
+| Sat, 22 Nov 2025 06:49:49 GMT | How My Small Decision Led Me to Big Success? | JetkingChandigarh | [Read More](https://medium.com/p/c12d57883ade) |
 | Sat, 22 Nov 2025 06:43:29 GMT | Windows 11 Security Tips for Freelancers | Marina Anderson | [Read More](https://medium.com/p/87df2f15e2a9) |
+| Sat, 22 Nov 2025 06:42:36 GMT | The Death of Phishing: How AI Will Make Scams Impossible by 2030 | Aliyan Hidayatallah | [Read More](https://medium.com/p/fcb1d08c59f5) |
+| Sat, 22 Nov 2025 06:42:03 GMT | WAF Exploitation Techniques TryHackMe | TcyberSec007 | [Read More](https://medium.com/p/35f41f8a6195) |
 | Sat, 22 Nov 2025 06:39:02 GMT | How Smart Founders Learn Faster With AI (Without Losing Their Own Thinking) | Ai Founder Lab | [Read More](https://medium.com/p/eca138facbe8) |
+| Sat, 22 Nov 2025 06:38:57 GMT | Cleaning Cybersecurity Logs in Google Sheets | Mersadi Freeman | [Read More](https://medium.com/p/2d3e467bd1f8) |
 | Sat, 22 Nov 2025 06:23:57 GMT | Dark Art of Tap To Approve — MFA Fatigue | Samratthsingh | [Read More](https://medium.com/p/962c67619bb0) |
 | Sat, 22 Nov 2025 06:19:59 GMT | setup-proxy-android-guide | ChainDusk | [Read More](https://medium.com/p/e50bf38a03b0) |
 | Sat, 22 Nov 2025 06:05:38 GMT | The Real Reason Breaches Happen (and Why Fixing “Boring Stuff” Matters Most) | anthony k | [Read More](https://medium.com/p/ab70f477b127) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 19:29:20 GMT | Write up Mautic [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/1bfbecbd6c4a) |
 | Fri, 21 Nov 2025 19:25:07 GMT | Explaining Bash in the Easiest Way- Part III | Vaishnav S | [Read More](https://medium.com/p/532fcf4c9f7d) |
 | Fri, 21 Nov 2025 19:22:18 GMT | Symbiotic — The Universal Staking Layer | Dibby | [Read More](https://medium.com/p/b4a44aeea667) |
-| Fri, 21 Nov 2025 19:16:08 GMT | IT Reminder: DOCUMENT. YOUR. WORK. | Ashe Sule | [Read More](https://medium.com/p/a110fe345a38) |
-| Fri, 21 Nov 2025 19:11:08 GMT | The Truth Detector and the AI Agent Crisis: | Jon Capriola | [Read More](https://medium.com/p/bfb67553cdbc) |
-| Fri, 21 Nov 2025 18:56:42 GMT | Stack Overflow: Your Silent Code Killer?  Why Blind Copy-Pasting is Tanking Your Go Projects | Puneet | [Read More](https://medium.com/p/005876311333) |
-| Fri, 21 Nov 2025 18:54:16 GMT | My Go-To Tools That Balance Risk, Cost, and Usability | Fook Hwa Tan | [Read More](https://medium.com/p/3a051ce43c59) |
-| Fri, 21 Nov 2025 18:52:40 GMT | The Resilience Formula: What Survivors Do Differently | Fook Hwa Tan | [Read More](https://medium.com/p/4ed867d92ebd) |
-| Fri, 21 Nov 2025 18:51:29 GMT | Unified BOM : The Complete Guide | Ratnadeep Dey Roy | [Read More](https://medium.com/p/99a7ca284023) |
-| Fri, 21 Nov 2025 18:39:31 GMT | How I Broke a Realtime Editor’s WebSocket Authentication | darivxe | [Read More](https://medium.com/p/b3cf6dffd380) |
-| Fri, 21 Nov 2025 18:32:10 GMT | SQL Injection Attacks A Beginner-Friendly Explainer for Ethical Hackers | Purushotham.R | [Read More](https://medium.com/p/8b7c8487fa8f) |
-| Fri, 21 Nov 2025 18:29:53 GMT | The Architecture of Browser Sandboxes: A Deep Dive into JavaScript Code Isolation | Aleksandr Grigorenko | [Read More](https://medium.com/p/2dc337703191) |
