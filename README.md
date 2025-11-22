@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 15:06:01 GMT | Why End‑to‑End Encryption is No Longer Enough for Business and Legal Communication | Letro | [Read More](https://medium.com/p/bc934391c51b) |
+| Sat, 22 Nov 2025 15:01:33 GMT | Manajeman Bandwidth dalam Jaringan Komputer | Salwa Fijri | [Read More](https://medium.com/p/de82445af540) |
+| Sat, 22 Nov 2025 14:59:33 GMT | Of Daffy Bastards And Goofy F*cks In The Land Of The Lost: Integration Anti-Patterns From The Dark… | Robert Broeckelmann | [Read More](https://medium.com/p/3e27668f5493) |
+| Sat, 22 Nov 2025 14:58:21 GMT | What Specific Insights Does Netflix Have? | Awais Khan | [Read More](https://medium.com/p/2db86379dbc7) |
+| Sat, 22 Nov 2025 14:57:25 GMT | Advent of Cyber Prep Track Tryhackme Walkthrough | Jawstar | [Read More](https://medium.com/p/fe63c04c8cce) |
+| Sat, 22 Nov 2025 14:56:43 GMT | True Love: How to Identify Someone Who Genuinely Cares | Misass | [Read More](https://medium.com/p/1897599ba2fa) |
+| Sat, 22 Nov 2025 14:51:54 GMT | How to “Actually” Hack a Facebook Account: Advanced Attack Vectors & Protection Methods | Alex | [Read More](https://medium.com/p/df743c59d529) |
+| Sat, 22 Nov 2025 14:46:13 GMT | Office 365 Backup Explained: Why Microsoft Doesn’t Fully Protect Your Data | EINITIAL24 | [Read More](https://medium.com/p/a14a6e325cc1) |
 | Sat, 22 Nov 2025 14:32:05 GMT | Building AI Agents That Don’t Get Hacked: 5 Security Failures We Made | Amįń | [Read More](https://medium.com/p/45bffdc8df94) |
 | Sat, 22 Nov 2025 14:25:03 GMT | SOC Investigation Report — LFI Attempt - LETSDEFEND | Soumodeep Das | [Read More](https://medium.com/p/b43d2d386e2b) |
 | Sat, 22 Nov 2025 14:18:09 GMT | When OAuth Tokens Turn Toxic: How ShinyHunters Exploited Gainsight to Steal Data from 200+… | valasala suhas | [Read More](https://medium.com/p/41af0d164552) |
@@ -106,11 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 06:19:59 GMT | setup-proxy-android-guide | ChainDusk | [Read More](https://medium.com/p/e50bf38a03b0) |
 | Sat, 22 Nov 2025 06:05:38 GMT | The Real Reason Breaches Happen (and Why Fixing “Boring Stuff” Matters Most) | anthony k | [Read More](https://medium.com/p/ab70f477b127) |
 | Sat, 22 Nov 2025 06:03:03 GMT | Guarding the Future: Why Construction Site Security Matters More Than Ever | Group One Security Services Pty Ltd | [Read More](https://medium.com/p/3697bf7a6056) |
-| Sat, 22 Nov 2025 06:01:27 GMT | Wordpress Development Company in Ahmedabad - Wordpress Company in Ahmedabad | IBeam Infosys | [Read More](https://medium.com/p/c77b73b6d0c5) |
-| Sat, 22 Nov 2025 05:48:55 GMT | Finding a Remote Code Execution (RCE) Vulnerability in a Client App in 2025 | Dhanavel | [Read More](https://medium.com/p/5651f9e96b6c) |
-| Sat, 22 Nov 2025 05:44:22 GMT | What’s so bad about being a generalist? | Cybergilly | [Read More](https://medium.com/p/fb57995aedbf) |
-| Sat, 22 Nov 2025 05:43:25 GMT | How Salesforce Commerce Cloud Is Redefining Modern E-Commerce? | Enstacked | [Read More](https://medium.com/p/19982d232800) |
-| Sat, 22 Nov 2025 05:42:05 GMT | The Linux Security Journey — Filesystem Capabilities | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6b143fb395c8) |
-| Sat, 22 Nov 2025 05:41:54 GMT | Trying not to internalize Nigeria | Chaptersbetweenmypages | [Read More](https://medium.com/p/95e07c5220a5) |
-| Sat, 22 Nov 2025 05:37:58 GMT | Stop Breaches Before They Start: Advanced Threat Prevention with Check Point & ANSI Technologies | ANSI Technologies | [Read More](https://medium.com/p/e19bcd8d4dc4) |
-| Sat, 22 Nov 2025 05:36:41 GMT | Software Setup Checklist for New Office Computers | Ask IT Support | [Read More](https://medium.com/p/007b638be59a) |
