@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 04:10:43 GMT | Good UI/UX Isn’t Decoration. It’s Security in Disguise. | Melby Thomas | [Read More](https://medium.com/p/322131e917e1) |
+| Sat, 22 Nov 2025 03:57:18 GMT | PMAT: Dropper.Installer.msi.malz | Cwrw | [Read More](https://medium.com/p/afbb851b400f) |
+| Sat, 22 Nov 2025 03:57:13 GMT | PoC (Proof-of-Concept) Recordings on Bypass Disabled Functions | Jason Utama | [Read More](https://medium.com/p/f74caff7d9e3) |
+| Sat, 22 Nov 2025 03:55:17 GMT | The Role of Lab-Based Learning in Cybersecurity Training: Benefits & Implementation | Cyberlancers | [Read More](https://medium.com/p/a4dcc01c60d7) |
+| Sat, 22 Nov 2025 03:54:31 GMT | VPN for Firestick: Best picks in 2025, tested on a 4K Max | Safelyo VPN | [Read More](https://medium.com/p/7c395498a2d7) |
 | Sat, 22 Nov 2025 03:22:01 GMT | How to use NordVPN on Xfinity router: 5 easy ways for all | Millie Bobby | [Read More](https://medium.com/p/e51b94976ca4) |
 | Sat, 22 Nov 2025 03:20:12 GMT | Secure Your Code: How AI Is Patching Vulnerabilities Before Hackers Do | Ram Milan | [Read More](https://medium.com/p/ca667bc15e6f) |
 | Sat, 22 Nov 2025 03:16:48 GMT | Discover the Exciting Stories of the IT Industry from the 2000s | Stacklegend | [Read More](https://medium.com/p/553881d89955) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 16:36:34 GMT | Top Career Paths in Cybersecurity: From Analyst to CISO | Ferdi Edogawa | [Read More](https://medium.com/p/7c81c8dfcc46) |
 | Fri, 21 Nov 2025 16:33:55 GMT | 10 Practical Cloud & Enterprise Security Scenarios to Practice This Month | Muhammad Haider Tallal | [Read More](https://medium.com/p/79c16051b7f7) |
 | Fri, 21 Nov 2025 16:26:39 GMT | Phishing resistant solution — FIDO2 | Gaurav Gupta | [Read More](https://medium.com/p/2f6624ecf064) |
-| Fri, 21 Nov 2025 16:26:33 GMT | Hack a Windows System Using PowerShell | Scofield O. Idehen | [Read More](https://medium.com/p/3737b8aabc95) |
-| Fri, 21 Nov 2025 16:25:21 GMT | Exposure Management vs Vulnerability Management: The Evolution in Cyber Risk | Spektion | [Read More](https://medium.com/p/fe0808b8516b) |
-| Fri, 21 Nov 2025 16:23:58 GMT | Hacking for Good: The Truth About Ethical Hackers in an Age of Constant Breaches | Paradise technologies Inc | [Read More](https://medium.com/p/27e1013d7f0e) |
-| Fri, 21 Nov 2025 16:21:51 GMT | Establishing Robust Security Measures and Ensuring Maximum System Uptime and Reliability | Amanda Francis | [Read More](https://medium.com/p/9e81a6c174bb) |
-| Fri, 21 Nov 2025 16:19:47 GMT | Meningkatkan Kinerja Bisnis Melalui Tingkat Keberhasilan Penggunaan Customer Relationship… | Amanda | [Read More](https://medium.com/p/535641f421c6) |
