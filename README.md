@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 14:32:05 GMT | Building AI Agents That Don’t Get Hacked: 5 Security Failures We Made | Amįń | [Read More](https://medium.com/p/45bffdc8df94) |
+| Sat, 22 Nov 2025 14:25:03 GMT | SOC Investigation Report — LFI Attempt - LETSDEFEND | Soumodeep Das | [Read More](https://medium.com/p/b43d2d386e2b) |
+| Sat, 22 Nov 2025 14:18:09 GMT | When OAuth Tokens Turn Toxic: How ShinyHunters Exploited Gainsight to Steal Data from 200+… | valasala suhas | [Read More](https://medium.com/p/41af0d164552) |
 | Sat, 22 Nov 2025 14:16:59 GMT | Unusual Typescript Part 0 | ilteris.yucel | [Read More](https://medium.com/p/38f826343273) |
 | Sat, 22 Nov 2025 13:58:00 GMT | Using Curl With SPNEGO | Robert Broeckelmann | [Read More](https://medium.com/p/a703c674d954) |
 | Sat, 22 Nov 2025 13:27:39 GMT | Cloudflare Outage 2025: Why the World Froze — And Why India Must Rethink Its Digital Future | Rushikesh Girase | [Read More](https://medium.com/p/2fdf9cbb4c33) |
@@ -111,6 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 05:41:54 GMT | Trying not to internalize Nigeria | Chaptersbetweenmypages | [Read More](https://medium.com/p/95e07c5220a5) |
 | Sat, 22 Nov 2025 05:37:58 GMT | Stop Breaches Before They Start: Advanced Threat Prevention with Check Point & ANSI Technologies | ANSI Technologies | [Read More](https://medium.com/p/e19bcd8d4dc4) |
 | Sat, 22 Nov 2025 05:36:41 GMT | Software Setup Checklist for New Office Computers | Ask IT Support | [Read More](https://medium.com/p/007b638be59a) |
-| Sat, 22 Nov 2025 05:33:21 GMT | Infinite Money Logic Flaw | Bash Overflow | [Read More](https://medium.com/p/9f1c8cd67f3f) |
-| Sat, 22 Nov 2025 05:19:01 GMT | The World on Edge: Understanding the Surge in Geopolitical Risk | katy Iris | [Read More](https://medium.com/p/b006582b2f02) |
-| Sat, 22 Nov 2025 05:15:16 GMT | When the Internet’s Safety Net Failed: Inside the Cloudflare Outage That Broke 20% of the Web | Amįń | [Read More](https://medium.com/p/66defeb59a73) |
