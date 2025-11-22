@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 01:20:16 GMT | Geolocating the Karadzic-Limonov Sarajevo Footage | Matt Deel | [Read More](https://medium.com/p/0bd1da35b4a0) |
+| Sat, 22 Nov 2025 01:16:35 GMT | The End of Blind Faith: How TroyVest’s Volatility Insurance is Reshaping Digital Asset Security | Troyvest | [Read More](https://medium.com/p/72e52f3ef268) |
+| Sat, 22 Nov 2025 01:16:30 GMT | The Pillars of Lasting Love: Why Security, Loyalty, and Trust Bring True Peace of Mind | Poly-blang | [Read More](https://medium.com/p/22c4da300434) |
+| Sat, 22 Nov 2025 01:06:40 GMT | Why Should Women Worry About Men? | Fower Leo | [Read More](https://medium.com/p/765e4bc1e15c) |
+| Sat, 22 Nov 2025 00:28:31 GMT | Installing Windows 10 on VirtualBox: A Beginner-Friendly Walkthrough | Chinenye Nwaneti (HexNye) | [Read More](https://medium.com/p/5e070b90b3e3) |
+| Sat, 22 Nov 2025 00:18:33 GMT | Writing Pentest Reports | Demegorash | [Read More](https://medium.com/p/aaf512305964) |
+| Sat, 22 Nov 2025 00:09:53 GMT | A Real-World Lesson: The Missing DMARC Configuration | Riyao Lin | [Read More](https://medium.com/p/6b727c12c3e5) |
+| Sat, 22 Nov 2025 00:06:52 GMT | Understanding DNS Security — A Quick Guide | Riyao Lin | [Read More](https://medium.com/p/d0fe8b8e5d2c) |
+| Sat, 22 Nov 2025 00:02:04 GMT | API3:2023 BOPLA (Broken Object Property Level Authorization): Mass Assignment and Data Exposure | JPablo13 | [Read More](https://medium.com/p/9ba6e432a1ea) |
+| Sat, 22 Nov 2025 00:02:04 GMT | Google DeepMind’s SIMA 2: Is it Quietly Redefining AI in Virtual Worlds? | Akhilesh Yadav | [Read More](https://medium.com/p/091609f6d767) |
+| Fri, 21 Nov 2025 23:56:46 GMT | THM — The Case: Seven Minutes on the Seine — Writeup | Seth | [Read More](https://medium.com/p/ab6d7fe04e9a) |
+| Fri, 21 Nov 2025 23:36:30 GMT | Building More Secure C# .NET Applications with HashiCorp Vault | Ertugrul Kara | [Read More](https://medium.com/p/22c9067b3f8a) |
+| Fri, 21 Nov 2025 23:36:06 GMT | Defending Against Autonomous AI Cybercrime Agents | Andrew Kagan | [Read More](https://medium.com/p/db4075222a2f) |
 | Fri, 21 Nov 2025 23:32:25 GMT | In an age where nearly every aspect of our lives is connected to the internet — from banking and… | Joshua Wardak | [Read More](https://medium.com/p/ab5b45e9e03c) |
 | Fri, 21 Nov 2025 23:27:27 GMT | Voidly AI: A Smarter, Crowd-Powered VPN Built to Survive Modern Internet Blocks | Voidly | [Read More](https://medium.com/p/e13a7a2edf40) |
 | Fri, 21 Nov 2025 23:24:28 GMT | When Quantum Computing Kills Secrets: Why We’re All Too Late (But Still Need to Move) | Deep Thinking AI | [Read More](https://medium.com/p/235035b546ad) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 15:41:52 GMT | Simple Cybersecurity Habits Everyone Needs. | Girish Dhamane | [Read More](https://medium.com/p/337228524d7b) |
 | Fri, 21 Nov 2025 15:41:45 GMT | Quantum Computing | BoNeZ | [Read More](https://medium.com/p/26ccafdfa952) |
 | Fri, 21 Nov 2025 15:39:17 GMT | Why Nuclei Kind of Feels Like Cheating (And That’s Okay) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f76004eaea22) |
-| Fri, 21 Nov 2025 15:35:12 GMT | 2 ATO via CSRF by using the same mechanism in different positions | CANITEY | [Read More](https://medium.com/p/20188133c625) |
-| Fri, 21 Nov 2025 15:34:43 GMT | When the Internet Stalls: What the Cloudflare Outage Teaches Developers and Users | Stefano Di Cecco | [Read More](https://medium.com/p/83375d412fba) |
-| Fri, 21 Nov 2025 15:34:02 GMT | HTB — Crocodile | Lautaro Robayna | [Read More](https://medium.com/p/c2746f7e3c57) |
-| Fri, 21 Nov 2025 15:22:58 GMT | Write Up File Hunter di Platform — Hackviser | Kang_BlankOn | [Read More](https://medium.com/p/054668fb86f3) |
-| Fri, 21 Nov 2025 15:21:40 GMT | NTFS ADS for Cyber Security Man’s | zerbaliy3v | [Read More](https://medium.com/p/992cadea900b) |
-| Fri, 21 Nov 2025 15:18:33 GMT | Military Intelligence and Strategic Operations in Modern Conflicts | Andrey Spiridonov | [Read More](https://medium.com/p/9bfe7f0da23f) |
-| Fri, 21 Nov 2025 15:07:50 GMT | The Front Door Was Wide Open: Lessons from Lynx Ransomware | Abdenour Bourennane | [Read More](https://medium.com/p/b05e907c6c73) |
-| Fri, 21 Nov 2025 15:03:27 GMT | Cyber Briefing: 2025.11.21 | CyberMaterial | [Read More](https://medium.com/p/e3713476a8ae) |
-| Fri, 21 Nov 2025 15:01:13 GMT | Automated Pipeline Setup for IOC Detection: Speed and Scale in Cybersecurity | Esra Kayhan | [Read More](https://medium.com/p/e4f7469f52bb) |
-| Fri, 21 Nov 2025 15:00:03 GMT | High-Sensitivity Use-Case Design for SOC: Reducing Noise and Detecting Real Threats | Esra Kayhan | [Read More](https://medium.com/p/fc5fcca3384f) |
-| Fri, 21 Nov 2025 14:59:02 GMT | When Trusted Sites Turn Malicious: How APT24’s ‘BadAudio’ Is Redefining Cyber Espionage | Jasmitha | [Read More](https://medium.com/p/b74de3139913) |
-| Fri, 21 Nov 2025 14:58:39 GMT | A BILL | Keith Hayes | [Read More](https://medium.com/p/6f1bad4e5f17) |
-| Fri, 21 Nov 2025 14:56:24 GMT | Why Do Fractional CISOs Get Sideways With Your MSP? | IOmergent | [Read More](https://medium.com/p/c9e72eeb5e53) |
