@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 05:36:41 GMT | Software Setup Checklist for New Office Computers | Ask IT Support | [Read More](https://medium.com/p/007b638be59a) |
+| Sat, 22 Nov 2025 05:33:21 GMT | Infinite Money Logic Flaw | Bash Overflow | [Read More](https://medium.com/p/9f1c8cd67f3f) |
 | Sat, 22 Nov 2025 05:19:01 GMT | The World on Edge: Understanding the Surge in Geopolitical Risk | katy Iris | [Read More](https://medium.com/p/b006582b2f02) |
+| Sat, 22 Nov 2025 05:15:16 GMT | When the Internet’s Safety Net Failed: Inside the Cloudflare Outage That Broke 20% of the Web | Amįń | [Read More](https://medium.com/p/66defeb59a73) |
 | Sat, 22 Nov 2025 05:13:01 GMT | What is Clickjacking Technique? | Soundaryaps | [Read More](https://medium.com/p/cae6b6305dad) |
 | Sat, 22 Nov 2025 05:10:04 GMT | AI Gone Rogue: When Machines Learn to Sabotage and Spy | Jay Cadmus | [Read More](https://medium.com/p/d8b2dee55bf4) |
 | Sat, 22 Nov 2025 05:09:22 GMT | From Exposing a National Leak to My First $2000USDT Pentest: A Story of Resilience and Purpose | Ivan Bernardo Pedrazas Rodriguez | [Read More](https://medium.com/p/706a9b9962b1) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 17:29:32 GMT | From Fundamentals to Mastery: Navigating the World of Modern Software Engineering and Cybersecurity | Boutmedjet Abd elmoudjib | [Read More](https://medium.com/p/81dae0496760) |
 | Fri, 21 Nov 2025 17:28:43 GMT | Palo Alto Is Buying Its Way Into Observability. The Hard Part Starts Now. | Nick Heudecker | [Read More](https://medium.com/p/5d1deae6453e) |
 | Fri, 21 Nov 2025 17:26:36 GMT | Microsoft Sentinel platform — Unified, Graph-enabled, and AI-ready Security | Mechanics Team | [Read More](https://medium.com/p/9cbf41dd5056) |
-| Fri, 21 Nov 2025 17:19:32 GMT | BOF Writeup (Pwnable.kr) | Ivan Daňo | [Read More](https://medium.com/p/c3a63a1c15e7) |
-| Fri, 21 Nov 2025 17:12:52 GMT | From source code review to Access to Admin Panel | Mohammed Alsaqqaf | [Read More](https://medium.com/p/ad51b847ee78) |
-| Fri, 21 Nov 2025 17:03:17 GMT | My First Week in API Security: Lessons, Labs, and Learning the Hard Truths About APIs | Maryblessing | [Read More](https://medium.com/p/592d84882d05) |
