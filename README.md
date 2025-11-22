@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 23:21:55 GMT | “Why Your Phone Is the Newest Target for Cyber Attacks (and How to Stay Safe)” | Grace Chukwunta | [Read More](https://medium.com/p/7a09301c95de) |
 | Sat, 22 Nov 2025 23:11:15 GMT | Robust Security & Authentication Best Practices in Next.js 16 | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/6265d2d41b13) |
 | Sat, 22 Nov 2025 23:05:35 GMT | New in OWASP Top 10 2025: A03 and A10 Explained in Simple Terms | Yug Shah | [Read More](https://medium.com/p/1cdcbc7af3de) |
 | Sat, 22 Nov 2025 22:56:45 GMT | A Hybrid AI Approach for Cyberattack Detection: Combining Apriori, Decision Tree, DBSCAN, and RAG | Omar farque | [Read More](https://medium.com/p/fb9b7c425360) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 13:13:12 GMT | Nigeria Is Not Balanced But the Law Is Still the Law | Sadiq Oladapo Abdulfatah | [Read More](https://medium.com/p/12d92c328c08) |
 | Sat, 22 Nov 2025 13:01:55 GMT | XSS : A Direct Hit to Brand Trust Revenue, Reputation, Users | Sajjan Nehal | [Read More](https://medium.com/p/e15e42fb591c) |
 | Sat, 22 Nov 2025 12:58:45 GMT | DockerLabs Writeup — cineHack (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d9685c864544) |
-| Sat, 22 Nov 2025 12:55:29 GMT | TryHackMe Writeup: Lian_yu | Berkay AĞGÜL | [Read More](https://medium.com/p/4777e34a06b3) |
