@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 18:59:30 GMT | “SOC140 — Phishing Mail Detected — Suspicious Task Scheduler — EventID: 82” — Letsdefend.io | Moksh Singla | [Read More](https://medium.com/p/1db9f8a2697c) |
+| Sat, 22 Nov 2025 18:52:43 GMT | STORIA, SVILUPPO E TRASFORMAZIONE DELL’INTELLIGENCE ITALIANA (1919–2025) | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/8e9d416c351e) |
+| Sat, 22 Nov 2025 18:51:44 GMT | Undercover Statecraft in Post-Soviet Russia: A Structural Analysis of Embedded Security Operations… | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/ced2e147a865) |
 | Sat, 22 Nov 2025 18:35:04 GMT | Digispark ATTINY85 and Sliver | Devin Boyle | [Read More](https://medium.com/p/9713dee99b95) |
 | Sat, 22 Nov 2025 18:33:38 GMT | IT Architecture Career Paths. | Mohammed Brückner | [Read More](https://medium.com/p/0b2a6b093e85) |
 | Sat, 22 Nov 2025 18:32:56 GMT | Siber Güvenlikte Pusula: Çevik Adım ve Doğru Öncelik | Edanur Örnek | [Read More](https://medium.com/p/2db495cfecaf) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 09:26:22 GMT | The Next Tech Mirage: Why the AI Gold Rush Is Cracking — and What Bubble Is Quietly Inflating… | Foodibites | [Read More](https://medium.com/p/6266e6b28b8a) |
 | Sat, 22 Nov 2025 09:25:25 GMT | File Uploads Done Right: Presigned URLs, Direct Uploads, and Chunking | Coders Stop | [Read More](https://medium.com/p/39e9c7cf1fe0) |
 | Sat, 22 Nov 2025 09:22:28 GMT | Unified Security Authentication Design for Microservices: A Deep Dive into Modern Architecture… | JIN | [Read More](https://medium.com/p/115a6e8f8e22) |
-| Sat, 22 Nov 2025 09:19:29 GMT | Kadena vs. Cardano: How Kadena’s Governance Transition Is a Real Test of Decentralization | Kristian Catering | [Read More](https://medium.com/p/667a35230f48) |
-| Sat, 22 Nov 2025 09:16:30 GMT | Introducing kali-clean — A Privacy-First Cleanup & Encrypted Backup Utility for Kali Linux | Jestin Samuel | [Read More](https://medium.com/p/0705498ce7f8) |
-| Sat, 22 Nov 2025 09:03:22 GMT | Stop Guessing After a Breach: How LeakRadar Shows You Exactly What Was Exposed | Alexandre Vandamme | [Read More](https://medium.com/p/5d835991ea4c) |
