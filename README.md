@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 07:37:43 GMT | Discover the real reasons talented entrepreneurs and cricketers fail. | gridverse | [Read More](https://medium.com/p/8978e8ac2354) |
+| Sat, 22 Nov 2025 07:24:51 GMT | Stronger Communities, Safer Lives: Your Guide to Reliable Security Services in Melbourne | Johnwilliam | [Read More](https://medium.com/p/d28f01b50ba0) |
+| Sat, 22 Nov 2025 07:24:11 GMT | Is Cybersecurity Being Replaced by AI? The Truth for 2025 & Beyond | Surya Kumar | [Read More](https://medium.com/p/815cf626a793) |
+| Sat, 22 Nov 2025 07:22:10 GMT | How I Saved a Medical Facility with Their Cybersecurity Part 1 | Red | [Read More](https://medium.com/p/4324aa482653) |
+| Sat, 22 Nov 2025 07:22:06 GMT | Letting My AI Fill Forms While Keeping Other Bots Out | Pradyumna Kaushal | [Read More](https://medium.com/p/4f96c1deffdd) |
+| Sat, 22 Nov 2025 07:20:25 GMT | Analyzing SSH Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/73d3e29db8d3) |
+| Sat, 22 Nov 2025 07:09:51 GMT | Understanding File Integrity Monitoring (FIM) in Wazuh SIEM | Pradeepkumaru | [Read More](https://medium.com/p/5618be559704) |
 | Sat, 22 Nov 2025 07:04:16 GMT | Cybersecurity Mesh Analysis & Reconnaissance | Don (δψ) Tadaya - DaScient - The Prompt Atlas | [Read More](https://medium.com/p/f2559e0ef4c2) |
 | Sat, 22 Nov 2025 06:57:29 GMT | How I Hacked Gmail Creds at a Tech Event With a $30 Device | Satyam Pathania | [Read More](https://medium.com/p/92c6df875ea5) |
 | Sat, 22 Nov 2025 06:55:27 GMT | Understanding Server Side Request Forgery (SSRF) — The Hidden Doorway into Your Servers | CyberSenpai | [Read More](https://medium.com/p/e0526f07221b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 20:42:05 GMT | Pause Before You Browse—Microsoft Marketplace Risks You Need to Know | O Alquimista | [Read More](https://medium.com/p/f5d729225ba3) |
 | Fri, 21 Nov 2025 20:29:00 GMT | “The New Power Duo: How IT Management and Business Strategy Grow Stronger Together in 2025” | Muqaddas Akhter | [Read More](https://medium.com/p/d5adf9fd2f48) |
 | Fri, 21 Nov 2025 20:28:37 GMT | Siber Tehdit Avcılığına Giriş: Velociraptor ile Kalıcılık (Persistence) Analizi | Emre ESER | [Read More](https://medium.com/p/dc59c17a2fe4) |
-| Fri, 21 Nov 2025 20:24:09 GMT | Bypassing University Email Verification: A Logical Flaw in a Saudi Cybersecurity Education Platform | A7medsaber | [Read More](https://medium.com/p/3073721ce9bd) |
-| Fri, 21 Nov 2025 20:20:30 GMT | The Psychology of Red Team Operators: Why You Think Differently | Maxwell Cross | [Read More](https://medium.com/p/753d26b7d129) |
-| Fri, 21 Nov 2025 19:48:55 GMT | Open RAN Architecture & Principles | Asitha Kodithuwakku | [Read More](https://medium.com/p/a1751bb421c7) |
-| Fri, 21 Nov 2025 19:44:21 GMT | Cybersecurity News Review — Week 47 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/df7ef1d67f1b) |
-| Fri, 21 Nov 2025 19:29:20 GMT | Write up Mautic [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/1bfbecbd6c4a) |
-| Fri, 21 Nov 2025 19:25:07 GMT | Explaining Bash in the Easiest Way- Part III | Vaishnav S | [Read More](https://medium.com/p/532fcf4c9f7d) |
-| Fri, 21 Nov 2025 19:22:18 GMT | Symbiotic — The Universal Staking Layer | Dibby | [Read More](https://medium.com/p/b4a44aeea667) |
