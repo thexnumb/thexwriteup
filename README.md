@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 14:16:59 GMT | Unusual Typescript Part 0 | ilteris.yucel | [Read More](https://medium.com/p/38f826343273) |
+| Sat, 22 Nov 2025 13:58:00 GMT | Using Curl With SPNEGO | Robert Broeckelmann | [Read More](https://medium.com/p/a703c674d954) |
 | Sat, 22 Nov 2025 13:27:39 GMT | Cloudflare Outage 2025: Why the World Froze — And Why India Must Rethink Its Digital Future | Rushikesh Girase | [Read More](https://medium.com/p/2fdf9cbb4c33) |
 | Sat, 22 Nov 2025 13:16:13 GMT | It’s Not You, It’s Your Moves: How to Fix Unlikable Actions | Ruthie Owen-Moreno | [Read More](https://medium.com/p/37dcac8201d3) |
 | Sat, 22 Nov 2025 13:13:12 GMT | Nigeria Is Not Balanced But the Law Is Still the Law | Sadiq Oladapo Abdulfatah | [Read More](https://medium.com/p/12d92c328c08) |
@@ -112,5 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 05:33:21 GMT | Infinite Money Logic Flaw | Bash Overflow | [Read More](https://medium.com/p/9f1c8cd67f3f) |
 | Sat, 22 Nov 2025 05:19:01 GMT | The World on Edge: Understanding the Surge in Geopolitical Risk | katy Iris | [Read More](https://medium.com/p/b006582b2f02) |
 | Sat, 22 Nov 2025 05:15:16 GMT | When the Internet’s Safety Net Failed: Inside the Cloudflare Outage That Broke 20% of the Web | Amįń | [Read More](https://medium.com/p/66defeb59a73) |
-| Sat, 22 Nov 2025 05:13:01 GMT | What is Clickjacking Technique? | Soundaryaps | [Read More](https://medium.com/p/cae6b6305dad) |
-| Sat, 22 Nov 2025 05:10:04 GMT | AI Gone Rogue: When Machines Learn to Sabotage and Spy | Jay Cadmus | [Read More](https://medium.com/p/d8b2dee55bf4) |
