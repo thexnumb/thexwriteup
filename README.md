@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 13:16:13 GMT | It’s Not You, It’s Your Moves: How to Fix Unlikable Actions | Ruthie Owen-Moreno | [Read More](https://medium.com/p/37dcac8201d3) |
+| Sat, 22 Nov 2025 13:13:12 GMT | Nigeria Is Not Balanced But the Law Is Still the Law | Sadiq Oladapo Abdulfatah | [Read More](https://medium.com/p/12d92c328c08) |
+| Sat, 22 Nov 2025 13:01:55 GMT | XSS : A Direct Hit to Brand Trust Revenue, Reputation, Users | Sajjan Nehal | [Read More](https://medium.com/p/e15e42fb591c) |
+| Sat, 22 Nov 2025 12:58:45 GMT | DockerLabs Writeup — cineHack (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d9685c864544) |
+| Sat, 22 Nov 2025 12:55:29 GMT | TryHackMe Writeup: Lian_yu | Berkay AĞGÜL | [Read More](https://medium.com/p/4777e34a06b3) |
+| Sat, 22 Nov 2025 12:49:29 GMT | Pass-the-Hash: The Attack That Turns One Password Hash into Total Domain Access | Aufarifqi | [Read More](https://medium.com/p/da142d56326d) |
+| Sat, 22 Nov 2025 12:48:18 GMT | 1s lag + HR Dashboard = $0 income | WithWander.com | [Read More](https://medium.com/p/bd050ac8bf66) |
+| Sat, 22 Nov 2025 12:41:00 GMT | ‍♂️Why Vulnerability Is the Superpower Every Leader Needs | The Roots | [Read More](https://medium.com/p/da566838edb4) |
 | Sat, 22 Nov 2025 12:34:51 GMT | Cybersecurity for Beginners: A Deep Dive into Hacking, Linux & Networking | Jairaj R | [Read More](https://medium.com/p/1a30e262614a) |
 | Sat, 22 Nov 2025 12:29:19 GMT | What a Billion Cyberattacks Reveal in 2025 | Px Mx | [Read More](https://medium.com/p/4e3c33ad6fbe) |
 | Sat, 22 Nov 2025 12:27:19 GMT | How I Ended Up in the Top 25 Security Researchers Recognized by the State of California | Rhythm | [Read More](https://medium.com/p/620f2d446763) |
@@ -106,11 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 05:09:22 GMT | From Exposing a National Leak to My First $2000USDT Pentest: A Story of Resilience and Purpose | Ivan Bernardo Pedrazas Rodriguez | [Read More](https://medium.com/p/706a9b9962b1) |
 | Sat, 22 Nov 2025 05:09:01 GMT | The Digital Shield: Why the US-Saudi AI and Cyber Alliance is America’s Next Geopolitical… | CCD-IS | [Read More](https://medium.com/p/55a99a286a0d) |
 | Sat, 22 Nov 2025 04:50:00 GMT | Cloud security has evolved dramatically. | Monu Jangra | [Read More](https://medium.com/p/c87156a1728e) |
-| Sat, 22 Nov 2025 04:46:52 GMT | When Cyber Attacks Hit the Bottom Line: Protecting Your Business from Digital Disruption | Steven Chin | [Read More](https://medium.com/p/d8f19d55a57d) |
-| Sat, 22 Nov 2025 04:32:54 GMT | A Simple Clear Comparison of Three Popular Home Security Cameras | Mohammed Saleh | [Read More](https://medium.com/p/a1eb56e50720) |
-| Sat, 22 Nov 2025 04:27:08 GMT | service-vpn-proxy-guide | HashCrest | [Read More](https://medium.com/p/5dfdbe450b56) |
-| Sat, 22 Nov 2025 04:27:00 GMT | How CISM Improves Risk Management Capabilities | Dhanashri Bhale | [Read More](https://medium.com/p/c99b95a414c0) |
-| Sat, 22 Nov 2025 04:21:26 GMT | How to swap AGIB (AGIB) Contract Swap | Etherchain | [Read More](https://medium.com/p/06f5cf8afe77) |
-| Sat, 22 Nov 2025 04:10:43 GMT | Good UI/UX Isn’t Decoration. It’s Security in Disguise. | Melby Thomas | [Read More](https://medium.com/p/322131e917e1) |
-| Sat, 22 Nov 2025 03:57:18 GMT | PMAT: Dropper.Installer.msi.malz | Cwrw | [Read More](https://medium.com/p/afbb851b400f) |
-| Sat, 22 Nov 2025 03:57:13 GMT | PoC (Proof-of-Concept) Recordings on Bypass Disabled Functions | Jason Utama | [Read More](https://medium.com/p/f74caff7d9e3) |
