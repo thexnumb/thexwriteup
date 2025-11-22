@@ -12,10 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 21:27:23 GMT | Hardening Kubernetes Environments | Niraj Kumar | [Read More](https://medium.com/p/ed515fb87b42) |
 | Sat, 22 Nov 2025 21:16:43 GMT | A Tip For Cyber Security Interviews | Jbird | [Read More](https://medium.com/p/849b6667cd03) |
 | Sat, 22 Nov 2025 21:06:40 GMT | I Automated Finding Cache Deception In Web Applications | Ibtissam | [Read More](https://medium.com/p/13bd1d700a37) |
 | Sat, 22 Nov 2025 21:02:09 GMT | AS-REProasting: Attacking Accounts Without Kerberos Pre-Authentication | Cybersecurity Simplified | [Read More](https://medium.com/p/30e05ed397e9) |
 | Sat, 22 Nov 2025 20:48:04 GMT | JWT Privilege Escalation to Container RCE via Jinja2 SSTI “ Intigriti challenge” | Adham Heinrich | [Read More](https://medium.com/p/beadf4185f12) |
+| Sat, 22 Nov 2025 20:47:22 GMT | ‏كيف اكتشفت ثغرة في منطق الأعمال تسمح بالتلاعب بالأسعار من خلال معايير الشحن‏ | Zyad Ibrahim | [Read More](https://medium.com/p/343e35b644b4) |
 | Sat, 22 Nov 2025 20:47:01 GMT | Detecting Zero-Day Web Attacks Using Cross-Domain Semi-Supervised Learning: A Paper Review | Md. Mostafijur Rahman | [Read More](https://medium.com/p/db2e7091fb50) |
 | Sat, 22 Nov 2025 20:42:02 GMT | Securing Docker Containers: Practical Hands-On Guide for Real-World DevSecOps | Ashhadali | [Read More](https://medium.com/p/4c2001c4486a) |
 | Sat, 22 Nov 2025 20:30:10 GMT | Token Impersonation using Metasploit | Ammar Ahmed | [Read More](https://medium.com/p/f2a5936d20ef) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 12:02:06 GMT | When Technology Outruns Responsibility | Angus Peterson | [Read More](https://medium.com/p/e96cc95ca9f6) |
 | Sat, 22 Nov 2025 12:00:49 GMT | Splunk (Basic + Exploring SPL + Dashboard-Reports) [part 1] — SOC #8 | D4m.sh | [Read More](https://medium.com/p/7523cf3921f8) |
 | Sat, 22 Nov 2025 11:41:51 GMT | No System Is Safe: Matrix Push C2 Turns Browser Notifications into Fileless Attacks Across Windows… | Germano Costi | [Read More](https://medium.com/p/f0abef453d48) |
-| Sat, 22 Nov 2025 11:35:36 GMT | Lock It Down: Your Complete Guide to Protecting Your Data from AI | Ravi | [Read More](https://medium.com/p/3e4a3e044170) |
-| Sat, 22 Nov 2025 11:33:49 GMT | SQL Injection: Determining the Number of Columns Returned by the Query | Aditya Bhatt | [Read More](https://medium.com/p/177263c206c6) |
