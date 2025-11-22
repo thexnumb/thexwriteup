@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 16:26:33 GMT | THE PUPPET MASTER- HACK THE BOX- ROOM | 5kullk3r | [Read More](https://medium.com/p/75252f9fedae) |
 | Sat, 22 Nov 2025 16:12:49 GMT | Advanced Machine Learning using Spark MLlib | Salwa Fijri | [Read More](https://medium.com/p/5ce7894d06cf) |
 | Sat, 22 Nov 2025 16:11:31 GMT | Why Nobody Wants to Hire You Anymore | Vijay Kumar Gupta | [Read More](https://medium.com/p/3d6749cb5903) |
 | Sat, 22 Nov 2025 15:56:06 GMT | ️replicating the *‘absurdly’ successful Breakthrough Formula and Autonomous Researcher >Fails… | Berend Watchus | [Read More](https://medium.com/p/0e5bccbdebf0) |
@@ -113,4 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 07:22:10 GMT | How I Saved a Medical Facility with Their Cybersecurity Part 1 | Red | [Read More](https://medium.com/p/4324aa482653) |
 | Sat, 22 Nov 2025 07:22:06 GMT | Letting My AI Fill Forms While Keeping Other Bots Out | Pradyumna Kaushal | [Read More](https://medium.com/p/4f96c1deffdd) |
 | Sat, 22 Nov 2025 07:20:25 GMT | Analyzing SSH Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/73d3e29db8d3) |
-| Sat, 22 Nov 2025 07:09:51 GMT | Understanding File Integrity Monitoring (FIM) in Wazuh SIEM | Pradeepkumaru | [Read More](https://medium.com/p/5618be559704) |
