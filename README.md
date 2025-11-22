@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 15:35:36 GMT | Testing RAT Detection: Why Modern Defender Makes Blue Team Testing Harder | Raynard Waits | [Read More](https://medium.com/p/6d8f21af8607) |
+| Sat, 22 Nov 2025 15:35:21 GMT | Fix Your Website Bugs Fast — My New Upwork Service Is Live! | Globalantic | [Read More](https://medium.com/p/c24c5779d442) |
+| Sat, 22 Nov 2025 15:32:06 GMT | ChatGPT History Is Now on Google Search? Here’s Exactly How I Secured My Chats in 10 Minutes. | Saurabh Kumar Singh | [Read More](https://medium.com/p/c8c6d79dcb58) |
+| Sat, 22 Nov 2025 15:25:27 GMT | [Ethernaut] 2. Fallout | Jiseop Shin | [Read More](https://medium.com/p/df63e33d224d) |
+| Sat, 22 Nov 2025 15:22:42 GMT | 10 Things You Can Do to Secure Your Website (When You’re Not a Security Expert) | Cyberbali | [Read More](https://medium.com/p/47e155e3fd21) |
+| Sat, 22 Nov 2025 15:22:23 GMT | To My Best Friends: I’m Sorry I Was the Worst, But Thank You for Being the Best | Twinkle | [Read More](https://medium.com/p/4cd77f58b3c8) |
+| Sat, 22 Nov 2025 15:14:23 GMT | The Surprising Truth About Cloud Outages | Sherilyn Burris | [Read More](https://medium.com/p/121d44b053f6) |
+| Sat, 22 Nov 2025 15:14:00 GMT | What Are Software Supply Chain Failures? ️ | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/02a428b4c31b) |
+| Sat, 22 Nov 2025 15:10:30 GMT | Cloudflare’s Outrage … Why? | SRIRAM G | [Read More](https://medium.com/p/a8a135a73c7b) |
+| Sat, 22 Nov 2025 15:09:39 GMT | MDI Sensor Won’t Start? A Practical Guide to Actually Fixing It | Anduenescu | [Read More](https://medium.com/p/9c7c7f56dfb4) |
 | Sat, 22 Nov 2025 15:06:01 GMT | Why End‑to‑End Encryption is No Longer Enough for Business and Legal Communication | Letro | [Read More](https://medium.com/p/bc934391c51b) |
 | Sat, 22 Nov 2025 15:01:33 GMT | Manajeman Bandwidth dalam Jaringan Komputer | Salwa Fijri | [Read More](https://medium.com/p/de82445af540) |
 | Sat, 22 Nov 2025 14:59:33 GMT | Of Daffy Bastards And Goofy F*cks In The Land Of The Lost: Integration Anti-Patterns From The Dark… | Robert Broeckelmann | [Read More](https://medium.com/p/3e27668f5493) |
@@ -104,13 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 06:52:49 GMT | Are you looking for the best security services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/13ed3cb01c4a) |
 | Sat, 22 Nov 2025 06:51:18 GMT | The Growing Demand for Security Services in Ambala | Lakshay Security | [Read More](https://medium.com/p/5c86d92f49e8) |
 | Sat, 22 Nov 2025 06:49:49 GMT | How My Small Decision Led Me to Big Success? | JetkingChandigarh | [Read More](https://medium.com/p/c12d57883ade) |
-| Sat, 22 Nov 2025 06:45:29 GMT | Root Me: HTTP — Directory indexing | Kamal S | [Read More](https://medium.com/p/45e8b195d6ca) |
-| Sat, 22 Nov 2025 06:43:29 GMT | Windows 11 Security Tips for Freelancers | Marina Anderson | [Read More](https://medium.com/p/87df2f15e2a9) |
-| Sat, 22 Nov 2025 06:42:36 GMT | The Death of Phishing: How AI Will Make Scams Impossible by 2030 | Aliyan Hidayatallah | [Read More](https://medium.com/p/fcb1d08c59f5) |
-| Sat, 22 Nov 2025 06:42:03 GMT | WAF Exploitation Techniques TryHackMe | TcyberSec007 | [Read More](https://medium.com/p/35f41f8a6195) |
-| Sat, 22 Nov 2025 06:39:02 GMT | How Smart Founders Learn Faster With AI (Without Losing Their Own Thinking) | Ai Founder Lab | [Read More](https://medium.com/p/eca138facbe8) |
-| Sat, 22 Nov 2025 06:38:57 GMT | Cleaning Cybersecurity Logs in Google Sheets | Mersadi Freeman | [Read More](https://medium.com/p/2d3e467bd1f8) |
-| Sat, 22 Nov 2025 06:23:57 GMT | Dark Art of Tap To Approve — MFA Fatigue | Samratthsingh | [Read More](https://medium.com/p/962c67619bb0) |
-| Sat, 22 Nov 2025 06:19:59 GMT | setup-proxy-android-guide | ChainDusk | [Read More](https://medium.com/p/e50bf38a03b0) |
-| Sat, 22 Nov 2025 06:05:38 GMT | The Real Reason Breaches Happen (and Why Fixing “Boring Stuff” Matters Most) | anthony k | [Read More](https://medium.com/p/ab70f477b127) |
-| Sat, 22 Nov 2025 06:03:03 GMT | Guarding the Future: Why Construction Site Security Matters More Than Ever | Group One Security Services Pty Ltd | [Read More](https://medium.com/p/3697bf7a6056) |
