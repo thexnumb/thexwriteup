@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 22:36:36 GMT | JOB SCAM ALERT: A True Story Every Nigerian Jobseeker Should Read | Oludare Stephen Ayobami | [Read More](https://medium.com/p/ad292f6c0aef) |
+| Sat, 22 Nov 2025 22:26:47 GMT | PicoCTF: Trickster | Kareem Maged | [Read More](https://medium.com/p/0bf61a71c93a) |
+| Sat, 22 Nov 2025 22:23:44 GMT | What I’ve learned So Far in Cyber Security — After finishing a 2 year Associate’s degree in it. | Russell Jalal | [Read More](https://medium.com/p/812661c7e522) |
 | Sat, 22 Nov 2025 22:16:02 GMT | Why Your Health Data Is Safe With Us (And Why That Makes Us Weird) | Mike Ortiz | [Read More](https://medium.com/p/2f3967542430) |
 | Sat, 22 Nov 2025 22:11:03 GMT | PatriotCTF 2025 — TrustVault Web Challenge Write-Up | Yousefw | [Read More](https://medium.com/p/bbb24b44ae9c) |
 | Sat, 22 Nov 2025 21:38:31 GMT | PatriotCTF 2025 — Web Challenge Write-Up | Yousefw | [Read More](https://medium.com/p/1fe588da669d) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 12:29:19 GMT | What a Billion Cyberattacks Reveal in 2025 | Px Mx | [Read More](https://medium.com/p/4e3c33ad6fbe) |
 | Sat, 22 Nov 2025 12:27:19 GMT | How I Ended Up in the Top 25 Security Researchers Recognized by the State of California | Rhythm | [Read More](https://medium.com/p/620f2d446763) |
 | Sat, 22 Nov 2025 12:20:33 GMT | Modern SSRF — Part 2 (Medium): Practical, Safe Techniques for Bug Bounty Hunters | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/e5e38ca22000) |
-| Sat, 22 Nov 2025 12:17:19 GMT | How I Discovered a Hidden Race Condition That Allowed Full Account Takeover in a “Secure” Login | Aftab Raja | [Read More](https://medium.com/p/df581f375847) |
-| Sat, 22 Nov 2025 12:17:19 GMT | Notes from a Cyber Intelligence Insider: How Digital Disinformation Really Works | Ozan Akyol | [Read More](https://medium.com/p/55f257cce05a) |
-| Sat, 22 Nov 2025 12:16:43 GMT | Which Ethical Hacking Certification is Best CEH vs OSCP? | Manisha Chaudhary | [Read More](https://medium.com/p/cdcaf73c442f) |
