@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 03:22:01 GMT | How to use NordVPN on Xfinity router: 5 easy ways for all | Millie Bobby | [Read More](https://medium.com/p/e51b94976ca4) |
+| Sat, 22 Nov 2025 03:20:12 GMT | Secure Your Code: How AI Is Patching Vulnerabilities Before Hackers Do | Ram Milan | [Read More](https://medium.com/p/ca667bc15e6f) |
+| Sat, 22 Nov 2025 03:16:48 GMT | Discover the Exciting Stories of the IT Industry from the 2000s | Stacklegend | [Read More](https://medium.com/p/553881d89955) |
+| Sat, 22 Nov 2025 03:15:30 GMT | Flock Camera the thing no one asked for- But Hackers are Thrilled. | Autumn Nash | [Read More](https://medium.com/p/ba615f963c99) |
+| Sat, 22 Nov 2025 03:11:48 GMT | Rising Threats from Cyber Warfare: How Digital Conflict Is Transforming Global Security | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/2da6e5428d6c) |
 | Sat, 22 Nov 2025 03:02:25 GMT | SecretPictures: Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/17550b661d79) |
+| Sat, 22 Nov 2025 03:01:27 GMT | Who’s Really Funding Terror? | L P | [Read More](https://medium.com/p/c9268e4f1bb4) |
+| Sat, 22 Nov 2025 02:59:09 GMT | The Hidden Truth About Phone Data Tracking: What You Need to Know in 2025 | Esther Idibiye David | [Read More](https://medium.com/p/0b92c390ed2e) |
 | Sat, 22 Nov 2025 02:35:26 GMT | Anne ben hacker olucam — Red Teaming Giriş 1 | Hazal Karayiğit | [Read More](https://medium.com/p/fc3f8281fa8a) |
 | Sat, 22 Nov 2025 02:31:11 GMT | Job Description of Chief AI Officer | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/86ccf4596e1c) |
 | Sat, 22 Nov 2025 02:29:01 GMT | A potência de ser vulnerável | Giovanna Fraga | [Read More](https://medium.com/p/160074b7332e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 16:23:58 GMT | Hacking for Good: The Truth About Ethical Hackers in an Age of Constant Breaches | Paradise technologies Inc | [Read More](https://medium.com/p/27e1013d7f0e) |
 | Fri, 21 Nov 2025 16:21:51 GMT | Establishing Robust Security Measures and Ensuring Maximum System Uptime and Reliability | Amanda Francis | [Read More](https://medium.com/p/9e81a6c174bb) |
 | Fri, 21 Nov 2025 16:19:47 GMT | Meningkatkan Kinerja Bisnis Melalui Tingkat Keberhasilan Penggunaan Customer Relationship… | Amanda | [Read More](https://medium.com/p/535641f421c6) |
-| Fri, 21 Nov 2025 16:11:16 GMT | Critical Oracle E-Business Suite Zero-Day Exposed in Clop Ransomware Attack on Broadcom | Jasmitha | [Read More](https://medium.com/p/8f29dd32f1ad) |
-| Fri, 21 Nov 2025 16:08:18 GMT | [Ethernaut] 1. Fallback | Jiseop Shin | [Read More](https://medium.com/p/8c480fa49741) |
-| Fri, 21 Nov 2025 16:07:42 GMT | Hacksudo: 1 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/47b51b663cb6) |
-| Fri, 21 Nov 2025 16:06:57 GMT | Hacksudo: 3 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/d948e4be5407) |
-| Fri, 21 Nov 2025 16:03:59 GMT | Le Dispositif Security Champion @Axa France | Arnaud Foissac | [Read More](https://medium.com/p/3451401c95cd) |
-| Fri, 21 Nov 2025 15:53:36 GMT | TCP Three-Way Handshake: The First Step Every Cybersecurity Professional Must Understand | Aniket Nayak | [Read More](https://medium.com/p/6bfc44bd9ccf) |
-| Fri, 21 Nov 2025 15:45:58 GMT | Why is it Easier to Confide in Strangers? | Nivedita Mukherjee | [Read More](https://medium.com/p/dcc18026164d) |
