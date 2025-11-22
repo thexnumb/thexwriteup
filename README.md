@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 06:05:38 GMT | The Real Reason Breaches Happen (and Why Fixing “Boring Stuff” Matters Most) | anthony k | [Read More](https://medium.com/p/ab70f477b127) |
+| Sat, 22 Nov 2025 06:03:03 GMT | Guarding the Future: Why Construction Site Security Matters More Than Ever | Group One Security Services Pty Ltd | [Read More](https://medium.com/p/3697bf7a6056) |
+| Sat, 22 Nov 2025 06:01:27 GMT | Wordpress Development Company in Ahmedabad - Wordpress Company in Ahmedabad | IBeam Infosys | [Read More](https://medium.com/p/c77b73b6d0c5) |
+| Sat, 22 Nov 2025 05:48:55 GMT | Finding a Remote Code Execution (RCE) Vulnerability in a Client App in 2025 | Dhanavel | [Read More](https://medium.com/p/5651f9e96b6c) |
+| Sat, 22 Nov 2025 05:44:22 GMT | What’s so bad about being a generalist? | Cybergilly | [Read More](https://medium.com/p/fb57995aedbf) |
+| Sat, 22 Nov 2025 05:43:25 GMT | How Salesforce Commerce Cloud Is Redefining Modern E-Commerce? | Enstacked | [Read More](https://medium.com/p/19982d232800) |
+| Sat, 22 Nov 2025 05:42:05 GMT | The Linux Security Journey — Filesystem Capabilities | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6b143fb395c8) |
+| Sat, 22 Nov 2025 05:41:54 GMT | Trying not to internalize Nigeria | Chaptersbetweenmypages | [Read More](https://medium.com/p/95e07c5220a5) |
+| Sat, 22 Nov 2025 05:37:58 GMT | Stop Breaches Before They Start: Advanced Threat Prevention with Check Point & ANSI Technologies | ANSI Technologies | [Read More](https://medium.com/p/e19bcd8d4dc4) |
 | Sat, 22 Nov 2025 05:36:41 GMT | Software Setup Checklist for New Office Computers | Ask IT Support | [Read More](https://medium.com/p/007b638be59a) |
 | Sat, 22 Nov 2025 05:33:21 GMT | Infinite Money Logic Flaw | Bash Overflow | [Read More](https://medium.com/p/9f1c8cd67f3f) |
 | Sat, 22 Nov 2025 05:19:01 GMT | The World on Edge: Understanding the Surge in Geopolitical Risk | katy Iris | [Read More](https://medium.com/p/b006582b2f02) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 18:13:01 GMT | TwoMillion — Easy Level Linux based Machine Writeup | Pradithareddy | [Read More](https://medium.com/p/e438d98aab56) |
 | Fri, 21 Nov 2025 18:10:50 GMT | How Identification Works in Cybersecurity Systems | Damir Kolobaric | [Read More](https://medium.com/p/05625d2533cc) |
 | Fri, 21 Nov 2025 17:54:34 GMT | API Keys vs JWT vs OAuth: Which Should You Use? | Navanath Jadhav | [Read More](https://medium.com/p/da51c461f554) |
-| Fri, 21 Nov 2025 17:52:30 GMT | Nigeria and Its Intractable Security Challenges | JJ. Omojuwa | [Read More](https://medium.com/p/49fc3facdfdc) |
-| Fri, 21 Nov 2025 17:45:40 GMT | Where Nigerian Football Meets Its Insecurity | JJ. Omojuwa | [Read More](https://medium.com/p/a4c338271e26) |
-| Fri, 21 Nov 2025 17:44:14 GMT | When defensive automation breaks the internet | STR4T0TT0 | [Read More](https://medium.com/p/bafc30307588) |
-| Fri, 21 Nov 2025 17:42:01 GMT | Why G2G and B2G Communication Needs More Than Just Email Security | Letro | [Read More](https://medium.com/p/462980b7f3a2) |
-| Fri, 21 Nov 2025 17:32:34 GMT | Awaiting D4 Order – The hidden Strength of SQL From a Different lens(Through Sextans-RT Automation) | Umar Al-Mahfuz | [Read More](https://medium.com/p/c0582d64886d) |
-| Fri, 21 Nov 2025 17:32:01 GMT | “Free Robux” Is the New Stranger Danger — Here’s How Scammers Target Your Kids | Cyber Dive | [Read More](https://medium.com/p/09572b3c0b76) |
-| Fri, 21 Nov 2025 17:29:32 GMT | From Fundamentals to Mastery: Navigating the World of Modern Software Engineering and Cybersecurity | Boutmedjet Abd elmoudjib | [Read More](https://medium.com/p/81dae0496760) |
-| Fri, 21 Nov 2025 17:28:43 GMT | Palo Alto Is Buying Its Way Into Observability. The Hard Part Starts Now. | Nick Heudecker | [Read More](https://medium.com/p/5d1deae6453e) |
-| Fri, 21 Nov 2025 17:26:36 GMT | Microsoft Sentinel platform — Unified, Graph-enabled, and AI-ready Security | Mechanics Team | [Read More](https://medium.com/p/9cbf41dd5056) |
