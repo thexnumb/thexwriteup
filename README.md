@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 23:11:15 GMT | Robust Security & Authentication Best Practices in Next.js 16 | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/6265d2d41b13) |
+| Sat, 22 Nov 2025 23:05:35 GMT | New in OWASP Top 10 2025: A03 and A10 Explained in Simple Terms | Yug Shah | [Read More](https://medium.com/p/1cdcbc7af3de) |
+| Sat, 22 Nov 2025 22:56:45 GMT | A Hybrid AI Approach for Cyberattack Detection: Combining Apriori, Decision Tree, DBSCAN, and RAG | Omar farque | [Read More](https://medium.com/p/fb9b7c425360) |
+| Sat, 22 Nov 2025 22:46:24 GMT | THE HIDDEN INFRASTRUCTURE: INSIDE THE SILENT RACE TO REBUILD THE INTERNET | Sam Viles | [Read More](https://medium.com/p/c01010581510) |
+| Sat, 22 Nov 2025 22:45:11 GMT | The words I never said | Chris Oladele | [Read More](https://medium.com/p/7b6e5601cb8c) |
+| Sat, 22 Nov 2025 22:44:43 GMT | The Digital ID Is Coming. We Still Have Alternatives. | @designbyhazema ~ Jonathan Wilson | [Read More](https://medium.com/p/5bdc9e219990) |
+| Sat, 22 Nov 2025 22:43:42 GMT | HTB Sherlocks — RomCom Writeup | JBXSec | [Read More](https://medium.com/p/49744959adea) |
 | Sat, 22 Nov 2025 22:36:36 GMT | JOB SCAM ALERT: A True Story Every Nigerian Jobseeker Should Read | Oludare Stephen Ayobami | [Read More](https://medium.com/p/ad292f6c0aef) |
 | Sat, 22 Nov 2025 22:26:47 GMT | PicoCTF: Trickster | Kareem Maged | [Read More](https://medium.com/p/0bf61a71c93a) |
 | Sat, 22 Nov 2025 22:23:44 GMT | What I’ve learned So Far in Cyber Security — After finishing a 2 year Associate’s degree in it. | Russell Jalal | [Read More](https://medium.com/p/812661c7e522) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 13:01:55 GMT | XSS : A Direct Hit to Brand Trust Revenue, Reputation, Users | Sajjan Nehal | [Read More](https://medium.com/p/e15e42fb591c) |
 | Sat, 22 Nov 2025 12:58:45 GMT | DockerLabs Writeup — cineHack (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d9685c864544) |
 | Sat, 22 Nov 2025 12:55:29 GMT | TryHackMe Writeup: Lian_yu | Berkay AĞGÜL | [Read More](https://medium.com/p/4777e34a06b3) |
-| Sat, 22 Nov 2025 12:49:29 GMT | Pass-the-Hash: The Attack That Turns One Password Hash into Total Domain Access | Aufarifqi | [Read More](https://medium.com/p/da142d56326d) |
-| Sat, 22 Nov 2025 12:48:18 GMT | 1s lag + HR Dashboard = $0 income | WithWander.com | [Read More](https://medium.com/p/bd050ac8bf66) |
-| Sat, 22 Nov 2025 12:41:00 GMT | ‍♂️Why Vulnerability Is the Superpower Every Leader Needs | The Roots | [Read More](https://medium.com/p/da566838edb4) |
-| Sat, 22 Nov 2025 12:34:51 GMT | Cybersecurity for Beginners: A Deep Dive into Hacking, Linux & Networking | Jairaj R | [Read More](https://medium.com/p/1a30e262614a) |
-| Sat, 22 Nov 2025 12:29:19 GMT | What a Billion Cyberattacks Reveal in 2025 | Px Mx | [Read More](https://medium.com/p/4e3c33ad6fbe) |
-| Sat, 22 Nov 2025 12:27:19 GMT | How I Ended Up in the Top 25 Security Researchers Recognized by the State of California | Rhythm | [Read More](https://medium.com/p/620f2d446763) |
-| Sat, 22 Nov 2025 12:20:33 GMT | Modern SSRF — Part 2 (Medium): Practical, Safe Techniques for Bug Bounty Hunters | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/e5e38ca22000) |
