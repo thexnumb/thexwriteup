@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 18:06:02 GMT | What Really Happens When You Type Your Password on a Website | Ujjawal Rohra | [Read More](https://medium.com/p/872a60e6d91d) |
+| Sat, 22 Nov 2025 17:54:53 GMT | Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨ | Iski | [Read More](https://medium.com/p/a226dbacba7a) |
+| Sat, 22 Nov 2025 17:50:37 GMT | 8 Real, ProvenWays to Protect Your VPS From Constant Global Brute-Force Attacks | Trahulprabhu38 | [Read More](https://medium.com/p/07497c4db823) |
+| Sat, 22 Nov 2025 17:37:56 GMT | Zero Trust & Identity-First Security: The Future of Cyber Defense | Sruthi Punugu | [Read More](https://medium.com/p/3d5b3082c237) |
 | Sat, 22 Nov 2025 17:35:29 GMT | How Burp Suite Decrypt HTTPS Traffic ? A Clear Explanation. | Bappe Sarker | [Read More](https://medium.com/p/dc421f414720) |
+| Sat, 22 Nov 2025 17:34:54 GMT | Fighting Fake News with Data Mining: How Technology Protects Us Online | Afiaparvinmaria | [Read More](https://medium.com/p/c76e9acb76bb) |
+| Sat, 22 Nov 2025 17:32:05 GMT | n8n Secrets & Permissions: Least-Privilege Automation for Production | Nikulsinh Rajput | [Read More](https://medium.com/p/17318b3679d4) |
 | Sat, 22 Nov 2025 17:30:33 GMT | Top 7 Websites to Verify Your Pay pal Account in 2025 … | Pipejaj | [Read More](https://medium.com/p/1e5b15e54fd8) |
 | Sat, 22 Nov 2025 17:26:57 GMT | Y2K vs AI: Why Looking Back Can Help Us Move Forward | Tiglu Mekuria | [Read More](https://medium.com/p/cadd555043e3) |
 | Sat, 22 Nov 2025 17:25:43 GMT | What Happens When You Click Forgot Password (Part 2) | Nkiru Nwanolue | [Read More](https://medium.com/p/15649980a3d5) |
@@ -106,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 08:51:26 GMT | What My Cisco Cybersecurity Certificate Taught Me — And How It Transformed My Understanding of the… | Deyindequeen | [Read More](https://medium.com/p/f02330d883d6) |
 | Sat, 22 Nov 2025 08:50:17 GMT | What Professional Security Monitoring Company Do You Use for Your Home? | Global CCTV Monitoring Services | [Read More](https://medium.com/p/2a2b0e6bfc9d) |
 | Sat, 22 Nov 2025 08:49:36 GMT | Lab 1#: Basic clickjacking with CSRF token protection - Clickjacking Lab | Mosta | [Read More](https://medium.com/p/ee08bc71b170) |
-| Sat, 22 Nov 2025 08:43:34 GMT | The Difference Between Being Vulnerable and Trauma Dumping | Thread Therapy | [Read More](https://medium.com/p/8855f81a13d6) |
-| Sat, 22 Nov 2025 08:41:51 GMT | Understanding Storage Encryption with Encrypting File System and Data Recovery Agents: Practical… | Ramandeep Bagri | [Read More](https://medium.com/p/3ceeaa635d02) |
-| Sat, 22 Nov 2025 08:38:43 GMT | The Quiet Confidence That Comes From Doing Hard Things | Thread Therapy | [Read More](https://medium.com/p/e586417775fd) |
-| Sat, 22 Nov 2025 08:26:31 GMT | Nobody’s Really Watching You | Rahul Gupta | [Read More](https://medium.com/p/570b9fa8c3bc) |
-| Sat, 22 Nov 2025 08:25:59 GMT | Identifying and Exploiting Insecure
-Communications, Authentication, and Data Handling in
-Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
-| Sat, 22 Nov 2025 08:21:28 GMT | Wait.. what even is Cybersecurity? | flix | [Read More](https://medium.com/p/f58d81d05726) |
