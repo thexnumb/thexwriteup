@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 09:03:22 GMT | Stop Guessing After a Breach: How LeakRadar Shows You Exactly What Was Exposed | Alexandre Vandamme | [Read More](https://medium.com/p/5d835991ea4c) |
+| Sat, 22 Nov 2025 08:58:34 GMT | A Day in the Life of a Junior Security Analyst | Mohammed Allehyani | [Read More](https://medium.com/p/3f8729332bdf) |
+| Sat, 22 Nov 2025 08:54:36 GMT | How to Use auto_prepend_file in PHP Effectively | Smit Pipaliya | [Read More](https://medium.com/p/ee3917b668f6) |
+| Sat, 22 Nov 2025 08:51:26 GMT | What My Cisco Cybersecurity Certificate Taught Me — And How It Transformed My Understanding of the… | Deyindequeen | [Read More](https://medium.com/p/f02330d883d6) |
+| Sat, 22 Nov 2025 08:50:17 GMT | What Professional Security Monitoring Company Do You Use for Your Home? | Global CCTV Monitoring Services | [Read More](https://medium.com/p/2a2b0e6bfc9d) |
+| Sat, 22 Nov 2025 08:49:36 GMT | Lab 1#: Basic clickjacking with CSRF token protection - Clickjacking Lab | Mosta | [Read More](https://medium.com/p/ee08bc71b170) |
+| Sat, 22 Nov 2025 08:43:34 GMT | The Difference Between Being Vulnerable and Trauma Dumping | Thread Therapy | [Read More](https://medium.com/p/8855f81a13d6) |
+| Sat, 22 Nov 2025 08:41:51 GMT | Understanding Storage Encryption with Encrypting File System and Data Recovery Agents: Practical… | Ramandeep Bagri | [Read More](https://medium.com/p/3ceeaa635d02) |
 | Sat, 22 Nov 2025 08:38:43 GMT | The Quiet Confidence That Comes From Doing Hard Things | Thread Therapy | [Read More](https://medium.com/p/e586417775fd) |
 | Sat, 22 Nov 2025 08:26:31 GMT | Nobody’s Really Watching You | Rahul Gupta | [Read More](https://medium.com/p/570b9fa8c3bc) |
 | Sat, 22 Nov 2025 08:25:59 GMT | Identifying and Exploiting Insecure
@@ -106,11 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Fri, 21 Nov 2025 23:09:15 GMT | From Gatekeeper to Enabler: The 10 Traps Holding Security Teams Back | Mehdi Khalilzadeh | [Read More](https://medium.com/p/2822cafb3d1b) |
 | Fri, 21 Nov 2025 22:49:41 GMT | Top 10 Cybersecurity Companies in Pakistan in 2026 | Muhammad Inam Abbasi | [Read More](https://medium.com/p/bc90349e793a) |
 | Fri, 21 Nov 2025 22:38:26 GMT | How I Bypassed 2FA and Earned My Second Bug Bounty | Hamza | [Read More](https://medium.com/p/4ac3f2412cf7) |
-| Fri, 21 Nov 2025 22:34:39 GMT | Wordfence Weekly Review — November 10 — November 16, 2025 | Wordfence | [Read More](https://medium.com/p/11b211f6e5df) |
-| Fri, 21 Nov 2025 22:22:11 GMT | MITRE ATT&CK | someone | [Read More](https://medium.com/p/0538d87ba759) |
-| Fri, 21 Nov 2025 22:19:07 GMT | The Simplest Way to Learn Containers: Compose | Sara Sheon | [Read More](https://medium.com/p/d0733cfdd2f3) |
-| Fri, 21 Nov 2025 22:15:03 GMT | The Unrestricted Key: How I Bypassed Microsoft’s API Controls | Aman Kumar (ak) | [Read More](https://medium.com/p/b399009cc00c) |
-| Fri, 21 Nov 2025 22:12:42 GMT | THE PHYSICAL MARKETPLACE FRAUD | Oludare Stephen Ayobami | [Read More](https://medium.com/p/21f538caa2f7) |
-| Fri, 21 Nov 2025 22:08:48 GMT | Recon Like a Hunter: Practical Tips from Real Findings Part 2 | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/e71bcf5af0ae) |
-| Fri, 21 Nov 2025 22:07:27 GMT | A Free Incident Response Readiness Toolkit for Small Businesses (With a Real-World Tabletop… | Ijiola olawale | [Read More](https://medium.com/p/ed21f1019480) |
-| Fri, 21 Nov 2025 21:59:57 GMT | Claude on Gemini 3 Pro | Kevin O'Shaughnessy | [Read More](https://medium.com/p/e39b57f44ebb) |
