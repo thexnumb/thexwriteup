@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 11:33:49 GMT | SQL Injection: Determining the Number of Columns Returned by the Query | Aditya Bhatt | [Read More](https://medium.com/p/177263c206c6) |
+| Sat, 22 Nov 2025 11:31:48 GMT | TryHackMe:Padelify | Altair | [Read More](https://medium.com/p/9e69cdec4886) |
+| Sat, 22 Nov 2025 11:29:08 GMT | SQL Injection: Listing the Database Contents on Oracle | Aditya Bhatt | [Read More](https://medium.com/p/43fb897ba95a) |
+| Sat, 22 Nov 2025 11:20:04 GMT | Certification in Penetration Testing and Cyber Security in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/568ab0116d50) |
+| Sat, 22 Nov 2025 11:18:56 GMT | Linux Password Cracking Demystified: Hands-On Demos & Security Best Practices | Suman Gangopadhyay | [Read More](https://medium.com/p/db51040dcd7b) |
+| Sat, 22 Nov 2025 11:11:39 GMT | Black Friday VPN Deals 2025: Save Up to 90% on the Best VPNs | Haris Shahid | [Read More](https://medium.com/p/10ec8b40878a) |
+| Sat, 22 Nov 2025 11:10:51 GMT | ShadowScan: Exposing Hidden Android Apps, Cyber Frauds & Background Threats With AI-Powered Risk… | Sourabh Panchal | [Read More](https://medium.com/p/9a9f4729ed3b) |
+| Sat, 22 Nov 2025 11:04:06 GMT | The Secret Handshake: Securely Ingesting External Docker Images with Cross-Account AWS EventBridge… | Zivgl | [Read More](https://medium.com/p/3fca5e49ff96) |
 | Sat, 22 Nov 2025 11:03:17 GMT | Identity, Safety, and the Strange Ethics of Social Media | Tom Yonashiro | [Read More](https://medium.com/p/0c04b43ed5fd) |
 | Sat, 22 Nov 2025 10:55:31 GMT | Security Solution Module — Writeup | Mahir | [Read More](https://medium.com/p/69da70f4b165) |
 | Sat, 22 Nov 2025 10:50:26 GMT | AI Models Iearn Deception Through Training Shortcuts Anthropic Finds | Techsankar | [Read More](https://medium.com/p/6a0ec8a18d41) |
@@ -106,11 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 02:59:09 GMT | The Hidden Truth About Phone Data Tracking: What You Need to Know in 2025 | Esther Idibiye David | [Read More](https://medium.com/p/0b92c390ed2e) |
 | Sat, 22 Nov 2025 02:35:26 GMT | Anne ben hacker olucam — Red Teaming Giriş 1 | Hazal Karayiğit | [Read More](https://medium.com/p/fc3f8281fa8a) |
 | Sat, 22 Nov 2025 02:31:11 GMT | Job Description of Chief AI Officer | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/86ccf4596e1c) |
-| Sat, 22 Nov 2025 02:29:01 GMT | A potência de ser vulnerável | Giovanna Fraga | [Read More](https://medium.com/p/160074b7332e) |
-| Sat, 22 Nov 2025 02:07:01 GMT | Week 4: First Real User Test | ZAYN | [Read More](https://medium.com/p/d6ccea16dfdb) |
-| Sat, 22 Nov 2025 01:53:14 GMT | TryHackMe - Phishing Analysis Fundamentals — Write-Up | CyberWithManos | [Read More](https://medium.com/p/3c27ed85a855) |
-| Sat, 22 Nov 2025 01:20:16 GMT | Geolocating the Karadzic-Limonov Sarajevo Footage | Matt Deel | [Read More](https://medium.com/p/0bd1da35b4a0) |
-| Sat, 22 Nov 2025 01:16:35 GMT | The End of Blind Faith: How TroyVest’s Volatility Insurance is Reshaping Digital Asset Security | Troyvest | [Read More](https://medium.com/p/72e52f3ef268) |
-| Sat, 22 Nov 2025 01:16:30 GMT | The Pillars of Lasting Love: Why Security, Loyalty, and Trust Bring True Peace of Mind | Poly-blang | [Read More](https://medium.com/p/22c4da300434) |
-| Sat, 22 Nov 2025 01:06:40 GMT | Why Should Women Worry About Men? | Fower Leo | [Read More](https://medium.com/p/765e4bc1e15c) |
-| Sat, 22 Nov 2025 00:28:31 GMT | Installing Windows 10 on VirtualBox: A Beginner-Friendly Walkthrough | Chinenye Nwaneti (HexNye) | [Read More](https://medium.com/p/5e070b90b3e3) |
