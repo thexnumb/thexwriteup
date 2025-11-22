@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 22:16:02 GMT | Why Your Health Data Is Safe With Us (And Why That Makes Us Weird) | Mike Ortiz | [Read More](https://medium.com/p/2f3967542430) |
+| Sat, 22 Nov 2025 22:11:03 GMT | PatriotCTF 2025 — TrustVault Web Challenge Write-Up | Yousefw | [Read More](https://medium.com/p/bbb24b44ae9c) |
+| Sat, 22 Nov 2025 21:38:31 GMT | PatriotCTF 2025 — Web Challenge Write-Up | Yousefw | [Read More](https://medium.com/p/1fe588da669d) |
+| Sat, 22 Nov 2025 21:31:48 GMT | Why Your AI Agent Needs a Physical Body | Alexander Zanfir | [Read More](https://medium.com/p/7d133d1af0b1) |
 | Sat, 22 Nov 2025 21:27:23 GMT | Hardening Kubernetes Environments | Niraj Kumar | [Read More](https://medium.com/p/ed515fb87b42) |
 | Sat, 22 Nov 2025 21:16:43 GMT | A Tip For Cyber Security Interviews | Jbird | [Read More](https://medium.com/p/849b6667cd03) |
 | Sat, 22 Nov 2025 21:06:40 GMT | I Automated Finding Cache Deception In Web Applications | Ibtissam | [Read More](https://medium.com/p/13bd1d700a37) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 12:17:19 GMT | How I Discovered a Hidden Race Condition That Allowed Full Account Takeover in a “Secure” Login | Aftab Raja | [Read More](https://medium.com/p/df581f375847) |
 | Sat, 22 Nov 2025 12:17:19 GMT | Notes from a Cyber Intelligence Insider: How Digital Disinformation Really Works | Ozan Akyol | [Read More](https://medium.com/p/55f257cce05a) |
 | Sat, 22 Nov 2025 12:16:43 GMT | Which Ethical Hacking Certification is Best CEH vs OSCP? | Manisha Chaudhary | [Read More](https://medium.com/p/cdcaf73c442f) |
-| Sat, 22 Nov 2025 12:03:55 GMT | The Power Of Vulnerability: How Embracing Flaws Can Set You Free | Justine Jacob | [Read More](https://medium.com/p/39f8b3e2c629) |
-| Sat, 22 Nov 2025 12:02:06 GMT | When Technology Outruns Responsibility | Angus Peterson | [Read More](https://medium.com/p/e96cc95ca9f6) |
-| Sat, 22 Nov 2025 12:00:49 GMT | Splunk (Basic + Exploring SPL + Dashboard-Reports) [part 1] — SOC #8 | D4m.sh | [Read More](https://medium.com/p/7523cf3921f8) |
-| Sat, 22 Nov 2025 11:41:51 GMT | No System Is Safe: Matrix Push C2 Turns Browser Notifications into Fileless Attacks Across Windows… | Germano Costi | [Read More](https://medium.com/p/f0abef453d48) |
