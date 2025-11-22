@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 17:02:09 GMT | OSCP Grind - PG Practice - Levram | Mr Jokar | [Read More](https://medium.com/p/c33d78030465) |
+| Sat, 22 Nov 2025 17:00:31 GMT | Telecom Security CTF challenges | Ahmed_Salem | [Read More](https://medium.com/p/5bcb053ce554) |
+| Sat, 22 Nov 2025 16:44:10 GMT | Douglas cane | Mudiuth | [Read More](https://medium.com/p/21b574855574) |
+| Sat, 22 Nov 2025 16:40:32 GMT | Cloudflare Security Incident Explained: Simple Breakdown of the Third-Party Breach | Natarajan C K | [Read More](https://medium.com/p/ab235207cf7b) |
 | Sat, 22 Nov 2025 16:26:33 GMT | THE PUPPET MASTER- HACK THE BOX- ROOM | 5kullk3r | [Read More](https://medium.com/p/75252f9fedae) |
 | Sat, 22 Nov 2025 16:12:49 GMT | Advanced Machine Learning using Spark MLlib | Salwa Fijri | [Read More](https://medium.com/p/5ce7894d06cf) |
 | Sat, 22 Nov 2025 16:11:31 GMT | Why Nobody Wants to Hire You Anymore | Vijay Kumar Gupta | [Read More](https://medium.com/p/3d6749cb5903) |
@@ -110,7 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 07:37:43 GMT | Discover the real reasons talented entrepreneurs and cricketers fail. | gridverse | [Read More](https://medium.com/p/8978e8ac2354) |
 | Sat, 22 Nov 2025 07:37:34 GMT | When Intelligence Turns Illegal - | Keerthi-Verse | [Read More](https://medium.com/p/d4c41fc1386f) |
 | Sat, 22 Nov 2025 07:24:51 GMT | Stronger Communities, Safer Lives: Your Guide to Reliable Security Services in Melbourne | Johnwilliam | [Read More](https://medium.com/p/d28f01b50ba0) |
-| Sat, 22 Nov 2025 07:24:11 GMT | Is Cybersecurity Being Replaced by AI? The Truth for 2025 & Beyond | Surya Kumar | [Read More](https://medium.com/p/815cf626a793) |
-| Sat, 22 Nov 2025 07:22:10 GMT | How I Saved a Medical Facility with Their Cybersecurity Part 1 | Red | [Read More](https://medium.com/p/4324aa482653) |
-| Sat, 22 Nov 2025 07:22:06 GMT | Letting My AI Fill Forms While Keeping Other Bots Out | Pradyumna Kaushal | [Read More](https://medium.com/p/4f96c1deffdd) |
-| Sat, 22 Nov 2025 07:20:25 GMT | Analyzing SSH Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/73d3e29db8d3) |
