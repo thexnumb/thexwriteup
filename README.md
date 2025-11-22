@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 08:20:42 GMT | 7 Common API Security Mistakes Developers Make — And How to Fix Them Before They Turn Into Breaches | Rizqi Mulki | [Read More](https://medium.com/p/a41b959b2cc1) |
+| Sat, 22 Nov 2025 08:11:31 GMT | The Role of Cognitive Biases in Information Warfare (Psychological Warfare) | Ankiambom Feka | [Read More](https://medium.com/p/95353f3b8833) |
+| Sat, 22 Nov 2025 08:10:54 GMT | The Nmap Commands Every Beginner Should Know (But Nobody Explains Clearly) | Fateyaly | [Read More](https://medium.com/p/06934ff44f98) |
+| Sat, 22 Nov 2025 08:02:16 GMT | One Email, Lakhs Lost: Why Phishing Still Breaks SMBs in 2025 -How to Stop It | Aysha Saifi | [Read More](https://medium.com/p/59d842790a45) |
+| Sat, 22 Nov 2025 07:41:52 GMT | BOKO HARAM AMNESTY REMAINS A THREAT TO NIGERIA'S JUDICIAL INTEGRITY AND NATIONAL SECURITY. | Mary Mmesoma Maduekwe | [Read More](https://medium.com/p/97e77ff354f7) |
 | Sat, 22 Nov 2025 07:37:43 GMT | Discover the real reasons talented entrepreneurs and cricketers fail. | gridverse | [Read More](https://medium.com/p/8978e8ac2354) |
+| Sat, 22 Nov 2025 07:37:34 GMT | When Intelligence Turns Illegal - | Keerthi-Verse | [Read More](https://medium.com/p/d4c41fc1386f) |
 | Sat, 22 Nov 2025 07:24:51 GMT | Stronger Communities, Safer Lives: Your Guide to Reliable Security Services in Melbourne | Johnwilliam | [Read More](https://medium.com/p/d28f01b50ba0) |
 | Sat, 22 Nov 2025 07:24:11 GMT | Is Cybersecurity Being Replaced by AI? The Truth for 2025 & Beyond | Surya Kumar | [Read More](https://medium.com/p/815cf626a793) |
 | Sat, 22 Nov 2025 07:22:10 GMT | How I Saved a Medical Facility with Their Cybersecurity Part 1 | Red | [Read More](https://medium.com/p/4324aa482653) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 21:34:42 GMT | ☁️ Cloud Security Jargon Busted: The A-to-Z Guide for Engineers | Ayush Bulbule | [Read More](https://medium.com/p/6e75a2e45fed) |
 | Fri, 21 Nov 2025 21:26:47 GMT | From College Labs to a Billion-Dollar Cybersecurity Empire — ft. Sanjay Katkar | Cyber Unbound | [Read More](https://medium.com/p/8d60ce151564) |
 | Fri, 21 Nov 2025 21:18:18 GMT | API Security 101 | BlueTeam Bytes | [Read More](https://medium.com/p/c03168a1eb72) |
-| Fri, 21 Nov 2025 21:17:34 GMT | The Beginner’s Guide to AI Security (and Why It Matters) | Birzu Alexandru-Adrian | [Read More](https://medium.com/p/117325cf0f4b) |
-| Fri, 21 Nov 2025 21:04:32 GMT | Your Permission Slip to Be Yourself | Nawab Khan | [Read More](https://medium.com/p/edf533b01fbb) |
-| Fri, 21 Nov 2025 20:43:17 GMT | BTLO: Malware Analysis Ransomware Script | Krono | [Read More](https://medium.com/p/cca173f0fefa) |
-| Fri, 21 Nov 2025 20:42:05 GMT | Pause Before You Browse—Microsoft Marketplace Risks You Need to Know | O Alquimista | [Read More](https://medium.com/p/f5d729225ba3) |
-| Fri, 21 Nov 2025 20:29:00 GMT | “The New Power Duo: How IT Management and Business Strategy Grow Stronger Together in 2025” | Muqaddas Akhter | [Read More](https://medium.com/p/d5adf9fd2f48) |
-| Fri, 21 Nov 2025 20:28:37 GMT | Siber Tehdit Avcılığına Giriş: Velociraptor ile Kalıcılık (Persistence) Analizi | Emre ESER | [Read More](https://medium.com/p/dc59c17a2fe4) |
