@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 08:38:43 GMT | The Quiet Confidence That Comes From Doing Hard Things | Thread Therapy | [Read More](https://medium.com/p/e586417775fd) |
+| Sat, 22 Nov 2025 08:26:31 GMT | Nobody’s Really Watching You | Rahul Gupta | [Read More](https://medium.com/p/570b9fa8c3bc) |
+| Sat, 22 Nov 2025 08:25:59 GMT | Identifying and Exploiting Insecure
+Communications, Authentication, and Data Handling in
+Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
+| Sat, 22 Nov 2025 08:21:28 GMT | Wait.. what even is Cybersecurity? | flix | [Read More](https://medium.com/p/f58d81d05726) |
 | Sat, 22 Nov 2025 08:20:42 GMT | 7 Common API Security Mistakes Developers Make — And How to Fix Them Before They Turn Into Breaches | Rizqi Mulki | [Read More](https://medium.com/p/a41b959b2cc1) |
 | Sat, 22 Nov 2025 08:11:31 GMT | The Role of Cognitive Biases in Information Warfare (Psychological Warfare) | Ankiambom Feka | [Read More](https://medium.com/p/95353f3b8833) |
 | Sat, 22 Nov 2025 08:10:54 GMT | The Nmap Commands Every Beginner Should Know (But Nobody Explains Clearly) | Fateyaly | [Read More](https://medium.com/p/06934ff44f98) |
@@ -93,6 +99,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 23:36:30 GMT | Building More Secure C# .NET Applications with HashiCorp Vault | Ertugrul Kara | [Read More](https://medium.com/p/22c9067b3f8a) |
 | Fri, 21 Nov 2025 23:36:06 GMT | Defending Against Autonomous AI Cybercrime Agents | Andrew Kagan | [Read More](https://medium.com/p/db4075222a2f) |
 | Fri, 21 Nov 2025 23:32:25 GMT | In an age where nearly every aspect of our lives is connected to the internet — from banking and… | Joshua Wardak | [Read More](https://medium.com/p/ab5b45e9e03c) |
+| Fri, 21 Nov 2025 23:27:48 GMT | TryHackMe - VulnNet: Node - Walkthough | Sornphut | [Read More](https://medium.com/p/51ffe59d8438) |
 | Fri, 21 Nov 2025 23:27:27 GMT | Voidly AI: A Smarter, Crowd-Powered VPN Built to Survive Modern Internet Blocks | Voidly | [Read More](https://medium.com/p/e13a7a2edf40) |
 | Fri, 21 Nov 2025 23:24:28 GMT | When Quantum Computing Kills Secrets: Why We’re All Too Late (But Still Need to Move) | Deep Thinking AI | [Read More](https://medium.com/p/235035b546ad) |
 | Fri, 21 Nov 2025 23:11:01 GMT | iOS 26 Just Made Apple Passwords So Good, I Stopped Using Other Managers | apple inside | [Read More](https://medium.com/p/87de3bd58531) |
@@ -107,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 22:08:48 GMT | Recon Like a Hunter: Practical Tips from Real Findings Part 2 | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/e71bcf5af0ae) |
 | Fri, 21 Nov 2025 22:07:27 GMT | A Free Incident Response Readiness Toolkit for Small Businesses (With a Real-World Tabletop… | Ijiola olawale | [Read More](https://medium.com/p/ed21f1019480) |
 | Fri, 21 Nov 2025 21:59:57 GMT | Claude on Gemini 3 Pro | Kevin O'Shaughnessy | [Read More](https://medium.com/p/e39b57f44ebb) |
-| Fri, 21 Nov 2025 21:40:34 GMT | The New OWASP Top 10 Is Out | Cyber-AppSec | [Read More](https://medium.com/p/64e09de15b3c) |
-| Fri, 21 Nov 2025 21:35:00 GMT | Wireshark Traffic Analysis — A Complete TryHackMe Walkthrough | Mohamed Fathy Kamel | [Read More](https://medium.com/p/11fd4cf82eb5) |
-| Fri, 21 Nov 2025 21:34:42 GMT | ☁️ Cloud Security Jargon Busted: The A-to-Z Guide for Engineers | Ayush Bulbule | [Read More](https://medium.com/p/6e75a2e45fed) |
-| Fri, 21 Nov 2025 21:26:47 GMT | From College Labs to a Billion-Dollar Cybersecurity Empire — ft. Sanjay Katkar | Cyber Unbound | [Read More](https://medium.com/p/8d60ce151564) |
-| Fri, 21 Nov 2025 21:18:18 GMT | API Security 101 | BlueTeam Bytes | [Read More](https://medium.com/p/c03168a1eb72) |
