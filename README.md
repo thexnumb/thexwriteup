@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 18:35:04 GMT | Digispark ATTINY85 and Sliver | Devin Boyle | [Read More](https://medium.com/p/9713dee99b95) |
+| Sat, 22 Nov 2025 18:33:38 GMT | IT Architecture Career Paths. | Mohammed Brückner | [Read More](https://medium.com/p/0b2a6b093e85) |
+| Sat, 22 Nov 2025 18:32:56 GMT | Siber Güvenlikte Pusula: Çevik Adım ve Doğru Öncelik | Edanur Örnek | [Read More](https://medium.com/p/2db495cfecaf) |
+| Sat, 22 Nov 2025 18:32:33 GMT | Building a Cybersecurity Home Lab — Part 4.3: Velociraptor Installation & Configuration | JBXSec | [Read More](https://medium.com/p/61ba0b6c9348) |
+| Sat, 22 Nov 2025 18:20:45 GMT | A new browser security report sheds light on the rising wave of enterprise-focused threats… | SCtoCS | [Read More](https://medium.com/p/db251bed2350) |
 | Sat, 22 Nov 2025 18:06:02 GMT | What Really Happens When You Type Your Password on a Website | Ujjawal Rohra | [Read More](https://medium.com/p/872a60e6d91d) |
 | Sat, 22 Nov 2025 17:54:53 GMT | Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨ | Iski | [Read More](https://medium.com/p/a226dbacba7a) |
 | Sat, 22 Nov 2025 17:50:37 GMT | 8 Real, ProvenWays to Protect Your VPS From Constant Global Brute-Force Attacks | Trahulprabhu38 | [Read More](https://medium.com/p/07497c4db823) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 09:19:29 GMT | Kadena vs. Cardano: How Kadena’s Governance Transition Is a Real Test of Decentralization | Kristian Catering | [Read More](https://medium.com/p/667a35230f48) |
 | Sat, 22 Nov 2025 09:16:30 GMT | Introducing kali-clean — A Privacy-First Cleanup & Encrypted Backup Utility for Kali Linux | Jestin Samuel | [Read More](https://medium.com/p/0705498ce7f8) |
 | Sat, 22 Nov 2025 09:03:22 GMT | Stop Guessing After a Breach: How LeakRadar Shows You Exactly What Was Exposed | Alexandre Vandamme | [Read More](https://medium.com/p/5d835991ea4c) |
-| Sat, 22 Nov 2025 08:58:34 GMT | A Day in the Life of a Junior Security Analyst | Mohammed Allehyani | [Read More](https://medium.com/p/3f8729332bdf) |
-| Sat, 22 Nov 2025 08:54:36 GMT | How to Use auto_prepend_file in PHP Effectively | Smit Pipaliya | [Read More](https://medium.com/p/ee3917b668f6) |
-| Sat, 22 Nov 2025 08:51:26 GMT | What My Cisco Cybersecurity Certificate Taught Me — And How It Transformed My Understanding of the… | Deyindequeen | [Read More](https://medium.com/p/f02330d883d6) |
-| Sat, 22 Nov 2025 08:50:17 GMT | What Professional Security Monitoring Company Do You Use for Your Home? | Global CCTV Monitoring Services | [Read More](https://medium.com/p/2a2b0e6bfc9d) |
-| Sat, 22 Nov 2025 08:49:36 GMT | Lab 1#: Basic clickjacking with CSRF token protection - Clickjacking Lab | Mosta | [Read More](https://medium.com/p/ee08bc71b170) |
