@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 20:17:03 GMT | Exploiting Django CVE‑2025‑64459 on TryHackMe: Complete Walkthrough | iIyas | [Read More](https://medium.com/p/59d353e1a7ac) |
+| Sat, 22 Nov 2025 20:07:05 GMT | Are spammers using your SaaS product as an attack vector? | Ted Spence | [Read More](https://medium.com/p/b6cbdb196d77) |
+| Sat, 22 Nov 2025 20:02:00 GMT | ⟐ Finding Prototype Pollution (CVE-2019–11358) in Week 3 of My IT Security Career | jsll | [Read More](https://medium.com/p/447352b6dfa8) |
+| Sat, 22 Nov 2025 19:53:15 GMT | Unlocking the Benefits of Verified HTX Accounts: What You Need to Know | Mstkiyando | [Read More](https://medium.com/p/f4dc2c8b4008) |
+| Sat, 22 Nov 2025 19:47:16 GMT | Quick ELK SIEM Lab Setup with Suricata | Geexirooz | [Read More](https://medium.com/p/153208d51777) |
+| Sat, 22 Nov 2025 19:46:38 GMT | iOS 26 Settings App Privacy: A Short Guide | Sean Andreas | [Read More](https://medium.com/p/5bc075c9255c) |
 | Sat, 22 Nov 2025 19:22:28 GMT | Bridging the Gap: Maximizing Cybersecurity through a Hybrid Open-Source & Enterprise Stack | Rommel Jay Gadil | [Read More](https://medium.com/p/d4b2cb8500e8) |
 | Sat, 22 Nov 2025 19:20:42 GMT | UpGuard’s Trust Exchange: Is the VP of Product Taking Design Cues from Happy Hour? | Jeremy C | [Read More](https://medium.com/p/f6b5c104929a) |
 | Sat, 22 Nov 2025 19:09:18 GMT | I AM ATTENDING CYBER – ARE YOU? | Naveed Ali | [Read More](https://medium.com/p/f25a29e7a5ff) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 10:50:26 GMT | AI Models Iearn Deception Through Training Shortcuts Anthropic Finds | Techsankar | [Read More](https://medium.com/p/6a0ec8a18d41) |
 | Sat, 22 Nov 2025 10:48:00 GMT | Cracking the Code: My Complete Writeup for the KPMG Campus Edition CTF 2025 | Madhavgarg | [Read More](https://medium.com/p/0ae108dde99a) |
 | Sat, 22 Nov 2025 10:47:54 GMT | How to Enable Password + 2FA Login on Arch Linux (GNOME + GDM) | Tolulope Abanikannda | [Read More](https://medium.com/p/2372080e6545) |
-| Sat, 22 Nov 2025 10:46:16 GMT | Bug Bug Bounty Hunting — Complete Guide (Part-145) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/ac4713ad0e7a) |
-| Sat, 22 Nov 2025 10:44:05 GMT | Bug Bug Bounty Hunting — Complete Guide (Part-144) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/6e6c9eecfcbc) |
-| Sat, 22 Nov 2025 10:39:18 GMT | A Hidden Login Page, a Single Quote, and a Full SQL Injection | Evyeveline | [Read More](https://medium.com/p/933fa9f218e6) |
-| Sat, 22 Nov 2025 10:18:29 GMT | Cloudflare Outage — What Went Wrong? | David SEHYEON Baek | [Read More](https://medium.com/p/2c54995d97f7) |
-| Sat, 22 Nov 2025 10:11:10 GMT | Web Authentication Types: A Practical Guide | Sunny Sharma | [Read More](https://medium.com/p/3ffd5c94b785) |
-| Sat, 22 Nov 2025 09:43:39 GMT | Beyond the Costumes: Keeping Retail Spaces Safe This Halloween | sweetydahiyaa146 | [Read More](https://medium.com/p/b8ca35d415cc) |
