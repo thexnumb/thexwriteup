@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 12:34:51 GMT | Cybersecurity for Beginners: A Deep Dive into Hacking, Linux & Networking | Jairaj R | [Read More](https://medium.com/p/1a30e262614a) |
+| Sat, 22 Nov 2025 12:29:19 GMT | What a Billion Cyberattacks Reveal in 2025 | Px Mx | [Read More](https://medium.com/p/4e3c33ad6fbe) |
+| Sat, 22 Nov 2025 12:27:19 GMT | How I Ended Up in the Top 25 Security Researchers Recognized by the State of California | Rhythm | [Read More](https://medium.com/p/620f2d446763) |
+| Sat, 22 Nov 2025 12:20:33 GMT | Modern SSRF — Part 2 (Medium): Practical, Safe Techniques for Bug Bounty Hunters | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/e5e38ca22000) |
+| Sat, 22 Nov 2025 12:17:19 GMT | How I Discovered a Hidden Race Condition That Allowed Full Account Takeover in a “Secure” Login | Aftab Raja | [Read More](https://medium.com/p/df581f375847) |
+| Sat, 22 Nov 2025 12:17:19 GMT | Notes from a Cyber Intelligence Insider: How Digital Disinformation Really Works | Ozan Akyol | [Read More](https://medium.com/p/55f257cce05a) |
+| Sat, 22 Nov 2025 12:16:43 GMT | Which Ethical Hacking Certification is Best CEH vs OSCP? | Manisha Chaudhary | [Read More](https://medium.com/p/cdcaf73c442f) |
+| Sat, 22 Nov 2025 12:03:55 GMT | The Power Of Vulnerability: How Embracing Flaws Can Set You Free | Justine Jacob | [Read More](https://medium.com/p/39f8b3e2c629) |
+| Sat, 22 Nov 2025 12:02:06 GMT | When Technology Outruns Responsibility | Angus Peterson | [Read More](https://medium.com/p/e96cc95ca9f6) |
+| Sat, 22 Nov 2025 12:00:49 GMT | Splunk (Basic + Exploring SPL + Dashboard-Reports) [part 1] — SOC #8 | D4m.sh | [Read More](https://medium.com/p/7523cf3921f8) |
+| Sat, 22 Nov 2025 11:41:51 GMT | No System Is Safe: Matrix Push C2 Turns Browser Notifications into Fileless Attacks Across Windows… | Germano Costi | [Read More](https://medium.com/p/f0abef453d48) |
+| Sat, 22 Nov 2025 11:35:36 GMT | Lock It Down: Your Complete Guide to Protecting Your Data from AI | Ravi | [Read More](https://medium.com/p/3e4a3e044170) |
 | Sat, 22 Nov 2025 11:33:49 GMT | SQL Injection: Determining the Number of Columns Returned by the Query | Aditya Bhatt | [Read More](https://medium.com/p/177263c206c6) |
 | Sat, 22 Nov 2025 11:31:48 GMT | TryHackMe:Padelify | Altair | [Read More](https://medium.com/p/9e69cdec4886) |
 | Sat, 22 Nov 2025 11:29:08 GMT | SQL Injection: Listing the Database Contents on Oracle | Aditya Bhatt | [Read More](https://medium.com/p/43fb897ba95a) |
@@ -102,15 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 04:10:43 GMT | Good UI/UX Isn’t Decoration. It’s Security in Disguise. | Melby Thomas | [Read More](https://medium.com/p/322131e917e1) |
 | Sat, 22 Nov 2025 03:57:18 GMT | PMAT: Dropper.Installer.msi.malz | Cwrw | [Read More](https://medium.com/p/afbb851b400f) |
 | Sat, 22 Nov 2025 03:57:13 GMT | PoC (Proof-of-Concept) Recordings on Bypass Disabled Functions | Jason Utama | [Read More](https://medium.com/p/f74caff7d9e3) |
-| Sat, 22 Nov 2025 03:55:17 GMT | The Role of Lab-Based Learning in Cybersecurity Training: Benefits & Implementation | Cyberlancers | [Read More](https://medium.com/p/a4dcc01c60d7) |
-| Sat, 22 Nov 2025 03:54:31 GMT | VPN for Firestick: Best picks in 2025, tested on a 4K Max | Safelyo VPN | [Read More](https://medium.com/p/7c395498a2d7) |
-| Sat, 22 Nov 2025 03:22:01 GMT | How to use NordVPN on Xfinity router: 5 easy ways for all | Millie Bobby | [Read More](https://medium.com/p/e51b94976ca4) |
-| Sat, 22 Nov 2025 03:20:12 GMT | Secure Your Code: How AI Is Patching Vulnerabilities Before Hackers Do | Ram Milan | [Read More](https://medium.com/p/ca667bc15e6f) |
-| Sat, 22 Nov 2025 03:16:48 GMT | Discover the Exciting Stories of the IT Industry from the 2000s | Stacklegend | [Read More](https://medium.com/p/553881d89955) |
-| Sat, 22 Nov 2025 03:15:30 GMT | Flock Camera the thing no one asked for- But Hackers are Thrilled. | Autumn Nash | [Read More](https://medium.com/p/ba615f963c99) |
-| Sat, 22 Nov 2025 03:11:48 GMT | Rising Threats from Cyber Warfare: How Digital Conflict Is Transforming Global Security | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/2da6e5428d6c) |
-| Sat, 22 Nov 2025 03:02:25 GMT | SecretPictures: Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/17550b661d79) |
-| Sat, 22 Nov 2025 03:01:27 GMT | Who’s Really Funding Terror? | L P | [Read More](https://medium.com/p/c9268e4f1bb4) |
-| Sat, 22 Nov 2025 02:59:09 GMT | The Hidden Truth About Phone Data Tracking: What You Need to Know in 2025 | Esther Idibiye David | [Read More](https://medium.com/p/0b92c390ed2e) |
-| Sat, 22 Nov 2025 02:35:26 GMT | Anne ben hacker olucam — Red Teaming Giriş 1 | Hazal Karayiğit | [Read More](https://medium.com/p/fc3f8281fa8a) |
-| Sat, 22 Nov 2025 02:31:11 GMT | Job Description of Chief AI Officer | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/86ccf4596e1c) |
