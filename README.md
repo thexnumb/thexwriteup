@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 05:19:01 GMT | The World on Edge: Understanding the Surge in Geopolitical Risk | katy Iris | [Read More](https://medium.com/p/b006582b2f02) |
+| Sat, 22 Nov 2025 05:13:01 GMT | What is Clickjacking Technique? | Soundaryaps | [Read More](https://medium.com/p/cae6b6305dad) |
+| Sat, 22 Nov 2025 05:10:04 GMT | AI Gone Rogue: When Machines Learn to Sabotage and Spy | Jay Cadmus | [Read More](https://medium.com/p/d8b2dee55bf4) |
+| Sat, 22 Nov 2025 05:09:22 GMT | From Exposing a National Leak to My First $2000USDT Pentest: A Story of Resilience and Purpose | Ivan Bernardo Pedrazas Rodriguez | [Read More](https://medium.com/p/706a9b9962b1) |
+| Sat, 22 Nov 2025 05:09:01 GMT | The Digital Shield: Why the US-Saudi AI and Cyber Alliance is America’s Next Geopolitical… | CCD-IS | [Read More](https://medium.com/p/55a99a286a0d) |
+| Sat, 22 Nov 2025 04:50:00 GMT | Cloud security has evolved dramatically. | Monu Jangra | [Read More](https://medium.com/p/c87156a1728e) |
+| Sat, 22 Nov 2025 04:46:52 GMT | When Cyber Attacks Hit the Bottom Line: Protecting Your Business from Digital Disruption | Steven Chin | [Read More](https://medium.com/p/d8f19d55a57d) |
 | Sat, 22 Nov 2025 04:32:54 GMT | A Simple Clear Comparison of Three Popular Home Security Cameras | Mohammed Saleh | [Read More](https://medium.com/p/a1eb56e50720) |
 | Sat, 22 Nov 2025 04:27:08 GMT | service-vpn-proxy-guide | HashCrest | [Read More](https://medium.com/p/5dfdbe450b56) |
 | Sat, 22 Nov 2025 04:27:00 GMT | How CISM Improves Risk Management Capabilities | Dhanashri Bhale | [Read More](https://medium.com/p/c99b95a414c0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 21 Nov 2025 17:19:32 GMT | BOF Writeup (Pwnable.kr) | Ivan Daňo | [Read More](https://medium.com/p/c3a63a1c15e7) |
 | Fri, 21 Nov 2025 17:12:52 GMT | From source code review to Access to Admin Panel | Mohammed Alsaqqaf | [Read More](https://medium.com/p/ad51b847ee78) |
 | Fri, 21 Nov 2025 17:03:17 GMT | My First Week in API Security: Lessons, Labs, and Learning the Hard Truths About APIs | Maryblessing | [Read More](https://medium.com/p/592d84882d05) |
-| Fri, 21 Nov 2025 17:02:33 GMT | The AI Analyst — Revolutionizing DFIR and Blue Teams | Purvansh Bhatt | [Read More](https://medium.com/p/35d8f251e79d) |
-| Fri, 21 Nov 2025 17:01:45 GMT | Post-Quantum AI Agents: How Autonomous Systems Will Survive a Quantum-Attack World | RAKTIM SINGH | [Read More](https://medium.com/p/63197be8a1b7) |
-| Fri, 21 Nov 2025 17:00:32 GMT | IDOR Part 4 — IoT & API Gateway Exploitation | Cybersecplayground | [Read More](https://medium.com/p/8392c9aeb9be) |
-| Fri, 21 Nov 2025 16:58:10 GMT | Real Time Malware Detection System for AWS-S3 Bucket | Saksham Singh | [Read More](https://medium.com/p/423a1f824326) |
-| Fri, 21 Nov 2025 16:55:15 GMT | Why Verified Dark Web Links Matter for Safe Research | Tor BBB | [Read More](https://medium.com/p/83f7416a29a6) |
-| Fri, 21 Nov 2025 16:51:37 GMT | The Art of War in the Age of AI and Asymmetric Conflict | Cynthia Hickman | [Read More](https://medium.com/p/1ec0258edfa0) |
-| Fri, 21 Nov 2025 16:41:08 GMT | Why Building a Zero‑Dependencies Covert Data Collector Is Harder Than You Think | xsser01 | [Read More](https://medium.com/p/6a810961261a) |
