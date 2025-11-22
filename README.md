@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 22 Nov 2025 11:03:17 GMT | Identity, Safety, and the Strange Ethics of Social Media | Tom Yonashiro | [Read More](https://medium.com/p/0c04b43ed5fd) |
+| Sat, 22 Nov 2025 10:55:31 GMT | Security Solution Module — Writeup | Mahir | [Read More](https://medium.com/p/69da70f4b165) |
+| Sat, 22 Nov 2025 10:50:26 GMT | AI Models Iearn Deception Through Training Shortcuts Anthropic Finds | Techsankar | [Read More](https://medium.com/p/6a0ec8a18d41) |
+| Sat, 22 Nov 2025 10:48:00 GMT | Cracking the Code: My Complete Writeup for the KPMG Campus Edition CTF 2025 | Madhavgarg | [Read More](https://medium.com/p/0ae108dde99a) |
+| Sat, 22 Nov 2025 10:47:54 GMT | How to Enable Password + 2FA Login on Arch Linux (GNOME + GDM) | Tolulope Abanikannda | [Read More](https://medium.com/p/2372080e6545) |
+| Sat, 22 Nov 2025 10:46:16 GMT | Bug Bug Bounty Hunting — Complete Guide (Part-145) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/ac4713ad0e7a) |
+| Sat, 22 Nov 2025 10:44:05 GMT | Bug Bug Bounty Hunting — Complete Guide (Part-144) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/6e6c9eecfcbc) |
+| Sat, 22 Nov 2025 10:39:18 GMT | A Hidden Login Page, a Single Quote, and a Full SQL Injection | Evyeveline | [Read More](https://medium.com/p/933fa9f218e6) |
 | Sat, 22 Nov 2025 10:18:29 GMT | Cloudflare Outage — What Went Wrong? | David SEHYEON Baek | [Read More](https://medium.com/p/2c54995d97f7) |
 | Sat, 22 Nov 2025 10:11:10 GMT | Web Authentication Types: A Practical Guide | Sunny Sharma | [Read More](https://medium.com/p/3ffd5c94b785) |
 | Sat, 22 Nov 2025 09:43:39 GMT | Beyond the Costumes: Keeping Retail Spaces Safe This Halloween | sweetydahiyaa146 | [Read More](https://medium.com/p/b8ca35d415cc) |
@@ -106,11 +114,3 @@ Android… | Kemal Rajasa | [Read More](https://medium.com/p/3d36406e8acb) |
 | Sat, 22 Nov 2025 01:16:30 GMT | The Pillars of Lasting Love: Why Security, Loyalty, and Trust Bring True Peace of Mind | Poly-blang | [Read More](https://medium.com/p/22c4da300434) |
 | Sat, 22 Nov 2025 01:06:40 GMT | Why Should Women Worry About Men? | Fower Leo | [Read More](https://medium.com/p/765e4bc1e15c) |
 | Sat, 22 Nov 2025 00:28:31 GMT | Installing Windows 10 on VirtualBox: A Beginner-Friendly Walkthrough | Chinenye Nwaneti (HexNye) | [Read More](https://medium.com/p/5e070b90b3e3) |
-| Sat, 22 Nov 2025 00:18:33 GMT | Writing Pentest Reports | Demegorash | [Read More](https://medium.com/p/aaf512305964) |
-| Sat, 22 Nov 2025 00:09:53 GMT | A Real-World Lesson: The Missing DMARC Configuration | Riyao Lin | [Read More](https://medium.com/p/6b727c12c3e5) |
-| Sat, 22 Nov 2025 00:06:52 GMT | Understanding DNS Security — A Quick Guide | Riyao Lin | [Read More](https://medium.com/p/d0fe8b8e5d2c) |
-| Sat, 22 Nov 2025 00:02:04 GMT | API3:2023 BOPLA (Broken Object Property Level Authorization): Mass Assignment and Data Exposure | JPablo13 | [Read More](https://medium.com/p/9ba6e432a1ea) |
-| Sat, 22 Nov 2025 00:02:04 GMT | Google DeepMind’s SIMA 2: Is it Quietly Redefining AI in Virtual Worlds? | Akhilesh Yadav | [Read More](https://medium.com/p/091609f6d767) |
-| Fri, 21 Nov 2025 23:56:46 GMT | THM — The Case: Seven Minutes on the Seine — Writeup | Seth | [Read More](https://medium.com/p/ab6d7fe04e9a) |
-| Fri, 21 Nov 2025 23:36:30 GMT | Building More Secure C# .NET Applications with HashiCorp Vault | Ertugrul Kara | [Read More](https://medium.com/p/22c9067b3f8a) |
-| Fri, 21 Nov 2025 23:36:06 GMT | Defending Against Autonomous AI Cybercrime Agents | Andrew Kagan | [Read More](https://medium.com/p/db4075222a2f) |
