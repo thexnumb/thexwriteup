@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 17:37:41 GMT | Cybersecurity: The Architecture of Defense in an Adversarial World | Keshav Soni | [Read More](https://medium.com/p/663afd7bdda6) |
+| Sun, 23 Nov 2025 17:26:38 GMT | Ask These in Your Next Security Meeting | Fook Hwa Tan | [Read More](https://medium.com/p/e81df30f78a8) |
+| Sun, 23 Nov 2025 17:21:49 GMT | The Hardest Possible Decision: VirtualBox, VmWare, or HyperV? Which One to Choose? | NnFace | [Read More](https://medium.com/p/499e70ade917) |
+| Sun, 23 Nov 2025 17:14:28 GMT | The Weaponization of Web 2.0 | Medjue Gore | [Read More](https://medium.com/p/4422b89359ab) |
 | Sun, 23 Nov 2025 17:13:10 GMT | Cloudflare Outage | thebluecapture | [Read More](https://medium.com/p/e336cbbb3455) |
 | Sun, 23 Nov 2025 17:07:02 GMT | How Newcomers Can Automate Vulnerability Finding In Bug Bounty Hunting? | Rehan Sohail | [Read More](https://medium.com/p/16a3a55590ee) |
 | Sun, 23 Nov 2025 17:03:52 GMT | What’s Cookin’ in TamperedChef’s Kitchen? A Peek Into the Campaign’s Latest Activity | ASTRA Labs | [Read More](https://medium.com/p/89e3a6c905f9) |
@@ -109,7 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 09:37:29 GMT | Networking foundations — IPv6 Playbook (Part 1) | Vishnuprasad O | [Read More](https://medium.com/p/c9a00b1c82d2) |
 | Sun, 23 Nov 2025 09:34:37 GMT | From Kafka Events to Real-Time Alerts: A Hands-On Guide with ksqlDB | Zeinab Dashti | [Read More](https://medium.com/p/b25ee372a6c9) |
 | Sun, 23 Nov 2025 09:31:44 GMT | Empire 25 | ˚ʚ♡ɞ˚ | [Read More](https://medium.com/p/4462501a644a) |
-| Sun, 23 Nov 2025 09:30:33 GMT | 10 Advanced Cybersecurity Scenarios Every Professional Must Practice | Muhammad Haider Tallal | [Read More](https://medium.com/p/1e492d6ed29e) |
-| Sun, 23 Nov 2025 09:27:20 GMT | Network Behavior Analytics Rule Writing | Esra Kayhan | [Read More](https://medium.com/p/124b1b4c99fe) |
-| Sun, 23 Nov 2025 09:26:37 GMT | Internal Network Penetration Testing in a Segmented Environment: A Complete Step-by-Step… | Asifzea | [Read More](https://medium.com/p/b5f644fb14be) |
-| Sun, 23 Nov 2025 09:22:14 GMT | Hacking “Blue”: A Beginner’s Journey from Scan to SYSTEM Shell | Adbin Mgr | [Read More](https://medium.com/p/5fbda802ff2b) |
