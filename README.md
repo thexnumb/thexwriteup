@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 17:13:10 GMT | Cloudflare Outage | thebluecapture | [Read More](https://medium.com/p/e336cbbb3455) |
+| Sun, 23 Nov 2025 17:07:02 GMT | How Newcomers Can Automate Vulnerability Finding In Bug Bounty Hunting? | Rehan Sohail | [Read More](https://medium.com/p/16a3a55590ee) |
+| Sun, 23 Nov 2025 17:03:52 GMT | What’s Cookin’ in TamperedChef’s Kitchen? A Peek Into the Campaign’s Latest Activity | ASTRA Labs | [Read More](https://medium.com/p/89e3a6c905f9) |
+| Sun, 23 Nov 2025 16:51:14 GMT | Are You Protected Against Typo squatting? | Ashe Sule | [Read More](https://medium.com/p/b57cfe916e6a) |
+| Sun, 23 Nov 2025 16:50:43 GMT | Cybersecurity Just Entered a New Era And Microsoft Just Changed the Game | Ashe Sule | [Read More](https://medium.com/p/fefd1f20ee33) |
+| Sun, 23 Nov 2025 16:47:54 GMT | Rust CI: Security, Dependency Policy, Coverage Gate, and Fast Builds | Anton Dolganin | [Read More](https://medium.com/p/c115eb0db3d7) |
+| Sun, 23 Nov 2025 16:43:45 GMT | If you’ve ever seen the error “Unable to locate credentials” while working with AWS, you’ve… | Vishu Bommoju | [Read More](https://medium.com/p/5e27b0a6b7be) |
 | Sun, 23 Nov 2025 16:35:35 GMT | Why you should learn Ansible right now? | Marcos Scurtu | [Read More](https://medium.com/p/e77ea3145b7c) |
 | Sun, 23 Nov 2025 16:28:06 GMT | Ignite— TryHackMe Easy Challenge — Writeup - by P4NTHR | P4NTHR | [Read More](https://medium.com/p/261a065fc5ca) |
 | Sun, 23 Nov 2025 16:23:38 GMT | MI5’s LinkedIn Warning & China’s Digital Spies | O. J. Okpabi | [Read More](https://medium.com/p/5d54ca375ac4) |
@@ -106,10 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 09:27:20 GMT | Network Behavior Analytics Rule Writing | Esra Kayhan | [Read More](https://medium.com/p/124b1b4c99fe) |
 | Sun, 23 Nov 2025 09:26:37 GMT | Internal Network Penetration Testing in a Segmented Environment: A Complete Step-by-Step… | Asifzea | [Read More](https://medium.com/p/b5f644fb14be) |
 | Sun, 23 Nov 2025 09:22:14 GMT | Hacking “Blue”: A Beginner’s Journey from Scan to SYSTEM Shell | Adbin Mgr | [Read More](https://medium.com/p/5fbda802ff2b) |
-| Sun, 23 Nov 2025 09:21:25 GMT | Secure Your Traffic with Forced Tunneling in Azure Virtual WAN P2S VPN | Brian Veldman | [Read More](https://medium.com/p/2e1edfa020c6) |
-| Sun, 23 Nov 2025 09:14:38 GMT | ️ How to Spot a Phishing Email — And What to Do About It | pdfalltools.com | [Read More](https://medium.com/p/bdb541bc725e) |
-| Sun, 23 Nov 2025 09:02:11 GMT | Add a Credential Leak Check to Any Login Flow in 10 Minutes With LeakRadar’s API | Alexandre Vandamme | [Read More](https://medium.com/p/e885aea049c1) |
-| Sun, 23 Nov 2025 09:01:05 GMT | How to Verify if Your Software License Is Genuine and Avoid Counterfeits | Jayson Potter | [Read More](https://medium.com/p/dfb7a49cd246) |
-| Sun, 23 Nov 2025 08:51:26 GMT | The Cloud Security Skills You MUST Learn In 2026 — Or Get Left Behind | Taimur Ijlal | [Read More](https://medium.com/p/bbaa5d6bf7c6) |
-| Sun, 23 Nov 2025 08:35:30 GMT | Attackers Offered $25,000 for Access to CrowdStrike | Patrik Žák | [Read More](https://medium.com/p/9cf3d830b41f) |
-| Sun, 23 Nov 2025 08:33:45 GMT | How I Broke My Linux Server Using One Nmap Command, And Learned More in One Night Than in Months | Fateyaly | [Read More](https://medium.com/p/892be55ee062) |
