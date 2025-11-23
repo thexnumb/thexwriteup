@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 07:22:59 GMT | From Assistant to Teammate: The Rise of Agentic AI in Security Operations | Omololu Adu | [Read More](https://medium.com/p/bfdf6e861571) |
 | Sun, 23 Nov 2025 07:10:09 GMT | Day 2 – Learning Cybersecurity on TryHackMe With Just My Phone | Ofoegbu Franklin | [Read More](https://medium.com/p/54589983407f) |
 | Sun, 23 Nov 2025 06:53:42 GMT | All About Android Pentesting | Xcheater | [Read More](https://medium.com/p/f047b7c7e0f1) |
 | Sun, 23 Nov 2025 06:46:06 GMT | We’re Consuming More Than We’re Creating: Why Your Mind Feels Crowded but Your Life Feels Empty | Vijay Kumar Gupta | [Read More](https://medium.com/p/6be649c825c6) |
@@ -58,6 +59,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 01:46:42 GMT | Why Every Developer Should Care About CSP in 2025 | Jagdish Choudhary | [Read More](https://medium.com/p/19840727c7bb) |
 | Sun, 23 Nov 2025 01:44:42 GMT | russian-proxy-access-guide | ChainNova | [Read More](https://medium.com/p/8cb8e279c446) |
 | Sun, 23 Nov 2025 01:32:06 GMT | 5 FastAPI Auth UX Moves: Passkeys, JWKS, No Downtime | Velorum | [Read More](https://medium.com/p/47f171e2e0e3) |
+| Sun, 23 Nov 2025 01:32:06 GMT | 7 SolidStart Ideas That Make React Apps Feel Native | Nexumo | [Read More](https://medium.com/p/c55528110d7e) |
 | Sun, 23 Nov 2025 01:08:14 GMT | True Love: Navigating Long Distance and Future Uncertainty | Misass | [Read More](https://medium.com/p/b92f4055fe49) |
 | Sun, 23 Nov 2025 01:05:55 GMT | Malware Analysis: Static Breakdown | Lilian  Ugwu | [Read More](https://medium.com/p/407f9d292635) |
 | Sun, 23 Nov 2025 01:00:37 GMT | From Gifts to Blackmail: The Social Media Scam Targeting Indian Women… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/ff4a5b3efbfa) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 19:46:38 GMT | iOS 26 Settings App Privacy: A Short Guide | Sean Andreas | [Read More](https://medium.com/p/5bc075c9255c) |
 | Sat, 22 Nov 2025 19:22:28 GMT | Bridging the Gap: Maximizing Cybersecurity through a Hybrid Open-Source & Enterprise Stack | Rommel Jay Gadil | [Read More](https://medium.com/p/d4b2cb8500e8) |
 | Sat, 22 Nov 2025 19:20:42 GMT | UpGuard’s Trust Exchange: Is the VP of Product Taking Design Cues from Happy Hour? | Jeremy C | [Read More](https://medium.com/p/f6b5c104929a) |
-| Sat, 22 Nov 2025 19:09:18 GMT | I AM ATTENDING CYBER – ARE YOU? | Naveed Ali | [Read More](https://medium.com/p/f25a29e7a5ff) |
-| Sat, 22 Nov 2025 18:59:30 GMT | “SOC140 — Phishing Mail Detected — Suspicious Task Scheduler — EventID: 82” — Letsdefend.io | Moksh Singla | [Read More](https://medium.com/p/1db9f8a2697c) |
