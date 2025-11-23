@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 15:05:58 GMT | My experience with the new Antigravity IDE from Google | Ihor Sasovets | [Read More](https://medium.com/p/a1d9bbd2a301) |
+| Sun, 23 Nov 2025 15:04:41 GMT | Sunset : Dawn:- The VM Where Everything Clicked — Reverse Shells, SUID Abuse, and Clean Root | Shikhar Sinha | [Read More](https://medium.com/p/6f121163fde3) |
+| Sun, 23 Nov 2025 15:02:47 GMT | จากโดนยำสู่ยืนหนึ่ง (สักที!) Asean Cyber Shield 3 ซีซันติด | BXDMAN | [Read More](https://medium.com/p/a91efb4d8ddf) |
+| Sun, 23 Nov 2025 15:02:24 GMT | Part 9: Virtual Box Home Lab — Windows 10 Remote Desktop AD | Declan | [Read More](https://medium.com/p/fe2d2fb69754) |
+| Sun, 23 Nov 2025 15:02:12 GMT | What I Knew vs. What I Did: The Parent Trap of Instant Gratification | The Insight Experiment | [Read More](https://medium.com/p/b127f4cb4641) |
+| Sun, 23 Nov 2025 15:00:49 GMT | What is a CVE?  The Beginner’s Guide Everyone Actually Needs in 2025 | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/c7825bf6c43c) |
+| Sun, 23 Nov 2025 15:00:41 GMT | Secure Your Mobile Phone | Monu Jangra | [Read More](https://medium.com/p/038e7a9263fc) |
+| Sun, 23 Nov 2025 14:44:46 GMT | Informationssicherheit Management System ( ISMS) verstehen: Ein Überblick über ISO 27001 | Atanur Coban | [Read More](https://medium.com/p/04341f8ce53b) |
+| Sun, 23 Nov 2025 14:40:25 GMT | DPDP Act and Rules : What Companies Must Actually Do now? | Snehjeet Mukherjee | [Read More](https://medium.com/p/fa9bae3e2581) |
+| Sun, 23 Nov 2025 14:38:05 GMT | Passionate About Cybersecurity & Ethical Hacking | Monu Jangra | [Read More](https://medium.com/p/5ee7dbb9b332) |
 | Sun, 23 Nov 2025 14:35:34 GMT | Part 8: Virtual Box Home Lab — Security Groups, Map Drives, And Personal Drives setup walkthrough | Declan | [Read More](https://medium.com/p/58601efb63da) |
 | Sun, 23 Nov 2025 14:32:31 GMT | 7 Ways Technology Has Changed Our Lives | Digital Marketing Buddy | [Read More](https://medium.com/p/f0db677168c9) |
+| Sun, 23 Nov 2025 14:32:16 GMT | SOC Fundamentals — TryHackMe | Mohammed Allehyani | [Read More](https://medium.com/p/5ea69e8e131c) |
+| Sun, 23 Nov 2025 14:32:07 GMT | The Cybersecurity Buzzword I’m Tired of Hearing | Cyberkech | [Read More](https://medium.com/p/9cf51f36be9b) |
 | Sun, 23 Nov 2025 14:29:48 GMT | Are Your Hands Steady Enough to Hold My Fragile Heart? | Summer | [Read More](https://medium.com/p/eba3c51dd57e) |
 | Sun, 23 Nov 2025 14:18:04 GMT | Defensive Security Tooling — Writeup | Mahir | [Read More](https://medium.com/p/a0243d764200) |
 | Sun, 23 Nov 2025 13:58:43 GMT | rumination | Jaze Sandhu | [Read More](https://medium.com/p/5599f141f9b4) |
@@ -101,15 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 07:10:09 GMT | Day 2 – Learning Cybersecurity on TryHackMe With Just My Phone | Ofoegbu Franklin | [Read More](https://medium.com/p/54589983407f) |
 | Sun, 23 Nov 2025 06:53:42 GMT | All About Android Pentesting | Xcheater | [Read More](https://medium.com/p/f047b7c7e0f1) |
 | Sun, 23 Nov 2025 06:46:06 GMT | We’re Consuming More Than We’re Creating: Why Your Mind Feels Crowded but Your Life Feels Empty | Vijay Kumar Gupta | [Read More](https://medium.com/p/6be649c825c6) |
-| Sun, 23 Nov 2025 06:43:03 GMT | BEGINNING Flutter® | Micksick | [Read More](https://medium.com/p/185ad0f73b44) |
-| Sun, 23 Nov 2025 06:34:00 GMT | PBO : Komposisi & Agregasi | Yasa Wijaya | [Read More](https://medium.com/p/5370158dbd6d) |
-| Sun, 23 Nov 2025 06:32:29 GMT | Authorization Primer | Dipak Kr das | [Read More](https://medium.com/p/0d2aeacc7c05) |
-| Sun, 23 Nov 2025 06:24:51 GMT | Metasploitable 3 (Windows) Write-up — Part [V]: Port 1617 — Exploiting a Custom TCP Service | Kalash Kundaliya | [Read More](https://medium.com/p/c7e9b028d894) |
-| Sun, 23 Nov 2025 06:16:55 GMT | Finding Purpose in Sobriety, Fitness, and Programming | V1rtu3 _h05t | [Read More](https://medium.com/p/06f6711df0e9) |
-| Sun, 23 Nov 2025 06:03:17 GMT | Ransomware’s Record Surge: Why LockBit 5.0 Could Be the Biggest Threat Yet | Secure Talks | [Read More](https://medium.com/p/a89d53940263) |
-| Sun, 23 Nov 2025 06:02:27 GMT | The Shadow AI Crisis: How Your Employees Are Destroying Your Company (And You Don’t Even Know It) | Amįń | [Read More](https://medium.com/p/e162f0000e0f) |
-| Sun, 23 Nov 2025 06:01:52 GMT | The Silent touch… no traces…live targets… | Snooptsz | [Read More](https://medium.com/p/988867e1870d) |
-| Sun, 23 Nov 2025 05:54:57 GMT | TryHackMeVMs: rrootme | Justin Jude Cabodil | [Read More](https://medium.com/p/d99da49cc8bd) |
-| Sun, 23 Nov 2025 05:35:19 GMT | A hidden detail in our ZDLRA 23.1 deployment | Arsalan Dehghani Sariyarghan | [Read More](https://medium.com/p/eea8eb68bd57) |
-| Sun, 23 Nov 2025 05:29:59 GMT | Access Management Decluttered: Why AI Hiring Tools Are Crossing Human Boundaries | Rubab Fatima | [Read More](https://medium.com/p/ad857aabbb93) |
-| Sun, 23 Nov 2025 05:15:34 GMT | 10 MDM Platforms Worth Considering in 2026 | Yuvi Aggarwal | [Read More](https://medium.com/p/af7c0ec57625) |
