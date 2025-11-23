@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 11:04:36 GMT | I’ve Been Away for a Bit. Here’s What I’ve Been Researching. | Om Arora | [Read More](https://medium.com/p/41f59fb3e1dc) |
+| Sun, 23 Nov 2025 11:01:57 GMT | Why Employers Gain More Control with the Meister App | Sarmin Islam | [Read More](https://medium.com/p/59a281b92fde) |
+| Sun, 23 Nov 2025 10:55:57 GMT | SpiderFoot Deep Dive: Installation, Scans, and Practical Use Cases | Andrey Pautov | [Read More](https://medium.com/p/11ea6537ad6f) |
+| Sun, 23 Nov 2025 10:54:17 GMT | Top 10 Mobile Application Security Testing Tools in 2025 | cyber security Updates | [Read More](https://medium.com/p/3cb626a756e6) |
+| Sun, 23 Nov 2025 10:49:44 GMT | I Built a Smart Linux Firewall Manager & SOC Dashboard with Python (So You Don’t Have To) | Amirmahdi Nozari | [Read More](https://medium.com/p/bcd3e2d0ecf6) |
+| Sun, 23 Nov 2025 10:47:47 GMT | Footprinting — Skills Assessment [Part 1] (2025) | Maksim Hayder | [Read More](https://medium.com/p/253d705b844e) |
+| Sun, 23 Nov 2025 10:43:31 GMT | How Exposed APIs Led to Internal PCAP Inventory Disclosure in sony. | Khanshadan | [Read More](https://medium.com/p/b16b0a228f04) |
+| Sun, 23 Nov 2025 10:41:04 GMT | Cybersecurity Faces Growing Skill Shortage Amid Rising Threats | Himanshu Bhatt | [Read More](https://medium.com/p/8b8ba43c9dda) |
+| Sun, 23 Nov 2025 10:38:40 GMT | Article Writing
+The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://medium.com/p/47647107db9d) |
+| Sun, 23 Nov 2025 10:30:14 GMT | LLM Red Teaming — Part 1 | Infosec world | [Read More](https://medium.com/p/ee4dfc87801b) |
 | Sun, 23 Nov 2025 10:26:16 GMT | Nigeria’s Current Crisis | Juls_pEn | [Read More](https://medium.com/p/c9684a796ca6) |
 | Sun, 23 Nov 2025 10:00:47 GMT | How I Passed the PJPT at 17 (My Honest Experience)PJPT REVIEW | Febafu | [Read More](https://medium.com/p/69182e9936b8) |
 | Sun, 23 Nov 2025 10:00:03 GMT | Passcode Writeup (Pwnable.kr) | Ivan Daňo | [Read More](https://medium.com/p/540208373d3b) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 01:05:55 GMT | Malware Analysis: Static Breakdown | Lilian  Ugwu | [Read More](https://medium.com/p/407f9d292635) |
 | Sun, 23 Nov 2025 01:00:37 GMT | From Gifts to Blackmail: The Social Media Scam Targeting Indian Women… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/ff4a5b3efbfa) |
 | Sun, 23 Nov 2025 00:59:00 GMT | Your Child’s Imaginary Friend is a Corporate AI Designed to Sell Them Things | ToxSec | [Read More](https://medium.com/p/3f97acab51c0) |
-| Sun, 23 Nov 2025 00:51:01 GMT | “Manual Searchsploit: Exploits, CVE y Lecciones desde el Heap” | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/79574cfab0f7) |
-| Sun, 23 Nov 2025 00:47:08 GMT | Capítulo 10 — Zero Day | Kleber Andrade | [Read More](https://medium.com/p/7472dff5b102) |
-| Sun, 23 Nov 2025 00:46:56 GMT | Enough Is Enough: A Plan for Action | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/2fe417601d93) |
-| Sun, 23 Nov 2025 00:42:13 GMT | Beneath the Green Veil: Nigeria’s Promise and Its Fractured Heart | Don Gadhafi | [Read More](https://medium.com/p/6e144be932fb) |
-| Sun, 23 Nov 2025 00:41:34 GMT | Understanding C2 Detection Through Network Log Analysis: What I Learned Today as an Aspiring Red… | samurai | [Read More](https://medium.com/p/ae95f20b86e2) |
-| Sun, 23 Nov 2025 00:39:53 GMT | Dinosaur Scifi Horror Gift Book SALE .88 | Diane Edwards, Writer, Author - Senior PM | [Read More](https://medium.com/p/56223452467e) |
-| Sun, 23 Nov 2025 00:23:25 GMT | Your Firewall Can’t Save You: The Silent Crisis in API Security | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/10b8f18a70f6) |
-| Sun, 23 Nov 2025 00:18:15 GMT | Incident response plan for Healthcare Technology (HITECH) | Joe Alongi | [Read More](https://medium.com/p/f55982ec6674) |
-| Sun, 23 Nov 2025 00:12:05 GMT | Inside My First Security Incident: What You Don’t See Behind a Data Breach | David Constance | [Read More](https://medium.com/p/b68b9aeff908) |
-| Sun, 23 Nov 2025 00:08:42 GMT | How to Break Into Cybersecurity in 2026: Tools, Labs, and Mindset | Yash Patel | [Read More](https://medium.com/p/69c12ae29e91) |
