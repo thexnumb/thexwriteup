@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 19:28:46 GMT | Fintech 2025: New Waves of Innovation, Security, and User Experience | Bhinish Dhiman | [Read More](https://medium.com/p/2a1742113483) |
+| Sun, 23 Nov 2025 19:23:24 GMT | Windows CLI :] | Shamar Isaac | [Read More](https://medium.com/p/98b8eeab2163) |
+| Sun, 23 Nov 2025 19:19:05 GMT | Detecting Arp Poisoning From PCAP File | Ahmedhezema | [Read More](https://medium.com/p/b16e0ef56d41) |
 | Sun, 23 Nov 2025 19:06:45 GMT | Key API Security Risks and How to Spot Them | Catelle Ningha | [Read More](https://medium.com/p/1a42a6848108) |
 | Sun, 23 Nov 2025 19:03:12 GMT | AI Agents: AresGPT Entry Level Prompt Engineering for AI Security and Strategic Thinking | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/d2a331eea4ce) |
 | Sun, 23 Nov 2025 19:02:58 GMT | I’ve completed close to 20 SIEM onboarding projects, and I’m used to hearing this all the time. | Rafal Kitab | [Read More](https://medium.com/p/be2e16fcf675) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 12:12:06 GMT | Corporate Greed Chronicles: Verizon Rings in the Holidays with Pink Slips | Namir Sagheenanajar | [Read More](https://medium.com/p/8025609daca9) |
 | Sun, 23 Nov 2025 12:07:16 GMT | What Would You Do If Banks Opened for One Hour With Zero Rules? | . . | [Read More](https://medium.com/p/3b97d15d4e79) |
 | Sun, 23 Nov 2025 12:06:43 GMT | Navigating the Minefield: Security Risks in the Age of AI Agents | Tsognong Fidèle | [Read More](https://medium.com/p/4f46fb7e2e1f) |
-| Sun, 23 Nov 2025 12:02:21 GMT | lootserve: A Tiny HTTP Server to Speed Up Your OSCP, CPTS, eJPT and CTFs Workflow | rzz0 | [Read More](https://medium.com/p/7014c1e4bf32) |
-| Sun, 23 Nov 2025 12:00:52 GMT | He Tried to Fail Me with a Nasty Multithreading Bug — I Turned It Into the Best Moment of My Career | inside Nikita's Mind | [Read More](https://medium.com/p/5c629e0c3bf2) |
-| Sun, 23 Nov 2025 11:55:25 GMT | Why are crypto scammers (and not hackers) looking for you? | Isabel Pérez | [Read More](https://medium.com/p/4a42e6d72b0f) |
