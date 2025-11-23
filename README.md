@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 04:33:09 GMT | Write up Flow [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/aa63904cdaec) |
+| Sun, 23 Nov 2025 04:32:14 GMT | 7 Row-Level Security Patterns for Personal Retrieval | Thinking Loop | [Read More](https://medium.com/p/efebad4e67a1) |
+| Sun, 23 Nov 2025 04:14:35 GMT | Industries Where Your C Code Saves Lives (And They’re Hiring) | Fosres | [Read More](https://medium.com/p/19457138c177) |
+| Sun, 23 Nov 2025 03:54:10 GMT | Detecting and Blocking Web Attacks with SafeLine WAF | Enes Cayvarli | [Read More](https://medium.com/p/ac999f19c991) |
+| Sun, 23 Nov 2025 03:32:09 GMT | Exploring Microsoft Sentinel’s MCP Tools for the SOC | Arun Balaji Giridharan | [Read More](https://medium.com/p/0e4c3b8e764b) |
+| Sun, 23 Nov 2025 03:32:09 GMT | When a Photo Turns Into a Threat: Unpacking the LANDFALL Spyware Attack on Samsung Galaxy Devices | Deven Chhajed | [Read More](https://medium.com/p/38bd0c033578) |
 | Sun, 23 Nov 2025 03:24:53 GMT | Unlocking the Future: Biometric Security for Web Users | Vansh Khandelwal | [Read More](https://medium.com/p/f6dbcbf5622e) |
 | Sun, 23 Nov 2025 03:15:36 GMT | Beyond Code: The Obsessive Knowledge That Makes You Dangerous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d1179e3333ec) |
 | Sun, 23 Nov 2025 03:13:15 GMT | Shadows at the Summit | Andrew Brown | [Read More](https://medium.com/p/5e278209b492) |
@@ -45,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 00:18:15 GMT | Incident response plan for Healthcare Technology (HITECH) | Joe Alongi | [Read More](https://medium.com/p/f55982ec6674) |
 | Sun, 23 Nov 2025 00:12:05 GMT | Inside My First Security Incident: What You Don’t See Behind a Data Breach | David Constance | [Read More](https://medium.com/p/b68b9aeff908) |
 | Sun, 23 Nov 2025 00:08:42 GMT | How to Break Into Cybersecurity in 2026: Tools, Labs, and Mindset | Yash Patel | [Read More](https://medium.com/p/69c12ae29e91) |
+| Sat, 22 Nov 2025 23:53:20 GMT | Shadow AI: Unvetted Tools Are Leaking Your Company’s Data | Yash Patel | [Read More](https://medium.com/p/36b7e1b4f6f5) |
 | Sat, 22 Nov 2025 23:39:52 GMT | How To Apply Safety Measures In Travel.With | Nazzy_princess Anigbo | [Read More](https://medium.com/p/caf30f99a377) |
 | Sat, 22 Nov 2025 23:21:55 GMT | “Why Your Phone Is the Newest Target for Cyber Attacks (and How to Stay Safe)” | Grace Chukwunta | [Read More](https://medium.com/p/7a09301c95de) |
 | Sat, 22 Nov 2025 23:11:15 GMT | Robust Security & Authentication Best Practices in Next.js 16 | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/6265d2d41b13) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 17:25:43 GMT | What Happens When You Click Forgot Password (Part 2) | Nkiru Nwanolue | [Read More](https://medium.com/p/15649980a3d5) |
 | Sat, 22 Nov 2025 17:18:03 GMT | Stone Walls, Strong Kernels | Cube1214 | [Read More](https://medium.com/p/1d762064d658) |
 | Sat, 22 Nov 2025 17:13:57 GMT | Prompt Injection & Jailbreak Attacks: A Simple Guide to LLM Security | Tarunvoff | [Read More](https://medium.com/p/0fc6f16c8774) |
-| Sat, 22 Nov 2025 17:11:30 GMT | AS-REP Roasting Demystified: The Step-by-Step Guide to Offline Hash Harvesting | Muniza Badar | [Read More](https://medium.com/p/46ab4f265534) |
-| Sat, 22 Nov 2025 17:11:00 GMT | The Daily Download: Enterprise AI Ascends, Google Battles on All Fronts, and Cyber Woes Persist | Sully Greene | [Read More](https://medium.com/p/ff6340efbbc5) |
-| Sat, 22 Nov 2025 17:02:09 GMT | OSCP Grind - PG Practice - Levram | Mr Jokar | [Read More](https://medium.com/p/c33d78030465) |
-| Sat, 22 Nov 2025 17:00:31 GMT | Telecom Security CTF challenges | Ahmed_Salem | [Read More](https://medium.com/p/5bcb053ce554) |
-| Sat, 22 Nov 2025 16:44:10 GMT | Douglas cane | Mudiuth | [Read More](https://medium.com/p/21b574855574) |
-| Sat, 22 Nov 2025 16:40:32 GMT | Cloudflare Security Incident Explained: Simple Breakdown of the Third-Party Breach | Natarajan C K | [Read More](https://medium.com/p/ab235207cf7b) |
-| Sat, 22 Nov 2025 16:26:33 GMT | THE PUPPET MASTER- HACK THE BOX- ROOM | 5kullk3r | [Read More](https://medium.com/p/75252f9fedae) |
