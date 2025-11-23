@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 21:12:06 GMT | I Followed One Simple Rule To Find Hidden Website Errors | Ibtissam | [Read More](https://medium.com/p/076d00f779e1) |
+| Sun, 23 Nov 2025 21:08:34 GMT | The secret rulebook behind every tap-and-go payment (Part 1) | Ryan Aminollahi | [Read More](https://medium.com/p/f47e53c8a696) |
+| Sun, 23 Nov 2025 21:02:02 GMT | Phishing for AWS Credentials via the New 'aws login' Flow | Adan | [Read More](https://medium.com/p/39f6969b4eae) |
+| Sun, 23 Nov 2025 20:47:50 GMT | AI Is Breaking Cybersecurity — The New Threat Reality CISOs Must Prepare For (2025–2026) | Jigarjoshi | [Read More](https://medium.com/p/7a1704e83af0) |
+| Sun, 23 Nov 2025 20:47:42 GMT | The Weirdest Bug I’ve Ever Found — Unpredictable 0-Click Account Takeover | Excessium | [Read More](https://medium.com/p/165c54fa81c7) |
+| Sun, 23 Nov 2025 20:46:01 GMT | How to Get Solved From the Social Media Account Takeover Problem | Liam | [Read More](https://medium.com/p/cce47a2589e4) |
+| Sun, 23 Nov 2025 20:37:37 GMT | Configuring Domain Controller to Perfrom Active Directory Attacks. | Muniza Badar | [Read More](https://medium.com/p/118107af5965) |
+| Sun, 23 Nov 2025 20:31:22 GMT | Moorbridge Cyber Security Cracks Major Crypto Theft Case Leveraging Advanced PT and Threat… | Manish Roshan @Coneberry.com | [Read More](https://medium.com/p/5882fdbdd520) |
 | Sun, 23 Nov 2025 20:30:36 GMT | The Discomfort of Being Seen | Thick Thoughts Blog | [Read More](https://medium.com/p/10b66f75e457) |
 | Sun, 23 Nov 2025 20:30:11 GMT | IPv4 Subnetleme Mantığını Öğrenirken Kendi /24–/32 Referans Tablomu Hazırladım | Tugce Didem Selek | [Read More](https://medium.com/p/ff5e170fee47) |
 | Sun, 23 Nov 2025 20:24:14 GMT | My First Two Bounties in Bug Bounty — Both Critical | Excessium | [Read More](https://medium.com/p/f8908376c4b4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 13:28:42 GMT | Securing repository secrets with github hooks | Sofia | [Read More](https://medium.com/p/950a12119a5c) |
 | Sun, 23 Nov 2025 13:28:34 GMT | When IP Whitelisting Isn’t What It Seems: A Real-World Case Study from the Binance API | Oliver Zehentleitner | [Read More](https://medium.com/p/816c4312d6d0) |
 | Sun, 23 Nov 2025 13:19:50 GMT | Supercharge Your FortiGate: Proactive Defence with Q-Feeds Threat Intelligence | Amit Ambekar | [Read More](https://medium.com/p/7aa07699571c) |
-| Sun, 23 Nov 2025 13:15:26 GMT | “PAUL: Part 4,” by Joseth Moore. Copyright @ 2025. | Joseth Moore | [Read More](https://medium.com/p/4f895f934966) |
-| Sun, 23 Nov 2025 13:13:22 GMT | The Day the Internet Stood Still | AADI JAIN | [Read More](https://medium.com/p/f146a92d52f2) |
-| Sun, 23 Nov 2025 13:11:27 GMT | HTB Fries — Complete Writeup | Chechene | [Read More](https://medium.com/p/a72fd13310e9) |
-| Sun, 23 Nov 2025 13:05:54 GMT | I Spied on Hackers So You Don’t Have To: How Dark Web Chatter Led to a $Cloud Misconfiguration Bug… | Iski | [Read More](https://medium.com/p/42409396317b) |
-| Sun, 23 Nov 2025 12:53:57 GMT | DockerLabs Writeup — BruteShock (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b77e630d2731) |
-| Sun, 23 Nov 2025 12:39:55 GMT | Blind XSS: The Silent Vulnerability That Lives Inside Your Internal Tools | Umaadi | [Read More](https://medium.com/p/f5d59127c733) |
-| Sun, 23 Nov 2025 12:39:50 GMT | Why Did the Bitcoin Collapse Happen in November 2025? | David SEHYEON Baek | [Read More](https://medium.com/p/aeb90eb5c02f) |
-| Sun, 23 Nov 2025 12:38:52 GMT | Secure by Design: Why Business Context Makes or Breaks Security | Gerald Bachlmayr | [Read More](https://medium.com/p/adc05d674ac4) |
