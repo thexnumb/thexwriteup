@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 12:38:05 GMT | ⚠️ When NAC Becomes the Attack Surface: Why Recent Cisco ISE Flaws Are a Game-Changer !! | Uche Paul Okanume | [Read More](https://medium.com/p/6ad9aa99f13a) |
+| Sun, 23 Nov 2025 12:27:46 GMT | SOC Investigation Report — Event ID 119-Possible IDOR Attack | Soumodeep Das | [Read More](https://medium.com/p/206b8efc831c) |
+| Sun, 23 Nov 2025 12:26:13 GMT | Artificial Intelligence vs Human Intelligence: Key Differences | Manisha Chaudhary | [Read More](https://medium.com/p/64e16a8ca6b7) |
+| Sun, 23 Nov 2025 12:17:30 GMT | Anomaly Model Training Techniques for the SOC: Mapping the Unknown with Machine Learning | Esra Kayhan | [Read More](https://medium.com/p/53cfdc43da8a) |
+| Sun, 23 Nov 2025 12:12:06 GMT | Corporate Greed Chronicles: Verizon Rings in the Holidays with Pink Slips | Namir Sagheenanajar | [Read More](https://medium.com/p/8025609daca9) |
+| Sun, 23 Nov 2025 12:07:16 GMT | What Would You Do If Banks Opened for One Hour With Zero Rules? | . . | [Read More](https://medium.com/p/3b97d15d4e79) |
+| Sun, 23 Nov 2025 12:06:43 GMT | Navigating the Minefield: Security Risks in the Age of AI Agents | Tsognong Fidèle | [Read More](https://medium.com/p/4f46fb7e2e1f) |
+| Sun, 23 Nov 2025 12:02:21 GMT | lootserve: A Tiny HTTP Server to Speed Up Your OSCP, CPTS, eJPT and CTFs Workflow | rzz0 | [Read More](https://medium.com/p/7014c1e4bf32) |
+| Sun, 23 Nov 2025 12:00:52 GMT | He Tried to Fail Me with a Nasty Multithreading Bug — I Turned It Into the Best Moment of My Career | inside Nikita's Mind | [Read More](https://medium.com/p/5c629e0c3bf2) |
+| Sun, 23 Nov 2025 11:55:25 GMT | Why are crypto scammers (and not hackers) looking for you? | Isabel Pérez | [Read More](https://medium.com/p/4a42e6d72b0f) |
+| Sun, 23 Nov 2025 11:50:42 GMT | Vulnerability Assessment & Penetration Testing (VAPT) | Manisha Chaudhary | [Read More](https://medium.com/p/6f35e4852f1a) |
+| Sun, 23 Nov 2025 11:42:05 GMT | The Art of Exploratory Testing: Thinking Like a User | Az.Sk. | [Read More](https://medium.com/p/af5b96a3f9ce) |
+| Sun, 23 Nov 2025 11:38:56 GMT | AI Is Taking Over Jobs Faster Than Anyone Expected — Here’s How Smart People Are Staying Relevant… | Content Tech | [Read More](https://medium.com/p/49630d70085a) |
 | Sun, 23 Nov 2025 11:37:36 GMT | Automating File Transfer from Azure DevOps to Remote Windows Server Using CI/CD Pipelines | Rahul Sule | [Read More](https://medium.com/p/e9afc90c8a17) |
 | Sun, 23 Nov 2025 11:16:03 GMT | Guessme — Mobile Hacking Lab Writeup | rajasa. | [Read More](https://medium.com/p/f4b4fc393e9a) |
 | Sun, 23 Nov 2025 11:04:36 GMT | I’ve Been Away for a Bit. Here’s What I’ve Been Researching. | Om Arora | [Read More](https://medium.com/p/41f59fb3e1dc) |
@@ -100,16 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 02:56:40 GMT | The Ethical OSINT Practitioner’s Dilemma | Rabail Zaheer | [Read More](https://medium.com/p/c2b7e4508f2a) |
 | Sun, 23 Nov 2025 02:56:33 GMT | Path Traversal Returns: CVE-2021–3281 | Monika sharma | [Read More](https://medium.com/p/52e270a69227) |
 | Sun, 23 Nov 2025 02:56:31 GMT | The Rise of AI-Powered Cyberattacks: Are We Prepared for the New Frontier of Hacking? | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/48682c452ca0) |
-| Sun, 23 Nov 2025 02:46:01 GMT | Padelify (CRTF Challenge) — Full Walkthrough & Write-Up | SmaRTy | [Read More](https://medium.com/p/ff48d246a374) |
-| Sun, 23 Nov 2025 02:42:12 GMT | If Someone Has Your Phone Number, They Can Find THIS About You. | Elijah Usani | [Read More](https://medium.com/p/46e8359beff5) |
-| Sun, 23 Nov 2025 02:42:12 GMT | The Remarkable Cloud Security Reality: What You Need to Know Before Syncing Sensitive Data | Tony S | [Read More](https://medium.com/p/48f0e36d21f6) |
-| Sun, 23 Nov 2025 02:41:20 GMT | The Power of Information Technology Shaping Our Digital World | Author! | [Read More](https://medium.com/p/61c8faf2cc43) |
-| Sun, 23 Nov 2025 02:39:44 GMT | TryHackMeVMs: Basic Pentesting | Justin Jude Cabodil | [Read More](https://medium.com/p/514545883987) |
-| Sun, 23 Nov 2025 02:13:57 GMT | The Perfect Storm: How AI-Generated Code Is Supercharging the Cybersecurity Crisis | Ramya Murthy | [Read More](https://medium.com/p/452cc831a08a) |
-| Sun, 23 Nov 2025 02:06:26 GMT | ⚡ Week 5: The Feature That Changes Everything | ZAYN | [Read More](https://medium.com/p/a0a7eed31253) |
-| Sun, 23 Nov 2025 01:46:42 GMT | Why Every Developer Should Care About CSP in 2025 | Jagdish Choudhary | [Read More](https://medium.com/p/19840727c7bb) |
-| Sun, 23 Nov 2025 01:44:42 GMT | russian-proxy-access-guide | ChainNova | [Read More](https://medium.com/p/8cb8e279c446) |
-| Sun, 23 Nov 2025 01:32:06 GMT | 5 FastAPI Auth UX Moves: Passkeys, JWKS, No Downtime | Velorum | [Read More](https://medium.com/p/47f171e2e0e3) |
-| Sun, 23 Nov 2025 01:32:06 GMT | 7 SolidStart Ideas That Make React Apps Feel Native | Nexumo | [Read More](https://medium.com/p/c55528110d7e) |
-| Sun, 23 Nov 2025 01:08:14 GMT | True Love: Navigating Long Distance and Future Uncertainty | Misass | [Read More](https://medium.com/p/b92f4055fe49) |
-| Sun, 23 Nov 2025 01:05:55 GMT | Malware Analysis: Static Breakdown | Lilian  Ugwu | [Read More](https://medium.com/p/407f9d292635) |
