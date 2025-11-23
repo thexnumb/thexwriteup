@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 11:37:36 GMT | Automating File Transfer from Azure DevOps to Remote Windows Server Using CI/CD Pipelines | Rahul Sule | [Read More](https://medium.com/p/e9afc90c8a17) |
+| Sun, 23 Nov 2025 11:16:03 GMT | Guessme — Mobile Hacking Lab Writeup | rajasa. | [Read More](https://medium.com/p/f4b4fc393e9a) |
 | Sun, 23 Nov 2025 11:04:36 GMT | I’ve Been Away for a Bit. Here’s What I’ve Been Researching. | Om Arora | [Read More](https://medium.com/p/41f59fb3e1dc) |
 | Sun, 23 Nov 2025 11:01:57 GMT | Why Employers Gain More Control with the Meister App | Sarmin Islam | [Read More](https://medium.com/p/59a281b92fde) |
 | Sun, 23 Nov 2025 10:55:57 GMT | SpiderFoot Deep Dive: Installation, Scans, and Practical Use Cases | Andrey Pautov | [Read More](https://medium.com/p/11ea6537ad6f) |
@@ -111,5 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 01:32:06 GMT | 7 SolidStart Ideas That Make React Apps Feel Native | Nexumo | [Read More](https://medium.com/p/c55528110d7e) |
 | Sun, 23 Nov 2025 01:08:14 GMT | True Love: Navigating Long Distance and Future Uncertainty | Misass | [Read More](https://medium.com/p/b92f4055fe49) |
 | Sun, 23 Nov 2025 01:05:55 GMT | Malware Analysis: Static Breakdown | Lilian  Ugwu | [Read More](https://medium.com/p/407f9d292635) |
-| Sun, 23 Nov 2025 01:00:37 GMT | From Gifts to Blackmail: The Social Media Scam Targeting Indian Women… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/ff4a5b3efbfa) |
-| Sun, 23 Nov 2025 00:59:00 GMT | Your Child’s Imaginary Friend is a Corporate AI Designed to Sell Them Things | ToxSec | [Read More](https://medium.com/p/3f97acab51c0) |
