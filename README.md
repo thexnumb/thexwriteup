@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 10:26:16 GMT | Nigeria’s Current Crisis | Juls_pEn | [Read More](https://medium.com/p/c9684a796ca6) |
 | Sun, 23 Nov 2025 10:00:47 GMT | How I Passed the PJPT at 17 (My Honest Experience)PJPT REVIEW | Febafu | [Read More](https://medium.com/p/69182e9936b8) |
 | Sun, 23 Nov 2025 10:00:03 GMT | Passcode Writeup (Pwnable.kr) | Ivan Daňo | [Read More](https://medium.com/p/540208373d3b) |
 | Sun, 23 Nov 2025 09:59:06 GMT | Full Admin Takeover: How I Saved a Canadian Multi-Million Dollar Company from Total Compromise | iamrizwanvp | [Read More](https://medium.com/p/209f3f1d26b7) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 00:18:15 GMT | Incident response plan for Healthcare Technology (HITECH) | Joe Alongi | [Read More](https://medium.com/p/f55982ec6674) |
 | Sun, 23 Nov 2025 00:12:05 GMT | Inside My First Security Incident: What You Don’t See Behind a Data Breach | David Constance | [Read More](https://medium.com/p/b68b9aeff908) |
 | Sun, 23 Nov 2025 00:08:42 GMT | How to Break Into Cybersecurity in 2026: Tools, Labs, and Mindset | Yash Patel | [Read More](https://medium.com/p/69c12ae29e91) |
-| Sat, 22 Nov 2025 23:53:20 GMT | Shadow AI: Unvetted Tools Are Leaking Your Company’s Data | Yash Patel | [Read More](https://medium.com/p/36b7e1b4f6f5) |
