@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 14:35:34 GMT | Part 8: Virtual Box Home Lab — Security Groups, Map Drives, And Personal Drives setup walkthrough | Declan | [Read More](https://medium.com/p/58601efb63da) |
+| Sun, 23 Nov 2025 14:32:31 GMT | 7 Ways Technology Has Changed Our Lives | Digital Marketing Buddy | [Read More](https://medium.com/p/f0db677168c9) |
+| Sun, 23 Nov 2025 14:29:48 GMT | Are Your Hands Steady Enough to Hold My Fragile Heart? | Summer | [Read More](https://medium.com/p/eba3c51dd57e) |
+| Sun, 23 Nov 2025 14:18:04 GMT | Defensive Security Tooling — Writeup | Mahir | [Read More](https://medium.com/p/a0243d764200) |
 | Sun, 23 Nov 2025 13:58:43 GMT | rumination | Jaze Sandhu | [Read More](https://medium.com/p/5599f141f9b4) |
 | Sun, 23 Nov 2025 13:40:47 GMT | Write Up HTTP Requests and Responses — Hack The Box (HTB) | Kang_BlankOn | [Read More](https://medium.com/p/4ef31248a33f) |
 | Sun, 23 Nov 2025 13:39:55 GMT | TryHackMe — Windows Privilege Escalation — Walkthrough | Alan | [Read More](https://medium.com/p/8cd299cfc30e) |
@@ -109,7 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 05:35:19 GMT | A hidden detail in our ZDLRA 23.1 deployment | Arsalan Dehghani Sariyarghan | [Read More](https://medium.com/p/eea8eb68bd57) |
 | Sun, 23 Nov 2025 05:29:59 GMT | Access Management Decluttered: Why AI Hiring Tools Are Crossing Human Boundaries | Rubab Fatima | [Read More](https://medium.com/p/ad857aabbb93) |
 | Sun, 23 Nov 2025 05:15:34 GMT | 10 MDM Platforms Worth Considering in 2026 | Yuvi Aggarwal | [Read More](https://medium.com/p/af7c0ec57625) |
-| Sun, 23 Nov 2025 05:12:00 GMT | The Era of Cybersecurity — A Beginner’s Gateway Into the Digital Defense World | cyberwinx | [Read More](https://medium.com/p/99407be99d23) |
-| Sun, 23 Nov 2025 05:02:10 GMT | Rust Lifetimes Without the Confusion: A Practical Guide | Asma | [Read More](https://medium.com/p/ae464dc56636) |
-| Sun, 23 Nov 2025 04:57:58 GMT | Understanding Hashing, HMAC, and Digital Signatures | Himanshu Upadhayay | [Read More](https://medium.com/p/4c8de17d63eb) |
-| Sun, 23 Nov 2025 04:48:00 GMT | The Cache Poisoning Bible: Part 3 — Advanced Weaponization & Critical Impact Chains | Abhishek meena | [Read More](https://medium.com/p/62e23e00e41d) |
