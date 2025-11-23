@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 13:28:42 GMT | Securing repository secrets with github hooks | Sofia | [Read More](https://medium.com/p/950a12119a5c) |
+| Sun, 23 Nov 2025 13:28:34 GMT | When IP Whitelisting Isn’t What It Seems: A Real-World Case Study from the Binance API | Oliver Zehentleitner | [Read More](https://medium.com/p/816c4312d6d0) |
+| Sun, 23 Nov 2025 13:19:50 GMT | Supercharge Your FortiGate: Proactive Defence with Q-Feeds Threat Intelligence | Amit Ambekar | [Read More](https://medium.com/p/7aa07699571c) |
+| Sun, 23 Nov 2025 13:15:26 GMT | “PAUL: Part 4,” by Joseth Moore. Copyright @ 2025. | Joseth Moore | [Read More](https://medium.com/p/4f895f934966) |
 | Sun, 23 Nov 2025 13:13:22 GMT | The Day the Internet Stood Still | AADI JAIN | [Read More](https://medium.com/p/f146a92d52f2) |
 | Sun, 23 Nov 2025 13:11:27 GMT | HTB Fries — Complete Writeup | Chechene | [Read More](https://medium.com/p/a72fd13310e9) |
 | Sun, 23 Nov 2025 13:05:54 GMT | I Spied on Hackers So You Don’t Have To: How Dark Web Chatter Led to a $Cloud Misconfiguration Bug… | Iski | [Read More](https://medium.com/p/42409396317b) |
@@ -109,7 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 04:33:09 GMT | Write up Flow [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/aa63904cdaec) |
 | Sun, 23 Nov 2025 04:32:14 GMT | 7 Row-Level Security Patterns for Personal Retrieval | Thinking Loop | [Read More](https://medium.com/p/efebad4e67a1) |
 | Sun, 23 Nov 2025 04:14:35 GMT | Industries Where Your C Code Saves Lives (And They’re Hiring) | Fosres | [Read More](https://medium.com/p/19457138c177) |
-| Sun, 23 Nov 2025 03:54:10 GMT | Detecting and Blocking Web Attacks with SafeLine WAF | Enes Cayvarli | [Read More](https://medium.com/p/ac999f19c991) |
-| Sun, 23 Nov 2025 03:32:09 GMT | Exploring Microsoft Sentinel’s MCP Tools for the SOC | Arun Balaji Giridharan | [Read More](https://medium.com/p/0e4c3b8e764b) |
-| Sun, 23 Nov 2025 03:32:09 GMT | When a Photo Turns Into a Threat: Unpacking the LANDFALL Spyware Attack on Samsung Galaxy Devices | Deven Chhajed | [Read More](https://medium.com/p/38bd0c033578) |
-| Sun, 23 Nov 2025 03:24:53 GMT | Unlocking the Future: Biometric Security for Web Users | Vansh Khandelwal | [Read More](https://medium.com/p/f6dbcbf5622e) |
