@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 15:28:58 GMT | [Ethernaut] 3. Coin Flip | Jiseop Shin | [Read More](https://medium.com/p/40de027b3ddd) |
+| Sun, 23 Nov 2025 15:22:47 GMT | PostgreSQL on Kubernetes: Performance Nightmare or Dream? | Rizqi Mulki | [Read More](https://medium.com/p/d4421e387b17) |
+| Sun, 23 Nov 2025 15:12:36 GMT | HTB Academy — Web Attacks: Skills Assessment | BotsiCat | [Read More](https://medium.com/p/99fc6ba2a32b) |
 | Sun, 23 Nov 2025 15:05:58 GMT | My experience with the new Antigravity IDE from Google | Ihor Sasovets | [Read More](https://medium.com/p/a1d9bbd2a301) |
 | Sun, 23 Nov 2025 15:04:41 GMT | Sunset : Dawn:- The VM Where Everything Clicked — Reverse Shells, SUID Abuse, and Clean Root | Shikhar Sinha | [Read More](https://medium.com/p/6f121163fde3) |
 | Sun, 23 Nov 2025 15:02:47 GMT | จากโดนยำสู่ยืนหนึ่ง (สักที!) Asean Cyber Shield 3 ซีซันติด | BXDMAN | [Read More](https://medium.com/p/a91efb4d8ddf) |
@@ -110,6 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 07:30:56 GMT | A Comprehensive Guide to Hunting Bugs in User Registration Features | coffinxp | [Read More](https://medium.com/p/fe8b04dc39b8) |
 | Sun, 23 Nov 2025 07:22:59 GMT | From Assistant to Teammate: The Rise of Agentic AI in Security Operations | Omololu Adu | [Read More](https://medium.com/p/bfdf6e861571) |
 | Sun, 23 Nov 2025 07:20:44 GMT | Hack the Box Starting Point: Responder | KarmicDragoon92 | [Read More](https://medium.com/p/6ff927b7733c) |
-| Sun, 23 Nov 2025 07:10:09 GMT | Day 2 – Learning Cybersecurity on TryHackMe With Just My Phone | Ofoegbu Franklin | [Read More](https://medium.com/p/54589983407f) |
-| Sun, 23 Nov 2025 06:53:42 GMT | All About Android Pentesting | Xcheater | [Read More](https://medium.com/p/f047b7c7e0f1) |
-| Sun, 23 Nov 2025 06:46:06 GMT | We’re Consuming More Than We’re Creating: Why Your Mind Feels Crowded but Your Life Feels Empty | Vijay Kumar Gupta | [Read More](https://medium.com/p/6be649c825c6) |
