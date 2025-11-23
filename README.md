@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 23:15:35 GMT | The Stranger I Still Love | Anonyraye | [Read More](https://medium.com/p/d90c16abb724) |
+| Sun, 23 Nov 2025 23:00:33 GMT | Cronos — Write-up | Taxaneh | [Read More](https://medium.com/p/06f9dddc5d0e) |
+| Sun, 23 Nov 2025 22:56:31 GMT | Tracing a Stack Overflow Bug Through Taint Analysis: A Deep Dive Into Data Flow Graphs | BitGuardian | [Read More](https://medium.com/p/ec98ca8dffea) |
+| Sun, 23 Nov 2025 22:48:25 GMT | Seduction, Secrets, Silicon Valley | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/eb2c0b6daa16) |
+| Sun, 23 Nov 2025 22:33:06 GMT | HTB BountyHunter — Write-up | Taxaneh | [Read More](https://medium.com/p/33b26405ff2b) |
 | Sun, 23 Nov 2025 22:29:04 GMT | The Future of Autonomous Robots in 2030 | Artiscribe | [Read More](https://medium.com/p/b50f8f99b081) |
 | Sun, 23 Nov 2025 22:22:18 GMT | TryHackMe — Wreath | omni | [Read More](https://medium.com/p/7da00105e263) |
 | Sun, 23 Nov 2025 22:16:11 GMT | DevSecOps Kit: Bringing Enterprise Security to Small Teams | Edgar Posada | [Read More](https://medium.com/p/a9106334b9fa) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 14:35:34 GMT | Part 8: Virtual Box Home Lab — Security Groups, Map Drives, And Personal Drives setup walkthrough | Declan | [Read More](https://medium.com/p/58601efb63da) |
 | Sun, 23 Nov 2025 14:32:31 GMT | 7 Ways Technology Has Changed Our Lives | Digital Marketing Buddy | [Read More](https://medium.com/p/f0db677168c9) |
 | Sun, 23 Nov 2025 14:32:16 GMT | SOC Fundamentals — TryHackMe | Mohammed Allehyani | [Read More](https://medium.com/p/5ea69e8e131c) |
-| Sun, 23 Nov 2025 14:32:07 GMT | The Cybersecurity Buzzword I’m Tired of Hearing | Cyberkech | [Read More](https://medium.com/p/9cf51f36be9b) |
-| Sun, 23 Nov 2025 14:29:48 GMT | Are Your Hands Steady Enough to Hold My Fragile Heart? | Summer | [Read More](https://medium.com/p/eba3c51dd57e) |
-| Sun, 23 Nov 2025 14:18:04 GMT | Defensive Security Tooling — Writeup | Mahir | [Read More](https://medium.com/p/a0243d764200) |
-| Sun, 23 Nov 2025 14:05:04 GMT | Pharmacy Tech Practice Questions and Answers: Full 2025 Study Guide | Motherlandlove | [Read More](https://medium.com/p/8f1554989bb3) |
-| Sun, 23 Nov 2025 13:58:43 GMT | rumination | Jaze Sandhu | [Read More](https://medium.com/p/5599f141f9b4) |
