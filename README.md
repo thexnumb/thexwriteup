@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 03:24:53 GMT | Unlocking the Future: Biometric Security for Web Users | Vansh Khandelwal | [Read More](https://medium.com/p/f6dbcbf5622e) |
+| Sun, 23 Nov 2025 03:15:36 GMT | Beyond Code: The Obsessive Knowledge That Makes You Dangerous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d1179e3333ec) |
+| Sun, 23 Nov 2025 03:13:15 GMT | Shadows at the Summit | Andrew Brown | [Read More](https://medium.com/p/5e278209b492) |
+| Sun, 23 Nov 2025 03:12:59 GMT | How I passed the CompTIA Security+ as a teenager. | Weather Johhny | [Read More](https://medium.com/p/73be2bf577e7) |
+| Sun, 23 Nov 2025 02:57:10 GMT | Register / Signup Vulnerabilities: Step-by-Step Guide for Bug Hunters | Monika sharma | [Read More](https://medium.com/p/86239ee4cc95) |
+| Sun, 23 Nov 2025 02:57:02 GMT | The Risks of Free VPNs and How to Choose a Secure One | Samina Perveen | [Read More](https://medium.com/p/921d26992c35) |
+| Sun, 23 Nov 2025 02:56:40 GMT | The Ethical OSINT Practitioner’s Dilemma | Rabail Zaheer | [Read More](https://medium.com/p/c2b7e4508f2a) |
+| Sun, 23 Nov 2025 02:56:33 GMT | Path Traversal Returns: CVE-2021–3281 | Monika sharma | [Read More](https://medium.com/p/52e270a69227) |
+| Sun, 23 Nov 2025 02:56:31 GMT | The Rise of AI-Powered Cyberattacks: Are We Prepared for the New Frontier of Hacking? | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/48682c452ca0) |
+| Sun, 23 Nov 2025 02:46:01 GMT | Padelify (CRTF Challenge) — Full Walkthrough & Write-Up | SmaRTy | [Read More](https://medium.com/p/ff48d246a374) |
+| Sun, 23 Nov 2025 02:42:12 GMT | If Someone Has Your Phone Number, They Can Find THIS About You. | Elijah Usani | [Read More](https://medium.com/p/46e8359beff5) |
+| Sun, 23 Nov 2025 02:42:12 GMT | The Remarkable Cloud Security Reality: What You Need to Know Before Syncing Sensitive Data | Tony S | [Read More](https://medium.com/p/48f0e36d21f6) |
+| Sun, 23 Nov 2025 02:41:20 GMT | The Power of Information Technology Shaping Our Digital World | Author! | [Read More](https://medium.com/p/61c8faf2cc43) |
+| Sun, 23 Nov 2025 02:39:44 GMT | TryHackMeVMs: Basic Pentesting | Justin Jude Cabodil | [Read More](https://medium.com/p/514545883987) |
+| Sun, 23 Nov 2025 02:13:57 GMT | The Perfect Storm: How AI-Generated Code Is Supercharging the Cybersecurity Crisis | Ramya Murthy | [Read More](https://medium.com/p/452cc831a08a) |
+| Sun, 23 Nov 2025 02:06:26 GMT | ⚡ Week 5: The Feature That Changes Everything | ZAYN | [Read More](https://medium.com/p/a0a7eed31253) |
 | Sun, 23 Nov 2025 01:46:42 GMT | Why Every Developer Should Care About CSP in 2025 | Jagdish Choudhary | [Read More](https://medium.com/p/19840727c7bb) |
 | Sun, 23 Nov 2025 01:44:42 GMT | russian-proxy-access-guide | ChainNova | [Read More](https://medium.com/p/8cb8e279c446) |
 | Sun, 23 Nov 2025 01:32:06 GMT | 5 FastAPI Auth UX Moves: Passkeys, JWKS, No Downtime | Velorum | [Read More](https://medium.com/p/47f171e2e0e3) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 16:44:10 GMT | Douglas cane | Mudiuth | [Read More](https://medium.com/p/21b574855574) |
 | Sat, 22 Nov 2025 16:40:32 GMT | Cloudflare Security Incident Explained: Simple Breakdown of the Third-Party Breach | Natarajan C K | [Read More](https://medium.com/p/ab235207cf7b) |
 | Sat, 22 Nov 2025 16:26:33 GMT | THE PUPPET MASTER- HACK THE BOX- ROOM | 5kullk3r | [Read More](https://medium.com/p/75252f9fedae) |
-| Sat, 22 Nov 2025 16:12:49 GMT | Advanced Machine Learning using Spark MLlib | Salwa Fijri | [Read More](https://medium.com/p/5ce7894d06cf) |
-| Sat, 22 Nov 2025 16:11:31 GMT | Why Nobody Wants to Hire You Anymore | Vijay Kumar Gupta | [Read More](https://medium.com/p/3d6749cb5903) |
-| Sat, 22 Nov 2025 15:56:06 GMT | ️replicating the *‘absurdly’ successful Breakthrough Formula and Autonomous Researcher >Fails… | Berend Watchus | [Read More](https://medium.com/p/0e5bccbdebf0) |
-| Sat, 22 Nov 2025 15:48:56 GMT | THM - The Case: Seven Minutes on the Seine | Francesco Pastore | [Read More](https://medium.com/p/932083ad2b4c) |
-| Sat, 22 Nov 2025 15:41:35 GMT | Your Browser, Their Beam | Mail 17 | [Read More](https://medium.com/p/92d2603e59e3) |
-| Sat, 22 Nov 2025 15:41:29 GMT | Removing the Armor: The Case for Authentic Storytelling at Work | True North Journal by Chris Jelinek | [Read More](https://medium.com/p/c4513ed3ca07) |
-| Sat, 22 Nov 2025 15:35:36 GMT | Testing RAT Detection: Why Modern Defender Makes Blue Team Testing Harder | Raynard Waits | [Read More](https://medium.com/p/6d8f21af8607) |
-| Sat, 22 Nov 2025 15:35:21 GMT | Fix Your Website Bugs Fast — My New Upwork Service Is Live! | Globalantic | [Read More](https://medium.com/p/c24c5779d442) |
-| Sat, 22 Nov 2025 15:32:06 GMT | ChatGPT History Is Now on Google Search? Here’s Exactly How I Secured My Chats in 10 Minutes. | Saurabh Kumar Singh | [Read More](https://medium.com/p/c8c6d79dcb58) |
-| Sat, 22 Nov 2025 15:25:27 GMT | [Ethernaut] 2. Fallout | Jiseop Shin | [Read More](https://medium.com/p/df63e33d224d) |
-| Sat, 22 Nov 2025 15:22:42 GMT | 10 Things You Can Do to Secure Your Website (When You’re Not a Security Expert) | Cyberbali | [Read More](https://medium.com/p/47e155e3fd21) |
-| Sat, 22 Nov 2025 15:22:23 GMT | To My Best Friends: I’m Sorry I Was the Worst, But Thank You for Being the Best | Twinkle | [Read More](https://medium.com/p/4cd77f58b3c8) |
-| Sat, 22 Nov 2025 15:14:23 GMT | The Surprising Truth About Cloud Outages | Sherilyn Burris | [Read More](https://medium.com/p/121d44b053f6) |
-| Sat, 22 Nov 2025 15:14:00 GMT | What Are Software Supply Chain Failures? ️ | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/02a428b4c31b) |
-| Sat, 22 Nov 2025 15:10:30 GMT | Cloudflare’s Outrage … Why? | SRIRAM G | [Read More](https://medium.com/p/a8a135a73c7b) |
-| Sat, 22 Nov 2025 15:09:39 GMT | MDI Sensor Won’t Start? A Practical Guide to Actually Fixing It | Anduenescu | [Read More](https://medium.com/p/9c7c7f56dfb4) |
