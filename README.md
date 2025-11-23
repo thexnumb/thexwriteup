@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 13:58:43 GMT | rumination | Jaze Sandhu | [Read More](https://medium.com/p/5599f141f9b4) |
+| Sun, 23 Nov 2025 13:40:47 GMT | Write Up HTTP Requests and Responses — Hack The Box (HTB) | Kang_BlankOn | [Read More](https://medium.com/p/4ef31248a33f) |
+| Sun, 23 Nov 2025 13:39:55 GMT | TryHackMe — Windows Privilege Escalation — Walkthrough | Alan | [Read More](https://medium.com/p/8cd299cfc30e) |
+| Sun, 23 Nov 2025 13:37:09 GMT | The WhatsApp Data Leak: What Really Happened and Why It Matters More Than You Think | Faisal haque | [Read More](https://medium.com/p/b11054bdd6b9) |
+| Sun, 23 Nov 2025 13:35:11 GMT | Write Up Web Request di Platform — Hack The Box (HTB) | Kang_BlankOn | [Read More](https://medium.com/p/c0f0b14f1e30) |
 | Sun, 23 Nov 2025 13:28:42 GMT | Securing repository secrets with github hooks | Sofia | [Read More](https://medium.com/p/950a12119a5c) |
 | Sun, 23 Nov 2025 13:28:34 GMT | When IP Whitelisting Isn’t What It Seems: A Real-World Case Study from the Binance API | Oliver Zehentleitner | [Read More](https://medium.com/p/816c4312d6d0) |
 | Sun, 23 Nov 2025 13:19:50 GMT | Supercharge Your FortiGate: Proactive Defence with Q-Feeds Threat Intelligence | Amit Ambekar | [Read More](https://medium.com/p/7aa07699571c) |
@@ -108,8 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 05:02:10 GMT | Rust Lifetimes Without the Confusion: A Practical Guide | Asma | [Read More](https://medium.com/p/ae464dc56636) |
 | Sun, 23 Nov 2025 04:57:58 GMT | Understanding Hashing, HMAC, and Digital Signatures | Himanshu Upadhayay | [Read More](https://medium.com/p/4c8de17d63eb) |
 | Sun, 23 Nov 2025 04:48:00 GMT | The Cache Poisoning Bible: Part 3 — Advanced Weaponization & Critical Impact Chains | Abhishek meena | [Read More](https://medium.com/p/62e23e00e41d) |
-| Sun, 23 Nov 2025 04:41:50 GMT | The Rise and Fall of Kingdom Market, a Darknet Empire | David SEHYEON Baek | [Read More](https://medium.com/p/312efbbc5db3) |
-| Sun, 23 Nov 2025 04:34:35 GMT | What Is Cloudflare? A Complete Guide (Simple + Deep Explanation) | Tanish Dewase | [Read More](https://medium.com/p/c561589c9ab1) |
-| Sun, 23 Nov 2025 04:33:09 GMT | Write up Flow [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/aa63904cdaec) |
-| Sun, 23 Nov 2025 04:32:14 GMT | 7 Row-Level Security Patterns for Personal Retrieval | Thinking Loop | [Read More](https://medium.com/p/efebad4e67a1) |
-| Sun, 23 Nov 2025 04:14:35 GMT | Industries Where Your C Code Saves Lives (And They’re Hiring) | Fosres | [Read More](https://medium.com/p/19457138c177) |
