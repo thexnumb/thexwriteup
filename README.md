@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 08:13:10 GMT | Access Control Implementation Models (and Why They Matter for Finding BAC Vulnerabilities) | Ali Ziro | [Read More](https://medium.com/p/f5b8bea71eec) |
+| Sun, 23 Nov 2025 08:03:30 GMT | User Level Rate Limit: Essential Guide for API Security | Saurabh Pathak | [Read More](https://medium.com/p/f110d3a0cbf7) |
+| Sun, 23 Nov 2025 07:55:42 GMT | How Cybersecurity Protects Smart Cities and IoT Devices | 500- SHIFAT HOSSAIN | [Read More](https://medium.com/p/b4e86148f7f5) |
+| Sun, 23 Nov 2025 07:49:24 GMT | Mpokket loan app customer care helpline number☎️(8825276084)@!!@ + Call now | Papu Singh | [Read More](https://medium.com/p/d00d9ac06a52) |
+| Sun, 23 Nov 2025 07:48:21 GMT | How Generative AI Can Be Used in Cybersecurity | Demis Hassabis | [Read More](https://medium.com/p/b00dbf431668) |
+| Sun, 23 Nov 2025 07:46:26 GMT | MacBook Camera Light Turned On Suddenly — Without Reason | Faizan Saghir | [Read More](https://medium.com/p/4f6fa21afd8d) |
+| Sun, 23 Nov 2025 07:39:02 GMT | The GitHub Security Blindspot: When Your Organisation Members’ Personal Repos Become Your Problem | Gujjuboy10x00 | [Read More](https://medium.com/p/4ba08307acd1) |
+| Sun, 23 Nov 2025 07:32:28 GMT | Locking Down Your Workflows: OAuth2 & Credentials in n8n | Duckweave | [Read More](https://medium.com/p/37fba8759da4) |
+| Sun, 23 Nov 2025 07:30:56 GMT | A Comprehensive Guide to Hunting Bugs in User Registration Features | coffinxp | [Read More](https://medium.com/p/fe8b04dc39b8) |
 | Sun, 23 Nov 2025 07:22:59 GMT | From Assistant to Teammate: The Rise of Agentic AI in Security Operations | Omololu Adu | [Read More](https://medium.com/p/bfdf6e861571) |
+| Sun, 23 Nov 2025 07:20:44 GMT | Hack the Box Starting Point: Responder | KarmicDragoon92 | [Read More](https://medium.com/p/6ff927b7733c) |
 | Sun, 23 Nov 2025 07:10:09 GMT | Day 2 – Learning Cybersecurity on TryHackMe With Just My Phone | Ofoegbu Franklin | [Read More](https://medium.com/p/54589983407f) |
 | Sun, 23 Nov 2025 06:53:42 GMT | All About Android Pentesting | Xcheater | [Read More](https://medium.com/p/f047b7c7e0f1) |
 | Sun, 23 Nov 2025 06:46:06 GMT | We’re Consuming More Than We’re Creating: Why Your Mind Feels Crowded but Your Life Feels Empty | Vijay Kumar Gupta | [Read More](https://medium.com/p/6be649c825c6) |
@@ -78,6 +88,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 23:39:52 GMT | How To Apply Safety Measures In Travel.With | Nazzy_princess Anigbo | [Read More](https://medium.com/p/caf30f99a377) |
 | Sat, 22 Nov 2025 23:21:55 GMT | “Why Your Phone Is the Newest Target for Cyber Attacks (and How to Stay Safe)” | Grace Chukwunta | [Read More](https://medium.com/p/7a09301c95de) |
 | Sat, 22 Nov 2025 23:11:15 GMT | Robust Security & Authentication Best Practices in Next.js 16 | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/6265d2d41b13) |
+| Sat, 22 Nov 2025 23:09:33 GMT | Lab 2#: Clickjacking with form input data prefilled from a URL parameter- Clickjacking Lab | Mosta | [Read More](https://medium.com/p/81036f0182b6) |
 | Sat, 22 Nov 2025 23:05:35 GMT | New in OWASP Top 10 2025: A03 and A10 Explained in Simple Terms | Yug Shah | [Read More](https://medium.com/p/1cdcbc7af3de) |
 | Sat, 22 Nov 2025 22:56:45 GMT | A Hybrid AI Approach for Cyberattack Detection: Combining Apriori, Decision Tree, DBSCAN, and RAG | Omar farque | [Read More](https://medium.com/p/fb9b7c425360) |
 | Sat, 22 Nov 2025 22:46:24 GMT | THE HIDDEN INFRASTRUCTURE: INSIDE THE SILENT RACE TO REBUILD THE INTERNET | Sam Viles | [Read More](https://medium.com/p/c01010581510) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 20:42:02 GMT | Securing Docker Containers: Practical Hands-On Guide for Real-World DevSecOps | Ashhadali | [Read More](https://medium.com/p/4c2001c4486a) |
 | Sat, 22 Nov 2025 20:30:10 GMT | Token Impersonation using Metasploit | Ammar Ahmed | [Read More](https://medium.com/p/f2a5936d20ef) |
 | Sat, 22 Nov 2025 20:27:47 GMT | Breaking Pickle: How I Got Remote Code Execution Through Python Deserialization | Esom Eze | [Read More](https://medium.com/p/e579637fcb2e) |
-| Sat, 22 Nov 2025 20:26:40 GMT | How to Find a Lost Phone That Is Turned Off (2025 Method) | Julie White | [Read More](https://medium.com/p/b56bc4de278d) |
-| Sat, 22 Nov 2025 20:25:53 GMT | Today marks the beginning of my path into cybersecurity specifically the SOC Analyst track. | Ofoegbu Franklin | [Read More](https://medium.com/p/8a6eb5f069fe) |
-| Sat, 22 Nov 2025 20:17:03 GMT | Exploiting Django CVE‑2025‑64459 on TryHackMe: Complete Walkthrough | iIyas | [Read More](https://medium.com/p/59d353e1a7ac) |
-| Sat, 22 Nov 2025 20:07:05 GMT | Are spammers using your SaaS product as an attack vector? | Ted Spence | [Read More](https://medium.com/p/b6cbdb196d77) |
-| Sat, 22 Nov 2025 20:02:00 GMT | ⟐ Finding Prototype Pollution (CVE-2019–11358) in Week 3 of My IT Security Career | jsll | [Read More](https://medium.com/p/447352b6dfa8) |
-| Sat, 22 Nov 2025 20:00:05 GMT | The Audio File That Wasn’t: When Trust Became a Weapon | Gracie Emmanuel | [Read More](https://medium.com/p/38dded7531cc) |
-| Sat, 22 Nov 2025 19:53:15 GMT | Unlocking the Benefits of Verified HTX Accounts: What You Need to Know | Mstkiyando | [Read More](https://medium.com/p/f4dc2c8b4008) |
-| Sat, 22 Nov 2025 19:47:16 GMT | Quick ELK SIEM Lab Setup with Suricata | Geexirooz | [Read More](https://medium.com/p/153208d51777) |
-| Sat, 22 Nov 2025 19:46:38 GMT | iOS 26 Settings App Privacy: A Short Guide | Sean Andreas | [Read More](https://medium.com/p/5bc075c9255c) |
-| Sat, 22 Nov 2025 19:22:28 GMT | Bridging the Gap: Maximizing Cybersecurity through a Hybrid Open-Source & Enterprise Stack | Rommel Jay Gadil | [Read More](https://medium.com/p/d4b2cb8500e8) |
-| Sat, 22 Nov 2025 19:20:42 GMT | UpGuard’s Trust Exchange: Is the VP of Product Taking Design Cues from Happy Hour? | Jeremy C | [Read More](https://medium.com/p/f6b5c104929a) |
