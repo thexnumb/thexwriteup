@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 19:06:45 GMT | Key API Security Risks and How to Spot Them | Catelle Ningha | [Read More](https://medium.com/p/1a42a6848108) |
+| Sun, 23 Nov 2025 19:03:12 GMT | AI Agents: AresGPT Entry Level Prompt Engineering for AI Security and Strategic Thinking | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/d2a331eea4ce) |
+| Sun, 23 Nov 2025 19:02:58 GMT | I’ve completed close to 20 SIEM onboarding projects, and I’m used to hearing this all the time. | Rafal Kitab | [Read More](https://medium.com/p/be2e16fcf675) |
+| Sun, 23 Nov 2025 19:02:46 GMT | OverTheWire: Wargames — Natas (Level 32–33) Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/15696c5d60b2) |
+| Sun, 23 Nov 2025 19:02:03 GMT | Triple Kill: How I Uncovered 3 Critical Bugs in a Single Hunt ️‍☠️ | Vansh Sharma | [Read More](https://medium.com/p/66677bc48369) |
+| Sun, 23 Nov 2025 18:59:32 GMT | Proving Grounds - Nagoya | jniket | [Read More](https://medium.com/p/8e2aa702556f) |
+| Sun, 23 Nov 2025 18:58:48 GMT | The One S3 Encryption Fix That Can Stop a Ransomware Nightmare | Pois0n84 | [Read More](https://medium.com/p/7a7c3dcd00fe) |
+| Sun, 23 Nov 2025 18:57:41 GMT | HackTheBox: Code Part II | Rahaliashraf | [Read More](https://medium.com/p/efb1eea077e2) |
+| Sun, 23 Nov 2025 18:57:31 GMT | Cloud-based access control: benefits, risks, and real-world use cases | Teona | [Read More](https://medium.com/p/586b288da728) |
+| Sun, 23 Nov 2025 18:48:09 GMT | ️ The Foundation of AI Security: Data Poisoning Attacks and Defense Strategies for Secure… | Lumae | [Read More](https://medium.com/p/83bb6f8bd0e5) |
 | Sun, 23 Nov 2025 18:46:47 GMT | Word Files as Chatbot Attack Vectors: Hidden Prompts & Zipbombs | Reinder Vos de Wael, Ph.D. | [Read More](https://medium.com/p/d1d2499413d6) |
 | Sun, 23 Nov 2025 18:42:58 GMT | Legal Person Identity First: The EBW as the Cornerstone of Europe’s Digital Sovereignty | Carsten Stöcker | [Read More](https://medium.com/p/a71b82f0c514) |
 | Sun, 23 Nov 2025 18:39:45 GMT | Software testing stages | Igor Berner | [Read More](https://medium.com/p/5ba3350a3d5c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 12:02:21 GMT | lootserve: A Tiny HTTP Server to Speed Up Your OSCP, CPTS, eJPT and CTFs Workflow | rzz0 | [Read More](https://medium.com/p/7014c1e4bf32) |
 | Sun, 23 Nov 2025 12:00:52 GMT | He Tried to Fail Me with a Nasty Multithreading Bug — I Turned It Into the Best Moment of My Career | inside Nikita's Mind | [Read More](https://medium.com/p/5c629e0c3bf2) |
 | Sun, 23 Nov 2025 11:55:25 GMT | Why are crypto scammers (and not hackers) looking for you? | Isabel Pérez | [Read More](https://medium.com/p/4a42e6d72b0f) |
-| Sun, 23 Nov 2025 11:50:42 GMT | Vulnerability Assessment & Penetration Testing (VAPT) | Manisha Chaudhary | [Read More](https://medium.com/p/6f35e4852f1a) |
-| Sun, 23 Nov 2025 11:42:05 GMT | The Art of Exploratory Testing: Thinking Like a User | Az.Sk. | [Read More](https://medium.com/p/af5b96a3f9ce) |
-| Sun, 23 Nov 2025 11:38:56 GMT | AI Is Taking Over Jobs Faster Than Anyone Expected — Here’s How Smart People Are Staying Relevant… | Content Tech | [Read More](https://medium.com/p/49630d70085a) |
-| Sun, 23 Nov 2025 11:37:36 GMT | Automating File Transfer from Azure DevOps to Remote Windows Server Using CI/CD Pipelines | Rahul Sule | [Read More](https://medium.com/p/e9afc90c8a17) |
-| Sun, 23 Nov 2025 11:16:03 GMT | Guessme — Mobile Hacking Lab Writeup | rajasa. | [Read More](https://medium.com/p/f4b4fc393e9a) |
-| Sun, 23 Nov 2025 11:04:36 GMT | I’ve Been Away for a Bit. Here’s What I’ve Been Researching. | Om Arora | [Read More](https://medium.com/p/41f59fb3e1dc) |
-| Sun, 23 Nov 2025 11:01:57 GMT | Why Employers Gain More Control with the Meister App | Sarmin Islam | [Read More](https://medium.com/p/59a281b92fde) |
-| Sun, 23 Nov 2025 10:55:57 GMT | SpiderFoot Deep Dive: Installation, Scans, and Practical Use Cases | Andrey Pautov | [Read More](https://medium.com/p/11ea6537ad6f) |
-| Sun, 23 Nov 2025 10:54:17 GMT | Top 10 Mobile Application Security Testing Tools in 2025 | cyber security Updates | [Read More](https://medium.com/p/3cb626a756e6) |
-| Sun, 23 Nov 2025 10:49:44 GMT | I Built a Smart Linux Firewall Manager & SOC Dashboard with Python (So You Don’t Have To) | Amirmahdi Nozari | [Read More](https://medium.com/p/bcd3e2d0ecf6) |
