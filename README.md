@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 08:35:30 GMT | Attackers Offered $25,000 for Access to CrowdStrike | Patrik Žák | [Read More](https://medium.com/p/9cf3d830b41f) |
+| Sun, 23 Nov 2025 08:33:45 GMT | How I Broke My Linux Server Using One Nmap Command, And Learned More in One Night Than in Months | Fateyaly | [Read More](https://medium.com/p/892be55ee062) |
+| Sun, 23 Nov 2025 08:31:57 GMT | CISA Sounds the Alarm: Critical Oracle Identity Manager Zero-Day Actively Exploited in the Wild | Germano Costi | [Read More](https://medium.com/p/e4a30ed16061) |
+| Sun, 23 Nov 2025 08:31:19 GMT | A Complete Breakdown of How to Prevent CSAM and Build Safer Online Spaces | EINITIAL24 | [Read More](https://medium.com/p/fadd62dbead1) |
+| Sun, 23 Nov 2025 08:30:54 GMT | Cache Side-Channel Attacks: When Time Itself Becomes a Leak | Bervice | [Read More](https://medium.com/p/d396fba11941) |
+| Sun, 23 Nov 2025 08:26:24 GMT | Secrets in JavaScript Files : What Hackers Extract | Vipul Sonule | [Read More](https://medium.com/p/60c18b6bf153) |
+| Sun, 23 Nov 2025 08:24:52 GMT | The Dumbest Nmap Mistake I Ever Made (And Why I’m Glad It Happened) | Fateyaly | [Read More](https://medium.com/p/8ae894525dc2) |
+| Sun, 23 Nov 2025 08:21:20 GMT | Complete Guide to IT Support: Career Path, Skills, and Free Training in 2025 | DeltaBytes | [Read More](https://medium.com/p/2e271d755603) |
+| Sun, 23 Nov 2025 08:19:13 GMT | Pivoting into Cybersecurity as a Mid-Career Professional | Pooja Shimpi | [Read More](https://medium.com/p/7ba4799dd19c) |
 | Sun, 23 Nov 2025 08:13:10 GMT | Access Control Implementation Models (and Why They Matter for Finding BAC Vulnerabilities) | Ali Ziro | [Read More](https://medium.com/p/f5b8bea71eec) |
 | Sun, 23 Nov 2025 08:03:30 GMT | User Level Rate Limit: Essential Guide for API Security | Saurabh Pathak | [Read More](https://medium.com/p/f110d3a0cbf7) |
 | Sun, 23 Nov 2025 07:55:42 GMT | How Cybersecurity Protects Smart Cities and IoT Devices | 500- SHIFAT HOSSAIN | [Read More](https://medium.com/p/b4e86148f7f5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 21:38:31 GMT | PatriotCTF 2025 — Web Challenge Write-Up | Yousefw | [Read More](https://medium.com/p/1fe588da669d) |
 | Sat, 22 Nov 2025 21:31:48 GMT | Why Your AI Agent Needs a Physical Body | Alexander Zanfir | [Read More](https://medium.com/p/7d133d1af0b1) |
 | Sat, 22 Nov 2025 21:27:23 GMT | Hardening Kubernetes Environments | Niraj Kumar | [Read More](https://medium.com/p/ed515fb87b42) |
-| Sat, 22 Nov 2025 21:16:43 GMT | A Tip For Cyber Security Interviews | Jbird | [Read More](https://medium.com/p/849b6667cd03) |
-| Sat, 22 Nov 2025 21:06:40 GMT | I Automated Finding Cache Deception In Web Applications | Ibtissam | [Read More](https://medium.com/p/13bd1d700a37) |
-| Sat, 22 Nov 2025 21:02:09 GMT | AS-REProasting: Attacking Accounts Without Kerberos Pre-Authentication | Cybersecurity Simplified | [Read More](https://medium.com/p/30e05ed397e9) |
-| Sat, 22 Nov 2025 20:48:04 GMT | JWT Privilege Escalation to Container RCE via Jinja2 SSTI “ Intigriti challenge” | Adham Heinrich | [Read More](https://medium.com/p/beadf4185f12) |
-| Sat, 22 Nov 2025 20:47:22 GMT | ‏كيف اكتشفت ثغرة في منطق الأعمال تسمح بالتلاعب بالأسعار من خلال معايير الشحن‏ | Zyad Ibrahim | [Read More](https://medium.com/p/343e35b644b4) |
-| Sat, 22 Nov 2025 20:47:01 GMT | Detecting Zero-Day Web Attacks Using Cross-Domain Semi-Supervised Learning: A Paper Review | Md. Mostafijur Rahman | [Read More](https://medium.com/p/db2e7091fb50) |
-| Sat, 22 Nov 2025 20:42:02 GMT | Securing Docker Containers: Practical Hands-On Guide for Real-World DevSecOps | Ashhadali | [Read More](https://medium.com/p/4c2001c4486a) |
-| Sat, 22 Nov 2025 20:30:10 GMT | Token Impersonation using Metasploit | Ammar Ahmed | [Read More](https://medium.com/p/f2a5936d20ef) |
-| Sat, 22 Nov 2025 20:27:47 GMT | Breaking Pickle: How I Got Remote Code Execution Through Python Deserialization | Esom Eze | [Read More](https://medium.com/p/e579637fcb2e) |
