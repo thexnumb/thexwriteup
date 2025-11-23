@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 23:29:55 GMT | Beyond Machines | Taulan Zauzanov | [Read More](https://medium.com/p/ba7d47c7b81b) |
+| Sun, 23 Nov 2025 23:22:53 GMT | Understanding JWT Authentication with HMAC: A Deep Dive into Secret Key Distribution | Thiago Santos | [Read More](https://medium.com/p/abe945db05fe) |
+| Sun, 23 Nov 2025 23:21:06 GMT | Week 6: The Pivot That Saved Everything | ZAYN | [Read More](https://medium.com/p/cc3966d32023) |
 | Sun, 23 Nov 2025 23:15:35 GMT | The Stranger I Still Love | Anonyraye | [Read More](https://medium.com/p/d90c16abb724) |
 | Sun, 23 Nov 2025 23:00:33 GMT | Cronos — Write-up | Taxaneh | [Read More](https://medium.com/p/06f9dddc5d0e) |
 | Sun, 23 Nov 2025 22:56:31 GMT | Tracing a Stack Overflow Bug Through Taint Analysis: A Deep Dive Into Data Flow Graphs | BitGuardian | [Read More](https://medium.com/p/ec98ca8dffea) |
+| Sun, 23 Nov 2025 22:54:55 GMT | OffSec PG: PayDay (OSCP Prep, Intermediate) | G3XAR | [Read More](https://medium.com/p/77428ffcec5c) |
 | Sun, 23 Nov 2025 22:48:25 GMT | Seduction, Secrets, Silicon Valley | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/eb2c0b6daa16) |
 | Sun, 23 Nov 2025 22:33:06 GMT | HTB BountyHunter — Write-up | Taxaneh | [Read More](https://medium.com/p/33b26405ff2b) |
 | Sun, 23 Nov 2025 22:29:04 GMT | The Future of Autonomous Robots in 2030 | Artiscribe | [Read More](https://medium.com/p/b50f8f99b081) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 14:44:46 GMT | Informationssicherheit Management System ( ISMS) verstehen: Ein Überblick über ISO 27001 | Atanur Coban | [Read More](https://medium.com/p/04341f8ce53b) |
 | Sun, 23 Nov 2025 14:40:25 GMT | DPDP Act and Rules : What Companies Must Actually Do now? | Snehjeet Mukherjee | [Read More](https://medium.com/p/fa9bae3e2581) |
 | Sun, 23 Nov 2025 14:38:27 GMT | Suburban Studios Denver Tech Center Reviews: Complete 2025 Guide | Motherlandlove | [Read More](https://medium.com/p/4146bb79d86f) |
-| Sun, 23 Nov 2025 14:38:05 GMT | Passionate About Cybersecurity & Ethical Hacking | Monu Jangra | [Read More](https://medium.com/p/5ee7dbb9b332) |
-| Sun, 23 Nov 2025 14:35:34 GMT | Part 8: Virtual Box Home Lab — Security Groups, Map Drives, And Personal Drives setup walkthrough | Declan | [Read More](https://medium.com/p/58601efb63da) |
-| Sun, 23 Nov 2025 14:32:31 GMT | 7 Ways Technology Has Changed Our Lives | Digital Marketing Buddy | [Read More](https://medium.com/p/f0db677168c9) |
-| Sun, 23 Nov 2025 14:32:16 GMT | SOC Fundamentals — TryHackMe | Mohammed Allehyani | [Read More](https://medium.com/p/5ea69e8e131c) |
