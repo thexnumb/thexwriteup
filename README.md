@@ -12,12 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 16:35:35 GMT | Why you should learn Ansible right now? | Marcos Scurtu | [Read More](https://medium.com/p/e77ea3145b7c) |
+| Sun, 23 Nov 2025 16:28:06 GMT | Ignite— TryHackMe Easy Challenge — Writeup - by P4NTHR | P4NTHR | [Read More](https://medium.com/p/261a065fc5ca) |
+| Sun, 23 Nov 2025 16:23:38 GMT | MI5’s LinkedIn Warning & China’s Digital Spies | O. J. Okpabi | [Read More](https://medium.com/p/5d54ca375ac4) |
 | Sun, 23 Nov 2025 16:21:48 GMT | HackTheBox : Paper Writeup | Dhruvgundecha | [Read More](https://medium.com/p/3acc6fee673f) |
+| Sun, 23 Nov 2025 16:19:03 GMT | Installing Splunk | Allen Ace | [Read More](https://medium.com/p/c705b7a83e41) |
 | Sun, 23 Nov 2025 16:12:27 GMT | Evaluating Web Server Security Posture Using Nikto: Findings, Methodology & Analysis | Kiza | [Read More](https://medium.com/p/5de3e11628d5) |
 | Sun, 23 Nov 2025 16:08:27 GMT | On Cheesy Words and Other Dangerous Feelings | Tjiso | [Read More](https://medium.com/p/3403c5458b2f) |
 | Sun, 23 Nov 2025 16:07:53 GMT | How I Spent 5 Hours For a Vulnerability And Got Ghosted | christos dimitropoulos | [Read More](https://medium.com/p/e1bd09c1b9c7) |
 | Sun, 23 Nov 2025 16:06:28 GMT | Securing Docker Containers — Practical Hands-On Guide | Ashhadali | [Read More](https://medium.com/p/9a9d34e0cd23) |
 | Sun, 23 Nov 2025 16:02:09 GMT | Millions of U.S. Flight Reservations Could Have Been Hacked in Minutes With Basic Brute Force | Digital Minds | [Read More](https://medium.com/p/bb24970f37eb) |
+| Sun, 23 Nov 2025 15:58:33 GMT | just memecoin Rewards Eligibility & Claim Guide — November 2025 | just memecoin | [Read More](https://medium.com/p/1c67bb4e4671) |
 | Sun, 23 Nov 2025 15:47:12 GMT | DevSecOps: Building a Secure Custom App from Day One | Kwiqsol Technologies | [Read More](https://medium.com/p/da4c071e371e) |
 | Sun, 23 Nov 2025 15:41:31 GMT | Vascular Ultrasound Tech Salary Guide 2025: Pay, Factors, Growth | Motherlandlove | [Read More](https://medium.com/p/c85df7e38892) |
 | Sun, 23 Nov 2025 15:39:39 GMT | “More Than a Teacher: Rediscovering Ministry in the Classroom” | Jamal Thomas | [Read More](https://medium.com/p/ea6ca0080a0d) |
@@ -108,8 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 08:51:26 GMT | The Cloud Security Skills You MUST Learn In 2026 — Or Get Left Behind | Taimur Ijlal | [Read More](https://medium.com/p/bbaa5d6bf7c6) |
 | Sun, 23 Nov 2025 08:35:30 GMT | Attackers Offered $25,000 for Access to CrowdStrike | Patrik Žák | [Read More](https://medium.com/p/9cf3d830b41f) |
 | Sun, 23 Nov 2025 08:33:45 GMT | How I Broke My Linux Server Using One Nmap Command, And Learned More in One Night Than in Months | Fateyaly | [Read More](https://medium.com/p/892be55ee062) |
-| Sun, 23 Nov 2025 08:31:57 GMT | CISA Sounds the Alarm: Critical Oracle Identity Manager Zero-Day Actively Exploited in the Wild | Germano Costi | [Read More](https://medium.com/p/e4a30ed16061) |
-| Sun, 23 Nov 2025 08:31:19 GMT | A Complete Breakdown of How to Prevent CSAM and Build Safer Online Spaces | EINITIAL24 | [Read More](https://medium.com/p/fadd62dbead1) |
-| Sun, 23 Nov 2025 08:30:54 GMT | Cache Side-Channel Attacks: When Time Itself Becomes a Leak | Bervice | [Read More](https://medium.com/p/d396fba11941) |
-| Sun, 23 Nov 2025 08:26:24 GMT | Secrets in JavaScript Files : What Hackers Extract | Vipul Sonule | [Read More](https://medium.com/p/60c18b6bf153) |
-| Sun, 23 Nov 2025 08:24:52 GMT | The Dumbest Nmap Mistake I Ever Made (And Why I’m Glad It Happened) | Fateyaly | [Read More](https://medium.com/p/8ae894525dc2) |
