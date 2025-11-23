@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 05:12:00 GMT | The Era of Cybersecurity — A Beginner’s Gateway Into the Digital Defense World | cyberwinx | [Read More](https://medium.com/p/99407be99d23) |
+| Sun, 23 Nov 2025 05:02:10 GMT | Rust Lifetimes Without the Confusion: A Practical Guide | Asma | [Read More](https://medium.com/p/ae464dc56636) |
+| Sun, 23 Nov 2025 04:57:58 GMT | Understanding Hashing, HMAC, and Digital Signatures | Himanshu Upadhayay | [Read More](https://medium.com/p/4c8de17d63eb) |
+| Sun, 23 Nov 2025 04:48:00 GMT | The Cache Poisoning Bible: Part 3 — Advanced Weaponization & Critical Impact Chains | Abhishek meena | [Read More](https://medium.com/p/62e23e00e41d) |
+| Sun, 23 Nov 2025 04:41:50 GMT | The Rise and Fall of Kingdom Market, a Darknet Empire | David SEHYEON Baek | [Read More](https://medium.com/p/312efbbc5db3) |
+| Sun, 23 Nov 2025 04:34:35 GMT | What Is Cloudflare? A Complete Guide (Simple + Deep Explanation) | Tanish Dewase | [Read More](https://medium.com/p/c561589c9ab1) |
 | Sun, 23 Nov 2025 04:33:09 GMT | Write up Flow [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/aa63904cdaec) |
 | Sun, 23 Nov 2025 04:32:14 GMT | 7 Row-Level Security Patterns for Personal Retrieval | Thinking Loop | [Read More](https://medium.com/p/efebad4e67a1) |
 | Sun, 23 Nov 2025 04:14:35 GMT | Industries Where Your C Code Saves Lives (And They’re Hiring) | Fosres | [Read More](https://medium.com/p/19457138c177) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 17:37:56 GMT | Zero Trust & Identity-First Security: The Future of Cyber Defense | Sruthi Punugu | [Read More](https://medium.com/p/3d5b3082c237) |
 | Sat, 22 Nov 2025 17:35:29 GMT | How Burp Suite Decrypt HTTPS Traffic ? A Clear Explanation. | Bappe Sarker | [Read More](https://medium.com/p/dc421f414720) |
 | Sat, 22 Nov 2025 17:34:54 GMT | Fighting Fake News with Data Mining: How Technology Protects Us Online | Afiaparvinmaria | [Read More](https://medium.com/p/c76e9acb76bb) |
-| Sat, 22 Nov 2025 17:32:05 GMT | n8n Secrets & Permissions: Least-Privilege Automation for Production | Nikulsinh Rajput | [Read More](https://medium.com/p/17318b3679d4) |
-| Sat, 22 Nov 2025 17:30:33 GMT | Top 7 Websites to Verify Your Pay pal Account in 2025 … | Pipejaj | [Read More](https://medium.com/p/1e5b15e54fd8) |
-| Sat, 22 Nov 2025 17:26:57 GMT | Y2K vs AI: Why Looking Back Can Help Us Move Forward | Tiglu Mekuria | [Read More](https://medium.com/p/cadd555043e3) |
-| Sat, 22 Nov 2025 17:25:43 GMT | What Happens When You Click Forgot Password (Part 2) | Nkiru Nwanolue | [Read More](https://medium.com/p/15649980a3d5) |
-| Sat, 22 Nov 2025 17:18:03 GMT | Stone Walls, Strong Kernels | Cube1214 | [Read More](https://medium.com/p/1d762064d658) |
-| Sat, 22 Nov 2025 17:13:57 GMT | Prompt Injection & Jailbreak Attacks: A Simple Guide to LLM Security | Tarunvoff | [Read More](https://medium.com/p/0fc6f16c8774) |
