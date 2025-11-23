@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 10:00:47 GMT | How I Passed the PJPT at 17 (My Honest Experience)PJPT REVIEW | Febafu | [Read More](https://medium.com/p/69182e9936b8) |
+| Sun, 23 Nov 2025 10:00:03 GMT | Passcode Writeup (Pwnable.kr) | Ivan Daňo | [Read More](https://medium.com/p/540208373d3b) |
+| Sun, 23 Nov 2025 09:59:06 GMT | Full Admin Takeover: How I Saved a Canadian Multi-Million Dollar Company from Total Compromise | iamrizwanvp | [Read More](https://medium.com/p/209f3f1d26b7) |
+| Sun, 23 Nov 2025 09:48:51 GMT | How to Protect Your PC from Malware with a Genuine OS — Black Friday Security Tips | Rory Deleon | [Read More](https://medium.com/p/4dd7a63611e8) |
+| Sun, 23 Nov 2025 09:42:58 GMT | How to Set Up Syslog Forwarding to Microsoft Sentinel (Even If You’re Not a Linux Expert) | Rafal Kitab | [Read More](https://medium.com/p/9b57cfe74a15) |
+| Sun, 23 Nov 2025 09:37:51 GMT | Why your 2FA is an illusion (Multi-Factor vs Multi-Stage) | Timothy Copeland | [Read More](https://medium.com/p/a3f5fb489d73) |
 | Sun, 23 Nov 2025 09:37:29 GMT | Networking foundations — IPv6 Playbook (Part 1) | Vishnuprasad O | [Read More](https://medium.com/p/c9a00b1c82d2) |
+| Sun, 23 Nov 2025 09:34:37 GMT | From Kafka Events to Real-Time Alerts: A Hands-On Guide with ksqlDB | Zeinab Dashti | [Read More](https://medium.com/p/b25ee372a6c9) |
 | Sun, 23 Nov 2025 09:31:44 GMT | Empire 25 | ˚ʚ♡ɞ˚ | [Read More](https://medium.com/p/4462501a644a) |
 | Sun, 23 Nov 2025 09:30:33 GMT | 10 Advanced Cybersecurity Scenarios Every Professional Must Practice | Muhammad Haider Tallal | [Read More](https://medium.com/p/1e492d6ed29e) |
+| Sun, 23 Nov 2025 09:27:20 GMT | Network Behavior Analytics Rule Writing | Esra Kayhan | [Read More](https://medium.com/p/124b1b4c99fe) |
 | Sun, 23 Nov 2025 09:26:37 GMT | Internal Network Penetration Testing in a Segmented Environment: A Complete Step-by-Step… | Asifzea | [Read More](https://medium.com/p/b5f644fb14be) |
 | Sun, 23 Nov 2025 09:22:14 GMT | Hacking “Blue”: A Beginner’s Journey from Scan to SYSTEM Shell | Adbin Mgr | [Read More](https://medium.com/p/5fbda802ff2b) |
 | Sun, 23 Nov 2025 09:21:25 GMT | Secure Your Traffic with Forced Tunneling in Azure Virtual WAN P2S VPN | Brian Veldman | [Read More](https://medium.com/p/2e1edfa020c6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 00:12:05 GMT | Inside My First Security Incident: What You Don’t See Behind a Data Breach | David Constance | [Read More](https://medium.com/p/b68b9aeff908) |
 | Sun, 23 Nov 2025 00:08:42 GMT | How to Break Into Cybersecurity in 2026: Tools, Labs, and Mindset | Yash Patel | [Read More](https://medium.com/p/69c12ae29e91) |
 | Sat, 22 Nov 2025 23:53:20 GMT | Shadow AI: Unvetted Tools Are Leaking Your Company’s Data | Yash Patel | [Read More](https://medium.com/p/36b7e1b4f6f5) |
-| Sat, 22 Nov 2025 23:39:52 GMT | How To Apply Safety Measures In Travel.With | Nazzy_princess Anigbo | [Read More](https://medium.com/p/caf30f99a377) |
-| Sat, 22 Nov 2025 23:21:55 GMT | “Why Your Phone Is the Newest Target for Cyber Attacks (and How to Stay Safe)” | Grace Chukwunta | [Read More](https://medium.com/p/7a09301c95de) |
-| Sat, 22 Nov 2025 23:11:15 GMT | Robust Security & Authentication Best Practices in Next.js 16 | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/6265d2d41b13) |
-| Sat, 22 Nov 2025 23:09:33 GMT | Lab 2#: Clickjacking with form input data prefilled from a URL parameter- Clickjacking Lab | Mosta | [Read More](https://medium.com/p/81036f0182b6) |
-| Sat, 22 Nov 2025 23:05:35 GMT | New in OWASP Top 10 2025: A03 and A10 Explained in Simple Terms | Yug Shah | [Read More](https://medium.com/p/1cdcbc7af3de) |
-| Sat, 22 Nov 2025 22:56:45 GMT | A Hybrid AI Approach for Cyberattack Detection: Combining Apriori, Decision Tree, DBSCAN, and RAG | Omar farque | [Read More](https://medium.com/p/fb9b7c425360) |
-| Sat, 22 Nov 2025 22:46:24 GMT | THE HIDDEN INFRASTRUCTURE: INSIDE THE SILENT RACE TO REBUILD THE INTERNET | Sam Viles | [Read More](https://medium.com/p/c01010581510) |
-| Sat, 22 Nov 2025 22:45:11 GMT | The words I never said | Chris Oladele | [Read More](https://medium.com/p/7b6e5601cb8c) |
