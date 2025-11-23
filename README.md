@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 13:13:22 GMT | The Day the Internet Stood Still | AADI JAIN | [Read More](https://medium.com/p/f146a92d52f2) |
+| Sun, 23 Nov 2025 13:11:27 GMT | HTB Fries — Complete Writeup | Chechene | [Read More](https://medium.com/p/a72fd13310e9) |
+| Sun, 23 Nov 2025 13:05:54 GMT | I Spied on Hackers So You Don’t Have To: How Dark Web Chatter Led to a $Cloud Misconfiguration Bug… | Iski | [Read More](https://medium.com/p/42409396317b) |
+| Sun, 23 Nov 2025 12:53:57 GMT | DockerLabs Writeup — BruteShock (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b77e630d2731) |
+| Sun, 23 Nov 2025 12:39:55 GMT | Blind XSS: The Silent Vulnerability That Lives Inside Your Internal Tools | Umaadi | [Read More](https://medium.com/p/f5d59127c733) |
+| Sun, 23 Nov 2025 12:39:50 GMT | Why Did the Bitcoin Collapse Happen in November 2025? | David SEHYEON Baek | [Read More](https://medium.com/p/aeb90eb5c02f) |
+| Sun, 23 Nov 2025 12:38:52 GMT | Secure by Design: Why Business Context Makes or Breaks Security | Gerald Bachlmayr | [Read More](https://medium.com/p/adc05d674ac4) |
 | Sun, 23 Nov 2025 12:38:05 GMT | ⚠️ When NAC Becomes the Attack Surface: Why Recent Cisco ISE Flaws Are a Game-Changer !! | Uche Paul Okanume | [Read More](https://medium.com/p/6ad9aa99f13a) |
+| Sun, 23 Nov 2025 12:32:14 GMT | When AI Became a Hacker: The Cybersecurity Turning Point We Can’t Ignore | Pavlović Goran | [Read More](https://medium.com/p/559cf4cc6ff5) |
 | Sun, 23 Nov 2025 12:27:46 GMT | SOC Investigation Report — Event ID 119-Possible IDOR Attack | Soumodeep Das | [Read More](https://medium.com/p/206b8efc831c) |
 | Sun, 23 Nov 2025 12:26:13 GMT | Artificial Intelligence vs Human Intelligence: Key Differences | Manisha Chaudhary | [Read More](https://medium.com/p/64e16a8ca6b7) |
 | Sun, 23 Nov 2025 12:17:30 GMT | Anomaly Model Training Techniques for the SOC: Mapping the Unknown with Machine Learning | Esra Kayhan | [Read More](https://medium.com/p/53cfdc43da8a) |
@@ -105,11 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 03:32:09 GMT | Exploring Microsoft Sentinel’s MCP Tools for the SOC | Arun Balaji Giridharan | [Read More](https://medium.com/p/0e4c3b8e764b) |
 | Sun, 23 Nov 2025 03:32:09 GMT | When a Photo Turns Into a Threat: Unpacking the LANDFALL Spyware Attack on Samsung Galaxy Devices | Deven Chhajed | [Read More](https://medium.com/p/38bd0c033578) |
 | Sun, 23 Nov 2025 03:24:53 GMT | Unlocking the Future: Biometric Security for Web Users | Vansh Khandelwal | [Read More](https://medium.com/p/f6dbcbf5622e) |
-| Sun, 23 Nov 2025 03:15:36 GMT | Beyond Code: The Obsessive Knowledge That Makes You Dangerous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d1179e3333ec) |
-| Sun, 23 Nov 2025 03:13:15 GMT | Shadows at the Summit | Andrew Brown | [Read More](https://medium.com/p/5e278209b492) |
-| Sun, 23 Nov 2025 03:12:59 GMT | How I passed the CompTIA Security+ as a teenager. | Weather Johhny | [Read More](https://medium.com/p/73be2bf577e7) |
-| Sun, 23 Nov 2025 02:57:10 GMT | Register / Signup Vulnerabilities: Step-by-Step Guide for Bug Hunters | Monika sharma | [Read More](https://medium.com/p/86239ee4cc95) |
-| Sun, 23 Nov 2025 02:57:02 GMT | The Risks of Free VPNs and How to Choose a Secure One | Samina Perveen | [Read More](https://medium.com/p/921d26992c35) |
-| Sun, 23 Nov 2025 02:56:40 GMT | The Ethical OSINT Practitioner’s Dilemma | Rabail Zaheer | [Read More](https://medium.com/p/c2b7e4508f2a) |
-| Sun, 23 Nov 2025 02:56:33 GMT | Path Traversal Returns: CVE-2021–3281 | Monika sharma | [Read More](https://medium.com/p/52e270a69227) |
-| Sun, 23 Nov 2025 02:56:31 GMT | The Rise of AI-Powered Cyberattacks: Are We Prepared for the New Frontier of Hacking? | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/48682c452ca0) |
