@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 20:30:36 GMT | The Discomfort of Being Seen | Thick Thoughts Blog | [Read More](https://medium.com/p/10b66f75e457) |
+| Sun, 23 Nov 2025 20:30:11 GMT | IPv4 Subnetleme Mantığını Öğrenirken Kendi /24–/32 Referans Tablomu Hazırladım | Tugce Didem Selek | [Read More](https://medium.com/p/ff5e170fee47) |
+| Sun, 23 Nov 2025 20:24:14 GMT | My First Two Bounties in Bug Bounty — Both Critical | Excessium | [Read More](https://medium.com/p/f8908376c4b4) |
+| Sun, 23 Nov 2025 20:15:55 GMT | Phase 2: Identity & Access Management + SDP Enforcement | Alex Wilcox | [Read More](https://medium.com/p/2528d705577c) |
 | Sun, 23 Nov 2025 20:09:56 GMT | H4K-it2025 the Bankheist2 writeu | Mudiuth | [Read More](https://medium.com/p/ebfd6b7fff0a) |
 | Sun, 23 Nov 2025 20:08:14 GMT | Understanding API Security: Why It Matters More Than Ever | Fwawira | [Read More](https://medium.com/p/560355bb2975) |
 | Sun, 23 Nov 2025 19:48:11 GMT | Learning from a Data Leak: Understanding Least Privilege in Action | Mohd Zakaria Khan | [Read More](https://medium.com/p/4b4fc29983b5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 12:39:55 GMT | Blind XSS: The Silent Vulnerability That Lives Inside Your Internal Tools | Umaadi | [Read More](https://medium.com/p/f5d59127c733) |
 | Sun, 23 Nov 2025 12:39:50 GMT | Why Did the Bitcoin Collapse Happen in November 2025? | David SEHYEON Baek | [Read More](https://medium.com/p/aeb90eb5c02f) |
 | Sun, 23 Nov 2025 12:38:52 GMT | Secure by Design: Why Business Context Makes or Breaks Security | Gerald Bachlmayr | [Read More](https://medium.com/p/adc05d674ac4) |
-| Sun, 23 Nov 2025 12:38:05 GMT | ⚠️ When NAC Becomes the Attack Surface: Why Recent Cisco ISE Flaws Are a Game-Changer !! | Uche Paul Okanume | [Read More](https://medium.com/p/6ad9aa99f13a) |
-| Sun, 23 Nov 2025 12:32:14 GMT | When AI Became a Hacker: The Cybersecurity Turning Point We Can’t Ignore | Pavlović Goran | [Read More](https://medium.com/p/559cf4cc6ff5) |
-| Sun, 23 Nov 2025 12:27:46 GMT | SOC Investigation Report — Event ID 119-Possible IDOR Attack | Soumodeep Das | [Read More](https://medium.com/p/206b8efc831c) |
-| Sun, 23 Nov 2025 12:26:13 GMT | Artificial Intelligence vs Human Intelligence: Key Differences | Manisha Chaudhary | [Read More](https://medium.com/p/64e16a8ca6b7) |
