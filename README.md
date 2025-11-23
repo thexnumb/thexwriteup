@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 20:09:56 GMT | H4K-it2025 the Bankheist2 writeu | Mudiuth | [Read More](https://medium.com/p/ebfd6b7fff0a) |
+| Sun, 23 Nov 2025 20:08:14 GMT | Understanding API Security: Why It Matters More Than Ever | Fwawira | [Read More](https://medium.com/p/560355bb2975) |
+| Sun, 23 Nov 2025 19:48:11 GMT | Learning from a Data Leak: Understanding Least Privilege in Action | Mohd Zakaria Khan | [Read More](https://medium.com/p/4b4fc29983b5) |
+| Sun, 23 Nov 2025 19:31:15 GMT | Practical GCN m | Elkadiayoub | [Read More](https://medium.com/p/8299fcbff96d) |
 | Sun, 23 Nov 2025 19:28:46 GMT | Fintech 2025: New Waves of Innovation, Security, and User Experience | Bhinish Dhiman | [Read More](https://medium.com/p/2a1742113483) |
 | Sun, 23 Nov 2025 19:23:24 GMT | Windows CLI :] | Shamar Isaac | [Read More](https://medium.com/p/98b8eeab2163) |
 | Sun, 23 Nov 2025 19:19:05 GMT | Detecting Arp Poisoning From PCAP File | Ahmedhezema | [Read More](https://medium.com/p/b16e0ef56d41) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 12:32:14 GMT | When AI Became a Hacker: The Cybersecurity Turning Point We Can’t Ignore | Pavlović Goran | [Read More](https://medium.com/p/559cf4cc6ff5) |
 | Sun, 23 Nov 2025 12:27:46 GMT | SOC Investigation Report — Event ID 119-Possible IDOR Attack | Soumodeep Das | [Read More](https://medium.com/p/206b8efc831c) |
 | Sun, 23 Nov 2025 12:26:13 GMT | Artificial Intelligence vs Human Intelligence: Key Differences | Manisha Chaudhary | [Read More](https://medium.com/p/64e16a8ca6b7) |
-| Sun, 23 Nov 2025 12:17:30 GMT | Anomaly Model Training Techniques for the SOC: Mapping the Unknown with Machine Learning | Esra Kayhan | [Read More](https://medium.com/p/53cfdc43da8a) |
-| Sun, 23 Nov 2025 12:12:06 GMT | Corporate Greed Chronicles: Verizon Rings in the Holidays with Pink Slips | Namir Sagheenanajar | [Read More](https://medium.com/p/8025609daca9) |
-| Sun, 23 Nov 2025 12:07:16 GMT | What Would You Do If Banks Opened for One Hour With Zero Rules? | . . | [Read More](https://medium.com/p/3b97d15d4e79) |
-| Sun, 23 Nov 2025 12:06:43 GMT | Navigating the Minefield: Security Risks in the Age of AI Agents | Tsognong Fidèle | [Read More](https://medium.com/p/4f46fb7e2e1f) |
