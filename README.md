@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 09:14:38 GMT | ️ How to Spot a Phishing Email — And What to Do About It | pdfalltools.com | [Read More](https://medium.com/p/bdb541bc725e) |
+| Sun, 23 Nov 2025 09:02:11 GMT | Add a Credential Leak Check to Any Login Flow in 10 Minutes With LeakRadar’s API | Alexandre Vandamme | [Read More](https://medium.com/p/e885aea049c1) |
+| Sun, 23 Nov 2025 09:01:05 GMT | How to Verify if Your Software License Is Genuine and Avoid Counterfeits | Jayson Potter | [Read More](https://medium.com/p/dfb7a49cd246) |
+| Sun, 23 Nov 2025 08:51:26 GMT | The Cloud Security Skills You MUST Learn In 2026 — Or Get Left Behind | Taimur Ijlal | [Read More](https://medium.com/p/bbaa5d6bf7c6) |
 | Sun, 23 Nov 2025 08:35:30 GMT | Attackers Offered $25,000 for Access to CrowdStrike | Patrik Žák | [Read More](https://medium.com/p/9cf3d830b41f) |
 | Sun, 23 Nov 2025 08:33:45 GMT | How I Broke My Linux Server Using One Nmap Command, And Learned More in One Night Than in Months | Fateyaly | [Read More](https://medium.com/p/892be55ee062) |
 | Sun, 23 Nov 2025 08:31:57 GMT | CISA Sounds the Alarm: Critical Oracle Identity Manager Zero-Day Actively Exploited in the Wild | Germano Costi | [Read More](https://medium.com/p/e4a30ed16061) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 22:26:47 GMT | PicoCTF: Trickster | Kareem Maged | [Read More](https://medium.com/p/0bf61a71c93a) |
 | Sat, 22 Nov 2025 22:23:44 GMT | What I’ve learned So Far in Cyber Security — After finishing a 2 year Associate’s degree in it. | Russell Jalal | [Read More](https://medium.com/p/812661c7e522) |
 | Sat, 22 Nov 2025 22:16:02 GMT | Why Your Health Data Is Safe With Us (And Why That Makes Us Weird) | Mike Ortiz | [Read More](https://medium.com/p/2f3967542430) |
-| Sat, 22 Nov 2025 22:11:03 GMT | PatriotCTF 2025 — TrustVault Web Challenge Write-Up | Yousefw | [Read More](https://medium.com/p/bbb24b44ae9c) |
-| Sat, 22 Nov 2025 21:38:31 GMT | PatriotCTF 2025 — Web Challenge Write-Up | Yousefw | [Read More](https://medium.com/p/1fe588da669d) |
-| Sat, 22 Nov 2025 21:31:48 GMT | Why Your AI Agent Needs a Physical Body | Alexander Zanfir | [Read More](https://medium.com/p/7d133d1af0b1) |
-| Sat, 22 Nov 2025 21:27:23 GMT | Hardening Kubernetes Environments | Niraj Kumar | [Read More](https://medium.com/p/ed515fb87b42) |
