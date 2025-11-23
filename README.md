@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 16:21:48 GMT | HackTheBox : Paper Writeup | Dhruvgundecha | [Read More](https://medium.com/p/3acc6fee673f) |
+| Sun, 23 Nov 2025 16:12:27 GMT | Evaluating Web Server Security Posture Using Nikto: Findings, Methodology & Analysis | Kiza | [Read More](https://medium.com/p/5de3e11628d5) |
+| Sun, 23 Nov 2025 16:08:27 GMT | On Cheesy Words and Other Dangerous Feelings | Tjiso | [Read More](https://medium.com/p/3403c5458b2f) |
+| Sun, 23 Nov 2025 16:07:53 GMT | How I Spent 5 Hours For a Vulnerability And Got Ghosted | christos dimitropoulos | [Read More](https://medium.com/p/e1bd09c1b9c7) |
+| Sun, 23 Nov 2025 16:06:28 GMT | Securing Docker Containers — Practical Hands-On Guide | Ashhadali | [Read More](https://medium.com/p/9a9d34e0cd23) |
+| Sun, 23 Nov 2025 16:02:09 GMT | Millions of U.S. Flight Reservations Could Have Been Hacked in Minutes With Basic Brute Force | Digital Minds | [Read More](https://medium.com/p/bb24970f37eb) |
+| Sun, 23 Nov 2025 15:47:12 GMT | DevSecOps: Building a Secure Custom App from Day One | Kwiqsol Technologies | [Read More](https://medium.com/p/da4c071e371e) |
+| Sun, 23 Nov 2025 15:41:31 GMT | Vascular Ultrasound Tech Salary Guide 2025: Pay, Factors, Growth | Motherlandlove | [Read More](https://medium.com/p/c85df7e38892) |
+| Sun, 23 Nov 2025 15:39:39 GMT | “More Than a Teacher: Rediscovering Ministry in the Classroom” | Jamal Thomas | [Read More](https://medium.com/p/ea6ca0080a0d) |
+| Sun, 23 Nov 2025 15:37:58 GMT | Watermark Technology Explained Simply: How Digital Watermarks Protect Your Content | Natarajan C K | [Read More](https://medium.com/p/ecaeabaa34c9) |
+| Sun, 23 Nov 2025 15:34:03 GMT | The Evolution of Blockchain Forensics | Centralium | [Read More](https://medium.com/p/04ebec8c04fc) |
 | Sun, 23 Nov 2025 15:28:58 GMT | [Ethernaut] 3. Coin Flip | Jiseop Shin | [Read More](https://medium.com/p/40de027b3ddd) |
 | Sun, 23 Nov 2025 15:22:47 GMT | PostgreSQL on Kubernetes: Performance Nightmare or Dream? | Rizqi Mulki | [Read More](https://medium.com/p/d4421e387b17) |
 | Sun, 23 Nov 2025 15:12:36 GMT | HTB Academy — Web Attacks: Skills Assessment | BotsiCat | [Read More](https://medium.com/p/99fc6ba2a32b) |
@@ -24,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 15:00:41 GMT | Secure Your Mobile Phone | Monu Jangra | [Read More](https://medium.com/p/038e7a9263fc) |
 | Sun, 23 Nov 2025 14:44:46 GMT | Informationssicherheit Management System ( ISMS) verstehen: Ein Überblick über ISO 27001 | Atanur Coban | [Read More](https://medium.com/p/04341f8ce53b) |
 | Sun, 23 Nov 2025 14:40:25 GMT | DPDP Act and Rules : What Companies Must Actually Do now? | Snehjeet Mukherjee | [Read More](https://medium.com/p/fa9bae3e2581) |
+| Sun, 23 Nov 2025 14:38:27 GMT | Suburban Studios Denver Tech Center Reviews: Complete 2025 Guide | Motherlandlove | [Read More](https://medium.com/p/4146bb79d86f) |
 | Sun, 23 Nov 2025 14:38:05 GMT | Passionate About Cybersecurity & Ethical Hacking | Monu Jangra | [Read More](https://medium.com/p/5ee7dbb9b332) |
 | Sun, 23 Nov 2025 14:35:34 GMT | Part 8: Virtual Box Home Lab — Security Groups, Map Drives, And Personal Drives setup walkthrough | Declan | [Read More](https://medium.com/p/58601efb63da) |
 | Sun, 23 Nov 2025 14:32:31 GMT | 7 Ways Technology Has Changed Our Lives | Digital Marketing Buddy | [Read More](https://medium.com/p/f0db677168c9) |
@@ -31,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 14:32:07 GMT | The Cybersecurity Buzzword I’m Tired of Hearing | Cyberkech | [Read More](https://medium.com/p/9cf51f36be9b) |
 | Sun, 23 Nov 2025 14:29:48 GMT | Are Your Hands Steady Enough to Hold My Fragile Heart? | Summer | [Read More](https://medium.com/p/eba3c51dd57e) |
 | Sun, 23 Nov 2025 14:18:04 GMT | Defensive Security Tooling — Writeup | Mahir | [Read More](https://medium.com/p/a0243d764200) |
+| Sun, 23 Nov 2025 14:05:04 GMT | Pharmacy Tech Practice Questions and Answers: Full 2025 Study Guide | Motherlandlove | [Read More](https://medium.com/p/8f1554989bb3) |
 | Sun, 23 Nov 2025 13:58:43 GMT | rumination | Jaze Sandhu | [Read More](https://medium.com/p/5599f141f9b4) |
 | Sun, 23 Nov 2025 13:40:47 GMT | Write Up HTTP Requests and Responses — Hack The Box (HTB) | Kang_BlankOn | [Read More](https://medium.com/p/4ef31248a33f) |
 | Sun, 23 Nov 2025 13:39:55 GMT | TryHackMe — Windows Privilege Escalation — Walkthrough | Alan | [Read More](https://medium.com/p/8cd299cfc30e) |
@@ -100,16 +113,3 @@ The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://med
 | Sun, 23 Nov 2025 08:30:54 GMT | Cache Side-Channel Attacks: When Time Itself Becomes a Leak | Bervice | [Read More](https://medium.com/p/d396fba11941) |
 | Sun, 23 Nov 2025 08:26:24 GMT | Secrets in JavaScript Files : What Hackers Extract | Vipul Sonule | [Read More](https://medium.com/p/60c18b6bf153) |
 | Sun, 23 Nov 2025 08:24:52 GMT | The Dumbest Nmap Mistake I Ever Made (And Why I’m Glad It Happened) | Fateyaly | [Read More](https://medium.com/p/8ae894525dc2) |
-| Sun, 23 Nov 2025 08:21:20 GMT | Complete Guide to IT Support: Career Path, Skills, and Free Training in 2025 | DeltaBytes | [Read More](https://medium.com/p/2e271d755603) |
-| Sun, 23 Nov 2025 08:19:13 GMT | Pivoting into Cybersecurity as a Mid-Career Professional | Pooja Shimpi | [Read More](https://medium.com/p/7ba4799dd19c) |
-| Sun, 23 Nov 2025 08:13:10 GMT | Access Control Implementation Models (and Why They Matter for Finding BAC Vulnerabilities) | Ali Ziro | [Read More](https://medium.com/p/f5b8bea71eec) |
-| Sun, 23 Nov 2025 08:03:30 GMT | User Level Rate Limit: Essential Guide for API Security | Saurabh Pathak | [Read More](https://medium.com/p/f110d3a0cbf7) |
-| Sun, 23 Nov 2025 07:55:42 GMT | How Cybersecurity Protects Smart Cities and IoT Devices | 500- SHIFAT HOSSAIN | [Read More](https://medium.com/p/b4e86148f7f5) |
-| Sun, 23 Nov 2025 07:49:24 GMT | Mpokket loan app customer care helpline number☎️(8825276084)@!!@ + Call now | Papu Singh | [Read More](https://medium.com/p/d00d9ac06a52) |
-| Sun, 23 Nov 2025 07:48:21 GMT | How Generative AI Can Be Used in Cybersecurity | Demis Hassabis | [Read More](https://medium.com/p/b00dbf431668) |
-| Sun, 23 Nov 2025 07:46:26 GMT | MacBook Camera Light Turned On Suddenly — Without Reason | Faizan Saghir | [Read More](https://medium.com/p/4f6fa21afd8d) |
-| Sun, 23 Nov 2025 07:39:02 GMT | The GitHub Security Blindspot: When Your Organisation Members’ Personal Repos Become Your Problem | Gujjuboy10x00 | [Read More](https://medium.com/p/4ba08307acd1) |
-| Sun, 23 Nov 2025 07:32:28 GMT | Locking Down Your Workflows: OAuth2 & Credentials in n8n | Duckweave | [Read More](https://medium.com/p/37fba8759da4) |
-| Sun, 23 Nov 2025 07:30:56 GMT | A Comprehensive Guide to Hunting Bugs in User Registration Features | coffinxp | [Read More](https://medium.com/p/fe8b04dc39b8) |
-| Sun, 23 Nov 2025 07:22:59 GMT | From Assistant to Teammate: The Rise of Agentic AI in Security Operations | Omololu Adu | [Read More](https://medium.com/p/bfdf6e861571) |
-| Sun, 23 Nov 2025 07:20:44 GMT | Hack the Box Starting Point: Responder | KarmicDragoon92 | [Read More](https://medium.com/p/6ff927b7733c) |
