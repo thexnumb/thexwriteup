@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 18:21:11 GMT | File Integrity Checker — FIM | Abdul Basit Khan | [Read More](https://medium.com/p/c1c4faf7bdfd) |
+| Sun, 23 Nov 2025 18:20:26 GMT | Week 17 — Understanding OAuth2: Authorization Code & Implicit Flows | Aang | [Read More](https://medium.com/p/b6bd857b8926) |
+| Sun, 23 Nov 2025 18:13:30 GMT | Kargonuz İçin Ödeme Bekleniyor… | Emir.K | [Read More](https://medium.com/p/ab449a4f1f2a) |
+| Sun, 23 Nov 2025 18:09:48 GMT | Cyber Crime Analysis: Android Banking Trojan “SharkBot” | rajasa. | [Read More](https://medium.com/p/660a85fcef12) |
+| Sun, 23 Nov 2025 18:05:41 GMT | 24/7/365 — with live camera feeds, instant alerts, and real-time action. | Visual Monitoring Solutions | [Read More](https://medium.com/p/c1fe2695d750) |
+| Sun, 23 Nov 2025 18:03:03 GMT | The WhatsApp Breach That Scared Me | Manya Tyagi | [Read More](https://medium.com/p/05a32b91c3a8) |
+| Sun, 23 Nov 2025 17:55:17 GMT | From OWASP Top 10 2017 to 2021: What Changed, Why It Matters, and What Should Come Next | Agamjot Singh | [Read More](https://medium.com/p/cf4bb9322fae) |
+| Sun, 23 Nov 2025 17:52:07 GMT | The Critical Role of Authentication Flows in AI–Third-Party Integrations | Luvv Aggarwal | [Read More](https://medium.com/p/106e55522c81) |
 | Sun, 23 Nov 2025 17:37:41 GMT | Cybersecurity: The Architecture of Defense in an Adversarial World | Keshav Soni | [Read More](https://medium.com/p/663afd7bdda6) |
+| Sun, 23 Nov 2025 17:33:29 GMT | Kenya VS The Anonymous Sudan: A White Supremacy Attack | O. J. Okpabi | [Read More](https://medium.com/p/eab6f833b271) |
+| Sun, 23 Nov 2025 17:29:27 GMT | How We Combine Threat Intel, Ops & Expertise in One Hub | Fook Hwa Tan | [Read More](https://medium.com/p/2e7ef937119e) |
 | Sun, 23 Nov 2025 17:26:38 GMT | Ask These in Your Next Security Meeting | Fook Hwa Tan | [Read More](https://medium.com/p/e81df30f78a8) |
 | Sun, 23 Nov 2025 17:21:49 GMT | The Hardest Possible Decision: VirtualBox, VmWare, or HyperV? Which One to Choose? | NnFace | [Read More](https://medium.com/p/499e70ade917) |
 | Sun, 23 Nov 2025 17:14:28 GMT | The Weaponization of Web 2.0 | Medjue Gore | [Read More](https://medium.com/p/4422b89359ab) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 10:38:40 GMT | Article Writing
 The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://medium.com/p/47647107db9d) |
 | Sun, 23 Nov 2025 10:30:14 GMT | LLM Red Teaming — Part 1 | Infosec world | [Read More](https://medium.com/p/ee4dfc87801b) |
-| Sun, 23 Nov 2025 10:26:16 GMT | Nigeria’s Current Crisis | Juls_pEn | [Read More](https://medium.com/p/c9684a796ca6) |
-| Sun, 23 Nov 2025 10:00:47 GMT | How I Passed the PJPT at 17 (My Honest Experience)PJPT REVIEW | Febafu | [Read More](https://medium.com/p/69182e9936b8) |
-| Sun, 23 Nov 2025 10:00:03 GMT | Passcode Writeup (Pwnable.kr) | Ivan Daňo | [Read More](https://medium.com/p/540208373d3b) |
-| Sun, 23 Nov 2025 09:59:06 GMT | Full Admin Takeover: How I Saved a Canadian Multi-Million Dollar Company from Total Compromise | iamrizwanvp | [Read More](https://medium.com/p/209f3f1d26b7) |
-| Sun, 23 Nov 2025 09:48:51 GMT | How to Protect Your PC from Malware with a Genuine OS — Black Friday Security Tips | Rory Deleon | [Read More](https://medium.com/p/4dd7a63611e8) |
-| Sun, 23 Nov 2025 09:42:58 GMT | How to Set Up Syslog Forwarding to Microsoft Sentinel (Even If You’re Not a Linux Expert) | Rafal Kitab | [Read More](https://medium.com/p/9b57cfe74a15) |
-| Sun, 23 Nov 2025 09:37:51 GMT | Why your 2FA is an illusion (Multi-Factor vs Multi-Stage) | Timothy Copeland | [Read More](https://medium.com/p/a3f5fb489d73) |
-| Sun, 23 Nov 2025 09:37:29 GMT | Networking foundations — IPv6 Playbook (Part 1) | Vishnuprasad O | [Read More](https://medium.com/p/c9a00b1c82d2) |
-| Sun, 23 Nov 2025 09:34:37 GMT | From Kafka Events to Real-Time Alerts: A Hands-On Guide with ksqlDB | Zeinab Dashti | [Read More](https://medium.com/p/b25ee372a6c9) |
-| Sun, 23 Nov 2025 09:31:44 GMT | Empire 25 | ˚ʚ♡ɞ˚ | [Read More](https://medium.com/p/4462501a644a) |
