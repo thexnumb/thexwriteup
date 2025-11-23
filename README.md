@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 18:46:47 GMT | Word Files as Chatbot Attack Vectors: Hidden Prompts & Zipbombs | Reinder Vos de Wael, Ph.D. | [Read More](https://medium.com/p/d1d2499413d6) |
+| Sun, 23 Nov 2025 18:42:58 GMT | Legal Person Identity First: The EBW as the Cornerstone of Europe’s Digital Sovereignty | Carsten Stöcker | [Read More](https://medium.com/p/a71b82f0c514) |
+| Sun, 23 Nov 2025 18:39:45 GMT | Software testing stages | Igor Berner | [Read More](https://medium.com/p/5ba3350a3d5c) |
+| Sun, 23 Nov 2025 18:39:12 GMT | Red Team Operations: Using Frida to Weaponize and Hide Processes | Lord Murak | [Read More](https://medium.com/p/92af11a104c4) |
+| Sun, 23 Nov 2025 18:33:27 GMT | What Is Metasploit? A Beginner’s Guide | Parvez_mosherraf | [Read More](https://medium.com/p/eac885501dbf) |
 | Sun, 23 Nov 2025 18:21:11 GMT | File Integrity Checker — FIM | Abdul Basit Khan | [Read More](https://medium.com/p/c1c4faf7bdfd) |
 | Sun, 23 Nov 2025 18:20:26 GMT | Week 17 — Understanding OAuth2: Authorization Code & Implicit Flows | Aang | [Read More](https://medium.com/p/b6bd857b8926) |
 | Sun, 23 Nov 2025 18:13:30 GMT | Kargonuz İçin Ödeme Bekleniyor… | Emir.K | [Read More](https://medium.com/p/ab449a4f1f2a) |
@@ -107,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 10:55:57 GMT | SpiderFoot Deep Dive: Installation, Scans, and Practical Use Cases | Andrey Pautov | [Read More](https://medium.com/p/11ea6537ad6f) |
 | Sun, 23 Nov 2025 10:54:17 GMT | Top 10 Mobile Application Security Testing Tools in 2025 | cyber security Updates | [Read More](https://medium.com/p/3cb626a756e6) |
 | Sun, 23 Nov 2025 10:49:44 GMT | I Built a Smart Linux Firewall Manager & SOC Dashboard with Python (So You Don’t Have To) | Amirmahdi Nozari | [Read More](https://medium.com/p/bcd3e2d0ecf6) |
-| Sun, 23 Nov 2025 10:47:47 GMT | Footprinting — Skills Assessment [Part 1] (2025) | Maksim Hayder | [Read More](https://medium.com/p/253d705b844e) |
-| Sun, 23 Nov 2025 10:43:31 GMT | How Exposed APIs Led to Internal PCAP Inventory Disclosure in sony. | Khanshadan | [Read More](https://medium.com/p/b16b0a228f04) |
-| Sun, 23 Nov 2025 10:41:04 GMT | Cybersecurity Faces Growing Skill Shortage Amid Rising Threats | Himanshu Bhatt | [Read More](https://medium.com/p/8b8ba43c9dda) |
-| Sun, 23 Nov 2025 10:38:40 GMT | Article Writing
-The Internet – A Blessing or Curse | LR_Venus Gaming | [Read More](https://medium.com/p/47647107db9d) |
-| Sun, 23 Nov 2025 10:30:14 GMT | LLM Red Teaming — Part 1 | Infosec world | [Read More](https://medium.com/p/ee4dfc87801b) |
