@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 22:29:04 GMT | The Future of Autonomous Robots in 2030 | Artiscribe | [Read More](https://medium.com/p/b50f8f99b081) |
+| Sun, 23 Nov 2025 22:22:18 GMT | TryHackMe — Wreath | omni | [Read More](https://medium.com/p/7da00105e263) |
+| Sun, 23 Nov 2025 22:16:11 GMT | DevSecOps Kit: Bringing Enterprise Security to Small Teams | Edgar Posada | [Read More](https://medium.com/p/a9106334b9fa) |
 | Sun, 23 Nov 2025 22:11:38 GMT | Cybersecurity #15: DoS and DDoS Attacks | mohandika | [Read More](https://medium.com/p/393d709f71ea) |
 | Sun, 23 Nov 2025 22:02:33 GMT | Mental Jailbreak: When the System Trusts the User Too Much | Bervice | [Read More](https://medium.com/p/fe1e7c98006e) |
 | Sun, 23 Nov 2025 21:49:43 GMT | SSDT Kernel Hooking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6bea100a654e) |
+| Sun, 23 Nov 2025 21:31:56 GMT | Como verificar as assinaturas do meu site | Adler Medrado | [Read More](https://medium.com/p/e4f74678fb48) |
 | Sun, 23 Nov 2025 21:12:06 GMT | I Followed One Simple Rule To Find Hidden Website Errors | Ibtissam | [Read More](https://medium.com/p/076d00f779e1) |
 | Sun, 23 Nov 2025 21:08:34 GMT | The secret rulebook behind every tap-and-go payment (Part 1) | Ryan Aminollahi | [Read More](https://medium.com/p/f47e53c8a696) |
 | Sun, 23 Nov 2025 21:02:02 GMT | Phishing for AWS Credentials via the New 'aws login' Flow | Adan | [Read More](https://medium.com/p/39f6969b4eae) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 14:18:04 GMT | Defensive Security Tooling — Writeup | Mahir | [Read More](https://medium.com/p/a0243d764200) |
 | Sun, 23 Nov 2025 14:05:04 GMT | Pharmacy Tech Practice Questions and Answers: Full 2025 Study Guide | Motherlandlove | [Read More](https://medium.com/p/8f1554989bb3) |
 | Sun, 23 Nov 2025 13:58:43 GMT | rumination | Jaze Sandhu | [Read More](https://medium.com/p/5599f141f9b4) |
-| Sun, 23 Nov 2025 13:40:47 GMT | Write Up HTTP Requests and Responses — Hack The Box (HTB) | Kang_BlankOn | [Read More](https://medium.com/p/4ef31248a33f) |
-| Sun, 23 Nov 2025 13:39:55 GMT | TryHackMe — Windows Privilege Escalation — Walkthrough | Alan | [Read More](https://medium.com/p/8cd299cfc30e) |
-| Sun, 23 Nov 2025 13:37:09 GMT | The WhatsApp Data Leak: What Really Happened and Why It Matters More Than You Think | Faisal haque | [Read More](https://medium.com/p/b11054bdd6b9) |
-| Sun, 23 Nov 2025 13:35:11 GMT | Write Up Web Request di Platform — Hack The Box (HTB) | Kang_BlankOn | [Read More](https://medium.com/p/c0f0b14f1e30) |
