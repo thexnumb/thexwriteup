@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 09:37:29 GMT | Networking foundations — IPv6 Playbook (Part 1) | Vishnuprasad O | [Read More](https://medium.com/p/c9a00b1c82d2) |
+| Sun, 23 Nov 2025 09:31:44 GMT | Empire 25 | ˚ʚ♡ɞ˚ | [Read More](https://medium.com/p/4462501a644a) |
+| Sun, 23 Nov 2025 09:30:33 GMT | 10 Advanced Cybersecurity Scenarios Every Professional Must Practice | Muhammad Haider Tallal | [Read More](https://medium.com/p/1e492d6ed29e) |
+| Sun, 23 Nov 2025 09:26:37 GMT | Internal Network Penetration Testing in a Segmented Environment: A Complete Step-by-Step… | Asifzea | [Read More](https://medium.com/p/b5f644fb14be) |
+| Sun, 23 Nov 2025 09:22:14 GMT | Hacking “Blue”: A Beginner’s Journey from Scan to SYSTEM Shell | Adbin Mgr | [Read More](https://medium.com/p/5fbda802ff2b) |
+| Sun, 23 Nov 2025 09:21:25 GMT | Secure Your Traffic with Forced Tunneling in Azure Virtual WAN P2S VPN | Brian Veldman | [Read More](https://medium.com/p/2e1edfa020c6) |
 | Sun, 23 Nov 2025 09:14:38 GMT | ️ How to Spot a Phishing Email — And What to Do About It | pdfalltools.com | [Read More](https://medium.com/p/bdb541bc725e) |
 | Sun, 23 Nov 2025 09:02:11 GMT | Add a Credential Leak Check to Any Login Flow in 10 Minutes With LeakRadar’s API | Alexandre Vandamme | [Read More](https://medium.com/p/e885aea049c1) |
 | Sun, 23 Nov 2025 09:01:05 GMT | How to Verify if Your Software License Is Genuine and Avoid Counterfeits | Jayson Potter | [Read More](https://medium.com/p/dfb7a49cd246) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 22:56:45 GMT | A Hybrid AI Approach for Cyberattack Detection: Combining Apriori, Decision Tree, DBSCAN, and RAG | Omar farque | [Read More](https://medium.com/p/fb9b7c425360) |
 | Sat, 22 Nov 2025 22:46:24 GMT | THE HIDDEN INFRASTRUCTURE: INSIDE THE SILENT RACE TO REBUILD THE INTERNET | Sam Viles | [Read More](https://medium.com/p/c01010581510) |
 | Sat, 22 Nov 2025 22:45:11 GMT | The words I never said | Chris Oladele | [Read More](https://medium.com/p/7b6e5601cb8c) |
-| Sat, 22 Nov 2025 22:44:43 GMT | The Digital ID Is Coming. We Still Have Alternatives. | @designbyhazema ~ Jonathan Wilson | [Read More](https://medium.com/p/5bdc9e219990) |
-| Sat, 22 Nov 2025 22:43:42 GMT | HTB Sherlocks — RomCom Writeup | JBXSec | [Read More](https://medium.com/p/49744959adea) |
-| Sat, 22 Nov 2025 22:36:36 GMT | JOB SCAM ALERT: A True Story Every Nigerian Jobseeker Should Read | Oludare Stephen Ayobami | [Read More](https://medium.com/p/ad292f6c0aef) |
-| Sat, 22 Nov 2025 22:26:47 GMT | PicoCTF: Trickster | Kareem Maged | [Read More](https://medium.com/p/0bf61a71c93a) |
-| Sat, 22 Nov 2025 22:23:44 GMT | What I’ve learned So Far in Cyber Security — After finishing a 2 year Associate’s degree in it. | Russell Jalal | [Read More](https://medium.com/p/812661c7e522) |
-| Sat, 22 Nov 2025 22:16:02 GMT | Why Your Health Data Is Safe With Us (And Why That Makes Us Weird) | Mike Ortiz | [Read More](https://medium.com/p/2f3967542430) |
