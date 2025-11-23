@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 05:35:19 GMT | A hidden detail in our ZDLRA 23.1 deployment | Arsalan Dehghani Sariyarghan | [Read More](https://medium.com/p/eea8eb68bd57) |
+| Sun, 23 Nov 2025 05:15:34 GMT | 10 MDM Platforms Worth Considering in 2026 | Yuvi Aggarwal | [Read More](https://medium.com/p/af7c0ec57625) |
 | Sun, 23 Nov 2025 05:12:00 GMT | The Era of Cybersecurity — A Beginner’s Gateway Into the Digital Defense World | cyberwinx | [Read More](https://medium.com/p/99407be99d23) |
 | Sun, 23 Nov 2025 05:02:10 GMT | Rust Lifetimes Without the Confusion: A Practical Guide | Asma | [Read More](https://medium.com/p/ae464dc56636) |
 | Sun, 23 Nov 2025 04:57:58 GMT | Understanding Hashing, HMAC, and Digital Signatures | Himanshu Upadhayay | [Read More](https://medium.com/p/4c8de17d63eb) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 17:54:53 GMT | Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨ | Iski | [Read More](https://medium.com/p/a226dbacba7a) |
 | Sat, 22 Nov 2025 17:50:37 GMT | 8 Real, ProvenWays to Protect Your VPS From Constant Global Brute-Force Attacks | Trahulprabhu38 | [Read More](https://medium.com/p/07497c4db823) |
 | Sat, 22 Nov 2025 17:37:56 GMT | Zero Trust & Identity-First Security: The Future of Cyber Defense | Sruthi Punugu | [Read More](https://medium.com/p/3d5b3082c237) |
-| Sat, 22 Nov 2025 17:35:29 GMT | How Burp Suite Decrypt HTTPS Traffic ? A Clear Explanation. | Bappe Sarker | [Read More](https://medium.com/p/dc421f414720) |
-| Sat, 22 Nov 2025 17:34:54 GMT | Fighting Fake News with Data Mining: How Technology Protects Us Online | Afiaparvinmaria | [Read More](https://medium.com/p/c76e9acb76bb) |
