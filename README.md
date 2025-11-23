@@ -12,12 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 07:10:09 GMT | Day 2 – Learning Cybersecurity on TryHackMe With Just My Phone | Ofoegbu Franklin | [Read More](https://medium.com/p/54589983407f) |
+| Sun, 23 Nov 2025 06:53:42 GMT | All About Android Pentesting | Xcheater | [Read More](https://medium.com/p/f047b7c7e0f1) |
+| Sun, 23 Nov 2025 06:46:06 GMT | We’re Consuming More Than We’re Creating: Why Your Mind Feels Crowded but Your Life Feels Empty | Vijay Kumar Gupta | [Read More](https://medium.com/p/6be649c825c6) |
+| Sun, 23 Nov 2025 06:43:03 GMT | BEGINNING Flutter® | Micksick | [Read More](https://medium.com/p/185ad0f73b44) |
+| Sun, 23 Nov 2025 06:34:00 GMT | PBO : Komposisi & Agregasi | Yasa Wijaya | [Read More](https://medium.com/p/5370158dbd6d) |
+| Sun, 23 Nov 2025 06:32:29 GMT | Authorization Primer | Dipak Kr das | [Read More](https://medium.com/p/0d2aeacc7c05) |
+| Sun, 23 Nov 2025 06:24:51 GMT | Metasploitable 3 (Windows) Write-up — Part [V]: Port 1617 — Exploiting a Custom TCP Service | Kalash Kundaliya | [Read More](https://medium.com/p/c7e9b028d894) |
 | Sun, 23 Nov 2025 06:16:55 GMT | Finding Purpose in Sobriety, Fitness, and Programming | V1rtu3 _h05t | [Read More](https://medium.com/p/06f6711df0e9) |
 | Sun, 23 Nov 2025 06:03:17 GMT | Ransomware’s Record Surge: Why LockBit 5.0 Could Be the Biggest Threat Yet | Secure Talks | [Read More](https://medium.com/p/a89d53940263) |
 | Sun, 23 Nov 2025 06:02:27 GMT | The Shadow AI Crisis: How Your Employees Are Destroying Your Company (And You Don’t Even Know It) | Amįń | [Read More](https://medium.com/p/e162f0000e0f) |
 | Sun, 23 Nov 2025 06:01:52 GMT | The Silent touch… no traces…live targets… | Snooptsz | [Read More](https://medium.com/p/988867e1870d) |
 | Sun, 23 Nov 2025 05:54:57 GMT | TryHackMeVMs: rrootme | Justin Jude Cabodil | [Read More](https://medium.com/p/d99da49cc8bd) |
 | Sun, 23 Nov 2025 05:35:19 GMT | A hidden detail in our ZDLRA 23.1 deployment | Arsalan Dehghani Sariyarghan | [Read More](https://medium.com/p/eea8eb68bd57) |
+| Sun, 23 Nov 2025 05:29:59 GMT | Access Management Decluttered: Why AI Hiring Tools Are Crossing Human Boundaries | Rubab Fatima | [Read More](https://medium.com/p/ad857aabbb93) |
 | Sun, 23 Nov 2025 05:15:34 GMT | 10 MDM Platforms Worth Considering in 2026 | Yuvi Aggarwal | [Read More](https://medium.com/p/af7c0ec57625) |
 | Sun, 23 Nov 2025 05:12:00 GMT | The Era of Cybersecurity — A Beginner’s Gateway Into the Digital Defense World | cyberwinx | [Read More](https://medium.com/p/99407be99d23) |
 | Sun, 23 Nov 2025 05:02:10 GMT | Rust Lifetimes Without the Confusion: A Practical Guide | Asma | [Read More](https://medium.com/p/ae464dc56636) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 19:20:42 GMT | UpGuard’s Trust Exchange: Is the VP of Product Taking Design Cues from Happy Hour? | Jeremy C | [Read More](https://medium.com/p/f6b5c104929a) |
 | Sat, 22 Nov 2025 19:09:18 GMT | I AM ATTENDING CYBER – ARE YOU? | Naveed Ali | [Read More](https://medium.com/p/f25a29e7a5ff) |
 | Sat, 22 Nov 2025 18:59:30 GMT | “SOC140 — Phishing Mail Detected — Suspicious Task Scheduler — EventID: 82” — Letsdefend.io | Moksh Singla | [Read More](https://medium.com/p/1db9f8a2697c) |
-| Sat, 22 Nov 2025 18:52:43 GMT | STORIA, SVILUPPO E TRASFORMAZIONE DELL’INTELLIGENCE ITALIANA (1919–2025) | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/8e9d416c351e) |
-| Sat, 22 Nov 2025 18:51:44 GMT | Undercover Statecraft in Post-Soviet Russia: A Structural Analysis of Embedded Security Operations… | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/ced2e147a865) |
-| Sat, 22 Nov 2025 18:40:35 GMT | Principal Engineer: Arquitetura, estratégia e o papel técnico que sustenta o SDLC | Harisson Freitas | [Read More](https://medium.com/p/178d2cb1a72f) |
-| Sat, 22 Nov 2025 18:35:04 GMT | Digispark ATTINY85 and Sliver | Devin Boyle | [Read More](https://medium.com/p/9713dee99b95) |
-| Sat, 22 Nov 2025 18:33:38 GMT | IT Architecture Career Paths. | Mohammed Brückner | [Read More](https://medium.com/p/0b2a6b093e85) |
-| Sat, 22 Nov 2025 18:32:56 GMT | Siber Güvenlikte Pusula: Çevik Adım ve Doğru Öncelik | Edanur Örnek | [Read More](https://medium.com/p/2db495cfecaf) |
-| Sat, 22 Nov 2025 18:32:33 GMT | Building a Cybersecurity Home Lab — Part 4.3: Velociraptor Installation & Configuration | JBXSec | [Read More](https://medium.com/p/61ba0b6c9348) |
-| Sat, 22 Nov 2025 18:20:45 GMT | A new browser security report sheds light on the rising wave of enterprise-focused threats… | SCtoCS | [Read More](https://medium.com/p/db251bed2350) |
