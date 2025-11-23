@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 23 Nov 2025 01:46:42 GMT | Why Every Developer Should Care About CSP in 2025 | Jagdish Choudhary | [Read More](https://medium.com/p/19840727c7bb) |
+| Sun, 23 Nov 2025 01:44:42 GMT | russian-proxy-access-guide | ChainNova | [Read More](https://medium.com/p/8cb8e279c446) |
+| Sun, 23 Nov 2025 01:32:06 GMT | 5 FastAPI Auth UX Moves: Passkeys, JWKS, No Downtime | Velorum | [Read More](https://medium.com/p/47f171e2e0e3) |
+| Sun, 23 Nov 2025 01:08:14 GMT | True Love: Navigating Long Distance and Future Uncertainty | Misass | [Read More](https://medium.com/p/b92f4055fe49) |
+| Sun, 23 Nov 2025 01:05:55 GMT | Malware Analysis: Static Breakdown | Lilian  Ugwu | [Read More](https://medium.com/p/407f9d292635) |
+| Sun, 23 Nov 2025 01:00:37 GMT | From Gifts to Blackmail: The Social Media Scam Targeting Indian Women… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/ff4a5b3efbfa) |
+| Sun, 23 Nov 2025 00:59:00 GMT | Your Child’s Imaginary Friend is a Corporate AI Designed to Sell Them Things | ToxSec | [Read More](https://medium.com/p/3f97acab51c0) |
+| Sun, 23 Nov 2025 00:51:01 GMT | “Manual Searchsploit: Exploits, CVE y Lecciones desde el Heap” | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/79574cfab0f7) |
+| Sun, 23 Nov 2025 00:47:08 GMT | Capítulo 10 — Zero Day | Kleber Andrade | [Read More](https://medium.com/p/7472dff5b102) |
+| Sun, 23 Nov 2025 00:46:56 GMT | Enough Is Enough: A Plan for Action | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/2fe417601d93) |
+| Sun, 23 Nov 2025 00:42:13 GMT | Beneath the Green Veil: Nigeria’s Promise and Its Fractured Heart | Don Gadhafi | [Read More](https://medium.com/p/6e144be932fb) |
+| Sun, 23 Nov 2025 00:41:34 GMT | Understanding C2 Detection Through Network Log Analysis: What I Learned Today as an Aspiring Red… | samurai | [Read More](https://medium.com/p/ae95f20b86e2) |
+| Sun, 23 Nov 2025 00:39:53 GMT | Dinosaur Scifi Horror Gift Book SALE .88 | Diane Edwards, Writer, Author - Senior PM | [Read More](https://medium.com/p/56223452467e) |
+| Sun, 23 Nov 2025 00:23:25 GMT | Your Firewall Can’t Save You: The Silent Crisis in API Security | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/10b8f18a70f6) |
+| Sun, 23 Nov 2025 00:18:15 GMT | Incident response plan for Healthcare Technology (HITECH) | Joe Alongi | [Read More](https://medium.com/p/f55982ec6674) |
+| Sun, 23 Nov 2025 00:12:05 GMT | Inside My First Security Incident: What You Don’t See Behind a Data Breach | David Constance | [Read More](https://medium.com/p/b68b9aeff908) |
+| Sun, 23 Nov 2025 00:08:42 GMT | How to Break Into Cybersecurity in 2026: Tools, Labs, and Mindset | Yash Patel | [Read More](https://medium.com/p/69c12ae29e91) |
+| Sat, 22 Nov 2025 23:39:52 GMT | How To Apply Safety Measures In Travel.With | Nazzy_princess Anigbo | [Read More](https://medium.com/p/caf30f99a377) |
 | Sat, 22 Nov 2025 23:21:55 GMT | “Why Your Phone Is the Newest Target for Cyber Attacks (and How to Stay Safe)” | Grace Chukwunta | [Read More](https://medium.com/p/7a09301c95de) |
 | Sat, 22 Nov 2025 23:11:15 GMT | Robust Security & Authentication Best Practices in Next.js 16 | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/6265d2d41b13) |
 | Sat, 22 Nov 2025 23:05:35 GMT | New in OWASP Top 10 2025: A03 and A10 Explained in Simple Terms | Yug Shah | [Read More](https://medium.com/p/1cdcbc7af3de) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 22 Nov 2025 15:14:00 GMT | What Are Software Supply Chain Failures? ️ | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/02a428b4c31b) |
 | Sat, 22 Nov 2025 15:10:30 GMT | Cloudflare’s Outrage … Why? | SRIRAM G | [Read More](https://medium.com/p/a8a135a73c7b) |
 | Sat, 22 Nov 2025 15:09:39 GMT | MDI Sensor Won’t Start? A Practical Guide to Actually Fixing It | Anduenescu | [Read More](https://medium.com/p/9c7c7f56dfb4) |
-| Sat, 22 Nov 2025 15:06:01 GMT | Why End‑to‑End Encryption is No Longer Enough for Business and Legal Communication | Letro | [Read More](https://medium.com/p/bc934391c51b) |
-| Sat, 22 Nov 2025 15:01:33 GMT | Manajeman Bandwidth dalam Jaringan Komputer | Salwa Fijri | [Read More](https://medium.com/p/de82445af540) |
-| Sat, 22 Nov 2025 14:59:33 GMT | Of Daffy Bastards And Goofy F*cks In The Land Of The Lost: Integration Anti-Patterns From The Dark… | Robert Broeckelmann | [Read More](https://medium.com/p/3e27668f5493) |
-| Sat, 22 Nov 2025 14:58:21 GMT | What Specific Insights Does Netflix Have? | Awais Khan | [Read More](https://medium.com/p/2db86379dbc7) |
-| Sat, 22 Nov 2025 14:57:25 GMT | Advent of Cyber Prep Track Tryhackme Walkthrough | Jawstar | [Read More](https://medium.com/p/fe63c04c8cce) |
-| Sat, 22 Nov 2025 14:56:43 GMT | True Love: How to Identify Someone Who Genuinely Cares | Misass | [Read More](https://medium.com/p/1897599ba2fa) |
-| Sat, 22 Nov 2025 14:51:54 GMT | How to “Actually” Hack a Facebook Account: Advanced Attack Vectors & Protection Methods | Alex | [Read More](https://medium.com/p/df743c59d529) |
-| Sat, 22 Nov 2025 14:46:13 GMT | Office 365 Backup Explained: Why Microsoft Doesn’t Fully Protect Your Data | EINITIAL24 | [Read More](https://medium.com/p/a14a6e325cc1) |
-| Sat, 22 Nov 2025 14:32:05 GMT | Building AI Agents That Don’t Get Hacked: 5 Security Failures We Made | Amįń | [Read More](https://medium.com/p/45bffdc8df94) |
-| Sat, 22 Nov 2025 14:25:03 GMT | SOC Investigation Report — LFI Attempt - LETSDEFEND | Soumodeep Das | [Read More](https://medium.com/p/b43d2d386e2b) |
-| Sat, 22 Nov 2025 14:18:09 GMT | When OAuth Tokens Turn Toxic: How ShinyHunters Exploited Gainsight to Steal Data from 200+… | valasala suhas | [Read More](https://medium.com/p/41af0d164552) |
-| Sat, 22 Nov 2025 14:16:59 GMT | Unusual Typescript Part 0 | ilteris.yucel | [Read More](https://medium.com/p/38f826343273) |
-| Sat, 22 Nov 2025 13:58:00 GMT | Using Curl With SPNEGO | Robert Broeckelmann | [Read More](https://medium.com/p/a703c674d954) |
-| Sat, 22 Nov 2025 13:27:39 GMT | Cloudflare Outage 2025: Why the World Froze — And Why India Must Rethink Its Digital Future | Rushikesh Girase | [Read More](https://medium.com/p/2fdf9cbb4c33) |
-| Sat, 22 Nov 2025 13:16:13 GMT | It’s Not You, It’s Your Moves: How to Fix Unlikable Actions | Ruthie Owen-Moreno | [Read More](https://medium.com/p/37dcac8201d3) |
-| Sat, 22 Nov 2025 13:13:12 GMT | Nigeria Is Not Balanced But the Law Is Still the Law | Sadiq Oladapo Abdulfatah | [Read More](https://medium.com/p/12d92c328c08) |
-| Sat, 22 Nov 2025 13:01:55 GMT | XSS : A Direct Hit to Brand Trust Revenue, Reputation, Users | Sajjan Nehal | [Read More](https://medium.com/p/e15e42fb591c) |
-| Sat, 22 Nov 2025 12:58:45 GMT | DockerLabs Writeup — cineHack (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d9685c864544) |
