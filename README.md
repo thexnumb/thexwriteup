@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 15:17:36 GMT | From “Meh, It’s Just Reflected XSS” to “Sh*t, I Own the CEO” | Shah kaif | [Read More](https://medium.com/p/0e0793ef7186) |
+| Mon, 24 Nov 2025 15:15:21 GMT | “The Forgotten Vulnerability: How CRLF Injection Almost Broke Twitter’s Ad Platform” | Aman Sharma | [Read More](https://medium.com/p/cfb2c98a82b0) |
+| Mon, 24 Nov 2025 15:13:45 GMT | International Guide: How to Become an ER Tech in 2025 for Beginners | Motherlandlove | [Read More](https://medium.com/p/310dde7a5a6a) |
+| Mon, 24 Nov 2025 15:11:31 GMT | How I Hacked an AI That Was Supposed to Be Hacking For Me ⚔️ | Iski | [Read More](https://medium.com/p/d4519e6a4d55) |
+| Mon, 24 Nov 2025 15:06:47 GMT | Fraud Has Always Been Part of Humanity; the Internet/AI Have Amplified and Made It Easier | Dr Mehmet Yildiz | [Read More](https://medium.com/p/f2bb7ee9d1e6) |
+| Mon, 24 Nov 2025 15:05:45 GMT | What if one the great plague of the century happen in a video game | Erwan LE TUTOUR | [Read More](https://medium.com/p/68efc672f5c1) |
+| Mon, 24 Nov 2025 15:05:38 GMT | SitusAMC Breach Exposes Systemic Weakness in Financial Supply-Chain Security | RealSec.io | [Read More](https://medium.com/p/a25d4fa7504e) |
+| Mon, 24 Nov 2025 15:03:11 GMT | Browser Agents Promise Freedom But Delivered Security Nightmares You Must Know | Atyab Hakeem | [Read More](https://medium.com/p/6658a6536f63) |
+| Mon, 24 Nov 2025 15:03:09 GMT | ️ iOS App Attest + DeviceCheck: Building Real Trust Into Your App (Without Losing Your Mind) | Wesley Matlock | [Read More](https://medium.com/p/c98bc39eb142) |
+| Mon, 24 Nov 2025 15:03:08 GMT | Embrace Your Emotions: Finding Peace in the Quiet of the Night | Austi Gene | [Read More](https://medium.com/p/966f7c69060a) |
+| Mon, 24 Nov 2025 15:03:08 GMT | Cyber Briefing: 2025.11.24 | CyberMaterial | [Read More](https://medium.com/p/1fd193189b0d) |
+| Mon, 24 Nov 2025 15:02:28 GMT | Wireshark Traffic Analysis: Nmap Scans | Citadel Cybersec | [Read More](https://medium.com/p/9f998027e1c0) |
+| Mon, 24 Nov 2025 15:02:09 GMT | Safing Portmaster: an easy & ready-to-use firewall for Windows and Linux | David Garcia | [Read More](https://medium.com/p/330e91453a95) |
+| Mon, 24 Nov 2025 15:00:01 GMT | The Castle is Burning. Why Are We Still Moat-Digging? | Kings | [Read More](https://medium.com/p/69cf609f0a13) |
+| Mon, 24 Nov 2025 14:57:46 GMT | The Hidden World of Critical Infrastructure: Why OT/ICS Security Matters More Than You Think | urjasec | [Read More](https://medium.com/p/00a491f904bc) |
+| Mon, 24 Nov 2025 14:57:22 GMT | How to Detect Developer Mode on Android using Kotlin | Talsec | [Read More](https://medium.com/p/1542175075bd) |
+| Mon, 24 Nov 2025 14:57:20 GMT | How Physics Made Me a Better Software Engineer | Giwa Uthman | [Read More](https://medium.com/p/c5d7dfe2f7b4) |
+| Mon, 24 Nov 2025 14:56:23 GMT | Oauth2 & Oidc | Chandra | [Read More](https://medium.com/p/0208e7444484) |
+| Mon, 24 Nov 2025 14:49:09 GMT | 10 Hackathon Secrets No One Told Me (Until I Learned Them the Hard Way) | Sasanka Savindi Wakista | [Read More](https://medium.com/p/07a4a7e5e94c) |
 | Mon, 24 Nov 2025 14:36:35 GMT | ✅ How to Create a Navi UPI Account & Link Bank Account (Step-by-Step Guide in English) | Yuvraj Singh | [Read More](https://medium.com/p/a62c05ec0e13) |
 | Mon, 24 Nov 2025 14:33:28 GMT | How to Prevent Mass Assignment Vulnerability in Laravel | Karim Ashraf | [Read More](https://medium.com/p/3985e61ccbd5) |
 | Mon, 24 Nov 2025 14:31:55 GMT | Storms | Alizabeth Amelia Rose | [Read More](https://medium.com/p/38fc42a823e1) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 10:29:29 GMT | How to Make $500 to $1000 by Selling ONIST | Hackers Things | [Read More](https://medium.com/p/448802663d10) |
 | Mon, 24 Nov 2025 10:28:28 GMT | SOC level 1 MITRE room walkthrough | Mercykiaritha | [Read More](https://medium.com/p/ecd84ab1ab83) |
 | Mon, 24 Nov 2025 10:26:11 GMT | Why Every Business Needs a Cybersecurity Risk Assessment in 2025 | Trust Consulting Services | [Read More](https://medium.com/p/7a1dda3477a0) |
-| Mon, 24 Nov 2025 10:24:54 GMT | Operational Infiltration into Russian Criminal Groups under Contemporary Conditions | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/f2411d7d2b34) |
-| Mon, 24 Nov 2025 10:24:47 GMT | Intigriti Challenge 1125  Write-Up — SSTI → RCE → Flag Extraction. | ALi MostaFa | [Read More](https://medium.com/p/895ecc766a6c) |
-| Mon, 24 Nov 2025 10:23:12 GMT | The Global Intelligence Ecosystem: Alliances, Rivalries, and the Fragmentation of Power in the 21st… | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/1f20ebc92bdf) |
-| Mon, 24 Nov 2025 10:19:45 GMT | How to Learn Basic Networking With AI From Scratch: A Complete Guide From the Experts | cyber security Updates | [Read More](https://medium.com/p/2c11066a7bd3) |
-| Mon, 24 Nov 2025 10:16:49 GMT | Security and Performance Aspects of Firewalld Advanced Rules | Linux Guide | [Read More](https://medium.com/p/f6336a4d8c76) |
-| Mon, 24 Nov 2025 10:10:35 GMT | Leading Approaches to Protecting Embedded Devices from Cyber Threats During Boot and Runtime | Epteck GmbH | [Read More](https://medium.com/p/c2424b7813c1) |
-| Mon, 24 Nov 2025 10:10:30 GMT | What 500 Days of Cybersecurity Practice Actually Taught Me | Dhanush N | [Read More](https://medium.com/p/276f452cf78e) |
-| Mon, 24 Nov 2025 10:07:43 GMT | CrowdStrike Insider Threat Incident: Why the “Enemy Within” is Your Biggest Security Risk | Amritesh Shree | [Read More](https://medium.com/p/2efbe5f296fd) |
-| Mon, 24 Nov 2025 10:04:56 GMT | Fake Job Platforms Targeting AI Developers Are Becoming a New Threat | Jasmitha | [Read More](https://medium.com/p/5767771154c2) |
-| Mon, 24 Nov 2025 10:01:11 GMT | ARCHITECTURE VERSUS AI: WHY CYBERSECURITY HAS REACHED ITS BREAKING POINT | Abatis ABTU | [Read More](https://medium.com/p/9b720838f7eb) |
-| Mon, 24 Nov 2025 09:57:13 GMT | Smart companies use OT Threat Detection — Are You Still Guessing? | Balaji | [Read More](https://medium.com/p/395f6c5c5a4b) |
-| Mon, 24 Nov 2025 09:49:55 GMT | Deep Dive into Modern Auth Flows (Explained in Simple Words) | Sarveshmunde | [Read More](https://medium.com/p/4cbdee3a5db5) |
-| Mon, 24 Nov 2025 09:47:52 GMT | CTF Link : https://iitmpravartak.ctfd.io/ | Vishnuthurvas | [Read More](https://medium.com/p/7ea68764e337) |
-| Mon, 24 Nov 2025 09:46:48 GMT | Managing Password Security in Cybersecurity and Its Role in the Energy Sector | Ramandeep Bagri | [Read More](https://medium.com/p/9e56d4138c01) |
-| Mon, 24 Nov 2025 09:43:59 GMT | Build Secure Software (A Proposal) | Alberto Hernandez Acosta | [Read More](https://medium.com/p/ae9cba2a503e) |
-| Mon, 24 Nov 2025 09:37:48 GMT | Alert Triage With Splunk — SOC #9 | D4m.sh | [Read More](https://medium.com/p/6f8d38247bd3) |
-| Mon, 24 Nov 2025 09:36:43 GMT | Transmitted AI with psychological awareness | GMM | [Read More](https://medium.com/p/c6369cce8b8f) |
-| Mon, 24 Nov 2025 09:32:44 GMT | Quantum Computing vs Encryption: The Upcoming Cybersecurity Revolution | Kumar Mohit | [Read More](https://medium.com/p/8b921455a824) |
-| Mon, 24 Nov 2025 09:30:18 GMT | ประจำวันจันทร์ที่ 24 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/3bb5e8c3dcd9) |
