@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 23:07:51 GMT | I Exposed an Azure VM on Purpose. Here’s Who Tried to Break In. | Bhavya Ulapu | [Read More](https://medium.com/p/998a362b9231) |
+| Mon, 24 Nov 2025 22:53:32 GMT | SQL Chapter 35 : Cybersecurity Log Data Analysis | Rahul Mishra(AI Engineer) | [Read More](https://medium.com/p/23ceb58362d6) |
+| Mon, 24 Nov 2025 22:50:31 GMT | Java 25: The Veteran That Stays Young — And Why Many Companies Are Still Living in 2014 | Luan Baleeiro | [Read More](https://medium.com/p/ee2ad10a88d9) |
+| Mon, 24 Nov 2025 22:45:41 GMT | Wazuh Guide in Detail | CybeCloud | [Read More](https://medium.com/p/525016024836) |
+| Mon, 24 Nov 2025 22:42:42 GMT | Cybersecurity Paralysis, When the Cyber Brain of the Organization Breaks | Juan Pablo Castro | [Read More](https://medium.com/p/3f4d03c3ff2b) |
 | Mon, 24 Nov 2025 22:37:02 GMT | Two Birds, One Stone: Why Choose a Cybersecurity Diploma That Prepares You for Your CompTIA… | Danish Ahmad | [Read More](https://medium.com/p/d8344ff29ef0) |
 | Mon, 24 Nov 2025 22:25:18 GMT | PickleBall: Secure Deserialization of Pickle-based Machine Learning Models | James Davis | [Read More](https://medium.com/p/a089113e6b0f) |
 | Mon, 24 Nov 2025 22:17:19 GMT | Top Emerging Cyber Threats That Only AI Can Catch | Cybamatica | [Read More](https://medium.com/p/bfb611c49503) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 16:13:51 GMT | QR Codes from the Past: How an Archive Broke Two-Factor Auth | Aayush kumar | [Read More](https://medium.com/p/e6e64bca466e) |
 | Mon, 24 Nov 2025 16:12:02 GMT | Why Email and Letters are Obsolete in Business and Government Communication | Letro | [Read More](https://medium.com/p/28bf149aea22) |
 | Mon, 24 Nov 2025 16:09:40 GMT | Python HTTP Server - Share Files from PC to Phone Offline! | Ali bin azam | [Read More](https://medium.com/p/486405e84a9d) |
-| Mon, 24 Nov 2025 16:08:57 GMT | Beyond the Code: Advanced Human-Led Techniques in DeFi Security Auditing | Extropy.IO | [Read More](https://medium.com/p/f1279eea96cb) |
-| Mon, 24 Nov 2025 16:08:42 GMT | The DJI Drone Ban: Comprehensive 2025 Update for Cybersecurity Professionals | Berend Watchus | [Read More](https://medium.com/p/7728cacfbe58) |
-| Mon, 24 Nov 2025 16:08:32 GMT | Securing a Flask Web Application: Fixing SQL Injection and XSS Vulnerabilities | Kirupasri Sampath | [Read More](https://medium.com/p/4851f1e1ad53) |
-| Mon, 24 Nov 2025 16:02:12 GMT | The Dead Internet Pt. 2: Why AI Can’t Stop Eating Itself | ToxSec | [Read More](https://medium.com/p/6d04711f59a1) |
-| Mon, 24 Nov 2025 15:57:41 GMT | OSS-Fuzz | Shadman Hossain | [Read More](https://medium.com/p/02d00bd6dd07) |
