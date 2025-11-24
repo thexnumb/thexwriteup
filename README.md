@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 16:17:50 GMT | RST TI Report Digest: 24 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/20daba12c1bc) |
+| Mon, 24 Nov 2025 16:13:51 GMT | QR Codes from the Past: How an Archive Broke Two-Factor Auth | Aayush kumar | [Read More](https://medium.com/p/e6e64bca466e) |
+| Mon, 24 Nov 2025 16:12:02 GMT | Why Email and Letters are Obsolete in Business and Government Communication | Letro | [Read More](https://medium.com/p/28bf149aea22) |
+| Mon, 24 Nov 2025 16:09:40 GMT | Python HTTP Server - Share Files from PC to Phone Offline! | Ali bin azam | [Read More](https://medium.com/p/486405e84a9d) |
+| Mon, 24 Nov 2025 16:08:57 GMT | Beyond the Code: Advanced Human-Led Techniques in DeFi Security Auditing | Extropy.IO | [Read More](https://medium.com/p/f1279eea96cb) |
+| Mon, 24 Nov 2025 16:08:42 GMT | The DJI Drone Ban: Comprehensive 2025 Update for Cybersecurity Professionals | Berend Watchus | [Read More](https://medium.com/p/7728cacfbe58) |
+| Mon, 24 Nov 2025 16:08:32 GMT | Securing a Flask Web Application: Fixing SQL Injection and XSS Vulnerabilities | Kirupasri Sampath | [Read More](https://medium.com/p/4851f1e1ad53) |
+| Mon, 24 Nov 2025 16:02:12 GMT | The Dead Internet Pt. 2: Why AI Can’t Stop Eating Itself | ToxSec | [Read More](https://medium.com/p/6d04711f59a1) |
+| Mon, 24 Nov 2025 15:57:41 GMT | OSS-Fuzz | Shadman Hossain | [Read More](https://medium.com/p/02d00bd6dd07) |
+| Mon, 24 Nov 2025 15:51:14 GMT | How I Identified and Exploited an Oracle WebLogic Server Unauthenticated Remote Code Execution… | Vinay A S | [Read More](https://medium.com/p/f082fb95b428) |
+| Mon, 24 Nov 2025 15:50:21 GMT | Data protection in Laravel with blind indexing CipherSweet | Talhaoui mouad | [Read More](https://medium.com/p/296aec368c15) |
+| Mon, 24 Nov 2025 15:48:50 GMT | Utilizing ChatGPT for Decoding Astaroth Strings | Jason Reaves | [Read More](https://medium.com/p/80815e4dfefb) |
+| Mon, 24 Nov 2025 15:48:11 GMT | ⭐ Best Free Alternatives for Secure PDF Sharing (2025 Guide) | adytr_32 | [Read More](https://medium.com/p/126aa310caa0) |
+| Mon, 24 Nov 2025 15:47:19 GMT | [Ethernaut] 4. Telephone | Jiseop Shin | [Read More](https://medium.com/p/65e86e566d18) |
+| Mon, 24 Nov 2025 15:43:48 GMT | Certificates That Pay In 2025 | Yusuf Zeki | [Read More](https://medium.com/p/a652e9091fdf) |
 | Mon, 24 Nov 2025 15:27:39 GMT | When the Darkness Comes Back | Rahul Gupta | [Read More](https://medium.com/p/5f39fdfcddeb) |
 | Mon, 24 Nov 2025 15:25:52 GMT | Insurance Shortfalls Worry Wealthy Clients Amid Cyber, Natural Disaster, and Lawsuit Risks | Oleg Parashchak | [Read More](https://medium.com/p/6d6cbd8cbb44) |
 | Mon, 24 Nov 2025 15:17:36 GMT | From “Meh, It’s Just Reflected XSS” to “Sh*t, I Own the CEO” | Shah kaif | [Read More](https://medium.com/p/0e0793ef7186) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 11:21:48 GMT | Patient Z-ero - Blueteamlabs.online | Muhammadardhimutiawan | [Read More](https://medium.com/p/345fd5af94a3) |
 | Mon, 24 Nov 2025 11:13:17 GMT | HTB - Cobblestone (Insane) | Raid Salim | [Read More](https://medium.com/p/ac1ca7271d7f) |
 | Mon, 24 Nov 2025 11:10:39 GMT | FORTIGATE GEÇİŞİ 01.07 Security Fabric, Automation Stitches and External Dynamic Lists | Ziya DENİZ | [Read More](https://medium.com/p/84bfab0ffb95) |
-| Mon, 24 Nov 2025 11:09:09 GMT | SMTP Open Relay Misconfiguration — Still Alive in 2025 | 3baset | [Read More](https://medium.com/p/b59cc101f852) |
-| Mon, 24 Nov 2025 11:09:01 GMT | CyberDefenders ShadowCitadel Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/7b350b5b156e) |
-| Mon, 24 Nov 2025 11:03:37 GMT | Top IT Infrastructure Management Services in India - Tailored Solutions | Samvaskaran | [Read More](https://medium.com/p/3bc55ddb1d96) |
-| Mon, 24 Nov 2025 11:03:34 GMT | Bring Your Enterprise Information Security Management System with GraphRAG to the Next Level | Graphwise | [Read More](https://medium.com/p/11e022d194a7) |
-| Mon, 24 Nov 2025 11:02:17 GMT | This Week in Resilience - November 24, 2025 | Sherilyn Burris | [Read More](https://medium.com/p/8d19d48869ba) |
-| Mon, 24 Nov 2025 10:57:17 GMT | Even Hackers Are Losing Their Jobs to AI Now | Deepak Chahal | [Read More](https://medium.com/p/358f03f1c643) |
-| Mon, 24 Nov 2025 10:56:03 GMT | What is Spyware? - VIIEGO | Rolando | [Read More](https://medium.com/p/2e67e0e4da28) |
-| Mon, 24 Nov 2025 10:52:40 GMT | Introducing Patchifi - Autonomous Endpoint Management | Saarahjabir | [Read More](https://medium.com/p/2b772d0f01fa) |
-| Mon, 24 Nov 2025 10:52:23 GMT | доверяй, но проверяй: The Analyst’s Guide to Intuition | dolphin.exe | [Read More](https://medium.com/p/4405fbcff0e2) |
-| Mon, 24 Nov 2025 10:51:57 GMT | Wireshark Crash Risk: Malformed Packets Expose Network Analyzer to Denial-of-Service | Jasmitha | [Read More](https://medium.com/p/335a48911761) |
-| Mon, 24 Nov 2025 10:50:34 GMT | Mapping Unemployment: Connecting Data to the Places That Serve Our Communities | Jasmin Barragan | [Read More](https://medium.com/p/00d2561f5e0d) |
-| Mon, 24 Nov 2025 10:45:20 GMT | How Eventus Security’s SOC Strengthens Cyber Resilience | Eventus Security Private Limited | [Read More](https://medium.com/p/c639da072fe4) |
-| Mon, 24 Nov 2025 10:42:32 GMT | How to Protect Your Privacy in 2026 — Beginner’s Guide to Cybersecurity | Hameedduke | [Read More](https://medium.com/p/154a047051c7) |
-| Mon, 24 Nov 2025 10:38:27 GMT | Why Partnering with a Professional Web Development Company Matters for Business Growth | Ava Jones | [Read More](https://medium.com/p/a6a14852df81) |
-| Mon, 24 Nov 2025 10:29:29 GMT | How to Make $500 to $1000 by Selling ONIST | Hackers Things | [Read More](https://medium.com/p/448802663d10) |
