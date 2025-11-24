@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 22:12:16 GMT | AI-Written Code: The 5 Critical Security Checkpoints No Team Can Ignore | Cyber-AppSec | [Read More](https://medium.com/p/056b24170bb6) |
+| Mon, 24 Nov 2025 22:06:31 GMT | Code and the Machine: Why Developers Fear AI and What It Means for Cybersecurity | Elad Golan | [Read More](https://medium.com/p/ceb311ed5b5a) |
+| Mon, 24 Nov 2025 21:56:44 GMT | INE Assessment Methodologies: Information Gathering CTF 1 Write-up | Irem Bezci | [Read More](https://medium.com/p/942a96a319e5) |
+| Mon, 24 Nov 2025 21:53:22 GMT | Zero Trust Networking: Principles, Benefits & Implementation | QuarkAndCode | [Read More](https://medium.com/p/897b88a296a2) |
+| Mon, 24 Nov 2025 21:41:13 GMT | Salesforce Instances Hacked via Gainsight Integrations | IT_Engineer | [Read More](https://medium.com/p/5818392f4179) |
 | Mon, 24 Nov 2025 21:38:05 GMT | Why Your Threat Models Are Gathering Dust (And How to Fix It) | Kay Adelaja | [Read More](https://medium.com/p/fc13b3dc9c23) |
 | Mon, 24 Nov 2025 21:26:20 GMT | Uncovering a Fake System32 Directory: A Deep Dive into NTFS Path Manipulation and Bypassing Windows… | Omar AlSahily | [Read More](https://medium.com/p/2abbf984b406) |
 | Mon, 24 Nov 2025 21:19:50 GMT | Backdoors at the BIOS Level: When the Infection Lives Below the Operating System | Bervice | [Read More](https://medium.com/p/743a070170fc) |
 | Mon, 24 Nov 2025 21:18:15 GMT | Write up Forged [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/79217c784dc7) |
+| Mon, 24 Nov 2025 20:53:56 GMT | El Ojo que Todo lo Ve: Construyendo mi propio SOC con Wazuh | FeCeSociety | [Read More](https://medium.com/p/bab146a142cd) |
 | Mon, 24 Nov 2025 20:44:46 GMT | Inside SailPoint Navigate London: Where Identity Security Meets Reality | Steve Anderson | [Read More](https://medium.com/p/cdf92bffdf09) |
 | Mon, 24 Nov 2025 20:32:50 GMT | Build Secure Login with 2FA — A Simple Node.js + MongoDB Implementation | om prakash | [Read More](https://medium.com/p/45f57b201af7) |
 | Mon, 24 Nov 2025 20:32:08 GMT | Save a Million Dollars on Your Security Budget with Threat Modeling | mohandika | [Read More](https://medium.com/p/440768227467) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 15:50:21 GMT | Data protection in Laravel with blind indexing CipherSweet | Talhaoui mouad | [Read More](https://medium.com/p/296aec368c15) |
 | Mon, 24 Nov 2025 15:48:50 GMT | Utilizing ChatGPT for Decoding Astaroth Strings | Jason Reaves | [Read More](https://medium.com/p/80815e4dfefb) |
 | Mon, 24 Nov 2025 15:48:11 GMT | ⭐ Best Free Alternatives for Secure PDF Sharing (2025 Guide) | adytr_32 | [Read More](https://medium.com/p/126aa310caa0) |
-| Mon, 24 Nov 2025 15:47:19 GMT | [Ethernaut] 4. Telephone | Jiseop Shin | [Read More](https://medium.com/p/65e86e566d18) |
-| Mon, 24 Nov 2025 15:43:48 GMT | Certificates That Pay In 2025 | Yusuf Zeki | [Read More](https://medium.com/p/a652e9091fdf) |
-| Mon, 24 Nov 2025 15:27:39 GMT | When the Darkness Comes Back | Rahul Gupta | [Read More](https://medium.com/p/5f39fdfcddeb) |
-| Mon, 24 Nov 2025 15:25:52 GMT | Insurance Shortfalls Worry Wealthy Clients Amid Cyber, Natural Disaster, and Lawsuit Risks | Oleg Parashchak | [Read More](https://medium.com/p/6d6cbd8cbb44) |
-| Mon, 24 Nov 2025 15:17:36 GMT | From “Meh, It’s Just Reflected XSS” to “Sh*t, I Own the CEO” | Shah kaif | [Read More](https://medium.com/p/0e0793ef7186) |
-| Mon, 24 Nov 2025 15:15:21 GMT | “The Forgotten Vulnerability: How CRLF Injection Almost Broke Twitter’s Ad Platform” | Aman Sharma | [Read More](https://medium.com/p/cfb2c98a82b0) |
