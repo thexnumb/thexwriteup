@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 21:38:05 GMT | Why Your Threat Models Are Gathering Dust (And How to Fix It) | Kay Adelaja | [Read More](https://medium.com/p/fc13b3dc9c23) |
+| Mon, 24 Nov 2025 21:26:20 GMT | Uncovering a Fake System32 Directory: A Deep Dive into NTFS Path Manipulation and Bypassing Windows… | Omar AlSahily | [Read More](https://medium.com/p/2abbf984b406) |
+| Mon, 24 Nov 2025 21:19:50 GMT | Backdoors at the BIOS Level: When the Infection Lives Below the Operating System | Bervice | [Read More](https://medium.com/p/743a070170fc) |
+| Mon, 24 Nov 2025 21:18:15 GMT | Write up Forged [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/79217c784dc7) |
 | Mon, 24 Nov 2025 20:44:46 GMT | Inside SailPoint Navigate London: Where Identity Security Meets Reality | Steve Anderson | [Read More](https://medium.com/p/cdf92bffdf09) |
 | Mon, 24 Nov 2025 20:32:50 GMT | Build Secure Login with 2FA — A Simple Node.js + MongoDB Implementation | om prakash | [Read More](https://medium.com/p/45f57b201af7) |
 | Mon, 24 Nov 2025 20:32:08 GMT | Save a Million Dollars on Your Security Budget with Threat Modeling | mohandika | [Read More](https://medium.com/p/440768227467) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 15:25:52 GMT | Insurance Shortfalls Worry Wealthy Clients Amid Cyber, Natural Disaster, and Lawsuit Risks | Oleg Parashchak | [Read More](https://medium.com/p/6d6cbd8cbb44) |
 | Mon, 24 Nov 2025 15:17:36 GMT | From “Meh, It’s Just Reflected XSS” to “Sh*t, I Own the CEO” | Shah kaif | [Read More](https://medium.com/p/0e0793ef7186) |
 | Mon, 24 Nov 2025 15:15:21 GMT | “The Forgotten Vulnerability: How CRLF Injection Almost Broke Twitter’s Ad Platform” | Aman Sharma | [Read More](https://medium.com/p/cfb2c98a82b0) |
-| Mon, 24 Nov 2025 15:13:45 GMT | International Guide: How to Become an ER Tech in 2025 for Beginners | Motherlandlove | [Read More](https://medium.com/p/310dde7a5a6a) |
-| Mon, 24 Nov 2025 15:11:31 GMT | How I Hacked an AI That Was Supposed to Be Hacking For Me ⚔️ | Iski | [Read More](https://medium.com/p/d4519e6a4d55) |
-| Mon, 24 Nov 2025 15:06:47 GMT | Fraud Has Always Been Part of Humanity; the Internet/AI Have Amplified and Made It Easier | Dr Mehmet Yildiz | [Read More](https://medium.com/p/f2bb7ee9d1e6) |
-| Mon, 24 Nov 2025 15:05:45 GMT | What if one the great plague of the century happen in a video game | Erwan LE TUTOUR | [Read More](https://medium.com/p/68efc672f5c1) |
