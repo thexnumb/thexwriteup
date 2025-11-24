@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 12:43:02 GMT | Why Cyber Security Assessment Services Are Essential for Modern Businesses | Vishwajeettechtech | [Read More](https://medium.com/p/626fae84a66e) |
+| Mon, 24 Nov 2025 12:42:43 GMT | CyberFundamentals 2025: A Practical Standard for Modern Cybersecurity | Viktor Davydych | [Read More](https://medium.com/p/d3dc92c3595e) |
+| Mon, 24 Nov 2025 12:33:27 GMT | Navigating an insecure website: What You Need to Know | Umar Al-Mahfuz | [Read More](https://medium.com/p/5db8b294da1c) |
+| Mon, 24 Nov 2025 12:29:40 GMT | Article 8 : Cybersecurity — Beginning | Aman Kumar Singh | [Read More](https://medium.com/p/0d52c6fbfed0) |
+| Mon, 24 Nov 2025 12:26:22 GMT | Continuous Network Scanning for Real-Time Asset Visibility | Kartiksharma | [Read More](https://medium.com/p/76c40074fea7) |
+| Mon, 24 Nov 2025 12:26:01 GMT | Harvard’s 2025 Alumni Data Breach Is a Warning to the World — And a Preview of What’s Coming Next! | Bhawini. | [Read More](https://medium.com/p/4c890bb8fb7d) |
+| Mon, 24 Nov 2025 12:24:23 GMT | Top 5 Smart Contract Audit Companies to Look Out In 2026 | Devendra Singh Khati | [Read More](https://medium.com/p/f417c54a5f9d) |
+| Mon, 24 Nov 2025 12:14:05 GMT | “If we scale this company to 200–500 employees, will the IT and security foundations hold?” | Barry Ritchie | [Read More](https://medium.com/p/459a2413df0a) |
+| Mon, 24 Nov 2025 12:03:03 GMT | Cybersecurity Threats and Solutions | Emily Chan | [Read More](https://medium.com/p/a6ed75f4af7c) |
+| Mon, 24 Nov 2025 12:03:03 GMT | Setting up a malware analysis lab | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/10c88e925960) |
+| Mon, 24 Nov 2025 12:02:06 GMT | The Psychological Side of Fraud — When Users Stop Trusting Your Platform | Gokul Nair | [Read More](https://medium.com/p/f1776cd1819d) |
+| Mon, 24 Nov 2025 12:02:04 GMT | Understanding CWE-552: Files or Directories Accessible to External Parties | Walter Moar | [Read More](https://medium.com/p/82df164b1822) |
+| Mon, 24 Nov 2025 11:52:31 GMT | Part I — Behind the Screens: A Practical Guide to How Hacking Really Works | Vanshi Dalal | [Read More](https://medium.com/p/20e6189881da) |
 | Mon, 24 Nov 2025 11:37:57 GMT | The Botnet That Started With My Friend’s Stolen Laptop | Abdullah Javeed | [Read More](https://medium.com/p/2b47f55f3e7c) |
 | Mon, 24 Nov 2025 11:32:48 GMT | {中間発表}渋谷で再現はできたのか！？ | YAMASAKI RITO | [Read More](https://medium.com/p/423392ca506f) |
 | Mon, 24 Nov 2025 11:31:35 GMT | DockerLabs Writeup — -Pn (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/032e4f937ef8) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 06:50:19 GMT | When a Checkbox Breaks Your Security: It Turned Into an XSS. | Vidhan Thakur | [Read More](https://medium.com/p/683f38577bb5) |
 | Mon, 24 Nov 2025 06:38:42 GMT | What Is Cloaking?-Cybersecurity | Soundaryaps | [Read More](https://medium.com/p/91acd379504f) |
 | Mon, 24 Nov 2025 06:36:36 GMT | WEEK 2 INTERNSHIP | Adeleke Theophilus O | [Read More](https://medium.com/p/12c966c549a1) |
-| Mon, 24 Nov 2025 06:36:36 GMT | The Growing Importance of Data Security Services in a Digitally Accelerated World | Devarshi Acharya | [Read More](https://medium.com/p/4d63d19482ba) |
-| Mon, 24 Nov 2025 06:28:15 GMT | Build a strong tech career with a diploma in cybersecurity in Bangalore. | RedTeamsaniga Suresh | [Read More](https://medium.com/p/18f69d9d8b3a) |
-| Mon, 24 Nov 2025 06:24:08 GMT | The Case: Seven Minutes on the Seine | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/937f086751a2) |
-| Mon, 24 Nov 2025 06:02:06 GMT | Chronicles of The Energy Maiguard | Omogoye Precious Deborah | [Read More](https://medium.com/p/00369e845d95) |
-| Mon, 24 Nov 2025 06:02:06 GMT | Fingerprint & Face ID Authentication in Flutter (Secure Your Flutter App) | Roshni Savaliya - Flutter Developer | [Read More](https://medium.com/p/dab9b3f73188) |
-| Mon, 24 Nov 2025 06:02:06 GMT | Networking for Developers: TLS/SSL Explained (Why HTTPS Is Slow and How to Fix It) | The Speed Engineer | [Read More](https://medium.com/p/a7ffe81ab78a) |
-| Mon, 24 Nov 2025 05:50:24 GMT | Topics I Wanna Talk About and I will be talking about | Asylumkiddo | [Read More](https://medium.com/p/67ca31d1427a) |
-| Mon, 24 Nov 2025 05:48:25 GMT | Uncovering Invisible Privileges: The Ultimate Guide to Mass-Assignment in Registration Flows | coffinxp | [Read More](https://medium.com/p/9ecd5ff40512) |
-| Mon, 24 Nov 2025 05:47:07 GMT | Top AI Security Monthly Insights — November  2025 | Tal Eliyahu | [Read More](https://medium.com/p/ae61577d7757) |
-| Mon, 24 Nov 2025 05:46:50 GMT | Discount Radio: Getting Started With SDR | Investigator515 | [Read More](https://medium.com/p/b96f1b2bd04b) |
-| Mon, 24 Nov 2025 05:42:06 GMT | Gaining Root on Koiptrix with Metasploit | B3TA-BLOCKER | [Read More](https://medium.com/p/ca58c126ea16) |
-| Mon, 24 Nov 2025 05:40:37 GMT | The Algorithm’s Shadow: Navigating the New Frontier of AI-Powered Cyber Warfare | Akshat Ratanpal | [Read More](https://medium.com/p/1da11ec00f81) |
-| Mon, 24 Nov 2025 05:35:39 GMT | Bug Bounty Hunting — Complete Guide (Part-147) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/87dac0f0ecb4) |
