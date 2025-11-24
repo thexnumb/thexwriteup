@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 10:38:27 GMT | Why Partnering with a Professional Web Development Company Matters for Business Growth | Ava Jones | [Read More](https://medium.com/p/a6a14852df81) |
+| Mon, 24 Nov 2025 10:29:29 GMT | How to Make $500 to $1000 by Selling ONIST | Hackers Things | [Read More](https://medium.com/p/448802663d10) |
+| Mon, 24 Nov 2025 10:28:28 GMT | SOC level 1 MITRE room walkthrough | Mercykiaritha | [Read More](https://medium.com/p/ecd84ab1ab83) |
+| Mon, 24 Nov 2025 10:26:11 GMT | Why Every Business Needs a Cybersecurity Risk Assessment in 2025 | Trust Consulting Services | [Read More](https://medium.com/p/7a1dda3477a0) |
+| Mon, 24 Nov 2025 10:24:54 GMT | Operational Infiltration into Russian Criminal Groups under Contemporary Conditions | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/f2411d7d2b34) |
+| Mon, 24 Nov 2025 10:24:47 GMT | Intigriti Challenge 1125  Write-Up — SSTI → RCE → Flag Extraction. | ALi MostaFa | [Read More](https://medium.com/p/895ecc766a6c) |
 | Mon, 24 Nov 2025 10:23:12 GMT | The Global Intelligence Ecosystem: Alliances, Rivalries, and the Fragmentation of Power in the 21st… | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/1f20ebc92bdf) |
 | Mon, 24 Nov 2025 10:19:45 GMT | How to Learn Basic Networking With AI From Scratch: A Complete Guide From the Experts | cyber security Updates | [Read More](https://medium.com/p/2c11066a7bd3) |
+| Mon, 24 Nov 2025 10:16:49 GMT | Security and Performance Aspects of Firewalld Advanced Rules | Linux Guide | [Read More](https://medium.com/p/f6336a4d8c76) |
 | Mon, 24 Nov 2025 10:10:35 GMT | Leading Approaches to Protecting Embedded Devices from Cyber Threats During Boot and Runtime | Epteck GmbH | [Read More](https://medium.com/p/c2424b7813c1) |
 | Mon, 24 Nov 2025 10:10:30 GMT | What 500 Days of Cybersecurity Practice Actually Taught Me | Dhanush N | [Read More](https://medium.com/p/276f452cf78e) |
 | Mon, 24 Nov 2025 10:07:43 GMT | CrowdStrike Insider Threat Incident: Why the “Enemy Within” is Your Biggest Security Risk | Amritesh Shree | [Read More](https://medium.com/p/2efbe5f296fd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 04:12:05 GMT | Buffer OverflowAttack: A Common Software Vulnerability | PRAVEEN J | [Read More](https://medium.com/p/5477a8dc62b1) |
 | Mon, 24 Nov 2025 04:09:02 GMT | $600 Bounty: Stored XSS in Jira Service Desk Reports | Monika sharma | [Read More](https://medium.com/p/22bad0f8120d) |
 | Mon, 24 Nov 2025 04:07:45 GMT | Information Disclosure in Revive Adserver v6.0.0 | Monika sharma | [Read More](https://medium.com/p/1abad04b5199) |
-| Mon, 24 Nov 2025 04:05:58 GMT | Why AI Phishing Attacks Have a 54% Success Rate | Souradip Pal | [Read More](https://medium.com/p/61f3764f0929) |
-| Mon, 24 Nov 2025 04:05:06 GMT | AI Powered Cyber Security | BoNeZ | [Read More](https://medium.com/p/405480991465) |
-| Mon, 24 Nov 2025 04:02:06 GMT | The New Nuclear Showdown | The Langston Report | [Read More](https://medium.com/p/340cf0d1c073) |
-| Mon, 24 Nov 2025 03:59:40 GMT | The Architecture of Agentic Warfare: Deconstructing the Claude-Powered Cyberattack | Shivam, Researcher | [Read More](https://medium.com/p/14fcdffe7f2c) |
-| Mon, 24 Nov 2025 03:32:07 GMT | Inside the “I Paid Twice” Scam: How Attackers Target Booking.com Hotels and Travelers | Deven Chhajed | [Read More](https://medium.com/p/5fa9d9380275) |
-| Mon, 24 Nov 2025 03:30:50 GMT | The Rise of Information Technology | Author! | [Read More](https://medium.com/p/305988e42e95) |
-| Mon, 24 Nov 2025 03:19:16 GMT | Business Logic Vulnerabilities in APIs | Jei Ess | [Read More](https://medium.com/p/a268d420e7d6) |
