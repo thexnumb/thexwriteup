@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 17:33:28 GMT | I Thought Cyber Attacks Only Happened to Big Companies… Until It Happened to Me | Kadirijafar | [Read More](https://medium.com/p/e7b8051cf194) |
+| Mon, 24 Nov 2025 17:33:06 GMT | $$$ How I Discovered a Business Logic Vulnerability That Allowed Price Manipulation Through… | Zyad Ibrahim | [Read More](https://medium.com/p/59d4a8c36cea) |
+| Mon, 24 Nov 2025 17:31:28 GMT | Connecting Care for Value-Based Homeless Services | Nzinga Garvey, MBA | [Read More](https://medium.com/p/b8770c794f42) |
+| Mon, 24 Nov 2025 17:30:30 GMT | How to Choose a Cybersecurity Company in Dubai | DefenceRabbit | [Read More](https://medium.com/p/ed027be58151) |
+| Mon, 24 Nov 2025 17:27:25 GMT | ️ Blog 55 — AWS Elastic Beanstalk | Prutha_Dongre | [Read More](https://medium.com/p/546f088b3ab8) |
+| Mon, 24 Nov 2025 17:24:28 GMT | The Thirteenth Server Novel | Ramdane Issaad | [Read More](https://medium.com/p/4a5954b56439) |
 | Mon, 24 Nov 2025 17:12:54 GMT | This Week’s Triple Canons : GPUs Stolen, Birds Break In, and Windows Trips Over Office | Mohith Krishna K | [Read More](https://medium.com/p/8a62f32814cb) |
 | Mon, 24 Nov 2025 17:11:03 GMT | How to Know If Your Data or Card Has Been Stolen in 2025 — And What To Do Next | Nazrul Islam Rana | [Read More](https://medium.com/p/bfd2640af254) |
 | Mon, 24 Nov 2025 17:08:50 GMT | 45 Days of Cybersecurity Days 8–10 | Wandesrtech | [Read More](https://medium.com/p/3675863e14f7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 13:11:45 GMT | Virtual Threads Explained: Why Everything You Know About Java Threading Is About to Change | Jitin Kayyala | [Read More](https://medium.com/p/76ba4de6d675) |
 | Mon, 24 Nov 2025 13:11:01 GMT | What Stops a Routine IT Failure From Becoming a Major External Breach? | Barry Ritchie | [Read More](https://medium.com/p/6b330c81c0ba) |
 | Mon, 24 Nov 2025 13:08:07 GMT | How I Automated Finding User Enumeration Bugs | Ibtissam | [Read More](https://medium.com/p/07ad5143dbcc) |
-| Mon, 24 Nov 2025 13:04:10 GMT | Phantom Stores: Retail Impersonation Spreads Ahead of Black Friday Powered by Video Ads and Modular… | Roshan | [Read More](https://medium.com/p/6c93ac221de6) |
-| Mon, 24 Nov 2025 12:58:31 GMT | A Ethical Hacking Masterclass That Changed How I See Privacy! | Idris Fabiyi | [Read More](https://medium.com/p/da9d60220b36) |
-| Mon, 24 Nov 2025 12:55:46 GMT | Why Cloud Security Checks Are Important | Appzlogic | [Read More](https://medium.com/p/c0660d997007) |
-| Mon, 24 Nov 2025 12:49:31 GMT | NETFLIX Exposed Prometheus instance exposing internal metrics closed as duplicate leaks internal… | Christoscoming | [Read More](https://medium.com/p/dfa78d99864e) |
-| Mon, 24 Nov 2025 12:45:54 GMT | “The cobbler’s children have no shoes.” | CacheGuard Technologies | [Read More](https://medium.com/p/d5e870448186) |
-| Mon, 24 Nov 2025 12:43:02 GMT | Why Cyber Security Assessment Services Are Essential for Modern Businesses | Vishwajeettechtech | [Read More](https://medium.com/p/626fae84a66e) |
