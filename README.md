@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 09:32:44 GMT | Quantum Computing vs Encryption: The Upcoming Cybersecurity Revolution | Kumar Mohit | [Read More](https://medium.com/p/8b921455a824) |
+| Mon, 24 Nov 2025 09:30:18 GMT | ประจำวันจันทร์ที่ 24 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/3bb5e8c3dcd9) |
+| Mon, 24 Nov 2025 09:29:50 GMT | Powerful Managed IT Support for Chatswood Businesses | Any network | [Read More](https://medium.com/p/f43b588c8c4c) |
+| Mon, 24 Nov 2025 09:22:46 GMT | PsExec ve Yanal Hareket İzleri: SIEM Loglarında Proaktif Tehdit Avcılığı (Threat Hunting) Kılavuzu | Buğra Enhar Elbir | [Read More](https://medium.com/p/891c439164e3) |
+| Mon, 24 Nov 2025 09:22:08 GMT | What is Next Gen Firewall | Terabyte Plus PLC. | [Read More](https://medium.com/p/4c09adafa6b9) |
 | Mon, 24 Nov 2025 09:12:34 GMT | The Phishing Game Just Changed: Introducing the Anti-Phishing Guardian Extension | Maxwell Onyeka | [Read More](https://medium.com/p/2b6fdb7cae9d) |
+| Mon, 24 Nov 2025 09:10:28 GMT | SaferWeb : A One-Stop URL Security Checker | Prateek Chaubey | [Read More](https://medium.com/p/f546de26d0af) |
 | Mon, 24 Nov 2025 09:08:41 GMT | As cyber threats grow in volume, sophistication, and impact, security teams across industries are… | Umangp | [Read More](https://medium.com/p/87242cd4994c) |
 | Mon, 24 Nov 2025 09:08:29 GMT | My OSCP+ Journey Through Try Harder Concept (Failed, Failed, then Passed) | Yoga Bayu Aji Pranawa | [Read More](https://medium.com/p/cb659649f519) |
 | Mon, 24 Nov 2025 09:05:25 GMT | Discover the Leading Ethical Hacking Academy in Bangalore and How It Shapes Experts | RedTeamsaniga Suresh | [Read More](https://medium.com/p/30ebe2813c5d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 02:03:24 GMT | “The Cost of Forgetting: Cloud’s Hard Truths and AI’s Coming Reality Check” | Joseph Stephens | [Read More](https://medium.com/p/66849a621e7d) |
 | Mon, 24 Nov 2025 01:44:38 GMT | The 5 Pillars of Ethical Hacking Explained | Shahzaib | [Read More](https://medium.com/p/7404f36a99aa) |
 | Mon, 24 Nov 2025 01:44:31 GMT | Your Digital Footprint Is Feeding ML Systems, Here’s What That Means | Hareem Fatima | [Read More](https://medium.com/p/eb2bdf44e945) |
-| Mon, 24 Nov 2025 01:44:23 GMT | Privacy and Ethics in OSINT: Navigating the New Frontier | Mainekhacker | [Read More](https://medium.com/p/41fee38bcfa5) |
-| Mon, 24 Nov 2025 01:42:34 GMT | The Unspoken Courage of Softness: Why Emotional Armor Never Protects Your Heart | Yash Patil | [Read More](https://medium.com/p/d56c4cdd2dd8) |
-| Mon, 24 Nov 2025 01:29:10 GMT | The Future of AuthN/AuthZ in Multi-Agent AI Systems | ThamizhElango Natarajan | [Read More](https://medium.com/p/3f3782449e13) |
-| Mon, 24 Nov 2025 01:14:16 GMT | How xxx.com Helped Me Land $10K Bounties in Just 1 Week | Anonymous Traiger | [Read More](https://medium.com/p/9debd408b855) |
-| Mon, 24 Nov 2025 01:13:15 GMT | Stop Storing Secrets in Plain Text: A Simple Guide to Encrypted Storage in React Native (with a… | eugenio andrieu | [Read More](https://medium.com/p/c7c08200d3de) |
-| Mon, 24 Nov 2025 01:09:09 GMT | Red Teaming 2: Anne Ben Hacker Oldum (Sanmıştım) — Script Kiddie Sendromu | Hazal Karayiğit | [Read More](https://medium.com/p/007788e56038) |
