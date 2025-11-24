@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 16:41:45 GMT | Praktikum Internet of Things (Tugas): Kontrol Relay Melalui Internet | Muhammad Surya Saputro | [Read More](https://medium.com/p/8a49e6a5bd15) |
+| Mon, 24 Nov 2025 16:41:27 GMT | Praktikum Internet of Things: Kontrol Relay melalui Internet | Muhammad Surya Saputro | [Read More](https://medium.com/p/edfebb8d7341) |
+| Mon, 24 Nov 2025 16:38:02 GMT | Red Team Engagement — Windows Server 2019 CTF Challenge (Part-01) | Sachin Sir | [Read More](https://medium.com/p/939fa5be5395) |
+| Mon, 24 Nov 2025 16:34:10 GMT | Cut Through Tool Fatigue: Why More Controls Don’t Equal Better Security | Hello @ Octellient | [Read More](https://medium.com/p/a41bf4c702c7) |
+| Mon, 24 Nov 2025 16:29:02 GMT | Django Forms: The Secret to Handling User Input Without the Headaches | Nitesh Chahar | [Read More](https://medium.com/p/441635817bab) |
+| Mon, 24 Nov 2025 16:28:18 GMT | When Encryption Isn’t Enough — How the Sturnus Trojan Sneaks Into WhatsApp, Signal & Telegram Chats. | eL Njas!™ | [Read More](https://medium.com/p/8350236aef2e) |
+| Mon, 24 Nov 2025 16:28:07 GMT | The Story That Almost Stayed Untold | Isla Handrics | [Read More](https://medium.com/p/7ab5273f3879) |
+| Mon, 24 Nov 2025 16:27:47 GMT | Padelify THM - Writeup | Domon | [Read More](https://medium.com/p/f8917e721a48) |
 | Mon, 24 Nov 2025 16:17:50 GMT | RST TI Report Digest: 24 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/20daba12c1bc) |
 | Mon, 24 Nov 2025 16:13:51 GMT | QR Codes from the Past: How an Archive Broke Two-Factor Auth | Aayush kumar | [Read More](https://medium.com/p/e6e64bca466e) |
 | Mon, 24 Nov 2025 16:12:02 GMT | Why Email and Letters are Obsolete in Business and Government Communication | Letro | [Read More](https://medium.com/p/28bf149aea22) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 12:02:04 GMT | Understanding CWE-552: Files or Directories Accessible to External Parties | Walter Moar | [Read More](https://medium.com/p/82df164b1822) |
 | Mon, 24 Nov 2025 11:52:31 GMT | Part I — Behind the Screens: A Practical Guide to How Hacking Really Works | Vanshi Dalal | [Read More](https://medium.com/p/20e6189881da) |
 | Mon, 24 Nov 2025 11:37:57 GMT | The Botnet That Started With My Friend’s Stolen Laptop | Abdullah Javeed | [Read More](https://medium.com/p/2b47f55f3e7c) |
-| Mon, 24 Nov 2025 11:32:48 GMT | {中間発表}渋谷で再現はできたのか！？ | YAMASAKI RITO | [Read More](https://medium.com/p/423392ca506f) |
-| Mon, 24 Nov 2025 11:31:35 GMT | DockerLabs Writeup — -Pn (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/032e4f937ef8) |
-| Mon, 24 Nov 2025 11:30:21 GMT | The Walking Packets - Blueteamlabs.online | Muhammadardhimutiawan | [Read More](https://medium.com/p/81c2e1f89936) |
-| Mon, 24 Nov 2025 11:22:52 GMT | Cloud Environment Security | Cenky | [Read More](https://medium.com/p/3b0f1213e959) |
-| Mon, 24 Nov 2025 11:22:09 GMT | The announcement that Palo Alto Networks will acquire Chronosphere for $3.35bn | Chandramouli | [Read More](https://medium.com/p/6532080d946f) |
-| Mon, 24 Nov 2025 11:21:48 GMT | Patient Z-ero - Blueteamlabs.online | Muhammadardhimutiawan | [Read More](https://medium.com/p/345fd5af94a3) |
-| Mon, 24 Nov 2025 11:13:17 GMT | HTB - Cobblestone (Insane) | Raid Salim | [Read More](https://medium.com/p/ac1ca7271d7f) |
-| Mon, 24 Nov 2025 11:10:39 GMT | FORTIGATE GEÇİŞİ 01.07 Security Fabric, Automation Stitches and External Dynamic Lists | Ziya DENİZ | [Read More](https://medium.com/p/84bfab0ffb95) |
