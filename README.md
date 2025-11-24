@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 04:47:52 GMT | How Vertex AI RAG Engine Simplifies Security Policy Grounding and Multi-Corpus Architecture | Alexander Tyutin | [Read More](https://medium.com/p/d20042339986) |
+| Mon, 24 Nov 2025 04:36:01 GMT | What happens when we stop asking AI to be perfect — and start asking it to be human? | Melinda - Quillway Travel | [Read More](https://medium.com/p/3a3a21ca53d4) |
+| Mon, 24 Nov 2025 04:31:43 GMT | Web Application Firewalls (WAF): The Silent Shield Protecting the Modern Web | Geeky Vartika | [Read More](https://medium.com/p/2a71ccebc52f) |
+| Mon, 24 Nov 2025 04:24:05 GMT | How the U.S. Cyber Defense Market Is Set to Reach USD 150.6 Billion by 2032 | Vijay Mishra | [Read More](https://medium.com/p/807e5a1ede3a) |
+| Mon, 24 Nov 2025 04:16:16 GMT | Why Personal Cybersecurity Is the Missing Link in Business Defense | Victor Yan | [Read More](https://medium.com/p/8d6171200f10) |
+| Mon, 24 Nov 2025 04:12:05 GMT | Buffer OverflowAttack: A Common Software Vulnerability | PRAVEEN J | [Read More](https://medium.com/p/5477a8dc62b1) |
+| Mon, 24 Nov 2025 04:09:02 GMT | $600 Bounty: Stored XSS in Jira Service Desk Reports | Monika sharma | [Read More](https://medium.com/p/22bad0f8120d) |
+| Mon, 24 Nov 2025 04:07:45 GMT | Information Disclosure in Revive Adserver v6.0.0 | Monika sharma | [Read More](https://medium.com/p/1abad04b5199) |
+| Mon, 24 Nov 2025 04:05:58 GMT | Why AI Phishing Attacks Have a 54% Success Rate | Souradip Pal | [Read More](https://medium.com/p/61f3764f0929) |
+| Mon, 24 Nov 2025 04:05:06 GMT | AI Powered Cyber Security | BoNeZ | [Read More](https://medium.com/p/405480991465) |
 | Mon, 24 Nov 2025 04:02:06 GMT | The New Nuclear Showdown | The Langston Report | [Read More](https://medium.com/p/340cf0d1c073) |
 | Mon, 24 Nov 2025 03:59:40 GMT | The Architecture of Agentic Warfare: Deconstructing the Claude-Powered Cyberattack | Shivam, Researcher | [Read More](https://medium.com/p/14fcdffe7f2c) |
 | Mon, 24 Nov 2025 03:32:07 GMT | Inside the “I Paid Twice” Scam: How Attackers Target Booking.com Hotels and Travelers | Deven Chhajed | [Read More](https://medium.com/p/5fa9d9380275) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 18:20:26 GMT | Week 17 — Understanding OAuth2: Authorization Code & Implicit Flows | Aang | [Read More](https://medium.com/p/b6bd857b8926) |
 | Sun, 23 Nov 2025 18:13:30 GMT | Kargonuz İçin Ödeme Bekleniyor… | Emir.K | [Read More](https://medium.com/p/ab449a4f1f2a) |
 | Sun, 23 Nov 2025 18:09:48 GMT | Cyber Crime Analysis: Android Banking Trojan “SharkBot” | rajasa. | [Read More](https://medium.com/p/660a85fcef12) |
-| Sun, 23 Nov 2025 18:05:41 GMT | 24/7/365 — with live camera feeds, instant alerts, and real-time action. | Visual Monitoring Solutions | [Read More](https://medium.com/p/c1fe2695d750) |
-| Sun, 23 Nov 2025 18:03:03 GMT | The WhatsApp Breach That Scared Me | Manya Tyagi | [Read More](https://medium.com/p/05a32b91c3a8) |
-| Sun, 23 Nov 2025 17:55:17 GMT | From OWASP Top 10 2017 to 2021: What Changed, Why It Matters, and What Should Come Next | Agamjot Singh | [Read More](https://medium.com/p/cf4bb9322fae) |
-| Sun, 23 Nov 2025 17:52:07 GMT | The Critical Role of Authentication Flows in AI–Third-Party Integrations | Luvv Aggarwal | [Read More](https://medium.com/p/106e55522c81) |
-| Sun, 23 Nov 2025 17:37:41 GMT | Cybersecurity: The Architecture of Defense in an Adversarial World | Keshav Soni | [Read More](https://medium.com/p/663afd7bdda6) |
-| Sun, 23 Nov 2025 17:33:29 GMT | Kenya VS The Anonymous Sudan: A White Supremacy Attack | O. J. Okpabi | [Read More](https://medium.com/p/eab6f833b271) |
-| Sun, 23 Nov 2025 17:29:27 GMT | How We Combine Threat Intel, Ops & Expertise in One Hub | Fook Hwa Tan | [Read More](https://medium.com/p/2e7ef937119e) |
-| Sun, 23 Nov 2025 17:26:38 GMT | Ask These in Your Next Security Meeting | Fook Hwa Tan | [Read More](https://medium.com/p/e81df30f78a8) |
-| Sun, 23 Nov 2025 17:21:49 GMT | The Hardest Possible Decision: VirtualBox, VmWare, or HyperV? Which One to Choose? | NnFace | [Read More](https://medium.com/p/499e70ade917) |
-| Sun, 23 Nov 2025 17:14:28 GMT | The Weaponization of Web 2.0 | Medjue Gore | [Read More](https://medium.com/p/4422b89359ab) |
