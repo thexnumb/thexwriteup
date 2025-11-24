@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 22:37:02 GMT | Two Birds, One Stone: Why Choose a Cybersecurity Diploma That Prepares You for Your CompTIA… | Danish Ahmad | [Read More](https://medium.com/p/d8344ff29ef0) |
+| Mon, 24 Nov 2025 22:25:18 GMT | PickleBall: Secure Deserialization of Pickle-based Machine Learning Models | James Davis | [Read More](https://medium.com/p/a089113e6b0f) |
+| Mon, 24 Nov 2025 22:17:19 GMT | Top Emerging Cyber Threats That Only AI Can Catch | Cybamatica | [Read More](https://medium.com/p/bfb611c49503) |
+| Mon, 24 Nov 2025 22:16:46 GMT | Recover Lost Cryptocurrency Through Optimistic Hacker Gaius. | Jacobalexander | [Read More](https://medium.com/p/60452770f2b4) |
 | Mon, 24 Nov 2025 22:12:16 GMT | AI-Written Code: The 5 Critical Security Checkpoints No Team Can Ignore | Cyber-AppSec | [Read More](https://medium.com/p/056b24170bb6) |
 | Mon, 24 Nov 2025 22:06:31 GMT | Code and the Machine: Why Developers Fear AI and What It Means for Cybersecurity | Elad Golan | [Read More](https://medium.com/p/ceb311ed5b5a) |
 | Mon, 24 Nov 2025 21:56:44 GMT | INE Assessment Methodologies: Information Gathering CTF 1 Write-up | Irem Bezci | [Read More](https://medium.com/p/942a96a319e5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 16:08:32 GMT | Securing a Flask Web Application: Fixing SQL Injection and XSS Vulnerabilities | Kirupasri Sampath | [Read More](https://medium.com/p/4851f1e1ad53) |
 | Mon, 24 Nov 2025 16:02:12 GMT | The Dead Internet Pt. 2: Why AI Can’t Stop Eating Itself | ToxSec | [Read More](https://medium.com/p/6d04711f59a1) |
 | Mon, 24 Nov 2025 15:57:41 GMT | OSS-Fuzz | Shadman Hossain | [Read More](https://medium.com/p/02d00bd6dd07) |
-| Mon, 24 Nov 2025 15:51:14 GMT | How I Identified and Exploited an Oracle WebLogic Server Unauthenticated Remote Code Execution… | Vinay A S | [Read More](https://medium.com/p/f082fb95b428) |
-| Mon, 24 Nov 2025 15:50:21 GMT | Data protection in Laravel with blind indexing CipherSweet | Talhaoui mouad | [Read More](https://medium.com/p/296aec368c15) |
-| Mon, 24 Nov 2025 15:48:50 GMT | Utilizing ChatGPT for Decoding Astaroth Strings | Jason Reaves | [Read More](https://medium.com/p/80815e4dfefb) |
-| Mon, 24 Nov 2025 15:48:11 GMT | ⭐ Best Free Alternatives for Secure PDF Sharing (2025 Guide) | adytr_32 | [Read More](https://medium.com/p/126aa310caa0) |
