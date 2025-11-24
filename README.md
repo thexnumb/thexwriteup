@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 07:33:08 GMT | Two Real iOS Pentesting Case Studies (Mpin Exposure + Biometric Bypass) | Raj Prasad Kuiri | [Read More](https://medium.com/p/906a2f2a4ddf) |
+| Mon, 24 Nov 2025 07:32:03 GMT | The CIA Triad and Cybersecurity Domains — What Every Beginner Should Know | Mohammed Fizal | [Read More](https://medium.com/p/51ea71aa4ca3) |
+| Mon, 24 Nov 2025 07:31:51 GMT | Everything Can Be Hacked | Gautam Mengle | [Read More](https://medium.com/p/922778ca1987) |
+| Mon, 24 Nov 2025 07:30:46 GMT | WhatsApp’s Hidden Privacy Risk: How Typing a Random 10-Digit Number Exposes Names and Profile | Het Mehta | [Read More](https://medium.com/p/d727332f3c71) |
+| Mon, 24 Nov 2025 07:30:39 GMT | Ransomware-as-a-Service: How It Works and What Layered Defenses Small and Mid-Sized Businesses… | Maxatlasofficial | [Read More](https://medium.com/p/becd244b84c4) |
+| Mon, 24 Nov 2025 07:24:55 GMT | The Complete Mechanics of Server-to-Server Secure Communication: A Foundational Analysis of TLS… | Pxl | [Read More](https://medium.com/p/adabc4941740) |
+| Mon, 24 Nov 2025 07:24:20 GMT | Reinventing Recon: Nmap Meets ChatGPT | Andrey Pautov | [Read More](https://medium.com/p/e2acb6130be5) |
 | Mon, 24 Nov 2025 07:20:16 GMT | Table Bloat Problems in PostgreSQL — and the Only Practical Solution Every Team Eventually Learns | Rizqi Mulki | [Read More](https://medium.com/p/1bcad6a431f1) |
+| Mon, 24 Nov 2025 07:20:08 GMT | SOC Investigation Walkthrough — Command Injection Attack on Webserver (SOC168)-LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/bf0571ae5bd9) |
 | Mon, 24 Nov 2025 07:12:46 GMT | The Daily Tech Digest: 24 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f39974fe345f) |
 | Mon, 24 Nov 2025 07:11:50 GMT | Top Web Application Pentesting Tools — Your Go-To List for 2025 | Ankit Vaghamshi | [Read More](https://medium.com/p/4583ef7eab85) |
 | Mon, 24 Nov 2025 07:11:03 GMT | Real-Life Examples of Ethical Hacking Saving Companies. | Nahidoms | [Read More](https://medium.com/p/1e1c91d8f1f0) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 22:54:55 GMT | OffSec PG: PayDay (OSCP Prep, Intermediate) | G3XAR | [Read More](https://medium.com/p/77428ffcec5c) |
 | Sun, 23 Nov 2025 22:48:25 GMT | Seduction, Secrets, Silicon Valley | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/eb2c0b6daa16) |
 | Sun, 23 Nov 2025 22:33:06 GMT | HTB BountyHunter — Write-up | Taxaneh | [Read More](https://medium.com/p/33b26405ff2b) |
-| Sun, 23 Nov 2025 22:29:04 GMT | The Future of Autonomous Robots in 2030 | Artiscribe | [Read More](https://medium.com/p/b50f8f99b081) |
-| Sun, 23 Nov 2025 22:22:18 GMT | TryHackMe — Wreath | omni | [Read More](https://medium.com/p/7da00105e263) |
-| Sun, 23 Nov 2025 22:16:11 GMT | DevSecOps Kit: Bringing Enterprise Security to Small Teams | Edgar Posada | [Read More](https://medium.com/p/a9106334b9fa) |
-| Sun, 23 Nov 2025 22:11:38 GMT | Cybersecurity #15: DoS and DDoS Attacks | mohandika | [Read More](https://medium.com/p/393d709f71ea) |
-| Sun, 23 Nov 2025 22:02:33 GMT | Mental Jailbreak: When the System Trusts the User Too Much | Bervice | [Read More](https://medium.com/p/fe1e7c98006e) |
-| Sun, 23 Nov 2025 21:49:43 GMT | SSDT Kernel Hooking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6bea100a654e) |
-| Sun, 23 Nov 2025 21:31:56 GMT | Como verificar as assinaturas do meu site | Adler Medrado | [Read More](https://medium.com/p/e4f74678fb48) |
-| Sun, 23 Nov 2025 21:12:06 GMT | I Followed One Simple Rule To Find Hidden Website Errors | Ibtissam | [Read More](https://medium.com/p/076d00f779e1) |
