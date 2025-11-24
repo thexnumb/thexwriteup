@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 13:23:11 GMT | ⚡ 3 Tricks to Hunt Bug Faster: Stop Wasting Time, Finding Smartly | Abhishek meena | [Read More](https://medium.com/p/4d5648919aec) |
+| Mon, 24 Nov 2025 13:20:16 GMT | The Ethics of Hacking: Where Do We Draw the Line? | Shayoni Jahan | [Read More](https://medium.com/p/2c98e61707eb) |
+| Mon, 24 Nov 2025 13:19:20 GMT | AI + Cloud Security: The Future of Protecting Digital Assets | IPSpecialist | [Read More](https://medium.com/p/cdab6dc8eedd) |
+| Mon, 24 Nov 2025 13:18:32 GMT | How AI Is Supercharging Hacking-as-a-Service in 2025 | Okewu Daniel | [Read More](https://medium.com/p/9e9d483da925) |
+| Mon, 24 Nov 2025 13:18:23 GMT | 1st Aid Kit | Vox Vento | [Read More](https://medium.com/p/3c629e3dda86) |
+| Mon, 24 Nov 2025 13:12:11 GMT | The Rise of AI Viruses: When Artificial Intelligence Becomes a Digital Epidemic | Hayanan | [Read More](https://medium.com/p/d0b2f43ea164) |
+| Mon, 24 Nov 2025 13:12:10 GMT | When AI Turns Criminal: Deepfakes, Voice-Cloning & LLM Malware | Netlas.io | [Read More](https://medium.com/p/a390b6a6a9d7) |
+| Mon, 24 Nov 2025 13:11:45 GMT | Virtual Threads Explained: Why Everything You Know About Java Threading Is About to Change | Jitin Kayyala | [Read More](https://medium.com/p/76ba4de6d675) |
+| Mon, 24 Nov 2025 13:11:01 GMT | What Stops a Routine IT Failure From Becoming a Major External Breach? | Barry Ritchie | [Read More](https://medium.com/p/6b330c81c0ba) |
+| Mon, 24 Nov 2025 13:08:07 GMT | How I Automated Finding User Enumeration Bugs | Ibtissam | [Read More](https://medium.com/p/07ad5143dbcc) |
+| Mon, 24 Nov 2025 13:04:10 GMT | Phantom Stores: Retail Impersonation Spreads Ahead of Black Friday Powered by Video Ads and Modular… | Roshan | [Read More](https://medium.com/p/6c93ac221de6) |
+| Mon, 24 Nov 2025 12:58:31 GMT | A Ethical Hacking Masterclass That Changed How I See Privacy! | Idris Fabiyi | [Read More](https://medium.com/p/da9d60220b36) |
+| Mon, 24 Nov 2025 12:55:46 GMT | Why Cloud Security Checks Are Important | Appzlogic | [Read More](https://medium.com/p/c0660d997007) |
+| Mon, 24 Nov 2025 12:49:31 GMT | NETFLIX Exposed Prometheus instance exposing internal metrics closed as duplicate leaks internal… | Christoscoming | [Read More](https://medium.com/p/dfa78d99864e) |
+| Mon, 24 Nov 2025 12:45:54 GMT | “The cobbler’s children have no shoes.” | CacheGuard Technologies | [Read More](https://medium.com/p/d5e870448186) |
 | Mon, 24 Nov 2025 12:43:02 GMT | Why Cyber Security Assessment Services Are Essential for Modern Businesses | Vishwajeettechtech | [Read More](https://medium.com/p/626fae84a66e) |
 | Mon, 24 Nov 2025 12:42:43 GMT | CyberFundamentals 2025: A Practical Standard for Modern Cybersecurity | Viktor Davydych | [Read More](https://medium.com/p/d3dc92c3595e) |
 | Mon, 24 Nov 2025 12:33:27 GMT | Navigating an insecure website: What You Need to Know | Umar Al-Mahfuz | [Read More](https://medium.com/p/5db8b294da1c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 07:33:08 GMT | Two Real iOS Pentesting Case Studies (Mpin Exposure + Biometric Bypass) | Raj Prasad Kuiri | [Read More](https://medium.com/p/906a2f2a4ddf) |
 | Mon, 24 Nov 2025 07:32:03 GMT | The CIA Triad and Cybersecurity Domains — What Every Beginner Should Know | Mohammed Fizal | [Read More](https://medium.com/p/51ea71aa4ca3) |
 | Mon, 24 Nov 2025 07:31:51 GMT | Everything Can Be Hacked | Gautam Mengle | [Read More](https://medium.com/p/922778ca1987) |
-| Mon, 24 Nov 2025 07:30:46 GMT | WhatsApp’s Hidden Privacy Risk: How Typing a Random 10-Digit Number Exposes Names and Profile | Het Mehta | [Read More](https://medium.com/p/d727332f3c71) |
-| Mon, 24 Nov 2025 07:30:39 GMT | Ransomware-as-a-Service: How It Works and What Layered Defenses Small and Mid-Sized Businesses… | Maxatlasofficial | [Read More](https://medium.com/p/becd244b84c4) |
-| Mon, 24 Nov 2025 07:24:55 GMT | The Complete Mechanics of Server-to-Server Secure Communication: A Foundational Analysis of TLS… | Pxl | [Read More](https://medium.com/p/adabc4941740) |
-| Mon, 24 Nov 2025 07:24:20 GMT | Reinventing Recon: Nmap Meets ChatGPT | Andrey Pautov | [Read More](https://medium.com/p/e2acb6130be5) |
-| Mon, 24 Nov 2025 07:20:16 GMT | Table Bloat Problems in PostgreSQL — and the Only Practical Solution Every Team Eventually Learns | Rizqi Mulki | [Read More](https://medium.com/p/1bcad6a431f1) |
-| Mon, 24 Nov 2025 07:20:08 GMT | SOC Investigation Walkthrough — Command Injection Attack on Webserver (SOC168)-LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/bf0571ae5bd9) |
-| Mon, 24 Nov 2025 07:12:46 GMT | The Daily Tech Digest: 24 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f39974fe345f) |
-| Mon, 24 Nov 2025 07:11:50 GMT | Top Web Application Pentesting Tools — Your Go-To List for 2025 | Ankit Vaghamshi | [Read More](https://medium.com/p/4583ef7eab85) |
-| Mon, 24 Nov 2025 07:11:03 GMT | Real-Life Examples of Ethical Hacking Saving Companies. | Nahidoms | [Read More](https://medium.com/p/1e1c91d8f1f0) |
-| Mon, 24 Nov 2025 06:56:06 GMT | Nmap for SOC Analysts — A Practical, Real-World Guide | NineTales | [Read More](https://medium.com/p/216aa63935ce) |
-| Mon, 24 Nov 2025 06:55:40 GMT | Different Career Paths in Cyber Security and How to Get Started | Maruf Nabil | [Read More](https://medium.com/p/b7bf2f55c350) |
-| Mon, 24 Nov 2025 06:52:52 GMT | Droid wars have begun | Rohit Katiyar | [Read More](https://medium.com/p/71eedd0533f2) |
-| Mon, 24 Nov 2025 06:50:19 GMT | When a Checkbox Breaks Your Security: It Turned Into an XSS. | Vidhan Thakur | [Read More](https://medium.com/p/683f38577bb5) |
-| Mon, 24 Nov 2025 06:38:42 GMT | What Is Cloaking?-Cybersecurity | Soundaryaps | [Read More](https://medium.com/p/91acd379504f) |
-| Mon, 24 Nov 2025 06:36:36 GMT | WEEK 2 INTERNSHIP | Adeleke Theophilus O | [Read More](https://medium.com/p/12c966c549a1) |
