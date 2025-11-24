@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 06:28:15 GMT | Build a strong tech career with a diploma in cybersecurity in Bangalore. | RedTeamsaniga Suresh | [Read More](https://medium.com/p/18f69d9d8b3a) |
+| Mon, 24 Nov 2025 06:24:08 GMT | The Case: Seven Minutes on the Seine | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/937f086751a2) |
+| Mon, 24 Nov 2025 06:02:06 GMT | Chronicles of The Energy Maiguard | Omogoye Precious Deborah | [Read More](https://medium.com/p/00369e845d95) |
+| Mon, 24 Nov 2025 06:02:06 GMT | Fingerprint & Face ID Authentication in Flutter (Secure Your Flutter App) | Roshni Savaliya - Flutter Developer | [Read More](https://medium.com/p/dab9b3f73188) |
+| Mon, 24 Nov 2025 06:02:06 GMT | Networking for Developers: TLS/SSL Explained (Why HTTPS Is Slow and How to Fix It) | The Speed Engineer | [Read More](https://medium.com/p/a7ffe81ab78a) |
+| Mon, 24 Nov 2025 05:50:24 GMT | Topics I Wanna Talk About and I will be talking about | Asylumkiddo | [Read More](https://medium.com/p/67ca31d1427a) |
+| Mon, 24 Nov 2025 05:48:25 GMT | Uncovering Invisible Privileges: The Ultimate Guide to Mass-Assignment in Registration Flows | coffinxp | [Read More](https://medium.com/p/9ecd5ff40512) |
+| Mon, 24 Nov 2025 05:47:07 GMT | Top AI Security Monthly Insights — November  2025 | Tal Eliyahu | [Read More](https://medium.com/p/ae61577d7757) |
+| Mon, 24 Nov 2025 05:46:50 GMT | Discount Radio: Getting Started With SDR | Investigator515 | [Read More](https://medium.com/p/b96f1b2bd04b) |
+| Mon, 24 Nov 2025 05:42:06 GMT | Gaining Root on Koiptrix with Metasploit | B3TA-BLOCKER | [Read More](https://medium.com/p/ca58c126ea16) |
 | Mon, 24 Nov 2025 05:40:37 GMT | The Algorithm’s Shadow: Navigating the New Frontier of AI-Powered Cyber Warfare | Akshat Ratanpal | [Read More](https://medium.com/p/1da11ec00f81) |
 | Mon, 24 Nov 2025 05:35:39 GMT | Bug Bounty Hunting — Complete Guide (Part-147) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/87dac0f0ecb4) |
 | Mon, 24 Nov 2025 05:32:52 GMT | Bug Bounty Hunting — Complete Guide (Part-146) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/8f78cf8f25da) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 20:30:11 GMT | IPv4 Subnetleme Mantığını Öğrenirken Kendi /24–/32 Referans Tablomu Hazırladım | Tugce Didem Selek | [Read More](https://medium.com/p/ff5e170fee47) |
 | Sun, 23 Nov 2025 20:24:14 GMT | My First Two Bounties in Bug Bounty — Both Critical | Excessium | [Read More](https://medium.com/p/f8908376c4b4) |
 | Sun, 23 Nov 2025 20:15:55 GMT | Phase 2: Identity & Access Management + SDP Enforcement | Alex Wilcox | [Read More](https://medium.com/p/2528d705577c) |
-| Sun, 23 Nov 2025 20:09:56 GMT | H4K-it2025 the Bankheist2 writeu | Mudiuth | [Read More](https://medium.com/p/ebfd6b7fff0a) |
-| Sun, 23 Nov 2025 20:08:14 GMT | Understanding API Security: Why It Matters More Than Ever | Fwawira | [Read More](https://medium.com/p/560355bb2975) |
-| Sun, 23 Nov 2025 19:48:11 GMT | Learning from a Data Leak: Understanding Least Privilege in Action | Mohd Zakaria Khan | [Read More](https://medium.com/p/4b4fc29983b5) |
-| Sun, 23 Nov 2025 19:31:15 GMT | Practical GCN m | Elkadiayoub | [Read More](https://medium.com/p/8299fcbff96d) |
-| Sun, 23 Nov 2025 19:28:46 GMT | Fintech 2025: New Waves of Innovation, Security, and User Experience | Bhinish Dhiman | [Read More](https://medium.com/p/2a1742113483) |
-| Sun, 23 Nov 2025 19:23:24 GMT | Windows CLI :] | Shamar Isaac | [Read More](https://medium.com/p/98b8eeab2163) |
-| Sun, 23 Nov 2025 19:19:05 GMT | Detecting Arp Poisoning From PCAP File | Ahmedhezema | [Read More](https://medium.com/p/b16e0ef56d41) |
-| Sun, 23 Nov 2025 19:06:45 GMT | Key API Security Risks and How to Spot Them | Catelle Ningha | [Read More](https://medium.com/p/1a42a6848108) |
-| Sun, 23 Nov 2025 19:03:12 GMT | AI Agents: AresGPT Entry Level Prompt Engineering for AI Security and Strategic Thinking | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/d2a331eea4ce) |
-| Sun, 23 Nov 2025 19:02:58 GMT | I’ve completed close to 20 SIEM onboarding projects, and I’m used to hearing this all the time. | Rafal Kitab | [Read More](https://medium.com/p/be2e16fcf675) |
