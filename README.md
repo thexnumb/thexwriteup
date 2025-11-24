@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 03:19:16 GMT | Business Logic Vulnerabilities in APIs | Jei Ess | [Read More](https://medium.com/p/a268d420e7d6) |
+| Mon, 24 Nov 2025 03:08:19 GMT | Whispers in the Void: Chasing Love Through Verse | Kushal Dhananjay Samant | [Read More](https://medium.com/p/b2f7ff958673) |
+| Mon, 24 Nov 2025 03:08:16 GMT | Automating With n8n: Multi-Source Threat Intel & News | 9purp0s3 - Steven | [Read More](https://medium.com/p/22565e7eb981) |
+| Mon, 24 Nov 2025 03:06:44 GMT | [paypal] #3438886: PayPal’s official internal sandbox REST API client ID leaked in production… | Christoscoming | [Read More](https://medium.com/p/139fdd1fc531) |
+| Mon, 24 Nov 2025 03:00:04 GMT | Portfolio Website Framework (FREE  to Use this base code for Your Imagination) | The Commoness | [Read More](https://medium.com/p/20864f75cf6e) |
+| Mon, 24 Nov 2025 02:56:16 GMT | Threat Intelligence Still Thinks It’s 1960s | Bader Alharbi | [Read More](https://medium.com/p/8f1a9dddeaab) |
+| Mon, 24 Nov 2025 02:45:22 GMT | The art of google dorking | 4osp3l | [Read More](https://medium.com/p/64b937f359b8) |
+| Mon, 24 Nov 2025 02:45:08 GMT | Strengthening Container Security | Yasith Piyumantha | [Read More](https://medium.com/p/2f2c453a0a8c) |
+| Mon, 24 Nov 2025 02:22:21 GMT | Padelify Writeup | 72o | [Read More](https://medium.com/p/6100380d5baa) |
+| Mon, 24 Nov 2025 02:13:28 GMT | The Unseen Guardian: How Usman Malook Sheffield Internet Security Provider is Fortifying the… | Visionontech | [Read More](https://medium.com/p/165c8da76d89) |
+| Mon, 24 Nov 2025 02:05:39 GMT | Best VPN for Smart TV in 2025 and 3 easy setup methods | Safelyo VPN | [Read More](https://medium.com/p/3221606fdd89) |
+| Mon, 24 Nov 2025 02:04:42 GMT | Favorite Things: Spaces That Allow Vulnerability | Ellice Engdahl | [Read More](https://medium.com/p/b1d06d47e983) |
+| Mon, 24 Nov 2025 02:03:24 GMT | “The Cost of Forgetting: Cloud’s Hard Truths and AI’s Coming Reality Check” | Joseph Stephens | [Read More](https://medium.com/p/66849a621e7d) |
 | Mon, 24 Nov 2025 01:44:38 GMT | The 5 Pillars of Ethical Hacking Explained | Shahzaib | [Read More](https://medium.com/p/7404f36a99aa) |
 | Mon, 24 Nov 2025 01:44:31 GMT | Your Digital Footprint Is Feeding ML Systems, Here’s What That Means | Hareem Fatima | [Read More](https://medium.com/p/eb2bdf44e945) |
 | Mon, 24 Nov 2025 01:44:23 GMT | Privacy and Ethics in OSINT: Navigating the New Frontier | Mainekhacker | [Read More](https://medium.com/p/41fee38bcfa5) |
+| Mon, 24 Nov 2025 01:42:34 GMT | The Unspoken Courage of Softness: Why Emotional Armor Never Protects Your Heart | Yash Patil | [Read More](https://medium.com/p/d56c4cdd2dd8) |
 | Mon, 24 Nov 2025 01:29:10 GMT | The Future of AuthN/AuthZ in Multi-Agent AI Systems | ThamizhElango Natarajan | [Read More](https://medium.com/p/3f3782449e13) |
 | Mon, 24 Nov 2025 01:14:16 GMT | How xxx.com Helped Me Land $10K Bounties in Just 1 Week | Anonymous Traiger | [Read More](https://medium.com/p/9debd408b855) |
 | Mon, 24 Nov 2025 01:13:15 GMT | Stop Storing Secrets in Plain Text: A Simple Guide to Encrypted Storage in React Native (with a… | eugenio andrieu | [Read More](https://medium.com/p/c7c08200d3de) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 17:07:02 GMT | How Newcomers Can Automate Vulnerability Finding In Bug Bounty Hunting? | Rehan Sohail | [Read More](https://medium.com/p/16a3a55590ee) |
 | Sun, 23 Nov 2025 17:03:52 GMT | What’s Cookin’ in TamperedChef’s Kitchen? A Peek Into the Campaign’s Latest Activity | ASTRA Labs | [Read More](https://medium.com/p/89e3a6c905f9) |
 | Sun, 23 Nov 2025 16:51:14 GMT | Are You Protected Against Typo squatting? | Ashe Sule | [Read More](https://medium.com/p/b57cfe916e6a) |
-| Sun, 23 Nov 2025 16:50:43 GMT | Cybersecurity Just Entered a New Era And Microsoft Just Changed the Game | Ashe Sule | [Read More](https://medium.com/p/fefd1f20ee33) |
-| Sun, 23 Nov 2025 16:47:54 GMT | Rust CI: Security, Dependency Policy, Coverage Gate, and Fast Builds | Anton Dolganin | [Read More](https://medium.com/p/c115eb0db3d7) |
-| Sun, 23 Nov 2025 16:43:45 GMT | If you’ve ever seen the error “Unable to locate credentials” while working with AWS, you’ve… | Vishu Bommoju | [Read More](https://medium.com/p/5e27b0a6b7be) |
-| Sun, 23 Nov 2025 16:35:35 GMT | Why you should learn Ansible right now? | Marcos Scurtu | [Read More](https://medium.com/p/e77ea3145b7c) |
-| Sun, 23 Nov 2025 16:28:06 GMT | Ignite— TryHackMe Easy Challenge — Writeup - by P4NTHR | P4NTHR | [Read More](https://medium.com/p/261a065fc5ca) |
-| Sun, 23 Nov 2025 16:23:38 GMT | MI5’s LinkedIn Warning & China’s Digital Spies | O. J. Okpabi | [Read More](https://medium.com/p/5d54ca375ac4) |
-| Sun, 23 Nov 2025 16:21:48 GMT | HackTheBox : Paper Writeup | Dhruvgundecha | [Read More](https://medium.com/p/3acc6fee673f) |
-| Sun, 23 Nov 2025 16:19:03 GMT | Installing Splunk | Allen Ace | [Read More](https://medium.com/p/c705b7a83e41) |
-| Sun, 23 Nov 2025 16:12:27 GMT | Evaluating Web Server Security Posture Using Nikto: Findings, Methodology & Analysis | Kiza | [Read More](https://medium.com/p/5de3e11628d5) |
-| Sun, 23 Nov 2025 16:08:27 GMT | On Cheesy Words and Other Dangerous Feelings | Tjiso | [Read More](https://medium.com/p/3403c5458b2f) |
-| Sun, 23 Nov 2025 16:07:53 GMT | How I Spent 5 Hours For a Vulnerability And Got Ghosted | christos dimitropoulos | [Read More](https://medium.com/p/e1bd09c1b9c7) |
-| Sun, 23 Nov 2025 16:06:28 GMT | Securing Docker Containers — Practical Hands-On Guide | Ashhadali | [Read More](https://medium.com/p/9a9d34e0cd23) |
-| Sun, 23 Nov 2025 16:02:09 GMT | Millions of U.S. Flight Reservations Could Have Been Hacked in Minutes With Basic Brute Force | Digital Minds | [Read More](https://medium.com/p/bb24970f37eb) |
-| Sun, 23 Nov 2025 15:58:33 GMT | just memecoin Rewards Eligibility & Claim Guide — November 2025 | just memecoin | [Read More](https://medium.com/p/1c67bb4e4671) |
