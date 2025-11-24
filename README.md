@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 14:17:59 GMT | Cybersecurity building blocks — listed and explained: Threats, Vulnerabilities, Attacks, Risks &… | Nityananda | [Read More](https://medium.com/p/8505cc1f2a1e) |
+| Mon, 24 Nov 2025 14:13:04 GMT | The Cybersecurity Industry 2026 | Trillion Defense | [Read More](https://medium.com/p/0f410bcbc35f) |
+| Mon, 24 Nov 2025 14:13:02 GMT | HTB- Starting_Point Archetype | Aryan Kumar Soni | [Read More](https://medium.com/p/ddf736de8d9e) |
+| Mon, 24 Nov 2025 14:11:52 GMT | Windows Logon Fabric Correlation for SOC: Token Lineage, LUID Chains & Next-Hop Admin Risk | Sabri Chaabi | [Read More](https://medium.com/p/682b740596c9) |
+| Mon, 24 Nov 2025 14:06:01 GMT | Hacking the AI Mindset: From Cute Prompts to Serious LLM Security | Vitaly Sem | [Read More](https://medium.com/p/e69f8ac63c87) |
+| Mon, 24 Nov 2025 13:57:37 GMT | DPDP 2025 Explained: How India Is Strengthening Your Digital Privacy | Rakshan Kangovi | [Read More](https://medium.com/p/4fb291ca252a) |
+| Mon, 24 Nov 2025 13:56:49 GMT | Fake Deliveries, Real Damage: The Rise of Shipping and Return Fraud This Holiday Season | Michael Payams | [Read More](https://medium.com/p/cc23d84a0062) |
+| Mon, 24 Nov 2025 13:56:42 GMT | AI-Powered Malicious Apps Using Advanced Obfuscation to Evade Antivirus Detection | Technijian | [Read More](https://medium.com/p/5527670bf668) |
+| Mon, 24 Nov 2025 13:52:52 GMT | How AI Is Supercharging Hacking as a Service in 2025 | Okewu Daniel | [Read More](https://medium.com/p/5141a4f61f2f) |
+| Mon, 24 Nov 2025 13:52:39 GMT | Do You Need a Degree to Be a Pharmacy Tech? Complete 2025 Guide | Motherlandlove | [Read More](https://medium.com/p/7b85b48e8f39) |
+| Mon, 24 Nov 2025 13:50:01 GMT | 2FA Broken Logic | Bash Overflow | [Read More](https://medium.com/p/145d08a294e2) |
+| Mon, 24 Nov 2025 13:44:08 GMT | How DNS Works: The Internet’s Invisible Phonebook (Explained with Examples) | Devaaravindlutukurty | [Read More](https://medium.com/p/aaab0c58aa95) |
+| Mon, 24 Nov 2025 13:44:03 GMT | Securing Existing APIs : A Reactive security Approach | Israel Aráoz Severiche | [Read More](https://medium.com/p/6615c8a7f8ec) |
+| Mon, 24 Nov 2025 13:42:29 GMT | How to Unlock a Door with a Hole: Practical Methods and Tips | Sure Lock & Key LLC | [Read More](https://medium.com/p/accabdef6ca0) |
+| Mon, 24 Nov 2025 13:42:29 GMT | Blast From The Past: Flash in the Pan — GaboCorp.com | Namir Sagheenanajar | [Read More](https://medium.com/p/f7331bbe1b9c) |
+| Mon, 24 Nov 2025 13:40:43 GMT | Your Competitive Advantage is Dying: | Handvantage | [Read More](https://medium.com/p/9340807bdc83) |
+| Mon, 24 Nov 2025 13:38:43 GMT | Top 5 Udemy Courses for CISM Certification in 2026 (With Practice Tests) | javinpaul | [Read More](https://medium.com/p/3fbdf143264f) |
+| Mon, 24 Nov 2025 13:38:32 GMT | AI-Powered Recon: Using Gemini + Nmap for Automated Security Scans | Ammarcader | [Read More](https://medium.com/p/0b8eb19b15c4) |
 | Mon, 24 Nov 2025 13:23:11 GMT | ⚡ 3 Tricks to Hunt Bug Faster: Stop Wasting Time, Finding Smartly | Abhishek meena | [Read More](https://medium.com/p/4d5648919aec) |
+| Mon, 24 Nov 2025 13:21:35 GMT | 20% Effort, 80% Protection: The Lazy Python Developer’s Guide to Bulletproof Code | Maikel Mardjan | [Read More](https://medium.com/p/d85aeca3151b) |
 | Mon, 24 Nov 2025 13:20:16 GMT | The Ethics of Hacking: Where Do We Draw the Line? | Shayoni Jahan | [Read More](https://medium.com/p/2c98e61707eb) |
 | Mon, 24 Nov 2025 13:19:20 GMT | AI + Cloud Security: The Future of Protecting Digital Assets | IPSpecialist | [Read More](https://medium.com/p/cdab6dc8eedd) |
 | Mon, 24 Nov 2025 13:18:32 GMT | How AI Is Supercharging Hacking-as-a-Service in 2025 | Okewu Daniel | [Read More](https://medium.com/p/9e9d483da925) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 09:08:41 GMT | As cyber threats grow in volume, sophistication, and impact, security teams across industries are… | Umangp | [Read More](https://medium.com/p/87242cd4994c) |
 | Mon, 24 Nov 2025 09:08:29 GMT | My OSCP+ Journey Through Try Harder Concept (Failed, Failed, then Passed) | Yoga Bayu Aji Pranawa | [Read More](https://medium.com/p/cb659649f519) |
 | Mon, 24 Nov 2025 09:05:25 GMT | Discover the Leading Ethical Hacking Academy in Bangalore and How It Shapes Experts | RedTeamsaniga Suresh | [Read More](https://medium.com/p/30ebe2813c5d) |
-| Mon, 24 Nov 2025 08:56:55 GMT | Reflected XSS with Base64 — Breaching Obscurity in Seconds | embossdotar | [Read More](https://medium.com/p/e1f9e50a4709) |
-| Mon, 24 Nov 2025 08:52:16 GMT | Portswigger Academy Lab :  Username enumeration via response timing Writeup | Songül Kızılay Özügürler | [Read More](https://medium.com/p/df23aeea8bd8) |
-| Mon, 24 Nov 2025 08:48:12 GMT | Why Professional Security Guard Services Are Essential for Modern Businesses | Ciss India | [Read More](https://medium.com/p/b5a3ac6145f8) |
-| Mon, 24 Nov 2025 08:44:59 GMT | Hacking Smarter, Not Louder: ChatGPT On Action | Redfox Security | [Read More](https://medium.com/p/8ce184b86de0) |
-| Mon, 24 Nov 2025 08:40:58 GMT | Why Businesses Trust Digital Defense for End-to-End Cybersecurity | Digital Defense | [Read More](https://medium.com/p/586547dfef42) |
-| Mon, 24 Nov 2025 08:39:51 GMT | When Agents Get Tools: 10 MCP Labs for Breaking and Hardening AI Integrations | PawelKozy | [Read More](https://medium.com/p/63080045ee59) |
-| Mon, 24 Nov 2025 08:31:15 GMT | Prediction: In 2026, Cyber Insurers Will Refuse Coverage for Overreliance on AI SOCs | Oliver Rochford | [Read More](https://medium.com/p/cb9f83b69b2d) |
-| Mon, 24 Nov 2025 08:24:47 GMT | Nobody is an Island | Joan Bluejack | [Read More](https://medium.com/p/9293f984eef0) |
-| Mon, 24 Nov 2025 08:20:53 GMT | Race Condition -HTTP Smuggling — HTTP Protokol Versiyon | 0bat.exe1 | [Read More](https://medium.com/p/1ce0cb9ad656) |
-| Mon, 24 Nov 2025 08:17:38 GMT | Zero Trust Model | Ahmed Abd El-Samie | [Read More](https://medium.com/p/a56a92fb9ef0) |
-| Mon, 24 Nov 2025 08:02:30 GMT | How Modern Operators Use Psychology To Map Targets Before First Contact | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d7119ceed674) |
-| Mon, 24 Nov 2025 07:56:17 GMT | Navigating the Complex World of Cybersecurity Consulting: A Comprehensive Guide for Business… | Ferguson Computer Services | [Read More](https://medium.com/p/0474390d62a8) |
-| Mon, 24 Nov 2025 07:51:41 GMT | : "    … | Cyber Toddler | [Read More](https://medium.com/p/70686cd7c32e) |
-| Mon, 24 Nov 2025 07:50:09 GMT | How VPNs Work and When You Need One | Smit Pipaliya | [Read More](https://medium.com/p/8bc30676a51c) |
-| Mon, 24 Nov 2025 07:46:18 GMT | Legal Implications of Ransomware in Nigeria: Legal Risks, Regulatory Duties and Cybersecurity… | Olisa Agbakoba Legal (OAL) | [Read More](https://medium.com/p/9d8f44cc85ae) |
-| Mon, 24 Nov 2025 07:44:50 GMT | 5 Major Trends in Microsoft 365 Tenant-to-Tenant Migration | Arun Jyothi | [Read More](https://medium.com/p/96b41a611ff3) |
-| Mon, 24 Nov 2025 07:33:08 GMT | Two Real iOS Pentesting Case Studies (Mpin Exposure + Biometric Bypass) | Raj Prasad Kuiri | [Read More](https://medium.com/p/906a2f2a4ddf) |
-| Mon, 24 Nov 2025 07:32:03 GMT | The CIA Triad and Cybersecurity Domains — What Every Beginner Should Know | Mohammed Fizal | [Read More](https://medium.com/p/51ea71aa4ca3) |
-| Mon, 24 Nov 2025 07:31:51 GMT | Everything Can Be Hacked | Gautam Mengle | [Read More](https://medium.com/p/922778ca1987) |
