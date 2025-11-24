@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 20:32:50 GMT | Build Secure Login with 2FA — A Simple Node.js + MongoDB Implementation | om prakash | [Read More](https://medium.com/p/45f57b201af7) |
+| Mon, 24 Nov 2025 20:32:08 GMT | Save a Million Dollars on Your Security Budget with Threat Modeling | mohandika | [Read More](https://medium.com/p/440768227467) |
+| Mon, 24 Nov 2025 20:28:06 GMT | The Top 10 Web Vulnerabilities and the Tools Hackers Use to Exploit Them | Travis Ray Caverhill | [Read More](https://medium.com/p/076a3a7c77b1) |
+| Mon, 24 Nov 2025 20:16:37 GMT | My first time | Tyler Huff | [Read More](https://medium.com/p/5f5432de72a6) |
 | Mon, 24 Nov 2025 20:15:36 GMT | PW Managers: Worth it? Stop Getting Hacked! (You’re Doing it Wrong) | Authlyn | [Read More](https://medium.com/p/5add01927705) |
 | Mon, 24 Nov 2025 20:12:50 GMT | The Fundamentals of Reducing Your Identity Attack Surface | Steve Anderson | [Read More](https://medium.com/p/ce8a5213b641) |
 | Mon, 24 Nov 2025 20:10:49 GMT | Understanding Class vs. Instance Attributes in Python | Telman Hajibutayev | [Read More](https://medium.com/p/9b43783f2f46) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 15:06:47 GMT | Fraud Has Always Been Part of Humanity; the Internet/AI Have Amplified and Made It Easier | Dr Mehmet Yildiz | [Read More](https://medium.com/p/f2bb7ee9d1e6) |
 | Mon, 24 Nov 2025 15:05:45 GMT | What if one the great plague of the century happen in a video game | Erwan LE TUTOUR | [Read More](https://medium.com/p/68efc672f5c1) |
 | Mon, 24 Nov 2025 15:05:38 GMT | SitusAMC Breach Exposes Systemic Weakness in Financial Supply-Chain Security | RealSec.io | [Read More](https://medium.com/p/a25d4fa7504e) |
-| Mon, 24 Nov 2025 15:03:11 GMT | Browser Agents Promise Freedom But Delivered Security Nightmares You Must Know | Atyab Hakeem | [Read More](https://medium.com/p/6658a6536f63) |
-| Mon, 24 Nov 2025 15:03:09 GMT | ️ iOS App Attest + DeviceCheck: Building Real Trust Into Your App (Without Losing Your Mind) | Wesley Matlock | [Read More](https://medium.com/p/c98bc39eb142) |
-| Mon, 24 Nov 2025 15:03:08 GMT | Embrace Your Emotions: Finding Peace in the Quiet of the Night | Austi Gene | [Read More](https://medium.com/p/966f7c69060a) |
-| Mon, 24 Nov 2025 15:03:08 GMT | Cyber Briefing: 2025.11.24 | CyberMaterial | [Read More](https://medium.com/p/1fd193189b0d) |
