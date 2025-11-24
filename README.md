@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 20:15:36 GMT | PW Managers: Worth it? Stop Getting Hacked! (You’re Doing it Wrong) | Authlyn | [Read More](https://medium.com/p/5add01927705) |
+| Mon, 24 Nov 2025 20:12:50 GMT | The Fundamentals of Reducing Your Identity Attack Surface | Steve Anderson | [Read More](https://medium.com/p/ce8a5213b641) |
+| Mon, 24 Nov 2025 20:10:49 GMT | Understanding Class vs. Instance Attributes in Python | Telman Hajibutayev | [Read More](https://medium.com/p/9b43783f2f46) |
+| Mon, 24 Nov 2025 20:06:29 GMT | Building a Home Cyber Lab: The Ultimate Beginner’s Guide (Using Free Tools) | Secured By Sebastion | [Read More](https://medium.com/p/ee0538316f51) |
+| Mon, 24 Nov 2025 20:00:09 GMT | The Cybersecurity — Career Accelerator (November 2025) | Franklin Rhodes | [Read More](https://medium.com/p/1eeb845755aa) |
+| Mon, 24 Nov 2025 19:55:36 GMT | TryHackMe Writeup: Mustacchio | HAIDAR MUSAMEH | [Read More](https://medium.com/p/e07901fa8689) |
+| Mon, 24 Nov 2025 19:53:37 GMT | NCL Password Challenges: How to Scrape Themed Wordlists with Wordreaper | Nemorous | [Read More](https://medium.com/p/81f81c008801) |
+| Mon, 24 Nov 2025 19:52:09 GMT | Understanding CVE Research and the Hidden Value of Analyzing Vulnerabilities Before Exploitation | Vivektumma27 | [Read More](https://medium.com/p/d1f77e4b2db2) |
+| Mon, 24 Nov 2025 19:51:54 GMT | We Tightened Security With Preventive AWS Guardrails. The Unexpected Result? More Velocity | Aviv Sommer | [Read More](https://medium.com/p/990f5d6e2fb4) |
+| Mon, 24 Nov 2025 19:50:28 GMT | The €16M Bet on the World’s Smallest Laser — And Why It Could Rewrite the Future of AI Chips | The Audacity | [Read More](https://medium.com/p/e807e1120c18) |
+| Mon, 24 Nov 2025 19:41:21 GMT | PatriotCTF 2025 — Trust VaultWeb Challenge Write-Up | 0xScorpioN | [Read More](https://medium.com/p/cd30e4f15c95) |
+| Mon, 24 Nov 2025 19:38:18 GMT | Cybersecurity Project #2 — Secure Password Generator with Strength Meter (Beginner Friendly) | Abdul Basit Khan | [Read More](https://medium.com/p/acc94eaeb6f9) |
 | Mon, 24 Nov 2025 19:29:24 GMT | Twitter just exposed my location (and probably yours too) | KeylognCoffee | [Read More](https://medium.com/p/667ef72fb835) |
 | Mon, 24 Nov 2025 19:26:25 GMT | AI Services by Ayamil Coders: Transforming Businesses with Intelligent Automation | Ayamil Coders | [Read More](https://medium.com/p/1c80d3cc4e7f) |
 | Mon, 24 Nov 2025 19:20:24 GMT | Chinese Hackers Use Anthropic’s AI to Launch Automated Cyber Espionage Campaign | Cybervolt | [Read More](https://medium.com/p/8941ac2c46ca) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 15:03:09 GMT | ️ iOS App Attest + DeviceCheck: Building Real Trust Into Your App (Without Losing Your Mind) | Wesley Matlock | [Read More](https://medium.com/p/c98bc39eb142) |
 | Mon, 24 Nov 2025 15:03:08 GMT | Embrace Your Emotions: Finding Peace in the Quiet of the Night | Austi Gene | [Read More](https://medium.com/p/966f7c69060a) |
 | Mon, 24 Nov 2025 15:03:08 GMT | Cyber Briefing: 2025.11.24 | CyberMaterial | [Read More](https://medium.com/p/1fd193189b0d) |
-| Mon, 24 Nov 2025 15:02:28 GMT | Wireshark Traffic Analysis: Nmap Scans | Citadel Cybersec | [Read More](https://medium.com/p/9f998027e1c0) |
-| Mon, 24 Nov 2025 15:02:09 GMT | Safing Portmaster: an easy & ready-to-use firewall for Windows and Linux | David Garcia | [Read More](https://medium.com/p/330e91453a95) |
-| Mon, 24 Nov 2025 15:00:01 GMT | The Castle is Burning. Why Are We Still Moat-Digging? | Kings | [Read More](https://medium.com/p/69cf609f0a13) |
-| Mon, 24 Nov 2025 14:57:46 GMT | The Hidden World of Critical Infrastructure: Why OT/ICS Security Matters More Than You Think | urjasec | [Read More](https://medium.com/p/00a491f904bc) |
-| Mon, 24 Nov 2025 14:57:22 GMT | How to Detect Developer Mode on Android using Kotlin | Talsec | [Read More](https://medium.com/p/1542175075bd) |
-| Mon, 24 Nov 2025 14:57:20 GMT | How Physics Made Me a Better Software Engineer | Giwa Uthman | [Read More](https://medium.com/p/c5d7dfe2f7b4) |
-| Mon, 24 Nov 2025 14:56:23 GMT | Oauth2 & Oidc | Chandra | [Read More](https://medium.com/p/0208e7444484) |
-| Mon, 24 Nov 2025 14:49:09 GMT | 10 Hackathon Secrets No One Told Me (Until I Learned Them the Hard Way) | Sasanka Savindi Wakista | [Read More](https://medium.com/p/07a4a7e5e94c) |
-| Mon, 24 Nov 2025 14:36:35 GMT | ✅ How to Create a Navi UPI Account & Link Bank Account (Step-by-Step Guide in English) | Yuvraj Singh | [Read More](https://medium.com/p/a62c05ec0e13) |
-| Mon, 24 Nov 2025 14:33:28 GMT | How to Prevent Mass Assignment Vulnerability in Laravel | Karim Ashraf | [Read More](https://medium.com/p/3985e61ccbd5) |
-| Mon, 24 Nov 2025 14:31:55 GMT | Storms | Alizabeth Amelia Rose | [Read More](https://medium.com/p/38fc42a823e1) |
-| Mon, 24 Nov 2025 14:28:48 GMT | [New Feature] ZAST EXPRESS — Official Release | ZAST AI | [Read More](https://medium.com/p/5f3f36314adf) |
