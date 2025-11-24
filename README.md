@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 15:27:39 GMT | When the Darkness Comes Back | Rahul Gupta | [Read More](https://medium.com/p/5f39fdfcddeb) |
+| Mon, 24 Nov 2025 15:25:52 GMT | Insurance Shortfalls Worry Wealthy Clients Amid Cyber, Natural Disaster, and Lawsuit Risks | Oleg Parashchak | [Read More](https://medium.com/p/6d6cbd8cbb44) |
 | Mon, 24 Nov 2025 15:17:36 GMT | From “Meh, It’s Just Reflected XSS” to “Sh*t, I Own the CEO” | Shah kaif | [Read More](https://medium.com/p/0e0793ef7186) |
 | Mon, 24 Nov 2025 15:15:21 GMT | “The Forgotten Vulnerability: How CRLF Injection Almost Broke Twitter’s Ad Platform” | Aman Sharma | [Read More](https://medium.com/p/cfb2c98a82b0) |
 | Mon, 24 Nov 2025 15:13:45 GMT | International Guide: How to Become an ER Tech in 2025 for Beginners | Motherlandlove | [Read More](https://medium.com/p/310dde7a5a6a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 10:42:32 GMT | How to Protect Your Privacy in 2026 — Beginner’s Guide to Cybersecurity | Hameedduke | [Read More](https://medium.com/p/154a047051c7) |
 | Mon, 24 Nov 2025 10:38:27 GMT | Why Partnering with a Professional Web Development Company Matters for Business Growth | Ava Jones | [Read More](https://medium.com/p/a6a14852df81) |
 | Mon, 24 Nov 2025 10:29:29 GMT | How to Make $500 to $1000 by Selling ONIST | Hackers Things | [Read More](https://medium.com/p/448802663d10) |
-| Mon, 24 Nov 2025 10:28:28 GMT | SOC level 1 MITRE room walkthrough | Mercykiaritha | [Read More](https://medium.com/p/ecd84ab1ab83) |
-| Mon, 24 Nov 2025 10:26:11 GMT | Why Every Business Needs a Cybersecurity Risk Assessment in 2025 | Trust Consulting Services | [Read More](https://medium.com/p/7a1dda3477a0) |
