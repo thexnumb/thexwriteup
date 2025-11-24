@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 04:02:06 GMT | The New Nuclear Showdown | The Langston Report | [Read More](https://medium.com/p/340cf0d1c073) |
+| Mon, 24 Nov 2025 03:59:40 GMT | The Architecture of Agentic Warfare: Deconstructing the Claude-Powered Cyberattack | Shivam, Researcher | [Read More](https://medium.com/p/14fcdffe7f2c) |
+| Mon, 24 Nov 2025 03:32:07 GMT | Inside the “I Paid Twice” Scam: How Attackers Target Booking.com Hotels and Travelers | Deven Chhajed | [Read More](https://medium.com/p/5fa9d9380275) |
+| Mon, 24 Nov 2025 03:30:50 GMT | The Rise of Information Technology | Author! | [Read More](https://medium.com/p/305988e42e95) |
 | Mon, 24 Nov 2025 03:19:16 GMT | Business Logic Vulnerabilities in APIs | Jei Ess | [Read More](https://medium.com/p/a268d420e7d6) |
 | Mon, 24 Nov 2025 03:08:19 GMT | Whispers in the Void: Chasing Love Through Verse | Kushal Dhananjay Samant | [Read More](https://medium.com/p/b2f7ff958673) |
 | Mon, 24 Nov 2025 03:08:16 GMT | Automating With n8n: Multi-Source Threat Intel & News | 9purp0s3 - Steven | [Read More](https://medium.com/p/22565e7eb981) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 17:26:38 GMT | Ask These in Your Next Security Meeting | Fook Hwa Tan | [Read More](https://medium.com/p/e81df30f78a8) |
 | Sun, 23 Nov 2025 17:21:49 GMT | The Hardest Possible Decision: VirtualBox, VmWare, or HyperV? Which One to Choose? | NnFace | [Read More](https://medium.com/p/499e70ade917) |
 | Sun, 23 Nov 2025 17:14:28 GMT | The Weaponization of Web 2.0 | Medjue Gore | [Read More](https://medium.com/p/4422b89359ab) |
-| Sun, 23 Nov 2025 17:13:10 GMT | Cloudflare Outage | thebluecapture | [Read More](https://medium.com/p/e336cbbb3455) |
-| Sun, 23 Nov 2025 17:07:02 GMT | How Newcomers Can Automate Vulnerability Finding In Bug Bounty Hunting? | Rehan Sohail | [Read More](https://medium.com/p/16a3a55590ee) |
-| Sun, 23 Nov 2025 17:03:52 GMT | What’s Cookin’ in TamperedChef’s Kitchen? A Peek Into the Campaign’s Latest Activity | ASTRA Labs | [Read More](https://medium.com/p/89e3a6c905f9) |
-| Sun, 23 Nov 2025 16:51:14 GMT | Are You Protected Against Typo squatting? | Ashe Sule | [Read More](https://medium.com/p/b57cfe916e6a) |
