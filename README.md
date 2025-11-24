@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 11:37:57 GMT | The Botnet That Started With My Friend’s Stolen Laptop | Abdullah Javeed | [Read More](https://medium.com/p/2b47f55f3e7c) |
+| Mon, 24 Nov 2025 11:32:48 GMT | {中間発表}渋谷で再現はできたのか！？ | YAMASAKI RITO | [Read More](https://medium.com/p/423392ca506f) |
+| Mon, 24 Nov 2025 11:31:35 GMT | DockerLabs Writeup — -Pn (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/032e4f937ef8) |
+| Mon, 24 Nov 2025 11:30:21 GMT | The Walking Packets - Blueteamlabs.online | Muhammadardhimutiawan | [Read More](https://medium.com/p/81c2e1f89936) |
+| Mon, 24 Nov 2025 11:22:52 GMT | Cloud Environment Security | Cenky | [Read More](https://medium.com/p/3b0f1213e959) |
+| Mon, 24 Nov 2025 11:22:09 GMT | The announcement that Palo Alto Networks will acquire Chronosphere for $3.35bn | Chandramouli | [Read More](https://medium.com/p/6532080d946f) |
+| Mon, 24 Nov 2025 11:21:48 GMT | Patient Z-ero - Blueteamlabs.online | Muhammadardhimutiawan | [Read More](https://medium.com/p/345fd5af94a3) |
 | Mon, 24 Nov 2025 11:13:17 GMT | HTB - Cobblestone (Insane) | Raid Salim | [Read More](https://medium.com/p/ac1ca7271d7f) |
 | Mon, 24 Nov 2025 11:10:39 GMT | FORTIGATE GEÇİŞİ 01.07 Security Fabric, Automation Stitches and External Dynamic Lists | Ziya DENİZ | [Read More](https://medium.com/p/84bfab0ffb95) |
 | Mon, 24 Nov 2025 11:09:09 GMT | SMTP Open Relay Misconfiguration — Still Alive in 2025 | 3baset | [Read More](https://medium.com/p/b59cc101f852) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 05:42:06 GMT | Gaining Root on Koiptrix with Metasploit | B3TA-BLOCKER | [Read More](https://medium.com/p/ca58c126ea16) |
 | Mon, 24 Nov 2025 05:40:37 GMT | The Algorithm’s Shadow: Navigating the New Frontier of AI-Powered Cyber Warfare | Akshat Ratanpal | [Read More](https://medium.com/p/1da11ec00f81) |
 | Mon, 24 Nov 2025 05:35:39 GMT | Bug Bounty Hunting — Complete Guide (Part-147) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/87dac0f0ecb4) |
-| Mon, 24 Nov 2025 05:32:52 GMT | Bug Bounty Hunting — Complete Guide (Part-146) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/8f78cf8f25da) |
-| Mon, 24 Nov 2025 05:32:08 GMT | Digital Rebirth: The Echo Archive | Frankxff | [Read More](https://medium.com/p/a6ec6310dda2) |
-| Mon, 24 Nov 2025 05:27:17 GMT | When Reality Becomes Code: The Day Truth Died in Digital | Leslie | [Read More](https://medium.com/p/f9d46d93918d) |
-| Mon, 24 Nov 2025 05:15:22 GMT | Are Cybersecurity Certifications More Valuable Than a Degree in India? | Appin Technology Lab | [Read More](https://medium.com/p/048ce9735874) |
-| Mon, 24 Nov 2025 05:12:25 GMT | Password-Protected Browser Launcher Using PowerShell. | CyberShield Insights | [Read More](https://medium.com/p/2901bc882cf2) |
-| Mon, 24 Nov 2025 05:09:31 GMT | Why is it important to learn Penetration Testing in Cyber Security? | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8cff661652b5) |
-| Mon, 24 Nov 2025 05:08:21 GMT | Law in the Age of Data — How Privacy and Cybersecurity are shaping the future of Legal Tech | LexTech Nexus | [Read More](https://medium.com/p/69dc3bcaa146) |
