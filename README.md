@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 01:44:38 GMT | The 5 Pillars of Ethical Hacking Explained | Shahzaib | [Read More](https://medium.com/p/7404f36a99aa) |
+| Mon, 24 Nov 2025 01:44:31 GMT | Your Digital Footprint Is Feeding ML Systems, Here’s What That Means | Hareem Fatima | [Read More](https://medium.com/p/eb2bdf44e945) |
+| Mon, 24 Nov 2025 01:44:23 GMT | Privacy and Ethics in OSINT: Navigating the New Frontier | Mainekhacker | [Read More](https://medium.com/p/41fee38bcfa5) |
+| Mon, 24 Nov 2025 01:29:10 GMT | The Future of AuthN/AuthZ in Multi-Agent AI Systems | ThamizhElango Natarajan | [Read More](https://medium.com/p/3f3782449e13) |
+| Mon, 24 Nov 2025 01:14:16 GMT | How xxx.com Helped Me Land $10K Bounties in Just 1 Week | Anonymous Traiger | [Read More](https://medium.com/p/9debd408b855) |
+| Mon, 24 Nov 2025 01:13:15 GMT | Stop Storing Secrets in Plain Text: A Simple Guide to Encrypted Storage in React Native (with a… | eugenio andrieu | [Read More](https://medium.com/p/c7c08200d3de) |
+| Mon, 24 Nov 2025 01:09:09 GMT | Red Teaming 2: Anne Ben Hacker Oldum (Sanmıştım) — Script Kiddie Sendromu | Hazal Karayiğit | [Read More](https://medium.com/p/007788e56038) |
+| Mon, 24 Nov 2025 01:00:09 GMT | PicoCTF -Web Exploitation - Local Authority - MehediSec | MehediSec | [Read More](https://medium.com/p/055958df18ff) |
+| Mon, 24 Nov 2025 00:59:39 GMT | Token-based Authentication: JWT vs. PASETO | ISHII (石井) | [Read More](https://medium.com/p/c7cdb27f8adc) |
+| Mon, 24 Nov 2025 00:59:18 GMT | PatriotCTF 2025 - OSINT- All Four “Where’s Legally Distinct Waldo” Challenges | Zeyad Karim | [Read More](https://medium.com/p/8abd62b5b174) |
+| Mon, 24 Nov 2025 00:38:41 GMT | How to Choose an MSP to Secure Your Business | Asad Shahzad - Content Marketer | [Read More](https://medium.com/p/17603e7d09e6) |
+| Mon, 24 Nov 2025 00:38:11 GMT | PatriotCTF 2025 — Trust Fall Web Challenge Write-Up | 0xScorpioN | [Read More](https://medium.com/p/076acab1f8b1) |
+| Mon, 24 Nov 2025 00:34:59 GMT | Decoding CompTIA Security+ | Jade Seeker | [Read More](https://medium.com/p/224567ed8d7e) |
+| Mon, 24 Nov 2025 00:32:14 GMT | Claim BUG Rewards Easily — November 2025 | Dragon Mainland Shards | [Read More](https://medium.com/p/06fa71a6ea68) |
+| Mon, 24 Nov 2025 00:27:12 GMT | I Audited Small U.S. | CivicMeshFlow | [Read More](https://medium.com/p/16a6e98aa1a2) |
+| Mon, 24 Nov 2025 00:21:14 GMT | AI Governance Through the GRC Lens | Nikita Gupta | [Read More](https://medium.com/p/b23b1697d6a6) |
+| Mon, 24 Nov 2025 00:05:26 GMT | Toronto’s Security Paradox: When Safety Becomes a Luxury | Paramount Defense Group Inc | [Read More](https://medium.com/p/ea07cd4666ed) |
+| Mon, 24 Nov 2025 00:01:02 GMT | GPP Passwords: The Active Directory Vulnerability That Won’t Die | Cybersecurity Simplified | [Read More](https://medium.com/p/bc5a69ee949a) |
 | Sun, 23 Nov 2025 23:29:55 GMT | Beyond Machines | Taulan Zauzanov | [Read More](https://medium.com/p/ba7d47c7b81b) |
 | Sun, 23 Nov 2025 23:22:53 GMT | Understanding JWT Authentication with HMAC: A Deep Dive into Secret Key Distribution | Thiago Santos | [Read More](https://medium.com/p/abe945db05fe) |
 | Sun, 23 Nov 2025 23:21:06 GMT | Week 6: The Pivot That Saved Everything | ZAYN | [Read More](https://medium.com/p/cc3966d32023) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 16:06:28 GMT | Securing Docker Containers — Practical Hands-On Guide | Ashhadali | [Read More](https://medium.com/p/9a9d34e0cd23) |
 | Sun, 23 Nov 2025 16:02:09 GMT | Millions of U.S. Flight Reservations Could Have Been Hacked in Minutes With Basic Brute Force | Digital Minds | [Read More](https://medium.com/p/bb24970f37eb) |
 | Sun, 23 Nov 2025 15:58:33 GMT | just memecoin Rewards Eligibility & Claim Guide — November 2025 | just memecoin | [Read More](https://medium.com/p/1c67bb4e4671) |
-| Sun, 23 Nov 2025 15:47:12 GMT | DevSecOps: Building a Secure Custom App from Day One | Kwiqsol Technologies | [Read More](https://medium.com/p/da4c071e371e) |
-| Sun, 23 Nov 2025 15:41:31 GMT | Vascular Ultrasound Tech Salary Guide 2025: Pay, Factors, Growth | Motherlandlove | [Read More](https://medium.com/p/c85df7e38892) |
-| Sun, 23 Nov 2025 15:39:39 GMT | “More Than a Teacher: Rediscovering Ministry in the Classroom” | Jamal Thomas | [Read More](https://medium.com/p/ea6ca0080a0d) |
-| Sun, 23 Nov 2025 15:37:58 GMT | Watermark Technology Explained Simply: How Digital Watermarks Protect Your Content | Natarajan C K | [Read More](https://medium.com/p/ecaeabaa34c9) |
-| Sun, 23 Nov 2025 15:34:03 GMT | The Evolution of Blockchain Forensics | Centralium | [Read More](https://medium.com/p/04ebec8c04fc) |
-| Sun, 23 Nov 2025 15:28:58 GMT | [Ethernaut] 3. Coin Flip | Jiseop Shin | [Read More](https://medium.com/p/40de027b3ddd) |
-| Sun, 23 Nov 2025 15:22:47 GMT | PostgreSQL on Kubernetes: Performance Nightmare or Dream? | Rizqi Mulki | [Read More](https://medium.com/p/d4421e387b17) |
-| Sun, 23 Nov 2025 15:12:36 GMT | HTB Academy — Web Attacks: Skills Assessment | BotsiCat | [Read More](https://medium.com/p/99fc6ba2a32b) |
-| Sun, 23 Nov 2025 15:05:58 GMT | My experience with the new Antigravity IDE from Google | Ihor Sasovets | [Read More](https://medium.com/p/a1d9bbd2a301) |
-| Sun, 23 Nov 2025 15:04:41 GMT | Sunset : Dawn:- The VM Where Everything Clicked — Reverse Shells, SUID Abuse, and Clean Root | Shikhar Sinha | [Read More](https://medium.com/p/6f121163fde3) |
-| Sun, 23 Nov 2025 15:02:47 GMT | จากโดนยำสู่ยืนหนึ่ง (สักที!) Asean Cyber Shield 3 ซีซันติด | BXDMAN | [Read More](https://medium.com/p/a91efb4d8ddf) |
-| Sun, 23 Nov 2025 15:02:24 GMT | Part 9: Virtual Box Home Lab — Windows 10 Remote Desktop AD | Declan | [Read More](https://medium.com/p/fe2d2fb69754) |
-| Sun, 23 Nov 2025 15:02:12 GMT | What I Knew vs. What I Did: The Parent Trap of Instant Gratification | The Insight Experiment | [Read More](https://medium.com/p/b127f4cb4641) |
-| Sun, 23 Nov 2025 15:00:49 GMT | What is a CVE?  The Beginner’s Guide Everyone Actually Needs in 2025 | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/c7825bf6c43c) |
-| Sun, 23 Nov 2025 15:00:41 GMT | Secure Your Mobile Phone | Monu Jangra | [Read More](https://medium.com/p/038e7a9263fc) |
-| Sun, 23 Nov 2025 14:44:46 GMT | Informationssicherheit Management System ( ISMS) verstehen: Ein Überblick über ISO 27001 | Atanur Coban | [Read More](https://medium.com/p/04341f8ce53b) |
-| Sun, 23 Nov 2025 14:40:25 GMT | DPDP Act and Rules : What Companies Must Actually Do now? | Snehjeet Mukherjee | [Read More](https://medium.com/p/fa9bae3e2581) |
-| Sun, 23 Nov 2025 14:38:27 GMT | Suburban Studios Denver Tech Center Reviews: Complete 2025 Guide | Motherlandlove | [Read More](https://medium.com/p/4146bb79d86f) |
