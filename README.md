@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 18:59:53 GMT | Password Entropy | Jan Skopal | [Read More](https://medium.com/p/58aed2f766eb) |
+| Mon, 24 Nov 2025 18:54:29 GMT | Soc level 1 Summit challenge walkthrough | Mercykiaritha | [Read More](https://medium.com/p/7909223aa175) |
+| Mon, 24 Nov 2025 18:50:22 GMT | ’Tis the Season to Not Be Compromised | Len Noe | [Read More](https://medium.com/p/62cd66f4a0b0) |
+| Mon, 24 Nov 2025 18:44:29 GMT | Most Common XSS Payloads | Udeshna | [Read More](https://medium.com/p/10699faabaad) |
+| Mon, 24 Nov 2025 18:43:25 GMT | SYHEDA: Harbinger of Oblivion | SyHeda | [Read More](https://medium.com/p/337552f1d7ec) |
+| Mon, 24 Nov 2025 18:37:35 GMT | A Tale of Two Certs: Why I’m studying for CompTIA’s SecurityX exam as prep for the Security+ | Jade Seeker | [Read More](https://medium.com/p/fa1fd55e2c31) |
+| Mon, 24 Nov 2025 18:31:14 GMT | Spoofing an AI Agent: Explained So Simply a 3rd Grader Could Understand | Jon Capriola | [Read More](https://medium.com/p/b8c9f0bf6be8) |
+| Mon, 24 Nov 2025 18:28:16 GMT | Runbook Automation for Incident Response ⚡ | Esra Kayhan | [Read More](https://medium.com/p/358328ae3c74) |
+| Mon, 24 Nov 2025 18:27:35 GMT | Advanced Dashboard Design for SIEM: The Art of Turning Data into Meaningful Action | Esra Kayhan | [Read More](https://medium.com/p/ca3a48afd4cf) |
+| Mon, 24 Nov 2025 18:27:09 GMT | Why I Created the Cybersecurity Side-Hustle Blueprint — And Priced It More Than My Other Courses | Taimur Ijlal | [Read More](https://medium.com/p/6aaf73f655c6) |
+| Mon, 24 Nov 2025 18:22:54 GMT | PHP for Pentesters — Day 4 | Bazil Brohi | [Read More](https://medium.com/p/8387bbb7dbe7) |
 | Mon, 24 Nov 2025 18:20:02 GMT | The Bible of Breaking Things: The Definitive Analysis of “The Web Application Hacker’s Handbook” | Amrik  Hanjra | [Read More](https://medium.com/p/b9a6e3e6488b) |
 | Mon, 24 Nov 2025 18:18:13 GMT | Building an IVR Testing Strategy Aligned with Business KPIs | TestFyra | [Read More](https://medium.com/p/07fa61240730) |
 | Mon, 24 Nov 2025 18:17:36 GMT | Linux Permissions Unleashed: A Deep Dive into Access Control Lists (ACLs) | B Srinivasa Vinay | [Read More](https://medium.com/p/6f46b94909f5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 14:13:04 GMT | The Cybersecurity Industry 2026 | Trillion Defense | [Read More](https://medium.com/p/0f410bcbc35f) |
 | Mon, 24 Nov 2025 14:13:02 GMT | HTB- Starting_Point Archetype | Aryan Kumar Soni | [Read More](https://medium.com/p/ddf736de8d9e) |
 | Mon, 24 Nov 2025 14:11:52 GMT | Windows Logon Fabric Correlation for SOC: Token Lineage, LUID Chains & Next-Hop Admin Risk | Sabri Chaabi | [Read More](https://medium.com/p/682b740596c9) |
-| Mon, 24 Nov 2025 14:06:01 GMT | Hacking the AI Mindset: From Cute Prompts to Serious LLM Security | Vitaly Sem | [Read More](https://medium.com/p/e69f8ac63c87) |
-| Mon, 24 Nov 2025 13:57:37 GMT | DPDP 2025 Explained: How India Is Strengthening Your Digital Privacy | Rakshan Kangovi | [Read More](https://medium.com/p/4fb291ca252a) |
-| Mon, 24 Nov 2025 13:56:49 GMT | Fake Deliveries, Real Damage: The Rise of Shipping and Return Fraud This Holiday Season | Michael Payams | [Read More](https://medium.com/p/cc23d84a0062) |
-| Mon, 24 Nov 2025 13:56:42 GMT | AI-Powered Malicious Apps Using Advanced Obfuscation to Evade Antivirus Detection | Technijian | [Read More](https://medium.com/p/5527670bf668) |
-| Mon, 24 Nov 2025 13:52:52 GMT | How AI Is Supercharging Hacking as a Service in 2025 | Okewu Daniel | [Read More](https://medium.com/p/5141a4f61f2f) |
-| Mon, 24 Nov 2025 13:52:39 GMT | Do You Need a Degree to Be a Pharmacy Tech? Complete 2025 Guide | Motherlandlove | [Read More](https://medium.com/p/7b85b48e8f39) |
-| Mon, 24 Nov 2025 13:52:33 GMT | Do You Need a Degree to Be a Pharmacy Tech? Complete 2025 Guide | Motherlandlove | [Read More](https://medium.com/p/914fff394cd4) |
-| Mon, 24 Nov 2025 13:50:01 GMT | 2FA Broken Logic | Bash Overflow | [Read More](https://medium.com/p/145d08a294e2) |
-| Mon, 24 Nov 2025 13:44:08 GMT | How DNS Works: The Internet’s Invisible Phonebook (Explained with Examples) | Devaaravindlutukurty | [Read More](https://medium.com/p/aaab0c58aa95) |
-| Mon, 24 Nov 2025 13:44:03 GMT | Securing Existing APIs : A Reactive security Approach | Israel Aráoz Severiche | [Read More](https://medium.com/p/6615c8a7f8ec) |
-| Mon, 24 Nov 2025 13:42:29 GMT | How to Unlock a Door with a Hole: Practical Methods and Tips | Sure Lock & Key LLC | [Read More](https://medium.com/p/accabdef6ca0) |
