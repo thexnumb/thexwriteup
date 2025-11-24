@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 18:20:02 GMT | The Bible of Breaking Things: The Definitive Analysis of “The Web Application Hacker’s Handbook” | Amrik  Hanjra | [Read More](https://medium.com/p/b9a6e3e6488b) |
+| Mon, 24 Nov 2025 18:18:13 GMT | Building an IVR Testing Strategy Aligned with Business KPIs | TestFyra | [Read More](https://medium.com/p/07fa61240730) |
+| Mon, 24 Nov 2025 18:17:36 GMT | Linux Permissions Unleashed: A Deep Dive into Access Control Lists (ACLs) | B Srinivasa Vinay | [Read More](https://medium.com/p/6f46b94909f5) |
+| Mon, 24 Nov 2025 18:11:49 GMT | Why did I delete most of my articles in Medium? | Charlotte Ng | [Read More](https://medium.com/p/d581483a92fe) |
+| Mon, 24 Nov 2025 18:08:22 GMT | Configuration refresh failed with the following error: The WS-Management | Ahmet Doruk | [Read More](https://medium.com/p/84b592b6d3c7) |
+| Mon, 24 Nov 2025 18:06:01 GMT | Vulnerabilities 101 | Tony K Rodgers | [Read More](https://medium.com/p/619bcda74c94) |
+| Mon, 24 Nov 2025 18:05:35 GMT | We Solved Multi-Chain Security. Now We’re Looking For Developers Who Want to Change DeFi. | Chronos Vault | [Read More](https://medium.com/p/de72ca736c2c) |
+| Mon, 24 Nov 2025 18:04:02 GMT | Say Goodbye to Private Key Nightmares: How Smart Contracts Eliminate Security Risks in Exchange… | Crypto Market Research | [Read More](https://medium.com/p/27c6aa92e5ef) |
+| Mon, 24 Nov 2025 18:01:52 GMT | Driving Growth in the Information Technology Sector: How L4RG Digital Plus Powers IT Businesses | Vijay Singh Bisht | [Read More](https://medium.com/p/3578f4c7437b) |
+| Mon, 24 Nov 2025 18:01:44 GMT | Digital–Physical Crime Alliance Fuels Explosive Growth in Cargo Theft | Himanshu Bhatt | [Read More](https://medium.com/p/096a8ce5cb82) |
+| Mon, 24 Nov 2025 17:49:33 GMT | How to install and configure ELK Stack as a complete SIEM - Cybersecurity Homelab Series [#3] | 0xRahuL | [Read More](https://medium.com/p/defca59650d8) |
+| Mon, 24 Nov 2025 17:47:41 GMT | Future-Proofing Your Data: The Best Protection Strategies for the Next Decade | Salman Khan | [Read More](https://medium.com/p/6015ba9ebf1d) |
+| Mon, 24 Nov 2025 17:46:23 GMT | 7 Protocol Analysis Tricks You Won’t Learn in CCNA: Master Network Traffic Like a Pro | Very Lazy Tech | [Read More](https://medium.com/p/d4b97d35bf82) |
+| Mon, 24 Nov 2025 17:44:12 GMT | The Triad of Defense: How to Master Threats, Risks, and Vulnerabilities Like a Pro | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/4bff31c03866) |
+| Mon, 24 Nov 2025 17:43:34 GMT | My First Splunk Dashboard: A Beginner-Friendly Guide | 0verRida | [Read More](https://medium.com/p/6b0d7e28c7db) |
+| Mon, 24 Nov 2025 17:37:46 GMT | How Man-in-the-Middle Attacks Work | Aytboyev Bobur | [Read More](https://medium.com/p/e2afc7c8e452) |
 | Mon, 24 Nov 2025 17:33:28 GMT | I Thought Cyber Attacks Only Happened to Big Companies… Until It Happened to Me | Kadirijafar | [Read More](https://medium.com/p/e7b8051cf194) |
 | Mon, 24 Nov 2025 17:33:06 GMT | $$$ How I Discovered a Business Logic Vulnerability That Allowed Price Manipulation Through… | Zyad Ibrahim | [Read More](https://medium.com/p/59d4a8c36cea) |
 | Mon, 24 Nov 2025 17:31:28 GMT | Connecting Care for Value-Based Homeless Services | Nzinga Garvey, MBA | [Read More](https://medium.com/p/b8770c794f42) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 13:44:08 GMT | How DNS Works: The Internet’s Invisible Phonebook (Explained with Examples) | Devaaravindlutukurty | [Read More](https://medium.com/p/aaab0c58aa95) |
 | Mon, 24 Nov 2025 13:44:03 GMT | Securing Existing APIs : A Reactive security Approach | Israel Aráoz Severiche | [Read More](https://medium.com/p/6615c8a7f8ec) |
 | Mon, 24 Nov 2025 13:42:29 GMT | How to Unlock a Door with a Hole: Practical Methods and Tips | Sure Lock & Key LLC | [Read More](https://medium.com/p/accabdef6ca0) |
-| Mon, 24 Nov 2025 13:42:29 GMT | Blast From The Past: Flash in the Pan — GaboCorp.com | Namir Sagheenanajar | [Read More](https://medium.com/p/f7331bbe1b9c) |
-| Mon, 24 Nov 2025 13:40:43 GMT | Your Competitive Advantage is Dying: | Handvantage | [Read More](https://medium.com/p/9340807bdc83) |
-| Mon, 24 Nov 2025 13:38:43 GMT | Top 5 Udemy Courses for CISM Certification in 2026 (With Practice Tests) | javinpaul | [Read More](https://medium.com/p/3fbdf143264f) |
-| Mon, 24 Nov 2025 13:38:32 GMT | AI-Powered Recon: Using Gemini + Nmap for Automated Security Scans | Ammarcader | [Read More](https://medium.com/p/0b8eb19b15c4) |
-| Mon, 24 Nov 2025 13:28:01 GMT | Building India’s Largest Bug Bounty Platform & Revolutionizing VAPT with AI ft. | Cyber Unbound | [Read More](https://medium.com/p/882769151c7c) |
-| Mon, 24 Nov 2025 13:23:11 GMT | ⚡ 3 Tricks to Hunt Bug Faster: Stop Wasting Time, Finding Smartly | Abhishek meena | [Read More](https://medium.com/p/4d5648919aec) |
-| Mon, 24 Nov 2025 13:21:35 GMT | 20% Effort, 80% Protection: The Lazy Python Developer’s Guide to Bulletproof Code | Maikel Mardjan | [Read More](https://medium.com/p/d85aeca3151b) |
-| Mon, 24 Nov 2025 13:20:16 GMT | The Ethics of Hacking: Where Do We Draw the Line? | Shayoni Jahan | [Read More](https://medium.com/p/2c98e61707eb) |
-| Mon, 24 Nov 2025 13:19:20 GMT | AI + Cloud Security: The Future of Protecting Digital Assets | IPSpecialist | [Read More](https://medium.com/p/cdab6dc8eedd) |
-| Mon, 24 Nov 2025 13:18:32 GMT | How AI Is Supercharging Hacking-as-a-Service in 2025 | Okewu Daniel | [Read More](https://medium.com/p/9e9d483da925) |
-| Mon, 24 Nov 2025 13:18:23 GMT | 1st Aid Kit | Vox Vento | [Read More](https://medium.com/p/3c629e3dda86) |
-| Mon, 24 Nov 2025 13:12:11 GMT | The Rise of AI Viruses: When Artificial Intelligence Becomes a Digital Epidemic | Hayanan | [Read More](https://medium.com/p/d0b2f43ea164) |
-| Mon, 24 Nov 2025 13:12:10 GMT | When AI Turns Criminal: Deepfakes, Voice-Cloning & LLM Malware | Netlas.io | [Read More](https://medium.com/p/a390b6a6a9d7) |
-| Mon, 24 Nov 2025 13:11:45 GMT | Virtual Threads Explained: Why Everything You Know About Java Threading Is About to Change | Jitin Kayyala | [Read More](https://medium.com/p/76ba4de6d675) |
-| Mon, 24 Nov 2025 13:11:01 GMT | What Stops a Routine IT Failure From Becoming a Major External Breach? | Barry Ritchie | [Read More](https://medium.com/p/6b330c81c0ba) |
-| Mon, 24 Nov 2025 13:08:07 GMT | How I Automated Finding User Enumeration Bugs | Ibtissam | [Read More](https://medium.com/p/07ad5143dbcc) |
