@@ -12,9 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 17:12:54 GMT | This Week’s Triple Canons : GPUs Stolen, Birds Break In, and Windows Trips Over Office | Mohith Krishna K | [Read More](https://medium.com/p/8a62f32814cb) |
+| Mon, 24 Nov 2025 17:11:03 GMT | How to Know If Your Data or Card Has Been Stolen in 2025 — And What To Do Next | Nazrul Islam Rana | [Read More](https://medium.com/p/bfd2640af254) |
+| Mon, 24 Nov 2025 17:08:50 GMT | 45 Days of Cybersecurity Days 8–10 | Wandesrtech | [Read More](https://medium.com/p/3675863e14f7) |
+| Mon, 24 Nov 2025 17:05:03 GMT | Road — Try Hack Me CTF Walkthrough | Am | [Read More](https://medium.com/p/03d487e90beb) |
+| Mon, 24 Nov 2025 17:02:35 GMT | OSCP Grind - PG Practice - Algernon | Mr Jokar | [Read More](https://medium.com/p/4f5f6d50f02a) |
+| Mon, 24 Nov 2025 16:43:22 GMT | Dr. Wemakor Calls for Stronger CSO Collaboration to Bolster Peace and Security at WACS Week 2025 | Joseph Wemakor | [Read More](https://medium.com/p/05b6e73c2f7c) |
+| Mon, 24 Nov 2025 16:42:00 GMT | What Really Happens in the 2 Seconds Between Scanning QR and ‘Payment Successful’? | Rohan Mistry | [Read More](https://medium.com/p/e4ddd84eafc5) |
 | Mon, 24 Nov 2025 16:41:45 GMT | Praktikum Internet of Things (Tugas): Kontrol Relay Melalui Internet | Muhammad Surya Saputro | [Read More](https://medium.com/p/8a49e6a5bd15) |
+| Mon, 24 Nov 2025 16:41:45 GMT | Strengthening Identity for a Safer Digital Enterprise | Dr. Shashi Karhail | [Read More](https://medium.com/p/3000eb79bbb8) |
 | Mon, 24 Nov 2025 16:41:27 GMT | Praktikum Internet of Things: Kontrol Relay melalui Internet | Muhammad Surya Saputro | [Read More](https://medium.com/p/edfebb8d7341) |
+| Mon, 24 Nov 2025 16:41:13 GMT | ‍☠️ PIRATE-Transcribe: A Real-Time Audio Intelligence Tool Built with Python | Hemanth Mouli.ch | [Read More](https://medium.com/p/83d7647f4241) |
+| Mon, 24 Nov 2025 16:40:40 GMT | 30 Days of Red Team: Day 9 — Linux Persistence Techniques (Surviving in Unix Territory) | Maxwell Cross | [Read More](https://medium.com/p/d654252c61c5) |
+| Mon, 24 Nov 2025 16:40:37 GMT | 2026 is the year of AI-powered attacks. Here’s the evidence - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/9ee36247b50b) |
 | Mon, 24 Nov 2025 16:38:02 GMT | Red Team Engagement — Windows Server 2019 CTF Challenge (Part-01) | Sachin Sir | [Read More](https://medium.com/p/939fa5be5395) |
+| Mon, 24 Nov 2025 16:35:46 GMT | Why Construction Sites Need Professional Security Guards | Aimanzahraa | [Read More](https://medium.com/p/04d2608adbfe) |
+| Mon, 24 Nov 2025 16:34:37 GMT | Why Mobile Patrol Security Is Essential for Modern Businesses | Aimanzahraa | [Read More](https://medium.com/p/7dc1826fe6bf) |
 | Mon, 24 Nov 2025 16:34:10 GMT | Cut Through Tool Fatigue: Why More Controls Don’t Equal Better Security | Hello @ Octellient | [Read More](https://medium.com/p/a41bf4c702c7) |
 | Mon, 24 Nov 2025 16:29:02 GMT | Django Forms: The Secret to Handling User Input Without the Headaches | Nitesh Chahar | [Read More](https://medium.com/p/441635817bab) |
 | Mon, 24 Nov 2025 16:28:18 GMT | When Encryption Isn’t Enough — How the Sturnus Trojan Sneaks Into WhatsApp, Signal & Telegram Chats. | eL Njas!™ | [Read More](https://medium.com/p/8350236aef2e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 12:49:31 GMT | NETFLIX Exposed Prometheus instance exposing internal metrics closed as duplicate leaks internal… | Christoscoming | [Read More](https://medium.com/p/dfa78d99864e) |
 | Mon, 24 Nov 2025 12:45:54 GMT | “The cobbler’s children have no shoes.” | CacheGuard Technologies | [Read More](https://medium.com/p/d5e870448186) |
 | Mon, 24 Nov 2025 12:43:02 GMT | Why Cyber Security Assessment Services Are Essential for Modern Businesses | Vishwajeettechtech | [Read More](https://medium.com/p/626fae84a66e) |
-| Mon, 24 Nov 2025 12:42:43 GMT | CyberFundamentals 2025: A Practical Standard for Modern Cybersecurity | Viktor Davydych | [Read More](https://medium.com/p/d3dc92c3595e) |
-| Mon, 24 Nov 2025 12:33:27 GMT | Navigating an insecure website: What You Need to Know | Umar Al-Mahfuz | [Read More](https://medium.com/p/5db8b294da1c) |
-| Mon, 24 Nov 2025 12:29:40 GMT | Article 8 : Cybersecurity — Beginning | Aman Kumar Singh | [Read More](https://medium.com/p/0d52c6fbfed0) |
-| Mon, 24 Nov 2025 12:26:22 GMT | Continuous Network Scanning for Real-Time Asset Visibility | Kartiksharma | [Read More](https://medium.com/p/76c40074fea7) |
-| Mon, 24 Nov 2025 12:26:01 GMT | Harvard’s 2025 Alumni Data Breach Is a Warning to the World — And a Preview of What’s Coming Next! | Bhawini. | [Read More](https://medium.com/p/4c890bb8fb7d) |
-| Mon, 24 Nov 2025 12:24:23 GMT | Top 5 Smart Contract Audit Companies to Look Out In 2026 | Devendra Singh Khati | [Read More](https://medium.com/p/f417c54a5f9d) |
-| Mon, 24 Nov 2025 12:14:05 GMT | “If we scale this company to 200–500 employees, will the IT and security foundations hold?” | Barry Ritchie | [Read More](https://medium.com/p/459a2413df0a) |
-| Mon, 24 Nov 2025 12:03:03 GMT | Cybersecurity Threats and Solutions | Emily Chan | [Read More](https://medium.com/p/a6ed75f4af7c) |
-| Mon, 24 Nov 2025 12:03:03 GMT | Setting up a malware analysis lab | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/10c88e925960) |
-| Mon, 24 Nov 2025 12:02:06 GMT | The Psychological Side of Fraud — When Users Stop Trusting Your Platform | Gokul Nair | [Read More](https://medium.com/p/f1776cd1819d) |
-| Mon, 24 Nov 2025 12:02:04 GMT | Understanding CWE-552: Files or Directories Accessible to External Parties | Walter Moar | [Read More](https://medium.com/p/82df164b1822) |
-| Mon, 24 Nov 2025 11:52:31 GMT | Part I — Behind the Screens: A Practical Guide to How Hacking Really Works | Vanshi Dalal | [Read More](https://medium.com/p/20e6189881da) |
-| Mon, 24 Nov 2025 11:37:57 GMT | The Botnet That Started With My Friend’s Stolen Laptop | Abdullah Javeed | [Read More](https://medium.com/p/2b47f55f3e7c) |
