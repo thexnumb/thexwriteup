@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 09:12:34 GMT | The Phishing Game Just Changed: Introducing the Anti-Phishing Guardian Extension | Maxwell Onyeka | [Read More](https://medium.com/p/2b6fdb7cae9d) |
+| Mon, 24 Nov 2025 09:08:41 GMT | As cyber threats grow in volume, sophistication, and impact, security teams across industries are… | Umangp | [Read More](https://medium.com/p/87242cd4994c) |
+| Mon, 24 Nov 2025 09:08:29 GMT | My OSCP+ Journey Through Try Harder Concept (Failed, Failed, then Passed) | Yoga Bayu Aji Pranawa | [Read More](https://medium.com/p/cb659649f519) |
+| Mon, 24 Nov 2025 09:05:25 GMT | Discover the Leading Ethical Hacking Academy in Bangalore and How It Shapes Experts | RedTeamsaniga Suresh | [Read More](https://medium.com/p/30ebe2813c5d) |
+| Mon, 24 Nov 2025 08:56:55 GMT | Reflected XSS with Base64 — Breaching Obscurity in Seconds | embossdotar | [Read More](https://medium.com/p/e1f9e50a4709) |
+| Mon, 24 Nov 2025 08:52:16 GMT | Portswigger Academy Lab :  Username enumeration via response timing Writeup | Songül Kızılay Özügürler | [Read More](https://medium.com/p/df23aeea8bd8) |
+| Mon, 24 Nov 2025 08:48:12 GMT | Why Professional Security Guard Services Are Essential for Modern Businesses | Ciss India | [Read More](https://medium.com/p/b5a3ac6145f8) |
+| Mon, 24 Nov 2025 08:44:59 GMT | Hacking Smarter, Not Louder: ChatGPT On Action | Redfox Security | [Read More](https://medium.com/p/8ce184b86de0) |
+| Mon, 24 Nov 2025 08:40:58 GMT | Why Businesses Trust Digital Defense for End-to-End Cybersecurity | Digital Defense | [Read More](https://medium.com/p/586547dfef42) |
+| Mon, 24 Nov 2025 08:39:51 GMT | When Agents Get Tools: 10 MCP Labs for Breaking and Hardening AI Integrations | PawelKozy | [Read More](https://medium.com/p/63080045ee59) |
 | Mon, 24 Nov 2025 08:31:15 GMT | Prediction: In 2026, Cyber Insurers Will Refuse Coverage for Overreliance on AI SOCs | Oliver Rochford | [Read More](https://medium.com/p/cb9f83b69b2d) |
+| Mon, 24 Nov 2025 08:24:47 GMT | Nobody is an Island | Joan Bluejack | [Read More](https://medium.com/p/9293f984eef0) |
 | Mon, 24 Nov 2025 08:20:53 GMT | Race Condition -HTTP Smuggling — HTTP Protokol Versiyon | 0bat.exe1 | [Read More](https://medium.com/p/1ce0cb9ad656) |
 | Mon, 24 Nov 2025 08:17:38 GMT | Zero Trust Model | Ahmed Abd El-Samie | [Read More](https://medium.com/p/a56a92fb9ef0) |
 | Mon, 24 Nov 2025 08:02:30 GMT | How Modern Operators Use Psychology To Map Targets Before First Contact | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d7119ceed674) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 01:14:16 GMT | How xxx.com Helped Me Land $10K Bounties in Just 1 Week | Anonymous Traiger | [Read More](https://medium.com/p/9debd408b855) |
 | Mon, 24 Nov 2025 01:13:15 GMT | Stop Storing Secrets in Plain Text: A Simple Guide to Encrypted Storage in React Native (with a… | eugenio andrieu | [Read More](https://medium.com/p/c7c08200d3de) |
 | Mon, 24 Nov 2025 01:09:09 GMT | Red Teaming 2: Anne Ben Hacker Oldum (Sanmıştım) — Script Kiddie Sendromu | Hazal Karayiğit | [Read More](https://medium.com/p/007788e56038) |
-| Mon, 24 Nov 2025 01:00:09 GMT | PicoCTF -Web Exploitation - Local Authority - MehediSec | MehediSec | [Read More](https://medium.com/p/055958df18ff) |
-| Mon, 24 Nov 2025 00:59:39 GMT | Token-based Authentication: JWT vs. PASETO | ISHII (石井) | [Read More](https://medium.com/p/c7cdb27f8adc) |
-| Mon, 24 Nov 2025 00:59:18 GMT | PatriotCTF 2025 - OSINT- All Four “Where’s Legally Distinct Waldo” Challenges | Zeyad Karim | [Read More](https://medium.com/p/8abd62b5b174) |
-| Mon, 24 Nov 2025 00:38:41 GMT | How to Choose an MSP to Secure Your Business | Asad Shahzad - Content Marketer | [Read More](https://medium.com/p/17603e7d09e6) |
-| Mon, 24 Nov 2025 00:38:11 GMT | PatriotCTF 2025 — Trust Fall Web Challenge Write-Up | 0xScorpioN | [Read More](https://medium.com/p/076acab1f8b1) |
-| Mon, 24 Nov 2025 00:34:59 GMT | Decoding CompTIA Security+ | Jade Seeker | [Read More](https://medium.com/p/224567ed8d7e) |
-| Mon, 24 Nov 2025 00:32:14 GMT | Claim BUG Rewards Easily — November 2025 | Dragon Mainland Shards | [Read More](https://medium.com/p/06fa71a6ea68) |
-| Mon, 24 Nov 2025 00:27:12 GMT | I Audited Small U.S. | CivicMeshFlow | [Read More](https://medium.com/p/16a6e98aa1a2) |
-| Mon, 24 Nov 2025 00:21:14 GMT | AI Governance Through the GRC Lens | Nikita Gupta | [Read More](https://medium.com/p/b23b1697d6a6) |
-| Mon, 24 Nov 2025 00:05:26 GMT | Toronto’s Security Paradox: When Safety Becomes a Luxury | Paramount Defense Group Inc | [Read More](https://medium.com/p/ea07cd4666ed) |
-| Mon, 24 Nov 2025 00:01:02 GMT | GPP Passwords: The Active Directory Vulnerability That Won’t Die | Cybersecurity Simplified | [Read More](https://medium.com/p/bc5a69ee949a) |
