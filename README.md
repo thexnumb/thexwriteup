@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 08:31:15 GMT | Prediction: In 2026, Cyber Insurers Will Refuse Coverage for Overreliance on AI SOCs | Oliver Rochford | [Read More](https://medium.com/p/cb9f83b69b2d) |
+| Mon, 24 Nov 2025 08:20:53 GMT | Race Condition -HTTP Smuggling — HTTP Protokol Versiyon | 0bat.exe1 | [Read More](https://medium.com/p/1ce0cb9ad656) |
+| Mon, 24 Nov 2025 08:17:38 GMT | Zero Trust Model | Ahmed Abd El-Samie | [Read More](https://medium.com/p/a56a92fb9ef0) |
+| Mon, 24 Nov 2025 08:02:30 GMT | How Modern Operators Use Psychology To Map Targets Before First Contact | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d7119ceed674) |
+| Mon, 24 Nov 2025 07:56:17 GMT | Navigating the Complex World of Cybersecurity Consulting: A Comprehensive Guide for Business… | Ferguson Computer Services | [Read More](https://medium.com/p/0474390d62a8) |
+| Mon, 24 Nov 2025 07:51:41 GMT | : "    … | Cyber Toddler | [Read More](https://medium.com/p/70686cd7c32e) |
+| Mon, 24 Nov 2025 07:50:09 GMT | How VPNs Work and When You Need One | Smit Pipaliya | [Read More](https://medium.com/p/8bc30676a51c) |
+| Mon, 24 Nov 2025 07:46:18 GMT | Legal Implications of Ransomware in Nigeria: Legal Risks, Regulatory Duties and Cybersecurity… | Olisa Agbakoba Legal (OAL) | [Read More](https://medium.com/p/9d8f44cc85ae) |
+| Mon, 24 Nov 2025 07:44:50 GMT | 5 Major Trends in Microsoft 365 Tenant-to-Tenant Migration | Arun Jyothi | [Read More](https://medium.com/p/96b41a611ff3) |
 | Mon, 24 Nov 2025 07:33:08 GMT | Two Real iOS Pentesting Case Studies (Mpin Exposure + Biometric Bypass) | Raj Prasad Kuiri | [Read More](https://medium.com/p/906a2f2a4ddf) |
 | Mon, 24 Nov 2025 07:32:03 GMT | The CIA Triad and Cybersecurity Domains — What Every Beginner Should Know | Mohammed Fizal | [Read More](https://medium.com/p/51ea71aa4ca3) |
 | Mon, 24 Nov 2025 07:31:51 GMT | Everything Can Be Hacked | Gautam Mengle | [Read More](https://medium.com/p/922778ca1987) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 00:21:14 GMT | AI Governance Through the GRC Lens | Nikita Gupta | [Read More](https://medium.com/p/b23b1697d6a6) |
 | Mon, 24 Nov 2025 00:05:26 GMT | Toronto’s Security Paradox: When Safety Becomes a Luxury | Paramount Defense Group Inc | [Read More](https://medium.com/p/ea07cd4666ed) |
 | Mon, 24 Nov 2025 00:01:02 GMT | GPP Passwords: The Active Directory Vulnerability That Won’t Die | Cybersecurity Simplified | [Read More](https://medium.com/p/bc5a69ee949a) |
-| Sun, 23 Nov 2025 23:29:55 GMT | Beyond Machines | Taulan Zauzanov | [Read More](https://medium.com/p/ba7d47c7b81b) |
-| Sun, 23 Nov 2025 23:22:53 GMT | Understanding JWT Authentication with HMAC: A Deep Dive into Secret Key Distribution | Thiago Santos | [Read More](https://medium.com/p/abe945db05fe) |
-| Sun, 23 Nov 2025 23:21:06 GMT | Week 6: The Pivot That Saved Everything | ZAYN | [Read More](https://medium.com/p/cc3966d32023) |
-| Sun, 23 Nov 2025 23:15:35 GMT | The Stranger I Still Love | Anonyraye | [Read More](https://medium.com/p/d90c16abb724) |
-| Sun, 23 Nov 2025 23:00:33 GMT | Cronos — Write-up | Taxaneh | [Read More](https://medium.com/p/06f9dddc5d0e) |
-| Sun, 23 Nov 2025 22:56:31 GMT | Tracing a Stack Overflow Bug Through Taint Analysis: A Deep Dive Into Data Flow Graphs | BitGuardian | [Read More](https://medium.com/p/ec98ca8dffea) |
-| Sun, 23 Nov 2025 22:54:55 GMT | OffSec PG: PayDay (OSCP Prep, Intermediate) | G3XAR | [Read More](https://medium.com/p/77428ffcec5c) |
-| Sun, 23 Nov 2025 22:48:25 GMT | Seduction, Secrets, Silicon Valley | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/eb2c0b6daa16) |
-| Sun, 23 Nov 2025 22:33:06 GMT | HTB BountyHunter — Write-up | Taxaneh | [Read More](https://medium.com/p/33b26405ff2b) |
