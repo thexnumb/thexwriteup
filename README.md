@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 05:40:37 GMT | The Algorithm’s Shadow: Navigating the New Frontier of AI-Powered Cyber Warfare | Akshat Ratanpal | [Read More](https://medium.com/p/1da11ec00f81) |
+| Mon, 24 Nov 2025 05:35:39 GMT | Bug Bounty Hunting — Complete Guide (Part-147) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/87dac0f0ecb4) |
+| Mon, 24 Nov 2025 05:32:52 GMT | Bug Bounty Hunting — Complete Guide (Part-146) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/8f78cf8f25da) |
+| Mon, 24 Nov 2025 05:32:08 GMT | Digital Rebirth: The Echo Archive | Frankxff | [Read More](https://medium.com/p/a6ec6310dda2) |
+| Mon, 24 Nov 2025 05:27:17 GMT | When Reality Becomes Code: The Day Truth Died in Digital | Leslie | [Read More](https://medium.com/p/f9d46d93918d) |
 | Mon, 24 Nov 2025 05:15:22 GMT | Are Cybersecurity Certifications More Valuable Than a Degree in India? | Appin Technology Lab | [Read More](https://medium.com/p/048ce9735874) |
 | Mon, 24 Nov 2025 05:12:25 GMT | Password-Protected Browser Launcher Using PowerShell. | CyberShield Insights | [Read More](https://medium.com/p/2901bc882cf2) |
 | Mon, 24 Nov 2025 05:09:31 GMT | Why is it important to learn Penetration Testing in Cyber Security? | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8cff661652b5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 19:06:45 GMT | Key API Security Risks and How to Spot Them | Catelle Ningha | [Read More](https://medium.com/p/1a42a6848108) |
 | Sun, 23 Nov 2025 19:03:12 GMT | AI Agents: AresGPT Entry Level Prompt Engineering for AI Security and Strategic Thinking | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/d2a331eea4ce) |
 | Sun, 23 Nov 2025 19:02:58 GMT | I’ve completed close to 20 SIEM onboarding projects, and I’m used to hearing this all the time. | Rafal Kitab | [Read More](https://medium.com/p/be2e16fcf675) |
-| Sun, 23 Nov 2025 19:02:46 GMT | OverTheWire: Wargames — Natas (Level 32–33) Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/15696c5d60b2) |
-| Sun, 23 Nov 2025 19:02:03 GMT | Triple Kill: How I Uncovered 3 Critical Bugs in a Single Hunt ️‍☠️ | Vansh Sharma | [Read More](https://medium.com/p/66677bc48369) |
-| Sun, 23 Nov 2025 18:59:32 GMT | Proving Grounds - Nagoya | jniket | [Read More](https://medium.com/p/8e2aa702556f) |
-| Sun, 23 Nov 2025 18:58:48 GMT | The One S3 Encryption Fix That Can Stop a Ransomware Nightmare | Pois0n84 | [Read More](https://medium.com/p/7a7c3dcd00fe) |
-| Sun, 23 Nov 2025 18:57:41 GMT | HackTheBox: Code Part II | Rahaliashraf | [Read More](https://medium.com/p/efb1eea077e2) |
