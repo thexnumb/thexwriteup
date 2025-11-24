@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 23:09:43 GMT | LockBit Ransomware - LetsDefend Challenge Write-Up | Krono | [Read More](https://medium.com/p/98cf94454084) |
 | Mon, 24 Nov 2025 23:07:51 GMT | I Exposed an Azure VM on Purpose. Here’s Who Tried to Break In. | Bhavya Ulapu | [Read More](https://medium.com/p/998a362b9231) |
 | Mon, 24 Nov 2025 22:53:32 GMT | SQL Chapter 35 : Cybersecurity Log Data Analysis | Rahul Mishra(AI Engineer) | [Read More](https://medium.com/p/23ceb58362d6) |
 | Mon, 24 Nov 2025 22:50:31 GMT | Java 25: The Veteran That Stays Young — And Why Many Companies Are Still Living in 2014 | Luan Baleeiro | [Read More](https://medium.com/p/ee2ad10a88d9) |
@@ -100,6 +101,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 16:41:13 GMT | ‍☠️ PIRATE-Transcribe: A Real-Time Audio Intelligence Tool Built with Python | Hemanth Mouli.ch | [Read More](https://medium.com/p/83d7647f4241) |
 | Mon, 24 Nov 2025 16:40:40 GMT | 30 Days of Red Team: Day 9 — Linux Persistence Techniques (Surviving in Unix Territory) | Maxwell Cross | [Read More](https://medium.com/p/d654252c61c5) |
 | Mon, 24 Nov 2025 16:40:37 GMT | 2026 is the year of AI-powered attacks. Here’s the evidence - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/9ee36247b50b) |
+| Mon, 24 Nov 2025 16:40:00 GMT | Workflow: speed up visual web based external exposure recon. | biero llagas | [Read More](https://medium.com/p/18529ac7c749) |
 | Mon, 24 Nov 2025 16:38:02 GMT | Red Team Engagement — Windows Server 2019 CTF Challenge (Part-01) | Sachin Sir | [Read More](https://medium.com/p/939fa5be5395) |
 | Mon, 24 Nov 2025 16:35:46 GMT | Why Construction Sites Need Professional Security Guards | Aimanzahraa | [Read More](https://medium.com/p/04d2608adbfe) |
 | Mon, 24 Nov 2025 16:34:37 GMT | Why Mobile Patrol Security Is Essential for Modern Businesses | Aimanzahraa | [Read More](https://medium.com/p/7dc1826fe6bf) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 16:27:47 GMT | Padelify THM - Writeup | Domon | [Read More](https://medium.com/p/f8917e721a48) |
 | Mon, 24 Nov 2025 16:17:50 GMT | RST TI Report Digest: 24 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/20daba12c1bc) |
 | Mon, 24 Nov 2025 16:13:51 GMT | QR Codes from the Past: How an Archive Broke Two-Factor Auth | Aayush kumar | [Read More](https://medium.com/p/e6e64bca466e) |
-| Mon, 24 Nov 2025 16:12:02 GMT | Why Email and Letters are Obsolete in Business and Government Communication | Letro | [Read More](https://medium.com/p/28bf149aea22) |
-| Mon, 24 Nov 2025 16:09:40 GMT | Python HTTP Server - Share Files from PC to Phone Offline! | Ali bin azam | [Read More](https://medium.com/p/486405e84a9d) |
