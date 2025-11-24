@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 10:23:12 GMT | The Global Intelligence Ecosystem: Alliances, Rivalries, and the Fragmentation of Power in the 21st… | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/1f20ebc92bdf) |
+| Mon, 24 Nov 2025 10:19:45 GMT | How to Learn Basic Networking With AI From Scratch: A Complete Guide From the Experts | cyber security Updates | [Read More](https://medium.com/p/2c11066a7bd3) |
+| Mon, 24 Nov 2025 10:10:35 GMT | Leading Approaches to Protecting Embedded Devices from Cyber Threats During Boot and Runtime | Epteck GmbH | [Read More](https://medium.com/p/c2424b7813c1) |
+| Mon, 24 Nov 2025 10:10:30 GMT | What 500 Days of Cybersecurity Practice Actually Taught Me | Dhanush N | [Read More](https://medium.com/p/276f452cf78e) |
+| Mon, 24 Nov 2025 10:07:43 GMT | CrowdStrike Insider Threat Incident: Why the “Enemy Within” is Your Biggest Security Risk | Amritesh Shree | [Read More](https://medium.com/p/2efbe5f296fd) |
+| Mon, 24 Nov 2025 10:04:56 GMT | Fake Job Platforms Targeting AI Developers Are Becoming a New Threat | Jasmitha | [Read More](https://medium.com/p/5767771154c2) |
+| Mon, 24 Nov 2025 10:01:11 GMT | ARCHITECTURE VERSUS AI: WHY CYBERSECURITY HAS REACHED ITS BREAKING POINT | Abatis ABTU | [Read More](https://medium.com/p/9b720838f7eb) |
+| Mon, 24 Nov 2025 09:57:13 GMT | Smart companies use OT Threat Detection — Are You Still Guessing? | Balaji | [Read More](https://medium.com/p/395f6c5c5a4b) |
+| Mon, 24 Nov 2025 09:49:55 GMT | Deep Dive into Modern Auth Flows (Explained in Simple Words) | Sarveshmunde | [Read More](https://medium.com/p/4cbdee3a5db5) |
+| Mon, 24 Nov 2025 09:47:52 GMT | CTF Link : https://iitmpravartak.ctfd.io/ | Vishnuthurvas | [Read More](https://medium.com/p/7ea68764e337) |
+| Mon, 24 Nov 2025 09:46:48 GMT | Managing Password Security in Cybersecurity and Its Role in the Energy Sector | Ramandeep Bagri | [Read More](https://medium.com/p/9e56d4138c01) |
+| Mon, 24 Nov 2025 09:43:59 GMT | Build Secure Software (A Proposal) | Alberto Hernandez Acosta | [Read More](https://medium.com/p/ae9cba2a503e) |
+| Mon, 24 Nov 2025 09:37:48 GMT | Alert Triage With Splunk — SOC #9 | D4m.sh | [Read More](https://medium.com/p/6f8d38247bd3) |
+| Mon, 24 Nov 2025 09:36:43 GMT | Transmitted AI with psychological awareness | GMM | [Read More](https://medium.com/p/c6369cce8b8f) |
 | Mon, 24 Nov 2025 09:32:44 GMT | Quantum Computing vs Encryption: The Upcoming Cybersecurity Revolution | Kumar Mohit | [Read More](https://medium.com/p/8b921455a824) |
 | Mon, 24 Nov 2025 09:30:18 GMT | ประจำวันจันทร์ที่ 24 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/3bb5e8c3dcd9) |
 | Mon, 24 Nov 2025 09:29:50 GMT | Powerful Managed IT Support for Chatswood Businesses | Any network | [Read More](https://medium.com/p/f43b588c8c4c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 03:32:07 GMT | Inside the “I Paid Twice” Scam: How Attackers Target Booking.com Hotels and Travelers | Deven Chhajed | [Read More](https://medium.com/p/5fa9d9380275) |
 | Mon, 24 Nov 2025 03:30:50 GMT | The Rise of Information Technology | Author! | [Read More](https://medium.com/p/305988e42e95) |
 | Mon, 24 Nov 2025 03:19:16 GMT | Business Logic Vulnerabilities in APIs | Jei Ess | [Read More](https://medium.com/p/a268d420e7d6) |
-| Mon, 24 Nov 2025 03:08:19 GMT | Whispers in the Void: Chasing Love Through Verse | Kushal Dhananjay Samant | [Read More](https://medium.com/p/b2f7ff958673) |
-| Mon, 24 Nov 2025 03:08:16 GMT | Automating With n8n: Multi-Source Threat Intel & News | 9purp0s3 - Steven | [Read More](https://medium.com/p/22565e7eb981) |
-| Mon, 24 Nov 2025 03:06:44 GMT | [paypal] #3438886: PayPal’s official internal sandbox REST API client ID leaked in production… | Christoscoming | [Read More](https://medium.com/p/139fdd1fc531) |
-| Mon, 24 Nov 2025 03:00:04 GMT | Portfolio Website Framework (FREE  to Use this base code for Your Imagination) | The Commoness | [Read More](https://medium.com/p/20864f75cf6e) |
-| Mon, 24 Nov 2025 02:56:16 GMT | Threat Intelligence Still Thinks It’s 1960s | Bader Alharbi | [Read More](https://medium.com/p/8f1a9dddeaab) |
-| Mon, 24 Nov 2025 02:45:22 GMT | The art of google dorking | 4osp3l | [Read More](https://medium.com/p/64b937f359b8) |
-| Mon, 24 Nov 2025 02:45:08 GMT | Strengthening Container Security | Yasith Piyumantha | [Read More](https://medium.com/p/2f2c453a0a8c) |
-| Mon, 24 Nov 2025 02:22:21 GMT | Padelify Writeup | 72o | [Read More](https://medium.com/p/6100380d5baa) |
-| Mon, 24 Nov 2025 02:13:28 GMT | The Unseen Guardian: How Usman Malook Sheffield Internet Security Provider is Fortifying the… | Visionontech | [Read More](https://medium.com/p/165c8da76d89) |
-| Mon, 24 Nov 2025 02:05:39 GMT | Best VPN for Smart TV in 2025 and 3 easy setup methods | Safelyo VPN | [Read More](https://medium.com/p/3221606fdd89) |
-| Mon, 24 Nov 2025 02:04:42 GMT | Favorite Things: Spaces That Allow Vulnerability | Ellice Engdahl | [Read More](https://medium.com/p/b1d06d47e983) |
-| Mon, 24 Nov 2025 02:03:24 GMT | “The Cost of Forgetting: Cloud’s Hard Truths and AI’s Coming Reality Check” | Joseph Stephens | [Read More](https://medium.com/p/66849a621e7d) |
-| Mon, 24 Nov 2025 01:44:38 GMT | The 5 Pillars of Ethical Hacking Explained | Shahzaib | [Read More](https://medium.com/p/7404f36a99aa) |
-| Mon, 24 Nov 2025 01:44:31 GMT | Your Digital Footprint Is Feeding ML Systems, Here’s What That Means | Hareem Fatima | [Read More](https://medium.com/p/eb2bdf44e945) |
