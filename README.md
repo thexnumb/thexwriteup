@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 19:29:24 GMT | Twitter just exposed my location (and probably yours too) | KeylognCoffee | [Read More](https://medium.com/p/667ef72fb835) |
+| Mon, 24 Nov 2025 19:26:25 GMT | AI Services by Ayamil Coders: Transforming Businesses with Intelligent Automation | Ayamil Coders | [Read More](https://medium.com/p/1c80d3cc4e7f) |
+| Mon, 24 Nov 2025 19:20:24 GMT | Chinese Hackers Use Anthropic’s AI to Launch Automated Cyber Espionage Campaign | Cybervolt | [Read More](https://medium.com/p/8941ac2c46ca) |
+| Mon, 24 Nov 2025 19:13:09 GMT | The Cognitive Firewall has Breached | PinkOSINT | [Read More](https://medium.com/p/cf17bdd796aa) |
+| Mon, 24 Nov 2025 19:09:07 GMT | Mobile Hacking Lab — TokenBleed | GlitchNox | [Read More](https://medium.com/p/c88348dbd58e) |
+| Mon, 24 Nov 2025 19:08:57 GMT | VulNyx War Writeup | CyberCraft | [Read More](https://medium.com/p/b18f3fff41c5) |
 | Mon, 24 Nov 2025 18:59:53 GMT | Password Entropy | Jan Skopal | [Read More](https://medium.com/p/58aed2f766eb) |
 | Mon, 24 Nov 2025 18:54:29 GMT | Soc level 1 Summit challenge walkthrough | Mercykiaritha | [Read More](https://medium.com/p/7909223aa175) |
 | Mon, 24 Nov 2025 18:50:22 GMT | ’Tis the Season to Not Be Compromised | Len Noe | [Read More](https://medium.com/p/62cd66f4a0b0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 14:33:28 GMT | How to Prevent Mass Assignment Vulnerability in Laravel | Karim Ashraf | [Read More](https://medium.com/p/3985e61ccbd5) |
 | Mon, 24 Nov 2025 14:31:55 GMT | Storms | Alizabeth Amelia Rose | [Read More](https://medium.com/p/38fc42a823e1) |
 | Mon, 24 Nov 2025 14:28:48 GMT | [New Feature] ZAST EXPRESS — Official Release | ZAST AI | [Read More](https://medium.com/p/5f3f36314adf) |
-| Mon, 24 Nov 2025 14:25:46 GMT | Building DDoS Sentinel Agent: A Multi-Agent AI Mesh for Aisuru-Scale Attacks | Oluwafemidiakhoa | [Read More](https://medium.com/p/e8e3e0086910) |
-| Mon, 24 Nov 2025 14:25:25 GMT | How Long Does It Take to Become an X-Ray Tech? Complete 2025 Guide | Motherlandlove | [Read More](https://medium.com/p/04b7d46afd7d) |
-| Mon, 24 Nov 2025 14:17:59 GMT | Cybersecurity building blocks — listed and explained: Threats, Vulnerabilities, Attacks, Risks &… | Nityananda | [Read More](https://medium.com/p/8505cc1f2a1e) |
-| Mon, 24 Nov 2025 14:13:04 GMT | The Cybersecurity Industry 2026 | Trillion Defense | [Read More](https://medium.com/p/0f410bcbc35f) |
-| Mon, 24 Nov 2025 14:13:02 GMT | HTB- Starting_Point Archetype | Aryan Kumar Soni | [Read More](https://medium.com/p/ddf736de8d9e) |
-| Mon, 24 Nov 2025 14:11:52 GMT | Windows Logon Fabric Correlation for SOC: Token Lineage, LUID Chains & Next-Hop Admin Risk | Sabri Chaabi | [Read More](https://medium.com/p/682b740596c9) |
