@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 20:44:46 GMT | Inside SailPoint Navigate London: Where Identity Security Meets Reality | Steve Anderson | [Read More](https://medium.com/p/cdf92bffdf09) |
 | Mon, 24 Nov 2025 20:32:50 GMT | Build Secure Login with 2FA — A Simple Node.js + MongoDB Implementation | om prakash | [Read More](https://medium.com/p/45f57b201af7) |
 | Mon, 24 Nov 2025 20:32:08 GMT | Save a Million Dollars on Your Security Budget with Threat Modeling | mohandika | [Read More](https://medium.com/p/440768227467) |
 | Mon, 24 Nov 2025 20:28:06 GMT | The Top 10 Web Vulnerabilities and the Tools Hackers Use to Exploit Them | Travis Ray Caverhill | [Read More](https://medium.com/p/076a3a7c77b1) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 15:11:31 GMT | How I Hacked an AI That Was Supposed to Be Hacking For Me ⚔️ | Iski | [Read More](https://medium.com/p/d4519e6a4d55) |
 | Mon, 24 Nov 2025 15:06:47 GMT | Fraud Has Always Been Part of Humanity; the Internet/AI Have Amplified and Made It Easier | Dr Mehmet Yildiz | [Read More](https://medium.com/p/f2bb7ee9d1e6) |
 | Mon, 24 Nov 2025 15:05:45 GMT | What if one the great plague of the century happen in a video game | Erwan LE TUTOUR | [Read More](https://medium.com/p/68efc672f5c1) |
-| Mon, 24 Nov 2025 15:05:38 GMT | SitusAMC Breach Exposes Systemic Weakness in Financial Supply-Chain Security | RealSec.io | [Read More](https://medium.com/p/a25d4fa7504e) |
