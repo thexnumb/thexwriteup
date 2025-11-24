@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 05:15:22 GMT | Are Cybersecurity Certifications More Valuable Than a Degree in India? | Appin Technology Lab | [Read More](https://medium.com/p/048ce9735874) |
+| Mon, 24 Nov 2025 05:12:25 GMT | Password-Protected Browser Launcher Using PowerShell. | CyberShield Insights | [Read More](https://medium.com/p/2901bc882cf2) |
+| Mon, 24 Nov 2025 05:09:31 GMT | Why is it important to learn Penetration Testing in Cyber Security? | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8cff661652b5) |
+| Mon, 24 Nov 2025 05:08:21 GMT | Law in the Age of Data — How Privacy and Cybersecurity are shaping the future of Legal Tech | LexTech Nexus | [Read More](https://medium.com/p/69dc3bcaa146) |
+| Mon, 24 Nov 2025 05:07:38 GMT | ANSWERING CRITICAL QUESTIONS ON FROTHLY’S ENVIRONMENT WITH SPLUNK. | Osho | [Read More](https://medium.com/p/50ff9c40f801) |
+| Mon, 24 Nov 2025 05:06:41 GMT | How Can Modern Security Tools Like DLP Software Strengthen Your Business Against Data Risks? | keyTrackr | [Read More](https://medium.com/p/968d08db2f7d) |
+| Mon, 24 Nov 2025 05:06:35 GMT | THM- Soupedecode 01 Writeup | cbev | [Read More](https://medium.com/p/b7b369592e9a) |
+| Mon, 24 Nov 2025 05:06:25 GMT | The Linux Concept Journey — Everything is a File | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bbb78ab0a3dd) |
+| Mon, 24 Nov 2025 04:50:28 GMT | Offensive Security and Ethical Hacking in 2026 | Yua Mikanana | [Read More](https://medium.com/p/c41087999c49) |
+| Mon, 24 Nov 2025 04:49:27 GMT | Malware That Writes Itself | Jason J Pulikkottil | [Read More](https://medium.com/p/52c02a48e047) |
 | Mon, 24 Nov 2025 04:47:52 GMT | How Vertex AI RAG Engine Simplifies Security Policy Grounding and Multi-Corpus Architecture | Alexander Tyutin | [Read More](https://medium.com/p/d20042339986) |
+| Mon, 24 Nov 2025 04:47:45 GMT | picoCTF – Super Serial Writeup (PHP Object Injection Explained Clearly) | p0nther | [Read More](https://medium.com/p/83201433389f) |
 | Mon, 24 Nov 2025 04:36:01 GMT | What happens when we stop asking AI to be perfect — and start asking it to be human? | Melinda - Quillway Travel | [Read More](https://medium.com/p/3a3a21ca53d4) |
 | Mon, 24 Nov 2025 04:31:43 GMT | Web Application Firewalls (WAF): The Silent Shield Protecting the Modern Web | Geeky Vartika | [Read More](https://medium.com/p/2a71ccebc52f) |
 | Mon, 24 Nov 2025 04:24:05 GMT | How the U.S. Cyber Defense Market Is Set to Reach USD 150.6 Billion by 2032 | Vijay Mishra | [Read More](https://medium.com/p/807e5a1ede3a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 18:59:32 GMT | Proving Grounds - Nagoya | jniket | [Read More](https://medium.com/p/8e2aa702556f) |
 | Sun, 23 Nov 2025 18:58:48 GMT | The One S3 Encryption Fix That Can Stop a Ransomware Nightmare | Pois0n84 | [Read More](https://medium.com/p/7a7c3dcd00fe) |
 | Sun, 23 Nov 2025 18:57:41 GMT | HackTheBox: Code Part II | Rahaliashraf | [Read More](https://medium.com/p/efb1eea077e2) |
-| Sun, 23 Nov 2025 18:57:31 GMT | Cloud-based access control: benefits, risks, and real-world use cases | Teona | [Read More](https://medium.com/p/586b288da728) |
-| Sun, 23 Nov 2025 18:48:09 GMT | ️ The Foundation of AI Security: Data Poisoning Attacks and Defense Strategies for Secure… | Lumae | [Read More](https://medium.com/p/83bb6f8bd0e5) |
-| Sun, 23 Nov 2025 18:46:47 GMT | Word Files as Chatbot Attack Vectors: Hidden Prompts & Zipbombs | Reinder Vos de Wael, Ph.D. | [Read More](https://medium.com/p/d1d2499413d6) |
-| Sun, 23 Nov 2025 18:42:58 GMT | Legal Person Identity First: The EBW as the Cornerstone of Europe’s Digital Sovereignty | Carsten Stöcker | [Read More](https://medium.com/p/a71b82f0c514) |
-| Sun, 23 Nov 2025 18:39:45 GMT | Software testing stages | Igor Berner | [Read More](https://medium.com/p/5ba3350a3d5c) |
-| Sun, 23 Nov 2025 18:39:12 GMT | Red Team Operations: Using Frida to Weaponize and Hide Processes | Lord Murak | [Read More](https://medium.com/p/92af11a104c4) |
-| Sun, 23 Nov 2025 18:33:27 GMT | What Is Metasploit? A Beginner’s Guide | Parvez_mosherraf | [Read More](https://medium.com/p/eac885501dbf) |
-| Sun, 23 Nov 2025 18:21:11 GMT | File Integrity Checker — FIM | Abdul Basit Khan | [Read More](https://medium.com/p/c1c4faf7bdfd) |
-| Sun, 23 Nov 2025 18:20:26 GMT | Week 17 — Understanding OAuth2: Authorization Code & Implicit Flows | Aang | [Read More](https://medium.com/p/b6bd857b8926) |
-| Sun, 23 Nov 2025 18:13:30 GMT | Kargonuz İçin Ödeme Bekleniyor… | Emir.K | [Read More](https://medium.com/p/ab449a4f1f2a) |
-| Sun, 23 Nov 2025 18:09:48 GMT | Cyber Crime Analysis: Android Banking Trojan “SharkBot” | rajasa. | [Read More](https://medium.com/p/660a85fcef12) |
