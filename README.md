@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 11:13:17 GMT | HTB - Cobblestone (Insane) | Raid Salim | [Read More](https://medium.com/p/ac1ca7271d7f) |
+| Mon, 24 Nov 2025 11:10:39 GMT | FORTIGATE GEÇİŞİ 01.07 Security Fabric, Automation Stitches and External Dynamic Lists | Ziya DENİZ | [Read More](https://medium.com/p/84bfab0ffb95) |
+| Mon, 24 Nov 2025 11:09:09 GMT | SMTP Open Relay Misconfiguration — Still Alive in 2025 | 3baset | [Read More](https://medium.com/p/b59cc101f852) |
+| Mon, 24 Nov 2025 11:09:01 GMT | CyberDefenders ShadowCitadel Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/7b350b5b156e) |
+| Mon, 24 Nov 2025 11:03:37 GMT | Top IT Infrastructure Management Services in India - Tailored Solutions | Samvaskaran | [Read More](https://medium.com/p/3bc55ddb1d96) |
+| Mon, 24 Nov 2025 11:03:34 GMT | Bring Your Enterprise Information Security Management System with GraphRAG to the Next Level | Graphwise | [Read More](https://medium.com/p/11e022d194a7) |
+| Mon, 24 Nov 2025 11:02:17 GMT | This Week in Resilience - November 24, 2025 | Sherilyn Burris | [Read More](https://medium.com/p/8d19d48869ba) |
+| Mon, 24 Nov 2025 10:57:17 GMT | Even Hackers Are Losing Their Jobs to AI Now | Deepak Chahal | [Read More](https://medium.com/p/358f03f1c643) |
+| Mon, 24 Nov 2025 10:56:03 GMT | What is Spyware? - VIIEGO | Rolando | [Read More](https://medium.com/p/2e67e0e4da28) |
+| Mon, 24 Nov 2025 10:52:40 GMT | Introducing Patchifi - Autonomous Endpoint Management | Saarahjabir | [Read More](https://medium.com/p/2b772d0f01fa) |
+| Mon, 24 Nov 2025 10:52:23 GMT | доверяй, но проверяй: The Analyst’s Guide to Intuition | dolphin.exe | [Read More](https://medium.com/p/4405fbcff0e2) |
+| Mon, 24 Nov 2025 10:51:57 GMT | Wireshark Crash Risk: Malformed Packets Expose Network Analyzer to Denial-of-Service | Jasmitha | [Read More](https://medium.com/p/335a48911761) |
+| Mon, 24 Nov 2025 10:50:34 GMT | Mapping Unemployment: Connecting Data to the Places That Serve Our Communities | Jasmin Barragan | [Read More](https://medium.com/p/00d2561f5e0d) |
+| Mon, 24 Nov 2025 10:45:20 GMT | How Eventus Security’s SOC Strengthens Cyber Resilience | Eventus Security Private Limited | [Read More](https://medium.com/p/c639da072fe4) |
+| Mon, 24 Nov 2025 10:42:32 GMT | How to Protect Your Privacy in 2026 — Beginner’s Guide to Cybersecurity | Hameedduke | [Read More](https://medium.com/p/154a047051c7) |
 | Mon, 24 Nov 2025 10:38:27 GMT | Why Partnering with a Professional Web Development Company Matters for Business Growth | Ava Jones | [Read More](https://medium.com/p/a6a14852df81) |
 | Mon, 24 Nov 2025 10:29:29 GMT | How to Make $500 to $1000 by Selling ONIST | Hackers Things | [Read More](https://medium.com/p/448802663d10) |
 | Mon, 24 Nov 2025 10:28:28 GMT | SOC level 1 MITRE room walkthrough | Mercykiaritha | [Read More](https://medium.com/p/ecd84ab1ab83) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 05:12:25 GMT | Password-Protected Browser Launcher Using PowerShell. | CyberShield Insights | [Read More](https://medium.com/p/2901bc882cf2) |
 | Mon, 24 Nov 2025 05:09:31 GMT | Why is it important to learn Penetration Testing in Cyber Security? | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8cff661652b5) |
 | Mon, 24 Nov 2025 05:08:21 GMT | Law in the Age of Data — How Privacy and Cybersecurity are shaping the future of Legal Tech | LexTech Nexus | [Read More](https://medium.com/p/69dc3bcaa146) |
-| Mon, 24 Nov 2025 05:07:38 GMT | ANSWERING CRITICAL QUESTIONS ON FROTHLY’S ENVIRONMENT WITH SPLUNK. | Osho | [Read More](https://medium.com/p/50ff9c40f801) |
-| Mon, 24 Nov 2025 05:06:41 GMT | How Can Modern Security Tools Like DLP Software Strengthen Your Business Against Data Risks? | keyTrackr | [Read More](https://medium.com/p/968d08db2f7d) |
-| Mon, 24 Nov 2025 05:06:35 GMT | THM- Soupedecode 01 Writeup | cbev | [Read More](https://medium.com/p/b7b369592e9a) |
-| Mon, 24 Nov 2025 05:06:25 GMT | The Linux Concept Journey — Everything is a File | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bbb78ab0a3dd) |
-| Mon, 24 Nov 2025 04:50:28 GMT | Offensive Security and Ethical Hacking in 2026 | Yua Mikanana | [Read More](https://medium.com/p/c41087999c49) |
-| Mon, 24 Nov 2025 04:49:27 GMT | Malware That Writes Itself | Jason J Pulikkottil | [Read More](https://medium.com/p/52c02a48e047) |
-| Mon, 24 Nov 2025 04:47:52 GMT | How Vertex AI RAG Engine Simplifies Security Policy Grounding and Multi-Corpus Architecture | Alexander Tyutin | [Read More](https://medium.com/p/d20042339986) |
-| Mon, 24 Nov 2025 04:47:45 GMT | picoCTF – Super Serial Writeup (PHP Object Injection Explained Clearly) | p0nther | [Read More](https://medium.com/p/83201433389f) |
-| Mon, 24 Nov 2025 04:36:01 GMT | What happens when we stop asking AI to be perfect — and start asking it to be human? | Melinda - Quillway Travel | [Read More](https://medium.com/p/3a3a21ca53d4) |
-| Mon, 24 Nov 2025 04:31:43 GMT | Web Application Firewalls (WAF): The Silent Shield Protecting the Modern Web | Geeky Vartika | [Read More](https://medium.com/p/2a71ccebc52f) |
-| Mon, 24 Nov 2025 04:24:05 GMT | How the U.S. Cyber Defense Market Is Set to Reach USD 150.6 Billion by 2032 | Vijay Mishra | [Read More](https://medium.com/p/807e5a1ede3a) |
-| Mon, 24 Nov 2025 04:16:16 GMT | Why Personal Cybersecurity Is the Missing Link in Business Defense | Victor Yan | [Read More](https://medium.com/p/8d6171200f10) |
-| Mon, 24 Nov 2025 04:12:05 GMT | Buffer OverflowAttack: A Common Software Vulnerability | PRAVEEN J | [Read More](https://medium.com/p/5477a8dc62b1) |
-| Mon, 24 Nov 2025 04:09:02 GMT | $600 Bounty: Stored XSS in Jira Service Desk Reports | Monika sharma | [Read More](https://medium.com/p/22bad0f8120d) |
-| Mon, 24 Nov 2025 04:07:45 GMT | Information Disclosure in Revive Adserver v6.0.0 | Monika sharma | [Read More](https://medium.com/p/1abad04b5199) |
