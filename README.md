@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 07:20:16 GMT | Table Bloat Problems in PostgreSQL — and the Only Practical Solution Every Team Eventually Learns | Rizqi Mulki | [Read More](https://medium.com/p/1bcad6a431f1) |
+| Mon, 24 Nov 2025 07:12:46 GMT | The Daily Tech Digest: 24 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f39974fe345f) |
+| Mon, 24 Nov 2025 07:11:50 GMT | Top Web Application Pentesting Tools — Your Go-To List for 2025 | Ankit Vaghamshi | [Read More](https://medium.com/p/4583ef7eab85) |
+| Mon, 24 Nov 2025 07:11:03 GMT | Real-Life Examples of Ethical Hacking Saving Companies. | Nahidoms | [Read More](https://medium.com/p/1e1c91d8f1f0) |
+| Mon, 24 Nov 2025 06:56:06 GMT | Nmap for SOC Analysts — A Practical, Real-World Guide | NineTales | [Read More](https://medium.com/p/216aa63935ce) |
+| Mon, 24 Nov 2025 06:55:40 GMT | Different Career Paths in Cyber Security and How to Get Started | Maruf Nabil | [Read More](https://medium.com/p/b7bf2f55c350) |
+| Mon, 24 Nov 2025 06:52:52 GMT | Droid wars have begun | Rohit Katiyar | [Read More](https://medium.com/p/71eedd0533f2) |
+| Mon, 24 Nov 2025 06:50:19 GMT | When a Checkbox Breaks Your Security: It Turned Into an XSS. | Vidhan Thakur | [Read More](https://medium.com/p/683f38577bb5) |
+| Mon, 24 Nov 2025 06:38:42 GMT | What Is Cloaking?-Cybersecurity | Soundaryaps | [Read More](https://medium.com/p/91acd379504f) |
+| Mon, 24 Nov 2025 06:36:36 GMT | WEEK 2 INTERNSHIP | Adeleke Theophilus O | [Read More](https://medium.com/p/12c966c549a1) |
+| Mon, 24 Nov 2025 06:36:36 GMT | The Growing Importance of Data Security Services in a Digitally Accelerated World | Devarshi Acharya | [Read More](https://medium.com/p/4d63d19482ba) |
 | Mon, 24 Nov 2025 06:28:15 GMT | Build a strong tech career with a diploma in cybersecurity in Bangalore. | RedTeamsaniga Suresh | [Read More](https://medium.com/p/18f69d9d8b3a) |
 | Mon, 24 Nov 2025 06:24:08 GMT | The Case: Seven Minutes on the Seine | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/937f086751a2) |
 | Mon, 24 Nov 2025 06:02:06 GMT | Chronicles of The Energy Maiguard | Omogoye Precious Deborah | [Read More](https://medium.com/p/00369e845d95) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 23 Nov 2025 21:49:43 GMT | SSDT Kernel Hooking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6bea100a654e) |
 | Sun, 23 Nov 2025 21:31:56 GMT | Como verificar as assinaturas do meu site | Adler Medrado | [Read More](https://medium.com/p/e4f74678fb48) |
 | Sun, 23 Nov 2025 21:12:06 GMT | I Followed One Simple Rule To Find Hidden Website Errors | Ibtissam | [Read More](https://medium.com/p/076d00f779e1) |
-| Sun, 23 Nov 2025 21:08:34 GMT | The secret rulebook behind every tap-and-go payment (Part 1) | Ryan Aminollahi | [Read More](https://medium.com/p/f47e53c8a696) |
-| Sun, 23 Nov 2025 21:02:02 GMT | Phishing for AWS Credentials via the New 'aws login' Flow | Adan | [Read More](https://medium.com/p/39f6969b4eae) |
-| Sun, 23 Nov 2025 20:47:50 GMT | AI Is Breaking Cybersecurity — The New Threat Reality CISOs Must Prepare For (2025–2026) | Jigarjoshi | [Read More](https://medium.com/p/7a1704e83af0) |
-| Sun, 23 Nov 2025 20:47:42 GMT | The Weirdest Bug I’ve Ever Found — Unpredictable 0-Click Account Takeover | Excessium | [Read More](https://medium.com/p/165c54fa81c7) |
-| Sun, 23 Nov 2025 20:46:01 GMT | How to Get Solved From the Social Media Account Takeover Problem | Liam | [Read More](https://medium.com/p/cce47a2589e4) |
-| Sun, 23 Nov 2025 20:37:37 GMT | Configuring Domain Controller to Perfrom Active Directory Attacks. | Muniza Badar | [Read More](https://medium.com/p/118107af5965) |
-| Sun, 23 Nov 2025 20:31:22 GMT | Moorbridge Cyber Security Cracks Major Crypto Theft Case Leveraging Advanced PT and Threat… | Manish Roshan @Coneberry.com | [Read More](https://medium.com/p/5882fdbdd520) |
-| Sun, 23 Nov 2025 20:30:36 GMT | The Discomfort of Being Seen | Thick Thoughts Blog | [Read More](https://medium.com/p/10b66f75e457) |
-| Sun, 23 Nov 2025 20:30:11 GMT | IPv4 Subnetleme Mantığını Öğrenirken Kendi /24–/32 Referans Tablomu Hazırladım | Tugce Didem Selek | [Read More](https://medium.com/p/ff5e170fee47) |
-| Sun, 23 Nov 2025 20:24:14 GMT | My First Two Bounties in Bug Bounty — Both Critical | Excessium | [Read More](https://medium.com/p/f8908376c4b4) |
-| Sun, 23 Nov 2025 20:15:55 GMT | Phase 2: Identity & Access Management + SDP Enforcement | Alex Wilcox | [Read More](https://medium.com/p/2528d705577c) |
