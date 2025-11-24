@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 24 Nov 2025 14:36:35 GMT | ✅ How to Create a Navi UPI Account & Link Bank Account (Step-by-Step Guide in English) | Yuvraj Singh | [Read More](https://medium.com/p/a62c05ec0e13) |
+| Mon, 24 Nov 2025 14:33:28 GMT | How to Prevent Mass Assignment Vulnerability in Laravel | Karim Ashraf | [Read More](https://medium.com/p/3985e61ccbd5) |
+| Mon, 24 Nov 2025 14:31:55 GMT | Storms | Alizabeth Amelia Rose | [Read More](https://medium.com/p/38fc42a823e1) |
+| Mon, 24 Nov 2025 14:28:48 GMT | [New Feature] ZAST EXPRESS — Official Release | ZAST AI | [Read More](https://medium.com/p/5f3f36314adf) |
+| Mon, 24 Nov 2025 14:25:46 GMT | Building DDoS Sentinel Agent: A Multi-Agent AI Mesh for Aisuru-Scale Attacks | Oluwafemidiakhoa | [Read More](https://medium.com/p/e8e3e0086910) |
+| Mon, 24 Nov 2025 14:25:25 GMT | How Long Does It Take to Become an X-Ray Tech? Complete 2025 Guide | Motherlandlove | [Read More](https://medium.com/p/04b7d46afd7d) |
 | Mon, 24 Nov 2025 14:17:59 GMT | Cybersecurity building blocks — listed and explained: Threats, Vulnerabilities, Attacks, Risks &… | Nityananda | [Read More](https://medium.com/p/8505cc1f2a1e) |
 | Mon, 24 Nov 2025 14:13:04 GMT | The Cybersecurity Industry 2026 | Trillion Defense | [Read More](https://medium.com/p/0f410bcbc35f) |
 | Mon, 24 Nov 2025 14:13:02 GMT | HTB- Starting_Point Archetype | Aryan Kumar Soni | [Read More](https://medium.com/p/ddf736de8d9e) |
@@ -22,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 13:56:42 GMT | AI-Powered Malicious Apps Using Advanced Obfuscation to Evade Antivirus Detection | Technijian | [Read More](https://medium.com/p/5527670bf668) |
 | Mon, 24 Nov 2025 13:52:52 GMT | How AI Is Supercharging Hacking as a Service in 2025 | Okewu Daniel | [Read More](https://medium.com/p/5141a4f61f2f) |
 | Mon, 24 Nov 2025 13:52:39 GMT | Do You Need a Degree to Be a Pharmacy Tech? Complete 2025 Guide | Motherlandlove | [Read More](https://medium.com/p/7b85b48e8f39) |
+| Mon, 24 Nov 2025 13:52:33 GMT | Do You Need a Degree to Be a Pharmacy Tech? Complete 2025 Guide | Motherlandlove | [Read More](https://medium.com/p/914fff394cd4) |
 | Mon, 24 Nov 2025 13:50:01 GMT | 2FA Broken Logic | Bash Overflow | [Read More](https://medium.com/p/145d08a294e2) |
 | Mon, 24 Nov 2025 13:44:08 GMT | How DNS Works: The Internet’s Invisible Phonebook (Explained with Examples) | Devaaravindlutukurty | [Read More](https://medium.com/p/aaab0c58aa95) |
 | Mon, 24 Nov 2025 13:44:03 GMT | Securing Existing APIs : A Reactive security Approach | Israel Aráoz Severiche | [Read More](https://medium.com/p/6615c8a7f8ec) |
@@ -30,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 13:40:43 GMT | Your Competitive Advantage is Dying: | Handvantage | [Read More](https://medium.com/p/9340807bdc83) |
 | Mon, 24 Nov 2025 13:38:43 GMT | Top 5 Udemy Courses for CISM Certification in 2026 (With Practice Tests) | javinpaul | [Read More](https://medium.com/p/3fbdf143264f) |
 | Mon, 24 Nov 2025 13:38:32 GMT | AI-Powered Recon: Using Gemini + Nmap for Automated Security Scans | Ammarcader | [Read More](https://medium.com/p/0b8eb19b15c4) |
+| Mon, 24 Nov 2025 13:28:01 GMT | Building India’s Largest Bug Bounty Platform & Revolutionizing VAPT with AI ft. | Cyber Unbound | [Read More](https://medium.com/p/882769151c7c) |
 | Mon, 24 Nov 2025 13:23:11 GMT | ⚡ 3 Tricks to Hunt Bug Faster: Stop Wasting Time, Finding Smartly | Abhishek meena | [Read More](https://medium.com/p/4d5648919aec) |
 | Mon, 24 Nov 2025 13:21:35 GMT | 20% Effort, 80% Protection: The Lazy Python Developer’s Guide to Bulletproof Code | Maikel Mardjan | [Read More](https://medium.com/p/d85aeca3151b) |
 | Mon, 24 Nov 2025 13:20:16 GMT | The Ethics of Hacking: Where Do We Draw the Line? | Shayoni Jahan | [Read More](https://medium.com/p/2c98e61707eb) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 09:36:43 GMT | Transmitted AI with psychological awareness | GMM | [Read More](https://medium.com/p/c6369cce8b8f) |
 | Mon, 24 Nov 2025 09:32:44 GMT | Quantum Computing vs Encryption: The Upcoming Cybersecurity Revolution | Kumar Mohit | [Read More](https://medium.com/p/8b921455a824) |
 | Mon, 24 Nov 2025 09:30:18 GMT | ประจำวันจันทร์ที่ 24 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/3bb5e8c3dcd9) |
-| Mon, 24 Nov 2025 09:29:50 GMT | Powerful Managed IT Support for Chatswood Businesses | Any network | [Read More](https://medium.com/p/f43b588c8c4c) |
-| Mon, 24 Nov 2025 09:22:46 GMT | PsExec ve Yanal Hareket İzleri: SIEM Loglarında Proaktif Tehdit Avcılığı (Threat Hunting) Kılavuzu | Buğra Enhar Elbir | [Read More](https://medium.com/p/891c439164e3) |
-| Mon, 24 Nov 2025 09:22:08 GMT | What is Next Gen Firewall | Terabyte Plus PLC. | [Read More](https://medium.com/p/4c09adafa6b9) |
-| Mon, 24 Nov 2025 09:12:34 GMT | The Phishing Game Just Changed: Introducing the Anti-Phishing Guardian Extension | Maxwell Onyeka | [Read More](https://medium.com/p/2b6fdb7cae9d) |
-| Mon, 24 Nov 2025 09:10:28 GMT | SaferWeb : A One-Stop URL Security Checker | Prateek Chaubey | [Read More](https://medium.com/p/f546de26d0af) |
-| Mon, 24 Nov 2025 09:08:41 GMT | As cyber threats grow in volume, sophistication, and impact, security teams across industries are… | Umangp | [Read More](https://medium.com/p/87242cd4994c) |
-| Mon, 24 Nov 2025 09:08:29 GMT | My OSCP+ Journey Through Try Harder Concept (Failed, Failed, then Passed) | Yoga Bayu Aji Pranawa | [Read More](https://medium.com/p/cb659649f519) |
-| Mon, 24 Nov 2025 09:05:25 GMT | Discover the Leading Ethical Hacking Academy in Bangalore and How It Shapes Experts | RedTeamsaniga Suresh | [Read More](https://medium.com/p/30ebe2813c5d) |
