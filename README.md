@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 07:44:32 GMT | Dridex — BTLO SecOps | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/e17e3931332f) |
 | Tue, 25 Nov 2025 07:35:02 GMT | Who is Andrew Grunstein: The Cyber Operator Who Slipped Into Dubai’s Crossfire | Wirestork | [Read More](https://medium.com/p/4a696f958d1a) |
 | Tue, 25 Nov 2025 07:31:46 GMT | Developers, Your Dependencies Are Lying to You!!! | cybrNK | [Read More](https://medium.com/p/e9bb6dae84ff) |
 | Tue, 25 Nov 2025 07:29:52 GMT | SIEM, EDR & XDR:WHY WE NEED THEM IN DIGITAL WORLD? | Habizat Abbasova | [Read More](https://medium.com/p/955f4fee019e) |
@@ -22,8 +23,10 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 07:02:12 GMT | THM - Padelify | Francesco Pastore | [Read More](https://medium.com/p/eb7028658f8f) |
 | Tue, 25 Nov 2025 06:59:51 GMT | OpenAI Warns ‘Vibe Coding’ Could Expose Enterprises to Silent Security Failures | Nanthakumar | [Read More](https://medium.com/p/7d39ecc49c9c) |
 | Tue, 25 Nov 2025 06:55:19 GMT | The Electromagnetic Spectrum is the one source that helps to spread all types of signals and… | Zahid X Ahmed | [Read More](https://medium.com/p/8fb8fbfc07ce) |
+| Tue, 25 Nov 2025 06:38:19 GMT | X’ New Country Location Feature Reverse Engineered, And How It Is Being Bypassed Already | Jan Kammerath | [Read More](https://medium.com/p/f8cbed92cac5) |
 | Tue, 25 Nov 2025 06:01:18 GMT | BankSmarter — CTF Walkthrough | Vashu Vats | [Read More](https://medium.com/p/6f5e0d866452) |
 | Tue, 25 Nov 2025 05:20:52 GMT | Amazon Alerts Users to Massive Account Hack Attempts — What You Must Do | Hameedduke | [Read More](https://medium.com/p/345e70abfe69) |
+| Tue, 25 Nov 2025 04:54:02 GMT | Why You Should Avoid Downloading Free Cracked Software | Ask IT Support | [Read More](https://medium.com/p/2863a7450d3a) |
 | Tue, 25 Nov 2025 04:46:37 GMT | Black Friday & Cyber Monday Cybersecurity Certification Deals 2025: The Ultimate Guide for Security… | Syed Izhar Ahmed | [Read More](https://medium.com/p/ce88fa57b3e4) |
 | Tue, 25 Nov 2025 04:46:20 GMT | Footprinting — Skills Assessment [Part 2] (2025) | Maksim Hayder | [Read More](https://medium.com/p/2bfaece43c62) |
 | Tue, 25 Nov 2025 04:33:06 GMT | Top Bugs That Actually Paid Bounties in 2025 | ProwlSec | [Read More](https://medium.com/p/871eb0874400) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 17:44:12 GMT | The Triad of Defense: How to Master Threats, Risks, and Vulnerabilities Like a Pro | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/4bff31c03866) |
 | Mon, 24 Nov 2025 17:43:34 GMT | My First Splunk Dashboard: A Beginner-Friendly Guide | 0verRida | [Read More](https://medium.com/p/6b0d7e28c7db) |
 | Mon, 24 Nov 2025 17:37:46 GMT | How Man-in-the-Middle Attacks Work | Aytboyev Bobur | [Read More](https://medium.com/p/e2afc7c8e452) |
-| Mon, 24 Nov 2025 17:33:28 GMT | I Thought Cyber Attacks Only Happened to Big Companies… Until It Happened to Me | Kadirijafar | [Read More](https://medium.com/p/e7b8051cf194) |
-| Mon, 24 Nov 2025 17:33:06 GMT | $$$ How I Discovered a Business Logic Vulnerability That Allowed Price Manipulation Through… | Zyad Ibrahim | [Read More](https://medium.com/p/59d4a8c36cea) |
-| Mon, 24 Nov 2025 17:31:28 GMT | Connecting Care for Value-Based Homeless Services | Nzinga Garvey, MBA | [Read More](https://medium.com/p/b8770c794f42) |
