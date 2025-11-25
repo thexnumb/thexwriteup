@@ -12,16 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 23:02:03 GMT | Zombie Processes: Dead Code That Still Haunts the System | Bervice | [Read More](https://medium.com/p/bd61cb46909c) |
+| Tue, 25 Nov 2025 22:51:56 GMT | Why McAfee Is More Than Just Antivirus in 2025 — Digital Security Explained | Antivirus Ninja | [Read More](https://medium.com/p/376c6e1283db) |
+| Tue, 25 Nov 2025 22:49:53 GMT | Once Upon A Digital School | O. J. Okpabi | [Read More](https://medium.com/p/2f8dd0f39972) |
+| Tue, 25 Nov 2025 22:48:19 GMT | Are You Protecting Your Business or Just Managing the Noise? | Pegasus Technology Solutions | [Read More](https://medium.com/p/288fc37ae82e) |
+| Tue, 25 Nov 2025 22:46:00 GMT | HTB Challenge: The Puppet Master | Ethan Walker | [Read More](https://medium.com/p/0ba27e3fad0d) |
+| Tue, 25 Nov 2025 22:45:43 GMT | What I Look for In a Cybersecurity Resume | Jbird | [Read More](https://medium.com/p/801f360e3c16) |
+| Tue, 25 Nov 2025 22:35:53 GMT | The Genesis Mission: A Manhattan Project for the AI Age | CCD-IS | [Read More](https://medium.com/p/fcdf33a381bd) |
+| Tue, 25 Nov 2025 22:34:04 GMT | Hacking NFC : Flipper Zero, Proxmark3 ou Android ? Le Guide du “Red Team” | RAPATT | [Read More](https://medium.com/p/e465d122730a) |
+| Tue, 25 Nov 2025 22:33:05 GMT | The Disappointment You Can’t Avoid | Ola | [Read More](https://medium.com/p/0944610a3df0) |
+| Tue, 25 Nov 2025 22:29:57 GMT | Cyber Threats Are Rising — And Aesthetic Clinics Must Treat Cybersecurity as Patient Safety | Truce Media | [Read More](https://medium.com/p/65e06d8a5f99) |
+| Tue, 25 Nov 2025 22:27:14 GMT | If You Aren’t Breaking Things, You’re Probably Not Learning | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b381b4ee9a96) |
 | Tue, 25 Nov 2025 22:17:47 GMT | Adding Checkin in Tor C2 Server — Part 4 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b9f88eb8d0f4) |
+| Tue, 25 Nov 2025 22:16:17 GMT | From Revolution to Radicalization: How the Arab Spring Transformed Europe’s Security Landscape | TDJRADIO1 | [Read More](https://medium.com/p/47c4f36388ef) |
 | Tue, 25 Nov 2025 22:15:56 GMT | Inside Toyota HackFesta 2025: My Dive into Automotive Cybersecurity | Krishna | [Read More](https://medium.com/p/9c021ca6f079) |
+| Tue, 25 Nov 2025 22:10:57 GMT | Part 1 The Morning Before | Sara Fitsgerald | [Read More](https://medium.com/p/9c3295ecf057) |
 | Tue, 25 Nov 2025 22:02:04 GMT | How I Found a Critical IDOR in a University System (and Why Ethical Hacking Matters) | j4k3l0ng | [Read More](https://medium.com/p/5eb7f2ffffba) |
+| Tue, 25 Nov 2025 21:53:45 GMT | Chinese representation at ASIS&T 2025 annual meeting | seal(theo)ry | [Read More](https://medium.com/p/976a15ec59d3) |
 | Tue, 25 Nov 2025 21:37:12 GMT | Beneficiation & Africa: A Cybersecurity, AI and Technology Perspective | Samuel Odekunle | [Read More](https://medium.com/p/cb0e3e456d8e) |
 | Tue, 25 Nov 2025 21:20:24 GMT | Why the U.S.-China AI Arms Race Is Entering a Critical New Phase | Frank Holmes | [Read More](https://medium.com/p/336bdee6e453) |
 | Tue, 25 Nov 2025 21:16:34 GMT | Are Malware Analysts Still Needed in 2025? | Geetanshaditya | [Read More](https://medium.com/p/1ef1493f9325) |
+| Tue, 25 Nov 2025 21:11:50 GMT | Protect Your Property with Professional Armed Security Guards in California | Salum Security | [Read More](https://medium.com/p/758412445803) |
 | Tue, 25 Nov 2025 21:02:36 GMT | How I Learned the Hard Way That OSINT Has Legal Boundaries | Sam Galope | [Read More](https://medium.com/p/e0478583cee4) |
 | Tue, 25 Nov 2025 20:46:44 GMT | I Work in Cybersecurity — And I Still Got Hacked | Liam | [Read More](https://medium.com/p/01fc0bb9c306) |
+| Tue, 25 Nov 2025 20:32:52 GMT | DevSecOps as a Service: Why In-House Security Is a 2025 Money Pit | Yash Batra | [Read More](https://medium.com/p/3e1771acfe6a) |
 | Tue, 25 Nov 2025 20:22:22 GMT | Back to AppSec Basics: A Journey of Reflection, Learning, and Clarity | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/da632f7fca24) |
 | Tue, 25 Nov 2025 20:20:42 GMT | When a Vendor Slip-Up Hits Thousands: What the Comcast Vendor Breach Reveals About Cybersecurity… | SECURE IT! | [Read More](https://medium.com/p/aee312c37d73) |
+| Tue, 25 Nov 2025 20:04:59 GMT | OpenAI Guardrails: Protecting AI Applications from Prompt Attacks | Vitaly Sem | [Read More](https://medium.com/p/8b1cc97f3989) |
+| Tue, 25 Nov 2025 19:55:27 GMT | Linux Doesn’t Have a Firewall — It Has Netfilter (The Real Packet Engine) | AlgoPoint | [Read More](https://medium.com/p/47a9099c018e) |
+| Tue, 25 Nov 2025 19:29:52 GMT | Spring Boot with Spring Security + JWT Authentication | dolly | [Read More](https://medium.com/p/3f5cbb94c238) |
+| Tue, 25 Nov 2025 19:25:36 GMT | Secret Black Friday Lifetime Deals 2025 (Stop Paying Subscriptions) | ByteSwift Digital pro | [Read More](https://medium.com/p/481338bcb7d5) |
 | Tue, 25 Nov 2025 19:10:28 GMT | Low-level logic flaw — PortSwigger Academy | Fatimahasan | [Read More](https://medium.com/p/c54efbffa4fd) |
 | Tue, 25 Nov 2025 19:07:20 GMT | Cybersecurity for Total Beginners: What You Really Need to Know First | Smith Adams | [Read More](https://medium.com/p/27ef6f1fd55d) |
 | Tue, 25 Nov 2025 19:05:15 GMT | CyberDefenders Midnight RDP Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/086e7cfb0d9a) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 13:08:55 GMT | Spring Boot Uygulamalarında Test Yazmaya Kısa Bir Giriş | Latest Software Developers | [Read More](https://medium.com/p/41817612bcb9) |
 | Tue, 25 Nov 2025 12:51:48 GMT | The 5 Node.js Input Mistakes Attackers Love — And How to Fix Them | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/cc42474e8a1d) |
 | Tue, 25 Nov 2025 12:41:20 GMT | Threat Assessment & Penetration Testing of the Fake Drug Verification Web App | Victor Shedrack | [Read More](https://medium.com/p/42ce2d1e5e43) |
-| Tue, 25 Nov 2025 12:37:22 GMT | What are Rootkits? - VIIEGO | Rolando | [Read More](https://medium.com/p/74c69a91a977) |
-| Tue, 25 Nov 2025 12:34:49 GMT | PatriotCTF 2025 — Connection Tester Web Challenge Write-Up | 0xScorpioN | [Read More](https://medium.com/p/618b272e26bd) |
-| Tue, 25 Nov 2025 12:19:29 GMT | Best Browser Extensions Useful for VAPT Beginners | VAPTify | [Read More](https://medium.com/p/921584e18322) |
-| Tue, 25 Nov 2025 12:15:40 GMT | MSSQL Enumeration Writeup — HTB Academy | Saqlain Naqvi | [Read More](https://medium.com/p/5a4c84f38a9a) |
-| Tue, 25 Nov 2025 12:15:22 GMT | 45 Days of Cybersecurity Days11–12 | Wandesrtech | [Read More](https://medium.com/p/377a8aad1758) |
-| Tue, 25 Nov 2025 12:09:40 GMT | Getting More from Burp Suite with LLMs | Andrey Pautov | [Read More](https://medium.com/p/fdd03cec343d) |
-| Tue, 25 Nov 2025 12:09:04 GMT | A Hidden Interpreter Inside Dyson’s Android App — Runtime Code Execution | probear | [Read More](https://medium.com/p/e6c24181c007) |
-| Tue, 25 Nov 2025 11:51:44 GMT | The Cybersecurity Marketplace of Fear | Wakeyo Tolera | [Read More](https://medium.com/p/7a7485ff7fa8) |
-| Tue, 25 Nov 2025 11:43:54 GMT | Digital Privacy & Surveillance: How Much Are We Really Willing to Sacrifice in a Hyper-Connected… | Aditya Srivastav | [Read More](https://medium.com/p/3276d81f401d) |
-| Tue, 25 Nov 2025 11:35:13 GMT | Pi-Fi Hacking: From Cracking to Hardening | Atindra Girish | [Read More](https://medium.com/p/76c8176bc675) |
-| Tue, 25 Nov 2025 11:27:46 GMT | HOW I Got My First Bug Bounty In Few Steps– $50 AUD for an HTML Injection | Sohambughunt | [Read More](https://medium.com/p/a6b40472fc76) |
-| Tue, 25 Nov 2025 11:27:03 GMT | API Security Certified Professional (ASCP) Exam Review | Tunahan TEKEOGLU | [Read More](https://medium.com/p/f221920a57f2) |
-| Tue, 25 Nov 2025 11:26:25 GMT | Inside the Shenzhen Silicon Hive: How China Quietly Took Over Your Electronics — A Hardware… | Aaronjjose | [Read More](https://medium.com/p/ceef803609b7) |
-| Tue, 25 Nov 2025 11:25:41 GMT | How To Exploits Public Wi-Fi - Hire Hacker | BlackHat | [Read More](https://medium.com/p/a056449aa6c1) |
-| Tue, 25 Nov 2025 11:23:06 GMT | Dark Side of Bug Bounty Programs. STOP WASTING TIME TO REPORT AND EXPOSE #CyberKalki | Christoscoming | [Read More](https://medium.com/p/4be59810a112) |
-| Tue, 25 Nov 2025 11:22:57 GMT | The Evolution of Ethical Hacking: From Curiosity to Cybersecurity — NareshIT | Naresh I Technologies | [Read More](https://medium.com/p/99f6c6aac2b9) |
-| Tue, 25 Nov 2025 11:14:13 GMT | The Security Researcher’s Guide to Mathematics | Bernhard Mueller | [Read More](https://medium.com/p/000dc0c98a0f) |
-| Tue, 25 Nov 2025 11:13:17 GMT | Top 10 Cybersecurity Companies in India — Leading the Future of Digital Protection | Prakash Factosecure | [Read More](https://medium.com/p/c903bf45bc80) |
-| Tue, 25 Nov 2025 11:08:44 GMT | How I Passed the CISA Exam on My First Attempt | Sotrinakko | [Read More](https://medium.com/p/7a5b915a33c0) |
-| Tue, 25 Nov 2025 11:06:20 GMT | DockerLabs Writeup — Sites (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f567e2dcb4e8) |
