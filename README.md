@@ -22,6 +22,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 11:43:54 GMT | Digital Privacy & Surveillance: How Much Are We Really Willing to Sacrifice in a Hyper-Connected… | Aditya Srivastav | [Read More](https://medium.com/p/3276d81f401d) |
 | Tue, 25 Nov 2025 11:26:25 GMT | Inside the Shenzhen Silicon Hive: How China Quietly Took Over Your Electronics — A Hardware… | Aaronjjose | [Read More](https://medium.com/p/ceef803609b7) |
 | Tue, 25 Nov 2025 11:25:41 GMT | How To Exploits Public Wi-Fi - Hire Hacker | BlackHat | [Read More](https://medium.com/p/a056449aa6c1) |
+| Tue, 25 Nov 2025 11:23:06 GMT | Dark Side of Bug Bounty Programs. STOP WASTING TIME TO REPORT AND EXPOSE #CyberKalki | Christoscoming | [Read More](https://medium.com/p/4be59810a112) |
 | Tue, 25 Nov 2025 11:14:13 GMT | The Security Researcher’s Guide to Mathematics | Bernhard Mueller | [Read More](https://medium.com/p/000dc0c98a0f) |
 | Tue, 25 Nov 2025 11:13:17 GMT | Top 10 Cybersecurity Companies in India — Leading the Future of Digital Protection | Prakash Factosecure | [Read More](https://medium.com/p/c903bf45bc80) |
 | Tue, 25 Nov 2025 11:02:04 GMT | Detected in 60 Seconds: How to Identify Phishing with a Malware Sandbox | ANY.RUN | [Read More](https://medium.com/p/c69094d92519) |
@@ -55,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 08:02:03 GMT | Why Engineers Pretend They Don’t Know About Privileged Access Controls and Regulations | Steve Anderson | [Read More](https://medium.com/p/7ac374adb32c) |
 | Tue, 25 Nov 2025 07:44:32 GMT | Dridex — BTLO SecOps | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/e17e3931332f) |
 | Tue, 25 Nov 2025 07:35:02 GMT | Who is Andrew Grunstein: The Cyber Operator Who Slipped Into Dubai’s Crossfire | Wirestork | [Read More](https://medium.com/p/4a696f958d1a) |
+| Tue, 25 Nov 2025 07:32:27 GMT | SvelteKit at Scale: SSR, Islands & Cache Hydration | Nexumo | [Read More](https://medium.com/p/9bfa2fdc85a8) |
 | Tue, 25 Nov 2025 07:31:46 GMT | Developers, Your Dependencies Are Lying to You!!! | cybrNK | [Read More](https://medium.com/p/e9bb6dae84ff) |
 | Tue, 25 Nov 2025 07:29:52 GMT | SIEM, EDR & XDR:WHY WE NEED THEM IN DIGITAL WORLD? | Habizat Abbasova | [Read More](https://medium.com/p/955f4fee019e) |
 | Tue, 25 Nov 2025 07:25:42 GMT | How to Lock Your Files with Military-Grade Encryption | Frost | [Read More](https://medium.com/p/395509856ff8) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 21:18:15 GMT | Write up Forged [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/79217c784dc7) |
 | Mon, 24 Nov 2025 20:53:56 GMT | El Ojo que Todo lo Ve: Construyendo mi propio SOC con Wazuh | FeCeSociety | [Read More](https://medium.com/p/bab146a142cd) |
 | Mon, 24 Nov 2025 20:44:46 GMT | Inside SailPoint Navigate London: Where Identity Security Meets Reality | Steve Anderson | [Read More](https://medium.com/p/cdf92bffdf09) |
-| Mon, 24 Nov 2025 20:32:50 GMT | Build Secure Login with 2FA — A Simple Node.js + MongoDB Implementation | om prakash | [Read More](https://medium.com/p/45f57b201af7) |
-| Mon, 24 Nov 2025 20:32:08 GMT | Save a Million Dollars on Your Security Budget with Threat Modeling | mohandika | [Read More](https://medium.com/p/440768227467) |
