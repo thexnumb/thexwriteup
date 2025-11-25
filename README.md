@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 20:46:44 GMT | I Work in Cybersecurity — And I Still Got Hacked | Liam | [Read More](https://medium.com/p/01fc0bb9c306) |
 | Tue, 25 Nov 2025 20:22:22 GMT | Back to AppSec Basics: A Journey of Reflection, Learning, and Clarity | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/da632f7fca24) |
 | Tue, 25 Nov 2025 19:10:28 GMT | Low-level logic flaw — PortSwigger Academy | Fatimahasan | [Read More](https://medium.com/p/c54efbffa4fd) |
 | Tue, 25 Nov 2025 19:07:20 GMT | Cybersecurity for Total Beginners: What You Really Need to Know First | Smith Adams | [Read More](https://medium.com/p/27ef6f1fd55d) |
@@ -21,6 +22,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 18:44:11 GMT | MCP: The Single Brain of a Digital Nervous System | David SEHYEON Baek | [Read More](https://medium.com/p/703629a63b99) |
 | Tue, 25 Nov 2025 18:10:35 GMT | Information Security Therapy #2-Όλα όσα (νομίζουμε ότι) ξέρουμε. | Elena Sarimichailidou | [Read More](https://medium.com/p/5f82659a98cd) |
 | Tue, 25 Nov 2025 18:02:15 GMT | Flutter Security: Best Practices Every Developer Should Follow in 2025 | Umakaran Ampigaipagan | [Read More](https://medium.com/p/1637257ebe96) |
+| Tue, 25 Nov 2025 18:02:15 GMT | PicoCTF Writeup: information | SoBatista | [Read More](https://medium.com/p/0f0ac53ccbf6) |
 | Tue, 25 Nov 2025 18:00:26 GMT | ⚙️ How to Set Up and Harden a New Ubuntu 24.04 Server | Paul Hoke | [Read More](https://medium.com/p/1929ac72161f) |
 | Tue, 25 Nov 2025 17:59:48 GMT | Coper/Octo Android Trojan Analysis: From Dropper to Decrypted C2 List | circuitghost | [Read More](https://medium.com/p/532d0bf1aec2) |
 | Tue, 25 Nov 2025 17:55:22 GMT | Your Blue Team is Incomplete Without Dark Web Monitoring — How I Found a Bug in Criminal Chatter… | Iski | [Read More](https://medium.com/p/7ce363b69733) |
@@ -53,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 16:08:01 GMT | Rust’s Complexity Is Its Next Security Threat | Adonis | [Read More](https://medium.com/p/ca6afce5da96) |
 | Tue, 25 Nov 2025 16:02:06 GMT | Episode 11: “The Resolver’s Gambit” | Dr. House In I.T. | [Read More](https://medium.com/p/11f8a3b8609a) |
 | Tue, 25 Nov 2025 15:53:33 GMT | Template meeting minutes | Cait Graaf | [Read More](https://medium.com/p/d6d96169c0eb) |
+| Tue, 25 Nov 2025 15:49:40 GMT | [Ethernaut] 5. Token | Jiseop Shin | [Read More](https://medium.com/p/6dcd7b60906c) |
 | Tue, 25 Nov 2025 15:47:25 GMT | Seccomp Filters Optimization Strategies on Linux | Linux Guide | [Read More](https://medium.com/p/fbda31875a4e) |
 | Tue, 25 Nov 2025 15:47:06 GMT | Security and Performance Aspects of IRQ Affinity Optimization | Linux Guide | [Read More](https://medium.com/p/c41eaf17bdb2) |
 | Tue, 25 Nov 2025 15:43:30 GMT | Zero-Touch Deployment Explained: Technical Guide for MSPs and IT Teams | Ron | [Read More](https://medium.com/p/ab5feebba040) |
@@ -63,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 15:26:31 GMT | Building Secure APIs from Day One | Israel Aráoz Severiche | [Read More](https://medium.com/p/6ab6b990fe71) |
 | Tue, 25 Nov 2025 15:22:47 GMT | The Cybersecurity Jobs That AI Will Kill — And the Ones That Will Survive | Cybervolt | [Read More](https://medium.com/p/3424a2908501) |
 | Tue, 25 Nov 2025 15:16:23 GMT | Jarkom : User Management & Hotspot | Yasa Wijaya | [Read More](https://medium.com/p/c34b1478478d) |
+| Tue, 25 Nov 2025 15:06:34 GMT | “The $20,000 Copy-Paste Mistake: When HackerOne Hacked Itself” | Aman Sharma | [Read More](https://medium.com/p/d7addc3efdec) |
 | Tue, 25 Nov 2025 15:03:55 GMT | Cyber Briefing: 2025.11.25 | CyberMaterial | [Read More](https://medium.com/p/ae0a548cd5d5) |
 | Tue, 25 Nov 2025 14:54:13 GMT | PWNLAB-INIT WALKTHROUGH | Gardash Aliyev | [Read More](https://medium.com/p/0ec015e5b7d3) |
 | Tue, 25 Nov 2025 14:53:24 GMT | In a World Full of Vulnerabilities, OWASP Is the Map | farshad moradi shahrbabak | [Read More](https://medium.com/p/fbe8845faea4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 10:35:07 GMT | Dark Web Email Scan for Complete Online Safety Guide | DeXpose | [Read More](https://medium.com/p/2df24013a188) |
 | Tue, 25 Nov 2025 10:26:26 GMT | Cybersecurity Case Study: The 2025 Louvre Heist (Seven Minutes on the Seine) | Mr.Cool | [Read More](https://medium.com/p/34abc44f9eb4) |
 | Tue, 25 Nov 2025 10:19:32 GMT | Intigriti Challenge 1125 Write-Up — SSTI → RCE → Flag Extraction. | ALi MostaFa | [Read More](https://medium.com/p/e48b724c4cb1) |
-| Tue, 25 Nov 2025 10:02:33 GMT | The Architecture of Trust How I’m Designing Systems That Respect Users | CYBER CYMRU | [Read More](https://medium.com/p/4aa0e80b7e39) |
-| Tue, 25 Nov 2025 10:00:55 GMT | Top VAPT Testing Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/18c0fd97a078) |
-| Tue, 25 Nov 2025 09:54:37 GMT | Intigriti Monthly Challenge writeup JWT Abuse → Admin Panel → SSTI → RCE → Flag | TheCzar | [Read More](https://medium.com/p/9879494d8e00) |
-| Tue, 25 Nov 2025 09:35:05 GMT | PROJETO mini-lab: Monitoramento com WAZUH >XORDDoS no Honeypot< | EduKayky | [Read More](https://medium.com/p/e35c650838ba) |
