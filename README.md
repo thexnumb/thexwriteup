@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 09:35:05 GMT | PROJETO mini-lab: Monitoramento com WAZUH >XORDDoS no Honeypot< | EduKayky | [Read More](https://medium.com/p/e35c650838ba) |
+| Tue, 25 Nov 2025 09:26:28 GMT | How a Cybersecurity Dashboard Transforms Risk Management and Visibility | Sophia Pearson | [Read More](https://medium.com/p/26416a5ee619) |
 | Tue, 25 Nov 2025 09:25:55 GMT | SQL Injection: Retrieving Multiple Values in a Single Column | Aditya Bhatt | [Read More](https://medium.com/p/b2a8f048f422) |
 | Tue, 25 Nov 2025 09:17:27 GMT | The Security Paradox The More You Invest, the More Vulnerable You Might Feel | Fook Hwa Tan | [Read More](https://medium.com/p/9c1b0e988d34) |
 | Tue, 25 Nov 2025 09:15:55 GMT | It’s Time to Democratize Cybersecurity in Your Org | Fook Hwa Tan | [Read More](https://medium.com/p/66fdad0b0568) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 18:27:35 GMT | Advanced Dashboard Design for SIEM: The Art of Turning Data into Meaningful Action | Esra Kayhan | [Read More](https://medium.com/p/ca3a48afd4cf) |
 | Mon, 24 Nov 2025 18:27:09 GMT | Why I Created the Cybersecurity Side-Hustle Blueprint — And Priced It More Than My Other Courses | Taimur Ijlal | [Read More](https://medium.com/p/6aaf73f655c6) |
 | Mon, 24 Nov 2025 18:22:54 GMT | PHP for Pentesters — Day 4 | Bazil Brohi | [Read More](https://medium.com/p/8387bbb7dbe7) |
-| Mon, 24 Nov 2025 18:20:02 GMT | The Bible of Breaking Things: The Definitive Analysis of “The Web Application Hacker’s Handbook” | Amrik  Hanjra | [Read More](https://medium.com/p/b9a6e3e6488b) |
-| Mon, 24 Nov 2025 18:18:13 GMT | Building an IVR Testing Strategy Aligned with Business KPIs | TestFyra | [Read More](https://medium.com/p/07fa61240730) |
