@@ -12,14 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 06:01:18 GMT | BankSmarter — CTF Walkthrough | Vashu Vats | [Read More](https://medium.com/p/6f5e0d866452) |
+| Tue, 25 Nov 2025 05:20:52 GMT | Amazon Alerts Users to Massive Account Hack Attempts — What You Must Do | Hameedduke | [Read More](https://medium.com/p/345e70abfe69) |
+| Tue, 25 Nov 2025 04:46:20 GMT | Footprinting — Skills Assessment [Part 2] (2025) | Maksim Hayder | [Read More](https://medium.com/p/2bfaece43c62) |
+| Tue, 25 Nov 2025 04:33:06 GMT | Top Bugs That Actually Paid Bounties in 2025 | ProwlSec | [Read More](https://medium.com/p/871eb0874400) |
 | Tue, 25 Nov 2025 03:47:34 GMT | I Passed The OSCP On My First Attempt | Vladimir Cuc | [Read More](https://medium.com/p/24882ce506a3) |
 | Tue, 25 Nov 2025 03:32:03 GMT | 4. Engineering Dynamic Forms: Zod Validation and React Hook Form Integration | Kalhara Perera | [Read More](https://medium.com/p/4f02658e27d1) |
 | Tue, 25 Nov 2025 03:12:55 GMT | Secure Your Home with Custom Gates Rockingham Residents Trust | Rockinghomesecurity | [Read More](https://medium.com/p/19d00ce378ef) |
 | Tue, 25 Nov 2025 02:10:37 GMT | ❄️SnowflakeTag-Based Masking Policies with entitlement table implementation | Abhijit Bangal | [Read More](https://medium.com/p/83bd2feef502) |
 | Tue, 25 Nov 2025 01:32:12 GMT | Safe-by-Design n8n for SaaS: Multi-Tenant Automation That Scales | Syntal | [Read More](https://medium.com/p/007b0bb63734) |
 | Tue, 25 Nov 2025 01:06:06 GMT | A Decade in Cybersecurity: Lessons I Wish Someone Told Me Earlier | Jbird | [Read More](https://medium.com/p/b963c1594bf8) |
+| Tue, 25 Nov 2025 01:00:37 GMT | Day 7 in My Red Teaming Journey: Exploring Windows Services & Real-World Attack Paths | samurai | [Read More](https://medium.com/p/83b3ebc8a67a) |
 | Tue, 25 Nov 2025 00:39:36 GMT | Why Small Healthcare Companies Struggle With Security Rules, And What They Often Overlook | Faustin Mark (Admindr) | [Read More](https://medium.com/p/35c83c8ab195) |
 | Tue, 25 Nov 2025 00:32:25 GMT | Credentials in Network Shares: The Gift That Keeps on Giving | Cybersecurity Simplified | [Read More](https://medium.com/p/e0dfd809251c) |
+| Tue, 25 Nov 2025 00:02:04 GMT | API4:2023 — Unrestricted Resource Consumption (URC): Ataques de Denegación de Servicio Mediante… | JPablo13 | [Read More](https://medium.com/p/ef4ed690f1ff) |
 | Mon, 24 Nov 2025 23:32:25 GMT | PKCE + Refresh Rotation, Simulated Correctly | Bytecraft | [Read More](https://medium.com/p/f60898acf91d) |
 | Mon, 24 Nov 2025 23:26:29 GMT | Thirty Years of the Same Mistake | Igor Melnyk | [Read More](https://medium.com/p/b0ebc7ac5756) |
 | Mon, 24 Nov 2025 23:09:43 GMT | LockBit Ransomware - LetsDefend Challenge Write-Up | Krono | [Read More](https://medium.com/p/98cf94454084) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 16:43:22 GMT | Dr. Wemakor Calls for Stronger CSO Collaboration to Bolster Peace and Security at WACS Week 2025 | Joseph Wemakor | [Read More](https://medium.com/p/05b6e73c2f7c) |
 | Mon, 24 Nov 2025 16:42:00 GMT | What Really Happens in the 2 Seconds Between Scanning QR and ‘Payment Successful’? | Rohan Mistry | [Read More](https://medium.com/p/e4ddd84eafc5) |
 | Mon, 24 Nov 2025 16:41:45 GMT | Praktikum Internet of Things (Tugas): Kontrol Relay Melalui Internet | Muhammad Surya Saputro | [Read More](https://medium.com/p/8a49e6a5bd15) |
-| Mon, 24 Nov 2025 16:41:45 GMT | Strengthening Identity for a Safer Digital Enterprise | Dr. Shashi Karhail | [Read More](https://medium.com/p/3000eb79bbb8) |
-| Mon, 24 Nov 2025 16:41:27 GMT | Praktikum Internet of Things: Kontrol Relay melalui Internet | Muhammad Surya Saputro | [Read More](https://medium.com/p/edfebb8d7341) |
-| Mon, 24 Nov 2025 16:41:13 GMT | ‍☠️ PIRATE-Transcribe: A Real-Time Audio Intelligence Tool Built with Python | Hemanth Mouli.ch | [Read More](https://medium.com/p/83d7647f4241) |
-| Mon, 24 Nov 2025 16:40:40 GMT | 30 Days of Red Team: Day 9 — Linux Persistence Techniques (Surviving in Unix Territory) | Maxwell Cross | [Read More](https://medium.com/p/d654252c61c5) |
-| Mon, 24 Nov 2025 16:40:37 GMT | 2026 is the year of AI-powered attacks. Here’s the evidence - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/9ee36247b50b) |
-| Mon, 24 Nov 2025 16:40:00 GMT | Workflow: speed up visual web based external exposure recon. | biero llagas | [Read More](https://medium.com/p/18529ac7c749) |
