@@ -12,17 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 17:46:24 GMT | How a Desktop App Leaked All Customer Data Through an Insecure Email Gateway Integration | RIO | [Read More](https://medium.com/p/b2243b723a2e) |
+| Tue, 25 Nov 2025 16:15:45 GMT | Critical W3 Total Cache Vulnerability Exposes Over 1 Million WordPress Sites to Remote Code… | Technijian | [Read More](https://medium.com/p/eb138f828348) |
 | Tue, 25 Nov 2025 15:43:30 GMT | Zero-Touch Deployment Explained: Technical Guide for MSPs and IT Teams | Ron | [Read More](https://medium.com/p/ab5feebba040) |
 | Tue, 25 Nov 2025 15:30:45 GMT | I Exposed Carding Operations Exploiting Stripe’s payment gateway - Merchants API CC CHECKER… | Christoscoming | [Read More](https://medium.com/p/191bc0a1df6b) |
 | Tue, 25 Nov 2025 15:26:31 GMT | Building Secure APIs from Day One | Israel Aráoz Severiche | [Read More](https://medium.com/p/6ab6b990fe71) |
 | Tue, 25 Nov 2025 15:03:55 GMT | Cyber Briefing: 2025.11.25 | CyberMaterial | [Read More](https://medium.com/p/ae0a548cd5d5) |
 | Tue, 25 Nov 2025 14:46:54 GMT | Vulnerability Assessment and Exploitation: Leveraging GVM, Nmap, and RSH for Complete Host… | Kiza | [Read More](https://medium.com/p/6d09a12ea5df) |
+| Tue, 25 Nov 2025 14:45:51 GMT | Exploiting an IDOR to Claim Unavailable Free Gifts | Parth Narula | [Read More](https://medium.com/p/9a1ff645913d) |
 | Tue, 25 Nov 2025 13:41:24 GMT | Inside a Hacker’s Mind: How Cybercriminals Choose Their Targets | Digital Defense | [Read More](https://medium.com/p/8fc048605c41) |
+| Tue, 25 Nov 2025 13:32:06 GMT | Red Team Engagement — Windows Server 2019 CTF Challenge (Part-02) | Sachin Sir | [Read More](https://medium.com/p/e38e288357de) |
 | Tue, 25 Nov 2025 13:30:36 GMT | What is Kali Linux ? History of Kali Linux | Surajbaishya | [Read More](https://medium.com/p/e96693a6c929) |
 | Tue, 25 Nov 2025 13:13:53 GMT | Broken brute-force protection (IP block) — Writeup | Songül Kızılay Özügürler | [Read More](https://medium.com/p/cd48d5f17770) |
 | Tue, 25 Nov 2025 12:37:22 GMT | What are Rootkits? - VIIEGO | Rolando | [Read More](https://medium.com/p/74c69a91a977) |
 | Tue, 25 Nov 2025 12:19:29 GMT | Best Browser Extensions Useful for VAPT Beginners | VAPTify | [Read More](https://medium.com/p/921584e18322) |
 | Tue, 25 Nov 2025 12:15:40 GMT | MSSQL Enumeration Writeup — HTB Academy | Saqlain Naqvi | [Read More](https://medium.com/p/5a4c84f38a9a) |
+| Tue, 25 Nov 2025 12:09:04 GMT | A Hidden Interpreter Inside Dyson’s Android App — Runtime Code Execution | probear | [Read More](https://medium.com/p/e6c24181c007) |
 | Tue, 25 Nov 2025 11:51:44 GMT | The Cybersecurity Marketplace of Fear | Wakeyo Tolera | [Read More](https://medium.com/p/7a7485ff7fa8) |
 | Tue, 25 Nov 2025 11:43:54 GMT | Digital Privacy & Surveillance: How Much Are We Really Willing to Sacrifice in a Hyper-Connected… | Aditya Srivastav | [Read More](https://medium.com/p/3276d81f401d) |
 | Tue, 25 Nov 2025 11:27:46 GMT | HOW I Got My First Bug Bounty In Few Steps– $50 AUD for an HTML Injection | Sohambughunt | [Read More](https://medium.com/p/a6b40472fc76) |
@@ -32,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 11:14:13 GMT | The Security Researcher’s Guide to Mathematics | Bernhard Mueller | [Read More](https://medium.com/p/000dc0c98a0f) |
 | Tue, 25 Nov 2025 11:13:17 GMT | Top 10 Cybersecurity Companies in India — Leading the Future of Digital Protection | Prakash Factosecure | [Read More](https://medium.com/p/c903bf45bc80) |
 | Tue, 25 Nov 2025 11:08:44 GMT | How I Passed the CISA Exam on My First Attempt | Sotrinakko | [Read More](https://medium.com/p/7a5b915a33c0) |
+| Tue, 25 Nov 2025 11:06:20 GMT | DockerLabs Writeup — Sites (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f567e2dcb4e8) |
 | Tue, 25 Nov 2025 11:02:04 GMT | Detected in 60 Seconds: How to Identify Phishing with a Malware Sandbox | ANY.RUN | [Read More](https://medium.com/p/c69094d92519) |
 | Tue, 25 Nov 2025 11:01:27 GMT | Ethical Hacking Tools Taught in craw security for Non-Technical Students | Manisha Chaudhary | [Read More](https://medium.com/p/22bc55167c72) |
 | Tue, 25 Nov 2025 10:58:58 GMT | TryHackme Corridor Writeup | Nusret Onur | [Read More](https://medium.com/p/82d5e3a26bde) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 22:53:32 GMT | SQL Chapter 35 : Cybersecurity Log Data Analysis | Rahul Mishra(AI Engineer) | [Read More](https://medium.com/p/23ceb58362d6) |
 | Mon, 24 Nov 2025 22:50:31 GMT | Java 25: The Veteran That Stays Young — And Why Many Companies Are Still Living in 2014 | Luan Baleeiro | [Read More](https://medium.com/p/ee2ad10a88d9) |
 | Mon, 24 Nov 2025 22:45:41 GMT | Wazuh Guide in Detail | CybeCloud | [Read More](https://medium.com/p/525016024836) |
-| Mon, 24 Nov 2025 22:42:42 GMT | Cybersecurity Paralysis, When the Cyber Brain of the Organization Breaks | Juan Pablo Castro | [Read More](https://medium.com/p/3f4d03c3ff2b) |
-| Mon, 24 Nov 2025 22:37:02 GMT | Two Birds, One Stone: Why Choose a Cybersecurity Diploma That Prepares You for Your CompTIA… | Danish Ahmad | [Read More](https://medium.com/p/d8344ff29ef0) |
-| Mon, 24 Nov 2025 22:25:18 GMT | PickleBall: Secure Deserialization of Pickle-based Machine Learning Models | James Davis | [Read More](https://medium.com/p/a089113e6b0f) |
-| Mon, 24 Nov 2025 22:17:19 GMT | Top Emerging Cyber Threats That Only AI Can Catch | Cybamatica | [Read More](https://medium.com/p/bfb611c49503) |
-| Mon, 24 Nov 2025 22:16:46 GMT | Recover Lost Cryptocurrency Through Optimistic Hacker Gaius. | Jacobalexander | [Read More](https://medium.com/p/60452770f2b4) |
-| Mon, 24 Nov 2025 22:12:16 GMT | AI-Written Code: The 5 Critical Security Checkpoints No Team Can Ignore | Cyber-AppSec | [Read More](https://medium.com/p/056b24170bb6) |
