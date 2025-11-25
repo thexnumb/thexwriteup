@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 15:30:45 GMT | I Exposed Carding Operations Exploiting Stripe’s payment gateway - Merchants API CC CHECKER… | Christoscoming | [Read More](https://medium.com/p/191bc0a1df6b) |
 | Tue, 25 Nov 2025 13:41:24 GMT | Inside a Hacker’s Mind: How Cybercriminals Choose Their Targets | Digital Defense | [Read More](https://medium.com/p/8fc048605c41) |
 | Tue, 25 Nov 2025 13:30:36 GMT | What is Kali Linux ? History of Kali Linux | Surajbaishya | [Read More](https://medium.com/p/e96693a6c929) |
 | Tue, 25 Nov 2025 13:13:53 GMT | Broken brute-force protection (IP block) — Writeup | Songül Kızılay Özügürler | [Read More](https://medium.com/p/cd48d5f17770) |
@@ -20,6 +21,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 12:15:40 GMT | MSSQL Enumeration Writeup — HTB Academy | Saqlain Naqvi | [Read More](https://medium.com/p/5a4c84f38a9a) |
 | Tue, 25 Nov 2025 11:51:44 GMT | The Cybersecurity Marketplace of Fear | Wakeyo Tolera | [Read More](https://medium.com/p/7a7485ff7fa8) |
 | Tue, 25 Nov 2025 11:43:54 GMT | Digital Privacy & Surveillance: How Much Are We Really Willing to Sacrifice in a Hyper-Connected… | Aditya Srivastav | [Read More](https://medium.com/p/3276d81f401d) |
+| Tue, 25 Nov 2025 11:27:46 GMT | HOW I Got My First Bug Bounty In Few Steps– $50 AUD for an HTML Injection | Sohambughunt | [Read More](https://medium.com/p/a6b40472fc76) |
 | Tue, 25 Nov 2025 11:26:25 GMT | Inside the Shenzhen Silicon Hive: How China Quietly Took Over Your Electronics — A Hardware… | Aaronjjose | [Read More](https://medium.com/p/ceef803609b7) |
 | Tue, 25 Nov 2025 11:25:41 GMT | How To Exploits Public Wi-Fi - Hire Hacker | BlackHat | [Read More](https://medium.com/p/a056449aa6c1) |
 | Tue, 25 Nov 2025 11:23:06 GMT | Dark Side of Bug Bounty Programs. STOP WASTING TIME TO REPORT AND EXPOSE #CyberKalki | Christoscoming | [Read More](https://medium.com/p/4be59810a112) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 21:26:20 GMT | Uncovering a Fake System32 Directory: A Deep Dive into NTFS Path Manipulation and Bypassing Windows… | Omar AlSahily | [Read More](https://medium.com/p/2abbf984b406) |
 | Mon, 24 Nov 2025 21:19:50 GMT | Backdoors at the BIOS Level: When the Infection Lives Below the Operating System | Bervice | [Read More](https://medium.com/p/743a070170fc) |
 | Mon, 24 Nov 2025 21:18:15 GMT | Write up Forged [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/79217c784dc7) |
-| Mon, 24 Nov 2025 20:53:56 GMT | El Ojo que Todo lo Ve: Construyendo mi propio SOC con Wazuh | FeCeSociety | [Read More](https://medium.com/p/bab146a142cd) |
-| Mon, 24 Nov 2025 20:44:46 GMT | Inside SailPoint Navigate London: Where Identity Security Meets Reality | Steve Anderson | [Read More](https://medium.com/p/cdf92bffdf09) |
