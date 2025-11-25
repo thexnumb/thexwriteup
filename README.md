@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 23:32:32 GMT | FastAPI Multi-Tenant SaaS: Row-Level Security Without Pain | Bytecraft | [Read More](https://medium.com/p/9ef960085bf4) |
+| Tue, 25 Nov 2025 23:23:29 GMT | Abuja sits inside a defended bubble. | Put me in a Chanel | [Read More](https://medium.com/p/ee7539b797e6) |
+| Tue, 25 Nov 2025 23:20:43 GMT | Part 2 Night of fire | Sara Fitsgerald | [Read More](https://medium.com/p/c68c6ded8e1b) |
+| Tue, 25 Nov 2025 23:20:17 GMT | Fintech 2025: New Waves of Innovation, Security, and User Experience | Bhinish Dhiman | [Read More](https://medium.com/p/40dbe840ae76) |
+| Tue, 25 Nov 2025 23:17:27 GMT | I Gave a Local AI Agent Full Access to My Laptop for 24 Hours. What It Did Shocked Me | Manash Pratim | [Read More](https://medium.com/p/98b87da1cab8) |
 | Tue, 25 Nov 2025 23:02:03 GMT | Zombie Processes: Dead Code That Still Haunts the System | Bervice | [Read More](https://medium.com/p/bd61cb46909c) |
 | Tue, 25 Nov 2025 22:51:56 GMT | Why McAfee Is More Than Just Antivirus in 2025 — Digital Security Explained | Antivirus Ninja | [Read More](https://medium.com/p/376c6e1283db) |
 | Tue, 25 Nov 2025 22:49:53 GMT | Once Upon A Digital School | O. J. Okpabi | [Read More](https://medium.com/p/2f8dd0f39972) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 13:30:36 GMT | What is Kali Linux ? History of Kali Linux | Surajbaishya | [Read More](https://medium.com/p/e96693a6c929) |
 | Tue, 25 Nov 2025 13:26:44 GMT | I Automated My Entire Recon Process | Ibtissam | [Read More](https://medium.com/p/db5e488adf83) |
 | Tue, 25 Nov 2025 13:21:10 GMT | Securing a MEAN Stack App: A Guide to HTTPS, CORS, and Helmet.js | Mukesh Ram | [Read More](https://medium.com/p/1e77381c6617) |
-| Tue, 25 Nov 2025 13:13:53 GMT | Broken brute-force protection (IP block) — Writeup | Songül Kızılay Özügürler | [Read More](https://medium.com/p/cd48d5f17770) |
-| Tue, 25 Nov 2025 13:10:16 GMT | What Happens After the Penetration Test? | ANSI Technologies | [Read More](https://medium.com/p/9e61e29df940) |
-| Tue, 25 Nov 2025 13:08:55 GMT | Spring Boot Uygulamalarında Test Yazmaya Kısa Bir Giriş | Latest Software Developers | [Read More](https://medium.com/p/41817612bcb9) |
-| Tue, 25 Nov 2025 12:51:48 GMT | The 5 Node.js Input Mistakes Attackers Love — And How to Fix Them | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/cc42474e8a1d) |
-| Tue, 25 Nov 2025 12:41:20 GMT | Threat Assessment & Penetration Testing of the Fake Drug Verification Web App | Victor Shedrack | [Read More](https://medium.com/p/42ce2d1e5e43) |
