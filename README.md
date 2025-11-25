@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 09:25:55 GMT | SQL Injection: Retrieving Multiple Values in a Single Column | Aditya Bhatt | [Read More](https://medium.com/p/b2a8f048f422) |
+| Tue, 25 Nov 2025 09:17:27 GMT | The Security Paradox The More You Invest, the More Vulnerable You Might Feel | Fook Hwa Tan | [Read More](https://medium.com/p/9c1b0e988d34) |
+| Tue, 25 Nov 2025 09:15:55 GMT | It’s Time to Democratize Cybersecurity in Your Org | Fook Hwa Tan | [Read More](https://medium.com/p/66fdad0b0568) |
+| Tue, 25 Nov 2025 09:15:15 GMT | SQL Injection: Finding a Column That Accepts String Data | Aditya Bhatt | [Read More](https://medium.com/p/86dbfaddd8cc) |
+| Tue, 25 Nov 2025 09:14:23 GMT | $5,300 Bounty: XSS in Admin Panel | Monika sharma | [Read More](https://medium.com/p/06e403984a68) |
+| Tue, 25 Nov 2025 09:12:26 GMT | Security Advisory: Multiple Vulnerabilities Identified in Syrotech SY-GPON-1110-WDONT Router | Redfox Security | [Read More](https://medium.com/p/2a1c49977762) |
+| Tue, 25 Nov 2025 09:06:46 GMT | Cybersecurity Skills You Need Today | VERSAtile Reads | [Read More](https://medium.com/p/df6707848536) |
+| Tue, 25 Nov 2025 09:05:26 GMT | Intigriti Challenge 1125 — JWT Confusion to SSTI → RCE (My Fastest CTF Solve Ever) | savi0r | [Read More](https://medium.com/p/43d43df4182c) |
+| Tue, 25 Nov 2025 09:02:40 GMT | The Future of Linux: Why It Still Powers Most Servers | Majidbasharat | [Read More](https://medium.com/p/964c61801d9d) |
+| Tue, 25 Nov 2025 08:59:19 GMT | Four Tips for Secure React Applications | Sharif Dwikat | [Read More](https://medium.com/p/f6bb99e6a2ea) |
+| Tue, 25 Nov 2025 08:57:08 GMT | The 1% Problem: What Anthropic’s Browser Agent Security Disclosure Means for Enterprise AI Adoption | Reza Rezvani | [Read More](https://medium.com/p/21853ed16eb0) |
+| Tue, 25 Nov 2025 08:18:05 GMT | Odysafе CTI Platform: Thе Opеn-Sourcе Solution to Cеntralizе Your Indicators of Compromisе | ME | [Read More](https://medium.com/p/0b92fe405a03) |
+| Tue, 25 Nov 2025 08:02:03 GMT | Why Engineers Pretend They Don’t Know About Privileged Access Controls and Regulations | Steve Anderson | [Read More](https://medium.com/p/7ac374adb32c) |
 | Tue, 25 Nov 2025 07:44:32 GMT | Dridex — BTLO SecOps | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/e17e3931332f) |
 | Tue, 25 Nov 2025 07:35:02 GMT | Who is Andrew Grunstein: The Cyber Operator Who Slipped Into Dubai’s Crossfire | Wirestork | [Read More](https://medium.com/p/4a696f958d1a) |
 | Tue, 25 Nov 2025 07:31:46 GMT | Developers, Your Dependencies Are Lying to You!!! | cybrNK | [Read More](https://medium.com/p/e9bb6dae84ff) |
@@ -25,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 06:55:19 GMT | The Electromagnetic Spectrum is the one source that helps to spread all types of signals and… | Zahid X Ahmed | [Read More](https://medium.com/p/8fb8fbfc07ce) |
 | Tue, 25 Nov 2025 06:38:19 GMT | X’ New Country Location Feature Reverse Engineered, And How It Is Being Bypassed Already | Jan Kammerath | [Read More](https://medium.com/p/f8cbed92cac5) |
 | Tue, 25 Nov 2025 06:01:18 GMT | BankSmarter — CTF Walkthrough | Vashu Vats | [Read More](https://medium.com/p/6f5e0d866452) |
+| Tue, 25 Nov 2025 05:23:56 GMT | Why LocalStorage is an Absolute Traitor? | Usman Writes | [Read More](https://medium.com/p/60df2cafc7af) |
 | Tue, 25 Nov 2025 05:20:52 GMT | Amazon Alerts Users to Massive Account Hack Attempts — What You Must Do | Hameedduke | [Read More](https://medium.com/p/345e70abfe69) |
 | Tue, 25 Nov 2025 04:54:02 GMT | Why You Should Avoid Downloading Free Cracked Software | Ask IT Support | [Read More](https://medium.com/p/2863a7450d3a) |
 | Tue, 25 Nov 2025 04:46:37 GMT | Black Friday & Cyber Monday Cybersecurity Certification Deals 2025: The Ultimate Guide for Security… | Syed Izhar Ahmed | [Read More](https://medium.com/p/ce88fa57b3e4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 18:22:54 GMT | PHP for Pentesters — Day 4 | Bazil Brohi | [Read More](https://medium.com/p/8387bbb7dbe7) |
 | Mon, 24 Nov 2025 18:20:02 GMT | The Bible of Breaking Things: The Definitive Analysis of “The Web Application Hacker’s Handbook” | Amrik  Hanjra | [Read More](https://medium.com/p/b9a6e3e6488b) |
 | Mon, 24 Nov 2025 18:18:13 GMT | Building an IVR Testing Strategy Aligned with Business KPIs | TestFyra | [Read More](https://medium.com/p/07fa61240730) |
-| Mon, 24 Nov 2025 18:17:36 GMT | Linux Permissions Unleashed: A Deep Dive into Access Control Lists (ACLs) | B Srinivasa Vinay | [Read More](https://medium.com/p/6f46b94909f5) |
-| Mon, 24 Nov 2025 18:11:49 GMT | Why did I delete most of my articles in Medium? | Charlotte Ng | [Read More](https://medium.com/p/d581483a92fe) |
-| Mon, 24 Nov 2025 18:08:22 GMT | Configuration refresh failed with the following error: The WS-Management | Ahmet Doruk | [Read More](https://medium.com/p/84b592b6d3c7) |
-| Mon, 24 Nov 2025 18:06:01 GMT | Vulnerabilities 101 | Tony K Rodgers | [Read More](https://medium.com/p/619bcda74c94) |
-| Mon, 24 Nov 2025 18:05:35 GMT | We Solved Multi-Chain Security. Now We’re Looking For Developers Who Want to Change DeFi. | Chronos Vault | [Read More](https://medium.com/p/de72ca736c2c) |
-| Mon, 24 Nov 2025 18:04:02 GMT | Say Goodbye to Private Key Nightmares: How Smart Contracts Eliminate Security Risks in Exchange… | Crypto Market Research | [Read More](https://medium.com/p/27c6aa92e5ef) |
-| Mon, 24 Nov 2025 18:01:52 GMT | Driving Growth in the Information Technology Sector: How L4RG Digital Plus Powers IT Businesses | Vijay Singh Bisht | [Read More](https://medium.com/p/3578f4c7437b) |
-| Mon, 24 Nov 2025 18:01:44 GMT | Digital–Physical Crime Alliance Fuels Explosive Growth in Cargo Theft | Himanshu Bhatt | [Read More](https://medium.com/p/096a8ce5cb82) |
-| Mon, 24 Nov 2025 17:49:33 GMT | How to install and configure ELK Stack as a complete SIEM - Cybersecurity Homelab Series [#3] | 0xRahuL | [Read More](https://medium.com/p/defca59650d8) |
-| Mon, 24 Nov 2025 17:47:41 GMT | Future-Proofing Your Data: The Best Protection Strategies for the Next Decade | Salman Khan | [Read More](https://medium.com/p/6015ba9ebf1d) |
-| Mon, 24 Nov 2025 17:46:23 GMT | 7 Protocol Analysis Tricks You Won’t Learn in CCNA: Master Network Traffic Like a Pro | Very Lazy Tech | [Read More](https://medium.com/p/d4b97d35bf82) |
-| Mon, 24 Nov 2025 17:44:12 GMT | The Triad of Defense: How to Master Threats, Risks, and Vulnerabilities Like a Pro | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/4bff31c03866) |
-| Mon, 24 Nov 2025 17:43:34 GMT | My First Splunk Dashboard: A Beginner-Friendly Guide | 0verRida | [Read More](https://medium.com/p/6b0d7e28c7db) |
-| Mon, 24 Nov 2025 17:37:46 GMT | How Man-in-the-Middle Attacks Work | Aytboyev Bobur | [Read More](https://medium.com/p/e2afc7c8e452) |
