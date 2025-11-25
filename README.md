@@ -12,10 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 13:41:24 GMT | Inside a Hacker’s Mind: How Cybercriminals Choose Their Targets | Digital Defense | [Read More](https://medium.com/p/8fc048605c41) |
+| Tue, 25 Nov 2025 13:30:36 GMT | What is Kali Linux ? History of Kali Linux | Surajbaishya | [Read More](https://medium.com/p/e96693a6c929) |
+| Tue, 25 Nov 2025 13:13:53 GMT | Broken brute-force protection (IP block) — Writeup | Songül Kızılay Özügürler | [Read More](https://medium.com/p/cd48d5f17770) |
+| Tue, 25 Nov 2025 12:37:22 GMT | What are Rootkits? - VIIEGO | Rolando | [Read More](https://medium.com/p/74c69a91a977) |
 | Tue, 25 Nov 2025 12:19:29 GMT | Best Browser Extensions Useful for VAPT Beginners | VAPTify | [Read More](https://medium.com/p/921584e18322) |
+| Tue, 25 Nov 2025 12:15:40 GMT | MSSQL Enumeration Writeup — HTB Academy | Saqlain Naqvi | [Read More](https://medium.com/p/5a4c84f38a9a) |
 | Tue, 25 Nov 2025 11:51:44 GMT | The Cybersecurity Marketplace of Fear | Wakeyo Tolera | [Read More](https://medium.com/p/7a7485ff7fa8) |
+| Tue, 25 Nov 2025 11:43:54 GMT | Digital Privacy & Surveillance: How Much Are We Really Willing to Sacrifice in a Hyper-Connected… | Aditya Srivastav | [Read More](https://medium.com/p/3276d81f401d) |
+| Tue, 25 Nov 2025 11:26:25 GMT | Inside the Shenzhen Silicon Hive: How China Quietly Took Over Your Electronics — A Hardware… | Aaronjjose | [Read More](https://medium.com/p/ceef803609b7) |
+| Tue, 25 Nov 2025 11:25:41 GMT | How To Exploits Public Wi-Fi - Hire Hacker | BlackHat | [Read More](https://medium.com/p/a056449aa6c1) |
+| Tue, 25 Nov 2025 11:14:13 GMT | The Security Researcher’s Guide to Mathematics | Bernhard Mueller | [Read More](https://medium.com/p/000dc0c98a0f) |
+| Tue, 25 Nov 2025 11:13:17 GMT | Top 10 Cybersecurity Companies in India — Leading the Future of Digital Protection | Prakash Factosecure | [Read More](https://medium.com/p/c903bf45bc80) |
+| Tue, 25 Nov 2025 11:02:04 GMT | Detected in 60 Seconds: How to Identify Phishing with a Malware Sandbox | ANY.RUN | [Read More](https://medium.com/p/c69094d92519) |
+| Tue, 25 Nov 2025 11:01:27 GMT | Ethical Hacking Tools Taught in craw security for Non-Technical Students | Manisha Chaudhary | [Read More](https://medium.com/p/22bc55167c72) |
+| Tue, 25 Nov 2025 10:58:58 GMT | TryHackme Corridor Writeup | Nusret Onur | [Read More](https://medium.com/p/82d5e3a26bde) |
+| Tue, 25 Nov 2025 10:57:34 GMT | Analyzing a Python Keylogger: What I learned as a cybersecurity student | Gabriel Santos | [Read More](https://medium.com/p/966addcf24fd) |
+| Tue, 25 Nov 2025 10:57:05 GMT | Advanced Cyber Security Course for IT Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/f1db2dc2fb00) |
 | Tue, 25 Nov 2025 10:35:07 GMT | Dark Web Email Scan for Complete Online Safety Guide | DeXpose | [Read More](https://medium.com/p/2df24013a188) |
 | Tue, 25 Nov 2025 10:19:32 GMT | Intigriti Challenge 1125 Write-Up — SSTI → RCE → Flag Extraction. | ALi MostaFa | [Read More](https://medium.com/p/e48b724c4cb1) |
+| Tue, 25 Nov 2025 10:02:33 GMT | The Architecture of Trust How I’m Designing Systems That Respect Users | CYBER CYMRU | [Read More](https://medium.com/p/4aa0e80b7e39) |
 | Tue, 25 Nov 2025 10:00:55 GMT | Top VAPT Testing Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/18c0fd97a078) |
 | Tue, 25 Nov 2025 09:54:37 GMT | Intigriti Monthly Challenge writeup JWT Abuse → Admin Panel → SSTI → RCE → Flag | TheCzar | [Read More](https://medium.com/p/9879494d8e00) |
 | Tue, 25 Nov 2025 09:35:05 GMT | PROJETO mini-lab: Monitoramento com WAZUH >XORDDoS no Honeypot< | EduKayky | [Read More](https://medium.com/p/e35c650838ba) |
@@ -35,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 08:57:08 GMT | The 1% Problem: What Anthropic’s Browser Agent Security Disclosure Means for Enterprise AI Adoption | Reza Rezvani | [Read More](https://medium.com/p/21853ed16eb0) |
 | Tue, 25 Nov 2025 08:20:22 GMT | LIVE HACKING EVENT — DON’T MISS THIS! | Dallen Sadru | [Read More](https://medium.com/p/90b196d60209) |
 | Tue, 25 Nov 2025 08:18:05 GMT | Odysafе CTI Platform: Thе Opеn-Sourcе Solution to Cеntralizе Your Indicators of Compromisе | ME | [Read More](https://medium.com/p/0b92fe405a03) |
+| Tue, 25 Nov 2025 08:16:01 GMT | DROSERA 101 | Suoicerp | [Read More](https://medium.com/p/e3981bdea395) |
 | Tue, 25 Nov 2025 08:02:03 GMT | Why Engineers Pretend They Don’t Know About Privileged Access Controls and Regulations | Steve Anderson | [Read More](https://medium.com/p/7ac374adb32c) |
 | Tue, 25 Nov 2025 07:44:32 GMT | Dridex — BTLO SecOps | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/e17e3931332f) |
 | Tue, 25 Nov 2025 07:35:02 GMT | Who is Andrew Grunstein: The Cyber Operator Who Slipped Into Dubai’s Crossfire | Wirestork | [Read More](https://medium.com/p/4a696f958d1a) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 20:44:46 GMT | Inside SailPoint Navigate London: Where Identity Security Meets Reality | Steve Anderson | [Read More](https://medium.com/p/cdf92bffdf09) |
 | Mon, 24 Nov 2025 20:32:50 GMT | Build Secure Login with 2FA — A Simple Node.js + MongoDB Implementation | om prakash | [Read More](https://medium.com/p/45f57b201af7) |
 | Mon, 24 Nov 2025 20:32:08 GMT | Save a Million Dollars on Your Security Budget with Threat Modeling | mohandika | [Read More](https://medium.com/p/440768227467) |
-| Mon, 24 Nov 2025 20:28:06 GMT | The Top 10 Web Vulnerabilities and the Tools Hackers Use to Exploit Them | Travis Ray Caverhill | [Read More](https://medium.com/p/076a3a7c77b1) |
-| Mon, 24 Nov 2025 20:16:37 GMT | My first time | Tyler Huff | [Read More](https://medium.com/p/5f5432de72a6) |
-| Mon, 24 Nov 2025 20:15:36 GMT | PW Managers: Worth it? Stop Getting Hacked! (You’re Doing it Wrong) | Authlyn | [Read More](https://medium.com/p/5add01927705) |
-| Mon, 24 Nov 2025 20:12:50 GMT | The Fundamentals of Reducing Your Identity Attack Surface | Steve Anderson | [Read More](https://medium.com/p/ce8a5213b641) |
-| Mon, 24 Nov 2025 20:10:49 GMT | Understanding Class vs. Instance Attributes in Python | Telman Hajibutayev | [Read More](https://medium.com/p/9b43783f2f46) |
-| Mon, 24 Nov 2025 20:06:29 GMT | Building a Home Cyber Lab: The Ultimate Beginner’s Guide (Using Free Tools) | Secured By Sebastion | [Read More](https://medium.com/p/ee0538316f51) |
-| Mon, 24 Nov 2025 20:00:09 GMT | The Cybersecurity — Career Accelerator (November 2025) | Franklin Rhodes | [Read More](https://medium.com/p/1eeb845755aa) |
-| Mon, 24 Nov 2025 19:55:36 GMT | TryHackMe Writeup: Mustacchio | HAIDAR MUSAMEH | [Read More](https://medium.com/p/e07901fa8689) |
-| Mon, 24 Nov 2025 19:53:37 GMT | NCL Password Challenges: How to Scrape Themed Wordlists with Wordreaper | Nemorous | [Read More](https://medium.com/p/81f81c008801) |
-| Mon, 24 Nov 2025 19:52:09 GMT | Understanding CVE Research and the Hidden Value of Analyzing Vulnerabilities Before Exploitation | Vivektumma27 | [Read More](https://medium.com/p/d1f77e4b2db2) |
-| Mon, 24 Nov 2025 19:51:54 GMT | We Tightened Security With Preventive AWS Guardrails. The Unexpected Result? More Velocity | Aviv Sommer | [Read More](https://medium.com/p/990f5d6e2fb4) |
-| Mon, 24 Nov 2025 19:50:28 GMT | The €16M Bet on the World’s Smallest Laser — And Why It Could Rewrite the Future of AI Chips | The Audacity | [Read More](https://medium.com/p/e807e1120c18) |
-| Mon, 24 Nov 2025 19:41:21 GMT | PatriotCTF 2025 — Trust VaultWeb Challenge Write-Up | 0xScorpioN | [Read More](https://medium.com/p/cd30e4f15c95) |
-| Mon, 24 Nov 2025 19:38:18 GMT | Cybersecurity Project #2 — Secure Password Generator with Strength Meter (Beginner Friendly) | Abdul Basit Khan | [Read More](https://medium.com/p/acc94eaeb6f9) |
-| Mon, 24 Nov 2025 19:29:24 GMT | Twitter just exposed my location (and probably yours too) | KeylognCoffee | [Read More](https://medium.com/p/667ef72fb835) |
-| Mon, 24 Nov 2025 19:26:25 GMT | AI Services by Ayamil Coders: Transforming Businesses with Intelligent Automation | Ayamil Coders | [Read More](https://medium.com/p/1c80d3cc4e7f) |
-| Mon, 24 Nov 2025 19:20:24 GMT | Chinese Hackers Use Anthropic’s AI to Launch Automated Cyber Espionage Campaign | Cybervolt | [Read More](https://medium.com/p/8941ac2c46ca) |
