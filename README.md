@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 20:22:22 GMT | Back to AppSec Basics: A Journey of Reflection, Learning, and Clarity | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/da632f7fca24) |
 | Tue, 25 Nov 2025 19:10:28 GMT | Low-level logic flaw — PortSwigger Academy | Fatimahasan | [Read More](https://medium.com/p/c54efbffa4fd) |
 | Tue, 25 Nov 2025 19:07:20 GMT | Cybersecurity for Total Beginners: What You Really Need to Know First | Smith Adams | [Read More](https://medium.com/p/27ef6f1fd55d) |
 | Tue, 25 Nov 2025 19:05:15 GMT | CyberDefenders Midnight RDP Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/086e7cfb0d9a) |
@@ -35,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 17:28:00 GMT | IoT: Stop Storing Wi-Fi Passwords in Plain Text | Engineer Too | [Read More](https://medium.com/p/e762c26f9416) |
 | Tue, 25 Nov 2025 17:25:56 GMT | Governments don’t fight terrorism. | kuneblvck | [Read More](https://medium.com/p/3e1b68948a46) |
 | Tue, 25 Nov 2025 17:12:14 GMT | Linux Terminal Komutları | Mehmet Ali | [Read More](https://medium.com/p/d6de0e0ab5e4) |
+| Tue, 25 Nov 2025 17:10:12 GMT | The Therapist | Alx | [Read More](https://medium.com/p/69398f557bef) |
 | Tue, 25 Nov 2025 17:06:13 GMT | OT Penetration Testing: Why It Matters Today and How to Get Started | Shanmuksrisai | [Read More](https://medium.com/p/6b18a8505e40) |
 | Tue, 25 Nov 2025 17:03:06 GMT | Cyber ​​Tool “LionCix HackForge” Made by Dwi Bakti N Dev: Web Vulnerability Detection and OSINT in… | jurnal.com | [Read More](https://medium.com/p/05ffc99b9151) |
 | Tue, 25 Nov 2025 17:02:12 GMT | OSCP Grind - PG Practice - Internal | Mr Jokar | [Read More](https://medium.com/p/94ad4ddfc5ce) |
@@ -54,18 +56,22 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 15:47:25 GMT | Seccomp Filters Optimization Strategies on Linux | Linux Guide | [Read More](https://medium.com/p/fbda31875a4e) |
 | Tue, 25 Nov 2025 15:47:06 GMT | Security and Performance Aspects of IRQ Affinity Optimization | Linux Guide | [Read More](https://medium.com/p/c41eaf17bdb2) |
 | Tue, 25 Nov 2025 15:43:30 GMT | Zero-Touch Deployment Explained: Technical Guide for MSPs and IT Teams | Ron | [Read More](https://medium.com/p/ab5feebba040) |
+| Tue, 25 Nov 2025 15:41:21 GMT | Penetrasyon Testi vs Red Team: Farkları, Önemi ve Hangisini Ne Zaman Tercih Etmelisiniz? | Rauf TIMURI | [Read More](https://medium.com/p/b45a81b32ad1) |
 | Tue, 25 Nov 2025 15:38:44 GMT | Google reCAPTCHA v3: Is the “Invisible” Shield Violating Your Privacy? ️ | Deeghayu Fernando | [Read More](https://medium.com/p/39d3438b455b) |
 | Tue, 25 Nov 2025 15:30:45 GMT | I Exposed Carding Operations Exploiting Stripe’s payment gateway - Merchants API CC CHECKER… | Christoscoming | [Read More](https://medium.com/p/191bc0a1df6b) |
+| Tue, 25 Nov 2025 15:27:08 GMT | Eat Pizza for Breakfast, Lose Weight Fast | Sriram Sreekumar | [Read More](https://medium.com/p/d4ab9617e6b4) |
 | Tue, 25 Nov 2025 15:26:31 GMT | Building Secure APIs from Day One | Israel Aráoz Severiche | [Read More](https://medium.com/p/6ab6b990fe71) |
 | Tue, 25 Nov 2025 15:22:47 GMT | The Cybersecurity Jobs That AI Will Kill — And the Ones That Will Survive | Cybervolt | [Read More](https://medium.com/p/3424a2908501) |
 | Tue, 25 Nov 2025 15:16:23 GMT | Jarkom : User Management & Hotspot | Yasa Wijaya | [Read More](https://medium.com/p/c34b1478478d) |
 | Tue, 25 Nov 2025 15:03:55 GMT | Cyber Briefing: 2025.11.25 | CyberMaterial | [Read More](https://medium.com/p/ae0a548cd5d5) |
+| Tue, 25 Nov 2025 14:54:13 GMT | PWNLAB-INIT WALKTHROUGH | Gardash Aliyev | [Read More](https://medium.com/p/0ec015e5b7d3) |
 | Tue, 25 Nov 2025 14:53:24 GMT | In a World Full of Vulnerabilities, OWASP Is the Map | farshad moradi shahrbabak | [Read More](https://medium.com/p/fbe8845faea4) |
 | Tue, 25 Nov 2025 14:46:54 GMT | Vulnerability Assessment and Exploitation: Leveraging GVM, Nmap, and RSH for Complete Host… | Kiza | [Read More](https://medium.com/p/6d09a12ea5df) |
 | Tue, 25 Nov 2025 14:45:51 GMT | Exploiting an IDOR to Claim Unavailable Free Gifts | Parth Narula | [Read More](https://medium.com/p/9a1ff645913d) |
 | Tue, 25 Nov 2025 13:41:24 GMT | Inside a Hacker’s Mind: How Cybercriminals Choose Their Targets | Digital Defense | [Read More](https://medium.com/p/8fc048605c41) |
 | Tue, 25 Nov 2025 13:32:06 GMT | Red Team Engagement — Windows Server 2019 CTF Challenge (Part-02) | Sachin Sir | [Read More](https://medium.com/p/e38e288357de) |
 | Tue, 25 Nov 2025 13:32:06 GMT | Jailbreaking for iOS Pentesting: Tools, Types & Best Practices | Prudhvi | [Read More](https://medium.com/p/13b2d479dfed) |
+| Tue, 25 Nov 2025 13:30:43 GMT | Today’s Breeze | Kelz | [Read More](https://medium.com/p/4863bd97e44e) |
 | Tue, 25 Nov 2025 13:30:36 GMT | What is Kali Linux ? History of Kali Linux | Surajbaishya | [Read More](https://medium.com/p/e96693a6c929) |
 | Tue, 25 Nov 2025 13:26:44 GMT | I Automated My Entire Recon Process | Ibtissam | [Read More](https://medium.com/p/db5e488adf83) |
 | Tue, 25 Nov 2025 13:21:10 GMT | Securing a MEAN Stack App: A Guide to HTTPS, CORS, and Helmet.js | Mukesh Ram | [Read More](https://medium.com/p/1e77381c6617) |
@@ -78,6 +84,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 12:34:49 GMT | PatriotCTF 2025 — Connection Tester Web Challenge Write-Up | 0xScorpioN | [Read More](https://medium.com/p/618b272e26bd) |
 | Tue, 25 Nov 2025 12:19:29 GMT | Best Browser Extensions Useful for VAPT Beginners | VAPTify | [Read More](https://medium.com/p/921584e18322) |
 | Tue, 25 Nov 2025 12:15:40 GMT | MSSQL Enumeration Writeup — HTB Academy | Saqlain Naqvi | [Read More](https://medium.com/p/5a4c84f38a9a) |
+| Tue, 25 Nov 2025 12:15:22 GMT | 45 Days of Cybersecurity Days11–12 | Wandesrtech | [Read More](https://medium.com/p/377a8aad1758) |
 | Tue, 25 Nov 2025 12:09:40 GMT | Getting More from Burp Suite with LLMs | Andrey Pautov | [Read More](https://medium.com/p/fdd03cec343d) |
 | Tue, 25 Nov 2025 12:09:04 GMT | A Hidden Interpreter Inside Dyson’s Android App — Runtime Code Execution | probear | [Read More](https://medium.com/p/e6c24181c007) |
 | Tue, 25 Nov 2025 11:51:44 GMT | The Cybersecurity Marketplace of Fear | Wakeyo Tolera | [Read More](https://medium.com/p/7a7485ff7fa8) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 10:00:55 GMT | Top VAPT Testing Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/18c0fd97a078) |
 | Tue, 25 Nov 2025 09:54:37 GMT | Intigriti Monthly Challenge writeup JWT Abuse → Admin Panel → SSTI → RCE → Flag | TheCzar | [Read More](https://medium.com/p/9879494d8e00) |
 | Tue, 25 Nov 2025 09:35:05 GMT | PROJETO mini-lab: Monitoramento com WAZUH >XORDDoS no Honeypot< | EduKayky | [Read More](https://medium.com/p/e35c650838ba) |
-| Tue, 25 Nov 2025 09:26:28 GMT | How a Cybersecurity Dashboard Transforms Risk Management and Visibility | Sophia Pearson | [Read More](https://medium.com/p/26416a5ee619) |
-| Tue, 25 Nov 2025 09:25:55 GMT | SQL Injection: Retrieving Multiple Values in a Single Column | Aditya Bhatt | [Read More](https://medium.com/p/b2a8f048f422) |
-| Tue, 25 Nov 2025 09:25:11 GMT | Step-by-Step BOUNTY Rewards Guide — November 2025 | Rachel
- Matthews | [Read More](https://medium.com/p/29ac6f5a1d92) |
-| Tue, 25 Nov 2025 09:17:27 GMT | The Security Paradox The More You Invest, the More Vulnerable You Might Feel | Fook Hwa Tan | [Read More](https://medium.com/p/9c1b0e988d34) |
-| Tue, 25 Nov 2025 09:15:55 GMT | It’s Time to Democratize Cybersecurity in Your Org | Fook Hwa Tan | [Read More](https://medium.com/p/66fdad0b0568) |
-| Tue, 25 Nov 2025 09:15:15 GMT | SQL Injection: Finding a Column That Accepts String Data | Aditya Bhatt | [Read More](https://medium.com/p/86dbfaddd8cc) |
-| Tue, 25 Nov 2025 09:14:23 GMT | $5,300 Bounty: XSS in Admin Panel | Monika sharma | [Read More](https://medium.com/p/06e403984a68) |
