@@ -30,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 17:48:54 GMT | From Dorks to Defense: How I Secured Two CERT-In Hall of Fames | Het Patel | [Read More](https://medium.com/p/37f87f181bd0) |
 | Tue, 25 Nov 2025 17:46:57 GMT | The New King of Vulnerabilities: Why Broken Access Control is the #1 Threat to Your App | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/5ef85f06b515) |
 | Tue, 25 Nov 2025 17:46:24 GMT | How a Desktop App Leaked All Customer Data Through an Insecure Email Gateway Integration | RIO | [Read More](https://medium.com/p/b2243b723a2e) |
+| Tue, 25 Nov 2025 17:35:22 GMT | In today’s fast-moving digital world, creators need speed, simplicity and quality. | Technical Mance | [Read More](https://medium.com/p/08cb13d72b4c) |
 | Tue, 25 Nov 2025 17:34:13 GMT | Clicking Blind: The Risks of Skipping Your Settings | ZeroKeyStrokes | [Read More](https://medium.com/p/e1d54912209b) |
 | Tue, 25 Nov 2025 17:28:00 GMT | IoT: Stop Storing Wi-Fi Passwords in Plain Text | Engineer Too | [Read More](https://medium.com/p/e762c26f9416) |
 | Tue, 25 Nov 2025 17:25:56 GMT | Governments don’t fight terrorism. | kuneblvck | [Read More](https://medium.com/p/3e1b68948a46) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 09:15:55 GMT | It’s Time to Democratize Cybersecurity in Your Org | Fook Hwa Tan | [Read More](https://medium.com/p/66fdad0b0568) |
 | Tue, 25 Nov 2025 09:15:15 GMT | SQL Injection: Finding a Column That Accepts String Data | Aditya Bhatt | [Read More](https://medium.com/p/86dbfaddd8cc) |
 | Tue, 25 Nov 2025 09:14:23 GMT | $5,300 Bounty: XSS in Admin Panel | Monika sharma | [Read More](https://medium.com/p/06e403984a68) |
-| Tue, 25 Nov 2025 09:12:26 GMT | Security Advisory: Multiple Vulnerabilities Identified in Syrotech SY-GPON-1110-WDONT Router | Redfox Security | [Read More](https://medium.com/p/2a1c49977762) |
