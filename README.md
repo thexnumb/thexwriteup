@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 07:35:02 GMT | Who is Andrew Grunstein: The Cyber Operator Who Slipped Into Dubai’s Crossfire | Wirestork | [Read More](https://medium.com/p/4a696f958d1a) |
+| Tue, 25 Nov 2025 07:31:46 GMT | Developers, Your Dependencies Are Lying to You!!! | cybrNK | [Read More](https://medium.com/p/e9bb6dae84ff) |
+| Tue, 25 Nov 2025 07:29:52 GMT | SIEM, EDR & XDR:WHY WE NEED THEM IN DIGITAL WORLD? | Habizat Abbasova | [Read More](https://medium.com/p/955f4fee019e) |
+| Tue, 25 Nov 2025 07:25:42 GMT | How to Lock Your Files with Military-Grade Encryption | Frost | [Read More](https://medium.com/p/395509856ff8) |
+| Tue, 25 Nov 2025 07:22:51 GMT | Zero Trust Explained: Is It just a trend or Game changer? | Sakthimurugan S | [Read More](https://medium.com/p/0b0de5f87ab5) |
+| Tue, 25 Nov 2025 07:19:00 GMT | Digital Gatekeepers and Spiritual Firewalls: Lessons from LSASS.EXE | Melusi shoko | [Read More](https://medium.com/p/971eb1343306) |
+| Tue, 25 Nov 2025 07:08:15 GMT | Bridging Agentic AI Identity Gap with OAuth’s DPoP | Krishna Athur | [Read More](https://medium.com/p/7d3e3d0e030e) |
+| Tue, 25 Nov 2025 07:02:12 GMT | THM - Padelify | Francesco Pastore | [Read More](https://medium.com/p/eb7028658f8f) |
+| Tue, 25 Nov 2025 06:59:51 GMT | OpenAI Warns ‘Vibe Coding’ Could Expose Enterprises to Silent Security Failures | Nanthakumar | [Read More](https://medium.com/p/7d39ecc49c9c) |
+| Tue, 25 Nov 2025 06:55:19 GMT | The Electromagnetic Spectrum is the one source that helps to spread all types of signals and… | Zahid X Ahmed | [Read More](https://medium.com/p/8fb8fbfc07ce) |
 | Tue, 25 Nov 2025 06:01:18 GMT | BankSmarter — CTF Walkthrough | Vashu Vats | [Read More](https://medium.com/p/6f5e0d866452) |
 | Tue, 25 Nov 2025 05:20:52 GMT | Amazon Alerts Users to Massive Account Hack Attempts — What You Must Do | Hameedduke | [Read More](https://medium.com/p/345e70abfe69) |
+| Tue, 25 Nov 2025 04:46:37 GMT | Black Friday & Cyber Monday Cybersecurity Certification Deals 2025: The Ultimate Guide for Security… | Syed Izhar Ahmed | [Read More](https://medium.com/p/ce88fa57b3e4) |
 | Tue, 25 Nov 2025 04:46:20 GMT | Footprinting — Skills Assessment [Part 2] (2025) | Maksim Hayder | [Read More](https://medium.com/p/2bfaece43c62) |
 | Tue, 25 Nov 2025 04:33:06 GMT | Top Bugs That Actually Paid Bounties in 2025 | ProwlSec | [Read More](https://medium.com/p/871eb0874400) |
 | Tue, 25 Nov 2025 03:47:34 GMT | I Passed The OSCP On My First Attempt | Vladimir Cuc | [Read More](https://medium.com/p/24882ce506a3) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 17:33:28 GMT | I Thought Cyber Attacks Only Happened to Big Companies… Until It Happened to Me | Kadirijafar | [Read More](https://medium.com/p/e7b8051cf194) |
 | Mon, 24 Nov 2025 17:33:06 GMT | $$$ How I Discovered a Business Logic Vulnerability That Allowed Price Manipulation Through… | Zyad Ibrahim | [Read More](https://medium.com/p/59d4a8c36cea) |
 | Mon, 24 Nov 2025 17:31:28 GMT | Connecting Care for Value-Based Homeless Services | Nzinga Garvey, MBA | [Read More](https://medium.com/p/b8770c794f42) |
-| Mon, 24 Nov 2025 17:30:30 GMT | How to Choose a Cybersecurity Company in Dubai | DefenceRabbit | [Read More](https://medium.com/p/ed027be58151) |
-| Mon, 24 Nov 2025 17:27:25 GMT | ️ Blog 55 — AWS Elastic Beanstalk | Prutha_Dongre | [Read More](https://medium.com/p/546f088b3ab8) |
-| Mon, 24 Nov 2025 17:24:28 GMT | The Thirteenth Server Novel | Ramdane Issaad | [Read More](https://medium.com/p/4a5954b56439) |
-| Mon, 24 Nov 2025 17:12:54 GMT | This Week’s Triple Canons : GPUs Stolen, Birds Break In, and Windows Trips Over Office | Mohith Krishna K | [Read More](https://medium.com/p/8a62f32814cb) |
-| Mon, 24 Nov 2025 17:11:03 GMT | How to Know If Your Data or Card Has Been Stolen in 2025 — And What To Do Next | Nazrul Islam Rana | [Read More](https://medium.com/p/bfd2640af254) |
-| Mon, 24 Nov 2025 17:08:50 GMT | 45 Days of Cybersecurity Days 8–10 | Wandesrtech | [Read More](https://medium.com/p/3675863e14f7) |
-| Mon, 24 Nov 2025 17:05:03 GMT | Road — Try Hack Me CTF Walkthrough | Am | [Read More](https://medium.com/p/03d487e90beb) |
-| Mon, 24 Nov 2025 17:02:35 GMT | OSCP Grind - PG Practice - Algernon | Mr Jokar | [Read More](https://medium.com/p/4f5f6d50f02a) |
-| Mon, 24 Nov 2025 16:43:22 GMT | Dr. Wemakor Calls for Stronger CSO Collaboration to Bolster Peace and Security at WACS Week 2025 | Joseph Wemakor | [Read More](https://medium.com/p/05b6e73c2f7c) |
-| Mon, 24 Nov 2025 16:42:00 GMT | What Really Happens in the 2 Seconds Between Scanning QR and ‘Payment Successful’? | Rohan Mistry | [Read More](https://medium.com/p/e4ddd84eafc5) |
-| Mon, 24 Nov 2025 16:41:45 GMT | Praktikum Internet of Things (Tugas): Kontrol Relay Melalui Internet | Muhammad Surya Saputro | [Read More](https://medium.com/p/8a49e6a5bd15) |
