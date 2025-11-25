@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 15:43:30 GMT | Zero-Touch Deployment Explained: Technical Guide for MSPs and IT Teams | Ron | [Read More](https://medium.com/p/ab5feebba040) |
 | Tue, 25 Nov 2025 15:30:45 GMT | I Exposed Carding Operations Exploiting Stripe’s payment gateway - Merchants API CC CHECKER… | Christoscoming | [Read More](https://medium.com/p/191bc0a1df6b) |
+| Tue, 25 Nov 2025 15:26:31 GMT | Building Secure APIs from Day One | Israel Aráoz Severiche | [Read More](https://medium.com/p/6ab6b990fe71) |
+| Tue, 25 Nov 2025 15:03:55 GMT | Cyber Briefing: 2025.11.25 | CyberMaterial | [Read More](https://medium.com/p/ae0a548cd5d5) |
 | Tue, 25 Nov 2025 13:41:24 GMT | Inside a Hacker’s Mind: How Cybercriminals Choose Their Targets | Digital Defense | [Read More](https://medium.com/p/8fc048605c41) |
 | Tue, 25 Nov 2025 13:30:36 GMT | What is Kali Linux ? History of Kali Linux | Surajbaishya | [Read More](https://medium.com/p/e96693a6c929) |
 | Tue, 25 Nov 2025 13:13:53 GMT | Broken brute-force protection (IP block) — Writeup | Songül Kızılay Özügürler | [Read More](https://medium.com/p/cd48d5f17770) |
@@ -27,12 +30,14 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 11:23:06 GMT | Dark Side of Bug Bounty Programs. STOP WASTING TIME TO REPORT AND EXPOSE #CyberKalki | Christoscoming | [Read More](https://medium.com/p/4be59810a112) |
 | Tue, 25 Nov 2025 11:14:13 GMT | The Security Researcher’s Guide to Mathematics | Bernhard Mueller | [Read More](https://medium.com/p/000dc0c98a0f) |
 | Tue, 25 Nov 2025 11:13:17 GMT | Top 10 Cybersecurity Companies in India — Leading the Future of Digital Protection | Prakash Factosecure | [Read More](https://medium.com/p/c903bf45bc80) |
+| Tue, 25 Nov 2025 11:08:44 GMT | How I Passed the CISA Exam on My First Attempt | Sotrinakko | [Read More](https://medium.com/p/7a5b915a33c0) |
 | Tue, 25 Nov 2025 11:02:04 GMT | Detected in 60 Seconds: How to Identify Phishing with a Malware Sandbox | ANY.RUN | [Read More](https://medium.com/p/c69094d92519) |
 | Tue, 25 Nov 2025 11:01:27 GMT | Ethical Hacking Tools Taught in craw security for Non-Technical Students | Manisha Chaudhary | [Read More](https://medium.com/p/22bc55167c72) |
 | Tue, 25 Nov 2025 10:58:58 GMT | TryHackme Corridor Writeup | Nusret Onur | [Read More](https://medium.com/p/82d5e3a26bde) |
 | Tue, 25 Nov 2025 10:57:34 GMT | Analyzing a Python Keylogger: What I learned as a cybersecurity student | Gabriel Santos | [Read More](https://medium.com/p/966addcf24fd) |
 | Tue, 25 Nov 2025 10:57:05 GMT | Advanced Cyber Security Course for IT Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/f1db2dc2fb00) |
 | Tue, 25 Nov 2025 10:35:07 GMT | Dark Web Email Scan for Complete Online Safety Guide | DeXpose | [Read More](https://medium.com/p/2df24013a188) |
+| Tue, 25 Nov 2025 10:26:26 GMT | Cybersecurity Case Study: The 2025 Louvre Heist (Seven Minutes on the Seine) | Mr.Cool | [Read More](https://medium.com/p/34abc44f9eb4) |
 | Tue, 25 Nov 2025 10:19:32 GMT | Intigriti Challenge 1125 Write-Up — SSTI → RCE → Flag Extraction. | ALi MostaFa | [Read More](https://medium.com/p/e48b724c4cb1) |
 | Tue, 25 Nov 2025 10:02:33 GMT | The Architecture of Trust How I’m Designing Systems That Respect Users | CYBER CYMRU | [Read More](https://medium.com/p/4aa0e80b7e39) |
 | Tue, 25 Nov 2025 10:00:55 GMT | Top VAPT Testing Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/18c0fd97a078) |
@@ -52,6 +57,8 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 09:02:40 GMT | The Future of Linux: Why It Still Powers Most Servers | Majidbasharat | [Read More](https://medium.com/p/964c61801d9d) |
 | Tue, 25 Nov 2025 08:59:19 GMT | Four Tips for Secure React Applications | Sharif Dwikat | [Read More](https://medium.com/p/f6bb99e6a2ea) |
 | Tue, 25 Nov 2025 08:57:08 GMT | The 1% Problem: What Anthropic’s Browser Agent Security Disclosure Means for Enterprise AI Adoption | Reza Rezvani | [Read More](https://medium.com/p/21853ed16eb0) |
+| Tue, 25 Nov 2025 08:56:05 GMT | How Quantum Tech Could Secure the Future of Blockchain | mukhtar khan | [Read More](https://medium.com/p/2fc526d32843) |
+| Tue, 25 Nov 2025 08:48:31 GMT | Hardcoded Secrets Are No Longer Just Bad Hygiene — They Are a Catastrophe Waiting to Happen | KMSEC (Pty) LTD | [Read More](https://medium.com/p/c59c2dc46b86) |
 | Tue, 25 Nov 2025 08:20:22 GMT | LIVE HACKING EVENT — DON’T MISS THIS! | Dallen Sadru | [Read More](https://medium.com/p/90b196d60209) |
 | Tue, 25 Nov 2025 08:18:05 GMT | Odysafе CTI Platform: Thе Opеn-Sourcе Solution to Cеntralizе Your Indicators of Compromisе | ME | [Read More](https://medium.com/p/0b92fe405a03) |
 | Tue, 25 Nov 2025 08:16:01 GMT | DROSERA 101 | Suoicerp | [Read More](https://medium.com/p/e3981bdea395) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 22:16:46 GMT | Recover Lost Cryptocurrency Through Optimistic Hacker Gaius. | Jacobalexander | [Read More](https://medium.com/p/60452770f2b4) |
 | Mon, 24 Nov 2025 22:12:16 GMT | AI-Written Code: The 5 Critical Security Checkpoints No Team Can Ignore | Cyber-AppSec | [Read More](https://medium.com/p/056b24170bb6) |
 | Mon, 24 Nov 2025 22:06:31 GMT | Code and the Machine: Why Developers Fear AI and What It Means for Cybersecurity | Elad Golan | [Read More](https://medium.com/p/ceb311ed5b5a) |
-| Mon, 24 Nov 2025 21:56:44 GMT | INE Assessment Methodologies: Information Gathering CTF 1 Write-up | Irem Bezci | [Read More](https://medium.com/p/942a96a319e5) |
-| Mon, 24 Nov 2025 21:53:22 GMT | Zero Trust Networking: Principles, Benefits & Implementation | QuarkAndCode | [Read More](https://medium.com/p/897b88a296a2) |
-| Mon, 24 Nov 2025 21:41:13 GMT | Salesforce Instances Hacked via Gainsight Integrations | IT_Engineer | [Read More](https://medium.com/p/5818392f4179) |
-| Mon, 24 Nov 2025 21:38:05 GMT | Why Your Threat Models Are Gathering Dust (And How to Fix It) | Kay Adelaja | [Read More](https://medium.com/p/fc13b3dc9c23) |
-| Mon, 24 Nov 2025 21:26:20 GMT | Uncovering a Fake System32 Directory: A Deep Dive into NTFS Path Manipulation and Bypassing Windows… | Omar AlSahily | [Read More](https://medium.com/p/2abbf984b406) |
-| Mon, 24 Nov 2025 21:19:50 GMT | Backdoors at the BIOS Level: When the Infection Lives Below the Operating System | Bervice | [Read More](https://medium.com/p/743a070170fc) |
-| Mon, 24 Nov 2025 21:18:15 GMT | Write up Forged [HC] | Pedro Henrique Lima Gonçalves | [Read More](https://medium.com/p/79217c784dc7) |
