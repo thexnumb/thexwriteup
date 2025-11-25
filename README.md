@@ -12,10 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 10:35:07 GMT | Dark Web Email Scan for Complete Online Safety Guide | DeXpose | [Read More](https://medium.com/p/2df24013a188) |
+| Tue, 25 Nov 2025 10:19:32 GMT | Intigriti Challenge 1125 Write-Up — SSTI → RCE → Flag Extraction. | ALi MostaFa | [Read More](https://medium.com/p/e48b724c4cb1) |
 | Tue, 25 Nov 2025 10:00:55 GMT | Top VAPT Testing Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/18c0fd97a078) |
+| Tue, 25 Nov 2025 09:54:37 GMT | Intigriti Monthly Challenge writeup JWT Abuse → Admin Panel → SSTI → RCE → Flag | TheCzar | [Read More](https://medium.com/p/9879494d8e00) |
 | Tue, 25 Nov 2025 09:35:05 GMT | PROJETO mini-lab: Monitoramento com WAZUH >XORDDoS no Honeypot< | EduKayky | [Read More](https://medium.com/p/e35c650838ba) |
 | Tue, 25 Nov 2025 09:26:28 GMT | How a Cybersecurity Dashboard Transforms Risk Management and Visibility | Sophia Pearson | [Read More](https://medium.com/p/26416a5ee619) |
 | Tue, 25 Nov 2025 09:25:55 GMT | SQL Injection: Retrieving Multiple Values in a Single Column | Aditya Bhatt | [Read More](https://medium.com/p/b2a8f048f422) |
+| Tue, 25 Nov 2025 09:25:11 GMT | Step-by-Step BOUNTY Rewards Guide — November 2025 | Rachel
+ Matthews | [Read More](https://medium.com/p/29ac6f5a1d92) |
 | Tue, 25 Nov 2025 09:17:27 GMT | The Security Paradox The More You Invest, the More Vulnerable You Might Feel | Fook Hwa Tan | [Read More](https://medium.com/p/9c1b0e988d34) |
 | Tue, 25 Nov 2025 09:15:55 GMT | It’s Time to Democratize Cybersecurity in Your Org | Fook Hwa Tan | [Read More](https://medium.com/p/66fdad0b0568) |
 | Tue, 25 Nov 2025 09:15:15 GMT | SQL Injection: Finding a Column That Accepts String Data | Aditya Bhatt | [Read More](https://medium.com/p/86dbfaddd8cc) |
@@ -26,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 09:02:40 GMT | The Future of Linux: Why It Still Powers Most Servers | Majidbasharat | [Read More](https://medium.com/p/964c61801d9d) |
 | Tue, 25 Nov 2025 08:59:19 GMT | Four Tips for Secure React Applications | Sharif Dwikat | [Read More](https://medium.com/p/f6bb99e6a2ea) |
 | Tue, 25 Nov 2025 08:57:08 GMT | The 1% Problem: What Anthropic’s Browser Agent Security Disclosure Means for Enterprise AI Adoption | Reza Rezvani | [Read More](https://medium.com/p/21853ed16eb0) |
+| Tue, 25 Nov 2025 08:20:22 GMT | LIVE HACKING EVENT — DON’T MISS THIS! | Dallen Sadru | [Read More](https://medium.com/p/90b196d60209) |
 | Tue, 25 Nov 2025 08:18:05 GMT | Odysafе CTI Platform: Thе Opеn-Sourcе Solution to Cеntralizе Your Indicators of Compromisе | ME | [Read More](https://medium.com/p/0b92fe405a03) |
 | Tue, 25 Nov 2025 08:02:03 GMT | Why Engineers Pretend They Don’t Know About Privileged Access Controls and Regulations | Steve Anderson | [Read More](https://medium.com/p/7ac374adb32c) |
 | Tue, 25 Nov 2025 07:44:32 GMT | Dridex — BTLO SecOps | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/e17e3931332f) |
@@ -37,9 +43,14 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 07:19:00 GMT | Digital Gatekeepers and Spiritual Firewalls: Lessons from LSASS.EXE | Melusi shoko | [Read More](https://medium.com/p/971eb1343306) |
 | Tue, 25 Nov 2025 07:08:15 GMT | Bridging Agentic AI Identity Gap with OAuth’s DPoP | Krishna Athur | [Read More](https://medium.com/p/7d3e3d0e030e) |
 | Tue, 25 Nov 2025 07:02:12 GMT | THM - Padelify | Francesco Pastore | [Read More](https://medium.com/p/eb7028658f8f) |
+| Tue, 25 Nov 2025 07:02:07 GMT | Using LLMs for Vulnerability Discovery: 14 Examples to Level Up Your Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/40facd04d01b) |
 | Tue, 25 Nov 2025 06:59:51 GMT | OpenAI Warns ‘Vibe Coding’ Could Expose Enterprises to Silent Security Failures | Nanthakumar | [Read More](https://medium.com/p/7d39ecc49c9c) |
 | Tue, 25 Nov 2025 06:55:19 GMT | The Electromagnetic Spectrum is the one source that helps to spread all types of signals and… | Zahid X Ahmed | [Read More](https://medium.com/p/8fb8fbfc07ce) |
+| Tue, 25 Nov 2025 06:54:09 GMT | Bug Bounty Hunting — Complete Guide (Part-149) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/88eab9754106) |
+| Tue, 25 Nov 2025 06:52:40 GMT | Bug Bounty Hunting — Complete Guide (Part-148) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/d5257a470b2d) |
+| Tue, 25 Nov 2025 06:42:21 GMT | Top Cybersecurity Tools You Should Know | Vijay Kumar Gupta | [Read More](https://medium.com/p/ad3e6e08fae0) |
 | Tue, 25 Nov 2025 06:38:19 GMT | X’ New Country Location Feature Reverse Engineered, And How It Is Being Bypassed Already | Jan Kammerath | [Read More](https://medium.com/p/f8cbed92cac5) |
+| Tue, 25 Nov 2025 06:30:22 GMT | Manifesting the Madness: How I’m Turning ₹0 into a Full ₹10 Lakh Wishlist in 730 Days | NPC | [Read More](https://medium.com/p/f46f45cb3f2d) |
 | Tue, 25 Nov 2025 06:01:18 GMT | BankSmarter — CTF Walkthrough | Vashu Vats | [Read More](https://medium.com/p/6f5e0d866452) |
 | Tue, 25 Nov 2025 05:23:56 GMT | Why LocalStorage is an Absolute Traitor? | Usman Writes | [Read More](https://medium.com/p/60df2cafc7af) |
 | Tue, 25 Nov 2025 05:20:52 GMT | Amazon Alerts Users to Massive Account Hack Attempts — What You Must Do | Hameedduke | [Read More](https://medium.com/p/345e70abfe69) |
@@ -47,6 +58,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 04:46:37 GMT | Black Friday & Cyber Monday Cybersecurity Certification Deals 2025: The Ultimate Guide for Security… | Syed Izhar Ahmed | [Read More](https://medium.com/p/ce88fa57b3e4) |
 | Tue, 25 Nov 2025 04:46:20 GMT | Footprinting — Skills Assessment [Part 2] (2025) | Maksim Hayder | [Read More](https://medium.com/p/2bfaece43c62) |
 | Tue, 25 Nov 2025 04:33:06 GMT | Top Bugs That Actually Paid Bounties in 2025 | ProwlSec | [Read More](https://medium.com/p/871eb0874400) |
+| Tue, 25 Nov 2025 04:27:25 GMT | SOC Alert Review — SOC 167 (LS Command Detected in Requested URL)-Event ID — 117- LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/4849dafb579e) |
 | Tue, 25 Nov 2025 03:47:34 GMT | I Passed The OSCP On My First Attempt | Vladimir Cuc | [Read More](https://medium.com/p/24882ce506a3) |
 | Tue, 25 Nov 2025 03:32:03 GMT | 4. Engineering Dynamic Forms: Zod Validation and React Hook Form Integration | Kalhara Perera | [Read More](https://medium.com/p/4f02658e27d1) |
 | Tue, 25 Nov 2025 03:12:55 GMT | Secure Your Home with Custom Gates Rockingham Residents Trust | Rockinghomesecurity | [Read More](https://medium.com/p/19d00ce378ef) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 19:20:24 GMT | Chinese Hackers Use Anthropic’s AI to Launch Automated Cyber Espionage Campaign | Cybervolt | [Read More](https://medium.com/p/8941ac2c46ca) |
 | Mon, 24 Nov 2025 19:13:09 GMT | The Cognitive Firewall has Breached | PinkOSINT | [Read More](https://medium.com/p/cf17bdd796aa) |
 | Mon, 24 Nov 2025 19:09:07 GMT | Mobile Hacking Lab — TokenBleed | GlitchNox | [Read More](https://medium.com/p/c88348dbd58e) |
-| Mon, 24 Nov 2025 19:08:57 GMT | VulNyx War Writeup | CyberCraft | [Read More](https://medium.com/p/b18f3fff41c5) |
-| Mon, 24 Nov 2025 18:59:53 GMT | Password Entropy | Jan Skopal | [Read More](https://medium.com/p/58aed2f766eb) |
-| Mon, 24 Nov 2025 18:54:29 GMT | Soc level 1 Summit challenge walkthrough | Mercykiaritha | [Read More](https://medium.com/p/7909223aa175) |
-| Mon, 24 Nov 2025 18:50:22 GMT | ’Tis the Season to Not Be Compromised | Len Noe | [Read More](https://medium.com/p/62cd66f4a0b0) |
-| Mon, 24 Nov 2025 18:44:29 GMT | Most Common XSS Payloads | Udeshna | [Read More](https://medium.com/p/10699faabaad) |
-| Mon, 24 Nov 2025 18:43:25 GMT | SYHEDA: Harbinger of Oblivion | SyHeda | [Read More](https://medium.com/p/337552f1d7ec) |
-| Mon, 24 Nov 2025 18:37:35 GMT | A Tale of Two Certs: Why I’m studying for CompTIA’s SecurityX exam as prep for the Security+ | Jade Seeker | [Read More](https://medium.com/p/fa1fd55e2c31) |
-| Mon, 24 Nov 2025 18:31:14 GMT | Spoofing an AI Agent: Explained So Simply a 3rd Grader Could Understand | Jon Capriola | [Read More](https://medium.com/p/b8c9f0bf6be8) |
-| Mon, 24 Nov 2025 18:28:16 GMT | Runbook Automation for Incident Response ⚡ | Esra Kayhan | [Read More](https://medium.com/p/358328ae3c74) |
-| Mon, 24 Nov 2025 18:27:35 GMT | Advanced Dashboard Design for SIEM: The Art of Turning Data into Meaningful Action | Esra Kayhan | [Read More](https://medium.com/p/ca3a48afd4cf) |
-| Mon, 24 Nov 2025 18:27:09 GMT | Why I Created the Cybersecurity Side-Hustle Blueprint — And Priced It More Than My Other Courses | Taimur Ijlal | [Read More](https://medium.com/p/6aaf73f655c6) |
