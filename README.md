@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 03:47:34 GMT | I Passed The OSCP On My First Attempt | Vladimir Cuc | [Read More](https://medium.com/p/24882ce506a3) |
+| Tue, 25 Nov 2025 03:32:03 GMT | 4. Engineering Dynamic Forms: Zod Validation and React Hook Form Integration | Kalhara Perera | [Read More](https://medium.com/p/4f02658e27d1) |
+| Tue, 25 Nov 2025 03:12:55 GMT | Secure Your Home with Custom Gates Rockingham Residents Trust | Rockinghomesecurity | [Read More](https://medium.com/p/19d00ce378ef) |
+| Tue, 25 Nov 2025 02:10:37 GMT | ❄️SnowflakeTag-Based Masking Policies with entitlement table implementation | Abhijit Bangal | [Read More](https://medium.com/p/83bd2feef502) |
+| Tue, 25 Nov 2025 01:32:12 GMT | Safe-by-Design n8n for SaaS: Multi-Tenant Automation That Scales | Syntal | [Read More](https://medium.com/p/007b0bb63734) |
+| Tue, 25 Nov 2025 01:06:06 GMT | A Decade in Cybersecurity: Lessons I Wish Someone Told Me Earlier | Jbird | [Read More](https://medium.com/p/b963c1594bf8) |
+| Tue, 25 Nov 2025 00:39:36 GMT | Why Small Healthcare Companies Struggle With Security Rules, And What They Often Overlook | Faustin Mark (Admindr) | [Read More](https://medium.com/p/35c83c8ab195) |
+| Tue, 25 Nov 2025 00:32:25 GMT | Credentials in Network Shares: The Gift That Keeps on Giving | Cybersecurity Simplified | [Read More](https://medium.com/p/e0dfd809251c) |
+| Mon, 24 Nov 2025 23:32:25 GMT | PKCE + Refresh Rotation, Simulated Correctly | Bytecraft | [Read More](https://medium.com/p/f60898acf91d) |
+| Mon, 24 Nov 2025 23:26:29 GMT | Thirty Years of the Same Mistake | Igor Melnyk | [Read More](https://medium.com/p/b0ebc7ac5756) |
 | Mon, 24 Nov 2025 23:09:43 GMT | LockBit Ransomware - LetsDefend Challenge Write-Up | Krono | [Read More](https://medium.com/p/98cf94454084) |
 | Mon, 24 Nov 2025 23:07:51 GMT | I Exposed an Azure VM on Purpose. Here’s Who Tried to Break In. | Bhavya Ulapu | [Read More](https://medium.com/p/998a362b9231) |
 | Mon, 24 Nov 2025 22:53:32 GMT | SQL Chapter 35 : Cybersecurity Log Data Analysis | Rahul Mishra(AI Engineer) | [Read More](https://medium.com/p/23ceb58362d6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 16:40:40 GMT | 30 Days of Red Team: Day 9 — Linux Persistence Techniques (Surviving in Unix Territory) | Maxwell Cross | [Read More](https://medium.com/p/d654252c61c5) |
 | Mon, 24 Nov 2025 16:40:37 GMT | 2026 is the year of AI-powered attacks. Here’s the evidence - DeepTempo | Eric Zietlow | [Read More](https://medium.com/p/9ee36247b50b) |
 | Mon, 24 Nov 2025 16:40:00 GMT | Workflow: speed up visual web based external exposure recon. | biero llagas | [Read More](https://medium.com/p/18529ac7c749) |
-| Mon, 24 Nov 2025 16:38:02 GMT | Red Team Engagement — Windows Server 2019 CTF Challenge (Part-01) | Sachin Sir | [Read More](https://medium.com/p/939fa5be5395) |
-| Mon, 24 Nov 2025 16:35:46 GMT | Why Construction Sites Need Professional Security Guards | Aimanzahraa | [Read More](https://medium.com/p/04d2608adbfe) |
-| Mon, 24 Nov 2025 16:34:37 GMT | Why Mobile Patrol Security Is Essential for Modern Businesses | Aimanzahraa | [Read More](https://medium.com/p/7dc1826fe6bf) |
-| Mon, 24 Nov 2025 16:34:10 GMT | Cut Through Tool Fatigue: Why More Controls Don’t Equal Better Security | Hello @ Octellient | [Read More](https://medium.com/p/a41bf4c702c7) |
-| Mon, 24 Nov 2025 16:29:02 GMT | Django Forms: The Secret to Handling User Input Without the Headaches | Nitesh Chahar | [Read More](https://medium.com/p/441635817bab) |
-| Mon, 24 Nov 2025 16:28:18 GMT | When Encryption Isn’t Enough — How the Sturnus Trojan Sneaks Into WhatsApp, Signal & Telegram Chats. | eL Njas!™ | [Read More](https://medium.com/p/8350236aef2e) |
-| Mon, 24 Nov 2025 16:28:07 GMT | The Story That Almost Stayed Untold | Isla Handrics | [Read More](https://medium.com/p/7ab5273f3879) |
-| Mon, 24 Nov 2025 16:27:47 GMT | Padelify THM - Writeup | Domon | [Read More](https://medium.com/p/f8917e721a48) |
-| Mon, 24 Nov 2025 16:17:50 GMT | RST TI Report Digest: 24 Nov 2025 | RST Cloud | [Read More](https://medium.com/p/20daba12c1bc) |
-| Mon, 24 Nov 2025 16:13:51 GMT | QR Codes from the Past: How an Archive Broke Two-Factor Auth | Aayush kumar | [Read More](https://medium.com/p/e6e64bca466e) |
