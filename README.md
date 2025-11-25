@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Tue, 25 Nov 2025 12:19:29 GMT | Best Browser Extensions Useful for VAPT Beginners | VAPTify | [Read More](https://medium.com/p/921584e18322) |
+| Tue, 25 Nov 2025 11:51:44 GMT | The Cybersecurity Marketplace of Fear | Wakeyo Tolera | [Read More](https://medium.com/p/7a7485ff7fa8) |
 | Tue, 25 Nov 2025 10:35:07 GMT | Dark Web Email Scan for Complete Online Safety Guide | DeXpose | [Read More](https://medium.com/p/2df24013a188) |
 | Tue, 25 Nov 2025 10:19:32 GMT | Intigriti Challenge 1125 Write-Up — SSTI → RCE → Flag Extraction. | ALi MostaFa | [Read More](https://medium.com/p/e48b724c4cb1) |
 | Tue, 25 Nov 2025 10:00:55 GMT | Top VAPT Testing Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/18c0fd97a078) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 19:29:24 GMT | Twitter just exposed my location (and probably yours too) | KeylognCoffee | [Read More](https://medium.com/p/667ef72fb835) |
 | Mon, 24 Nov 2025 19:26:25 GMT | AI Services by Ayamil Coders: Transforming Businesses with Intelligent Automation | Ayamil Coders | [Read More](https://medium.com/p/1c80d3cc4e7f) |
 | Mon, 24 Nov 2025 19:20:24 GMT | Chinese Hackers Use Anthropic’s AI to Launch Automated Cyber Espionage Campaign | Cybervolt | [Read More](https://medium.com/p/8941ac2c46ca) |
-| Mon, 24 Nov 2025 19:13:09 GMT | The Cognitive Firewall has Breached | PinkOSINT | [Read More](https://medium.com/p/cf17bdd796aa) |
