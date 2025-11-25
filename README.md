@@ -16,6 +16,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 15:30:45 GMT | I Exposed Carding Operations Exploiting Stripe’s payment gateway - Merchants API CC CHECKER… | Christoscoming | [Read More](https://medium.com/p/191bc0a1df6b) |
 | Tue, 25 Nov 2025 15:26:31 GMT | Building Secure APIs from Day One | Israel Aráoz Severiche | [Read More](https://medium.com/p/6ab6b990fe71) |
 | Tue, 25 Nov 2025 15:03:55 GMT | Cyber Briefing: 2025.11.25 | CyberMaterial | [Read More](https://medium.com/p/ae0a548cd5d5) |
+| Tue, 25 Nov 2025 14:46:54 GMT | Vulnerability Assessment and Exploitation: Leveraging GVM, Nmap, and RSH for Complete Host… | Kiza | [Read More](https://medium.com/p/6d09a12ea5df) |
 | Tue, 25 Nov 2025 13:41:24 GMT | Inside a Hacker’s Mind: How Cybercriminals Choose Their Targets | Digital Defense | [Read More](https://medium.com/p/8fc048605c41) |
 | Tue, 25 Nov 2025 13:30:36 GMT | What is Kali Linux ? History of Kali Linux | Surajbaishya | [Read More](https://medium.com/p/e96693a6c929) |
 | Tue, 25 Nov 2025 13:13:53 GMT | Broken brute-force protection (IP block) — Writeup | Songül Kızılay Özügürler | [Read More](https://medium.com/p/cd48d5f17770) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 24 Nov 2025 22:17:19 GMT | Top Emerging Cyber Threats That Only AI Can Catch | Cybamatica | [Read More](https://medium.com/p/bfb611c49503) |
 | Mon, 24 Nov 2025 22:16:46 GMT | Recover Lost Cryptocurrency Through Optimistic Hacker Gaius. | Jacobalexander | [Read More](https://medium.com/p/60452770f2b4) |
 | Mon, 24 Nov 2025 22:12:16 GMT | AI-Written Code: The 5 Critical Security Checkpoints No Team Can Ignore | Cyber-AppSec | [Read More](https://medium.com/p/056b24170bb6) |
-| Mon, 24 Nov 2025 22:06:31 GMT | Code and the Machine: Why Developers Fear AI and What It Means for Cybersecurity | Elad Golan | [Read More](https://medium.com/p/ceb311ed5b5a) |
