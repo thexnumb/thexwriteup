@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 25 Nov 2025 22:17:47 GMT | Adding Checkin in Tor C2 Server — Part 4 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b9f88eb8d0f4) |
+| Tue, 25 Nov 2025 22:15:56 GMT | Inside Toyota HackFesta 2025: My Dive into Automotive Cybersecurity | Krishna | [Read More](https://medium.com/p/9c021ca6f079) |
+| Tue, 25 Nov 2025 22:02:04 GMT | How I Found a Critical IDOR in a University System (and Why Ethical Hacking Matters) | j4k3l0ng | [Read More](https://medium.com/p/5eb7f2ffffba) |
+| Tue, 25 Nov 2025 21:37:12 GMT | Beneficiation & Africa: A Cybersecurity, AI and Technology Perspective | Samuel Odekunle | [Read More](https://medium.com/p/cb0e3e456d8e) |
+| Tue, 25 Nov 2025 21:20:24 GMT | Why the U.S.-China AI Arms Race Is Entering a Critical New Phase | Frank Holmes | [Read More](https://medium.com/p/336bdee6e453) |
+| Tue, 25 Nov 2025 21:16:34 GMT | Are Malware Analysts Still Needed in 2025? | Geetanshaditya | [Read More](https://medium.com/p/1ef1493f9325) |
+| Tue, 25 Nov 2025 21:02:36 GMT | How I Learned the Hard Way That OSINT Has Legal Boundaries | Sam Galope | [Read More](https://medium.com/p/e0478583cee4) |
 | Tue, 25 Nov 2025 20:46:44 GMT | I Work in Cybersecurity — And I Still Got Hacked | Liam | [Read More](https://medium.com/p/01fc0bb9c306) |
 | Tue, 25 Nov 2025 20:22:22 GMT | Back to AppSec Basics: A Journey of Reflection, Learning, and Clarity | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/da632f7fca24) |
+| Tue, 25 Nov 2025 20:20:42 GMT | When a Vendor Slip-Up Hits Thousands: What the Comcast Vendor Breach Reveals About Cybersecurity… | SECURE IT! | [Read More](https://medium.com/p/aee312c37d73) |
 | Tue, 25 Nov 2025 19:10:28 GMT | Low-level logic flaw — PortSwigger Academy | Fatimahasan | [Read More](https://medium.com/p/c54efbffa4fd) |
 | Tue, 25 Nov 2025 19:07:20 GMT | Cybersecurity for Total Beginners: What You Really Need to Know First | Smith Adams | [Read More](https://medium.com/p/27ef6f1fd55d) |
 | Tue, 25 Nov 2025 19:05:15 GMT | CyberDefenders Midnight RDP Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/086e7cfb0d9a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 11:13:17 GMT | Top 10 Cybersecurity Companies in India — Leading the Future of Digital Protection | Prakash Factosecure | [Read More](https://medium.com/p/c903bf45bc80) |
 | Tue, 25 Nov 2025 11:08:44 GMT | How I Passed the CISA Exam on My First Attempt | Sotrinakko | [Read More](https://medium.com/p/7a5b915a33c0) |
 | Tue, 25 Nov 2025 11:06:20 GMT | DockerLabs Writeup — Sites (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f567e2dcb4e8) |
-| Tue, 25 Nov 2025 11:02:04 GMT | Detected in 60 Seconds: How to Identify Phishing with a Malware Sandbox | ANY.RUN | [Read More](https://medium.com/p/c69094d92519) |
-| Tue, 25 Nov 2025 11:01:27 GMT | Ethical Hacking Tools Taught in craw security for Non-Technical Students | Manisha Chaudhary | [Read More](https://medium.com/p/22bc55167c72) |
-| Tue, 25 Nov 2025 10:58:58 GMT | TryHackme Corridor Writeup | Nusret Onur | [Read More](https://medium.com/p/82d5e3a26bde) |
-| Tue, 25 Nov 2025 10:57:34 GMT | Analyzing a Python Keylogger: What I learned as a cybersecurity student | Gabriel Santos | [Read More](https://medium.com/p/966addcf24fd) |
-| Tue, 25 Nov 2025 10:57:05 GMT | Advanced Cyber Security Course for IT Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/f1db2dc2fb00) |
-| Tue, 25 Nov 2025 10:35:07 GMT | Dark Web Email Scan for Complete Online Safety Guide | DeXpose | [Read More](https://medium.com/p/2df24013a188) |
-| Tue, 25 Nov 2025 10:26:26 GMT | Cybersecurity Case Study: The 2025 Louvre Heist (Seven Minutes on the Seine) | Mr.Cool | [Read More](https://medium.com/p/34abc44f9eb4) |
-| Tue, 25 Nov 2025 10:19:32 GMT | Intigriti Challenge 1125 Write-Up — SSTI → RCE → Flag Extraction. | ALi MostaFa | [Read More](https://medium.com/p/e48b724c4cb1) |
