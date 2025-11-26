@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 19:28:08 GMT | A Very Unexpected Lesson From a Very Hot Man | Mashav Shelef | [Read More](https://medium.com/p/5404d90005e2) |
+| Wed, 26 Nov 2025 19:26:19 GMT | Data Encryption in Cloud: Understanding KMS, HSM, TLS & At-Rest Security | Adityapalve | [Read More](https://medium.com/p/64900dad9786) |
+| Wed, 26 Nov 2025 19:26:02 GMT | México todavía no tiene una ciberseguridad fuerte. | Adrian León | [Read More](https://medium.com/p/a8dc38ac4554) |
+| Wed, 26 Nov 2025 19:13:50 GMT | OffSec PG: Hutch (Active Directory, Intermediate) | G3XAR | [Read More](https://medium.com/p/5b51e4fb1a0d) |
+| Wed, 26 Nov 2025 19:12:11 GMT | Comprehensive Cross Site Scripting Assessment From Reflective Payloads to Persistent Exploits and… | Kiza | [Read More](https://medium.com/p/db48c8d88b8a) |
+| Wed, 26 Nov 2025 19:07:45 GMT | Akshit Rai  - a book by Shalini Singh | Subhash thakur | [Read More](https://medium.com/p/e63f7520690e) |
 | Wed, 26 Nov 2025 19:03:12 GMT | HACKERS TRIED USING BLENDER BUT FORGOT ITS NOT A FOOD PROCESSOR…! | Mohith Krishna K | [Read More](https://medium.com/p/146df9128754) |
 | Wed, 26 Nov 2025 19:00:57 GMT | Your Digital Footprint Is Bigger Than You Think | INTELON | [Read More](https://medium.com/p/cbae1a15eef5) |
 | Wed, 26 Nov 2025 18:58:16 GMT | AI-Powered OSINT: From URLs to Human Intelligence | INTELON | [Read More](https://medium.com/p/0d71ce285e54) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 14:02:19 GMT | Hack Days 2025: Creativity, Code, and a Hint of Halloween Magic | Puneet Sharma | [Read More](https://medium.com/p/d2099379eeb7) |
 | Wed, 26 Nov 2025 14:02:14 GMT | Akira Ransomware Is Coming for Small Title Agencies & Realtors | Cheryl Evans | [Read More](https://medium.com/p/f6baeae28f92) |
 | Wed, 26 Nov 2025 14:00:47 GMT | YAMAGoya: Open-Source Tool for Real-Time Threat Detection with Sigma and YARA Rules | Chetan Seripally | [Read More](https://medium.com/p/8873d41c16cd) |
-| Wed, 26 Nov 2025 13:59:49 GMT | Explorei um Type Confusion e Fiquei em 3º Lugar no CTF VespasCon'25 | Arthur Guilherme | [Read More](https://medium.com/p/98c0334d45ab) |
-| Wed, 26 Nov 2025 13:59:10 GMT | Shadow IT: The Hidden Cyber Risk Inside Every Organization | Digital Defense | [Read More](https://medium.com/p/3de3fb8c9a9f) |
-| Wed, 26 Nov 2025 13:48:07 GMT | How Does an AI Search Engine Decide What to Show First? | Vijay Kumar Gupta | [Read More](https://medium.com/p/dcd7db649df9) |
-| Wed, 26 Nov 2025 13:45:06 GMT | Major US Banks Impacted by SitusAMC Hack | Prerna Shukla | [Read More](https://medium.com/p/0d70fc6f347d) |
-| Wed, 26 Nov 2025 13:43:39 GMT | The Quantum Threat to Bitcoin: How AI Accelerates and Explains Q-Day | Renã L. Guarda | [Read More](https://medium.com/p/31b0ed5466a1) |
-| Wed, 26 Nov 2025 13:43:38 GMT | Two-Factor Authentication (2FA) vs. Passwords: What You Need to Know | SiyanoAV | [Read More](https://medium.com/p/609c3781f4b2) |
