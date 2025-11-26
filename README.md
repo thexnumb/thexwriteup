@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 10:12:00 GMT | Basic Server Security | Fabian Clemenz | [Read More](https://medium.com/p/27ee2265824d) |
+| Wed, 26 Nov 2025 10:10:24 GMT | CRA top 7 by Crimson7 | Vito Rallo | [Read More](https://medium.com/p/6ecbc6d1b16b) |
+| Wed, 26 Nov 2025 10:06:12 GMT | How Writing Gives Me Vital Leverage in a Collapsing Society | MOE_WRITES | [Read More](https://medium.com/p/b36906154527) |
+| Wed, 26 Nov 2025 10:01:03 GMT | eJPT Prep - Host & Network Penetration Testing: System-Host Based Attacks CTF 2 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/25821cde6cf1) |
+| Wed, 26 Nov 2025 10:00:00 GMT | Directory Listing: How a simple misconfiguration exposed an Application’s Wechat access tokens and… | Mr. Robot.txt | [Read More](https://medium.com/p/4b3e45328d44) |
+| Wed, 26 Nov 2025 09:57:17 GMT | Performance Meets Price: The Secret Behind a Reliable, Low-Cost VPS Server | Andy | [Read More](https://medium.com/p/eb98f7215659) |
+| Wed, 26 Nov 2025 09:55:10 GMT | Cyber threats are evolving faster than ever in today’s environment full of digital devices, and… | Crawsec | [Read More](https://medium.com/p/2da57824d428) |
+| Wed, 26 Nov 2025 09:54:45 GMT | HOW TO INSTALL UBUNTU ON VIRTUALBOX | JahdiSec | [Read More](https://medium.com/p/a0872f72a528) |
+| Wed, 26 Nov 2025 09:52:36 GMT | ISO 42001 vs ISO 27001: What’s the Difference? | Hicomply | [Read More](https://medium.com/p/8f96d2501a78) |
+| Wed, 26 Nov 2025 09:47:25 GMT | Dark Web Monitoring & Its Inherent Challenges | Syed Qasim | [Read More](https://medium.com/p/d7123fd855f1) |
+| Wed, 26 Nov 2025 09:46:21 GMT | The FAA Is Investigating Amazon After a Delivery Drone Severed an Internet Cable in Texas | pdfalltools.com | [Read More](https://medium.com/p/e5d02de70a53) |
+| Wed, 26 Nov 2025 09:46:02 GMT | My eJPT journey: Growth, Grit, 12 Terminals & 48 Hours of Cyber Battle Fueled by Caffeine | Sadaf Manzoor | [Read More](https://medium.com/p/25283082c219) |
 | Wed, 26 Nov 2025 09:42:45 GMT | Enhancing Penetration Testing with HackerAI: Step-by-Step Guide (Metasploitable Lab) | Andrey Pautov | [Read More](https://medium.com/p/b2ab2cdd4139) |
 | Wed, 26 Nov 2025 09:42:23 GMT | The Intent Gap: Why Humans Don’t Need a Control Layer — But AI Agents Do | Jon Capriola | [Read More](https://medium.com/p/85a5809a8d20) |
 | Wed, 26 Nov 2025 09:42:06 GMT | Managing Global Teams: Navigating Cultural Differences Across Borders | Steve Anderson | [Read More](https://medium.com/p/b54aef55e3a3) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 04:02:42 GMT | When the Internet Slowed Down: Understanding the Cloudflare Outage in Simple Tech Terms | J Koushalyashree | [Read More](https://medium.com/p/cd1c33f0f563) |
 | Wed, 26 Nov 2025 04:02:16 GMT | Epistemology for CyberSec Cert Junkies (part 1) | Jade Seeker | [Read More](https://medium.com/p/287916923381) |
 | Wed, 26 Nov 2025 03:58:50 GMT | How AI Is Changing Modern Warfare and National Security: The Shift We’re Not Ready For? | Mind Game | [Read More](https://medium.com/p/930c8825e3a9) |
-| Wed, 26 Nov 2025 03:58:40 GMT | Ahoo Khanom’s Husband | ALI PAYANDEH | [Read More](https://medium.com/p/d6ee87dafaa0) |
-| Wed, 26 Nov 2025 03:50:24 GMT | Turning Visibility Into Defense: Connecting the Attack Surface to the Detection Surface | Jon Schipp | [Read More](https://medium.com/p/09f75652b15c) |
-| Wed, 26 Nov 2025 03:42:48 GMT | Gen Z Joins Cybersecurity: Will AI Transform the Landscape? | Hungry Tech Mind | [Read More](https://medium.com/p/5e0a067d72f4) |
-| Wed, 26 Nov 2025 03:32:13 GMT | How Google Maps Is Cracking Down on Review Extortion | Deven Chhajed | [Read More](https://medium.com/p/e40faaefe60f) |
-| Wed, 26 Nov 2025 03:29:36 GMT | Why Gentleness Is a Revolution, Not a Weakness | ☽Karlee Alyssa | [Read More](https://medium.com/p/5c1950f8ee91) |
-| Wed, 26 Nov 2025 02:37:44 GMT | How Russia’s Oil Sector Became the Weak Link in Putin’s War Strategy | Money, Guns & Oil | [Read More](https://medium.com/p/400f7f22cbe4) |
-| Wed, 26 Nov 2025 02:32:06 GMT | Argo CD v3: The Future of GitOps | Sharan Kumar Reddy Sutrapu | [Read More](https://medium.com/p/6ebfe292947b) |
-| Wed, 26 Nov 2025 02:08:42 GMT | This 1 Trick Led to a Paywall Bypass | D.Haddad | [Read More](https://medium.com/p/024110c78ad4) |
-| Wed, 26 Nov 2025 02:02:50 GMT | A Woman’s True Strength: Not Men, Not Marriage, But These 3 Things | Eilen Lexus | [Read More](https://medium.com/p/67a8660a65f3) |
-| Wed, 26 Nov 2025 01:53:14 GMT | The iPhone Privacy Trick Apple Doesn’t Want You to Ignore | Soufiane ennaji | [Read More](https://medium.com/p/1e448c978e03) |
-| Wed, 26 Nov 2025 01:47:14 GMT | Sturnus Zararlı Mobil Uygulaması: Statik Analiz Raporu | Hazar | [Read More](https://medium.com/p/9339eeda967b) |
-| Wed, 26 Nov 2025 01:43:21 GMT | The Ethics of Hacking: My Hard Lessons From a Live Pen Test | Hania Khan | [Read More](https://medium.com/p/215d156f1dc0) |
