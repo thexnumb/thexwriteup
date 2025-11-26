@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 01:37:31 GMT | GZR Observer — Global Daily — India Perspective Nov 26, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e931dca2f246) |
+| Wed, 26 Nov 2025 01:36:52 GMT | Passkey: The Next Generation of Mobile User Authentication | Johnsonoaseru | [Read More](https://medium.com/p/b9d0902b10f4) |
+| Wed, 26 Nov 2025 01:32:29 GMT | RED TEAM ASSESSMENT REPORT — Windows Server 2019 CTF Challenge (Professional Report) | Sachin Sir | [Read More](https://medium.com/p/65297e920c5b) |
+| Wed, 26 Nov 2025 01:23:58 GMT | Lessons from the Nile: How Ancient Egyptian OpSec Can Teach Us About Security | Officer's Notes | [Read More](https://medium.com/p/a841472024d4) |
+| Wed, 26 Nov 2025 01:09:00 GMT | Major Cybersecurity Trends of 2025 | Matthew.Rosenquist | [Read More](https://medium.com/p/7f760810adfa) |
+| Wed, 26 Nov 2025 00:55:13 GMT | The Trap is Set: Building a Raspberry Pi Honeypot | tdashadow | [Read More](https://medium.com/p/ccb43afc546b) |
+| Wed, 26 Nov 2025 00:47:41 GMT | LLM Output Handling and Privacy Risks - Tryhackme | Aaron | [Read More](https://medium.com/p/8e3dee715646) |
+| Wed, 26 Nov 2025 00:32:09 GMT | HackTheBox Credentials in AD Object Properties: Because Why Encrypt When You Can Describe? | Cybersecurity Simplified | [Read More](https://medium.com/p/8fb8b290ac79) |
+| Wed, 26 Nov 2025 00:22:58 GMT | How an LLM and One Curious Non-Engineer Eliminated the Last 25 % Mystery of Turbofan Thrust in One… | Berend Watchus | [Read More](https://medium.com/p/30a6036c806e) |
+| Wed, 26 Nov 2025 00:19:00 GMT | Turing Machine: Theory and Applications in Computer Science | fatma zahra tidjani | [Read More](https://medium.com/p/1735cd15ed04) |
+| Wed, 26 Nov 2025 00:12:04 GMT | Detecting Malicious ArcGIS Server Object Extensions | Micah Babinski | [Read More](https://medium.com/p/c775280d36a7) |
+| Wed, 26 Nov 2025 00:11:04 GMT | A Server-Side Request Forgery (SSRF) vulnerability in ChatGPT | Cyber-AppSec | [Read More](https://medium.com/p/d69dd92961d0) |
+| Wed, 26 Nov 2025 00:05:38 GMT | How I Survived My First ISO 27001 External Audit as the Lead Auditee | Josh | [Read More](https://medium.com/p/87e921fbe7a0) |
+| Wed, 26 Nov 2025 00:02:32 GMT | API4:2023 — Unrestricted Resource Consumption: Denial-of-Service Attacks Using APIs | JPablo13 | [Read More](https://medium.com/p/82e12fa6dd1e) |
+| Tue, 25 Nov 2025 23:53:36 GMT | How CSP Prevents XSS (Cross-Sight Scripting) | Sabihullah Saleh | [Read More](https://medium.com/p/7a9fbd4eeb06) |
+| Tue, 25 Nov 2025 23:39:10 GMT | The Art Of Finding What Was Never Meant To Be Found | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/fbcabd93a50b) |
 | Tue, 25 Nov 2025 23:32:32 GMT | FastAPI Multi-Tenant SaaS: Row-Level Security Without Pain | Bytecraft | [Read More](https://medium.com/p/9ef960085bf4) |
 | Tue, 25 Nov 2025 23:23:29 GMT | Abuja sits inside a defended bubble. | Put me in a Chanel | [Read More](https://medium.com/p/ee7539b797e6) |
 | Tue, 25 Nov 2025 23:20:43 GMT | Part 2 Night of fire | Sara Fitsgerald | [Read More](https://medium.com/p/c68c6ded8e1b) |
@@ -41,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 21:02:36 GMT | How I Learned the Hard Way That OSINT Has Legal Boundaries | Sam Galope | [Read More](https://medium.com/p/e0478583cee4) |
 | Tue, 25 Nov 2025 20:46:44 GMT | I Work in Cybersecurity — And I Still Got Hacked | Liam | [Read More](https://medium.com/p/01fc0bb9c306) |
 | Tue, 25 Nov 2025 20:32:52 GMT | DevSecOps as a Service: Why In-House Security Is a 2025 Money Pit | Yash Batra | [Read More](https://medium.com/p/3e1771acfe6a) |
+| Tue, 25 Nov 2025 20:25:45 GMT | My favorite productivity win this month? | Jane Brian | [Read More](https://medium.com/p/326a9a464ac2) |
 | Tue, 25 Nov 2025 20:22:22 GMT | Back to AppSec Basics: A Journey of Reflection, Learning, and Clarity | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/da632f7fca24) |
 | Tue, 25 Nov 2025 20:20:42 GMT | When a Vendor Slip-Up Hits Thousands: What the Comcast Vendor Breach Reveals About Cybersecurity… | SECURE IT! | [Read More](https://medium.com/p/aee312c37d73) |
 | Tue, 25 Nov 2025 20:04:59 GMT | OpenAI Guardrails: Protecting AI Applications from Prompt Attacks | Vitaly Sem | [Read More](https://medium.com/p/8b1cc97f3989) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 15:41:21 GMT | Penetrasyon Testi vs Red Team: Farkları, Önemi ve Hangisini Ne Zaman Tercih Etmelisiniz? | Rauf TIMURI | [Read More](https://medium.com/p/b45a81b32ad1) |
 | Tue, 25 Nov 2025 15:38:44 GMT | Google reCAPTCHA v3: Is the “Invisible” Shield Violating Your Privacy? ️ | Deeghayu Fernando | [Read More](https://medium.com/p/39d3438b455b) |
 | Tue, 25 Nov 2025 15:30:45 GMT | I Exposed Carding Operations Exploiting Stripe’s payment gateway - Merchants API CC CHECKER… | Christoscoming | [Read More](https://medium.com/p/191bc0a1df6b) |
-| Tue, 25 Nov 2025 15:27:08 GMT | Eat Pizza for Breakfast, Lose Weight Fast | Sriram Sreekumar | [Read More](https://medium.com/p/d4ab9617e6b4) |
-| Tue, 25 Nov 2025 15:26:31 GMT | Building Secure APIs from Day One | Israel Aráoz Severiche | [Read More](https://medium.com/p/6ab6b990fe71) |
-| Tue, 25 Nov 2025 15:22:47 GMT | The Cybersecurity Jobs That AI Will Kill — And the Ones That Will Survive | Cybervolt | [Read More](https://medium.com/p/3424a2908501) |
-| Tue, 25 Nov 2025 15:16:23 GMT | Jarkom : User Management & Hotspot | Yasa Wijaya | [Read More](https://medium.com/p/c34b1478478d) |
-| Tue, 25 Nov 2025 15:06:34 GMT | “The $20,000 Copy-Paste Mistake: When HackerOne Hacked Itself” | Aman Sharma | [Read More](https://medium.com/p/d7addc3efdec) |
-| Tue, 25 Nov 2025 15:03:55 GMT | Cyber Briefing: 2025.11.25 | CyberMaterial | [Read More](https://medium.com/p/ae0a548cd5d5) |
-| Tue, 25 Nov 2025 14:54:13 GMT | PWNLAB-INIT WALKTHROUGH | Gardash Aliyev | [Read More](https://medium.com/p/0ec015e5b7d3) |
-| Tue, 25 Nov 2025 14:53:24 GMT | In a World Full of Vulnerabilities, OWASP Is the Map | farshad moradi shahrbabak | [Read More](https://medium.com/p/fbe8845faea4) |
-| Tue, 25 Nov 2025 14:46:54 GMT | Vulnerability Assessment and Exploitation: Leveraging GVM, Nmap, and RSH for Complete Host… | Kiza | [Read More](https://medium.com/p/6d09a12ea5df) |
-| Tue, 25 Nov 2025 14:45:51 GMT | Exploiting an IDOR to Claim Unavailable Free Gifts | Parth Narula | [Read More](https://medium.com/p/9a1ff645913d) |
-| Tue, 25 Nov 2025 13:41:24 GMT | Inside a Hacker’s Mind: How Cybercriminals Choose Their Targets | Digital Defense | [Read More](https://medium.com/p/8fc048605c41) |
-| Tue, 25 Nov 2025 13:32:06 GMT | Red Team Engagement — Windows Server 2019 CTF Challenge (Part-02) | Sachin Sir | [Read More](https://medium.com/p/e38e288357de) |
-| Tue, 25 Nov 2025 13:32:06 GMT | Jailbreaking for iOS Pentesting: Tools, Types & Best Practices | Prudhvi | [Read More](https://medium.com/p/13b2d479dfed) |
-| Tue, 25 Nov 2025 13:30:43 GMT | Today’s Breeze | Kelz | [Read More](https://medium.com/p/4863bd97e44e) |
-| Tue, 25 Nov 2025 13:30:36 GMT | What is Kali Linux ? History of Kali Linux | Surajbaishya | [Read More](https://medium.com/p/e96693a6c929) |
-| Tue, 25 Nov 2025 13:26:44 GMT | I Automated My Entire Recon Process | Ibtissam | [Read More](https://medium.com/p/db5e488adf83) |
-| Tue, 25 Nov 2025 13:21:10 GMT | Securing a MEAN Stack App: A Guide to HTTPS, CORS, and Helmet.js | Mukesh Ram | [Read More](https://medium.com/p/1e77381c6617) |
