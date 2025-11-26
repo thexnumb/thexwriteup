@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 13:33:55 GMT | The Ghost in Your Wi-Fi: Building a Jammer + Fake Hotspot Generator with ESP8266 | Nisarg Patel | [Read More](https://medium.com/p/9accef784d25) |
+| Wed, 26 Nov 2025 13:28:21 GMT | Oil & Gas in Africa: The Untold Digital Weakness Behind Pipeline Leaks and Production Downtime | Techero | [Read More](https://medium.com/p/e8867eb45a52) |
+| Wed, 26 Nov 2025 13:19:21 GMT | 7-Zip path traversal (CVE-2025–11001/11002): when your archive decides to go rogue | Telynor | [Read More](https://medium.com/p/a75211431ff7) |
+| Wed, 26 Nov 2025 13:15:53 GMT | How i earned $100 in one minute | Pawan parmar | [Read More](https://medium.com/p/b1b52d5bbf41) |
+| Wed, 26 Nov 2025 13:11:01 GMT | I Automated My Bug Hunting With Google | Ibtissam | [Read More](https://medium.com/p/1dd5e5938b39) |
+| Wed, 26 Nov 2025 13:07:05 GMT | Breaking Open in Budapest | Maryanne Pope | [Read More](https://medium.com/p/f47cdfd2a077) |
+| Wed, 26 Nov 2025 13:02:07 GMT | BankGPT Walkthrough. TryHackMe. Cybersecurity in AI. | Lintu Oommen | [Read More](https://medium.com/p/fbc6bb87037a) |
+| Wed, 26 Nov 2025 13:01:08 GMT | Investigate Web Attack —LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/15ccc45abdc4) |
+| Wed, 26 Nov 2025 12:46:48 GMT | Windows Threat Detection 1 Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/9fcd3e93f7a8) |
 | Wed, 26 Nov 2025 12:44:46 GMT | From Zero Reports to My First Hall of Fame | VoidSec24 | [Read More](https://medium.com/p/177eb70afd58) |
 | Wed, 26 Nov 2025 12:40:38 GMT | Bug Bounty: Memanfaatkan webhook untuk mengambil token, uuid, sso hingga Account Takeover | 0xRedFox29 | [Read More](https://medium.com/p/c325d488d68c) |
 | Wed, 26 Nov 2025 12:36:53 GMT | Understanding Content Management Systems and Why WordPress Stands Out | Cyber Timi | [Read More](https://medium.com/p/693c07e862fe) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 07:34:13 GMT | What is Docker? | Soundaryaps | [Read More](https://medium.com/p/97d058ec805b) |
 | Wed, 26 Nov 2025 07:33:22 GMT | Cyber Security Black Friday Deals for College Students | cyber security Updates | [Read More](https://medium.com/p/8cb607ed1e17) |
 | Wed, 26 Nov 2025 07:31:08 GMT | Reverse engineering the ROS2 submission pipeline to hijack and bypass the control flow | Мартин. | [Read More](https://medium.com/p/410e208140d7) |
-| Wed, 26 Nov 2025 07:28:17 GMT | A Complete Guide to SSRF: Vulnerability Types, Discovery Methods, Exploitation Techniques, and… | Diman | [Read More](https://medium.com/p/be995a5efdd1) |
-| Wed, 26 Nov 2025 07:27:37 GMT | Malware Analysis for Aam Aadmi | Divyang Mistry | [Read More](https://medium.com/p/9de1419c1ac9) |
-| Wed, 26 Nov 2025 07:15:55 GMT | Chat Control and the Future of Digital Privacy: What Europe’s Proposal Really Means | Rabib Bin Nur | [Read More](https://medium.com/p/5abe4fc2244f) |
-| Wed, 26 Nov 2025 07:12:13 GMT | Why Watching Companies Get Hacked Made Me Want This Career | Sidak Bhogal | [Read More](https://medium.com/p/cd8819ef2be1) |
-| Wed, 26 Nov 2025 07:08:14 GMT | “IoT (Internet of Things) Security: Why Your ‘Smart’ Devices May Not Be As Smart About Safety” | Grace Chukwunta | [Read More](https://medium.com/p/30e8d374bac0) |
-| Wed, 26 Nov 2025 07:02:42 GMT | Zero Trust Collaboration: Why SECURET is Essential for Hybrid Work Security | SAYCOIN | [Read More](https://medium.com/p/e180d50f619d) |
-| Wed, 26 Nov 2025 07:00:02 GMT | Disinformation Security: Building Systems That Resist Synthetic Narratives | Ismat Babirli | [Read More](https://medium.com/p/017a907643f1) |
-| Wed, 26 Nov 2025 06:57:56 GMT | The Lottie Player Attack: A Wake-Up Call for Web3 Security | Dhanush N | [Read More](https://medium.com/p/b0a01d308950) |
-| Wed, 26 Nov 2025 06:54:25 GMT | iOS App Security Testing for Healthcare: Protecting Patient Data (HIPAA) | Kartiksharma | [Read More](https://medium.com/p/fa2e69dbd8c0) |
