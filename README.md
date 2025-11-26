@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 21:52:26 GMT | How I Discovered an IDOR Vulnerability in a Parent/Child Management API | Umanhonlen Gabriel | [Read More](https://medium.com/p/445c9471d23b) |
+| Wed, 26 Nov 2025 21:45:06 GMT | جهت هماهنگی تلگرام یا واتساپ 09915528413پیام بدهید،ویا باشماره(09364608280)تماس بگیرید
+صیغه کرج… | مهدی رضایی | [Read More](https://medium.com/p/6d875e061894) |
+| Wed, 26 Nov 2025 21:36:25 GMT | The $1 Test Drive | Eina Schroeder | [Read More](https://medium.com/p/b5814d5b52a2) |
 | Wed, 26 Nov 2025 21:25:58 GMT | Cloudflare Bypass via Exposed Origin IP - The Power of Shodan Recon! | terp0x0 | [Read More](https://medium.com/p/fb7a8cef8ce6) |
 | Wed, 26 Nov 2025 21:25:39 GMT | Tax Fraud on the Rise in Canada: What to Watch for This Filing Season | Raya P | [Read More](https://medium.com/p/b05644406d19) |
 | Wed, 26 Nov 2025 21:24:26 GMT | VulNyx Store Writeup | CyberCraft | [Read More](https://medium.com/p/006618040b25) |
@@ -109,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 15:19:41 GMT | Apa Itu HTML, CSS, dan JavaScript? Penjelasan Paling Mudah untuk Pemula | Anjas Rani | [Read More](https://medium.com/p/0b2aa020d20a) |
 | Wed, 26 Nov 2025 15:17:10 GMT | AI Is Not The Future, It Is the Present. Here’s How I am Building With It | Abdullah Javeed | [Read More](https://medium.com/p/e87ccd374c57) |
 | Wed, 26 Nov 2025 15:16:31 GMT | ️ NACL vs. Security Groups: Understanding AWS’s Two Layers of Network Security | Deeghayu Fernando | [Read More](https://medium.com/p/f9c0bb3c0d21) |
-| Wed, 26 Nov 2025 15:16:16 GMT | Gemini 3.0: Google’s Next AI Breakthrough Is Arriving With Serious Security Concerns | Fortress Protocol | [Read More](https://medium.com/p/98eeddc957eb) |
-| Wed, 26 Nov 2025 15:13:51 GMT | PowerShell Keylogger Malware Analysis LetsDefend CTF️ | Aditya Bhatt | [Read More](https://medium.com/p/e0965712dd27) |
-| Wed, 26 Nov 2025 15:13:18 GMT | When AI Becomes a Weapon: WormGPT & KawaiiGPT Sell Cybercrime at $220 | Chetan Seripally | [Read More](https://medium.com/p/63ccdba833be) |
