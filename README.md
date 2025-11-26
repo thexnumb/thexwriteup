@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Wed, 26 Nov 2025 20:21:53 GMT | How a Security Team Discovered a $3,000 XSS Bug — And Why It Matters for Every Company | Cybervolt | [Read More](https://medium.com/p/42801ffbb27f) |
+| Wed, 26 Nov 2025 20:19:00 GMT | The Anger of Mexico’s Military | Danielblanco | [Read More](https://medium.com/p/8e807fb42733) |
 | Wed, 26 Nov 2025 20:04:11 GMT | AS-Rep Challenge(LetsDefend) | Brandon Love | [Read More](https://medium.com/p/cf1dee11b6a5) |
 | Wed, 26 Nov 2025 20:02:32 GMT | Debugging Is the New Gold: Why AI-Dependent Developers Will Collapse in Real Production Systems | The Dev Notebook | [Read More](https://medium.com/p/be03703d17d3) |
 | Wed, 26 Nov 2025 19:48:56 GMT | How I Found My Place in Cybersecurity (When Nothing Made Sense at First) | Null-diff | [Read More](https://medium.com/p/d7b50824bbef) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 14:42:37 GMT | OSCP Grind - PG Practice - ZenPhoto | Mr Jokar | [Read More](https://medium.com/p/cd551b2717c3) |
 | Wed, 26 Nov 2025 14:41:57 GMT | When a Simple Recon Command Turns Into an IT Horror Movie | Fateyaly | [Read More](https://medium.com/p/bf3e194f87d7) |
 | Wed, 26 Nov 2025 14:40:44 GMT | Texas Tech University Class Ring Guide 2025: Meaning, Cost, and Tradition | Motherlandlove | [Read More](https://medium.com/p/61fe5d205a4d) |
-| Wed, 26 Nov 2025 14:32:51 GMT | How to Make Your OutSystems App Cookies Secure | Raquel Gouveia | [Read More](https://medium.com/p/64d537690de0) |
