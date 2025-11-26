@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 07:31:08 GMT | Reverse engineering the ROS2 submission pipeline to hijack and bypass the control flow | Мартин. | [Read More](https://medium.com/p/410e208140d7) |
+| Wed, 26 Nov 2025 07:28:17 GMT | A Complete Guide to SSRF: Vulnerability Types, Discovery Methods, Exploitation Techniques, and… | Diman | [Read More](https://medium.com/p/be995a5efdd1) |
+| Wed, 26 Nov 2025 07:27:37 GMT | Malware Analysis for Aam Aadmi | Divyang Mistry | [Read More](https://medium.com/p/9de1419c1ac9) |
+| Wed, 26 Nov 2025 07:15:55 GMT | Chat Control and the Future of Digital Privacy: What Europe’s Proposal Really Means | Rabib Bin Nur | [Read More](https://medium.com/p/5abe4fc2244f) |
 | Wed, 26 Nov 2025 07:12:13 GMT | Why Watching Companies Get Hacked Made Me Want This Career | Sidak Bhogal | [Read More](https://medium.com/p/cd8819ef2be1) |
 | Wed, 26 Nov 2025 07:08:14 GMT | “IoT (Internet of Things) Security: Why Your ‘Smart’ Devices May Not Be As Smart About Safety” | Grace Chukwunta | [Read More](https://medium.com/p/30e8d374bac0) |
 | Wed, 26 Nov 2025 07:02:42 GMT | Zero Trust Collaboration: Why SECURET is Essential for Hybrid Work Security | SAYCOIN | [Read More](https://medium.com/p/e180d50f619d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 22:29:57 GMT | Cyber Threats Are Rising — And Aesthetic Clinics Must Treat Cybersecurity as Patient Safety | Truce Media | [Read More](https://medium.com/p/65e06d8a5f99) |
 | Tue, 25 Nov 2025 22:27:14 GMT | If You Aren’t Breaking Things, You’re Probably Not Learning | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b381b4ee9a96) |
 | Tue, 25 Nov 2025 22:17:47 GMT | Adding Checkin in Tor C2 Server — Part 4 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b9f88eb8d0f4) |
-| Tue, 25 Nov 2025 22:16:17 GMT | From Revolution to Radicalization: How the Arab Spring Transformed Europe’s Security Landscape | TDJRADIO1 | [Read More](https://medium.com/p/47c4f36388ef) |
-| Tue, 25 Nov 2025 22:15:56 GMT | Inside Toyota HackFesta 2025: My Dive into Automotive Cybersecurity | Krishna | [Read More](https://medium.com/p/9c021ca6f079) |
-| Tue, 25 Nov 2025 22:10:57 GMT | Part 1 The Morning Before | Sara Fitsgerald | [Read More](https://medium.com/p/9c3295ecf057) |
-| Tue, 25 Nov 2025 22:02:04 GMT | How I Found a Critical IDOR in a University System (and Why Ethical Hacking Matters) | j4k3l0ng | [Read More](https://medium.com/p/5eb7f2ffffba) |
