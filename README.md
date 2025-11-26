@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 15:16:31 GMT | ️ NACL vs. Security Groups: Understanding AWS’s Two Layers of Network Security | Deeghayu Fernando | [Read More](https://medium.com/p/f9c0bb3c0d21) |
+| Wed, 26 Nov 2025 15:16:16 GMT | Gemini 3.0: Google’s Next AI Breakthrough Is Arriving With Serious Security Concerns | Fortress Protocol | [Read More](https://medium.com/p/98eeddc957eb) |
+| Wed, 26 Nov 2025 15:13:51 GMT | PowerShell Keylogger Malware Analysis LetsDefend CTF️ | Aditya Bhatt | [Read More](https://medium.com/p/e0965712dd27) |
+| Wed, 26 Nov 2025 15:13:18 GMT | When AI Becomes a Weapon: WormGPT & KawaiiGPT Sell Cybercrime at $220 | Chetan Seripally | [Read More](https://medium.com/p/63ccdba833be) |
+| Wed, 26 Nov 2025 15:09:11 GMT | aaaHosting a Website on the Dark Web: What Privacy-Minded Creators Should Know | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/13aa74045a85) |
+| Wed, 26 Nov 2025 15:06:42 GMT | Security Patterns on GCP: An Architectural Deep Dive | Mr Ben Abdallah | [Read More](https://medium.com/p/bc3ca182de56) |
+| Wed, 26 Nov 2025 15:06:34 GMT | Shai-Hulud 2.0 — The NPM Supply-Chain Attack | Anurag Jain | [Read More](https://medium.com/p/fb701841d1d3) |
+| Wed, 26 Nov 2025 15:06:17 GMT | మీ స్వంత డిజిటల్ జంట: వ్యక్తిగత AI సహాయకులు ఎలా ప్రతి వ్యక్తిని మార్చబోతున్నాయి | Singipuram jaswanth | [Read More](https://medium.com/p/e9f4b297d17a) |
+| Wed, 26 Nov 2025 15:05:54 GMT | How to Detect Hooking (Frida) on React Native | Talsec | [Read More](https://medium.com/p/0379f5943fcf) |
+| Wed, 26 Nov 2025 15:05:46 GMT | Amazon has issued a sweeping cybersecurity alert to its 310 million global users, warning of a… | Simple and uniq | [Read More](https://medium.com/p/834289fcfaeb) |
+| Wed, 26 Nov 2025 15:05:10 GMT | Why Our Health Data Feels Safe — but Often Isn’t | David Miller | [Read More](https://medium.com/p/e8518aef949c) |
+| Wed, 26 Nov 2025 15:03:32 GMT | Cyber Briefing: 2025.11.26 | CyberMaterial | [Read More](https://medium.com/p/bbf8c367c220) |
+| Wed, 26 Nov 2025 15:01:16 GMT | Mastering SOAR Playbooks: How to automate Alert Management with Slack | Asad Siddiqui | [Read More](https://medium.com/p/addc6723567a) |
+| Wed, 26 Nov 2025 14:59:17 GMT | What Is Cyber Security? A Beginner-Friendly Overview | mehedi jony | [Read More](https://medium.com/p/5b9d173813aa) |
+| Wed, 26 Nov 2025 14:53:15 GMT | How Researchers Queried 100Million WhatsApp Numbers Per Hour (And What Changed) | Berend Watchus | [Read More](https://medium.com/p/f324b15653ac) |
+| Wed, 26 Nov 2025 14:50:34 GMT | ️ Blog 57 — Amazon DynamoDB: The NoSQL Database Built for Speed & Scale | Prutha_Dongre | [Read More](https://medium.com/p/3cdff03b5ff6) |
+| Wed, 26 Nov 2025 14:42:37 GMT | OSCP Grind - PG Practice - ZenPhoto | Mr Jokar | [Read More](https://medium.com/p/cd551b2717c3) |
+| Wed, 26 Nov 2025 14:41:57 GMT | When a Simple Recon Command Turns Into an IT Horror Movie | Fateyaly | [Read More](https://medium.com/p/bf3e194f87d7) |
+| Wed, 26 Nov 2025 14:40:44 GMT | Texas Tech University Class Ring Guide 2025: Meaning, Cost, and Tradition | Motherlandlove | [Read More](https://medium.com/p/61fe5d205a4d) |
+| Wed, 26 Nov 2025 14:32:51 GMT | How to Make Your OutSystems App Cookies Secure | Raquel Gouveia | [Read More](https://medium.com/p/64d537690de0) |
+| Wed, 26 Nov 2025 14:32:33 GMT | (Comptia A+) Mobile Device Security: Essential Tips to Safeguard Your Data | Vignesh R | [Read More](https://medium.com/p/f4248627c3c4) |
 | Wed, 26 Nov 2025 14:31:54 GMT | Types and Importance of Penetration Testing for SMEs | Hoplon Infosec | [Read More](https://medium.com/p/a1237e3bf4dd) |
 | Wed, 26 Nov 2025 14:29:25 GMT | Never Show Weakness, Always Sell Fabricated Intelligence: The System Implementer’s Playbook | Namir Sagheenanajar | [Read More](https://medium.com/p/59615f240624) |
 | Wed, 26 Nov 2025 14:27:23 GMT | Why Strategic Vulnerability Makes Men More Attentive in Relationships | Sevenqian | [Read More](https://medium.com/p/619dbb657611) |
@@ -92,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 10:00:00 GMT | Directory Listing: How a simple misconfiguration exposed an Application’s Wechat access tokens and… | Mr. Robot.txt | [Read More](https://medium.com/p/4b3e45328d44) |
 | Wed, 26 Nov 2025 09:57:17 GMT | Performance Meets Price: The Secret Behind a Reliable, Low-Cost VPS Server | Andy | [Read More](https://medium.com/p/eb98f7215659) |
 | Wed, 26 Nov 2025 09:55:10 GMT | Cyber threats are evolving faster than ever in today’s environment full of digital devices, and… | Crawsec | [Read More](https://medium.com/p/2da57824d428) |
-| Wed, 26 Nov 2025 09:54:45 GMT | HOW TO INSTALL UBUNTU ON VIRTUALBOX | JahdiSec | [Read More](https://medium.com/p/a0872f72a528) |
-| Wed, 26 Nov 2025 09:52:36 GMT | ISO 42001 vs ISO 27001: What’s the Difference? | Hicomply | [Read More](https://medium.com/p/8f96d2501a78) |
-| Wed, 26 Nov 2025 09:47:25 GMT | Dark Web Monitoring & Its Inherent Challenges | Syed Qasim | [Read More](https://medium.com/p/d7123fd855f1) |
-| Wed, 26 Nov 2025 09:46:21 GMT | The FAA Is Investigating Amazon After a Delivery Drone Severed an Internet Cable in Texas | pdfalltools.com | [Read More](https://medium.com/p/e5d02de70a53) |
-| Wed, 26 Nov 2025 09:46:02 GMT | My eJPT journey: Growth, Grit, 12 Terminals & 48 Hours of Cyber Battle Fueled by Caffeine | Sadaf Manzoor | [Read More](https://medium.com/p/25283082c219) |
-| Wed, 26 Nov 2025 09:42:45 GMT | Enhancing Penetration Testing with HackerAI: Step-by-Step Guide (Metasploitable Lab) | Andrey Pautov | [Read More](https://medium.com/p/b2ab2cdd4139) |
-| Wed, 26 Nov 2025 09:42:23 GMT | The Intent Gap: Why Humans Don’t Need a Control Layer — But AI Agents Do | Jon Capriola | [Read More](https://medium.com/p/85a5809a8d20) |
-| Wed, 26 Nov 2025 09:42:06 GMT | Managing Global Teams: Navigating Cultural Differences Across Borders | Steve Anderson | [Read More](https://medium.com/p/b54aef55e3a3) |
-| Wed, 26 Nov 2025 09:30:45 GMT | How Zuri Ozeomachukwu Njoku Builds Secure and Reliable IT Environments | Zuri Njoku | [Read More](https://medium.com/p/12cf40d975f7) |
-| Wed, 26 Nov 2025 09:30:12 GMT | Digital Transformation Malaysia: Can We Survive Without WiFi at Mamaks? | HiSEVEN | [Read More](https://medium.com/p/bc58b4ca69e3) |
-| Wed, 26 Nov 2025 09:27:38 GMT | Secure Software Development Lifecycle (SSDLC): Building Security Into Every Line of Code | Adebowale Adetunji | [Read More](https://medium.com/p/e4e4476cf471) |
-| Wed, 26 Nov 2025 09:20:16 GMT | Defeating LSASS Defenses: A Deep Dive into Modern Bypass Techniques | Owais | [Read More](https://medium.com/p/6b034e5195c2) |
-| Wed, 26 Nov 2025 09:18:15 GMT | Advanced Enterprise Security Solutions With ASIS Technologies | ASIS Technologies | [Read More](https://medium.com/p/ad958390af93) |
-| Wed, 26 Nov 2025 09:15:44 GMT | Certified Cybersecurity Educator Professional (CCEP) Exam: Real Question Styles and Practical… | Raymond Ebonine | [Read More](https://medium.com/p/470cce1fa4f8) |
-| Wed, 26 Nov 2025 09:11:30 GMT | DockerLabs Writeup — Inj3ct0rss (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/75821bc88052) |
-| Wed, 26 Nov 2025 09:05:00 GMT | JWT Hacking Toolkit: 20 Real Hacker Techniques to Master Authentication Attacks | Very Lazy Tech | [Read More](https://medium.com/p/acc75a736e6e) |
-| Wed, 26 Nov 2025 09:03:14 GMT | Turn Every Login Into a Leak Check With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/a42417f6c5cc) |
-| Wed, 26 Nov 2025 09:01:18 GMT | The Future of Vulnerability Scanning is Ephemeral: Why We Built a 100% Client-Side Analyzer | shresth paul | [Read More](https://medium.com/p/cf5d4d1da3b9) |
-| Wed, 26 Nov 2025 09:01:14 GMT | Hackers Love Untrained Users — Don’t Be One | Redfox Security | [Read More](https://medium.com/p/a7122d5c5577) |
-| Wed, 26 Nov 2025 08:38:19 GMT | No Sun? No Shadows? No Problem! Tracking Location via Power Grids (OSINT Guide) | Ominoko | [Read More](https://medium.com/p/336932170e8c) |
-| Wed, 26 Nov 2025 08:35:46 GMT | Adaptive Security Architecture: How Modern Cyber Defense Learns and Evolves | Majidbasharat | [Read More](https://medium.com/p/12274526133d) |
