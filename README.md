@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 02:37:44 GMT | How Russia’s Oil Sector Became the Weak Link in Putin’s War Strategy | Money, Guns & Oil | [Read More](https://medium.com/p/400f7f22cbe4) |
+| Wed, 26 Nov 2025 02:32:06 GMT | Argo CD v3: The Future of GitOps | Sharan Kumar Reddy Sutrapu | [Read More](https://medium.com/p/6ebfe292947b) |
+| Wed, 26 Nov 2025 02:08:42 GMT | This 1 Trick Led to a Paywall Bypass | D.Haddad | [Read More](https://medium.com/p/024110c78ad4) |
+| Wed, 26 Nov 2025 02:02:50 GMT | A Woman’s True Strength: Not Men, Not Marriage, But These 3 Things | Eilen Lexus | [Read More](https://medium.com/p/67a8660a65f3) |
+| Wed, 26 Nov 2025 01:53:14 GMT | The iPhone Privacy Trick Apple Doesn’t Want You to Ignore | Soufiane ennaji | [Read More](https://medium.com/p/1e448c978e03) |
+| Wed, 26 Nov 2025 01:47:14 GMT | Sturnus Zararlı Mobil Uygulaması: Statik Analiz Raporu | Hazar | [Read More](https://medium.com/p/9339eeda967b) |
+| Wed, 26 Nov 2025 01:43:21 GMT | The Ethics of Hacking: My Hard Lessons From a Live Pen Test | Hania Khan | [Read More](https://medium.com/p/215d156f1dc0) |
 | Wed, 26 Nov 2025 01:37:31 GMT | GZR Observer — Global Daily — India Perspective Nov 26, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e931dca2f246) |
 | Wed, 26 Nov 2025 01:36:52 GMT | Passkey: The Next Generation of Mobile User Authentication | Johnsonoaseru | [Read More](https://medium.com/p/b9d0902b10f4) |
 | Wed, 26 Nov 2025 01:32:29 GMT | RED TEAM ASSESSMENT REPORT — Windows Server 2019 CTF Challenge (Professional Report) | Sachin Sir | [Read More](https://medium.com/p/65297e920c5b) |
@@ -19,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 01:09:00 GMT | Major Cybersecurity Trends of 2025 | Matthew.Rosenquist | [Read More](https://medium.com/p/7f760810adfa) |
 | Wed, 26 Nov 2025 00:55:13 GMT | The Trap is Set: Building a Raspberry Pi Honeypot | tdashadow | [Read More](https://medium.com/p/ccb43afc546b) |
 | Wed, 26 Nov 2025 00:47:41 GMT | LLM Output Handling and Privacy Risks - Tryhackme | Aaron | [Read More](https://medium.com/p/8e3dee715646) |
+| Wed, 26 Nov 2025 00:32:23 GMT | Información, Comunicación y Tecnologías de la Información en la Educación | Doris Ortiz | [Read More](https://medium.com/p/3933feace86a) |
 | Wed, 26 Nov 2025 00:32:09 GMT | HackTheBox Credentials in AD Object Properties: Because Why Encrypt When You Can Describe? | Cybersecurity Simplified | [Read More](https://medium.com/p/8fb8b290ac79) |
 | Wed, 26 Nov 2025 00:22:58 GMT | How an LLM and One Curious Non-Engineer Eliminated the Last 25 % Mystery of Turbofan Thrust in One… | Berend Watchus | [Read More](https://medium.com/p/30a6036c806e) |
 | Wed, 26 Nov 2025 00:19:00 GMT | Turing Machine: Theory and Applications in Computer Science | fatma zahra tidjani | [Read More](https://medium.com/p/1735cd15ed04) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 16:13:44 GMT | What is Compliance Screening? | Business Schweiz | [Read More](https://medium.com/p/9b67b0dea3a8) |
 | Tue, 25 Nov 2025 16:08:01 GMT | Rust’s Complexity Is Its Next Security Threat | Adonis | [Read More](https://medium.com/p/ca6afce5da96) |
 | Tue, 25 Nov 2025 16:02:06 GMT | Episode 11: “The Resolver’s Gambit” | Dr. House In I.T. | [Read More](https://medium.com/p/11f8a3b8609a) |
-| Tue, 25 Nov 2025 15:53:33 GMT | Template meeting minutes | Cait Graaf | [Read More](https://medium.com/p/d6d96169c0eb) |
-| Tue, 25 Nov 2025 15:49:40 GMT | [Ethernaut] 5. Token | Jiseop Shin | [Read More](https://medium.com/p/6dcd7b60906c) |
-| Tue, 25 Nov 2025 15:47:25 GMT | Seccomp Filters Optimization Strategies on Linux | Linux Guide | [Read More](https://medium.com/p/fbda31875a4e) |
-| Tue, 25 Nov 2025 15:47:06 GMT | Security and Performance Aspects of IRQ Affinity Optimization | Linux Guide | [Read More](https://medium.com/p/c41eaf17bdb2) |
-| Tue, 25 Nov 2025 15:43:30 GMT | Zero-Touch Deployment Explained: Technical Guide for MSPs and IT Teams | Ron | [Read More](https://medium.com/p/ab5feebba040) |
-| Tue, 25 Nov 2025 15:41:21 GMT | Penetrasyon Testi vs Red Team: Farkları, Önemi ve Hangisini Ne Zaman Tercih Etmelisiniz? | Rauf TIMURI | [Read More](https://medium.com/p/b45a81b32ad1) |
-| Tue, 25 Nov 2025 15:38:44 GMT | Google reCAPTCHA v3: Is the “Invisible” Shield Violating Your Privacy? ️ | Deeghayu Fernando | [Read More](https://medium.com/p/39d3438b455b) |
-| Tue, 25 Nov 2025 15:30:45 GMT | I Exposed Carding Operations Exploiting Stripe’s payment gateway - Merchants API CC CHECKER… | Christoscoming | [Read More](https://medium.com/p/191bc0a1df6b) |
