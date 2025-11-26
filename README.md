@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 17:08:29 GMT | The Invisible World Inside Your Program: A Friendly Tour of Memory, Registers, and CPU Magic | Poojan Ghetiya | [Read More](https://medium.com/p/0a2da181fd21) |
+| Wed, 26 Nov 2025 17:03:15 GMT | How Will MPC Wallets Change Finance? — Clarisse Hagège | Aroundthecoin | [Read More](https://medium.com/p/53e2d175e5ac) |
+| Wed, 26 Nov 2025 17:02:11 GMT | OSCP Grind - PG Practice - Pelican | Mr Jokar | [Read More](https://medium.com/p/f196e3c5572f) |
+| Wed, 26 Nov 2025 17:02:09 GMT | 10 FastAPI Security Headers (CSP/HSTS) Without Latency | Quellin | [Read More](https://medium.com/p/8228a32bb235) |
+| Wed, 26 Nov 2025 17:01:59 GMT | Mastering the Shell: Essential Bash Commands for Security Work | Aj | [Read More](https://medium.com/p/7406a10be423) |
+| Wed, 26 Nov 2025 16:59:44 GMT | E = mc² and Cybersecurity: The Equation we never understood | Sumit Chouhan | [Read More](https://medium.com/p/ab5726c1850b) |
+| Wed, 26 Nov 2025 16:57:54 GMT | My Lexus UX Was Stolen in a CAN Bus Attack — What Every Driver Must Know | Paul Kitchener | [Read More](https://medium.com/p/71421cf939ce) |
+| Wed, 26 Nov 2025 16:57:23 GMT | Misp | Farid Hajiyev | [Read More](https://medium.com/p/d770f4592b7b) |
+| Wed, 26 Nov 2025 16:50:52 GMT | Cybersecurity for Small Businesses: The 2025 Ransomware Defense Playbook | Technijian | [Read More](https://medium.com/p/def26e5317d5) |
+| Wed, 26 Nov 2025 16:48:47 GMT | The NPM Worm That’s Eating JavaScript Alive: Shai-Hulud Exposed | Adonis | [Read More](https://medium.com/p/074070f47500) |
 | Wed, 26 Nov 2025 16:46:12 GMT | Aislando bugs conocidos usando withKnownIssue | GoyesDev | [Read More](https://medium.com/p/b30e5e77c727) |
 | Wed, 26 Nov 2025 16:41:14 GMT | API Authentication Explained | S.Ali | [Read More](https://medium.com/p/29e3ae7732bc) |
 | Wed, 26 Nov 2025 16:35:52 GMT | How I Discovered a Multi-Vector Attack Chain on a WordPress Site | Tyreek Haynes | [Read More](https://medium.com/p/80ca0635a8a1) |
@@ -39,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 15:29:06 GMT | SOC205 —Event 231 Malicious Macro has been executed (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/47408ea87c5e) |
 | Wed, 26 Nov 2025 15:21:39 GMT | 5 Password Myths That Are Costing You Security | Hania Khan | [Read More](https://medium.com/p/a73cd9fba652) |
 | Wed, 26 Nov 2025 15:19:44 GMT | Why We Trust Technology More Than People (And Why That’s Risky) | Legal Thoughts | [Read More](https://medium.com/p/068ec9d51c90) |
+| Wed, 26 Nov 2025 15:19:41 GMT | Apa Itu HTML, CSS, dan JavaScript? Penjelasan Paling Mudah untuk Pemula | Anjas Rani | [Read More](https://medium.com/p/0b2aa020d20a) |
 | Wed, 26 Nov 2025 15:17:10 GMT | AI Is Not The Future, It Is the Present. Here’s How I am Building With It | Abdullah Javeed | [Read More](https://medium.com/p/e87ccd374c57) |
 | Wed, 26 Nov 2025 15:16:31 GMT | ️ NACL vs. Security Groups: Understanding AWS’s Two Layers of Network Security | Deeghayu Fernando | [Read More](https://medium.com/p/f9c0bb3c0d21) |
 | Wed, 26 Nov 2025 15:16:16 GMT | Gemini 3.0: Google’s Next AI Breakthrough Is Arriving With Serious Security Concerns | Fortress Protocol | [Read More](https://medium.com/p/98eeddc957eb) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 12:24:06 GMT | The Impact of LLMs on Cybersecurity: New Threats and Solutions | Sara | [Read More](https://medium.com/p/d422cf3068ee) |
 | Wed, 26 Nov 2025 12:23:23 GMT | Goodbye, Late Fees: 7 Ways a Bill Payment Kiosk Machine Streamlines December | Rakesh | [Read More](https://medium.com/p/ec2adc9508c3) |
 | Wed, 26 Nov 2025 12:17:59 GMT | Open Source Intelligence (OSINT)- Process & Real-World Applications | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/ce71c8d2cc40) |
-| Wed, 26 Nov 2025 12:17:20 GMT | Why Are Employees the Weakest Link in Information Security? | Nurtureit | [Read More](https://medium.com/p/f77a9b291c46) |
-| Wed, 26 Nov 2025 12:17:10 GMT | Extropy Security Bytes: w47, 2025 | Extropy.IO | [Read More](https://medium.com/p/18ec85f3aff6) |
-| Wed, 26 Nov 2025 12:13:24 GMT | Rogue Access Points: a broken system | xxxDEV1xxx | [Read More](https://medium.com/p/578c4de32b27) |
-| Wed, 26 Nov 2025 12:12:21 GMT | The $6 Million Secret — Why Financial Services Organisations Can’t Afford Credential Compromise | Billy Michael | [Read More](https://medium.com/p/8bb253627ca7) |
-| Wed, 26 Nov 2025 12:08:48 GMT | What is the Governance, Risk, and Compliance Framework? Complete Guide | QualysecEurope | [Read More](https://medium.com/p/85490c1463d3) |
-| Wed, 26 Nov 2025 12:07:50 GMT | The Heartbleed Bug: A Decade Later, How a Simple Mistake Shook the Internet | The Kernel Hub | [Read More](https://medium.com/p/d0c4b35a2264) |
-| Wed, 26 Nov 2025 12:06:01 GMT | Privacy Enhancements in iOS 26: What Developers Must Know | Ravi | [Read More](https://medium.com/p/aa6058e5f44d) |
-| Wed, 26 Nov 2025 12:04:16 GMT | CVE-2025–9994: Your Bluetooth AP Admin is Just a Browser Tab Away | hacker_might | [Read More](https://medium.com/p/c1d17ba14743) |
-| Wed, 26 Nov 2025 11:56:01 GMT | Is Your “Strategic” Digital Transformation Just Pretend? | Manuel Tress | [Read More](https://medium.com/p/a86d7babac60) |
-| Wed, 26 Nov 2025 11:55:59 GMT | Approaches to Reducing Alert Fatigue ⚡️ | Esra Kayhan | [Read More](https://medium.com/p/90adb2bb6e77) |
-| Wed, 26 Nov 2025 11:55:37 GMT | SOC Forensic Workflow Management | Esra Kayhan | [Read More](https://medium.com/p/f6be96efb6e7) |
