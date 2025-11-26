@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 23:30:22 GMT | Building a Detection Lab: Active Directory, Splunk, and Kali Linux | tdashadow | [Read More](https://medium.com/p/c7ceec77322c) |
+| Wed, 26 Nov 2025 23:20:10 GMT | How to Fix Wireshark Errors on Linux (The Complete Guide) | ghostyjoe | [Read More](https://medium.com/p/7ea25af0305d) |
+| Wed, 26 Nov 2025 23:18:47 GMT | Softening to Loss | David B. Younger, Ph.D | [Read More](https://medium.com/p/2114ff742833) |
 | Wed, 26 Nov 2025 23:15:47 GMT | Italy’s Elite Duped By A Billion‑Euro AI Ruse | O. J. Okpabi | [Read More](https://medium.com/p/ee31b5cf4c6a) |
 | Wed, 26 Nov 2025 23:14:26 GMT | How to Pick the Right Bug Bounty Target | Appsec.pt | [Read More](https://medium.com/p/98f900033bfa) |
 | Wed, 26 Nov 2025 23:01:21 GMT | I Miss the Version of Me I Was Before Life Got Heavy | Breezy Maren | [Read More](https://medium.com/p/22b7151533df) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 15:57:19 GMT | What Is the STOP CSAM Act? | EINITIAL24 | [Read More](https://medium.com/p/70bafde13a1d) |
 | Wed, 26 Nov 2025 15:55:22 GMT | Why an (IRP) Incident Response Plan Is a Important Document for Every Company | CyberOne.ma | [Read More](https://medium.com/p/accc34164b0c) |
 | Wed, 26 Nov 2025 15:52:21 GMT | The End of the Sysmon Driver: How Native Windows Integration Will Revolutionize EDR | Gyanendar Manohar | [Read More](https://medium.com/p/9897162aba45) |
-| Wed, 26 Nov 2025 15:50:32 GMT | Recover Lost Cryptocurrency Through Optimistic Hacker Gaius. | Jacobalexander | [Read More](https://medium.com/p/034128c49cdb) |
-| Wed, 26 Nov 2025 15:50:08 GMT | How Ongoing Training Boosts Security Guard Performance (And What to Avoid) | Teona | [Read More](https://medium.com/p/97c168628330) |
-| Wed, 26 Nov 2025 15:41:00 GMT | NVIDIA’s $1 Billion Bet on Nokia: The Silent Power Move That Will Reshape the AI Future | Ahsan Sabir | [Read More](https://medium.com/p/7ce6e99d61bc) |
