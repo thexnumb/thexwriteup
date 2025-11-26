@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 17:29:16 GMT | Next-Generation Firewalls (NGFWs) | Ahmed Abd El-Samie | [Read More](https://medium.com/p/c2d338ee9e51) |
+| Wed, 26 Nov 2025 17:21:20 GMT | Top ERP Systems with Advanced AI Features | Digital Transformation Playbook | [Read More](https://medium.com/p/220d1ca9886d) |
+| Wed, 26 Nov 2025 17:11:37 GMT | Travel’s Invisible Edges: Five Essentials for Moving Safely in the Modern World | Paramount Defense Group Inc | [Read More](https://medium.com/p/2437efbef5f6) |
 | Wed, 26 Nov 2025 17:08:29 GMT | The Invisible World Inside Your Program: A Friendly Tour of Memory, Registers, and CPU Magic | Poojan Ghetiya | [Read More](https://medium.com/p/0a2da181fd21) |
 | Wed, 26 Nov 2025 17:03:15 GMT | How Will MPC Wallets Change Finance? — Clarisse Hagège | Aroundthecoin | [Read More](https://medium.com/p/53e2d175e5ac) |
 | Wed, 26 Nov 2025 17:02:11 GMT | OSCP Grind - PG Practice - Pelican | Mr Jokar | [Read More](https://medium.com/p/f196e3c5572f) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 12:32:28 GMT | Why AI-Driven GRC Is Becoming Essential for Modern Enterprises | Cytrusst | [Read More](https://medium.com/p/a8791b337aba) |
 | Wed, 26 Nov 2025 12:29:29 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 1: DC-1 | Shikhar Sinha | [Read More](https://medium.com/p/913f1ca5c52f) |
 | Wed, 26 Nov 2025 12:27:07 GMT | Find SQL Injection in Code and Fix: A Simple, Practical Guide | Ajay Monga | [Read More](https://medium.com/p/64d2d65208a5) |
-| Wed, 26 Nov 2025 12:24:06 GMT | The Impact of LLMs on Cybersecurity: New Threats and Solutions | Sara | [Read More](https://medium.com/p/d422cf3068ee) |
-| Wed, 26 Nov 2025 12:23:23 GMT | Goodbye, Late Fees: 7 Ways a Bill Payment Kiosk Machine Streamlines December | Rakesh | [Read More](https://medium.com/p/ec2adc9508c3) |
-| Wed, 26 Nov 2025 12:17:59 GMT | Open Source Intelligence (OSINT)- Process & Real-World Applications | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/ce71c8d2cc40) |
