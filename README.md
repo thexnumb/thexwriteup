@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 19:03:12 GMT | HACKERS TRIED USING BLENDER BUT FORGOT ITS NOT A FOOD PROCESSOR…! | Mohith Krishna K | [Read More](https://medium.com/p/146df9128754) |
+| Wed, 26 Nov 2025 19:00:57 GMT | Your Digital Footprint Is Bigger Than You Think | INTELON | [Read More](https://medium.com/p/cbae1a15eef5) |
+| Wed, 26 Nov 2025 18:58:16 GMT | AI-Powered OSINT: From URLs to Human Intelligence | INTELON | [Read More](https://medium.com/p/0d71ce285e54) |
+| Wed, 26 Nov 2025 18:57:41 GMT | Escaping the Kiosk: An Exposed HP Point-of-Sale Device Provides a Target | Mike Manrod | [Read More](https://medium.com/p/6b4cb02c79d8) |
+| Wed, 26 Nov 2025 18:56:30 GMT | The Day I Accidentally Became the Guy in Charge of Crowd Control | Buck "Tom" Hanley | [Read More](https://medium.com/p/7e02bccfe2b4) |
+| Wed, 26 Nov 2025 18:54:39 GMT | Quantum Is Coming: A Simple Guide to the Future of Computing | Rushikesh Girase | [Read More](https://medium.com/p/e006f2b015f9) |
+| Wed, 26 Nov 2025 18:48:36 GMT | Python ile Kendi Ağ Tarayıcınızı Yazın: Scapy ve ARP Rehberi | Çınar Genç | [Read More](https://medium.com/p/c4b4746c76ef) |
 | Wed, 26 Nov 2025 18:36:48 GMT | Cloud Security Posture Management (CSPM) in Multi-Cloud and Hybrid-Cloud Environments | Meravytes | [Read More](https://medium.com/p/1a3b909d8cbe) |
 | Wed, 26 Nov 2025 18:36:40 GMT | SDG:4 (Education) | Sharmin Akter_410 | [Read More](https://medium.com/p/c01c6e43c043) |
 | Wed, 26 Nov 2025 18:27:48 GMT | Supply Chain Apocalypse: 13:3 not in favor of NodeJS | Natalia Sergeeva | [Read More](https://medium.com/p/7d84472fdcaa) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 13:45:06 GMT | Major US Banks Impacted by SitusAMC Hack | Prerna Shukla | [Read More](https://medium.com/p/0d70fc6f347d) |
 | Wed, 26 Nov 2025 13:43:39 GMT | The Quantum Threat to Bitcoin: How AI Accelerates and Explains Q-Day | Renã L. Guarda | [Read More](https://medium.com/p/31b0ed5466a1) |
 | Wed, 26 Nov 2025 13:43:38 GMT | Two-Factor Authentication (2FA) vs. Passwords: What You Need to Know | SiyanoAV | [Read More](https://medium.com/p/609c3781f4b2) |
-| Wed, 26 Nov 2025 13:41:57 GMT | Dartmouth College Confirms Data Theft in Oracle Hack | Prerna Shukla | [Read More](https://medium.com/p/5e0d86172437) |
-| Wed, 26 Nov 2025 13:41:39 GMT | What Is Penetration Testing? A Complete Beginner’s Guide (2025 Edition) | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/dfb608e1d295) |
-| Wed, 26 Nov 2025 13:40:44 GMT | The Foundations of Intelligence Analysis: Origins, Identity, and the Craft–Profession Divide | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/94ce7a81a2dd) |
-| Wed, 26 Nov 2025 13:36:06 GMT | Centralized Logging & SIEM on AWS Using Amazon OpenSearch, Kinesis & CloudTrail | Davebhargavi | [Read More](https://medium.com/p/7db491e75373) |
-| Wed, 26 Nov 2025 13:33:55 GMT | The Ghost in Your Wi-Fi: Building a Jammer + Fake Hotspot Generator with ESP8266 | Nisarg Patel | [Read More](https://medium.com/p/9accef784d25) |
-| Wed, 26 Nov 2025 13:32:33 GMT | Hacked | John Douglas Porter | [Read More](https://medium.com/p/2c275ee8f2a3) |
-| Wed, 26 Nov 2025 13:28:21 GMT | Oil & Gas in Africa: The Untold Digital Weakness Behind Pipeline Leaks and Production Downtime | Techero | [Read More](https://medium.com/p/e8867eb45a52) |
