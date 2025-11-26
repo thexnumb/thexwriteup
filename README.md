@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 10:40:54 GMT | The Blueprint and the Bricks: Mastering the Relationship Between Frameworks and Controls | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/e2714d74ca41) |
+| Wed, 26 Nov 2025 10:37:42 GMT | The Impact of AI on Cybersecurity: Protecting Data from Threats in the Digital Age | Dealonai | [Read More](https://medium.com/p/4b05fb9816ea) |
+| Wed, 26 Nov 2025 10:34:17 GMT | Managed to Perfection: VPS Hosting That Blends Control with Convenience | Ann Taylor | [Read More](https://medium.com/p/384a72e6eb7b) |
+| Wed, 26 Nov 2025 10:33:06 GMT | Why Most Crypto Projects Fail at Token Economics: The Math Behind Sustainable Tokenomics | Vygha | [Read More](https://medium.com/p/a196b0f00ef6) |
+| Wed, 26 Nov 2025 10:32:30 GMT | TryHackMEVMs: Bounty Hunter | Justin Jude Cabodil | [Read More](https://medium.com/p/f4f7e4e1667a) |
+| Wed, 26 Nov 2025 10:24:53 GMT | Cyber Resilience: How GRC Integration Transforms Your Security Posture | SecureSlate | [Read More](https://medium.com/p/953338acd5d4) |
+| Wed, 26 Nov 2025 10:23:22 GMT | SEXTORTION: A Global Cybersecurity and Social Justice Challenge | Regan | [Read More](https://medium.com/p/b448c5e6eb58) |
+| Wed, 26 Nov 2025 10:22:17 GMT | Writing Secure and Efficient Dockerfiles | Alperen Gokbak | [Read More](https://medium.com/p/7c16f164ffff) |
+| Wed, 26 Nov 2025 10:15:58 GMT | Phantom — Hack The Box Writeup (Medium) | Maxwell Ferreira | [Read More](https://medium.com/p/e7dd6076c2fb) |
+| Wed, 26 Nov 2025 10:14:33 GMT | Advent of Cyber Prep Track (2025) - What does the room really teach us? | D4m.sh | [Read More](https://medium.com/p/6c3f1ccb0144) |
+| Wed, 26 Nov 2025 10:12:32 GMT | How to See Critical Incidents in Alert Overload: A Guide for SOCs and MSSPs | ANY.RUN | [Read More](https://medium.com/p/2451afdf5877) |
 | Wed, 26 Nov 2025 10:12:00 GMT | Basic Server Security | Fabian Clemenz | [Read More](https://medium.com/p/27ee2265824d) |
 | Wed, 26 Nov 2025 10:10:24 GMT | CRA top 7 by Crimson7 | Vito Rallo | [Read More](https://medium.com/p/6ecbc6d1b16b) |
 | Wed, 26 Nov 2025 10:06:12 GMT | How Writing Gives Me Vital Leverage in a Collapsing Society | MOE_WRITES | [Read More](https://medium.com/p/b36906154527) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 04:39:23 GMT | Mastering cryptography_flutter: A Complete Guide to Modern Cryptography in Flutter | AlexCodeX | [Read More](https://medium.com/p/26bf18c1246d) |
 | Wed, 26 Nov 2025 04:25:26 GMT | Dark Web Threats and the Power of Integrated Detection | cyber security threat ai | [Read More](https://medium.com/p/898e2db7b877) |
 | Wed, 26 Nov 2025 04:24:11 GMT | Mastering the HealthGPT Challenge on TryHackMe: A Full Walkthrough, Diagrams Included | SmaRTy | [Read More](https://medium.com/p/9da9b1697836) |
-| Wed, 26 Nov 2025 04:22:08 GMT | Digital Safety Starts Here: Understanding the Importance of Cybersecurity | Pedestal Techno World | [Read More](https://medium.com/p/5fb906c4f156) |
-| Wed, 26 Nov 2025 04:21:41 GMT | How QA Skills Create a Strong Path Into Cybersecurity | Joseph Kantar | [Read More](https://medium.com/p/acea00d67fdf) |
-| Wed, 26 Nov 2025 04:21:02 GMT | Strong Foundations Start With Quality Security Training | NJ SORA Professionals | [Read More](https://medium.com/p/c7f373f9d0f8) |
-| Wed, 26 Nov 2025 04:16:47 GMT | https://medium.com/@bhawini.roy18/harvard-phishing-attack-a-wake-up-call-for-every-enterprise-harvar | Bhawini. | [Read More](https://medium.com/p/a038cacd449c) |
-| Wed, 26 Nov 2025 04:15:35 GMT | Bluetooth Mesh in Smart Buildings: Connectivity, Automation & Security Explained | Geeky Vartika | [Read More](https://medium.com/p/a775b0756d5a) |
-| Wed, 26 Nov 2025 04:10:04 GMT | Harvard Phishing Attack: A Wake-Up Call for Every Enterprise Harvard made headlines recently — not… | Bhawini. | [Read More](https://medium.com/p/fd5501a22b1b) |
-| Wed, 26 Nov 2025 04:06:02 GMT | PicoCTF -Web Exploitation Writeup - Includes - MehediSec | MehediSec | [Read More](https://medium.com/p/49d69ae7c96d) |
-| Wed, 26 Nov 2025 04:05:48 GMT | From Emergency Response to Secure Automation: Why I Focus on the Systems People Rely On but Rarely… | Aaron | [Read More](https://medium.com/p/d50cb01d7f83) |
-| Wed, 26 Nov 2025 04:02:42 GMT | When the Internet Slowed Down: Understanding the Cloudflare Outage in Simple Tech Terms | J Koushalyashree | [Read More](https://medium.com/p/cd1c33f0f563) |
-| Wed, 26 Nov 2025 04:02:16 GMT | Epistemology for CyberSec Cert Junkies (part 1) | Jade Seeker | [Read More](https://medium.com/p/287916923381) |
-| Wed, 26 Nov 2025 03:58:50 GMT | How AI Is Changing Modern Warfare and National Security: The Shift We’re Not Ready For? | Mind Game | [Read More](https://medium.com/p/930c8825e3a9) |
