@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 11:36:35 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/361f9624c336) |
+| Wed, 26 Nov 2025 11:19:15 GMT | The 150-Day Blueprint: From Zero to $7,650 in Bug Bounties | Abhishek meena | [Read More](https://medium.com/p/51c6f24c3b9f) |
+| Wed, 26 Nov 2025 11:13:27 GMT | Essential Strategies to Strengthen Security For Businesses | Sophia Clarke | [Read More](https://medium.com/p/75c42a029bdf) |
 | Wed, 26 Nov 2025 11:10:21 GMT | Zero-Standing Privilege: Reshaping Access Control for a New Era of Cybersecurity | Sam Writes Security | [Read More](https://medium.com/p/44dec7d242bc) |
 | Wed, 26 Nov 2025 11:02:56 GMT | Cybersecurity Best Practices Every Saudi Business Should Follow in 2025: | HawkShield | [Read More](https://medium.com/p/067b34d1362a) |
 | Wed, 26 Nov 2025 11:02:33 GMT | Your Resilience Plan Is Not What Makes You Resilient | Sherilyn Burris | [Read More](https://medium.com/p/c503cb6903cb) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 05:25:40 GMT | TryHackMEVMs: SKYNET | Justin Jude Cabodil | [Read More](https://medium.com/p/8a82d7554c85) |
 | Wed, 26 Nov 2025 05:24:41 GMT | Passkeys in Production: What Actually Matters (and How Not to Regret It Later) | Warwick McIntosh | [Read More](https://medium.com/p/583157a2a211) |
 | Wed, 26 Nov 2025 05:24:34 GMT | Goodbye Overpriced Hosting, Hello Reliable & Affordable Alternatives | Mary Thomas | [Read More](https://medium.com/p/a5d1e00873c8) |
-| Wed, 26 Nov 2025 05:21:51 GMT | Fiber Networks Cybersecurity: Why Your Business Needs Fiber Optic Security Today | Supraja | [Read More](https://medium.com/p/737c2e186f16) |
-| Wed, 26 Nov 2025 04:59:03 GMT | Flag in Flame — picoCTF Writeups | Jerome Lolong | [Read More](https://medium.com/p/9279b7544bca) |
-| Wed, 26 Nov 2025 04:58:43 GMT | Django Authentication: Built-In Login Systems That Just Work | Nitesh Chahar | [Read More](https://medium.com/p/4799f7fc412e) |
