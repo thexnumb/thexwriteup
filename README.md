@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 07:12:13 GMT | Why Watching Companies Get Hacked Made Me Want This Career | Sidak Bhogal | [Read More](https://medium.com/p/cd8819ef2be1) |
+| Wed, 26 Nov 2025 07:08:14 GMT | “IoT (Internet of Things) Security: Why Your ‘Smart’ Devices May Not Be As Smart About Safety” | Grace Chukwunta | [Read More](https://medium.com/p/30e8d374bac0) |
+| Wed, 26 Nov 2025 07:02:42 GMT | Zero Trust Collaboration: Why SECURET is Essential for Hybrid Work Security | SAYCOIN | [Read More](https://medium.com/p/e180d50f619d) |
+| Wed, 26 Nov 2025 07:00:02 GMT | Disinformation Security: Building Systems That Resist Synthetic Narratives | Ismat Babirli | [Read More](https://medium.com/p/017a907643f1) |
+| Wed, 26 Nov 2025 06:57:56 GMT | The Lottie Player Attack: A Wake-Up Call for Web3 Security | Dhanush N | [Read More](https://medium.com/p/b0a01d308950) |
+| Wed, 26 Nov 2025 06:54:25 GMT | iOS App Security Testing for Healthcare: Protecting Patient Data (HIPAA) | Kartiksharma | [Read More](https://medium.com/p/fa2e69dbd8c0) |
+| Wed, 26 Nov 2025 06:51:10 GMT | Oracle 19c DBA Serisi — Data Dictionary Views and Dynamic Performance Views (V$ views) (Part 7.2.) | Murat Culum | [Read More](https://medium.com/p/f33049b2f4a9) |
+| Wed, 26 Nov 2025 06:50:39 GMT | Oracle 19c DBA Serisi — Veritabanının Kimliği: Data Dictionary & Dynamic Performance Views (Part 7.1 | Murat Culum | [Read More](https://medium.com/p/277e2849d6a0) |
+| Wed, 26 Nov 2025 06:46:46 GMT | Cybersecurity in 2025 The Threats Are Getting More Aggressive and More Targeted | Afolabi muhydeen olalekan | [Read More](https://medium.com/p/ff30bdec6cec) |
+| Wed, 26 Nov 2025 06:43:24 GMT | Locked Out of House Locksmith Near Me — Fast, Reliable, and Always Available | The Lock Specialist Ltd | [Read More](https://medium.com/p/a6d3bdb09e02) |
+| Wed, 26 Nov 2025 06:43:22 GMT | NetSupport RAT Deep Dive : Uncovering Malwares with Threat Intelligence Feeds | Motasem Hamdan | [Read More](https://medium.com/p/e5292d1f4b9f) |
+| Wed, 26 Nov 2025 06:41:47 GMT | Linux Power, Designer Style: The Hosting Combo You Didn’t Know You Needed | Janet Watson | [Read More](https://medium.com/p/a16cc102d037) |
+| Wed, 26 Nov 2025 06:38:43 GMT | Playing It Safe: How Cybersecurity Became the Heart of the Global Gaming Industry | 918kiss App | [Read More](https://medium.com/p/5f2a99a21601) |
+| Wed, 26 Nov 2025 06:36:05 GMT | A Friend of Mine Failed OSCP Three Times — Here’s the Study Plan That Finally Worked | Cybervolt | [Read More](https://medium.com/p/fa5c6974a22e) |
+| Wed, 26 Nov 2025 06:35:28 GMT | Artificial Intelligence in Cybersecurity | Muamer Huseinovic | [Read More](https://medium.com/p/8e813fa51eec) |
+| Wed, 26 Nov 2025 06:34:55 GMT | Associative: Your Premier Android Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/140d1eca3b88) |
 | Wed, 26 Nov 2025 06:25:08 GMT | How Scammers Hacked Her Phone and Stole Thousands: Tracing the Data Breach | Himanshu Bhatt | [Read More](https://medium.com/p/1e7481b9c9aa) |
 | Wed, 26 Nov 2025 06:14:59 GMT | Is iPhone 17 Actually Faster in Real-Life Use? | Chloe White | [Read More](https://medium.com/p/8a99aa448e4f) |
 | Wed, 26 Nov 2025 06:13:08 GMT | The Daily Tech Digest: 26 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/14e5de636027) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 22:15:56 GMT | Inside Toyota HackFesta 2025: My Dive into Automotive Cybersecurity | Krishna | [Read More](https://medium.com/p/9c021ca6f079) |
 | Tue, 25 Nov 2025 22:10:57 GMT | Part 1 The Morning Before | Sara Fitsgerald | [Read More](https://medium.com/p/9c3295ecf057) |
 | Tue, 25 Nov 2025 22:02:04 GMT | How I Found a Critical IDOR in a University System (and Why Ethical Hacking Matters) | j4k3l0ng | [Read More](https://medium.com/p/5eb7f2ffffba) |
-| Tue, 25 Nov 2025 21:53:45 GMT | Chinese representation at ASIS&T 2025 annual meeting | seal(theo)ry | [Read More](https://medium.com/p/976a15ec59d3) |
-| Tue, 25 Nov 2025 21:37:12 GMT | Beneficiation & Africa: A Cybersecurity, AI and Technology Perspective | Samuel Odekunle | [Read More](https://medium.com/p/cb0e3e456d8e) |
-| Tue, 25 Nov 2025 21:20:24 GMT | Why the U.S.-China AI Arms Race Is Entering a Critical New Phase | Frank Holmes | [Read More](https://medium.com/p/336bdee6e453) |
-| Tue, 25 Nov 2025 21:16:34 GMT | Are Malware Analysts Still Needed in 2025? | Geetanshaditya | [Read More](https://medium.com/p/1ef1493f9325) |
-| Tue, 25 Nov 2025 21:11:50 GMT | Protect Your Property with Professional Armed Security Guards in California | Salum Security | [Read More](https://medium.com/p/758412445803) |
-| Tue, 25 Nov 2025 21:02:36 GMT | How I Learned the Hard Way That OSINT Has Legal Boundaries | Sam Galope | [Read More](https://medium.com/p/e0478583cee4) |
-| Tue, 25 Nov 2025 20:46:44 GMT | I Work in Cybersecurity — And I Still Got Hacked | Liam | [Read More](https://medium.com/p/01fc0bb9c306) |
-| Tue, 25 Nov 2025 20:32:52 GMT | DevSecOps as a Service: Why In-House Security Is a 2025 Money Pit | Yash Batra | [Read More](https://medium.com/p/3e1771acfe6a) |
-| Tue, 25 Nov 2025 20:25:45 GMT | My favorite productivity win this month? | Jane Brian | [Read More](https://medium.com/p/326a9a464ac2) |
-| Tue, 25 Nov 2025 20:22:22 GMT | Back to AppSec Basics: A Journey of Reflection, Learning, and Clarity | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/da632f7fca24) |
-| Tue, 25 Nov 2025 20:20:42 GMT | When a Vendor Slip-Up Hits Thousands: What the Comcast Vendor Breach Reveals About Cybersecurity… | SECURE IT! | [Read More](https://medium.com/p/aee312c37d73) |
-| Tue, 25 Nov 2025 20:04:59 GMT | OpenAI Guardrails: Protecting AI Applications from Prompt Attacks | Vitaly Sem | [Read More](https://medium.com/p/8b1cc97f3989) |
-| Tue, 25 Nov 2025 19:55:27 GMT | Linux Doesn’t Have a Firewall — It Has Netfilter (The Real Packet Engine) | AlgoPoint | [Read More](https://medium.com/p/47a9099c018e) |
-| Tue, 25 Nov 2025 19:29:52 GMT | Spring Boot with Spring Security + JWT Authentication | dolly | [Read More](https://medium.com/p/3f5cbb94c238) |
-| Tue, 25 Nov 2025 19:25:36 GMT | Secret Black Friday Lifetime Deals 2025 (Stop Paying Subscriptions) | ByteSwift Digital pro | [Read More](https://medium.com/p/481338bcb7d5) |
-| Tue, 25 Nov 2025 19:10:28 GMT | Low-level logic flaw — PortSwigger Academy | Fatimahasan | [Read More](https://medium.com/p/c54efbffa4fd) |
