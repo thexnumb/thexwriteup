@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 09:42:45 GMT | Enhancing Penetration Testing with HackerAI: Step-by-Step Guide (Metasploitable Lab) | Andrey Pautov | [Read More](https://medium.com/p/b2ab2cdd4139) |
+| Wed, 26 Nov 2025 09:42:23 GMT | The Intent Gap: Why Humans Don’t Need a Control Layer — But AI Agents Do | Jon Capriola | [Read More](https://medium.com/p/85a5809a8d20) |
+| Wed, 26 Nov 2025 09:42:06 GMT | Managing Global Teams: Navigating Cultural Differences Across Borders | Steve Anderson | [Read More](https://medium.com/p/b54aef55e3a3) |
+| Wed, 26 Nov 2025 09:30:45 GMT | How Zuri Ozeomachukwu Njoku Builds Secure and Reliable IT Environments | Zuri Njoku | [Read More](https://medium.com/p/12cf40d975f7) |
+| Wed, 26 Nov 2025 09:30:12 GMT | Digital Transformation Malaysia: Can We Survive Without WiFi at Mamaks? | HiSEVEN | [Read More](https://medium.com/p/bc58b4ca69e3) |
+| Wed, 26 Nov 2025 09:27:38 GMT | Secure Software Development Lifecycle (SSDLC): Building Security Into Every Line of Code | Adebowale Adetunji | [Read More](https://medium.com/p/e4e4476cf471) |
+| Wed, 26 Nov 2025 09:20:16 GMT | Defeating LSASS Defenses: A Deep Dive into Modern Bypass Techniques | Owais | [Read More](https://medium.com/p/6b034e5195c2) |
 | Wed, 26 Nov 2025 09:18:15 GMT | Advanced Enterprise Security Solutions With ASIS Technologies | ASIS Technologies | [Read More](https://medium.com/p/ad958390af93) |
+| Wed, 26 Nov 2025 09:15:44 GMT | Certified Cybersecurity Educator Professional (CCEP) Exam: Real Question Styles and Practical… | Raymond Ebonine | [Read More](https://medium.com/p/470cce1fa4f8) |
 | Wed, 26 Nov 2025 09:11:30 GMT | DockerLabs Writeup — Inj3ct0rss (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/75821bc88052) |
 | Wed, 26 Nov 2025 09:05:00 GMT | JWT Hacking Toolkit: 20 Real Hacker Techniques to Master Authentication Attacks | Very Lazy Tech | [Read More](https://medium.com/p/acc75a736e6e) |
 | Wed, 26 Nov 2025 09:03:14 GMT | Turn Every Login Into a Leak Check With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/a42417f6c5cc) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 01:53:14 GMT | The iPhone Privacy Trick Apple Doesn’t Want You to Ignore | Soufiane ennaji | [Read More](https://medium.com/p/1e448c978e03) |
 | Wed, 26 Nov 2025 01:47:14 GMT | Sturnus Zararlı Mobil Uygulaması: Statik Analiz Raporu | Hazar | [Read More](https://medium.com/p/9339eeda967b) |
 | Wed, 26 Nov 2025 01:43:21 GMT | The Ethics of Hacking: My Hard Lessons From a Live Pen Test | Hania Khan | [Read More](https://medium.com/p/215d156f1dc0) |
-| Wed, 26 Nov 2025 01:37:31 GMT | GZR Observer — Global Daily — India Perspective Nov 26, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e931dca2f246) |
-| Wed, 26 Nov 2025 01:36:52 GMT | Passkey: The Next Generation of Mobile User Authentication | Johnsonoaseru | [Read More](https://medium.com/p/b9d0902b10f4) |
-| Wed, 26 Nov 2025 01:32:29 GMT | RED TEAM ASSESSMENT REPORT — Windows Server 2019 CTF Challenge (Professional Report) | Sachin Sir | [Read More](https://medium.com/p/65297e920c5b) |
-| Wed, 26 Nov 2025 01:23:58 GMT | Lessons from the Nile: How Ancient Egyptian OpSec Can Teach Us About Security | Officer's Notes | [Read More](https://medium.com/p/a841472024d4) |
-| Wed, 26 Nov 2025 01:09:00 GMT | Major Cybersecurity Trends of 2025 | Matthew.Rosenquist | [Read More](https://medium.com/p/7f760810adfa) |
-| Wed, 26 Nov 2025 00:55:13 GMT | The Trap is Set: Building a Raspberry Pi Honeypot | tdashadow | [Read More](https://medium.com/p/ccb43afc546b) |
-| Wed, 26 Nov 2025 00:47:41 GMT | LLM Output Handling and Privacy Risks - Tryhackme | Aaron | [Read More](https://medium.com/p/8e3dee715646) |
-| Wed, 26 Nov 2025 00:32:23 GMT | Información, Comunicación y Tecnologías de la Información en la Educación | Doris Ortiz | [Read More](https://medium.com/p/3933feace86a) |
