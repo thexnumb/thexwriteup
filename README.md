@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 23:15:47 GMT | Italy’s Elite Duped By A Billion‑Euro AI Ruse | O. J. Okpabi | [Read More](https://medium.com/p/ee31b5cf4c6a) |
+| Wed, 26 Nov 2025 23:14:26 GMT | How to Pick the Right Bug Bounty Target | Appsec.pt | [Read More](https://medium.com/p/98f900033bfa) |
+| Wed, 26 Nov 2025 23:01:21 GMT | I Miss the Version of Me I Was Before Life Got Heavy | Breezy Maren | [Read More](https://medium.com/p/22b7151533df) |
+| Wed, 26 Nov 2025 23:00:44 GMT | Good morning dear USA. | Redartdit | [Read More](https://medium.com/p/b50133a20c68) |
+| Wed, 26 Nov 2025 22:48:10 GMT | Congress Wants Answers on AI Attacks. We Have a Framework. | AstraSync AI | [Read More](https://medium.com/p/ecae0f150735) |
+| Wed, 26 Nov 2025 22:45:26 GMT | Ransomware attacks targeting SAP systems are increasing worldwide, and SAP landscapes are uniquely… | José López | [Read More](https://medium.com/p/e4b85915d0a5) |
+| Wed, 26 Nov 2025 22:40:48 GMT | Deploy Self-Hosted WAF for your Homelab and Web Applications using SafeLine. | Pwndec0c0 | [Read More](https://medium.com/p/42979d364cb4) |
+| Wed, 26 Nov 2025 22:40:41 GMT | The Smarter Way to Manage 2,000+ Endpoints Without Overwhelming Your Team | Ron | [Read More](https://medium.com/p/c89b31b79d2f) |
+| Wed, 26 Nov 2025 22:40:01 GMT | THE BUS CALLED NIGERIA | Eru John | [Read More](https://medium.com/p/f86297e7e24f) |
 | Wed, 26 Nov 2025 21:52:26 GMT | How I Discovered an IDOR Vulnerability in a Parent/Child Management API | Umanhonlen Gabriel | [Read More](https://medium.com/p/445c9471d23b) |
 | Wed, 26 Nov 2025 21:45:06 GMT | جهت هماهنگی تلگرام یا واتساپ 09915528413پیام بدهید،ویا باشماره(09364608280)تماس بگیرید
 صیغه کرج… | مهدی رضایی | [Read More](https://medium.com/p/6d875e061894) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 15:50:32 GMT | Recover Lost Cryptocurrency Through Optimistic Hacker Gaius. | Jacobalexander | [Read More](https://medium.com/p/034128c49cdb) |
 | Wed, 26 Nov 2025 15:50:08 GMT | How Ongoing Training Boosts Security Guard Performance (And What to Avoid) | Teona | [Read More](https://medium.com/p/97c168628330) |
 | Wed, 26 Nov 2025 15:41:00 GMT | NVIDIA’s $1 Billion Bet on Nokia: The Silent Power Move That Will Reshape the AI Future | Ahsan Sabir | [Read More](https://medium.com/p/7ce6e99d61bc) |
-| Wed, 26 Nov 2025 15:37:06 GMT | The Silent AI Crisis: Invisible Data Leaks and How the World Can Stop Them | Renã L. Guarda | [Read More](https://medium.com/p/743b34e5e3da) |
-| Wed, 26 Nov 2025 15:33:19 GMT | Jones AT&T Stadium Guide: Inside the Texas Tech University Football Venue | Motherlandlove | [Read More](https://medium.com/p/f02575ecb97b) |
-| Wed, 26 Nov 2025 15:32:04 GMT | [Ethernaut] 6. Delegation | Jiseop Shin | [Read More](https://medium.com/p/9ccfa8b755a6) |
-| Wed, 26 Nov 2025 15:29:06 GMT | SOC205 —Event 231 Malicious Macro has been executed (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/47408ea87c5e) |
-| Wed, 26 Nov 2025 15:21:39 GMT | 5 Password Myths That Are Costing You Security | Hania Khan | [Read More](https://medium.com/p/a73cd9fba652) |
-| Wed, 26 Nov 2025 15:19:44 GMT | Why We Trust Technology More Than People (And Why That’s Risky) | Legal Thoughts | [Read More](https://medium.com/p/068ec9d51c90) |
-| Wed, 26 Nov 2025 15:19:41 GMT | Apa Itu HTML, CSS, dan JavaScript? Penjelasan Paling Mudah untuk Pemula | Anjas Rani | [Read More](https://medium.com/p/0b2aa020d20a) |
-| Wed, 26 Nov 2025 15:17:10 GMT | AI Is Not The Future, It Is the Present. Here’s How I am Building With It | Abdullah Javeed | [Read More](https://medium.com/p/e87ccd374c57) |
-| Wed, 26 Nov 2025 15:16:31 GMT | ️ NACL vs. Security Groups: Understanding AWS’s Two Layers of Network Security | Deeghayu Fernando | [Read More](https://medium.com/p/f9c0bb3c0d21) |
