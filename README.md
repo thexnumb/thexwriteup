@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 04:25:26 GMT | Dark Web Threats and the Power of Integrated Detection | cyber security threat ai | [Read More](https://medium.com/p/898e2db7b877) |
+| Wed, 26 Nov 2025 04:24:11 GMT | Mastering the HealthGPT Challenge on TryHackMe: A Full Walkthrough, Diagrams Included | SmaRTy | [Read More](https://medium.com/p/9da9b1697836) |
+| Wed, 26 Nov 2025 04:22:08 GMT | Digital Safety Starts Here: Understanding the Importance of Cybersecurity | Pedestal Techno World | [Read More](https://medium.com/p/5fb906c4f156) |
+| Wed, 26 Nov 2025 04:21:41 GMT | How QA Skills Create a Strong Path Into Cybersecurity | Joseph Kantar | [Read More](https://medium.com/p/acea00d67fdf) |
+| Wed, 26 Nov 2025 04:21:02 GMT | Strong Foundations Start With Quality Security Training | NJ SORA Professionals | [Read More](https://medium.com/p/c7f373f9d0f8) |
+| Wed, 26 Nov 2025 04:16:47 GMT | https://medium.com/@bhawini.roy18/harvard-phishing-attack-a-wake-up-call-for-every-enterprise-harvar | Bhawini. | [Read More](https://medium.com/p/a038cacd449c) |
+| Wed, 26 Nov 2025 04:15:35 GMT | Bluetooth Mesh in Smart Buildings: Connectivity, Automation & Security Explained | Geeky Vartika | [Read More](https://medium.com/p/a775b0756d5a) |
+| Wed, 26 Nov 2025 04:10:04 GMT | Harvard Phishing Attack: A Wake-Up Call for Every Enterprise Harvard made headlines recently — not… | Bhawini. | [Read More](https://medium.com/p/fd5501a22b1b) |
+| Wed, 26 Nov 2025 04:05:48 GMT | From Emergency Response to Secure Automation: Why I Focus on the Systems People Rely On but Rarely… | Aaron | [Read More](https://medium.com/p/d50cb01d7f83) |
+| Wed, 26 Nov 2025 04:02:42 GMT | When the Internet Slowed Down: Understanding the Cloudflare Outage in Simple Tech Terms | J Koushalyashree | [Read More](https://medium.com/p/cd1c33f0f563) |
+| Wed, 26 Nov 2025 04:02:16 GMT | Epistemology for CyberSec Cert Junkies (part 1) | Jade Seeker | [Read More](https://medium.com/p/287916923381) |
+| Wed, 26 Nov 2025 03:58:50 GMT | How AI Is Changing Modern Warfare and National Security: The Shift We’re Not Ready For? | Mind Game | [Read More](https://medium.com/p/930c8825e3a9) |
+| Wed, 26 Nov 2025 03:58:40 GMT | Ahoo Khanom’s Husband | ALI PAYANDEH | [Read More](https://medium.com/p/d6ee87dafaa0) |
 | Wed, 26 Nov 2025 03:50:24 GMT | Turning Visibility Into Defense: Connecting the Attack Surface to the Detection Surface | Jon Schipp | [Read More](https://medium.com/p/09f75652b15c) |
 | Wed, 26 Nov 2025 03:42:48 GMT | Gen Z Joins Cybersecurity: Will AI Transform the Landscape? | Hungry Tech Mind | [Read More](https://medium.com/p/5e0a067d72f4) |
 | Wed, 26 Nov 2025 03:32:13 GMT | How Google Maps Is Cracking Down on Review Extortion | Deven Chhajed | [Read More](https://medium.com/p/e40faaefe60f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 17:34:13 GMT | Clicking Blind: The Risks of Skipping Your Settings | ZeroKeyStrokes | [Read More](https://medium.com/p/e1d54912209b) |
 | Tue, 25 Nov 2025 17:28:00 GMT | IoT: Stop Storing Wi-Fi Passwords in Plain Text | Engineer Too | [Read More](https://medium.com/p/e762c26f9416) |
 | Tue, 25 Nov 2025 17:25:56 GMT | Governments don’t fight terrorism. | kuneblvck | [Read More](https://medium.com/p/3e1b68948a46) |
-| Tue, 25 Nov 2025 17:12:14 GMT | Linux Terminal Komutları | Mehmet Ali | [Read More](https://medium.com/p/d6de0e0ab5e4) |
-| Tue, 25 Nov 2025 17:10:12 GMT | The Therapist | Alx | [Read More](https://medium.com/p/69398f557bef) |
-| Tue, 25 Nov 2025 17:06:13 GMT | OT Penetration Testing: Why It Matters Today and How to Get Started | Shanmuksrisai | [Read More](https://medium.com/p/6b18a8505e40) |
-| Tue, 25 Nov 2025 17:03:06 GMT | Cyber ​​Tool “LionCix HackForge” Made by Dwi Bakti N Dev: Web Vulnerability Detection and OSINT in… | jurnal.com | [Read More](https://medium.com/p/05ffc99b9151) |
-| Tue, 25 Nov 2025 17:02:12 GMT | OSCP Grind - PG Practice - Internal | Mr Jokar | [Read More](https://medium.com/p/94ad4ddfc5ce) |
-| Tue, 25 Nov 2025 17:01:27 GMT | Python : Variabel Lokal, Global, Dan Penjebakan Eksepsi | Cahyoadi | [Read More](https://medium.com/p/a3b47e65cd95) |
-| Tue, 25 Nov 2025 16:55:41 GMT | How to intercept HTTPS requests of any Android app | Alex Nebot Oller | [Read More](https://medium.com/p/8a6e234da45d) |
-| Tue, 25 Nov 2025 16:50:02 GMT | Authentication Methods Explained: Passwords, Biometrics, and Tokens | Damir Kolobaric | [Read More](https://medium.com/p/9daeaa951dbf) |
-| Tue, 25 Nov 2025 16:37:22 GMT | Strengthen Business Continuity with Regular DR Tests and Backup Checks | Ron | [Read More](https://medium.com/p/dc8537ad5132) |
-| Tue, 25 Nov 2025 16:35:47 GMT | The Quiet Security Crisis Brewing in AI: Why Your Enterprise Needs to Understand MCP… | Ali Arsanjani | [Read More](https://medium.com/p/ca832e4d9595) |
-| Tue, 25 Nov 2025 16:33:37 GMT | Calculate Your ERP TCO | Digital Transformation Playbook | [Read More](https://medium.com/p/f884cf912526) |
-| Tue, 25 Nov 2025 16:25:09 GMT | WordPress Penetration-Testing - Building a Vulnerable Lab From Scratch | Amrsmooke | [Read More](https://medium.com/p/d6b1dce20e81) |
-| Tue, 25 Nov 2025 16:20:30 GMT | A small Script to Detect Sha1-Hulud 2.0 affected Packages in NPM Projects | Tim Nelles | [Read More](https://medium.com/p/8f05150e64ce) |
