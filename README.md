@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 14:02:19 GMT | Hack Days 2025: Creativity, Code, and a Hint of Halloween Magic | Puneet Sharma | [Read More](https://medium.com/p/d2099379eeb7) |
+| Wed, 26 Nov 2025 14:02:14 GMT | Akira Ransomware Is Coming for Small Title Agencies & Realtors | Cheryl Evans | [Read More](https://medium.com/p/f6baeae28f92) |
+| Wed, 26 Nov 2025 14:00:47 GMT | YAMAGoya: Open-Source Tool for Real-Time Threat Detection with Sigma and YARA Rules | Chetan Seripally | [Read More](https://medium.com/p/8873d41c16cd) |
+| Wed, 26 Nov 2025 13:59:49 GMT | Explorei um Type Confusion e Fiquei em 3º Lugar no CTF VespasCon'25 | Arthur Guilherme | [Read More](https://medium.com/p/98c0334d45ab) |
+| Wed, 26 Nov 2025 13:59:10 GMT | Shadow IT: The Hidden Cyber Risk Inside Every Organization | Digital Defense | [Read More](https://medium.com/p/3de3fb8c9a9f) |
+| Wed, 26 Nov 2025 13:48:07 GMT | How Does an AI Search Engine Decide What to Show First? | Vijay Kumar Gupta | [Read More](https://medium.com/p/dcd7db649df9) |
+| Wed, 26 Nov 2025 13:45:06 GMT | Major US Banks Impacted by SitusAMC Hack | Prerna Shukla | [Read More](https://medium.com/p/0d70fc6f347d) |
+| Wed, 26 Nov 2025 13:43:39 GMT | The Quantum Threat to Bitcoin: How AI Accelerates and Explains Q-Day | Renã L. Guarda | [Read More](https://medium.com/p/31b0ed5466a1) |
+| Wed, 26 Nov 2025 13:43:38 GMT | Two-Factor Authentication (2FA) vs. Passwords: What You Need to Know | SiyanoAV | [Read More](https://medium.com/p/609c3781f4b2) |
+| Wed, 26 Nov 2025 13:41:57 GMT | Dartmouth College Confirms Data Theft in Oracle Hack | Prerna Shukla | [Read More](https://medium.com/p/5e0d86172437) |
+| Wed, 26 Nov 2025 13:41:39 GMT | What Is Penetration Testing? A Complete Beginner’s Guide (2025 Edition) | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/dfb608e1d295) |
+| Wed, 26 Nov 2025 13:40:44 GMT | The Foundations of Intelligence Analysis: Origins, Identity, and the Craft–Profession Divide | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/94ce7a81a2dd) |
+| Wed, 26 Nov 2025 13:36:06 GMT | Centralized Logging & SIEM on AWS Using Amazon OpenSearch, Kinesis & CloudTrail | Davebhargavi | [Read More](https://medium.com/p/7db491e75373) |
 | Wed, 26 Nov 2025 13:33:55 GMT | The Ghost in Your Wi-Fi: Building a Jammer + Fake Hotspot Generator with ESP8266 | Nisarg Patel | [Read More](https://medium.com/p/9accef784d25) |
+| Wed, 26 Nov 2025 13:32:33 GMT | Hacked | John Douglas Porter | [Read More](https://medium.com/p/2c275ee8f2a3) |
 | Wed, 26 Nov 2025 13:28:21 GMT | Oil & Gas in Africa: The Untold Digital Weakness Behind Pipeline Leaks and Production Downtime | Techero | [Read More](https://medium.com/p/e8867eb45a52) |
 | Wed, 26 Nov 2025 13:19:21 GMT | 7-Zip path traversal (CVE-2025–11001/11002): when your archive decides to go rogue | Telynor | [Read More](https://medium.com/p/a75211431ff7) |
 | Wed, 26 Nov 2025 13:15:53 GMT | How i earned $100 in one minute | Pawan parmar | [Read More](https://medium.com/p/b1b52d5bbf41) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 08:28:20 GMT | Intigriti Challenge 1125 write-up | Tr1s | [Read More](https://medium.com/p/b816c6c86a36) |
 | Wed, 26 Nov 2025 08:25:25 GMT | Prompt Injection: What Security Managers Need to Know | eyal doron | [Read More](https://medium.com/p/80adb0b84d22) |
 | Wed, 26 Nov 2025 08:21:11 GMT | Günümüz VPN Teknolojileri ve Kullanım Senaryoları | Mustafa AVDAN | [Read More](https://medium.com/p/ac7cedd3c258) |
-| Wed, 26 Nov 2025 08:20:32 GMT | $1,500 Recon Secrets: Dorks to Dollars | tinopreter | [Read More](https://medium.com/p/0e7eca022708) |
-| Wed, 26 Nov 2025 08:19:48 GMT | The Anthropic Cyber Espionage Incident: A Turning Point for AI Security | Dhwanil | [Read More](https://medium.com/p/4bf48881769c) |
-| Wed, 26 Nov 2025 08:14:07 GMT | IIoT Cyber Incidents 2025: Why Securing the Industrial Edge Starts at the Hardware Root | Epteck GmbH | [Read More](https://medium.com/p/2ecfb098887a) |
-| Wed, 26 Nov 2025 08:10:03 GMT | Linux Operating System Security | David Kljajo | [Read More](https://medium.com/p/66cfc83c5f3e) |
-| Wed, 26 Nov 2025 08:08:23 GMT | 前端靜態掃描歷險記 | 廖偉帆 | [Read More](https://medium.com/p/c3515b196611) |
-| Wed, 26 Nov 2025 08:04:01 GMT | The Rise of Microlearning in Cybersecurity: Does It Actually Work? | CodeRed | [Read More](https://medium.com/p/e0bcc7045579) |
-| Wed, 26 Nov 2025 08:02:07 GMT | [Part 15] The Future Cybersecurity Analyst: Why AI Skills Are Now Essential | Cyberkech | [Read More](https://medium.com/p/4bb54b242d35) |
-| Wed, 26 Nov 2025 08:01:22 GMT | I Tried TryHackMe’s Pre-Security Path. And My Brain Finally Stopped Crying  (Honest Review) | Muhammad Hamid Ali Khan | [Read More](https://medium.com/p/fef31ea49d86) |
-| Wed, 26 Nov 2025 07:56:02 GMT | Black Friday 2025: Don’t Let Cyber Scams Steal Your Identity | CVOR | [Read More](https://medium.com/p/d6f1f555eb7c) |
-| Wed, 26 Nov 2025 07:44:13 GMT | How Cyber Security Lexington Protects Your Network from Hidden Risks | Lexington Computer Support | [Read More](https://medium.com/p/d9d437922d56) |
-| Wed, 26 Nov 2025 07:35:19 GMT | Reverse engineering the ROS2 submission pipeline to hijack and bypass the control flow | Мартин. | [Read More](https://medium.com/p/119d15db8cce) |
-| Wed, 26 Nov 2025 07:34:13 GMT | What is Docker? | Soundaryaps | [Read More](https://medium.com/p/97d058ec805b) |
-| Wed, 26 Nov 2025 07:33:22 GMT | Cyber Security Black Friday Deals for College Students | cyber security Updates | [Read More](https://medium.com/p/8cb607ed1e17) |
-| Wed, 26 Nov 2025 07:31:08 GMT | Reverse engineering the ROS2 submission pipeline to hijack and bypass the control flow | Мартин. | [Read More](https://medium.com/p/410e208140d7) |
