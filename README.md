@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 18:10:30 GMT | HackerOne for Aspiring Ethical Hackers: An Advanced, Practical Roadmap to Start, Hunt, and Grow | Penough | [Read More](https://medium.com/p/c11200da41dc) |
+| Wed, 26 Nov 2025 18:07:54 GMT | Earth Ammit: When Drones, Orbits, and Supply Chains Become One Battle space | David Mussington (PhD) | [Read More](https://medium.com/p/7acbf14bb60d) |
+| Wed, 26 Nov 2025 18:03:55 GMT | How Cloud Computing is Shaping the Next IT Job Wave | 2iResourcing | [Read More](https://medium.com/p/83bfecaa4159) |
+| Wed, 26 Nov 2025 18:01:49 GMT | Anubis: The Info-Stealer So Cheap, it is an Insult to Anubis Himself | Samratthsingh | [Read More](https://medium.com/p/93a452a6c809) |
+| Wed, 26 Nov 2025 17:59:18 GMT | The New Cybersecurity Blind Spot: Why Agentic AI Requires a New Testing Layer | Anh Nguyen - Prompt QA | [Read More](https://medium.com/p/5a7d201637de) |
+| Wed, 26 Nov 2025 17:59:08 GMT | Phishing Email Analysis — Let’s Defend Lab (Full Investigation Report) | Aseel basem badel | [Read More](https://medium.com/p/8741113070c5) |
+| Wed, 26 Nov 2025 17:52:46 GMT | Microsoft’s Agentic AI Needs Stronger Safety Controls | Geoffrey Wenger | [Read More](https://medium.com/p/672c37108713) |
+| Wed, 26 Nov 2025 17:51:23 GMT | A Beginner Friendly Guide to Nmap | Sithum Ranasinghe | [Read More](https://medium.com/p/0a1958dd3de6) |
+| Wed, 26 Nov 2025 17:44:08 GMT | An Ex-Sysadmin’s Guide to RDMA backed storage | Dylan Taft | [Read More](https://medium.com/p/89498816cc02) |
+| Wed, 26 Nov 2025 17:42:14 GMT | Thinking Out of the Box — Let’s Take it to Another Dimension! | Nazar | [Read More](https://medium.com/p/53a8a85e10c6) |
+| Wed, 26 Nov 2025 17:39:37 GMT | ️ Solving the AmateursCTF web/CAPTCHA Challenge | t2xv8 | [Read More](https://medium.com/p/92204bd3f2eb) |
 | Wed, 26 Nov 2025 17:29:16 GMT | Next-Generation Firewalls (NGFWs) | Ahmed Abd El-Samie | [Read More](https://medium.com/p/c2d338ee9e51) |
 | Wed, 26 Nov 2025 17:21:20 GMT | Top ERP Systems with Advanced AI Features | Digital Transformation Playbook | [Read More](https://medium.com/p/220d1ca9886d) |
 | Wed, 26 Nov 2025 17:11:37 GMT | Travel’s Invisible Edges: Five Essentials for Moving Safely in the Modern World | Paramount Defense Group Inc | [Read More](https://medium.com/p/2437efbef5f6) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 13:15:53 GMT | How i earned $100 in one minute | Pawan parmar | [Read More](https://medium.com/p/b1b52d5bbf41) |
 | Wed, 26 Nov 2025 13:11:01 GMT | I Automated My Bug Hunting With Google | Ibtissam | [Read More](https://medium.com/p/1dd5e5938b39) |
 | Wed, 26 Nov 2025 13:07:05 GMT | Breaking Open in Budapest | Maryanne Pope | [Read More](https://medium.com/p/f47cdfd2a077) |
-| Wed, 26 Nov 2025 13:02:07 GMT | BankGPT Walkthrough. TryHackMe. Cybersecurity in AI. | Lintu Oommen | [Read More](https://medium.com/p/fbc6bb87037a) |
-| Wed, 26 Nov 2025 13:01:08 GMT | Investigate Web Attack —LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/15ccc45abdc4) |
-| Wed, 26 Nov 2025 12:46:48 GMT | Windows Threat Detection 1 Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/9fcd3e93f7a8) |
-| Wed, 26 Nov 2025 12:44:46 GMT | From Zero Reports to My First Hall of Fame | VoidSec24 | [Read More](https://medium.com/p/177eb70afd58) |
-| Wed, 26 Nov 2025 12:40:38 GMT | Bug Bounty: Memanfaatkan webhook untuk mengambil token, uuid, sso hingga Account Takeover | 0xRedFox29 | [Read More](https://medium.com/p/c325d488d68c) |
-| Wed, 26 Nov 2025 12:36:53 GMT | Understanding Content Management Systems and Why WordPress Stands Out | Cyber Timi | [Read More](https://medium.com/p/693c07e862fe) |
-| Wed, 26 Nov 2025 12:35:20 GMT | The Rising Complexity of AppSec in 2026 — And How ZeroThreat Is Redefining Modern Security… | Kate Bennett | [Read More](https://medium.com/p/ac564c408f1d) |
-| Wed, 26 Nov 2025 12:34:58 GMT | From Control to Confidence: How Information Security Became the Language of Trust and the Strategic… | Taher Amine ELHOUARI | [Read More](https://medium.com/p/5cd99ba0ea53) |
-| Wed, 26 Nov 2025 12:32:28 GMT | Why AI-Driven GRC Is Becoming Essential for Modern Enterprises | Cytrusst | [Read More](https://medium.com/p/a8791b337aba) |
-| Wed, 26 Nov 2025 12:29:29 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 1: DC-1 | Shikhar Sinha | [Read More](https://medium.com/p/913f1ca5c52f) |
-| Wed, 26 Nov 2025 12:27:07 GMT | Find SQL Injection in Code and Fix: A Simple, Practical Guide | Ajay Monga | [Read More](https://medium.com/p/64d2d65208a5) |
