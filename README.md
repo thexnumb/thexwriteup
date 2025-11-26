@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 08:25:25 GMT | Prompt Injection: What Security Managers Need to Know | eyal doron | [Read More](https://medium.com/p/80adb0b84d22) |
+| Wed, 26 Nov 2025 08:20:32 GMT | $1,500 Recon Secrets: Dorks to Dollars | tinopreter | [Read More](https://medium.com/p/0e7eca022708) |
+| Wed, 26 Nov 2025 08:19:48 GMT | The Anthropic Cyber Espionage Incident: A Turning Point for AI Security | Dhwanil | [Read More](https://medium.com/p/4bf48881769c) |
+| Wed, 26 Nov 2025 08:14:07 GMT | IIoT Cyber Incidents 2025: Why Securing the Industrial Edge Starts at the Hardware Root | Epteck GmbH | [Read More](https://medium.com/p/2ecfb098887a) |
+| Wed, 26 Nov 2025 08:10:03 GMT | Linux Operating System Security | David Kljajo | [Read More](https://medium.com/p/66cfc83c5f3e) |
+| Wed, 26 Nov 2025 08:08:23 GMT | 前端靜態掃描歷險記 | 廖偉帆 | [Read More](https://medium.com/p/c3515b196611) |
+| Wed, 26 Nov 2025 08:02:07 GMT | [Part 15] The Future Cybersecurity Analyst: Why AI Skills Are Now Essential | Cyberkech | [Read More](https://medium.com/p/4bb54b242d35) |
+| Wed, 26 Nov 2025 08:01:22 GMT | I Tried TryHackMe’s Pre-Security Path. And My Brain Finally Stopped Crying  (Honest Review) | Muhammad Hamid Ali Khan | [Read More](https://medium.com/p/fef31ea49d86) |
+| Wed, 26 Nov 2025 07:44:13 GMT | How Cyber Security Lexington Protects Your Network from Hidden Risks | Lexington Computer Support | [Read More](https://medium.com/p/d9d437922d56) |
+| Wed, 26 Nov 2025 07:35:19 GMT | Reverse engineering the ROS2 submission pipeline to hijack and bypass the control flow | Мартин. | [Read More](https://medium.com/p/119d15db8cce) |
+| Wed, 26 Nov 2025 07:34:13 GMT | What is Docker? | Soundaryaps | [Read More](https://medium.com/p/97d058ec805b) |
+| Wed, 26 Nov 2025 07:33:22 GMT | Cyber Security Black Friday Deals for College Students | cyber security Updates | [Read More](https://medium.com/p/8cb607ed1e17) |
 | Wed, 26 Nov 2025 07:31:08 GMT | Reverse engineering the ROS2 submission pipeline to hijack and bypass the control flow | Мартин. | [Read More](https://medium.com/p/410e208140d7) |
 | Wed, 26 Nov 2025 07:28:17 GMT | A Complete Guide to SSRF: Vulnerability Types, Discovery Methods, Exploitation Techniques, and… | Diman | [Read More](https://medium.com/p/be995a5efdd1) |
 | Wed, 26 Nov 2025 07:27:37 GMT | Malware Analysis for Aam Aadmi | Divyang Mistry | [Read More](https://medium.com/p/9de1419c1ac9) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 23:20:43 GMT | Part 2 Night of fire | Sara Fitsgerald | [Read More](https://medium.com/p/c68c6ded8e1b) |
 | Tue, 25 Nov 2025 23:20:17 GMT | Fintech 2025: New Waves of Innovation, Security, and User Experience | Bhinish Dhiman | [Read More](https://medium.com/p/40dbe840ae76) |
 | Tue, 25 Nov 2025 23:17:27 GMT | I Gave a Local AI Agent Full Access to My Laptop for 24 Hours. What It Did Shocked Me | Manash Pratim | [Read More](https://medium.com/p/98b87da1cab8) |
-| Tue, 25 Nov 2025 23:02:03 GMT | Zombie Processes: Dead Code That Still Haunts the System | Bervice | [Read More](https://medium.com/p/bd61cb46909c) |
-| Tue, 25 Nov 2025 22:51:56 GMT | Why McAfee Is More Than Just Antivirus in 2025 — Digital Security Explained | Antivirus Ninja | [Read More](https://medium.com/p/376c6e1283db) |
-| Tue, 25 Nov 2025 22:49:53 GMT | Once Upon A Digital School | O. J. Okpabi | [Read More](https://medium.com/p/2f8dd0f39972) |
-| Tue, 25 Nov 2025 22:48:19 GMT | Are You Protecting Your Business or Just Managing the Noise? | Pegasus Technology Solutions | [Read More](https://medium.com/p/288fc37ae82e) |
-| Tue, 25 Nov 2025 22:46:00 GMT | HTB Challenge: The Puppet Master | Ethan Walker | [Read More](https://medium.com/p/0ba27e3fad0d) |
-| Tue, 25 Nov 2025 22:45:43 GMT | What I Look for In a Cybersecurity Resume | Jbird | [Read More](https://medium.com/p/801f360e3c16) |
-| Tue, 25 Nov 2025 22:35:53 GMT | The Genesis Mission: A Manhattan Project for the AI Age | CCD-IS | [Read More](https://medium.com/p/fcdf33a381bd) |
-| Tue, 25 Nov 2025 22:34:04 GMT | Hacking NFC : Flipper Zero, Proxmark3 ou Android ? Le Guide du “Red Team” | RAPATT | [Read More](https://medium.com/p/e465d122730a) |
-| Tue, 25 Nov 2025 22:33:05 GMT | The Disappointment You Can’t Avoid | Ola | [Read More](https://medium.com/p/0944610a3df0) |
-| Tue, 25 Nov 2025 22:29:57 GMT | Cyber Threats Are Rising — And Aesthetic Clinics Must Treat Cybersecurity as Patient Safety | Truce Media | [Read More](https://medium.com/p/65e06d8a5f99) |
-| Tue, 25 Nov 2025 22:27:14 GMT | If You Aren’t Breaking Things, You’re Probably Not Learning | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b381b4ee9a96) |
-| Tue, 25 Nov 2025 22:17:47 GMT | Adding Checkin in Tor C2 Server — Part 4 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b9f88eb8d0f4) |
