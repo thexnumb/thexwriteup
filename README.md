@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 20:21:53 GMT | How a Security Team Discovered a $3,000 XSS Bug — And Why It Matters for Every Company | Cybervolt | [Read More](https://medium.com/p/42801ffbb27f) |
+| Wed, 26 Nov 2025 20:04:11 GMT | AS-Rep Challenge(LetsDefend) | Brandon Love | [Read More](https://medium.com/p/cf1dee11b6a5) |
+| Wed, 26 Nov 2025 20:02:32 GMT | Debugging Is the New Gold: Why AI-Dependent Developers Will Collapse in Real Production Systems | The Dev Notebook | [Read More](https://medium.com/p/be03703d17d3) |
+| Wed, 26 Nov 2025 19:48:56 GMT | How I Found My Place in Cybersecurity (When Nothing Made Sense at First) | Null-diff | [Read More](https://medium.com/p/d7b50824bbef) |
+| Wed, 26 Nov 2025 19:42:45 GMT | How to Secure Your Business After a Virus Infection on the Network | Cordula Boeck | [Read More](https://medium.com/p/3d788c12a25a) |
+| Wed, 26 Nov 2025 19:39:24 GMT | EU Softens Big Tech Child-Abuse Scanning Plan | Geoffrey Wenger | [Read More](https://medium.com/p/ebd5c55d3e5b) |
+| Wed, 26 Nov 2025 19:39:07 GMT | Staying Private in Crypto & Web3: Simple, Practical Tips That Actually Work | Officer's Notes | [Read More](https://medium.com/p/08ec1cfbb1f0) |
+| Wed, 26 Nov 2025 19:37:46 GMT | You should stop using Kali | Geexirooz | [Read More](https://medium.com/p/c797f3c7e326) |
+| Wed, 26 Nov 2025 19:35:42 GMT | Bölüm 1: Buluttan Eve Uzanan Bir Altyapı Yolculuğu | Yunus Kızılay | [Read More](https://medium.com/p/00b4ee22e751) |
 | Wed, 26 Nov 2025 19:28:08 GMT | A Very Unexpected Lesson From a Very Hot Man | Mashav Shelef | [Read More](https://medium.com/p/5404d90005e2) |
 | Wed, 26 Nov 2025 19:26:19 GMT | Data Encryption in Cloud: Understanding KMS, HSM, TLS & At-Rest Security | Adityapalve | [Read More](https://medium.com/p/64900dad9786) |
 | Wed, 26 Nov 2025 19:26:02 GMT | México todavía no tiene una ciberseguridad fuerte. | Adrian León | [Read More](https://medium.com/p/a8dc38ac4554) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 14:41:57 GMT | When a Simple Recon Command Turns Into an IT Horror Movie | Fateyaly | [Read More](https://medium.com/p/bf3e194f87d7) |
 | Wed, 26 Nov 2025 14:40:44 GMT | Texas Tech University Class Ring Guide 2025: Meaning, Cost, and Tradition | Motherlandlove | [Read More](https://medium.com/p/61fe5d205a4d) |
 | Wed, 26 Nov 2025 14:32:51 GMT | How to Make Your OutSystems App Cookies Secure | Raquel Gouveia | [Read More](https://medium.com/p/64d537690de0) |
-| Wed, 26 Nov 2025 14:32:33 GMT | (Comptia A+) Mobile Device Security: Essential Tips to Safeguard Your Data | Vignesh R | [Read More](https://medium.com/p/f4248627c3c4) |
-| Wed, 26 Nov 2025 14:31:54 GMT | Types and Importance of Penetration Testing for SMEs | Hoplon Infosec | [Read More](https://medium.com/p/a1237e3bf4dd) |
-| Wed, 26 Nov 2025 14:29:25 GMT | Never Show Weakness, Always Sell Fabricated Intelligence: The System Implementer’s Playbook | Namir Sagheenanajar | [Read More](https://medium.com/p/59615f240624) |
-| Wed, 26 Nov 2025 14:27:23 GMT | Why Strategic Vulnerability Makes Men More Attentive in Relationships | Sevenqian | [Read More](https://medium.com/p/619dbb657611) |
-| Wed, 26 Nov 2025 14:27:10 GMT | Quantum Computing: Hype, Threat, or The Next Digital Turning Point? | Capsyra | [Read More](https://medium.com/p/3bf3d59c3efd) |
-| Wed, 26 Nov 2025 14:24:28 GMT | Hello everyone,
- Today’s topic is Technology. | Vijay Laxmi | [Read More](https://medium.com/p/4ca9cea49e1d) |
-| Wed, 26 Nov 2025 14:02:19 GMT | Hack Days 2025: Creativity, Code, and a Hint of Halloween Magic | Puneet Sharma | [Read More](https://medium.com/p/d2099379eeb7) |
-| Wed, 26 Nov 2025 14:02:14 GMT | Akira Ransomware Is Coming for Small Title Agencies & Realtors | Cheryl Evans | [Read More](https://medium.com/p/f6baeae28f92) |
-| Wed, 26 Nov 2025 14:00:47 GMT | YAMAGoya: Open-Source Tool for Real-Time Threat Detection with Sigma and YARA Rules | Chetan Seripally | [Read More](https://medium.com/p/8873d41c16cd) |
