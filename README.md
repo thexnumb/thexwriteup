@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 05:34:10 GMT | How Does EmpMonitor DLP Help Businesses Strengthen Data Security Today? | keyTrackr | [Read More](https://medium.com/p/ade4cb030b7f) |
+| Wed, 26 Nov 2025 05:33:59 GMT | How Attackers Learn About You Without Hacking | Iftiaj A | [Read More](https://medium.com/p/07a6574edead) |
+| Wed, 26 Nov 2025 05:25:40 GMT | TryHackMEVMs: SKYNET | Justin Jude Cabodil | [Read More](https://medium.com/p/8a82d7554c85) |
+| Wed, 26 Nov 2025 05:24:41 GMT | Passkeys in Production: What Actually Matters (and How Not to Regret It Later) | Warwick McIntosh | [Read More](https://medium.com/p/583157a2a211) |
+| Wed, 26 Nov 2025 05:24:34 GMT | Goodbye Overpriced Hosting, Hello Reliable & Affordable Alternatives | Mary Thomas | [Read More](https://medium.com/p/a5d1e00873c8) |
+| Wed, 26 Nov 2025 05:21:51 GMT | Fiber Networks Cybersecurity: Why Your Business Needs Fiber Optic Security Today | Supraja | [Read More](https://medium.com/p/737c2e186f16) |
 | Wed, 26 Nov 2025 04:59:03 GMT | Flag in Flame — picoCTF Writeups | Jerome Lolong | [Read More](https://medium.com/p/9279b7544bca) |
 | Wed, 26 Nov 2025 04:58:43 GMT | Django Authentication: Built-In Login Systems That Just Work | Nitesh Chahar | [Read More](https://medium.com/p/4799f7fc412e) |
 | Wed, 26 Nov 2025 04:55:51 GMT | VulnHub DC-4: A Practical Guide to Command Injection & Sudo Abuse | Kalash Kundaliya | [Read More](https://medium.com/p/2e0bea840087) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 18:02:15 GMT | Flutter Security: Best Practices Every Developer Should Follow in 2025 | Umakaran Ampigaipagan | [Read More](https://medium.com/p/1637257ebe96) |
 | Tue, 25 Nov 2025 18:02:15 GMT | PicoCTF Writeup: information | SoBatista | [Read More](https://medium.com/p/0f0ac53ccbf6) |
 | Tue, 25 Nov 2025 18:00:26 GMT | ⚙️ How to Set Up and Harden a New Ubuntu 24.04 Server | Paul Hoke | [Read More](https://medium.com/p/1929ac72161f) |
-| Tue, 25 Nov 2025 17:59:48 GMT | Coper/Octo Android Trojan Analysis: From Dropper to Decrypted C2 List | circuitghost | [Read More](https://medium.com/p/532d0bf1aec2) |
-| Tue, 25 Nov 2025 17:55:22 GMT | Your Blue Team is Incomplete Without Dark Web Monitoring — How I Found a Bug in Criminal Chatter… | Iski | [Read More](https://medium.com/p/7ce363b69733) |
-| Tue, 25 Nov 2025 17:52:24 GMT | Why Do We Blame People With Weak Passwords? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/4c7cabec72f7) |
-| Tue, 25 Nov 2025 17:51:54 GMT | Container Security in 2025 | Hello @ Octellient | [Read More](https://medium.com/p/1101aab2c098) |
-| Tue, 25 Nov 2025 17:50:33 GMT | The Balancer Exploit: How $121M Was Lost to a Rounding Error and How It Could Have Been Prevented | Olympix | [Read More](https://medium.com/p/31b44cc97580) |
-| Tue, 25 Nov 2025 17:49:33 GMT | Getting Brutally Honest About Cybersecurity in 2025 | Hello @ Octellient | [Read More](https://medium.com/p/7656dc218b27) |
