@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 11:10:21 GMT | Zero-Standing Privilege: Reshaping Access Control for a New Era of Cybersecurity | Sam Writes Security | [Read More](https://medium.com/p/44dec7d242bc) |
+| Wed, 26 Nov 2025 11:02:56 GMT | Cybersecurity Best Practices Every Saudi Business Should Follow in 2025: | HawkShield | [Read More](https://medium.com/p/067b34d1362a) |
+| Wed, 26 Nov 2025 11:02:33 GMT | Your Resilience Plan Is Not What Makes You Resilient | Sherilyn Burris | [Read More](https://medium.com/p/c503cb6903cb) |
+| Wed, 26 Nov 2025 10:56:14 GMT | How to Avoid Cyberattacks While Working From Home | sarah rose | [Read More](https://medium.com/p/f0b31a2ad912) |
+| Wed, 26 Nov 2025 10:55:15 GMT | US IT Helpdesk 24x7 Contact Number +1–781–206–3573 | Rony Henry | [Read More](https://medium.com/p/bbe0868403be) |
+| Wed, 26 Nov 2025 10:51:34 GMT | Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Hydra | [Read More](https://medium.com/p/a76afba68d95) |
 | Wed, 26 Nov 2025 10:40:54 GMT | The Blueprint and the Bricks: Mastering the Relationship Between Frameworks and Controls | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/e2714d74ca41) |
 | Wed, 26 Nov 2025 10:37:42 GMT | The Impact of AI on Cybersecurity: Protecting Data from Threats in the Digital Age | Dealonai | [Read More](https://medium.com/p/4b05fb9816ea) |
 | Wed, 26 Nov 2025 10:34:17 GMT | Managed to Perfection: VPS Hosting That Blends Control with Convenience | Ann Taylor | [Read More](https://medium.com/p/384a72e6eb7b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 05:21:51 GMT | Fiber Networks Cybersecurity: Why Your Business Needs Fiber Optic Security Today | Supraja | [Read More](https://medium.com/p/737c2e186f16) |
 | Wed, 26 Nov 2025 04:59:03 GMT | Flag in Flame — picoCTF Writeups | Jerome Lolong | [Read More](https://medium.com/p/9279b7544bca) |
 | Wed, 26 Nov 2025 04:58:43 GMT | Django Authentication: Built-In Login Systems That Just Work | Nitesh Chahar | [Read More](https://medium.com/p/4799f7fc412e) |
-| Wed, 26 Nov 2025 04:55:51 GMT | VulnHub DC-4: A Practical Guide to Command Injection & Sudo Abuse | Kalash Kundaliya | [Read More](https://medium.com/p/2e0bea840087) |
-| Wed, 26 Nov 2025 04:53:08 GMT | Why Your WiFi Is Fast on Phone But Slow on Laptop (With Real Fixes) | Ask IT Support | [Read More](https://medium.com/p/e10919167d70) |
-| Wed, 26 Nov 2025 04:42:06 GMT | How AI-Assisted Cloud Networking and Reconnaissance Labs Strengthen Cybersecurity Skills | Vivektumma27 | [Read More](https://medium.com/p/a3d398e1a3f2) |
-| Wed, 26 Nov 2025 04:39:23 GMT | Mastering cryptography_flutter: A Complete Guide to Modern Cryptography in Flutter | AlexCodeX | [Read More](https://medium.com/p/26bf18c1246d) |
-| Wed, 26 Nov 2025 04:25:26 GMT | Dark Web Threats and the Power of Integrated Detection | cyber security threat ai | [Read More](https://medium.com/p/898e2db7b877) |
-| Wed, 26 Nov 2025 04:24:11 GMT | Mastering the HealthGPT Challenge on TryHackMe: A Full Walkthrough, Diagrams Included | SmaRTy | [Read More](https://medium.com/p/9da9b1697836) |
