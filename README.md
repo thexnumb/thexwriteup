@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 14:31:54 GMT | Types and Importance of Penetration Testing for SMEs | Hoplon Infosec | [Read More](https://medium.com/p/a1237e3bf4dd) |
+| Wed, 26 Nov 2025 14:29:25 GMT | Never Show Weakness, Always Sell Fabricated Intelligence: The System Implementer’s Playbook | Namir Sagheenanajar | [Read More](https://medium.com/p/59615f240624) |
+| Wed, 26 Nov 2025 14:27:23 GMT | Why Strategic Vulnerability Makes Men More Attentive in Relationships | Sevenqian | [Read More](https://medium.com/p/619dbb657611) |
+| Wed, 26 Nov 2025 14:27:10 GMT | Quantum Computing: Hype, Threat, or The Next Digital Turning Point? | Capsyra | [Read More](https://medium.com/p/3bf3d59c3efd) |
+| Wed, 26 Nov 2025 14:24:28 GMT | Hello everyone,
+ Today’s topic is Technology. | Vijay Laxmi | [Read More](https://medium.com/p/4ca9cea49e1d) |
 | Wed, 26 Nov 2025 14:02:19 GMT | Hack Days 2025: Creativity, Code, and a Hint of Halloween Magic | Puneet Sharma | [Read More](https://medium.com/p/d2099379eeb7) |
 | Wed, 26 Nov 2025 14:02:14 GMT | Akira Ransomware Is Coming for Small Title Agencies & Realtors | Cheryl Evans | [Read More](https://medium.com/p/f6baeae28f92) |
 | Wed, 26 Nov 2025 14:00:47 GMT | YAMAGoya: Open-Source Tool for Real-Time Threat Detection with Sigma and YARA Rules | Chetan Seripally | [Read More](https://medium.com/p/8873d41c16cd) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 09:01:14 GMT | Hackers Love Untrained Users — Don’t Be One | Redfox Security | [Read More](https://medium.com/p/a7122d5c5577) |
 | Wed, 26 Nov 2025 08:38:19 GMT | No Sun? No Shadows? No Problem! Tracking Location via Power Grids (OSINT Guide) | Ominoko | [Read More](https://medium.com/p/336932170e8c) |
 | Wed, 26 Nov 2025 08:35:46 GMT | Adaptive Security Architecture: How Modern Cyber Defense Learns and Evolves | Majidbasharat | [Read More](https://medium.com/p/12274526133d) |
-| Wed, 26 Nov 2025 08:32:59 GMT | Why Web-Based Banking Software is the Future of the Financial Industry | Zulfiqar Aly | [Read More](https://medium.com/p/b5b2780971b6) |
-| Wed, 26 Nov 2025 08:31:51 GMT | BEST OT/ICS CYBERSECURITY TRAINING IN DELHI NCR AND IN INDIA | TheEvolvEdge | [Read More](https://medium.com/p/0d0281987486) |
-| Wed, 26 Nov 2025 08:28:20 GMT | Intigriti Challenge 1125 write-up | Tr1s | [Read More](https://medium.com/p/b816c6c86a36) |
-| Wed, 26 Nov 2025 08:25:25 GMT | Prompt Injection: What Security Managers Need to Know | eyal doron | [Read More](https://medium.com/p/80adb0b84d22) |
-| Wed, 26 Nov 2025 08:21:11 GMT | Günümüz VPN Teknolojileri ve Kullanım Senaryoları | Mustafa AVDAN | [Read More](https://medium.com/p/ac7cedd3c258) |
