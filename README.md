@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 16:14:51 GMT | Non Emergency Locksmith — Reliable, Professional Service for Every Situation | The Lock Specialist Ltd | [Read More](https://medium.com/p/04122f8a5463) |
+| Wed, 26 Nov 2025 16:11:38 GMT | I am Arnab | Arnab Sikder | [Read More](https://medium.com/p/9fc224b87c20) |
+| Wed, 26 Nov 2025 16:10:59 GMT | Introduction to Elastic: Overview of the ELK Stack | Allen Ace | [Read More](https://medium.com/p/c10fc3a709c1) |
+| Wed, 26 Nov 2025 16:08:22 GMT | From Police Director to Theme Park Security Guard: What Gets Lost When Credentials Don't Cross… | Cjmolinac | [Read More](https://medium.com/p/4f43d00e76b8) |
+| Wed, 26 Nov 2025 16:07:13 GMT | Emotet: Analyzing Its Behavior Through MITRE ATT&CK | Chinasachinasa | [Read More](https://medium.com/p/101e873f55ce) |
+| Wed, 26 Nov 2025 16:02:24 GMT | Hackers Injected Malware into Nearly 500 npm Packages — Postman, PostHog, AsyncAPI, and Others… | Digital Minds | [Read More](https://medium.com/p/034df9ef1cca) |
+| Wed, 26 Nov 2025 16:00:37 GMT | Basic Firewalls vs. Enterprise Firewalls: What Every Business Should Know | Paradise technologies Inc | [Read More](https://medium.com/p/9b9936d3eaae) |
+| Wed, 26 Nov 2025 15:59:39 GMT | I Tried 20+ Google Courses & Certifications on Coursera — Here Are My Top 5 Recommendations for… | javinpaul | [Read More](https://medium.com/p/5034432eebda) |
+| Wed, 26 Nov 2025 15:57:19 GMT | What Is the STOP CSAM Act? | EINITIAL24 | [Read More](https://medium.com/p/70bafde13a1d) |
+| Wed, 26 Nov 2025 15:55:22 GMT | Why an (IRP) Incident Response Plan Is a Important Document for Every Company | CyberOne.ma | [Read More](https://medium.com/p/accc34164b0c) |
+| Wed, 26 Nov 2025 15:52:21 GMT | The End of the Sysmon Driver: How Native Windows Integration Will Revolutionize EDR | Gyanendar Manohar | [Read More](https://medium.com/p/9897162aba45) |
+| Wed, 26 Nov 2025 15:50:32 GMT | Recover Lost Cryptocurrency Through Optimistic Hacker Gaius. | Jacobalexander | [Read More](https://medium.com/p/034128c49cdb) |
+| Wed, 26 Nov 2025 15:50:08 GMT | How Ongoing Training Boosts Security Guard Performance (And What to Avoid) | Teona | [Read More](https://medium.com/p/97c168628330) |
+| Wed, 26 Nov 2025 15:41:00 GMT | NVIDIA’s $1 Billion Bet on Nokia: The Silent Power Move That Will Reshape the AI Future | Ahsan Sabir | [Read More](https://medium.com/p/7ce6e99d61bc) |
+| Wed, 26 Nov 2025 15:37:06 GMT | The Silent AI Crisis: Invisible Data Leaks and How the World Can Stop Them | Renã L. Guarda | [Read More](https://medium.com/p/743b34e5e3da) |
+| Wed, 26 Nov 2025 15:33:19 GMT | Jones AT&T Stadium Guide: Inside the Texas Tech University Football Venue | Motherlandlove | [Read More](https://medium.com/p/f02575ecb97b) |
 | Wed, 26 Nov 2025 15:32:04 GMT | [Ethernaut] 6. Delegation | Jiseop Shin | [Read More](https://medium.com/p/9ccfa8b755a6) |
 | Wed, 26 Nov 2025 15:29:06 GMT | SOC205 —Event 231 Malicious Macro has been executed (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/47408ea87c5e) |
 | Wed, 26 Nov 2025 15:21:39 GMT | 5 Password Myths That Are Costing You Security | Hania Khan | [Read More](https://medium.com/p/a73cd9fba652) |
@@ -33,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 14:59:17 GMT | What Is Cyber Security? A Beginner-Friendly Overview | mehedi jony | [Read More](https://medium.com/p/5b9d173813aa) |
 | Wed, 26 Nov 2025 14:53:15 GMT | How Researchers Queried 100Million WhatsApp Numbers Per Hour (And What Changed) | Berend Watchus | [Read More](https://medium.com/p/f324b15653ac) |
 | Wed, 26 Nov 2025 14:50:34 GMT | ️ Blog 57 — Amazon DynamoDB: The NoSQL Database Built for Speed & Scale | Prutha_Dongre | [Read More](https://medium.com/p/3cdff03b5ff6) |
+| Wed, 26 Nov 2025 14:44:48 GMT | What Skills Are Needed for Online Cybersecurity Training? | Janbask Training | [Read More](https://medium.com/p/5c79ca7ea69c) |
 | Wed, 26 Nov 2025 14:42:37 GMT | OSCP Grind - PG Practice - ZenPhoto | Mr Jokar | [Read More](https://medium.com/p/cd551b2717c3) |
 | Wed, 26 Nov 2025 14:41:57 GMT | When a Simple Recon Command Turns Into an IT Horror Movie | Fateyaly | [Read More](https://medium.com/p/bf3e194f87d7) |
 | Wed, 26 Nov 2025 14:40:44 GMT | Texas Tech University Class Ring Guide 2025: Meaning, Cost, and Tradition | Motherlandlove | [Read More](https://medium.com/p/61fe5d205a4d) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 11:13:27 GMT | Essential Strategies to Strengthen Security For Businesses | Sophia Clarke | [Read More](https://medium.com/p/75c42a029bdf) |
 | Wed, 26 Nov 2025 11:10:21 GMT | Zero-Standing Privilege: Reshaping Access Control for a New Era of Cybersecurity | Sam Writes Security | [Read More](https://medium.com/p/44dec7d242bc) |
 | Wed, 26 Nov 2025 11:02:56 GMT | Cybersecurity Best Practices Every Saudi Business Should Follow in 2025: | HawkShield | [Read More](https://medium.com/p/067b34d1362a) |
-| Wed, 26 Nov 2025 11:02:33 GMT | Your Resilience Plan Is Not What Makes You Resilient | Sherilyn Burris | [Read More](https://medium.com/p/c503cb6903cb) |
-| Wed, 26 Nov 2025 10:56:14 GMT | How to Avoid Cyberattacks While Working From Home | sarah rose | [Read More](https://medium.com/p/f0b31a2ad912) |
-| Wed, 26 Nov 2025 10:55:15 GMT | US IT Helpdesk 24x7 Contact Number +1–781–206–3573 | Rony Henry | [Read More](https://medium.com/p/bbe0868403be) |
-| Wed, 26 Nov 2025 10:51:34 GMT | Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Hydra | [Read More](https://medium.com/p/a76afba68d95) |
-| Wed, 26 Nov 2025 10:40:54 GMT | The Blueprint and the Bricks: Mastering the Relationship Between Frameworks and Controls | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/e2714d74ca41) |
-| Wed, 26 Nov 2025 10:37:42 GMT | The Impact of AI on Cybersecurity: Protecting Data from Threats in the Digital Age | Dealonai | [Read More](https://medium.com/p/4b05fb9816ea) |
-| Wed, 26 Nov 2025 10:34:17 GMT | Managed to Perfection: VPS Hosting That Blends Control with Convenience | Ann Taylor | [Read More](https://medium.com/p/384a72e6eb7b) |
-| Wed, 26 Nov 2025 10:33:06 GMT | Why Most Crypto Projects Fail at Token Economics: The Math Behind Sustainable Tokenomics | Vygha | [Read More](https://medium.com/p/a196b0f00ef6) |
-| Wed, 26 Nov 2025 10:32:30 GMT | TryHackMEVMs: Bounty Hunter | Justin Jude Cabodil | [Read More](https://medium.com/p/f4f7e4e1667a) |
-| Wed, 26 Nov 2025 10:24:53 GMT | Cyber Resilience: How GRC Integration Transforms Your Security Posture | SecureSlate | [Read More](https://medium.com/p/953338acd5d4) |
-| Wed, 26 Nov 2025 10:23:22 GMT | SEXTORTION: A Global Cybersecurity and Social Justice Challenge | Regan | [Read More](https://medium.com/p/b448c5e6eb58) |
-| Wed, 26 Nov 2025 10:22:17 GMT | Writing Secure and Efficient Dockerfiles | Alperen Gokbak | [Read More](https://medium.com/p/7c16f164ffff) |
-| Wed, 26 Nov 2025 10:15:58 GMT | Phantom — Hack The Box Writeup (Medium) | Maxwell Ferreira | [Read More](https://medium.com/p/e7dd6076c2fb) |
-| Wed, 26 Nov 2025 10:14:33 GMT | Advent of Cyber Prep Track (2025) - What does the room really teach us? | D4m.sh | [Read More](https://medium.com/p/6c3f1ccb0144) |
-| Wed, 26 Nov 2025 10:12:32 GMT | How to See Critical Incidents in Alert Overload: A Guide for SOCs and MSSPs | ANY.RUN | [Read More](https://medium.com/p/2451afdf5877) |
-| Wed, 26 Nov 2025 10:12:00 GMT | Basic Server Security | Fabian Clemenz | [Read More](https://medium.com/p/27ee2265824d) |
-| Wed, 26 Nov 2025 10:10:24 GMT | CRA top 7 by Crimson7 | Vito Rallo | [Read More](https://medium.com/p/6ecbc6d1b16b) |
