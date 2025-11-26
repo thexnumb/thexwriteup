@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 15:32:04 GMT | [Ethernaut] 6. Delegation | Jiseop Shin | [Read More](https://medium.com/p/9ccfa8b755a6) |
+| Wed, 26 Nov 2025 15:29:06 GMT | SOC205 —Event 231 Malicious Macro has been executed (LetsDefend) | Brandon Love | [Read More](https://medium.com/p/47408ea87c5e) |
+| Wed, 26 Nov 2025 15:21:39 GMT | 5 Password Myths That Are Costing You Security | Hania Khan | [Read More](https://medium.com/p/a73cd9fba652) |
+| Wed, 26 Nov 2025 15:19:44 GMT | Why We Trust Technology More Than People (And Why That’s Risky) | Legal Thoughts | [Read More](https://medium.com/p/068ec9d51c90) |
+| Wed, 26 Nov 2025 15:17:10 GMT | AI Is Not The Future, It Is the Present. Here’s How I am Building With It | Abdullah Javeed | [Read More](https://medium.com/p/e87ccd374c57) |
 | Wed, 26 Nov 2025 15:16:31 GMT | ️ NACL vs. Security Groups: Understanding AWS’s Two Layers of Network Security | Deeghayu Fernando | [Read More](https://medium.com/p/f9c0bb3c0d21) |
 | Wed, 26 Nov 2025 15:16:16 GMT | Gemini 3.0: Google’s Next AI Breakthrough Is Arriving With Serious Security Concerns | Fortress Protocol | [Read More](https://medium.com/p/98eeddc957eb) |
 | Wed, 26 Nov 2025 15:13:51 GMT | PowerShell Keylogger Malware Analysis LetsDefend CTF️ | Aditya Bhatt | [Read More](https://medium.com/p/e0965712dd27) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 10:12:32 GMT | How to See Critical Incidents in Alert Overload: A Guide for SOCs and MSSPs | ANY.RUN | [Read More](https://medium.com/p/2451afdf5877) |
 | Wed, 26 Nov 2025 10:12:00 GMT | Basic Server Security | Fabian Clemenz | [Read More](https://medium.com/p/27ee2265824d) |
 | Wed, 26 Nov 2025 10:10:24 GMT | CRA top 7 by Crimson7 | Vito Rallo | [Read More](https://medium.com/p/6ecbc6d1b16b) |
-| Wed, 26 Nov 2025 10:06:12 GMT | How Writing Gives Me Vital Leverage in a Collapsing Society | MOE_WRITES | [Read More](https://medium.com/p/b36906154527) |
-| Wed, 26 Nov 2025 10:01:03 GMT | eJPT Prep - Host & Network Penetration Testing: System-Host Based Attacks CTF 2 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/25821cde6cf1) |
-| Wed, 26 Nov 2025 10:00:00 GMT | Directory Listing: How a simple misconfiguration exposed an Application’s Wechat access tokens and… | Mr. Robot.txt | [Read More](https://medium.com/p/4b3e45328d44) |
-| Wed, 26 Nov 2025 09:57:17 GMT | Performance Meets Price: The Secret Behind a Reliable, Low-Cost VPS Server | Andy | [Read More](https://medium.com/p/eb98f7215659) |
-| Wed, 26 Nov 2025 09:55:10 GMT | Cyber threats are evolving faster than ever in today’s environment full of digital devices, and… | Crawsec | [Read More](https://medium.com/p/2da57824d428) |
