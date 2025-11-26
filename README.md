@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 04:59:03 GMT | Flag in Flame — picoCTF Writeups | Jerome Lolong | [Read More](https://medium.com/p/9279b7544bca) |
+| Wed, 26 Nov 2025 04:58:43 GMT | Django Authentication: Built-In Login Systems That Just Work | Nitesh Chahar | [Read More](https://medium.com/p/4799f7fc412e) |
+| Wed, 26 Nov 2025 04:55:51 GMT | VulnHub DC-4: A Practical Guide to Command Injection & Sudo Abuse | Kalash Kundaliya | [Read More](https://medium.com/p/2e0bea840087) |
+| Wed, 26 Nov 2025 04:53:08 GMT | Why Your WiFi Is Fast on Phone But Slow on Laptop (With Real Fixes) | Ask IT Support | [Read More](https://medium.com/p/e10919167d70) |
+| Wed, 26 Nov 2025 04:42:06 GMT | How AI-Assisted Cloud Networking and Reconnaissance Labs Strengthen Cybersecurity Skills | Vivektumma27 | [Read More](https://medium.com/p/a3d398e1a3f2) |
+| Wed, 26 Nov 2025 04:39:23 GMT | Mastering cryptography_flutter: A Complete Guide to Modern Cryptography in Flutter | AlexCodeX | [Read More](https://medium.com/p/26bf18c1246d) |
 | Wed, 26 Nov 2025 04:25:26 GMT | Dark Web Threats and the Power of Integrated Detection | cyber security threat ai | [Read More](https://medium.com/p/898e2db7b877) |
 | Wed, 26 Nov 2025 04:24:11 GMT | Mastering the HealthGPT Challenge on TryHackMe: A Full Walkthrough, Diagrams Included | SmaRTy | [Read More](https://medium.com/p/9da9b1697836) |
 | Wed, 26 Nov 2025 04:22:08 GMT | Digital Safety Starts Here: Understanding the Importance of Cybersecurity | Pedestal Techno World | [Read More](https://medium.com/p/5fb906c4f156) |
@@ -20,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 04:16:47 GMT | https://medium.com/@bhawini.roy18/harvard-phishing-attack-a-wake-up-call-for-every-enterprise-harvar | Bhawini. | [Read More](https://medium.com/p/a038cacd449c) |
 | Wed, 26 Nov 2025 04:15:35 GMT | Bluetooth Mesh in Smart Buildings: Connectivity, Automation & Security Explained | Geeky Vartika | [Read More](https://medium.com/p/a775b0756d5a) |
 | Wed, 26 Nov 2025 04:10:04 GMT | Harvard Phishing Attack: A Wake-Up Call for Every Enterprise Harvard made headlines recently — not… | Bhawini. | [Read More](https://medium.com/p/fd5501a22b1b) |
+| Wed, 26 Nov 2025 04:06:02 GMT | PicoCTF -Web Exploitation Writeup - Includes - MehediSec | MehediSec | [Read More](https://medium.com/p/49d69ae7c96d) |
 | Wed, 26 Nov 2025 04:05:48 GMT | From Emergency Response to Secure Automation: Why I Focus on the Systems People Rely On but Rarely… | Aaron | [Read More](https://medium.com/p/d50cb01d7f83) |
 | Wed, 26 Nov 2025 04:02:42 GMT | When the Internet Slowed Down: Understanding the Cloudflare Outage in Simple Tech Terms | J Koushalyashree | [Read More](https://medium.com/p/cd1c33f0f563) |
 | Wed, 26 Nov 2025 04:02:16 GMT | Epistemology for CyberSec Cert Junkies (part 1) | Jade Seeker | [Read More](https://medium.com/p/287916923381) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 17:51:54 GMT | Container Security in 2025 | Hello @ Octellient | [Read More](https://medium.com/p/1101aab2c098) |
 | Tue, 25 Nov 2025 17:50:33 GMT | The Balancer Exploit: How $121M Was Lost to a Rounding Error and How It Could Have Been Prevented | Olympix | [Read More](https://medium.com/p/31b44cc97580) |
 | Tue, 25 Nov 2025 17:49:33 GMT | Getting Brutally Honest About Cybersecurity in 2025 | Hello @ Octellient | [Read More](https://medium.com/p/7656dc218b27) |
-| Tue, 25 Nov 2025 17:48:54 GMT | From Dorks to Defense: How I Secured Two CERT-In Hall of Fames | Het Patel | [Read More](https://medium.com/p/37f87f181bd0) |
-| Tue, 25 Nov 2025 17:46:57 GMT | The New King of Vulnerabilities: Why Broken Access Control is the #1 Threat to Your App | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/5ef85f06b515) |
-| Tue, 25 Nov 2025 17:46:24 GMT | How a Desktop App Leaked All Customer Data Through an Insecure Email Gateway Integration | RIO | [Read More](https://medium.com/p/b2243b723a2e) |
-| Tue, 25 Nov 2025 17:35:22 GMT | In today’s fast-moving digital world, creators need speed, simplicity and quality. | Technical Mance | [Read More](https://medium.com/p/08cb13d72b4c) |
-| Tue, 25 Nov 2025 17:34:13 GMT | Clicking Blind: The Risks of Skipping Your Settings | ZeroKeyStrokes | [Read More](https://medium.com/p/e1d54912209b) |
-| Tue, 25 Nov 2025 17:28:00 GMT | IoT: Stop Storing Wi-Fi Passwords in Plain Text | Engineer Too | [Read More](https://medium.com/p/e762c26f9416) |
-| Tue, 25 Nov 2025 17:25:56 GMT | Governments don’t fight terrorism. | kuneblvck | [Read More](https://medium.com/p/3e1b68948a46) |
