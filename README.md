@@ -12,14 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 09:18:15 GMT | Advanced Enterprise Security Solutions With ASIS Technologies | ASIS Technologies | [Read More](https://medium.com/p/ad958390af93) |
+| Wed, 26 Nov 2025 09:11:30 GMT | DockerLabs Writeup — Inj3ct0rss (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/75821bc88052) |
+| Wed, 26 Nov 2025 09:05:00 GMT | JWT Hacking Toolkit: 20 Real Hacker Techniques to Master Authentication Attacks | Very Lazy Tech | [Read More](https://medium.com/p/acc75a736e6e) |
+| Wed, 26 Nov 2025 09:03:14 GMT | Turn Every Login Into a Leak Check With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/a42417f6c5cc) |
+| Wed, 26 Nov 2025 09:01:18 GMT | The Future of Vulnerability Scanning is Ephemeral: Why We Built a 100% Client-Side Analyzer | shresth paul | [Read More](https://medium.com/p/cf5d4d1da3b9) |
+| Wed, 26 Nov 2025 09:01:14 GMT | Hackers Love Untrained Users — Don’t Be One | Redfox Security | [Read More](https://medium.com/p/a7122d5c5577) |
+| Wed, 26 Nov 2025 08:38:19 GMT | No Sun? No Shadows? No Problem! Tracking Location via Power Grids (OSINT Guide) | Ominoko | [Read More](https://medium.com/p/336932170e8c) |
+| Wed, 26 Nov 2025 08:35:46 GMT | Adaptive Security Architecture: How Modern Cyber Defense Learns and Evolves | Majidbasharat | [Read More](https://medium.com/p/12274526133d) |
+| Wed, 26 Nov 2025 08:32:59 GMT | Why Web-Based Banking Software is the Future of the Financial Industry | Zulfiqar Aly | [Read More](https://medium.com/p/b5b2780971b6) |
+| Wed, 26 Nov 2025 08:31:51 GMT | BEST OT/ICS CYBERSECURITY TRAINING IN DELHI NCR AND IN INDIA | TheEvolvEdge | [Read More](https://medium.com/p/0d0281987486) |
+| Wed, 26 Nov 2025 08:28:20 GMT | Intigriti Challenge 1125 write-up | Tr1s | [Read More](https://medium.com/p/b816c6c86a36) |
 | Wed, 26 Nov 2025 08:25:25 GMT | Prompt Injection: What Security Managers Need to Know | eyal doron | [Read More](https://medium.com/p/80adb0b84d22) |
+| Wed, 26 Nov 2025 08:21:11 GMT | Günümüz VPN Teknolojileri ve Kullanım Senaryoları | Mustafa AVDAN | [Read More](https://medium.com/p/ac7cedd3c258) |
 | Wed, 26 Nov 2025 08:20:32 GMT | $1,500 Recon Secrets: Dorks to Dollars | tinopreter | [Read More](https://medium.com/p/0e7eca022708) |
 | Wed, 26 Nov 2025 08:19:48 GMT | The Anthropic Cyber Espionage Incident: A Turning Point for AI Security | Dhwanil | [Read More](https://medium.com/p/4bf48881769c) |
 | Wed, 26 Nov 2025 08:14:07 GMT | IIoT Cyber Incidents 2025: Why Securing the Industrial Edge Starts at the Hardware Root | Epteck GmbH | [Read More](https://medium.com/p/2ecfb098887a) |
 | Wed, 26 Nov 2025 08:10:03 GMT | Linux Operating System Security | David Kljajo | [Read More](https://medium.com/p/66cfc83c5f3e) |
 | Wed, 26 Nov 2025 08:08:23 GMT | 前端靜態掃描歷險記 | 廖偉帆 | [Read More](https://medium.com/p/c3515b196611) |
+| Wed, 26 Nov 2025 08:04:01 GMT | The Rise of Microlearning in Cybersecurity: Does It Actually Work? | CodeRed | [Read More](https://medium.com/p/e0bcc7045579) |
 | Wed, 26 Nov 2025 08:02:07 GMT | [Part 15] The Future Cybersecurity Analyst: Why AI Skills Are Now Essential | Cyberkech | [Read More](https://medium.com/p/4bb54b242d35) |
 | Wed, 26 Nov 2025 08:01:22 GMT | I Tried TryHackMe’s Pre-Security Path. And My Brain Finally Stopped Crying  (Honest Review) | Muhammad Hamid Ali Khan | [Read More](https://medium.com/p/fef31ea49d86) |
+| Wed, 26 Nov 2025 07:56:02 GMT | Black Friday 2025: Don’t Let Cyber Scams Steal Your Identity | CVOR | [Read More](https://medium.com/p/d6f1f555eb7c) |
 | Wed, 26 Nov 2025 07:44:13 GMT | How Cyber Security Lexington Protects Your Network from Hidden Risks | Lexington Computer Support | [Read More](https://medium.com/p/d9d437922d56) |
 | Wed, 26 Nov 2025 07:35:19 GMT | Reverse engineering the ROS2 submission pipeline to hijack and bypass the control flow | Мартин. | [Read More](https://medium.com/p/119d15db8cce) |
 | Wed, 26 Nov 2025 07:34:13 GMT | What is Docker? | Soundaryaps | [Read More](https://medium.com/p/97d058ec805b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 00:55:13 GMT | The Trap is Set: Building a Raspberry Pi Honeypot | tdashadow | [Read More](https://medium.com/p/ccb43afc546b) |
 | Wed, 26 Nov 2025 00:47:41 GMT | LLM Output Handling and Privacy Risks - Tryhackme | Aaron | [Read More](https://medium.com/p/8e3dee715646) |
 | Wed, 26 Nov 2025 00:32:23 GMT | Información, Comunicación y Tecnologías de la Información en la Educación | Doris Ortiz | [Read More](https://medium.com/p/3933feace86a) |
-| Wed, 26 Nov 2025 00:32:09 GMT | HackTheBox Credentials in AD Object Properties: Because Why Encrypt When You Can Describe? | Cybersecurity Simplified | [Read More](https://medium.com/p/8fb8b290ac79) |
-| Wed, 26 Nov 2025 00:22:58 GMT | How an LLM and One Curious Non-Engineer Eliminated the Last 25 % Mystery of Turbofan Thrust in One… | Berend Watchus | [Read More](https://medium.com/p/30a6036c806e) |
-| Wed, 26 Nov 2025 00:19:00 GMT | Turing Machine: Theory and Applications in Computer Science | fatma zahra tidjani | [Read More](https://medium.com/p/1735cd15ed04) |
-| Wed, 26 Nov 2025 00:12:04 GMT | Detecting Malicious ArcGIS Server Object Extensions | Micah Babinski | [Read More](https://medium.com/p/c775280d36a7) |
-| Wed, 26 Nov 2025 00:11:04 GMT | A Server-Side Request Forgery (SSRF) vulnerability in ChatGPT | Cyber-AppSec | [Read More](https://medium.com/p/d69dd92961d0) |
-| Wed, 26 Nov 2025 00:05:38 GMT | How I Survived My First ISO 27001 External Audit as the Lead Auditee | Josh | [Read More](https://medium.com/p/87e921fbe7a0) |
-| Wed, 26 Nov 2025 00:02:32 GMT | API4:2023 — Unrestricted Resource Consumption: Denial-of-Service Attacks Using APIs | JPablo13 | [Read More](https://medium.com/p/82e12fa6dd1e) |
-| Tue, 25 Nov 2025 23:53:36 GMT | How CSP Prevents XSS (Cross-Sight Scripting) | Sabihullah Saleh | [Read More](https://medium.com/p/7a9fbd4eeb06) |
-| Tue, 25 Nov 2025 23:39:10 GMT | The Art Of Finding What Was Never Meant To Be Found | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/fbcabd93a50b) |
-| Tue, 25 Nov 2025 23:32:32 GMT | FastAPI Multi-Tenant SaaS: Row-Level Security Without Pain | Bytecraft | [Read More](https://medium.com/p/9ef960085bf4) |
-| Tue, 25 Nov 2025 23:23:29 GMT | Abuja sits inside a defended bubble. | Put me in a Chanel | [Read More](https://medium.com/p/ee7539b797e6) |
-| Tue, 25 Nov 2025 23:20:43 GMT | Part 2 Night of fire | Sara Fitsgerald | [Read More](https://medium.com/p/c68c6ded8e1b) |
-| Tue, 25 Nov 2025 23:20:17 GMT | Fintech 2025: New Waves of Innovation, Security, and User Experience | Bhinish Dhiman | [Read More](https://medium.com/p/40dbe840ae76) |
-| Tue, 25 Nov 2025 23:17:27 GMT | I Gave a Local AI Agent Full Access to My Laptop for 24 Hours. What It Did Shocked Me | Manash Pratim | [Read More](https://medium.com/p/98b87da1cab8) |
