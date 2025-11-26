@@ -12,10 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 18:36:48 GMT | Cloud Security Posture Management (CSPM) in Multi-Cloud and Hybrid-Cloud Environments | Meravytes | [Read More](https://medium.com/p/1a3b909d8cbe) |
+| Wed, 26 Nov 2025 18:36:40 GMT | SDG:4 (Education) | Sharmin Akter_410 | [Read More](https://medium.com/p/c01c6e43c043) |
+| Wed, 26 Nov 2025 18:27:48 GMT | Supply Chain Apocalypse: 13:3 not in favor of NodeJS | Natalia Sergeeva | [Read More](https://medium.com/p/7d84472fdcaa) |
 | Wed, 26 Nov 2025 18:10:30 GMT | HackerOne for Aspiring Ethical Hackers: An Advanced, Practical Roadmap to Start, Hunt, and Grow | Penough | [Read More](https://medium.com/p/c11200da41dc) |
 | Wed, 26 Nov 2025 18:07:54 GMT | Earth Ammit: When Drones, Orbits, and Supply Chains Become One Battle space | David Mussington (PhD) | [Read More](https://medium.com/p/7acbf14bb60d) |
 | Wed, 26 Nov 2025 18:03:55 GMT | How Cloud Computing is Shaping the Next IT Job Wave | 2iResourcing | [Read More](https://medium.com/p/83bfecaa4159) |
 | Wed, 26 Nov 2025 18:01:49 GMT | Anubis: The Info-Stealer So Cheap, it is an Insult to Anubis Himself | Samratthsingh | [Read More](https://medium.com/p/93a452a6c809) |
+| Wed, 26 Nov 2025 18:01:13 GMT | Why Social Engineering Works: The Psychology Behind Cybercrime | Nusrat Zahan Munni | [Read More](https://medium.com/p/d7eee63e5789) |
 | Wed, 26 Nov 2025 17:59:18 GMT | The New Cybersecurity Blind Spot: Why Agentic AI Requires a New Testing Layer | Anh Nguyen - Prompt QA | [Read More](https://medium.com/p/5a7d201637de) |
 | Wed, 26 Nov 2025 17:59:08 GMT | Phishing Email Analysis — Let’s Defend Lab (Full Investigation Report) | Aseel basem badel | [Read More](https://medium.com/p/8741113070c5) |
 | Wed, 26 Nov 2025 17:52:46 GMT | Microsoft’s Agentic AI Needs Stronger Safety Controls | Geoffrey Wenger | [Read More](https://medium.com/p/672c37108713) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 13:33:55 GMT | The Ghost in Your Wi-Fi: Building a Jammer + Fake Hotspot Generator with ESP8266 | Nisarg Patel | [Read More](https://medium.com/p/9accef784d25) |
 | Wed, 26 Nov 2025 13:32:33 GMT | Hacked | John Douglas Porter | [Read More](https://medium.com/p/2c275ee8f2a3) |
 | Wed, 26 Nov 2025 13:28:21 GMT | Oil & Gas in Africa: The Untold Digital Weakness Behind Pipeline Leaks and Production Downtime | Techero | [Read More](https://medium.com/p/e8867eb45a52) |
-| Wed, 26 Nov 2025 13:19:21 GMT | 7-Zip path traversal (CVE-2025–11001/11002): when your archive decides to go rogue | Telynor | [Read More](https://medium.com/p/a75211431ff7) |
-| Wed, 26 Nov 2025 13:15:53 GMT | How i earned $100 in one minute | Pawan parmar | [Read More](https://medium.com/p/b1b52d5bbf41) |
-| Wed, 26 Nov 2025 13:11:01 GMT | I Automated My Bug Hunting With Google | Ibtissam | [Read More](https://medium.com/p/1dd5e5938b39) |
-| Wed, 26 Nov 2025 13:07:05 GMT | Breaking Open in Budapest | Maryanne Pope | [Read More](https://medium.com/p/f47cdfd2a077) |
