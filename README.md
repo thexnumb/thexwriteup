@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 06:25:08 GMT | How Scammers Hacked Her Phone and Stole Thousands: Tracing the Data Breach | Himanshu Bhatt | [Read More](https://medium.com/p/1e7481b9c9aa) |
+| Wed, 26 Nov 2025 06:14:59 GMT | Is iPhone 17 Actually Faster in Real-Life Use? | Chloe White | [Read More](https://medium.com/p/8a99aa448e4f) |
+| Wed, 26 Nov 2025 06:13:08 GMT | The Daily Tech Digest: 26 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/14e5de636027) |
+| Wed, 26 Nov 2025 06:02:30 GMT | Who Provides the Best Security Services in Bhiwani? | Lakshay Security | [Read More](https://medium.com/p/eecf8c22b12a) |
+| Wed, 26 Nov 2025 06:00:28 GMT | It’s 2025, and your AI agents are still living in a single-chain world. | Levi Chinecherem Chidi | [Read More](https://medium.com/p/a78d0832a1b6) |
+| Wed, 26 Nov 2025 05:54:26 GMT | How AI and Human Expertise Can Coexist in Modern IT | Abdul Muneer | [Read More](https://medium.com/p/d373921d3a81) |
+| Wed, 26 Nov 2025 05:47:41 GMT | SSI IT Cyber Security Services in Munich | Public | [Read More](https://medium.com/p/41c4919bf6e8) |
+| Wed, 26 Nov 2025 05:46:41 GMT | Master the IHK Exam: Proven Study Strategies for Future Security Masters | Sarmin Islam | [Read More](https://medium.com/p/d9f59329ffa5) |
+| Wed, 26 Nov 2025 05:44:35 GMT | Identity Is the New Perimeter: Why Credentials Are the #1 Attack Vector | Paritosh | [Read More](https://medium.com/p/7c889cdfea6f) |
 | Wed, 26 Nov 2025 05:34:10 GMT | How Does EmpMonitor DLP Help Businesses Strengthen Data Security Today? | keyTrackr | [Read More](https://medium.com/p/ade4cb030b7f) |
 | Wed, 26 Nov 2025 05:33:59 GMT | How Attackers Learn About You Without Hacking | Iftiaj A | [Read More](https://medium.com/p/07a6574edead) |
 | Wed, 26 Nov 2025 05:25:40 GMT | TryHackMEVMs: SKYNET | Justin Jude Cabodil | [Read More](https://medium.com/p/8a82d7554c85) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 19:29:52 GMT | Spring Boot with Spring Security + JWT Authentication | dolly | [Read More](https://medium.com/p/3f5cbb94c238) |
 | Tue, 25 Nov 2025 19:25:36 GMT | Secret Black Friday Lifetime Deals 2025 (Stop Paying Subscriptions) | ByteSwift Digital pro | [Read More](https://medium.com/p/481338bcb7d5) |
 | Tue, 25 Nov 2025 19:10:28 GMT | Low-level logic flaw — PortSwigger Academy | Fatimahasan | [Read More](https://medium.com/p/c54efbffa4fd) |
-| Tue, 25 Nov 2025 19:07:20 GMT | Cybersecurity for Total Beginners: What You Really Need to Know First | Smith Adams | [Read More](https://medium.com/p/27ef6f1fd55d) |
-| Tue, 25 Nov 2025 19:05:15 GMT | CyberDefenders Midnight RDP Lab (Writeup) | Muhammed Alaa | [Read More](https://medium.com/p/086e7cfb0d9a) |
-| Tue, 25 Nov 2025 18:59:11 GMT | U.S. Hospital Leaders Face Critical Vendor and AI Cyber Readiness Gaps Entering 2026, New Black… | Black Book Market Research | [Read More](https://medium.com/p/d1d90024a311) |
-| Tue, 25 Nov 2025 18:47:23 GMT | Bridging the Gap: From AI Insights to Dashboard Reality | Assure eServices Inc. | [Read More](https://medium.com/p/4e041e264a49) |
-| Tue, 25 Nov 2025 18:44:11 GMT | MCP: The Single Brain of a Digital Nervous System | David SEHYEON Baek | [Read More](https://medium.com/p/703629a63b99) |
-| Tue, 25 Nov 2025 18:10:35 GMT | Information Security Therapy #2-Όλα όσα (νομίζουμε ότι) ξέρουμε. | Elena Sarimichailidou | [Read More](https://medium.com/p/5f82659a98cd) |
-| Tue, 25 Nov 2025 18:02:15 GMT | Flutter Security: Best Practices Every Developer Should Follow in 2025 | Umakaran Ampigaipagan | [Read More](https://medium.com/p/1637257ebe96) |
-| Tue, 25 Nov 2025 18:02:15 GMT | PicoCTF Writeup: information | SoBatista | [Read More](https://medium.com/p/0f0ac53ccbf6) |
-| Tue, 25 Nov 2025 18:00:26 GMT | ⚙️ How to Set Up and Harden a New Ubuntu 24.04 Server | Paul Hoke | [Read More](https://medium.com/p/1929ac72161f) |
