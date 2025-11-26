@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 21:25:58 GMT | Cloudflare Bypass via Exposed Origin IP - The Power of Shodan Recon! | terp0x0 | [Read More](https://medium.com/p/fb7a8cef8ce6) |
+| Wed, 26 Nov 2025 21:25:39 GMT | Tax Fraud on the Rise in Canada: What to Watch for This Filing Season | Raya P | [Read More](https://medium.com/p/b05644406d19) |
+| Wed, 26 Nov 2025 21:24:26 GMT | VulNyx Store Writeup | CyberCraft | [Read More](https://medium.com/p/006618040b25) |
+| Wed, 26 Nov 2025 21:23:29 GMT | A.I.'s effects on the Mental Health Forecast | Seth J | [Read More](https://medium.com/p/16f149903542) |
+| Wed, 26 Nov 2025 21:23:04 GMT | The Linux Concept Journey — Kernel Runtime Parameters | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/29b61f0ab2ae) |
+| Wed, 26 Nov 2025 21:21:01 GMT | What I Carried Home | Katie | [Read More](https://medium.com/p/14dd4235e07d) |
+| Wed, 26 Nov 2025 21:17:07 GMT | Understanding Null Sender Attacks: How Attackers Exploit “MAIL FROM: <>” to Bypass Email Security | Muhammad Talha Khan | [Read More](https://medium.com/p/016887436d69) |
+| Wed, 26 Nov 2025 21:16:46 GMT | Where Can I Find Managed IT Support for Cybersecurity Protection Services? | Oneclick Technologies LLC | [Read More](https://medium.com/p/0c295614f51f) |
+| Wed, 26 Nov 2025 21:09:17 GMT | 10 Endpoint Management Tools That Actually Make IT Easier in 2025 | Yuvi Aggarwal | [Read More](https://medium.com/p/c9717de14652) |
 | Wed, 26 Nov 2025 20:58:55 GMT | In an increasingly connected world, the question of online privacy has become more pressing than… | Azikaddi | [Read More](https://medium.com/p/9f44bcd2b09f) |
 | Wed, 26 Nov 2025 20:54:09 GMT | So… What Are Security Controls Anyway? | Gladys Luke | [Read More](https://medium.com/p/36465dc45df9) |
 | Wed, 26 Nov 2025 20:54:00 GMT | Securing your home in today’s world goes beyond simple locks and alarms. | United Security | [Read More](https://medium.com/p/3ae605be02d2) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 15:16:16 GMT | Gemini 3.0: Google’s Next AI Breakthrough Is Arriving With Serious Security Concerns | Fortress Protocol | [Read More](https://medium.com/p/98eeddc957eb) |
 | Wed, 26 Nov 2025 15:13:51 GMT | PowerShell Keylogger Malware Analysis LetsDefend CTF️ | Aditya Bhatt | [Read More](https://medium.com/p/e0965712dd27) |
 | Wed, 26 Nov 2025 15:13:18 GMT | When AI Becomes a Weapon: WormGPT & KawaiiGPT Sell Cybercrime at $220 | Chetan Seripally | [Read More](https://medium.com/p/63ccdba833be) |
-| Wed, 26 Nov 2025 15:09:11 GMT | aaaHosting a Website on the Dark Web: What Privacy-Minded Creators Should Know | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/13aa74045a85) |
-| Wed, 26 Nov 2025 15:06:42 GMT | Security Patterns on GCP: An Architectural Deep Dive | Mr Ben Abdallah | [Read More](https://medium.com/p/bc3ca182de56) |
-| Wed, 26 Nov 2025 15:06:34 GMT | Shai-Hulud 2.0 — The NPM Supply-Chain Attack | Anurag Jain | [Read More](https://medium.com/p/fb701841d1d3) |
-| Wed, 26 Nov 2025 15:06:17 GMT | మీ స్వంత డిజిటల్ జంట: వ్యక్తిగత AI సహాయకులు ఎలా ప్రతి వ్యక్తిని మార్చబోతున్నాయి | Singipuram jaswanth | [Read More](https://medium.com/p/e9f4b297d17a) |
-| Wed, 26 Nov 2025 15:05:54 GMT | How to Detect Hooking (Frida) on React Native | Talsec | [Read More](https://medium.com/p/0379f5943fcf) |
-| Wed, 26 Nov 2025 15:05:46 GMT | Amazon has issued a sweeping cybersecurity alert to its 310 million global users, warning of a… | Simple and uniq | [Read More](https://medium.com/p/834289fcfaeb) |
-| Wed, 26 Nov 2025 15:05:10 GMT | Why Our Health Data Feels Safe — but Often Isn’t | David Miller | [Read More](https://medium.com/p/e8518aef949c) |
-| Wed, 26 Nov 2025 15:03:32 GMT | Cyber Briefing: 2025.11.26 | CyberMaterial | [Read More](https://medium.com/p/bbf8c367c220) |
-| Wed, 26 Nov 2025 15:01:16 GMT | Mastering SOAR Playbooks: How to automate Alert Management with Slack | Asad Siddiqui | [Read More](https://medium.com/p/addc6723567a) |
