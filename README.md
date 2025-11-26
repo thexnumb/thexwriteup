@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 16:46:12 GMT | Aislando bugs conocidos usando withKnownIssue | GoyesDev | [Read More](https://medium.com/p/b30e5e77c727) |
+| Wed, 26 Nov 2025 16:41:14 GMT | API Authentication Explained | S.Ali | [Read More](https://medium.com/p/29e3ae7732bc) |
+| Wed, 26 Nov 2025 16:35:52 GMT | How I Discovered a Multi-Vector Attack Chain on a WordPress Site | Tyreek Haynes | [Read More](https://medium.com/p/80ca0635a8a1) |
+| Wed, 26 Nov 2025 16:35:17 GMT | The Human Side of IT: Why Our Team Is the Real Signal Behind SignalAge | SignalAge | [Read More](https://medium.com/p/3bb1517c3302) |
+| Wed, 26 Nov 2025 16:33:12 GMT | Corridors of vulnerability | Stephanie Ikoi Onen | [Read More](https://medium.com/p/7d3999d4cdf6) |
+| Wed, 26 Nov 2025 16:29:44 GMT | Exploiting a CSRF Vuln in a Leading Broking Platform | Akash Gupta | [Read More](https://medium.com/p/aa18c51bdeb6) |
+| Wed, 26 Nov 2025 16:16:35 GMT | Not Again is still a wound | Nandini Chandgothia | [Read More](https://medium.com/p/e0beec4958dc) |
 | Wed, 26 Nov 2025 16:14:51 GMT | Non Emergency Locksmith — Reliable, Professional Service for Every Situation | The Lock Specialist Ltd | [Read More](https://medium.com/p/04122f8a5463) |
 | Wed, 26 Nov 2025 16:11:38 GMT | I am Arnab | Arnab Sikder | [Read More](https://medium.com/p/9fc224b87c20) |
 | Wed, 26 Nov 2025 16:10:59 GMT | Introduction to Elastic: Overview of the ELK Stack | Allen Ace | [Read More](https://medium.com/p/c10fc3a709c1) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 11:56:01 GMT | Is Your “Strategic” Digital Transformation Just Pretend? | Manuel Tress | [Read More](https://medium.com/p/a86d7babac60) |
 | Wed, 26 Nov 2025 11:55:59 GMT | Approaches to Reducing Alert Fatigue ⚡️ | Esra Kayhan | [Read More](https://medium.com/p/90adb2bb6e77) |
 | Wed, 26 Nov 2025 11:55:37 GMT | SOC Forensic Workflow Management | Esra Kayhan | [Read More](https://medium.com/p/f6be96efb6e7) |
-| Wed, 26 Nov 2025 11:37:36 GMT | Stop Pixel Policing: How I Review Product Designs as a Technical PM | Prayash Koirala | [Read More](https://medium.com/p/d3e50eefa402) |
-| Wed, 26 Nov 2025 11:36:35 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/361f9624c336) |
-| Wed, 26 Nov 2025 11:36:17 GMT | A Practical Vulnerability & Patch Management Toolkit for SMEs (No Technical Skills Required) | Ijiola olawale | [Read More](https://medium.com/p/a2155b70a500) |
-| Wed, 26 Nov 2025 11:19:15 GMT | The 150-Day Blueprint: From Zero to $7,650 in Bug Bounties | Abhishek meena | [Read More](https://medium.com/p/51c6f24c3b9f) |
-| Wed, 26 Nov 2025 11:13:27 GMT | Essential Strategies to Strengthen Security For Businesses | Sophia Clarke | [Read More](https://medium.com/p/75c42a029bdf) |
-| Wed, 26 Nov 2025 11:10:21 GMT | Zero-Standing Privilege: Reshaping Access Control for a New Era of Cybersecurity | Sam Writes Security | [Read More](https://medium.com/p/44dec7d242bc) |
-| Wed, 26 Nov 2025 11:02:56 GMT | Cybersecurity Best Practices Every Saudi Business Should Follow in 2025: | HawkShield | [Read More](https://medium.com/p/067b34d1362a) |
