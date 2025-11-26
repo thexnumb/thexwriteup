@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 20:58:55 GMT | In an increasingly connected world, the question of online privacy has become more pressing than… | Azikaddi | [Read More](https://medium.com/p/9f44bcd2b09f) |
+| Wed, 26 Nov 2025 20:54:09 GMT | So… What Are Security Controls Anyway? | Gladys Luke | [Read More](https://medium.com/p/36465dc45df9) |
+| Wed, 26 Nov 2025 20:54:00 GMT | Securing your home in today’s world goes beyond simple locks and alarms. | United Security | [Read More](https://medium.com/p/3ae605be02d2) |
+| Wed, 26 Nov 2025 20:47:04 GMT | Business Logic Vulnerabilities — Hands-On Lab Series (PortSwigger Academy) | Fatimahasan | [Read More](https://medium.com/p/e92b54210aeb) |
+| Wed, 26 Nov 2025 20:46:31 GMT | Surviving Emotional Deprivation | K_UK | [Read More](https://medium.com/p/77e83a0d5d3e) |
+| Wed, 26 Nov 2025 20:39:07 GMT | Active | Sandro Frallicciardi | [Read More](https://medium.com/p/72f532a05c5f) |
+| Wed, 26 Nov 2025 20:36:33 GMT | Immigrations: Gestiona Tu Visa LLC exposed 67GB of immigrant’s data | chum1ng0 | [Read More](https://medium.com/p/444c2c389dea) |
 | Wed, 26 Nov 2025 20:21:53 GMT | How a Security Team Discovered a $3,000 XSS Bug — And Why It Matters for Every Company | Cybervolt | [Read More](https://medium.com/p/42801ffbb27f) |
 | Wed, 26 Nov 2025 20:19:00 GMT | The Anger of Mexico’s Military | Danielblanco | [Read More](https://medium.com/p/8e807fb42733) |
 | Wed, 26 Nov 2025 20:04:11 GMT | AS-Rep Challenge(LetsDefend) | Brandon Love | [Read More](https://medium.com/p/cf1dee11b6a5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 15:05:10 GMT | Why Our Health Data Feels Safe — but Often Isn’t | David Miller | [Read More](https://medium.com/p/e8518aef949c) |
 | Wed, 26 Nov 2025 15:03:32 GMT | Cyber Briefing: 2025.11.26 | CyberMaterial | [Read More](https://medium.com/p/bbf8c367c220) |
 | Wed, 26 Nov 2025 15:01:16 GMT | Mastering SOAR Playbooks: How to automate Alert Management with Slack | Asad Siddiqui | [Read More](https://medium.com/p/addc6723567a) |
-| Wed, 26 Nov 2025 14:59:17 GMT | What Is Cyber Security? A Beginner-Friendly Overview | mehedi jony | [Read More](https://medium.com/p/5b9d173813aa) |
-| Wed, 26 Nov 2025 14:53:15 GMT | How Researchers Queried 100Million WhatsApp Numbers Per Hour (And What Changed) | Berend Watchus | [Read More](https://medium.com/p/f324b15653ac) |
-| Wed, 26 Nov 2025 14:50:34 GMT | ️ Blog 57 — Amazon DynamoDB: The NoSQL Database Built for Speed & Scale | Prutha_Dongre | [Read More](https://medium.com/p/3cdff03b5ff6) |
-| Wed, 26 Nov 2025 14:44:48 GMT | What Skills Are Needed for Online Cybersecurity Training? | Janbask Training | [Read More](https://medium.com/p/5c79ca7ea69c) |
-| Wed, 26 Nov 2025 14:42:37 GMT | OSCP Grind - PG Practice - ZenPhoto | Mr Jokar | [Read More](https://medium.com/p/cd551b2717c3) |
-| Wed, 26 Nov 2025 14:41:57 GMT | When a Simple Recon Command Turns Into an IT Horror Movie | Fateyaly | [Read More](https://medium.com/p/bf3e194f87d7) |
-| Wed, 26 Nov 2025 14:40:44 GMT | Texas Tech University Class Ring Guide 2025: Meaning, Cost, and Tradition | Motherlandlove | [Read More](https://medium.com/p/61fe5d205a4d) |
