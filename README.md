@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 26 Nov 2025 03:50:24 GMT | Turning Visibility Into Defense: Connecting the Attack Surface to the Detection Surface | Jon Schipp | [Read More](https://medium.com/p/09f75652b15c) |
+| Wed, 26 Nov 2025 03:42:48 GMT | Gen Z Joins Cybersecurity: Will AI Transform the Landscape? | Hungry Tech Mind | [Read More](https://medium.com/p/5e0a067d72f4) |
+| Wed, 26 Nov 2025 03:32:13 GMT | How Google Maps Is Cracking Down on Review Extortion | Deven Chhajed | [Read More](https://medium.com/p/e40faaefe60f) |
+| Wed, 26 Nov 2025 03:29:36 GMT | Why Gentleness Is a Revolution, Not a Weakness | ☽Karlee Alyssa | [Read More](https://medium.com/p/5c1950f8ee91) |
 | Wed, 26 Nov 2025 02:37:44 GMT | How Russia’s Oil Sector Became the Weak Link in Putin’s War Strategy | Money, Guns & Oil | [Read More](https://medium.com/p/400f7f22cbe4) |
 | Wed, 26 Nov 2025 02:32:06 GMT | Argo CD v3: The Future of GitOps | Sharan Kumar Reddy Sutrapu | [Read More](https://medium.com/p/6ebfe292947b) |
 | Wed, 26 Nov 2025 02:08:42 GMT | This 1 Trick Led to a Paywall Bypass | D.Haddad | [Read More](https://medium.com/p/024110c78ad4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 25 Nov 2025 16:33:37 GMT | Calculate Your ERP TCO | Digital Transformation Playbook | [Read More](https://medium.com/p/f884cf912526) |
 | Tue, 25 Nov 2025 16:25:09 GMT | WordPress Penetration-Testing - Building a Vulnerable Lab From Scratch | Amrsmooke | [Read More](https://medium.com/p/d6b1dce20e81) |
 | Tue, 25 Nov 2025 16:20:30 GMT | A small Script to Detect Sha1-Hulud 2.0 affected Packages in NPM Projects | Tim Nelles | [Read More](https://medium.com/p/8f05150e64ce) |
-| Tue, 25 Nov 2025 16:15:45 GMT | Critical W3 Total Cache Vulnerability Exposes Over 1 Million WordPress Sites to Remote Code… | Technijian | [Read More](https://medium.com/p/eb138f828348) |
-| Tue, 25 Nov 2025 16:13:44 GMT | What is Compliance Screening? | Business Schweiz | [Read More](https://medium.com/p/9b67b0dea3a8) |
-| Tue, 25 Nov 2025 16:08:01 GMT | Rust’s Complexity Is Its Next Security Threat | Adonis | [Read More](https://medium.com/p/ca6afce5da96) |
-| Tue, 25 Nov 2025 16:02:06 GMT | Episode 11: “The Resolver’s Gambit” | Dr. House In I.T. | [Read More](https://medium.com/p/11f8a3b8609a) |
