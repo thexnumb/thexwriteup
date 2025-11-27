@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 03:03:53 GMT | Apple Developer Stored XSS — $5,000 Bounty - Writeup 2025 | Youssef Desouki ( Zombie Hack ) | [Read More](https://medium.com/p/cc34a030a5bf) |
+| Thu, 27 Nov 2025 02:36:49 GMT | Significant Data Fiduciaries: India’s Toughest Data Category: Are You on the List? | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/b1eb17dc6ee3) |
+| Thu, 27 Nov 2025 02:32:31 GMT | FastAPI + Policy Engines (OPA/CEL): LLM Function Calls with Guarded Execution | Codastra | [Read More](https://medium.com/p/a5632d8405c7) |
+| Thu, 27 Nov 2025 02:29:24 GMT | The Origin of the Saltine Hacker | Travis Ray Caverhill | [Read More](https://medium.com/p/9b79facfc2e7) |
+| Thu, 27 Nov 2025 02:29:11 GMT | The Bug That Took Me 2 Days… and the Fix That Took 2 Minutes | Somendradev | [Read More](https://medium.com/p/81bb700d4834) |
+| Thu, 27 Nov 2025 02:17:04 GMT | [OpenAI] GPT-5.1-Codex-Max 시스템 카드 심층 분석: 에이전트 코딩 모델의 안전성과 미래 | YouShin kim | [Read More](https://medium.com/p/8a4627d312df) |
+| Thu, 27 Nov 2025 02:12:23 GMT | I’m convinced most fertility fears | Adeel Defne | [Read More](https://medium.com/p/1d56f4920785) |
+| Thu, 27 Nov 2025 02:02:09 GMT | The Windows When Your Mind Opens Wide | Eric Buesing | [Read More](https://medium.com/p/3b9fde101505) |
+| Thu, 27 Nov 2025 02:01:01 GMT | How I do Recon on my target.com which gave me walkthrough to the bugbounty | Shakthi | [Read More](https://medium.com/p/880c07c3f07d) |
+| Thu, 27 Nov 2025 02:00:27 GMT | Snyk Log Sniffer: AI-Powered Audit Log Insights for Security Leaders | Snyk | [Read More](https://medium.com/p/4213efe5fc97) |
+| Thu, 27 Nov 2025 01:51:44 GMT | Analisis Text Pada Medsos | Fchriyan | [Read More](https://medium.com/p/59aeb9645332) |
+| Thu, 27 Nov 2025 01:44:24 GMT | Cybersecurity Homelab Setup (Using a Single Desktop) | Johnny Meintel | [Read More](https://medium.com/p/d55399b8b1dd) |
 | Thu, 27 Nov 2025 01:24:49 GMT | Kali Linux: First Steps and Must-Have Tweaks | Aj | [Read More](https://medium.com/p/56bd26be8367) |
 | Thu, 27 Nov 2025 01:24:37 GMT | How I Used Ligolo-ng to Pivot into Internal Networks During OSCP Labs | Got Root? | [Read More](https://medium.com/p/fdfed42c9723) |
 | Thu, 27 Nov 2025 01:18:53 GMT | Fortinet FortiWeb Zero-Day (CVE-2025–64446): Risk Assessment and Defense Strategies | Criminal IP | [Read More](https://medium.com/p/3cd4535ac4bb) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 17:03:15 GMT | How Will MPC Wallets Change Finance? — Clarisse Hagège | Aroundthecoin | [Read More](https://medium.com/p/53e2d175e5ac) |
 | Wed, 26 Nov 2025 17:02:11 GMT | OSCP Grind - PG Practice - Pelican | Mr Jokar | [Read More](https://medium.com/p/f196e3c5572f) |
 | Wed, 26 Nov 2025 17:02:09 GMT | 10 FastAPI Security Headers (CSP/HSTS) Without Latency | Quellin | [Read More](https://medium.com/p/8228a32bb235) |
-| Wed, 26 Nov 2025 17:01:59 GMT | Mastering the Shell: Essential Bash Commands for Security Work | Aj | [Read More](https://medium.com/p/7406a10be423) |
-| Wed, 26 Nov 2025 16:59:44 GMT | E = mc² and Cybersecurity: The Equation we never understood | Sumit Chouhan | [Read More](https://medium.com/p/ab5726c1850b) |
-| Wed, 26 Nov 2025 16:57:54 GMT | My Lexus UX Was Stolen in a CAN Bus Attack — What Every Driver Must Know | Paul Kitchener | [Read More](https://medium.com/p/71421cf939ce) |
-| Wed, 26 Nov 2025 16:57:23 GMT | Misp | Farid Hajiyev | [Read More](https://medium.com/p/d770f4592b7b) |
-| Wed, 26 Nov 2025 16:50:52 GMT | Cybersecurity for Small Businesses: The 2025 Ransomware Defense Playbook | Technijian | [Read More](https://medium.com/p/def26e5317d5) |
-| Wed, 26 Nov 2025 16:48:47 GMT | The NPM Worm That’s Eating JavaScript Alive: Shai-Hulud Exposed | Adonis | [Read More](https://medium.com/p/074070f47500) |
-| Wed, 26 Nov 2025 16:46:12 GMT | Aislando bugs conocidos usando withKnownIssue | GoyesDev | [Read More](https://medium.com/p/b30e5e77c727) |
-| Wed, 26 Nov 2025 16:41:14 GMT | API Authentication Explained | S.Ali | [Read More](https://medium.com/p/29e3ae7732bc) |
-| Wed, 26 Nov 2025 16:35:52 GMT | How I Discovered a Multi-Vector Attack Chain on a WordPress Site | Tyreek Haynes | [Read More](https://medium.com/p/80ca0635a8a1) |
-| Wed, 26 Nov 2025 16:35:17 GMT | The Human Side of IT: Why Our Team Is the Real Signal Behind SignalAge | SignalAge | [Read More](https://medium.com/p/3bb1517c3302) |
-| Wed, 26 Nov 2025 16:33:12 GMT | Corridors of vulnerability | Stephanie Ikoi Onen | [Read More](https://medium.com/p/7d3999d4cdf6) |
-| Wed, 26 Nov 2025 16:29:44 GMT | Exploiting a CSRF Vuln in a Leading Broking Platform | Akash Gupta | [Read More](https://medium.com/p/aa18c51bdeb6) |
