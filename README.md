@@ -12,11 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 07:37:24 GMT | Pentest → Incident Response: 10 Tools That Saved the Day (and How to Use Them) | Very Lazy Tech | [Read More](https://medium.com/p/ebcef94dbb7e) |
+| Thu, 27 Nov 2025 07:32:04 GMT | 12 Security Defaults Every Node App Needs | Syntal | [Read More](https://medium.com/p/849eb3c4c107) |
+| Thu, 27 Nov 2025 07:23:28 GMT | Security is Not an Event: Why Nigeria Must Shift from Reaction to Strategic Culture. | Confidence Amaseseibi | [Read More](https://medium.com/p/4d69f736a829) |
+| Thu, 27 Nov 2025 07:22:31 GMT | Why Public Wi-Fi Is More Dangerous Than You Think in 2025 | Monu Jangra | [Read More](https://medium.com/p/4cbef8ecdeb8) |
+| Thu, 27 Nov 2025 07:21:18 GMT | Architectures of Fear: Between Houses, Bodies and Digital Profiles | Calogero Kalos Bonasia | [Read More](https://medium.com/p/25970f89e660) |
 | Thu, 27 Nov 2025 07:20:11 GMT | AI for Digital Forensics: Detecting Deepfakes & Manipulated Images | Adeel Umar | [Read More](https://medium.com/p/d15f0f2958fe) |
 | Thu, 27 Nov 2025 07:19:59 GMT | How to Roll Out Security Tools: The “Crawl, Walk, Run” Framework | Plexicus | [Read More](https://medium.com/p/6c225aa385fd) |
 | Thu, 27 Nov 2025 07:18:37 GMT | Nmap Flags Explained Like You’re Five | Fateyaly | [Read More](https://medium.com/p/e2ea2f135e3e) |
+| Thu, 27 Nov 2025 07:17:17 GMT | Snowflake SQL in a Nutshell: Using Trust Center to Advantage | NadirDoctor | [Read More](https://medium.com/p/47eafc7c1b6c) |
 | Thu, 27 Nov 2025 07:16:36 GMT | War as-a-Service: Britain’s Sovereign Illusion | Thomas Lewis | [Read More](https://medium.com/p/b643bbcc546e) |
 | Thu, 27 Nov 2025 07:13:53 GMT | What is Cyber Resilience Act, and what cybersecurity requirements does it impose? | Unicorn Developer | [Read More](https://medium.com/p/73936a974d12) |
+| Thu, 27 Nov 2025 07:11:07 GMT | Essential Emergency Scene Rules for Security Guards | Sentrysofficers | [Read More](https://medium.com/p/a2365a15fc50) |
 | Thu, 27 Nov 2025 07:09:22 GMT | Cyber Security Analyst Roles and Responsibilities | Win In Life Academy | [Read More](https://medium.com/p/b66855263b69) |
 | Thu, 27 Nov 2025 07:07:12 GMT | Cyberdefenders Acoustic Lab Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/9394cb6c2e6e) |
 | Thu, 27 Nov 2025 07:07:10 GMT | Fastest way to read 10M DB rows in Python? | Bhaskar Saha | [Read More](https://medium.com/p/f6f0a6e26268) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 21:52:26 GMT | How I Discovered an IDOR Vulnerability in a Parent/Child Management API | Umanhonlen Gabriel | [Read More](https://medium.com/p/445c9471d23b) |
 | Wed, 26 Nov 2025 21:45:06 GMT | جهت هماهنگی تلگرام یا واتساپ 09915528413پیام بدهید،ویا باشماره(09364608280)تماس بگیرید
 صیغه کرج… | مهدی رضایی | [Read More](https://medium.com/p/6d875e061894) |
-| Wed, 26 Nov 2025 21:36:25 GMT | The $1 Test Drive | Eina Schroeder | [Read More](https://medium.com/p/b5814d5b52a2) |
-| Wed, 26 Nov 2025 21:25:58 GMT | Cloudflare Bypass via Exposed Origin IP - The Power of Shodan Recon! | terp0x0 | [Read More](https://medium.com/p/fb7a8cef8ce6) |
-| Wed, 26 Nov 2025 21:25:39 GMT | Tax Fraud on the Rise in Canada: What to Watch for This Filing Season | Raya P | [Read More](https://medium.com/p/b05644406d19) |
-| Wed, 26 Nov 2025 21:24:26 GMT | VulNyx Store Writeup | CyberCraft | [Read More](https://medium.com/p/006618040b25) |
-| Wed, 26 Nov 2025 21:23:29 GMT | A.I.'s effects on the Mental Health Forecast | Seth J | [Read More](https://medium.com/p/16f149903542) |
-| Wed, 26 Nov 2025 21:23:04 GMT | The Linux Concept Journey — Kernel Runtime Parameters | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/29b61f0ab2ae) |
-| Wed, 26 Nov 2025 21:21:01 GMT | What I Carried Home | Katie | [Read More](https://medium.com/p/14dd4235e07d) |
