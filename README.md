@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 12:40:35 GMT | How ScreenCheck Middle East Supports Secure and Smarter Operations Across the Region | fasil rahman | [Read More](https://medium.com/p/685cfdb940a3) |
+| Thu, 27 Nov 2025 12:39:22 GMT | Why Regression Testing Services in USA Are Essential for Modern Businesses | Achana prashanth | [Read More](https://medium.com/p/c77f3cc8b8e4) |
+| Thu, 27 Nov 2025 12:33:18 GMT | cybersecurity | Digitalmarketerpalakkad | [Read More](https://medium.com/p/0973d71b68c2) |
+| Thu, 27 Nov 2025 12:32:59 GMT | Something BIG is coming from Daifend’s Lab!! | Bhawini. | [Read More](https://medium.com/p/a0a85572b668) |
+| Thu, 27 Nov 2025 12:32:34 GMT | Your Software Is Held Together By Volunteers On The Verge Of Collapse | Kawaldeep Singh | [Read More](https://medium.com/p/00ffa9d990c3) |
+| Thu, 27 Nov 2025 12:30:52 GMT | How Virtual Guard Tour Solutions Are Transforming Security Operations in Singapore | Kavitha | [Read More](https://medium.com/p/fe87d20b542f) |
+| Thu, 27 Nov 2025 12:29:04 GMT | Mobile Solar Surveillance Systems: Reliable, Sustainable Security Solutions for Remote Operations | Gwen Stacy | [Read More](https://medium.com/p/6dd52232db49) |
+| Thu, 27 Nov 2025 12:23:06 GMT | The New Digital Security Is No Longer Technical — It’s Narrative | R. F. NÖRIS | [Read More](https://medium.com/p/2b5a4798fdf3) |
+| Thu, 27 Nov 2025 12:12:45 GMT | Defacement or Declaration? The Cyberattack Kenya Cannot Afford to Ignore | Kevin Mwenda | [Read More](https://medium.com/p/d41b218230f2) |
+| Thu, 27 Nov 2025 12:09:10 GMT | Korean Leaks: How Qilin Ransomware Turned One MSP Breach into a South Korean Financial Cyber Crisis | Germano Costi | [Read More](https://medium.com/p/ae42c92c3898) |
+| Thu, 27 Nov 2025 12:02:09 GMT | The Slow Creep of Digital Collapse You Can Already Feel | Angus Peterson | [Read More](https://medium.com/p/a53a758afcf4) |
+| Thu, 27 Nov 2025 12:02:09 GMT | Writeup for picoCTF challenge “MatchTheRegex” | Walter Moar | [Read More](https://medium.com/p/8150ad22a259) |
+| Thu, 27 Nov 2025 12:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Nov 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4fdb893f6913) |
+| Thu, 27 Nov 2025 11:59:52 GMT | My First Valid Bug: IDOR in E-commerce Website | 0xShyron | [Read More](https://medium.com/p/5789e974af62) |
+| Thu, 27 Nov 2025 11:58:11 GMT | How Continuous Threat Exposure Management (CTEM) Solves Visibility Challenges in Real-Time | Zoya Tazeen | [Read More](https://medium.com/p/9009c109b5ca) |
+| Thu, 27 Nov 2025 11:44:40 GMT | How Modern Security & Identity Solutions Are Shaping the Future of Business Safety | ashna raj | [Read More](https://medium.com/p/b3a88fb2f07a) |
+| Thu, 27 Nov 2025 11:42:28 GMT | HackTheBox footprinting module — lab (medium) solution guide | Zainab Akinlawon | [Read More](https://medium.com/p/f73099244be1) |
+| Thu, 27 Nov 2025 11:39:49 GMT | Mobile Hacking Lab - Android SQL Injection - Food Store | Hazar | [Read More](https://medium.com/p/ffa4c8fc8a81) |
+| Thu, 27 Nov 2025 11:37:53 GMT | Beyond Autonomy: The Rise of Cognitive Infrastructure | Code & Credibility | [Read More](https://medium.com/p/c6d816cd8e50) |
 | Thu, 27 Nov 2025 11:34:45 GMT | How Your Partner Can Spy on You Using Their Phone (and How to Stop It) | Cyber pulse insider | [Read More](https://medium.com/p/b4944dd4ede0) |
 | Thu, 27 Nov 2025 11:32:27 GMT | How RAG Architecture Reduces Hallucinations in LLMs? | Sameer Khandelwal | [Read More](https://medium.com/p/8c6757a551e9) |
 | Thu, 27 Nov 2025 11:28:54 GMT | Are keycard systems a wise investment for U.S building security? | TCS Security | [Read More](https://medium.com/p/1a5604a67236) |
@@ -20,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 11:25:36 GMT | JWT Authentication Bypass via Weak Signing Key | Bash Overflow | [Read More](https://medium.com/p/894b85bc879e) |
 | Thu, 27 Nov 2025 11:23:02 GMT | Linux Observability With eBPF: Monitoring Systems Like a Modern Pro | Majidbasharat | [Read More](https://medium.com/p/6b76ad80c992) |
 | Thu, 27 Nov 2025 11:22:12 GMT | Walkthrough: Kioptrix Level 4 (2014) | Kiama Kareithi | [Read More](https://medium.com/p/4982c36684eb) |
+| Thu, 27 Nov 2025 11:19:29 GMT | Secure Docker Images: 12 Essential Tips to Lock Them Down Like a Pro | Omar ELFarsaoui | [Read More](https://medium.com/p/90909a149210) |
 | Thu, 27 Nov 2025 11:19:17 GMT | What Shai Hulud 2.0 Taught Me About npm Security (The Hard Way) | Heinan Cabouly | [Read More](https://medium.com/p/bf79945710d0) |
 | Thu, 27 Nov 2025 11:19:10 GMT | AstralGuard Cyber Night Talk: Exploring the Future of AI & Cybersecurity ️ | Dallen Sadru | [Read More](https://medium.com/p/c710c274961c) |
 | Thu, 27 Nov 2025 11:16:03 GMT | Top 10 Cybersecurity Threats Everyone Should Know in 2025 | pavani | [Read More](https://medium.com/p/b37350f33c68) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 07:32:04 GMT | 12 Security Defaults Every Node App Needs | Syntal | [Read More](https://medium.com/p/849eb3c4c107) |
 | Thu, 27 Nov 2025 07:23:28 GMT | Security is Not an Event: Why Nigeria Must Shift from Reaction to Strategic Culture. | Confidence Amaseseibi | [Read More](https://medium.com/p/4d69f736a829) |
 | Thu, 27 Nov 2025 07:22:31 GMT | Why Public Wi-Fi Is More Dangerous Than You Think in 2025 | Monu Jangra | [Read More](https://medium.com/p/4cbef8ecdeb8) |
-| Thu, 27 Nov 2025 07:21:18 GMT | Architectures of Fear: Between Houses, Bodies and Digital Profiles | Calogero Kalos Bonasia | [Read More](https://medium.com/p/25970f89e660) |
-| Thu, 27 Nov 2025 07:20:11 GMT | AI for Digital Forensics: Detecting Deepfakes & Manipulated Images | Adeel Umar | [Read More](https://medium.com/p/d15f0f2958fe) |
-| Thu, 27 Nov 2025 07:19:59 GMT | How to Roll Out Security Tools: The “Crawl, Walk, Run” Framework | Plexicus | [Read More](https://medium.com/p/6c225aa385fd) |
-| Thu, 27 Nov 2025 07:18:37 GMT | Nmap Flags Explained Like You’re Five | Fateyaly | [Read More](https://medium.com/p/e2ea2f135e3e) |
-| Thu, 27 Nov 2025 07:17:17 GMT | Snowflake SQL in a Nutshell: Using Trust Center to Advantage | NadirDoctor | [Read More](https://medium.com/p/47eafc7c1b6c) |
-| Thu, 27 Nov 2025 07:16:36 GMT | War as-a-Service: Britain’s Sovereign Illusion | Thomas Lewis | [Read More](https://medium.com/p/b643bbcc546e) |
-| Thu, 27 Nov 2025 07:13:53 GMT | What is Cyber Resilience Act, and what cybersecurity requirements does it impose? | Unicorn Developer | [Read More](https://medium.com/p/73936a974d12) |
-| Thu, 27 Nov 2025 07:11:07 GMT | Essential Emergency Scene Rules for Security Guards | Sentrysofficers | [Read More](https://medium.com/p/a2365a15fc50) |
-| Thu, 27 Nov 2025 07:09:22 GMT | Cyber Security Analyst Roles and Responsibilities | Win In Life Academy | [Read More](https://medium.com/p/b66855263b69) |
-| Thu, 27 Nov 2025 07:07:12 GMT | Cyberdefenders Acoustic Lab Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/9394cb6c2e6e) |
-| Thu, 27 Nov 2025 07:07:10 GMT | Fastest way to read 10M DB rows in Python? | Bhaskar Saha | [Read More](https://medium.com/p/f6f0a6e26268) |
-| Thu, 27 Nov 2025 07:05:35 GMT | Website Development for Beginners: Everything You Should Know | Qss Technosoft | [Read More](https://medium.com/p/6f77b6b802b3) |
-| Thu, 27 Nov 2025 07:02:46 GMT | The Mixpanel Leak: Why OpenAI Users Should Pay Attention Before It’s Too Late | Prince Philip | [Read More](https://medium.com/p/25ac4bc6ecb7) |
-| Thu, 27 Nov 2025 06:59:45 GMT | How does NDR Platform enables Rapid Response Scalability? | NetWitness | [Read More](https://medium.com/p/e00456191932) |
-| Thu, 27 Nov 2025 06:58:41 GMT | Top OSINT Tools- Basic Recommendations from me. | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/a05f65c10980) |
-| Thu, 27 Nov 2025 06:58:12 GMT | BEST OT/ICS CYBERSECURITY TRAINING AND DCS TRAINING | TheEvolvEdge | [Read More](https://medium.com/p/a83c259306fa) |
-| Thu, 27 Nov 2025 06:57:44 GMT | Road to OSCP/CPTS: The Ultimate SMB Enumeration Cheat Sheet | NadSec | [Read More](https://medium.com/p/d80410e0a462) |
-| Thu, 27 Nov 2025 06:53:34 GMT | How I Bypassed Enterprise File Restrictions with Just One Character | default_0x | [Read More](https://medium.com/p/f514080bed2f) |
-| Thu, 27 Nov 2025 06:52:25 GMT | When You Start Hiding Again | Rahul Gupta | [Read More](https://medium.com/p/9473c4cbca87) |
-| Thu, 27 Nov 2025 06:38:37 GMT | Why Hiring an Apartment Security Guard is Essential for Modern Residential Safety in India | securityservices | [Read More](https://medium.com/p/4ba5c0e3c74b) |
