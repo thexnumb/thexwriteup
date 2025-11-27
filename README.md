@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 14:38:42 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/400f895801a4) |
+| Thu, 27 Nov 2025 14:37:14 GMT | When your suppliers become your biggest area of vulnerability | Rebecca Cottignies | [Read More](https://medium.com/p/48c27bca247f) |
+| Thu, 27 Nov 2025 14:33:09 GMT | Bridging the Compensation Gap: The Power of Statutory Damages in State Privacy Law | David Miller | [Read More](https://medium.com/p/657457bd4064) |
+| Thu, 27 Nov 2025 14:32:18 GMT | The Dead Are Getting Louder: What Happens to Your Data When You Die? | Artificial Intelligent Explore | [Read More](https://medium.com/p/020896b8dcab) |
+| Thu, 27 Nov 2025 14:32:17 GMT | (Comptia A+) Comprehensive Mobile Security Troubleshooting Guide: Symptoms, Solutions, and Best… | Vignesh R | [Read More](https://medium.com/p/a2b67bfb8dc6) |
+| Thu, 27 Nov 2025 14:31:15 GMT | America and AUKUS Don’t Have a Capability Problem. They Have a Governance Crisis. | AXSAS | [Read More](https://medium.com/p/fe83eb43635d) |
+| Thu, 27 Nov 2025 14:30:24 GMT | MemLabs Lab 2 — A New World Write-up | Busraugur | [Read More](https://medium.com/p/b925c9602fbb) |
+| Thu, 27 Nov 2025 14:19:52 GMT | Why Technology Alone Will Never Stop Cybercrime: The Missing Psychology Behind Modern Scams | NIkhil Kumar | [Read More](https://medium.com/p/ebba2cece0c1) |
 | Thu, 27 Nov 2025 14:18:42 GMT | THM — Mr Robot CTF — Write-up- Hussein Ibrahim | Hussin Ibrahim | [Read More](https://medium.com/p/0ca80e06ee51) |
 | Thu, 27 Nov 2025 14:13:46 GMT | Cyber Security Readiness for 2026 and Beyond with Smarter Defenses Against AI Deepfakes Quantum… | SJ Innovation | [Read More](https://medium.com/p/8583ce0f7a4f) |
+| Thu, 27 Nov 2025 14:11:54 GMT | Chat History Poisoning in LLM Applications: Persistent Prompt Injection via Untrusted JSON Context | Serhat ÇİÇEK | [Read More](https://medium.com/p/c485e4842394) |
 | Thu, 27 Nov 2025 14:07:59 GMT | Online 6-Week Surgical Tech Program Guide 2026: Fast Beginner | Motherlandlove | [Read More](https://medium.com/p/01b0b5018b15) |
 | Thu, 27 Nov 2025 14:06:02 GMT | 6 Surprising Truths I Uncovered Reverse-Engineering a Home Router | Cyb3rpeter | [Read More](https://medium.com/p/64685f83af03) |
 | Thu, 27 Nov 2025 14:04:12 GMT | The AI Paradox: A New Frontier for Data Breach Litigation | Legal Thoughts | [Read More](https://medium.com/p/3d8f1c8ff385) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 10:10:01 GMT | Browser as the Dominant Attack Surface | DarkBarrier | [Read More](https://medium.com/p/53a75dc839e5) |
 | Thu, 27 Nov 2025 10:05:44 GMT | Best Cloud Managed Services Provider in India - Enhance Your IT Services | Samvaskaran | [Read More](https://medium.com/p/f95f8ebd55fa) |
 | Thu, 27 Nov 2025 10:04:27 GMT | Setting Up a Remote Access Cybersecurity Lab: A Beginner-Friendly Guide | Ramandeep Bagri | [Read More](https://medium.com/p/a1d3bac6b2e4) |
-| Thu, 27 Nov 2025 10:03:10 GMT | The State of Ransomware in October 2025: An Evolving Threat Landscape | Security Unfiltered | [Read More](https://medium.com/p/8dc93f9144ab) |
-| Thu, 27 Nov 2025 10:02:34 GMT | 3 TRENDS IN CYBER SECURITY 2025 | Nmesomapromise | [Read More](https://medium.com/p/73d3d6664abf) |
-| Thu, 27 Nov 2025 10:01:25 GMT | Static Malware Analysis — Let’s Defend Lab | Aseel basem badel | [Read More](https://medium.com/p/c01dc01f835a) |
-| Thu, 27 Nov 2025 10:00:09 GMT | Sama Saudi | itbutler0077 | [Read More](https://medium.com/p/1bc2c4f2dd86) |
-| Thu, 27 Nov 2025 09:59:31 GMT | Best Endpoint Security Training for Cybersecurity Careers | cyber security Updates | [Read More](https://medium.com/p/3ad582bf8e76) |
-| Thu, 27 Nov 2025 09:56:47 GMT | What is Picuki? How It Works | Tayyab Techy | [Read More](https://medium.com/p/1d4f231a1aed) |
-| Thu, 27 Nov 2025 09:54:07 GMT | Why Businesses Choose Laravel for High Performance Web Apps | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/880e0a9e7003) |
-| Thu, 27 Nov 2025 09:53:20 GMT | Beyond Dubai: Mapping the Growth of Telecom Kiosk Machine Adoption Across the GCC | Rakesh | [Read More](https://medium.com/p/1627187a4f79) |
-| Thu, 27 Nov 2025 09:52:36 GMT | The ROI of Cybersecurity: How Security Spending Actually Saves Money | Digital Defense | [Read More](https://medium.com/p/327ff389e765) |
