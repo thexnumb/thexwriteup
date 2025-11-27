@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 16:36:06 GMT | How Northern Nigeria Became a War Zone: The Roots of Boko Haram, Banditry, and Extremist Violence | Oni Oluwapelumi Esther | [Read More](https://medium.com/p/136cd6bc47d4) |
+| Thu, 27 Nov 2025 16:31:07 GMT | Top AI Productivity Tools 2026 for Big Business Owners (Full Guide)Top AI Productivity Tools 2026… | Motherlandlove | [Read More](https://medium.com/p/5ddc86625bc4) |
+| Thu, 27 Nov 2025 16:30:10 GMT | The Missing Law of Motion | Chris Perkins | [Read More](https://medium.com/p/2044294ff551) |
+| Thu, 27 Nov 2025 16:26:16 GMT | Security & Encryption on 1win | Alvin Muzart | [Read More](https://medium.com/p/f97f18cb88cb) |
 | Thu, 27 Nov 2025 16:25:24 GMT | The AI Readiness Audit | John Williams | [Read More](https://medium.com/p/f80de6a91ab4) |
+| Thu, 27 Nov 2025 16:25:23 GMT | The Hidden Layer Of OSINT That Most Analysts Never Learn | Rendur M. Saunter | [Read More](https://medium.com/p/b7b266012905) |
 | Thu, 27 Nov 2025 16:24:21 GMT | Poetry: The Morse Code for the Ages | Thuba Kope | [Read More](https://medium.com/p/f08fb869253d) |
 | Thu, 27 Nov 2025 16:22:02 GMT | Top 5 Security Patterns Every React.js Developer Should Know | Asjad Abrar | [Read More](https://medium.com/p/2daee63b0d88) |
 | Thu, 27 Nov 2025 16:17:29 GMT | Why IBM Cloud Networking Is a Great Starting Point for New Engineers | Nawaf Alsabah | [Read More](https://medium.com/p/08cd978b9473) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 12:23:06 GMT | The New Digital Security Is No Longer Technical — It’s Narrative | R. F. NÖRIS | [Read More](https://medium.com/p/2b5a4798fdf3) |
 | Thu, 27 Nov 2025 12:12:45 GMT | Defacement or Declaration? The Cyberattack Kenya Cannot Afford to Ignore | Kevin Mwenda | [Read More](https://medium.com/p/d41b218230f2) |
 | Thu, 27 Nov 2025 12:09:10 GMT | Korean Leaks: How Qilin Ransomware Turned One MSP Breach into a South Korean Financial Cyber Crisis | Germano Costi | [Read More](https://medium.com/p/ae42c92c3898) |
-| Thu, 27 Nov 2025 12:02:09 GMT | The Slow Creep of Digital Collapse You Can Already Feel | Angus Peterson | [Read More](https://medium.com/p/a53a758afcf4) |
-| Thu, 27 Nov 2025 12:02:09 GMT | Writeup for picoCTF challenge “MatchTheRegex” | Walter Moar | [Read More](https://medium.com/p/8150ad22a259) |
-| Thu, 27 Nov 2025 12:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Nov 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4fdb893f6913) |
-| Thu, 27 Nov 2025 11:59:52 GMT | My First Valid Bug: IDOR in E-commerce Website | 0xShyron | [Read More](https://medium.com/p/5789e974af62) |
-| Thu, 27 Nov 2025 11:58:11 GMT | How Continuous Threat Exposure Management (CTEM) Solves Visibility Challenges in Real-Time | Zoya Tazeen | [Read More](https://medium.com/p/9009c109b5ca) |
