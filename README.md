@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 23:12:03 GMT | Personal Incident Response Plan Using the NIST Framework | Anderson Santos | [Read More](https://medium.com/p/c9798d0d35e9) |
+| Thu, 27 Nov 2025 22:47:16 GMT | United Security: Smart Protection for a Safer Future | United Security | [Read More](https://medium.com/p/0a49440e02e2) |
 | Thu, 27 Nov 2025 22:31:40 GMT | The Helabattala Heist: A Near Miss | Aayush kumar | [Read More](https://medium.com/p/0b29c716ec90) |
+| Thu, 27 Nov 2025 22:29:08 GMT | Building the Invisible Wind Tunnel | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/6d88ac6835da) |
 | Thu, 27 Nov 2025 22:24:55 GMT | Self host everything, de-google your life. | Taylor VN | [Read More](https://medium.com/p/f36fc2896117) |
 | Thu, 27 Nov 2025 22:19:01 GMT | Command Execution in Tor C2 Server — Part 5 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/ccfdad4ba2f0) |
 | Thu, 27 Nov 2025 22:17:39 GMT | Lockin Smart Deadbolt — The Future of Entry Begins at Your Doorstep | badr Yousef | [Read More](https://medium.com/p/c7bd48e06ce7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 15:02:08 GMT | Cyber Briefing: 2025.11.27 | CyberMaterial | [Read More](https://medium.com/p/0ed3fcd9e912) |
 | Thu, 27 Nov 2025 14:59:42 GMT | The Fear of Losing the Only Friend I Feel Safe With | valle | [Read More](https://medium.com/p/dad1cbfed63b) |
 | Thu, 27 Nov 2025 14:56:40 GMT | The Hidden Cost of Misunderstanding: How Poor IAM Interpretation Undermines Security | Steve Anderson | [Read More](https://medium.com/p/23ccf3ff6e9f) |
-| Thu, 27 Nov 2025 14:54:50 GMT | Colorado Technical University Fast Track: Complete 2026 Student Guide | Motherlandlove | [Read More](https://medium.com/p/1a6b4b2a6def) |
-| Thu, 27 Nov 2025 14:51:11 GMT | THM Writeup — HealthGPT | Zor0ark | [Read More](https://medium.com/p/3354d11b926c) |
-| Thu, 27 Nov 2025 14:51:06 GMT | “Penetration Testing and Inverted Pyramid Hacking Process in Modern Security Systems”What is… | HABIBI | [Read More](https://medium.com/p/ffae04acd0c0) |
