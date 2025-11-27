@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 22:31:40 GMT | The Helabattala Heist: A Near Miss | Aayush kumar | [Read More](https://medium.com/p/0b29c716ec90) |
+| Thu, 27 Nov 2025 22:24:55 GMT | Self host everything, de-google your life. | Taylor VN | [Read More](https://medium.com/p/f36fc2896117) |
 | Thu, 27 Nov 2025 22:19:01 GMT | Command Execution in Tor C2 Server — Part 5 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/ccfdad4ba2f0) |
+| Thu, 27 Nov 2025 22:17:39 GMT | Lockin Smart Deadbolt — The Future of Entry Begins at Your Doorstep | badr Yousef | [Read More](https://medium.com/p/c7bd48e06ce7) |
+| Thu, 27 Nov 2025 22:17:34 GMT | Curious Minds: Biotech to Bioterror: Silent Heists in the World of Cyberbiosecurity | Balajee Viswanatha Rao | [Read More](https://medium.com/p/c1a2c6dd7a77) |
 | Thu, 27 Nov 2025 22:02:28 GMT | Golden Ticket: The Kerberos Attack That Makes You a Domain Controller | Cybersecurity Simplified | [Read More](https://medium.com/p/730e544b8cc2) |
 | Thu, 27 Nov 2025 22:01:14 GMT | Critical Multi-Vector Vulnerabilities in a Streaming Platform’s Confirmation Endpoint | Tyreek Haynes | [Read More](https://medium.com/p/45a033a865a0) |
 | Thu, 27 Nov 2025 21:58:15 GMT | Explaining the Risk: How AI Tools Pose a Threat | IT_Engineer | [Read More](https://medium.com/p/cfd87554a9bc) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 14:54:50 GMT | Colorado Technical University Fast Track: Complete 2026 Student Guide | Motherlandlove | [Read More](https://medium.com/p/1a6b4b2a6def) |
 | Thu, 27 Nov 2025 14:51:11 GMT | THM Writeup — HealthGPT | Zor0ark | [Read More](https://medium.com/p/3354d11b926c) |
 | Thu, 27 Nov 2025 14:51:06 GMT | “Penetration Testing and Inverted Pyramid Hacking Process in Modern Security Systems”What is… | HABIBI | [Read More](https://medium.com/p/ffae04acd0c0) |
-| Thu, 27 Nov 2025 14:45:55 GMT | Zero-Trust Security Explained Why Companies Are Adopting It Fast | Salman Khan | [Read More](https://medium.com/p/dd53bade9f4e) |
-| Thu, 27 Nov 2025 14:45:53 GMT | Why Cybersecurity Matters Today: A Beginner’s Guide to Staying Safe in the Digital Age | Priyanshi Verma | [Read More](https://medium.com/p/01fd0249f33b) |
-| Thu, 27 Nov 2025 14:45:43 GMT | Why the Directory Is the Core of IAM: The Digital Heartbeat of Every Organization | Sunnysinha | [Read More](https://medium.com/p/fb845bc8e3f1) |
-| Thu, 27 Nov 2025 14:44:32 GMT | Ransomware 2026: Why Businesses Still Fall for the Same Traps | Salman Khan | [Read More](https://medium.com/p/ac3d0dd1fe97) |
