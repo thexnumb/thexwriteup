@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 05:34:46 GMT | Top 10 Firewall Protection Gaps Every Business Must Fix Right Now | Lisa Loyal | [Read More](https://medium.com/p/bd2c1fba6ac6) |
 | Thu, 27 Nov 2025 05:21:43 GMT | The Daily Tech Digest: 27 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c48d224e4aa5) |
 | Thu, 27 Nov 2025 05:21:09 GMT | Neural Network Models for Predictive Cyber Risk Estimation | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/deb247935e10) |
 | Thu, 27 Nov 2025 05:18:19 GMT | The Hidden Value Of Small Scripts In Big Security Environments | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6c084323f7db) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 19:07:45 GMT | Akshit Rai  - a book by Shalini Singh | Subhash thakur | [Read More](https://medium.com/p/e63f7520690e) |
 | Wed, 26 Nov 2025 19:03:12 GMT | HACKERS TRIED USING BLENDER BUT FORGOT ITS NOT A FOOD PROCESSOR…! | Mohith Krishna K | [Read More](https://medium.com/p/146df9128754) |
 | Wed, 26 Nov 2025 19:00:57 GMT | Your Digital Footprint Is Bigger Than You Think | INTELON | [Read More](https://medium.com/p/cbae1a15eef5) |
-| Wed, 26 Nov 2025 18:58:16 GMT | AI-Powered OSINT: From URLs to Human Intelligence | INTELON | [Read More](https://medium.com/p/0d71ce285e54) |
