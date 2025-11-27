@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 19:25:07 GMT | Resurface Of RedTail CryptoMiner | Mohamed Mostafa | [Read More](https://medium.com/p/207af96beb0b) |
+| Thu, 27 Nov 2025 19:20:20 GMT | Zero-Click Account Takeover via OAuth | Amr khaled Zakaria | [Read More](https://medium.com/p/8c229a3f45d1) |
+| Thu, 27 Nov 2025 19:05:27 GMT | Protect Your Business with CyberSecOp: Expert Cyber Security and Incident Response Services | Jeffery Walker | [Read More](https://medium.com/p/de2d4b60a5f3) |
 | Thu, 27 Nov 2025 19:03:26 GMT | Windows 11 Security Assessment (Hostname: WIN11-MGR1) | Johnny Meintel | [Read More](https://medium.com/p/e8326d82750e) |
 | Thu, 27 Nov 2025 19:00:29 GMT | Elastic Part 1: Installing Elastic | Allen Ace | [Read More](https://medium.com/p/c7bf3c8149ab) |
 | Thu, 27 Nov 2025 18:54:37 GMT | How I Accidentally Got My First CVE (While Looking for Something Else Entirely) | RkVb | [Read More](https://medium.com/p/c8baddbc90b9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 13:59:42 GMT | Writeups-CTFriends2 - US3R | !US3R | [Read More](https://medium.com/p/ad012ccb7289) |
 | Thu, 27 Nov 2025 13:59:38 GMT | วิธีเปิดใช้ MFA และ SMS บน Amazon Cognito | Vatcharat R. | [Read More](https://medium.com/p/daa68f2e5ef1) |
 | Thu, 27 Nov 2025 13:57:34 GMT | Network Forensics Core Examination Steps: Finding the Incident’s Story in Network Packets | Esra Kayhan | [Read More](https://medium.com/p/103a8d9d80d3) |
-| Thu, 27 Nov 2025 13:53:54 GMT | xss0r Black Friday Special Offer — 50% OFF ALL PLANS! | xss0r | [Read More](https://medium.com/p/ae79eb59b534) |
-| Thu, 27 Nov 2025 13:53:03 GMT | What are Keyloggers? - VIIEGO | Rolando | [Read More](https://medium.com/p/a33734e6b585) |
-| Thu, 27 Nov 2025 13:52:51 GMT | What is Misinformation? - VIIEGO | Rolando | [Read More](https://medium.com/p/b04ab4b644bc) |
