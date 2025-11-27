@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 04:26:25 GMT | Cost-Effective IVR Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/dcb6f263e7f1) |
+| Thu, 27 Nov 2025 04:07:38 GMT | The Trump Doctrine: Why Political Will Has Done More for U.S. Cybersecurity Than Technical Measures | CCD-IS | [Read More](https://medium.com/p/f9da89b861d6) |
+| Thu, 27 Nov 2025 04:03:41 GMT | The Chaos Sphere: Why Our Global System Feels One Kick Away From Change | Beyond Truth | [Read More](https://medium.com/p/60bbfcfe8a14) |
 | Thu, 27 Nov 2025 03:50:06 GMT | AI Security Research — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a0682e43309e) |
 | Thu, 27 Nov 2025 03:42:37 GMT | VPNs and Cybersecurity: How Virtual Private Networks Protect Your Online Privacy | Ahmad | [Read More](https://medium.com/p/1b91063926a1) |
 | Thu, 27 Nov 2025 03:41:30 GMT | How Computer Vision Helps Detect Cyber Threats in CCTV Footage | CipherHawk | [Read More](https://medium.com/p/347b9400a245) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 17:52:46 GMT | Microsoft’s Agentic AI Needs Stronger Safety Controls | Geoffrey Wenger | [Read More](https://medium.com/p/672c37108713) |
 | Wed, 26 Nov 2025 17:51:23 GMT | A Beginner Friendly Guide to Nmap | Sithum Ranasinghe | [Read More](https://medium.com/p/0a1958dd3de6) |
 | Wed, 26 Nov 2025 17:44:08 GMT | An Ex-Sysadmin’s Guide to RDMA backed storage | Dylan Taft | [Read More](https://medium.com/p/89498816cc02) |
-| Wed, 26 Nov 2025 17:42:14 GMT | Thinking Out of the Box — Let’s Take it to Another Dimension! | Nazar | [Read More](https://medium.com/p/53a8a85e10c6) |
-| Wed, 26 Nov 2025 17:39:37 GMT | ️ Solving the AmateursCTF web/CAPTCHA Challenge | t2xv8 | [Read More](https://medium.com/p/92204bd3f2eb) |
-| Wed, 26 Nov 2025 17:29:16 GMT | Next-Generation Firewalls (NGFWs) | Ahmed Abd El-Samie | [Read More](https://medium.com/p/c2d338ee9e51) |
