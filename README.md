@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 05:21:43 GMT | The Daily Tech Digest: 27 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c48d224e4aa5) |
+| Thu, 27 Nov 2025 05:21:09 GMT | Neural Network Models for Predictive Cyber Risk Estimation | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/deb247935e10) |
+| Thu, 27 Nov 2025 05:18:19 GMT | The Hidden Value Of Small Scripts In Big Security Environments | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6c084323f7db) |
+| Thu, 27 Nov 2025 05:08:40 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/61fc43c39ad3) |
+| Thu, 27 Nov 2025 05:06:23 GMT | Análise Técnica do Roadmap da Tanssi. | IsaLeal | [Read More](https://medium.com/p/34b070d91844) |
+| Thu, 27 Nov 2025 05:06:01 GMT | Kubernetes Security: 15 Critical Points Before Going to Production | Mathieu ROGER | [Read More](https://medium.com/p/f6a47e4da78e) |
+| Thu, 27 Nov 2025 05:04:01 GMT | The Hidden Security Flaws in Kotlin Apps Nobody Talks About | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/991ec72348d8) |
+| Thu, 27 Nov 2025 04:59:23 GMT | LLM Security Is the New Cybersecurity — And the Certifications Are Arriving Fast | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/7381cb158ccf) |
+| Thu, 27 Nov 2025 04:58:40 GMT | Open-Source Security Risks: What Recent Vulnerability Trends Reveal About the Software We Trust | Sam Writes Security | [Read More](https://medium.com/p/fa81e4193874) |
+| Thu, 27 Nov 2025 04:52:57 GMT | Beyond Security Lists: How to Strictly Isolate OCI Environments with ZPR | Venkataramana | [Read More](https://medium.com/p/90998069121f) |
+| Thu, 27 Nov 2025 04:47:50 GMT | Why Security Needs More Testers | Joseph Kantar | [Read More](https://medium.com/p/5138bc146dc0) |
+| Thu, 27 Nov 2025 04:47:30 GMT | FIRE, THE WHEEL AND THE JOYSTICK | Roland Rukundo | [Read More](https://medium.com/p/254334545b48) |
+| Thu, 27 Nov 2025 04:45:07 GMT | AI Hacking | damn_daniel_2000 | [Read More](https://medium.com/p/6a93438d3624) |
 | Thu, 27 Nov 2025 04:29:53 GMT | Hire N8N Developers - N8N developers | n8ndevelopers | [Read More](https://medium.com/p/8431c121431d) |
 | Thu, 27 Nov 2025 04:28:58 GMT | Challenges QA Engineers Face When Entering Cybersecurity | Joseph Kantar | [Read More](https://medium.com/p/e102a19b78b8) |
 | Thu, 27 Nov 2025 04:27:44 GMT | The Soft Trust I’m Learning to Build With Myself Again | Darpan Murly | [Read More](https://medium.com/p/ac86b9300610) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 19:03:12 GMT | HACKERS TRIED USING BLENDER BUT FORGOT ITS NOT A FOOD PROCESSOR…! | Mohith Krishna K | [Read More](https://medium.com/p/146df9128754) |
 | Wed, 26 Nov 2025 19:00:57 GMT | Your Digital Footprint Is Bigger Than You Think | INTELON | [Read More](https://medium.com/p/cbae1a15eef5) |
 | Wed, 26 Nov 2025 18:58:16 GMT | AI-Powered OSINT: From URLs to Human Intelligence | INTELON | [Read More](https://medium.com/p/0d71ce285e54) |
-| Wed, 26 Nov 2025 18:57:41 GMT | Escaping the Kiosk: An Exposed HP Point-of-Sale Device Provides a Target | Mike Manrod | [Read More](https://medium.com/p/6b4cb02c79d8) |
-| Wed, 26 Nov 2025 18:56:30 GMT | The Day I Accidentally Became the Guy in Charge of Crowd Control | Buck "Tom" Hanley | [Read More](https://medium.com/p/7e02bccfe2b4) |
-| Wed, 26 Nov 2025 18:54:39 GMT | Quantum Is Coming: A Simple Guide to the Future of Computing | Rushikesh Girase | [Read More](https://medium.com/p/e006f2b015f9) |
-| Wed, 26 Nov 2025 18:48:36 GMT | Python ile Kendi Ağ Tarayıcınızı Yazın: Scapy ve ARP Rehberi | Çınar Genç | [Read More](https://medium.com/p/c4b4746c76ef) |
-| Wed, 26 Nov 2025 18:36:48 GMT | Cloud Security Posture Management (CSPM) in Multi-Cloud and Hybrid-Cloud Environments | Meravytes | [Read More](https://medium.com/p/1a3b909d8cbe) |
-| Wed, 26 Nov 2025 18:36:40 GMT | SDG:4 (Education) | Sharmin Akter_410 | [Read More](https://medium.com/p/c01c6e43c043) |
-| Wed, 26 Nov 2025 18:27:48 GMT | Supply Chain Apocalypse: 13:3 not in favor of NodeJS | Natalia Sergeeva | [Read More](https://medium.com/p/7d84472fdcaa) |
-| Wed, 26 Nov 2025 18:10:30 GMT | HackerOne for Aspiring Ethical Hackers: An Advanced, Practical Roadmap to Start, Hunt, and Grow | Penough | [Read More](https://medium.com/p/c11200da41dc) |
-| Wed, 26 Nov 2025 18:07:54 GMT | Earth Ammit: When Drones, Orbits, and Supply Chains Become One Battle space | David Mussington (PhD) | [Read More](https://medium.com/p/7acbf14bb60d) |
-| Wed, 26 Nov 2025 18:03:55 GMT | How Cloud Computing is Shaping the Next IT Job Wave | 2iResourcing | [Read More](https://medium.com/p/83bfecaa4159) |
-| Wed, 26 Nov 2025 18:01:49 GMT | Anubis: The Info-Stealer So Cheap, it is an Insult to Anubis Himself | Samratthsingh | [Read More](https://medium.com/p/93a452a6c809) |
-| Wed, 26 Nov 2025 18:01:13 GMT | Why Social Engineering Works: The Psychology Behind Cybercrime | Nusrat Zahan Munni | [Read More](https://medium.com/p/d7eee63e5789) |
-| Wed, 26 Nov 2025 17:59:18 GMT | The New Cybersecurity Blind Spot: Why Agentic AI Requires a New Testing Layer | Anh Nguyen - Prompt QA | [Read More](https://medium.com/p/5a7d201637de) |
