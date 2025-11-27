@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 16:25:24 GMT | The AI Readiness Audit | John Williams | [Read More](https://medium.com/p/f80de6a91ab4) |
+| Thu, 27 Nov 2025 16:24:21 GMT | Poetry: The Morse Code for the Ages | Thuba Kope | [Read More](https://medium.com/p/f08fb869253d) |
+| Thu, 27 Nov 2025 16:22:02 GMT | Top 5 Security Patterns Every React.js Developer Should Know | Asjad Abrar | [Read More](https://medium.com/p/2daee63b0d88) |
+| Thu, 27 Nov 2025 16:17:29 GMT | Why IBM Cloud Networking Is a Great Starting Point for New Engineers | Nawaf Alsabah | [Read More](https://medium.com/p/08cd978b9473) |
+| Thu, 27 Nov 2025 16:16:57 GMT | AI-Driven Security Group Risk Analysis on AWS — A Fully Automated Architecture Using Lambda +… | Heruy Mengistu, PhD | [Read More](https://medium.com/p/867835825c2c) |
+| Thu, 27 Nov 2025 16:15:34 GMT | Security Flaws in Google’s Antigravity IDE Signal a Dangerous New Phase of AI Development (2025) | Nanthakumar | [Read More](https://medium.com/p/0586cebefc6b) |
+| Thu, 27 Nov 2025 16:14:02 GMT | Twitter/X Premium Account Verification Bypass Vector (of sorts): Gift Subscriptions | Its Not Nicole | [Read More](https://medium.com/p/10487844f976) |
+| Thu, 27 Nov 2025 16:07:00 GMT | Beyond the Imitation Game: Why the Turing Test Fails in the Age of LLMs | Berend Watchus | [Read More](https://medium.com/p/7360afc5fc53) |
+| Thu, 27 Nov 2025 16:02:07 GMT | Episode 12: “The Proof of Concept” | Dr. House In I.T. | [Read More](https://medium.com/p/5c41a9a692e4) |
+| Thu, 27 Nov 2025 16:02:01 GMT | Stop Intercepting Attacks. Start Targeting Senders. | Martin Abramov | [Read More](https://medium.com/p/d930de9df803) |
+| Thu, 27 Nov 2025 15:56:14 GMT | Linux File System | Mert Baykal | [Read More](https://medium.com/p/0e702ce2e5c8) |
+| Thu, 27 Nov 2025 15:46:40 GMT | AI Agents as Regulated C2: Will Anyone Be Forced to Act? | Wes Young | [Read More](https://medium.com/p/423374088f74) |
+| Thu, 27 Nov 2025 15:45:06 GMT | How a Simple ZIP Upload Revealed a Critical Remote Code Execution Flaw | Harshtalavaniya | [Read More](https://medium.com/p/042c375cdee7) |
+| Thu, 27 Nov 2025 15:45:02 GMT | The Busy Holiday Season Cybersecurity Checklist Every Business Needs | Paradise technologies Inc | [Read More](https://medium.com/p/86b84f2e8dda) |
+| Thu, 27 Nov 2025 15:40:23 GMT | Hackers Are Abusing Microsoft 365 SMS Sign-In — Here’s How to Protect Yourself | Chaim Black | [Read More](https://medium.com/p/1a366a32a9fd) |
 | Thu, 27 Nov 2025 15:35:50 GMT | FlagForge Might Be the Next Big Thing in Ethical Hacking Training | Lagzen Thakuri | [Read More](https://medium.com/p/b8e46b194522) |
 | Thu, 27 Nov 2025 15:34:48 GMT | penetration testing | kholid zayyd yusuf | [Read More](https://medium.com/p/f409aaf6e448) |
 | Thu, 27 Nov 2025 15:34:05 GMT | The Place Where Trust Used to Live | Trey Falco | [Read More](https://medium.com/p/d93a178c9e30) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 12:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Nov 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4fdb893f6913) |
 | Thu, 27 Nov 2025 11:59:52 GMT | My First Valid Bug: IDOR in E-commerce Website | 0xShyron | [Read More](https://medium.com/p/5789e974af62) |
 | Thu, 27 Nov 2025 11:58:11 GMT | How Continuous Threat Exposure Management (CTEM) Solves Visibility Challenges in Real-Time | Zoya Tazeen | [Read More](https://medium.com/p/9009c109b5ca) |
-| Thu, 27 Nov 2025 11:44:40 GMT | How Modern Security & Identity Solutions Are Shaping the Future of Business Safety | ashna raj | [Read More](https://medium.com/p/b3a88fb2f07a) |
-| Thu, 27 Nov 2025 11:42:28 GMT | HackTheBox footprinting module — lab (medium) solution guide | Zainab Akinlawon | [Read More](https://medium.com/p/f73099244be1) |
-| Thu, 27 Nov 2025 11:39:49 GMT | Mobile Hacking Lab - Android SQL Injection - Food Store | Hazar | [Read More](https://medium.com/p/ffa4c8fc8a81) |
-| Thu, 27 Nov 2025 11:37:53 GMT | Beyond Autonomy: The Rise of Cognitive Infrastructure | Code & Credibility | [Read More](https://medium.com/p/c6d816cd8e50) |
-| Thu, 27 Nov 2025 11:34:45 GMT | How Your Partner Can Spy on You Using Their Phone (and How to Stop It) | Cyber pulse insider | [Read More](https://medium.com/p/b4944dd4ede0) |
-| Thu, 27 Nov 2025 11:32:27 GMT | How RAG Architecture Reduces Hallucinations in LLMs? | Sameer Khandelwal | [Read More](https://medium.com/p/8c6757a551e9) |
-| Thu, 27 Nov 2025 11:28:54 GMT | Are keycard systems a wise investment for U.S building security? | TCS Security | [Read More](https://medium.com/p/1a5604a67236) |
-| Thu, 27 Nov 2025 11:28:29 GMT | HIPAA Compliance: The Essential Cybersecurity Checklist for Protecting Patient Data | SecureSlate | [Read More](https://medium.com/p/cd98826584af) |
-| Thu, 27 Nov 2025 11:26:49 GMT | We Focus Too Much on Vulnerability— and Not Enough on Resonance | Laust Lauridsen, MD | [Read More](https://medium.com/p/116b16f07456) |
-| Thu, 27 Nov 2025 11:25:36 GMT | JWT Authentication Bypass via Weak Signing Key | Bash Overflow | [Read More](https://medium.com/p/894b85bc879e) |
-| Thu, 27 Nov 2025 11:23:02 GMT | Linux Observability With eBPF: Monitoring Systems Like a Modern Pro | Majidbasharat | [Read More](https://medium.com/p/6b76ad80c992) |
-| Thu, 27 Nov 2025 11:22:12 GMT | Walkthrough: Kioptrix Level 4 (2014) | Kiama Kareithi | [Read More](https://medium.com/p/4982c36684eb) |
-| Thu, 27 Nov 2025 11:19:29 GMT | Secure Docker Images: 12 Essential Tips to Lock Them Down Like a Pro | Omar ELFarsaoui | [Read More](https://medium.com/p/90909a149210) |
-| Thu, 27 Nov 2025 11:19:17 GMT | What Shai Hulud 2.0 Taught Me About npm Security (The Hard Way) | Heinan Cabouly | [Read More](https://medium.com/p/bf79945710d0) |
-| Thu, 27 Nov 2025 11:19:10 GMT | AstralGuard Cyber Night Talk: Exploring the Future of AI & Cybersecurity ️ | Dallen Sadru | [Read More](https://medium.com/p/c710c274961c) |
