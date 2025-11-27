@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 20:56:46 GMT | Deep Dive into Container Security on Linux Systems | Linux Guide | [Read More](https://medium.com/p/7a68b4169cac) |
+| Thu, 27 Nov 2025 20:41:17 GMT | Simplest minimal K8s app tutorial with KYAML comments & curly braces and Rancher Desktop | Jason Yee | [Read More](https://medium.com/p/0795835202d4) |
 | Thu, 27 Nov 2025 20:35:48 GMT | Who are Harfuch allies? | Danielblanco | [Read More](https://medium.com/p/5f5eebb23218) |
+| Thu, 27 Nov 2025 20:32:12 GMT | How to Secure Your Startup from Cyber Attacks: A Practical IT Security Checklist | Cordula Boeck | [Read More](https://medium.com/p/20937042efad) |
+| Thu, 27 Nov 2025 20:30:24 GMT | Why the Kubernetes Community Is Moving From Ingress to Gateway API | Tigera | [Read More](https://medium.com/p/77a46683bd10) |
+| Thu, 27 Nov 2025 20:29:58 GMT | A Developer’s Crash Course in Cryptography, Part 6: Building Secure Systems | Steinwendner Matthias | [Read More](https://medium.com/p/c53013a29710) |
 | Thu, 27 Nov 2025 20:27:47 GMT | Find Real Bugs by Simply Reading JavaScript Files | Monika sharma | [Read More](https://medium.com/p/bdd4f825081b) |
 | Thu, 27 Nov 2025 20:27:34 GMT | Cybersecurity on the Rise in Saudi Arabia | Abdullah Mohammed Mushtaq | [Read More](https://medium.com/p/489288749e71) |
 | Thu, 27 Nov 2025 20:18:21 GMT | Using More Than 10% of My Brain: My 2-Year Journey into Cloud Engineering, Ethical Hacking, and… | Ugosam | [Read More](https://medium.com/p/5bdb585b6b86) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 14:31:15 GMT | America and AUKUS Don’t Have a Capability Problem. They Have a Governance Crisis. | AXSAS | [Read More](https://medium.com/p/fe83eb43635d) |
 | Thu, 27 Nov 2025 14:30:24 GMT | MemLabs Lab 2 — A New World Write-up | Busraugur | [Read More](https://medium.com/p/b925c9602fbb) |
 | Thu, 27 Nov 2025 14:19:52 GMT | Why Technology Alone Will Never Stop Cybercrime: The Missing Psychology Behind Modern Scams | NIkhil Kumar | [Read More](https://medium.com/p/ebba2cece0c1) |
-| Thu, 27 Nov 2025 14:18:42 GMT | THM — Mr Robot CTF — Write-up- Hussein Ibrahim | Hussin Ibrahim | [Read More](https://medium.com/p/0ca80e06ee51) |
-| Thu, 27 Nov 2025 14:13:46 GMT | Cyber Security Readiness for 2026 and Beyond with Smarter Defenses Against AI Deepfakes Quantum… | SJ Innovation | [Read More](https://medium.com/p/8583ce0f7a4f) |
-| Thu, 27 Nov 2025 14:11:54 GMT | Chat History Poisoning in LLM Applications: Persistent Prompt Injection via Untrusted JSON Context | Serhat ÇİÇEK | [Read More](https://medium.com/p/c485e4842394) |
-| Thu, 27 Nov 2025 14:07:59 GMT | Online 6-Week Surgical Tech Program Guide 2026: Fast Beginner | Motherlandlove | [Read More](https://medium.com/p/01b0b5018b15) |
-| Thu, 27 Nov 2025 14:06:02 GMT | 6 Surprising Truths I Uncovered Reverse-Engineering a Home Router | Cyb3rpeter | [Read More](https://medium.com/p/64685f83af03) |
