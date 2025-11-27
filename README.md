@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 03:50:06 GMT | AI Security Research — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a0682e43309e) |
+| Thu, 27 Nov 2025 03:42:37 GMT | VPNs and Cybersecurity: How Virtual Private Networks Protect Your Online Privacy | Ahmad | [Read More](https://medium.com/p/1b91063926a1) |
+| Thu, 27 Nov 2025 03:41:30 GMT | How Computer Vision Helps Detect Cyber Threats in CCTV Footage | CipherHawk | [Read More](https://medium.com/p/347b9400a245) |
+| Thu, 27 Nov 2025 03:32:07 GMT | The Silent Surge: How a Massive Phishing Campaign Is Masquerading as Trusted Travel Brands | Deven Chhajed | [Read More](https://medium.com/p/90a3f1f7aba1) |
+| Thu, 27 Nov 2025 03:23:03 GMT | XSS Challenges Walkthrough | Mauricio Antonio | [Read More](https://medium.com/p/81bfe23c945f) |
+| Thu, 27 Nov 2025 03:21:35 GMT | THM Writeup — BankGPT | Zor0ark | [Read More](https://medium.com/p/78cf54d3154c) |
 | Thu, 27 Nov 2025 03:03:53 GMT | Apple Developer Stored XSS — $5,000 Bounty - Writeup 2025 | Youssef Desouki ( Zombie Hack ) | [Read More](https://medium.com/p/cc34a030a5bf) |
 | Thu, 27 Nov 2025 02:36:49 GMT | Significant Data Fiduciaries: India’s Toughest Data Category: Are You on the List? | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/b1eb17dc6ee3) |
 | Thu, 27 Nov 2025 02:32:31 GMT | FastAPI + Policy Engines (OPA/CEL): LLM Function Calls with Guarded Execution | Codastra | [Read More](https://medium.com/p/a5632d8405c7) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 17:42:14 GMT | Thinking Out of the Box — Let’s Take it to Another Dimension! | Nazar | [Read More](https://medium.com/p/53a8a85e10c6) |
 | Wed, 26 Nov 2025 17:39:37 GMT | ️ Solving the AmateursCTF web/CAPTCHA Challenge | t2xv8 | [Read More](https://medium.com/p/92204bd3f2eb) |
 | Wed, 26 Nov 2025 17:29:16 GMT | Next-Generation Firewalls (NGFWs) | Ahmed Abd El-Samie | [Read More](https://medium.com/p/c2d338ee9e51) |
-| Wed, 26 Nov 2025 17:21:20 GMT | Top ERP Systems with Advanced AI Features | Digital Transformation Playbook | [Read More](https://medium.com/p/220d1ca9886d) |
-| Wed, 26 Nov 2025 17:11:37 GMT | Travel’s Invisible Edges: Five Essentials for Moving Safely in the Modern World | Paramount Defense Group Inc | [Read More](https://medium.com/p/2437efbef5f6) |
-| Wed, 26 Nov 2025 17:08:29 GMT | The Invisible World Inside Your Program: A Friendly Tour of Memory, Registers, and CPU Magic | Poojan Ghetiya | [Read More](https://medium.com/p/0a2da181fd21) |
-| Wed, 26 Nov 2025 17:03:15 GMT | How Will MPC Wallets Change Finance? — Clarisse Hagège | Aroundthecoin | [Read More](https://medium.com/p/53e2d175e5ac) |
-| Wed, 26 Nov 2025 17:02:11 GMT | OSCP Grind - PG Practice - Pelican | Mr Jokar | [Read More](https://medium.com/p/f196e3c5572f) |
-| Wed, 26 Nov 2025 17:02:09 GMT | 10 FastAPI Security Headers (CSP/HSTS) Without Latency | Quellin | [Read More](https://medium.com/p/8228a32bb235) |
