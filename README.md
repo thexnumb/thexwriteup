@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 21:17:27 GMT | Epistemology of CyberSec Cert Junkies (Part 2) | Jade Seeker | [Read More](https://medium.com/p/81dfe20ea64a) |
 | Thu, 27 Nov 2025 20:56:46 GMT | Deep Dive into Container Security on Linux Systems | Linux Guide | [Read More](https://medium.com/p/7a68b4169cac) |
 | Thu, 27 Nov 2025 20:41:17 GMT | Simplest minimal K8s app tutorial with KYAML comments & curly braces and Rancher Desktop | Jason Yee | [Read More](https://medium.com/p/0795835202d4) |
 | Thu, 27 Nov 2025 20:35:48 GMT | Who are Harfuch allies? | Danielblanco | [Read More](https://medium.com/p/5f5eebb23218) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 14:32:17 GMT | (Comptia A+) Comprehensive Mobile Security Troubleshooting Guide: Symptoms, Solutions, and Best… | Vignesh R | [Read More](https://medium.com/p/a2b67bfb8dc6) |
 | Thu, 27 Nov 2025 14:31:15 GMT | America and AUKUS Don’t Have a Capability Problem. They Have a Governance Crisis. | AXSAS | [Read More](https://medium.com/p/fe83eb43635d) |
 | Thu, 27 Nov 2025 14:30:24 GMT | MemLabs Lab 2 — A New World Write-up | Busraugur | [Read More](https://medium.com/p/b925c9602fbb) |
-| Thu, 27 Nov 2025 14:19:52 GMT | Why Technology Alone Will Never Stop Cybercrime: The Missing Psychology Behind Modern Scams | NIkhil Kumar | [Read More](https://medium.com/p/ebba2cece0c1) |
