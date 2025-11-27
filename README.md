@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 10:15:25 GMT | Top Cybersecurity Tips to Protect Your Data in 2025: The Complete Guide to Emerging Threats &… | Nex Information Technology | [Read More](https://medium.com/p/268d0a64b399) |
+| Thu, 27 Nov 2025 10:10:01 GMT | Browser as the Dominant Attack Surface | DarkBarrier | [Read More](https://medium.com/p/53a75dc839e5) |
+| Thu, 27 Nov 2025 10:05:44 GMT | Best Cloud Managed Services Provider in India - Enhance Your IT Services | Samvaskaran | [Read More](https://medium.com/p/f95f8ebd55fa) |
+| Thu, 27 Nov 2025 10:04:27 GMT | Setting Up a Remote Access Cybersecurity Lab: A Beginner-Friendly Guide | Ramandeep Bagri | [Read More](https://medium.com/p/a1d3bac6b2e4) |
+| Thu, 27 Nov 2025 10:03:10 GMT | The State of Ransomware in October 2025: An Evolving Threat Landscape | Security Unfiltered | [Read More](https://medium.com/p/8dc93f9144ab) |
+| Thu, 27 Nov 2025 10:02:34 GMT | 3 TRENDS IN CYBER SECURITY 2025 | Nmesomapromise | [Read More](https://medium.com/p/73d3d6664abf) |
+| Thu, 27 Nov 2025 10:01:25 GMT | Static Malware Analysis — Let’s Defend Lab | Aseel basem badel | [Read More](https://medium.com/p/c01dc01f835a) |
+| Thu, 27 Nov 2025 10:00:09 GMT | Sama Saudi | itbutler0077 | [Read More](https://medium.com/p/1bc2c4f2dd86) |
+| Thu, 27 Nov 2025 09:59:31 GMT | Best Endpoint Security Training for Cybersecurity Careers | cyber security Updates | [Read More](https://medium.com/p/3ad582bf8e76) |
+| Thu, 27 Nov 2025 09:56:47 GMT | What is Picuki? How It Works | Tayyab Techy | [Read More](https://medium.com/p/1d4f231a1aed) |
+| Thu, 27 Nov 2025 09:54:07 GMT | Why Businesses Choose Laravel for High Performance Web Apps | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/880e0a9e7003) |
+| Thu, 27 Nov 2025 09:53:20 GMT | Beyond Dubai: Mapping the Growth of Telecom Kiosk Machine Adoption Across the GCC | Rakesh | [Read More](https://medium.com/p/1627187a4f79) |
+| Thu, 27 Nov 2025 09:52:07 GMT | The Day-1 Server Security Checklist: Building the Perimeter on Linux and FreeBSD | Vitaliy Zhhuta | [Read More](https://medium.com/p/fdcbd97069ff) |
+| Thu, 27 Nov 2025 09:48:43 GMT | Why Professional Security Guard Services Are Essential for Businesses and Communities in India | Ciss India | [Read More](https://medium.com/p/10c68d1a1341) |
 | Thu, 27 Nov 2025 09:40:33 GMT | Introducing Stealth Prompt: My AI Pentesting Tool for Breaking AI Agents Through the Browser | Andrew Kutuzov | [Read More](https://medium.com/p/1cff4b31ff58) |
 | Thu, 27 Nov 2025 09:31:14 GMT | Started my Cyber Security journey yesterday on Google courses | Blackrezzz | [Read More](https://medium.com/p/01a985b29477) |
 | Thu, 27 Nov 2025 09:27:00 GMT | Easy Splunk: Correlations | Antonella Blasetti | [Read More](https://medium.com/p/ebb728cce91e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 04:47:30 GMT | FIRE, THE WHEEL AND THE JOYSTICK | Roland Rukundo | [Read More](https://medium.com/p/254334545b48) |
 | Thu, 27 Nov 2025 04:45:07 GMT | AI Hacking | damn_daniel_2000 | [Read More](https://medium.com/p/6a93438d3624) |
 | Thu, 27 Nov 2025 04:29:53 GMT | Hire N8N Developers - N8N developers | n8ndevelopers | [Read More](https://medium.com/p/8431c121431d) |
-| Thu, 27 Nov 2025 04:28:58 GMT | Challenges QA Engineers Face When Entering Cybersecurity | Joseph Kantar | [Read More](https://medium.com/p/e102a19b78b8) |
-| Thu, 27 Nov 2025 04:27:44 GMT | The Soft Trust I’m Learning to Build With Myself Again | Darpan Murly | [Read More](https://medium.com/p/ac86b9300610) |
-| Thu, 27 Nov 2025 04:26:25 GMT | Cost-Effective IVR Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/dcb6f263e7f1) |
-| Thu, 27 Nov 2025 04:25:19 GMT | Discovering the Cybersecurity Matryoshka Doll Megastructure | Jade Seeker | [Read More](https://medium.com/p/c085dc4c1ade) |
-| Thu, 27 Nov 2025 04:07:38 GMT | The Trump Doctrine: Why Political Will Has Done More for U.S. Cybersecurity Than Technical Measures | CCD-IS | [Read More](https://medium.com/p/f9da89b861d6) |
-| Thu, 27 Nov 2025 04:03:41 GMT | The Chaos Sphere: Why Our Global System Feels One Kick Away From Change | Beyond Truth | [Read More](https://medium.com/p/60bbfcfe8a14) |
-| Thu, 27 Nov 2025 03:50:06 GMT | AI Security Research — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a0682e43309e) |
-| Thu, 27 Nov 2025 03:42:37 GMT | VPNs and Cybersecurity: How Virtual Private Networks Protect Your Online Privacy | Ahmad | [Read More](https://medium.com/p/1b91063926a1) |
-| Thu, 27 Nov 2025 03:41:30 GMT | How Computer Vision Helps Detect Cyber Threats in CCTV Footage | CipherHawk | [Read More](https://medium.com/p/347b9400a245) |
-| Thu, 27 Nov 2025 03:32:07 GMT | The Silent Surge: How a Massive Phishing Campaign Is Masquerading as Trusted Travel Brands | Deven Chhajed | [Read More](https://medium.com/p/90a3f1f7aba1) |
-| Thu, 27 Nov 2025 03:23:03 GMT | XSS Challenges Walkthrough | Mauricio Antonio | [Read More](https://medium.com/p/81bfe23c945f) |
-| Thu, 27 Nov 2025 03:21:35 GMT | THM Writeup — BankGPT | Zor0ark | [Read More](https://medium.com/p/78cf54d3154c) |
-| Thu, 27 Nov 2025 03:03:53 GMT | Apple Developer Stored XSS — $5,000 Bounty - Writeup 2025 | Youssef Desouki ( Zombie Hack ) | [Read More](https://medium.com/p/cc34a030a5bf) |
-| Thu, 27 Nov 2025 02:36:49 GMT | Significant Data Fiduciaries: India’s Toughest Data Category: Are You on the List? | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/b1eb17dc6ee3) |
