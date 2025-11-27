@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 20:06:11 GMT | Tips for Protecting Yourself This Holiday Season | Joshua Wardak | [Read More](https://medium.com/p/d0d235487d36) |
+| Thu, 27 Nov 2025 20:05:21 GMT | DIGIT Expo 2025 — Edinburgh: AI Reality Checks, Team Culture Wins, and the Quantum Threat | Steve Anderson | [Read More](https://medium.com/p/e5be46707b0f) |
+| Thu, 27 Nov 2025 19:55:02 GMT | Building a Virtual SOC Lab: Deploying Wazuh SIEM on Docker | Eyupcan Isikgor | [Read More](https://medium.com/p/00629b57ed20) |
+| Thu, 27 Nov 2025 19:42:22 GMT | Strengthen Your Security Strategy with CyberSecOp: Expert Cybersecurity Consulting & Services | Jeffery Walker | [Read More](https://medium.com/p/72981b02809a) |
 | Thu, 27 Nov 2025 19:25:07 GMT | Resurface Of RedTail CryptoMiner | Mohamed Mostafa | [Read More](https://medium.com/p/207af96beb0b) |
 | Thu, 27 Nov 2025 19:20:20 GMT | Zero-Click Account Takeover via OAuth | Amr khaled Zakaria | [Read More](https://medium.com/p/8c229a3f45d1) |
 | Thu, 27 Nov 2025 19:05:27 GMT | Protect Your Business with CyberSecOp: Expert Cyber Security and Incident Response Services | Jeffery Walker | [Read More](https://medium.com/p/de2d4b60a5f3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 14:02:15 GMT | How to Reset a Garage Door Remote: Quick & Easy Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/9b639427eec9) |
 | Thu, 27 Nov 2025 14:02:11 GMT | Ego-Driven Design: How To Introduce Existential Crisis In Personality-based Agents | Nwosu Rosemary | [Read More](https://medium.com/p/2d4006e37536) |
 | Thu, 27 Nov 2025 14:02:01 GMT | OpenAI Cut Ties With Mixpanel After a Data Breach | Nanthakumar | [Read More](https://medium.com/p/da486498026a) |
-| Thu, 27 Nov 2025 14:00:14 GMT | Exploitation Basic - Blue - THM | Dipen Tank | [Read More](https://medium.com/p/5f6d85cef54f) |
-| Thu, 27 Nov 2025 13:59:42 GMT | Writeups-CTFriends2 - US3R | !US3R | [Read More](https://medium.com/p/ad012ccb7289) |
-| Thu, 27 Nov 2025 13:59:38 GMT | วิธีเปิดใช้ MFA และ SMS บน Amazon Cognito | Vatcharat R. | [Read More](https://medium.com/p/daa68f2e5ef1) |
-| Thu, 27 Nov 2025 13:57:34 GMT | Network Forensics Core Examination Steps: Finding the Incident’s Story in Network Packets | Esra Kayhan | [Read More](https://medium.com/p/103a8d9d80d3) |
