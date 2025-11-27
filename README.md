@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 18:24:44 GMT | ️ Blocking RDP Brute-Force Attacks Using WAZUH (Complete Practical Guide) | Aziz U Rehman | [Read More](https://medium.com/p/fea70bc87d63) |
+| Thu, 27 Nov 2025 18:23:22 GMT | Identity & Access Management Best Practices for Modern Enterprises | Dhanrajfunde | [Read More](https://medium.com/p/edd066366b5e) |
+| Thu, 27 Nov 2025 18:18:10 GMT | Identity and Access Management (IAM) Best Practices for Modern Enterprises | Dhanrajfunde | [Read More](https://medium.com/p/6c24cc2a8896) |
+| Thu, 27 Nov 2025 18:16:07 GMT | When Home Is No Longer Safe: Nigeria’s Hidden War Against Its Own People | Way991 | [Read More](https://medium.com/p/86ca55f113ea) |
+| Thu, 27 Nov 2025 18:08:48 GMT | Payroll Cybersecurity: How to Protect Sensitive Financial Data | Táíwò Majeks | [Read More](https://medium.com/p/ff876d6e76d9) |
+| Thu, 27 Nov 2025 18:06:53 GMT | Cybersecurity Threats in 2025 | Sakshi Bhapkar | [Read More](https://medium.com/p/a303157714ae) |
+| Thu, 27 Nov 2025 18:06:09 GMT | Neural Networks and Cybersecurity: Building Intelligent and Secure Systems | Alan Joseph Abraham | [Read More](https://medium.com/p/9682cac1157e) |
+| Thu, 27 Nov 2025 18:01:06 GMT | Frontend Interview Challenge : Understanding Browser Storage | constCoder | [Read More](https://medium.com/p/0db2274fcc85) |
+| Thu, 27 Nov 2025 18:00:20 GMT | The Regenerative Entrepreneur: The world-changing opportunities for regenerative design | Erik Kvam | [Read More](https://medium.com/p/d4ae2c0bdb4f) |
+| Thu, 27 Nov 2025 17:55:32 GMT | Understanding IPSec Tunnels in the Real World: A Practical, Deep Dive Guide for Engineers | Ahmed Maher | [Read More](https://medium.com/p/8d397d27809b) |
+| Thu, 27 Nov 2025 17:53:40 GMT | From Tradition to Technology — How Geo-Tagged Blockchain Paths Protect Ayurvedic Purity | Abhilash Baviskar | [Read More](https://medium.com/p/6b5a89f2b9b0) |
+| Thu, 27 Nov 2025 17:52:53 GMT | AI Security Tools — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/82ead4a6fb62) |
+| Thu, 27 Nov 2025 17:49:53 GMT | 10 Mistakes Front-End Developers Make That Hackers Love | Liam | [Read More](https://medium.com/p/24accc7a5938) |
+| Thu, 27 Nov 2025 17:40:06 GMT | OT Cybersecurity: MOSAICO ÆGIS | QualiCal | [Read More](https://medium.com/p/c8b463cc836e) |
 | Thu, 27 Nov 2025 17:36:22 GMT | How to Penetrate a Drone Using a Flipper Zero | Hackers Things | [Read More](https://medium.com/p/3a9e0b5f1b83) |
+| Thu, 27 Nov 2025 17:23:03 GMT | Smartphones memory protection at the end of 2025. iPhone 17 vs Samsung vs other Android devices | NixWarden | [Read More](https://medium.com/p/8557019b62be) |
 | Thu, 27 Nov 2025 17:16:01 GMT | 트랜잭션 서명 단계의 취약점: 소프트웨어 지갑의 구조적 한계와 하드웨어 지갑의 대응력 동향 | Caleb Choi | [Read More](https://medium.com/p/4fdd79d03ae3) |
 | Thu, 27 Nov 2025 17:08:05 GMT | The One Python Function Hackers LOVE You to Use | Maikel Mardjan | [Read More](https://medium.com/p/c26f0c400631) |
 | Thu, 27 Nov 2025 17:06:31 GMT | TryHackMe - Linux Function Hooking - WriteUp | Axoloth | [Read More](https://medium.com/p/82406fb77e00) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 13:44:27 GMT | The 10-Tool Quick-Start Nonprofit Tech Stack | Cait Graaf | [Read More](https://medium.com/p/bc1d4fdd63e4) |
 | Thu, 27 Nov 2025 13:27:21 GMT | Prompt Attacks — The No. 1 AI-Native Security Risk | Quy Tang | [Read More](https://medium.com/p/0b5a0315c2e0) |
 | Thu, 27 Nov 2025 13:26:52 GMT | The Fragility of Cloud Infrastructure: Why Did Cloudflare Fail? Why Did We Receive The 5xx Errors? | Yasin Kalli | [Read More](https://medium.com/p/128345663015) |
-| Thu, 27 Nov 2025 13:26:51 GMT | Tech Stack Starter Pack: Right-Sized Systems for Small NPOs | Cait Graaf | [Read More](https://medium.com/p/9edf464f6cf9) |
-| Thu, 27 Nov 2025 13:11:08 GMT | Portswigger : Account locking (Hesap Kilitleme) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e082f1bd842b) |
-| Thu, 27 Nov 2025 13:05:20 GMT | Why Every Organization Needs a Security Operations Center in 2025 | Hachion Trainings | [Read More](https://medium.com/p/dd5b9c4b684a) |
-| Thu, 27 Nov 2025 13:04:48 GMT | The Product Manager's Role in the Secure Software Development Lifecycle (SDLC) | Kaosarat Aduagba | [Read More](https://medium.com/p/a3af54521b1c) |
-| Thu, 27 Nov 2025 13:02:10 GMT | AI as a Decision Engine: Rethinking Modernization Strategy in Enterprise Portfolios | Jen Anderson, PhD | [Read More](https://medium.com/p/dc74c5354f49) |
-| Thu, 27 Nov 2025 13:00:08 GMT | I Found an Admin Account Anyone Could Create | Ibtissam | [Read More](https://medium.com/p/b9d19b2d40b0) |
-| Thu, 27 Nov 2025 12:59:38 GMT | The Silent iPhone Tricks That Reveal If Someone Is Secretly Spying on You | Cyber pulse insider | [Read More](https://medium.com/p/8dc005a8a0ab) |
-| Thu, 27 Nov 2025 12:58:12 GMT | You Pretend You’re Fine, But Criticism Cuts Deeper Than You Admit | keiarchive | [Read More](https://medium.com/p/ed42b6c72a3f) |
-| Thu, 27 Nov 2025 12:57:35 GMT | Which is the Best Ethical Hacking Course for a Hacking Career? Complete Guide | Rahul Shrivastav | [Read More](https://medium.com/p/99336552b113) |
-| Thu, 27 Nov 2025 12:57:28 GMT | The Ultimate DevOps Life Hack: Swapping Your OCI VM’s Brains Mid-Flight! | Mohammed Abdul Wakeel | [Read More](https://medium.com/p/b3ee8563693d) |
-| Thu, 27 Nov 2025 12:57:08 GMT | Understanding Cybersecurity Risk Management | Vishwajeettechtech | [Read More](https://medium.com/p/a8b4f131fa02) |
-| Thu, 27 Nov 2025 12:56:02 GMT | Ghost in the Machine | Shxdowz | [Read More](https://medium.com/p/6e2a79b4cea3) |
-| Thu, 27 Nov 2025 12:51:36 GMT | The Art of Digital Reconnaissance: Finding What Others Hide | abdelkarime_alhannachi | [Read More](https://medium.com/p/5124caaac298) |
-| Thu, 27 Nov 2025 12:50:24 GMT | Metaparadox x Shufti Pro: Building a Secure Digital Ecosystem for the New Era of Social Platforms… | Metaparadox LTD | [Read More](https://medium.com/p/c0f01df8c75d) |
-| Thu, 27 Nov 2025 12:46:30 GMT | How To Recover and Transfer 2FA Codes From a Broken Phone Without a Backup | Anushka | [Read More](https://medium.com/p/5956f8f5e716) |
