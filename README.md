@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 15:15:48 GMT | AKS Authentication, Authorization, and Security Best Practices (CAF & WAF Alignment, part 2) | Hristo Stoychev | [Read More](https://medium.com/p/8dd3d4d8c6aa) |
+| Thu, 27 Nov 2025 15:14:39 GMT | Cracking the Code: How I Found a Zero-Day in Criminal Chatter and Cashed In | Iski | [Read More](https://medium.com/p/96eed2b96678) |
+| Thu, 27 Nov 2025 15:10:54 GMT | Anatomy of the First AI Attack: the Anthropic GTG-1002 Espionage Campaign | Ajanaku Temitope | [Read More](https://medium.com/p/0295b629c615) |
+| Thu, 27 Nov 2025 15:02:11 GMT | OAuth Account Linking Bypass Leading to Full Account Takeover and Deletion | 0xMo7areb | [Read More](https://medium.com/p/86f0b0e0d524) |
+| Thu, 27 Nov 2025 15:02:11 GMT | Guarding the Gates: Why Every CFO Must Be a Cyber Shepherd in 2025 | Michael Stickler | [Read More](https://medium.com/p/5ae0150a8738) |
+| Thu, 27 Nov 2025 15:02:08 GMT | Cyber Briefing: 2025.11.27 | CyberMaterial | [Read More](https://medium.com/p/0ed3fcd9e912) |
+| Thu, 27 Nov 2025 14:59:42 GMT | The Fear of Losing the Only Friend I Feel Safe With | valle | [Read More](https://medium.com/p/dad1cbfed63b) |
+| Thu, 27 Nov 2025 14:56:40 GMT | The Hidden Cost of Misunderstanding: How Poor IAM Interpretation Undermines Security | Steve Anderson | [Read More](https://medium.com/p/23ccf3ff6e9f) |
+| Thu, 27 Nov 2025 14:54:50 GMT | Colorado Technical University Fast Track: Complete 2026 Student Guide | Motherlandlove | [Read More](https://medium.com/p/1a6b4b2a6def) |
+| Thu, 27 Nov 2025 14:51:11 GMT | THM Writeup — HealthGPT | Zor0ark | [Read More](https://medium.com/p/3354d11b926c) |
+| Thu, 27 Nov 2025 14:51:06 GMT | “Penetration Testing and Inverted Pyramid Hacking Process in Modern Security Systems”What is… | HABIBI | [Read More](https://medium.com/p/ffae04acd0c0) |
+| Thu, 27 Nov 2025 14:45:55 GMT | Zero-Trust Security Explained Why Companies Are Adopting It Fast | Salman Khan | [Read More](https://medium.com/p/dd53bade9f4e) |
+| Thu, 27 Nov 2025 14:45:53 GMT | Why Cybersecurity Matters Today: A Beginner’s Guide to Staying Safe in the Digital Age | Priyanshi Verma | [Read More](https://medium.com/p/01fd0249f33b) |
+| Thu, 27 Nov 2025 14:45:43 GMT | Why the Directory Is the Core of IAM: The Digital Heartbeat of Every Organization | Sunnysinha | [Read More](https://medium.com/p/fb845bc8e3f1) |
+| Thu, 27 Nov 2025 14:44:32 GMT | Ransomware 2026: Why Businesses Still Fall for the Same Traps | Salman Khan | [Read More](https://medium.com/p/ac3d0dd1fe97) |
 | Thu, 27 Nov 2025 14:38:42 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/400f895801a4) |
 | Thu, 27 Nov 2025 14:37:14 GMT | When your suppliers become your biggest area of vulnerability | Rebecca Cottignies | [Read More](https://medium.com/p/48c27bca247f) |
 | Thu, 27 Nov 2025 14:33:09 GMT | Bridging the Compensation Gap: The Power of Statutory Damages in State Privacy Law | David Miller | [Read More](https://medium.com/p/657457bd4064) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 11:07:34 GMT | How Startups Can Build User Trust in 2026: The Strategies That Really Work | Fadoua Azioual | [Read More](https://medium.com/p/ef1bcbd0e721) |
 | Thu, 27 Nov 2025 11:00:31 GMT | The Hardest Lesson No One Teaches You About Success | Vijay Kumar Gupta | [Read More](https://medium.com/p/a9d081e41ab3) |
 | Thu, 27 Nov 2025 10:59:53 GMT | SEO Services Salt Lake City: The Complete Guide to Ranking Higher, Dominating Local Search, and… | Hary Battler | [Read More](https://medium.com/p/6f9ccf8719f1) |
-| Thu, 27 Nov 2025 10:56:55 GMT | Jenkins on Kubernetes: The Ultimate Guide to Scalable CI/CD (Part 1) | Gaurav Tayade | [Read More](https://medium.com/p/83ed9c8e623f) |
-| Thu, 27 Nov 2025 10:42:13 GMT | SSH, Public/Private Keys — A Simple Guide | Muhammad Shahab Alam | [Read More](https://medium.com/p/a19a136eb514) |
-| Thu, 27 Nov 2025 10:40:44 GMT | Top 10 Real-World Use Cases of Blockchain-Enabled Applications in Cybersecurity | Prabu | [Read More](https://medium.com/p/363a5997ce99) |
-| Thu, 27 Nov 2025 10:36:28 GMT | Bug Bounty Reality Check (What They Don’t Tell You) | Shahzaib | [Read More](https://medium.com/p/5730d0557ce0) |
-| Thu, 27 Nov 2025 10:36:00 GMT | EU Chat Control (CSAR): শিশু নিরাপত্তা নাকি গণ নজরদারি? | S. M. Abdullah | [Read More](https://medium.com/p/cb1832b2a9b0) |
-| Thu, 27 Nov 2025 10:32:07 GMT | Open Redirect Explained Simply: How Attackers Misuse Trusted Links | Natarajan C K | [Read More](https://medium.com/p/15e37c93b360) |
-| Thu, 27 Nov 2025 10:31:37 GMT | Expose only the data needed by the front-end | Luigi Morel | [Read More](https://medium.com/p/7e9463e3659c) |
-| Thu, 27 Nov 2025 10:30:21 GMT | AI Meets Access Control for Physical Security Intelligence | Trust Consulting Services | [Read More](https://medium.com/p/e6c277409e66) |
-| Thu, 27 Nov 2025 10:28:04 GMT | Offensive Security SEC-100 & OSCC Certification Review | Netsec | [Read More](https://medium.com/p/e9ea30fd973d) |
-| Thu, 27 Nov 2025 10:24:18 GMT | QKD - Quantum Key Distribution | Ghost0Sun | [Read More](https://medium.com/p/cb1b954d52e8) |
-| Thu, 27 Nov 2025 10:21:40 GMT | CKS Notes — Image Security | Cheedge Lee | [Read More](https://medium.com/p/17920b516bc2) |
-| Thu, 27 Nov 2025 10:15:25 GMT | Top Cybersecurity Tips to Protect Your Data in 2025: The Complete Guide to Emerging Threats &… | Nex Information Technology | [Read More](https://medium.com/p/268d0a64b399) |
-| Thu, 27 Nov 2025 10:10:01 GMT | Browser as the Dominant Attack Surface | DarkBarrier | [Read More](https://medium.com/p/53a75dc839e5) |
-| Thu, 27 Nov 2025 10:05:44 GMT | Best Cloud Managed Services Provider in India - Enhance Your IT Services | Samvaskaran | [Read More](https://medium.com/p/f95f8ebd55fa) |
-| Thu, 27 Nov 2025 10:04:27 GMT | Setting Up a Remote Access Cybersecurity Lab: A Beginner-Friendly Guide | Ramandeep Bagri | [Read More](https://medium.com/p/a1d3bac6b2e4) |
