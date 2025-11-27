@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 11:34:45 GMT | How Your Partner Can Spy on You Using Their Phone (and How to Stop It) | Cyber pulse insider | [Read More](https://medium.com/p/b4944dd4ede0) |
+| Thu, 27 Nov 2025 11:32:27 GMT | How RAG Architecture Reduces Hallucinations in LLMs? | Sameer Khandelwal | [Read More](https://medium.com/p/8c6757a551e9) |
+| Thu, 27 Nov 2025 11:28:54 GMT | Are keycard systems a wise investment for U.S building security? | TCS Security | [Read More](https://medium.com/p/1a5604a67236) |
+| Thu, 27 Nov 2025 11:28:29 GMT | HIPAA Compliance: The Essential Cybersecurity Checklist for Protecting Patient Data | SecureSlate | [Read More](https://medium.com/p/cd98826584af) |
+| Thu, 27 Nov 2025 11:26:49 GMT | We Focus Too Much on Vulnerability— and Not Enough on Resonance | Laust Lauridsen, MD | [Read More](https://medium.com/p/116b16f07456) |
+| Thu, 27 Nov 2025 11:25:36 GMT | JWT Authentication Bypass via Weak Signing Key | Bash Overflow | [Read More](https://medium.com/p/894b85bc879e) |
+| Thu, 27 Nov 2025 11:23:02 GMT | Linux Observability With eBPF: Monitoring Systems Like a Modern Pro | Majidbasharat | [Read More](https://medium.com/p/6b76ad80c992) |
+| Thu, 27 Nov 2025 11:22:12 GMT | Walkthrough: Kioptrix Level 4 (2014) | Kiama Kareithi | [Read More](https://medium.com/p/4982c36684eb) |
+| Thu, 27 Nov 2025 11:19:17 GMT | What Shai Hulud 2.0 Taught Me About npm Security (The Hard Way) | Heinan Cabouly | [Read More](https://medium.com/p/bf79945710d0) |
 | Thu, 27 Nov 2025 11:19:10 GMT | AstralGuard Cyber Night Talk: Exploring the Future of AI & Cybersecurity ️ | Dallen Sadru | [Read More](https://medium.com/p/c710c274961c) |
+| Thu, 27 Nov 2025 11:16:03 GMT | Top 10 Cybersecurity Threats Everyone Should Know in 2025 | pavani | [Read More](https://medium.com/p/b37350f33c68) |
+| Thu, 27 Nov 2025 11:08:59 GMT | Lost in Translation: Exploiting Cross-Lingual Safety Asymmetry in LLMs | Aseddighi | [Read More](https://medium.com/p/c8e01dff7281) |
 | Thu, 27 Nov 2025 11:07:34 GMT | How Startups Can Build User Trust in 2026: The Strategies That Really Work | Fadoua Azioual | [Read More](https://medium.com/p/ef1bcbd0e721) |
 | Thu, 27 Nov 2025 11:00:31 GMT | The Hardest Lesson No One Teaches You About Success | Vijay Kumar Gupta | [Read More](https://medium.com/p/a9d081e41ab3) |
 | Thu, 27 Nov 2025 10:59:53 GMT | SEO Services Salt Lake City: The Complete Guide to Ranking Higher, Dominating Local Search, and… | Hary Battler | [Read More](https://medium.com/p/6f9ccf8719f1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 06:53:34 GMT | How I Bypassed Enterprise File Restrictions with Just One Character | default_0x | [Read More](https://medium.com/p/f514080bed2f) |
 | Thu, 27 Nov 2025 06:52:25 GMT | When You Start Hiding Again | Rahul Gupta | [Read More](https://medium.com/p/9473c4cbca87) |
 | Thu, 27 Nov 2025 06:38:37 GMT | Why Hiring an Apartment Security Guard is Essential for Modern Residential Safety in India | securityservices | [Read More](https://medium.com/p/4ba5c0e3c74b) |
-| Thu, 27 Nov 2025 06:34:23 GMT | Understanding Bug Bounty Programs & How Students Can Start | Md. Ashikur Rahman | [Read More](https://medium.com/p/b23415f95d89) |
-| Thu, 27 Nov 2025 06:31:30 GMT | Why Automation Ensures More Reliable Threat Detection | Commport Technologies | [Read More](https://medium.com/p/99e1c6b77526) |
-| Thu, 27 Nov 2025 06:31:10 GMT | The $1.4 Billion Bybit Hack: Security Lessons for Every Exchange Builder | Aarviyan | [Read More](https://medium.com/p/7f5b82159784) |
-| Thu, 27 Nov 2025 06:26:33 GMT | Planning IVR Modernisation: When to Redesign vs. Optimise | TestFyra | [Read More](https://medium.com/p/d336dbabbeca) |
-| Thu, 27 Nov 2025 06:22:28 GMT | A WONDERFUL EXPERIENCE WITH LOST CRYPTO RETRIEVEMENT! | Debbiewellman | [Read More](https://medium.com/p/d74e4de98224) |
-| Thu, 27 Nov 2025 06:20:57 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/8811ce8e7768) |
-| Thu, 27 Nov 2025 06:20:05 GMT | RhinoMap AI Tool Review – Best Free GEOINT Mapping Tool (Full guide) | RockShiv Techie | [Read More](https://medium.com/p/2dd412d9cd49) |
-| Thu, 27 Nov 2025 06:13:08 GMT | Team invitations can be accepted and full accounts created by admin(attacker) without invitee user… | Buvaneshvaran K | [Read More](https://medium.com/p/8901be8426ba) |
-| Thu, 27 Nov 2025 05:58:58 GMT | TLS: The Silent Bodyguard of the Internet — Why We Need It, How It Works, and How It Runs Over TCP… | Jothiprakash | [Read More](https://medium.com/p/d723ca064ef1) |
-| Thu, 27 Nov 2025 05:56:20 GMT | Powerful IT Support Services for Dee Why Firms | Any network | [Read More](https://medium.com/p/14fe09c142ed) |
-| Thu, 27 Nov 2025 05:46:00 GMT | The Vigilion Framework | Vigilion | [Read More](https://medium.com/p/c77863509a1e) |
