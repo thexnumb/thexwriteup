@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 15:35:50 GMT | FlagForge Might Be the Next Big Thing in Ethical Hacking Training | Lagzen Thakuri | [Read More](https://medium.com/p/b8e46b194522) |
+| Thu, 27 Nov 2025 15:34:48 GMT | penetration testing | kholid zayyd yusuf | [Read More](https://medium.com/p/f409aaf6e448) |
+| Thu, 27 Nov 2025 15:34:05 GMT | The Place Where Trust Used to Live | Trey Falco | [Read More](https://medium.com/p/d93a178c9e30) |
+| Thu, 27 Nov 2025 15:28:56 GMT | TOTP vs HOTP: How One-Time Passwords Really Work (Deep Dive Into Secrets, QR Codes, and… | Emre ÖZGÜRÜOĞLU | [Read More](https://medium.com/p/81c320a8ecb8) |
+| Thu, 27 Nov 2025 15:23:14 GMT | Is Security Just Fearmongering Disguised as Protection? | Luke Appleby | [Read More](https://medium.com/p/1de61c72cbba) |
 | Thu, 27 Nov 2025 15:15:48 GMT | AKS Authentication, Authorization, and Security Best Practices (CAF & WAF Alignment, part 2) | Hristo Stoychev | [Read More](https://medium.com/p/8dd3d4d8c6aa) |
 | Thu, 27 Nov 2025 15:14:39 GMT | Cracking the Code: How I Found a Zero-Day in Criminal Chatter and Cashed In | Iski | [Read More](https://medium.com/p/96eed2b96678) |
 | Thu, 27 Nov 2025 15:10:54 GMT | Anatomy of the First AI Attack: the Anthropic GTG-1002 Espionage Campaign | Ajanaku Temitope | [Read More](https://medium.com/p/0295b629c615) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 11:19:29 GMT | Secure Docker Images: 12 Essential Tips to Lock Them Down Like a Pro | Omar ELFarsaoui | [Read More](https://medium.com/p/90909a149210) |
 | Thu, 27 Nov 2025 11:19:17 GMT | What Shai Hulud 2.0 Taught Me About npm Security (The Hard Way) | Heinan Cabouly | [Read More](https://medium.com/p/bf79945710d0) |
 | Thu, 27 Nov 2025 11:19:10 GMT | AstralGuard Cyber Night Talk: Exploring the Future of AI & Cybersecurity ️ | Dallen Sadru | [Read More](https://medium.com/p/c710c274961c) |
-| Thu, 27 Nov 2025 11:16:03 GMT | Top 10 Cybersecurity Threats Everyone Should Know in 2025 | pavani | [Read More](https://medium.com/p/b37350f33c68) |
-| Thu, 27 Nov 2025 11:08:59 GMT | Lost in Translation: Exploiting Cross-Lingual Safety Asymmetry in LLMs | Aseddighi | [Read More](https://medium.com/p/c8e01dff7281) |
-| Thu, 27 Nov 2025 11:07:34 GMT | How Startups Can Build User Trust in 2026: The Strategies That Really Work | Fadoua Azioual | [Read More](https://medium.com/p/ef1bcbd0e721) |
-| Thu, 27 Nov 2025 11:00:31 GMT | The Hardest Lesson No One Teaches You About Success | Vijay Kumar Gupta | [Read More](https://medium.com/p/a9d081e41ab3) |
-| Thu, 27 Nov 2025 10:59:53 GMT | SEO Services Salt Lake City: The Complete Guide to Ranking Higher, Dominating Local Search, and… | Hary Battler | [Read More](https://medium.com/p/6f9ccf8719f1) |
