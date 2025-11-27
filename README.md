@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 10:36:28 GMT | Bug Bounty Reality Check (What They Don’t Tell You) | Shahzaib | [Read More](https://medium.com/p/5730d0557ce0) |
+| Thu, 27 Nov 2025 10:36:00 GMT | EU Chat Control (CSAR): শিশু নিরাপত্তা নাকি গণ নজরদারি? | S. M. Abdullah | [Read More](https://medium.com/p/cb1832b2a9b0) |
+| Thu, 27 Nov 2025 10:32:07 GMT | Open Redirect Explained Simply: How Attackers Misuse Trusted Links | Natarajan C K | [Read More](https://medium.com/p/15e37c93b360) |
+| Thu, 27 Nov 2025 10:31:37 GMT | Expose only the data needed by the front-end | Luigi Morel | [Read More](https://medium.com/p/7e9463e3659c) |
+| Thu, 27 Nov 2025 10:30:21 GMT | AI Meets Access Control for Physical Security Intelligence | Trust Consulting Services | [Read More](https://medium.com/p/e6c277409e66) |
+| Thu, 27 Nov 2025 10:28:04 GMT | Offensive Security SEC-100 & OSCC Certification Review | Netsec | [Read More](https://medium.com/p/e9ea30fd973d) |
+| Thu, 27 Nov 2025 10:24:18 GMT | QKD - Quantum Key Distribution | Ghost0Sun | [Read More](https://medium.com/p/cb1b954d52e8) |
+| Thu, 27 Nov 2025 10:21:40 GMT | CKS Notes — Image Security | Cheedge Lee | [Read More](https://medium.com/p/17920b516bc2) |
 | Thu, 27 Nov 2025 10:15:25 GMT | Top Cybersecurity Tips to Protect Your Data in 2025: The Complete Guide to Emerging Threats &… | Nex Information Technology | [Read More](https://medium.com/p/268d0a64b399) |
 | Thu, 27 Nov 2025 10:10:01 GMT | Browser as the Dominant Attack Surface | DarkBarrier | [Read More](https://medium.com/p/53a75dc839e5) |
 | Thu, 27 Nov 2025 10:05:44 GMT | Best Cloud Managed Services Provider in India - Enhance Your IT Services | Samvaskaran | [Read More](https://medium.com/p/f95f8ebd55fa) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 05:08:40 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/61fc43c39ad3) |
 | Thu, 27 Nov 2025 05:06:23 GMT | Análise Técnica do Roadmap da Tanssi. | IsaLeal | [Read More](https://medium.com/p/34b070d91844) |
 | Thu, 27 Nov 2025 05:06:01 GMT | Kubernetes Security: 15 Critical Points Before Going to Production | Mathieu ROGER | [Read More](https://medium.com/p/f6a47e4da78e) |
-| Thu, 27 Nov 2025 05:04:01 GMT | The Hidden Security Flaws in Kotlin Apps Nobody Talks About | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/991ec72348d8) |
-| Thu, 27 Nov 2025 04:59:23 GMT | LLM Security Is the New Cybersecurity — And the Certifications Are Arriving Fast | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/7381cb158ccf) |
-| Thu, 27 Nov 2025 04:58:40 GMT | Open-Source Security Risks: What Recent Vulnerability Trends Reveal About the Software We Trust | Sam Writes Security | [Read More](https://medium.com/p/fa81e4193874) |
-| Thu, 27 Nov 2025 04:52:57 GMT | Beyond Security Lists: How to Strictly Isolate OCI Environments with ZPR | Venkataramana | [Read More](https://medium.com/p/90998069121f) |
-| Thu, 27 Nov 2025 04:47:50 GMT | Why Security Needs More Testers | Joseph Kantar | [Read More](https://medium.com/p/5138bc146dc0) |
-| Thu, 27 Nov 2025 04:47:30 GMT | FIRE, THE WHEEL AND THE JOYSTICK | Roland Rukundo | [Read More](https://medium.com/p/254334545b48) |
-| Thu, 27 Nov 2025 04:45:07 GMT | AI Hacking | damn_daniel_2000 | [Read More](https://medium.com/p/6a93438d3624) |
-| Thu, 27 Nov 2025 04:29:53 GMT | Hire N8N Developers - N8N developers | n8ndevelopers | [Read More](https://medium.com/p/8431c121431d) |
