@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 23:22:25 GMT | Upbit Hot-Wallet Breach: What Really Happened and Why Blockchain Was Not the Problem | KRWA | [Read More](https://medium.com/p/8b6c08b8bb84) |
 | Thu, 27 Nov 2025 23:12:03 GMT | Personal Incident Response Plan Using the NIST Framework | Anderson Santos | [Read More](https://medium.com/p/c9798d0d35e9) |
 | Thu, 27 Nov 2025 22:47:16 GMT | United Security: Smart Protection for a Safer Future | United Security | [Read More](https://medium.com/p/0a49440e02e2) |
 | Thu, 27 Nov 2025 22:31:40 GMT | The Helabattala Heist: A Near Miss | Aayush kumar | [Read More](https://medium.com/p/0b29c716ec90) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 15:02:11 GMT | Guarding the Gates: Why Every CFO Must Be a Cyber Shepherd in 2025 | Michael Stickler | [Read More](https://medium.com/p/5ae0150a8738) |
 | Thu, 27 Nov 2025 15:02:08 GMT | Cyber Briefing: 2025.11.27 | CyberMaterial | [Read More](https://medium.com/p/0ed3fcd9e912) |
 | Thu, 27 Nov 2025 14:59:42 GMT | The Fear of Losing the Only Friend I Feel Safe With | valle | [Read More](https://medium.com/p/dad1cbfed63b) |
-| Thu, 27 Nov 2025 14:56:40 GMT | The Hidden Cost of Misunderstanding: How Poor IAM Interpretation Undermines Security | Steve Anderson | [Read More](https://medium.com/p/23ccf3ff6e9f) |
