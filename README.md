@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 01:24:49 GMT | Kali Linux: First Steps and Must-Have Tweaks | Aj | [Read More](https://medium.com/p/56bd26be8367) |
+| Thu, 27 Nov 2025 01:24:37 GMT | How I Used Ligolo-ng to Pivot into Internal Networks During OSCP Labs | Got Root? | [Read More](https://medium.com/p/fdfed42c9723) |
+| Thu, 27 Nov 2025 01:18:53 GMT | Fortinet FortiWeb Zero-Day (CVE-2025–64446): Risk Assessment and Defense Strategies | Criminal IP | [Read More](https://medium.com/p/3cd4535ac4bb) |
+| Thu, 27 Nov 2025 01:18:32 GMT | My favorite Linux Command #4 — curl | Balazs Kocsis | [Read More](https://medium.com/p/9580896c5c5d) |
+| Thu, 27 Nov 2025 01:05:18 GMT | JWT Privilege Escalation to Container RCE via Jinja2 SSTI “ Intigriti challenge” | Adham Heinrich | [Read More](https://medium.com/p/16186324241c) |
+| Thu, 27 Nov 2025 01:02:09 GMT | Hunting Through the Gaps: Multi-Source Correlation — Part 2B | Raynard Waits | [Read More](https://medium.com/p/27cc8b720a00) |
+| Thu, 27 Nov 2025 00:44:07 GMT | GraphicalProton.exe A Stealthy Stager Malware | MalwareDoctor | [Read More](https://medium.com/p/f3a32e9bbe25) |
+| Thu, 27 Nov 2025 00:32:11 GMT | HackTheBox DCSync: When Your User Account Thinks It’s a Domain Controller | Cybersecurity Simplified | [Read More](https://medium.com/p/1dec80a5c982) |
+| Thu, 27 Nov 2025 00:26:59 GMT | Between the Wires: A Practical Breakdown of Modern MITM (Man in the Middle) Attacks | Travis Ray Caverhill | [Read More](https://medium.com/p/3e820973ffb0) |
+| Thu, 27 Nov 2025 00:05:05 GMT | Danger in Disguise: Discovering the Secret Attack Inside Your Photos and Documents | AgathaTaiwo | [Read More](https://medium.com/p/7b8d323bacb4) |
+| Thu, 27 Nov 2025 00:03:50 GMT | AI Coding Assistants and the New Supply-Chain Problem: Why Only 1 in 5 Dependencies Are Safe | Technical Life | [Read More](https://medium.com/p/70a1d2b1dea4) |
+| Wed, 26 Nov 2025 23:37:58 GMT | Implementing a Security Filter Chain in Express | Antoine TSINGA | [Read More](https://medium.com/p/eeaeb8c210a5) |
 | Wed, 26 Nov 2025 23:30:22 GMT | Building a Detection Lab: Active Directory, Splunk, and Kali Linux | tdashadow | [Read More](https://medium.com/p/c7ceec77322c) |
 | Wed, 26 Nov 2025 23:20:10 GMT | How to Fix Wireshark Errors on Linux (The Complete Guide) | ghostyjoe | [Read More](https://medium.com/p/7ea25af0305d) |
 | Wed, 26 Nov 2025 23:18:47 GMT | Softening to Loss | David B. Younger, Ph.D | [Read More](https://medium.com/p/2114ff742833) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 16:35:17 GMT | The Human Side of IT: Why Our Team Is the Real Signal Behind SignalAge | SignalAge | [Read More](https://medium.com/p/3bb1517c3302) |
 | Wed, 26 Nov 2025 16:33:12 GMT | Corridors of vulnerability | Stephanie Ikoi Onen | [Read More](https://medium.com/p/7d3999d4cdf6) |
 | Wed, 26 Nov 2025 16:29:44 GMT | Exploiting a CSRF Vuln in a Leading Broking Platform | Akash Gupta | [Read More](https://medium.com/p/aa18c51bdeb6) |
-| Wed, 26 Nov 2025 16:16:35 GMT | Not Again is still a wound | Nandini Chandgothia | [Read More](https://medium.com/p/e0beec4958dc) |
-| Wed, 26 Nov 2025 16:14:51 GMT | Non Emergency Locksmith — Reliable, Professional Service for Every Situation | The Lock Specialist Ltd | [Read More](https://medium.com/p/04122f8a5463) |
-| Wed, 26 Nov 2025 16:11:38 GMT | I am Arnab | Arnab Sikder | [Read More](https://medium.com/p/9fc224b87c20) |
-| Wed, 26 Nov 2025 16:10:59 GMT | Introduction to Elastic: Overview of the ELK Stack | Allen Ace | [Read More](https://medium.com/p/c10fc3a709c1) |
-| Wed, 26 Nov 2025 16:08:22 GMT | From Police Director to Theme Park Security Guard: What Gets Lost When Credentials Don't Cross… | Cjmolinac | [Read More](https://medium.com/p/4f43d00e76b8) |
-| Wed, 26 Nov 2025 16:07:13 GMT | Emotet: Analyzing Its Behavior Through MITRE ATT&CK | Chinasachinasa | [Read More](https://medium.com/p/101e873f55ce) |
-| Wed, 26 Nov 2025 16:02:24 GMT | Hackers Injected Malware into Nearly 500 npm Packages — Postman, PostHog, AsyncAPI, and Others… | Digital Minds | [Read More](https://medium.com/p/034df9ef1cca) |
-| Wed, 26 Nov 2025 16:00:37 GMT | Basic Firewalls vs. Enterprise Firewalls: What Every Business Should Know | Paradise technologies Inc | [Read More](https://medium.com/p/9b9936d3eaae) |
-| Wed, 26 Nov 2025 15:59:39 GMT | I Tried 20+ Google Courses & Certifications on Coursera — Here Are My Top 5 Recommendations for… | javinpaul | [Read More](https://medium.com/p/5034432eebda) |
-| Wed, 26 Nov 2025 15:57:19 GMT | What Is the STOP CSAM Act? | EINITIAL24 | [Read More](https://medium.com/p/70bafde13a1d) |
-| Wed, 26 Nov 2025 15:55:22 GMT | Why an (IRP) Incident Response Plan Is a Important Document for Every Company | CyberOne.ma | [Read More](https://medium.com/p/accc34164b0c) |
-| Wed, 26 Nov 2025 15:52:21 GMT | The End of the Sysmon Driver: How Native Windows Integration Will Revolutionize EDR | Gyanendar Manohar | [Read More](https://medium.com/p/9897162aba45) |
