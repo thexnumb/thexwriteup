@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 19:03:26 GMT | Windows 11 Security Assessment (Hostname: WIN11-MGR1) | Johnny Meintel | [Read More](https://medium.com/p/e8326d82750e) |
+| Thu, 27 Nov 2025 19:00:29 GMT | Elastic Part 1: Installing Elastic | Allen Ace | [Read More](https://medium.com/p/c7bf3c8149ab) |
+| Thu, 27 Nov 2025 18:54:37 GMT | How I Accidentally Got My First CVE (While Looking for Something Else Entirely) | RkVb | [Read More](https://medium.com/p/c8baddbc90b9) |
+| Thu, 27 Nov 2025 18:49:01 GMT | The Simple Bug That Led Me to My First Bounty (Account Takeover via Insecure Reusable Activation… | sudo_a7med | [Read More](https://medium.com/p/918c1ea1a362) |
+| Thu, 27 Nov 2025 18:39:14 GMT | What is Penetration Testing, and Why is it Necessary? | Diva Rizky Alfitrah | [Read More](https://medium.com/p/9c8b19d20d31) |
+| Thu, 27 Nov 2025 18:37:35 GMT | From Police Director to Theme Park Security Guard: What Gets Lost When Credentials Don’t Cross… | Julio Gil | [Read More](https://medium.com/p/a55fe65d8f97) |
 | Thu, 27 Nov 2025 18:24:44 GMT | ️ Blocking RDP Brute-Force Attacks Using WAZUH (Complete Practical Guide) | Aziz U Rehman | [Read More](https://medium.com/p/fea70bc87d63) |
 | Thu, 27 Nov 2025 18:23:22 GMT | Identity & Access Management Best Practices for Modern Enterprises | Dhanrajfunde | [Read More](https://medium.com/p/edd066366b5e) |
 | Thu, 27 Nov 2025 18:18:10 GMT | Identity and Access Management (IAM) Best Practices for Modern Enterprises | Dhanrajfunde | [Read More](https://medium.com/p/6c24cc2a8896) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 13:53:54 GMT | xss0r Black Friday Special Offer — 50% OFF ALL PLANS! | xss0r | [Read More](https://medium.com/p/ae79eb59b534) |
 | Thu, 27 Nov 2025 13:53:03 GMT | What are Keyloggers? - VIIEGO | Rolando | [Read More](https://medium.com/p/a33734e6b585) |
 | Thu, 27 Nov 2025 13:52:51 GMT | What is Misinformation? - VIIEGO | Rolando | [Read More](https://medium.com/p/b04ab4b644bc) |
-| Thu, 27 Nov 2025 13:52:09 GMT | Why Jailbreak Attacks Are Underreported | Shailendra Kumar | [Read More](https://medium.com/p/91b2906212cd) |
-| Thu, 27 Nov 2025 13:47:16 GMT | Missed Call services provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/3a749fe1a428) |
-| Thu, 27 Nov 2025 13:46:13 GMT | The Strategic Imperative of Cross-Cultural, Security, and Military-Diplomatic Communication between… | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/533b0e0b10ac) |
-| Thu, 27 Nov 2025 13:44:27 GMT | The 10-Tool Quick-Start Nonprofit Tech Stack | Cait Graaf | [Read More](https://medium.com/p/bc1d4fdd63e4) |
-| Thu, 27 Nov 2025 13:27:21 GMT | Prompt Attacks — The No. 1 AI-Native Security Risk | Quy Tang | [Read More](https://medium.com/p/0b5a0315c2e0) |
-| Thu, 27 Nov 2025 13:26:52 GMT | The Fragility of Cloud Infrastructure: Why Did Cloudflare Fail? Why Did We Receive The 5xx Errors? | Yasin Kalli | [Read More](https://medium.com/p/128345663015) |
