@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 09:40:33 GMT | Introducing Stealth Prompt: My AI Pentesting Tool for Breaking AI Agents Through the Browser | Andrew Kutuzov | [Read More](https://medium.com/p/1cff4b31ff58) |
+| Thu, 27 Nov 2025 09:31:14 GMT | Started my Cyber Security journey yesterday on Google courses | Blackrezzz | [Read More](https://medium.com/p/01a985b29477) |
+| Thu, 27 Nov 2025 09:27:00 GMT | Easy Splunk: Correlations | Antonella Blasetti | [Read More](https://medium.com/p/ebb728cce91e) |
 | Thu, 27 Nov 2025 09:10:46 GMT | London Under Digital Siege: Lessons From a Multi-Borough Cyber Meltdown | Redfox Security | [Read More](https://medium.com/p/2fb1b5fc1024) |
 | Thu, 27 Nov 2025 09:09:55 GMT | The Fundamentals of API Security and Why it Matters | Peace Dennis | [Read More](https://medium.com/p/62a9c65b833c) |
 | Thu, 27 Nov 2025 09:09:30 GMT | Cybersecurity #17: SQL Injection | mohandika | [Read More](https://medium.com/p/db489f21c342) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 03:21:35 GMT | THM Writeup — BankGPT | Zor0ark | [Read More](https://medium.com/p/78cf54d3154c) |
 | Thu, 27 Nov 2025 03:03:53 GMT | Apple Developer Stored XSS — $5,000 Bounty - Writeup 2025 | Youssef Desouki ( Zombie Hack ) | [Read More](https://medium.com/p/cc34a030a5bf) |
 | Thu, 27 Nov 2025 02:36:49 GMT | Significant Data Fiduciaries: India’s Toughest Data Category: Are You on the List? | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/b1eb17dc6ee3) |
-| Thu, 27 Nov 2025 02:32:31 GMT | FastAPI + Policy Engines (OPA/CEL): LLM Function Calls with Guarded Execution | Codastra | [Read More](https://medium.com/p/a5632d8405c7) |
-| Thu, 27 Nov 2025 02:29:24 GMT | The Origin of the Saltine Hacker | Travis Ray Caverhill | [Read More](https://medium.com/p/9b79facfc2e7) |
-| Thu, 27 Nov 2025 02:29:11 GMT | The Bug That Took Me 2 Days… and the Fix That Took 2 Minutes | Somendradev | [Read More](https://medium.com/p/81bb700d4834) |
