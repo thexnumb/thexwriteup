@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 17:36:22 GMT | How to Penetrate a Drone Using a Flipper Zero | Hackers Things | [Read More](https://medium.com/p/3a9e0b5f1b83) |
+| Thu, 27 Nov 2025 17:16:01 GMT | 트랜잭션 서명 단계의 취약점: 소프트웨어 지갑의 구조적 한계와 하드웨어 지갑의 대응력 동향 | Caleb Choi | [Read More](https://medium.com/p/4fdd79d03ae3) |
 | Thu, 27 Nov 2025 17:08:05 GMT | The One Python Function Hackers LOVE You to Use | Maikel Mardjan | [Read More](https://medium.com/p/c26f0c400631) |
 | Thu, 27 Nov 2025 17:06:31 GMT | TryHackMe - Linux Function Hooking - WriteUp | Axoloth | [Read More](https://medium.com/p/82406fb77e00) |
 | Thu, 27 Nov 2025 17:05:40 GMT | Hack the World (Computer) | David Dal Busco | [Read More](https://medium.com/p/0dc46b609630) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 12:51:36 GMT | The Art of Digital Reconnaissance: Finding What Others Hide | abdelkarime_alhannachi | [Read More](https://medium.com/p/5124caaac298) |
 | Thu, 27 Nov 2025 12:50:24 GMT | Metaparadox x Shufti Pro: Building a Secure Digital Ecosystem for the New Era of Social Platforms… | Metaparadox LTD | [Read More](https://medium.com/p/c0f01df8c75d) |
 | Thu, 27 Nov 2025 12:46:30 GMT | How To Recover and Transfer 2FA Codes From a Broken Phone Without a Backup | Anushka | [Read More](https://medium.com/p/5956f8f5e716) |
-| Thu, 27 Nov 2025 12:40:35 GMT | How ScreenCheck Middle East Supports Secure and Smarter Operations Across the Region | fasil rahman | [Read More](https://medium.com/p/685cfdb940a3) |
-| Thu, 27 Nov 2025 12:39:22 GMT | Why Regression Testing Services in USA Are Essential for Modern Businesses | Achana prashanth | [Read More](https://medium.com/p/c77f3cc8b8e4) |
