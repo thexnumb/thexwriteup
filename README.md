@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 17:08:05 GMT | The One Python Function Hackers LOVE You to Use | Maikel Mardjan | [Read More](https://medium.com/p/c26f0c400631) |
+| Thu, 27 Nov 2025 17:06:31 GMT | TryHackMe - Linux Function Hooking - WriteUp | Axoloth | [Read More](https://medium.com/p/82406fb77e00) |
+| Thu, 27 Nov 2025 17:05:40 GMT | Hack the World (Computer) | David Dal Busco | [Read More](https://medium.com/p/0dc46b609630) |
+| Thu, 27 Nov 2025 16:59:27 GMT | Modern SOC Operations: Threat Detection, Incident Response & Real-World Challenges | Anonymous King | [Read More](https://medium.com/p/ff4621085d19) |
+| Thu, 27 Nov 2025 16:55:32 GMT | XML RAT - Cyberdefenders | Nicksondiazm | [Read More](https://medium.com/p/a91fcfbe9a08) |
+| Thu, 27 Nov 2025 16:54:47 GMT | How to install and configure Snort for Networking Monitoring — Cybersecurity Homelab [#6] | 0xRahuL | [Read More](https://medium.com/p/c3b76a769b00) |
+| Thu, 27 Nov 2025 16:54:38 GMT | Ethical Hacking and the Reality of Digital Fragility | Decentr | [Read More](https://medium.com/p/17c9277a2ae5) |
+| Thu, 27 Nov 2025 16:54:09 GMT | Ransomware-as-a-Service (RaaS) Is Getting Bigger — And More Dangerous | Cyberhominid | [Read More](https://medium.com/p/f874a22b1936) |
+| Thu, 27 Nov 2025 16:52:38 GMT | The Day Digital Trust Died: Why Every System We Rely On Is Failing at the Same Time | Abatis ABTU | [Read More](https://medium.com/p/2456c6f9c62e) |
+| Thu, 27 Nov 2025 16:50:28 GMT | ICYMI — pre:Invent 2025 announcements | Lorcan O'Flynn | [Read More](https://medium.com/p/7795ee81841a) |
+| Thu, 27 Nov 2025 16:42:41 GMT | Turning Your Laptop Into A Portable Data Harvester | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/841725cbd6b2) |
 | Thu, 27 Nov 2025 16:36:06 GMT | How Northern Nigeria Became a War Zone: The Roots of Boko Haram, Banditry, and Extremist Violence | Oni Oluwapelumi Esther | [Read More](https://medium.com/p/136cd6bc47d4) |
 | Thu, 27 Nov 2025 16:31:07 GMT | Top AI Productivity Tools 2026 for Big Business Owners (Full Guide)Top AI Productivity Tools 2026… | Motherlandlove | [Read More](https://medium.com/p/5ddc86625bc4) |
 | Thu, 27 Nov 2025 16:30:10 GMT | The Missing Law of Motion | Chris Perkins | [Read More](https://medium.com/p/2044294ff551) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 12:46:30 GMT | How To Recover and Transfer 2FA Codes From a Broken Phone Without a Backup | Anushka | [Read More](https://medium.com/p/5956f8f5e716) |
 | Thu, 27 Nov 2025 12:40:35 GMT | How ScreenCheck Middle East Supports Secure and Smarter Operations Across the Region | fasil rahman | [Read More](https://medium.com/p/685cfdb940a3) |
 | Thu, 27 Nov 2025 12:39:22 GMT | Why Regression Testing Services in USA Are Essential for Modern Businesses | Achana prashanth | [Read More](https://medium.com/p/c77f3cc8b8e4) |
-| Thu, 27 Nov 2025 12:36:39 GMT | Tech Bros: Development of Modern Technology | Elite Aneesa999 | [Read More](https://medium.com/p/0d5b97617b15) |
-| Thu, 27 Nov 2025 12:36:04 GMT | … | Shubham Sultane | [Read More](https://medium.com/p/51d3396a27ac) |
-| Thu, 27 Nov 2025 12:34:35 GMT | The Chronic Chorus: Who Am I Without the Need to Compare? | Aditi Surha | [Read More](https://medium.com/p/41ca7095d66b) |
-| Thu, 27 Nov 2025 12:33:18 GMT | cybersecurity | Digitalmarketerpalakkad | [Read More](https://medium.com/p/0973d71b68c2) |
-| Thu, 27 Nov 2025 12:32:59 GMT | Something BIG is coming from Daifend’s Lab!! | Bhawini. | [Read More](https://medium.com/p/a0a85572b668) |
-| Thu, 27 Nov 2025 12:32:34 GMT | Your Software Is Held Together By Volunteers On The Verge Of Collapse | Kawaldeep Singh | [Read More](https://medium.com/p/00ffa9d990c3) |
-| Thu, 27 Nov 2025 12:30:52 GMT | How Virtual Guard Tour Solutions Are Transforming Security Operations in Singapore | Kavitha | [Read More](https://medium.com/p/fe87d20b542f) |
-| Thu, 27 Nov 2025 12:29:04 GMT | Mobile Solar Surveillance Systems: Reliable, Sustainable Security Solutions for Remote Operations | Gwen Stacy | [Read More](https://medium.com/p/6dd52232db49) |
-| Thu, 27 Nov 2025 12:23:06 GMT | The New Digital Security Is No Longer Technical — It’s Narrative | R. F. NÖRIS | [Read More](https://medium.com/p/2b5a4798fdf3) |
-| Thu, 27 Nov 2025 12:12:45 GMT | Defacement or Declaration? The Cyberattack Kenya Cannot Afford to Ignore | Kevin Mwenda | [Read More](https://medium.com/p/d41b218230f2) |
-| Thu, 27 Nov 2025 12:09:10 GMT | Korean Leaks: How Qilin Ransomware Turned One MSP Breach into a South Korean Financial Cyber Crisis | Germano Costi | [Read More](https://medium.com/p/ae42c92c3898) |
