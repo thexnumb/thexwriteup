@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 13:26:51 GMT | Tech Stack Starter Pack: Right-Sized Systems for Small NPOs | Cait Graaf | [Read More](https://medium.com/p/9edf464f6cf9) |
+| Thu, 27 Nov 2025 13:11:08 GMT | Portswigger : Account locking (Hesap Kilitleme) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e082f1bd842b) |
+| Thu, 27 Nov 2025 13:05:20 GMT | Why Every Organization Needs a Security Operations Center in 2025 | Hachion Trainings | [Read More](https://medium.com/p/dd5b9c4b684a) |
+| Thu, 27 Nov 2025 13:04:48 GMT | The Product Manager's Role in the Secure Software Development Lifecycle (SDLC) | Kaosarat Aduagba | [Read More](https://medium.com/p/a3af54521b1c) |
+| Thu, 27 Nov 2025 13:02:10 GMT | AI as a Decision Engine: Rethinking Modernization Strategy in Enterprise Portfolios | Jen Anderson, PhD | [Read More](https://medium.com/p/dc74c5354f49) |
+| Thu, 27 Nov 2025 13:00:08 GMT | I Found an Admin Account Anyone Could Create | Ibtissam | [Read More](https://medium.com/p/b9d19b2d40b0) |
+| Thu, 27 Nov 2025 12:59:38 GMT | The Silent iPhone Tricks That Reveal If Someone Is Secretly Spying on You | Cyber pulse insider | [Read More](https://medium.com/p/8dc005a8a0ab) |
+| Thu, 27 Nov 2025 12:58:12 GMT | You Pretend You’re Fine, But Criticism Cuts Deeper Than You Admit | keiarchive | [Read More](https://medium.com/p/ed42b6c72a3f) |
+| Thu, 27 Nov 2025 12:57:35 GMT | Which is the Best Ethical Hacking Course for a Hacking Career? Complete Guide | Rahul Shrivastav | [Read More](https://medium.com/p/99336552b113) |
+| Thu, 27 Nov 2025 12:57:28 GMT | The Ultimate DevOps Life Hack: Swapping Your OCI VM’s Brains Mid-Flight! | Mohammed Abdul Wakeel | [Read More](https://medium.com/p/b3ee8563693d) |
+| Thu, 27 Nov 2025 12:57:08 GMT | Understanding Cybersecurity Risk Management | Vishwajeettechtech | [Read More](https://medium.com/p/a8b4f131fa02) |
+| Thu, 27 Nov 2025 12:56:02 GMT | Ghost in the Machine | Shxdowz | [Read More](https://medium.com/p/6e2a79b4cea3) |
+| Thu, 27 Nov 2025 12:51:36 GMT | The Art of Digital Reconnaissance: Finding What Others Hide | abdelkarime_alhannachi | [Read More](https://medium.com/p/5124caaac298) |
+| Thu, 27 Nov 2025 12:50:24 GMT | Metaparadox x Shufti Pro: Building a Secure Digital Ecosystem for the New Era of Social Platforms… | Metaparadox LTD | [Read More](https://medium.com/p/c0f01df8c75d) |
+| Thu, 27 Nov 2025 12:46:30 GMT | How To Recover and Transfer 2FA Codes From a Broken Phone Without a Backup | Anushka | [Read More](https://medium.com/p/5956f8f5e716) |
 | Thu, 27 Nov 2025 12:40:35 GMT | How ScreenCheck Middle East Supports Secure and Smarter Operations Across the Region | fasil rahman | [Read More](https://medium.com/p/685cfdb940a3) |
 | Thu, 27 Nov 2025 12:39:22 GMT | Why Regression Testing Services in USA Are Essential for Modern Businesses | Achana prashanth | [Read More](https://medium.com/p/c77f3cc8b8e4) |
+| Thu, 27 Nov 2025 12:36:39 GMT | Tech Bros: Development of Modern Technology | Elite Aneesa999 | [Read More](https://medium.com/p/0d5b97617b15) |
+| Thu, 27 Nov 2025 12:36:04 GMT | … | Shubham Sultane | [Read More](https://medium.com/p/51d3396a27ac) |
+| Thu, 27 Nov 2025 12:34:35 GMT | The Chronic Chorus: Who Am I Without the Need to Compare? | Aditi Surha | [Read More](https://medium.com/p/41ca7095d66b) |
 | Thu, 27 Nov 2025 12:33:18 GMT | cybersecurity | Digitalmarketerpalakkad | [Read More](https://medium.com/p/0973d71b68c2) |
 | Thu, 27 Nov 2025 12:32:59 GMT | Something BIG is coming from Daifend’s Lab!! | Bhawini. | [Read More](https://medium.com/p/a0a85572b668) |
 | Thu, 27 Nov 2025 12:32:34 GMT | Your Software Is Held Together By Volunteers On The Verge Of Collapse | Kawaldeep Singh | [Read More](https://medium.com/p/00ffa9d990c3) |
@@ -70,6 +88,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 09:56:47 GMT | What is Picuki? How It Works | Tayyab Techy | [Read More](https://medium.com/p/1d4f231a1aed) |
 | Thu, 27 Nov 2025 09:54:07 GMT | Why Businesses Choose Laravel for High Performance Web Apps | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/880e0a9e7003) |
 | Thu, 27 Nov 2025 09:53:20 GMT | Beyond Dubai: Mapping the Growth of Telecom Kiosk Machine Adoption Across the GCC | Rakesh | [Read More](https://medium.com/p/1627187a4f79) |
+| Thu, 27 Nov 2025 09:52:36 GMT | The ROI of Cybersecurity: How Security Spending Actually Saves Money | Digital Defense | [Read More](https://medium.com/p/327ff389e765) |
 | Thu, 27 Nov 2025 09:52:07 GMT | The Day-1 Server Security Checklist: Building the Perimeter on Linux and FreeBSD | Vitaliy Zhhuta | [Read More](https://medium.com/p/fdcbd97069ff) |
 | Thu, 27 Nov 2025 09:48:43 GMT | Why Professional Security Guard Services Are Essential for Businesses and Communities in India | Ciss India | [Read More](https://medium.com/p/10c68d1a1341) |
 | Thu, 27 Nov 2025 09:40:33 GMT | Introducing Stealth Prompt: My AI Pentesting Tool for Breaking AI Agents Through the Browser | Andrew Kutuzov | [Read More](https://medium.com/p/1cff4b31ff58) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 08:51:11 GMT | Best Ethical Hacking Training in Noida - Ducat India | Preeti Singh | [Read More](https://medium.com/p/9d5095e10cd2) |
 | Thu, 27 Nov 2025 08:51:08 GMT | Best Ethical Hacking Training in Noida - Ducat India | Kumari Roshani | [Read More](https://medium.com/p/a9dc8180d178) |
 | Thu, 27 Nov 2025 08:51:06 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vipinkumaraut | [Read More](https://medium.com/p/32d24a438200) |
-| Thu, 27 Nov 2025 08:51:03 GMT | Best Ethical Hacking Training in Noida - Ducat India | Krishnag | [Read More](https://medium.com/p/f7a60ca12ce9) |
-| Thu, 27 Nov 2025 08:50:59 GMT | Best Ethical Hacking Training in Noida - Ducat India | 2pmDucat Batch | [Read More](https://medium.com/p/7308d610f40d) |
-| Thu, 27 Nov 2025 08:49:56 GMT | Writing with AI: Boundaries That Protect a Personal Voice | Heri Saputra | [Read More](https://medium.com/p/32016fec5a87) |
-| Thu, 27 Nov 2025 08:49:03 GMT | OpenAI Platform Üzerinden Veri Sızdırıldı | Osman Koc | [Read More](https://medium.com/p/b94b0ebe21ba) |
-| Thu, 27 Nov 2025 08:47:47 GMT | Fixing Security Starts With Protecting the People Who Protect Us | Bayo Orebiyi | [Read More](https://medium.com/p/bb127ad6d22f) |
-| Thu, 27 Nov 2025 08:19:06 GMT | :     … | Cyber Toddler | [Read More](https://medium.com/p/3db2e47724b0) |
-| Thu, 27 Nov 2025 08:14:19 GMT | ️ Critical Flaw: The “Secret Instruction” Hack in Django ORM (CVE-2025–64459) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/2dfc899a165d) |
-| Thu, 27 Nov 2025 08:12:52 GMT | API Security Fundamentals: Why It Matters | Memory Mahanya | [Read More](https://medium.com/p/e56debd81c60) |
-| Thu, 27 Nov 2025 08:07:52 GMT | No Prompts, No Passwords, Still A Problem: What The OpenAI Mixpanel Incident Really Exposed | Namish Saxena | [Read More](https://medium.com/p/9572f603d5bb) |
-| Thu, 27 Nov 2025 08:03:50 GMT | Building FE Applications That Protects Your Users Against Social Engineering | Sandra Dobric | [Read More](https://medium.com/p/9473d13a424a) |
-| Thu, 27 Nov 2025 08:02:18 GMT | (THM) Search Skills | Kody | [Read More](https://medium.com/p/160627f278c2) |
-| Thu, 27 Nov 2025 08:02:06 GMT | Case Study: Inside the Phantom Stealer Incident at Northbridge Financial Services | Augustine Sito | [Read More](https://medium.com/p/256af4a82b5f) |
-| Thu, 27 Nov 2025 07:55:44 GMT | The Anatomy of a Cyber Security Attack: Trends, Threats & The Future of Global Digital Defense… | Surya Kumar | [Read More](https://medium.com/p/c4a208f4b286) |
-| Thu, 27 Nov 2025 07:53:57 GMT | How to Install & Set Up Proton Authenticator on Kali Linux (Full Guide) | ghostyjoe | [Read More](https://medium.com/p/615492187af4) |
-| Thu, 27 Nov 2025 07:51:33 GMT | Secret Tricks to Get High Bounty - Part–1 | Abhijeet kumawat | [Read More](https://medium.com/p/b36da743d25b) |
-| Thu, 27 Nov 2025 07:37:24 GMT | Pentest → Incident Response: 10 Tools That Saved the Day (and How to Use Them) | Very Lazy Tech | [Read More](https://medium.com/p/ebcef94dbb7e) |
-| Thu, 27 Nov 2025 07:32:04 GMT | 12 Security Defaults Every Node App Needs | Syntal | [Read More](https://medium.com/p/849eb3c4c107) |
-| Thu, 27 Nov 2025 07:23:28 GMT | Security is Not an Event: Why Nigeria Must Shift from Reaction to Strategic Culture. | Confidence Amaseseibi | [Read More](https://medium.com/p/4d69f736a829) |
-| Thu, 27 Nov 2025 07:22:31 GMT | Why Public Wi-Fi Is More Dangerous Than You Think in 2025 | Monu Jangra | [Read More](https://medium.com/p/4cbef8ecdeb8) |
