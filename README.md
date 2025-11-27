@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 04:29:53 GMT | Hire N8N Developers - N8N developers | n8ndevelopers | [Read More](https://medium.com/p/8431c121431d) |
+| Thu, 27 Nov 2025 04:28:58 GMT | Challenges QA Engineers Face When Entering Cybersecurity | Joseph Kantar | [Read More](https://medium.com/p/e102a19b78b8) |
+| Thu, 27 Nov 2025 04:27:44 GMT | The Soft Trust I’m Learning to Build With Myself Again | Darpan Murly | [Read More](https://medium.com/p/ac86b9300610) |
 | Thu, 27 Nov 2025 04:26:25 GMT | Cost-Effective IVR Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/dcb6f263e7f1) |
+| Thu, 27 Nov 2025 04:25:19 GMT | Discovering the Cybersecurity Matryoshka Doll Megastructure | Jade Seeker | [Read More](https://medium.com/p/c085dc4c1ade) |
 | Thu, 27 Nov 2025 04:07:38 GMT | The Trump Doctrine: Why Political Will Has Done More for U.S. Cybersecurity Than Technical Measures | CCD-IS | [Read More](https://medium.com/p/f9da89b861d6) |
 | Thu, 27 Nov 2025 04:03:41 GMT | The Chaos Sphere: Why Our Global System Feels One Kick Away From Change | Beyond Truth | [Read More](https://medium.com/p/60bbfcfe8a14) |
 | Thu, 27 Nov 2025 03:50:06 GMT | AI Security Research — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a0682e43309e) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 18:01:49 GMT | Anubis: The Info-Stealer So Cheap, it is an Insult to Anubis Himself | Samratthsingh | [Read More](https://medium.com/p/93a452a6c809) |
 | Wed, 26 Nov 2025 18:01:13 GMT | Why Social Engineering Works: The Psychology Behind Cybercrime | Nusrat Zahan Munni | [Read More](https://medium.com/p/d7eee63e5789) |
 | Wed, 26 Nov 2025 17:59:18 GMT | The New Cybersecurity Blind Spot: Why Agentic AI Requires a New Testing Layer | Anh Nguyen - Prompt QA | [Read More](https://medium.com/p/5a7d201637de) |
-| Wed, 26 Nov 2025 17:59:08 GMT | Phishing Email Analysis — Let’s Defend Lab (Full Investigation Report) | Aseel basem badel | [Read More](https://medium.com/p/8741113070c5) |
-| Wed, 26 Nov 2025 17:52:46 GMT | Microsoft’s Agentic AI Needs Stronger Safety Controls | Geoffrey Wenger | [Read More](https://medium.com/p/672c37108713) |
-| Wed, 26 Nov 2025 17:51:23 GMT | A Beginner Friendly Guide to Nmap | Sithum Ranasinghe | [Read More](https://medium.com/p/0a1958dd3de6) |
-| Wed, 26 Nov 2025 17:44:08 GMT | An Ex-Sysadmin’s Guide to RDMA backed storage | Dylan Taft | [Read More](https://medium.com/p/89498816cc02) |
