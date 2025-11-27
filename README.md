@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 22:19:01 GMT | Command Execution in Tor C2 Server — Part 5 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/ccfdad4ba2f0) |
+| Thu, 27 Nov 2025 22:02:28 GMT | Golden Ticket: The Kerberos Attack That Makes You a Domain Controller | Cybersecurity Simplified | [Read More](https://medium.com/p/730e544b8cc2) |
+| Thu, 27 Nov 2025 22:01:14 GMT | Critical Multi-Vector Vulnerabilities in a Streaming Platform’s Confirmation Endpoint | Tyreek Haynes | [Read More](https://medium.com/p/45a033a865a0) |
+| Thu, 27 Nov 2025 21:58:15 GMT | Explaining the Risk: How AI Tools Pose a Threat | IT_Engineer | [Read More](https://medium.com/p/cfd87554a9bc) |
+| Thu, 27 Nov 2025 21:41:28 GMT | Portswigger Authentication vulnerabilities -2 | Songül Kızılay Özügürler | [Read More](https://medium.com/p/5b6834963d11) |
+| Thu, 27 Nov 2025 21:34:42 GMT | Enterprise Security for Startups | Jaswanth Tata | [Read More](https://medium.com/p/985ddf84cce3) |
+| Thu, 27 Nov 2025 21:33:08 GMT | Akira Ransomware Finds Open Doors During Mergers And Acquisitions | Geoffrey Wenger | [Read More](https://medium.com/p/b24ade76fafc) |
 | Thu, 27 Nov 2025 21:17:27 GMT | Epistemology of CyberSec Cert Junkies (Part 2) | Jade Seeker | [Read More](https://medium.com/p/81dfe20ea64a) |
 | Thu, 27 Nov 2025 20:56:46 GMT | Deep Dive into Container Security on Linux Systems | Linux Guide | [Read More](https://medium.com/p/7a68b4169cac) |
 | Thu, 27 Nov 2025 20:41:17 GMT | Simplest minimal K8s app tutorial with KYAML comments & curly braces and Rancher Desktop | Jason Yee | [Read More](https://medium.com/p/0795835202d4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 14:45:53 GMT | Why Cybersecurity Matters Today: A Beginner’s Guide to Staying Safe in the Digital Age | Priyanshi Verma | [Read More](https://medium.com/p/01fd0249f33b) |
 | Thu, 27 Nov 2025 14:45:43 GMT | Why the Directory Is the Core of IAM: The Digital Heartbeat of Every Organization | Sunnysinha | [Read More](https://medium.com/p/fb845bc8e3f1) |
 | Thu, 27 Nov 2025 14:44:32 GMT | Ransomware 2026: Why Businesses Still Fall for the Same Traps | Salman Khan | [Read More](https://medium.com/p/ac3d0dd1fe97) |
-| Thu, 27 Nov 2025 14:38:42 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/400f895801a4) |
-| Thu, 27 Nov 2025 14:37:14 GMT | When your suppliers become your biggest area of vulnerability | Rebecca Cottignies | [Read More](https://medium.com/p/48c27bca247f) |
-| Thu, 27 Nov 2025 14:33:09 GMT | Bridging the Compensation Gap: The Power of Statutory Damages in State Privacy Law | David Miller | [Read More](https://medium.com/p/657457bd4064) |
-| Thu, 27 Nov 2025 14:32:18 GMT | The Dead Are Getting Louder: What Happens to Your Data When You Die? | Artificial Intelligent Explore | [Read More](https://medium.com/p/020896b8dcab) |
-| Thu, 27 Nov 2025 14:32:17 GMT | (Comptia A+) Comprehensive Mobile Security Troubleshooting Guide: Symptoms, Solutions, and Best… | Vignesh R | [Read More](https://medium.com/p/a2b67bfb8dc6) |
-| Thu, 27 Nov 2025 14:31:15 GMT | America and AUKUS Don’t Have a Capability Problem. They Have a Governance Crisis. | AXSAS | [Read More](https://medium.com/p/fe83eb43635d) |
-| Thu, 27 Nov 2025 14:30:24 GMT | MemLabs Lab 2 — A New World Write-up | Busraugur | [Read More](https://medium.com/p/b925c9602fbb) |
