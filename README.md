@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 14:18:42 GMT | THM — Mr Robot CTF — Write-up- Hussein Ibrahim | Hussin Ibrahim | [Read More](https://medium.com/p/0ca80e06ee51) |
+| Thu, 27 Nov 2025 14:13:46 GMT | Cyber Security Readiness for 2026 and Beyond with Smarter Defenses Against AI Deepfakes Quantum… | SJ Innovation | [Read More](https://medium.com/p/8583ce0f7a4f) |
+| Thu, 27 Nov 2025 14:07:59 GMT | Online 6-Week Surgical Tech Program Guide 2026: Fast Beginner | Motherlandlove | [Read More](https://medium.com/p/01b0b5018b15) |
+| Thu, 27 Nov 2025 14:06:02 GMT | 6 Surprising Truths I Uncovered Reverse-Engineering a Home Router | Cyb3rpeter | [Read More](https://medium.com/p/64685f83af03) |
+| Thu, 27 Nov 2025 14:04:12 GMT | The AI Paradox: A New Frontier for Data Breach Litigation | Legal Thoughts | [Read More](https://medium.com/p/3d8f1c8ff385) |
+| Thu, 27 Nov 2025 14:02:18 GMT | EKS Security: Building a Secure Kubernetes Architecture on AWS (A Practical Beginner-Friendly… | Davebhargavi | [Read More](https://medium.com/p/9d4e6c24c578) |
+| Thu, 27 Nov 2025 14:02:16 GMT | The Moment I Almost Shrunk Myself — Again | Evelyn Foreman | [Read More](https://medium.com/p/e8e18801512a) |
+| Thu, 27 Nov 2025 14:02:15 GMT | How to Reset a Garage Door Remote: Quick & Easy Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/9b639427eec9) |
+| Thu, 27 Nov 2025 14:02:11 GMT | Ego-Driven Design: How To Introduce Existential Crisis In Personality-based Agents | Nwosu Rosemary | [Read More](https://medium.com/p/2d4006e37536) |
+| Thu, 27 Nov 2025 14:02:01 GMT | OpenAI Cut Ties With Mixpanel After a Data Breach | Nanthakumar | [Read More](https://medium.com/p/da486498026a) |
+| Thu, 27 Nov 2025 14:00:14 GMT | Exploitation Basic - Blue - THM | Dipen Tank | [Read More](https://medium.com/p/5f6d85cef54f) |
+| Thu, 27 Nov 2025 13:59:42 GMT | Writeups-CTFriends2 - US3R | !US3R | [Read More](https://medium.com/p/ad012ccb7289) |
+| Thu, 27 Nov 2025 13:59:38 GMT | วิธีเปิดใช้ MFA และ SMS บน Amazon Cognito | Vatcharat R. | [Read More](https://medium.com/p/daa68f2e5ef1) |
+| Thu, 27 Nov 2025 13:57:34 GMT | Network Forensics Core Examination Steps: Finding the Incident’s Story in Network Packets | Esra Kayhan | [Read More](https://medium.com/p/103a8d9d80d3) |
+| Thu, 27 Nov 2025 13:53:54 GMT | xss0r Black Friday Special Offer — 50% OFF ALL PLANS! | xss0r | [Read More](https://medium.com/p/ae79eb59b534) |
+| Thu, 27 Nov 2025 13:53:03 GMT | What are Keyloggers? - VIIEGO | Rolando | [Read More](https://medium.com/p/a33734e6b585) |
+| Thu, 27 Nov 2025 13:52:51 GMT | What is Misinformation? - VIIEGO | Rolando | [Read More](https://medium.com/p/b04ab4b644bc) |
+| Thu, 27 Nov 2025 13:52:09 GMT | Why Jailbreak Attacks Are Underreported | Shailendra Kumar | [Read More](https://medium.com/p/91b2906212cd) |
+| Thu, 27 Nov 2025 13:47:16 GMT | Missed Call services provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/3a749fe1a428) |
+| Thu, 27 Nov 2025 13:46:13 GMT | The Strategic Imperative of Cross-Cultural, Security, and Military-Diplomatic Communication between… | ANDREY SPIRIDONOV | [Read More](https://medium.com/p/533b0e0b10ac) |
+| Thu, 27 Nov 2025 13:44:27 GMT | The 10-Tool Quick-Start Nonprofit Tech Stack | Cait Graaf | [Read More](https://medium.com/p/bc1d4fdd63e4) |
+| Thu, 27 Nov 2025 13:27:21 GMT | Prompt Attacks — The No. 1 AI-Native Security Risk | Quy Tang | [Read More](https://medium.com/p/0b5a0315c2e0) |
+| Thu, 27 Nov 2025 13:26:52 GMT | The Fragility of Cloud Infrastructure: Why Did Cloudflare Fail? Why Did We Receive The 5xx Errors? | Yasin Kalli | [Read More](https://medium.com/p/128345663015) |
 | Thu, 27 Nov 2025 13:26:51 GMT | Tech Stack Starter Pack: Right-Sized Systems for Small NPOs | Cait Graaf | [Read More](https://medium.com/p/9edf464f6cf9) |
 | Thu, 27 Nov 2025 13:11:08 GMT | Portswigger : Account locking (Hesap Kilitleme) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e082f1bd842b) |
 | Thu, 27 Nov 2025 13:05:20 GMT | Why Every Organization Needs a Security Operations Center in 2025 | Hachion Trainings | [Read More](https://medium.com/p/dd5b9c4b684a) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 09:54:07 GMT | Why Businesses Choose Laravel for High Performance Web Apps | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/880e0a9e7003) |
 | Thu, 27 Nov 2025 09:53:20 GMT | Beyond Dubai: Mapping the Growth of Telecom Kiosk Machine Adoption Across the GCC | Rakesh | [Read More](https://medium.com/p/1627187a4f79) |
 | Thu, 27 Nov 2025 09:52:36 GMT | The ROI of Cybersecurity: How Security Spending Actually Saves Money | Digital Defense | [Read More](https://medium.com/p/327ff389e765) |
-| Thu, 27 Nov 2025 09:52:07 GMT | The Day-1 Server Security Checklist: Building the Perimeter on Linux and FreeBSD | Vitaliy Zhhuta | [Read More](https://medium.com/p/fdcbd97069ff) |
-| Thu, 27 Nov 2025 09:48:43 GMT | Why Professional Security Guard Services Are Essential for Businesses and Communities in India | Ciss India | [Read More](https://medium.com/p/10c68d1a1341) |
-| Thu, 27 Nov 2025 09:40:33 GMT | Introducing Stealth Prompt: My AI Pentesting Tool for Breaking AI Agents Through the Browser | Andrew Kutuzov | [Read More](https://medium.com/p/1cff4b31ff58) |
-| Thu, 27 Nov 2025 09:31:14 GMT | Started my Cyber Security journey yesterday on Google courses | Blackrezzz | [Read More](https://medium.com/p/01a985b29477) |
-| Thu, 27 Nov 2025 09:27:00 GMT | Easy Splunk: Correlations | Antonella Blasetti | [Read More](https://medium.com/p/ebb728cce91e) |
-| Thu, 27 Nov 2025 09:10:46 GMT | London Under Digital Siege: Lessons From a Multi-Borough Cyber Meltdown | Redfox Security | [Read More](https://medium.com/p/2fb1b5fc1024) |
-| Thu, 27 Nov 2025 09:09:55 GMT | The Fundamentals of API Security and Why it Matters | Peace Dennis | [Read More](https://medium.com/p/62a9c65b833c) |
-| Thu, 27 Nov 2025 09:09:30 GMT | Cybersecurity #17: SQL Injection | mohandika | [Read More](https://medium.com/p/db489f21c342) |
-| Thu, 27 Nov 2025 09:09:23 GMT | DockerLabs Writeup — WinFake (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ea2ea7960cb2) |
-| Thu, 27 Nov 2025 09:08:44 GMT | WGU Cybersecurity Master’s Degree Roadmap: My 3-Term Journey | Irene A. Gil | [Read More](https://medium.com/p/f19b218572cc) |
-| Thu, 27 Nov 2025 09:07:55 GMT | The Automated Witch Hunt: When Digital Sleuthing Goes Off the Rails | Rabail Zaheer | [Read More](https://medium.com/p/07f379f53279) |
-| Thu, 27 Nov 2025 09:06:55 GMT | Firewalls Aren’t Dead — They’re Smarter Than Ever | Lanvaus | [Read More](https://medium.com/p/b77bd6fc5631) |
-| Thu, 27 Nov 2025 09:02:55 GMT | Brand Protection | itbutler0077 | [Read More](https://medium.com/p/baaf9192af49) |
-| Thu, 27 Nov 2025 09:02:10 GMT | Your Vendor List Is Probably Already in Stealer Logs: Run a 10 Minute LeakRadar Audit | Alexandre Vandamme | [Read More](https://medium.com/p/4b9d3df0d7de) |
-| Thu, 27 Nov 2025 09:01:38 GMT | How to Block Adult Content on Google Chrome: The Complete, Multi-Layered Guide (2025) | shawn anwar | [Read More](https://medium.com/p/06fbdc9ce611) |
-| Thu, 27 Nov 2025 08:59:08 GMT | Holiday Cybercrime Surge — Top Tips to Avoid Being a Victim | Matthew.Rosenquist | [Read More](https://medium.com/p/b3ffb63d22a1) |
-| Thu, 27 Nov 2025 08:57:06 GMT | How I choose cybersecurity?And why? | A Mohammed innamul gani | [Read More](https://medium.com/p/484f1ad05139) |
-| Thu, 27 Nov 2025 08:51:58 GMT | DUCAT INDIA-Best digital marketing institute in noida | Amitpandey | [Read More](https://medium.com/p/070d876edf82) |
-| Thu, 27 Nov 2025 08:51:46 GMT | Best Ethical Hacking Training in Noida — Ducat India | Akshita Kholiyal | [Read More](https://medium.com/p/285f5bb3014a) |
-| Thu, 27 Nov 2025 08:51:36 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vanshika | [Read More](https://medium.com/p/98e815680d0d) |
-| Thu, 27 Nov 2025 08:51:11 GMT | Best Ethical Hacking Training in Noida - Ducat India | Preeti Singh | [Read More](https://medium.com/p/9d5095e10cd2) |
-| Thu, 27 Nov 2025 08:51:08 GMT | Best Ethical Hacking Training in Noida - Ducat India | Kumari Roshani | [Read More](https://medium.com/p/a9dc8180d178) |
-| Thu, 27 Nov 2025 08:51:06 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vipinkumaraut | [Read More](https://medium.com/p/32d24a438200) |
