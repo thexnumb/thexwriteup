@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 09:10:46 GMT | London Under Digital Siege: Lessons From a Multi-Borough Cyber Meltdown | Redfox Security | [Read More](https://medium.com/p/2fb1b5fc1024) |
+| Thu, 27 Nov 2025 09:09:55 GMT | The Fundamentals of API Security and Why it Matters | Peace Dennis | [Read More](https://medium.com/p/62a9c65b833c) |
+| Thu, 27 Nov 2025 09:09:30 GMT | Cybersecurity #17: SQL Injection | mohandika | [Read More](https://medium.com/p/db489f21c342) |
+| Thu, 27 Nov 2025 09:09:23 GMT | DockerLabs Writeup — WinFake (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ea2ea7960cb2) |
+| Thu, 27 Nov 2025 09:08:44 GMT | WGU Cybersecurity Master’s Degree Roadmap: My 3-Term Journey | Irene A. Gil | [Read More](https://medium.com/p/f19b218572cc) |
+| Thu, 27 Nov 2025 09:07:55 GMT | The Automated Witch Hunt: When Digital Sleuthing Goes Off the Rails | Rabail Zaheer | [Read More](https://medium.com/p/07f379f53279) |
+| Thu, 27 Nov 2025 09:06:55 GMT | Firewalls Aren’t Dead — They’re Smarter Than Ever | Lanvaus | [Read More](https://medium.com/p/b77bd6fc5631) |
+| Thu, 27 Nov 2025 09:02:55 GMT | Brand Protection | itbutler0077 | [Read More](https://medium.com/p/baaf9192af49) |
+| Thu, 27 Nov 2025 09:02:10 GMT | Your Vendor List Is Probably Already in Stealer Logs: Run a 10 Minute LeakRadar Audit | Alexandre Vandamme | [Read More](https://medium.com/p/4b9d3df0d7de) |
+| Thu, 27 Nov 2025 09:01:38 GMT | How to Block Adult Content on Google Chrome: The Complete, Multi-Layered Guide (2025) | shawn anwar | [Read More](https://medium.com/p/06fbdc9ce611) |
+| Thu, 27 Nov 2025 08:59:08 GMT | Holiday Cybercrime Surge — Top Tips to Avoid Being a Victim | Matthew.Rosenquist | [Read More](https://medium.com/p/b3ffb63d22a1) |
+| Thu, 27 Nov 2025 08:57:06 GMT | How I choose cybersecurity?And why? | A Mohammed innamul gani | [Read More](https://medium.com/p/484f1ad05139) |
+| Thu, 27 Nov 2025 08:51:58 GMT | DUCAT INDIA-Best digital marketing institute in noida | Amitpandey | [Read More](https://medium.com/p/070d876edf82) |
+| Thu, 27 Nov 2025 08:51:46 GMT | Best Ethical Hacking Training in Noida — Ducat India | Akshita Kholiyal | [Read More](https://medium.com/p/285f5bb3014a) |
+| Thu, 27 Nov 2025 08:51:36 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vanshika | [Read More](https://medium.com/p/98e815680d0d) |
+| Thu, 27 Nov 2025 08:51:11 GMT | Best Ethical Hacking Training in Noida - Ducat India | Preeti Singh | [Read More](https://medium.com/p/9d5095e10cd2) |
+| Thu, 27 Nov 2025 08:51:08 GMT | Best Ethical Hacking Training in Noida - Ducat India | Kumari Roshani | [Read More](https://medium.com/p/a9dc8180d178) |
+| Thu, 27 Nov 2025 08:51:06 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vipinkumaraut | [Read More](https://medium.com/p/32d24a438200) |
+| Thu, 27 Nov 2025 08:51:03 GMT | Best Ethical Hacking Training in Noida - Ducat India | Krishnag | [Read More](https://medium.com/p/f7a60ca12ce9) |
+| Thu, 27 Nov 2025 08:50:59 GMT | Best Ethical Hacking Training in Noida - Ducat India | 2pmDucat Batch | [Read More](https://medium.com/p/7308d610f40d) |
+| Thu, 27 Nov 2025 08:49:56 GMT | Writing with AI: Boundaries That Protect a Personal Voice | Heri Saputra | [Read More](https://medium.com/p/32016fec5a87) |
+| Thu, 27 Nov 2025 08:49:03 GMT | OpenAI Platform Üzerinden Veri Sızdırıldı | Osman Koc | [Read More](https://medium.com/p/b94b0ebe21ba) |
+| Thu, 27 Nov 2025 08:47:47 GMT | Fixing Security Starts With Protecting the People Who Protect Us | Bayo Orebiyi | [Read More](https://medium.com/p/bb127ad6d22f) |
 | Thu, 27 Nov 2025 08:19:06 GMT | :     … | Cyber Toddler | [Read More](https://medium.com/p/3db2e47724b0) |
 | Thu, 27 Nov 2025 08:14:19 GMT | ️ Critical Flaw: The “Secret Instruction” Hack in Django ORM (CVE-2025–64459) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/2dfc899a165d) |
 | Thu, 27 Nov 2025 08:12:52 GMT | API Security Fundamentals: Why It Matters | Memory Mahanya | [Read More](https://medium.com/p/e56debd81c60) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 02:32:31 GMT | FastAPI + Policy Engines (OPA/CEL): LLM Function Calls with Guarded Execution | Codastra | [Read More](https://medium.com/p/a5632d8405c7) |
 | Thu, 27 Nov 2025 02:29:24 GMT | The Origin of the Saltine Hacker | Travis Ray Caverhill | [Read More](https://medium.com/p/9b79facfc2e7) |
 | Thu, 27 Nov 2025 02:29:11 GMT | The Bug That Took Me 2 Days… and the Fix That Took 2 Minutes | Somendradev | [Read More](https://medium.com/p/81bb700d4834) |
-| Thu, 27 Nov 2025 02:17:04 GMT | [OpenAI] GPT-5.1-Codex-Max 시스템 카드 심층 분석: 에이전트 코딩 모델의 안전성과 미래 | YouShin kim | [Read More](https://medium.com/p/8a4627d312df) |
-| Thu, 27 Nov 2025 02:12:23 GMT | I’m convinced most fertility fears | Adeel Defne | [Read More](https://medium.com/p/1d56f4920785) |
-| Thu, 27 Nov 2025 02:02:09 GMT | The Windows When Your Mind Opens Wide | Eric Buesing | [Read More](https://medium.com/p/3b9fde101505) |
-| Thu, 27 Nov 2025 02:01:01 GMT | How I do Recon on my target.com which gave me walkthrough to the bugbounty | Shakthi | [Read More](https://medium.com/p/880c07c3f07d) |
-| Thu, 27 Nov 2025 02:00:27 GMT | Snyk Log Sniffer: AI-Powered Audit Log Insights for Security Leaders | Snyk | [Read More](https://medium.com/p/4213efe5fc97) |
-| Thu, 27 Nov 2025 01:51:44 GMT | Analisis Text Pada Medsos | Fchriyan | [Read More](https://medium.com/p/59aeb9645332) |
-| Thu, 27 Nov 2025 01:44:24 GMT | Cybersecurity Homelab Setup (Using a Single Desktop) | Johnny Meintel | [Read More](https://medium.com/p/d55399b8b1dd) |
-| Thu, 27 Nov 2025 01:24:49 GMT | Kali Linux: First Steps and Must-Have Tweaks | Aj | [Read More](https://medium.com/p/56bd26be8367) |
-| Thu, 27 Nov 2025 01:24:37 GMT | How I Used Ligolo-ng to Pivot into Internal Networks During OSCP Labs | Got Root? | [Read More](https://medium.com/p/fdfed42c9723) |
-| Thu, 27 Nov 2025 01:18:53 GMT | Fortinet FortiWeb Zero-Day (CVE-2025–64446): Risk Assessment and Defense Strategies | Criminal IP | [Read More](https://medium.com/p/3cd4535ac4bb) |
-| Thu, 27 Nov 2025 01:18:32 GMT | My favorite Linux Command #4 — curl | Balazs Kocsis | [Read More](https://medium.com/p/9580896c5c5d) |
-| Thu, 27 Nov 2025 01:05:18 GMT | JWT Privilege Escalation to Container RCE via Jinja2 SSTI “ Intigriti challenge” | Adham Heinrich | [Read More](https://medium.com/p/16186324241c) |
-| Thu, 27 Nov 2025 01:02:09 GMT | Hunting Through the Gaps: Multi-Source Correlation — Part 2B | Raynard Waits | [Read More](https://medium.com/p/27cc8b720a00) |
-| Thu, 27 Nov 2025 00:44:07 GMT | GraphicalProton.exe A Stealthy Stager Malware | MalwareDoctor | [Read More](https://medium.com/p/f3a32e9bbe25) |
-| Thu, 27 Nov 2025 00:32:11 GMT | HackTheBox DCSync: When Your User Account Thinks It’s a Domain Controller | Cybersecurity Simplified | [Read More](https://medium.com/p/1dec80a5c982) |
-| Thu, 27 Nov 2025 00:26:59 GMT | Between the Wires: A Practical Breakdown of Modern MITM (Man in the Middle) Attacks | Travis Ray Caverhill | [Read More](https://medium.com/p/3e820973ffb0) |
-| Thu, 27 Nov 2025 00:05:05 GMT | Danger in Disguise: Discovering the Secret Attack Inside Your Photos and Documents | AgathaTaiwo | [Read More](https://medium.com/p/7b8d323bacb4) |
-| Thu, 27 Nov 2025 00:03:50 GMT | AI Coding Assistants and the New Supply-Chain Problem: Why Only 1 in 5 Dependencies Are Safe | Technical Life | [Read More](https://medium.com/p/70a1d2b1dea4) |
-| Wed, 26 Nov 2025 23:37:58 GMT | Implementing a Security Filter Chain in Express | Antoine TSINGA | [Read More](https://medium.com/p/eeaeb8c210a5) |
-| Wed, 26 Nov 2025 23:30:22 GMT | Building a Detection Lab: Active Directory, Splunk, and Kali Linux | tdashadow | [Read More](https://medium.com/p/c7ceec77322c) |
-| Wed, 26 Nov 2025 23:20:10 GMT | How to Fix Wireshark Errors on Linux (The Complete Guide) | ghostyjoe | [Read More](https://medium.com/p/7ea25af0305d) |
-| Wed, 26 Nov 2025 23:18:47 GMT | Softening to Loss | David B. Younger, Ph.D | [Read More](https://medium.com/p/2114ff742833) |
-| Wed, 26 Nov 2025 23:15:47 GMT | Italy’s Elite Duped By A Billion‑Euro AI Ruse | O. J. Okpabi | [Read More](https://medium.com/p/ee31b5cf4c6a) |
