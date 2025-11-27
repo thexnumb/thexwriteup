@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 06:26:33 GMT | Planning IVR Modernisation: When to Redesign vs. Optimise | TestFyra | [Read More](https://medium.com/p/d336dbabbeca) |
+| Thu, 27 Nov 2025 06:22:28 GMT | A WONDERFUL EXPERIENCE WITH LOST CRYPTO RETRIEVEMENT! | Debbiewellman | [Read More](https://medium.com/p/d74e4de98224) |
+| Thu, 27 Nov 2025 06:20:57 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/8811ce8e7768) |
+| Thu, 27 Nov 2025 06:20:05 GMT | RhinoMap AI Tool Review – Best Free GEOINT Mapping Tool (Full guide) | RockShiv Techie | [Read More](https://medium.com/p/2dd412d9cd49) |
+| Thu, 27 Nov 2025 06:13:08 GMT | Team invitations can be accepted and full accounts created by admin(attacker) without invitee user… | Buvaneshvaran K | [Read More](https://medium.com/p/8901be8426ba) |
+| Thu, 27 Nov 2025 05:58:58 GMT | TLS: The Silent Bodyguard of the Internet — Why We Need It, How It Works, and How It Runs Over TCP… | Jothiprakash | [Read More](https://medium.com/p/d723ca064ef1) |
+| Thu, 27 Nov 2025 05:56:20 GMT | Powerful IT Support Services for Dee Why Firms | Any network | [Read More](https://medium.com/p/14fe09c142ed) |
+| Thu, 27 Nov 2025 05:46:00 GMT | The Vigilion Framework | Vigilion | [Read More](https://medium.com/p/c77863509a1e) |
 | Thu, 27 Nov 2025 05:34:46 GMT | Top 10 Firewall Protection Gaps Every Business Must Fix Right Now | Lisa Loyal | [Read More](https://medium.com/p/bd2c1fba6ac6) |
 | Thu, 27 Nov 2025 05:21:43 GMT | The Daily Tech Digest: 27 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c48d224e4aa5) |
 | Thu, 27 Nov 2025 05:21:09 GMT | Neural Network Models for Predictive Cyber Risk Estimation | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/deb247935e10) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 19:39:07 GMT | Staying Private in Crypto & Web3: Simple, Practical Tips That Actually Work | Officer's Notes | [Read More](https://medium.com/p/08ec1cfbb1f0) |
 | Wed, 26 Nov 2025 19:37:46 GMT | You should stop using Kali | Geexirooz | [Read More](https://medium.com/p/c797f3c7e326) |
 | Wed, 26 Nov 2025 19:35:42 GMT | Bölüm 1: Buluttan Eve Uzanan Bir Altyapı Yolculuğu | Yunus Kızılay | [Read More](https://medium.com/p/00b4ee22e751) |
-| Wed, 26 Nov 2025 19:28:08 GMT | A Very Unexpected Lesson From a Very Hot Man | Mashav Shelef | [Read More](https://medium.com/p/5404d90005e2) |
-| Wed, 26 Nov 2025 19:26:19 GMT | Data Encryption in Cloud: Understanding KMS, HSM, TLS & At-Rest Security | Adityapalve | [Read More](https://medium.com/p/64900dad9786) |
-| Wed, 26 Nov 2025 19:26:02 GMT | México todavía no tiene una ciberseguridad fuerte. | Adrian León | [Read More](https://medium.com/p/a8dc38ac4554) |
-| Wed, 26 Nov 2025 19:13:50 GMT | OffSec PG: Hutch (Active Directory, Intermediate) | G3XAR | [Read More](https://medium.com/p/5b51e4fb1a0d) |
-| Wed, 26 Nov 2025 19:12:11 GMT | Comprehensive Cross Site Scripting Assessment From Reflective Payloads to Persistent Exploits and… | Kiza | [Read More](https://medium.com/p/db48c8d88b8a) |
-| Wed, 26 Nov 2025 19:07:45 GMT | Akshit Rai  - a book by Shalini Singh | Subhash thakur | [Read More](https://medium.com/p/e63f7520690e) |
-| Wed, 26 Nov 2025 19:03:12 GMT | HACKERS TRIED USING BLENDER BUT FORGOT ITS NOT A FOOD PROCESSOR…! | Mohith Krishna K | [Read More](https://medium.com/p/146df9128754) |
-| Wed, 26 Nov 2025 19:00:57 GMT | Your Digital Footprint Is Bigger Than You Think | INTELON | [Read More](https://medium.com/p/cbae1a15eef5) |
