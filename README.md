@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 20:35:48 GMT | Who are Harfuch allies? | Danielblanco | [Read More](https://medium.com/p/5f5eebb23218) |
+| Thu, 27 Nov 2025 20:27:47 GMT | Find Real Bugs by Simply Reading JavaScript Files | Monika sharma | [Read More](https://medium.com/p/bdd4f825081b) |
+| Thu, 27 Nov 2025 20:27:34 GMT | Cybersecurity on the Rise in Saudi Arabia | Abdullah Mohammed Mushtaq | [Read More](https://medium.com/p/489288749e71) |
+| Thu, 27 Nov 2025 20:18:21 GMT | Using More Than 10% of My Brain: My 2-Year Journey into Cloud Engineering, Ethical Hacking, and… | Ugosam | [Read More](https://medium.com/p/5bdb585b6b86) |
+| Thu, 27 Nov 2025 20:15:55 GMT | The Unseen War in the Digital Shadows | Vaultnet Defense | [Read More](https://medium.com/p/41c5b9d6c294) |
+| Thu, 27 Nov 2025 20:14:24 GMT | The New Android Trojan That Reads Your Encrypted Chats… And Quietly Takes Over Your Entire Phone | Muhammad Hassan Ali | [Read More](https://medium.com/p/000daeb8c672) |
 | Thu, 27 Nov 2025 20:06:11 GMT | Tips for Protecting Yourself This Holiday Season | Joshua Wardak | [Read More](https://medium.com/p/d0d235487d36) |
 | Thu, 27 Nov 2025 20:05:21 GMT | DIGIT Expo 2025 — Edinburgh: AI Reality Checks, Team Culture Wins, and the Quantum Threat | Steve Anderson | [Read More](https://medium.com/p/e5be46707b0f) |
 | Thu, 27 Nov 2025 19:55:02 GMT | Building a Virtual SOC Lab: Deploying Wazuh SIEM on Docker | Eyupcan Isikgor | [Read More](https://medium.com/p/00629b57ed20) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 14:11:54 GMT | Chat History Poisoning in LLM Applications: Persistent Prompt Injection via Untrusted JSON Context | Serhat ÇİÇEK | [Read More](https://medium.com/p/c485e4842394) |
 | Thu, 27 Nov 2025 14:07:59 GMT | Online 6-Week Surgical Tech Program Guide 2026: Fast Beginner | Motherlandlove | [Read More](https://medium.com/p/01b0b5018b15) |
 | Thu, 27 Nov 2025 14:06:02 GMT | 6 Surprising Truths I Uncovered Reverse-Engineering a Home Router | Cyb3rpeter | [Read More](https://medium.com/p/64685f83af03) |
-| Thu, 27 Nov 2025 14:04:12 GMT | The AI Paradox: A New Frontier for Data Breach Litigation | Legal Thoughts | [Read More](https://medium.com/p/3d8f1c8ff385) |
-| Thu, 27 Nov 2025 14:02:18 GMT | EKS Security: Building a Secure Kubernetes Architecture on AWS (A Practical Beginner-Friendly… | Davebhargavi | [Read More](https://medium.com/p/9d4e6c24c578) |
-| Thu, 27 Nov 2025 14:02:16 GMT | The Moment I Almost Shrunk Myself — Again | Evelyn Foreman | [Read More](https://medium.com/p/e8e18801512a) |
-| Thu, 27 Nov 2025 14:02:15 GMT | How to Reset a Garage Door Remote: Quick & Easy Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/9b639427eec9) |
-| Thu, 27 Nov 2025 14:02:11 GMT | Ego-Driven Design: How To Introduce Existential Crisis In Personality-based Agents | Nwosu Rosemary | [Read More](https://medium.com/p/2d4006e37536) |
-| Thu, 27 Nov 2025 14:02:01 GMT | OpenAI Cut Ties With Mixpanel After a Data Breach | Nanthakumar | [Read More](https://medium.com/p/da486498026a) |
