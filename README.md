@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 27 Nov 2025 08:19:06 GMT | :     … | Cyber Toddler | [Read More](https://medium.com/p/3db2e47724b0) |
+| Thu, 27 Nov 2025 08:14:19 GMT | ️ Critical Flaw: The “Secret Instruction” Hack in Django ORM (CVE-2025–64459) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/2dfc899a165d) |
+| Thu, 27 Nov 2025 08:12:52 GMT | API Security Fundamentals: Why It Matters | Memory Mahanya | [Read More](https://medium.com/p/e56debd81c60) |
+| Thu, 27 Nov 2025 08:07:52 GMT | No Prompts, No Passwords, Still A Problem: What The OpenAI Mixpanel Incident Really Exposed | Namish Saxena | [Read More](https://medium.com/p/9572f603d5bb) |
+| Thu, 27 Nov 2025 08:03:50 GMT | Building FE Applications That Protects Your Users Against Social Engineering | Sandra Dobric | [Read More](https://medium.com/p/9473d13a424a) |
+| Thu, 27 Nov 2025 08:02:18 GMT | (THM) Search Skills | Kody | [Read More](https://medium.com/p/160627f278c2) |
+| Thu, 27 Nov 2025 08:02:06 GMT | Case Study: Inside the Phantom Stealer Incident at Northbridge Financial Services | Augustine Sito | [Read More](https://medium.com/p/256af4a82b5f) |
+| Thu, 27 Nov 2025 07:55:44 GMT | The Anatomy of a Cyber Security Attack: Trends, Threats & The Future of Global Digital Defense… | Surya Kumar | [Read More](https://medium.com/p/c4a208f4b286) |
+| Thu, 27 Nov 2025 07:53:57 GMT | How to Install & Set Up Proton Authenticator on Kali Linux (Full Guide) | ghostyjoe | [Read More](https://medium.com/p/615492187af4) |
+| Thu, 27 Nov 2025 07:51:33 GMT | Secret Tricks to Get High Bounty - Part–1 | Abhijeet kumawat | [Read More](https://medium.com/p/b36da743d25b) |
 | Thu, 27 Nov 2025 07:37:24 GMT | Pentest → Incident Response: 10 Tools That Saved the Day (and How to Use Them) | Very Lazy Tech | [Read More](https://medium.com/p/ebcef94dbb7e) |
 | Thu, 27 Nov 2025 07:32:04 GMT | 12 Security Defaults Every Node App Needs | Syntal | [Read More](https://medium.com/p/849eb3c4c107) |
 | Thu, 27 Nov 2025 07:23:28 GMT | Security is Not an Event: Why Nigeria Must Shift from Reaction to Strategic Culture. | Confidence Amaseseibi | [Read More](https://medium.com/p/4d69f736a829) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 26 Nov 2025 23:20:10 GMT | How to Fix Wireshark Errors on Linux (The Complete Guide) | ghostyjoe | [Read More](https://medium.com/p/7ea25af0305d) |
 | Wed, 26 Nov 2025 23:18:47 GMT | Softening to Loss | David B. Younger, Ph.D | [Read More](https://medium.com/p/2114ff742833) |
 | Wed, 26 Nov 2025 23:15:47 GMT | Italy’s Elite Duped By A Billion‑Euro AI Ruse | O. J. Okpabi | [Read More](https://medium.com/p/ee31b5cf4c6a) |
-| Wed, 26 Nov 2025 23:14:26 GMT | How to Pick the Right Bug Bounty Target | Appsec.pt | [Read More](https://medium.com/p/98f900033bfa) |
-| Wed, 26 Nov 2025 23:01:21 GMT | I Miss the Version of Me I Was Before Life Got Heavy | Breezy Maren | [Read More](https://medium.com/p/22b7151533df) |
-| Wed, 26 Nov 2025 23:00:44 GMT | Good morning dear USA. | Redartdit | [Read More](https://medium.com/p/b50133a20c68) |
-| Wed, 26 Nov 2025 22:48:10 GMT | Congress Wants Answers on AI Attacks. We Have a Framework. | AstraSync AI | [Read More](https://medium.com/p/ecae0f150735) |
-| Wed, 26 Nov 2025 22:45:26 GMT | Ransomware attacks targeting SAP systems are increasing worldwide, and SAP landscapes are uniquely… | José López | [Read More](https://medium.com/p/e4b85915d0a5) |
-| Wed, 26 Nov 2025 22:40:48 GMT | Deploy Self-Hosted WAF for your Homelab and Web Applications using SafeLine. | Pwndec0c0 | [Read More](https://medium.com/p/42979d364cb4) |
-| Wed, 26 Nov 2025 22:40:41 GMT | The Smarter Way to Manage 2,000+ Endpoints Without Overwhelming Your Team | Ron | [Read More](https://medium.com/p/c89b31b79d2f) |
-| Wed, 26 Nov 2025 22:40:01 GMT | THE BUS CALLED NIGERIA | Eru John | [Read More](https://medium.com/p/f86297e7e24f) |
-| Wed, 26 Nov 2025 21:52:26 GMT | How I Discovered an IDOR Vulnerability in a Parent/Child Management API | Umanhonlen Gabriel | [Read More](https://medium.com/p/445c9471d23b) |
-| Wed, 26 Nov 2025 21:45:06 GMT | جهت هماهنگی تلگرام یا واتساپ 09915528413پیام بدهید،ویا باشماره(09364608280)تماس بگیرید
-صیغه کرج… | مهدی رضایی | [Read More](https://medium.com/p/6d875e061894) |
