@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 21:32:34 GMT | The Third-Party Breach Epidemic: When vendors become the largest vulnerability | Nikitha Srinivasan | [Read More](https://medium.com/p/2dda1bc03f8b) |
+| Fri, 28 Nov 2025 21:30:52 GMT | How to Avoid Common Dockerfile Mistakes? Mistakes that costed me time and money … | BecomeDevops | [Read More](https://medium.com/p/9f7c63e46f27) |
+| Fri, 28 Nov 2025 21:25:18 GMT | The Mixpanel Security Incident Reminds Us How Fragile Digital Trust Really Is | Joseph N. Aburu | [Read More](https://medium.com/p/65983ff22b9a) |
+| Fri, 28 Nov 2025 21:16:06 GMT | CPU Sockets, Cores, and Threads: The Guide I Wish Someone Had Given Me When I Started Using Virtual… | Mbcyberworks | [Read More](https://medium.com/p/5d2df3f56298) |
 | Fri, 28 Nov 2025 20:58:41 GMT | Epistemology of CyberSec Cert Junkies (Part 3) | Jade Seeker | [Read More](https://medium.com/p/e8091feb0e9e) |
 | Fri, 28 Nov 2025 20:54:53 GMT | How Belarus Appears as Ally of Myanmar Junta | Rubaiyat Rahman | [Read More](https://medium.com/p/05ee3ef7a148) |
 | Fri, 28 Nov 2025 20:29:59 GMT | Beyond Encryption: How VPNs Can Stop Metadata Leakage Without Sacrificing Speed | Voidly | [Read More](https://medium.com/p/4d3c01683030) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 13:37:08 GMT | How to Prevent Magisk Root Hiding and Security Bypass | Talsec | [Read More](https://medium.com/p/350271202150) |
 | Fri, 28 Nov 2025 13:30:48 GMT | [Control-Chaos] Heart Broken | Мартин. | [Read More](https://medium.com/p/38c156c48f91) |
 | Fri, 28 Nov 2025 13:30:40 GMT | How Machine Learning Detects Unusual File Modifications on Your System | Myth | [Read More](https://medium.com/p/7e1d1d45021e) |
-| Fri, 28 Nov 2025 13:29:45 GMT | HOW TO INSTALL SPLUNK ON UBUNTU | JahdiSec | [Read More](https://medium.com/p/a7950da7d10e) |
-| Fri, 28 Nov 2025 13:27:17 GMT | Lab 1: Web cache poisoning with an unkeyed header | L4V4NY4  AGR3 | [Read More](https://medium.com/p/c4503d01bee4) |
-| Fri, 28 Nov 2025 13:23:47 GMT | Right CCTV Lens Selection: A Full Manual to Security, Surveillance, & Advanced Imaging | Shivani | [Read More](https://medium.com/p/aa05f9f95b58) |
-| Fri, 28 Nov 2025 13:22:12 GMT | A Simple Habit to Protect Your Time, Sanity, and Cybersecurity | Jason Mashak | [Read More](https://medium.com/p/a410bb5d1edd) |
