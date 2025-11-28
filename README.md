@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 16:31:06 GMT | Botnets Unmasked: How GreyNoise Detects Hidden Threats Across the Internet. | eL Njas!™ | [Read More](https://medium.com/p/0e27105dac84) |
+| Fri, 28 Nov 2025 16:26:02 GMT | The Ultimate Guide to Starting a Cybersecurity GRC Career in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/5249d1a96750) |
+| Fri, 28 Nov 2025 16:23:50 GMT | Windows 11 Wants AI Apps Inside Your File Explorer. Here’s Why That Should Worry You | The Atomic Architect | [Read More](https://medium.com/p/86a4472048bd) |
 | Fri, 28 Nov 2025 16:19:22 GMT | แชร์ประสบการณ์และการเตรียมตัวสอบ OSCP+ ครั้งแรก 2025 | Clumsy | [Read More](https://medium.com/p/146f51ee7964) |
 | Fri, 28 Nov 2025 16:13:33 GMT | Insubordination of the People’s Liberation Army During the Tiananmen Square Demonstrations | 永熙 | [Read More](https://medium.com/p/09674b3f932a) |
 | Fri, 28 Nov 2025 16:10:01 GMT | Next-Generation Firewall Strategies for Smarter, Safer Enterprise Networks | ANSI Technologies | [Read More](https://medium.com/p/238846ad67bc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 10:21:05 GMT | Pentesters Love Misordered Firewall Rules: How Stateful Accept Breaks Port Whitelists | robbie | [Read More](https://medium.com/p/f36e21ed889b) |
 | Fri, 28 Nov 2025 10:20:57 GMT | What is Field Force Management Software in India? - Field Tracking App | Samvaskaran | [Read More](https://medium.com/p/e17aad787b0f) |
 | Fri, 28 Nov 2025 10:17:23 GMT | Is Your AI Watching You More Than You Think | Czarif | [Read More](https://medium.com/p/d8ed2457145a) |
-| Fri, 28 Nov 2025 10:15:49 GMT | Military Keynesianism | Dylan Evans | [Read More](https://medium.com/p/fb08e49852d2) |
-| Fri, 28 Nov 2025 10:12:16 GMT | Why 95% of Bug Bounty Hunters Quit (And How the 5% Actually Make Money) | BugHunter’s Journal | [Read More](https://medium.com/p/730863b854d5) |
-| Fri, 28 Nov 2025 10:10:24 GMT | Bluetooth Keeps Disconnecting? 9 Proven Fixes That Actually Work | Bryan Collins | [Read More](https://medium.com/p/2e8a86633b49) |
