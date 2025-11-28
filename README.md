@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 11:30:27 GMT | BEHIND THE BREACH: A Live Conversation with Jon DiMaggio | Elizabeth Ekedoro | [Read More](https://medium.com/p/351765d9de7d) |
+| Fri, 28 Nov 2025 11:27:21 GMT | Surface Exposure Level Calculation: A Mathematical Framework for True Security Assessment | Tomio Kobayashi | [Read More](https://medium.com/p/4447f66c2ee0) |
+| Fri, 28 Nov 2025 11:19:44 GMT | Difficulties I Faced to Crack My Interview in IT — And How I Finally Overcame Them | JetkingChandigarh | [Read More](https://medium.com/p/d4d4b1c1c5a8) |
+| Fri, 28 Nov 2025 11:19:08 GMT | Struggling With PC Threats? Choose the Best Antivirus for Windows | SiyanoAV | [Read More](https://medium.com/p/7edae959362e) |
+| Fri, 28 Nov 2025 11:17:28 GMT | 48-Hour Contractor Onboarding at Scale — The Exact SailPoint + Okta Workflow We Run in Production | Awadyafai | [Read More](https://medium.com/p/984bf09edd59) |
 | Fri, 28 Nov 2025 11:08:05 GMT | Your Security, Our Priority: Why Managed VPS Hosting Is Worth Every Penny? | Ann Taylor | [Read More](https://medium.com/p/73ea44331fb7) |
 | Fri, 28 Nov 2025 11:07:33 GMT | Rotating Elastic Cloud Credentials Across Distributed Infrastructure: A Zero-Downtime Approach | Ludovic Bondon | [Read More](https://medium.com/p/5fcc9b66ec8b) |
 | Fri, 28 Nov 2025 11:05:13 GMT | ExploitPad v2: A Practical Upgrade for Web App Testing | Sle3pyHead ‍ | [Read More](https://medium.com/p/39b75f13c269) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 05:30:41 GMT | The Invisible Layer of Web3: Why Transaction Simulation Matters | Aditya | [Read More](https://medium.com/p/08abdfd257a9) |
 | Fri, 28 Nov 2025 05:22:12 GMT | Phishing Simulation Success: How Cybersecurity Awareness Training Saves Organisations from Data… | Sentry Cyber | [Read More](https://medium.com/p/d2c83430a793) |
 | Fri, 28 Nov 2025 05:16:22 GMT | When to Reinstall Windows for Best Performance: Complete Guide for Everyday Users | Ask IT Support | [Read More](https://medium.com/p/4f4f2a521fe1) |
-| Fri, 28 Nov 2025 05:05:51 GMT | Five Years of JSONFormatter & CodeBeautify Leaks Expose Thousands of Passwords, Cloud Keys, and… | Hafiz Shamnad | [Read More](https://medium.com/p/f178f2c0d57f) |
-| Fri, 28 Nov 2025 04:56:53 GMT | EPISODE 4, The Rise of Vulnerability in Our Society | Prof Akaro | [Read More](https://medium.com/p/06b179d378f5) |
-| Fri, 28 Nov 2025 04:55:46 GMT | ประจำวันศุกร์ที่ 28 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1b5db59bce43) |
-| Fri, 28 Nov 2025 04:45:23 GMT | How to Convert a Concrete5 Website to WordPress (Easy & Secure Methods) | Chris | [Read More](https://medium.com/p/8306bbc7b401) |
-| Fri, 28 Nov 2025 04:30:05 GMT | From a 12-Hour Soft Fork Recovery to the Final Mile of Governance | HydroDrip | [Read More](https://medium.com/p/e92c1233406c) |
