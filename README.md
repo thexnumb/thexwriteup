@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 01:33:51 GMT | Shadow AI: The Enterprise Security Crisis Nobody Is Prepared For | Irgyagentaarnezzi | [Read More](https://medium.com/p/b3f218f1c22f) |
+| Fri, 28 Nov 2025 01:18:06 GMT | The Digital Revolution in Security Training — And How to Stay Ahead | Sarmin Islam | [Read More](https://medium.com/p/8c0e9e2f81d0) |
+| Fri, 28 Nov 2025 01:13:09 GMT | What I Learned From a Popular Hardware Trojan Survey | Surabhi Misra | [Read More](https://medium.com/p/65d57f4bf094) |
+| Fri, 28 Nov 2025 00:53:33 GMT | Mustacchio writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/c5de9dce3169) |
+| Fri, 28 Nov 2025 00:51:09 GMT | ️‍♂️ MAC Spoofing: The Danger Behind Network Identity | Wesley Santos | [Read More](https://medium.com/p/2260b4aa9728) |
+| Fri, 28 Nov 2025 00:27:54 GMT | Complete OSINT Roadmap (Beginner → Expert) | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/1def781c844f) |
+| Fri, 28 Nov 2025 00:27:01 GMT | Wireshark for Pentesting — The Complete Practical Guide | ghostyjoe | [Read More](https://medium.com/p/39a7b8420858) |
+| Fri, 28 Nov 2025 00:12:08 GMT | Should Married Couples Check Each Other’s Phones? The Truth About Trust and Privacy | EdithTali | [Read More](https://medium.com/p/a961d3ea9b40) |
+| Fri, 28 Nov 2025 00:11:42 GMT | HealthGPT - TryHackme Walkthrough | Gustavo Henrique | [Read More](https://medium.com/p/e79585961f58) |
+| Thu, 27 Nov 2025 23:29:02 GMT | 30 Days of Red Team: Day 10 — Building Custom C2 Infrastructure (Your Lifeline to Compromised… | Maxwell Cross | [Read More](https://medium.com/p/a2fae44f41a0) |
 | Thu, 27 Nov 2025 23:22:25 GMT | Upbit Hot-Wallet Breach: What Really Happened and Why Blockchain Was Not the Problem | KRWA | [Read More](https://medium.com/p/8b6c08b8bb84) |
 | Thu, 27 Nov 2025 23:12:03 GMT | Personal Incident Response Plan Using the NIST Framework | Anderson Santos | [Read More](https://medium.com/p/c9798d0d35e9) |
 | Thu, 27 Nov 2025 22:47:16 GMT | United Security: Smart Protection for a Safer Future | United Security | [Read More](https://medium.com/p/0a49440e02e2) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 15:40:23 GMT | Hackers Are Abusing Microsoft 365 SMS Sign-In — Here’s How to Protect Yourself | Chaim Black | [Read More](https://medium.com/p/1a366a32a9fd) |
 | Thu, 27 Nov 2025 15:35:50 GMT | FlagForge Might Be the Next Big Thing in Ethical Hacking Training | Lagzen Thakuri | [Read More](https://medium.com/p/b8e46b194522) |
 | Thu, 27 Nov 2025 15:34:48 GMT | penetration testing | kholid zayyd yusuf | [Read More](https://medium.com/p/f409aaf6e448) |
-| Thu, 27 Nov 2025 15:34:05 GMT | The Place Where Trust Used to Live | Trey Falco | [Read More](https://medium.com/p/d93a178c9e30) |
-| Thu, 27 Nov 2025 15:28:56 GMT | TOTP vs HOTP: How One-Time Passwords Really Work (Deep Dive Into Secrets, QR Codes, and… | Emre ÖZGÜRÜOĞLU | [Read More](https://medium.com/p/81c320a8ecb8) |
-| Thu, 27 Nov 2025 15:23:14 GMT | Is Security Just Fearmongering Disguised as Protection? | Luke Appleby | [Read More](https://medium.com/p/1de61c72cbba) |
-| Thu, 27 Nov 2025 15:15:48 GMT | AKS Authentication, Authorization, and Security Best Practices (CAF & WAF Alignment, part 2) | Hristo Stoychev | [Read More](https://medium.com/p/8dd3d4d8c6aa) |
-| Thu, 27 Nov 2025 15:14:39 GMT | Cracking the Code: How I Found a Zero-Day in Criminal Chatter and Cashed In | Iski | [Read More](https://medium.com/p/96eed2b96678) |
-| Thu, 27 Nov 2025 15:10:54 GMT | Anatomy of the First AI Attack: the Anthropic GTG-1002 Espionage Campaign | Ajanaku Temitope | [Read More](https://medium.com/p/0295b629c615) |
-| Thu, 27 Nov 2025 15:02:11 GMT | OAuth Account Linking Bypass Leading to Full Account Takeover and Deletion | 0xMo7areb | [Read More](https://medium.com/p/86f0b0e0d524) |
-| Thu, 27 Nov 2025 15:02:11 GMT | Guarding the Gates: Why Every CFO Must Be a Cyber Shepherd in 2025 | Michael Stickler | [Read More](https://medium.com/p/5ae0150a8738) |
-| Thu, 27 Nov 2025 15:02:08 GMT | Cyber Briefing: 2025.11.27 | CyberMaterial | [Read More](https://medium.com/p/0ed3fcd9e912) |
-| Thu, 27 Nov 2025 14:59:42 GMT | The Fear of Losing the Only Friend I Feel Safe With | valle | [Read More](https://medium.com/p/dad1cbfed63b) |
