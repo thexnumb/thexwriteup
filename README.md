@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 09:17:45 GMT | Your Complete Guide to OWASP’s Essential Security Resources: Why Every Developer Needs These 9… | Cyberbali | [Read More](https://medium.com/p/84f535116dbc) |
+| Fri, 28 Nov 2025 09:14:40 GMT | The Linux Concept Journey — Extended File Attributes (xattr) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8f515dcc66bc) |
+| Fri, 28 Nov 2025 09:12:02 GMT | Is Blockchain Really Secure Enough for the Next Decade? | Bobby Andrews | [Read More](https://medium.com/p/1699ec7f1217) |
+| Fri, 28 Nov 2025 09:04:07 GMT | Why Professional Security Guard Services Are Essential for Modern Businesses: A Guide to Choosing… | Ciss India | [Read More](https://medium.com/p/9e615b653b01) |
+| Fri, 28 Nov 2025 09:03:40 GMT | All Been Crypto — Week 28 Nov 2025 | Bat Tai Chi | [Read More](https://medium.com/p/89ce522b6d2f) |
+| Fri, 28 Nov 2025 09:03:37 GMT | DockerLabs Writeup — Memesploit (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f6f590942b8c) |
+| Fri, 28 Nov 2025 09:03:13 GMT | From First Leak Alert to Fixed Accounts in 30 Minutes With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/51a05d5fa0e6) |
+| Fri, 28 Nov 2025 08:59:23 GMT | Huge surge in Phishing Scams: The Latest Threat Intelligence for UK SMEs | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/65fcd472b0e9) |
+| Fri, 28 Nov 2025 08:56:31 GMT | The Hidden Danger in Your Tech Stack: When Applications Have Too Much Power | Steve Anderson | [Read More](https://medium.com/p/648ace8a105c) |
+| Fri, 28 Nov 2025 08:54:21 GMT | The Key Master’s Flaw: Why Authentication Vulnerabilities are Your Biggest Security Headache ️ | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/9d5ebc58622c) |
+| Fri, 28 Nov 2025 08:53:53 GMT | Introducing LUMEN: Your EVTX Companion | Koifsec | [Read More](https://medium.com/p/850c49073485) |
+| Fri, 28 Nov 2025 08:52:35 GMT | ️ Blog 58 — AWS CloudFormation: Infrastructure as Code Made Easy | Prutha_Dongre | [Read More](https://medium.com/p/6ef45693a37f) |
+| Fri, 28 Nov 2025 08:52:29 GMT | Reflected Cross-Site Scripting: HTML Context (Nothing Encoded) | Aditya Bhatt | [Read More](https://medium.com/p/4262127087f2) |
+| Fri, 28 Nov 2025 08:48:30 GMT | Introduction To Assembly Language | Redfox Security | [Read More](https://medium.com/p/2cfa297f5589) |
+| Fri, 28 Nov 2025 08:46:23 GMT | AI Can’t Fix a Broken Foundation: Why Digitalization Fails Without Maturity | Xeshan Kazmi | [Read More](https://medium.com/p/cf665fc17ede) |
+| Fri, 28 Nov 2025 08:45:24 GMT | CLEAR STEP BY STEP INSTRUCTIONS ON HOW TO DOWNLOAD ORACLE VIRTUAL BOX | Nmesomapromise | [Read More](https://medium.com/p/935f4c67ae56) |
+| Fri, 28 Nov 2025 08:33:47 GMT | Burp Suite Community vs Professional: What’s the Difference? | Bridget | [Read More](https://medium.com/p/ae9421e2c8df) |
 | Fri, 28 Nov 2025 08:14:19 GMT | Beyond HIPAA: Mastering the Modern Healthcare Cybersecurity Framework for True Compliance | SecureSlate | [Read More](https://medium.com/p/5551534aba32) |
 | Fri, 28 Nov 2025 08:03:44 GMT | Automotive Cybersecurity Market - Size, Share, Growth - 2025–2030 | Samudralamohankumar | [Read More](https://medium.com/p/e193f9c9fb11) |
 | Fri, 28 Nov 2025 07:57:29 GMT | When AI Goes Rogue: Inside the First Large-Scale Cyberattack Run by Claude | Shin Jara | [Read More](https://medium.com/p/f13ec337f1c8) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 00:12:08 GMT | Should Married Couples Check Each Other’s Phones? The Truth About Trust and Privacy | EdithTali | [Read More](https://medium.com/p/a961d3ea9b40) |
 | Fri, 28 Nov 2025 00:11:42 GMT | HealthGPT - TryHackme Walkthrough | Gustavo Henrique | [Read More](https://medium.com/p/e79585961f58) |
 | Thu, 27 Nov 2025 23:29:02 GMT | 30 Days of Red Team: Day 10 — Building Custom C2 Infrastructure (Your Lifeline to Compromised… | Maxwell Cross | [Read More](https://medium.com/p/a2fae44f41a0) |
-| Thu, 27 Nov 2025 23:22:25 GMT | Upbit Hot-Wallet Breach: What Really Happened and Why Blockchain Was Not the Problem | KRWA | [Read More](https://medium.com/p/8b6c08b8bb84) |
-| Thu, 27 Nov 2025 23:12:03 GMT | Personal Incident Response Plan Using the NIST Framework | Anderson Santos | [Read More](https://medium.com/p/c9798d0d35e9) |
-| Thu, 27 Nov 2025 22:47:16 GMT | United Security: Smart Protection for a Safer Future | United Security | [Read More](https://medium.com/p/0a49440e02e2) |
-| Thu, 27 Nov 2025 22:31:40 GMT | The Helabattala Heist: A Near Miss | Aayush kumar | [Read More](https://medium.com/p/0b29c716ec90) |
-| Thu, 27 Nov 2025 22:29:08 GMT | Building the Invisible Wind Tunnel | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/6d88ac6835da) |
-| Thu, 27 Nov 2025 22:24:55 GMT | Self host everything, de-google your life. | Taylor VN | [Read More](https://medium.com/p/f36fc2896117) |
-| Thu, 27 Nov 2025 22:19:01 GMT | Command Execution in Tor C2 Server — Part 5 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/ccfdad4ba2f0) |
-| Thu, 27 Nov 2025 22:17:39 GMT | Lockin Smart Deadbolt — The Future of Entry Begins at Your Doorstep | badr Yousef | [Read More](https://medium.com/p/c7bd48e06ce7) |
-| Thu, 27 Nov 2025 22:17:34 GMT | Curious Minds: Biotech to Bioterror: Silent Heists in the World of Cyberbiosecurity | Balajee Viswanatha Rao | [Read More](https://medium.com/p/c1a2c6dd7a77) |
-| Thu, 27 Nov 2025 22:02:28 GMT | Golden Ticket: The Kerberos Attack That Makes You a Domain Controller | Cybersecurity Simplified | [Read More](https://medium.com/p/730e544b8cc2) |
-| Thu, 27 Nov 2025 22:01:14 GMT | Critical Multi-Vector Vulnerabilities in a Streaming Platform’s Confirmation Endpoint | Tyreek Haynes | [Read More](https://medium.com/p/45a033a865a0) |
-| Thu, 27 Nov 2025 21:58:15 GMT | Explaining the Risk: How AI Tools Pose a Threat | IT_Engineer | [Read More](https://medium.com/p/cfd87554a9bc) |
-| Thu, 27 Nov 2025 21:41:28 GMT | Portswigger Authentication vulnerabilities -2 | Songül Kızılay Özügürler | [Read More](https://medium.com/p/5b6834963d11) |
-| Thu, 27 Nov 2025 21:34:42 GMT | Enterprise Security for Startups | Jaswanth Tata | [Read More](https://medium.com/p/985ddf84cce3) |
-| Thu, 27 Nov 2025 21:33:08 GMT | Akira Ransomware Finds Open Doors During Mergers And Acquisitions | Geoffrey Wenger | [Read More](https://medium.com/p/b24ade76fafc) |
-| Thu, 27 Nov 2025 21:17:27 GMT | Epistemology of CyberSec Cert Junkies (Part 2) | Jade Seeker | [Read More](https://medium.com/p/81dfe20ea64a) |
-| Thu, 27 Nov 2025 20:56:46 GMT | Deep Dive into Container Security on Linux Systems | Linux Guide | [Read More](https://medium.com/p/7a68b4169cac) |
