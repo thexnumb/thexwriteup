@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 14:12:09 GMT | I tried automating Azure portal with JS — here’s why it failed miserably | Viktor Ponamarev | [Read More](https://medium.com/p/12347c0b626e) |
+| Fri, 28 Nov 2025 14:12:01 GMT | Five Findings I Often See During Web Pentesting | 0xc4t | [Read More](https://medium.com/p/ce19ca038d4b) |
+| Fri, 28 Nov 2025 14:11:14 GMT | When the World’s Largest Derivatives Exchange Goes Dark: What the CME Outage Signals for Crypto… | Pitt Tech | [Read More](https://medium.com/p/c7b29e8072a2) |
+| Fri, 28 Nov 2025 14:09:41 GMT | Yetkilendirme (Authorization) & Erişim Denetimi (Access Control) | Ayşenur Bolukçu | [Read More](https://medium.com/p/0a6e3e547cf3) |
+| Fri, 28 Nov 2025 14:07:01 GMT | Who Wins the Security Metals Boom (Part 2/2) | John Galt | [Read More](https://medium.com/p/afa1ce950c99) |
+| Fri, 28 Nov 2025 14:06:47 GMT | Görünmeyeni Yakalamak | Betul Toy | [Read More](https://medium.com/p/9522857faf83) |
+| Fri, 28 Nov 2025 14:05:34 GMT | The Rise of Browser Notification Phishing: The Cyber Threat Nobody Saw Coming | Vijay Kumar Gupta | [Read More](https://medium.com/p/797aaa328dd4) |
+| Fri, 28 Nov 2025 14:02:23 GMT | How a Forged JWT Token Exposed eGift Cards of all users worth Millions | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/685f6cd20824) |
+| Fri, 28 Nov 2025 13:55:33 GMT | How I Found a Logic Flaw That Lets Users Self‑Delete From Organizations | Amed Sherif | [Read More](https://medium.com/p/c463520baeb0) |
+| Fri, 28 Nov 2025 13:50:01 GMT | Reputable Bitcoin Recovery Services: Ghost Mystery Recovery Hacker was recognized as the top… | Benjaminethanyu | [Read More](https://medium.com/p/ff07bf37264e) |
+| Fri, 28 Nov 2025 13:47:19 GMT | Approaching stealers devs: a brief interview with XFILES (DeerStealer) | g0njxa | [Read More](https://medium.com/p/0de193ae46a4) |
+| Fri, 28 Nov 2025 13:46:35 GMT | Burp Suite: The Sherlock Holmes Toolkit of Web Security (A Beginner-Friendly Guide) | Dhananjay Aggarwal | [Read More](https://medium.com/p/6a596d98a859) |
+| Fri, 28 Nov 2025 13:46:18 GMT | WAZUH-Software Installation and Uninstallation Monitoring | Aziz U Rehman | [Read More](https://medium.com/p/89f9c570844f) |
+| Fri, 28 Nov 2025 13:42:33 GMT | S-Clustr-Simple: Air Battle — a real-world building-light hacking game | Мартин. | [Read More](https://medium.com/p/f5d9ce6d3202) |
+| Fri, 28 Nov 2025 13:41:38 GMT | Unedited & Vulnerable | Hadiza Writes | [Read More](https://medium.com/p/1ec6ccf59d07) |
+| Fri, 28 Nov 2025 13:37:08 GMT | How to Prevent Magisk Root Hiding and Security Bypass | Talsec | [Read More](https://medium.com/p/350271202150) |
+| Fri, 28 Nov 2025 13:30:48 GMT | [Control-Chaos] Heart Broken | Мартин. | [Read More](https://medium.com/p/38c156c48f91) |
+| Fri, 28 Nov 2025 13:30:40 GMT | How Machine Learning Detects Unusual File Modifications on Your System | Myth | [Read More](https://medium.com/p/7e1d1d45021e) |
+| Fri, 28 Nov 2025 13:29:45 GMT | HOW TO INSTALL SPLUNK ON UBUNTU | JahdiSec | [Read More](https://medium.com/p/a7950da7d10e) |
+| Fri, 28 Nov 2025 13:23:47 GMT | Right CCTV Lens Selection: A Full Manual to Security, Surveillance, & Advanced Imaging | Shivani | [Read More](https://medium.com/p/aa05f9f95b58) |
+| Fri, 28 Nov 2025 13:22:12 GMT | A Simple Habit to Protect Your Time, Sanity, and Cybersecurity | Jason Mashak | [Read More](https://medium.com/p/a410bb5d1edd) |
 | Fri, 28 Nov 2025 13:09:46 GMT | Dormant Echoes: The Exiled Code & The Logic of Systemic Decay | zoctracker | [Read More](https://medium.com/p/9a92b85a239a) |
 | Fri, 28 Nov 2025 13:08:19 GMT | SSL Isn’t Enough: The Real Layers of Website Security in 2025 | Saqib Naseer | [Read More](https://medium.com/p/a9689bdf8e03) |
 | Fri, 28 Nov 2025 13:04:56 GMT | Using AI & ML to Hunt Malicious Process Behavior on Windows | Myth | [Read More](https://medium.com/p/897182fda941) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 08:48:30 GMT | Introduction To Assembly Language | Redfox Security | [Read More](https://medium.com/p/2cfa297f5589) |
 | Fri, 28 Nov 2025 08:46:23 GMT | AI Can’t Fix a Broken Foundation: Why Digitalization Fails Without Maturity | Xeshan Kazmi | [Read More](https://medium.com/p/cf665fc17ede) |
 | Fri, 28 Nov 2025 08:45:24 GMT | CLEAR STEP BY STEP INSTRUCTIONS ON HOW TO DOWNLOAD ORACLE VIRTUAL BOX | Nmesomapromise | [Read More](https://medium.com/p/935f4c67ae56) |
-| Fri, 28 Nov 2025 08:33:47 GMT | Burp Suite Community vs Professional: What’s the Difference? | Bridget | [Read More](https://medium.com/p/ae9421e2c8df) |
-| Fri, 28 Nov 2025 08:14:19 GMT | Beyond HIPAA: Mastering the Modern Healthcare Cybersecurity Framework for True Compliance | SecureSlate | [Read More](https://medium.com/p/5551534aba32) |
-| Fri, 28 Nov 2025 08:03:44 GMT | Automotive Cybersecurity Market - Size, Share, Growth - 2025–2030 | Samudralamohankumar | [Read More](https://medium.com/p/e193f9c9fb11) |
-| Fri, 28 Nov 2025 07:57:29 GMT | When AI Goes Rogue: Inside the First Large-Scale Cyberattack Run by Claude | Shin Jara | [Read More](https://medium.com/p/f13ec337f1c8) |
-| Fri, 28 Nov 2025 07:52:21 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/96a66d20c564) |
-| Fri, 28 Nov 2025 07:52:01 GMT | How to Self-Host Immich on Ubuntu with Cloudflare Tunnel: Secure Photo & Video Management | Rupesh Sharma | [Read More](https://medium.com/p/8ee2ef50b89e) |
-| Fri, 28 Nov 2025 07:49:32 GMT | How Mobile Patrol Security is Transforming Business Protection in Alberta | Hirasarfraz | [Read More](https://medium.com/p/e1c3bcb3ac60) |
-| Fri, 28 Nov 2025 07:48:16 GMT | GHOSTLINK — Drive-By Download Lab Tool | Dallen Sadru | [Read More](https://medium.com/p/b27cc8fbf609) |
-| Fri, 28 Nov 2025 07:43:40 GMT | Data Privacy Laws: GDPR, CCPA, and What’s Next in Global Regulations | Usanase Nice Josiane | [Read More](https://medium.com/p/1be6c61055d0) |
-| Fri, 28 Nov 2025 07:36:58 GMT | Building a Secure OTP & Numpad Package for Flutter — And What Developers Still Get Wrong About OTP… | Connel Asikong | [Read More](https://medium.com/p/e9254e09e54b) |
-| Fri, 28 Nov 2025 07:34:44 GMT | Black Friday Sale on Cyber Security Certifications | cyber security Updates | [Read More](https://medium.com/p/1a2f169a39ae) |
-| Fri, 28 Nov 2025 07:29:33 GMT | The Corix Partners Friday Reading List — November 28, 2025 | JC Gaillard | [Read More](https://medium.com/p/1f8f9d5eb1d8) |
-| Fri, 28 Nov 2025 07:24:33 GMT | Part 6: Building the Ultimate OT Cybersecurity Lab in 2025 From Concept to Command Center | Shanmuksrisai | [Read More](https://medium.com/p/cbeb4e3352af) |
-| Fri, 28 Nov 2025 07:23:25 GMT | Using Analysis of Competing Hypotheses (ACH) to strengthen Cyber Intelligence: Lessons from the… | Daniel | [Read More](https://medium.com/p/0630237eb671) |
-| Fri, 28 Nov 2025 07:22:12 GMT | npm 배포, OIDC로 전환하기 (Trusted Publishers) | Seongwoo Jun | [Read More](https://medium.com/p/885dcf735617) |
-| Fri, 28 Nov 2025 07:21:44 GMT | OpenAI Mixpanel Security Incident: A Clear and Simple Breakdown | Techdigitalspace | [Read More](https://medium.com/p/0cdb104f9bbd) |
-| Fri, 28 Nov 2025 07:12:57 GMT | The First Nmap Scan That Makes You Realize How the Internet Actually Works | Fateyaly | [Read More](https://medium.com/p/4f7de267d72a) |
-| Fri, 28 Nov 2025 07:11:35 GMT | Italy’s Covert Exports: The Surveillance Industrial Complex and its Middle East Footprint | Cyber Warfare Asia | [Read More](https://medium.com/p/f35e1072a5fb) |
-| Fri, 28 Nov 2025 07:11:08 GMT | Part 5: 55 Essential Tools Every OT Security & Penetration Tester Should Master in 2025 | Shanmuksrisai | [Read More](https://medium.com/p/7da8af476ab8) |
-| Fri, 28 Nov 2025 07:10:42 GMT | VPN extensions for Chrome: 2025 best free and paid options | Safelyo VPN | [Read More](https://medium.com/p/42960c224a7e) |
-| Fri, 28 Nov 2025 07:02:57 GMT | What is Networking? A Hacker’s Guide to Understanding the Web of Connections. | azrecon_ | [Read More](https://medium.com/p/b3304392d617) |
