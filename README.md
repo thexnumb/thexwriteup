@@ -12,14 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 07:12:57 GMT | The First Nmap Scan That Makes You Realize How the Internet Actually Works | Fateyaly | [Read More](https://medium.com/p/4f7de267d72a) |
+| Fri, 28 Nov 2025 07:11:08 GMT | Part 5: 55 Essential Tools Every OT Security & Penetration Tester Should Master in 2025 | Shanmuksrisai | [Read More](https://medium.com/p/7da8af476ab8) |
+| Fri, 28 Nov 2025 07:10:42 GMT | VPN extensions for Chrome: 2025 best free and paid options | Safelyo VPN | [Read More](https://medium.com/p/42960c224a7e) |
+| Fri, 28 Nov 2025 07:02:57 GMT | What is Networking? A Hacker’s Guide to Understanding the Web of Connections. | azrecon_ | [Read More](https://medium.com/p/b3304392d617) |
+| Fri, 28 Nov 2025 06:55:20 GMT | New Supply Chain Attack Alert: Malicious npm Packages Precisely Identify User Environments | YT.Shi | [Read More](https://medium.com/p/2f01cb670c1d) |
+| Fri, 28 Nov 2025 06:53:53 GMT | Harvard University Reports Data Breach Impacting Alumni and Donors | Himanshu Bhatt | [Read More](https://medium.com/p/d630ee12b402) |
+| Fri, 28 Nov 2025 06:52:43 GMT | Master Automatic CVE Tracking Toolkit for Bug Bounty Hunters: Step-by-Step Guide to Real-World… | Very Lazy Tech | [Read More](https://medium.com/p/c143b3c77e5d) |
+| Fri, 28 Nov 2025 06:50:17 GMT | A Simple Introduction to ISO 27001 — And Why You Should Care | Viola | [Read More](https://medium.com/p/870bca1754fa) |
+| Fri, 28 Nov 2025 06:47:00 GMT | How to decide which VPN country to use for each case | Millie Bobby | [Read More](https://medium.com/p/12957117a4b5) |
+| Fri, 28 Nov 2025 06:46:25 GMT | Advance Your Career with an Advanced Diploma in Information Technology | AIST | [Read More](https://medium.com/p/18f78ccd5d23) |
+| Fri, 28 Nov 2025 06:42:18 GMT | The Daily Tech Digest: 28 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b6ca6dd8ead3) |
+| Fri, 28 Nov 2025 06:42:10 GMT | ZoomEye Practice — Efficiently Discovering and Expanding Malicious Sites | ZoomEye | [Read More](https://medium.com/p/8cc8b612bab1) |
+| Fri, 28 Nov 2025 06:33:58 GMT | When Home Starts Bleeding Again | Hamna En Tanoli | [Read More](https://medium.com/p/cd7817fcc48b) |
+| Fri, 28 Nov 2025 06:27:51 GMT | What Is Shoulder Surfing? How It Works and How to Stop It [Complete Guide — 2025] | Hamza Hanif | [Read More](https://medium.com/p/1de38e30c58b) |
 | Fri, 28 Nov 2025 06:27:40 GMT | Your Windows License Will Expire Soon — How to Fix It Quickly | Om Prakash | [Read More](https://medium.com/p/061738529340) |
 | Fri, 28 Nov 2025 06:24:54 GMT | Integration of GitHub Actions with Snyk tool to scan the vulnerable docker image. | Ashwini Puranik | [Read More](https://medium.com/p/3222cf6218c1) |
 | Fri, 28 Nov 2025 06:24:15 GMT | Powerful Advanced Persistent Threat Cybersecurity Solutions for 2026 | iCONIFERz Technology News and Insights | [Read More](https://medium.com/p/9f0906bfc862) |
+| Fri, 28 Nov 2025 06:16:12 GMT | Boost Cyber Resilience with Effective Vulnerability Assessment and Penetration Testing | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/ff9fac4bf143) |
 | Fri, 28 Nov 2025 06:07:57 GMT | CHAMBRE D’AROMES PERFUME BOUTIQUE | Odugbenro lateef | [Read More](https://medium.com/p/0bc6effdcf61) |
 | Fri, 28 Nov 2025 05:58:25 GMT | How to Set Up a Professional Staging Workflow and Rock-Solid CI/CD for Your SaaS (Step-by-Step) | CodeGenitor | [Read More](https://medium.com/p/08a6a74444f0) |
 | Fri, 28 Nov 2025 05:56:17 GMT | : "  ,  ' … | Cyber Toddler | [Read More](https://medium.com/p/bbe510ce6b9e) |
 | Fri, 28 Nov 2025 05:55:45 GMT | Get Your SOC Out of the CHAOS ZONE | Siddhant Mishra | [Read More](https://medium.com/p/501cf1f0ec18) |
 | Fri, 28 Nov 2025 05:50:41 GMT | MT-LAB: A Korean Platform That Helps Users Identify Online Scam Betting Sites | croatian | [Read More](https://medium.com/p/bdb5e70e4101) |
+| Fri, 28 Nov 2025 05:48:08 GMT | Forget About Traditional Cybersecurity Training — Try This Instead! | Steven Chin | [Read More](https://medium.com/p/8927658ff72a) |
 | Fri, 28 Nov 2025 05:36:12 GMT | Powerful IT Networks Driving Modern Business Success | Any network | [Read More](https://medium.com/p/e3508d1595fc) |
 | Fri, 28 Nov 2025 05:32:06 GMT | The Day 21 Parameters Crashed 8.5 Million Computers: Inside the CrowdStrike Catastrophe | Amįń | [Read More](https://medium.com/p/14aa3379d123) |
 | Fri, 28 Nov 2025 05:30:41 GMT | The Invisible Layer of Web3: Why Transaction Simulation Matters | Aditya | [Read More](https://medium.com/p/08abdfd257a9) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 19:42:22 GMT | Strengthen Your Security Strategy with CyberSecOp: Expert Cybersecurity Consulting & Services | Jeffery Walker | [Read More](https://medium.com/p/72981b02809a) |
 | Thu, 27 Nov 2025 19:25:07 GMT | Resurface Of RedTail CryptoMiner | Mohamed Mostafa | [Read More](https://medium.com/p/207af96beb0b) |
 | Thu, 27 Nov 2025 19:20:20 GMT | Zero-Click Account Takeover via OAuth | Amr khaled Zakaria | [Read More](https://medium.com/p/8c229a3f45d1) |
-| Thu, 27 Nov 2025 19:05:27 GMT | Protect Your Business with CyberSecOp: Expert Cyber Security and Incident Response Services | Jeffery Walker | [Read More](https://medium.com/p/de2d4b60a5f3) |
-| Thu, 27 Nov 2025 19:03:26 GMT | Windows 11 Security Assessment (Hostname: WIN11-MGR1) | Johnny Meintel | [Read More](https://medium.com/p/e8326d82750e) |
-| Thu, 27 Nov 2025 19:00:29 GMT | Elastic Part 1: Installing Elastic | Allen Ace | [Read More](https://medium.com/p/c7bf3c8149ab) |
-| Thu, 27 Nov 2025 18:54:37 GMT | How I Accidentally Got My First CVE (While Looking for Something Else Entirely) | RkVb | [Read More](https://medium.com/p/c8baddbc90b9) |
-| Thu, 27 Nov 2025 18:49:01 GMT | The Simple Bug That Led Me to My First Bounty (Account Takeover via Insecure Reusable Activation… | sudo_a7med | [Read More](https://medium.com/p/918c1ea1a362) |
-| Thu, 27 Nov 2025 18:39:14 GMT | What is Penetration Testing, and Why is it Necessary? | Diva Rizky Alfitrah | [Read More](https://medium.com/p/9c8b19d20d31) |
-| Thu, 27 Nov 2025 18:37:35 GMT | From Police Director to Theme Park Security Guard: What Gets Lost When Credentials Don’t Cross… | Julio Gil | [Read More](https://medium.com/p/a55fe65d8f97) |
-| Thu, 27 Nov 2025 18:24:44 GMT | ️ Blocking RDP Brute-Force Attacks Using WAZUH (Complete Practical Guide) | Aziz U Rehman | [Read More](https://medium.com/p/fea70bc87d63) |
-| Thu, 27 Nov 2025 18:23:22 GMT | Identity & Access Management Best Practices for Modern Enterprises | Dhanrajfunde | [Read More](https://medium.com/p/edd066366b5e) |
-| Thu, 27 Nov 2025 18:18:10 GMT | Identity and Access Management (IAM) Best Practices for Modern Enterprises | Dhanrajfunde | [Read More](https://medium.com/p/6c24cc2a8896) |
-| Thu, 27 Nov 2025 18:16:07 GMT | When Home Is No Longer Safe: Nigeria’s Hidden War Against Its Own People | Way991 | [Read More](https://medium.com/p/86ca55f113ea) |
-| Thu, 27 Nov 2025 18:08:48 GMT | Payroll Cybersecurity: How to Protect Sensitive Financial Data | Táíwò Majeks | [Read More](https://medium.com/p/ff876d6e76d9) |
-| Thu, 27 Nov 2025 18:06:53 GMT | Cybersecurity Threats in 2025 | Sakshi Bhapkar | [Read More](https://medium.com/p/a303157714ae) |
-| Thu, 27 Nov 2025 18:06:09 GMT | Neural Networks and Cybersecurity: Building Intelligent and Secure Systems | Alan Joseph Abraham | [Read More](https://medium.com/p/9682cac1157e) |
-| Thu, 27 Nov 2025 18:01:06 GMT | Frontend Interview Challenge : Understanding Browser Storage | constCoder | [Read More](https://medium.com/p/0db2274fcc85) |
-| Thu, 27 Nov 2025 18:00:20 GMT | The Regenerative Entrepreneur: The world-changing opportunities for regenerative design | Erik Kvam | [Read More](https://medium.com/p/d4ae2c0bdb4f) |
