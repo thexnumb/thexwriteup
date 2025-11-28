@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 14:31:34 GMT | Browser Security Report 2026: How Safe Are Modern Browsers Against Today’s Threats? | Cordula Boeck | [Read More](https://medium.com/p/60d09f6c0366) |
 | Fri, 28 Nov 2025 14:12:09 GMT | I tried automating Azure portal with JS — here’s why it failed miserably | Viktor Ponamarev | [Read More](https://medium.com/p/12347c0b626e) |
 | Fri, 28 Nov 2025 14:12:01 GMT | Five Findings I Often See During Web Pentesting | 0xc4t | [Read More](https://medium.com/p/ce19ca038d4b) |
 | Fri, 28 Nov 2025 14:11:14 GMT | When the World’s Largest Derivatives Exchange Goes Dark: What the CME Outage Signals for Crypto… | Pitt Tech | [Read More](https://medium.com/p/c7b29e8072a2) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 08:52:29 GMT | Reflected Cross-Site Scripting: HTML Context (Nothing Encoded) | Aditya Bhatt | [Read More](https://medium.com/p/4262127087f2) |
 | Fri, 28 Nov 2025 08:48:30 GMT | Introduction To Assembly Language | Redfox Security | [Read More](https://medium.com/p/2cfa297f5589) |
 | Fri, 28 Nov 2025 08:46:23 GMT | AI Can’t Fix a Broken Foundation: Why Digitalization Fails Without Maturity | Xeshan Kazmi | [Read More](https://medium.com/p/cf665fc17ede) |
-| Fri, 28 Nov 2025 08:45:24 GMT | CLEAR STEP BY STEP INSTRUCTIONS ON HOW TO DOWNLOAD ORACLE VIRTUAL BOX | Nmesomapromise | [Read More](https://medium.com/p/935f4c67ae56) |
