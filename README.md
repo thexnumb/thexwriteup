@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 20:29:59 GMT | Beyond Encryption: How VPNs Can Stop Metadata Leakage Without Sacrificing Speed | Voidly | [Read More](https://medium.com/p/4d3c01683030) |
 | Fri, 28 Nov 2025 20:17:53 GMT | How I Used Splunk in My Home Lab to Build Real-World Security Skills | Devinn C. | [Read More](https://medium.com/p/004daa52fc1d) |
 | Fri, 28 Nov 2025 20:01:38 GMT | Why Are Security Solutions in Manhattan, NY Essential for Modern Safety? | Exploring Multiple Service | [Read More](https://medium.com/p/54dd05eef18a) |
 | Fri, 28 Nov 2025 20:01:20 GMT | 2. 1 : virtualization Software | ABACOM CYBER-GURU | [Read More](https://medium.com/p/ffa3ab58cb1d) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 13:22:12 GMT | A Simple Habit to Protect Your Time, Sanity, and Cybersecurity | Jason Mashak | [Read More](https://medium.com/p/a410bb5d1edd) |
 | Fri, 28 Nov 2025 13:09:46 GMT | Dormant Echoes: The Exiled Code & The Logic of Systemic Decay | zoctracker | [Read More](https://medium.com/p/9a92b85a239a) |
 | Fri, 28 Nov 2025 13:08:19 GMT | SSL Isn’t Enough: The Real Layers of Website Security in 2025 | Saqib Naseer | [Read More](https://medium.com/p/a9689bdf8e03) |
-| Fri, 28 Nov 2025 13:04:56 GMT | Using AI & ML to Hunt Malicious Process Behavior on Windows | Myth | [Read More](https://medium.com/p/897182fda941) |
