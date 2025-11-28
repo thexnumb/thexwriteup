@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 15:18:33 GMT | Next in AI: Issue #56 | Sam Ghosh | [Read More](https://medium.com/p/c59ea178ed1f) |
+| Fri, 28 Nov 2025 15:18:13 GMT | PRIVILEGE ESCALATION | Burhan Demir | [Read More](https://medium.com/p/9211f93efd26) |
+| Fri, 28 Nov 2025 15:06:23 GMT | The New Frontier of Crypto Theft: Physical Coercion, Digital Extraction, and the Case for a… | Abatis ABTU | [Read More](https://medium.com/p/c61a20647be3) |
+| Fri, 28 Nov 2025 15:02:16 GMT | The Night I Stopped Lying to Myself (Part 1 of 3) | Deyanira Perdomo Cuéllar | [Read More](https://medium.com/p/776a5d220e7b) |
+| Fri, 28 Nov 2025 14:55:58 GMT | The New Cyber Skills Crisis: AI-Powered Offense, Undertrained Defenders, and the Future of Cyber… | Len Noe | [Read More](https://medium.com/p/91395823d994) |
+| Fri, 28 Nov 2025 14:45:39 GMT | The Essential Guide to Using Cybersecurity Tools in 2025 | Devinn C. | [Read More](https://medium.com/p/00add85169fe) |
 | Fri, 28 Nov 2025 14:31:34 GMT | Browser Security Report 2026: How Safe Are Modern Browsers Against Today’s Threats? | Cordula Boeck | [Read More](https://medium.com/p/60d09f6c0366) |
 | Fri, 28 Nov 2025 14:12:09 GMT | I tried automating Azure portal with JS — here’s why it failed miserably | Viktor Ponamarev | [Read More](https://medium.com/p/12347c0b626e) |
 | Fri, 28 Nov 2025 14:12:01 GMT | Five Findings I Often See During Web Pentesting | 0xc4t | [Read More](https://medium.com/p/ce19ca038d4b) |
@@ -32,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 13:30:48 GMT | [Control-Chaos] Heart Broken | Мартин. | [Read More](https://medium.com/p/38c156c48f91) |
 | Fri, 28 Nov 2025 13:30:40 GMT | How Machine Learning Detects Unusual File Modifications on Your System | Myth | [Read More](https://medium.com/p/7e1d1d45021e) |
 | Fri, 28 Nov 2025 13:29:45 GMT | HOW TO INSTALL SPLUNK ON UBUNTU | JahdiSec | [Read More](https://medium.com/p/a7950da7d10e) |
+| Fri, 28 Nov 2025 13:27:17 GMT | Lab 1: Web cache poisoning with an unkeyed header | L4V4NY4  AGR3 | [Read More](https://medium.com/p/c4503d01bee4) |
 | Fri, 28 Nov 2025 13:23:47 GMT | Right CCTV Lens Selection: A Full Manual to Security, Surveillance, & Advanced Imaging | Shivani | [Read More](https://medium.com/p/aa05f9f95b58) |
 | Fri, 28 Nov 2025 13:22:12 GMT | A Simple Habit to Protect Your Time, Sanity, and Cybersecurity | Jason Mashak | [Read More](https://medium.com/p/a410bb5d1edd) |
 | Fri, 28 Nov 2025 13:09:46 GMT | Dormant Echoes: The Exiled Code & The Logic of Systemic Decay | zoctracker | [Read More](https://medium.com/p/9a92b85a239a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 09:03:37 GMT | DockerLabs Writeup — Memesploit (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f6f590942b8c) |
 | Fri, 28 Nov 2025 09:03:13 GMT | From First Leak Alert to Fixed Accounts in 30 Minutes With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/51a05d5fa0e6) |
 | Fri, 28 Nov 2025 08:59:23 GMT | Huge surge in Phishing Scams: The Latest Threat Intelligence for UK SMEs | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/65fcd472b0e9) |
-| Fri, 28 Nov 2025 08:56:31 GMT | The Hidden Danger in Your Tech Stack: When Applications Have Too Much Power | Steve Anderson | [Read More](https://medium.com/p/648ace8a105c) |
-| Fri, 28 Nov 2025 08:54:21 GMT | The Key Master’s Flaw: Why Authentication Vulnerabilities are Your Biggest Security Headache ️ | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/9d5ebc58622c) |
-| Fri, 28 Nov 2025 08:53:53 GMT | Introducing LUMEN: Your EVTX Companion | Koifsec | [Read More](https://medium.com/p/850c49073485) |
-| Fri, 28 Nov 2025 08:52:35 GMT | ️ Blog 58 — AWS CloudFormation: Infrastructure as Code Made Easy | Prutha_Dongre | [Read More](https://medium.com/p/6ef45693a37f) |
-| Fri, 28 Nov 2025 08:52:29 GMT | Reflected Cross-Site Scripting: HTML Context (Nothing Encoded) | Aditya Bhatt | [Read More](https://medium.com/p/4262127087f2) |
-| Fri, 28 Nov 2025 08:48:30 GMT | Introduction To Assembly Language | Redfox Security | [Read More](https://medium.com/p/2cfa297f5589) |
-| Fri, 28 Nov 2025 08:46:23 GMT | AI Can’t Fix a Broken Foundation: Why Digitalization Fails Without Maturity | Xeshan Kazmi | [Read More](https://medium.com/p/cf665fc17ede) |
