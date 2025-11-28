@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 19:29:07 GMT | How I Use JavaScript Files to Discover Hidden Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/a434eda7f7af) |
+| Fri, 28 Nov 2025 19:25:50 GMT | The Unmanned Threat: Autonomous AI is Ending Human Cybersecurity | Isabella Butera | [Read More](https://medium.com/p/23d8b71450ba) |
+| Fri, 28 Nov 2025 19:24:43 GMT | The Three Layers Of Information Every Human Leaks In Public | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/30d200d7d629) |
+| Fri, 28 Nov 2025 19:16:09 GMT | The Cartography Of Shadows: Mapping Networks That Pretend They Do Not Exist | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e5023a581813) |
 | Fri, 28 Nov 2025 19:12:56 GMT | Network Fu: From Zero to Netcat Ninja on the Linux Command Line | Santhosh Adiga U | [Read More](https://medium.com/p/8756c3bd68b8) |
 | Fri, 28 Nov 2025 19:02:39 GMT | What Leaders Must Do When Chaos Spreads in Software Organizations | Developer Partners | [Read More](https://medium.com/p/1e0a231f2297) |
 | Fri, 28 Nov 2025 19:02:13 GMT | Cybersecurity News Review — Week 48 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/953ac2a8e72b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 12:32:34 GMT | I Was a ‘Good’ Developer for Years — Until I Realized That Means Nothing | The Dev Notebook | [Read More](https://medium.com/p/a6948bf0a1cf) |
 | Fri, 28 Nov 2025 12:24:21 GMT | Kali Linux for Beginners: Simple Cybersecurity Skills & Commands Every New Hacker Should Know… | pavani | [Read More](https://medium.com/p/3f1ba69b6655) |
 | Fri, 28 Nov 2025 12:22:08 GMT | How to Test User Registration for Bugs | Ibtissam | [Read More](https://medium.com/p/444a0ce0d054) |
-| Fri, 28 Nov 2025 12:20:17 GMT | Most People Can’t Answer This Question. Can You? | Jay Thummar | [Read More](https://medium.com/p/912c2376a266) |
-| Fri, 28 Nov 2025 12:20:02 GMT | How a messing Header Led to Account Takeover | Aftab Raja | [Read More](https://medium.com/p/912046526037) |
-| Fri, 28 Nov 2025 12:15:30 GMT | I Got Tired of Vendor Breach Emails — So I Built an AI Security Copilot That Reads Them for Me | Damian Ketting | [Read More](https://medium.com/p/3ba38c89a6d1) |
-| Fri, 28 Nov 2025 12:11:42 GMT | How I Pwned Telemetry on Amsterdam.nl | MRKNIGHT-NIDU | [Read More](https://medium.com/p/9d2baf2b3d7f) |
