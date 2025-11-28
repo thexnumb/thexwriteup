@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 15:40:00 GMT | Human Trafficking in Canada: What Every Security Professional Needs to Know | Scott Hill | [Read More](https://medium.com/p/1604914f8e8c) |
+| Fri, 28 Nov 2025 15:30:30 GMT | MY FIRST BOUNTY | 8192051 | [Read More](https://medium.com/p/6854cc733b16) |
+| Fri, 28 Nov 2025 15:29:40 GMT | How Deepfakes Are Becoming a New Threat in India | Amol Rangari | [Read More](https://medium.com/p/88946cff5f47) |
+| Fri, 28 Nov 2025 15:29:38 GMT | How Smart Homes Make You Vulnerable And How to Stay Safe | Salman Khan | [Read More](https://medium.com/p/f3dea39c2ad4) |
+| Fri, 28 Nov 2025 15:26:59 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/d658ee64363f) |
+| Fri, 28 Nov 2025 15:23:30 GMT | Starting With Android VAPT in 2025 | Slayer_15 | [Read More](https://medium.com/p/b6f1633fea4c) |
+| Fri, 28 Nov 2025 15:19:05 GMT | Job Security in Cyber Security During Economic Downturns | Aiswarya N | [Read More](https://medium.com/p/26f67155790d) |
 | Fri, 28 Nov 2025 15:18:33 GMT | Next in AI: Issue #56 | Sam Ghosh | [Read More](https://medium.com/p/c59ea178ed1f) |
 | Fri, 28 Nov 2025 15:18:13 GMT | PRIVILEGE ESCALATION | Burhan Demir | [Read More](https://medium.com/p/9211f93efd26) |
 | Fri, 28 Nov 2025 15:06:23 GMT | The New Frontier of Crypto Theft: Physical Coercion, Digital Extraction, and the Case for a… | Abatis ABTU | [Read More](https://medium.com/p/c61a20647be3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 09:22:14 GMT | Bloody Wolf’s Shadow War: Inside the Java-Based NetSupport RAT Campaign in Central Asia | Germano Costi | [Read More](https://medium.com/p/f71f8600a1d1) |
 | Fri, 28 Nov 2025 09:17:45 GMT | Your Complete Guide to OWASP’s Essential Security Resources: Why Every Developer Needs These 9… | Cyberbali | [Read More](https://medium.com/p/84f535116dbc) |
 | Fri, 28 Nov 2025 09:16:52 GMT | INFORME DE AUDITORÍA EN VIVO: ChatGPT IGNORA REGLAS, MANIPULA LÓGICA Y TRIVIALIZA TRAGEDIAS POR EL… | daniel Martinez | [Read More](https://medium.com/p/d47447a73d81) |
-| Fri, 28 Nov 2025 09:14:40 GMT | The Linux Concept Journey — Extended File Attributes (xattr) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8f515dcc66bc) |
-| Fri, 28 Nov 2025 09:12:02 GMT | Is Blockchain Really Secure Enough for the Next Decade? | Bobby Andrews | [Read More](https://medium.com/p/1699ec7f1217) |
-| Fri, 28 Nov 2025 09:04:07 GMT | Why Professional Security Guard Services Are Essential for Modern Businesses: A Guide to Choosing… | Ciss India | [Read More](https://medium.com/p/9e615b653b01) |
-| Fri, 28 Nov 2025 09:03:40 GMT | All Been Crypto — Week 28 Nov 2025 | Bat Tai Chi | [Read More](https://medium.com/p/89ce522b6d2f) |
-| Fri, 28 Nov 2025 09:03:37 GMT | DockerLabs Writeup — Memesploit (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f6f590942b8c) |
-| Fri, 28 Nov 2025 09:03:13 GMT | From First Leak Alert to Fixed Accounts in 30 Minutes With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/51a05d5fa0e6) |
-| Fri, 28 Nov 2025 08:59:23 GMT | Huge surge in Phishing Scams: The Latest Threat Intelligence for UK SMEs | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/65fcd472b0e9) |
