@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 09:37:35 GMT | How Do You Optimize Traffic in a Software‑defined Private Network Spanning Multiple Clouds? | Cloud4C Services | [Read More](https://medium.com/p/76b3b46ba2a7) |
+| Fri, 28 Nov 2025 09:34:52 GMT | NKSCX Compliance Lens: When Crypto Rails Turn Against the Digital Piracy Economy | NKSCX - Smart Crypto Trading | [Read More](https://medium.com/p/65eff35439a3) |
+| Fri, 28 Nov 2025 09:24:45 GMT | A WhatsApp Message, a Misplaced Joke, and a Missed Red Flag | Gautam Mengle | [Read More](https://medium.com/p/caf0a4000a00) |
+| Fri, 28 Nov 2025 09:24:31 GMT | Yara | Altun Tarverdiyev | [Read More](https://medium.com/p/69fbede05911) |
+| Fri, 28 Nov 2025 09:22:31 GMT | Streamlining BEC case and Cloud Log Analysis with Free Tools: Microsoft-Extractor-Suite and… | Dean | [Read More](https://medium.com/p/c3964510e408) |
+| Fri, 28 Nov 2025 09:22:14 GMT | Bloody Wolf’s Shadow War: Inside the Java-Based NetSupport RAT Campaign in Central Asia | Germano Costi | [Read More](https://medium.com/p/f71f8600a1d1) |
 | Fri, 28 Nov 2025 09:17:45 GMT | Your Complete Guide to OWASP’s Essential Security Resources: Why Every Developer Needs These 9… | Cyberbali | [Read More](https://medium.com/p/84f535116dbc) |
+| Fri, 28 Nov 2025 09:16:52 GMT | INFORME DE AUDITORÍA EN VIVO: ChatGPT IGNORA REGLAS, MANIPULA LÓGICA Y TRIVIALIZA TRAGEDIAS POR EL… | daniel Martinez | [Read More](https://medium.com/p/d47447a73d81) |
 | Fri, 28 Nov 2025 09:14:40 GMT | The Linux Concept Journey — Extended File Attributes (xattr) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8f515dcc66bc) |
 | Fri, 28 Nov 2025 09:12:02 GMT | Is Blockchain Really Secure Enough for the Next Decade? | Bobby Andrews | [Read More](https://medium.com/p/1699ec7f1217) |
 | Fri, 28 Nov 2025 09:04:07 GMT | Why Professional Security Guard Services Are Essential for Modern Businesses: A Guide to Choosing… | Ciss India | [Read More](https://medium.com/p/9e615b653b01) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 01:33:51 GMT | Shadow AI: The Enterprise Security Crisis Nobody Is Prepared For | Irgyagentaarnezzi | [Read More](https://medium.com/p/b3f218f1c22f) |
 | Fri, 28 Nov 2025 01:18:06 GMT | The Digital Revolution in Security Training — And How to Stay Ahead | Sarmin Islam | [Read More](https://medium.com/p/8c0e9e2f81d0) |
 | Fri, 28 Nov 2025 01:13:09 GMT | What I Learned From a Popular Hardware Trojan Survey | Surabhi Misra | [Read More](https://medium.com/p/65d57f4bf094) |
-| Fri, 28 Nov 2025 00:53:33 GMT | Mustacchio writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/c5de9dce3169) |
-| Fri, 28 Nov 2025 00:51:09 GMT | ️‍♂️ MAC Spoofing: The Danger Behind Network Identity | Wesley Santos | [Read More](https://medium.com/p/2260b4aa9728) |
-| Fri, 28 Nov 2025 00:27:54 GMT | Complete OSINT Roadmap (Beginner → Expert) | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/1def781c844f) |
-| Fri, 28 Nov 2025 00:27:01 GMT | Wireshark for Pentesting — The Complete Practical Guide | ghostyjoe | [Read More](https://medium.com/p/39a7b8420858) |
-| Fri, 28 Nov 2025 00:12:08 GMT | Should Married Couples Check Each Other’s Phones? The Truth About Trust and Privacy | EdithTali | [Read More](https://medium.com/p/a961d3ea9b40) |
-| Fri, 28 Nov 2025 00:11:42 GMT | HealthGPT - TryHackme Walkthrough | Gustavo Henrique | [Read More](https://medium.com/p/e79585961f58) |
-| Thu, 27 Nov 2025 23:29:02 GMT | 30 Days of Red Team: Day 10 — Building Custom C2 Infrastructure (Your Lifeline to Compromised… | Maxwell Cross | [Read More](https://medium.com/p/a2fae44f41a0) |
