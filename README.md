@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 16:19:22 GMT | แชร์ประสบการณ์และการเตรียมตัวสอบ OSCP+ ครั้งแรก 2025 | Clumsy | [Read More](https://medium.com/p/146f51ee7964) |
+| Fri, 28 Nov 2025 16:13:33 GMT | Insubordination of the People’s Liberation Army During the Tiananmen Square Demonstrations | 永熙 | [Read More](https://medium.com/p/09674b3f932a) |
+| Fri, 28 Nov 2025 16:10:01 GMT | Next-Generation Firewall Strategies for Smarter, Safer Enterprise Networks | ANSI Technologies | [Read More](https://medium.com/p/238846ad67bc) |
+| Fri, 28 Nov 2025 16:02:10 GMT | Smart Marketing vs. Sneaky Manipulation: 5 Brain‑Based Hacks and 5 Red Flags | Joy Healey | [Read More](https://medium.com/p/25572ceee2a9) |
+| Fri, 28 Nov 2025 15:59:47 GMT | Top 5 Udemy Courses for Certified Information Systems Security Professional (CISSP) Certification… | javinpaul | [Read More](https://medium.com/p/78a54197bde3) |
+| Fri, 28 Nov 2025 15:58:56 GMT | Installing NetworkMiner & Zui (previously Brim) for Networking Monitoring — Cybersecurity Homelab… | 0xRahuL | [Read More](https://medium.com/p/166dbc882f5e) |
+| Fri, 28 Nov 2025 15:54:36 GMT | Putting my Feelings in Your Pocket | Prospero | [Read More](https://medium.com/p/d8a4b59dd620) |
+| Fri, 28 Nov 2025 15:52:35 GMT | The Truth Behind Younger Women Dating Older Men — Society’s Hidden Reality | Laura Miller | [Read More](https://medium.com/p/334306fb69c2) |
+| Fri, 28 Nov 2025 15:48:47 GMT | Flagyard: tchshop — Web-Easy SSTI Writeup | Abdullah | [Read More](https://medium.com/p/cb4bc6974c4d) |
+| Fri, 28 Nov 2025 15:44:19 GMT | PwnTillDawn Snare Machine Writeup | Bazil Brohi | [Read More](https://medium.com/p/892edb1603ab) |
+| Fri, 28 Nov 2025 15:41:08 GMT | From Caesar to the Next Generation: How HRC Could Redefine Encryption/Short | Amr Hafez | [Read More](https://medium.com/p/7ad50b7f89ab) |
+| Fri, 28 Nov 2025 15:40:15 GMT | I Built a Private AI “Second Brain” to Quiz Me on My Notes Every Morning. Here’s How. | Kaizen | [Read More](https://medium.com/p/45649501da36) |
 | Fri, 28 Nov 2025 15:40:00 GMT | Human Trafficking in Canada: What Every Security Professional Needs to Know | Scott Hill | [Read More](https://medium.com/p/1604914f8e8c) |
+| Fri, 28 Nov 2025 15:31:40 GMT | Cyber Hygiene 101: Simple Daily Habits That Protect You Online | Salman Khan | [Read More](https://medium.com/p/aed7e7f6b175) |
 | Fri, 28 Nov 2025 15:30:30 GMT | MY FIRST BOUNTY | 8192051 | [Read More](https://medium.com/p/6854cc733b16) |
 | Fri, 28 Nov 2025 15:29:40 GMT | How Deepfakes Are Becoming a New Threat in India | Amol Rangari | [Read More](https://medium.com/p/88946cff5f47) |
 | Fri, 28 Nov 2025 15:29:38 GMT | How Smart Homes Make You Vulnerable And How to Stay Safe | Salman Khan | [Read More](https://medium.com/p/f3dea39c2ad4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 10:15:49 GMT | Military Keynesianism | Dylan Evans | [Read More](https://medium.com/p/fb08e49852d2) |
 | Fri, 28 Nov 2025 10:12:16 GMT | Why 95% of Bug Bounty Hunters Quit (And How the 5% Actually Make Money) | BugHunter’s Journal | [Read More](https://medium.com/p/730863b854d5) |
 | Fri, 28 Nov 2025 10:10:24 GMT | Bluetooth Keeps Disconnecting? 9 Proven Fixes That Actually Work | Bryan Collins | [Read More](https://medium.com/p/2e8a86633b49) |
-| Fri, 28 Nov 2025 09:59:07 GMT | The Copilot Paradigm: Why AI Works When It Amplifies Human Agency | Navigating Complexity | [Read More](https://medium.com/p/c25bfa89f748) |
-| Fri, 28 Nov 2025 09:50:55 GMT | How I Cleared the eWPT Exam in My FIRST ATTEMPT… | Shivprasad Lavhat | [Read More](https://medium.com/p/477596c72076) |
-| Fri, 28 Nov 2025 09:48:56 GMT | Get Free Nano Banana Pro for Your Cyber Monday Reports | Dan | [Read More](https://medium.com/p/28bdf4cb97ac) |
-| Fri, 28 Nov 2025 09:44:51 GMT | Untuk Apa Hidup? Untuk Satu Lagi | Krisan | [Read More](https://medium.com/p/e87c8c581bd7) |
-| Fri, 28 Nov 2025 09:41:04 GMT | CTI: Dark Web Credential Monitoring Is Expensive Regret Notification | Jeremyah Joel | [Read More](https://medium.com/p/8254cefa432a) |
-| Fri, 28 Nov 2025 09:37:35 GMT | How Do You Optimize Traffic in a Software‑defined Private Network Spanning Multiple Clouds? | Cloud4C Services | [Read More](https://medium.com/p/76b3b46ba2a7) |
-| Fri, 28 Nov 2025 09:34:52 GMT | NKSCX Compliance Lens: When Crypto Rails Turn Against the Digital Piracy Economy | NKSCX - Smart Crypto Trading | [Read More](https://medium.com/p/65eff35439a3) |
-| Fri, 28 Nov 2025 09:24:45 GMT | A WhatsApp Message, a Misplaced Joke, and a Missed Red Flag | Gautam Mengle | [Read More](https://medium.com/p/caf0a4000a00) |
-| Fri, 28 Nov 2025 09:24:31 GMT | Yara | Altun Tarverdiyev | [Read More](https://medium.com/p/69fbede05911) |
-| Fri, 28 Nov 2025 09:22:31 GMT | Streamlining BEC case and Cloud Log Analysis with Free Tools: Microsoft-Extractor-Suite and… | Dean | [Read More](https://medium.com/p/c3964510e408) |
-| Fri, 28 Nov 2025 09:22:14 GMT | Bloody Wolf’s Shadow War: Inside the Java-Based NetSupport RAT Campaign in Central Asia | Germano Costi | [Read More](https://medium.com/p/f71f8600a1d1) |
-| Fri, 28 Nov 2025 09:17:45 GMT | Your Complete Guide to OWASP’s Essential Security Resources: Why Every Developer Needs These 9… | Cyberbali | [Read More](https://medium.com/p/84f535116dbc) |
-| Fri, 28 Nov 2025 09:16:52 GMT | INFORME DE AUDITORÍA EN VIVO: ChatGPT IGNORA REGLAS, MANIPULA LÓGICA Y TRIVIALIZA TRAGEDIAS POR EL… | daniel Martinez | [Read More](https://medium.com/p/d47447a73d81) |
