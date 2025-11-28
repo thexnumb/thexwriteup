@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 19:12:56 GMT | Network Fu: From Zero to Netcat Ninja on the Linux Command Line | Santhosh Adiga U | [Read More](https://medium.com/p/8756c3bd68b8) |
+| Fri, 28 Nov 2025 19:02:39 GMT | What Leaders Must Do When Chaos Spreads in Software Organizations | Developer Partners | [Read More](https://medium.com/p/1e0a231f2297) |
+| Fri, 28 Nov 2025 19:02:13 GMT | Cybersecurity News Review — Week 48 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/953ac2a8e72b) |
+| Fri, 28 Nov 2025 18:52:02 GMT | Benefits of Choosing a Certified Secure Datawipe Provider | Rewaste | [Read More](https://medium.com/p/9012b010b365) |
+| Fri, 28 Nov 2025 18:51:29 GMT | FOG | Sherahdaniels | [Read More](https://medium.com/p/f51f60a42695) |
+| Fri, 28 Nov 2025 18:38:27 GMT | I Took a Cybersecurity Course on AI and Now I’m Paranoid (In a Good Way) | Cezary Gesikowski | [Read More](https://medium.com/p/3e4a422cfcb7) |
+| Fri, 28 Nov 2025 18:35:23 GMT | Shattered Connectivity: Cyberattack Disrupts Shared IT Systems Across London Boroughs | valasala suhas | [Read More](https://medium.com/p/b659c80df923) |
+| Fri, 28 Nov 2025 18:33:32 GMT | imToken Activity Report: November 2025 | imToken Persian Community | [Read More](https://medium.com/p/5c2b4ce6d057) |
+| Fri, 28 Nov 2025 18:32:26 GMT | Cracking the Login: My First SQL Injection Automation Script (Hands-On Lab) | Purushotham.R | [Read More](https://medium.com/p/b0176ad38540) |
+| Fri, 28 Nov 2025 18:26:49 GMT | Hybrid Computing: How AI Is Reshaping Cloud, Edge, and On-Device Processing | Amrizal31 | [Read More](https://medium.com/p/88f211d06596) |
+| Fri, 28 Nov 2025 18:21:58 GMT | Google Machine Learning Jobs Guide: Roles, Skills, Salary and Career Tips | Motherlandlove | [Read More](https://medium.com/p/9fc4c66df7c1) |
+| Fri, 28 Nov 2025 18:17:58 GMT | SSH Hardening and Brute Force Prevention Using Fail2ban | Aisha B. B | [Read More](https://medium.com/p/600f510f3360) |
+| Fri, 28 Nov 2025 18:16:41 GMT | The AI Black Box: What Solving the Gandalf Challenge Taught Me About LLM Security | Ifii | [Read More](https://medium.com/p/8fad63089dd1) |
 | Fri, 28 Nov 2025 18:16:24 GMT | How I Hacked an AI Chatbot to Expose Thousands of Customer Records (IDOR + Prompt Injection) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/760092ed99a4) |
 | Fri, 28 Nov 2025 18:09:43 GMT | From Criminal Chatter to Your Checklist: How I Turned Hacker TTPs Into a $ Pentest Payday ️‍♂️ | Iski | [Read More](https://medium.com/p/ffc1dc9b3434) |
 | Fri, 28 Nov 2025 17:59:44 GMT | How I Discovered a Rare Vulnerability in MCP Server — Bug Bounty | 1day | [Read More](https://medium.com/p/28a0ef643902) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 12:20:02 GMT | How a messing Header Led to Account Takeover | Aftab Raja | [Read More](https://medium.com/p/912046526037) |
 | Fri, 28 Nov 2025 12:15:30 GMT | I Got Tired of Vendor Breach Emails — So I Built an AI Security Copilot That Reads Them for Me | Damian Ketting | [Read More](https://medium.com/p/3ba38c89a6d1) |
 | Fri, 28 Nov 2025 12:11:42 GMT | How I Pwned Telemetry on Amsterdam.nl | MRKNIGHT-NIDU | [Read More](https://medium.com/p/9d2baf2b3d7f) |
-| Fri, 28 Nov 2025 12:06:58 GMT | Turtbit doubles down on web solutions in India’s fast-growing digital economy | Nuver Media | [Read More](https://medium.com/p/fb6223ebf462) |
-| Fri, 28 Nov 2025 12:01:21 GMT | TSK Automations — A Global Leader in Cybersecurity, Cloud, Managed IT & Enterprise Automation | Tskautomations | [Read More](https://medium.com/p/78f0b2ff785d) |
-| Fri, 28 Nov 2025 12:00:42 GMT | Today’s Top Cyber Intelligence Highlights — Nov 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8f1d613ada4f) |
-| Fri, 28 Nov 2025 11:58:28 GMT | Ghosts From MuddyWater | Decoded Intel | [Read More](https://medium.com/p/fb55be353a1b) |
-| Fri, 28 Nov 2025 11:54:24 GMT | Why This ChatGPT Prompt Is a Powerhouse for Creating Engaging, Insightful, and Profitable… | Noel | [Read More](https://medium.com/p/6e921c545703) |
-| Fri, 28 Nov 2025 11:50:54 GMT | The First Time I Failed in Cybersecurity I Thought I Had It Covered — Until This Happened | Fook Hwa Tan | [Read More](https://medium.com/p/37c4cf1d7288) |
-| Fri, 28 Nov 2025 11:47:22 GMT | Behind the Scenes at Northwave What Most Don’t See: How We Secure Clients from the Inside Out | Fook Hwa Tan | [Read More](https://medium.com/p/341c1ce4635f) |
-| Fri, 28 Nov 2025 11:43:16 GMT | How to use ligolo-ng | SeverSerenity | [Read More](https://medium.com/p/23c80accc401) |
-| Fri, 28 Nov 2025 11:34:11 GMT | JWT KID Vulnerability | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/7d65e6af704a) |
-| Fri, 28 Nov 2025 11:30:27 GMT | BEHIND THE BREACH: A Live Conversation with Jon DiMaggio | Elizabeth Ekedoro | [Read More](https://medium.com/p/351765d9de7d) |
-| Fri, 28 Nov 2025 11:27:21 GMT | Surface Exposure Level Calculation: A Mathematical Framework for True Security Assessment | Tomio Kobayashi | [Read More](https://medium.com/p/4447f66c2ee0) |
-| Fri, 28 Nov 2025 11:19:44 GMT | Difficulties I Faced to Crack My Interview in IT — And How I Finally Overcame Them | JetkingChandigarh | [Read More](https://medium.com/p/d4d4b1c1c5a8) |
-| Fri, 28 Nov 2025 11:19:08 GMT | Struggling With PC Threats? Choose the Best Antivirus for Windows | SiyanoAV | [Read More](https://medium.com/p/7edae959362e) |
