@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 13:09:46 GMT | Dormant Echoes: The Exiled Code & The Logic of Systemic Decay | zoctracker | [Read More](https://medium.com/p/9a92b85a239a) |
+| Fri, 28 Nov 2025 13:08:19 GMT | SSL Isn’t Enough: The Real Layers of Website Security in 2025 | Saqib Naseer | [Read More](https://medium.com/p/a9689bdf8e03) |
+| Fri, 28 Nov 2025 13:04:56 GMT | Using AI & ML to Hunt Malicious Process Behavior on Windows | Myth | [Read More](https://medium.com/p/897182fda941) |
+| Fri, 28 Nov 2025 13:02:39 GMT | The Hidden Teams Security Gap: How Guest Access Can Bypass Microsoft Defender (And What To Do About… | Aaron | [Read More](https://medium.com/p/fade0a2c3622) |
+| Fri, 28 Nov 2025 13:02:14 GMT | I Didn’t Realize How Dangerous It Is to Post Kids’ Photos Online — Until I Saw This. | Chenna | [Read More](https://medium.com/p/a09dd18a0793) |
+| Fri, 28 Nov 2025 12:56:17 GMT | IoT Attacks Surge as Threat Actors Accelerate Critical Vulnerability Exploitation | Loginsoft | [Read More](https://medium.com/p/24a4596a1b88) |
+| Fri, 28 Nov 2025 12:55:09 GMT | Why Eduleem’s AWS Training Feels More Practical? | mohammedkaali | [Read More](https://medium.com/p/f57572058350) |
+| Fri, 28 Nov 2025 12:47:50 GMT | Policy Automation Made Easy: Installing Kyverno on Conformant Kubernetes Clusters (VKS) | Saurabh Tandon | [Read More](https://medium.com/p/f1e4ca2e0670) |
+| Fri, 28 Nov 2025 12:44:38 GMT | Top 50 Cyber Security Interview Questions and Answers 2025 | Irfan Sharief | [Read More](https://medium.com/p/0006797ab572) |
+| Fri, 28 Nov 2025 12:32:34 GMT | I Was a ‘Good’ Developer for Years — Until I Realized That Means Nothing | The Dev Notebook | [Read More](https://medium.com/p/a6948bf0a1cf) |
 | Fri, 28 Nov 2025 12:24:21 GMT | Kali Linux for Beginners: Simple Cybersecurity Skills & Commands Every New Hacker Should Know… | pavani | [Read More](https://medium.com/p/3f1ba69b6655) |
 | Fri, 28 Nov 2025 12:22:08 GMT | How to Test User Registration for Bugs | Ibtissam | [Read More](https://medium.com/p/444a0ce0d054) |
 | Fri, 28 Nov 2025 12:20:17 GMT | Most People Can’t Answer This Question. Can You? | Jay Thummar | [Read More](https://medium.com/p/912c2376a266) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 07:11:08 GMT | Part 5: 55 Essential Tools Every OT Security & Penetration Tester Should Master in 2025 | Shanmuksrisai | [Read More](https://medium.com/p/7da8af476ab8) |
 | Fri, 28 Nov 2025 07:10:42 GMT | VPN extensions for Chrome: 2025 best free and paid options | Safelyo VPN | [Read More](https://medium.com/p/42960c224a7e) |
 | Fri, 28 Nov 2025 07:02:57 GMT | What is Networking? A Hacker’s Guide to Understanding the Web of Connections. | azrecon_ | [Read More](https://medium.com/p/b3304392d617) |
-| Fri, 28 Nov 2025 06:55:20 GMT | New Supply Chain Attack Alert: Malicious npm Packages Precisely Identify User Environments | YT.Shi | [Read More](https://medium.com/p/2f01cb670c1d) |
-| Fri, 28 Nov 2025 06:53:53 GMT | Harvard University Reports Data Breach Impacting Alumni and Donors | Himanshu Bhatt | [Read More](https://medium.com/p/d630ee12b402) |
-| Fri, 28 Nov 2025 06:52:43 GMT | Master Automatic CVE Tracking Toolkit for Bug Bounty Hunters: Step-by-Step Guide to Real-World… | Very Lazy Tech | [Read More](https://medium.com/p/c143b3c77e5d) |
-| Fri, 28 Nov 2025 06:50:17 GMT | A Simple Introduction to ISO 27001 — And Why You Should Care | Viola | [Read More](https://medium.com/p/870bca1754fa) |
-| Fri, 28 Nov 2025 06:47:00 GMT | How to decide which VPN country to use for each case | Millie Bobby | [Read More](https://medium.com/p/12957117a4b5) |
-| Fri, 28 Nov 2025 06:46:25 GMT | Advance Your Career with an Advanced Diploma in Information Technology | AIST | [Read More](https://medium.com/p/18f78ccd5d23) |
-| Fri, 28 Nov 2025 06:42:18 GMT | The Daily Tech Digest: 28 November 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b6ca6dd8ead3) |
-| Fri, 28 Nov 2025 06:42:10 GMT | ZoomEye Practice — Efficiently Discovering and Expanding Malicious Sites | ZoomEye | [Read More](https://medium.com/p/8cc8b612bab1) |
-| Fri, 28 Nov 2025 06:33:58 GMT | When Home Starts Bleeding Again | Hamna En Tanoli | [Read More](https://medium.com/p/cd7817fcc48b) |
-| Fri, 28 Nov 2025 06:27:51 GMT | What Is Shoulder Surfing? How It Works and How to Stop It [Complete Guide — 2025] | Hamza Hanif | [Read More](https://medium.com/p/1de38e30c58b) |
