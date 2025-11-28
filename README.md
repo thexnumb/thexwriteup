@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 04:30:05 GMT | From a 12-Hour Soft Fork Recovery to the Final Mile of Governance | HydroDrip | [Read More](https://medium.com/p/e92c1233406c) |
+| Fri, 28 Nov 2025 04:28:22 GMT | How I Discovered 8 Header-Injection Weaknesses on a Wix-Hosted Domain | Tyreek Haynes | [Read More](https://medium.com/p/39ce35194028) |
+| Fri, 28 Nov 2025 04:25:37 GMT | Adaptability Is Our Oldest Tradition | MM Writes | [Read More](https://medium.com/p/eeed41a7529f) |
+| Fri, 28 Nov 2025 04:19:11 GMT | Introduction to Cybersecurity | Isaac Ijuo | [Read More](https://medium.com/p/2eeb507b6bf7) |
 | Fri, 28 Nov 2025 04:00:46 GMT | Cut the Noise: Make Your Security Tools Actually Work for You | Plexicus | [Read More](https://medium.com/p/cea65d111938) |
 | Fri, 28 Nov 2025 03:59:14 GMT | The Tehran Dilemma: Is It Time for a New U.S. Diplomatic Opening with Iran? | MASUM BILLAH | [Read More](https://medium.com/p/b39ff2cd175a) |
 | Fri, 28 Nov 2025 03:58:19 GMT | Setting Up a New Contabo Cloud VPS (Using Termius) | Arya Fadhil Sagitarisandy | [Read More](https://medium.com/p/1d8bb0161faf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 16:54:38 GMT | Ethical Hacking and the Reality of Digital Fragility | Decentr | [Read More](https://medium.com/p/17c9277a2ae5) |
 | Thu, 27 Nov 2025 16:54:09 GMT | Ransomware-as-a-Service (RaaS) Is Getting Bigger — And More Dangerous | Cyberhominid | [Read More](https://medium.com/p/f874a22b1936) |
 | Thu, 27 Nov 2025 16:52:38 GMT | The Day Digital Trust Died: Why Every System We Rely On Is Failing at the Same Time | Abatis ABTU | [Read More](https://medium.com/p/2456c6f9c62e) |
-| Thu, 27 Nov 2025 16:50:28 GMT | ICYMI — pre:Invent 2025 announcements | Lorcan O'Flynn | [Read More](https://medium.com/p/7795ee81841a) |
-| Thu, 27 Nov 2025 16:42:41 GMT | Turning Your Laptop Into A Portable Data Harvester | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/841725cbd6b2) |
-| Thu, 27 Nov 2025 16:36:06 GMT | How Northern Nigeria Became a War Zone: The Roots of Boko Haram, Banditry, and Extremist Violence | Oni Oluwapelumi Esther | [Read More](https://medium.com/p/136cd6bc47d4) |
-| Thu, 27 Nov 2025 16:31:07 GMT | Top AI Productivity Tools 2026 for Big Business Owners (Full Guide)Top AI Productivity Tools 2026… | Motherlandlove | [Read More](https://medium.com/p/5ddc86625bc4) |
