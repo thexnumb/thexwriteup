@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 10:17:23 GMT | Is Your AI Watching You More Than You Think | Czarif | [Read More](https://medium.com/p/d8ed2457145a) |
+| Fri, 28 Nov 2025 10:12:16 GMT | Why 95% of Bug Bounty Hunters Quit (And How the 5% Actually Make Money) | BugHunter’s Journal | [Read More](https://medium.com/p/730863b854d5) |
+| Fri, 28 Nov 2025 10:10:24 GMT | Bluetooth Keeps Disconnecting? 9 Proven Fixes That Actually Work | Bryan Collins | [Read More](https://medium.com/p/2e8a86633b49) |
+| Fri, 28 Nov 2025 09:59:07 GMT | The Copilot Paradigm: Why AI Works When It Amplifies Human Agency | Navigating Complexity | [Read More](https://medium.com/p/c25bfa89f748) |
+| Fri, 28 Nov 2025 09:50:55 GMT | How I Cleared the eWPT Exam in My FIRST ATTEMPT… | Shivprasad Lavhat | [Read More](https://medium.com/p/477596c72076) |
+| Fri, 28 Nov 2025 09:48:56 GMT | Get Free Nano Banana Pro for Your Cyber Monday Reports | Dan | [Read More](https://medium.com/p/28bdf4cb97ac) |
+| Fri, 28 Nov 2025 09:44:51 GMT | Untuk Apa Hidup? Untuk Satu Lagi | Krisan | [Read More](https://medium.com/p/e87c8c581bd7) |
+| Fri, 28 Nov 2025 09:41:04 GMT | CTI: Dark Web Credential Monitoring Is Expensive Regret Notification | Jeremyah Joel | [Read More](https://medium.com/p/8254cefa432a) |
 | Fri, 28 Nov 2025 09:37:35 GMT | How Do You Optimize Traffic in a Software‑defined Private Network Spanning Multiple Clouds? | Cloud4C Services | [Read More](https://medium.com/p/76b3b46ba2a7) |
 | Fri, 28 Nov 2025 09:34:52 GMT | NKSCX Compliance Lens: When Crypto Rails Turn Against the Digital Piracy Economy | NKSCX - Smart Crypto Trading | [Read More](https://medium.com/p/65eff35439a3) |
 | Fri, 28 Nov 2025 09:24:45 GMT | A WhatsApp Message, a Misplaced Joke, and a Missed Red Flag | Gautam Mengle | [Read More](https://medium.com/p/caf0a4000a00) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 02:35:43 GMT | GenAI x Sec Advent (2025 edition) | Thomas Roccia | [Read More](https://medium.com/p/32c52ff753b4) |
 | Fri, 28 Nov 2025 02:32:03 GMT | PortSwigger Lab Write‑Up: 2FA bypass using a brute-force attack | Anas Elsaba | [Read More](https://medium.com/p/69f41ef36168) |
 | Fri, 28 Nov 2025 02:31:24 GMT | Brazil’s WhatsApp Malware Wave Targets Banking And Crypto Users | Geoffrey Wenger | [Read More](https://medium.com/p/d861d85e7758) |
-| Fri, 28 Nov 2025 02:26:48 GMT | Neural Databases: The Database Revolution Nobody Saw Coming in 2025 | The Dev Notebook | [Read More](https://medium.com/p/04738fe3d63a) |
-| Fri, 28 Nov 2025 02:15:27 GMT | IDN Homograph attack | L0da | [Read More](https://medium.com/p/f27b3e0d9d6e) |
-| Fri, 28 Nov 2025 02:14:33 GMT | How 2FA TOTP Tokens Are Time-Synced Offline | Aviral Srivastava | [Read More](https://medium.com/p/e078895e9472) |
-| Fri, 28 Nov 2025 02:11:36 GMT | Chula — Defence Ministry Collaboration Empowers Human Capital for a Secure Future | Chulalongkorn University | [Read More](https://medium.com/p/c95ee808e913) |
-| Fri, 28 Nov 2025 01:39:18 GMT | How OCDP by Open Code Mission Changes the Red Team Playbook | Graham dePenros | [Read More](https://medium.com/p/23ebed25248b) |
-| Fri, 28 Nov 2025 01:33:51 GMT | Shadow AI: The Enterprise Security Crisis Nobody Is Prepared For | Irgyagentaarnezzi | [Read More](https://medium.com/p/b3f218f1c22f) |
-| Fri, 28 Nov 2025 01:18:06 GMT | The Digital Revolution in Security Training — And How to Stay Ahead | Sarmin Islam | [Read More](https://medium.com/p/8c0e9e2f81d0) |
-| Fri, 28 Nov 2025 01:13:09 GMT | What I Learned From a Popular Hardware Trojan Survey | Surabhi Misra | [Read More](https://medium.com/p/65d57f4bf094) |
