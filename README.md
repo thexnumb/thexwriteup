@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 17:25:53 GMT | TryHackMe - Intro To Pwntools - WriteUp | Axoloth | [Read More](https://medium.com/p/45860de17f20) |
+| Fri, 28 Nov 2025 17:25:20 GMT | Principles of Cyber Security — Week 1 | Ayoade Akintayo (PhD) | [Read More](https://medium.com/p/1f03d28e77c4) |
+| Fri, 28 Nov 2025 17:22:43 GMT | Zero To Root: The Journey Begins | Zor0ark | [Read More](https://medium.com/p/46a64ea50abb) |
+| Fri, 28 Nov 2025 17:21:41 GMT | What the New SEC Cybersecurity Rules Mean for Your Business | professional educator | [Read More](https://medium.com/p/ceb2b15088f1) |
+| Fri, 28 Nov 2025 17:13:57 GMT | Building a Cybersecurity Home Lab — Part 4.4: Caldera Installation & Configuration | JBXSec | [Read More](https://medium.com/p/421cddea421a) |
 | Fri, 28 Nov 2025 17:11:45 GMT | OffSec Exploit Developer (OSED): Course Review and Exam Preparation Tips | Cyd Tseng | [Read More](https://medium.com/p/637a208934b8) |
 | Fri, 28 Nov 2025 17:07:20 GMT | File I/O (Input/Output) and Serialization in Java | Salwa Fijri | [Read More](https://medium.com/p/761b20a76ad1) |
+| Fri, 28 Nov 2025 17:05:23 GMT | Why I Always Disable Direct Root Logins on Linux (And How It Stops Silent Privilege Abuse) | Faruk Ahmed | [Read More](https://medium.com/p/1042670e3b75) |
 | Fri, 28 Nov 2025 17:02:21 GMT | Shai Hulud Scanner | Jaime Garcia Diaz | [Read More](https://medium.com/p/634e5b758624) |
 | Fri, 28 Nov 2025 17:02:11 GMT | What Does a Cybersecurity Analyst Really Do? A Look Inside the Most In-Demand Security Role Today | Ferdi Edogawa | [Read More](https://medium.com/p/59663b7b9286) |
 | Fri, 28 Nov 2025 16:53:17 GMT | The day after the first Cryptographically Relevant Quantum Computer(CRQC) | Mark Tehrani | [Read More](https://medium.com/p/19e5eaf147c3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 10:52:59 GMT | Bug Bounty Tips: How OTP Bypass Techniques Helped Me Find Multiple Bugs in Bug Bounty Programs | Harshtalavaniya | [Read More](https://medium.com/p/c29de4bb7a84) |
 | Fri, 28 Nov 2025 10:49:05 GMT | Turn Shared Hosting into a Seamless Experience | Andy | [Read More](https://medium.com/p/2e2eb1973d79) |
 | Fri, 28 Nov 2025 10:48:54 GMT | Zero Privs to Admin, BitPixie’s Software-only BitLocker bypass | Guus Verbeek | [Read More](https://medium.com/p/722da9b44011) |
-| Fri, 28 Nov 2025 10:48:12 GMT | EN 18031: Why Outdated Documentation Puts You at Risk With Market Surveillance Authorities | Dr. Guillaume Dupont | [Read More](https://medium.com/p/47ee8ad17679) |
-| Fri, 28 Nov 2025 10:45:30 GMT | Civic Day of Hacking: Empowering Communities Through Technology | bispendra jewels | [Read More](https://medium.com/p/85225d028aed) |
-| Fri, 28 Nov 2025 10:39:48 GMT | Nigeria’s Security Crisis Is a Governance Crisis — And Only Deep Structural Reform Can Fix It | Michael Oluwagbemi | [Read More](https://medium.com/p/f7db40f1410c) |
-| Fri, 28 Nov 2025 10:34:02 GMT | YOUR PC’S DIGITAL SHIELDS | Keyur | [Read More](https://medium.com/p/3d996cee466e) |
-| Fri, 28 Nov 2025 10:32:11 GMT | robots.txt Explained Simply: How Websites Talk to Search Engines | Natarajan C K | [Read More](https://medium.com/p/d99eeb773060) |
-| Fri, 28 Nov 2025 10:32:04 GMT | When the Brewery Went Dark: What Asahi’s Cyberattack Teaches Us About Modern Vulnerability | gbolahan akinbola | [Read More](https://medium.com/p/b8a85c9682d4) |
