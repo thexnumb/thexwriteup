@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 20:17:53 GMT | How I Used Splunk in My Home Lab to Build Real-World Security Skills | Devinn C. | [Read More](https://medium.com/p/004daa52fc1d) |
+| Fri, 28 Nov 2025 20:01:38 GMT | Why Are Security Solutions in Manhattan, NY Essential for Modern Safety? | Exploring Multiple Service | [Read More](https://medium.com/p/54dd05eef18a) |
+| Fri, 28 Nov 2025 20:01:20 GMT | 2. 1 : virtualization Software | ABACOM CYBER-GURU | [Read More](https://medium.com/p/ffa3ab58cb1d) |
+| Fri, 28 Nov 2025 19:57:18 GMT | A Comprehensive Guide to Security Solutions in Manhattan, NY | Exploring Multiple Service | [Read More](https://medium.com/p/96d53c122844) |
+| Fri, 28 Nov 2025 19:56:39 GMT | Cracked: A Poem | Stephanie Bates | [Read More](https://medium.com/p/a11cdb0fa65d) |
+| Fri, 28 Nov 2025 19:51:46 GMT | Let us see t | h.s | [Read More](https://medium.com/p/77d7709f1890) |
+| Fri, 28 Nov 2025 19:47:59 GMT | How Artificial Intelligence Is Empowering Cybercriminals | David SEHYEON Baek | [Read More](https://medium.com/p/b668137daf9c) |
+| Fri, 28 Nov 2025 19:41:35 GMT | The 5 elements of a good cybersecurity risk assessment | Sarah Fluchs | [Read More](https://medium.com/p/636bc8e2008e) |
+| Fri, 28 Nov 2025 19:36:55 GMT | The Accidental Hack: How I Stumbled Into a Server and Found a Password in the Static | Santhosh Adiga U | [Read More](https://medium.com/p/348731beb070) |
 | Fri, 28 Nov 2025 19:29:07 GMT | How I Use JavaScript Files to Discover Hidden Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/a434eda7f7af) |
 | Fri, 28 Nov 2025 19:25:50 GMT | The Unmanned Threat: Autonomous AI is Ending Human Cybersecurity | Isabella Butera | [Read More](https://medium.com/p/23d8b71450ba) |
 | Fri, 28 Nov 2025 19:24:43 GMT | The Three Layers Of Information Every Human Leaks In Public | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/30d200d7d629) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 13:09:46 GMT | Dormant Echoes: The Exiled Code & The Logic of Systemic Decay | zoctracker | [Read More](https://medium.com/p/9a92b85a239a) |
 | Fri, 28 Nov 2025 13:08:19 GMT | SSL Isn’t Enough: The Real Layers of Website Security in 2025 | Saqib Naseer | [Read More](https://medium.com/p/a9689bdf8e03) |
 | Fri, 28 Nov 2025 13:04:56 GMT | Using AI & ML to Hunt Malicious Process Behavior on Windows | Myth | [Read More](https://medium.com/p/897182fda941) |
-| Fri, 28 Nov 2025 13:02:39 GMT | The Hidden Teams Security Gap: How Guest Access Can Bypass Microsoft Defender (And What To Do About… | Aaron | [Read More](https://medium.com/p/fade0a2c3622) |
-| Fri, 28 Nov 2025 13:02:14 GMT | I Didn’t Realize How Dangerous It Is to Post Kids’ Photos Online — Until I Saw This. | Chenna | [Read More](https://medium.com/p/a09dd18a0793) |
-| Fri, 28 Nov 2025 12:56:17 GMT | IoT Attacks Surge as Threat Actors Accelerate Critical Vulnerability Exploitation | Loginsoft | [Read More](https://medium.com/p/24a4596a1b88) |
-| Fri, 28 Nov 2025 12:55:09 GMT | Why Eduleem’s AWS Training Feels More Practical? | mohammedkaali | [Read More](https://medium.com/p/f57572058350) |
-| Fri, 28 Nov 2025 12:47:50 GMT | Policy Automation Made Easy: Installing Kyverno on Conformant Kubernetes Clusters (VKS) | Saurabh Tandon | [Read More](https://medium.com/p/f1e4ca2e0670) |
-| Fri, 28 Nov 2025 12:44:38 GMT | Top 50 Cyber Security Interview Questions and Answers 2025 | Irfan Sharief | [Read More](https://medium.com/p/0006797ab572) |
-| Fri, 28 Nov 2025 12:32:34 GMT | I Was a ‘Good’ Developer for Years — Until I Realized That Means Nothing | The Dev Notebook | [Read More](https://medium.com/p/a6948bf0a1cf) |
-| Fri, 28 Nov 2025 12:24:21 GMT | Kali Linux for Beginners: Simple Cybersecurity Skills & Commands Every New Hacker Should Know… | pavani | [Read More](https://medium.com/p/3f1ba69b6655) |
-| Fri, 28 Nov 2025 12:22:08 GMT | How to Test User Registration for Bugs | Ibtissam | [Read More](https://medium.com/p/444a0ce0d054) |
