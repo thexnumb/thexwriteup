@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 03:49:50 GMT | When Bookmarklets Meet Frontend Reality: From “Auto-Fill Convenience” to “Anti-Automation… | Liu Xiaogong - Debugging Code and Tantrums Alike | [Read More](https://medium.com/p/13c64ea39d0e) |
+| Fri, 28 Nov 2025 03:32:28 GMT | How Jingle Thief Turns Cloud Access Into High-Value Fraud During the Festive Season | Deven Chhajed | [Read More](https://medium.com/p/33c00448bd3f) |
+| Fri, 28 Nov 2025 03:19:15 GMT | The Digital Dilemma: When Keeping Knowledge Feels Wrong | Rabail Zaheer | [Read More](https://medium.com/p/57162ef8aab0) |
+| Fri, 28 Nov 2025 03:19:01 GMT | Maximum Mobile Privacy in 2025: No-Compromise Phone & Tablet Setup | Officer's Notes | [Read More](https://medium.com/p/e0ed4b27ba37) |
 | Fri, 28 Nov 2025 02:48:07 GMT | 7 Ways USB C Can Rescue Your Daily Tech Problems | Steven Chin | [Read More](https://medium.com/p/dfc5ee9aec74) |
 | Fri, 28 Nov 2025 02:42:09 GMT | Intigriti Monthly Code Challenge November 2025 | BXPLOIT | [Read More](https://medium.com/p/a96114e39550) |
 | Fri, 28 Nov 2025 02:36:02 GMT | Sometimes being known in our darkness feels safer than being loved in our light | EternalAmore | [Read More](https://medium.com/p/092ded583640) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 16:25:24 GMT | The AI Readiness Audit | John Williams | [Read More](https://medium.com/p/f80de6a91ab4) |
 | Thu, 27 Nov 2025 16:25:23 GMT | The Hidden Layer Of OSINT That Most Analysts Never Learn | Rendur M. Saunter | [Read More](https://medium.com/p/b7b266012905) |
 | Thu, 27 Nov 2025 16:24:21 GMT | Poetry: The Morse Code for the Ages | Thuba Kope | [Read More](https://medium.com/p/f08fb869253d) |
-| Thu, 27 Nov 2025 16:22:02 GMT | Top 5 Security Patterns Every React.js Developer Should Know | Asjad Abrar | [Read More](https://medium.com/p/2daee63b0d88) |
-| Thu, 27 Nov 2025 16:17:29 GMT | Why IBM Cloud Networking Is a Great Starting Point for New Engineers | Nawaf Alsabah | [Read More](https://medium.com/p/08cd978b9473) |
-| Thu, 27 Nov 2025 16:16:57 GMT | AI-Driven Security Group Risk Analysis on AWS — A Fully Automated Architecture Using Lambda +… | Heruy Mengistu, PhD | [Read More](https://medium.com/p/867835825c2c) |
-| Thu, 27 Nov 2025 16:15:34 GMT | Security Flaws in Google’s Antigravity IDE Signal a Dangerous New Phase of AI Development (2025) | Nanthakumar | [Read More](https://medium.com/p/0586cebefc6b) |
