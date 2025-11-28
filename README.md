@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 22:52:40 GMT | ️ Siber Güvenliğin Savunma Kalkanı: Blue Team (Mavi Takım) Nedir? | HSDEBYU | [Read More](https://medium.com/p/83dbf5e2a123) |
+| Fri, 28 Nov 2025 22:47:50 GMT | Stop Deleting Photos: 6 iPhone Storage Hacks You’ll Wish You Knew Sooner | Ning | [Read More](https://medium.com/p/6f4586c2cfae) |
+| Fri, 28 Nov 2025 22:45:54 GMT | Riding the Shai-Hulud of Supply Chains | Arda Boğa | [Read More](https://medium.com/p/082f88510f4c) |
 | Fri, 28 Nov 2025 22:24:48 GMT | Outbound HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/227924e660b8) |
 | Fri, 28 Nov 2025 22:23:20 GMT | Windows Server 2022 Web Server + DB Assessment (Hostname: APP01) | Johnny Meintel | [Read More](https://medium.com/p/139b9980c17a) |
 | Fri, 28 Nov 2025 22:21:55 GMT | Windows Server 2022 Domain Controller Assessment (Hostname: DC01) | Johnny Meintel | [Read More](https://medium.com/p/5a4d537f0b05) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 14:31:34 GMT | Browser Security Report 2026: How Safe Are Modern Browsers Against Today’s Threats? | Cordula Boeck | [Read More](https://medium.com/p/60d09f6c0366) |
 | Fri, 28 Nov 2025 14:12:09 GMT | I tried automating Azure portal with JS — here’s why it failed miserably | Viktor Ponamarev | [Read More](https://medium.com/p/12347c0b626e) |
 | Fri, 28 Nov 2025 14:12:01 GMT | Five Findings I Often See During Web Pentesting | 0xc4t | [Read More](https://medium.com/p/ce19ca038d4b) |
-| Fri, 28 Nov 2025 14:11:14 GMT | When the World’s Largest Derivatives Exchange Goes Dark: What the CME Outage Signals for Crypto… | Pitt Tech | [Read More](https://medium.com/p/c7b29e8072a2) |
-| Fri, 28 Nov 2025 14:09:41 GMT | Yetkilendirme (Authorization) & Erişim Denetimi (Access Control) | Ayşenur Bolukçu | [Read More](https://medium.com/p/0a6e3e547cf3) |
-| Fri, 28 Nov 2025 14:07:01 GMT | Who Wins the Security Metals Boom (Part 2/2) | John Galt | [Read More](https://medium.com/p/afa1ce950c99) |
