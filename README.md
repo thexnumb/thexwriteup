@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 22:12:31 GMT | Portswigger : Flawed two-factor verification logic | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e69fa0238b2a) |
+| Fri, 28 Nov 2025 22:12:26 GMT | Your Search History Just Went Public on Bing. Here’s What I Did in 5 Mins to Fix It. | Alpha Design Global - Build Your MVP Website. | [Read More](https://medium.com/p/20e746e527ca) |
+| Fri, 28 Nov 2025 21:59:37 GMT | Malware Traffic Analysis with Wireshark — Detecting Dridex C2 Traffic | Faith akerele | [Read More](https://medium.com/p/531d254edb0d) |
+| Fri, 28 Nov 2025 21:50:03 GMT | Future Trends in Cloud Security and Analytics: What to Expect in 2026 | Techridge Solutions | [Read More](https://medium.com/p/cdddf9c16053) |
+| Fri, 28 Nov 2025 21:48:50 GMT | Holiday Cybercrime Rises As Fake Shopping Domains Flood The Web | Geoffrey Wenger | [Read More](https://medium.com/p/30fa00669c3f) |
+| Fri, 28 Nov 2025 21:45:12 GMT | Your Password Gets Hashed, Not Encrypted | Keylogncoffee | [Read More](https://medium.com/p/35242097d612) |
+| Fri, 28 Nov 2025 21:44:07 GMT | Quantum Computing Will Revolutionize Cybersecurity | Jovan Sandhu | [Read More](https://medium.com/p/72959243288b) |
+| Fri, 28 Nov 2025 21:41:47 GMT | The November 2025 Upbit Breach and the Industrialization of Crypto-Theft | David SEHYEON Baek | [Read More](https://medium.com/p/5085954620ce) |
+| Fri, 28 Nov 2025 21:38:30 GMT | When the Alarm Isn’t Real: How Hackers Hijacked U.S. | Gbolahan Akinbola | [Read More](https://medium.com/p/1680ee2f351f) |
 | Fri, 28 Nov 2025 21:32:34 GMT | The Third-Party Breach Epidemic: When vendors become the largest vulnerability | Nikitha Srinivasan | [Read More](https://medium.com/p/2dda1bc03f8b) |
 | Fri, 28 Nov 2025 21:30:52 GMT | How to Avoid Common Dockerfile Mistakes? Mistakes that costed me time and money … | BecomeDevops | [Read More](https://medium.com/p/9f7c63e46f27) |
 | Fri, 28 Nov 2025 21:25:18 GMT | The Mixpanel Security Incident Reminds Us How Fragile Digital Trust Really Is | Joseph N. Aburu | [Read More](https://medium.com/p/65983ff22b9a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 14:05:34 GMT | The Rise of Browser Notification Phishing: The Cyber Threat Nobody Saw Coming | Vijay Kumar Gupta | [Read More](https://medium.com/p/797aaa328dd4) |
 | Fri, 28 Nov 2025 14:02:23 GMT | How a Forged JWT Token Exposed eGift Cards of all users worth Millions | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/685f6cd20824) |
 | Fri, 28 Nov 2025 13:55:33 GMT | How I Found a Logic Flaw That Lets Users Self‑Delete From Organizations | Amed Sherif | [Read More](https://medium.com/p/c463520baeb0) |
-| Fri, 28 Nov 2025 13:50:01 GMT | Reputable Bitcoin Recovery Services: Ghost Mystery Recovery Hacker was recognized as the top… | Benjaminethanyu | [Read More](https://medium.com/p/ff07bf37264e) |
-| Fri, 28 Nov 2025 13:47:19 GMT | Approaching stealers devs: a brief interview with XFILES (DeerStealer) | g0njxa | [Read More](https://medium.com/p/0de193ae46a4) |
-| Fri, 28 Nov 2025 13:46:35 GMT | Burp Suite: The Sherlock Holmes Toolkit of Web Security (A Beginner-Friendly Guide) | Dhananjay Aggarwal | [Read More](https://medium.com/p/6a596d98a859) |
-| Fri, 28 Nov 2025 13:46:18 GMT | WAZUH-Software Installation and Uninstallation Monitoring | Aziz U Rehman | [Read More](https://medium.com/p/89f9c570844f) |
-| Fri, 28 Nov 2025 13:42:33 GMT | S-Clustr-Simple: Air Battle — a real-world building-light hacking game | Мартин. | [Read More](https://medium.com/p/f5d9ce6d3202) |
-| Fri, 28 Nov 2025 13:41:38 GMT | Unedited & Vulnerable | Hadiza Writes | [Read More](https://medium.com/p/1ec6ccf59d07) |
-| Fri, 28 Nov 2025 13:37:08 GMT | How to Prevent Magisk Root Hiding and Security Bypass | Talsec | [Read More](https://medium.com/p/350271202150) |
-| Fri, 28 Nov 2025 13:30:48 GMT | [Control-Chaos] Heart Broken | Мартин. | [Read More](https://medium.com/p/38c156c48f91) |
-| Fri, 28 Nov 2025 13:30:40 GMT | How Machine Learning Detects Unusual File Modifications on Your System | Myth | [Read More](https://medium.com/p/7e1d1d45021e) |
