@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 05:05:51 GMT | Five Years of JSONFormatter & CodeBeautify Leaks Expose Thousands of Passwords, Cloud Keys, and… | Hafiz Shamnad | [Read More](https://medium.com/p/f178f2c0d57f) |
+| Fri, 28 Nov 2025 04:56:53 GMT | EPISODE 4, The Rise of Vulnerability in Our Society | Prof Akaro | [Read More](https://medium.com/p/06b179d378f5) |
+| Fri, 28 Nov 2025 04:45:23 GMT | How to Convert a Concrete5 Website to WordPress (Easy & Secure Methods) | Chris | [Read More](https://medium.com/p/8306bbc7b401) |
 | Fri, 28 Nov 2025 04:30:05 GMT | From a 12-Hour Soft Fork Recovery to the Final Mile of Governance | HydroDrip | [Read More](https://medium.com/p/e92c1233406c) |
 | Fri, 28 Nov 2025 04:28:22 GMT | How I Discovered 8 Header-Injection Weaknesses on a Wix-Hosted Domain | Tyreek Haynes | [Read More](https://medium.com/p/39ce35194028) |
 | Fri, 28 Nov 2025 04:25:37 GMT | Adaptability Is Our Oldest Tradition | MM Writes | [Read More](https://medium.com/p/eeed41a7529f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 16:59:27 GMT | Modern SOC Operations: Threat Detection, Incident Response & Real-World Challenges | Anonymous King | [Read More](https://medium.com/p/ff4621085d19) |
 | Thu, 27 Nov 2025 16:55:32 GMT | XML RAT - Cyberdefenders | Nicksondiazm | [Read More](https://medium.com/p/a91fcfbe9a08) |
 | Thu, 27 Nov 2025 16:54:47 GMT | How to install and configure Snort for Networking Monitoring — Cybersecurity Homelab [#6] | 0xRahuL | [Read More](https://medium.com/p/c3b76a769b00) |
-| Thu, 27 Nov 2025 16:54:38 GMT | Ethical Hacking and the Reality of Digital Fragility | Decentr | [Read More](https://medium.com/p/17c9277a2ae5) |
-| Thu, 27 Nov 2025 16:54:09 GMT | Ransomware-as-a-Service (RaaS) Is Getting Bigger — And More Dangerous | Cyberhominid | [Read More](https://medium.com/p/f874a22b1936) |
-| Thu, 27 Nov 2025 16:52:38 GMT | The Day Digital Trust Died: Why Every System We Rely On Is Failing at the Same Time | Abatis ABTU | [Read More](https://medium.com/p/2456c6f9c62e) |
