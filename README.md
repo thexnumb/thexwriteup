@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 18:16:24 GMT | How I Hacked an AI Chatbot to Expose Thousands of Customer Records (IDOR + Prompt Injection) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/760092ed99a4) |
+| Fri, 28 Nov 2025 18:09:43 GMT | From Criminal Chatter to Your Checklist: How I Turned Hacker TTPs Into a $ Pentest Payday ️‍♂️ | Iski | [Read More](https://medium.com/p/ffc1dc9b3434) |
+| Fri, 28 Nov 2025 17:59:44 GMT | How I Discovered a Rare Vulnerability in MCP Server — Bug Bounty | 1day | [Read More](https://medium.com/p/28a0ef643902) |
+| Fri, 28 Nov 2025 17:53:33 GMT | Malchain : Tactic-Based Detection | f0xy_pr0xy | [Read More](https://medium.com/p/679717c69f96) |
+| Fri, 28 Nov 2025 17:51:47 GMT | HTB: Mirage Writeup | Natius | [Read More](https://medium.com/p/51e714d4dbf8) |
+| Fri, 28 Nov 2025 17:42:29 GMT | BLACK FRIDAY STUFF | Sijo Johnson | [Read More](https://medium.com/p/38c18d6296d6) |
+| Fri, 28 Nov 2025 17:36:54 GMT | Turning a “Useless” Self-XSS into a Full PII Leak Through Bug Chaining | Parsa Riyahi | [Read More](https://medium.com/p/57ae89dc9f76) |
 | Fri, 28 Nov 2025 17:25:53 GMT | TryHackMe - Intro To Pwntools - WriteUp | Axoloth | [Read More](https://medium.com/p/45860de17f20) |
 | Fri, 28 Nov 2025 17:25:20 GMT | Principles of Cyber Security — Week 1 | Ayoade Akintayo (PhD) | [Read More](https://medium.com/p/1f03d28e77c4) |
 | Fri, 28 Nov 2025 17:22:43 GMT | Zero To Root: The Journey Begins | Zor0ark | [Read More](https://medium.com/p/46a64ea50abb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 11:27:21 GMT | Surface Exposure Level Calculation: A Mathematical Framework for True Security Assessment | Tomio Kobayashi | [Read More](https://medium.com/p/4447f66c2ee0) |
 | Fri, 28 Nov 2025 11:19:44 GMT | Difficulties I Faced to Crack My Interview in IT — And How I Finally Overcame Them | JetkingChandigarh | [Read More](https://medium.com/p/d4d4b1c1c5a8) |
 | Fri, 28 Nov 2025 11:19:08 GMT | Struggling With PC Threats? Choose the Best Antivirus for Windows | SiyanoAV | [Read More](https://medium.com/p/7edae959362e) |
-| Fri, 28 Nov 2025 11:17:28 GMT | 48-Hour Contractor Onboarding at Scale — The Exact SailPoint + Okta Workflow We Run in Production | Awadyafai | [Read More](https://medium.com/p/984bf09edd59) |
-| Fri, 28 Nov 2025 11:08:05 GMT | Your Security, Our Priority: Why Managed VPS Hosting Is Worth Every Penny? | Ann Taylor | [Read More](https://medium.com/p/73ea44331fb7) |
-| Fri, 28 Nov 2025 11:07:33 GMT | Rotating Elastic Cloud Credentials Across Distributed Infrastructure: A Zero-Downtime Approach | Ludovic Bondon | [Read More](https://medium.com/p/5fcc9b66ec8b) |
-| Fri, 28 Nov 2025 11:05:13 GMT | ExploitPad v2: A Practical Upgrade for Web App Testing | Sle3pyHead ‍ | [Read More](https://medium.com/p/39b75f13c269) |
-| Fri, 28 Nov 2025 10:52:59 GMT | Bug Bounty Tips: How OTP Bypass Techniques Helped Me Find Multiple Bugs in Bug Bounty Programs | Harshtalavaniya | [Read More](https://medium.com/p/c29de4bb7a84) |
-| Fri, 28 Nov 2025 10:49:05 GMT | Turn Shared Hosting into a Seamless Experience | Andy | [Read More](https://medium.com/p/2e2eb1973d79) |
-| Fri, 28 Nov 2025 10:48:54 GMT | Zero Privs to Admin, BitPixie’s Software-only BitLocker bypass | Guus Verbeek | [Read More](https://medium.com/p/722da9b44011) |
