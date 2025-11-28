@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 22:24:48 GMT | Outbound HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/227924e660b8) |
+| Fri, 28 Nov 2025 22:23:20 GMT | Windows Server 2022 Web Server + DB Assessment (Hostname: APP01) | Johnny Meintel | [Read More](https://medium.com/p/139b9980c17a) |
+| Fri, 28 Nov 2025 22:21:55 GMT | Windows Server 2022 Domain Controller Assessment (Hostname: DC01) | Johnny Meintel | [Read More](https://medium.com/p/5a4d537f0b05) |
+| Fri, 28 Nov 2025 22:21:44 GMT | How Istio Implements Zero-Trust Security: mTLS, PeerAuthentication, AuthorizationPolicy &… | Shekhar Chaugule | [Read More](https://medium.com/p/8cfbb0e6136d) |
 | Fri, 28 Nov 2025 22:12:31 GMT | Portswigger : Flawed two-factor verification logic | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e69fa0238b2a) |
 | Fri, 28 Nov 2025 22:12:26 GMT | Your Search History Just Went Public on Bing. Here’s What I Did in 5 Mins to Fix It. | Alpha Design Global - Build Your MVP Website. | [Read More](https://medium.com/p/20e746e527ca) |
 | Fri, 28 Nov 2025 21:59:37 GMT | Malware Traffic Analysis with Wireshark — Detecting Dridex C2 Traffic | Faith akerele | [Read More](https://medium.com/p/531d254edb0d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 14:11:14 GMT | When the World’s Largest Derivatives Exchange Goes Dark: What the CME Outage Signals for Crypto… | Pitt Tech | [Read More](https://medium.com/p/c7b29e8072a2) |
 | Fri, 28 Nov 2025 14:09:41 GMT | Yetkilendirme (Authorization) & Erişim Denetimi (Access Control) | Ayşenur Bolukçu | [Read More](https://medium.com/p/0a6e3e547cf3) |
 | Fri, 28 Nov 2025 14:07:01 GMT | Who Wins the Security Metals Boom (Part 2/2) | John Galt | [Read More](https://medium.com/p/afa1ce950c99) |
-| Fri, 28 Nov 2025 14:06:47 GMT | Görünmeyeni Yakalamak | Betul Toy | [Read More](https://medium.com/p/9522857faf83) |
-| Fri, 28 Nov 2025 14:05:34 GMT | The Rise of Browser Notification Phishing: The Cyber Threat Nobody Saw Coming | Vijay Kumar Gupta | [Read More](https://medium.com/p/797aaa328dd4) |
-| Fri, 28 Nov 2025 14:02:23 GMT | How a Forged JWT Token Exposed eGift Cards of all users worth Millions | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/685f6cd20824) |
-| Fri, 28 Nov 2025 13:55:33 GMT | How I Found a Logic Flaw That Lets Users Self‑Delete From Organizations | Amed Sherif | [Read More](https://medium.com/p/c463520baeb0) |
