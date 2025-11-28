@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 02:48:07 GMT | 7 Ways USB C Can Rescue Your Daily Tech Problems | Steven Chin | [Read More](https://medium.com/p/dfc5ee9aec74) |
+| Fri, 28 Nov 2025 02:42:09 GMT | Intigriti Monthly Code Challenge November 2025 | BXPLOIT | [Read More](https://medium.com/p/a96114e39550) |
+| Fri, 28 Nov 2025 02:36:02 GMT | Sometimes being known in our darkness feels safer than being loved in our light | EternalAmore | [Read More](https://medium.com/p/092ded583640) |
+| Fri, 28 Nov 2025 02:35:43 GMT | GenAI x Sec Advent (2025 edition) | Thomas Roccia | [Read More](https://medium.com/p/32c52ff753b4) |
+| Fri, 28 Nov 2025 02:32:03 GMT | PortSwigger Lab Write‑Up: 2FA bypass using a brute-force attack | Anas Elsaba | [Read More](https://medium.com/p/69f41ef36168) |
+| Fri, 28 Nov 2025 02:31:24 GMT | Brazil’s WhatsApp Malware Wave Targets Banking And Crypto Users | Geoffrey Wenger | [Read More](https://medium.com/p/d861d85e7758) |
+| Fri, 28 Nov 2025 02:26:48 GMT | Neural Databases: The Database Revolution Nobody Saw Coming in 2025 | The Dev Notebook | [Read More](https://medium.com/p/04738fe3d63a) |
+| Fri, 28 Nov 2025 02:15:27 GMT | IDN Homograph attack | L0da | [Read More](https://medium.com/p/f27b3e0d9d6e) |
+| Fri, 28 Nov 2025 02:14:33 GMT | How 2FA TOTP Tokens Are Time-Synced Offline | Aviral Srivastava | [Read More](https://medium.com/p/e078895e9472) |
+| Fri, 28 Nov 2025 02:11:36 GMT | Chula — Defence Ministry Collaboration Empowers Human Capital for a Secure Future | Chulalongkorn University | [Read More](https://medium.com/p/c95ee808e913) |
+| Fri, 28 Nov 2025 01:39:18 GMT | How OCDP by Open Code Mission Changes the Red Team Playbook | Graham dePenros | [Read More](https://medium.com/p/23ebed25248b) |
 | Fri, 28 Nov 2025 01:33:51 GMT | Shadow AI: The Enterprise Security Crisis Nobody Is Prepared For | Irgyagentaarnezzi | [Read More](https://medium.com/p/b3f218f1c22f) |
 | Fri, 28 Nov 2025 01:18:06 GMT | The Digital Revolution in Security Training — And How to Stay Ahead | Sarmin Islam | [Read More](https://medium.com/p/8c0e9e2f81d0) |
 | Fri, 28 Nov 2025 01:13:09 GMT | What I Learned From a Popular Hardware Trojan Survey | Surabhi Misra | [Read More](https://medium.com/p/65d57f4bf094) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 16:17:29 GMT | Why IBM Cloud Networking Is a Great Starting Point for New Engineers | Nawaf Alsabah | [Read More](https://medium.com/p/08cd978b9473) |
 | Thu, 27 Nov 2025 16:16:57 GMT | AI-Driven Security Group Risk Analysis on AWS — A Fully Automated Architecture Using Lambda +… | Heruy Mengistu, PhD | [Read More](https://medium.com/p/867835825c2c) |
 | Thu, 27 Nov 2025 16:15:34 GMT | Security Flaws in Google’s Antigravity IDE Signal a Dangerous New Phase of AI Development (2025) | Nanthakumar | [Read More](https://medium.com/p/0586cebefc6b) |
-| Thu, 27 Nov 2025 16:14:02 GMT | Twitter/X Premium Account Verification Bypass Vector (of sorts): Gift Subscriptions | Its Not Nicole | [Read More](https://medium.com/p/10487844f976) |
-| Thu, 27 Nov 2025 16:07:00 GMT | Beyond the Imitation Game: Why the Turing Test Fails in the Age of LLMs | Berend Watchus | [Read More](https://medium.com/p/7360afc5fc53) |
-| Thu, 27 Nov 2025 16:02:07 GMT | Episode 12: “The Proof of Concept” | Dr. House In I.T. | [Read More](https://medium.com/p/5c41a9a692e4) |
-| Thu, 27 Nov 2025 16:02:01 GMT | Stop Intercepting Attacks. Start Targeting Senders. | Martin Abramov | [Read More](https://medium.com/p/d930de9df803) |
-| Thu, 27 Nov 2025 15:56:14 GMT | Linux File System | Mert Baykal | [Read More](https://medium.com/p/0e702ce2e5c8) |
-| Thu, 27 Nov 2025 15:46:40 GMT | AI Agents as Regulated C2: Will Anyone Be Forced to Act? | Wes Young | [Read More](https://medium.com/p/423374088f74) |
-| Thu, 27 Nov 2025 15:45:06 GMT | How a Simple ZIP Upload Revealed a Critical Remote Code Execution Flaw | Harshtalavaniya | [Read More](https://medium.com/p/042c375cdee7) |
-| Thu, 27 Nov 2025 15:45:02 GMT | The Busy Holiday Season Cybersecurity Checklist Every Business Needs | Paradise technologies Inc | [Read More](https://medium.com/p/86b84f2e8dda) |
-| Thu, 27 Nov 2025 15:40:23 GMT | Hackers Are Abusing Microsoft 365 SMS Sign-In — Here’s How to Protect Yourself | Chaim Black | [Read More](https://medium.com/p/1a366a32a9fd) |
-| Thu, 27 Nov 2025 15:35:50 GMT | FlagForge Might Be the Next Big Thing in Ethical Hacking Training | Lagzen Thakuri | [Read More](https://medium.com/p/b8e46b194522) |
-| Thu, 27 Nov 2025 15:34:48 GMT | penetration testing | kholid zayyd yusuf | [Read More](https://medium.com/p/f409aaf6e448) |
