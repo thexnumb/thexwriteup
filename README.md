@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 17:11:45 GMT | OffSec Exploit Developer (OSED): Course Review and Exam Preparation Tips | Cyd Tseng | [Read More](https://medium.com/p/637a208934b8) |
+| Fri, 28 Nov 2025 17:07:20 GMT | File I/O (Input/Output) and Serialization in Java | Salwa Fijri | [Read More](https://medium.com/p/761b20a76ad1) |
+| Fri, 28 Nov 2025 17:02:21 GMT | Shai Hulud Scanner | Jaime Garcia Diaz | [Read More](https://medium.com/p/634e5b758624) |
+| Fri, 28 Nov 2025 17:02:11 GMT | What Does a Cybersecurity Analyst Really Do? A Look Inside the Most In-Demand Security Role Today | Ferdi Edogawa | [Read More](https://medium.com/p/59663b7b9286) |
+| Fri, 28 Nov 2025 16:53:17 GMT | The day after the first Cryptographically Relevant Quantum Computer(CRQC) | Mark Tehrani | [Read More](https://medium.com/p/19e5eaf147c3) |
+| Fri, 28 Nov 2025 16:52:31 GMT | Unmasking a new DPRK Front Company DredSoftLabs | Mees van Wickeren | [Read More](https://medium.com/p/bf9ed544d690) |
 | Fri, 28 Nov 2025 16:31:06 GMT | Botnets Unmasked: How GreyNoise Detects Hidden Threats Across the Internet. | eL Njas!™ | [Read More](https://medium.com/p/0e27105dac84) |
 | Fri, 28 Nov 2025 16:26:02 GMT | The Ultimate Guide to Starting a Cybersecurity GRC Career in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/5249d1a96750) |
 | Fri, 28 Nov 2025 16:23:50 GMT | Windows 11 Wants AI Apps Inside Your File Explorer. Here’s Why That Should Worry You | The Atomic Architect | [Read More](https://medium.com/p/86a4472048bd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 10:34:02 GMT | YOUR PC’S DIGITAL SHIELDS | Keyur | [Read More](https://medium.com/p/3d996cee466e) |
 | Fri, 28 Nov 2025 10:32:11 GMT | robots.txt Explained Simply: How Websites Talk to Search Engines | Natarajan C K | [Read More](https://medium.com/p/d99eeb773060) |
 | Fri, 28 Nov 2025 10:32:04 GMT | When the Brewery Went Dark: What Asahi’s Cyberattack Teaches Us About Modern Vulnerability | gbolahan akinbola | [Read More](https://medium.com/p/b8a85c9682d4) |
-| Fri, 28 Nov 2025 10:30:15 GMT | The New SOC Playbook for 2026: AI Worms, Rogue GPTs & the End of Static IOCs | Motasem Hamdan | [Read More](https://medium.com/p/840a8b9b009e) |
-| Fri, 28 Nov 2025 10:22:56 GMT | Red teaming the first AI-orchestrated cyber espionage campaign report | Giulio C. | [Read More](https://medium.com/p/87b8e7fbc91b) |
-| Fri, 28 Nov 2025 10:22:22 GMT | 13 Common Crypto Security Mistakes And How To Avoid Them | Syndika | [Read More](https://medium.com/p/cd29f505424c) |
-| Fri, 28 Nov 2025 10:21:05 GMT | Pentesters Love Misordered Firewall Rules: How Stateful Accept Breaks Port Whitelists | robbie | [Read More](https://medium.com/p/f36e21ed889b) |
-| Fri, 28 Nov 2025 10:20:57 GMT | What is Field Force Management Software in India? - Field Tracking App | Samvaskaran | [Read More](https://medium.com/p/e17aad787b0f) |
-| Fri, 28 Nov 2025 10:17:23 GMT | Is Your AI Watching You More Than You Think | Czarif | [Read More](https://medium.com/p/d8ed2457145a) |
