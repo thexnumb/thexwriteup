@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 20:58:41 GMT | Epistemology of CyberSec Cert Junkies (Part 3) | Jade Seeker | [Read More](https://medium.com/p/e8091feb0e9e) |
+| Fri, 28 Nov 2025 20:54:53 GMT | How Belarus Appears as Ally of Myanmar Junta | Rubaiyat Rahman | [Read More](https://medium.com/p/05ee3ef7a148) |
 | Fri, 28 Nov 2025 20:29:59 GMT | Beyond Encryption: How VPNs Can Stop Metadata Leakage Without Sacrificing Speed | Voidly | [Read More](https://medium.com/p/4d3c01683030) |
 | Fri, 28 Nov 2025 20:17:53 GMT | How I Used Splunk in My Home Lab to Build Real-World Security Skills | Devinn C. | [Read More](https://medium.com/p/004daa52fc1d) |
 | Fri, 28 Nov 2025 20:01:38 GMT | Why Are Security Solutions in Manhattan, NY Essential for Modern Safety? | Exploring Multiple Service | [Read More](https://medium.com/p/54dd05eef18a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 13:27:17 GMT | Lab 1: Web cache poisoning with an unkeyed header | L4V4NY4  AGR3 | [Read More](https://medium.com/p/c4503d01bee4) |
 | Fri, 28 Nov 2025 13:23:47 GMT | Right CCTV Lens Selection: A Full Manual to Security, Surveillance, & Advanced Imaging | Shivani | [Read More](https://medium.com/p/aa05f9f95b58) |
 | Fri, 28 Nov 2025 13:22:12 GMT | A Simple Habit to Protect Your Time, Sanity, and Cybersecurity | Jason Mashak | [Read More](https://medium.com/p/a410bb5d1edd) |
-| Fri, 28 Nov 2025 13:09:46 GMT | Dormant Echoes: The Exiled Code & The Logic of Systemic Decay | zoctracker | [Read More](https://medium.com/p/9a92b85a239a) |
-| Fri, 28 Nov 2025 13:08:19 GMT | SSL Isn’t Enough: The Real Layers of Website Security in 2025 | Saqib Naseer | [Read More](https://medium.com/p/a9689bdf8e03) |
