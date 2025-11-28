@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 08:14:19 GMT | Beyond HIPAA: Mastering the Modern Healthcare Cybersecurity Framework for True Compliance | SecureSlate | [Read More](https://medium.com/p/5551534aba32) |
+| Fri, 28 Nov 2025 08:03:44 GMT | Automotive Cybersecurity Market - Size, Share, Growth - 2025–2030 | Samudralamohankumar | [Read More](https://medium.com/p/e193f9c9fb11) |
+| Fri, 28 Nov 2025 07:57:29 GMT | When AI Goes Rogue: Inside the First Large-Scale Cyberattack Run by Claude | Shin Jara | [Read More](https://medium.com/p/f13ec337f1c8) |
+| Fri, 28 Nov 2025 07:52:21 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/96a66d20c564) |
+| Fri, 28 Nov 2025 07:52:01 GMT | How to Self-Host Immich on Ubuntu with Cloudflare Tunnel: Secure Photo & Video Management | Rupesh Sharma | [Read More](https://medium.com/p/8ee2ef50b89e) |
+| Fri, 28 Nov 2025 07:49:32 GMT | How Mobile Patrol Security is Transforming Business Protection in Alberta | Hirasarfraz | [Read More](https://medium.com/p/e1c3bcb3ac60) |
+| Fri, 28 Nov 2025 07:48:16 GMT | GHOSTLINK — Drive-By Download Lab Tool | Dallen Sadru | [Read More](https://medium.com/p/b27cc8fbf609) |
+| Fri, 28 Nov 2025 07:43:40 GMT | Data Privacy Laws: GDPR, CCPA, and What’s Next in Global Regulations | Usanase Nice Josiane | [Read More](https://medium.com/p/1be6c61055d0) |
+| Fri, 28 Nov 2025 07:36:58 GMT | Building a Secure OTP & Numpad Package for Flutter — And What Developers Still Get Wrong About OTP… | Connel Asikong | [Read More](https://medium.com/p/e9254e09e54b) |
+| Fri, 28 Nov 2025 07:34:44 GMT | Black Friday Sale on Cyber Security Certifications | cyber security Updates | [Read More](https://medium.com/p/1a2f169a39ae) |
 | Fri, 28 Nov 2025 07:29:33 GMT | The Corix Partners Friday Reading List — November 28, 2025 | JC Gaillard | [Read More](https://medium.com/p/1f8f9d5eb1d8) |
 | Fri, 28 Nov 2025 07:24:33 GMT | Part 6: Building the Ultimate OT Cybersecurity Lab in 2025 From Concept to Command Center | Shanmuksrisai | [Read More](https://medium.com/p/cbeb4e3352af) |
 | Fri, 28 Nov 2025 07:23:25 GMT | Using Analysis of Competing Hypotheses (ACH) to strengthen Cyber Intelligence: Lessons from the… | Daniel | [Read More](https://medium.com/p/0630237eb671) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 21:33:08 GMT | Akira Ransomware Finds Open Doors During Mergers And Acquisitions | Geoffrey Wenger | [Read More](https://medium.com/p/b24ade76fafc) |
 | Thu, 27 Nov 2025 21:17:27 GMT | Epistemology of CyberSec Cert Junkies (Part 2) | Jade Seeker | [Read More](https://medium.com/p/81dfe20ea64a) |
 | Thu, 27 Nov 2025 20:56:46 GMT | Deep Dive into Container Security on Linux Systems | Linux Guide | [Read More](https://medium.com/p/7a68b4169cac) |
-| Thu, 27 Nov 2025 20:41:17 GMT | Simplest minimal K8s app tutorial with KYAML comments & curly braces and Rancher Desktop | Jason Yee | [Read More](https://medium.com/p/0795835202d4) |
-| Thu, 27 Nov 2025 20:35:48 GMT | Who are Harfuch allies? | Danielblanco | [Read More](https://medium.com/p/5f5eebb23218) |
-| Thu, 27 Nov 2025 20:32:12 GMT | How to Secure Your Startup from Cyber Attacks: A Practical IT Security Checklist | Cordula Boeck | [Read More](https://medium.com/p/20937042efad) |
-| Thu, 27 Nov 2025 20:30:24 GMT | Why the Kubernetes Community Is Moving From Ingress to Gateway API | Tigera | [Read More](https://medium.com/p/77a46683bd10) |
-| Thu, 27 Nov 2025 20:29:58 GMT | A Developer’s Crash Course in Cryptography, Part 6: Building Secure Systems | Steinwendner Matthias | [Read More](https://medium.com/p/c53013a29710) |
-| Thu, 27 Nov 2025 20:27:47 GMT | Find Real Bugs by Simply Reading JavaScript Files | Monika sharma | [Read More](https://medium.com/p/bdd4f825081b) |
-| Thu, 27 Nov 2025 20:27:34 GMT | Cybersecurity on the Rise in Saudi Arabia | Abdullah Mohammed Mushtaq | [Read More](https://medium.com/p/489288749e71) |
-| Thu, 27 Nov 2025 20:18:21 GMT | Using More Than 10% of My Brain: My 2-Year Journey into Cloud Engineering, Ethical Hacking, and… | Ugosam | [Read More](https://medium.com/p/5bdb585b6b86) |
-| Thu, 27 Nov 2025 20:15:55 GMT | The Unseen War in the Digital Shadows | Vaultnet Defense | [Read More](https://medium.com/p/41c5b9d6c294) |
-| Thu, 27 Nov 2025 20:14:24 GMT | The New Android Trojan That Reads Your Encrypted Chats… And Quietly Takes Over Your Entire Phone | Muhammad Hassan Ali | [Read More](https://medium.com/p/000daeb8c672) |
