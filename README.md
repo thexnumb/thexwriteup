@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 11:08:05 GMT | Your Security, Our Priority: Why Managed VPS Hosting Is Worth Every Penny? | Ann Taylor | [Read More](https://medium.com/p/73ea44331fb7) |
+| Fri, 28 Nov 2025 11:07:33 GMT | Rotating Elastic Cloud Credentials Across Distributed Infrastructure: A Zero-Downtime Approach | Ludovic Bondon | [Read More](https://medium.com/p/5fcc9b66ec8b) |
+| Fri, 28 Nov 2025 11:05:13 GMT | ExploitPad v2: A Practical Upgrade for Web App Testing | Sle3pyHead ‍ | [Read More](https://medium.com/p/39b75f13c269) |
+| Fri, 28 Nov 2025 10:52:59 GMT | Bug Bounty Tips: How OTP Bypass Techniques Helped Me Find Multiple Bugs in Bug Bounty Programs | Harshtalavaniya | [Read More](https://medium.com/p/c29de4bb7a84) |
+| Fri, 28 Nov 2025 10:49:05 GMT | Turn Shared Hosting into a Seamless Experience | Andy | [Read More](https://medium.com/p/2e2eb1973d79) |
+| Fri, 28 Nov 2025 10:48:54 GMT | Zero Privs to Admin, BitPixie’s Software-only BitLocker bypass | Guus Verbeek | [Read More](https://medium.com/p/722da9b44011) |
+| Fri, 28 Nov 2025 10:48:12 GMT | EN 18031: Why Outdated Documentation Puts You at Risk With Market Surveillance Authorities | Dr. Guillaume Dupont | [Read More](https://medium.com/p/47ee8ad17679) |
+| Fri, 28 Nov 2025 10:45:30 GMT | Civic Day of Hacking: Empowering Communities Through Technology | bispendra jewels | [Read More](https://medium.com/p/85225d028aed) |
 | Fri, 28 Nov 2025 10:39:48 GMT | Nigeria’s Security Crisis Is a Governance Crisis — And Only Deep Structural Reform Can Fix It | Michael Oluwagbemi | [Read More](https://medium.com/p/f7db40f1410c) |
+| Fri, 28 Nov 2025 10:34:02 GMT | YOUR PC’S DIGITAL SHIELDS | Keyur | [Read More](https://medium.com/p/3d996cee466e) |
 | Fri, 28 Nov 2025 10:32:11 GMT | robots.txt Explained Simply: How Websites Talk to Search Engines | Natarajan C K | [Read More](https://medium.com/p/d99eeb773060) |
+| Fri, 28 Nov 2025 10:32:04 GMT | When the Brewery Went Dark: What Asahi’s Cyberattack Teaches Us About Modern Vulnerability | gbolahan akinbola | [Read More](https://medium.com/p/b8a85c9682d4) |
 | Fri, 28 Nov 2025 10:30:15 GMT | The New SOC Playbook for 2026: AI Worms, Rogue GPTs & the End of Static IOCs | Motasem Hamdan | [Read More](https://medium.com/p/840a8b9b009e) |
 | Fri, 28 Nov 2025 10:22:56 GMT | Red teaming the first AI-orchestrated cyber espionage campaign report | Giulio C. | [Read More](https://medium.com/p/87b8e7fbc91b) |
 | Fri, 28 Nov 2025 10:22:22 GMT | 13 Common Crypto Security Mistakes And How To Avoid Them | Syndika | [Read More](https://medium.com/p/cd29f505424c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 04:55:46 GMT | ประจำวันศุกร์ที่ 28 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1b5db59bce43) |
 | Fri, 28 Nov 2025 04:45:23 GMT | How to Convert a Concrete5 Website to WordPress (Easy & Secure Methods) | Chris | [Read More](https://medium.com/p/8306bbc7b401) |
 | Fri, 28 Nov 2025 04:30:05 GMT | From a 12-Hour Soft Fork Recovery to the Final Mile of Governance | HydroDrip | [Read More](https://medium.com/p/e92c1233406c) |
-| Fri, 28 Nov 2025 04:28:22 GMT | How I Discovered 8 Header-Injection Weaknesses on a Wix-Hosted Domain | Tyreek Haynes | [Read More](https://medium.com/p/39ce35194028) |
-| Fri, 28 Nov 2025 04:25:37 GMT | Adaptability Is Our Oldest Tradition | MM Writes | [Read More](https://medium.com/p/eeed41a7529f) |
-| Fri, 28 Nov 2025 04:19:11 GMT | Introduction to Cybersecurity | Isaac Ijuo | [Read More](https://medium.com/p/2eeb507b6bf7) |
-| Fri, 28 Nov 2025 04:00:46 GMT | Cut the Noise: Make Your Security Tools Actually Work for You | Plexicus | [Read More](https://medium.com/p/cea65d111938) |
-| Fri, 28 Nov 2025 03:59:14 GMT | The Tehran Dilemma: Is It Time for a New U.S. Diplomatic Opening with Iran? | MASUM BILLAH | [Read More](https://medium.com/p/b39ff2cd175a) |
-| Fri, 28 Nov 2025 03:58:19 GMT | Setting Up a New Contabo Cloud VPS (Using Termius) | Arya Fadhil Sagitarisandy | [Read More](https://medium.com/p/1d8bb0161faf) |
-| Fri, 28 Nov 2025 03:57:39 GMT | AppSec Automation Part 1 — Why Your Patched Vulnerabilities Keep Coming Back (And How to Stop It) | Muh. Fani Akbar | [Read More](https://medium.com/p/5a82daee69f6) |
-| Fri, 28 Nov 2025 03:55:25 GMT | Tải Hack Spider Fighter 3 APK Vô Hạn Tiền | GameHaiVL | [Read More](https://medium.com/p/042816de0a28) |
-| Fri, 28 Nov 2025 03:49:50 GMT | When Bookmarklets Meet Frontend Reality: From “Auto-Fill Convenience” to “Anti-Automation… | Liu Xiaogong - Debugging Code and Tantrums Alike | [Read More](https://medium.com/p/13c64ea39d0e) |
-| Fri, 28 Nov 2025 03:32:28 GMT | How Jingle Thief Turns Cloud Access Into High-Value Fraud During the Festive Season | Deven Chhajed | [Read More](https://medium.com/p/33c00448bd3f) |
