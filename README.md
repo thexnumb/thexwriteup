@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 04:00:46 GMT | Cut the Noise: Make Your Security Tools Actually Work for You | Plexicus | [Read More](https://medium.com/p/cea65d111938) |
+| Fri, 28 Nov 2025 03:59:14 GMT | The Tehran Dilemma: Is It Time for a New U.S. Diplomatic Opening with Iran? | MASUM BILLAH | [Read More](https://medium.com/p/b39ff2cd175a) |
+| Fri, 28 Nov 2025 03:58:19 GMT | Setting Up a New Contabo Cloud VPS (Using Termius) | Arya Fadhil Sagitarisandy | [Read More](https://medium.com/p/1d8bb0161faf) |
+| Fri, 28 Nov 2025 03:57:39 GMT | AppSec Automation Part 1 — Why Your Patched Vulnerabilities Keep Coming Back (And How to Stop It) | Muh. Fani Akbar | [Read More](https://medium.com/p/5a82daee69f6) |
+| Fri, 28 Nov 2025 03:55:25 GMT | Tải Hack Spider Fighter 3 APK Vô Hạn Tiền | GameHaiVL | [Read More](https://medium.com/p/042816de0a28) |
 | Fri, 28 Nov 2025 03:49:50 GMT | When Bookmarklets Meet Frontend Reality: From “Auto-Fill Convenience” to “Anti-Automation… | Liu Xiaogong - Debugging Code and Tantrums Alike | [Read More](https://medium.com/p/13c64ea39d0e) |
 | Fri, 28 Nov 2025 03:32:28 GMT | How Jingle Thief Turns Cloud Access Into High-Value Fraud During the Festive Season | Deven Chhajed | [Read More](https://medium.com/p/33c00448bd3f) |
 | Fri, 28 Nov 2025 03:19:15 GMT | The Digital Dilemma: When Keeping Knowledge Feels Wrong | Rabail Zaheer | [Read More](https://medium.com/p/57162ef8aab0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 16:42:41 GMT | Turning Your Laptop Into A Portable Data Harvester | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/841725cbd6b2) |
 | Thu, 27 Nov 2025 16:36:06 GMT | How Northern Nigeria Became a War Zone: The Roots of Boko Haram, Banditry, and Extremist Violence | Oni Oluwapelumi Esther | [Read More](https://medium.com/p/136cd6bc47d4) |
 | Thu, 27 Nov 2025 16:31:07 GMT | Top AI Productivity Tools 2026 for Big Business Owners (Full Guide)Top AI Productivity Tools 2026… | Motherlandlove | [Read More](https://medium.com/p/5ddc86625bc4) |
-| Thu, 27 Nov 2025 16:30:10 GMT | The Missing Law of Motion | Chris Perkins | [Read More](https://medium.com/p/2044294ff551) |
-| Thu, 27 Nov 2025 16:26:16 GMT | Security & Encryption on 1win | Alvin Muzart | [Read More](https://medium.com/p/f97f18cb88cb) |
-| Thu, 27 Nov 2025 16:25:24 GMT | The AI Readiness Audit | John Williams | [Read More](https://medium.com/p/f80de6a91ab4) |
-| Thu, 27 Nov 2025 16:25:23 GMT | The Hidden Layer Of OSINT That Most Analysts Never Learn | Rendur M. Saunter | [Read More](https://medium.com/p/b7b266012905) |
-| Thu, 27 Nov 2025 16:24:21 GMT | Poetry: The Morse Code for the Ages | Thuba Kope | [Read More](https://medium.com/p/f08fb869253d) |
