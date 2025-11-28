@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 12:24:21 GMT | Kali Linux for Beginners: Simple Cybersecurity Skills & Commands Every New Hacker Should Know… | pavani | [Read More](https://medium.com/p/3f1ba69b6655) |
+| Fri, 28 Nov 2025 12:22:08 GMT | How to Test User Registration for Bugs | Ibtissam | [Read More](https://medium.com/p/444a0ce0d054) |
+| Fri, 28 Nov 2025 12:20:17 GMT | Most People Can’t Answer This Question. Can You? | Jay Thummar | [Read More](https://medium.com/p/912c2376a266) |
+| Fri, 28 Nov 2025 12:20:02 GMT | How a messing Header Led to Account Takeover | Aftab Raja | [Read More](https://medium.com/p/912046526037) |
+| Fri, 28 Nov 2025 12:15:30 GMT | I Got Tired of Vendor Breach Emails — So I Built an AI Security Copilot That Reads Them for Me | Damian Ketting | [Read More](https://medium.com/p/3ba38c89a6d1) |
+| Fri, 28 Nov 2025 12:11:42 GMT | How I Pwned Telemetry on Amsterdam.nl | MRKNIGHT-NIDU | [Read More](https://medium.com/p/9d2baf2b3d7f) |
+| Fri, 28 Nov 2025 12:06:58 GMT | Turtbit doubles down on web solutions in India’s fast-growing digital economy | Nuver Media | [Read More](https://medium.com/p/fb6223ebf462) |
+| Fri, 28 Nov 2025 12:01:21 GMT | TSK Automations — A Global Leader in Cybersecurity, Cloud, Managed IT & Enterprise Automation | Tskautomations | [Read More](https://medium.com/p/78f0b2ff785d) |
+| Fri, 28 Nov 2025 12:00:42 GMT | Today’s Top Cyber Intelligence Highlights — Nov 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8f1d613ada4f) |
+| Fri, 28 Nov 2025 11:58:28 GMT | Ghosts From MuddyWater | Decoded Intel | [Read More](https://medium.com/p/fb55be353a1b) |
+| Fri, 28 Nov 2025 11:54:24 GMT | Why This ChatGPT Prompt Is a Powerhouse for Creating Engaging, Insightful, and Profitable… | Noel | [Read More](https://medium.com/p/6e921c545703) |
+| Fri, 28 Nov 2025 11:50:54 GMT | The First Time I Failed in Cybersecurity I Thought I Had It Covered — Until This Happened | Fook Hwa Tan | [Read More](https://medium.com/p/37c4cf1d7288) |
+| Fri, 28 Nov 2025 11:47:22 GMT | Behind the Scenes at Northwave What Most Don’t See: How We Secure Clients from the Inside Out | Fook Hwa Tan | [Read More](https://medium.com/p/341c1ce4635f) |
+| Fri, 28 Nov 2025 11:43:16 GMT | How to use ligolo-ng | SeverSerenity | [Read More](https://medium.com/p/23c80accc401) |
+| Fri, 28 Nov 2025 11:34:11 GMT | JWT KID Vulnerability | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/7d65e6af704a) |
 | Fri, 28 Nov 2025 11:30:27 GMT | BEHIND THE BREACH: A Live Conversation with Jon DiMaggio | Elizabeth Ekedoro | [Read More](https://medium.com/p/351765d9de7d) |
 | Fri, 28 Nov 2025 11:27:21 GMT | Surface Exposure Level Calculation: A Mathematical Framework for True Security Assessment | Tomio Kobayashi | [Read More](https://medium.com/p/4447f66c2ee0) |
 | Fri, 28 Nov 2025 11:19:44 GMT | Difficulties I Faced to Crack My Interview in IT — And How I Finally Overcame Them | JetkingChandigarh | [Read More](https://medium.com/p/d4d4b1c1c5a8) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 06:42:10 GMT | ZoomEye Practice — Efficiently Discovering and Expanding Malicious Sites | ZoomEye | [Read More](https://medium.com/p/8cc8b612bab1) |
 | Fri, 28 Nov 2025 06:33:58 GMT | When Home Starts Bleeding Again | Hamna En Tanoli | [Read More](https://medium.com/p/cd7817fcc48b) |
 | Fri, 28 Nov 2025 06:27:51 GMT | What Is Shoulder Surfing? How It Works and How to Stop It [Complete Guide — 2025] | Hamza Hanif | [Read More](https://medium.com/p/1de38e30c58b) |
-| Fri, 28 Nov 2025 06:27:40 GMT | Your Windows License Will Expire Soon — How to Fix It Quickly | Om Prakash | [Read More](https://medium.com/p/061738529340) |
-| Fri, 28 Nov 2025 06:24:54 GMT | Integration of GitHub Actions with Snyk tool to scan the vulnerable docker image. | Ashwini Puranik | [Read More](https://medium.com/p/3222cf6218c1) |
-| Fri, 28 Nov 2025 06:24:15 GMT | Powerful Advanced Persistent Threat Cybersecurity Solutions for 2026 | iCONIFERz Technology News and Insights | [Read More](https://medium.com/p/9f0906bfc862) |
-| Fri, 28 Nov 2025 06:16:12 GMT | Boost Cyber Resilience with Effective Vulnerability Assessment and Penetration Testing | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/ff9fac4bf143) |
-| Fri, 28 Nov 2025 06:07:57 GMT | CHAMBRE D’AROMES PERFUME BOUTIQUE | Odugbenro lateef | [Read More](https://medium.com/p/0bc6effdcf61) |
-| Fri, 28 Nov 2025 05:58:25 GMT | How to Set Up a Professional Staging Workflow and Rock-Solid CI/CD for Your SaaS (Step-by-Step) | CodeGenitor | [Read More](https://medium.com/p/08a6a74444f0) |
-| Fri, 28 Nov 2025 05:56:17 GMT | : "  ,  ' … | Cyber Toddler | [Read More](https://medium.com/p/bbe510ce6b9e) |
-| Fri, 28 Nov 2025 05:55:45 GMT | Get Your SOC Out of the CHAOS ZONE | Siddhant Mishra | [Read More](https://medium.com/p/501cf1f0ec18) |
-| Fri, 28 Nov 2025 05:50:41 GMT | MT-LAB: A Korean Platform That Helps Users Identify Online Scam Betting Sites | croatian | [Read More](https://medium.com/p/bdb5e70e4101) |
-| Fri, 28 Nov 2025 05:48:08 GMT | Forget About Traditional Cybersecurity Training — Try This Instead! | Steven Chin | [Read More](https://medium.com/p/8927658ff72a) |
-| Fri, 28 Nov 2025 05:36:12 GMT | Powerful IT Networks Driving Modern Business Success | Any network | [Read More](https://medium.com/p/e3508d1595fc) |
-| Fri, 28 Nov 2025 05:32:06 GMT | The Day 21 Parameters Crashed 8.5 Million Computers: Inside the CrowdStrike Catastrophe | Amįń | [Read More](https://medium.com/p/14aa3379d123) |
-| Fri, 28 Nov 2025 05:30:41 GMT | The Invisible Layer of Web3: Why Transaction Simulation Matters | Aditya | [Read More](https://medium.com/p/08abdfd257a9) |
-| Fri, 28 Nov 2025 05:22:12 GMT | Phishing Simulation Success: How Cybersecurity Awareness Training Saves Organisations from Data… | Sentry Cyber | [Read More](https://medium.com/p/d2c83430a793) |
-| Fri, 28 Nov 2025 05:16:22 GMT | When to Reinstall Windows for Best Performance: Complete Guide for Everyday Users | Ask IT Support | [Read More](https://medium.com/p/4f4f2a521fe1) |
