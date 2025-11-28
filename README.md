@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 07:29:33 GMT | The Corix Partners Friday Reading List — November 28, 2025 | JC Gaillard | [Read More](https://medium.com/p/1f8f9d5eb1d8) |
+| Fri, 28 Nov 2025 07:24:33 GMT | Part 6: Building the Ultimate OT Cybersecurity Lab in 2025 From Concept to Command Center | Shanmuksrisai | [Read More](https://medium.com/p/cbeb4e3352af) |
+| Fri, 28 Nov 2025 07:23:25 GMT | Using Analysis of Competing Hypotheses (ACH) to strengthen Cyber Intelligence: Lessons from the… | Daniel | [Read More](https://medium.com/p/0630237eb671) |
+| Fri, 28 Nov 2025 07:22:12 GMT | npm 배포, OIDC로 전환하기 (Trusted Publishers) | Seongwoo Jun | [Read More](https://medium.com/p/885dcf735617) |
+| Fri, 28 Nov 2025 07:21:44 GMT | OpenAI Mixpanel Security Incident: A Clear and Simple Breakdown | Techdigitalspace | [Read More](https://medium.com/p/0cdb104f9bbd) |
 | Fri, 28 Nov 2025 07:12:57 GMT | The First Nmap Scan That Makes You Realize How the Internet Actually Works | Fateyaly | [Read More](https://medium.com/p/4f7de267d72a) |
+| Fri, 28 Nov 2025 07:11:35 GMT | Italy’s Covert Exports: The Surveillance Industrial Complex and its Middle East Footprint | Cyber Warfare Asia | [Read More](https://medium.com/p/f35e1072a5fb) |
 | Fri, 28 Nov 2025 07:11:08 GMT | Part 5: 55 Essential Tools Every OT Security & Penetration Tester Should Master in 2025 | Shanmuksrisai | [Read More](https://medium.com/p/7da8af476ab8) |
 | Fri, 28 Nov 2025 07:10:42 GMT | VPN extensions for Chrome: 2025 best free and paid options | Safelyo VPN | [Read More](https://medium.com/p/42960c224a7e) |
 | Fri, 28 Nov 2025 07:02:57 GMT | What is Networking? A Hacker’s Guide to Understanding the Web of Connections. | azrecon_ | [Read More](https://medium.com/p/b3304392d617) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 20:18:21 GMT | Using More Than 10% of My Brain: My 2-Year Journey into Cloud Engineering, Ethical Hacking, and… | Ugosam | [Read More](https://medium.com/p/5bdb585b6b86) |
 | Thu, 27 Nov 2025 20:15:55 GMT | The Unseen War in the Digital Shadows | Vaultnet Defense | [Read More](https://medium.com/p/41c5b9d6c294) |
 | Thu, 27 Nov 2025 20:14:24 GMT | The New Android Trojan That Reads Your Encrypted Chats… And Quietly Takes Over Your Entire Phone | Muhammad Hassan Ali | [Read More](https://medium.com/p/000daeb8c672) |
-| Thu, 27 Nov 2025 20:06:11 GMT | Tips for Protecting Yourself This Holiday Season | Joshua Wardak | [Read More](https://medium.com/p/d0d235487d36) |
-| Thu, 27 Nov 2025 20:05:21 GMT | DIGIT Expo 2025 — Edinburgh: AI Reality Checks, Team Culture Wins, and the Quantum Threat | Steve Anderson | [Read More](https://medium.com/p/e5be46707b0f) |
-| Thu, 27 Nov 2025 19:55:02 GMT | Building a Virtual SOC Lab: Deploying Wazuh SIEM on Docker | Eyupcan Isikgor | [Read More](https://medium.com/p/00629b57ed20) |
-| Thu, 27 Nov 2025 19:42:22 GMT | Strengthen Your Security Strategy with CyberSecOp: Expert Cybersecurity Consulting & Services | Jeffery Walker | [Read More](https://medium.com/p/72981b02809a) |
-| Thu, 27 Nov 2025 19:25:07 GMT | Resurface Of RedTail CryptoMiner | Mohamed Mostafa | [Read More](https://medium.com/p/207af96beb0b) |
-| Thu, 27 Nov 2025 19:20:20 GMT | Zero-Click Account Takeover via OAuth | Amr khaled Zakaria | [Read More](https://medium.com/p/8c229a3f45d1) |
