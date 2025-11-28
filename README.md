@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 10:39:48 GMT | Nigeria’s Security Crisis Is a Governance Crisis — And Only Deep Structural Reform Can Fix It | Michael Oluwagbemi | [Read More](https://medium.com/p/f7db40f1410c) |
+| Fri, 28 Nov 2025 10:32:11 GMT | robots.txt Explained Simply: How Websites Talk to Search Engines | Natarajan C K | [Read More](https://medium.com/p/d99eeb773060) |
+| Fri, 28 Nov 2025 10:30:15 GMT | The New SOC Playbook for 2026: AI Worms, Rogue GPTs & the End of Static IOCs | Motasem Hamdan | [Read More](https://medium.com/p/840a8b9b009e) |
+| Fri, 28 Nov 2025 10:22:56 GMT | Red teaming the first AI-orchestrated cyber espionage campaign report | Giulio C. | [Read More](https://medium.com/p/87b8e7fbc91b) |
+| Fri, 28 Nov 2025 10:22:22 GMT | 13 Common Crypto Security Mistakes And How To Avoid Them | Syndika | [Read More](https://medium.com/p/cd29f505424c) |
+| Fri, 28 Nov 2025 10:21:05 GMT | Pentesters Love Misordered Firewall Rules: How Stateful Accept Breaks Port Whitelists | robbie | [Read More](https://medium.com/p/f36e21ed889b) |
+| Fri, 28 Nov 2025 10:20:57 GMT | What is Field Force Management Software in India? - Field Tracking App | Samvaskaran | [Read More](https://medium.com/p/e17aad787b0f) |
 | Fri, 28 Nov 2025 10:17:23 GMT | Is Your AI Watching You More Than You Think | Czarif | [Read More](https://medium.com/p/d8ed2457145a) |
+| Fri, 28 Nov 2025 10:15:49 GMT | Military Keynesianism | Dylan Evans | [Read More](https://medium.com/p/fb08e49852d2) |
 | Fri, 28 Nov 2025 10:12:16 GMT | Why 95% of Bug Bounty Hunters Quit (And How the 5% Actually Make Money) | BugHunter’s Journal | [Read More](https://medium.com/p/730863b854d5) |
 | Fri, 28 Nov 2025 10:10:24 GMT | Bluetooth Keeps Disconnecting? 9 Proven Fixes That Actually Work | Bryan Collins | [Read More](https://medium.com/p/2e8a86633b49) |
 | Fri, 28 Nov 2025 09:59:07 GMT | The Copilot Paradigm: Why AI Works When It Amplifies Human Agency | Navigating Complexity | [Read More](https://medium.com/p/c25bfa89f748) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 03:55:25 GMT | Tải Hack Spider Fighter 3 APK Vô Hạn Tiền | GameHaiVL | [Read More](https://medium.com/p/042816de0a28) |
 | Fri, 28 Nov 2025 03:49:50 GMT | When Bookmarklets Meet Frontend Reality: From “Auto-Fill Convenience” to “Anti-Automation… | Liu Xiaogong - Debugging Code and Tantrums Alike | [Read More](https://medium.com/p/13c64ea39d0e) |
 | Fri, 28 Nov 2025 03:32:28 GMT | How Jingle Thief Turns Cloud Access Into High-Value Fraud During the Festive Season | Deven Chhajed | [Read More](https://medium.com/p/33c00448bd3f) |
-| Fri, 28 Nov 2025 03:19:15 GMT | The Digital Dilemma: When Keeping Knowledge Feels Wrong | Rabail Zaheer | [Read More](https://medium.com/p/57162ef8aab0) |
-| Fri, 28 Nov 2025 03:19:01 GMT | Maximum Mobile Privacy in 2025: No-Compromise Phone & Tablet Setup | Officer's Notes | [Read More](https://medium.com/p/e0ed4b27ba37) |
-| Fri, 28 Nov 2025 02:48:07 GMT | 7 Ways USB C Can Rescue Your Daily Tech Problems | Steven Chin | [Read More](https://medium.com/p/dfc5ee9aec74) |
-| Fri, 28 Nov 2025 02:42:09 GMT | Intigriti Monthly Code Challenge November 2025 | BXPLOIT | [Read More](https://medium.com/p/a96114e39550) |
-| Fri, 28 Nov 2025 02:36:02 GMT | Sometimes being known in our darkness feels safer than being loved in our light | EternalAmore | [Read More](https://medium.com/p/092ded583640) |
-| Fri, 28 Nov 2025 02:35:43 GMT | GenAI x Sec Advent (2025 edition) | Thomas Roccia | [Read More](https://medium.com/p/32c52ff753b4) |
-| Fri, 28 Nov 2025 02:32:03 GMT | PortSwigger Lab Write‑Up: 2FA bypass using a brute-force attack | Anas Elsaba | [Read More](https://medium.com/p/69f41ef36168) |
-| Fri, 28 Nov 2025 02:31:24 GMT | Brazil’s WhatsApp Malware Wave Targets Banking And Crypto Users | Geoffrey Wenger | [Read More](https://medium.com/p/d861d85e7758) |
