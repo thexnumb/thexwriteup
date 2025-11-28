@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 05:32:06 GMT | The Day 21 Parameters Crashed 8.5 Million Computers: Inside the CrowdStrike Catastrophe | Amįń | [Read More](https://medium.com/p/14aa3379d123) |
+| Fri, 28 Nov 2025 05:30:41 GMT | The Invisible Layer of Web3: Why Transaction Simulation Matters | Aditya | [Read More](https://medium.com/p/08abdfd257a9) |
+| Fri, 28 Nov 2025 05:22:12 GMT | Phishing Simulation Success: How Cybersecurity Awareness Training Saves Organisations from Data… | Sentry Cyber | [Read More](https://medium.com/p/d2c83430a793) |
+| Fri, 28 Nov 2025 05:16:22 GMT | When to Reinstall Windows for Best Performance: Complete Guide for Everyday Users | Ask IT Support | [Read More](https://medium.com/p/4f4f2a521fe1) |
 | Fri, 28 Nov 2025 05:05:51 GMT | Five Years of JSONFormatter & CodeBeautify Leaks Expose Thousands of Passwords, Cloud Keys, and… | Hafiz Shamnad | [Read More](https://medium.com/p/f178f2c0d57f) |
 | Fri, 28 Nov 2025 04:56:53 GMT | EPISODE 4, The Rise of Vulnerability in Our Society | Prof Akaro | [Read More](https://medium.com/p/06b179d378f5) |
 | Fri, 28 Nov 2025 04:45:23 GMT | How to Convert a Concrete5 Website to WordPress (Easy & Secure Methods) | Chris | [Read More](https://medium.com/p/8306bbc7b401) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 17:16:01 GMT | 트랜잭션 서명 단계의 취약점: 소프트웨어 지갑의 구조적 한계와 하드웨어 지갑의 대응력 동향 | Caleb Choi | [Read More](https://medium.com/p/4fdd79d03ae3) |
 | Thu, 27 Nov 2025 17:08:05 GMT | The One Python Function Hackers LOVE You to Use | Maikel Mardjan | [Read More](https://medium.com/p/c26f0c400631) |
 | Thu, 27 Nov 2025 17:06:31 GMT | TryHackMe - Linux Function Hooking - WriteUp | Axoloth | [Read More](https://medium.com/p/82406fb77e00) |
-| Thu, 27 Nov 2025 17:05:40 GMT | Hack the World (Computer) | David Dal Busco | [Read More](https://medium.com/p/0dc46b609630) |
-| Thu, 27 Nov 2025 16:59:27 GMT | Modern SOC Operations: Threat Detection, Incident Response & Real-World Challenges | Anonymous King | [Read More](https://medium.com/p/ff4621085d19) |
-| Thu, 27 Nov 2025 16:55:32 GMT | XML RAT - Cyberdefenders | Nicksondiazm | [Read More](https://medium.com/p/a91fcfbe9a08) |
-| Thu, 27 Nov 2025 16:54:47 GMT | How to install and configure Snort for Networking Monitoring — Cybersecurity Homelab [#6] | 0xRahuL | [Read More](https://medium.com/p/c3b76a769b00) |
