@@ -12,12 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 06:27:40 GMT | Your Windows License Will Expire Soon — How to Fix It Quickly | Om Prakash | [Read More](https://medium.com/p/061738529340) |
+| Fri, 28 Nov 2025 06:24:54 GMT | Integration of GitHub Actions with Snyk tool to scan the vulnerable docker image. | Ashwini Puranik | [Read More](https://medium.com/p/3222cf6218c1) |
+| Fri, 28 Nov 2025 06:24:15 GMT | Powerful Advanced Persistent Threat Cybersecurity Solutions for 2026 | iCONIFERz Technology News and Insights | [Read More](https://medium.com/p/9f0906bfc862) |
+| Fri, 28 Nov 2025 06:07:57 GMT | CHAMBRE D’AROMES PERFUME BOUTIQUE | Odugbenro lateef | [Read More](https://medium.com/p/0bc6effdcf61) |
+| Fri, 28 Nov 2025 05:58:25 GMT | How to Set Up a Professional Staging Workflow and Rock-Solid CI/CD for Your SaaS (Step-by-Step) | CodeGenitor | [Read More](https://medium.com/p/08a6a74444f0) |
+| Fri, 28 Nov 2025 05:56:17 GMT | : "  ,  ' … | Cyber Toddler | [Read More](https://medium.com/p/bbe510ce6b9e) |
+| Fri, 28 Nov 2025 05:55:45 GMT | Get Your SOC Out of the CHAOS ZONE | Siddhant Mishra | [Read More](https://medium.com/p/501cf1f0ec18) |
+| Fri, 28 Nov 2025 05:50:41 GMT | MT-LAB: A Korean Platform That Helps Users Identify Online Scam Betting Sites | croatian | [Read More](https://medium.com/p/bdb5e70e4101) |
+| Fri, 28 Nov 2025 05:36:12 GMT | Powerful IT Networks Driving Modern Business Success | Any network | [Read More](https://medium.com/p/e3508d1595fc) |
 | Fri, 28 Nov 2025 05:32:06 GMT | The Day 21 Parameters Crashed 8.5 Million Computers: Inside the CrowdStrike Catastrophe | Amįń | [Read More](https://medium.com/p/14aa3379d123) |
 | Fri, 28 Nov 2025 05:30:41 GMT | The Invisible Layer of Web3: Why Transaction Simulation Matters | Aditya | [Read More](https://medium.com/p/08abdfd257a9) |
 | Fri, 28 Nov 2025 05:22:12 GMT | Phishing Simulation Success: How Cybersecurity Awareness Training Saves Organisations from Data… | Sentry Cyber | [Read More](https://medium.com/p/d2c83430a793) |
 | Fri, 28 Nov 2025 05:16:22 GMT | When to Reinstall Windows for Best Performance: Complete Guide for Everyday Users | Ask IT Support | [Read More](https://medium.com/p/4f4f2a521fe1) |
 | Fri, 28 Nov 2025 05:05:51 GMT | Five Years of JSONFormatter & CodeBeautify Leaks Expose Thousands of Passwords, Cloud Keys, and… | Hafiz Shamnad | [Read More](https://medium.com/p/f178f2c0d57f) |
 | Fri, 28 Nov 2025 04:56:53 GMT | EPISODE 4, The Rise of Vulnerability in Our Society | Prof Akaro | [Read More](https://medium.com/p/06b179d378f5) |
+| Fri, 28 Nov 2025 04:55:46 GMT | ประจำวันศุกร์ที่ 28 พฤศจิกายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1b5db59bce43) |
 | Fri, 28 Nov 2025 04:45:23 GMT | How to Convert a Concrete5 Website to WordPress (Easy & Secure Methods) | Chris | [Read More](https://medium.com/p/8306bbc7b401) |
 | Fri, 28 Nov 2025 04:30:05 GMT | From a 12-Hour Soft Fork Recovery to the Final Mile of Governance | HydroDrip | [Read More](https://medium.com/p/e92c1233406c) |
 | Fri, 28 Nov 2025 04:28:22 GMT | How I Discovered 8 Header-Injection Weaknesses on a Wix-Hosted Domain | Tyreek Haynes | [Read More](https://medium.com/p/39ce35194028) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 27 Nov 2025 18:06:09 GMT | Neural Networks and Cybersecurity: Building Intelligent and Secure Systems | Alan Joseph Abraham | [Read More](https://medium.com/p/9682cac1157e) |
 | Thu, 27 Nov 2025 18:01:06 GMT | Frontend Interview Challenge : Understanding Browser Storage | constCoder | [Read More](https://medium.com/p/0db2274fcc85) |
 | Thu, 27 Nov 2025 18:00:20 GMT | The Regenerative Entrepreneur: The world-changing opportunities for regenerative design | Erik Kvam | [Read More](https://medium.com/p/d4ae2c0bdb4f) |
-| Thu, 27 Nov 2025 17:55:32 GMT | Understanding IPSec Tunnels in the Real World: A Practical, Deep Dive Guide for Engineers | Ahmed Maher | [Read More](https://medium.com/p/8d397d27809b) |
-| Thu, 27 Nov 2025 17:53:40 GMT | From Tradition to Technology — How Geo-Tagged Blockchain Paths Protect Ayurvedic Purity | Abhilash Baviskar | [Read More](https://medium.com/p/6b5a89f2b9b0) |
-| Thu, 27 Nov 2025 17:52:53 GMT | AI Security Tools — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/82ead4a6fb62) |
-| Thu, 27 Nov 2025 17:49:53 GMT | 10 Mistakes Front-End Developers Make That Hackers Love | Liam | [Read More](https://medium.com/p/24accc7a5938) |
-| Thu, 27 Nov 2025 17:40:06 GMT | OT Cybersecurity: MOSAICO ÆGIS | QualiCal | [Read More](https://medium.com/p/c8b463cc836e) |
-| Thu, 27 Nov 2025 17:36:22 GMT | How to Penetrate a Drone Using a Flipper Zero | Hackers Things | [Read More](https://medium.com/p/3a9e0b5f1b83) |
-| Thu, 27 Nov 2025 17:23:03 GMT | Smartphones memory protection at the end of 2025. iPhone 17 vs Samsung vs other Android devices | NixWarden | [Read More](https://medium.com/p/8557019b62be) |
-| Thu, 27 Nov 2025 17:16:01 GMT | 트랜잭션 서명 단계의 취약점: 소프트웨어 지갑의 구조적 한계와 하드웨어 지갑의 대응력 동향 | Caleb Choi | [Read More](https://medium.com/p/4fdd79d03ae3) |
-| Thu, 27 Nov 2025 17:08:05 GMT | The One Python Function Hackers LOVE You to Use | Maikel Mardjan | [Read More](https://medium.com/p/c26f0c400631) |
-| Thu, 27 Nov 2025 17:06:31 GMT | TryHackMe - Linux Function Hooking - WriteUp | Axoloth | [Read More](https://medium.com/p/82406fb77e00) |
