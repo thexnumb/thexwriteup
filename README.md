@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 28 Nov 2025 23:33:48 GMT | Ivanti Post-Exploitation Lateral Movement — Analysis and Detection | SIMKRA | [Read More](https://medium.com/p/fe4612e94d65) |
+| Fri, 28 Nov 2025 23:30:47 GMT | It Looks Like a Warning: Building Vulnerability Management Maturity | Jeff Kingsland | [Read More](https://medium.com/p/6c1dccdda0ee) |
+| Fri, 28 Nov 2025 23:28:34 GMT | How I Found a Critical SQL Injection in Mercedes-Benz  My First Write-up | Youssef Ezzat | [Read More](https://medium.com/p/cb9c4c1fb7f3) |
 | Fri, 28 Nov 2025 22:52:40 GMT | ️ Siber Güvenliğin Savunma Kalkanı: Blue Team (Mavi Takım) Nedir? | HSDEBYU | [Read More](https://medium.com/p/83dbf5e2a123) |
 | Fri, 28 Nov 2025 22:47:50 GMT | Stop Deleting Photos: 6 iPhone Storage Hacks You’ll Wish You Knew Sooner | Ning | [Read More](https://medium.com/p/6f4586c2cfae) |
 | Fri, 28 Nov 2025 22:45:54 GMT | Riding the Shai-Hulud of Supply Chains | Arda Boğa | [Read More](https://medium.com/p/082f88510f4c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 15:02:16 GMT | The Night I Stopped Lying to Myself (Part 1 of 3) | Deyanira Perdomo Cuéllar | [Read More](https://medium.com/p/776a5d220e7b) |
 | Fri, 28 Nov 2025 14:55:58 GMT | The New Cyber Skills Crisis: AI-Powered Offense, Undertrained Defenders, and the Future of Cyber… | Len Noe | [Read More](https://medium.com/p/91395823d994) |
 | Fri, 28 Nov 2025 14:45:39 GMT | The Essential Guide to Using Cybersecurity Tools in 2025 | Devinn C. | [Read More](https://medium.com/p/00add85169fe) |
-| Fri, 28 Nov 2025 14:31:34 GMT | Browser Security Report 2026: How Safe Are Modern Browsers Against Today’s Threats? | Cordula Boeck | [Read More](https://medium.com/p/60d09f6c0366) |
-| Fri, 28 Nov 2025 14:12:09 GMT | I tried automating Azure portal with JS — here’s why it failed miserably | Viktor Ponamarev | [Read More](https://medium.com/p/12347c0b626e) |
-| Fri, 28 Nov 2025 14:12:01 GMT | Five Findings I Often See During Web Pentesting | 0xc4t | [Read More](https://medium.com/p/ce19ca038d4b) |
