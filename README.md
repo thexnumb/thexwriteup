@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 20:09:38 GMT | HTB: Busqueda writeup | bara almustafa | [Read More](https://medium.com/p/494f508a9d7d) |
+| Sat, 29 Nov 2025 19:55:24 GMT | Automating the Hunt: When Manual Reconnaissance Hits a Wall | IFFI0x | [Read More](https://medium.com/p/093a5a80aa97) |
+| Sat, 29 Nov 2025 19:40:11 GMT | The Parts Of Me You Don't See | Oluwabunmi Fortune Ajibade | [Read More](https://medium.com/p/a96eabcf645a) |
+| Sat, 29 Nov 2025 19:32:10 GMT | Investigating with Splunk - challange SOC #11 | D4m.sh | [Read More](https://medium.com/p/ee07d5686177) |
+| Sat, 29 Nov 2025 19:30:47 GMT | Windows Internals — For Beginners | Ace | [Read More](https://medium.com/p/31f04ade0db9) |
 | Sat, 29 Nov 2025 19:21:09 GMT | m0leCon CTF Snake2 Anti-Cheat Bypass — Full Technical Write-Up (CTF + Pentest Hybrid) | amer7x | [Read More](https://medium.com/p/811d3ded3b93) |
 | Sat, 29 Nov 2025 19:14:44 GMT | The “Dune” Worm Returns: Understanding the massive Shai-Hulud 2.0 Supply Chain Attack | Ayush Bulbule | [Read More](https://medium.com/p/6561fd6c2517) |
 | Sat, 29 Nov 2025 19:13:47 GMT | Akira Binary Reverse Analysis — v2 | Robert Gonzalez | [Read More](https://medium.com/p/8b6f02ae2020) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 12:36:34 GMT | DockerLabs Writeup — Cachopo (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/bf495d61e2c1) |
 | Sat, 29 Nov 2025 12:35:31 GMT | OpenAI Confirms Data Breach — Here’s Who Is Impacted | IC News | [Read More](https://medium.com/p/a8cc6263a1cf) |
 | Sat, 29 Nov 2025 12:34:59 GMT | How Zero-Knowledge Proofs Create Trust, Without Revealing Data | Aky Ars | [Read More](https://medium.com/p/8661d39bf3b1) |
-| Sat, 29 Nov 2025 12:29:28 GMT | Digital Zen with Alacritty & Tmux | Murat Kurkoglu | [Read More](https://medium.com/p/d7d6abb82284) |
-| Sat, 29 Nov 2025 12:26:44 GMT | Cybersecurity Hiring Has Changed Forever: Why Thinking Beats Tools in 2026 | Surinderpal Singh | [Read More](https://medium.com/p/b1e2830ae3e7) |
-| Sat, 29 Nov 2025 12:01:26 GMT | How I Found an Auth Bypass in a Newsletter Subscription System | JEETPAL | [Read More](https://medium.com/p/6c2e3a032f37) |
-| Sat, 29 Nov 2025 12:01:04 GMT | Today’s Top Cyber Intelligence Highlights — Nov 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/99fdee783a45) |
-| Sat, 29 Nov 2025 11:54:20 GMT | Passwords Aren’t Enough: Boost Your Social Media Account Security with 2FA | Enock Sang | [Read More](https://medium.com/p/6587999696cd) |
