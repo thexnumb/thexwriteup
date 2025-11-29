@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 09:38:21 GMT | Understanding Access Control Models: DAC vs RBAC vs MAC | Shaif Ali | [Read More](https://medium.com/p/185059506ac3) |
+| Sat, 29 Nov 2025 09:17:01 GMT | AI is not safe anymore — we need to act now, before its too late! | Ani Bandyopadhyay | [Read More](https://medium.com/p/c43b3b7ade7f) |
+| Sat, 29 Nov 2025 09:13:36 GMT | OneEasy Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/dcc2ba5c03dc) |
+| Sat, 29 Nov 2025 09:12:53 GMT | KBYS Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/bb436bee85c5) |
 | Sat, 29 Nov 2025 09:06:59 GMT | A Practical Guide to Server-Side Template Injection (SSTI) | Redfox Security | [Read More](https://medium.com/p/19bbc1649b92) |
 | Sat, 29 Nov 2025 09:06:01 GMT | From MBBS Dreams to Cybersecurity Reality: My Unexpected Path into the World of Hackers…. | Bhavanavijayan | [Read More](https://medium.com/p/c5787b0323f0) |
 | Sat, 29 Nov 2025 09:02:13 GMT | How to Turn Stealer Log Intelligence Into Instant Account Protection With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/0df7d78bd6da) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 22:21:55 GMT | Windows Server 2022 Domain Controller Assessment (Hostname: DC01) | Johnny Meintel | [Read More](https://medium.com/p/5a4d537f0b05) |
 | Fri, 28 Nov 2025 22:21:44 GMT | How Istio Implements Zero-Trust Security: mTLS, PeerAuthentication, AuthorizationPolicy &… | Shekhar Chaugule | [Read More](https://medium.com/p/8cfbb0e6136d) |
 | Fri, 28 Nov 2025 22:12:31 GMT | Portswigger : Flawed two-factor verification logic | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e69fa0238b2a) |
-| Fri, 28 Nov 2025 22:12:26 GMT | Your Search History Just Went Public on Bing. Here’s What I Did in 5 Mins to Fix It. | Alpha Design Global - Build Your MVP Website. | [Read More](https://medium.com/p/20e746e527ca) |
-| Fri, 28 Nov 2025 21:59:37 GMT | Malware Traffic Analysis with Wireshark — Detecting Dridex C2 Traffic | Faith akerele | [Read More](https://medium.com/p/531d254edb0d) |
-| Fri, 28 Nov 2025 21:50:03 GMT | Future Trends in Cloud Security and Analytics: What to Expect in 2026 | Techridge Solutions | [Read More](https://medium.com/p/cdddf9c16053) |
-| Fri, 28 Nov 2025 21:48:50 GMT | Holiday Cybercrime Rises As Fake Shopping Domains Flood The Web | Geoffrey Wenger | [Read More](https://medium.com/p/30fa00669c3f) |
