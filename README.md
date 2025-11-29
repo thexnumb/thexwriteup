@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 18:41:07 GMT | Deepfake Deception: How I Hacked Biometric Authentication with $ and a YouTube Video | Iski | [Read More](https://medium.com/p/6c1ee367b28f) |
+| Sat, 29 Nov 2025 18:39:51 GMT | What Does Carding Do? Understanding the Cybercrime Behind Stolen Cards | Candidgirlsofficial | [Read More](https://medium.com/p/9979dbaf99bd) |
+| Sat, 29 Nov 2025 18:36:24 GMT | The Internet Held Its Breath: Reflections on Cloudflare’s November 2025 Outage | Soumyadipta Birabar | [Read More](https://medium.com/p/4dca7946ca92) |
+| Sat, 29 Nov 2025 18:36:06 GMT | ️ From Zero to Hero: The Complete Beginner’s Roadmap to Linux Reverse Engineering | SilentOpcode | [Read More](https://medium.com/p/d26ea2c31684) |
+| Sat, 29 Nov 2025 18:35:21 GMT | HTB Challenge — BabyEncryption | Fardeen A. | [Read More](https://medium.com/p/53668d303777) |
+| Sat, 29 Nov 2025 18:30:30 GMT | Why You Can’t Trust float64 for Perfect Precision (and It’s Not a Bug) | Moksh S | [Read More](https://medium.com/p/14dc4f934d0c) |
 | Sat, 29 Nov 2025 18:19:55 GMT | Why a VPN is Essential for Online Gaming | Awais Khan | [Read More](https://medium.com/p/444ffaf879a4) |
 | Sat, 29 Nov 2025 18:18:37 GMT | VulNyx Hosting Writeup | CyberCraft | [Read More](https://medium.com/p/fa1bf2aa3825) |
 | Sat, 29 Nov 2025 18:14:47 GMT | Are Browser Extensions Harming Your Device? | Awais Khan | [Read More](https://medium.com/p/9d67373e1791) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 11:03:24 GMT | The Top 5 Blue Team Tools Every Defender Should Know | Cybervolt | [Read More](https://medium.com/p/cd68fcbe6d2f) |
 | Sat, 29 Nov 2025 11:01:25 GMT | The Airbus A320 Recall and the Hidden Cost of Software Updates | Henrique Cordeiro | [Read More](https://medium.com/p/fa9d529bacb1) |
 | Sat, 29 Nov 2025 11:01:21 GMT | Why ‘Thank You’ Costs a Million Dollars to ChatGPT | Arkar Phyo | [Read More](https://medium.com/p/8132e549395c) |
-| Sat, 29 Nov 2025 11:00:43 GMT | How Legacy Python Bootstrap Scripts Put PyPI at Risk of Domain Takeover Supply-Chain Attacks | Germano Costi | [Read More](https://medium.com/p/a0bff9a44ece) |
-| Sat, 29 Nov 2025 10:42:31 GMT | Your “node_modules” Folder is a Ticking Time Bomb. | Ferid Brković | [Read More](https://medium.com/p/57dab3ee08b3) |
-| Sat, 29 Nov 2025 10:42:26 GMT | Bahaya Google Dorking: Data Sensitif Mahasiswa Bocor! | Nova Sapitri | [Read More](https://medium.com/p/7dd303d0e8c9) |
-| Sat, 29 Nov 2025 10:32:51 GMT | Marie Van Britten Brown | Meridith Berk | [Read More](https://medium.com/p/4967ef968084) |
-| Sat, 29 Nov 2025 10:22:15 GMT | CVE-2025–13526: 7 Lessons from the OneClick Chat to Order IDOR | Pentest_Testing_Corp | [Read More](https://medium.com/p/cb5920a9db2e) |
-| Sat, 29 Nov 2025 10:18:07 GMT | Daifend AI — Why the Delhi Airport GPS Spoofing Incident Is a Wake-Up Call for India’s Critical… | Bhawini. | [Read More](https://medium.com/p/bc43f0bfd69d) |
