@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 07:34:44 GMT | How I Perform Subdomain Enumeration | Red | [Read More](https://medium.com/p/1dc797f5f31f) |
+| Sat, 29 Nov 2025 07:23:14 GMT | Why DevOps Learners in Bangalore Choose Eduleem? | Nuzhath Begam | [Read More](https://medium.com/p/a2a7c65f8615) |
+| Sat, 29 Nov 2025 07:22:31 GMT | When Insurers Won’t Insure: The AI Liability Crisis No One Is Talking About | Kaustubh Phatak | [Read More](https://medium.com/p/b6baeb0f3fa6) |
 | Sat, 29 Nov 2025 07:17:58 GMT | The Math of Inevitability: Why AI Cannot Fail And Why That Means Humanity Was Never the Final Form | Mattbusel | [Read More](https://medium.com/p/befeb6c8e4ca) |
 | Sat, 29 Nov 2025 07:13:59 GMT | How I Earned My First CVE | Athiwat Tiprasaharn | [Read More](https://medium.com/p/c21d48311465) |
 | Sat, 29 Nov 2025 07:09:13 GMT | The New Frontier: A Comprehensive Guide to AI Hacking | CyberBruhArmy | [Read More](https://medium.com/p/9842eb5cdff6) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 19:36:55 GMT | The Accidental Hack: How I Stumbled Into a Server and Found a Password in the Static | Santhosh Adiga U | [Read More](https://medium.com/p/348731beb070) |
 | Fri, 28 Nov 2025 19:29:07 GMT | How I Use JavaScript Files to Discover Hidden Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/a434eda7f7af) |
 | Fri, 28 Nov 2025 19:25:50 GMT | The Unmanned Threat: Autonomous AI is Ending Human Cybersecurity | Isabella Butera | [Read More](https://medium.com/p/23d8b71450ba) |
-| Fri, 28 Nov 2025 19:24:43 GMT | The Three Layers Of Information Every Human Leaks In Public | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/30d200d7d629) |
-| Fri, 28 Nov 2025 19:16:09 GMT | The Cartography Of Shadows: Mapping Networks That Pretend They Do Not Exist | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e5023a581813) |
-| Fri, 28 Nov 2025 19:12:56 GMT | Network Fu: From Zero to Netcat Ninja on the Linux Command Line | Santhosh Adiga U | [Read More](https://medium.com/p/8756c3bd68b8) |
