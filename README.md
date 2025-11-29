@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 03:09:42 GMT | Taking Back Your Digital Privacy: A Realistic Guide Summary | Murat Alagoz | [Read More](https://medium.com/p/d3fc360ea36c) |
+| Sat, 29 Nov 2025 03:06:36 GMT | OSINT: From Instagram to your kitchen | umbraXsecure | [Read More](https://medium.com/p/882cd8825f39) |
+| Sat, 29 Nov 2025 03:02:06 GMT | The RF Layer Most Pentesters Still Overlook — and Why It’s Becoming Critical | Michael Preston | [Read More](https://medium.com/p/184e130d5293) |
+| Sat, 29 Nov 2025 02:53:01 GMT | NoSQL injection | Kahhow | [Read More](https://medium.com/p/446d23c6256d) |
+| Sat, 29 Nov 2025 02:29:12 GMT | 30-Day OSINT Journey: Become a Cybersecurity Expert Step by Step — Here’s How! | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/5b5dded38ea2) |
+| Sat, 29 Nov 2025 02:13:48 GMT | iOS Security: The Sensitive Data Leak You Likely Have in Cache.db | Artem Lushchan | [Read More](https://medium.com/p/e987d3c50739) |
+| Sat, 29 Nov 2025 02:12:33 GMT | Hands-On Understanding of OWASP Top 10: Injection | Yoshiyuki Watanabe | [Read More](https://medium.com/p/7a47799d5d70) |
+| Sat, 29 Nov 2025 02:08:53 GMT | My Friend Lost His Steam Account Overnight, All Because of One Click. | CiberEdu | [Read More](https://medium.com/p/272197efa2a7) |
+| Sat, 29 Nov 2025 01:55:26 GMT | Hovering Above the Line | Alizabeth Amelia Rose | [Read More](https://medium.com/p/02ac826c3fb2) |
 | Sat, 29 Nov 2025 01:31:30 GMT | 2025’s Most Bizarre Cyberattack Started With a Coffee Mug Warmer. What Happened Next Was Chaos | Noel | [Read More](https://medium.com/p/2cd1758ee719) |
 | Sat, 29 Nov 2025 01:31:14 GMT | TheHarvester in Hacking - Find Emails, Domains & Targets Fast! | Shahzaib | [Read More](https://medium.com/p/2f27cf43c4c2) |
 | Sat, 29 Nov 2025 01:27:52 GMT | From College Dorms to Red Team Powerhouse, The FourCore Journey | Cyber Unbound | [Read More](https://medium.com/p/7787876777e7) |
@@ -24,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 00:32:21 GMT | What is the difference between authentication and authorization? | Deon Orina | [Read More](https://medium.com/p/fa3cc5a1c270) |
 | Sat, 29 Nov 2025 00:17:01 GMT | THE NPC → MC SPECTRUM | NonZeroSumJames | [Read More](https://medium.com/p/3660601210e6) |
 | Sat, 29 Nov 2025 00:16:34 GMT | MyTown Media Solutions — Full Network Deployment (Capstone Project) | Jahson Jno-Baptiste | [Read More](https://medium.com/p/cd81954e5f22) |
+| Sat, 29 Nov 2025 00:12:33 GMT | AVG Ultimate for Android — Full Mobile Security & Privacy | Antivirus Ninja | [Read More](https://medium.com/p/625c47207753) |
 | Sat, 29 Nov 2025 00:02:28 GMT | BFLA (API5–2023): Complete Guide to Detecting, Exploiting, and Reporting Broken Function Level… | JPablo13 | [Read More](https://medium.com/p/af2ecfd3e2a4) |
 | Fri, 28 Nov 2025 23:46:37 GMT | How EternalBlue and Hafnium Pushed Me Toward Ethical Hacking | Marco Kaumanns | [Read More](https://medium.com/p/2fd652013eb3) |
 | Fri, 28 Nov 2025 23:36:34 GMT | AI History is a Liability: Why Every CXO Needs a 10-Minute Privacy Protocol | Snehal Singh | [Read More](https://medium.com/p/5060bc745b8f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 16:26:02 GMT | The Ultimate Guide to Starting a Cybersecurity GRC Career in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/5249d1a96750) |
 | Fri, 28 Nov 2025 16:23:50 GMT | Windows 11 Wants AI Apps Inside Your File Explorer. Here’s Why That Should Worry You | The Atomic Architect | [Read More](https://medium.com/p/86a4472048bd) |
 | Fri, 28 Nov 2025 16:19:22 GMT | แชร์ประสบการณ์และการเตรียมตัวสอบ OSCP+ ครั้งแรก 2025 | Clumsy | [Read More](https://medium.com/p/146f51ee7964) |
-| Fri, 28 Nov 2025 16:13:33 GMT | Insubordination of the People’s Liberation Army During the Tiananmen Square Demonstrations | 永熙 | [Read More](https://medium.com/p/09674b3f932a) |
-| Fri, 28 Nov 2025 16:10:01 GMT | Next-Generation Firewall Strategies for Smarter, Safer Enterprise Networks | ANSI Technologies | [Read More](https://medium.com/p/238846ad67bc) |
-| Fri, 28 Nov 2025 16:02:10 GMT | Smart Marketing vs. Sneaky Manipulation: 5 Brain‑Based Hacks and 5 Red Flags | Joy Healey | [Read More](https://medium.com/p/25572ceee2a9) |
-| Fri, 28 Nov 2025 15:59:47 GMT | Top 5 Udemy Courses for Certified Information Systems Security Professional (CISSP) Certification… | javinpaul | [Read More](https://medium.com/p/78a54197bde3) |
-| Fri, 28 Nov 2025 15:58:56 GMT | Installing NetworkMiner & Zui (previously Brim) for Networking Monitoring — Cybersecurity Homelab… | 0xRahuL | [Read More](https://medium.com/p/166dbc882f5e) |
-| Fri, 28 Nov 2025 15:54:36 GMT | Putting my Feelings in Your Pocket | Prospero | [Read More](https://medium.com/p/d8a4b59dd620) |
-| Fri, 28 Nov 2025 15:52:35 GMT | The Truth Behind Younger Women Dating Older Men — Society’s Hidden Reality | Laura Miller | [Read More](https://medium.com/p/334306fb69c2) |
-| Fri, 28 Nov 2025 15:48:47 GMT | Flagyard: tchshop — Web-Easy SSTI Writeup | Abdullah | [Read More](https://medium.com/p/cb4bc6974c4d) |
-| Fri, 28 Nov 2025 15:44:19 GMT | PwnTillDawn Snare Machine Writeup | Bazil Brohi | [Read More](https://medium.com/p/892edb1603ab) |
-| Fri, 28 Nov 2025 15:41:08 GMT | From Caesar to the Next Generation: How HRC Could Redefine Encryption/Short | Amr Hafez | [Read More](https://medium.com/p/7ad50b7f89ab) |
