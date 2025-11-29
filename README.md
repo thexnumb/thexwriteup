@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 10:05:09 GMT | Russia Threatens To Block WhatsApp Over “Law Violations” | Techsankar | [Read More](https://medium.com/p/155c741d87e6) |
+| Sat, 29 Nov 2025 10:01:04 GMT | Random Facts About Technology You Never Expected | FactSphereMedia | [Read More](https://medium.com/p/682e1716e015) |
+| Sat, 29 Nov 2025 09:59:41 GMT | Comprehensive Guide to Security Solutions in KSA: Protecting Businesses across Riyadh | Tekshoyabeelyas | [Read More](https://medium.com/p/7bd72cfeaf37) |
+| Sat, 29 Nov 2025 09:53:04 GMT | A Review on: Threat Detection and Mitigation System. | Soumya | [Read More](https://medium.com/p/72bdbc177037) |
+| Sat, 29 Nov 2025 09:49:18 GMT | Groth16 and Proving Your Know The Answer to x²-2x+15=0 | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/029f6db184d0) |
+| Sat, 29 Nov 2025 09:45:23 GMT | Google Machine Learning Engineer Salary 2026: Pay, Levels, Skills, GuideGoogle Machine Learning… | Motherlandlove | [Read More](https://medium.com/p/2a6c84bacd6c) |
 | Sat, 29 Nov 2025 09:38:21 GMT | Understanding Access Control Models: DAC vs RBAC vs MAC | Shaif Ali | [Read More](https://medium.com/p/185059506ac3) |
 | Sat, 29 Nov 2025 09:17:01 GMT | AI is not safe anymore — we need to act now, before its too late! | Ani Bandyopadhyay | [Read More](https://medium.com/p/c43b3b7ade7f) |
 | Sat, 29 Nov 2025 09:13:36 GMT | OneEasy Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/dcc2ba5c03dc) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 23:28:34 GMT | How I Found a Critical SQL Injection in Mercedes-Benz  My First Write-up | Youssef Ezzat | [Read More](https://medium.com/p/cb9c4c1fb7f3) |
 | Fri, 28 Nov 2025 22:52:40 GMT | ️ Siber Güvenliğin Savunma Kalkanı: Blue Team (Mavi Takım) Nedir? | HSDEBYU | [Read More](https://medium.com/p/83dbf5e2a123) |
 | Fri, 28 Nov 2025 22:47:50 GMT | Stop Deleting Photos: 6 iPhone Storage Hacks You’ll Wish You Knew Sooner | Ning | [Read More](https://medium.com/p/6f4586c2cfae) |
-| Fri, 28 Nov 2025 22:45:54 GMT | Riding the Shai-Hulud of Supply Chains | Arda Boğa | [Read More](https://medium.com/p/082f88510f4c) |
-| Fri, 28 Nov 2025 22:24:48 GMT | Outbound HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/227924e660b8) |
-| Fri, 28 Nov 2025 22:23:20 GMT | Windows Server 2022 Web Server + DB Assessment (Hostname: APP01) | Johnny Meintel | [Read More](https://medium.com/p/139b9980c17a) |
-| Fri, 28 Nov 2025 22:21:55 GMT | Windows Server 2022 Domain Controller Assessment (Hostname: DC01) | Johnny Meintel | [Read More](https://medium.com/p/5a4d537f0b05) |
-| Fri, 28 Nov 2025 22:21:44 GMT | How Istio Implements Zero-Trust Security: mTLS, PeerAuthentication, AuthorizationPolicy &… | Shekhar Chaugule | [Read More](https://medium.com/p/8cfbb0e6136d) |
-| Fri, 28 Nov 2025 22:12:31 GMT | Portswigger : Flawed two-factor verification logic | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e69fa0238b2a) |
