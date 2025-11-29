@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 08:34:52 GMT | The Hosting Sweet Spot: Premium Performance at a Low-Cost Price | Mary Thomas | [Read More](https://medium.com/p/a5ab379662b1) |
+| Sat, 29 Nov 2025 08:33:00 GMT | The Subtle Mechanics Of Making Anyone Reveal What They Should Not | Rendur M. Saunter | [Read More](https://medium.com/p/6b9ec02788ea) |
+| Sat, 29 Nov 2025 08:31:06 GMT | WordPress Penetration-Testing - 02 Introducing Deliberate Misconfigurations | Amrsmooke | [Read More](https://medium.com/p/6b2115c80015) |
+| Sat, 29 Nov 2025 08:26:27 GMT | COMPUTER COURSE IN HAMIRPUR | Amit Excellence | [Read More](https://medium.com/p/db7dcca01133) |
+| Sat, 29 Nov 2025 08:20:57 GMT | Machine Learning in Data Science: A Clear Beginner Guide (2026 Update) | Motherlandlove | [Read More](https://medium.com/p/48bf9710f045) |
 | Sat, 29 Nov 2025 08:17:22 GMT | “7-Steps to Cowrie Glory: SSH Honeypot on Digitalocean That Logs More Fails Than My Dating Profile.” | Nithinkumar | [Read More](https://medium.com/p/ce70b4719cfe) |
 | Sat, 29 Nov 2025 08:14:43 GMT | basic-mod1 picoctf | Aun Raza | [Read More](https://medium.com/p/648f4822bfa3) |
 | Sat, 29 Nov 2025 08:10:51 GMT | Secure Boot Kernel Module Signing Key Expiration: Resolving Oracle 19.29 | Arsalan Dehghani Sariyarghan | [Read More](https://medium.com/p/3b2ba09b9c0c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 21:32:34 GMT | The Third-Party Breach Epidemic: When vendors become the largest vulnerability | Nikitha Srinivasan | [Read More](https://medium.com/p/2dda1bc03f8b) |
 | Fri, 28 Nov 2025 21:30:52 GMT | How to Avoid Common Dockerfile Mistakes? Mistakes that costed me time and money … | BecomeDevops | [Read More](https://medium.com/p/9f7c63e46f27) |
 | Fri, 28 Nov 2025 21:25:18 GMT | The Mixpanel Security Incident Reminds Us How Fragile Digital Trust Really Is | Joseph N. Aburu | [Read More](https://medium.com/p/65983ff22b9a) |
-| Fri, 28 Nov 2025 21:16:06 GMT | CPU Sockets, Cores, and Threads: The Guide I Wish Someone Had Given Me When I Started Using Virtual… | Mbcyberworks | [Read More](https://medium.com/p/5d2df3f56298) |
-| Fri, 28 Nov 2025 20:58:41 GMT | Epistemology of CyberSec Cert Junkies (Part 3) | Jade Seeker | [Read More](https://medium.com/p/e8091feb0e9e) |
-| Fri, 28 Nov 2025 20:54:53 GMT | How Belarus Appears as Ally of Myanmar Junta | Rubaiyat Rahman | [Read More](https://medium.com/p/05ee3ef7a148) |
-| Fri, 28 Nov 2025 20:29:59 GMT | Beyond Encryption: How VPNs Can Stop Metadata Leakage Without Sacrificing Speed | Voidly | [Read More](https://medium.com/p/4d3c01683030) |
-| Fri, 28 Nov 2025 20:17:53 GMT | How I Used Splunk in My Home Lab to Build Real-World Security Skills | Devinn C. | [Read More](https://medium.com/p/004daa52fc1d) |
