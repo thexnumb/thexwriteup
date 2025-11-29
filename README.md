@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 14:10:40 GMT | DATA PRIVACY AND DIGITAL DATA PROTECTION ACT (DPDPA), 2023 | Rakshita | [Read More](https://medium.com/p/6c0cc24f1b94) |
+| Sat, 29 Nov 2025 14:07:31 GMT | Vulnlab Boolean-Based Blind SQL Injection | Abang_xin | [Read More](https://medium.com/p/44766b108180) |
+| Sat, 29 Nov 2025 14:02:52 GMT | Albiriox: The New Android Malware That Threatens Banking and Crypto Security | Chetan Seripally | [Read More](https://medium.com/p/442a47d34cf5) |
+| Sat, 29 Nov 2025 14:02:40 GMT | Security & SysAdmins Lost Between WSL, ADB, and Docker | Hamit CİBO | [Read More](https://medium.com/p/0c44270d3fd1) |
+| Sat, 29 Nov 2025 14:01:02 GMT | Introduction to LOG Analysis: Sysmon Integration | Syedmohathashimali | [Read More](https://medium.com/p/8d2fa6cce777) |
+| Sat, 29 Nov 2025 13:45:49 GMT | Jobs Today, Dependency Tomorrow: The Hidden Cost of India’s MNC Obsession | Dhwarakesh | [Read More](https://medium.com/p/e5336142e38c) |
 | Sat, 29 Nov 2025 13:39:53 GMT | A Bug That Took Me 10 Hours to Fix and 10 Seconds to Understand | Mubashir | [Read More](https://medium.com/p/2e500c1e32b6) |
 | Sat, 29 Nov 2025 13:34:40 GMT | From Bytes to Qubits: How Quantum Computing is Rewriting Cybersecurity! | Ritish Srivastava | [Read More](https://medium.com/p/f4d516aa381b) |
 | Sat, 29 Nov 2025 13:32:04 GMT | OCEANLOTUS GROUP (APT32): ESPIONAGE CAMPAIGNS TARGETING GOVERNMENT INFRASTRUCTURE IN SOUTHEAST ASIA | mohhe | [Read More](https://medium.com/p/96cd505178dc) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 06:31:55 GMT | Top AI Security YouTube Videos — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/5f09db69ca42) |
 | Sat, 29 Nov 2025 06:31:30 GMT | Machine Learning Explained Simply: A Beginner-Friendly Full Guide | Motherlandlove | [Read More](https://medium.com/p/63f4c5d01c67) |
 | Sat, 29 Nov 2025 06:20:55 GMT | Step Into High-Demand IT Roles with Cyber Security Expertise | Edglobalacademy | [Read More](https://medium.com/p/4a910cc29165) |
-| Sat, 29 Nov 2025 06:15:09 GMT | TryHackMEVMs: Agent Sudo | Justin Jude Cabodil | [Read More](https://medium.com/p/cc421a29e091) |
-| Sat, 29 Nov 2025 06:05:03 GMT | The Growing Demand for Cyber Skills in Saudi Businesses | Rahman Iqbal | [Read More](https://medium.com/p/8d760d24d5da) |
-| Sat, 29 Nov 2025 05:53:15 GMT | Stuck on Repeat: The Cybersecurity Clichés Keeping the Industry in the Dark | JC Gaillard | [Read More](https://medium.com/p/0bd62a80d493) |
-| Sat, 29 Nov 2025 05:46:14 GMT | BuildingMagic-Hack Smarter (Masoom-Pakistani) | Adil Khan | [Read More](https://medium.com/p/715bf876ac4e) |
-| Sat, 29 Nov 2025 05:44:59 GMT | Packet Capture Automation for SOC ️ | Esra Kayhan | [Read More](https://medium.com/p/08d6063c2219) |
-| Sat, 29 Nov 2025 05:34:15 GMT | Wireshark for DFIR — A Practical Investigator-Focused Guide (2025 Edition) | ghostyjoe | [Read More](https://medium.com/p/aa6d60faf13f) |
