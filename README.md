@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 12:35:31 GMT | OpenAI Confirms Data Breach — Here’s Who Is Impacted | IC News | [Read More](https://medium.com/p/a8cc6263a1cf) |
+| Sat, 29 Nov 2025 12:29:28 GMT | Digital Zen with Alacritty & Tmux | Murat Kurkoglu | [Read More](https://medium.com/p/d7d6abb82284) |
+| Sat, 29 Nov 2025 12:26:44 GMT | Cybersecurity Hiring Has Changed Forever: Why Thinking Beats Tools in 2026 | Surinderpal Singh | [Read More](https://medium.com/p/b1e2830ae3e7) |
+| Sat, 29 Nov 2025 12:01:26 GMT | How I Found an Auth Bypass in a Newsletter Subscription System | JEETPAL | [Read More](https://medium.com/p/6c2e3a032f37) |
+| Sat, 29 Nov 2025 12:01:04 GMT | Today’s Top Cyber Intelligence Highlights — Nov 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/99fdee783a45) |
+| Sat, 29 Nov 2025 11:54:20 GMT | Passwords Aren’t Enough: Boost Your Social Media Account Security with 2FA | Enock Sang | [Read More](https://medium.com/p/6587999696cd) |
+| Sat, 29 Nov 2025 11:48:49 GMT | The Ultimate Guide: How to Import Multiple VCF Files into Outlook | EINITIAL24 | [Read More](https://medium.com/p/201301f57036) |
+| Sat, 29 Nov 2025 11:46:20 GMT | Why Many Beginners Want Hands On First and Why Fundamentals Still Matter | Raleigh Guevarra | [Read More](https://medium.com/p/135e87dbe9ae) |
+| Sat, 29 Nov 2025 11:45:44 GMT | PwnTillDawn JuniorDev (Medium) Writeup | Bazil Brohi | [Read More](https://medium.com/p/1a2636cc1525) |
+| Sat, 29 Nov 2025 11:44:41 GMT | Why CORS Can’t Stop CSRF: A Deep Dive Into Browser Form Behavior, Simple Requests, and… | Rehan Ansari | [Read More](https://medium.com/p/6a38569a6862) |
+| Sat, 29 Nov 2025 11:42:11 GMT | SSH Logs: Detect Attacks, Intruders, and Odd Behavior | bektiaw | [Read More](https://medium.com/p/d13fc8c1f39b) |
 | Sat, 29 Nov 2025 11:28:11 GMT | From Owner to Orphaned: Exploiting a Race Condition in Organization Management | Amed Sherif | [Read More](https://medium.com/p/c6380d4e57ba) |
 | Sat, 29 Nov 2025 11:25:00 GMT | Review Infrastruktur Server ORI777 & Solusi Akses Anti-Lag 2025 | Rakanesia – Game Online Gratis | [Read More](https://medium.com/p/3cde2618823b) |
 | Sat, 29 Nov 2025 11:24:12 GMT | Write-up: CyCTF25 Qualifications — SimpleCrackMe (Reverse Engineering) | Mohamed Elansari | [Read More](https://medium.com/p/943b26587262) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 03:27:09 GMT | The Collapse of Coding: Why 2025 Will Be the Last Year We Write Real Code | The Dev Notebook | [Read More](https://medium.com/p/039bd9b3b4d7) |
 | Sat, 29 Nov 2025 03:09:42 GMT | Taking Back Your Digital Privacy: A Realistic Guide Summary | Murat Alagoz | [Read More](https://medium.com/p/d3fc360ea36c) |
 | Sat, 29 Nov 2025 03:06:36 GMT | OSINT: From Instagram to your kitchen | umbraXsecure | [Read More](https://medium.com/p/882cd8825f39) |
-| Sat, 29 Nov 2025 03:02:06 GMT | The RF Layer Most Pentesters Still Overlook — and Why It’s Becoming Critical | Michael Preston | [Read More](https://medium.com/p/184e130d5293) |
-| Sat, 29 Nov 2025 02:53:01 GMT | NoSQL injection | Kahhow | [Read More](https://medium.com/p/446d23c6256d) |
-| Sat, 29 Nov 2025 02:29:12 GMT | 30-Day OSINT Journey: Become a Cybersecurity Expert Step by Step — Here’s How! | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/5b5dded38ea2) |
-| Sat, 29 Nov 2025 02:13:48 GMT | iOS Security: The Sensitive Data Leak You Likely Have in Cache.db | Artem Lushchan | [Read More](https://medium.com/p/e987d3c50739) |
-| Sat, 29 Nov 2025 02:12:33 GMT | Hands-On Understanding of OWASP Top 10: Injection | Yoshiyuki Watanabe | [Read More](https://medium.com/p/7a47799d5d70) |
-| Sat, 29 Nov 2025 02:08:53 GMT | My Friend Lost His Steam Account Overnight, All Because of One Click. | CiberEdu | [Read More](https://medium.com/p/272197efa2a7) |
-| Sat, 29 Nov 2025 01:55:26 GMT | Hovering Above the Line | Alizabeth Amelia Rose | [Read More](https://medium.com/p/02ac826c3fb2) |
-| Sat, 29 Nov 2025 01:31:30 GMT | 2025’s Most Bizarre Cyberattack Started With a Coffee Mug Warmer. What Happened Next Was Chaos | Noel | [Read More](https://medium.com/p/2cd1758ee719) |
-| Sat, 29 Nov 2025 01:31:14 GMT | TheHarvester in Hacking - Find Emails, Domains & Targets Fast! | Shahzaib | [Read More](https://medium.com/p/2f27cf43c4c2) |
-| Sat, 29 Nov 2025 01:27:52 GMT | From College Dorms to Red Team Powerhouse, The FourCore Journey | Cyber Unbound | [Read More](https://medium.com/p/7787876777e7) |
-| Sat, 29 Nov 2025 01:19:47 GMT | NCL [Hard] Password Challenge: Disney Characters and Advanced Wordreaper Techniques | Nemorous | [Read More](https://medium.com/p/79e1dd1ff481) |
