@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 23:13:43 GMT | Bring him to her | Alex Dance | [Read More](https://medium.com/p/02cd159cd824) |
+| Sat, 29 Nov 2025 22:57:56 GMT | Introduction to SQL Injection (SQLi) | Red_Ghost | [Read More](https://medium.com/p/aaceeb0bc8f7) |
+| Sat, 29 Nov 2025 22:56:48 GMT | How Quantum Physics and the Vedas Are Reshaping the Future of AI and Information Technology | Sandip Prashar | [Read More](https://medium.com/p/6d9b9f626c17) |
+| Sat, 29 Nov 2025 22:48:14 GMT | I Invited Hackers to a Fake Server. Here’s How I Did It (And What They Did). | Aderinola Taiwo | [Read More](https://medium.com/p/1eef236d5197) |
 | Sat, 29 Nov 2025 22:09:10 GMT | BankGPT - TryHackme Walkthrough | Gustavo Henrique | [Read More](https://medium.com/p/3fb99d8539cc) |
 | Sat, 29 Nov 2025 22:01:56 GMT | I Want to Love Deeply, But I Keep Running | sonofdgods | [Read More](https://medium.com/p/14c622cf8033) |
 | Sat, 29 Nov 2025 21:45:12 GMT | I’m Finally Launching My YouTube Channel — And I Need Your Support | Satyam Pathania | [Read More](https://medium.com/p/84c8df51a7d3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 14:10:40 GMT | DATA PRIVACY AND DIGITAL DATA PROTECTION ACT (DPDPA), 2023 | Rakshita | [Read More](https://medium.com/p/6c0cc24f1b94) |
 | Sat, 29 Nov 2025 14:07:31 GMT | Vulnlab Boolean-Based Blind SQL Injection | Abang_xin | [Read More](https://medium.com/p/44766b108180) |
 | Sat, 29 Nov 2025 14:02:52 GMT | Albiriox: The New Android Malware That Threatens Banking and Crypto Security | Chetan Seripally | [Read More](https://medium.com/p/442a47d34cf5) |
-| Sat, 29 Nov 2025 14:02:40 GMT | Security & SysAdmins Lost Between WSL, ADB, and Docker | Hamit CİBO | [Read More](https://medium.com/p/0c44270d3fd1) |
-| Sat, 29 Nov 2025 14:01:02 GMT | Introduction to LOG Analysis: Sysmon Integration | Syedmohathashimali | [Read More](https://medium.com/p/8d2fa6cce777) |
-| Sat, 29 Nov 2025 13:45:49 GMT | Jobs Today, Dependency Tomorrow: The Hidden Cost of India’s MNC Obsession | Dhwarakesh | [Read More](https://medium.com/p/e5336142e38c) |
-| Sat, 29 Nov 2025 13:39:53 GMT | A Bug That Took Me 10 Hours to Fix and 10 Seconds to Understand | Mubashir | [Read More](https://medium.com/p/2e500c1e32b6) |
