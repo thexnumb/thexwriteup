@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 16:10:28 GMT | Cybersecurity | kanuka rawat | [Read More](https://medium.com/p/9423c0a143f7) |
+| Sat, 29 Nov 2025 15:58:23 GMT | “My AI Agent Just Did WHAT?” | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/e2f1d2cc43cd) |
+| Sat, 29 Nov 2025 15:57:58 GMT | “It Looked Safe When the Agent Checked…” — The Hidden AI Security Flaw No One Saw Coming | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/31c16b698294) |
+| Sat, 29 Nov 2025 15:44:23 GMT | North Korean OtterCookie Malware Targets Modern Developer Workflows | Geoffrey Wenger | [Read More](https://medium.com/p/6f339234937c) |
+| Sat, 29 Nov 2025 15:40:42 GMT | Why Cloud Cost Governance Matters for Cyber Resilience | Graylog | [Read More](https://medium.com/p/1168aea329bb) |
+| Sat, 29 Nov 2025 15:36:50 GMT | Why API Security Should Be Every Developer’s Priority | Oluwatobiloba Mercy Akinwunmi | [Read More](https://medium.com/p/cd6cf1344bf3) |
 | Sat, 29 Nov 2025 15:33:36 GMT | Geopolitical Instability? Why PAXG (Digital Gold) Is Safer Than Cash Under Your Mattress | poseidon | [Read More](https://medium.com/p/80d32dd98b45) |
+| Sat, 29 Nov 2025 15:32:05 GMT | AI From The Perspective of a Cybersecurity Engineer | Aybalasena | [Read More](https://medium.com/p/5f585f5995bd) |
 | Sat, 29 Nov 2025 15:25:15 GMT | Mastering Nmap: The Ultimate Guide to Advanced Network Scanning | Ajmir khan | [Read More](https://medium.com/p/5c5608c289ef) |
 | Sat, 29 Nov 2025 15:11:25 GMT | Client-Side JSON Is the Weak Link: A Rule-Based ‘Semantic Envelope’ to Protect What You Ship | An Nguyen | [Read More](https://medium.com/p/579451fc1181) |
 | Sat, 29 Nov 2025 15:03:13 GMT | Threat Model: SIM Swapping And How To Protect Yourself | Danny | [Read More](https://medium.com/p/b6e94f860de5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 08:20:57 GMT | Machine Learning in Data Science: A Clear Beginner Guide (2026 Update) | Motherlandlove | [Read More](https://medium.com/p/48bf9710f045) |
 | Sat, 29 Nov 2025 08:17:22 GMT | “7-Steps to Cowrie Glory: SSH Honeypot on Digitalocean That Logs More Fails Than My Dating Profile.” | Nithinkumar | [Read More](https://medium.com/p/ce70b4719cfe) |
 | Sat, 29 Nov 2025 08:14:43 GMT | basic-mod1 picoctf | Aun Raza | [Read More](https://medium.com/p/648f4822bfa3) |
-| Sat, 29 Nov 2025 08:10:51 GMT | Secure Boot Kernel Module Signing Key Expiration: Resolving Oracle 19.29 | Arsalan Dehghani Sariyarghan | [Read More](https://medium.com/p/3b2ba09b9c0c) |
-| Sat, 29 Nov 2025 08:10:40 GMT | 1. Master the Basics, Break the Web: Web & Internet | Abinesh M | [Read More](https://medium.com/p/dfccc9fbae8b) |
-| Sat, 29 Nov 2025 08:05:52 GMT | Hypothetically Nude: A Kitchen-Sink Confession | Neville Tulloch | [Read More](https://medium.com/p/b37fc9f0daac) |
-| Sat, 29 Nov 2025 07:49:44 GMT | How Hackers Hack Instagram — And How You Can Detect, Protect & Recover Your Account (Full Guide… | Cyber Wolf | [Read More](https://medium.com/p/297e3707a016) |
-| Sat, 29 Nov 2025 07:48:00 GMT | Bug Bounty Hunting — Complete Guide (Part-151) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/eda2a100d0ea) |
-| Sat, 29 Nov 2025 07:44:20 GMT | ty TBug Bounty Hunting — Complete Guide (Part-150) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/66db6a4a5c9b) |
-| Sat, 29 Nov 2025 07:41:45 GMT | Need an Android Mobile Application Development Company? Partner with Associative! | Associative: Software Development & Consulting | [Read More](https://medium.com/p/f5345ec64b21) |
