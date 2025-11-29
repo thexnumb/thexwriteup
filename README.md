@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 14:34:04 GMT | How to Integrate ReconFTW With KaliGPT | ghostyjoe | [Read More](https://medium.com/p/77e063597da6) |
+| Sat, 29 Nov 2025 14:28:35 GMT | Our AI Had 99.2% Accuracy. We Still Lost $9.4M. Here’s Why. | AhmedAbdelmenem | [Read More](https://medium.com/p/f343ab3d55af) |
+| Sat, 29 Nov 2025 14:25:25 GMT | 84% of LLM Agents Fail Security Tests: Why Your AI Application Is Wide Open | MohamedAbdelmenem | [Read More](https://medium.com/p/24e57fc4c8ca) |
+| Sat, 29 Nov 2025 14:21:17 GMT | Why “Safety & Security” Should Not Be One Department and Why Combining Them Creates Risk | Peter Uliano | [Read More](https://medium.com/p/cbe289307e83) |
 | Sat, 29 Nov 2025 14:10:40 GMT | DATA PRIVACY AND DIGITAL DATA PROTECTION ACT (DPDPA), 2023 | Rakshita | [Read More](https://medium.com/p/6c0cc24f1b94) |
 | Sat, 29 Nov 2025 14:07:31 GMT | Vulnlab Boolean-Based Blind SQL Injection | Abang_xin | [Read More](https://medium.com/p/44766b108180) |
 | Sat, 29 Nov 2025 14:02:52 GMT | Albiriox: The New Android Malware That Threatens Banking and Crypto Security | Chetan Seripally | [Read More](https://medium.com/p/442a47d34cf5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 06:56:17 GMT | Software Testing Institute in Kochi — Build Your IT Career with Edure | Haripriya | [Read More](https://medium.com/p/f0b748c0f0f3) |
 | Sat, 29 Nov 2025 06:53:55 GMT | The 5 Security Misconfigurations Found in Every IR & SOC Report | Motasem Hamdan | [Read More](https://medium.com/p/670c0b05926c) |
 | Sat, 29 Nov 2025 06:48:03 GMT | The Affordable Powerhouse Best Low-Cost VPS Hosting for Modern Websites | Ann Taylor | [Read More](https://medium.com/p/82c4a78d2ed8) |
-| Sat, 29 Nov 2025 06:33:06 GMT | VulnHub’s Mr. Robot: 1 — A Walkthrough Designed For Beginners | bakmietunggu | [Read More](https://medium.com/p/0df122b3e730) |
-| Sat, 29 Nov 2025 06:31:55 GMT | Top AI Security YouTube Videos — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/5f09db69ca42) |
-| Sat, 29 Nov 2025 06:31:30 GMT | Machine Learning Explained Simply: A Beginner-Friendly Full Guide | Motherlandlove | [Read More](https://medium.com/p/63f4c5d01c67) |
-| Sat, 29 Nov 2025 06:20:55 GMT | Step Into High-Demand IT Roles with Cyber Security Expertise | Edglobalacademy | [Read More](https://medium.com/p/4a910cc29165) |
