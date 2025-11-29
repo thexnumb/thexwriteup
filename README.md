@@ -12,10 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 05:34:15 GMT | Wireshark for DFIR — A Practical Investigator-Focused Guide (2025 Edition) | ghostyjoe | [Read More](https://medium.com/p/aa6d60faf13f) |
+| Sat, 29 Nov 2025 05:29:19 GMT | Event ID 14-  SOC 104 — Malware Detected -LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/1c7b5afb9344) |
+| Sat, 29 Nov 2025 05:24:27 GMT | DNS Deep Dive: The Internet’s Phone Book That Makes Everything Possible | Satyam Singh | [Read More](https://medium.com/p/c74443a86b53) |
+| Sat, 29 Nov 2025 05:16:20 GMT | The Secret Difference Between Talking and Actually Communicating | Abhinav Misra | [Read More](https://medium.com/p/39f1e3fa92c2) |
 | Sat, 29 Nov 2025 05:14:40 GMT | How to actually get a job in Cyber Security | Jbird | [Read More](https://medium.com/p/d131d10b185e) |
 | Sat, 29 Nov 2025 05:04:12 GMT | Business process plan for Federal Technology (FedRAMP) | Joe Alongi | [Read More](https://medium.com/p/da00c64eca50) |
 | Sat, 29 Nov 2025 05:02:30 GMT | How To Secure Yourself Online | Mr Jokar | [Read More](https://medium.com/p/7e52449ecd6f) |
 | Sat, 29 Nov 2025 05:02:20 GMT | Top Insights on Best It Courses: Exploring Certifications | postgraduateguru | [Read More](https://medium.com/p/9bb67c18b896) |
+| Sat, 29 Nov 2025 04:54:59 GMT | Solving the PicoCTF “Bitlocker” Challenge (Forensics) | Nitesh Kumar shah | [Read More](https://medium.com/p/5833f914efa1) |
 | Sat, 29 Nov 2025 04:27:05 GMT | Top Five Cyber Security Services in Thane: What to Consider | Maxatlasofficial | [Read More](https://medium.com/p/fa68a5d16bf2) |
 | Sat, 29 Nov 2025 04:27:02 GMT | Broken Access Control: A Silent Threat in Web Apps | Moganti Nehanth | [Read More](https://medium.com/p/c731a5dfa1c9) |
 | Sat, 29 Nov 2025 04:06:18 GMT | Alexa, tell her what I really mean.” | Jim DeLillo | [Read More](https://medium.com/p/83830e04940f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 17:59:44 GMT | How I Discovered a Rare Vulnerability in MCP Server — Bug Bounty | 1day | [Read More](https://medium.com/p/28a0ef643902) |
 | Fri, 28 Nov 2025 17:53:33 GMT | Malchain : Tactic-Based Detection | f0xy_pr0xy | [Read More](https://medium.com/p/679717c69f96) |
 | Fri, 28 Nov 2025 17:51:47 GMT | HTB: Mirage Writeup | Natius | [Read More](https://medium.com/p/51e714d4dbf8) |
-| Fri, 28 Nov 2025 17:42:29 GMT | BLACK FRIDAY STUFF | Sijo Johnson | [Read More](https://medium.com/p/38c18d6296d6) |
-| Fri, 28 Nov 2025 17:36:54 GMT | Turning a “Useless” Self-XSS into a Full PII Leak Through Bug Chaining | Parsa Riyahi | [Read More](https://medium.com/p/57ae89dc9f76) |
-| Fri, 28 Nov 2025 17:25:53 GMT | TryHackMe - Intro To Pwntools - WriteUp | Axoloth | [Read More](https://medium.com/p/45860de17f20) |
-| Fri, 28 Nov 2025 17:25:20 GMT | Principles of Cyber Security — Week 1 | Ayoade Akintayo (PhD) | [Read More](https://medium.com/p/1f03d28e77c4) |
-| Fri, 28 Nov 2025 17:22:43 GMT | Zero To Root: The Journey Begins | Zor0ark | [Read More](https://medium.com/p/46a64ea50abb) |
