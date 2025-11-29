@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 21:08:20 GMT | Cap HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/e6187005bf9d) |
+| Sat, 29 Nov 2025 21:06:42 GMT | I Find security vulnerabilities behind access denied errors | Ibtissam | [Read More](https://medium.com/p/91181015e3f8) |
+| Sat, 29 Nov 2025 21:06:07 GMT | Linux Hardening & Auditd , Monitoring , Output Redirection, Logging for Hackers | Cybersecplayground | [Read More](https://medium.com/p/3e5376da3eb6) |
+| Sat, 29 Nov 2025 20:56:19 GMT | K8s-Certs-Manager: A Proactive K8s TLS Health Check Alerting System | Omar Din | [Read More](https://medium.com/p/82fbb317aa49) |
+| Sat, 29 Nov 2025 20:45:50 GMT | stored XSS in blog title field | Ahmed Talaat | [Read More](https://medium.com/p/0dc862ceb44c) |
+| Sat, 29 Nov 2025 20:43:17 GMT | TryHackMe Writeup: Overpass | Berkay AĞGÜL | [Read More](https://medium.com/p/338ba1b0cc77) |
+| Sat, 29 Nov 2025 20:43:05 GMT | Canada Desperately Needs a New Security Alliance | Fedor Butochnikow | [Read More](https://medium.com/p/3f2a55a82c80) |
+| Sat, 29 Nov 2025 20:38:48 GMT | NPM Supply-Chain Attacks: Detection & Defense ⚠️ | Aditya Bhatt | [Read More](https://medium.com/p/dd6cabfbb3e8) |
+| Sat, 29 Nov 2025 20:33:38 GMT | My Hands On Experience Accessing The Backend Of Wordpress Website | Cyber Timi | [Read More](https://medium.com/p/2aedbd435eb8) |
 | Sat, 29 Nov 2025 20:30:55 GMT | Stop Buying the Wrong Wi-Fi Adapter for Kali Linux (2025 Guide) | Divyanshubhoir | [Read More](https://medium.com/p/e5e2dc1e5667) |
 | Sat, 29 Nov 2025 20:24:02 GMT | Amazon: IA spécialisée pour une chasse aux bugs approfondie | L'ABESTIT | [Read More](https://medium.com/p/176636a6ca4a) |
 | Sat, 29 Nov 2025 20:09:38 GMT | HTB: Busqueda writeup | bara almustafa | [Read More](https://medium.com/p/494f508a9d7d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 13:21:42 GMT | How I Switched From Web Dev to Offensive Security in 6 Months | Hania Khan | [Read More](https://medium.com/p/31afdcc2d7be) |
 | Sat, 29 Nov 2025 13:20:34 GMT | STOP Wasting Time: These Are the Only Certifications That Actually Get You Hired in 2025 | Hachtechnology | [Read More](https://medium.com/p/edaaf6c1fff6) |
 | Sat, 29 Nov 2025 13:16:03 GMT | Building KubeSentry: Automated Threat Detection and Isolation in Kubernetes | SANGYEON LEE | [Read More](https://medium.com/p/0c25d16fcc1c) |
-| Sat, 29 Nov 2025 13:12:31 GMT | 404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode | toklas495 | [Read More](https://medium.com/p/54ffeb548e86) |
-| Sat, 29 Nov 2025 13:11:17 GMT | How to Choose the Best Security Company Riverside | Direct Guard Service | [Read More](https://medium.com/p/beff41509974) |
-| Sat, 29 Nov 2025 13:06:06 GMT | The best Job on Earth is in Space. True? | Thomas "Tom" Biege | [Read More](https://medium.com/p/427b66d21a9f) |
-| Sat, 29 Nov 2025 13:04:04 GMT | My A Little Tip Log -23- (Postman) | Hamit CİBO | [Read More](https://medium.com/p/a728e7941761) |
-| Sat, 29 Nov 2025 13:02:11 GMT | Building a Cybersecurity Home Lab — Part 5: Atomic Red Team Setup, Configuration, and Demo | JBXSec | [Read More](https://medium.com/p/1945c1c1329e) |
-| Sat, 29 Nov 2025 12:52:11 GMT | The Nmap Scans That Can Get You Into Trouble (And How to Stay Safe) | Fateyaly | [Read More](https://medium.com/p/a7a4dea7c383) |
-| Sat, 29 Nov 2025 12:50:53 GMT | I Monitored GGPoker’s Activity on My Mac (omg) Here’s What I Found | Demstalfer | [Read More](https://medium.com/p/5be1eaa18f81) |
-| Sat, 29 Nov 2025 12:50:39 GMT | Machine Learning Engineer Requirements: Full 2026 Beginner | Motherlandlove | [Read More](https://medium.com/p/881fe059285e) |
-| Sat, 29 Nov 2025 12:41:39 GMT | Title: Blockchain based E-Voting System — Research Publication | Vandanagraj | [Read More](https://medium.com/p/d122eee9ffe3) |
