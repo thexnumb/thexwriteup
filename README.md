@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 07:17:58 GMT | The Math of Inevitability: Why AI Cannot Fail And Why That Means Humanity Was Never the Final Form | Mattbusel | [Read More](https://medium.com/p/befeb6c8e4ca) |
+| Sat, 29 Nov 2025 07:13:59 GMT | How I Earned My First CVE | Athiwat Tiprasaharn | [Read More](https://medium.com/p/c21d48311465) |
+| Sat, 29 Nov 2025 07:09:13 GMT | The New Frontier: A Comprehensive Guide to AI Hacking | CyberBruhArmy | [Read More](https://medium.com/p/9842eb5cdff6) |
+| Sat, 29 Nov 2025 07:00:10 GMT | Runtime Security is the Missing Pillar of Modern Cloud Security | AllSafeCloud | [Read More](https://medium.com/p/334a031d9bd0) |
+| Sat, 29 Nov 2025 06:57:22 GMT | tested pro tips. | Very Lazy Tech | [Read More](https://medium.com/p/499077e10097) |
+| Sat, 29 Nov 2025 06:56:17 GMT | Software Testing Institute in Kochi — Build Your IT Career with Edure | Haripriya | [Read More](https://medium.com/p/f0b748c0f0f3) |
+| Sat, 29 Nov 2025 06:53:55 GMT | The 5 Security Misconfigurations Found in Every IR & SOC Report | Motasem Hamdan | [Read More](https://medium.com/p/670c0b05926c) |
+| Sat, 29 Nov 2025 06:48:03 GMT | The Affordable Powerhouse Best Low-Cost VPS Hosting for Modern Websites | Ann Taylor | [Read More](https://medium.com/p/82c4a78d2ed8) |
+| Sat, 29 Nov 2025 06:33:06 GMT | VulnHub’s Mr. Robot: 1 — A Walkthrough Designed For Beginners | bakmietunggu | [Read More](https://medium.com/p/0df122b3e730) |
+| Sat, 29 Nov 2025 06:31:55 GMT | Top AI Security YouTube Videos — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/5f09db69ca42) |
+| Sat, 29 Nov 2025 06:31:30 GMT | Machine Learning Explained Simply: A Beginner-Friendly Full Guide | Motherlandlove | [Read More](https://medium.com/p/63f4c5d01c67) |
 | Sat, 29 Nov 2025 06:20:55 GMT | Step Into High-Demand IT Roles with Cyber Security Expertise | Edglobalacademy | [Read More](https://medium.com/p/4a910cc29165) |
 | Sat, 29 Nov 2025 06:15:09 GMT | TryHackMEVMs: Agent Sudo | Justin Jude Cabodil | [Read More](https://medium.com/p/cc421a29e091) |
 | Sat, 29 Nov 2025 06:05:03 GMT | The Growing Demand for Cyber Skills in Saudi Businesses | Rahman Iqbal | [Read More](https://medium.com/p/8d760d24d5da) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 19:24:43 GMT | The Three Layers Of Information Every Human Leaks In Public | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/30d200d7d629) |
 | Fri, 28 Nov 2025 19:16:09 GMT | The Cartography Of Shadows: Mapping Networks That Pretend They Do Not Exist | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e5023a581813) |
 | Fri, 28 Nov 2025 19:12:56 GMT | Network Fu: From Zero to Netcat Ninja on the Linux Command Line | Santhosh Adiga U | [Read More](https://medium.com/p/8756c3bd68b8) |
-| Fri, 28 Nov 2025 19:02:39 GMT | What Leaders Must Do When Chaos Spreads in Software Organizations | Developer Partners | [Read More](https://medium.com/p/1e0a231f2297) |
-| Fri, 28 Nov 2025 19:02:13 GMT | Cybersecurity News Review — Week 48 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/953ac2a8e72b) |
-| Fri, 28 Nov 2025 18:52:02 GMT | Benefits of Choosing a Certified Secure Datawipe Provider | Rewaste | [Read More](https://medium.com/p/9012b010b365) |
-| Fri, 28 Nov 2025 18:51:29 GMT | FOG | Sherahdaniels | [Read More](https://medium.com/p/f51f60a42695) |
-| Fri, 28 Nov 2025 18:38:27 GMT | I Took a Cybersecurity Course on AI and Now I’m Paranoid (In a Good Way) | Cezary Gesikowski | [Read More](https://medium.com/p/3e4a422cfcb7) |
-| Fri, 28 Nov 2025 18:35:23 GMT | Shattered Connectivity: Cyberattack Disrupts Shared IT Systems Across London Boroughs | valasala suhas | [Read More](https://medium.com/p/b659c80df923) |
-| Fri, 28 Nov 2025 18:33:32 GMT | imToken Activity Report: November 2025 | imToken Persian Community | [Read More](https://medium.com/p/5c2b4ce6d057) |
-| Fri, 28 Nov 2025 18:32:26 GMT | Cracking the Login: My First SQL Injection Automation Script (Hands-On Lab) | Purushotham.R | [Read More](https://medium.com/p/b0176ad38540) |
-| Fri, 28 Nov 2025 18:26:49 GMT | Hybrid Computing: How AI Is Reshaping Cloud, Edge, and On-Device Processing | Amrizal31 | [Read More](https://medium.com/p/88f211d06596) |
-| Fri, 28 Nov 2025 18:21:58 GMT | Google Machine Learning Jobs Guide: Roles, Skills, Salary and Career Tips | Motherlandlove | [Read More](https://medium.com/p/9fc4c66df7c1) |
-| Fri, 28 Nov 2025 18:17:58 GMT | SSH Hardening and Brute Force Prevention Using Fail2ban | Aisha B. B | [Read More](https://medium.com/p/600f510f3360) |
