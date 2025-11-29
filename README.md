@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 17:25:53 GMT | Upbit’s $36 Million Solana Hack Lands at the Worst Possible Moment | Aaron | [Read More](https://medium.com/p/559169e72ea5) |
+| Sat, 29 Nov 2025 17:23:24 GMT | Why Online Learning Is the Future of Security Training in Germany | Sarmin Islam | [Read More](https://medium.com/p/c5cc18a06777) |
+| Sat, 29 Nov 2025 17:16:51 GMT | LUC DELORME ON PLANET OF GHOSTS (Sci — Fi novel) | Alberto Benitez | [Read More](https://medium.com/p/d9bb7c39b99a) |
+| Sat, 29 Nov 2025 17:15:47 GMT | Using Splunk | Devinn C. | [Read More](https://medium.com/p/7c7d03bc4496) |
 | Sat, 29 Nov 2025 17:06:58 GMT | Cybersecurity Lesson 5 : Building and Securing Systems | YogiCode | [Read More](https://medium.com/p/c54507748d35) |
 | Sat, 29 Nov 2025 17:06:57 GMT | How a Simple Phishing Scam Changed My View on Online Security — And What You Should Do | Er Dhaval Ramani | [Read More](https://medium.com/p/3b95eeef7428) |
 | Sat, 29 Nov 2025 17:01:00 GMT | Build Automated Security Regression System That Spots 100% of Old Finding | Muh. Fani Akbar | [Read More](https://medium.com/p/1e881eb05700) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 09:45:23 GMT | Google Machine Learning Engineer Salary 2026: Pay, Levels, Skills, GuideGoogle Machine Learning… | Motherlandlove | [Read More](https://medium.com/p/2a6c84bacd6c) |
 | Sat, 29 Nov 2025 09:38:21 GMT | Understanding Access Control Models: DAC vs RBAC vs MAC | Shaif Ali | [Read More](https://medium.com/p/185059506ac3) |
 | Sat, 29 Nov 2025 09:17:01 GMT | AI is not safe anymore — we need to act now, before its too late! | Ani Bandyopadhyay | [Read More](https://medium.com/p/c43b3b7ade7f) |
-| Sat, 29 Nov 2025 09:13:36 GMT | OneEasy Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/dcc2ba5c03dc) |
-| Sat, 29 Nov 2025 09:12:53 GMT | KBYS Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/bb436bee85c5) |
-| Sat, 29 Nov 2025 09:06:59 GMT | A Practical Guide to Server-Side Template Injection (SSTI) | Redfox Security | [Read More](https://medium.com/p/19bbc1649b92) |
-| Sat, 29 Nov 2025 09:06:01 GMT | From MBBS Dreams to Cybersecurity Reality: My Unexpected Path into the World of Hackers…. | Bhavanavijayan | [Read More](https://medium.com/p/c5787b0323f0) |
