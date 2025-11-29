@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 15:33:36 GMT | Geopolitical Instability? Why PAXG (Digital Gold) Is Safer Than Cash Under Your Mattress | poseidon | [Read More](https://medium.com/p/80d32dd98b45) |
+| Sat, 29 Nov 2025 15:25:15 GMT | Mastering Nmap: The Ultimate Guide to Advanced Network Scanning | Ajmir khan | [Read More](https://medium.com/p/5c5608c289ef) |
+| Sat, 29 Nov 2025 15:11:25 GMT | Client-Side JSON Is the Weak Link: A Rule-Based ‘Semantic Envelope’ to Protect What You Ship | An Nguyen | [Read More](https://medium.com/p/579451fc1181) |
 | Sat, 29 Nov 2025 15:03:13 GMT | Threat Model: SIM Swapping And How To Protect Yourself | Danny | [Read More](https://medium.com/p/b6e94f860de5) |
 | Sat, 29 Nov 2025 15:01:00 GMT | Analysis on Zer0__D4y5 Impact | lukewago | [Read More](https://medium.com/p/40224d29c5d4) |
 | Sat, 29 Nov 2025 14:58:35 GMT | THE PATTERN, THE OPERATOR, AND THE COST: | Verity | [Read More](https://medium.com/p/d7ec18972f85) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 07:48:00 GMT | Bug Bounty Hunting — Complete Guide (Part-151) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/eda2a100d0ea) |
 | Sat, 29 Nov 2025 07:44:20 GMT | ty TBug Bounty Hunting — Complete Guide (Part-150) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/66db6a4a5c9b) |
 | Sat, 29 Nov 2025 07:41:45 GMT | Need an Android Mobile Application Development Company? Partner with Associative! | Associative: Software Development & Consulting | [Read More](https://medium.com/p/f5345ec64b21) |
-| Sat, 29 Nov 2025 07:39:05 GMT | Deep Learning Explained Simply: Complete Beginner Guide (2026) | Motherlandlove | [Read More](https://medium.com/p/64c2b84fc00d) |
-| Sat, 29 Nov 2025 07:34:44 GMT | How I Perform Subdomain Enumeration | Red | [Read More](https://medium.com/p/1dc797f5f31f) |
-| Sat, 29 Nov 2025 07:30:11 GMT | Building a Modern File Upload System with Angular and PrimeNG | CodeOrbit | [Read More](https://medium.com/p/d7271c799060) |
