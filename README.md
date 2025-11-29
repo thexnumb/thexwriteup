@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 19:21:09 GMT | m0leCon CTF Snake2 Anti-Cheat Bypass — Full Technical Write-Up (CTF + Pentest Hybrid) | amer7x | [Read More](https://medium.com/p/811d3ded3b93) |
+| Sat, 29 Nov 2025 19:14:44 GMT | The “Dune” Worm Returns: Understanding the massive Shai-Hulud 2.0 Supply Chain Attack | Ayush Bulbule | [Read More](https://medium.com/p/6561fd6c2517) |
+| Sat, 29 Nov 2025 19:13:47 GMT | Akira Binary Reverse Analysis — v2 | Robert Gonzalez | [Read More](https://medium.com/p/8b6f02ae2020) |
 | Sat, 29 Nov 2025 19:11:22 GMT | The Phantom App: How Hackers Stole Data Without Breaking a Single Password | S Kumar | [Read More](https://medium.com/p/77b62113f312) |
 | Sat, 29 Nov 2025 19:06:46 GMT | Whoever thought that we would be in a place where something could become more addictive than the… | Seth J | [Read More](https://medium.com/p/b1a2f81c55a9) |
 | Sat, 29 Nov 2025 19:04:43 GMT | The Unpatchable Vulnerability: Why the Best Hackers Don’t Write Code | S Kumar | [Read More](https://medium.com/p/99681c669b3f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 12:01:26 GMT | How I Found an Auth Bypass in a Newsletter Subscription System | JEETPAL | [Read More](https://medium.com/p/6c2e3a032f37) |
 | Sat, 29 Nov 2025 12:01:04 GMT | Today’s Top Cyber Intelligence Highlights — Nov 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/99fdee783a45) |
 | Sat, 29 Nov 2025 11:54:20 GMT | Passwords Aren’t Enough: Boost Your Social Media Account Security with 2FA | Enock Sang | [Read More](https://medium.com/p/6587999696cd) |
-| Sat, 29 Nov 2025 11:48:49 GMT | The Ultimate Guide: How to Import Multiple VCF Files into Outlook | EINITIAL24 | [Read More](https://medium.com/p/201301f57036) |
-| Sat, 29 Nov 2025 11:46:20 GMT | Why Many Beginners Want Hands On First and Why Fundamentals Still Matter | Raleigh Guevarra | [Read More](https://medium.com/p/135e87dbe9ae) |
-| Sat, 29 Nov 2025 11:45:44 GMT | PwnTillDawn JuniorDev (Medium) Writeup | Bazil Brohi | [Read More](https://medium.com/p/1a2636cc1525) |
