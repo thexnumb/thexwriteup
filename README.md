@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 22:09:10 GMT | BankGPT - TryHackme Walkthrough | Gustavo Henrique | [Read More](https://medium.com/p/3fb99d8539cc) |
+| Sat, 29 Nov 2025 22:01:56 GMT | I Want to Love Deeply, But I Keep Running | sonofdgods | [Read More](https://medium.com/p/14c622cf8033) |
+| Sat, 29 Nov 2025 21:45:12 GMT | I’m Finally Launching My YouTube Channel — And I Need Your Support | Satyam Pathania | [Read More](https://medium.com/p/84c8df51a7d3) |
+| Sat, 29 Nov 2025 21:42:10 GMT | The Fragile Fortress: Why Trust Is the Most Dangerous (and Necessary) Act of Love | Yash Patil | [Read More](https://medium.com/p/a6958bba5e41) |
+| Sat, 29 Nov 2025 21:35:44 GMT | Portswigger Lab: Brute-forcing a stay-logged-in cookie | Songül Kızılay Özügürler | [Read More](https://medium.com/p/99c841c14b97) |
 | Sat, 29 Nov 2025 21:20:16 GMT | Achieving Maximum Online Privacy in 2025: A No-Compromise Guide | Officer's Notes | [Read More](https://medium.com/p/4a27c1f53b7f) |
 | Sat, 29 Nov 2025 21:08:20 GMT | Cap HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/e6187005bf9d) |
 | Sat, 29 Nov 2025 21:06:42 GMT | I Find security vulnerabilities behind access denied errors | Ibtissam | [Read More](https://medium.com/p/91181015e3f8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 14:01:02 GMT | Introduction to LOG Analysis: Sysmon Integration | Syedmohathashimali | [Read More](https://medium.com/p/8d2fa6cce777) |
 | Sat, 29 Nov 2025 13:45:49 GMT | Jobs Today, Dependency Tomorrow: The Hidden Cost of India’s MNC Obsession | Dhwarakesh | [Read More](https://medium.com/p/e5336142e38c) |
 | Sat, 29 Nov 2025 13:39:53 GMT | A Bug That Took Me 10 Hours to Fix and 10 Seconds to Understand | Mubashir | [Read More](https://medium.com/p/2e500c1e32b6) |
-| Sat, 29 Nov 2025 13:34:40 GMT | From Bytes to Qubits: How Quantum Computing is Rewriting Cybersecurity! | Ritish Srivastava | [Read More](https://medium.com/p/f4d516aa381b) |
-| Sat, 29 Nov 2025 13:32:04 GMT | OCEANLOTUS GROUP (APT32): ESPIONAGE CAMPAIGNS TARGETING GOVERNMENT INFRASTRUCTURE IN SOUTHEAST ASIA | mohhe | [Read More](https://medium.com/p/96cd505178dc) |
-| Sat, 29 Nov 2025 13:22:39 GMT | RSA-Based JWT Authentication in Spring Boot Microservices (With Distributed Validation in… | Weoto Technologies Private Limited | [Read More](https://medium.com/p/ebcbe5123e52) |
-| Sat, 29 Nov 2025 13:21:42 GMT | How I Switched From Web Dev to Offensive Security in 6 Months | Hania Khan | [Read More](https://medium.com/p/31afdcc2d7be) |
-| Sat, 29 Nov 2025 13:20:34 GMT | STOP Wasting Time: These Are the Only Certifications That Actually Get You Hired in 2025 | Hachtechnology | [Read More](https://medium.com/p/edaaf6c1fff6) |
