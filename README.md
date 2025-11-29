@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 04:27:02 GMT | Broken Access Control: A Silent Threat in Web Apps | Moganti Nehanth | [Read More](https://medium.com/p/c731a5dfa1c9) |
 | Sat, 29 Nov 2025 04:06:18 GMT | Alexa, tell her what I really mean.” | Jim DeLillo | [Read More](https://medium.com/p/83830e04940f) |
 | Sat, 29 Nov 2025 04:06:00 GMT | Our AI Had 99.1% Accuracy. We Still Lost $3.2M. Here’s Why. | AhmedAbdelmenem | [Read More](https://medium.com/p/fbcbcba51746) |
 | Sat, 29 Nov 2025 04:01:44 GMT | THM- Kenobi Writeup | cbev | [Read More](https://medium.com/p/78a97a2d1d71) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 17:11:45 GMT | OffSec Exploit Developer (OSED): Course Review and Exam Preparation Tips | Cyd Tseng | [Read More](https://medium.com/p/637a208934b8) |
 | Fri, 28 Nov 2025 17:07:20 GMT | File I/O (Input/Output) and Serialization in Java | Salwa Fijri | [Read More](https://medium.com/p/761b20a76ad1) |
 | Fri, 28 Nov 2025 17:05:23 GMT | Why I Always Disable Direct Root Logins on Linux (And How It Stops Silent Privilege Abuse) | Faruk Ahmed | [Read More](https://medium.com/p/1042670e3b75) |
-| Fri, 28 Nov 2025 17:02:21 GMT | Shai Hulud Scanner | Jaime Garcia Diaz | [Read More](https://medium.com/p/634e5b758624) |
