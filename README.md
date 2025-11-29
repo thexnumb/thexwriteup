@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 15:03:13 GMT | Threat Model: SIM Swapping And How To Protect Yourself | Danny | [Read More](https://medium.com/p/b6e94f860de5) |
+| Sat, 29 Nov 2025 15:01:00 GMT | Analysis on Zer0__D4y5 Impact | lukewago | [Read More](https://medium.com/p/40224d29c5d4) |
+| Sat, 29 Nov 2025 14:58:35 GMT | THE PATTERN, THE OPERATOR, AND THE COST: | Verity | [Read More](https://medium.com/p/d7ec18972f85) |
+| Sat, 29 Nov 2025 14:56:16 GMT | The Pine Labs 100M+ Transaction Leak: Breaking Down a High-Impact IDOR (CVSS 8.6) | Aditya Sunny | [Read More](https://medium.com/p/11bf7a811516) |
+| Sat, 29 Nov 2025 14:41:14 GMT | The Luhn Algorithm: How a 1954 Formula Powers (and Endangers) Digital Payments | Musa Yusuf Magoban | [Read More](https://medium.com/p/185c047567e8) |
+| Sat, 29 Nov 2025 14:40:46 GMT | Building My Cybersecurity Foundation: Learning Linux Commands | Leona | [Read More](https://medium.com/p/73d712a13497) |
+| Sat, 29 Nov 2025 14:36:36 GMT | Digital Forensics and Incident Response- Velociraptor [MCP Compromise & Abuse Case] | whoami | [Read More](https://medium.com/p/cd9378113bed) |
+| Sat, 29 Nov 2025 14:36:00 GMT | Hello, Grandma…” — The Billion-Dollar Lie and the Fantasy of Revenge | Frederic Hutter | [Read More](https://medium.com/p/23114e108969) |
+| Sat, 29 Nov 2025 14:35:32 GMT | I was a speaker at Splunk .conf25, so what? | Grotti | [Read More](https://medium.com/p/1506662c5fe1) |
 | Sat, 29 Nov 2025 14:34:04 GMT | How to Integrate ReconFTW With KaliGPT | ghostyjoe | [Read More](https://medium.com/p/77e063597da6) |
+| Sat, 29 Nov 2025 14:32:08 GMT | That Gift Card Isn’t So Innocent | FinCrimeXpert | [Read More](https://medium.com/p/b4071cb92673) |
 | Sat, 29 Nov 2025 14:28:35 GMT | Our AI Had 99.2% Accuracy. We Still Lost $9.4M. Here’s Why. | AhmedAbdelmenem | [Read More](https://medium.com/p/f343ab3d55af) |
 | Sat, 29 Nov 2025 14:25:25 GMT | 84% of LLM Agents Fail Security Tests: Why Your AI Application Is Wide Open | MohamedAbdelmenem | [Read More](https://medium.com/p/24e57fc4c8ca) |
 | Sat, 29 Nov 2025 14:21:17 GMT | Why “Safety & Security” Should Not Be One Department and Why Combining Them Creates Risk | Peter Uliano | [Read More](https://medium.com/p/cbe289307e83) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 07:39:05 GMT | Deep Learning Explained Simply: Complete Beginner Guide (2026) | Motherlandlove | [Read More](https://medium.com/p/64c2b84fc00d) |
 | Sat, 29 Nov 2025 07:34:44 GMT | How I Perform Subdomain Enumeration | Red | [Read More](https://medium.com/p/1dc797f5f31f) |
 | Sat, 29 Nov 2025 07:30:11 GMT | Building a Modern File Upload System with Angular and PrimeNG | CodeOrbit | [Read More](https://medium.com/p/d7271c799060) |
-| Sat, 29 Nov 2025 07:23:14 GMT | Why DevOps Learners in Bangalore Choose Eduleem? | Nuzhath Begam | [Read More](https://medium.com/p/a2a7c65f8615) |
-| Sat, 29 Nov 2025 07:22:31 GMT | When Insurers Won’t Insure: The AI Liability Crisis No One Is Talking About | Kaustubh Phatak | [Read More](https://medium.com/p/b6baeb0f3fa6) |
-| Sat, 29 Nov 2025 07:17:58 GMT | The Math of Inevitability: Why AI Cannot Fail And Why That Means Humanity Was Never the Final Form | Mattbusel | [Read More](https://medium.com/p/befeb6c8e4ca) |
-| Sat, 29 Nov 2025 07:13:59 GMT | How I Earned My First CVE | Athiwat Tiprasaharn | [Read More](https://medium.com/p/c21d48311465) |
-| Sat, 29 Nov 2025 07:09:13 GMT | The New Frontier: A Comprehensive Guide to AI Hacking | CyberBruhArmy | [Read More](https://medium.com/p/9842eb5cdff6) |
-| Sat, 29 Nov 2025 07:00:10 GMT | Runtime Security is the Missing Pillar of Modern Cloud Security | AllSafeCloud | [Read More](https://medium.com/p/334a031d9bd0) |
-| Sat, 29 Nov 2025 06:57:22 GMT | tested pro tips. | Very Lazy Tech | [Read More](https://medium.com/p/499077e10097) |
-| Sat, 29 Nov 2025 06:56:17 GMT | Software Testing Institute in Kochi — Build Your IT Career with Edure | Haripriya | [Read More](https://medium.com/p/f0b748c0f0f3) |
-| Sat, 29 Nov 2025 06:53:55 GMT | The 5 Security Misconfigurations Found in Every IR & SOC Report | Motasem Hamdan | [Read More](https://medium.com/p/670c0b05926c) |
-| Sat, 29 Nov 2025 06:48:03 GMT | The Affordable Powerhouse Best Low-Cost VPS Hosting for Modern Websites | Ann Taylor | [Read More](https://medium.com/p/82c4a78d2ed8) |
