@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 01:31:30 GMT | 2025’s Most Bizarre Cyberattack Started With a Coffee Mug Warmer. What Happened Next Was Chaos | Noel | [Read More](https://medium.com/p/2cd1758ee719) |
+| Sat, 29 Nov 2025 01:31:14 GMT | TheHarvester in Hacking - Find Emails, Domains & Targets Fast! | Shahzaib | [Read More](https://medium.com/p/2f27cf43c4c2) |
+| Sat, 29 Nov 2025 01:27:52 GMT | From College Dorms to Red Team Powerhouse, The FourCore Journey | Cyber Unbound | [Read More](https://medium.com/p/7787876777e7) |
+| Sat, 29 Nov 2025 01:19:47 GMT | NCL [Hard] Password Challenge: Disney Characters and Advanced Wordreaper Techniques | Nemorous | [Read More](https://medium.com/p/79e1dd1ff481) |
+| Sat, 29 Nov 2025 01:14:06 GMT | How Technology Is Transforming Modern Healthcare | Hiwot Tasissa | [Read More](https://medium.com/p/a1e0e87ffd37) |
+| Sat, 29 Nov 2025 01:09:15 GMT | 5 Ways You Can Get Hacked, and How to Avoid Each One | CiberEdu | [Read More](https://medium.com/p/5f0f544afff5) |
+| Sat, 29 Nov 2025 01:06:23 GMT | Why I Switched to Arch Linux: A Developer’s Perspective | Murat Kurkoglu | [Read More](https://medium.com/p/0e5eee5242d1) |
+| Sat, 29 Nov 2025 01:02:10 GMT | Testing Registry Persistence Detection: When Rules Exist But Never Fire | Raynard Waits | [Read More](https://medium.com/p/0389eb79f509) |
+| Sat, 29 Nov 2025 00:45:07 GMT | Static Routing vs. OSPF — A Hands-On Comparison in My CCNA Lab | Jahson Jno-Baptiste | [Read More](https://medium.com/p/b9a7b3fad8f7) |
+| Sat, 29 Nov 2025 00:32:21 GMT | What is the difference between authentication and authorization? | Deon Orina | [Read More](https://medium.com/p/fa3cc5a1c270) |
+| Sat, 29 Nov 2025 00:17:01 GMT | THE NPC → MC SPECTRUM | NonZeroSumJames | [Read More](https://medium.com/p/3660601210e6) |
+| Sat, 29 Nov 2025 00:16:34 GMT | MyTown Media Solutions — Full Network Deployment (Capstone Project) | Jahson Jno-Baptiste | [Read More](https://medium.com/p/cd81954e5f22) |
+| Sat, 29 Nov 2025 00:02:28 GMT | BFLA (API5–2023): Complete Guide to Detecting, Exploiting, and Reporting Broken Function Level… | JPablo13 | [Read More](https://medium.com/p/af2ecfd3e2a4) |
+| Fri, 28 Nov 2025 23:46:37 GMT | How EternalBlue and Hafnium Pushed Me Toward Ethical Hacking | Marco Kaumanns | [Read More](https://medium.com/p/2fd652013eb3) |
+| Fri, 28 Nov 2025 23:36:34 GMT | AI History is a Liability: Why Every CXO Needs a 10-Minute Privacy Protocol | Snehal Singh | [Read More](https://medium.com/p/5060bc745b8f) |
 | Fri, 28 Nov 2025 23:33:48 GMT | Ivanti Post-Exploitation Lateral Movement — Analysis and Detection | SIMKRA | [Read More](https://medium.com/p/fe4612e94d65) |
 | Fri, 28 Nov 2025 23:30:47 GMT | It Looks Like a Warning: Building Vulnerability Management Maturity | Jeff Kingsland | [Read More](https://medium.com/p/6c1dccdda0ee) |
 | Fri, 28 Nov 2025 23:28:34 GMT | How I Found a Critical SQL Injection in Mercedes-Benz  My First Write-up | Youssef Ezzat | [Read More](https://medium.com/p/cb9c4c1fb7f3) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 15:48:47 GMT | Flagyard: tchshop — Web-Easy SSTI Writeup | Abdullah | [Read More](https://medium.com/p/cb4bc6974c4d) |
 | Fri, 28 Nov 2025 15:44:19 GMT | PwnTillDawn Snare Machine Writeup | Bazil Brohi | [Read More](https://medium.com/p/892edb1603ab) |
 | Fri, 28 Nov 2025 15:41:08 GMT | From Caesar to the Next Generation: How HRC Could Redefine Encryption/Short | Amr Hafez | [Read More](https://medium.com/p/7ad50b7f89ab) |
-| Fri, 28 Nov 2025 15:40:15 GMT | I Built a Private AI “Second Brain” to Quiz Me on My Notes Every Morning. Here’s How. | Kaizen | [Read More](https://medium.com/p/45649501da36) |
-| Fri, 28 Nov 2025 15:40:00 GMT | Human Trafficking in Canada: What Every Security Professional Needs to Know | Scott Hill | [Read More](https://medium.com/p/1604914f8e8c) |
-| Fri, 28 Nov 2025 15:31:40 GMT | Cyber Hygiene 101: Simple Daily Habits That Protect You Online | Salman Khan | [Read More](https://medium.com/p/aed7e7f6b175) |
-| Fri, 28 Nov 2025 15:30:30 GMT | MY FIRST BOUNTY | 8192051 | [Read More](https://medium.com/p/6854cc733b16) |
-| Fri, 28 Nov 2025 15:29:40 GMT | How Deepfakes Are Becoming a New Threat in India | Amol Rangari | [Read More](https://medium.com/p/88946cff5f47) |
-| Fri, 28 Nov 2025 15:29:38 GMT | How Smart Homes Make You Vulnerable And How to Stay Safe | Salman Khan | [Read More](https://medium.com/p/f3dea39c2ad4) |
-| Fri, 28 Nov 2025 15:26:59 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/d658ee64363f) |
-| Fri, 28 Nov 2025 15:23:30 GMT | Starting With Android VAPT in 2025 | Slayer_15 | [Read More](https://medium.com/p/b6f1633fea4c) |
-| Fri, 28 Nov 2025 15:19:05 GMT | Job Security in Cyber Security During Economic Downturns | Aiswarya N | [Read More](https://medium.com/p/26f67155790d) |
-| Fri, 28 Nov 2025 15:18:33 GMT | Next in AI: Issue #56 | Sam Ghosh | [Read More](https://medium.com/p/c59ea178ed1f) |
-| Fri, 28 Nov 2025 15:18:13 GMT | PRIVILEGE ESCALATION | Burhan Demir | [Read More](https://medium.com/p/9211f93efd26) |
-| Fri, 28 Nov 2025 15:06:23 GMT | The New Frontier of Crypto Theft: Physical Coercion, Digital Extraction, and the Case for a… | Abatis ABTU | [Read More](https://medium.com/p/c61a20647be3) |
-| Fri, 28 Nov 2025 15:02:16 GMT | The Night I Stopped Lying to Myself (Part 1 of 3) | Deyanira Perdomo Cuéllar | [Read More](https://medium.com/p/776a5d220e7b) |
-| Fri, 28 Nov 2025 14:55:58 GMT | The New Cyber Skills Crisis: AI-Powered Offense, Undertrained Defenders, and the Future of Cyber… | Len Noe | [Read More](https://medium.com/p/91395823d994) |
-| Fri, 28 Nov 2025 14:45:39 GMT | The Essential Guide to Using Cybersecurity Tools in 2025 | Devinn C. | [Read More](https://medium.com/p/00add85169fe) |
