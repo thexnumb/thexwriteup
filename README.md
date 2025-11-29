@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 20:30:55 GMT | Stop Buying the Wrong Wi-Fi Adapter for Kali Linux (2025 Guide) | Divyanshubhoir | [Read More](https://medium.com/p/e5e2dc1e5667) |
+| Sat, 29 Nov 2025 20:24:02 GMT | Amazon: IA spécialisée pour une chasse aux bugs approfondie | L'ABESTIT | [Read More](https://medium.com/p/176636a6ca4a) |
 | Sat, 29 Nov 2025 20:09:38 GMT | HTB: Busqueda writeup | bara almustafa | [Read More](https://medium.com/p/494f508a9d7d) |
 | Sat, 29 Nov 2025 19:55:24 GMT | Automating the Hunt: When Manual Reconnaissance Hits a Wall | IFFI0x | [Read More](https://medium.com/p/093a5a80aa97) |
+| Sat, 29 Nov 2025 19:49:06 GMT | DEAR DEVELOPERS : .env DOES NOT STAND OFR ‘EVERYONE CAN VIEW’….! | Mohith Krishna K | [Read More](https://medium.com/p/cd36a98ff09a) |
 | Sat, 29 Nov 2025 19:40:11 GMT | The Parts Of Me You Don't See | Oluwabunmi Fortune Ajibade | [Read More](https://medium.com/p/a96eabcf645a) |
 | Sat, 29 Nov 2025 19:32:10 GMT | Investigating with Splunk - challange SOC #11 | D4m.sh | [Read More](https://medium.com/p/ee07d5686177) |
 | Sat, 29 Nov 2025 19:30:47 GMT | Windows Internals — For Beginners | Ace | [Read More](https://medium.com/p/31f04ade0db9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 12:50:53 GMT | I Monitored GGPoker’s Activity on My Mac (omg) Here’s What I Found | Demstalfer | [Read More](https://medium.com/p/5be1eaa18f81) |
 | Sat, 29 Nov 2025 12:50:39 GMT | Machine Learning Engineer Requirements: Full 2026 Beginner | Motherlandlove | [Read More](https://medium.com/p/881fe059285e) |
 | Sat, 29 Nov 2025 12:41:39 GMT | Title: Blockchain based E-Voting System — Research Publication | Vandanagraj | [Read More](https://medium.com/p/d122eee9ffe3) |
-| Sat, 29 Nov 2025 12:36:34 GMT | DockerLabs Writeup — Cachopo (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/bf495d61e2c1) |
-| Sat, 29 Nov 2025 12:35:31 GMT | OpenAI Confirms Data Breach — Here’s Who Is Impacted | IC News | [Read More](https://medium.com/p/a8cc6263a1cf) |
-| Sat, 29 Nov 2025 12:34:59 GMT | How Zero-Knowledge Proofs Create Trust, Without Revealing Data | Aky Ars | [Read More](https://medium.com/p/8661d39bf3b1) |
