@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 09:06:59 GMT | A Practical Guide to Server-Side Template Injection (SSTI) | Redfox Security | [Read More](https://medium.com/p/19bbc1649b92) |
+| Sat, 29 Nov 2025 09:06:01 GMT | From MBBS Dreams to Cybersecurity Reality: My Unexpected Path into the World of Hackers…. | Bhavanavijayan | [Read More](https://medium.com/p/c5787b0323f0) |
+| Sat, 29 Nov 2025 09:02:13 GMT | How to Turn Stealer Log Intelligence Into Instant Account Protection With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/0df7d78bd6da) |
+| Sat, 29 Nov 2025 09:01:48 GMT | When Learning Becomes Transformation | Barau Favour | [Read More](https://medium.com/p/999a085a733b) |
+| Sat, 29 Nov 2025 08:58:42 GMT | Project Orion: The Spaceship That Could Have Changed History | Sahil Nair | [Read More](https://medium.com/p/9770f1676426) |
+| Sat, 29 Nov 2025 08:56:33 GMT | Machine Learning in Finance Book Guide: Uses, Methods, Trends & Tools | Motherlandlove | [Read More](https://medium.com/p/673058f36c51) |
 | Sat, 29 Nov 2025 08:34:52 GMT | The Hosting Sweet Spot: Premium Performance at a Low-Cost Price | Mary Thomas | [Read More](https://medium.com/p/a5ab379662b1) |
 | Sat, 29 Nov 2025 08:33:00 GMT | The Subtle Mechanics Of Making Anyone Reveal What They Should Not | Rendur M. Saunter | [Read More](https://medium.com/p/6b9ec02788ea) |
 | Sat, 29 Nov 2025 08:31:06 GMT | WordPress Penetration-Testing - 02 Introducing Deliberate Misconfigurations | Amrsmooke | [Read More](https://medium.com/p/6b2115c80015) |
@@ -28,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 07:41:45 GMT | Need an Android Mobile Application Development Company? Partner with Associative! | Associative: Software Development & Consulting | [Read More](https://medium.com/p/f5345ec64b21) |
 | Sat, 29 Nov 2025 07:39:05 GMT | Deep Learning Explained Simply: Complete Beginner Guide (2026) | Motherlandlove | [Read More](https://medium.com/p/64c2b84fc00d) |
 | Sat, 29 Nov 2025 07:34:44 GMT | How I Perform Subdomain Enumeration | Red | [Read More](https://medium.com/p/1dc797f5f31f) |
+| Sat, 29 Nov 2025 07:30:11 GMT | Building a Modern File Upload System with Angular and PrimeNG | CodeOrbit | [Read More](https://medium.com/p/d7271c799060) |
 | Sat, 29 Nov 2025 07:23:14 GMT | Why DevOps Learners in Bangalore Choose Eduleem? | Nuzhath Begam | [Read More](https://medium.com/p/a2a7c65f8615) |
 | Sat, 29 Nov 2025 07:22:31 GMT | When Insurers Won’t Insure: The AI Liability Crisis No One Is Talking About | Kaustubh Phatak | [Read More](https://medium.com/p/b6baeb0f3fa6) |
 | Sat, 29 Nov 2025 07:17:58 GMT | The Math of Inevitability: Why AI Cannot Fail And Why That Means Humanity Was Never the Final Form | Mattbusel | [Read More](https://medium.com/p/befeb6c8e4ca) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 21:59:37 GMT | Malware Traffic Analysis with Wireshark — Detecting Dridex C2 Traffic | Faith akerele | [Read More](https://medium.com/p/531d254edb0d) |
 | Fri, 28 Nov 2025 21:50:03 GMT | Future Trends in Cloud Security and Analytics: What to Expect in 2026 | Techridge Solutions | [Read More](https://medium.com/p/cdddf9c16053) |
 | Fri, 28 Nov 2025 21:48:50 GMT | Holiday Cybercrime Rises As Fake Shopping Domains Flood The Web | Geoffrey Wenger | [Read More](https://medium.com/p/30fa00669c3f) |
-| Fri, 28 Nov 2025 21:45:12 GMT | Your Password Gets Hashed, Not Encrypted | Keylogncoffee | [Read More](https://medium.com/p/35242097d612) |
-| Fri, 28 Nov 2025 21:44:07 GMT | Quantum Computing Will Revolutionize Cybersecurity | Jovan Sandhu | [Read More](https://medium.com/p/72959243288b) |
-| Fri, 28 Nov 2025 21:41:47 GMT | The November 2025 Upbit Breach and the Industrialization of Crypto-Theft | David SEHYEON Baek | [Read More](https://medium.com/p/5085954620ce) |
-| Fri, 28 Nov 2025 21:38:30 GMT | When the Alarm Isn’t Real: How Hackers Hijacked U.S. | Gbolahan Akinbola | [Read More](https://medium.com/p/1680ee2f351f) |
-| Fri, 28 Nov 2025 21:32:34 GMT | The Third-Party Breach Epidemic: When vendors become the largest vulnerability | Nikitha Srinivasan | [Read More](https://medium.com/p/2dda1bc03f8b) |
-| Fri, 28 Nov 2025 21:30:52 GMT | How to Avoid Common Dockerfile Mistakes? Mistakes that costed me time and money … | BecomeDevops | [Read More](https://medium.com/p/9f7c63e46f27) |
-| Fri, 28 Nov 2025 21:25:18 GMT | The Mixpanel Security Incident Reminds Us How Fragile Digital Trust Really Is | Joseph N. Aburu | [Read More](https://medium.com/p/65983ff22b9a) |
