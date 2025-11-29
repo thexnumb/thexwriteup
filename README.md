@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 17:06:58 GMT | Cybersecurity Lesson 5 : Building and Securing Systems | YogiCode | [Read More](https://medium.com/p/c54507748d35) |
+| Sat, 29 Nov 2025 17:06:57 GMT | How a Simple Phishing Scam Changed My View on Online Security — And What You Should Do | Er Dhaval Ramani | [Read More](https://medium.com/p/3b95eeef7428) |
+| Sat, 29 Nov 2025 17:01:00 GMT | Build Automated Security Regression System That Spots 100% of Old Finding | Muh. Fani Akbar | [Read More](https://medium.com/p/1e881eb05700) |
+| Sat, 29 Nov 2025 16:55:53 GMT | Why Pharmaceutical Companies in India Must Embrace DPDP Act and Rules | Sujeet Katiyar | [Read More](https://medium.com/p/70cea1beed46) |
+| Sat, 29 Nov 2025 16:46:40 GMT | Hacking NASA with a Keyword: How I Found Trade Secrets via Public Search | Akuivan | [Read More](https://medium.com/p/bda9ea09c1e0) |
+| Sat, 29 Nov 2025 16:44:01 GMT | Practically Nude: A Poolside Confession | Neville Tulloch | [Read More](https://medium.com/p/30cd20a78a2a) |
 | Sat, 29 Nov 2025 16:30:56 GMT | How Should We Approach Cloud Migration Without Compromising Network and Security Standards? | IT Solutions Providers | [Read More](https://medium.com/p/0788cd3bef00) |
 | Sat, 29 Nov 2025 16:25:57 GMT | CRITICAL VULNERABILITY ALERT FOR ANDROID USERS | Khabbab Sarker | [Read More](https://medium.com/p/9398776cb8d2) |
 | Sat, 29 Nov 2025 16:23:41 GMT | What I Learned in QA That Helps Me in Cybersecurity | Joseph Kantar | [Read More](https://medium.com/p/e80df235e365) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 09:12:53 GMT | KBYS Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/bb436bee85c5) |
 | Sat, 29 Nov 2025 09:06:59 GMT | A Practical Guide to Server-Side Template Injection (SSTI) | Redfox Security | [Read More](https://medium.com/p/19bbc1649b92) |
 | Sat, 29 Nov 2025 09:06:01 GMT | From MBBS Dreams to Cybersecurity Reality: My Unexpected Path into the World of Hackers…. | Bhavanavijayan | [Read More](https://medium.com/p/c5787b0323f0) |
-| Sat, 29 Nov 2025 09:02:13 GMT | How to Turn Stealer Log Intelligence Into Instant Account Protection With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/0df7d78bd6da) |
-| Sat, 29 Nov 2025 09:01:48 GMT | When Learning Becomes Transformation | Barau Favour | [Read More](https://medium.com/p/999a085a733b) |
-| Sat, 29 Nov 2025 08:58:42 GMT | Project Orion: The Spaceship That Could Have Changed History | Sahil Nair | [Read More](https://medium.com/p/9770f1676426) |
-| Sat, 29 Nov 2025 08:56:33 GMT | Machine Learning in Finance Book Guide: Uses, Methods, Trends & Tools | Motherlandlove | [Read More](https://medium.com/p/673058f36c51) |
-| Sat, 29 Nov 2025 08:34:52 GMT | The Hosting Sweet Spot: Premium Performance at a Low-Cost Price | Mary Thomas | [Read More](https://medium.com/p/a5ab379662b1) |
-| Sat, 29 Nov 2025 08:33:00 GMT | The Subtle Mechanics Of Making Anyone Reveal What They Should Not | Rendur M. Saunter | [Read More](https://medium.com/p/6b9ec02788ea) |
