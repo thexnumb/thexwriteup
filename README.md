@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 11:28:11 GMT | From Owner to Orphaned: Exploiting a Race Condition in Organization Management | Amed Sherif | [Read More](https://medium.com/p/c6380d4e57ba) |
+| Sat, 29 Nov 2025 11:25:00 GMT | Review Infrastruktur Server ORI777 & Solusi Akses Anti-Lag 2025 | Rakanesia – Game Online Gratis | [Read More](https://medium.com/p/3cde2618823b) |
+| Sat, 29 Nov 2025 11:24:12 GMT | Write-up: CyCTF25 Qualifications — SimpleCrackMe (Reverse Engineering) | Mohamed Elansari | [Read More](https://medium.com/p/943b26587262) |
+| Sat, 29 Nov 2025 11:21:59 GMT | The One-Click Privacy Toggle That Actually Works | Sachin      Verlekar | [Read More](https://medium.com/p/94c4192ebb2a) |
+| Sat, 29 Nov 2025 11:18:33 GMT | PROJETO mini-lab: Monitoramento com @Wazuh >Atulizações: Active-Response< | EduKayky | [Read More](https://medium.com/p/86306a5b7abd) |
+| Sat, 29 Nov 2025 11:11:07 GMT | Machine Learning Engineer Salary in US 2026: Full Pay Breakdown Guide | Motherlandlove | [Read More](https://medium.com/p/40c6f3ff7aec) |
 | Sat, 29 Nov 2025 11:08:36 GMT | Gorey IT | Gorey IT | [Read More](https://medium.com/p/5b4f7b99a672) |
 | Sat, 29 Nov 2025 11:05:30 GMT | The Illusion of Safety: Why Your “Zero Incidents” Report Might Be Lying to You | Vijay Kumar Gupta | [Read More](https://medium.com/p/de34a2ef7f0f) |
 | Sat, 29 Nov 2025 11:03:24 GMT | The Top 5 Blue Team Tools Every Defender Should Know | Cybervolt | [Read More](https://medium.com/p/cd68fcbe6d2f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 01:31:14 GMT | TheHarvester in Hacking - Find Emails, Domains & Targets Fast! | Shahzaib | [Read More](https://medium.com/p/2f27cf43c4c2) |
 | Sat, 29 Nov 2025 01:27:52 GMT | From College Dorms to Red Team Powerhouse, The FourCore Journey | Cyber Unbound | [Read More](https://medium.com/p/7787876777e7) |
 | Sat, 29 Nov 2025 01:19:47 GMT | NCL [Hard] Password Challenge: Disney Characters and Advanced Wordreaper Techniques | Nemorous | [Read More](https://medium.com/p/79e1dd1ff481) |
-| Sat, 29 Nov 2025 01:14:06 GMT | How Technology Is Transforming Modern Healthcare | Hiwot Tasissa | [Read More](https://medium.com/p/a1e0e87ffd37) |
-| Sat, 29 Nov 2025 01:09:15 GMT | 5 Ways You Can Get Hacked, and How to Avoid Each One | CiberEdu | [Read More](https://medium.com/p/5f0f544afff5) |
-| Sat, 29 Nov 2025 01:06:23 GMT | Why I Switched to Arch Linux: A Developer’s Perspective | Murat Kurkoglu | [Read More](https://medium.com/p/0e5eee5242d1) |
-| Sat, 29 Nov 2025 01:02:10 GMT | Testing Registry Persistence Detection: When Rules Exist But Never Fire | Raynard Waits | [Read More](https://medium.com/p/0389eb79f509) |
-| Sat, 29 Nov 2025 00:45:07 GMT | Static Routing vs. OSPF — A Hands-On Comparison in My CCNA Lab | Jahson Jno-Baptiste | [Read More](https://medium.com/p/b9a7b3fad8f7) |
-| Sat, 29 Nov 2025 00:32:21 GMT | What is the difference between authentication and authorization? | Deon Orina | [Read More](https://medium.com/p/fa3cc5a1c270) |
