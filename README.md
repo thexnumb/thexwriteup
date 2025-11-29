@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 05:14:40 GMT | How to actually get a job in Cyber Security | Jbird | [Read More](https://medium.com/p/d131d10b185e) |
+| Sat, 29 Nov 2025 05:04:12 GMT | Business process plan for Federal Technology (FedRAMP) | Joe Alongi | [Read More](https://medium.com/p/da00c64eca50) |
+| Sat, 29 Nov 2025 05:02:30 GMT | How To Secure Yourself Online | Mr Jokar | [Read More](https://medium.com/p/7e52449ecd6f) |
+| Sat, 29 Nov 2025 05:02:20 GMT | Top Insights on Best It Courses: Exploring Certifications | postgraduateguru | [Read More](https://medium.com/p/9bb67c18b896) |
+| Sat, 29 Nov 2025 04:27:05 GMT | Top Five Cyber Security Services in Thane: What to Consider | Maxatlasofficial | [Read More](https://medium.com/p/fa68a5d16bf2) |
 | Sat, 29 Nov 2025 04:27:02 GMT | Broken Access Control: A Silent Threat in Web Apps | Moganti Nehanth | [Read More](https://medium.com/p/c731a5dfa1c9) |
 | Sat, 29 Nov 2025 04:06:18 GMT | Alexa, tell her what I really mean.” | Jim DeLillo | [Read More](https://medium.com/p/83830e04940f) |
 | Sat, 29 Nov 2025 04:06:00 GMT | Our AI Had 99.1% Accuracy. We Still Lost $3.2M. Here’s Why. | AhmedAbdelmenem | [Read More](https://medium.com/p/fbcbcba51746) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 17:25:53 GMT | TryHackMe - Intro To Pwntools - WriteUp | Axoloth | [Read More](https://medium.com/p/45860de17f20) |
 | Fri, 28 Nov 2025 17:25:20 GMT | Principles of Cyber Security — Week 1 | Ayoade Akintayo (PhD) | [Read More](https://medium.com/p/1f03d28e77c4) |
 | Fri, 28 Nov 2025 17:22:43 GMT | Zero To Root: The Journey Begins | Zor0ark | [Read More](https://medium.com/p/46a64ea50abb) |
-| Fri, 28 Nov 2025 17:21:41 GMT | What the New SEC Cybersecurity Rules Mean for Your Business | professional educator | [Read More](https://medium.com/p/ceb2b15088f1) |
-| Fri, 28 Nov 2025 17:13:57 GMT | Building a Cybersecurity Home Lab — Part 4.4: Caldera Installation & Configuration | JBXSec | [Read More](https://medium.com/p/421cddea421a) |
-| Fri, 28 Nov 2025 17:11:45 GMT | OffSec Exploit Developer (OSED): Course Review and Exam Preparation Tips | Cyd Tseng | [Read More](https://medium.com/p/637a208934b8) |
-| Fri, 28 Nov 2025 17:07:20 GMT | File I/O (Input/Output) and Serialization in Java | Salwa Fijri | [Read More](https://medium.com/p/761b20a76ad1) |
-| Fri, 28 Nov 2025 17:05:23 GMT | Why I Always Disable Direct Root Logins on Linux (And How It Stops Silent Privilege Abuse) | Faruk Ahmed | [Read More](https://medium.com/p/1042670e3b75) |
