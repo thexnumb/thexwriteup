@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 10:22:15 GMT | CVE-2025–13526: 7 Lessons from the OneClick Chat to Order IDOR | Pentest_Testing_Corp | [Read More](https://medium.com/p/cb5920a9db2e) |
+| Sat, 29 Nov 2025 10:18:07 GMT | Daifend AI — Why the Delhi Airport GPS Spoofing Incident Is a Wake-Up Call for India’s Critical… | Bhawini. | [Read More](https://medium.com/p/bc43f0bfd69d) |
+| Sat, 29 Nov 2025 10:17:10 GMT | Cyber Monday Discount on Cybersecurity Certifications — Enroll Today | cyber security Updates | [Read More](https://medium.com/p/a9c71bfa241a) |
 | Sat, 29 Nov 2025 10:05:09 GMT | Russia Threatens To Block WhatsApp Over “Law Violations” | Techsankar | [Read More](https://medium.com/p/155c741d87e6) |
 | Sat, 29 Nov 2025 10:01:04 GMT | Random Facts About Technology You Never Expected | FactSphereMedia | [Read More](https://medium.com/p/682e1716e015) |
 | Sat, 29 Nov 2025 09:59:41 GMT | Comprehensive Guide to Security Solutions in KSA: Protecting Businesses across Riyadh | Tekshoyabeelyas | [Read More](https://medium.com/p/7bd72cfeaf37) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 23:36:34 GMT | AI History is a Liability: Why Every CXO Needs a 10-Minute Privacy Protocol | Snehal Singh | [Read More](https://medium.com/p/5060bc745b8f) |
 | Fri, 28 Nov 2025 23:33:48 GMT | Ivanti Post-Exploitation Lateral Movement — Analysis and Detection | SIMKRA | [Read More](https://medium.com/p/fe4612e94d65) |
 | Fri, 28 Nov 2025 23:30:47 GMT | It Looks Like a Warning: Building Vulnerability Management Maturity | Jeff Kingsland | [Read More](https://medium.com/p/6c1dccdda0ee) |
-| Fri, 28 Nov 2025 23:28:34 GMT | How I Found a Critical SQL Injection in Mercedes-Benz  My First Write-up | Youssef Ezzat | [Read More](https://medium.com/p/cb9c4c1fb7f3) |
-| Fri, 28 Nov 2025 22:52:40 GMT | ️ Siber Güvenliğin Savunma Kalkanı: Blue Team (Mavi Takım) Nedir? | HSDEBYU | [Read More](https://medium.com/p/83dbf5e2a123) |
-| Fri, 28 Nov 2025 22:47:50 GMT | Stop Deleting Photos: 6 iPhone Storage Hacks You’ll Wish You Knew Sooner | Ning | [Read More](https://medium.com/p/6f4586c2cfae) |
