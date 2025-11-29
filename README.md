@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 21:20:16 GMT | Achieving Maximum Online Privacy in 2025: A No-Compromise Guide | Officer's Notes | [Read More](https://medium.com/p/4a27c1f53b7f) |
 | Sat, 29 Nov 2025 21:08:20 GMT | Cap HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/e6187005bf9d) |
 | Sat, 29 Nov 2025 21:06:42 GMT | I Find security vulnerabilities behind access denied errors | Ibtissam | [Read More](https://medium.com/p/91181015e3f8) |
 | Sat, 29 Nov 2025 21:06:07 GMT | Linux Hardening & Auditd , Monitoring , Output Redirection, Logging for Hackers | Cybersecplayground | [Read More](https://medium.com/p/3e5376da3eb6) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 13:22:39 GMT | RSA-Based JWT Authentication in Spring Boot Microservices (With Distributed Validation in… | Weoto Technologies Private Limited | [Read More](https://medium.com/p/ebcbe5123e52) |
 | Sat, 29 Nov 2025 13:21:42 GMT | How I Switched From Web Dev to Offensive Security in 6 Months | Hania Khan | [Read More](https://medium.com/p/31afdcc2d7be) |
 | Sat, 29 Nov 2025 13:20:34 GMT | STOP Wasting Time: These Are the Only Certifications That Actually Get You Hired in 2025 | Hachtechnology | [Read More](https://medium.com/p/edaaf6c1fff6) |
-| Sat, 29 Nov 2025 13:16:03 GMT | Building KubeSentry: Automated Threat Detection and Isolation in Kubernetes | SANGYEON LEE | [Read More](https://medium.com/p/0c25d16fcc1c) |
