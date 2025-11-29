@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 06:20:55 GMT | Step Into High-Demand IT Roles with Cyber Security Expertise | Edglobalacademy | [Read More](https://medium.com/p/4a910cc29165) |
+| Sat, 29 Nov 2025 06:15:09 GMT | TryHackMEVMs: Agent Sudo | Justin Jude Cabodil | [Read More](https://medium.com/p/cc421a29e091) |
+| Sat, 29 Nov 2025 06:05:03 GMT | The Growing Demand for Cyber Skills in Saudi Businesses | Rahman Iqbal | [Read More](https://medium.com/p/8d760d24d5da) |
+| Sat, 29 Nov 2025 05:53:15 GMT | Stuck on Repeat: The Cybersecurity Clichés Keeping the Industry in the Dark | JC Gaillard | [Read More](https://medium.com/p/0bd62a80d493) |
+| Sat, 29 Nov 2025 05:46:14 GMT | BuildingMagic-Hack Smarter (Masoom-Pakistani) | Adil Khan | [Read More](https://medium.com/p/715bf876ac4e) |
+| Sat, 29 Nov 2025 05:44:59 GMT | Packet Capture Automation for SOC ️ | Esra Kayhan | [Read More](https://medium.com/p/08d6063c2219) |
 | Sat, 29 Nov 2025 05:34:15 GMT | Wireshark for DFIR — A Practical Investigator-Focused Guide (2025 Edition) | ghostyjoe | [Read More](https://medium.com/p/aa6d60faf13f) |
 | Sat, 29 Nov 2025 05:29:19 GMT | Event ID 14-  SOC 104 — Malware Detected -LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/1c7b5afb9344) |
 | Sat, 29 Nov 2025 05:24:27 GMT | DNS Deep Dive: The Internet’s Phone Book That Makes Everything Possible | Satyam Singh | [Read More](https://medium.com/p/c74443a86b53) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 18:26:49 GMT | Hybrid Computing: How AI Is Reshaping Cloud, Edge, and On-Device Processing | Amrizal31 | [Read More](https://medium.com/p/88f211d06596) |
 | Fri, 28 Nov 2025 18:21:58 GMT | Google Machine Learning Jobs Guide: Roles, Skills, Salary and Career Tips | Motherlandlove | [Read More](https://medium.com/p/9fc4c66df7c1) |
 | Fri, 28 Nov 2025 18:17:58 GMT | SSH Hardening and Brute Force Prevention Using Fail2ban | Aisha B. B | [Read More](https://medium.com/p/600f510f3360) |
-| Fri, 28 Nov 2025 18:16:41 GMT | The AI Black Box: What Solving the Gandalf Challenge Taught Me About LLM Security | Ifii | [Read More](https://medium.com/p/8fad63089dd1) |
-| Fri, 28 Nov 2025 18:16:24 GMT | How I Hacked an AI Chatbot to Expose Thousands of Customer Records (IDOR + Prompt Injection) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/760092ed99a4) |
-| Fri, 28 Nov 2025 18:09:43 GMT | From Criminal Chatter to Your Checklist: How I Turned Hacker TTPs Into a $ Pentest Payday ️‍♂️ | Iski | [Read More](https://medium.com/p/ffc1dc9b3434) |
-| Fri, 28 Nov 2025 17:59:44 GMT | How I Discovered a Rare Vulnerability in MCP Server — Bug Bounty | 1day | [Read More](https://medium.com/p/28a0ef643902) |
-| Fri, 28 Nov 2025 17:53:33 GMT | Malchain : Tactic-Based Detection | f0xy_pr0xy | [Read More](https://medium.com/p/679717c69f96) |
-| Fri, 28 Nov 2025 17:51:47 GMT | HTB: Mirage Writeup | Natius | [Read More](https://medium.com/p/51e714d4dbf8) |
