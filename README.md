@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 04:06:18 GMT | Alexa, tell her what I really mean.” | Jim DeLillo | [Read More](https://medium.com/p/83830e04940f) |
+| Sat, 29 Nov 2025 04:06:00 GMT | Our AI Had 99.1% Accuracy. We Still Lost $3.2M. Here’s Why. | AhmedAbdelmenem | [Read More](https://medium.com/p/fbcbcba51746) |
+| Sat, 29 Nov 2025 04:01:44 GMT | THM- Kenobi Writeup | cbev | [Read More](https://medium.com/p/78a97a2d1d71) |
+| Sat, 29 Nov 2025 03:44:55 GMT | Securing Third-Party PCF Controls with a DevSecOps Pipeline | Mustaque Ehiya | [Read More](https://medium.com/p/630a0236e1fd) |
 | Sat, 29 Nov 2025 03:32:12 GMT | Fantasy Hub: How a Subscription-Based Trojan Expands Mobile Espionage | Deven Chhajed | [Read More](https://medium.com/p/5be3d8b67f82) |
 | Sat, 29 Nov 2025 03:29:42 GMT | The hidden flaw in password reset tokens: Weak Randomness | Mohamed Ahmed | [Read More](https://medium.com/p/0f015a5c6430) |
 | Sat, 29 Nov 2025 03:27:09 GMT | The Collapse of Coding: Why 2025 Will Be the Last Year We Write Real Code | The Dev Notebook | [Read More](https://medium.com/p/039bd9b3b4d7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 17:07:20 GMT | File I/O (Input/Output) and Serialization in Java | Salwa Fijri | [Read More](https://medium.com/p/761b20a76ad1) |
 | Fri, 28 Nov 2025 17:05:23 GMT | Why I Always Disable Direct Root Logins on Linux (And How It Stops Silent Privilege Abuse) | Faruk Ahmed | [Read More](https://medium.com/p/1042670e3b75) |
 | Fri, 28 Nov 2025 17:02:21 GMT | Shai Hulud Scanner | Jaime Garcia Diaz | [Read More](https://medium.com/p/634e5b758624) |
-| Fri, 28 Nov 2025 17:02:11 GMT | What Does a Cybersecurity Analyst Really Do? A Look Inside the Most In-Demand Security Role Today | Ferdi Edogawa | [Read More](https://medium.com/p/59663b7b9286) |
-| Fri, 28 Nov 2025 16:53:17 GMT | The day after the first Cryptographically Relevant Quantum Computer(CRQC) | Mark Tehrani | [Read More](https://medium.com/p/19e5eaf147c3) |
-| Fri, 28 Nov 2025 16:52:31 GMT | Unmasking a new DPRK Front Company DredSoftLabs | Mees van Wickeren | [Read More](https://medium.com/p/bf9ed544d690) |
-| Fri, 28 Nov 2025 16:31:06 GMT | Botnets Unmasked: How GreyNoise Detects Hidden Threats Across the Internet. | eL Njas!™ | [Read More](https://medium.com/p/0e27105dac84) |
