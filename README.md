@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 13:39:53 GMT | A Bug That Took Me 10 Hours to Fix and 10 Seconds to Understand | Mubashir | [Read More](https://medium.com/p/2e500c1e32b6) |
+| Sat, 29 Nov 2025 13:34:40 GMT | From Bytes to Qubits: How Quantum Computing is Rewriting Cybersecurity! | Ritish Srivastava | [Read More](https://medium.com/p/f4d516aa381b) |
+| Sat, 29 Nov 2025 13:32:04 GMT | OCEANLOTUS GROUP (APT32): ESPIONAGE CAMPAIGNS TARGETING GOVERNMENT INFRASTRUCTURE IN SOUTHEAST ASIA | mohhe | [Read More](https://medium.com/p/96cd505178dc) |
 | Sat, 29 Nov 2025 13:22:39 GMT | RSA-Based JWT Authentication in Spring Boot Microservices (With Distributed Validation in… | Weoto Technologies Private Limited | [Read More](https://medium.com/p/ebcbe5123e52) |
 | Sat, 29 Nov 2025 13:21:42 GMT | How I Switched From Web Dev to Offensive Security in 6 Months | Hania Khan | [Read More](https://medium.com/p/31afdcc2d7be) |
 | Sat, 29 Nov 2025 13:20:34 GMT | STOP Wasting Time: These Are the Only Certifications That Actually Get You Hired in 2025 | Hachtechnology | [Read More](https://medium.com/p/edaaf6c1fff6) |
@@ -51,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 11:01:21 GMT | Why ‘Thank You’ Costs a Million Dollars to ChatGPT | Arkar Phyo | [Read More](https://medium.com/p/8132e549395c) |
 | Sat, 29 Nov 2025 11:00:43 GMT | How Legacy Python Bootstrap Scripts Put PyPI at Risk of Domain Takeover Supply-Chain Attacks | Germano Costi | [Read More](https://medium.com/p/a0bff9a44ece) |
 | Sat, 29 Nov 2025 10:42:31 GMT | Your “node_modules” Folder is a Ticking Time Bomb. | Ferid Brković | [Read More](https://medium.com/p/57dab3ee08b3) |
+| Sat, 29 Nov 2025 10:42:26 GMT | Bahaya Google Dorking: Data Sensitif Mahasiswa Bocor! | Nova Sapitri | [Read More](https://medium.com/p/7dd303d0e8c9) |
 | Sat, 29 Nov 2025 10:32:51 GMT | Marie Van Britten Brown | Meridith Berk | [Read More](https://medium.com/p/4967ef968084) |
 | Sat, 29 Nov 2025 10:22:15 GMT | CVE-2025–13526: 7 Lessons from the OneClick Chat to Order IDOR | Pentest_Testing_Corp | [Read More](https://medium.com/p/cb5920a9db2e) |
 | Sat, 29 Nov 2025 10:18:07 GMT | Daifend AI — Why the Delhi Airport GPS Spoofing Incident Is a Wake-Up Call for India’s Critical… | Bhawini. | [Read More](https://medium.com/p/bc43f0bfd69d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 05:46:14 GMT | BuildingMagic-Hack Smarter (Masoom-Pakistani) | Adil Khan | [Read More](https://medium.com/p/715bf876ac4e) |
 | Sat, 29 Nov 2025 05:44:59 GMT | Packet Capture Automation for SOC ️ | Esra Kayhan | [Read More](https://medium.com/p/08d6063c2219) |
 | Sat, 29 Nov 2025 05:34:15 GMT | Wireshark for DFIR — A Practical Investigator-Focused Guide (2025 Edition) | ghostyjoe | [Read More](https://medium.com/p/aa6d60faf13f) |
-| Sat, 29 Nov 2025 05:29:19 GMT | Event ID 14-  SOC 104 — Malware Detected -LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/1c7b5afb9344) |
-| Sat, 29 Nov 2025 05:24:27 GMT | DNS Deep Dive: The Internet’s Phone Book That Makes Everything Possible | Satyam Singh | [Read More](https://medium.com/p/c74443a86b53) |
-| Sat, 29 Nov 2025 05:16:20 GMT | The Secret Difference Between Talking and Actually Communicating | Abhinav Misra | [Read More](https://medium.com/p/39f1e3fa92c2) |
-| Sat, 29 Nov 2025 05:14:40 GMT | How to actually get a job in Cyber Security | Jbird | [Read More](https://medium.com/p/d131d10b185e) |
