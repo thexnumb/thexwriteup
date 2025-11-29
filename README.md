@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 11:08:36 GMT | Gorey IT | Gorey IT | [Read More](https://medium.com/p/5b4f7b99a672) |
+| Sat, 29 Nov 2025 11:05:30 GMT | The Illusion of Safety: Why Your “Zero Incidents” Report Might Be Lying to You | Vijay Kumar Gupta | [Read More](https://medium.com/p/de34a2ef7f0f) |
+| Sat, 29 Nov 2025 11:03:24 GMT | The Top 5 Blue Team Tools Every Defender Should Know | Cybervolt | [Read More](https://medium.com/p/cd68fcbe6d2f) |
+| Sat, 29 Nov 2025 11:01:25 GMT | The Airbus A320 Recall and the Hidden Cost of Software Updates | Henrique Cordeiro | [Read More](https://medium.com/p/fa9d529bacb1) |
+| Sat, 29 Nov 2025 11:01:21 GMT | Why ‘Thank You’ Costs a Million Dollars to ChatGPT | Arkar Phyo | [Read More](https://medium.com/p/8132e549395c) |
+| Sat, 29 Nov 2025 11:00:43 GMT | How Legacy Python Bootstrap Scripts Put PyPI at Risk of Domain Takeover Supply-Chain Attacks | Germano Costi | [Read More](https://medium.com/p/a0bff9a44ece) |
+| Sat, 29 Nov 2025 10:42:31 GMT | Your “node_modules” Folder is a Ticking Time Bomb. | Ferid Brković | [Read More](https://medium.com/p/57dab3ee08b3) |
+| Sat, 29 Nov 2025 10:32:51 GMT | Marie Van Britten Brown | Meridith Berk | [Read More](https://medium.com/p/4967ef968084) |
 | Sat, 29 Nov 2025 10:22:15 GMT | CVE-2025–13526: 7 Lessons from the OneClick Chat to Order IDOR | Pentest_Testing_Corp | [Read More](https://medium.com/p/cb5920a9db2e) |
 | Sat, 29 Nov 2025 10:18:07 GMT | Daifend AI — Why the Delhi Airport GPS Spoofing Incident Is a Wake-Up Call for India’s Critical… | Bhawini. | [Read More](https://medium.com/p/bc43f0bfd69d) |
 | Sat, 29 Nov 2025 10:17:10 GMT | Cyber Monday Discount on Cybersecurity Certifications — Enroll Today | cyber security Updates | [Read More](https://medium.com/p/a9c71bfa241a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 01:02:10 GMT | Testing Registry Persistence Detection: When Rules Exist But Never Fire | Raynard Waits | [Read More](https://medium.com/p/0389eb79f509) |
 | Sat, 29 Nov 2025 00:45:07 GMT | Static Routing vs. OSPF — A Hands-On Comparison in My CCNA Lab | Jahson Jno-Baptiste | [Read More](https://medium.com/p/b9a7b3fad8f7) |
 | Sat, 29 Nov 2025 00:32:21 GMT | What is the difference between authentication and authorization? | Deon Orina | [Read More](https://medium.com/p/fa3cc5a1c270) |
-| Sat, 29 Nov 2025 00:17:01 GMT | THE NPC → MC SPECTRUM | NonZeroSumJames | [Read More](https://medium.com/p/3660601210e6) |
-| Sat, 29 Nov 2025 00:16:34 GMT | MyTown Media Solutions — Full Network Deployment (Capstone Project) | Jahson Jno-Baptiste | [Read More](https://medium.com/p/cd81954e5f22) |
-| Sat, 29 Nov 2025 00:12:33 GMT | AVG Ultimate for Android — Full Mobile Security & Privacy | Antivirus Ninja | [Read More](https://medium.com/p/625c47207753) |
-| Sat, 29 Nov 2025 00:02:28 GMT | BFLA (API5–2023): Complete Guide to Detecting, Exploiting, and Reporting Broken Function Level… | JPablo13 | [Read More](https://medium.com/p/af2ecfd3e2a4) |
-| Fri, 28 Nov 2025 23:46:37 GMT | How EternalBlue and Hafnium Pushed Me Toward Ethical Hacking | Marco Kaumanns | [Read More](https://medium.com/p/2fd652013eb3) |
-| Fri, 28 Nov 2025 23:36:34 GMT | AI History is a Liability: Why Every CXO Needs a 10-Minute Privacy Protocol | Snehal Singh | [Read More](https://medium.com/p/5060bc745b8f) |
-| Fri, 28 Nov 2025 23:33:48 GMT | Ivanti Post-Exploitation Lateral Movement — Analysis and Detection | SIMKRA | [Read More](https://medium.com/p/fe4612e94d65) |
-| Fri, 28 Nov 2025 23:30:47 GMT | It Looks Like a Warning: Building Vulnerability Management Maturity | Jeff Kingsland | [Read More](https://medium.com/p/6c1dccdda0ee) |
