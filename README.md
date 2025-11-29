@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 16:30:56 GMT | How Should We Approach Cloud Migration Without Compromising Network and Security Standards? | IT Solutions Providers | [Read More](https://medium.com/p/0788cd3bef00) |
+| Sat, 29 Nov 2025 16:25:57 GMT | CRITICAL VULNERABILITY ALERT FOR ANDROID USERS | Khabbab Sarker | [Read More](https://medium.com/p/9398776cb8d2) |
+| Sat, 29 Nov 2025 16:23:41 GMT | What I Learned in QA That Helps Me in Cybersecurity | Joseph Kantar | [Read More](https://medium.com/p/e80df235e365) |
+| Sat, 29 Nov 2025 16:23:29 GMT | Security Vulnerabilities Every QA Engineer Should Know | Joseph Kantar | [Read More](https://medium.com/p/de315fa73c19) |
+| Sat, 29 Nov 2025 16:15:21 GMT | Entry-Level Machine Learning Engineer Salary Guide 2026 (Full Breakdown) | Motherlandlove | [Read More](https://medium.com/p/7604fa1a0f58) |
 | Sat, 29 Nov 2025 16:10:28 GMT | Cybersecurity | kanuka rawat | [Read More](https://medium.com/p/9423c0a143f7) |
 | Sat, 29 Nov 2025 15:58:23 GMT | “My AI Agent Just Did WHAT?” | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/e2f1d2cc43cd) |
 | Sat, 29 Nov 2025 15:57:58 GMT | “It Looked Safe When the Agent Checked…” — The Hidden AI Security Flaw No One Saw Coming | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/31c16b698294) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 08:56:33 GMT | Machine Learning in Finance Book Guide: Uses, Methods, Trends & Tools | Motherlandlove | [Read More](https://medium.com/p/673058f36c51) |
 | Sat, 29 Nov 2025 08:34:52 GMT | The Hosting Sweet Spot: Premium Performance at a Low-Cost Price | Mary Thomas | [Read More](https://medium.com/p/a5ab379662b1) |
 | Sat, 29 Nov 2025 08:33:00 GMT | The Subtle Mechanics Of Making Anyone Reveal What They Should Not | Rendur M. Saunter | [Read More](https://medium.com/p/6b9ec02788ea) |
-| Sat, 29 Nov 2025 08:31:06 GMT | WordPress Penetration-Testing - 02 Introducing Deliberate Misconfigurations | Amrsmooke | [Read More](https://medium.com/p/6b2115c80015) |
-| Sat, 29 Nov 2025 08:26:27 GMT | COMPUTER COURSE IN HAMIRPUR | Amit Excellence | [Read More](https://medium.com/p/db7dcca01133) |
-| Sat, 29 Nov 2025 08:20:57 GMT | Machine Learning in Data Science: A Clear Beginner Guide (2026 Update) | Motherlandlove | [Read More](https://medium.com/p/48bf9710f045) |
-| Sat, 29 Nov 2025 08:17:22 GMT | “7-Steps to Cowrie Glory: SSH Honeypot on Digitalocean That Logs More Fails Than My Dating Profile.” | Nithinkumar | [Read More](https://medium.com/p/ce70b4719cfe) |
-| Sat, 29 Nov 2025 08:14:43 GMT | basic-mod1 picoctf | Aun Raza | [Read More](https://medium.com/p/648f4822bfa3) |
