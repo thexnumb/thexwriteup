@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 18:19:55 GMT | Why a VPN is Essential for Online Gaming | Awais Khan | [Read More](https://medium.com/p/444ffaf879a4) |
+| Sat, 29 Nov 2025 18:18:37 GMT | VulNyx Hosting Writeup | CyberCraft | [Read More](https://medium.com/p/fa1bf2aa3825) |
+| Sat, 29 Nov 2025 18:14:47 GMT | Are Browser Extensions Harming Your Device? | Awais Khan | [Read More](https://medium.com/p/9d67373e1791) |
+| Sat, 29 Nov 2025 18:07:05 GMT | 7 IDOR Types Every Bug Hunter Must Master (Unlock $1K–$20K Bounties!) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/bce411aa8d02) |
+| Sat, 29 Nov 2025 18:05:55 GMT | WEEKEND SPECIAL EPISODE “The Night I Escaped the Server Farm” | Shobha Pai | [Read More](https://medium.com/p/7bfef11a3602) |
+| Sat, 29 Nov 2025 18:04:25 GMT | From Leaked Secret to RCE(HTB CTF) | Youss1f | [Read More](https://medium.com/p/605f621defac) |
+| Sat, 29 Nov 2025 18:02:54 GMT | Barca Bounce Back! | CK | [Read More](https://medium.com/p/edeed8c98b08) |
+| Sat, 29 Nov 2025 17:44:28 GMT | Hey everyone! | TechBit | [Read More](https://medium.com/p/b57ef903f82c) |
+| Sat, 29 Nov 2025 17:31:09 GMT | The AI Thread People are Not Talking About | Vinay | [Read More](https://medium.com/p/92e7cd8e4128) |
 | Sat, 29 Nov 2025 17:25:53 GMT | Upbit’s $36 Million Solana Hack Lands at the Worst Possible Moment | Aaron | [Read More](https://medium.com/p/559169e72ea5) |
 | Sat, 29 Nov 2025 17:23:24 GMT | Why Online Learning Is the Future of Security Training in Germany | Sarmin Islam | [Read More](https://medium.com/p/c5cc18a06777) |
 | Sat, 29 Nov 2025 17:16:51 GMT | LUC DELORME ON PLANET OF GHOSTS (Sci — Fi novel) | Alberto Benitez | [Read More](https://medium.com/p/d9bb7c39b99a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 10:32:51 GMT | Marie Van Britten Brown | Meridith Berk | [Read More](https://medium.com/p/4967ef968084) |
 | Sat, 29 Nov 2025 10:22:15 GMT | CVE-2025–13526: 7 Lessons from the OneClick Chat to Order IDOR | Pentest_Testing_Corp | [Read More](https://medium.com/p/cb5920a9db2e) |
 | Sat, 29 Nov 2025 10:18:07 GMT | Daifend AI — Why the Delhi Airport GPS Spoofing Incident Is a Wake-Up Call for India’s Critical… | Bhawini. | [Read More](https://medium.com/p/bc43f0bfd69d) |
-| Sat, 29 Nov 2025 10:17:10 GMT | Cyber Monday Discount on Cybersecurity Certifications — Enroll Today | cyber security Updates | [Read More](https://medium.com/p/a9c71bfa241a) |
-| Sat, 29 Nov 2025 10:05:09 GMT | Russia Threatens To Block WhatsApp Over “Law Violations” | Techsankar | [Read More](https://medium.com/p/155c741d87e6) |
-| Sat, 29 Nov 2025 10:01:04 GMT | Random Facts About Technology You Never Expected | FactSphereMedia | [Read More](https://medium.com/p/682e1716e015) |
-| Sat, 29 Nov 2025 09:59:41 GMT | Comprehensive Guide to Security Solutions in KSA: Protecting Businesses across Riyadh | Tekshoyabeelyas | [Read More](https://medium.com/p/7bd72cfeaf37) |
-| Sat, 29 Nov 2025 09:53:04 GMT | A Review on: Threat Detection and Mitigation System. | Soumya | [Read More](https://medium.com/p/72bdbc177037) |
-| Sat, 29 Nov 2025 09:49:18 GMT | Groth16 and Proving Your Know The Answer to x²-2x+15=0 | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/029f6db184d0) |
-| Sat, 29 Nov 2025 09:45:23 GMT | Google Machine Learning Engineer Salary 2026: Pay, Levels, Skills, GuideGoogle Machine Learning… | Motherlandlove | [Read More](https://medium.com/p/2a6c84bacd6c) |
-| Sat, 29 Nov 2025 09:38:21 GMT | Understanding Access Control Models: DAC vs RBAC vs MAC | Shaif Ali | [Read More](https://medium.com/p/185059506ac3) |
-| Sat, 29 Nov 2025 09:17:01 GMT | AI is not safe anymore — we need to act now, before its too late! | Ani Bandyopadhyay | [Read More](https://medium.com/p/c43b3b7ade7f) |
