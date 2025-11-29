@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 13:22:39 GMT | RSA-Based JWT Authentication in Spring Boot Microservices (With Distributed Validation in… | Weoto Technologies Private Limited | [Read More](https://medium.com/p/ebcbe5123e52) |
+| Sat, 29 Nov 2025 13:21:42 GMT | How I Switched From Web Dev to Offensive Security in 6 Months | Hania Khan | [Read More](https://medium.com/p/31afdcc2d7be) |
+| Sat, 29 Nov 2025 13:20:34 GMT | STOP Wasting Time: These Are the Only Certifications That Actually Get You Hired in 2025 | Hachtechnology | [Read More](https://medium.com/p/edaaf6c1fff6) |
+| Sat, 29 Nov 2025 13:16:03 GMT | Building KubeSentry: Automated Threat Detection and Isolation in Kubernetes | SANGYEON LEE | [Read More](https://medium.com/p/0c25d16fcc1c) |
+| Sat, 29 Nov 2025 13:12:31 GMT | 404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode | toklas495 | [Read More](https://medium.com/p/54ffeb548e86) |
+| Sat, 29 Nov 2025 13:11:17 GMT | How to Choose the Best Security Company Riverside | Direct Guard Service | [Read More](https://medium.com/p/beff41509974) |
+| Sat, 29 Nov 2025 13:06:06 GMT | The best Job on Earth is in Space. True? | Thomas "Tom" Biege | [Read More](https://medium.com/p/427b66d21a9f) |
+| Sat, 29 Nov 2025 13:04:04 GMT | My A Little Tip Log -23- (Postman) | Hamit CİBO | [Read More](https://medium.com/p/a728e7941761) |
+| Sat, 29 Nov 2025 13:02:11 GMT | Building a Cybersecurity Home Lab — Part 5: Atomic Red Team Setup, Configuration, and Demo | JBXSec | [Read More](https://medium.com/p/1945c1c1329e) |
+| Sat, 29 Nov 2025 12:52:11 GMT | The Nmap Scans That Can Get You Into Trouble (And How to Stay Safe) | Fateyaly | [Read More](https://medium.com/p/a7a4dea7c383) |
+| Sat, 29 Nov 2025 12:50:53 GMT | I Monitored GGPoker’s Activity on My Mac (omg) Here’s What I Found | Demstalfer | [Read More](https://medium.com/p/5be1eaa18f81) |
+| Sat, 29 Nov 2025 12:50:39 GMT | Machine Learning Engineer Requirements: Full 2026 Beginner | Motherlandlove | [Read More](https://medium.com/p/881fe059285e) |
+| Sat, 29 Nov 2025 12:41:39 GMT | Title: Blockchain based E-Voting System — Research Publication | Vandanagraj | [Read More](https://medium.com/p/d122eee9ffe3) |
+| Sat, 29 Nov 2025 12:36:34 GMT | DockerLabs Writeup — Cachopo (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/bf495d61e2c1) |
 | Sat, 29 Nov 2025 12:35:31 GMT | OpenAI Confirms Data Breach — Here’s Who Is Impacted | IC News | [Read More](https://medium.com/p/a8cc6263a1cf) |
+| Sat, 29 Nov 2025 12:34:59 GMT | How Zero-Knowledge Proofs Create Trust, Without Revealing Data | Aky Ars | [Read More](https://medium.com/p/8661d39bf3b1) |
 | Sat, 29 Nov 2025 12:29:28 GMT | Digital Zen with Alacritty & Tmux | Murat Kurkoglu | [Read More](https://medium.com/p/d7d6abb82284) |
 | Sat, 29 Nov 2025 12:26:44 GMT | Cybersecurity Hiring Has Changed Forever: Why Thinking Beats Tools in 2026 | Surinderpal Singh | [Read More](https://medium.com/p/b1e2830ae3e7) |
 | Sat, 29 Nov 2025 12:01:26 GMT | How I Found an Auth Bypass in a Newsletter Subscription System | JEETPAL | [Read More](https://medium.com/p/6c2e3a032f37) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 05:24:27 GMT | DNS Deep Dive: The Internet’s Phone Book That Makes Everything Possible | Satyam Singh | [Read More](https://medium.com/p/c74443a86b53) |
 | Sat, 29 Nov 2025 05:16:20 GMT | The Secret Difference Between Talking and Actually Communicating | Abhinav Misra | [Read More](https://medium.com/p/39f1e3fa92c2) |
 | Sat, 29 Nov 2025 05:14:40 GMT | How to actually get a job in Cyber Security | Jbird | [Read More](https://medium.com/p/d131d10b185e) |
-| Sat, 29 Nov 2025 05:04:12 GMT | Business process plan for Federal Technology (FedRAMP) | Joe Alongi | [Read More](https://medium.com/p/da00c64eca50) |
-| Sat, 29 Nov 2025 05:02:30 GMT | How To Secure Yourself Online | Mr Jokar | [Read More](https://medium.com/p/7e52449ecd6f) |
-| Sat, 29 Nov 2025 05:02:20 GMT | Top Insights on Best It Courses: Exploring Certifications | postgraduateguru | [Read More](https://medium.com/p/9bb67c18b896) |
-| Sat, 29 Nov 2025 04:54:59 GMT | Solving the PicoCTF “Bitlocker” Challenge (Forensics) | Nitesh Kumar shah | [Read More](https://medium.com/p/5833f914efa1) |
-| Sat, 29 Nov 2025 04:27:05 GMT | Top Five Cyber Security Services in Thane: What to Consider | Maxatlasofficial | [Read More](https://medium.com/p/fa68a5d16bf2) |
-| Sat, 29 Nov 2025 04:27:02 GMT | Broken Access Control: A Silent Threat in Web Apps | Moganti Nehanth | [Read More](https://medium.com/p/c731a5dfa1c9) |
-| Sat, 29 Nov 2025 04:06:18 GMT | Alexa, tell her what I really mean.” | Jim DeLillo | [Read More](https://medium.com/p/83830e04940f) |
-| Sat, 29 Nov 2025 04:06:00 GMT | Our AI Had 99.1% Accuracy. We Still Lost $3.2M. Here’s Why. | AhmedAbdelmenem | [Read More](https://medium.com/p/fbcbcba51746) |
-| Sat, 29 Nov 2025 04:01:44 GMT | THM- Kenobi Writeup | cbev | [Read More](https://medium.com/p/78a97a2d1d71) |
-| Sat, 29 Nov 2025 03:44:55 GMT | Securing Third-Party PCF Controls with a DevSecOps Pipeline | Mustaque Ehiya | [Read More](https://medium.com/p/630a0236e1fd) |
-| Sat, 29 Nov 2025 03:32:12 GMT | Fantasy Hub: How a Subscription-Based Trojan Expands Mobile Espionage | Deven Chhajed | [Read More](https://medium.com/p/5be3d8b67f82) |
-| Sat, 29 Nov 2025 03:29:42 GMT | The hidden flaw in password reset tokens: Weak Randomness | Mohamed Ahmed | [Read More](https://medium.com/p/0f015a5c6430) |
-| Sat, 29 Nov 2025 03:27:09 GMT | The Collapse of Coding: Why 2025 Will Be the Last Year We Write Real Code | The Dev Notebook | [Read More](https://medium.com/p/039bd9b3b4d7) |
-| Sat, 29 Nov 2025 03:09:42 GMT | Taking Back Your Digital Privacy: A Realistic Guide Summary | Murat Alagoz | [Read More](https://medium.com/p/d3fc360ea36c) |
-| Sat, 29 Nov 2025 03:06:36 GMT | OSINT: From Instagram to your kitchen | umbraXsecure | [Read More](https://medium.com/p/882cd8825f39) |
