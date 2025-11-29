@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 23:28:00 GMT | My journey Through Cyber Security. Let’s Start at the Beginning, Come Get to Know Me. | Zacdmw | [Read More](https://medium.com/p/fbb882ab0fe9) |
 | Sat, 29 Nov 2025 23:13:43 GMT | Bring him to her | Alex Dance | [Read More](https://medium.com/p/02cd159cd824) |
 | Sat, 29 Nov 2025 22:57:56 GMT | Introduction to SQL Injection (SQLi) | Red_Ghost | [Read More](https://medium.com/p/aaceeb0bc8f7) |
 | Sat, 29 Nov 2025 22:56:48 GMT | How Quantum Physics and the Vedas Are Reshaping the Future of AI and Information Technology | Sandip Prashar | [Read More](https://medium.com/p/6d9b9f626c17) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 14:21:17 GMT | Why “Safety & Security” Should Not Be One Department and Why Combining Them Creates Risk | Peter Uliano | [Read More](https://medium.com/p/cbe289307e83) |
 | Sat, 29 Nov 2025 14:10:40 GMT | DATA PRIVACY AND DIGITAL DATA PROTECTION ACT (DPDPA), 2023 | Rakshita | [Read More](https://medium.com/p/6c0cc24f1b94) |
 | Sat, 29 Nov 2025 14:07:31 GMT | Vulnlab Boolean-Based Blind SQL Injection | Abang_xin | [Read More](https://medium.com/p/44766b108180) |
-| Sat, 29 Nov 2025 14:02:52 GMT | Albiriox: The New Android Malware That Threatens Banking and Crypto Security | Chetan Seripally | [Read More](https://medium.com/p/442a47d34cf5) |
