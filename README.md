@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 03:32:12 GMT | Fantasy Hub: How a Subscription-Based Trojan Expands Mobile Espionage | Deven Chhajed | [Read More](https://medium.com/p/5be3d8b67f82) |
+| Sat, 29 Nov 2025 03:29:42 GMT | The hidden flaw in password reset tokens: Weak Randomness | Mohamed Ahmed | [Read More](https://medium.com/p/0f015a5c6430) |
+| Sat, 29 Nov 2025 03:27:09 GMT | The Collapse of Coding: Why 2025 Will Be the Last Year We Write Real Code | The Dev Notebook | [Read More](https://medium.com/p/039bd9b3b4d7) |
 | Sat, 29 Nov 2025 03:09:42 GMT | Taking Back Your Digital Privacy: A Realistic Guide Summary | Murat Alagoz | [Read More](https://medium.com/p/d3fc360ea36c) |
 | Sat, 29 Nov 2025 03:06:36 GMT | OSINT: From Instagram to your kitchen | umbraXsecure | [Read More](https://medium.com/p/882cd8825f39) |
 | Sat, 29 Nov 2025 03:02:06 GMT | The RF Layer Most Pentesters Still Overlook — and Why It’s Becoming Critical | Michael Preston | [Read More](https://medium.com/p/184e130d5293) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 28 Nov 2025 16:53:17 GMT | The day after the first Cryptographically Relevant Quantum Computer(CRQC) | Mark Tehrani | [Read More](https://medium.com/p/19e5eaf147c3) |
 | Fri, 28 Nov 2025 16:52:31 GMT | Unmasking a new DPRK Front Company DredSoftLabs | Mees van Wickeren | [Read More](https://medium.com/p/bf9ed544d690) |
 | Fri, 28 Nov 2025 16:31:06 GMT | Botnets Unmasked: How GreyNoise Detects Hidden Threats Across the Internet. | eL Njas!™ | [Read More](https://medium.com/p/0e27105dac84) |
-| Fri, 28 Nov 2025 16:26:02 GMT | The Ultimate Guide to Starting a Cybersecurity GRC Career in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/5249d1a96750) |
-| Fri, 28 Nov 2025 16:23:50 GMT | Windows 11 Wants AI Apps Inside Your File Explorer. Here’s Why That Should Worry You | The Atomic Architect | [Read More](https://medium.com/p/86a4472048bd) |
-| Fri, 28 Nov 2025 16:19:22 GMT | แชร์ประสบการณ์และการเตรียมตัวสอบ OSCP+ ครั้งแรก 2025 | Clumsy | [Read More](https://medium.com/p/146f51ee7964) |
