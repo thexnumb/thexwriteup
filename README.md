@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 29 Nov 2025 19:11:22 GMT | The Phantom App: How Hackers Stole Data Without Breaking a Single Password | S Kumar | [Read More](https://medium.com/p/77b62113f312) |
+| Sat, 29 Nov 2025 19:06:46 GMT | Whoever thought that we would be in a place where something could become more addictive than the… | Seth J | [Read More](https://medium.com/p/b1a2f81c55a9) |
+| Sat, 29 Nov 2025 19:04:43 GMT | The Unpatchable Vulnerability: Why the Best Hackers Don’t Write Code | S Kumar | [Read More](https://medium.com/p/99681c669b3f) |
+| Sat, 29 Nov 2025 19:03:03 GMT | When My Son Turned Blue, I Met a Version of Myself I Never Knew | Binte Habib | [Read More](https://medium.com/p/5b64ed368ef6) |
+| Sat, 29 Nov 2025 19:02:09 GMT | Era — HackTheBox Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/8f6c71288153) |
+| Sat, 29 Nov 2025 19:01:14 GMT | Defense Against the Dark Code: A Pentester’s Journey Into Secure Code Review | The Wizard's Voice | [Read More](https://medium.com/p/9cd0c88b9933) |
+| Sat, 29 Nov 2025 18:58:50 GMT | The Collateral Damage of Public OSINT Investigations | Rabail Zaheer | [Read More](https://medium.com/p/69402791ee6f) |
+| Sat, 29 Nov 2025 18:57:23 GMT | THM — Basic Pentesting — Write-up - Hussein Ibrahim | Hussin Ibrahim | [Read More](https://medium.com/p/4bd5eb44d562) |
+| Sat, 29 Nov 2025 18:56:08 GMT | Stop Accidental DDoS: Rate Limiting & Throttling in Spring Boot 3 with Bucket4j + Redis | Priyaranjanpatra | [Read More](https://medium.com/p/3a34d7c3393f) |
+| Sat, 29 Nov 2025 18:55:13 GMT | AI Will Change Pentesting — Here’s How to Stay Valuable | Hania Khan | [Read More](https://medium.com/p/40249a4a2f34) |
+| Sat, 29 Nov 2025 18:44:55 GMT | A New Home for My Research Notes | sockpuppets | [Read More](https://medium.com/p/99383c141096) |
+| Sat, 29 Nov 2025 18:43:53 GMT | Ports — The Digital Doors of the Internet | KHAIRUL ISLAM | [Read More](https://medium.com/p/96b2b12a6004) |
+| Sat, 29 Nov 2025 18:43:46 GMT | ️ The Invisible Threat: Backdoor Attacks and Defense Strategies for Machine Learning Models | Lumae | [Read More](https://medium.com/p/24e2772739ff) |
 | Sat, 29 Nov 2025 18:41:07 GMT | Deepfake Deception: How I Hacked Biometric Authentication with $ and a YouTube Video | Iski | [Read More](https://medium.com/p/6c1ee367b28f) |
 | Sat, 29 Nov 2025 18:39:51 GMT | What Does Carding Do? Understanding the Cybercrime Behind Stolen Cards | Candidgirlsofficial | [Read More](https://medium.com/p/9979dbaf99bd) |
 | Sat, 29 Nov 2025 18:36:24 GMT | The Internet Held Its Breath: Reflections on Cloudflare’s November 2025 Outage | Soumyadipta Birabar | [Read More](https://medium.com/p/4dca7946ca92) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 11:48:49 GMT | The Ultimate Guide: How to Import Multiple VCF Files into Outlook | EINITIAL24 | [Read More](https://medium.com/p/201301f57036) |
 | Sat, 29 Nov 2025 11:46:20 GMT | Why Many Beginners Want Hands On First and Why Fundamentals Still Matter | Raleigh Guevarra | [Read More](https://medium.com/p/135e87dbe9ae) |
 | Sat, 29 Nov 2025 11:45:44 GMT | PwnTillDawn JuniorDev (Medium) Writeup | Bazil Brohi | [Read More](https://medium.com/p/1a2636cc1525) |
-| Sat, 29 Nov 2025 11:44:41 GMT | Why CORS Can’t Stop CSRF: A Deep Dive Into Browser Form Behavior, Simple Requests, and… | Rehan Ansari | [Read More](https://medium.com/p/6a38569a6862) |
-| Sat, 29 Nov 2025 11:42:11 GMT | SSH Logs: Detect Attacks, Intruders, and Odd Behavior | bektiaw | [Read More](https://medium.com/p/d13fc8c1f39b) |
-| Sat, 29 Nov 2025 11:28:11 GMT | From Owner to Orphaned: Exploiting a Race Condition in Organization Management | Amed Sherif | [Read More](https://medium.com/p/c6380d4e57ba) |
-| Sat, 29 Nov 2025 11:25:00 GMT | Review Infrastruktur Server ORI777 & Solusi Akses Anti-Lag 2025 | Rakanesia – Game Online Gratis | [Read More](https://medium.com/p/3cde2618823b) |
-| Sat, 29 Nov 2025 11:24:12 GMT | Write-up: CyCTF25 Qualifications — SimpleCrackMe (Reverse Engineering) | Mohamed Elansari | [Read More](https://medium.com/p/943b26587262) |
-| Sat, 29 Nov 2025 11:21:59 GMT | The One-Click Privacy Toggle That Actually Works | Sachin      Verlekar | [Read More](https://medium.com/p/94c4192ebb2a) |
-| Sat, 29 Nov 2025 11:18:33 GMT | PROJETO mini-lab: Monitoramento com @Wazuh >Atulizações: Active-Response< | EduKayky | [Read More](https://medium.com/p/86306a5b7abd) |
-| Sat, 29 Nov 2025 11:11:07 GMT | Machine Learning Engineer Salary in US 2026: Full Pay Breakdown Guide | Motherlandlove | [Read More](https://medium.com/p/40c6f3ff7aec) |
-| Sat, 29 Nov 2025 11:08:36 GMT | Gorey IT | Gorey IT | [Read More](https://medium.com/p/5b4f7b99a672) |
-| Sat, 29 Nov 2025 11:05:30 GMT | The Illusion of Safety: Why Your “Zero Incidents” Report Might Be Lying to You | Vijay Kumar Gupta | [Read More](https://medium.com/p/de34a2ef7f0f) |
-| Sat, 29 Nov 2025 11:03:24 GMT | The Top 5 Blue Team Tools Every Defender Should Know | Cybervolt | [Read More](https://medium.com/p/cd68fcbe6d2f) |
-| Sat, 29 Nov 2025 11:01:25 GMT | The Airbus A320 Recall and the Hidden Cost of Software Updates | Henrique Cordeiro | [Read More](https://medium.com/p/fa9d529bacb1) |
-| Sat, 29 Nov 2025 11:01:21 GMT | Why ‘Thank You’ Costs a Million Dollars to ChatGPT | Arkar Phyo | [Read More](https://medium.com/p/8132e549395c) |
