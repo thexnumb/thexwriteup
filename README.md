@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 21:26:35 GMT | 0-Click Account Takeover via Password Reset IDOR | Ibtissam | [Read More](https://medium.com/p/182f6fee2a86) |
+| Sun, 30 Nov 2025 21:18:22 GMT | রহস্যময় ডিপ এবং ডার্ক ওয়েবের ভুবনে প্রবেশ করুন! | Humayun Shariar Himu | [Read More](https://medium.com/p/5fd830c50014) |
+| Sun, 30 Nov 2025 21:02:05 GMT | Weaponizing Web Content: How AI Agents Can Be Hijacked Through Stealth Prompt Injection | Christian Barrett | [Read More](https://medium.com/p/b4ae1c60d821) |
 | Sun, 30 Nov 2025 21:00:26 GMT | What Happens When Privacy Becomes a Crime? | Ethics In Beta | [Read More](https://medium.com/p/f26f22033fbc) |
 | Sun, 30 Nov 2025 20:52:23 GMT | Building a Hybrid Web Application with EC2, CloudFront, and S3 — A Practical Networking Workflow | Jahson Jno-Baptiste | [Read More](https://medium.com/p/a0bd1e48bc1d) |
 | Sun, 30 Nov 2025 20:50:47 GMT | Day 8! | Blessing Michael | [Read More](https://medium.com/p/2c314baa9ff1) |
@@ -110,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 13:48:12 GMT | Cloud Project: Secure Password Validation & OTP Verification Using AWS (S3, Lambda, DynamoDB, SES… | The Commoness | [Read More](https://medium.com/p/e77f5c35ff34) |
 | Sun, 30 Nov 2025 13:37:15 GMT | Secure ArgoCD with End-to-End TLS: Terminate HTTPS at the ArgoCD Server, Using cert-manager, Let’s… | VajrapuSrikanth | [Read More](https://medium.com/p/77dc5f8a1c8f) |
 | Sun, 30 Nov 2025 13:09:54 GMT | Black Light AI: Autonomous Cyber Threat & Risk Intelligence | Anirban Halder | [Read More](https://medium.com/p/4f5d03faa1d6) |
-| Sun, 30 Nov 2025 12:56:18 GMT | Eski Araçlar ve “Yeni Saldırıların İlham Kaynakları” | Ali Cihad GEDİK | [Read More](https://medium.com/p/d7837ce0dc88) |
-| Sun, 30 Nov 2025 12:49:28 GMT | Turning Old Electronics Into Digital Surveillance Tools
- A Field Manual From The Rusted Edge Of… | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f7486b09323f) |
-| Sun, 30 Nov 2025 12:48:56 GMT | Beyond Nmap: Building Custom Recon Pipelines | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/106c32f474f7) |
