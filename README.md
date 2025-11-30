@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 13:09:54 GMT | Black Light AI: Autonomous Cyber Threat & Risk Intelligence | Anirban Halder | [Read More](https://medium.com/p/4f5d03faa1d6) |
+| Sun, 30 Nov 2025 12:56:18 GMT | Eski Araçlar ve “Yeni Saldırıların İlham Kaynakları” | Ali Cihad GEDİK | [Read More](https://medium.com/p/d7837ce0dc88) |
+| Sun, 30 Nov 2025 12:49:28 GMT | Turning Old Electronics Into Digital Surveillance Tools
+ A Field Manual From The Rusted Edge Of… | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f7486b09323f) |
+| Sun, 30 Nov 2025 12:48:56 GMT | Beyond Nmap: Building Custom Recon Pipelines | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/106c32f474f7) |
+| Sun, 30 Nov 2025 12:48:13 GMT | The Dark Side of Java Streams: Why They Can Make Your Code Slower Instead of Cleaner | The Dev Notebook | [Read More](https://medium.com/p/fcb5563d2e89) |
+| Sun, 30 Nov 2025 12:47:24 GMT | The Road to Aura Stealer | Chen Aviani | [Read More](https://medium.com/p/827c8b25e77f) |
+| Sun, 30 Nov 2025 12:45:27 GMT | Oracle Transparent Data Encryption (TDE) in 19c | MdAsifHussain | [Read More](https://medium.com/p/934fb7f97e6a) |
+| Sun, 30 Nov 2025 12:39:48 GMT | The Glass Jar | quintics | [Read More](https://medium.com/p/0bfe1dab43bf) |
+| Sun, 30 Nov 2025 12:39:42 GMT | Make Your Instagram Hack-Proof: The Simple Guide Everyone Should Know | Persis Tafflin | [Read More](https://medium.com/p/d352bf4790c7) |
+| Sun, 30 Nov 2025 12:35:04 GMT | The Corporate Truth We Don’t Talk About: Not Everyone Needs to Be a Leader | Sivakumar Ravi | [Read More](https://medium.com/p/263420899293) |
 | Sun, 30 Nov 2025 12:32:02 GMT | Guide to understanding Website Structure | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/89a046bbd565) |
 | Sun, 30 Nov 2025 12:24:17 GMT | Malware Analysis Course for Cyber Security Learners | Manisha Chaudhary | [Read More](https://medium.com/p/bc8df5bf6555) |
 | Sun, 30 Nov 2025 12:22:15 GMT | Vibe Coding 實戰必看！10 個會讓你專案翻車的技術陷阱 | 林鼎淵 | [Read More](https://medium.com/p/4a7f80f5833b) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 05:13:14 GMT | What is bot traffic? How to block only bad bots from your Web Service | STCLab, Inc. | [Read More](https://medium.com/p/a08d36920312) |
 | Sun, 30 Nov 2025 05:05:58 GMT | hello this is my first blog | monster | [Read More](https://medium.com/p/3228ef65dcab) |
 | Sun, 30 Nov 2025 05:01:06 GMT | Detecting Phishing Emails with AI | Precious Gautam | [Read More](https://medium.com/p/1db9a0e55016) |
-| Sun, 30 Nov 2025 04:45:46 GMT | How to Safely Concatenate Strings in C# | Ravi Patil | [Read More](https://medium.com/p/3c72fea5925e) |
-| Sun, 30 Nov 2025 04:42:56 GMT | Understanding Linux Distros: What They Are and How They Differ | Ethan's Trail | [Read More](https://medium.com/p/064325cb56ca) |
-| Sun, 30 Nov 2025 04:41:12 GMT | Getting Started with grep in Linux (Day 8 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/ba092908392c) |
-| Sun, 30 Nov 2025 04:32:28 GMT | Why Self-Hosting Bug Bounties Might Be Your Biggest Security Mistake in 2025 | ProwlSec | [Read More](https://medium.com/p/1efb9408183f) |
-| Sun, 30 Nov 2025 04:30:59 GMT | Quantum attack flow: how blockchains will actually break — step by step | KoBaChain | [Read More](https://medium.com/p/de125e1fdb7c) |
-| Sun, 30 Nov 2025 04:14:38 GMT | I Failed? | Oluwademiladeogo | [Read More](https://medium.com/p/678e6950f778) |
-| Sun, 30 Nov 2025 04:07:56 GMT | TryHackMe : Net Sec Challenge | glitch | [Read More](https://medium.com/p/0e0c5215014c) |
-| Sun, 30 Nov 2025 04:06:23 GMT | The Invisible Barriers: Why It Is So Difficult for Crypto-Fraud Victims to Share Their Stories | Quiscalus Asi (The Quiscalus Project) | [Read More](https://medium.com/p/4141fbfce7f1) |
-| Sun, 30 Nov 2025 04:04:49 GMT | The Digital Padlock: How SSL/TLS Secures Your Website’s DataBeyond HTTPS | Deeghayu Fernando | [Read More](https://medium.com/p/6a7b54af9737) |
-| Sun, 30 Nov 2025 04:04:27 GMT | Behind the UI: Why API Security Matters More Than Ever | Stella Obatoye | [Read More](https://medium.com/p/be288b9deaf7) |
