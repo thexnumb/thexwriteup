@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 22:25:24 GMT | BYTEBURST #4 “The Synchronization of Intelligence” | Yuri Trukhin | [Read More](https://medium.com/p/e8ad0d409372) |
+| Sun, 30 Nov 2025 22:24:44 GMT | Active Directory Reconnaissance | S12 - 0x12Dark Development | [Read More](https://medium.com/p/26483ecc0943) |
+| Sun, 30 Nov 2025 22:20:31 GMT | How Our “Chill” CTF Turned Into an Uptime Arms Race | AbdulAzeez AbdulHakeem | [Read More](https://medium.com/p/f3af76f6e82e) |
 | Sun, 30 Nov 2025 22:13:27 GMT | “Sha1-Hulud Just Triggered On My Machine… What do I do?” | Security Guy | [Read More](https://medium.com/p/ee0e383e790d) |
+| Sun, 30 Nov 2025 22:11:48 GMT | Your IoT Devices Are Proving Their Identity With Post-It Notes | Tim McAllister | [Read More](https://medium.com/p/efdbbf879251) |
 | Sun, 30 Nov 2025 22:10:45 GMT | Understanding Modern Supply Chain Attacks | Geoffrey Wenger | [Read More](https://medium.com/p/133f2f6ba8d7) |
 | Sun, 30 Nov 2025 22:03:50 GMT | FBI Seeks (face recogn) AI-Powered Drone Surveillance: Executive Brief & Comprehensive Analysis | Berend Watchus | [Read More](https://medium.com/p/348722f00290) |
 | Sun, 30 Nov 2025 21:42:10 GMT | “Mom, I Don’t Want to Marry an Older Man” — Why Age Gap Marriage Pressure Is Changing | Queena Bryan | [Read More](https://medium.com/p/25637da5bb0a) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 14:24:17 GMT | Multiple London Councils Hit by Major Cyber Incidents | Himanshu Bhatt | [Read More](https://medium.com/p/54423663d48d) |
 | Sun, 30 Nov 2025 14:18:19 GMT | ROS2: Remote Container Injection & Distributed DDS Poisoning as a Botnet Vector | Мартин. | [Read More](https://medium.com/p/a51f232469aa) |
 | Sun, 30 Nov 2025 14:15:04 GMT | MacSync Stealer: Full Technical Analysis of a New macOS Malware Disguised as Cloudflare | Maurizio Aiello | [Read More](https://medium.com/p/e374d1b81fc5) |
-| Sun, 30 Nov 2025 14:06:48 GMT | Program Management with AI Prompts | Kinjal Panchal Rami | [Read More](https://medium.com/p/d13c741eedbe) |
-| Sun, 30 Nov 2025 14:04:49 GMT | The Fundamentals of API Security and Why It Matters | Esther Kenneth | [Read More](https://medium.com/p/547c8a4f9a86) |
-| Sun, 30 Nov 2025 14:01:59 GMT | Kali Linux vs Parrot OS: Choosing the Right Security Toolkit for Your Journey | Ethan's Trail | [Read More](https://medium.com/p/404f78cd4b05) |
-| Sun, 30 Nov 2025 13:51:15 GMT | The Hackers Labs Writeup — Microchoft (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/4b8448a4bb06) |
