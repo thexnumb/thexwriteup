@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 22:46:14 GMT | How to Use a VPN for a Finland IP | Awais Khan | [Read More](https://medium.com/p/dadf50e1f35a) |
 | Sun, 30 Nov 2025 22:25:24 GMT | BYTEBURST #4 “The Synchronization of Intelligence” | Yuri Trukhin | [Read More](https://medium.com/p/e8ad0d409372) |
 | Sun, 30 Nov 2025 22:24:44 GMT | Active Directory Reconnaissance | S12 - 0x12Dark Development | [Read More](https://medium.com/p/26483ecc0943) |
 | Sun, 30 Nov 2025 22:20:31 GMT | How Our “Chill” CTF Turned Into an Uptime Arms Race | AbdulAzeez AbdulHakeem | [Read More](https://medium.com/p/f3af76f6e82e) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 14:24:56 GMT | Week 7: Making It Beautiful | ZAYN | [Read More](https://medium.com/p/479c5ac1b03e) |
 | Sun, 30 Nov 2025 14:24:17 GMT | Multiple London Councils Hit by Major Cyber Incidents | Himanshu Bhatt | [Read More](https://medium.com/p/54423663d48d) |
 | Sun, 30 Nov 2025 14:18:19 GMT | ROS2: Remote Container Injection & Distributed DDS Poisoning as a Botnet Vector | Мартин. | [Read More](https://medium.com/p/a51f232469aa) |
-| Sun, 30 Nov 2025 14:15:04 GMT | MacSync Stealer: Full Technical Analysis of a New macOS Malware Disguised as Cloudflare | Maurizio Aiello | [Read More](https://medium.com/p/e374d1b81fc5) |
