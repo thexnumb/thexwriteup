@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 08:34:50 GMT | The Exhaustive Combinatorial and Cryptographic Analysis of BIP-39 Mnemonic Permutations | Thinker | [Read More](https://medium.com/p/b7d581aeb3c5) |
+| Sun, 30 Nov 2025 08:28:12 GMT | The Heart of Cyber Threat Hunting: A Beginner’s Guide to EDR Telemetry Analysis | Esra Kayhan | [Read More](https://medium.com/p/bad457aefe3b) |
 | Sun, 30 Nov 2025 08:14:57 GMT | How The First Agentic AI Cyberattack Looks Suspiciously Good for AI Companies | Hamza Boulahia | [Read More](https://medium.com/p/611d4e4f9db8) |
 | Sun, 30 Nov 2025 08:14:44 GMT | 5 Powerful Ways to Slash Remediation Debt Fast | Pentest_Testing_Corp | [Read More](https://medium.com/p/b0aef08b5aaa) |
 | Sun, 30 Nov 2025 08:09:24 GMT | Apple’s Privacy Promise: What It Really Means for You | K_Anik | [Read More](https://medium.com/p/b4ab39758925) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 19:30:47 GMT | Windows Internals — For Beginners | Ace | [Read More](https://medium.com/p/31f04ade0db9) |
 | Sat, 29 Nov 2025 19:21:09 GMT | m0leCon CTF Snake2 Anti-Cheat Bypass — Full Technical Write-Up (CTF + Pentest Hybrid) | amer7x | [Read More](https://medium.com/p/811d3ded3b93) |
 | Sat, 29 Nov 2025 19:14:44 GMT | The “Dune” Worm Returns: Understanding the massive Shai-Hulud 2.0 Supply Chain Attack | Ayush Bulbule | [Read More](https://medium.com/p/6561fd6c2517) |
-| Sat, 29 Nov 2025 19:13:47 GMT | Akira Binary Reverse Analysis — v2 | Robert Gonzalez | [Read More](https://medium.com/p/8b6f02ae2020) |
-| Sat, 29 Nov 2025 19:11:22 GMT | The Phantom App: How Hackers Stole Data Without Breaking a Single Password | S Kumar | [Read More](https://medium.com/p/77b62113f312) |
