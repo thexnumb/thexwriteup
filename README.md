@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 03:32:10 GMT | 2. Master the Basics, Break the Web: HTTP Fundamentals | Abinesh M | [Read More](https://medium.com/p/05614a459870) |
+| Sun, 30 Nov 2025 03:16:41 GMT | SkyCloak: The Invisible Threat Quietly Targeting Military Networks | Deven Chhajed | [Read More](https://medium.com/p/f2eb352943a0) |
+| Sun, 30 Nov 2025 02:56:59 GMT | Whonix 18.0 traz LXQt, suporte total a IPv6 e Kloak reescrito para Wayland | Alyson Guilherme Fernandes de Melo | [Read More](https://medium.com/p/ed117834a26c) |
+| Sun, 30 Nov 2025 02:47:34 GMT | LSASS Credential Dumping: The Silent Attack That Gives Hackers the Keys to Your Entire Domain | Aufarifqi | [Read More](https://medium.com/p/d0e975d2a53a) |
+| Sun, 30 Nov 2025 02:46:38 GMT | “Data Protection Board Calling?” A New Scam Is Live! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/5347f0a8f3ab) |
+| Sun, 30 Nov 2025 02:32:09 GMT | FastAPI + OAuth Device Code: Secure TV & CLI Logins at Scale | Codastra | [Read More](https://medium.com/p/b7ff11a7a39a) |
+| Sun, 30 Nov 2025 02:08:20 GMT | I am a multidisciplinary professional with a strong foundation in pharmacy, information systems… | Hiwot Tasissa | [Read More](https://medium.com/p/75d1c91284ba) |
 | Sun, 30 Nov 2025 01:42:10 GMT | Beyond Likes: Finding Your True Confidant in a Lonely World | Poly-blang | [Read More](https://medium.com/p/94e0673256fe) |
 | Sun, 30 Nov 2025 01:34:56 GMT | AI Security By Cloud Commercial Holdings LLC | Cloud Commercial Holdings LLC | [Read More](https://medium.com/p/9ce3db039334) |
 | Sun, 30 Nov 2025 01:34:45 GMT | Code is Fine, Architecture is Not: What the OWASP Top 10:2025 RC Tells Us About the Next Generation… | Nmullenski | [Read More](https://medium.com/p/87756efa3547) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 15:58:23 GMT | “My AI Agent Just Did WHAT?” | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/e2f1d2cc43cd) |
 | Sat, 29 Nov 2025 15:57:58 GMT | “It Looked Safe When the Agent Checked…” — The Hidden AI Security Flaw No One Saw Coming | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/31c16b698294) |
 | Sat, 29 Nov 2025 15:44:23 GMT | North Korean OtterCookie Malware Targets Modern Developer Workflows | Geoffrey Wenger | [Read More](https://medium.com/p/6f339234937c) |
-| Sat, 29 Nov 2025 15:40:42 GMT | Why Cloud Cost Governance Matters for Cyber Resilience | Graylog | [Read More](https://medium.com/p/1168aea329bb) |
-| Sat, 29 Nov 2025 15:36:50 GMT | Why API Security Should Be Every Developer’s Priority | Oluwatobiloba Mercy Akinwunmi | [Read More](https://medium.com/p/cd6cf1344bf3) |
-| Sat, 29 Nov 2025 15:33:36 GMT | Geopolitical Instability? Why PAXG (Digital Gold) Is Safer Than Cash Under Your Mattress | poseidon | [Read More](https://medium.com/p/80d32dd98b45) |
-| Sat, 29 Nov 2025 15:32:05 GMT | AI From The Perspective of a Cybersecurity Engineer | Aybalasena | [Read More](https://medium.com/p/5f585f5995bd) |
-| Sat, 29 Nov 2025 15:25:15 GMT | Mastering Nmap: The Ultimate Guide to Advanced Network Scanning | Ajmir khan | [Read More](https://medium.com/p/5c5608c289ef) |
-| Sat, 29 Nov 2025 15:11:25 GMT | Client-Side JSON Is the Weak Link: A Rule-Based ‘Semantic Envelope’ to Protect What You Ship | An Nguyen | [Read More](https://medium.com/p/579451fc1181) |
-| Sat, 29 Nov 2025 15:03:13 GMT | Threat Model: SIM Swapping And How To Protect Yourself | Danny | [Read More](https://medium.com/p/b6e94f860de5) |
