@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 22:13:27 GMT | “Sha1-Hulud Just Triggered On My Machine… What do I do?” | Security Guy | [Read More](https://medium.com/p/ee0e383e790d) |
+| Sun, 30 Nov 2025 22:10:45 GMT | Understanding Modern Supply Chain Attacks | Geoffrey Wenger | [Read More](https://medium.com/p/133f2f6ba8d7) |
+| Sun, 30 Nov 2025 22:03:50 GMT | FBI Seeks (face recogn) AI-Powered Drone Surveillance: Executive Brief & Comprehensive Analysis | Berend Watchus | [Read More](https://medium.com/p/348722f00290) |
+| Sun, 30 Nov 2025 21:42:10 GMT | “Mom, I Don’t Want to Marry an Older Man” — Why Age Gap Marriage Pressure Is Changing | Queena Bryan | [Read More](https://medium.com/p/25637da5bb0a) |
 | Sun, 30 Nov 2025 21:26:35 GMT | 0-Click Account Takeover via Password Reset IDOR | Ibtissam | [Read More](https://medium.com/p/182f6fee2a86) |
 | Sun, 30 Nov 2025 21:18:22 GMT | রহস্যময় ডিপ এবং ডার্ক ওয়েবের ভুবনে প্রবেশ করুন! | Humayun Shariar Himu | [Read More](https://medium.com/p/5fd830c50014) |
 | Sun, 30 Nov 2025 21:02:05 GMT | Weaponizing Web Content: How AI Agents Can Be Hijacked Through Stealth Prompt Injection | Christian Barrett | [Read More](https://medium.com/p/b4ae1c60d821) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 14:04:49 GMT | The Fundamentals of API Security and Why It Matters | Esther Kenneth | [Read More](https://medium.com/p/547c8a4f9a86) |
 | Sun, 30 Nov 2025 14:01:59 GMT | Kali Linux vs Parrot OS: Choosing the Right Security Toolkit for Your Journey | Ethan's Trail | [Read More](https://medium.com/p/404f78cd4b05) |
 | Sun, 30 Nov 2025 13:51:15 GMT | The Hackers Labs Writeup — Microchoft (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/4b8448a4bb06) |
-| Sun, 30 Nov 2025 13:49:37 GMT | Insecure Account Deletion | Virendra Kumar | [Read More](https://medium.com/p/2d5cd0555129) |
-| Sun, 30 Nov 2025 13:48:12 GMT | Cloud Project: Secure Password Validation & OTP Verification Using AWS (S3, Lambda, DynamoDB, SES… | The Commoness | [Read More](https://medium.com/p/e77f5c35ff34) |
-| Sun, 30 Nov 2025 13:37:15 GMT | Secure ArgoCD with End-to-End TLS: Terminate HTTPS at the ArgoCD Server, Using cert-manager, Let’s… | VajrapuSrikanth | [Read More](https://medium.com/p/77dc5f8a1c8f) |
-| Sun, 30 Nov 2025 13:09:54 GMT | Black Light AI: Autonomous Cyber Threat & Risk Intelligence | Anirban Halder | [Read More](https://medium.com/p/4f5d03faa1d6) |
