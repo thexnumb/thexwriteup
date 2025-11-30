@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 17:38:05 GMT | What Is a WiFi Deauthentication Attack? How Fake Disconnect Messages Work | Natarajan C K | [Read More](https://medium.com/p/6b3a74b4abab) |
+| Sun, 30 Nov 2025 17:37:17 GMT | How I Tricked an AI Into Spilling Its Secrets (And Made a Pretty Penny) | Iski | [Read More](https://medium.com/p/b35cb2374f63) |
+| Sun, 30 Nov 2025 17:32:36 GMT | Our AI Missed 847 Alerts Over 19 Days. We Lost $18.7M in Stolen IP. | AhmedAbdelmenem | [Read More](https://medium.com/p/f621c008a748) |
+| Sun, 30 Nov 2025 17:26:54 GMT | Why Self-Supervised Learning Is Becoming the Future of Intrusion Detection | Faysal Dhimbil | [Read More](https://medium.com/p/6a54659a64fe) |
+| Sun, 30 Nov 2025 17:26:07 GMT | Shyoski | SHYOSKI | [Read More](https://medium.com/p/d35d161f7e3a) |
+| Sun, 30 Nov 2025 17:18:28 GMT | Proving Grounds - Fish | jniket | [Read More](https://medium.com/p/686641bf1bdc) |
 | Sun, 30 Nov 2025 17:14:53 GMT | Cybersecurity Foundations: 24 Essential Terms Everyone Should Understand | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/dd02425b5c9d) |
+| Sun, 30 Nov 2025 17:11:10 GMT | How I Stay Grounded Leading in Cybersecurity My Non-Negotiables: Faith, Family, and Resilience | Fook Hwa Tan | [Read More](https://medium.com/p/5ea412adf81e) |
+| Sun, 30 Nov 2025 17:09:26 GMT | A Client’s Transformation Story From Firefighting to Foresight: A Client’s Journey to Cyber… | Fook Hwa Tan | [Read More](https://medium.com/p/43324e32bc9a) |
+| Sun, 30 Nov 2025 17:07:02 GMT | The Rise of Everyday Cyber Threats: How Hackers Are Targeting Ordinary People in 2025 | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/d7024ad6a2f5) |
 | Sun, 30 Nov 2025 17:03:23 GMT | TryHackMe: Anonymous — CTF Walkthrough | Sefa Toptancı | [Read More](https://medium.com/p/97000c5fb0be) |
 | Sun, 30 Nov 2025 17:02:32 GMT | Wireshark for DFIR: A Practical Guide for Digital Forensics & Incident Response | ghostyjoe | [Read More](https://medium.com/p/1f9b84b8f028) |
 | Sun, 30 Nov 2025 17:02:10 GMT | The Thing Men Never Talk About Happened to Me at 15 | Michael Cortese | [Read More](https://medium.com/p/9a0bc07b00cf) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 11:00:49 GMT | GoDaddy Alt Servisinde SQL Injection Güvenlik Açığının Teknik Analizi | Ozan Ağdepe | [Read More](https://medium.com/p/48d42f7607fe) |
 | Sun, 30 Nov 2025 11:00:25 GMT | What Is SHA Really? A Deep Dive Even Cryptographers Bookmark (2025 Edition) | Ilias Abousalim | [Read More](https://medium.com/p/e55da6304475) |
 | Sun, 30 Nov 2025 10:49:46 GMT | Cybersecurity: About the tool Wireshark | Ramandeep Bagri | [Read More](https://medium.com/p/a5d59e39c052) |
-| Sun, 30 Nov 2025 10:46:00 GMT | Security Hardening ve CIS Benchmarks: Sistemleri Güçlendirme İçin Uygulanabilir Adım Adım Rehber | Fatih UYSAL | [Read More](https://medium.com/p/8dde7b4235b4) |
-| Sun, 30 Nov 2025 10:39:42 GMT | Best Institute for Cyber Security with Placement Assistance in Delhi (2026 Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/3e51a3322f5f) |
-| Sun, 30 Nov 2025 10:36:03 GMT | The Ghost in Your Wi-Fi: Part 2 - Advanced Attacks & Defense Strategies | Nisarg Patel | [Read More](https://medium.com/p/befb6ddf41ad) |
-| Sun, 30 Nov 2025 10:32:45 GMT | Microsoft Entra Kerberos authentication for Cloud-only Identities on Azure Files SMB ❤️ | Brian Veldman | [Read More](https://medium.com/p/8bc9465b0b6c) |
-| Sun, 30 Nov 2025 10:29:07 GMT | Row-Level Security: The Key to Granular Data Control | bentonyjoe | [Read More](https://medium.com/p/14cc0f5caee3) |
-| Sun, 30 Nov 2025 10:26:51 GMT | When Bug Hunting Becomes a Burden: Surviving the Dark Side of Bug Bounties | Gl1tch | [Read More](https://medium.com/p/a61bd290f7e6) |
-| Sun, 30 Nov 2025 10:23:39 GMT | Oturumu Açık Tutma — Devam | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6e5017ba1717) |
-| Sun, 30 Nov 2025 10:20:38 GMT | Pakistan’s Growing Cyber Scam Problem — And How We Can Fight It Together | Mehwish Mubeen | [Read More](https://medium.com/p/715d07406630) |
-| Sun, 30 Nov 2025 10:14:45 GMT | DockerLabs Writeup — Waffy (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9388e9b0b6eb) |
