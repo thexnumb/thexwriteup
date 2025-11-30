@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 05:36:03 GMT | How Hackers Build Their Own Mini Attack Labs Using Only Open-Source Tools (No VMs Required) | monster | [Read More](https://medium.com/p/08150c6cc026) |
 | Sun, 30 Nov 2025 05:13:19 GMT | How AI Shaped My Preparation for the CREST CPSA — Preparation tips, Mock test, Study Plan | Indrajeet Bhuyan | [Read More](https://medium.com/p/90b5d8d24017) |
 | Sun, 30 Nov 2025 05:13:14 GMT | What is bot traffic? How to block only bad bots from your Web Service | STCLab, Inc. | [Read More](https://medium.com/p/a08d36920312) |
 | Sun, 30 Nov 2025 05:05:58 GMT | hello this is my first blog | monster | [Read More](https://medium.com/p/3228ef65dcab) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 17:44:28 GMT | Hey everyone! | TechBit | [Read More](https://medium.com/p/b57ef903f82c) |
 | Sat, 29 Nov 2025 17:31:09 GMT | The AI Thread People are Not Talking About | Vinay | [Read More](https://medium.com/p/92e7cd8e4128) |
 | Sat, 29 Nov 2025 17:25:53 GMT | Upbit’s $36 Million Solana Hack Lands at the Worst Possible Moment | Aaron | [Read More](https://medium.com/p/559169e72ea5) |
-| Sat, 29 Nov 2025 17:23:24 GMT | Why Online Learning Is the Future of Security Training in Germany | Sarmin Islam | [Read More](https://medium.com/p/c5cc18a06777) |
