@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 12:32:02 GMT | Guide to understanding Website Structure | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/89a046bbd565) |
+| Sun, 30 Nov 2025 12:24:17 GMT | Malware Analysis Course for Cyber Security Learners | Manisha Chaudhary | [Read More](https://medium.com/p/bc8df5bf6555) |
+| Sun, 30 Nov 2025 12:22:15 GMT | Vibe Coding 實戰必看！10 個會讓你專案翻車的技術陷阱 | 林鼎淵 | [Read More](https://medium.com/p/4a7f80f5833b) |
+| Sun, 30 Nov 2025 12:21:12 GMT | SOC Playbook Serisi - Bölüm 2: Web Shell Tespit, Analiz ve Hunting Tekniklerinin Derinlemesine… | Beyza Sıla Gökmen | [Read More](https://medium.com/p/a0067bc53bbb) |
+| Sun, 30 Nov 2025 12:10:04 GMT | Agents for Autonomous Pen Testing | Poushali Chattopadhyay | [Read More](https://medium.com/p/366e5919cc44) |
+| Sun, 30 Nov 2025 12:09:35 GMT | Where Is the Future of Life Headed? AI, Humans, and DNA | yoichi.hagiwara | [Read More](https://medium.com/p/7d17769e6688) |
+| Sun, 30 Nov 2025 12:09:14 GMT | Why Homegrown Managed File Transfer Turns Into a Money Pit | Prabhu Srivastava | [Read More](https://medium.com/p/5134b8b829c3) |
+| Sun, 30 Nov 2025 12:01:54 GMT | Today’s Top Cyber Intelligence Highlights — Nov 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a5a4e03abc5b) |
+| Sun, 30 Nov 2025 12:00:32 GMT | Google’s Antigravity Just Proved Why We Need Agent Identity Infrastructure | AstraSync AI | [Read More](https://medium.com/p/f476db5ba34b) |
+| Sun, 30 Nov 2025 11:55:04 GMT | Vulnerability Assessment and Its Role in Modern Cyber Security | HABIBI | [Read More](https://medium.com/p/a0899ad3c34f) |
+| Sun, 30 Nov 2025 11:51:25 GMT | Part II – Behind the Screens: The Technology That Makes Hacking Possible | Vanshi Dalal | [Read More](https://medium.com/p/8ddaa6af8cb9) |
+| Sun, 30 Nov 2025 11:49:59 GMT | Yapay Zekanın Gerçek Yakıtı: Doğru Soru ve Güvenlik | Makersx | [Read More](https://medium.com/p/834398ea3424) |
+| Sun, 30 Nov 2025 11:49:21 GMT | Chmod vs. Chown vs. ACL | Amrsmooke | [Read More](https://medium.com/p/4ee1e3024102) |
+| Sun, 30 Nov 2025 11:48:36 GMT | Lab 3#: Clickjacking with a frame buster script- Clickjacking Lab | Mosta | [Read More](https://medium.com/p/8888f5da90f8) |
+| Sun, 30 Nov 2025 11:45:10 GMT | Security Engineer Roadmap: Skills, Steps & Real-World Insights | NineTales | [Read More](https://medium.com/p/454ba4703280) |
+| Sun, 30 Nov 2025 11:36:08 GMT | CISA KEV Alert: OpenPLC ScadaBR XSS Bug CVE-2021–26829 and the New Wave of ICS Hacktivism | Germano Costi | [Read More](https://medium.com/p/8e3105a6853d) |
 | Sun, 30 Nov 2025 11:32:09 GMT | Understanding Stored XSS: A Beginner’s Guide to One of the Web’s Most Dangerous Vulnerabilities | Moez Ben-Azzouz | [Read More](https://medium.com/p/f983438509a1) |
+| Sun, 30 Nov 2025 11:30:21 GMT | Multi-Campus, Multi-Role JWT Design and ThreadLocal Safety | Luna | [Read More](https://medium.com/p/4cda269b377a) |
 | Sun, 30 Nov 2025 11:26:22 GMT | Siber İstihbarat Sanatı Bölüm 2: Aktif Tarama ve Nmap -Kapıyı Çalma Vakti | Onur Altuğ | [Read More](https://medium.com/p/c7b01e6e710e) |
 | Sun, 30 Nov 2025 11:25:11 GMT | Fundamentals of Data Structure: The Backbone of Efficient Computing | Sayeed Al-Mamun | [Read More](https://medium.com/p/90918ca2e2da) |
 | Sun, 30 Nov 2025 11:15:59 GMT | The $10 Trillion Blind Spot: Building an Autonomous AI RedTeam Agent to Think Like a Hacker | Kumarvatsal | [Read More](https://medium.com/p/604258c62b35) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 04:06:23 GMT | The Invisible Barriers: Why It Is So Difficult for Crypto-Fraud Victims to Share Their Stories | Quiscalus Asi (The Quiscalus Project) | [Read More](https://medium.com/p/4141fbfce7f1) |
 | Sun, 30 Nov 2025 04:04:49 GMT | The Digital Padlock: How SSL/TLS Secures Your Website’s DataBeyond HTTPS | Deeghayu Fernando | [Read More](https://medium.com/p/6a7b54af9737) |
 | Sun, 30 Nov 2025 04:04:27 GMT | Behind the UI: Why API Security Matters More Than Ever | Stella Obatoye | [Read More](https://medium.com/p/be288b9deaf7) |
-| Sun, 30 Nov 2025 04:02:14 GMT | Russia’s Crime Army: 131 Recruits, 110 Hits | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/92d522cedeef) |
-| Sun, 30 Nov 2025 03:55:55 GMT | DestroyScammers Dashboard: Exposing Crypto Scammers and Helping Victims Fight Back | PhishDestroy | [Read More](https://medium.com/p/c72add5971a5) |
-| Sun, 30 Nov 2025 03:36:51 GMT | The Last Blockchain Standing: Why 99% of Networks Won’t Survive the Next Era of Computation | KoBaChain | [Read More](https://medium.com/p/bcb2cd1d69a0) |
-| Sun, 30 Nov 2025 03:32:10 GMT | 2. Master the Basics, Break the Web: HTTP Fundamentals | Abinesh M | [Read More](https://medium.com/p/05614a459870) |
-| Sun, 30 Nov 2025 03:16:41 GMT | SkyCloak: The Invisible Threat Quietly Targeting Military Networks | Deven Chhajed | [Read More](https://medium.com/p/f2eb352943a0) |
-| Sun, 30 Nov 2025 02:56:59 GMT | Whonix 18.0 traz LXQt, suporte total a IPv6 e Kloak reescrito para Wayland | Alyson Guilherme Fernandes de Melo | [Read More](https://medium.com/p/ed117834a26c) |
-| Sun, 30 Nov 2025 02:47:34 GMT | LSASS Credential Dumping: The Silent Attack That Gives Hackers the Keys to Your Entire Domain | Aufarifqi | [Read More](https://medium.com/p/d0e975d2a53a) |
-| Sun, 30 Nov 2025 02:46:38 GMT | “Data Protection Board Calling?” A New Scam Is Live! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/5347f0a8f3ab) |
-| Sun, 30 Nov 2025 02:32:09 GMT | FastAPI + OAuth Device Code: Secure TV & CLI Logins at Scale | Codastra | [Read More](https://medium.com/p/b7ff11a7a39a) |
-| Sun, 30 Nov 2025 02:08:20 GMT | I am a multidisciplinary professional with a strong foundation in pharmacy, information systems… | Hiwot Tasissa | [Read More](https://medium.com/p/75d1c91284ba) |
-| Sun, 30 Nov 2025 01:42:10 GMT | Beyond Likes: Finding Your True Confidant in a Lonely World | Poly-blang | [Read More](https://medium.com/p/94e0673256fe) |
-| Sun, 30 Nov 2025 01:34:56 GMT | AI Security By Cloud Commercial Holdings LLC | Cloud Commercial Holdings LLC | [Read More](https://medium.com/p/9ce3db039334) |
-| Sun, 30 Nov 2025 01:34:45 GMT | Code is Fine, Architecture is Not: What the OWASP Top 10:2025 RC Tells Us About the Next Generation… | Nmullenski | [Read More](https://medium.com/p/87756efa3547) |
-| Sun, 30 Nov 2025 01:22:33 GMT | How I Almost Found 5,000$ Bug But Reported Too Early - My Multi-Endpoint XSS Story | j4k3l0ng | [Read More](https://medium.com/p/5907b01ba170) |
-| Sun, 30 Nov 2025 01:17:18 GMT | I want to be held gently | airairairaa | [Read More](https://medium.com/p/f2dce6d2a134) |
-| Sun, 30 Nov 2025 01:13:56 GMT | Safe, But Not Alive | Vanessa Sophia | [Read More](https://medium.com/p/808067fd942b) |
-| Sun, 30 Nov 2025 01:13:01 GMT | Linux Commands — Simple Explanation = Temel Terminal ve Sistem Bilgisi Komutları | Mert Baykal | [Read More](https://medium.com/p/134ee5e48f4f) |
