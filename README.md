@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 09:16:09 GMT | How to Setup Kioptrix Level 1 in VirtualBox? | Muhammad Bilal | [Read More](https://medium.com/p/ac86a5b35ec7) |
+| Sun, 30 Nov 2025 09:11:10 GMT | Practical IDS Lab (SNORT | Faith akerele | [Read More](https://medium.com/p/a599915b10d6) |
+| Sun, 30 Nov 2025 09:02:11 GMT | Stop Blind Spots in Dark Web Monitoring With Plain Text Leak Coverage | Alexandre Vandamme | [Read More](https://medium.com/p/81cfa12fa218) |
+| Sun, 30 Nov 2025 09:00:38 GMT | The Content Strategy No One Wants to Admit Works — And Why I Built My Entire Brand on It | Vijay Kumar Gupta | [Read More](https://medium.com/p/c87a03e3b54e) |
+| Sun, 30 Nov 2025 08:59:44 GMT | How to Find Hidden Cameras in Any Room (The Safest and Right Methods for You) | FutureLens | [Read More](https://medium.com/p/9eae8c7ee2fa) |
+| Sun, 30 Nov 2025 08:50:37 GMT | Using all of my brain capacity | Ugosam | [Read More](https://medium.com/p/8bbb18a8a0ba) |
 | Sun, 30 Nov 2025 08:34:50 GMT | The Exhaustive Combinatorial and Cryptographic Analysis of BIP-39 Mnemonic Permutations | Thinker | [Read More](https://medium.com/p/b7d581aeb3c5) |
 | Sun, 30 Nov 2025 08:28:12 GMT | The Heart of Cyber Threat Hunting: A Beginner’s Guide to EDR Telemetry Analysis | Esra Kayhan | [Read More](https://medium.com/p/bad457aefe3b) |
 | Sun, 30 Nov 2025 08:14:57 GMT | How The First Agentic AI Cyberattack Looks Suspiciously Good for AI Companies | Hamza Boulahia | [Read More](https://medium.com/p/611d4e4f9db8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 20:24:02 GMT | Amazon: IA spécialisée pour une chasse aux bugs approfondie | L'ABESTIT | [Read More](https://medium.com/p/176636a6ca4a) |
 | Sat, 29 Nov 2025 20:09:38 GMT | HTB: Busqueda writeup | bara almustafa | [Read More](https://medium.com/p/494f508a9d7d) |
 | Sat, 29 Nov 2025 19:55:24 GMT | Automating the Hunt: When Manual Reconnaissance Hits a Wall | IFFI0x | [Read More](https://medium.com/p/093a5a80aa97) |
-| Sat, 29 Nov 2025 19:49:06 GMT | DEAR DEVELOPERS : .env DOES NOT STAND OFR ‘EVERYONE CAN VIEW’….! | Mohith Krishna K | [Read More](https://medium.com/p/cd36a98ff09a) |
-| Sat, 29 Nov 2025 19:40:11 GMT | The Parts Of Me You Don't See | Oluwabunmi Fortune Ajibade | [Read More](https://medium.com/p/a96eabcf645a) |
-| Sat, 29 Nov 2025 19:32:10 GMT | Investigating with Splunk - challange SOC #11 | D4m.sh | [Read More](https://medium.com/p/ee07d5686177) |
-| Sat, 29 Nov 2025 19:30:47 GMT | Windows Internals — For Beginners | Ace | [Read More](https://medium.com/p/31f04ade0db9) |
-| Sat, 29 Nov 2025 19:21:09 GMT | m0leCon CTF Snake2 Anti-Cheat Bypass — Full Technical Write-Up (CTF + Pentest Hybrid) | amer7x | [Read More](https://medium.com/p/811d3ded3b93) |
-| Sat, 29 Nov 2025 19:14:44 GMT | The “Dune” Worm Returns: Understanding the massive Shai-Hulud 2.0 Supply Chain Attack | Ayush Bulbule | [Read More](https://medium.com/p/6561fd6c2517) |
