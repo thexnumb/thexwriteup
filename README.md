@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 14:32:09 GMT | Why I Don’t Trust “Free VPNs” (And You Shouldn’t Either) | Cyberkech | [Read More](https://medium.com/p/2d99b3f055ce) |
+| Sun, 30 Nov 2025 14:31:28 GMT | Quantum Computing  and Security: Hype vs Reality — What Engineering Teams Should Really Prepare For | Mehdi Khalilzadeh | [Read More](https://medium.com/p/79b668bcd07c) |
+| Sun, 30 Nov 2025 14:24:56 GMT | Week 7: Making It Beautiful | ZAYN | [Read More](https://medium.com/p/479c5ac1b03e) |
+| Sun, 30 Nov 2025 14:24:17 GMT | Multiple London Councils Hit by Major Cyber Incidents | Himanshu Bhatt | [Read More](https://medium.com/p/54423663d48d) |
+| Sun, 30 Nov 2025 14:18:19 GMT | ROS2: Remote Container Injection & Distributed DDS Poisoning as a Botnet Vector | Мартин. | [Read More](https://medium.com/p/a51f232469aa) |
 | Sun, 30 Nov 2025 14:15:04 GMT | MacSync Stealer: Full Technical Analysis of a New macOS Malware Disguised as Cloudflare | Maurizio Aiello | [Read More](https://medium.com/p/e374d1b81fc5) |
 | Sun, 30 Nov 2025 14:06:48 GMT | Program Management with AI Prompts | Kinjal Panchal Rami | [Read More](https://medium.com/p/d13c741eedbe) |
 | Sun, 30 Nov 2025 14:04:49 GMT | The Fundamentals of API Security and Why It Matters | Esther Kenneth | [Read More](https://medium.com/p/547c8a4f9a86) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 06:53:48 GMT | Cryptography Basics THM Walkthrough | Harshana Lasith weragoda | [Read More](https://medium.com/p/626044202269) |
 | Sun, 30 Nov 2025 06:48:04 GMT | Mastering Cloud Security: From Zero to Secure | Jugal Patel | [Read More](https://medium.com/p/8338a8574c75) |
 | Sun, 30 Nov 2025 06:37:08 GMT | The Coding Illusion: Why Writing Code Is Easy but Fixing It Is Impossible | The Dev Notebook | [Read More](https://medium.com/p/a7ee229677a3) |
-| Sun, 30 Nov 2025 06:26:37 GMT | Inside Pakistan’s Rising Cyber Fraud Industry | Khadeejaali | [Read More](https://medium.com/p/6c9b7819c5fc) |
-| Sun, 30 Nov 2025 06:22:40 GMT | The Reality of Bug Bounty Mediation: A Hunter’s Perspective | Gl1tch | [Read More](https://medium.com/p/f0839a2dede2) |
-| Sun, 30 Nov 2025 06:21:56 GMT | Azure Front Door vs Application Gateway | Niwantha Wickramasingha | [Read More](https://medium.com/p/766840a4bdc2) |
-| Sun, 30 Nov 2025 06:21:25 GMT | Event ID — 83 - SOC119-Malicious Executable File Detected | Soumodeep Das | [Read More](https://medium.com/p/067e2a55b3c8) |
-| Sun, 30 Nov 2025 06:15:25 GMT | get a free Kali VPS with Segfault — a quick guide for bug hunters | Ahmed Fawzy | [Read More](https://medium.com/p/b242f275dfe9) |
