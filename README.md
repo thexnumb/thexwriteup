@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 05:13:19 GMT | How AI Shaped My Preparation for the CREST CPSA — Preparation tips, Mock test, Study Plan | Indrajeet Bhuyan | [Read More](https://medium.com/p/90b5d8d24017) |
+| Sun, 30 Nov 2025 05:13:14 GMT | What is bot traffic? How to block only bad bots from your Web Service | STCLab, Inc. | [Read More](https://medium.com/p/a08d36920312) |
+| Sun, 30 Nov 2025 05:05:58 GMT | hello this is my first blog | monster | [Read More](https://medium.com/p/3228ef65dcab) |
+| Sun, 30 Nov 2025 05:01:06 GMT | Detecting Phishing Emails with AI | Precious Gautam | [Read More](https://medium.com/p/1db9a0e55016) |
+| Sun, 30 Nov 2025 04:45:46 GMT | How to Safely Concatenate Strings in C# | Ravi Patil | [Read More](https://medium.com/p/3c72fea5925e) |
+| Sun, 30 Nov 2025 04:42:56 GMT | Understanding Linux Distros: What They Are and How They Differ | Ethan's Trail | [Read More](https://medium.com/p/064325cb56ca) |
+| Sun, 30 Nov 2025 04:41:12 GMT | Getting Started with grep in Linux (Day 8 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/ba092908392c) |
 | Sun, 30 Nov 2025 04:32:28 GMT | Why Self-Hosting Bug Bounties Might Be Your Biggest Security Mistake in 2025 | ProwlSec | [Read More](https://medium.com/p/1efb9408183f) |
+| Sun, 30 Nov 2025 04:30:59 GMT | Quantum attack flow: how blockchains will actually break — step by step | KoBaChain | [Read More](https://medium.com/p/de125e1fdb7c) |
 | Sun, 30 Nov 2025 04:14:38 GMT | I Failed? | Oluwademiladeogo | [Read More](https://medium.com/p/678e6950f778) |
 | Sun, 30 Nov 2025 04:07:56 GMT | TryHackMe : Net Sec Challenge | glitch | [Read More](https://medium.com/p/0e0c5215014c) |
 | Sun, 30 Nov 2025 04:06:23 GMT | The Invisible Barriers: Why It Is So Difficult for Crypto-Fraud Victims to Share Their Stories | Quiscalus Asi (The Quiscalus Project) | [Read More](https://medium.com/p/4141fbfce7f1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 17:31:09 GMT | The AI Thread People are Not Talking About | Vinay | [Read More](https://medium.com/p/92e7cd8e4128) |
 | Sat, 29 Nov 2025 17:25:53 GMT | Upbit’s $36 Million Solana Hack Lands at the Worst Possible Moment | Aaron | [Read More](https://medium.com/p/559169e72ea5) |
 | Sat, 29 Nov 2025 17:23:24 GMT | Why Online Learning Is the Future of Security Training in Germany | Sarmin Islam | [Read More](https://medium.com/p/c5cc18a06777) |
-| Sat, 29 Nov 2025 17:16:51 GMT | LUC DELORME ON PLANET OF GHOSTS (Sci — Fi novel) | Alberto Benitez | [Read More](https://medium.com/p/d9bb7c39b99a) |
-| Sat, 29 Nov 2025 17:15:47 GMT | Using Splunk | Devinn C. | [Read More](https://medium.com/p/7c7d03bc4496) |
-| Sat, 29 Nov 2025 17:06:58 GMT | Cybersecurity Lesson 5 : Building and Securing Systems | YogiCode | [Read More](https://medium.com/p/c54507748d35) |
-| Sat, 29 Nov 2025 17:06:57 GMT | How a Simple Phishing Scam Changed My View on Online Security — And What You Should Do | Er Dhaval Ramani | [Read More](https://medium.com/p/3b95eeef7428) |
-| Sat, 29 Nov 2025 17:01:00 GMT | Build Automated Security Regression System That Spots 100% of Old Finding | Muh. Fani Akbar | [Read More](https://medium.com/p/1e881eb05700) |
-| Sat, 29 Nov 2025 16:55:53 GMT | Why Pharmaceutical Companies in India Must Embrace DPDP Act and Rules | Sujeet Katiyar | [Read More](https://medium.com/p/70cea1beed46) |
-| Sat, 29 Nov 2025 16:46:40 GMT | Hacking NASA with a Keyword: How I Found Trade Secrets via Public Search | Akuivan | [Read More](https://medium.com/p/bda9ea09c1e0) |
-| Sat, 29 Nov 2025 16:44:01 GMT | Practically Nude: A Poolside Confession | Neville Tulloch | [Read More](https://medium.com/p/30cd20a78a2a) |
