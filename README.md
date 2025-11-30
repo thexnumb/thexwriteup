@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 18:15:28 GMT | Inside the Shai-Hulud npm Supply-Chain Attack: What Happened, What Was Stolen, and Why Every… | Arun Kumar | [Read More](https://medium.com/p/67bdb9883b6c) |
+| Sun, 30 Nov 2025 18:02:45 GMT | HTB Challenge — Embryonic Plant | Fardeen A. | [Read More](https://medium.com/p/ac17e032bf44) |
+| Sun, 30 Nov 2025 18:02:21 GMT | Security Principles THM walkthrough | Harshana Lasith weragoda | [Read More](https://medium.com/p/5f46659f7628) |
+| Sun, 30 Nov 2025 17:57:00 GMT | Guilty Until Proven Innocent | Jeremy Tarkington | [Read More](https://medium.com/p/18ed7ebec38a) |
+| Sun, 30 Nov 2025 17:42:05 GMT | fácil Splunk Enterprise Security | Antonella Blasetti | [Read More](https://medium.com/p/77bfd35d692a) |
+| Sun, 30 Nov 2025 17:40:30 GMT | Padelify Tryhackme From Blind XSS to RCE | Contact Aryan Here | [Read More](https://medium.com/p/5fe52b92f17c) |
 | Sun, 30 Nov 2025 17:38:05 GMT | What Is a WiFi Deauthentication Attack? How Fake Disconnect Messages Work | Natarajan C K | [Read More](https://medium.com/p/6b3a74b4abab) |
 | Sun, 30 Nov 2025 17:37:17 GMT | How I Tricked an AI Into Spilling Its Secrets (And Made a Pretty Penny) | Iski | [Read More](https://medium.com/p/b35cb2374f63) |
 | Sun, 30 Nov 2025 17:32:36 GMT | Our AI Missed 847 Alerts Over 19 Days. We Lost $18.7M in Stolen IP. | AhmedAbdelmenem | [Read More](https://medium.com/p/f621c008a748) |
@@ -60,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 14:57:24 GMT | Unlocking the Secrets of Cybersecurity: Internal, External, and Wireless Assessments Explained | Sony | [Read More](https://medium.com/p/0d2c32f874e2) |
 | Sun, 30 Nov 2025 14:55:46 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/08bf48c05bea) |
 | Sun, 30 Nov 2025 14:52:09 GMT | Don’t Trust Online Investment Scams: A Relationship Red Flag | anni | [Read More](https://medium.com/p/6b2a4c7e7704) |
+| Sun, 30 Nov 2025 14:50:21 GMT | Yapay Zeka Destekli Yazılımda Kod Halüsinasyonları, Güvenlik Açıkları ve Teknik Yetkinliğin… | Tolga Boroğlu | [Read More](https://medium.com/p/fad1fa886077) |
 | Sun, 30 Nov 2025 14:42:09 GMT | SEARCH LIGHT IMINT- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/a933bab7d3ef) |
 | Sun, 30 Nov 2025 14:41:59 GMT | Metasploitable 3 (Windows) Write-up — Part [VI]: Port 3306 — MySQL Weak Credentials & UDF… | Kalash Kundaliya | [Read More](https://medium.com/p/703e995f976e) |
 | Sun, 30 Nov 2025 14:40:12 GMT | Red Team vs Blue Team: The Cybersecurity Battlefield Explained | Ferdi Edogawa | [Read More](https://medium.com/p/6cbeccdaaa49) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 11:32:09 GMT | Understanding Stored XSS: A Beginner’s Guide to One of the Web’s Most Dangerous Vulnerabilities | Moez Ben-Azzouz | [Read More](https://medium.com/p/f983438509a1) |
 | Sun, 30 Nov 2025 11:30:21 GMT | Multi-Campus, Multi-Role JWT Design and ThreadLocal Safety | Luna | [Read More](https://medium.com/p/4cda269b377a) |
 | Sun, 30 Nov 2025 11:26:22 GMT | Siber İstihbarat Sanatı Bölüm 2: Aktif Tarama ve Nmap -Kapıyı Çalma Vakti | Onur Altuğ | [Read More](https://medium.com/p/c7b01e6e710e) |
-| Sun, 30 Nov 2025 11:25:11 GMT | Fundamentals of Data Structure: The Backbone of Efficient Computing | Sayeed Al-Mamun | [Read More](https://medium.com/p/90918ca2e2da) |
-| Sun, 30 Nov 2025 11:15:59 GMT | The $10 Trillion Blind Spot: Building an Autonomous AI RedTeam Agent to Think Like a Hacker | Kumarvatsal | [Read More](https://medium.com/p/604258c62b35) |
-| Sun, 30 Nov 2025 11:14:51 GMT | How to Block Temp Emails in Your Signup Flow (Copy-Paste Code Inside) | Tobias Jansen | [Read More](https://medium.com/p/28edbf2d56ed) |
-| Sun, 30 Nov 2025 11:10:04 GMT | ZoreonX: The Next Evolution Beyond Bitcoin — And Why Early Adopters Are Already Paying Attention | Oviela | [Read More](https://medium.com/p/ac3de05a7b4e) |
-| Sun, 30 Nov 2025 11:00:49 GMT | GoDaddy Alt Servisinde SQL Injection Güvenlik Açığının Teknik Analizi | Ozan Ağdepe | [Read More](https://medium.com/p/48d42f7607fe) |
-| Sun, 30 Nov 2025 11:00:25 GMT | What Is SHA Really? A Deep Dive Even Cryptographers Bookmark (2025 Edition) | Ilias Abousalim | [Read More](https://medium.com/p/e55da6304475) |
-| Sun, 30 Nov 2025 10:49:46 GMT | Cybersecurity: About the tool Wireshark | Ramandeep Bagri | [Read More](https://medium.com/p/a5d59e39c052) |
