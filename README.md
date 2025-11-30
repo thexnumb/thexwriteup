@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 04:32:28 GMT | Why Self-Hosting Bug Bounties Might Be Your Biggest Security Mistake in 2025 | ProwlSec | [Read More](https://medium.com/p/1efb9408183f) |
+| Sun, 30 Nov 2025 04:14:38 GMT | I Failed? | Oluwademiladeogo | [Read More](https://medium.com/p/678e6950f778) |
+| Sun, 30 Nov 2025 04:07:56 GMT | TryHackMe : Net Sec Challenge | glitch | [Read More](https://medium.com/p/0e0c5215014c) |
+| Sun, 30 Nov 2025 04:06:23 GMT | The Invisible Barriers: Why It Is So Difficult for Crypto-Fraud Victims to Share Their Stories | Quiscalus Asi (The Quiscalus Project) | [Read More](https://medium.com/p/4141fbfce7f1) |
+| Sun, 30 Nov 2025 04:04:49 GMT | The Digital Padlock: How SSL/TLS Secures Your Website’s DataBeyond HTTPS | Deeghayu Fernando | [Read More](https://medium.com/p/6a7b54af9737) |
+| Sun, 30 Nov 2025 04:04:27 GMT | Behind the UI: Why API Security Matters More Than Ever | Stella Obatoye | [Read More](https://medium.com/p/be288b9deaf7) |
+| Sun, 30 Nov 2025 04:02:14 GMT | Russia’s Crime Army: 131 Recruits, 110 Hits | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/92d522cedeef) |
+| Sun, 30 Nov 2025 03:55:55 GMT | DestroyScammers Dashboard: Exposing Crypto Scammers and Helping Victims Fight Back | PhishDestroy | [Read More](https://medium.com/p/c72add5971a5) |
+| Sun, 30 Nov 2025 03:36:51 GMT | The Last Blockchain Standing: Why 99% of Networks Won’t Survive the Next Era of Computation | KoBaChain | [Read More](https://medium.com/p/bcb2cd1d69a0) |
 | Sun, 30 Nov 2025 03:32:10 GMT | 2. Master the Basics, Break the Web: HTTP Fundamentals | Abinesh M | [Read More](https://medium.com/p/05614a459870) |
 | Sun, 30 Nov 2025 03:16:41 GMT | SkyCloak: The Invisible Threat Quietly Targeting Military Networks | Deven Chhajed | [Read More](https://medium.com/p/f2eb352943a0) |
 | Sun, 30 Nov 2025 02:56:59 GMT | Whonix 18.0 traz LXQt, suporte total a IPv6 e Kloak reescrito para Wayland | Alyson Guilherme Fernandes de Melo | [Read More](https://medium.com/p/ed117834a26c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 16:55:53 GMT | Why Pharmaceutical Companies in India Must Embrace DPDP Act and Rules | Sujeet Katiyar | [Read More](https://medium.com/p/70cea1beed46) |
 | Sat, 29 Nov 2025 16:46:40 GMT | Hacking NASA with a Keyword: How I Found Trade Secrets via Public Search | Akuivan | [Read More](https://medium.com/p/bda9ea09c1e0) |
 | Sat, 29 Nov 2025 16:44:01 GMT | Practically Nude: A Poolside Confession | Neville Tulloch | [Read More](https://medium.com/p/30cd20a78a2a) |
-| Sat, 29 Nov 2025 16:30:56 GMT | How Should We Approach Cloud Migration Without Compromising Network and Security Standards? | IT Solutions Providers | [Read More](https://medium.com/p/0788cd3bef00) |
-| Sat, 29 Nov 2025 16:25:57 GMT | CRITICAL VULNERABILITY ALERT FOR ANDROID USERS | Khabbab Sarker | [Read More](https://medium.com/p/9398776cb8d2) |
-| Sat, 29 Nov 2025 16:23:41 GMT | What I Learned in QA That Helps Me in Cybersecurity | Joseph Kantar | [Read More](https://medium.com/p/e80df235e365) |
-| Sat, 29 Nov 2025 16:23:29 GMT | Security Vulnerabilities Every QA Engineer Should Know | Joseph Kantar | [Read More](https://medium.com/p/de315fa73c19) |
-| Sat, 29 Nov 2025 16:15:21 GMT | Entry-Level Machine Learning Engineer Salary Guide 2026 (Full Breakdown) | Motherlandlove | [Read More](https://medium.com/p/7604fa1a0f58) |
-| Sat, 29 Nov 2025 16:10:28 GMT | Cybersecurity | kanuka rawat | [Read More](https://medium.com/p/9423c0a143f7) |
-| Sat, 29 Nov 2025 15:58:23 GMT | “My AI Agent Just Did WHAT?” | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/e2f1d2cc43cd) |
-| Sat, 29 Nov 2025 15:57:58 GMT | “It Looked Safe When the Agent Checked…” — The Hidden AI Security Flaw No One Saw Coming | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/31c16b698294) |
-| Sat, 29 Nov 2025 15:44:23 GMT | North Korean OtterCookie Malware Targets Modern Developer Workflows | Geoffrey Wenger | [Read More](https://medium.com/p/6f339234937c) |
