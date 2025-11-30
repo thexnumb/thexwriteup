@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 09:31:20 GMT | THM- Daily Bugle Writeup | cbev | [Read More](https://medium.com/p/3a93c9371861) |
+| Sun, 30 Nov 2025 09:27:00 GMT | Kali GPT: The Future of AI-Driven Cybersecurity Tools in Kali Linux | Cybervolt | [Read More](https://medium.com/p/3744b13c89a9) |
+| Sun, 30 Nov 2025 09:24:41 GMT | Android Forensics CTF Write-Up | Emre Karatay | [Read More](https://medium.com/p/d31792b430bc) |
 | Sun, 30 Nov 2025 09:16:09 GMT | How to Setup Kioptrix Level 1 in VirtualBox? | Muhammad Bilal | [Read More](https://medium.com/p/ac86a5b35ec7) |
 | Sun, 30 Nov 2025 09:11:10 GMT | Practical IDS Lab (SNORT | Faith akerele | [Read More](https://medium.com/p/a599915b10d6) |
 | Sun, 30 Nov 2025 09:02:11 GMT | Stop Blind Spots in Dark Web Monitoring With Plain Text Leak Coverage | Alexandre Vandamme | [Read More](https://medium.com/p/81cfa12fa218) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 20:38:48 GMT | NPM Supply-Chain Attacks: Detection & Defense ⚠️ | Aditya Bhatt | [Read More](https://medium.com/p/dd6cabfbb3e8) |
 | Sat, 29 Nov 2025 20:33:38 GMT | My Hands On Experience Accessing The Backend Of Wordpress Website | Cyber Timi | [Read More](https://medium.com/p/2aedbd435eb8) |
 | Sat, 29 Nov 2025 20:30:55 GMT | Stop Buying the Wrong Wi-Fi Adapter for Kali Linux (2025 Guide) | Divyanshubhoir | [Read More](https://medium.com/p/e5e2dc1e5667) |
-| Sat, 29 Nov 2025 20:24:02 GMT | Amazon: IA spécialisée pour une chasse aux bugs approfondie | L'ABESTIT | [Read More](https://medium.com/p/176636a6ca4a) |
-| Sat, 29 Nov 2025 20:09:38 GMT | HTB: Busqueda writeup | bara almustafa | [Read More](https://medium.com/p/494f508a9d7d) |
-| Sat, 29 Nov 2025 19:55:24 GMT | Automating the Hunt: When Manual Reconnaissance Hits a Wall | IFFI0x | [Read More](https://medium.com/p/093a5a80aa97) |
