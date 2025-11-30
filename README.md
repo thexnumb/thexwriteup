@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 11:32:09 GMT | Understanding Stored XSS: A Beginner’s Guide to One of the Web’s Most Dangerous Vulnerabilities | Moez Ben-Azzouz | [Read More](https://medium.com/p/f983438509a1) |
+| Sun, 30 Nov 2025 11:26:22 GMT | Siber İstihbarat Sanatı Bölüm 2: Aktif Tarama ve Nmap -Kapıyı Çalma Vakti | Onur Altuğ | [Read More](https://medium.com/p/c7b01e6e710e) |
+| Sun, 30 Nov 2025 11:25:11 GMT | Fundamentals of Data Structure: The Backbone of Efficient Computing | Sayeed Al-Mamun | [Read More](https://medium.com/p/90918ca2e2da) |
+| Sun, 30 Nov 2025 11:15:59 GMT | The $10 Trillion Blind Spot: Building an Autonomous AI RedTeam Agent to Think Like a Hacker | Kumarvatsal | [Read More](https://medium.com/p/604258c62b35) |
+| Sun, 30 Nov 2025 11:14:51 GMT | How to Block Temp Emails in Your Signup Flow (Copy-Paste Code Inside) | Tobias Jansen | [Read More](https://medium.com/p/28edbf2d56ed) |
 | Sun, 30 Nov 2025 11:10:04 GMT | ZoreonX: The Next Evolution Beyond Bitcoin — And Why Early Adopters Are Already Paying Attention | Oviela | [Read More](https://medium.com/p/ac3de05a7b4e) |
 | Sun, 30 Nov 2025 11:00:49 GMT | GoDaddy Alt Servisinde SQL Injection Güvenlik Açığının Teknik Analizi | Ozan Ağdepe | [Read More](https://medium.com/p/48d42f7607fe) |
 | Sun, 30 Nov 2025 11:00:25 GMT | What Is SHA Really? A Deep Dive Even Cryptographers Bookmark (2025 Edition) | Ilias Abousalim | [Read More](https://medium.com/p/e55da6304475) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 01:17:18 GMT | I want to be held gently | airairairaa | [Read More](https://medium.com/p/f2dce6d2a134) |
 | Sun, 30 Nov 2025 01:13:56 GMT | Safe, But Not Alive | Vanessa Sophia | [Read More](https://medium.com/p/808067fd942b) |
 | Sun, 30 Nov 2025 01:13:01 GMT | Linux Commands — Simple Explanation = Temel Terminal ve Sistem Bilgisi Komutları | Mert Baykal | [Read More](https://medium.com/p/134ee5e48f4f) |
-| Sun, 30 Nov 2025 01:12:19 GMT | Evil Corp: Inside the Rise of Moscow’s Most Brazen Cybercrime Empire | Aaron | [Read More](https://medium.com/p/e49fa4055ad1) |
-| Sun, 30 Nov 2025 00:52:24 GMT | Reconnaissance, Subdomain Enumeration and Nmap Scanning: A Practical Pentest Guide | Mert Baykal | [Read More](https://medium.com/p/5702caf8dff3) |
-| Sun, 30 Nov 2025 00:41:18 GMT | The Opacity Premium: How Hidden Costs in AI and Cloud Computing Threaten the Future of Human Agency | Alucard | [Read More](https://medium.com/p/702cd6f41140) |
-| Sun, 30 Nov 2025 00:27:00 GMT | CyCTF25 Qualifications — Symmetric Challenge Writeup | Mohamed Elansari | [Read More](https://medium.com/p/241811ff52e3) |
-| Sun, 30 Nov 2025 00:26:16 GMT | Thoughts on Cybersecurity: An Ethical Security Pillar | Dia M | [Read More](https://medium.com/p/6c32d26f108d) |
