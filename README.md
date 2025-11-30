@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 23:21:36 GMT | Web Investigation Lab — Write-up | 0xTT-byte | [Read More](https://medium.com/p/f00b26311fcf) |
+| Sun, 30 Nov 2025 23:16:55 GMT | Richard Doty, Mirage Men, and the Psyops Blueprint Behind Modern Cyber Warfare | Jeff Kingsland | [Read More](https://medium.com/p/d66a556f041e) |
+| Sun, 30 Nov 2025 23:14:36 GMT | Executive Protection Close Quarters Battle | Paramount Defense Group Inc | [Read More](https://medium.com/p/9e2f5c4dcc7e) |
 | Sun, 30 Nov 2025 22:46:14 GMT | How to Use a VPN for a Finland IP | Awais Khan | [Read More](https://medium.com/p/dadf50e1f35a) |
 | Sun, 30 Nov 2025 22:25:24 GMT | BYTEBURST #4 “The Synchronization of Intelligence” | Yuri Trukhin | [Read More](https://medium.com/p/e8ad0d409372) |
 | Sun, 30 Nov 2025 22:24:44 GMT | Active Directory Reconnaissance | S12 - 0x12Dark Development | [Read More](https://medium.com/p/26483ecc0943) |
@@ -40,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 19:37:16 GMT | The Only Simple Cybersecurity Roadmap You Need (From Someone Who Started With Zero Clue) | Veeram Reddy | [Read More](https://medium.com/p/a8196c88b1ce) |
 | Sun, 30 Nov 2025 19:21:47 GMT | Testing Detection Rules | Just Moi | [Read More](https://medium.com/p/35cea16b5f91) |
 | Sun, 30 Nov 2025 19:21:16 GMT | Room 110: Isn’t Java RMIRegistry a Mystery? | blackXmask | [Read More](https://medium.com/p/21e39825116d) |
+| Sun, 30 Nov 2025 19:11:59 GMT | The Courage to Trust - The Let Go | Charisse Glenn | [Read More](https://medium.com/p/a1a8b7c47ff9) |
 | Sun, 30 Nov 2025 19:08:34 GMT | Mobile Patrol vs Security Guards: How to Choose the Right Protection for Your Site | Teona | [Read More](https://medium.com/p/fd12a72a390c) |
 | Sun, 30 Nov 2025 18:56:37 GMT | ✨ The Holiday Scam Surge No One’s Talking About | Dr. Elsie M. Casimir | [Read More](https://medium.com/p/d5a428ca60a2) |
 | Sun, 30 Nov 2025 18:53:47 GMT | Cybersecurity Is Hard | Adeluworker | [Read More](https://medium.com/p/032ec4343e9b) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 14:40:12 GMT | Red Team vs Blue Team: The Cybersecurity Battlefield Explained | Ferdi Edogawa | [Read More](https://medium.com/p/6cbeccdaaa49) |
 | Sun, 30 Nov 2025 14:38:46 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 2: DC-2 | Shikhar Sinha | [Read More](https://medium.com/p/f1344a2f1adb) |
 | Sun, 30 Nov 2025 14:32:09 GMT | Why I Don’t Trust “Free VPNs” (And You Shouldn’t Either) | Cyberkech | [Read More](https://medium.com/p/2d99b3f055ce) |
-| Sun, 30 Nov 2025 14:31:28 GMT | Quantum Computing  and Security: Hype vs Reality — What Engineering Teams Should Really Prepare For | Mehdi Khalilzadeh | [Read More](https://medium.com/p/79b668bcd07c) |
-| Sun, 30 Nov 2025 14:24:56 GMT | Week 7: Making It Beautiful | ZAYN | [Read More](https://medium.com/p/479c5ac1b03e) |
-| Sun, 30 Nov 2025 14:24:17 GMT | Multiple London Councils Hit by Major Cyber Incidents | Himanshu Bhatt | [Read More](https://medium.com/p/54423663d48d) |
-| Sun, 30 Nov 2025 14:18:19 GMT | ROS2: Remote Container Injection & Distributed DDS Poisoning as a Botnet Vector | Мартин. | [Read More](https://medium.com/p/a51f232469aa) |
