@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 19:46:11 GMT | 4 Questions You’ll Likely Get in a SOC Analyst Interview (and How to Answer Them) | Jbird | [Read More](https://medium.com/p/14a73fc4607a) |
+| Sun, 30 Nov 2025 19:37:16 GMT | The Only Simple Cybersecurity Roadmap You Need (From Someone Who Started With Zero Clue) | Veeram Reddy | [Read More](https://medium.com/p/a8196c88b1ce) |
 | Sun, 30 Nov 2025 19:21:47 GMT | Testing Detection Rules | Just Moi | [Read More](https://medium.com/p/35cea16b5f91) |
 | Sun, 30 Nov 2025 19:21:16 GMT | Room 110: Isn’t Java RMIRegistry a Mystery? | blackXmask | [Read More](https://medium.com/p/21e39825116d) |
 | Sun, 30 Nov 2025 19:08:34 GMT | Mobile Patrol vs Security Guards: How to Choose the Right Protection for Your Site | Teona | [Read More](https://medium.com/p/fd12a72a390c) |
@@ -112,5 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 12:21:12 GMT | SOC Playbook Serisi - Bölüm 2: Web Shell Tespit, Analiz ve Hunting Tekniklerinin Derinlemesine… | Beyza Sıla Gökmen | [Read More](https://medium.com/p/a0067bc53bbb) |
 | Sun, 30 Nov 2025 12:10:04 GMT | Agents for Autonomous Pen Testing | Poushali Chattopadhyay | [Read More](https://medium.com/p/366e5919cc44) |
 | Sun, 30 Nov 2025 12:09:35 GMT | Where Is the Future of Life Headed? AI, Humans, and DNA | yoichi.hagiwara | [Read More](https://medium.com/p/7d17769e6688) |
-| Sun, 30 Nov 2025 12:09:14 GMT | Why Homegrown Managed File Transfer Turns Into a Money Pit | Prabhu Srivastava | [Read More](https://medium.com/p/5134b8b829c3) |
-| Sun, 30 Nov 2025 12:01:54 GMT | Today’s Top Cyber Intelligence Highlights — Nov 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a5a4e03abc5b) |
