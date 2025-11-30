@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 07:02:09 GMT | , running a tabletop, or knee-deep in a live breach, these 12 tools will help you rebuild ground… | Very Lazy Tech | [Read More](https://medium.com/p/bbb1de449a2b) |
+| Sun, 30 Nov 2025 06:53:48 GMT | Cryptography Basics THM Walkthrough | Harshana Lasith weragoda | [Read More](https://medium.com/p/626044202269) |
+| Sun, 30 Nov 2025 06:48:04 GMT | Mastering Cloud Security: From Zero to Secure | Jugal Patel | [Read More](https://medium.com/p/8338a8574c75) |
+| Sun, 30 Nov 2025 06:37:08 GMT | The Coding Illusion: Why Writing Code Is Easy but Fixing It Is Impossible | The Dev Notebook | [Read More](https://medium.com/p/a7ee229677a3) |
 | Sun, 30 Nov 2025 06:26:37 GMT | Inside Pakistan’s Rising Cyber Fraud Industry | Khadeejaali | [Read More](https://medium.com/p/6c9b7819c5fc) |
 | Sun, 30 Nov 2025 06:22:40 GMT | The Reality of Bug Bounty Mediation: A Hunter’s Perspective | Gl1tch | [Read More](https://medium.com/p/f0839a2dede2) |
 | Sun, 30 Nov 2025 06:21:56 GMT | Azure Front Door vs Application Gateway | Niwantha Wickramasingha | [Read More](https://medium.com/p/766840a4bdc2) |
@@ -66,6 +70,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 22:56:48 GMT | How Quantum Physics and the Vedas Are Reshaping the Future of AI and Information Technology | Sandip Prashar | [Read More](https://medium.com/p/6d9b9f626c17) |
 | Sat, 29 Nov 2025 22:48:14 GMT | I Invited Hackers to a Fake Server. Here’s How I Did It (And What They Did). | Aderinola Taiwo | [Read More](https://medium.com/p/1eef236d5197) |
 | Sat, 29 Nov 2025 22:09:10 GMT | BankGPT - TryHackme Walkthrough | Gustavo Henrique | [Read More](https://medium.com/p/3fb99d8539cc) |
+| Sat, 29 Nov 2025 22:07:06 GMT | Detecting and Exploiting the UnrealIRCd 3281 Backdoor using Metasploit | Eric_Mavyuva | [Read More](https://medium.com/p/a2b30ef8734e) |
 | Sat, 29 Nov 2025 22:01:56 GMT | I Want to Love Deeply, But I Keep Running | sonofdgods | [Read More](https://medium.com/p/14c622cf8033) |
 | Sat, 29 Nov 2025 21:45:12 GMT | I’m Finally Launching My YouTube Channel — And I Need Your Support | Satyam Pathania | [Read More](https://medium.com/p/84c8df51a7d3) |
 | Sat, 29 Nov 2025 21:42:10 GMT | The Fragile Fortress: Why Trust Is the Most Dangerous (and Necessary) Act of Love | Yash Patil | [Read More](https://medium.com/p/a6958bba5e41) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 18:41:07 GMT | Deepfake Deception: How I Hacked Biometric Authentication with $ and a YouTube Video | Iski | [Read More](https://medium.com/p/6c1ee367b28f) |
 | Sat, 29 Nov 2025 18:39:51 GMT | What Does Carding Do? Understanding the Cybercrime Behind Stolen Cards | Candidgirlsofficial | [Read More](https://medium.com/p/9979dbaf99bd) |
 | Sat, 29 Nov 2025 18:36:24 GMT | The Internet Held Its Breath: Reflections on Cloudflare’s November 2025 Outage | Soumyadipta Birabar | [Read More](https://medium.com/p/4dca7946ca92) |
-| Sat, 29 Nov 2025 18:36:06 GMT | ️ From Zero to Hero: The Complete Beginner’s Roadmap to Linux Reverse Engineering | SilentOpcode | [Read More](https://medium.com/p/d26ea2c31684) |
-| Sat, 29 Nov 2025 18:35:21 GMT | HTB Challenge — BabyEncryption | Fardeen A. | [Read More](https://medium.com/p/53668d303777) |
-| Sat, 29 Nov 2025 18:30:30 GMT | Why You Can’t Trust float64 for Perfect Precision (and It’s Not a Bug) | Moksh S | [Read More](https://medium.com/p/14dc4f934d0c) |
-| Sat, 29 Nov 2025 18:19:55 GMT | Why a VPN is Essential for Online Gaming | Awais Khan | [Read More](https://medium.com/p/444ffaf879a4) |
-| Sat, 29 Nov 2025 18:18:37 GMT | VulNyx Hosting Writeup | CyberCraft | [Read More](https://medium.com/p/fa1bf2aa3825) |
