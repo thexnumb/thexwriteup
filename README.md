@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 17:14:53 GMT | Cybersecurity Foundations: 24 Essential Terms Everyone Should Understand | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/dd02425b5c9d) |
+| Sun, 30 Nov 2025 17:03:23 GMT | TryHackMe: Anonymous — CTF Walkthrough | Sefa Toptancı | [Read More](https://medium.com/p/97000c5fb0be) |
+| Sun, 30 Nov 2025 17:02:32 GMT | Wireshark for DFIR: A Practical Guide for Digital Forensics & Incident Response | ghostyjoe | [Read More](https://medium.com/p/1f9b84b8f028) |
+| Sun, 30 Nov 2025 17:02:10 GMT | The Thing Men Never Talk About Happened to Me at 15 | Michael Cortese | [Read More](https://medium.com/p/9a0bc07b00cf) |
+| Sun, 30 Nov 2025 17:02:01 GMT | Cybersecurity in 2025: Why It’s Everyone’s Business Now | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/e746faceee11) |
+| Sun, 30 Nov 2025 16:59:55 GMT | Get To Know Vulnerability Assessment And Tools Used In Kali Linux | LUTSVIA | [Read More](https://medium.com/p/b7e36160f40b) |
+| Sun, 30 Nov 2025 16:49:59 GMT | A Zero-Day in Your Browser: What to Do Right Now | Hania Khan | [Read More](https://medium.com/p/77135bd19779) |
+| Sun, 30 Nov 2025 16:49:42 GMT | Understanding Multi-Factor Authentication (MFA) | Damir Kolobaric | [Read More](https://medium.com/p/56f7a3597730) |
+| Sun, 30 Nov 2025 16:40:46 GMT | GitHub: Machine Learning in Finance From Theory to Practice (Guide)GitHub: Machine Learning in… | Motherlandlove | [Read More](https://medium.com/p/b782394ab5aa) |
+| Sun, 30 Nov 2025 16:39:38 GMT | nz/note/enterthevoid.txt | nzunuzzz | [Read More](https://medium.com/p/60078b5ac5c7) |
 | Sun, 30 Nov 2025 16:34:16 GMT | 2. Spring Boot Security + JWT Authentication (Stateless Security) | dolly | [Read More](https://medium.com/p/e49474a1e2f6) |
 | Sun, 30 Nov 2025 16:26:58 GMT | Hi Medium family!
  Hope you’re all doing good. Let me just introduce myself quickly. | Sanjaykumar P | [Read More](https://medium.com/p/cbb9b705e338) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 10:23:39 GMT | Oturumu Açık Tutma — Devam | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6e5017ba1717) |
 | Sun, 30 Nov 2025 10:20:38 GMT | Pakistan’s Growing Cyber Scam Problem — And How We Can Fight It Together | Mehwish Mubeen | [Read More](https://medium.com/p/715d07406630) |
 | Sun, 30 Nov 2025 10:14:45 GMT | DockerLabs Writeup — Waffy (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9388e9b0b6eb) |
-| Sun, 30 Nov 2025 10:11:26 GMT | Billing Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/10d92b22becb) |
-| Sun, 30 Nov 2025 10:07:31 GMT | AppArmor Hardening on Arch Linux | 0x77 | [Read More](https://medium.com/p/00f9dc3d9b2a) |
-| Sun, 30 Nov 2025 10:03:27 GMT | Gen AI: The Silent Data-Exfiltration Crisis | DarkBarrier | [Read More](https://medium.com/p/9c8c50021765) |
-| Sun, 30 Nov 2025 10:03:23 GMT | What Happens When Ordinary Indians Discover Their Money Power? | Chitrangada | [Read More](https://medium.com/p/567c1ba092a1) |
-| Sun, 30 Nov 2025 10:01:33 GMT | Remote Debugging with Claude Code: A Practical Guide for VMs | Mohamed Gebril | [Read More](https://medium.com/p/015bf747f423) |
-| Sun, 30 Nov 2025 10:01:05 GMT | Best Cyber Monday offers on Cybersecurity Course | cyber security Updates | [Read More](https://medium.com/p/01e6aaadacd0) |
-| Sun, 30 Nov 2025 09:57:33 GMT | Cyber Kill Chain — Writeup | Mahir | [Read More](https://medium.com/p/8e468b0c2923) |
-| Sun, 30 Nov 2025 09:47:51 GMT | The Manchester United Parallel: How Poor Investment Decisions in Cybersecurity Lead to Systemic… | Steve Anderson | [Read More](https://medium.com/p/8b88bd1e876c) |
-| Sun, 30 Nov 2025 09:41:31 GMT | Zeek: The Most Underrated Network Security Engine You Should Be Using in 2025 | Singhvimahi | [Read More](https://medium.com/p/88a0035f7319) |
-| Sun, 30 Nov 2025 09:34:42 GMT | CTF-USV 2025 | Mihai-Andrei Gheorghe | [Read More](https://medium.com/p/75e8c9c99032) |
