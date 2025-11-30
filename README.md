@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 08:14:57 GMT | How The First Agentic AI Cyberattack Looks Suspiciously Good for AI Companies | Hamza Boulahia | [Read More](https://medium.com/p/611d4e4f9db8) |
+| Sun, 30 Nov 2025 08:14:44 GMT | 5 Powerful Ways to Slash Remediation Debt Fast | Pentest_Testing_Corp | [Read More](https://medium.com/p/b0aef08b5aaa) |
+| Sun, 30 Nov 2025 08:09:24 GMT | Apple’s Privacy Promise: What It Really Means for You | K_Anik | [Read More](https://medium.com/p/b4ab39758925) |
+| Sun, 30 Nov 2025 08:07:44 GMT | A Single Dork to Understand Your Infrastructure: Asset Exposure & Configuration Profiling | Yskm | [Read More](https://medium.com/p/fd7658714c4c) |
+| Sun, 30 Nov 2025 08:02:48 GMT | Cloud Security Made Simple: How Your Data Really Stays Safe Online | Grace Chukwunta | [Read More](https://medium.com/p/753e51c91cbd) |
+| Sun, 30 Nov 2025 08:02:44 GMT | It Was Easier When I Wasn’t Important | Łukasz Ratajczak | [Read More](https://medium.com/p/41c3e9d94aed) |
+| Sun, 30 Nov 2025 08:00:28 GMT | Security by Output → PHP Response Tricks That Reduce Exposure | Asian Digital Hub | [Read More](https://medium.com/p/ef47f783c1a7) |
+| Sun, 30 Nov 2025 07:58:15 GMT | Acknowledge Vulnerability Assessment in Cyber Security | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/dbf52a1c95f0) |
+| Sun, 30 Nov 2025 07:56:40 GMT | Micro-Gating Tricks That Isolate Dangerous PHP Operations | Asian Digital Hub | [Read More](https://medium.com/p/7bae89abbd2c) |
+| Sun, 30 Nov 2025 07:56:11 GMT | Hackers Are Already Inside Your Login and Here’s How to Lock the Door | Shoaib Mohammad Ankon | [Read More](https://medium.com/p/535dd6074806) |
+| Sun, 30 Nov 2025 07:44:54 GMT | - Scam - Phishing - Online Scams - CyberSecurity - Stay Safe Online - | Aj | [Read More](https://medium.com/p/95e5475e354a) |
 | Sun, 30 Nov 2025 07:32:06 GMT | 10 DuckDB Security Habits for Local-First Data Teams | Velorum | [Read More](https://medium.com/p/ddf8ac4867c2) |
 | Sun, 30 Nov 2025 07:26:23 GMT | Siber Tehditlere Karşı İlk Savunma Hattı: Firewall (Güvenlik Duvarı) Nedir? | Ata Çalım | [Read More](https://medium.com/p/5fac05b19b85) |
 | Sun, 30 Nov 2025 07:19:32 GMT | The Windows Forensic Journey — Windows Firewall Logs (%windir%\System32\LogFiles\Firewall\pfirewall. | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d3a8b709bba4) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 19:14:44 GMT | The “Dune” Worm Returns: Understanding the massive Shai-Hulud 2.0 Supply Chain Attack | Ayush Bulbule | [Read More](https://medium.com/p/6561fd6c2517) |
 | Sat, 29 Nov 2025 19:13:47 GMT | Akira Binary Reverse Analysis — v2 | Robert Gonzalez | [Read More](https://medium.com/p/8b6f02ae2020) |
 | Sat, 29 Nov 2025 19:11:22 GMT | The Phantom App: How Hackers Stole Data Without Breaking a Single Password | S Kumar | [Read More](https://medium.com/p/77b62113f312) |
-| Sat, 29 Nov 2025 19:06:46 GMT | Whoever thought that we would be in a place where something could become more addictive than the… | Seth J | [Read More](https://medium.com/p/b1a2f81c55a9) |
-| Sat, 29 Nov 2025 19:04:43 GMT | The Unpatchable Vulnerability: Why the Best Hackers Don’t Write Code | S Kumar | [Read More](https://medium.com/p/99681c669b3f) |
-| Sat, 29 Nov 2025 19:03:03 GMT | When My Son Turned Blue, I Met a Version of Myself I Never Knew | Binte Habib | [Read More](https://medium.com/p/5b64ed368ef6) |
-| Sat, 29 Nov 2025 19:02:09 GMT | Era — HackTheBox Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/8f6c71288153) |
-| Sat, 29 Nov 2025 19:01:14 GMT | Defense Against the Dark Code: A Pentester’s Journey Into Secure Code Review | The Wizard's Voice | [Read More](https://medium.com/p/9cd0c88b9933) |
-| Sat, 29 Nov 2025 18:58:50 GMT | The Collateral Damage of Public OSINT Investigations | Rabail Zaheer | [Read More](https://medium.com/p/69402791ee6f) |
-| Sat, 29 Nov 2025 18:57:23 GMT | THM — Basic Pentesting — Write-up - Hussein Ibrahim | Hussin Ibrahim | [Read More](https://medium.com/p/4bd5eb44d562) |
-| Sat, 29 Nov 2025 18:56:08 GMT | Stop Accidental DDoS: Rate Limiting & Throttling in Spring Boot 3 with Bucket4j + Redis | Priyaranjanpatra | [Read More](https://medium.com/p/3a34d7c3393f) |
-| Sat, 29 Nov 2025 18:55:13 GMT | AI Will Change Pentesting — Here’s How to Stay Valuable | Hania Khan | [Read More](https://medium.com/p/40249a4a2f34) |
-| Sat, 29 Nov 2025 18:44:55 GMT | A New Home for My Research Notes | sockpuppets | [Read More](https://medium.com/p/99383c141096) |
-| Sat, 29 Nov 2025 18:43:53 GMT | Ports — The Digital Doors of the Internet | KHAIRUL ISLAM | [Read More](https://medium.com/p/96b2b12a6004) |
