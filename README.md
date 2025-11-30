@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 11:10:04 GMT | ZoreonX: The Next Evolution Beyond Bitcoin — And Why Early Adopters Are Already Paying Attention | Oviela | [Read More](https://medium.com/p/ac3de05a7b4e) |
+| Sun, 30 Nov 2025 11:00:49 GMT | GoDaddy Alt Servisinde SQL Injection Güvenlik Açığının Teknik Analizi | Ozan Ağdepe | [Read More](https://medium.com/p/48d42f7607fe) |
+| Sun, 30 Nov 2025 11:00:25 GMT | What Is SHA Really? A Deep Dive Even Cryptographers Bookmark (2025 Edition) | Ilias Abousalim | [Read More](https://medium.com/p/e55da6304475) |
+| Sun, 30 Nov 2025 10:49:46 GMT | Cybersecurity: About the tool Wireshark | Ramandeep Bagri | [Read More](https://medium.com/p/a5d59e39c052) |
+| Sun, 30 Nov 2025 10:46:00 GMT | Security Hardening ve CIS Benchmarks: Sistemleri Güçlendirme İçin Uygulanabilir Adım Adım Rehber | Fatih UYSAL | [Read More](https://medium.com/p/8dde7b4235b4) |
+| Sun, 30 Nov 2025 10:39:42 GMT | Best Institute for Cyber Security with Placement Assistance in Delhi (2026 Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/3e51a3322f5f) |
+| Sun, 30 Nov 2025 10:36:03 GMT | The Ghost in Your Wi-Fi: Part 2 - Advanced Attacks & Defense Strategies | Nisarg Patel | [Read More](https://medium.com/p/befb6ddf41ad) |
 | Sun, 30 Nov 2025 10:32:45 GMT | Microsoft Entra Kerberos authentication for Cloud-only Identities on Azure Files SMB ❤️ | Brian Veldman | [Read More](https://medium.com/p/8bc9465b0b6c) |
+| Sun, 30 Nov 2025 10:29:07 GMT | Row-Level Security: The Key to Granular Data Control | bentonyjoe | [Read More](https://medium.com/p/14cc0f5caee3) |
 | Sun, 30 Nov 2025 10:26:51 GMT | When Bug Hunting Becomes a Burden: Surviving the Dark Side of Bug Bounties | Gl1tch | [Read More](https://medium.com/p/a61bd290f7e6) |
 | Sun, 30 Nov 2025 10:23:39 GMT | Oturumu Açık Tutma — Devam | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6e5017ba1717) |
 | Sun, 30 Nov 2025 10:20:38 GMT | Pakistan’s Growing Cyber Scam Problem — And How We Can Fight It Together | Mehwish Mubeen | [Read More](https://medium.com/p/715d07406630) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 00:41:18 GMT | The Opacity Premium: How Hidden Costs in AI and Cloud Computing Threaten the Future of Human Agency | Alucard | [Read More](https://medium.com/p/702cd6f41140) |
 | Sun, 30 Nov 2025 00:27:00 GMT | CyCTF25 Qualifications — Symmetric Challenge Writeup | Mohamed Elansari | [Read More](https://medium.com/p/241811ff52e3) |
 | Sun, 30 Nov 2025 00:26:16 GMT | Thoughts on Cybersecurity: An Ethical Security Pillar | Dia M | [Read More](https://medium.com/p/6c32d26f108d) |
-| Sun, 30 Nov 2025 00:22:22 GMT | From Insulin Pumps to Ransomware: A Timeline of How Healthcare Security Fell Behind | Dinusha Liyanage | [Read More](https://medium.com/p/976e8c8df692) |
-| Sun, 30 Nov 2025 00:15:43 GMT | Understanding Remote Access Trojan Risks Today | Geoffrey Wenger | [Read More](https://medium.com/p/620e6e4c1751) |
-| Sun, 30 Nov 2025 00:09:02 GMT | Mzeeav - PG - Walkthrough | Vladimir Cuc | [Read More](https://medium.com/p/b086b9cb9c7f) |
-| Sat, 29 Nov 2025 23:28:00 GMT | My journey Through Cyber Security. Let’s Start at the Beginning, Come Get to Know Me. | Zacdmw | [Read More](https://medium.com/p/fbb882ab0fe9) |
-| Sat, 29 Nov 2025 23:13:43 GMT | Bring him to her | Alex Dance | [Read More](https://medium.com/p/02cd159cd824) |
-| Sat, 29 Nov 2025 22:57:56 GMT | Introduction to SQL Injection (SQLi) | Red_Ghost | [Read More](https://medium.com/p/aaceeb0bc8f7) |
-| Sat, 29 Nov 2025 22:56:48 GMT | How Quantum Physics and the Vedas Are Reshaping the Future of AI and Information Technology | Sandip Prashar | [Read More](https://medium.com/p/6d9b9f626c17) |
-| Sat, 29 Nov 2025 22:48:14 GMT | I Invited Hackers to a Fake Server. Here’s How I Did It (And What They Did). | Aderinola Taiwo | [Read More](https://medium.com/p/1eef236d5197) |
