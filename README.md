@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 18:45:32 GMT | ARK DEV: Transformando la Innovación Tecnológica | Joel Andres C | [Read More](https://medium.com/p/f1f45cb93a72) |
+| Sun, 30 Nov 2025 18:40:23 GMT | The One Cyber Hygiene Checklist Every User Must Follow Today | Payaljlathi | [Read More](https://medium.com/p/bf03664db29e) |
+| Sun, 30 Nov 2025 18:21:31 GMT | ️ Play Integrity API Setup Guide | Mohamed Elsdody | [Read More](https://medium.com/p/d1aaa0c4f504) |
+| Sun, 30 Nov 2025 18:18:22 GMT | What Just and Unjust Wars Teaches Us The Morality of what’s happening inside The Nine Dash Line | Alvin Liu | [Read More](https://medium.com/p/34960ec236a7) |
 | Sun, 30 Nov 2025 18:15:28 GMT | Inside the Shai-Hulud npm Supply-Chain Attack: What Happened, What Was Stolen, and Why Every… | Arun Kumar | [Read More](https://medium.com/p/67bdb9883b6c) |
 | Sun, 30 Nov 2025 18:02:45 GMT | HTB Challenge — Embryonic Plant | Fardeen A. | [Read More](https://medium.com/p/ac17e032bf44) |
 | Sun, 30 Nov 2025 18:02:21 GMT | Security Principles THM walkthrough | Harshana Lasith weragoda | [Read More](https://medium.com/p/5f46659f7628) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 11:49:21 GMT | Chmod vs. Chown vs. ACL | Amrsmooke | [Read More](https://medium.com/p/4ee1e3024102) |
 | Sun, 30 Nov 2025 11:48:36 GMT | Lab 3#: Clickjacking with a frame buster script- Clickjacking Lab | Mosta | [Read More](https://medium.com/p/8888f5da90f8) |
 | Sun, 30 Nov 2025 11:45:10 GMT | Security Engineer Roadmap: Skills, Steps & Real-World Insights | NineTales | [Read More](https://medium.com/p/454ba4703280) |
-| Sun, 30 Nov 2025 11:36:08 GMT | CISA KEV Alert: OpenPLC ScadaBR XSS Bug CVE-2021–26829 and the New Wave of ICS Hacktivism | Germano Costi | [Read More](https://medium.com/p/8e3105a6853d) |
-| Sun, 30 Nov 2025 11:32:09 GMT | Understanding Stored XSS: A Beginner’s Guide to One of the Web’s Most Dangerous Vulnerabilities | Moez Ben-Azzouz | [Read More](https://medium.com/p/f983438509a1) |
-| Sun, 30 Nov 2025 11:30:21 GMT | Multi-Campus, Multi-Role JWT Design and ThreadLocal Safety | Luna | [Read More](https://medium.com/p/4cda269b377a) |
-| Sun, 30 Nov 2025 11:26:22 GMT | Siber İstihbarat Sanatı Bölüm 2: Aktif Tarama ve Nmap -Kapıyı Çalma Vakti | Onur Altuğ | [Read More](https://medium.com/p/c7b01e6e710e) |
