@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 10:14:45 GMT | DockerLabs Writeup — Waffy (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9388e9b0b6eb) |
+| Sun, 30 Nov 2025 10:11:26 GMT | Billing Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/10d92b22becb) |
+| Sun, 30 Nov 2025 10:07:31 GMT | AppArmor Hardening on Arch Linux | 0x77 | [Read More](https://medium.com/p/00f9dc3d9b2a) |
+| Sun, 30 Nov 2025 10:03:27 GMT | Gen AI: The Silent Data-Exfiltration Crisis | DarkBarrier | [Read More](https://medium.com/p/9c8c50021765) |
+| Sun, 30 Nov 2025 10:03:23 GMT | What Happens When Ordinary Indians Discover Their Money Power? | Chitrangada | [Read More](https://medium.com/p/567c1ba092a1) |
+| Sun, 30 Nov 2025 10:01:33 GMT | Remote Debugging with Claude Code: A Practical Guide for VMs | Mohamed Gebril | [Read More](https://medium.com/p/015bf747f423) |
+| Sun, 30 Nov 2025 10:01:05 GMT | Best Cyber Monday offers on Cybersecurity Course | cyber security Updates | [Read More](https://medium.com/p/01e6aaadacd0) |
+| Sun, 30 Nov 2025 09:57:33 GMT | Cyber Kill Chain — Writeup | Mahir | [Read More](https://medium.com/p/8e468b0c2923) |
+| Sun, 30 Nov 2025 09:47:51 GMT | The Manchester United Parallel: How Poor Investment Decisions in Cybersecurity Lead to Systemic… | Steve Anderson | [Read More](https://medium.com/p/8b88bd1e876c) |
+| Sun, 30 Nov 2025 09:41:31 GMT | Zeek: The Most Underrated Network Security Engine You Should Be Using in 2025 | Singhvimahi | [Read More](https://medium.com/p/88a0035f7319) |
+| Sun, 30 Nov 2025 09:34:42 GMT | CTF-USV 2025 | Mihai-Andrei Gheorghe | [Read More](https://medium.com/p/75e8c9c99032) |
+| Sun, 30 Nov 2025 09:32:45 GMT | Hello World: Starting My Cybersecurity Blog | Akhil | [Read More](https://medium.com/p/3bdb28fc732b) |
 | Sun, 30 Nov 2025 09:31:20 GMT | THM- Daily Bugle Writeup | cbev | [Read More](https://medium.com/p/3a93c9371861) |
 | Sun, 30 Nov 2025 09:27:00 GMT | Kali GPT: The Future of AI-Driven Cybersecurity Tools in Kali Linux | Cybervolt | [Read More](https://medium.com/p/3744b13c89a9) |
 | Sun, 30 Nov 2025 09:24:41 GMT | Android Forensics CTF Write-Up | Emre Karatay | [Read More](https://medium.com/p/d31792b430bc) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 22:01:56 GMT | I Want to Love Deeply, But I Keep Running | sonofdgods | [Read More](https://medium.com/p/14c622cf8033) |
 | Sat, 29 Nov 2025 21:45:12 GMT | I’m Finally Launching My YouTube Channel — And I Need Your Support | Satyam Pathania | [Read More](https://medium.com/p/84c8df51a7d3) |
 | Sat, 29 Nov 2025 21:42:10 GMT | The Fragile Fortress: Why Trust Is the Most Dangerous (and Necessary) Act of Love | Yash Patil | [Read More](https://medium.com/p/a6958bba5e41) |
-| Sat, 29 Nov 2025 21:35:44 GMT | Portswigger Lab: Brute-forcing a stay-logged-in cookie | Songül Kızılay Özügürler | [Read More](https://medium.com/p/99c841c14b97) |
-| Sat, 29 Nov 2025 21:20:16 GMT | Achieving Maximum Online Privacy in 2025: A No-Compromise Guide | Officer's Notes | [Read More](https://medium.com/p/4a27c1f53b7f) |
-| Sat, 29 Nov 2025 21:08:20 GMT | Cap HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/e6187005bf9d) |
-| Sat, 29 Nov 2025 21:06:42 GMT | I Find security vulnerabilities behind access denied errors | Ibtissam | [Read More](https://medium.com/p/91181015e3f8) |
-| Sat, 29 Nov 2025 21:06:07 GMT | Linux Hardening & Auditd , Monitoring , Output Redirection, Logging for Hackers | Cybersecplayground | [Read More](https://medium.com/p/3e5376da3eb6) |
-| Sat, 29 Nov 2025 20:56:19 GMT | K8s-Certs-Manager: A Proactive K8s TLS Health Check Alerting System | Omar Din | [Read More](https://medium.com/p/82fbb317aa49) |
-| Sat, 29 Nov 2025 20:45:50 GMT | stored XSS in blog title field | Ahmed Talaat | [Read More](https://medium.com/p/0dc862ceb44c) |
-| Sat, 29 Nov 2025 20:43:17 GMT | TryHackMe Writeup: Overpass | Berkay AĞGÜL | [Read More](https://medium.com/p/338ba1b0cc77) |
-| Sat, 29 Nov 2025 20:43:05 GMT | Canada Desperately Needs a New Security Alliance | Fedor Butochnikow | [Read More](https://medium.com/p/3f2a55a82c80) |
-| Sat, 29 Nov 2025 20:38:48 GMT | NPM Supply-Chain Attacks: Detection & Defense ⚠️ | Aditya Bhatt | [Read More](https://medium.com/p/dd6cabfbb3e8) |
-| Sat, 29 Nov 2025 20:33:38 GMT | My Hands On Experience Accessing The Backend Of Wordpress Website | Cyber Timi | [Read More](https://medium.com/p/2aedbd435eb8) |
-| Sat, 29 Nov 2025 20:30:55 GMT | Stop Buying the Wrong Wi-Fi Adapter for Kali Linux (2025 Guide) | Divyanshubhoir | [Read More](https://medium.com/p/e5e2dc1e5667) |
