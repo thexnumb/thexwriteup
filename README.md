@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 15:32:09 GMT | Week 8: The Bug That Almost Broke Me | ZAYN | [Read More](https://medium.com/p/c7cbb390eeed) |
+| Sun, 30 Nov 2025 15:28:47 GMT | The Why‑to‑How‑to: BitLocker | Ahmed Monsri | [Read More](https://medium.com/p/dae426d6f9aa) |
+| Sun, 30 Nov 2025 15:28:37 GMT | The Art Of Bypassing Authentication Limits - All Known Techniques | terp0x0 | [Read More](https://medium.com/p/835a8506a411) |
+| Sun, 30 Nov 2025 15:25:50 GMT | How Hackers Bypass Data Loss Prevention | Motasem Hamdan | [Read More](https://medium.com/p/8920aa9d3bdd) |
+| Sun, 30 Nov 2025 15:25:49 GMT | CISCO Password - CISCO Salted Password - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/e1ff452297d8) |
+| Sun, 30 Nov 2025 15:19:43 GMT | What I Learned from Working on an Integrated Security Scanning Pipeline | Irfan HN | [Read More](https://medium.com/p/1f3cdf0e4165) |
 | Sun, 30 Nov 2025 15:14:53 GMT | The Hidden Risks in AI-Generated Code: How to Detect and Fix Vulnerabilities in Python Projects | Er.Muruganantham | [Read More](https://medium.com/p/a81dd4fa4892) |
 | Sun, 30 Nov 2025 15:10:51 GMT | The Understanding Abstract Syntax Trees (AST): How Modern Tools Parse, Analyze, and Transform Your… | Atsushi Hatakeyama | [Read More](https://medium.com/p/c3edc7e1e687) |
 | Sun, 30 Nov 2025 15:04:51 GMT | Security and Performance Aspects of Sysctl Performance Tuning | Linux Guide | [Read More](https://medium.com/p/862f04bd9b6f) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 08:34:50 GMT | The Exhaustive Combinatorial and Cryptographic Analysis of BIP-39 Mnemonic Permutations | Thinker | [Read More](https://medium.com/p/b7d581aeb3c5) |
 | Sun, 30 Nov 2025 08:28:12 GMT | The Heart of Cyber Threat Hunting: A Beginner’s Guide to EDR Telemetry Analysis | Esra Kayhan | [Read More](https://medium.com/p/bad457aefe3b) |
 | Sun, 30 Nov 2025 08:14:57 GMT | How The First Agentic AI Cyberattack Looks Suspiciously Good for AI Companies | Hamza Boulahia | [Read More](https://medium.com/p/611d4e4f9db8) |
-| Sun, 30 Nov 2025 08:14:44 GMT | 5 Powerful Ways to Slash Remediation Debt Fast | Pentest_Testing_Corp | [Read More](https://medium.com/p/b0aef08b5aaa) |
-| Sun, 30 Nov 2025 08:09:24 GMT | Apple’s Privacy Promise: What It Really Means for You | K_Anik | [Read More](https://medium.com/p/b4ab39758925) |
-| Sun, 30 Nov 2025 08:07:44 GMT | A Single Dork to Understand Your Infrastructure: Asset Exposure & Configuration Profiling | Yskm | [Read More](https://medium.com/p/fd7658714c4c) |
-| Sun, 30 Nov 2025 08:02:48 GMT | Cloud Security Made Simple: How Your Data Really Stays Safe Online | Grace Chukwunta | [Read More](https://medium.com/p/753e51c91cbd) |
-| Sun, 30 Nov 2025 08:02:44 GMT | It Was Easier When I Wasn’t Important | Łukasz Ratajczak | [Read More](https://medium.com/p/41c3e9d94aed) |
-| Sun, 30 Nov 2025 08:00:28 GMT | Security by Output → PHP Response Tricks That Reduce Exposure | Asian Digital Hub | [Read More](https://medium.com/p/ef47f783c1a7) |
