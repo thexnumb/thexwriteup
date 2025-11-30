@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 10:32:45 GMT | Microsoft Entra Kerberos authentication for Cloud-only Identities on Azure Files SMB ❤️ | Brian Veldman | [Read More](https://medium.com/p/8bc9465b0b6c) |
+| Sun, 30 Nov 2025 10:26:51 GMT | When Bug Hunting Becomes a Burden: Surviving the Dark Side of Bug Bounties | Gl1tch | [Read More](https://medium.com/p/a61bd290f7e6) |
+| Sun, 30 Nov 2025 10:23:39 GMT | Oturumu Açık Tutma — Devam | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6e5017ba1717) |
+| Sun, 30 Nov 2025 10:20:38 GMT | Pakistan’s Growing Cyber Scam Problem — And How We Can Fight It Together | Mehwish Mubeen | [Read More](https://medium.com/p/715d07406630) |
 | Sun, 30 Nov 2025 10:14:45 GMT | DockerLabs Writeup — Waffy (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9388e9b0b6eb) |
 | Sun, 30 Nov 2025 10:11:26 GMT | Billing Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/10d92b22becb) |
 | Sun, 30 Nov 2025 10:07:31 GMT | AppArmor Hardening on Arch Linux | 0x77 | [Read More](https://medium.com/p/00f9dc3d9b2a) |
@@ -33,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 09:00:38 GMT | The Content Strategy No One Wants to Admit Works — And Why I Built My Entire Brand on It | Vijay Kumar Gupta | [Read More](https://medium.com/p/c87a03e3b54e) |
 | Sun, 30 Nov 2025 08:59:44 GMT | How to Find Hidden Cameras in Any Room (The Safest and Right Methods for You) | FutureLens | [Read More](https://medium.com/p/9eae8c7ee2fa) |
 | Sun, 30 Nov 2025 08:50:37 GMT | Using all of my brain capacity | Ugosam | [Read More](https://medium.com/p/8bbb18a8a0ba) |
+| Sun, 30 Nov 2025 08:39:39 GMT | Smishing Attack on OpenAI Vendor Compromised Thousands of API Accounts | Patrik Žák | [Read More](https://medium.com/p/287fe30b8227) |
 | Sun, 30 Nov 2025 08:34:50 GMT | The Exhaustive Combinatorial and Cryptographic Analysis of BIP-39 Mnemonic Permutations | Thinker | [Read More](https://medium.com/p/b7d581aeb3c5) |
 | Sun, 30 Nov 2025 08:28:12 GMT | The Heart of Cyber Threat Hunting: A Beginner’s Guide to EDR Telemetry Analysis | Esra Kayhan | [Read More](https://medium.com/p/bad457aefe3b) |
 | Sun, 30 Nov 2025 08:14:57 GMT | How The First Agentic AI Cyberattack Looks Suspiciously Good for AI Companies | Hamza Boulahia | [Read More](https://medium.com/p/611d4e4f9db8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 22:57:56 GMT | Introduction to SQL Injection (SQLi) | Red_Ghost | [Read More](https://medium.com/p/aaceeb0bc8f7) |
 | Sat, 29 Nov 2025 22:56:48 GMT | How Quantum Physics and the Vedas Are Reshaping the Future of AI and Information Technology | Sandip Prashar | [Read More](https://medium.com/p/6d9b9f626c17) |
 | Sat, 29 Nov 2025 22:48:14 GMT | I Invited Hackers to a Fake Server. Here’s How I Did It (And What They Did). | Aderinola Taiwo | [Read More](https://medium.com/p/1eef236d5197) |
-| Sat, 29 Nov 2025 22:09:10 GMT | BankGPT - TryHackme Walkthrough | Gustavo Henrique | [Read More](https://medium.com/p/3fb99d8539cc) |
-| Sat, 29 Nov 2025 22:07:06 GMT | Detecting and Exploiting the UnrealIRCd 3281 Backdoor using Metasploit | Eric_Mavyuva | [Read More](https://medium.com/p/a2b30ef8734e) |
-| Sat, 29 Nov 2025 22:01:56 GMT | I Want to Love Deeply, But I Keep Running | sonofdgods | [Read More](https://medium.com/p/14c622cf8033) |
-| Sat, 29 Nov 2025 21:45:12 GMT | I’m Finally Launching My YouTube Channel — And I Need Your Support | Satyam Pathania | [Read More](https://medium.com/p/84c8df51a7d3) |
-| Sat, 29 Nov 2025 21:42:10 GMT | The Fragile Fortress: Why Trust Is the Most Dangerous (and Necessary) Act of Love | Yash Patil | [Read More](https://medium.com/p/a6958bba5e41) |
