@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 01:42:10 GMT | Beyond Likes: Finding Your True Confidant in a Lonely World | Poly-blang | [Read More](https://medium.com/p/94e0673256fe) |
+| Sun, 30 Nov 2025 01:34:56 GMT | AI Security By Cloud Commercial Holdings LLC | Cloud Commercial Holdings LLC | [Read More](https://medium.com/p/9ce3db039334) |
+| Sun, 30 Nov 2025 01:34:45 GMT | Code is Fine, Architecture is Not: What the OWASP Top 10:2025 RC Tells Us About the Next Generation… | Nmullenski | [Read More](https://medium.com/p/87756efa3547) |
+| Sun, 30 Nov 2025 01:22:33 GMT | How I Almost Found 5,000$ Bug But Reported Too Early - My Multi-Endpoint XSS Story | j4k3l0ng | [Read More](https://medium.com/p/5907b01ba170) |
+| Sun, 30 Nov 2025 01:17:18 GMT | I want to be held gently | airairairaa | [Read More](https://medium.com/p/f2dce6d2a134) |
+| Sun, 30 Nov 2025 01:13:56 GMT | Safe, But Not Alive | Vanessa Sophia | [Read More](https://medium.com/p/808067fd942b) |
+| Sun, 30 Nov 2025 01:13:01 GMT | Linux Commands — Simple Explanation = Temel Terminal ve Sistem Bilgisi Komutları | Mert Baykal | [Read More](https://medium.com/p/134ee5e48f4f) |
+| Sun, 30 Nov 2025 01:12:19 GMT | Evil Corp: Inside the Rise of Moscow’s Most Brazen Cybercrime Empire | Aaron | [Read More](https://medium.com/p/e49fa4055ad1) |
+| Sun, 30 Nov 2025 00:52:24 GMT | Reconnaissance, Subdomain Enumeration and Nmap Scanning: A Practical Pentest Guide | Mert Baykal | [Read More](https://medium.com/p/5702caf8dff3) |
+| Sun, 30 Nov 2025 00:41:18 GMT | The Opacity Premium: How Hidden Costs in AI and Cloud Computing Threaten the Future of Human Agency | Alucard | [Read More](https://medium.com/p/702cd6f41140) |
+| Sun, 30 Nov 2025 00:27:00 GMT | CyCTF25 Qualifications — Symmetric Challenge Writeup | Mohamed Elansari | [Read More](https://medium.com/p/241811ff52e3) |
+| Sun, 30 Nov 2025 00:26:16 GMT | Thoughts on Cybersecurity: An Ethical Security Pillar | Dia M | [Read More](https://medium.com/p/6c32d26f108d) |
+| Sun, 30 Nov 2025 00:22:22 GMT | From Insulin Pumps to Ransomware: A Timeline of How Healthcare Security Fell Behind | Dinusha Liyanage | [Read More](https://medium.com/p/976e8c8df692) |
+| Sun, 30 Nov 2025 00:15:43 GMT | Understanding Remote Access Trojan Risks Today | Geoffrey Wenger | [Read More](https://medium.com/p/620e6e4c1751) |
+| Sun, 30 Nov 2025 00:09:02 GMT | Mzeeav - PG - Walkthrough | Vladimir Cuc | [Read More](https://medium.com/p/b086b9cb9c7f) |
 | Sat, 29 Nov 2025 23:28:00 GMT | My journey Through Cyber Security. Let’s Start at the Beginning, Come Get to Know Me. | Zacdmw | [Read More](https://medium.com/p/fbb882ab0fe9) |
 | Sat, 29 Nov 2025 23:13:43 GMT | Bring him to her | Alex Dance | [Read More](https://medium.com/p/02cd159cd824) |
 | Sat, 29 Nov 2025 22:57:56 GMT | Introduction to SQL Injection (SQLi) | Red_Ghost | [Read More](https://medium.com/p/aaceeb0bc8f7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 15:25:15 GMT | Mastering Nmap: The Ultimate Guide to Advanced Network Scanning | Ajmir khan | [Read More](https://medium.com/p/5c5608c289ef) |
 | Sat, 29 Nov 2025 15:11:25 GMT | Client-Side JSON Is the Weak Link: A Rule-Based ‘Semantic Envelope’ to Protect What You Ship | An Nguyen | [Read More](https://medium.com/p/579451fc1181) |
 | Sat, 29 Nov 2025 15:03:13 GMT | Threat Model: SIM Swapping And How To Protect Yourself | Danny | [Read More](https://medium.com/p/b6e94f860de5) |
-| Sat, 29 Nov 2025 15:01:00 GMT | Analysis on Zer0__D4y5 Impact | lukewago | [Read More](https://medium.com/p/40224d29c5d4) |
-| Sat, 29 Nov 2025 14:58:35 GMT | THE PATTERN, THE OPERATOR, AND THE COST: | Verity | [Read More](https://medium.com/p/d7ec18972f85) |
-| Sat, 29 Nov 2025 14:56:16 GMT | The Pine Labs 100M+ Transaction Leak: Breaking Down a High-Impact IDOR (CVSS 8.6) | Aditya Sunny | [Read More](https://medium.com/p/11bf7a811516) |
-| Sat, 29 Nov 2025 14:41:14 GMT | The Luhn Algorithm: How a 1954 Formula Powers (and Endangers) Digital Payments | Musa Yusuf Magoban | [Read More](https://medium.com/p/185c047567e8) |
-| Sat, 29 Nov 2025 14:40:46 GMT | Building My Cybersecurity Foundation: Learning Linux Commands | Leona | [Read More](https://medium.com/p/73d712a13497) |
-| Sat, 29 Nov 2025 14:36:36 GMT | Digital Forensics and Incident Response- Velociraptor [MCP Compromise & Abuse Case] | whoami | [Read More](https://medium.com/p/cd9378113bed) |
-| Sat, 29 Nov 2025 14:36:00 GMT | Hello, Grandma…” — The Billion-Dollar Lie and the Fantasy of Revenge | Frederic Hutter | [Read More](https://medium.com/p/23114e108969) |
-| Sat, 29 Nov 2025 14:35:32 GMT | I was a speaker at Splunk .conf25, so what? | Grotti | [Read More](https://medium.com/p/1506662c5fe1) |
-| Sat, 29 Nov 2025 14:34:04 GMT | How to Integrate ReconFTW With KaliGPT | ghostyjoe | [Read More](https://medium.com/p/77e063597da6) |
-| Sat, 29 Nov 2025 14:32:08 GMT | That Gift Card Isn’t So Innocent | FinCrimeXpert | [Read More](https://medium.com/p/b4071cb92673) |
-| Sat, 29 Nov 2025 14:28:35 GMT | Our AI Had 99.2% Accuracy. We Still Lost $9.4M. Here’s Why. | AhmedAbdelmenem | [Read More](https://medium.com/p/f343ab3d55af) |
-| Sat, 29 Nov 2025 14:25:25 GMT | 84% of LLM Agents Fail Security Tests: Why Your AI Application Is Wide Open | MohamedAbdelmenem | [Read More](https://medium.com/p/24e57fc4c8ca) |
-| Sat, 29 Nov 2025 14:21:17 GMT | Why “Safety & Security” Should Not Be One Department and Why Combining Them Creates Risk | Peter Uliano | [Read More](https://medium.com/p/cbe289307e83) |
-| Sat, 29 Nov 2025 14:10:40 GMT | DATA PRIVACY AND DIGITAL DATA PROTECTION ACT (DPDPA), 2023 | Rakshita | [Read More](https://medium.com/p/6c0cc24f1b94) |
-| Sat, 29 Nov 2025 14:07:31 GMT | Vulnlab Boolean-Based Blind SQL Injection | Abang_xin | [Read More](https://medium.com/p/44766b108180) |
