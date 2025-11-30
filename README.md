@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 20:30:09 GMT | Heavy Inside | Alizabeth Amelia Rose | [Read More](https://medium.com/p/9c05fbdbc6e8) |
+| Sun, 30 Nov 2025 20:26:57 GMT | Developers Have Been Shipping AI-Generated Vulnerabilities Since 2021 | Ahmed Ibrahim | [Read More](https://medium.com/p/d1c93c3787b9) |
+| Sun, 30 Nov 2025 20:26:38 GMT | Securing an inference service with Authorino | Juanma Barea Martinez | [Read More](https://medium.com/p/d4d2d62cf554) |
+| Sun, 30 Nov 2025 20:26:22 GMT | Burp Suite Basics: Learning Web Application Security | Shahzaib | [Read More](https://medium.com/p/75943d6c31cb) |
+| Sun, 30 Nov 2025 20:17:56 GMT | I Hacked Vulnyx for 7 Days — Here’s What I Learned | CyberCraft | [Read More](https://medium.com/p/f56f32d59fea) |
 | Sun, 30 Nov 2025 19:46:11 GMT | 4 Questions You’ll Likely Get in a SOC Analyst Interview (and How to Answer Them) | Jbird | [Read More](https://medium.com/p/14a73fc4607a) |
 | Sun, 30 Nov 2025 19:37:16 GMT | The Only Simple Cybersecurity Roadmap You Need (From Someone Who Started With Zero Clue) | Veeram Reddy | [Read More](https://medium.com/p/a8196c88b1ce) |
 | Sun, 30 Nov 2025 19:21:47 GMT | Testing Detection Rules | Just Moi | [Read More](https://medium.com/p/35cea16b5f91) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 12:39:42 GMT | Make Your Instagram Hack-Proof: The Simple Guide Everyone Should Know | Persis Tafflin | [Read More](https://medium.com/p/d352bf4790c7) |
 | Sun, 30 Nov 2025 12:35:04 GMT | The Corporate Truth We Don’t Talk About: Not Everyone Needs to Be a Leader | Sivakumar Ravi | [Read More](https://medium.com/p/263420899293) |
 | Sun, 30 Nov 2025 12:32:02 GMT | Guide to understanding Website Structure | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/89a046bbd565) |
-| Sun, 30 Nov 2025 12:24:17 GMT | Malware Analysis Course for Cyber Security Learners | Manisha Chaudhary | [Read More](https://medium.com/p/bc8df5bf6555) |
-| Sun, 30 Nov 2025 12:22:15 GMT | Vibe Coding 實戰必看！10 個會讓你專案翻車的技術陷阱 | 林鼎淵 | [Read More](https://medium.com/p/4a7f80f5833b) |
-| Sun, 30 Nov 2025 12:21:12 GMT | SOC Playbook Serisi - Bölüm 2: Web Shell Tespit, Analiz ve Hunting Tekniklerinin Derinlemesine… | Beyza Sıla Gökmen | [Read More](https://medium.com/p/a0067bc53bbb) |
-| Sun, 30 Nov 2025 12:10:04 GMT | Agents for Autonomous Pen Testing | Poushali Chattopadhyay | [Read More](https://medium.com/p/366e5919cc44) |
-| Sun, 30 Nov 2025 12:09:35 GMT | Where Is the Future of Life Headed? AI, Humans, and DNA | yoichi.hagiwara | [Read More](https://medium.com/p/7d17769e6688) |
