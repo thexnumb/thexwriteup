@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 06:26:37 GMT | Inside Pakistan’s Rising Cyber Fraud Industry | Khadeejaali | [Read More](https://medium.com/p/6c9b7819c5fc) |
+| Sun, 30 Nov 2025 06:22:40 GMT | The Reality of Bug Bounty Mediation: A Hunter’s Perspective | Gl1tch | [Read More](https://medium.com/p/f0839a2dede2) |
+| Sun, 30 Nov 2025 06:21:56 GMT | Azure Front Door vs Application Gateway | Niwantha Wickramasingha | [Read More](https://medium.com/p/766840a4bdc2) |
+| Sun, 30 Nov 2025 06:21:25 GMT | Event ID — 83 - SOC119-Malicious Executable File Detected | Soumodeep Das | [Read More](https://medium.com/p/067e2a55b3c8) |
+| Sun, 30 Nov 2025 06:15:25 GMT | get a free Kali VPS with Segfault — a quick guide for bug hunters | Ahmed Fawzy | [Read More](https://medium.com/p/b242f275dfe9) |
+| Sun, 30 Nov 2025 05:54:20 GMT | Your First Step Into Ethical Hacking: A Beginner’s Guide to Becoming a Master Hacker | monster | [Read More](https://medium.com/p/81237126c4f5) |
+| Sun, 30 Nov 2025 05:50:22 GMT | “AI-Powered Hacks, State-Sponsored Breaches & India’s Cyber Alarm — 2025’s Wake-Up Call” | pavani | [Read More](https://medium.com/p/f953e6ffb436) |
+| Sun, 30 Nov 2025 05:39:36 GMT | Canadian scientific consulting service confirms data breach following $1.2 million ransom demand | cyberwinx | [Read More](https://medium.com/p/7ad9d5ecce8e) |
 | Sun, 30 Nov 2025 05:36:03 GMT | How Hackers Build Their Own Mini Attack Labs Using Only Open-Source Tools (No VMs Required) | monster | [Read More](https://medium.com/p/08150c6cc026) |
 | Sun, 30 Nov 2025 05:13:19 GMT | How AI Shaped My Preparation for the CREST CPSA — Preparation tips, Mock test, Study Plan | Indrajeet Bhuyan | [Read More](https://medium.com/p/90b5d8d24017) |
 | Sun, 30 Nov 2025 05:13:14 GMT | What is bot traffic? How to block only bad bots from your Web Service | STCLab, Inc. | [Read More](https://medium.com/p/a08d36920312) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 18:30:30 GMT | Why You Can’t Trust float64 for Perfect Precision (and It’s Not a Bug) | Moksh S | [Read More](https://medium.com/p/14dc4f934d0c) |
 | Sat, 29 Nov 2025 18:19:55 GMT | Why a VPN is Essential for Online Gaming | Awais Khan | [Read More](https://medium.com/p/444ffaf879a4) |
 | Sat, 29 Nov 2025 18:18:37 GMT | VulNyx Hosting Writeup | CyberCraft | [Read More](https://medium.com/p/fa1bf2aa3825) |
-| Sat, 29 Nov 2025 18:14:47 GMT | Are Browser Extensions Harming Your Device? | Awais Khan | [Read More](https://medium.com/p/9d67373e1791) |
-| Sat, 29 Nov 2025 18:07:05 GMT | 7 IDOR Types Every Bug Hunter Must Master (Unlock $1K–$20K Bounties!) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/bce411aa8d02) |
-| Sat, 29 Nov 2025 18:05:55 GMT | WEEKEND SPECIAL EPISODE “The Night I Escaped the Server Farm” | Shobha Pai | [Read More](https://medium.com/p/7bfef11a3602) |
-| Sat, 29 Nov 2025 18:04:25 GMT | From Leaked Secret to RCE(HTB CTF) | Youss1f | [Read More](https://medium.com/p/605f621defac) |
-| Sat, 29 Nov 2025 18:02:54 GMT | Barca Bounce Back! | CK | [Read More](https://medium.com/p/edeed8c98b08) |
-| Sat, 29 Nov 2025 17:44:28 GMT | Hey everyone! | TechBit | [Read More](https://medium.com/p/b57ef903f82c) |
-| Sat, 29 Nov 2025 17:31:09 GMT | The AI Thread People are Not Talking About | Vinay | [Read More](https://medium.com/p/92e7cd8e4128) |
-| Sat, 29 Nov 2025 17:25:53 GMT | Upbit’s $36 Million Solana Hack Lands at the Worst Possible Moment | Aaron | [Read More](https://medium.com/p/559169e72ea5) |
