@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 18:56:37 GMT | ✨ The Holiday Scam Surge No One’s Talking About | Dr. Elsie M. Casimir | [Read More](https://medium.com/p/d5a428ca60a2) |
+| Sun, 30 Nov 2025 18:53:47 GMT | Cybersecurity Is Hard | Adeluworker | [Read More](https://medium.com/p/032ec4343e9b) |
 | Sun, 30 Nov 2025 18:45:32 GMT | ARK DEV: Transformando la Innovación Tecnológica | Joel Andres C | [Read More](https://medium.com/p/f1f45cb93a72) |
 | Sun, 30 Nov 2025 18:40:23 GMT | The One Cyber Hygiene Checklist Every User Must Follow Today | Payaljlathi | [Read More](https://medium.com/p/bf03664db29e) |
 | Sun, 30 Nov 2025 18:21:31 GMT | ️ Play Integrity API Setup Guide | Mohamed Elsdody | [Read More](https://medium.com/p/d1aaa0c4f504) |
@@ -20,6 +22,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 18:02:45 GMT | HTB Challenge — Embryonic Plant | Fardeen A. | [Read More](https://medium.com/p/ac17e032bf44) |
 | Sun, 30 Nov 2025 18:02:21 GMT | Security Principles THM walkthrough | Harshana Lasith weragoda | [Read More](https://medium.com/p/5f46659f7628) |
 | Sun, 30 Nov 2025 17:57:00 GMT | Guilty Until Proven Innocent | Jeremy Tarkington | [Read More](https://medium.com/p/18ed7ebec38a) |
+| Sun, 30 Nov 2025 17:44:11 GMT | Multipart Form Data OutSystems | Sabaoon Bedar | [Read More](https://medium.com/p/1c660c69be5e) |
 | Sun, 30 Nov 2025 17:42:05 GMT | fácil Splunk Enterprise Security | Antonella Blasetti | [Read More](https://medium.com/p/77bfd35d692a) |
 | Sun, 30 Nov 2025 17:40:30 GMT | Padelify Tryhackme From Blind XSS to RCE | Contact Aryan Here | [Read More](https://medium.com/p/5fe52b92f17c) |
 | Sun, 30 Nov 2025 17:38:05 GMT | What Is a WiFi Deauthentication Attack? How Fake Disconnect Messages Work | Natarajan C K | [Read More](https://medium.com/p/6b3a74b4abab) |
@@ -39,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 16:59:55 GMT | Get To Know Vulnerability Assessment And Tools Used In Kali Linux | LUTSVIA | [Read More](https://medium.com/p/b7e36160f40b) |
 | Sun, 30 Nov 2025 16:49:59 GMT | A Zero-Day in Your Browser: What to Do Right Now | Hania Khan | [Read More](https://medium.com/p/77135bd19779) |
 | Sun, 30 Nov 2025 16:49:42 GMT | Understanding Multi-Factor Authentication (MFA) | Damir Kolobaric | [Read More](https://medium.com/p/56f7a3597730) |
+| Sun, 30 Nov 2025 16:48:30 GMT | Lab 2: Web cache poisoning with an unkeyed cookie | L4V4NY4  AGR3 | [Read More](https://medium.com/p/b9683952b5ce) |
 | Sun, 30 Nov 2025 16:40:46 GMT | GitHub: Machine Learning in Finance From Theory to Practice (Guide)GitHub: Machine Learning in… | Motherlandlove | [Read More](https://medium.com/p/b782394ab5aa) |
 | Sun, 30 Nov 2025 16:39:38 GMT | nz/note/enterthevoid.txt | nzunuzzz | [Read More](https://medium.com/p/60078b5ac5c7) |
 | Sun, 30 Nov 2025 16:34:16 GMT | 2. Spring Boot Security + JWT Authentication (Stateless Security) | dolly | [Read More](https://medium.com/p/e49474a1e2f6) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 12:00:32 GMT | Google’s Antigravity Just Proved Why We Need Agent Identity Infrastructure | AstraSync AI | [Read More](https://medium.com/p/f476db5ba34b) |
 | Sun, 30 Nov 2025 11:55:04 GMT | Vulnerability Assessment and Its Role in Modern Cyber Security | HABIBI | [Read More](https://medium.com/p/a0899ad3c34f) |
 | Sun, 30 Nov 2025 11:51:25 GMT | Part II – Behind the Screens: The Technology That Makes Hacking Possible | Vanshi Dalal | [Read More](https://medium.com/p/8ddaa6af8cb9) |
-| Sun, 30 Nov 2025 11:49:59 GMT | Yapay Zekanın Gerçek Yakıtı: Doğru Soru ve Güvenlik | Makersx | [Read More](https://medium.com/p/834398ea3424) |
-| Sun, 30 Nov 2025 11:49:21 GMT | Chmod vs. Chown vs. ACL | Amrsmooke | [Read More](https://medium.com/p/4ee1e3024102) |
-| Sun, 30 Nov 2025 11:48:36 GMT | Lab 3#: Clickjacking with a frame buster script- Clickjacking Lab | Mosta | [Read More](https://medium.com/p/8888f5da90f8) |
-| Sun, 30 Nov 2025 11:45:10 GMT | Security Engineer Roadmap: Skills, Steps & Real-World Insights | NineTales | [Read More](https://medium.com/p/454ba4703280) |
