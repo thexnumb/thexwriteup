@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 21:00:26 GMT | What Happens When Privacy Becomes a Crime? | Ethics In Beta | [Read More](https://medium.com/p/f26f22033fbc) |
+| Sun, 30 Nov 2025 20:52:23 GMT | Building a Hybrid Web Application with EC2, CloudFront, and S3 — A Practical Networking Workflow | Jahson Jno-Baptiste | [Read More](https://medium.com/p/a0bd1e48bc1d) |
+| Sun, 30 Nov 2025 20:50:47 GMT | Day 8! | Blessing Michael | [Read More](https://medium.com/p/2c314baa9ff1) |
+| Sun, 30 Nov 2025 20:47:48 GMT | Build a Networking & Cybersecurity Lab with Vagrant | Vladyslav Diadenko | [Read More](https://medium.com/p/8eb4d0a7fcec) |
+| Sun, 30 Nov 2025 20:42:47 GMT | Burp Suite vs OWASP ZAP — a Comparison series | Cybervolt | [Read More](https://medium.com/p/14569895b872) |
+| Sun, 30 Nov 2025 20:37:42 GMT | Modern Data Protection and Disaster Recovery: Strategies for the Digital Era | Mubariz Paşayev | [Read More](https://medium.com/p/10a0684b724f) |
+| Sun, 30 Nov 2025 20:36:48 GMT | Hazlo bien o no lo hagas: identidad moderna para arquitecturas sólidas | Erick Arostegui Cunza | [Read More](https://medium.com/p/11fa591a8ea3) |
 | Sun, 30 Nov 2025 20:30:09 GMT | Heavy Inside | Alizabeth Amelia Rose | [Read More](https://medium.com/p/9c05fbdbc6e8) |
 | Sun, 30 Nov 2025 20:26:57 GMT | Developers Have Been Shipping AI-Generated Vulnerabilities Since 2021 | Ahmed Ibrahim | [Read More](https://medium.com/p/d1c93c3787b9) |
 | Sun, 30 Nov 2025 20:26:38 GMT | Securing an inference service with Authorino | Juanma Barea Martinez | [Read More](https://medium.com/p/d4d2d62cf554) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 12:49:28 GMT | Turning Old Electronics Into Digital Surveillance Tools
  A Field Manual From The Rusted Edge Of… | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f7486b09323f) |
 | Sun, 30 Nov 2025 12:48:56 GMT | Beyond Nmap: Building Custom Recon Pipelines | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/106c32f474f7) |
-| Sun, 30 Nov 2025 12:48:13 GMT | The Dark Side of Java Streams: Why They Can Make Your Code Slower Instead of Cleaner | The Dev Notebook | [Read More](https://medium.com/p/fcb5563d2e89) |
-| Sun, 30 Nov 2025 12:47:24 GMT | The Road to Aura Stealer | Chen Aviani | [Read More](https://medium.com/p/827c8b25e77f) |
-| Sun, 30 Nov 2025 12:45:27 GMT | Oracle Transparent Data Encryption (TDE) in 19c | MdAsifHussain | [Read More](https://medium.com/p/934fb7f97e6a) |
-| Sun, 30 Nov 2025 12:39:48 GMT | The Glass Jar | quintics | [Read More](https://medium.com/p/0bfe1dab43bf) |
-| Sun, 30 Nov 2025 12:39:42 GMT | Make Your Instagram Hack-Proof: The Simple Guide Everyone Should Know | Persis Tafflin | [Read More](https://medium.com/p/d352bf4790c7) |
-| Sun, 30 Nov 2025 12:35:04 GMT | The Corporate Truth We Don’t Talk About: Not Everyone Needs to Be a Leader | Sivakumar Ravi | [Read More](https://medium.com/p/263420899293) |
-| Sun, 30 Nov 2025 12:32:02 GMT | Guide to understanding Website Structure | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/89a046bbd565) |
