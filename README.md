@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 07:32:06 GMT | 10 DuckDB Security Habits for Local-First Data Teams | Velorum | [Read More](https://medium.com/p/ddf8ac4867c2) |
+| Sun, 30 Nov 2025 07:26:23 GMT | Siber Tehditlere Karşı İlk Savunma Hattı: Firewall (Güvenlik Duvarı) Nedir? | Ata Çalım | [Read More](https://medium.com/p/5fac05b19b85) |
+| Sun, 30 Nov 2025 07:19:32 GMT | The Windows Forensic Journey — Windows Firewall Logs (%windir%\System32\LogFiles\Firewall\pfirewall. | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d3a8b709bba4) |
+| Sun, 30 Nov 2025 07:15:54 GMT | Tech Support vs Help Desk: Understanding the Difference, Responsibilities & Career Scope in 2025 | Surya Kumar | [Read More](https://medium.com/p/8d4855d8b951) |
 | Sun, 30 Nov 2025 07:02:09 GMT | , running a tabletop, or knee-deep in a live breach, these 12 tools will help you rebuild ground… | Very Lazy Tech | [Read More](https://medium.com/p/bbb1de449a2b) |
 | Sun, 30 Nov 2025 06:53:48 GMT | Cryptography Basics THM Walkthrough | Harshana Lasith weragoda | [Read More](https://medium.com/p/626044202269) |
 | Sun, 30 Nov 2025 06:48:04 GMT | Mastering Cloud Security: From Zero to Secure | Jugal Patel | [Read More](https://medium.com/p/8338a8574c75) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 29 Nov 2025 18:55:13 GMT | AI Will Change Pentesting — Here’s How to Stay Valuable | Hania Khan | [Read More](https://medium.com/p/40249a4a2f34) |
 | Sat, 29 Nov 2025 18:44:55 GMT | A New Home for My Research Notes | sockpuppets | [Read More](https://medium.com/p/99383c141096) |
 | Sat, 29 Nov 2025 18:43:53 GMT | Ports — The Digital Doors of the Internet | KHAIRUL ISLAM | [Read More](https://medium.com/p/96b2b12a6004) |
-| Sat, 29 Nov 2025 18:43:46 GMT | ️ The Invisible Threat: Backdoor Attacks and Defense Strategies for Machine Learning Models | Lumae | [Read More](https://medium.com/p/24e2772739ff) |
-| Sat, 29 Nov 2025 18:41:07 GMT | Deepfake Deception: How I Hacked Biometric Authentication with $ and a YouTube Video | Iski | [Read More](https://medium.com/p/6c1ee367b28f) |
-| Sat, 29 Nov 2025 18:39:51 GMT | What Does Carding Do? Understanding the Cybercrime Behind Stolen Cards | Candidgirlsofficial | [Read More](https://medium.com/p/9979dbaf99bd) |
-| Sat, 29 Nov 2025 18:36:24 GMT | The Internet Held Its Breath: Reflections on Cloudflare’s November 2025 Outage | Soumyadipta Birabar | [Read More](https://medium.com/p/4dca7946ca92) |
