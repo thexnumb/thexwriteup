@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 14:15:04 GMT | MacSync Stealer: Full Technical Analysis of a New macOS Malware Disguised as Cloudflare | Maurizio Aiello | [Read More](https://medium.com/p/e374d1b81fc5) |
+| Sun, 30 Nov 2025 14:06:48 GMT | Program Management with AI Prompts | Kinjal Panchal Rami | [Read More](https://medium.com/p/d13c741eedbe) |
+| Sun, 30 Nov 2025 14:04:49 GMT | The Fundamentals of API Security and Why It Matters | Esther Kenneth | [Read More](https://medium.com/p/547c8a4f9a86) |
+| Sun, 30 Nov 2025 14:01:59 GMT | Kali Linux vs Parrot OS: Choosing the Right Security Toolkit for Your Journey | Ethan's Trail | [Read More](https://medium.com/p/404f78cd4b05) |
+| Sun, 30 Nov 2025 13:51:15 GMT | The Hackers Labs Writeup — Microchoft (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/4b8448a4bb06) |
+| Sun, 30 Nov 2025 13:49:37 GMT | Insecure Account Deletion | Virendra Kumar | [Read More](https://medium.com/p/2d5cd0555129) |
+| Sun, 30 Nov 2025 13:48:12 GMT | Cloud Project: Secure Password Validation & OTP Verification Using AWS (S3, Lambda, DynamoDB, SES… | The Commoness | [Read More](https://medium.com/p/e77f5c35ff34) |
+| Sun, 30 Nov 2025 13:37:15 GMT | Secure ArgoCD with End-to-End TLS: Terminate HTTPS at the ArgoCD Server, Using cert-manager, Let’s… | VajrapuSrikanth | [Read More](https://medium.com/p/77dc5f8a1c8f) |
 | Sun, 30 Nov 2025 13:09:54 GMT | Black Light AI: Autonomous Cyber Threat & Risk Intelligence | Anirban Halder | [Read More](https://medium.com/p/4f5d03faa1d6) |
 | Sun, 30 Nov 2025 12:56:18 GMT | Eski Araçlar ve “Yeni Saldırıların İlham Kaynakları” | Ali Cihad GEDİK | [Read More](https://medium.com/p/d7837ce0dc88) |
 | Sun, 30 Nov 2025 12:49:28 GMT | Turning Old Electronics Into Digital Surveillance Tools
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 06:21:56 GMT | Azure Front Door vs Application Gateway | Niwantha Wickramasingha | [Read More](https://medium.com/p/766840a4bdc2) |
 | Sun, 30 Nov 2025 06:21:25 GMT | Event ID — 83 - SOC119-Malicious Executable File Detected | Soumodeep Das | [Read More](https://medium.com/p/067e2a55b3c8) |
 | Sun, 30 Nov 2025 06:15:25 GMT | get a free Kali VPS with Segfault — a quick guide for bug hunters | Ahmed Fawzy | [Read More](https://medium.com/p/b242f275dfe9) |
-| Sun, 30 Nov 2025 05:54:20 GMT | Your First Step Into Ethical Hacking: A Beginner’s Guide to Becoming a Master Hacker | monster | [Read More](https://medium.com/p/81237126c4f5) |
-| Sun, 30 Nov 2025 05:50:22 GMT | “AI-Powered Hacks, State-Sponsored Breaches & India’s Cyber Alarm — 2025’s Wake-Up Call” | pavani | [Read More](https://medium.com/p/f953e6ffb436) |
-| Sun, 30 Nov 2025 05:39:36 GMT | Canadian scientific consulting service confirms data breach following $1.2 million ransom demand | cyberwinx | [Read More](https://medium.com/p/7ad9d5ecce8e) |
-| Sun, 30 Nov 2025 05:36:03 GMT | How Hackers Build Their Own Mini Attack Labs Using Only Open-Source Tools (No VMs Required) | monster | [Read More](https://medium.com/p/08150c6cc026) |
-| Sun, 30 Nov 2025 05:13:19 GMT | How AI Shaped My Preparation for the CREST CPSA — Preparation tips, Mock test, Study Plan | Indrajeet Bhuyan | [Read More](https://medium.com/p/90b5d8d24017) |
-| Sun, 30 Nov 2025 05:13:14 GMT | What is bot traffic? How to block only bad bots from your Web Service | STCLab, Inc. | [Read More](https://medium.com/p/a08d36920312) |
-| Sun, 30 Nov 2025 05:05:58 GMT | hello this is my first blog | monster | [Read More](https://medium.com/p/3228ef65dcab) |
-| Sun, 30 Nov 2025 05:01:06 GMT | Detecting Phishing Emails with AI | Precious Gautam | [Read More](https://medium.com/p/1db9a0e55016) |
