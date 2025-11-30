@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 19:21:47 GMT | Testing Detection Rules | Just Moi | [Read More](https://medium.com/p/35cea16b5f91) |
+| Sun, 30 Nov 2025 19:21:16 GMT | Room 110: Isn’t Java RMIRegistry a Mystery? | blackXmask | [Read More](https://medium.com/p/21e39825116d) |
+| Sun, 30 Nov 2025 19:08:34 GMT | Mobile Patrol vs Security Guards: How to Choose the Right Protection for Your Site | Teona | [Read More](https://medium.com/p/fd12a72a390c) |
 | Sun, 30 Nov 2025 18:56:37 GMT | ✨ The Holiday Scam Surge No One’s Talking About | Dr. Elsie M. Casimir | [Read More](https://medium.com/p/d5a428ca60a2) |
 | Sun, 30 Nov 2025 18:53:47 GMT | Cybersecurity Is Hard | Adeluworker | [Read More](https://medium.com/p/032ec4343e9b) |
 | Sun, 30 Nov 2025 18:45:32 GMT | ARK DEV: Transformando la Innovación Tecnológica | Joel Andres C | [Read More](https://medium.com/p/f1f45cb93a72) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 12:09:35 GMT | Where Is the Future of Life Headed? AI, Humans, and DNA | yoichi.hagiwara | [Read More](https://medium.com/p/7d17769e6688) |
 | Sun, 30 Nov 2025 12:09:14 GMT | Why Homegrown Managed File Transfer Turns Into a Money Pit | Prabhu Srivastava | [Read More](https://medium.com/p/5134b8b829c3) |
 | Sun, 30 Nov 2025 12:01:54 GMT | Today’s Top Cyber Intelligence Highlights — Nov 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a5a4e03abc5b) |
-| Sun, 30 Nov 2025 12:00:32 GMT | Google’s Antigravity Just Proved Why We Need Agent Identity Infrastructure | AstraSync AI | [Read More](https://medium.com/p/f476db5ba34b) |
-| Sun, 30 Nov 2025 11:55:04 GMT | Vulnerability Assessment and Its Role in Modern Cyber Security | HABIBI | [Read More](https://medium.com/p/a0899ad3c34f) |
-| Sun, 30 Nov 2025 11:51:25 GMT | Part II – Behind the Screens: The Technology That Makes Hacking Possible | Vanshi Dalal | [Read More](https://medium.com/p/8ddaa6af8cb9) |
