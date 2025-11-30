@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 16:06:42 GMT | Machine Learning in Finance Free Course: Full Beginner Guide 2026 | Motherlandlove | [Read More](https://medium.com/p/4f9130292b98) |
+| Sun, 30 Nov 2025 16:05:29 GMT | How to Deploy SafeLine WAF: A Complete Beginner’s Guide | Nicatmazanli | [Read More](https://medium.com/p/dc7973db48a5) |
+| Sun, 30 Nov 2025 16:02:50 GMT | Temporary Hacking, Permanent Access: A Meta Bug Bounty Story | Gtm Mänôz | [Read More](https://medium.com/p/1f72da3e63cf) |
+| Sun, 30 Nov 2025 16:02:15 GMT | She Invited Me Over and I Panicked — I Saw the Fears Women Face Just to Show Up | Victor Ude | [Read More](https://medium.com/p/22474d2fd169) |
+| Sun, 30 Nov 2025 16:01:36 GMT | Exploiting Race Conditions in GraphQL: A Case Study of Follower Count Manipulation | Soltan Maharramov | [Read More](https://medium.com/p/e7a02294e4f7) |
+| Sun, 30 Nov 2025 15:59:09 GMT | Handle With Care: A Package Phishing Story | christos dimitropoulos | [Read More](https://medium.com/p/8ef82233d4dc) |
+| Sun, 30 Nov 2025 15:55:23 GMT | My Family’s Secret Weapon Against Credit Card Skimming in Vietnam: A Smart Traveler’s Guide | K-Food & Travel | [Read More](https://medium.com/p/1474dfe0441e) |
+| Sun, 30 Nov 2025 15:48:24 GMT | TunHills Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/86e12157a5ff) |
+| Sun, 30 Nov 2025 15:47:50 GMT | Oranblack Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/b2d54f36e26c) |
+| Sun, 30 Nov 2025 15:47:31 GMT | Day 3 — Building the Core Lab: Active Directory, Attack Machine & LimaCharlie EDR Deployment | khalifa_farhat | [Read More](https://medium.com/p/2528df7fbe2a) |
+| Sun, 30 Nov 2025 15:35:29 GMT | Installing Python | Saurabh Gandhi | [Read More](https://medium.com/p/8e13de43816f) |
 | Sun, 30 Nov 2025 15:32:09 GMT | Week 8: The Bug That Almost Broke Me | ZAYN | [Read More](https://medium.com/p/c7cbb390eeed) |
 | Sun, 30 Nov 2025 15:28:47 GMT | The Why‑to‑How‑to: BitLocker | Ahmed Monsri | [Read More](https://medium.com/p/dae426d6f9aa) |
 | Sun, 30 Nov 2025 15:28:37 GMT | The Art Of Bypassing Authentication Limits - All Known Techniques | terp0x0 | [Read More](https://medium.com/p/835a8506a411) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 09:32:45 GMT | Hello World: Starting My Cybersecurity Blog | Akhil | [Read More](https://medium.com/p/3bdb28fc732b) |
 | Sun, 30 Nov 2025 09:31:20 GMT | THM- Daily Bugle Writeup | cbev | [Read More](https://medium.com/p/3a93c9371861) |
 | Sun, 30 Nov 2025 09:27:00 GMT | Kali GPT: The Future of AI-Driven Cybersecurity Tools in Kali Linux | Cybervolt | [Read More](https://medium.com/p/3744b13c89a9) |
-| Sun, 30 Nov 2025 09:24:41 GMT | Android Forensics CTF Write-Up | Emre Karatay | [Read More](https://medium.com/p/d31792b430bc) |
-| Sun, 30 Nov 2025 09:16:09 GMT | How to Setup Kioptrix Level 1 in VirtualBox? | Muhammad Bilal | [Read More](https://medium.com/p/ac86a5b35ec7) |
-| Sun, 30 Nov 2025 09:11:10 GMT | Practical IDS Lab (SNORT | Faith akerele | [Read More](https://medium.com/p/a599915b10d6) |
-| Sun, 30 Nov 2025 09:02:11 GMT | Stop Blind Spots in Dark Web Monitoring With Plain Text Leak Coverage | Alexandre Vandamme | [Read More](https://medium.com/p/81cfa12fa218) |
-| Sun, 30 Nov 2025 09:00:38 GMT | The Content Strategy No One Wants to Admit Works — And Why I Built My Entire Brand on It | Vijay Kumar Gupta | [Read More](https://medium.com/p/c87a03e3b54e) |
-| Sun, 30 Nov 2025 08:59:44 GMT | How to Find Hidden Cameras in Any Room (The Safest and Right Methods for You) | FutureLens | [Read More](https://medium.com/p/9eae8c7ee2fa) |
-| Sun, 30 Nov 2025 08:50:37 GMT | Using all of my brain capacity | Ugosam | [Read More](https://medium.com/p/8bbb18a8a0ba) |
-| Sun, 30 Nov 2025 08:39:39 GMT | Smishing Attack on OpenAI Vendor Compromised Thousands of API Accounts | Patrik Žák | [Read More](https://medium.com/p/287fe30b8227) |
-| Sun, 30 Nov 2025 08:34:50 GMT | The Exhaustive Combinatorial and Cryptographic Analysis of BIP-39 Mnemonic Permutations | Thinker | [Read More](https://medium.com/p/b7d581aeb3c5) |
-| Sun, 30 Nov 2025 08:28:12 GMT | The Heart of Cyber Threat Hunting: A Beginner’s Guide to EDR Telemetry Analysis | Esra Kayhan | [Read More](https://medium.com/p/bad457aefe3b) |
-| Sun, 30 Nov 2025 08:14:57 GMT | How The First Agentic AI Cyberattack Looks Suspiciously Good for AI Companies | Hamza Boulahia | [Read More](https://medium.com/p/611d4e4f9db8) |
