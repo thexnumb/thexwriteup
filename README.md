@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 15:14:53 GMT | The Hidden Risks in AI-Generated Code: How to Detect and Fix Vulnerabilities in Python Projects | Er.Muruganantham | [Read More](https://medium.com/p/a81dd4fa4892) |
+| Sun, 30 Nov 2025 15:10:51 GMT | The Understanding Abstract Syntax Trees (AST): How Modern Tools Parse, Analyze, and Transform Your… | Atsushi Hatakeyama | [Read More](https://medium.com/p/c3edc7e1e687) |
+| Sun, 30 Nov 2025 15:04:51 GMT | Security and Performance Aspects of Sysctl Performance Tuning | Linux Guide | [Read More](https://medium.com/p/862f04bd9b6f) |
+| Sun, 30 Nov 2025 15:02:22 GMT | So You Want to Work in Cybersecurity. Look at How Big the Field Actually Is. | Raleigh Guevarra | [Read More](https://medium.com/p/6c07bf19a25f) |
+| Sun, 30 Nov 2025 14:58:59 GMT | Stop Putting Security Under HR or Admin. It’s Dangerous and It’s Happening Everywhere. | Peter Uliano | [Read More](https://medium.com/p/e55714c3d092) |
+| Sun, 30 Nov 2025 14:57:24 GMT | Unlocking the Secrets of Cybersecurity: Internal, External, and Wireless Assessments Explained | Sony | [Read More](https://medium.com/p/0d2c32f874e2) |
+| Sun, 30 Nov 2025 14:55:46 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/08bf48c05bea) |
+| Sun, 30 Nov 2025 14:52:09 GMT | Don’t Trust Online Investment Scams: A Relationship Red Flag | anni | [Read More](https://medium.com/p/6b2a4c7e7704) |
+| Sun, 30 Nov 2025 14:42:09 GMT | SEARCH LIGHT IMINT- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/a933bab7d3ef) |
+| Sun, 30 Nov 2025 14:41:59 GMT | Metasploitable 3 (Windows) Write-up — Part [VI]: Port 3306 — MySQL Weak Credentials & UDF… | Kalash Kundaliya | [Read More](https://medium.com/p/703e995f976e) |
+| Sun, 30 Nov 2025 14:40:12 GMT | Red Team vs Blue Team: The Cybersecurity Battlefield Explained | Ferdi Edogawa | [Read More](https://medium.com/p/6cbeccdaaa49) |
+| Sun, 30 Nov 2025 14:38:46 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 2: DC-2 | Shikhar Sinha | [Read More](https://medium.com/p/f1344a2f1adb) |
 | Sun, 30 Nov 2025 14:32:09 GMT | Why I Don’t Trust “Free VPNs” (And You Shouldn’t Either) | Cyberkech | [Read More](https://medium.com/p/2d99b3f055ce) |
 | Sun, 30 Nov 2025 14:31:28 GMT | Quantum Computing  and Security: Hype vs Reality — What Engineering Teams Should Really Prepare For | Mehdi Khalilzadeh | [Read More](https://medium.com/p/79b668bcd07c) |
 | Sun, 30 Nov 2025 14:24:56 GMT | Week 7: Making It Beautiful | ZAYN | [Read More](https://medium.com/p/479c5ac1b03e) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 08:02:48 GMT | Cloud Security Made Simple: How Your Data Really Stays Safe Online | Grace Chukwunta | [Read More](https://medium.com/p/753e51c91cbd) |
 | Sun, 30 Nov 2025 08:02:44 GMT | It Was Easier When I Wasn’t Important | Łukasz Ratajczak | [Read More](https://medium.com/p/41c3e9d94aed) |
 | Sun, 30 Nov 2025 08:00:28 GMT | Security by Output → PHP Response Tricks That Reduce Exposure | Asian Digital Hub | [Read More](https://medium.com/p/ef47f783c1a7) |
-| Sun, 30 Nov 2025 07:58:15 GMT | Acknowledge Vulnerability Assessment in Cyber Security | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/dbf52a1c95f0) |
-| Sun, 30 Nov 2025 07:56:40 GMT | Micro-Gating Tricks That Isolate Dangerous PHP Operations | Asian Digital Hub | [Read More](https://medium.com/p/7bae89abbd2c) |
-| Sun, 30 Nov 2025 07:56:11 GMT | Hackers Are Already Inside Your Login and Here’s How to Lock the Door | Shoaib Mohammad Ankon | [Read More](https://medium.com/p/535dd6074806) |
-| Sun, 30 Nov 2025 07:44:54 GMT | - Scam - Phishing - Online Scams - CyberSecurity - Stay Safe Online - | Aj | [Read More](https://medium.com/p/95e5475e354a) |
-| Sun, 30 Nov 2025 07:32:06 GMT | 10 DuckDB Security Habits for Local-First Data Teams | Velorum | [Read More](https://medium.com/p/ddf8ac4867c2) |
-| Sun, 30 Nov 2025 07:26:23 GMT | Siber Tehditlere Karşı İlk Savunma Hattı: Firewall (Güvenlik Duvarı) Nedir? | Ata Çalım | [Read More](https://medium.com/p/5fac05b19b85) |
-| Sun, 30 Nov 2025 07:19:32 GMT | The Windows Forensic Journey — Windows Firewall Logs (%windir%\System32\LogFiles\Firewall\pfirewall. | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d3a8b709bba4) |
-| Sun, 30 Nov 2025 07:15:54 GMT | Tech Support vs Help Desk: Understanding the Difference, Responsibilities & Career Scope in 2025 | Surya Kumar | [Read More](https://medium.com/p/8d4855d8b951) |
-| Sun, 30 Nov 2025 07:02:09 GMT | , running a tabletop, or knee-deep in a live breach, these 12 tools will help you rebuild ground… | Very Lazy Tech | [Read More](https://medium.com/p/bbb1de449a2b) |
-| Sun, 30 Nov 2025 06:53:48 GMT | Cryptography Basics THM Walkthrough | Harshana Lasith weragoda | [Read More](https://medium.com/p/626044202269) |
-| Sun, 30 Nov 2025 06:48:04 GMT | Mastering Cloud Security: From Zero to Secure | Jugal Patel | [Read More](https://medium.com/p/8338a8574c75) |
-| Sun, 30 Nov 2025 06:37:08 GMT | The Coding Illusion: Why Writing Code Is Easy but Fixing It Is Impossible | The Dev Notebook | [Read More](https://medium.com/p/a7ee229677a3) |
