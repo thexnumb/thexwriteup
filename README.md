@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 30 Nov 2025 16:34:16 GMT | 2. Spring Boot Security + JWT Authentication (Stateless Security) | dolly | [Read More](https://medium.com/p/e49474a1e2f6) |
+| Sun, 30 Nov 2025 16:26:58 GMT | Hi Medium family!
+ Hope you’re all doing good. Let me just introduce myself quickly. | Sanjaykumar P | [Read More](https://medium.com/p/cbb9b705e338) |
+| Sun, 30 Nov 2025 16:22:09 GMT | Cybersecurity Satellites (Explained like I’m 5) | TechTales | [Read More](https://medium.com/p/733897a69421) |
 | Sun, 30 Nov 2025 16:06:42 GMT | Machine Learning in Finance Free Course: Full Beginner Guide 2026 | Motherlandlove | [Read More](https://medium.com/p/4f9130292b98) |
 | Sun, 30 Nov 2025 16:05:29 GMT | How to Deploy SafeLine WAF: A Complete Beginner’s Guide | Nicatmazanli | [Read More](https://medium.com/p/dc7973db48a5) |
 | Sun, 30 Nov 2025 16:02:50 GMT | Temporary Hacking, Permanent Access: A Meta Bug Bounty Story | Gtm Mänôz | [Read More](https://medium.com/p/1f72da3e63cf) |
@@ -110,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 09:47:51 GMT | The Manchester United Parallel: How Poor Investment Decisions in Cybersecurity Lead to Systemic… | Steve Anderson | [Read More](https://medium.com/p/8b88bd1e876c) |
 | Sun, 30 Nov 2025 09:41:31 GMT | Zeek: The Most Underrated Network Security Engine You Should Be Using in 2025 | Singhvimahi | [Read More](https://medium.com/p/88a0035f7319) |
 | Sun, 30 Nov 2025 09:34:42 GMT | CTF-USV 2025 | Mihai-Andrei Gheorghe | [Read More](https://medium.com/p/75e8c9c99032) |
-| Sun, 30 Nov 2025 09:32:45 GMT | Hello World: Starting My Cybersecurity Blog | Akhil | [Read More](https://medium.com/p/3bdb28fc732b) |
-| Sun, 30 Nov 2025 09:31:20 GMT | THM- Daily Bugle Writeup | cbev | [Read More](https://medium.com/p/3a93c9371861) |
-| Sun, 30 Nov 2025 09:27:00 GMT | Kali GPT: The Future of AI-Driven Cybersecurity Tools in Kali Linux | Cybervolt | [Read More](https://medium.com/p/3744b13c89a9) |
