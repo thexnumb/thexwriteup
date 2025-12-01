@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 17:41:14 GMT | When Major Retailer Security Fails-Lessons from Coupang’s 33.7 Million‑User Breach | Chetan Seripally | [Read More](https://medium.com/p/e6f60ddce3a8) |
+| Mon, 01 Dec 2025 17:37:13 GMT | Every breach tells a story. | Hachtechnology | [Read More](https://medium.com/p/6debc22c6bda) |
+| Mon, 01 Dec 2025 17:37:11 GMT | Introduction to Aardvark: OpenAI’s Agentic Security Researcher | Startup Consultant | [Read More](https://medium.com/p/021592b72a73) |
+| Mon, 01 Dec 2025 17:36:19 GMT | Passwords Are Like Ordering Pizza – And We’re Still Doing It the Hard Way | Aashish Baweja | [Read More](https://medium.com/p/19a3f6dd3614) |
+| Mon, 01 Dec 2025 17:34:21 GMT | Create user flow in Microsoft Entra External ID | Parfaitkouess | [Read More](https://medium.com/p/3fb11347f0fe) |
+| Mon, 01 Dec 2025 17:33:58 GMT | Protecting Your Digital Legacy: Preparing for the Inevitable in a Hyperconnected World | Len Noe | [Read More](https://medium.com/p/6e987086aecd) |
+| Mon, 01 Dec 2025 17:15:50 GMT | Afghan accused of shooting 2 National Guard members was part of CIA-backed unit | Defence Affairs & Analysis | [Read More](https://medium.com/p/57b9809a3bb0) |
 | Mon, 01 Dec 2025 17:15:16 GMT | Advent of Cyber 2025 - Day 1: Linux CLI - Shells Bells | D4m.sh | [Read More](https://medium.com/p/bdbd504fb47f) |
 | Mon, 01 Dec 2025 17:12:00 GMT | TryHackMe Writeup: Brooklyn Nine Nine | Berkay AĞGÜL | [Read More](https://medium.com/p/1892c1746e4d) |
 | Mon, 01 Dec 2025 17:10:51 GMT | Advent of Cyber Prep Track Try Hack Me Solution - by Mynk — Medium | Mayank Shukla | [Read More](https://medium.com/p/2446b4b1023a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 13:05:01 GMT | When the Program Wins and the Researcher Loses: The Subtle Scams Behind Bug Bounties | Gl1tch | [Read More](https://medium.com/p/578f97489845) |
 | Mon, 01 Dec 2025 13:04:46 GMT | Turning a Raspberry Pi 5 Into a Mini DevOps and Security Workstation | Hcnpeiris | [Read More](https://medium.com/p/bba3871b303b) |
 | Mon, 01 Dec 2025 12:59:40 GMT | Locking Down the Django Admin Panel: Essential Security Practices for Production | Artem | [Read More](https://medium.com/p/38035fe00e42) |
-| Mon, 01 Dec 2025 12:46:45 GMT | What Happens in the First 15 Minutes of a Cyber Breach? | Eventus Security Private Limited | [Read More](https://medium.com/p/cf01ce353aae) |
-| Mon, 01 Dec 2025 12:42:23 GMT | Why IAM Has Become the Most Critical Cybersecurity Skill in 2025–26 | Himanshu Kumar | [Read More](https://medium.com/p/0634457eed66) |
-| Mon, 01 Dec 2025 12:38:28 GMT | How to Stop Ransomware: Best Antivirus for Pc to Use Right Now | SiyanoAV | [Read More](https://medium.com/p/ef955785c37b) |
-| Mon, 01 Dec 2025 12:34:07 GMT | Q5: How Do We Prove to Future Buyers That the Company Is Secure by Design — Not Secure by Marketing? | Barry Ritchie | [Read More](https://medium.com/p/3afc8906ba91) |
-| Mon, 01 Dec 2025 12:32:08 GMT | How To Hire A Hacker | Ian Golden | [Read More](https://medium.com/p/dcb782893dd1) |
-| Mon, 01 Dec 2025 12:31:13 GMT | Community Governance and Volunteer Node Security: Why People Power Still Matters in Privacy Tech | Voidly | [Read More](https://medium.com/p/6b466ee242d9) |
-| Mon, 01 Dec 2025 12:23:01 GMT | **CYBERSECURITY ROADMAP SYLLABUS | HdigitalHUB | [Read More](https://medium.com/p/a8cb928939a8) |
