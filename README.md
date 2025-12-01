@@ -12,11 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 07:22:42 GMT | Hack The Box Neurogrid CTF -Secure Coding Challenges | Ahmed Yasser | [Read More](https://medium.com/p/83a39be80b14) |
+| Mon, 01 Dec 2025 07:12:11 GMT | Cyber Security Risks in Digital Marketing: What Every Business Must Know | Media | [Read More](https://medium.com/p/d9e8e9eb8eee) |
+| Mon, 01 Dec 2025 07:11:59 GMT | techNbuddy: AI Networking Made Easy | techNbuddy | [Read More](https://medium.com/p/92b13194da65) |
+| Mon, 01 Dec 2025 07:06:46 GMT | DEFENSE DAY: INCIDENT RESPONSE, DIGITAL FORENSICS & ATTACK RECONSTRUCTION
+ Tonight · 9:00 PM… | Dallen Sadru | [Read More](https://medium.com/p/eb2b4b65e8b2) |
+| Mon, 01 Dec 2025 07:04:38 GMT | The Role of AI in Improving Software License Security? | Lanapeterson | [Read More](https://medium.com/p/f48fd167ead5) |
+| Mon, 01 Dec 2025 07:03:07 GMT | Security Lab Simulation Project Part 1: Network Topology | Jenny | [Read More](https://medium.com/p/6db6eaa16ced) |
+| Mon, 01 Dec 2025 07:02:09 GMT | Security Chaos Engineering in Banking: Stress-Testing Systems Against Unknown Threats | Mavidev Software And Consulting Co. | [Read More](https://medium.com/p/167ad57a1464) |
+| Mon, 01 Dec 2025 07:01:34 GMT | Zero Trust Architecture: How the World is Securing Digital Assets Today | Devarshi Acharya | [Read More](https://medium.com/p/6f8e3cb26ff6) |
+| Mon, 01 Dec 2025 07:00:06 GMT | Zero-Trust in Reality: Identity-First Networking for Multi-Cloud Apps | Ismat Babirli | [Read More](https://medium.com/p/b0c1bbd1e8ab) |
+| Mon, 01 Dec 2025 06:56:29 GMT | Detecting Deepfake Phishing Calls: 10 Tools Every Cybersecurity Pro Should Master | Very Lazy Tech | [Read More](https://medium.com/p/c36d8f760585) |
+| Mon, 01 Dec 2025 06:55:04 GMT | Why Your Logout Button Isn’t Doing What You Think | Chegeveronica | [Read More](https://medium.com/p/7b22edb6ba1b) |
+| Mon, 01 Dec 2025 06:52:57 GMT | Making Power BI Show the Right Data to the Right Users Using Role Based Filtering | Naveen Kumar S | [Read More](https://medium.com/p/4190a8f77dff) |
+| Mon, 01 Dec 2025 06:51:50 GMT | Week 3 – SOC Analyst Internship Update (HSC Consult) | Adeleke Theophilus O | [Read More](https://medium.com/p/cf14520bd14b) |
+| Mon, 01 Dec 2025 06:44:17 GMT | Rising of Cyber Psychology | Himanshu Bhatt | [Read More](https://medium.com/p/f4d0833dee95) |
+| Mon, 01 Dec 2025 06:33:24 GMT | A Practical Guide to Authentication and Session Management Vulnerabilities | coffinxp | [Read More](https://medium.com/p/517f5412a02a) |
 | Mon, 01 Dec 2025 06:24:04 GMT | Part 10: Virtual Box Home Lab — Enforcing GPO — Disabling Task Manager, Logoff etc. | Declan | [Read More](https://medium.com/p/3566335bbce2) |
 | Mon, 01 Dec 2025 06:19:57 GMT | Block Timestamp Dependency: A Critical Vulnerability in Smart Contracts | Tushar_Trivedi | [Read More](https://medium.com/p/bece59898e55) |
 | Mon, 01 Dec 2025 06:19:47 GMT | Exposed Crypto Addresses in Frontend Code: A Bug Bounty Story | Mohamed Abdul Hamid | [Read More](https://medium.com/p/7117e5010256) |
 | Mon, 01 Dec 2025 06:12:40 GMT | Teknik Enumeration Dalam Mengumpulkan Informasi | Reyza Maulana Putra | [Read More](https://medium.com/p/d21e09455e7c) |
 | Mon, 01 Dec 2025 06:12:27 GMT | Penetrant Testing - Best NDT Inspection | Best NDT Inspection | [Read More](https://medium.com/p/89459496a8f9) |
+| Mon, 01 Dec 2025 06:05:12 GMT | Closing the gaps in Nigeria’s security emergency | Lekan Olayiwola | [Read More](https://medium.com/p/98f7869a8547) |
 | Mon, 01 Dec 2025 06:03:31 GMT | How Cyber Attacks Happen: Step-by-Step Process, Real-World Case Studies, and Beginner-Friendly… | Mohammed Fizal | [Read More](https://medium.com/p/55990c399810) |
 | Mon, 01 Dec 2025 06:02:14 GMT | When a Nation is Unsafe, the Health of its People Cannot be Safe. | Gilson Chukwuma | [Read More](https://medium.com/p/4a3ff6d2ddb9) |
 | Mon, 01 Dec 2025 06:01:21 GMT | How I Started Cybersecurity with Zero CS Background (And How You Can Too) | Bhavanavijayan | [Read More](https://medium.com/p/d1ff3fe5efbe) |
@@ -96,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 23:21:36 GMT | Web Investigation Lab — Write-up | 0xTT-byte | [Read More](https://medium.com/p/f00b26311fcf) |
 | Sun, 30 Nov 2025 23:16:55 GMT | Richard Doty, Mirage Men, and the Psyops Blueprint Behind Modern Cyber Warfare | Jeff Kingsland | [Read More](https://medium.com/p/d66a556f041e) |
 | Sun, 30 Nov 2025 23:14:36 GMT | Executive Protection Close Quarters Battle | Paramount Defense Group Inc | [Read More](https://medium.com/p/9e2f5c4dcc7e) |
-| Sun, 30 Nov 2025 22:46:14 GMT | How to Use a VPN for a Finland IP | Awais Khan | [Read More](https://medium.com/p/dadf50e1f35a) |
-| Sun, 30 Nov 2025 22:25:24 GMT | BYTEBURST #4 “The Synchronization of Intelligence” | Yuri Trukhin | [Read More](https://medium.com/p/e8ad0d409372) |
-| Sun, 30 Nov 2025 22:24:44 GMT | Active Directory Reconnaissance | S12 - 0x12Dark Development | [Read More](https://medium.com/p/26483ecc0943) |
-| Sun, 30 Nov 2025 22:20:31 GMT | How Our “Chill” CTF Turned Into an Uptime Arms Race | AbdulAzeez AbdulHakeem | [Read More](https://medium.com/p/f3af76f6e82e) |
-| Sun, 30 Nov 2025 22:13:27 GMT | “Sha1-Hulud Just Triggered On My Machine… What do I do?” | Security Guy | [Read More](https://medium.com/p/ee0e383e790d) |
-| Sun, 30 Nov 2025 22:11:48 GMT | Your IoT Devices Are Proving Their Identity With Post-It Notes | Tim McAllister | [Read More](https://medium.com/p/efdbbf879251) |
-| Sun, 30 Nov 2025 22:10:45 GMT | Understanding Modern Supply Chain Attacks | Geoffrey Wenger | [Read More](https://medium.com/p/133f2f6ba8d7) |
-| Sun, 30 Nov 2025 22:03:50 GMT | FBI Seeks (face recogn) AI-Powered Drone Surveillance: Executive Brief & Comprehensive Analysis | Berend Watchus | [Read More](https://medium.com/p/348722f00290) |
-| Sun, 30 Nov 2025 21:42:10 GMT | “Mom, I Don’t Want to Marry an Older Man” — Why Age Gap Marriage Pressure Is Changing | Queena Bryan | [Read More](https://medium.com/p/25637da5bb0a) |
-| Sun, 30 Nov 2025 21:26:35 GMT | 0-Click Account Takeover via Password Reset IDOR | Ibtissam | [Read More](https://medium.com/p/182f6fee2a86) |
-| Sun, 30 Nov 2025 21:18:22 GMT | রহস্যময় ডিপ এবং ডার্ক ওয়েবের ভুবনে প্রবেশ করুন! | Humayun Shariar Himu | [Read More](https://medium.com/p/5fd830c50014) |
-| Sun, 30 Nov 2025 21:02:05 GMT | Weaponizing Web Content: How AI Agents Can Be Hijacked Through Stealth Prompt Injection | Christian Barrett | [Read More](https://medium.com/p/b4ae1c60d821) |
-| Sun, 30 Nov 2025 21:00:26 GMT | What Happens When Privacy Becomes a Crime? | Ethics In Beta | [Read More](https://medium.com/p/f26f22033fbc) |
-| Sun, 30 Nov 2025 20:52:23 GMT | Building a Hybrid Web Application with EC2, CloudFront, and S3 — A Practical Networking Workflow | Jahson Jno-Baptiste | [Read More](https://medium.com/p/a0bd1e48bc1d) |
-| Sun, 30 Nov 2025 20:50:47 GMT | Day 8! | Blessing Michael | [Read More](https://medium.com/p/2c314baa9ff1) |
-| Sun, 30 Nov 2025 20:47:48 GMT | Build a Networking & Cybersecurity Lab with Vagrant | Vladyslav Diadenko | [Read More](https://medium.com/p/8eb4d0a7fcec) |
