@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 06:24:04 GMT | Part 10: Virtual Box Home Lab — Enforcing GPO — Disabling Task Manager, Logoff etc. | Declan | [Read More](https://medium.com/p/3566335bbce2) |
+| Mon, 01 Dec 2025 06:19:57 GMT | Block Timestamp Dependency: A Critical Vulnerability in Smart Contracts | Tushar_Trivedi | [Read More](https://medium.com/p/bece59898e55) |
+| Mon, 01 Dec 2025 06:19:47 GMT | Exposed Crypto Addresses in Frontend Code: A Bug Bounty Story | Mohamed Abdul Hamid | [Read More](https://medium.com/p/7117e5010256) |
+| Mon, 01 Dec 2025 06:12:40 GMT | Teknik Enumeration Dalam Mengumpulkan Informasi | Reyza Maulana Putra | [Read More](https://medium.com/p/d21e09455e7c) |
+| Mon, 01 Dec 2025 06:12:27 GMT | Penetrant Testing - Best NDT Inspection | Best NDT Inspection | [Read More](https://medium.com/p/89459496a8f9) |
+| Mon, 01 Dec 2025 06:03:31 GMT | How Cyber Attacks Happen: Step-by-Step Process, Real-World Case Studies, and Beginner-Friendly… | Mohammed Fizal | [Read More](https://medium.com/p/55990c399810) |
+| Mon, 01 Dec 2025 06:02:14 GMT | When a Nation is Unsafe, the Health of its People Cannot be Safe. | Gilson Chukwuma | [Read More](https://medium.com/p/4a3ff6d2ddb9) |
+| Mon, 01 Dec 2025 06:01:21 GMT | How I Started Cybersecurity with Zero CS Background (And How You Can Too) | Bhavanavijayan | [Read More](https://medium.com/p/d1ff3fe5efbe) |
+| Mon, 01 Dec 2025 05:59:51 GMT | Mengenal Scanning Networks dengan Tools Nmap | Reyza Maulana Putra | [Read More](https://medium.com/p/4500aade4ec9) |
+| Mon, 01 Dec 2025 05:57:44 GMT | Recover Hacked Facebook Account - Step-by-Step Guide | aoneinfo | [Read More](https://medium.com/p/fbc7c985cbd6) |
+| Mon, 01 Dec 2025 05:55:17 GMT | The Daily Tech Digest: 01 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f833fbefa8f1) |
+| Mon, 01 Dec 2025 05:54:47 GMT | What is Gateway in Networking? | Soundaryaps | [Read More](https://medium.com/p/f5e39a4b68fd) |
+| Mon, 01 Dec 2025 05:52:10 GMT | Rust and the Linux Rewrite Problem | Minervee | [Read More](https://medium.com/p/84f8b8fa8300) |
+| Mon, 01 Dec 2025 05:51:15 GMT | AI in Network Security: Protecting Infrastructure with Intelligent Systems | QualysecEurope | [Read More](https://medium.com/p/1ce4edf99cbc) |
+| Mon, 01 Dec 2025 05:48:39 GMT | Event ID — 36 - SOC — 104 -Malware Detected | Soumodeep Das | [Read More](https://medium.com/p/f8a03f145c50) |
 | Mon, 01 Dec 2025 05:42:13 GMT | Rooting Kioptrix — A Manual Exploitation Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/d266dbcb6a29) |
+| Mon, 01 Dec 2025 05:38:52 GMT | Venezuela’s Escalation Is Shaking South America — And Argentina Can’t Ignore the Fallout | Jerry Nelson | [Read More](https://medium.com/p/3e8d9cbc847a) |
 | Mon, 01 Dec 2025 05:31:08 GMT | Running a business in today’s digital landscape without proper cyber security is like leaving the… | Adits Australia | [Read More](https://medium.com/p/d0bc36e5a222) |
 | Mon, 01 Dec 2025 05:24:51 GMT | $1,000 -critical Critical Log4Shell Vulnerability | KILLUA_UCHIHA | [Read More](https://medium.com/p/2d55129c9c1b) |
 | Mon, 01 Dec 2025 05:24:46 GMT | How I Lock Down IAM Roles (My Exact Checklist) | Faruk Ahmed | [Read More](https://medium.com/p/efb245ceba2b) |
@@ -34,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 04:17:27 GMT | How Facility Management Companies in Bangalore Contribute to Cost Savings and Operational… | NSS Guarding & Facility Management Pvt Ltd | [Read More](https://medium.com/p/9cefb485295f) |
 | Mon, 01 Dec 2025 04:16:22 GMT | Why Cybersecurity Awareness Training Is Now Every Company’s First Line of Defense | Maxatlasofficial | [Read More](https://medium.com/p/27d5f17ee11d) |
 | Mon, 01 Dec 2025 04:14:59 GMT | DEFENSE- IN -DEPTH : DETTY DECEMBER (The Fun, The Frenzy and The Fight To Stay Secured) | Oyeniyi Oluwatayo James | [Read More](https://medium.com/p/7466fcdca681) |
+| Mon, 01 Dec 2025 04:08:32 GMT | Apa Itu Responsiveness? Cara Membuat Website yang Cocok di HP dan Laptop | Anjas Rani | [Read More](https://medium.com/p/8dcc455d2dac) |
 | Mon, 01 Dec 2025 04:05:16 GMT | TryHackMe: Internal Writeup | cbev | [Read More](https://medium.com/p/075186ac37d2) |
 | Mon, 01 Dec 2025 04:02:10 GMT | How AI-Powered Fraud Detection Is Transforming Banking Security in 2025 | Edstellar Official | [Read More](https://medium.com/p/f4d40ec2a4af) |
 | Mon, 01 Dec 2025 03:54:35 GMT | Distro Linux Paling Populer | Jadi Hacker | [Read More](https://medium.com/p/a9efb6fdfb73) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 20:52:23 GMT | Building a Hybrid Web Application with EC2, CloudFront, and S3 — A Practical Networking Workflow | Jahson Jno-Baptiste | [Read More](https://medium.com/p/a0bd1e48bc1d) |
 | Sun, 30 Nov 2025 20:50:47 GMT | Day 8! | Blessing Michael | [Read More](https://medium.com/p/2c314baa9ff1) |
 | Sun, 30 Nov 2025 20:47:48 GMT | Build a Networking & Cybersecurity Lab with Vagrant | Vladyslav Diadenko | [Read More](https://medium.com/p/8eb4d0a7fcec) |
-| Sun, 30 Nov 2025 20:42:47 GMT | Burp Suite vs OWASP ZAP — a Comparison series | Cybervolt | [Read More](https://medium.com/p/14569895b872) |
-| Sun, 30 Nov 2025 20:37:42 GMT | Modern Data Protection and Disaster Recovery: Strategies for the Digital Era | Mubariz Paşayev | [Read More](https://medium.com/p/10a0684b724f) |
-| Sun, 30 Nov 2025 20:36:48 GMT | Hazlo bien o no lo hagas: identidad moderna para arquitecturas sólidas | Erick Arostegui Cunza | [Read More](https://medium.com/p/11fa591a8ea3) |
-| Sun, 30 Nov 2025 20:30:09 GMT | Heavy Inside | Alizabeth Amelia Rose | [Read More](https://medium.com/p/9c05fbdbc6e8) |
-| Sun, 30 Nov 2025 20:26:57 GMT | Developers Have Been Shipping AI-Generated Vulnerabilities Since 2021 | Ahmed Ibrahim | [Read More](https://medium.com/p/d1c93c3787b9) |
-| Sun, 30 Nov 2025 20:26:38 GMT | Securing an inference service with Authorino | Juanma Barea Martinez | [Read More](https://medium.com/p/d4d2d62cf554) |
-| Sun, 30 Nov 2025 20:26:22 GMT | Burp Suite Basics: Learning Web Application Security | Shahzaib | [Read More](https://medium.com/p/75943d6c31cb) |
-| Sun, 30 Nov 2025 20:17:56 GMT | I Hacked Vulnyx for 7 Days — Here’s What I Learned | CyberCraft | [Read More](https://medium.com/p/f56f32d59fea) |
-| Sun, 30 Nov 2025 19:46:11 GMT | 4 Questions You’ll Likely Get in a SOC Analyst Interview (and How to Answer Them) | Jbird | [Read More](https://medium.com/p/14a73fc4607a) |
-| Sun, 30 Nov 2025 19:37:16 GMT | The Only Simple Cybersecurity Roadmap You Need (From Someone Who Started With Zero Clue) | Veeram Reddy | [Read More](https://medium.com/p/a8196c88b1ce) |
-| Sun, 30 Nov 2025 19:21:47 GMT | Testing Detection Rules | Just Moi | [Read More](https://medium.com/p/35cea16b5f91) |
-| Sun, 30 Nov 2025 19:21:16 GMT | Room 110: Isn’t Java RMIRegistry a Mystery? | blackXmask | [Read More](https://medium.com/p/21e39825116d) |
-| Sun, 30 Nov 2025 19:11:59 GMT | The Courage to Trust - The Let Go | Charisse Glenn | [Read More](https://medium.com/p/a1a8b7c47ff9) |
-| Sun, 30 Nov 2025 19:08:34 GMT | Mobile Patrol vs Security Guards: How to Choose the Right Protection for Your Site | Teona | [Read More](https://medium.com/p/fd12a72a390c) |
-| Sun, 30 Nov 2025 18:56:37 GMT | ✨ The Holiday Scam Surge No One’s Talking About | Dr. Elsie M. Casimir | [Read More](https://medium.com/p/d5a428ca60a2) |
-| Sun, 30 Nov 2025 18:53:47 GMT | Cybersecurity Is Hard | Adeluworker | [Read More](https://medium.com/p/032ec4343e9b) |
-| Sun, 30 Nov 2025 18:45:32 GMT | ARK DEV: Transformando la Innovación Tecnológica | Joel Andres C | [Read More](https://medium.com/p/f1f45cb93a72) |
