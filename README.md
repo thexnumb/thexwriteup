@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 15:22:52 GMT | Why Your Business Needs a Fractional CISO to Scale AI Responsibly | Hello @ Octellient | [Read More](https://medium.com/p/5e1e0121fb02) |
+| Mon, 01 Dec 2025 15:16:34 GMT | #11- Kali Linux — Lateral Movement: Traversing the Network | SDNTechForum | [Read More](https://medium.com/p/a9852bbf64a8) |
+| Mon, 01 Dec 2025 15:12:43 GMT | “The $7,500 Steam Chat Hack: How I Chained 8 Vulnerabilities Into Full System Takeover” | Aman Sharma | [Read More](https://medium.com/p/80425f9241b3) |
+| Mon, 01 Dec 2025 15:11:50 GMT | Moving People Predictably with C# and Proven Mathematical Patterns | Namir Sagheenanajar | [Read More](https://medium.com/p/207eebdcd903) |
+| Mon, 01 Dec 2025 15:04:21 GMT | The Hackers Labs Writeup — Quokka (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/2e3074932a76) |
+| Mon, 01 Dec 2025 15:04:00 GMT | How to Detect Jailbreak on React Native | Talsec | [Read More](https://medium.com/p/6e78c02f5445) |
+| Mon, 01 Dec 2025 15:03:08 GMT | Learning the Fundamentals of Cybersecurity | Michael H. | [Read More](https://medium.com/p/6159e211b403) |
+| Mon, 01 Dec 2025 15:02:11 GMT | Cyber Briefing: 2025.12.01 | CyberMaterial | [Read More](https://medium.com/p/0c09ae37c42a) |
+| Mon, 01 Dec 2025 15:02:10 GMT | Hire A Hacker For Cell Phone | Ian Golden | [Read More](https://medium.com/p/a8a35e7f7bae) |
+| Mon, 01 Dec 2025 14:56:45 GMT | LetsDefend Malware Analysis — -Event ID: 85[SOC109 — Emotet Malware Detected] | Iftikaralom | [Read More](https://medium.com/p/e40ca73eb86a) |
+| Mon, 01 Dec 2025 14:52:07 GMT | Upbit Security Breach: A Wake-Up Call for Web3’s Core Values | GFEX - Crypto Gap Prediction | [Read More](https://medium.com/p/276f4938158c) |
+| Mon, 01 Dec 2025 14:51:49 GMT | New Android MaaS Malware Albiriox Enables Large-Scale On-Device Fraud Across 400+ Apps | Hafiz Shamnad | [Read More](https://medium.com/p/9e167a91524e) |
+| Mon, 01 Dec 2025 14:47:49 GMT | Advent of Cyber Prep Track -TryHackMe Walkthrough | Fazal | [Read More](https://medium.com/p/1edee4a9017a) |
 | Mon, 01 Dec 2025 14:42:45 GMT | A $2,000 Vulnerability Hidden Inside Basecamp’s Bot Authentication | Vivek PS | [Read More](https://medium.com/p/1e1bfea8cd63) |
 | Mon, 01 Dec 2025 14:41:13 GMT | Rethinking DevSecOps Through Real-World Work | Ben | [Read More](https://medium.com/p/561dcf95e6e8) |
+| Mon, 01 Dec 2025 14:40:12 GMT | THE DATA | Tahir Malik | [Read More](https://medium.com/p/86b56d022e22) |
 | Mon, 01 Dec 2025 14:36:18 GMT | Quiet Hands: The Psychology Of Moving Through Locked Environments | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a5a2ff835d7f) |
 | Mon, 01 Dec 2025 14:35:28 GMT | What’s for Dinner? A Bite-Sized Investigation of TamperedChef | Kim Tan | [Read More](https://medium.com/p/18eac8b29f13) |
 | Mon, 01 Dec 2025 14:33:26 GMT | Post Quantum Cryptography in .NET 10. ML-KEM and ML-DSA Are Here | Lee Dale | [Read More](https://medium.com/p/bd6cfb2d078a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 10:20:04 GMT | AI-Driven Automation in Penetration Testing. | Aleksander Gorkowienko | [Read More](https://medium.com/p/5b4622f3ad14) |
 | Mon, 01 Dec 2025 10:16:12 GMT | Firewalls Explained Like You’re Five……Using Nmap as the Story | Fateyaly | [Read More](https://medium.com/p/9ef3d5e47773) |
 | Mon, 01 Dec 2025 10:15:03 GMT | Strengthening Cybersecurity with Managed IT Services A Complete Guide | Gokul Krishna | [Read More](https://medium.com/p/0cca05c60f6b) |
-| Mon, 01 Dec 2025 10:11:45 GMT | The Only 3 Cybersecurity Rules You Really Need to Remember | Nikhil Vetal | [Read More](https://medium.com/p/f3345935cb3e) |
-| Mon, 01 Dec 2025 10:10:56 GMT | DNS Demystified: The Hidden Backbone of the Internet and Its Cybersecurity Threats | Aniket Nayak | [Read More](https://medium.com/p/6f85d14267e4) |
-| Mon, 01 Dec 2025 10:08:50 GMT | Single-Event Detection Rules in Cybersecurity | Andrey Pautov | [Read More](https://medium.com/p/aa7498f665bd) |
-| Mon, 01 Dec 2025 10:05:29 GMT | Why Your Mid-Market Success Won’t Scale to Enterprise | Dan Schoenbaum | [Read More](https://medium.com/p/9c15eca55cc4) |
-| Mon, 01 Dec 2025 10:01:11 GMT | Capítulo 11 — O Guardião | Kleber Andrade | [Read More](https://medium.com/p/1255cac6affc) |
-| Mon, 01 Dec 2025 10:00:38 GMT | Don’t Let Compliance Kill Your Startup: A Non-Lawyer’s Roadmap | Glen - Compliance & Regulatory content Specialist | [Read More](https://medium.com/p/8b228ad38cdf) |
-| Mon, 01 Dec 2025 09:53:36 GMT | Practical Approach to What You Need to Know About the SHA1-Hulud Supply Chain Attack | Harsh Kahate | [Read More](https://medium.com/p/fc577e05a138) |
-| Mon, 01 Dec 2025 09:34:39 GMT | Your Beginner’s Guide To Hardware Hacking: Tools, Techniques & Where to Start | Redfox Security | [Read More](https://medium.com/p/70315dc408e5) |
-| Mon, 01 Dec 2025 09:29:16 GMT | ShaShai-Hulud 2.0 Alert: The “Scorched Earth” npm Worm | Ajanaku Temitope | [Read More](https://medium.com/p/234bf746ddb4) |
-| Mon, 01 Dec 2025 09:20:10 GMT | CVE-2025–64446 - The FortiWeb Vulnerability Everyone Slept On | Motasem Hamdan | [Read More](https://medium.com/p/fd32bca67ed4) |
-| Mon, 01 Dec 2025 09:17:12 GMT | Did OpenAI leak your data…? | Swetha | [Read More](https://medium.com/p/90b666f75465) |
-| Mon, 01 Dec 2025 09:15:21 GMT | NPM = Far West : Il est temps d’arrêter cette folie | 01TEK | [Read More](https://medium.com/p/ccfaeb998b76) |
-| Mon, 01 Dec 2025 09:08:53 GMT | Why APAC Companies Are Building ODC Teams in Vietnam in 2025 | Kaopiz Software | [Read More](https://medium.com/p/30cc007e8e7d) |
-| Mon, 01 Dec 2025 09:06:01 GMT | The rhyming ‘master key’ that breaks AI safety | George Hopkin | [Read More](https://medium.com/p/18f25c9ffb87) |
