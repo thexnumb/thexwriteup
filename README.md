@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 12:42:23 GMT | Why IAM Has Become the Most Critical Cybersecurity Skill in 2025–26 | Himanshu Kumar | [Read More](https://medium.com/p/0634457eed66) |
+| Mon, 01 Dec 2025 12:38:28 GMT | How to Stop Ransomware: Best Antivirus for Pc to Use Right Now | SiyanoAV | [Read More](https://medium.com/p/ef955785c37b) |
+| Mon, 01 Dec 2025 12:34:07 GMT | Q5: How Do We Prove to Future Buyers That the Company Is Secure by Design — Not Secure by Marketing? | Barry Ritchie | [Read More](https://medium.com/p/3afc8906ba91) |
+| Mon, 01 Dec 2025 12:32:08 GMT | How To Hire A Hacker | Ian Golden | [Read More](https://medium.com/p/dcb782893dd1) |
+| Mon, 01 Dec 2025 12:31:13 GMT | Community Governance and Volunteer Node Security: Why People Power Still Matters in Privacy Tech | Voidly | [Read More](https://medium.com/p/6b466ee242d9) |
+| Mon, 01 Dec 2025 12:23:01 GMT | **CYBERSECURITY ROADMAP SYLLABUS | HdigitalHUB | [Read More](https://medium.com/p/a8cb928939a8) |
+| Mon, 01 Dec 2025 12:16:48 GMT | CVE-2025–59789: Apache bRPC JSON Recursion Vulnerability | gm0 | [Read More](https://medium.com/p/4153f643d1da) |
+| Mon, 01 Dec 2025 12:12:28 GMT | Hack The Box: Packet Puzzle (Sherlock) | Gba | [Read More](https://medium.com/p/23fc34544ca9) |
+| Mon, 01 Dec 2025 12:12:19 GMT | Beyond Borders: Why Real National Security Is About More Than Soldiers | Niharika | [Read More](https://medium.com/p/fc1b9c21033b) |
+| Mon, 01 Dec 2025 12:12:00 GMT | Your Body Moves → Your Mind Moves | Sony | [Read More](https://medium.com/p/063d529c9065) |
+| Mon, 01 Dec 2025 12:05:05 GMT | Unified Kill Chain: The 18-Phase Framework That Actually Models Modern Attacks | Adam Goss | [Read More](https://medium.com/p/5ae318826d96) |
+| Mon, 01 Dec 2025 12:02:23 GMT | Today’s Top Cyber Intelligence Highlights — Dec 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/31f65956a664) |
+| Mon, 01 Dec 2025 11:59:33 GMT | Fostering Excellence in Aviation Security Leadership for the Middle East | Selinemir | [Read More](https://medium.com/p/2b13d09a8688) |
+| Mon, 01 Dec 2025 11:57:08 GMT | I Told Everyone I’m Fine and Now It’s a Full-Time Job | Ugochi Tite | [Read More](https://medium.com/p/d85b00ae228f) |
+| Mon, 01 Dec 2025 11:54:13 GMT | The Hidden Cost of “Free”: How Software Cracking Actually Works (And Why Your Data Pays the Price) | Aaron | [Read More](https://medium.com/p/c440ca365e84) |
+| Mon, 01 Dec 2025 11:50:39 GMT | From Detection to Protection: The Power of Penetration Testing Services | SmartCLOUD Australia | [Read More](https://medium.com/p/90feaa4ec6c2) |
 | Mon, 01 Dec 2025 11:38:27 GMT | Tomiris Goes Quiet: How a Central Asian Threat Actor Is Hiding C2 in Plain Sight | Germano Costi | [Read More](https://medium.com/p/20cf7e9f61c3) |
 | Mon, 01 Dec 2025 11:36:26 GMT | How Managed IT Services Help Aussie SMEs Stay Secure | Elevate | [Read More](https://medium.com/p/c2ac26328cd4) |
 | Mon, 01 Dec 2025 11:34:59 GMT | OSINT in Cybersecurity: Early Threat Detection Methods | INTELON | [Read More](https://medium.com/p/9dec7045f014) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 06:44:17 GMT | Rising of Cyber Psychology | Himanshu Bhatt | [Read More](https://medium.com/p/f4d0833dee95) |
 | Mon, 01 Dec 2025 06:33:24 GMT | A Practical Guide to Authentication and Session Management Vulnerabilities | coffinxp | [Read More](https://medium.com/p/517f5412a02a) |
 | Mon, 01 Dec 2025 06:24:04 GMT | Part 10: Virtual Box Home Lab — Enforcing GPO — Disabling Task Manager, Logoff etc. | Declan | [Read More](https://medium.com/p/3566335bbce2) |
-| Mon, 01 Dec 2025 06:19:57 GMT | Block Timestamp Dependency: A Critical Vulnerability in Smart Contracts | Tushar_Trivedi | [Read More](https://medium.com/p/bece59898e55) |
-| Mon, 01 Dec 2025 06:19:47 GMT | Exposed Crypto Addresses in Frontend Code: A Bug Bounty Story | Mohamed Abdul Hamid | [Read More](https://medium.com/p/7117e5010256) |
-| Mon, 01 Dec 2025 06:12:40 GMT | Teknik Enumeration Dalam Mengumpulkan Informasi | Reyza Maulana Putra | [Read More](https://medium.com/p/d21e09455e7c) |
-| Mon, 01 Dec 2025 06:12:27 GMT | Penetrant Testing - Best NDT Inspection | Best NDT Inspection | [Read More](https://medium.com/p/89459496a8f9) |
-| Mon, 01 Dec 2025 06:05:12 GMT | Closing the gaps in Nigeria’s security emergency | Lekan Olayiwola | [Read More](https://medium.com/p/98f7869a8547) |
-| Mon, 01 Dec 2025 06:03:31 GMT | How Cyber Attacks Happen: Step-by-Step Process, Real-World Case Studies, and Beginner-Friendly… | Mohammed Fizal | [Read More](https://medium.com/p/55990c399810) |
-| Mon, 01 Dec 2025 06:02:14 GMT | When a Nation is Unsafe, the Health of its People Cannot be Safe. | Gilson Chukwuma | [Read More](https://medium.com/p/4a3ff6d2ddb9) |
-| Mon, 01 Dec 2025 06:01:21 GMT | How I Started Cybersecurity with Zero CS Background (And How You Can Too) | Bhavanavijayan | [Read More](https://medium.com/p/d1ff3fe5efbe) |
-| Mon, 01 Dec 2025 05:59:51 GMT | Mengenal Scanning Networks dengan Tools Nmap | Reyza Maulana Putra | [Read More](https://medium.com/p/4500aade4ec9) |
-| Mon, 01 Dec 2025 05:57:44 GMT | Recover Hacked Facebook Account - Step-by-Step Guide | aoneinfo | [Read More](https://medium.com/p/fbc7c985cbd6) |
-| Mon, 01 Dec 2025 05:55:17 GMT | The Daily Tech Digest: 01 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f833fbefa8f1) |
-| Mon, 01 Dec 2025 05:54:47 GMT | What is Gateway in Networking? | Soundaryaps | [Read More](https://medium.com/p/f5e39a4b68fd) |
-| Mon, 01 Dec 2025 05:52:10 GMT | Rust and the Linux Rewrite Problem | Minervee | [Read More](https://medium.com/p/84f8b8fa8300) |
-| Mon, 01 Dec 2025 05:51:15 GMT | AI in Network Security: Protecting Infrastructure with Intelligent Systems | QualysecEurope | [Read More](https://medium.com/p/1ce4edf99cbc) |
-| Mon, 01 Dec 2025 05:48:39 GMT | Event ID — 36 - SOC — 104 -Malware Detected | Soumodeep Das | [Read More](https://medium.com/p/f8a03f145c50) |
-| Mon, 01 Dec 2025 05:42:13 GMT | Rooting Kioptrix — A Manual Exploitation Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/d266dbcb6a29) |
