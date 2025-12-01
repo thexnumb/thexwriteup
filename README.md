@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 23:26:47 GMT | SSRF, LFI, RCE, and Admin Panel Discoveries | Monika sharma | [Read More](https://medium.com/p/dbc9fce6b665) |
+| Mon, 01 Dec 2025 23:26:41 GMT | Stop Sharing .env | Faris Chtatou | [Read More](https://medium.com/p/e0f94bd73701) |
+| Mon, 01 Dec 2025 23:23:37 GMT | Mobile pen testing part 3: Static analysis of the Damm Vulnerable Bank app | Nol White Hat | [Read More](https://medium.com/p/99f006391844) |
+| Mon, 01 Dec 2025 23:23:28 GMT | Mobile pen testing part 4: Dynamic analysis of the Damm Vulnerable Bank app | Nol White Hat | [Read More](https://medium.com/p/0b29bf8a74c0) |
+| Mon, 01 Dec 2025 23:23:09 GMT | 5 Eye-Opening Lessons from Building a Personal API Hacking Lab | ms.chalo_cy | [Read More](https://medium.com/p/eeb7973a3ac2) |
 | Mon, 01 Dec 2025 23:09:18 GMT | Day 1-Networking Essentials and Wireshark: ICMP Echo Analysis | Oluwadamilare Adeosun | [Read More](https://medium.com/p/1bb5ffded932) |
 | Mon, 01 Dec 2025 23:02:45 GMT | AI inSecurity: We’re Making the Same Mistakes Again | Vito Rallo | [Read More](https://medium.com/p/ba0ee8a10a0f) |
 | Mon, 01 Dec 2025 22:59:14 GMT | The Ethics of Intelligence: Why Explainable AI Is Cybersecurity’s Next Frontier | Roger Millar | [Read More](https://medium.com/p/1197546bd76f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 16:22:39 GMT | LLM Vulnerabilities: Why AI Models Are the Next Big Attack Surface | Netlas.io | [Read More](https://medium.com/p/f0845f458e30) |
 | Mon, 01 Dec 2025 16:18:24 GMT | How AI Is Changing Cybersecurity in 2025 — A Beginner-Friendly Reality Check | Poojan Ghetiya | [Read More](https://medium.com/p/0de350d77ae8) |
 | Mon, 01 Dec 2025 16:18:08 GMT | Why Software Bugs Go Unreported in Testing and How to Fix the Gap | Josphine Job | [Read More](https://medium.com/p/da6946582f8c) |
-| Mon, 01 Dec 2025 16:18:03 GMT | The Manual SQL Injection Tricks That Automated Scanners Miss | Abhishek meena | [Read More](https://medium.com/p/a5eac6d74f38) |
-| Mon, 01 Dec 2025 16:16:31 GMT | Secure ASP.NET Core the Easy Way: Introducing ShieldXSS | Amelia Keki | [Read More](https://medium.com/p/e854e3035dfd) |
-| Mon, 01 Dec 2025 16:11:51 GMT | List of Reconning Tool Every Beginner Hacker Must Familiarize With | NourInTech | [Read More](https://medium.com/p/283a82752f6d) |
-| Mon, 01 Dec 2025 16:10:16 GMT | The EdTech Portfolio: Why Centralization Alone Isn’t the Answer | Simple Higher Ed Insights | [Read More](https://medium.com/p/fe1a6e244e39) |
-| Mon, 01 Dec 2025 16:05:58 GMT | How a Simple Forgot-Password Flow Turned Into Remote Code Execution (My SSTI Story) | MR.7 | [Read More](https://medium.com/p/94672e60740d) |
