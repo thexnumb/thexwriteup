@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 20:15:37 GMT | Advent of Cyber 2025 — Day 1: Chasing Eggsploits with the Linux CLI | Akshat Patel | [Read More](https://medium.com/p/96a4ae0c7180) |
+| Mon, 01 Dec 2025 20:07:26 GMT | AI Agents: Red Teaming with AresGPT and EthicalEngine AI — Scaling GPTs Securely | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/5036686db704) |
+| Mon, 01 Dec 2025 20:07:21 GMT | Beyond <script>: Weaponizing <? and </ for Next-Gen XSS | KindOne | [Read More](https://medium.com/p/792716317def) |
+| Mon, 01 Dec 2025 20:06:03 GMT | Portswigger Walkthrough Lab: Username enumeration via subtly different responses | Mukilan Baskaran | [Read More](https://medium.com/p/715467f0d2e8) |
+| Mon, 01 Dec 2025 20:05:26 GMT | Oyunlardaki Anti-Hile Sistemleri Nasıl Çalışır? | HSD OstimTech | [Read More](https://medium.com/p/49cab2dd3ec9) |
+| Mon, 01 Dec 2025 20:03:39 GMT | The 3 Biggest Risks of LLMs Going Into 2026: Hallucination, Hidden Costs, and Data Leakage | Serdar Göksu | [Read More](https://medium.com/p/f952fcb94506) |
+| Mon, 01 Dec 2025 19:51:30 GMT | Yes, AI Can Help Cybersecurity Too | BillfordX | [Read More](https://medium.com/p/4ef4e01b8927) |
+| Mon, 01 Dec 2025 19:47:37 GMT | SOC Metrics and Objectives Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/9bed69768580) |
+| Mon, 01 Dec 2025 19:38:31 GMT | Bugcrowd for Ethical Hackers: A Complete Framework to Build Reputation, Earn Trust, and Master… | Penough | [Read More](https://medium.com/p/3cbe77180eac) |
 | Mon, 01 Dec 2025 19:24:17 GMT | HeartBleed — explained | Viodex | [Read More](https://medium.com/p/8b8af03b4b81) |
 | Mon, 01 Dec 2025 19:21:55 GMT | My Journey to Cyber Security | nothingKnew | [Read More](https://medium.com/p/95fe6ae1d373) |
 | Mon, 01 Dec 2025 19:20:34 GMT | जब एक लीक हुआ क्लिप वायरल हो जाता है: टूटती समाज की असलियत | Author Anant Yadav | [Read More](https://medium.com/p/9e86023d62fc) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 14:40:12 GMT | THE DATA | Tahir Malik | [Read More](https://medium.com/p/86b56d022e22) |
 | Mon, 01 Dec 2025 14:36:18 GMT | Quiet Hands: The Psychology Of Moving Through Locked Environments | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a5a2ff835d7f) |
 | Mon, 01 Dec 2025 14:35:28 GMT | What’s for Dinner? A Bite-Sized Investigation of TamperedChef | Kim Tan | [Read More](https://medium.com/p/18eac8b29f13) |
-| Mon, 01 Dec 2025 14:33:26 GMT | Post Quantum Cryptography in .NET 10. ML-KEM and ML-DSA Are Here | Lee Dale | [Read More](https://medium.com/p/bd6cfb2d078a) |
-| Mon, 01 Dec 2025 14:32:25 GMT | The Art Of Entering Spaces You Were Never Meant To See | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/96855f4c38b6) |
-| Mon, 01 Dec 2025 14:29:57 GMT | How to Protect Your Company’s Mobile Phones and Laptops from Cyber Threats | Cordula Boeck | [Read More](https://medium.com/p/e5aa053806f7) |
-| Mon, 01 Dec 2025 14:24:37 GMT | Never Roll Your Own Auth (Part 1) | Rahulbalaji | [Read More](https://medium.com/p/718e24d97699) |
-| Mon, 01 Dec 2025 14:20:11 GMT | Sensitive Data Exposure in Client-Side JavaScript — How I Extracted OAuth & Monitoring Credentials… | Prince Philip | [Read More](https://medium.com/p/1ac1e729a5b0) |
-| Mon, 01 Dec 2025 14:18:54 GMT | From IP Blocking to Adversary Engagement: Autonomous Honeynets as an Intelligence Engine | Martin Abramov | [Read More](https://medium.com/p/8b94f549b790) |
-| Mon, 01 Dec 2025 14:17:07 GMT | How Queue-Fair Protects Consumers: Confidence, Cybersecurity, and Real Products in a Crowded Online… | Mike Lowe | [Read More](https://medium.com/p/9d44944db28f) |
-| Mon, 01 Dec 2025 14:12:28 GMT | Why Chrome Flagged My GitHub Docs as a Phishing Scam (And How I Fixed It) | Roxroy | [Read More](https://medium.com/p/7cb2b0f8c932) |
-| Mon, 01 Dec 2025 14:11:42 GMT | A Simple Guide To Authentication | Karthik Shastri | [Read More](https://medium.com/p/4a7d16beb1d6) |
