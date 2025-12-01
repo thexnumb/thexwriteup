@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 07:40:01 GMT | SIM-Binding Rules: What Indian Users Must Know | Vijay Kumar Gupta | [Read More](https://medium.com/p/9a30ab60dd96) |
+| Mon, 01 Dec 2025 07:39:27 GMT | In Search of Hidden Meaning: Vincent Halles and the Art of Connecting Fragments | Calogero Kalos Bonasia | [Read More](https://medium.com/p/238ec7a3ddd0) |
+| Mon, 01 Dec 2025 07:32:56 GMT | South Korea’s Worst Data Breach in a Decade: What the Coupang Hack Teaches Us About Insider Threats | Navya | [Read More](https://medium.com/p/74f4328fe254) |
+| Mon, 01 Dec 2025 07:30:24 GMT | Portswigger Broken Authentication (Konu anlatımı + Lab çözümleri) | Muhammet Ali Tekin | [Read More](https://medium.com/p/87ff2e2d34b4) |
+| Mon, 01 Dec 2025 07:25:33 GMT | Day 80- What I have learned after seeing Zscaler’s core platforms- ZCC, ZIA, ZPA, ZDX on a job post | unica 02 | [Read More](https://medium.com/p/3ebe9cceab3d) |
+| Mon, 01 Dec 2025 07:25:06 GMT | Words in the Dark: When a Stranger’s Scroll Saves the Night | Kushal Dhananjay Samant | [Read More](https://medium.com/p/4e2842563bb3) |
 | Mon, 01 Dec 2025 07:22:42 GMT | Hack The Box Neurogrid CTF -Secure Coding Challenges | Ahmed Yasser | [Read More](https://medium.com/p/83a39be80b14) |
+| Mon, 01 Dec 2025 07:18:28 GMT | s | Youssefsaidthabet | [Read More](https://medium.com/p/0ff92a9daea2) |
 | Mon, 01 Dec 2025 07:12:11 GMT | Cyber Security Risks in Digital Marketing: What Every Business Must Know | Media | [Read More](https://medium.com/p/d9e8e9eb8eee) |
 | Mon, 01 Dec 2025 07:11:59 GMT | techNbuddy: AI Networking Made Easy | techNbuddy | [Read More](https://medium.com/p/92b13194da65) |
 | Mon, 01 Dec 2025 07:06:46 GMT | DEFENSE DAY: INCIDENT RESPONSE, DIGITAL FORENSICS & ATTACK RECONSTRUCTION
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 00:35:06 GMT | Social Media Risks Every User Should Understand | Geoffrey Wenger | [Read More](https://medium.com/p/393550a5345b) |
 | Mon, 01 Dec 2025 00:24:28 GMT | How ChatGPT Is Colonized: An Academic Breakdown of AI Built on Western Archives | Historical Justice Press | [Read More](https://medium.com/p/0606c40518b4) |
 | Mon, 01 Dec 2025 00:08:35 GMT | Hack The Box-Editor Walkthrough | NV | [Read More](https://medium.com/p/05b2341327e6) |
-| Sun, 30 Nov 2025 23:48:58 GMT | How To Easily Write Pentest Reports With SysReptor | 0liverFlow | [Read More](https://medium.com/p/42fb8593a653) |
-| Sun, 30 Nov 2025 23:44:13 GMT | হ্যাকিং বিদ্যার হাতেখড়ি শুরু হউক | Humayun Shariar Himu | [Read More](https://medium.com/p/188a46fc9015) |
-| Sun, 30 Nov 2025 23:35:33 GMT | CVE-2025–64115: Unvalidated Referer Redirect & SSRF in Movary | CyberDucky | [Read More](https://medium.com/p/fe937b07f18a) |
-| Sun, 30 Nov 2025 23:33:37 GMT | Weaponizing LLMs to Bypass Behavioral EDR | Maxwell Cross | [Read More](https://medium.com/p/64d306244cbb) |
-| Sun, 30 Nov 2025 23:21:36 GMT | Web Investigation Lab — Write-up | 0xTT-byte | [Read More](https://medium.com/p/f00b26311fcf) |
-| Sun, 30 Nov 2025 23:16:55 GMT | Richard Doty, Mirage Men, and the Psyops Blueprint Behind Modern Cyber Warfare | Jeff Kingsland | [Read More](https://medium.com/p/d66a556f041e) |
-| Sun, 30 Nov 2025 23:14:36 GMT | Executive Protection Close Quarters Battle | Paramount Defense Group Inc | [Read More](https://medium.com/p/9e2f5c4dcc7e) |
