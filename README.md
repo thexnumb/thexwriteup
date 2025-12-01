@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 23:09:18 GMT | Day 1-Networking Essentials and Wireshark: ICMP Echo Analysis | Oluwadamilare Adeosun | [Read More](https://medium.com/p/1bb5ffded932) |
+| Mon, 01 Dec 2025 23:02:45 GMT | AI inSecurity: We’re Making the Same Mistakes Again | Vito Rallo | [Read More](https://medium.com/p/ba0ee8a10a0f) |
+| Mon, 01 Dec 2025 22:59:14 GMT | The Ethics of Intelligence: Why Explainable AI Is Cybersecurity’s Next Frontier | Roger Millar | [Read More](https://medium.com/p/1197546bd76f) |
+| Mon, 01 Dec 2025 22:52:51 GMT | When My Son Turned Blue, I Met a Version of Myself I Never Knew | Binte Habib | [Read More](https://medium.com/p/173074c7bb54) |
 | Mon, 01 Dec 2025 22:40:50 GMT | Security Is NOT Customer Service and Treating It That Way Is a Major Risk factor. | Peter Uliano | [Read More](https://medium.com/p/342a9f1a0566) |
 | Mon, 01 Dec 2025 22:17:13 GMT | 3I/ATLAS Revealed a New National Security Problem, and It Is Not Aliens | Alton lockhart | [Read More](https://medium.com/p/a8d25cb72d95) |
 | Mon, 01 Dec 2025 22:01:18 GMT | Why Cybersecurity Matters Now More Than Ever — Especially for Young Africans | Rahma Nasir Iro | [Read More](https://medium.com/p/ab1fa08c7c73) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 16:11:51 GMT | List of Reconning Tool Every Beginner Hacker Must Familiarize With | NourInTech | [Read More](https://medium.com/p/283a82752f6d) |
 | Mon, 01 Dec 2025 16:10:16 GMT | The EdTech Portfolio: Why Centralization Alone Isn’t the Answer | Simple Higher Ed Insights | [Read More](https://medium.com/p/fe1a6e244e39) |
 | Mon, 01 Dec 2025 16:05:58 GMT | How a Simple Forgot-Password Flow Turned Into Remote Code Execution (My SSTI Story) | MR.7 | [Read More](https://medium.com/p/94672e60740d) |
-| Mon, 01 Dec 2025 16:04:55 GMT | Your Medium Account is a Sitting Duck | blogginglen.com | [Read More](https://medium.com/p/8aa39149bd3f) |
-| Mon, 01 Dec 2025 15:58:59 GMT | Gaillac Machine Learning for Econometrics: Complete 2026 Regional Guide | Motherlandlove | [Read More](https://medium.com/p/f94aeaf7fab2) |
-| Mon, 01 Dec 2025 15:45:58 GMT | HeroCTF_v7 (Web) | Mohamed yasser | [Read More](https://medium.com/p/76e4ff895d05) |
-| Mon, 01 Dec 2025 15:42:45 GMT | Blue — TryHackMe Walkthrough | Ashba Arshad | [Read More](https://medium.com/p/7ea2e6bbbb43) |
