@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 19:24:17 GMT | HeartBleed — explained | Viodex | [Read More](https://medium.com/p/8b8af03b4b81) |
+| Mon, 01 Dec 2025 19:21:55 GMT | My Journey to Cyber Security | nothingKnew | [Read More](https://medium.com/p/95fe6ae1d373) |
+| Mon, 01 Dec 2025 19:20:34 GMT | जब एक लीक हुआ क्लिप वायरल हो जाता है: टूटती समाज की असलियत | Author Anant Yadav | [Read More](https://medium.com/p/9e86023d62fc) |
 | Mon, 01 Dec 2025 19:15:24 GMT | Web Nedir? Websitesi Nasıl Çalışır? HTTP/HTTPS Detaylı Rehber | Tetra403 | [Read More](https://medium.com/p/3ed6afa440c5) |
 | Mon, 01 Dec 2025 19:10:45 GMT | When a Leaked Clip Goes Viral, What Really Breaks Is a Society: India’s Digital Voyeurism Problem | Author Anant Yadav | [Read More](https://medium.com/p/0b91267b9c3f) |
 | Mon, 01 Dec 2025 18:55:44 GMT | Microsoft Entra: The New Identity Security Layer Every Organization Needs | Sudhakar Tiwari | [Read More](https://medium.com/p/26c025d46cc9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 14:17:07 GMT | How Queue-Fair Protects Consumers: Confidence, Cybersecurity, and Real Products in a Crowded Online… | Mike Lowe | [Read More](https://medium.com/p/9d44944db28f) |
 | Mon, 01 Dec 2025 14:12:28 GMT | Why Chrome Flagged My GitHub Docs as a Phishing Scam (And How I Fixed It) | Roxroy | [Read More](https://medium.com/p/7cb2b0f8c932) |
 | Mon, 01 Dec 2025 14:11:42 GMT | A Simple Guide To Authentication | Karthik Shastri | [Read More](https://medium.com/p/4a7d16beb1d6) |
-| Mon, 01 Dec 2025 14:11:17 GMT | ️ Burp Suite Demystified: The Secret Weapon for Web Security (A Guide for Everyone) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d6bd950415ba) |
-| Mon, 01 Dec 2025 14:09:55 GMT | Understanding the Modern Web Attack Surface (AppSec) | Gabriel Odusanya - Cybersecurity | [Read More](https://medium.com/p/964d165284e5) |
-| Mon, 01 Dec 2025 14:06:01 GMT | Who Is GRC Really For? | Jay H. | [Read More](https://medium.com/p/090c00dcfcb9) |
