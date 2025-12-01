@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 14:42:45 GMT | A $2,000 Vulnerability Hidden Inside Basecamp’s Bot Authentication | Vivek PS | [Read More](https://medium.com/p/1e1bfea8cd63) |
+| Mon, 01 Dec 2025 14:41:13 GMT | Rethinking DevSecOps Through Real-World Work | Ben | [Read More](https://medium.com/p/561dcf95e6e8) |
+| Mon, 01 Dec 2025 14:36:18 GMT | Quiet Hands: The Psychology Of Moving Through Locked Environments | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a5a2ff835d7f) |
+| Mon, 01 Dec 2025 14:35:28 GMT | What’s for Dinner? A Bite-Sized Investigation of TamperedChef | Kim Tan | [Read More](https://medium.com/p/18eac8b29f13) |
+| Mon, 01 Dec 2025 14:33:26 GMT | Post Quantum Cryptography in .NET 10. ML-KEM and ML-DSA Are Here | Lee Dale | [Read More](https://medium.com/p/bd6cfb2d078a) |
+| Mon, 01 Dec 2025 14:32:25 GMT | The Art Of Entering Spaces You Were Never Meant To See | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/96855f4c38b6) |
+| Mon, 01 Dec 2025 14:29:57 GMT | How to Protect Your Company’s Mobile Phones and Laptops from Cyber Threats | Cordula Boeck | [Read More](https://medium.com/p/e5aa053806f7) |
+| Mon, 01 Dec 2025 14:24:37 GMT | Never Roll Your Own Auth (Part 1) | Rahulbalaji | [Read More](https://medium.com/p/718e24d97699) |
+| Mon, 01 Dec 2025 14:20:11 GMT | Sensitive Data Exposure in Client-Side JavaScript — How I Extracted OAuth & Monitoring Credentials… | Prince Philip | [Read More](https://medium.com/p/1ac1e729a5b0) |
+| Mon, 01 Dec 2025 14:18:54 GMT | From IP Blocking to Adversary Engagement: Autonomous Honeynets as an Intelligence Engine | Martin Abramov | [Read More](https://medium.com/p/8b94f549b790) |
 | Mon, 01 Dec 2025 14:17:07 GMT | How Queue-Fair Protects Consumers: Confidence, Cybersecurity, and Real Products in a Crowded Online… | Mike Lowe | [Read More](https://medium.com/p/9d44944db28f) |
 | Mon, 01 Dec 2025 14:12:28 GMT | Why Chrome Flagged My GitHub Docs as a Phishing Scam (And How I Fixed It) | Roxroy | [Read More](https://medium.com/p/7cb2b0f8c932) |
 | Mon, 01 Dec 2025 14:11:42 GMT | A Simple Guide To Authentication | Karthik Shastri | [Read More](https://medium.com/p/4a7d16beb1d6) |
@@ -52,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 12:12:00 GMT | Your Body Moves → Your Mind Moves | Sony | [Read More](https://medium.com/p/063d529c9065) |
 | Mon, 01 Dec 2025 12:05:05 GMT | Unified Kill Chain: The 18-Phase Framework That Actually Models Modern Attacks | Adam Goss | [Read More](https://medium.com/p/5ae318826d96) |
 | Mon, 01 Dec 2025 12:02:23 GMT | Today’s Top Cyber Intelligence Highlights — Dec 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/31f65956a664) |
+| Mon, 01 Dec 2025 12:01:34 GMT | TryHackMe: Vulnerability Capstone | glitch | [Read More](https://medium.com/p/3dfaa888329c) |
 | Mon, 01 Dec 2025 11:59:33 GMT | Fostering Excellence in Aviation Security Leadership for the Middle East | Selinemir | [Read More](https://medium.com/p/2b13d09a8688) |
 | Mon, 01 Dec 2025 11:57:08 GMT | I Told Everyone I’m Fine and Now It’s a Full-Time Job | Ugochi Tite | [Read More](https://medium.com/p/d85b00ae228f) |
 | Mon, 01 Dec 2025 11:54:13 GMT | The Hidden Cost of “Free”: How Software Cracking Actually Works (And Why Your Data Pays the Price) | Aaron | [Read More](https://medium.com/p/c440ca365e84) |
@@ -95,20 +106,9 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 10:00:38 GMT | Don’t Let Compliance Kill Your Startup: A Non-Lawyer’s Roadmap | Glen - Compliance & Regulatory content Specialist | [Read More](https://medium.com/p/8b228ad38cdf) |
 | Mon, 01 Dec 2025 09:53:36 GMT | Practical Approach to What You Need to Know About the SHA1-Hulud Supply Chain Attack | Harsh Kahate | [Read More](https://medium.com/p/fc577e05a138) |
 | Mon, 01 Dec 2025 09:34:39 GMT | Your Beginner’s Guide To Hardware Hacking: Tools, Techniques & Where to Start | Redfox Security | [Read More](https://medium.com/p/70315dc408e5) |
+| Mon, 01 Dec 2025 09:29:16 GMT | ShaShai-Hulud 2.0 Alert: The “Scorched Earth” npm Worm | Ajanaku Temitope | [Read More](https://medium.com/p/234bf746ddb4) |
 | Mon, 01 Dec 2025 09:20:10 GMT | CVE-2025–64446 - The FortiWeb Vulnerability Everyone Slept On | Motasem Hamdan | [Read More](https://medium.com/p/fd32bca67ed4) |
 | Mon, 01 Dec 2025 09:17:12 GMT | Did OpenAI leak your data…? | Swetha | [Read More](https://medium.com/p/90b666f75465) |
 | Mon, 01 Dec 2025 09:15:21 GMT | NPM = Far West : Il est temps d’arrêter cette folie | 01TEK | [Read More](https://medium.com/p/ccfaeb998b76) |
 | Mon, 01 Dec 2025 09:08:53 GMT | Why APAC Companies Are Building ODC Teams in Vietnam in 2025 | Kaopiz Software | [Read More](https://medium.com/p/30cc007e8e7d) |
 | Mon, 01 Dec 2025 09:06:01 GMT | The rhyming ‘master key’ that breaks AI safety | George Hopkin | [Read More](https://medium.com/p/18f25c9ffb87) |
-| Mon, 01 Dec 2025 09:02:17 GMT | Bug Bounty Hunters: Use Plain Text Leaks To Turn Recon Into High-Impact Reports | Alexandre Vandamme | [Read More](https://medium.com/p/b59286cedf61) |
-| Mon, 01 Dec 2025 09:00:24 GMT | Stop Sharing .env Files — Here’s the Secure Way to Manage Environment Variables | Shahnoor Mujawar | [Read More](https://medium.com/p/218f16001fdb) |
-| Mon, 01 Dec 2025 08:56:00 GMT | RST TI Report Digest: 01 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/b90cdb590fc8) |
-| Mon, 01 Dec 2025 08:54:02 GMT | Why Smart, Integrated Systems Are Now Essential for Every Business | Ping Secure | [Read More](https://medium.com/p/9385f674ecd0) |
-| Mon, 01 Dec 2025 08:51:33 GMT | VirusTotal Tehdit İstihbaratıyla Gözlemlenebilirliğinizi Zenginleştirin | Perform Yazılım | [Read More](https://medium.com/p/44e50de41953) |
-| Mon, 01 Dec 2025 08:49:58 GMT | Crypto Currency & Trading: A Complete Guide to Buying, Selling & Staying Safe (Clear Web vs Dark… | ghostyjoe | [Read More](https://medium.com/p/7ad309dca496) |
-| Mon, 01 Dec 2025 08:44:25 GMT | Portswigger : Authentication vulnerabilities | Songül Kızılay Özügürler | [Read More](https://medium.com/p/04a67d67f13f) |
-| Mon, 01 Dec 2025 08:44:20 GMT | The Psychology Behind Cybersecurity Leadership: How Decisions Are Made When the Pressure Is On | Digital Defense | [Read More](https://medium.com/p/8b723d9d7023) |
-| Mon, 01 Dec 2025 08:38:17 GMT | Från digital föregångare till digital hyresgäst? | Alehandro Martinez | [Read More](https://medium.com/p/0d6bb37b3522) |
-| Mon, 01 Dec 2025 08:36:22 GMT | The Iron Triangle vs. The 3R Optimization Model: Why ‘Pick Two’ is Wrong | Levente Simon | [Read More](https://medium.com/p/c935e09bd5a3) |
-| Mon, 01 Dec 2025 08:36:01 GMT | How to turn a class bug into a portfolio win | Kayla J | [Read More](https://medium.com/p/1bebe12beb4d) |
-| Mon, 01 Dec 2025 08:34:09 GMT | Zero-Trust Architecture in Laravel Applications | Avinash | [Read More](https://medium.com/p/54d5641fb56a) |
