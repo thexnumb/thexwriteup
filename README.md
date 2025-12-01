@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 21:18:05 GMT | BehindTheScreens: When the Internet Blinks — Cloudflare’s Outage, Fortinet’s Zero-Days, and a Week… | Sam - Behind The Screens | [Read More](https://medium.com/p/603fcfcea45c) |
+| Mon, 01 Dec 2025 21:13:25 GMT | November 2025: Major Cyber Attacks Ransomware Attacks, Data Breaches | IT_Engineer | [Read More](https://medium.com/p/64c0ee30e612) |
+| Mon, 01 Dec 2025 21:06:01 GMT | “Owns a Home, Car, and Makes $100K” — Why Successful Women Won’t Settle for Less | Queena Bryan | [Read More](https://medium.com/p/f3d5ac1636f6) |
+| Mon, 01 Dec 2025 20:56:25 GMT | Rate Limiting — Why and  How? | Shivam Agrawal | [Read More](https://medium.com/p/4c36db9884e6) |
+| Mon, 01 Dec 2025 20:54:39 GMT | Red Teaming Against the Open Code Mission Evidence-First Architecture | Graham dePenros | [Read More](https://medium.com/p/eed5fbe00dc8) |
+| Mon, 01 Dec 2025 20:50:55 GMT | So, You Want to Work in Cybersecurity? READ THIS BEFORE (Blue Team Edition) | Jbird | [Read More](https://medium.com/p/f9863ec40224) |
+| Mon, 01 Dec 2025 20:49:54 GMT | AI-Led Cyberattack Shows Why Human Insight Still Matters | Graylog | [Read More](https://medium.com/p/c839f77627e0) |
+| Mon, 01 Dec 2025 20:49:28 GMT | AI, Cybersecurity, and Dentistry: Why an 8-Page PDF Should Be on Your DSO’s Radar | Arna Meyer | [Read More](https://medium.com/p/e8dabc88a1a6) |
+| Mon, 01 Dec 2025 20:42:35 GMT | Correlation Engine Optimization for SIEM: Boosting Detection Performance with Practical Techniques… | Esra Kayhan | [Read More](https://medium.com/p/0d6ea351ce54) |
+| Mon, 01 Dec 2025 20:42:07 GMT | Setting Up a Honeypot — Catching Attacks Before They Happen | Secured By Sebastion | [Read More](https://medium.com/p/2a495e684e89) |
+| Mon, 01 Dec 2025 20:41:20 GMT | TryHackMe: Advent of Cyber 2025 — Day 1 Walkthrough | Inyanji Lynnette | [Read More](https://medium.com/p/13ec74e3fd47) |
+| Mon, 01 Dec 2025 20:39:11 GMT | Security Pilot Ended Despite Strong ROI as Timmins Races to Relocate Shelter | Scott Hill | [Read More](https://medium.com/p/fc1b0360b211) |
 | Mon, 01 Dec 2025 20:26:44 GMT | How to Know If Your Phone Has Been Hacked (And What to Do) | Liam | [Read More](https://medium.com/p/56ef52cb3429) |
 | Mon, 01 Dec 2025 20:22:24 GMT | SentinelAI Phishing Detection: A Technical Deep Dive into Modern Email Threat Analysis | Kavisha Mathur | [Read More](https://medium.com/p/2ab183db4f95) |
 | Mon, 01 Dec 2025 20:20:17 GMT | How to Build Your Own Private VPN Without Monthly Subscriptions | 404: Office Not Found | [Read More](https://medium.com/p/6b98093d8e6d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 15:16:34 GMT | #11- Kali Linux — Lateral Movement: Traversing the Network | SDNTechForum | [Read More](https://medium.com/p/a9852bbf64a8) |
 | Mon, 01 Dec 2025 15:14:44 GMT | Investigating a Critical Breach: Unmasking a File Upload Vulnerability Attack (SO-WEB-08) | 0plxg | [Read More](https://medium.com/p/bca00dfde517) |
 | Mon, 01 Dec 2025 15:12:43 GMT | “The $7,500 Steam Chat Hack: How I Chained 8 Vulnerabilities Into Full System Takeover” | Aman Sharma | [Read More](https://medium.com/p/80425f9241b3) |
-| Mon, 01 Dec 2025 15:11:50 GMT | Moving People Predictably with C# and Proven Mathematical Patterns | Namir Sagheenanajar | [Read More](https://medium.com/p/207eebdcd903) |
-| Mon, 01 Dec 2025 15:04:21 GMT | The Hackers Labs Writeup — Quokka (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/2e3074932a76) |
-| Mon, 01 Dec 2025 15:04:00 GMT | How to Detect Jailbreak on React Native | Talsec | [Read More](https://medium.com/p/6e78c02f5445) |
-| Mon, 01 Dec 2025 15:03:08 GMT | Learning the Fundamentals of Cybersecurity | Michael H. | [Read More](https://medium.com/p/6159e211b403) |
-| Mon, 01 Dec 2025 15:02:11 GMT | Cyber Briefing: 2025.12.01 | CyberMaterial | [Read More](https://medium.com/p/0c09ae37c42a) |
-| Mon, 01 Dec 2025 15:02:10 GMT | Hire A Hacker For Cell Phone | Ian Golden | [Read More](https://medium.com/p/a8a35e7f7bae) |
-| Mon, 01 Dec 2025 14:56:45 GMT | LetsDefend Malware Analysis — -Event ID: 85[SOC109 — Emotet Malware Detected] | Iftikaralom | [Read More](https://medium.com/p/e40ca73eb86a) |
-| Mon, 01 Dec 2025 14:52:07 GMT | Upbit Security Breach: A Wake-Up Call for Web3’s Core Values | GFEX - Crypto Gap Prediction | [Read More](https://medium.com/p/276f4938158c) |
-| Mon, 01 Dec 2025 14:51:49 GMT | New Android MaaS Malware Albiriox Enables Large-Scale On-Device Fraud Across 400+ Apps | Hafiz Shamnad | [Read More](https://medium.com/p/9e167a91524e) |
-| Mon, 01 Dec 2025 14:47:49 GMT | Advent of Cyber Prep Track -TryHackMe Walkthrough | Fazal | [Read More](https://medium.com/p/1edee4a9017a) |
-| Mon, 01 Dec 2025 14:42:45 GMT | A $2,000 Vulnerability Hidden Inside Basecamp’s Bot Authentication | Vivek PS | [Read More](https://medium.com/p/1e1bfea8cd63) |
-| Mon, 01 Dec 2025 14:41:13 GMT | Rethinking DevSecOps Through Real-World Work | Ben | [Read More](https://medium.com/p/561dcf95e6e8) |
