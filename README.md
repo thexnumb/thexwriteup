@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 14:17:07 GMT | How Queue-Fair Protects Consumers: Confidence, Cybersecurity, and Real Products in a Crowded Online… | Mike Lowe | [Read More](https://medium.com/p/9d44944db28f) |
+| Mon, 01 Dec 2025 14:12:28 GMT | Why Chrome Flagged My GitHub Docs as a Phishing Scam (And How I Fixed It) | Roxroy | [Read More](https://medium.com/p/7cb2b0f8c932) |
+| Mon, 01 Dec 2025 14:11:42 GMT | A Simple Guide To Authentication | Karthik Shastri | [Read More](https://medium.com/p/4a7d16beb1d6) |
+| Mon, 01 Dec 2025 14:11:17 GMT | ️ Burp Suite Demystified: The Secret Weapon for Web Security (A Guide for Everyone) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d6bd950415ba) |
+| Mon, 01 Dec 2025 14:09:55 GMT | Understanding the Modern Web Attack Surface (AppSec) | Gabriel Odusanya - Cybersecurity | [Read More](https://medium.com/p/964d165284e5) |
+| Mon, 01 Dec 2025 14:06:01 GMT | Who Is GRC Really For? | Jay H. | [Read More](https://medium.com/p/090c00dcfcb9) |
+| Mon, 01 Dec 2025 14:04:25 GMT | How Azure CuRP Proxy Enables a Nearly Invisible Data Exfiltration Tunnel (Including MI Token Theft) | Michał Smereczyński | [Read More](https://medium.com/p/2db2609afeb2) |
+| Mon, 01 Dec 2025 14:03:35 GMT | Data Integrity & Model Poisoning - Tryhackme | Aaron | [Read More](https://medium.com/p/12859f52f8ae) |
+| Mon, 01 Dec 2025 14:02:33 GMT | -   () ! | Koen van Dijk | [Read More](https://medium.com/p/6464efd2983f) |
+| Mon, 01 Dec 2025 14:02:03 GMT | eJPT v2 : Challenge Lab 27: Pyrat | Dhanushkumar R | [Read More](https://medium.com/p/84b01e4ae10b) |
+| Mon, 01 Dec 2025 14:01:03 GMT | The Importance of Modern, Secure Websites for Small Businesses | HSINGH WEB STUDIO | [Read More](https://medium.com/p/fdeabc6fd400) |
+| Mon, 01 Dec 2025 14:01:03 GMT | Battle-Testing Empire Fish Data: How We Build Secure, Reliable APIs From the Ground Up | John Carter | [Read More](https://medium.com/p/e7c57b04acd8) |
+| Mon, 01 Dec 2025 14:01:03 GMT | Trace Vector — Edition 02 - The Shape of Emerging Power | Muhammad Ateeb Malik | [Read More](https://medium.com/p/7cc2b2f45d49) |
+| Mon, 01 Dec 2025 14:01:03 GMT | Relearning Windows OS Autologin Setup via Registry Editor and Creating Generic Logins for… | Tyrik Emptage | [Read More](https://medium.com/p/8816095b046f) |
+| Mon, 01 Dec 2025 14:00:46 GMT | What Would the Financial and Operational Impact Be if their current IT Provider had a Major Outage? | Barry Ritchie | [Read More](https://medium.com/p/2cc4fa81eb81) |
+| Mon, 01 Dec 2025 13:55:41 GMT | How a Simple Email Casing Trick Led to Privilege Escalation (Admin → Owner) | Ahmed Mahmoud | [Read More](https://medium.com/p/3923835b4e83) |
+| Mon, 01 Dec 2025 13:55:14 GMT | When AI Dreams Turn to Nightmares: Safeguarding Our Future in a World Racing Toward Innovation | ZENcurity | [Read More](https://medium.com/p/4494c7bff842) |
 | Mon, 01 Dec 2025 13:34:59 GMT | Day 1 — The Red Bear Inn | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/4827b6ac79b0) |
+| Mon, 01 Dec 2025 13:34:22 GMT | AI in Cybersecurity 2025: How Artificial Intelligence Is Defending (and Attacking) the Digital… | Gary A. Fowler | [Read More](https://medium.com/p/ef9ac161ff48) |
+| Mon, 01 Dec 2025 13:33:36 GMT | Emerging 2025 Threats Driven by AI, Ransomware & Cloud Exploits | Hachion Trainings | [Read More](https://medium.com/p/700d87fa673e) |
 | Mon, 01 Dec 2025 13:25:57 GMT | How to Pass All Google Play Console Automated Checks (Security, Privacy, NDK, SDK) — 2025… | CodeTalks | [Read More](https://medium.com/p/8d647e052d2a) |
 | Mon, 01 Dec 2025 13:19:48 GMT | The Night My Internet Died: A Complete Guide to Fixing That Terrifying Router Red Light | Bryan Collins | [Read More](https://medium.com/p/0c2be754b734) |
 | Mon, 01 Dec 2025 13:17:18 GMT | Common Security Vulnerabilities in Software: Risks and Countermeasures | Lishan Dissanayake | [Read More](https://medium.com/p/c36d88197385) |
@@ -93,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 08:36:22 GMT | The Iron Triangle vs. The 3R Optimization Model: Why ‘Pick Two’ is Wrong | Levente Simon | [Read More](https://medium.com/p/c935e09bd5a3) |
 | Mon, 01 Dec 2025 08:36:01 GMT | How to turn a class bug into a portfolio win | Kayla J | [Read More](https://medium.com/p/1bebe12beb4d) |
 | Mon, 01 Dec 2025 08:34:09 GMT | Zero-Trust Architecture in Laravel Applications | Avinash | [Read More](https://medium.com/p/54d5641fb56a) |
-| Mon, 01 Dec 2025 08:22:38 GMT | Strengthening Linux Security: A Step-by-Step Guide to SSH Public Key Authentication | Johnbrindimazwewoh | [Read More](https://medium.com/p/2a4d342d25a3) |
-| Mon, 01 Dec 2025 08:15:39 GMT | Enumeration as a Graph: How a Different Recon Mindset Took Me From “Found X Vuln” to Full Root… | Tauseef Ahmed | [Read More](https://medium.com/p/0a2ea2e21f89) |
-| Mon, 01 Dec 2025 07:56:14 GMT | How to install Osquery for Endpoint Security — Cybersecurity Homelab [#8] | 0xRahuL | [Read More](https://medium.com/p/60155a0f34d5) |
-| Mon, 01 Dec 2025 07:46:37 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Albertgonzalez | [Read More](https://medium.com/p/578a01bbd36d) |
-| Mon, 01 Dec 2025 07:42:50 GMT | The Most-Basic Resources Cheat-sheet and Guide to begin your VAPT journey | White Hawk | [Read More](https://medium.com/p/f30b901e7735) |
-| Mon, 01 Dec 2025 07:40:01 GMT | SIM-Binding Rules: What Indian Users Must Know | Vijay Kumar Gupta | [Read More](https://medium.com/p/9a30ab60dd96) |
-| Mon, 01 Dec 2025 07:39:27 GMT | In Search of Hidden Meaning: Vincent Halles and the Art of Connecting Fragments | Calogero Kalos Bonasia | [Read More](https://medium.com/p/238ec7a3ddd0) |
-| Mon, 01 Dec 2025 07:32:56 GMT | South Korea’s Worst Data Breach in a Decade: What the Coupang Hack Teaches Us About Insider Threats | Navya | [Read More](https://medium.com/p/74f4328fe254) |
-| Mon, 01 Dec 2025 07:30:24 GMT | Portswigger Broken Authentication (Konu anlatımı + Lab çözümleri) | Muhammet Ali Tekin | [Read More](https://medium.com/p/87ff2e2d34b4) |
-| Mon, 01 Dec 2025 07:25:33 GMT | Day 80- What I have learned after seeing Zscaler’s core platforms- ZCC, ZIA, ZPA, ZDX on a job post | unica 02 | [Read More](https://medium.com/p/3ebe9cceab3d) |
-| Mon, 01 Dec 2025 07:25:06 GMT | Words in the Dark: When a Stranger’s Scroll Saves the Night | Kushal Dhananjay Samant | [Read More](https://medium.com/p/4e2842563bb3) |
-| Mon, 01 Dec 2025 07:22:42 GMT | Hack The Box Neurogrid CTF -Secure Coding Challenges | Ahmed Yasser | [Read More](https://medium.com/p/83a39be80b14) |
-| Mon, 01 Dec 2025 07:18:28 GMT | s | Youssefsaidthabet | [Read More](https://medium.com/p/0ff92a9daea2) |
-| Mon, 01 Dec 2025 07:12:11 GMT | Cyber Security Risks in Digital Marketing: What Every Business Must Know | Media | [Read More](https://medium.com/p/d9e8e9eb8eee) |
-| Mon, 01 Dec 2025 07:11:59 GMT | techNbuddy: AI Networking Made Easy | techNbuddy | [Read More](https://medium.com/p/92b13194da65) |
-| Mon, 01 Dec 2025 07:06:46 GMT | DEFENSE DAY: INCIDENT RESPONSE, DIGITAL FORENSICS & ATTACK RECONSTRUCTION
- Tonight · 9:00 PM… | Dallen Sadru | [Read More](https://medium.com/p/eb2b4b65e8b2) |
-| Mon, 01 Dec 2025 07:04:38 GMT | The Role of AI in Improving Software License Security? | Lanapeterson | [Read More](https://medium.com/p/f48fd167ead5) |
-| Mon, 01 Dec 2025 07:03:07 GMT | Security Lab Simulation Project Part 1: Network Topology | Jenny | [Read More](https://medium.com/p/6db6eaa16ced) |
-| Mon, 01 Dec 2025 07:02:09 GMT | Security Chaos Engineering in Banking: Stress-Testing Systems Against Unknown Threats | Mavidev Software And Consulting Co. | [Read More](https://medium.com/p/167ad57a1464) |
