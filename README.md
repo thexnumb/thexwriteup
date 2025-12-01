@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 19:15:24 GMT | Web Nedir? Websitesi Nasıl Çalışır? HTTP/HTTPS Detaylı Rehber | Tetra403 | [Read More](https://medium.com/p/3ed6afa440c5) |
+| Mon, 01 Dec 2025 19:10:45 GMT | When a Leaked Clip Goes Viral, What Really Breaks Is a Society: India’s Digital Voyeurism Problem | Author Anant Yadav | [Read More](https://medium.com/p/0b91267b9c3f) |
+| Mon, 01 Dec 2025 18:55:44 GMT | Microsoft Entra: The New Identity Security Layer Every Organization Needs | Sudhakar Tiwari | [Read More](https://medium.com/p/26c025d46cc9) |
+| Mon, 01 Dec 2025 18:53:22 GMT | Capítulo 11 — O Guardião | Kleber Andrade | [Read More](https://medium.com/p/5f71c14a4b8a) |
+| Mon, 01 Dec 2025 18:51:17 GMT | Demystifying Hashing, Symmetric and Asymmetric Cryptography Concepts? | Kamal Kishor Mahto | [Read More](https://medium.com/p/d146a9966bf2) |
+| Mon, 01 Dec 2025 18:50:52 GMT | The Plaintiff’s Essential Role in Data Breach Lawsuits | Legal Thoughts | [Read More](https://medium.com/p/9c7eb8198bc8) |
+| Mon, 01 Dec 2025 18:42:29 GMT | With, To & Through AI | Michael H. Esq. | [Read More](https://medium.com/p/740fb6c8aac1) |
+| Mon, 01 Dec 2025 18:36:18 GMT | Cybersecurity for beginners-protecting personal data | Miraal | [Read More](https://medium.com/p/9dfb0fd698e3) |
 | Mon, 01 Dec 2025 18:22:50 GMT | Advent of Cyber Walkthrough — Working with the Linux CLI | Vedant Kahalekar | [Read More](https://medium.com/p/1cdfd645e8d7) |
 | Mon, 01 Dec 2025 18:12:21 GMT | TryHackMe - Linux CLI — Shells Bells - WriteUp | Axoloth | [Read More](https://medium.com/p/bd86b24216ff) |
 | Mon, 01 Dec 2025 18:10:39 GMT | Your Smart Speaker is Dumber Than You Think: How I Made Alexa’s Sister Spill the Tea | Iski | [Read More](https://medium.com/p/7582eb42195f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 14:11:17 GMT | ️ Burp Suite Demystified: The Secret Weapon for Web Security (A Guide for Everyone) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d6bd950415ba) |
 | Mon, 01 Dec 2025 14:09:55 GMT | Understanding the Modern Web Attack Surface (AppSec) | Gabriel Odusanya - Cybersecurity | [Read More](https://medium.com/p/964d165284e5) |
 | Mon, 01 Dec 2025 14:06:01 GMT | Who Is GRC Really For? | Jay H. | [Read More](https://medium.com/p/090c00dcfcb9) |
-| Mon, 01 Dec 2025 14:04:25 GMT | How Azure CuRP Proxy Enables a Nearly Invisible Data Exfiltration Tunnel (Including MI Token Theft) | Michał Smereczyński | [Read More](https://medium.com/p/2db2609afeb2) |
-| Mon, 01 Dec 2025 14:03:35 GMT | Data Integrity & Model Poisoning - Tryhackme | Aaron | [Read More](https://medium.com/p/12859f52f8ae) |
-| Mon, 01 Dec 2025 14:02:33 GMT | -   () ! | Koen van Dijk | [Read More](https://medium.com/p/6464efd2983f) |
-| Mon, 01 Dec 2025 14:02:03 GMT | eJPT v2 : Challenge Lab 27: Pyrat | Dhanushkumar R | [Read More](https://medium.com/p/84b01e4ae10b) |
-| Mon, 01 Dec 2025 14:01:03 GMT | The Importance of Modern, Secure Websites for Small Businesses | HSINGH WEB STUDIO | [Read More](https://medium.com/p/fdeabc6fd400) |
-| Mon, 01 Dec 2025 14:01:03 GMT | Battle-Testing Empire Fish Data: How We Build Secure, Reliable APIs From the Ground Up | John Carter | [Read More](https://medium.com/p/e7c57b04acd8) |
-| Mon, 01 Dec 2025 14:01:03 GMT | Trace Vector — Edition 02 - The Shape of Emerging Power | Muhammad Ateeb Malik | [Read More](https://medium.com/p/7cc2b2f45d49) |
-| Mon, 01 Dec 2025 14:01:03 GMT | Relearning Windows OS Autologin Setup via Registry Editor and Creating Generic Logins for… | Tyrik Emptage | [Read More](https://medium.com/p/8816095b046f) |
