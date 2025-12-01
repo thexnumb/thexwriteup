@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 01:54:09 GMT | I Just Wanted to Be Happy… | The Art Of Becoming | [Read More](https://medium.com/p/6dc04c321609) |
+| Mon, 01 Dec 2025 01:33:15 GMT | DTMAF and VPAFT: The Emerging Digital Psychological Violence Behind Crypto-Romance Fraud, and Why… | Quiscalus Asi (The Quiscalus Project) | [Read More](https://medium.com/p/78a890823890) |
+| Mon, 01 Dec 2025 01:22:03 GMT | OSINT Under the Hood: What Your Files Are Secretly Saying About You | Rabail Zaheer | [Read More](https://medium.com/p/6ed4a0ab726d) |
+| Mon, 01 Dec 2025 01:21:52 GMT | WiFi Hacking 1O1, learn everything u need | Mainekhacker | [Read More](https://medium.com/p/37a19027702f) |
+| Mon, 01 Dec 2025 01:21:43 GMT | Beyond the Grid: The Resurgence of Alternative Networks in an Age of Control | Officer's Notes | [Read More](https://medium.com/p/d263850a2965) |
+| Mon, 01 Dec 2025 01:18:44 GMT | Authentication Essentials for Modern Platforms: A Practical Guide for Web, Mobile, SSO, MFA, and… | Blog Chip | [Read More](https://medium.com/p/d1185a8a9a8a) |
+| Mon, 01 Dec 2025 01:17:49 GMT | AI Agents as Insiders: Securing the Next Generation of Enterprise AI Infrastructure | Ahmed Sallam | [Read More](https://medium.com/p/3938bc9146c9) |
+| Mon, 01 Dec 2025 01:14:14 GMT | A10 Networks: The Short Squeeze Candidate Wall Street Is Ignoring — Until It Isn’t | Bradley Susser | [Read More](https://medium.com/p/4ae40d6531b9) |
+| Mon, 01 Dec 2025 01:13:59 GMT | Why Shadow IT Keeps Growing — And Why It’s Not Always the Enemy | Sam Writes Security | [Read More](https://medium.com/p/2f88272c3593) |
+| Mon, 01 Dec 2025 01:08:18 GMT | Why Smart People Fall for Scams: The Psychology No One Talks About | Richard Buchfink | [Read More](https://medium.com/p/a3941a1ac74e) |
+| Mon, 01 Dec 2025 01:08:05 GMT | Shellcode, Payloads, and the Future of Deep Packet Inspection: How Modern Networks Detect and Stop… | Ahmed Sallam | [Read More](https://medium.com/p/3e6f34cdf14b) |
+| Mon, 01 Dec 2025 01:03:35 GMT | If you’re trying to understand the world of Information Technology — little bit of what happened… | SattiData | [Read More](https://medium.com/p/d372db89696b) |
+| Mon, 01 Dec 2025 01:02:09 GMT | Testing Account Discovery Detection with Atomic Red Team | Raynard Waits | [Read More](https://medium.com/p/1d39dd73b081) |
+| Mon, 01 Dec 2025 00:52:38 GMT | AWS Container Security Implementation Guide | Blaise NGWA SHU | [Read More](https://medium.com/p/a5b7ec7e29e9) |
+| Mon, 01 Dec 2025 00:35:18 GMT | Zero-Downtime Incident Response: How I Contained an EC2 IAM Role Compromise as an External Security… | Blaise NGWA SHU | [Read More](https://medium.com/p/f011219b215b) |
+| Mon, 01 Dec 2025 00:35:06 GMT | Social Media Risks Every User Should Understand | Geoffrey Wenger | [Read More](https://medium.com/p/393550a5345b) |
+| Mon, 01 Dec 2025 00:24:28 GMT | How ChatGPT Is Colonized: An Academic Breakdown of AI Built on Western Archives | Historical Justice Press | [Read More](https://medium.com/p/0606c40518b4) |
+| Mon, 01 Dec 2025 00:08:35 GMT | Hack The Box-Editor Walkthrough | NV | [Read More](https://medium.com/p/05b2341327e6) |
+| Sun, 30 Nov 2025 23:48:58 GMT | How To Easily Write Pentest Reports With SysReptor | 0liverFlow | [Read More](https://medium.com/p/42fb8593a653) |
+| Sun, 30 Nov 2025 23:44:13 GMT | হ্যাকিং বিদ্যার হাতেখড়ি শুরু হউক | Humayun Shariar Himu | [Read More](https://medium.com/p/188a46fc9015) |
+| Sun, 30 Nov 2025 23:35:33 GMT | CVE-2025–64115: Unvalidated Referer Redirect & SSRF in Movary | CyberDucky | [Read More](https://medium.com/p/fe937b07f18a) |
+| Sun, 30 Nov 2025 23:33:37 GMT | Weaponizing LLMs to Bypass Behavioral EDR | Maxwell Cross | [Read More](https://medium.com/p/64d306244cbb) |
 | Sun, 30 Nov 2025 23:21:36 GMT | Web Investigation Lab — Write-up | 0xTT-byte | [Read More](https://medium.com/p/f00b26311fcf) |
 | Sun, 30 Nov 2025 23:16:55 GMT | Richard Doty, Mirage Men, and the Psyops Blueprint Behind Modern Cyber Warfare | Jeff Kingsland | [Read More](https://medium.com/p/d66a556f041e) |
 | Sun, 30 Nov 2025 23:14:36 GMT | Executive Protection Close Quarters Battle | Paramount Defense Group Inc | [Read More](https://medium.com/p/9e2f5c4dcc7e) |
@@ -91,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 15:55:23 GMT | My Family’s Secret Weapon Against Credit Card Skimming in Vietnam: A Smart Traveler’s Guide | K-Food & Travel | [Read More](https://medium.com/p/1474dfe0441e) |
 | Sun, 30 Nov 2025 15:48:24 GMT | TunHills Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/86e12157a5ff) |
 | Sun, 30 Nov 2025 15:47:50 GMT | Oranblack Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/b2d54f36e26c) |
-| Sun, 30 Nov 2025 15:47:31 GMT | Day 3 — Building the Core Lab: Active Directory, Attack Machine & LimaCharlie EDR Deployment | khalifa_farhat | [Read More](https://medium.com/p/2528df7fbe2a) |
-| Sun, 30 Nov 2025 15:35:29 GMT | Installing Python | Saurabh Gandhi | [Read More](https://medium.com/p/8e13de43816f) |
-| Sun, 30 Nov 2025 15:32:09 GMT | Week 8: The Bug That Almost Broke Me | ZAYN | [Read More](https://medium.com/p/c7cbb390eeed) |
-| Sun, 30 Nov 2025 15:28:47 GMT | The Why‑to‑How‑to: BitLocker | Ahmed Monsri | [Read More](https://medium.com/p/dae426d6f9aa) |
-| Sun, 30 Nov 2025 15:28:37 GMT | The Art Of Bypassing Authentication Limits - All Known Techniques | terp0x0 | [Read More](https://medium.com/p/835a8506a411) |
-| Sun, 30 Nov 2025 15:25:50 GMT | How Hackers Bypass Data Loss Prevention | Motasem Hamdan | [Read More](https://medium.com/p/8920aa9d3bdd) |
-| Sun, 30 Nov 2025 15:25:49 GMT | CISCO Password - CISCO Salted Password - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/e1ff452297d8) |
-| Sun, 30 Nov 2025 15:19:43 GMT | What I Learned from Working on an Integrated Security Scanning Pipeline | Irfan HN | [Read More](https://medium.com/p/1f3cdf0e4165) |
-| Sun, 30 Nov 2025 15:14:53 GMT | The Hidden Risks in AI-Generated Code: How to Detect and Fix Vulnerabilities in Python Projects | Er.Muruganantham | [Read More](https://medium.com/p/a81dd4fa4892) |
-| Sun, 30 Nov 2025 15:10:51 GMT | The Understanding Abstract Syntax Trees (AST): How Modern Tools Parse, Analyze, and Transform Your… | Atsushi Hatakeyama | [Read More](https://medium.com/p/c3edc7e1e687) |
-| Sun, 30 Nov 2025 15:04:51 GMT | Security and Performance Aspects of Sysctl Performance Tuning | Linux Guide | [Read More](https://medium.com/p/862f04bd9b6f) |
-| Sun, 30 Nov 2025 15:02:22 GMT | So You Want to Work in Cybersecurity. Look at How Big the Field Actually Is. | Raleigh Guevarra | [Read More](https://medium.com/p/6c07bf19a25f) |
-| Sun, 30 Nov 2025 14:58:59 GMT | Stop Putting Security Under HR or Admin. It’s Dangerous and It’s Happening Everywhere. | Peter Uliano | [Read More](https://medium.com/p/e55714c3d092) |
-| Sun, 30 Nov 2025 14:57:24 GMT | Unlocking the Secrets of Cybersecurity: Internal, External, and Wireless Assessments Explained | Sony | [Read More](https://medium.com/p/0d2c32f874e2) |
-| Sun, 30 Nov 2025 14:55:46 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/08bf48c05bea) |
-| Sun, 30 Nov 2025 14:52:09 GMT | Don’t Trust Online Investment Scams: A Relationship Red Flag | anni | [Read More](https://medium.com/p/6b2a4c7e7704) |
-| Sun, 30 Nov 2025 14:50:21 GMT | Yapay Zeka Destekli Yazılımda Kod Halüsinasyonları, Güvenlik Açıkları ve Teknik Yetkinliğin… | Tolga Boroğlu | [Read More](https://medium.com/p/fad1fa886077) |
-| Sun, 30 Nov 2025 14:42:09 GMT | SEARCH LIGHT IMINT- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/a933bab7d3ef) |
-| Sun, 30 Nov 2025 14:41:59 GMT | Metasploitable 3 (Windows) Write-up — Part [VI]: Port 3306 — MySQL Weak Credentials & UDF… | Kalash Kundaliya | [Read More](https://medium.com/p/703e995f976e) |
-| Sun, 30 Nov 2025 14:40:12 GMT | Red Team vs Blue Team: The Cybersecurity Battlefield Explained | Ferdi Edogawa | [Read More](https://medium.com/p/6cbeccdaaa49) |
-| Sun, 30 Nov 2025 14:38:46 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 2: DC-2 | Shikhar Sinha | [Read More](https://medium.com/p/f1344a2f1adb) |
-| Sun, 30 Nov 2025 14:32:09 GMT | Why I Don’t Trust “Free VPNs” (And You Shouldn’t Either) | Cyberkech | [Read More](https://medium.com/p/2d99b3f055ce) |
