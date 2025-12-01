@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 11:13:27 GMT | Why Cybersecurity-as-a-Service (CaaS) is a MUST for every Business? | Umar Waseem | [Read More](https://medium.com/p/1fd74cf246b2) |
+| Mon, 01 Dec 2025 11:13:12 GMT | The Hackers Labs Writeup — Chimichurri (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/cef094b98f32) |
+| Mon, 01 Dec 2025 11:12:24 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/122c2179e6ef) |
+| Mon, 01 Dec 2025 11:10:30 GMT | Why Security Guard Services Are Becoming Essential for Safer Living and Smarter Business in India | Ciss India | [Read More](https://medium.com/p/881bb8f77f37) |
+| Mon, 01 Dec 2025 11:04:04 GMT | Why XDR-Analyst Is the Most In-Demand Cybersecurity Job Today | sabrina Pinto | [Read More](https://medium.com/p/87133ea11b0f) |
+| Mon, 01 Dec 2025 11:03:05 GMT | Why Synology Is Becoming the #1 Choice for Enterprise Backup & Data Protection in UAE & India | ANSI Technologies | [Read More](https://medium.com/p/aa385cecf45c) |
+| Mon, 01 Dec 2025 10:53:30 GMT | Microsoft Ignite 2025 Highlights | CtrlAltDefend | [Read More](https://medium.com/p/105dd9b07bb5) |
 | Mon, 01 Dec 2025 10:40:40 GMT | How To Become an Ethical Hacker in 2026: Complete Career Guide | cyber security Updates | [Read More](https://medium.com/p/cc569e953c36) |
 | Mon, 01 Dec 2025 10:39:45 GMT | NKSCX DeFi Watch: Yearn’s yETH exploit is a warning shot for complex yield products | NKSCX - Smart Crypto Trading | [Read More](https://medium.com/p/0ed534f5b807) |
 | Mon, 01 Dec 2025 10:37:06 GMT | Patriot CTF 2025 — Challenge Writeups | Hacktivities | [Read More](https://medium.com/p/4aff5aa64220) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 04:59:47 GMT | OWASP Top 10 2025 for Security Researchers How to Detect, Analyze, and Report Modern… | Shanmuksrisai | [Read More](https://medium.com/p/bf2e396391ea) |
 | Mon, 01 Dec 2025 04:57:18 GMT | We Are Building Ghosts in the Machine (While the Exorcists Sleep) | BBSRGUY | [Read More](https://medium.com/p/0cfd39c9a78d) |
 | Mon, 01 Dec 2025 04:56:17 GMT | Git Hook Privilege Escalation — Hero-CTF Write‑Up | Nmullenski | [Read More](https://medium.com/p/b40300dc0e4a) |
-| Mon, 01 Dec 2025 04:55:32 GMT | ️ OWASP Top 10 2025 — What Every Business Must Know Before Their Next Security Audit or ISO… | Shanmuksrisai | [Read More](https://medium.com/p/ce412fd4fbac) |
-| Mon, 01 Dec 2025 04:51:24 GMT | Access Management Market Set to Reach $31.25 | Gauri Kale | [Read More](https://medium.com/p/0211f38290bc) |
-| Mon, 01 Dec 2025 04:42:05 GMT | 英国のAIセキュリティ企業がGoogle Antigravityの脆弱性を報告 (2025年12月1日公開) | Eiji Sasahara (笹原英司), Ph.D., MBA | [Read More](https://medium.com/p/e06c73be8df0) |
-| Mon, 01 Dec 2025 04:42:04 GMT | Data Protection and Privacy in 2025: Securing Data Across Its Lifecycle | Devarshi Acharya | [Read More](https://medium.com/p/7f1db413fe38) |
-| Mon, 01 Dec 2025 04:32:28 GMT | Building a Modern Payment Flow in iOS: Lessons from Real SDK Development | Debashish kumar sahoo | [Read More](https://medium.com/p/8b69d72de8e5) |
-| Mon, 01 Dec 2025 04:31:58 GMT | Piercing the Proxy Veil to defend from DPRK fake remote workers | Francis O'Meara | [Read More](https://medium.com/p/bbe9635cd031) |
-| Mon, 01 Dec 2025 04:21:50 GMT | AI-Powered Cyberattacks: The New Digital Arms Race | Everyday CYBER | [Read More](https://medium.com/p/980f1cfe391b) |
