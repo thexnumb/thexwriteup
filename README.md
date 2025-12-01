@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 17:15:16 GMT | Advent of Cyber 2025 - Day 1: Linux CLI - Shells Bells | D4m.sh | [Read More](https://medium.com/p/bdbd504fb47f) |
+| Mon, 01 Dec 2025 17:12:00 GMT | TryHackMe Writeup: Brooklyn Nine Nine | Berkay AĞGÜL | [Read More](https://medium.com/p/1892c1746e4d) |
+| Mon, 01 Dec 2025 17:10:51 GMT | Advent of Cyber Prep Track Try Hack Me Solution - by Mynk — Medium | Mayank Shukla | [Read More](https://medium.com/p/2446b4b1023a) |
+| Mon, 01 Dec 2025 17:10:40 GMT | Penetration Test | O - Opsifiz | [Read More](https://medium.com/p/a7f095c50de8) |
+| Mon, 01 Dec 2025 17:10:13 GMT | Anycast Routing: The Internet’s Teleportation Trick | Dhrumil Joshi | [Read More](https://medium.com/p/6aacf8dd849d) |
+| Mon, 01 Dec 2025 17:03:59 GMT | PwnTillDawn Badger Writeup | Bazil Brohi | [Read More](https://medium.com/p/7cfbff923eb7) |
+| Mon, 01 Dec 2025 17:02:36 GMT | Cybersecurity Unlocked: Episode 7 — The “Cloud” is Just Someone Else’s Computer | Yash Kitey | [Read More](https://medium.com/p/f74f0d55bddf) |
+| Mon, 01 Dec 2025 16:57:46 GMT | CCTV Installation Cost in Canada 2025: Pricing Guide | United Security | [Read More](https://medium.com/p/4284a3bebb7b) |
+| Mon, 01 Dec 2025 16:52:44 GMT | Misinformation Spread via Social Media Platforms | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/876596ed7000) |
+| Mon, 01 Dec 2025 16:52:11 GMT | Erlang/OTP SSH: CVE-2025–32433 | Mainekhacker | [Read More](https://medium.com/p/4e3b4f3b4af4) |
+| Mon, 01 Dec 2025 16:51:22 GMT | Machine Learning Cryptocurrency Guide 2026: Uses, Methods & Future | Motherlandlove | [Read More](https://medium.com/p/24a47e742d82) |
+| Mon, 01 Dec 2025 16:45:54 GMT | Hi there I’m phisher a security resercher | phisher | [Read More](https://medium.com/p/95e0eb945f54) |
+| Mon, 01 Dec 2025 16:42:50 GMT | LazyAdmin — TryHackMe | ManuM0re | [Read More](https://medium.com/p/cbf8f3a8108d) |
+| Mon, 01 Dec 2025 16:42:41 GMT | November 2025: The Month AI Became Dangerous (And Brilliant) | Sagar Vaishnava | [Read More](https://medium.com/p/752e0fdb24b2) |
+| Mon, 01 Dec 2025 16:38:38 GMT | World’s Deadliest Computer Virus: WannaCry | Harsh Jha | [Read More](https://medium.com/p/c48d579415df) |
+| Mon, 01 Dec 2025 16:32:53 GMT | HackTheBox: Editor Writeup | Rahaliashraf | [Read More](https://medium.com/p/b74b08515f95) |
+| Mon, 01 Dec 2025 16:32:47 GMT | If You Have an Android Phone, Read This Before You Unlock It Again | Germano Costi | [Read More](https://medium.com/p/0d50beb6d9e8) |
 | Mon, 01 Dec 2025 16:31:29 GMT | PBO : File I/O dan Serealisasi | Yasa Wijaya | [Read More](https://medium.com/p/c9888bfc9c70) |
 | Mon, 01 Dec 2025 16:27:02 GMT | Identity Under Siege: Why Modern Businesses Need a New Approach to IAM and MFA | Dr. Shashi Karhail | [Read More](https://medium.com/p/ccc53267104d) |
 | Mon, 01 Dec 2025 16:23:43 GMT | hashcrack challenge picoCTF walkthrough (beginner friendly) | Harshana Lasith weragoda | [Read More](https://medium.com/p/afe1cf5d30d3) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 12:32:08 GMT | How To Hire A Hacker | Ian Golden | [Read More](https://medium.com/p/dcb782893dd1) |
 | Mon, 01 Dec 2025 12:31:13 GMT | Community Governance and Volunteer Node Security: Why People Power Still Matters in Privacy Tech | Voidly | [Read More](https://medium.com/p/6b466ee242d9) |
 | Mon, 01 Dec 2025 12:23:01 GMT | **CYBERSECURITY ROADMAP SYLLABUS | HdigitalHUB | [Read More](https://medium.com/p/a8cb928939a8) |
-| Mon, 01 Dec 2025 12:16:48 GMT | CVE-2025–59789: Apache bRPC JSON Recursion Vulnerability | gm0 | [Read More](https://medium.com/p/4153f643d1da) |
-| Mon, 01 Dec 2025 12:12:28 GMT | Hack The Box: Packet Puzzle (Sherlock) | Gba | [Read More](https://medium.com/p/23fc34544ca9) |
-| Mon, 01 Dec 2025 12:12:19 GMT | Beyond Borders: Why Real National Security Is About More Than Soldiers | Niharika | [Read More](https://medium.com/p/fc1b9c21033b) |
-| Mon, 01 Dec 2025 12:12:00 GMT | Your Body Moves → Your Mind Moves | Sony | [Read More](https://medium.com/p/063d529c9065) |
-| Mon, 01 Dec 2025 12:05:05 GMT | Unified Kill Chain: The 18-Phase Framework That Actually Models Modern Attacks | Adam Goss | [Read More](https://medium.com/p/5ae318826d96) |
-| Mon, 01 Dec 2025 12:02:23 GMT | Today’s Top Cyber Intelligence Highlights — Dec 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/31f65956a664) |
-| Mon, 01 Dec 2025 12:01:34 GMT | TryHackMe: Vulnerability Capstone | glitch | [Read More](https://medium.com/p/3dfaa888329c) |
-| Mon, 01 Dec 2025 11:59:33 GMT | Fostering Excellence in Aviation Security Leadership for the Middle East | Selinemir | [Read More](https://medium.com/p/2b13d09a8688) |
-| Mon, 01 Dec 2025 11:57:08 GMT | I Told Everyone I’m Fine and Now It’s a Full-Time Job | Ugochi Tite | [Read More](https://medium.com/p/d85b00ae228f) |
-| Mon, 01 Dec 2025 11:54:13 GMT | The Hidden Cost of “Free”: How Software Cracking Actually Works (And Why Your Data Pays the Price) | Aaron | [Read More](https://medium.com/p/c440ca365e84) |
-| Mon, 01 Dec 2025 11:50:39 GMT | From Detection to Protection: The Power of Penetration Testing Services | SmartCLOUD Australia | [Read More](https://medium.com/p/90feaa4ec6c2) |
-| Mon, 01 Dec 2025 11:38:27 GMT | Tomiris Goes Quiet: How a Central Asian Threat Actor Is Hiding C2 in Plain Sight | Germano Costi | [Read More](https://medium.com/p/20cf7e9f61c3) |
-| Mon, 01 Dec 2025 11:36:26 GMT | How Managed IT Services Help Aussie SMEs Stay Secure | Elevate | [Read More](https://medium.com/p/c2ac26328cd4) |
-| Mon, 01 Dec 2025 11:34:59 GMT | OSINT in Cybersecurity: Early Threat Detection Methods | INTELON | [Read More](https://medium.com/p/9dec7045f014) |
-| Mon, 01 Dec 2025 11:33:22 GMT | The Story Behind Mafiree: Why We Built a Company Focused on Database Reliability | Mafiree | [Read More](https://medium.com/p/d3e84a39d6c4) |
-| Mon, 01 Dec 2025 11:31:23 GMT | The Use of Whois in Cybersecurity: The Importance of Domain Lookup | INTELON | [Read More](https://medium.com/p/d210b9c5614b) |
-| Mon, 01 Dec 2025 11:25:18 GMT | Tek Bir Güncel Olmayan Joomla Eklentisi, Nokia.com’un Veritabanına erişim (Derin Teknik Analiz) | Ozan Ağdepe | [Read More](https://medium.com/p/37f275109857) |
