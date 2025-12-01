@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 20:26:44 GMT | How to Know If Your Phone Has Been Hacked (And What to Do) | Liam | [Read More](https://medium.com/p/56ef52cb3429) |
+| Mon, 01 Dec 2025 20:22:24 GMT | SentinelAI Phishing Detection: A Technical Deep Dive into Modern Email Threat Analysis | Kavisha Mathur | [Read More](https://medium.com/p/2ab183db4f95) |
+| Mon, 01 Dec 2025 20:20:17 GMT | How to Build Your Own Private VPN Without Monthly Subscriptions | 404: Office Not Found | [Read More](https://medium.com/p/6b98093d8e6d) |
 | Mon, 01 Dec 2025 20:15:37 GMT | Advent of Cyber 2025 — Day 1: Chasing Eggsploits with the Linux CLI | Akshat Patel | [Read More](https://medium.com/p/96a4ae0c7180) |
 | Mon, 01 Dec 2025 20:07:26 GMT | AI Agents: Red Teaming with AresGPT and EthicalEngine AI — Scaling GPTs Securely | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/5036686db704) |
 | Mon, 01 Dec 2025 20:07:21 GMT | Beyond <script>: Weaponizing <? and </ for Next-Gen XSS | KindOne | [Read More](https://medium.com/p/792716317def) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 14:47:49 GMT | Advent of Cyber Prep Track -TryHackMe Walkthrough | Fazal | [Read More](https://medium.com/p/1edee4a9017a) |
 | Mon, 01 Dec 2025 14:42:45 GMT | A $2,000 Vulnerability Hidden Inside Basecamp’s Bot Authentication | Vivek PS | [Read More](https://medium.com/p/1e1bfea8cd63) |
 | Mon, 01 Dec 2025 14:41:13 GMT | Rethinking DevSecOps Through Real-World Work | Ben | [Read More](https://medium.com/p/561dcf95e6e8) |
-| Mon, 01 Dec 2025 14:40:12 GMT | THE DATA | Tahir Malik | [Read More](https://medium.com/p/86b56d022e22) |
-| Mon, 01 Dec 2025 14:36:18 GMT | Quiet Hands: The Psychology Of Moving Through Locked Environments | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a5a2ff835d7f) |
-| Mon, 01 Dec 2025 14:35:28 GMT | What’s for Dinner? A Bite-Sized Investigation of TamperedChef | Kim Tan | [Read More](https://medium.com/p/18eac8b29f13) |
