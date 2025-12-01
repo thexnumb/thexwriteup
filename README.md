@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 11:38:27 GMT | Tomiris Goes Quiet: How a Central Asian Threat Actor Is Hiding C2 in Plain Sight | Germano Costi | [Read More](https://medium.com/p/20cf7e9f61c3) |
+| Mon, 01 Dec 2025 11:36:26 GMT | How Managed IT Services Help Aussie SMEs Stay Secure | Elevate | [Read More](https://medium.com/p/c2ac26328cd4) |
+| Mon, 01 Dec 2025 11:34:59 GMT | OSINT in Cybersecurity: Early Threat Detection Methods | INTELON | [Read More](https://medium.com/p/9dec7045f014) |
+| Mon, 01 Dec 2025 11:33:22 GMT | The Story Behind Mafiree: Why We Built a Company Focused on Database Reliability | Mafiree | [Read More](https://medium.com/p/d3e84a39d6c4) |
+| Mon, 01 Dec 2025 11:31:23 GMT | The Use of Whois in Cybersecurity: The Importance of Domain Lookup | INTELON | [Read More](https://medium.com/p/d210b9c5614b) |
+| Mon, 01 Dec 2025 11:25:18 GMT | Tek Bir Güncel Olmayan Joomla Eklentisi, Nokia.com’un Veritabanına erişim (Derin Teknik Analiz) | Ozan Ağdepe | [Read More](https://medium.com/p/37f275109857) |
+| Mon, 01 Dec 2025 11:25:09 GMT | Global Threat Detection Cybersecurity Market Size, Trends, Growth Forecast 2025–2034 | Sophia | [Read More](https://medium.com/p/2559f132b8b5) |
+| Mon, 01 Dec 2025 11:24:43 GMT | The Night Everything Went Dark — Until the Cloud Did Something Unbelievable” | JetkingChandigarh | [Read More](https://medium.com/p/7df5173b0b49) |
+| Mon, 01 Dec 2025 11:23:42 GMT | Build a High-Conversion Trust Center: 5 Steps to Prove Security Fast | SecureSlate | [Read More](https://medium.com/p/b2d32d25fc84) |
+| Mon, 01 Dec 2025 11:19:52 GMT | Why Tools Are Important in Cybersecurity: The Backbone of Modern Blue Team Defense | cyberwriter | [Read More](https://medium.com/p/1057e3a8f1fe) |
+| Mon, 01 Dec 2025 11:15:56 GMT | Simulating and Analyzing Brownian Motion | Riccardo Giacinti | [Read More](https://medium.com/p/a38e0b860a58) |
 | Mon, 01 Dec 2025 11:13:27 GMT | Why Cybersecurity-as-a-Service (CaaS) is a MUST for every Business? | Umar Waseem | [Read More](https://medium.com/p/1fd74cf246b2) |
 | Mon, 01 Dec 2025 11:13:12 GMT | The Hackers Labs Writeup — Chimichurri (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/cef094b98f32) |
 | Mon, 01 Dec 2025 11:12:24 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/122c2179e6ef) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 05:51:15 GMT | AI in Network Security: Protecting Infrastructure with Intelligent Systems | QualysecEurope | [Read More](https://medium.com/p/1ce4edf99cbc) |
 | Mon, 01 Dec 2025 05:48:39 GMT | Event ID — 36 - SOC — 104 -Malware Detected | Soumodeep Das | [Read More](https://medium.com/p/f8a03f145c50) |
 | Mon, 01 Dec 2025 05:42:13 GMT | Rooting Kioptrix — A Manual Exploitation Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/d266dbcb6a29) |
-| Mon, 01 Dec 2025 05:38:52 GMT | Venezuela’s Escalation Is Shaking South America — And Argentina Can’t Ignore the Fallout | Jerry Nelson | [Read More](https://medium.com/p/3e8d9cbc847a) |
-| Mon, 01 Dec 2025 05:31:08 GMT | Running a business in today’s digital landscape without proper cyber security is like leaving the… | Adits Australia | [Read More](https://medium.com/p/d0bc36e5a222) |
-| Mon, 01 Dec 2025 05:24:51 GMT | $1,000 -critical Critical Log4Shell Vulnerability | KILLUA_UCHIHA | [Read More](https://medium.com/p/2d55129c9c1b) |
-| Mon, 01 Dec 2025 05:24:46 GMT | How I Lock Down IAM Roles (My Exact Checklist) | Faruk Ahmed | [Read More](https://medium.com/p/efb245ceba2b) |
-| Mon, 01 Dec 2025 05:19:58 GMT | The Windows Security Journey — BitLocker | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/370d62d70d7d) |
-| Mon, 01 Dec 2025 05:16:20 GMT | Enhance Your Skills with a Professional Cybersecurity Course in Nepal | Tech Trends | [Read More](https://medium.com/p/2ccfc11e13dd) |
-| Mon, 01 Dec 2025 05:01:16 GMT | The “Good Enough” Lie in Engineering | Andrew Vittiglio | [Read More](https://medium.com/p/93e0c2e415e5) |
-| Mon, 01 Dec 2025 05:01:14 GMT | 10 Emerging Technology Trends in 2025 That Are Already Changing the World | Webnet Innovation | [Read More](https://medium.com/p/7b993822f4cd) |
-| Mon, 01 Dec 2025 04:59:47 GMT | OWASP Top 10 2025 for Security Researchers How to Detect, Analyze, and Report Modern… | Shanmuksrisai | [Read More](https://medium.com/p/bf2e396391ea) |
-| Mon, 01 Dec 2025 04:57:18 GMT | We Are Building Ghosts in the Machine (While the Exorcists Sleep) | BBSRGUY | [Read More](https://medium.com/p/0cfd39c9a78d) |
-| Mon, 01 Dec 2025 04:56:17 GMT | Git Hook Privilege Escalation — Hero-CTF Write‑Up | Nmullenski | [Read More](https://medium.com/p/b40300dc0e4a) |
