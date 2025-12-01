@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 15:42:45 GMT | Blue — TryHackMe Walkthrough | Ashba Arshad | [Read More](https://medium.com/p/7ea2e6bbbb43) |
+| Mon, 01 Dec 2025 15:36:33 GMT | Energy Transition vs. | Clara Morales | [Read More](https://medium.com/p/7f4cb6749cf1) |
+| Mon, 01 Dec 2025 15:31:38 GMT | Bug Bounty Hunting — Complete Guide (Part-153) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/ee62a3f886de) |
+| Mon, 01 Dec 2025 15:30:24 GMT | Approaching stealers devs: a brief interview with Phexia | g0njxa | [Read More](https://medium.com/p/38ad3772dbcd) |
+| Mon, 01 Dec 2025 15:29:56 GMT | Removal without the right of return | Progsky | [Read More](https://medium.com/p/925aeb60394a) |
+| Mon, 01 Dec 2025 15:29:55 GMT | Bug Bug Bounty Hunting — Complete Guide (Part-152) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/617604068b34) |
+| Mon, 01 Dec 2025 15:26:57 GMT | How Power Supply Transients Reveal Hidden Hardware Trojans | Surabhi Misra | [Read More](https://medium.com/p/85a5c536d8df) |
 | Mon, 01 Dec 2025 15:22:52 GMT | Why Your Business Needs a Fractional CISO to Scale AI Responsibly | Hello @ Octellient | [Read More](https://medium.com/p/5e1e0121fb02) |
+| Mon, 01 Dec 2025 15:19:33 GMT | Why an Antidetect Browser Is Becoming a Must-Have Tool for Online Privacy | Anna Kolodkina | [Read More](https://medium.com/p/4885d8eedc3c) |
+| Mon, 01 Dec 2025 15:17:53 GMT | O Padrão que Todo Desenvolvedor Mobile Precisa Dominar: Entendendo o MASVS | Hisrael Braga | [Read More](https://medium.com/p/af7c6793bfb5) |
 | Mon, 01 Dec 2025 15:16:34 GMT | #11- Kali Linux — Lateral Movement: Traversing the Network | SDNTechForum | [Read More](https://medium.com/p/a9852bbf64a8) |
+| Mon, 01 Dec 2025 15:14:44 GMT | Investigating a Critical Breach: Unmasking a File Upload Vulnerability Attack (SO-WEB-08) | 0plxg | [Read More](https://medium.com/p/bca00dfde517) |
 | Mon, 01 Dec 2025 15:12:43 GMT | “The $7,500 Steam Chat Hack: How I Chained 8 Vulnerabilities Into Full System Takeover” | Aman Sharma | [Read More](https://medium.com/p/80425f9241b3) |
 | Mon, 01 Dec 2025 15:11:50 GMT | Moving People Predictably with C# and Proven Mathematical Patterns | Namir Sagheenanajar | [Read More](https://medium.com/p/207eebdcd903) |
 | Mon, 01 Dec 2025 15:04:21 GMT | The Hackers Labs Writeup — Quokka (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/2e3074932a76) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 10:40:40 GMT | How To Become an Ethical Hacker in 2026: Complete Career Guide | cyber security Updates | [Read More](https://medium.com/p/cc569e953c36) |
 | Mon, 01 Dec 2025 10:39:45 GMT | NKSCX DeFi Watch: Yearn’s yETH exploit is a warning shot for complex yield products | NKSCX - Smart Crypto Trading | [Read More](https://medium.com/p/0ed534f5b807) |
 | Mon, 01 Dec 2025 10:37:06 GMT | Patriot CTF 2025 — Challenge Writeups | Hacktivities | [Read More](https://medium.com/p/4aff5aa64220) |
-| Mon, 01 Dec 2025 10:36:37 GMT | A Classic Hacking Technique Works on Some Quantum Computers | Nosheen Butt | [Read More](https://medium.com/p/1307de8cc745) |
-| Mon, 01 Dec 2025 10:32:28 GMT | What Is a ZIP Bomb? How Tiny Files Overload Computers | Natarajan C K | [Read More](https://medium.com/p/c450733610f1) |
-| Mon, 01 Dec 2025 10:31:53 GMT | Hire A Hacker For Any Kind Of Social Media Accounts: | Donley Mark | [Read More](https://medium.com/p/facc0d2349a9) |
-| Mon, 01 Dec 2025 10:31:33 GMT | 5 Τάσεις στις Υπηρεσίες Security που Αλλάζουν την Ασφάλεια στην Ελλάδα το 2025 | Fmagnews | [Read More](https://medium.com/p/4fb024f2ac1d) |
-| Mon, 01 Dec 2025 10:26:26 GMT | Why Smarter Defense Starts With AI-Driven Security | Balaji | [Read More](https://medium.com/p/d8c82862d726) |
-| Mon, 01 Dec 2025 10:25:38 GMT | How Australian Teams Can Stay Secure: Cyber Security Help for Remote & Hybrid Workplaces | Sentry Cyber | [Read More](https://medium.com/p/aac940cc20d8) |
-| Mon, 01 Dec 2025 10:23:48 GMT | Join My Cybersec Community (WhatsApp Group) | Abhijeet kumawat | [Read More](https://medium.com/p/a44117e0b997) |
-| Mon, 01 Dec 2025 10:20:04 GMT | AI-Driven Automation in Penetration Testing. | Aleksander Gorkowienko | [Read More](https://medium.com/p/5b4622f3ad14) |
-| Mon, 01 Dec 2025 10:16:12 GMT | Firewalls Explained Like You’re Five……Using Nmap as the Story | Fateyaly | [Read More](https://medium.com/p/9ef3d5e47773) |
-| Mon, 01 Dec 2025 10:15:03 GMT | Strengthening Cybersecurity with Managed IT Services A Complete Guide | Gokul Krishna | [Read More](https://medium.com/p/0cca05c60f6b) |
