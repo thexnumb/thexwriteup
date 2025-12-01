@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 21:24:43 GMT | Cracking HackTheBox: HackNet — A Walkthrough from Recon to Root | Rahaliashraf | [Read More](https://medium.com/p/cdd1f2cd658d) |
+| Mon, 01 Dec 2025 21:23:31 GMT | When Malware Starts to Behave Like an AI Agent: Shai-hulud 2.0 | Juan Pablo Castro | [Read More](https://medium.com/p/7edc738e4b8c) |
+| Mon, 01 Dec 2025 21:18:46 GMT | Cybersecurity use, deployment, and advanced use-case | Ehsan Aghaei, PhD | [Read More](https://medium.com/p/58c779f7d4fd) |
 | Mon, 01 Dec 2025 21:18:05 GMT | BehindTheScreens: When the Internet Blinks — Cloudflare’s Outage, Fortinet’s Zero-Days, and a Week… | Sam - Behind The Screens | [Read More](https://medium.com/p/603fcfcea45c) |
+| Mon, 01 Dec 2025 21:15:15 GMT | Google Starts Sharing All Your Text Messages With Your Employer | Nauman khan | [Read More](https://medium.com/p/5d77ea270d77) |
+| Mon, 01 Dec 2025 21:14:49 GMT | The Ethics of Designing Vulnerability | Megan Workmon Larsen | [Read More](https://medium.com/p/cecf5c923242) |
 | Mon, 01 Dec 2025 21:13:25 GMT | November 2025: Major Cyber Attacks Ransomware Attacks, Data Breaches | IT_Engineer | [Read More](https://medium.com/p/64c0ee30e612) |
 | Mon, 01 Dec 2025 21:06:01 GMT | “Owns a Home, Car, and Makes $100K” — Why Successful Women Won’t Settle for Less | Queena Bryan | [Read More](https://medium.com/p/f3d5ac1636f6) |
 | Mon, 01 Dec 2025 20:56:25 GMT | Rate Limiting — Why and  How? | Shivam Agrawal | [Read More](https://medium.com/p/4c36db9884e6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 15:29:55 GMT | Bug Bug Bounty Hunting — Complete Guide (Part-152) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/617604068b34) |
 | Mon, 01 Dec 2025 15:26:57 GMT | How Power Supply Transients Reveal Hidden Hardware Trojans | Surabhi Misra | [Read More](https://medium.com/p/85a5c536d8df) |
 | Mon, 01 Dec 2025 15:22:52 GMT | Why Your Business Needs a Fractional CISO to Scale AI Responsibly | Hello @ Octellient | [Read More](https://medium.com/p/5e1e0121fb02) |
-| Mon, 01 Dec 2025 15:19:33 GMT | Why an Antidetect Browser Is Becoming a Must-Have Tool for Online Privacy | Anna Kolodkina | [Read More](https://medium.com/p/4885d8eedc3c) |
-| Mon, 01 Dec 2025 15:17:53 GMT | O Padrão que Todo Desenvolvedor Mobile Precisa Dominar: Entendendo o MASVS | Hisrael Braga | [Read More](https://medium.com/p/af7c6793bfb5) |
-| Mon, 01 Dec 2025 15:16:34 GMT | #11- Kali Linux — Lateral Movement: Traversing the Network | SDNTechForum | [Read More](https://medium.com/p/a9852bbf64a8) |
-| Mon, 01 Dec 2025 15:14:44 GMT | Investigating a Critical Breach: Unmasking a File Upload Vulnerability Attack (SO-WEB-08) | 0plxg | [Read More](https://medium.com/p/bca00dfde517) |
-| Mon, 01 Dec 2025 15:12:43 GMT | “The $7,500 Steam Chat Hack: How I Chained 8 Vulnerabilities Into Full System Takeover” | Aman Sharma | [Read More](https://medium.com/p/80425f9241b3) |
