@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 03:54:17 GMT | Best Trusted Computer Shop in Bangladesh – Sell Tech | Sell Tech BD | [Read More](https://medium.com/p/40e57481c529) |
+| Mon, 01 Dec 2025 03:43:47 GMT | Inside the Machine: Understanding ICS Components and Why Hackers Love Them | urjasec | [Read More](https://medium.com/p/c0ba8ee1b5e2) |
+| Mon, 01 Dec 2025 03:32:13 GMT | Authentication Coercion: How Attackers Turn Windows Trust Against You | Deven Chhajed | [Read More](https://medium.com/p/6e81504abef1) |
+| Mon, 01 Dec 2025 03:32:12 GMT | 3. Master the Basics, Break the Web: Cookies & Sessions | Abinesh M | [Read More](https://medium.com/p/3b284c456e98) |
+| Mon, 01 Dec 2025 03:28:09 GMT | Buy Bangladesh proxy for steadier Amazon multi-store logins | TokenShimmer | [Read More](https://medium.com/p/587b6257f329) |
+| Mon, 01 Dec 2025 03:22:17 GMT | A Student's Guide to Being an Entrepreneur | Aliyu Ibrahim | [Read More](https://medium.com/p/b6639904e507) |
+| Mon, 01 Dec 2025 03:21:05 GMT | Introducing the New CoPilot Customer Portal: Real-Time Security Visibility for Your Clients | SOCFortress | [Read More](https://medium.com/p/65480b6607b3) |
+| Mon, 01 Dec 2025 03:20:52 GMT | THE PLAYER OUTSIDE THE THEATER | Linimasakti | [Read More](https://medium.com/p/9667676dbe72) |
+| Mon, 01 Dec 2025 03:20:14 GMT | What is Adware? - VIIEGO | Rolando | [Read More](https://medium.com/p/bff445b23e6c) |
+| Mon, 01 Dec 2025 03:02:43 GMT | NordVPN Review: Brutally Honest Opinion After 6 Months of Daily Use | Daily Fin | [Read More](https://medium.com/p/bfaf0db4eca5) |
+| Mon, 01 Dec 2025 02:58:53 GMT | EO Broker Reviews, how to withdraw your assets. | Admin.Class | [Read More](https://medium.com/p/5132249a05e3) |
+| Mon, 01 Dec 2025 02:55:41 GMT | The $100 Billion Farce: When Denial Turns Toxic | Laurent | [Read More](https://medium.com/p/bff9fa36b36e) |
+| Mon, 01 Dec 2025 02:32:35 GMT | Stop Fuzzing Blindly: The Ultimate Guide to FFUF | Aman Kumar (ak) | [Read More](https://medium.com/p/bce8e0cdb4bd) |
+| Mon, 01 Dec 2025 02:11:46 GMT | Why Human Potential is Limited by Our Current Transaction Processes? | WorldMeYou | [Read More](https://medium.com/p/39e4019b2a51) |
+| Mon, 01 Dec 2025 02:10:00 GMT | SSH Security Best Practice & | Mert Baykal | [Read More](https://medium.com/p/84554bee53b5) |
+| Mon, 01 Dec 2025 02:09:23 GMT | Weekly Threat Intelligence Report 24 Nov 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/ac5ec46154d3) |
 | Mon, 01 Dec 2025 01:54:09 GMT | I Just Wanted to Be Happy… | The Art Of Becoming | [Read More](https://medium.com/p/6dc04c321609) |
 | Mon, 01 Dec 2025 01:33:15 GMT | DTMAF and VPAFT: The Emerging Digital Psychological Violence Behind Crypto-Romance Fraud, and Why… | Quiscalus Asi (The Quiscalus Project) | [Read More](https://medium.com/p/78a890823890) |
 | Mon, 01 Dec 2025 01:22:03 GMT | OSINT Under the Hood: What Your Files Are Secretly Saying About You | Rabail Zaheer | [Read More](https://medium.com/p/6ed4a0ab726d) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 17:02:01 GMT | Cybersecurity in 2025: Why It’s Everyone’s Business Now | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/e746faceee11) |
 | Sun, 30 Nov 2025 16:59:55 GMT | Get To Know Vulnerability Assessment And Tools Used In Kali Linux | LUTSVIA | [Read More](https://medium.com/p/b7e36160f40b) |
 | Sun, 30 Nov 2025 16:49:59 GMT | A Zero-Day in Your Browser: What to Do Right Now | Hania Khan | [Read More](https://medium.com/p/77135bd19779) |
-| Sun, 30 Nov 2025 16:49:42 GMT | Understanding Multi-Factor Authentication (MFA) | Damir Kolobaric | [Read More](https://medium.com/p/56f7a3597730) |
-| Sun, 30 Nov 2025 16:48:30 GMT | Lab 2: Web cache poisoning with an unkeyed cookie | L4V4NY4  AGR3 | [Read More](https://medium.com/p/b9683952b5ce) |
-| Sun, 30 Nov 2025 16:40:46 GMT | GitHub: Machine Learning in Finance From Theory to Practice (Guide)GitHub: Machine Learning in… | Motherlandlove | [Read More](https://medium.com/p/b782394ab5aa) |
-| Sun, 30 Nov 2025 16:39:38 GMT | nz/note/enterthevoid.txt | nzunuzzz | [Read More](https://medium.com/p/60078b5ac5c7) |
-| Sun, 30 Nov 2025 16:34:16 GMT | 2. Spring Boot Security + JWT Authentication (Stateless Security) | dolly | [Read More](https://medium.com/p/e49474a1e2f6) |
-| Sun, 30 Nov 2025 16:26:58 GMT | Hi Medium family!
- Hope you’re all doing good. Let me just introduce myself quickly. | Sanjaykumar P | [Read More](https://medium.com/p/cbb9b705e338) |
-| Sun, 30 Nov 2025 16:22:09 GMT | Cybersecurity Satellites (Explained like I’m 5) | TechTales | [Read More](https://medium.com/p/733897a69421) |
-| Sun, 30 Nov 2025 16:06:42 GMT | Machine Learning in Finance Free Course: Full Beginner Guide 2026 | Motherlandlove | [Read More](https://medium.com/p/4f9130292b98) |
-| Sun, 30 Nov 2025 16:05:29 GMT | How to Deploy SafeLine WAF: A Complete Beginner’s Guide | Nicatmazanli | [Read More](https://medium.com/p/dc7973db48a5) |
-| Sun, 30 Nov 2025 16:02:50 GMT | Temporary Hacking, Permanent Access: A Meta Bug Bounty Story | Gtm Mänôz | [Read More](https://medium.com/p/1f72da3e63cf) |
-| Sun, 30 Nov 2025 16:02:15 GMT | She Invited Me Over and I Panicked — I Saw the Fears Women Face Just to Show Up | Victor Ude | [Read More](https://medium.com/p/22474d2fd169) |
-| Sun, 30 Nov 2025 16:01:36 GMT | Exploiting Race Conditions in GraphQL: A Case Study of Follower Count Manipulation | Soltan Maharramov | [Read More](https://medium.com/p/e7a02294e4f7) |
-| Sun, 30 Nov 2025 15:59:09 GMT | Handle With Care: A Package Phishing Story | christos dimitropoulos | [Read More](https://medium.com/p/8ef82233d4dc) |
-| Sun, 30 Nov 2025 15:55:23 GMT | My Family’s Secret Weapon Against Credit Card Skimming in Vietnam: A Smart Traveler’s Guide | K-Food & Travel | [Read More](https://medium.com/p/1474dfe0441e) |
-| Sun, 30 Nov 2025 15:48:24 GMT | TunHills Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/86e12157a5ff) |
-| Sun, 30 Nov 2025 15:47:50 GMT | Oranblack Machine Walkthrough — Cyber Oasis 1.0 | KyubiSec | [Read More](https://medium.com/p/b2d54f36e26c) |
