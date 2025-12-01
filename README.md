@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 09:20:10 GMT | CVE-2025–64446 - The FortiWeb Vulnerability Everyone Slept On | Motasem Hamdan | [Read More](https://medium.com/p/fd32bca67ed4) |
+| Mon, 01 Dec 2025 09:17:12 GMT | Did OpenAI leak your data…? | Swetha | [Read More](https://medium.com/p/90b666f75465) |
+| Mon, 01 Dec 2025 09:15:21 GMT | NPM = Far West : Il est temps d’arrêter cette folie | 01TEK | [Read More](https://medium.com/p/ccfaeb998b76) |
+| Mon, 01 Dec 2025 09:08:53 GMT | Why APAC Companies Are Building ODC Teams in Vietnam in 2025 | Kaopiz Software | [Read More](https://medium.com/p/30cc007e8e7d) |
+| Mon, 01 Dec 2025 09:06:01 GMT | The rhyming ‘master key’ that breaks AI safety | George Hopkin | [Read More](https://medium.com/p/18f25c9ffb87) |
+| Mon, 01 Dec 2025 09:02:17 GMT | Bug Bounty Hunters: Use Plain Text Leaks To Turn Recon Into High-Impact Reports | Alexandre Vandamme | [Read More](https://medium.com/p/b59286cedf61) |
+| Mon, 01 Dec 2025 09:00:24 GMT | Stop Sharing .env Files — Here’s the Secure Way to Manage Environment Variables | Shahnoor Mujawar | [Read More](https://medium.com/p/218f16001fdb) |
+| Mon, 01 Dec 2025 08:56:00 GMT | RST TI Report Digest: 01 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/b90cdb590fc8) |
+| Mon, 01 Dec 2025 08:54:02 GMT | Why Smart, Integrated Systems Are Now Essential for Every Business | Ping Secure | [Read More](https://medium.com/p/9385f674ecd0) |
+| Mon, 01 Dec 2025 08:51:33 GMT | VirusTotal Tehdit İstihbaratıyla Gözlemlenebilirliğinizi Zenginleştirin | Perform Yazılım | [Read More](https://medium.com/p/44e50de41953) |
+| Mon, 01 Dec 2025 08:49:58 GMT | Crypto Currency & Trading: A Complete Guide to Buying, Selling & Staying Safe (Clear Web vs Dark… | ghostyjoe | [Read More](https://medium.com/p/7ad309dca496) |
+| Mon, 01 Dec 2025 08:44:25 GMT | Portswigger : Authentication vulnerabilities | Songül Kızılay Özügürler | [Read More](https://medium.com/p/04a67d67f13f) |
+| Mon, 01 Dec 2025 08:44:20 GMT | The Psychology Behind Cybersecurity Leadership: How Decisions Are Made When the Pressure Is On | Digital Defense | [Read More](https://medium.com/p/8b723d9d7023) |
+| Mon, 01 Dec 2025 08:38:17 GMT | Från digital föregångare till digital hyresgäst? | Alehandro Martinez | [Read More](https://medium.com/p/0d6bb37b3522) |
+| Mon, 01 Dec 2025 08:36:22 GMT | The Iron Triangle vs. The 3R Optimization Model: Why ‘Pick Two’ is Wrong | Levente Simon | [Read More](https://medium.com/p/c935e09bd5a3) |
+| Mon, 01 Dec 2025 08:36:01 GMT | How to turn a class bug into a portfolio win | Kayla J | [Read More](https://medium.com/p/1bebe12beb4d) |
+| Mon, 01 Dec 2025 08:34:09 GMT | Zero-Trust Architecture in Laravel Applications | Avinash | [Read More](https://medium.com/p/54d5641fb56a) |
 | Mon, 01 Dec 2025 08:22:38 GMT | Strengthening Linux Security: A Step-by-Step Guide to SSH Public Key Authentication | Johnbrindimazwewoh | [Read More](https://medium.com/p/2a4d342d25a3) |
 | Mon, 01 Dec 2025 08:15:39 GMT | Enumeration as a Graph: How a Different Recon Mindset Took Me From “Found X Vuln” to Full Root… | Tauseef Ahmed | [Read More](https://medium.com/p/0a2ea2e21f89) |
 | Mon, 01 Dec 2025 07:56:14 GMT | How to install Osquery for Endpoint Security — Cybersecurity Homelab [#8] | 0xRahuL | [Read More](https://medium.com/p/60155a0f34d5) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 03:02:43 GMT | NordVPN Review: Brutally Honest Opinion After 6 Months of Daily Use | Daily Fin | [Read More](https://medium.com/p/bfaf0db4eca5) |
 | Mon, 01 Dec 2025 02:58:53 GMT | EO Broker Reviews, how to withdraw your assets. | Admin.Class | [Read More](https://medium.com/p/5132249a05e3) |
 | Mon, 01 Dec 2025 02:55:41 GMT | The $100 Billion Farce: When Denial Turns Toxic | Laurent | [Read More](https://medium.com/p/bff9fa36b36e) |
-| Mon, 01 Dec 2025 02:32:35 GMT | Stop Fuzzing Blindly: The Ultimate Guide to FFUF | Aman Kumar (ak) | [Read More](https://medium.com/p/bce8e0cdb4bd) |
-| Mon, 01 Dec 2025 02:11:46 GMT | Why Human Potential is Limited by Our Current Transaction Processes? | WorldMeYou | [Read More](https://medium.com/p/39e4019b2a51) |
-| Mon, 01 Dec 2025 02:10:00 GMT | SSH Security Best Practice & | Mert Baykal | [Read More](https://medium.com/p/84554bee53b5) |
-| Mon, 01 Dec 2025 02:09:23 GMT | Weekly Threat Intelligence Report 24 Nov 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/ac5ec46154d3) |
-| Mon, 01 Dec 2025 01:54:09 GMT | I Just Wanted to Be Happy… | The Art Of Becoming | [Read More](https://medium.com/p/6dc04c321609) |
-| Mon, 01 Dec 2025 01:33:15 GMT | DTMAF and VPAFT: The Emerging Digital Psychological Violence Behind Crypto-Romance Fraud, and Why… | Quiscalus Asi (The Quiscalus Project) | [Read More](https://medium.com/p/78a890823890) |
-| Mon, 01 Dec 2025 01:22:03 GMT | OSINT Under the Hood: What Your Files Are Secretly Saying About You | Rabail Zaheer | [Read More](https://medium.com/p/6ed4a0ab726d) |
-| Mon, 01 Dec 2025 01:21:52 GMT | WiFi Hacking 1O1, learn everything u need | Mainekhacker | [Read More](https://medium.com/p/37a19027702f) |
-| Mon, 01 Dec 2025 01:21:43 GMT | Beyond the Grid: The Resurgence of Alternative Networks in an Age of Control | Officer's Notes | [Read More](https://medium.com/p/d263850a2965) |
-| Mon, 01 Dec 2025 01:18:44 GMT | Authentication Essentials for Modern Platforms: A Practical Guide for Web, Mobile, SSO, MFA, and… | Blog Chip | [Read More](https://medium.com/p/d1185a8a9a8a) |
-| Mon, 01 Dec 2025 01:17:49 GMT | AI Agents as Insiders: Securing the Next Generation of Enterprise AI Infrastructure | Ahmed Sallam | [Read More](https://medium.com/p/3938bc9146c9) |
-| Mon, 01 Dec 2025 01:14:14 GMT | A10 Networks: The Short Squeeze Candidate Wall Street Is Ignoring — Until It Isn’t | Bradley Susser | [Read More](https://medium.com/p/4ae40d6531b9) |
-| Mon, 01 Dec 2025 01:13:59 GMT | Why Shadow IT Keeps Growing — And Why It’s Not Always the Enemy | Sam Writes Security | [Read More](https://medium.com/p/2f88272c3593) |
-| Mon, 01 Dec 2025 01:08:18 GMT | Why Smart People Fall for Scams: The Psychology No One Talks About | Richard Buchfink | [Read More](https://medium.com/p/a3941a1ac74e) |
-| Mon, 01 Dec 2025 01:08:05 GMT | Shellcode, Payloads, and the Future of Deep Packet Inspection: How Modern Networks Detect and Stop… | Ahmed Sallam | [Read More](https://medium.com/p/3e6f34cdf14b) |
-| Mon, 01 Dec 2025 01:03:35 GMT | If you’re trying to understand the world of Information Technology — little bit of what happened… | SattiData | [Read More](https://medium.com/p/d372db89696b) |
-| Mon, 01 Dec 2025 01:02:09 GMT | Testing Account Discovery Detection with Atomic Red Team | Raynard Waits | [Read More](https://medium.com/p/1d39dd73b081) |
