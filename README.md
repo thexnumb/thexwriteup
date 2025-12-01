@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 22:17:13 GMT | 3I/ATLAS Revealed a New National Security Problem, and It Is Not Aliens | Alton lockhart | [Read More](https://medium.com/p/a8d25cb72d95) |
+| Mon, 01 Dec 2025 22:01:18 GMT | Why Cybersecurity Matters Now More Than Ever — Especially for Young Africans | Rahma Nasir Iro | [Read More](https://medium.com/p/ab1fa08c7c73) |
+| Mon, 01 Dec 2025 22:00:32 GMT | The Fundamentals of API Security and Why It Matters Today | Hadia Rahmani | [Read More](https://medium.com/p/495a8b6948c5) |
+| Mon, 01 Dec 2025 21:49:31 GMT | Stop Automatic Reboots on Non-Activated Windows 10 Labs VMs | DuckWrites | [Read More](https://medium.com/p/c28031127d66) |
+| Mon, 01 Dec 2025 21:49:10 GMT | Your Strongest Firewall is Useless: Why Security Awareness Training is Your Best ROI | Eatonconnor | [Read More](https://medium.com/p/5c0532664835) |
+| Mon, 01 Dec 2025 21:46:03 GMT | Ehxb - Inside the Filesystem: The Truth Behind LFI & RFI | Ehxb | [Read More](https://medium.com/p/2b3626ed3ad7) |
+| Mon, 01 Dec 2025 21:32:28 GMT | why CORS errors happen and how to actually understand them | Satyam Singh | [Read More](https://medium.com/p/29399d6ef610) |
 | Mon, 01 Dec 2025 21:24:43 GMT | Cracking HackTheBox: HackNet — A Walkthrough from Recon to Root | Rahaliashraf | [Read More](https://medium.com/p/cdd1f2cd658d) |
 | Mon, 01 Dec 2025 21:23:31 GMT | When Malware Starts to Behave Like an AI Agent: Shai-hulud 2.0 | Juan Pablo Castro | [Read More](https://medium.com/p/7edc738e4b8c) |
 | Mon, 01 Dec 2025 21:18:46 GMT | Cybersecurity use, deployment, and advanced use-case | Ehsan Aghaei, PhD | [Read More](https://medium.com/p/58c779f7d4fd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 15:45:58 GMT | HeroCTF_v7 (Web) | Mohamed yasser | [Read More](https://medium.com/p/76e4ff895d05) |
 | Mon, 01 Dec 2025 15:42:45 GMT | Blue — TryHackMe Walkthrough | Ashba Arshad | [Read More](https://medium.com/p/7ea2e6bbbb43) |
 | Mon, 01 Dec 2025 15:41:35 GMT | You’re Designing Payment Wrong — and it could cost you | Nikesh Kazi | [Read More](https://medium.com/p/9403e4c72920) |
-| Mon, 01 Dec 2025 15:36:33 GMT | Energy Transition vs. | Clara Morales | [Read More](https://medium.com/p/7f4cb6749cf1) |
-| Mon, 01 Dec 2025 15:31:38 GMT | Bug Bounty Hunting — Complete Guide (Part-153) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/ee62a3f886de) |
-| Mon, 01 Dec 2025 15:30:24 GMT | Approaching stealers devs: a brief interview with Phexia | g0njxa | [Read More](https://medium.com/p/38ad3772dbcd) |
-| Mon, 01 Dec 2025 15:29:56 GMT | Removal without the right of return | Progsky | [Read More](https://medium.com/p/925aeb60394a) |
-| Mon, 01 Dec 2025 15:29:55 GMT | Bug Bug Bounty Hunting — Complete Guide (Part-152) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/617604068b34) |
-| Mon, 01 Dec 2025 15:26:57 GMT | How Power Supply Transients Reveal Hidden Hardware Trojans | Surabhi Misra | [Read More](https://medium.com/p/85a5c536d8df) |
-| Mon, 01 Dec 2025 15:22:52 GMT | Why Your Business Needs a Fractional CISO to Scale AI Responsibly | Hello @ Octellient | [Read More](https://medium.com/p/5e1e0121fb02) |
