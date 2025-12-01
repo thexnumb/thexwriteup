@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 13:34:59 GMT | Day 1 — The Red Bear Inn | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/4827b6ac79b0) |
+| Mon, 01 Dec 2025 13:25:57 GMT | How to Pass All Google Play Console Automated Checks (Security, Privacy, NDK, SDK) — 2025… | CodeTalks | [Read More](https://medium.com/p/8d647e052d2a) |
+| Mon, 01 Dec 2025 13:19:48 GMT | The Night My Internet Died: A Complete Guide to Fixing That Terrifying Router Red Light | Bryan Collins | [Read More](https://medium.com/p/0c2be754b734) |
+| Mon, 01 Dec 2025 13:17:18 GMT | Common Security Vulnerabilities in Software: Risks and Countermeasures | Lishan Dissanayake | [Read More](https://medium.com/p/c36d88197385) |
+| Mon, 01 Dec 2025 13:06:02 GMT | How I Made $45,000 from a Single Bug Bounty Report | Ibtissam | [Read More](https://medium.com/p/038a6c0074c3) |
+| Mon, 01 Dec 2025 13:05:01 GMT | When the Program Wins and the Researcher Loses: The Subtle Scams Behind Bug Bounties | Gl1tch | [Read More](https://medium.com/p/578f97489845) |
+| Mon, 01 Dec 2025 13:04:46 GMT | Turning a Raspberry Pi 5 Into a Mini DevOps and Security Workstation | Hcnpeiris | [Read More](https://medium.com/p/bba3871b303b) |
+| Mon, 01 Dec 2025 12:59:40 GMT | Locking Down the Django Admin Panel: Essential Security Practices for Production | Artem | [Read More](https://medium.com/p/38035fe00e42) |
+| Mon, 01 Dec 2025 12:46:45 GMT | What Happens in the First 15 Minutes of a Cyber Breach? | Eventus Security Private Limited | [Read More](https://medium.com/p/cf01ce353aae) |
 | Mon, 01 Dec 2025 12:42:23 GMT | Why IAM Has Become the Most Critical Cybersecurity Skill in 2025–26 | Himanshu Kumar | [Read More](https://medium.com/p/0634457eed66) |
 | Mon, 01 Dec 2025 12:38:28 GMT | How to Stop Ransomware: Best Antivirus for Pc to Use Right Now | SiyanoAV | [Read More](https://medium.com/p/ef955785c37b) |
 | Mon, 01 Dec 2025 12:34:07 GMT | Q5: How Do We Prove to Future Buyers That the Company Is Secure by Design — Not Secure by Marketing? | Barry Ritchie | [Read More](https://medium.com/p/3afc8906ba91) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 07:04:38 GMT | The Role of AI in Improving Software License Security? | Lanapeterson | [Read More](https://medium.com/p/f48fd167ead5) |
 | Mon, 01 Dec 2025 07:03:07 GMT | Security Lab Simulation Project Part 1: Network Topology | Jenny | [Read More](https://medium.com/p/6db6eaa16ced) |
 | Mon, 01 Dec 2025 07:02:09 GMT | Security Chaos Engineering in Banking: Stress-Testing Systems Against Unknown Threats | Mavidev Software And Consulting Co. | [Read More](https://medium.com/p/167ad57a1464) |
-| Mon, 01 Dec 2025 07:01:34 GMT | Zero Trust Architecture: How the World is Securing Digital Assets Today | Devarshi Acharya | [Read More](https://medium.com/p/6f8e3cb26ff6) |
-| Mon, 01 Dec 2025 07:00:06 GMT | Zero-Trust in Reality: Identity-First Networking for Multi-Cloud Apps | Ismat Babirli | [Read More](https://medium.com/p/b0c1bbd1e8ab) |
-| Mon, 01 Dec 2025 06:56:29 GMT | Detecting Deepfake Phishing Calls: 10 Tools Every Cybersecurity Pro Should Master | Very Lazy Tech | [Read More](https://medium.com/p/c36d8f760585) |
-| Mon, 01 Dec 2025 06:55:04 GMT | Why Your Logout Button Isn’t Doing What You Think | Chegeveronica | [Read More](https://medium.com/p/7b22edb6ba1b) |
-| Mon, 01 Dec 2025 06:52:57 GMT | Making Power BI Show the Right Data to the Right Users Using Role Based Filtering | Naveen Kumar S | [Read More](https://medium.com/p/4190a8f77dff) |
-| Mon, 01 Dec 2025 06:51:50 GMT | Week 3 – SOC Analyst Internship Update (HSC Consult) | Adeleke Theophilus O | [Read More](https://medium.com/p/cf14520bd14b) |
-| Mon, 01 Dec 2025 06:44:17 GMT | Rising of Cyber Psychology | Himanshu Bhatt | [Read More](https://medium.com/p/f4d0833dee95) |
-| Mon, 01 Dec 2025 06:33:24 GMT | A Practical Guide to Authentication and Session Management Vulnerabilities | coffinxp | [Read More](https://medium.com/p/517f5412a02a) |
-| Mon, 01 Dec 2025 06:24:04 GMT | Part 10: Virtual Box Home Lab — Enforcing GPO — Disabling Task Manager, Logoff etc. | Declan | [Read More](https://medium.com/p/3566335bbce2) |
