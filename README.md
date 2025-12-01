@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 16:31:29 GMT | PBO : File I/O dan Serealisasi | Yasa Wijaya | [Read More](https://medium.com/p/c9888bfc9c70) |
+| Mon, 01 Dec 2025 16:27:02 GMT | Identity Under Siege: Why Modern Businesses Need a New Approach to IAM and MFA | Dr. Shashi Karhail | [Read More](https://medium.com/p/ccc53267104d) |
+| Mon, 01 Dec 2025 16:23:43 GMT | hashcrack challenge picoCTF walkthrough (beginner friendly) | Harshana Lasith weragoda | [Read More](https://medium.com/p/afe1cf5d30d3) |
+| Mon, 01 Dec 2025 16:22:42 GMT | The Day GPS Dies: How One Attack Could Crash Planes, Freeze Banks, and Blind the World | Mallick Speaks | [Read More](https://medium.com/p/4630fb4099a1) |
+| Mon, 01 Dec 2025 16:22:39 GMT | LLM Vulnerabilities: Why AI Models Are the Next Big Attack Surface | Netlas.io | [Read More](https://medium.com/p/f0845f458e30) |
+| Mon, 01 Dec 2025 16:18:24 GMT | How AI Is Changing Cybersecurity in 2025 — A Beginner-Friendly Reality Check | Poojan Ghetiya | [Read More](https://medium.com/p/0de350d77ae8) |
+| Mon, 01 Dec 2025 16:18:08 GMT | Why Software Bugs Go Unreported in Testing and How to Fix the Gap | Josphine Job | [Read More](https://medium.com/p/da6946582f8c) |
+| Mon, 01 Dec 2025 16:18:03 GMT | The Manual SQL Injection Tricks That Automated Scanners Miss | Abhishek meena | [Read More](https://medium.com/p/a5eac6d74f38) |
+| Mon, 01 Dec 2025 16:16:31 GMT | Secure ASP.NET Core the Easy Way: Introducing ShieldXSS | Amelia Keki | [Read More](https://medium.com/p/e854e3035dfd) |
+| Mon, 01 Dec 2025 16:11:51 GMT | List of Reconning Tool Every Beginner Hacker Must Familiarize With | NourInTech | [Read More](https://medium.com/p/283a82752f6d) |
+| Mon, 01 Dec 2025 16:10:16 GMT | The EdTech Portfolio: Why Centralization Alone Isn’t the Answer | Simple Higher Ed Insights | [Read More](https://medium.com/p/fe1a6e244e39) |
+| Mon, 01 Dec 2025 16:04:55 GMT | Your Medium Account is a Sitting Duck | blogginglen.com | [Read More](https://medium.com/p/8aa39149bd3f) |
+| Mon, 01 Dec 2025 15:58:59 GMT | Gaillac Machine Learning for Econometrics: Complete 2026 Regional Guide | Motherlandlove | [Read More](https://medium.com/p/f94aeaf7fab2) |
+| Mon, 01 Dec 2025 15:45:58 GMT | HeroCTF_v7 (Web) | Mohamed yasser | [Read More](https://medium.com/p/76e4ff895d05) |
 | Mon, 01 Dec 2025 15:42:45 GMT | Blue — TryHackMe Walkthrough | Ashba Arshad | [Read More](https://medium.com/p/7ea2e6bbbb43) |
+| Mon, 01 Dec 2025 15:41:35 GMT | You’re Designing Payment Wrong — and it could cost you | Nikesh Kazi | [Read More](https://medium.com/p/9403e4c72920) |
 | Mon, 01 Dec 2025 15:36:33 GMT | Energy Transition vs. | Clara Morales | [Read More](https://medium.com/p/7f4cb6749cf1) |
 | Mon, 01 Dec 2025 15:31:38 GMT | Bug Bounty Hunting — Complete Guide (Part-153) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/ee62a3f886de) |
 | Mon, 01 Dec 2025 15:30:24 GMT | Approaching stealers devs: a brief interview with Phexia | g0njxa | [Read More](https://medium.com/p/38ad3772dbcd) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 11:33:22 GMT | The Story Behind Mafiree: Why We Built a Company Focused on Database Reliability | Mafiree | [Read More](https://medium.com/p/d3e84a39d6c4) |
 | Mon, 01 Dec 2025 11:31:23 GMT | The Use of Whois in Cybersecurity: The Importance of Domain Lookup | INTELON | [Read More](https://medium.com/p/d210b9c5614b) |
 | Mon, 01 Dec 2025 11:25:18 GMT | Tek Bir Güncel Olmayan Joomla Eklentisi, Nokia.com’un Veritabanına erişim (Derin Teknik Analiz) | Ozan Ağdepe | [Read More](https://medium.com/p/37f275109857) |
-| Mon, 01 Dec 2025 11:25:09 GMT | Global Threat Detection Cybersecurity Market Size, Trends, Growth Forecast 2025–2034 | Sophia | [Read More](https://medium.com/p/2559f132b8b5) |
-| Mon, 01 Dec 2025 11:24:43 GMT | The Night Everything Went Dark — Until the Cloud Did Something Unbelievable” | JetkingChandigarh | [Read More](https://medium.com/p/7df5173b0b49) |
-| Mon, 01 Dec 2025 11:23:42 GMT | Build a High-Conversion Trust Center: 5 Steps to Prove Security Fast | SecureSlate | [Read More](https://medium.com/p/b2d32d25fc84) |
-| Mon, 01 Dec 2025 11:19:52 GMT | Why Tools Are Important in Cybersecurity: The Backbone of Modern Blue Team Defense | cyberwriter | [Read More](https://medium.com/p/1057e3a8f1fe) |
-| Mon, 01 Dec 2025 11:15:56 GMT | Simulating and Analyzing Brownian Motion | Riccardo Giacinti | [Read More](https://medium.com/p/a38e0b860a58) |
-| Mon, 01 Dec 2025 11:13:27 GMT | Why Cybersecurity-as-a-Service (CaaS) is a MUST for every Business? | Umar Waseem | [Read More](https://medium.com/p/1fd74cf246b2) |
-| Mon, 01 Dec 2025 11:13:12 GMT | The Hackers Labs Writeup — Chimichurri (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/cef094b98f32) |
-| Mon, 01 Dec 2025 11:12:24 GMT | Best Security Solutions Provider in Chandigarh. | Meghaharmedia | [Read More](https://medium.com/p/122c2179e6ef) |
-| Mon, 01 Dec 2025 11:10:30 GMT | Why Security Guard Services Are Becoming Essential for Safer Living and Smarter Business in India | Ciss India | [Read More](https://medium.com/p/881bb8f77f37) |
-| Mon, 01 Dec 2025 11:04:04 GMT | Why XDR-Analyst Is the Most In-Demand Cybersecurity Job Today | sabrina Pinto | [Read More](https://medium.com/p/87133ea11b0f) |
-| Mon, 01 Dec 2025 11:03:05 GMT | Why Synology Is Becoming the #1 Choice for Enterprise Backup & Data Protection in UAE & India | ANSI Technologies | [Read More](https://medium.com/p/aa385cecf45c) |
-| Mon, 01 Dec 2025 10:53:30 GMT | Microsoft Ignite 2025 Highlights | CtrlAltDefend | [Read More](https://medium.com/p/105dd9b07bb5) |
-| Mon, 01 Dec 2025 10:40:40 GMT | How To Become an Ethical Hacker in 2026: Complete Career Guide | cyber security Updates | [Read More](https://medium.com/p/cc569e953c36) |
-| Mon, 01 Dec 2025 10:39:45 GMT | NKSCX DeFi Watch: Yearn’s yETH exploit is a warning shot for complex yield products | NKSCX - Smart Crypto Trading | [Read More](https://medium.com/p/0ed534f5b807) |
-| Mon, 01 Dec 2025 10:37:06 GMT | Patriot CTF 2025 — Challenge Writeups | Hacktivities | [Read More](https://medium.com/p/4aff5aa64220) |
