@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 10:40:40 GMT | How To Become an Ethical Hacker in 2026: Complete Career Guide | cyber security Updates | [Read More](https://medium.com/p/cc569e953c36) |
+| Mon, 01 Dec 2025 10:39:45 GMT | NKSCX DeFi Watch: Yearn’s yETH exploit is a warning shot for complex yield products | NKSCX - Smart Crypto Trading | [Read More](https://medium.com/p/0ed534f5b807) |
+| Mon, 01 Dec 2025 10:37:06 GMT | Patriot CTF 2025 — Challenge Writeups | Hacktivities | [Read More](https://medium.com/p/4aff5aa64220) |
+| Mon, 01 Dec 2025 10:36:37 GMT | A Classic Hacking Technique Works on Some Quantum Computers | Nosheen Butt | [Read More](https://medium.com/p/1307de8cc745) |
+| Mon, 01 Dec 2025 10:32:28 GMT | What Is a ZIP Bomb? How Tiny Files Overload Computers | Natarajan C K | [Read More](https://medium.com/p/c450733610f1) |
+| Mon, 01 Dec 2025 10:31:53 GMT | Hire A Hacker For Any Kind Of Social Media Accounts: | Donley Mark | [Read More](https://medium.com/p/facc0d2349a9) |
+| Mon, 01 Dec 2025 10:31:33 GMT | 5 Τάσεις στις Υπηρεσίες Security που Αλλάζουν την Ασφάλεια στην Ελλάδα το 2025 | Fmagnews | [Read More](https://medium.com/p/4fb024f2ac1d) |
+| Mon, 01 Dec 2025 10:26:26 GMT | Why Smarter Defense Starts With AI-Driven Security | Balaji | [Read More](https://medium.com/p/d8c82862d726) |
+| Mon, 01 Dec 2025 10:25:38 GMT | How Australian Teams Can Stay Secure: Cyber Security Help for Remote & Hybrid Workplaces | Sentry Cyber | [Read More](https://medium.com/p/aac940cc20d8) |
 | Mon, 01 Dec 2025 10:23:48 GMT | Join My Cybersec Community (WhatsApp Group) | Abhijeet kumawat | [Read More](https://medium.com/p/a44117e0b997) |
 | Mon, 01 Dec 2025 10:20:04 GMT | AI-Driven Automation in Penetration Testing. | Aleksander Gorkowienko | [Read More](https://medium.com/p/5b4622f3ad14) |
 | Mon, 01 Dec 2025 10:16:12 GMT | Firewalls Explained Like You’re Five……Using Nmap as the Story | Fateyaly | [Read More](https://medium.com/p/9ef3d5e47773) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 04:32:28 GMT | Building a Modern Payment Flow in iOS: Lessons from Real SDK Development | Debashish kumar sahoo | [Read More](https://medium.com/p/8b69d72de8e5) |
 | Mon, 01 Dec 2025 04:31:58 GMT | Piercing the Proxy Veil to defend from DPRK fake remote workers | Francis O'Meara | [Read More](https://medium.com/p/bbe9635cd031) |
 | Mon, 01 Dec 2025 04:21:50 GMT | AI-Powered Cyberattacks: The New Digital Arms Race | Everyday CYBER | [Read More](https://medium.com/p/980f1cfe391b) |
-| Mon, 01 Dec 2025 04:20:06 GMT | The “Amazon of South Korea” Hit by Massive Data Breach: 33.7 Million Users Exposed | James Richardson | [Read More](https://medium.com/p/c61f0f66a378) |
-| Mon, 01 Dec 2025 04:17:27 GMT | How Facility Management Companies in Bangalore Contribute to Cost Savings and Operational… | NSS Guarding & Facility Management Pvt Ltd | [Read More](https://medium.com/p/9cefb485295f) |
-| Mon, 01 Dec 2025 04:16:22 GMT | Why Cybersecurity Awareness Training Is Now Every Company’s First Line of Defense | Maxatlasofficial | [Read More](https://medium.com/p/27d5f17ee11d) |
-| Mon, 01 Dec 2025 04:14:59 GMT | DEFENSE- IN -DEPTH : DETTY DECEMBER (The Fun, The Frenzy and The Fight To Stay Secured) | Oyeniyi Oluwatayo James | [Read More](https://medium.com/p/7466fcdca681) |
-| Mon, 01 Dec 2025 04:08:32 GMT | Apa Itu Responsiveness? Cara Membuat Website yang Cocok di HP dan Laptop | Anjas Rani | [Read More](https://medium.com/p/8dcc455d2dac) |
-| Mon, 01 Dec 2025 04:05:16 GMT | TryHackMe: Internal Writeup | cbev | [Read More](https://medium.com/p/075186ac37d2) |
-| Mon, 01 Dec 2025 04:02:10 GMT | How AI-Powered Fraud Detection Is Transforming Banking Security in 2025 | Edstellar Official | [Read More](https://medium.com/p/f4d40ec2a4af) |
-| Mon, 01 Dec 2025 03:54:35 GMT | Distro Linux Paling Populer | Jadi Hacker | [Read More](https://medium.com/p/a9efb6fdfb73) |
-| Mon, 01 Dec 2025 03:54:17 GMT | Best Trusted Computer Shop in Bangladesh – Sell Tech | Sell Tech BD | [Read More](https://medium.com/p/40e57481c529) |
