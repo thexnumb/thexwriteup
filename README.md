@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 10:23:48 GMT | Join My Cybersec Community (WhatsApp Group) | Abhijeet kumawat | [Read More](https://medium.com/p/a44117e0b997) |
+| Mon, 01 Dec 2025 10:20:04 GMT | AI-Driven Automation in Penetration Testing. | Aleksander Gorkowienko | [Read More](https://medium.com/p/5b4622f3ad14) |
+| Mon, 01 Dec 2025 10:16:12 GMT | Firewalls Explained Like You’re Five……Using Nmap as the Story | Fateyaly | [Read More](https://medium.com/p/9ef3d5e47773) |
+| Mon, 01 Dec 2025 10:15:03 GMT | Strengthening Cybersecurity with Managed IT Services A Complete Guide | Gokul Krishna | [Read More](https://medium.com/p/0cca05c60f6b) |
+| Mon, 01 Dec 2025 10:11:45 GMT | The Only 3 Cybersecurity Rules You Really Need to Remember | Nikhil Vetal | [Read More](https://medium.com/p/f3345935cb3e) |
+| Mon, 01 Dec 2025 10:10:56 GMT | DNS Demystified: The Hidden Backbone of the Internet and Its Cybersecurity Threats | Aniket Nayak | [Read More](https://medium.com/p/6f85d14267e4) |
+| Mon, 01 Dec 2025 10:08:50 GMT | Single-Event Detection Rules in Cybersecurity | Andrey Pautov | [Read More](https://medium.com/p/aa7498f665bd) |
+| Mon, 01 Dec 2025 10:05:29 GMT | Why Your Mid-Market Success Won’t Scale to Enterprise | Dan Schoenbaum | [Read More](https://medium.com/p/9c15eca55cc4) |
+| Mon, 01 Dec 2025 10:01:11 GMT | Capítulo 11 — O Guardião | Kleber Andrade | [Read More](https://medium.com/p/1255cac6affc) |
+| Mon, 01 Dec 2025 10:00:38 GMT | Don’t Let Compliance Kill Your Startup: A Non-Lawyer’s Roadmap | Glen - Compliance & Regulatory content Specialist | [Read More](https://medium.com/p/8b228ad38cdf) |
+| Mon, 01 Dec 2025 09:53:36 GMT | Practical Approach to What You Need to Know About the SHA1-Hulud Supply Chain Attack | Harsh Kahate | [Read More](https://medium.com/p/fc577e05a138) |
+| Mon, 01 Dec 2025 09:34:39 GMT | Your Beginner’s Guide To Hardware Hacking: Tools, Techniques & Where to Start | Redfox Security | [Read More](https://medium.com/p/70315dc408e5) |
 | Mon, 01 Dec 2025 09:20:10 GMT | CVE-2025–64446 - The FortiWeb Vulnerability Everyone Slept On | Motasem Hamdan | [Read More](https://medium.com/p/fd32bca67ed4) |
 | Mon, 01 Dec 2025 09:17:12 GMT | Did OpenAI leak your data…? | Swetha | [Read More](https://medium.com/p/90b666f75465) |
 | Mon, 01 Dec 2025 09:15:21 GMT | NPM = Far West : Il est temps d’arrêter cette folie | 01TEK | [Read More](https://medium.com/p/ccfaeb998b76) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 04:02:10 GMT | How AI-Powered Fraud Detection Is Transforming Banking Security in 2025 | Edstellar Official | [Read More](https://medium.com/p/f4d40ec2a4af) |
 | Mon, 01 Dec 2025 03:54:35 GMT | Distro Linux Paling Populer | Jadi Hacker | [Read More](https://medium.com/p/a9efb6fdfb73) |
 | Mon, 01 Dec 2025 03:54:17 GMT | Best Trusted Computer Shop in Bangladesh – Sell Tech | Sell Tech BD | [Read More](https://medium.com/p/40e57481c529) |
-| Mon, 01 Dec 2025 03:53:02 GMT | The Growing Importance of BMS Cybersecurity in Electric Vehicles | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/226de2dd4e16) |
-| Mon, 01 Dec 2025 03:43:47 GMT | Inside the Machine: Understanding ICS Components and Why Hackers Love Them | urjasec | [Read More](https://medium.com/p/c0ba8ee1b5e2) |
-| Mon, 01 Dec 2025 03:32:13 GMT | Authentication Coercion: How Attackers Turn Windows Trust Against You | Deven Chhajed | [Read More](https://medium.com/p/6e81504abef1) |
-| Mon, 01 Dec 2025 03:32:12 GMT | 3. Master the Basics, Break the Web: Cookies & Sessions | Abinesh M | [Read More](https://medium.com/p/3b284c456e98) |
-| Mon, 01 Dec 2025 03:28:09 GMT | Buy Bangladesh proxy for steadier Amazon multi-store logins | TokenShimmer | [Read More](https://medium.com/p/587b6257f329) |
-| Mon, 01 Dec 2025 03:22:17 GMT | A Student's Guide to Being an Entrepreneur | Aliyu Ibrahim | [Read More](https://medium.com/p/b6639904e507) |
-| Mon, 01 Dec 2025 03:21:05 GMT | Introducing the New CoPilot Customer Portal: Real-Time Security Visibility for Your Clients | SOCFortress | [Read More](https://medium.com/p/65480b6607b3) |
-| Mon, 01 Dec 2025 03:20:52 GMT | THE PLAYER OUTSIDE THE THEATER | Linimasakti | [Read More](https://medium.com/p/9667676dbe72) |
-| Mon, 01 Dec 2025 03:20:14 GMT | What is Adware? - VIIEGO | Rolando | [Read More](https://medium.com/p/bff445b23e6c) |
-| Mon, 01 Dec 2025 03:02:43 GMT | NordVPN Review: Brutally Honest Opinion After 6 Months of Daily Use | Daily Fin | [Read More](https://medium.com/p/bfaf0db4eca5) |
-| Mon, 01 Dec 2025 02:58:53 GMT | EO Broker Reviews, how to withdraw your assets. | Admin.Class | [Read More](https://medium.com/p/5132249a05e3) |
-| Mon, 01 Dec 2025 02:55:41 GMT | The $100 Billion Farce: When Denial Turns Toxic | Laurent | [Read More](https://medium.com/p/bff9fa36b36e) |
