@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 05:42:13 GMT | Rooting Kioptrix — A Manual Exploitation Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/d266dbcb6a29) |
+| Mon, 01 Dec 2025 05:31:08 GMT | Running a business in today’s digital landscape without proper cyber security is like leaving the… | Adits Australia | [Read More](https://medium.com/p/d0bc36e5a222) |
+| Mon, 01 Dec 2025 05:24:51 GMT | $1,000 -critical Critical Log4Shell Vulnerability | KILLUA_UCHIHA | [Read More](https://medium.com/p/2d55129c9c1b) |
+| Mon, 01 Dec 2025 05:24:46 GMT | How I Lock Down IAM Roles (My Exact Checklist) | Faruk Ahmed | [Read More](https://medium.com/p/efb245ceba2b) |
+| Mon, 01 Dec 2025 05:19:58 GMT | The Windows Security Journey — BitLocker | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/370d62d70d7d) |
+| Mon, 01 Dec 2025 05:16:20 GMT | Enhance Your Skills with a Professional Cybersecurity Course in Nepal | Tech Trends | [Read More](https://medium.com/p/2ccfc11e13dd) |
 | Mon, 01 Dec 2025 05:01:16 GMT | The “Good Enough” Lie in Engineering | Andrew Vittiglio | [Read More](https://medium.com/p/93e0c2e415e5) |
+| Mon, 01 Dec 2025 05:01:14 GMT | 10 Emerging Technology Trends in 2025 That Are Already Changing the World | Webnet Innovation | [Read More](https://medium.com/p/7b993822f4cd) |
 | Mon, 01 Dec 2025 04:59:47 GMT | OWASP Top 10 2025 for Security Researchers How to Detect, Analyze, and Report Modern… | Shanmuksrisai | [Read More](https://medium.com/p/bf2e396391ea) |
+| Mon, 01 Dec 2025 04:57:18 GMT | We Are Building Ghosts in the Machine (While the Exorcists Sleep) | BBSRGUY | [Read More](https://medium.com/p/0cfd39c9a78d) |
+| Mon, 01 Dec 2025 04:56:17 GMT | Git Hook Privilege Escalation — Hero-CTF Write‑Up | Nmullenski | [Read More](https://medium.com/p/b40300dc0e4a) |
+| Mon, 01 Dec 2025 04:55:32 GMT | ️ OWASP Top 10 2025 — What Every Business Must Know Before Their Next Security Audit or ISO… | Shanmuksrisai | [Read More](https://medium.com/p/ce412fd4fbac) |
 | Mon, 01 Dec 2025 04:51:24 GMT | Access Management Market Set to Reach $31.25 | Gauri Kale | [Read More](https://medium.com/p/0211f38290bc) |
+| Mon, 01 Dec 2025 04:42:05 GMT | 英国のAIセキュリティ企業がGoogle Antigravityの脆弱性を報告 (2025年12月1日公開) | Eiji Sasahara (笹原英司), Ph.D., MBA | [Read More](https://medium.com/p/e06c73be8df0) |
 | Mon, 01 Dec 2025 04:42:04 GMT | Data Protection and Privacy in 2025: Securing Data Across Its Lifecycle | Devarshi Acharya | [Read More](https://medium.com/p/7f1db413fe38) |
 | Mon, 01 Dec 2025 04:32:28 GMT | Building a Modern Payment Flow in iOS: Lessons from Real SDK Development | Debashish kumar sahoo | [Read More](https://medium.com/p/8b69d72de8e5) |
 | Mon, 01 Dec 2025 04:31:58 GMT | Piercing the Proxy Veil to defend from DPRK fake remote workers | Francis O'Meara | [Read More](https://medium.com/p/bbe9635cd031) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 18:56:37 GMT | ✨ The Holiday Scam Surge No One’s Talking About | Dr. Elsie M. Casimir | [Read More](https://medium.com/p/d5a428ca60a2) |
 | Sun, 30 Nov 2025 18:53:47 GMT | Cybersecurity Is Hard | Adeluworker | [Read More](https://medium.com/p/032ec4343e9b) |
 | Sun, 30 Nov 2025 18:45:32 GMT | ARK DEV: Transformando la Innovación Tecnológica | Joel Andres C | [Read More](https://medium.com/p/f1f45cb93a72) |
-| Sun, 30 Nov 2025 18:40:23 GMT | The One Cyber Hygiene Checklist Every User Must Follow Today | Payaljlathi | [Read More](https://medium.com/p/bf03664db29e) |
-| Sun, 30 Nov 2025 18:21:31 GMT | ️ Play Integrity API Setup Guide | Mohamed Elsdody | [Read More](https://medium.com/p/d1aaa0c4f504) |
-| Sun, 30 Nov 2025 18:18:22 GMT | What Just and Unjust Wars Teaches Us The Morality of what’s happening inside The Nine Dash Line | Alvin Liu | [Read More](https://medium.com/p/34960ec236a7) |
-| Sun, 30 Nov 2025 18:15:28 GMT | Inside the Shai-Hulud npm Supply-Chain Attack: What Happened, What Was Stolen, and Why Every… | Arun Kumar | [Read More](https://medium.com/p/67bdb9883b6c) |
-| Sun, 30 Nov 2025 18:02:45 GMT | HTB Challenge — Embryonic Plant | Fardeen A. | [Read More](https://medium.com/p/ac17e032bf44) |
-| Sun, 30 Nov 2025 18:02:21 GMT | Security Principles THM walkthrough | Harshana Lasith weragoda | [Read More](https://medium.com/p/5f46659f7628) |
-| Sun, 30 Nov 2025 17:57:00 GMT | Guilty Until Proven Innocent | Jeremy Tarkington | [Read More](https://medium.com/p/18ed7ebec38a) |
-| Sun, 30 Nov 2025 17:44:11 GMT | Multipart Form Data OutSystems | Sabaoon Bedar | [Read More](https://medium.com/p/1c660c69be5e) |
-| Sun, 30 Nov 2025 17:42:05 GMT | fácil Splunk Enterprise Security | Antonella Blasetti | [Read More](https://medium.com/p/77bfd35d692a) |
-| Sun, 30 Nov 2025 17:40:30 GMT | Padelify Tryhackme From Blind XSS to RCE | Contact Aryan Here | [Read More](https://medium.com/p/5fe52b92f17c) |
-| Sun, 30 Nov 2025 17:38:05 GMT | What Is a WiFi Deauthentication Attack? How Fake Disconnect Messages Work | Natarajan C K | [Read More](https://medium.com/p/6b3a74b4abab) |
