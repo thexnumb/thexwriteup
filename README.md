@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 22:40:50 GMT | Security Is NOT Customer Service and Treating It That Way Is a Major Risk factor. | Peter Uliano | [Read More](https://medium.com/p/342a9f1a0566) |
 | Mon, 01 Dec 2025 22:17:13 GMT | 3I/ATLAS Revealed a New National Security Problem, and It Is Not Aliens | Alton lockhart | [Read More](https://medium.com/p/a8d25cb72d95) |
 | Mon, 01 Dec 2025 22:01:18 GMT | Why Cybersecurity Matters Now More Than Ever — Especially for Young Africans | Rahma Nasir Iro | [Read More](https://medium.com/p/ab1fa08c7c73) |
 | Mon, 01 Dec 2025 22:00:32 GMT | The Fundamentals of API Security and Why It Matters Today | Hadia Rahmani | [Read More](https://medium.com/p/495a8b6948c5) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 15:58:59 GMT | Gaillac Machine Learning for Econometrics: Complete 2026 Regional Guide | Motherlandlove | [Read More](https://medium.com/p/f94aeaf7fab2) |
 | Mon, 01 Dec 2025 15:45:58 GMT | HeroCTF_v7 (Web) | Mohamed yasser | [Read More](https://medium.com/p/76e4ff895d05) |
 | Mon, 01 Dec 2025 15:42:45 GMT | Blue — TryHackMe Walkthrough | Ashba Arshad | [Read More](https://medium.com/p/7ea2e6bbbb43) |
-| Mon, 01 Dec 2025 15:41:35 GMT | You’re Designing Payment Wrong — and it could cost you | Nikesh Kazi | [Read More](https://medium.com/p/9403e4c72920) |
