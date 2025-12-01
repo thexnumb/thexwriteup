@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Dec 2025 05:01:16 GMT | The “Good Enough” Lie in Engineering | Andrew Vittiglio | [Read More](https://medium.com/p/93e0c2e415e5) |
+| Mon, 01 Dec 2025 04:59:47 GMT | OWASP Top 10 2025 for Security Researchers How to Detect, Analyze, and Report Modern… | Shanmuksrisai | [Read More](https://medium.com/p/bf2e396391ea) |
+| Mon, 01 Dec 2025 04:51:24 GMT | Access Management Market Set to Reach $31.25 | Gauri Kale | [Read More](https://medium.com/p/0211f38290bc) |
+| Mon, 01 Dec 2025 04:42:04 GMT | Data Protection and Privacy in 2025: Securing Data Across Its Lifecycle | Devarshi Acharya | [Read More](https://medium.com/p/7f1db413fe38) |
+| Mon, 01 Dec 2025 04:32:28 GMT | Building a Modern Payment Flow in iOS: Lessons from Real SDK Development | Debashish kumar sahoo | [Read More](https://medium.com/p/8b69d72de8e5) |
+| Mon, 01 Dec 2025 04:31:58 GMT | Piercing the Proxy Veil to defend from DPRK fake remote workers | Francis O'Meara | [Read More](https://medium.com/p/bbe9635cd031) |
+| Mon, 01 Dec 2025 04:21:50 GMT | AI-Powered Cyberattacks: The New Digital Arms Race | Everyday CYBER | [Read More](https://medium.com/p/980f1cfe391b) |
+| Mon, 01 Dec 2025 04:20:06 GMT | The “Amazon of South Korea” Hit by Massive Data Breach: 33.7 Million Users Exposed | James Richardson | [Read More](https://medium.com/p/c61f0f66a378) |
+| Mon, 01 Dec 2025 04:17:27 GMT | How Facility Management Companies in Bangalore Contribute to Cost Savings and Operational… | NSS Guarding & Facility Management Pvt Ltd | [Read More](https://medium.com/p/9cefb485295f) |
+| Mon, 01 Dec 2025 04:16:22 GMT | Why Cybersecurity Awareness Training Is Now Every Company’s First Line of Defense | Maxatlasofficial | [Read More](https://medium.com/p/27d5f17ee11d) |
+| Mon, 01 Dec 2025 04:14:59 GMT | DEFENSE- IN -DEPTH : DETTY DECEMBER (The Fun, The Frenzy and The Fight To Stay Secured) | Oyeniyi Oluwatayo James | [Read More](https://medium.com/p/7466fcdca681) |
+| Mon, 01 Dec 2025 04:05:16 GMT | TryHackMe: Internal Writeup | cbev | [Read More](https://medium.com/p/075186ac37d2) |
+| Mon, 01 Dec 2025 04:02:10 GMT | How AI-Powered Fraud Detection Is Transforming Banking Security in 2025 | Edstellar Official | [Read More](https://medium.com/p/f4d40ec2a4af) |
+| Mon, 01 Dec 2025 03:54:35 GMT | Distro Linux Paling Populer | Jadi Hacker | [Read More](https://medium.com/p/a9efb6fdfb73) |
 | Mon, 01 Dec 2025 03:54:17 GMT | Best Trusted Computer Shop in Bangladesh – Sell Tech | Sell Tech BD | [Read More](https://medium.com/p/40e57481c529) |
+| Mon, 01 Dec 2025 03:53:02 GMT | The Growing Importance of BMS Cybersecurity in Electric Vehicles | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/226de2dd4e16) |
 | Mon, 01 Dec 2025 03:43:47 GMT | Inside the Machine: Understanding ICS Components and Why Hackers Love Them | urjasec | [Read More](https://medium.com/p/c0ba8ee1b5e2) |
 | Mon, 01 Dec 2025 03:32:13 GMT | Authentication Coercion: How Attackers Turn Windows Trust Against You | Deven Chhajed | [Read More](https://medium.com/p/6e81504abef1) |
 | Mon, 01 Dec 2025 03:32:12 GMT | 3. Master the Basics, Break the Web: Cookies & Sessions | Abinesh M | [Read More](https://medium.com/p/3b284c456e98) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 30 Nov 2025 17:42:05 GMT | fácil Splunk Enterprise Security | Antonella Blasetti | [Read More](https://medium.com/p/77bfd35d692a) |
 | Sun, 30 Nov 2025 17:40:30 GMT | Padelify Tryhackme From Blind XSS to RCE | Contact Aryan Here | [Read More](https://medium.com/p/5fe52b92f17c) |
 | Sun, 30 Nov 2025 17:38:05 GMT | What Is a WiFi Deauthentication Attack? How Fake Disconnect Messages Work | Natarajan C K | [Read More](https://medium.com/p/6b3a74b4abab) |
-| Sun, 30 Nov 2025 17:37:17 GMT | How I Tricked an AI Into Spilling Its Secrets (And Made a Pretty Penny) | Iski | [Read More](https://medium.com/p/b35cb2374f63) |
-| Sun, 30 Nov 2025 17:32:36 GMT | Our AI Missed 847 Alerts Over 19 Days. We Lost $18.7M in Stolen IP. | AhmedAbdelmenem | [Read More](https://medium.com/p/f621c008a748) |
-| Sun, 30 Nov 2025 17:26:54 GMT | Why Self-Supervised Learning Is Becoming the Future of Intrusion Detection | Faysal Dhimbil | [Read More](https://medium.com/p/6a54659a64fe) |
-| Sun, 30 Nov 2025 17:26:07 GMT | Shyoski | SHYOSKI | [Read More](https://medium.com/p/d35d161f7e3a) |
-| Sun, 30 Nov 2025 17:18:28 GMT | Proving Grounds - Fish | jniket | [Read More](https://medium.com/p/686641bf1bdc) |
-| Sun, 30 Nov 2025 17:14:53 GMT | Cybersecurity Foundations: 24 Essential Terms Everyone Should Understand | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/dd02425b5c9d) |
-| Sun, 30 Nov 2025 17:11:10 GMT | How I Stay Grounded Leading in Cybersecurity My Non-Negotiables: Faith, Family, and Resilience | Fook Hwa Tan | [Read More](https://medium.com/p/5ea412adf81e) |
-| Sun, 30 Nov 2025 17:09:26 GMT | A Client’s Transformation Story From Firefighting to Foresight: A Client’s Journey to Cyber… | Fook Hwa Tan | [Read More](https://medium.com/p/43324e32bc9a) |
-| Sun, 30 Nov 2025 17:07:02 GMT | The Rise of Everyday Cyber Threats: How Hackers Are Targeting Ordinary People in 2025 | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/d7024ad6a2f5) |
-| Sun, 30 Nov 2025 17:03:23 GMT | TryHackMe: Anonymous — CTF Walkthrough | Sefa Toptancı | [Read More](https://medium.com/p/97000c5fb0be) |
-| Sun, 30 Nov 2025 17:02:32 GMT | Wireshark for DFIR: A Practical Guide for Digital Forensics & Incident Response | ghostyjoe | [Read More](https://medium.com/p/1f9b84b8f028) |
-| Sun, 30 Nov 2025 17:02:10 GMT | The Thing Men Never Talk About Happened to Me at 15 | Michael Cortese | [Read More](https://medium.com/p/9a0bc07b00cf) |
-| Sun, 30 Nov 2025 17:02:01 GMT | Cybersecurity in 2025: Why It’s Everyone’s Business Now | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/e746faceee11) |
-| Sun, 30 Nov 2025 16:59:55 GMT | Get To Know Vulnerability Assessment And Tools Used In Kali Linux | LUTSVIA | [Read More](https://medium.com/p/b7e36160f40b) |
-| Sun, 30 Nov 2025 16:49:59 GMT | A Zero-Day in Your Browser: What to Do Right Now | Hania Khan | [Read More](https://medium.com/p/77135bd19779) |
