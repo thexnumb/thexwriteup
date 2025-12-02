@@ -12,12 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 17:33:34 GMT | How to Fix Broken Authentication & Session Management | Ibtissam | [Read More](https://medium.com/p/6fee46c96597) |
+| Tue, 02 Dec 2025 17:32:15 GMT | The People Insulting You Online May Not Be Local — Elon Musk Just Exposed Their True Base. | Mohamed Bakry | [Read More](https://medium.com/p/b97fec57c362) |
+| Tue, 02 Dec 2025 17:27:05 GMT | The Windows Security Journey — PowerShell Execution Policy | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3599753f044e) |
+| Tue, 02 Dec 2025 17:19:20 GMT | Challenges for Healthcare Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/53aa18ac4263) |
 | Tue, 02 Dec 2025 17:16:01 GMT | Portswigger Authentication vulnerabilities Kullanıcı parolalarını değiştirme | Songül Kızılay Özügürler | [Read More](https://medium.com/p/80e5ee49dc8f) |
+| Tue, 02 Dec 2025 17:15:09 GMT | GenAI and Pirates: Can It Read Books and Rip-off Content For Learning? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3ef4d87d13bf) |
 | Tue, 02 Dec 2025 17:13:15 GMT | What happens to Google in the onchain era? | Arash Majnoun | [Read More](https://medium.com/p/c9322deecb94) |
 | Tue, 02 Dec 2025 17:12:30 GMT | Living off the Steam Machine | kinu | [Read More](https://medium.com/p/a4491394aa9f) |
 | Tue, 02 Dec 2025 17:11:24 GMT | How to Prepare for the CISSP Exam for Free (2025 Guide) | The Daily Cyber News | [Read More](https://medium.com/p/e7bdce44c021) |
 | Tue, 02 Dec 2025 17:09:09 GMT | Top 10 SOC Tools in 2026 (AI-Driven Edition): The Ultimate Guide for Cybersecurity Students | Vigneshmani Telagamsetti | [Read More](https://medium.com/p/af0dbe500a99) |
 | Tue, 02 Dec 2025 17:04:39 GMT | Advent of Cyber 2025 - Day 2: Phishing — Merry Clickmas | D4m.sh | [Read More](https://medium.com/p/1cf10a6e5d39) |
+| Tue, 02 Dec 2025 17:03:28 GMT | DRLVaultV3, 402Bridge, Sharwa Finance: $263K Lost to Slippage Failures and Key Compromises | Olympix | [Read More](https://medium.com/p/f2a8df822150) |
 | Tue, 02 Dec 2025 17:02:34 GMT | AI in Email Platforms in 2026: Big Opportunities, Bigger Risks — And Why Email Security Needs a… | HEXA AI SYSTEMS | [Read More](https://medium.com/p/761a628583ea) |
 | Tue, 02 Dec 2025 17:01:11 GMT | Extropy Security Bytes: w48, 2025 | Extropy.IO | [Read More](https://medium.com/p/9fd53eadd771) |
 | Tue, 02 Dec 2025 16:59:08 GMT | How I Discovered 1,400+ Users’ PII Through a GraphQL Query — and Uncovered 5 More Bugs Using the… | Ayaa Hamed | [Read More](https://medium.com/p/389d8e7d8deb) |
@@ -29,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 16:38:19 GMT | AI Agents: AresGPT Prompt Engineering for Cyber Defenders a CompTIA Security+ All Study Guide | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/1967a3a2cb2b) |
 | Tue, 02 Dec 2025 16:34:29 GMT | Episode 13: “The Printer That Ate Q3” | Dr. House In I.T. | [Read More](https://medium.com/p/eef35ca1d27d) |
 | Tue, 02 Dec 2025 16:32:13 GMT | October Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/805a45b45e46) |
+| Tue, 02 Dec 2025 16:30:21 GMT | TryHackMe — Neighbour — Writeup | HackRight | [Read More](https://medium.com/p/bfb72a55d2e4) |
 | Tue, 02 Dec 2025 16:24:54 GMT | “Middle Mayhem” BTLO Lab Walkthrough | Jagadishtripathy | [Read More](https://medium.com/p/9e1622b2ec59) |
 | Tue, 02 Dec 2025 16:23:48 GMT | 5 Reasons Your Garage Door Won’t Close and How to Fix Them | Up & Down Garage Door Services | [Read More](https://medium.com/p/3d3a866b7d80) |
 | Tue, 02 Dec 2025 16:22:40 GMT | Capítulo 12 — Ecos da Rede | Kleber Andrade | [Read More](https://medium.com/p/3443714176c3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 12:42:56 GMT | Masayoshi Son’s High-Stakes Gamble: Tears, Nvidia, And The AI Revolution | Vertrose | [Read More](https://medium.com/p/6a5fb1188f28) |
 | Tue, 02 Dec 2025 12:32:30 GMT | The Worst Feature in Java That Everyone Pretends Is Genius | The Dev Notebook | [Read More](https://medium.com/p/f3875d9ec1e4) |
 | Tue, 02 Dec 2025 12:32:17 GMT | Not phishing, not hacking: it’s much worse. And you probably have it installed already. | Germano Costi | [Read More](https://medium.com/p/0d6b75009842) |
-| Tue, 02 Dec 2025 12:30:02 GMT | Machine Learning Astro Bot Achievement in Space Robotics Explained | Motherlandlove | [Read More](https://medium.com/p/5a70439aa95c) |
-| Tue, 02 Dec 2025 12:27:00 GMT | The Inverse Hype Cycle: Why Hype Surrounding New Technologies Prevents Critical Debates | Marcus Neser | [Read More](https://medium.com/p/518a3c56a5d4) |
-| Tue, 02 Dec 2025 12:22:52 GMT | Are VPNs Legal? A Simple Global Guide for 2025 | Awais Khan | [Read More](https://medium.com/p/5540216cc59c) |
-| Tue, 02 Dec 2025 12:22:12 GMT | AI Security is a Workflow Problem | Parminder Singh | [Read More](https://medium.com/p/7263bdcb382a) |
-| Tue, 02 Dec 2025 12:19:42 GMT | The Future of Cybersecurity: Protecting a Digital-First World | plutosec | [Read More](https://medium.com/p/077a253e2dda) |
-| Tue, 02 Dec 2025 12:18:31 GMT | Remote Phone Monitoring: Is It Possible to Spy on My Wife’s Phone Without Touching It? | Peterteggs | [Read More](https://medium.com/p/09960061ed3a) |
-| Tue, 02 Dec 2025 12:16:38 GMT | Kya dekhte ho…? | Tanmay Naik | [Read More](https://medium.com/p/acf5613bf82b) |
