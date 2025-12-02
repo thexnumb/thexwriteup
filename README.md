@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 06:28:19 GMT | Beyond the Firewall: Engineering a WAF-Aware Detection Pipeline for the OWASP Top 10 | Nmullenski | [Read More](https://medium.com/p/ed7d5c08baca) |
+| Tue, 02 Dec 2025 06:22:00 GMT | Your Laptop Can’t Belong to Two Companies — Here’s Why | Manpreetsingh | [Read More](https://medium.com/p/c941a968e5bc) |
+| Tue, 02 Dec 2025 06:16:50 GMT | Securing APIs — Techniques to Protect Your Systems | S.Ali | [Read More](https://medium.com/p/5a0792996c89) |
+| Tue, 02 Dec 2025 06:12:56 GMT | My Ring Doorbell Wouldn’t Connect to WiFi for 3 Hours — Here’s the Stupid-Simple Fix That Finally… | Bryan Collins | [Read More](https://medium.com/p/6e7b1aa06531) |
+| Tue, 02 Dec 2025 06:02:33 GMT | Why I Stopped Trusting Third-Party NPM Packages (And the Architecture We Built Instead) | Michael Preston | [Read More](https://medium.com/p/485dbc75adf0) |
+| Tue, 02 Dec 2025 06:01:25 GMT | Build the Foundation of Cyber Defense Excellence — Certified Ethical Hacking Essentials (CEHE) | Adhiraj Kasabe | [Read More](https://medium.com/p/f4baa1872469) |
+| Tue, 02 Dec 2025 05:55:38 GMT | WSLGuardian -A Lightweight Security Monitoring Layer for WSL2 Environments | Foxtraveler | [Read More](https://medium.com/p/2a49c49e1832) |
+| Tue, 02 Dec 2025 05:53:45 GMT | Ban on Free & Unregistered VPNs: Why Pakistan Needs a Secure Digital Shield Now | Zunaira Malik | [Read More](https://medium.com/p/3a4085c8e601) |
+| Tue, 02 Dec 2025 05:49:42 GMT | ️ Blog 60 — AWS Cost Optimization Best Practices | Prutha_Dongre | [Read More](https://medium.com/p/57b8359d6f7a) |
+| Tue, 02 Dec 2025 05:48:12 GMT | Zero to Hero: Your Definitive Roadmap to Mastering AWS Cloud Security and Certification | Shweta Papnai | [Read More](https://medium.com/p/3abb486b2498) |
+| Tue, 02 Dec 2025 05:42:29 GMT | The New “Mandatory” App on Your Phone: India’s Cyber Safety Push | Himanshu Dhiman | [Read More](https://medium.com/p/a822e4e45e5a) |
+| Tue, 02 Dec 2025 05:41:44 GMT | A Murder in the Park… and the Silent Killer Inside Your Engineering Culture | Yaseenmd | [Read More](https://medium.com/p/417d2390b8c6) |
 | Tue, 02 Dec 2025 05:31:44 GMT | The Surprising Trillion-Dollar Opportunity Hiding in Plain Sight | StackAlpha IO | [Read More](https://medium.com/p/23fcd7c72861) |
 | Tue, 02 Dec 2025 05:28:43 GMT | The Bug That Bled the Internet | Ravi Patil | [Read More](https://medium.com/p/0360d3a09988) |
 | Tue, 02 Dec 2025 05:23:12 GMT | 4 Critical Vulnerabilities that Created Complete Systemic Failure In a Popular WordPress Deployment | Tyreek Haynes | [Read More](https://medium.com/p/9a00bbae40ed) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 20:15:37 GMT | Advent of Cyber 2025 — Day 1: Chasing Eggsploits with the Linux CLI | Akshat Patel | [Read More](https://medium.com/p/96a4ae0c7180) |
 | Mon, 01 Dec 2025 20:07:26 GMT | AI Agents: Red Teaming with AresGPT and EthicalEngine AI — Scaling GPTs Securely | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/5036686db704) |
 | Mon, 01 Dec 2025 20:07:21 GMT | Beyond <script>: Weaponizing <? and </ for Next-Gen XSS | KindOne | [Read More](https://medium.com/p/792716317def) |
-| Mon, 01 Dec 2025 20:06:03 GMT | Portswigger Walkthrough Lab: Username enumeration via subtly different responses | Mukilan Baskaran | [Read More](https://medium.com/p/715467f0d2e8) |
-| Mon, 01 Dec 2025 20:05:26 GMT | Oyunlardaki Anti-Hile Sistemleri Nasıl Çalışır? | HSD OstimTech | [Read More](https://medium.com/p/49cab2dd3ec9) |
-| Mon, 01 Dec 2025 20:03:39 GMT | The 3 Biggest Risks of LLMs Going Into 2026: Hallucination, Hidden Costs, and Data Leakage | Serdar Göksu | [Read More](https://medium.com/p/f952fcb94506) |
-| Mon, 01 Dec 2025 19:51:30 GMT | Yes, AI Can Help Cybersecurity Too | BillfordX | [Read More](https://medium.com/p/4ef4e01b8927) |
-| Mon, 01 Dec 2025 19:47:37 GMT | SOC Metrics and Objectives Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/9bed69768580) |
-| Mon, 01 Dec 2025 19:38:31 GMT | Bugcrowd for Ethical Hackers: A Complete Framework to Build Reputation, Earn Trust, and Master… | Penough | [Read More](https://medium.com/p/3cbe77180eac) |
-| Mon, 01 Dec 2025 19:24:17 GMT | HeartBleed — explained | Viodex | [Read More](https://medium.com/p/8b8af03b4b81) |
-| Mon, 01 Dec 2025 19:21:55 GMT | My Journey to Cyber Security | nothingKnew | [Read More](https://medium.com/p/95fe6ae1d373) |
-| Mon, 01 Dec 2025 19:20:34 GMT | जब एक लीक हुआ क्लिप वायरल हो जाता है: टूटती समाज की असलियत | Author Anant Yadav | [Read More](https://medium.com/p/9e86023d62fc) |
-| Mon, 01 Dec 2025 19:15:24 GMT | Web Nedir? Websitesi Nasıl Çalışır? HTTP/HTTPS Detaylı Rehber | Tetra403 | [Read More](https://medium.com/p/3ed6afa440c5) |
-| Mon, 01 Dec 2025 19:10:45 GMT | When a Leaked Clip Goes Viral, What Really Breaks Is a Society: India’s Digital Voyeurism Problem | Author Anant Yadav | [Read More](https://medium.com/p/0b91267b9c3f) |
-| Mon, 01 Dec 2025 18:55:44 GMT | Microsoft Entra: The New Identity Security Layer Every Organization Needs | Sudhakar Tiwari | [Read More](https://medium.com/p/26c025d46cc9) |
