@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 20:26:03 GMT | Cybersecurity and Economic Resilience: Why Protecting Data Means Protecting Growth | Chaimae | [Read More](https://medium.com/p/ed6b05fd2532) |
+| Tue, 02 Dec 2025 20:24:22 GMT | Introduction to SIEM — Tryhackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/ae9308f83724) |
+| Tue, 02 Dec 2025 20:18:20 GMT | Day 2 — TCP, UDP, and HTTP Deep Packet Analysis | Oluwadamilare Adeosun | [Read More](https://medium.com/p/674bb0927f64) |
+| Tue, 02 Dec 2025 20:18:07 GMT | CVE Program Report for Quarter 3 Calendar Year (Q3 CY) 2025 | CVE Program Blog | [Read More](https://medium.com/p/11ed542f0e47) |
+| Tue, 02 Dec 2025 20:08:03 GMT | Privacy in RAG systems | Muhammad Jilshak K | [Read More](https://medium.com/p/856531c48ef7) |
+| Tue, 02 Dec 2025 20:02:24 GMT | Top 5 Zero Trust Authentication Methods in 2025 | TechPreneur | [Read More](https://medium.com/p/a46aef1f4516) |
+| Tue, 02 Dec 2025 20:01:52 GMT | How VirusTotal Uses File Hashes to Detect and Classify Potential Malware | Daniel | [Read More](https://medium.com/p/b7e833e0a88a) |
+| Tue, 02 Dec 2025 20:01:17 GMT | Welcome UpScrolled — A new censorship-free social media platform | MoaazBinSajjad | [Read More](https://medium.com/p/a3616cba7064) |
+| Tue, 02 Dec 2025 19:53:39 GMT | How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty | Kayra Öksüz | [Read More](https://medium.com/p/4f23c626b06e) |
+| Tue, 02 Dec 2025 19:45:43 GMT | How AI, Automation, and Zero Trust Are Shaping the Future of Cybersecurity | Techridge Solutions | [Read More](https://medium.com/p/bbe8b4935e3b) |
+| Tue, 02 Dec 2025 19:30:39 GMT | Adversarial Data Analytics in LLM-Augmented Pipelines | Nuno Lopes | [Read More](https://medium.com/p/679080a045bc) |
 | Tue, 02 Dec 2025 19:30:20 GMT | How I solved Task 1 in the Seine Incident challenge-TryHackMe. | Abhilash H | [Read More](https://medium.com/p/7a524809bfc0) |
 | Tue, 02 Dec 2025 19:29:58 GMT | Pwned1 Walkthrough | IshhIshneet | [Read More](https://medium.com/p/6d91b9771d9d) |
 | Tue, 02 Dec 2025 19:28:19 GMT | The Southward Advance That Does Not Exist: A Technical Breakdown of Misinterpreted Threats | Put me in a Chanel | [Read More](https://medium.com/p/0600073b1349) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 15:22:39 GMT | The Hackers Labs Writeup — Pacharán (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0b6a83be7de1) |
 | Tue, 02 Dec 2025 15:20:11 GMT | Hack With Me: A Side Quest Story. Advent of Cyber 2025 Day 1 | mikesploit | [Read More](https://medium.com/p/55c382b81a6b) |
 | Tue, 02 Dec 2025 15:19:12 GMT | How to Use Amazon Q Developer Securely in Enterprises | Davebhargavi | [Read More](https://medium.com/p/d41b44d989b7) |
-| Tue, 02 Dec 2025 15:17:31 GMT | Top 10 Cybersecurity Concerns Keeping Mid-Market CEOs Awake in 2025 | Hello @ Octellient | [Read More](https://medium.com/p/7b5e1d78afbd) |
-| Tue, 02 Dec 2025 15:13:28 GMT | NFTs: Digital Containers for Real-World Assets | pablochacon | [Read More](https://medium.com/p/a6f8fb001c65) |
-| Tue, 02 Dec 2025 15:05:28 GMT | One Chrome Crash, 100 Exposed Accounts: My First Brush with Ethical Hacking | Yash Katiyara | [Read More](https://medium.com/p/747432d9cd61) |
-| Tue, 02 Dec 2025 15:03:00 GMT | Situational Awareness and Murphy’s law | Boukman Byrd | [Read More](https://medium.com/p/0956c6bc75ac) |
-| Tue, 02 Dec 2025 15:02:51 GMT | The Art of fooling caches (Part 1) | Farzamahsan | [Read More](https://medium.com/p/6c91a1e7a928) |
-| Tue, 02 Dec 2025 15:02:09 GMT | Cyber Briefing: 2025.12.02 | CyberMaterial | [Read More](https://medium.com/p/3843ab3123ef) |
-| Tue, 02 Dec 2025 14:56:57 GMT | Silent Backdoors: Why USB Ports Still Break Security | Geoffrey Wenger | [Read More](https://medium.com/p/c4436637aa70) |
-| Tue, 02 Dec 2025 14:56:05 GMT | DDoS Attacks And The Growing Threat To Online Services For Modern Businesses Now | Geoffrey Wenger | [Read More](https://medium.com/p/64190e125518) |
-| Tue, 02 Dec 2025 14:54:51 GMT | Day 2 — The Typed Letter | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/d63f46e3fa96) |
-| Tue, 02 Dec 2025 14:50:55 GMT | Using Python, Cloudflare and Robots.txt to Control How AI Sees Your Site | Shauvik Kumar | [Read More](https://medium.com/p/102d24e6695b) |
-| Tue, 02 Dec 2025 14:48:37 GMT | 7 Python Projects To Get You Started With Cybersecurity and Ethical Hacking | supasuge | [Read More](https://medium.com/p/c74885faa021) |
