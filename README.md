@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 15:22:51 GMT | Cyber Security Market: Rising Threats, Advanced Technologies, and Global Growth Opportunities | Desouza Nancy | [Read More](https://medium.com/p/61e7c9eb40ca) |
+| Tue, 02 Dec 2025 15:19:12 GMT | How to Use Amazon Q Developer Securely in Enterprises | Davebhargavi | [Read More](https://medium.com/p/d41b44d989b7) |
+| Tue, 02 Dec 2025 15:17:31 GMT | Top 10 Cybersecurity Concerns Keeping Mid-Market CEOs Awake in 2025 | Hello @ Octellient | [Read More](https://medium.com/p/7b5e1d78afbd) |
+| Tue, 02 Dec 2025 15:13:28 GMT | NFTs: Digital Containers for Real-World Assets | pablochacon | [Read More](https://medium.com/p/a6f8fb001c65) |
+| Tue, 02 Dec 2025 15:05:28 GMT | One Chrome Crash, 100 Exposed Accounts: My First Brush with Ethical Hacking | Yash Katiyara | [Read More](https://medium.com/p/747432d9cd61) |
+| Tue, 02 Dec 2025 15:03:00 GMT | Situational Awareness and Murphy’s law | Boukman Byrd | [Read More](https://medium.com/p/0956c6bc75ac) |
+| Tue, 02 Dec 2025 15:02:51 GMT | The Art of fooling caches (Part 1) | Farzamahsan | [Read More](https://medium.com/p/6c91a1e7a928) |
+| Tue, 02 Dec 2025 15:02:09 GMT | Cyber Briefing: 2025.12.02 | CyberMaterial | [Read More](https://medium.com/p/3843ab3123ef) |
+| Tue, 02 Dec 2025 14:56:57 GMT | Silent Backdoors: Why USB Ports Still Break Security | Geoffrey Wenger | [Read More](https://medium.com/p/c4436637aa70) |
+| Tue, 02 Dec 2025 14:56:05 GMT | DDoS Attacks And The Growing Threat To Online Services For Modern Businesses Now | Geoffrey Wenger | [Read More](https://medium.com/p/64190e125518) |
+| Tue, 02 Dec 2025 14:54:51 GMT | Day 2 — The Typed Letter | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/d63f46e3fa96) |
+| Tue, 02 Dec 2025 14:50:55 GMT | Using Python, Cloudflare and Robots.txt to Control How AI Sees Your Site | Shauvik Kumar | [Read More](https://medium.com/p/102d24e6695b) |
+| Tue, 02 Dec 2025 14:48:37 GMT | 7 Python Projects To Get You Started With Cybersecurity and Ethical Hacking | supasuge | [Read More](https://medium.com/p/c74885faa021) |
 | Tue, 02 Dec 2025 14:43:19 GMT | The new era of third-party security: The perimeter you don’t control but that defines you | Rodrigo Gutierrez | [Read More](https://medium.com/p/5f7e1751f640) |
+| Tue, 02 Dec 2025 14:42:56 GMT | Taming the Tech Beast: How Industrial Design Makes New Gadgets Less Scary | Victra Lin | [Read More](https://medium.com/p/638f0db7f899) |
 | Tue, 02 Dec 2025 14:38:43 GMT | Mobile Security Application Guide: Proven Tips to Stay Safe | Hoplon InfoSec | [Read More](https://medium.com/p/de989038e181) |
+| Tue, 02 Dec 2025 14:37:38 GMT | One Key for Every Door: How Security Assertion Markup Language Simplifies Enterprise Access | Global Technology | [Read More](https://medium.com/p/c95de0c29ce5) |
 | Tue, 02 Dec 2025 14:24:10 GMT | Why Zero Trust Is No Longer Optional for Mid-Market Companies | Rumi Mary Siga | [Read More](https://medium.com/p/79d02b5d0688) |
 | Tue, 02 Dec 2025 14:14:20 GMT | Stylish Security Shutters Built for Perth Conditions | Hamptons Group | [Read More](https://medium.com/p/4a0bfe909aa7) |
 | Tue, 02 Dec 2025 14:11:05 GMT | Next-Gen Firewalls: Essential for Modern SMB Security | Technijian | [Read More](https://medium.com/p/2c35699dc49e) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 10:20:14 GMT | Cyber Advisory & Readiness: Bridging the Leadership Gap | Saurav Tripati | [Read More](https://medium.com/p/a8273009776b) |
 | Tue, 02 Dec 2025 10:16:47 GMT | Every Company Is Now an AI Company (And It’s Getting Ridiculous) | Sophia Enakpoya | [Read More](https://medium.com/p/a8f0cdd0f3cb) |
 | Tue, 02 Dec 2025 10:07:12 GMT | OSINT Under the Hood: Mastering the Wayback Machine and Other Temporal Tools | Rabail Zaheer | [Read More](https://medium.com/p/896c39660bfb) |
-| Tue, 02 Dec 2025 10:06:22 GMT | Execute Angular Guards Sequentially and in Order | Anass Guendef | [Read More](https://medium.com/p/9fa5367fa848) |
-| Tue, 02 Dec 2025 10:03:30 GMT | Security by Simplicity Why Complexity Is the Enemy of Protection | CYBER CYMRU | [Read More](https://medium.com/p/153acbf782a6) |
-| Tue, 02 Dec 2025 09:59:43 GMT | The Shadow Market: Indian Firms and the Global Hacking Operations (2024–2025) | Cyber Warfare Asia | [Read More](https://medium.com/p/82e2002d0f9e) |
-| Tue, 02 Dec 2025 09:50:23 GMT | Securing Africa in the Fourth Domain: Cybersecurity as Counterinfluence | Ox1de | [Read More](https://medium.com/p/89896063f5ae) |
-| Tue, 02 Dec 2025 09:48:58 GMT | Best Network Management Service Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/14734c5aea79) |
-| Tue, 02 Dec 2025 09:47:49 GMT | YOU CAN STILL LEARN FROM SIRI | Elizabeth Akande | [Read More](https://medium.com/p/44f3fe0b43ec) |
-| Tue, 02 Dec 2025 09:36:15 GMT | better_eval() — MetaCTF Writeup | Cycer | [Read More](https://medium.com/p/99119de7a5b8) |
-| Tue, 02 Dec 2025 09:31:56 GMT | Why Clients Choose Northwave Again and Again It’s Not Just Our Tech — It’s How We Walk With You | Fook Hwa Tan | [Read More](https://medium.com/p/9e0c4a1c7f60) |
-| Tue, 02 Dec 2025 09:30:39 GMT | You Asked, I Answered: Your Top Cybersecurity Concerns Ask Me Anything: Your Cyber Questions… | Fook Hwa Tan | [Read More](https://medium.com/p/622bd3dbf276) |
-| Tue, 02 Dec 2025 09:28:57 GMT | Internet Asset Exposure Surface Mapping Based on ZoomEye | ZoomEye | [Read More](https://medium.com/p/75b34984bd0f) |
-| Tue, 02 Dec 2025 09:09:36 GMT | UBA/UEBA Modeling Practices: Understanding User Behavior to Strengthen Detection Capabilities | Esra Kayhan | [Read More](https://medium.com/p/d6de697a5da4) |
-| Tue, 02 Dec 2025 09:09:03 GMT | Every CEO Must Read This Before 2026 | Redfox Security | [Read More](https://medium.com/p/5dbbfe0d3546) |
-| Tue, 02 Dec 2025 09:01:09 GMT | ️ Part 3: Crypto Hacks, Wallet Exploits & Ransomware Tracing — Inside the Digital Battlefield | ghostyjoe | [Read More](https://medium.com/p/3adb62fdc360) |
-| Tue, 02 Dec 2025 08:59:43 GMT | 90-Day Proven DORA NIS2 EU AI Act Readiness Plan | Pentest_Testing_Corp | [Read More](https://medium.com/p/d59f9de65bc7) |
-| Tue, 02 Dec 2025 08:58:38 GMT | AI In Cybersecurity: Key Benefits, Defense Strategies, & Future Trends | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/e71f84478468) |
