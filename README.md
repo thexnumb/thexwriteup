@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 21:13:07 GMT | Vulnerability Data Enrichment for CVE Records: 256 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/2e488b7c9062) |
+| Tue, 02 Dec 2025 21:11:40 GMT | Adversarial AI Digest — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a7c7776c2f2a) |
+| Tue, 02 Dec 2025 21:06:35 GMT | Go 1.25.5 and 1.24.11 | ASAcrew Blog | [Read More](https://medium.com/p/73afcdaed4fe) |
+| Tue, 02 Dec 2025 20:53:36 GMT | Tech#43– Section 2— Building Production-Grade Systems: Security-First Development | Vikkas Arun Pareek | [Read More](https://medium.com/p/5d0584a02acd) |
 | Tue, 02 Dec 2025 20:43:49 GMT | The Meeting Room Impostor: How AI Assistant Names Became a Security Blind Spot | Mohammad Omar | [Read More](https://medium.com/p/bfbc08c47c1a) |
+| Tue, 02 Dec 2025 20:41:23 GMT | Divide and Conquer with Git Bisect | Ayham Al Attar | [Read More](https://medium.com/p/4a035524cd8c) |
+| Tue, 02 Dec 2025 20:36:36 GMT | Hardening with Firejail, Landlock, and bubblewrap | Tamas Sallai | [Read More](https://medium.com/p/5d0a63155f95) |
 | Tue, 02 Dec 2025 20:27:09 GMT | Anthropic Research Shows AI Agents Learn Smart Contract Exploitation | Valdez Ladd | [Read More](https://medium.com/p/9be135ad0f12) |
 | Tue, 02 Dec 2025 20:26:05 GMT | The Evolution of Data Centers | Jordanh | [Read More](https://medium.com/p/957acf0446d3) |
 | Tue, 02 Dec 2025 20:26:03 GMT | Cybersecurity and Economic Resilience: Why Protecting Data Means Protecting Growth | Chaimae | [Read More](https://medium.com/p/ed6b05fd2532) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 15:50:17 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 3: DC-3.2 | Shikhar Sinha | [Read More](https://medium.com/p/50bc5ff982bd) |
 | Tue, 02 Dec 2025 15:46:43 GMT | Dark LLMs: When Your AI Traffic Is C2 | Wes Young | [Read More](https://medium.com/p/cef0dab3f2a8) |
 | Tue, 02 Dec 2025 15:44:45 GMT | The Hidden Cost of Microservices: Security Everywhere | Anto Semeraro | [Read More](https://medium.com/p/f940b20ecc87) |
-| Tue, 02 Dec 2025 15:39:14 GMT | How AI and Modern Technology Are Transforming SMBs | Configr Technologies | [Read More](https://medium.com/p/531e88136ef8) |
-| Tue, 02 Dec 2025 15:31:53 GMT | Event ID — 85 - SOC109 - Emotet Malware Detected | Soumodeep Das | [Read More](https://medium.com/p/fafa098e59a2) |
-| Tue, 02 Dec 2025 15:31:06 GMT | GCP canary tokens | Mostafa Moradian | [Read More](https://medium.com/p/52a5603a1133) |
-| Tue, 02 Dec 2025 15:29:58 GMT | Deepfake Vishing Attacks Surge 1,633%. Here’s What Changed in Q1. | MohamedAbdelmenem | [Read More](https://medium.com/p/775afe99f790) |
-| Tue, 02 Dec 2025 15:28:57 GMT | Mastering AI Red Teaming: Essential Tools, Hardware, and Practical Techniques | Giulio Sistilli | [Read More](https://medium.com/p/7de4eb4c384c) |
-| Tue, 02 Dec 2025 15:22:51 GMT | Cyber Security Market: Rising Threats, Advanced Technologies, and Global Growth Opportunities | Desouza Nancy | [Read More](https://medium.com/p/61e7c9eb40ca) |
