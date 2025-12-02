@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 18:25:33 GMT | Advent of Cyber 2025 Day 2 - TryHackMe - Phishing — Merry Clickmas - WriteUp | Axoloth | [Read More](https://medium.com/p/dc3ede1b57a5) |
+| Tue, 02 Dec 2025 18:23:45 GMT | “The $10,000 Ruby Crash: When a “Smart” Optimization Crashed Shopify’s Entire System” | Aman Sharma | [Read More](https://medium.com/p/78b04fd74f4c) |
+| Tue, 02 Dec 2025 18:23:10 GMT | The Digital Asset (Scotland) Bill | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c04713250cac) |
+| Tue, 02 Dec 2025 18:22:07 GMT | The Hidden Battle: How Network Threat Hunting Strengthens Your Security Posture | Mai Tran | [Read More](https://medium.com/p/c62a25ac6e38) |
+| Tue, 02 Dec 2025 18:20:27 GMT | Building an Effective Cybersecurity Incident Response Plan | Mai Tran | [Read More](https://medium.com/p/6d3f6c0d9f84) |
+| Tue, 02 Dec 2025 18:19:50 GMT | CVE-2025–62218 - Microsoft Wireless Provisioning System Elevation of Privilege Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/c6c75d8b5655) |
+| Tue, 02 Dec 2025 18:17:34 GMT | How I Robbed the Bank: VulnBank CTF Walkthrough (FahemSec) | Ahmed Hassan | [Read More](https://medium.com/p/fa277b9ff8b1) |
+| Tue, 02 Dec 2025 18:16:51 GMT | Wireshark Traffic Analysis: ARP Poisoning & Man In The Middle | Citadel Cybersec | [Read More](https://medium.com/p/e598c4221cb5) |
+| Tue, 02 Dec 2025 18:13:31 GMT | HeroCTF 2025 - Bootloader -Misc Challenge (embedded exploitation) | Zeyad Karim | [Read More](https://medium.com/p/80a48e931403) |
+| Tue, 02 Dec 2025 18:13:30 GMT | I created my own social media platform like Reddit | Aathil Ducky | [Read More](https://medium.com/p/e7cd3915d965) |
+| Tue, 02 Dec 2025 18:08:36 GMT | Inside the SOC: A Fresher’s First Real Day in Cybersecurity | Cybersickerhub | [Read More](https://medium.com/p/a95f8cb34dfe) |
+| Tue, 02 Dec 2025 18:07:48 GMT | Spectrus Agency Seeks to Raise $25 Million to Equip Israeli Military with Secure iPhone 17 Pro… | Spectrus Agency | [Read More](https://medium.com/p/9d462d96da8a) |
+| Tue, 02 Dec 2025 18:01:02 GMT | Reflected XSS in div tag | Mahmoud Amin Mohamed | [Read More](https://medium.com/p/97159f77462b) |
+| Tue, 02 Dec 2025 17:55:23 GMT | Supply Chain Attack Nedir? | Yuşa Efe | [Read More](https://medium.com/p/5e55e156d75a) |
+| Tue, 02 Dec 2025 17:55:19 GMT | Asociar un bug a una prueba con .bug() | GoyesDev | [Read More](https://medium.com/p/160cf72b7e1d) |
+| Tue, 02 Dec 2025 17:51:24 GMT | Bridge Cable Attends the 2025 ADI Philadelphia Expo | Jordanh | [Read More](https://medium.com/p/124906c8aff1) |
+| Tue, 02 Dec 2025 17:44:36 GMT | Olivia fait la couv ! | Florent M | [Read More](https://medium.com/p/17231f97a9c6) |
+| Tue, 02 Dec 2025 17:36:42 GMT | pwncollege: Program Misuse | Sourav Bose | [Read More](https://medium.com/p/99cfc8191b55) |
 | Tue, 02 Dec 2025 17:33:34 GMT | How to Fix Broken Authentication & Session Management | Ibtissam | [Read More](https://medium.com/p/6fee46c96597) |
 | Tue, 02 Dec 2025 17:32:15 GMT | The People Insulting You Online May Not Be Local — Elon Musk Just Exposed Their True Base. | Mohamed Bakry | [Read More](https://medium.com/p/b97fec57c362) |
 | Tue, 02 Dec 2025 17:27:05 GMT | The Windows Security Journey — PowerShell Execution Policy | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3599753f044e) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 13:48:58 GMT | I spent almost two days debugging a login issue that worked perfectly on localhost but kept failing… | Samyak Jain | [Read More](https://medium.com/p/3734f48fdb01) |
 | Tue, 02 Dec 2025 13:46:29 GMT | The Next Cyber Crisis No One Sees Coming: The World’s Trust System Is Starting to Fail | Abatis ABTU | [Read More](https://medium.com/p/6c5a0fac857a) |
 | Tue, 02 Dec 2025 13:45:53 GMT | The One Linux Command That Reveals a Hidden Hacker Immediately (Most Admins Never Use It) | Faruk Ahmed | [Read More](https://medium.com/p/a5306e090afc) |
-| Tue, 02 Dec 2025 13:42:28 GMT | The Backbone of Every Organization — Inside the IT Department | Paul Meyer | [Read More](https://medium.com/p/384ad9c61983) |
-| Tue, 02 Dec 2025 13:42:10 GMT | Preemptive Security: Breaking the Reconnaissance Cycle | Resilience Reflections | [Read More](https://medium.com/p/e709ae9d9b04) |
-| Tue, 02 Dec 2025 13:38:36 GMT | Machine Learning Astro Bot Walkthrough Guide for Space Tech Beginners | Motherlandlove | [Read More](https://medium.com/p/d55aa584acb7) |
-| Tue, 02 Dec 2025 13:34:29 GMT | Threat and Vulnerabilities Report-November 2025 | Loginsoft | [Read More](https://medium.com/p/fca227800a27) |
-| Tue, 02 Dec 2025 13:32:13 GMT | Garage Door Security Tips for Every Homeowner | 24H Garage Doors | [Read More](https://medium.com/p/203c09e19741) |
-| Tue, 02 Dec 2025 13:19:45 GMT | Implementing Snort IDS on an Ubuntu VM | Arunsangeeth | [Read More](https://medium.com/p/d8a54c47d8ce) |
-| Tue, 02 Dec 2025 13:10:28 GMT | How to Build a Secure JWT + OAuth2 Architecture for Modern Apps | victor oak | [Read More](https://medium.com/p/51dfc052c5ed) |
-| Tue, 02 Dec 2025 13:06:38 GMT | TOMIRIS APT ADOPTS PUBLIC-SERVICE-BASED C2 INFRASTRUCTURE | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/9185d4f42b11) |
-| Tue, 02 Dec 2025 13:05:37 GMT | How to Build a Pentesting Home Lab: Part 1-Virtual Box and Kali Linux | Jamie Omarr | [Read More](https://medium.com/p/7bfc99cc1fb3) |
-| Tue, 02 Dec 2025 13:03:52 GMT | How to Build a Pentesting Home Lab: Part 0-Introduction | Jamie Omarr | [Read More](https://medium.com/p/c5e986dd7967) |
-| Tue, 02 Dec 2025 13:03:33 GMT | What is the best IPTV app with built-in VPN? | LIVEIPTVSERVICE | [Read More](https://medium.com/p/86a82b2cd2ad) |
-| Tue, 02 Dec 2025 13:03:23 GMT | Launching Scorton — The Beginning of the Trust Internet | Bacely YoroBi | [Read More](https://medium.com/p/e5a51798f312) |
-| Tue, 02 Dec 2025 13:02:17 GMT | The Builder’s Notes: The Deepfake Triage Problem — How Healthcare Leaders Lose Millions Before… | Piyoosh Rai | [Read More](https://medium.com/p/6f378f77118a) |
-| Tue, 02 Dec 2025 13:01:33 GMT | GRC is the new ESG | Marcel | [Read More](https://medium.com/p/cb5eaf4ab4b6) |
-| Tue, 02 Dec 2025 12:53:38 GMT | Stop XSS: A Simple Guide to Cross-Site Scripting Security | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/693f41ccbc20) |
-| Tue, 02 Dec 2025 12:42:56 GMT | Masayoshi Son’s High-Stakes Gamble: Tears, Nvidia, And The AI Revolution | Vertrose | [Read More](https://medium.com/p/6a5fb1188f28) |
-| Tue, 02 Dec 2025 12:32:30 GMT | The Worst Feature in Java That Everyone Pretends Is Genius | The Dev Notebook | [Read More](https://medium.com/p/f3875d9ec1e4) |
-| Tue, 02 Dec 2025 12:32:17 GMT | Not phishing, not hacking: it’s much worse. And you probably have it installed already. | Germano Costi | [Read More](https://medium.com/p/0d6b75009842) |
