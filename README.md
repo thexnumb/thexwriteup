@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 10:38:17 GMT | Bringing Power BI Composite Models to Life: Why They Matter for Smarter Business Decisions | Onelogica | [Read More](https://medium.com/p/02922f5a42dc) |
+| Tue, 02 Dec 2025 10:34:13 GMT | AI-Powered Resiliency Compliance: Smart Audit Automation | Nikhil Chatterjee | [Read More](https://medium.com/p/021416a8eb24) |
+| Tue, 02 Dec 2025 10:27:27 GMT | Digital Self-Defense: The New Life Skill Everyone Must Master in 2025 | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/ceedce5880e9) |
+| Tue, 02 Dec 2025 10:27:02 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | Elyes BN | [Read More](https://medium.com/p/0abf74ff68ec) |
+| Tue, 02 Dec 2025 10:25:55 GMT | AI-Accelerated Security Monitoring: Beyond the 24/7 Overhead | Kavitha Banerjee | [Read More](https://medium.com/p/7409a4513465) |
+| Tue, 02 Dec 2025 10:25:55 GMT | Is Your DAST Tool Future-Proof ? The 8 Non-Negotiable Features Developers Need in 2026 | Khabbab Sarker | [Read More](https://medium.com/p/791603abcae1) |
+| Tue, 02 Dec 2025 10:24:55 GMT | Oman Data Center Security: Where Technology Meets Trust | Tekshoyabeelyas | [Read More](https://medium.com/p/662d691ac5d5) |
 | Tue, 02 Dec 2025 10:22:42 GMT | Why Modern Offensive Security Is Moving Up the Stack | Yua Mikanana | [Read More](https://medium.com/p/c032ec042826) |
 | Tue, 02 Dec 2025 10:20:25 GMT | Is Your DAST Tool Future-Proof ? The 8 Non-Negotiable Features Developers Need in 2026 | Khabbab Sarker | [Read More](https://medium.com/p/0712dd6555a1) |
 | Tue, 02 Dec 2025 10:20:14 GMT | Cyber Advisory & Readiness: Bridging the Leadership Gap | Saurav Tripati | [Read More](https://medium.com/p/a8273009776b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 03:23:32 GMT | Technology and the Global Market — Competition and Protective Measures | Kamal Hossen | [Read More](https://medium.com/p/8cc0f38415b0) |
 | Tue, 02 Dec 2025 03:23:07 GMT | Over 2,000 Holiday-Themed Fake Stores Target Shoppers During Black Friday and Festive Sales | UK Cyber Defence | [Read More](https://medium.com/p/ee5970736255) |
 | Tue, 02 Dec 2025 03:15:55 GMT | Debugging our new #1 iOS crash: the bug, the race, and the fix | MEGA | [Read More](https://medium.com/p/b4eb15fcd097) |
-| Tue, 02 Dec 2025 02:57:08 GMT | Shai-Hulud 2.0: Self-Propagating npm Worm Steals Credentials via Pre-Install Scripts | Vinodbokare | [Read More](https://medium.com/p/db41b521f3fa) |
-| Tue, 02 Dec 2025 02:27:41 GMT | When “Network Security” Becomes Network Sabotage; | Kit Baroness | [Read More](https://medium.com/p/fe840db6006f) |
-| Tue, 02 Dec 2025 02:11:44 GMT | Exploiting blind SSRF | Fatimahasan | [Read More](https://medium.com/p/730e5ee9c0f6) |
-| Tue, 02 Dec 2025 02:06:01 GMT | 6G와 블록체인: 만능키가 아닌 특수키 | Blockchain at Yonsei | [Read More](https://medium.com/p/5cb910c5a20f) |
-| Tue, 02 Dec 2025 02:02:13 GMT | Understanding Cyber Attacks Like a Pro: Hacker’s Lifecycle for Beginners | Jugal Patel | [Read More](https://medium.com/p/b30fec6388fc) |
-| Tue, 02 Dec 2025 01:49:20 GMT | Forcing a Smile When You Are Breaking Inside | Rudra | [Read More](https://medium.com/p/cf3209a55200) |
-| Tue, 02 Dec 2025 01:48:28 GMT | How I Passed the eJPTv2 at 16 (With a 91%) | Justin K | [Read More](https://medium.com/p/78158761175b) |
