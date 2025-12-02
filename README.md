@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 22:34:36 GMT | How i hacked LLM WITH PROMPT INJECTION Bro Said ‘Hi 25’… Next Thing I Knew I Owned the Entire… | MRKNIGHT-NIDU | [Read More](https://medium.com/p/508b1791c5cf) |
 | Tue, 02 Dec 2025 22:07:12 GMT | Zero Trust Demystified | Kenn Anderson, Jr. | [Read More](https://medium.com/p/df6a950d2ca9) |
 | Tue, 02 Dec 2025 21:54:59 GMT | DVWA — Command Injection (Low e Medium): Guia prático | Heloísa Tomé de Araujo | [Read More](https://medium.com/p/6180f845ae36) |
 | Tue, 02 Dec 2025 21:52:07 GMT | What Two Years of Watching Tech Debt Taught Me — And Why Angular’s Latest CVEs Prove the Point | Taylor Corbett | [Read More](https://medium.com/p/8494ef22aa01) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 16:38:19 GMT | AI Agents: AresGPT Prompt Engineering for Cyber Defenders a CompTIA Security+ All Study Guide | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/1967a3a2cb2b) |
 | Tue, 02 Dec 2025 16:34:29 GMT | Episode 13: “The Printer That Ate Q3” | Dr. House In I.T. | [Read More](https://medium.com/p/eef35ca1d27d) |
 | Tue, 02 Dec 2025 16:32:13 GMT | October Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/805a45b45e46) |
-| Tue, 02 Dec 2025 16:30:21 GMT | TryHackMe — Neighbour — Writeup | HackRight | [Read More](https://medium.com/p/bfb72a55d2e4) |
