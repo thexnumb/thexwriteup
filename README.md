@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 19:30:20 GMT | How I solved Task 1 in the Seine Incident challenge-TryHackMe. | Abhilash H | [Read More](https://medium.com/p/7a524809bfc0) |
+| Tue, 02 Dec 2025 19:29:58 GMT | Pwned1 Walkthrough | IshhIshneet | [Read More](https://medium.com/p/6d91b9771d9d) |
+| Tue, 02 Dec 2025 19:28:19 GMT | The Southward Advance That Does Not Exist: A Technical Breakdown of Misinterpreted Threats | Put me in a Chanel | [Read More](https://medium.com/p/0600073b1349) |
+| Tue, 02 Dec 2025 19:27:44 GMT | TLS Deep Dive | Coleo7o7o7 | [Read More](https://medium.com/p/300dd699f4ab) |
+| Tue, 02 Dec 2025 19:17:29 GMT | CVE-2025–62217 - Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/70dba4dcb419) |
 | Tue, 02 Dec 2025 19:11:10 GMT | What Actually Happens Inside a Data Breach (A Step-by-Step Breakdown) | Abdullah Javeed | [Read More](https://medium.com/p/1e60118d96a2) |
 | Tue, 02 Dec 2025 19:10:20 GMT | Stop Using JWT for Everything. It’s Not Secure, It’s Just Trendy. | Ferid Brković | [Read More](https://medium.com/p/fb54c0d904cb) |
 | Tue, 02 Dec 2025 19:09:54 GMT | How Inspecting a JavaScript File Led Me to a Hidden SQL Injection Vulnerability | Fahadshah | [Read More](https://medium.com/p/0b9ba7741b98) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 14:54:51 GMT | Day 2 — The Typed Letter | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/d63f46e3fa96) |
 | Tue, 02 Dec 2025 14:50:55 GMT | Using Python, Cloudflare and Robots.txt to Control How AI Sees Your Site | Shauvik Kumar | [Read More](https://medium.com/p/102d24e6695b) |
 | Tue, 02 Dec 2025 14:48:37 GMT | 7 Python Projects To Get You Started With Cybersecurity and Ethical Hacking | supasuge | [Read More](https://medium.com/p/c74885faa021) |
-| Tue, 02 Dec 2025 14:44:52 GMT | Are We Overusing AI? Let’s Talk Data Privacy | Dhilip Prasanna | [Read More](https://medium.com/p/f2b0e9e23274) |
-| Tue, 02 Dec 2025 14:43:19 GMT | The new era of third-party security: The perimeter you don’t control but that defines you | Rodrigo Gutierrez | [Read More](https://medium.com/p/5f7e1751f640) |
-| Tue, 02 Dec 2025 14:42:56 GMT | Taming the Tech Beast: How Industrial Design Makes New Gadgets Less Scary | Victra Lin | [Read More](https://medium.com/p/638f0db7f899) |
-| Tue, 02 Dec 2025 14:38:43 GMT | Mobile Security Application Guide: Proven Tips to Stay Safe | Hoplon InfoSec | [Read More](https://medium.com/p/de989038e181) |
-| Tue, 02 Dec 2025 14:37:38 GMT | One Key for Every Door: How Security Assertion Markup Language Simplifies Enterprise Access | Global Technology | [Read More](https://medium.com/p/c95de0c29ce5) |
