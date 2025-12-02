@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 22:07:12 GMT | Zero Trust Demystified | Kenn Anderson, Jr. | [Read More](https://medium.com/p/df6a950d2ca9) |
+| Tue, 02 Dec 2025 21:54:59 GMT | DVWA — Command Injection (Low e Medium): Guia prático | Heloísa Tomé de Araujo | [Read More](https://medium.com/p/6180f845ae36) |
+| Tue, 02 Dec 2025 21:52:07 GMT | What Two Years of Watching Tech Debt Taught Me — And Why Angular’s Latest CVEs Prove the Point | Taylor Corbett | [Read More](https://medium.com/p/8494ef22aa01) |
+| Tue, 02 Dec 2025 21:48:56 GMT | Lessons from the Mixpanel incident: What Every Organization Should Learn About Third-Party Risk | Mehdi T. | [Read More](https://medium.com/p/4da3122efb72) |
+| Tue, 02 Dec 2025 21:46:05 GMT | Your English Degree Just Became a Cybersecurity Weapon: The Poetry Jailbreak That’s Breaking AI | Mehdi T. | [Read More](https://medium.com/p/e29b0ecbabbc) |
+| Tue, 02 Dec 2025 21:41:38 GMT | Protecting Our Endpoints in Tor C2 Server — Part 6 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/cf423c6eb290) |
+| Tue, 02 Dec 2025 21:41:26 GMT | What Australian Businesses Need to Know About the Cyber Security Act 2024 | Future IT Services | [Read More](https://medium.com/p/69916f29803f) |
+| Tue, 02 Dec 2025 21:39:39 GMT | The Old World: Strong Walls, Clear Boundaries | William Hunt | [Read More](https://medium.com/p/9cc339924a11) |
+| Tue, 02 Dec 2025 21:37:47 GMT | Obfuscating APK Files . But why ? Whatsapp RTO scammers | Karthik S | [Read More](https://medium.com/p/0494f5193c6e) |
+| Tue, 02 Dec 2025 21:32:34 GMT | The Human Firewall: Why Psychology, Not Just Code, Defines Our Cybersecurity Future | Gwen | [Read More](https://medium.com/p/306ac51848c4) |
 | Tue, 02 Dec 2025 21:31:41 GMT | Fine-Grained Data Security in APEX with RAS: A Practical Guide | Thomas Minne | [Read More](https://medium.com/p/e91caafe549c) |
 | Tue, 02 Dec 2025 21:29:09 GMT | AGENTIC AI VS. THE ADVERSARY: WINNING THE BUSINESS OF RISK | Bnlrandon. | [Read More](https://medium.com/p/4017a8b803e3) |
 | Tue, 02 Dec 2025 21:26:23 GMT | The OSINT Trap: When Your Biggest Vulnerability Is Your Own Mouth | Sam Galope | [Read More](https://medium.com/p/a6ac2bd2ba2d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 16:34:29 GMT | Episode 13: “The Printer That Ate Q3” | Dr. House In I.T. | [Read More](https://medium.com/p/eef35ca1d27d) |
 | Tue, 02 Dec 2025 16:32:13 GMT | October Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/805a45b45e46) |
 | Tue, 02 Dec 2025 16:30:21 GMT | TryHackMe — Neighbour — Writeup | HackRight | [Read More](https://medium.com/p/bfb72a55d2e4) |
-| Tue, 02 Dec 2025 16:24:54 GMT | “Middle Mayhem” BTLO Lab Walkthrough | Jagadishtripathy | [Read More](https://medium.com/p/9e1622b2ec59) |
-| Tue, 02 Dec 2025 16:23:48 GMT | 5 Reasons Your Garage Door Won’t Close and How to Fix Them | Up & Down Garage Door Services | [Read More](https://medium.com/p/3d3a866b7d80) |
-| Tue, 02 Dec 2025 16:22:40 GMT | Capítulo 12 — Ecos da Rede | Kleber Andrade | [Read More](https://medium.com/p/3443714176c3) |
-| Tue, 02 Dec 2025 16:22:30 GMT | India’s Supreme Court Declares War on Digital Arrest Scams - India’s Supreme Court Just Declared… | Emmett Chao | [Read More](https://medium.com/p/55ef9ab76545) |
-| Tue, 02 Dec 2025 16:18:03 GMT | How a ₹400 Microcontroller Can Steal Your Credentials (Evil Twin Attack — Conceptual Breakdown) | Mohammed Fizal | [Read More](https://medium.com/p/facd3aea4523) |
-| Tue, 02 Dec 2025 16:15:05 GMT | It’s Not Imposter Syndrome. It’s Tribalism. | Jeff Kingsland | [Read More](https://medium.com/p/8a70943b2f27) |
-| Tue, 02 Dec 2025 16:04:46 GMT | [Blue Team Labs Online Write-up] Zeta End (Filefix, rclone, sliver and github attachment fille… | Chicken0248 | [Read More](https://medium.com/p/fa2e43370f93) |
-| Tue, 02 Dec 2025 16:03:37 GMT | The Future of IAM: 7 Cybersecurity Trends Shaping Identity by 2029 | Youssef Hossny | [Read More](https://medium.com/p/79d194db8259) |
-| Tue, 02 Dec 2025 16:02:33 GMT | The API Call That Stole My Sleep and Bank Account | Adonis | [Read More](https://medium.com/p/453b75e5aa77) |
-| Tue, 02 Dec 2025 16:02:11 GMT | You Found Me in the Dark and Walked Toward the Light With Me | Winsky | [Read More](https://medium.com/p/4e999979b23b) |
