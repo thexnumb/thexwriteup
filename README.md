@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 01:34:43 GMT | Print Spooler & NTLM Relaying: The Legacy Service That Won’t Die | Cybersecurity Simplified | [Read More](https://medium.com/p/07360e7c7d55) |
+| Tue, 02 Dec 2025 01:34:29 GMT | The coming ai crime wave: why banks and payment systems are not ready | Juan Pablo Guzman | [Read More](https://medium.com/p/4855035fb834) |
+| Tue, 02 Dec 2025 01:32:59 GMT | Energy Web (EWT) Contract Swap | Barman | [Read More](https://medium.com/p/b8636e5c13b3) |
+| Tue, 02 Dec 2025 01:22:24 GMT | How to know if your computer is being monitored: 14 signs | Safelyo Global | [Read More](https://medium.com/p/89cf28082ae6) |
+| Tue, 02 Dec 2025 01:14:58 GMT | THM Advent Of Cyber 2025 Day 1 | ZeakPeak | [Read More](https://medium.com/p/3325ee42690c) |
+| Tue, 02 Dec 2025 00:55:42 GMT | Everyone’s Using AI Agents. I’m Not. Here’s Why. | Regina | [Read More](https://medium.com/p/534ff1b5e439) |
+| Tue, 02 Dec 2025 00:40:18 GMT | Spring Boot ve JWT ile Güvenli Kimlik Doğrulama-2 | Abdüssamed KARA | [Read More](https://medium.com/p/1914597546b4) |
+| Tue, 02 Dec 2025 00:37:33 GMT | Spring Boot ve JWT ile Güvenli Kimlik Doğrulama-1 | Abdüssamed KARA | [Read More](https://medium.com/p/21f56af6ccc7) |
+| Tue, 02 Dec 2025 00:32:17 GMT | HackTheBox Kerberos Constrained Delegation: When Service Accounts Become Skeleton Keys | Cybersecurity Simplified | [Read More](https://medium.com/p/7bf771f6921c) |
+| Tue, 02 Dec 2025 00:32:17 GMT | CISA Flags Actively Exploited XSS Vulnerability in OpenPLC ScadaBR | CyberSecurity | [Read More](https://medium.com/p/c740dd45fcbf) |
+| Tue, 02 Dec 2025 00:32:08 GMT | The Mechanics of Modern Android Injection | Joseph James (JJ) | [Read More](https://medium.com/p/7412273c2ab7) |
+| Tue, 02 Dec 2025 00:02:14 GMT | OWASP (API6:2023) Unrestricted Access to Sensitive Business Flows: Metodología de Caza y Reporte | JPablo13 | [Read More](https://medium.com/p/fdf41ae2ac23) |
 | Mon, 01 Dec 2025 23:26:47 GMT | SSRF, LFI, RCE, and Admin Panel Discoveries | Monika sharma | [Read More](https://medium.com/p/dbc9fce6b665) |
 | Mon, 01 Dec 2025 23:26:41 GMT | Stop Sharing .env | Faris Chtatou | [Read More](https://medium.com/p/e0f94bd73701) |
 | Mon, 01 Dec 2025 23:23:37 GMT | Mobile pen testing part 3: Static analysis of the Damm Vulnerable Bank app | Nol White Hat | [Read More](https://medium.com/p/99f006391844) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 16:52:11 GMT | Erlang/OTP SSH: CVE-2025–32433 | Mainekhacker | [Read More](https://medium.com/p/4e3b4f3b4af4) |
 | Mon, 01 Dec 2025 16:51:22 GMT | Machine Learning Cryptocurrency Guide 2026: Uses, Methods & Future | Motherlandlove | [Read More](https://medium.com/p/24a47e742d82) |
 | Mon, 01 Dec 2025 16:45:54 GMT | Hi there I’m phisher a security resercher | phisher | [Read More](https://medium.com/p/95e0eb945f54) |
-| Mon, 01 Dec 2025 16:42:50 GMT | LazyAdmin — TryHackMe | ManuM0re | [Read More](https://medium.com/p/cbf8f3a8108d) |
-| Mon, 01 Dec 2025 16:42:41 GMT | November 2025: The Month AI Became Dangerous (And Brilliant) | Sagar Vaishnava | [Read More](https://medium.com/p/752e0fdb24b2) |
-| Mon, 01 Dec 2025 16:38:38 GMT | World’s Deadliest Computer Virus: WannaCry | Harsh Jha | [Read More](https://medium.com/p/c48d579415df) |
-| Mon, 01 Dec 2025 16:32:53 GMT | HackTheBox: Editor Writeup | Rahaliashraf | [Read More](https://medium.com/p/b74b08515f95) |
-| Mon, 01 Dec 2025 16:32:47 GMT | If You Have an Android Phone, Read This Before You Unlock It Again | Germano Costi | [Read More](https://medium.com/p/0d50beb6d9e8) |
-| Mon, 01 Dec 2025 16:31:29 GMT | PBO : File I/O dan Serealisasi | Yasa Wijaya | [Read More](https://medium.com/p/c9888bfc9c70) |
-| Mon, 01 Dec 2025 16:27:02 GMT | Identity Under Siege: Why Modern Businesses Need a New Approach to IAM and MFA | Dr. Shashi Karhail | [Read More](https://medium.com/p/ccc53267104d) |
-| Mon, 01 Dec 2025 16:23:43 GMT | hashcrack challenge picoCTF walkthrough (beginner friendly) | Harshana Lasith weragoda | [Read More](https://medium.com/p/afe1cf5d30d3) |
-| Mon, 01 Dec 2025 16:22:42 GMT | The Day GPS Dies: How One Attack Could Crash Planes, Freeze Banks, and Blind the World | Mallick Speaks | [Read More](https://medium.com/p/4630fb4099a1) |
-| Mon, 01 Dec 2025 16:22:39 GMT | LLM Vulnerabilities: Why AI Models Are the Next Big Attack Surface | Netlas.io | [Read More](https://medium.com/p/f0845f458e30) |
-| Mon, 01 Dec 2025 16:18:24 GMT | How AI Is Changing Cybersecurity in 2025 — A Beginner-Friendly Reality Check | Poojan Ghetiya | [Read More](https://medium.com/p/0de350d77ae8) |
-| Mon, 01 Dec 2025 16:18:08 GMT | Why Software Bugs Go Unreported in Testing and How to Fix the Gap | Josphine Job | [Read More](https://medium.com/p/da6946582f8c) |
