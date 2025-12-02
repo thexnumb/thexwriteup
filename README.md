@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 11:10:51 GMT | How to Detect and Protect Yourself From Deepfakes in 2025How to Detect and Protect Yourself From… | Ayza Anam | [Read More](https://medium.com/p/34a512ed5943) |
+| Tue, 02 Dec 2025 11:07:00 GMT | By 2026, major cybersecurity failures will raise cybersecurity salaries by 20–30% | Oliver Rochford | [Read More](https://medium.com/p/21ba1eba637a) |
+| Tue, 02 Dec 2025 11:06:28 GMT | OpenVPN Manager: A Complete Open-Source Solution for Enterprise VPN Management | Stepan Kutaj | [Read More](https://medium.com/p/fe214b8f4627) |
+| Tue, 02 Dec 2025 11:05:00 GMT | Computer Hardware Study for Master Hackers: | monster | [Read More](https://medium.com/p/9f4f67ae5653) |
+| Tue, 02 Dec 2025 11:02:54 GMT | Flag Command — HTB Walkthrough | Muhammad Younas | [Read More](https://medium.com/p/144adcde0b4e) |
+| Tue, 02 Dec 2025 10:58:46 GMT | How iPhone 7 Plus Performs in Gaming and Heavy Tasks Today? | Chloe White | [Read More](https://medium.com/p/e5105e1f635f) |
+| Tue, 02 Dec 2025 10:56:45 GMT | Penetrant Testing - Best NDT Inspection | Best NDT Inspection | [Read More](https://medium.com/p/e0980f70d62b) |
+| Tue, 02 Dec 2025 10:54:56 GMT | Security Lab Simulation Project Part 2: VM Set-up and Configuration | Jenny | [Read More](https://medium.com/p/c304473ed5fc) |
+| Tue, 02 Dec 2025 10:52:18 GMT | Learning Paths — Part II: Finding Your Stride | Roman Usyk | [Read More](https://medium.com/p/d7bb86363f8e) |
+| Tue, 02 Dec 2025 10:51:57 GMT | What’s TLS 1.3 Really About ? | Vijayvenkatj | [Read More](https://medium.com/p/256a729952ff) |
+| Tue, 02 Dec 2025 10:48:33 GMT | Learning Paths. Part I: The Uphill Struggle | Roman Usyk | [Read More](https://medium.com/p/1c59cb769d19) |
+| Tue, 02 Dec 2025 10:47:05 GMT | Why Your Mac Needs a VPN in 2025: A Practical Guide for Real-World Users | Azam Azizov | [Read More](https://medium.com/p/78b09906d88e) |
+| Tue, 02 Dec 2025 10:42:50 GMT | বিজ্ঞান অনুসন্ধানের সার্চ ইঞ্জিন Science Guru | Humayun Shariar Himu | [Read More](https://medium.com/p/2544feb2a34a) |
+| Tue, 02 Dec 2025 10:42:24 GMT | Behavioral Threat Analytics: Stopping Credential Abuse | Sneha Mehra | [Read More](https://medium.com/p/8ffe198cb821) |
 | Tue, 02 Dec 2025 10:38:17 GMT | Bringing Power BI Composite Models to Life: Why They Matter for Smarter Business Decisions | Onelogica | [Read More](https://medium.com/p/02922f5a42dc) |
 | Tue, 02 Dec 2025 10:34:13 GMT | AI-Powered Resiliency Compliance: Smart Audit Automation | Nikhil Chatterjee | [Read More](https://medium.com/p/021416a8eb24) |
 | Tue, 02 Dec 2025 10:27:27 GMT | Digital Self-Defense: The New Life Skill Everyone Must Master in 2025 | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/ceedce5880e9) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 04:43:28 GMT | Pantest 101: Methodology Lengkap Dari Reconnaissance Sampai Reporting | Handev Code | [Read More](https://medium.com/p/1e445cc08a68) |
 | Tue, 02 Dec 2025 04:40:58 GMT | “Stop Blaming Yourself for Shopping Burnout. It’s the Store’s Fault.” | MyTravPick | [Read More](https://medium.com/p/ef003c08a5b6) |
 | Tue, 02 Dec 2025 04:40:46 GMT | My Mac Mini’s Internet Suddenly Dropped to 1 Mbps — The Fix Was Hidden in a Single Privacy Setting | Vinoo Jacob | [Read More](https://medium.com/p/5619ce743569) |
-| Tue, 02 Dec 2025 04:39:21 GMT | # The SMB Cybersecurity Gap: Why Small Businesses Are Now Prime Targets | ParagonCyberWorks | [Read More](https://medium.com/p/b13c47b3c4a7) |
-| Tue, 02 Dec 2025 04:24:21 GMT | “What does it mean when a system quietly breaks its own rules? My experience | Jai Jain | [Read More](https://medium.com/p/3a27b93a06d8) |
-| Tue, 02 Dec 2025 04:11:40 GMT | CHAPTER 2 — THE BIRTH OF THE QUBIT | Shadlymaliyekkal | [Read More](https://medium.com/p/9d48dae966fc) |
-| Tue, 02 Dec 2025 04:06:09 GMT | Mengenal Technical Writer — Penerjemah Bahasa Teknis ke Bahasa Manusia | Han | [Read More](https://medium.com/p/b44d99d152d3) |
-| Tue, 02 Dec 2025 04:02:39 GMT | Spring Boot Is the New PHP — Easy, Popular, and Misused Everywhere | The Dev Notebook | [Read More](https://medium.com/p/01980d555d9a) |
-| Tue, 02 Dec 2025 03:54:11 GMT | Eskalasi Deteksi Ancaman: Implementasi Level-Level Pyramid of Pain | Zulfianarahmi | [Read More](https://medium.com/p/d684a0a72bc8) |
-| Tue, 02 Dec 2025 03:42:46 GMT | How I Discovered 8 Header-Injection Weaknesses on a Wix-Hosted Domain | Tyreek Haynes | [Read More](https://medium.com/p/5eb6d631f604) |
-| Tue, 02 Dec 2025 03:42:08 GMT | Behind the Tech of Screen-Invisible Overlay Apps — and How “Interview Cheat Tools” Use Them | Vedavyas Viswanatham | [Read More](https://medium.com/p/07bf4887c069) |
-| Tue, 02 Dec 2025 03:39:03 GMT | Introduction to EDR — TryHackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/cb6a61d1ad34) |
-| Tue, 02 Dec 2025 03:32:19 GMT | Shai-Hulud 2.0: The Attack That Compromised Thousands of GitHub Repositories | Deven Chhajed | [Read More](https://medium.com/p/8c1346505c6b) |
-| Tue, 02 Dec 2025 03:28:03 GMT | Hidden Google Play Adware Drains Devices and Disrupts Millions of Users | UK Cyber Defence | [Read More](https://medium.com/p/8721f89c925d) |
-| Tue, 02 Dec 2025 03:23:32 GMT | Technology and the Global Market — Competition and Protective Measures | Kamal Hossen | [Read More](https://medium.com/p/8cc0f38415b0) |
-| Tue, 02 Dec 2025 03:23:07 GMT | Over 2,000 Holiday-Themed Fake Stores Target Shoppers During Black Friday and Festive Sales | UK Cyber Defence | [Read More](https://medium.com/p/ee5970736255) |
-| Tue, 02 Dec 2025 03:15:55 GMT | Debugging our new #1 iOS crash: the bug, the race, and the fix | MEGA | [Read More](https://medium.com/p/b4eb15fcd097) |
