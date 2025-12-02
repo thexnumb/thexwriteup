@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 05:31:44 GMT | The Surprising Trillion-Dollar Opportunity Hiding in Plain Sight | StackAlpha IO | [Read More](https://medium.com/p/23fcd7c72861) |
+| Tue, 02 Dec 2025 05:28:43 GMT | The Bug That Bled the Internet | Ravi Patil | [Read More](https://medium.com/p/0360d3a09988) |
+| Tue, 02 Dec 2025 05:23:12 GMT | 4 Critical Vulnerabilities that Created Complete Systemic Failure In a Popular WordPress Deployment | Tyreek Haynes | [Read More](https://medium.com/p/9a00bbae40ed) |
 | Tue, 02 Dec 2025 05:02:41 GMT | Decoupling AI Intelligence from Security Control: The Networked Threat Model | crązŷrąiɲ | [Read More](https://medium.com/p/7b539177c49d) |
 | Tue, 02 Dec 2025 05:00:43 GMT | Think PDFs Are Safe? How Hackers Use Them for Stored XSS Attacks | Tushar Suryawanshi | [Read More](https://medium.com/p/043f2c208c37) |
 | Tue, 02 Dec 2025 04:59:19 GMT | How to Secure Your CCTV System from Hackers in 2025 | Ask IT Support | [Read More](https://medium.com/p/9e658ce800a6) |
@@ -27,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 04:11:40 GMT | CHAPTER 2 — THE BIRTH OF THE QUBIT | Shadlymaliyekkal | [Read More](https://medium.com/p/9d48dae966fc) |
 | Tue, 02 Dec 2025 04:06:09 GMT | Mengenal Technical Writer — Penerjemah Bahasa Teknis ke Bahasa Manusia | Han | [Read More](https://medium.com/p/b44d99d152d3) |
 | Tue, 02 Dec 2025 04:02:39 GMT | Spring Boot Is the New PHP — Easy, Popular, and Misused Everywhere | The Dev Notebook | [Read More](https://medium.com/p/01980d555d9a) |
+| Tue, 02 Dec 2025 03:54:11 GMT | Eskalasi Deteksi Ancaman: Implementasi Level-Level Pyramid of Pain | Zulfianarahmi | [Read More](https://medium.com/p/d684a0a72bc8) |
 | Tue, 02 Dec 2025 03:42:46 GMT | How I Discovered 8 Header-Injection Weaknesses on a Wix-Hosted Domain | Tyreek Haynes | [Read More](https://medium.com/p/5eb6d631f604) |
 | Tue, 02 Dec 2025 03:42:08 GMT | Behind the Tech of Screen-Invisible Overlay Apps — and How “Interview Cheat Tools” Use Them | Vedavyas Viswanatham | [Read More](https://medium.com/p/07bf4887c069) |
 | Tue, 02 Dec 2025 03:39:03 GMT | Introduction to EDR — TryHackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/cb6a61d1ad34) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 19:15:24 GMT | Web Nedir? Websitesi Nasıl Çalışır? HTTP/HTTPS Detaylı Rehber | Tetra403 | [Read More](https://medium.com/p/3ed6afa440c5) |
 | Mon, 01 Dec 2025 19:10:45 GMT | When a Leaked Clip Goes Viral, What Really Breaks Is a Society: India’s Digital Voyeurism Problem | Author Anant Yadav | [Read More](https://medium.com/p/0b91267b9c3f) |
 | Mon, 01 Dec 2025 18:55:44 GMT | Microsoft Entra: The New Identity Security Layer Every Organization Needs | Sudhakar Tiwari | [Read More](https://medium.com/p/26c025d46cc9) |
-| Mon, 01 Dec 2025 18:53:22 GMT | Capítulo 11 — O Guardião | Kleber Andrade | [Read More](https://medium.com/p/5f71c14a4b8a) |
-| Mon, 01 Dec 2025 18:51:17 GMT | Demystifying Hashing, Symmetric and Asymmetric Cryptography Concepts? | Kamal Kishor Mahto | [Read More](https://medium.com/p/d146a9966bf2) |
-| Mon, 01 Dec 2025 18:50:52 GMT | The Plaintiff’s Essential Role in Data Breach Lawsuits | Legal Thoughts | [Read More](https://medium.com/p/9c7eb8198bc8) |
-| Mon, 01 Dec 2025 18:42:29 GMT | With, To & Through AI | Michael H. Esq. | [Read More](https://medium.com/p/740fb6c8aac1) |
