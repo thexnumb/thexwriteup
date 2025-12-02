@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 14:24:10 GMT | Why Zero Trust Is No Longer Optional for Mid-Market Companies | Rumi Mary Siga | [Read More](https://medium.com/p/79d02b5d0688) |
+| Tue, 02 Dec 2025 14:14:20 GMT | Stylish Security Shutters Built for Perth Conditions | Hamptons Group | [Read More](https://medium.com/p/4a0bfe909aa7) |
+| Tue, 02 Dec 2025 14:11:05 GMT | Next-Gen Firewalls: Essential for Modern SMB Security | Technijian | [Read More](https://medium.com/p/2c35699dc49e) |
+| Tue, 02 Dec 2025 14:05:14 GMT | Supply Chain Attacks Explained Simply: How Hackers Abuse Trusted Software | Natarajan C K | [Read More](https://medium.com/p/06c2f15896a8) |
+| Tue, 02 Dec 2025 14:04:08 GMT | How to Replace a Garage Door Spring Cable: Safety Tips | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/9c10c23c6212) |
+| Tue, 02 Dec 2025 14:02:20 GMT | The RAG Security Checklist Nobody Prints (But Should) | Hash Block | [Read More](https://medium.com/p/55a7e487ca0a) |
+| Tue, 02 Dec 2025 14:01:56 GMT | Two-Step Verification: The Critical Defence 35,434 Hack Reports Prove SMEs Need | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/9099f31489a2) |
+| Tue, 02 Dec 2025 13:56:57 GMT | UA Highschool (Tryhackme write-up) | CO0L7 | [Read More](https://medium.com/p/9d30cd4342ed) |
+| Tue, 02 Dec 2025 13:54:42 GMT | Linux & Kali Command Cheatsheet | Mert Baykal | [Read More](https://medium.com/p/21fb5f8f6725) |
+| Tue, 02 Dec 2025 13:51:04 GMT | how i found 2ato in mobile application in private vdb in bugcrowd | 0X0mahmoud | [Read More](https://medium.com/p/f0672b45e873) |
+| Tue, 02 Dec 2025 13:50:00 GMT | Punycode Account Takeover | Virendra Kumar | [Read More](https://medium.com/p/d29d0d25a58e) |
+| Tue, 02 Dec 2025 13:49:40 GMT | From Metadata to RCE: Chaining Five Vulnerabilities for Complete System Compromise | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/dff5573bb15b) |
+| Tue, 02 Dec 2025 13:48:58 GMT | I spent almost two days debugging a login issue that worked perfectly on localhost but kept failing… | Samyak Jain | [Read More](https://medium.com/p/3734f48fdb01) |
+| Tue, 02 Dec 2025 13:46:29 GMT | The Next Cyber Crisis No One Sees Coming: The World’s Trust System Is Starting to Fail | Abatis ABTU | [Read More](https://medium.com/p/6c5a0fac857a) |
+| Tue, 02 Dec 2025 13:45:53 GMT | The One Linux Command That Reveals a Hidden Hacker Immediately (Most Admins Never Use It) | Faruk Ahmed | [Read More](https://medium.com/p/a5306e090afc) |
+| Tue, 02 Dec 2025 13:42:28 GMT | The Backbone of Every Organization — Inside the IT Department | Paul Meyer | [Read More](https://medium.com/p/384ad9c61983) |
+| Tue, 02 Dec 2025 13:42:10 GMT | Preemptive Security: Breaking the Reconnaissance Cycle | Resilience Reflections | [Read More](https://medium.com/p/e709ae9d9b04) |
+| Tue, 02 Dec 2025 13:38:36 GMT | Machine Learning Astro Bot Walkthrough Guide for Space Tech Beginners | Motherlandlove | [Read More](https://medium.com/p/d55aa584acb7) |
+| Tue, 02 Dec 2025 13:34:29 GMT | Threat and Vulnerabilities Report-November 2025 | Loginsoft | [Read More](https://medium.com/p/fca227800a27) |
 | Tue, 02 Dec 2025 13:32:13 GMT | Garage Door Security Tips for Every Homeowner | 24H Garage Doors | [Read More](https://medium.com/p/203c09e19741) |
 | Tue, 02 Dec 2025 13:19:45 GMT | Implementing Snort IDS on an Ubuntu VM | Arunsangeeth | [Read More](https://medium.com/p/d8a54c47d8ce) |
 | Tue, 02 Dec 2025 13:10:28 GMT | How to Build a Secure JWT + OAuth2 Architecture for Modern Apps | victor oak | [Read More](https://medium.com/p/51dfc052c5ed) |
@@ -61,6 +80,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 10:48:57 GMT | Simulasi Purple Team: Kustomisasi Aturan Wazuh | Jerry Berlin | [Read More](https://medium.com/p/a89fc867d677) |
 | Tue, 02 Dec 2025 10:48:33 GMT | Learning Paths. Part I: The Uphill Struggle | Roman Usyk | [Read More](https://medium.com/p/1c59cb769d19) |
 | Tue, 02 Dec 2025 10:47:05 GMT | Why Your Mac Needs a VPN in 2025: A Practical Guide for Real-World Users | Azam Azizov | [Read More](https://medium.com/p/78b09906d88e) |
+| Tue, 02 Dec 2025 10:43:47 GMT | কেউ আপনাকে বারবার কল করে বিরক্ত করছে? আসুন সমাধান জেনে নিই! | Humayun Shariar Himu | [Read More](https://medium.com/p/c2002f02fbb7) |
 | Tue, 02 Dec 2025 10:42:50 GMT | বিজ্ঞান অনুসন্ধানের সার্চ ইঞ্জিন Science Guru | Humayun Shariar Himu | [Read More](https://medium.com/p/2544feb2a34a) |
 | Tue, 02 Dec 2025 10:42:24 GMT | Behavioral Threat Analytics: Stopping Credential Abuse | Sneha Mehra | [Read More](https://medium.com/p/8ffe198cb821) |
 | Tue, 02 Dec 2025 10:38:17 GMT | Bringing Power BI Composite Models to Life: Why They Matter for Smarter Business Decisions | Onelogica | [Read More](https://medium.com/p/02922f5a42dc) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 08:58:38 GMT | AI In Cybersecurity: Key Benefits, Defense Strategies, & Future Trends | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/e71f84478468) |
 | Tue, 02 Dec 2025 08:54:16 GMT | Automated Nmap Server Scanner Using Python & Supervisor | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/7231ea90de5a) |
 | Tue, 02 Dec 2025 08:47:30 GMT | What If I Want Too Many Things But End Up As Nothing? | Vijay Kumar Gupta | [Read More](https://medium.com/p/5d5409c21944) |
-| Tue, 02 Dec 2025 08:40:12 GMT | SAFE SPACE 2 | Samie Muriuki | [Read More](https://medium.com/p/3adde96fda50) |
-| Tue, 02 Dec 2025 08:39:45 GMT | Manufacturing Security: How Hackers Target IoT-Driven Factories | Digital Defense | [Read More](https://medium.com/p/6cfdcedb1213) |
-| Tue, 02 Dec 2025 08:37:48 GMT | Detecting Encoded PowerShell Commands with Sysmon — Lab | Sathinsha | [Read More](https://medium.com/p/517249ad9fa5) |
-| Tue, 02 Dec 2025 08:32:51 GMT | Cybersecurity in the Age of AI: Top Threats, Smart Solutions & Best Practices | Anjali | [Read More](https://medium.com/p/d7edf41a9d64) |
-| Tue, 02 Dec 2025 08:32:09 GMT | Digital system audit Netherlands: a Reusable Way to Prove Security | Sigli | [Read More](https://medium.com/p/ec79f19fc1d5) |
-| Tue, 02 Dec 2025 08:24:50 GMT | DnsEnum in Hacking - Find Subdomains & DNS Records Fast! | Shahzaib | [Read More](https://medium.com/p/6a7fa372c7f8) |
-| Tue, 02 Dec 2025 08:10:41 GMT | What is Cloud Computing Architecture? | Soundaryaps | [Read More](https://medium.com/p/0a12a7de7001) |
-| Tue, 02 Dec 2025 08:10:00 GMT | Qont Invests in Major Security Upgrades | Qont | [Read More](https://medium.com/p/5f096c088518) |
-| Tue, 02 Dec 2025 08:08:55 GMT | Top Benefits of Using the Best VPN for SEO | Technology hare | [Read More](https://medium.com/p/22bc060528ee) |
-| Tue, 02 Dec 2025 08:08:47 GMT | Why AI Is Dangerous for Humans in 2026? Viral Warnings From Big Tech CEOs Like Sundar Pichai | Tushar Jain | [Read More](https://medium.com/p/f172ab57ff12) |
-| Tue, 02 Dec 2025 08:06:02 GMT | Cyber-Enabled Warfare Has Arrived. Are We Ready for the Next Era of Conflict? | Bonjoureditor | [Read More](https://medium.com/p/00569fdc12a8) |
-| Tue, 02 Dec 2025 08:04:26 GMT | Whitebox Pentesting: The VS Code + Burp Workflow That Finds RCE Black-Box Tests Miss | Nebty | [Read More](https://medium.com/p/3f87903039f7) |
-| Tue, 02 Dec 2025 08:04:04 GMT | The Web3 Startup Wave Has Arrived: Why UnionKey Is Redefining the Next Generation of Crypto… | UnionKey | [Read More](https://medium.com/p/07d685552919) |
-| Tue, 02 Dec 2025 08:03:07 GMT | Authentication & Authorization: Things Developers Should Know but Probably Don’t | Varunmendre | [Read More](https://medium.com/p/ef6b96a73ff1) |
-| Tue, 02 Dec 2025 08:02:10 GMT | The Wolf in Sheep’s Clothing | Hüseyin Saglam | [Read More](https://medium.com/p/d3cebadaf715) |
-| Tue, 02 Dec 2025 08:01:57 GMT | Mastering Pipedream + Burp Collaborator: 12 Automation Recipes for Pentest Superpowers | Very Lazy Tech | [Read More](https://medium.com/p/741b5f3e785c) |
-| Tue, 02 Dec 2025 07:44:31 GMT | Your $200 Brain Dinner | Andy Wood | [Read More](https://medium.com/p/81780e2ccc51) |
-| Tue, 02 Dec 2025 07:36:24 GMT | Why Accurate Time Matters More Than Ever in Cybersecurity | Salman Abbas | [Read More](https://medium.com/p/82810deff1c8) |
-| Tue, 02 Dec 2025 07:31:43 GMT | Cyber Security vs Information Security: Key Differences, Roles, Policies & Real-World Applications… | Surya Kumar | [Read More](https://medium.com/p/558203d6c13e) |
-| Tue, 02 Dec 2025 07:15:52 GMT | Cyber Threats That Can Prevent Your Company From CCC Approval | Rahman Iqbal | [Read More](https://medium.com/p/ac9e06027a29) |
