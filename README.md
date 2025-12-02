@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 09:47:49 GMT | YOU CAN STILL LEARN FROM SIRI | Elizabeth Akande | [Read More](https://medium.com/p/44f3fe0b43ec) |
+| Tue, 02 Dec 2025 09:36:15 GMT | better_eval() — MetaCTF Writeup | Cycer | [Read More](https://medium.com/p/99119de7a5b8) |
+| Tue, 02 Dec 2025 09:31:56 GMT | Why Clients Choose Northwave Again and Again It’s Not Just Our Tech — It’s How We Walk With You | Fook Hwa Tan | [Read More](https://medium.com/p/9e0c4a1c7f60) |
+| Tue, 02 Dec 2025 09:30:39 GMT | You Asked, I Answered: Your Top Cybersecurity Concerns Ask Me Anything: Your Cyber Questions… | Fook Hwa Tan | [Read More](https://medium.com/p/622bd3dbf276) |
+| Tue, 02 Dec 2025 09:28:57 GMT | Internet Asset Exposure Surface Mapping Based on ZoomEye | ZoomEye | [Read More](https://medium.com/p/75b34984bd0f) |
 | Tue, 02 Dec 2025 09:09:36 GMT | UBA/UEBA Modeling Practices: Understanding User Behavior to Strengthen Detection Capabilities | Esra Kayhan | [Read More](https://medium.com/p/d6de697a5da4) |
 | Tue, 02 Dec 2025 09:09:03 GMT | Every CEO Must Read This Before 2026 | Redfox Security | [Read More](https://medium.com/p/5dbbfe0d3546) |
 | Tue, 02 Dec 2025 09:01:09 GMT | ️ Part 3: Crypto Hacks, Wallet Exploits & Ransomware Tracing — Inside the Digital Battlefield | ghostyjoe | [Read More](https://medium.com/p/3adb62fdc360) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 00:55:42 GMT | Everyone’s Using AI Agents. I’m Not. Here’s Why. | Regina | [Read More](https://medium.com/p/534ff1b5e439) |
 | Tue, 02 Dec 2025 00:40:18 GMT | Spring Boot ve JWT ile Güvenli Kimlik Doğrulama-2 | Abdüssamed KARA | [Read More](https://medium.com/p/1914597546b4) |
 | Tue, 02 Dec 2025 00:37:33 GMT | Spring Boot ve JWT ile Güvenli Kimlik Doğrulama-1 | Abdüssamed KARA | [Read More](https://medium.com/p/21f56af6ccc7) |
-| Tue, 02 Dec 2025 00:32:17 GMT | HackTheBox Kerberos Constrained Delegation: When Service Accounts Become Skeleton Keys | Cybersecurity Simplified | [Read More](https://medium.com/p/7bf771f6921c) |
-| Tue, 02 Dec 2025 00:32:17 GMT | CISA Flags Actively Exploited XSS Vulnerability in OpenPLC ScadaBR | CyberSecurity | [Read More](https://medium.com/p/c740dd45fcbf) |
-| Tue, 02 Dec 2025 00:32:08 GMT | The Mechanics of Modern Android Injection | Joseph James (JJ) | [Read More](https://medium.com/p/7412273c2ab7) |
-| Tue, 02 Dec 2025 00:02:14 GMT | OWASP (API6:2023) Unrestricted Access to Sensitive Business Flows: Metodología de Caza y Reporte | JPablo13 | [Read More](https://medium.com/p/fdf41ae2ac23) |
-| Mon, 01 Dec 2025 23:26:47 GMT | SSRF, LFI, RCE, and Admin Panel Discoveries | Monika sharma | [Read More](https://medium.com/p/dbc9fce6b665) |
