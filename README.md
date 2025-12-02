@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 17:16:01 GMT | Portswigger Authentication vulnerabilities Kullanıcı parolalarını değiştirme | Songül Kızılay Özügürler | [Read More](https://medium.com/p/80e5ee49dc8f) |
+| Tue, 02 Dec 2025 17:13:15 GMT | What happens to Google in the onchain era? | Arash Majnoun | [Read More](https://medium.com/p/c9322deecb94) |
+| Tue, 02 Dec 2025 17:12:30 GMT | Living off the Steam Machine | kinu | [Read More](https://medium.com/p/a4491394aa9f) |
+| Tue, 02 Dec 2025 17:11:24 GMT | How to Prepare for the CISSP Exam for Free (2025 Guide) | The Daily Cyber News | [Read More](https://medium.com/p/e7bdce44c021) |
+| Tue, 02 Dec 2025 17:09:09 GMT | Top 10 SOC Tools in 2026 (AI-Driven Edition): The Ultimate Guide for Cybersecurity Students | Vigneshmani Telagamsetti | [Read More](https://medium.com/p/af0dbe500a99) |
+| Tue, 02 Dec 2025 17:04:39 GMT | Advent of Cyber 2025 - Day 2: Phishing — Merry Clickmas | D4m.sh | [Read More](https://medium.com/p/1cf10a6e5d39) |
+| Tue, 02 Dec 2025 17:02:34 GMT | AI in Email Platforms in 2026: Big Opportunities, Bigger Risks — And Why Email Security Needs a… | HEXA AI SYSTEMS | [Read More](https://medium.com/p/761a628583ea) |
+| Tue, 02 Dec 2025 17:01:11 GMT | Extropy Security Bytes: w48, 2025 | Extropy.IO | [Read More](https://medium.com/p/9fd53eadd771) |
+| Tue, 02 Dec 2025 16:59:08 GMT | How I Discovered 1,400+ Users’ PII Through a GraphQL Query — and Uncovered 5 More Bugs Using the… | Ayaa Hamed | [Read More](https://medium.com/p/389d8e7d8deb) |
+| Tue, 02 Dec 2025 16:58:08 GMT | Advent of Cyber 2025- Day 2: Merry Clickmas and a Phishing Lesson I Won’t Forget | Akshat Patel | [Read More](https://medium.com/p/bee6e88d9375) |
+| Tue, 02 Dec 2025 16:46:01 GMT | Meet Jules: Your Programmable Coworker | ToxSec | [Read More](https://medium.com/p/a7938a4be5f5) |
+| Tue, 02 Dec 2025 16:45:16 GMT | How an IDOR Allowed Access to Any User’s KYC Data -Easy But Critical | terp0x0 | [Read More](https://medium.com/p/7d869143649f) |
+| Tue, 02 Dec 2025 16:44:20 GMT | Please Stop Replying All to Spam: A Public Service Announcement for the Modern Inbox | Joel Eskelsen | [Read More](https://medium.com/p/96bd5ece274b) |
+| Tue, 02 Dec 2025 16:43:04 GMT | 9 Cybersecurity Secrets Hackers Don’t Want You to Know | Liam | [Read More](https://medium.com/p/e543bd569530) |
+| Tue, 02 Dec 2025 16:38:19 GMT | AI Agents: AresGPT Prompt Engineering for Cyber Defenders a CompTIA Security+ All Study Guide | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/1967a3a2cb2b) |
+| Tue, 02 Dec 2025 16:34:29 GMT | Episode 13: “The Printer That Ate Q3” | Dr. House In I.T. | [Read More](https://medium.com/p/eef35ca1d27d) |
+| Tue, 02 Dec 2025 16:32:13 GMT | October Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/805a45b45e46) |
+| Tue, 02 Dec 2025 16:24:54 GMT | “Middle Mayhem” BTLO Lab Walkthrough | Jagadishtripathy | [Read More](https://medium.com/p/9e1622b2ec59) |
 | Tue, 02 Dec 2025 16:23:48 GMT | 5 Reasons Your Garage Door Won’t Close and How to Fix Them | Up & Down Garage Door Services | [Read More](https://medium.com/p/3d3a866b7d80) |
 | Tue, 02 Dec 2025 16:22:40 GMT | Capítulo 12 — Ecos da Rede | Kleber Andrade | [Read More](https://medium.com/p/3443714176c3) |
 | Tue, 02 Dec 2025 16:22:30 GMT | India’s Supreme Court Declares War on Digital Arrest Scams - India’s Supreme Court Just Declared… | Emmett Chao | [Read More](https://medium.com/p/55ef9ab76545) |
@@ -49,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 14:54:51 GMT | Day 2 — The Typed Letter | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/d63f46e3fa96) |
 | Tue, 02 Dec 2025 14:50:55 GMT | Using Python, Cloudflare and Robots.txt to Control How AI Sees Your Site | Shauvik Kumar | [Read More](https://medium.com/p/102d24e6695b) |
 | Tue, 02 Dec 2025 14:48:37 GMT | 7 Python Projects To Get You Started With Cybersecurity and Ethical Hacking | supasuge | [Read More](https://medium.com/p/c74885faa021) |
+| Tue, 02 Dec 2025 14:44:52 GMT | Are We Overusing AI? Let’s Talk Data Privacy | Dhilip Prasanna | [Read More](https://medium.com/p/f2b0e9e23274) |
 | Tue, 02 Dec 2025 14:43:19 GMT | The new era of third-party security: The perimeter you don’t control but that defines you | Rodrigo Gutierrez | [Read More](https://medium.com/p/5f7e1751f640) |
 | Tue, 02 Dec 2025 14:42:56 GMT | Taming the Tech Beast: How Industrial Design Makes New Gadgets Less Scary | Victra Lin | [Read More](https://medium.com/p/638f0db7f899) |
 | Tue, 02 Dec 2025 14:38:43 GMT | Mobile Security Application Guide: Proven Tips to Stay Safe | Hoplon InfoSec | [Read More](https://medium.com/p/de989038e181) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 12:19:42 GMT | The Future of Cybersecurity: Protecting a Digital-First World | plutosec | [Read More](https://medium.com/p/077a253e2dda) |
 | Tue, 02 Dec 2025 12:18:31 GMT | Remote Phone Monitoring: Is It Possible to Spy on My Wife’s Phone Without Touching It? | Peterteggs | [Read More](https://medium.com/p/09960061ed3a) |
 | Tue, 02 Dec 2025 12:16:38 GMT | Kya dekhte ho…? | Tanmay Naik | [Read More](https://medium.com/p/acf5613bf82b) |
-| Tue, 02 Dec 2025 12:11:25 GMT | Kickstart Your Cloud Career with the Best Azure Data Engineer Training Institute in Hyderabad | Version IT Shankar | [Read More](https://medium.com/p/05a68a79f011) |
-| Tue, 02 Dec 2025 12:09:58 GMT | Cyber Risk Quantification: The Financial Language of Security | Prakruti Monali | [Read More](https://medium.com/p/c820ec2ca400) |
-| Tue, 02 Dec 2025 12:08:34 GMT | Securing the Era of AI: A Practical Guide to LLM Security, Evaluation, and Guardrails | Muhammad Ahmed Jalil | [Read More](https://medium.com/p/41c8a24e766c) |
-| Tue, 02 Dec 2025 12:08:09 GMT | Portswigger Authentication vulnerabilities | Songül Kızılay Özügürler | [Read More](https://medium.com/p/5e71121ed420) |
-| Tue, 02 Dec 2025 12:07:12 GMT | Advent of Cyber 2025 — Day 1: Linux CLI-Shells Bells. | Khadijat Suleman | [Read More](https://medium.com/p/87aa70a149d8) |
-| Tue, 02 Dec 2025 12:06:51 GMT | How To Prevent Data Breaches in The Healthcare Industry | David Miller | [Read More](https://medium.com/p/f8acb98bc07c) |
-| Tue, 02 Dec 2025 12:04:33 GMT | Cyber Incident Response: Minimizing Downtime and Loss | Anjali Moitra Roy | [Read More](https://medium.com/p/b1c5e8f02d9d) |
-| Tue, 02 Dec 2025 11:44:30 GMT | The Biggest Security Failure I See Today: Leaders Who Don’t Understand Security | Peter Uliano | [Read More](https://medium.com/p/db85283f3fef) |
-| Tue, 02 Dec 2025 11:38:07 GMT | TCP vs UDP: The Clearest, Funniest Explanation You’ll Ever Read | Fateyaly | [Read More](https://medium.com/p/b3bcd603f284) |
-| Tue, 02 Dec 2025 11:27:49 GMT | Why Multi-Sig Wallets Are Non-Negotiable for Institutional Crypto Custody | Vygha | [Read More](https://medium.com/p/814f6e83666b) |
-| Tue, 02 Dec 2025 11:20:31 GMT | What is Cyber Security? The Different Types of Cybersecurity | Naresh I Technologies | [Read More](https://medium.com/p/8ccd1400be3c) |
-| Tue, 02 Dec 2025 11:17:14 GMT | Cybersecurity Threat Analysis | Manish Kumar | [Read More](https://medium.com/p/1c6de018799e) |
-| Tue, 02 Dec 2025 11:16:29 GMT | Telegram’s Privacy In Truth | O. J. Okpabi | [Read More](https://medium.com/p/93629a8d300d) |
-| Tue, 02 Dec 2025 11:14:06 GMT | The $800k BayCare Fine: What Every Patient Needs To Know | O. J. Okpabi | [Read More](https://medium.com/p/f6828c5b4470) |
-| Tue, 02 Dec 2025 11:13:28 GMT | The Hackers Labs Writeup — Elevator (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1523d76571f2) |
-| Tue, 02 Dec 2025 11:10:51 GMT | How to Detect and Protect Yourself From Deepfakes in 2025How to Detect and Protect Yourself From… | Ayza Anam | [Read More](https://medium.com/p/34a512ed5943) |
-| Tue, 02 Dec 2025 11:07:00 GMT | By 2026, major cybersecurity failures will raise cybersecurity salaries by 20–30% | Oliver Rochford | [Read More](https://medium.com/p/21ba1eba637a) |
-| Tue, 02 Dec 2025 11:06:28 GMT | OpenVPN Manager: A Complete Open-Source Solution for Enterprise VPN Management | Stepan Kutaj | [Read More](https://medium.com/p/fe214b8f4627) |
-| Tue, 02 Dec 2025 11:05:00 GMT | Computer Hardware Study for Master Hackers: | monster | [Read More](https://medium.com/p/9f4f67ae5653) |
