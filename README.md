@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 15:39:14 GMT | How AI and Modern Technology Are Transforming SMBs | Configr Technologies | [Read More](https://medium.com/p/531e88136ef8) |
+| Tue, 02 Dec 2025 15:31:53 GMT | Event ID — 85 - SOC109 - Emotet Malware Detected | Soumodeep Das | [Read More](https://medium.com/p/fafa098e59a2) |
+| Tue, 02 Dec 2025 15:31:06 GMT | GCP canary tokens | Mostafa Moradian | [Read More](https://medium.com/p/52a5603a1133) |
+| Tue, 02 Dec 2025 15:29:58 GMT | Deepfake Vishing Attacks Surge 1,633%. Here’s What Changed in Q1. | MohamedAbdelmenem | [Read More](https://medium.com/p/775afe99f790) |
+| Tue, 02 Dec 2025 15:28:57 GMT | Mastering AI Red Teaming: Essential Tools, Hardware, and Practical Techniques | Giulio Sistilli | [Read More](https://medium.com/p/7de4eb4c384c) |
 | Tue, 02 Dec 2025 15:22:51 GMT | Cyber Security Market: Rising Threats, Advanced Technologies, and Global Growth Opportunities | Desouza Nancy | [Read More](https://medium.com/p/61e7c9eb40ca) |
+| Tue, 02 Dec 2025 15:22:39 GMT | The Hackers Labs Writeup — Pacharán (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0b6a83be7de1) |
+| Tue, 02 Dec 2025 15:20:11 GMT | Hack With Me: A Side Quest Story. Advent of Cyber 2025 Day 1 | mikesploit | [Read More](https://medium.com/p/55c382b81a6b) |
 | Tue, 02 Dec 2025 15:19:12 GMT | How to Use Amazon Q Developer Securely in Enterprises | Davebhargavi | [Read More](https://medium.com/p/d41b44d989b7) |
 | Tue, 02 Dec 2025 15:17:31 GMT | Top 10 Cybersecurity Concerns Keeping Mid-Market CEOs Awake in 2025 | Hello @ Octellient | [Read More](https://medium.com/p/7b5e1d78afbd) |
 | Tue, 02 Dec 2025 15:13:28 GMT | NFTs: Digital Containers for Real-World Assets | pablochacon | [Read More](https://medium.com/p/a6f8fb001c65) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 10:27:27 GMT | Digital Self-Defense: The New Life Skill Everyone Must Master in 2025 | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/ceedce5880e9) |
 | Tue, 02 Dec 2025 10:27:02 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | Elyes BN | [Read More](https://medium.com/p/0abf74ff68ec) |
 | Tue, 02 Dec 2025 10:25:55 GMT | AI-Accelerated Security Monitoring: Beyond the 24/7 Overhead | Kavitha Banerjee | [Read More](https://medium.com/p/7409a4513465) |
-| Tue, 02 Dec 2025 10:25:55 GMT | Is Your DAST Tool Future-Proof ? The 8 Non-Negotiable Features Developers Need in 2026 | Khabbab Sarker | [Read More](https://medium.com/p/791603abcae1) |
-| Tue, 02 Dec 2025 10:24:55 GMT | Oman Data Center Security: Where Technology Meets Trust | Tekshoyabeelyas | [Read More](https://medium.com/p/662d691ac5d5) |
-| Tue, 02 Dec 2025 10:22:42 GMT | Why Modern Offensive Security Is Moving Up the Stack | Yua Mikanana | [Read More](https://medium.com/p/c032ec042826) |
-| Tue, 02 Dec 2025 10:20:25 GMT | Is Your DAST Tool Future-Proof ? The 8 Non-Negotiable Features Developers Need in 2026 | Khabbab Sarker | [Read More](https://medium.com/p/0712dd6555a1) |
-| Tue, 02 Dec 2025 10:20:14 GMT | Cyber Advisory & Readiness: Bridging the Leadership Gap | Saurav Tripati | [Read More](https://medium.com/p/a8273009776b) |
-| Tue, 02 Dec 2025 10:16:47 GMT | Every Company Is Now an AI Company (And It’s Getting Ridiculous) | Sophia Enakpoya | [Read More](https://medium.com/p/a8f0cdd0f3cb) |
-| Tue, 02 Dec 2025 10:07:12 GMT | OSINT Under the Hood: Mastering the Wayback Machine and Other Temporal Tools | Rabail Zaheer | [Read More](https://medium.com/p/896c39660bfb) |
