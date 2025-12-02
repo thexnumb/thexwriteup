@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 08:24:50 GMT | DnsEnum in Hacking - Find Subdomains & DNS Records Fast! | Shahzaib | [Read More](https://medium.com/p/6a7fa372c7f8) |
+| Tue, 02 Dec 2025 08:10:41 GMT | What is Cloud Computing Architecture? | Soundaryaps | [Read More](https://medium.com/p/0a12a7de7001) |
+| Tue, 02 Dec 2025 08:10:00 GMT | Qont Invests in Major Security Upgrades | Qont | [Read More](https://medium.com/p/5f096c088518) |
+| Tue, 02 Dec 2025 08:08:55 GMT | Top Benefits of Using the Best VPN for SEO | Technology hare | [Read More](https://medium.com/p/22bc060528ee) |
+| Tue, 02 Dec 2025 08:08:47 GMT | Why AI Is Dangerous for Humans in 2026? Viral Warnings From Big Tech CEOs Like Sundar Pichai | Tushar Jain | [Read More](https://medium.com/p/f172ab57ff12) |
+| Tue, 02 Dec 2025 08:06:02 GMT | Cyber-Enabled Warfare Has Arrived. Are We Ready for the Next Era of Conflict? | Bonjoureditor | [Read More](https://medium.com/p/00569fdc12a8) |
+| Tue, 02 Dec 2025 08:04:26 GMT | Whitebox Pentesting: The VS Code + Burp Workflow That Finds RCE Black-Box Tests Miss | Nebty | [Read More](https://medium.com/p/3f87903039f7) |
+| Tue, 02 Dec 2025 08:04:04 GMT | The Web3 Startup Wave Has Arrived: Why UnionKey Is Redefining the Next Generation of Crypto… | UnionKey | [Read More](https://medium.com/p/07d685552919) |
+| Tue, 02 Dec 2025 08:03:07 GMT | Authentication & Authorization: Things Developers Should Know but Probably Don’t | Varunmendre | [Read More](https://medium.com/p/ef6b96a73ff1) |
+| Tue, 02 Dec 2025 08:02:10 GMT | The Wolf in Sheep’s Clothing | Hüseyin Saglam | [Read More](https://medium.com/p/d3cebadaf715) |
+| Tue, 02 Dec 2025 08:01:57 GMT | Mastering Pipedream + Burp Collaborator: 12 Automation Recipes for Pentest Superpowers | Very Lazy Tech | [Read More](https://medium.com/p/741b5f3e785c) |
+| Tue, 02 Dec 2025 07:44:31 GMT | Your $200 Brain Dinner | Andy Wood | [Read More](https://medium.com/p/81780e2ccc51) |
 | Tue, 02 Dec 2025 07:36:24 GMT | Why Accurate Time Matters More Than Ever in Cybersecurity | Salman Abbas | [Read More](https://medium.com/p/82810deff1c8) |
 | Tue, 02 Dec 2025 07:31:43 GMT | Cyber Security vs Information Security: Key Differences, Roles, Policies & Real-World Applications… | Surya Kumar | [Read More](https://medium.com/p/558203d6c13e) |
 | Tue, 02 Dec 2025 07:15:52 GMT | Cyber Threats That Can Prevent Your Company From CCC Approval | Rahman Iqbal | [Read More](https://medium.com/p/ac9e06027a29) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 22:17:13 GMT | 3I/ATLAS Revealed a New National Security Problem, and It Is Not Aliens | Alton lockhart | [Read More](https://medium.com/p/a8d25cb72d95) |
 | Mon, 01 Dec 2025 22:01:18 GMT | Why Cybersecurity Matters Now More Than Ever — Especially for Young Africans | Rahma Nasir Iro | [Read More](https://medium.com/p/ab1fa08c7c73) |
 | Mon, 01 Dec 2025 22:00:32 GMT | The Fundamentals of API Security and Why It Matters Today | Hadia Rahmani | [Read More](https://medium.com/p/495a8b6948c5) |
-| Mon, 01 Dec 2025 21:49:31 GMT | Stop Automatic Reboots on Non-Activated Windows 10 Labs VMs | DuckWrites | [Read More](https://medium.com/p/c28031127d66) |
-| Mon, 01 Dec 2025 21:49:10 GMT | Your Strongest Firewall is Useless: Why Security Awareness Training is Your Best ROI | Eatonconnor | [Read More](https://medium.com/p/5c0532664835) |
-| Mon, 01 Dec 2025 21:46:03 GMT | Ehxb - Inside the Filesystem: The Truth Behind LFI & RFI | Ehxb | [Read More](https://medium.com/p/2b3626ed3ad7) |
-| Mon, 01 Dec 2025 21:32:28 GMT | why CORS errors happen and how to actually understand them | Satyam Singh | [Read More](https://medium.com/p/29399d6ef610) |
-| Mon, 01 Dec 2025 21:24:43 GMT | Cracking HackTheBox: HackNet — A Walkthrough from Recon to Root | Rahaliashraf | [Read More](https://medium.com/p/cdd1f2cd658d) |
-| Mon, 01 Dec 2025 21:23:31 GMT | When Malware Starts to Behave Like an AI Agent: Shai-hulud 2.0 | Juan Pablo Castro | [Read More](https://medium.com/p/7edc738e4b8c) |
-| Mon, 01 Dec 2025 21:18:46 GMT | Cybersecurity use, deployment, and advanced use-case | Ehsan Aghaei, PhD | [Read More](https://medium.com/p/58c779f7d4fd) |
-| Mon, 01 Dec 2025 21:18:05 GMT | BehindTheScreens: When the Internet Blinks — Cloudflare’s Outage, Fortinet’s Zero-Days, and a Week… | Sam - Behind The Screens | [Read More](https://medium.com/p/603fcfcea45c) |
-| Mon, 01 Dec 2025 21:15:15 GMT | Google Starts Sharing All Your Text Messages With Your Employer | Nauman khan | [Read More](https://medium.com/p/5d77ea270d77) |
-| Mon, 01 Dec 2025 21:14:49 GMT | The Ethics of Designing Vulnerability | Megan Workmon Larsen | [Read More](https://medium.com/p/cecf5c923242) |
-| Mon, 01 Dec 2025 21:13:25 GMT | November 2025: Major Cyber Attacks Ransomware Attacks, Data Breaches | IT_Engineer | [Read More](https://medium.com/p/64c0ee30e612) |
-| Mon, 01 Dec 2025 21:06:01 GMT | “Owns a Home, Car, and Makes $100K” — Why Successful Women Won’t Settle for Less | Queena Bryan | [Read More](https://medium.com/p/f3d5ac1636f6) |
