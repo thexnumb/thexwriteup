@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 10:22:42 GMT | Why Modern Offensive Security Is Moving Up the Stack | Yua Mikanana | [Read More](https://medium.com/p/c032ec042826) |
+| Tue, 02 Dec 2025 10:20:25 GMT | Is Your DAST Tool Future-Proof ? The 8 Non-Negotiable Features Developers Need in 2026 | Khabbab Sarker | [Read More](https://medium.com/p/0712dd6555a1) |
+| Tue, 02 Dec 2025 10:20:14 GMT | Cyber Advisory & Readiness: Bridging the Leadership Gap | Saurav Tripati | [Read More](https://medium.com/p/a8273009776b) |
+| Tue, 02 Dec 2025 10:16:47 GMT | Every Company Is Now an AI Company (And It’s Getting Ridiculous) | Sophia Enakpoya | [Read More](https://medium.com/p/a8f0cdd0f3cb) |
+| Tue, 02 Dec 2025 10:07:12 GMT | OSINT Under the Hood: Mastering the Wayback Machine and Other Temporal Tools | Rabail Zaheer | [Read More](https://medium.com/p/896c39660bfb) |
+| Tue, 02 Dec 2025 10:06:22 GMT | Execute Angular Guards Sequentially and in Order | Anass Guendef | [Read More](https://medium.com/p/9fa5367fa848) |
+| Tue, 02 Dec 2025 10:03:30 GMT | Security by Simplicity Why Complexity Is the Enemy of Protection | CYBER CYMRU | [Read More](https://medium.com/p/153acbf782a6) |
+| Tue, 02 Dec 2025 09:59:43 GMT | The Shadow Market: Indian Firms and the Global Hacking Operations (2024–2025) | Cyber Warfare Asia | [Read More](https://medium.com/p/82e2002d0f9e) |
+| Tue, 02 Dec 2025 09:50:23 GMT | Securing Africa in the Fourth Domain: Cybersecurity as Counterinfluence | Ox1de | [Read More](https://medium.com/p/89896063f5ae) |
+| Tue, 02 Dec 2025 09:48:58 GMT | Best Network Management Service Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/14734c5aea79) |
 | Tue, 02 Dec 2025 09:47:49 GMT | YOU CAN STILL LEARN FROM SIRI | Elizabeth Akande | [Read More](https://medium.com/p/44f3fe0b43ec) |
 | Tue, 02 Dec 2025 09:36:15 GMT | better_eval() — MetaCTF Writeup | Cycer | [Read More](https://medium.com/p/99119de7a5b8) |
 | Tue, 02 Dec 2025 09:31:56 GMT | Why Clients Choose Northwave Again and Again It’s Not Just Our Tech — It’s How We Walk With You | Fook Hwa Tan | [Read More](https://medium.com/p/9e0c4a1c7f60) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 02:02:13 GMT | Understanding Cyber Attacks Like a Pro: Hacker’s Lifecycle for Beginners | Jugal Patel | [Read More](https://medium.com/p/b30fec6388fc) |
 | Tue, 02 Dec 2025 01:49:20 GMT | Forcing a Smile When You Are Breaking Inside | Rudra | [Read More](https://medium.com/p/cf3209a55200) |
 | Tue, 02 Dec 2025 01:48:28 GMT | How I Passed the eJPTv2 at 16 (With a 91%) | Justin K | [Read More](https://medium.com/p/78158761175b) |
-| Tue, 02 Dec 2025 01:45:29 GMT | Navigating a Risky SMB Share en Español | Sofia Duarte | [Read More](https://medium.com/p/0b66d6bca80f) |
-| Tue, 02 Dec 2025 01:38:36 GMT | The best VPN Extensions for Firefox: Add-on vs. Mozilla VPN | Safelyo VPN | [Read More](https://medium.com/p/9a6e7c403cf5) |
-| Tue, 02 Dec 2025 01:34:43 GMT | Print Spooler & NTLM Relaying: The Legacy Service That Won’t Die | Cybersecurity Simplified | [Read More](https://medium.com/p/07360e7c7d55) |
-| Tue, 02 Dec 2025 01:34:29 GMT | The coming ai crime wave: why banks and payment systems are not ready | Juan Pablo Guzman | [Read More](https://medium.com/p/4855035fb834) |
-| Tue, 02 Dec 2025 01:32:59 GMT | Energy Web (EWT) Contract Swap | Barman | [Read More](https://medium.com/p/b8636e5c13b3) |
-| Tue, 02 Dec 2025 01:22:24 GMT | How to know if your computer is being monitored: 14 signs | Safelyo Global | [Read More](https://medium.com/p/89cf28082ae6) |
-| Tue, 02 Dec 2025 01:14:58 GMT | THM Advent Of Cyber 2025 Day 1 | ZeakPeak | [Read More](https://medium.com/p/3325ee42690c) |
-| Tue, 02 Dec 2025 00:55:42 GMT | Everyone’s Using AI Agents. I’m Not. Here’s Why. | Regina | [Read More](https://medium.com/p/534ff1b5e439) |
-| Tue, 02 Dec 2025 00:40:18 GMT | Spring Boot ve JWT ile Güvenli Kimlik Doğrulama-2 | Abdüssamed KARA | [Read More](https://medium.com/p/1914597546b4) |
-| Tue, 02 Dec 2025 00:37:33 GMT | Spring Boot ve JWT ile Güvenli Kimlik Doğrulama-1 | Abdüssamed KARA | [Read More](https://medium.com/p/21f56af6ccc7) |
