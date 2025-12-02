@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 20:43:49 GMT | The Meeting Room Impostor: How AI Assistant Names Became a Security Blind Spot | Mohammad Omar | [Read More](https://medium.com/p/bfbc08c47c1a) |
+| Tue, 02 Dec 2025 20:27:09 GMT | Anthropic Research Shows AI Agents Learn Smart Contract Exploitation | Valdez Ladd | [Read More](https://medium.com/p/9be135ad0f12) |
+| Tue, 02 Dec 2025 20:26:05 GMT | The Evolution of Data Centers | Jordanh | [Read More](https://medium.com/p/957acf0446d3) |
 | Tue, 02 Dec 2025 20:26:03 GMT | Cybersecurity and Economic Resilience: Why Protecting Data Means Protecting Growth | Chaimae | [Read More](https://medium.com/p/ed6b05fd2532) |
 | Tue, 02 Dec 2025 20:24:22 GMT | Introduction to SIEM — Tryhackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/ae9308f83724) |
 | Tue, 02 Dec 2025 20:18:20 GMT | Day 2 — TCP, UDP, and HTTP Deep Packet Analysis | Oluwadamilare Adeosun | [Read More](https://medium.com/p/674bb0927f64) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 15:29:58 GMT | Deepfake Vishing Attacks Surge 1,633%. Here’s What Changed in Q1. | MohamedAbdelmenem | [Read More](https://medium.com/p/775afe99f790) |
 | Tue, 02 Dec 2025 15:28:57 GMT | Mastering AI Red Teaming: Essential Tools, Hardware, and Practical Techniques | Giulio Sistilli | [Read More](https://medium.com/p/7de4eb4c384c) |
 | Tue, 02 Dec 2025 15:22:51 GMT | Cyber Security Market: Rising Threats, Advanced Technologies, and Global Growth Opportunities | Desouza Nancy | [Read More](https://medium.com/p/61e7c9eb40ca) |
-| Tue, 02 Dec 2025 15:22:39 GMT | The Hackers Labs Writeup — Pacharán (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0b6a83be7de1) |
-| Tue, 02 Dec 2025 15:20:11 GMT | Hack With Me: A Side Quest Story. Advent of Cyber 2025 Day 1 | mikesploit | [Read More](https://medium.com/p/55c382b81a6b) |
-| Tue, 02 Dec 2025 15:19:12 GMT | How to Use Amazon Q Developer Securely in Enterprises | Davebhargavi | [Read More](https://medium.com/p/d41b44d989b7) |
