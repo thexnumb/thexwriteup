@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 13:32:13 GMT | Garage Door Security Tips for Every Homeowner | 24H Garage Doors | [Read More](https://medium.com/p/203c09e19741) |
+| Tue, 02 Dec 2025 13:19:45 GMT | Implementing Snort IDS on an Ubuntu VM | Arunsangeeth | [Read More](https://medium.com/p/d8a54c47d8ce) |
+| Tue, 02 Dec 2025 13:10:28 GMT | How to Build a Secure JWT + OAuth2 Architecture for Modern Apps | victor oak | [Read More](https://medium.com/p/51dfc052c5ed) |
+| Tue, 02 Dec 2025 13:06:38 GMT | TOMIRIS APT ADOPTS PUBLIC-SERVICE-BASED C2 INFRASTRUCTURE | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/9185d4f42b11) |
+| Tue, 02 Dec 2025 13:05:37 GMT | How to Build a Pentesting Home Lab: Part 1-Virtual Box and Kali Linux | Jamie Omarr | [Read More](https://medium.com/p/7bfc99cc1fb3) |
+| Tue, 02 Dec 2025 13:03:52 GMT | How to Build a Pentesting Home Lab: Part 0-Introduction | Jamie Omarr | [Read More](https://medium.com/p/c5e986dd7967) |
+| Tue, 02 Dec 2025 13:03:33 GMT | What is the best IPTV app with built-in VPN? | LIVEIPTVSERVICE | [Read More](https://medium.com/p/86a82b2cd2ad) |
+| Tue, 02 Dec 2025 13:03:23 GMT | Launching Scorton — The Beginning of the Trust Internet | Bacely YoroBi | [Read More](https://medium.com/p/e5a51798f312) |
+| Tue, 02 Dec 2025 13:02:17 GMT | The Builder’s Notes: The Deepfake Triage Problem — How Healthcare Leaders Lose Millions Before… | Piyoosh Rai | [Read More](https://medium.com/p/6f378f77118a) |
+| Tue, 02 Dec 2025 13:01:33 GMT | GRC is the new ESG | Marcel | [Read More](https://medium.com/p/cb5eaf4ab4b6) |
+| Tue, 02 Dec 2025 12:53:38 GMT | Stop XSS: A Simple Guide to Cross-Site Scripting Security | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/693f41ccbc20) |
 | Tue, 02 Dec 2025 12:42:56 GMT | Masayoshi Son’s High-Stakes Gamble: Tears, Nvidia, And The AI Revolution | Vertrose | [Read More](https://medium.com/p/6a5fb1188f28) |
 | Tue, 02 Dec 2025 12:32:30 GMT | The Worst Feature in Java That Everyone Pretends Is Genius | The Dev Notebook | [Read More](https://medium.com/p/f3875d9ec1e4) |
 | Tue, 02 Dec 2025 12:32:17 GMT | Not phishing, not hacking: it’s much worse. And you probably have it installed already. | Germano Costi | [Read More](https://medium.com/p/0d6b75009842) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 07:36:24 GMT | Why Accurate Time Matters More Than Ever in Cybersecurity | Salman Abbas | [Read More](https://medium.com/p/82810deff1c8) |
 | Tue, 02 Dec 2025 07:31:43 GMT | Cyber Security vs Information Security: Key Differences, Roles, Policies & Real-World Applications… | Surya Kumar | [Read More](https://medium.com/p/558203d6c13e) |
 | Tue, 02 Dec 2025 07:15:52 GMT | Cyber Threats That Can Prevent Your Company From CCC Approval | Rahman Iqbal | [Read More](https://medium.com/p/ac9e06027a29) |
-| Tue, 02 Dec 2025 07:13:17 GMT | MCP’s Next Phase: Inside the November 2025 Specification | Dave Patten | [Read More](https://medium.com/p/49f298502b03) |
-| Tue, 02 Dec 2025 07:09:14 GMT | Angular Development: Building Dynamic and Scalable Web Applications | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/3f4172dd461c) |
-| Tue, 02 Dec 2025 07:05:25 GMT | About Richify Digital — Pakistan’s Leading Digital Services Company | Richifydigital | [Read More](https://medium.com/p/8ec44ed1e4c8) |
-| Tue, 02 Dec 2025 07:02:11 GMT | 4. Master the Basics, Break the Web: Browser Fundamentals | Abinesh M | [Read More](https://medium.com/p/f6447ac9f5cf) |
-| Tue, 02 Dec 2025 07:00:26 GMT | Advent of Cyber- day 1. Working with linux CLI | Suhani Panda | [Read More](https://medium.com/p/6024fb7c3524) |
-| Tue, 02 Dec 2025 06:55:20 GMT | AND HERE WE GO AGAIN!!! https://lnkd.in/gxYSm66u - Bhawini | Bhawini. | [Read More](https://medium.com/p/77d8682cd862) |
-| Tue, 02 Dec 2025 06:47:27 GMT | Digital Risk Protection Market Set to Grow at 17.33% CAGR Through 2030 | Michel mathew | [Read More](https://medium.com/p/bac2c0f75ce3) |
-| Tue, 02 Dec 2025 06:46:02 GMT | Your Next Smartphone Will Have a Government Backdoor (And You Can’t Close It) | Muhaideen Nausar | [Read More](https://medium.com/p/b23ee27d5c8e) |
-| Tue, 02 Dec 2025 06:45:56 GMT | Correlation-Based Detection Rules in Cybersecurity: From Atomic Events to Behavioral Insight | Andrey Pautov | [Read More](https://medium.com/p/1b3df31597bb) |
-| Tue, 02 Dec 2025 06:32:18 GMT | ⭐ Why tech billionaires are quietly building luxury survival bunkers | Mr Simpsons | [Read More](https://medium.com/p/f10433632074) |
-| Tue, 02 Dec 2025 06:29:52 GMT | The Daily Tech Digest: 02 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d717a2f7e3eb) |
