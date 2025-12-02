@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 23:04:13 GMT | Getting Job-Ready in Months, Not Years: The Realities of a Fast-Track Cybersecurity Diploma | Danish Ahmad | [Read More](https://medium.com/p/c0f35ee11921) |
+| Tue, 02 Dec 2025 23:03:02 GMT | Snowflake Governance Essentials: Tags, Classification, and Granular Security | Ferhat AOUAGHZENE | [Read More](https://medium.com/p/6ce4f6280bc2) |
+| Tue, 02 Dec 2025 22:49:21 GMT | Hacker le GPS : légende IT ou réalité ? | RAPATT | [Read More](https://medium.com/p/fd1779ccda92) |
+| Tue, 02 Dec 2025 22:40:47 GMT | PHASE 1 — How to Install Splunk SOAR (7.0) | Jayadeep Reddy Karri | [Read More](https://medium.com/p/bb7fba9f64f0) |
+| Tue, 02 Dec 2025 22:37:49 GMT | HackTheBox Authority: a Step-by-Step Walkthrough | Joseph Jung | [Read More](https://medium.com/p/3b8946767824) |
 | Tue, 02 Dec 2025 22:34:36 GMT | How i hacked LLM WITH PROMPT INJECTION Bro Said ‘Hi 25’… Next Thing I Knew I Owned the Entire… | MRKNIGHT-NIDU | [Read More](https://medium.com/p/508b1791c5cf) |
 | Tue, 02 Dec 2025 22:07:12 GMT | Zero Trust Demystified | Kenn Anderson, Jr. | [Read More](https://medium.com/p/df6a950d2ca9) |
 | Tue, 02 Dec 2025 21:54:59 GMT | DVWA — Command Injection (Low e Medium): Guia prático | Heloísa Tomé de Araujo | [Read More](https://medium.com/p/6180f845ae36) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 16:58:08 GMT | Advent of Cyber 2025- Day 2: Merry Clickmas and a Phishing Lesson I Won’t Forget | Akshat Patel | [Read More](https://medium.com/p/bee6e88d9375) |
 | Tue, 02 Dec 2025 16:46:01 GMT | Meet Jules: Your Programmable Coworker | ToxSec | [Read More](https://medium.com/p/a7938a4be5f5) |
 | Tue, 02 Dec 2025 16:45:16 GMT | How an IDOR Allowed Access to Any User’s KYC Data -Easy But Critical | terp0x0 | [Read More](https://medium.com/p/7d869143649f) |
-| Tue, 02 Dec 2025 16:44:20 GMT | Please Stop Replying All to Spam: A Public Service Announcement for the Modern Inbox | Joel Eskelsen | [Read More](https://medium.com/p/96bd5ece274b) |
-| Tue, 02 Dec 2025 16:43:04 GMT | 9 Cybersecurity Secrets Hackers Don’t Want You to Know | Liam | [Read More](https://medium.com/p/e543bd569530) |
-| Tue, 02 Dec 2025 16:38:19 GMT | AI Agents: AresGPT Prompt Engineering for Cyber Defenders a CompTIA Security+ All Study Guide | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/1967a3a2cb2b) |
-| Tue, 02 Dec 2025 16:34:29 GMT | Episode 13: “The Printer That Ate Q3” | Dr. House In I.T. | [Read More](https://medium.com/p/eef35ca1d27d) |
-| Tue, 02 Dec 2025 16:32:13 GMT | October Hack Analysis & Overview | Sisi | [Read More](https://medium.com/p/805a45b45e46) |
