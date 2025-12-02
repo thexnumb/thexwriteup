@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 04:47:42 GMT | Strategic Tech Integration: IT Services Companies in Australia | IT Company | [Read More](https://medium.com/p/94c11b7a3448) |
+| Tue, 02 Dec 2025 04:40:58 GMT | “Stop Blaming Yourself for Shopping Burnout. It’s the Store’s Fault.” | MyTravPick | [Read More](https://medium.com/p/ef003c08a5b6) |
+| Tue, 02 Dec 2025 04:40:46 GMT | My Mac Mini’s Internet Suddenly Dropped to 1 Mbps — The Fix Was Hidden in a Single Privacy Setting | Vinoo Jacob | [Read More](https://medium.com/p/5619ce743569) |
+| Tue, 02 Dec 2025 04:24:21 GMT | “What does it mean when a system quietly breaks its own rules? My experience | Jai Jain | [Read More](https://medium.com/p/3a27b93a06d8) |
+| Tue, 02 Dec 2025 04:11:40 GMT | CHAPTER 2 — THE BIRTH OF THE QUBIT | Shadlymaliyekkal | [Read More](https://medium.com/p/9d48dae966fc) |
+| Tue, 02 Dec 2025 04:06:09 GMT | Mengenal Technical Writer — Penerjemah Bahasa Teknis ke Bahasa Manusia | Han | [Read More](https://medium.com/p/b44d99d152d3) |
+| Tue, 02 Dec 2025 04:02:39 GMT | Spring Boot Is the New PHP — Easy, Popular, and Misused Everywhere | The Dev Notebook | [Read More](https://medium.com/p/01980d555d9a) |
 | Tue, 02 Dec 2025 03:42:46 GMT | How I Discovered 8 Header-Injection Weaknesses on a Wix-Hosted Domain | Tyreek Haynes | [Read More](https://medium.com/p/5eb6d631f604) |
+| Tue, 02 Dec 2025 03:42:08 GMT | Behind the Tech of Screen-Invisible Overlay Apps — and How “Interview Cheat Tools” Use Them | Vedavyas Viswanatham | [Read More](https://medium.com/p/07bf4887c069) |
 | Tue, 02 Dec 2025 03:39:03 GMT | Introduction to EDR — TryHackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/cb6a61d1ad34) |
 | Tue, 02 Dec 2025 03:32:19 GMT | Shai-Hulud 2.0: The Attack That Compromised Thousands of GitHub Repositories | Deven Chhajed | [Read More](https://medium.com/p/8c1346505c6b) |
 | Tue, 02 Dec 2025 03:28:03 GMT | Hidden Google Play Adware Drains Devices and Disrupts Millions of Users | UK Cyber Defence | [Read More](https://medium.com/p/8721f89c925d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 18:02:41 GMT | At 3:47 AM, An AI Started Hacking. It Had No Idea It Was the Criminal. | MohamedAbdelmenem | [Read More](https://medium.com/p/e7f241d0c3cd) |
 | Mon, 01 Dec 2025 18:02:12 GMT | AI-Augmented Cyber Threats on the Dark Web | David SEHYEON Baek | [Read More](https://medium.com/p/2555d84b404a) |
 | Mon, 01 Dec 2025 18:00:47 GMT | Cyber Security Tips Every Programmer MUST Know! | Lakhveer Singh Rajput | [Read More](https://medium.com/p/0a2ee5ce7c7a) |
-| Mon, 01 Dec 2025 17:58:15 GMT | How I Accidentally Became a Database Admin Without Applying for the Job | N Master | [Read More](https://medium.com/p/ffa9103c8d7d) |
-| Mon, 01 Dec 2025 17:56:23 GMT | The New Blind Spot in Cybersecurity: AI Agents Have Become an Execution Surface | Abatis ABTU | [Read More](https://medium.com/p/164471a08e23) |
-| Mon, 01 Dec 2025 17:54:05 GMT | ️ Part 2: Crypto Privacy, Mixers & Blockchain Analysis — How Anonymous Is Crypto Really? | ghostyjoe | [Read More](https://medium.com/p/d1928eb251b0) |
-| Mon, 01 Dec 2025 17:47:53 GMT | Building a GitHub Action to Automate Infrastructure Security Reviews | Nelson Silva | [Read More](https://medium.com/p/1d4513fe1307) |
-| Mon, 01 Dec 2025 17:41:14 GMT | When Major Retailer Security Fails-Lessons from Coupang’s 33.7 Million‑User Breach | Chetan Seripally | [Read More](https://medium.com/p/e6f60ddce3a8) |
-| Mon, 01 Dec 2025 17:37:13 GMT | Every breach tells a story. | Hachtechnology | [Read More](https://medium.com/p/6debc22c6bda) |
-| Mon, 01 Dec 2025 17:37:11 GMT | Introduction to Aardvark: OpenAI’s Agentic Security Researcher | Startup Consultant | [Read More](https://medium.com/p/021592b72a73) |
-| Mon, 01 Dec 2025 17:36:19 GMT | Passwords Are Like Ordering Pizza – And We’re Still Doing It the Hard Way | Aashish Baweja | [Read More](https://medium.com/p/19a3f6dd3614) |
