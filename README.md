@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 09:09:36 GMT | UBA/UEBA Modeling Practices: Understanding User Behavior to Strengthen Detection Capabilities | Esra Kayhan | [Read More](https://medium.com/p/d6de697a5da4) |
+| Tue, 02 Dec 2025 09:09:03 GMT | Every CEO Must Read This Before 2026 | Redfox Security | [Read More](https://medium.com/p/5dbbfe0d3546) |
+| Tue, 02 Dec 2025 09:01:09 GMT | ️ Part 3: Crypto Hacks, Wallet Exploits & Ransomware Tracing — Inside the Digital Battlefield | ghostyjoe | [Read More](https://medium.com/p/3adb62fdc360) |
+| Tue, 02 Dec 2025 08:59:43 GMT | 90-Day Proven DORA NIS2 EU AI Act Readiness Plan | Pentest_Testing_Corp | [Read More](https://medium.com/p/d59f9de65bc7) |
+| Tue, 02 Dec 2025 08:58:38 GMT | AI In Cybersecurity: Key Benefits, Defense Strategies, & Future Trends | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/e71f84478468) |
+| Tue, 02 Dec 2025 08:54:16 GMT | Automated Nmap Server Scanner Using Python & Supervisor | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/7231ea90de5a) |
+| Tue, 02 Dec 2025 08:47:30 GMT | What If I Want Too Many Things But End Up As Nothing? | Vijay Kumar Gupta | [Read More](https://medium.com/p/5d5409c21944) |
+| Tue, 02 Dec 2025 08:40:12 GMT | SAFE SPACE 2 | Samie Muriuki | [Read More](https://medium.com/p/3adde96fda50) |
+| Tue, 02 Dec 2025 08:39:45 GMT | Manufacturing Security: How Hackers Target IoT-Driven Factories | Digital Defense | [Read More](https://medium.com/p/6cfdcedb1213) |
+| Tue, 02 Dec 2025 08:37:48 GMT | Detecting Encoded PowerShell Commands with Sysmon — Lab | Sathinsha | [Read More](https://medium.com/p/517249ad9fa5) |
+| Tue, 02 Dec 2025 08:32:51 GMT | Cybersecurity in the Age of AI: Top Threats, Smart Solutions & Best Practices | Anjali | [Read More](https://medium.com/p/d7edf41a9d64) |
+| Tue, 02 Dec 2025 08:32:09 GMT | Digital system audit Netherlands: a Reusable Way to Prove Security | Sigli | [Read More](https://medium.com/p/ec79f19fc1d5) |
 | Tue, 02 Dec 2025 08:24:50 GMT | DnsEnum in Hacking - Find Subdomains & DNS Records Fast! | Shahzaib | [Read More](https://medium.com/p/6a7fa372c7f8) |
 | Tue, 02 Dec 2025 08:10:41 GMT | What is Cloud Computing Architecture? | Soundaryaps | [Read More](https://medium.com/p/0a12a7de7001) |
 | Tue, 02 Dec 2025 08:10:00 GMT | Qont Invests in Major Security Upgrades | Qont | [Read More](https://medium.com/p/5f096c088518) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 00:32:08 GMT | The Mechanics of Modern Android Injection | Joseph James (JJ) | [Read More](https://medium.com/p/7412273c2ab7) |
 | Tue, 02 Dec 2025 00:02:14 GMT | OWASP (API6:2023) Unrestricted Access to Sensitive Business Flows: Metodología de Caza y Reporte | JPablo13 | [Read More](https://medium.com/p/fdf41ae2ac23) |
 | Mon, 01 Dec 2025 23:26:47 GMT | SSRF, LFI, RCE, and Admin Panel Discoveries | Monika sharma | [Read More](https://medium.com/p/dbc9fce6b665) |
-| Mon, 01 Dec 2025 23:26:41 GMT | Stop Sharing .env | Faris Chtatou | [Read More](https://medium.com/p/e0f94bd73701) |
-| Mon, 01 Dec 2025 23:23:37 GMT | Mobile pen testing part 3: Static analysis of the Damm Vulnerable Bank app | Nol White Hat | [Read More](https://medium.com/p/99f006391844) |
-| Mon, 01 Dec 2025 23:23:28 GMT | Mobile pen testing part 4: Dynamic analysis of the Damm Vulnerable Bank app | Nol White Hat | [Read More](https://medium.com/p/0b29bf8a74c0) |
-| Mon, 01 Dec 2025 23:23:09 GMT | 5 Eye-Opening Lessons from Building a Personal API Hacking Lab | ms.chalo_cy | [Read More](https://medium.com/p/eeb7973a3ac2) |
-| Mon, 01 Dec 2025 23:09:18 GMT | Day 1-Networking Essentials and Wireshark: ICMP Echo Analysis | Oluwadamilare Adeosun | [Read More](https://medium.com/p/1bb5ffded932) |
-| Mon, 01 Dec 2025 23:02:45 GMT | AI inSecurity: We’re Making the Same Mistakes Again | Vito Rallo | [Read More](https://medium.com/p/ba0ee8a10a0f) |
-| Mon, 01 Dec 2025 22:59:14 GMT | The Ethics of Intelligence: Why Explainable AI Is Cybersecurity’s Next Frontier | Roger Millar | [Read More](https://medium.com/p/1197546bd76f) |
-| Mon, 01 Dec 2025 22:52:51 GMT | When My Son Turned Blue, I Met a Version of Myself I Never Knew | Binte Habib | [Read More](https://medium.com/p/173074c7bb54) |
-| Mon, 01 Dec 2025 22:40:50 GMT | Security Is NOT Customer Service and Treating It That Way Is a Major Risk factor. | Peter Uliano | [Read More](https://medium.com/p/342a9f1a0566) |
-| Mon, 01 Dec 2025 22:17:13 GMT | 3I/ATLAS Revealed a New National Security Problem, and It Is Not Aliens | Alton lockhart | [Read More](https://medium.com/p/a8d25cb72d95) |
-| Mon, 01 Dec 2025 22:01:18 GMT | Why Cybersecurity Matters Now More Than Ever — Especially for Young Africans | Rahma Nasir Iro | [Read More](https://medium.com/p/ab1fa08c7c73) |
-| Mon, 01 Dec 2025 22:00:32 GMT | The Fundamentals of API Security and Why It Matters Today | Hadia Rahmani | [Read More](https://medium.com/p/495a8b6948c5) |
