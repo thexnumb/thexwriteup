@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 11:38:07 GMT | TCP vs UDP: The Clearest, Funniest Explanation You’ll Ever Read | Fateyaly | [Read More](https://medium.com/p/b3bcd603f284) |
+| Tue, 02 Dec 2025 11:27:49 GMT | Why Multi-Sig Wallets Are Non-Negotiable for Institutional Crypto Custody | Vygha | [Read More](https://medium.com/p/814f6e83666b) |
+| Tue, 02 Dec 2025 11:20:31 GMT | What is Cyber Security? The Different Types of Cybersecurity | Naresh I Technologies | [Read More](https://medium.com/p/8ccd1400be3c) |
+| Tue, 02 Dec 2025 11:17:14 GMT | Cybersecurity Threat Analysis | Manish Kumar | [Read More](https://medium.com/p/1c6de018799e) |
+| Tue, 02 Dec 2025 11:16:29 GMT | Telegram’s Privacy In Truth | O. J. Okpabi | [Read More](https://medium.com/p/93629a8d300d) |
+| Tue, 02 Dec 2025 11:14:06 GMT | The $800k BayCare Fine: What Every Patient Needs To Know | O. J. Okpabi | [Read More](https://medium.com/p/f6828c5b4470) |
+| Tue, 02 Dec 2025 11:13:28 GMT | The Hackers Labs Writeup — Elevator (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1523d76571f2) |
 | Tue, 02 Dec 2025 11:10:51 GMT | How to Detect and Protect Yourself From Deepfakes in 2025How to Detect and Protect Yourself From… | Ayza Anam | [Read More](https://medium.com/p/34a512ed5943) |
 | Tue, 02 Dec 2025 11:07:00 GMT | By 2026, major cybersecurity failures will raise cybersecurity salaries by 20–30% | Oliver Rochford | [Read More](https://medium.com/p/21ba1eba637a) |
 | Tue, 02 Dec 2025 11:06:28 GMT | OpenVPN Manager: A Complete Open-Source Solution for Enterprise VPN Management | Stepan Kutaj | [Read More](https://medium.com/p/fe214b8f4627) |
@@ -22,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 10:54:56 GMT | Security Lab Simulation Project Part 2: VM Set-up and Configuration | Jenny | [Read More](https://medium.com/p/c304473ed5fc) |
 | Tue, 02 Dec 2025 10:52:18 GMT | Learning Paths — Part II: Finding Your Stride | Roman Usyk | [Read More](https://medium.com/p/d7bb86363f8e) |
 | Tue, 02 Dec 2025 10:51:57 GMT | What’s TLS 1.3 Really About ? | Vijayvenkatj | [Read More](https://medium.com/p/256a729952ff) |
+| Tue, 02 Dec 2025 10:48:57 GMT | Simulasi Purple Team: Kustomisasi Aturan Wazuh | Jerry Berlin | [Read More](https://medium.com/p/a89fc867d677) |
 | Tue, 02 Dec 2025 10:48:33 GMT | Learning Paths. Part I: The Uphill Struggle | Roman Usyk | [Read More](https://medium.com/p/1c59cb769d19) |
 | Tue, 02 Dec 2025 10:47:05 GMT | Why Your Mac Needs a VPN in 2025: A Practical Guide for Real-World Users | Azam Azizov | [Read More](https://medium.com/p/78b09906d88e) |
 | Tue, 02 Dec 2025 10:42:50 GMT | বিজ্ঞান অনুসন্ধানের সার্চ ইঞ্জিন Science Guru | Humayun Shariar Himu | [Read More](https://medium.com/p/2544feb2a34a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 05:02:41 GMT | Decoupling AI Intelligence from Security Control: The Networked Threat Model | crązŷrąiɲ | [Read More](https://medium.com/p/7b539177c49d) |
 | Tue, 02 Dec 2025 05:00:43 GMT | Think PDFs Are Safe? How Hackers Use Them for Stored XSS Attacks | Tushar Suryawanshi | [Read More](https://medium.com/p/043f2c208c37) |
 | Tue, 02 Dec 2025 05:00:09 GMT | Why Managed Security Services Are Becoming Essential for Businesses in Thane & Mumbai | Maxatlasofficial | [Read More](https://medium.com/p/7c6d2ad48881) |
-| Tue, 02 Dec 2025 04:59:19 GMT | How to Secure Your CCTV System from Hackers in 2025 | Ask IT Support | [Read More](https://medium.com/p/9e658ce800a6) |
-| Tue, 02 Dec 2025 04:57:41 GMT | What is a Backdoor? - VIIEGO | Rolando | [Read More](https://medium.com/p/78199185bd0f) |
-| Tue, 02 Dec 2025 04:55:01 GMT | The Node.js Bug That Took Down My App — And the 2 Lines That Fixed It | Amar pratap singh | [Read More](https://medium.com/p/eacd34303ac6) |
-| Tue, 02 Dec 2025 04:50:12 GMT | TryHackMe — Advent of Cyber 2025: Day1 — Side Quest 1 | Pasquale Kwan | [Read More](https://medium.com/p/abcf36668b74) |
-| Tue, 02 Dec 2025 04:47:42 GMT | Strategic Tech Integration: IT Services Companies in Australia | IT Company | [Read More](https://medium.com/p/94c11b7a3448) |
-| Tue, 02 Dec 2025 04:43:28 GMT | Pantest 101: Methodology Lengkap Dari Reconnaissance Sampai Reporting | Handev Code | [Read More](https://medium.com/p/1e445cc08a68) |
-| Tue, 02 Dec 2025 04:40:58 GMT | “Stop Blaming Yourself for Shopping Burnout. It’s the Store’s Fault.” | MyTravPick | [Read More](https://medium.com/p/ef003c08a5b6) |
-| Tue, 02 Dec 2025 04:40:46 GMT | My Mac Mini’s Internet Suddenly Dropped to 1 Mbps — The Fix Was Hidden in a Single Privacy Setting | Vinoo Jacob | [Read More](https://medium.com/p/5619ce743569) |
