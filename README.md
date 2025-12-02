@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 23:24:17 GMT | Linux CLI — Shells Bells Side-Quest | CloudAldir | [Read More](https://medium.com/p/5354a005fc50) |
+| Tue, 02 Dec 2025 23:15:13 GMT | Building a Complete Threat Detection Lab with Wazuh: Brute-Force, Intrusion, and File Integrity… | Ghassen Hafsaoui | [Read More](https://medium.com/p/c0b20cce4831) |
 | Tue, 02 Dec 2025 23:04:13 GMT | Getting Job-Ready in Months, Not Years: The Realities of a Fast-Track Cybersecurity Diploma | Danish Ahmad | [Read More](https://medium.com/p/c0f35ee11921) |
 | Tue, 02 Dec 2025 23:03:02 GMT | Snowflake Governance Essentials: Tags, Classification, and Granular Security | Ferhat AOUAGHZENE | [Read More](https://medium.com/p/6ce4f6280bc2) |
 | Tue, 02 Dec 2025 22:49:21 GMT | Hacker le GPS : légende IT ou réalité ? | RAPATT | [Read More](https://medium.com/p/fd1779ccda92) |
@@ -60,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 19:29:58 GMT | Pwned1 Walkthrough | IshhIshneet | [Read More](https://medium.com/p/6d91b9771d9d) |
 | Tue, 02 Dec 2025 19:28:19 GMT | The Southward Advance That Does Not Exist: A Technical Breakdown of Misinterpreted Threats | Put me in a Chanel | [Read More](https://medium.com/p/0600073b1349) |
 | Tue, 02 Dec 2025 19:27:44 GMT | TLS Deep Dive | Coleo7o7o7 | [Read More](https://medium.com/p/300dd699f4ab) |
+| Tue, 02 Dec 2025 19:20:12 GMT | The Worst Computer Viruses of All Time — and What Your Company Can Learn From Them | Cordula Boeck | [Read More](https://medium.com/p/543348495154) |
 | Tue, 02 Dec 2025 19:17:29 GMT | CVE-2025–62217 - Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/70dba4dcb419) |
 | Tue, 02 Dec 2025 19:11:10 GMT | What Actually Happens Inside a Data Breach (A Step-by-Step Breakdown) | Abdullah Javeed | [Read More](https://medium.com/p/1e60118d96a2) |
 | Tue, 02 Dec 2025 19:10:20 GMT | Stop Using JWT for Everything. It’s Not Secure, It’s Just Trendy. | Ferid Brković | [Read More](https://medium.com/p/fb54c0d904cb) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 17:02:34 GMT | AI in Email Platforms in 2026: Big Opportunities, Bigger Risks — And Why Email Security Needs a… | HEXA AI SYSTEMS | [Read More](https://medium.com/p/761a628583ea) |
 | Tue, 02 Dec 2025 17:01:11 GMT | Extropy Security Bytes: w48, 2025 | Extropy.IO | [Read More](https://medium.com/p/9fd53eadd771) |
 | Tue, 02 Dec 2025 16:59:08 GMT | How I Discovered 1,400+ Users’ PII Through a GraphQL Query — and Uncovered 5 More Bugs Using the… | Ayaa Hamed | [Read More](https://medium.com/p/389d8e7d8deb) |
-| Tue, 02 Dec 2025 16:58:08 GMT | Advent of Cyber 2025- Day 2: Merry Clickmas and a Phishing Lesson I Won’t Forget | Akshat Patel | [Read More](https://medium.com/p/bee6e88d9375) |
-| Tue, 02 Dec 2025 16:46:01 GMT | Meet Jules: Your Programmable Coworker | ToxSec | [Read More](https://medium.com/p/a7938a4be5f5) |
-| Tue, 02 Dec 2025 16:45:16 GMT | How an IDOR Allowed Access to Any User’s KYC Data -Easy But Critical | terp0x0 | [Read More](https://medium.com/p/7d869143649f) |
