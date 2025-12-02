@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 12:42:56 GMT | Masayoshi Son’s High-Stakes Gamble: Tears, Nvidia, And The AI Revolution | Vertrose | [Read More](https://medium.com/p/6a5fb1188f28) |
+| Tue, 02 Dec 2025 12:32:30 GMT | The Worst Feature in Java That Everyone Pretends Is Genius | The Dev Notebook | [Read More](https://medium.com/p/f3875d9ec1e4) |
+| Tue, 02 Dec 2025 12:32:17 GMT | Not phishing, not hacking: it’s much worse. And you probably have it installed already. | Germano Costi | [Read More](https://medium.com/p/0d6b75009842) |
+| Tue, 02 Dec 2025 12:30:02 GMT | Machine Learning Astro Bot Achievement in Space Robotics Explained | Motherlandlove | [Read More](https://medium.com/p/5a70439aa95c) |
+| Tue, 02 Dec 2025 12:27:00 GMT | The Inverse Hype Cycle: Why Hype Surrounding New Technologies Prevents Critical Debates | Marcus Neser | [Read More](https://medium.com/p/518a3c56a5d4) |
+| Tue, 02 Dec 2025 12:22:52 GMT | Are VPNs Legal? A Simple Global Guide for 2025 | Awais Khan | [Read More](https://medium.com/p/5540216cc59c) |
+| Tue, 02 Dec 2025 12:22:12 GMT | AI Security is a Workflow Problem | Parminder Singh | [Read More](https://medium.com/p/7263bdcb382a) |
+| Tue, 02 Dec 2025 12:19:42 GMT | The Future of Cybersecurity: Protecting a Digital-First World | plutosec | [Read More](https://medium.com/p/077a253e2dda) |
+| Tue, 02 Dec 2025 12:18:31 GMT | Remote Phone Monitoring: Is It Possible to Spy on My Wife’s Phone Without Touching It? | Peterteggs | [Read More](https://medium.com/p/09960061ed3a) |
+| Tue, 02 Dec 2025 12:16:38 GMT | Kya dekhte ho…? | Tanmay Naik | [Read More](https://medium.com/p/acf5613bf82b) |
+| Tue, 02 Dec 2025 12:11:25 GMT | Kickstart Your Cloud Career with the Best Azure Data Engineer Training Institute in Hyderabad | Version IT Shankar | [Read More](https://medium.com/p/05a68a79f011) |
+| Tue, 02 Dec 2025 12:09:58 GMT | Cyber Risk Quantification: The Financial Language of Security | Prakruti Monali | [Read More](https://medium.com/p/c820ec2ca400) |
+| Tue, 02 Dec 2025 12:08:34 GMT | Securing the Era of AI: A Practical Guide to LLM Security, Evaluation, and Guardrails | Muhammad Ahmed Jalil | [Read More](https://medium.com/p/41c8a24e766c) |
+| Tue, 02 Dec 2025 12:08:09 GMT | Portswigger Authentication vulnerabilities | Songül Kızılay Özügürler | [Read More](https://medium.com/p/5e71121ed420) |
+| Tue, 02 Dec 2025 12:07:12 GMT | Advent of Cyber 2025 — Day 1: Linux CLI-Shells Bells. | Khadijat Suleman | [Read More](https://medium.com/p/87aa70a149d8) |
+| Tue, 02 Dec 2025 12:06:51 GMT | How To Prevent Data Breaches in The Healthcare Industry | David Miller | [Read More](https://medium.com/p/f8acb98bc07c) |
+| Tue, 02 Dec 2025 12:04:33 GMT | Cyber Incident Response: Minimizing Downtime and Loss | Anjali Moitra Roy | [Read More](https://medium.com/p/b1c5e8f02d9d) |
+| Tue, 02 Dec 2025 11:44:30 GMT | The Biggest Security Failure I See Today: Leaders Who Don’t Understand Security | Peter Uliano | [Read More](https://medium.com/p/db85283f3fef) |
 | Tue, 02 Dec 2025 11:38:07 GMT | TCP vs UDP: The Clearest, Funniest Explanation You’ll Ever Read | Fateyaly | [Read More](https://medium.com/p/b3bcd603f284) |
 | Tue, 02 Dec 2025 11:27:49 GMT | Why Multi-Sig Wallets Are Non-Negotiable for Institutional Crypto Custody | Vygha | [Read More](https://medium.com/p/814f6e83666b) |
 | Tue, 02 Dec 2025 11:20:31 GMT | What is Cyber Security? The Different Types of Cybersecurity | Naresh I Technologies | [Read More](https://medium.com/p/8ccd1400be3c) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 06:45:56 GMT | Correlation-Based Detection Rules in Cybersecurity: From Atomic Events to Behavioral Insight | Andrey Pautov | [Read More](https://medium.com/p/1b3df31597bb) |
 | Tue, 02 Dec 2025 06:32:18 GMT | ⭐ Why tech billionaires are quietly building luxury survival bunkers | Mr Simpsons | [Read More](https://medium.com/p/f10433632074) |
 | Tue, 02 Dec 2025 06:29:52 GMT | The Daily Tech Digest: 02 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d717a2f7e3eb) |
-| Tue, 02 Dec 2025 06:28:19 GMT | Beyond the Firewall: Engineering a WAF-Aware Detection Pipeline for the OWASP Top 10 | Nmullenski | [Read More](https://medium.com/p/ed7d5c08baca) |
-| Tue, 02 Dec 2025 06:22:00 GMT | Your Laptop Can’t Belong to Two Companies — Here’s Why | Manpreetsingh | [Read More](https://medium.com/p/c941a968e5bc) |
-| Tue, 02 Dec 2025 06:16:50 GMT | Securing APIs — Techniques to Protect Your Systems | S.Ali | [Read More](https://medium.com/p/5a0792996c89) |
-| Tue, 02 Dec 2025 06:12:56 GMT | My Ring Doorbell Wouldn’t Connect to WiFi for 3 Hours — Here’s the Stupid-Simple Fix That Finally… | Bryan Collins | [Read More](https://medium.com/p/6e7b1aa06531) |
-| Tue, 02 Dec 2025 06:02:33 GMT | Why I Stopped Trusting Third-Party NPM Packages (And the Architecture We Built Instead) | Michael Preston | [Read More](https://medium.com/p/485dbc75adf0) |
-| Tue, 02 Dec 2025 06:01:25 GMT | Build the Foundation of Cyber Defense Excellence — Certified Ethical Hacking Essentials (CEHE) | Adhiraj Kasabe | [Read More](https://medium.com/p/f4baa1872469) |
-| Tue, 02 Dec 2025 05:55:38 GMT | WSLGuardian -A Lightweight Security Monitoring Layer for WSL2 Environments | Foxtraveler | [Read More](https://medium.com/p/2a49c49e1832) |
-| Tue, 02 Dec 2025 05:53:45 GMT | Ban on Free & Unregistered VPNs: Why Pakistan Needs a Secure Digital Shield Now | Zunaira Malik | [Read More](https://medium.com/p/3a4085c8e601) |
-| Tue, 02 Dec 2025 05:49:42 GMT | ️ Blog 60 — AWS Cost Optimization Best Practices | Prutha_Dongre | [Read More](https://medium.com/p/57b8359d6f7a) |
-| Tue, 02 Dec 2025 05:48:12 GMT | Zero to Hero: Your Definitive Roadmap to Mastering AWS Cloud Security and Certification | Shweta Papnai | [Read More](https://medium.com/p/3abb486b2498) |
-| Tue, 02 Dec 2025 05:42:29 GMT | The New “Mandatory” App on Your Phone: India’s Cyber Safety Push | Himanshu Dhiman | [Read More](https://medium.com/p/a822e4e45e5a) |
-| Tue, 02 Dec 2025 05:41:44 GMT | A Murder in the Park… and the Silent Killer Inside Your Engineering Culture | Yaseenmd | [Read More](https://medium.com/p/417d2390b8c6) |
-| Tue, 02 Dec 2025 05:31:44 GMT | The Surprising Trillion-Dollar Opportunity Hiding in Plain Sight | StackAlpha IO | [Read More](https://medium.com/p/23fcd7c72861) |
-| Tue, 02 Dec 2025 05:28:43 GMT | The Bug That Bled the Internet | Ravi Patil | [Read More](https://medium.com/p/0360d3a09988) |
-| Tue, 02 Dec 2025 05:23:12 GMT | 4 Critical Vulnerabilities that Created Complete Systemic Failure In a Popular WordPress Deployment | Tyreek Haynes | [Read More](https://medium.com/p/9a00bbae40ed) |
-| Tue, 02 Dec 2025 05:02:41 GMT | Decoupling AI Intelligence from Security Control: The Networked Threat Model | crązŷrąiɲ | [Read More](https://medium.com/p/7b539177c49d) |
-| Tue, 02 Dec 2025 05:00:43 GMT | Think PDFs Are Safe? How Hackers Use Them for Stored XSS Attacks | Tushar Suryawanshi | [Read More](https://medium.com/p/043f2c208c37) |
-| Tue, 02 Dec 2025 05:00:09 GMT | Why Managed Security Services Are Becoming Essential for Businesses in Thane & Mumbai | Maxatlasofficial | [Read More](https://medium.com/p/7c6d2ad48881) |
