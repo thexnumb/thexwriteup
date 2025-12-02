@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 16:23:48 GMT | 5 Reasons Your Garage Door Won’t Close and How to Fix Them | Up & Down Garage Door Services | [Read More](https://medium.com/p/3d3a866b7d80) |
+| Tue, 02 Dec 2025 16:22:40 GMT | Capítulo 12 — Ecos da Rede | Kleber Andrade | [Read More](https://medium.com/p/3443714176c3) |
+| Tue, 02 Dec 2025 16:22:30 GMT | India’s Supreme Court Declares War on Digital Arrest Scams - India’s Supreme Court Just Declared… | Emmett Chao | [Read More](https://medium.com/p/55ef9ab76545) |
+| Tue, 02 Dec 2025 16:18:03 GMT | How a ₹400 Microcontroller Can Steal Your Credentials (Evil Twin Attack — Conceptual Breakdown) | Mohammed Fizal | [Read More](https://medium.com/p/facd3aea4523) |
+| Tue, 02 Dec 2025 16:15:05 GMT | It’s Not Imposter Syndrome. It’s Tribalism. | Jeff Kingsland | [Read More](https://medium.com/p/8a70943b2f27) |
+| Tue, 02 Dec 2025 16:04:46 GMT | [Blue Team Labs Online Write-up] Zeta End (Filefix, rclone, sliver and github attachment fille… | Chicken0248 | [Read More](https://medium.com/p/fa2e43370f93) |
+| Tue, 02 Dec 2025 16:03:37 GMT | The Future of IAM: 7 Cybersecurity Trends Shaping Identity by 2029 | Youssef Hossny | [Read More](https://medium.com/p/79d194db8259) |
+| Tue, 02 Dec 2025 16:02:33 GMT | The API Call That Stole My Sleep and Bank Account | Adonis | [Read More](https://medium.com/p/453b75e5aa77) |
+| Tue, 02 Dec 2025 16:02:11 GMT | You Found Me in the Dark and Walked Toward the Light With Me | Winsky | [Read More](https://medium.com/p/4e999979b23b) |
+| Tue, 02 Dec 2025 15:59:24 GMT | eWPTXv3 Certification Review | 0xc4t | [Read More](https://medium.com/p/e213252aab96) |
+| Tue, 02 Dec 2025 15:52:14 GMT | The Unexpected “Positive Influence” of Flash USDT: What Fake Crypto Coins Are Really Teaching Us | Flash Crypto Hub | [Read More](https://medium.com/p/704647795b1c) |
+| Tue, 02 Dec 2025 15:51:55 GMT | Extracting IOCs from Any CTI Report in 50 Seconds Using CyberChef (With Examples) | Paritosh | [Read More](https://medium.com/p/b03645aa81a3) |
+| Tue, 02 Dec 2025 15:50:31 GMT | [Blue Team Labs Online Write-up] Rotten Cloud (Investigate hybrid cloud infra with Splunk) | Chicken0248 | [Read More](https://medium.com/p/2e973ec54a0a) |
+| Tue, 02 Dec 2025 15:50:20 GMT | Infrastructure as Code: Deploy Kubernetes (EKS) on AWS with Terraform | Mathieu ROGER | [Read More](https://medium.com/p/95ebe22102c4) |
+| Tue, 02 Dec 2025 15:50:17 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 3: DC-3.2 | Shikhar Sinha | [Read More](https://medium.com/p/50bc5ff982bd) |
+| Tue, 02 Dec 2025 15:46:43 GMT | Dark LLMs: When Your AI Traffic Is C2 | Wes Young | [Read More](https://medium.com/p/cef0dab3f2a8) |
+| Tue, 02 Dec 2025 15:44:45 GMT | The Hidden Cost of Microservices: Security Everywhere | Anto Semeraro | [Read More](https://medium.com/p/f940b20ecc87) |
 | Tue, 02 Dec 2025 15:39:14 GMT | How AI and Modern Technology Are Transforming SMBs | Configr Technologies | [Read More](https://medium.com/p/531e88136ef8) |
 | Tue, 02 Dec 2025 15:31:53 GMT | Event ID — 85 - SOC109 - Emotet Malware Detected | Soumodeep Das | [Read More](https://medium.com/p/fafa098e59a2) |
 | Tue, 02 Dec 2025 15:31:06 GMT | GCP canary tokens | Mostafa Moradian | [Read More](https://medium.com/p/52a5603a1133) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 11:07:00 GMT | By 2026, major cybersecurity failures will raise cybersecurity salaries by 20–30% | Oliver Rochford | [Read More](https://medium.com/p/21ba1eba637a) |
 | Tue, 02 Dec 2025 11:06:28 GMT | OpenVPN Manager: A Complete Open-Source Solution for Enterprise VPN Management | Stepan Kutaj | [Read More](https://medium.com/p/fe214b8f4627) |
 | Tue, 02 Dec 2025 11:05:00 GMT | Computer Hardware Study for Master Hackers: | monster | [Read More](https://medium.com/p/9f4f67ae5653) |
-| Tue, 02 Dec 2025 11:02:54 GMT | Flag Command — HTB Walkthrough | Muhammad Younas | [Read More](https://medium.com/p/144adcde0b4e) |
-| Tue, 02 Dec 2025 10:58:46 GMT | How iPhone 7 Plus Performs in Gaming and Heavy Tasks Today? | Chloe White | [Read More](https://medium.com/p/e5105e1f635f) |
-| Tue, 02 Dec 2025 10:56:45 GMT | Penetrant Testing - Best NDT Inspection | Best NDT Inspection | [Read More](https://medium.com/p/e0980f70d62b) |
-| Tue, 02 Dec 2025 10:54:56 GMT | Security Lab Simulation Project Part 2: VM Set-up and Configuration | Jenny | [Read More](https://medium.com/p/c304473ed5fc) |
-| Tue, 02 Dec 2025 10:52:18 GMT | Learning Paths — Part II: Finding Your Stride | Roman Usyk | [Read More](https://medium.com/p/d7bb86363f8e) |
-| Tue, 02 Dec 2025 10:51:57 GMT | What’s TLS 1.3 Really About ? | Vijayvenkatj | [Read More](https://medium.com/p/256a729952ff) |
-| Tue, 02 Dec 2025 10:48:57 GMT | Simulasi Purple Team: Kustomisasi Aturan Wazuh | Jerry Berlin | [Read More](https://medium.com/p/a89fc867d677) |
-| Tue, 02 Dec 2025 10:48:33 GMT | Learning Paths. Part I: The Uphill Struggle | Roman Usyk | [Read More](https://medium.com/p/1c59cb769d19) |
-| Tue, 02 Dec 2025 10:47:05 GMT | Why Your Mac Needs a VPN in 2025: A Practical Guide for Real-World Users | Azam Azizov | [Read More](https://medium.com/p/78b09906d88e) |
-| Tue, 02 Dec 2025 10:43:47 GMT | কেউ আপনাকে বারবার কল করে বিরক্ত করছে? আসুন সমাধান জেনে নিই! | Humayun Shariar Himu | [Read More](https://medium.com/p/c2002f02fbb7) |
-| Tue, 02 Dec 2025 10:42:50 GMT | বিজ্ঞান অনুসন্ধানের সার্চ ইঞ্জিন Science Guru | Humayun Shariar Himu | [Read More](https://medium.com/p/2544feb2a34a) |
-| Tue, 02 Dec 2025 10:42:24 GMT | Behavioral Threat Analytics: Stopping Credential Abuse | Sneha Mehra | [Read More](https://medium.com/p/8ffe198cb821) |
-| Tue, 02 Dec 2025 10:38:17 GMT | Bringing Power BI Composite Models to Life: Why They Matter for Smarter Business Decisions | Onelogica | [Read More](https://medium.com/p/02922f5a42dc) |
-| Tue, 02 Dec 2025 10:34:13 GMT | AI-Powered Resiliency Compliance: Smart Audit Automation | Nikhil Chatterjee | [Read More](https://medium.com/p/021416a8eb24) |
-| Tue, 02 Dec 2025 10:27:27 GMT | Digital Self-Defense: The New Life Skill Everyone Must Master in 2025 | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/ceedce5880e9) |
-| Tue, 02 Dec 2025 10:27:02 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | Elyes BN | [Read More](https://medium.com/p/0abf74ff68ec) |
-| Tue, 02 Dec 2025 10:25:55 GMT | AI-Accelerated Security Monitoring: Beyond the 24/7 Overhead | Kavitha Banerjee | [Read More](https://medium.com/p/7409a4513465) |
