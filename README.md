@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 19:11:10 GMT | What Actually Happens Inside a Data Breach (A Step-by-Step Breakdown) | Abdullah Javeed | [Read More](https://medium.com/p/1e60118d96a2) |
+| Tue, 02 Dec 2025 19:10:20 GMT | Stop Using JWT for Everything. It’s Not Secure, It’s Just Trendy. | Ferid Brković | [Read More](https://medium.com/p/fb54c0d904cb) |
+| Tue, 02 Dec 2025 19:09:54 GMT | How Inspecting a JavaScript File Led Me to a Hidden SQL Injection Vulnerability | Fahadshah | [Read More](https://medium.com/p/0b9ba7741b98) |
+| Tue, 02 Dec 2025 19:09:23 GMT | Jailbreaking: One Method, Three Applications. | Berend Watchus | [Read More](https://medium.com/p/8d0c17ce21c3) |
+| Tue, 02 Dec 2025 19:04:15 GMT | Cybersecurity — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/c548a3efd14c) |
+| Tue, 02 Dec 2025 19:04:07 GMT | KALI LINUX OSINT 2025 Domina l’Intelligenza delle Fonti Aperte con Strumenti ad Alte Prestazioni | Diego Rodrigues | [Read More](https://medium.com/p/fb46ec69be7a) |
+| Tue, 02 Dec 2025 18:59:51 GMT | Similar Tools XAttacker called BurnWP Framework Advanced Exploit System in Real time | drcrypter.ru | [Read More](https://medium.com/p/76dd41fdde19) |
+| Tue, 02 Dec 2025 18:59:16 GMT | Capítulo 13 — O Legado | Kleber Andrade | [Read More](https://medium.com/p/d0d7ff006a78) |
+| Tue, 02 Dec 2025 18:54:10 GMT | TuesdayTool 38: Vulners: Vulnerability Intelligence Engine | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/5e74f3c00325) |
+| Tue, 02 Dec 2025 18:49:58 GMT | TryHackMe: Advent of Cyber 2025 — Day 2Walkthrough | Inyanji Lynnette | [Read More](https://medium.com/p/06f2b7122365) |
+| Tue, 02 Dec 2025 18:39:20 GMT | Breaking progress | Alizabeth Amelia Rose | [Read More](https://medium.com/p/9cd3a66d6ec8) |
+| Tue, 02 Dec 2025 18:34:41 GMT | An Introductory Course in Text Cybersecurity | professional educator | [Read More](https://medium.com/p/ce30d83c1e77) |
+| Tue, 02 Dec 2025 18:32:08 GMT | AI Security Architecture Series: Defining the Top 10 Essential Skills for AI Security Architects | Arsh Riz | [Read More](https://medium.com/p/88192eba605f) |
+| Tue, 02 Dec 2025 18:29:23 GMT | Your Scars Are Not the End of Us | Liora Nise | [Read More](https://medium.com/p/a70c50f49963) |
+| Tue, 02 Dec 2025 18:26:27 GMT | Which Password Is Used Most Often? | Seikh Suraj | [Read More](https://medium.com/p/5cb81d4f4022) |
 | Tue, 02 Dec 2025 18:25:33 GMT | Advent of Cyber 2025 Day 2 - TryHackMe - Phishing — Merry Clickmas - WriteUp | Axoloth | [Read More](https://medium.com/p/dc3ede1b57a5) |
 | Tue, 02 Dec 2025 18:23:45 GMT | “The $10,000 Ruby Crash: When a “Smart” Optimization Crashed Shopify’s Entire System” | Aman Sharma | [Read More](https://medium.com/p/78b04fd74f4c) |
 | Tue, 02 Dec 2025 18:23:10 GMT | The Digital Asset (Scotland) Bill | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c04713250cac) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 14:42:56 GMT | Taming the Tech Beast: How Industrial Design Makes New Gadgets Less Scary | Victra Lin | [Read More](https://medium.com/p/638f0db7f899) |
 | Tue, 02 Dec 2025 14:38:43 GMT | Mobile Security Application Guide: Proven Tips to Stay Safe | Hoplon InfoSec | [Read More](https://medium.com/p/de989038e181) |
 | Tue, 02 Dec 2025 14:37:38 GMT | One Key for Every Door: How Security Assertion Markup Language Simplifies Enterprise Access | Global Technology | [Read More](https://medium.com/p/c95de0c29ce5) |
-| Tue, 02 Dec 2025 14:24:10 GMT | Why Zero Trust Is No Longer Optional for Mid-Market Companies | Rumi Mary Siga | [Read More](https://medium.com/p/79d02b5d0688) |
-| Tue, 02 Dec 2025 14:14:20 GMT | Stylish Security Shutters Built for Perth Conditions | Hamptons Group | [Read More](https://medium.com/p/4a0bfe909aa7) |
-| Tue, 02 Dec 2025 14:11:05 GMT | Next-Gen Firewalls: Essential for Modern SMB Security | Technijian | [Read More](https://medium.com/p/2c35699dc49e) |
-| Tue, 02 Dec 2025 14:05:14 GMT | Supply Chain Attacks Explained Simply: How Hackers Abuse Trusted Software | Natarajan C K | [Read More](https://medium.com/p/06c2f15896a8) |
-| Tue, 02 Dec 2025 14:04:08 GMT | How to Replace a Garage Door Spring Cable: Safety Tips | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/9c10c23c6212) |
-| Tue, 02 Dec 2025 14:02:20 GMT | The RAG Security Checklist Nobody Prints (But Should) | Hash Block | [Read More](https://medium.com/p/55a7e487ca0a) |
-| Tue, 02 Dec 2025 14:01:56 GMT | Two-Step Verification: The Critical Defence 35,434 Hack Reports Prove SMEs Need | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/9099f31489a2) |
-| Tue, 02 Dec 2025 13:56:57 GMT | UA Highschool (Tryhackme write-up) | CO0L7 | [Read More](https://medium.com/p/9d30cd4342ed) |
-| Tue, 02 Dec 2025 13:54:42 GMT | Linux & Kali Command Cheatsheet | Mert Baykal | [Read More](https://medium.com/p/21fb5f8f6725) |
-| Tue, 02 Dec 2025 13:51:04 GMT | how i found 2ato in mobile application in private vdb in bugcrowd | 0X0mahmoud | [Read More](https://medium.com/p/f0672b45e873) |
-| Tue, 02 Dec 2025 13:50:00 GMT | Punycode Account Takeover | Virendra Kumar | [Read More](https://medium.com/p/d29d0d25a58e) |
-| Tue, 02 Dec 2025 13:49:40 GMT | From Metadata to RCE: Chaining Five Vulnerabilities for Complete System Compromise | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/dff5573bb15b) |
-| Tue, 02 Dec 2025 13:48:58 GMT | I spent almost two days debugging a login issue that worked perfectly on localhost but kept failing… | Samyak Jain | [Read More](https://medium.com/p/3734f48fdb01) |
-| Tue, 02 Dec 2025 13:46:29 GMT | The Next Cyber Crisis No One Sees Coming: The World’s Trust System Is Starting to Fail | Abatis ABTU | [Read More](https://medium.com/p/6c5a0fac857a) |
-| Tue, 02 Dec 2025 13:45:53 GMT | The One Linux Command That Reveals a Hidden Hacker Immediately (Most Admins Never Use It) | Faruk Ahmed | [Read More](https://medium.com/p/a5306e090afc) |
