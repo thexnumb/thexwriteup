@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 21:31:41 GMT | Fine-Grained Data Security in APEX with RAS: A Practical Guide | Thomas Minne | [Read More](https://medium.com/p/e91caafe549c) |
+| Tue, 02 Dec 2025 21:29:09 GMT | AGENTIC AI VS. THE ADVERSARY: WINNING THE BUSINESS OF RISK | Bnlrandon. | [Read More](https://medium.com/p/4017a8b803e3) |
+| Tue, 02 Dec 2025 21:26:23 GMT | The OSINT Trap: When Your Biggest Vulnerability Is Your Own Mouth | Sam Galope | [Read More](https://medium.com/p/a6ac2bd2ba2d) |
+| Tue, 02 Dec 2025 21:24:57 GMT | RPF(Reverse Path Forwarding) | BadalliAsaf | [Read More](https://medium.com/p/600a9b694842) |
+| Tue, 02 Dec 2025 21:21:22 GMT | Once i am able to deal with this lord, I will be freed | h.s | [Read More](https://medium.com/p/d3a8cb2e9425) |
+| Tue, 02 Dec 2025 21:16:35 GMT | Getting the Most Out of Your Starlink Internet: Real Tips, Simple Hacks, and Privacy Advice | Officer's Notes | [Read More](https://medium.com/p/bfec46c59747) |
+| Tue, 02 Dec 2025 21:13:28 GMT | Editor - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/1524cd04588d) |
 | Tue, 02 Dec 2025 21:13:07 GMT | Vulnerability Data Enrichment for CVE Records: 256 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/2e488b7c9062) |
+| Tue, 02 Dec 2025 21:12:42 GMT | TombWatcher - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/8869b365e5cf) |
 | Tue, 02 Dec 2025 21:11:40 GMT | Adversarial AI Digest — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a7c7776c2f2a) |
 | Tue, 02 Dec 2025 21:06:35 GMT | Go 1.25.5 and 1.24.11 | ASAcrew Blog | [Read More](https://medium.com/p/73afcdaed4fe) |
 | Tue, 02 Dec 2025 20:53:36 GMT | Tech#43– Section 2— Building Production-Grade Systems: Security-First Development | Vikkas Arun Pareek | [Read More](https://medium.com/p/5d0584a02acd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 16:03:37 GMT | The Future of IAM: 7 Cybersecurity Trends Shaping Identity by 2029 | Youssef Hossny | [Read More](https://medium.com/p/79d194db8259) |
 | Tue, 02 Dec 2025 16:02:33 GMT | The API Call That Stole My Sleep and Bank Account | Adonis | [Read More](https://medium.com/p/453b75e5aa77) |
 | Tue, 02 Dec 2025 16:02:11 GMT | You Found Me in the Dark and Walked Toward the Light With Me | Winsky | [Read More](https://medium.com/p/4e999979b23b) |
-| Tue, 02 Dec 2025 15:59:24 GMT | eWPTXv3 Certification Review | 0xc4t | [Read More](https://medium.com/p/e213252aab96) |
-| Tue, 02 Dec 2025 15:52:14 GMT | The Unexpected “Positive Influence” of Flash USDT: What Fake Crypto Coins Are Really Teaching Us | Flash Crypto Hub | [Read More](https://medium.com/p/704647795b1c) |
-| Tue, 02 Dec 2025 15:51:55 GMT | Extracting IOCs from Any CTI Report in 50 Seconds Using CyberChef (With Examples) | Paritosh | [Read More](https://medium.com/p/b03645aa81a3) |
-| Tue, 02 Dec 2025 15:50:31 GMT | [Blue Team Labs Online Write-up] Rotten Cloud (Investigate hybrid cloud infra with Splunk) | Chicken0248 | [Read More](https://medium.com/p/2e973ec54a0a) |
-| Tue, 02 Dec 2025 15:50:20 GMT | Infrastructure as Code: Deploy Kubernetes (EKS) on AWS with Terraform | Mathieu ROGER | [Read More](https://medium.com/p/95ebe22102c4) |
-| Tue, 02 Dec 2025 15:50:17 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 3: DC-3.2 | Shikhar Sinha | [Read More](https://medium.com/p/50bc5ff982bd) |
-| Tue, 02 Dec 2025 15:46:43 GMT | Dark LLMs: When Your AI Traffic Is C2 | Wes Young | [Read More](https://medium.com/p/cef0dab3f2a8) |
-| Tue, 02 Dec 2025 15:44:45 GMT | The Hidden Cost of Microservices: Security Everywhere | Anto Semeraro | [Read More](https://medium.com/p/f940b20ecc87) |
