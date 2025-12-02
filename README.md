@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 05:02:41 GMT | Decoupling AI Intelligence from Security Control: The Networked Threat Model | crązŷrąiɲ | [Read More](https://medium.com/p/7b539177c49d) |
+| Tue, 02 Dec 2025 05:00:43 GMT | Think PDFs Are Safe? How Hackers Use Them for Stored XSS Attacks | Tushar Suryawanshi | [Read More](https://medium.com/p/043f2c208c37) |
+| Tue, 02 Dec 2025 04:59:19 GMT | How to Secure Your CCTV System from Hackers in 2025 | Ask IT Support | [Read More](https://medium.com/p/9e658ce800a6) |
+| Tue, 02 Dec 2025 04:57:41 GMT | What is a Backdoor? - VIIEGO | Rolando | [Read More](https://medium.com/p/78199185bd0f) |
+| Tue, 02 Dec 2025 04:55:01 GMT | The Node.js Bug That Took Down My App — And the 2 Lines That Fixed It | Amar pratap singh | [Read More](https://medium.com/p/eacd34303ac6) |
+| Tue, 02 Dec 2025 04:50:12 GMT | TryHackMe — Advent of Cyber 2025: Day1 — Side Quest 1 | Pasquale Kwan | [Read More](https://medium.com/p/abcf36668b74) |
 | Tue, 02 Dec 2025 04:47:42 GMT | Strategic Tech Integration: IT Services Companies in Australia | IT Company | [Read More](https://medium.com/p/94c11b7a3448) |
+| Tue, 02 Dec 2025 04:43:28 GMT | Pantest 101: Methodology Lengkap Dari Reconnaissance Sampai Reporting | Handev Code | [Read More](https://medium.com/p/1e445cc08a68) |
 | Tue, 02 Dec 2025 04:40:58 GMT | “Stop Blaming Yourself for Shopping Burnout. It’s the Store’s Fault.” | MyTravPick | [Read More](https://medium.com/p/ef003c08a5b6) |
 | Tue, 02 Dec 2025 04:40:46 GMT | My Mac Mini’s Internet Suddenly Dropped to 1 Mbps — The Fix Was Hidden in a Single Privacy Setting | Vinoo Jacob | [Read More](https://medium.com/p/5619ce743569) |
+| Tue, 02 Dec 2025 04:39:21 GMT | # The SMB Cybersecurity Gap: Why Small Businesses Are Now Prime Targets | ParagonCyberWorks | [Read More](https://medium.com/p/b13c47b3c4a7) |
 | Tue, 02 Dec 2025 04:24:21 GMT | “What does it mean when a system quietly breaks its own rules? My experience | Jai Jain | [Read More](https://medium.com/p/3a27b93a06d8) |
 | Tue, 02 Dec 2025 04:11:40 GMT | CHAPTER 2 — THE BIRTH OF THE QUBIT | Shadlymaliyekkal | [Read More](https://medium.com/p/9d48dae966fc) |
 | Tue, 02 Dec 2025 04:06:09 GMT | Mengenal Technical Writer — Penerjemah Bahasa Teknis ke Bahasa Manusia | Han | [Read More](https://medium.com/p/b44d99d152d3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 18:51:17 GMT | Demystifying Hashing, Symmetric and Asymmetric Cryptography Concepts? | Kamal Kishor Mahto | [Read More](https://medium.com/p/d146a9966bf2) |
 | Mon, 01 Dec 2025 18:50:52 GMT | The Plaintiff’s Essential Role in Data Breach Lawsuits | Legal Thoughts | [Read More](https://medium.com/p/9c7eb8198bc8) |
 | Mon, 01 Dec 2025 18:42:29 GMT | With, To & Through AI | Michael H. Esq. | [Read More](https://medium.com/p/740fb6c8aac1) |
-| Mon, 01 Dec 2025 18:36:18 GMT | Cybersecurity for beginners-protecting personal data | Miraal | [Read More](https://medium.com/p/9dfb0fd698e3) |
-| Mon, 01 Dec 2025 18:22:50 GMT | Advent of Cyber Walkthrough — Working with the Linux CLI | Vedant Kahalekar | [Read More](https://medium.com/p/1cdfd645e8d7) |
-| Mon, 01 Dec 2025 18:12:21 GMT | TryHackMe - Linux CLI — Shells Bells - WriteUp | Axoloth | [Read More](https://medium.com/p/bd86b24216ff) |
-| Mon, 01 Dec 2025 18:10:39 GMT | Your Smart Speaker is Dumber Than You Think: How I Made Alexa’s Sister Spill the Tea | Iski | [Read More](https://medium.com/p/7582eb42195f) |
-| Mon, 01 Dec 2025 18:02:49 GMT | Website Architecture and Potential Security Vulnerabilities | Habibi | [Read More](https://medium.com/p/6679c544d0ce) |
-| Mon, 01 Dec 2025 18:02:41 GMT | At 3:47 AM, An AI Started Hacking. It Had No Idea It Was the Criminal. | MohamedAbdelmenem | [Read More](https://medium.com/p/e7f241d0c3cd) |
-| Mon, 01 Dec 2025 18:02:12 GMT | AI-Augmented Cyber Threats on the Dark Web | David SEHYEON Baek | [Read More](https://medium.com/p/2555d84b404a) |
-| Mon, 01 Dec 2025 18:00:47 GMT | Cyber Security Tips Every Programmer MUST Know! | Lakhveer Singh Rajput | [Read More](https://medium.com/p/0a2ee5ce7c7a) |
