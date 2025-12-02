@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 03:42:46 GMT | How I Discovered 8 Header-Injection Weaknesses on a Wix-Hosted Domain | Tyreek Haynes | [Read More](https://medium.com/p/5eb6d631f604) |
+| Tue, 02 Dec 2025 03:39:03 GMT | Introduction to EDR — TryHackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/cb6a61d1ad34) |
+| Tue, 02 Dec 2025 03:32:19 GMT | Shai-Hulud 2.0: The Attack That Compromised Thousands of GitHub Repositories | Deven Chhajed | [Read More](https://medium.com/p/8c1346505c6b) |
+| Tue, 02 Dec 2025 03:28:03 GMT | Hidden Google Play Adware Drains Devices and Disrupts Millions of Users | UK Cyber Defence | [Read More](https://medium.com/p/8721f89c925d) |
+| Tue, 02 Dec 2025 03:23:32 GMT | Technology and the Global Market — Competition and Protective Measures | Kamal Hossen | [Read More](https://medium.com/p/8cc0f38415b0) |
+| Tue, 02 Dec 2025 03:23:07 GMT | Over 2,000 Holiday-Themed Fake Stores Target Shoppers During Black Friday and Festive Sales | UK Cyber Defence | [Read More](https://medium.com/p/ee5970736255) |
 | Tue, 02 Dec 2025 03:15:55 GMT | Debugging our new #1 iOS crash: the bug, the race, and the fix | MEGA | [Read More](https://medium.com/p/b4eb15fcd097) |
 | Tue, 02 Dec 2025 02:57:08 GMT | Shai-Hulud 2.0: Self-Propagating npm Worm Steals Credentials via Pre-Install Scripts | Vinodbokare | [Read More](https://medium.com/p/db41b521f3fa) |
 | Tue, 02 Dec 2025 02:27:41 GMT | When “Network Security” Becomes Network Sabotage; | Kit Baroness | [Read More](https://medium.com/p/fe840db6006f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 17:37:13 GMT | Every breach tells a story. | Hachtechnology | [Read More](https://medium.com/p/6debc22c6bda) |
 | Mon, 01 Dec 2025 17:37:11 GMT | Introduction to Aardvark: OpenAI’s Agentic Security Researcher | Startup Consultant | [Read More](https://medium.com/p/021592b72a73) |
 | Mon, 01 Dec 2025 17:36:19 GMT | Passwords Are Like Ordering Pizza – And We’re Still Doing It the Hard Way | Aashish Baweja | [Read More](https://medium.com/p/19a3f6dd3614) |
-| Mon, 01 Dec 2025 17:34:21 GMT | Create user flow in Microsoft Entra External ID | Parfaitkouess | [Read More](https://medium.com/p/3fb11347f0fe) |
-| Mon, 01 Dec 2025 17:33:58 GMT | Protecting Your Digital Legacy: Preparing for the Inevitable in a Hyperconnected World | Len Noe | [Read More](https://medium.com/p/6e987086aecd) |
-| Mon, 01 Dec 2025 17:15:50 GMT | Afghan accused of shooting 2 National Guard members was part of CIA-backed unit | Defence Affairs & Analysis | [Read More](https://medium.com/p/57b9809a3bb0) |
-| Mon, 01 Dec 2025 17:15:16 GMT | Advent of Cyber 2025 - Day 1: Linux CLI - Shells Bells | D4m.sh | [Read More](https://medium.com/p/bdbd504fb47f) |
-| Mon, 01 Dec 2025 17:12:00 GMT | TryHackMe Writeup: Brooklyn Nine Nine | Berkay AĞGÜL | [Read More](https://medium.com/p/1892c1746e4d) |
-| Mon, 01 Dec 2025 17:10:51 GMT | Advent of Cyber Prep Track Try Hack Me Solution - by Mynk — Medium | Mayank Shukla | [Read More](https://medium.com/p/2446b4b1023a) |
