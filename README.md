@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 07:36:24 GMT | Why Accurate Time Matters More Than Ever in Cybersecurity | Salman Abbas | [Read More](https://medium.com/p/82810deff1c8) |
+| Tue, 02 Dec 2025 07:31:43 GMT | Cyber Security vs Information Security: Key Differences, Roles, Policies & Real-World Applications… | Surya Kumar | [Read More](https://medium.com/p/558203d6c13e) |
 | Tue, 02 Dec 2025 07:15:52 GMT | Cyber Threats That Can Prevent Your Company From CCC Approval | Rahman Iqbal | [Read More](https://medium.com/p/ac9e06027a29) |
 | Tue, 02 Dec 2025 07:13:17 GMT | MCP’s Next Phase: Inside the November 2025 Specification | Dave Patten | [Read More](https://medium.com/p/49f298502b03) |
 | Tue, 02 Dec 2025 07:09:14 GMT | Angular Development: Building Dynamic and Scalable Web Applications | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/3f4172dd461c) |
@@ -41,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 05:23:12 GMT | 4 Critical Vulnerabilities that Created Complete Systemic Failure In a Popular WordPress Deployment | Tyreek Haynes | [Read More](https://medium.com/p/9a00bbae40ed) |
 | Tue, 02 Dec 2025 05:02:41 GMT | Decoupling AI Intelligence from Security Control: The Networked Threat Model | crązŷrąiɲ | [Read More](https://medium.com/p/7b539177c49d) |
 | Tue, 02 Dec 2025 05:00:43 GMT | Think PDFs Are Safe? How Hackers Use Them for Stored XSS Attacks | Tushar Suryawanshi | [Read More](https://medium.com/p/043f2c208c37) |
+| Tue, 02 Dec 2025 05:00:09 GMT | Why Managed Security Services Are Becoming Essential for Businesses in Thane & Mumbai | Maxatlasofficial | [Read More](https://medium.com/p/7c6d2ad48881) |
 | Tue, 02 Dec 2025 04:59:19 GMT | How to Secure Your CCTV System from Hackers in 2025 | Ask IT Support | [Read More](https://medium.com/p/9e658ce800a6) |
 | Tue, 02 Dec 2025 04:57:41 GMT | What is a Backdoor? - VIIEGO | Rolando | [Read More](https://medium.com/p/78199185bd0f) |
 | Tue, 02 Dec 2025 04:55:01 GMT | The Node.js Bug That Took Down My App — And the 2 Lines That Fixed It | Amar pratap singh | [Read More](https://medium.com/p/eacd34303ac6) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 21:14:49 GMT | The Ethics of Designing Vulnerability | Megan Workmon Larsen | [Read More](https://medium.com/p/cecf5c923242) |
 | Mon, 01 Dec 2025 21:13:25 GMT | November 2025: Major Cyber Attacks Ransomware Attacks, Data Breaches | IT_Engineer | [Read More](https://medium.com/p/64c0ee30e612) |
 | Mon, 01 Dec 2025 21:06:01 GMT | “Owns a Home, Car, and Makes $100K” — Why Successful Women Won’t Settle for Less | Queena Bryan | [Read More](https://medium.com/p/f3d5ac1636f6) |
-| Mon, 01 Dec 2025 20:56:25 GMT | Rate Limiting — Why and  How? | Shivam Agrawal | [Read More](https://medium.com/p/4c36db9884e6) |
-| Mon, 01 Dec 2025 20:54:39 GMT | Red Teaming Against the Open Code Mission Evidence-First Architecture | Graham dePenros | [Read More](https://medium.com/p/eed5fbe00dc8) |
-| Mon, 01 Dec 2025 20:50:55 GMT | So, You Want to Work in Cybersecurity? READ THIS BEFORE (Blue Team Edition) | Jbird | [Read More](https://medium.com/p/f9863ec40224) |
