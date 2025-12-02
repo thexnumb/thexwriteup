@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 14:43:19 GMT | The new era of third-party security: The perimeter you don’t control but that defines you | Rodrigo Gutierrez | [Read More](https://medium.com/p/5f7e1751f640) |
+| Tue, 02 Dec 2025 14:38:43 GMT | Mobile Security Application Guide: Proven Tips to Stay Safe | Hoplon InfoSec | [Read More](https://medium.com/p/de989038e181) |
 | Tue, 02 Dec 2025 14:24:10 GMT | Why Zero Trust Is No Longer Optional for Mid-Market Companies | Rumi Mary Siga | [Read More](https://medium.com/p/79d02b5d0688) |
 | Tue, 02 Dec 2025 14:14:20 GMT | Stylish Security Shutters Built for Perth Conditions | Hamptons Group | [Read More](https://medium.com/p/4a0bfe909aa7) |
 | Tue, 02 Dec 2025 14:11:05 GMT | Next-Gen Firewalls: Essential for Modern SMB Security | Technijian | [Read More](https://medium.com/p/2c35699dc49e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 09:01:09 GMT | ️ Part 3: Crypto Hacks, Wallet Exploits & Ransomware Tracing — Inside the Digital Battlefield | ghostyjoe | [Read More](https://medium.com/p/3adb62fdc360) |
 | Tue, 02 Dec 2025 08:59:43 GMT | 90-Day Proven DORA NIS2 EU AI Act Readiness Plan | Pentest_Testing_Corp | [Read More](https://medium.com/p/d59f9de65bc7) |
 | Tue, 02 Dec 2025 08:58:38 GMT | AI In Cybersecurity: Key Benefits, Defense Strategies, & Future Trends | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/e71f84478468) |
-| Tue, 02 Dec 2025 08:54:16 GMT | Automated Nmap Server Scanner Using Python & Supervisor | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/7231ea90de5a) |
-| Tue, 02 Dec 2025 08:47:30 GMT | What If I Want Too Many Things But End Up As Nothing? | Vijay Kumar Gupta | [Read More](https://medium.com/p/5d5409c21944) |
