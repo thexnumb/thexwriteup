@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 07:15:52 GMT | Cyber Threats That Can Prevent Your Company From CCC Approval | Rahman Iqbal | [Read More](https://medium.com/p/ac9e06027a29) |
+| Tue, 02 Dec 2025 07:13:17 GMT | MCP’s Next Phase: Inside the November 2025 Specification | Dave Patten | [Read More](https://medium.com/p/49f298502b03) |
+| Tue, 02 Dec 2025 07:09:14 GMT | Angular Development: Building Dynamic and Scalable Web Applications | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/3f4172dd461c) |
+| Tue, 02 Dec 2025 07:05:25 GMT | About Richify Digital — Pakistan’s Leading Digital Services Company | Richifydigital | [Read More](https://medium.com/p/8ec44ed1e4c8) |
+| Tue, 02 Dec 2025 07:02:11 GMT | 4. Master the Basics, Break the Web: Browser Fundamentals | Abinesh M | [Read More](https://medium.com/p/f6447ac9f5cf) |
+| Tue, 02 Dec 2025 07:00:26 GMT | Advent of Cyber- day 1. Working with linux CLI | Suhani Panda | [Read More](https://medium.com/p/6024fb7c3524) |
+| Tue, 02 Dec 2025 06:55:20 GMT | AND HERE WE GO AGAIN!!! https://lnkd.in/gxYSm66u - Bhawini | Bhawini. | [Read More](https://medium.com/p/77d8682cd862) |
+| Tue, 02 Dec 2025 06:47:27 GMT | Digital Risk Protection Market Set to Grow at 17.33% CAGR Through 2030 | Michel mathew | [Read More](https://medium.com/p/bac2c0f75ce3) |
+| Tue, 02 Dec 2025 06:46:02 GMT | Your Next Smartphone Will Have a Government Backdoor (And You Can’t Close It) | Muhaideen Nausar | [Read More](https://medium.com/p/b23ee27d5c8e) |
+| Tue, 02 Dec 2025 06:45:56 GMT | Correlation-Based Detection Rules in Cybersecurity: From Atomic Events to Behavioral Insight | Andrey Pautov | [Read More](https://medium.com/p/1b3df31597bb) |
+| Tue, 02 Dec 2025 06:32:18 GMT | ⭐ Why tech billionaires are quietly building luxury survival bunkers | Mr Simpsons | [Read More](https://medium.com/p/f10433632074) |
+| Tue, 02 Dec 2025 06:29:52 GMT | The Daily Tech Digest: 02 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d717a2f7e3eb) |
 | Tue, 02 Dec 2025 06:28:19 GMT | Beyond the Firewall: Engineering a WAF-Aware Detection Pipeline for the OWASP Top 10 | Nmullenski | [Read More](https://medium.com/p/ed7d5c08baca) |
 | Tue, 02 Dec 2025 06:22:00 GMT | Your Laptop Can’t Belong to Two Companies — Here’s Why | Manpreetsingh | [Read More](https://medium.com/p/c941a968e5bc) |
 | Tue, 02 Dec 2025 06:16:50 GMT | Securing APIs — Techniques to Protect Your Systems | S.Ali | [Read More](https://medium.com/p/5a0792996c89) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 20:56:25 GMT | Rate Limiting — Why and  How? | Shivam Agrawal | [Read More](https://medium.com/p/4c36db9884e6) |
 | Mon, 01 Dec 2025 20:54:39 GMT | Red Teaming Against the Open Code Mission Evidence-First Architecture | Graham dePenros | [Read More](https://medium.com/p/eed5fbe00dc8) |
 | Mon, 01 Dec 2025 20:50:55 GMT | So, You Want to Work in Cybersecurity? READ THIS BEFORE (Blue Team Edition) | Jbird | [Read More](https://medium.com/p/f9863ec40224) |
-| Mon, 01 Dec 2025 20:49:54 GMT | AI-Led Cyberattack Shows Why Human Insight Still Matters | Graylog | [Read More](https://medium.com/p/c839f77627e0) |
-| Mon, 01 Dec 2025 20:49:28 GMT | AI, Cybersecurity, and Dentistry: Why an 8-Page PDF Should Be on Your DSO’s Radar | Arna Meyer | [Read More](https://medium.com/p/e8dabc88a1a6) |
-| Mon, 01 Dec 2025 20:42:35 GMT | Correlation Engine Optimization for SIEM: Boosting Detection Performance with Practical Techniques… | Esra Kayhan | [Read More](https://medium.com/p/0d6ea351ce54) |
-| Mon, 01 Dec 2025 20:42:07 GMT | Setting Up a Honeypot — Catching Attacks Before They Happen | Secured By Sebastion | [Read More](https://medium.com/p/2a495e684e89) |
-| Mon, 01 Dec 2025 20:41:20 GMT | TryHackMe: Advent of Cyber 2025 — Day 1 Walkthrough | Inyanji Lynnette | [Read More](https://medium.com/p/13ec74e3fd47) |
-| Mon, 01 Dec 2025 20:39:11 GMT | Security Pilot Ended Despite Strong ROI as Timmins Races to Relocate Shelter | Scott Hill | [Read More](https://medium.com/p/fc1b0360b211) |
-| Mon, 01 Dec 2025 20:26:44 GMT | How to Know If Your Phone Has Been Hacked (And What to Do) | Liam | [Read More](https://medium.com/p/56ef52cb3429) |
-| Mon, 01 Dec 2025 20:22:24 GMT | SentinelAI Phishing Detection: A Technical Deep Dive into Modern Email Threat Analysis | Kavisha Mathur | [Read More](https://medium.com/p/2ab183db4f95) |
-| Mon, 01 Dec 2025 20:20:17 GMT | How to Build Your Own Private VPN Without Monthly Subscriptions | 404: Office Not Found | [Read More](https://medium.com/p/6b98093d8e6d) |
-| Mon, 01 Dec 2025 20:15:37 GMT | Advent of Cyber 2025 — Day 1: Chasing Eggsploits with the Linux CLI | Akshat Patel | [Read More](https://medium.com/p/96a4ae0c7180) |
-| Mon, 01 Dec 2025 20:07:26 GMT | AI Agents: Red Teaming with AresGPT and EthicalEngine AI — Scaling GPTs Securely | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/5036686db704) |
-| Mon, 01 Dec 2025 20:07:21 GMT | Beyond <script>: Weaponizing <? and </ for Next-Gen XSS | KindOne | [Read More](https://medium.com/p/792716317def) |
