@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Dec 2025 03:15:55 GMT | Debugging our new #1 iOS crash: the bug, the race, and the fix | MEGA | [Read More](https://medium.com/p/b4eb15fcd097) |
+| Tue, 02 Dec 2025 02:57:08 GMT | Shai-Hulud 2.0: Self-Propagating npm Worm Steals Credentials via Pre-Install Scripts | Vinodbokare | [Read More](https://medium.com/p/db41b521f3fa) |
+| Tue, 02 Dec 2025 02:27:41 GMT | When “Network Security” Becomes Network Sabotage; | Kit Baroness | [Read More](https://medium.com/p/fe840db6006f) |
+| Tue, 02 Dec 2025 02:11:44 GMT | Exploiting blind SSRF | Fatimahasan | [Read More](https://medium.com/p/730e5ee9c0f6) |
+| Tue, 02 Dec 2025 02:06:01 GMT | 6G와 블록체인: 만능키가 아닌 특수키 | Blockchain at Yonsei | [Read More](https://medium.com/p/5cb910c5a20f) |
+| Tue, 02 Dec 2025 02:02:13 GMT | Understanding Cyber Attacks Like a Pro: Hacker’s Lifecycle for Beginners | Jugal Patel | [Read More](https://medium.com/p/b30fec6388fc) |
+| Tue, 02 Dec 2025 01:49:20 GMT | Forcing a Smile When You Are Breaking Inside | Rudra | [Read More](https://medium.com/p/cf3209a55200) |
+| Tue, 02 Dec 2025 01:48:28 GMT | How I Passed the eJPTv2 at 16 (With a 91%) | Justin K | [Read More](https://medium.com/p/78158761175b) |
+| Tue, 02 Dec 2025 01:45:29 GMT | Navigating a Risky SMB Share en Español | Sofia Duarte | [Read More](https://medium.com/p/0b66d6bca80f) |
+| Tue, 02 Dec 2025 01:38:36 GMT | The best VPN Extensions for Firefox: Add-on vs. Mozilla VPN | Safelyo VPN | [Read More](https://medium.com/p/9a6e7c403cf5) |
 | Tue, 02 Dec 2025 01:34:43 GMT | Print Spooler & NTLM Relaying: The Legacy Service That Won’t Die | Cybersecurity Simplified | [Read More](https://medium.com/p/07360e7c7d55) |
 | Tue, 02 Dec 2025 01:34:29 GMT | The coming ai crime wave: why banks and payment systems are not ready | Juan Pablo Guzman | [Read More](https://medium.com/p/4855035fb834) |
 | Tue, 02 Dec 2025 01:32:59 GMT | Energy Web (EWT) Contract Swap | Barman | [Read More](https://medium.com/p/b8636e5c13b3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Dec 2025 17:15:16 GMT | Advent of Cyber 2025 - Day 1: Linux CLI - Shells Bells | D4m.sh | [Read More](https://medium.com/p/bdbd504fb47f) |
 | Mon, 01 Dec 2025 17:12:00 GMT | TryHackMe Writeup: Brooklyn Nine Nine | Berkay AĞGÜL | [Read More](https://medium.com/p/1892c1746e4d) |
 | Mon, 01 Dec 2025 17:10:51 GMT | Advent of Cyber Prep Track Try Hack Me Solution - by Mynk — Medium | Mayank Shukla | [Read More](https://medium.com/p/2446b4b1023a) |
-| Mon, 01 Dec 2025 17:10:46 GMT | Critical Vulnerabilities in RUT22GW Industrial LTE Cellular Routers | Vortex | [Read More](https://medium.com/p/f4eb8768feb7) |
-| Mon, 01 Dec 2025 17:10:40 GMT | Penetration Test | O - Opsifiz | [Read More](https://medium.com/p/a7f095c50de8) |
-| Mon, 01 Dec 2025 17:10:13 GMT | Anycast Routing: The Internet’s Teleportation Trick | Dhrumil Joshi | [Read More](https://medium.com/p/6aacf8dd849d) |
-| Mon, 01 Dec 2025 17:03:59 GMT | PwnTillDawn Badger Writeup | Bazil Brohi | [Read More](https://medium.com/p/7cfbff923eb7) |
-| Mon, 01 Dec 2025 17:02:36 GMT | Cybersecurity Unlocked: Episode 7 — The “Cloud” is Just Someone Else’s Computer | Yash Kitey | [Read More](https://medium.com/p/f74f0d55bddf) |
-| Mon, 01 Dec 2025 16:57:46 GMT | CCTV Installation Cost in Canada 2025: Pricing Guide | United Security | [Read More](https://medium.com/p/4284a3bebb7b) |
-| Mon, 01 Dec 2025 16:52:44 GMT | Misinformation Spread via Social Media Platforms | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/876596ed7000) |
-| Mon, 01 Dec 2025 16:52:11 GMT | Erlang/OTP SSH: CVE-2025–32433 | Mainekhacker | [Read More](https://medium.com/p/4e3b4f3b4af4) |
-| Mon, 01 Dec 2025 16:51:22 GMT | Machine Learning Cryptocurrency Guide 2026: Uses, Methods & Future | Motherlandlove | [Read More](https://medium.com/p/24a47e742d82) |
-| Mon, 01 Dec 2025 16:45:54 GMT | Hi there I’m phisher a security resercher | phisher | [Read More](https://medium.com/p/95e0eb945f54) |
