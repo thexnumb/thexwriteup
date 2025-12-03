@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 01:35:15 GMT | Verifone VX820: Repair Stage (Part 1) | Dale P | [Read More](https://medium.com/p/89d81f97e433) |
+| Wed, 03 Dec 2025 01:28:53 GMT | THM Advent of Cyber 2025 Day 2 | ZeakPeak | [Read More](https://medium.com/p/bc43a0d72671) |
+| Wed, 03 Dec 2025 01:08:06 GMT | Why You’re Always the Therapist Friend | Big Nehe (Content Guru) | [Read More](https://medium.com/p/ab63fde80b8f) |
+| Wed, 03 Dec 2025 00:59:34 GMT | Local. Private. Use Apple Intelligence in Microsoft Word. | LotPilot | [Read More](https://medium.com/p/f0028851616b) |
+| Wed, 03 Dec 2025 00:57:37 GMT | Vibecoding: Como hackeei um SaaS gerado por IA em 5 minutos | Samuel A. Pimenta | [Read More](https://medium.com/p/a067a0252b47) |
+| Wed, 03 Dec 2025 00:34:49 GMT | Local. Private. Use OpenAI’s gpt-oss-20b in Microsoft Word. | LotPilot | [Read More](https://medium.com/p/013fdda0d684) |
+| Wed, 03 Dec 2025 00:07:00 GMT | Hack With Me: Phishing — Merry Clickmas. Advent of Cyber 2025 Day 2 | mikesploit | [Read More](https://medium.com/p/676036d7c9e3) |
+| Wed, 03 Dec 2025 00:04:04 GMT | The Balancer V2 Exploit: How a Tiny Math Error Led to a $100 Million DeFi Meltdown | RogueTrace | [Read More](https://medium.com/p/ab4cb451e255) |
+| Wed, 03 Dec 2025 00:02:11 GMT | OWASP (API6:2023) Unrestricted Access to Sensitive Business Flows: Hunting and Reporting… | JPablo13 | [Read More](https://medium.com/p/be1999f6ec5d) |
+| Tue, 02 Dec 2025 23:57:48 GMT | Documentation is the only MCP security that scales | Tomasz Konecki | [Read More](https://medium.com/p/29f073d5b3d9) |
+| Tue, 02 Dec 2025 23:46:48 GMT | From Virtual to Physical: My Journey Building a Production-Grade Purple Lab | Keith Medas | [Read More](https://medium.com/p/22be3187cc6f) |
+| Tue, 02 Dec 2025 23:46:10 GMT | Enhance Your Security with a    (CMS)! | Visual Monitoring Solutions | [Read More](https://medium.com/p/f3c491f99801) |
+| Tue, 02 Dec 2025 23:41:25 GMT | Day 2: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/54f0db20dc99) |
+| Tue, 02 Dec 2025 23:40:23 GMT | Day 1: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/9fb6dab00e26) |
 | Tue, 02 Dec 2025 23:24:17 GMT | Linux CLI — Shells Bells Side-Quest | CloudAldir | [Read More](https://medium.com/p/5354a005fc50) |
 | Tue, 02 Dec 2025 23:15:13 GMT | Building a Complete Threat Detection Lab with Wazuh: Brute-Force, Intrusion, and File Integrity… | Ghassen Hafsaoui | [Read More](https://medium.com/p/c0b20cce4831) |
 | Tue, 02 Dec 2025 23:04:13 GMT | Getting Job-Ready in Months, Not Years: The Realities of a Fast-Track Cybersecurity Diploma | Danish Ahmad | [Read More](https://medium.com/p/c0f35ee11921) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 17:44:36 GMT | Olivia fait la couv ! | Florent M | [Read More](https://medium.com/p/17231f97a9c6) |
 | Tue, 02 Dec 2025 17:36:42 GMT | pwncollege: Program Misuse | Sourav Bose | [Read More](https://medium.com/p/99cfc8191b55) |
 | Tue, 02 Dec 2025 17:33:34 GMT | How to Fix Broken Authentication & Session Management | Ibtissam | [Read More](https://medium.com/p/6fee46c96597) |
-| Tue, 02 Dec 2025 17:32:15 GMT | The People Insulting You Online May Not Be Local — Elon Musk Just Exposed Their True Base. | Mohamed Bakry | [Read More](https://medium.com/p/b97fec57c362) |
-| Tue, 02 Dec 2025 17:27:05 GMT | The Windows Security Journey — PowerShell Execution Policy | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3599753f044e) |
-| Tue, 02 Dec 2025 17:19:20 GMT | Challenges for Healthcare Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/53aa18ac4263) |
-| Tue, 02 Dec 2025 17:16:01 GMT | Portswigger Authentication vulnerabilities Kullanıcı parolalarını değiştirme | Songül Kızılay Özügürler | [Read More](https://medium.com/p/80e5ee49dc8f) |
-| Tue, 02 Dec 2025 17:15:09 GMT | GenAI and Pirates: Can It Read Books and Rip-off Content For Learning? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3ef4d87d13bf) |
-| Tue, 02 Dec 2025 17:13:15 GMT | What happens to Google in the onchain era? | Arash Majnoun | [Read More](https://medium.com/p/c9322deecb94) |
-| Tue, 02 Dec 2025 17:12:30 GMT | Living off the Steam Machine | kinu | [Read More](https://medium.com/p/a4491394aa9f) |
-| Tue, 02 Dec 2025 17:11:24 GMT | How to Prepare for the CISSP Exam for Free (2025 Guide) | The Daily Cyber News | [Read More](https://medium.com/p/e7bdce44c021) |
-| Tue, 02 Dec 2025 17:09:09 GMT | Top 10 SOC Tools in 2026 (AI-Driven Edition): The Ultimate Guide for Cybersecurity Students | Vigneshmani Telagamsetti | [Read More](https://medium.com/p/af0dbe500a99) |
-| Tue, 02 Dec 2025 17:04:39 GMT | Advent of Cyber 2025 - Day 2: Phishing — Merry Clickmas | D4m.sh | [Read More](https://medium.com/p/1cf10a6e5d39) |
-| Tue, 02 Dec 2025 17:03:28 GMT | DRLVaultV3, 402Bridge, Sharwa Finance: $263K Lost to Slippage Failures and Key Compromises | Olympix | [Read More](https://medium.com/p/f2a8df822150) |
-| Tue, 02 Dec 2025 17:02:34 GMT | AI in Email Platforms in 2026: Big Opportunities, Bigger Risks — And Why Email Security Needs a… | HEXA AI SYSTEMS | [Read More](https://medium.com/p/761a628583ea) |
-| Tue, 02 Dec 2025 17:01:11 GMT | Extropy Security Bytes: w48, 2025 | Extropy.IO | [Read More](https://medium.com/p/9fd53eadd771) |
-| Tue, 02 Dec 2025 16:59:08 GMT | How I Discovered 1,400+ Users’ PII Through a GraphQL Query — and Uncovered 5 More Bugs Using the… | Ayaa Hamed | [Read More](https://medium.com/p/389d8e7d8deb) |
