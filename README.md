@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 10:25:43 GMT | PortSwigger Academy Authentication Lab Solution Notes | Emre A. | [Read More](https://medium.com/p/d98d7a7c5b07) |
+| Wed, 03 Dec 2025 10:16:52 GMT | Building an AI-Powered HackerOne Analyst | David Usher | [Read More](https://medium.com/p/d655e5160b46) |
+| Wed, 03 Dec 2025 10:14:20 GMT | AMPS Achieves HITRUST e1 Certification, Strengthening Its Commitment to Healthcare Data Security | Advanced Medical Pricing Solutions | [Read More](https://medium.com/p/dd7669323c4d) |
+| Wed, 03 Dec 2025 10:12:18 GMT | Hack The Box — Era Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/f4c77f51e757) |
+| Wed, 03 Dec 2025 10:11:30 GMT | How to find Race Conditions in Web Applications — From Beginner to Pro | Appsec.pt | [Read More](https://medium.com/p/4e59d51c6e47) |
+| Wed, 03 Dec 2025 10:05:10 GMT | Cybersecurity Management Services: What Every Organization Needs to Know | Vijilan | [Read More](https://medium.com/p/1ceb521cce09) |
+| Wed, 03 Dec 2025 10:04:46 GMT | Unlock Real Connections with the techNbuddy App: Where Work and Vibe Align. | techNbuddy | [Read More](https://medium.com/p/abd464eb122d) |
+| Wed, 03 Dec 2025 10:01:07 GMT | Ehxb - Inside the Filesystem: The Truth Behind LFI & RFI I | Ehxb | [Read More](https://medium.com/p/5a9a0da32827) |
+| Wed, 03 Dec 2025 09:59:26 GMT | CYBERKARIOT: MY JOURNEY INTO THE CYBERSECURITY HALL OF FAME | CyberKariot | [Read More](https://medium.com/p/6f36a745b948) |
+| Wed, 03 Dec 2025 09:55:18 GMT | 30 Essays on Trauma and the Long Road Back I Stopped Talking About It Because People Couldn’t… | Roj Ink | [Read More](https://medium.com/p/e22dfcf5a133) |
+| Wed, 03 Dec 2025 09:50:21 GMT | How I Found a Critical 1-Click Account Takeover (ATO) in XxXxx.com | Sangith | [Read More](https://medium.com/p/a523158adb37) |
+| Wed, 03 Dec 2025 09:49:59 GMT | Who Installs Security Systems in Toronto Quickly? | Square Security Inc. | [Read More](https://medium.com/p/fb0f06a4000e) |
 | Wed, 03 Dec 2025 09:43:19 GMT | Is Your Store Next? Cyberattacks Surging Across Retail | Redfox Security | [Read More](https://medium.com/p/37fcd08a4b03) |
+| Wed, 03 Dec 2025 09:42:44 GMT | Secure Your Construction Sites with Expert Security Services | Travel time | [Read More](https://medium.com/p/64e596b21f98) |
+| Wed, 03 Dec 2025 09:42:27 GMT | What You Don’t See Behind My Writing | Joan Bluejack | [Read More](https://medium.com/p/9c452c3ad40b) |
 | Wed, 03 Dec 2025 09:41:51 GMT | CWF Cloud-User Vanishing Act | Ali | [Read More](https://medium.com/p/fe1135efed4e) |
 | Wed, 03 Dec 2025 09:32:10 GMT | Catching Vulnerabilities Before They Catch Us | Anto Semeraro | [Read More](https://medium.com/p/b1a08990281d) |
 | Wed, 03 Dec 2025 09:30:03 GMT | The Unsettling Story of the Rust Package No One Was Supposed to Download | Germano Costi | [Read More](https://medium.com/p/8a3445f749fd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 04:39:04 GMT | A Practical Guide to the Local AI Initiative and Deployment Strategy | Ali Khorsandian | [Read More](https://medium.com/p/1183569c70d5) |
 | Wed, 03 Dec 2025 04:33:18 GMT | Retrieval That Respects Privacy | Quaxel | [Read More](https://medium.com/p/62b388c9b011) |
 | Wed, 03 Dec 2025 04:26:07 GMT | VulnNet: Roasted | CloudAldir | [Read More](https://medium.com/p/04d3578ce66b) |
-| Wed, 03 Dec 2025 04:18:12 GMT | Vulnerability Assessment & Penetration Testing (VAPT) pada Mesin Toppo (VulnHub) — PART 1 | Tino Setiawan | [Read More](https://medium.com/p/8e8159fff654) |
-| Wed, 03 Dec 2025 04:10:56 GMT | Securing Tomorrow: How AI and Cyber Defense Will Shape Our Digital Future - Bhawini . | Bhawini. | [Read More](https://medium.com/p/2306910f56f1) |
-| Wed, 03 Dec 2025 04:05:08 GMT | GraphQL IDOR Vulnerability Report 350$ & by dexblood | dexblood | [Read More](https://medium.com/p/740ca2a18f94) |
-| Wed, 03 Dec 2025 04:02:10 GMT | France Pays More Than Its Corporations, Germany Piles On Debt — and Russia’s War Industry Roars | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/9aee8332dd37) |
-| Wed, 03 Dec 2025 03:57:16 GMT | How IAM Supports Business Agility: The 2025 Cybersecurity Advantage. | Sennovate | [Read More](https://medium.com/p/6b32417f9c0b) |
-| Wed, 03 Dec 2025 03:50:40 GMT | Influence without Authority | Mahesh Chintakunta | [Read More](https://medium.com/p/81a7e8e857e9) |
-| Wed, 03 Dec 2025 03:40:35 GMT | JWT Authentication Bypass via JWK Header Injection | Bash Overflow | [Read More](https://medium.com/p/0dfaec4f6f94) |
-| Wed, 03 Dec 2025 03:40:35 GMT | How Hackers Use PING to Track, Scan & Attack Targets | Shahzaib | [Read More](https://medium.com/p/ad87fa193ae2) |
-| Wed, 03 Dec 2025 03:40:33 GMT | The Dark Art Of Behavioral Enumeration And Why It Works Every Time | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/102eadae2d3b) |
-| Wed, 03 Dec 2025 03:38:19 GMT | Promethean One Security Bulletin | Dave MacKinnon | [Read More](https://medium.com/p/f413325887a1) |
-| Wed, 03 Dec 2025 03:38:03 GMT | BLFCW Policy Watch: DeFi’s Expanding Attack Surface — From Smart-Contract Bugs To Liquidity Design… | BLFCW | [Read More](https://medium.com/p/47fd16fbd410) |
-| Wed, 03 Dec 2025 03:35:51 GMT | Blockchain Under the Hood: A Deep Technical Journey | Giulio Sistilli | [Read More](https://medium.com/p/8ef69c03beab) |
-| Wed, 03 Dec 2025 03:35:19 GMT | Mobile pen testing part 2: Intercept HTTP traffic and the Damm Vulnerable Bank app | Nol White Hat | [Read More](https://medium.com/p/1dd43c891bc6) |
-| Wed, 03 Dec 2025 03:35:14 GMT | Mobile pen testing part 1: Set a mobile pentest environment with Objection, Frida and Burp on Kali… | Nol White Hat | [Read More](https://medium.com/p/171e118bdec7) |
