@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 15:46:38 GMT | A Silent Faultline in the JavaScript Ecosystem: Node Forge Vulnerability Exposes Millions to… | Fortress Protocol | [Read More](https://medium.com/p/ba42e51ba147) |
+| Wed, 03 Dec 2025 15:45:52 GMT | WSL: The Power of Linux Inside Your Windows Machine | MouhibMahadbi | [Read More](https://medium.com/p/78bbc3ffb1e5) |
+| Wed, 03 Dec 2025 15:33:21 GMT | Latest & Common Security Vulnerabilities — A Briefing by Valtlex | Valtlex | [Read More](https://medium.com/p/19541be3b536) |
+| Wed, 03 Dec 2025 15:28:33 GMT | ETHICAL HACKING: the journey so far… | Edwin Atali | [Read More](https://medium.com/p/945cbb59389a) |
+| Wed, 03 Dec 2025 15:28:28 GMT | Application of International Securitization in the Context of the Copenhagen School within the… | Larissamotta | [Read More](https://medium.com/p/b94823930b70) |
+| Wed, 03 Dec 2025 15:25:43 GMT | THE BOTNET AWAKENING : GREYNOISE LETS USERS CONFRONT THE TRUTH | Mohith Krishna K | [Read More](https://medium.com/p/0d5d10d84447) |
 | Wed, 03 Dec 2025 15:20:25 GMT | Day 3 — Through the Gate | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/7a91121e27ee) |
+| Wed, 03 Dec 2025 15:20:19 GMT | Why Your ‘Secure’ VPN Might Be Leaving You Exposed (And How to Actually Stay Safe) | Paradise technologies Inc | [Read More](https://medium.com/p/38510c5ecfd4) |
 | Wed, 03 Dec 2025 15:15:54 GMT | Rektoff Solana Rust Security Bootcamp Review | Dr.-Ing. Fabian Schuh | [Read More](https://medium.com/p/76eb7e812e73) |
 | Wed, 03 Dec 2025 15:13:36 GMT | Structural Security and Stability of the Euro in Modern Finance | Brandon Paul | [Read More](https://medium.com/p/ac24f29cd742) |
 | Wed, 03 Dec 2025 15:03:37 GMT | NPM Hit by Shai Hulud Malware Twice: What Developers Need to Know | Mohit | [Read More](https://medium.com/p/e24438aa7508) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 10:16:52 GMT | Building an AI-Powered HackerOne Analyst | David Usher | [Read More](https://medium.com/p/d655e5160b46) |
 | Wed, 03 Dec 2025 10:16:08 GMT | From Handshake to Encryption: How HTTPS Protects Online Communication | Rober Peter | [Read More](https://medium.com/p/d6d38843bcd7) |
 | Wed, 03 Dec 2025 10:14:20 GMT | AMPS Achieves HITRUST e1 Certification, Strengthening Its Commitment to Healthcare Data Security | Advanced Medical Pricing Solutions | [Read More](https://medium.com/p/dd7669323c4d) |
-| Wed, 03 Dec 2025 10:12:18 GMT | Hack The Box — Era Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/f4c77f51e757) |
-| Wed, 03 Dec 2025 10:11:30 GMT | How to find Race Conditions in Web Applications — From Beginner to Pro | Appsec.pt | [Read More](https://medium.com/p/4e59d51c6e47) |
-| Wed, 03 Dec 2025 10:05:10 GMT | Cybersecurity Management Services: What Every Organization Needs to Know | Vijilan | [Read More](https://medium.com/p/1ceb521cce09) |
-| Wed, 03 Dec 2025 10:04:46 GMT | Unlock Real Connections with the techNbuddy App: Where Work and Vibe Align. | techNbuddy | [Read More](https://medium.com/p/abd464eb122d) |
-| Wed, 03 Dec 2025 10:01:07 GMT | Ehxb - Inside the Filesystem: The Truth Behind LFI & RFI I | Ehxb | [Read More](https://medium.com/p/5a9a0da32827) |
-| Wed, 03 Dec 2025 09:59:26 GMT | CYBERKARIOT: MY JOURNEY INTO THE CYBERSECURITY HALL OF FAME | CyberKariot | [Read More](https://medium.com/p/6f36a745b948) |
-| Wed, 03 Dec 2025 09:55:18 GMT | 30 Essays on Trauma and the Long Road Back I Stopped Talking About It Because People Couldn’t… | Roj Ink | [Read More](https://medium.com/p/e22dfcf5a133) |
