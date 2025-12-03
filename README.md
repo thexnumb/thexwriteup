@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 22:42:41 GMT | Critical Vulnerabilities in React and Next.js: Security Advisory | Bastradamus | [Read More](https://medium.com/p/01a3de27f1e2) |
+| Wed, 03 Dec 2025 22:40:33 GMT | CVE-2025–55182 Explained — Technical Analysis and Validation of the Attack Vector in React Server… | Santiago Habib | [Read More](https://medium.com/p/6f3fcd3d154e) |
+| Wed, 03 Dec 2025 22:39:29 GMT | How to Write an Executive Summary | Cyberoptic Security | [Read More](https://medium.com/p/2ba6b4298693) |
 | Wed, 03 Dec 2025 22:08:08 GMT | Exploiting Logic Flaws & Zip Slips: A Walkthrough of “Desires” on Hack The Box | Muhammad Younas | [Read More](https://medium.com/p/c68a39eea650) |
 | Wed, 03 Dec 2025 22:02:11 GMT | Commands That Turn Your Own System Against You | Liam | [Read More](https://medium.com/p/8a93d046c86f) |
 | Wed, 03 Dec 2025 21:56:34 GMT | Data Privacy and Security in the Era of AI | Innovative Insights | [Read More](https://medium.com/p/f1e53cadc49c) |
@@ -23,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 21:11:03 GMT | TryHackMe VM and AttackBox ?? | Gligits.ini | [Read More](https://medium.com/p/49930b9f00b1) |
 | Wed, 03 Dec 2025 21:10:26 GMT | Why Finance Firms Need a Cybersecurity Expert Who Actually Understands Finance | CompuWork | [Read More](https://medium.com/p/8077c30d1d83) |
 | Wed, 03 Dec 2025 21:02:28 GMT | Future Trends in Artificial Intelligence: What Will Shape 2026 and Beyond | Techridge Solutions | [Read More](https://medium.com/p/5b6ef141f61f) |
+| Wed, 03 Dec 2025 20:57:49 GMT | Bypassing SameSite Protection: Chaining XSS and CSRF for Admin ATO in RomM | He4am | [Read More](https://medium.com/p/44d910c54403) |
 | Wed, 03 Dec 2025 20:54:54 GMT | Common Mistakes Beginners Make in Cybersecurity | Ali Kurt | [Read More](https://medium.com/p/49c1ce87cfd4) |
 | Wed, 03 Dec 2025 20:47:25 GMT | Siber güvenliğe nereden başlamalıyım? | Ali Kurt | [Read More](https://medium.com/p/5a2e138160d7) |
 | Wed, 03 Dec 2025 20:40:16 GMT | Privilege Escalation Allows Low-Privilege Users to View Sensitive Role Data | HBlack Ghost | [Read More](https://medium.com/p/c3dc2ffd62ef) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 16:06:15 GMT | [Blue Team Labs Online Write-up] The Walking Packets (Using Arkime to investigate web intrusion) | Chicken0248 | [Read More](https://medium.com/p/5e1a5b5e2fc5) |
 | Wed, 03 Dec 2025 16:03:11 GMT | “Exploiting Kibana’s Headless Chrome: Code Walkthrough of a Real-World RCE” | Aman Sharma | [Read More](https://medium.com/p/c2d95aacfffb) |
 | Wed, 03 Dec 2025 16:00:59 GMT | Beyond IDOR: The Guide to Advanced Broken Access Control | Abhishek meena | [Read More](https://medium.com/p/85b7a201baa7) |
-| Wed, 03 Dec 2025 15:59:00 GMT | Getting Started with Sublist3r: The Fast Lane to Finding Subdomains | Cybeague Technologies | [Read More](https://medium.com/p/5283fd2acb66) |
-| Wed, 03 Dec 2025 15:56:44 GMT | Protecting Yourself From Hidden Keystroke Threats | Geoffrey Wenger | [Read More](https://medium.com/p/b3fa49901205) |
-| Wed, 03 Dec 2025 15:56:16 GMT | Understanding Advanced Persistent Threats And How To Defend Against Them | Geoffrey Wenger | [Read More](https://medium.com/p/96e89e9d9219) |
-| Wed, 03 Dec 2025 15:50:52 GMT | Chinese Hackers Use Claude AI for Automated Cyberattacks — How to reduce risk and limit damage | Karl Buhl | [Read More](https://medium.com/p/c253194c400e) |
