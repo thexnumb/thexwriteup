@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 19:17:08 GMT | Top Trusted Dark Web Marketplaces with Verified Links — Stay Safe While Browsing | Tor BBB | [Read More](https://medium.com/p/95165f862044) |
+| Wed, 03 Dec 2025 19:00:04 GMT | Why IAM Expertise Is So Scarce: Understanding the Talent Crisis | Steve Anderson | [Read More](https://medium.com/p/c77a27d765cc) |
+| Wed, 03 Dec 2025 18:59:28 GMT | Big Data : Advanced Machine Learning using Spark MLlib | Yasa Wijaya | [Read More](https://medium.com/p/c0718d07e19e) |
+| Wed, 03 Dec 2025 18:59:10 GMT | Pelican State Credit Union Notifies Members After Sensitive Personal Data Was Compromised | David Miller | [Read More](https://medium.com/p/d989cb0c4d4f) |
+| Wed, 03 Dec 2025 18:57:29 GMT | The Three Recon Moves That Almost Always Reveal Something Valuable | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7e1990ad99ff) |
+| Wed, 03 Dec 2025 18:56:56 GMT | Stop Putting These Secrets in Your .env File | bektiaw | [Read More](https://medium.com/p/ab0c9f8c8c8c) |
+| Wed, 03 Dec 2025 18:51:28 GMT | The Best Version of Wireshark for Ubuntu 24.04 (And the Fastest Way to Install It) | ghostyjoe | [Read More](https://medium.com/p/77fd6b4634a8) |
+| Wed, 03 Dec 2025 18:46:25 GMT | Building Reliable AI Agents: A Practical Framework for Structure, Orchestration, and Quality | Welliton Gervickas | [Read More](https://medium.com/p/87526b95f91d) |
+| Wed, 03 Dec 2025 18:46:09 GMT | How to Build a Pentesting Home Lab: Part 3-The Linux Command Line | Jamie Omarr | [Read More](https://medium.com/p/504a9cb5d900) |
+| Wed, 03 Dec 2025 18:45:17 GMT | How to Build a Pentesting Home Lab: Part 2- Installing Metasploitable 2 on Virtual Box | Jamie Omarr | [Read More](https://medium.com/p/230292b02c41) |
+| Wed, 03 Dec 2025 18:45:07 GMT | Friendship in the Digital Age | Swati Roshan Patil | [Read More](https://medium.com/p/3ea93369f224) |
+| Wed, 03 Dec 2025 18:42:18 GMT | Hybrid Architectures Are Becoming the New Digital Infrastructure | André Afonso Silva | [Read More](https://medium.com/p/1b51acd1910a) |
+| Wed, 03 Dec 2025 18:42:06 GMT | eJPT Prep - Host & Network Penetration Testing: Network-Based Attacks CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/1dafa2e3acfd) |
+| Wed, 03 Dec 2025 18:40:11 GMT | Creating a Professional Penetration Testing Agreement for ParoCyber | Maria Sagwa | [Read More](https://medium.com/p/27a191e69730) |
 | Wed, 03 Dec 2025 18:32:30 GMT | The CISO’s Blueprint for AI Security: Operationalizing Defense with MITRE ATLAS | Arsh Riz | [Read More](https://medium.com/p/4192d529c282) |
 | Wed, 03 Dec 2025 18:31:14 GMT | Policy as Code, Compliance as Service: Rethinking the Compliance Journey — Part 3 | Maruti Sivakumar V | [Read More](https://medium.com/p/a88177241620) |
 | Wed, 03 Dec 2025 18:29:13 GMT | Can You Really Get OSCP in 5 Months? I’m About to Find Out | Mohammed Aboelghet | [Read More](https://medium.com/p/f0570c9c25a0) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 14:18:44 GMT | North Korean Cyber-Financing, AI Weaponization, and the Future of Cryptocurrency Theft | David SEHYEON Baek | [Read More](https://medium.com/p/d10e23cf3ea2) |
 | Wed, 03 Dec 2025 14:17:06 GMT | Should you use GitLabs Static application security testing (SAST) for Python? | Maikel Mardjan | [Read More](https://medium.com/p/2aa2e0490f2c) |
 | Wed, 03 Dec 2025 14:15:54 GMT | VPS SUNUCUSUNU PROXY SERVER’A ÇEVİRME | Burak Özdelen | [Read More](https://medium.com/p/de1f160c2246) |
-| Wed, 03 Dec 2025 14:12:16 GMT | Why Modern Businesses Rely on Veeam: Instant Recovery, Immutable Backups & Complete Data Resilience | ANSI Technologies | [Read More](https://medium.com/p/ff39f4469121) |
-| Wed, 03 Dec 2025 14:04:28 GMT | HTB Whisper Sherlock Write Up | Fal | [Read More](https://medium.com/p/821498f8ed53) |
-| Wed, 03 Dec 2025 14:03:11 GMT | Hunting for Open Redirects: Explained with Example | Udeshna | [Read More](https://medium.com/p/a05ad6f1334b) |
-| Wed, 03 Dec 2025 14:02:23 GMT | How IoT and AI Are Transforming the Sports & Gaming Industry: From Smart Stadiums to Hyper-Real… | Gaurav Tak | [Read More](https://medium.com/p/b2c8d07aa3cd) |
-| Wed, 03 Dec 2025 14:01:57 GMT | Next.js Projemde Security Headers Eksikliği! (Cursor AI Teşekkürler) | Soner ER | [Read More](https://medium.com/p/72736014d876) |
-| Wed, 03 Dec 2025 14:00:36 GMT | SQL Server’da gMSA Kullanımı: Nedir, Neden Önemlidir ve Nasıl Yapılır? | Emrah SEMİZ | [Read More](https://medium.com/p/8387631fddcc) |
-| Wed, 03 Dec 2025 14:00:36 GMT | THE HIDDEN AGENTS ON YOUR SCREEN | Hoververse | [Read More](https://medium.com/p/4c2689ffdff0) |
-| Wed, 03 Dec 2025 13:57:55 GMT | Why Being Part of the Tech Sovereignty Catalogue Matters | Maria Terzi | [Read More](https://medium.com/p/3bd135c0632f) |
-| Wed, 03 Dec 2025 13:52:13 GMT | Losing $10,000, Finding Myself: A Journey Into Intuition, Surrender, and the New Earth | Kintu (Martin) Cowart | [Read More](https://medium.com/p/6cfc2ce9f90d) |
-| Wed, 03 Dec 2025 13:41:20 GMT | Cybersecurity Cheat Sheet | Mainekhacker | [Read More](https://medium.com/p/3fc221d1b315) |
-| Wed, 03 Dec 2025 13:40:05 GMT | Cyber Paths & Second Chances: Why Tech Careers Are Changing Lives | cyberpathsfundraisingcup | [Read More](https://medium.com/p/b88ba7d72f3b) |
-| Wed, 03 Dec 2025 13:38:35 GMT | The Cybersecurity Comeback Story Everyone Should Hear | cyberpathsfundraisingcup | [Read More](https://medium.com/p/a7884c4cf19b) |
-| Wed, 03 Dec 2025 13:37:41 GMT | H4cked Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/3a514ca2e0c9) |
-| Wed, 03 Dec 2025 13:36:05 GMT | 5. Master the Basics, Break the Web: Authentication & Authorization Basics | Abinesh M | [Read More](https://medium.com/p/1703446109a4) |
