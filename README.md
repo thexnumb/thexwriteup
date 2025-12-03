@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 05:38:24 GMT | Why C-Cube Is Becoming the Best Computer Training Institute in Kolkata (2025 Guide) | C-Cube Centre of Computer Education | [Read More](https://medium.com/p/52f24a0c375a) |
+| Wed, 03 Dec 2025 05:28:26 GMT | What Should You Look For When Choosing The Best Data Loss Prevention Software? | keyTrackr | [Read More](https://medium.com/p/f0a832092b86) |
+| Wed, 03 Dec 2025 05:24:08 GMT | Network Segmentation Strategy: Containing the Blast Radius | Aniketh Roy | [Read More](https://medium.com/p/658b93d5b118) |
+| Wed, 03 Dec 2025 05:16:27 GMT | Managed Detection and Response ROI: The Value of 24/7 Security | Trisha Gaur | [Read More](https://medium.com/p/a85ff454396d) |
 | Wed, 03 Dec 2025 05:12:07 GMT | The Daily Tech Digest: 03 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c0d34760f4b7) |
 | Wed, 03 Dec 2025 05:06:22 GMT | When AI Gossips: How I Eavesdropped on a Federated Learning System | Iski | [Read More](https://medium.com/p/e1b385f35aff) |
 | Wed, 03 Dec 2025 04:56:17 GMT | Uber Doesn’t Match Riders Randomly — The Algorithm is Genius and Here’s Why | The Dev Notebook | [Read More](https://medium.com/p/f6e53fc45478) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 20:02:24 GMT | Top 5 Zero Trust Authentication Methods in 2025 | TechPreneur | [Read More](https://medium.com/p/a46aef1f4516) |
 | Tue, 02 Dec 2025 20:01:52 GMT | How VirusTotal Uses File Hashes to Detect and Classify Potential Malware | Daniel | [Read More](https://medium.com/p/b7e833e0a88a) |
 | Tue, 02 Dec 2025 20:01:17 GMT | Welcome UpScrolled — A new censorship-free social media platform | MoaazBinSajjad | [Read More](https://medium.com/p/a3616cba7064) |
-| Tue, 02 Dec 2025 19:53:39 GMT | How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty | Kayra Öksüz | [Read More](https://medium.com/p/4f23c626b06e) |
-| Tue, 02 Dec 2025 19:45:43 GMT | How AI, Automation, and Zero Trust Are Shaping the Future of Cybersecurity | Techridge Solutions | [Read More](https://medium.com/p/bbe8b4935e3b) |
-| Tue, 02 Dec 2025 19:30:39 GMT | Adversarial Data Analytics in LLM-Augmented Pipelines | Nuno Lopes | [Read More](https://medium.com/p/679080a045bc) |
-| Tue, 02 Dec 2025 19:30:20 GMT | How I solved Task 1 in the Seine Incident challenge-TryHackMe. | Abhilash H | [Read More](https://medium.com/p/7a524809bfc0) |
