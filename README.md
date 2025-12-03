@@ -12,9 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 22:47:56 GMT | Advent of Cyber 2025: Day 1 and SideQuests Write Up Pa | Mrinal Kumar Chandra | [Read More](https://medium.com/p/384f72d4a371) |
 | Wed, 03 Dec 2025 22:42:41 GMT | Critical Vulnerabilities in React and Next.js: Security Advisory | Bastradamus | [Read More](https://medium.com/p/01a3de27f1e2) |
 | Wed, 03 Dec 2025 22:40:33 GMT | CVE-2025–55182 Explained — Technical Analysis and Validation of the Attack Vector in React Server… | Santiago Habib | [Read More](https://medium.com/p/6f3fcd3d154e) |
 | Wed, 03 Dec 2025 22:39:29 GMT | How to Write an Executive Summary | Cyberoptic Security | [Read More](https://medium.com/p/2ba6b4298693) |
+| Wed, 03 Dec 2025 22:32:43 GMT | The Day Production Went Down Because of a Single .env File | Faris Chtatou | [Read More](https://medium.com/p/829f86056e8e) |
 | Wed, 03 Dec 2025 22:08:08 GMT | Exploiting Logic Flaws & Zip Slips: A Walkthrough of “Desires” on Hack The Box | Muhammad Younas | [Read More](https://medium.com/p/c68a39eea650) |
 | Wed, 03 Dec 2025 22:02:11 GMT | Commands That Turn Your Own System Against You | Liam | [Read More](https://medium.com/p/8a93d046c86f) |
 | Wed, 03 Dec 2025 21:56:34 GMT | Data Privacy and Security in the Era of AI | Innovative Insights | [Read More](https://medium.com/p/f1e53cadc49c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 16:09:03 GMT | Next in AI: Issue #59 | Sam Ghosh | [Read More](https://medium.com/p/f71bb48e2275) |
 | Wed, 03 Dec 2025 16:08:37 GMT | Classification vs Regression in Machine Learning Explained Simply 2026 | Motherlandlove | [Read More](https://medium.com/p/fb3038a7a0b3) |
 | Wed, 03 Dec 2025 16:06:15 GMT | [Blue Team Labs Online Write-up] The Walking Packets (Using Arkime to investigate web intrusion) | Chicken0248 | [Read More](https://medium.com/p/5e1a5b5e2fc5) |
-| Wed, 03 Dec 2025 16:03:11 GMT | “Exploiting Kibana’s Headless Chrome: Code Walkthrough of a Real-World RCE” | Aman Sharma | [Read More](https://medium.com/p/c2d95aacfffb) |
-| Wed, 03 Dec 2025 16:00:59 GMT | Beyond IDOR: The Guide to Advanced Broken Access Control | Abhishek meena | [Read More](https://medium.com/p/85b7a201baa7) |
