@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 20:22:21 GMT | Enumeration-Introduction | Deep | [Read More](https://medium.com/p/fbc83ca96b25) |
+| Wed, 03 Dec 2025 20:18:15 GMT | Mapping Attack Surfaces Like A Cartographer Of Shadows | Rendur M. Saunter | [Read More](https://medium.com/p/514d3ecc09ad) |
+| Wed, 03 Dec 2025 20:16:58 GMT | How Navan Handles Audit Logging Across the Enterprise | Tanay Ghirnikar | [Read More](https://medium.com/p/d563a775aa8c) |
+| Wed, 03 Dec 2025 20:14:09 GMT | Confessions of a Sentinel N00b | Matt Cox | [Read More](https://medium.com/p/672eca9a875a) |
+| Wed, 03 Dec 2025 20:12:38 GMT | The Million-Dollar Handshake: Why Manufacturing’s Greatest Asset Became Its Biggest Threat | Magdalena Rita Narewska | [Read More](https://medium.com/p/02869dd7fca9) |
+| Wed, 03 Dec 2025 20:01:47 GMT | Unlock God-Tier NPCs: Merging Tarkov Sims with Deceptive, Sentient AI. ArXiv study+ more. | Berend Watchus | [Read More](https://medium.com/p/b0184ca1204b) |
+| Wed, 03 Dec 2025 19:53:03 GMT | Epílogo — Arquivo Confidencial da NeoGrid | Kleber Andrade | [Read More](https://medium.com/p/7c5b902141bc) |
+| Wed, 03 Dec 2025 19:50:03 GMT | Why Nurses With Cyber-Hygiene Skills Are the Guardians of Patient Safety in the AI Era | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/abd3fe1fd48e) |
+| Wed, 03 Dec 2025 19:42:51 GMT | Portones que patrullan | Josué Fabre | [Read More](https://medium.com/p/6444eaa5019d) |
+| Wed, 03 Dec 2025 19:41:07 GMT | Caution,,,,,,: #Dovmarkets, #Monexis & #REXIQ are confirmed scam platforms. | Datalog Shield | [Read More](https://medium.com/p/7a41599fff49) |
+| Wed, 03 Dec 2025 19:38:49 GMT | Do not invest,,,,,If you’ve been affected by #avatradeexcoins, act fast to secure any remaining… | Datalog Shield | [Read More](https://medium.com/p/ac5a7b8d18e3) |
 | Wed, 03 Dec 2025 19:35:48 GMT | From Frontend Clues to Backend Backdoors: A Deep Dive into a WordPress Infection | HACKINFO | [Read More](https://medium.com/p/b9c1ac630426) |
 | Wed, 03 Dec 2025 19:31:14 GMT | Your Essential Guide to Cybersecurity Audit Preparation | professional educator | [Read More](https://medium.com/p/eb82f5a1072b) |
 | Wed, 03 Dec 2025 19:24:30 GMT | PortSwigger Lab — XSS- (A Student’s Perspective) | Kavidi Athawuda | [Read More](https://medium.com/p/96aca6a6180e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 15:02:38 GMT | Cyber Briefing: 2025.12.03 | CyberMaterial | [Read More](https://medium.com/p/ece65c702db3) |
 | Wed, 03 Dec 2025 15:01:04 GMT | Interpreting the Interpreter Pattern with Modern Java | Jitin Kayyala | [Read More](https://medium.com/p/784960e14607) |
 | Wed, 03 Dec 2025 14:54:39 GMT | You’re the Malware Hackers Never Have to Code | S | [Read More](https://medium.com/p/7bba218d0fe3) |
-| Wed, 03 Dec 2025 14:51:16 GMT | How a Hack The Box Challenge Led Me to Build My Own SCA Scanner | PRUTHU RAUT | [Read More](https://medium.com/p/da99fcf634db) |
-| Wed, 03 Dec 2025 14:50:03 GMT | Machine Learning Consulting Competency Guide 2026: Skills, Value, Trends | Motherlandlove | [Read More](https://medium.com/p/22b2d1d6717a) |
-| Wed, 03 Dec 2025 14:47:31 GMT | How I Simplified Online Sign-Ups with Get SMS Code | Daria Savickaya | [Read More](https://medium.com/p/dde261b81475) |
-| Wed, 03 Dec 2025 14:43:26 GMT | TDR Solutions: Empowering Organizations with Unrivaled Security | NetWitness | [Read More](https://medium.com/p/c27d96b23d2f) |
-| Wed, 03 Dec 2025 14:39:37 GMT | Internationaler Computersicherheitstag: Sichere Digitalisierung beginnt an der Basis mit einer… | PSsystec | [Read More](https://medium.com/p/b6746f28995f) |
-| Wed, 03 Dec 2025 14:37:23 GMT | How to Detect Root on React Native | Talsec | [Read More](https://medium.com/p/8acd9518db30) |
-| Wed, 03 Dec 2025 14:36:31 GMT | Penetration Testing Report — HF2019 Linux Exploitation | Mohdirfan | [Read More](https://medium.com/p/97678e90e05a) |
-| Wed, 03 Dec 2025 14:36:01 GMT | Keeping Enterprise Networks Always Online — Dual ISP with Load Balancing & Failover | Paul Meyer | [Read More](https://medium.com/p/2150a321c9ff) |
-| Wed, 03 Dec 2025 14:35:39 GMT | India Just Planted an Unremovable App in Every New Phone — And No One Saw It Coming. | Akshobdhira | [Read More](https://medium.com/p/e92d1f161aad) |
-| Wed, 03 Dec 2025 14:29:28 GMT | LUC DELORME ON PLANET OF GHOSTS (Sci — Fi novel) | Alberto Benitez | [Read More](https://medium.com/p/0f3a9b19706e) |
-| Wed, 03 Dec 2025 14:26:19 GMT | When Every C-Suite Thinks They Can Be the CISO (Until Reality Smacks Them in the Face) | Hello @ Octellient | [Read More](https://medium.com/p/124779af73a6) |
