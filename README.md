@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 20:47:25 GMT | Siber güvenliğe nereden başlamalıyım? | Ali Kurt | [Read More](https://medium.com/p/5a2e138160d7) |
+| Wed, 03 Dec 2025 20:33:19 GMT | Splunk Basics — Did you SIEM? | Andrey.Web | [Read More](https://medium.com/p/cb53cf00cd96) |
 | Wed, 03 Dec 2025 20:22:21 GMT | Enumeration-Introduction | Deep | [Read More](https://medium.com/p/fbc83ca96b25) |
 | Wed, 03 Dec 2025 20:18:15 GMT | Mapping Attack Surfaces Like A Cartographer Of Shadows | Rendur M. Saunter | [Read More](https://medium.com/p/514d3ecc09ad) |
 | Wed, 03 Dec 2025 20:16:58 GMT | How Navan Handles Audit Logging Across the Enterprise | Tanay Ghirnikar | [Read More](https://medium.com/p/d563a775aa8c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 15:13:36 GMT | Structural Security and Stability of the Euro in Modern Finance | Brandon Paul | [Read More](https://medium.com/p/ac24f29cd742) |
 | Wed, 03 Dec 2025 15:03:37 GMT | NPM Hit by Shai Hulud Malware Twice: What Developers Need to Know | Mohit | [Read More](https://medium.com/p/e24438aa7508) |
 | Wed, 03 Dec 2025 15:02:38 GMT | Cyber Briefing: 2025.12.03 | CyberMaterial | [Read More](https://medium.com/p/ece65c702db3) |
-| Wed, 03 Dec 2025 15:01:04 GMT | Interpreting the Interpreter Pattern with Modern Java | Jitin Kayyala | [Read More](https://medium.com/p/784960e14607) |
-| Wed, 03 Dec 2025 14:54:39 GMT | You’re the Malware Hackers Never Have to Code | S | [Read More](https://medium.com/p/7bba218d0fe3) |
