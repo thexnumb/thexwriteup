@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 07:32:11 GMT | 10 Bandit/pip-audit Safeguards for Secure Python Builds | Syntal | [Read More](https://medium.com/p/f4860a1c0771) |
+| Wed, 03 Dec 2025 07:27:35 GMT | The Phone Never Tells the Full Story: What Digital Truth Really Looks Like | Vijay Kumar Gupta | [Read More](https://medium.com/p/9899e8d0e178) |
 | Wed, 03 Dec 2025 07:15:41 GMT | The Hidden Complexity Behind Modern Full-Stack Applications: Authentication | Sakthimurugan S | [Read More](https://medium.com/p/3d1991ce6810) |
 | Wed, 03 Dec 2025 07:14:36 GMT | Why Modern Enterprises Must Prioritize Data Protection and Encryption | Rahman Iqbal | [Read More](https://medium.com/p/27f2bbf68485) |
 | Wed, 03 Dec 2025 07:11:57 GMT | The Weight of Pretending to Be Fine | RJNarina | [Read More](https://medium.com/p/8e93e6aa1d88) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 21:41:26 GMT | What Australian Businesses Need to Know About the Cyber Security Act 2024 | Future IT Services | [Read More](https://medium.com/p/69916f29803f) |
 | Tue, 02 Dec 2025 21:39:39 GMT | The Old World: Strong Walls, Clear Boundaries | William Hunt | [Read More](https://medium.com/p/9cc339924a11) |
 | Tue, 02 Dec 2025 21:37:47 GMT | Obfuscating APK Files . But why ? Whatsapp RTO scammers | Karthik S | [Read More](https://medium.com/p/0494f5193c6e) |
-| Tue, 02 Dec 2025 21:32:34 GMT | The Human Firewall: Why Psychology, Not Just Code, Defines Our Cybersecurity Future | Gwen | [Read More](https://medium.com/p/306ac51848c4) |
-| Tue, 02 Dec 2025 21:31:41 GMT | Fine-Grained Data Security in APEX with RAS: A Practical Guide | Thomas Minne | [Read More](https://medium.com/p/e91caafe549c) |
