@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 10:43:19 GMT | Using Claude AI to Catch Code Vulnerabilities Before You Commit | Rohitmehta | [Read More](https://medium.com/p/88404cb8609c) |
+| Wed, 03 Dec 2025 10:36:42 GMT | The Quiet Fire of Creative Work | Tami | [Read More](https://medium.com/p/c279b731eb30) |
+| Wed, 03 Dec 2025 10:34:34 GMT | Understanding IT Outsourcing: Pros, Cons, and What to Expect | Brombeer Systems | [Read More](https://medium.com/p/71c0265aa038) |
+| Wed, 03 Dec 2025 10:34:19 GMT | Why is cyber security important for small businesses in Los Angeles? | Managed IT Services | [Read More](https://medium.com/p/2ecaec6b1b9e) |
 | Wed, 03 Dec 2025 10:25:43 GMT | PortSwigger Academy Authentication Lab Solution Notes | Emre A. | [Read More](https://medium.com/p/d98d7a7c5b07) |
 | Wed, 03 Dec 2025 10:16:52 GMT | Building an AI-Powered HackerOne Analyst | David Usher | [Read More](https://medium.com/p/d655e5160b46) |
+| Wed, 03 Dec 2025 10:16:08 GMT | From Handshake to Encryption: How HTTPS Protects Online Communication | Rober Peter | [Read More](https://medium.com/p/d6d38843bcd7) |
 | Wed, 03 Dec 2025 10:14:20 GMT | AMPS Achieves HITRUST e1 Certification, Strengthening Its Commitment to Healthcare Data Security | Advanced Medical Pricing Solutions | [Read More](https://medium.com/p/dd7669323c4d) |
 | Wed, 03 Dec 2025 10:12:18 GMT | Hack The Box — Era Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/f4c77f51e757) |
 | Wed, 03 Dec 2025 10:11:30 GMT | How to find Race Conditions in Web Applications — From Beginner to Pro | Appsec.pt | [Read More](https://medium.com/p/4e59d51c6e47) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 04:52:23 GMT | Weekly Threat Intelligence Report 1 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/8f37bd643209) |
 | Wed, 03 Dec 2025 04:51:07 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/740faeca8e0e) |
 | Wed, 03 Dec 2025 04:46:34 GMT | Monthly Threat Actor Group Intelligence Report, November 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/2dbb7721adf8) |
-| Wed, 03 Dec 2025 04:41:31 GMT | Fraud & Compliance Management: Eliminating False Positives | Sophia Nellon | [Read More](https://medium.com/p/16ffd6427f0b) |
-| Wed, 03 Dec 2025 04:40:30 GMT | Turning Breach Simulations into Real Defenses: A Practical Guide for Security Engineers. | Dosunmu Adetomiwa | [Read More](https://medium.com/p/91e8dd7c37b6) |
-| Wed, 03 Dec 2025 04:39:04 GMT | A Practical Guide to the Local AI Initiative and Deployment Strategy | Ali Khorsandian | [Read More](https://medium.com/p/1183569c70d5) |
-| Wed, 03 Dec 2025 04:33:18 GMT | Retrieval That Respects Privacy | Quaxel | [Read More](https://medium.com/p/62b388c9b011) |
-| Wed, 03 Dec 2025 04:26:07 GMT | VulnNet: Roasted | CloudAldir | [Read More](https://medium.com/p/04d3578ce66b) |
