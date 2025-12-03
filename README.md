@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 21:34:29 GMT | Why Smart CMOs Connect Data Protection and Brand Loyalty | Julie Crisman | [Read More](https://medium.com/p/dae6294742e3) |
+| Wed, 03 Dec 2025 21:29:23 GMT | Complete Guide: Integrating Palo Alto Firewall with Wazuh SIEM (2025) | Avvik Poff W | [Read More](https://medium.com/p/f97027f8b22a) |
+| Wed, 03 Dec 2025 21:20:38 GMT | Nigeria’s Classroom Revolution: How AI and Cybersecurity Training Is Transforming Educators Into… | Gbolahan Akinbola | [Read More](https://medium.com/p/fa9687e2aa4b) |
+| Wed, 03 Dec 2025 21:11:03 GMT | TryHackMe VM and AttackBox ?? | Gligits.ini | [Read More](https://medium.com/p/49930b9f00b1) |
+| Wed, 03 Dec 2025 21:10:26 GMT | Why Finance Firms Need a Cybersecurity Expert Who Actually Understands Finance | CompuWork | [Read More](https://medium.com/p/8077c30d1d83) |
 | Wed, 03 Dec 2025 21:02:28 GMT | Future Trends in Artificial Intelligence: What Will Shape 2026 and Beyond | Techridge Solutions | [Read More](https://medium.com/p/5b6ef141f61f) |
 | Wed, 03 Dec 2025 20:54:54 GMT | Common Mistakes Beginners Make in Cybersecurity | Ali Kurt | [Read More](https://medium.com/p/49c1ce87cfd4) |
 | Wed, 03 Dec 2025 20:47:25 GMT | Siber güvenliğe nereden başlamalıyım? | Ali Kurt | [Read More](https://medium.com/p/5a2e138160d7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 15:45:52 GMT | WSL: The Power of Linux Inside Your Windows Machine | MouhibMahadbi | [Read More](https://medium.com/p/78bbc3ffb1e5) |
 | Wed, 03 Dec 2025 15:33:21 GMT | Latest & Common Security Vulnerabilities — A Briefing by Valtlex | Valtlex | [Read More](https://medium.com/p/19541be3b536) |
 | Wed, 03 Dec 2025 15:28:33 GMT | ETHICAL HACKING: the journey so far… | Edwin Atali | [Read More](https://medium.com/p/945cbb59389a) |
-| Wed, 03 Dec 2025 15:28:28 GMT | Application of International Securitization in the Context of the Copenhagen School within the… | Larissamotta | [Read More](https://medium.com/p/b94823930b70) |
-| Wed, 03 Dec 2025 15:25:43 GMT | THE BOTNET AWAKENING : GREYNOISE LETS USERS CONFRONT THE TRUTH | Mohith Krishna K | [Read More](https://medium.com/p/0d5d10d84447) |
-| Wed, 03 Dec 2025 15:20:25 GMT | Day 3 — Through the Gate | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/7a91121e27ee) |
-| Wed, 03 Dec 2025 15:20:19 GMT | Why Your ‘Secure’ VPN Might Be Leaving You Exposed (And How to Actually Stay Safe) | Paradise technologies Inc | [Read More](https://medium.com/p/38510c5ecfd4) |
-| Wed, 03 Dec 2025 15:15:54 GMT | Rektoff Solana Rust Security Bootcamp Review | Dr.-Ing. Fabian Schuh | [Read More](https://medium.com/p/76eb7e812e73) |
