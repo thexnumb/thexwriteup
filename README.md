@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 14:43:26 GMT | TDR Solutions: Empowering Organizations with Unrivaled Security | NetWitness | [Read More](https://medium.com/p/c27d96b23d2f) |
+| Wed, 03 Dec 2025 14:37:23 GMT | How to Detect Root on React Native | Talsec | [Read More](https://medium.com/p/8acd9518db30) |
+| Wed, 03 Dec 2025 14:36:31 GMT | Penetration Testing Report — HF2019 Linux Exploitation | Mohdirfan | [Read More](https://medium.com/p/97678e90e05a) |
+| Wed, 03 Dec 2025 14:36:01 GMT | Keeping Enterprise Networks Always Online — Dual ISP with Load Balancing & Failover | Paul Meyer | [Read More](https://medium.com/p/2150a321c9ff) |
+| Wed, 03 Dec 2025 14:35:39 GMT | India Just Planted an Unremovable App in Every New Phone — And No One Saw It Coming. | Akshobdhira | [Read More](https://medium.com/p/e92d1f161aad) |
+| Wed, 03 Dec 2025 14:29:28 GMT | LUC DELORME ON PLANET OF GHOSTS (Sci — Fi novel) | Alberto Benitez | [Read More](https://medium.com/p/0f3a9b19706e) |
+| Wed, 03 Dec 2025 14:26:19 GMT | When Every C-Suite Thinks They Can Be the CISO (Until Reality Smacks Them in the Face) | Hello @ Octellient | [Read More](https://medium.com/p/124779af73a6) |
+| Wed, 03 Dec 2025 14:24:18 GMT | Hacking the Connected Car: Part 1 — Building the Lab | Federico Barsanti | [Read More](https://medium.com/p/f4a4607954b0) |
+| Wed, 03 Dec 2025 14:23:48 GMT | Linux CLI — Shells Bells - Advent of Cyber 2025 Day 1 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/6eff79e6eba4) |
+| Wed, 03 Dec 2025 14:23:03 GMT | Why Being Part of the Tech Sovereignty Catalogue Matters | Maria Terzi | [Read More](https://medium.com/p/e49d34594bef) |
+| Wed, 03 Dec 2025 14:20:35 GMT | Cryptomixer Takedown through Operation Olympia | David SEHYEON Baek | [Read More](https://medium.com/p/cc1c09f3c68f) |
+| Wed, 03 Dec 2025 14:18:44 GMT | North Korean Cyber-Financing, AI Weaponization, and the Future of Cryptocurrency Theft | David SEHYEON Baek | [Read More](https://medium.com/p/d10e23cf3ea2) |
 | Wed, 03 Dec 2025 14:17:06 GMT | Should you use GitLabs Static application security testing (SAST) for Python? | Maikel Mardjan | [Read More](https://medium.com/p/2aa2e0490f2c) |
 | Wed, 03 Dec 2025 14:15:54 GMT | VPS SUNUCUSUNU PROXY SERVER’A ÇEVİRME | Burak Özdelen | [Read More](https://medium.com/p/de1f160c2246) |
 | Wed, 03 Dec 2025 14:12:16 GMT | Why Modern Businesses Rely on Veeam: Instant Recovery, Immutable Backups & Complete Data Resilience | ANSI Technologies | [Read More](https://medium.com/p/ff39f4469121) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 09:30:03 GMT | The Unsettling Story of the Rust Package No One Was Supposed to Download | Germano Costi | [Read More](https://medium.com/p/8a3445f749fd) |
 | Wed, 03 Dec 2025 09:28:57 GMT | How to Build a Cybersecurity Services Business in Nigeria | Bintu's Art and Everything | [Read More](https://medium.com/p/b784f99c3f1e) |
 | Wed, 03 Dec 2025 09:27:04 GMT | How HIPAA Risk Assessment Prevents the Worst HIPAA Violations | SecureSlate | [Read More](https://medium.com/p/cdb1c8ae7569) |
-| Wed, 03 Dec 2025 09:24:11 GMT | Comprehensive Security Solutions Tailored to Your Needs | uk service | [Read More](https://medium.com/p/4341352947aa) |
-| Wed, 03 Dec 2025 09:18:22 GMT | What Hackers Already Know About You — And How to Protect Yourself Right Now | Payal | [Read More](https://medium.com/p/1888f4c7c43a) |
-| Wed, 03 Dec 2025 09:16:27 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/cd0b1ee7d248) |
-| Wed, 03 Dec 2025 09:13:12 GMT | Why Sending Tokens Across Chains Is Still Too Complicated and How to Solve It | One Click Sender | [Read More](https://medium.com/p/a7d6c1665ce2) |
-| Wed, 03 Dec 2025 09:12:59 GMT | Reverse Engineering & Hacking a License Checker | Spandan Pokhrel | [Read More](https://medium.com/p/57d72971d0e0) |
-| Wed, 03 Dec 2025 09:12:39 GMT | Inside a Data Breach Investigation: How Experts Track the Hacker’s First Move | Dhruvi Nakum | [Read More](https://medium.com/p/e2b8672a42b5) |
-| Wed, 03 Dec 2025 09:12:27 GMT | Sysmon Configuration & Wazuh Detection Lab | Aziz U Rehman | [Read More](https://medium.com/p/7f70662ff243) |
-| Wed, 03 Dec 2025 09:08:05 GMT | The Silent War No One Is Talking About | Adrian Mercer | [Read More](https://medium.com/p/d25a8eaa3d6e) |
-| Wed, 03 Dec 2025 09:05:26 GMT | The Future of Authentication: Passkeys, Biometrics, and the Death of OTPs in Fintech | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/ab0f02934a73) |
-| Wed, 03 Dec 2025 09:01:04 GMT | AI & Cybersecurity | Mehrzad Verdizadegan | [Read More](https://medium.com/p/a5e3f09c79ff) |
-| Wed, 03 Dec 2025 09:00:11 GMT | Learning Stillness the Hard Way | The Ordinary Diaries | [Read More](https://medium.com/p/7d69429a6597) |
-| Wed, 03 Dec 2025 08:55:13 GMT | The Real Reason I Became a Cybersecurity Writer | Shahzaib | [Read More](https://medium.com/p/1b09ccee7fa0) |
