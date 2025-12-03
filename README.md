@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 03:57:16 GMT | How IAM Supports Business Agility: The 2025 Cybersecurity Advantage. | Sennovate | [Read More](https://medium.com/p/6b32417f9c0b) |
+| Wed, 03 Dec 2025 03:50:40 GMT | Influence without Authority | Mahesh Chintakunta | [Read More](https://medium.com/p/81a7e8e857e9) |
+| Wed, 03 Dec 2025 03:40:35 GMT | JWT Authentication Bypass via JWK Header Injection | Bash Overflow | [Read More](https://medium.com/p/0dfaec4f6f94) |
+| Wed, 03 Dec 2025 03:40:35 GMT | How Hackers Use PING to Track, Scan & Attack Targets | Shahzaib | [Read More](https://medium.com/p/ad87fa193ae2) |
+| Wed, 03 Dec 2025 03:40:33 GMT | The Dark Art Of Behavioral Enumeration And Why It Works Every Time | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/102eadae2d3b) |
+| Wed, 03 Dec 2025 03:38:19 GMT | Promethean One Security Bulletin | Dave MacKinnon | [Read More](https://medium.com/p/f413325887a1) |
+| Wed, 03 Dec 2025 03:38:03 GMT | BLFCW Policy Watch: DeFi’s Expanding Attack Surface — From Smart-Contract Bugs To Liquidity Design… | BLFCW | [Read More](https://medium.com/p/47fd16fbd410) |
+| Wed, 03 Dec 2025 03:35:51 GMT | Blockchain Under the Hood: A Deep Technical Journey | Giulio Sistilli | [Read More](https://medium.com/p/8ef69c03beab) |
+| Wed, 03 Dec 2025 03:35:19 GMT | Mobile pen testing part 2: Intercept HTTP traffic and the Damm Vulnerable Bank app | Nol White Hat | [Read More](https://medium.com/p/1dd43c891bc6) |
+| Wed, 03 Dec 2025 03:35:14 GMT | Mobile pen testing part 1: Set a mobile pentest environment with Objection, Frida and Burp on Kali… | Nol White Hat | [Read More](https://medium.com/p/171e118bdec7) |
+| Wed, 03 Dec 2025 03:32:12 GMT | 5 Essential Steps for Node.js Outage Root Cause Analysis | Arunangshu Das | [Read More](https://medium.com/p/b9f5875e3475) |
+| Wed, 03 Dec 2025 03:32:12 GMT | The ClickFix Attack: How Fake Windows Updates Are Tricking Users Into Installing Malware | Deven Chhajed | [Read More](https://medium.com/p/0c7338e21e33) |
+| Wed, 03 Dec 2025 03:25:29 GMT | Revolusi Ekosistem Gaming 2025: Standar Baru Dragonsakti88 | Dragonsakti88 Official | [Read More](https://medium.com/p/91f5b8725ec9) |
+| Wed, 03 Dec 2025 03:20:03 GMT | A Complete Guide to Transport Layer Security (TLS) Authentication | Tiexin Guo | [Read More](https://medium.com/p/154daa1e29b5) |
+| Wed, 03 Dec 2025 03:14:24 GMT | API Key Security: 7 Enterprise-Proven Methods to Prevent Costly Data Breaches | Tiexin Guo | [Read More](https://medium.com/p/72d45c99bf01) |
 | Wed, 03 Dec 2025 03:14:02 GMT | The “Rogue Agent” Threat: Why You Need an AI Security Platform | Prof. Amandeep S. Sidhu | [Read More](https://medium.com/p/f53afe81e0f2) |
 | Wed, 03 Dec 2025 03:14:02 GMT | Beginner’s Guide to SafeLine Web Application Firewall | Loria | [Read More](https://medium.com/p/79002316411c) |
 | Wed, 03 Dec 2025 03:02:45 GMT | Project CodeGuard Livestream and Demos | Omar Santos | [Read More](https://medium.com/p/a82fb5f44d24) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 18:59:16 GMT | Capítulo 13 — O Legado | Kleber Andrade | [Read More](https://medium.com/p/d0d7ff006a78) |
 | Tue, 02 Dec 2025 18:54:10 GMT | TuesdayTool 38: Vulners: Vulnerability Intelligence Engine | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/5e74f3c00325) |
 | Tue, 02 Dec 2025 18:49:58 GMT | TryHackMe: Advent of Cyber 2025 — Day 2Walkthrough | Inyanji Lynnette | [Read More](https://medium.com/p/06f2b7122365) |
-| Tue, 02 Dec 2025 18:39:20 GMT | Breaking progress | Alizabeth Amelia Rose | [Read More](https://medium.com/p/9cd3a66d6ec8) |
-| Tue, 02 Dec 2025 18:34:41 GMT | An Introductory Course in Text Cybersecurity | professional educator | [Read More](https://medium.com/p/ce30d83c1e77) |
-| Tue, 02 Dec 2025 18:32:08 GMT | AI Security Architecture Series: Defining the Top 10 Essential Skills for AI Security Architects | Arsh Riz | [Read More](https://medium.com/p/88192eba605f) |
-| Tue, 02 Dec 2025 18:29:23 GMT | Your Scars Are Not the End of Us | Liora Nise | [Read More](https://medium.com/p/a70c50f49963) |
-| Tue, 02 Dec 2025 18:26:27 GMT | Which Password Is Used Most Often? | Seikh Suraj | [Read More](https://medium.com/p/5cb81d4f4022) |
-| Tue, 02 Dec 2025 18:25:33 GMT | Advent of Cyber 2025 Day 2 - TryHackMe - Phishing — Merry Clickmas - WriteUp | Axoloth | [Read More](https://medium.com/p/dc3ede1b57a5) |
-| Tue, 02 Dec 2025 18:23:45 GMT | “The $10,000 Ruby Crash: When a “Smart” Optimization Crashed Shopify’s Entire System” | Aman Sharma | [Read More](https://medium.com/p/78b04fd74f4c) |
-| Tue, 02 Dec 2025 18:23:10 GMT | The Digital Asset (Scotland) Bill | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c04713250cac) |
-| Tue, 02 Dec 2025 18:22:07 GMT | The Hidden Battle: How Network Threat Hunting Strengthens Your Security Posture | Mai Tran | [Read More](https://medium.com/p/c62a25ac6e38) |
-| Tue, 02 Dec 2025 18:20:27 GMT | Building an Effective Cybersecurity Incident Response Plan | Mai Tran | [Read More](https://medium.com/p/6d3f6c0d9f84) |
-| Tue, 02 Dec 2025 18:19:50 GMT | CVE-2025–62218 - Microsoft Wireless Provisioning System Elevation of Privilege Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/c6c75d8b5655) |
-| Tue, 02 Dec 2025 18:17:34 GMT | How I Robbed the Bank: VulnBank CTF Walkthrough (FahemSec) | Ahmed Hassan | [Read More](https://medium.com/p/fa277b9ff8b1) |
-| Tue, 02 Dec 2025 18:16:51 GMT | Wireshark Traffic Analysis: ARP Poisoning & Man In The Middle | Citadel Cybersec | [Read More](https://medium.com/p/e598c4221cb5) |
-| Tue, 02 Dec 2025 18:13:31 GMT | HeroCTF 2025 - Bootloader -Misc Challenge (embedded exploitation) | Zeyad Karim | [Read More](https://medium.com/p/80a48e931403) |
-| Tue, 02 Dec 2025 18:13:30 GMT | I created my own social media platform like Reddit | Aathil Ducky | [Read More](https://medium.com/p/e7cd3915d965) |
