@@ -12,10 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 17:13:26 GMT | BankGPT - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/348586191821) |
+| Wed, 03 Dec 2025 17:10:08 GMT | Cybersecurity in Government Organizations: The Real Challenges | Digital Defense | [Read More](https://medium.com/p/d7e7fa99f99c) |
+| Wed, 03 Dec 2025 16:57:45 GMT | Penetration Testing Report — Kioptrix Level 1 Exploitation | Yadhu krishnan | [Read More](https://medium.com/p/682f9dbab5fd) |
+| Wed, 03 Dec 2025 16:54:32 GMT | Securing Patient Data Beyond the EHR: The Risk in Medical Imaging | Legal Thoughts | [Read More](https://medium.com/p/c1802ee946bf) |
+| Wed, 03 Dec 2025 16:52:59 GMT | VulnHub DC-6 Walkthrough: WordPress Privilege Escalation | Kalash Kundaliya | [Read More](https://medium.com/p/77a37e537afd) |
+| Wed, 03 Dec 2025 16:52:21 GMT | Phishing — Merry Clickmas - Advent of Cyber 2025 Day 2 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/a1f6b9fad06c) |
+| Wed, 03 Dec 2025 16:51:29 GMT | HealthGPT — TryHackMe | Infosec world | [Read More](https://medium.com/p/63aacdff9bc3) |
+| Wed, 03 Dec 2025 16:41:31 GMT | Thoughts for Nigeria’s Incoming Minister of Defence | Alli Taofik Adewale | [Read More](https://medium.com/p/1995a4fded6e) |
+| Wed, 03 Dec 2025 16:38:03 GMT | Why the Transatlantic Data Cables Linking the US and Ireland Are Becoming a European Security… | Digital Auditor | [Read More](https://medium.com/p/02b92540874f) |
+| Wed, 03 Dec 2025 16:37:57 GMT | Blind-XSS Escalated from HTMLi | Mustafa Abdullah | [Read More](https://medium.com/p/4c7658660151) |
 | Wed, 03 Dec 2025 16:24:43 GMT | Where I See Cybersecurity in 2026 — Through the Lens of AppSec & Pentesting | Mark Babcock | [Read More](https://medium.com/p/430eca6f5c47) |
+| Wed, 03 Dec 2025 16:24:37 GMT | The Hidden Internet Under The Internet | Abdullah Javeed | [Read More](https://medium.com/p/688b059cd01e) |
 | Wed, 03 Dec 2025 16:22:28 GMT | The Day I Accidentally Became a Network Security Enthusiast | Mubashir | [Read More](https://medium.com/p/d176827594dc) |
 | Wed, 03 Dec 2025 16:21:52 GMT | Let it be known: I was once the sole advocate of my feelings | lifeofthegiver | [Read More](https://medium.com/p/f3a3ee54a4a7) |
 | Wed, 03 Dec 2025 16:20:35 GMT | The Safety Paradox: Why We Fear Violence But Neglect Education | Antonio Isidio de Queiroz Neto | [Read More](https://medium.com/p/2006a699fe95) |
+| Wed, 03 Dec 2025 16:19:52 GMT | Book Southwest flights for 2,000 points | Daily Drop | [Read More](https://medium.com/p/2f7017e58798) |
 | Wed, 03 Dec 2025 16:17:53 GMT | Building a “Fortress” Kubernetes Cluster: Talos Linux, Proxmox, and Network Isolation | Joris Vilardell | [Read More](https://medium.com/p/15444968fb06) |
 | Wed, 03 Dec 2025 16:16:08 GMT | Designing Secure Financial Applications in a Web2 & Web3 World | Travis van der Font | [Read More](https://medium.com/p/b7df452ffc80) |
 | Wed, 03 Dec 2025 16:14:46 GMT | 5 Lessons for Leading Sustained Growth — From Someone Who’s Actually Done It | Jeff Vosburg | [Read More](https://medium.com/p/c193531cc48d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 12:38:51 GMT | Heart-Mind Diaries ep. 2 : A Debate on Learning to Be Seen. | Observing Her | [Read More](https://medium.com/p/e5b02420aa7c) |
 | Wed, 03 Dec 2025 12:33:10 GMT | Security Considerations in API and Microservices Testing | Alyona Potapova | [Read More](https://medium.com/p/a096ae9048c5) |
 | Wed, 03 Dec 2025 12:31:49 GMT | Security Lab Simulation Project Part 3: Elasticsearch Set-up and Configuration | Jenny | [Read More](https://medium.com/p/86995a8e76a0) |
-| Wed, 03 Dec 2025 12:30:22 GMT | Assertion 101 — A Fun Journey from LFI to Root (with a Twist at the End) | IshhIshneet | [Read More](https://medium.com/p/17529fd7a634) |
-| Wed, 03 Dec 2025 12:29:00 GMT | Broken Brute-Force Protection: Multiple Credentials per Request (EXPERT) — Adım Adım Çözüm | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6ca26671c3d7) |
-| Wed, 03 Dec 2025 12:23:15 GMT | ESC5 ADCS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/5a5c5f6540d8) |
-| Wed, 03 Dec 2025 12:08:50 GMT | Is NoonooTV Safe? Privacy Protection Guide for 2026 | NoonooTV Official | [Read More](https://medium.com/p/358236b08ec7) |
-| Wed, 03 Dec 2025 12:03:48 GMT | Today’s Top Cyber Intelligence Highlights — Dec 03, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3d1b3ce99ce6) |
-| Wed, 03 Dec 2025 11:46:11 GMT | What Skills Do You Gain From an Ethical Hacking Course? | Shubham Saini | [Read More](https://medium.com/p/84cf94c36af3) |
-| Wed, 03 Dec 2025 11:41:50 GMT | VulNyx Misconfigured Writeup | CyberCraft | [Read More](https://medium.com/p/f3f35cb52673) |
-| Wed, 03 Dec 2025 11:37:00 GMT | How I Turned a 403 Error into a $200 API Key Leak Bounty | JEETPAL | [Read More](https://medium.com/p/96faba78dfc4) |
-| Wed, 03 Dec 2025 11:35:02 GMT |  |  | [Read More](https://medium.com/p/0d1f5646ef4c) |
-| Wed, 03 Dec 2025 11:34:32 GMT | From Code to Compromise: My Hands‑On Journey Creating a Vulnerable Car Dealer Application | Ian Zammit | [Read More](https://medium.com/p/0b6825ca8e58) |
-| Wed, 03 Dec 2025 11:32:07 GMT | Data Matters More Than You Think | Swetha | [Read More](https://medium.com/p/fa86254f8b8e) |
-| Wed, 03 Dec 2025 11:30:18 GMT | Why You Don’t See CAPTCHAs on Your iPhone Anymore | Sarkazein | [Read More](https://medium.com/p/34ea1890b7f6) |
