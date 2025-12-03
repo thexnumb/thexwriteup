@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 17:33:19 GMT | Case Study: How I Found Four Critical Vulnerabilities in a Popular Lightning Network Python SDK | LETCHU PKT | [Read More](https://medium.com/p/08318d77613c) |
+| Wed, 03 Dec 2025 17:33:17 GMT | What If S-233 Applied to Security Guards? A Look at a Kamloops Assault | Scott Hill | [Read More](https://medium.com/p/7323f5285cf9) |
+| Wed, 03 Dec 2025 17:32:26 GMT | Capítulo 14 — O Último Log | Kleber Andrade | [Read More](https://medium.com/p/efdfda6172da) |
+| Wed, 03 Dec 2025 17:26:05 GMT | Cybersecurity: Facts, Myths & The Story Behind The Screens | Subrat Samantaray | [Read More](https://medium.com/p/a3b063592dc8) |
+| Wed, 03 Dec 2025 17:19:58 GMT | 0LIONW0 - Autoit3 based RAT analysis | Mehmet Ali Şipi | [Read More](https://medium.com/p/ac12d5d4103a) |
 | Wed, 03 Dec 2025 17:13:26 GMT | BankGPT - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/348586191821) |
 | Wed, 03 Dec 2025 17:10:08 GMT | Cybersecurity in Government Organizations: The Real Challenges | Digital Defense | [Read More](https://medium.com/p/d7e7fa99f99c) |
 | Wed, 03 Dec 2025 16:57:45 GMT | Penetration Testing Report — Kioptrix Level 1 Exploitation | Yadhu krishnan | [Read More](https://medium.com/p/682f9dbab5fd) |
@@ -19,6 +24,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 16:52:59 GMT | VulnHub DC-6 Walkthrough: WordPress Privilege Escalation | Kalash Kundaliya | [Read More](https://medium.com/p/77a37e537afd) |
 | Wed, 03 Dec 2025 16:52:21 GMT | Phishing — Merry Clickmas - Advent of Cyber 2025 Day 2 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/a1f6b9fad06c) |
 | Wed, 03 Dec 2025 16:51:29 GMT | HealthGPT — TryHackMe | Infosec world | [Read More](https://medium.com/p/63aacdff9bc3) |
+| Wed, 03 Dec 2025 16:45:26 GMT | “Programa Integral de Seguridad y Gestión de Riesgos” | Mauricio Alan Illera Diaz | [Read More](https://medium.com/p/b19da36f9881) |
 | Wed, 03 Dec 2025 16:41:31 GMT | Thoughts for Nigeria’s Incoming Minister of Defence | Alli Taofik Adewale | [Read More](https://medium.com/p/1995a4fded6e) |
 | Wed, 03 Dec 2025 16:38:03 GMT | Why the Transatlantic Data Cables Linking the US and Ireland Are Becoming a European Security… | Digital Auditor | [Read More](https://medium.com/p/02b92540874f) |
 | Wed, 03 Dec 2025 16:37:57 GMT | Blind-XSS Escalated from HTMLi | Mustafa Abdullah | [Read More](https://medium.com/p/4c7658660151) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 13:02:38 GMT | 從技術選型到 AI 上線：PM 如何用「治理」保護自己與專案呢？ | Ariel Chang | [Read More](https://medium.com/p/e4ac3d1018b1) |
 | Wed, 03 Dec 2025 13:02:38 GMT | A Biological Theory of Everything | Dr Chris Earl MOL-BIO | [Read More](https://medium.com/p/92c34c96bf79) |
 | Wed, 03 Dec 2025 13:01:13 GMT | You need to copy the hidden character first. | Copyinvisibletext | [Read More](https://medium.com/p/3e4a0e192abf) |
-| Wed, 03 Dec 2025 12:52:28 GMT | How To Create A Simple Malware Using Python | Abhay Parashar | [Read More](https://medium.com/p/2564e8a63f06) |
-| Wed, 03 Dec 2025 12:45:34 GMT | TryHackMe Writeup: Kiba | Berkay AĞGÜL | [Read More](https://medium.com/p/6072bdba870a) |
-| Wed, 03 Dec 2025 12:45:31 GMT | How I Used a $50 SDR to Unmask a Vulnerable Smart Camera Protocol | Michael Preston | [Read More](https://medium.com/p/1425850bf8d3) |
-| Wed, 03 Dec 2025 12:38:51 GMT | Heart-Mind Diaries ep. 2 : A Debate on Learning to Be Seen. | Observing Her | [Read More](https://medium.com/p/e5b02420aa7c) |
-| Wed, 03 Dec 2025 12:33:10 GMT | Security Considerations in API and Microservices Testing | Alyona Potapova | [Read More](https://medium.com/p/a096ae9048c5) |
-| Wed, 03 Dec 2025 12:31:49 GMT | Security Lab Simulation Project Part 3: Elasticsearch Set-up and Configuration | Jenny | [Read More](https://medium.com/p/86995a8e76a0) |
