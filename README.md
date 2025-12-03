@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 06:28:34 GMT | ️ The ELK Stack: Your DIY Security Powerhouse for Log Analysis | Akhil Binu | [Read More](https://medium.com/p/524eea58ae75) |
+| Wed, 03 Dec 2025 06:24:17 GMT | Security-Driven Kernel Parameter Hardening: A Practical Guide to Strengthening Your System at the… | Esra Kayhan | [Read More](https://medium.com/p/441d5936aa29) |
+| Wed, 03 Dec 2025 06:02:30 GMT | Social Engineering: Why Hackers Target People, Not Computers” | Grace Chukwunta | [Read More](https://medium.com/p/7ea199f8fa9c) |
+| Wed, 03 Dec 2025 06:01:20 GMT | WireGuard as a Stealth C2 Channel: Abuse of Modern VPNs, Evasion, and Detection | Cyberlpz | [Read More](https://medium.com/p/a4663a2df874) |
+| Wed, 03 Dec 2025 05:47:14 GMT | love (a prologue): | S.Y. Kang | [Read More](https://medium.com/p/5a9f900a54d3) |
+| Wed, 03 Dec 2025 05:46:13 GMT | 12 Psychological Techniques That Control Decisions | Marcello Iori | [Read More](https://medium.com/p/67edb013b379) |
+| Wed, 03 Dec 2025 05:43:45 GMT | Vulnerability Assessment and Intelligence Estimate of the Flock Safety Surveillance Network | Ali Gündoğar | [Read More](https://medium.com/p/4a797d8176ec) |
+| Wed, 03 Dec 2025 05:42:53 GMT | Why Opening Up Increases Desire | Mr. Papageno | [Read More](https://medium.com/p/86a48320c98e) |
+| Wed, 03 Dec 2025 05:42:41 GMT | The “Hidden Map” Inside Your iPhone: How to Find It and Delete It | K_Anik | [Read More](https://medium.com/p/313ce3a35751) |
+| Wed, 03 Dec 2025 05:41:55 GMT | Beyond TLS: A Practical Deep Dive into AES, RSA, Hybrid Encryption, and a New Layer for Securing… | Tharindu Mahindarathna | [Read More](https://medium.com/p/abb0b52e1b0b) |
 | Wed, 03 Dec 2025 05:38:24 GMT | Why C-Cube Is Becoming the Best Computer Training Institute in Kolkata (2025 Guide) | C-Cube Centre of Computer Education | [Read More](https://medium.com/p/52f24a0c375a) |
+| Wed, 03 Dec 2025 05:34:02 GMT | The Local AI Infrastructure Framework: Aligning Models, Hardware, and Business Goals | Ali Khorsandian | [Read More](https://medium.com/p/66a466b6415c) |
 | Wed, 03 Dec 2025 05:28:26 GMT | What Should You Look For When Choosing The Best Data Loss Prevention Software? | keyTrackr | [Read More](https://medium.com/p/f0a832092b86) |
 | Wed, 03 Dec 2025 05:24:08 GMT | Network Segmentation Strategy: Containing the Blast Radius | Aniketh Roy | [Read More](https://medium.com/p/658b93d5b118) |
 | Wed, 03 Dec 2025 05:16:27 GMT | Managed Detection and Response ROI: The Value of 24/7 Security | Trisha Gaur | [Read More](https://medium.com/p/a85ff454396d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 20:53:36 GMT | Tech#43– Section 2— Building Production-Grade Systems: Security-First Development | Vikkas Arun Pareek | [Read More](https://medium.com/p/5d0584a02acd) |
 | Tue, 02 Dec 2025 20:43:49 GMT | The Meeting Room Impostor: How AI Assistant Names Became a Security Blind Spot | Mohammad Omar | [Read More](https://medium.com/p/bfbc08c47c1a) |
 | Tue, 02 Dec 2025 20:41:23 GMT | Divide and Conquer with Git Bisect | Ayham Al Attar | [Read More](https://medium.com/p/4a035524cd8c) |
-| Tue, 02 Dec 2025 20:36:36 GMT | Hardening with Firejail, Landlock, and bubblewrap | Tamas Sallai | [Read More](https://medium.com/p/5d0a63155f95) |
-| Tue, 02 Dec 2025 20:27:09 GMT | Anthropic Research Shows AI Agents Learn Smart Contract Exploitation | Valdez Ladd | [Read More](https://medium.com/p/9be135ad0f12) |
-| Tue, 02 Dec 2025 20:26:05 GMT | The Evolution of Data Centers | Jordanh | [Read More](https://medium.com/p/957acf0446d3) |
-| Tue, 02 Dec 2025 20:26:03 GMT | Cybersecurity and Economic Resilience: Why Protecting Data Means Protecting Growth | Chaimae | [Read More](https://medium.com/p/ed6b05fd2532) |
-| Tue, 02 Dec 2025 20:24:22 GMT | Introduction to SIEM — Tryhackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/ae9308f83724) |
-| Tue, 02 Dec 2025 20:18:20 GMT | Day 2 — TCP, UDP, and HTTP Deep Packet Analysis | Oluwadamilare Adeosun | [Read More](https://medium.com/p/674bb0927f64) |
-| Tue, 02 Dec 2025 20:18:07 GMT | CVE Program Report for Quarter 3 Calendar Year (Q3 CY) 2025 | CVE Program Blog | [Read More](https://medium.com/p/11ed542f0e47) |
-| Tue, 02 Dec 2025 20:08:03 GMT | Privacy in RAG systems | Muhammad Jilshak K | [Read More](https://medium.com/p/856531c48ef7) |
-| Tue, 02 Dec 2025 20:02:24 GMT | Top 5 Zero Trust Authentication Methods in 2025 | TechPreneur | [Read More](https://medium.com/p/a46aef1f4516) |
-| Tue, 02 Dec 2025 20:01:52 GMT | How VirusTotal Uses File Hashes to Detect and Classify Potential Malware | Daniel | [Read More](https://medium.com/p/b7e833e0a88a) |
-| Tue, 02 Dec 2025 20:01:17 GMT | Welcome UpScrolled — A new censorship-free social media platform | MoaazBinSajjad | [Read More](https://medium.com/p/a3616cba7064) |
