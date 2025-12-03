@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 11:37:00 GMT | How I Turned a 403 Error into a $200 API Key Leak Bounty | JEETPAL | [Read More](https://medium.com/p/96faba78dfc4) |
+| Wed, 03 Dec 2025 11:35:02 GMT |  |  | [Read More](https://medium.com/p/0d1f5646ef4c) |
+| Wed, 03 Dec 2025 11:34:32 GMT | From Code to Compromise: My Hands‑On Journey Creating a Vulnerable Car Dealer Application | Ian Zammit | [Read More](https://medium.com/p/0b6825ca8e58) |
+| Wed, 03 Dec 2025 11:32:07 GMT | Data Matters More Than You Think | Swetha | [Read More](https://medium.com/p/fa86254f8b8e) |
+| Wed, 03 Dec 2025 11:30:18 GMT | Why You Don’t See CAPTCHAs on Your iPhone Anymore | Sarkazein | [Read More](https://medium.com/p/34ea1890b7f6) |
+| Wed, 03 Dec 2025 11:29:55 GMT | What Auditors Examine When Reviewing IAS 19 Valuation Assumptions | Prima Consulting | [Read More](https://medium.com/p/938cc7b29641) |
+| Wed, 03 Dec 2025 11:26:55 GMT | How Automated Cybersecurity Solutions Are Revolutionizing Digital Defense in 2026 | QualysecEurope | [Read More](https://medium.com/p/e444a8ac3f7f) |
+| Wed, 03 Dec 2025 11:23:54 GMT | COMPLETE METHODOLOGY SHEET — CTF PENTEST | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/8982b0cca7e1) |
+| Wed, 03 Dec 2025 11:16:41 GMT | AI Ending the Scapegoat-As-A-Service Consulting Cash Cow | Namir Sagheenanajar | [Read More](https://medium.com/p/a4498ce441f8) |
 | Wed, 03 Dec 2025 11:10:07 GMT | Top Online Courses in Australian Universities — Flexible, High-Quality Learning for All | royalinternational | [Read More](https://medium.com/p/a50dbaab26cc) |
 | Wed, 03 Dec 2025 11:05:20 GMT | Securing the Software Supply Chain using Open Source Tools and Information | Iason Tzortzis | [Read More](https://medium.com/p/0f5657c052d8) |
 | Wed, 03 Dec 2025 11:00:27 GMT | Top 10 Mobile App Development Companies in Melbourne | Supportsoft Technologies | [Read More](https://medium.com/p/1a757b8a326a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 06:24:17 GMT | Security-Driven Kernel Parameter Hardening: A Practical Guide to Strengthening Your System at the… | Esra Kayhan | [Read More](https://medium.com/p/441d5936aa29) |
 | Wed, 03 Dec 2025 06:22:32 GMT | WordPress Wins Again: Why Affordable Hosting Is the Real Game-Changer? | Mary Thomas | [Read More](https://medium.com/p/9425173885e6) |
 | Wed, 03 Dec 2025 06:02:30 GMT | Social Engineering: Why Hackers Target People, Not Computers” | Grace Chukwunta | [Read More](https://medium.com/p/7ea199f8fa9c) |
-| Wed, 03 Dec 2025 06:01:20 GMT | WireGuard as a Stealth C2 Channel: Abuse of Modern VPNs, Evasion, and Detection | Cyberlpz | [Read More](https://medium.com/p/a4663a2df874) |
-| Wed, 03 Dec 2025 06:00:00 GMT | Smart Online Safety Starts Early: Cyber Security Awareness Quiz for High School Students | GowthamCybersecurityAnalyst | [Read More](https://medium.com/p/f3a5f8c1a95b) |
-| Wed, 03 Dec 2025 05:47:14 GMT | love (a prologue): | S.Y. Kang | [Read More](https://medium.com/p/5a9f900a54d3) |
-| Wed, 03 Dec 2025 05:46:13 GMT | 12 Psychological Techniques That Control Decisions | Marcello Iori | [Read More](https://medium.com/p/67edb013b379) |
-| Wed, 03 Dec 2025 05:43:45 GMT | Vulnerability Assessment and Intelligence Estimate of the Flock Safety Surveillance Network | Ali Gündoğar | [Read More](https://medium.com/p/4a797d8176ec) |
-| Wed, 03 Dec 2025 05:42:53 GMT | Why Opening Up Increases Desire | Mr. Papageno | [Read More](https://medium.com/p/86a48320c98e) |
-| Wed, 03 Dec 2025 05:42:41 GMT | The “Hidden Map” Inside Your iPhone: How to Find It and Delete It | K_Anik | [Read More](https://medium.com/p/313ce3a35751) |
-| Wed, 03 Dec 2025 05:41:55 GMT | Beyond TLS: A Practical Deep Dive into AES, RSA, Hybrid Encryption, and a New Layer for Securing… | Tharindu Mahindarathna | [Read More](https://medium.com/p/abb0b52e1b0b) |
-| Wed, 03 Dec 2025 05:38:24 GMT | Why C-Cube Is Becoming the Best Computer Training Institute in Kolkata (2025 Guide) | C-Cube Centre of Computer Education | [Read More](https://medium.com/p/52f24a0c375a) |
