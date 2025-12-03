@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 13:36:05 GMT | 5. Master the Basics, Break the Web: Authentication & Authorization Basics | Abinesh M | [Read More](https://medium.com/p/1703446109a4) |
+| Wed, 03 Dec 2025 13:26:58 GMT | I Built Bit.ly in 60 Lines of Code — The Secret Math Behind URL Shorteners | The Dev Notebook | [Read More](https://medium.com/p/331f668d7de6) |
+| Wed, 03 Dec 2025 13:22:23 GMT | ⚙️ How the Wayback Machine Really Works (And Why Your “Deleted” Site Isn’t Gone) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/e43b0ab0ddb8) |
+| Wed, 03 Dec 2025 13:16:24 GMT | From “Info Disclosure” to Critical RCE: How I Turned Legacy Code into a CVSS 9.8 Win | Sharmaujjwal | [Read More](https://medium.com/p/e20437e29b17) |
+| Wed, 03 Dec 2025 13:16:03 GMT | New Ways To Hack iPhone - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/502656312e2a) |
+| Wed, 03 Dec 2025 13:15:56 GMT | The $1.5 Billion Lesson: Deconstructing the Bybit Heist of 2025 | Princeanietie | [Read More](https://medium.com/p/cf8ce7b90986) |
+| Wed, 03 Dec 2025 13:12:37 GMT | Critical WordPress Security Alert: Elementor Plugin Vulnerability Enables Complete Site Takeover | Technijian | [Read More](https://medium.com/p/46c24083a271) |
+| Wed, 03 Dec 2025 13:12:14 GMT | Co-Hosts can prevent Hosts from accessing the “About” tab in Facebook Events | Rohmad Hidayah | [Read More](https://medium.com/p/fdbc324c6bfb) |
+| Wed, 03 Dec 2025 13:10:40 GMT | Vulnerability Chain: Unexploitable Self-XSS + CSRF + Open Redirect Leads to Fully Exploitable XSS | Abdo Rabea (0xOverlord) | [Read More](https://medium.com/p/a2174cfdc2ea) |
+| Wed, 03 Dec 2025 13:08:42 GMT | How an SVG Image Exposed a Stored XSS on a Fake Marketplace (And How I Found Out It Was a Scam | Mohamednaddaa | [Read More](https://medium.com/p/826c0634b2b8) |
+| Wed, 03 Dec 2025 13:06:02 GMT | The Ghost in Your Wi-Fi: Part 3 - Becoming the Guardian | Nisarg Patel | [Read More](https://medium.com/p/a083e4965f9e) |
+| Wed, 03 Dec 2025 13:03:54 GMT | From Curiosity to Code: My Journey into Cybersecurity & Python Development | ShayanTaki | [Read More](https://medium.com/p/cc0cc578640c) |
+| Wed, 03 Dec 2025 13:02:38 GMT | 從技術選型到 AI 上線：PM 如何用「治理」保護自己與專案呢？ | Ariel Chang | [Read More](https://medium.com/p/e4ac3d1018b1) |
+| Wed, 03 Dec 2025 13:02:38 GMT | A Biological Theory of Everything | Dr Chris Earl MOL-BIO | [Read More](https://medium.com/p/92c34c96bf79) |
+| Wed, 03 Dec 2025 13:01:13 GMT | You need to copy the hidden character first. | Copyinvisibletext | [Read More](https://medium.com/p/3e4a0e192abf) |
+| Wed, 03 Dec 2025 12:52:28 GMT | How To Create A Simple Malware Using Python | Abhay Parashar | [Read More](https://medium.com/p/2564e8a63f06) |
 | Wed, 03 Dec 2025 12:45:34 GMT | TryHackMe Writeup: Kiba | Berkay AĞGÜL | [Read More](https://medium.com/p/6072bdba870a) |
 | Wed, 03 Dec 2025 12:45:31 GMT | How I Used a $50 SDR to Unmask a Vulnerable Smart Camera Protocol | Michael Preston | [Read More](https://medium.com/p/1425850bf8d3) |
+| Wed, 03 Dec 2025 12:38:51 GMT | Heart-Mind Diaries ep. 2 : A Debate on Learning to Be Seen. | Observing Her | [Read More](https://medium.com/p/e5b02420aa7c) |
 | Wed, 03 Dec 2025 12:33:10 GMT | Security Considerations in API and Microservices Testing | Alyona Potapova | [Read More](https://medium.com/p/a096ae9048c5) |
 | Wed, 03 Dec 2025 12:31:49 GMT | Security Lab Simulation Project Part 3: Elasticsearch Set-up and Configuration | Jenny | [Read More](https://medium.com/p/86995a8e76a0) |
 | Wed, 03 Dec 2025 12:30:22 GMT | Assertion 101 — A Fun Journey from LFI to Root (with a Twist at the End) | IshhIshneet | [Read More](https://medium.com/p/17529fd7a634) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 08:15:03 GMT | Spring Boot ve JWT ile Güvenli Kimlik Doğrulama-3 | Abdüssamed KARA | [Read More](https://medium.com/p/fe52ef6c267c) |
 | Wed, 03 Dec 2025 08:02:47 GMT | Gideon Korrell on Data Governance and Privacy Issues in Industrial IoT Deployments | Gideon Korrell | [Read More](https://medium.com/p/0cda8516b034) |
 | Wed, 03 Dec 2025 08:02:17 GMT | I Was Only the Light That Fell Across the Hallway | Łukasz Ratajczak | [Read More](https://medium.com/p/2ac3c07b5079) |
-| Wed, 03 Dec 2025 08:02:16 GMT | [Part 16] AI in Industrial Cybersecurity (ICS/OT): Protecting Factories & Energy Systems | Cyberkech | [Read More](https://medium.com/p/250bc2491e93) |
-| Wed, 03 Dec 2025 08:00:34 GMT | TASK2 (Louvre Protocol)CCTV OSINT Investigation Report — TryHackMe. | Abhilash H | [Read More](https://medium.com/p/26d0e65c2db7) |
-| Wed, 03 Dec 2025 07:55:00 GMT | Vibe Coding: How AI Is Becoming a True Partner in Modern Digital Development | Noorul Ameen | [Read More](https://medium.com/p/8621f5669695) |
-| Wed, 03 Dec 2025 07:50:21 GMT | Unauthenticated Endpoints Could Remove All Application Servers From the Load Balancer Pool… | Ashiqur Rahman Emon | [Read More](https://medium.com/p/1dd333299603) |
-| Wed, 03 Dec 2025 07:43:09 GMT | What is Sanchar Saathi? | Vinod Senthil | [Read More](https://medium.com/p/f427ef84fc92) |
-| Wed, 03 Dec 2025 07:42:47 GMT | #4 Cyber Security : Malware and Phishing Attacks | Betül Akmercan | [Read More](https://medium.com/p/c063b80be4ef) |
-| Wed, 03 Dec 2025 07:39:11 GMT | Stop Relying on dotenv — Meet PushEnv: Type-safe envs, Zod validation, and encrypted team sync | Shahnoor Mujawar | [Read More](https://medium.com/p/1dd64680f2ed) |
-| Wed, 03 Dec 2025 07:37:44 GMT | I Accidentally Generated Ransomware With an Early AI Model — Here’s What It Taught Me | Elijah Cooley (Lux Aeterna) | [Read More](https://medium.com/p/3c454f302e28) |
-| Wed, 03 Dec 2025 07:36:07 GMT | Networking Core Protocols | CyborgfromHelix | [Read More](https://medium.com/p/e589c19660c9) |
-| Wed, 03 Dec 2025 07:33:17 GMT | 1. I Felt Seen | Avina Vidal | [Read More](https://medium.com/p/d56e2d0a9c39) |
-| Wed, 03 Dec 2025 07:32:11 GMT | 10 Bandit/pip-audit Safeguards for Secure Python Builds | Syntal | [Read More](https://medium.com/p/f4860a1c0771) |
-| Wed, 03 Dec 2025 07:27:35 GMT | The Phone Never Tells the Full Story: What Digital Truth Really Looks Like | Vijay Kumar Gupta | [Read More](https://medium.com/p/9899e8d0e178) |
-| Wed, 03 Dec 2025 07:26:47 GMT | KVKK ve Siber Güvenlik Hizmetleri — Kurumsal Sunum (Nesil Teknoloji) | AS | [Read More](https://medium.com/p/758cc11a45e1) |
-| Wed, 03 Dec 2025 07:15:41 GMT | The Hidden Complexity Behind Modern Full-Stack Applications: Authentication | Sakthimurugan S | [Read More](https://medium.com/p/3d1991ce6810) |
-| Wed, 03 Dec 2025 07:14:36 GMT | Why Modern Enterprises Must Prioritize Data Protection and Encryption | Rahman Iqbal | [Read More](https://medium.com/p/27f2bbf68485) |
-| Wed, 03 Dec 2025 07:11:57 GMT | The Weight of Pretending to Be Fine | RJNarina | [Read More](https://medium.com/p/8e93e6aa1d88) |
-| Wed, 03 Dec 2025 07:11:09 GMT | Cybersecurity Project#3 - Building JavaScript Analyzer for Secrets, PII & Red Flags | Abdul Basit Khan | [Read More](https://medium.com/p/612125f4af81) |
