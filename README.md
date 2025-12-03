@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 14:17:06 GMT | Should you use GitLabs Static application security testing (SAST) for Python? | Maikel Mardjan | [Read More](https://medium.com/p/2aa2e0490f2c) |
+| Wed, 03 Dec 2025 14:15:54 GMT | VPS SUNUCUSUNU PROXY SERVER’A ÇEVİRME | Burak Özdelen | [Read More](https://medium.com/p/de1f160c2246) |
+| Wed, 03 Dec 2025 14:12:16 GMT | Why Modern Businesses Rely on Veeam: Instant Recovery, Immutable Backups & Complete Data Resilience | ANSI Technologies | [Read More](https://medium.com/p/ff39f4469121) |
+| Wed, 03 Dec 2025 14:04:28 GMT | HTB Whisper Sherlock Write Up | Fal | [Read More](https://medium.com/p/821498f8ed53) |
+| Wed, 03 Dec 2025 14:03:11 GMT | Hunting for Open Redirects: Explained with Example | Udeshna | [Read More](https://medium.com/p/a05ad6f1334b) |
+| Wed, 03 Dec 2025 14:02:23 GMT | How IoT and AI Are Transforming the Sports & Gaming Industry: From Smart Stadiums to Hyper-Real… | Gaurav Tak | [Read More](https://medium.com/p/b2c8d07aa3cd) |
+| Wed, 03 Dec 2025 14:01:57 GMT | Next.js Projemde Security Headers Eksikliği! (Cursor AI Teşekkürler) | Soner ER | [Read More](https://medium.com/p/72736014d876) |
+| Wed, 03 Dec 2025 14:00:36 GMT | SQL Server’da gMSA Kullanımı: Nedir, Neden Önemlidir ve Nasıl Yapılır? | Emrah SEMİZ | [Read More](https://medium.com/p/8387631fddcc) |
+| Wed, 03 Dec 2025 14:00:36 GMT | THE HIDDEN AGENTS ON YOUR SCREEN | Hoververse | [Read More](https://medium.com/p/4c2689ffdff0) |
+| Wed, 03 Dec 2025 13:57:55 GMT | Why Being Part of the Tech Sovereignty Catalogue Matters | Maria Terzi | [Read More](https://medium.com/p/3bd135c0632f) |
+| Wed, 03 Dec 2025 13:52:13 GMT | Losing $10,000, Finding Myself: A Journey Into Intuition, Surrender, and the New Earth | Kintu (Martin) Cowart | [Read More](https://medium.com/p/6cfc2ce9f90d) |
+| Wed, 03 Dec 2025 13:41:20 GMT | Cybersecurity Cheat Sheet | Mainekhacker | [Read More](https://medium.com/p/3fc221d1b315) |
+| Wed, 03 Dec 2025 13:40:05 GMT | Cyber Paths & Second Chances: Why Tech Careers Are Changing Lives | cyberpathsfundraisingcup | [Read More](https://medium.com/p/b88ba7d72f3b) |
+| Wed, 03 Dec 2025 13:38:35 GMT | The Cybersecurity Comeback Story Everyone Should Hear | cyberpathsfundraisingcup | [Read More](https://medium.com/p/a7884c4cf19b) |
+| Wed, 03 Dec 2025 13:37:41 GMT | H4cked Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/3a514ca2e0c9) |
 | Wed, 03 Dec 2025 13:36:05 GMT | 5. Master the Basics, Break the Web: Authentication & Authorization Basics | Abinesh M | [Read More](https://medium.com/p/1703446109a4) |
+| Wed, 03 Dec 2025 13:33:12 GMT | A Hard Hit Shakes South Korea’s Retail Giant | O. J. Okpabi | [Read More](https://medium.com/p/1d5ca77f752b) |
 | Wed, 03 Dec 2025 13:26:58 GMT | I Built Bit.ly in 60 Lines of Code — The Secret Math Behind URL Shorteners | The Dev Notebook | [Read More](https://medium.com/p/331f668d7de6) |
 | Wed, 03 Dec 2025 13:22:23 GMT | ⚙️ How the Wayback Machine Really Works (And Why Your “Deleted” Site Isn’t Gone) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/e43b0ab0ddb8) |
 | Wed, 03 Dec 2025 13:16:24 GMT | From “Info Disclosure” to Critical RCE: How I Turned Legacy Code into a CVSS 9.8 Win | Sharmaujjwal | [Read More](https://medium.com/p/e20437e29b17) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 09:01:04 GMT | AI & Cybersecurity | Mehrzad Verdizadegan | [Read More](https://medium.com/p/a5e3f09c79ff) |
 | Wed, 03 Dec 2025 09:00:11 GMT | Learning Stillness the Hard Way | The Ordinary Diaries | [Read More](https://medium.com/p/7d69429a6597) |
 | Wed, 03 Dec 2025 08:55:13 GMT | The Real Reason I Became a Cybersecurity Writer | Shahzaib | [Read More](https://medium.com/p/1b09ccee7fa0) |
-| Wed, 03 Dec 2025 08:53:41 GMT | The Many Hats of Hackers | MH4S33B | [Read More](https://medium.com/p/b8127348a9f8) |
-| Wed, 03 Dec 2025 08:52:37 GMT | How I Survived — and Won — My First Lecture as a Cybersecurity Instructor | Muhammad Haider Tallal | [Read More](https://medium.com/p/f0a806a31742) |
-| Wed, 03 Dec 2025 08:52:25 GMT | Cybersecurity #18: Steganography | mohandika | [Read More](https://medium.com/p/4d55cceefb26) |
-| Wed, 03 Dec 2025 08:52:07 GMT | WGU Security Foundations (D481) | Irene A. Gil | [Read More](https://medium.com/p/cad4ed33a663) |
-| Wed, 03 Dec 2025 08:52:05 GMT | What Are the Security Services?A Complete Guide to Modern Protection Solutions | Libraseo freelancer | [Read More](https://medium.com/p/3d47b5cfb9ea) |
-| Wed, 03 Dec 2025 08:51:54 GMT | JWT Authentication Bypass via jku Header Injection | Bash Overflow | [Read More](https://medium.com/p/81debf22bce4) |
-| Wed, 03 Dec 2025 08:40:14 GMT | What I Learned from Oversharing in My Writing | Life in Anny’s Words | [Read More](https://medium.com/p/08de7978c705) |
-| Wed, 03 Dec 2025 08:38:13 GMT | Fast VPN Performance on Android Phones | Technology hare | [Read More](https://medium.com/p/96906b69b89a) |
-| Wed, 03 Dec 2025 08:36:47 GMT | Yes, Your ChatGPT History Is Public on Google. Here’s the 10-Minute Fix. | Ishpreet | [Read More](https://medium.com/p/be9b69b7b774) |
-| Wed, 03 Dec 2025 08:35:07 GMT | IN THIS CHRISTMAS OF CRACKED ROADS | Ebenezer Mowete | [Read More](https://medium.com/p/e38f8cd2cf90) |
-| Wed, 03 Dec 2025 08:29:25 GMT | Mirror, Mirror on the wall, Do I look pretty when I cry? | Aiswarya Shivasankaran | [Read More](https://medium.com/p/3fb3323aba42) |
-| Wed, 03 Dec 2025 08:29:04 GMT | Software Bugs: Proposing a model for a Never-Ending Problem | BusyChild77 | [Read More](https://medium.com/p/34618e978cea) |
-| Wed, 03 Dec 2025 08:19:17 GMT | Solve Laravel Routing Errors Quickly and Effectively | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/85d390421e2d) |
-| Wed, 03 Dec 2025 08:15:03 GMT | Spring Boot ve JWT ile Güvenli Kimlik Doğrulama-3 | Abdüssamed KARA | [Read More](https://medium.com/p/fe52ef6c267c) |
-| Wed, 03 Dec 2025 08:02:47 GMT | Gideon Korrell on Data Governance and Privacy Issues in Industrial IoT Deployments | Gideon Korrell | [Read More](https://medium.com/p/0cda8516b034) |
-| Wed, 03 Dec 2025 08:02:17 GMT | I Was Only the Light That Fell Across the Hallway | Łukasz Ratajczak | [Read More](https://medium.com/p/2ac3c07b5079) |
