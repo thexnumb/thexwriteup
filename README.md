@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 16:24:43 GMT | Where I See Cybersecurity in 2026 — Through the Lens of AppSec & Pentesting | Mark Babcock | [Read More](https://medium.com/p/430eca6f5c47) |
+| Wed, 03 Dec 2025 16:22:28 GMT | The Day I Accidentally Became a Network Security Enthusiast | Mubashir | [Read More](https://medium.com/p/d176827594dc) |
+| Wed, 03 Dec 2025 16:21:52 GMT | Let it be known: I was once the sole advocate of my feelings | lifeofthegiver | [Read More](https://medium.com/p/f3a3ee54a4a7) |
+| Wed, 03 Dec 2025 16:20:35 GMT | The Safety Paradox: Why We Fear Violence But Neglect Education | Antonio Isidio de Queiroz Neto | [Read More](https://medium.com/p/2006a699fe95) |
+| Wed, 03 Dec 2025 16:17:53 GMT | Building a “Fortress” Kubernetes Cluster: Talos Linux, Proxmox, and Network Isolation | Joris Vilardell | [Read More](https://medium.com/p/15444968fb06) |
+| Wed, 03 Dec 2025 16:16:08 GMT | Designing Secure Financial Applications in a Web2 & Web3 World | Travis van der Font | [Read More](https://medium.com/p/b7df452ffc80) |
+| Wed, 03 Dec 2025 16:14:46 GMT | 5 Lessons for Leading Sustained Growth — From Someone Who’s Actually Done It | Jeff Vosburg | [Read More](https://medium.com/p/c193531cc48d) |
+| Wed, 03 Dec 2025 16:13:59 GMT | Advent of Cyber 2025 Day2 — Merry Clickmas. | Khadijat Suleman | [Read More](https://medium.com/p/aa944806bc63) |
+| Wed, 03 Dec 2025 16:12:45 GMT | LetsDefend Challenge — Malicious Doc | Soumodeep Das | [Read More](https://medium.com/p/15027283c213) |
+| Wed, 03 Dec 2025 16:10:25 GMT | Twenty-Four Hours from Earth: Compliance, Continuity, and the Voyager 1 Milestone | Brian Haman | [Read More](https://medium.com/p/577132dc0c71) |
+| Wed, 03 Dec 2025 16:09:55 GMT | [CyberDefenders Write-up] APT35 (Android & FakeVPN application malware analysis) | Chicken0248 | [Read More](https://medium.com/p/22a2f8ef73b4) |
+| Wed, 03 Dec 2025 16:09:25 GMT | Here's how I found my first valid bug | Juned Silavat | [Read More](https://medium.com/p/3d1c95bf552a) |
+| Wed, 03 Dec 2025 16:09:03 GMT | Next in AI: Issue #59 | Sam Ghosh | [Read More](https://medium.com/p/f71bb48e2275) |
+| Wed, 03 Dec 2025 16:08:37 GMT | Classification vs Regression in Machine Learning Explained Simply 2026 | Motherlandlove | [Read More](https://medium.com/p/fb3038a7a0b3) |
+| Wed, 03 Dec 2025 16:06:15 GMT | [Blue Team Labs Online Write-up] The Walking Packets (Using Arkime to investigate web intrusion) | Chicken0248 | [Read More](https://medium.com/p/5e1a5b5e2fc5) |
+| Wed, 03 Dec 2025 16:03:11 GMT | “Exploiting Kibana’s Headless Chrome: Code Walkthrough of a Real-World RCE” | Aman Sharma | [Read More](https://medium.com/p/c2d95aacfffb) |
+| Wed, 03 Dec 2025 16:00:59 GMT | Beyond IDOR: The Guide to Advanced Broken Access Control | Abhishek meena | [Read More](https://medium.com/p/85b7a201baa7) |
+| Wed, 03 Dec 2025 15:59:00 GMT | Getting Started with Sublist3r: The Fast Lane to Finding Subdomains | Cybeague Technologies | [Read More](https://medium.com/p/5283fd2acb66) |
+| Wed, 03 Dec 2025 15:56:44 GMT | Protecting Yourself From Hidden Keystroke Threats | Geoffrey Wenger | [Read More](https://medium.com/p/b3fa49901205) |
+| Wed, 03 Dec 2025 15:56:16 GMT | Understanding Advanced Persistent Threats And How To Defend Against Them | Geoffrey Wenger | [Read More](https://medium.com/p/96e89e9d9219) |
+| Wed, 03 Dec 2025 15:47:08 GMT | 10 Fully FREE Quantum Computing Courses | Intellibytes | [Read More](https://medium.com/p/e791df25fd28) |
 | Wed, 03 Dec 2025 15:46:38 GMT | A Silent Faultline in the JavaScript Ecosystem: Node Forge Vulnerability Exposes Millions to… | Fortress Protocol | [Read More](https://medium.com/p/ba42e51ba147) |
 | Wed, 03 Dec 2025 15:45:52 GMT | WSL: The Power of Linux Inside Your Windows Machine | MouhibMahadbi | [Read More](https://medium.com/p/78bbc3ffb1e5) |
 | Wed, 03 Dec 2025 15:33:21 GMT | Latest & Common Security Vulnerabilities — A Briefing by Valtlex | Valtlex | [Read More](https://medium.com/p/19541be3b536) |
@@ -30,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 14:50:03 GMT | Machine Learning Consulting Competency Guide 2026: Skills, Value, Trends | Motherlandlove | [Read More](https://medium.com/p/22b2d1d6717a) |
 | Wed, 03 Dec 2025 14:47:31 GMT | How I Simplified Online Sign-Ups with Get SMS Code | Daria Savickaya | [Read More](https://medium.com/p/dde261b81475) |
 | Wed, 03 Dec 2025 14:43:26 GMT | TDR Solutions: Empowering Organizations with Unrivaled Security | NetWitness | [Read More](https://medium.com/p/c27d96b23d2f) |
+| Wed, 03 Dec 2025 14:39:37 GMT | Internationaler Computersicherheitstag: Sichere Digitalisierung beginnt an der Basis mit einer… | PSsystec | [Read More](https://medium.com/p/b6746f28995f) |
 | Wed, 03 Dec 2025 14:37:23 GMT | How to Detect Root on React Native | Talsec | [Read More](https://medium.com/p/8acd9518db30) |
 | Wed, 03 Dec 2025 14:36:31 GMT | Penetration Testing Report — HF2019 Linux Exploitation | Mohdirfan | [Read More](https://medium.com/p/97678e90e05a) |
 | Wed, 03 Dec 2025 14:36:01 GMT | Keeping Enterprise Networks Always Online — Dual ISP with Load Balancing & Failover | Paul Meyer | [Read More](https://medium.com/p/2150a321c9ff) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 11:34:32 GMT | From Code to Compromise: My Hands‑On Journey Creating a Vulnerable Car Dealer Application | Ian Zammit | [Read More](https://medium.com/p/0b6825ca8e58) |
 | Wed, 03 Dec 2025 11:32:07 GMT | Data Matters More Than You Think | Swetha | [Read More](https://medium.com/p/fa86254f8b8e) |
 | Wed, 03 Dec 2025 11:30:18 GMT | Why You Don’t See CAPTCHAs on Your iPhone Anymore | Sarkazein | [Read More](https://medium.com/p/34ea1890b7f6) |
-| Wed, 03 Dec 2025 11:29:55 GMT | What Auditors Examine When Reviewing IAS 19 Valuation Assumptions | Prima Consulting | [Read More](https://medium.com/p/938cc7b29641) |
-| Wed, 03 Dec 2025 11:26:55 GMT | How Automated Cybersecurity Solutions Are Revolutionizing Digital Defense in 2026 | QualysecEurope | [Read More](https://medium.com/p/e444a8ac3f7f) |
-| Wed, 03 Dec 2025 11:23:54 GMT | COMPLETE METHODOLOGY SHEET — CTF PENTEST | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/8982b0cca7e1) |
-| Wed, 03 Dec 2025 11:16:41 GMT | AI Ending the Scapegoat-As-A-Service Consulting Cash Cow | Namir Sagheenanajar | [Read More](https://medium.com/p/a4498ce441f8) |
-| Wed, 03 Dec 2025 11:10:07 GMT | Top Online Courses in Australian Universities — Flexible, High-Quality Learning for All | royalinternational | [Read More](https://medium.com/p/a50dbaab26cc) |
-| Wed, 03 Dec 2025 11:05:20 GMT | Securing the Software Supply Chain using Open Source Tools and Information | Iason Tzortzis | [Read More](https://medium.com/p/0f5657c052d8) |
-| Wed, 03 Dec 2025 11:00:27 GMT | Top 10 Mobile App Development Companies in Melbourne | Supportsoft Technologies | [Read More](https://medium.com/p/1a757b8a326a) |
-| Wed, 03 Dec 2025 10:59:45 GMT | PDF Forensics: Finding the Hidden Flag | Vishva Pandey | [Read More](https://medium.com/p/4fd1276a7ab8) |
-| Wed, 03 Dec 2025 10:57:20 GMT | Chase — HTB Forensic Challenge (Network Analysis) | Sambroder | [Read More](https://medium.com/p/21f1dfe7c386) |
-| Wed, 03 Dec 2025 10:55:30 GMT | FILE INTEGRITY MONITORING (FIM) IN WAZUH | Aziz U Rehman | [Read More](https://medium.com/p/3f8cd701bebe) |
-| Wed, 03 Dec 2025 10:50:34 GMT | The Role of IT Consulting in Digital Transformation — Why It Matters | Brombeer Systems | [Read More](https://medium.com/p/7a294c7986f6) |
-| Wed, 03 Dec 2025 10:50:20 GMT | Why You Should Choose an Ethical Hacking Course Online | cyber security Updates | [Read More](https://medium.com/p/520bd345118e) |
-| Wed, 03 Dec 2025 10:49:31 GMT | How Security Guard Companies Can Transform Operations with TrueTym | TrueTym | [Read More](https://medium.com/p/ab6afc99a30b) |
-| Wed, 03 Dec 2025 10:48:39 GMT | Whale and hacker flow tracking capabilities on Wavesonchain | 0x3dot | [Read More](https://medium.com/p/187c543a5d01) |
-| Wed, 03 Dec 2025 10:43:19 GMT | Using Claude AI to Catch Code Vulnerabilities Before You Commit | Rohitmehta | [Read More](https://medium.com/p/88404cb8609c) |
-| Wed, 03 Dec 2025 10:36:42 GMT | The Quiet Fire of Creative Work | Tami | [Read More](https://medium.com/p/c279b731eb30) |
-| Wed, 03 Dec 2025 10:34:34 GMT | Understanding IT Outsourcing: Pros, Cons, and What to Expect | Brombeer Systems | [Read More](https://medium.com/p/71c0265aa038) |
-| Wed, 03 Dec 2025 10:34:19 GMT | Why is cyber security important for small businesses in Los Angeles? | Managed IT Services | [Read More](https://medium.com/p/2ecaec6b1b9e) |
-| Wed, 03 Dec 2025 10:25:43 GMT | PortSwigger Academy Authentication Lab Solution Notes | Emre A. | [Read More](https://medium.com/p/d98d7a7c5b07) |
-| Wed, 03 Dec 2025 10:16:52 GMT | Building an AI-Powered HackerOne Analyst | David Usher | [Read More](https://medium.com/p/d655e5160b46) |
-| Wed, 03 Dec 2025 10:16:08 GMT | From Handshake to Encryption: How HTTPS Protects Online Communication | Rober Peter | [Read More](https://medium.com/p/d6d38843bcd7) |
-| Wed, 03 Dec 2025 10:14:20 GMT | AMPS Achieves HITRUST e1 Certification, Strengthening Its Commitment to Healthcare Data Security | Advanced Medical Pricing Solutions | [Read More](https://medium.com/p/dd7669323c4d) |
