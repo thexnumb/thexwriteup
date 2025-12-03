@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 09:43:19 GMT | Is Your Store Next? Cyberattacks Surging Across Retail | Redfox Security | [Read More](https://medium.com/p/37fcd08a4b03) |
+| Wed, 03 Dec 2025 09:41:51 GMT | CWF Cloud-User Vanishing Act | Ali | [Read More](https://medium.com/p/fe1135efed4e) |
+| Wed, 03 Dec 2025 09:32:10 GMT | Catching Vulnerabilities Before They Catch Us | Anto Semeraro | [Read More](https://medium.com/p/b1a08990281d) |
+| Wed, 03 Dec 2025 09:30:03 GMT | The Unsettling Story of the Rust Package No One Was Supposed to Download | Germano Costi | [Read More](https://medium.com/p/8a3445f749fd) |
+| Wed, 03 Dec 2025 09:28:57 GMT | How to Build a Cybersecurity Services Business in Nigeria | Bintu's Art and Everything | [Read More](https://medium.com/p/b784f99c3f1e) |
+| Wed, 03 Dec 2025 09:27:04 GMT | How HIPAA Risk Assessment Prevents the Worst HIPAA Violations | SecureSlate | [Read More](https://medium.com/p/cdb1c8ae7569) |
 | Wed, 03 Dec 2025 09:24:11 GMT | Comprehensive Security Solutions Tailored to Your Needs | uk service | [Read More](https://medium.com/p/4341352947aa) |
+| Wed, 03 Dec 2025 09:18:22 GMT | What Hackers Already Know About You — And How to Protect Yourself Right Now | Payal | [Read More](https://medium.com/p/1888f4c7c43a) |
+| Wed, 03 Dec 2025 09:16:27 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/cd0b1ee7d248) |
 | Wed, 03 Dec 2025 09:13:12 GMT | Why Sending Tokens Across Chains Is Still Too Complicated and How to Solve It | One Click Sender | [Read More](https://medium.com/p/a7d6c1665ce2) |
 | Wed, 03 Dec 2025 09:12:59 GMT | Reverse Engineering & Hacking a License Checker | Spandan Pokhrel | [Read More](https://medium.com/p/57d72971d0e0) |
 | Wed, 03 Dec 2025 09:12:39 GMT | Inside a Data Breach Investigation: How Experts Track the Hacker’s First Move | Dhruvi Nakum | [Read More](https://medium.com/p/e2b8672a42b5) |
@@ -50,6 +58,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 07:33:17 GMT | 1. I Felt Seen | Avina Vidal | [Read More](https://medium.com/p/d56e2d0a9c39) |
 | Wed, 03 Dec 2025 07:32:11 GMT | 10 Bandit/pip-audit Safeguards for Secure Python Builds | Syntal | [Read More](https://medium.com/p/f4860a1c0771) |
 | Wed, 03 Dec 2025 07:27:35 GMT | The Phone Never Tells the Full Story: What Digital Truth Really Looks Like | Vijay Kumar Gupta | [Read More](https://medium.com/p/9899e8d0e178) |
+| Wed, 03 Dec 2025 07:26:47 GMT | KVKK ve Siber Güvenlik Hizmetleri — Kurumsal Sunum (Nesil Teknoloji) | AS | [Read More](https://medium.com/p/758cc11a45e1) |
 | Wed, 03 Dec 2025 07:15:41 GMT | The Hidden Complexity Behind Modern Full-Stack Applications: Authentication | Sakthimurugan S | [Read More](https://medium.com/p/3d1991ce6810) |
 | Wed, 03 Dec 2025 07:14:36 GMT | Why Modern Enterprises Must Prioritize Data Protection and Encryption | Rahman Iqbal | [Read More](https://medium.com/p/27f2bbf68485) |
 | Wed, 03 Dec 2025 07:11:57 GMT | The Weight of Pretending to Be Fine | RJNarina | [Read More](https://medium.com/p/8e93e6aa1d88) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 03:35:51 GMT | Blockchain Under the Hood: A Deep Technical Journey | Giulio Sistilli | [Read More](https://medium.com/p/8ef69c03beab) |
 | Wed, 03 Dec 2025 03:35:19 GMT | Mobile pen testing part 2: Intercept HTTP traffic and the Damm Vulnerable Bank app | Nol White Hat | [Read More](https://medium.com/p/1dd43c891bc6) |
 | Wed, 03 Dec 2025 03:35:14 GMT | Mobile pen testing part 1: Set a mobile pentest environment with Objection, Frida and Burp on Kali… | Nol White Hat | [Read More](https://medium.com/p/171e118bdec7) |
-| Wed, 03 Dec 2025 03:32:12 GMT | 5 Essential Steps for Node.js Outage Root Cause Analysis | Arunangshu Das | [Read More](https://medium.com/p/b9f5875e3475) |
-| Wed, 03 Dec 2025 03:32:12 GMT | The ClickFix Attack: How Fake Windows Updates Are Tricking Users Into Installing Malware | Deven Chhajed | [Read More](https://medium.com/p/0c7338e21e33) |
-| Wed, 03 Dec 2025 03:25:29 GMT | Revolusi Ekosistem Gaming 2025: Standar Baru Dragonsakti88 | Dragonsakti88 Official | [Read More](https://medium.com/p/91f5b8725ec9) |
-| Wed, 03 Dec 2025 03:20:03 GMT | A Complete Guide to Transport Layer Security (TLS) Authentication | Tiexin Guo | [Read More](https://medium.com/p/154daa1e29b5) |
-| Wed, 03 Dec 2025 03:14:24 GMT | API Key Security: 7 Enterprise-Proven Methods to Prevent Costly Data Breaches | Tiexin Guo | [Read More](https://medium.com/p/72d45c99bf01) |
-| Wed, 03 Dec 2025 03:14:02 GMT | The “Rogue Agent” Threat: Why You Need an AI Security Platform | Prof. Amandeep S. Sidhu | [Read More](https://medium.com/p/f53afe81e0f2) |
-| Wed, 03 Dec 2025 03:14:02 GMT | Beginner’s Guide to SafeLine Web Application Firewall | Loria | [Read More](https://medium.com/p/79002316411c) |
-| Wed, 03 Dec 2025 03:02:45 GMT | Project CodeGuard Livestream and Demos | Omar Santos | [Read More](https://medium.com/p/a82fb5f44d24) |
-| Wed, 03 Dec 2025 02:46:02 GMT | “How can I improve my dating game?” | Alejandra Rodríguez | [Read More](https://medium.com/p/50c4a340f73a) |
