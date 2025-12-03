@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 11:10:07 GMT | Top Online Courses in Australian Universities — Flexible, High-Quality Learning for All | royalinternational | [Read More](https://medium.com/p/a50dbaab26cc) |
+| Wed, 03 Dec 2025 11:05:20 GMT | Securing the Software Supply Chain using Open Source Tools and Information | Iason Tzortzis | [Read More](https://medium.com/p/0f5657c052d8) |
+| Wed, 03 Dec 2025 11:00:27 GMT | Top 10 Mobile App Development Companies in Melbourne | Supportsoft Technologies | [Read More](https://medium.com/p/1a757b8a326a) |
+| Wed, 03 Dec 2025 10:59:45 GMT | PDF Forensics: Finding the Hidden Flag | Vishva Pandey | [Read More](https://medium.com/p/4fd1276a7ab8) |
+| Wed, 03 Dec 2025 10:57:20 GMT | Chase — HTB Forensic Challenge (Network Analysis) | Sambroder | [Read More](https://medium.com/p/21f1dfe7c386) |
+| Wed, 03 Dec 2025 10:55:30 GMT | FILE INTEGRITY MONITORING (FIM) IN WAZUH | Aziz U Rehman | [Read More](https://medium.com/p/3f8cd701bebe) |
+| Wed, 03 Dec 2025 10:50:34 GMT | The Role of IT Consulting in Digital Transformation — Why It Matters | Brombeer Systems | [Read More](https://medium.com/p/7a294c7986f6) |
+| Wed, 03 Dec 2025 10:50:20 GMT | Why You Should Choose an Ethical Hacking Course Online | cyber security Updates | [Read More](https://medium.com/p/520bd345118e) |
+| Wed, 03 Dec 2025 10:49:31 GMT | How Security Guard Companies Can Transform Operations with TrueTym | TrueTym | [Read More](https://medium.com/p/ab6afc99a30b) |
+| Wed, 03 Dec 2025 10:48:39 GMT | Whale and hacker flow tracking capabilities on Wavesonchain | 0x3dot | [Read More](https://medium.com/p/187c543a5d01) |
 | Wed, 03 Dec 2025 10:43:19 GMT | Using Claude AI to Catch Code Vulnerabilities Before You Commit | Rohitmehta | [Read More](https://medium.com/p/88404cb8609c) |
 | Wed, 03 Dec 2025 10:36:42 GMT | The Quiet Fire of Creative Work | Tami | [Read More](https://medium.com/p/c279b731eb30) |
 | Wed, 03 Dec 2025 10:34:34 GMT | Understanding IT Outsourcing: Pros, Cons, and What to Expect | Brombeer Systems | [Read More](https://medium.com/p/71c0265aa038) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 05:42:41 GMT | The “Hidden Map” Inside Your iPhone: How to Find It and Delete It | K_Anik | [Read More](https://medium.com/p/313ce3a35751) |
 | Wed, 03 Dec 2025 05:41:55 GMT | Beyond TLS: A Practical Deep Dive into AES, RSA, Hybrid Encryption, and a New Layer for Securing… | Tharindu Mahindarathna | [Read More](https://medium.com/p/abb0b52e1b0b) |
 | Wed, 03 Dec 2025 05:38:24 GMT | Why C-Cube Is Becoming the Best Computer Training Institute in Kolkata (2025 Guide) | C-Cube Centre of Computer Education | [Read More](https://medium.com/p/52f24a0c375a) |
-| Wed, 03 Dec 2025 05:34:02 GMT | The Local AI Infrastructure Framework: Aligning Models, Hardware, and Business Goals | Ali Khorsandian | [Read More](https://medium.com/p/66a466b6415c) |
-| Wed, 03 Dec 2025 05:28:26 GMT | What Should You Look For When Choosing The Best Data Loss Prevention Software? | keyTrackr | [Read More](https://medium.com/p/f0a832092b86) |
-| Wed, 03 Dec 2025 05:24:08 GMT | Network Segmentation Strategy: Containing the Blast Radius | Aniketh Roy | [Read More](https://medium.com/p/658b93d5b118) |
-| Wed, 03 Dec 2025 05:16:27 GMT | Managed Detection and Response ROI: The Value of 24/7 Security | Trisha Gaur | [Read More](https://medium.com/p/a85ff454396d) |
-| Wed, 03 Dec 2025 05:12:07 GMT | The Daily Tech Digest: 03 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c0d34760f4b7) |
-| Wed, 03 Dec 2025 05:06:22 GMT | When AI Gossips: How I Eavesdropped on a Federated Learning System | Iski | [Read More](https://medium.com/p/e1b385f35aff) |
-| Wed, 03 Dec 2025 04:56:17 GMT | Uber Doesn’t Match Riders Randomly — The Algorithm is Genius and Here’s Why | The Dev Notebook | [Read More](https://medium.com/p/f6e53fc45478) |
-| Wed, 03 Dec 2025 04:52:23 GMT | Weekly Threat Intelligence Report 1 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/8f37bd643209) |
-| Wed, 03 Dec 2025 04:51:07 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/740faeca8e0e) |
-| Wed, 03 Dec 2025 04:46:34 GMT | Monthly Threat Actor Group Intelligence Report, November 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/2dbb7721adf8) |
