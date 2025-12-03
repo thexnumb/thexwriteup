@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 12:45:34 GMT | TryHackMe Writeup: Kiba | Berkay AĞGÜL | [Read More](https://medium.com/p/6072bdba870a) |
+| Wed, 03 Dec 2025 12:45:31 GMT | How I Used a $50 SDR to Unmask a Vulnerable Smart Camera Protocol | Michael Preston | [Read More](https://medium.com/p/1425850bf8d3) |
+| Wed, 03 Dec 2025 12:33:10 GMT | Security Considerations in API and Microservices Testing | Alyona Potapova | [Read More](https://medium.com/p/a096ae9048c5) |
+| Wed, 03 Dec 2025 12:31:49 GMT | Security Lab Simulation Project Part 3: Elasticsearch Set-up and Configuration | Jenny | [Read More](https://medium.com/p/86995a8e76a0) |
+| Wed, 03 Dec 2025 12:30:22 GMT | Assertion 101 — A Fun Journey from LFI to Root (with a Twist at the End) | IshhIshneet | [Read More](https://medium.com/p/17529fd7a634) |
+| Wed, 03 Dec 2025 12:29:00 GMT | Broken Brute-Force Protection: Multiple Credentials per Request (EXPERT) — Adım Adım Çözüm | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6ca26671c3d7) |
+| Wed, 03 Dec 2025 12:23:15 GMT | ESC5 ADCS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/5a5c5f6540d8) |
+| Wed, 03 Dec 2025 12:08:50 GMT | Is NoonooTV Safe? Privacy Protection Guide for 2026 | NoonooTV Official | [Read More](https://medium.com/p/358236b08ec7) |
+| Wed, 03 Dec 2025 12:03:48 GMT | Today’s Top Cyber Intelligence Highlights — Dec 03, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3d1b3ce99ce6) |
+| Wed, 03 Dec 2025 11:46:11 GMT | What Skills Do You Gain From an Ethical Hacking Course? | Shubham Saini | [Read More](https://medium.com/p/84cf94c36af3) |
+| Wed, 03 Dec 2025 11:41:50 GMT | VulNyx Misconfigured Writeup | CyberCraft | [Read More](https://medium.com/p/f3f35cb52673) |
 | Wed, 03 Dec 2025 11:37:00 GMT | How I Turned a 403 Error into a $200 API Key Leak Bounty | JEETPAL | [Read More](https://medium.com/p/96faba78dfc4) |
 | Wed, 03 Dec 2025 11:35:02 GMT |  |  | [Read More](https://medium.com/p/0d1f5646ef4c) |
 | Wed, 03 Dec 2025 11:34:32 GMT | From Code to Compromise: My Hands‑On Journey Creating a Vulnerable Car Dealer Application | Ian Zammit | [Read More](https://medium.com/p/0b6825ca8e58) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 07:14:36 GMT | Why Modern Enterprises Must Prioritize Data Protection and Encryption | Rahman Iqbal | [Read More](https://medium.com/p/27f2bbf68485) |
 | Wed, 03 Dec 2025 07:11:57 GMT | The Weight of Pretending to Be Fine | RJNarina | [Read More](https://medium.com/p/8e93e6aa1d88) |
 | Wed, 03 Dec 2025 07:11:09 GMT | Cybersecurity Project#3 - Building JavaScript Analyzer for Secrets, PII & Red Flags | Abdul Basit Khan | [Read More](https://medium.com/p/612125f4af81) |
-| Wed, 03 Dec 2025 07:09:04 GMT | . That means leveraging C2 simulation toolkits — the kind the pros use to mimic multi-stage… | Very Lazy Tech | [Read More](https://medium.com/p/c87d16d84862) |
-| Wed, 03 Dec 2025 07:05:08 GMT | Malware Analysis | Adeleke Theophilus O | [Read More](https://medium.com/p/1d977b7f49b0) |
-| Wed, 03 Dec 2025 07:00:38 GMT | The Security Dilemma: Why Remote Tech Work Demands Better Cyber Practices. | Reapool | [Read More](https://medium.com/p/5a8c9e4256d6) |
-| Wed, 03 Dec 2025 06:55:02 GMT | Chromium StoreLeak — Side-Channel Web Storage Exposure Vulnerability in Chromium-based Browsers | Idabian | [Read More](https://medium.com/p/17536840d79d) |
-| Wed, 03 Dec 2025 06:42:11 GMT | Bug Bounty Deep Dive: File Upload Exploits & Defense — Part 1 | Cyphersilhouette | [Read More](https://medium.com/p/54f9e5833a29) |
-| Wed, 03 Dec 2025 06:39:10 GMT | Top 5 Best AI Security Courses For Cybersecurity Professionals In 2026 | Modern Security | [Read More](https://medium.com/p/140794f3ebcc) |
-| Wed, 03 Dec 2025 06:33:03 GMT | The $4.6 Million Wake-Up Call: AI Agents Are Now “Profitable” Hackers | Noa Kellan | [Read More](https://medium.com/p/1bec015dcfdc) |
-| Wed, 03 Dec 2025 06:28:34 GMT | ️ The ELK Stack: Your DIY Security Powerhouse for Log Analysis | Akhil Binu | [Read More](https://medium.com/p/524eea58ae75) |
-| Wed, 03 Dec 2025 06:24:17 GMT | Security-Driven Kernel Parameter Hardening: A Practical Guide to Strengthening Your System at the… | Esra Kayhan | [Read More](https://medium.com/p/441d5936aa29) |
-| Wed, 03 Dec 2025 06:22:32 GMT | WordPress Wins Again: Why Affordable Hosting Is the Real Game-Changer? | Mary Thomas | [Read More](https://medium.com/p/9425173885e6) |
-| Wed, 03 Dec 2025 06:02:30 GMT | Social Engineering: Why Hackers Target People, Not Computers” | Grace Chukwunta | [Read More](https://medium.com/p/7ea199f8fa9c) |
