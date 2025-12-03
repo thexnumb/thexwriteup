@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 04:46:34 GMT | Monthly Threat Actor Group Intelligence Report, November 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/2dbb7721adf8) |
+| Wed, 03 Dec 2025 04:41:31 GMT | Fraud & Compliance Management: Eliminating False Positives | Sophia Nellon | [Read More](https://medium.com/p/16ffd6427f0b) |
+| Wed, 03 Dec 2025 04:40:30 GMT | Turning Breach Simulations into Real Defenses: A Practical Guide for Security Engineers. | Dosunmu Adetomiwa | [Read More](https://medium.com/p/91e8dd7c37b6) |
+| Wed, 03 Dec 2025 04:39:04 GMT | A Practical Guide to the Local AI Initiative and Deployment Strategy | Ali Khorsandian | [Read More](https://medium.com/p/1183569c70d5) |
+| Wed, 03 Dec 2025 04:33:18 GMT | Retrieval That Respects Privacy | Quaxel | [Read More](https://medium.com/p/62b388c9b011) |
+| Wed, 03 Dec 2025 04:26:07 GMT | VulnNet: Roasted | CloudAldir | [Read More](https://medium.com/p/04d3578ce66b) |
+| Wed, 03 Dec 2025 04:18:12 GMT | Vulnerability Assessment & Penetration Testing (VAPT) pada Mesin Toppo (VulnHub) — PART 1 | Tino Setiawan | [Read More](https://medium.com/p/8e8159fff654) |
+| Wed, 03 Dec 2025 04:10:56 GMT | Securing Tomorrow: How AI and Cyber Defense Will Shape Our Digital Future - Bhawini . | Bhawini. | [Read More](https://medium.com/p/2306910f56f1) |
+| Wed, 03 Dec 2025 04:05:08 GMT | GraphQL IDOR Vulnerability Report 350$ & by dexblood | dexblood | [Read More](https://medium.com/p/740ca2a18f94) |
+| Wed, 03 Dec 2025 04:02:10 GMT | France Pays More Than Its Corporations, Germany Piles On Debt — and Russia’s War Industry Roars | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/9aee8332dd37) |
 | Wed, 03 Dec 2025 03:57:16 GMT | How IAM Supports Business Agility: The 2025 Cybersecurity Advantage. | Sennovate | [Read More](https://medium.com/p/6b32417f9c0b) |
 | Wed, 03 Dec 2025 03:50:40 GMT | Influence without Authority | Mahesh Chintakunta | [Read More](https://medium.com/p/81a7e8e857e9) |
 | Wed, 03 Dec 2025 03:40:35 GMT | JWT Authentication Bypass via JWK Header Injection | Bash Overflow | [Read More](https://medium.com/p/0dfaec4f6f94) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 19:27:44 GMT | TLS Deep Dive | Coleo7o7o7 | [Read More](https://medium.com/p/300dd699f4ab) |
 | Tue, 02 Dec 2025 19:20:12 GMT | The Worst Computer Viruses of All Time — and What Your Company Can Learn From Them | Cordula Boeck | [Read More](https://medium.com/p/543348495154) |
 | Tue, 02 Dec 2025 19:17:29 GMT | CVE-2025–62217 - Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/70dba4dcb419) |
-| Tue, 02 Dec 2025 19:11:10 GMT | What Actually Happens Inside a Data Breach (A Step-by-Step Breakdown) | Abdullah Javeed | [Read More](https://medium.com/p/1e60118d96a2) |
-| Tue, 02 Dec 2025 19:10:20 GMT | Stop Using JWT for Everything. It’s Not Secure, It’s Just Trendy. | Ferid Brković | [Read More](https://medium.com/p/fb54c0d904cb) |
-| Tue, 02 Dec 2025 19:09:54 GMT | How Inspecting a JavaScript File Led Me to a Hidden SQL Injection Vulnerability | Fahadshah | [Read More](https://medium.com/p/0b9ba7741b98) |
-| Tue, 02 Dec 2025 19:09:23 GMT | Jailbreaking: One Method, Three Applications. | Berend Watchus | [Read More](https://medium.com/p/8d0c17ce21c3) |
-| Tue, 02 Dec 2025 19:04:15 GMT | Cybersecurity — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/c548a3efd14c) |
-| Tue, 02 Dec 2025 19:04:07 GMT | KALI LINUX OSINT 2025 Domina l’Intelligenza delle Fonti Aperte con Strumenti ad Alte Prestazioni | Diego Rodrigues | [Read More](https://medium.com/p/fb46ec69be7a) |
-| Tue, 02 Dec 2025 18:59:51 GMT | Similar Tools XAttacker called BurnWP Framework Advanced Exploit System in Real time | drcrypter.ru | [Read More](https://medium.com/p/76dd41fdde19) |
-| Tue, 02 Dec 2025 18:59:16 GMT | Capítulo 13 — O Legado | Kleber Andrade | [Read More](https://medium.com/p/d0d7ff006a78) |
-| Tue, 02 Dec 2025 18:54:10 GMT | TuesdayTool 38: Vulners: Vulnerability Intelligence Engine | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/5e74f3c00325) |
-| Tue, 02 Dec 2025 18:49:58 GMT | TryHackMe: Advent of Cyber 2025 — Day 2Walkthrough | Inyanji Lynnette | [Read More](https://medium.com/p/06f2b7122365) |
