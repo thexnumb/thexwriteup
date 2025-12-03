@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 08:29:25 GMT | Mirror, Mirror on the wall, Do I look pretty when I cry? | Aiswarya Shivasankaran | [Read More](https://medium.com/p/3fb3323aba42) |
+| Wed, 03 Dec 2025 08:19:17 GMT | Solve Laravel Routing Errors Quickly and Effectively | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/85d390421e2d) |
+| Wed, 03 Dec 2025 08:15:03 GMT | Spring Boot ve JWT ile Güvenli Kimlik Doğrulama-3 | Abdüssamed KARA | [Read More](https://medium.com/p/fe52ef6c267c) |
+| Wed, 03 Dec 2025 08:02:47 GMT | Gideon Korrell on Data Governance and Privacy Issues in Industrial IoT Deployments | Gideon Korrell | [Read More](https://medium.com/p/0cda8516b034) |
+| Wed, 03 Dec 2025 08:02:17 GMT | I Was Only the Light That Fell Across the Hallway | Łukasz Ratajczak | [Read More](https://medium.com/p/2ac3c07b5079) |
+| Wed, 03 Dec 2025 08:02:16 GMT | [Part 16] AI in Industrial Cybersecurity (ICS/OT): Protecting Factories & Energy Systems | Cyberkech | [Read More](https://medium.com/p/250bc2491e93) |
+| Wed, 03 Dec 2025 08:00:34 GMT | TASK2 (Louvre Protocol)CCTV OSINT Investigation Report — TryHackMe. | Abhilash H | [Read More](https://medium.com/p/26d0e65c2db7) |
+| Wed, 03 Dec 2025 07:55:00 GMT | Vibe Coding: How AI Is Becoming a True Partner in Modern Digital Development | Noorul Ameen | [Read More](https://medium.com/p/8621f5669695) |
+| Wed, 03 Dec 2025 07:50:21 GMT | Unauthenticated Endpoints Could Remove All Application Servers From the Load Balancer Pool… | Ashiqur Rahman Emon | [Read More](https://medium.com/p/1dd333299603) |
+| Wed, 03 Dec 2025 07:43:09 GMT | What is Sanchar Saathi? | Vinod Senthil | [Read More](https://medium.com/p/f427ef84fc92) |
+| Wed, 03 Dec 2025 07:42:47 GMT | #4 Cyber Security : Malware and Phishing Attacks | Betül Akmercan | [Read More](https://medium.com/p/c063b80be4ef) |
+| Wed, 03 Dec 2025 07:39:11 GMT | Stop Relying on dotenv — Meet PushEnv: Type-safe envs, Zod validation, and encrypted team sync | Shahnoor Mujawar | [Read More](https://medium.com/p/1dd64680f2ed) |
+| Wed, 03 Dec 2025 07:37:44 GMT | I Accidentally Generated Ransomware With an Early AI Model — Here’s What It Taught Me | Elijah Cooley (Lux Aeterna) | [Read More](https://medium.com/p/3c454f302e28) |
+| Wed, 03 Dec 2025 07:36:07 GMT | Networking Core Protocols | CyborgfromHelix | [Read More](https://medium.com/p/e589c19660c9) |
+| Wed, 03 Dec 2025 07:33:17 GMT | 1. I Felt Seen | Avina Vidal | [Read More](https://medium.com/p/d56e2d0a9c39) |
 | Wed, 03 Dec 2025 07:32:11 GMT | 10 Bandit/pip-audit Safeguards for Secure Python Builds | Syntal | [Read More](https://medium.com/p/f4860a1c0771) |
 | Wed, 03 Dec 2025 07:27:35 GMT | The Phone Never Tells the Full Story: What Digital Truth Really Looks Like | Vijay Kumar Gupta | [Read More](https://medium.com/p/9899e8d0e178) |
 | Wed, 03 Dec 2025 07:15:41 GMT | The Hidden Complexity Behind Modern Full-Stack Applications: Authentication | Sakthimurugan S | [Read More](https://medium.com/p/3d1991ce6810) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 23:40:23 GMT | Day 1: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/9fb6dab00e26) |
 | Tue, 02 Dec 2025 23:24:17 GMT | Linux CLI — Shells Bells Side-Quest | CloudAldir | [Read More](https://medium.com/p/5354a005fc50) |
 | Tue, 02 Dec 2025 23:15:13 GMT | Building a Complete Threat Detection Lab with Wazuh: Brute-Force, Intrusion, and File Integrity… | Ghassen Hafsaoui | [Read More](https://medium.com/p/c0b20cce4831) |
-| Tue, 02 Dec 2025 23:04:13 GMT | Getting Job-Ready in Months, Not Years: The Realities of a Fast-Track Cybersecurity Diploma | Danish Ahmad | [Read More](https://medium.com/p/c0f35ee11921) |
-| Tue, 02 Dec 2025 23:03:02 GMT | Snowflake Governance Essentials: Tags, Classification, and Granular Security | Ferhat AOUAGHZENE | [Read More](https://medium.com/p/6ce4f6280bc2) |
-| Tue, 02 Dec 2025 22:49:21 GMT | Hacker le GPS : légende IT ou réalité ? | RAPATT | [Read More](https://medium.com/p/fd1779ccda92) |
-| Tue, 02 Dec 2025 22:40:47 GMT | PHASE 1 — How to Install Splunk SOAR (7.0) | Jayadeep Reddy Karri | [Read More](https://medium.com/p/bb7fba9f64f0) |
-| Tue, 02 Dec 2025 22:37:49 GMT | HackTheBox Authority: a Step-by-Step Walkthrough | Joseph Jung | [Read More](https://medium.com/p/3b8946767824) |
-| Tue, 02 Dec 2025 22:34:36 GMT | How i hacked LLM WITH PROMPT INJECTION Bro Said ‘Hi 25’… Next Thing I Knew I Owned the Entire… | MRKNIGHT-NIDU | [Read More](https://medium.com/p/508b1791c5cf) |
-| Tue, 02 Dec 2025 22:07:12 GMT | Zero Trust Demystified | Kenn Anderson, Jr. | [Read More](https://medium.com/p/df6a950d2ca9) |
-| Tue, 02 Dec 2025 21:54:59 GMT | DVWA — Command Injection (Low e Medium): Guia prático | Heloísa Tomé de Araujo | [Read More](https://medium.com/p/6180f845ae36) |
-| Tue, 02 Dec 2025 21:52:07 GMT | What Two Years of Watching Tech Debt Taught Me — And Why Angular’s Latest CVEs Prove the Point | Taylor Corbett | [Read More](https://medium.com/p/8494ef22aa01) |
-| Tue, 02 Dec 2025 21:48:56 GMT | Lessons from the Mixpanel incident: What Every Organization Should Learn About Third-Party Risk | Mehdi T. | [Read More](https://medium.com/p/4da3122efb72) |
-| Tue, 02 Dec 2025 21:46:05 GMT | Your English Degree Just Became a Cybersecurity Weapon: The Poetry Jailbreak That’s Breaking AI | Mehdi T. | [Read More](https://medium.com/p/e29b0ecbabbc) |
-| Tue, 02 Dec 2025 21:41:38 GMT | Protecting Our Endpoints in Tor C2 Server — Part 6 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/cf423c6eb290) |
-| Tue, 02 Dec 2025 21:41:26 GMT | What Australian Businesses Need to Know About the Cyber Security Act 2024 | Future IT Services | [Read More](https://medium.com/p/69916f29803f) |
-| Tue, 02 Dec 2025 21:39:39 GMT | The Old World: Strong Walls, Clear Boundaries | William Hunt | [Read More](https://medium.com/p/9cc339924a11) |
-| Tue, 02 Dec 2025 21:37:47 GMT | Obfuscating APK Files . But why ? Whatsapp RTO scammers | Karthik S | [Read More](https://medium.com/p/0494f5193c6e) |
