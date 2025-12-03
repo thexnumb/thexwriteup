@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 19:35:48 GMT | From Frontend Clues to Backend Backdoors: A Deep Dive into a WordPress Infection | HACKINFO | [Read More](https://medium.com/p/b9c1ac630426) |
+| Wed, 03 Dec 2025 19:31:14 GMT | Your Essential Guide to Cybersecurity Audit Preparation | professional educator | [Read More](https://medium.com/p/eb82f5a1072b) |
+| Wed, 03 Dec 2025 19:24:30 GMT | PortSwigger Lab — XSS- (A Student’s Perspective) | Kavidi Athawuda | [Read More](https://medium.com/p/96aca6a6180e) |
+| Wed, 03 Dec 2025 19:23:41 GMT | Reflected XSS in OAuth Callback Endpoint | Ehtesham Ul Haq | [Read More](https://medium.com/p/77ef41c0b011) |
 | Wed, 03 Dec 2025 19:17:08 GMT | Top Trusted Dark Web Marketplaces with Verified Links — Stay Safe While Browsing | Tor BBB | [Read More](https://medium.com/p/95165f862044) |
+| Wed, 03 Dec 2025 19:08:59 GMT | My Journey in IT: Cybersecurity, Automation, and Data Analytics | kehinde ladepo | [Read More](https://medium.com/p/b16fcfb40a93) |
+| Wed, 03 Dec 2025 19:07:54 GMT | Advent of Cyber 2025 — Day 3: Splunk Basics — Did You SIEM? | Akshat Patel | [Read More](https://medium.com/p/6a1967d24dff) |
 | Wed, 03 Dec 2025 19:00:04 GMT | Why IAM Expertise Is So Scarce: Understanding the Talent Crisis | Steve Anderson | [Read More](https://medium.com/p/c77a27d765cc) |
 | Wed, 03 Dec 2025 18:59:28 GMT | Big Data : Advanced Machine Learning using Spark MLlib | Yasa Wijaya | [Read More](https://medium.com/p/c0718d07e19e) |
 | Wed, 03 Dec 2025 18:59:10 GMT | Pelican State Credit Union Notifies Members After Sensitive Personal Data Was Compromised | David Miller | [Read More](https://medium.com/p/d989cb0c4d4f) |
@@ -79,6 +85,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 15:59:00 GMT | Getting Started with Sublist3r: The Fast Lane to Finding Subdomains | Cybeague Technologies | [Read More](https://medium.com/p/5283fd2acb66) |
 | Wed, 03 Dec 2025 15:56:44 GMT | Protecting Yourself From Hidden Keystroke Threats | Geoffrey Wenger | [Read More](https://medium.com/p/b3fa49901205) |
 | Wed, 03 Dec 2025 15:56:16 GMT | Understanding Advanced Persistent Threats And How To Defend Against Them | Geoffrey Wenger | [Read More](https://medium.com/p/96e89e9d9219) |
+| Wed, 03 Dec 2025 15:50:52 GMT | Chinese Hackers Use Claude AI for Automated Cyberattacks — How to reduce risk and limit damage | Karl Buhl | [Read More](https://medium.com/p/c253194c400e) |
 | Wed, 03 Dec 2025 15:47:08 GMT | 10 Fully FREE Quantum Computing Courses | Intellibytes | [Read More](https://medium.com/p/e791df25fd28) |
 | Wed, 03 Dec 2025 15:46:38 GMT | A Silent Faultline in the JavaScript Ecosystem: Node Forge Vulnerability Exposes Millions to… | Fortress Protocol | [Read More](https://medium.com/p/ba42e51ba147) |
 | Wed, 03 Dec 2025 15:45:52 GMT | WSL: The Power of Linux Inside Your Windows Machine | MouhibMahadbi | [Read More](https://medium.com/p/78bbc3ffb1e5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 14:35:39 GMT | India Just Planted an Unremovable App in Every New Phone — And No One Saw It Coming. | Akshobdhira | [Read More](https://medium.com/p/e92d1f161aad) |
 | Wed, 03 Dec 2025 14:29:28 GMT | LUC DELORME ON PLANET OF GHOSTS (Sci — Fi novel) | Alberto Benitez | [Read More](https://medium.com/p/0f3a9b19706e) |
 | Wed, 03 Dec 2025 14:26:19 GMT | When Every C-Suite Thinks They Can Be the CISO (Until Reality Smacks Them in the Face) | Hello @ Octellient | [Read More](https://medium.com/p/124779af73a6) |
-| Wed, 03 Dec 2025 14:24:18 GMT | Hacking the Connected Car: Part 1 — Building the Lab | Federico Barsanti | [Read More](https://medium.com/p/f4a4607954b0) |
-| Wed, 03 Dec 2025 14:23:48 GMT | Linux CLI — Shells Bells - Advent of Cyber 2025 Day 1 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/6eff79e6eba4) |
-| Wed, 03 Dec 2025 14:23:03 GMT | Why Being Part of the Tech Sovereignty Catalogue Matters | Maria Terzi | [Read More](https://medium.com/p/e49d34594bef) |
-| Wed, 03 Dec 2025 14:20:35 GMT | Cryptomixer Takedown through Operation Olympia | David SEHYEON Baek | [Read More](https://medium.com/p/cc1c09f3c68f) |
-| Wed, 03 Dec 2025 14:18:44 GMT | North Korean Cyber-Financing, AI Weaponization, and the Future of Cryptocurrency Theft | David SEHYEON Baek | [Read More](https://medium.com/p/d10e23cf3ea2) |
-| Wed, 03 Dec 2025 14:17:06 GMT | Should you use GitLabs Static application security testing (SAST) for Python? | Maikel Mardjan | [Read More](https://medium.com/p/2aa2e0490f2c) |
-| Wed, 03 Dec 2025 14:15:54 GMT | VPS SUNUCUSUNU PROXY SERVER’A ÇEVİRME | Burak Özdelen | [Read More](https://medium.com/p/de1f160c2246) |
