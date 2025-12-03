@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 05:12:07 GMT | The Daily Tech Digest: 03 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c0d34760f4b7) |
+| Wed, 03 Dec 2025 05:06:22 GMT | When AI Gossips: How I Eavesdropped on a Federated Learning System | Iski | [Read More](https://medium.com/p/e1b385f35aff) |
+| Wed, 03 Dec 2025 04:56:17 GMT | Uber Doesn’t Match Riders Randomly — The Algorithm is Genius and Here’s Why | The Dev Notebook | [Read More](https://medium.com/p/f6e53fc45478) |
+| Wed, 03 Dec 2025 04:52:23 GMT | Weekly Threat Intelligence Report 1 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/8f37bd643209) |
+| Wed, 03 Dec 2025 04:51:07 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/740faeca8e0e) |
 | Wed, 03 Dec 2025 04:46:34 GMT | Monthly Threat Actor Group Intelligence Report, November 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/2dbb7721adf8) |
 | Wed, 03 Dec 2025 04:41:31 GMT | Fraud & Compliance Management: Eliminating False Positives | Sophia Nellon | [Read More](https://medium.com/p/16ffd6427f0b) |
 | Wed, 03 Dec 2025 04:40:30 GMT | Turning Breach Simulations into Real Defenses: A Practical Guide for Security Engineers. | Dosunmu Adetomiwa | [Read More](https://medium.com/p/91e8dd7c37b6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 19:45:43 GMT | How AI, Automation, and Zero Trust Are Shaping the Future of Cybersecurity | Techridge Solutions | [Read More](https://medium.com/p/bbe8b4935e3b) |
 | Tue, 02 Dec 2025 19:30:39 GMT | Adversarial Data Analytics in LLM-Augmented Pipelines | Nuno Lopes | [Read More](https://medium.com/p/679080a045bc) |
 | Tue, 02 Dec 2025 19:30:20 GMT | How I solved Task 1 in the Seine Incident challenge-TryHackMe. | Abhilash H | [Read More](https://medium.com/p/7a524809bfc0) |
-| Tue, 02 Dec 2025 19:29:58 GMT | Pwned1 Walkthrough | IshhIshneet | [Read More](https://medium.com/p/6d91b9771d9d) |
-| Tue, 02 Dec 2025 19:28:19 GMT | The Southward Advance That Does Not Exist: A Technical Breakdown of Misinterpreted Threats | Put me in a Chanel | [Read More](https://medium.com/p/0600073b1349) |
-| Tue, 02 Dec 2025 19:27:44 GMT | TLS Deep Dive | Coleo7o7o7 | [Read More](https://medium.com/p/300dd699f4ab) |
-| Tue, 02 Dec 2025 19:20:12 GMT | The Worst Computer Viruses of All Time — and What Your Company Can Learn From Them | Cordula Boeck | [Read More](https://medium.com/p/543348495154) |
-| Tue, 02 Dec 2025 19:17:29 GMT | CVE-2025–62217 - Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/70dba4dcb419) |
