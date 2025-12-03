@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 15:20:25 GMT | Day 3 — Through the Gate | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/7a91121e27ee) |
+| Wed, 03 Dec 2025 15:15:54 GMT | Rektoff Solana Rust Security Bootcamp Review | Dr.-Ing. Fabian Schuh | [Read More](https://medium.com/p/76eb7e812e73) |
+| Wed, 03 Dec 2025 15:13:36 GMT | Structural Security and Stability of the Euro in Modern Finance | Brandon Paul | [Read More](https://medium.com/p/ac24f29cd742) |
+| Wed, 03 Dec 2025 15:03:37 GMT | NPM Hit by Shai Hulud Malware Twice: What Developers Need to Know | Mohit | [Read More](https://medium.com/p/e24438aa7508) |
+| Wed, 03 Dec 2025 15:02:38 GMT | Cyber Briefing: 2025.12.03 | CyberMaterial | [Read More](https://medium.com/p/ece65c702db3) |
+| Wed, 03 Dec 2025 15:01:04 GMT | Interpreting the Interpreter Pattern with Modern Java | Jitin Kayyala | [Read More](https://medium.com/p/784960e14607) |
+| Wed, 03 Dec 2025 14:54:39 GMT | You’re the Malware Hackers Never Have to Code | S | [Read More](https://medium.com/p/7bba218d0fe3) |
+| Wed, 03 Dec 2025 14:51:16 GMT | How a Hack The Box Challenge Led Me to Build My Own SCA Scanner | PRUTHU RAUT | [Read More](https://medium.com/p/da99fcf634db) |
+| Wed, 03 Dec 2025 14:50:03 GMT | Machine Learning Consulting Competency Guide 2026: Skills, Value, Trends | Motherlandlove | [Read More](https://medium.com/p/22b2d1d6717a) |
+| Wed, 03 Dec 2025 14:47:31 GMT | How I Simplified Online Sign-Ups with Get SMS Code | Daria Savickaya | [Read More](https://medium.com/p/dde261b81475) |
 | Wed, 03 Dec 2025 14:43:26 GMT | TDR Solutions: Empowering Organizations with Unrivaled Security | NetWitness | [Read More](https://medium.com/p/c27d96b23d2f) |
 | Wed, 03 Dec 2025 14:37:23 GMT | How to Detect Root on React Native | Talsec | [Read More](https://medium.com/p/8acd9518db30) |
 | Wed, 03 Dec 2025 14:36:31 GMT | Penetration Testing Report — HF2019 Linux Exploitation | Mohdirfan | [Read More](https://medium.com/p/97678e90e05a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 10:01:07 GMT | Ehxb - Inside the Filesystem: The Truth Behind LFI & RFI I | Ehxb | [Read More](https://medium.com/p/5a9a0da32827) |
 | Wed, 03 Dec 2025 09:59:26 GMT | CYBERKARIOT: MY JOURNEY INTO THE CYBERSECURITY HALL OF FAME | CyberKariot | [Read More](https://medium.com/p/6f36a745b948) |
 | Wed, 03 Dec 2025 09:55:18 GMT | 30 Essays on Trauma and the Long Road Back I Stopped Talking About It Because People Couldn’t… | Roj Ink | [Read More](https://medium.com/p/e22dfcf5a133) |
-| Wed, 03 Dec 2025 09:50:21 GMT | How I Found a Critical 1-Click Account Takeover (ATO) in XxXxx.com | Sangith | [Read More](https://medium.com/p/a523158adb37) |
-| Wed, 03 Dec 2025 09:49:59 GMT | Who Installs Security Systems in Toronto Quickly? | Square Security Inc. | [Read More](https://medium.com/p/fb0f06a4000e) |
-| Wed, 03 Dec 2025 09:43:19 GMT | Is Your Store Next? Cyberattacks Surging Across Retail | Redfox Security | [Read More](https://medium.com/p/37fcd08a4b03) |
-| Wed, 03 Dec 2025 09:42:44 GMT | Secure Your Construction Sites with Expert Security Services | Travel time | [Read More](https://medium.com/p/64e596b21f98) |
-| Wed, 03 Dec 2025 09:42:27 GMT | What You Don’t See Behind My Writing | Joan Bluejack | [Read More](https://medium.com/p/9c452c3ad40b) |
-| Wed, 03 Dec 2025 09:41:51 GMT | CWF Cloud-User Vanishing Act | Ali | [Read More](https://medium.com/p/fe1135efed4e) |
-| Wed, 03 Dec 2025 09:32:10 GMT | Catching Vulnerabilities Before They Catch Us | Anto Semeraro | [Read More](https://medium.com/p/b1a08990281d) |
-| Wed, 03 Dec 2025 09:30:03 GMT | The Unsettling Story of the Rust Package No One Was Supposed to Download | Germano Costi | [Read More](https://medium.com/p/8a3445f749fd) |
-| Wed, 03 Dec 2025 09:28:57 GMT | How to Build a Cybersecurity Services Business in Nigeria | Bintu's Art and Everything | [Read More](https://medium.com/p/b784f99c3f1e) |
-| Wed, 03 Dec 2025 09:27:04 GMT | How HIPAA Risk Assessment Prevents the Worst HIPAA Violations | SecureSlate | [Read More](https://medium.com/p/cdb1c8ae7569) |
