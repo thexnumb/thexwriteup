@@ -12,10 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 07:15:41 GMT | The Hidden Complexity Behind Modern Full-Stack Applications: Authentication | Sakthimurugan S | [Read More](https://medium.com/p/3d1991ce6810) |
+| Wed, 03 Dec 2025 07:14:36 GMT | Why Modern Enterprises Must Prioritize Data Protection and Encryption | Rahman Iqbal | [Read More](https://medium.com/p/27f2bbf68485) |
+| Wed, 03 Dec 2025 07:11:57 GMT | The Weight of Pretending to Be Fine | RJNarina | [Read More](https://medium.com/p/8e93e6aa1d88) |
+| Wed, 03 Dec 2025 07:11:09 GMT | Cybersecurity Project#3 - Building JavaScript Analyzer for Secrets, PII & Red Flags | Abdul Basit Khan | [Read More](https://medium.com/p/612125f4af81) |
+| Wed, 03 Dec 2025 07:09:04 GMT | . That means leveraging C2 simulation toolkits — the kind the pros use to mimic multi-stage… | Very Lazy Tech | [Read More](https://medium.com/p/c87d16d84862) |
+| Wed, 03 Dec 2025 07:05:08 GMT | Malware Analysis | Adeleke Theophilus O | [Read More](https://medium.com/p/1d977b7f49b0) |
+| Wed, 03 Dec 2025 07:00:38 GMT | The Security Dilemma: Why Remote Tech Work Demands Better Cyber Practices. | Reapool | [Read More](https://medium.com/p/5a8c9e4256d6) |
+| Wed, 03 Dec 2025 06:55:02 GMT | Chromium StoreLeak — Side-Channel Web Storage Exposure Vulnerability in Chromium-based Browsers | Idabian | [Read More](https://medium.com/p/17536840d79d) |
+| Wed, 03 Dec 2025 06:42:11 GMT | Bug Bounty Deep Dive: File Upload Exploits & Defense — Part 1 | Cyphersilhouette | [Read More](https://medium.com/p/54f9e5833a29) |
+| Wed, 03 Dec 2025 06:39:10 GMT | Top 5 Best AI Security Courses For Cybersecurity Professionals In 2026 | Modern Security | [Read More](https://medium.com/p/140794f3ebcc) |
+| Wed, 03 Dec 2025 06:33:03 GMT | The $4.6 Million Wake-Up Call: AI Agents Are Now “Profitable” Hackers | Noa Kellan | [Read More](https://medium.com/p/1bec015dcfdc) |
 | Wed, 03 Dec 2025 06:28:34 GMT | ️ The ELK Stack: Your DIY Security Powerhouse for Log Analysis | Akhil Binu | [Read More](https://medium.com/p/524eea58ae75) |
 | Wed, 03 Dec 2025 06:24:17 GMT | Security-Driven Kernel Parameter Hardening: A Practical Guide to Strengthening Your System at the… | Esra Kayhan | [Read More](https://medium.com/p/441d5936aa29) |
+| Wed, 03 Dec 2025 06:22:32 GMT | WordPress Wins Again: Why Affordable Hosting Is the Real Game-Changer? | Mary Thomas | [Read More](https://medium.com/p/9425173885e6) |
 | Wed, 03 Dec 2025 06:02:30 GMT | Social Engineering: Why Hackers Target People, Not Computers” | Grace Chukwunta | [Read More](https://medium.com/p/7ea199f8fa9c) |
 | Wed, 03 Dec 2025 06:01:20 GMT | WireGuard as a Stealth C2 Channel: Abuse of Modern VPNs, Evasion, and Detection | Cyberlpz | [Read More](https://medium.com/p/a4663a2df874) |
+| Wed, 03 Dec 2025 06:00:00 GMT | Smart Online Safety Starts Early: Cyber Security Awareness Quiz for High School Students | GowthamCybersecurityAnalyst | [Read More](https://medium.com/p/f3a5f8c1a95b) |
 | Wed, 03 Dec 2025 05:47:14 GMT | love (a prologue): | S.Y. Kang | [Read More](https://medium.com/p/5a9f900a54d3) |
 | Wed, 03 Dec 2025 05:46:13 GMT | 12 Psychological Techniques That Control Decisions | Marcello Iori | [Read More](https://medium.com/p/67edb013b379) |
 | Wed, 03 Dec 2025 05:43:45 GMT | Vulnerability Assessment and Intelligence Estimate of the Flock Safety Surveillance Network | Ali Gündoğar | [Read More](https://medium.com/p/4a797d8176ec) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 21:37:47 GMT | Obfuscating APK Files . But why ? Whatsapp RTO scammers | Karthik S | [Read More](https://medium.com/p/0494f5193c6e) |
 | Tue, 02 Dec 2025 21:32:34 GMT | The Human Firewall: Why Psychology, Not Just Code, Defines Our Cybersecurity Future | Gwen | [Read More](https://medium.com/p/306ac51848c4) |
 | Tue, 02 Dec 2025 21:31:41 GMT | Fine-Grained Data Security in APEX with RAS: A Practical Guide | Thomas Minne | [Read More](https://medium.com/p/e91caafe549c) |
-| Tue, 02 Dec 2025 21:29:09 GMT | AGENTIC AI VS. THE ADVERSARY: WINNING THE BUSINESS OF RISK | Bnlrandon. | [Read More](https://medium.com/p/4017a8b803e3) |
-| Tue, 02 Dec 2025 21:26:23 GMT | The OSINT Trap: When Your Biggest Vulnerability Is Your Own Mouth | Sam Galope | [Read More](https://medium.com/p/a6ac2bd2ba2d) |
-| Tue, 02 Dec 2025 21:24:57 GMT | RPF(Reverse Path Forwarding) | BadalliAsaf | [Read More](https://medium.com/p/600a9b694842) |
-| Tue, 02 Dec 2025 21:21:22 GMT | Once i am able to deal with this lord, I will be freed | h.s | [Read More](https://medium.com/p/d3a8cb2e9425) |
-| Tue, 02 Dec 2025 21:16:35 GMT | Getting the Most Out of Your Starlink Internet: Real Tips, Simple Hacks, and Privacy Advice | Officer's Notes | [Read More](https://medium.com/p/bfec46c59747) |
-| Tue, 02 Dec 2025 21:13:28 GMT | Editor - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/1524cd04588d) |
-| Tue, 02 Dec 2025 21:13:07 GMT | Vulnerability Data Enrichment for CVE Records: 256 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/2e488b7c9062) |
-| Tue, 02 Dec 2025 21:12:42 GMT | TombWatcher - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/8869b365e5cf) |
-| Tue, 02 Dec 2025 21:11:40 GMT | Adversarial AI Digest — November 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a7c7776c2f2a) |
-| Tue, 02 Dec 2025 21:06:35 GMT | Go 1.25.5 and 1.24.11 | ASAcrew Blog | [Read More](https://medium.com/p/73afcdaed4fe) |
-| Tue, 02 Dec 2025 20:53:36 GMT | Tech#43– Section 2— Building Production-Grade Systems: Security-First Development | Vikkas Arun Pareek | [Read More](https://medium.com/p/5d0584a02acd) |
-| Tue, 02 Dec 2025 20:43:49 GMT | The Meeting Room Impostor: How AI Assistant Names Became a Security Blind Spot | Mohammad Omar | [Read More](https://medium.com/p/bfbc08c47c1a) |
-| Tue, 02 Dec 2025 20:41:23 GMT | Divide and Conquer with Git Bisect | Ayham Al Attar | [Read More](https://medium.com/p/4a035524cd8c) |
