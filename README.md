@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 18:32:30 GMT | The CISO’s Blueprint for AI Security: Operationalizing Defense with MITRE ATLAS | Arsh Riz | [Read More](https://medium.com/p/4192d529c282) |
+| Wed, 03 Dec 2025 18:31:14 GMT | Policy as Code, Compliance as Service: Rethinking the Compliance Journey — Part 3 | Maruti Sivakumar V | [Read More](https://medium.com/p/a88177241620) |
+| Wed, 03 Dec 2025 18:29:13 GMT | Can You Really Get OSCP in 5 Months? I’m About to Find Out | Mohammed Aboelghet | [Read More](https://medium.com/p/f0570c9c25a0) |
+| Wed, 03 Dec 2025 18:29:09 GMT | How I Discovered a Flaw That Let Me Access Enterprise-Only Features | Rajveer | [Read More](https://medium.com/p/276d538bc529) |
+| Wed, 03 Dec 2025 18:19:20 GMT | TryHackMe: Advent of Cyber 2025 (Days 1 -2) | Dystopianllama | [Read More](https://medium.com/p/91e69845225f) |
+| Wed, 03 Dec 2025 18:17:16 GMT | Cyber Security Swiss Army Knife Series: Episode 2 (Part 1: Local Version Control) | Mirage43 | [Read More](https://medium.com/p/16ced297eadd) |
+| Wed, 03 Dec 2025 18:15:42 GMT | How a 2FA Bypass Bug Funded My EJPT Journey | Dinesh Narasimhan | [Read More](https://medium.com/p/b8836989327f) |
+| Wed, 03 Dec 2025 18:08:32 GMT | The Job Nobody Trained You For: Surviving the “CISO Compass” Reality | Amrik  Hanjra | [Read More](https://medium.com/p/7929c8bb6f56) |
+| Wed, 03 Dec 2025 17:59:14 GMT | The Phoenix Project: How a 2013 Business Novel Predicted Every Tech Disaster You’re Living Through | Amrik  Hanjra | [Read More](https://medium.com/p/49b34928b180) |
+| Wed, 03 Dec 2025 17:51:01 GMT | Defend With Me: Splunk Basics — Did you SIEM? Advent of Cyber 2025 Day 3 | mikesploit | [Read More](https://medium.com/p/b63c8dd2068e) |
+| Wed, 03 Dec 2025 17:50:17 GMT | CVE‑2025‑55182 & CVE‑2025‑66478: React 19 and Next.js Critical Unauthenticated RCE Vulnerabilities | gm0 | [Read More](https://medium.com/p/357c8137e45c) |
+| Wed, 03 Dec 2025 17:49:33 GMT | Identity Theft Is Exploding: Here’s What It Really Means and How You Can Protect Yourself | Paritosh | [Read More](https://medium.com/p/e292b9ac0fcc) |
+| Wed, 03 Dec 2025 17:45:45 GMT | Alert: The Cybersecurity Crisis of 2025 Is Out of Control. | Hachtechnology | [Read More](https://medium.com/p/f8a86c73c474) |
+| Wed, 03 Dec 2025 17:40:32 GMT | The Benford’s Law of Bullshit: Why You Can’t Fake Reality | Harishwar | [Read More](https://medium.com/p/5c6d047505df) |
+| Wed, 03 Dec 2025 17:37:07 GMT | Software Compliance Checklist : Must-Have Features for Secure & Regulatory-Ready Business… | Blog Chip | [Read More](https://medium.com/p/936218f06c7a) |
 | Wed, 03 Dec 2025 17:33:19 GMT | Case Study: How I Found Four Critical Vulnerabilities in a Popular Lightning Network Python SDK | LETCHU PKT | [Read More](https://medium.com/p/08318d77613c) |
 | Wed, 03 Dec 2025 17:33:17 GMT | What If S-233 Applied to Security Guards? A Look at a Kamloops Assault | Scott Hill | [Read More](https://medium.com/p/7323f5285cf9) |
 | Wed, 03 Dec 2025 17:32:26 GMT | Capítulo 14 — O Último Log | Kleber Andrade | [Read More](https://medium.com/p/efdfda6172da) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 13:38:35 GMT | The Cybersecurity Comeback Story Everyone Should Hear | cyberpathsfundraisingcup | [Read More](https://medium.com/p/a7884c4cf19b) |
 | Wed, 03 Dec 2025 13:37:41 GMT | H4cked Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/3a514ca2e0c9) |
 | Wed, 03 Dec 2025 13:36:05 GMT | 5. Master the Basics, Break the Web: Authentication & Authorization Basics | Abinesh M | [Read More](https://medium.com/p/1703446109a4) |
-| Wed, 03 Dec 2025 13:33:12 GMT | A Hard Hit Shakes South Korea’s Retail Giant | O. J. Okpabi | [Read More](https://medium.com/p/1d5ca77f752b) |
-| Wed, 03 Dec 2025 13:26:58 GMT | I Built Bit.ly in 60 Lines of Code — The Secret Math Behind URL Shorteners | The Dev Notebook | [Read More](https://medium.com/p/331f668d7de6) |
-| Wed, 03 Dec 2025 13:22:23 GMT | ⚙️ How the Wayback Machine Really Works (And Why Your “Deleted” Site Isn’t Gone) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/e43b0ab0ddb8) |
-| Wed, 03 Dec 2025 13:16:24 GMT | From “Info Disclosure” to Critical RCE: How I Turned Legacy Code into a CVSS 9.8 Win | Sharmaujjwal | [Read More](https://medium.com/p/e20437e29b17) |
-| Wed, 03 Dec 2025 13:16:03 GMT | New Ways To Hack iPhone - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/502656312e2a) |
-| Wed, 03 Dec 2025 13:15:56 GMT | The $1.5 Billion Lesson: Deconstructing the Bybit Heist of 2025 | Princeanietie | [Read More](https://medium.com/p/cf8ce7b90986) |
-| Wed, 03 Dec 2025 13:12:37 GMT | Critical WordPress Security Alert: Elementor Plugin Vulnerability Enables Complete Site Takeover | Technijian | [Read More](https://medium.com/p/46c24083a271) |
-| Wed, 03 Dec 2025 13:12:14 GMT | Co-Hosts can prevent Hosts from accessing the “About” tab in Facebook Events | Rohmad Hidayah | [Read More](https://medium.com/p/fdbc324c6bfb) |
-| Wed, 03 Dec 2025 13:10:40 GMT | Vulnerability Chain: Unexploitable Self-XSS + CSRF + Open Redirect Leads to Fully Exploitable XSS | Abdo Rabea (0xOverlord) | [Read More](https://medium.com/p/a2174cfdc2ea) |
-| Wed, 03 Dec 2025 13:08:42 GMT | How an SVG Image Exposed a Stored XSS on a Fake Marketplace (And How I Found Out It Was a Scam | Mohamednaddaa | [Read More](https://medium.com/p/826c0634b2b8) |
-| Wed, 03 Dec 2025 13:06:02 GMT | The Ghost in Your Wi-Fi: Part 3 - Becoming the Guardian | Nisarg Patel | [Read More](https://medium.com/p/a083e4965f9e) |
-| Wed, 03 Dec 2025 13:03:54 GMT | From Curiosity to Code: My Journey into Cybersecurity & Python Development | ShayanTaki | [Read More](https://medium.com/p/cc0cc578640c) |
-| Wed, 03 Dec 2025 13:02:38 GMT | 從技術選型到 AI 上線：PM 如何用「治理」保護自己與專案呢？ | Ariel Chang | [Read More](https://medium.com/p/e4ac3d1018b1) |
-| Wed, 03 Dec 2025 13:02:38 GMT | A Biological Theory of Everything | Dr Chris Earl MOL-BIO | [Read More](https://medium.com/p/92c34c96bf79) |
-| Wed, 03 Dec 2025 13:01:13 GMT | You need to copy the hidden character first. | Copyinvisibletext | [Read More](https://medium.com/p/3e4a0e192abf) |
