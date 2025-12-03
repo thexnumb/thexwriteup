@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 03:14:02 GMT | The “Rogue Agent” Threat: Why You Need an AI Security Platform | Prof. Amandeep S. Sidhu | [Read More](https://medium.com/p/f53afe81e0f2) |
+| Wed, 03 Dec 2025 03:14:02 GMT | Beginner’s Guide to SafeLine Web Application Firewall | Loria | [Read More](https://medium.com/p/79002316411c) |
+| Wed, 03 Dec 2025 03:02:45 GMT | Project CodeGuard Livestream and Demos | Omar Santos | [Read More](https://medium.com/p/a82fb5f44d24) |
+| Wed, 03 Dec 2025 02:46:02 GMT | “How can I improve my dating game?” | Alejandra Rodríguez | [Read More](https://medium.com/p/50c4a340f73a) |
+| Wed, 03 Dec 2025 02:25:34 GMT | India proxy address for steadier multi-store work on Instagram and local marketplaces | LedgerSurge | [Read More](https://medium.com/p/349db3216626) |
+| Wed, 03 Dec 2025 01:59:11 GMT | Mapping Attack Surfaces Like A Cartographer Of Shadows | Rendur M. Saunter | [Read More](https://medium.com/p/6db151bb6dad) |
+| Wed, 03 Dec 2025 01:52:48 GMT | Is Sanchar Saathi Protecting Us — or Watching Us? | Dinesh Nain | [Read More](https://medium.com/p/938ca0c3be15) |
+| Wed, 03 Dec 2025 01:52:30 GMT | Midlife Planning: Laying the Groundwork for a Secure Future | Eilen Lexus | [Read More](https://medium.com/p/723892649f16) |
+| Wed, 03 Dec 2025 01:50:13 GMT | Know The Website Architecture | Lutsvia | [Read More](https://medium.com/p/aed69f8bdaf3) |
 | Wed, 03 Dec 2025 01:35:15 GMT | Verifone VX820: Repair Stage (Part 1) | Dale P | [Read More](https://medium.com/p/89d81f97e433) |
 | Wed, 03 Dec 2025 01:28:53 GMT | THM Advent of Cyber 2025 Day 2 | ZeakPeak | [Read More](https://medium.com/p/bc43a0d72671) |
 | Wed, 03 Dec 2025 01:08:06 GMT | Why You’re Always the Therapist Friend | Big Nehe (Content Guru) | [Read More](https://medium.com/p/ab63fde80b8f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Dec 2025 18:16:51 GMT | Wireshark Traffic Analysis: ARP Poisoning & Man In The Middle | Citadel Cybersec | [Read More](https://medium.com/p/e598c4221cb5) |
 | Tue, 02 Dec 2025 18:13:31 GMT | HeroCTF 2025 - Bootloader -Misc Challenge (embedded exploitation) | Zeyad Karim | [Read More](https://medium.com/p/80a48e931403) |
 | Tue, 02 Dec 2025 18:13:30 GMT | I created my own social media platform like Reddit | Aathil Ducky | [Read More](https://medium.com/p/e7cd3915d965) |
-| Tue, 02 Dec 2025 18:08:36 GMT | Inside the SOC: A Fresher’s First Real Day in Cybersecurity | Cybersickerhub | [Read More](https://medium.com/p/a95f8cb34dfe) |
-| Tue, 02 Dec 2025 18:07:48 GMT | Spectrus Agency Seeks to Raise $25 Million to Equip Israeli Military with Secure iPhone 17 Pro… | Spectrus Agency | [Read More](https://medium.com/p/9d462d96da8a) |
-| Tue, 02 Dec 2025 18:01:02 GMT | Reflected XSS in div tag | Mahmoud Amin Mohamed | [Read More](https://medium.com/p/97159f77462b) |
-| Tue, 02 Dec 2025 17:55:23 GMT | Supply Chain Attack Nedir? | Yuşa Efe | [Read More](https://medium.com/p/5e55e156d75a) |
-| Tue, 02 Dec 2025 17:55:19 GMT | Asociar un bug a una prueba con .bug() | GoyesDev | [Read More](https://medium.com/p/160cf72b7e1d) |
-| Tue, 02 Dec 2025 17:51:24 GMT | Bridge Cable Attends the 2025 ADI Philadelphia Expo | Jordanh | [Read More](https://medium.com/p/124906c8aff1) |
-| Tue, 02 Dec 2025 17:44:36 GMT | Olivia fait la couv ! | Florent M | [Read More](https://medium.com/p/17231f97a9c6) |
-| Tue, 02 Dec 2025 17:36:42 GMT | pwncollege: Program Misuse | Sourav Bose | [Read More](https://medium.com/p/99cfc8191b55) |
-| Tue, 02 Dec 2025 17:33:34 GMT | How to Fix Broken Authentication & Session Management | Ibtissam | [Read More](https://medium.com/p/6fee46c96597) |
