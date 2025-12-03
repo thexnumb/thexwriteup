@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 23:35:05 GMT | I Built 12 Security Programs from Zero. Here’s the First 30 Days CEOs Should Demand | Tyson Martin | [Read More](https://medium.com/p/de11f5f3a59f) |
+| Wed, 03 Dec 2025 23:31:44 GMT | Making Sense of the GDPR | Financial Poise | [Read More](https://medium.com/p/f6b72a458a9d) |
+| Wed, 03 Dec 2025 23:26:26 GMT | TryHackMe-TakeOver-WriteUp | GUERD Nawal | [Read More](https://medium.com/p/ee20869dacff) |
+| Wed, 03 Dec 2025 23:24:59 GMT | REMINDER: Call for Speakers for “VulnCon 2026” Closes on December 22, 2025 | CVE Program Blog | [Read More](https://medium.com/p/3ff9037650a6) |
 | Wed, 03 Dec 2025 22:47:56 GMT | Advent of Cyber 2025: Day 1 and SideQuests Write Up Pa | Mrinal Kumar Chandra | [Read More](https://medium.com/p/384f72d4a371) |
 | Wed, 03 Dec 2025 22:42:41 GMT | Critical Vulnerabilities in React and Next.js: Security Advisory | Bastradamus | [Read More](https://medium.com/p/01a3de27f1e2) |
 | Wed, 03 Dec 2025 22:40:33 GMT | CVE-2025–55182 Explained — Technical Analysis and Validation of the Attack Vector in React Server… | Santiago Habib | [Read More](https://medium.com/p/6f3fcd3d154e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 16:12:45 GMT | LetsDefend Challenge — Malicious Doc | Soumodeep Das | [Read More](https://medium.com/p/15027283c213) |
 | Wed, 03 Dec 2025 16:10:25 GMT | Twenty-Four Hours from Earth: Compliance, Continuity, and the Voyager 1 Milestone | Brian Haman | [Read More](https://medium.com/p/577132dc0c71) |
 | Wed, 03 Dec 2025 16:09:55 GMT | [CyberDefenders Write-up] APT35 (Android & FakeVPN application malware analysis) | Chicken0248 | [Read More](https://medium.com/p/22a2f8ef73b4) |
-| Wed, 03 Dec 2025 16:09:25 GMT | Here's how I found my first valid bug | Juned Silavat | [Read More](https://medium.com/p/3d1c95bf552a) |
-| Wed, 03 Dec 2025 16:09:03 GMT | Next in AI: Issue #59 | Sam Ghosh | [Read More](https://medium.com/p/f71bb48e2275) |
-| Wed, 03 Dec 2025 16:08:37 GMT | Classification vs Regression in Machine Learning Explained Simply 2026 | Motherlandlove | [Read More](https://medium.com/p/fb3038a7a0b3) |
-| Wed, 03 Dec 2025 16:06:15 GMT | [Blue Team Labs Online Write-up] The Walking Packets (Using Arkime to investigate web intrusion) | Chicken0248 | [Read More](https://medium.com/p/5e1a5b5e2fc5) |
