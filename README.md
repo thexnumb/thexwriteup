@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Dec 2025 21:02:28 GMT | Future Trends in Artificial Intelligence: What Will Shape 2026 and Beyond | Techridge Solutions | [Read More](https://medium.com/p/5b6ef141f61f) |
+| Wed, 03 Dec 2025 20:54:54 GMT | Common Mistakes Beginners Make in Cybersecurity | Ali Kurt | [Read More](https://medium.com/p/49c1ce87cfd4) |
 | Wed, 03 Dec 2025 20:47:25 GMT | Siber güvenliğe nereden başlamalıyım? | Ali Kurt | [Read More](https://medium.com/p/5a2e138160d7) |
+| Wed, 03 Dec 2025 20:40:16 GMT | Privilege Escalation Allows Low-Privilege Users to View Sensitive Role Data | HBlack Ghost | [Read More](https://medium.com/p/c3dc2ffd62ef) |
 | Wed, 03 Dec 2025 20:33:19 GMT | Splunk Basics — Did you SIEM? | Andrey.Web | [Read More](https://medium.com/p/cb53cf00cd96) |
 | Wed, 03 Dec 2025 20:22:21 GMT | Enumeration-Introduction | Deep | [Read More](https://medium.com/p/fbc83ca96b25) |
 | Wed, 03 Dec 2025 20:18:15 GMT | Mapping Attack Surfaces Like A Cartographer Of Shadows | Rendur M. Saunter | [Read More](https://medium.com/p/514d3ecc09ad) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 15:20:25 GMT | Day 3 — Through the Gate | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/7a91121e27ee) |
 | Wed, 03 Dec 2025 15:20:19 GMT | Why Your ‘Secure’ VPN Might Be Leaving You Exposed (And How to Actually Stay Safe) | Paradise technologies Inc | [Read More](https://medium.com/p/38510c5ecfd4) |
 | Wed, 03 Dec 2025 15:15:54 GMT | Rektoff Solana Rust Security Bootcamp Review | Dr.-Ing. Fabian Schuh | [Read More](https://medium.com/p/76eb7e812e73) |
-| Wed, 03 Dec 2025 15:13:36 GMT | Structural Security and Stability of the Euro in Modern Finance | Brandon Paul | [Read More](https://medium.com/p/ac24f29cd742) |
-| Wed, 03 Dec 2025 15:03:37 GMT | NPM Hit by Shai Hulud Malware Twice: What Developers Need to Know | Mohit | [Read More](https://medium.com/p/e24438aa7508) |
-| Wed, 03 Dec 2025 15:02:38 GMT | Cyber Briefing: 2025.12.03 | CyberMaterial | [Read More](https://medium.com/p/ece65c702db3) |
