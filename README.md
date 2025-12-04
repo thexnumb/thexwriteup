@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 19:13:41 GMT | My Cybersecurity Journey: Starting From Zero at 22 | Gojo Limitless | [Read More](https://medium.com/p/bca6dc9676cc) |
+| Thu, 04 Dec 2025 19:12:13 GMT | iOS Secret Key Management: Why Your Hardcoded Secrets Are a Security Risk | Karan Gavali | [Read More](https://medium.com/p/60efb99751e9) |
+| Thu, 04 Dec 2025 18:56:22 GMT | Day 123 — Vortex OverTheWire Level 0 | Jinay | [Read More](https://medium.com/p/13e37aa34096) |
+| Thu, 04 Dec 2025 18:52:31 GMT | “CloudFail” ile Origin IP Tespiti: Cloudflare Arkasında Ne Var? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/cbc341dd6d4a) |
+| Thu, 04 Dec 2025 18:51:14 GMT | My First CVE: CVE-2025–65883 — Remote Code Execution in a Genexis Router | Adwaith S | [Read More](https://medium.com/p/0c35749a99bd) |
+| Thu, 04 Dec 2025 18:49:15 GMT | How to Build and Keep Community When You Weren’t Taught How | Mitchella (Mitch) Gilbert | [Read More](https://medium.com/p/8c7ffef4662d) |
+| Thu, 04 Dec 2025 18:31:30 GMT | IT dünyasının “Alfabesi”: Network ve OSI modeli | HACER MALTAR | [Read More](https://medium.com/p/53b983ac8fd1) |
 | Thu, 04 Dec 2025 18:20:15 GMT | Introduction to Cybersecurity Tools & Cyberattacks (IBM) | Franklin Rhodes | [Read More](https://medium.com/p/1c86c0b6b7c6) |
 | Thu, 04 Dec 2025 18:19:46 GMT | Why Cybersecurity is the Next Essential Skill for Data Scientists | Talhaakbar | [Read More](https://medium.com/p/ad510810f753) |
 | Thu, 04 Dec 2025 18:18:09 GMT | Leaked API Key to Full Calendar Control | Yehia Ahmed | [Read More](https://medium.com/p/7561333ceacb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 13:16:41 GMT | Hitech Barrier Saudi Arabia Premier Solution for Advanced Access & Security Control | Hitech Barrier | [Read More](https://medium.com/p/9c091584750e) |
 | Thu, 04 Dec 2025 13:16:39 GMT | The Lie of “Private AI”: Three Seams in the Vendor’s Promise | Jeremy Tarkington | [Read More](https://medium.com/p/a90c0f2b6b32) |
 | Thu, 04 Dec 2025 13:13:23 GMT | Automating the Kill Chain: How I Built a Serverless Incident Response Bot on AWS | Aderinola Taiwo | [Read More](https://medium.com/p/3fe23186578a) |
-| Thu, 04 Dec 2025 13:06:37 GMT | When AI Becomes the Team: Rethinking How We Build Products | Jen Anderson, PhD | [Read More](https://medium.com/p/f0d4e7ce8c43) |
-| Thu, 04 Dec 2025 13:02:51 GMT | 6. Master the Basics, Break the Web: Input & Output Basics | Abinesh M | [Read More](https://medium.com/p/2ec7d1d38bb7) |
-| Thu, 04 Dec 2025 13:01:23 GMT | My SC-900 Journey: From Theory to Practice | Ejike Etolue | [Read More](https://medium.com/p/b4f0815092af) |
-| Thu, 04 Dec 2025 12:59:26 GMT | File Upload Zafiyetleri | Onur Muhammet Akçay | [Read More](https://medium.com/p/67cb7b68f371) |
-| Thu, 04 Dec 2025 12:59:15 GMT | How to Combine Convenience and Safety in Your Daily Routine | Discreet solution Pvt ltd | [Read More](https://medium.com/p/8363b4547080) |
-| Thu, 04 Dec 2025 12:57:10 GMT | Breaking Dailymotion: A Private Video Access Control Bypass (Part1) | Osama | [Read More](https://medium.com/p/455ae1a50f09) |
-| Thu, 04 Dec 2025 12:34:58 GMT | ShadowMQ: The Copy-Paste Vulnerability That Infected Meta, NVIDIA, and Microsoft’s AI | MohamedAbdelmenem | [Read More](https://medium.com/p/02bac9715bb1) |
