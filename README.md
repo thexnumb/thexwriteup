@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 14:16:34 GMT | Becomimg a CyberSecurity Analyst | HdigitalHUB | [Read More](https://medium.com/p/22a19552dddb) |
+| Thu, 04 Dec 2025 14:12:21 GMT | How I Found My First Bug in Just 12 Hours: A Beginner’s Journey | Moganti Nehanth | [Read More](https://medium.com/p/64d10810b6fc) |
+| Thu, 04 Dec 2025 14:11:04 GMT | Advent of Cyber 25 — Day 3 — Splunk Basics — Did you SIEM? | cybertactic | [Read More](https://medium.com/p/911865c63e55) |
+| Thu, 04 Dec 2025 14:10:55 GMT | Kendi Active Directory Lab Ortamınızı Kurun-I: Active Directory Güvenliği: Bölüm-5 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/79f73370eaf2) |
+| Thu, 04 Dec 2025 14:06:26 GMT | Wazuh Server on Ubuntu + Agent on Windows: Full Installation Guide — Cybersecurity Homelab [#10] | 0xRahuL | [Read More](https://medium.com/p/ec7a069ab840) |
+| Thu, 04 Dec 2025 14:02:45 GMT | IBM Released a Framework for Breaking Your AI on Purpose (And You Should Use It) | Gowtham Boyina | [Read More](https://medium.com/p/ed8a720d29e4) |
+| Thu, 04 Dec 2025 13:52:11 GMT | How I Use Burp Suite Like A Surveillance Tool Instead Of A Scanner | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c0c11df45ae1) |
+| Thu, 04 Dec 2025 13:45:17 GMT | The Living SBOM: A Strategic Blueprint for Medical Device and Industrial IoT Cybersecurity | Nitish Gupta | [Read More](https://medium.com/p/d8b165e4a59a) |
+| Thu, 04 Dec 2025 13:37:58 GMT | It’s a new beginning | KEROLESS ADEL | [Read More](https://medium.com/p/8bfd8299335c) |
+| Thu, 04 Dec 2025 13:37:28 GMT | I Cry in Public, But I’m Not Ashamed Anymore | Madeleine | [Read More](https://medium.com/p/157f2e1d9919) |
+| Thu, 04 Dec 2025 13:32:23 GMT | Owning My Quirks | Joe Petryka | [Read More](https://medium.com/p/6ac541913111) |
 | Thu, 04 Dec 2025 13:27:41 GMT | Hardcoded Secrets Strike Again: How a Telegram Bot Token Exposed Customer Support and PII | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/cb412551239b) |
 | Thu, 04 Dec 2025 13:24:33 GMT | PowerShell Empire: A Shape‑Shifting Post‑Exploitation Framework with a Practical Tutorial Example | Youssef El-Sibai | [Read More](https://medium.com/p/2c31ce83a1ea) |
 | Thu, 04 Dec 2025 13:21:12 GMT | XSS — Apprentice | muhammedenesozel | [Read More](https://medium.com/p/a7fa9119414a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 07:54:50 GMT | A Day I’ll Never Forget as a CQO It Was a Normal Day — Until This Cyber Incident Hit | Fook Hwa Tan | [Read More](https://medium.com/p/3aff185f7cba) |
 | Thu, 04 Dec 2025 07:54:11 GMT | SFTP vs FTP: Why You Should Always Choose Secure SFTP | Smit Pipaliya | [Read More](https://medium.com/p/fc144b10fbc6) |
 | Thu, 04 Dec 2025 07:54:00 GMT | Why SSH Public Key Authentication Is Better Than Password | Smit Pipaliya | [Read More](https://medium.com/p/3ce7e243dd37) |
-| Thu, 04 Dec 2025 07:51:52 GMT | Protect Your Anonymity with AnonSurf | Frost | [Read More](https://medium.com/p/41083065c51f) |
-| Thu, 04 Dec 2025 07:51:07 GMT | Holiday Season Scams Are Back: How Freelancers Can Stay Safe (A Must-Read Guide) | Andrei Olaru | [Read More](https://medium.com/p/9d04b8c3e076) |
-| Thu, 04 Dec 2025 07:32:11 GMT | 7 Fernet/KMS Patterns for Python Services | Syntal | [Read More](https://medium.com/p/9bc0a79ad3c2) |
-| Thu, 04 Dec 2025 07:27:46 GMT | The Hidden Price of Vibe Coding: Why We Need New Tools to Catch AI’s Bugs | Faisal haque | [Read More](https://medium.com/p/be5f6a888bc8) |
-| Thu, 04 Dec 2025 07:26:13 GMT | VSP: Rethinking Web Security for the Post-Quantum Era | Soham Kumawat | [Read More](https://medium.com/p/66d90920657c) |
-| Thu, 04 Dec 2025 07:26:10 GMT | Critical Vulnerability in React Server Components Affecting React 19 and Next.js | Kristiyan Velkov | [Read More](https://medium.com/p/85b139fab843) |
-| Thu, 04 Dec 2025 07:25:09 GMT | Best Machine Learning Conferences 2026 Guide for Beginners | Motherlandlove | [Read More](https://medium.com/p/9ba1940e8fbb) |
-| Thu, 04 Dec 2025 07:17:46 GMT | Purple Teaming — A Complete Guide to Next-Gen Cyber Defense | Red Team Training | [Read More](https://medium.com/p/ca6dda477307) |
-| Thu, 04 Dec 2025 07:15:40 GMT | Cybersecurity MDM vs. ManageEngine MDM — What’s the Real Difference? | Zeenath Fatima | [Read More](https://medium.com/p/709e3c05906a) |
-| Thu, 04 Dec 2025 07:09:32 GMT | Building a Virtual Digital Forensics Lab Focused on Autopsy | Anderson Santos | [Read More](https://medium.com/p/664cedc9b2c6) |
-| Thu, 04 Dec 2025 07:05:20 GMT | Ransomware 3.0: How Cyberattacks Are Now Targeting Your Cloud and APIs — Gargi Hatagale | KLEAP Institute of Information Security | [Read More](https://medium.com/p/c7d5ebec252e) |
