@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 11:24:56 GMT | When Seeing Isn’t Believing: Why Your Next Boss Should Be a Blockchain | George Lwanda | [Read More](https://medium.com/p/f515303cd4ca) |
 | Thu, 04 Dec 2025 11:10:03 GMT | TryHackMEVMs: Startup | Justin Jude Cabodil | [Read More](https://medium.com/p/f1847c348587) |
 | Thu, 04 Dec 2025 11:07:26 GMT | What is Fileless Malware? - VIIEGO | Rolando | [Read More](https://medium.com/p/f0655b505c5d) |
 | Thu, 04 Dec 2025 11:05:24 GMT | 7 Powerful Reasons Pentesting Without Remediation Fails | Pentest_Testing_Corp | [Read More](https://medium.com/p/710087e57b49) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 04:59:37 GMT | Why Your GPS Tracker’s IMEI Number Is the Key to Recovering Your Stolen Car | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/0252e7cca312) |
 | Thu, 04 Dec 2025 04:56:18 GMT | Introducing CVE‑2025‑55182-TOOLS: A Unified Framework for Large‑Scale Detection and Reproduction… | Mingyi Security Lab | [Read More](https://medium.com/p/fb35c34a5171) |
 | Thu, 04 Dec 2025 04:46:13 GMT | Machine Learning Consulting Services Business Model Guide for 2026 | Motherlandlove | [Read More](https://medium.com/p/d398ccf6d69d) |
-| Thu, 04 Dec 2025 04:45:36 GMT | What is Google Dorking? | Sreeshnu P S | [Read More](https://medium.com/p/2c3ffb78a788) |
