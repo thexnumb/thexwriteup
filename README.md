@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 19:35:55 GMT | Critical React RSC Flaw Enables Unauthenticated RCE | RealSec.io | [Read More](https://medium.com/p/8cc80437c01c) |
+| Thu, 04 Dec 2025 19:32:46 GMT | Bulletproof Defense: The Hidden Internet Infrastructure Powering Cybercrime — and How We Fight Back | Serdar Gumus | [Read More](https://medium.com/p/35003da472b3) |
+| Thu, 04 Dec 2025 19:32:40 GMT | How to Build a Pentesting Home Lab: Part 4-Scanning and Exploitation | Jamie Omarr | [Read More](https://medium.com/p/7eb0718d028c) |
+| Thu, 04 Dec 2025 19:28:54 GMT | Database Security: Protecting the Heart of Modern Systems | Andre Humphrey | [Read More](https://medium.com/p/387dbdd24cb1) |
+| Thu, 04 Dec 2025 19:26:36 GMT | The Fear of Being Seen: The Hidden Cost of Hiding | Psyche View | [Read More](https://medium.com/p/a4c4328197b4) |
+| Thu, 04 Dec 2025 19:26:11 GMT | Thomas Davies, DPM Notifies Patients After Potential Data Breach Exposes Sensitive Health… | David Miller | [Read More](https://medium.com/p/708fe1732cb6) |
+| Thu, 04 Dec 2025 19:24:17 GMT | How to Confirm if Microsoft Defender Scanning is Causing Application Performance Issues | Jbird | [Read More](https://medium.com/p/e73daf25597e) |
+| Thu, 04 Dec 2025 19:15:11 GMT | Will penetration testing really help keep your smartphone and mobile apps safe in 2025? | Radia 2025 | [Read More](https://medium.com/p/6a6be1d52f87) |
 | Thu, 04 Dec 2025 19:13:41 GMT | My Cybersecurity Journey: Starting From Zero at 22 | Gojo Limitless | [Read More](https://medium.com/p/bca6dc9676cc) |
 | Thu, 04 Dec 2025 19:12:13 GMT | iOS Secret Key Management: Why Your Hardcoded Secrets Are a Security Risk | Karan Gavali | [Read More](https://medium.com/p/60efb99751e9) |
 | Thu, 04 Dec 2025 18:56:22 GMT | Day 123 — Vortex OverTheWire Level 0 | Jinay | [Read More](https://medium.com/p/13e37aa34096) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 13:37:28 GMT | I Cry in Public, But I’m Not Ashamed Anymore | Madeleine | [Read More](https://medium.com/p/157f2e1d9919) |
 | Thu, 04 Dec 2025 13:32:23 GMT | Owning My Quirks | Joe Petryka | [Read More](https://medium.com/p/6ac541913111) |
 | Thu, 04 Dec 2025 13:27:41 GMT | Hardcoded Secrets Strike Again: How a Telegram Bot Token Exposed Customer Support and PII | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/cb412551239b) |
-| Thu, 04 Dec 2025 13:24:33 GMT | PowerShell Empire: A Shape‑Shifting Post‑Exploitation Framework with a Practical Tutorial Example | Youssef El-Sibai | [Read More](https://medium.com/p/2c31ce83a1ea) |
-| Thu, 04 Dec 2025 13:21:12 GMT | XSS — Apprentice | muhammedenesozel | [Read More](https://medium.com/p/a7fa9119414a) |
-| Thu, 04 Dec 2025 13:18:12 GMT | [BugReprot] TFT_003 | zett | [Read More](https://medium.com/p/4cc4e5c1b8bc) |
-| Thu, 04 Dec 2025 13:17:55 GMT | Dream Job-2: : Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/a080573549be) |
-| Thu, 04 Dec 2025 13:17:36 GMT | Professional Penetration Testing Agreement: A Comprehensive Framework for Security Testing | Seun odebode | [Read More](https://medium.com/p/09506e1fc170) |
-| Thu, 04 Dec 2025 13:16:41 GMT | Hitech Barrier Saudi Arabia Premier Solution for Advanced Access & Security Control | Hitech Barrier | [Read More](https://medium.com/p/9c091584750e) |
-| Thu, 04 Dec 2025 13:16:39 GMT | The Lie of “Private AI”: Three Seams in the Vendor’s Promise | Jeremy Tarkington | [Read More](https://medium.com/p/a90c0f2b6b32) |
-| Thu, 04 Dec 2025 13:13:23 GMT | Automating the Kill Chain: How I Built a Serverless Incident Response Bot on AWS | Aderinola Taiwo | [Read More](https://medium.com/p/3fe23186578a) |
