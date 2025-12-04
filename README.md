@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 17:38:53 GMT | Building the Ultimate Android Hacking Lab - Without Losing Your Mind (Of Course) | Omkar D. | [Read More](https://medium.com/p/382152af032e) |
+| Thu, 04 Dec 2025 17:36:51 GMT | PENETRATION TESTING REPORT — BOUNTY HACKER - TRYHACKME | Sreeragmanghat | [Read More](https://medium.com/p/0d0d7822883b) |
+| Thu, 04 Dec 2025 17:34:08 GMT | The Hidden Architecture of Security Success: What Ross Haleliuk’s Hiring Manifesto Really Tells Us | Kaustubh Phatak | [Read More](https://medium.com/p/ad0590b2d74b) |
+| Thu, 04 Dec 2025 17:31:00 GMT | Everything Worked Locally — Until Timezones Destroyed My App | The Dev Notebook | [Read More](https://medium.com/p/78701dab5e81) |
+| Thu, 04 Dec 2025 17:26:34 GMT | Advent of Cyber 2025 - Day 4: AI in Security — old sAInt nick | D4m.sh | [Read More](https://medium.com/p/d9255bfb90e7) |
+| Thu, 04 Dec 2025 17:25:40 GMT | My Penetration Testing Agreement Assignment: What I Built and What I Learned | Latifah Sia | [Read More](https://medium.com/p/2a775e0c9306) |
+| Thu, 04 Dec 2025 17:24:36 GMT | Write-up : Soupedecode 01 — TryHackMe | DylanSec | [Read More](https://medium.com/p/f4a9f962f6df) |
 | Thu, 04 Dec 2025 17:16:26 GMT | The Collapse of Romantic RiskTaking: A Cross-Generational Analysis of Vulnerability Fatigue in Gen… | Zineb | [Read More](https://medium.com/p/f36068b1e9cb) |
 | Thu, 04 Dec 2025 17:12:52 GMT | :  … | Desouza Nancy | [Read More](https://medium.com/p/8a602c3a3535) |
 | Thu, 04 Dec 2025 17:12:10 GMT | Kloud7 Expands Managed IT and Telecom Services for SMB Growth | Shehryar Khan | [Read More](https://medium.com/p/e5477d6adbe3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 11:50:00 GMT | Why Telegram Can Store Your Messages (And What That Means For You) | Leon Wong 282 | [Read More](https://medium.com/p/4ad16f171f9f) |
 | Thu, 04 Dec 2025 11:49:58 GMT | How can Java development services enhance app security? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/0d827cc03229) |
 | Thu, 04 Dec 2025 11:43:44 GMT | Why Security Guard Services Are Essential for Modern Businesses: A Deep Dive Into Today’s Top… | Ciss India | [Read More](https://medium.com/p/c6313d6b102b) |
-| Thu, 04 Dec 2025 11:40:36 GMT | The New Cyber Battlefield: How Cloud Platforms Became the Frontline of Attacks | Devam Shah | [Read More](https://medium.com/p/e02a57004f67) |
-| Thu, 04 Dec 2025 11:36:18 GMT | Informative Website at Namrata Universal | Anirudha | [Read More](https://medium.com/p/8ce6a1a92bf3) |
-| Thu, 04 Dec 2025 11:36:16 GMT | Is Your VPN Really Protecting You? 4 Surprising Truths About Online Security | Ahmed Adil | [Read More](https://medium.com/p/a1784c589958) |
-| Thu, 04 Dec 2025 11:35:05 GMT | Salt Lake City PPC Management: A Complete, In-Depth Guide to Winning Paid Ads | Hary Battler | [Read More](https://medium.com/p/5b0f6b05b16d) |
-| Thu, 04 Dec 2025 11:24:56 GMT | When Seeing Isn’t Believing: Why Your Next Boss Should Be a Blockchain | George Lwanda | [Read More](https://medium.com/p/f515303cd4ca) |
-| Thu, 04 Dec 2025 11:10:03 GMT | TryHackMEVMs: Startup | Justin Jude Cabodil | [Read More](https://medium.com/p/f1847c348587) |
-| Thu, 04 Dec 2025 11:07:26 GMT | What is Fileless Malware? - VIIEGO | Rolando | [Read More](https://medium.com/p/f0655b505c5d) |
