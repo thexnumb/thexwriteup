@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 07:27:46 GMT | The Hidden Price of Vibe Coding: Why We Need New Tools to Catch AI’s Bugs | Faisal haque | [Read More](https://medium.com/p/be5f6a888bc8) |
+| Thu, 04 Dec 2025 07:26:13 GMT | VSP: Rethinking Web Security for the Post-Quantum Era | Soham Kumawat | [Read More](https://medium.com/p/66d90920657c) |
+| Thu, 04 Dec 2025 07:26:10 GMT | Critical Vulnerability in React Server Components Affecting React 19 and Next.js | Kristiyan Velkov | [Read More](https://medium.com/p/85b139fab843) |
+| Thu, 04 Dec 2025 07:25:09 GMT | Best Machine Learning Conferences 2026 Guide for Beginners | Motherlandlove | [Read More](https://medium.com/p/9ba1940e8fbb) |
+| Thu, 04 Dec 2025 07:17:46 GMT | Purple Teaming — A Complete Guide to Next-Gen Cyber Defense | Red Team Training | [Read More](https://medium.com/p/ca6dda477307) |
+| Thu, 04 Dec 2025 07:15:40 GMT | Cybersecurity MDM vs. ManageEngine MDM — What’s the Real Difference? | Zeenath Fatima | [Read More](https://medium.com/p/709e3c05906a) |
 | Thu, 04 Dec 2025 07:09:32 GMT | Building a Virtual Digital Forensics Lab Focused on Autopsy | Anderson Santos | [Read More](https://medium.com/p/664cedc9b2c6) |
 | Thu, 04 Dec 2025 07:05:20 GMT | Ransomware 3.0: How Cyberattacks Are Now Targeting Your Cloud and APIs — Gargi Hatagale | KLEAP Institute of Information Security | [Read More](https://medium.com/p/c7d5ebec252e) |
 | Thu, 04 Dec 2025 07:03:56 GMT | Online Web Application Penetration Testing Course for Ethical Hackers | cyber security Updates | [Read More](https://medium.com/p/5a7abe6b9e32) |
@@ -46,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 05:01:21 GMT | Software firewalls 101: functions and options | RASHID MUSTAFA | [Read More](https://medium.com/p/4ae83ebdfc97) |
 | Thu, 04 Dec 2025 04:59:37 GMT | Why Your GPS Tracker’s IMEI Number Is the Key to Recovering Your Stolen Car | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/0252e7cca312) |
 | Thu, 04 Dec 2025 04:56:18 GMT | Introducing CVE‑2025‑55182-TOOLS: A Unified Framework for Large‑Scale Detection and Reproduction… | Mingyi Security Lab | [Read More](https://medium.com/p/fb35c34a5171) |
+| Thu, 04 Dec 2025 04:46:13 GMT | Machine Learning Consulting Services Business Model Guide for 2026 | Motherlandlove | [Read More](https://medium.com/p/d398ccf6d69d) |
 | Thu, 04 Dec 2025 04:45:36 GMT | What is Google Dorking? | Sreeshnu P S | [Read More](https://medium.com/p/2c3ffb78a788) |
 | Thu, 04 Dec 2025 04:39:52 GMT | How to Achieve Cybersecurity Compliance Certificate Aramco for Your Business | Kadhijahafiya | [Read More](https://medium.com/p/79a13be7e87b) |
 | Thu, 04 Dec 2025 04:34:31 GMT | Phishing — Merry Clickmas - Walkthrough - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/7985b1cb641e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 22:32:43 GMT | The Day Production Went Down Because of a Single .env File | Faris Chtatou | [Read More](https://medium.com/p/829f86056e8e) |
 | Wed, 03 Dec 2025 22:32:07 GMT | CVE-2025–55182 Explicado — Análisis Técnico y Validación del Vector de Ataque en React Server… | Santiago Habib | [Read More](https://medium.com/p/6929c3d20045) |
 | Wed, 03 Dec 2025 22:08:08 GMT | Exploiting Logic Flaws & Zip Slips: A Walkthrough of “Desires” on Hack The Box | Muhammad Younas | [Read More](https://medium.com/p/c68a39eea650) |
-| Wed, 03 Dec 2025 22:02:11 GMT | Commands That Turn Your Own System Against You | Liam | [Read More](https://medium.com/p/8a93d046c86f) |
-| Wed, 03 Dec 2025 21:56:34 GMT | Data Privacy and Security in the Era of AI | Innovative Insights | [Read More](https://medium.com/p/f1e53cadc49c) |
-| Wed, 03 Dec 2025 21:52:00 GMT | Critical Security Flaws in React and Next.js: Unauthenticated RCE via RSC Vulnerabilities | Coresec | [Read More](https://medium.com/p/76047187966b) |
-| Wed, 03 Dec 2025 21:34:29 GMT | Why Smart CMOs Connect Data Protection and Brand Loyalty | Julie Crisman | [Read More](https://medium.com/p/dae6294742e3) |
-| Wed, 03 Dec 2025 21:33:37 GMT | AWS Lambda → RDS Secure Access Patterns | Mahesh Devendran | [Read More](https://medium.com/p/dc475a778c29) |
-| Wed, 03 Dec 2025 21:29:23 GMT | Complete Guide: Integrating Palo Alto Firewall with Wazuh SIEM (2025) | Avvik Poff W | [Read More](https://medium.com/p/f97027f8b22a) |
-| Wed, 03 Dec 2025 21:20:38 GMT | Nigeria’s Classroom Revolution: How AI and Cybersecurity Training Is Transforming Educators Into… | Gbolahan Akinbola | [Read More](https://medium.com/p/fa9687e2aa4b) |
