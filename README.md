@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 13:27:41 GMT | Hardcoded Secrets Strike Again: How a Telegram Bot Token Exposed Customer Support and PII | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/cb412551239b) |
+| Thu, 04 Dec 2025 13:24:33 GMT | PowerShell Empire: A Shape‑Shifting Post‑Exploitation Framework with a Practical Tutorial Example | Youssef El-Sibai | [Read More](https://medium.com/p/2c31ce83a1ea) |
+| Thu, 04 Dec 2025 13:21:12 GMT | XSS — Apprentice | muhammedenesozel | [Read More](https://medium.com/p/a7fa9119414a) |
+| Thu, 04 Dec 2025 13:18:12 GMT | [BugReprot] TFT_003 | zett | [Read More](https://medium.com/p/4cc4e5c1b8bc) |
+| Thu, 04 Dec 2025 13:17:55 GMT | Dream Job-2: : Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/a080573549be) |
+| Thu, 04 Dec 2025 13:17:36 GMT | Professional Penetration Testing Agreement: A Comprehensive Framework for Security Testing | Seun odebode | [Read More](https://medium.com/p/09506e1fc170) |
+| Thu, 04 Dec 2025 13:16:41 GMT | Hitech Barrier Saudi Arabia Premier Solution for Advanced Access & Security Control | Hitech Barrier | [Read More](https://medium.com/p/9c091584750e) |
+| Thu, 04 Dec 2025 13:16:39 GMT | The Lie of “Private AI”: Three Seams in the Vendor’s Promise | Jeremy Tarkington | [Read More](https://medium.com/p/a90c0f2b6b32) |
+| Thu, 04 Dec 2025 13:13:23 GMT | Automating the Kill Chain: How I Built a Serverless Incident Response Bot on AWS | Aderinola Taiwo | [Read More](https://medium.com/p/3fe23186578a) |
+| Thu, 04 Dec 2025 13:06:37 GMT | When AI Becomes the Team: Rethinking How We Build Products | Jen Anderson, PhD | [Read More](https://medium.com/p/f0d4e7ce8c43) |
+| Thu, 04 Dec 2025 13:02:51 GMT | 6. Master the Basics, Break the Web: Input & Output Basics | Abinesh M | [Read More](https://medium.com/p/2ec7d1d38bb7) |
+| Thu, 04 Dec 2025 13:01:23 GMT | My SC-900 Journey: From Theory to Practice | Ejike Etolue | [Read More](https://medium.com/p/b4f0815092af) |
+| Thu, 04 Dec 2025 12:59:26 GMT | File Upload Zafiyetleri | Onur Muhammet Akçay | [Read More](https://medium.com/p/67cb7b68f371) |
+| Thu, 04 Dec 2025 12:59:15 GMT | How to Combine Convenience and Safety in Your Daily Routine | Discreet solution Pvt ltd | [Read More](https://medium.com/p/8363b4547080) |
+| Thu, 04 Dec 2025 12:57:10 GMT | Breaking Dailymotion: A Private Video Access Control Bypass (Part1) | Osama | [Read More](https://medium.com/p/455ae1a50f09) |
 | Thu, 04 Dec 2025 12:34:58 GMT | ShadowMQ: The Copy-Paste Vulnerability That Infected Meta, NVIDIA, and Microsoft’s AI | MohamedAbdelmenem | [Read More](https://medium.com/p/02bac9715bb1) |
 | Thu, 04 Dec 2025 12:34:05 GMT | MONITORING — Advanced, Interesting, and Knowledge-Boosted Walkthrough | IshhIshneet | [Read More](https://medium.com/p/a42e93ae93b4) |
 | Thu, 04 Dec 2025 12:33:53 GMT | Zero-Knowledge Proofs and Schnorr Protocol in Rust! | Mohammadreza Ashouri | [Read More](https://medium.com/p/ff037701bebb) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 07:15:40 GMT | Cybersecurity MDM vs. ManageEngine MDM — What’s the Real Difference? | Zeenath Fatima | [Read More](https://medium.com/p/709e3c05906a) |
 | Thu, 04 Dec 2025 07:09:32 GMT | Building a Virtual Digital Forensics Lab Focused on Autopsy | Anderson Santos | [Read More](https://medium.com/p/664cedc9b2c6) |
 | Thu, 04 Dec 2025 07:05:20 GMT | Ransomware 3.0: How Cyberattacks Are Now Targeting Your Cloud and APIs — Gargi Hatagale | KLEAP Institute of Information Security | [Read More](https://medium.com/p/c7d5ebec252e) |
-| Thu, 04 Dec 2025 07:03:56 GMT | Online Web Application Penetration Testing Course for Ethical Hackers | cyber security Updates | [Read More](https://medium.com/p/5a7abe6b9e32) |
-| Thu, 04 Dec 2025 07:03:41 GMT | AI and Privacy: What You Should Know Before Sharing Your Data | Generative AI | [Read More](https://medium.com/p/2dae96410201) |
-| Thu, 04 Dec 2025 07:03:34 GMT | AI-Powered Attacks: 15 Tools Changing Pentesting Forever (With Step-by-Step Guides) | Very Lazy Tech | [Read More](https://medium.com/p/861d5e3aeb54) |
-| Thu, 04 Dec 2025 06:59:56 GMT | Chmod vs. Chown vs. ACL - Practical Examples . | Amrsmooke | [Read More](https://medium.com/p/0a4bb4a7fa3b) |
-| Thu, 04 Dec 2025 06:59:32 GMT | Best Labs to Practice XSS (Cross-Site Scripting) | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/4b243fac4a40) |
-| Thu, 04 Dec 2025 06:56:10 GMT | How WebAssembly Supercharging the Web with Rust | Viral Parmar | [Read More](https://medium.com/p/0941e59db230) |
-| Thu, 04 Dec 2025 06:53:33 GMT | SSI IT Cyber Security Services in Munich | Public | [Read More](https://medium.com/p/54f38e5ff67b) |
-| Thu, 04 Dec 2025 06:53:21 GMT | Inside a Hacker’s Mind — The Real Reason Cyberattacks Keep Increasing | Ssolosssolo | [Read More](https://medium.com/p/0bacce510d9d) |
-| Thu, 04 Dec 2025 06:52:27 GMT | The New Rules of Cybersecurity — Why Your Biggest Threat in 2025 Isn’t Hackers, but Habits | Ssolosssolo | [Read More](https://medium.com/p/cf2d15ea8b04) |
-| Thu, 04 Dec 2025 06:46:37 GMT | Why Every Construction Project Needs Strong Site Security in 2025 | Hirasarfraz | [Read More](https://medium.com/p/321495d3acb5) |
-| Thu, 04 Dec 2025 06:40:58 GMT | C++ vs Rust for WebAssembly: An Analysis, Performance & Security | Viral Parmar | [Read More](https://medium.com/p/1fccd88045f9) |
-| Thu, 04 Dec 2025 06:39:23 GMT | Catching .NET Vulnerabilities Early: A Hands-On Guide with Puma Scan | victor williams cruz mamani | [Read More](https://medium.com/p/d49c066b60ac) |
-| Thu, 04 Dec 2025 06:35:51 GMT | Sanchar Saathi: India’s Big Telecom Security Bet — and the Privacy Debate It Sparked | Shrinivas Nadager | [Read More](https://medium.com/p/fa4c1f744f39) |
-| Thu, 04 Dec 2025 06:34:06 GMT | The Role of Cybersecurity in Protecting Personal Data | Globalblogingspark | [Read More](https://medium.com/p/ced223270d90) |
-| Thu, 04 Dec 2025 06:24:51 GMT | Mastering the Basics: Your First 10 NMAP Commands for Cybersecurity | oussama MAJID | [Read More](https://medium.com/p/30062abd1ad2) |
