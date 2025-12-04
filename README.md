@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 12:34:58 GMT | ShadowMQ: The Copy-Paste Vulnerability That Infected Meta, NVIDIA, and Microsoft’s AI | MohamedAbdelmenem | [Read More](https://medium.com/p/02bac9715bb1) |
+| Thu, 04 Dec 2025 12:34:05 GMT | MONITORING — Advanced, Interesting, and Knowledge-Boosted Walkthrough | IshhIshneet | [Read More](https://medium.com/p/a42e93ae93b4) |
+| Thu, 04 Dec 2025 12:33:53 GMT | Zero-Knowledge Proofs and Schnorr Protocol in Rust! | Mohammadreza Ashouri | [Read More](https://medium.com/p/ff037701bebb) |
+| Thu, 04 Dec 2025 12:29:21 GMT | From Port Forwarding to Attack Blocking: My Practical Firewall Journey | Wesley Santos | [Read More](https://medium.com/p/c1aeb69c4882) |
+| Thu, 04 Dec 2025 12:25:12 GMT | Mandated Safety or Backdoor Surveillance? | eL Njas!™ | [Read More](https://medium.com/p/edddec530dae) |
+| Thu, 04 Dec 2025 12:21:04 GMT | The React Server Components Exploit That Could Have Hacked 39% of the Web | Mrunal chawda | [Read More](https://medium.com/p/7d5dcc44a4cb) |
+| Thu, 04 Dec 2025 12:10:20 GMT | Cyber Hygiene, Spiritual Hygiene, and the Backyard | Melusi shoko | [Read More](https://medium.com/p/e2680cfc5fbf) |
+| Thu, 04 Dec 2025 12:08:04 GMT | Why Businesses Fail Their First Cyber Audit — and How to Avoid It | Digital Defense | [Read More](https://medium.com/p/af4b7aa07191) |
+| Thu, 04 Dec 2025 12:06:45 GMT | How to Get Rid of Bed Bugs: Complete Guide | Insaraffurniture | [Read More](https://medium.com/p/2c57eaedb891) |
+| Thu, 04 Dec 2025 12:06:28 GMT | Today’s Top Cyber Intelligence Highlights — Dec 04, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/eb3ad1d975e7) |
+| Thu, 04 Dec 2025 12:02:14 GMT | Understanding CWE-656: Reliance on Security Through Obscurity | Walter Moar | [Read More](https://medium.com/p/9602bd93c8ad) |
+| Thu, 04 Dec 2025 11:52:10 GMT | Day 4 — Midnight Vigil | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/3d2602d873ec) |
+| Thu, 04 Dec 2025 11:50:00 GMT | Why Telegram Can Store Your Messages (And What That Means For You) | Leon Wong 282 | [Read More](https://medium.com/p/4ad16f171f9f) |
+| Thu, 04 Dec 2025 11:49:58 GMT | How can Java development services enhance app security? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/0d827cc03229) |
+| Thu, 04 Dec 2025 11:43:44 GMT | Why Security Guard Services Are Essential for Modern Businesses: A Deep Dive Into Today’s Top… | Ciss India | [Read More](https://medium.com/p/c6313d6b102b) |
+| Thu, 04 Dec 2025 11:40:36 GMT | The New Cyber Battlefield: How Cloud Platforms Became the Frontline of Attacks | Devam Shah | [Read More](https://medium.com/p/e02a57004f67) |
+| Thu, 04 Dec 2025 11:36:18 GMT | Informative Website at Namrata Universal | Anirudha | [Read More](https://medium.com/p/8ce6a1a92bf3) |
+| Thu, 04 Dec 2025 11:35:05 GMT | Salt Lake City PPC Management: A Complete, In-Depth Guide to Winning Paid Ads | Hary Battler | [Read More](https://medium.com/p/5b0f6b05b16d) |
 | Thu, 04 Dec 2025 11:24:56 GMT | When Seeing Isn’t Believing: Why Your Next Boss Should Be a Blockchain | George Lwanda | [Read More](https://medium.com/p/f515303cd4ca) |
 | Thu, 04 Dec 2025 11:10:03 GMT | TryHackMEVMs: Startup | Justin Jude Cabodil | [Read More](https://medium.com/p/f1847c348587) |
 | Thu, 04 Dec 2025 11:07:26 GMT | What is Fileless Malware? - VIIEGO | Rolando | [Read More](https://medium.com/p/f0655b505c5d) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 06:35:51 GMT | Sanchar Saathi: India’s Big Telecom Security Bet — and the Privacy Debate It Sparked | Shrinivas Nadager | [Read More](https://medium.com/p/fa4c1f744f39) |
 | Thu, 04 Dec 2025 06:34:06 GMT | The Role of Cybersecurity in Protecting Personal Data | Globalblogingspark | [Read More](https://medium.com/p/ced223270d90) |
 | Thu, 04 Dec 2025 06:24:51 GMT | Mastering the Basics: Your First 10 NMAP Commands for Cybersecurity | oussama MAJID | [Read More](https://medium.com/p/30062abd1ad2) |
-| Thu, 04 Dec 2025 06:22:32 GMT | Why Construction Site Security Matters More Than Ever in Canada | Hirasarfraz | [Read More](https://medium.com/p/393924737def) |
-| Thu, 04 Dec 2025 06:00:53 GMT | The Copy-Paste That Became a Security Incident: Why AI Makes Old Problems Visible | Ramesh Babu Chayapathi | [Read More](https://medium.com/p/696f04b6712f) |
-| Thu, 04 Dec 2025 05:57:53 GMT | From Vibe Coding to Verifiable AI: Why Specifications Matter More Than Ever in the LLM Era | Marcelo Alcantara | [Read More](https://medium.com/p/b46d4cf408a4) |
-| Thu, 04 Dec 2025 05:56:22 GMT | What Is Cyber Threat Intelligence? Understanding the Backbone of Modern Security | Maxatlasofficial | [Read More](https://medium.com/p/bf4c944f092c) |
-| Thu, 04 Dec 2025 05:56:03 GMT | Ignite CTF Walkthrough: Fuel CMS 1.4 RCE to Root | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/a89656674e4a) |
-| Thu, 04 Dec 2025 05:54:28 GMT | How Network Packets Actually Travel Across the Internet (Without Magic) | Fateyaly | [Read More](https://medium.com/p/73781d6b7c18) |
-| Thu, 04 Dec 2025 05:51:42 GMT | Smart Contract Auditing: Tackling State Heavy Logic | Illoy Scizceneghposter | [Read More](https://medium.com/p/12346ba60695) |
-| Thu, 04 Dec 2025 05:50:35 GMT | Android’s Upcoming Security Sandbox 3.0 — What It Means for Developers | AndroidLab by Andre | [Read More](https://medium.com/p/8c36c7e27613) |
-| Thu, 04 Dec 2025 05:48:19 GMT | Meta Bug Bounty: “Only Me” Workplace Disclosure | Gl1tch | [Read More](https://medium.com/p/e80eda0c66bb) |
-| Thu, 04 Dec 2025 05:40:44 GMT | Breach Data Harvesting Tools: Technical Analysis of Credential Collection Methods | Abczed | [Read More](https://medium.com/p/27883a6fa584) |
-| Thu, 04 Dec 2025 05:29:03 GMT | How Do Modern DLP Features Help Businesses Prevent Data Leaks? | keyTrackr | [Read More](https://medium.com/p/674905ce9972) |
-| Thu, 04 Dec 2025 05:24:07 GMT | The 5 Apps I Used to Scale My Side Hustle to $10K/Month (My Complete Tech Stack Reveal) | Amit Sharma | [Read More](https://medium.com/p/77dbf6e75ed7) |
-| Thu, 04 Dec 2025 05:21:03 GMT | The Real Business Impact of Downtime: What CEOs Need to Know | Mafiree | [Read More](https://medium.com/p/0c0189ca46d2) |
-| Thu, 04 Dec 2025 05:18:48 GMT | LRU Cache: The Interview Question That Pretends to Be Easy But Secretly Wants to Humiliate You | The Dev Notebook | [Read More](https://medium.com/p/689a8fbef94d) |
-| Thu, 04 Dec 2025 05:01:21 GMT | Software firewalls 101: functions and options | RASHID MUSTAFA | [Read More](https://medium.com/p/4ae83ebdfc97) |
-| Thu, 04 Dec 2025 04:59:37 GMT | Why Your GPS Tracker’s IMEI Number Is the Key to Recovering Your Stolen Car | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/0252e7cca312) |
-| Thu, 04 Dec 2025 04:56:18 GMT | Introducing CVE‑2025‑55182-TOOLS: A Unified Framework for Large‑Scale Detection and Reproduction… | Mingyi Security Lab | [Read More](https://medium.com/p/fb35c34a5171) |
-| Thu, 04 Dec 2025 04:46:13 GMT | Machine Learning Consulting Services Business Model Guide for 2026 | Motherlandlove | [Read More](https://medium.com/p/d398ccf6d69d) |
