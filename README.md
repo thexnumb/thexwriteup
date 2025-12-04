@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 22:15:10 GMT | I completed a cybersecurity assignment that involved writing a Penetration Testing Agreement for… | shola Abhus | [Read More](https://medium.com/p/3c1ac7202203) |
+| Thu, 04 Dec 2025 22:07:46 GMT | From error messages to network diagnostics, uncover the secret protocol that keeps the internet… | Dhrumil Joshi | [Read More](https://medium.com/p/8ee287f3100d) |
+| Thu, 04 Dec 2025 22:00:13 GMT | Open Code Mission — OS Mission v1.0: What We Are Shipping On 31 January 2026 | Graham dePenros | [Read More](https://medium.com/p/e1ae7680a440) |
+| Thu, 04 Dec 2025 21:59:38 GMT | How I discovered some security flaws in a Start-Up | T3sla | [Read More](https://medium.com/p/e870441b9650) |
+| Thu, 04 Dec 2025 21:57:53 GMT | O peso da referência, o silêncio fiel. | Otávio Damichel | [Read More](https://medium.com/p/17d5f4499b77) |
+| Thu, 04 Dec 2025 21:57:00 GMT | Phishing Analysis Fundamentals — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/9aa9221a0a80) |
+| Thu, 04 Dec 2025 21:54:27 GMT | Critical Vulnerabilities in React and Next.js: Everything You Need to Know About React2Shell | Sean Amarasinghe | [Read More](https://medium.com/p/b2e373b7cd03) |
+| Thu, 04 Dec 2025 21:49:41 GMT | Ethical Hacking Assignment: Penetration Testing Agreement | Claudius Thompson | [Read More](https://medium.com/p/714845ce372c) |
+| Thu, 04 Dec 2025 21:47:33 GMT | In-Memory LSASS Dumping | S12 - 0x12Dark Development | [Read More](https://medium.com/p/effceed440f0) |
+| Thu, 04 Dec 2025 21:46:38 GMT | Operationalizing MITRE ATLAS: A Guide to AI Threat Modeling, SIEM Integration, and Incident… | Arsh Riz | [Read More](https://medium.com/p/fcffeb9caa04) |
+| Thu, 04 Dec 2025 21:37:28 GMT | The Hidden War in Your Browser’s Memory: Understanding Memory Corruption Exploits in 2025. | Keylogncoffee | [Read More](https://medium.com/p/dff2e5771f7e) |
 | Thu, 04 Dec 2025 21:19:03 GMT | The Privacy Lie: Why Your VPN Is Useless Against Tracking (And What to Do About It) | Kyle | [Read More](https://medium.com/p/0e3736b45525) |
 | Thu, 04 Dec 2025 21:09:01 GMT | Analyzing the Security Implications of Unlocked Bootloaders | Joseph James (JJ) | [Read More](https://medium.com/p/4aaddb912d97) |
 | Thu, 04 Dec 2025 20:54:59 GMT | CTF MetaRed 2025 (Web) | Red-X | [Read More](https://medium.com/p/dc66d8178a60) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 15:51:14 GMT | Fileless Malware Detection and Analysis Techniques | Esra Kayhan | [Read More](https://medium.com/p/17a042994bd0) |
 | Thu, 04 Dec 2025 15:48:05 GMT | How I Hacked a Reading App and Gained Admin Privileges | Atakan | [Read More](https://medium.com/p/3f90ed62e368) |
 | Thu, 04 Dec 2025 15:44:03 GMT | Critical Alert: Your Next.js Project Could Be Owned by a Single HTTP Request | Roman Tsekov | [Read More](https://medium.com/p/2adedcb6929f) |
-| Thu, 04 Dec 2025 15:40:46 GMT | LetsDefend Challenge — Remote Working (Malicious XLSM Analysis) | Soumodeep Das | [Read More](https://medium.com/p/361a03b99877) |
-| Thu, 04 Dec 2025 15:39:15 GMT | The Trouble with Black-Box AI: Why Responsible AI & LLM Security Matter | Isaac obune | [Read More](https://medium.com/p/3830ecb3c9e4) |
-| Thu, 04 Dec 2025 15:37:46 GMT | How to Insulate a Garage Door (DIY Guide) | Up & Down Garage Door Services | [Read More](https://medium.com/p/711cf83be9be) |
-| Thu, 04 Dec 2025 15:14:03 GMT | From CrPC to BNSS | Aastha Thakker | [Read More](https://medium.com/p/6ab22baaad7a) |
-| Thu, 04 Dec 2025 15:13:47 GMT | “How a Simple Bypass Uncovered Two Critical Flaws in HackerOne’s Security” | Aman Sharma | [Read More](https://medium.com/p/b18d0ac1f9e9) |
-| Thu, 04 Dec 2025 15:11:05 GMT | What Is Ransomware? My Framework. Understanding One of Today’s Biggest Cyber Threats | Fiona Campbell | [Read More](https://medium.com/p/6320ac2ea7d9) |
-| Thu, 04 Dec 2025 15:09:43 GMT | Project Aegis: The Advanced Defensive Payload Neutralizer (ADPN) as a Robust and Adaptive Digital… | Alexis M. Adams’s | [Read More](https://medium.com/p/5427608f61ec) |
-| Thu, 04 Dec 2025 15:09:14 GMT | Breaking Dailymotion: A Private Video Access Control Bypass (Part2) | Osama | [Read More](https://medium.com/p/4a701fa49bb2) |
-| Thu, 04 Dec 2025 15:09:08 GMT | Why Cybersecurity is the invisible engine of the digital Universe | Man in the Data #MitD | [Read More](https://medium.com/p/1c2acb0ec6d5) |
-| Thu, 04 Dec 2025 15:07:49 GMT | Cyber Briefing: 2025.12.04 | CyberMaterial | [Read More](https://medium.com/p/96bdc41f8af4) |
-| Thu, 04 Dec 2025 15:00:02 GMT | Healthcare Cybersecurity and PHI Protection: Security as Patient Safety | IT_Engineer | [Read More](https://medium.com/p/13f439a41e84) |
