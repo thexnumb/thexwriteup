@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 09:22:45 GMT | Best Antivirus for PC: How to Choose the Right Security Software | Manik | [Read More](https://medium.com/p/d26a6a2d3b8e) |
+| Thu, 04 Dec 2025 09:20:09 GMT | Day 3: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/40df6cb1c6cd) |
+| Thu, 04 Dec 2025 09:18:03 GMT | Zero Trust Architecture: Redefining Network Security | F9 Infotech | [Read More](https://medium.com/p/098d73477d62) |
+| Thu, 04 Dec 2025 09:14:49 GMT | How Cloud Hosting Improves Business Speed & Security | Clouds Dubai | [Read More](https://medium.com/p/43a327bc98c7) |
+| Thu, 04 Dec 2025 09:12:19 GMT | Why Some Cells Are Read-Only in FCC — and How Users Can Quickly Find the Root Cause. | Anand Thota | [Read More](https://medium.com/p/0fbfd07f0a0c) |
+| Thu, 04 Dec 2025 09:10:40 GMT | Email Security in the Age of Deepfakes and AI Phishing — What Every Business Must Know in 2025 | ANSI Technologies | [Read More](https://medium.com/p/1a70a6228340) |
+| Thu, 04 Dec 2025 09:08:20 GMT | The Silent Cyber Threat Lurking Inside Your Technology | Redfox Security | [Read More](https://medium.com/p/4523eb2b6cb7) |
+| Thu, 04 Dec 2025 09:05:03 GMT | Elf on the (npm) Shelf: A New Xmas Malware Flood Hits the npm Package Registry | Shibu | [Read More](https://medium.com/p/c7cae7a812da) |
+| Thu, 04 Dec 2025 09:02:09 GMT | How I jail-broke Claude Code OPUS 4.5 | Lev Parfenov | [Read More](https://medium.com/p/1a5f92180cd9) |
+| Thu, 04 Dec 2025 08:52:57 GMT | Speed Secrets: 7 Essential Magento Optimization Hacks for 2026 | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/eb3023fbc9f7) |
+| Thu, 04 Dec 2025 08:45:08 GMT | DPDPA 2025: What Every Business Must Know Now | Vinod Senthil | [Read More](https://medium.com/p/c9f52e3c4798) |
+| Thu, 04 Dec 2025 08:38:01 GMT | Day 3 | Oluwadamilare Adeosun | [Read More](https://medium.com/p/c4121cde538d) |
+| Thu, 04 Dec 2025 08:35:36 GMT | AWS Cognito — The Complete End-to-End Guide (Part 1: Fundamentals) | Ragul Rasalingam | [Read More](https://medium.com/p/350ad0b5c600) |
 | Thu, 04 Dec 2025 08:22:20 GMT | Smart Monitoring Practices for Faster Aramco Certification | Rahman Iqbal | [Read More](https://medium.com/p/03e16cda4022) |
 | Thu, 04 Dec 2025 08:21:38 GMT | Cloudflare Q3 DDoS Threat Report: Record Attacks Surge Hong Kong Ranks 8th Among Global Sources | Breezy Business Channel | [Read More](https://medium.com/p/fd941006386f) |
 | Thu, 04 Dec 2025 08:19:34 GMT | AI Evasion — Foundations [Hack The Box] | Kryptologyst | [Read More](https://medium.com/p/9b558cd46c4c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 02:06:01 GMT | ARP Spoofing & Sniffing: The Silent Threat on Your Local Network | Ajmir khan | [Read More](https://medium.com/p/30d7397e80e8) |
 | Thu, 04 Dec 2025 02:02:13 GMT | Reconnaissance in Hacker’s Life Cycle: How Attackers Gather Information. | Jugal Patel | [Read More](https://medium.com/p/267788edfb1f) |
 | Thu, 04 Dec 2025 02:01:19 GMT | How to Quickly Check If Your Website Is Secure (No Technical Skills Needed) | Vulnersight | [Read More](https://medium.com/p/bd90b02a5119) |
-| Thu, 04 Dec 2025 01:58:16 GMT | Apple Private Relay Explained for Modern Cyber Security Teams | Jbird | [Read More](https://medium.com/p/3811bd84ac18) |
-| Thu, 04 Dec 2025 01:55:24 GMT | Understanding DNS Poisoning: How Attackers Trick Your Browser | Raviteja Mureboina | [Read More](https://medium.com/p/a8b384bf2aa2) |
-| Thu, 04 Dec 2025 01:52:29 GMT | The Hidden Soft Spot: Embracing Vulnerability When Strength Fades | Austi Gene | [Read More](https://medium.com/p/5b0a874ef616) |
-| Thu, 04 Dec 2025 01:50:10 GMT | Clue - PG - Walkthrough | Vladimir Cuc | [Read More](https://medium.com/p/a365256d50e4) |
-| Thu, 04 Dec 2025 01:40:04 GMT | 15 Ways to Perform API Reconnaissance for Every CyberSecurity Engineer (A Complete Guide) | Mudassir Syed | [Read More](https://medium.com/p/889781c3c940) |
-| Thu, 04 Dec 2025 01:39:45 GMT | THM Advent of Cyber 2025 Day 3 | ZeakPeak | [Read More](https://medium.com/p/6b984a387e21) |
-| Thu, 04 Dec 2025 01:31:30 GMT | DC3 vulnlabWalkthrough | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/124ef8ff119d) |
-| Thu, 04 Dec 2025 01:25:10 GMT | The Ghost in the Machine | Chris Perkins | [Read More](https://medium.com/p/76f4b43f07ff) |
-| Thu, 04 Dec 2025 01:13:50 GMT | WordPress Malware Removal - Penetration Testing & Cybersecurity Expertise | Osman Goni | [Read More](https://medium.com/p/2b0c5f22a5ae) |
-| Thu, 04 Dec 2025 01:10:56 GMT | “Which is more important on a first date: being funny or being interesting?” | Miss Matchmaker AFA - Thailand | [Read More](https://medium.com/p/63afebd8e5f7) |
-| Thu, 04 Dec 2025 00:58:22 GMT | Zero In on Targets: Automating the Modern Attack Surface  with ZeroRecon | Nmullenski | [Read More](https://medium.com/p/b373e5b45867) |
-| Thu, 04 Dec 2025 00:51:57 GMT | The Coupang Breach: A Global Wake-Up Call on Insider Risk and Detection | Ryunda | [Read More](https://medium.com/p/9e8e3a72f252) |
-| Thu, 04 Dec 2025 00:39:43 GMT | Criminal IP Knowledge Hub: Technical Insights | Criminal IP | [Read More](https://medium.com/p/6f1aece050ae) |
