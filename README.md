@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 03:51:29 GMT | Breaking the Sandbox: DOM XSS in AngularJS Expressions | Delmed | [Read More](https://medium.com/p/e36ff36da48b) |
+| Thu, 04 Dec 2025 03:46:04 GMT | Secure Password Code | Mersadi Freeman | [Read More](https://medium.com/p/ab4d5fb92685) |
+| Thu, 04 Dec 2025 03:44:03 GMT | AI-Driven Cyber Attacks: The New Normal (2025 Edition) | Paritosh | [Read More](https://medium.com/p/b3da62a1337f) |
+| Thu, 04 Dec 2025 03:42:09 GMT | Review: AI Agents Driving ROI by CBInsights | Manuel Tress | [Read More](https://medium.com/p/cd73ab451aea) |
+| Thu, 04 Dec 2025 03:36:39 GMT | CHAPTER 3 - THE QUBIT: WHEN “MAYBE” BECAME A COMPUTING POWER | Shadlymaliyekkal | [Read More](https://medium.com/p/31edd6d1a649) |
+| Thu, 04 Dec 2025 03:35:51 GMT | Cybersecurity for Community Networks: Protecting Users in High-Density, Shared-Spectrum… | Thoko Miya | [Read More](https://medium.com/p/3d580de7511c) |
+| Thu, 04 Dec 2025 03:32:28 GMT | The Serpent in the System: How Python Malware Hides Inside Trusted Windows Processes | Deven Chhajed | [Read More](https://medium.com/p/67077541e65c) |
 | Thu, 04 Dec 2025 02:55:28 GMT | Most Organizations Say They Have “Force Protection”… | Peter Uliano | [Read More](https://medium.com/p/64dfe168bee0) |
 | Thu, 04 Dec 2025 02:42:10 GMT | The Hidden Struggle: Finding Strength in Vulnerability | Mabel Harris | [Read More](https://medium.com/p/4314eaf2b83d) |
 | Thu, 04 Dec 2025 02:39:40 GMT | Tutorial: Setup Audit Logging for Kubernetes. | lchlaw | [Read More](https://medium.com/p/ed4c9af0bedc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 18:15:42 GMT | How a 2FA Bypass Bug Funded My EJPT Journey | Dinesh Narasimhan | [Read More](https://medium.com/p/b8836989327f) |
 | Wed, 03 Dec 2025 18:08:32 GMT | The Job Nobody Trained You For: Surviving the “CISO Compass” Reality | Amrik  Hanjra | [Read More](https://medium.com/p/7929c8bb6f56) |
 | Wed, 03 Dec 2025 17:59:14 GMT | The Phoenix Project: How a 2013 Business Novel Predicted Every Tech Disaster You’re Living Through | Amrik  Hanjra | [Read More](https://medium.com/p/49b34928b180) |
-| Wed, 03 Dec 2025 17:51:01 GMT | Defend With Me: Splunk Basics — Did you SIEM? Advent of Cyber 2025 Day 3 | mikesploit | [Read More](https://medium.com/p/b63c8dd2068e) |
-| Wed, 03 Dec 2025 17:50:17 GMT | CVE‑2025‑55182 & CVE‑2025‑66478: React 19 and Next.js Critical Unauthenticated RCE Vulnerabilities | gm0 | [Read More](https://medium.com/p/357c8137e45c) |
-| Wed, 03 Dec 2025 17:49:33 GMT | Identity Theft Is Exploding: Here’s What It Really Means and How You Can Protect Yourself | Paritosh | [Read More](https://medium.com/p/e292b9ac0fcc) |
-| Wed, 03 Dec 2025 17:45:45 GMT | Alert: The Cybersecurity Crisis of 2025 Is Out of Control. | Hachtechnology | [Read More](https://medium.com/p/f8a86c73c474) |
-| Wed, 03 Dec 2025 17:40:32 GMT | The Benford’s Law of Bullshit: Why You Can’t Fake Reality | Harishwar | [Read More](https://medium.com/p/5c6d047505df) |
-| Wed, 03 Dec 2025 17:37:07 GMT | Software Compliance Checklist : Must-Have Features for Secure & Regulatory-Ready Business… | Blog Chip | [Read More](https://medium.com/p/936218f06c7a) |
-| Wed, 03 Dec 2025 17:33:19 GMT | Case Study: How I Found Four Critical Vulnerabilities in a Popular Lightning Network Python SDK | LETCHU PKT | [Read More](https://medium.com/p/08318d77613c) |
