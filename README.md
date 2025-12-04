@@ -12,9 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 23:17:54 GMT | AI Weaponization Is Easier Than We Think | Farhan Nasir | [Read More](https://medium.com/p/3099b24b45c9) |
 | Thu, 04 Dec 2025 22:52:48 GMT | Need 24/7 Security? We’ve Got You Covered! | Visual Monitoring Solutions | [Read More](https://medium.com/p/0d006273793b) |
 | Thu, 04 Dec 2025 22:52:47 GMT | I am writting a pentest agreement | Umoru Martha Nkem | [Read More](https://medium.com/p/6aaf977bc7d4) |
 | Thu, 04 Dec 2025 22:46:34 GMT | Day 4: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/81579f934dca) |
+| Thu, 04 Dec 2025 22:29:06 GMT | TwoMillion — HackTheBox — Walkthrough | Mauricio Antonio | [Read More](https://medium.com/p/62c906f1e94c) |
 | Thu, 04 Dec 2025 22:18:51 GMT | Prompt Engineering the Mirage of AI Advancement | Ahsan | [Read More](https://medium.com/p/3373abf031d4) |
 | Thu, 04 Dec 2025 22:15:10 GMT | I completed a cybersecurity assignment that involved writing a Penetration Testing Agreement for… | shola Abhus | [Read More](https://medium.com/p/3c1ac7202203) |
 | Thu, 04 Dec 2025 22:07:46 GMT | From error messages to network diagnostics, uncover the secret protocol that keeps the internet… | Dhrumil Joshi | [Read More](https://medium.com/p/8ee287f3100d) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 16:02:51 GMT | Smart Online Habits That Strengthen Your Digital Safety | Geoffrey Wenger | [Read More](https://medium.com/p/a9246c99703e) |
 | Thu, 04 Dec 2025 16:02:39 GMT | Smart Protection Strategies For Today’s Mobile Threats | Geoffrey Wenger | [Read More](https://medium.com/p/90e66a4734d9) |
 | Thu, 04 Dec 2025 16:00:34 GMT | Commonwealth Bank — Responding to a Cybersecurity Incident | Javier | [Read More](https://medium.com/p/c3848a50cdac) |
-| Thu, 04 Dec 2025 15:57:41 GMT | Voucher Cloud Computing e Cybersecurity | Consulenza 360 Srl | [Read More](https://medium.com/p/f1c61751aa8e) |
-| Thu, 04 Dec 2025 15:52:17 GMT | How Close Are We to a Cyber-Driven Citywide Water Outage? | Wes Young | [Read More](https://medium.com/p/157169b3794c) |
