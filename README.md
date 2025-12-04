@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 16:25:20 GMT | The Silent Shift in Cybercrime: Why Hackers No Longer Need Ransomware to Break You | Germano Costi | [Read More](https://medium.com/p/509461cb0d10) |
+| Thu, 04 Dec 2025 16:20:21 GMT | Gainesville Businesses Under Siege: The Hidden Cost of Cybersecurity Gaps | Anu Shreejit | [Read More](https://medium.com/p/fee895535a24) |
+| Thu, 04 Dec 2025 16:19:48 GMT | How a Windows OS Can Be Hacked: Breaking Down Real Attack Methods | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/5b38547cf16a) |
+| Thu, 04 Dec 2025 16:11:16 GMT | “Metadata Leaks: What They Are, Why They Matter, and How Hackers Use Them” | Moganti Nehanth | [Read More](https://medium.com/p/4cbe6ef7e08c) |
+| Thu, 04 Dec 2025 16:02:51 GMT | Smart Online Habits That Strengthen Your Digital Safety | Geoffrey Wenger | [Read More](https://medium.com/p/a9246c99703e) |
+| Thu, 04 Dec 2025 16:02:39 GMT | Smart Protection Strategies For Today’s Mobile Threats | Geoffrey Wenger | [Read More](https://medium.com/p/90e66a4734d9) |
+| Thu, 04 Dec 2025 16:00:34 GMT | Commonwealth Bank — Responding to a Cybersecurity Incident | Javier | [Read More](https://medium.com/p/c3848a50cdac) |
+| Thu, 04 Dec 2025 15:57:41 GMT | Voucher Cloud Computing e Cybersecurity | Consulenza 360 Srl | [Read More](https://medium.com/p/f1c61751aa8e) |
+| Thu, 04 Dec 2025 15:52:17 GMT | How Close Are We to a Cyber-Driven Citywide Water Outage? | Wes Young | [Read More](https://medium.com/p/157169b3794c) |
+| Thu, 04 Dec 2025 15:52:14 GMT | The Season That Exposed Digital Deception | Decentr | [Read More](https://medium.com/p/216b1d60dbd3) |
+| Thu, 04 Dec 2025 15:51:14 GMT | Fileless Malware Detection and Analysis Techniques | Esra Kayhan | [Read More](https://medium.com/p/17a042994bd0) |
+| Thu, 04 Dec 2025 15:48:05 GMT | How I Hacked a Reading App and Gained Admin Privileges | Atakan | [Read More](https://medium.com/p/3f90ed62e368) |
 | Thu, 04 Dec 2025 15:44:03 GMT | Critical Alert: Your Next.js Project Could Be Owned by a Single HTTP Request | Roman Tsekov | [Read More](https://medium.com/p/2adedcb6929f) |
 | Thu, 04 Dec 2025 15:40:46 GMT | LetsDefend Challenge — Remote Working (Malicious XLSM Analysis) | Soumodeep Das | [Read More](https://medium.com/p/361a03b99877) |
 | Thu, 04 Dec 2025 15:39:15 GMT | The Trouble with Black-Box AI: Why Responsible AI & LLM Security Matter | Isaac obune | [Read More](https://medium.com/p/3830ecb3c9e4) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 10:30:07 GMT | What Are the Best Security Solutions for Condos in Toronto? | Square Security Inc. | [Read More](https://medium.com/p/a974ec0ea37f) |
 | Thu, 04 Dec 2025 10:24:43 GMT | The Daily Tech Digest: 04 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2cbb426c1185) |
 | Thu, 04 Dec 2025 10:23:24 GMT | The Harrow Tapes — Grace Under Fire | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/1b31ee02e56c) |
-| Thu, 04 Dec 2025 10:16:41 GMT | AI Isn’t as Smart as You Think: How a 25-Year-Old Hack Still Breaks Modern Models | AI Meets Money | [Read More](https://medium.com/p/71d5e9a332c1) |
-| Thu, 04 Dec 2025 10:14:45 GMT | Best Phishing Simulation Services Provider in India - Cybersecurity Services | Samvaskaran | [Read More](https://medium.com/p/2f65ff6f1777) |
-| Thu, 04 Dec 2025 10:03:50 GMT | Advent of Cyber 2025 Day 3 Walkthrough Splunk Basics — Did you SIEM? | Kakashi | [Read More](https://medium.com/p/2c4a1e9beb96) |
-| Thu, 04 Dec 2025 10:03:10 GMT | Ehxb - Inside the Filesystem: The Truth Behind LFI & RFI II | Ehxb | [Read More](https://medium.com/p/46fd781aa4ec) |
-| Thu, 04 Dec 2025 09:56:39 GMT | Deception​‍​‌‍​‍‌​‍​‌‍​‍‌ Technology Solutions in Dubai: Strengthening Your Cybersecurity | Clouds Dubai | [Read More](https://medium.com/p/37855fb54a65) |
-| Thu, 04 Dec 2025 09:41:46 GMT | Holiday Scams are Surging | Century Solutions Group | [Read More](https://medium.com/p/dafa6d3bbf06) |
-| Thu, 04 Dec 2025 09:38:31 GMT | Разследване на фишинг атака към българска държавен орган | Georgi Hadzhinikiforov | [Read More](https://medium.com/p/68ff0900d397) |
-| Thu, 04 Dec 2025 09:38:10 GMT | Investigating Tor Usage in Cybercrime Cases: A Forensic Workflow | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/4fafa6eb0875) |
-| Thu, 04 Dec 2025 09:36:23 GMT | Advent of Cyber Security 2025 — DAY 1 — Side Quest | Jerome Lolong | [Read More](https://medium.com/p/ef9c1982be9b) |
-| Thu, 04 Dec 2025 09:35:40 GMT | The Importance of Military Cybersecurity: Why Digital Defense Is the New Frontline | Tandelpruthvi | [Read More](https://medium.com/p/11e7263a432f) |
-| Thu, 04 Dec 2025 09:35:08 GMT | File Upload Vulnerability to RCE - picoCTF byp4ss3d Full Solution (Step-By-Step) | Debashish Sadhu | [Read More](https://medium.com/p/05e95dcba2b8) |
-| Thu, 04 Dec 2025 09:26:13 GMT | CORS Hell: When Azure App Service Settings Override Your Code | Muhammed Agbaje | [Read More](https://medium.com/p/e48ab9e997a3) |
