@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 15:44:03 GMT | Critical Alert: Your Next.js Project Could Be Owned by a Single HTTP Request | Roman Tsekov | [Read More](https://medium.com/p/2adedcb6929f) |
+| Thu, 04 Dec 2025 15:40:46 GMT | LetsDefend Challenge — Remote Working (Malicious XLSM Analysis) | Soumodeep Das | [Read More](https://medium.com/p/361a03b99877) |
+| Thu, 04 Dec 2025 15:39:15 GMT | The Trouble with Black-Box AI: Why Responsible AI & LLM Security Matter | Isaac obune | [Read More](https://medium.com/p/3830ecb3c9e4) |
+| Thu, 04 Dec 2025 15:37:46 GMT | How to Insulate a Garage Door (DIY Guide) | Up & Down Garage Door Services | [Read More](https://medium.com/p/711cf83be9be) |
+| Thu, 04 Dec 2025 15:14:03 GMT | From CrPC to BNSS | Aastha Thakker | [Read More](https://medium.com/p/6ab22baaad7a) |
 | Thu, 04 Dec 2025 15:13:47 GMT | “How a Simple Bypass Uncovered Two Critical Flaws in HackerOne’s Security” | Aman Sharma | [Read More](https://medium.com/p/b18d0ac1f9e9) |
 | Thu, 04 Dec 2025 15:11:05 GMT | What Is Ransomware? My Framework. Understanding One of Today’s Biggest Cyber Threats | Fiona Campbell | [Read More](https://medium.com/p/6320ac2ea7d9) |
 | Thu, 04 Dec 2025 15:09:43 GMT | Project Aegis: The Advanced Defensive Payload Neutralizer (ADPN) as a Robust and Adaptive Digital… | Alexis M. Adams’s | [Read More](https://medium.com/p/5427608f61ec) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 09:35:40 GMT | The Importance of Military Cybersecurity: Why Digital Defense Is the New Frontline | Tandelpruthvi | [Read More](https://medium.com/p/11e7263a432f) |
 | Thu, 04 Dec 2025 09:35:08 GMT | File Upload Vulnerability to RCE - picoCTF byp4ss3d Full Solution (Step-By-Step) | Debashish Sadhu | [Read More](https://medium.com/p/05e95dcba2b8) |
 | Thu, 04 Dec 2025 09:26:13 GMT | CORS Hell: When Azure App Service Settings Override Your Code | Muhammed Agbaje | [Read More](https://medium.com/p/e48ab9e997a3) |
-| Thu, 04 Dec 2025 09:22:45 GMT | Best Antivirus for PC: How to Choose the Right Security Software | Manik | [Read More](https://medium.com/p/d26a6a2d3b8e) |
-| Thu, 04 Dec 2025 09:20:09 GMT | Day 3: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/40df6cb1c6cd) |
-| Thu, 04 Dec 2025 09:18:03 GMT | Zero Trust Architecture: Redefining Network Security | F9 Infotech | [Read More](https://medium.com/p/098d73477d62) |
-| Thu, 04 Dec 2025 09:14:49 GMT | How Cloud Hosting Improves Business Speed & Security | Clouds Dubai | [Read More](https://medium.com/p/43a327bc98c7) |
-| Thu, 04 Dec 2025 09:12:19 GMT | Why Some Cells Are Read-Only in FCC — and How Users Can Quickly Find the Root Cause. | Anand Thota | [Read More](https://medium.com/p/0fbfd07f0a0c) |
