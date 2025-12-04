@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 22:18:51 GMT | Prompt Engineering the Mirage of AI Advancement | Ahsan | [Read More](https://medium.com/p/3373abf031d4) |
 | Thu, 04 Dec 2025 22:15:10 GMT | I completed a cybersecurity assignment that involved writing a Penetration Testing Agreement for… | shola Abhus | [Read More](https://medium.com/p/3c1ac7202203) |
 | Thu, 04 Dec 2025 22:07:46 GMT | From error messages to network diagnostics, uncover the secret protocol that keeps the internet… | Dhrumil Joshi | [Read More](https://medium.com/p/8ee287f3100d) |
 | Thu, 04 Dec 2025 22:00:13 GMT | Open Code Mission — OS Mission v1.0: What We Are Shipping On 31 January 2026 | Graham dePenros | [Read More](https://medium.com/p/e1ae7680a440) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 15:52:14 GMT | The Season That Exposed Digital Deception | Decentr | [Read More](https://medium.com/p/216b1d60dbd3) |
 | Thu, 04 Dec 2025 15:51:14 GMT | Fileless Malware Detection and Analysis Techniques | Esra Kayhan | [Read More](https://medium.com/p/17a042994bd0) |
 | Thu, 04 Dec 2025 15:48:05 GMT | How I Hacked a Reading App and Gained Admin Privileges | Atakan | [Read More](https://medium.com/p/3f90ed62e368) |
-| Thu, 04 Dec 2025 15:44:03 GMT | Critical Alert: Your Next.js Project Could Be Owned by a Single HTTP Request | Roman Tsekov | [Read More](https://medium.com/p/2adedcb6929f) |
