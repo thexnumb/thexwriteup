@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 10:40:16 GMT | View Once Photo Re-Accessible via “Edit with AI” in Messenger | Sameer Ali | [Read More](https://medium.com/p/d6c90767000c) |
+| Thu, 04 Dec 2025 10:33:11 GMT | The Last Original Print: Preserving Human Insight in the Era of AI | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/9516b2838c9a) |
+| Thu, 04 Dec 2025 10:31:09 GMT | Cheap Websites South Africa: The Complete Guide to Affordable Web Design for Small Businesses | Ava Jones | [Read More](https://medium.com/p/71ac5f4241ad) |
+| Thu, 04 Dec 2025 10:30:12 GMT | Active Directory Attack Detection Lab: Building a Mini SOC Environment | Ali Raza | [Read More](https://medium.com/p/a966e2c5d5b5) |
+| Thu, 04 Dec 2025 10:30:07 GMT | What Are the Best Security Solutions for Condos in Toronto? | Square Security Inc. | [Read More](https://medium.com/p/a974ec0ea37f) |
 | Thu, 04 Dec 2025 10:24:43 GMT | The Daily Tech Digest: 04 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2cbb426c1185) |
+| Thu, 04 Dec 2025 10:23:24 GMT | The Harrow Tapes — Grace Under Fire | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/1b31ee02e56c) |
 | Thu, 04 Dec 2025 10:16:41 GMT | AI Isn’t as Smart as You Think: How a 25-Year-Old Hack Still Breaks Modern Models | AI Meets Money | [Read More](https://medium.com/p/71d5e9a332c1) |
 | Thu, 04 Dec 2025 10:14:45 GMT | Best Phishing Simulation Services Provider in India - Cybersecurity Services | Samvaskaran | [Read More](https://medium.com/p/2f65ff6f1777) |
 | Thu, 04 Dec 2025 10:03:50 GMT | Advent of Cyber 2025 Day 3 Walkthrough Splunk Basics — Did you SIEM? | Kakashi | [Read More](https://medium.com/p/2c4a1e9beb96) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 04:10:55 GMT | The Future of Cybersecurity in the Microsoft Ecosystem | Sudhakar Tiwari | [Read More](https://medium.com/p/b260b14056d1) |
 | Thu, 04 Dec 2025 04:08:49 GMT | TryHack3M: Bricks Heist — From RCE to Ransomware Infrastructure | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/200601a87489) |
 | Thu, 04 Dec 2025 04:05:16 GMT | How a Single Command Shifted My Entire Life’s Direction | Tyreek Haynes | [Read More](https://medium.com/p/8e637c69e339) |
-| Thu, 04 Dec 2025 04:03:39 GMT | Bug of the Week: The Earwig A Misunderstood Little Critter | Destiny May | [Read More](https://medium.com/p/8efa1ef0e953) |
-| Thu, 04 Dec 2025 03:51:29 GMT | Breaking the Sandbox: DOM XSS in AngularJS Expressions | Delmed | [Read More](https://medium.com/p/e36ff36da48b) |
-| Thu, 04 Dec 2025 03:46:04 GMT | Secure Password Code | Mersadi Freeman | [Read More](https://medium.com/p/ab4d5fb92685) |
-| Thu, 04 Dec 2025 03:44:03 GMT | AI-Driven Cyber Attacks: The New Normal (2025 Edition) | Paritosh | [Read More](https://medium.com/p/b3da62a1337f) |
-| Thu, 04 Dec 2025 03:42:09 GMT | Review: AI Agents Driving ROI by CBInsights | Manuel Tress | [Read More](https://medium.com/p/cd73ab451aea) |
-| Thu, 04 Dec 2025 03:36:39 GMT | CHAPTER 3 - THE QUBIT: WHEN “MAYBE” BECAME A COMPUTING POWER | Shadlymaliyekkal | [Read More](https://medium.com/p/31edd6d1a649) |
