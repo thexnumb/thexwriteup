@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 04:59:37 GMT | Why Your GPS Tracker’s IMEI Number Is the Key to Recovering Your Stolen Car | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/0252e7cca312) |
+| Thu, 04 Dec 2025 04:56:18 GMT | Introducing CVE‑2025‑55182-TOOLS: A Unified Framework for Large‑Scale Detection and Reproduction… | Mingyi Security Lab | [Read More](https://medium.com/p/fb35c34a5171) |
+| Thu, 04 Dec 2025 04:45:36 GMT | What is Google Dorking? | Sreeshnu P S | [Read More](https://medium.com/p/2c3ffb78a788) |
+| Thu, 04 Dec 2025 04:39:52 GMT | How to Achieve Cybersecurity Compliance Certificate Aramco for Your Business | Kadhijahafiya | [Read More](https://medium.com/p/79a13be7e87b) |
 | Thu, 04 Dec 2025 04:34:31 GMT | Phishing — Merry Clickmas - Walkthrough - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/7985b1cb641e) |
 | Thu, 04 Dec 2025 04:28:48 GMT | Advent of Cyber 2025 {All ROOMS Update daily} — Tryhackme walkthrough | TRedEye | [Read More](https://medium.com/p/d33afa9128bc) |
 | Thu, 04 Dec 2025 04:22:35 GMT | Microsoft Entra: The New Foundation of Identity Security | Sudhakar Tiwari | [Read More](https://medium.com/p/7524c0d7ca40) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 18:51:28 GMT | The Best Version of Wireshark for Ubuntu 24.04 (And the Fastest Way to Install It) | ghostyjoe | [Read More](https://medium.com/p/77fd6b4634a8) |
 | Wed, 03 Dec 2025 18:46:25 GMT | Building Reliable AI Agents: A Practical Framework for Structure, Orchestration, and Quality | Welliton Gervickas | [Read More](https://medium.com/p/87526b95f91d) |
 | Wed, 03 Dec 2025 18:46:09 GMT | How to Build a Pentesting Home Lab: Part 3-The Linux Command Line | Jamie Omarr | [Read More](https://medium.com/p/504a9cb5d900) |
-| Wed, 03 Dec 2025 18:45:17 GMT | How to Build a Pentesting Home Lab: Part 2- Installing Metasploitable 2 on Virtual Box | Jamie Omarr | [Read More](https://medium.com/p/230292b02c41) |
-| Wed, 03 Dec 2025 18:45:07 GMT | Friendship in the Digital Age | Swati Roshan Patil | [Read More](https://medium.com/p/3ea93369f224) |
-| Wed, 03 Dec 2025 18:42:18 GMT | Hybrid Architectures Are Becoming the New Digital Infrastructure | André Afonso Silva | [Read More](https://medium.com/p/1b51acd1910a) |
-| Wed, 03 Dec 2025 18:42:06 GMT | eJPT Prep - Host & Network Penetration Testing: Network-Based Attacks CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/1dafa2e3acfd) |
