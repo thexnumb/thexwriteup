@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 21:19:03 GMT | The Privacy Lie: Why Your VPN Is Useless Against Tracking (And What to Do About It) | Kyle | [Read More](https://medium.com/p/0e3736b45525) |
+| Thu, 04 Dec 2025 21:09:01 GMT | Analyzing the Security Implications of Unlocked Bootloaders | Joseph James (JJ) | [Read More](https://medium.com/p/4aaddb912d97) |
 | Thu, 04 Dec 2025 20:54:59 GMT | CTF MetaRed 2025 (Web) | Red-X | [Read More](https://medium.com/p/dc66d8178a60) |
 | Thu, 04 Dec 2025 20:50:40 GMT | Abusing WerFaultSecure.exe to Freeze EDR or Dump LSASS: A Clear Look at a Powerful PPL Bypass | Keontre Walker | [Read More](https://medium.com/p/d0ec27a6b6b2) |
 | Thu, 04 Dec 2025 20:47:38 GMT | Ignore the R-rated finger gestures (#HealthcareAfterDark) and listen to Jason Elrod insights on how… | Matthew.Rosenquist | [Read More](https://medium.com/p/d0794bf32f2b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 15:09:08 GMT | Why Cybersecurity is the invisible engine of the digital Universe | Man in the Data #MitD | [Read More](https://medium.com/p/1c2acb0ec6d5) |
 | Thu, 04 Dec 2025 15:07:49 GMT | Cyber Briefing: 2025.12.04 | CyberMaterial | [Read More](https://medium.com/p/96bdc41f8af4) |
 | Thu, 04 Dec 2025 15:00:02 GMT | Healthcare Cybersecurity and PHI Protection: Security as Patient Safety | IT_Engineer | [Read More](https://medium.com/p/13f439a41e84) |
-| Thu, 04 Dec 2025 14:52:30 GMT | Best Beginner’s Guide For Cybersecurity Recon with Python | Scofield O. Idehen | [Read More](https://medium.com/p/8e73aefd0472) |
-| Thu, 04 Dec 2025 14:50:20 GMT | Solving THM Advent of Cyber — Chapter 1 (202): A Complete Walkthrough | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/09f9471e5ed6) |
