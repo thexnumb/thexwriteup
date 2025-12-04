@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 01:31:30 GMT | DC3 vulnlabWalkthrough | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/124ef8ff119d) |
+| Thu, 04 Dec 2025 01:25:10 GMT | The Ghost in the Machine | Chris Perkins | [Read More](https://medium.com/p/76f4b43f07ff) |
+| Thu, 04 Dec 2025 01:13:50 GMT | WordPress Malware Removal - Penetration Testing & Cybersecurity Expertise | Osman Goni | [Read More](https://medium.com/p/2b0c5f22a5ae) |
+| Thu, 04 Dec 2025 01:10:56 GMT | “Which is more important on a first date: being funny or being interesting?” | Miss Matchmaker AFA - Thailand | [Read More](https://medium.com/p/63afebd8e5f7) |
+| Thu, 04 Dec 2025 00:51:57 GMT | The Coupang Breach: A Global Wake-Up Call on Insider Risk and Detection | Ryunda | [Read More](https://medium.com/p/9e8e3a72f252) |
+| Thu, 04 Dec 2025 00:39:43 GMT | Criminal IP Knowledge Hub: Technical Insights | Criminal IP | [Read More](https://medium.com/p/6f1aece050ae) |
+| Thu, 04 Dec 2025 00:14:22 GMT | 30 Days of Red Team: Day 11 — C2 Communication Channels (When Your Primary Lifeline Gets Cut) | Maxwell Cross | [Read More](https://medium.com/p/1f368c53555e) |
+| Thu, 04 Dec 2025 00:12:11 GMT | “Peekaboo: The PikaBot Playbook” | Morgan E | [Read More](https://medium.com/p/78f2bd0b7807) |
+| Thu, 04 Dec 2025 00:00:18 GMT | Apple Pay vs Google Pay: The Hidden Security Difference Everyone Should Know in 2025 | Vikram Reddy | [Read More](https://medium.com/p/c8bda09aba03) |
+| Wed, 03 Dec 2025 23:53:22 GMT | Everything You Need to Start a Career in IT/Data & AI — And Grow Fast | SattiData | [Read More](https://medium.com/p/776e070d61a9) |
+| Wed, 03 Dec 2025 23:45:23 GMT | Run a Free Domain Leak Check Before Your Next Security Review | Alexandre Vandamme | [Read More](https://medium.com/p/62beca53b00f) |
 | Wed, 03 Dec 2025 23:35:05 GMT | I Built 12 Security Programs from Zero. Here’s the First 30 Days CEOs Should Demand | Tyson Martin | [Read More](https://medium.com/p/de11f5f3a59f) |
 | Wed, 03 Dec 2025 23:31:44 GMT | Making Sense of the GDPR | Financial Poise | [Read More](https://medium.com/p/f6b72a458a9d) |
 | Wed, 03 Dec 2025 23:26:26 GMT | TryHackMe-TakeOver-WriteUp | GUERD Nawal | [Read More](https://medium.com/p/ee20869dacff) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 16:37:57 GMT | Blind-XSS Escalated from HTMLi | Mustafa Abdullah | [Read More](https://medium.com/p/4c7658660151) |
 | Wed, 03 Dec 2025 16:24:43 GMT | Where I See Cybersecurity in 2026 — Through the Lens of AppSec & Pentesting | Mark Babcock | [Read More](https://medium.com/p/430eca6f5c47) |
 | Wed, 03 Dec 2025 16:24:37 GMT | The Hidden Internet Under The Internet | Abdullah Javeed | [Read More](https://medium.com/p/688b059cd01e) |
-| Wed, 03 Dec 2025 16:22:28 GMT | The Day I Accidentally Became a Network Security Enthusiast | Mubashir | [Read More](https://medium.com/p/d176827594dc) |
-| Wed, 03 Dec 2025 16:21:52 GMT | Let it be known: I was once the sole advocate of my feelings | lifeofthegiver | [Read More](https://medium.com/p/f3a3ee54a4a7) |
-| Wed, 03 Dec 2025 16:20:35 GMT | The Safety Paradox: Why We Fear Violence But Neglect Education | Antonio Isidio de Queiroz Neto | [Read More](https://medium.com/p/2006a699fe95) |
-| Wed, 03 Dec 2025 16:19:52 GMT | Book Southwest flights for 2,000 points | Daily Drop | [Read More](https://medium.com/p/2f7017e58798) |
-| Wed, 03 Dec 2025 16:17:53 GMT | Building a “Fortress” Kubernetes Cluster: Talos Linux, Proxmox, and Network Isolation | Joris Vilardell | [Read More](https://medium.com/p/15444968fb06) |
-| Wed, 03 Dec 2025 16:16:08 GMT | Designing Secure Financial Applications in a Web2 & Web3 World | Travis van der Font | [Read More](https://medium.com/p/b7df452ffc80) |
-| Wed, 03 Dec 2025 16:14:46 GMT | 5 Lessons for Leading Sustained Growth — From Someone Who’s Actually Done It | Jeff Vosburg | [Read More](https://medium.com/p/c193531cc48d) |
-| Wed, 03 Dec 2025 16:13:59 GMT | Advent of Cyber 2025 Day2 — Merry Clickmas. | Khadijat Suleman | [Read More](https://medium.com/p/aa944806bc63) |
-| Wed, 03 Dec 2025 16:12:45 GMT | LetsDefend Challenge — Malicious Doc | Soumodeep Das | [Read More](https://medium.com/p/15027283c213) |
-| Wed, 03 Dec 2025 16:10:25 GMT | Twenty-Four Hours from Earth: Compliance, Continuity, and the Voyager 1 Milestone | Brian Haman | [Read More](https://medium.com/p/577132dc0c71) |
-| Wed, 03 Dec 2025 16:09:55 GMT | [CyberDefenders Write-up] APT35 (Android & FakeVPN application malware analysis) | Chicken0248 | [Read More](https://medium.com/p/22a2f8ef73b4) |
