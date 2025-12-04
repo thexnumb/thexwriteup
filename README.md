@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 15:13:47 GMT | “How a Simple Bypass Uncovered Two Critical Flaws in HackerOne’s Security” | Aman Sharma | [Read More](https://medium.com/p/b18d0ac1f9e9) |
+| Thu, 04 Dec 2025 15:11:05 GMT | What Is Ransomware? My Framework. Understanding One of Today’s Biggest Cyber Threats | Fiona Campbell | [Read More](https://medium.com/p/6320ac2ea7d9) |
+| Thu, 04 Dec 2025 15:09:43 GMT | Project Aegis: The Advanced Defensive Payload Neutralizer (ADPN) as a Robust and Adaptive Digital… | Alexis M. Adams’s | [Read More](https://medium.com/p/5427608f61ec) |
+| Thu, 04 Dec 2025 15:09:14 GMT | Breaking Dailymotion: A Private Video Access Control Bypass (Part2) | Osama | [Read More](https://medium.com/p/4a701fa49bb2) |
+| Thu, 04 Dec 2025 15:09:08 GMT | Why Cybersecurity is the invisible engine of the digital Universe | Man in the Data #MitD | [Read More](https://medium.com/p/1c2acb0ec6d5) |
+| Thu, 04 Dec 2025 15:07:49 GMT | Cyber Briefing: 2025.12.04 | CyberMaterial | [Read More](https://medium.com/p/96bdc41f8af4) |
+| Thu, 04 Dec 2025 15:00:02 GMT | Healthcare Cybersecurity and PHI Protection: Security as Patient Safety | IT_Engineer | [Read More](https://medium.com/p/13f439a41e84) |
+| Thu, 04 Dec 2025 14:52:30 GMT | Best Beginner’s Guide For Cybersecurity Recon with Python | Scofield O. Idehen | [Read More](https://medium.com/p/8e73aefd0472) |
+| Thu, 04 Dec 2025 14:50:20 GMT | Solving THM Advent of Cyber — Chapter 1 (202): A Complete Walkthrough | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/09f9471e5ed6) |
+| Thu, 04 Dec 2025 14:49:10 GMT | How Logic Locking Changes Switching Activity and Makes Hardware Trojans Easier To Detect | Surabhi Misra | [Read More](https://medium.com/p/1946943c81a6) |
+| Thu, 04 Dec 2025 14:48:29 GMT | Sunday - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/e898f7aea677) |
+| Thu, 04 Dec 2025 14:47:38 GMT | Building Your First Malware Payload with NIM | Mr_MalMan | [Read More](https://medium.com/p/0300d5dd9151) |
+| Thu, 04 Dec 2025 14:43:29 GMT | Drafting a Real-World Penetration Testing Agreement — What I Learned as a Cybersecurity Student | Isaac Edzie | [Read More](https://medium.com/p/2728cc95f144) |
 | Thu, 04 Dec 2025 14:34:13 GMT | Discovered an XSS Vulnerability in Your Spring Boot App? | Umesh Kumar Yadav | [Read More](https://medium.com/p/4a5cb126e385) |
 | Thu, 04 Dec 2025 14:32:11 GMT | OSINT Under the Hood: The Search Engine for Everything Else: A Beginner’s Guide to Shodan | Rabail Zaheer | [Read More](https://medium.com/p/09dafe879de8) |
 | Thu, 04 Dec 2025 14:31:42 GMT | DOM XSS in innerHTML Sink (location.search → innerHTML) | Aditya Bhatt | [Read More](https://medium.com/p/343f63a5fc93) |
@@ -62,6 +75,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 11:43:44 GMT | Why Security Guard Services Are Essential for Modern Businesses: A Deep Dive Into Today’s Top… | Ciss India | [Read More](https://medium.com/p/c6313d6b102b) |
 | Thu, 04 Dec 2025 11:40:36 GMT | The New Cyber Battlefield: How Cloud Platforms Became the Frontline of Attacks | Devam Shah | [Read More](https://medium.com/p/e02a57004f67) |
 | Thu, 04 Dec 2025 11:36:18 GMT | Informative Website at Namrata Universal | Anirudha | [Read More](https://medium.com/p/8ce6a1a92bf3) |
+| Thu, 04 Dec 2025 11:36:16 GMT | Is Your VPN Really Protecting You? 4 Surprising Truths About Online Security | Ahmed Adil | [Read More](https://medium.com/p/a1784c589958) |
 | Thu, 04 Dec 2025 11:35:05 GMT | Salt Lake City PPC Management: A Complete, In-Depth Guide to Winning Paid Ads | Hary Battler | [Read More](https://medium.com/p/5b0f6b05b16d) |
 | Thu, 04 Dec 2025 11:24:56 GMT | When Seeing Isn’t Believing: Why Your Next Boss Should Be a Blockchain | George Lwanda | [Read More](https://medium.com/p/f515303cd4ca) |
 | Thu, 04 Dec 2025 11:10:03 GMT | TryHackMEVMs: Startup | Justin Jude Cabodil | [Read More](https://medium.com/p/f1847c348587) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 09:18:03 GMT | Zero Trust Architecture: Redefining Network Security | F9 Infotech | [Read More](https://medium.com/p/098d73477d62) |
 | Thu, 04 Dec 2025 09:14:49 GMT | How Cloud Hosting Improves Business Speed & Security | Clouds Dubai | [Read More](https://medium.com/p/43a327bc98c7) |
 | Thu, 04 Dec 2025 09:12:19 GMT | Why Some Cells Are Read-Only in FCC — and How Users Can Quickly Find the Root Cause. | Anand Thota | [Read More](https://medium.com/p/0fbfd07f0a0c) |
-| Thu, 04 Dec 2025 09:10:40 GMT | Email Security in the Age of Deepfakes and AI Phishing — What Every Business Must Know in 2025 | ANSI Technologies | [Read More](https://medium.com/p/1a70a6228340) |
-| Thu, 04 Dec 2025 09:08:20 GMT | The Silent Cyber Threat Lurking Inside Your Technology | Redfox Security | [Read More](https://medium.com/p/4523eb2b6cb7) |
-| Thu, 04 Dec 2025 09:05:03 GMT | Elf on the (npm) Shelf: A New Xmas Malware Flood Hits the npm Package Registry | Shibu | [Read More](https://medium.com/p/c7cae7a812da) |
-| Thu, 04 Dec 2025 09:02:09 GMT | How I jail-broke Claude Code OPUS 4.5 | Lev Parfenov | [Read More](https://medium.com/p/1a5f92180cd9) |
-| Thu, 04 Dec 2025 08:52:57 GMT | Speed Secrets: 7 Essential Magento Optimization Hacks for 2026 | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/eb3023fbc9f7) |
-| Thu, 04 Dec 2025 08:45:08 GMT | DPDPA 2025: What Every Business Must Know Now | Vinod Senthil | [Read More](https://medium.com/p/c9f52e3c4798) |
-| Thu, 04 Dec 2025 08:38:01 GMT | Day 3 | Oluwadamilare Adeosun | [Read More](https://medium.com/p/c4121cde538d) |
-| Thu, 04 Dec 2025 08:35:36 GMT | AWS Cognito — The Complete End-to-End Guide (Part 1: Fundamentals) | Ragul Rasalingam | [Read More](https://medium.com/p/350ad0b5c600) |
-| Thu, 04 Dec 2025 08:22:20 GMT | Smart Monitoring Practices for Faster Aramco Certification | Rahman Iqbal | [Read More](https://medium.com/p/03e16cda4022) |
-| Thu, 04 Dec 2025 08:21:38 GMT | Cloudflare Q3 DDoS Threat Report: Record Attacks Surge Hong Kong Ranks 8th Among Global Sources | Breezy Business Channel | [Read More](https://medium.com/p/fd941006386f) |
-| Thu, 04 Dec 2025 08:19:34 GMT | AI Evasion — Foundations [Hack The Box] | Kryptologyst | [Read More](https://medium.com/p/9b558cd46c4c) |
-| Thu, 04 Dec 2025 08:16:34 GMT | Winning Nigeria’s Security Battle: A Strategic Path for General Musa | El-yadirf Adokauhil | [Read More](https://medium.com/p/13ce7e18e959) |
-| Thu, 04 Dec 2025 08:13:10 GMT | API Hosting: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/b9a2f6a014cd) |
-| Thu, 04 Dec 2025 08:11:32 GMT | Why Your Team Keeps Dropping the Ball (And It’s Not Their Fault) | Jayal Yadav | [Read More](https://medium.com/p/27400379f69a) |
