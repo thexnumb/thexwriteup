@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 05:40:44 GMT | Breach Data Harvesting Tools: Technical Analysis of Credential Collection Methods | Abczed | [Read More](https://medium.com/p/27883a6fa584) |
+| Thu, 04 Dec 2025 05:29:03 GMT | How Do Modern DLP Features Help Businesses Prevent Data Leaks? | keyTrackr | [Read More](https://medium.com/p/674905ce9972) |
+| Thu, 04 Dec 2025 05:24:07 GMT | The 5 Apps I Used to Scale My Side Hustle to $10K/Month (My Complete Tech Stack Reveal) | Amit Sharma | [Read More](https://medium.com/p/77dbf6e75ed7) |
+| Thu, 04 Dec 2025 05:21:03 GMT | The Real Business Impact of Downtime: What CEOs Need to Know | Mafiree | [Read More](https://medium.com/p/0c0189ca46d2) |
+| Thu, 04 Dec 2025 05:18:48 GMT | LRU Cache: The Interview Question That Pretends to Be Easy But Secretly Wants to Humiliate You | The Dev Notebook | [Read More](https://medium.com/p/689a8fbef94d) |
+| Thu, 04 Dec 2025 05:01:21 GMT | Software firewalls 101: functions and options | RASHID MUSTAFA | [Read More](https://medium.com/p/4ae83ebdfc97) |
 | Thu, 04 Dec 2025 04:59:37 GMT | Why Your GPS Tracker’s IMEI Number Is the Key to Recovering Your Stolen Car | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/0252e7cca312) |
 | Thu, 04 Dec 2025 04:56:18 GMT | Introducing CVE‑2025‑55182-TOOLS: A Unified Framework for Large‑Scale Detection and Reproduction… | Mingyi Security Lab | [Read More](https://medium.com/p/fb35c34a5171) |
 | Thu, 04 Dec 2025 04:45:36 GMT | What is Google Dorking? | Sreeshnu P S | [Read More](https://medium.com/p/2c3ffb78a788) |
@@ -41,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 02:26:06 GMT | The Story of How I Hacked an Event Management Platform | JC | [Read More](https://medium.com/p/5a719250042c) |
 | Thu, 04 Dec 2025 02:10:04 GMT | 5 Signs Your Website Is Vulnerable to Cyber Attacks (And How to Fix Them Fast) | Vulnersight | [Read More](https://medium.com/p/33f099ac7bc6) |
 | Thu, 04 Dec 2025 02:06:01 GMT | ARP Spoofing & Sniffing: The Silent Threat on Your Local Network | Ajmir khan | [Read More](https://medium.com/p/30d7397e80e8) |
+| Thu, 04 Dec 2025 02:02:13 GMT | Reconnaissance in Hacker’s Life Cycle: How Attackers Gather Information. | Jugal Patel | [Read More](https://medium.com/p/267788edfb1f) |
 | Thu, 04 Dec 2025 02:01:19 GMT | How to Quickly Check If Your Website Is Secure (No Technical Skills Needed) | Vulnersight | [Read More](https://medium.com/p/bd90b02a5119) |
 | Thu, 04 Dec 2025 01:58:16 GMT | Apple Private Relay Explained for Modern Cyber Security Teams | Jbird | [Read More](https://medium.com/p/3811bd84ac18) |
 | Thu, 04 Dec 2025 01:55:24 GMT | Understanding DNS Poisoning: How Attackers Trick Your Browser | Raviteja Mureboina | [Read More](https://medium.com/p/a8b384bf2aa2) |
@@ -89,6 +96,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 20:22:21 GMT | Enumeration-Introduction | Deep | [Read More](https://medium.com/p/fbc83ca96b25) |
 | Wed, 03 Dec 2025 20:18:15 GMT | Mapping Attack Surfaces Like A Cartographer Of Shadows | Rendur M. Saunter | [Read More](https://medium.com/p/514d3ecc09ad) |
 | Wed, 03 Dec 2025 20:16:58 GMT | How Navan Handles Audit Logging Across the Enterprise | Tanay Ghirnikar | [Read More](https://medium.com/p/d563a775aa8c) |
+| Wed, 03 Dec 2025 20:15:27 GMT | “Potato Hacks a Machine” — A Fun & Interactive Pentest Walkthrough | IshhIshneet | [Read More](https://medium.com/p/9db551610837) |
 | Wed, 03 Dec 2025 20:14:09 GMT | Confessions of a Sentinel N00b | Matt Cox | [Read More](https://medium.com/p/672eca9a875a) |
 | Wed, 03 Dec 2025 20:12:38 GMT | The Million-Dollar Handshake: Why Manufacturing’s Greatest Asset Became Its Biggest Threat | Magdalena Rita Narewska | [Read More](https://medium.com/p/02869dd7fca9) |
 | Wed, 03 Dec 2025 20:01:47 GMT | Unlock God-Tier NPCs: Merging Tarkov Sims with Deceptive, Sentient AI. ArXiv study+ more. | Berend Watchus | [Read More](https://medium.com/p/b0184ca1204b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 19:17:08 GMT | Top Trusted Dark Web Marketplaces with Verified Links — Stay Safe While Browsing | Tor BBB | [Read More](https://medium.com/p/95165f862044) |
 | Wed, 03 Dec 2025 19:08:59 GMT | My Journey in IT: Cybersecurity, Automation, and Data Analytics | kehinde ladepo | [Read More](https://medium.com/p/b16fcfb40a93) |
 | Wed, 03 Dec 2025 19:07:54 GMT | Advent of Cyber 2025 — Day 3: Splunk Basics — Did You SIEM? | Akshat Patel | [Read More](https://medium.com/p/6a1967d24dff) |
-| Wed, 03 Dec 2025 19:00:04 GMT | Why IAM Expertise Is So Scarce: Understanding the Talent Crisis | Steve Anderson | [Read More](https://medium.com/p/c77a27d765cc) |
-| Wed, 03 Dec 2025 18:59:28 GMT | Big Data : Advanced Machine Learning using Spark MLlib | Yasa Wijaya | [Read More](https://medium.com/p/c0718d07e19e) |
-| Wed, 03 Dec 2025 18:59:10 GMT | Pelican State Credit Union Notifies Members After Sensitive Personal Data Was Compromised | David Miller | [Read More](https://medium.com/p/d989cb0c4d4f) |
-| Wed, 03 Dec 2025 18:57:29 GMT | The Three Recon Moves That Almost Always Reveal Something Valuable | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7e1990ad99ff) |
-| Wed, 03 Dec 2025 18:56:56 GMT | Stop Putting These Secrets in Your .env File | bektiaw | [Read More](https://medium.com/p/ab0c9f8c8c8c) |
-| Wed, 03 Dec 2025 18:51:28 GMT | The Best Version of Wireshark for Ubuntu 24.04 (And the Fastest Way to Install It) | ghostyjoe | [Read More](https://medium.com/p/77fd6b4634a8) |
-| Wed, 03 Dec 2025 18:46:25 GMT | Building Reliable AI Agents: A Practical Framework for Structure, Orchestration, and Quality | Welliton Gervickas | [Read More](https://medium.com/p/87526b95f91d) |
-| Wed, 03 Dec 2025 18:46:09 GMT | How to Build a Pentesting Home Lab: Part 3-The Linux Command Line | Jamie Omarr | [Read More](https://medium.com/p/504a9cb5d900) |
