@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 20:25:14 GMT | There are fewer information viruses on the internet than flu viruses | Elena Krosheva | [Read More](https://medium.com/p/c0a8de4f68b1) |
+| Thu, 04 Dec 2025 20:17:41 GMT | Splunk Basics — Did you SIEM? - AoC 2025 Day — 3-By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a514d9e2c3dc) |
+| Thu, 04 Dec 2025 20:16:16 GMT | CRITICAL ALERT: React Server Components Unauthenticated RCE (CVE-2025–55182) | Cybersecplayground | [Read More](https://medium.com/p/956dbc3d5611) |
+| Thu, 04 Dec 2025 20:02:46 GMT | Code Red: The CVSS 10.0 Exploit Hitting Every Next.js and React 19 Server | Noor Mohamad | [Read More](https://medium.com/p/e9301d980888) |
+| Thu, 04 Dec 2025 19:57:30 GMT | Why Your WiFi Password Matters More Than You Think | Aj | [Read More](https://medium.com/p/c6f469e5bdc3) |
+| Thu, 04 Dec 2025 19:55:49 GMT | Mutual Authentication: How Users and Systems Trust Each Other | Damir Kolobaric | [Read More](https://medium.com/p/eba96318632c) |
+| Thu, 04 Dec 2025 19:51:14 GMT | Understanding Darkweb Vendor Shops: How They Work & Why It Matters | Tor BBB | [Read More](https://medium.com/p/7cc48403721b) |
+| Thu, 04 Dec 2025 19:44:27 GMT | My Most Important Ethical Hacking Assignment Wasn’t About Hacking | Mhlope Nkosikhona | [Read More](https://medium.com/p/7472def5ff48) |
+| Thu, 04 Dec 2025 19:40:02 GMT | Securing Terraform Infrastructure with Snyk IaC: A Practical SAST Example | victor williams cruz mamani | [Read More](https://medium.com/p/f5f7463e4203) |
+| Thu, 04 Dec 2025 19:38:45 GMT | From Theory to Practice: Drafting a Real-World Penetration Testing Agreement | Edwingligah | [Read More](https://medium.com/p/3105650a3956) |
 | Thu, 04 Dec 2025 19:35:55 GMT | Critical React RSC Flaw Enables Unauthenticated RCE | RealSec.io | [Read More](https://medium.com/p/8cc80437c01c) |
+| Thu, 04 Dec 2025 19:33:40 GMT | Update on Cybersecurity and AgenticAI | Mike Temkin | [Read More](https://medium.com/p/2925fb4303c8) |
 | Thu, 04 Dec 2025 19:32:46 GMT | Bulletproof Defense: The Hidden Internet Infrastructure Powering Cybercrime — and How We Fight Back | Serdar Gumus | [Read More](https://medium.com/p/35003da472b3) |
 | Thu, 04 Dec 2025 19:32:40 GMT | How to Build a Pentesting Home Lab: Part 4-Scanning and Exploitation | Jamie Omarr | [Read More](https://medium.com/p/7eb0718d028c) |
 | Thu, 04 Dec 2025 19:28:54 GMT | Database Security: Protecting the Heart of Modern Systems | Andre Humphrey | [Read More](https://medium.com/p/387dbdd24cb1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 14:16:34 GMT | Becomimg a CyberSecurity Analyst | HdigitalHUB | [Read More](https://medium.com/p/22a19552dddb) |
 | Thu, 04 Dec 2025 14:12:37 GMT | Understanding the Nuances of Detection | Danny | [Read More](https://medium.com/p/dd97a8d74c8e) |
 | Thu, 04 Dec 2025 14:12:21 GMT | How I Found My First Bug in Just 12 Hours: A Beginner’s Journey | Moganti Nehanth | [Read More](https://medium.com/p/64d10810b6fc) |
-| Thu, 04 Dec 2025 14:11:53 GMT | Red Team Recon — What I Learned Solving TryHackMe’s Room | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/0e4b0d739b15) |
-| Thu, 04 Dec 2025 14:11:04 GMT | Advent of Cyber 25 — Day 3 — Splunk Basics — Did you SIEM? | cybertactic | [Read More](https://medium.com/p/911865c63e55) |
-| Thu, 04 Dec 2025 14:10:55 GMT | Kendi Active Directory Lab Ortamınızı Kurun-I: Active Directory Güvenliği: Bölüm-5 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/79f73370eaf2) |
-| Thu, 04 Dec 2025 14:06:26 GMT | Wazuh Server on Ubuntu + Agent on Windows: Full Installation Guide — Cybersecurity Homelab [#10] | 0xRahuL | [Read More](https://medium.com/p/ec7a069ab840) |
-| Thu, 04 Dec 2025 14:02:45 GMT | IBM Released a Framework for Breaking Your AI on Purpose (And You Should Use It) | Gowtham Boyina | [Read More](https://medium.com/p/ed8a720d29e4) |
-| Thu, 04 Dec 2025 13:52:11 GMT | How I Use Burp Suite Like A Surveillance Tool Instead Of A Scanner | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c0c11df45ae1) |
-| Thu, 04 Dec 2025 13:45:17 GMT | The Living SBOM: A Strategic Blueprint for Medical Device and Industrial IoT Cybersecurity | Nitish Gupta | [Read More](https://medium.com/p/d8b165e4a59a) |
-| Thu, 04 Dec 2025 13:37:58 GMT | It’s a new beginning | KEROLESS ADEL | [Read More](https://medium.com/p/8bfd8299335c) |
-| Thu, 04 Dec 2025 13:37:28 GMT | I Cry in Public, But I’m Not Ashamed Anymore | Madeleine | [Read More](https://medium.com/p/157f2e1d9919) |
-| Thu, 04 Dec 2025 13:32:23 GMT | Owning My Quirks | Joe Petryka | [Read More](https://medium.com/p/6ac541913111) |
-| Thu, 04 Dec 2025 13:27:41 GMT | Hardcoded Secrets Strike Again: How a Telegram Bot Token Exposed Customer Support and PII | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/cb412551239b) |
