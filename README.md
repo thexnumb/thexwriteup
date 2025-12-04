@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 02:55:28 GMT | Most Organizations Say They Have “Force Protection”… | Peter Uliano | [Read More](https://medium.com/p/64dfe168bee0) |
+| Thu, 04 Dec 2025 02:42:10 GMT | The Hidden Struggle: Finding Strength in Vulnerability | Mabel Harris | [Read More](https://medium.com/p/4314eaf2b83d) |
+| Thu, 04 Dec 2025 02:39:40 GMT | Tutorial: Setup Audit Logging for Kubernetes. | lchlaw | [Read More](https://medium.com/p/ed4c9af0bedc) |
+| Thu, 04 Dec 2025 02:39:03 GMT | MSSQL Attacks Skyrocket as Overall Threat Activity Jumps Nearly 50% in November 2025 | Px Mx | [Read More](https://medium.com/p/0ff8f6850493) |
+| Thu, 04 Dec 2025 02:29:27 GMT | How to mass delete emails on Gmail from one sender in 2025 | Safelyo Global | [Read More](https://medium.com/p/c84a2e5fa09e) |
+| Thu, 04 Dec 2025 02:27:31 GMT | The Zero-Trust Loop: Origins in the LastPass Breach | Jose Eurico | [Read More](https://medium.com/p/146e158bfe0a) |
+| Thu, 04 Dec 2025 02:26:06 GMT | The Story of How I Hacked an Event Management Platform | JC | [Read More](https://medium.com/p/5a719250042c) |
+| Thu, 04 Dec 2025 02:10:04 GMT | 5 Signs Your Website Is Vulnerable to Cyber Attacks (And How to Fix Them Fast) | Vulnersight | [Read More](https://medium.com/p/33f099ac7bc6) |
+| Thu, 04 Dec 2025 02:06:01 GMT | ARP Spoofing & Sniffing: The Silent Threat on Your Local Network | Ajmir khan | [Read More](https://medium.com/p/30d7397e80e8) |
+| Thu, 04 Dec 2025 02:01:19 GMT | How to Quickly Check If Your Website Is Secure (No Technical Skills Needed) | Vulnersight | [Read More](https://medium.com/p/bd90b02a5119) |
+| Thu, 04 Dec 2025 01:58:16 GMT | Apple Private Relay Explained for Modern Cyber Security Teams | Jbird | [Read More](https://medium.com/p/3811bd84ac18) |
+| Thu, 04 Dec 2025 01:55:24 GMT | Understanding DNS Poisoning: How Attackers Trick Your Browser | Raviteja Mureboina | [Read More](https://medium.com/p/a8b384bf2aa2) |
+| Thu, 04 Dec 2025 01:52:29 GMT | The Hidden Soft Spot: Embracing Vulnerability When Strength Fades | Austi Gene | [Read More](https://medium.com/p/5b0a874ef616) |
+| Thu, 04 Dec 2025 01:50:10 GMT | Clue - PG - Walkthrough | Vladimir Cuc | [Read More](https://medium.com/p/a365256d50e4) |
+| Thu, 04 Dec 2025 01:40:04 GMT | 15 Ways to Perform API Reconnaissance for Every CyberSecurity Engineer (A Complete Guide) | Mudassir Syed | [Read More](https://medium.com/p/889781c3c940) |
+| Thu, 04 Dec 2025 01:39:45 GMT | THM Advent of Cyber 2025 Day 3 | ZeakPeak | [Read More](https://medium.com/p/6b984a387e21) |
 | Thu, 04 Dec 2025 01:31:30 GMT | DC3 vulnlabWalkthrough | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/124ef8ff119d) |
 | Thu, 04 Dec 2025 01:25:10 GMT | The Ghost in the Machine | Chris Perkins | [Read More](https://medium.com/p/76f4b43f07ff) |
 | Thu, 04 Dec 2025 01:13:50 GMT | WordPress Malware Removal - Penetration Testing & Cybersecurity Expertise | Osman Goni | [Read More](https://medium.com/p/2b0c5f22a5ae) |
@@ -32,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 22:40:33 GMT | CVE-2025–55182 Explained — Technical Analysis and Validation of the Attack Vector in React Server… | Santiago Habib | [Read More](https://medium.com/p/6f3fcd3d154e) |
 | Wed, 03 Dec 2025 22:39:29 GMT | How to Write an Executive Summary | Cyberoptic Security | [Read More](https://medium.com/p/2ba6b4298693) |
 | Wed, 03 Dec 2025 22:32:43 GMT | The Day Production Went Down Because of a Single .env File | Faris Chtatou | [Read More](https://medium.com/p/829f86056e8e) |
+| Wed, 03 Dec 2025 22:32:07 GMT | CVE-2025–55182 Explicado — Análisis Técnico y Validación del Vector de Ataque en React Server… | Santiago Habib | [Read More](https://medium.com/p/6929c3d20045) |
 | Wed, 03 Dec 2025 22:08:08 GMT | Exploiting Logic Flaws & Zip Slips: A Walkthrough of “Desires” on Hack The Box | Muhammad Younas | [Read More](https://medium.com/p/c68a39eea650) |
 | Wed, 03 Dec 2025 22:02:11 GMT | Commands That Turn Your Own System Against You | Liam | [Read More](https://medium.com/p/8a93d046c86f) |
 | Wed, 03 Dec 2025 21:56:34 GMT | Data Privacy and Security in the Era of AI | Innovative Insights | [Read More](https://medium.com/p/f1e53cadc49c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 17:40:32 GMT | The Benford’s Law of Bullshit: Why You Can’t Fake Reality | Harishwar | [Read More](https://medium.com/p/5c6d047505df) |
 | Wed, 03 Dec 2025 17:37:07 GMT | Software Compliance Checklist : Must-Have Features for Secure & Regulatory-Ready Business… | Blog Chip | [Read More](https://medium.com/p/936218f06c7a) |
 | Wed, 03 Dec 2025 17:33:19 GMT | Case Study: How I Found Four Critical Vulnerabilities in a Popular Lightning Network Python SDK | LETCHU PKT | [Read More](https://medium.com/p/08318d77613c) |
-| Wed, 03 Dec 2025 17:33:17 GMT | What If S-233 Applied to Security Guards? A Look at a Kamloops Assault | Scott Hill | [Read More](https://medium.com/p/7323f5285cf9) |
-| Wed, 03 Dec 2025 17:32:26 GMT | Capítulo 14 — O Último Log | Kleber Andrade | [Read More](https://medium.com/p/efdfda6172da) |
-| Wed, 03 Dec 2025 17:26:05 GMT | Cybersecurity: Facts, Myths & The Story Behind The Screens | Subrat Samantaray | [Read More](https://medium.com/p/a3b063592dc8) |
-| Wed, 03 Dec 2025 17:19:58 GMT | 0LIONW0 - Autoit3 based RAT analysis | Mehmet Ali Şipi | [Read More](https://medium.com/p/ac12d5d4103a) |
-| Wed, 03 Dec 2025 17:13:26 GMT | BankGPT - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/348586191821) |
-| Wed, 03 Dec 2025 17:10:08 GMT | Cybersecurity in Government Organizations: The Real Challenges | Digital Defense | [Read More](https://medium.com/p/d7e7fa99f99c) |
-| Wed, 03 Dec 2025 16:57:45 GMT | Penetration Testing Report — Kioptrix Level 1 Exploitation | Yadhu krishnan | [Read More](https://medium.com/p/682f9dbab5fd) |
-| Wed, 03 Dec 2025 16:54:32 GMT | Securing Patient Data Beyond the EHR: The Risk in Medical Imaging | Legal Thoughts | [Read More](https://medium.com/p/c1802ee946bf) |
-| Wed, 03 Dec 2025 16:52:59 GMT | VulnHub DC-6 Walkthrough: WordPress Privilege Escalation | Kalash Kundaliya | [Read More](https://medium.com/p/77a37e537afd) |
-| Wed, 03 Dec 2025 16:52:21 GMT | Phishing — Merry Clickmas - Advent of Cyber 2025 Day 2 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/a1f6b9fad06c) |
-| Wed, 03 Dec 2025 16:51:29 GMT | HealthGPT — TryHackMe | Infosec world | [Read More](https://medium.com/p/63aacdff9bc3) |
-| Wed, 03 Dec 2025 16:45:26 GMT | “Programa Integral de Seguridad y Gestión de Riesgos” | Mauricio Alan Illera Diaz | [Read More](https://medium.com/p/b19da36f9881) |
-| Wed, 03 Dec 2025 16:41:31 GMT | Thoughts for Nigeria’s Incoming Minister of Defence | Alli Taofik Adewale | [Read More](https://medium.com/p/1995a4fded6e) |
-| Wed, 03 Dec 2025 16:38:03 GMT | Why the Transatlantic Data Cables Linking the US and Ireland Are Becoming a European Security… | Digital Auditor | [Read More](https://medium.com/p/02b92540874f) |
-| Wed, 03 Dec 2025 16:37:57 GMT | Blind-XSS Escalated from HTMLi | Mustafa Abdullah | [Read More](https://medium.com/p/4c7658660151) |
-| Wed, 03 Dec 2025 16:24:43 GMT | Where I See Cybersecurity in 2026 — Through the Lens of AppSec & Pentesting | Mark Babcock | [Read More](https://medium.com/p/430eca6f5c47) |
-| Wed, 03 Dec 2025 16:24:37 GMT | The Hidden Internet Under The Internet | Abdullah Javeed | [Read More](https://medium.com/p/688b059cd01e) |
