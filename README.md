@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 11:10:03 GMT | TryHackMEVMs: Startup | Justin Jude Cabodil | [Read More](https://medium.com/p/f1847c348587) |
+| Thu, 04 Dec 2025 11:07:26 GMT | What is Fileless Malware? - VIIEGO | Rolando | [Read More](https://medium.com/p/f0655b505c5d) |
+| Thu, 04 Dec 2025 11:05:24 GMT | 7 Powerful Reasons Pentesting Without Remediation Fails | Pentest_Testing_Corp | [Read More](https://medium.com/p/710087e57b49) |
+| Thu, 04 Dec 2025 11:05:21 GMT | Searching, Filtering, and Correlation: Threat Hunting with Brim | Citadel Cybersec | [Read More](https://medium.com/p/4dc4023bb9ca) |
+| Thu, 04 Dec 2025 11:01:47 GMT | Shai-Hulud 2.0: A Deep Dive into the Modern Supply Chain Attack | Chameera Rupasinghe | [Read More](https://medium.com/p/6ce86487ffa0) |
+| Thu, 04 Dec 2025 10:56:45 GMT | Security Lab Simulation Project Part 4: Kibana Set-up and Configuration | Jenny | [Read More](https://medium.com/p/a5179c964c03) |
+| Thu, 04 Dec 2025 10:52:54 GMT | Software Composition Analysis: Ensuring Secure and Compliant Software | Media | [Read More](https://medium.com/p/455ff5320864) |
+| Thu, 04 Dec 2025 10:50:31 GMT | Final-year Cybersecurity student exploring both sides of security – VAPT & GRC | Aaditya Mathur | [Read More](https://medium.com/p/5616e25ea701) |
+| Thu, 04 Dec 2025 10:45:51 GMT | The Ultimate Guide to Wireshark in 2026: Tips, Fixes, and Pro Tricks | ghostyjoe | [Read More](https://medium.com/p/70c3f0c4d9db) |
+| Thu, 04 Dec 2025 10:44:59 GMT | React2Shell: The Scary React Bug (Fix It in 2 Minutes!) | Ali Samei | [Read More](https://medium.com/p/55ff6d83e563) |
 | Thu, 04 Dec 2025 10:40:16 GMT | View Once Photo Re-Accessible via “Edit with AI” in Messenger | Sameer Ali | [Read More](https://medium.com/p/d6c90767000c) |
 | Thu, 04 Dec 2025 10:33:11 GMT | The Last Original Print: Preserving Human Insight in the Era of AI | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/9516b2838c9a) |
 | Thu, 04 Dec 2025 10:31:09 GMT | Cheap Websites South Africa: The Complete Guide to Affordable Web Design for Small Businesses | Ava Jones | [Read More](https://medium.com/p/71ac5f4241ad) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 04:56:18 GMT | Introducing CVE‑2025‑55182-TOOLS: A Unified Framework for Large‑Scale Detection and Reproduction… | Mingyi Security Lab | [Read More](https://medium.com/p/fb35c34a5171) |
 | Thu, 04 Dec 2025 04:46:13 GMT | Machine Learning Consulting Services Business Model Guide for 2026 | Motherlandlove | [Read More](https://medium.com/p/d398ccf6d69d) |
 | Thu, 04 Dec 2025 04:45:36 GMT | What is Google Dorking? | Sreeshnu P S | [Read More](https://medium.com/p/2c3ffb78a788) |
-| Thu, 04 Dec 2025 04:39:52 GMT | How to Achieve Cybersecurity Compliance Certificate Aramco for Your Business | Kadhijahafiya | [Read More](https://medium.com/p/79a13be7e87b) |
-| Thu, 04 Dec 2025 04:34:31 GMT | Phishing — Merry Clickmas - Walkthrough - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/7985b1cb641e) |
-| Thu, 04 Dec 2025 04:28:48 GMT | Advent of Cyber 2025 {All ROOMS Update daily} — Tryhackme walkthrough | TRedEye | [Read More](https://medium.com/p/d33afa9128bc) |
-| Thu, 04 Dec 2025 04:22:35 GMT | Microsoft Entra: The New Foundation of Identity Security | Sudhakar Tiwari | [Read More](https://medium.com/p/7524c0d7ca40) |
-| Thu, 04 Dec 2025 04:15:41 GMT | NMAP Cheat Sheet Lengkap: Panduan Detail & Mudah Untuk Pantester | Handev Code | [Read More](https://medium.com/p/881c6430b8a5) |
-| Thu, 04 Dec 2025 04:15:03 GMT | Password Strength Analysis: Engineering My Secure Pass Analyzer | Asmit Patil | [Read More](https://medium.com/p/1dead25591b2) |
-| Thu, 04 Dec 2025 04:13:18 GMT | Security Infrastructure Design Document | Maris | [Read More](https://medium.com/p/9c2adcf9d92b) |
-| Thu, 04 Dec 2025 04:10:55 GMT | The Future of Cybersecurity in the Microsoft Ecosystem | Sudhakar Tiwari | [Read More](https://medium.com/p/b260b14056d1) |
-| Thu, 04 Dec 2025 04:08:49 GMT | TryHack3M: Bricks Heist — From RCE to Ransomware Infrastructure | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/200601a87489) |
-| Thu, 04 Dec 2025 04:05:16 GMT | How a Single Command Shifted My Entire Life’s Direction | Tyreek Haynes | [Read More](https://medium.com/p/8e637c69e339) |
