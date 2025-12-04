@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 18:20:15 GMT | Introduction to Cybersecurity Tools & Cyberattacks (IBM) | Franklin Rhodes | [Read More](https://medium.com/p/1c86c0b6b7c6) |
+| Thu, 04 Dec 2025 18:19:46 GMT | Why Cybersecurity is the Next Essential Skill for Data Scientists | Talhaakbar | [Read More](https://medium.com/p/ad510810f753) |
+| Thu, 04 Dec 2025 18:18:09 GMT | Leaked API Key to Full Calendar Control | Yehia Ahmed | [Read More](https://medium.com/p/7561333ceacb) |
+| Thu, 04 Dec 2025 18:17:59 GMT | Advent of Cyber 2025 Day 4 - TryHackMe - AI in Security - old sAInt nick - WriteUp | Axoloth | [Read More](https://medium.com/p/133d09359b88) |
+| Thu, 04 Dec 2025 18:15:12 GMT | RAG Security & Data-Leak Threat Analysis | Ketan Rapariya | [Read More](https://medium.com/p/38eec6b4c560) |
+| Thu, 04 Dec 2025 18:09:30 GMT | Advent of Cyber 2025 Day 4: Old sAInt Nick and AI in Security | Akshat Patel | [Read More](https://medium.com/p/1bbd01b100cd) |
+| Thu, 04 Dec 2025 18:08:16 GMT | Stop Your iPhone From ‘Learning' You: A Privacy Guide | K_Anik | [Read More](https://medium.com/p/88fb86bd2674) |
+| Thu, 04 Dec 2025 18:05:31 GMT | AI in Security — old sAInt nick-Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/366a21e6a4db) |
+| Thu, 04 Dec 2025 18:04:09 GMT | Bypassing Windows Defender to Establish Command and Control | 0xPmCr | [Read More](https://medium.com/p/5d883fe2f667) |
+| Thu, 04 Dec 2025 18:02:33 GMT | How a Single Click Led to a Critical Account Takeover | Milan Gautam | [Read More](https://medium.com/p/759e4164f674) |
+| Thu, 04 Dec 2025 18:02:31 GMT | Certificate Transparency: A Technical Overview and OSINT Toolkit ️ | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/30d4f556f7f8) |
+| Thu, 04 Dec 2025 17:56:48 GMT | The One Mistake Incident Responders Can’t Afford to Make | Gracie Emmanuel | [Read More](https://medium.com/p/ce34ec903f42) |
+| Thu, 04 Dec 2025 17:56:24 GMT | Why Using WhatsApp Web in India is About to Become a Nightmare Option | Muhaideen Nausar | [Read More](https://medium.com/p/a718c913b87a) |
 | Thu, 04 Dec 2025 17:38:53 GMT | Building the Ultimate Android Hacking Lab - Without Losing Your Mind (Of Course) | Omkar D. | [Read More](https://medium.com/p/382152af032e) |
 | Thu, 04 Dec 2025 17:36:51 GMT | PENETRATION TESTING REPORT — BOUNTY HACKER - TRYHACKME | Sreeragmanghat | [Read More](https://medium.com/p/0d0d7822883b) |
+| Thu, 04 Dec 2025 17:35:13 GMT | Starting Off with a Small Vulnerability — Responsibly disclosed :) | Philip James | [Read More](https://medium.com/p/0e25c23b01f0) |
 | Thu, 04 Dec 2025 17:34:08 GMT | The Hidden Architecture of Security Success: What Ross Haleliuk’s Hiring Manifesto Really Tells Us | Kaustubh Phatak | [Read More](https://medium.com/p/ad0590b2d74b) |
 | Thu, 04 Dec 2025 17:31:00 GMT | Everything Worked Locally — Until Timezones Destroyed My App | The Dev Notebook | [Read More](https://medium.com/p/78701dab5e81) |
 | Thu, 04 Dec 2025 17:26:34 GMT | Advent of Cyber 2025 - Day 4: AI in Security — old sAInt nick | D4m.sh | [Read More](https://medium.com/p/d9255bfb90e7) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 12:59:15 GMT | How to Combine Convenience and Safety in Your Daily Routine | Discreet solution Pvt ltd | [Read More](https://medium.com/p/8363b4547080) |
 | Thu, 04 Dec 2025 12:57:10 GMT | Breaking Dailymotion: A Private Video Access Control Bypass (Part1) | Osama | [Read More](https://medium.com/p/455ae1a50f09) |
 | Thu, 04 Dec 2025 12:34:58 GMT | ShadowMQ: The Copy-Paste Vulnerability That Infected Meta, NVIDIA, and Microsoft’s AI | MohamedAbdelmenem | [Read More](https://medium.com/p/02bac9715bb1) |
-| Thu, 04 Dec 2025 12:34:05 GMT | MONITORING — Advanced, Interesting, and Knowledge-Boosted Walkthrough | IshhIshneet | [Read More](https://medium.com/p/a42e93ae93b4) |
-| Thu, 04 Dec 2025 12:33:53 GMT | Zero-Knowledge Proofs and Schnorr Protocol in Rust! | Mohammadreza Ashouri | [Read More](https://medium.com/p/ff037701bebb) |
-| Thu, 04 Dec 2025 12:29:21 GMT | From Port Forwarding to Attack Blocking: My Practical Firewall Journey | Wesley Santos | [Read More](https://medium.com/p/c1aeb69c4882) |
-| Thu, 04 Dec 2025 12:25:12 GMT | Mandated Safety or Backdoor Surveillance? | eL Njas!™ | [Read More](https://medium.com/p/edddec530dae) |
-| Thu, 04 Dec 2025 12:21:04 GMT | The React Server Components Exploit That Could Have Hacked 39% of the Web | Mrunal chawda | [Read More](https://medium.com/p/7d5dcc44a4cb) |
-| Thu, 04 Dec 2025 12:10:20 GMT | Cyber Hygiene, Spiritual Hygiene, and the Backyard | Melusi shoko | [Read More](https://medium.com/p/e2680cfc5fbf) |
-| Thu, 04 Dec 2025 12:08:04 GMT | Why Businesses Fail Their First Cyber Audit — and How to Avoid It | Digital Defense | [Read More](https://medium.com/p/af4b7aa07191) |
-| Thu, 04 Dec 2025 12:06:45 GMT | How to Get Rid of Bed Bugs: Complete Guide | Insaraffurniture | [Read More](https://medium.com/p/2c57eaedb891) |
-| Thu, 04 Dec 2025 12:06:28 GMT | Today’s Top Cyber Intelligence Highlights — Dec 04, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/eb3ad1d975e7) |
-| Thu, 04 Dec 2025 12:02:14 GMT | Understanding CWE-656: Reliance on Security Through Obscurity | Walter Moar | [Read More](https://medium.com/p/9602bd93c8ad) |
-| Thu, 04 Dec 2025 11:52:10 GMT | Day 4 — Midnight Vigil | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/3d2602d873ec) |
-| Thu, 04 Dec 2025 11:50:00 GMT | Why Telegram Can Store Your Messages (And What That Means For You) | Leon Wong 282 | [Read More](https://medium.com/p/4ad16f171f9f) |
-| Thu, 04 Dec 2025 11:49:58 GMT | How can Java development services enhance app security? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/0d827cc03229) |
-| Thu, 04 Dec 2025 11:43:44 GMT | Why Security Guard Services Are Essential for Modern Businesses: A Deep Dive Into Today’s Top… | Ciss India | [Read More](https://medium.com/p/c6313d6b102b) |
