@@ -12,10 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 10:24:43 GMT | The Daily Tech Digest: 04 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2cbb426c1185) |
+| Thu, 04 Dec 2025 10:16:41 GMT | AI Isn’t as Smart as You Think: How a 25-Year-Old Hack Still Breaks Modern Models | AI Meets Money | [Read More](https://medium.com/p/71d5e9a332c1) |
+| Thu, 04 Dec 2025 10:14:45 GMT | Best Phishing Simulation Services Provider in India - Cybersecurity Services | Samvaskaran | [Read More](https://medium.com/p/2f65ff6f1777) |
+| Thu, 04 Dec 2025 10:03:50 GMT | Advent of Cyber 2025 Day 3 Walkthrough Splunk Basics — Did you SIEM? | Kakashi | [Read More](https://medium.com/p/2c4a1e9beb96) |
+| Thu, 04 Dec 2025 10:03:10 GMT | Ehxb - Inside the Filesystem: The Truth Behind LFI & RFI II | Ehxb | [Read More](https://medium.com/p/46fd781aa4ec) |
+| Thu, 04 Dec 2025 09:56:39 GMT | Deception​‍​‌‍​‍‌​‍​‌‍​‍‌ Technology Solutions in Dubai: Strengthening Your Cybersecurity | Clouds Dubai | [Read More](https://medium.com/p/37855fb54a65) |
+| Thu, 04 Dec 2025 09:41:46 GMT | Holiday Scams are Surging | Century Solutions Group | [Read More](https://medium.com/p/dafa6d3bbf06) |
 | Thu, 04 Dec 2025 09:38:31 GMT | Разследване на фишинг атака към българска държавен орган | Georgi Hadzhinikiforov | [Read More](https://medium.com/p/68ff0900d397) |
 | Thu, 04 Dec 2025 09:38:10 GMT | Investigating Tor Usage in Cybercrime Cases: A Forensic Workflow | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/4fafa6eb0875) |
 | Thu, 04 Dec 2025 09:36:23 GMT | Advent of Cyber Security 2025 — DAY 1 — Side Quest | Jerome Lolong | [Read More](https://medium.com/p/ef9c1982be9b) |
 | Thu, 04 Dec 2025 09:35:40 GMT | The Importance of Military Cybersecurity: Why Digital Defense Is the New Frontline | Tandelpruthvi | [Read More](https://medium.com/p/11e7263a432f) |
+| Thu, 04 Dec 2025 09:35:08 GMT | File Upload Vulnerability to RCE - picoCTF byp4ss3d Full Solution (Step-By-Step) | Debashish Sadhu | [Read More](https://medium.com/p/05e95dcba2b8) |
 | Thu, 04 Dec 2025 09:26:13 GMT | CORS Hell: When Azure App Service Settings Override Your Code | Muhammed Agbaje | [Read More](https://medium.com/p/e48ab9e997a3) |
 | Thu, 04 Dec 2025 09:22:45 GMT | Best Antivirus for PC: How to Choose the Right Security Software | Manik | [Read More](https://medium.com/p/d26a6a2d3b8e) |
 | Thu, 04 Dec 2025 09:20:09 GMT | Day 3: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/40df6cb1c6cd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 03:44:03 GMT | AI-Driven Cyber Attacks: The New Normal (2025 Edition) | Paritosh | [Read More](https://medium.com/p/b3da62a1337f) |
 | Thu, 04 Dec 2025 03:42:09 GMT | Review: AI Agents Driving ROI by CBInsights | Manuel Tress | [Read More](https://medium.com/p/cd73ab451aea) |
 | Thu, 04 Dec 2025 03:36:39 GMT | CHAPTER 3 - THE QUBIT: WHEN “MAYBE” BECAME A COMPUTING POWER | Shadlymaliyekkal | [Read More](https://medium.com/p/31edd6d1a649) |
-| Thu, 04 Dec 2025 03:35:51 GMT | Cybersecurity for Community Networks: Protecting Users in High-Density, Shared-Spectrum… | Thoko Miya | [Read More](https://medium.com/p/3d580de7511c) |
-| Thu, 04 Dec 2025 03:32:28 GMT | The Serpent in the System: How Python Malware Hides Inside Trusted Windows Processes | Deven Chhajed | [Read More](https://medium.com/p/67077541e65c) |
-| Thu, 04 Dec 2025 02:55:28 GMT | Most Organizations Say They Have “Force Protection”… | Peter Uliano | [Read More](https://medium.com/p/64dfe168bee0) |
-| Thu, 04 Dec 2025 02:42:10 GMT | The Hidden Struggle: Finding Strength in Vulnerability | Mabel Harris | [Read More](https://medium.com/p/4314eaf2b83d) |
-| Thu, 04 Dec 2025 02:39:40 GMT | Tutorial: Setup Audit Logging for Kubernetes. | lchlaw | [Read More](https://medium.com/p/ed4c9af0bedc) |
-| Thu, 04 Dec 2025 02:39:03 GMT | MSSQL Attacks Skyrocket as Overall Threat Activity Jumps Nearly 50% in November 2025 | Px Mx | [Read More](https://medium.com/p/0ff8f6850493) |
-| Thu, 04 Dec 2025 02:29:27 GMT | How to mass delete emails on Gmail from one sender in 2025 | Safelyo Global | [Read More](https://medium.com/p/c84a2e5fa09e) |
-| Thu, 04 Dec 2025 02:27:31 GMT | The Zero-Trust Loop: Origins in the LastPass Breach | Jose Eurico | [Read More](https://medium.com/p/146e158bfe0a) |
