@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 14:34:13 GMT | Discovered an XSS Vulnerability in Your Spring Boot App? | Umesh Kumar Yadav | [Read More](https://medium.com/p/4a5cb126e385) |
+| Thu, 04 Dec 2025 14:32:11 GMT | OSINT Under the Hood: The Search Engine for Everything Else: A Beginner’s Guide to Shodan | Rabail Zaheer | [Read More](https://medium.com/p/09dafe879de8) |
+| Thu, 04 Dec 2025 14:31:42 GMT | DOM XSS in innerHTML Sink (location.search → innerHTML) | Aditya Bhatt | [Read More](https://medium.com/p/343f63a5fc93) |
+| Thu, 04 Dec 2025 14:25:30 GMT | How to Set Up SSO with DjangoSAML2 in Django | Papan sarkar | [Read More](https://medium.com/p/e66037c9e68e) |
+| Thu, 04 Dec 2025 14:25:29 GMT | Smile, You’re on Camera: A Live Stream from Inside Lazarus Group’s IT Workers Scheme | ANY.RUN | [Read More](https://medium.com/p/fdc952c02bbf) |
 | Thu, 04 Dec 2025 14:16:34 GMT | Becomimg a CyberSecurity Analyst | HdigitalHUB | [Read More](https://medium.com/p/22a19552dddb) |
+| Thu, 04 Dec 2025 14:12:37 GMT | Understanding the Nuances of Detection | Danny | [Read More](https://medium.com/p/dd97a8d74c8e) |
 | Thu, 04 Dec 2025 14:12:21 GMT | How I Found My First Bug in Just 12 Hours: A Beginner’s Journey | Moganti Nehanth | [Read More](https://medium.com/p/64d10810b6fc) |
+| Thu, 04 Dec 2025 14:11:53 GMT | Red Team Recon — What I Learned Solving TryHackMe’s Room | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/0e4b0d739b15) |
 | Thu, 04 Dec 2025 14:11:04 GMT | Advent of Cyber 25 — Day 3 — Splunk Basics — Did you SIEM? | cybertactic | [Read More](https://medium.com/p/911865c63e55) |
 | Thu, 04 Dec 2025 14:10:55 GMT | Kendi Active Directory Lab Ortamınızı Kurun-I: Active Directory Güvenliği: Bölüm-5 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/79f73370eaf2) |
 | Thu, 04 Dec 2025 14:06:26 GMT | Wazuh Server on Ubuntu + Agent on Windows: Full Installation Guide — Cybersecurity Homelab [#10] | 0xRahuL | [Read More](https://medium.com/p/ec7a069ab840) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 08:16:34 GMT | Winning Nigeria’s Security Battle: A Strategic Path for General Musa | El-yadirf Adokauhil | [Read More](https://medium.com/p/13ce7e18e959) |
 | Thu, 04 Dec 2025 08:13:10 GMT | API Hosting: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/b9a2f6a014cd) |
 | Thu, 04 Dec 2025 08:11:32 GMT | Why Your Team Keeps Dropping the Ball (And It’s Not Their Fault) | Jayal Yadav | [Read More](https://medium.com/p/27400379f69a) |
-| Thu, 04 Dec 2025 08:07:03 GMT | AI Wrote This Code. As a Healthcare Security Analyst, That Terrifies Me. | Adam Frąckowiak | [Read More](https://medium.com/p/55907e99e724) |
-| Thu, 04 Dec 2025 07:57:55 GMT | Best Security Services in Haryana — Lakshay Security & Placement Services | Lakshay Security | [Read More](https://medium.com/p/9fbfae4d1c36) |
-| Thu, 04 Dec 2025 07:57:04 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/9508ccc02f63) |
-| Thu, 04 Dec 2025 07:56:07 GMT | Strong Mornings, Strong Security: What I Do Before 8AM | Fook Hwa Tan | [Read More](https://medium.com/p/6d59d791f98c) |
-| Thu, 04 Dec 2025 07:54:50 GMT | A Day I’ll Never Forget as a CQO It Was a Normal Day — Until This Cyber Incident Hit | Fook Hwa Tan | [Read More](https://medium.com/p/3aff185f7cba) |
-| Thu, 04 Dec 2025 07:54:11 GMT | SFTP vs FTP: Why You Should Always Choose Secure SFTP | Smit Pipaliya | [Read More](https://medium.com/p/fc144b10fbc6) |
-| Thu, 04 Dec 2025 07:54:00 GMT | Why SSH Public Key Authentication Is Better Than Password | Smit Pipaliya | [Read More](https://medium.com/p/3ce7e243dd37) |
