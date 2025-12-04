@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 06:22:32 GMT | Why Construction Site Security Matters More Than Ever in Canada | Hirasarfraz | [Read More](https://medium.com/p/393924737def) |
+| Thu, 04 Dec 2025 06:00:53 GMT | The Copy-Paste That Became a Security Incident: Why AI Makes Old Problems Visible | Ramesh Babu Chayapathi | [Read More](https://medium.com/p/696f04b6712f) |
+| Thu, 04 Dec 2025 05:57:53 GMT | From Vibe Coding to Verifiable AI: Why Specifications Matter More Than Ever in the LLM Era | Marcelo Alcantara | [Read More](https://medium.com/p/b46d4cf408a4) |
+| Thu, 04 Dec 2025 05:56:03 GMT | Ignite CTF Walkthrough: Fuel CMS 1.4 RCE to Root | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/a89656674e4a) |
+| Thu, 04 Dec 2025 05:54:28 GMT | How Network Packets Actually Travel Across the Internet (Without Magic) | Fateyaly | [Read More](https://medium.com/p/73781d6b7c18) |
+| Thu, 04 Dec 2025 05:51:42 GMT | Smart Contract Auditing: Tackling State Heavy Logic | Illoy Scizceneghposter | [Read More](https://medium.com/p/12346ba60695) |
+| Thu, 04 Dec 2025 05:50:35 GMT | Android’s Upcoming Security Sandbox 3.0 — What It Means for Developers | AndroidLab by Andre | [Read More](https://medium.com/p/8c36c7e27613) |
+| Thu, 04 Dec 2025 05:48:19 GMT | Meta Bug Bounty: “Only Me” Workplace Disclosure | Gl1tch | [Read More](https://medium.com/p/e80eda0c66bb) |
 | Thu, 04 Dec 2025 05:40:44 GMT | Breach Data Harvesting Tools: Technical Analysis of Credential Collection Methods | Abczed | [Read More](https://medium.com/p/27883a6fa584) |
 | Thu, 04 Dec 2025 05:29:03 GMT | How Do Modern DLP Features Help Businesses Prevent Data Leaks? | keyTrackr | [Read More](https://medium.com/p/674905ce9972) |
 | Thu, 04 Dec 2025 05:24:07 GMT | The 5 Apps I Used to Scale My Side Hustle to $10K/Month (My Complete Tech Stack Reveal) | Amit Sharma | [Read More](https://medium.com/p/77dbf6e75ed7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 19:50:03 GMT | Why Nurses With Cyber-Hygiene Skills Are the Guardians of Patient Safety in the AI Era | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/abd3fe1fd48e) |
 | Wed, 03 Dec 2025 19:42:51 GMT | Portones que patrullan | Josué Fabre | [Read More](https://medium.com/p/6444eaa5019d) |
 | Wed, 03 Dec 2025 19:41:07 GMT | Caution,,,,,,: #Dovmarkets, #Monexis & #REXIQ are confirmed scam platforms. | Datalog Shield | [Read More](https://medium.com/p/7a41599fff49) |
-| Wed, 03 Dec 2025 19:38:49 GMT | Do not invest,,,,,If you’ve been affected by #avatradeexcoins, act fast to secure any remaining… | Datalog Shield | [Read More](https://medium.com/p/ac5a7b8d18e3) |
-| Wed, 03 Dec 2025 19:35:48 GMT | From Frontend Clues to Backend Backdoors: A Deep Dive into a WordPress Infection | HACKINFO | [Read More](https://medium.com/p/b9c1ac630426) |
-| Wed, 03 Dec 2025 19:31:14 GMT | Your Essential Guide to Cybersecurity Audit Preparation | professional educator | [Read More](https://medium.com/p/eb82f5a1072b) |
-| Wed, 03 Dec 2025 19:24:30 GMT | PortSwigger Lab — XSS- (A Student’s Perspective) | Kavidi Athawuda | [Read More](https://medium.com/p/96aca6a6180e) |
-| Wed, 03 Dec 2025 19:23:41 GMT | Reflected XSS in OAuth Callback Endpoint | Ehtesham Ul Haq | [Read More](https://medium.com/p/77ef41c0b011) |
-| Wed, 03 Dec 2025 19:17:08 GMT | Top Trusted Dark Web Marketplaces with Verified Links — Stay Safe While Browsing | Tor BBB | [Read More](https://medium.com/p/95165f862044) |
-| Wed, 03 Dec 2025 19:08:59 GMT | My Journey in IT: Cybersecurity, Automation, and Data Analytics | kehinde ladepo | [Read More](https://medium.com/p/b16fcfb40a93) |
-| Wed, 03 Dec 2025 19:07:54 GMT | Advent of Cyber 2025 — Day 3: Splunk Basics — Did You SIEM? | Akshat Patel | [Read More](https://medium.com/p/6a1967d24dff) |
