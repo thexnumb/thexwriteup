@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 20:44:00 GMT | I Tried Hacking My Own Accounts — The Results Shocked Me | Liam | [Read More](https://medium.com/p/a1a74690f0d8) |
+| Thu, 04 Dec 2025 20:34:15 GMT | Public Wi-Fi Safety: Safer, Yes. Safe for Everyone, No. | Andy Tillman UK | [Read More](https://medium.com/p/3322cc1546ef) |
+| Thu, 04 Dec 2025 20:34:13 GMT | HackTheBox— Hacknet | Boubakri Rami | [Read More](https://medium.com/p/b8cf58f9eafa) |
+| Thu, 04 Dec 2025 20:32:55 GMT | Understanding TLS Certificates: A Complete Beginner’s Guide | Nayan Kunwar | [Read More](https://medium.com/p/ecbbd0a266f8) |
+| Thu, 04 Dec 2025 20:28:21 GMT | Part 4: Crypto Frauds, Phishing Kits, Darknet Laundering & Real Case Studies | ghostyjoe | [Read More](https://medium.com/p/ab758e4b074a) |
+| Thu, 04 Dec 2025 20:27:36 GMT | How Binance’s New Co-CEO Navigated Crisis After Crisis — And What Other Exchanges Could Learn | Sunny at The Venture Hub (TVH) | [Read More](https://medium.com/p/678a469df744) |
 | Thu, 04 Dec 2025 20:25:14 GMT | There are fewer information viruses on the internet than flu viruses | Elena Krosheva | [Read More](https://medium.com/p/c0a8de4f68b1) |
+| Thu, 04 Dec 2025 20:24:08 GMT | Amazon’s $10 Billion Bet That Nobody Can Copy Its AI Chips | Berend Watchus | [Read More](https://medium.com/p/7321e4c14273) |
+| Thu, 04 Dec 2025 20:19:47 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 4: DC-4 | Shikhar Sinha | [Read More](https://medium.com/p/4d5aa638321b) |
 | Thu, 04 Dec 2025 20:17:41 GMT | Splunk Basics — Did you SIEM? - AoC 2025 Day — 3-By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a514d9e2c3dc) |
 | Thu, 04 Dec 2025 20:16:16 GMT | CRITICAL ALERT: React Server Components Unauthenticated RCE (CVE-2025–55182) | Cybersecplayground | [Read More](https://medium.com/p/956dbc3d5611) |
 | Thu, 04 Dec 2025 20:02:46 GMT | Code Red: The CVSS 10.0 Exploit Hitting Every Next.js and React 19 Server | Noor Mohamad | [Read More](https://medium.com/p/e9301d980888) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 14:48:29 GMT | Sunday - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/e898f7aea677) |
 | Thu, 04 Dec 2025 14:47:38 GMT | Building Your First Malware Payload with NIM | Mr_MalMan | [Read More](https://medium.com/p/0300d5dd9151) |
 | Thu, 04 Dec 2025 14:43:29 GMT | Drafting a Real-World Penetration Testing Agreement — What I Learned as a Cybersecurity Student | Isaac Edzie | [Read More](https://medium.com/p/2728cc95f144) |
-| Thu, 04 Dec 2025 14:34:13 GMT | Discovered an XSS Vulnerability in Your Spring Boot App? | Umesh Kumar Yadav | [Read More](https://medium.com/p/4a5cb126e385) |
-| Thu, 04 Dec 2025 14:32:11 GMT | OSINT Under the Hood: The Search Engine for Everything Else: A Beginner’s Guide to Shodan | Rabail Zaheer | [Read More](https://medium.com/p/09dafe879de8) |
-| Thu, 04 Dec 2025 14:31:42 GMT | DOM XSS in innerHTML Sink (location.search → innerHTML) | Aditya Bhatt | [Read More](https://medium.com/p/343f63a5fc93) |
-| Thu, 04 Dec 2025 14:25:30 GMT | How to Set Up SSO with DjangoSAML2 in Django | Papan sarkar | [Read More](https://medium.com/p/e66037c9e68e) |
-| Thu, 04 Dec 2025 14:25:29 GMT | Smile, You’re on Camera: A Live Stream from Inside Lazarus Group’s IT Workers Scheme | ANY.RUN | [Read More](https://medium.com/p/fdc952c02bbf) |
-| Thu, 04 Dec 2025 14:16:34 GMT | Becomimg a CyberSecurity Analyst | HdigitalHUB | [Read More](https://medium.com/p/22a19552dddb) |
-| Thu, 04 Dec 2025 14:12:37 GMT | Understanding the Nuances of Detection | Danny | [Read More](https://medium.com/p/dd97a8d74c8e) |
-| Thu, 04 Dec 2025 14:12:21 GMT | How I Found My First Bug in Just 12 Hours: A Beginner’s Journey | Moganti Nehanth | [Read More](https://medium.com/p/64d10810b6fc) |
