@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 20:54:59 GMT | CTF MetaRed 2025 (Web) | Red-X | [Read More](https://medium.com/p/dc66d8178a60) |
+| Thu, 04 Dec 2025 20:50:40 GMT | Abusing WerFaultSecure.exe to Freeze EDR or Dump LSASS: A Clear Look at a Powerful PPL Bypass | Keontre Walker | [Read More](https://medium.com/p/d0ec27a6b6b2) |
+| Thu, 04 Dec 2025 20:47:38 GMT | Ignore the R-rated finger gestures (#HealthcareAfterDark) and listen to Jason Elrod insights on how… | Matthew.Rosenquist | [Read More](https://medium.com/p/d0794bf32f2b) |
 | Thu, 04 Dec 2025 20:44:00 GMT | I Tried Hacking My Own Accounts — The Results Shocked Me | Liam | [Read More](https://medium.com/p/a1a74690f0d8) |
+| Thu, 04 Dec 2025 20:39:02 GMT | Decoding Brickstorms Garble strings | Jason Reaves | [Read More](https://medium.com/p/b0a60828b3cc) |
 | Thu, 04 Dec 2025 20:34:15 GMT | Public Wi-Fi Safety: Safer, Yes. Safe for Everyone, No. | Andy Tillman UK | [Read More](https://medium.com/p/3322cc1546ef) |
 | Thu, 04 Dec 2025 20:34:13 GMT | HackTheBox— Hacknet | Boubakri Rami | [Read More](https://medium.com/p/b8cf58f9eafa) |
 | Thu, 04 Dec 2025 20:32:55 GMT | Understanding TLS Certificates: A Complete Beginner’s Guide | Nayan Kunwar | [Read More](https://medium.com/p/ecbbd0a266f8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 15:00:02 GMT | Healthcare Cybersecurity and PHI Protection: Security as Patient Safety | IT_Engineer | [Read More](https://medium.com/p/13f439a41e84) |
 | Thu, 04 Dec 2025 14:52:30 GMT | Best Beginner’s Guide For Cybersecurity Recon with Python | Scofield O. Idehen | [Read More](https://medium.com/p/8e73aefd0472) |
 | Thu, 04 Dec 2025 14:50:20 GMT | Solving THM Advent of Cyber — Chapter 1 (202): A Complete Walkthrough | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/09f9471e5ed6) |
-| Thu, 04 Dec 2025 14:49:10 GMT | How Logic Locking Changes Switching Activity and Makes Hardware Trojans Easier To Detect | Surabhi Misra | [Read More](https://medium.com/p/1946943c81a6) |
-| Thu, 04 Dec 2025 14:48:29 GMT | Sunday - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/e898f7aea677) |
-| Thu, 04 Dec 2025 14:47:38 GMT | Building Your First Malware Payload with NIM | Mr_MalMan | [Read More](https://medium.com/p/0300d5dd9151) |
-| Thu, 04 Dec 2025 14:43:29 GMT | Drafting a Real-World Penetration Testing Agreement — What I Learned as a Cybersecurity Student | Isaac Edzie | [Read More](https://medium.com/p/2728cc95f144) |
