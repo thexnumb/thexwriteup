@@ -12,9 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 07:09:32 GMT | Building a Virtual Digital Forensics Lab Focused on Autopsy | Anderson Santos | [Read More](https://medium.com/p/664cedc9b2c6) |
+| Thu, 04 Dec 2025 07:05:20 GMT | Ransomware 3.0: How Cyberattacks Are Now Targeting Your Cloud and APIs — Gargi Hatagale | KLEAP Institute of Information Security | [Read More](https://medium.com/p/c7d5ebec252e) |
+| Thu, 04 Dec 2025 07:03:56 GMT | Online Web Application Penetration Testing Course for Ethical Hackers | cyber security Updates | [Read More](https://medium.com/p/5a7abe6b9e32) |
+| Thu, 04 Dec 2025 07:03:41 GMT | AI and Privacy: What You Should Know Before Sharing Your Data | Generative AI | [Read More](https://medium.com/p/2dae96410201) |
+| Thu, 04 Dec 2025 07:03:34 GMT | AI-Powered Attacks: 15 Tools Changing Pentesting Forever (With Step-by-Step Guides) | Very Lazy Tech | [Read More](https://medium.com/p/861d5e3aeb54) |
+| Thu, 04 Dec 2025 06:59:56 GMT | Chmod vs. Chown vs. ACL - Practical Examples . | Amrsmooke | [Read More](https://medium.com/p/0a4bb4a7fa3b) |
+| Thu, 04 Dec 2025 06:59:32 GMT | Best Labs to Practice XSS (Cross-Site Scripting) | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/4b243fac4a40) |
+| Thu, 04 Dec 2025 06:56:10 GMT | How WebAssembly Supercharging the Web with Rust | Viral Parmar | [Read More](https://medium.com/p/0941e59db230) |
+| Thu, 04 Dec 2025 06:53:33 GMT | SSI IT Cyber Security Services in Munich | Public | [Read More](https://medium.com/p/54f38e5ff67b) |
+| Thu, 04 Dec 2025 06:53:21 GMT | Inside a Hacker’s Mind — The Real Reason Cyberattacks Keep Increasing | Ssolosssolo | [Read More](https://medium.com/p/0bacce510d9d) |
+| Thu, 04 Dec 2025 06:52:27 GMT | The New Rules of Cybersecurity — Why Your Biggest Threat in 2025 Isn’t Hackers, but Habits | Ssolosssolo | [Read More](https://medium.com/p/cf2d15ea8b04) |
+| Thu, 04 Dec 2025 06:46:37 GMT | Why Every Construction Project Needs Strong Site Security in 2025 | Hirasarfraz | [Read More](https://medium.com/p/321495d3acb5) |
+| Thu, 04 Dec 2025 06:40:58 GMT | C++ vs Rust for WebAssembly: An Analysis, Performance & Security | Viral Parmar | [Read More](https://medium.com/p/1fccd88045f9) |
+| Thu, 04 Dec 2025 06:39:23 GMT | Catching .NET Vulnerabilities Early: A Hands-On Guide with Puma Scan | victor williams cruz mamani | [Read More](https://medium.com/p/d49c066b60ac) |
+| Thu, 04 Dec 2025 06:35:51 GMT | Sanchar Saathi: India’s Big Telecom Security Bet — and the Privacy Debate It Sparked | Shrinivas Nadager | [Read More](https://medium.com/p/fa4c1f744f39) |
+| Thu, 04 Dec 2025 06:34:06 GMT | The Role of Cybersecurity in Protecting Personal Data | Globalblogingspark | [Read More](https://medium.com/p/ced223270d90) |
+| Thu, 04 Dec 2025 06:24:51 GMT | Mastering the Basics: Your First 10 NMAP Commands for Cybersecurity | oussama MAJID | [Read More](https://medium.com/p/30062abd1ad2) |
 | Thu, 04 Dec 2025 06:22:32 GMT | Why Construction Site Security Matters More Than Ever in Canada | Hirasarfraz | [Read More](https://medium.com/p/393924737def) |
 | Thu, 04 Dec 2025 06:00:53 GMT | The Copy-Paste That Became a Security Incident: Why AI Makes Old Problems Visible | Ramesh Babu Chayapathi | [Read More](https://medium.com/p/696f04b6712f) |
 | Thu, 04 Dec 2025 05:57:53 GMT | From Vibe Coding to Verifiable AI: Why Specifications Matter More Than Ever in the LLM Era | Marcelo Alcantara | [Read More](https://medium.com/p/b46d4cf408a4) |
+| Thu, 04 Dec 2025 05:56:22 GMT | What Is Cyber Threat Intelligence? Understanding the Backbone of Modern Security | Maxatlasofficial | [Read More](https://medium.com/p/bf4c944f092c) |
 | Thu, 04 Dec 2025 05:56:03 GMT | Ignite CTF Walkthrough: Fuel CMS 1.4 RCE to Root | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/a89656674e4a) |
 | Thu, 04 Dec 2025 05:54:28 GMT | How Network Packets Actually Travel Across the Internet (Without Magic) | Fateyaly | [Read More](https://medium.com/p/73781d6b7c18) |
 | Thu, 04 Dec 2025 05:51:42 GMT | Smart Contract Auditing: Tackling State Heavy Logic | Illoy Scizceneghposter | [Read More](https://medium.com/p/12346ba60695) |
@@ -33,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 04:34:31 GMT | Phishing — Merry Clickmas - Walkthrough - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/7985b1cb641e) |
 | Thu, 04 Dec 2025 04:28:48 GMT | Advent of Cyber 2025 {All ROOMS Update daily} — Tryhackme walkthrough | TRedEye | [Read More](https://medium.com/p/d33afa9128bc) |
 | Thu, 04 Dec 2025 04:22:35 GMT | Microsoft Entra: The New Foundation of Identity Security | Sudhakar Tiwari | [Read More](https://medium.com/p/7524c0d7ca40) |
+| Thu, 04 Dec 2025 04:15:41 GMT | NMAP Cheat Sheet Lengkap: Panduan Detail & Mudah Untuk Pantester | Handev Code | [Read More](https://medium.com/p/881c6430b8a5) |
 | Thu, 04 Dec 2025 04:15:03 GMT | Password Strength Analysis: Engineering My Secure Pass Analyzer | Asmit Patil | [Read More](https://medium.com/p/1dead25591b2) |
 | Thu, 04 Dec 2025 04:13:18 GMT | Security Infrastructure Design Document | Maris | [Read More](https://medium.com/p/9c2adcf9d92b) |
 | Thu, 04 Dec 2025 04:10:55 GMT | The Future of Cybersecurity in the Microsoft Ecosystem | Sudhakar Tiwari | [Read More](https://medium.com/p/b260b14056d1) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 21:33:37 GMT | AWS Lambda → RDS Secure Access Patterns | Mahesh Devendran | [Read More](https://medium.com/p/dc475a778c29) |
 | Wed, 03 Dec 2025 21:29:23 GMT | Complete Guide: Integrating Palo Alto Firewall with Wazuh SIEM (2025) | Avvik Poff W | [Read More](https://medium.com/p/f97027f8b22a) |
 | Wed, 03 Dec 2025 21:20:38 GMT | Nigeria’s Classroom Revolution: How AI and Cybersecurity Training Is Transforming Educators Into… | Gbolahan Akinbola | [Read More](https://medium.com/p/fa9687e2aa4b) |
-| Wed, 03 Dec 2025 21:11:03 GMT | TryHackMe VM and AttackBox ?? | Gligits.ini | [Read More](https://medium.com/p/49930b9f00b1) |
-| Wed, 03 Dec 2025 21:10:26 GMT | Why Finance Firms Need a Cybersecurity Expert Who Actually Understands Finance | CompuWork | [Read More](https://medium.com/p/8077c30d1d83) |
-| Wed, 03 Dec 2025 21:02:28 GMT | Future Trends in Artificial Intelligence: What Will Shape 2026 and Beyond | Techridge Solutions | [Read More](https://medium.com/p/5b6ef141f61f) |
-| Wed, 03 Dec 2025 20:57:49 GMT | Bypassing SameSite Protection: Chaining XSS and CSRF for Admin ATO in RomM | He4am | [Read More](https://medium.com/p/44d910c54403) |
-| Wed, 03 Dec 2025 20:54:54 GMT | Common Mistakes Beginners Make in Cybersecurity | Ali Kurt | [Read More](https://medium.com/p/49c1ce87cfd4) |
-| Wed, 03 Dec 2025 20:47:25 GMT | Siber güvenliğe nereden başlamalıyım? | Ali Kurt | [Read More](https://medium.com/p/5a2e138160d7) |
-| Wed, 03 Dec 2025 20:40:16 GMT | Privilege Escalation Allows Low-Privilege Users to View Sensitive Role Data | HBlack Ghost | [Read More](https://medium.com/p/c3dc2ffd62ef) |
-| Wed, 03 Dec 2025 20:33:19 GMT | Splunk Basics — Did you SIEM? | Andrey.Web | [Read More](https://medium.com/p/cb53cf00cd96) |
-| Wed, 03 Dec 2025 20:22:21 GMT | Enumeration-Introduction | Deep | [Read More](https://medium.com/p/fbc83ca96b25) |
-| Wed, 03 Dec 2025 20:18:15 GMT | Mapping Attack Surfaces Like A Cartographer Of Shadows | Rendur M. Saunter | [Read More](https://medium.com/p/514d3ecc09ad) |
-| Wed, 03 Dec 2025 20:16:58 GMT | How Navan Handles Audit Logging Across the Enterprise | Tanay Ghirnikar | [Read More](https://medium.com/p/d563a775aa8c) |
-| Wed, 03 Dec 2025 20:15:27 GMT | “Potato Hacks a Machine” — A Fun & Interactive Pentest Walkthrough | IshhIshneet | [Read More](https://medium.com/p/9db551610837) |
-| Wed, 03 Dec 2025 20:14:09 GMT | Confessions of a Sentinel N00b | Matt Cox | [Read More](https://medium.com/p/672eca9a875a) |
-| Wed, 03 Dec 2025 20:12:38 GMT | The Million-Dollar Handshake: Why Manufacturing’s Greatest Asset Became Its Biggest Threat | Magdalena Rita Narewska | [Read More](https://medium.com/p/02869dd7fca9) |
-| Wed, 03 Dec 2025 20:01:47 GMT | Unlock God-Tier NPCs: Merging Tarkov Sims with Deceptive, Sentient AI. ArXiv study+ more. | Berend Watchus | [Read More](https://medium.com/p/b0184ca1204b) |
-| Wed, 03 Dec 2025 19:53:03 GMT | Epílogo — Arquivo Confidencial da NeoGrid | Kleber Andrade | [Read More](https://medium.com/p/7c5b902141bc) |
-| Wed, 03 Dec 2025 19:50:03 GMT | Why Nurses With Cyber-Hygiene Skills Are the Guardians of Patient Safety in the AI Era | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/abd3fe1fd48e) |
-| Wed, 03 Dec 2025 19:42:51 GMT | Portones que patrullan | Josué Fabre | [Read More](https://medium.com/p/6444eaa5019d) |
-| Wed, 03 Dec 2025 19:41:07 GMT | Caution,,,,,,: #Dovmarkets, #Monexis & #REXIQ are confirmed scam platforms. | Datalog Shield | [Read More](https://medium.com/p/7a41599fff49) |
