@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 17:16:26 GMT | The Collapse of Romantic RiskTaking: A Cross-Generational Analysis of Vulnerability Fatigue in Gen… | Zineb | [Read More](https://medium.com/p/f36068b1e9cb) |
+| Thu, 04 Dec 2025 17:12:52 GMT | :  … | Desouza Nancy | [Read More](https://medium.com/p/8a602c3a3535) |
+| Thu, 04 Dec 2025 17:12:10 GMT | Kloud7 Expands Managed IT and Telecom Services for SMB Growth | Shehryar Khan | [Read More](https://medium.com/p/e5477d6adbe3) |
+| Thu, 04 Dec 2025 17:06:06 GMT | How I Discovered a Critical Authentication Bypass in a Fortune 500 Mobile Payments API | Tyreek Haynes | [Read More](https://medium.com/p/f41a2c6f63d4) |
+| Thu, 04 Dec 2025 17:06:01 GMT | The Sovereignty of Attention: A Protocol for Escaping the Multitasking Myth | Musfirat Tasnim | [Read More](https://medium.com/p/859a1cdb6be5) |
+| Thu, 04 Dec 2025 17:02:14 GMT | All In One — Write-Up | ManuM0re | [Read More](https://medium.com/p/133516adf7e8) |
+| Thu, 04 Dec 2025 16:50:55 GMT | J’en avais marre de gérer mes IOCs partout… alors j’ai testé Odysafe. | ShadowBlue | [Read More](https://medium.com/p/3ec4f003a2a4) |
+| Thu, 04 Dec 2025 16:50:54 GMT | Kapıdan Kovsan Bacadan Girer: Bir Logout Hikayesi | Ömer Faruk Aydın | [Read More](https://medium.com/p/5f413f23c35f) |
+| Thu, 04 Dec 2025 16:47:07 GMT | Token IMpersonation | Mert Baykal | [Read More](https://medium.com/p/578bf4d95231) |
+| Thu, 04 Dec 2025 16:45:23 GMT | From Student to Hacker - How to Learn Cybersecurity Without Getting Overwhelmed | Shahzaib | [Read More](https://medium.com/p/042b935caef5) |
+| Thu, 04 Dec 2025 16:43:17 GMT | How to Spot Fake Dark Web Links Before You Get Scammed | Tor BBB | [Read More](https://medium.com/p/9d180fe374a0) |
+| Thu, 04 Dec 2025 16:37:32 GMT | How I Discovered a $50,000 Web3 Vulnerability That Exposed Thousands | Mohaseen | [Read More](https://medium.com/p/6e9e8125050f) |
+| Thu, 04 Dec 2025 16:36:47 GMT | Understanding AD Attack Vectors Through Intentional Misconfiguration | Johnny Meintel | [Read More](https://medium.com/p/f17525058cca) |
+| Thu, 04 Dec 2025 16:31:24 GMT | The Cryptography Concept Journey — Encryption | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d382f8215364) |
+| Thu, 04 Dec 2025 16:30:49 GMT | How to Find Security Providers: A Practical, Easy-to-Understand Guide | Teona | [Read More](https://medium.com/p/1c2282f486a1) |
 | Thu, 04 Dec 2025 16:25:20 GMT | The Silent Shift in Cybercrime: Why Hackers No Longer Need Ransomware to Break You | Germano Costi | [Read More](https://medium.com/p/509461cb0d10) |
 | Thu, 04 Dec 2025 16:20:21 GMT | Gainesville Businesses Under Siege: The Hidden Cost of Cybersecurity Gaps | Anu Shreejit | [Read More](https://medium.com/p/fee895535a24) |
 | Thu, 04 Dec 2025 16:19:48 GMT | How a Windows OS Can Be Hacked: Breaking Down Real Attack Methods | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/5b38547cf16a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 11:24:56 GMT | When Seeing Isn’t Believing: Why Your Next Boss Should Be a Blockchain | George Lwanda | [Read More](https://medium.com/p/f515303cd4ca) |
 | Thu, 04 Dec 2025 11:10:03 GMT | TryHackMEVMs: Startup | Justin Jude Cabodil | [Read More](https://medium.com/p/f1847c348587) |
 | Thu, 04 Dec 2025 11:07:26 GMT | What is Fileless Malware? - VIIEGO | Rolando | [Read More](https://medium.com/p/f0655b505c5d) |
-| Thu, 04 Dec 2025 11:05:24 GMT | 7 Powerful Reasons Pentesting Without Remediation Fails | Pentest_Testing_Corp | [Read More](https://medium.com/p/710087e57b49) |
-| Thu, 04 Dec 2025 11:05:21 GMT | Searching, Filtering, and Correlation: Threat Hunting with Brim | Citadel Cybersec | [Read More](https://medium.com/p/4dc4023bb9ca) |
-| Thu, 04 Dec 2025 11:01:47 GMT | Shai-Hulud 2.0: A Deep Dive into the Modern Supply Chain Attack | Chameera Rupasinghe | [Read More](https://medium.com/p/6ce86487ffa0) |
-| Thu, 04 Dec 2025 10:56:45 GMT | Security Lab Simulation Project Part 4: Kibana Set-up and Configuration | Jenny | [Read More](https://medium.com/p/a5179c964c03) |
-| Thu, 04 Dec 2025 10:52:54 GMT | Software Composition Analysis: Ensuring Secure and Compliant Software | Media | [Read More](https://medium.com/p/455ff5320864) |
-| Thu, 04 Dec 2025 10:50:31 GMT | Final-year Cybersecurity student exploring both sides of security – VAPT & GRC | Aaditya Mathur | [Read More](https://medium.com/p/5616e25ea701) |
-| Thu, 04 Dec 2025 10:45:51 GMT | The Ultimate Guide to Wireshark in 2026: Tips, Fixes, and Pro Tricks | ghostyjoe | [Read More](https://medium.com/p/70c3f0c4d9db) |
-| Thu, 04 Dec 2025 10:44:59 GMT | React2Shell: The Scary React Bug (Fix It in 2 Minutes!) | Ali Samei | [Read More](https://medium.com/p/55ff6d83e563) |
-| Thu, 04 Dec 2025 10:40:16 GMT | View Once Photo Re-Accessible via “Edit with AI” in Messenger | Sameer Ali | [Read More](https://medium.com/p/d6c90767000c) |
-| Thu, 04 Dec 2025 10:33:11 GMT | The Last Original Print: Preserving Human Insight in the Era of AI | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/9516b2838c9a) |
-| Thu, 04 Dec 2025 10:31:09 GMT | Cheap Websites South Africa: The Complete Guide to Affordable Web Design for Small Businesses | Ava Jones | [Read More](https://medium.com/p/71ac5f4241ad) |
-| Thu, 04 Dec 2025 10:30:12 GMT | Active Directory Attack Detection Lab: Building a Mini SOC Environment | Ali Raza | [Read More](https://medium.com/p/a966e2c5d5b5) |
-| Thu, 04 Dec 2025 10:30:07 GMT | What Are the Best Security Solutions for Condos in Toronto? | Square Security Inc. | [Read More](https://medium.com/p/a974ec0ea37f) |
-| Thu, 04 Dec 2025 10:24:43 GMT | The Daily Tech Digest: 04 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2cbb426c1185) |
-| Thu, 04 Dec 2025 10:23:24 GMT | The Harrow Tapes — Grace Under Fire | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/1b31ee02e56c) |
