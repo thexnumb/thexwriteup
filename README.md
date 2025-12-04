@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 04:34:31 GMT | Phishing — Merry Clickmas - Walkthrough - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/7985b1cb641e) |
+| Thu, 04 Dec 2025 04:28:48 GMT | Advent of Cyber 2025 {All ROOMS Update daily} — Tryhackme walkthrough | TRedEye | [Read More](https://medium.com/p/d33afa9128bc) |
+| Thu, 04 Dec 2025 04:22:35 GMT | Microsoft Entra: The New Foundation of Identity Security | Sudhakar Tiwari | [Read More](https://medium.com/p/7524c0d7ca40) |
+| Thu, 04 Dec 2025 04:15:03 GMT | Password Strength Analysis: Engineering My Secure Pass Analyzer | Asmit Patil | [Read More](https://medium.com/p/1dead25591b2) |
+| Thu, 04 Dec 2025 04:13:18 GMT | Security Infrastructure Design Document | Maris | [Read More](https://medium.com/p/9c2adcf9d92b) |
+| Thu, 04 Dec 2025 04:10:55 GMT | The Future of Cybersecurity in the Microsoft Ecosystem | Sudhakar Tiwari | [Read More](https://medium.com/p/b260b14056d1) |
+| Thu, 04 Dec 2025 04:08:49 GMT | TryHack3M: Bricks Heist — From RCE to Ransomware Infrastructure | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/200601a87489) |
+| Thu, 04 Dec 2025 04:05:16 GMT | How a Single Command Shifted My Entire Life’s Direction | Tyreek Haynes | [Read More](https://medium.com/p/8e637c69e339) |
+| Thu, 04 Dec 2025 04:03:39 GMT | Bug of the Week: The Earwig A Misunderstood Little Critter | Destiny May | [Read More](https://medium.com/p/8efa1ef0e953) |
 | Thu, 04 Dec 2025 03:51:29 GMT | Breaking the Sandbox: DOM XSS in AngularJS Expressions | Delmed | [Read More](https://medium.com/p/e36ff36da48b) |
 | Thu, 04 Dec 2025 03:46:04 GMT | Secure Password Code | Mersadi Freeman | [Read More](https://medium.com/p/ab4d5fb92685) |
 | Thu, 04 Dec 2025 03:44:03 GMT | AI-Driven Cyber Attacks: The New Normal (2025 Edition) | Paritosh | [Read More](https://medium.com/p/b3da62a1337f) |
@@ -39,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 01:25:10 GMT | The Ghost in the Machine | Chris Perkins | [Read More](https://medium.com/p/76f4b43f07ff) |
 | Thu, 04 Dec 2025 01:13:50 GMT | WordPress Malware Removal - Penetration Testing & Cybersecurity Expertise | Osman Goni | [Read More](https://medium.com/p/2b0c5f22a5ae) |
 | Thu, 04 Dec 2025 01:10:56 GMT | “Which is more important on a first date: being funny or being interesting?” | Miss Matchmaker AFA - Thailand | [Read More](https://medium.com/p/63afebd8e5f7) |
+| Thu, 04 Dec 2025 00:58:22 GMT | Zero In on Targets: Automating the Modern Attack Surface  with ZeroRecon | Nmullenski | [Read More](https://medium.com/p/b373e5b45867) |
 | Thu, 04 Dec 2025 00:51:57 GMT | The Coupang Breach: A Global Wake-Up Call on Insider Risk and Detection | Ryunda | [Read More](https://medium.com/p/9e8e3a72f252) |
 | Thu, 04 Dec 2025 00:39:43 GMT | Criminal IP Knowledge Hub: Technical Insights | Criminal IP | [Read More](https://medium.com/p/6f1aece050ae) |
 | Thu, 04 Dec 2025 00:14:22 GMT | 30 Days of Red Team: Day 11 — C2 Communication Channels (When Your Primary Lifeline Gets Cut) | Maxwell Cross | [Read More](https://medium.com/p/1f368c53555e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Dec 2025 18:45:07 GMT | Friendship in the Digital Age | Swati Roshan Patil | [Read More](https://medium.com/p/3ea93369f224) |
 | Wed, 03 Dec 2025 18:42:18 GMT | Hybrid Architectures Are Becoming the New Digital Infrastructure | André Afonso Silva | [Read More](https://medium.com/p/1b51acd1910a) |
 | Wed, 03 Dec 2025 18:42:06 GMT | eJPT Prep - Host & Network Penetration Testing: Network-Based Attacks CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/1dafa2e3acfd) |
-| Wed, 03 Dec 2025 18:40:11 GMT | Creating a Professional Penetration Testing Agreement for ParoCyber | Maria Sagwa | [Read More](https://medium.com/p/27a191e69730) |
-| Wed, 03 Dec 2025 18:32:30 GMT | The CISO’s Blueprint for AI Security: Operationalizing Defense with MITRE ATLAS | Arsh Riz | [Read More](https://medium.com/p/4192d529c282) |
-| Wed, 03 Dec 2025 18:31:14 GMT | Policy as Code, Compliance as Service: Rethinking the Compliance Journey — Part 3 | Maruti Sivakumar V | [Read More](https://medium.com/p/a88177241620) |
-| Wed, 03 Dec 2025 18:29:13 GMT | Can You Really Get OSCP in 5 Months? I’m About to Find Out | Mohammed Aboelghet | [Read More](https://medium.com/p/f0570c9c25a0) |
-| Wed, 03 Dec 2025 18:29:09 GMT | How I Discovered a Flaw That Let Me Access Enterprise-Only Features | Rajveer | [Read More](https://medium.com/p/276d538bc529) |
-| Wed, 03 Dec 2025 18:19:20 GMT | TryHackMe: Advent of Cyber 2025 (Days 1 -2) | Dystopianllama | [Read More](https://medium.com/p/91e69845225f) |
-| Wed, 03 Dec 2025 18:17:16 GMT | Cyber Security Swiss Army Knife Series: Episode 2 (Part 1: Local Version Control) | Mirage43 | [Read More](https://medium.com/p/16ced297eadd) |
-| Wed, 03 Dec 2025 18:15:42 GMT | How a 2FA Bypass Bug Funded My EJPT Journey | Dinesh Narasimhan | [Read More](https://medium.com/p/b8836989327f) |
-| Wed, 03 Dec 2025 18:08:32 GMT | The Job Nobody Trained You For: Surviving the “CISO Compass” Reality | Amrik  Hanjra | [Read More](https://medium.com/p/7929c8bb6f56) |
-| Wed, 03 Dec 2025 17:59:14 GMT | The Phoenix Project: How a 2013 Business Novel Predicted Every Tech Disaster You’re Living Through | Amrik  Hanjra | [Read More](https://medium.com/p/49b34928b180) |
