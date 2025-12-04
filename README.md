@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 09:38:31 GMT | Разследване на фишинг атака към българска държавен орган | Georgi Hadzhinikiforov | [Read More](https://medium.com/p/68ff0900d397) |
+| Thu, 04 Dec 2025 09:38:10 GMT | Investigating Tor Usage in Cybercrime Cases: A Forensic Workflow | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/4fafa6eb0875) |
+| Thu, 04 Dec 2025 09:36:23 GMT | Advent of Cyber Security 2025 — DAY 1 — Side Quest | Jerome Lolong | [Read More](https://medium.com/p/ef9c1982be9b) |
+| Thu, 04 Dec 2025 09:35:40 GMT | The Importance of Military Cybersecurity: Why Digital Defense Is the New Frontline | Tandelpruthvi | [Read More](https://medium.com/p/11e7263a432f) |
+| Thu, 04 Dec 2025 09:26:13 GMT | CORS Hell: When Azure App Service Settings Override Your Code | Muhammed Agbaje | [Read More](https://medium.com/p/e48ab9e997a3) |
 | Thu, 04 Dec 2025 09:22:45 GMT | Best Antivirus for PC: How to Choose the Right Security Software | Manik | [Read More](https://medium.com/p/d26a6a2d3b8e) |
 | Thu, 04 Dec 2025 09:20:09 GMT | Day 3: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/40df6cb1c6cd) |
 | Thu, 04 Dec 2025 09:18:03 GMT | Zero Trust Architecture: Redefining Network Security | F9 Infotech | [Read More](https://medium.com/p/098d73477d62) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 02:39:03 GMT | MSSQL Attacks Skyrocket as Overall Threat Activity Jumps Nearly 50% in November 2025 | Px Mx | [Read More](https://medium.com/p/0ff8f6850493) |
 | Thu, 04 Dec 2025 02:29:27 GMT | How to mass delete emails on Gmail from one sender in 2025 | Safelyo Global | [Read More](https://medium.com/p/c84a2e5fa09e) |
 | Thu, 04 Dec 2025 02:27:31 GMT | The Zero-Trust Loop: Origins in the LastPass Breach | Jose Eurico | [Read More](https://medium.com/p/146e158bfe0a) |
-| Thu, 04 Dec 2025 02:26:06 GMT | The Story of How I Hacked an Event Management Platform | JC | [Read More](https://medium.com/p/5a719250042c) |
-| Thu, 04 Dec 2025 02:10:04 GMT | 5 Signs Your Website Is Vulnerable to Cyber Attacks (And How to Fix Them Fast) | Vulnersight | [Read More](https://medium.com/p/33f099ac7bc6) |
-| Thu, 04 Dec 2025 02:06:01 GMT | ARP Spoofing & Sniffing: The Silent Threat on Your Local Network | Ajmir khan | [Read More](https://medium.com/p/30d7397e80e8) |
-| Thu, 04 Dec 2025 02:02:13 GMT | Reconnaissance in Hacker’s Life Cycle: How Attackers Gather Information. | Jugal Patel | [Read More](https://medium.com/p/267788edfb1f) |
-| Thu, 04 Dec 2025 02:01:19 GMT | How to Quickly Check If Your Website Is Secure (No Technical Skills Needed) | Vulnersight | [Read More](https://medium.com/p/bd90b02a5119) |
