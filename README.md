@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Dec 2025 08:22:20 GMT | Smart Monitoring Practices for Faster Aramco Certification | Rahman Iqbal | [Read More](https://medium.com/p/03e16cda4022) |
+| Thu, 04 Dec 2025 08:21:38 GMT | Cloudflare Q3 DDoS Threat Report: Record Attacks Surge Hong Kong Ranks 8th Among Global Sources | Breezy Business Channel | [Read More](https://medium.com/p/fd941006386f) |
+| Thu, 04 Dec 2025 08:19:34 GMT | AI Evasion — Foundations [Hack The Box] | Kryptologyst | [Read More](https://medium.com/p/9b558cd46c4c) |
+| Thu, 04 Dec 2025 08:16:34 GMT | Winning Nigeria’s Security Battle: A Strategic Path for General Musa | El-yadirf Adokauhil | [Read More](https://medium.com/p/13ce7e18e959) |
+| Thu, 04 Dec 2025 08:13:10 GMT | API Hosting: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/b9a2f6a014cd) |
+| Thu, 04 Dec 2025 08:11:32 GMT | Why Your Team Keeps Dropping the Ball (And It’s Not Their Fault) | Jayal Yadav | [Read More](https://medium.com/p/27400379f69a) |
+| Thu, 04 Dec 2025 08:07:03 GMT | AI Wrote This Code. As a Healthcare Security Analyst, That Terrifies Me. | Adam Frąckowiak | [Read More](https://medium.com/p/55907e99e724) |
+| Thu, 04 Dec 2025 07:57:55 GMT | Best Security Services in Haryana — Lakshay Security & Placement Services | Lakshay Security | [Read More](https://medium.com/p/9fbfae4d1c36) |
+| Thu, 04 Dec 2025 07:57:04 GMT | Where Can You Find the Best Security Services in Haryana? | Lakshay Security | [Read More](https://medium.com/p/9508ccc02f63) |
+| Thu, 04 Dec 2025 07:56:07 GMT | Strong Mornings, Strong Security: What I Do Before 8AM | Fook Hwa Tan | [Read More](https://medium.com/p/6d59d791f98c) |
+| Thu, 04 Dec 2025 07:54:50 GMT | A Day I’ll Never Forget as a CQO It Was a Normal Day — Until This Cyber Incident Hit | Fook Hwa Tan | [Read More](https://medium.com/p/3aff185f7cba) |
+| Thu, 04 Dec 2025 07:54:11 GMT | SFTP vs FTP: Why You Should Always Choose Secure SFTP | Smit Pipaliya | [Read More](https://medium.com/p/fc144b10fbc6) |
+| Thu, 04 Dec 2025 07:54:00 GMT | Why SSH Public Key Authentication Is Better Than Password | Smit Pipaliya | [Read More](https://medium.com/p/3ce7e243dd37) |
+| Thu, 04 Dec 2025 07:51:52 GMT | Protect Your Anonymity with AnonSurf | Frost | [Read More](https://medium.com/p/41083065c51f) |
+| Thu, 04 Dec 2025 07:51:07 GMT | Holiday Season Scams Are Back: How Freelancers Can Stay Safe (A Must-Read Guide) | Andrei Olaru | [Read More](https://medium.com/p/9d04b8c3e076) |
+| Thu, 04 Dec 2025 07:32:11 GMT | 7 Fernet/KMS Patterns for Python Services | Syntal | [Read More](https://medium.com/p/9bc0a79ad3c2) |
 | Thu, 04 Dec 2025 07:27:46 GMT | The Hidden Price of Vibe Coding: Why We Need New Tools to Catch AI’s Bugs | Faisal haque | [Read More](https://medium.com/p/be5f6a888bc8) |
 | Thu, 04 Dec 2025 07:26:13 GMT | VSP: Rethinking Web Security for the Post-Quantum Era | Soham Kumawat | [Read More](https://medium.com/p/66d90920657c) |
 | Thu, 04 Dec 2025 07:26:10 GMT | Critical Vulnerability in React Server Components Affecting React 19 and Next.js | Kristiyan Velkov | [Read More](https://medium.com/p/85b139fab843) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 00:58:22 GMT | Zero In on Targets: Automating the Modern Attack Surface  with ZeroRecon | Nmullenski | [Read More](https://medium.com/p/b373e5b45867) |
 | Thu, 04 Dec 2025 00:51:57 GMT | The Coupang Breach: A Global Wake-Up Call on Insider Risk and Detection | Ryunda | [Read More](https://medium.com/p/9e8e3a72f252) |
 | Thu, 04 Dec 2025 00:39:43 GMT | Criminal IP Knowledge Hub: Technical Insights | Criminal IP | [Read More](https://medium.com/p/6f1aece050ae) |
-| Thu, 04 Dec 2025 00:14:22 GMT | 30 Days of Red Team: Day 11 — C2 Communication Channels (When Your Primary Lifeline Gets Cut) | Maxwell Cross | [Read More](https://medium.com/p/1f368c53555e) |
-| Thu, 04 Dec 2025 00:12:11 GMT | “Peekaboo: The PikaBot Playbook” | Morgan E | [Read More](https://medium.com/p/78f2bd0b7807) |
-| Thu, 04 Dec 2025 00:00:18 GMT | Apple Pay vs Google Pay: The Hidden Security Difference Everyone Should Know in 2025 | Vikram Reddy | [Read More](https://medium.com/p/c8bda09aba03) |
-| Wed, 03 Dec 2025 23:53:22 GMT | Everything You Need to Start a Career in IT/Data & AI — And Grow Fast | SattiData | [Read More](https://medium.com/p/776e070d61a9) |
-| Wed, 03 Dec 2025 23:45:23 GMT | Run a Free Domain Leak Check Before Your Next Security Review | Alexandre Vandamme | [Read More](https://medium.com/p/62beca53b00f) |
-| Wed, 03 Dec 2025 23:35:05 GMT | I Built 12 Security Programs from Zero. Here’s the First 30 Days CEOs Should Demand | Tyson Martin | [Read More](https://medium.com/p/de11f5f3a59f) |
-| Wed, 03 Dec 2025 23:31:44 GMT | Making Sense of the GDPR | Financial Poise | [Read More](https://medium.com/p/f6b72a458a9d) |
-| Wed, 03 Dec 2025 23:26:26 GMT | TryHackMe-TakeOver-WriteUp | GUERD Nawal | [Read More](https://medium.com/p/ee20869dacff) |
-| Wed, 03 Dec 2025 23:24:59 GMT | REMINDER: Call for Speakers for “VulnCon 2026” Closes on December 22, 2025 | CVE Program Blog | [Read More](https://medium.com/p/3ff9037650a6) |
-| Wed, 03 Dec 2025 22:47:56 GMT | Advent of Cyber 2025: Day 1 and SideQuests Write Up Pa | Mrinal Kumar Chandra | [Read More](https://medium.com/p/384f72d4a371) |
-| Wed, 03 Dec 2025 22:42:41 GMT | Critical Vulnerabilities in React and Next.js: Security Advisory | Bastradamus | [Read More](https://medium.com/p/01a3de27f1e2) |
-| Wed, 03 Dec 2025 22:40:33 GMT | CVE-2025–55182 Explained — Technical Analysis and Validation of the Attack Vector in React Server… | Santiago Habib | [Read More](https://medium.com/p/6f3fcd3d154e) |
-| Wed, 03 Dec 2025 22:39:29 GMT | How to Write an Executive Summary | Cyberoptic Security | [Read More](https://medium.com/p/2ba6b4298693) |
-| Wed, 03 Dec 2025 22:32:43 GMT | The Day Production Went Down Because of a Single .env File | Faris Chtatou | [Read More](https://medium.com/p/829f86056e8e) |
-| Wed, 03 Dec 2025 22:32:07 GMT | CVE-2025–55182 Explicado — Análisis Técnico y Validación del Vector de Ataque en React Server… | Santiago Habib | [Read More](https://medium.com/p/6929c3d20045) |
-| Wed, 03 Dec 2025 22:08:08 GMT | Exploiting Logic Flaws & Zip Slips: A Walkthrough of “Desires” on Hack The Box | Muhammad Younas | [Read More](https://medium.com/p/c68a39eea650) |
