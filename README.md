@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 22:58:00 GMT | Grief, Failure, and a Second Chance: My Journey to the CNSP | Nmullenski | [Read More](https://medium.com/p/a56fa340b45d) |
+| Fri, 05 Dec 2025 22:48:20 GMT | Information disclosure-Overview | Yassin Khadrawy | [Read More](https://medium.com/p/603cff3e6fd3) |
 | Fri, 05 Dec 2025 22:33:08 GMT | Hack With Me: AI in Security — old sAInt nick. Advent of Cyber 2025 Day 4 | mikesploit | [Read More](https://medium.com/p/6073e8e7afa3) |
 | Fri, 05 Dec 2025 22:30:50 GMT | The 5 Attacks That Blindsided Every Company in 2025 | Cyber-AppSec | [Read More](https://medium.com/p/6d7779d93ff6) |
 | Fri, 05 Dec 2025 22:30:14 GMT | Why 2025 is the Year Browsers Became the #1 Endpoint Risk | Mammoth Cyber | [Read More](https://medium.com/p/5fc4ff1eff0c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 15:06:12 GMT | Microsoft Entra ID: Secure Your Data with Zero Trust — A Practical Guide | Amit Kulkarni | [Read More](https://medium.com/p/28b16b37d6d3) |
 | Fri, 05 Dec 2025 15:03:25 GMT | Cyber Briefing: 2025.12.05 | CyberMaterial | [Read More](https://medium.com/p/c6673a1f513f) |
 | Fri, 05 Dec 2025 15:02:25 GMT | ChatGPT History Is Showing Up on Google. | Jeremy M Williams | [Read More](https://medium.com/p/5481efb075d5) |
-| Fri, 05 Dec 2025 14:48:52 GMT | SSH-IDS — The Lightweight Linux Security Tool I Built to Detect SSH Attacks in Real Time | Faruk Ahmed | [Read More](https://medium.com/p/3c1a1cf173b7) |
-| Fri, 05 Dec 2025 14:45:10 GMT | cURL Explained Simply: Your Internet Superpower | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/a767746eb230) |
