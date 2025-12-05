@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 17:28:18 GMT | Getting Started(Hack The Box) | Deep | [Read More](https://medium.com/p/9a13b1fef94d) |
 | Fri, 05 Dec 2025 17:02:31 GMT | The Case Against De-Googling | Mike Wielgołaski | [Read More](https://medium.com/p/d7c45f3504b9) |
 | Fri, 05 Dec 2025 16:55:48 GMT | API Pentesting: The Brutally Honest Guide They Don’t Teach You | Sachin kewat | [Read More](https://medium.com/p/c3073a38a977) |
 | Fri, 05 Dec 2025 16:45:38 GMT | Smarter Edge Lighting For A Calmer Android Experience | Geoffrey Wenger | [Read More](https://medium.com/p/230ae77a3aa7) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 10:44:04 GMT | Best Antivirus for Mac Computers: Top Picks for Maximum Security | Siyanoav | [Read More](https://medium.com/p/a7aa69c2ae95) |
 | Fri, 05 Dec 2025 10:41:17 GMT | Threat Actor Profiling 101: How Cyber Analysts Identify the Humans Behind the Attack | Iman Kurnia | [Read More](https://medium.com/p/1340e1e75421) |
 | Fri, 05 Dec 2025 10:40:21 GMT | Advent of Cyber 2025: Why You Should Join TryHackMe’s Biggest Free Cybersecurity Event | Cyber Times | [Read More](https://medium.com/p/182a9974b5ef) |
-| Fri, 05 Dec 2025 10:30:45 GMT | The Cryptography Concept Journey — Decryption | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/067b2ee4ea15) |
