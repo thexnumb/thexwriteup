@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 22:11:05 GMT | The Story Behind the COINBASE Cyber-Attack | Abdulraheem Abdulsalam | [Read More](https://medium.com/p/15a3d074ff3a) |
+| Fri, 05 Dec 2025 22:09:25 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 5: DC-6 | Shikhar Sinha | [Read More](https://medium.com/p/c958c7d228b9) |
+| Fri, 05 Dec 2025 22:02:34 GMT | React2Shell- Inside the Critical React Server Components Vulnerability | Vignesh | [Read More](https://medium.com/p/dfa0801b3d28) |
+| Fri, 05 Dec 2025 21:45:37 GMT | Most MFA Pain Is Self-Inflicted | anthony k | [Read More](https://medium.com/p/39e3a0c94ce3) |
+| Fri, 05 Dec 2025 21:44:02 GMT | Subject: Mastering CSRF Attacks — Complete Step-By-Step Explanation + Burp Suite Demonstration… | Zoningxtr | [Read More](https://medium.com/p/3aa3db44ce6b) |
 | Fri, 05 Dec 2025 21:34:48 GMT | Exposure Management vs XDR Isn’t the Debate. You Need Both. | anthony k | [Read More](https://medium.com/p/43cd0a68476e) |
+| Fri, 05 Dec 2025 21:32:15 GMT | Rima Paciullo lance la première plateforme d’examens blancs T1–T10 en France | Rima Paciullo | [Read More](https://medium.com/p/7184c0afa288) |
 | Fri, 05 Dec 2025 21:26:17 GMT | E-ticaret Uygulamasında Race Condition Kaynaklı Çifte Bakiye Yükleme Açığı | Soltan Maharramov | [Read More](https://medium.com/p/7af355bcfd2b) |
 | Fri, 05 Dec 2025 21:15:29 GMT | What is API Security and Why Should Everyday People Care? | Bella Etuk | [Read More](https://medium.com/p/5634190e084c) |
 | Fri, 05 Dec 2025 21:09:26 GMT | 75% of Pentest Findings Return as Exploitable, Stop This by Creating Security Regression Templates | Muh. Fani Akbar | [Read More](https://medium.com/p/bb1fd9eefbc6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 14:17:51 GMT | Firewalls as Digital Gatekeepers, IDS as the Detective Inside | farshad moradi shahrbabak | [Read More](https://medium.com/p/0162eacdb9fc) |
 | Fri, 05 Dec 2025 14:14:00 GMT | Essential Docker Commands for Cybersecurity Labs (With Syntax & Purpose) | Ramandeep Bagri | [Read More](https://medium.com/p/cc38d7d0e77d) |
 | Fri, 05 Dec 2025 14:12:59 GMT | ️ Agentic AI Threats: A Deep Dive Into Securing the Enterprise Code Pipeline | Rakhil Kr | [Read More](https://medium.com/p/6946627da56b) |
-| Fri, 05 Dec 2025 14:09:00 GMT | A Look at the Alleged Beckett Collectibles Data Breach | Seamus Callahan | [Read More](https://medium.com/p/46bfd45cd47d) |
-| Fri, 05 Dec 2025 14:03:55 GMT | October — Hack The Box Walkthrough | Eng Ahmed Ibrahim | [Read More](https://medium.com/p/884c4aa2d05a) |
-| Fri, 05 Dec 2025 14:02:47 GMT | Is your website ready for 2025 threats? | HSINGH WEB STUDIO | [Read More](https://medium.com/p/d56300121a51) |
-| Fri, 05 Dec 2025 13:59:43 GMT | The First AI Misclassification Will Break an Alliance Before It Breaks a Battlefield | AXSAS | [Read More](https://medium.com/p/22d4d5e6fa84) |
-| Fri, 05 Dec 2025 13:55:49 GMT | CVE-2024–38063: A Deep Dive into the IPv6 Kernel Pool Vulnerability | VampireXRay | [Read More](https://medium.com/p/72cc11c93978) |
-| Fri, 05 Dec 2025 13:49:08 GMT | AI Security Series: LLMs Sensitive Data Leakage | Prettycybergirl | [Read More](https://medium.com/p/85f667efba90) |
