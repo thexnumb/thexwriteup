@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 03:09:35 GMT | JWT Authentication Bypass via kid Header Path Traversal | Bash Overflow | [Read More](https://medium.com/p/c59ac1e83430) |
+| Fri, 05 Dec 2025 03:09:26 GMT | Tracking Hackers Online ️‍♂️: A Dark Web OSINT Story | Vipul Sonule | [Read More](https://medium.com/p/e834dbde9d54) |
+| Fri, 05 Dec 2025 03:09:20 GMT | The OSINT Mindset, Thinking Like an Investigator | Aj | [Read More](https://medium.com/p/698bf57d0746) |
+| Fri, 05 Dec 2025 03:07:09 GMT | Security Is the Only Field Where Everyone Has a Different Definition of What We Do | Peter Uliano | [Read More](https://medium.com/p/163bc2c0f20e) |
+| Fri, 05 Dec 2025 03:02:12 GMT | Cybersecurity: ความจริงที่ SME มองข้ามไม่ได้อีกต่อไป และวิธีที่ Krungsri Business Online Mobile… | Krungsri Nimble | [Read More](https://medium.com/p/92763277183e) |
+| Fri, 05 Dec 2025 02:50:17 GMT | Tải Tiệm Lẩu Đường Hạnh Phúc Mod Apk (Vô Hạn Tiền, Kim Cương) V5.2.1 | Apkpuredev | [Read More](https://medium.com/p/7b7eb884c290) |
+| Fri, 05 Dec 2025 02:25:12 GMT | Cicada — HTB Walkthrough - From Enumeration to PrivEsc with SeBackupPrivilege (Smart Path) | Xploitnik | [Read More](https://medium.com/p/35ab42a26d19) |
+| Fri, 05 Dec 2025 02:21:33 GMT | VPN for China: Only 5 still work in the 2025 real-world test | Safelyo VPN | [Read More](https://medium.com/p/5a7ad620c15e) |
+| Fri, 05 Dec 2025 02:15:35 GMT | Is It Possible to Hijack 3,000 Computers in 3 Days Across 50 Banks? | Raviteja Mureboina | [Read More](https://medium.com/p/03d358374b1a) |
+| Fri, 05 Dec 2025 02:00:09 GMT | Cloudbric Services Progress Report (11/1 ~ 11/30) | Cloudbric | [Read More](https://medium.com/p/6d6423248ddb) |
+| Fri, 05 Dec 2025 02:00:04 GMT | Cloudbric Services Progress Report (11/1 ~ 11/30) | Cloudbric | [Read More](https://medium.com/p/9dad9a5995b1) |
+| Fri, 05 Dec 2025 01:54:24 GMT | PixVerse V5.5 Review: Multi-Shot AI Video & Audio-Visual Sync | Ccarol | [Read More](https://medium.com/p/21f01d18e92d) |
 | Fri, 05 Dec 2025 01:43:20 GMT | The AI Memory Crunch: Why Privacy and Security Just Became a Luxury Good | Jeremy Tarkington | [Read More](https://medium.com/p/4d25be0d5946) |
 | Fri, 05 Dec 2025 01:41:54 GMT | Security Lab Simulation Project Part 5: Fleet Server Set-up and Configuration | Jenny | [Read More](https://medium.com/p/4b74ada678ac) |
 | Fri, 05 Dec 2025 01:39:27 GMT | The Experience of Viewing the Remarks Produced by AI | Aliyu Ibrahim | [Read More](https://medium.com/p/fc449c6d861a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 17:38:53 GMT | Building the Ultimate Android Hacking Lab - Without Losing Your Mind (Of Course) | Omkar D. | [Read More](https://medium.com/p/382152af032e) |
 | Thu, 04 Dec 2025 17:36:51 GMT | PENETRATION TESTING REPORT — BOUNTY HACKER - TRYHACKME | Sreeragmanghat | [Read More](https://medium.com/p/0d0d7822883b) |
 | Thu, 04 Dec 2025 17:35:13 GMT | Starting Off with a Small Vulnerability — Responsibly disclosed :) | Philip James | [Read More](https://medium.com/p/0e25c23b01f0) |
-| Thu, 04 Dec 2025 17:34:08 GMT | The Hidden Architecture of Security Success: What Ross Haleliuk’s Hiring Manifesto Really Tells Us | Kaustubh Phatak | [Read More](https://medium.com/p/ad0590b2d74b) |
-| Thu, 04 Dec 2025 17:31:00 GMT | Everything Worked Locally — Until Timezones Destroyed My App | The Dev Notebook | [Read More](https://medium.com/p/78701dab5e81) |
-| Thu, 04 Dec 2025 17:26:34 GMT | Advent of Cyber 2025 - Day 4: AI in Security — old sAInt nick | D4m.sh | [Read More](https://medium.com/p/d9255bfb90e7) |
-| Thu, 04 Dec 2025 17:25:40 GMT | My Penetration Testing Agreement Assignment: What I Built and What I Learned | Latifah Sia | [Read More](https://medium.com/p/2a775e0c9306) |
-| Thu, 04 Dec 2025 17:24:36 GMT | Write-up : Soupedecode 01 — TryHackMe | DylanSec | [Read More](https://medium.com/p/f4a9f962f6df) |
-| Thu, 04 Dec 2025 17:16:26 GMT | The Collapse of Romantic RiskTaking: A Cross-Generational Analysis of Vulnerability Fatigue in Gen… | Zineb | [Read More](https://medium.com/p/f36068b1e9cb) |
-| Thu, 04 Dec 2025 17:12:52 GMT | :  … | Desouza Nancy | [Read More](https://medium.com/p/8a602c3a3535) |
-| Thu, 04 Dec 2025 17:12:10 GMT | Kloud7 Expands Managed IT and Telecom Services for SMB Growth | Shehryar Khan | [Read More](https://medium.com/p/e5477d6adbe3) |
-| Thu, 04 Dec 2025 17:06:06 GMT | How I Discovered a Critical Authentication Bypass in a Fortune 500 Mobile Payments API | Tyreek Haynes | [Read More](https://medium.com/p/f41a2c6f63d4) |
-| Thu, 04 Dec 2025 17:06:01 GMT | The Sovereignty of Attention: A Protocol for Escaping the Multitasking Myth | Musfirat Tasnim | [Read More](https://medium.com/p/859a1cdb6be5) |
-| Thu, 04 Dec 2025 17:02:14 GMT | All In One — Write-Up | ManuM0re | [Read More](https://medium.com/p/133516adf7e8) |
-| Thu, 04 Dec 2025 16:50:55 GMT | J’en avais marre de gérer mes IOCs partout… alors j’ai testé Odysafe. | ShadowBlue | [Read More](https://medium.com/p/3ec4f003a2a4) |
