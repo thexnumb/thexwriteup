@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 08:22:53 GMT | VPN Use Cases in 2025/2026: Practical Guides for Real‑World Users | Szabolcs Záhorszki | [Read More](https://medium.com/p/7d818a579263) |
+| Fri, 05 Dec 2025 08:21:56 GMT | Cheep hacking and exploitation service that hacker recommend | Jangyunwoo | [Read More](https://medium.com/p/3ca1d36545ab) |
+| Fri, 05 Dec 2025 08:11:30 GMT | AI Governance: Ethical Frameworks for Safer AI | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/8e3c8d61c70f) |
+| Fri, 05 Dec 2025 08:10:26 GMT | Are UK Manufacturers Sleepwalking Into a Cyber Disaster? | Luke Appleby | [Read More](https://medium.com/p/5d8463a32b98) |
+| Fri, 05 Dec 2025 08:06:12 GMT | Superpower in Linux Log Analysis: A Guide to Using Regex (Regular Expressions) | Esra Kayhan | [Read More](https://medium.com/p/712d4467e573) |
+| Fri, 05 Dec 2025 08:01:45 GMT | HIPAA Enforcement Rule for Business Associates: Are You Meeting the Standards? | SecureSlate | [Read More](https://medium.com/p/94ceccfe4190) |
+| Fri, 05 Dec 2025 07:59:50 GMT | Python programming classes in Delhi for students and professionals | cyber security Updates | [Read More](https://medium.com/p/a99e895ddf0e) |
+| Fri, 05 Dec 2025 07:42:59 GMT | Building “FraudGuard AI”: A Real-Time Financial Defense System with Python & FastAPI | Ansh Hemal Mehta | [Read More](https://medium.com/p/3d9de29affeb) |
+| Fri, 05 Dec 2025 07:38:10 GMT | The Anatomy of a Digital Mirage: A Forensic Audit of Unverified Trading Platforms | Nezahualpilli Tlapalco | [Read More](https://medium.com/p/9ee4679699d2) |
+| Fri, 05 Dec 2025 07:36:10 GMT | The Daily Tech Digest: 05 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a31838240d17) |
 | Fri, 05 Dec 2025 07:33:27 GMT | The Invisible Shield: How Modern APIs Stay Secure (and Why JWT Still Matters in 2025) | CodeWithYog | [Read More](https://medium.com/p/16ad72c6fb74) |
+| Fri, 05 Dec 2025 07:32:43 GMT | What Your Browser Reveals About You: A Cybersecurity Perspective | Deepak Sharma | [Read More](https://medium.com/p/ed9792bedc89) |
 | Fri, 05 Dec 2025 07:31:01 GMT | Stop Paying for Cloud: How to Get 35GB Free + a $60 Bulletproof Backup | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/b298a9208571) |
 | Fri, 05 Dec 2025 07:25:17 GMT | Empowering Sierra Leone’s Future Tech Leaders: Lessons from the CS Alpha AMA Session at UNIMAK | Mohamed Lebbie | [Read More](https://medium.com/p/bb3b5d73b2ae) |
 | Fri, 05 Dec 2025 07:22:32 GMT | When Trusted Software Turns Into A Cyber Weapon | Redfox Security | [Read More](https://medium.com/p/f6035e98c255) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 22:29:06 GMT | TwoMillion — HackTheBox — Walkthrough | Mauricio Antonio | [Read More](https://medium.com/p/62c906f1e94c) |
 | Thu, 04 Dec 2025 22:18:51 GMT | Prompt Engineering the Mirage of AI Advancement | Ahsan | [Read More](https://medium.com/p/3373abf031d4) |
 | Thu, 04 Dec 2025 22:15:10 GMT | I completed a cybersecurity assignment that involved writing a Penetration Testing Agreement for… | shola Abhus | [Read More](https://medium.com/p/3c1ac7202203) |
-| Thu, 04 Dec 2025 22:07:46 GMT | From error messages to network diagnostics, uncover the secret protocol that keeps the internet… | Dhrumil Joshi | [Read More](https://medium.com/p/8ee287f3100d) |
-| Thu, 04 Dec 2025 22:00:13 GMT | Open Code Mission — OS Mission v1.0: What We Are Shipping On 31 January 2026 | Graham dePenros | [Read More](https://medium.com/p/e1ae7680a440) |
-| Thu, 04 Dec 2025 21:59:38 GMT | How I discovered some security flaws in a Start-Up | T3sla | [Read More](https://medium.com/p/e870441b9650) |
-| Thu, 04 Dec 2025 21:57:53 GMT | O peso da referência, o silêncio fiel. | Otávio Damichel | [Read More](https://medium.com/p/17d5f4499b77) |
-| Thu, 04 Dec 2025 21:57:00 GMT | Phishing Analysis Fundamentals — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/9aa9221a0a80) |
-| Thu, 04 Dec 2025 21:54:27 GMT | Critical Vulnerabilities in React and Next.js: Everything You Need to Know About React2Shell | Sean Amarasinghe | [Read More](https://medium.com/p/b2e373b7cd03) |
-| Thu, 04 Dec 2025 21:49:41 GMT | Ethical Hacking Assignment: Penetration Testing Agreement | Claudius Thompson | [Read More](https://medium.com/p/714845ce372c) |
-| Thu, 04 Dec 2025 21:47:33 GMT | In-Memory LSASS Dumping | S12 - 0x12Dark Development | [Read More](https://medium.com/p/effceed440f0) |
-| Thu, 04 Dec 2025 21:46:38 GMT | Operationalizing MITRE ATLAS: A Guide to AI Threat Modeling, SIEM Integration, and Incident… | Arsh Riz | [Read More](https://medium.com/p/fcffeb9caa04) |
-| Thu, 04 Dec 2025 21:37:28 GMT | The Hidden War in Your Browser’s Memory: Understanding Memory Corruption Exploits in 2025. | Keylogncoffee | [Read More](https://medium.com/p/dff2e5771f7e) |
-| Thu, 04 Dec 2025 21:19:03 GMT | The Privacy Lie: Why Your VPN Is Useless Against Tracking (And What to Do About It) | Kyle | [Read More](https://medium.com/p/0e3736b45525) |
