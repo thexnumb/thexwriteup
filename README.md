@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 12:38:36 GMT | AI-Powered Cyber Threats: Why Gainesville Businesses Can’t Afford to Wait | Anu Shreejit | [Read More](https://medium.com/p/c05ce8f6b0e6) |
+| Fri, 05 Dec 2025 12:35:19 GMT | Maximum Physical Privacy and Security as a Crypto Whale: OpSec Strategies Against Physical Threats… | Officer's Notes | [Read More](https://medium.com/p/c25e7b5be54d) |
+| Fri, 05 Dec 2025 12:34:55 GMT | Wireshark for Windows (2026 Edition): The Complete Beginner-to-Pro Guide | ghostyjoe | [Read More](https://medium.com/p/6eeaed3885d3) |
+| Fri, 05 Dec 2025 12:32:41 GMT | Tauri 2.0: Building Lightweight Desktop & Mobile Apps with Rust Security and System WebView… | Kawaldeep Singh | [Read More](https://medium.com/p/c89e2901208a) |
+| Fri, 05 Dec 2025 12:31:25 GMT | When the Visibility Layer Fails: What Cloudflare’s Outage Reveals About Digital Fragility | Nathaniel Niyazov | [Read More](https://medium.com/p/6b003ad50e2d) |
+| Fri, 05 Dec 2025 12:28:41 GMT | The Era of “AI-Driven Attacks vs AI-Driven Defense” in Cybersecurity | ALGOFACT | [Read More](https://medium.com/p/8ea6644e1659) |
+| Fri, 05 Dec 2025 12:27:20 GMT | The Invisible War: AI vs AI in the Future of Cyber Defense and Attack | Zain Ahmad | [Read More](https://medium.com/p/67364106fcd1) |
+| Fri, 05 Dec 2025 12:25:05 GMT | Handling Online Threats with the Best Antivirus for PC | SiyanoAV | [Read More](https://medium.com/p/3d497dac0f6a) |
+| Fri, 05 Dec 2025 12:16:44 GMT | Remove Ads on NoonooTV — Clean Streaming Setup (2026) | NoonooTV Official | [Read More](https://medium.com/p/f59edf55a6ba) |
+| Fri, 05 Dec 2025 12:16:02 GMT | I Used One GraphQL Hack to Expose 2,300 PII Records + 7 Bugs | Ibtissam | [Read More](https://medium.com/p/8faf63cebf84) |
+| Fri, 05 Dec 2025 12:15:12 GMT | Penetration Testing Workflow Using Nmap & Metasploit | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/35702dc47047) |
+| Fri, 05 Dec 2025 12:15:04 GMT | The First AI-Agent Led Cyberattack Just Hit — SenatorsWant Answers | James Lawson | [Read More](https://medium.com/p/69ed91c97c15) |
+| Fri, 05 Dec 2025 12:07:29 GMT | How Securing IOT Devices | Jayant Kaushik | [Read More](https://medium.com/p/5855df8ba49e) |
+| Fri, 05 Dec 2025 11:52:48 GMT | Social Inequality and Reproductive Decisions: Should Women Be Penalized for Having Many Children… | Wem'Afrika | [Read More](https://medium.com/p/6d8e0506e4c8) |
+| Fri, 05 Dec 2025 11:52:10 GMT | You Don’t Have to Be ‘Fine’ All the Time | Inspire: Viva La Vida | [Read More](https://medium.com/p/8c9bd32389f2) |
+| Fri, 05 Dec 2025 11:49:40 GMT | Choosing the Right SOAR Platform in 2026 | NetWitness | [Read More](https://medium.com/p/7405a9274efe) |
+| Fri, 05 Dec 2025 11:44:31 GMT | The Invisible Battles: What No One Sees When You’re “Functioning” | Vanessa Gemicibasi | [Read More](https://medium.com/p/6926642f1e51) |
+| Fri, 05 Dec 2025 11:42:22 GMT | Wearing Many Hats: My Journey into Security and GRC | Natalie | [Read More](https://medium.com/p/0cd307613e15) |
+| Fri, 05 Dec 2025 11:39:32 GMT | Which Cybersecurity Training Online Program Best Fits Your Career Goals | Janbask Training | [Read More](https://medium.com/p/6351891cad77) |
+| Fri, 05 Dec 2025 11:38:58 GMT | TryHackMe Anonforce Walkthrough: Cracking PGP Keys and Gaining Root | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/bfaed62a1e9a) |
 | Fri, 05 Dec 2025 11:25:37 GMT | The Top 20 Kali Linux Apps and Where to Find Them | Travis Ray Caverhill | [Read More](https://medium.com/p/2b8fb67a2e2e) |
 | Fri, 05 Dec 2025 11:23:18 GMT | Why You Should Test for WebRTC Leaks (And How They Affect Your Privacy) | Anna Kolodkina | [Read More](https://medium.com/p/ff7f333a9657) |
 | Fri, 05 Dec 2025 11:22:40 GMT | How To Prevent Ransomware Attacks & Protect Against Malware | Faraz Weerabangsa | [Read More](https://medium.com/p/9ba60446adfd) |
@@ -23,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 11:08:18 GMT | The human side of cybersecurity | Jasmine Davies | [Read More](https://medium.com/p/1c6353a22e66) |
 | Fri, 05 Dec 2025 11:02:36 GMT | Sanchar Saathi Mandate: What’s the Real Deal? | Aaryan Vinod Kumar | [Read More](https://medium.com/p/148747eb3441) |
 | Fri, 05 Dec 2025 10:55:56 GMT | 99% Fewer Hacker Attacks on WordPress Sites | Calin Vingan | [Read More](https://medium.com/p/21b6ece2fe85) |
+| Fri, 05 Dec 2025 10:51:26 GMT | Achieving Cloudflare Outage Resilience using AppiCryptWeb | Talsec | [Read More](https://medium.com/p/8d3e90f5c47d) |
 | Fri, 05 Dec 2025 10:44:04 GMT | Best Antivirus for Mac Computers: Top Picks for Maximum Security | Siyanoav | [Read More](https://medium.com/p/a7aa69c2ae95) |
 | Fri, 05 Dec 2025 10:41:17 GMT | Threat Actor Profiling 101: How Cyber Analysts Identify the Humans Behind the Attack | Iman Kurnia | [Read More](https://medium.com/p/1340e1e75421) |
 | Fri, 05 Dec 2025 10:40:21 GMT | Advent of Cyber 2025: Why You Should Join TryHackMe’s Biggest Free Cybersecurity Event | Cyber Times | [Read More](https://medium.com/p/182a9974b5ef) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 05:58:54 GMT | Why Your Tech Gets Slower, Not Better | Rabail Zaheer | [Read More](https://medium.com/p/c89ecef12224) |
 | Fri, 05 Dec 2025 05:57:10 GMT | React2Shell (CVE-2025–55182): What Developers Need to Know | HectoGen | [Read More](https://medium.com/p/f3b67387351f) |
 | Fri, 05 Dec 2025 05:53:17 GMT | SQL Injection Explained: From Basic to Advanced Exploitation (Complete Technical Guide) | Handev Code | [Read More](https://medium.com/p/050f1b43163a) |
-| Fri, 05 Dec 2025 05:49:47 GMT | From 16 Issues to Zero: Securing My Dockerfile Using SonarQube Analysis | Bhari Sagar | [Read More](https://medium.com/p/af145d7ef019) |
-| Fri, 05 Dec 2025 05:39:26 GMT | A Thought-paper on AI Governance and Security: Building Trust in Intelligent Systems | Techiverse - We bring latest insights on Ai & ML | [Read More](https://medium.com/p/abef9d7f63c6) |
-| Fri, 05 Dec 2025 05:38:12 GMT | What Are the Benefits of Cloud Computing? | Soundaryaps | [Read More](https://medium.com/p/28d6740ffa40) |
-| Fri, 05 Dec 2025 05:37:22 GMT | How Misconfigured Authentication Broke One App - And How We Fixed It (Sanitized Walkthrough) | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/f2b26d7a287c) |
-| Fri, 05 Dec 2025 05:30:23 GMT | How to Prevent Data Breaches: A Quick & Effective Guide | Maxatlasofficial | [Read More](https://medium.com/p/bdebc8cfb765) |
-| Fri, 05 Dec 2025 05:25:28 GMT | ️ How I Walked Into LaunchDarkly’s Internal Jira Portal Through a Public Signup Bug | Anshubind | [Read More](https://medium.com/p/2015c5cee6e0) |
-| Fri, 05 Dec 2025 05:22:21 GMT | Securing Your FastAPI Application with Middleware: A Production-Ready Guide (Part 1) | Sizan Mahmud | [Read More](https://medium.com/p/ec4a8944ea0a) |
-| Fri, 05 Dec 2025 05:20:43 GMT | ️‍♂️ How I Stumbled Into My First Uber Bug: The Unexpected Win That Earned Me $780 | Anshubind | [Read More](https://medium.com/p/8ba880e60510) |
-| Fri, 05 Dec 2025 05:18:43 GMT | Beyond Passwords: Next-Gen Security Measures Small Businesses Need Now | Steven Chin | [Read More](https://medium.com/p/22ed2c15f2d1) |
-| Fri, 05 Dec 2025 05:17:34 GMT | Breaking the Web (Part 6): Insecure Direct Object References (IDOR) — When Access Control Fails | Mohammed Fahad | [Read More](https://medium.com/p/39572e53c860) |
-| Fri, 05 Dec 2025 05:12:45 GMT | As of December 5, 2025, product management trends center on AI integration, commercial ownership… | Ravikant Vishwakarma | [Read More](https://medium.com/p/9f7a3838baea) |
-| Fri, 05 Dec 2025 05:10:50 GMT | Cyber Kill Chain 1.3 : Nessus ile Zafiyet Analizi Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/f9e2f5252acf) |
-| Fri, 05 Dec 2025 05:02:29 GMT | Portfolio Protection: The Non-Negotiable Art of Securing Your Portfolio | Coach Seun Ambassador | [Read More](https://medium.com/p/7df0bd205299) |
-| Fri, 05 Dec 2025 04:58:01 GMT | How to Install Splunk on Kali Linux (Step-by-Step Guide for Beginners) | Abhinsubej | [Read More](https://medium.com/p/afd4d593d793) |
-| Fri, 05 Dec 2025 04:49:32 GMT | Path Traversal: Because Hackers Also Love Taking Shortcuts | TheCyberAryan | [Read More](https://medium.com/p/333d264e8fa7) |
-| Fri, 05 Dec 2025 04:40:33 GMT | Bug Bounty Hunting — Complete Guide (Part-155) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/f8aeb9f7e99b) |
-| Fri, 05 Dec 2025 04:38:38 GMT | Bug Bounty Hunting — Complete Guide (Part-154) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/4c26a69b4672) |
-| Fri, 05 Dec 2025 04:33:44 GMT | Encrypted Purpose: My Journey So Far | 9purp0s3 - Steven | [Read More](https://medium.com/p/8d911cb687bf) |
-| Fri, 05 Dec 2025 04:33:01 GMT | SIEM on a Budget: Tools That Punch Above Their Weight | Lanvaus | [Read More](https://medium.com/p/b8fb208a80a2) |
-| Fri, 05 Dec 2025 04:29:21 GMT | Inside a 90-Minute SSRF → Admin Panel → RCE Kill Chain | Tyreek Haynes | [Read More](https://medium.com/p/cf4607cdd676) |
-| Fri, 05 Dec 2025 04:26:28 GMT | IOT Connect Writeup — MobileHackingLab | محمد بن إبراهيم | [Read More](https://medium.com/p/3e3bd5079636) |
