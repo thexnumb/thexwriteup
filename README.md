@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 14:14:00 GMT | Essential Docker Commands for Cybersecurity Labs (With Syntax & Purpose) | Ramandeep Bagri | [Read More](https://medium.com/p/cc38d7d0e77d) |
+| Fri, 05 Dec 2025 14:09:00 GMT | A Look at the Alleged Beckett Collectibles Data Breach | Seamus Callahan | [Read More](https://medium.com/p/46bfd45cd47d) |
+| Fri, 05 Dec 2025 14:03:55 GMT | October — Hack The Box Walkthrough | Eng Ahmed Ibrahim | [Read More](https://medium.com/p/884c4aa2d05a) |
+| Fri, 05 Dec 2025 14:02:47 GMT | Is your website ready for 2025 threats? | HSINGH WEB STUDIO | [Read More](https://medium.com/p/d56300121a51) |
+| Fri, 05 Dec 2025 13:59:43 GMT | The First AI Misclassification Will Break an Alliance Before It Breaks a Battlefield | AXSAS | [Read More](https://medium.com/p/22d4d5e6fa84) |
+| Fri, 05 Dec 2025 13:55:49 GMT | CVE-2024–38063: A Deep Dive into the IPv6 Kernel Pool Vulnerability | VampireXRay | [Read More](https://medium.com/p/72cc11c93978) |
+| Fri, 05 Dec 2025 13:49:08 GMT | AI Security Series: LLMs Sensitive Data Leakage | Prettycybergirl | [Read More](https://medium.com/p/85f667efba90) |
+| Fri, 05 Dec 2025 13:44:52 GMT | This $35K GitLab Hack Was So Simple You’ll Hate Yourself For Missing It | Vivek PS | [Read More](https://medium.com/p/e8b000c326c3) |
+| Fri, 05 Dec 2025 13:43:00 GMT | Security. Transparency. Long-term vision. | Metaparadox LTD | [Read More](https://medium.com/p/6bbe29f5b0a0) |
+| Fri, 05 Dec 2025 13:42:09 GMT | How to Install a Deadbolt on a Door Without a Hole: Pro Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/797f5836c70f) |
+| Fri, 05 Dec 2025 13:28:34 GMT | The Hidden Price of ‘Free’ AI | Vinod Baste | [Read More](https://medium.com/p/bc708f3ab6a3) |
 | Fri, 05 Dec 2025 13:15:20 GMT | Advent of Cyber 2025 Day3 — Did You SIEM? | Khadijat Suleman | [Read More](https://medium.com/p/426d1eced1df) |
 | Fri, 05 Dec 2025 13:15:12 GMT | The Black-Belt Guide to Android Internals: Debunking Security Myths & Protecting Billions | Muhammad Zahab Ahmad | [Read More](https://medium.com/p/033590b02b59) |
 | Fri, 05 Dec 2025 13:02:13 GMT | From ISP Constraints to Hands-On GRC: Building a Home Lab in Austria | Brian Haman | [Read More](https://medium.com/p/39376a75ebff) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 07:38:10 GMT | The Anatomy of a Digital Mirage: A Forensic Audit of Unverified Trading Platforms | Nezahualpilli Tlapalco | [Read More](https://medium.com/p/9ee4679699d2) |
 | Fri, 05 Dec 2025 07:36:10 GMT | The Daily Tech Digest: 05 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a31838240d17) |
 | Fri, 05 Dec 2025 07:33:27 GMT | The Invisible Shield: How Modern APIs Stay Secure (and Why JWT Still Matters in 2025) | CodeWithYog | [Read More](https://medium.com/p/16ad72c6fb74) |
-| Fri, 05 Dec 2025 07:32:43 GMT | What Your Browser Reveals About You: A Cybersecurity Perspective | Deepak Sharma | [Read More](https://medium.com/p/ed9792bedc89) |
-| Fri, 05 Dec 2025 07:31:01 GMT | Stop Paying for Cloud: How to Get 35GB Free + a $60 Bulletproof Backup | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/b298a9208571) |
-| Fri, 05 Dec 2025 07:25:17 GMT | Empowering Sierra Leone’s Future Tech Leaders: Lessons from the CS Alpha AMA Session at UNIMAK | Mohamed Lebbie | [Read More](https://medium.com/p/bb3b5d73b2ae) |
-| Fri, 05 Dec 2025 07:22:32 GMT | When Trusted Software Turns Into A Cyber Weapon | Redfox Security | [Read More](https://medium.com/p/f6035e98c255) |
-| Fri, 05 Dec 2025 07:22:01 GMT | Why Your Website Can Still Get Hacked Even If You Use Expensive Hosting | Vulnersight | [Read More](https://medium.com/p/d0f9c7626130) |
-| Fri, 05 Dec 2025 07:20:40 GMT | 10 Most Common Cyber Attacks Targeting SME Websites (And How to Prevent Them) | Vulnersight | [Read More](https://medium.com/p/e198eb09c516) |
-| Fri, 05 Dec 2025 07:16:50 GMT | The Quantum Revolution Is Coming | Haider Ali | [Read More](https://medium.com/p/83e9b003a731) |
-| Fri, 05 Dec 2025 07:14:16 GMT | API Security 101: How Modern Systems Get Hacked | Ukwedje Taiwo Goodness | [Read More](https://medium.com/p/c04f95318721) |
-| Fri, 05 Dec 2025 07:12:04 GMT | Implementing Zero Trust in Azure: A Step-by-Step Guide (Part 2) | Siddhant Rangra | [Read More](https://medium.com/p/7b0568844a4d) |
-| Fri, 05 Dec 2025 07:09:42 GMT | Complete OSINT Profile Builder: 50 Free Tools to Level Up Your Recon Game Fast | Very Lazy Tech | [Read More](https://medium.com/p/5e13c22fd660) |
-| Fri, 05 Dec 2025 07:02:15 GMT | When Security Becomes Just “How We Code” | Anto Semeraro | [Read More](https://medium.com/p/5f46aac08df7) |
