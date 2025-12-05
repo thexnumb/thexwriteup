@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 01:43:20 GMT | The AI Memory Crunch: Why Privacy and Security Just Became a Luxury Good | Jeremy Tarkington | [Read More](https://medium.com/p/4d25be0d5946) |
+| Fri, 05 Dec 2025 01:41:54 GMT | Security Lab Simulation Project Part 5: Fleet Server Set-up and Configuration | Jenny | [Read More](https://medium.com/p/4b74ada678ac) |
+| Fri, 05 Dec 2025 01:39:27 GMT | The Experience of Viewing the Remarks Produced by AI | Aliyu Ibrahim | [Read More](https://medium.com/p/fc449c6d861a) |
+| Fri, 05 Dec 2025 01:34:52 GMT | The Shocking Reality Of How AI clones A Voice | Positive Thinker | [Read More](https://medium.com/p/168a85170b4f) |
+| Fri, 05 Dec 2025 01:13:41 GMT | 7 Simple ways on how to use a public Wi-Fi network safely in 2025 | Millie Bobby | [Read More](https://medium.com/p/fecdfe3edd22) |
+| Fri, 05 Dec 2025 01:10:48 GMT | Why I Stopped Using Kali Linux (And Why You Should Too) | Aman Kumar (ak) | [Read More](https://medium.com/p/ef6fdbeb2a8f) |
+| Fri, 05 Dec 2025 01:09:35 GMT | Post 2: Who Am I — And Why Should You Care to read? | SattiData | [Read More](https://medium.com/p/ac1ad6151ec6) |
+| Fri, 05 Dec 2025 00:51:49 GMT | (OWASP API7:2023) Server-Side Request Forgery: Ataque, Explotación en la Nube y Mitigación | JPablo13 | [Read More](https://medium.com/p/1a8506f2ad01) |
+| Fri, 05 Dec 2025 00:39:45 GMT | THM Advent of Cyber 2025 Day 4 | ZeakPeak | [Read More](https://medium.com/p/9d22b9b8b8b4) |
+| Fri, 05 Dec 2025 00:37:18 GMT | From Chaos to Control: Automating Password Resets During Incidents | David Oneill | [Read More](https://medium.com/p/be55e42c4068) |
+| Fri, 05 Dec 2025 00:34:17 GMT | Certified Cyber Security Engineer [CCSE] Review: Is it Worth it? | Fabrice | [Read More](https://medium.com/p/cc8a484fc378) |
+| Fri, 05 Dec 2025 00:12:47 GMT | Unsafe Everywhere: The Daily Reality of Women Living with Fear | Sadman Sakib Ayon | [Read More](https://medium.com/p/36bc453e6fb6) |
+| Thu, 04 Dec 2025 23:46:50 GMT | SQL Injection | isaergisi | [Read More](https://medium.com/p/868ecaae5f0a) |
+| Thu, 04 Dec 2025 23:42:30 GMT | APIs Just Became the Easiest Way to Hack Your Entire Enterprise | Cyber-AppSec | [Read More](https://medium.com/p/4cfc08ab3361) |
+| Thu, 04 Dec 2025 23:29:15 GMT | Strengthening Security Leadership in Australian Workplaces | Michael Huggett | [Read More](https://medium.com/p/0f407e75b73d) |
 | Thu, 04 Dec 2025 23:17:54 GMT | AI Weaponization Is Easier Than We Think | Farhan Nasir | [Read More](https://medium.com/p/3099b24b45c9) |
 | Thu, 04 Dec 2025 22:52:48 GMT | Need 24/7 Security? We’ve Got You Covered! | Visual Monitoring Solutions | [Read More](https://medium.com/p/0d006273793b) |
 | Thu, 04 Dec 2025 22:52:47 GMT | I am writting a pentest agreement | Umoru Martha Nkem | [Read More](https://medium.com/p/6aaf977bc7d4) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 17:06:01 GMT | The Sovereignty of Attention: A Protocol for Escaping the Multitasking Myth | Musfirat Tasnim | [Read More](https://medium.com/p/859a1cdb6be5) |
 | Thu, 04 Dec 2025 17:02:14 GMT | All In One — Write-Up | ManuM0re | [Read More](https://medium.com/p/133516adf7e8) |
 | Thu, 04 Dec 2025 16:50:55 GMT | J’en avais marre de gérer mes IOCs partout… alors j’ai testé Odysafe. | ShadowBlue | [Read More](https://medium.com/p/3ec4f003a2a4) |
-| Thu, 04 Dec 2025 16:50:54 GMT | Kapıdan Kovsan Bacadan Girer: Bir Logout Hikayesi | Ömer Faruk Aydın | [Read More](https://medium.com/p/5f413f23c35f) |
-| Thu, 04 Dec 2025 16:47:07 GMT | Token IMpersonation | Mert Baykal | [Read More](https://medium.com/p/578bf4d95231) |
-| Thu, 04 Dec 2025 16:45:23 GMT | From Student to Hacker - How to Learn Cybersecurity Without Getting Overwhelmed | Shahzaib | [Read More](https://medium.com/p/042b935caef5) |
-| Thu, 04 Dec 2025 16:43:17 GMT | How to Spot Fake Dark Web Links Before You Get Scammed | Tor BBB | [Read More](https://medium.com/p/9d180fe374a0) |
-| Thu, 04 Dec 2025 16:37:32 GMT | How I Discovered a $50,000 Web3 Vulnerability That Exposed Thousands | Mohaseen | [Read More](https://medium.com/p/6e9e8125050f) |
-| Thu, 04 Dec 2025 16:36:47 GMT | Understanding AD Attack Vectors Through Intentional Misconfiguration | Johnny Meintel | [Read More](https://medium.com/p/f17525058cca) |
-| Thu, 04 Dec 2025 16:31:24 GMT | The Cryptography Concept Journey — Encryption | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d382f8215364) |
-| Thu, 04 Dec 2025 16:30:49 GMT | How to Find Security Providers: A Practical, Easy-to-Understand Guide | Teona | [Read More](https://medium.com/p/1c2282f486a1) |
-| Thu, 04 Dec 2025 16:25:20 GMT | The Silent Shift in Cybercrime: Why Hackers No Longer Need Ransomware to Break You | Germano Costi | [Read More](https://medium.com/p/509461cb0d10) |
-| Thu, 04 Dec 2025 16:20:21 GMT | Gainesville Businesses Under Siege: The Hidden Cost of Cybersecurity Gaps | Anu Shreejit | [Read More](https://medium.com/p/fee895535a24) |
-| Thu, 04 Dec 2025 16:19:48 GMT | How a Windows OS Can Be Hacked: Breaking Down Real Attack Methods | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/5b38547cf16a) |
-| Thu, 04 Dec 2025 16:11:16 GMT | “Metadata Leaks: What They Are, Why They Matter, and How Hackers Use Them” | Moganti Nehanth | [Read More](https://medium.com/p/4cbe6ef7e08c) |
-| Thu, 04 Dec 2025 16:02:51 GMT | Smart Online Habits That Strengthen Your Digital Safety | Geoffrey Wenger | [Read More](https://medium.com/p/a9246c99703e) |
-| Thu, 04 Dec 2025 16:02:39 GMT | Smart Protection Strategies For Today’s Mobile Threats | Geoffrey Wenger | [Read More](https://medium.com/p/90e66a4734d9) |
-| Thu, 04 Dec 2025 16:00:34 GMT | Commonwealth Bank — Responding to a Cybersecurity Incident | Javier | [Read More](https://medium.com/p/c3848a50cdac) |
