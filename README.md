@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 16:25:49 GMT | (Security) 2025 ACDC(AI Cyber Defense Contest) 세미나 참석 후기 (1일차) | ssoL2 | [Read More](https://medium.com/p/065ad4f7c7d8) |
+| Fri, 05 Dec 2025 16:24:08 GMT | MemGuard: Rethinking Secure Storage in Flutter with Zero-Leak Architecture | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/75da691989d1) |
+| Fri, 05 Dec 2025 16:20:09 GMT | Penetration Test Standartları | Dogukan İSPİRLİ | [Read More](https://medium.com/p/abd831cb347f) |
+| Fri, 05 Dec 2025 16:17:01 GMT | cURL Command Cheatsheet for Hackers | Mainekhacker | [Read More](https://medium.com/p/c21714ccbc18) |
+| Fri, 05 Dec 2025 16:15:32 GMT | Let’s Defend Challenge — Malicious VBA | Soumodeep Das | [Read More](https://medium.com/p/e0bf54b16a8f) |
+| Fri, 05 Dec 2025 16:10:25 GMT | Advent of Cyber 2025 Walkthrough - From Rookie to Red Team: Master Linux & Phishing in 2 Days | Madhur Hase | [Read More](https://medium.com/p/ceac8396e034) |
+| Fri, 05 Dec 2025 16:09:08 GMT | SSH Keys: Your Secure Passkey to Remote Servers | Deeghayu Fernando | [Read More](https://medium.com/p/562e6eb01b8c) |
+| Fri, 05 Dec 2025 16:07:34 GMT | HTB: Era Writeup | Natius | [Read More](https://medium.com/p/39501b950c62) |
+| Fri, 05 Dec 2025 16:06:14 GMT | CVE-2025-55182: A Pre-Authentication Remote Code Execution in Next.js - Complete Guide | PARADOX | [Read More](https://medium.com/p/e39a35fa3156) |
+| Fri, 05 Dec 2025 16:01:55 GMT | No Credit Card, No Problem | Dex | [Read More](https://medium.com/p/da9a30b10bf4) |
+| Fri, 05 Dec 2025 15:59:48 GMT | A Hacker Tried to Break Into My Site. What I learned changed everything. | Mubashir | [Read More](https://medium.com/p/47248f29ed2e) |
+| Fri, 05 Dec 2025 15:58:21 GMT | WHY CYBER SECURITY IS ONE OF THE FASTEST GROWING CAREERS IN NORWAY | Gudimetlasagarika | [Read More](https://medium.com/p/958f9763f4a5) |
+| Fri, 05 Dec 2025 15:56:17 GMT | React2Shell (CVE-2025–55182 / CVE-2025–66478): Why This Is a Wake-Up Call for Modern Web Apps | Yua Mikanana | [Read More](https://medium.com/p/c5148af68ead) |
+| Fri, 05 Dec 2025 15:54:21 GMT | Journey from FOFA Dorking to Critical Remote Access | MahmoudKroush | [Read More](https://medium.com/p/b337f92f3d28) |
+| Fri, 05 Dec 2025 15:48:08 GMT | Building a Tool to Ask: What If ‘Fastest’ Isn’t Best? | Ahmed Issaoui | [Read More](https://medium.com/p/2e813bb1ce4e) |
+| Fri, 05 Dec 2025 15:46:23 GMT | ByteByteGo Machine Learning System Design Guide for Beginners | Motherlandlove | [Read More](https://medium.com/p/fc968ef2350b) |
+| Fri, 05 Dec 2025 15:42:39 GMT | Hackers Don’t Break In — They Log In. Here’s How You Can Stop Them. | Top Trend Pluse | [Read More](https://medium.com/p/966aadb699ee) |
+| Fri, 05 Dec 2025 15:33:15 GMT | The Hidden Risks of AI Agents: A Governance Framework for Secure Deployment: | Manjusha Sumasadan | [Read More](https://medium.com/p/0e52ce6d7231) |
 | Fri, 05 Dec 2025 15:16:50 GMT | AI-Powered Insiders: The Most Underestimated Threat of the Next Decade | Abatis ABTU | [Read More](https://medium.com/p/2efb548e22cf) |
 | Fri, 05 Dec 2025 15:06:49 GMT | React2Shell CVE-2025–55182 Explained: Critical RCE Vulnerability in React & Next.js | Hafiz Shamnad | [Read More](https://medium.com/p/f0c0ec847e04) |
 | Fri, 05 Dec 2025 15:03:25 GMT | Cyber Briefing: 2025.12.05 | CyberMaterial | [Read More](https://medium.com/p/c6673a1f513f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 10:03:13 GMT | Agentic AI: Nothing Says “Enterprise-Ready” Like a 70 % Failure Rate | Namir Sagheenanajar | [Read More](https://medium.com/p/011a005d9cbf) |
 | Fri, 05 Dec 2025 10:02:14 GMT | Ehxb - Inside the Filesystem: The Truth Behind LFI & RFI III | Ehxb | [Read More](https://medium.com/p/e905aa80d9bf) |
 | Fri, 05 Dec 2025 09:57:18 GMT | Mac Commands Every User Should Know (But Most Don’t) | Karthick Dk | [Read More](https://medium.com/p/3260c6f59423) |
-| Fri, 05 Dec 2025 09:55:43 GMT | Agentic AI Will Change The Way We Use Cybersecurity Tools | Taimur Ijlal | [Read More](https://medium.com/p/df3de4fb797e) |
-| Fri, 05 Dec 2025 09:53:12 GMT | #5 Cyber Security: A Guide to Malware Protection | Betül Akmercan | [Read More](https://medium.com/p/2feac7f388e8) |
-| Fri, 05 Dec 2025 09:52:03 GMT | The Day Files Started Thinking: How Zapper Edge Redefines Governance in the AI Era | Prabhu Srivastava | [Read More](https://medium.com/p/98119fb8a9c8) |
-| Fri, 05 Dec 2025 09:46:57 GMT | TryHackMe: Zeno Writeup | cbev | [Read More](https://medium.com/p/459d95c2f023) |
-| Fri, 05 Dec 2025 09:42:32 GMT | Your “Perfect” Flutter App is a Ticking Security Time Bomb | Ravi Savaliya | [Read More](https://medium.com/p/79df7dc92c9a) |
-| Fri, 05 Dec 2025 09:31:41 GMT | Why Every Cybersecurity Learner Should Join the SANS Holiday Hack Challenge 2025 | Cyber Times | [Read More](https://medium.com/p/50263bcce213) |
-| Fri, 05 Dec 2025 09:30:32 GMT | The AI-Driven Security Bargain: Are Your M365 Licenses Working Hard Enough? | WayneReidUK | [Read More](https://medium.com/p/bd6d4633f376) |
-| Fri, 05 Dec 2025 09:28:06 GMT | Hackers Exploit Critical ArrayOS AG VPN Vulnerability to Deploy Webshells | Technijian | [Read More](https://medium.com/p/8b5f37f2c5f2) |
-| Fri, 05 Dec 2025 09:27:38 GMT | My A Little Tip Log -24- (Black Screen Issue on Android (Frida Soft-Freeze Scenario) | Hamit CİBO | [Read More](https://medium.com/p/b079303a3217) |
-| Fri, 05 Dec 2025 09:25:25 GMT | The Digital Honeytrap: Why Every Security Team Needs a Honeypot in 2026 | Swarachis Sutradhar | [Read More](https://medium.com/p/4bb1d3917cec) |
-| Fri, 05 Dec 2025 09:25:06 GMT | What is Password Hashing? | Sreeshnu P S | [Read More](https://medium.com/p/620d2ecd1700) |
-| Fri, 05 Dec 2025 09:07:50 GMT | How I Accessed Paid Video Content Without Authorization | Zaza_0x | [Read More](https://medium.com/p/639e3497a649) |
-| Fri, 05 Dec 2025 09:02:20 GMT | Run A Free Plain Text Leak Scan On Your Domain With LeakRadar In 2 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/0590ca081112) |
-| Fri, 05 Dec 2025 08:42:19 GMT | How to Use ClamAV and Malware Scanners on Your Server | Smit Pipaliya | [Read More](https://medium.com/p/2d428c3ef8d3) |
-| Fri, 05 Dec 2025 08:37:23 GMT | Wiz vs SonarQube vs Qualys: Which Tool Should You Pick? | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/39df10aa52af) |
-| Fri, 05 Dec 2025 08:27:59 GMT | How OT Security Maturity Shapes Successful CCC Certification | Rahman Iqbal | [Read More](https://medium.com/p/d7ff5a4e88a5) |
-| Fri, 05 Dec 2025 08:27:30 GMT | React’s 10.0 RCE Horror: The Server Component Design Flaw That Broke the Cloud | Dani Akabani | [Read More](https://medium.com/p/47304a31f047) |
-| Fri, 05 Dec 2025 08:22:53 GMT | VPN Use Cases in 2025/2026: Practical Guides for Real‑World Users | Szabolcs Záhorszki | [Read More](https://medium.com/p/7d818a579263) |
