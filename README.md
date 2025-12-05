@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 11:25:37 GMT | The Top 20 Kali Linux Apps and Where to Find Them | Travis Ray Caverhill | [Read More](https://medium.com/p/2b8fb67a2e2e) |
+| Fri, 05 Dec 2025 11:23:18 GMT | Why You Should Test for WebRTC Leaks (And How They Affect Your Privacy) | Anna Kolodkina | [Read More](https://medium.com/p/ff7f333a9657) |
+| Fri, 05 Dec 2025 11:22:40 GMT | How To Prevent Ransomware Attacks & Protect Against Malware | Faraz Weerabangsa | [Read More](https://medium.com/p/9ba60446adfd) |
+| Fri, 05 Dec 2025 11:19:56 GMT | Strengthening Cyber Resilience Through Effective Incident Response and Management | LDM Global | [Read More](https://medium.com/p/7caca776abd7) |
+| Fri, 05 Dec 2025 11:16:01 GMT | Cloudflare Outage Exposes Critical Risks: How Businesses Can Strengthen Resilience and Compliance | Chetan Seripally | [Read More](https://medium.com/p/1203d38c57a3) |
+| Fri, 05 Dec 2025 11:15:27 GMT | Your Top-Level Transformation Vision sounds inspiring… until you realize Steve from Ops didn’t get… | Nina Sophie Pejsa | [Read More](https://medium.com/p/5636a2744e30) |
+| Fri, 05 Dec 2025 11:13:55 GMT | How Hackers Use Free Tools to Break In | Deepak Sharma | [Read More](https://medium.com/p/4068d496358b) |
 | Fri, 05 Dec 2025 11:12:49 GMT | How to Find Hazevecad04 & What Is Hazevecad04 Version on PC? | Thoughtsmag | [Read More](https://medium.com/p/b4e1020bc96e) |
 | Fri, 05 Dec 2025 11:08:18 GMT | The human side of cybersecurity | Jasmine Davies | [Read More](https://medium.com/p/1c6353a22e66) |
 | Fri, 05 Dec 2025 11:02:36 GMT | Sanchar Saathi Mandate: What’s the Real Deal? | Aaryan Vinod Kumar | [Read More](https://medium.com/p/148747eb3441) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 04:33:01 GMT | SIEM on a Budget: Tools That Punch Above Their Weight | Lanvaus | [Read More](https://medium.com/p/b8fb208a80a2) |
 | Fri, 05 Dec 2025 04:29:21 GMT | Inside a 90-Minute SSRF → Admin Panel → RCE Kill Chain | Tyreek Haynes | [Read More](https://medium.com/p/cf4607cdd676) |
 | Fri, 05 Dec 2025 04:26:28 GMT | IOT Connect Writeup — MobileHackingLab | محمد بن إبراهيم | [Read More](https://medium.com/p/3e3bd5079636) |
-| Fri, 05 Dec 2025 04:14:48 GMT | SafeLine WAF: Unaffected by React Vulnerabilities | SafeLine WAF | [Read More](https://medium.com/p/d4dbd4d3c45d) |
-| Fri, 05 Dec 2025 04:07:17 GMT | Introduction to Networking — Series 1 | Mr.Cool | [Read More](https://medium.com/p/3a392cb797ed) |
-| Fri, 05 Dec 2025 04:06:27 GMT | The Wrapping Paper Casket: When a Simple Gift Reveals a Hidden Truth | Adv. Moniruz Zaman, M.A.,LL.B, R.S.A, PDCA | [Read More](https://medium.com/p/0f39c6189cb0) |
-| Fri, 05 Dec 2025 03:55:09 GMT | How to Do Threat Modelling with STRIDE (Step by Step on a Simple Web App) | Akshat Patel | [Read More](https://medium.com/p/3f22e0299c51) |
-| Fri, 05 Dec 2025 03:45:07 GMT | 94 Percent of LLMs Shown to Be Vulnerable to Attack | Matthew.Rosenquist | [Read More](https://medium.com/p/fbf05f7120fe) |
-| Fri, 05 Dec 2025 03:40:04 GMT | From Code to Defense: My First Steps into Cybersecurity as a .NET/Java Developer | Barbaros Emre Alagöz | [Read More](https://medium.com/p/52dc796973ac) |
-| Fri, 05 Dec 2025 03:36:08 GMT | A Deep Dive into the Technology That’s Quietly Rewiring the World | Giulio Sistilli | [Read More](https://medium.com/p/274a85c61950) |
