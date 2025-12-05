@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 10:41:17 GMT | Threat Actor Profiling 101: How Cyber Analysts Identify the Humans Behind the Attack | Iman Kurnia | [Read More](https://medium.com/p/1340e1e75421) |
+| Fri, 05 Dec 2025 10:40:21 GMT | Advent of Cyber 2025: Why You Should Join TryHackMe’s Biggest Free Cybersecurity Event | Cyber Times | [Read More](https://medium.com/p/182a9974b5ef) |
+| Fri, 05 Dec 2025 10:30:45 GMT | The Cryptography Concept Journey — Decryption | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/067b2ee4ea15) |
+| Fri, 05 Dec 2025 10:29:00 GMT | The Corix Partners Friday Reading List — December 5, 2025 | JC Gaillard | [Read More](https://medium.com/p/7c594d5428af) |
+| Fri, 05 Dec 2025 10:26:33 GMT | Mastering the Future of AI: My Journey Through the AI Security & Governance Certification | Chandan Veerabhadra Setty | [Read More](https://medium.com/p/5fc677d41d63) |
+| Fri, 05 Dec 2025 10:24:35 GMT | Day 5 — The Fog in the Valley | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/2ad4df258953) |
+| Fri, 05 Dec 2025 10:22:24 GMT | Build Smarter Verification Habits | Century Solutions Group | [Read More](https://medium.com/p/e5f38f5dfd43) |
+| Fri, 05 Dec 2025 10:20:09 GMT | Best Integrated Lease Management Software Provider in India | Samvaskaran | [Read More](https://medium.com/p/4ce2aa6d3595) |
+| Fri, 05 Dec 2025 10:19:53 GMT | Why Developers Secretly Prefer Mac | Karthick Dk | [Read More](https://medium.com/p/e2cbd32dbc23) |
+| Fri, 05 Dec 2025 10:15:49 GMT | Are AI Browsers Unsafe? Analysis of the Risks, Challenges and Mitigation Strategies | Niyati Daftary | [Read More](https://medium.com/p/a380bf47a89c) |
+| Fri, 05 Dec 2025 10:12:14 GMT | HTB Challenge — xorxorxor | Fardeen A. | [Read More](https://medium.com/p/0b6378c52c22) |
 | Fri, 05 Dec 2025 10:06:32 GMT | Why Choose the Best Security Agency in Trivandrum for Unmatched Protection | Sambhu Sunil | [Read More](https://medium.com/p/e48b207e0f4b) |
 | Fri, 05 Dec 2025 10:03:26 GMT | I Got My OSCP Learn One Subscription and Then… Did Absolutely Nothing With It… | Rubab Fatima | [Read More](https://medium.com/p/4999034397dc) |
 | Fri, 05 Dec 2025 10:03:13 GMT | Agentic AI: Nothing Says “Enterprise-Ready” Like a 70 % Failure Rate | Namir Sagheenanajar | [Read More](https://medium.com/p/011a005d9cbf) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 03:26:22 GMT | Bug Hunting: A Practical Guide to Finding Vulnerabilities That Actually Pay | Monika sharma | [Read More](https://medium.com/p/06ef46bfdccb) |
 | Fri, 05 Dec 2025 03:25:48 GMT | The Loneliness of Being Strong & Why Independent People Break Down in Private | Ella | [Read More](https://medium.com/p/c9e765acf3fc) |
 | Fri, 05 Dec 2025 03:09:35 GMT | JWT Authentication Bypass via kid Header Path Traversal | Bash Overflow | [Read More](https://medium.com/p/c59ac1e83430) |
-| Fri, 05 Dec 2025 03:09:26 GMT | Tracking Hackers Online ️‍♂️: A Dark Web OSINT Story | Vipul Sonule | [Read More](https://medium.com/p/e834dbde9d54) |
-| Fri, 05 Dec 2025 03:09:20 GMT | The OSINT Mindset, Thinking Like an Investigator | Aj | [Read More](https://medium.com/p/698bf57d0746) |
-| Fri, 05 Dec 2025 03:07:09 GMT | Security Is the Only Field Where Everyone Has a Different Definition of What We Do | Peter Uliano | [Read More](https://medium.com/p/163bc2c0f20e) |
-| Fri, 05 Dec 2025 03:02:12 GMT | Cybersecurity: ความจริงที่ SME มองข้ามไม่ได้อีกต่อไป และวิธีที่ Krungsri Business Online Mobile… | Krungsri Nimble | [Read More](https://medium.com/p/92763277183e) |
-| Fri, 05 Dec 2025 02:50:17 GMT | Tải Tiệm Lẩu Đường Hạnh Phúc Mod Apk (Vô Hạn Tiền, Kim Cương) V5.2.1 | Apkpuredev | [Read More](https://medium.com/p/7b7eb884c290) |
-| Fri, 05 Dec 2025 02:25:12 GMT | Cicada — HTB Walkthrough - From Enumeration to PrivEsc with SeBackupPrivilege (Smart Path) | Xploitnik | [Read More](https://medium.com/p/35ab42a26d19) |
-| Fri, 05 Dec 2025 02:21:33 GMT | VPN for China: Only 5 still work in the 2025 real-world test | Safelyo VPN | [Read More](https://medium.com/p/5a7ad620c15e) |
-| Fri, 05 Dec 2025 02:15:35 GMT | Is It Possible to Hijack 3,000 Computers in 3 Days Across 50 Banks? | Raviteja Mureboina | [Read More](https://medium.com/p/03d358374b1a) |
-| Fri, 05 Dec 2025 02:00:09 GMT | Cloudbric Services Progress Report (11/1 ~ 11/30) | Cloudbric | [Read More](https://medium.com/p/6d6423248ddb) |
-| Fri, 05 Dec 2025 02:00:04 GMT | Cloudbric Services Progress Report (11/1 ~ 11/30) | Cloudbric | [Read More](https://medium.com/p/9dad9a5995b1) |
-| Fri, 05 Dec 2025 01:54:24 GMT | PixVerse V5.5 Review: Multi-Shot AI Video & Audio-Visual Sync | Ccarol | [Read More](https://medium.com/p/21f01d18e92d) |
