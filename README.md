@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 03:55:09 GMT | How to Do Threat Modelling with STRIDE (Step by Step on a Simple Web App) | Akshat Patel | [Read More](https://medium.com/p/3f22e0299c51) |
+| Fri, 05 Dec 2025 03:45:07 GMT | 94 Percent of LLMs Shown to Be Vulnerable to Attack | Matthew.Rosenquist | [Read More](https://medium.com/p/fbf05f7120fe) |
+| Fri, 05 Dec 2025 03:40:04 GMT | From Code to Defense: My First Steps into Cybersecurity as a .NET/Java Developer | Barbaros Emre Alagöz | [Read More](https://medium.com/p/52dc796973ac) |
+| Fri, 05 Dec 2025 03:36:08 GMT | A Deep Dive into the Technology That’s Quietly Rewiring the World | Giulio Sistilli | [Read More](https://medium.com/p/274a85c61950) |
+| Fri, 05 Dec 2025 03:32:12 GMT | HashJack: The Hidden URL Trick That Manipulates AI Browsers | Deven Chhajed | [Read More](https://medium.com/p/495f3064abcd) |
+| Fri, 05 Dec 2025 03:31:31 GMT | Free Linux hardening service | ronin255 | [Read More](https://medium.com/p/c61ffab98c7d) |
+| Fri, 05 Dec 2025 03:26:22 GMT | Bug Hunting: A Practical Guide to Finding Vulnerabilities That Actually Pay | Monika sharma | [Read More](https://medium.com/p/06ef46bfdccb) |
+| Fri, 05 Dec 2025 03:25:48 GMT | The Loneliness of Being Strong & Why Independent People Break Down in Private | Ella | [Read More](https://medium.com/p/c9e765acf3fc) |
 | Fri, 05 Dec 2025 03:09:35 GMT | JWT Authentication Bypass via kid Header Path Traversal | Bash Overflow | [Read More](https://medium.com/p/c59ac1e83430) |
 | Fri, 05 Dec 2025 03:09:26 GMT | Tracking Hackers Online ️‍♂️: A Dark Web OSINT Story | Vipul Sonule | [Read More](https://medium.com/p/e834dbde9d54) |
 | Fri, 05 Dec 2025 03:09:20 GMT | The OSINT Mindset, Thinking Like an Investigator | Aj | [Read More](https://medium.com/p/698bf57d0746) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 18:09:30 GMT | Advent of Cyber 2025 Day 4: Old sAInt Nick and AI in Security | Akshat Patel | [Read More](https://medium.com/p/1bbd01b100cd) |
 | Thu, 04 Dec 2025 18:08:16 GMT | Stop Your iPhone From ‘Learning' You: A Privacy Guide | K_Anik | [Read More](https://medium.com/p/88fb86bd2674) |
 | Thu, 04 Dec 2025 18:05:31 GMT | AI in Security — old sAInt nick-Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/366a21e6a4db) |
-| Thu, 04 Dec 2025 18:04:09 GMT | Bypassing Windows Defender to Establish Command and Control | 0xPmCr | [Read More](https://medium.com/p/5d883fe2f667) |
-| Thu, 04 Dec 2025 18:02:33 GMT | How a Single Click Led to a Critical Account Takeover | Milan Gautam | [Read More](https://medium.com/p/759e4164f674) |
-| Thu, 04 Dec 2025 18:02:31 GMT | Certificate Transparency: A Technical Overview and OSINT Toolkit ️ | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/30d4f556f7f8) |
-| Thu, 04 Dec 2025 17:56:48 GMT | The One Mistake Incident Responders Can’t Afford to Make | Gracie Emmanuel | [Read More](https://medium.com/p/ce34ec903f42) |
-| Thu, 04 Dec 2025 17:56:24 GMT | Why Using WhatsApp Web in India is About to Become a Nightmare Option | Muhaideen Nausar | [Read More](https://medium.com/p/a718c913b87a) |
-| Thu, 04 Dec 2025 17:38:53 GMT | Building the Ultimate Android Hacking Lab - Without Losing Your Mind (Of Course) | Omkar D. | [Read More](https://medium.com/p/382152af032e) |
-| Thu, 04 Dec 2025 17:36:51 GMT | PENETRATION TESTING REPORT — BOUNTY HACKER - TRYHACKME | Sreeragmanghat | [Read More](https://medium.com/p/0d0d7822883b) |
-| Thu, 04 Dec 2025 17:35:13 GMT | Starting Off with a Small Vulnerability — Responsibly disclosed :) | Philip James | [Read More](https://medium.com/p/0e25c23b01f0) |
