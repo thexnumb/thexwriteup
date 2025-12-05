@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 19:11:22 GMT | Advent of Cyber 2025 Day 4 — Old sAInt Nick. | Khadijat Suleman | [Read More](https://medium.com/p/ae27fd9decff) |
+| Fri, 05 Dec 2025 19:03:00 GMT | CitySafeSense: Building a Resilient Edge Device for Urban Safety, Environmental Intelligence, and… | Meltedtuna | [Read More](https://medium.com/p/a606cabbac01) |
+| Fri, 05 Dec 2025 18:51:28 GMT | Lab: Reflected XSS into HTML context with nothing encoded | KRY | [Read More](https://medium.com/p/ea5fc24fe08e) |
+| Fri, 05 Dec 2025 18:50:35 GMT | Microsoft Azure Security Tools Specialization | Franklin Rhodes | [Read More](https://medium.com/p/5de3fcce3f52) |
+| Fri, 05 Dec 2025 18:46:12 GMT | Step by step guide for Authentication and Authorization in ASP.NET Core using JWT & Identity | Hafiz Muhammad Asad | [Read More](https://medium.com/p/d1f1e66b5b5e) |
+| Fri, 05 Dec 2025 18:44:10 GMT | Advanced Email Investigation Techniques for OSINT Analysts | Nazrul Islam Rana | [Read More](https://medium.com/p/0f28bede0162) |
+| Fri, 05 Dec 2025 18:38:50 GMT | Why 70% of C++ Bugs Disappear When You Switch to Rust | CodeOrbit | [Read More](https://medium.com/p/6fe140a8e901) |
+| Fri, 05 Dec 2025 18:37:22 GMT | CVC’s £2bn Smiths Detection Deal: Buying Safety in an Uncertain World | Chandramouli Subraveti | [Read More](https://medium.com/p/9f9bc3268c0b) |
+| Fri, 05 Dec 2025 18:35:06 GMT | Room 111: What 80/tcp Open HTTP Really Means for Your Network | blackXmask | [Read More](https://medium.com/p/1fdc11d86a5b) |
+| Fri, 05 Dec 2025 18:34:47 GMT | Why IT and Cybersecurity Teams Often Clash — And What Actually Helps Fix It | Digital Defense | [Read More](https://medium.com/p/3fdd9f6934f2) |
 | Fri, 05 Dec 2025 18:16:15 GMT | Velociraptor Dead-Disk Forensics | empise | [Read More](https://medium.com/p/e858f1a3f24c) |
 | Fri, 05 Dec 2025 18:08:06 GMT | Day 2 Aoc | Mr.bourneagainshell | [Read More](https://medium.com/p/afdf27b76979) |
 | Fri, 05 Dec 2025 18:06:24 GMT | How AI Is Revolutionizing Cybersecurity | Josephdisi | [Read More](https://medium.com/p/32634843f9bb) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 11:49:40 GMT | Choosing the Right SOAR Platform in 2026 | NetWitness | [Read More](https://medium.com/p/7405a9274efe) |
 | Fri, 05 Dec 2025 11:44:31 GMT | The Invisible Battles: What No One Sees When You’re “Functioning” | Vanessa Gemicibasi | [Read More](https://medium.com/p/6926642f1e51) |
 | Fri, 05 Dec 2025 11:42:22 GMT | Wearing Many Hats: My Journey into Security and GRC | Natalie | [Read More](https://medium.com/p/0cd307613e15) |
-| Fri, 05 Dec 2025 11:39:32 GMT | Which Cybersecurity Training Online Program Best Fits Your Career Goals | Janbask Training | [Read More](https://medium.com/p/6351891cad77) |
-| Fri, 05 Dec 2025 11:38:58 GMT | TryHackMe Anonforce Walkthrough: Cracking PGP Keys and Gaining Root | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/bfaed62a1e9a) |
-| Fri, 05 Dec 2025 11:25:37 GMT | The Top 20 Kali Linux Apps and Where to Find Them | Travis Ray Caverhill | [Read More](https://medium.com/p/2b8fb67a2e2e) |
-| Fri, 05 Dec 2025 11:23:18 GMT | Why You Should Test for WebRTC Leaks (And How They Affect Your Privacy) | Anna Kolodkina | [Read More](https://medium.com/p/ff7f333a9657) |
-| Fri, 05 Dec 2025 11:22:40 GMT | How To Prevent Ransomware Attacks & Protect Against Malware | Faraz Weerabangsa | [Read More](https://medium.com/p/9ba60446adfd) |
-| Fri, 05 Dec 2025 11:19:56 GMT | Strengthening Cyber Resilience Through Effective Incident Response and Management | LDM Global | [Read More](https://medium.com/p/7caca776abd7) |
-| Fri, 05 Dec 2025 11:16:01 GMT | Cloudflare Outage Exposes Critical Risks: How Businesses Can Strengthen Resilience and Compliance | Chetan Seripally | [Read More](https://medium.com/p/1203d38c57a3) |
-| Fri, 05 Dec 2025 11:15:27 GMT | Your Top-Level Transformation Vision sounds inspiring… until you realize Steve from Ops didn’t get… | Nina Sophie Pejsa | [Read More](https://medium.com/p/5636a2744e30) |
-| Fri, 05 Dec 2025 11:13:55 GMT | How Hackers Use Free Tools to Break In | Deepak Sharma | [Read More](https://medium.com/p/4068d496358b) |
-| Fri, 05 Dec 2025 11:12:49 GMT | How to Find Hazevecad04 & What Is Hazevecad04 Version on PC? | Thoughtsmag | [Read More](https://medium.com/p/b4e1020bc96e) |
