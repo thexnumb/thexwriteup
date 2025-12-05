@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 06:13:12 GMT | Transform Your Brand’s Online Success with Professional Social Media Management | IT Company | [Read More](https://medium.com/p/0977d89ab6ce) |
+| Fri, 05 Dec 2025 06:12:38 GMT | Executive Order 14117 and ERP Compliance: What Financial Institutions Must Do Now | Nely Munoz | [Read More](https://medium.com/p/7eef831b5843) |
+| Fri, 05 Dec 2025 06:12:20 GMT | Free Web Proxies Are OK for Pages, Deadly for Logins | Gabriele Wayner | [Read More](https://medium.com/p/210411139b4c) |
+| Fri, 05 Dec 2025 06:10:50 GMT | One World Rental — Global Event Technology Solutions That Elevate Every Experience | DLC Events | [Read More](https://medium.com/p/6e19eea0ed10) |
+| Fri, 05 Dec 2025 05:58:54 GMT | Why Your Tech Gets Slower, Not Better | Rabail Zaheer | [Read More](https://medium.com/p/c89ecef12224) |
+| Fri, 05 Dec 2025 05:57:10 GMT | React2Shell (CVE-2025–55182): What Developers Need to Know | HectoGen | [Read More](https://medium.com/p/f3b67387351f) |
+| Fri, 05 Dec 2025 05:53:17 GMT | SQL Injection Explained: From Basic to Advanced Exploitation (Complete Technical Guide) | Handev Code | [Read More](https://medium.com/p/050f1b43163a) |
+| Fri, 05 Dec 2025 05:49:47 GMT | From 16 Issues to Zero: Securing My Dockerfile Using SonarQube Analysis | Bhari Sagar | [Read More](https://medium.com/p/af145d7ef019) |
 | Fri, 05 Dec 2025 05:39:26 GMT | A Thought-paper on AI Governance and Security: Building Trust in Intelligent Systems | Techiverse - We bring latest insights on Ai & ML | [Read More](https://medium.com/p/abef9d7f63c6) |
+| Fri, 05 Dec 2025 05:38:12 GMT | What Are the Benefits of Cloud Computing? | Soundaryaps | [Read More](https://medium.com/p/28d6740ffa40) |
 | Fri, 05 Dec 2025 05:37:22 GMT | How Misconfigured Authentication Broke One App - And How We Fixed It (Sanitized Walkthrough) | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/f2b26d7a287c) |
 | Fri, 05 Dec 2025 05:25:28 GMT | ️ How I Walked Into LaunchDarkly’s Internal Jira Portal Through a Public Signup Bug | Anshubind | [Read More](https://medium.com/p/2015c5cee6e0) |
 | Fri, 05 Dec 2025 05:22:21 GMT | Securing Your FastAPI Application with Middleware: A Production-Ready Guide (Part 1) | Sizan Mahmud | [Read More](https://medium.com/p/ec4a8944ea0a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 20:17:41 GMT | Splunk Basics — Did you SIEM? - AoC 2025 Day — 3-By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a514d9e2c3dc) |
 | Thu, 04 Dec 2025 20:16:16 GMT | CRITICAL ALERT: React Server Components Unauthenticated RCE (CVE-2025–55182) | Cybersecplayground | [Read More](https://medium.com/p/956dbc3d5611) |
 | Thu, 04 Dec 2025 20:02:46 GMT | Code Red: The CVSS 10.0 Exploit Hitting Every Next.js and React 19 Server | Noor Mohamad | [Read More](https://medium.com/p/e9301d980888) |
-| Thu, 04 Dec 2025 19:57:30 GMT | Why Your WiFi Password Matters More Than You Think | Aj | [Read More](https://medium.com/p/c6f469e5bdc3) |
-| Thu, 04 Dec 2025 19:55:49 GMT | Mutual Authentication: How Users and Systems Trust Each Other | Damir Kolobaric | [Read More](https://medium.com/p/eba96318632c) |
-| Thu, 04 Dec 2025 19:51:14 GMT | Understanding Darkweb Vendor Shops: How They Work & Why It Matters | Tor BBB | [Read More](https://medium.com/p/7cc48403721b) |
-| Thu, 04 Dec 2025 19:44:27 GMT | My Most Important Ethical Hacking Assignment Wasn’t About Hacking | Mhlope Nkosikhona | [Read More](https://medium.com/p/7472def5ff48) |
-| Thu, 04 Dec 2025 19:40:02 GMT | Securing Terraform Infrastructure with Snyk IaC: A Practical SAST Example | victor williams cruz mamani | [Read More](https://medium.com/p/f5f7463e4203) |
-| Thu, 04 Dec 2025 19:38:45 GMT | From Theory to Practice: Drafting a Real-World Penetration Testing Agreement | Edwingligah | [Read More](https://medium.com/p/3105650a3956) |
-| Thu, 04 Dec 2025 19:35:55 GMT | Critical React RSC Flaw Enables Unauthenticated RCE | RealSec.io | [Read More](https://medium.com/p/8cc80437c01c) |
-| Thu, 04 Dec 2025 19:33:40 GMT | Update on Cybersecurity and AgenticAI | Mike Temkin | [Read More](https://medium.com/p/2925fb4303c8) |
-| Thu, 04 Dec 2025 19:32:46 GMT | Bulletproof Defense: The Hidden Internet Infrastructure Powering Cybercrime — and How We Fight Back | Serdar Gumus | [Read More](https://medium.com/p/35003da472b3) |
