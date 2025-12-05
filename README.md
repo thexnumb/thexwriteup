@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 07:33:27 GMT | The Invisible Shield: How Modern APIs Stay Secure (and Why JWT Still Matters in 2025) | CodeWithYog | [Read More](https://medium.com/p/16ad72c6fb74) |
+| Fri, 05 Dec 2025 07:31:01 GMT | Stop Paying for Cloud: How to Get 35GB Free + a $60 Bulletproof Backup | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/b298a9208571) |
+| Fri, 05 Dec 2025 07:25:17 GMT | Empowering Sierra Leone’s Future Tech Leaders: Lessons from the CS Alpha AMA Session at UNIMAK | Mohamed Lebbie | [Read More](https://medium.com/p/bb3b5d73b2ae) |
+| Fri, 05 Dec 2025 07:22:32 GMT | When Trusted Software Turns Into A Cyber Weapon | Redfox Security | [Read More](https://medium.com/p/f6035e98c255) |
+| Fri, 05 Dec 2025 07:22:01 GMT | Why Your Website Can Still Get Hacked Even If You Use Expensive Hosting | Vulnersight | [Read More](https://medium.com/p/d0f9c7626130) |
+| Fri, 05 Dec 2025 07:20:40 GMT | 10 Most Common Cyber Attacks Targeting SME Websites (And How to Prevent Them) | Vulnersight | [Read More](https://medium.com/p/e198eb09c516) |
 | Fri, 05 Dec 2025 07:16:50 GMT | The Quantum Revolution Is Coming | Haider Ali | [Read More](https://medium.com/p/83e9b003a731) |
 | Fri, 05 Dec 2025 07:14:16 GMT | API Security 101: How Modern Systems Get Hacked | Ukwedje Taiwo Goodness | [Read More](https://medium.com/p/c04f95318721) |
 | Fri, 05 Dec 2025 07:12:04 GMT | Implementing Zero Trust in Azure: A Step-by-Step Guide (Part 2) | Siddhant Rangra | [Read More](https://medium.com/p/7b0568844a4d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 21:46:38 GMT | Operationalizing MITRE ATLAS: A Guide to AI Threat Modeling, SIEM Integration, and Incident… | Arsh Riz | [Read More](https://medium.com/p/fcffeb9caa04) |
 | Thu, 04 Dec 2025 21:37:28 GMT | The Hidden War in Your Browser’s Memory: Understanding Memory Corruption Exploits in 2025. | Keylogncoffee | [Read More](https://medium.com/p/dff2e5771f7e) |
 | Thu, 04 Dec 2025 21:19:03 GMT | The Privacy Lie: Why Your VPN Is Useless Against Tracking (And What to Do About It) | Kyle | [Read More](https://medium.com/p/0e3736b45525) |
-| Thu, 04 Dec 2025 21:09:01 GMT | Analyzing the Security Implications of Unlocked Bootloaders | Joseph James (JJ) | [Read More](https://medium.com/p/4aaddb912d97) |
-| Thu, 04 Dec 2025 20:54:59 GMT | CTF MetaRed 2025 (Web) | Red-X | [Read More](https://medium.com/p/dc66d8178a60) |
-| Thu, 04 Dec 2025 20:50:40 GMT | Abusing WerFaultSecure.exe to Freeze EDR or Dump LSASS: A Clear Look at a Powerful PPL Bypass | Keontre Walker | [Read More](https://medium.com/p/d0ec27a6b6b2) |
-| Thu, 04 Dec 2025 20:47:38 GMT | Ignore the R-rated finger gestures (#HealthcareAfterDark) and listen to Jason Elrod insights on how… | Matthew.Rosenquist | [Read More](https://medium.com/p/d0794bf32f2b) |
-| Thu, 04 Dec 2025 20:44:00 GMT | I Tried Hacking My Own Accounts — The Results Shocked Me | Liam | [Read More](https://medium.com/p/a1a74690f0d8) |
-| Thu, 04 Dec 2025 20:39:02 GMT | Decoding Brickstorms Garble strings | Jason Reaves | [Read More](https://medium.com/p/b0a60828b3cc) |
