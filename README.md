@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 09:31:41 GMT | Why Every Cybersecurity Learner Should Join the SANS Holiday Hack Challenge 2025 | Cyber Times | [Read More](https://medium.com/p/50263bcce213) |
+| Fri, 05 Dec 2025 09:30:32 GMT | The AI-Driven Security Bargain: Are Your M365 Licenses Working Hard Enough? | WayneReidUK | [Read More](https://medium.com/p/bd6d4633f376) |
+| Fri, 05 Dec 2025 09:28:06 GMT | Hackers Exploit Critical ArrayOS AG VPN Vulnerability to Deploy Webshells | Technijian | [Read More](https://medium.com/p/8b5f37f2c5f2) |
+| Fri, 05 Dec 2025 09:27:38 GMT | My A Little Tip Log -24- (Black Screen Issue on Android (Frida Soft-Freeze Scenario) | Hamit CİBO | [Read More](https://medium.com/p/b079303a3217) |
+| Fri, 05 Dec 2025 09:25:25 GMT | The Digital Honeytrap: Why Every Security Team Needs a Honeypot in 2026 | Swarachis Sutradhar | [Read More](https://medium.com/p/4bb1d3917cec) |
+| Fri, 05 Dec 2025 09:25:06 GMT | What is Password Hashing? | Sreeshnu P S | [Read More](https://medium.com/p/620d2ecd1700) |
 | Fri, 05 Dec 2025 09:07:50 GMT | How I Accessed Paid Video Content Without Authorization | Zaza_0x | [Read More](https://medium.com/p/639e3497a649) |
 | Fri, 05 Dec 2025 09:02:20 GMT | Run A Free Plain Text Leak Scan On Your Domain With LeakRadar In 2 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/0590ca081112) |
 | Fri, 05 Dec 2025 08:42:19 GMT | How to Use ClamAV and Malware Scanners on Your Server | Smit Pipaliya | [Read More](https://medium.com/p/2d428c3ef8d3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 00:51:49 GMT | (OWASP API7:2023) Server-Side Request Forgery: Ataque, Explotación en la Nube y Mitigación | JPablo13 | [Read More](https://medium.com/p/1a8506f2ad01) |
 | Fri, 05 Dec 2025 00:39:45 GMT | THM Advent of Cyber 2025 Day 4 | ZeakPeak | [Read More](https://medium.com/p/9d22b9b8b8b4) |
 | Fri, 05 Dec 2025 00:37:18 GMT | From Chaos to Control: Automating Password Resets During Incidents | David Oneill | [Read More](https://medium.com/p/be55e42c4068) |
-| Fri, 05 Dec 2025 00:34:17 GMT | Certified Cyber Security Engineer [CCSE] Review: Is it Worth it? | Fabrice | [Read More](https://medium.com/p/cc8a484fc378) |
-| Fri, 05 Dec 2025 00:12:47 GMT | Unsafe Everywhere: The Daily Reality of Women Living with Fear | Sadman Sakib Ayon | [Read More](https://medium.com/p/36bc453e6fb6) |
-| Thu, 04 Dec 2025 23:46:50 GMT | SQL Injection | isaergisi | [Read More](https://medium.com/p/868ecaae5f0a) |
-| Thu, 04 Dec 2025 23:42:30 GMT | APIs Just Became the Easiest Way to Hack Your Entire Enterprise | Cyber-AppSec | [Read More](https://medium.com/p/4cfc08ab3361) |
-| Thu, 04 Dec 2025 23:29:15 GMT | Strengthening Security Leadership in Australian Workplaces | Michael Huggett | [Read More](https://medium.com/p/0f407e75b73d) |
-| Thu, 04 Dec 2025 23:17:54 GMT | AI Weaponization Is Easier Than We Think | Farhan Nasir | [Read More](https://medium.com/p/3099b24b45c9) |
