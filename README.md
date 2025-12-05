@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 23:22:56 GMT | Life Before Main: The Hidden Startup of a C Program | Generin0 | [Read More](https://medium.com/p/1d3c9f82c892) |
+| Fri, 05 Dec 2025 23:16:01 GMT | Jumping From A Proportionately Insane Height | Maria Rattray | [Read More](https://medium.com/p/dd6f0dd23e00) |
+| Fri, 05 Dec 2025 23:14:27 GMT | Security and Surveillance Data Annotation Companies for AI Training | Nathaly Beckman | [Read More](https://medium.com/p/3bd9a3c9dc03) |
 | Fri, 05 Dec 2025 22:58:00 GMT | Grief, Failure, and a Second Chance: My Journey to the CNSP | Nmullenski | [Read More](https://medium.com/p/a56fa340b45d) |
 | Fri, 05 Dec 2025 22:48:20 GMT | Information disclosure-Overview | Yassin Khadrawy | [Read More](https://medium.com/p/603cff3e6fd3) |
 | Fri, 05 Dec 2025 22:33:08 GMT | Hack With Me: AI in Security — old sAInt nick. Advent of Cyber 2025 Day 4 | mikesploit | [Read More](https://medium.com/p/6073e8e7afa3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 15:33:15 GMT | The Hidden Risks of AI Agents: A Governance Framework for Secure Deployment: | Manjusha Sumasadan | [Read More](https://medium.com/p/0e52ce6d7231) |
 | Fri, 05 Dec 2025 15:16:50 GMT | AI-Powered Insiders: The Most Underestimated Threat of the Next Decade | Abatis ABTU | [Read More](https://medium.com/p/2efb548e22cf) |
 | Fri, 05 Dec 2025 15:06:49 GMT | React2Shell CVE-2025–55182 Explained: Critical RCE Vulnerability in React & Next.js | Hafiz Shamnad | [Read More](https://medium.com/p/f0c0ec847e04) |
-| Fri, 05 Dec 2025 15:06:12 GMT | Microsoft Entra ID: Secure Your Data with Zero Trust — A Practical Guide | Amit Kulkarni | [Read More](https://medium.com/p/28b16b37d6d3) |
-| Fri, 05 Dec 2025 15:03:25 GMT | Cyber Briefing: 2025.12.05 | CyberMaterial | [Read More](https://medium.com/p/c6673a1f513f) |
-| Fri, 05 Dec 2025 15:02:25 GMT | ChatGPT History Is Showing Up on Google. | Jeremy M Williams | [Read More](https://medium.com/p/5481efb075d5) |
