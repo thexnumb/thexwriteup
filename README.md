@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 19:31:37 GMT | Lab: Stored XSS into HTML context with nothing encoded | KRY | [Read More](https://medium.com/p/76217406f725) |
+| Fri, 05 Dec 2025 19:23:55 GMT | Best Home Security Cameras in 2026: Smarter Alerts, Clearer Video and Better Protection | Pranav Pardeshi | [Read More](https://medium.com/p/184b4d0e7a57) |
+| Fri, 05 Dec 2025 19:23:11 GMT | The Future of Data Protection: Top Data Security Trends You Must Watch in 2026 | Techridge Solutions | [Read More](https://medium.com/p/f7d1b97bd62d) |
+| Fri, 05 Dec 2025 19:19:28 GMT | Cybersecurity Courses: The Invisible Shield of Contemporary Finance | professional educator | [Read More](https://medium.com/p/ee38a47d27d2) |
+| Fri, 05 Dec 2025 19:19:24 GMT | VulNyx Admin Writeup | CyberCraft | [Read More](https://medium.com/p/6760b419db5a) |
 | Fri, 05 Dec 2025 19:11:22 GMT | Advent of Cyber 2025 Day 4 — Old sAInt Nick. | Khadijat Suleman | [Read More](https://medium.com/p/ae27fd9decff) |
+| Fri, 05 Dec 2025 19:11:07 GMT | Retail Loss Prevention in Sudbury: Protect Your Business with 247GARD | 247 Gard | [Read More](https://medium.com/p/ff5fea621ac4) |
 | Fri, 05 Dec 2025 19:03:00 GMT | CitySafeSense: Building a Resilient Edge Device for Urban Safety, Environmental Intelligence, and… | Meltedtuna | [Read More](https://medium.com/p/a606cabbac01) |
 | Fri, 05 Dec 2025 18:51:28 GMT | Lab: Reflected XSS into HTML context with nothing encoded | KRY | [Read More](https://medium.com/p/ea5fc24fe08e) |
 | Fri, 05 Dec 2025 18:50:35 GMT | Microsoft Azure Security Tools Specialization | Franklin Rhodes | [Read More](https://medium.com/p/5de3fcce3f52) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 12:16:02 GMT | I Used One GraphQL Hack to Expose 2,300 PII Records + 7 Bugs | Ibtissam | [Read More](https://medium.com/p/8faf63cebf84) |
 | Fri, 05 Dec 2025 12:15:12 GMT | Penetration Testing Workflow Using Nmap & Metasploit | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/35702dc47047) |
 | Fri, 05 Dec 2025 12:15:04 GMT | The First AI-Agent Led Cyberattack Just Hit — SenatorsWant Answers | James Lawson | [Read More](https://medium.com/p/69ed91c97c15) |
-| Fri, 05 Dec 2025 12:07:29 GMT | How Securing IOT Devices | Jayant Kaushik | [Read More](https://medium.com/p/5855df8ba49e) |
-| Fri, 05 Dec 2025 11:52:48 GMT | Social Inequality and Reproductive Decisions: Should Women Be Penalized for Having Many Children… | Wem'Afrika | [Read More](https://medium.com/p/6d8e0506e4c8) |
-| Fri, 05 Dec 2025 11:52:10 GMT | You Don’t Have to Be ‘Fine’ All the Time | Inspire: Viva La Vida | [Read More](https://medium.com/p/8c9bd32389f2) |
-| Fri, 05 Dec 2025 11:49:40 GMT | Choosing the Right SOAR Platform in 2026 | NetWitness | [Read More](https://medium.com/p/7405a9274efe) |
-| Fri, 05 Dec 2025 11:44:31 GMT | The Invisible Battles: What No One Sees When You’re “Functioning” | Vanessa Gemicibasi | [Read More](https://medium.com/p/6926642f1e51) |
-| Fri, 05 Dec 2025 11:42:22 GMT | Wearing Many Hats: My Journey into Security and GRC | Natalie | [Read More](https://medium.com/p/0cd307613e15) |
