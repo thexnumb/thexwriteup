@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 22:33:08 GMT | Hack With Me: AI in Security — old sAInt nick. Advent of Cyber 2025 Day 4 | mikesploit | [Read More](https://medium.com/p/6073e8e7afa3) |
+| Fri, 05 Dec 2025 22:30:50 GMT | The 5 Attacks That Blindsided Every Company in 2025 | Cyber-AppSec | [Read More](https://medium.com/p/6d7779d93ff6) |
+| Fri, 05 Dec 2025 22:30:14 GMT | Why 2025 is the Year Browsers Became the #1 Endpoint Risk | Mammoth Cyber | [Read More](https://medium.com/p/5fc4ff1eff0c) |
+| Fri, 05 Dec 2025 22:28:03 GMT | Building a Mini SOC Research Testbed- My Journey into Security Telemetry | Ahsan | [Read More](https://medium.com/p/c49f94c58a65) |
+| Fri, 05 Dec 2025 22:18:09 GMT | How WhatsApp Web Exposes Its Internal Modules (and Why Most Sites Don’t) | CluxCode | [Read More](https://medium.com/p/5a7b20239d9e) |
 | Fri, 05 Dec 2025 22:11:05 GMT | The Story Behind the COINBASE Cyber-Attack | Abdulraheem Abdulsalam | [Read More](https://medium.com/p/15a3d074ff3a) |
 | Fri, 05 Dec 2025 22:09:25 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 5: DC-6 | Shikhar Sinha | [Read More](https://medium.com/p/c958c7d228b9) |
 | Fri, 05 Dec 2025 22:02:34 GMT | React2Shell- Inside the Critical React Server Components Vulnerability | Vignesh | [Read More](https://medium.com/p/dfa0801b3d28) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 15:02:25 GMT | ChatGPT History Is Showing Up on Google. | Jeremy M Williams | [Read More](https://medium.com/p/5481efb075d5) |
 | Fri, 05 Dec 2025 14:48:52 GMT | SSH-IDS — The Lightweight Linux Security Tool I Built to Detect SSH Attacks in Real Time | Faruk Ahmed | [Read More](https://medium.com/p/3c1a1cf173b7) |
 | Fri, 05 Dec 2025 14:45:10 GMT | cURL Explained Simply: Your Internet Superpower | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/a767746eb230) |
-| Fri, 05 Dec 2025 14:32:45 GMT | The Invisible Drift: Why Your AI System Works Today and Fails Tomorrow | Subodh Kc | [Read More](https://medium.com/p/315eb7a7ed7b) |
-| Fri, 05 Dec 2025 14:26:36 GMT | The Hidden Vulnerability of Strong Women: Why a Simple Kindness Can Move Them to Tears | Poly-blang | [Read More](https://medium.com/p/4878376cb55a) |
-| Fri, 05 Dec 2025 14:17:51 GMT | Firewalls as Digital Gatekeepers, IDS as the Detective Inside | farshad moradi shahrbabak | [Read More](https://medium.com/p/0162eacdb9fc) |
-| Fri, 05 Dec 2025 14:14:00 GMT | Essential Docker Commands for Cybersecurity Labs (With Syntax & Purpose) | Ramandeep Bagri | [Read More](https://medium.com/p/cc38d7d0e77d) |
-| Fri, 05 Dec 2025 14:12:59 GMT | ️ Agentic AI Threats: A Deep Dive Into Securing the Enterprise Code Pipeline | Rakhil Kr | [Read More](https://medium.com/p/6946627da56b) |
