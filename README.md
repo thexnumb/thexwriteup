@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 10:06:32 GMT | Why Choose the Best Security Agency in Trivandrum for Unmatched Protection | Sambhu Sunil | [Read More](https://medium.com/p/e48b207e0f4b) |
+| Fri, 05 Dec 2025 10:03:26 GMT | I Got My OSCP Learn One Subscription and Then… Did Absolutely Nothing With It… | Rubab Fatima | [Read More](https://medium.com/p/4999034397dc) |
+| Fri, 05 Dec 2025 10:03:13 GMT | Agentic AI: Nothing Says “Enterprise-Ready” Like a 70 % Failure Rate | Namir Sagheenanajar | [Read More](https://medium.com/p/011a005d9cbf) |
+| Fri, 05 Dec 2025 10:02:14 GMT | Ehxb - Inside the Filesystem: The Truth Behind LFI & RFI III | Ehxb | [Read More](https://medium.com/p/e905aa80d9bf) |
+| Fri, 05 Dec 2025 09:57:18 GMT | Mac Commands Every User Should Know (But Most Don’t) | Karthick Dk | [Read More](https://medium.com/p/3260c6f59423) |
+| Fri, 05 Dec 2025 09:55:43 GMT | Agentic AI Will Change The Way We Use Cybersecurity Tools | Taimur Ijlal | [Read More](https://medium.com/p/df3de4fb797e) |
+| Fri, 05 Dec 2025 09:53:12 GMT | #5 Cyber Security: A Guide to Malware Protection | Betül Akmercan | [Read More](https://medium.com/p/2feac7f388e8) |
+| Fri, 05 Dec 2025 09:52:03 GMT | The Day Files Started Thinking: How Zapper Edge Redefines Governance in the AI Era | Prabhu Srivastava | [Read More](https://medium.com/p/98119fb8a9c8) |
+| Fri, 05 Dec 2025 09:46:57 GMT | TryHackMe: Zeno Writeup | cbev | [Read More](https://medium.com/p/459d95c2f023) |
+| Fri, 05 Dec 2025 09:42:32 GMT | Your “Perfect” Flutter App is a Ticking Security Time Bomb | Ravi Savaliya | [Read More](https://medium.com/p/79df7dc92c9a) |
 | Fri, 05 Dec 2025 09:31:41 GMT | Why Every Cybersecurity Learner Should Join the SANS Holiday Hack Challenge 2025 | Cyber Times | [Read More](https://medium.com/p/50263bcce213) |
 | Fri, 05 Dec 2025 09:30:32 GMT | The AI-Driven Security Bargain: Are Your M365 Licenses Working Hard Enough? | WayneReidUK | [Read More](https://medium.com/p/bd6d4633f376) |
 | Fri, 05 Dec 2025 09:28:06 GMT | Hackers Exploit Critical ArrayOS AG VPN Vulnerability to Deploy Webshells | Technijian | [Read More](https://medium.com/p/8b5f37f2c5f2) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 02:00:09 GMT | Cloudbric Services Progress Report (11/1 ~ 11/30) | Cloudbric | [Read More](https://medium.com/p/6d6423248ddb) |
 | Fri, 05 Dec 2025 02:00:04 GMT | Cloudbric Services Progress Report (11/1 ~ 11/30) | Cloudbric | [Read More](https://medium.com/p/9dad9a5995b1) |
 | Fri, 05 Dec 2025 01:54:24 GMT | PixVerse V5.5 Review: Multi-Shot AI Video & Audio-Visual Sync | Ccarol | [Read More](https://medium.com/p/21f01d18e92d) |
-| Fri, 05 Dec 2025 01:43:20 GMT | The AI Memory Crunch: Why Privacy and Security Just Became a Luxury Good | Jeremy Tarkington | [Read More](https://medium.com/p/4d25be0d5946) |
-| Fri, 05 Dec 2025 01:41:54 GMT | Security Lab Simulation Project Part 5: Fleet Server Set-up and Configuration | Jenny | [Read More](https://medium.com/p/4b74ada678ac) |
-| Fri, 05 Dec 2025 01:39:27 GMT | The Experience of Viewing the Remarks Produced by AI | Aliyu Ibrahim | [Read More](https://medium.com/p/fc449c6d861a) |
-| Fri, 05 Dec 2025 01:34:52 GMT | The Shocking Reality Of How AI clones A Voice | Positive Thinker | [Read More](https://medium.com/p/168a85170b4f) |
-| Fri, 05 Dec 2025 01:13:41 GMT | 7 Simple ways on how to use a public Wi-Fi network safely in 2025 | Millie Bobby | [Read More](https://medium.com/p/fecdfe3edd22) |
-| Fri, 05 Dec 2025 01:10:48 GMT | Why I Stopped Using Kali Linux (And Why You Should Too) | Aman Kumar (ak) | [Read More](https://medium.com/p/ef6fdbeb2a8f) |
-| Fri, 05 Dec 2025 01:09:35 GMT | Post 2: Who Am I — And Why Should You Care to read? | SattiData | [Read More](https://medium.com/p/ac1ad6151ec6) |
-| Fri, 05 Dec 2025 00:51:49 GMT | (OWASP API7:2023) Server-Side Request Forgery: Ataque, Explotación en la Nube y Mitigación | JPablo13 | [Read More](https://medium.com/p/1a8506f2ad01) |
-| Fri, 05 Dec 2025 00:39:45 GMT | THM Advent of Cyber 2025 Day 4 | ZeakPeak | [Read More](https://medium.com/p/9d22b9b8b8b4) |
-| Fri, 05 Dec 2025 00:37:18 GMT | From Chaos to Control: Automating Password Resets During Incidents | David Oneill | [Read More](https://medium.com/p/be55e42c4068) |
