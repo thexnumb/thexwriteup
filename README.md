@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 18:16:15 GMT | Velociraptor Dead-Disk Forensics | empise | [Read More](https://medium.com/p/e858f1a3f24c) |
+| Fri, 05 Dec 2025 18:08:06 GMT | Day 2 Aoc | Mr.bourneagainshell | [Read More](https://medium.com/p/afdf27b76979) |
+| Fri, 05 Dec 2025 18:06:24 GMT | How AI Is Revolutionizing Cybersecurity | Josephdisi | [Read More](https://medium.com/p/32634843f9bb) |
+| Fri, 05 Dec 2025 18:02:00 GMT | 317,700 Annual IT Job Openings Through 2034: A Data-Driven Analysis of Tech’s Most Accessible… | Kbstraining | [Read More](https://medium.com/p/3de524c5e240) |
+| Fri, 05 Dec 2025 17:51:59 GMT | Cybersecurity News Review — Week 49 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/c30ca5eac27c) |
+| Fri, 05 Dec 2025 17:46:44 GMT | Advent of Cyber 2025 Day 5 - TryHackMe - IDOR - Santa’s Little IDOR - WriteUp | Axoloth | [Read More](https://medium.com/p/25af8ca7f5e8) |
+| Fri, 05 Dec 2025 17:37:32 GMT | How My “Perfectly Safe” Next.js App Was Hacked: A Real-World Analysis of CVE-2025–55182 | Meriç Kıranoğlu | [Read More](https://medium.com/p/d35abd8d69b1) |
 | Fri, 05 Dec 2025 17:28:18 GMT | Getting Started(Hack The Box) | Deep | [Read More](https://medium.com/p/9a13b1fef94d) |
 | Fri, 05 Dec 2025 17:02:31 GMT | The Case Against De-Googling | Mike Wielgołaski | [Read More](https://medium.com/p/d7c45f3504b9) |
 | Fri, 05 Dec 2025 16:55:48 GMT | API Pentesting: The Brutally Honest Guide They Don’t Teach You | Sachin kewat | [Read More](https://medium.com/p/c3073a38a977) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 11:15:27 GMT | Your Top-Level Transformation Vision sounds inspiring… until you realize Steve from Ops didn’t get… | Nina Sophie Pejsa | [Read More](https://medium.com/p/5636a2744e30) |
 | Fri, 05 Dec 2025 11:13:55 GMT | How Hackers Use Free Tools to Break In | Deepak Sharma | [Read More](https://medium.com/p/4068d496358b) |
 | Fri, 05 Dec 2025 11:12:49 GMT | How to Find Hazevecad04 & What Is Hazevecad04 Version on PC? | Thoughtsmag | [Read More](https://medium.com/p/b4e1020bc96e) |
-| Fri, 05 Dec 2025 11:08:18 GMT | The human side of cybersecurity | Jasmine Davies | [Read More](https://medium.com/p/1c6353a22e66) |
-| Fri, 05 Dec 2025 11:02:36 GMT | Sanchar Saathi Mandate: What’s the Real Deal? | Aaryan Vinod Kumar | [Read More](https://medium.com/p/148747eb3441) |
-| Fri, 05 Dec 2025 10:55:56 GMT | 99% Fewer Hacker Attacks on WordPress Sites | Calin Vingan | [Read More](https://medium.com/p/21b6ece2fe85) |
-| Fri, 05 Dec 2025 10:51:26 GMT | Achieving Cloudflare Outage Resilience using AppiCryptWeb | Talsec | [Read More](https://medium.com/p/8d3e90f5c47d) |
-| Fri, 05 Dec 2025 10:44:04 GMT | Best Antivirus for Mac Computers: Top Picks for Maximum Security | Siyanoav | [Read More](https://medium.com/p/a7aa69c2ae95) |
-| Fri, 05 Dec 2025 10:41:17 GMT | Threat Actor Profiling 101: How Cyber Analysts Identify the Humans Behind the Attack | Iman Kurnia | [Read More](https://medium.com/p/1340e1e75421) |
-| Fri, 05 Dec 2025 10:40:21 GMT | Advent of Cyber 2025: Why You Should Join TryHackMe’s Biggest Free Cybersecurity Event | Cyber Times | [Read More](https://medium.com/p/182a9974b5ef) |
