@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 15:16:50 GMT | AI-Powered Insiders: The Most Underestimated Threat of the Next Decade | Abatis ABTU | [Read More](https://medium.com/p/2efb548e22cf) |
 | Fri, 05 Dec 2025 15:06:49 GMT | React2Shell CVE-2025–55182 Explained: Critical RCE Vulnerability in React & Next.js | Hafiz Shamnad | [Read More](https://medium.com/p/f0c0ec847e04) |
 | Fri, 05 Dec 2025 15:03:25 GMT | Cyber Briefing: 2025.12.05 | CyberMaterial | [Read More](https://medium.com/p/c6673a1f513f) |
 | Fri, 05 Dec 2025 15:02:25 GMT | ChatGPT History Is Showing Up on Google. | Jeremy M Williams | [Read More](https://medium.com/p/5481efb075d5) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 08:27:59 GMT | How OT Security Maturity Shapes Successful CCC Certification | Rahman Iqbal | [Read More](https://medium.com/p/d7ff5a4e88a5) |
 | Fri, 05 Dec 2025 08:27:30 GMT | React’s 10.0 RCE Horror: The Server Component Design Flaw That Broke the Cloud | Dani Akabani | [Read More](https://medium.com/p/47304a31f047) |
 | Fri, 05 Dec 2025 08:22:53 GMT | VPN Use Cases in 2025/2026: Practical Guides for Real‑World Users | Szabolcs Záhorszki | [Read More](https://medium.com/p/7d818a579263) |
-| Fri, 05 Dec 2025 08:21:56 GMT | Cheep hacking and exploitation service that hacker recommend | Jangyunwoo | [Read More](https://medium.com/p/3ca1d36545ab) |
