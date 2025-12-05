@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 09:07:50 GMT | How I Accessed Paid Video Content Without Authorization | Zaza_0x | [Read More](https://medium.com/p/639e3497a649) |
+| Fri, 05 Dec 2025 09:02:20 GMT | Run A Free Plain Text Leak Scan On Your Domain With LeakRadar In 2 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/0590ca081112) |
+| Fri, 05 Dec 2025 08:42:19 GMT | How to Use ClamAV and Malware Scanners on Your Server | Smit Pipaliya | [Read More](https://medium.com/p/2d428c3ef8d3) |
+| Fri, 05 Dec 2025 08:37:23 GMT | Wiz vs SonarQube vs Qualys: Which Tool Should You Pick? | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/39df10aa52af) |
+| Fri, 05 Dec 2025 08:27:59 GMT | How OT Security Maturity Shapes Successful CCC Certification | Rahman Iqbal | [Read More](https://medium.com/p/d7ff5a4e88a5) |
+| Fri, 05 Dec 2025 08:27:30 GMT | React’s 10.0 RCE Horror: The Server Component Design Flaw That Broke the Cloud | Dani Akabani | [Read More](https://medium.com/p/47304a31f047) |
 | Fri, 05 Dec 2025 08:22:53 GMT | VPN Use Cases in 2025/2026: Practical Guides for Real‑World Users | Szabolcs Záhorszki | [Read More](https://medium.com/p/7d818a579263) |
 | Fri, 05 Dec 2025 08:21:56 GMT | Cheep hacking and exploitation service that hacker recommend | Jangyunwoo | [Read More](https://medium.com/p/3ca1d36545ab) |
 | Fri, 05 Dec 2025 08:11:30 GMT | AI Governance: Ethical Frameworks for Safer AI | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/8e3c8d61c70f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 23:42:30 GMT | APIs Just Became the Easiest Way to Hack Your Entire Enterprise | Cyber-AppSec | [Read More](https://medium.com/p/4cfc08ab3361) |
 | Thu, 04 Dec 2025 23:29:15 GMT | Strengthening Security Leadership in Australian Workplaces | Michael Huggett | [Read More](https://medium.com/p/0f407e75b73d) |
 | Thu, 04 Dec 2025 23:17:54 GMT | AI Weaponization Is Easier Than We Think | Farhan Nasir | [Read More](https://medium.com/p/3099b24b45c9) |
-| Thu, 04 Dec 2025 22:52:48 GMT | Need 24/7 Security? We’ve Got You Covered! | Visual Monitoring Solutions | [Read More](https://medium.com/p/0d006273793b) |
-| Thu, 04 Dec 2025 22:52:47 GMT | I am writting a pentest agreement | Umoru Martha Nkem | [Read More](https://medium.com/p/6aaf977bc7d4) |
-| Thu, 04 Dec 2025 22:46:34 GMT | Day 4: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/81579f934dca) |
-| Thu, 04 Dec 2025 22:29:06 GMT | TwoMillion — HackTheBox — Walkthrough | Mauricio Antonio | [Read More](https://medium.com/p/62c906f1e94c) |
-| Thu, 04 Dec 2025 22:18:51 GMT | Prompt Engineering the Mirage of AI Advancement | Ahsan | [Read More](https://medium.com/p/3373abf031d4) |
-| Thu, 04 Dec 2025 22:15:10 GMT | I completed a cybersecurity assignment that involved writing a Penetration Testing Agreement for… | shola Abhus | [Read More](https://medium.com/p/3c1ac7202203) |
