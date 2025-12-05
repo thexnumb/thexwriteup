@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 13:15:20 GMT | Advent of Cyber 2025 Day3 — Did You SIEM? | Khadijat Suleman | [Read More](https://medium.com/p/426d1eced1df) |
+| Fri, 05 Dec 2025 13:15:12 GMT | The Black-Belt Guide to Android Internals: Debunking Security Myths & Protecting Billions | Muhammad Zahab Ahmad | [Read More](https://medium.com/p/033590b02b59) |
+| Fri, 05 Dec 2025 13:02:13 GMT | From ISP Constraints to Hands-On GRC: Building a Home Lab in Austria | Brian Haman | [Read More](https://medium.com/p/39376a75ebff) |
+| Fri, 05 Dec 2025 12:56:32 GMT | Why DNS Is the Most Chaotic, Hilarious System Running the Entire Internet | Fateyaly | [Read More](https://medium.com/p/75adc4f5f536) |
+| Fri, 05 Dec 2025 12:55:34 GMT | Bitwarden Review: Is This Right Password Manager for You | Kamalika De | [Read More](https://medium.com/p/858d039e2541) |
+| Fri, 05 Dec 2025 12:52:23 GMT | When Cloudflare Falls and Takes Half the Internet With It — Who’s Really to Blame: Finance or… | 0trust0day | [Read More](https://medium.com/p/eaed5e3b7323) |
+| Fri, 05 Dec 2025 12:52:19 GMT | Understanding XRDP, SSH, CIDR, Subnet Mask, Nmap Scans & Metasploitable: A Practical Guide for… | Shayaan Khan | [Read More](https://medium.com/p/d1d3ff8f22f4) |
+| Fri, 05 Dec 2025 12:50:59 GMT | Simulasi Purple Team: Laporan Respons Insiden Serangan Pada ECorp | Jerry Berlin | [Read More](https://medium.com/p/87014f7ab855) |
+| Fri, 05 Dec 2025 12:50:35 GMT | The Next Generation of Cybersecurity: How AI Can Defeat Slow, Stealthy Malware (SNAKE) | Pourlier jason | [Read More](https://medium.com/p/18bee6829b77) |
+| Fri, 05 Dec 2025 12:49:23 GMT | Kaosu Yönetmek | Betul Toy | [Read More](https://medium.com/p/074648e0c517) |
+| Fri, 05 Dec 2025 12:42:32 GMT | Keystone 3 vs. GridPlus Lattice: Two Hardware Wallets That Actually Make Sense | Officer's Notes | [Read More](https://medium.com/p/bc711c73de05) |
+| Fri, 05 Dec 2025 12:41:51 GMT | Event Security London: The Complete Guide to Safe, Well-Managed & Stress-Free Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/f763e215e882) |
 | Fri, 05 Dec 2025 12:38:36 GMT | AI-Powered Cyber Threats: Why Gainesville Businesses Can’t Afford to Wait | Anu Shreejit | [Read More](https://medium.com/p/c05ce8f6b0e6) |
 | Fri, 05 Dec 2025 12:35:19 GMT | Maximum Physical Privacy and Security as a Crypto Whale: OpSec Strategies Against Physical Threats… | Officer's Notes | [Read More](https://medium.com/p/c25e7b5be54d) |
 | Fri, 05 Dec 2025 12:34:55 GMT | Wireshark for Windows (2026 Edition): The Complete Beginner-to-Pro Guide | ghostyjoe | [Read More](https://medium.com/p/6eeaed3885d3) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 07:12:04 GMT | Implementing Zero Trust in Azure: A Step-by-Step Guide (Part 2) | Siddhant Rangra | [Read More](https://medium.com/p/7b0568844a4d) |
 | Fri, 05 Dec 2025 07:09:42 GMT | Complete OSINT Profile Builder: 50 Free Tools to Level Up Your Recon Game Fast | Very Lazy Tech | [Read More](https://medium.com/p/5e13c22fd660) |
 | Fri, 05 Dec 2025 07:02:15 GMT | When Security Becomes Just “How We Code” | Anto Semeraro | [Read More](https://medium.com/p/5f46aac08df7) |
-| Fri, 05 Dec 2025 06:57:45 GMT | Cracking the uncrackable APKs | Ahmedsameh | [Read More](https://medium.com/p/44495f45d149) |
-| Fri, 05 Dec 2025 06:55:22 GMT | HackyPi 2.0: The Pocket-Sized Automation & Security Tool for Everyone | Harshal Vij | [Read More](https://medium.com/p/2ea0800f5f87) |
-| Fri, 05 Dec 2025 06:52:38 GMT | The Rise of “Everyday Hackers” — Why Cybercrime Is No Longer a Professional Job | Ssolosssolo | [Read More](https://medium.com/p/c1ea9ccd0719) |
-| Fri, 05 Dec 2025 06:52:09 GMT | ️SentinelOne: An Analysis of an AI-Powered Cybersecurity Innovator | Pratba | [Read More](https://medium.com/p/0fb3e84321a0) |
-| Fri, 05 Dec 2025 06:37:12 GMT | Weyhro C2: Because Ransomware Wasn’t Paying the Bills Anymore | Lumma Labs | [Read More](https://medium.com/p/b136fd7ef100) |
-| Fri, 05 Dec 2025 06:13:12 GMT | Transform Your Brand’s Online Success with Professional Social Media Management | IT Company | [Read More](https://medium.com/p/0977d89ab6ce) |
-| Fri, 05 Dec 2025 06:12:38 GMT | Executive Order 14117 and ERP Compliance: What Financial Institutions Must Do Now | Nely Munoz | [Read More](https://medium.com/p/7eef831b5843) |
-| Fri, 05 Dec 2025 06:12:20 GMT | Free Web Proxies Are OK for Pages, Deadly for Logins | Gabriele Wayner | [Read More](https://medium.com/p/210411139b4c) |
-| Fri, 05 Dec 2025 06:10:50 GMT | One World Rental — Global Event Technology Solutions That Elevate Every Experience | DLC Events | [Read More](https://medium.com/p/6e19eea0ed10) |
-| Fri, 05 Dec 2025 05:58:54 GMT | Why Your Tech Gets Slower, Not Better | Rabail Zaheer | [Read More](https://medium.com/p/c89ecef12224) |
-| Fri, 05 Dec 2025 05:57:10 GMT | React2Shell (CVE-2025–55182): What Developers Need to Know | HectoGen | [Read More](https://medium.com/p/f3b67387351f) |
-| Fri, 05 Dec 2025 05:53:17 GMT | SQL Injection Explained: From Basic to Advanced Exploitation (Complete Technical Guide) | Handev Code | [Read More](https://medium.com/p/050f1b43163a) |
