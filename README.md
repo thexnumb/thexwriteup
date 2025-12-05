@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 15:06:49 GMT | React2Shell CVE-2025–55182 Explained: Critical RCE Vulnerability in React & Next.js | Hafiz Shamnad | [Read More](https://medium.com/p/f0c0ec847e04) |
+| Fri, 05 Dec 2025 15:03:25 GMT | Cyber Briefing: 2025.12.05 | CyberMaterial | [Read More](https://medium.com/p/c6673a1f513f) |
+| Fri, 05 Dec 2025 15:02:25 GMT | ChatGPT History Is Showing Up on Google. | Jeremy M Williams | [Read More](https://medium.com/p/5481efb075d5) |
+| Fri, 05 Dec 2025 14:48:52 GMT | SSH-IDS — The Lightweight Linux Security Tool I Built to Detect SSH Attacks in Real Time | Faruk Ahmed | [Read More](https://medium.com/p/3c1a1cf173b7) |
 | Fri, 05 Dec 2025 14:45:10 GMT | cURL Explained Simply: Your Internet Superpower | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/a767746eb230) |
+| Fri, 05 Dec 2025 14:32:45 GMT | The Invisible Drift: Why Your AI System Works Today and Fails Tomorrow | Subodh Kc | [Read More](https://medium.com/p/315eb7a7ed7b) |
 | Fri, 05 Dec 2025 14:26:36 GMT | The Hidden Vulnerability of Strong Women: Why a Simple Kindness Can Move Them to Tears | Poly-blang | [Read More](https://medium.com/p/4878376cb55a) |
 | Fri, 05 Dec 2025 14:17:51 GMT | Firewalls as Digital Gatekeepers, IDS as the Detective Inside | farshad moradi shahrbabak | [Read More](https://medium.com/p/0162eacdb9fc) |
 | Fri, 05 Dec 2025 14:14:00 GMT | Essential Docker Commands for Cybersecurity Labs (With Syntax & Purpose) | Ramandeep Bagri | [Read More](https://medium.com/p/cc38d7d0e77d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 08:27:30 GMT | React’s 10.0 RCE Horror: The Server Component Design Flaw That Broke the Cloud | Dani Akabani | [Read More](https://medium.com/p/47304a31f047) |
 | Fri, 05 Dec 2025 08:22:53 GMT | VPN Use Cases in 2025/2026: Practical Guides for Real‑World Users | Szabolcs Záhorszki | [Read More](https://medium.com/p/7d818a579263) |
 | Fri, 05 Dec 2025 08:21:56 GMT | Cheep hacking and exploitation service that hacker recommend | Jangyunwoo | [Read More](https://medium.com/p/3ca1d36545ab) |
-| Fri, 05 Dec 2025 08:11:30 GMT | AI Governance: Ethical Frameworks for Safer AI | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/8e3c8d61c70f) |
-| Fri, 05 Dec 2025 08:10:26 GMT | Are UK Manufacturers Sleepwalking Into a Cyber Disaster? | Luke Appleby | [Read More](https://medium.com/p/5d8463a32b98) |
-| Fri, 05 Dec 2025 08:06:12 GMT | Superpower in Linux Log Analysis: A Guide to Using Regex (Regular Expressions) | Esra Kayhan | [Read More](https://medium.com/p/712d4467e573) |
-| Fri, 05 Dec 2025 08:01:45 GMT | HIPAA Enforcement Rule for Business Associates: Are You Meeting the Standards? | SecureSlate | [Read More](https://medium.com/p/94ceccfe4190) |
-| Fri, 05 Dec 2025 07:59:50 GMT | Python programming classes in Delhi for students and professionals | cyber security Updates | [Read More](https://medium.com/p/a99e895ddf0e) |
