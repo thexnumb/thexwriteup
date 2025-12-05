@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 14:45:10 GMT | cURL Explained Simply: Your Internet Superpower | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/a767746eb230) |
+| Fri, 05 Dec 2025 14:26:36 GMT | The Hidden Vulnerability of Strong Women: Why a Simple Kindness Can Move Them to Tears | Poly-blang | [Read More](https://medium.com/p/4878376cb55a) |
+| Fri, 05 Dec 2025 14:17:51 GMT | Firewalls as Digital Gatekeepers, IDS as the Detective Inside | farshad moradi shahrbabak | [Read More](https://medium.com/p/0162eacdb9fc) |
 | Fri, 05 Dec 2025 14:14:00 GMT | Essential Docker Commands for Cybersecurity Labs (With Syntax & Purpose) | Ramandeep Bagri | [Read More](https://medium.com/p/cc38d7d0e77d) |
+| Fri, 05 Dec 2025 14:12:59 GMT | ️ Agentic AI Threats: A Deep Dive Into Securing the Enterprise Code Pipeline | Rakhil Kr | [Read More](https://medium.com/p/6946627da56b) |
 | Fri, 05 Dec 2025 14:09:00 GMT | A Look at the Alleged Beckett Collectibles Data Breach | Seamus Callahan | [Read More](https://medium.com/p/46bfd45cd47d) |
 | Fri, 05 Dec 2025 14:03:55 GMT | October — Hack The Box Walkthrough | Eng Ahmed Ibrahim | [Read More](https://medium.com/p/884c4aa2d05a) |
 | Fri, 05 Dec 2025 14:02:47 GMT | Is your website ready for 2025 threats? | HSINGH WEB STUDIO | [Read More](https://medium.com/p/d56300121a51) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 08:06:12 GMT | Superpower in Linux Log Analysis: A Guide to Using Regex (Regular Expressions) | Esra Kayhan | [Read More](https://medium.com/p/712d4467e573) |
 | Fri, 05 Dec 2025 08:01:45 GMT | HIPAA Enforcement Rule for Business Associates: Are You Meeting the Standards? | SecureSlate | [Read More](https://medium.com/p/94ceccfe4190) |
 | Fri, 05 Dec 2025 07:59:50 GMT | Python programming classes in Delhi for students and professionals | cyber security Updates | [Read More](https://medium.com/p/a99e895ddf0e) |
-| Fri, 05 Dec 2025 07:42:59 GMT | Building “FraudGuard AI”: A Real-Time Financial Defense System with Python & FastAPI | Ansh Hemal Mehta | [Read More](https://medium.com/p/3d9de29affeb) |
-| Fri, 05 Dec 2025 07:38:10 GMT | The Anatomy of a Digital Mirage: A Forensic Audit of Unverified Trading Platforms | Nezahualpilli Tlapalco | [Read More](https://medium.com/p/9ee4679699d2) |
-| Fri, 05 Dec 2025 07:36:10 GMT | The Daily Tech Digest: 05 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a31838240d17) |
-| Fri, 05 Dec 2025 07:33:27 GMT | The Invisible Shield: How Modern APIs Stay Secure (and Why JWT Still Matters in 2025) | CodeWithYog | [Read More](https://medium.com/p/16ad72c6fb74) |
