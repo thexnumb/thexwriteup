@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 20:32:41 GMT | eBPF Adventures — Learning how syscalls can be modified on the fly | Alex Elbaum | [Read More](https://medium.com/p/dfe87fc4680f) |
+| Fri, 05 Dec 2025 20:28:31 GMT | How to Protect Your Business Wi-Fi Network From Hackers | Cordula Boeck | [Read More](https://medium.com/p/01aa0b2c8b2a) |
+| Fri, 05 Dec 2025 20:22:55 GMT | NAMİB BÖCEĞİ | Elif Sude Dal | [Read More](https://medium.com/p/1e433979601a) |
 | Fri, 05 Dec 2025 20:19:54 GMT | Reverse engineering of a crypto stealer | Artem M | [Read More](https://medium.com/p/e768f0c20853) |
+| Fri, 05 Dec 2025 20:19:41 GMT | Advent of Cyber 2025 - Day 5: Santa’s Little IDOR | Akshat Patel | [Read More](https://medium.com/p/1d71b6143b93) |
 | Fri, 05 Dec 2025 20:10:11 GMT | Unlocking New Skills: Pentesting Agreement | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/4a82e61fa5e1) |
 | Fri, 05 Dec 2025 20:07:45 GMT | React 19 & Next.js Hit by CVSS 10.0 RCE: Patch Now | Mehdi BAFDIL | [Read More](https://medium.com/p/60f57c517c28) |
 | Fri, 05 Dec 2025 20:07:23 GMT | Loly — Full Walkthrough by Ishhishneet | IshhIshneet | [Read More](https://medium.com/p/00bd55c1a575) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 12:50:59 GMT | Simulasi Purple Team: Laporan Respons Insiden Serangan Pada ECorp | Jerry Berlin | [Read More](https://medium.com/p/87014f7ab855) |
 | Fri, 05 Dec 2025 12:50:35 GMT | The Next Generation of Cybersecurity: How AI Can Defeat Slow, Stealthy Malware (SNAKE) | Pourlier jason | [Read More](https://medium.com/p/18bee6829b77) |
 | Fri, 05 Dec 2025 12:49:23 GMT | Kaosu Yönetmek | Betul Toy | [Read More](https://medium.com/p/074648e0c517) |
-| Fri, 05 Dec 2025 12:42:32 GMT | Keystone 3 vs. GridPlus Lattice: Two Hardware Wallets That Actually Make Sense | Officer's Notes | [Read More](https://medium.com/p/bc711c73de05) |
-| Fri, 05 Dec 2025 12:41:51 GMT | Event Security London: The Complete Guide to Safe, Well-Managed & Stress-Free Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/f763e215e882) |
-| Fri, 05 Dec 2025 12:38:36 GMT | AI-Powered Cyber Threats: Why Gainesville Businesses Can’t Afford to Wait | Anu Shreejit | [Read More](https://medium.com/p/c05ce8f6b0e6) |
-| Fri, 05 Dec 2025 12:35:19 GMT | Maximum Physical Privacy and Security as a Crypto Whale: OpSec Strategies Against Physical Threats… | Officer's Notes | [Read More](https://medium.com/p/c25e7b5be54d) |
