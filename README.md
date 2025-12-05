@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 16:44:42 GMT | Mimikatz Techniques in AD Networks: Deep Dive into Windows Credential Extraction | Ammar Ahmed | [Read More](https://medium.com/p/be35eb6caa15) |
+| Fri, 05 Dec 2025 16:44:37 GMT | The Digital Confidentiality Trap: 5 Tech Mistakes Swiss Therapists Make (And How to Fix Them) | Paulo Lopes | [Read More](https://medium.com/p/39e378a250ee) |
+| Fri, 05 Dec 2025 16:43:30 GMT | Runtime Security: The Layer Everyone Ignores Until It’s Too Late | Pieter Geelen | [Read More](https://medium.com/p/1c4b685257fa) |
+| Fri, 05 Dec 2025 16:42:05 GMT | Advent of Cyber 2025 - Day 5: IDOR — Santa’s Little IDOR | D4m.sh | [Read More](https://medium.com/p/b6531f7a2940) |
+| Fri, 05 Dec 2025 16:39:10 GMT | Advent of Cyber 2025 — A Festive, Hands-On Gateway Into Cybersecurity | Nazmul Islam | [Read More](https://medium.com/p/5b0776a5440f) |
+| Fri, 05 Dec 2025 16:39:03 GMT | AI Policy Templates: Keep Your Teams Secure While Using ChatGPT | Technijian | [Read More](https://medium.com/p/2879446f2d4f) |
+| Fri, 05 Dec 2025 16:38:50 GMT | 7. Master the Basics, Break the Web: Backend Application Flow | Abinesh M | [Read More](https://medium.com/p/0f1355e034d2) |
+| Fri, 05 Dec 2025 16:29:14 GMT | Hackers Found a Way to Turn Mice Into Microphones. Here’s How. | Faizan Saghir | [Read More](https://medium.com/p/93ca7d055dff) |
 | Fri, 05 Dec 2025 16:25:49 GMT | (Security) 2025 ACDC(AI Cyber Defense Contest) 세미나 참석 후기 (1일차) | ssoL2 | [Read More](https://medium.com/p/065ad4f7c7d8) |
+| Fri, 05 Dec 2025 16:24:56 GMT | The $9.3 Billion Lesson: What I Learned Watching Americans Fall for Crypto Scams I Could Have… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e337d2113648) |
 | Fri, 05 Dec 2025 16:24:08 GMT | MemGuard: Rethinking Secure Storage in Flutter with Zero-Leak Architecture | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/75da691989d1) |
 | Fri, 05 Dec 2025 16:20:09 GMT | Penetration Test Standartları | Dogukan İSPİRLİ | [Read More](https://medium.com/p/abd831cb347f) |
 | Fri, 05 Dec 2025 16:17:01 GMT | cURL Command Cheatsheet for Hackers | Mainekhacker | [Read More](https://medium.com/p/c21714ccbc18) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 10:26:33 GMT | Mastering the Future of AI: My Journey Through the AI Security & Governance Certification | Chandan Veerabhadra Setty | [Read More](https://medium.com/p/5fc677d41d63) |
 | Fri, 05 Dec 2025 10:24:35 GMT | Day 5 — The Fog in the Valley | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/2ad4df258953) |
 | Fri, 05 Dec 2025 10:22:24 GMT | Build Smarter Verification Habits | Century Solutions Group | [Read More](https://medium.com/p/e5f38f5dfd43) |
-| Fri, 05 Dec 2025 10:20:09 GMT | Best Integrated Lease Management Software Provider in India | Samvaskaran | [Read More](https://medium.com/p/4ce2aa6d3595) |
-| Fri, 05 Dec 2025 10:19:53 GMT | Why Developers Secretly Prefer Mac | Karthick Dk | [Read More](https://medium.com/p/e2cbd32dbc23) |
-| Fri, 05 Dec 2025 10:15:49 GMT | Are AI Browsers Unsafe? Analysis of the Risks, Challenges and Mitigation Strategies | Niyati Daftary | [Read More](https://medium.com/p/a380bf47a89c) |
-| Fri, 05 Dec 2025 10:12:14 GMT | HTB Challenge — xorxorxor | Fardeen A. | [Read More](https://medium.com/p/0b6378c52c22) |
-| Fri, 05 Dec 2025 10:06:32 GMT | Why Choose the Best Security Agency in Trivandrum for Unmatched Protection | Sambhu Sunil | [Read More](https://medium.com/p/e48b207e0f4b) |
-| Fri, 05 Dec 2025 10:03:26 GMT | I Got My OSCP Learn One Subscription and Then… Did Absolutely Nothing With It… | Rubab Fatima | [Read More](https://medium.com/p/4999034397dc) |
-| Fri, 05 Dec 2025 10:03:13 GMT | Agentic AI: Nothing Says “Enterprise-Ready” Like a 70 % Failure Rate | Namir Sagheenanajar | [Read More](https://medium.com/p/011a005d9cbf) |
-| Fri, 05 Dec 2025 10:02:14 GMT | Ehxb - Inside the Filesystem: The Truth Behind LFI & RFI III | Ehxb | [Read More](https://medium.com/p/e905aa80d9bf) |
-| Fri, 05 Dec 2025 09:57:18 GMT | Mac Commands Every User Should Know (But Most Don’t) | Karthick Dk | [Read More](https://medium.com/p/3260c6f59423) |
