@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 20:19:54 GMT | Reverse engineering of a crypto stealer | Artem M | [Read More](https://medium.com/p/e768f0c20853) |
+| Fri, 05 Dec 2025 20:10:11 GMT | Unlocking New Skills: Pentesting Agreement | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/4a82e61fa5e1) |
+| Fri, 05 Dec 2025 20:07:45 GMT | React 19 & Next.js Hit by CVSS 10.0 RCE: Patch Now | Mehdi BAFDIL | [Read More](https://medium.com/p/60f57c517c28) |
+| Fri, 05 Dec 2025 20:07:23 GMT | Loly — Full Walkthrough by Ishhishneet | IshhIshneet | [Read More](https://medium.com/p/00bd55c1a575) |
+| Fri, 05 Dec 2025 20:04:01 GMT | Why You Should Not Talk About Your Earnings Online | Zayne Harbison | [Read More](https://medium.com/p/194fd75d4d5b) |
+| Fri, 05 Dec 2025 20:03:54 GMT | Advent of Cyber 25 — Day 3 — AI in Security — old sAInt nick | cybertactic | [Read More](https://medium.com/p/242f17d94aa9) |
+| Fri, 05 Dec 2025 20:03:45 GMT | THE FEAR OF HOPE | Matthew Horan | [Read More](https://medium.com/p/0baec0e835e9) |
+| Fri, 05 Dec 2025 19:52:48 GMT |  |  | [Read More](https://medium.com/p/f77235ab17e4) |
+| Fri, 05 Dec 2025 19:35:44 GMT | Earn More with BUG COIN Rewards — December 2025 | Money Printing Machine | [Read More](https://medium.com/p/e79c2820bf19) |
 | Fri, 05 Dec 2025 19:31:37 GMT | Lab: Stored XSS into HTML context with nothing encoded | KRY | [Read More](https://medium.com/p/76217406f725) |
 | Fri, 05 Dec 2025 19:23:55 GMT | Best Home Security Cameras in 2026: Smarter Alerts, Clearer Video and Better Protection | Pranav Pardeshi | [Read More](https://medium.com/p/184b4d0e7a57) |
 | Fri, 05 Dec 2025 19:23:11 GMT | The Future of Data Protection: Top Data Security Trends You Must Watch in 2026 | Techridge Solutions | [Read More](https://medium.com/p/f7d1b97bd62d) |
+| Fri, 05 Dec 2025 19:21:04 GMT | Post-Mortem: Cuando los Backups Automatizados fallan y el SII te respira en la nuca (Guía de… | Leonardo Vergara | [Read More](https://medium.com/p/cb0bc59684ce) |
 | Fri, 05 Dec 2025 19:19:28 GMT | Cybersecurity Courses: The Invisible Shield of Contemporary Finance | professional educator | [Read More](https://medium.com/p/ee38a47d27d2) |
 | Fri, 05 Dec 2025 19:19:24 GMT | VulNyx Admin Writeup | CyberCraft | [Read More](https://medium.com/p/6760b419db5a) |
 | Fri, 05 Dec 2025 19:11:22 GMT | Advent of Cyber 2025 Day 4 — Old sAInt Nick. | Khadijat Suleman | [Read More](https://medium.com/p/ae27fd9decff) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 12:41:51 GMT | Event Security London: The Complete Guide to Safe, Well-Managed & Stress-Free Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/f763e215e882) |
 | Fri, 05 Dec 2025 12:38:36 GMT | AI-Powered Cyber Threats: Why Gainesville Businesses Can’t Afford to Wait | Anu Shreejit | [Read More](https://medium.com/p/c05ce8f6b0e6) |
 | Fri, 05 Dec 2025 12:35:19 GMT | Maximum Physical Privacy and Security as a Crypto Whale: OpSec Strategies Against Physical Threats… | Officer's Notes | [Read More](https://medium.com/p/c25e7b5be54d) |
-| Fri, 05 Dec 2025 12:34:55 GMT | Wireshark for Windows (2026 Edition): The Complete Beginner-to-Pro Guide | ghostyjoe | [Read More](https://medium.com/p/6eeaed3885d3) |
-| Fri, 05 Dec 2025 12:32:41 GMT | Tauri 2.0: Building Lightweight Desktop & Mobile Apps with Rust Security and System WebView… | Kawaldeep Singh | [Read More](https://medium.com/p/c89e2901208a) |
-| Fri, 05 Dec 2025 12:31:25 GMT | When the Visibility Layer Fails: What Cloudflare’s Outage Reveals About Digital Fragility | Nathaniel Niyazov | [Read More](https://medium.com/p/6b003ad50e2d) |
-| Fri, 05 Dec 2025 12:28:41 GMT | The Era of “AI-Driven Attacks vs AI-Driven Defense” in Cybersecurity | ALGOFACT | [Read More](https://medium.com/p/8ea6644e1659) |
-| Fri, 05 Dec 2025 12:27:20 GMT | The Invisible War: AI vs AI in the Future of Cyber Defense and Attack | Zain Ahmad | [Read More](https://medium.com/p/67364106fcd1) |
-| Fri, 05 Dec 2025 12:25:05 GMT | Handling Online Threats with the Best Antivirus for PC | SiyanoAV | [Read More](https://medium.com/p/3d497dac0f6a) |
-| Fri, 05 Dec 2025 12:16:44 GMT | Remove Ads on NoonooTV — Clean Streaming Setup (2026) | NoonooTV Official | [Read More](https://medium.com/p/f59edf55a6ba) |
-| Fri, 05 Dec 2025 12:16:02 GMT | I Used One GraphQL Hack to Expose 2,300 PII Records + 7 Bugs | Ibtissam | [Read More](https://medium.com/p/8faf63cebf84) |
-| Fri, 05 Dec 2025 12:15:12 GMT | Penetration Testing Workflow Using Nmap & Metasploit | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/35702dc47047) |
-| Fri, 05 Dec 2025 12:15:04 GMT | The First AI-Agent Led Cyberattack Just Hit — SenatorsWant Answers | James Lawson | [Read More](https://medium.com/p/69ed91c97c15) |
