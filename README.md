@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 07:16:50 GMT | The Quantum Revolution Is Coming | Haider Ali | [Read More](https://medium.com/p/83e9b003a731) |
+| Fri, 05 Dec 2025 07:14:16 GMT | API Security 101: How Modern Systems Get Hacked | Ukwedje Taiwo Goodness | [Read More](https://medium.com/p/c04f95318721) |
+| Fri, 05 Dec 2025 07:12:04 GMT | Implementing Zero Trust in Azure: A Step-by-Step Guide (Part 2) | Siddhant Rangra | [Read More](https://medium.com/p/7b0568844a4d) |
+| Fri, 05 Dec 2025 07:09:42 GMT | Complete OSINT Profile Builder: 50 Free Tools to Level Up Your Recon Game Fast | Very Lazy Tech | [Read More](https://medium.com/p/5e13c22fd660) |
+| Fri, 05 Dec 2025 07:02:15 GMT | When Security Becomes Just “How We Code” | Anto Semeraro | [Read More](https://medium.com/p/5f46aac08df7) |
+| Fri, 05 Dec 2025 06:57:45 GMT | Cracking the uncrackable APKs | Ahmedsameh | [Read More](https://medium.com/p/44495f45d149) |
+| Fri, 05 Dec 2025 06:55:22 GMT | HackyPi 2.0: The Pocket-Sized Automation & Security Tool for Everyone | Harshal Vij | [Read More](https://medium.com/p/2ea0800f5f87) |
+| Fri, 05 Dec 2025 06:52:38 GMT | The Rise of “Everyday Hackers” — Why Cybercrime Is No Longer a Professional Job | Ssolosssolo | [Read More](https://medium.com/p/c1ea9ccd0719) |
+| Fri, 05 Dec 2025 06:52:09 GMT | ️SentinelOne: An Analysis of an AI-Powered Cybersecurity Innovator | Pratba | [Read More](https://medium.com/p/0fb3e84321a0) |
+| Fri, 05 Dec 2025 06:37:12 GMT | Weyhro C2: Because Ransomware Wasn’t Paying the Bills Anymore | Lumma Labs | [Read More](https://medium.com/p/b136fd7ef100) |
 | Fri, 05 Dec 2025 06:13:12 GMT | Transform Your Brand’s Online Success with Professional Social Media Management | IT Company | [Read More](https://medium.com/p/0977d89ab6ce) |
 | Fri, 05 Dec 2025 06:12:38 GMT | Executive Order 14117 and ERP Compliance: What Financial Institutions Must Do Now | Nely Munoz | [Read More](https://medium.com/p/7eef831b5843) |
 | Fri, 05 Dec 2025 06:12:20 GMT | Free Web Proxies Are OK for Pages, Deadly for Logins | Gabriele Wayner | [Read More](https://medium.com/p/210411139b4c) |
@@ -23,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 05:39:26 GMT | A Thought-paper on AI Governance and Security: Building Trust in Intelligent Systems | Techiverse - We bring latest insights on Ai & ML | [Read More](https://medium.com/p/abef9d7f63c6) |
 | Fri, 05 Dec 2025 05:38:12 GMT | What Are the Benefits of Cloud Computing? | Soundaryaps | [Read More](https://medium.com/p/28d6740ffa40) |
 | Fri, 05 Dec 2025 05:37:22 GMT | How Misconfigured Authentication Broke One App - And How We Fixed It (Sanitized Walkthrough) | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/f2b26d7a287c) |
+| Fri, 05 Dec 2025 05:30:23 GMT | How to Prevent Data Breaches: A Quick & Effective Guide | Maxatlasofficial | [Read More](https://medium.com/p/bdebc8cfb765) |
 | Fri, 05 Dec 2025 05:25:28 GMT | ️ How I Walked Into LaunchDarkly’s Internal Jira Portal Through a Public Signup Bug | Anshubind | [Read More](https://medium.com/p/2015c5cee6e0) |
 | Fri, 05 Dec 2025 05:22:21 GMT | Securing Your FastAPI Application with Middleware: A Production-Ready Guide (Part 1) | Sizan Mahmud | [Read More](https://medium.com/p/ec4a8944ea0a) |
 | Fri, 05 Dec 2025 05:20:43 GMT | ️‍♂️ How I Stumbled Into My First Uber Bug: The Unexpected Win That Earned Me $780 | Anshubind | [Read More](https://medium.com/p/8ba880e60510) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 20:47:38 GMT | Ignore the R-rated finger gestures (#HealthcareAfterDark) and listen to Jason Elrod insights on how… | Matthew.Rosenquist | [Read More](https://medium.com/p/d0794bf32f2b) |
 | Thu, 04 Dec 2025 20:44:00 GMT | I Tried Hacking My Own Accounts — The Results Shocked Me | Liam | [Read More](https://medium.com/p/a1a74690f0d8) |
 | Thu, 04 Dec 2025 20:39:02 GMT | Decoding Brickstorms Garble strings | Jason Reaves | [Read More](https://medium.com/p/b0a60828b3cc) |
-| Thu, 04 Dec 2025 20:34:15 GMT | Public Wi-Fi Safety: Safer, Yes. Safe for Everyone, No. | Andy Tillman UK | [Read More](https://medium.com/p/3322cc1546ef) |
-| Thu, 04 Dec 2025 20:34:13 GMT | HackTheBox— Hacknet | Boubakri Rami | [Read More](https://medium.com/p/b8cf58f9eafa) |
-| Thu, 04 Dec 2025 20:32:55 GMT | Understanding TLS Certificates: A Complete Beginner’s Guide | Nayan Kunwar | [Read More](https://medium.com/p/ecbbd0a266f8) |
-| Thu, 04 Dec 2025 20:28:21 GMT | Part 4: Crypto Frauds, Phishing Kits, Darknet Laundering & Real Case Studies | ghostyjoe | [Read More](https://medium.com/p/ab758e4b074a) |
-| Thu, 04 Dec 2025 20:27:36 GMT | How Binance’s New Co-CEO Navigated Crisis After Crisis — And What Other Exchanges Could Learn | Sunny at The Venture Hub (TVH) | [Read More](https://medium.com/p/678a469df744) |
-| Thu, 04 Dec 2025 20:25:14 GMT | There are fewer information viruses on the internet than flu viruses | Elena Krosheva | [Read More](https://medium.com/p/c0a8de4f68b1) |
-| Thu, 04 Dec 2025 20:24:08 GMT | Amazon’s $10 Billion Bet That Nobody Can Copy Its AI Chips | Berend Watchus | [Read More](https://medium.com/p/7321e4c14273) |
-| Thu, 04 Dec 2025 20:19:47 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 4: DC-4 | Shikhar Sinha | [Read More](https://medium.com/p/4d5aa638321b) |
-| Thu, 04 Dec 2025 20:17:41 GMT | Splunk Basics — Did you SIEM? - AoC 2025 Day — 3-By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a514d9e2c3dc) |
-| Thu, 04 Dec 2025 20:16:16 GMT | CRITICAL ALERT: React Server Components Unauthenticated RCE (CVE-2025–55182) | Cybersecplayground | [Read More](https://medium.com/p/956dbc3d5611) |
-| Thu, 04 Dec 2025 20:02:46 GMT | Code Red: The CVSS 10.0 Exploit Hitting Every Next.js and React 19 Server | Noor Mohamad | [Read More](https://medium.com/p/e9301d980888) |
