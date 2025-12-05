@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 04:40:33 GMT | Bug Bounty Hunting — Complete Guide (Part-155) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/f8aeb9f7e99b) |
+| Fri, 05 Dec 2025 04:38:38 GMT | Bug Bounty Hunting — Complete Guide (Part-154) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/4c26a69b4672) |
+| Fri, 05 Dec 2025 04:33:44 GMT | Encrypted Purpose: My Journey So Far | 9purp0s3 - Steven | [Read More](https://medium.com/p/8d911cb687bf) |
+| Fri, 05 Dec 2025 04:33:01 GMT | SIEM on a Budget: Tools That Punch Above Their Weight | Lanvaus | [Read More](https://medium.com/p/b8fb208a80a2) |
+| Fri, 05 Dec 2025 04:29:21 GMT | Inside a 90-Minute SSRF → Admin Panel → RCE Kill Chain | Tyreek Haynes | [Read More](https://medium.com/p/cf4607cdd676) |
+| Fri, 05 Dec 2025 04:26:28 GMT | IOT Connect Writeup — MobileHackingLab | محمد بن إبراهيم | [Read More](https://medium.com/p/3e3bd5079636) |
+| Fri, 05 Dec 2025 04:14:48 GMT | SafeLine WAF: Unaffected by React Vulnerabilities | SafeLine WAF | [Read More](https://medium.com/p/d4dbd4d3c45d) |
+| Fri, 05 Dec 2025 04:07:17 GMT | Introduction to Networking — Series 1 | Mr.Cool | [Read More](https://medium.com/p/3a392cb797ed) |
+| Fri, 05 Dec 2025 04:06:27 GMT | The Wrapping Paper Casket: When a Simple Gift Reveals a Hidden Truth | Adv. Moniruz Zaman, M.A.,LL.B, R.S.A, PDCA | [Read More](https://medium.com/p/0f39c6189cb0) |
 | Fri, 05 Dec 2025 03:55:09 GMT | How to Do Threat Modelling with STRIDE (Step by Step on a Simple Web App) | Akshat Patel | [Read More](https://medium.com/p/3f22e0299c51) |
 | Fri, 05 Dec 2025 03:45:07 GMT | 94 Percent of LLMs Shown to Be Vulnerable to Attack | Matthew.Rosenquist | [Read More](https://medium.com/p/fbf05f7120fe) |
 | Fri, 05 Dec 2025 03:40:04 GMT | From Code to Defense: My First Steps into Cybersecurity as a .NET/Java Developer | Barbaros Emre Alagöz | [Read More](https://medium.com/p/52dc796973ac) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 18:52:31 GMT | “CloudFail” ile Origin IP Tespiti: Cloudflare Arkasında Ne Var? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/cbc341dd6d4a) |
 | Thu, 04 Dec 2025 18:51:14 GMT | My First CVE: CVE-2025–65883 — Remote Code Execution in a Genexis Router | Adwaith S | [Read More](https://medium.com/p/0c35749a99bd) |
 | Thu, 04 Dec 2025 18:49:15 GMT | How to Build and Keep Community When You Weren’t Taught How | Mitchella (Mitch) Gilbert | [Read More](https://medium.com/p/8c7ffef4662d) |
-| Thu, 04 Dec 2025 18:31:30 GMT | IT dünyasının “Alfabesi”: Network ve OSI modeli | HACER MALTAR | [Read More](https://medium.com/p/53b983ac8fd1) |
-| Thu, 04 Dec 2025 18:20:15 GMT | Introduction to Cybersecurity Tools & Cyberattacks (IBM) | Franklin Rhodes | [Read More](https://medium.com/p/1c86c0b6b7c6) |
-| Thu, 04 Dec 2025 18:19:46 GMT | Why Cybersecurity is the Next Essential Skill for Data Scientists | Talhaakbar | [Read More](https://medium.com/p/ad510810f753) |
-| Thu, 04 Dec 2025 18:18:09 GMT | Leaked API Key to Full Calendar Control | Yehia Ahmed | [Read More](https://medium.com/p/7561333ceacb) |
-| Thu, 04 Dec 2025 18:17:59 GMT | Advent of Cyber 2025 Day 4 - TryHackMe - AI in Security - old sAInt nick - WriteUp | Axoloth | [Read More](https://medium.com/p/133d09359b88) |
-| Thu, 04 Dec 2025 18:15:12 GMT | RAG Security & Data-Leak Threat Analysis | Ketan Rapariya | [Read More](https://medium.com/p/38eec6b4c560) |
-| Thu, 04 Dec 2025 18:09:30 GMT | Advent of Cyber 2025 Day 4: Old sAInt Nick and AI in Security | Akshat Patel | [Read More](https://medium.com/p/1bbd01b100cd) |
-| Thu, 04 Dec 2025 18:08:16 GMT | Stop Your iPhone From ‘Learning' You: A Privacy Guide | K_Anik | [Read More](https://medium.com/p/88fb86bd2674) |
-| Thu, 04 Dec 2025 18:05:31 GMT | AI in Security — old sAInt nick-Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/366a21e6a4db) |
