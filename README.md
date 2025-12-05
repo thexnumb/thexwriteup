@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 21:15:29 GMT | What is API Security and Why Should Everyday People Care? | Bella Etuk | [Read More](https://medium.com/p/5634190e084c) |
+| Fri, 05 Dec 2025 21:09:26 GMT | 75% of Pentest Findings Return as Exploitable, Stop This by Creating Security Regression Templates | Muh. Fani Akbar | [Read More](https://medium.com/p/bb1fd9eefbc6) |
+| Fri, 05 Dec 2025 21:07:31 GMT | I found a Critical CVE in my senior design project | n0t_brit | [Read More](https://medium.com/p/29a02038df14) |
+| Fri, 05 Dec 2025 21:06:02 GMT | TryHackMe Writeup: RootMe | Berkay AĞGÜL | [Read More](https://medium.com/p/b3385b556a7d) |
+| Fri, 05 Dec 2025 21:02:31 GMT | Drafting a Professional Penetration Testing Agreement — My ParoCyber Assignment Experience | portal | [Read More](https://medium.com/p/202ab1273750) |
+| Fri, 05 Dec 2025 21:00:00 GMT | Why there isn’t much resources about building security products, and how can you start building… | Mohammed Dief | [Read More](https://medium.com/p/bfdb689cc7ae) |
+| Fri, 05 Dec 2025 20:53:30 GMT | What is React2Shell (CVE-2025-55182) technical summary | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/569c8e998765) |
+| Fri, 05 Dec 2025 20:52:40 GMT | Why G Force Security Guards Are Essential for Workplace Safety in Mississauga, ON | G Force Security | [Read More](https://medium.com/p/e3723fb5b8cc) |
+| Fri, 05 Dec 2025 20:52:07 GMT | How TLS Works — A Complete Deep Dive for Engineers | AlgoPoint | [Read More](https://medium.com/p/e6ee2f2bfd64) |
+| Fri, 05 Dec 2025 20:50:15 GMT | Part 1: How Researchers Find Heap Vulnerabilities – Fuzzing, Crash Analysis, and the Path to… | Maxwell Cross | [Read More](https://medium.com/p/4ae505f9ffa1) |
+| Fri, 05 Dec 2025 20:39:53 GMT | Introducing October ’25 Spammers! | SafeNetting | [Read More](https://medium.com/p/58d50320356d) |
 | Fri, 05 Dec 2025 20:32:41 GMT | eBPF Adventures — Learning how syscalls can be modified on the fly | Alex Elbaum | [Read More](https://medium.com/p/dfe87fc4680f) |
 | Fri, 05 Dec 2025 20:28:31 GMT | How to Protect Your Business Wi-Fi Network From Hackers | Cordula Boeck | [Read More](https://medium.com/p/01aa0b2c8b2a) |
 | Fri, 05 Dec 2025 20:22:55 GMT | NAMİB BÖCEĞİ | Elif Sude Dal | [Read More](https://medium.com/p/1e433979601a) |
@@ -25,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 20:03:45 GMT | THE FEAR OF HOPE | Matthew Horan | [Read More](https://medium.com/p/0baec0e835e9) |
 | Fri, 05 Dec 2025 19:52:48 GMT |  |  | [Read More](https://medium.com/p/f77235ab17e4) |
 | Fri, 05 Dec 2025 19:35:44 GMT | Earn More with BUG COIN Rewards — December 2025 | Money Printing Machine | [Read More](https://medium.com/p/e79c2820bf19) |
+| Fri, 05 Dec 2025 19:35:42 GMT | TryHackMe Advent of Cyber 2025 (Day 5) : IDOR — Santa’s Little IDOR | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/93c78bf9651e) |
 | Fri, 05 Dec 2025 19:31:37 GMT | Lab: Stored XSS into HTML context with nothing encoded | KRY | [Read More](https://medium.com/p/76217406f725) |
 | Fri, 05 Dec 2025 19:23:55 GMT | Best Home Security Cameras in 2026: Smarter Alerts, Clearer Video and Better Protection | Pranav Pardeshi | [Read More](https://medium.com/p/184b4d0e7a57) |
 | Fri, 05 Dec 2025 19:23:11 GMT | The Future of Data Protection: Top Data Security Trends You Must Watch in 2026 | Techridge Solutions | [Read More](https://medium.com/p/f7d1b97bd62d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 13:49:08 GMT | AI Security Series: LLMs Sensitive Data Leakage | Prettycybergirl | [Read More](https://medium.com/p/85f667efba90) |
 | Fri, 05 Dec 2025 13:44:52 GMT | This $35K GitLab Hack Was So Simple You’ll Hate Yourself For Missing It | Vivek PS | [Read More](https://medium.com/p/e8b000c326c3) |
 | Fri, 05 Dec 2025 13:43:00 GMT | Security. Transparency. Long-term vision. | Metaparadox LTD | [Read More](https://medium.com/p/6bbe29f5b0a0) |
-| Fri, 05 Dec 2025 13:42:09 GMT | How to Install a Deadbolt on a Door Without a Hole: Pro Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/797f5836c70f) |
-| Fri, 05 Dec 2025 13:28:34 GMT | The Hidden Price of ‘Free’ AI | Vinod Baste | [Read More](https://medium.com/p/bc708f3ab6a3) |
-| Fri, 05 Dec 2025 13:15:20 GMT | Advent of Cyber 2025 Day3 — Did You SIEM? | Khadijat Suleman | [Read More](https://medium.com/p/426d1eced1df) |
-| Fri, 05 Dec 2025 13:15:12 GMT | The Black-Belt Guide to Android Internals: Debunking Security Myths & Protecting Billions | Muhammad Zahab Ahmad | [Read More](https://medium.com/p/033590b02b59) |
-| Fri, 05 Dec 2025 13:02:13 GMT | From ISP Constraints to Hands-On GRC: Building a Home Lab in Austria | Brian Haman | [Read More](https://medium.com/p/39376a75ebff) |
-| Fri, 05 Dec 2025 12:56:32 GMT | Why DNS Is the Most Chaotic, Hilarious System Running the Entire Internet | Fateyaly | [Read More](https://medium.com/p/75adc4f5f536) |
-| Fri, 05 Dec 2025 12:55:34 GMT | Bitwarden Review: Is This Right Password Manager for You | Kamalika De | [Read More](https://medium.com/p/858d039e2541) |
-| Fri, 05 Dec 2025 12:52:23 GMT | When Cloudflare Falls and Takes Half the Internet With It — Who’s Really to Blame: Finance or… | 0trust0day | [Read More](https://medium.com/p/eaed5e3b7323) |
-| Fri, 05 Dec 2025 12:52:19 GMT | Understanding XRDP, SSH, CIDR, Subnet Mask, Nmap Scans & Metasploitable: A Practical Guide for… | Shayaan Khan | [Read More](https://medium.com/p/d1d3ff8f22f4) |
-| Fri, 05 Dec 2025 12:50:59 GMT | Simulasi Purple Team: Laporan Respons Insiden Serangan Pada ECorp | Jerry Berlin | [Read More](https://medium.com/p/87014f7ab855) |
-| Fri, 05 Dec 2025 12:50:35 GMT | The Next Generation of Cybersecurity: How AI Can Defeat Slow, Stealthy Malware (SNAKE) | Pourlier jason | [Read More](https://medium.com/p/18bee6829b77) |
-| Fri, 05 Dec 2025 12:49:23 GMT | Kaosu Yönetmek | Betul Toy | [Read More](https://medium.com/p/074648e0c517) |
