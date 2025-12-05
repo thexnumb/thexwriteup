@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 05:20:43 GMT | ️‍♂️ How I Stumbled Into My First Uber Bug: The Unexpected Win That Earned Me $780 | Anshubind | [Read More](https://medium.com/p/8ba880e60510) |
+| Fri, 05 Dec 2025 05:17:34 GMT | Breaking the Web (Part 6): Insecure Direct Object References (IDOR) — When Access Control Fails | Mohammed Fahad | [Read More](https://medium.com/p/39572e53c860) |
+| Fri, 05 Dec 2025 05:12:45 GMT | As of December 5, 2025, product management trends center on AI integration, commercial ownership… | Ravikant Vishwakarma | [Read More](https://medium.com/p/9f7a3838baea) |
+| Fri, 05 Dec 2025 05:10:50 GMT | Cyber Kill Chain 1.3 : Nessus ile Zafiyet Analizi Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/f9e2f5252acf) |
+| Fri, 05 Dec 2025 05:02:29 GMT | Portfolio Protection: The Non-Negotiable Art of Securing Your Portfolio | Coach Seun Ambassador | [Read More](https://medium.com/p/7df0bd205299) |
+| Fri, 05 Dec 2025 04:58:01 GMT | How to Install Splunk on Kali Linux (Step-by-Step Guide for Beginners) | Abhinsubej | [Read More](https://medium.com/p/afd4d593d793) |
+| Fri, 05 Dec 2025 04:49:32 GMT | Path Traversal: Because Hackers Also Love Taking Shortcuts | TheCyberAryan | [Read More](https://medium.com/p/333d264e8fa7) |
 | Fri, 05 Dec 2025 04:40:33 GMT | Bug Bounty Hunting — Complete Guide (Part-155) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/f8aeb9f7e99b) |
 | Fri, 05 Dec 2025 04:38:38 GMT | Bug Bounty Hunting — Complete Guide (Part-154) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/4c26a69b4672) |
 | Fri, 05 Dec 2025 04:33:44 GMT | Encrypted Purpose: My Journey So Far | 9purp0s3 - Steven | [Read More](https://medium.com/p/8d911cb687bf) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 19:26:36 GMT | The Fear of Being Seen: The Hidden Cost of Hiding | Psyche View | [Read More](https://medium.com/p/a4c4328197b4) |
 | Thu, 04 Dec 2025 19:26:11 GMT | Thomas Davies, DPM Notifies Patients After Potential Data Breach Exposes Sensitive Health… | David Miller | [Read More](https://medium.com/p/708fe1732cb6) |
 | Thu, 04 Dec 2025 19:24:17 GMT | How to Confirm if Microsoft Defender Scanning is Causing Application Performance Issues | Jbird | [Read More](https://medium.com/p/e73daf25597e) |
-| Thu, 04 Dec 2025 19:15:11 GMT | Will penetration testing really help keep your smartphone and mobile apps safe in 2025? | Radia 2025 | [Read More](https://medium.com/p/6a6be1d52f87) |
-| Thu, 04 Dec 2025 19:13:41 GMT | My Cybersecurity Journey: Starting From Zero at 22 | Gojo Limitless | [Read More](https://medium.com/p/bca6dc9676cc) |
-| Thu, 04 Dec 2025 19:12:13 GMT | iOS Secret Key Management: Why Your Hardcoded Secrets Are a Security Risk | Karan Gavali | [Read More](https://medium.com/p/60efb99751e9) |
-| Thu, 04 Dec 2025 18:56:22 GMT | Day 123 — Vortex OverTheWire Level 0 | Jinay | [Read More](https://medium.com/p/13e37aa34096) |
-| Thu, 04 Dec 2025 18:52:31 GMT | “CloudFail” ile Origin IP Tespiti: Cloudflare Arkasında Ne Var? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/cbc341dd6d4a) |
-| Thu, 04 Dec 2025 18:51:14 GMT | My First CVE: CVE-2025–65883 — Remote Code Execution in a Genexis Router | Adwaith S | [Read More](https://medium.com/p/0c35749a99bd) |
-| Thu, 04 Dec 2025 18:49:15 GMT | How to Build and Keep Community When You Weren’t Taught How | Mitchella (Mitch) Gilbert | [Read More](https://medium.com/p/8c7ffef4662d) |
