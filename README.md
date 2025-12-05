@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 05:39:26 GMT | A Thought-paper on AI Governance and Security: Building Trust in Intelligent Systems | Techiverse - We bring latest insights on Ai & ML | [Read More](https://medium.com/p/abef9d7f63c6) |
+| Fri, 05 Dec 2025 05:37:22 GMT | How Misconfigured Authentication Broke One App - And How We Fixed It (Sanitized Walkthrough) | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/f2b26d7a287c) |
+| Fri, 05 Dec 2025 05:25:28 GMT | ️ How I Walked Into LaunchDarkly’s Internal Jira Portal Through a Public Signup Bug | Anshubind | [Read More](https://medium.com/p/2015c5cee6e0) |
+| Fri, 05 Dec 2025 05:22:21 GMT | Securing Your FastAPI Application with Middleware: A Production-Ready Guide (Part 1) | Sizan Mahmud | [Read More](https://medium.com/p/ec4a8944ea0a) |
 | Fri, 05 Dec 2025 05:20:43 GMT | ️‍♂️ How I Stumbled Into My First Uber Bug: The Unexpected Win That Earned Me $780 | Anshubind | [Read More](https://medium.com/p/8ba880e60510) |
+| Fri, 05 Dec 2025 05:18:43 GMT | Beyond Passwords: Next-Gen Security Measures Small Businesses Need Now | Steven Chin | [Read More](https://medium.com/p/22ed2c15f2d1) |
 | Fri, 05 Dec 2025 05:17:34 GMT | Breaking the Web (Part 6): Insecure Direct Object References (IDOR) — When Access Control Fails | Mohammed Fahad | [Read More](https://medium.com/p/39572e53c860) |
 | Fri, 05 Dec 2025 05:12:45 GMT | As of December 5, 2025, product management trends center on AI integration, commercial ownership… | Ravikant Vishwakarma | [Read More](https://medium.com/p/9f7a3838baea) |
 | Fri, 05 Dec 2025 05:10:50 GMT | Cyber Kill Chain 1.3 : Nessus ile Zafiyet Analizi Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/f9e2f5252acf) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Dec 2025 19:35:55 GMT | Critical React RSC Flaw Enables Unauthenticated RCE | RealSec.io | [Read More](https://medium.com/p/8cc80437c01c) |
 | Thu, 04 Dec 2025 19:33:40 GMT | Update on Cybersecurity and AgenticAI | Mike Temkin | [Read More](https://medium.com/p/2925fb4303c8) |
 | Thu, 04 Dec 2025 19:32:46 GMT | Bulletproof Defense: The Hidden Internet Infrastructure Powering Cybercrime — and How We Fight Back | Serdar Gumus | [Read More](https://medium.com/p/35003da472b3) |
-| Thu, 04 Dec 2025 19:32:40 GMT | How to Build a Pentesting Home Lab: Part 4-Scanning and Exploitation | Jamie Omarr | [Read More](https://medium.com/p/7eb0718d028c) |
-| Thu, 04 Dec 2025 19:28:54 GMT | Database Security: Protecting the Heart of Modern Systems | Andre Humphrey | [Read More](https://medium.com/p/387dbdd24cb1) |
-| Thu, 04 Dec 2025 19:26:36 GMT | The Fear of Being Seen: The Hidden Cost of Hiding | Psyche View | [Read More](https://medium.com/p/a4c4328197b4) |
-| Thu, 04 Dec 2025 19:26:11 GMT | Thomas Davies, DPM Notifies Patients After Potential Data Breach Exposes Sensitive Health… | David Miller | [Read More](https://medium.com/p/708fe1732cb6) |
-| Thu, 04 Dec 2025 19:24:17 GMT | How to Confirm if Microsoft Defender Scanning is Causing Application Performance Issues | Jbird | [Read More](https://medium.com/p/e73daf25597e) |
