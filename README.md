@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 17:02:31 GMT | The Case Against De-Googling | Mike Wielgołaski | [Read More](https://medium.com/p/d7c45f3504b9) |
+| Fri, 05 Dec 2025 16:55:48 GMT | API Pentesting: The Brutally Honest Guide They Don’t Teach You | Sachin kewat | [Read More](https://medium.com/p/c3073a38a977) |
+| Fri, 05 Dec 2025 16:45:38 GMT | Smarter Edge Lighting For A Calmer Android Experience | Geoffrey Wenger | [Read More](https://medium.com/p/230ae77a3aa7) |
 | Fri, 05 Dec 2025 16:44:42 GMT | Mimikatz Techniques in AD Networks: Deep Dive into Windows Credential Extraction | Ammar Ahmed | [Read More](https://medium.com/p/be35eb6caa15) |
 | Fri, 05 Dec 2025 16:44:37 GMT | The Digital Confidentiality Trap: 5 Tech Mistakes Swiss Therapists Make (And How to Fix Them) | Paulo Lopes | [Read More](https://medium.com/p/39e378a250ee) |
 | Fri, 05 Dec 2025 16:43:30 GMT | Runtime Security: The Layer Everyone Ignores Until It’s Too Late | Pieter Geelen | [Read More](https://medium.com/p/1c4b685257fa) |
@@ -41,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 15:33:15 GMT | The Hidden Risks of AI Agents: A Governance Framework for Secure Deployment: | Manjusha Sumasadan | [Read More](https://medium.com/p/0e52ce6d7231) |
 | Fri, 05 Dec 2025 15:16:50 GMT | AI-Powered Insiders: The Most Underestimated Threat of the Next Decade | Abatis ABTU | [Read More](https://medium.com/p/2efb548e22cf) |
 | Fri, 05 Dec 2025 15:06:49 GMT | React2Shell CVE-2025–55182 Explained: Critical RCE Vulnerability in React & Next.js | Hafiz Shamnad | [Read More](https://medium.com/p/f0c0ec847e04) |
+| Fri, 05 Dec 2025 15:06:12 GMT | Microsoft Entra ID: Secure Your Data with Zero Trust — A Practical Guide | Amit Kulkarni | [Read More](https://medium.com/p/28b16b37d6d3) |
 | Fri, 05 Dec 2025 15:03:25 GMT | Cyber Briefing: 2025.12.05 | CyberMaterial | [Read More](https://medium.com/p/c6673a1f513f) |
 | Fri, 05 Dec 2025 15:02:25 GMT | ChatGPT History Is Showing Up on Google. | Jeremy M Williams | [Read More](https://medium.com/p/5481efb075d5) |
 | Fri, 05 Dec 2025 14:48:52 GMT | SSH-IDS — The Lightweight Linux Security Tool I Built to Detect SSH Attacks in Real Time | Faruk Ahmed | [Read More](https://medium.com/p/3c1a1cf173b7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 10:41:17 GMT | Threat Actor Profiling 101: How Cyber Analysts Identify the Humans Behind the Attack | Iman Kurnia | [Read More](https://medium.com/p/1340e1e75421) |
 | Fri, 05 Dec 2025 10:40:21 GMT | Advent of Cyber 2025: Why You Should Join TryHackMe’s Biggest Free Cybersecurity Event | Cyber Times | [Read More](https://medium.com/p/182a9974b5ef) |
 | Fri, 05 Dec 2025 10:30:45 GMT | The Cryptography Concept Journey — Decryption | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/067b2ee4ea15) |
-| Fri, 05 Dec 2025 10:29:00 GMT | The Corix Partners Friday Reading List — December 5, 2025 | JC Gaillard | [Read More](https://medium.com/p/7c594d5428af) |
-| Fri, 05 Dec 2025 10:26:33 GMT | Mastering the Future of AI: My Journey Through the AI Security & Governance Certification | Chandan Veerabhadra Setty | [Read More](https://medium.com/p/5fc677d41d63) |
-| Fri, 05 Dec 2025 10:24:35 GMT | Day 5 — The Fog in the Valley | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/2ad4df258953) |
-| Fri, 05 Dec 2025 10:22:24 GMT | Build Smarter Verification Habits | Century Solutions Group | [Read More](https://medium.com/p/e5f38f5dfd43) |
