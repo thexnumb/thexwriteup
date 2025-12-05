@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 11:12:49 GMT | How to Find Hazevecad04 & What Is Hazevecad04 Version on PC? | Thoughtsmag | [Read More](https://medium.com/p/b4e1020bc96e) |
+| Fri, 05 Dec 2025 11:08:18 GMT | The human side of cybersecurity | Jasmine Davies | [Read More](https://medium.com/p/1c6353a22e66) |
+| Fri, 05 Dec 2025 11:02:36 GMT | Sanchar Saathi Mandate: What’s the Real Deal? | Aaryan Vinod Kumar | [Read More](https://medium.com/p/148747eb3441) |
+| Fri, 05 Dec 2025 10:55:56 GMT | 99% Fewer Hacker Attacks on WordPress Sites | Calin Vingan | [Read More](https://medium.com/p/21b6ece2fe85) |
+| Fri, 05 Dec 2025 10:44:04 GMT | Best Antivirus for Mac Computers: Top Picks for Maximum Security | Siyanoav | [Read More](https://medium.com/p/a7aa69c2ae95) |
 | Fri, 05 Dec 2025 10:41:17 GMT | Threat Actor Profiling 101: How Cyber Analysts Identify the Humans Behind the Attack | Iman Kurnia | [Read More](https://medium.com/p/1340e1e75421) |
 | Fri, 05 Dec 2025 10:40:21 GMT | Advent of Cyber 2025: Why You Should Join TryHackMe’s Biggest Free Cybersecurity Event | Cyber Times | [Read More](https://medium.com/p/182a9974b5ef) |
 | Fri, 05 Dec 2025 10:30:45 GMT | The Cryptography Concept Journey — Decryption | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/067b2ee4ea15) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 03:45:07 GMT | 94 Percent of LLMs Shown to Be Vulnerable to Attack | Matthew.Rosenquist | [Read More](https://medium.com/p/fbf05f7120fe) |
 | Fri, 05 Dec 2025 03:40:04 GMT | From Code to Defense: My First Steps into Cybersecurity as a .NET/Java Developer | Barbaros Emre Alagöz | [Read More](https://medium.com/p/52dc796973ac) |
 | Fri, 05 Dec 2025 03:36:08 GMT | A Deep Dive into the Technology That’s Quietly Rewiring the World | Giulio Sistilli | [Read More](https://medium.com/p/274a85c61950) |
-| Fri, 05 Dec 2025 03:32:12 GMT | HashJack: The Hidden URL Trick That Manipulates AI Browsers | Deven Chhajed | [Read More](https://medium.com/p/495f3064abcd) |
-| Fri, 05 Dec 2025 03:31:31 GMT | Free Linux hardening service | ronin255 | [Read More](https://medium.com/p/c61ffab98c7d) |
-| Fri, 05 Dec 2025 03:26:22 GMT | Bug Hunting: A Practical Guide to Finding Vulnerabilities That Actually Pay | Monika sharma | [Read More](https://medium.com/p/06ef46bfdccb) |
-| Fri, 05 Dec 2025 03:25:48 GMT | The Loneliness of Being Strong & Why Independent People Break Down in Private | Ella | [Read More](https://medium.com/p/c9e765acf3fc) |
-| Fri, 05 Dec 2025 03:09:35 GMT | JWT Authentication Bypass via kid Header Path Traversal | Bash Overflow | [Read More](https://medium.com/p/c59ac1e83430) |
