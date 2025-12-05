@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Dec 2025 21:34:48 GMT | Exposure Management vs XDR Isn’t the Debate. You Need Both. | anthony k | [Read More](https://medium.com/p/43cd0a68476e) |
+| Fri, 05 Dec 2025 21:26:17 GMT | E-ticaret Uygulamasında Race Condition Kaynaklı Çifte Bakiye Yükleme Açığı | Soltan Maharramov | [Read More](https://medium.com/p/7af355bcfd2b) |
 | Fri, 05 Dec 2025 21:15:29 GMT | What is API Security and Why Should Everyday People Care? | Bella Etuk | [Read More](https://medium.com/p/5634190e084c) |
 | Fri, 05 Dec 2025 21:09:26 GMT | 75% of Pentest Findings Return as Exploitable, Stop This by Creating Security Regression Templates | Muh. Fani Akbar | [Read More](https://medium.com/p/bb1fd9eefbc6) |
 | Fri, 05 Dec 2025 21:07:31 GMT | I found a Critical CVE in my senior design project | n0t_brit | [Read More](https://medium.com/p/29a02038df14) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 13:59:43 GMT | The First AI Misclassification Will Break an Alliance Before It Breaks a Battlefield | AXSAS | [Read More](https://medium.com/p/22d4d5e6fa84) |
 | Fri, 05 Dec 2025 13:55:49 GMT | CVE-2024–38063: A Deep Dive into the IPv6 Kernel Pool Vulnerability | VampireXRay | [Read More](https://medium.com/p/72cc11c93978) |
 | Fri, 05 Dec 2025 13:49:08 GMT | AI Security Series: LLMs Sensitive Data Leakage | Prettycybergirl | [Read More](https://medium.com/p/85f667efba90) |
-| Fri, 05 Dec 2025 13:44:52 GMT | This $35K GitLab Hack Was So Simple You’ll Hate Yourself For Missing It | Vivek PS | [Read More](https://medium.com/p/e8b000c326c3) |
-| Fri, 05 Dec 2025 13:43:00 GMT | Security. Transparency. Long-term vision. | Metaparadox LTD | [Read More](https://medium.com/p/6bbe29f5b0a0) |
