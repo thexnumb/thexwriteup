@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 15:07:29 GMT | The CPIMP Backdoor, the USPD Incident, and How Block Explorer UX Can Trick You | Deivitto | [Read More](https://medium.com/p/e4184151c68b) |
+| Sat, 06 Dec 2025 15:06:11 GMT | Editor Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/c3b457f7f3ef) |
+| Sat, 06 Dec 2025 15:02:22 GMT | The SNAFU Weekly Report — #1 (2025–12–06) | Michael H. | [Read More](https://medium.com/p/53aaf1aba096) |
+| Sat, 06 Dec 2025 14:56:19 GMT | CVE-2025–55182 for Dummies: A High-Level Explanation | Geexirooz | [Read More](https://medium.com/p/a028737bf0e0) |
+| Sat, 06 Dec 2025 14:52:10 GMT | Shadows Beneath the Prompt: Unmasking Covert Attacks on Language Models | Ashit Mallick | [Read More](https://medium.com/p/fa110c0f5df7) |
+| Sat, 06 Dec 2025 14:42:20 GMT | Single Unescaped Quote Broke JSON and Unleashed XSS on a Live E-Commerce Platform | Tyreek Haynes | [Read More](https://medium.com/p/6888a3456fe3) |
+| Sat, 06 Dec 2025 14:31:19 GMT | Advent of cyber ’25 — Day1 | Gligits.ini | [Read More](https://medium.com/p/76f250b0f288) |
 | Sat, 06 Dec 2025 14:25:59 GMT | Doxxing the Doxxing Culture | Kyle Samson | [Read More](https://medium.com/p/10e04c0d0de1) |
 | Sat, 06 Dec 2025 14:12:17 GMT | What One Malware Hash Revealed: A Full Threat Intelligence Breakdown | Aisha B. B | [Read More](https://medium.com/p/6a2e8d131ab1) |
 | Sat, 06 Dec 2025 14:10:43 GMT | CSP Mastery: Cross-Origin Isolation (Series A-5) | Trevor Woollacott | [Read More](https://medium.com/p/ec956a3b8d3b) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 07:23:50 GMT | K Means for Secrets Detection: AppSec ML series | Venkata Sai Manikanta Manugula | [Read More](https://medium.com/p/3a0bd42bb25b) |
 | Sat, 06 Dec 2025 07:13:25 GMT | AWS Secrets Manager for ECS & EKS: Secure Runtime Secrets | Ankit kumar | [Read More](https://medium.com/p/a90d801a956f) |
 | Sat, 06 Dec 2025 07:10:42 GMT | The Evolution of Cloud Security | Jerry Grzegorzek | [Read More](https://medium.com/p/919c8d597a0c) |
-| Sat, 06 Dec 2025 07:10:35 GMT | soned ethical hacker, a bug bounty hunter, or the go-to security pro in your team, this guide will… | Very Lazy Tech | [Read More](https://medium.com/p/8e423ec2eea6) |
-| Sat, 06 Dec 2025 07:09:52 GMT | Quantum Computing and the Future of Encryption
-Why organizations must start preparing for… | KLEAP Institute of Information Security | [Read More](https://medium.com/p/231509864079) |
-| Sat, 06 Dec 2025 07:01:14 GMT | Voice over Internet Protocol (VoIP) Offensive Red Team Operation Part — 01 | Sachin Sir | [Read More](https://medium.com/p/82b56e1265c7) |
-| Sat, 06 Dec 2025 06:58:55 GMT | React2Shell(CVE-2025–55182): A Technical Deep Dive | Vashu Vats | [Read More](https://medium.com/p/da81ab27e99f) |
-| Sat, 06 Dec 2025 06:58:00 GMT | The Cryptography Concept Journey — Kerckhoff’s Principle | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b3ad947cfe83) |
-| Sat, 06 Dec 2025 06:56:26 GMT | The People Behind the Mission | Fook Hwa Tan | [Read More](https://medium.com/p/99cb35325844) |
-| Sat, 06 Dec 2025 06:55:12 GMT | Why Cybersecurity Feels Personal to Me It’s Not Just a Job — It’s My Mission | Fook Hwa Tan | [Read More](https://medium.com/p/59eed82c6902) |
