@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 16:13:14 GMT | When Your Inbox Stops Feeling Like Home: What Happens When The Web Sells You for Free | J. Ottor | [Read More](https://medium.com/p/6f9a5c614ce4) |
+| Sat, 06 Dec 2025 16:04:27 GMT | NyxWatch: A Deep Dive into Live Memory Malware Detection — Part I | RDK | [Read More](https://medium.com/p/4b33fcfa9fb2) |
+| Sat, 06 Dec 2025 16:02:59 GMT | Advent of Cyber 25 — Day 5 — IDOR — Santa’s Little IDOR | cybertactic | [Read More](https://medium.com/p/04adebd995d8) |
+| Sat, 06 Dec 2025 16:02:17 GMT | Japanese Teen Hacks 7 Million Accounts Using “Vibe-Hacking” With ChatGPT | Digital Minds | [Read More](https://medium.com/p/b1401560f402) |
+| Sat, 06 Dec 2025 15:54:37 GMT | Best AI Article Writer for Cybersecurity: Autoblogging.ai | Smasmittoftip | [Read More](https://medium.com/p/10604dce191e) |
+| Sat, 06 Dec 2025 15:53:38 GMT | 10 Splunk Search Commands You Should Learn First | Abhinsubej | [Read More](https://medium.com/p/b4ed8c4042c3) |
+| Sat, 06 Dec 2025 15:41:52 GMT | CyberGhost Exposed: A Digital CSI Breaks Down the ‘No-Logs’ Myth *(Investigación forense completa —… | PepitoChlo | [Read More](https://medium.com/p/1cb21f458a49) |
+| Sat, 06 Dec 2025 15:41:12 GMT | The Agritech Breach & The Fragility Of Pakistan’s Food-Security Backbone | O. J. Okpabi | [Read More](https://medium.com/p/71015be9beb7) |
+| Sat, 06 Dec 2025 15:40:39 GMT | Transformez vos images en coffre-fort numérique avec ImageCypher.fr - Open-Source | Benjamin Jacob (VisiCraft) | [Read More](https://medium.com/p/df8985b4f9c6) |
+| Sat, 06 Dec 2025 15:32:47 GMT | Fine-Grained Permissions: Engineering Authorisation for Free, Pro, Teams, and Enterprise Tiers | JIN | [Read More](https://medium.com/p/b718afff24c9) |
 | Sat, 06 Dec 2025 15:26:51 GMT | Critical Security Alert: CVE-2025–66478 in Next.js — What You Need to Know Right Now | andi | [Read More](https://medium.com/p/cd55777acfcf) |
 | Sat, 06 Dec 2025 15:24:13 GMT | Bounty Hacker Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/e616bd970adf) |
 | Sat, 06 Dec 2025 15:07:29 GMT | The CPIMP Backdoor, the USPD Incident, and How Block Explorer UX Can Trick You | Deivitto | [Read More](https://medium.com/p/e4184151c68b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 08:26:06 GMT | PURPLE TEAM: The Creative Engine of Modern Cybersecurity | 0trust0day | [Read More](https://medium.com/p/28c35d9965d3) |
 | Sat, 06 Dec 2025 08:24:07 GMT | Her Turtle Knows | Alizabeth Amelia Rose | [Read More](https://medium.com/p/b385545dbe0f) |
 | Sat, 06 Dec 2025 08:20:42 GMT | Balancer DAO’s $8M Recovery Plan: What Happened After the $110M Exploit? | Casi Borg | [Read More](https://medium.com/p/a3efc59aab62) |
-| Sat, 06 Dec 2025 08:18:33 GMT | The Core Vulnerability : Why Our Digital Civilization is Built on Sand (and C Pointers) ? | Shayan Taherkhani | [Read More](https://medium.com/p/8e5e78493533) |
-| Sat, 06 Dec 2025 08:14:30 GMT | Internet of Things — Relay Control Over the Internet | Zifa Tea Azzahra | [Read More](https://medium.com/p/afeb280560ac) |
-| Sat, 06 Dec 2025 08:12:40 GMT | Key-Based Automated Security for SSH: End Password Woes, Solve Management Headaches | Esra Kayhan | [Read More](https://medium.com/p/c317c74c3fde) |
-| Sat, 06 Dec 2025 08:04:33 GMT | Glitch or Attack? The Hidden Skill Every SOC Analyst Must Master | Vijay Kumar Gupta | [Read More](https://medium.com/p/e7756d8479b0) |
-| Sat, 06 Dec 2025 07:59:27 GMT | Uma catástrofe pode levar tudo no plano material — mas não pode roubar a fé, o conhecimento e a… | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/f0ef5ba8197c) |
-| Sat, 06 Dec 2025 07:58:10 GMT | One Last Love | Belle Tzabet | [Read More](https://medium.com/p/b3a218cf58f0) |
-| Sat, 06 Dec 2025 07:51:12 GMT | Ship in a day! How We Built an AI Product in < 24 hours | Wisdom John ikoi | [Read More](https://medium.com/p/9c161a1a2031) |
-| Sat, 06 Dec 2025 07:50:00 GMT | Viver é evoluir — no pessoal, no material e no espiritual. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/4f7c1a4aaa6e) |
-| Sat, 06 Dec 2025 07:40:36 GMT | Can Tecno Spark 20 Pro Plus Handle Heavy Apps Smoothly? | Chloe White | [Read More](https://medium.com/p/7a47c8828ad6) |
-| Sat, 06 Dec 2025 07:23:50 GMT | K Means for Secrets Detection: AppSec ML series | Venkata Sai Manikanta Manugula | [Read More](https://medium.com/p/3a0bd42bb25b) |
