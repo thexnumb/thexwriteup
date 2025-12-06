@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 03:01:40 GMT | Why Immigration Platforms Need ISO 27701 Before They Process Their First Application | Tyson Martin | [Read More](https://medium.com/p/61d35c72b26d) |
+| Sat, 06 Dec 2025 02:47:24 GMT | React2Shell(CVE-2025–55182): A Technical Deep Dive | Vashu Vats | [Read More](https://medium.com/p/175da44af75b) |
+| Sat, 06 Dec 2025 02:09:52 GMT | The Ultimate Recon: My Public Small Cheat Sheet | AmirHossein Ahmadnejad Roudsari | [Read More](https://medium.com/p/0a61f2d75c5e) |
+| Sat, 06 Dec 2025 02:02:13 GMT | Before the Breach: Understanding Scanning & Enumeration in Cyber Attacks | Jugal Patel | [Read More](https://medium.com/p/7a36367cb92f) |
 | Sat, 06 Dec 2025 01:14:10 GMT | Troubleshooting Samsung T7 Shield on macOS Sequoia | Omair Khattak | [Read More](https://medium.com/p/851fbd65c3f3) |
 | Sat, 06 Dec 2025 01:03:02 GMT | Traditional SIEM Is Dead: The Age of AI-Driven Threat Management Has Arrived | Marwan | [Read More](https://medium.com/p/2ba3e6d3355d) |
 | Sat, 06 Dec 2025 00:43:02 GMT | P0 — Key to The Kingdom: How I Found a Gift Card Creation API Key on GitHub & What Happened Next | Raghav Khandelwal | [Read More](https://medium.com/p/cb0b0ebf20b6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 16:10:25 GMT | Advent of Cyber 2025 Walkthrough - From Rookie to Red Team: Master Linux & Phishing in 2 Days | Madhur Hase | [Read More](https://medium.com/p/ceac8396e034) |
 | Fri, 05 Dec 2025 16:09:08 GMT | SSH Keys: Your Secure Passkey to Remote Servers | Deeghayu Fernando | [Read More](https://medium.com/p/562e6eb01b8c) |
 | Fri, 05 Dec 2025 16:07:34 GMT | HTB: Era Writeup | Natius | [Read More](https://medium.com/p/39501b950c62) |
-| Fri, 05 Dec 2025 16:06:14 GMT | CVE-2025-55182: A Pre-Authentication Remote Code Execution in Next.js - Complete Guide | PARADOX | [Read More](https://medium.com/p/e39a35fa3156) |
-| Fri, 05 Dec 2025 16:01:55 GMT | No Credit Card, No Problem | Dex | [Read More](https://medium.com/p/da9a30b10bf4) |
-| Fri, 05 Dec 2025 15:59:48 GMT | A Hacker Tried to Break Into My Site. What I learned changed everything. | Mubashir | [Read More](https://medium.com/p/47248f29ed2e) |
-| Fri, 05 Dec 2025 15:58:21 GMT | WHY CYBER SECURITY IS ONE OF THE FASTEST GROWING CAREERS IN NORWAY | Gudimetlasagarika | [Read More](https://medium.com/p/958f9763f4a5) |
