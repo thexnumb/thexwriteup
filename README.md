@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 18:18:06 GMT | CCNA Networking Fundamentals — A Beginner Friendly Guide | Lakshay Nimwal | [Read More](https://medium.com/p/adb796e68798) |
+| Sat, 06 Dec 2025 18:16:21 GMT | Breaking Down the Next.js RCE a critical vulnerability, CVE-2025–55182 (React2Shell) | Abdmaleek | [Read More](https://medium.com/p/d390e72eaa32) |
+| Sat, 06 Dec 2025 18:14:07 GMT | Zero Click Agentic Browser Attacks-The Silent New Era of AI-Powered Cyber Intrusions | Chetan Seripally | [Read More](https://medium.com/p/38ea4cb23d7e) |
+| Sat, 06 Dec 2025 18:07:40 GMT | Ukraine Just Shut Down One of Russia’s Biggest Logistics Networks — Without Firing a Shot | Emily Rhodes | [Read More](https://medium.com/p/3614d5b618b8) |
+| Sat, 06 Dec 2025 18:01:14 GMT | React2Shell: Critical Vulnerability in React Server Components | Patrik Žák | [Read More](https://medium.com/p/72e00c8bd7d0) |
+| Sat, 06 Dec 2025 17:55:26 GMT | The cybersecurity insurance paradox, part 1 | STR4T0TT0 | [Read More](https://medium.com/p/1e85e6d35b86) |
+| Sat, 06 Dec 2025 17:55:11 GMT | How I Found a Zero-Click Account Takeover Vulnerability in a U.S. Online Retailer | SilentExploit | [Read More](https://medium.com/p/bbfe66b8918d) |
+| Sat, 06 Dec 2025 17:52:00 GMT | You Use Django with PostgreSQL, Your App Is Currently Vulnerable | Mehdi BAFDIL | [Read More](https://medium.com/p/6ebcc33587f0) |
+| Sat, 06 Dec 2025 17:45:29 GMT | New Android Malware Sparks Rising Mobile Fraud Risk | Geoffrey Wenger | [Read More](https://medium.com/p/ff556a648dc0) |
+| Sat, 06 Dec 2025 17:45:09 GMT | Smarter Cloud Setup Habits That Protect Your Data | Geoffrey Wenger | [Read More](https://medium.com/p/ea9844cae1d4) |
+| Sat, 06 Dec 2025 17:44:28 GMT | HackTheBox - Gavel Writeup — From SQL Injection to Root Shell | Sviatoslav König | [Read More](https://medium.com/p/76965c6eaf6d) |
+| Sat, 06 Dec 2025 17:40:15 GMT | Logic Issue Allowing Verification Before Meeting Required Conditions | mohamed khattab | [Read More](https://medium.com/p/512fc4fa7dcc) |
+| Sat, 06 Dec 2025 17:39:26 GMT | How I Designed a Full Enterprise SOC Lab: The Izuna Security Architecture Blueprint | Abimanyu A | [Read More](https://medium.com/p/97ef2b6d89f5) |
 | Sat, 06 Dec 2025 17:26:42 GMT | No-Code Deployment, Security & Compliance for Industries | Baserow | [Read More](https://medium.com/p/20817280b04d) |
 | Sat, 06 Dec 2025 17:20:51 GMT | Advent of Cyber 2025 - Day 6: Malware Analysis — Egg-xecutable | D4m.sh | [Read More](https://medium.com/p/23b0517ead18) |
 | Sat, 06 Dec 2025 17:12:12 GMT | Startup Monday: Latest tech trends & news happening in the global startup ecosystem (Issue 184… | Narine Emdjian | [Read More](https://medium.com/p/d577bf118814) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 10:42:36 GMT | Internet Of Things — Temperature Monitoring Via Android | Zifa Tea Azzahra | [Read More](https://medium.com/p/6c5e487646cc) |
 | Sat, 06 Dec 2025 10:32:10 GMT | Rainbow Table Attack Explained: How Hackers Crack Passwords & How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/9e70ee191e40) |
 | Sat, 06 Dec 2025 10:28:51 GMT | Best VAPT Services Provider in India - Security Audit Services | Jameswilliamservices | [Read More](https://medium.com/p/542ad0512acd) |
-| Sat, 06 Dec 2025 10:28:47 GMT | How I Learned HTTP by Hacking One Login Request (Beginner-Friendly Breakdown) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/1d645f19b003) |
-| Sat, 06 Dec 2025 10:26:36 GMT | Autonomous Markets Under Quantum Pressure | SEALCOIN AI | [Read More](https://medium.com/p/48d61a645ae0) |
-| Sat, 06 Dec 2025 10:26:20 GMT | How Do CISSP Training and Certification Improve Your Cyber Security Career? | Shubham Saini | [Read More](https://medium.com/p/4a1b497f77a2) |
-| Sat, 06 Dec 2025 10:25:41 GMT | How I Passed the Hack The Box CPTS Exam in 6 Months (Complete Preparation Guide, Tips, and Real… | Ahmed Al-Ahmed | [Read More](https://medium.com/p/ab4d1c93bf4f) |
-| Sat, 06 Dec 2025 10:24:52 GMT | Internet Grooming | Himanshu Bhatt | [Read More](https://medium.com/p/b34e53c28f10) |
-| Sat, 06 Dec 2025 10:13:49 GMT | So long KeeWeb and thanks for all the secured keys | Ladislav Gazo | [Read More](https://medium.com/p/7ebb2b2a3dac) |
-| Sat, 06 Dec 2025 10:13:36 GMT | Best Antivirus For Laptop To Keep Your Device Secure Always | SiyanoAV | [Read More](https://medium.com/p/bcd8874c5579) |
-| Sat, 06 Dec 2025 10:11:47 GMT | Critical Security Vulnerability in React Server Components (RSC) | Rutuja Sahare | [Read More](https://medium.com/p/1a0c31c295fd) |
-| Sat, 06 Dec 2025 10:00:37 GMT | Architecting Cyber Defense: A Complete Learning Roadmap for Cybersecurity Engineering & SOC… | Deepak sivan | [Read More](https://medium.com/p/11a50982c4ad) |
-| Sat, 06 Dec 2025 09:57:14 GMT | MySeat Media Leaked Every Creator’s Shopify Admin Tokens — Then Blocked Me When I Reported It | Leo | [Read More](https://medium.com/p/95e5bcbc70f3) |
-| Sat, 06 Dec 2025 09:54:54 GMT | Open-source intelligence has never been more fashionable. | Germano Costi | [Read More](https://medium.com/p/fe65b0ca8f35) |
-| Sat, 06 Dec 2025 09:47:16 GMT | Top Security Solutions in KSA: Your Trusted Guide for Riyadh, Jeddah & Dammam | Tekshoyabeelyas | [Read More](https://medium.com/p/b64311be84ab) |
-| Sat, 06 Dec 2025 09:41:49 GMT | Stolen in Seconds: The Crypto Hacks That Rewrote Blockchain History | Spiritual Machines | [Read More](https://medium.com/p/af35aeb697e8) |
