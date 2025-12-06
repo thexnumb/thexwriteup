@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 11:13:41 GMT | Install & Configure Velociraptor for Endpoint Monitoring — Cybersecurity Homelab [#11] | 0xRahuL | [Read More](https://medium.com/p/aafaeaa3fed1) |
+| Sat, 06 Dec 2025 11:08:51 GMT | The Simple Way Hackers Guess Your Secrets | Aj | [Read More](https://medium.com/p/67ae160eaa97) |
+| Sat, 06 Dec 2025 11:03:18 GMT | Mitigating Oracle E-Business Suite Vulnerabilities Through Secure Network Architecture | VenariX, Inc. | [Read More](https://medium.com/p/7a7856e2017a) |
+| Sat, 06 Dec 2025 10:57:25 GMT | The State of Nevada’s Ransomware Attack: More Questions than Answers | VenariX, Inc. | [Read More](https://medium.com/p/0316abf88210) |
+| Sat, 06 Dec 2025 10:53:53 GMT | When Hackers Strike: The Silent Chaos of Data Breaches and the Urgency of Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/f3d36b9b9d7c) |
+| Sat, 06 Dec 2025 10:51:28 GMT | Byp4ss3d — How I Exploited a File Upload Bug to Gain Server Access (picoCTF Write-Up) | Sanjivani Dobhal | [Read More](https://medium.com/p/437c265af870) |
+| Sat, 06 Dec 2025 10:49:24 GMT | The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents | Aayush Gid | [Read More](https://medium.com/p/a965e772b66d) |
+| Sat, 06 Dec 2025 10:49:09 GMT | How to Safely Export Mailboxes from Exchange 2007 to PST: All Methods Explained | EINITIAL24 | [Read More](https://medium.com/p/88e9f3e1091f) |
+| Sat, 06 Dec 2025 10:42:36 GMT | Internet Of Things — Temperature Monitoring Via Android | Zifa Tea Azzahra | [Read More](https://medium.com/p/6c5e487646cc) |
 | Sat, 06 Dec 2025 10:32:10 GMT | Rainbow Table Attack Explained: How Hackers Crack Passwords & How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/9e70ee191e40) |
 | Sat, 06 Dec 2025 10:28:51 GMT | Best VAPT Services Provider in India - Security Audit Services | Jameswilliamservices | [Read More](https://medium.com/p/542ad0512acd) |
 | Sat, 06 Dec 2025 10:28:47 GMT | How I Learned HTTP by Hacking One Login Request (Beginner-Friendly Breakdown) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/1d645f19b003) |
@@ -105,12 +114,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Sat, 06 Dec 2025 01:03:02 GMT | Traditional SIEM Is Dead: The Age of AI-Driven Threat Management Has Arrived | Marwan | [Read More](https://medium.com/p/2ba3e6d3355d) |
 | Sat, 06 Dec 2025 00:43:02 GMT | P0 — Key to The Kingdom: How I Found a Gift Card Creation API Key on GitHub & What Happened Next | Raghav Khandelwal | [Read More](https://medium.com/p/cb0b0ebf20b6) |
 | Sat, 06 Dec 2025 00:36:14 GMT | ‎It’s Time to Shift Left: Why Security Can’t Be an Afterthought Anymore | Ademiloyealhanifibraheem | [Read More](https://medium.com/p/aa7b47f51b0e) |
-| Sat, 06 Dec 2025 00:26:13 GMT | The Fear Isn’t Writing — It’s Being Seen | Katrina Pescador | [Read More](https://medium.com/p/a36bca6a36ff) |
-| Sat, 06 Dec 2025 00:02:02 GMT | (OWASP API7:2023) Server-Side Request Forgery: Attack, Cloud Exploitation, and Mitigation | JPablo13 | [Read More](https://medium.com/p/d359b76f1a6f) |
-| Sat, 06 Dec 2025 00:02:02 GMT | Jobs Are Vanishing Quietly Amid the Background Noise | Angus Peterson | [Read More](https://medium.com/p/0a4a6f6b8341) |
-| Fri, 05 Dec 2025 23:41:33 GMT | Hack With Me: IDOR — Santa’s Little IDOR. Advent of Cyber 2025 Day 5 | mikesploit | [Read More](https://medium.com/p/03a9fd56b66d) |
-| Fri, 05 Dec 2025 23:22:56 GMT | Life Before Main: The Hidden Startup of a C Program | Generin0 | [Read More](https://medium.com/p/1d3c9f82c892) |
-| Fri, 05 Dec 2025 23:16:01 GMT | Jumping From A Proportionately Insane Height | Maria Rattray | [Read More](https://medium.com/p/dd6f0dd23e00) |
-| Fri, 05 Dec 2025 23:14:27 GMT | Security and Surveillance Data Annotation Companies for AI Training | Nathaly Beckman | [Read More](https://medium.com/p/3bd9a3c9dc03) |
-| Fri, 05 Dec 2025 22:58:00 GMT | Grief, Failure, and a Second Chance: My Journey to the CNSP | Nmullenski | [Read More](https://medium.com/p/a56fa340b45d) |
-| Fri, 05 Dec 2025 22:48:20 GMT | Information disclosure-Overview | Yassin Khadrawy | [Read More](https://medium.com/p/603cff3e6fd3) |
