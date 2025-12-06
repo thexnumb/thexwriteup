@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 01:14:10 GMT | Troubleshooting Samsung T7 Shield on macOS Sequoia | Omair Khattak | [Read More](https://medium.com/p/851fbd65c3f3) |
+| Sat, 06 Dec 2025 01:03:02 GMT | Traditional SIEM Is Dead: The Age of AI-Driven Threat Management Has Arrived | Marwan | [Read More](https://medium.com/p/2ba3e6d3355d) |
+| Sat, 06 Dec 2025 00:43:02 GMT | P0 — Key to The Kingdom: How I Found a Gift Card Creation API Key on GitHub & What Happened Next | Raghav Khandelwal | [Read More](https://medium.com/p/cb0b0ebf20b6) |
+| Sat, 06 Dec 2025 00:36:14 GMT | ‎It’s Time to Shift Left: Why Security Can’t Be an Afterthought Anymore | Ademiloyealhanifibraheem | [Read More](https://medium.com/p/aa7b47f51b0e) |
+| Sat, 06 Dec 2025 00:26:13 GMT | The Fear Isn’t Writing — It’s Being Seen | Katrina Pescador | [Read More](https://medium.com/p/a36bca6a36ff) |
+| Sat, 06 Dec 2025 00:02:02 GMT | (OWASP API7:2023) Server-Side Request Forgery: Attack, Cloud Exploitation, and Mitigation | JPablo13 | [Read More](https://medium.com/p/d359b76f1a6f) |
+| Sat, 06 Dec 2025 00:02:02 GMT | Jobs Are Vanishing Quietly Amid the Background Noise | Angus Peterson | [Read More](https://medium.com/p/0a4a6f6b8341) |
+| Fri, 05 Dec 2025 23:41:33 GMT | Hack With Me: IDOR — Santa’s Little IDOR. Advent of Cyber 2025 Day 5 | mikesploit | [Read More](https://medium.com/p/03a9fd56b66d) |
 | Fri, 05 Dec 2025 23:22:56 GMT | Life Before Main: The Hidden Startup of a C Program | Generin0 | [Read More](https://medium.com/p/1d3c9f82c892) |
 | Fri, 05 Dec 2025 23:16:01 GMT | Jumping From A Proportionately Insane Height | Maria Rattray | [Read More](https://medium.com/p/dd6f0dd23e00) |
 | Fri, 05 Dec 2025 23:14:27 GMT | Security and Surveillance Data Annotation Companies for AI Training | Nathaly Beckman | [Read More](https://medium.com/p/3bd9a3c9dc03) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 16:01:55 GMT | No Credit Card, No Problem | Dex | [Read More](https://medium.com/p/da9a30b10bf4) |
 | Fri, 05 Dec 2025 15:59:48 GMT | A Hacker Tried to Break Into My Site. What I learned changed everything. | Mubashir | [Read More](https://medium.com/p/47248f29ed2e) |
 | Fri, 05 Dec 2025 15:58:21 GMT | WHY CYBER SECURITY IS ONE OF THE FASTEST GROWING CAREERS IN NORWAY | Gudimetlasagarika | [Read More](https://medium.com/p/958f9763f4a5) |
-| Fri, 05 Dec 2025 15:56:17 GMT | React2Shell (CVE-2025–55182 / CVE-2025–66478): Why This Is a Wake-Up Call for Modern Web Apps | Yua Mikanana | [Read More](https://medium.com/p/c5148af68ead) |
-| Fri, 05 Dec 2025 15:54:21 GMT | Journey from FOFA Dorking to Critical Remote Access | MahmoudKroush | [Read More](https://medium.com/p/b337f92f3d28) |
-| Fri, 05 Dec 2025 15:48:08 GMT | Building a Tool to Ask: What If ‘Fastest’ Isn’t Best? | Ahmed Issaoui | [Read More](https://medium.com/p/2e813bb1ce4e) |
-| Fri, 05 Dec 2025 15:46:23 GMT | ByteByteGo Machine Learning System Design Guide for Beginners | Motherlandlove | [Read More](https://medium.com/p/fc968ef2350b) |
-| Fri, 05 Dec 2025 15:42:39 GMT | Hackers Don’t Break In — They Log In. Here’s How You Can Stop Them. | Top Trend Pluse | [Read More](https://medium.com/p/966aadb699ee) |
-| Fri, 05 Dec 2025 15:33:15 GMT | The Hidden Risks of AI Agents: A Governance Framework for Secure Deployment: | Manjusha Sumasadan | [Read More](https://medium.com/p/0e52ce6d7231) |
-| Fri, 05 Dec 2025 15:16:50 GMT | AI-Powered Insiders: The Most Underestimated Threat of the Next Decade | Abatis ABTU | [Read More](https://medium.com/p/2efb548e22cf) |
-| Fri, 05 Dec 2025 15:06:49 GMT | React2Shell CVE-2025–55182 Explained: Critical RCE Vulnerability in React & Next.js | Hafiz Shamnad | [Read More](https://medium.com/p/f0c0ec847e04) |
