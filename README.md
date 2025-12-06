@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 17:26:42 GMT | No-Code Deployment, Security & Compliance for Industries | Baserow | [Read More](https://medium.com/p/20817280b04d) |
+| Sat, 06 Dec 2025 17:20:51 GMT | Advent of Cyber 2025 - Day 6: Malware Analysis — Egg-xecutable | D4m.sh | [Read More](https://medium.com/p/23b0517ead18) |
 | Sat, 06 Dec 2025 17:12:12 GMT | Startup Monday: Latest tech trends & news happening in the global startup ecosystem (Issue 184… | Narine Emdjian | [Read More](https://medium.com/p/d577bf118814) |
 | Sat, 06 Dec 2025 17:12:11 GMT | Machine Learning System Design Course Guide for Beginners to Experts | Motherlandlove | [Read More](https://medium.com/p/2d15e6cc086d) |
+| Sat, 06 Dec 2025 17:12:09 GMT | The Evolution of Authentication Protocols — From “I’m Alice” to Diffie–Hellman | Vikram Bhati | [Read More](https://medium.com/p/2c0d57c62350) |
 | Sat, 06 Dec 2025 17:06:40 GMT | Sending Nagios Alerts to Microsoft Teams Without Webhooks | Firat Gulec | [Read More](https://medium.com/p/1d70b78a5b3f) |
 | Sat, 06 Dec 2025 17:04:05 GMT | How to remove Norton Security service on windows | Raphael Kuster | [Read More](https://medium.com/p/6d57056d6bf4) |
 | Sat, 06 Dec 2025 17:03:53 GMT | Cyber Strikes, Missile Attacks, and Diplomacy on Edge: Inside Ukraine’s Double War | Ryder Blackthorn | [Read More](https://medium.com/p/9cb207d19c3c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 09:54:54 GMT | Open-source intelligence has never been more fashionable. | Germano Costi | [Read More](https://medium.com/p/fe65b0ca8f35) |
 | Sat, 06 Dec 2025 09:47:16 GMT | Top Security Solutions in KSA: Your Trusted Guide for Riyadh, Jeddah & Dammam | Tekshoyabeelyas | [Read More](https://medium.com/p/b64311be84ab) |
 | Sat, 06 Dec 2025 09:41:49 GMT | Stolen in Seconds: The Crypto Hacks That Rewrote Blockchain History | Spiritual Machines | [Read More](https://medium.com/p/af35aeb697e8) |
-| Sat, 06 Dec 2025 09:21:41 GMT | 10 Cybersecurity Tools Every Beginner Should Use (Free & Paid) | Manasi Shewale | [Read More](https://medium.com/p/fba8d8c442e3) |
-| Sat, 06 Dec 2025 09:17:13 GMT | Are Your AI Browsers Quietly Turning Against You? | Germano Costi | [Read More](https://medium.com/p/16b95cbbf7ad) |
-| Sat, 06 Dec 2025 09:16:42 GMT | Day 6 — The Audit | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/167b4c89b0d7) |
