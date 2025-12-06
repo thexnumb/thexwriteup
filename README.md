@@ -12,11 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 06:28:11 GMT | Why Do Price Wars Start Faster Than Product Improvements? | Weanyxya | [Read More](https://medium.com/p/1ec285e952ea) |
+| Sat, 06 Dec 2025 06:21:53 GMT | Metasploit Framework Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/d591bf0d06a2) |
+| Sat, 06 Dec 2025 06:18:43 GMT | Integrated Sphere Test - BIS LABS - BIS Accredited lab - House Of Testing | House Of Testing | [Read More](https://medium.com/p/12cdd41016e2) |
+| Sat, 06 Dec 2025 05:57:35 GMT | Cloud Security Best Practices | Maxatlasofficial | [Read More](https://medium.com/p/65ad4d2b8fa0) |
+| Sat, 06 Dec 2025 05:50:18 GMT | The Rise of Deepfake Fraud: How AI Is Rewriting Cybercrime in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/09720eded959) |
+| Sat, 06 Dec 2025 05:40:23 GMT | WebAssembly Security why Old Bugs are the New Threat | Viral Parmar | [Read More](https://medium.com/p/7e6fe61b3c51) |
+| Sat, 06 Dec 2025 05:38:53 GMT | Affordable VPN with 24/7 Customer Support | Technology hare | [Read More](https://medium.com/p/ae0b5e097713) |
 | Sat, 06 Dec 2025 05:29:21 GMT | Nessus ile Zafiyet Analizi Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/a116166b84ba) |
 | Sat, 06 Dec 2025 05:23:02 GMT | How Smart Threat Monitoring Protects Your Company Around the Clock | Deep Water | [Read More](https://medium.com/p/424e03415cb4) |
 | Sat, 06 Dec 2025 05:15:04 GMT | Cybersecurity Course in Chandigarh — Master Ethical Hacking & Cyber Defense | HackersPrey | [Read More](https://medium.com/p/4f0f3de8da06) |
 | Sat, 06 Dec 2025 05:08:48 GMT | Why Modern Businesses Need Strong Security Validation | Kadhijahafiya | [Read More](https://medium.com/p/d3a802b16e72) |
 | Sat, 06 Dec 2025 05:07:15 GMT | Cybersecurity in 2025: Rising Threats and Digital Vulnerabilities | Nita Borade | [Read More](https://medium.com/p/f0f8e049df7a) |
+| Sat, 06 Dec 2025 04:58:34 GMT | Building a Resumable, Parallel, and Fault-Tolerant Large File Upload System with Spring Boot and… | Renjith KN | [Read More](https://medium.com/p/f34c0495cbc3) |
 | Sat, 06 Dec 2025 04:51:29 GMT | Hey LinkedIn fam 
  2025 is here… and the tech landscape is evolving FASTER than ever. | Hachtechnology | [Read More](https://medium.com/p/5fb9ab821445) |
 | Sat, 06 Dec 2025 04:49:00 GMT | Future-Ready Cyber Standards for Digital Enterprises | Kadhijahafiya | [Read More](https://medium.com/p/d8a5ed767197) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 18:34:47 GMT | Why IT and Cybersecurity Teams Often Clash — And What Actually Helps Fix It | Digital Defense | [Read More](https://medium.com/p/3fdd9f6934f2) |
 | Fri, 05 Dec 2025 18:16:15 GMT | Velociraptor Dead-Disk Forensics | empise | [Read More](https://medium.com/p/e858f1a3f24c) |
 | Fri, 05 Dec 2025 18:08:06 GMT | Day 2 Aoc | Mr.bourneagainshell | [Read More](https://medium.com/p/afdf27b76979) |
-| Fri, 05 Dec 2025 18:06:24 GMT | How AI Is Revolutionizing Cybersecurity | Josephdisi | [Read More](https://medium.com/p/32634843f9bb) |
-| Fri, 05 Dec 2025 18:02:00 GMT | 317,700 Annual IT Job Openings Through 2034: A Data-Driven Analysis of Tech’s Most Accessible… | Kbstraining | [Read More](https://medium.com/p/3de524c5e240) |
-| Fri, 05 Dec 2025 17:51:59 GMT | Cybersecurity News Review — Week 49 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/c30ca5eac27c) |
-| Fri, 05 Dec 2025 17:46:44 GMT | Advent of Cyber 2025 Day 5 - TryHackMe - IDOR - Santa’s Little IDOR - WriteUp | Axoloth | [Read More](https://medium.com/p/25af8ca7f5e8) |
-| Fri, 05 Dec 2025 17:37:32 GMT | How My “Perfectly Safe” Next.js App Was Hacked: A Real-World Analysis of CVE-2025–55182 | Meriç Kıranoğlu | [Read More](https://medium.com/p/d35abd8d69b1) |
-| Fri, 05 Dec 2025 17:28:18 GMT | Getting Started(Hack The Box) | Deep | [Read More](https://medium.com/p/9a13b1fef94d) |
-| Fri, 05 Dec 2025 17:02:31 GMT | The Case Against De-Googling | Mike Wielgołaski | [Read More](https://medium.com/p/d7c45f3504b9) |
-| Fri, 05 Dec 2025 16:55:48 GMT | API Pentesting: The Brutally Honest Guide They Don’t Teach You | Sachin kewat | [Read More](https://medium.com/p/c3073a38a977) |
