@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 17:12:12 GMT | Startup Monday: Latest tech trends & news happening in the global startup ecosystem (Issue 184… | Narine Emdjian | [Read More](https://medium.com/p/d577bf118814) |
+| Sat, 06 Dec 2025 17:12:11 GMT | Machine Learning System Design Course Guide for Beginners to Experts | Motherlandlove | [Read More](https://medium.com/p/2d15e6cc086d) |
+| Sat, 06 Dec 2025 17:06:40 GMT | Sending Nagios Alerts to Microsoft Teams Without Webhooks | Firat Gulec | [Read More](https://medium.com/p/1d70b78a5b3f) |
+| Sat, 06 Dec 2025 17:04:05 GMT | How to remove Norton Security service on windows | Raphael Kuster | [Read More](https://medium.com/p/6d57056d6bf4) |
+| Sat, 06 Dec 2025 17:03:53 GMT | Cyber Strikes, Missile Attacks, and Diplomacy on Edge: Inside Ukraine’s Double War | Ryder Blackthorn | [Read More](https://medium.com/p/9cb207d19c3c) |
+| Sat, 06 Dec 2025 17:02:05 GMT | Cloud Networking Explained So Simply You’ll Finally Get It | FromCodeToCloud | [Read More](https://medium.com/p/2f6eee1407a4) |
+| Sat, 06 Dec 2025 16:57:30 GMT | Microsoft Entra ID Demystified — 5 Lessons to Finally Understand It (Explained the Way I Learned… | D3ad_M3m0r13s | [Read More](https://medium.com/p/e142e0fd158a) |
+| Sat, 06 Dec 2025 16:57:27 GMT | I Choose to Live, Even If It Means Bleeding First | Letters by Ibukun | [Read More](https://medium.com/p/bc112b4a27b9) |
+| Sat, 06 Dec 2025 16:55:30 GMT | How to Perform Password-Based Encrypted RMAN Tablespace Backup & Restore in Oracle 19c | MdAsifHussain | [Read More](https://medium.com/p/a18e57b58311) |
+| Sat, 06 Dec 2025 16:51:25 GMT | EventID — 77 - SOC 138 - Investigating Suspicious XLS File | Soumodeep Das | [Read More](https://medium.com/p/e52a0493683a) |
 | Sat, 06 Dec 2025 16:42:15 GMT | A Simple Page Source View Uncovered a Critical Keycloak Vulnerability | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/7844b789307a) |
 | Sat, 06 Dec 2025 16:40:25 GMT | The AI Arms Race: Is Generative AI the Ultimate Shield or the Perfect Weapon? | Henry Hu | [Read More](https://medium.com/p/627f518808db) |
 | Sat, 06 Dec 2025 16:32:11 GMT | Building Production-Grade AI Agents with MCP & A2A: A Complete Guide from the Trenches | shahzad bhatti | [Read More](https://medium.com/p/de0696263ac5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 09:21:41 GMT | 10 Cybersecurity Tools Every Beginner Should Use (Free & Paid) | Manasi Shewale | [Read More](https://medium.com/p/fba8d8c442e3) |
 | Sat, 06 Dec 2025 09:17:13 GMT | Are Your AI Browsers Quietly Turning Against You? | Germano Costi | [Read More](https://medium.com/p/16b95cbbf7ad) |
 | Sat, 06 Dec 2025 09:16:42 GMT | Day 6 — The Audit | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/167b4c89b0d7) |
-| Sat, 06 Dec 2025 09:13:32 GMT | Invisible Attacks, Visible Consequences: The Prompt Injection Crisis in AI Browsers | Akshay Sonawane | [Read More](https://medium.com/p/80ea0f224154) |
-| Sat, 06 Dec 2025 09:08:24 GMT | What Is a Threat (And Why It’s More Than Just a “Hack”) | Aj | [Read More](https://medium.com/p/9a625f97f280) |
-| Sat, 06 Dec 2025 09:07:11 GMT | It’s a Perfect 10! React2Shell | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/840cfc94bf69) |
-| Sat, 06 Dec 2025 09:06:18 GMT | Historic Encryption: Building My Caeser’s Cipher. | A A | [Read More](https://medium.com/p/a6b2c6da15e2) |
-| Sat, 06 Dec 2025 09:04:55 GMT | Your Bank Account Got Hacked? Do This Now (and How to Stop It Next Time) | Evistia | [Read More](https://medium.com/p/f5e1358e77cd) |
-| Sat, 06 Dec 2025 09:04:13 GMT | Title  5 Simple Cybersecurity Tips Every Beginner Should Know | Manasi Shewale | [Read More](https://medium.com/p/f2caaa278ff9) |
-| Sat, 06 Dec 2025 09:02:12 GMT | One Search, Three Angles: See Employee, Customer And Vendor Leaks At Once With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/c9be0e205ecd) |
-| Sat, 06 Dec 2025 09:01:48 GMT | How Application Security Testing Prevents Expensive Failures | Rahman Iqbal | [Read More](https://medium.com/p/d9bfdf5ff194) |
-| Sat, 06 Dec 2025 08:43:43 GMT | 8. Master the Basics, Break the Web: API Basics | Abinesh M | [Read More](https://medium.com/p/a1f7b38f66b4) |
-| Sat, 06 Dec 2025 08:39:59 GMT | Cyber Hygiene Practices Every Team Should Follow Daily | Rahman Iqbal | [Read More](https://medium.com/p/9f6d01a4016c) |
