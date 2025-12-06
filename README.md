@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 04:16:37 GMT | Dreamember | Ayushi Jindal | [Read More](https://medium.com/p/bf809578020e) |
 | Sat, 06 Dec 2025 04:08:27 GMT | Vibe Coding, Prompt Jacking, and the “Digital Twin”: Key Takeaways from the Palo Alto Networks AI… | Surabhi Mali | [Read More](https://medium.com/p/ac75df3ec1ae) |
 | Sat, 06 Dec 2025 03:55:57 GMT | BankGPT — THM LLM Box Writeup | Avyukt Security | [Read More](https://medium.com/p/1c9955f52b6c) |
 | Sat, 06 Dec 2025 03:47:59 GMT | TryHackMe: Tech_Supp0rt: 1 Writeup | cbev | [Read More](https://medium.com/p/b7e18eca5be8) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 16:39:03 GMT | AI Policy Templates: Keep Your Teams Secure While Using ChatGPT | Technijian | [Read More](https://medium.com/p/2879446f2d4f) |
 | Fri, 05 Dec 2025 16:38:50 GMT | 7. Master the Basics, Break the Web: Backend Application Flow | Abinesh M | [Read More](https://medium.com/p/0f1355e034d2) |
 | Fri, 05 Dec 2025 16:29:14 GMT | Hackers Found a Way to Turn Mice Into Microphones. Here’s How. | Faizan Saghir | [Read More](https://medium.com/p/93ca7d055dff) |
-| Fri, 05 Dec 2025 16:25:49 GMT | (Security) 2025 ACDC(AI Cyber Defense Contest) 세미나 참석 후기 (1일차) | ssoL2 | [Read More](https://medium.com/p/065ad4f7c7d8) |
