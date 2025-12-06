@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 09:21:41 GMT | 10 Cybersecurity Tools Every Beginner Should Use (Free & Paid) | Manasi Shewale | [Read More](https://medium.com/p/fba8d8c442e3) |
+| Sat, 06 Dec 2025 09:17:13 GMT | Are Your AI Browsers Quietly Turning Against You? | Germano Costi | [Read More](https://medium.com/p/16b95cbbf7ad) |
 | Sat, 06 Dec 2025 09:16:42 GMT | Day 6 — The Audit | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/167b4c89b0d7) |
+| Sat, 06 Dec 2025 09:13:32 GMT | Invisible Attacks, Visible Consequences: The Prompt Injection Crisis in AI Browsers | Akshay Sonawane | [Read More](https://medium.com/p/80ea0f224154) |
 | Sat, 06 Dec 2025 09:08:24 GMT | What Is a Threat (And Why It’s More Than Just a “Hack”) | Aj | [Read More](https://medium.com/p/9a625f97f280) |
 | Sat, 06 Dec 2025 09:07:11 GMT | It’s a Perfect 10! React2Shell | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/840cfc94bf69) |
 | Sat, 06 Dec 2025 09:06:18 GMT | Historic Encryption: Building My Caeser’s Cipher. | A A | [Read More](https://medium.com/p/a6b2c6da15e2) |
@@ -31,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 08:14:30 GMT | Internet of Things — Relay Control Over the Internet | Zifa Tea Azzahra | [Read More](https://medium.com/p/afeb280560ac) |
 | Sat, 06 Dec 2025 08:12:40 GMT | Key-Based Automated Security for SSH: End Password Woes, Solve Management Headaches | Esra Kayhan | [Read More](https://medium.com/p/c317c74c3fde) |
 | Sat, 06 Dec 2025 08:04:33 GMT | Glitch or Attack? The Hidden Skill Every SOC Analyst Must Master | Vijay Kumar Gupta | [Read More](https://medium.com/p/e7756d8479b0) |
+| Sat, 06 Dec 2025 07:59:27 GMT | Uma catástrofe pode levar tudo no plano material — mas não pode roubar a fé, o conhecimento e a… | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/f0ef5ba8197c) |
 | Sat, 06 Dec 2025 07:58:10 GMT | One Last Love | Belle Tzabet | [Read More](https://medium.com/p/b3a218cf58f0) |
 | Sat, 06 Dec 2025 07:51:12 GMT | Ship in a day! How We Built an AI Product in < 24 hours | Wisdom John ikoi | [Read More](https://medium.com/p/9c161a1a2031) |
 | Sat, 06 Dec 2025 07:50:00 GMT | Viver é evoluir — no pessoal, no material e no espiritual. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/4f7c1a4aaa6e) |
@@ -110,7 +114,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Fri, 05 Dec 2025 21:26:17 GMT | E-ticaret Uygulamasında Race Condition Kaynaklı Çifte Bakiye Yükleme Açığı | Soltan Maharramov | [Read More](https://medium.com/p/7af355bcfd2b) |
 | Fri, 05 Dec 2025 21:15:29 GMT | What is API Security and Why Should Everyday People Care? | Bella Etuk | [Read More](https://medium.com/p/5634190e084c) |
 | Fri, 05 Dec 2025 21:09:26 GMT | 75% of Pentest Findings Return as Exploitable, Stop This by Creating Security Regression Templates | Muh. Fani Akbar | [Read More](https://medium.com/p/bb1fd9eefbc6) |
-| Fri, 05 Dec 2025 21:07:31 GMT | I found a Critical CVE in my senior design project | n0t_brit | [Read More](https://medium.com/p/29a02038df14) |
-| Fri, 05 Dec 2025 21:06:02 GMT | TryHackMe Writeup: RootMe | Berkay AĞGÜL | [Read More](https://medium.com/p/b3385b556a7d) |
-| Fri, 05 Dec 2025 21:02:31 GMT | Drafting a Professional Penetration Testing Agreement — My ParoCyber Assignment Experience | portal | [Read More](https://medium.com/p/202ab1273750) |
-| Fri, 05 Dec 2025 21:00:00 GMT | Why there isn’t much resources about building security products, and how can you start building… | Mohammed Dief | [Read More](https://medium.com/p/bfdb689cc7ae) |
