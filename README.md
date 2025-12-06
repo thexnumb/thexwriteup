@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 08:20:42 GMT | Balancer DAO’s $8M Recovery Plan: What Happened After the $110M Exploit? | Casi Borg | [Read More](https://medium.com/p/a3efc59aab62) |
+| Sat, 06 Dec 2025 08:18:33 GMT | The Core Vulnerability : Why Our Digital Civilization is Built on Sand (and C Pointers) ? | Shayan Taherkhani | [Read More](https://medium.com/p/8e5e78493533) |
+| Sat, 06 Dec 2025 08:12:40 GMT | Key-Based Automated Security for SSH: End Password Woes, Solve Management Headaches | Esra Kayhan | [Read More](https://medium.com/p/c317c74c3fde) |
+| Sat, 06 Dec 2025 08:04:33 GMT | Glitch or Attack? The Hidden Skill Every SOC Analyst Must Master | Vijay Kumar Gupta | [Read More](https://medium.com/p/e7756d8479b0) |
+| Sat, 06 Dec 2025 07:58:10 GMT | One Last Love | Belle Tzabet | [Read More](https://medium.com/p/b3a218cf58f0) |
+| Sat, 06 Dec 2025 07:51:12 GMT | Ship in a day! How We Built an AI Product in < 24 hours | Wisdom John ikoi | [Read More](https://medium.com/p/9c161a1a2031) |
+| Sat, 06 Dec 2025 07:40:36 GMT | Can Tecno Spark 20 Pro Plus Handle Heavy Apps Smoothly? | Chloe White | [Read More](https://medium.com/p/7a47c8828ad6) |
 | Sat, 06 Dec 2025 07:23:50 GMT | K Means for Secrets Detection: AppSec ML series | Venkata Sai Manikanta Manugula | [Read More](https://medium.com/p/3a0bd42bb25b) |
 | Sat, 06 Dec 2025 07:13:25 GMT | AWS Secrets Manager for ECS & EKS: Secure Runtime Secrets | Ankit kumar | [Read More](https://medium.com/p/a90d801a956f) |
+| Sat, 06 Dec 2025 07:10:42 GMT | The Evolution of Cloud Security | Jerry Grzegorzek | [Read More](https://medium.com/p/919c8d597a0c) |
 | Sat, 06 Dec 2025 07:10:35 GMT | soned ethical hacker, a bug bounty hunter, or the go-to security pro in your team, this guide will… | Very Lazy Tech | [Read More](https://medium.com/p/8e423ec2eea6) |
 | Sat, 06 Dec 2025 07:09:52 GMT | Quantum Computing and the Future of Encryption
 Why organizations must start preparing for… | KLEAP Institute of Information Security | [Read More](https://medium.com/p/231509864079) |
@@ -106,11 +114,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Fri, 05 Dec 2025 20:04:01 GMT | Why You Should Not Talk About Your Earnings Online | Zayne Harbison | [Read More](https://medium.com/p/194fd75d4d5b) |
 | Fri, 05 Dec 2025 20:03:54 GMT | Advent of Cyber 25 — Day 3 — AI in Security — old sAInt nick | cybertactic | [Read More](https://medium.com/p/242f17d94aa9) |
 | Fri, 05 Dec 2025 20:03:45 GMT | THE FEAR OF HOPE | Matthew Horan | [Read More](https://medium.com/p/0baec0e835e9) |
-| Fri, 05 Dec 2025 19:52:48 GMT |  |  | [Read More](https://medium.com/p/f77235ab17e4) |
-| Fri, 05 Dec 2025 19:35:44 GMT | Earn More with BUG COIN Rewards — December 2025 | Money Printing Machine | [Read More](https://medium.com/p/e79c2820bf19) |
-| Fri, 05 Dec 2025 19:35:42 GMT | TryHackMe Advent of Cyber 2025 (Day 5) : IDOR — Santa’s Little IDOR | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/93c78bf9651e) |
-| Fri, 05 Dec 2025 19:31:37 GMT | Lab: Stored XSS into HTML context with nothing encoded | KRY | [Read More](https://medium.com/p/76217406f725) |
-| Fri, 05 Dec 2025 19:23:55 GMT | Best Home Security Cameras in 2026: Smarter Alerts, Clearer Video and Better Protection | Pranav Pardeshi | [Read More](https://medium.com/p/184b4d0e7a57) |
-| Fri, 05 Dec 2025 19:23:11 GMT | The Future of Data Protection: Top Data Security Trends You Must Watch in 2026 | Techridge Solutions | [Read More](https://medium.com/p/f7d1b97bd62d) |
-| Fri, 05 Dec 2025 19:21:04 GMT | Post-Mortem: Cuando los Backups Automatizados fallan y el SII te respira en la nuca (Guía de… | Leonardo Vergara | [Read More](https://medium.com/p/cb0bc59684ce) |
-| Fri, 05 Dec 2025 19:19:28 GMT | Cybersecurity Courses: The Invisible Shield of Contemporary Finance | professional educator | [Read More](https://medium.com/p/ee38a47d27d2) |
