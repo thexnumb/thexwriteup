@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 16:42:15 GMT | A Simple Page Source View Uncovered a Critical Keycloak Vulnerability | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/7844b789307a) |
+| Sat, 06 Dec 2025 16:40:25 GMT | The AI Arms Race: Is Generative AI the Ultimate Shield or the Perfect Weapon? | Henry Hu | [Read More](https://medium.com/p/627f518808db) |
+| Sat, 06 Dec 2025 16:32:11 GMT | Building Production-Grade AI Agents with MCP & A2A: A Complete Guide from the Trenches | shahzad bhatti | [Read More](https://medium.com/p/de0696263ac5) |
+| Sat, 06 Dec 2025 16:29:06 GMT | Nmap: The Swiss-Army Knife of Cybersecurity | Veeram Reddy | [Read More](https://medium.com/p/c70004f07738) |
+| Sat, 06 Dec 2025 16:29:05 GMT | Hashing vs Encryption vs Encoding | Salimassili | [Read More](https://medium.com/p/0a20f96f07f6) |
 | Sat, 06 Dec 2025 16:13:14 GMT | When Your Inbox Stops Feeling Like Home: What Happens When The Web Sells You for Free | J. Ottor | [Read More](https://medium.com/p/6f9a5c614ce4) |
 | Sat, 06 Dec 2025 16:04:27 GMT | NyxWatch: A Deep Dive into Live Memory Malware Detection — Part I | RDK | [Read More](https://medium.com/p/4b33fcfa9fb2) |
 | Sat, 06 Dec 2025 16:02:59 GMT | Advent of Cyber 25 — Day 5 — IDOR — Santa’s Little IDOR | cybertactic | [Read More](https://medium.com/p/04adebd995d8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 09:01:48 GMT | How Application Security Testing Prevents Expensive Failures | Rahman Iqbal | [Read More](https://medium.com/p/d9bfdf5ff194) |
 | Sat, 06 Dec 2025 08:43:43 GMT | 8. Master the Basics, Break the Web: API Basics | Abinesh M | [Read More](https://medium.com/p/a1f7b38f66b4) |
 | Sat, 06 Dec 2025 08:39:59 GMT | Cyber Hygiene Practices Every Team Should Follow Daily | Rahman Iqbal | [Read More](https://medium.com/p/9f6d01a4016c) |
-| Sat, 06 Dec 2025 08:37:21 GMT | Critical vulnerability in React Server Components (CVE-2025–55182) | Nikola Popovic | [Read More](https://medium.com/p/ba17a100e8d5) |
-| Sat, 06 Dec 2025 08:29:35 GMT | The Midnight Epiphany: How a News Notification Cracked My Stubborn Target | Santhosh Adiga U | [Read More](https://medium.com/p/58492fc1bcc2) |
-| Sat, 06 Dec 2025 08:26:06 GMT | PURPLE TEAM: The Creative Engine of Modern Cybersecurity | 0trust0day | [Read More](https://medium.com/p/28c35d9965d3) |
-| Sat, 06 Dec 2025 08:24:07 GMT | Her Turtle Knows | Alizabeth Amelia Rose | [Read More](https://medium.com/p/b385545dbe0f) |
-| Sat, 06 Dec 2025 08:20:42 GMT | Balancer DAO’s $8M Recovery Plan: What Happened After the $110M Exploit? | Casi Borg | [Read More](https://medium.com/p/a3efc59aab62) |
