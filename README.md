@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 23:02:44 GMT | PART 4 - CTO/CIO Scorecard | Saroj Shendey | [Read More](https://medium.com/p/64512dd05767) |
+| Sat, 06 Dec 2025 22:55:29 GMT | What Is API Security and Why Should Everyday People Care? | CXY | [Read More](https://medium.com/p/1a48fcfcd2c8) |
+| Sat, 06 Dec 2025 22:54:20 GMT | How the U.S. Budget Really Works: Social Security, Health, Defense Compared? | Jemii Zied | [Read More](https://medium.com/p/39c58ec9d169) |
+| Sat, 06 Dec 2025 22:51:32 GMT | When Japan’s Biggest Brewery Went Dark | O. J. Okpabi | [Read More](https://medium.com/p/83e094cfe4c7) |
+| Sat, 06 Dec 2025 22:49:46 GMT | Start With Recon, Not Exploits — The Beginner’s Guide to Bug Bounty Success | HiveMind | [Read More](https://medium.com/p/4fb297f5a2b6) |
+| Sat, 06 Dec 2025 22:47:11 GMT | Understanding BOLA: What It Is, How It Happens, and How to Prevent It | CXY | [Read More](https://medium.com/p/db5119f28b79) |
+| Sat, 06 Dec 2025 22:34:15 GMT | The New Moroccan Phishing Epidemic: From Influencer Impersonation to Crypto Mule Recruitment | Salaheddine KALADA | [Read More](https://medium.com/p/614dbe3135fa) |
+| Sat, 06 Dec 2025 22:32:11 GMT | The Truth About Anxious Attachment That No One Talks About | Vera Byron | [Read More](https://medium.com/p/3664a3a83783) |
 | Sat, 06 Dec 2025 22:06:16 GMT | How I Identified 9 Security Weaknesses in Under 1 Hour (Including a Live Subdomain Takeover) | Tyreek Haynes | [Read More](https://medium.com/p/39935a5d0c9d) |
 | Sat, 06 Dec 2025 22:05:12 GMT | Random Tech Facts That Show How Fast the World Is Evolving | FactSphereMedia | [Read More](https://medium.com/p/32322fc18d06) |
 | Sat, 06 Dec 2025 22:03:32 GMT | The Future of Passwords: Kill Them in the Flow, Keep Them in the Constitution | Alex Bamgboye | [Read More](https://medium.com/p/5b6d0bcb9e41) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 15:02:22 GMT | The SNAFU Weekly Report — #1 (2025–12–06) | Michael H. | [Read More](https://medium.com/p/53aaf1aba096) |
 | Sat, 06 Dec 2025 14:56:19 GMT | CVE-2025–55182 for Dummies: A High-Level Explanation | Geexirooz | [Read More](https://medium.com/p/a028737bf0e0) |
 | Sat, 06 Dec 2025 14:52:10 GMT | Shadows Beneath the Prompt: Unmasking Covert Attacks on Language Models | Ashit Mallick | [Read More](https://medium.com/p/fa110c0f5df7) |
-| Sat, 06 Dec 2025 14:42:20 GMT | Single Unescaped Quote Broke JSON and Unleashed XSS on a Live E-Commerce Platform | Tyreek Haynes | [Read More](https://medium.com/p/6888a3456fe3) |
-| Sat, 06 Dec 2025 14:31:19 GMT | Advent of cyber ’25 — Day1 | Gligits.ini | [Read More](https://medium.com/p/76f250b0f288) |
-| Sat, 06 Dec 2025 14:25:59 GMT | Doxxing the Doxxing Culture | Kyle Samson | [Read More](https://medium.com/p/10e04c0d0de1) |
-| Sat, 06 Dec 2025 14:12:17 GMT | What One Malware Hash Revealed: A Full Threat Intelligence Breakdown | Aisha B. B | [Read More](https://medium.com/p/6a2e8d131ab1) |
-| Sat, 06 Dec 2025 14:10:43 GMT | CSP Mastery: Cross-Origin Isolation (Series A-5) | Trevor Woollacott | [Read More](https://medium.com/p/ec956a3b8d3b) |
-| Sat, 06 Dec 2025 14:06:02 GMT | Your Email Is an Open Postcard: 5 Things You Never Knew About Digital Trust | TechKT | [Read More](https://medium.com/p/91536972b30b) |
-| Sat, 06 Dec 2025 14:05:12 GMT | 7 Telegram Privacy Settings You Should Change Right Now | Leon Wong 282 | [Read More](https://medium.com/p/82e03fdc6661) |
-| Sat, 06 Dec 2025 14:02:12 GMT | [I’m Jap]  Japan’s Fujitsu Corporate Laptops Surpass Even NSA-Level Security | The Angry Japanese  (Misosp) | [Read More](https://medium.com/p/c74602ec2e9c) |
