@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 15:26:51 GMT | Critical Security Alert: CVE-2025–66478 in Next.js — What You Need to Know Right Now | andi | [Read More](https://medium.com/p/cd55777acfcf) |
+| Sat, 06 Dec 2025 15:24:13 GMT | Bounty Hacker Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/e616bd970adf) |
 | Sat, 06 Dec 2025 15:07:29 GMT | The CPIMP Backdoor, the USPD Incident, and How Block Explorer UX Can Trick You | Deivitto | [Read More](https://medium.com/p/e4184151c68b) |
 | Sat, 06 Dec 2025 15:06:11 GMT | Editor Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/c3b457f7f3ef) |
 | Sat, 06 Dec 2025 15:02:22 GMT | The SNAFU Weekly Report — #1 (2025–12–06) | Michael H. | [Read More](https://medium.com/p/53aaf1aba096) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 07:50:00 GMT | Viver é evoluir — no pessoal, no material e no espiritual. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/4f7c1a4aaa6e) |
 | Sat, 06 Dec 2025 07:40:36 GMT | Can Tecno Spark 20 Pro Plus Handle Heavy Apps Smoothly? | Chloe White | [Read More](https://medium.com/p/7a47c8828ad6) |
 | Sat, 06 Dec 2025 07:23:50 GMT | K Means for Secrets Detection: AppSec ML series | Venkata Sai Manikanta Manugula | [Read More](https://medium.com/p/3a0bd42bb25b) |
-| Sat, 06 Dec 2025 07:13:25 GMT | AWS Secrets Manager for ECS & EKS: Secure Runtime Secrets | Ankit kumar | [Read More](https://medium.com/p/a90d801a956f) |
-| Sat, 06 Dec 2025 07:10:42 GMT | The Evolution of Cloud Security | Jerry Grzegorzek | [Read More](https://medium.com/p/919c8d597a0c) |
