@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 09:16:42 GMT | Day 6 — The Audit | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/167b4c89b0d7) |
+| Sat, 06 Dec 2025 09:08:24 GMT | What Is a Threat (And Why It’s More Than Just a “Hack”) | Aj | [Read More](https://medium.com/p/9a625f97f280) |
+| Sat, 06 Dec 2025 09:07:11 GMT | It’s a Perfect 10! React2Shell | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/840cfc94bf69) |
+| Sat, 06 Dec 2025 09:06:18 GMT | Historic Encryption: Building My Caeser’s Cipher. | A A | [Read More](https://medium.com/p/a6b2c6da15e2) |
+| Sat, 06 Dec 2025 09:04:55 GMT | Your Bank Account Got Hacked? Do This Now (and How to Stop It Next Time) | Evistia | [Read More](https://medium.com/p/f5e1358e77cd) |
+| Sat, 06 Dec 2025 09:04:13 GMT | Title  5 Simple Cybersecurity Tips Every Beginner Should Know | Manasi Shewale | [Read More](https://medium.com/p/f2caaa278ff9) |
+| Sat, 06 Dec 2025 09:02:12 GMT | One Search, Three Angles: See Employee, Customer And Vendor Leaks At Once With LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/c9be0e205ecd) |
+| Sat, 06 Dec 2025 09:01:48 GMT | How Application Security Testing Prevents Expensive Failures | Rahman Iqbal | [Read More](https://medium.com/p/d9bfdf5ff194) |
+| Sat, 06 Dec 2025 08:43:43 GMT | 8. Master the Basics, Break the Web: API Basics | Abinesh M | [Read More](https://medium.com/p/a1f7b38f66b4) |
+| Sat, 06 Dec 2025 08:39:59 GMT | Cyber Hygiene Practices Every Team Should Follow Daily | Rahman Iqbal | [Read More](https://medium.com/p/9f6d01a4016c) |
 | Sat, 06 Dec 2025 08:37:21 GMT | Critical vulnerability in React Server Components (CVE-2025–55182) | Nikola Popovic | [Read More](https://medium.com/p/ba17a100e8d5) |
 | Sat, 06 Dec 2025 08:29:35 GMT | The Midnight Epiphany: How a News Notification Cracked My Stubborn Target | Santhosh Adiga U | [Read More](https://medium.com/p/58492fc1bcc2) |
 | Sat, 06 Dec 2025 08:26:06 GMT | PURPLE TEAM: The Creative Engine of Modern Cybersecurity | 0trust0day | [Read More](https://medium.com/p/28c35d9965d3) |
@@ -104,13 +114,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Fri, 05 Dec 2025 21:06:02 GMT | TryHackMe Writeup: RootMe | Berkay AĞGÜL | [Read More](https://medium.com/p/b3385b556a7d) |
 | Fri, 05 Dec 2025 21:02:31 GMT | Drafting a Professional Penetration Testing Agreement — My ParoCyber Assignment Experience | portal | [Read More](https://medium.com/p/202ab1273750) |
 | Fri, 05 Dec 2025 21:00:00 GMT | Why there isn’t much resources about building security products, and how can you start building… | Mohammed Dief | [Read More](https://medium.com/p/bfdb689cc7ae) |
-| Fri, 05 Dec 2025 20:53:30 GMT | What is React2Shell (CVE-2025-55182) technical summary | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/569c8e998765) |
-| Fri, 05 Dec 2025 20:52:40 GMT | Why G Force Security Guards Are Essential for Workplace Safety in Mississauga, ON | G Force Security | [Read More](https://medium.com/p/e3723fb5b8cc) |
-| Fri, 05 Dec 2025 20:52:07 GMT | How TLS Works — A Complete Deep Dive for Engineers | AlgoPoint | [Read More](https://medium.com/p/e6ee2f2bfd64) |
-| Fri, 05 Dec 2025 20:50:15 GMT | Part 1: How Researchers Find Heap Vulnerabilities – Fuzzing, Crash Analysis, and the Path to… | Maxwell Cross | [Read More](https://medium.com/p/4ae505f9ffa1) |
-| Fri, 05 Dec 2025 20:39:53 GMT | Introducing October ’25 Spammers! | SafeNetting | [Read More](https://medium.com/p/58d50320356d) |
-| Fri, 05 Dec 2025 20:32:41 GMT | eBPF Adventures — Learning how syscalls can be modified on the fly | Alex Elbaum | [Read More](https://medium.com/p/dfe87fc4680f) |
-| Fri, 05 Dec 2025 20:28:31 GMT | How to Protect Your Business Wi-Fi Network From Hackers | Cordula Boeck | [Read More](https://medium.com/p/01aa0b2c8b2a) |
-| Fri, 05 Dec 2025 20:22:55 GMT | NAMİB BÖCEĞİ | Elif Sude Dal | [Read More](https://medium.com/p/1e433979601a) |
-| Fri, 05 Dec 2025 20:19:54 GMT | Reverse engineering of a crypto stealer | Artem M | [Read More](https://medium.com/p/e768f0c20853) |
-| Fri, 05 Dec 2025 20:19:41 GMT | Advent of Cyber 2025 - Day 5: Santa’s Little IDOR | Akshat Patel | [Read More](https://medium.com/p/1d71b6143b93) |
