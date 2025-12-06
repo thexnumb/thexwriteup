@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 21:08:21 GMT | I made a Bug Bounty tool directory | Kapeka | [Read More](https://medium.com/p/f106f56aaffc) |
+| Sat, 06 Dec 2025 20:56:06 GMT | “Eval is Evil”: Why You Should Never Store Code in a Database | Vijay Khot | [Read More](https://medium.com/p/955fb3cfa4cf) |
+| Sat, 06 Dec 2025 20:55:58 GMT | Building LogGuard: A High-Performance Log Sanitizer for Flutter Using Rust FFI | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/ea3ba84aa7ea) |
+| Sat, 06 Dec 2025 20:55:44 GMT | The Key to Security: Why You Need to Generate a Strong Password Right Now | FreeAllToolsSite | [Read More](https://medium.com/p/215468993f93) |
+| Sat, 06 Dec 2025 20:40:56 GMT | Cloud Security Best Practices for 2025 | Josephdisi | [Read More](https://medium.com/p/7feb4d1a7e0b) |
+| Sat, 06 Dec 2025 20:39:55 GMT | How Quantum Computers Break Encryption: Shor’s Algorithm Demystified | CS | [Read More](https://medium.com/p/37ad7c3ea61b) |
+| Sat, 06 Dec 2025 20:31:21 GMT | Writeup: TryHackMe Advent of Cyber Prep Track 2025 | Rabia Riaz | [Read More](https://medium.com/p/9e1fe36d881d) |
 | Sat, 06 Dec 2025 20:25:33 GMT | React 2025 CVSS 10 Vulnerability: RSC Supply-Chain Risks Explained | Aabir Hassan | [Read More](https://medium.com/p/1e52de3cea99) |
 | Sat, 06 Dec 2025 20:16:42 GMT | Tutorial Prático em Pentesting com CloudGoat (Vulnerable_Lambda) e DVWA (API Security) | Bruno M. F. da Silva | [Read More](https://medium.com/p/a598a85e17d0) |
 | Sat, 06 Dec 2025 20:08:26 GMT | RogueNim: Modern Malware Development Tradecrafts | Mr_MalMan | [Read More](https://medium.com/p/0f8fbda4d892) |
@@ -54,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 17:12:12 GMT | Startup Monday: Latest tech trends & news happening in the global startup ecosystem (Issue 184… | Narine Emdjian | [Read More](https://medium.com/p/d577bf118814) |
 | Sat, 06 Dec 2025 17:12:11 GMT | Machine Learning System Design Course Guide for Beginners to Experts | Motherlandlove | [Read More](https://medium.com/p/2d15e6cc086d) |
 | Sat, 06 Dec 2025 17:12:09 GMT | The Evolution of Authentication Protocols — From “I’m Alice” to Diffie–Hellman | Vikram Bhati | [Read More](https://medium.com/p/2c0d57c62350) |
+| Sat, 06 Dec 2025 17:08:18 GMT | TryHackMe - React2Shell: CVE-2025-55182 - WriteUp | Axoloth | [Read More](https://medium.com/p/5651d5a93109) |
 | Sat, 06 Dec 2025 17:06:40 GMT | Sending Nagios Alerts to Microsoft Teams Without Webhooks | Firat Gulec | [Read More](https://medium.com/p/1d70b78a5b3f) |
 | Sat, 06 Dec 2025 17:04:05 GMT | How to remove Norton Security service on windows | Raphael Kuster | [Read More](https://medium.com/p/6d57056d6bf4) |
 | Sat, 06 Dec 2025 17:03:53 GMT | Cyber Strikes, Missile Attacks, and Diplomacy on Edge: Inside Ukraine’s Double War | Ryder Blackthorn | [Read More](https://medium.com/p/9cb207d19c3c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 12:58:55 GMT | IDOR — Santa’s Little IDOR -Try Hack Me walkthrough | Fazal | [Read More](https://medium.com/p/dda287d8e446) |
 | Sat, 06 Dec 2025 12:55:11 GMT | Your Website Has Become an AI Snack Bar and Cloudflare Shows How Bad It Is | Marco Kaumanns | [Read More](https://medium.com/p/c3555ca09191) |
 | Sat, 06 Dec 2025 12:55:09 GMT | Hands-On Understanding of OWASP Top 10: Server-Side Request Forgery (SSRF) | Yoshiyuki Watanabe | [Read More](https://medium.com/p/ebd091c48fa1) |
-| Sat, 06 Dec 2025 12:54:20 GMT | Double-Door IDOR Exposing 85k+ Emails | Parth Narula | [Read More](https://medium.com/p/182309af98be) |
-| Sat, 06 Dec 2025 12:51:26 GMT | Introducing My Python Exploit Search Tool: Search Vulnerabilities Faster Than Ever | ghostyjoe | [Read More](https://medium.com/p/4a4829e88432) |
-| Sat, 06 Dec 2025 12:40:26 GMT | SOC Analistinin En Kritik 5 Dakikası: Zihinsel Triyaj Modeli | Pelinnasln | [Read More](https://medium.com/p/761bc0c7d016) |
-| Sat, 06 Dec 2025 12:33:38 GMT | Title: Who Is Mr Blade Stalker? The Rise of a Powerful Elite Cyber Intelligence Brand | mrbladestalker | [Read More](https://medium.com/p/4fea05d08854) |
-| Sat, 06 Dec 2025 12:30:21 GMT | Adopt Me! Script — Free Keyless Roblox Exploit | ROBLOX FREE SCRIPTS | [Read More](https://medium.com/p/8f256d13532b) |
-| Sat, 06 Dec 2025 12:27:05 GMT | AI in Security — old sAInt nick - AoC 2025 Day - 4 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/1608fa530d29) |
-| Sat, 06 Dec 2025 12:26:13 GMT | Title: Who Is Mr Blade Stalker? The Rise of a Powerful Elite Cyber Intelligence Brand | mrbladestalker | [Read More](https://medium.com/p/ffcab0604391) |
-| Sat, 06 Dec 2025 12:23:54 GMT | Why Half the Internet Breaks When Cloudflare Goes Down? | Fardin Ahsan | [Read More](https://medium.com/p/5fcb2a869e3b) |
