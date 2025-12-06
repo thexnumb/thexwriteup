@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 19:02:15 GMT | Why 73% of AI Agents Are Vulnerable to This “Invisible” Attack | Adham Khaled | [Read More](https://medium.com/p/642ad8850ef1) |
+| Sat, 06 Dec 2025 19:02:14 GMT | HackTheBox — Editor Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/c917c5a7ea66) |
+| Sat, 06 Dec 2025 18:48:53 GMT | HTML Injection: Risks, Lessons & Hidden Cost | Sajjan Nehal | [Read More](https://medium.com/p/f4c409ab73fe) |
+| Sat, 06 Dec 2025 18:44:24 GMT | The Vulnerability Hangover | Sarah Keates Andrews | [Read More](https://medium.com/p/8c802a442b28) |
+| Sat, 06 Dec 2025 18:39:22 GMT | Inside the Vulnerable Login Challenge: A Practical Walkthrough of testphp.vulnweb.com/login.php” | Ashutosh Jena | [Read More](https://medium.com/p/a34793158f1e) |
 | Sat, 06 Dec 2025 18:36:46 GMT | How We Made Epilepsy Detection AI Super Safe from Hackers | Shiyamaladevi R S | [Read More](https://medium.com/p/c4044f1d59b4) |
 | Sat, 06 Dec 2025 18:35:23 GMT | Falling for the Feeling, Not Just the Person | Naureen S. | [Read More](https://medium.com/p/00cf51d80236) |
 | Sat, 06 Dec 2025 18:32:04 GMT | Explanation of Threat, Vulnerability, Risk, Impact, Severity, and CVSS | Habibi | [Read More](https://medium.com/p/028d6486d65e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 11:13:41 GMT | Install & Configure Velociraptor for Endpoint Monitoring — Cybersecurity Homelab [#11] | 0xRahuL | [Read More](https://medium.com/p/aafaeaa3fed1) |
 | Sat, 06 Dec 2025 11:08:51 GMT | The Simple Way Hackers Guess Your Secrets | Aj | [Read More](https://medium.com/p/67ae160eaa97) |
 | Sat, 06 Dec 2025 11:03:18 GMT | Mitigating Oracle E-Business Suite Vulnerabilities Through Secure Network Architecture | VenariX, Inc. | [Read More](https://medium.com/p/7a7856e2017a) |
-| Sat, 06 Dec 2025 10:57:25 GMT | The State of Nevada’s Ransomware Attack: More Questions than Answers | VenariX, Inc. | [Read More](https://medium.com/p/0316abf88210) |
-| Sat, 06 Dec 2025 10:53:53 GMT | When Hackers Strike: The Silent Chaos of Data Breaches and the Urgency of Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/f3d36b9b9d7c) |
-| Sat, 06 Dec 2025 10:51:28 GMT | Byp4ss3d — How I Exploited a File Upload Bug to Gain Server Access (picoCTF Write-Up) | Sanjivani Dobhal | [Read More](https://medium.com/p/437c265af870) |
-| Sat, 06 Dec 2025 10:49:24 GMT | The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents | Aayush Gid | [Read More](https://medium.com/p/a965e772b66d) |
-| Sat, 06 Dec 2025 10:49:09 GMT | How to Safely Export Mailboxes from Exchange 2007 to PST: All Methods Explained | EINITIAL24 | [Read More](https://medium.com/p/88e9f3e1091f) |
