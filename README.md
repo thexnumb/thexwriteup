@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 14:10:43 GMT | CSP Mastery: Cross-Origin Isolation (Series A-5) | Trevor Woollacott | [Read More](https://medium.com/p/ec956a3b8d3b) |
+| Sat, 06 Dec 2025 14:06:02 GMT | Your Email Is an Open Postcard: 5 Things You Never Knew About Digital Trust | TechKT | [Read More](https://medium.com/p/91536972b30b) |
+| Sat, 06 Dec 2025 14:05:12 GMT | 7 Telegram Privacy Settings You Should Change Right Now | Leon Wong 282 | [Read More](https://medium.com/p/82e03fdc6661) |
+| Sat, 06 Dec 2025 14:02:12 GMT | [I’m Jap]  Japan’s Fujitsu Corporate Laptops Surpass Even NSA-Level Security | The Angry Japanese  (Misosp) | [Read More](https://medium.com/p/c74602ec2e9c) |
+| Sat, 06 Dec 2025 14:02:03 GMT | Unmasking Malicious PDF Utilities: A Deep-Dive Analysis into a Trojanised PDF Editor | Abbey Adegbola | [Read More](https://medium.com/p/32d1f27d3e83) |
+| Sat, 06 Dec 2025 13:48:32 GMT | When Your VPS Gets Hacked: How I Found a Miner Running On Our Server | Irteza Asad | [Read More](https://medium.com/p/65771b3f532c) |
+| Sat, 06 Dec 2025 13:46:42 GMT | Stop Installing NPM Packages— NPM just got hacked | Atul Programmer | [Read More](https://medium.com/p/f3914afab053) |
 | Sat, 06 Dec 2025 13:31:32 GMT | Scaling Security in Agile: A Practical Framework for Continuous Threat Modeling | Mehdi Khalilzadeh | [Read More](https://medium.com/p/0d17d77a6a1a) |
 | Sat, 06 Dec 2025 13:31:15 GMT | Bee Swarm Simulator Script — Free Keyless Roblox Exploit (Updated) | ROBLOX FREE SCRIPTS | [Read More](https://medium.com/p/1619959615a0) |
 | Sat, 06 Dec 2025 13:26:45 GMT | PUBLISHER- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/cdc82406c087) |
@@ -106,10 +113,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Sat, 06 Dec 2025 06:55:12 GMT | Why Cybersecurity Feels Personal to Me It’s Not Just a Job — It’s My Mission | Fook Hwa Tan | [Read More](https://medium.com/p/59eed82c6902) |
 | Sat, 06 Dec 2025 06:46:47 GMT | Cybersecurity for Non-Tech Users: How to Protect Yourself Online in 2025 | Stuti | [Read More](https://medium.com/p/d92b878db96d) |
 | Sat, 06 Dec 2025 06:45:57 GMT | HTB Challenge — RSAisEasy | Fardeen A. | [Read More](https://medium.com/p/04512829dfdd) |
-| Sat, 06 Dec 2025 06:43:54 GMT | The Midnight Pwn: How a News Alert Led to a Critical Bounty | Santhosh Adiga U | [Read More](https://medium.com/p/a4abacbe2096) |
-| Sat, 06 Dec 2025 06:41:34 GMT | Automated Vulnerability Management Using Machine Learning for Patch Prioritization | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/74cfdad2aa16) |
-| Sat, 06 Dec 2025 06:36:47 GMT | How Fast Is the iPhone 16 Pro Max in Real-Life Use? | Isabella Brown | [Read More](https://medium.com/p/7402d5c3a3e1) |
-| Sat, 06 Dec 2025 06:28:11 GMT | Why Do Price Wars Start Faster Than Product Improvements? | Weanyxya | [Read More](https://medium.com/p/1ec285e952ea) |
-| Sat, 06 Dec 2025 06:21:53 GMT | Metasploit Framework Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/d591bf0d06a2) |
-| Sat, 06 Dec 2025 06:18:43 GMT | Integrated Sphere Test - BIS LABS - BIS Accredited lab - House Of Testing | House Of Testing | [Read More](https://medium.com/p/12cdd41016e2) |
-| Sat, 06 Dec 2025 05:57:35 GMT | Cloud Security Best Practices | Maxatlasofficial | [Read More](https://medium.com/p/65ad4d2b8fa0) |
