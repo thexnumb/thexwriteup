@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 14:25:59 GMT | Doxxing the Doxxing Culture | Kyle Samson | [Read More](https://medium.com/p/10e04c0d0de1) |
+| Sat, 06 Dec 2025 14:12:17 GMT | What One Malware Hash Revealed: A Full Threat Intelligence Breakdown | Aisha B. B | [Read More](https://medium.com/p/6a2e8d131ab1) |
 | Sat, 06 Dec 2025 14:10:43 GMT | CSP Mastery: Cross-Origin Isolation (Series A-5) | Trevor Woollacott | [Read More](https://medium.com/p/ec956a3b8d3b) |
 | Sat, 06 Dec 2025 14:06:02 GMT | Your Email Is an Open Postcard: 5 Things You Never Knew About Digital Trust | TechKT | [Read More](https://medium.com/p/91536972b30b) |
 | Sat, 06 Dec 2025 14:05:12 GMT | 7 Telegram Privacy Settings You Should Change Right Now | Leon Wong 282 | [Read More](https://medium.com/p/82e03fdc6661) |
@@ -111,5 +113,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Sat, 06 Dec 2025 06:58:00 GMT | The Cryptography Concept Journey — Kerckhoff’s Principle | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b3ad947cfe83) |
 | Sat, 06 Dec 2025 06:56:26 GMT | The People Behind the Mission | Fook Hwa Tan | [Read More](https://medium.com/p/99cb35325844) |
 | Sat, 06 Dec 2025 06:55:12 GMT | Why Cybersecurity Feels Personal to Me It’s Not Just a Job — It’s My Mission | Fook Hwa Tan | [Read More](https://medium.com/p/59eed82c6902) |
-| Sat, 06 Dec 2025 06:46:47 GMT | Cybersecurity for Non-Tech Users: How to Protect Yourself Online in 2025 | Stuti | [Read More](https://medium.com/p/d92b878db96d) |
-| Sat, 06 Dec 2025 06:45:57 GMT | HTB Challenge — RSAisEasy | Fardeen A. | [Read More](https://medium.com/p/04512829dfdd) |
