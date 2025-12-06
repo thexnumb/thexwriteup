@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 20:16:42 GMT | Tutorial Prático em Pentesting com CloudGoat (Vulnerable_Lambda) e DVWA (API Security) | Bruno M. F. da Silva | [Read More](https://medium.com/p/a598a85e17d0) |
+| Sat, 06 Dec 2025 20:08:26 GMT | RogueNim: Modern Malware Development Tradecrafts | Mr_MalMan | [Read More](https://medium.com/p/0f8fbda4d892) |
+| Sat, 06 Dec 2025 20:08:20 GMT | Packet Puzzle Write up · Hack The box Sherlock | Raymond Marweslie | [Read More](https://medium.com/p/d5e523fcb48f) |
+| Sat, 06 Dec 2025 20:02:58 GMT | From VulnFeed to Onyx: The Next Generation of Vulnerability Intelligence | shresth paul | [Read More](https://medium.com/p/f2358fb8cf7c) |
+| Sat, 06 Dec 2025 19:57:15 GMT | Building a Phishing URL Scanner with Python | Obioma Felicity Uzoh | [Read More](https://medium.com/p/6fa7b285999d) |
+| Sat, 06 Dec 2025 19:56:57 GMT | Why Your Government Can’t Protect You Anymore | Adrian Mercer | [Read More](https://medium.com/p/5099c6697fb9) |
+| Sat, 06 Dec 2025 19:50:41 GMT | The First Commandment of Pentesting: Mastering Nmap for Reconnaissance | Widson Ambaisi | [Read More](https://medium.com/p/b197bb9f3267) |
+| Sat, 06 Dec 2025 19:47:45 GMT | The Best AI Tools for GRC and Risk Management in 2026 | Neviar Rawlinson, MBA | [Read More](https://medium.com/p/a9df174e103a) |
+| Sat, 06 Dec 2025 19:39:11 GMT | Seeds of Innovation, Fields of Risk: Cybersecurity in Agriculture | Buğra Bilginsoy | [Read More](https://medium.com/p/7cc085637dc1) |
+| Sat, 06 Dec 2025 19:39:06 GMT | Threat Intelligence Alert! | Rafael Batista | [Read More](https://medium.com/p/bf55ac379486) |
+| Sat, 06 Dec 2025 19:35:18 GMT | The Human Firewall: A Modern Guide to Phishing Defense | Obioma Felicity Uzoh | [Read More](https://medium.com/p/5183348bb561) |
 | Sat, 06 Dec 2025 19:32:47 GMT | THREAT INTELLIGENCE REPORT: SHA1-HULUD | Rafael Bellini | [Read More](https://medium.com/p/d2e7e9f4e623) |
 | Sat, 06 Dec 2025 19:25:51 GMT | How to Access a Remote PostgreSQL Database from Your Local Machine Without Exposing Port 5432 | Apu | [Read More](https://medium.com/p/8b8ab22fa3c9) |
 | Sat, 06 Dec 2025 19:18:01 GMT | If Seatbelt Guidance Worked Like Cybersecurity Guidance | @boblord | [Read More](https://medium.com/p/01dbe8b88c96) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 12:26:13 GMT | Title: Who Is Mr Blade Stalker? The Rise of a Powerful Elite Cyber Intelligence Brand | mrbladestalker | [Read More](https://medium.com/p/ffcab0604391) |
 | Sat, 06 Dec 2025 12:23:54 GMT | Why Half the Internet Breaks When Cloudflare Goes Down? | Fardin Ahsan | [Read More](https://medium.com/p/5fcb2a869e3b) |
 | Sat, 06 Dec 2025 12:16:10 GMT | DNS Security Checklist | DeltaBytes | [Read More](https://medium.com/p/f0bbfd082928) |
-| Sat, 06 Dec 2025 12:11:21 GMT | Part 12: Virtual Box IT Home Lab — PDQ Inventory & Hardware Inventory. | Declan | [Read More](https://medium.com/p/53aa6d1e59de) |
-| Sat, 06 Dec 2025 12:07:12 GMT | Today’s Top Cyber Intelligence Highlights — Dec 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/60c344b04af6) |
-| Sat, 06 Dec 2025 12:04:56 GMT | How Much Does Home Security Cost in Toronto? | Square Security Inc. | [Read More](https://medium.com/p/d2c9cfba6583) |
-| Sat, 06 Dec 2025 12:03:09 GMT | Part 11: Virtual Box Home Lab — Installing PDQ Deploy, Deploying PDQ, & Software Packages | Declan | [Read More](https://medium.com/p/1cb05d0138ef) |
-| Sat, 06 Dec 2025 11:52:11 GMT | React2Shell Explained: The New Vulnerability Breaking Websites Worldwide | Motasem Hamdan | [Read More](https://medium.com/p/1346f8b94ea1) |
-| Sat, 06 Dec 2025 11:40:03 GMT | I let Claude Code hack a Hack The Box machine | Muhammad Haider Tallal | [Read More](https://medium.com/p/2c6a2e295924) |
-| Sat, 06 Dec 2025 11:39:44 GMT | Please Don’t Tell Me Someone Has It Worse | Adegoke Oluwadamilare | [Read More](https://medium.com/p/b16f102cd612) |
-| Sat, 06 Dec 2025 11:37:22 GMT | TO STARS THAT SHINE THE BRIGHTEST!! | Storiews | [Read More](https://medium.com/p/ec5de0fef462) |
-| Sat, 06 Dec 2025 11:21:37 GMT | Cyber Security Report Cyber University: Bedah Teknik Evasion IDS: Analisis & Walkthrough TryHackMe… | Adnannsyukurr | [Read More](https://medium.com/p/e9a2109b1e00) |
-| Sat, 06 Dec 2025 11:21:19 GMT | From Claims to Code: Your RCM- Account Receivable(AR) Skills Are the Keys to a Cybersecurity Career | Dhineshkumar Madeshwaran | [Read More](https://medium.com/p/f2b13bc1f3f0) |
-| Sat, 06 Dec 2025 11:14:09 GMT | LetsDefend SOC Alerts - SOC 127- Event ID: 235 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/68862ca9cbe5) |
