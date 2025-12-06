@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 10:32:10 GMT | Rainbow Table Attack Explained: How Hackers Crack Passwords & How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/9e70ee191e40) |
+| Sat, 06 Dec 2025 10:28:51 GMT | Best VAPT Services Provider in India - Security Audit Services | Jameswilliamservices | [Read More](https://medium.com/p/542ad0512acd) |
+| Sat, 06 Dec 2025 10:28:47 GMT | How I Learned HTTP by Hacking One Login Request (Beginner-Friendly Breakdown) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/1d645f19b003) |
+| Sat, 06 Dec 2025 10:26:36 GMT | Autonomous Markets Under Quantum Pressure | SEALCOIN AI | [Read More](https://medium.com/p/48d61a645ae0) |
+| Sat, 06 Dec 2025 10:26:20 GMT | How Do CISSP Training and Certification Improve Your Cyber Security Career? | Shubham Saini | [Read More](https://medium.com/p/4a1b497f77a2) |
+| Sat, 06 Dec 2025 10:25:41 GMT | How I Passed the Hack The Box CPTS Exam in 6 Months (Complete Preparation Guide, Tips, and Real… | Ahmed Al-Ahmed | [Read More](https://medium.com/p/ab4d1c93bf4f) |
+| Sat, 06 Dec 2025 10:24:52 GMT | Internet Grooming | Himanshu Bhatt | [Read More](https://medium.com/p/b34e53c28f10) |
+| Sat, 06 Dec 2025 10:13:49 GMT | So long KeeWeb and thanks for all the secured keys | Ladislav Gazo | [Read More](https://medium.com/p/7ebb2b2a3dac) |
+| Sat, 06 Dec 2025 10:13:36 GMT | Best Antivirus For Laptop To Keep Your Device Secure Always | SiyanoAV | [Read More](https://medium.com/p/bcd8874c5579) |
+| Sat, 06 Dec 2025 10:11:47 GMT | Critical Security Vulnerability in React Server Components (RSC) | Rutuja Sahare | [Read More](https://medium.com/p/1a0c31c295fd) |
 | Sat, 06 Dec 2025 10:00:37 GMT | Architecting Cyber Defense: A Complete Learning Roadmap for Cybersecurity Engineering & SOC… | Deepak sivan | [Read More](https://medium.com/p/11a50982c4ad) |
 | Sat, 06 Dec 2025 09:57:14 GMT | MySeat Media Leaked Every Creator’s Shopify Admin Tokens — Then Blocked Me When I Reported It | Leo | [Read More](https://medium.com/p/95e5bcbc70f3) |
 | Sat, 06 Dec 2025 09:54:54 GMT | Open-source intelligence has never been more fashionable. | Germano Costi | [Read More](https://medium.com/p/fe65b0ca8f35) |
@@ -104,13 +114,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Fri, 05 Dec 2025 23:14:27 GMT | Security and Surveillance Data Annotation Companies for AI Training | Nathaly Beckman | [Read More](https://medium.com/p/3bd9a3c9dc03) |
 | Fri, 05 Dec 2025 22:58:00 GMT | Grief, Failure, and a Second Chance: My Journey to the CNSP | Nmullenski | [Read More](https://medium.com/p/a56fa340b45d) |
 | Fri, 05 Dec 2025 22:48:20 GMT | Information disclosure-Overview | Yassin Khadrawy | [Read More](https://medium.com/p/603cff3e6fd3) |
-| Fri, 05 Dec 2025 22:33:08 GMT | Hack With Me: AI in Security — old sAInt nick. Advent of Cyber 2025 Day 4 | mikesploit | [Read More](https://medium.com/p/6073e8e7afa3) |
-| Fri, 05 Dec 2025 22:30:50 GMT | The 5 Attacks That Blindsided Every Company in 2025 | Cyber-AppSec | [Read More](https://medium.com/p/6d7779d93ff6) |
-| Fri, 05 Dec 2025 22:30:14 GMT | Why 2025 is the Year Browsers Became the #1 Endpoint Risk | Mammoth Cyber | [Read More](https://medium.com/p/5fc4ff1eff0c) |
-| Fri, 05 Dec 2025 22:28:03 GMT | Building a Mini SOC Research Testbed- My Journey into Security Telemetry | Ahsan | [Read More](https://medium.com/p/c49f94c58a65) |
-| Fri, 05 Dec 2025 22:18:09 GMT | How WhatsApp Web Exposes Its Internal Modules (and Why Most Sites Don’t) | CluxCode | [Read More](https://medium.com/p/5a7b20239d9e) |
-| Fri, 05 Dec 2025 22:11:05 GMT | The Story Behind the COINBASE Cyber-Attack | Abdulraheem Abdulsalam | [Read More](https://medium.com/p/15a3d074ff3a) |
-| Fri, 05 Dec 2025 22:09:25 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 5: DC-6 | Shikhar Sinha | [Read More](https://medium.com/p/c958c7d228b9) |
-| Fri, 05 Dec 2025 22:02:34 GMT | React2Shell- Inside the Critical React Server Components Vulnerability | Vignesh | [Read More](https://medium.com/p/dfa0801b3d28) |
-| Fri, 05 Dec 2025 21:45:37 GMT | Most MFA Pain Is Self-Inflicted | anthony k | [Read More](https://medium.com/p/39e3a0c94ce3) |
-| Fri, 05 Dec 2025 21:44:02 GMT | Subject: Mastering CSRF Attacks — Complete Step-By-Step Explanation + Burp Suite Demonstration… | Zoningxtr | [Read More](https://medium.com/p/3aa3db44ce6b) |
