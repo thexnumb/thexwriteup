@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 13:31:32 GMT | Scaling Security in Agile: A Practical Framework for Continuous Threat Modeling | Mehdi Khalilzadeh | [Read More](https://medium.com/p/0d17d77a6a1a) |
+| Sat, 06 Dec 2025 13:31:15 GMT | Bee Swarm Simulator Script — Free Keyless Roblox Exploit (Updated) | ROBLOX FREE SCRIPTS | [Read More](https://medium.com/p/1619959615a0) |
 | Sat, 06 Dec 2025 13:26:45 GMT | PUBLISHER- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/cdc82406c087) |
+| Sat, 06 Dec 2025 13:24:04 GMT | bugs are sooo overhated | Mery. | [Read More](https://medium.com/p/62c2bc28fe25) |
 | Sat, 06 Dec 2025 13:23:49 GMT | Linux Security Habit #1 — The One Command I Run Before Touching Any Server | Faruk Ahmed | [Read More](https://medium.com/p/753c57e9dac3) |
 | Sat, 06 Dec 2025 13:10:07 GMT | Critical React 19 Vulnerability Leaves React 18 Users Unaffected | Patrik Duch | [Read More](https://medium.com/p/c4a0879e9857) |
 | Sat, 06 Dec 2025 12:58:55 GMT | IDOR — Santa’s Little IDOR -Try Hack Me walkthrough | Fazal | [Read More](https://medium.com/p/dda287d8e446) |
@@ -110,6 +113,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Sat, 06 Dec 2025 06:21:53 GMT | Metasploit Framework Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/d591bf0d06a2) |
 | Sat, 06 Dec 2025 06:18:43 GMT | Integrated Sphere Test - BIS LABS - BIS Accredited lab - House Of Testing | House Of Testing | [Read More](https://medium.com/p/12cdd41016e2) |
 | Sat, 06 Dec 2025 05:57:35 GMT | Cloud Security Best Practices | Maxatlasofficial | [Read More](https://medium.com/p/65ad4d2b8fa0) |
-| Sat, 06 Dec 2025 05:50:18 GMT | The Rise of Deepfake Fraud: How AI Is Rewriting Cybercrime in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/09720eded959) |
-| Sat, 06 Dec 2025 05:40:23 GMT | WebAssembly Security why Old Bugs are the New Threat | Viral Parmar | [Read More](https://medium.com/p/7e6fe61b3c51) |
-| Sat, 06 Dec 2025 05:38:53 GMT | Affordable VPN with 24/7 Customer Support | Technology hare | [Read More](https://medium.com/p/ae0b5e097713) |
