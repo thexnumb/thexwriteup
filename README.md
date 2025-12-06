@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 18:36:46 GMT | How We Made Epilepsy Detection AI Super Safe from Hackers | Shiyamaladevi R S | [Read More](https://medium.com/p/c4044f1d59b4) |
+| Sat, 06 Dec 2025 18:35:23 GMT | Falling for the Feeling, Not Just the Person | Naureen S. | [Read More](https://medium.com/p/00cf51d80236) |
+| Sat, 06 Dec 2025 18:32:04 GMT | Explanation of Threat, Vulnerability, Risk, Impact, Severity, and CVSS | Habibi | [Read More](https://medium.com/p/028d6486d65e) |
 | Sat, 06 Dec 2025 18:18:06 GMT | CCNA Networking Fundamentals — A Beginner Friendly Guide | Lakshay Nimwal | [Read More](https://medium.com/p/adb796e68798) |
 | Sat, 06 Dec 2025 18:16:21 GMT | Breaking Down the Next.js RCE a critical vulnerability, CVE-2025–55182 (React2Shell) | Abdmaleek | [Read More](https://medium.com/p/d390e72eaa32) |
 | Sat, 06 Dec 2025 18:14:07 GMT | Zero Click Agentic Browser Attacks-The Silent New Era of AI-Powered Cyber Intrusions | Chetan Seripally | [Read More](https://medium.com/p/38ea4cb23d7e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 10:51:28 GMT | Byp4ss3d — How I Exploited a File Upload Bug to Gain Server Access (picoCTF Write-Up) | Sanjivani Dobhal | [Read More](https://medium.com/p/437c265af870) |
 | Sat, 06 Dec 2025 10:49:24 GMT | The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents | Aayush Gid | [Read More](https://medium.com/p/a965e772b66d) |
 | Sat, 06 Dec 2025 10:49:09 GMT | How to Safely Export Mailboxes from Exchange 2007 to PST: All Methods Explained | EINITIAL24 | [Read More](https://medium.com/p/88e9f3e1091f) |
-| Sat, 06 Dec 2025 10:42:36 GMT | Internet Of Things — Temperature Monitoring Via Android | Zifa Tea Azzahra | [Read More](https://medium.com/p/6c5e487646cc) |
-| Sat, 06 Dec 2025 10:32:10 GMT | Rainbow Table Attack Explained: How Hackers Crack Passwords & How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/9e70ee191e40) |
-| Sat, 06 Dec 2025 10:28:51 GMT | Best VAPT Services Provider in India - Security Audit Services | Jameswilliamservices | [Read More](https://medium.com/p/542ad0512acd) |
