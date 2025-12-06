@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 13:26:45 GMT | PUBLISHER- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/cdc82406c087) |
+| Sat, 06 Dec 2025 13:23:49 GMT | Linux Security Habit #1 — The One Command I Run Before Touching Any Server | Faruk Ahmed | [Read More](https://medium.com/p/753c57e9dac3) |
+| Sat, 06 Dec 2025 13:10:07 GMT | Critical React 19 Vulnerability Leaves React 18 Users Unaffected | Patrik Duch | [Read More](https://medium.com/p/c4a0879e9857) |
+| Sat, 06 Dec 2025 12:58:55 GMT | IDOR — Santa’s Little IDOR -Try Hack Me walkthrough | Fazal | [Read More](https://medium.com/p/dda287d8e446) |
+| Sat, 06 Dec 2025 12:55:11 GMT | Your Website Has Become an AI Snack Bar and Cloudflare Shows How Bad It Is | Marco Kaumanns | [Read More](https://medium.com/p/c3555ca09191) |
+| Sat, 06 Dec 2025 12:55:09 GMT | Hands-On Understanding of OWASP Top 10: Server-Side Request Forgery (SSRF) | Yoshiyuki Watanabe | [Read More](https://medium.com/p/ebd091c48fa1) |
+| Sat, 06 Dec 2025 12:54:20 GMT | Double-Door IDOR Exposing 85k+ Emails | Parth Narula | [Read More](https://medium.com/p/182309af98be) |
+| Sat, 06 Dec 2025 12:51:26 GMT | Introducing My Python Exploit Search Tool: Search Vulnerabilities Faster Than Ever | ghostyjoe | [Read More](https://medium.com/p/4a4829e88432) |
 | Sat, 06 Dec 2025 12:40:26 GMT | SOC Analistinin En Kritik 5 Dakikası: Zihinsel Triyaj Modeli | Pelinnasln | [Read More](https://medium.com/p/761bc0c7d016) |
 | Sat, 06 Dec 2025 12:33:38 GMT | Title: Who Is Mr Blade Stalker? The Rise of a Powerful Elite Cyber Intelligence Brand | mrbladestalker | [Read More](https://medium.com/p/4fea05d08854) |
+| Sat, 06 Dec 2025 12:30:21 GMT | Adopt Me! Script — Free Keyless Roblox Exploit | ROBLOX FREE SCRIPTS | [Read More](https://medium.com/p/8f256d13532b) |
 | Sat, 06 Dec 2025 12:27:05 GMT | AI in Security — old sAInt nick - AoC 2025 Day - 4 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/1608fa530d29) |
 | Sat, 06 Dec 2025 12:26:13 GMT | Title: Who Is Mr Blade Stalker? The Rise of a Powerful Elite Cyber Intelligence Brand | mrbladestalker | [Read More](https://medium.com/p/ffcab0604391) |
 | Sat, 06 Dec 2025 12:23:54 GMT | Why Half the Internet Breaks When Cloudflare Goes Down? | Fardin Ahsan | [Read More](https://medium.com/p/5fcb2a869e3b) |
@@ -104,13 +113,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Sat, 06 Dec 2025 05:50:18 GMT | The Rise of Deepfake Fraud: How AI Is Rewriting Cybercrime in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/09720eded959) |
 | Sat, 06 Dec 2025 05:40:23 GMT | WebAssembly Security why Old Bugs are the New Threat | Viral Parmar | [Read More](https://medium.com/p/7e6fe61b3c51) |
 | Sat, 06 Dec 2025 05:38:53 GMT | Affordable VPN with 24/7 Customer Support | Technology hare | [Read More](https://medium.com/p/ae0b5e097713) |
-| Sat, 06 Dec 2025 05:29:21 GMT | Nessus ile Zafiyet Analizi Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/a116166b84ba) |
-| Sat, 06 Dec 2025 05:23:02 GMT | How Smart Threat Monitoring Protects Your Company Around the Clock | Deep Water | [Read More](https://medium.com/p/424e03415cb4) |
-| Sat, 06 Dec 2025 05:15:04 GMT | Cybersecurity Course in Chandigarh — Master Ethical Hacking & Cyber Defense | HackersPrey | [Read More](https://medium.com/p/4f0f3de8da06) |
-| Sat, 06 Dec 2025 05:08:48 GMT | Why Modern Businesses Need Strong Security Validation | Kadhijahafiya | [Read More](https://medium.com/p/d3a802b16e72) |
-| Sat, 06 Dec 2025 05:07:15 GMT | Cybersecurity in 2025: Rising Threats and Digital Vulnerabilities | Nita Borade | [Read More](https://medium.com/p/f0f8e049df7a) |
-| Sat, 06 Dec 2025 04:58:34 GMT | Building a Resumable, Parallel, and Fault-Tolerant Large File Upload System with Spring Boot and… | Renjith KN | [Read More](https://medium.com/p/f34c0495cbc3) |
-| Sat, 06 Dec 2025 04:51:29 GMT | Hey LinkedIn fam 
- 2025 is here… and the tech landscape is evolving FASTER than ever. | Hachtechnology | [Read More](https://medium.com/p/5fb9ab821445) |
-| Sat, 06 Dec 2025 04:49:00 GMT | Future-Ready Cyber Standards for Digital Enterprises | Kadhijahafiya | [Read More](https://medium.com/p/d8a5ed767197) |
-| Sat, 06 Dec 2025 04:44:35 GMT | Qubes OS: The Digital Fortress and the Forensic Investigator’s Nightmare! | Keyur | [Read More](https://medium.com/p/aacf45eff3d8) |
