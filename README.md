@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 05:08:48 GMT | Why Modern Businesses Need Strong Security Validation | Kadhijahafiya | [Read More](https://medium.com/p/d3a802b16e72) |
+| Sat, 06 Dec 2025 05:07:15 GMT | Cybersecurity in 2025: Rising Threats and Digital Vulnerabilities | Nita Borade | [Read More](https://medium.com/p/f0f8e049df7a) |
+| Sat, 06 Dec 2025 04:51:29 GMT | Hey LinkedIn fam 
+ 2025 is here… and the tech landscape is evolving FASTER than ever. | Hachtechnology | [Read More](https://medium.com/p/5fb9ab821445) |
+| Sat, 06 Dec 2025 04:49:00 GMT | Future-Ready Cyber Standards for Digital Enterprises | Kadhijahafiya | [Read More](https://medium.com/p/d8a5ed767197) |
+| Sat, 06 Dec 2025 04:44:35 GMT | Qubes OS: The Digital Fortress and the Forensic Investigator’s Nightmare! | Keyur | [Read More](https://medium.com/p/aacf45eff3d8) |
+| Sat, 06 Dec 2025 04:36:10 GMT | Local. Private. An alternative to Microsoft Copilot in Word. | LotPilot | [Read More](https://medium.com/p/5293abcf18d1) |
 | Sat, 06 Dec 2025 04:16:37 GMT | Dreamember | Ayushi Jindal | [Read More](https://medium.com/p/bf809578020e) |
 | Sat, 06 Dec 2025 04:08:27 GMT | Vibe Coding, Prompt Jacking, and the “Digital Twin”: Key Takeaways from the Palo Alto Networks AI… | Surabhi Mali | [Read More](https://medium.com/p/ac75df3ec1ae) |
 | Sat, 06 Dec 2025 03:55:57 GMT | BankGPT — THM LLM Box Writeup | Avyukt Security | [Read More](https://medium.com/p/1c9955f52b6c) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 16:45:38 GMT | Smarter Edge Lighting For A Calmer Android Experience | Geoffrey Wenger | [Read More](https://medium.com/p/230ae77a3aa7) |
 | Fri, 05 Dec 2025 16:44:42 GMT | Mimikatz Techniques in AD Networks: Deep Dive into Windows Credential Extraction | Ammar Ahmed | [Read More](https://medium.com/p/be35eb6caa15) |
 | Fri, 05 Dec 2025 16:44:37 GMT | The Digital Confidentiality Trap: 5 Tech Mistakes Swiss Therapists Make (And How to Fix Them) | Paulo Lopes | [Read More](https://medium.com/p/39e378a250ee) |
-| Fri, 05 Dec 2025 16:43:30 GMT | Runtime Security: The Layer Everyone Ignores Until It’s Too Late | Pieter Geelen | [Read More](https://medium.com/p/1c4b685257fa) |
-| Fri, 05 Dec 2025 16:42:05 GMT | Advent of Cyber 2025 - Day 5: IDOR — Santa’s Little IDOR | D4m.sh | [Read More](https://medium.com/p/b6531f7a2940) |
-| Fri, 05 Dec 2025 16:39:10 GMT | Advent of Cyber 2025 — A Festive, Hands-On Gateway Into Cybersecurity | Nazmul Islam | [Read More](https://medium.com/p/5b0776a5440f) |
-| Fri, 05 Dec 2025 16:39:03 GMT | AI Policy Templates: Keep Your Teams Secure While Using ChatGPT | Technijian | [Read More](https://medium.com/p/2879446f2d4f) |
-| Fri, 05 Dec 2025 16:38:50 GMT | 7. Master the Basics, Break the Web: Backend Application Flow | Abinesh M | [Read More](https://medium.com/p/0f1355e034d2) |
-| Fri, 05 Dec 2025 16:29:14 GMT | Hackers Found a Way to Turn Mice Into Microphones. Here’s How. | Faizan Saghir | [Read More](https://medium.com/p/93ca7d055dff) |
