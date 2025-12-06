@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 22:06:16 GMT | How I Identified 9 Security Weaknesses in Under 1 Hour (Including a Live Subdomain Takeover) | Tyreek Haynes | [Read More](https://medium.com/p/39935a5d0c9d) |
+| Sat, 06 Dec 2025 22:05:12 GMT | Random Tech Facts That Show How Fast the World Is Evolving | FactSphereMedia | [Read More](https://medium.com/p/32322fc18d06) |
+| Sat, 06 Dec 2025 22:03:32 GMT | The Future of Passwords: Kill Them in the Flow, Keep Them in the Constitution | Alex Bamgboye | [Read More](https://medium.com/p/5b6d0bcb9e41) |
+| Sat, 06 Dec 2025 22:03:15 GMT | Building Data Science Application ( Chap 4 + Chap 5 ) | Daniel Lai | [Read More](https://medium.com/p/8b94ed96b5bf) |
+| Sat, 06 Dec 2025 22:02:43 GMT | Don’t Let Cyber Threats Drain Your Mission: Hidden Costs of Neglecting Nonprofit Cybersecurity | Atish Dash | [Read More](https://medium.com/p/f014ec76cccb) |
+| Sat, 06 Dec 2025 21:59:50 GMT | Defense in Depth for Nonprofits: Building a Robust Cybersecurity Foundation on a Limited Budget | Atish Dash | [Read More](https://medium.com/p/5bb369934ea8) |
+| Sat, 06 Dec 2025 21:48:02 GMT | Enhance Security and Efficiency in Bulk Account Creation with PVACreator | Jumaakther | [Read More](https://medium.com/p/d9c96f7c2772) |
+| Sat, 06 Dec 2025 21:41:44 GMT | Building, Breaking, and Defending: My Red vs. Blue Odyssey | Lokesh Talagatla | [Read More](https://medium.com/p/db01f5ab5d29) |
+| Sat, 06 Dec 2025 21:39:47 GMT | How to Use My Python Exploit Search Tool (Full User Guide for 2026) | ghostyjoe | [Read More](https://medium.com/p/b80015d0309e) |
 | Sat, 06 Dec 2025 21:29:40 GMT | When a Simple Request Replay Broke the Rules: How I Found a Hidden Email Logic Flaw in a Gaming… | Anshubind | [Read More](https://medium.com/p/2c342d44a8b4) |
 | Sat, 06 Dec 2025 21:27:23 GMT | How I Found a Critical Bug as a Beginner | Ibtissam | [Read More](https://medium.com/p/24d55cffff30) |
 | Sat, 06 Dec 2025 21:23:45 GMT | How to Earn Money From Medium | Monika sharma | [Read More](https://medium.com/p/6156f7ccd34b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 14:06:02 GMT | Your Email Is an Open Postcard: 5 Things You Never Knew About Digital Trust | TechKT | [Read More](https://medium.com/p/91536972b30b) |
 | Sat, 06 Dec 2025 14:05:12 GMT | 7 Telegram Privacy Settings You Should Change Right Now | Leon Wong 282 | [Read More](https://medium.com/p/82e03fdc6661) |
 | Sat, 06 Dec 2025 14:02:12 GMT | [I’m Jap]  Japan’s Fujitsu Corporate Laptops Surpass Even NSA-Level Security | The Angry Japanese  (Misosp) | [Read More](https://medium.com/p/c74602ec2e9c) |
-| Sat, 06 Dec 2025 14:02:03 GMT | Unmasking Malicious PDF Utilities: A Deep-Dive Analysis into a Trojanised PDF Editor | Abbey Adegbola | [Read More](https://medium.com/p/32d1f27d3e83) |
-| Sat, 06 Dec 2025 13:48:32 GMT | When Your VPS Gets Hacked: How I Found a Miner Running On Our Server | Irteza Asad | [Read More](https://medium.com/p/65771b3f532c) |
-| Sat, 06 Dec 2025 13:46:42 GMT | Stop Installing NPM Packages— NPM just got hacked | Atul Programmer | [Read More](https://medium.com/p/f3914afab053) |
-| Sat, 06 Dec 2025 13:31:32 GMT | Scaling Security in Agile: A Practical Framework for Continuous Threat Modeling | Mehdi Khalilzadeh | [Read More](https://medium.com/p/0d17d77a6a1a) |
-| Sat, 06 Dec 2025 13:31:15 GMT | Bee Swarm Simulator Script — Free Keyless Roblox Exploit (Updated) | ROBLOX FREE SCRIPTS | [Read More](https://medium.com/p/1619959615a0) |
-| Sat, 06 Dec 2025 13:26:45 GMT | PUBLISHER- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/cdc82406c087) |
-| Sat, 06 Dec 2025 13:24:04 GMT | bugs are sooo overhated | Mery. | [Read More](https://medium.com/p/62c2bc28fe25) |
-| Sat, 06 Dec 2025 13:23:49 GMT | Linux Security Habit #1 — The One Command I Run Before Touching Any Server | Faruk Ahmed | [Read More](https://medium.com/p/753c57e9dac3) |
-| Sat, 06 Dec 2025 13:10:07 GMT | Critical React 19 Vulnerability Leaves React 18 Users Unaffected | Patrik Duch | [Read More](https://medium.com/p/c4a0879e9857) |
