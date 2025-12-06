@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 05:29:21 GMT | Nessus ile Zafiyet Analizi Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/a116166b84ba) |
+| Sat, 06 Dec 2025 05:23:02 GMT | How Smart Threat Monitoring Protects Your Company Around the Clock | Deep Water | [Read More](https://medium.com/p/424e03415cb4) |
+| Sat, 06 Dec 2025 05:15:04 GMT | Cybersecurity Course in Chandigarh — Master Ethical Hacking & Cyber Defense | HackersPrey | [Read More](https://medium.com/p/4f0f3de8da06) |
 | Sat, 06 Dec 2025 05:08:48 GMT | Why Modern Businesses Need Strong Security Validation | Kadhijahafiya | [Read More](https://medium.com/p/d3a802b16e72) |
 | Sat, 06 Dec 2025 05:07:15 GMT | Cybersecurity in 2025: Rising Threats and Digital Vulnerabilities | Nita Borade | [Read More](https://medium.com/p/f0f8e049df7a) |
 | Sat, 06 Dec 2025 04:51:29 GMT | Hey LinkedIn fam 
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 17:28:18 GMT | Getting Started(Hack The Box) | Deep | [Read More](https://medium.com/p/9a13b1fef94d) |
 | Fri, 05 Dec 2025 17:02:31 GMT | The Case Against De-Googling | Mike Wielgołaski | [Read More](https://medium.com/p/d7c45f3504b9) |
 | Fri, 05 Dec 2025 16:55:48 GMT | API Pentesting: The Brutally Honest Guide They Don’t Teach You | Sachin kewat | [Read More](https://medium.com/p/c3073a38a977) |
-| Fri, 05 Dec 2025 16:45:38 GMT | Smarter Edge Lighting For A Calmer Android Experience | Geoffrey Wenger | [Read More](https://medium.com/p/230ae77a3aa7) |
-| Fri, 05 Dec 2025 16:44:42 GMT | Mimikatz Techniques in AD Networks: Deep Dive into Windows Credential Extraction | Ammar Ahmed | [Read More](https://medium.com/p/be35eb6caa15) |
-| Fri, 05 Dec 2025 16:44:37 GMT | The Digital Confidentiality Trap: 5 Tech Mistakes Swiss Therapists Make (And How to Fix Them) | Paulo Lopes | [Read More](https://medium.com/p/39e378a250ee) |
