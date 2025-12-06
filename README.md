@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 07:23:50 GMT | K Means for Secrets Detection: AppSec ML series | Venkata Sai Manikanta Manugula | [Read More](https://medium.com/p/3a0bd42bb25b) |
+| Sat, 06 Dec 2025 07:13:25 GMT | AWS Secrets Manager for ECS & EKS: Secure Runtime Secrets | Ankit kumar | [Read More](https://medium.com/p/a90d801a956f) |
 | Sat, 06 Dec 2025 07:10:35 GMT | soned ethical hacker, a bug bounty hunter, or the go-to security pro in your team, this guide will… | Very Lazy Tech | [Read More](https://medium.com/p/8e423ec2eea6) |
 | Sat, 06 Dec 2025 07:09:52 GMT | Quantum Computing and the Future of Encryption
 Why organizations must start preparing for… | KLEAP Institute of Information Security | [Read More](https://medium.com/p/231509864079) |
@@ -112,5 +114,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Fri, 05 Dec 2025 19:23:11 GMT | The Future of Data Protection: Top Data Security Trends You Must Watch in 2026 | Techridge Solutions | [Read More](https://medium.com/p/f7d1b97bd62d) |
 | Fri, 05 Dec 2025 19:21:04 GMT | Post-Mortem: Cuando los Backups Automatizados fallan y el SII te respira en la nuca (Guía de… | Leonardo Vergara | [Read More](https://medium.com/p/cb0bc59684ce) |
 | Fri, 05 Dec 2025 19:19:28 GMT | Cybersecurity Courses: The Invisible Shield of Contemporary Finance | professional educator | [Read More](https://medium.com/p/ee38a47d27d2) |
-| Fri, 05 Dec 2025 19:19:24 GMT | VulNyx Admin Writeup | CyberCraft | [Read More](https://medium.com/p/6760b419db5a) |
-| Fri, 05 Dec 2025 19:11:22 GMT | Advent of Cyber 2025 Day 4 — Old sAInt Nick. | Khadijat Suleman | [Read More](https://medium.com/p/ae27fd9decff) |
