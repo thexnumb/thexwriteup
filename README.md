@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 10:00:37 GMT | Architecting Cyber Defense: A Complete Learning Roadmap for Cybersecurity Engineering & SOC… | Deepak sivan | [Read More](https://medium.com/p/11a50982c4ad) |
+| Sat, 06 Dec 2025 09:57:14 GMT | MySeat Media Leaked Every Creator’s Shopify Admin Tokens — Then Blocked Me When I Reported It | Leo | [Read More](https://medium.com/p/95e5bcbc70f3) |
+| Sat, 06 Dec 2025 09:54:54 GMT | Open-source intelligence has never been more fashionable. | Germano Costi | [Read More](https://medium.com/p/fe65b0ca8f35) |
+| Sat, 06 Dec 2025 09:47:16 GMT | Top Security Solutions in KSA: Your Trusted Guide for Riyadh, Jeddah & Dammam | Tekshoyabeelyas | [Read More](https://medium.com/p/b64311be84ab) |
+| Sat, 06 Dec 2025 09:41:49 GMT | Stolen in Seconds: The Crypto Hacks That Rewrote Blockchain History | Spiritual Machines | [Read More](https://medium.com/p/af35aeb697e8) |
 | Sat, 06 Dec 2025 09:21:41 GMT | 10 Cybersecurity Tools Every Beginner Should Use (Free & Paid) | Manasi Shewale | [Read More](https://medium.com/p/fba8d8c442e3) |
 | Sat, 06 Dec 2025 09:17:13 GMT | Are Your AI Browsers Quietly Turning Against You? | Germano Costi | [Read More](https://medium.com/p/16b95cbbf7ad) |
 | Sat, 06 Dec 2025 09:16:42 GMT | Day 6 — The Audit | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/167b4c89b0d7) |
@@ -109,8 +114,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Fri, 05 Dec 2025 22:02:34 GMT | React2Shell- Inside the Critical React Server Components Vulnerability | Vignesh | [Read More](https://medium.com/p/dfa0801b3d28) |
 | Fri, 05 Dec 2025 21:45:37 GMT | Most MFA Pain Is Self-Inflicted | anthony k | [Read More](https://medium.com/p/39e3a0c94ce3) |
 | Fri, 05 Dec 2025 21:44:02 GMT | Subject: Mastering CSRF Attacks — Complete Step-By-Step Explanation + Burp Suite Demonstration… | Zoningxtr | [Read More](https://medium.com/p/3aa3db44ce6b) |
-| Fri, 05 Dec 2025 21:34:48 GMT | Exposure Management vs XDR Isn’t the Debate. You Need Both. | anthony k | [Read More](https://medium.com/p/43cd0a68476e) |
-| Fri, 05 Dec 2025 21:32:15 GMT | Rima Paciullo lance la première plateforme d’examens blancs T1–T10 en France | Rima Paciullo | [Read More](https://medium.com/p/7184c0afa288) |
-| Fri, 05 Dec 2025 21:26:17 GMT | E-ticaret Uygulamasında Race Condition Kaynaklı Çifte Bakiye Yükleme Açığı | Soltan Maharramov | [Read More](https://medium.com/p/7af355bcfd2b) |
-| Fri, 05 Dec 2025 21:15:29 GMT | What is API Security and Why Should Everyday People Care? | Bella Etuk | [Read More](https://medium.com/p/5634190e084c) |
-| Fri, 05 Dec 2025 21:09:26 GMT | 75% of Pentest Findings Return as Exploitable, Stop This by Creating Security Regression Templates | Muh. Fani Akbar | [Read More](https://medium.com/p/bb1fd9eefbc6) |
