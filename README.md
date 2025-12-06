@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 20:25:33 GMT | React 2025 CVSS 10 Vulnerability: RSC Supply-Chain Risks Explained | Aabir Hassan | [Read More](https://medium.com/p/1e52de3cea99) |
 | Sat, 06 Dec 2025 20:16:42 GMT | Tutorial Prático em Pentesting com CloudGoat (Vulnerable_Lambda) e DVWA (API Security) | Bruno M. F. da Silva | [Read More](https://medium.com/p/a598a85e17d0) |
 | Sat, 06 Dec 2025 20:08:26 GMT | RogueNim: Modern Malware Development Tradecrafts | Mr_MalMan | [Read More](https://medium.com/p/0f8fbda4d892) |
 | Sat, 06 Dec 2025 20:08:20 GMT | Packet Puzzle Write up · Hack The box Sherlock | Raymond Marweslie | [Read More](https://medium.com/p/d5e523fcb48f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 12:27:05 GMT | AI in Security — old sAInt nick - AoC 2025 Day - 4 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/1608fa530d29) |
 | Sat, 06 Dec 2025 12:26:13 GMT | Title: Who Is Mr Blade Stalker? The Rise of a Powerful Elite Cyber Intelligence Brand | mrbladestalker | [Read More](https://medium.com/p/ffcab0604391) |
 | Sat, 06 Dec 2025 12:23:54 GMT | Why Half the Internet Breaks When Cloudflare Goes Down? | Fardin Ahsan | [Read More](https://medium.com/p/5fcb2a869e3b) |
-| Sat, 06 Dec 2025 12:16:10 GMT | DNS Security Checklist | DeltaBytes | [Read More](https://medium.com/p/f0bbfd082928) |
