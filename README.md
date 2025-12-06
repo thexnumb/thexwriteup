@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 11:21:37 GMT | Cyber Security Report Cyber University: Bedah Teknik Evasion IDS: Analisis & Walkthrough TryHackMe… | Adnannsyukurr | [Read More](https://medium.com/p/e9a2109b1e00) |
+| Sat, 06 Dec 2025 11:21:19 GMT | From Claims to Code: Your RCM- Account Receivable(AR) Skills Are the Keys to a Cybersecurity Career | Dhineshkumar Madeshwaran | [Read More](https://medium.com/p/f2b13bc1f3f0) |
+| Sat, 06 Dec 2025 11:14:09 GMT | LetsDefend SOC Alerts - SOC 127- Event ID: 235 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/68862ca9cbe5) |
+| Sat, 06 Dec 2025 11:13:43 GMT | Cybersecurity Winter Internship for Freshers and Beginners | cyber security Updates | [Read More](https://medium.com/p/6164ac0c4a73) |
 | Sat, 06 Dec 2025 11:13:41 GMT | Install & Configure Velociraptor for Endpoint Monitoring — Cybersecurity Homelab [#11] | 0xRahuL | [Read More](https://medium.com/p/aafaeaa3fed1) |
 | Sat, 06 Dec 2025 11:08:51 GMT | The Simple Way Hackers Guess Your Secrets | Aj | [Read More](https://medium.com/p/67ae160eaa97) |
 | Sat, 06 Dec 2025 11:03:18 GMT | Mitigating Oracle E-Business Suite Vulnerabilities Through Secure Network Architecture | VenariX, Inc. | [Read More](https://medium.com/p/7a7856e2017a) |
@@ -110,7 +114,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Sat, 06 Dec 2025 02:47:24 GMT | React2Shell(CVE-2025–55182): A Technical Deep Dive | Vashu Vats | [Read More](https://medium.com/p/175da44af75b) |
 | Sat, 06 Dec 2025 02:09:52 GMT | The Ultimate Recon: My Public Small Cheat Sheet | AmirHossein Ahmadnejad Roudsari | [Read More](https://medium.com/p/0a61f2d75c5e) |
 | Sat, 06 Dec 2025 02:02:13 GMT | Before the Breach: Understanding Scanning & Enumeration in Cyber Attacks | Jugal Patel | [Read More](https://medium.com/p/7a36367cb92f) |
-| Sat, 06 Dec 2025 01:14:10 GMT | Troubleshooting Samsung T7 Shield on macOS Sequoia | Omair Khattak | [Read More](https://medium.com/p/851fbd65c3f3) |
-| Sat, 06 Dec 2025 01:03:02 GMT | Traditional SIEM Is Dead: The Age of AI-Driven Threat Management Has Arrived | Marwan | [Read More](https://medium.com/p/2ba3e6d3355d) |
-| Sat, 06 Dec 2025 00:43:02 GMT | P0 — Key to The Kingdom: How I Found a Gift Card Creation API Key on GitHub & What Happened Next | Raghav Khandelwal | [Read More](https://medium.com/p/cb0b0ebf20b6) |
-| Sat, 06 Dec 2025 00:36:14 GMT | ‎It’s Time to Shift Left: Why Security Can’t Be an Afterthought Anymore | Ademiloyealhanifibraheem | [Read More](https://medium.com/p/aa7b47f51b0e) |
