@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 19:32:47 GMT | THREAT INTELLIGENCE REPORT: SHA1-HULUD | Rafael Bellini | [Read More](https://medium.com/p/d2e7e9f4e623) |
+| Sat, 06 Dec 2025 19:25:51 GMT | How to Access a Remote PostgreSQL Database from Your Local Machine Without Exposing Port 5432 | Apu | [Read More](https://medium.com/p/8b8ab22fa3c9) |
+| Sat, 06 Dec 2025 19:18:01 GMT | If Seatbelt Guidance Worked Like Cybersecurity Guidance | @boblord | [Read More](https://medium.com/p/01dbe8b88c96) |
+| Sat, 06 Dec 2025 19:14:15 GMT | Advent of Cyber 2025 - Day 6: Malware Analysis - Egg-xecutable | Akshat Patel | [Read More](https://medium.com/p/3e346222c640) |
 | Sat, 06 Dec 2025 19:02:15 GMT | Why 73% of AI Agents Are Vulnerable to This “Invisible” Attack | Adham Khaled | [Read More](https://medium.com/p/642ad8850ef1) |
 | Sat, 06 Dec 2025 19:02:14 GMT | HackTheBox — Editor Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/c917c5a7ea66) |
 | Sat, 06 Dec 2025 18:48:53 GMT | HTML Injection: Risks, Lessons & Hidden Cost | Sajjan Nehal | [Read More](https://medium.com/p/f4c409ab73fe) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 11:21:37 GMT | Cyber Security Report Cyber University: Bedah Teknik Evasion IDS: Analisis & Walkthrough TryHackMe… | Adnannsyukurr | [Read More](https://medium.com/p/e9a2109b1e00) |
 | Sat, 06 Dec 2025 11:21:19 GMT | From Claims to Code: Your RCM- Account Receivable(AR) Skills Are the Keys to a Cybersecurity Career | Dhineshkumar Madeshwaran | [Read More](https://medium.com/p/f2b13bc1f3f0) |
 | Sat, 06 Dec 2025 11:14:09 GMT | LetsDefend SOC Alerts - SOC 127- Event ID: 235 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/68862ca9cbe5) |
-| Sat, 06 Dec 2025 11:13:43 GMT | Cybersecurity Winter Internship for Freshers and Beginners | cyber security Updates | [Read More](https://medium.com/p/6164ac0c4a73) |
-| Sat, 06 Dec 2025 11:13:41 GMT | Install & Configure Velociraptor for Endpoint Monitoring — Cybersecurity Homelab [#11] | 0xRahuL | [Read More](https://medium.com/p/aafaeaa3fed1) |
-| Sat, 06 Dec 2025 11:08:51 GMT | The Simple Way Hackers Guess Your Secrets | Aj | [Read More](https://medium.com/p/67ae160eaa97) |
-| Sat, 06 Dec 2025 11:03:18 GMT | Mitigating Oracle E-Business Suite Vulnerabilities Through Secure Network Architecture | VenariX, Inc. | [Read More](https://medium.com/p/7a7856e2017a) |
