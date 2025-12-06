@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 03:47:59 GMT | TryHackMe: Tech_Supp0rt: 1 Writeup | cbev | [Read More](https://medium.com/p/b7e18eca5be8) |
+| Sat, 06 Dec 2025 03:35:58 GMT | Token Management On The Client: Practical Lessons | Alabi Temitope David | [Read More](https://medium.com/p/d4970aaafeb8) |
+| Sat, 06 Dec 2025 03:32:10 GMT | When Code Loses Crores: Inside the MobiKwik Tech Glitch :Raajeev H Dave | Raajeev H Dave (AI Man) | [Read More](https://medium.com/p/baa8810fe04e) |
+| Sat, 06 Dec 2025 03:32:09 GMT | Convenience at a Cost: How Online Code Beautifiers Exposed High-Risk Credentials | Deven Chhajed | [Read More](https://medium.com/p/7397f70ae04e) |
+| Sat, 06 Dec 2025 03:23:43 GMT | From Recon to Root: The Night I Hacked an Entire Database | sunny561 | [Read More](https://medium.com/p/50349d323dbc) |
+| Sat, 06 Dec 2025 03:11:21 GMT | Cybersecurity Is Just Whac-A-Mole — Except Leaders Don’t Really Want to Hit the Mole | Tuan Kamiss | [Read More](https://medium.com/p/3493db9b3a03) |
 | Sat, 06 Dec 2025 03:01:40 GMT | Why Immigration Platforms Need ISO 27701 Before They Process Their First Application | Tyson Martin | [Read More](https://medium.com/p/61d35c72b26d) |
 | Sat, 06 Dec 2025 02:47:24 GMT | React2Shell(CVE-2025–55182): A Technical Deep Dive | Vashu Vats | [Read More](https://medium.com/p/175da44af75b) |
 | Sat, 06 Dec 2025 02:09:52 GMT | The Ultimate Recon: My Public Small Cheat Sheet | AmirHossein Ahmadnejad Roudsari | [Read More](https://medium.com/p/0a61f2d75c5e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 16:25:49 GMT | (Security) 2025 ACDC(AI Cyber Defense Contest) 세미나 참석 후기 (1일차) | ssoL2 | [Read More](https://medium.com/p/065ad4f7c7d8) |
 | Fri, 05 Dec 2025 16:24:56 GMT | The $9.3 Billion Lesson: What I Learned Watching Americans Fall for Crypto Scams I Could Have… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e337d2113648) |
 | Fri, 05 Dec 2025 16:24:08 GMT | MemGuard: Rethinking Secure Storage in Flutter with Zero-Leak Architecture | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/75da691989d1) |
-| Fri, 05 Dec 2025 16:20:09 GMT | Penetration Test Standartları | Dogukan İSPİRLİ | [Read More](https://medium.com/p/abd831cb347f) |
-| Fri, 05 Dec 2025 16:17:01 GMT | cURL Command Cheatsheet for Hackers | Mainekhacker | [Read More](https://medium.com/p/c21714ccbc18) |
-| Fri, 05 Dec 2025 16:15:32 GMT | Let’s Defend Challenge — Malicious VBA | Soumodeep Das | [Read More](https://medium.com/p/e0bf54b16a8f) |
-| Fri, 05 Dec 2025 16:10:25 GMT | Advent of Cyber 2025 Walkthrough - From Rookie to Red Team: Master Linux & Phishing in 2 Days | Madhur Hase | [Read More](https://medium.com/p/ceac8396e034) |
-| Fri, 05 Dec 2025 16:09:08 GMT | SSH Keys: Your Secure Passkey to Remote Servers | Deeghayu Fernando | [Read More](https://medium.com/p/562e6eb01b8c) |
-| Fri, 05 Dec 2025 16:07:34 GMT | HTB: Era Writeup | Natius | [Read More](https://medium.com/p/39501b950c62) |
