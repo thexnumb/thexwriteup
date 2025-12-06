@@ -12,12 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 08:37:21 GMT | Critical vulnerability in React Server Components (CVE-2025–55182) | Nikola Popovic | [Read More](https://medium.com/p/ba17a100e8d5) |
+| Sat, 06 Dec 2025 08:29:35 GMT | The Midnight Epiphany: How a News Notification Cracked My Stubborn Target | Santhosh Adiga U | [Read More](https://medium.com/p/58492fc1bcc2) |
+| Sat, 06 Dec 2025 08:26:06 GMT | PURPLE TEAM: The Creative Engine of Modern Cybersecurity | 0trust0day | [Read More](https://medium.com/p/28c35d9965d3) |
+| Sat, 06 Dec 2025 08:24:07 GMT | Her Turtle Knows | Alizabeth Amelia Rose | [Read More](https://medium.com/p/b385545dbe0f) |
 | Sat, 06 Dec 2025 08:20:42 GMT | Balancer DAO’s $8M Recovery Plan: What Happened After the $110M Exploit? | Casi Borg | [Read More](https://medium.com/p/a3efc59aab62) |
 | Sat, 06 Dec 2025 08:18:33 GMT | The Core Vulnerability : Why Our Digital Civilization is Built on Sand (and C Pointers) ? | Shayan Taherkhani | [Read More](https://medium.com/p/8e5e78493533) |
+| Sat, 06 Dec 2025 08:14:30 GMT | Internet of Things — Relay Control Over the Internet | Zifa Tea Azzahra | [Read More](https://medium.com/p/afeb280560ac) |
 | Sat, 06 Dec 2025 08:12:40 GMT | Key-Based Automated Security for SSH: End Password Woes, Solve Management Headaches | Esra Kayhan | [Read More](https://medium.com/p/c317c74c3fde) |
 | Sat, 06 Dec 2025 08:04:33 GMT | Glitch or Attack? The Hidden Skill Every SOC Analyst Must Master | Vijay Kumar Gupta | [Read More](https://medium.com/p/e7756d8479b0) |
 | Sat, 06 Dec 2025 07:58:10 GMT | One Last Love | Belle Tzabet | [Read More](https://medium.com/p/b3a218cf58f0) |
 | Sat, 06 Dec 2025 07:51:12 GMT | Ship in a day! How We Built an AI Product in < 24 hours | Wisdom John ikoi | [Read More](https://medium.com/p/9c161a1a2031) |
+| Sat, 06 Dec 2025 07:50:00 GMT | Viver é evoluir — no pessoal, no material e no espiritual. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/4f7c1a4aaa6e) |
 | Sat, 06 Dec 2025 07:40:36 GMT | Can Tecno Spark 20 Pro Plus Handle Heavy Apps Smoothly? | Chloe White | [Read More](https://medium.com/p/7a47c8828ad6) |
 | Sat, 06 Dec 2025 07:23:50 GMT | K Means for Secrets Detection: AppSec ML series | Venkata Sai Manikanta Manugula | [Read More](https://medium.com/p/3a0bd42bb25b) |
 | Sat, 06 Dec 2025 07:13:25 GMT | AWS Secrets Manager for ECS & EKS: Secure Runtime Secrets | Ankit kumar | [Read More](https://medium.com/p/a90d801a956f) |
@@ -108,9 +114,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
 | Fri, 05 Dec 2025 20:22:55 GMT | NAMİB BÖCEĞİ | Elif Sude Dal | [Read More](https://medium.com/p/1e433979601a) |
 | Fri, 05 Dec 2025 20:19:54 GMT | Reverse engineering of a crypto stealer | Artem M | [Read More](https://medium.com/p/e768f0c20853) |
 | Fri, 05 Dec 2025 20:19:41 GMT | Advent of Cyber 2025 - Day 5: Santa’s Little IDOR | Akshat Patel | [Read More](https://medium.com/p/1d71b6143b93) |
-| Fri, 05 Dec 2025 20:10:11 GMT | Unlocking New Skills: Pentesting Agreement | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/4a82e61fa5e1) |
-| Fri, 05 Dec 2025 20:07:45 GMT | React 19 & Next.js Hit by CVSS 10.0 RCE: Patch Now | Mehdi BAFDIL | [Read More](https://medium.com/p/60f57c517c28) |
-| Fri, 05 Dec 2025 20:07:23 GMT | Loly — Full Walkthrough by Ishhishneet | IshhIshneet | [Read More](https://medium.com/p/00bd55c1a575) |
-| Fri, 05 Dec 2025 20:04:01 GMT | Why You Should Not Talk About Your Earnings Online | Zayne Harbison | [Read More](https://medium.com/p/194fd75d4d5b) |
-| Fri, 05 Dec 2025 20:03:54 GMT | Advent of Cyber 25 — Day 3 — AI in Security — old sAInt nick | cybertactic | [Read More](https://medium.com/p/242f17d94aa9) |
-| Fri, 05 Dec 2025 20:03:45 GMT | THE FEAR OF HOPE | Matthew Horan | [Read More](https://medium.com/p/0baec0e835e9) |
