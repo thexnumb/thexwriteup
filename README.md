@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 12:40:26 GMT | SOC Analistinin En Kritik 5 Dakikası: Zihinsel Triyaj Modeli | Pelinnasln | [Read More](https://medium.com/p/761bc0c7d016) |
+| Sat, 06 Dec 2025 12:33:38 GMT | Title: Who Is Mr Blade Stalker? The Rise of a Powerful Elite Cyber Intelligence Brand | mrbladestalker | [Read More](https://medium.com/p/4fea05d08854) |
+| Sat, 06 Dec 2025 12:27:05 GMT | AI in Security — old sAInt nick - AoC 2025 Day - 4 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/1608fa530d29) |
+| Sat, 06 Dec 2025 12:26:13 GMT | Title: Who Is Mr Blade Stalker? The Rise of a Powerful Elite Cyber Intelligence Brand | mrbladestalker | [Read More](https://medium.com/p/ffcab0604391) |
+| Sat, 06 Dec 2025 12:23:54 GMT | Why Half the Internet Breaks When Cloudflare Goes Down? | Fardin Ahsan | [Read More](https://medium.com/p/5fcb2a869e3b) |
+| Sat, 06 Dec 2025 12:16:10 GMT | DNS Security Checklist | DeltaBytes | [Read More](https://medium.com/p/f0bbfd082928) |
+| Sat, 06 Dec 2025 12:11:21 GMT | Part 12: Virtual Box IT Home Lab — PDQ Inventory & Hardware Inventory. | Declan | [Read More](https://medium.com/p/53aa6d1e59de) |
+| Sat, 06 Dec 2025 12:07:12 GMT | Today’s Top Cyber Intelligence Highlights — Dec 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/60c344b04af6) |
+| Sat, 06 Dec 2025 12:04:56 GMT | How Much Does Home Security Cost in Toronto? | Square Security Inc. | [Read More](https://medium.com/p/d2c9cfba6583) |
+| Sat, 06 Dec 2025 12:03:09 GMT | Part 11: Virtual Box Home Lab — Installing PDQ Deploy, Deploying PDQ, & Software Packages | Declan | [Read More](https://medium.com/p/1cb05d0138ef) |
+| Sat, 06 Dec 2025 11:52:11 GMT | React2Shell Explained: The New Vulnerability Breaking Websites Worldwide | Motasem Hamdan | [Read More](https://medium.com/p/1346f8b94ea1) |
+| Sat, 06 Dec 2025 11:40:03 GMT | I let Claude Code hack a Hack The Box machine | Muhammad Haider Tallal | [Read More](https://medium.com/p/2c6a2e295924) |
+| Sat, 06 Dec 2025 11:39:44 GMT | Please Don’t Tell Me Someone Has It Worse | Adegoke Oluwadamilare | [Read More](https://medium.com/p/b16f102cd612) |
+| Sat, 06 Dec 2025 11:37:22 GMT | TO STARS THAT SHINE THE BRIGHTEST!! | Storiews | [Read More](https://medium.com/p/ec5de0fef462) |
 | Sat, 06 Dec 2025 11:21:37 GMT | Cyber Security Report Cyber University: Bedah Teknik Evasion IDS: Analisis & Walkthrough TryHackMe… | Adnannsyukurr | [Read More](https://medium.com/p/e9a2109b1e00) |
 | Sat, 06 Dec 2025 11:21:19 GMT | From Claims to Code: Your RCM- Account Receivable(AR) Skills Are the Keys to a Cybersecurity Career | Dhineshkumar Madeshwaran | [Read More](https://medium.com/p/f2b13bc1f3f0) |
 | Sat, 06 Dec 2025 11:14:09 GMT | LetsDefend SOC Alerts - SOC 127- Event ID: 235 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/68862ca9cbe5) |
@@ -100,17 +114,3 @@ Why organizations must start preparing for… | KLEAP Institute of Information S
  2025 is here… and the tech landscape is evolving FASTER than ever. | Hachtechnology | [Read More](https://medium.com/p/5fb9ab821445) |
 | Sat, 06 Dec 2025 04:49:00 GMT | Future-Ready Cyber Standards for Digital Enterprises | Kadhijahafiya | [Read More](https://medium.com/p/d8a5ed767197) |
 | Sat, 06 Dec 2025 04:44:35 GMT | Qubes OS: The Digital Fortress and the Forensic Investigator’s Nightmare! | Keyur | [Read More](https://medium.com/p/aacf45eff3d8) |
-| Sat, 06 Dec 2025 04:36:10 GMT | Local. Private. An alternative to Microsoft Copilot in Word. | LotPilot | [Read More](https://medium.com/p/5293abcf18d1) |
-| Sat, 06 Dec 2025 04:16:37 GMT | Dreamember | Ayushi Jindal | [Read More](https://medium.com/p/bf809578020e) |
-| Sat, 06 Dec 2025 04:08:27 GMT | Vibe Coding, Prompt Jacking, and the “Digital Twin”: Key Takeaways from the Palo Alto Networks AI… | Surabhi Mali | [Read More](https://medium.com/p/ac75df3ec1ae) |
-| Sat, 06 Dec 2025 03:55:57 GMT | BankGPT — THM LLM Box Writeup | Avyukt Security | [Read More](https://medium.com/p/1c9955f52b6c) |
-| Sat, 06 Dec 2025 03:47:59 GMT | TryHackMe: Tech_Supp0rt: 1 Writeup | cbev | [Read More](https://medium.com/p/b7e18eca5be8) |
-| Sat, 06 Dec 2025 03:35:58 GMT | Token Management On The Client: Practical Lessons | Alabi Temitope David | [Read More](https://medium.com/p/d4970aaafeb8) |
-| Sat, 06 Dec 2025 03:32:10 GMT | When Code Loses Crores: Inside the MobiKwik Tech Glitch :Raajeev H Dave | Raajeev H Dave (AI Man) | [Read More](https://medium.com/p/baa8810fe04e) |
-| Sat, 06 Dec 2025 03:32:09 GMT | Convenience at a Cost: How Online Code Beautifiers Exposed High-Risk Credentials | Deven Chhajed | [Read More](https://medium.com/p/7397f70ae04e) |
-| Sat, 06 Dec 2025 03:23:43 GMT | From Recon to Root: The Night I Hacked an Entire Database | sunny561 | [Read More](https://medium.com/p/50349d323dbc) |
-| Sat, 06 Dec 2025 03:11:21 GMT | Cybersecurity Is Just Whac-A-Mole — Except Leaders Don’t Really Want to Hit the Mole | Tuan Kamiss | [Read More](https://medium.com/p/3493db9b3a03) |
-| Sat, 06 Dec 2025 03:01:40 GMT | Why Immigration Platforms Need ISO 27701 Before They Process Their First Application | Tyson Martin | [Read More](https://medium.com/p/61d35c72b26d) |
-| Sat, 06 Dec 2025 02:47:24 GMT | React2Shell(CVE-2025–55182): A Technical Deep Dive | Vashu Vats | [Read More](https://medium.com/p/175da44af75b) |
-| Sat, 06 Dec 2025 02:09:52 GMT | The Ultimate Recon: My Public Small Cheat Sheet | AmirHossein Ahmadnejad Roudsari | [Read More](https://medium.com/p/0a61f2d75c5e) |
-| Sat, 06 Dec 2025 02:02:13 GMT | Before the Breach: Understanding Scanning & Enumeration in Cyber Attacks | Jugal Patel | [Read More](https://medium.com/p/7a36367cb92f) |
