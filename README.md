@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Dec 2025 07:10:35 GMT | soned ethical hacker, a bug bounty hunter, or the go-to security pro in your team, this guide will… | Very Lazy Tech | [Read More](https://medium.com/p/8e423ec2eea6) |
+| Sat, 06 Dec 2025 07:09:52 GMT | Quantum Computing and the Future of Encryption
+Why organizations must start preparing for… | KLEAP Institute of Information Security | [Read More](https://medium.com/p/231509864079) |
+| Sat, 06 Dec 2025 07:01:14 GMT | Voice over Internet Protocol (VoIP) Offensive Red Team Operation Part — 01 | Sachin Sir | [Read More](https://medium.com/p/82b56e1265c7) |
+| Sat, 06 Dec 2025 06:58:55 GMT | React2Shell(CVE-2025–55182): A Technical Deep Dive | Vashu Vats | [Read More](https://medium.com/p/da81ab27e99f) |
+| Sat, 06 Dec 2025 06:58:00 GMT | The Cryptography Concept Journey — Kerckhoff’s Principle | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b3ad947cfe83) |
+| Sat, 06 Dec 2025 06:56:26 GMT | The People Behind the Mission | Fook Hwa Tan | [Read More](https://medium.com/p/99cb35325844) |
+| Sat, 06 Dec 2025 06:55:12 GMT | Why Cybersecurity Feels Personal to Me It’s Not Just a Job — It’s My Mission | Fook Hwa Tan | [Read More](https://medium.com/p/59eed82c6902) |
+| Sat, 06 Dec 2025 06:46:47 GMT | Cybersecurity for Non-Tech Users: How to Protect Yourself Online in 2025 | Stuti | [Read More](https://medium.com/p/d92b878db96d) |
+| Sat, 06 Dec 2025 06:45:57 GMT | HTB Challenge — RSAisEasy | Fardeen A. | [Read More](https://medium.com/p/04512829dfdd) |
+| Sat, 06 Dec 2025 06:43:54 GMT | The Midnight Pwn: How a News Alert Led to a Critical Bounty | Santhosh Adiga U | [Read More](https://medium.com/p/a4abacbe2096) |
+| Sat, 06 Dec 2025 06:41:34 GMT | Automated Vulnerability Management Using Machine Learning for Patch Prioritization | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/74cfdad2aa16) |
+| Sat, 06 Dec 2025 06:36:47 GMT | How Fast Is the iPhone 16 Pro Max in Real-Life Use? | Isabella Brown | [Read More](https://medium.com/p/7402d5c3a3e1) |
 | Sat, 06 Dec 2025 06:28:11 GMT | Why Do Price Wars Start Faster Than Product Improvements? | Weanyxya | [Read More](https://medium.com/p/1ec285e952ea) |
 | Sat, 06 Dec 2025 06:21:53 GMT | Metasploit Framework Rehberi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/d591bf0d06a2) |
 | Sat, 06 Dec 2025 06:18:43 GMT | Integrated Sphere Test - BIS LABS - BIS Accredited lab - House Of Testing | House Of Testing | [Read More](https://medium.com/p/12cdd41016e2) |
@@ -101,15 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Dec 2025 19:19:28 GMT | Cybersecurity Courses: The Invisible Shield of Contemporary Finance | professional educator | [Read More](https://medium.com/p/ee38a47d27d2) |
 | Fri, 05 Dec 2025 19:19:24 GMT | VulNyx Admin Writeup | CyberCraft | [Read More](https://medium.com/p/6760b419db5a) |
 | Fri, 05 Dec 2025 19:11:22 GMT | Advent of Cyber 2025 Day 4 — Old sAInt Nick. | Khadijat Suleman | [Read More](https://medium.com/p/ae27fd9decff) |
-| Fri, 05 Dec 2025 19:11:07 GMT | Retail Loss Prevention in Sudbury: Protect Your Business with 247GARD | 247 Gard | [Read More](https://medium.com/p/ff5fea621ac4) |
-| Fri, 05 Dec 2025 19:03:00 GMT | CitySafeSense: Building a Resilient Edge Device for Urban Safety, Environmental Intelligence, and… | Meltedtuna | [Read More](https://medium.com/p/a606cabbac01) |
-| Fri, 05 Dec 2025 18:51:28 GMT | Lab: Reflected XSS into HTML context with nothing encoded | KRY | [Read More](https://medium.com/p/ea5fc24fe08e) |
-| Fri, 05 Dec 2025 18:50:35 GMT | Microsoft Azure Security Tools Specialization | Franklin Rhodes | [Read More](https://medium.com/p/5de3fcce3f52) |
-| Fri, 05 Dec 2025 18:46:12 GMT | Step by step guide for Authentication and Authorization in ASP.NET Core using JWT & Identity | Hafiz Muhammad Asad | [Read More](https://medium.com/p/d1f1e66b5b5e) |
-| Fri, 05 Dec 2025 18:44:10 GMT | Advanced Email Investigation Techniques for OSINT Analysts | Nazrul Islam Rana | [Read More](https://medium.com/p/0f28bede0162) |
-| Fri, 05 Dec 2025 18:38:50 GMT | Why 70% of C++ Bugs Disappear When You Switch to Rust | CodeOrbit | [Read More](https://medium.com/p/6fe140a8e901) |
-| Fri, 05 Dec 2025 18:37:22 GMT | CVC’s £2bn Smiths Detection Deal: Buying Safety in an Uncertain World | Chandramouli Subraveti | [Read More](https://medium.com/p/9f9bc3268c0b) |
-| Fri, 05 Dec 2025 18:35:06 GMT | Room 111: What 80/tcp Open HTTP Really Means for Your Network | blackXmask | [Read More](https://medium.com/p/1fdc11d86a5b) |
-| Fri, 05 Dec 2025 18:34:47 GMT | Why IT and Cybersecurity Teams Often Clash — And What Actually Helps Fix It | Digital Defense | [Read More](https://medium.com/p/3fdd9f6934f2) |
-| Fri, 05 Dec 2025 18:16:15 GMT | Velociraptor Dead-Disk Forensics | empise | [Read More](https://medium.com/p/e858f1a3f24c) |
-| Fri, 05 Dec 2025 18:08:06 GMT | Day 2 Aoc | Mr.bourneagainshell | [Read More](https://medium.com/p/afdf27b76979) |
