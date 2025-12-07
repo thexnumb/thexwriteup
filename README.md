@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 11:34:47 GMT | How Long Does Vivo V15 Pro Battery Really Last on Heavy Use? | Elowen Virelle | [Read More](https://medium.com/p/b79852b054fd) |
+| Sun, 07 Dec 2025 11:25:45 GMT | Can OPPO A18’s 50 MP Camera Deliver Good Photos in Real Life? | Luna Collins | [Read More](https://medium.com/p/28cd4c5836cc) |
+| Sun, 07 Dec 2025 11:24:00 GMT | React Native New Architecture Vs Old Architecture (2025 Guide) | TechByRahmat | [Read More](https://medium.com/p/aaf0058b1454) |
+| Sun, 07 Dec 2025 11:12:22 GMT | Google Antigravity Felaketi ve 2025 Agentic AI Çağı | HSD Gaziantep Üniversitesi | [Read More](https://medium.com/p/d67ae71f26ab) |
 | Sun, 07 Dec 2025 11:04:51 GMT | Nibbles Hack The Box Walkthrough | Zer0 | [Read More](https://medium.com/p/873d11d0c02f) |
 | Sun, 07 Dec 2025 11:01:42 GMT | Which OPPO A38 Settings Give the Best Camera Photos and Selfies? | Ella Walker | [Read More](https://medium.com/p/7a03c2336f29) |
 | Sun, 07 Dec 2025 10:58:58 GMT | Hackers Are Using Telegram More Than the Dark Web — Here’s Why | Suhani | [Read More](https://medium.com/p/4475190407fa) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 01:21:05 GMT | The Silent Pay Cut Coming to AWS ProServe: What Employees Don’t Know Yet | Veritasxmail | [Read More](https://medium.com/p/3f6ec49406a4) |
 | Sun, 07 Dec 2025 01:19:22 GMT | Why P4 Bugs Still Pay Big in 2025: The Beginner-Friendly Bug Bounty Blueprint | Kakashi | [Read More](https://medium.com/p/90a35d7ab5a4) |
 | Sun, 07 Dec 2025 01:16:59 GMT | The IDR 800 Billion Heist: How Hackers Found the Weakest Link in Indonesia’s Banking System | Bob S. Effendi | [Read More](https://medium.com/p/0532a9378487) |
-| Sun, 07 Dec 2025 01:16:22 GMT | BugZzzz - Fahemsec | 00xCanelo | [Read More](https://medium.com/p/62d87434cfe5) |
-| Sun, 07 Dec 2025 01:08:16 GMT | Attack Surface Management with AI: continuously discovering shadow assets, APIs, and misconfigs | Paritosh | [Read More](https://medium.com/p/689bf5650ce0) |
-| Sun, 07 Dec 2025 00:42:14 GMT | From Unprivileged to SYSTEM: My Step-by-Step Guide to Windows Service Hijack | ZAYN | [Read More](https://medium.com/p/70cd99e11b56) |
-| Sun, 07 Dec 2025 00:32:32 GMT | Voice over Internet Protocol (VoIP) Offensive Red Team Operation Part — 02 | Sachin Sir | [Read More](https://medium.com/p/5765485f0002) |
