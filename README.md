@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 21:06:53 GMT | Understanding HIPAA Compliance for Software Engineers | Sungjin Yoo | [Read More](https://medium.com/p/7f0dedfc20a8) |
+| Sun, 07 Dec 2025 21:04:52 GMT | A Deep Dive into Timing Attacks, IP Spoofing, and Race Conditions, the Hidden Vulnerabilities in… | EDMOND GIHOZO | [Read More](https://medium.com/p/897ca04e339d) |
+| Sun, 07 Dec 2025 20:45:47 GMT | The Future Has Arrived. What Should We Do Now? | Serdar ALKAN | [Read More](https://medium.com/p/2515ce56fc7e) |
+| Sun, 07 Dec 2025 20:45:09 GMT | Gelecek geldi.Şimdi ne yapmalı? | Serdar ALKAN | [Read More](https://medium.com/p/9dde75096585) |
 | Sun, 07 Dec 2025 20:30:06 GMT | How to Make AWS Infrastructure more Secure? | Nilesh Gadgi | [Read More](https://medium.com/p/3fbef340aa44) |
 | Sun, 07 Dec 2025 20:29:59 GMT | Advent of Cyber 2025 - Day 7: Network Discovery - Scan-ta Clause | Akshat Patel | [Read More](https://medium.com/p/d34e3bf22c70) |
 | Sun, 07 Dec 2025 20:28:28 GMT | The Elder Plinus Engine: How PromptShot Became a Dynamic LLM Jailbreaking Framework | Onurcan Genç | [Read More](https://medium.com/p/853e7dffed26) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 14:08:18 GMT | Wonderland THM CTF Walkthrough | Nissan Subedi | [Read More](https://medium.com/p/3e825bfc1176) |
 | Sun, 07 Dec 2025 14:06:15 GMT | Cyber Paths & Second Chances: Why Tech Careers Are Changing Lives | cyberpathsfundraisingcup | [Read More](https://medium.com/p/bd0762199ea4) |
 | Sun, 07 Dec 2025 14:06:12 GMT | Day 1 — Preparing for the Security Engineer Role: Back to the Basics | NineTales | [Read More](https://medium.com/p/31e3d8d01d1b) |
-| Sun, 07 Dec 2025 14:06:01 GMT | ⚛️ Bulletproof Undo/Redo in React — Commands, Immer Patches, Grouping, and Persistence ↩️↪️ | Developer | [Read More](https://medium.com/p/8ed076c29a53) |
-| Sun, 07 Dec 2025 14:03:01 GMT | Getting Started with OT Security: The Attacker’s Mindset — Intro to OT Penetration Testing (Part 4) | aravind0x7 | [Read More](https://medium.com/p/2ff67134bf86) |
-| Sun, 07 Dec 2025 14:02:21 GMT | Cybersecurity & Dark Web Myths Everyone Still Believes -And Why They’re Dangerous | Noorul Ameen | [Read More](https://medium.com/p/0c626fdde0a3) |
-| Sun, 07 Dec 2025 14:02:14 GMT | Guardrails for Your First SOC 2-Ready Agent | Quellin | [Read More](https://medium.com/p/3be189aab99a) |
