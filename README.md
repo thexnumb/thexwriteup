@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 16:24:20 GMT | 2026 Red Team — Kendi Hacking Araçlarımızı Yazmayı Öğreniyoruz | mintercoder | [Read More](https://medium.com/p/9f52c4e4a550) |
+| Sun, 07 Dec 2025 16:20:36 GMT | Malicious Devices: Understanding the Invisible Threats in the Digital World | Harshit Sharma | [Read More](https://medium.com/p/c8c47608280b) |
+| Sun, 07 Dec 2025 16:18:29 GMT | ️ Kernel Module Analysis: Uncovering Hidden Threats at the Deepest Level | Esra Kayhan | [Read More](https://medium.com/p/d621a76cb6af) |
+| Sun, 07 Dec 2025 16:16:56 GMT | Bash Automation for Security Tasks: The Power of Automation in Linux ️ | Esra Kayhan | [Read More](https://medium.com/p/45434973ebf6) |
+| Sun, 07 Dec 2025 16:03:51 GMT | Everything Is Free Until You Realise What You Paid With — A Piece On Surveillance Capitalism | Gayathri Krishnan | [Read More](https://medium.com/p/94b8acf110e5) |
+| Sun, 07 Dec 2025 16:02:42 GMT | Day 5: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/15745a2c49f5) |
+| Sun, 07 Dec 2025 16:00:19 GMT | Access control | Songül Kızılay Özügürler | [Read More](https://medium.com/p/c079684269e4) |
+| Sun, 07 Dec 2025 15:54:32 GMT | The Operationalization of Agentic AI in Offensive Operations | Lucas Marques | [Read More](https://medium.com/p/0c31ea702d3c) |
+| Sun, 07 Dec 2025 15:54:01 GMT | Smart and Virtual Buoys: Navigating the Future of Maritime Safety | Raghu Sharma | [Read More](https://medium.com/p/d80230bb2210) |
+| Sun, 07 Dec 2025 15:38:50 GMT | Vibe Coding Is Not Your Junior Dev: AI Agents, No-Code Dreams, and the Security Nightmare Ahead | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/524c1ab4c906) |
 | Sun, 07 Dec 2025 15:32:54 GMT | TryHackMe Mustacchio Writeup | Gothos | [Read More](https://medium.com/p/e99515ab6364) |
 | Sun, 07 Dec 2025 15:28:40 GMT | How We Stopped a Crypto-Mining Attack on One of Our Servers | Ramadhani Baharzah | [Read More](https://medium.com/p/3a564365a77b) |
 | Sun, 07 Dec 2025 15:25:14 GMT | React2Shell (CVE-2025–55182) | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/c96f154fe90d) |
@@ -54,6 +64,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 13:21:49 GMT | “A bug bounty hunter reveals how cybersecurity mirrors the universe — from black holes to hidden… | ghostyjoe | [Read More](https://medium.com/p/bf1dd0e6e819) |
 | Sun, 07 Dec 2025 13:20:18 GMT | Malware Analysis — Egg-xecutable - AoC 2025 Day -6 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/7e1959a0ca99) |
 | Sun, 07 Dec 2025 13:16:07 GMT | IDOR — Santa’s Little IDOR - AoC 2025 Day -5 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/09c4f4473c66) |
+| Sun, 07 Dec 2025 13:01:56 GMT | Riding the Zero-Day Storm: Defense in depth Wins | Pranieth Chandrasekara | [Read More](https://medium.com/p/bcfbc7a6ffaa) |
 | Sun, 07 Dec 2025 13:01:41 GMT | Examine the type of database used in target for SQL Injection | Sanjeev Rathore | [Read More](https://medium.com/p/452769198cf2) |
 | Sun, 07 Dec 2025 12:58:22 GMT | Cyber Security | Reynaldhidayat | [Read More](https://medium.com/p/e706b07a7e2c) |
 | Sun, 07 Dec 2025 12:36:46 GMT | Retro — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/d065b7c97649) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 09:41:25 GMT | Perform Microsoft Graph Actions using Terraform for Microsoft Graph resources | Brian Veldman | [Read More](https://medium.com/p/595bbf78259e) |
 | Sun, 07 Dec 2025 09:37:58 GMT | The Payload Masterclass: From “What Is It?” to “How to Hack It” (Ethically) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/2b709bfa0925) |
 | Sun, 07 Dec 2025 09:36:44 GMT | Why India Is Finally Waking Up To The Invisible Computers That Run Our Cities. | Muhaideen Nausar | [Read More](https://medium.com/p/739ec849ed9b) |
-| Sun, 07 Dec 2025 09:21:45 GMT | Project 2026: How I Plan to Clear CompTIA CySA+ in 12 Weeks | Akhil | [Read More](https://medium.com/p/30a7b6ae3ac1) |
-| Sun, 07 Dec 2025 09:14:19 GMT | A Massive Data Leak in India: How a Government Website Failed Millions | Yukeshwaran N | [Read More](https://medium.com/p/d8c795f3ecce) |
-| Sun, 07 Dec 2025 09:07:48 GMT | The “Nil” Value That Stopped the Web: Inside Cloudflare’s Dec 5, 2025 Outage | Satvik Tripathi | [Read More](https://medium.com/p/429be3d184ff) |
-| Sun, 07 Dec 2025 09:05:09 GMT | How to Use Datacenter Proxies Safely in Long-Term Monitoring | CoinZephyr | [Read More](https://medium.com/p/d8190de0c89c) |
-| Sun, 07 Dec 2025 09:02:13 GMT | When Gambling Turns into Human Tragedy | chel writes | [Read More](https://medium.com/p/a92ba73f1140) |
-| Sun, 07 Dec 2025 09:02:13 GMT | Turn On Domain Leak Alerts And 24/7 Stealer Log Monitoring With LeakRadar In 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/adeeb5fc81d3) |
-| Sun, 07 Dec 2025 08:57:02 GMT | THE COMPLETE GUIDE TO X (TWITTER) MONETIZATION & PAYOUT SYSTEM | Aman Yadav | [Read More](https://medium.com/p/99c1e41ebb8e) |
-| Sun, 07 Dec 2025 08:56:37 GMT | Editor — A HackTheBox Writeup | 0x77 | [Read More](https://medium.com/p/0217b518681b) |
-| Sun, 07 Dec 2025 08:55:45 GMT | Conquering the Network: My Hackviser CAPT Nmap Final Exam Write-up | Mukilan Baskaran | [Read More](https://medium.com/p/08bd7560a08f) |
-| Sun, 07 Dec 2025 08:55:38 GMT | Proteggere le Credenziali AWS e GitHub sui Laptop degli Sviluppatori: un Approccio SecOps e OpSec… | Saverio M. | [Read More](https://medium.com/p/b3a520ebeab3) |
-| Sun, 07 Dec 2025 08:52:24 GMT | Enhance Security with PVACreator: Efficient Bulk Account Automation | Homaakther | [Read More](https://medium.com/p/3246569c3b45) |
