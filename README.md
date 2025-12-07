@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 06:25:57 GMT | CloudSEK Security Research Hiring CTF @BSides Vizag | Barath P | [Read More](https://medium.com/p/706e9b11688b) |
+| Sun, 07 Dec 2025 06:18:32 GMT | Breaking the Perimeter: How My Custom Python Tool Bypassed a Federal Firewall | Nmullenski | [Read More](https://medium.com/p/86b2db874812) |
+| Sun, 07 Dec 2025 06:11:07 GMT | Cyber security online training with certification in India | cyber security Updates | [Read More](https://medium.com/p/38c8221db2c8) |
+| Sun, 07 Dec 2025 06:02:32 GMT | Washington Turns on Europe: Trump Backs Nationalists and Pushes NATO Burden Shift | Vic Langston | [Read More](https://medium.com/p/a77068ba4aa6) |
+| Sun, 07 Dec 2025 06:00:29 GMT | Future-Proof Products with Cybersecurity — A Strategic Imperative for the ASEAN Digital Economy | David SEHYEON Baek | [Read More](https://medium.com/p/93aeb7462cab) |
+| Sun, 07 Dec 2025 05:50:03 GMT | Phising Awareness Campaigns | Illyphe Toumi-Cussinet | [Read More](https://medium.com/p/e6602c656d4f) |
 | Sun, 07 Dec 2025 05:35:45 GMT | The Prompts That Turn Any Model Into an OSINT Analyst | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/73344c324751) |
 | Sun, 07 Dec 2025 05:28:20 GMT | The Small Habits That Made Me Dangerous With a Terminal | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0c2329beefb1) |
 | Sun, 07 Dec 2025 05:25:35 GMT | The Mission: Shadow Operations | Kumar Vinay | [Read More](https://medium.com/p/a030486c457f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 17:45:09 GMT | Smarter Cloud Setup Habits That Protect Your Data | Geoffrey Wenger | [Read More](https://medium.com/p/ea9844cae1d4) |
 | Sat, 06 Dec 2025 17:44:28 GMT | HackTheBox - Gavel Writeup — From SQL Injection to Root Shell | Sviatoslav König | [Read More](https://medium.com/p/76965c6eaf6d) |
 | Sat, 06 Dec 2025 17:40:15 GMT | Logic Issue Allowing Verification Before Meeting Required Conditions | mohamed khattab | [Read More](https://medium.com/p/512fc4fa7dcc) |
-| Sat, 06 Dec 2025 17:39:26 GMT | How I Designed a Full Enterprise SOC Lab: The Izuna Security Architecture Blueprint | Abimanyu A | [Read More](https://medium.com/p/97ef2b6d89f5) |
-| Sat, 06 Dec 2025 17:26:42 GMT | No-Code Deployment, Security & Compliance for Industries | Baserow | [Read More](https://medium.com/p/20817280b04d) |
-| Sat, 06 Dec 2025 17:20:51 GMT | Advent of Cyber 2025 - Day 6: Malware Analysis — Egg-xecutable | D4m.sh | [Read More](https://medium.com/p/23b0517ead18) |
-| Sat, 06 Dec 2025 17:12:12 GMT | Startup Monday: Latest tech trends & news happening in the global startup ecosystem (Issue 184… | Narine Emdjian | [Read More](https://medium.com/p/d577bf118814) |
-| Sat, 06 Dec 2025 17:12:11 GMT | Machine Learning System Design Course Guide for Beginners to Experts | Motherlandlove | [Read More](https://medium.com/p/2d15e6cc086d) |
-| Sat, 06 Dec 2025 17:12:09 GMT | The Evolution of Authentication Protocols — From “I’m Alice” to Diffie–Hellman | Vikram Bhati | [Read More](https://medium.com/p/2c0d57c62350) |
