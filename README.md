@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 22:33:51 GMT | How can you send secure message across the internet? | Jan Skopal | [Read More](https://medium.com/p/45b513c9b944) |
+| Sun, 07 Dec 2025 22:16:28 GMT | Three Years of ChatGPT: Model training | Mario Beccia | [Read More](https://medium.com/p/52af7e2a16ed) |
 | Sun, 07 Dec 2025 22:09:42 GMT | Agents in Sandboxes | Teri Radichel | [Read More](https://medium.com/p/7dbf889876fe) |
 | Sun, 07 Dec 2025 22:08:56 GMT | When I Found a docker-compose.yml | Anshubind | [Read More](https://medium.com/p/71192b9ed1bc) |
 | Sun, 07 Dec 2025 22:07:55 GMT | Your Workspace Can Betray You — If You Let It | Sam Galope | [Read More](https://medium.com/p/bb5c0c94a207) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 15:11:08 GMT | AI Threat Intelligence Briefing (November 24, 2025 — December 08, 2025) | SUND | [Read More](https://medium.com/p/1a8d4b7694db) |
 | Sun, 07 Dec 2025 15:08:56 GMT | Secure Your Website With Free SSL on Nginx Using Certbot | Nayan Kunwar | [Read More](https://medium.com/p/9fbcc1dcfd85) |
 | Sun, 07 Dec 2025 15:03:44 GMT | Stop Pasting Your Passwords Into Random Websites. Yes, Really. | David C. | [Read More](https://medium.com/p/2a285da458a4) |
-| Sun, 07 Dec 2025 14:54:01 GMT | One Telegram Bot, and the Illusion of Privacy Collapsed | Hunter | [Read More](https://medium.com/p/705acaedbbc3) |
-| Sun, 07 Dec 2025 14:53:26 GMT | Stop Waiting for a Breach. Let This Open-Source AI Agent Hack You First | inboryn | [Read More](https://medium.com/p/0342375e4dfa) |
