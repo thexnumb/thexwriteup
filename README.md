@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 12:30:59 GMT | The Apps on Your Phone That Leak the Most Data | Payal | [Read More](https://medium.com/p/1cea8cd2aa51) |
+| Sun, 07 Dec 2025 12:28:03 GMT | The AI Mirage: Why Your SOC Will Be Noisier in 2026 (Despite the Hype) | Motasem Hamdan | [Read More](https://medium.com/p/2ccdf04585d7) |
+| Sun, 07 Dec 2025 12:26:38 GMT | 2026 Working Links for NoonooTV — Stay Connected | NoonooTV Official | [Read More](https://medium.com/p/5f842ab3ae1f) |
+| Sun, 07 Dec 2025 12:19:04 GMT | Does “prepare” statements even secure ?? | pythonic01 | [Read More](https://medium.com/p/71e0ee2e58a6) |
+| Sun, 07 Dec 2025 12:19:00 GMT | How Stylish and Sleek are Vivo Mobile Phones in 2025? | Chloe White | [Read More](https://medium.com/p/82291f210df9) |
+| Sun, 07 Dec 2025 12:17:57 GMT | The OpenAI Data Leak Everyone’s Talking About — And Why It Hits Harder Than You Think | LifeInDrafts | [Read More](https://medium.com/p/94f2fcebaa12) |
+| Sun, 07 Dec 2025 12:15:09 GMT | Lab: DOM XSS in innerHTML sink using source location.search | KRY | [Read More](https://medium.com/p/da1ecb9924e3) |
+| Sun, 07 Dec 2025 12:13:33 GMT | Only Authentication | karincayiyen | [Read More](https://medium.com/p/bed347af0779) |
+| Sun, 07 Dec 2025 12:11:45 GMT | Lab: DOM XSS in document.write sink using source location.search | KRY | [Read More](https://medium.com/p/86f78a900db5) |
+| Sun, 07 Dec 2025 12:11:00 GMT | Zero-Downtime Secrets Rotation for Laravel | Ali | [Read More](https://medium.com/p/f727db307361) |
+| Sun, 07 Dec 2025 12:01:27 GMT | Burp Suite Nedir ve Nasıl Kullanılır? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/ae68708642b0) |
+| Sun, 07 Dec 2025 12:00:56 GMT | The npm Paradox: How Convenience Became Our Biggest Security Risk | AT | [Read More](https://medium.com/p/8524c9c603ff) |
 | Sun, 07 Dec 2025 11:34:47 GMT | How Long Does Vivo V15 Pro Battery Really Last on Heavy Use? | Elowen Virelle | [Read More](https://medium.com/p/b79852b054fd) |
 | Sun, 07 Dec 2025 11:25:45 GMT | Can OPPO A18’s 50 MP Camera Deliver Good Photos in Real Life? | Luna Collins | [Read More](https://medium.com/p/28cd4c5836cc) |
 | Sun, 07 Dec 2025 11:24:00 GMT | React Native New Architecture Vs Old Architecture (2025 Guide) | TechByRahmat | [Read More](https://medium.com/p/aaf0058b1454) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 04:18:15 GMT | An OSINT Autopsy of the Louvre’s “Heist of the Century” | 1v0t | [Read More](https://medium.com/p/09c2af7fe0e5) |
 | Sun, 07 Dec 2025 04:17:25 GMT | Why Residential Proxies Don’t Automatically Fix Multi-Account Bans | Gabriele Wayner | [Read More](https://medium.com/p/e69733308b21) |
 | Sun, 07 Dec 2025 04:07:30 GMT | “The Failure That Accidentally Made Me a Bug Bounty Hunter” | Moganti Nehanth | [Read More](https://medium.com/p/34854bb1970d) |
-| Sun, 07 Dec 2025 03:41:30 GMT | INFORMATION TECHNOLOGY: | Ratemate | [Read More](https://medium.com/p/ffaa82984928) |
-| Sun, 07 Dec 2025 03:24:19 GMT | AI Weaponization Is Easier Than We Think: The Alarming Rise of Automated Cyberattacks | Farhan Nasir | [Read More](https://medium.com/p/1c9e489c2f6e) |
-| Sun, 07 Dec 2025 03:22:11 GMT | The 72-Hour Trap: How a Fake Income Tax Notice Triggered a Full System Takeover | Deven Chhajed | [Read More](https://medium.com/p/5c62cd814068) |
-| Sun, 07 Dec 2025 02:48:31 GMT | Why Practical Men Make Better Husbands: The Truth About Marriage | XeniaAusten | [Read More](https://medium.com/p/60ccde9e32b7) |
-| Sun, 07 Dec 2025 02:47:57 GMT | The Three-Room Problem: How AI-Assisted Analysis Challenges Traditional Chip Security (And Why the… | Berend Watchus | [Read More](https://medium.com/p/0c92adf294bf) |
-| Sun, 07 Dec 2025 02:34:58 GMT | How Spammers Really Get Your Contact Info? The Brutally Honest Breakdown. | Sujith | [Read More](https://medium.com/p/9a805b0e02ab) |
-| Sun, 07 Dec 2025 02:27:20 GMT | CVE-2025–55182 — React Server Components RCE | Youaness safwat | [Read More](https://medium.com/p/499b2c306e0c) |
-| Sun, 07 Dec 2025 02:12:24 GMT | Why Laravel Loses the Authorization Header on Apache (and How to Fix It) | Fábio Pereira | [Read More](https://medium.com/p/c3e432d9bc75) |
-| Sun, 07 Dec 2025 01:35:29 GMT | Smart Embedded Network Threat Recognition Yardstick (SENTRY) | Manoranjith Anandan | [Read More](https://medium.com/p/4fe73bf38b97) |
-| Sun, 07 Dec 2025 01:21:05 GMT | The Silent Pay Cut Coming to AWS ProServe: What Employees Don’t Know Yet | Veritasxmail | [Read More](https://medium.com/p/3f6ec49406a4) |
-| Sun, 07 Dec 2025 01:19:22 GMT | Why P4 Bugs Still Pay Big in 2025: The Beginner-Friendly Bug Bounty Blueprint | Kakashi | [Read More](https://medium.com/p/90a35d7ab5a4) |
-| Sun, 07 Dec 2025 01:16:59 GMT | The IDR 800 Billion Heist: How Hackers Found the Weakest Link in Indonesia’s Banking System | Bob S. Effendi | [Read More](https://medium.com/p/0532a9378487) |
