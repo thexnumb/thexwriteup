@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 18:23:46 GMT | VIAAN SALES | Viaansales | [Read More](https://medium.com/p/57218b5297cd) |
+| Sun, 07 Dec 2025 18:23:24 GMT | Lab: Unprotected admin functionality | Songül Kızılay Özügürler | [Read More](https://medium.com/p/45673049a592) |
+| Sun, 07 Dec 2025 18:03:46 GMT | The Day Our SOC Discovered How to Listen — A Tale About Conduct Not Merely Alerts | Cybersickerhub | [Read More](https://medium.com/p/a37a7aa85b51) |
+| Sun, 07 Dec 2025 17:59:15 GMT | An OSINT-Based Assessment of Government Website Defacement in Kenya: Insights from the November… | Tonny Kevin Koech | [Read More](https://medium.com/p/c4d1121cf76e) |
+| Sun, 07 Dec 2025 17:49:20 GMT | How I Extracted Passwords Using Nothing but SQL Error Messages (PostgreSQL Hack Explained) | Sanjivani Dobhal | [Read More](https://medium.com/p/bc38f96ad92b) |
 | Sun, 07 Dec 2025 17:36:54 GMT | How a Botnet Tried to Infect My Server — and How Docker Saved Me | Manpreetsingh | [Read More](https://medium.com/p/9f5e8c8dd0d1) |
+| Sun, 07 Dec 2025 17:36:08 GMT | ₹16,000 Earned by Reporting 2 Simple API Vulnerability - High Severity P2 | Rajankumarbarik | [Read More](https://medium.com/p/c5a6ea9fd8c5) |
 | Sun, 07 Dec 2025 17:30:43 GMT | Day 125 — Narnia OverTheWire Level-0 | Jinay | [Read More](https://medium.com/p/aa2a35ff1d67) |
 | Sun, 07 Dec 2025 17:27:03 GMT | Wazuh System Inventory: Services, Ports, and Protocols | Ismail Hakim | [Read More](https://medium.com/p/f0952719c57b) |
 | Sun, 07 Dec 2025 17:15:37 GMT | The Dark Web Data Goldmine: How I Found My Company’s Leaked Credentials Before the Bad Guys Did (… | Iski | [Read More](https://medium.com/p/4518890c8fa6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 12:19:04 GMT | Does “prepare” statements even secure ?? | pythonic01 | [Read More](https://medium.com/p/71e0ee2e58a6) |
 | Sun, 07 Dec 2025 12:19:00 GMT | How Stylish and Sleek are Vivo Mobile Phones in 2025? | Chloe White | [Read More](https://medium.com/p/82291f210df9) |
 | Sun, 07 Dec 2025 12:17:57 GMT | The OpenAI Data Leak Everyone’s Talking About — And Why It Hits Harder Than You Think | LifeInDrafts | [Read More](https://medium.com/p/94f2fcebaa12) |
-| Sun, 07 Dec 2025 12:15:09 GMT | Lab: DOM XSS in innerHTML sink using source location.search | KRY | [Read More](https://medium.com/p/da1ecb9924e3) |
-| Sun, 07 Dec 2025 12:13:33 GMT | Only Authentication | karincayiyen | [Read More](https://medium.com/p/bed347af0779) |
-| Sun, 07 Dec 2025 12:11:45 GMT | Lab: DOM XSS in document.write sink using source location.search | KRY | [Read More](https://medium.com/p/86f78a900db5) |
-| Sun, 07 Dec 2025 12:11:00 GMT | Zero-Downtime Secrets Rotation for Laravel | Ali | [Read More](https://medium.com/p/f727db307361) |
-| Sun, 07 Dec 2025 12:01:27 GMT | Burp Suite Nedir ve Nasıl Kullanılır? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/ae68708642b0) |
-| Sun, 07 Dec 2025 12:00:56 GMT | The npm Paradox: How Convenience Became Our Biggest Security Risk | AT | [Read More](https://medium.com/p/8524c9c603ff) |
