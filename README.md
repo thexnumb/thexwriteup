@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 13:34:55 GMT | Report VAPT TryHackMe : Intrusion Detection | Dimas Abimoza | [Read More](https://medium.com/p/fb6ae6ead30a) |
+| Sun, 07 Dec 2025 13:25:33 GMT | ️ Privacy’s Jargon Jungle: Decoding the Lingo Without Losing Your Mind (or Your Data!) | Likitha Reddy | [Read More](https://medium.com/p/9fae27cbbb72) |
+| Sun, 07 Dec 2025 13:24:35 GMT | Why Smart Cybersecurity Professionals Still Fail Their Exams | Muhammad Haider Tallal | [Read More](https://medium.com/p/7d66203bf961) |
+| Sun, 07 Dec 2025 13:24:07 GMT | Introduction to Python for Pentesters | Aj | [Read More](https://medium.com/p/f49ac1b79f4f) |
 | Sun, 07 Dec 2025 13:21:49 GMT | “A bug bounty hunter reveals how cybersecurity mirrors the universe — from black holes to hidden… | ghostyjoe | [Read More](https://medium.com/p/bf1dd0e6e819) |
 | Sun, 07 Dec 2025 13:20:18 GMT | Malware Analysis — Egg-xecutable - AoC 2025 Day -6 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/7e1959a0ca99) |
 | Sun, 07 Dec 2025 13:16:07 GMT | IDOR — Santa’s Little IDOR - AoC 2025 Day -5 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/09c4f4473c66) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 06:11:07 GMT | Cyber security online training with certification in India | cyber security Updates | [Read More](https://medium.com/p/38c8221db2c8) |
 | Sun, 07 Dec 2025 06:02:32 GMT | Washington Turns on Europe: Trump Backs Nationalists and Pushes NATO Burden Shift | Vic Langston | [Read More](https://medium.com/p/a77068ba4aa6) |
 | Sun, 07 Dec 2025 06:00:29 GMT | Future-Proof Products with Cybersecurity — A Strategic Imperative for the ASEAN Digital Economy | David SEHYEON Baek | [Read More](https://medium.com/p/93aeb7462cab) |
-| Sun, 07 Dec 2025 05:50:03 GMT | Phising Awareness Campaigns | Illyphe Toumi-Cussinet | [Read More](https://medium.com/p/e6602c656d4f) |
-| Sun, 07 Dec 2025 05:35:45 GMT | The Prompts That Turn Any Model Into an OSINT Analyst | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/73344c324751) |
-| Sun, 07 Dec 2025 05:28:20 GMT | The Small Habits That Made Me Dangerous With a Terminal | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0c2329beefb1) |
-| Sun, 07 Dec 2025 05:25:35 GMT | The Mission: Shadow Operations | Kumar Vinay | [Read More](https://medium.com/p/a030486c457f) |
