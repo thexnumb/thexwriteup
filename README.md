@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 10:32:12 GMT | Password Attacks Explained: Brute Force vs Password Spraying | Natarajan C K | [Read More](https://medium.com/p/cb870b3aa676) |
+| Sun, 07 Dec 2025 10:30:47 GMT | Ethical Technology Use for Human Welfare | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/c626411abe6c) |
+| Sun, 07 Dec 2025 10:27:43 GMT | 5 Hard Truths About AI Pentest Agents vs Humans | Pentest_Testing_Corp | [Read More](https://medium.com/p/0f6e4b05a816) |
+| Sun, 07 Dec 2025 10:27:11 GMT | Breaking Past 403: A Deep Dive into Out-of-Band SQL Injection Discovery | RyuuKhagetsu | [Read More](https://medium.com/p/f4acbcbabe7c) |
+| Sun, 07 Dec 2025 10:20:48 GMT | The AM Dead Zone | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/d30d1718629b) |
 | Sun, 07 Dec 2025 10:13:17 GMT | Why Your ISP Proxies Still Get Flagged (And How to Fix the Setup) | EtherShade | [Read More](https://medium.com/p/e387580e7a79) |
 | Sun, 07 Dec 2025 10:07:27 GMT | Server-Side Request Forgery (SSRF): From Ping to RCE | Abhishek meena | [Read More](https://medium.com/p/6ac95bf4e489) |
 | Sun, 07 Dec 2025 09:59:49 GMT | Critical bug in production ? Think like The Wolf in Pulp Fiction | Saad | [Read More](https://medium.com/p/0a319d8ff263) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 22:54:20 GMT | How the U.S. Budget Really Works: Social Security, Health, Defense Compared? | Jemii Zied | [Read More](https://medium.com/p/39c58ec9d169) |
 | Sat, 06 Dec 2025 22:51:32 GMT | When Japan’s Biggest Brewery Went Dark | O. J. Okpabi | [Read More](https://medium.com/p/83e094cfe4c7) |
 | Sat, 06 Dec 2025 22:49:46 GMT | Start With Recon, Not Exploits — The Beginner’s Guide to Bug Bounty Success | HiveMind | [Read More](https://medium.com/p/4fb297f5a2b6) |
-| Sat, 06 Dec 2025 22:47:11 GMT | Understanding BOLA: What It Is, How It Happens, and How to Prevent It | CXY | [Read More](https://medium.com/p/db5119f28b79) |
-| Sat, 06 Dec 2025 22:34:15 GMT | The New Moroccan Phishing Epidemic: From Influencer Impersonation to Crypto Mule Recruitment | Salaheddine KALADA | [Read More](https://medium.com/p/614dbe3135fa) |
-| Sat, 06 Dec 2025 22:32:11 GMT | The Truth About Anxious Attachment That No One Talks About | Vera Byron | [Read More](https://medium.com/p/3664a3a83783) |
-| Sat, 06 Dec 2025 22:06:16 GMT | How I Identified 9 Security Weaknesses in Under 1 Hour (Including a Live Subdomain Takeover) | Tyreek Haynes | [Read More](https://medium.com/p/39935a5d0c9d) |
-| Sat, 06 Dec 2025 22:05:12 GMT | Random Tech Facts That Show How Fast the World Is Evolving | FactSphereMedia | [Read More](https://medium.com/p/32322fc18d06) |
