@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 23:09:56 GMT | The Pratfall Effect: Why Your Imperfections Make You More Likeable | Insightful Savant | [Read More](https://medium.com/p/072a3dc5edd2) |
+| Sun, 07 Dec 2025 23:02:15 GMT | Public Wi-Fi is a Trap. Here’s How to Secure It for $0. | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/b3827b76f5d9) |
+| Sun, 07 Dec 2025 22:55:07 GMT | Blockchain Risks: What Project Managers and Tech Strategists Need to Know as Stablecoins Outpace… | CCL Montante | [Read More](https://medium.com/p/0385b3147515) |
 | Sun, 07 Dec 2025 22:33:51 GMT | How can you send secure message across the internet? | Jan Skopal | [Read More](https://medium.com/p/45b513c9b944) |
 | Sun, 07 Dec 2025 22:16:28 GMT | Three Years of ChatGPT: Model training | Mario Beccia | [Read More](https://medium.com/p/52af7e2a16ed) |
 | Sun, 07 Dec 2025 22:09:42 GMT | Agents in Sandboxes | Teri Radichel | [Read More](https://medium.com/p/7dbf889876fe) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 15:28:40 GMT | How We Stopped a Crypto-Mining Attack on One of Our Servers | Ramadhani Baharzah | [Read More](https://medium.com/p/3a564365a77b) |
 | Sun, 07 Dec 2025 15:25:14 GMT | React2Shell (CVE-2025–55182) | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/c96f154fe90d) |
 | Sun, 07 Dec 2025 15:12:14 GMT | Anthem Room Tryhackme Walkthroughs | Mainekhacker | [Read More](https://medium.com/p/7413e52cd05f) |
-| Sun, 07 Dec 2025 15:11:08 GMT | AI Threat Intelligence Briefing (November 24, 2025 — December 08, 2025) | SUND | [Read More](https://medium.com/p/1a8d4b7694db) |
-| Sun, 07 Dec 2025 15:08:56 GMT | Secure Your Website With Free SSL on Nginx Using Certbot | Nayan Kunwar | [Read More](https://medium.com/p/9fbcc1dcfd85) |
-| Sun, 07 Dec 2025 15:03:44 GMT | Stop Pasting Your Passwords Into Random Websites. Yes, Really. | David C. | [Read More](https://medium.com/p/2a285da458a4) |
