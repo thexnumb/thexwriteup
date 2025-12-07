@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 05:13:19 GMT | React2Shell (CVE-2025–55182): Understanding the Critical React Vulnerability | Muhammad Faizan Nadeem | [Read More](https://medium.com/p/4f7fdd9f286e) |
+| Sun, 07 Dec 2025 05:06:05 GMT | Hashing vs Encoding vs Encryption: Understanding the Core Differences | Vishal Mishra | [Read More](https://medium.com/p/e96786a61659) |
+| Sun, 07 Dec 2025 04:51:48 GMT | The Chief Worrywart’s Guide: Understanding CISSP Domain 1 (Security and Risk Management) | Mainak Biswas | [Read More](https://medium.com/p/49fc3a34018a) |
+| Sun, 07 Dec 2025 04:42:55 GMT | inasultan88 - PREMIUM SERVER TERBAIK NASIONAL | inasultan88 | [Read More](https://medium.com/p/97cd7e798366) |
+| Sun, 07 Dec 2025 04:38:35 GMT | Your WiFi Isn’t As Safe As You Think — And Your Neighbors Might Be the Real Problem | Jamisone Ivy | [Read More](https://medium.com/p/db3be6e09534) |
 | Sun, 07 Dec 2025 04:18:15 GMT | An OSINT Autopsy of the Louvre’s “Heist of the Century” | 1v0t | [Read More](https://medium.com/p/09c2af7fe0e5) |
 | Sun, 07 Dec 2025 04:17:25 GMT | Why Residential Proxies Don’t Automatically Fix Multi-Account Bans | Gabriele Wayner | [Read More](https://medium.com/p/e69733308b21) |
 | Sun, 07 Dec 2025 04:07:30 GMT | “The Failure That Accidentally Made Me a Bug Bounty Hunter” | Moganti Nehanth | [Read More](https://medium.com/p/34854bb1970d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 17:04:05 GMT | How to remove Norton Security service on windows | Raphael Kuster | [Read More](https://medium.com/p/6d57056d6bf4) |
 | Sat, 06 Dec 2025 17:03:53 GMT | Cyber Strikes, Missile Attacks, and Diplomacy on Edge: Inside Ukraine’s Double War | Ryder Blackthorn | [Read More](https://medium.com/p/9cb207d19c3c) |
 | Sat, 06 Dec 2025 17:02:05 GMT | Cloud Networking Explained So Simply You’ll Finally Get It | FromCodeToCloud | [Read More](https://medium.com/p/2f6eee1407a4) |
-| Sat, 06 Dec 2025 16:57:30 GMT | Microsoft Entra ID Demystified — 5 Lessons to Finally Understand It (Explained the Way I Learned… | D3ad_M3m0r13s | [Read More](https://medium.com/p/e142e0fd158a) |
-| Sat, 06 Dec 2025 16:57:27 GMT | I Choose to Live, Even If It Means Bleeding First | Letters by Ibukun | [Read More](https://medium.com/p/bc112b4a27b9) |
-| Sat, 06 Dec 2025 16:55:30 GMT | How to Perform Password-Based Encrypted RMAN Tablespace Backup & Restore in Oracle 19c | MdAsifHussain | [Read More](https://medium.com/p/a18e57b58311) |
-| Sat, 06 Dec 2025 16:51:25 GMT | EventID — 77 - SOC 138 - Investigating Suspicious XLS File | Soumodeep Das | [Read More](https://medium.com/p/e52a0493683a) |
-| Sat, 06 Dec 2025 16:42:15 GMT | A Simple Page Source View Uncovered a Critical Keycloak Vulnerability | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/7844b789307a) |
