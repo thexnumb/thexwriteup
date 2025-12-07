@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 05:35:45 GMT | The Prompts That Turn Any Model Into an OSINT Analyst | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/73344c324751) |
+| Sun, 07 Dec 2025 05:28:20 GMT | The Small Habits That Made Me Dangerous With a Terminal | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0c2329beefb1) |
+| Sun, 07 Dec 2025 05:25:35 GMT | The Mission: Shadow Operations | Kumar Vinay | [Read More](https://medium.com/p/a030486c457f) |
+| Sun, 07 Dec 2025 05:19:56 GMT | When You Actually Need Mobile Proxies (and How to Use Them Safely) | BlockChimera | [Read More](https://medium.com/p/fdda625a312d) |
 | Sun, 07 Dec 2025 05:13:19 GMT | React2Shell (CVE-2025–55182): Understanding the Critical React Vulnerability | Muhammad Faizan Nadeem | [Read More](https://medium.com/p/4f7fdd9f286e) |
 | Sun, 07 Dec 2025 05:06:05 GMT | Hashing vs Encoding vs Encryption: Understanding the Core Differences | Vishal Mishra | [Read More](https://medium.com/p/e96786a61659) |
 | Sun, 07 Dec 2025 04:51:48 GMT | The Chief Worrywart’s Guide: Understanding CISSP Domain 1 (Security and Risk Management) | Mainak Biswas | [Read More](https://medium.com/p/49fc3a34018a) |
@@ -38,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 00:32:32 GMT | Voice over Internet Protocol (VoIP) Offensive Red Team Operation Part — 02 | Sachin Sir | [Read More](https://medium.com/p/5765485f0002) |
 | Sun, 07 Dec 2025 00:30:00 GMT | JWT Authentication Bypass via Algorithm Confusion | Bash Overflow | [Read More](https://medium.com/p/23101973c92f) |
 | Sat, 06 Dec 2025 23:52:11 GMT | Most Security Teams Can’t Scale Access Management Beyond 50 Employees — Here’s how to fix it | Muh. Fani Akbar | [Read More](https://medium.com/p/7a8ea6a7d76d) |
+| Sat, 06 Dec 2025 23:06:15 GMT | Big News from DorkFi — PreFi Rewards Drop + Contest Live! | DorkFi | [Read More](https://medium.com/p/fab356b6b445) |
 | Sat, 06 Dec 2025 23:02:44 GMT | PART 4 - CTO/CIO Scorecard | Saroj Shendey | [Read More](https://medium.com/p/64512dd05767) |
 | Sat, 06 Dec 2025 22:55:29 GMT | What Is API Security and Why Should Everyday People Care? | CXY | [Read More](https://medium.com/p/1a48fcfcd2c8) |
 | Sat, 06 Dec 2025 22:54:20 GMT | How the U.S. Budget Really Works: Social Security, Health, Defense Compared? | Jemii Zied | [Read More](https://medium.com/p/39c58ec9d169) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 17:12:12 GMT | Startup Monday: Latest tech trends & news happening in the global startup ecosystem (Issue 184… | Narine Emdjian | [Read More](https://medium.com/p/d577bf118814) |
 | Sat, 06 Dec 2025 17:12:11 GMT | Machine Learning System Design Course Guide for Beginners to Experts | Motherlandlove | [Read More](https://medium.com/p/2d15e6cc086d) |
 | Sat, 06 Dec 2025 17:12:09 GMT | The Evolution of Authentication Protocols — From “I’m Alice” to Diffie–Hellman | Vikram Bhati | [Read More](https://medium.com/p/2c0d57c62350) |
-| Sat, 06 Dec 2025 17:08:18 GMT | TryHackMe - React2Shell: CVE-2025-55182 - WriteUp | Axoloth | [Read More](https://medium.com/p/5651d5a93109) |
-| Sat, 06 Dec 2025 17:06:40 GMT | Sending Nagios Alerts to Microsoft Teams Without Webhooks | Firat Gulec | [Read More](https://medium.com/p/1d70b78a5b3f) |
-| Sat, 06 Dec 2025 17:04:05 GMT | How to remove Norton Security service on windows | Raphael Kuster | [Read More](https://medium.com/p/6d57056d6bf4) |
-| Sat, 06 Dec 2025 17:03:53 GMT | Cyber Strikes, Missile Attacks, and Diplomacy on Edge: Inside Ukraine’s Double War | Ryder Blackthorn | [Read More](https://medium.com/p/9cb207d19c3c) |
-| Sat, 06 Dec 2025 17:02:05 GMT | Cloud Networking Explained So Simply You’ll Finally Get It | FromCodeToCloud | [Read More](https://medium.com/p/2f6eee1407a4) |
