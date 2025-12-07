@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 11:04:51 GMT | Nibbles Hack The Box Walkthrough | Zer0 | [Read More](https://medium.com/p/873d11d0c02f) |
+| Sun, 07 Dec 2025 11:01:42 GMT | Which OPPO A38 Settings Give the Best Camera Photos and Selfies? | Ella Walker | [Read More](https://medium.com/p/7a03c2336f29) |
+| Sun, 07 Dec 2025 10:58:58 GMT | Hackers Are Using Telegram More Than the Dark Web — Here’s Why | Suhani | [Read More](https://medium.com/p/4475190407fa) |
+| Sun, 07 Dec 2025 10:57:21 GMT | Find Security Companies Near Downtown Toronto | Square Security Inc. | [Read More](https://medium.com/p/949c8449749b) |
+| Sun, 07 Dec 2025 10:48:44 GMT | The IDEsaster Inside Your Screen: How AI Coding Tools Can Hack You Without You Noticing | Germano Costi | [Read More](https://medium.com/p/a642bd7c0b7f) |
+| Sun, 07 Dec 2025 10:46:27 GMT | Which Vivo Y81 Variant Should You Pick in 2025? | Zara Everly | [Read More](https://medium.com/p/a2e94e9dc0f1) |
+| Sun, 07 Dec 2025 10:46:24 GMT | How Cyber Investigators Track Criminals on the Dark Web (Explained Simply) | ForNext | [Read More](https://medium.com/p/95521221eea5) |
+| Sun, 07 Dec 2025 10:36:35 GMT | Which Vivo Y21e Camera Features Are Best for Photography Lovers? | Pimrada Thavorn | [Read More](https://medium.com/p/113fa7a1f2be) |
 | Sun, 07 Dec 2025 10:32:12 GMT | Password Attacks Explained: Brute Force vs Password Spraying | Natarajan C K | [Read More](https://medium.com/p/cb870b3aa676) |
 | Sun, 07 Dec 2025 10:30:47 GMT | Ethical Technology Use for Human Welfare | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/c626411abe6c) |
 | Sun, 07 Dec 2025 10:27:43 GMT | 5 Hard Truths About AI Pentest Agents vs Humans | Pentest_Testing_Corp | [Read More](https://medium.com/p/0f6e4b05a816) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 01:08:16 GMT | Attack Surface Management with AI: continuously discovering shadow assets, APIs, and misconfigs | Paritosh | [Read More](https://medium.com/p/689bf5650ce0) |
 | Sun, 07 Dec 2025 00:42:14 GMT | From Unprivileged to SYSTEM: My Step-by-Step Guide to Windows Service Hijack | ZAYN | [Read More](https://medium.com/p/70cd99e11b56) |
 | Sun, 07 Dec 2025 00:32:32 GMT | Voice over Internet Protocol (VoIP) Offensive Red Team Operation Part — 02 | Sachin Sir | [Read More](https://medium.com/p/5765485f0002) |
-| Sun, 07 Dec 2025 00:30:00 GMT | JWT Authentication Bypass via Algorithm Confusion | Bash Overflow | [Read More](https://medium.com/p/23101973c92f) |
-| Sat, 06 Dec 2025 23:52:11 GMT | Most Security Teams Can’t Scale Access Management Beyond 50 Employees — Here’s how to fix it | Muh. Fani Akbar | [Read More](https://medium.com/p/7a8ea6a7d76d) |
-| Sat, 06 Dec 2025 23:06:15 GMT | Big News from DorkFi — PreFi Rewards Drop + Contest Live! | DorkFi | [Read More](https://medium.com/p/fab356b6b445) |
-| Sat, 06 Dec 2025 23:02:44 GMT | PART 4 - CTO/CIO Scorecard | Saroj Shendey | [Read More](https://medium.com/p/64512dd05767) |
-| Sat, 06 Dec 2025 22:55:29 GMT | What Is API Security and Why Should Everyday People Care? | CXY | [Read More](https://medium.com/p/1a48fcfcd2c8) |
-| Sat, 06 Dec 2025 22:54:20 GMT | How the U.S. Budget Really Works: Social Security, Health, Defense Compared? | Jemii Zied | [Read More](https://medium.com/p/39c58ec9d169) |
-| Sat, 06 Dec 2025 22:51:32 GMT | When Japan’s Biggest Brewery Went Dark | O. J. Okpabi | [Read More](https://medium.com/p/83e094cfe4c7) |
-| Sat, 06 Dec 2025 22:49:46 GMT | Start With Recon, Not Exploits — The Beginner’s Guide to Bug Bounty Success | HiveMind | [Read More](https://medium.com/p/4fb297f5a2b6) |
