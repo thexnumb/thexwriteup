@@ -12,10 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 16:40:15 GMT | The Complete Guide to MAC Spoofing: Changing Your Digital Fingerprint | Ajmir khan | [Read More](https://medium.com/p/af82b3f92520) |
+| Sun, 07 Dec 2025 16:33:30 GMT | Azure Sentinel Map Project - ¿Qué aprendí? | Lexie | [Read More](https://medium.com/p/e5cbc968e0a0) |
+| Sun, 07 Dec 2025 16:33:05 GMT | The Mistake That Made Me Fall in Love With Cybersecurity | Mubashir | [Read More](https://medium.com/p/ed620c1af1bd) |
+| Sun, 07 Dec 2025 16:31:52 GMT | Demystifying Network Spoofing: MAC, ARP, and IP Spoofing Explained | Ajmir khan | [Read More](https://medium.com/p/1288e2a5b709) |
+| Sun, 07 Dec 2025 16:30:05 GMT | HTB Challenge — The Suspicious Reviewer (OSINT) | Fardeen A. | [Read More](https://medium.com/p/6b3d72153d6d) |
+| Sun, 07 Dec 2025 16:29:31 GMT | OpenAI–Mixpanel Metadata Exposure: Technical Analysis and Investigation Roadmap | Brandon Paul | [Read More](https://medium.com/p/38acff4ad203) |
+| Sun, 07 Dec 2025 16:25:48 GMT | Tor, Onion Services, and the Business of Anonymity | BiyteLüm | [Read More](https://medium.com/p/bcfe760ffb4e) |
+| Sun, 07 Dec 2025 16:25:17 GMT | The Digital Resilience Paradox: Why Your Firewalls Can’t Stop Cognitive Hacking | NOUCAIR | [Read More](https://medium.com/p/dce8f1c424f5) |
 | Sun, 07 Dec 2025 16:24:20 GMT | 2026 Red Team — Kendi Hacking Araçlarımızı Yazmayı Öğreniyoruz | mintercoder | [Read More](https://medium.com/p/9f52c4e4a550) |
 | Sun, 07 Dec 2025 16:20:36 GMT | Malicious Devices: Understanding the Invisible Threats in the Digital World | Harshit Sharma | [Read More](https://medium.com/p/c8c47608280b) |
 | Sun, 07 Dec 2025 16:18:29 GMT | ️ Kernel Module Analysis: Uncovering Hidden Threats at the Deepest Level | Esra Kayhan | [Read More](https://medium.com/p/d621a76cb6af) |
 | Sun, 07 Dec 2025 16:16:56 GMT | Bash Automation for Security Tasks: The Power of Automation in Linux ️ | Esra Kayhan | [Read More](https://medium.com/p/45434973ebf6) |
+| Sun, 07 Dec 2025 16:15:23 GMT | The Fog of The Information Age | Zebra Black MFA | [Read More](https://medium.com/p/025fb3960a8f) |
 | Sun, 07 Dec 2025 16:03:51 GMT | Everything Is Free Until You Realise What You Paid With — A Piece On Surveillance Capitalism | Gayathri Krishnan | [Read More](https://medium.com/p/94b8acf110e5) |
 | Sun, 07 Dec 2025 16:02:42 GMT | Day 5: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/15745a2c49f5) |
 | Sun, 07 Dec 2025 16:00:19 GMT | Access control | Songül Kızılay Özügürler | [Read More](https://medium.com/p/c079684269e4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 10:13:17 GMT | Why Your ISP Proxies Still Get Flagged (And How to Fix the Setup) | EtherShade | [Read More](https://medium.com/p/e387580e7a79) |
 | Sun, 07 Dec 2025 10:07:27 GMT | Server-Side Request Forgery (SSRF): From Ping to RCE | Abhishek meena | [Read More](https://medium.com/p/6ac95bf4e489) |
 | Sun, 07 Dec 2025 09:59:49 GMT | Critical bug in production ? Think like The Wolf in Pulp Fiction | Saad | [Read More](https://medium.com/p/0a319d8ff263) |
-| Sun, 07 Dec 2025 09:59:47 GMT | DO YOU KNOW WHAT THE COUP IN BENIN REPUBLIC MEANS FOR NIGERIA? | Simeon Dumle | [Read More](https://medium.com/p/b4947c208f13) |
-| Sun, 07 Dec 2025 09:56:46 GMT | 9. Master the Basics, Break the Web: Server & Deployment Basics — Final | Abinesh M | [Read More](https://medium.com/p/b4a0eb748edd) |
-| Sun, 07 Dec 2025 09:49:31 GMT | TryHackMe - Linux Server Forensics Walkthrough | Birdv | [Read More](https://medium.com/p/db2be05697f5) |
-| Sun, 07 Dec 2025 09:48:58 GMT | CySA+ Log 01: Learning the Basics with Security+ Domain 1 | Akhil | [Read More](https://medium.com/p/af7b82928820) |
-| Sun, 07 Dec 2025 09:46:07 GMT | If your crypto wallet was hacked, drained, or affected by a sweeper bot, don’t panic — there’s… | Justinjordan | [Read More](https://medium.com/p/bcdf951536dc) |
-| Sun, 07 Dec 2025 09:42:49 GMT | MacBook “Hidden” Privacy Settings - (You Need to Change Now) | K_Anik | [Read More](https://medium.com/p/bbbee8ade3de) |
-| Sun, 07 Dec 2025 09:41:25 GMT | Perform Microsoft Graph Actions using Terraform for Microsoft Graph resources | Brian Veldman | [Read More](https://medium.com/p/595bbf78259e) |
-| Sun, 07 Dec 2025 09:37:58 GMT | The Payload Masterclass: From “What Is It?” to “How to Hack It” (Ethically) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/2b709bfa0925) |
-| Sun, 07 Dec 2025 09:36:44 GMT | Why India Is Finally Waking Up To The Invisible Computers That Run Our Cities. | Muhaideen Nausar | [Read More](https://medium.com/p/739ec849ed9b) |
