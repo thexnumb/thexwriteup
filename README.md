@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 22:09:42 GMT | Agents in Sandboxes | Teri Radichel | [Read More](https://medium.com/p/7dbf889876fe) |
+| Sun, 07 Dec 2025 22:08:56 GMT | When I Found a docker-compose.yml | Anshubind | [Read More](https://medium.com/p/71192b9ed1bc) |
+| Sun, 07 Dec 2025 22:07:55 GMT | Your Workspace Can Betray You — If You Let It | Sam Galope | [Read More](https://medium.com/p/bb5c0c94a207) |
+| Sun, 07 Dec 2025 22:05:55 GMT | ️ The Day I Found a phpinfo() Page Exposed in Production — And Why It Was Worth More Than $200 | Anshubind | [Read More](https://medium.com/p/1e6c902e1f4a) |
+| Sun, 07 Dec 2025 21:54:04 GMT | My CPTS Exam Experience — Part 1: Context + Starting the Exam | Kentucky Mathitis | [Read More](https://medium.com/p/66af6944717f) |
+| Sun, 07 Dec 2025 21:52:53 GMT | Editor ✍️ - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/597ff6d6bb08) |
+| Sun, 07 Dec 2025 21:43:34 GMT | Software Quality: Simplify It and Earn the Trust of Your Users (and Your Own!) | Agilista Desenvolvedor | [Read More](https://medium.com/p/42fa8d54998e) |
+| Sun, 07 Dec 2025 21:43:33 GMT | Proving Grounds - Boolean | jniket | [Read More](https://medium.com/p/2609d211e473) |
+| Sun, 07 Dec 2025 21:37:10 GMT | Invention-blackhat finals | phisher | [Read More](https://medium.com/p/8de00e5a7c0c) |
 | Sun, 07 Dec 2025 21:16:30 GMT | How I found the $5,730 business logic flaw | Ibtissam | [Read More](https://medium.com/p/f8fe322f9930) |
 | Sun, 07 Dec 2025 21:15:32 GMT | Top Companies to Recover Lost Bitcoin Optimistic Hacker Gaius: Is The Best Crypto Asset Recovery… | John Elijah | [Read More](https://medium.com/p/adf2f52c75b9) |
 | Sun, 07 Dec 2025 21:09:25 GMT | Memory Forensic vs EDR — Talk | Dean | [Read More](https://medium.com/p/b477b6ceaf05) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 15:03:44 GMT | Stop Pasting Your Passwords Into Random Websites. Yes, Really. | David C. | [Read More](https://medium.com/p/2a285da458a4) |
 | Sun, 07 Dec 2025 14:54:01 GMT | One Telegram Bot, and the Illusion of Privacy Collapsed | Hunter | [Read More](https://medium.com/p/705acaedbbc3) |
 | Sun, 07 Dec 2025 14:53:26 GMT | Stop Waiting for a Breach. Let This Open-Source AI Agent Hack You First | inboryn | [Read More](https://medium.com/p/0342375e4dfa) |
-| Sun, 07 Dec 2025 14:48:01 GMT | Day 81- From beginner to Investigator?: How KC7 boosted my cybersecurity skills for free | unica 02 | [Read More](https://medium.com/p/a140faff6ca9) |
-| Sun, 07 Dec 2025 14:44:09 GMT | The Scariest Threat in “A House of Dynamite” | B. F. Campbell | [Read More](https://medium.com/p/03fdc8f34f20) |
-| Sun, 07 Dec 2025 14:39:57 GMT | Day 1 — Python Progress Recap: What I Learned, What I Practiced & What’s Coming Next | NineTales | [Read More](https://medium.com/p/05eb0bba445d) |
-| Sun, 07 Dec 2025 14:38:45 GMT | If You Handle Me With Care | Ankit kashyap | [Read More](https://medium.com/p/94d67d744581) |
-| Sun, 07 Dec 2025 14:31:27 GMT | Achieve your GCP Professional Cloud Security Engineer Certification (PCSE) in 2026 | vinayreddyguda | [Read More](https://medium.com/p/a09e577055b2) |
-| Sun, 07 Dec 2025 14:27:41 GMT | Advent of Cyber 25 — Day 6 — Malware Analysis — Egg-xecutable | cybertactic | [Read More](https://medium.com/p/d0864eb0d9c6) |
-| Sun, 07 Dec 2025 14:18:36 GMT | Complete Guide to Penetration Testing Domains: Web, Network, Cloud, Mobile & More | Dhanush N | [Read More](https://medium.com/p/66834579378b) |
-| Sun, 07 Dec 2025 14:14:53 GMT | Görünmez Tehlike: Akıllı Sözleşmeler ve %51 Saldırıları | Nurefşan H. | [Read More](https://medium.com/p/4e3bd5e84ae4) |
-| Sun, 07 Dec 2025 14:10:34 GMT | How a Fake Notification Can Give a Hacker Access — And How to Protect Yourself | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/cd11fcd27ef2) |
