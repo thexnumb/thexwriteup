@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 09:21:45 GMT | Project 2026: How I Plan to Clear CompTIA CySA+ in 12 Weeks | Akhil | [Read More](https://medium.com/p/30a7b6ae3ac1) |
 | Sun, 07 Dec 2025 09:14:19 GMT | A Massive Data Leak in India: How a Government Website Failed Millions | Yukeshwaran N | [Read More](https://medium.com/p/d8c795f3ecce) |
 | Sun, 07 Dec 2025 09:07:48 GMT | The “Nil” Value That Stopped the Web: Inside Cloudflare’s Dec 5, 2025 Outage | Satvik Tripathi | [Read More](https://medium.com/p/429be3d184ff) |
 | Sun, 07 Dec 2025 09:05:09 GMT | How to Use Datacenter Proxies Safely in Long-Term Monitoring | CoinZephyr | [Read More](https://medium.com/p/d8190de0c89c) |
@@ -48,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 06:51:18 GMT | The Ultimate OSINT Guide: Essential Tools for Phone Number Investigation | eRRoR | [Read More](https://medium.com/p/be1924ddf578) |
 | Sun, 07 Dec 2025 06:51:05 GMT | Hackers Used a Cheap Air Purifier to Hijack an Entire Company — Yes, Really | Noel | [Read More](https://medium.com/p/afb3d067e85f) |
 | Sun, 07 Dec 2025 06:45:29 GMT | Why Your Past Skills Are Your Greatest Career Accelerator | Andrew Keitany | [Read More](https://medium.com/p/6a980bff43cd) |
+| Sun, 07 Dec 2025 06:41:03 GMT | IDOR — Santa’s Little IDOR | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/049e1f154e8e) |
 | Sun, 07 Dec 2025 06:34:59 GMT | BRICKSTORM Episode 1: A Technical Deep Dive into UNC5221’s Latest Linux Backdoor | Mohammad Heading | [Read More](https://medium.com/p/c8c8018c1d76) |
 | Sun, 07 Dec 2025 06:30:47 GMT | Advanced Search Techniques for Exposed Information — By Reju Kole | Reju Kole | [Read More](https://medium.com/p/348264b00fb4) |
 | Sun, 07 Dec 2025 06:30:47 GMT | Boost Your Account Success with PVACreator's Automation Tools | Tasnimzara | [Read More](https://medium.com/p/694bc504b534) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 21:23:45 GMT | How to Earn Money From Medium | Monika sharma | [Read More](https://medium.com/p/6156f7ccd34b) |
 | Sat, 06 Dec 2025 21:08:21 GMT | I made a Bug Bounty tool directory | Kapeka | [Read More](https://medium.com/p/f106f56aaffc) |
 | Sat, 06 Dec 2025 20:56:06 GMT | “Eval is Evil”: Why You Should Never Store Code in a Database | Vijay Khot | [Read More](https://medium.com/p/955fb3cfa4cf) |
-| Sat, 06 Dec 2025 20:55:58 GMT | Building LogGuard: A High-Performance Log Sanitizer for Flutter Using Rust FFI | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/ea3ba84aa7ea) |
-| Sat, 06 Dec 2025 20:55:44 GMT | The Key to Security: Why You Need to Generate a Strong Password Right Now | FreeAllToolsSite | [Read More](https://medium.com/p/215468993f93) |
