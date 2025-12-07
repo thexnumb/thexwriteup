@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 08:09:27 GMT | WannaCry Ransomware Attack | Malsha Hansini | [Read More](https://medium.com/p/acc3fdd31b71) |
+| Sun, 07 Dec 2025 08:02:14 GMT | A Threat Intelligence Review of a High-Risk Malicious Hash | Khaled M. | [Read More](https://medium.com/p/8ef59c9f8278) |
+| Sun, 07 Dec 2025 07:53:15 GMT | Why Genuine Keys Ensure Better Performance & Security | Lana Peterson | [Read More](https://medium.com/p/94f230cc61e5) |
+| Sun, 07 Dec 2025 07:50:14 GMT | Part 11 — “The Shocking Truth: Quantum AI Is Already Here… And It Might Replace Half of Today’s… | Mr. Richie Gunawan | [Read More](https://medium.com/p/897678f44d83) |
+| Sun, 07 Dec 2025 07:50:13 GMT | India Lost ₹22,845 CRORE to Cyber Fraud in 2024 — and 2025 Has Become Even Worse. | Juned Silavat | [Read More](https://medium.com/p/c18567d7f866) |
+| Sun, 07 Dec 2025 07:48:20 GMT | Breaking Down CVE-2025–55182 & CVE-2025–66478 — And How I Built React2Shell and Cracked a… | LETCHU PKT | [Read More](https://medium.com/p/a8377e5af5b8) |
+| Sun, 07 Dec 2025 07:43:08 GMT | Week 2 of My Learning-in-Public Journey: Cloud, Cybersecurity & Chess | Ugosam | [Read More](https://medium.com/p/54bd55210968) |
+| Sun, 07 Dec 2025 07:42:36 GMT | Seen in Places I’m Not Known | Trina Chariz | [Read More](https://medium.com/p/596e362e62dc) |
 | Sun, 07 Dec 2025 07:27:16 GMT | D365 FO Connectivity with Sentinel Tools for capturing security Events & Logs | Shayan Arshi | [Read More](https://medium.com/p/180a85b35f1a) |
 | Sun, 07 Dec 2025 07:08:08 GMT | There’s More Happening Than You See — Here’s What Clients Often Don’t Know About Our Work | Fook Hwa Tan | [Read More](https://medium.com/p/280849fc9eb8) |
 | Sun, 07 Dec 2025 07:06:56 GMT | Client FAQ Series: Why We Recommend Restore-First Drills (RTO/RPO) You Asked, We Explained: Why… | Fook Hwa Tan | [Read More](https://medium.com/p/2098c384b272) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 19:18:01 GMT | If Seatbelt Guidance Worked Like Cybersecurity Guidance | @boblord | [Read More](https://medium.com/p/01dbe8b88c96) |
 | Sat, 06 Dec 2025 19:14:15 GMT | Advent of Cyber 2025 - Day 6: Malware Analysis - Egg-xecutable | Akshat Patel | [Read More](https://medium.com/p/3e346222c640) |
 | Sat, 06 Dec 2025 19:02:15 GMT | Why 73% of AI Agents Are Vulnerable to This “Invisible” Attack | Adham Khaled | [Read More](https://medium.com/p/642ad8850ef1) |
-| Sat, 06 Dec 2025 19:02:14 GMT | HackTheBox — Editor Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/c917c5a7ea66) |
-| Sat, 06 Dec 2025 18:48:53 GMT | HTML Injection: Risks, Lessons & Hidden Cost | Sajjan Nehal | [Read More](https://medium.com/p/f4c409ab73fe) |
-| Sat, 06 Dec 2025 18:44:24 GMT | The Vulnerability Hangover | Sarah Keates Andrews | [Read More](https://medium.com/p/8c802a442b28) |
-| Sat, 06 Dec 2025 18:39:22 GMT | Inside the Vulnerable Login Challenge: A Practical Walkthrough of testphp.vulnweb.com/login.php” | Ashutosh Jena | [Read More](https://medium.com/p/a34793158f1e) |
-| Sat, 06 Dec 2025 18:36:46 GMT | How We Made Epilepsy Detection AI Super Safe from Hackers | Shiyamaladevi R S | [Read More](https://medium.com/p/c4044f1d59b4) |
-| Sat, 06 Dec 2025 18:35:23 GMT | Falling for the Feeling, Not Just the Person | Naureen S. | [Read More](https://medium.com/p/00cf51d80236) |
-| Sat, 06 Dec 2025 18:32:04 GMT | Explanation of Threat, Vulnerability, Risk, Impact, Severity, and CVSS | Habibi | [Read More](https://medium.com/p/028d6486d65e) |
-| Sat, 06 Dec 2025 18:18:06 GMT | CCNA Networking Fundamentals — A Beginner Friendly Guide | Lakshay Nimwal | [Read More](https://medium.com/p/adb796e68798) |
