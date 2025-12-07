@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 19:06:59 GMT | Insider Risk Management Demystified — How Microsoft Purview Helps You Spot Risks Before They… | D3ad_M3m0r13s | [Read More](https://medium.com/p/114f5c3611aa) |
+| Sun, 07 Dec 2025 19:06:30 GMT | Our Smart Irrigation Journey: How We’re Using IoT to Make Farming Smarter (and Easier!) | Aaronnsajuli | [Read More](https://medium.com/p/e91b8c6ee1bf) |
+| Sun, 07 Dec 2025 18:54:18 GMT | PortSwigger Web LLM attacks LAB 1: “Exploiting LLM APIs with excessive agency” | KRISHNA KUMAWAT | [Read More](https://medium.com/p/04a2f810da0f) |
+| Sun, 07 Dec 2025 18:54:18 GMT | Top 10 laptops in 2025 | Latea | [Read More](https://medium.com/p/2a78bbda2732) |
+| Sun, 07 Dec 2025 18:51:34 GMT | Advent of Cyber 2025 — Prep Track Complete ✅ | Nazmul Islam | [Read More](https://medium.com/p/6d58d06dc254) |
+| Sun, 07 Dec 2025 18:48:27 GMT | TCP Challenges — Part 1 : Back to College - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/418d66cb9e7f) |
 | Sun, 07 Dec 2025 18:32:44 GMT | From Zero to Ethical Hacker: The Guide I Wish I Had When I Started | Axoloth | [Read More](https://medium.com/p/d9e00781dd19) |
 | Sun, 07 Dec 2025 18:27:22 GMT | Ukrainian Hackers Cripple Major Russian Logistics Firm on Armed Forces Day | Leo Griffin | [Read More](https://medium.com/p/1bd0c5db5d17) |
 | Sun, 07 Dec 2025 18:26:16 GMT | SSRF DNS Rebinding Bypass Technique | Fatimahasan | [Read More](https://medium.com/p/9082a8bc18f9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 13:01:41 GMT | Examine the type of database used in target for SQL Injection | Sanjeev Rathore | [Read More](https://medium.com/p/452769198cf2) |
 | Sun, 07 Dec 2025 12:58:22 GMT | Cyber Security | Reynaldhidayat | [Read More](https://medium.com/p/e706b07a7e2c) |
 | Sun, 07 Dec 2025 12:36:46 GMT | Retro — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/d065b7c97649) |
-| Sun, 07 Dec 2025 12:36:31 GMT | Writing Battle-Tested Sigma Rules for Real-World ATT&CK Techniques | CyberFreak | [Read More](https://medium.com/p/e443ceda3496) |
-| Sun, 07 Dec 2025 12:36:12 GMT | When Commercial Forensic Tools Fail: Manual Extraction of Tor Browser Evidence from iOS Devices | Gerisson | [Read More](https://medium.com/p/40b02e2523e3) |
-| Sun, 07 Dec 2025 12:35:38 GMT | Install and Use YARA for Threat Detection (Step-by-Step) — Cybersecurity Homelab [#12] | 0xRahuL | [Read More](https://medium.com/p/d7498b6d258a) |
-| Sun, 07 Dec 2025 12:30:59 GMT | The Apps on Your Phone That Leak the Most Data | Payal | [Read More](https://medium.com/p/1cea8cd2aa51) |
-| Sun, 07 Dec 2025 12:28:03 GMT | The AI Mirage: Why Your SOC Will Be Noisier in 2026 (Despite the Hype) | Motasem Hamdan | [Read More](https://medium.com/p/2ccdf04585d7) |
-| Sun, 07 Dec 2025 12:26:38 GMT | 2026 Working Links for NoonooTV — Stay Connected | NoonooTV Official | [Read More](https://medium.com/p/5f842ab3ae1f) |
