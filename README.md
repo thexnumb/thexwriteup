@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 19:25:44 GMT | FORTIGATE GEÇİŞİ 01.08 SD-WAN, Virtual Server yapılandırması ile Load Balance | Ziya DENİZ | [Read More](https://medium.com/p/2449359364ae) |
+| Sun, 07 Dec 2025 19:24:28 GMT | My Development Week: Building Secure Flutter Apps & Desktop Tools | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/c66b85e5ceca) |
+| Sun, 07 Dec 2025 19:09:26 GMT | Detecting Web DDoS - TryHackMe Room Walkthrough | Crypt0K33p3r | [Read More](https://medium.com/p/4c7528a07908) |
 | Sun, 07 Dec 2025 19:06:59 GMT | Insider Risk Management Demystified — How Microsoft Purview Helps You Spot Risks Before They… | D3ad_M3m0r13s | [Read More](https://medium.com/p/114f5c3611aa) |
 | Sun, 07 Dec 2025 19:06:30 GMT | Our Smart Irrigation Journey: How We’re Using IoT to Make Farming Smarter (and Easier!) | Aaronnsajuli | [Read More](https://medium.com/p/e91b8c6ee1bf) |
 | Sun, 07 Dec 2025 18:54:18 GMT | PortSwigger Web LLM attacks LAB 1: “Exploiting LLM APIs with excessive agency” | KRISHNA KUMAWAT | [Read More](https://medium.com/p/04a2f810da0f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 13:20:18 GMT | Malware Analysis — Egg-xecutable - AoC 2025 Day -6 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/7e1959a0ca99) |
 | Sun, 07 Dec 2025 13:16:07 GMT | IDOR — Santa’s Little IDOR - AoC 2025 Day -5 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/09c4f4473c66) |
 | Sun, 07 Dec 2025 13:01:56 GMT | Riding the Zero-Day Storm: Defense in depth Wins | Pranieth Chandrasekara | [Read More](https://medium.com/p/bcfbc7a6ffaa) |
-| Sun, 07 Dec 2025 13:01:41 GMT | Examine the type of database used in target for SQL Injection | Sanjeev Rathore | [Read More](https://medium.com/p/452769198cf2) |
-| Sun, 07 Dec 2025 12:58:22 GMT | Cyber Security | Reynaldhidayat | [Read More](https://medium.com/p/e706b07a7e2c) |
-| Sun, 07 Dec 2025 12:36:46 GMT | Retro — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/d065b7c97649) |
