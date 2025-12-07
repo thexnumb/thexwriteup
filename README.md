@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 15:11:08 GMT | AI Threat Intelligence Briefing (November 24, 2025 — December 08, 2025) | SUND | [Read More](https://medium.com/p/1a8d4b7694db) |
+| Sun, 07 Dec 2025 15:08:56 GMT | Secure Your Website With Free SSL on Nginx Using Certbot | Nayan Kunwar | [Read More](https://medium.com/p/9fbcc1dcfd85) |
+| Sun, 07 Dec 2025 15:03:44 GMT | Stop Pasting Your Passwords Into Random Websites. Yes, Really. | David C. | [Read More](https://medium.com/p/2a285da458a4) |
+| Sun, 07 Dec 2025 14:54:01 GMT | One Telegram Bot, and the Illusion of Privacy Collapsed | Hunter | [Read More](https://medium.com/p/705acaedbbc3) |
+| Sun, 07 Dec 2025 14:53:26 GMT | Stop Waiting for a Breach. Let This Open-Source AI Agent Hack You First | inboryn | [Read More](https://medium.com/p/0342375e4dfa) |
+| Sun, 07 Dec 2025 14:48:01 GMT | Day 81- From beginner to Investigator?: How KC7 boosted my cybersecurity skills for free | unica 02 | [Read More](https://medium.com/p/a140faff6ca9) |
+| Sun, 07 Dec 2025 14:44:09 GMT | The Scariest Threat in “A House of Dynamite” | B. F. Campbell | [Read More](https://medium.com/p/03fdc8f34f20) |
+| Sun, 07 Dec 2025 14:39:57 GMT | Day 1 — Python Progress Recap: What I Learned, What I Practiced & What’s Coming Next | NineTales | [Read More](https://medium.com/p/05eb0bba445d) |
+| Sun, 07 Dec 2025 14:38:45 GMT | If You Handle Me With Care | Ankit kashyap | [Read More](https://medium.com/p/94d67d744581) |
 | Sun, 07 Dec 2025 14:31:27 GMT | Achieve your GCP Professional Cloud Security Engineer Certification (PCSE) in 2026 | vinayreddyguda | [Read More](https://medium.com/p/a09e577055b2) |
 | Sun, 07 Dec 2025 14:27:41 GMT | Advent of Cyber 25 — Day 6 — Malware Analysis — Egg-xecutable | cybertactic | [Read More](https://medium.com/p/d0864eb0d9c6) |
 | Sun, 07 Dec 2025 14:18:36 GMT | Complete Guide to Penetration Testing Domains: Web, Network, Cloud, Mobile & More | Dhanush N | [Read More](https://medium.com/p/66834579378b) |
+| Sun, 07 Dec 2025 14:14:53 GMT | Görünmez Tehlike: Akıllı Sözleşmeler ve %51 Saldırıları | Nurefşan H. | [Read More](https://medium.com/p/4e3bd5e84ae4) |
 | Sun, 07 Dec 2025 14:10:34 GMT | How a Fake Notification Can Give a Hacker Access — And How to Protect Yourself | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/cd11fcd27ef2) |
 | Sun, 07 Dec 2025 14:08:18 GMT | Wonderland THM CTF Walkthrough | Nissan Subedi | [Read More](https://medium.com/p/3e825bfc1176) |
 | Sun, 07 Dec 2025 14:06:15 GMT | Cyber Paths & Second Chances: Why Tech Careers Are Changing Lives | cyberpathsfundraisingcup | [Read More](https://medium.com/p/bd0762199ea4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 08:49:47 GMT | The Day I Caught a Rogue ISM Signal Coming From an IoT Sensor — And What It Taught Me | Michael Preston | [Read More](https://medium.com/p/8855b31d5138) |
 | Sun, 07 Dec 2025 08:46:54 GMT | Beyond the Green Terminal: The Art of Modern Reconnaissance | Santhosh Adiga U | [Read More](https://medium.com/p/5d6dab288ee2) |
 | Sun, 07 Dec 2025 08:45:18 GMT | Bug Bounty Hunting — Complete Guide (Part-157) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/7f9f713cd555) |
-| Sun, 07 Dec 2025 08:44:41 GMT | Bug Bounty Hunting — Complete Guide (Part-156) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/7af5134ac845) |
-| Sun, 07 Dec 2025 08:36:39 GMT | The Great Balancing Act: Why Security Always Needs a Compromise (or, The CIA Triad Tussle) | Mainak Biswas | [Read More](https://medium.com/p/a465e05b0aad) |
-| Sun, 07 Dec 2025 08:34:57 GMT | The Ultimate Guide to Termite Inspection and Colony Elimination with Bait Systems | Aardwolfpestkare | [Read More](https://medium.com/p/f174217de708) |
-| Sun, 07 Dec 2025 08:33:02 GMT | CVE-2025–55182: React2Shell — A Deep Dive Into the Most Critical RSC Vulnerability of 2025 — Part 1 | Raj Kumar M | [Read More](https://medium.com/p/83820591a3f4) |
-| Sun, 07 Dec 2025 08:31:28 GMT | ⭐Detailed Guide to Authentication, Authorization, Encoding, Encryption & Hashing. | Shayaan Khan | [Read More](https://medium.com/p/58a285388552) |
-| Sun, 07 Dec 2025 08:09:27 GMT | WannaCry Ransomware Attack | Malsha Hansini | [Read More](https://medium.com/p/acc3fdd31b71) |
-| Sun, 07 Dec 2025 08:02:14 GMT | A Threat Intelligence Review of a High-Risk Malicious Hash | Khaled M. | [Read More](https://medium.com/p/8ef59c9f8278) |
-| Sun, 07 Dec 2025 07:54:11 GMT | Memahami Apa Itu Denial of Service | Reyza Maulana Putra | [Read More](https://medium.com/p/608317715b12) |
-| Sun, 07 Dec 2025 07:53:15 GMT | Why Genuine Keys Ensure Better Performance & Security | Lana Peterson | [Read More](https://medium.com/p/94f230cc61e5) |
-| Sun, 07 Dec 2025 07:50:14 GMT | Part 11 — “The Shocking Truth: Quantum AI Is Already Here… And It Might Replace Half of Today’s… | Mr. Richie Gunawan | [Read More](https://medium.com/p/897678f44d83) |
