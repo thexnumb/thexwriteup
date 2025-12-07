@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 14:06:12 GMT | Day 1 — Preparing for the Security Engineer Role: Back to the Basics | NineTales | [Read More](https://medium.com/p/31e3d8d01d1b) |
+| Sun, 07 Dec 2025 14:06:01 GMT | ⚛️ Bulletproof Undo/Redo in React — Commands, Immer Patches, Grouping, and Persistence ↩️↪️ | Developer | [Read More](https://medium.com/p/8ed076c29a53) |
+| Sun, 07 Dec 2025 14:03:01 GMT | Getting Started with OT Security: The Attacker’s Mindset — Intro to OT Penetration Testing (Part 4) | aravind0x7 | [Read More](https://medium.com/p/2ff67134bf86) |
+| Sun, 07 Dec 2025 14:02:21 GMT | Cybersecurity & Dark Web Myths Everyone Still Believes -And Why They’re Dangerous | Noorul Ameen | [Read More](https://medium.com/p/0c626fdde0a3) |
+| Sun, 07 Dec 2025 14:02:14 GMT | Guardrails for Your First SOC 2-Ready Agent | Quellin | [Read More](https://medium.com/p/3be189aab99a) |
+| Sun, 07 Dec 2025 14:00:48 GMT | AI Bug Triage System | Mark Wireman | [Read More](https://medium.com/p/268291c08aac) |
+| Sun, 07 Dec 2025 13:58:29 GMT | Hack The Box — Editor Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/42ae0a9e1174) |
+| Sun, 07 Dec 2025 13:58:13 GMT | Networking Protocols — The Unsung Heroes of Digital Communication | Paul Meyer | [Read More](https://medium.com/p/cb846984a694) |
+| Sun, 07 Dec 2025 13:55:18 GMT | Day 7 — Patch & Tool Maintenance (Deeper into the Forest) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/8b2acd481673) |
+| Sun, 07 Dec 2025 13:53:30 GMT | Ethical Bitcoin Hacker For Hire By Wizard Larry Recovery Experts | Sally Bico | [Read More](https://medium.com/p/d9833f10c590) |
+| Sun, 07 Dec 2025 13:46:48 GMT | All about Electric Fencing in South Africa | Safety & Security | [Read More](https://medium.com/p/a7cda4f54da4) |
+| Sun, 07 Dec 2025 13:45:00 GMT | Phishing Attack Workflow | Aakash Rajput | [Read More](https://medium.com/p/fef0735782a9) |
+| Sun, 07 Dec 2025 13:44:25 GMT | Metasploitable 3 (Windows) Write-up — Part VIII: Port 4848 — GlassFish Admin Console Weak… | Kalash Kundaliya | [Read More](https://medium.com/p/24c277965014) |
+| Sun, 07 Dec 2025 13:42:00 GMT | The Great Digital Eavesdrop: A Witty Guide to Privacy Basics | Likitha Reddy | [Read More](https://medium.com/p/9818a195edc8) |
+| Sun, 07 Dec 2025 13:36:48 GMT | Cyber Kill Chain Methodology (Siber Öldürme Zinciri Metodolojisi) | Hümeyra Göray | [Read More](https://medium.com/p/597daf359890) |
 | Sun, 07 Dec 2025 13:34:55 GMT | Report VAPT TryHackMe : Intrusion Detection | Dimas Abimoza | [Read More](https://medium.com/p/fb6ae6ead30a) |
 | Sun, 07 Dec 2025 13:25:33 GMT | ️ Privacy’s Jargon Jungle: Decoding the Lingo Without Losing Your Mind (or Your Data!) | Likitha Reddy | [Read More](https://medium.com/p/9fae27cbbb72) |
 | Sun, 07 Dec 2025 13:24:35 GMT | Why Smart Cybersecurity Professionals Still Fail Their Exams | Muhammad Haider Tallal | [Read More](https://medium.com/p/7d66203bf961) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 07:42:36 GMT | Seen in Places I’m Not Known | Trina Chariz | [Read More](https://medium.com/p/596e362e62dc) |
 | Sun, 07 Dec 2025 07:27:16 GMT | D365 FO Connectivity with Sentinel Tools for capturing security Events & Logs | Shayan Arshi | [Read More](https://medium.com/p/180a85b35f1a) |
 | Sun, 07 Dec 2025 07:08:08 GMT | There’s More Happening Than You See — Here’s What Clients Often Don’t Know About Our Work | Fook Hwa Tan | [Read More](https://medium.com/p/280849fc9eb8) |
-| Sun, 07 Dec 2025 07:06:56 GMT | Client FAQ Series: Why We Recommend Restore-First Drills (RTO/RPO) You Asked, We Explained: Why… | Fook Hwa Tan | [Read More](https://medium.com/p/2098c384b272) |
-| Sun, 07 Dec 2025 07:03:56 GMT | Ghost in the Radar: How We Used Modat Magnify to Watch the Watchers | hacker_might | [Read More](https://medium.com/p/0c59139bbe8a) |
-| Sun, 07 Dec 2025 07:03:46 GMT | Pentest Reporting Toolkit: Tools, Templates & Formats That Get Read (and Acted On) | Very Lazy Tech | [Read More](https://medium.com/p/55019fcf5362) |
-| Sun, 07 Dec 2025 06:51:18 GMT | The Ultimate OSINT Guide: Essential Tools for Phone Number Investigation | eRRoR | [Read More](https://medium.com/p/be1924ddf578) |
-| Sun, 07 Dec 2025 06:51:05 GMT | Hackers Used a Cheap Air Purifier to Hijack an Entire Company — Yes, Really | Noel | [Read More](https://medium.com/p/afb3d067e85f) |
-| Sun, 07 Dec 2025 06:45:29 GMT | Why Your Past Skills Are Your Greatest Career Accelerator | Andrew Keitany | [Read More](https://medium.com/p/6a980bff43cd) |
-| Sun, 07 Dec 2025 06:41:03 GMT | IDOR — Santa’s Little IDOR | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/049e1f154e8e) |
-| Sun, 07 Dec 2025 06:34:59 GMT | BRICKSTORM Episode 1: A Technical Deep Dive into UNC5221’s Latest Linux Backdoor | Mohammad Heading | [Read More](https://medium.com/p/c8c8018c1d76) |
-| Sun, 07 Dec 2025 06:30:47 GMT | Advanced Search Techniques for Exposed Information — By Reju Kole | Reju Kole | [Read More](https://medium.com/p/348264b00fb4) |
-| Sun, 07 Dec 2025 06:30:47 GMT | Boost Your Account Success with PVACreator's Automation Tools | Tasnimzara | [Read More](https://medium.com/p/694bc504b534) |
-| Sun, 07 Dec 2025 06:25:57 GMT | CloudSEK Security Research Hiring CTF @BSides Vizag | Barath P | [Read More](https://medium.com/p/706e9b11688b) |
-| Sun, 07 Dec 2025 06:18:32 GMT | Breaking the Perimeter: How My Custom Python Tool Bypassed a Federal Firewall | Nmullenski | [Read More](https://medium.com/p/86b2db874812) |
-| Sun, 07 Dec 2025 06:11:07 GMT | Cyber security online training with certification in India | cyber security Updates | [Read More](https://medium.com/p/38c8221db2c8) |
-| Sun, 07 Dec 2025 06:02:32 GMT | Washington Turns on Europe: Trump Backs Nationalists and Pushes NATO Burden Shift | Vic Langston | [Read More](https://medium.com/p/a77068ba4aa6) |
-| Sun, 07 Dec 2025 06:00:29 GMT | Future-Proof Products with Cybersecurity — A Strategic Imperative for the ASEAN Digital Economy | David SEHYEON Baek | [Read More](https://medium.com/p/93aeb7462cab) |
