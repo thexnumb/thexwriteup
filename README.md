@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 14:31:27 GMT | Achieve your GCP Professional Cloud Security Engineer Certification (PCSE) in 2026 | vinayreddyguda | [Read More](https://medium.com/p/a09e577055b2) |
+| Sun, 07 Dec 2025 14:27:41 GMT | Advent of Cyber 25 — Day 6 — Malware Analysis — Egg-xecutable | cybertactic | [Read More](https://medium.com/p/d0864eb0d9c6) |
+| Sun, 07 Dec 2025 14:18:36 GMT | Complete Guide to Penetration Testing Domains: Web, Network, Cloud, Mobile & More | Dhanush N | [Read More](https://medium.com/p/66834579378b) |
+| Sun, 07 Dec 2025 14:10:34 GMT | How a Fake Notification Can Give a Hacker Access — And How to Protect Yourself | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/cd11fcd27ef2) |
+| Sun, 07 Dec 2025 14:08:18 GMT | Wonderland THM CTF Walkthrough | Nissan Subedi | [Read More](https://medium.com/p/3e825bfc1176) |
+| Sun, 07 Dec 2025 14:06:15 GMT | Cyber Paths & Second Chances: Why Tech Careers Are Changing Lives | cyberpathsfundraisingcup | [Read More](https://medium.com/p/bd0762199ea4) |
 | Sun, 07 Dec 2025 14:06:12 GMT | Day 1 — Preparing for the Security Engineer Role: Back to the Basics | NineTales | [Read More](https://medium.com/p/31e3d8d01d1b) |
 | Sun, 07 Dec 2025 14:06:01 GMT | ⚛️ Bulletproof Undo/Redo in React — Commands, Immer Patches, Grouping, and Persistence ↩️↪️ | Developer | [Read More](https://medium.com/p/8ed076c29a53) |
 | Sun, 07 Dec 2025 14:03:01 GMT | Getting Started with OT Security: The Attacker’s Mindset — Intro to OT Penetration Testing (Part 4) | aravind0x7 | [Read More](https://medium.com/p/2ff67134bf86) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 07:54:11 GMT | Memahami Apa Itu Denial of Service | Reyza Maulana Putra | [Read More](https://medium.com/p/608317715b12) |
 | Sun, 07 Dec 2025 07:53:15 GMT | Why Genuine Keys Ensure Better Performance & Security | Lana Peterson | [Read More](https://medium.com/p/94f230cc61e5) |
 | Sun, 07 Dec 2025 07:50:14 GMT | Part 11 — “The Shocking Truth: Quantum AI Is Already Here… And It Might Replace Half of Today’s… | Mr. Richie Gunawan | [Read More](https://medium.com/p/897678f44d83) |
-| Sun, 07 Dec 2025 07:50:13 GMT | India Lost ₹22,845 CRORE to Cyber Fraud in 2024 — and 2025 Has Become Even Worse. | Juned Silavat | [Read More](https://medium.com/p/c18567d7f866) |
-| Sun, 07 Dec 2025 07:48:20 GMT | Breaking Down CVE-2025–55182 & CVE-2025–66478 — And How I Built React2Shell and Cracked a… | LETCHU PKT | [Read More](https://medium.com/p/a8377e5af5b8) |
-| Sun, 07 Dec 2025 07:43:08 GMT | Week 2 of My Learning-in-Public Journey: Cloud, Cybersecurity & Chess | Ugosam | [Read More](https://medium.com/p/54bd55210968) |
-| Sun, 07 Dec 2025 07:42:36 GMT | Seen in Places I’m Not Known | Trina Chariz | [Read More](https://medium.com/p/596e362e62dc) |
-| Sun, 07 Dec 2025 07:27:16 GMT | D365 FO Connectivity with Sentinel Tools for capturing security Events & Logs | Shayan Arshi | [Read More](https://medium.com/p/180a85b35f1a) |
-| Sun, 07 Dec 2025 07:08:08 GMT | There’s More Happening Than You See — Here’s What Clients Often Don’t Know About Our Work | Fook Hwa Tan | [Read More](https://medium.com/p/280849fc9eb8) |
