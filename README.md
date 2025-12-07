@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 21:16:30 GMT | How I found the $5,730 business logic flaw | Ibtissam | [Read More](https://medium.com/p/f8fe322f9930) |
+| Sun, 07 Dec 2025 21:15:32 GMT | Top Companies to Recover Lost Bitcoin Optimistic Hacker Gaius: Is The Best Crypto Asset Recovery… | John Elijah | [Read More](https://medium.com/p/adf2f52c75b9) |
+| Sun, 07 Dec 2025 21:09:25 GMT | Memory Forensic vs EDR — Talk | Dean | [Read More](https://medium.com/p/b477b6ceaf05) |
 | Sun, 07 Dec 2025 21:06:53 GMT | Understanding HIPAA Compliance for Software Engineers | Sungjin Yoo | [Read More](https://medium.com/p/7f0dedfc20a8) |
 | Sun, 07 Dec 2025 21:04:52 GMT | A Deep Dive into Timing Attacks, IP Spoofing, and Race Conditions, the Hidden Vulnerabilities in… | EDMOND GIHOZO | [Read More](https://medium.com/p/897ca04e339d) |
 | Sun, 07 Dec 2025 20:45:47 GMT | The Future Has Arrived. What Should We Do Now? | Serdar ALKAN | [Read More](https://medium.com/p/2515ce56fc7e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 14:18:36 GMT | Complete Guide to Penetration Testing Domains: Web, Network, Cloud, Mobile & More | Dhanush N | [Read More](https://medium.com/p/66834579378b) |
 | Sun, 07 Dec 2025 14:14:53 GMT | Görünmez Tehlike: Akıllı Sözleşmeler ve %51 Saldırıları | Nurefşan H. | [Read More](https://medium.com/p/4e3bd5e84ae4) |
 | Sun, 07 Dec 2025 14:10:34 GMT | How a Fake Notification Can Give a Hacker Access — And How to Protect Yourself | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/cd11fcd27ef2) |
-| Sun, 07 Dec 2025 14:08:18 GMT | Wonderland THM CTF Walkthrough | Nissan Subedi | [Read More](https://medium.com/p/3e825bfc1176) |
-| Sun, 07 Dec 2025 14:06:15 GMT | Cyber Paths & Second Chances: Why Tech Careers Are Changing Lives | cyberpathsfundraisingcup | [Read More](https://medium.com/p/bd0762199ea4) |
-| Sun, 07 Dec 2025 14:06:12 GMT | Day 1 — Preparing for the Security Engineer Role: Back to the Basics | NineTales | [Read More](https://medium.com/p/31e3d8d01d1b) |
