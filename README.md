@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 17:15:37 GMT | The Dark Web Data Goldmine: How I Found My Company’s Leaked Credentials Before the Bad Guys Did (… | Iski | [Read More](https://medium.com/p/4518890c8fa6) |
+| Sun, 07 Dec 2025 17:05:54 GMT | Top Insurance Tips Every Small Business Should Know | Lilyparker | [Read More](https://medium.com/p/b5f0f525e8b5) |
+| Sun, 07 Dec 2025 17:04:49 GMT | Fake CAPTCHA: leading to compromised systems | Ansh Verma | [Read More](https://medium.com/p/ebd9a4dc1646) |
+| Sun, 07 Dec 2025 17:04:22 GMT | Fish It! Script — Free Keyless Roblox Exploit (Updated) | ROBLOX FREE SCRIPTS | [Read More](https://medium.com/p/7ac45e0d90f6) |
+| Sun, 07 Dec 2025 17:00:32 GMT | Passphrases: The Simple, Strong Password Upgrade Everyone Should Use in 2026 | Itsmejij | [Read More](https://medium.com/p/980cfa66f8a4) |
+| Sun, 07 Dec 2025 17:00:23 GMT | Advent of Cyber 2025: Full Walkthrough P1 | Motasem Hamdan | [Read More](https://medium.com/p/ba06781e416b) |
+| Sun, 07 Dec 2025 16:59:44 GMT | Membongkar Intrusion Detection: CTF Evasion dan Analisis IDS/HIDS | Zarkasi | [Read More](https://medium.com/p/73c26141ca87) |
+| Sun, 07 Dec 2025 16:59:35 GMT | Understanding Threats, System Vulnerabilities, Risks, Impacts and How to Assess The Severity of An… | Lutsvia | [Read More](https://medium.com/p/97240025a8ad) |
+| Sun, 07 Dec 2025 16:58:28 GMT | Analysing Packets with Wireshark: A Practical and Personal Walkthrough of the Tasks I performed and | Victor Nkereuwem | [Read More](https://medium.com/p/43853ec165d9) |
+| Sun, 07 Dec 2025 16:57:09 GMT | A Major Next.js Security Issue Explained Simply (CVE-2025–66478) | Stalin | [Read More](https://medium.com/p/674b56f55f79) |
+| Sun, 07 Dec 2025 16:56:35 GMT | When Paper Files Cost Lives: Why Digital Crime Reporting Can’t Wait | Pereznkunda | [Read More](https://medium.com/p/8361abb1d93c) |
+| Sun, 07 Dec 2025 16:51:11 GMT | Cyber Etiquette: How to Communicate Professionally Online | Financialanalytics | [Read More](https://medium.com/p/9bae9cf5baaf) |
+| Sun, 07 Dec 2025 16:48:35 GMT | WHEN THE HEART BLED: HEARTBLEED EXPLOIT | Vishal | [Read More](https://medium.com/p/a013662f734d) |
+| Sun, 07 Dec 2025 16:46:32 GMT | Advent of Cyber 2025 - Day 7: Network Discovery — Scan-ta Clause | D4m.sh | [Read More](https://medium.com/p/1baadf8eb628) |
 | Sun, 07 Dec 2025 16:40:15 GMT | The Complete Guide to MAC Spoofing: Changing Your Digital Fingerprint | Ajmir khan | [Read More](https://medium.com/p/af82b3f92520) |
 | Sun, 07 Dec 2025 16:33:30 GMT | Azure Sentinel Map Project - ¿Qué aprendí? | Lexie | [Read More](https://medium.com/p/e5cbc968e0a0) |
 | Sun, 07 Dec 2025 16:33:05 GMT | The Mistake That Made Me Fall in Love With Cybersecurity | Mubashir | [Read More](https://medium.com/p/ed620c1af1bd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 11:12:22 GMT | Google Antigravity Felaketi ve 2025 Agentic AI Çağı | HSD Gaziantep Üniversitesi | [Read More](https://medium.com/p/d67ae71f26ab) |
 | Sun, 07 Dec 2025 11:04:51 GMT | Nibbles Hack The Box Walkthrough | Zer0 | [Read More](https://medium.com/p/873d11d0c02f) |
 | Sun, 07 Dec 2025 11:01:42 GMT | Which OPPO A38 Settings Give the Best Camera Photos and Selfies? | Ella Walker | [Read More](https://medium.com/p/7a03c2336f29) |
-| Sun, 07 Dec 2025 10:58:58 GMT | Hackers Are Using Telegram More Than the Dark Web — Here’s Why | Suhani | [Read More](https://medium.com/p/4475190407fa) |
-| Sun, 07 Dec 2025 10:57:21 GMT | Find Security Companies Near Downtown Toronto | Square Security Inc. | [Read More](https://medium.com/p/949c8449749b) |
-| Sun, 07 Dec 2025 10:48:44 GMT | The IDEsaster Inside Your Screen: How AI Coding Tools Can Hack You Without You Noticing | Germano Costi | [Read More](https://medium.com/p/a642bd7c0b7f) |
-| Sun, 07 Dec 2025 10:46:27 GMT | Which Vivo Y81 Variant Should You Pick in 2025? | Zara Everly | [Read More](https://medium.com/p/a2e94e9dc0f1) |
-| Sun, 07 Dec 2025 10:46:24 GMT | How Cyber Investigators Track Criminals on the Dark Web (Explained Simply) | ForNext | [Read More](https://medium.com/p/95521221eea5) |
-| Sun, 07 Dec 2025 10:36:35 GMT | Which Vivo Y21e Camera Features Are Best for Photography Lovers? | Pimrada Thavorn | [Read More](https://medium.com/p/113fa7a1f2be) |
-| Sun, 07 Dec 2025 10:32:12 GMT | Password Attacks Explained: Brute Force vs Password Spraying | Natarajan C K | [Read More](https://medium.com/p/cb870b3aa676) |
-| Sun, 07 Dec 2025 10:30:47 GMT | Ethical Technology Use for Human Welfare | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/c626411abe6c) |
-| Sun, 07 Dec 2025 10:27:43 GMT | 5 Hard Truths About AI Pentest Agents vs Humans | Pentest_Testing_Corp | [Read More](https://medium.com/p/0f6e4b05a816) |
-| Sun, 07 Dec 2025 10:27:11 GMT | Breaking Past 403: A Deep Dive into Out-of-Band SQL Injection Discovery | RyuuKhagetsu | [Read More](https://medium.com/p/f4acbcbabe7c) |
-| Sun, 07 Dec 2025 10:20:48 GMT | The AM Dead Zone | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/d30d1718629b) |
-| Sun, 07 Dec 2025 10:13:17 GMT | Why Your ISP Proxies Still Get Flagged (And How to Fix the Setup) | EtherShade | [Read More](https://medium.com/p/e387580e7a79) |
-| Sun, 07 Dec 2025 10:07:27 GMT | Server-Side Request Forgery (SSRF): From Ping to RCE | Abhishek meena | [Read More](https://medium.com/p/6ac95bf4e489) |
-| Sun, 07 Dec 2025 09:59:49 GMT | Critical bug in production ? Think like The Wolf in Pulp Fiction | Saad | [Read More](https://medium.com/p/0a319d8ff263) |
