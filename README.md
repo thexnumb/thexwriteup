@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 09:14:19 GMT | A Massive Data Leak in India: How a Government Website Failed Millions | Yukeshwaran N | [Read More](https://medium.com/p/d8c795f3ecce) |
+| Sun, 07 Dec 2025 09:07:48 GMT | The “Nil” Value That Stopped the Web: Inside Cloudflare’s Dec 5, 2025 Outage | Satvik Tripathi | [Read More](https://medium.com/p/429be3d184ff) |
+| Sun, 07 Dec 2025 09:05:09 GMT | How to Use Datacenter Proxies Safely in Long-Term Monitoring | CoinZephyr | [Read More](https://medium.com/p/d8190de0c89c) |
+| Sun, 07 Dec 2025 09:02:13 GMT | When Gambling Turns into Human Tragedy | chel writes | [Read More](https://medium.com/p/a92ba73f1140) |
+| Sun, 07 Dec 2025 09:02:13 GMT | Turn On Domain Leak Alerts And 24/7 Stealer Log Monitoring With LeakRadar In 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/adeeb5fc81d3) |
+| Sun, 07 Dec 2025 08:57:02 GMT | THE COMPLETE GUIDE TO X (TWITTER) MONETIZATION & PAYOUT SYSTEM | Aman Yadav | [Read More](https://medium.com/p/99c1e41ebb8e) |
+| Sun, 07 Dec 2025 08:56:37 GMT | Editor — A HackTheBox Writeup | 0x77 | [Read More](https://medium.com/p/0217b518681b) |
+| Sun, 07 Dec 2025 08:55:45 GMT | Conquering the Network: My Hackviser CAPT Nmap Final Exam Write-up | Mukilan Baskaran | [Read More](https://medium.com/p/08bd7560a08f) |
+| Sun, 07 Dec 2025 08:55:38 GMT | Proteggere le Credenziali AWS e GitHub sui Laptop degli Sviluppatori: un Approccio SecOps e OpSec… | Saverio M. | [Read More](https://medium.com/p/b3a520ebeab3) |
+| Sun, 07 Dec 2025 08:52:24 GMT | Enhance Security with PVACreator: Efficient Bulk Account Automation | Homaakther | [Read More](https://medium.com/p/3246569c3b45) |
+| Sun, 07 Dec 2025 08:51:12 GMT | Advent of Cyber Prep Track | Mukilan Baskaran | [Read More](https://medium.com/p/6688385413cd) |
+| Sun, 07 Dec 2025 08:49:47 GMT | The Day I Caught a Rogue ISM Signal Coming From an IoT Sensor — And What It Taught Me | Michael Preston | [Read More](https://medium.com/p/8855b31d5138) |
+| Sun, 07 Dec 2025 08:46:54 GMT | Beyond the Green Terminal: The Art of Modern Reconnaissance | Santhosh Adiga U | [Read More](https://medium.com/p/5d6dab288ee2) |
 | Sun, 07 Dec 2025 08:45:18 GMT | Bug Bounty Hunting — Complete Guide (Part-157) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/7f9f713cd555) |
 | Sun, 07 Dec 2025 08:44:41 GMT | Bug Bounty Hunting — Complete Guide (Part-156) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/7af5134ac845) |
 | Sun, 07 Dec 2025 08:36:39 GMT | The Great Balancing Act: Why Security Always Needs a Compromise (or, The CIA Triad Tussle) | Mainak Biswas | [Read More](https://medium.com/p/a465e05b0aad) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 20:56:06 GMT | “Eval is Evil”: Why You Should Never Store Code in a Database | Vijay Khot | [Read More](https://medium.com/p/955fb3cfa4cf) |
 | Sat, 06 Dec 2025 20:55:58 GMT | Building LogGuard: A High-Performance Log Sanitizer for Flutter Using Rust FFI | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/ea3ba84aa7ea) |
 | Sat, 06 Dec 2025 20:55:44 GMT | The Key to Security: Why You Need to Generate a Strong Password Right Now | FreeAllToolsSite | [Read More](https://medium.com/p/215468993f93) |
-| Sat, 06 Dec 2025 20:40:56 GMT | Cloud Security Best Practices for 2025 | Josephdisi | [Read More](https://medium.com/p/7feb4d1a7e0b) |
-| Sat, 06 Dec 2025 20:39:55 GMT | How Quantum Computers Break Encryption: Shor’s Algorithm Demystified | CS | [Read More](https://medium.com/p/37ad7c3ea61b) |
-| Sat, 06 Dec 2025 20:31:21 GMT | Writeup: TryHackMe Advent of Cyber Prep Track 2025 | Rabia Riaz | [Read More](https://medium.com/p/9e1fe36d881d) |
-| Sat, 06 Dec 2025 20:25:33 GMT | React 2025 CVSS 10 Vulnerability: RSC Supply-Chain Risks Explained | Aabir Hassan | [Read More](https://medium.com/p/1e52de3cea99) |
-| Sat, 06 Dec 2025 20:16:42 GMT | Tutorial Prático em Pentesting com CloudGoat (Vulnerable_Lambda) e DVWA (API Security) | Bruno M. F. da Silva | [Read More](https://medium.com/p/a598a85e17d0) |
-| Sat, 06 Dec 2025 20:08:26 GMT | RogueNim: Modern Malware Development Tradecrafts | Mr_MalMan | [Read More](https://medium.com/p/0f8fbda4d892) |
-| Sat, 06 Dec 2025 20:08:20 GMT | Packet Puzzle Write up · Hack The box Sherlock | Raymond Marweslie | [Read More](https://medium.com/p/d5e523fcb48f) |
-| Sat, 06 Dec 2025 20:02:58 GMT | From VulnFeed to Onyx: The Next Generation of Vulnerability Intelligence | shresth paul | [Read More](https://medium.com/p/f2358fb8cf7c) |
-| Sat, 06 Dec 2025 19:57:15 GMT | Building a Phishing URL Scanner with Python | Obioma Felicity Uzoh | [Read More](https://medium.com/p/6fa7b285999d) |
-| Sat, 06 Dec 2025 19:56:57 GMT | Why Your Government Can’t Protect You Anymore | Adrian Mercer | [Read More](https://medium.com/p/5099c6697fb9) |
-| Sat, 06 Dec 2025 19:50:41 GMT | The First Commandment of Pentesting: Mastering Nmap for Reconnaissance | Widson Ambaisi | [Read More](https://medium.com/p/b197bb9f3267) |
-| Sat, 06 Dec 2025 19:47:45 GMT | The Best AI Tools for GRC and Risk Management in 2026 | Neviar Rawlinson, MBA | [Read More](https://medium.com/p/a9df174e103a) |
-| Sat, 06 Dec 2025 19:39:11 GMT | Seeds of Innovation, Fields of Risk: Cybersecurity in Agriculture | Buğra Bilginsoy | [Read More](https://medium.com/p/7cc085637dc1) |
