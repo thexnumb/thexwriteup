@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 17:36:54 GMT | How a Botnet Tried to Infect My Server — and How Docker Saved Me | Manpreetsingh | [Read More](https://medium.com/p/9f5e8c8dd0d1) |
+| Sun, 07 Dec 2025 17:30:43 GMT | Day 125 — Narnia OverTheWire Level-0 | Jinay | [Read More](https://medium.com/p/aa2a35ff1d67) |
+| Sun, 07 Dec 2025 17:27:03 GMT | Wazuh System Inventory: Services, Ports, and Protocols | Ismail Hakim | [Read More](https://medium.com/p/f0952719c57b) |
 | Sun, 07 Dec 2025 17:15:37 GMT | The Dark Web Data Goldmine: How I Found My Company’s Leaked Credentials Before the Bad Guys Did (… | Iski | [Read More](https://medium.com/p/4518890c8fa6) |
+| Sun, 07 Dec 2025 17:15:08 GMT | Fear of the Walking Zig: The Security Audit Gap | Krzyś | [Read More](https://medium.com/p/707aec6ceb92) |
+| Sun, 07 Dec 2025 17:11:22 GMT | Stay Ahead of Cybersecurity Threats by Acknowledging These “Must-Know” Terms | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/b40a5faf1964) |
+| Sun, 07 Dec 2025 17:07:24 GMT | [CyberDefenders Write-up] BumbleSting (Bumblebee leads to domain compromised and Conti ransomware) | Chicken0248 | [Read More](https://medium.com/p/19d31a27c907) |
 | Sun, 07 Dec 2025 17:05:54 GMT | Top Insurance Tips Every Small Business Should Know | Lilyparker | [Read More](https://medium.com/p/b5f0f525e8b5) |
 | Sun, 07 Dec 2025 17:04:49 GMT | Fake CAPTCHA: leading to compromised systems | Ansh Verma | [Read More](https://medium.com/p/ebd9a4dc1646) |
 | Sun, 07 Dec 2025 17:04:22 GMT | Fish It! Script — Free Keyless Roblox Exploit (Updated) | ROBLOX FREE SCRIPTS | [Read More](https://medium.com/p/7ac45e0d90f6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 12:11:00 GMT | Zero-Downtime Secrets Rotation for Laravel | Ali | [Read More](https://medium.com/p/f727db307361) |
 | Sun, 07 Dec 2025 12:01:27 GMT | Burp Suite Nedir ve Nasıl Kullanılır? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/ae68708642b0) |
 | Sun, 07 Dec 2025 12:00:56 GMT | The npm Paradox: How Convenience Became Our Biggest Security Risk | AT | [Read More](https://medium.com/p/8524c9c603ff) |
-| Sun, 07 Dec 2025 11:34:47 GMT | How Long Does Vivo V15 Pro Battery Really Last on Heavy Use? | Elowen Virelle | [Read More](https://medium.com/p/b79852b054fd) |
-| Sun, 07 Dec 2025 11:25:45 GMT | Can OPPO A18’s 50 MP Camera Deliver Good Photos in Real Life? | Luna Collins | [Read More](https://medium.com/p/28cd4c5836cc) |
-| Sun, 07 Dec 2025 11:24:00 GMT | React Native New Architecture Vs Old Architecture (2025 Guide) | TechByRahmat | [Read More](https://medium.com/p/aaf0058b1454) |
-| Sun, 07 Dec 2025 11:12:22 GMT | Google Antigravity Felaketi ve 2025 Agentic AI Çağı | HSD Gaziantep Üniversitesi | [Read More](https://medium.com/p/d67ae71f26ab) |
-| Sun, 07 Dec 2025 11:04:51 GMT | Nibbles Hack The Box Walkthrough | Zer0 | [Read More](https://medium.com/p/873d11d0c02f) |
-| Sun, 07 Dec 2025 11:01:42 GMT | Which OPPO A38 Settings Give the Best Camera Photos and Selfies? | Ella Walker | [Read More](https://medium.com/p/7a03c2336f29) |
