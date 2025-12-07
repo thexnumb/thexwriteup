@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 07:27:16 GMT | D365 FO Connectivity with Sentinel Tools for capturing security Events & Logs | Shayan Arshi | [Read More](https://medium.com/p/180a85b35f1a) |
 | Sun, 07 Dec 2025 07:08:08 GMT | There’s More Happening Than You See — Here’s What Clients Often Don’t Know About Our Work | Fook Hwa Tan | [Read More](https://medium.com/p/280849fc9eb8) |
 | Sun, 07 Dec 2025 07:06:56 GMT | Client FAQ Series: Why We Recommend Restore-First Drills (RTO/RPO) You Asked, We Explained: Why… | Fook Hwa Tan | [Read More](https://medium.com/p/2098c384b272) |
 | Sun, 07 Dec 2025 07:03:56 GMT | Ghost in the Radar: How We Used Modat Magnify to Watch the Watchers | hacker_might | [Read More](https://medium.com/p/0c59139bbe8a) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 18:35:23 GMT | Falling for the Feeling, Not Just the Person | Naureen S. | [Read More](https://medium.com/p/00cf51d80236) |
 | Sat, 06 Dec 2025 18:32:04 GMT | Explanation of Threat, Vulnerability, Risk, Impact, Severity, and CVSS | Habibi | [Read More](https://medium.com/p/028d6486d65e) |
 | Sat, 06 Dec 2025 18:18:06 GMT | CCNA Networking Fundamentals — A Beginner Friendly Guide | Lakshay Nimwal | [Read More](https://medium.com/p/adb796e68798) |
-| Sat, 06 Dec 2025 18:16:21 GMT | Breaking Down the Next.js RCE a critical vulnerability, CVE-2025–55182 (React2Shell) | Abdmaleek | [Read More](https://medium.com/p/d390e72eaa32) |
