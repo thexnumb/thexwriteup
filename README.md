@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 20:16:31 GMT | Only XSS? Here’s How Hackers Still Get In | karincayiyen | [Read More](https://medium.com/p/8e632a23803c) |
+| Sun, 07 Dec 2025 20:15:02 GMT | Security Culture Is the Only Way Forward | Kay Adelaja | [Read More](https://medium.com/p/3e93d0c4acc5) |
+| Sun, 07 Dec 2025 20:12:53 GMT | What ML Practitioners Really Think About Privacy & Security: Insights from a Practitioner’s Study | Tanishka Mali | [Read More](https://medium.com/p/1a9ad24ca701) |
+| Sun, 07 Dec 2025 20:08:50 GMT | SnakeKeylogger: A Deep Dive into a Modern Infostealer | MalwareDoctor | [Read More](https://medium.com/p/e48a79cde7d1) |
+| Sun, 07 Dec 2025 20:08:39 GMT | ️ Vegeta1 — Complete Walkthrough (Fun, Clear & Knowledge-Packed!) | IshhIshneet | [Read More](https://medium.com/p/261e3b19fd77) |
+| Sun, 07 Dec 2025 19:59:12 GMT | Your Next Hacker Might Not Be Human | Czarif | [Read More](https://medium.com/p/98626c48e5b5) |
+| Sun, 07 Dec 2025 19:57:30 GMT | Ukraine’s Hackers Hit Russia Harder Than Any Missile Could | Lucian Marek | [Read More](https://medium.com/p/ccba9e43c346) |
+| Sun, 07 Dec 2025 19:55:28 GMT | Ghost in the Machine: Why We’re Storing Data in Sound Waves Instead of Silicon | CHENURA OSHADA | [Read More](https://medium.com/p/f274b0757e4b) |
+| Sun, 07 Dec 2025 19:47:28 GMT | HTB: Mirage Writeup | CravateRouge | [Read More](https://medium.com/p/f994c0600318) |
+| Sun, 07 Dec 2025 19:44:19 GMT | ZoreonX: The New Standard in Intelligent Crypto Investing | Oviela | [Read More](https://medium.com/p/0c5ff53821e2) |
+| Sun, 07 Dec 2025 19:36:01 GMT | Why 'Prompt Engineering' Was a Fad, But 'AI Operations' is the Future of Web Design | Michael Xeus | [Read More](https://medium.com/p/e90e387b067a) |
 | Sun, 07 Dec 2025 19:25:44 GMT | FORTIGATE GEÇİŞİ 01.08 SD-WAN, Virtual Server yapılandırması ile Load Balance | Ziya DENİZ | [Read More](https://medium.com/p/2449359364ae) |
 | Sun, 07 Dec 2025 19:24:28 GMT | My Development Week: Building Secure Flutter Apps & Desktop Tools | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/c66b85e5ceca) |
 | Sun, 07 Dec 2025 19:09:26 GMT | Detecting Web DDoS - TryHackMe Room Walkthrough | Crypt0K33p3r | [Read More](https://medium.com/p/4c7528a07908) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 13:53:30 GMT | Ethical Bitcoin Hacker For Hire By Wizard Larry Recovery Experts | Sally Bico | [Read More](https://medium.com/p/d9833f10c590) |
 | Sun, 07 Dec 2025 13:46:48 GMT | All about Electric Fencing in South Africa | Safety & Security | [Read More](https://medium.com/p/a7cda4f54da4) |
 | Sun, 07 Dec 2025 13:45:00 GMT | Phishing Attack Workflow | Aakash Rajput | [Read More](https://medium.com/p/fef0735782a9) |
-| Sun, 07 Dec 2025 13:44:25 GMT | Metasploitable 3 (Windows) Write-up — Part VIII: Port 4848 — GlassFish Admin Console Weak… | Kalash Kundaliya | [Read More](https://medium.com/p/24c277965014) |
-| Sun, 07 Dec 2025 13:42:00 GMT | The Great Digital Eavesdrop: A Witty Guide to Privacy Basics | Likitha Reddy | [Read More](https://medium.com/p/9818a195edc8) |
-| Sun, 07 Dec 2025 13:36:48 GMT | Cyber Kill Chain Methodology (Siber Öldürme Zinciri Metodolojisi) | Hümeyra Göray | [Read More](https://medium.com/p/597daf359890) |
-| Sun, 07 Dec 2025 13:34:55 GMT | Report VAPT TryHackMe : Intrusion Detection | Dimas Abimoza | [Read More](https://medium.com/p/fb6ae6ead30a) |
-| Sun, 07 Dec 2025 13:25:33 GMT | ️ Privacy’s Jargon Jungle: Decoding the Lingo Without Losing Your Mind (or Your Data!) | Likitha Reddy | [Read More](https://medium.com/p/9fae27cbbb72) |
-| Sun, 07 Dec 2025 13:24:35 GMT | Why Smart Cybersecurity Professionals Still Fail Their Exams | Muhammad Haider Tallal | [Read More](https://medium.com/p/7d66203bf961) |
-| Sun, 07 Dec 2025 13:24:07 GMT | Introduction to Python for Pentesters | Aj | [Read More](https://medium.com/p/f49ac1b79f4f) |
-| Sun, 07 Dec 2025 13:21:49 GMT | “A bug bounty hunter reveals how cybersecurity mirrors the universe — from black holes to hidden… | ghostyjoe | [Read More](https://medium.com/p/bf1dd0e6e819) |
-| Sun, 07 Dec 2025 13:20:18 GMT | Malware Analysis — Egg-xecutable - AoC 2025 Day -6 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/7e1959a0ca99) |
-| Sun, 07 Dec 2025 13:16:07 GMT | IDOR — Santa’s Little IDOR - AoC 2025 Day -5 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/09c4f4473c66) |
-| Sun, 07 Dec 2025 13:01:56 GMT | Riding the Zero-Day Storm: Defense in depth Wins | Pranieth Chandrasekara | [Read More](https://medium.com/p/bcfbc7a6ffaa) |
