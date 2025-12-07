@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 15:32:54 GMT | TryHackMe Mustacchio Writeup | Gothos | [Read More](https://medium.com/p/e99515ab6364) |
+| Sun, 07 Dec 2025 15:28:40 GMT | How We Stopped a Crypto-Mining Attack on One of Our Servers | Ramadhani Baharzah | [Read More](https://medium.com/p/3a564365a77b) |
+| Sun, 07 Dec 2025 15:25:14 GMT | React2Shell (CVE-2025–55182) | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/c96f154fe90d) |
+| Sun, 07 Dec 2025 15:12:14 GMT | Anthem Room Tryhackme Walkthroughs | Mainekhacker | [Read More](https://medium.com/p/7413e52cd05f) |
 | Sun, 07 Dec 2025 15:11:08 GMT | AI Threat Intelligence Briefing (November 24, 2025 — December 08, 2025) | SUND | [Read More](https://medium.com/p/1a8d4b7694db) |
 | Sun, 07 Dec 2025 15:08:56 GMT | Secure Your Website With Free SSL on Nginx Using Certbot | Nayan Kunwar | [Read More](https://medium.com/p/9fbcc1dcfd85) |
 | Sun, 07 Dec 2025 15:03:44 GMT | Stop Pasting Your Passwords Into Random Websites. Yes, Really. | David C. | [Read More](https://medium.com/p/2a285da458a4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 08:55:45 GMT | Conquering the Network: My Hackviser CAPT Nmap Final Exam Write-up | Mukilan Baskaran | [Read More](https://medium.com/p/08bd7560a08f) |
 | Sun, 07 Dec 2025 08:55:38 GMT | Proteggere le Credenziali AWS e GitHub sui Laptop degli Sviluppatori: un Approccio SecOps e OpSec… | Saverio M. | [Read More](https://medium.com/p/b3a520ebeab3) |
 | Sun, 07 Dec 2025 08:52:24 GMT | Enhance Security with PVACreator: Efficient Bulk Account Automation | Homaakther | [Read More](https://medium.com/p/3246569c3b45) |
-| Sun, 07 Dec 2025 08:51:12 GMT | Advent of Cyber Prep Track | Mukilan Baskaran | [Read More](https://medium.com/p/6688385413cd) |
-| Sun, 07 Dec 2025 08:49:47 GMT | The Day I Caught a Rogue ISM Signal Coming From an IoT Sensor — And What It Taught Me | Michael Preston | [Read More](https://medium.com/p/8855b31d5138) |
-| Sun, 07 Dec 2025 08:46:54 GMT | Beyond the Green Terminal: The Art of Modern Reconnaissance | Santhosh Adiga U | [Read More](https://medium.com/p/5d6dab288ee2) |
-| Sun, 07 Dec 2025 08:45:18 GMT | Bug Bounty Hunting — Complete Guide (Part-157) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/7f9f713cd555) |
