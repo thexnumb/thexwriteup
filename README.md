@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 08:45:18 GMT | Bug Bounty Hunting — Complete Guide (Part-157) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/7f9f713cd555) |
+| Sun, 07 Dec 2025 08:44:41 GMT | Bug Bounty Hunting — Complete Guide (Part-156) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/7af5134ac845) |
+| Sun, 07 Dec 2025 08:36:39 GMT | The Great Balancing Act: Why Security Always Needs a Compromise (or, The CIA Triad Tussle) | Mainak Biswas | [Read More](https://medium.com/p/a465e05b0aad) |
+| Sun, 07 Dec 2025 08:34:57 GMT | The Ultimate Guide to Termite Inspection and Colony Elimination with Bait Systems | Aardwolfpestkare | [Read More](https://medium.com/p/f174217de708) |
+| Sun, 07 Dec 2025 08:33:02 GMT | CVE-2025–55182: React2Shell — A Deep Dive Into the Most Critical RSC Vulnerability of 2025 — Part 1 | Raj Kumar M | [Read More](https://medium.com/p/83820591a3f4) |
+| Sun, 07 Dec 2025 08:31:28 GMT | ⭐Detailed Guide to Authentication, Authorization, Encoding, Encryption & Hashing. | Shayaan Khan | [Read More](https://medium.com/p/58a285388552) |
 | Sun, 07 Dec 2025 08:09:27 GMT | WannaCry Ransomware Attack | Malsha Hansini | [Read More](https://medium.com/p/acc3fdd31b71) |
 | Sun, 07 Dec 2025 08:02:14 GMT | A Threat Intelligence Review of a High-Risk Malicious Hash | Khaled M. | [Read More](https://medium.com/p/8ef59c9f8278) |
+| Sun, 07 Dec 2025 07:54:11 GMT | Memahami Apa Itu Denial of Service | Reyza Maulana Putra | [Read More](https://medium.com/p/608317715b12) |
 | Sun, 07 Dec 2025 07:53:15 GMT | Why Genuine Keys Ensure Better Performance & Security | Lana Peterson | [Read More](https://medium.com/p/94f230cc61e5) |
 | Sun, 07 Dec 2025 07:50:14 GMT | Part 11 — “The Shocking Truth: Quantum AI Is Already Here… And It Might Replace Half of Today’s… | Mr. Richie Gunawan | [Read More](https://medium.com/p/897678f44d83) |
 | Sun, 07 Dec 2025 07:50:13 GMT | India Lost ₹22,845 CRORE to Cyber Fraud in 2024 — and 2025 Has Become Even Worse. | Juned Silavat | [Read More](https://medium.com/p/c18567d7f866) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 19:50:41 GMT | The First Commandment of Pentesting: Mastering Nmap for Reconnaissance | Widson Ambaisi | [Read More](https://medium.com/p/b197bb9f3267) |
 | Sat, 06 Dec 2025 19:47:45 GMT | The Best AI Tools for GRC and Risk Management in 2026 | Neviar Rawlinson, MBA | [Read More](https://medium.com/p/a9df174e103a) |
 | Sat, 06 Dec 2025 19:39:11 GMT | Seeds of Innovation, Fields of Risk: Cybersecurity in Agriculture | Buğra Bilginsoy | [Read More](https://medium.com/p/7cc085637dc1) |
-| Sat, 06 Dec 2025 19:39:06 GMT | Threat Intelligence Alert! | Rafael Batista | [Read More](https://medium.com/p/bf55ac379486) |
-| Sat, 06 Dec 2025 19:35:18 GMT | The Human Firewall: A Modern Guide to Phishing Defense | Obioma Felicity Uzoh | [Read More](https://medium.com/p/5183348bb561) |
-| Sat, 06 Dec 2025 19:32:47 GMT | THREAT INTELLIGENCE REPORT: SHA1-HULUD | Rafael Bellini | [Read More](https://medium.com/p/d2e7e9f4e623) |
-| Sat, 06 Dec 2025 19:25:51 GMT | How to Access a Remote PostgreSQL Database from Your Local Machine Without Exposing Port 5432 | Apu | [Read More](https://medium.com/p/8b8ab22fa3c9) |
-| Sat, 06 Dec 2025 19:18:01 GMT | If Seatbelt Guidance Worked Like Cybersecurity Guidance | @boblord | [Read More](https://medium.com/p/01dbe8b88c96) |
-| Sat, 06 Dec 2025 19:14:15 GMT | Advent of Cyber 2025 - Day 6: Malware Analysis - Egg-xecutable | Akshat Patel | [Read More](https://medium.com/p/3e346222c640) |
-| Sat, 06 Dec 2025 19:02:15 GMT | Why 73% of AI Agents Are Vulnerable to This “Invisible” Attack | Adham Khaled | [Read More](https://medium.com/p/642ad8850ef1) |
