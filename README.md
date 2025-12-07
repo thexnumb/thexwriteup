@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 23:35:44 GMT | TLD Discovery For BugBounty | 0X0mahmoud | [Read More](https://medium.com/p/07340cf543ff) |
+| Sun, 07 Dec 2025 23:16:33 GMT | Post 3: What Actually Is Information Technology (IT)? — Sally’s Business | SattiData | [Read More](https://medium.com/p/23cbc12494b7) |
 | Sun, 07 Dec 2025 23:09:56 GMT | The Pratfall Effect: Why Your Imperfections Make You More Likeable | Insightful Savant | [Read More](https://medium.com/p/072a3dc5edd2) |
 | Sun, 07 Dec 2025 23:02:15 GMT | Public Wi-Fi is a Trap. Here’s How to Secure It for $0. | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/b3827b76f5d9) |
 | Sun, 07 Dec 2025 22:55:07 GMT | Blockchain Risks: What Project Managers and Tech Strategists Need to Know as Stablecoins Outpace… | CCL Montante | [Read More](https://medium.com/p/0385b3147515) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 15:38:50 GMT | Vibe Coding Is Not Your Junior Dev: AI Agents, No-Code Dreams, and the Security Nightmare Ahead | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/524c1ab4c906) |
 | Sun, 07 Dec 2025 15:32:54 GMT | TryHackMe Mustacchio Writeup | Gothos | [Read More](https://medium.com/p/e99515ab6364) |
 | Sun, 07 Dec 2025 15:28:40 GMT | How We Stopped a Crypto-Mining Attack on One of Our Servers | Ramadhani Baharzah | [Read More](https://medium.com/p/3a564365a77b) |
-| Sun, 07 Dec 2025 15:25:14 GMT | React2Shell (CVE-2025–55182) | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/c96f154fe90d) |
-| Sun, 07 Dec 2025 15:12:14 GMT | Anthem Room Tryhackme Walkthroughs | Mainekhacker | [Read More](https://medium.com/p/7413e52cd05f) |
