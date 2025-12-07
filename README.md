@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 03:24:19 GMT | AI Weaponization Is Easier Than We Think: The Alarming Rise of Automated Cyberattacks | Farhan Nasir | [Read More](https://medium.com/p/1c9e489c2f6e) |
+| Sun, 07 Dec 2025 03:22:11 GMT | The 72-Hour Trap: How a Fake Income Tax Notice Triggered a Full System Takeover | Deven Chhajed | [Read More](https://medium.com/p/5c62cd814068) |
+| Sun, 07 Dec 2025 02:48:31 GMT | Why Practical Men Make Better Husbands: The Truth About Marriage | XeniaAusten | [Read More](https://medium.com/p/60ccde9e32b7) |
+| Sun, 07 Dec 2025 02:47:57 GMT | The Three-Room Problem: How AI-Assisted Analysis Challenges Traditional Chip Security (And Why the… | Berend Watchus | [Read More](https://medium.com/p/0c92adf294bf) |
+| Sun, 07 Dec 2025 02:34:58 GMT | How Spammers Really Get Your Contact Info? The Brutally Honest Breakdown. | Sujith | [Read More](https://medium.com/p/9a805b0e02ab) |
+| Sun, 07 Dec 2025 02:27:20 GMT | CVE-2025–55182 — React Server Components RCE | Youaness safwat | [Read More](https://medium.com/p/499b2c306e0c) |
+| Sun, 07 Dec 2025 02:12:24 GMT | Why Laravel Loses the Authorization Header on Apache (and How to Fix It) | Fábio Pereira | [Read More](https://medium.com/p/c3e432d9bc75) |
 | Sun, 07 Dec 2025 01:35:29 GMT | Smart Embedded Network Threat Recognition Yardstick (SENTRY) | Manoranjith Anandan | [Read More](https://medium.com/p/4fe73bf38b97) |
 | Sun, 07 Dec 2025 01:21:05 GMT | The Silent Pay Cut Coming to AWS ProServe: What Employees Don’t Know Yet | Veritasxmail | [Read More](https://medium.com/p/3f6ec49406a4) |
 | Sun, 07 Dec 2025 01:19:22 GMT | Why P4 Bugs Still Pay Big in 2025: The Beginner-Friendly Bug Bounty Blueprint | Kakashi | [Read More](https://medium.com/p/90a35d7ab5a4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 16:32:11 GMT | Building Production-Grade AI Agents with MCP & A2A: A Complete Guide from the Trenches | shahzad bhatti | [Read More](https://medium.com/p/de0696263ac5) |
 | Sat, 06 Dec 2025 16:29:06 GMT | Nmap: The Swiss-Army Knife of Cybersecurity | Veeram Reddy | [Read More](https://medium.com/p/c70004f07738) |
 | Sat, 06 Dec 2025 16:29:05 GMT | Hashing vs Encryption vs Encoding | Salimassili | [Read More](https://medium.com/p/0a20f96f07f6) |
-| Sat, 06 Dec 2025 16:13:14 GMT | When Your Inbox Stops Feeling Like Home: What Happens When The Web Sells You for Free | J. Ottor | [Read More](https://medium.com/p/6f9a5c614ce4) |
-| Sat, 06 Dec 2025 16:04:27 GMT | NyxWatch: A Deep Dive into Live Memory Malware Detection — Part I | RDK | [Read More](https://medium.com/p/4b33fcfa9fb2) |
-| Sat, 06 Dec 2025 16:02:59 GMT | Advent of Cyber 25 — Day 5 — IDOR — Santa’s Little IDOR | cybertactic | [Read More](https://medium.com/p/04adebd995d8) |
-| Sat, 06 Dec 2025 16:02:17 GMT | Japanese Teen Hacks 7 Million Accounts Using “Vibe-Hacking” With ChatGPT | Digital Minds | [Read More](https://medium.com/p/b1401560f402) |
-| Sat, 06 Dec 2025 15:54:37 GMT | Best AI Article Writer for Cybersecurity: Autoblogging.ai | Smasmittoftip | [Read More](https://medium.com/p/10604dce191e) |
-| Sat, 06 Dec 2025 15:53:38 GMT | 10 Splunk Search Commands You Should Learn First | Abhinsubej | [Read More](https://medium.com/p/b4ed8c4042c3) |
-| Sat, 06 Dec 2025 15:41:52 GMT | CyberGhost Exposed: A Digital CSI Breaks Down the ‘No-Logs’ Myth *(Investigación forense completa —… | PepitoChlo | [Read More](https://medium.com/p/1cb21f458a49) |
