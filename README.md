@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 10:13:17 GMT | Why Your ISP Proxies Still Get Flagged (And How to Fix the Setup) | EtherShade | [Read More](https://medium.com/p/e387580e7a79) |
+| Sun, 07 Dec 2025 10:07:27 GMT | Server-Side Request Forgery (SSRF): From Ping to RCE | Abhishek meena | [Read More](https://medium.com/p/6ac95bf4e489) |
+| Sun, 07 Dec 2025 09:59:49 GMT | Critical bug in production ? Think like The Wolf in Pulp Fiction | Saad | [Read More](https://medium.com/p/0a319d8ff263) |
+| Sun, 07 Dec 2025 09:59:47 GMT | DO YOU KNOW WHAT THE COUP IN BENIN REPUBLIC MEANS FOR NIGERIA? | Simeon Dumle | [Read More](https://medium.com/p/b4947c208f13) |
+| Sun, 07 Dec 2025 09:56:46 GMT | 9. Master the Basics, Break the Web: Server & Deployment Basics — Final | Abinesh M | [Read More](https://medium.com/p/b4a0eb748edd) |
+| Sun, 07 Dec 2025 09:49:31 GMT | TryHackMe - Linux Server Forensics Walkthrough | Birdv | [Read More](https://medium.com/p/db2be05697f5) |
+| Sun, 07 Dec 2025 09:48:58 GMT | CySA+ Log 01: Learning the Basics with Security+ Domain 1 | Akhil | [Read More](https://medium.com/p/af7b82928820) |
+| Sun, 07 Dec 2025 09:46:07 GMT | If your crypto wallet was hacked, drained, or affected by a sweeper bot, don’t panic — there’s… | Justinjordan | [Read More](https://medium.com/p/bcdf951536dc) |
+| Sun, 07 Dec 2025 09:42:49 GMT | MacBook “Hidden” Privacy Settings - (You Need to Change Now) | K_Anik | [Read More](https://medium.com/p/bbbee8ade3de) |
+| Sun, 07 Dec 2025 09:41:25 GMT | Perform Microsoft Graph Actions using Terraform for Microsoft Graph resources | Brian Veldman | [Read More](https://medium.com/p/595bbf78259e) |
+| Sun, 07 Dec 2025 09:37:58 GMT | The Payload Masterclass: From “What Is It?” to “How to Hack It” (Ethically) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/2b709bfa0925) |
+| Sun, 07 Dec 2025 09:36:44 GMT | Why India Is Finally Waking Up To The Invisible Computers That Run Our Cities. | Muhaideen Nausar | [Read More](https://medium.com/p/739ec849ed9b) |
 | Sun, 07 Dec 2025 09:21:45 GMT | Project 2026: How I Plan to Clear CompTIA CySA+ in 12 Weeks | Akhil | [Read More](https://medium.com/p/30a7b6ae3ac1) |
 | Sun, 07 Dec 2025 09:14:19 GMT | A Massive Data Leak in India: How a Government Website Failed Millions | Yukeshwaran N | [Read More](https://medium.com/p/d8c795f3ecce) |
 | Sun, 07 Dec 2025 09:07:48 GMT | The “Nil” Value That Stopped the Web: Inside Cloudflare’s Dec 5, 2025 Outage | Satvik Tripathi | [Read More](https://medium.com/p/429be3d184ff) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 22:32:11 GMT | The Truth About Anxious Attachment That No One Talks About | Vera Byron | [Read More](https://medium.com/p/3664a3a83783) |
 | Sat, 06 Dec 2025 22:06:16 GMT | How I Identified 9 Security Weaknesses in Under 1 Hour (Including a Live Subdomain Takeover) | Tyreek Haynes | [Read More](https://medium.com/p/39935a5d0c9d) |
 | Sat, 06 Dec 2025 22:05:12 GMT | Random Tech Facts That Show How Fast the World Is Evolving | FactSphereMedia | [Read More](https://medium.com/p/32322fc18d06) |
-| Sat, 06 Dec 2025 22:03:32 GMT | The Future of Passwords: Kill Them in the Flow, Keep Them in the Constitution | Alex Bamgboye | [Read More](https://medium.com/p/5b6d0bcb9e41) |
-| Sat, 06 Dec 2025 22:03:15 GMT | Building Data Science Application ( Chap 4 + Chap 5 ) | Daniel Lai | [Read More](https://medium.com/p/8b94ed96b5bf) |
-| Sat, 06 Dec 2025 22:02:43 GMT | Don’t Let Cyber Threats Drain Your Mission: Hidden Costs of Neglecting Nonprofit Cybersecurity | Atish Dash | [Read More](https://medium.com/p/f014ec76cccb) |
-| Sat, 06 Dec 2025 21:59:50 GMT | Defense in Depth for Nonprofits: Building a Robust Cybersecurity Foundation on a Limited Budget | Atish Dash | [Read More](https://medium.com/p/5bb369934ea8) |
-| Sat, 06 Dec 2025 21:48:02 GMT | Enhance Security and Efficiency in Bulk Account Creation with PVACreator | Jumaakther | [Read More](https://medium.com/p/d9c96f7c2772) |
-| Sat, 06 Dec 2025 21:41:44 GMT | Building, Breaking, and Defending: My Red vs. Blue Odyssey | Lokesh Talagatla | [Read More](https://medium.com/p/db01f5ab5d29) |
-| Sat, 06 Dec 2025 21:39:47 GMT | How to Use My Python Exploit Search Tool (Full User Guide for 2026) | ghostyjoe | [Read More](https://medium.com/p/b80015d0309e) |
-| Sat, 06 Dec 2025 21:29:40 GMT | When a Simple Request Replay Broke the Rules: How I Found a Hidden Email Logic Flaw in a Gaming… | Anshubind | [Read More](https://medium.com/p/2c342d44a8b4) |
-| Sat, 06 Dec 2025 21:27:23 GMT | How I Found a Critical Bug as a Beginner | Ibtissam | [Read More](https://medium.com/p/24d55cffff30) |
-| Sat, 06 Dec 2025 21:23:45 GMT | How to Earn Money From Medium | Monika sharma | [Read More](https://medium.com/p/6156f7ccd34b) |
-| Sat, 06 Dec 2025 21:08:21 GMT | I made a Bug Bounty tool directory | Kapeka | [Read More](https://medium.com/p/f106f56aaffc) |
-| Sat, 06 Dec 2025 20:56:06 GMT | “Eval is Evil”: Why You Should Never Store Code in a Database | Vijay Khot | [Read More](https://medium.com/p/955fb3cfa4cf) |
