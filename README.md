@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 18:32:44 GMT | From Zero to Ethical Hacker: The Guide I Wish I Had When I Started | Axoloth | [Read More](https://medium.com/p/d9e00781dd19) |
+| Sun, 07 Dec 2025 18:27:22 GMT | Ukrainian Hackers Cripple Major Russian Logistics Firm on Armed Forces Day | Leo Griffin | [Read More](https://medium.com/p/1bd0c5db5d17) |
+| Sun, 07 Dec 2025 18:26:16 GMT | SSRF DNS Rebinding Bypass Technique | Fatimahasan | [Read More](https://medium.com/p/9082a8bc18f9) |
 | Sun, 07 Dec 2025 18:23:46 GMT | VIAAN SALES | Viaansales | [Read More](https://medium.com/p/57218b5297cd) |
 | Sun, 07 Dec 2025 18:23:24 GMT | Lab: Unprotected admin functionality | Songül Kızılay Özügürler | [Read More](https://medium.com/p/45673049a592) |
 | Sun, 07 Dec 2025 18:03:46 GMT | The Day Our SOC Discovered How to Listen — A Tale About Conduct Not Merely Alerts | Cybersickerhub | [Read More](https://medium.com/p/a37a7aa85b51) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 12:30:59 GMT | The Apps on Your Phone That Leak the Most Data | Payal | [Read More](https://medium.com/p/1cea8cd2aa51) |
 | Sun, 07 Dec 2025 12:28:03 GMT | The AI Mirage: Why Your SOC Will Be Noisier in 2026 (Despite the Hype) | Motasem Hamdan | [Read More](https://medium.com/p/2ccdf04585d7) |
 | Sun, 07 Dec 2025 12:26:38 GMT | 2026 Working Links for NoonooTV — Stay Connected | NoonooTV Official | [Read More](https://medium.com/p/5f842ab3ae1f) |
-| Sun, 07 Dec 2025 12:19:04 GMT | Does “prepare” statements even secure ?? | pythonic01 | [Read More](https://medium.com/p/71e0ee2e58a6) |
-| Sun, 07 Dec 2025 12:19:00 GMT | How Stylish and Sleek are Vivo Mobile Phones in 2025? | Chloe White | [Read More](https://medium.com/p/82291f210df9) |
-| Sun, 07 Dec 2025 12:17:57 GMT | The OpenAI Data Leak Everyone’s Talking About — And Why It Hits Harder Than You Think | LifeInDrafts | [Read More](https://medium.com/p/94f2fcebaa12) |
