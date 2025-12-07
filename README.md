@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 07:08:08 GMT | There’s More Happening Than You See — Here’s What Clients Often Don’t Know About Our Work | Fook Hwa Tan | [Read More](https://medium.com/p/280849fc9eb8) |
+| Sun, 07 Dec 2025 07:06:56 GMT | Client FAQ Series: Why We Recommend Restore-First Drills (RTO/RPO) You Asked, We Explained: Why… | Fook Hwa Tan | [Read More](https://medium.com/p/2098c384b272) |
+| Sun, 07 Dec 2025 07:03:56 GMT | Ghost in the Radar: How We Used Modat Magnify to Watch the Watchers | hacker_might | [Read More](https://medium.com/p/0c59139bbe8a) |
+| Sun, 07 Dec 2025 07:03:46 GMT | Pentest Reporting Toolkit: Tools, Templates & Formats That Get Read (and Acted On) | Very Lazy Tech | [Read More](https://medium.com/p/55019fcf5362) |
+| Sun, 07 Dec 2025 06:51:18 GMT | The Ultimate OSINT Guide: Essential Tools for Phone Number Investigation | eRRoR | [Read More](https://medium.com/p/be1924ddf578) |
+| Sun, 07 Dec 2025 06:51:05 GMT | Hackers Used a Cheap Air Purifier to Hijack an Entire Company — Yes, Really | Noel | [Read More](https://medium.com/p/afb3d067e85f) |
+| Sun, 07 Dec 2025 06:45:29 GMT | Why Your Past Skills Are Your Greatest Career Accelerator | Andrew Keitany | [Read More](https://medium.com/p/6a980bff43cd) |
+| Sun, 07 Dec 2025 06:34:59 GMT | BRICKSTORM Episode 1: A Technical Deep Dive into UNC5221’s Latest Linux Backdoor | Mohammad Heading | [Read More](https://medium.com/p/c8c8018c1d76) |
+| Sun, 07 Dec 2025 06:30:47 GMT | Advanced Search Techniques for Exposed Information — By Reju Kole | Reju Kole | [Read More](https://medium.com/p/348264b00fb4) |
+| Sun, 07 Dec 2025 06:30:47 GMT | Boost Your Account Success with PVACreator's Automation Tools | Tasnimzara | [Read More](https://medium.com/p/694bc504b534) |
 | Sun, 07 Dec 2025 06:25:57 GMT | CloudSEK Security Research Hiring CTF @BSides Vizag | Barath P | [Read More](https://medium.com/p/706e9b11688b) |
 | Sun, 07 Dec 2025 06:18:32 GMT | Breaking the Perimeter: How My Custom Python Tool Bypassed a Federal Firewall | Nmullenski | [Read More](https://medium.com/p/86b2db874812) |
 | Sun, 07 Dec 2025 06:11:07 GMT | Cyber security online training with certification in India | cyber security Updates | [Read More](https://medium.com/p/38c8221db2c8) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 18:32:04 GMT | Explanation of Threat, Vulnerability, Risk, Impact, Severity, and CVSS | Habibi | [Read More](https://medium.com/p/028d6486d65e) |
 | Sat, 06 Dec 2025 18:18:06 GMT | CCNA Networking Fundamentals — A Beginner Friendly Guide | Lakshay Nimwal | [Read More](https://medium.com/p/adb796e68798) |
 | Sat, 06 Dec 2025 18:16:21 GMT | Breaking Down the Next.js RCE a critical vulnerability, CVE-2025–55182 (React2Shell) | Abdmaleek | [Read More](https://medium.com/p/d390e72eaa32) |
-| Sat, 06 Dec 2025 18:14:07 GMT | Zero Click Agentic Browser Attacks-The Silent New Era of AI-Powered Cyber Intrusions | Chetan Seripally | [Read More](https://medium.com/p/38ea4cb23d7e) |
-| Sat, 06 Dec 2025 18:07:40 GMT | Ukraine Just Shut Down One of Russia’s Biggest Logistics Networks — Without Firing a Shot | Emily Rhodes | [Read More](https://medium.com/p/3614d5b618b8) |
-| Sat, 06 Dec 2025 18:01:14 GMT | React2Shell: Critical Vulnerability in React Server Components | Patrik Žák | [Read More](https://medium.com/p/72e00c8bd7d0) |
-| Sat, 06 Dec 2025 17:55:26 GMT | The cybersecurity insurance paradox, part 1 | STR4T0TT0 | [Read More](https://medium.com/p/1e85e6d35b86) |
-| Sat, 06 Dec 2025 17:55:11 GMT | How I Found a Zero-Click Account Takeover Vulnerability in a U.S. Online Retailer | SilentExploit | [Read More](https://medium.com/p/bbfe66b8918d) |
-| Sat, 06 Dec 2025 17:52:00 GMT | You Use Django with PostgreSQL, Your App Is Currently Vulnerable | Mehdi BAFDIL | [Read More](https://medium.com/p/6ebcc33587f0) |
-| Sat, 06 Dec 2025 17:45:29 GMT | New Android Malware Sparks Rising Mobile Fraud Risk | Geoffrey Wenger | [Read More](https://medium.com/p/ff556a648dc0) |
-| Sat, 06 Dec 2025 17:45:09 GMT | Smarter Cloud Setup Habits That Protect Your Data | Geoffrey Wenger | [Read More](https://medium.com/p/ea9844cae1d4) |
-| Sat, 06 Dec 2025 17:44:28 GMT | HackTheBox - Gavel Writeup — From SQL Injection to Root Shell | Sviatoslav König | [Read More](https://medium.com/p/76965c6eaf6d) |
-| Sat, 06 Dec 2025 17:40:15 GMT | Logic Issue Allowing Verification Before Meeting Required Conditions | mohamed khattab | [Read More](https://medium.com/p/512fc4fa7dcc) |
