@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 20:30:06 GMT | How to Make AWS Infrastructure more Secure? | Nilesh Gadgi | [Read More](https://medium.com/p/3fbef340aa44) |
+| Sun, 07 Dec 2025 20:29:59 GMT | Advent of Cyber 2025 - Day 7: Network Discovery - Scan-ta Clause | Akshat Patel | [Read More](https://medium.com/p/d34e3bf22c70) |
+| Sun, 07 Dec 2025 20:28:28 GMT | The Elder Plinus Engine: How PromptShot Became a Dynamic LLM Jailbreaking Framework | Onurcan Genç | [Read More](https://medium.com/p/853e7dffed26) |
+| Sun, 07 Dec 2025 20:27:53 GMT | Part 14: Virtual Box IT Home Lab — Understanding IT Tickets (Using Spiceworks, RDP Tools) | Declan | [Read More](https://medium.com/p/31e4ffdd4d13) |
+| Sun, 07 Dec 2025 20:26:56 GMT | Part 13: Virtual Box IT Home Lab — Setting up a printer on a domain. | Declan | [Read More](https://medium.com/p/5d4a09772ffc) |
+| Sun, 07 Dec 2025 20:26:08 GMT | PSA: Elevator (un)safety! | @boblord | [Read More](https://medium.com/p/7ac69a9498de) |
+| Sun, 07 Dec 2025 20:25:00 GMT | “Reverse Engineering” | Sude E. | [Read More](https://medium.com/p/bd6bc45e6cd9) |
 | Sun, 07 Dec 2025 20:16:31 GMT | Only XSS? Here’s How Hackers Still Get In | karincayiyen | [Read More](https://medium.com/p/8e632a23803c) |
 | Sun, 07 Dec 2025 20:15:02 GMT | Security Culture Is the Only Way Forward | Kay Adelaja | [Read More](https://medium.com/p/3e93d0c4acc5) |
 | Sun, 07 Dec 2025 20:12:53 GMT | What ML Practitioners Really Think About Privacy & Security: Insights from a Practitioner’s Study | Tanishka Mali | [Read More](https://medium.com/p/1a9ad24ca701) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 14:03:01 GMT | Getting Started with OT Security: The Attacker’s Mindset — Intro to OT Penetration Testing (Part 4) | aravind0x7 | [Read More](https://medium.com/p/2ff67134bf86) |
 | Sun, 07 Dec 2025 14:02:21 GMT | Cybersecurity & Dark Web Myths Everyone Still Believes -And Why They’re Dangerous | Noorul Ameen | [Read More](https://medium.com/p/0c626fdde0a3) |
 | Sun, 07 Dec 2025 14:02:14 GMT | Guardrails for Your First SOC 2-Ready Agent | Quellin | [Read More](https://medium.com/p/3be189aab99a) |
-| Sun, 07 Dec 2025 14:00:48 GMT | AI Bug Triage System | Mark Wireman | [Read More](https://medium.com/p/268291c08aac) |
-| Sun, 07 Dec 2025 13:58:29 GMT | Hack The Box — Editor Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/42ae0a9e1174) |
-| Sun, 07 Dec 2025 13:58:13 GMT | Networking Protocols — The Unsung Heroes of Digital Communication | Paul Meyer | [Read More](https://medium.com/p/cb846984a694) |
-| Sun, 07 Dec 2025 13:55:18 GMT | Day 7 — Patch & Tool Maintenance (Deeper into the Forest) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/8b2acd481673) |
-| Sun, 07 Dec 2025 13:53:30 GMT | Ethical Bitcoin Hacker For Hire By Wizard Larry Recovery Experts | Sally Bico | [Read More](https://medium.com/p/d9833f10c590) |
-| Sun, 07 Dec 2025 13:46:48 GMT | All about Electric Fencing in South Africa | Safety & Security | [Read More](https://medium.com/p/a7cda4f54da4) |
-| Sun, 07 Dec 2025 13:45:00 GMT | Phishing Attack Workflow | Aakash Rajput | [Read More](https://medium.com/p/fef0735782a9) |
