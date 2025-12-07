@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 04:18:15 GMT | An OSINT Autopsy of the Louvre’s “Heist of the Century” | 1v0t | [Read More](https://medium.com/p/09c2af7fe0e5) |
+| Sun, 07 Dec 2025 04:17:25 GMT | Why Residential Proxies Don’t Automatically Fix Multi-Account Bans | Gabriele Wayner | [Read More](https://medium.com/p/e69733308b21) |
+| Sun, 07 Dec 2025 04:07:30 GMT | “The Failure That Accidentally Made Me a Bug Bounty Hunter” | Moganti Nehanth | [Read More](https://medium.com/p/34854bb1970d) |
+| Sun, 07 Dec 2025 03:41:30 GMT | INFORMATION TECHNOLOGY: | Ratemate | [Read More](https://medium.com/p/ffaa82984928) |
 | Sun, 07 Dec 2025 03:24:19 GMT | AI Weaponization Is Easier Than We Think: The Alarming Rise of Automated Cyberattacks | Farhan Nasir | [Read More](https://medium.com/p/1c9e489c2f6e) |
 | Sun, 07 Dec 2025 03:22:11 GMT | The 72-Hour Trap: How a Fake Income Tax Notice Triggered a Full System Takeover | Deven Chhajed | [Read More](https://medium.com/p/5c62cd814068) |
 | Sun, 07 Dec 2025 02:48:31 GMT | Why Practical Men Make Better Husbands: The Truth About Marriage | XeniaAusten | [Read More](https://medium.com/p/60ccde9e32b7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Dec 2025 16:55:30 GMT | How to Perform Password-Based Encrypted RMAN Tablespace Backup & Restore in Oracle 19c | MdAsifHussain | [Read More](https://medium.com/p/a18e57b58311) |
 | Sat, 06 Dec 2025 16:51:25 GMT | EventID — 77 - SOC 138 - Investigating Suspicious XLS File | Soumodeep Das | [Read More](https://medium.com/p/e52a0493683a) |
 | Sat, 06 Dec 2025 16:42:15 GMT | A Simple Page Source View Uncovered a Critical Keycloak Vulnerability | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/7844b789307a) |
-| Sat, 06 Dec 2025 16:40:25 GMT | The AI Arms Race: Is Generative AI the Ultimate Shield or the Perfect Weapon? | Henry Hu | [Read More](https://medium.com/p/627f518808db) |
-| Sat, 06 Dec 2025 16:32:11 GMT | Building Production-Grade AI Agents with MCP & A2A: A Complete Guide from the Trenches | shahzad bhatti | [Read More](https://medium.com/p/de0696263ac5) |
-| Sat, 06 Dec 2025 16:29:06 GMT | Nmap: The Swiss-Army Knife of Cybersecurity | Veeram Reddy | [Read More](https://medium.com/p/c70004f07738) |
-| Sat, 06 Dec 2025 16:29:05 GMT | Hashing vs Encryption vs Encoding | Salimassili | [Read More](https://medium.com/p/0a20f96f07f6) |
