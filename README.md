@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Dec 2025 13:21:49 GMT | “A bug bounty hunter reveals how cybersecurity mirrors the universe — from black holes to hidden… | ghostyjoe | [Read More](https://medium.com/p/bf1dd0e6e819) |
+| Sun, 07 Dec 2025 13:20:18 GMT | Malware Analysis — Egg-xecutable - AoC 2025 Day -6 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/7e1959a0ca99) |
+| Sun, 07 Dec 2025 13:16:07 GMT | IDOR — Santa’s Little IDOR - AoC 2025 Day -5 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/09c4f4473c66) |
+| Sun, 07 Dec 2025 13:01:41 GMT | Examine the type of database used in target for SQL Injection | Sanjeev Rathore | [Read More](https://medium.com/p/452769198cf2) |
+| Sun, 07 Dec 2025 12:58:22 GMT | Cyber Security | Reynaldhidayat | [Read More](https://medium.com/p/e706b07a7e2c) |
+| Sun, 07 Dec 2025 12:36:46 GMT | Retro — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/d065b7c97649) |
+| Sun, 07 Dec 2025 12:36:31 GMT | Writing Battle-Tested Sigma Rules for Real-World ATT&CK Techniques | CyberFreak | [Read More](https://medium.com/p/e443ceda3496) |
+| Sun, 07 Dec 2025 12:36:12 GMT | When Commercial Forensic Tools Fail: Manual Extraction of Tor Browser Evidence from iOS Devices | Gerisson | [Read More](https://medium.com/p/40b02e2523e3) |
+| Sun, 07 Dec 2025 12:35:38 GMT | Install and Use YARA for Threat Detection (Step-by-Step) — Cybersecurity Homelab [#12] | 0xRahuL | [Read More](https://medium.com/p/d7498b6d258a) |
 | Sun, 07 Dec 2025 12:30:59 GMT | The Apps on Your Phone That Leak the Most Data | Payal | [Read More](https://medium.com/p/1cea8cd2aa51) |
 | Sun, 07 Dec 2025 12:28:03 GMT | The AI Mirage: Why Your SOC Will Be Noisier in 2026 (Despite the Hype) | Motasem Hamdan | [Read More](https://medium.com/p/2ccdf04585d7) |
 | Sun, 07 Dec 2025 12:26:38 GMT | 2026 Working Links for NoonooTV — Stay Connected | NoonooTV Official | [Read More](https://medium.com/p/5f842ab3ae1f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 05:35:45 GMT | The Prompts That Turn Any Model Into an OSINT Analyst | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/73344c324751) |
 | Sun, 07 Dec 2025 05:28:20 GMT | The Small Habits That Made Me Dangerous With a Terminal | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0c2329beefb1) |
 | Sun, 07 Dec 2025 05:25:35 GMT | The Mission: Shadow Operations | Kumar Vinay | [Read More](https://medium.com/p/a030486c457f) |
-| Sun, 07 Dec 2025 05:19:56 GMT | When You Actually Need Mobile Proxies (and How to Use Them Safely) | BlockChimera | [Read More](https://medium.com/p/fdda625a312d) |
-| Sun, 07 Dec 2025 05:13:19 GMT | React2Shell (CVE-2025–55182): Understanding the Critical React Vulnerability | Muhammad Faizan Nadeem | [Read More](https://medium.com/p/4f7fdd9f286e) |
-| Sun, 07 Dec 2025 05:06:05 GMT | Hashing vs Encoding vs Encryption: Understanding the Core Differences | Vishal Mishra | [Read More](https://medium.com/p/e96786a61659) |
-| Sun, 07 Dec 2025 04:51:48 GMT | The Chief Worrywart’s Guide: Understanding CISSP Domain 1 (Security and Risk Management) | Mainak Biswas | [Read More](https://medium.com/p/49fc3a34018a) |
-| Sun, 07 Dec 2025 04:42:55 GMT | inasultan88 - PREMIUM SERVER TERBAIK NASIONAL | inasultan88 | [Read More](https://medium.com/p/97cd7e798366) |
-| Sun, 07 Dec 2025 04:38:35 GMT | Your WiFi Isn’t As Safe As You Think — And Your Neighbors Might Be the Real Problem | Jamisone Ivy | [Read More](https://medium.com/p/db3be6e09534) |
-| Sun, 07 Dec 2025 04:18:15 GMT | An OSINT Autopsy of the Louvre’s “Heist of the Century” | 1v0t | [Read More](https://medium.com/p/09c2af7fe0e5) |
-| Sun, 07 Dec 2025 04:17:25 GMT | Why Residential Proxies Don’t Automatically Fix Multi-Account Bans | Gabriele Wayner | [Read More](https://medium.com/p/e69733308b21) |
-| Sun, 07 Dec 2025 04:07:30 GMT | “The Failure That Accidentally Made Me a Bug Bounty Hunter” | Moganti Nehanth | [Read More](https://medium.com/p/34854bb1970d) |
