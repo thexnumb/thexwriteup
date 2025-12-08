@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 05:23:05 GMT | Hacking AI: How I Crafted RCE on a Vibe-Coding LLM Using Prompt Engineering | ipsbruno3 | [Read More](https://medium.com/p/b45ccc57e312) |
+| Mon, 08 Dec 2025 05:05:57 GMT | React2Shell Detection Script. | Adrian Romanov | [Read More](https://medium.com/p/c9d21ca00ba9) |
+| Mon, 08 Dec 2025 05:02:30 GMT | Why Managed Detection and Response (MDR) Is Becoming Essential for Modern Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/946bf6f04bc9) |
+| Mon, 08 Dec 2025 04:57:27 GMT | How I Discovered a Price Manipulation Bug While Buying a Simple Product | Sabuj Kumar Modak | [Read More](https://medium.com/p/d2584addbc74) |
+| Mon, 08 Dec 2025 04:56:58 GMT | Block Websites and Adult Content: The Complete UBlock Origin Guide for PC and Mobile | CyberShield Insights | [Read More](https://medium.com/p/b27f2e107254) |
+| Mon, 08 Dec 2025 04:53:30 GMT | AI-Powered Cybersecurity: The Silent Shield Protecting Today’s Digital World | Ssolosssolo | [Read More](https://medium.com/p/47915ec41d70) |
+| Mon, 08 Dec 2025 04:52:41 GMT | What Are the Essential Characteristics of Cloud Computing (As per NIST)? | Soundaryaps | [Read More](https://medium.com/p/c1163fcfceb5) |
 | Mon, 08 Dec 2025 04:51:35 GMT | How to Get Free Windows Activation Using the KMS Exploit. | TheCyberNirvana | [Read More](https://medium.com/p/9e9538eed592) |
+| Mon, 08 Dec 2025 04:49:10 GMT | The Hidden Cost of DIY Application Security: When to Call Security Consultants | KomodoSec.com | [Read More](https://medium.com/p/d1665de56747) |
+| Mon, 08 Dec 2025 04:42:38 GMT | RST TI Report Digest: 08 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/9772b29f760a) |
 | Mon, 08 Dec 2025 04:33:41 GMT | Master Surya Ji – Best Indian Astrologer, Psychic & Vashikaran Expert in Fiji | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/a0c1a30c5b0b) |
 | Mon, 08 Dec 2025 04:33:39 GMT | When Speaking Up Feels Impossible | jei | [Read More](https://medium.com/p/381fd18ca82c) |
 | Mon, 08 Dec 2025 04:32:15 GMT | The Hybrid Token Pattern Everyone Ends Up Using Anyway: Have You Tried it in Your JavaScript… | Amit Kumar | [Read More](https://medium.com/p/f495ce92aa1f) |
@@ -45,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 00:50:31 GMT | ️ Stop the Stalkers: Why Your Digital Life is Up For Sale and How to Reclaim It
 You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
 | Mon, 08 Dec 2025 00:49:09 GMT | Understanding of React2Shell | Ashok | [Read More](https://medium.com/p/6c5ecdf2d89b) |
+| Mon, 08 Dec 2025 00:44:18 GMT | Threat Intelligence Report | Genet Shibru | [Read More](https://medium.com/p/eabcb8844e55) |
 | Mon, 08 Dec 2025 00:35:32 GMT | Rising Android Threat Targeting Mobile Banking Users | Geoffrey Wenger | [Read More](https://medium.com/p/e32baafc1074) |
 | Mon, 08 Dec 2025 00:34:57 GMT | Virtual Kidnapping Scams Are Evolving Faster Than People Expect | Geoffrey Wenger | [Read More](https://medium.com/p/a0a37db5cdbd) |
 | Mon, 08 Dec 2025 00:14:15 GMT | From Diagrams to Packets: Building My First FortiGate Lab as a New Defender | Barbaros Emre Alagöz | [Read More](https://medium.com/p/8bb5d6c880ed) |
@@ -103,13 +113,3 @@ You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
 | Sun, 07 Dec 2025 18:51:34 GMT | Advent of Cyber 2025 — Prep Track Complete ✅ | Nazmul Islam | [Read More](https://medium.com/p/6d58d06dc254) |
 | Sun, 07 Dec 2025 18:48:27 GMT | TCP Challenges — Part 1 : Back to College - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/418d66cb9e7f) |
 | Sun, 07 Dec 2025 18:32:44 GMT | From Zero to Ethical Hacker: The Guide I Wish I Had When I Started | Axoloth | [Read More](https://medium.com/p/d9e00781dd19) |
-| Sun, 07 Dec 2025 18:27:22 GMT | Ukrainian Hackers Cripple Major Russian Logistics Firm on Armed Forces Day | Leo Griffin | [Read More](https://medium.com/p/1bd0c5db5d17) |
-| Sun, 07 Dec 2025 18:26:16 GMT | SSRF DNS Rebinding Bypass Technique | Fatimahasan | [Read More](https://medium.com/p/9082a8bc18f9) |
-| Sun, 07 Dec 2025 18:23:46 GMT | VIAAN SALES | Viaansales | [Read More](https://medium.com/p/57218b5297cd) |
-| Sun, 07 Dec 2025 18:23:24 GMT | Lab: Unprotected admin functionality | Songül Kızılay Özügürler | [Read More](https://medium.com/p/45673049a592) |
-| Sun, 07 Dec 2025 18:03:46 GMT | The Day Our SOC Discovered How to Listen — A Tale About Conduct Not Merely Alerts | Cybersickerhub | [Read More](https://medium.com/p/a37a7aa85b51) |
-| Sun, 07 Dec 2025 17:59:15 GMT | An OSINT-Based Assessment of Government Website Defacement in Kenya: Insights from the November… | Tonny Kevin Koech | [Read More](https://medium.com/p/c4d1121cf76e) |
-| Sun, 07 Dec 2025 17:49:20 GMT | How I Extracted Passwords Using Nothing but SQL Error Messages (PostgreSQL Hack Explained) | Sanjivani Dobhal | [Read More](https://medium.com/p/bc38f96ad92b) |
-| Sun, 07 Dec 2025 17:36:54 GMT | How a Botnet Tried to Infect My Server — and How Docker Saved Me | Manpreetsingh | [Read More](https://medium.com/p/9f5e8c8dd0d1) |
-| Sun, 07 Dec 2025 17:36:08 GMT | ₹16,000 Earned by Reporting 2 Simple API Vulnerability - High Severity P2 | Rajankumarbarik | [Read More](https://medium.com/p/c5a6ea9fd8c5) |
-| Sun, 07 Dec 2025 17:30:43 GMT | Day 125 — Narnia OverTheWire Level-0 | Jinay | [Read More](https://medium.com/p/aa2a35ff1d67) |
