@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 15:09:08 GMT | AI Isn’t Just for Good: How Generative AI Is Fueling a New Breed of Cybercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/de168c96bbeb) |
+| Mon, 08 Dec 2025 15:05:22 GMT | Mastering Security Hardening in Production Environments | Linux Guide | [Read More](https://medium.com/p/82ca3acf3d83) |
+| Mon, 08 Dec 2025 15:04:58 GMT | Building a Zero-Touch SOC: End-to-End Automation with Wazuh, Shuffle, and TheHive | Mark Csete | [Read More](https://medium.com/p/09a82483adaf) |
+| Mon, 08 Dec 2025 15:02:22 GMT | Cyber Briefing: 2025.12.08 | CyberMaterial | [Read More](https://medium.com/p/6f1b668841ce) |
+| Mon, 08 Dec 2025 15:01:21 GMT | Demystifying Security Operations Center (SOC) — A Beginner’s Guide | Binesh Madharapu | [Read More](https://medium.com/p/8f3c2c40e8de) |
+| Mon, 08 Dec 2025 15:00:01 GMT | VuwCTF 2025 - Undercut - Forensics Challenge (Second Blood) | Zeyad Karim | [Read More](https://medium.com/p/689a705f0781) |
+| Mon, 08 Dec 2025 14:58:23 GMT | Cybersecurity and Infrastructure Security Agency Blows the Whistle: The BRICKSTORM Backdoor and… | Travis Ray Caverhill | [Read More](https://medium.com/p/c357f510b57e) |
+| Mon, 08 Dec 2025 14:58:17 GMT | I Watched My Friend Lose $50K to a Romance Scam. Here’s What I Wish She’d Known. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/87b912c4b8dc) |
+| Mon, 08 Dec 2025 14:51:16 GMT | The Invisible Eye: How the New ‘Predator’ Spyware Turns Mobile Ads Into Surveillance Weapons | Enes Karataş | [Read More](https://medium.com/p/64449273ba50) |
+| Mon, 08 Dec 2025 14:49:04 GMT | I’mTop 5 Cybersecurity Threats Every Business Should Prepare For | Thinks Of Nadir | [Read More](https://medium.com/p/b9edd278b47e) |
+| Mon, 08 Dec 2025 14:46:35 GMT | The ‘React2Shell’ Vulnerability Explained: Why Only Next.js RSC Apps Are Affected | Mohit | [Read More](https://medium.com/p/f0fe0f769175) |
+| Mon, 08 Dec 2025 14:45:39 GMT | SCIM Gets an Upgrade: How RFC 9865's Cursor Pagination Changes IAM Integrations | Ehsan | [Read More](https://medium.com/p/8fe6212fd35d) |
 | Mon, 08 Dec 2025 14:42:22 GMT | Understanding the OSI Model — The Framework Behind Every Digital Connection | Paul Meyer | [Read More](https://medium.com/p/9cc43abe9e7e) |
 | Mon, 08 Dec 2025 14:37:48 GMT | ️ I Discovered a Parameter Pollution Vulnerability in a Payment QR System | Nimit Ahir | [Read More](https://medium.com/p/0072038da4f6) |
 | Mon, 08 Dec 2025 14:32:11 GMT | (Comptia A+) Understanding Cybersecurity Threats: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/cb32ddba1a3c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 10:37:27 GMT | Unlocking the Power of Sublist3r: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/fa39f2265b7c) |
 | Mon, 08 Dec 2025 10:34:25 GMT | eJPT Prep - Host & Network Penetration Testing: The Metasploit Framework CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/fb1644c84d96) |
 | Mon, 08 Dec 2025 10:31:54 GMT | Why Organizations Need Dark Web Monitoring Now | David SEHYEON Baek | [Read More](https://medium.com/p/28fb4b0c2590) |
-| Mon, 08 Dec 2025 10:28:31 GMT | How Machine Economies Are Learning to Trust Themselves | SEALCOIN AI | [Read More](https://medium.com/p/275341b1906c) |
-| Mon, 08 Dec 2025 10:26:53 GMT | Zuri Njoku Explains How Modern Digital Systems Drive Business Efficiency | Zuri Njoku | [Read More](https://medium.com/p/1ec3ee486714) |
-| Mon, 08 Dec 2025 10:26:20 GMT | Stop Malware Now: Protect Your PC Before It Faces Trouble! | SiyanoAV | [Read More](https://medium.com/p/d82b656d7cbd) |
-| Mon, 08 Dec 2025 10:22:59 GMT | Harry Potter vs Data Protection | Hafsa Qunooj | [Read More](https://medium.com/p/f646147724ea) |
-| Mon, 08 Dec 2025 10:21:58 GMT | Advent of Cyber 2025 Day7 — Scan-ta-clause! | Khadijat Suleman | [Read More](https://medium.com/p/8e7ce0287140) |
-| Mon, 08 Dec 2025 10:21:29 GMT | The New Microsoft Teams Callback Scam Is Exploding Across Workplaces… | Muhammad Hassan Ali | [Read More](https://medium.com/p/41c159d33456) |
-| Mon, 08 Dec 2025 10:20:44 GMT | AI Security Agents: How You Can Protect Your Apps Before Hackers Attack | Ai Founder Lab | [Read More](https://medium.com/p/e126b4a4b046) |
-| Mon, 08 Dec 2025 10:20:21 GMT | Part 13 — “The Hidden Quantum War: Why the World’s Biggest Governments Are Racing to Build Weapons… | Mr. Richie Gunawan | [Read More](https://medium.com/p/39499a7c7678) |
-| Mon, 08 Dec 2025 10:19:06 GMT | Can Oppo Reno 12 Pro Handle Heavy Gaming Without Lag? | Grace Anderson | [Read More](https://medium.com/p/0e10da596a7a) |
-| Mon, 08 Dec 2025 10:18:03 GMT | The Corporate Ego Glitch | Jayal Yadav | [Read More](https://medium.com/p/0ccff510232e) |
-| Mon, 08 Dec 2025 10:12:36 GMT | Building Responsible AI Applications with Amazon Bedrock Guardrails | Himanshu Sangshetti | [Read More](https://medium.com/p/fa220f6e9414) |
-| Mon, 08 Dec 2025 10:12:07 GMT | Can Oppo F21 Pro Handle Heavy Apps Without Slowing Down? | Aurora Green | [Read More](https://medium.com/p/58fd5ab7ed86) |
