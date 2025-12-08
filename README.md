@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 23:12:13 GMT | My CPTS Exam Experience (Part 2): The Midpoint, The 12 Flags, and All the Mistakes I Made | Kentucky Mathitis | [Read More](https://medium.com/p/0c7e9c241a60) |
+| Mon, 08 Dec 2025 22:51:31 GMT | Understanding TLD Abuse in Modern Cybercrime | R1cH4t | [Read More](https://medium.com/p/accad623bea9) |
+| Mon, 08 Dec 2025 22:36:48 GMT | Stop Managing Your Image, Start Hearing the Truth: David Cohen on Feedback That Matters | Stacey Chillemi | [Read More](https://medium.com/p/cce1b53d6243) |
+| Mon, 08 Dec 2025 22:36:37 GMT | “Safer Than a Bank”: What All Their IT Providers Told Them | Fabien Soulis | [Read More](https://medium.com/p/e1ea09fcde78) |
 | Mon, 08 Dec 2025 22:20:11 GMT | The Day I Found a Public Laravel Log Viewer — And Why It Could Have Exposed an Entire Hospital… | Anshubind | [Read More](https://medium.com/p/e9eeb2e3f6c3) |
 | Mon, 08 Dec 2025 22:19:51 GMT | When One Slash Broke the Rules — Finding an Open Redirect on a Major Marketplace | Anshubind | [Read More](https://medium.com/p/9d9bc7a39fbd) |
 | Mon, 08 Dec 2025 22:11:26 GMT | XSS TO SSRF INTO THE NEXT JS THAT VULNERABLE TO REACT2SHELL NEW CVE-2025–66478 | Ahmed Ibrahim | [Read More](https://medium.com/p/824defa9b013) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 15:22:03 GMT | Stop Leaving Your Linux Server Open to Hackers: A Practical Security Guide | Ashish Singh | [Read More](https://medium.com/p/5b65db5df83c) |
 | Mon, 08 Dec 2025 15:21:01 GMT | The Joy of Being Cared For: Understanding Deep Connection | Austi Gene | [Read More](https://medium.com/p/e444fab34b65) |
 | Mon, 08 Dec 2025 15:09:08 GMT | AI Isn’t Just for Good: How Generative AI Is Fueling a New Breed of Cybercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/de168c96bbeb) |
-| Mon, 08 Dec 2025 15:05:22 GMT | Mastering Security Hardening in Production Environments | Linux Guide | [Read More](https://medium.com/p/82ca3acf3d83) |
-| Mon, 08 Dec 2025 15:04:58 GMT | Building a Zero-Touch SOC: End-to-End Automation with Wazuh, Shuffle, and TheHive | Mark Csete | [Read More](https://medium.com/p/09a82483adaf) |
-| Mon, 08 Dec 2025 15:02:22 GMT | Cyber Briefing: 2025.12.08 | CyberMaterial | [Read More](https://medium.com/p/6f1b668841ce) |
-| Mon, 08 Dec 2025 15:01:21 GMT | Demystifying Security Operations Center (SOC) — A Beginner’s Guide | Binesh Madharapu | [Read More](https://medium.com/p/8f3c2c40e8de) |
