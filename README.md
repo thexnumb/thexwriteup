@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 05:38:06 GMT | How Major Security Incidents Shift Urban Consumer Behaviour? — Lessons from the Delhi Blast | Nisarg Sutaria | [Read More](https://medium.com/p/8ffb36052728) |
+| Mon, 08 Dec 2025 05:31:07 GMT | WhatsApp’s New Security Mode Gives iPhone Users One-Tap Protection | WABetaInfo | [Read More](https://medium.com/p/8bb64955811c) |
+| Mon, 08 Dec 2025 05:31:01 GMT | The Security Benchmark Suppliers Must Meet to Stay Competitive | Kadhijahafiya | [Read More](https://medium.com/p/4ea5f2ab6790) |
+| Mon, 08 Dec 2025 05:27:11 GMT | Seamless WordPress Migration: Moving Your Site Without Losing a Beat | IT Company | [Read More](https://medium.com/p/63d97efa471e) |
+| Mon, 08 Dec 2025 05:23:55 GMT | Understanding where to store JWT Tokens: Simple Explanation | Muhammad Ayaan shaikh | [Read More](https://medium.com/p/d8fa969e9573) |
 | Mon, 08 Dec 2025 05:23:05 GMT | Hacking AI: How I Crafted RCE on a Vibe-Coding LLM Using Prompt Engineering | ipsbruno3 | [Read More](https://medium.com/p/b45ccc57e312) |
+| Mon, 08 Dec 2025 05:21:54 GMT | Sanchar Saathi: The app everyone’s buzzing about! | Keyur | [Read More](https://medium.com/p/87a1f7f2dd96) |
+| Mon, 08 Dec 2025 05:18:30 GMT | The Growing Demand for Security Services in Ambala | Lakshay Security | [Read More](https://medium.com/p/abac73aceb55) |
+| Mon, 08 Dec 2025 05:17:49 GMT | Information Protection Services for Stronger Network Security and Cyber Security - GainSide… | Gainside | [Read More](https://medium.com/p/fa911aa19f82) |
+| Mon, 08 Dec 2025 05:15:43 GMT | Why Social Media Matrices Need Real Local Residential IP Routes | BitVerse | [Read More](https://medium.com/p/c4ad792425cb) |
+| Mon, 08 Dec 2025 05:14:54 GMT | Next-Gen Automation: Why MCP is the Missing Link for Developers and Security Pros | Athishsagarkishan | [Read More](https://medium.com/p/89ddcbb9ab7c) |
+| Mon, 08 Dec 2025 05:14:12 GMT | Key Compliance Standards Every Vendor Should Understand | Kadhijahafiya | [Read More](https://medium.com/p/6390461e9460) |
 | Mon, 08 Dec 2025 05:05:57 GMT | React2Shell Detection Script. | Adrian Romanov | [Read More](https://medium.com/p/c9d21ca00ba9) |
 | Mon, 08 Dec 2025 05:02:30 GMT | Why Managed Detection and Response (MDR) Is Becoming Essential for Modern Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/946bf6f04bc9) |
 | Mon, 08 Dec 2025 04:57:27 GMT | How I Discovered a Price Manipulation Bug While Buying a Simple Product | Sabuj Kumar Modak | [Read More](https://medium.com/p/d2584addbc74) |
@@ -102,14 +113,3 @@ You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
 | Sun, 07 Dec 2025 19:55:28 GMT | Ghost in the Machine: Why We’re Storing Data in Sound Waves Instead of Silicon | CHENURA OSHADA | [Read More](https://medium.com/p/f274b0757e4b) |
 | Sun, 07 Dec 2025 19:47:28 GMT | HTB: Mirage Writeup | CravateRouge | [Read More](https://medium.com/p/f994c0600318) |
 | Sun, 07 Dec 2025 19:44:19 GMT | ZoreonX: The New Standard in Intelligent Crypto Investing | Oviela | [Read More](https://medium.com/p/0c5ff53821e2) |
-| Sun, 07 Dec 2025 19:36:01 GMT | Why 'Prompt Engineering' Was a Fad, But 'AI Operations' is the Future of Web Design | Michael Xeus | [Read More](https://medium.com/p/e90e387b067a) |
-| Sun, 07 Dec 2025 19:25:44 GMT | FORTIGATE GEÇİŞİ 01.08 SD-WAN, Virtual Server yapılandırması ile Load Balance | Ziya DENİZ | [Read More](https://medium.com/p/2449359364ae) |
-| Sun, 07 Dec 2025 19:24:28 GMT | My Development Week: Building Secure Flutter Apps & Desktop Tools | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/c66b85e5ceca) |
-| Sun, 07 Dec 2025 19:09:26 GMT | Detecting Web DDoS - TryHackMe Room Walkthrough | Crypt0K33p3r | [Read More](https://medium.com/p/4c7528a07908) |
-| Sun, 07 Dec 2025 19:06:59 GMT | Insider Risk Management Demystified — How Microsoft Purview Helps You Spot Risks Before They… | D3ad_M3m0r13s | [Read More](https://medium.com/p/114f5c3611aa) |
-| Sun, 07 Dec 2025 19:06:30 GMT | Our Smart Irrigation Journey: How We’re Using IoT to Make Farming Smarter (and Easier!) | Aaronnsajuli | [Read More](https://medium.com/p/e91b8c6ee1bf) |
-| Sun, 07 Dec 2025 18:54:18 GMT | PortSwigger Web LLM attacks LAB 1: “Exploiting LLM APIs with excessive agency” | KRISHNA KUMAWAT | [Read More](https://medium.com/p/04a2f810da0f) |
-| Sun, 07 Dec 2025 18:54:18 GMT | Top 10 laptops in 2025 | Latea | [Read More](https://medium.com/p/2a78bbda2732) |
-| Sun, 07 Dec 2025 18:51:34 GMT | Advent of Cyber 2025 — Prep Track Complete ✅ | Nazmul Islam | [Read More](https://medium.com/p/6d58d06dc254) |
-| Sun, 07 Dec 2025 18:48:27 GMT | TCP Challenges — Part 1 : Back to College - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/418d66cb9e7f) |
-| Sun, 07 Dec 2025 18:32:44 GMT | From Zero to Ethical Hacker: The Guide I Wish I Had When I Started | Axoloth | [Read More](https://medium.com/p/d9e00781dd19) |
