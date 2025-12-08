@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 06:22:11 GMT | Apple and Google sound alarm over rising spyware threats: New threat wave hits users globally | Kavi Devendran | [Read More](https://medium.com/p/3fd232a8d609) |
+| Mon, 08 Dec 2025 06:20:06 GMT | How We Fall Victims to Cybercrime And No One Tells You | kuneblvck | [Read More](https://medium.com/p/1b122f562c43) |
+| Mon, 08 Dec 2025 06:19:55 GMT | Secure Hosting Isn’t Optional: Protect Your Business Today | HSINGH WEB STUDIO | [Read More](https://medium.com/p/367554bfbcfa) |
+| Mon, 08 Dec 2025 06:17:30 GMT | Cyber Security Services Providers -Cyber Security Solutions, UK | QualysecEurope | [Read More](https://medium.com/p/3fbf4b62894e) |
+| Mon, 08 Dec 2025 06:07:55 GMT | A Cyber Threat Intelligence Practical Guide to Analyzing TTPs Using MITRE ATT&CK | Iman Kurnia | [Read More](https://medium.com/p/30fe48e55a9a) |
+| Mon, 08 Dec 2025 06:03:52 GMT | CCEP Certification Review: How I Passed It for Free (Worth It or Not?) | Reju Kole | [Read More](https://medium.com/p/0a6927b42049) |
+| Mon, 08 Dec 2025 06:03:37 GMT | Diploma of Leadership and Management in Australia for International Students | AIST | [Read More](https://medium.com/p/1ea7e267c016) |
+| Mon, 08 Dec 2025 06:01:28 GMT | Why AI-Driven Malware Will Dominate 2026 | Avlex Group | [Read More](https://medium.com/p/b497b42da442) |
+| Mon, 08 Dec 2025 05:54:57 GMT | ERP Cloud Security: Debunking the Myths and Addressing Your Real Risks | Anirudh M | [Read More](https://medium.com/p/ac475c475e5f) |
+| Mon, 08 Dec 2025 05:49:56 GMT | IDOR & Parameter Tampering Vulnerability — How a Simple URL Change Exposed Hidden Content | Sabuj Kumar Modak | [Read More](https://medium.com/p/c8ce26e512ca) |
+| Mon, 08 Dec 2025 05:45:43 GMT | Securitec Security — Protecting Perth, One Property at a Time | Securitec Security | [Read More](https://medium.com/p/73a633995b71) |
+| Mon, 08 Dec 2025 05:41:01 GMT | Exploiting EternalBlue (MS17–010) — Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/69156626a3d2) |
 | Mon, 08 Dec 2025 05:38:06 GMT | How Major Security Incidents Shift Urban Consumer Behaviour? — Lessons from the Delhi Blast | Nisarg Sutaria | [Read More](https://medium.com/p/8ffb36052728) |
 | Mon, 08 Dec 2025 05:31:07 GMT | WhatsApp’s New Security Mode Gives iPhone Users One-Tap Protection | WABetaInfo | [Read More](https://medium.com/p/8bb64955811c) |
 | Mon, 08 Dec 2025 05:31:01 GMT | The Security Benchmark Suppliers Must Meet to Stay Competitive | Kadhijahafiya | [Read More](https://medium.com/p/4ea5f2ab6790) |
@@ -101,15 +113,3 @@ You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
 | Sun, 07 Dec 2025 20:28:28 GMT | The Elder Plinus Engine: How PromptShot Became a Dynamic LLM Jailbreaking Framework | Onurcan Genç | [Read More](https://medium.com/p/853e7dffed26) |
 | Sun, 07 Dec 2025 20:27:53 GMT | Part 14: Virtual Box IT Home Lab — Understanding IT Tickets (Using Spiceworks, RDP Tools) | Declan | [Read More](https://medium.com/p/31e4ffdd4d13) |
 | Sun, 07 Dec 2025 20:26:56 GMT | Part 13: Virtual Box IT Home Lab — Setting up a printer on a domain. | Declan | [Read More](https://medium.com/p/5d4a09772ffc) |
-| Sun, 07 Dec 2025 20:26:08 GMT | PSA: Elevator (un)safety! | @boblord | [Read More](https://medium.com/p/7ac69a9498de) |
-| Sun, 07 Dec 2025 20:25:00 GMT | “Reverse Engineering” | Sude E. | [Read More](https://medium.com/p/bd6bc45e6cd9) |
-| Sun, 07 Dec 2025 20:16:31 GMT | Only XSS? Here’s How Hackers Still Get In | karincayiyen | [Read More](https://medium.com/p/8e632a23803c) |
-| Sun, 07 Dec 2025 20:15:02 GMT | Security Culture Is the Only Way Forward | Kay Adelaja | [Read More](https://medium.com/p/3e93d0c4acc5) |
-| Sun, 07 Dec 2025 20:12:53 GMT | What ML Practitioners Really Think About Privacy & Security: Insights from a Practitioner’s Study | Tanishka Mali | [Read More](https://medium.com/p/1a9ad24ca701) |
-| Sun, 07 Dec 2025 20:08:50 GMT | SnakeKeylogger: A Deep Dive into a Modern Infostealer | MalwareDoctor | [Read More](https://medium.com/p/e48a79cde7d1) |
-| Sun, 07 Dec 2025 20:08:39 GMT | ️ Vegeta1 — Complete Walkthrough (Fun, Clear & Knowledge-Packed!) | IshhIshneet | [Read More](https://medium.com/p/261e3b19fd77) |
-| Sun, 07 Dec 2025 19:59:12 GMT | Your Next Hacker Might Not Be Human | Czarif | [Read More](https://medium.com/p/98626c48e5b5) |
-| Sun, 07 Dec 2025 19:57:30 GMT | Ukraine’s Hackers Hit Russia Harder Than Any Missile Could | Lucian Marek | [Read More](https://medium.com/p/ccba9e43c346) |
-| Sun, 07 Dec 2025 19:55:28 GMT | Ghost in the Machine: Why We’re Storing Data in Sound Waves Instead of Silicon | CHENURA OSHADA | [Read More](https://medium.com/p/f274b0757e4b) |
-| Sun, 07 Dec 2025 19:47:28 GMT | HTB: Mirage Writeup | CravateRouge | [Read More](https://medium.com/p/f994c0600318) |
-| Sun, 07 Dec 2025 19:44:19 GMT | ZoreonX: The New Standard in Intelligent Crypto Investing | Oviela | [Read More](https://medium.com/p/0c5ff53821e2) |
