@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 20:10:07 GMT | Basics Commands of Kali-Linux for Ethical Hacking (PART-1) | Akhil Thakur | [Read More](https://medium.com/p/2f871c1ceeb3) |
+| Mon, 08 Dec 2025 20:10:00 GMT | Advent of Cyber 2025 - Day 8: Prompt Injection — Sched-yule conflict | D4m.sh | [Read More](https://medium.com/p/255a9e84da92) |
+| Mon, 08 Dec 2025 20:06:24 GMT | tester | Josephhu | [Read More](https://medium.com/p/7befdd25a4ce) |
+| Mon, 08 Dec 2025 20:04:30 GMT | Machine learning model evaluation: detecting fraudulent transactions. | Josh | [Read More](https://medium.com/p/21b3392fb50e) |
+| Mon, 08 Dec 2025 20:03:22 GMT | Linux Network Sniffing & Packet Capture for Hackers | Cybersecplayground | [Read More](https://medium.com/p/7afcfb0444d0) |
+| Mon, 08 Dec 2025 19:59:09 GMT | DevSecOps in 2025: Embedding Security Into Every Stage of Your Software Delivery Pipeline | K.sharath chandra | [Read More](https://medium.com/p/1297e1a2754b) |
+| Mon, 08 Dec 2025 19:54:35 GMT | Part 3 : DNS Log Analysis using Splunk | Chaima KHABTHENI | [Read More](https://medium.com/p/6a5b2f2512a0) |
+| Mon, 08 Dec 2025 19:52:25 GMT | Guard Workforce Management in 2025: What Security Companies Should Focus On | Teona | [Read More](https://medium.com/p/8fc32b8794f1) |
+| Mon, 08 Dec 2025 19:43:43 GMT | Why Your AI Coding Assistant Needs a Security Layer (And How to Add One in 2 Minutes) | Mike Hanol | [Read More](https://medium.com/p/d8888db2be29) |
+| Mon, 08 Dec 2025 19:41:15 GMT | The Purdue Model: Understanding OT Network Architecture | urjasec | [Read More](https://medium.com/p/53f05d18cbac) |
 | Mon, 08 Dec 2025 19:27:26 GMT | Part 2 /5:  SSH Log Analysis: Detecting Brute Force Attacks | Chaima KHABTHENI | [Read More](https://medium.com/p/d04254cd0213) |
 | Mon, 08 Dec 2025 19:26:46 GMT | When “Deleted” Isn’t Gone: What I Found Inside Used Hard Drives | MV Intelligence | [Read More](https://medium.com/p/9450f5e48b69) |
 | Mon, 08 Dec 2025 19:24:05 GMT | Unlocking Linux Process Power: Part 1 Monitor, Inspect Processes Like a Pro | MR.7 | [Read More](https://medium.com/p/502f73ae946a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 14:37:00 GMT | Et si on arrêtait d’hystériser les fuites de données pour enfin parler cybersécurité ? | cybertactic | [Read More](https://medium.com/p/dfd20134b3c6) |
 | Mon, 08 Dec 2025 14:32:11 GMT | (Comptia A+) Understanding Cybersecurity Threats: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/cb32ddba1a3c) |
 | Mon, 08 Dec 2025 14:32:11 GMT | Back to Basics in Jira: My Technical Walkthrough of Issuing and Resolving Service Tickets | Tyrik Emptage | [Read More](https://medium.com/p/a0b4c0b14cfc) |
-| Mon, 08 Dec 2025 14:29:41 GMT | Implementing Communication Encryption in Tor C2 — Part 7 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/14ec9c6f02ca) |
-| Mon, 08 Dec 2025 14:26:26 GMT | What a Honeypot Taught Me About Real-World Deception in Cybersecurity | Tyreek Haynes | [Read More](https://medium.com/p/0e8ea5241a34) |
-| Mon, 08 Dec 2025 14:22:21 GMT | ️‍♂️ My Complete Recon Workflow for Bug Bounty Hunting (2025 Edition) | Purushotham.R | [Read More](https://medium.com/p/587b903385c0) |
-| Mon, 08 Dec 2025 14:22:13 GMT | Bridging the Gap Between Academia and Real-World Cybersecurity: My Guest Lecture at COMSATS… | Raed Ahsan | [Read More](https://medium.com/p/ee25f61a23b4) |
-| Mon, 08 Dec 2025 14:21:23 GMT | From Simple File Upload to Full Server Control (Even If You Didn’t Get RCE Yet) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/afd9debd3c6b) |
-| Mon, 08 Dec 2025 14:18:39 GMT | Avoid Leaking Secrets In Your Code | Til Schwarze | [Read More](https://medium.com/p/d96b6a5d0aa8) |
-| Mon, 08 Dec 2025 14:16:33 GMT | Neden AI × Embedded × Cyber? Yeni Mühendislik Üçgeni | Hüseyin Sarıkaya | [Read More](https://medium.com/p/8de8eebcf0d4) |
-| Mon, 08 Dec 2025 14:12:18 GMT | Building SOC 2 & ISO 27001 Controls on AWS — A Step-by-Step Practical Guide for DevSecOps Teams | Davebhargavi | [Read More](https://medium.com/p/02ca4341630b) |
-| Mon, 08 Dec 2025 14:12:04 GMT | Why TypeScript Is More Secure Than JavaScript — And Why Most Developers Can’t Explain Why | Arnold CONVOLBO | [Read More](https://medium.com/p/db4620dc9c4d) |
-| Mon, 08 Dec 2025 14:10:56 GMT | Resilience Beyond Technology: Why Human-Centric Cybersecurity Matters More Than Ever | Hello @ Octellient | [Read More](https://medium.com/p/f97bae6733cb) |
