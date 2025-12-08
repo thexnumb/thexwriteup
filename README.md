@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 17:31:35 GMT | Lab: User role can be modified in user profile | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6bcf0def68c0) |
+| Mon, 08 Dec 2025 17:28:08 GMT | Backdoor CTF-2025: Flask of Cookies writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/fcd81b892608) |
+| Mon, 08 Dec 2025 17:28:02 GMT | .NET Core’da Kapıları Kilitlemek: JWT (JSON Web Token) Mantığı | Mehmet Sönmez | [Read More](https://medium.com/p/dce5a8930096) |
+| Mon, 08 Dec 2025 17:21:44 GMT | Vibecoding Feels Magical — But Is It Safe? A Gentle Reality Check for the AI Coding Era | APARNA BODA | [Read More](https://medium.com/p/58f55b3fe0c1) |
+| Mon, 08 Dec 2025 17:16:27 GMT | Cloudflare Outage Today Knocks Major Global Websites Offline | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/40b4a4250e0a) |
 | Mon, 08 Dec 2025 17:12:56 GMT | The Unconventional OSINT: How Dark Web Tools Gave Me the Edge to Find a $ Bug ️‍♂️ | Iski | [Read More](https://medium.com/p/29397e2d6a1a) |
 | Mon, 08 Dec 2025 17:12:45 GMT | How to Remediate the React2Shell Vulnerability (CVE-2025–55182): A Step-by-Step Guide | Vamshi Vangapally | [Read More](https://medium.com/p/bcb0d3dcc79c) |
 | Mon, 08 Dec 2025 17:11:03 GMT | Encryption vs Hashing: What’s the Real Difference? | Jitesh Dalsaniya | [Read More](https://medium.com/p/7fc8fc5d877e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 12:33:12 GMT | TryHackMe - Linux Logging for SOC Walkthrough | Birdv | [Read More](https://medium.com/p/efafb8c6bb3e) |
 | Mon, 08 Dec 2025 12:26:23 GMT | Guarding the Digital Frontier: The Case for National Internet Security | Mwesigwa Jayden | [Read More](https://medium.com/p/c7a476b30019) |
 | Mon, 08 Dec 2025 12:26:04 GMT | Filtering Out Noise on Burp Suite with TLS Pass-Through (Quick Guide) | MaMad | [Read More](https://medium.com/p/b8c58440f302) |
-| Mon, 08 Dec 2025 12:21:34 GMT | Top Security Announcements from AWS re:Invent 2025: Revolutionizing Cloud Security | Shriram Wasule | [Read More](https://medium.com/p/a16bd69fcc2a) |
-| Mon, 08 Dec 2025 12:20:00 GMT | Understanding Darkweb Exit Scams: How They Work & Why They’re Rising | Tor BBB | [Read More](https://medium.com/p/9c2984485960) |
-| Mon, 08 Dec 2025 12:17:33 GMT | Effective Incident Response Advantage: From Reactive to Cybersecurity Resilience | NetWitness | [Read More](https://medium.com/p/0ebbb313ded6) |
-| Mon, 08 Dec 2025 12:15:16 GMT | “How fast can we detect, isolate, and neutralise a breach before it erodes enterprise value?” | Barry Ritchie | [Read More](https://medium.com/p/ad79e1b4c693) |
-| Mon, 08 Dec 2025 12:15:04 GMT | Best 5 VPNs for Mac to Keep You Safe and Streaming | Tsumit | [Read More](https://medium.com/p/ea22a83e9153) |
