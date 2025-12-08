@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 17:12:56 GMT | The Unconventional OSINT: How Dark Web Tools Gave Me the Edge to Find a $ Bug ️‍♂️ | Iski | [Read More](https://medium.com/p/29397e2d6a1a) |
+| Mon, 08 Dec 2025 17:12:45 GMT | How to Remediate the React2Shell Vulnerability (CVE-2025–55182): A Step-by-Step Guide | Vamshi Vangapally | [Read More](https://medium.com/p/bcb0d3dcc79c) |
+| Mon, 08 Dec 2025 17:11:03 GMT | Encryption vs Hashing: What’s the Real Difference? | Jitesh Dalsaniya | [Read More](https://medium.com/p/7fc8fc5d877e) |
+| Mon, 08 Dec 2025 17:07:17 GMT | Only Prompt Injection? How MCP Turns AI into an Attack Vector | karincayiyen | [Read More](https://medium.com/p/b6a417047468) |
+| Mon, 08 Dec 2025 17:05:51 GMT | Simple Hacking Technique for Beginners (2025 Edition) | Scofield O. Idehen | [Read More](https://medium.com/p/0bb4d7d7b3a7) |
+| Mon, 08 Dec 2025 17:01:27 GMT | Why Choose Rainbow Secure for MFA & IAM: A Blueprint for Business Resilience | Dr. Shashi Karhail | [Read More](https://medium.com/p/69943562798c) |
+| Mon, 08 Dec 2025 17:00:50 GMT | The “Niki Minja” Moment | Lessons in the Mundane | [Read More](https://medium.com/p/88e70c394e62) |
+| Mon, 08 Dec 2025 16:32:10 GMT | Inside Scammer Playbooks: Banking Manipulation Scripts Exposed | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/da4b3c011b6a) |
 | Mon, 08 Dec 2025 16:26:20 GMT | From Account Operator to Domain Admin: The Hidden Dangerous 60-Minute Window in Active Directory | Christian Kold Jensen | [Read More](https://medium.com/p/3790e9d5091f) |
 | Mon, 08 Dec 2025 16:22:06 GMT | Investigando um Phishing! — SOC146 Phishing Mail Detected — Blue Team | Otávio Alves | [Read More](https://medium.com/p/a8961c6e19ee) |
 | Mon, 08 Dec 2025 16:21:39 GMT | The 6 Cyber Threats Every Small Business Must Prepare for in 2026 | Cordula Boeck | [Read More](https://medium.com/p/1fc7a99e3bd5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 12:17:33 GMT | Effective Incident Response Advantage: From Reactive to Cybersecurity Resilience | NetWitness | [Read More](https://medium.com/p/0ebbb313ded6) |
 | Mon, 08 Dec 2025 12:15:16 GMT | “How fast can we detect, isolate, and neutralise a breach before it erodes enterprise value?” | Barry Ritchie | [Read More](https://medium.com/p/ad79e1b4c693) |
 | Mon, 08 Dec 2025 12:15:04 GMT | Best 5 VPNs for Mac to Keep You Safe and Streaming | Tsumit | [Read More](https://medium.com/p/ea22a83e9153) |
-| Mon, 08 Dec 2025 12:13:01 GMT | IMMEDIATE THREAT: AI Voice Cloning Steals Your Voice to Steal Your Money | Sakhi | [Read More](https://medium.com/p/190051eb7115) |
-| Mon, 08 Dec 2025 12:11:55 GMT | The Significance of Cyber Security in Software Development | Innov8world - Top Outsourcing Software Company | [Read More](https://medium.com/p/6c83d83dfb98) |
-| Mon, 08 Dec 2025 12:08:52 GMT | Why Thread Locals Look Smart — Until They Leak Memory in Production | The Dev Notebook | [Read More](https://medium.com/p/f5990ee79aea) |
-| Mon, 08 Dec 2025 12:07:37 GMT | Why Can’t the Metaverse Say “Yes, This MU = the Real You, 100%”? | Nabeaum | [Read More](https://medium.com/p/ff902003ec46) |
-| Mon, 08 Dec 2025 12:02:31 GMT | Writeup for picoCTF challenge “Scavenger Hunt” | Walter Moar | [Read More](https://medium.com/p/ec652b2a9989) |
-| Mon, 08 Dec 2025 12:01:38 GMT | Cybersecurity in Software Development | Shwaet Satim | [Read More](https://medium.com/p/a10868e7bf36) |
-| Mon, 08 Dec 2025 11:57:06 GMT | Benefits of Python Development Companies for Your Business | sanjay aalpha | [Read More](https://medium.com/p/73d893c25da6) |
-| Mon, 08 Dec 2025 11:52:24 GMT | Your Favourite Website Can Be Hacked Without the Hacker Ever Touching Your Device | Masturah Babawale | [Read More](https://medium.com/p/5cb37226b0cd) |
