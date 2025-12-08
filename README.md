@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 01:38:48 GMT | [be rust] Kafka: Adding SASL/PLAIN Authentication to Rust Clients with rust-rdkafka | Andrian Tri Putra | [Read More](https://medium.com/p/d3c6f4cc7591) |
+| Mon, 08 Dec 2025 01:38:11 GMT | Ghost in the WAF: Building “WAF-Whisper” — An Adaptive Evasion Engine | Nmullenski | [Read More](https://medium.com/p/54366af7e99a) |
+| Mon, 08 Dec 2025 01:37:54 GMT | The Ultimate Guide to Active Directory LDAP Enumeration Using NetExec | Tareshsharma | [Read More](https://medium.com/p/af7f24ec05ff) |
+| Mon, 08 Dec 2025 01:23:03 GMT | DEFENSE- IN -DEPTH : THAT FOOTBALL, MOVIE AND ADULT SITE WILL RUIN YOUR LIFE | Oyeniyi Oluwatayo James | [Read More](https://medium.com/p/c88414105d74) |
+| Mon, 08 Dec 2025 01:18:12 GMT | Bypassing PHP Disable Functions with LD_PRELOAD | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/b9c7d1628c7e) |
+| Mon, 08 Dec 2025 01:17:57 GMT | Basic Pentesting Walkthrough with Python Automation | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/693f690a55ea) |
+| Mon, 08 Dec 2025 01:08:13 GMT | VPN Security & Cyber Safety: Your Invisible Shield in a Not-So-Safe Internet World | Kinlee Dionio | [Read More](https://medium.com/p/91a8660c8747) |
+| Mon, 08 Dec 2025 00:50:31 GMT | ️ Stop the Stalkers: Why Your Digital Life is Up For Sale and How to Reclaim It
+You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
+| Mon, 08 Dec 2025 00:49:09 GMT | Understanding of React2Shell | Ashok | [Read More](https://medium.com/p/6c5ecdf2d89b) |
+| Mon, 08 Dec 2025 00:35:32 GMT | Rising Android Threat Targeting Mobile Banking Users | Geoffrey Wenger | [Read More](https://medium.com/p/e32baafc1074) |
+| Mon, 08 Dec 2025 00:34:57 GMT | Virtual Kidnapping Scams Are Evolving Faster Than People Expect | Geoffrey Wenger | [Read More](https://medium.com/p/a0a37db5cdbd) |
+| Mon, 08 Dec 2025 00:14:15 GMT | From Diagrams to Packets: Building My First FortiGate Lab as a New Defender | Barbaros Emre Alagöz | [Read More](https://medium.com/p/8bb5d6c880ed) |
+| Mon, 08 Dec 2025 00:01:26 GMT | CyberDefenders - Tusk Infostealer Lab - Walkthrough | Drew Arpino | [Read More](https://medium.com/p/8abb35ea4449) |
+| Sun, 07 Dec 2025 23:57:37 GMT | What Most Amateur Algerian Phishers Get Wrong: A Cybersecurity Perspective | Zahi halimi | [Read More](https://medium.com/p/0dd042dd6510) |
+| Sun, 07 Dec 2025 23:56:09 GMT | Thinking in 3D: The Simple Framework That Could Save Your Digital Life | Oghenemaro Ikelegbe | [Read More](https://medium.com/p/407e78835f7a) |
 | Sun, 07 Dec 2025 23:35:44 GMT | TLD Discovery For BugBounty | 0X0mahmoud | [Read More](https://medium.com/p/07340cf543ff) |
+| Sun, 07 Dec 2025 23:32:30 GMT | The Security Vulnerabilities I Shipped to Production | DefineWorld | [Read More](https://medium.com/p/ce8165ed7871) |
 | Sun, 07 Dec 2025 23:16:33 GMT | Post 3: What Actually Is Information Technology (IT)? — Sally’s Business | SattiData | [Read More](https://medium.com/p/23cbc12494b7) |
 | Sun, 07 Dec 2025 23:09:56 GMT | The Pratfall Effect: Why Your Imperfections Make You More Likeable | Insightful Savant | [Read More](https://medium.com/p/072a3dc5edd2) |
 | Sun, 07 Dec 2025 23:02:15 GMT | Public Wi-Fi is a Trap. Here’s How to Secure It for $0. | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/b3827b76f5d9) |
@@ -96,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Dec 2025 16:33:05 GMT | The Mistake That Made Me Fall in Love With Cybersecurity | Mubashir | [Read More](https://medium.com/p/ed620c1af1bd) |
 | Sun, 07 Dec 2025 16:31:52 GMT | Demystifying Network Spoofing: MAC, ARP, and IP Spoofing Explained | Ajmir khan | [Read More](https://medium.com/p/1288e2a5b709) |
 | Sun, 07 Dec 2025 16:30:05 GMT | HTB Challenge — The Suspicious Reviewer (OSINT) | Fardeen A. | [Read More](https://medium.com/p/6b3d72153d6d) |
-| Sun, 07 Dec 2025 16:29:31 GMT | OpenAI–Mixpanel Metadata Exposure: Technical Analysis and Investigation Roadmap | Brandon Paul | [Read More](https://medium.com/p/38acff4ad203) |
-| Sun, 07 Dec 2025 16:25:48 GMT | Tor, Onion Services, and the Business of Anonymity | BiyteLüm | [Read More](https://medium.com/p/bcfe760ffb4e) |
-| Sun, 07 Dec 2025 16:25:17 GMT | The Digital Resilience Paradox: Why Your Firewalls Can’t Stop Cognitive Hacking | NOUCAIR | [Read More](https://medium.com/p/dce8f1c424f5) |
-| Sun, 07 Dec 2025 16:24:20 GMT | 2026 Red Team — Kendi Hacking Araçlarımızı Yazmayı Öğreniyoruz | mintercoder | [Read More](https://medium.com/p/9f52c4e4a550) |
-| Sun, 07 Dec 2025 16:20:36 GMT | Malicious Devices: Understanding the Invisible Threats in the Digital World | Harshit Sharma | [Read More](https://medium.com/p/c8c47608280b) |
-| Sun, 07 Dec 2025 16:18:29 GMT | ️ Kernel Module Analysis: Uncovering Hidden Threats at the Deepest Level | Esra Kayhan | [Read More](https://medium.com/p/d621a76cb6af) |
-| Sun, 07 Dec 2025 16:16:56 GMT | Bash Automation for Security Tasks: The Power of Automation in Linux ️ | Esra Kayhan | [Read More](https://medium.com/p/45434973ebf6) |
-| Sun, 07 Dec 2025 16:15:23 GMT | The Fog of The Information Age | Zebra Black MFA | [Read More](https://medium.com/p/025fb3960a8f) |
-| Sun, 07 Dec 2025 16:03:51 GMT | Everything Is Free Until You Realise What You Paid With — A Piece On Surveillance Capitalism | Gayathri Krishnan | [Read More](https://medium.com/p/94b8acf110e5) |
-| Sun, 07 Dec 2025 16:02:42 GMT | Day 5: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/15745a2c49f5) |
-| Sun, 07 Dec 2025 16:00:19 GMT | Access control | Songül Kızılay Özügürler | [Read More](https://medium.com/p/c079684269e4) |
-| Sun, 07 Dec 2025 15:54:32 GMT | The Operationalization of Agentic AI in Offensive Operations | Lucas Marques | [Read More](https://medium.com/p/0c31ea702d3c) |
-| Sun, 07 Dec 2025 15:54:01 GMT | Smart and Virtual Buoys: Navigating the Future of Maritime Safety | Raghu Sharma | [Read More](https://medium.com/p/d80230bb2210) |
-| Sun, 07 Dec 2025 15:38:50 GMT | Vibe Coding Is Not Your Junior Dev: AI Agents, No-Code Dreams, and the Security Nightmare Ahead | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/524c1ab4c906) |
-| Sun, 07 Dec 2025 15:32:54 GMT | TryHackMe Mustacchio Writeup | Gothos | [Read More](https://medium.com/p/e99515ab6364) |
-| Sun, 07 Dec 2025 15:28:40 GMT | How We Stopped a Crypto-Mining Attack on One of Our Servers | Ramadhani Baharzah | [Read More](https://medium.com/p/3a564365a77b) |
