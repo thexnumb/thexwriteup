@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 07:11:05 GMT | Internal vs External Pentest: 12 Tools Clients Don’t Know Exist (and How Pros Use Them) | Very Lazy Tech | [Read More](https://medium.com/p/bab73f2b23a6) |
+| Mon, 08 Dec 2025 07:08:33 GMT | ️ The New Mindset for Data Protection & Privacy in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/3747fcf111aa) |
+| Mon, 08 Dec 2025 07:01:32 GMT | CZ’s Hardware Wallet Red Line: Why Digital Shield Insists on “Private Keys Must Never Leave the… | Digital Shield Offcial | [Read More](https://medium.com/p/421a07c8821e) |
+| Mon, 08 Dec 2025 07:01:28 GMT | Angular Development Services from a Top Rated Expert CompanyAngular Development Services from a Top… | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/2d56d7bc27ce) |
+| Mon, 08 Dec 2025 07:01:05 GMT | How understanding organic life cycles can contribute to mutually healthy synthetic emergent… | JayCee | [Read More](https://medium.com/p/d63e89971f47) |
+| Mon, 08 Dec 2025 07:00:56 GMT | Tải Starlit Adventures Mod Apk V4.7 (Vô Hạn Tiền, Lo Thuốc) | GOCMOD | [Read More](https://medium.com/p/b3fb690037b5) |
+| Mon, 08 Dec 2025 06:59:38 GMT | Currency Rates Implementation | Eldorado.gg | [Read More](https://medium.com/p/ad80df62d127) |
+| Mon, 08 Dec 2025 06:52:01 GMT | Secure Information Technology Services Barcelona - Professional IT Security by SSI IT | Public | [Read More](https://medium.com/p/517b17740cda) |
+| Mon, 08 Dec 2025 06:51:32 GMT | Network Discovery — Scan-ta Clause | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/b15584f341c4) |
+| Mon, 08 Dec 2025 06:50:08 GMT | Why Microsoft Keeps Increasing Security On License Keys? | Tanisha | [Read More](https://medium.com/p/9aef44947d08) |
+| Mon, 08 Dec 2025 06:46:32 GMT | Top Cybersecurity Companies in Bangalore to Watch in 2026 | CyRAACS | [Read More](https://medium.com/p/a7c717a0a2eb) |
+| Mon, 08 Dec 2025 06:46:22 GMT | Teacher… Aren’t There Some Flowers That Never Bloom? | Claire Yaishi | [Read More](https://medium.com/p/8f2e7af1f034) |
+| Mon, 08 Dec 2025 06:27:03 GMT | Advent of Cyber 2025 Day2 — Tryhackme walkthrough (Rooms:-Phishing — Merry Clickmas) | TRedEye | [Read More](https://medium.com/p/af8ba574ecc0) |
 | Mon, 08 Dec 2025 06:22:11 GMT | Apple and Google sound alarm over rising spyware threats: New threat wave hits users globally | Kavi Devendran | [Read More](https://medium.com/p/3fd232a8d609) |
 | Mon, 08 Dec 2025 06:20:06 GMT | How We Fall Victims to Cybercrime And No One Tells You | kuneblvck | [Read More](https://medium.com/p/1b122f562c43) |
 | Mon, 08 Dec 2025 06:19:55 GMT | Secure Hosting Isn’t Optional: Protect Your Business Today | HSINGH WEB STUDIO | [Read More](https://medium.com/p/367554bfbcfa) |
@@ -100,16 +113,3 @@ You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
 | Sun, 07 Dec 2025 21:52:53 GMT | Editor ✍️ - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/597ff6d6bb08) |
 | Sun, 07 Dec 2025 21:43:34 GMT | Software Quality: Simplify It and Earn the Trust of Your Users (and Your Own!) | Agilista Desenvolvedor | [Read More](https://medium.com/p/42fa8d54998e) |
 | Sun, 07 Dec 2025 21:43:33 GMT | Proving Grounds - Boolean | jniket | [Read More](https://medium.com/p/2609d211e473) |
-| Sun, 07 Dec 2025 21:37:10 GMT | Invention-blackhat finals | phisher | [Read More](https://medium.com/p/8de00e5a7c0c) |
-| Sun, 07 Dec 2025 21:16:30 GMT | How I found the $5,730 business logic flaw | Ibtissam | [Read More](https://medium.com/p/f8fe322f9930) |
-| Sun, 07 Dec 2025 21:15:32 GMT | Top Companies to Recover Lost Bitcoin Optimistic Hacker Gaius: Is The Best Crypto Asset Recovery… | John Elijah | [Read More](https://medium.com/p/adf2f52c75b9) |
-| Sun, 07 Dec 2025 21:09:25 GMT | Memory Forensic vs EDR — Talk | Dean | [Read More](https://medium.com/p/b477b6ceaf05) |
-| Sun, 07 Dec 2025 21:06:53 GMT | Understanding HIPAA Compliance for Software Engineers | Sungjin Yoo | [Read More](https://medium.com/p/7f0dedfc20a8) |
-| Sun, 07 Dec 2025 21:04:52 GMT | A Deep Dive into Timing Attacks, IP Spoofing, and Race Conditions, the Hidden Vulnerabilities in… | EDMOND GIHOZO | [Read More](https://medium.com/p/897ca04e339d) |
-| Sun, 07 Dec 2025 20:45:47 GMT | The Future Has Arrived. What Should We Do Now? | Serdar ALKAN | [Read More](https://medium.com/p/2515ce56fc7e) |
-| Sun, 07 Dec 2025 20:45:09 GMT | Gelecek geldi.Şimdi ne yapmalı? | Serdar ALKAN | [Read More](https://medium.com/p/9dde75096585) |
-| Sun, 07 Dec 2025 20:30:06 GMT | How to Make AWS Infrastructure more Secure? | Nilesh Gadgi | [Read More](https://medium.com/p/3fbef340aa44) |
-| Sun, 07 Dec 2025 20:29:59 GMT | Advent of Cyber 2025 - Day 7: Network Discovery - Scan-ta Clause | Akshat Patel | [Read More](https://medium.com/p/d34e3bf22c70) |
-| Sun, 07 Dec 2025 20:28:28 GMT | The Elder Plinus Engine: How PromptShot Became a Dynamic LLM Jailbreaking Framework | Onurcan Genç | [Read More](https://medium.com/p/853e7dffed26) |
-| Sun, 07 Dec 2025 20:27:53 GMT | Part 14: Virtual Box IT Home Lab — Understanding IT Tickets (Using Spiceworks, RDP Tools) | Declan | [Read More](https://medium.com/p/31e4ffdd4d13) |
-| Sun, 07 Dec 2025 20:26:56 GMT | Part 13: Virtual Box IT Home Lab — Setting up a printer on a domain. | Declan | [Read More](https://medium.com/p/5d4a09772ffc) |
