@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 16:26:20 GMT | From Account Operator to Domain Admin: The Hidden Dangerous 60-Minute Window in Active Directory | Christian Kold Jensen | [Read More](https://medium.com/p/3790e9d5091f) |
+| Mon, 08 Dec 2025 16:22:06 GMT | Investigando um Phishing! — SOC146 Phishing Mail Detected — Blue Team | Otávio Alves | [Read More](https://medium.com/p/a8961c6e19ee) |
+| Mon, 08 Dec 2025 16:21:39 GMT | The 6 Cyber Threats Every Small Business Must Prepare for in 2026 | Cordula Boeck | [Read More](https://medium.com/p/1fc7a99e3bd5) |
+| Mon, 08 Dec 2025 16:21:27 GMT | ️ Essential Cybersecurity Tools — Category-Wise (Simple & Short Guide) | Veeram Reddy | [Read More](https://medium.com/p/0b65f429f517) |
+| Mon, 08 Dec 2025 16:19:48 GMT | Founder MYQER message from ANITA | Myqer | [Read More](https://medium.com/p/b6ff7050731a) |
+| Mon, 08 Dec 2025 16:06:42 GMT | Veracode | Piyali Das | [Read More](https://medium.com/p/1e985b59ca23) |
+| Mon, 08 Dec 2025 16:03:30 GMT | The Hidden Forensic Trails Your PC Leaves Behind | Tattva Tarang | [Read More](https://medium.com/p/c70c5b51efcf) |
+| Mon, 08 Dec 2025 15:54:32 GMT | Most cyber failures start long before an attack. They start with misaligned expectations. | Douglas Ferguson | [Read More](https://medium.com/p/4db28ad03e36) |
+| Mon, 08 Dec 2025 15:48:31 GMT | Elon Musk VS European Union: Bagaimana Agenda-Setting Elon Musk Lewat Platform X Memperkeruh… | Aisyah Adinda Rachma | [Read More](https://medium.com/p/858f5730eccc) |
+| Mon, 08 Dec 2025 15:43:38 GMT | Who Wins in the 2026 Cybersecurity Job Market? | Taimur Ijlal | [Read More](https://medium.com/p/ac96e409ebcb) |
+| Mon, 08 Dec 2025 15:41:46 GMT | Ignite-Writeup TryHackMe Room | Foysalahmed | [Read More](https://medium.com/p/0a192912b54f) |
+| Mon, 08 Dec 2025 15:39:58 GMT | 28,000 Repos, One Breach: Why the Red Hat Incident Is a Wake-Up Call | Jyostnavya Jakkapu | [Read More](https://medium.com/p/35d11dd32e21) |
+| Mon, 08 Dec 2025 15:38:18 GMT | The Power of Practicing the Right Way: How Small Skills Shape Big Futures in Cybersecurity | NineTales | [Read More](https://medium.com/p/000330374b76) |
+| Mon, 08 Dec 2025 15:37:45 GMT | JWT Authentication Bypass via Algorithm Confusion With No Exposed Key | Bash Overflow | [Read More](https://medium.com/p/a9958117b6a2) |
+| Mon, 08 Dec 2025 15:31:58 GMT | 97 Days Unpatched: How #Links Hijack Perplexity Comet, Copilot & Gemini for 3B Users | MohamedAbdelmenem | [Read More](https://medium.com/p/3f43ac93cc17) |
 | Mon, 08 Dec 2025 15:25:34 GMT | freeRASP for Kotlin Multiplaform Guide | Talsec | [Read More](https://medium.com/p/9f6aaa1ec235) |
 | Mon, 08 Dec 2025 15:24:14 GMT | Where are the real value pools? | Kumar M | [Read More](https://medium.com/p/f61dfe758517) |
 | Mon, 08 Dec 2025 15:22:03 GMT | Stop Leaving Your Linux Server Open to Hackers: A Practical Security Guide | Ashish Singh | [Read More](https://medium.com/p/5b65db5df83c) |
@@ -30,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 14:45:39 GMT | SCIM Gets an Upgrade: How RFC 9865's Cursor Pagination Changes IAM Integrations | Ehsan | [Read More](https://medium.com/p/8fe6212fd35d) |
 | Mon, 08 Dec 2025 14:42:22 GMT | Understanding the OSI Model — The Framework Behind Every Digital Connection | Paul Meyer | [Read More](https://medium.com/p/9cc43abe9e7e) |
 | Mon, 08 Dec 2025 14:37:48 GMT | ️ I Discovered a Parameter Pollution Vulnerability in a Payment QR System | Nimit Ahir | [Read More](https://medium.com/p/0072038da4f6) |
+| Mon, 08 Dec 2025 14:37:00 GMT | Et si on arrêtait d’hystériser les fuites de données pour enfin parler cybersécurité ? | cybertactic | [Read More](https://medium.com/p/dfd20134b3c6) |
 | Mon, 08 Dec 2025 14:32:11 GMT | (Comptia A+) Understanding Cybersecurity Threats: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/cb32ddba1a3c) |
 | Mon, 08 Dec 2025 14:32:11 GMT | Back to Basics in Jira: My Technical Walkthrough of Issuing and Resolving Service Tickets | Tyrik Emptage | [Read More](https://medium.com/p/a0b4c0b14cfc) |
 | Mon, 08 Dec 2025 14:29:41 GMT | Implementing Communication Encryption in Tor C2 — Part 7 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/14ec9c6f02ca) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 12:01:38 GMT | Cybersecurity in Software Development | Shwaet Satim | [Read More](https://medium.com/p/a10868e7bf36) |
 | Mon, 08 Dec 2025 11:57:06 GMT | Benefits of Python Development Companies for Your Business | sanjay aalpha | [Read More](https://medium.com/p/73d893c25da6) |
 | Mon, 08 Dec 2025 11:52:24 GMT | Your Favourite Website Can Be Hacked Without the Hacker Ever Touching Your Device | Masturah Babawale | [Read More](https://medium.com/p/5cb37226b0cd) |
-| Mon, 08 Dec 2025 11:49:34 GMT | I Exploited React2Shell and Got Shell Access | Jordy de Koning | [Read More](https://medium.com/p/b3e18e7a484a) |
-| Mon, 08 Dec 2025 11:49:07 GMT | Tired of Chasing APYs? There’s a Smarter Way to Earn in DeFi | Kris0nFire | [Read More](https://medium.com/p/7d284f35708d) |
-| Mon, 08 Dec 2025 11:48:54 GMT | The 4 Silent Killers of Cybersecurity Exams (I Was Guilty of All of Them) | Zahra Bibi | [Read More](https://medium.com/p/cfc89c67b573) |
-| Mon, 08 Dec 2025 11:44:37 GMT | Which OnePlus 13R Model Has the Camera Everyone Loves? | Chloe White | [Read More](https://medium.com/p/1d9b35eec30c) |
-| Mon, 08 Dec 2025 11:39:12 GMT | Authentication Bypass Vulnerability Leading to Admin Panel Access | geme000 | [Read More](https://medium.com/p/42ff825765bc) |
-| Mon, 08 Dec 2025 11:34:27 GMT | SQL Injection — Stop This Classic Web App Killer | Monu Jangra | [Read More](https://medium.com/p/6221ff10c937) |
-| Mon, 08 Dec 2025 11:26:02 GMT | Overcoming Challenges in Multi-Channel Retail for PCI Compliance | Chad Barr | [Read More](https://medium.com/p/037a3bd5d414) |
-| Mon, 08 Dec 2025 11:24:40 GMT | The Cybersecurity Roadmap I Wish I Had: A 5-Step Guide for Beginners | Shamsuddeen Isah | [Read More](https://medium.com/p/71846b10b9bb) |
-| Mon, 08 Dec 2025 11:22:22 GMT | React2Shell Tehdidi: Next.js ve React Sunucu Bileşenlerinde Kritik RCE Açığı (CVSS 10.0) | Burak Demiröz | [Read More](https://medium.com/p/679974f59cff) |
-| Mon, 08 Dec 2025 11:22:13 GMT | BOLA & BFLA: The Two API Authorization Bugs That Break Everything | Mahmoudelshorpagy | [Read More](https://medium.com/p/ad01bcffdda6) |
-| Mon, 08 Dec 2025 11:19:09 GMT | Are Wireless Security Systems Reliable in Toronto? | Square Security Inc. | [Read More](https://medium.com/p/d1aabd97f34e) |
-| Mon, 08 Dec 2025 11:02:42 GMT | The “Two-Tap Trust” UX | Nexumo | [Read More](https://medium.com/p/0bcd5d7a82fa) |
-| Mon, 08 Dec 2025 10:58:52 GMT | How Secure Is Your Data? Navigating Smart Threats in the Age of AI 2026 and Beyond | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/fb55a6c6e32c) |
-| Mon, 08 Dec 2025 10:58:39 GMT | WGU Secure Network Design(D482) | Irene A. Gil | [Read More](https://medium.com/p/7d20e53bf177) |
-| Mon, 08 Dec 2025 10:50:12 GMT | How Your Phone Silently Betrayed Your Computer | Rabail Zaheer | [Read More](https://medium.com/p/4de52317de47) |
-| Mon, 08 Dec 2025 10:39:09 GMT | Nvidia Cosmos의 개념과 활용 | Maysay | [Read More](https://medium.com/p/29981459fe7d) |
