@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 09:23:13 GMT | How Hackers Sneak In Through Trusted Partners | Redfox Security | [Read More](https://medium.com/p/47ac575443f5) |
+| Mon, 08 Dec 2025 09:20:15 GMT | Building an AI-Powered Network Threat Detection System with Explainable AI: A Complete Journey… | Prateekpulastya | [Read More](https://medium.com/p/dfa32b0f7963) |
+| Mon, 08 Dec 2025 09:19:58 GMT | The UAE DDoS Storm | O. J. Okpabi | [Read More](https://medium.com/p/ab31dde9ec38) |
+| Mon, 08 Dec 2025 09:19:54 GMT | Living Inside a VPN Tunnel: Why I Finally Moved Over to Proxies | Martin E. | [Read More](https://medium.com/p/c172e9d34e7b) |
+| Mon, 08 Dec 2025 09:09:56 GMT | The Best AI Security Certifications to Boost Your Career in 2026 | Practical DevSecOps | [Read More](https://medium.com/p/56d541f052b5) |
+| Mon, 08 Dec 2025 09:08:41 GMT | Why Businesses Need Better Documentation for Cyber Compliance | Rahman Iqbal | [Read More](https://medium.com/p/cc90cd45cf0e) |
+| Mon, 08 Dec 2025 09:02:19 GMT | Stop Employee Account Takeovers With LeakRadar Stealer-Log Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/250377519888) |
+| Mon, 08 Dec 2025 09:02:13 GMT | Memory Done Right: Scoped, Expiring, and Auditable | Praxen | [Read More](https://medium.com/p/37a1b90250e7) |
+| Mon, 08 Dec 2025 09:00:59 GMT | Securing Your AI with CoT — A Practical Defense Against Prompt Injection | Ameya Suvarna | [Read More](https://medium.com/p/c4dc8d956b15) |
+| Mon, 08 Dec 2025 09:00:19 GMT | How Security Guards Support Brampton Film Sets and Entertainment Events | Diligent Security Services | [Read More](https://medium.com/p/903a0d7f721b) |
+| Mon, 08 Dec 2025 08:58:52 GMT | Stop Malware Now: Protect Your PC Before It Faces Trouble! | Manik | [Read More](https://medium.com/p/29b7450cfed6) |
+| Mon, 08 Dec 2025 08:40:12 GMT | GPS Spoofing at Major Airports: What Happened — and How Daifend Can Help Prevent the Next Incident | Bhawini. | [Read More](https://medium.com/p/64742e79881e) |
 | Mon, 08 Dec 2025 08:33:06 GMT | 5 Tiny Tech Mistakes That Caused Catastrophic Disasters | Vedant Jain | [Read More](https://medium.com/p/5e675ae0242e) |
+| Mon, 08 Dec 2025 08:32:58 GMT | React RCE Vulnerability (CVE-2025–55182): What It Is, Why It’s a Burning Problem, and How We Fix… | Sandeep Choudhary | [Read More](https://medium.com/p/e1b53dd29128) |
 | Mon, 08 Dec 2025 08:21:57 GMT | A Complete Guide to the AWS Associate Certification | cyber security Updates | [Read More](https://medium.com/p/ad6c979a76ce) |
 | Mon, 08 Dec 2025 08:21:10 GMT | Protect Your Privacy: Best Antivirus for PC for Complete Security | Siyanoav | [Read More](https://medium.com/p/99c1360f1a24) |
 | Mon, 08 Dec 2025 08:17:32 GMT | How to Install Acunetix on Kali Linux | Swarachis Sutradhar | [Read More](https://medium.com/p/b9e8db71b9b7) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 02:03:22 GMT | What Is WebRTC Used For? Does WebRTC Leak Your IP Address? | AdsPower Browser | [Read More](https://medium.com/p/04a56704ef8f) |
 | Mon, 08 Dec 2025 02:02:13 GMT | How Hackers Exploit Vulnerabilities to Gain Access. | Jugal Patel | [Read More](https://medium.com/p/fa8ebe12e1fd) |
 | Mon, 08 Dec 2025 01:47:08 GMT | How Developers Can Quickly Validate Application Security Before Deployment (2025 Guide) | Vulnersight | [Read More](https://medium.com/p/8cf00f17d193) |
-| Mon, 08 Dec 2025 01:42:24 GMT | The Mandatory Website Security Checklist for Your Business (2025 Edition) | Vulnersight | [Read More](https://medium.com/p/82dfc7fdb44b) |
-| Mon, 08 Dec 2025 01:41:51 GMT | Malspam targeted at Brazilian WhatsApp users | Rafael Batista | [Read More](https://medium.com/p/4872990a78af) |
-| Mon, 08 Dec 2025 01:38:48 GMT | [be rust] Kafka: Adding SASL/PLAIN Authentication to Rust Clients with rust-rdkafka | Andrian Tri Putra | [Read More](https://medium.com/p/d3c6f4cc7591) |
-| Mon, 08 Dec 2025 01:38:11 GMT | Ghost in the WAF: Building “WAF-Whisper” — An Adaptive Evasion Engine | Nmullenski | [Read More](https://medium.com/p/54366af7e99a) |
-| Mon, 08 Dec 2025 01:37:54 GMT | The Ultimate Guide to Active Directory LDAP Enumeration Using NetExec | Tareshsharma | [Read More](https://medium.com/p/af7f24ec05ff) |
-| Mon, 08 Dec 2025 01:23:03 GMT | DEFENSE- IN -DEPTH : THAT FOOTBALL, MOVIE AND ADULT SITE WILL RUIN YOUR LIFE | Oyeniyi Oluwatayo James | [Read More](https://medium.com/p/c88414105d74) |
-| Mon, 08 Dec 2025 01:18:12 GMT | Bypassing PHP Disable Functions with LD_PRELOAD | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/b9c7d1628c7e) |
-| Mon, 08 Dec 2025 01:17:57 GMT | Basic Pentesting Walkthrough with Python Automation | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/693f690a55ea) |
-| Mon, 08 Dec 2025 01:08:13 GMT | VPN Security & Cyber Safety: Your Invisible Shield in a Not-So-Safe Internet World | Kinlee Dionio | [Read More](https://medium.com/p/91a8660c8747) |
-| Mon, 08 Dec 2025 00:50:31 GMT | ️ Stop the Stalkers: Why Your Digital Life is Up For Sale and How to Reclaim It
-You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
-| Mon, 08 Dec 2025 00:49:09 GMT | Understanding of React2Shell | Ashok | [Read More](https://medium.com/p/6c5ecdf2d89b) |
-| Mon, 08 Dec 2025 00:44:18 GMT | Threat Intelligence Report | Genet Shibru | [Read More](https://medium.com/p/eabcb8844e55) |
-| Mon, 08 Dec 2025 00:35:32 GMT | Rising Android Threat Targeting Mobile Banking Users | Geoffrey Wenger | [Read More](https://medium.com/p/e32baafc1074) |
