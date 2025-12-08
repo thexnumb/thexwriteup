@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 10:39:09 GMT | Nvidia Cosmos의 개념과 활용 | Maysay | [Read More](https://medium.com/p/29981459fe7d) |
+| Mon, 08 Dec 2025 10:37:40 GMT | Measuring Malice: When Being ‘Almost Right’ Is Exactly Wrong | Koifsec | [Read More](https://medium.com/p/abbdbe2ca7c7) |
+| Mon, 08 Dec 2025 10:37:27 GMT | Unlocking the Power of Sublist3r: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/fa39f2265b7c) |
+| Mon, 08 Dec 2025 10:34:25 GMT | eJPT Prep - Host & Network Penetration Testing: The Metasploit Framework CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/fb1644c84d96) |
+| Mon, 08 Dec 2025 10:31:54 GMT | Why Organizations Need Dark Web Monitoring Now | David SEHYEON Baek | [Read More](https://medium.com/p/28fb4b0c2590) |
+| Mon, 08 Dec 2025 10:28:31 GMT | How Machine Economies Are Learning to Trust Themselves | SEALCOIN AI | [Read More](https://medium.com/p/275341b1906c) |
+| Mon, 08 Dec 2025 10:26:53 GMT | Zuri Njoku Explains How Modern Digital Systems Drive Business Efficiency | Zuri Njoku | [Read More](https://medium.com/p/1ec3ee486714) |
+| Mon, 08 Dec 2025 10:26:20 GMT | Stop Malware Now: Protect Your PC Before It Faces Trouble! | SiyanoAV | [Read More](https://medium.com/p/d82b656d7cbd) |
+| Mon, 08 Dec 2025 10:22:59 GMT | Harry Potter vs Data Protection | Hafsa Qunooj | [Read More](https://medium.com/p/f646147724ea) |
+| Mon, 08 Dec 2025 10:21:58 GMT | Advent of Cyber 2025 Day7 — Scan-ta-clause! | Khadijat Suleman | [Read More](https://medium.com/p/8e7ce0287140) |
+| Mon, 08 Dec 2025 10:21:29 GMT | The New Microsoft Teams Callback Scam Is Exploding Across Workplaces… | Muhammad Hassan Ali | [Read More](https://medium.com/p/41c159d33456) |
+| Mon, 08 Dec 2025 10:20:44 GMT | AI Security Agents: How You Can Protect Your Apps Before Hackers Attack | Ai Founder Lab | [Read More](https://medium.com/p/e126b4a4b046) |
+| Mon, 08 Dec 2025 10:20:21 GMT | Part 13 — “The Hidden Quantum War: Why the World’s Biggest Governments Are Racing to Build Weapons… | Mr. Richie Gunawan | [Read More](https://medium.com/p/39499a7c7678) |
+| Mon, 08 Dec 2025 10:19:06 GMT | Can Oppo Reno 12 Pro Handle Heavy Gaming Without Lag? | Grace Anderson | [Read More](https://medium.com/p/0e10da596a7a) |
+| Mon, 08 Dec 2025 10:18:03 GMT | The Corporate Ego Glitch | Jayal Yadav | [Read More](https://medium.com/p/0ccff510232e) |
 | Mon, 08 Dec 2025 10:12:36 GMT | Building Responsible AI Applications with Amazon Bedrock Guardrails | Himanshu Sangshetti | [Read More](https://medium.com/p/fa220f6e9414) |
 | Mon, 08 Dec 2025 10:12:07 GMT | Can Oppo F21 Pro Handle Heavy Apps Without Slowing Down? | Aurora Green | [Read More](https://medium.com/p/58fd5ab7ed86) |
 | Mon, 08 Dec 2025 10:10:31 GMT | Advent of Cyber - Day 2 — Linux CLI: Shells Bells | Nazmul Islam | [Read More](https://medium.com/p/9b0bb3031bee) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 05:23:55 GMT | Understanding where to store JWT Tokens: Simple Explanation | Muhammad Ayaan shaikh | [Read More](https://medium.com/p/d8fa969e9573) |
 | Mon, 08 Dec 2025 05:23:05 GMT | Hacking AI: How I Crafted RCE on a Vibe-Coding LLM Using Prompt Engineering | ipsbruno3 | [Read More](https://medium.com/p/b45ccc57e312) |
 | Mon, 08 Dec 2025 05:21:54 GMT | Sanchar Saathi: The app everyone’s buzzing about! | Keyur | [Read More](https://medium.com/p/87a1f7f2dd96) |
-| Mon, 08 Dec 2025 05:18:30 GMT | The Growing Demand for Security Services in Ambala | Lakshay Security | [Read More](https://medium.com/p/abac73aceb55) |
-| Mon, 08 Dec 2025 05:17:49 GMT | Information Protection Services for Stronger Network Security and Cyber Security - GainSide… | Gainside | [Read More](https://medium.com/p/fa911aa19f82) |
-| Mon, 08 Dec 2025 05:15:43 GMT | Why Social Media Matrices Need Real Local Residential IP Routes | BitVerse | [Read More](https://medium.com/p/c4ad792425cb) |
-| Mon, 08 Dec 2025 05:14:54 GMT | Next-Gen Automation: Why MCP is the Missing Link for Developers and Security Pros | Athishsagarkishan | [Read More](https://medium.com/p/89ddcbb9ab7c) |
-| Mon, 08 Dec 2025 05:14:12 GMT | Key Compliance Standards Every Vendor Should Understand | Kadhijahafiya | [Read More](https://medium.com/p/6390461e9460) |
-| Mon, 08 Dec 2025 05:05:57 GMT | React2Shell Detection Script. | Adrian Romanov | [Read More](https://medium.com/p/c9d21ca00ba9) |
-| Mon, 08 Dec 2025 05:02:30 GMT | Why Managed Detection and Response (MDR) Is Becoming Essential for Modern Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/946bf6f04bc9) |
-| Mon, 08 Dec 2025 04:57:27 GMT | How I Discovered a Price Manipulation Bug While Buying a Simple Product | Sabuj Kumar Modak | [Read More](https://medium.com/p/d2584addbc74) |
-| Mon, 08 Dec 2025 04:56:58 GMT | Block Websites and Adult Content: The Complete UBlock Origin Guide for PC and Mobile | CyberShield Insights | [Read More](https://medium.com/p/b27f2e107254) |
-| Mon, 08 Dec 2025 04:53:30 GMT | AI-Powered Cybersecurity: The Silent Shield Protecting Today’s Digital World | Ssolosssolo | [Read More](https://medium.com/p/47915ec41d70) |
-| Mon, 08 Dec 2025 04:52:41 GMT | What Are the Essential Characteristics of Cloud Computing (As per NIST)? | Soundaryaps | [Read More](https://medium.com/p/c1163fcfceb5) |
-| Mon, 08 Dec 2025 04:51:35 GMT | How to Get Free Windows Activation Using the KMS Exploit. | TheCyberNirvana | [Read More](https://medium.com/p/9e9538eed592) |
-| Mon, 08 Dec 2025 04:49:10 GMT | The Hidden Cost of DIY Application Security: When to Call Security Consultants | KomodoSec.com | [Read More](https://medium.com/p/d1665de56747) |
-| Mon, 08 Dec 2025 04:42:38 GMT | RST TI Report Digest: 08 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/9772b29f760a) |
-| Mon, 08 Dec 2025 04:33:41 GMT | Master Surya Ji – Best Indian Astrologer, Psychic & Vashikaran Expert in Fiji | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/a0c1a30c5b0b) |
