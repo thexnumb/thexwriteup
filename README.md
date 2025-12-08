@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 23:19:48 GMT | Unlocking Growth in East Africa: Key Business Insights for 2025 and Beyond. | Tumuranze | [Read More](https://medium.com/p/fd1f0b4029c6) |
 | Mon, 08 Dec 2025 23:12:13 GMT | My CPTS Exam Experience (Part 2): The Midpoint, The 12 Flags, and All the Mistakes I Made | Kentucky Mathitis | [Read More](https://medium.com/p/0c7e9c241a60) |
 | Mon, 08 Dec 2025 22:51:31 GMT | Understanding TLD Abuse in Modern Cybercrime | R1cH4t | [Read More](https://medium.com/p/accad623bea9) |
 | Mon, 08 Dec 2025 22:36:48 GMT | Stop Managing Your Image, Start Hearing the Truth: David Cohen on Feedback That Matters | Stacey Chillemi | [Read More](https://medium.com/p/cce1b53d6243) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 15:24:14 GMT | Where are the real value pools? | Kumar M | [Read More](https://medium.com/p/f61dfe758517) |
 | Mon, 08 Dec 2025 15:22:03 GMT | Stop Leaving Your Linux Server Open to Hackers: A Practical Security Guide | Ashish Singh | [Read More](https://medium.com/p/5b65db5df83c) |
 | Mon, 08 Dec 2025 15:21:01 GMT | The Joy of Being Cared For: Understanding Deep Connection | Austi Gene | [Read More](https://medium.com/p/e444fab34b65) |
-| Mon, 08 Dec 2025 15:09:08 GMT | AI Isn’t Just for Good: How Generative AI Is Fueling a New Breed of Cybercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/de168c96bbeb) |
