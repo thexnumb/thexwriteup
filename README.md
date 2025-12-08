@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 13:36:09 GMT | “If the founding team took a week off, would the company’s entire IT and security function fall… | Barry Ritchie | [Read More](https://medium.com/p/0b00d65f6f27) |
+| Mon, 08 Dec 2025 13:15:51 GMT | We’re excited to share that Hyper Vare — the only dedicated cybersecurity company in Bihar… | Bhavya Sinha | [Read More](https://medium.com/p/af7c689457e5) |
+| Mon, 08 Dec 2025 13:14:18 GMT | Critical vulnerability in React Server Components (RSC) protocol | Akhshy Ganesh | [Read More](https://medium.com/p/ed0053d8b65d) |
+| Mon, 08 Dec 2025 13:10:15 GMT | CVE‑2025‑53097, CVE‑2025‑53536, CVE‑2025‑58372: Roo Code Vulnerabilities in 2025 — An AI Powered… | gm0 | [Read More](https://medium.com/p/89eb0c482a00) |
+| Mon, 08 Dec 2025 13:04:31 GMT | TryHackMe Writeup: Poster | Berkay AĞGÜL | [Read More](https://medium.com/p/73cae04fd576) |
+| Mon, 08 Dec 2025 13:02:42 GMT | #12- Kali Linux - Collection T: Harvesting Data from Compromised Systems | SDNTechForum | [Read More](https://medium.com/p/6b06b90ab33f) |
+| Mon, 08 Dec 2025 13:02:37 GMT | React2Shell and the Broader Lessons of a Vulnerability at the Framework Layer | CryptoCadet | [Read More](https://medium.com/p/ece2d7a734ee) |
+| Mon, 08 Dec 2025 13:02:36 GMT | The Compliance-Ready Agent: SOC 2 Without Slowing Down | Vectorlane | [Read More](https://medium.com/p/1ed105088d32) |
+| Mon, 08 Dec 2025 13:01:48 GMT | “Piggy” BTLO Walkthrough | Jagadishtripathy | [Read More](https://medium.com/p/d5b04186b7c8) |
+| Mon, 08 Dec 2025 12:58:27 GMT | Hack the Cookie — CTF Write-up | MZEEN | [Read More](https://medium.com/p/e314889c2b3a) |
+| Mon, 08 Dec 2025 12:58:26 GMT | CVE‑2025‑55012 — Zed Editor Agent Panel Permission Bypass | gm0 | [Read More](https://medium.com/p/5091fa6ac1aa) |
+| Mon, 08 Dec 2025 12:51:46 GMT | Advent of Cyber 25 — Day 7 — Network Discovery — Scan-ta Clause | cybertactic | [Read More](https://medium.com/p/bf0f6a81c45f) |
+| Mon, 08 Dec 2025 12:49:07 GMT | AI-Powered Attack Detection in Spring Boot: Build a Self-Defending API | CodeTalks | [Read More](https://medium.com/p/d6ceae7ec412) |
+| Mon, 08 Dec 2025 12:48:25 GMT | Rocky Linux 10.1: Faster Reboots, Stronger Crypto, and New Toolchains for Enterprise Servers | Emilyharbord | [Read More](https://medium.com/p/05dc3b936223) |
+| Mon, 08 Dec 2025 12:45:09 GMT | Without DNS, The Internet Won’t Exist | Scofield O. Idehen | [Read More](https://medium.com/p/406b47534d72) |
 | Mon, 08 Dec 2025 12:44:33 GMT | Cybersecurity Compliance: The One Gap That’s Putting Your Entire Business at Risk | SecureSlate | [Read More](https://medium.com/p/6cbc118f96e0) |
 | Mon, 08 Dec 2025 12:38:58 GMT | The Evolution of Zero-Day Threats: How They Grew Smarter, Faster & Harder to Stop | Miraroy | [Read More](https://medium.com/p/6d9220873d7d) |
 | Mon, 08 Dec 2025 12:36:01 GMT | “I Make $20,000 a Month—Why Marry a Woman Who Makes $3,000?” | Claire Moore | [Read More](https://medium.com/p/df69a09296d9) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 08:32:58 GMT | React RCE Vulnerability (CVE-2025–55182): What It Is, Why It’s a Burning Problem, and How We Fix… | Sandeep Choudhary | [Read More](https://medium.com/p/e1b53dd29128) |
 | Mon, 08 Dec 2025 08:21:57 GMT | A Complete Guide to the AWS Associate Certification | cyber security Updates | [Read More](https://medium.com/p/ad6c979a76ce) |
 | Mon, 08 Dec 2025 08:21:10 GMT | Protect Your Privacy: Best Antivirus for PC for Complete Security | Siyanoav | [Read More](https://medium.com/p/99c1360f1a24) |
-| Mon, 08 Dec 2025 08:17:32 GMT | How to Install Acunetix on Kali Linux | Swarachis Sutradhar | [Read More](https://medium.com/p/b9e8db71b9b7) |
-| Mon, 08 Dec 2025 08:16:37 GMT | How I Earn 938$ Online In One Week Via Android | LALPRO.COM | [Read More](https://medium.com/p/1a4a47d93a50) |
-| Mon, 08 Dec 2025 08:08:14 GMT | Critical Alert: The React2Shell Vulnerability and What You Must Do Now | Smith Kruz | [Read More](https://medium.com/p/2e41e217f9e0) |
-| Mon, 08 Dec 2025 08:03:00 GMT | Why the Internet Routes Traffic Like a Confused Taxi Driver | Fateyaly | [Read More](https://medium.com/p/bb500c00f426) |
-| Mon, 08 Dec 2025 08:02:40 GMT | From Starlink to Star Wars — The Real Cyber Threats in Space | Netlas.io | [Read More](https://medium.com/p/aee88aa15a1e) |
-| Mon, 08 Dec 2025 07:59:48 GMT | Multi-Store E-Commerce: Stop Cross-Account Flags with Local Residential IPs | LedgerGale | [Read More](https://medium.com/p/7f398ee62d9b) |
-| Mon, 08 Dec 2025 07:57:54 GMT | Zanzibar: Understanding Google’s Global Authorization System | Dipak Kr das | [Read More](https://medium.com/p/9fe39694960f) |
-| Mon, 08 Dec 2025 07:50:29 GMT | The Deepfake Election Problem | Rajesh Poovathum Kadavil | [Read More](https://medium.com/p/35fba29d388f) |
-| Mon, 08 Dec 2025 07:43:38 GMT | Why ‘Risk Ownership’ Fails (And What to Assign Instead) | Levente Simon | [Read More](https://medium.com/p/db431165aabc) |
-| Mon, 08 Dec 2025 07:42:13 GMT | What Is API Security and Why Should Everyday People Care? | Fwawira | [Read More](https://medium.com/p/bf49b7abc1f0) |
-| Mon, 08 Dec 2025 07:32:42 GMT | Most Pentesters Conducting AWS Assessments Fail to Find Real Attack Paths — How to Attack IAM… | Muh. Fani Akbar | [Read More](https://medium.com/p/9caa4875c110) |
-| Mon, 08 Dec 2025 07:32:05 GMT | Stress and Bugs | Ace | [Read More](https://medium.com/p/e455d35ef56c) |
-| Mon, 08 Dec 2025 07:31:40 GMT | Windows Security Researcher Course | Diyar Saadi - Malfav | [Read More](https://medium.com/p/07e12c2e56f9) |
-| Mon, 08 Dec 2025 07:24:35 GMT | CIA Triad. | Deepak sivan | [Read More](https://medium.com/p/8e2aab468bac) |
-| Mon, 08 Dec 2025 07:24:05 GMT | InSpectre | CYBER COMICS | [Read More](https://medium.com/p/796902843430) |
