@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 14:10:56 GMT | Resilience Beyond Technology: Why Human-Centric Cybersecurity Matters More Than Ever | Hello @ Octellient | [Read More](https://medium.com/p/f97bae6733cb) |
+| Mon, 08 Dec 2025 14:03:54 GMT | One object to create and carry to thwart all Archon attacks | David Senouf | [Read More](https://medium.com/p/ecc60ada8170) |
+| Mon, 08 Dec 2025 14:00:42 GMT | CVE-2025–55182: A Practical Breakdown for Security, Engineering, and Product Teams | Enrique Somoza | [Read More](https://medium.com/p/0a1922e83ea9) |
+| Mon, 08 Dec 2025 13:55:48 GMT | How I Performed Basic API Security Tests Using Postman (Beginner Edition) | Maryblessing | [Read More](https://medium.com/p/3371e3414309) |
+| Mon, 08 Dec 2025 13:52:46 GMT | React2Shell: أخطر ثغرة RCE بعد كارثة Log4j | Mustafaxstr0ike | [Read More](https://medium.com/p/bc984deeadb0) |
+| Mon, 08 Dec 2025 13:51:06 GMT | How Often Should Your Business Conduct a Penetration Test? (2025 Guide) | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/cfcf6b1379b8) |
+| Mon, 08 Dec 2025 13:46:16 GMT | The Code Leak Epidemic Nobody Wants to Talk About | Dávid Ondruš | [Read More](https://medium.com/p/178178f3ac72) |
+| Mon, 08 Dec 2025 13:44:50 GMT | Intercepting Everything: A PAX PoS Pentest Case Study | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/442f09cd9c8d) |
+| Mon, 08 Dec 2025 13:43:46 GMT | Temenos OFS String Injection: Revealing a Hidden Financial Attack Vector | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/44df0e2bef9d) |
+| Mon, 08 Dec 2025 13:43:24 GMT | Access Control And Identity-Based Access With Zero Trust | Chris Yeung | [Read More](https://medium.com/p/e59e5e25f48f) |
+| Mon, 08 Dec 2025 13:42:33 GMT | Friendships : The Problem Solver | Kisahi | [Read More](https://medium.com/p/ef7ca35d9014) |
+| Mon, 08 Dec 2025 13:42:12 GMT | Husband’s Care During Illness Reveals True Love and the Comfort of Companionship | Lucas Brown | [Read More](https://medium.com/p/405c1919d363) |
 | Mon, 08 Dec 2025 13:36:09 GMT | “If the founding team took a week off, would the company’s entire IT and security function fall… | Barry Ritchie | [Read More](https://medium.com/p/0b00d65f6f27) |
+| Mon, 08 Dec 2025 13:35:09 GMT | How to Use a Flipper Zero: A Step-by-Step Visual Guide for Beginners | Ibtissam | [Read More](https://medium.com/p/90986555a7ff) |
+| Mon, 08 Dec 2025 13:33:22 GMT | The Hidden Cost of Being Strong All the Time | Chris Lewis | [Read More](https://medium.com/p/6bc57bdc4edb) |
+| Mon, 08 Dec 2025 13:32:17 GMT | Proof of LIfe in a Dead Internet | Jeremy Tarkington | [Read More](https://medium.com/p/218cabbc78ad) |
+| Mon, 08 Dec 2025 13:31:32 GMT | Network Discovery — Scan-ta Clause -Try Hack ME Walkthrough | Fazal | [Read More](https://medium.com/p/2215c5b73cd5) |
+| Mon, 08 Dec 2025 13:29:49 GMT | Advent of Cyber 2025 Day 7 - TryHackMe - Network Discovery - Scan-ta Clause - WriteUp | Axoloth | [Read More](https://medium.com/p/84dba1f65735) |
+| Mon, 08 Dec 2025 13:29:05 GMT | NGINX REVERSE PROXY | Shobhit Verma | [Read More](https://medium.com/p/d492a8429b05) |
+| Mon, 08 Dec 2025 13:24:23 GMT | Day 8 — Threat Validation (The Girl in the Red Cloak) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/3dc32e29f980) |
 | Mon, 08 Dec 2025 13:15:51 GMT | We’re excited to share that Hyper Vare — the only dedicated cybersecurity company in Bihar… | Bhavya Sinha | [Read More](https://medium.com/p/af7c689457e5) |
 | Mon, 08 Dec 2025 13:14:18 GMT | Critical vulnerability in React Server Components (RSC) protocol | Akhshy Ganesh | [Read More](https://medium.com/p/ed0053d8b65d) |
 | Mon, 08 Dec 2025 13:10:15 GMT | CVE‑2025‑53097, CVE‑2025‑53536, CVE‑2025‑58372: Roo Code Vulnerabilities in 2025 — An AI Powered… | gm0 | [Read More](https://medium.com/p/89eb0c482a00) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 09:51:25 GMT | Why Everyone Loves Oppo A16 Camera for Daily Photography? | Hana Saito | [Read More](https://medium.com/p/d2adcee4025d) |
 | Mon, 08 Dec 2025 09:49:59 GMT | Security Lab Simulation Project Part 6: Elastic Agent Installation for Windows | Jenny | [Read More](https://medium.com/p/932ec55a5806) |
 | Mon, 08 Dec 2025 09:41:11 GMT | Cyberbullying Evolves: What Every Parent Should Know! | Albertson | [Read More](https://medium.com/p/dce9124d6de2) |
-| Mon, 08 Dec 2025 09:40:26 GMT | The Universal Radio Hacker Software | Investigator515 | [Read More](https://medium.com/p/25c04f7d6729) |
-| Mon, 08 Dec 2025 09:35:17 GMT | Benefits of Professional Venue Security for Weddings, Corporate Events & Nightlife | ICORP Security | [Read More](https://medium.com/p/909a44d334ab) |
-| Mon, 08 Dec 2025 09:29:10 GMT | Upbit’s $36.8 Million Exploit: A Case Study in Systemic Crypto Risk | QuppyAMLBOT | [Read More](https://medium.com/p/48d114cce13a) |
-| Mon, 08 Dec 2025 09:23:13 GMT | How Hackers Sneak In Through Trusted Partners | Redfox Security | [Read More](https://medium.com/p/47ac575443f5) |
-| Mon, 08 Dec 2025 09:20:15 GMT | Building an AI-Powered Network Threat Detection System with Explainable AI: A Complete Journey… | Prateekpulastya | [Read More](https://medium.com/p/dfa32b0f7963) |
-| Mon, 08 Dec 2025 09:19:58 GMT | The UAE DDoS Storm | O. J. Okpabi | [Read More](https://medium.com/p/ab31dde9ec38) |
-| Mon, 08 Dec 2025 09:19:54 GMT | Living Inside a VPN Tunnel: Why I Finally Moved Over to Proxies | Martin E. | [Read More](https://medium.com/p/c172e9d34e7b) |
-| Mon, 08 Dec 2025 09:09:56 GMT | The Best AI Security Certifications to Boost Your Career in 2026 | Practical DevSecOps | [Read More](https://medium.com/p/56d541f052b5) |
-| Mon, 08 Dec 2025 09:08:41 GMT | Why Businesses Need Better Documentation for Cyber Compliance | Rahman Iqbal | [Read More](https://medium.com/p/cc90cd45cf0e) |
-| Mon, 08 Dec 2025 09:02:19 GMT | Stop Employee Account Takeovers With LeakRadar Stealer-Log Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/250377519888) |
-| Mon, 08 Dec 2025 09:02:13 GMT | Memory Done Right: Scoped, Expiring, and Auditable | Praxen | [Read More](https://medium.com/p/37a1b90250e7) |
-| Mon, 08 Dec 2025 09:00:59 GMT | Securing Your AI with CoT — A Practical Defense Against Prompt Injection | Ameya Suvarna | [Read More](https://medium.com/p/c4dc8d956b15) |
-| Mon, 08 Dec 2025 09:00:19 GMT | How Security Guards Support Brampton Film Sets and Entertainment Events | Diligent Security Services | [Read More](https://medium.com/p/903a0d7f721b) |
-| Mon, 08 Dec 2025 08:58:52 GMT | Stop Malware Now: Protect Your PC Before It Faces Trouble! | Manik | [Read More](https://medium.com/p/29b7450cfed6) |
-| Mon, 08 Dec 2025 08:40:12 GMT | GPS Spoofing at Major Airports: What Happened — and How Daifend Can Help Prevent the Next Incident | Bhawini. | [Read More](https://medium.com/p/64742e79881e) |
-| Mon, 08 Dec 2025 08:33:06 GMT | 5 Tiny Tech Mistakes That Caused Catastrophic Disasters | Vedant Jain | [Read More](https://medium.com/p/5e675ae0242e) |
-| Mon, 08 Dec 2025 08:32:58 GMT | React RCE Vulnerability (CVE-2025–55182): What It Is, Why It’s a Burning Problem, and How We Fix… | Sandeep Choudhary | [Read More](https://medium.com/p/e1b53dd29128) |
-| Mon, 08 Dec 2025 08:21:57 GMT | A Complete Guide to the AWS Associate Certification | cyber security Updates | [Read More](https://medium.com/p/ad6c979a76ce) |
-| Mon, 08 Dec 2025 08:21:10 GMT | Protect Your Privacy: Best Antivirus for PC for Complete Security | Siyanoav | [Read More](https://medium.com/p/99c1360f1a24) |
