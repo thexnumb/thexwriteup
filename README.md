@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 19:11:39 GMT | Advent of Cyber 2025 - Day 8: Prompt Injection - Sched-yule conflict | Akshat Patel | [Read More](https://medium.com/p/0e032230ede7) |
+| Mon, 08 Dec 2025 19:08:50 GMT | How I Recovered 5 Years’ Worth of 500GB Lost Files Using Just 3 Windows Commands | Raymond Ebonine | [Read More](https://medium.com/p/46fc5280859d) |
+| Mon, 08 Dec 2025 19:02:04 GMT | Remote Security Agent Colorado Springs — Overwatch Technologies | Overwatch Technologies | [Read More](https://medium.com/p/db968bd1f4f3) |
+| Mon, 08 Dec 2025 18:58:58 GMT | Stop Waiting to Be Hacked: Why Threat Hunting is the Only Skill That Matters | Motasem Hamdan | [Read More](https://medium.com/p/f66d5778760d) |
+| Mon, 08 Dec 2025 18:58:26 GMT | ServiceNow’s Veza Acquisition: What It Means for Identity Security | Steve Anderson | [Read More](https://medium.com/p/b822639f5d29) |
+| Mon, 08 Dec 2025 18:56:24 GMT | Become the bug bounty hunter following my medium blogs | Ahmedayannnn | [Read More](https://medium.com/p/5f8184b56f4f) |
+| Mon, 08 Dec 2025 18:56:22 GMT | You’ve Been Hacked…Now What? A Clear, Step-by-Step Guide for Non-Tech Users (Personal & Business) | Paradise technologies Inc | [Read More](https://medium.com/p/faa84c369cdd) |
+| Mon, 08 Dec 2025 18:55:17 GMT | From “Big vs Small” to “CIA vs DAD”: The Opposites We Never Knew We’d Need in Cybersecurity | Abdulraheem Abdulsalam | [Read More](https://medium.com/p/c3c69e424ef9) |
+| Mon, 08 Dec 2025 18:52:40 GMT | How Zero-Day AI Attacks Exploit Vulnerabilities in Real Time⏰ | Michael King | [Read More](https://medium.com/p/19583bb0cb42) |
+| Mon, 08 Dec 2025 18:51:17 GMT | teslacrypt Ransomware Network Traffic Analysis | Wayne Currie | [Read More](https://medium.com/p/be30976d5d23) |
+| Mon, 08 Dec 2025 18:50:59 GMT | CTF Deconstruction: Lian_Yu — A Journey Through Web, Hex, and Stego | Jadallah K. J. Albanna | [Read More](https://medium.com/p/a2c3f838bd2b) |
+| Mon, 08 Dec 2025 18:49:20 GMT | Human-AI Collaboration That Actually Works in the SOC | Graylog | [Read More](https://medium.com/p/93c10b258a5d) |
+| Mon, 08 Dec 2025 18:47:39 GMT | Why Small Businesses Need Cloud Security in 2026 | Techridge Solutions | [Read More](https://medium.com/p/10cf688f7e2a) |
+| Mon, 08 Dec 2025 18:46:01 GMT | Security Risk Analysis: Identification of Threats, Vulnerabilities, and CVSS Severity Rating… | Diva Rizky Alfitrah | [Read More](https://medium.com/p/6684a2d03488) |
 | Mon, 08 Dec 2025 18:27:25 GMT | Network Discovery — Scan-ta Clause - AoC 2025 Day — 7 - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/46960a37919e) |
 | Mon, 08 Dec 2025 18:26:35 GMT | Shadow AI Just Got a Promotion: A Look at Microsoft’s ‘Agentic’ Defender | Arsh Riz | [Read More](https://medium.com/p/b757512f6fe2) |
+| Mon, 08 Dec 2025 18:26:31 GMT | SHA1 Hulud: Why Mobile and Kotlin Multiplatform Developers Should Still Pay Attention | Ryan W | [Read More](https://medium.com/p/4bff77c640d5) |
 | Mon, 08 Dec 2025 18:26:05 GMT | Ratio1 RedMesh: Turning Penetration Testing into a Distributed System | Ratio1 | [Read More](https://medium.com/p/e2989efaf07b) |
 | Mon, 08 Dec 2025 18:23:13 GMT | The Version of Me You Never Knew (Because I Never Showed You) | jig N | [Read More](https://medium.com/p/355f2dd142de) |
 | Mon, 08 Dec 2025 18:21:19 GMT | I Have a Confession to Make. I Cheated. | Diana Cristina Culincu | [Read More](https://medium.com/p/30ccddcb57e5) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 13:44:50 GMT | Intercepting Everything: A PAX PoS Pentest Case Study | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/442f09cd9c8d) |
 | Mon, 08 Dec 2025 13:43:46 GMT | Temenos OFS String Injection: Revealing a Hidden Financial Attack Vector | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/44df0e2bef9d) |
 | Mon, 08 Dec 2025 13:43:24 GMT | Access Control And Identity-Based Access With Zero Trust | Chris Yeung | [Read More](https://medium.com/p/e59e5e25f48f) |
-| Mon, 08 Dec 2025 13:42:33 GMT | Friendships : The Problem Solver | Kisahi | [Read More](https://medium.com/p/ef7ca35d9014) |
-| Mon, 08 Dec 2025 13:42:12 GMT | Husband’s Care During Illness Reveals True Love and the Comfort of Companionship | Lucas Brown | [Read More](https://medium.com/p/405c1919d363) |
-| Mon, 08 Dec 2025 13:36:09 GMT | “If the founding team took a week off, would the company’s entire IT and security function fall… | Barry Ritchie | [Read More](https://medium.com/p/0b00d65f6f27) |
-| Mon, 08 Dec 2025 13:35:09 GMT | How to Use a Flipper Zero: A Step-by-Step Visual Guide for Beginners | Ibtissam | [Read More](https://medium.com/p/90986555a7ff) |
-| Mon, 08 Dec 2025 13:33:22 GMT | The Hidden Cost of Being Strong All the Time | Chris Lewis | [Read More](https://medium.com/p/6bc57bdc4edb) |
-| Mon, 08 Dec 2025 13:32:17 GMT | Proof of LIfe in a Dead Internet | Jeremy Tarkington | [Read More](https://medium.com/p/218cabbc78ad) |
-| Mon, 08 Dec 2025 13:31:32 GMT | Network Discovery — Scan-ta Clause -Try Hack ME Walkthrough | Fazal | [Read More](https://medium.com/p/2215c5b73cd5) |
-| Mon, 08 Dec 2025 13:29:49 GMT | Advent of Cyber 2025 Day 7 - TryHackMe - Network Discovery - Scan-ta Clause - WriteUp | Axoloth | [Read More](https://medium.com/p/84dba1f65735) |
-| Mon, 08 Dec 2025 13:29:05 GMT | NGINX REVERSE PROXY | Shobhit Verma | [Read More](https://medium.com/p/d492a8429b05) |
-| Mon, 08 Dec 2025 13:24:23 GMT | Day 8 — Threat Validation (The Girl in the Red Cloak) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/3dc32e29f980) |
-| Mon, 08 Dec 2025 13:15:51 GMT | We’re excited to share that Hyper Vare — the only dedicated cybersecurity company in Bihar… | Bhavya Sinha | [Read More](https://medium.com/p/af7c689457e5) |
-| Mon, 08 Dec 2025 13:14:18 GMT | Critical vulnerability in React Server Components (RSC) protocol | Akhshy Ganesh | [Read More](https://medium.com/p/ed0053d8b65d) |
-| Mon, 08 Dec 2025 13:10:15 GMT | CVE‑2025‑53097, CVE‑2025‑53536, CVE‑2025‑58372: Roo Code Vulnerabilities in 2025 — An AI Powered… | gm0 | [Read More](https://medium.com/p/89eb0c482a00) |
-| Mon, 08 Dec 2025 13:04:31 GMT | TryHackMe Writeup: Poster | Berkay AĞGÜL | [Read More](https://medium.com/p/73cae04fd576) |
-| Mon, 08 Dec 2025 13:02:42 GMT | #12- Kali Linux - Collection T: Harvesting Data from Compromised Systems | SDNTechForum | [Read More](https://medium.com/p/6b06b90ab33f) |
