@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 14:42:22 GMT | Understanding the OSI Model — The Framework Behind Every Digital Connection | Paul Meyer | [Read More](https://medium.com/p/9cc43abe9e7e) |
+| Mon, 08 Dec 2025 14:37:48 GMT | ️ I Discovered a Parameter Pollution Vulnerability in a Payment QR System | Nimit Ahir | [Read More](https://medium.com/p/0072038da4f6) |
+| Mon, 08 Dec 2025 14:32:11 GMT | (Comptia A+) Understanding Cybersecurity Threats: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/cb32ddba1a3c) |
+| Mon, 08 Dec 2025 14:32:11 GMT | Back to Basics in Jira: My Technical Walkthrough of Issuing and Resolving Service Tickets | Tyrik Emptage | [Read More](https://medium.com/p/a0b4c0b14cfc) |
+| Mon, 08 Dec 2025 14:29:41 GMT | Implementing Communication Encryption in Tor C2 — Part 7 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/14ec9c6f02ca) |
+| Mon, 08 Dec 2025 14:26:26 GMT | What a Honeypot Taught Me About Real-World Deception in Cybersecurity | Tyreek Haynes | [Read More](https://medium.com/p/0e8ea5241a34) |
+| Mon, 08 Dec 2025 14:22:21 GMT | ️‍♂️ My Complete Recon Workflow for Bug Bounty Hunting (2025 Edition) | Purushotham.R | [Read More](https://medium.com/p/587b903385c0) |
+| Mon, 08 Dec 2025 14:22:13 GMT | Bridging the Gap Between Academia and Real-World Cybersecurity: My Guest Lecture at COMSATS… | Raed Ahsan | [Read More](https://medium.com/p/ee25f61a23b4) |
+| Mon, 08 Dec 2025 14:21:23 GMT | From Simple File Upload to Full Server Control (Even If You Didn’t Get RCE Yet) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/afd9debd3c6b) |
+| Mon, 08 Dec 2025 14:18:39 GMT | Avoid Leaking Secrets In Your Code | Til Schwarze | [Read More](https://medium.com/p/d96b6a5d0aa8) |
+| Mon, 08 Dec 2025 14:16:33 GMT | Neden AI × Embedded × Cyber? Yeni Mühendislik Üçgeni | Hüseyin Sarıkaya | [Read More](https://medium.com/p/8de8eebcf0d4) |
+| Mon, 08 Dec 2025 14:12:18 GMT | Building SOC 2 & ISO 27001 Controls on AWS — A Step-by-Step Practical Guide for DevSecOps Teams | Davebhargavi | [Read More](https://medium.com/p/02ca4341630b) |
+| Mon, 08 Dec 2025 14:12:04 GMT | Why TypeScript Is More Secure Than JavaScript — And Why Most Developers Can’t Explain Why | Arnold CONVOLBO | [Read More](https://medium.com/p/db4620dc9c4d) |
 | Mon, 08 Dec 2025 14:10:56 GMT | Resilience Beyond Technology: Why Human-Centric Cybersecurity Matters More Than Ever | Hello @ Octellient | [Read More](https://medium.com/p/f97bae6733cb) |
+| Mon, 08 Dec 2025 14:10:35 GMT | Manual and Periodic Security Scanning with Trivy | Anıl Ülger | [Read More](https://medium.com/p/11f6b0c85d3e) |
 | Mon, 08 Dec 2025 14:03:54 GMT | One object to create and carry to thwart all Archon attacks | David Senouf | [Read More](https://medium.com/p/ecc60ada8170) |
 | Mon, 08 Dec 2025 14:00:42 GMT | CVE-2025–55182: A Practical Breakdown for Security, Engineering, and Product Teams | Enrique Somoza | [Read More](https://medium.com/p/0a1922e83ea9) |
 | Mon, 08 Dec 2025 13:55:48 GMT | How I Performed Basic API Security Tests Using Postman (Beginner Edition) | Maryblessing | [Read More](https://medium.com/p/3371e3414309) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 10:18:03 GMT | The Corporate Ego Glitch | Jayal Yadav | [Read More](https://medium.com/p/0ccff510232e) |
 | Mon, 08 Dec 2025 10:12:36 GMT | Building Responsible AI Applications with Amazon Bedrock Guardrails | Himanshu Sangshetti | [Read More](https://medium.com/p/fa220f6e9414) |
 | Mon, 08 Dec 2025 10:12:07 GMT | Can Oppo F21 Pro Handle Heavy Apps Without Slowing Down? | Aurora Green | [Read More](https://medium.com/p/58fd5ab7ed86) |
-| Mon, 08 Dec 2025 10:10:31 GMT | Advent of Cyber - Day 2 — Linux CLI: Shells Bells | Nazmul Islam | [Read More](https://medium.com/p/9b0bb3031bee) |
-| Mon, 08 Dec 2025 10:10:30 GMT | Post-Quantum Cybersecurity: Preparing Businesses for Future Threats | Eugene Afonin | [Read More](https://medium.com/p/fa612c28db8e) |
-| Mon, 08 Dec 2025 10:09:46 GMT | Port Knocking + SSH Security: Securing Open Ports | Ammar Cader | [Read More](https://medium.com/p/54395d6d9467) |
-| Mon, 08 Dec 2025 10:08:47 GMT | Best RIC Colleges for Study Abroad — Your Pathway to Global Education | royalinternational | [Read More](https://medium.com/p/c2680e392c7b) |
-| Mon, 08 Dec 2025 10:06:01 GMT | Implementing CIS AWS Foundations Benchmark Monitoring Using CloudWatch Metric Filters, Alarms, and… | Harry Zhou | [Read More](https://medium.com/p/63d5caf0a16c) |
-| Mon, 08 Dec 2025 10:04:21 GMT | the quiet ways we protect our hearts | silent notes | [Read More](https://medium.com/p/0ef5ce19bceb) |
-| Mon, 08 Dec 2025 10:01:33 GMT | What Are Managed Cybersecurity Services and How Will They Help Your Business? | Samvaskaran | [Read More](https://medium.com/p/3a481bcc2ff0) |
-| Mon, 08 Dec 2025 09:57:09 GMT | Breaking Kubernetes and Fixing It: A Complete Attack–Defense Walkthrough Using HTB SteamCloud | Malek  Berrich | [Read More](https://medium.com/p/1f51b9b99b57) |
-| Mon, 08 Dec 2025 09:56:49 GMT | How JSONFormatter and CodeBeautify Leaked Thousands of API Keys and Passwords | Deven Chhajed | [Read More](https://medium.com/p/d894621bebe4) |
-| Mon, 08 Dec 2025 09:56:21 GMT | CYBER TECHNOLOGY | Ugochukwu Bernard Anyaogu-Ben | [Read More](https://medium.com/p/11486f6d27c0) |
-| Mon, 08 Dec 2025 09:53:32 GMT | AWS re:Invent 2025: Updates in Infrastructure, Security, and Compute + Learning Path Summary | Romina Elena Mendez Escobar | [Read More](https://medium.com/p/5dbfa3d691ca) |
-| Mon, 08 Dec 2025 09:51:25 GMT | Why Everyone Loves Oppo A16 Camera for Daily Photography? | Hana Saito | [Read More](https://medium.com/p/d2adcee4025d) |
-| Mon, 08 Dec 2025 09:49:59 GMT | Security Lab Simulation Project Part 6: Elastic Agent Installation for Windows | Jenny | [Read More](https://medium.com/p/932ec55a5806) |
-| Mon, 08 Dec 2025 09:41:11 GMT | Cyberbullying Evolves: What Every Parent Should Know! | Albertson | [Read More](https://medium.com/p/dce9124d6de2) |
