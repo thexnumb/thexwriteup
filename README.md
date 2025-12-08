@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 21:30:10 GMT | Insecure Deserialization — Overview | Yassin Khadrawy | [Read More](https://medium.com/p/65ecfaa59943) |
 | Mon, 08 Dec 2025 21:13:50 GMT | They See Me Rollin’… They Hatin’ — Writeup | Aymanegharrabou | [Read More](https://medium.com/p/91d499586848) |
 | Mon, 08 Dec 2025 20:57:57 GMT | The PoWER of “NO” | Seth J | [Read More](https://medium.com/p/7ed8e647daf8) |
 | Mon, 08 Dec 2025 20:35:46 GMT | ⚡ CyberSploit:1 — Full Walkthrough | IshhIshneet | [Read More](https://medium.com/p/82747702b00e) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 14:58:17 GMT | I Watched My Friend Lose $50K to a Romance Scam. Here’s What I Wish She’d Known. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/87b912c4b8dc) |
 | Mon, 08 Dec 2025 14:51:16 GMT | The Invisible Eye: How the New ‘Predator’ Spyware Turns Mobile Ads Into Surveillance Weapons | Enes Karataş | [Read More](https://medium.com/p/64449273ba50) |
 | Mon, 08 Dec 2025 14:49:04 GMT | I’mTop 5 Cybersecurity Threats Every Business Should Prepare For | Thinks Of Nadir | [Read More](https://medium.com/p/b9edd278b47e) |
-| Mon, 08 Dec 2025 14:46:35 GMT | The ‘React2Shell’ Vulnerability Explained: Why Only Next.js RSC Apps Are Affected | Mohit | [Read More](https://medium.com/p/f0fe0f769175) |
