@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 15:25:34 GMT | freeRASP for Kotlin Multiplaform Guide | Talsec | [Read More](https://medium.com/p/9f6aaa1ec235) |
+| Mon, 08 Dec 2025 15:24:14 GMT | Where are the real value pools? | Kumar M | [Read More](https://medium.com/p/f61dfe758517) |
+| Mon, 08 Dec 2025 15:22:03 GMT | Stop Leaving Your Linux Server Open to Hackers: A Practical Security Guide | Ashish Singh | [Read More](https://medium.com/p/5b65db5df83c) |
+| Mon, 08 Dec 2025 15:21:01 GMT | The Joy of Being Cared For: Understanding Deep Connection | Austi Gene | [Read More](https://medium.com/p/e444fab34b65) |
 | Mon, 08 Dec 2025 15:09:08 GMT | AI Isn’t Just for Good: How Generative AI Is Fueling a New Breed of Cybercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/de168c96bbeb) |
 | Mon, 08 Dec 2025 15:05:22 GMT | Mastering Security Hardening in Production Environments | Linux Guide | [Read More](https://medium.com/p/82ca3acf3d83) |
 | Mon, 08 Dec 2025 15:04:58 GMT | Building a Zero-Touch SOC: End-to-End Automation with Wazuh, Shuffle, and TheHive | Mark Csete | [Read More](https://medium.com/p/09a82483adaf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 10:58:39 GMT | WGU Secure Network Design(D482) | Irene A. Gil | [Read More](https://medium.com/p/7d20e53bf177) |
 | Mon, 08 Dec 2025 10:50:12 GMT | How Your Phone Silently Betrayed Your Computer | Rabail Zaheer | [Read More](https://medium.com/p/4de52317de47) |
 | Mon, 08 Dec 2025 10:39:09 GMT | Nvidia Cosmos의 개념과 활용 | Maysay | [Read More](https://medium.com/p/29981459fe7d) |
-| Mon, 08 Dec 2025 10:37:40 GMT | Measuring Malice: When Being ‘Almost Right’ Is Exactly Wrong | Koifsec | [Read More](https://medium.com/p/abbdbe2ca7c7) |
-| Mon, 08 Dec 2025 10:37:27 GMT | Unlocking the Power of Sublist3r: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/fa39f2265b7c) |
-| Mon, 08 Dec 2025 10:34:25 GMT | eJPT Prep - Host & Network Penetration Testing: The Metasploit Framework CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/fb1644c84d96) |
-| Mon, 08 Dec 2025 10:31:54 GMT | Why Organizations Need Dark Web Monitoring Now | David SEHYEON Baek | [Read More](https://medium.com/p/28fb4b0c2590) |
