@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 10:12:36 GMT | Building Responsible AI Applications with Amazon Bedrock Guardrails | Himanshu Sangshetti | [Read More](https://medium.com/p/fa220f6e9414) |
+| Mon, 08 Dec 2025 10:12:07 GMT | Can Oppo F21 Pro Handle Heavy Apps Without Slowing Down? | Aurora Green | [Read More](https://medium.com/p/58fd5ab7ed86) |
+| Mon, 08 Dec 2025 10:10:31 GMT | Advent of Cyber - Day 2 — Linux CLI: Shells Bells | Nazmul Islam | [Read More](https://medium.com/p/9b0bb3031bee) |
+| Mon, 08 Dec 2025 10:10:30 GMT | Post-Quantum Cybersecurity: Preparing Businesses for Future Threats | Eugene Afonin | [Read More](https://medium.com/p/fa612c28db8e) |
+| Mon, 08 Dec 2025 10:09:46 GMT | Port Knocking + SSH Security: Securing Open Ports | Ammar Cader | [Read More](https://medium.com/p/54395d6d9467) |
+| Mon, 08 Dec 2025 10:08:47 GMT | Best RIC Colleges for Study Abroad — Your Pathway to Global Education | royalinternational | [Read More](https://medium.com/p/c2680e392c7b) |
+| Mon, 08 Dec 2025 10:06:01 GMT | Implementing CIS AWS Foundations Benchmark Monitoring Using CloudWatch Metric Filters, Alarms, and… | Harry Zhou | [Read More](https://medium.com/p/63d5caf0a16c) |
+| Mon, 08 Dec 2025 10:04:21 GMT | the quiet ways we protect our hearts | silent notes | [Read More](https://medium.com/p/0ef5ce19bceb) |
+| Mon, 08 Dec 2025 10:01:33 GMT | What Are Managed Cybersecurity Services and How Will They Help Your Business? | Samvaskaran | [Read More](https://medium.com/p/3a481bcc2ff0) |
+| Mon, 08 Dec 2025 09:57:09 GMT | Breaking Kubernetes and Fixing It: A Complete Attack–Defense Walkthrough Using HTB SteamCloud | Malek  Berrich | [Read More](https://medium.com/p/1f51b9b99b57) |
+| Mon, 08 Dec 2025 09:56:49 GMT | How JSONFormatter and CodeBeautify Leaked Thousands of API Keys and Passwords | Deven Chhajed | [Read More](https://medium.com/p/d894621bebe4) |
+| Mon, 08 Dec 2025 09:56:21 GMT | CYBER TECHNOLOGY | Ugochukwu Bernard Anyaogu-Ben | [Read More](https://medium.com/p/11486f6d27c0) |
+| Mon, 08 Dec 2025 09:53:32 GMT | AWS re:Invent 2025: Updates in Infrastructure, Security, and Compute + Learning Path Summary | Romina Elena Mendez Escobar | [Read More](https://medium.com/p/5dbfa3d691ca) |
+| Mon, 08 Dec 2025 09:51:25 GMT | Why Everyone Loves Oppo A16 Camera for Daily Photography? | Hana Saito | [Read More](https://medium.com/p/d2adcee4025d) |
+| Mon, 08 Dec 2025 09:49:59 GMT | Security Lab Simulation Project Part 6: Elastic Agent Installation for Windows | Jenny | [Read More](https://medium.com/p/932ec55a5806) |
+| Mon, 08 Dec 2025 09:41:11 GMT | Cyberbullying Evolves: What Every Parent Should Know! | Albertson | [Read More](https://medium.com/p/dce9124d6de2) |
+| Mon, 08 Dec 2025 09:40:26 GMT | The Universal Radio Hacker Software | Investigator515 | [Read More](https://medium.com/p/25c04f7d6729) |
+| Mon, 08 Dec 2025 09:35:17 GMT | Benefits of Professional Venue Security for Weddings, Corporate Events & Nightlife | ICORP Security | [Read More](https://medium.com/p/909a44d334ab) |
+| Mon, 08 Dec 2025 09:29:10 GMT | Upbit’s $36.8 Million Exploit: A Case Study in Systemic Crypto Risk | QuppyAMLBOT | [Read More](https://medium.com/p/48d114cce13a) |
 | Mon, 08 Dec 2025 09:23:13 GMT | How Hackers Sneak In Through Trusted Partners | Redfox Security | [Read More](https://medium.com/p/47ac575443f5) |
 | Mon, 08 Dec 2025 09:20:15 GMT | Building an AI-Powered Network Threat Detection System with Explainable AI: A Complete Journey… | Prateekpulastya | [Read More](https://medium.com/p/dfa32b0f7963) |
 | Mon, 08 Dec 2025 09:19:58 GMT | The UAE DDoS Storm | O. J. Okpabi | [Read More](https://medium.com/p/ab31dde9ec38) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 04:49:10 GMT | The Hidden Cost of DIY Application Security: When to Call Security Consultants | KomodoSec.com | [Read More](https://medium.com/p/d1665de56747) |
 | Mon, 08 Dec 2025 04:42:38 GMT | RST TI Report Digest: 08 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/9772b29f760a) |
 | Mon, 08 Dec 2025 04:33:41 GMT | Master Surya Ji – Best Indian Astrologer, Psychic & Vashikaran Expert in Fiji | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/a0c1a30c5b0b) |
-| Mon, 08 Dec 2025 04:33:39 GMT | When Speaking Up Feels Impossible | jei | [Read More](https://medium.com/p/381fd18ca82c) |
-| Mon, 08 Dec 2025 04:32:15 GMT | The Hybrid Token Pattern Everyone Ends Up Using Anyway: Have You Tried it in Your JavaScript… | Amit Kumar | [Read More](https://medium.com/p/f495ce92aa1f) |
-| Mon, 08 Dec 2025 04:32:15 GMT | Incident Response: From Breach to Business Continuity | F9 Infotech | [Read More](https://medium.com/p/b2c0628fde85) |
-| Mon, 08 Dec 2025 04:28:08 GMT | Tải Hack Haunted Dorm (Vô Hạn Tiền, Tiếng Việt) v1.8.1 | Bandisharecx | [Read More](https://medium.com/p/adfca1ad8264) |
-| Mon, 08 Dec 2025 04:00:35 GMT | Why Healthcare Needs a New Security Foundation for Devices, AI, and OT Systems | David SEHYEON Baek | [Read More](https://medium.com/p/b646df01a05f) |
-| Mon, 08 Dec 2025 03:57:01 GMT | Preparing Your Organization for the Post-Quantum Era: Why Action Starts Now | Nobuyuki Toyokawa | [Read More](https://medium.com/p/cccff0721586) |
-| Mon, 08 Dec 2025 03:32:20 GMT | 5 Essential Tips for Node.js Alerting with Grafana | Arunangshu Das | [Read More](https://medium.com/p/2f4c012b495d) |
-| Mon, 08 Dec 2025 03:28:13 GMT | Command Line Muscle Memory: 20 Commands You’ll Use on Every Lab | Aj | [Read More](https://medium.com/p/47aff468dd66) |
-| Mon, 08 Dec 2025 03:27:52 GMT | Part 1: A Complete Guide to Microsoft Defender for Cloud Apps (MDCA) | BoNeZ | [Read More](https://medium.com/p/22fcdf0b76f1) |
-| Mon, 08 Dec 2025 03:20:54 GMT | Who is Lena? and 7 Key Security Takeaways for CISOs | Dr. Feliks Kravets | [Read More](https://medium.com/p/55c434dcbbbd) |
-| Mon, 08 Dec 2025 03:02:50 GMT | Reasons I’ve Used This Last Month Not To Write | Sturg Writes It Down | [Read More](https://medium.com/p/1a316cd64795) |
-| Mon, 08 Dec 2025 02:56:38 GMT | IIS Misconfigurations, MySQL Exposure, and the Path to Domain Admin | Johnny Meintel | [Read More](https://medium.com/p/14db9fbe9df8) |
-| Mon, 08 Dec 2025 02:52:10 GMT | HexStrike AI MCP v6.0: The New Era of Automated Cybersecurity | Sonu Yadav | [Read More](https://medium.com/p/f1dbeee25449) |
-| Mon, 08 Dec 2025 02:50:58 GMT | The Reason Why Real Spies Were Obsessed With Angry Birds Game | Alex Grande | [Read More](https://medium.com/p/472d00c6c7cb) |
-| Mon, 08 Dec 2025 02:23:31 GMT | XSS, CSRF, and SSRF: Understanding Three Commonly Confused Web Vulnerabilities | Moez Ben-Azzouz | [Read More](https://medium.com/p/9a00c9176ebd) |
-| Mon, 08 Dec 2025 02:19:27 GMT | Hack The Box-Editor Walkthrough | NV | [Read More](https://medium.com/p/14d3547f0c91) |
-| Mon, 08 Dec 2025 02:03:22 GMT | What Is WebRTC Used For? Does WebRTC Leak Your IP Address? | AdsPower Browser | [Read More](https://medium.com/p/04a56704ef8f) |
-| Mon, 08 Dec 2025 02:02:13 GMT | How Hackers Exploit Vulnerabilities to Gain Access. | Jugal Patel | [Read More](https://medium.com/p/fa8ebe12e1fd) |
-| Mon, 08 Dec 2025 01:47:08 GMT | How Developers Can Quickly Validate Application Security Before Deployment (2025 Guide) | Vulnersight | [Read More](https://medium.com/p/8cf00f17d193) |
