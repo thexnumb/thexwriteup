@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 12:44:33 GMT | Cybersecurity Compliance: The One Gap That’s Putting Your Entire Business at Risk | SecureSlate | [Read More](https://medium.com/p/6cbc118f96e0) |
+| Mon, 08 Dec 2025 12:38:58 GMT | The Evolution of Zero-Day Threats: How They Grew Smarter, Faster & Harder to Stop | Miraroy | [Read More](https://medium.com/p/6d9220873d7d) |
+| Mon, 08 Dec 2025 12:36:01 GMT | “I Make $20,000 a Month—Why Marry a Woman Who Makes $3,000?” | Claire Moore | [Read More](https://medium.com/p/df69a09296d9) |
+| Mon, 08 Dec 2025 12:34:36 GMT | Day 126 — Narnia Level-1 OverTheWire | Jinay | [Read More](https://medium.com/p/a1520ce00824) |
+| Mon, 08 Dec 2025 12:33:12 GMT | TryHackMe - Linux Logging for SOC Walkthrough | Birdv | [Read More](https://medium.com/p/efafb8c6bb3e) |
+| Mon, 08 Dec 2025 12:26:23 GMT | Guarding the Digital Frontier: The Case for National Internet Security | Mwesigwa Jayden | [Read More](https://medium.com/p/c7a476b30019) |
+| Mon, 08 Dec 2025 12:26:04 GMT | Filtering Out Noise on Burp Suite with TLS Pass-Through (Quick Guide) | MaMad | [Read More](https://medium.com/p/b8c58440f302) |
+| Mon, 08 Dec 2025 12:21:34 GMT | Top Security Announcements from AWS re:Invent 2025: Revolutionizing Cloud Security | Shriram Wasule | [Read More](https://medium.com/p/a16bd69fcc2a) |
+| Mon, 08 Dec 2025 12:20:00 GMT | Understanding Darkweb Exit Scams: How They Work & Why They’re Rising | Tor BBB | [Read More](https://medium.com/p/9c2984485960) |
+| Mon, 08 Dec 2025 12:17:33 GMT | Effective Incident Response Advantage: From Reactive to Cybersecurity Resilience | NetWitness | [Read More](https://medium.com/p/0ebbb313ded6) |
+| Mon, 08 Dec 2025 12:15:16 GMT | “How fast can we detect, isolate, and neutralise a breach before it erodes enterprise value?” | Barry Ritchie | [Read More](https://medium.com/p/ad79e1b4c693) |
+| Mon, 08 Dec 2025 12:15:04 GMT | Best 5 VPNs for Mac to Keep You Safe and Streaming | Tsumit | [Read More](https://medium.com/p/ea22a83e9153) |
+| Mon, 08 Dec 2025 12:13:01 GMT | IMMEDIATE THREAT: AI Voice Cloning Steals Your Voice to Steal Your Money | Sakhi | [Read More](https://medium.com/p/190051eb7115) |
+| Mon, 08 Dec 2025 12:11:55 GMT | The Significance of Cyber Security in Software Development | Innov8world - Top Outsourcing Software Company | [Read More](https://medium.com/p/6c83d83dfb98) |
+| Mon, 08 Dec 2025 12:08:52 GMT | Why Thread Locals Look Smart — Until They Leak Memory in Production | The Dev Notebook | [Read More](https://medium.com/p/f5990ee79aea) |
+| Mon, 08 Dec 2025 12:07:37 GMT | Why Can’t the Metaverse Say “Yes, This MU = the Real You, 100%”? | Nabeaum | [Read More](https://medium.com/p/ff902003ec46) |
+| Mon, 08 Dec 2025 12:02:31 GMT | Writeup for picoCTF challenge “Scavenger Hunt” | Walter Moar | [Read More](https://medium.com/p/ec652b2a9989) |
+| Mon, 08 Dec 2025 12:01:38 GMT | Cybersecurity in Software Development | Shwaet Satim | [Read More](https://medium.com/p/a10868e7bf36) |
+| Mon, 08 Dec 2025 11:57:06 GMT | Benefits of Python Development Companies for Your Business | sanjay aalpha | [Read More](https://medium.com/p/73d893c25da6) |
+| Mon, 08 Dec 2025 11:52:24 GMT | Your Favourite Website Can Be Hacked Without the Hacker Ever Touching Your Device | Masturah Babawale | [Read More](https://medium.com/p/5cb37226b0cd) |
+| Mon, 08 Dec 2025 11:49:34 GMT | I Exploited React2Shell and Got Shell Access | Jordy de Koning | [Read More](https://medium.com/p/b3e18e7a484a) |
+| Mon, 08 Dec 2025 11:49:07 GMT | Tired of Chasing APYs? There’s a Smarter Way to Earn in DeFi | Kris0nFire | [Read More](https://medium.com/p/7d284f35708d) |
+| Mon, 08 Dec 2025 11:48:54 GMT | The 4 Silent Killers of Cybersecurity Exams (I Was Guilty of All of Them) | Zahra Bibi | [Read More](https://medium.com/p/cfc89c67b573) |
+| Mon, 08 Dec 2025 11:44:37 GMT | Which OnePlus 13R Model Has the Camera Everyone Loves? | Chloe White | [Read More](https://medium.com/p/1d9b35eec30c) |
+| Mon, 08 Dec 2025 11:39:12 GMT | Authentication Bypass Vulnerability Leading to Admin Panel Access | geme000 | [Read More](https://medium.com/p/42ff825765bc) |
+| Mon, 08 Dec 2025 11:34:27 GMT | SQL Injection — Stop This Classic Web App Killer | Monu Jangra | [Read More](https://medium.com/p/6221ff10c937) |
 | Mon, 08 Dec 2025 11:26:02 GMT | Overcoming Challenges in Multi-Channel Retail for PCI Compliance | Chad Barr | [Read More](https://medium.com/p/037a3bd5d414) |
 | Mon, 08 Dec 2025 11:24:40 GMT | The Cybersecurity Roadmap I Wish I Had: A 5-Step Guide for Beginners | Shamsuddeen Isah | [Read More](https://medium.com/p/71846b10b9bb) |
 | Mon, 08 Dec 2025 11:22:22 GMT | React2Shell Tehdidi: Next.js ve React Sunucu Bileşenlerinde Kritik RCE Açığı (CVSS 10.0) | Burak Demiröz | [Read More](https://medium.com/p/679974f59cff) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 07:31:40 GMT | Windows Security Researcher Course | Diyar Saadi - Malfav | [Read More](https://medium.com/p/07e12c2e56f9) |
 | Mon, 08 Dec 2025 07:24:35 GMT | CIA Triad. | Deepak sivan | [Read More](https://medium.com/p/8e2aab468bac) |
 | Mon, 08 Dec 2025 07:24:05 GMT | InSpectre | CYBER COMICS | [Read More](https://medium.com/p/796902843430) |
-| Mon, 08 Dec 2025 07:23:27 GMT | Chain of Trust in Secure Boot | Epteck GmbH | [Read More](https://medium.com/p/f1f95968f574) |
-| Mon, 08 Dec 2025 07:23:22 GMT | The Daily Tech Digest: 08 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7ac1de1d1b0a) |
-| Mon, 08 Dec 2025 07:22:14 GMT | Social Links Raises $3 Million to Enhance AI-Driven Digital Risk Protection as Threat Landscape… | Ivan Shkvarun | [Read More](https://medium.com/p/956937bbf594) |
-| Mon, 08 Dec 2025 07:11:05 GMT | Internal vs External Pentest: 12 Tools Clients Don’t Know Exist (and How Pros Use Them) | Very Lazy Tech | [Read More](https://medium.com/p/bab73f2b23a6) |
-| Mon, 08 Dec 2025 07:08:33 GMT | ️ The New Mindset for Data Protection & Privacy in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/3747fcf111aa) |
-| Mon, 08 Dec 2025 07:01:32 GMT | CZ’s Hardware Wallet Red Line: Why Digital Shield Insists on “Private Keys Must Never Leave the… | Digital Shield Offcial | [Read More](https://medium.com/p/421a07c8821e) |
-| Mon, 08 Dec 2025 07:01:28 GMT | Angular Development Services from a Top Rated Expert CompanyAngular Development Services from a Top… | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/2d56d7bc27ce) |
-| Mon, 08 Dec 2025 07:01:05 GMT | How understanding organic life cycles can contribute to mutually healthy synthetic emergent… | JayCee | [Read More](https://medium.com/p/d63e89971f47) |
-| Mon, 08 Dec 2025 07:00:56 GMT | Tải Starlit Adventures Mod Apk V4.7 (Vô Hạn Tiền, Lo Thuốc) | GOCMOD | [Read More](https://medium.com/p/b3fb690037b5) |
-| Mon, 08 Dec 2025 06:59:38 GMT | Currency Rates Implementation | Eldorado.gg | [Read More](https://medium.com/p/ad80df62d127) |
-| Mon, 08 Dec 2025 06:52:01 GMT | Secure Information Technology Services Barcelona - Professional IT Security by SSI IT | Public | [Read More](https://medium.com/p/517b17740cda) |
-| Mon, 08 Dec 2025 06:51:32 GMT | Network Discovery — Scan-ta Clause | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/b15584f341c4) |
-| Mon, 08 Dec 2025 06:50:08 GMT | Why Microsoft Keeps Increasing Security On License Keys? | Tanisha | [Read More](https://medium.com/p/9aef44947d08) |
-| Mon, 08 Dec 2025 06:46:32 GMT | Top Cybersecurity Companies in Bangalore to Watch in 2026 | CyRAACS | [Read More](https://medium.com/p/a7c717a0a2eb) |
-| Mon, 08 Dec 2025 06:46:22 GMT | Teacher… Aren’t There Some Flowers That Never Bloom? | Claire Yaishi | [Read More](https://medium.com/p/8f2e7af1f034) |
-| Mon, 08 Dec 2025 06:27:03 GMT | Advent of Cyber 2025 Day2 — Tryhackme walkthrough (Rooms:-Phishing — Merry Clickmas) | TRedEye | [Read More](https://medium.com/p/af8ba574ecc0) |
-| Mon, 08 Dec 2025 06:22:11 GMT | Apple and Google sound alarm over rising spyware threats: New threat wave hits users globally | Kavi Devendran | [Read More](https://medium.com/p/3fd232a8d609) |
-| Mon, 08 Dec 2025 06:20:06 GMT | How We Fall Victims to Cybercrime And No One Tells You | kuneblvck | [Read More](https://medium.com/p/1b122f562c43) |
-| Mon, 08 Dec 2025 06:19:55 GMT | Secure Hosting Isn’t Optional: Protect Your Business Today | HSINGH WEB STUDIO | [Read More](https://medium.com/p/367554bfbcfa) |
-| Mon, 08 Dec 2025 06:17:30 GMT | Cyber Security Services Providers -Cyber Security Solutions, UK | QualysecEurope | [Read More](https://medium.com/p/3fbf4b62894e) |
-| Mon, 08 Dec 2025 06:07:55 GMT | A Cyber Threat Intelligence Practical Guide to Analyzing TTPs Using MITRE ATT&CK | Iman Kurnia | [Read More](https://medium.com/p/30fe48e55a9a) |
-| Mon, 08 Dec 2025 06:03:52 GMT | CCEP Certification Review: How I Passed It for Free (Worth It or Not?) | Reju Kole | [Read More](https://medium.com/p/0a6927b42049) |
-| Mon, 08 Dec 2025 06:03:37 GMT | Diploma of Leadership and Management in Australia for International Students | AIST | [Read More](https://medium.com/p/1ea7e267c016) |
-| Mon, 08 Dec 2025 06:01:28 GMT | Why AI-Driven Malware Will Dominate 2026 | Avlex Group | [Read More](https://medium.com/p/b497b42da442) |
-| Mon, 08 Dec 2025 05:54:57 GMT | ERP Cloud Security: Debunking the Myths and Addressing Your Real Risks | Anirudh M | [Read More](https://medium.com/p/ac475c475e5f) |
-| Mon, 08 Dec 2025 05:49:56 GMT | IDOR & Parameter Tampering Vulnerability — How a Simple URL Change Exposed Hidden Content | Sabuj Kumar Modak | [Read More](https://medium.com/p/c8ce26e512ca) |
