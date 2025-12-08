@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 11:26:02 GMT | Overcoming Challenges in Multi-Channel Retail for PCI Compliance | Chad Barr | [Read More](https://medium.com/p/037a3bd5d414) |
+| Mon, 08 Dec 2025 11:24:40 GMT | The Cybersecurity Roadmap I Wish I Had: A 5-Step Guide for Beginners | Shamsuddeen Isah | [Read More](https://medium.com/p/71846b10b9bb) |
+| Mon, 08 Dec 2025 11:22:22 GMT | React2Shell Tehdidi: Next.js ve React Sunucu Bileşenlerinde Kritik RCE Açığı (CVSS 10.0) | Burak Demiröz | [Read More](https://medium.com/p/679974f59cff) |
+| Mon, 08 Dec 2025 11:22:13 GMT | BOLA & BFLA: The Two API Authorization Bugs That Break Everything | Mahmoudelshorpagy | [Read More](https://medium.com/p/ad01bcffdda6) |
+| Mon, 08 Dec 2025 11:19:09 GMT | Are Wireless Security Systems Reliable in Toronto? | Square Security Inc. | [Read More](https://medium.com/p/d1aabd97f34e) |
 | Mon, 08 Dec 2025 11:02:42 GMT | The “Two-Tap Trust” UX | Nexumo | [Read More](https://medium.com/p/0bcd5d7a82fa) |
+| Mon, 08 Dec 2025 10:58:52 GMT | How Secure Is Your Data? Navigating Smart Threats in the Age of AI 2026 and Beyond | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/fb55a6c6e32c) |
 | Mon, 08 Dec 2025 10:58:39 GMT | WGU Secure Network Design(D482) | Irene A. Gil | [Read More](https://medium.com/p/7d20e53bf177) |
 | Mon, 08 Dec 2025 10:50:12 GMT | How Your Phone Silently Betrayed Your Computer | Rabail Zaheer | [Read More](https://medium.com/p/4de52317de47) |
 | Mon, 08 Dec 2025 10:39:09 GMT | Nvidia Cosmos의 개념과 활용 | Maysay | [Read More](https://medium.com/p/29981459fe7d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 06:01:28 GMT | Why AI-Driven Malware Will Dominate 2026 | Avlex Group | [Read More](https://medium.com/p/b497b42da442) |
 | Mon, 08 Dec 2025 05:54:57 GMT | ERP Cloud Security: Debunking the Myths and Addressing Your Real Risks | Anirudh M | [Read More](https://medium.com/p/ac475c475e5f) |
 | Mon, 08 Dec 2025 05:49:56 GMT | IDOR & Parameter Tampering Vulnerability — How a Simple URL Change Exposed Hidden Content | Sabuj Kumar Modak | [Read More](https://medium.com/p/c8ce26e512ca) |
-| Mon, 08 Dec 2025 05:45:43 GMT | Securitec Security — Protecting Perth, One Property at a Time | Securitec Security | [Read More](https://medium.com/p/73a633995b71) |
-| Mon, 08 Dec 2025 05:41:01 GMT | Exploiting EternalBlue (MS17–010) — Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/69156626a3d2) |
-| Mon, 08 Dec 2025 05:38:06 GMT | How Major Security Incidents Shift Urban Consumer Behaviour? — Lessons from the Delhi Blast | Nisarg Sutaria | [Read More](https://medium.com/p/8ffb36052728) |
-| Mon, 08 Dec 2025 05:31:07 GMT | WhatsApp’s New Security Mode Gives iPhone Users One-Tap Protection | WABetaInfo | [Read More](https://medium.com/p/8bb64955811c) |
-| Mon, 08 Dec 2025 05:31:01 GMT | The Security Benchmark Suppliers Must Meet to Stay Competitive | Kadhijahafiya | [Read More](https://medium.com/p/4ea5f2ab6790) |
-| Mon, 08 Dec 2025 05:27:11 GMT | Seamless WordPress Migration: Moving Your Site Without Losing a Beat | IT Company | [Read More](https://medium.com/p/63d97efa471e) |
