@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 20:35:46 GMT | ⚡ CyberSploit:1 — Full Walkthrough | IshhIshneet | [Read More](https://medium.com/p/82747702b00e) |
+| Mon, 08 Dec 2025 20:35:14 GMT | NightOps Drop — Red Team Custom Tool (Özel Aracımız) Eğitim Serisi Nedir ? | mintercoder | [Read More](https://medium.com/p/5acb44fd8bd0) |
+| Mon, 08 Dec 2025 20:23:54 GMT | GCP in Large Enterprises: What Companies Don’t Understand (But Should) | Mohamed ENNAHIBI | [Read More](https://medium.com/p/46d9aab4aa16) |
+| Mon, 08 Dec 2025 20:22:47 GMT | Darknet Vendor Shops Verification — What You Need to Know | Tor BBB | [Read More](https://medium.com/p/4e5d826c8de3) |
 | Mon, 08 Dec 2025 20:10:07 GMT | Basics Commands of Kali-Linux for Ethical Hacking (PART-1) | Akhil Thakur | [Read More](https://medium.com/p/2f871c1ceeb3) |
 | Mon, 08 Dec 2025 20:10:00 GMT | Advent of Cyber 2025 - Day 8: Prompt Injection — Sched-yule conflict | D4m.sh | [Read More](https://medium.com/p/255a9e84da92) |
 | Mon, 08 Dec 2025 20:06:24 GMT | tester | Josephhu | [Read More](https://medium.com/p/7befdd25a4ce) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 14:46:35 GMT | The ‘React2Shell’ Vulnerability Explained: Why Only Next.js RSC Apps Are Affected | Mohit | [Read More](https://medium.com/p/f0fe0f769175) |
 | Mon, 08 Dec 2025 14:45:39 GMT | SCIM Gets an Upgrade: How RFC 9865's Cursor Pagination Changes IAM Integrations | Ehsan | [Read More](https://medium.com/p/8fe6212fd35d) |
 | Mon, 08 Dec 2025 14:42:22 GMT | Understanding the OSI Model — The Framework Behind Every Digital Connection | Paul Meyer | [Read More](https://medium.com/p/9cc43abe9e7e) |
-| Mon, 08 Dec 2025 14:37:48 GMT | ️ I Discovered a Parameter Pollution Vulnerability in a Payment QR System | Nimit Ahir | [Read More](https://medium.com/p/0072038da4f6) |
-| Mon, 08 Dec 2025 14:37:00 GMT | Et si on arrêtait d’hystériser les fuites de données pour enfin parler cybersécurité ? | cybertactic | [Read More](https://medium.com/p/dfd20134b3c6) |
-| Mon, 08 Dec 2025 14:32:11 GMT | (Comptia A+) Understanding Cybersecurity Threats: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/cb32ddba1a3c) |
-| Mon, 08 Dec 2025 14:32:11 GMT | Back to Basics in Jira: My Technical Walkthrough of Issuing and Resolving Service Tickets | Tyrik Emptage | [Read More](https://medium.com/p/a0b4c0b14cfc) |
