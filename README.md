@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 07:32:42 GMT | Most Pentesters Conducting AWS Assessments Fail to Find Real Attack Paths — How to Attack IAM… | Muh. Fani Akbar | [Read More](https://medium.com/p/9caa4875c110) |
+| Mon, 08 Dec 2025 07:32:05 GMT | Stress and Bugs | Ace | [Read More](https://medium.com/p/e455d35ef56c) |
+| Mon, 08 Dec 2025 07:31:40 GMT | Windows Security Researcher Course | Diyar Saadi - Malfav | [Read More](https://medium.com/p/07e12c2e56f9) |
+| Mon, 08 Dec 2025 07:24:35 GMT | CIA Triad. | Deepak sivan | [Read More](https://medium.com/p/8e2aab468bac) |
+| Mon, 08 Dec 2025 07:24:05 GMT | InSpectre | CYBER COMICS | [Read More](https://medium.com/p/796902843430) |
+| Mon, 08 Dec 2025 07:23:27 GMT | Chain of Trust in Secure Boot | Epteck GmbH | [Read More](https://medium.com/p/f1f95968f574) |
+| Mon, 08 Dec 2025 07:23:22 GMT | The Daily Tech Digest: 08 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7ac1de1d1b0a) |
+| Mon, 08 Dec 2025 07:22:14 GMT | Social Links Raises $3 Million to Enhance AI-Driven Digital Risk Protection as Threat Landscape… | Ivan Shkvarun | [Read More](https://medium.com/p/956937bbf594) |
 | Mon, 08 Dec 2025 07:11:05 GMT | Internal vs External Pentest: 12 Tools Clients Don’t Know Exist (and How Pros Use Them) | Very Lazy Tech | [Read More](https://medium.com/p/bab73f2b23a6) |
 | Mon, 08 Dec 2025 07:08:33 GMT | ️ The New Mindset for Data Protection & Privacy in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/3747fcf111aa) |
 | Mon, 08 Dec 2025 07:01:32 GMT | CZ’s Hardware Wallet Red Line: Why Digital Shield Insists on “Private Keys Must Never Leave the… | Digital Shield Offcial | [Read More](https://medium.com/p/421a07c8821e) |
@@ -105,11 +113,3 @@ You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
 | Sun, 07 Dec 2025 22:55:07 GMT | Blockchain Risks: What Project Managers and Tech Strategists Need to Know as Stablecoins Outpace… | CCL Montante | [Read More](https://medium.com/p/0385b3147515) |
 | Sun, 07 Dec 2025 22:33:51 GMT | How can you send secure message across the internet? | Jan Skopal | [Read More](https://medium.com/p/45b513c9b944) |
 | Sun, 07 Dec 2025 22:16:28 GMT | Three Years of ChatGPT: Model training | Mario Beccia | [Read More](https://medium.com/p/52af7e2a16ed) |
-| Sun, 07 Dec 2025 22:09:42 GMT | Agents in Sandboxes | Teri Radichel | [Read More](https://medium.com/p/7dbf889876fe) |
-| Sun, 07 Dec 2025 22:08:56 GMT | When I Found a docker-compose.yml | Anshubind | [Read More](https://medium.com/p/71192b9ed1bc) |
-| Sun, 07 Dec 2025 22:07:55 GMT | Your Workspace Can Betray You — If You Let It | Sam Galope | [Read More](https://medium.com/p/bb5c0c94a207) |
-| Sun, 07 Dec 2025 22:05:55 GMT | ️ The Day I Found a phpinfo() Page Exposed in Production — And Why It Was Worth More Than $200 | Anshubind | [Read More](https://medium.com/p/1e6c902e1f4a) |
-| Sun, 07 Dec 2025 21:54:04 GMT | My CPTS Exam Experience — Part 1: Context + Starting the Exam | Kentucky Mathitis | [Read More](https://medium.com/p/66af6944717f) |
-| Sun, 07 Dec 2025 21:52:53 GMT | Editor ✍️ - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/597ff6d6bb08) |
-| Sun, 07 Dec 2025 21:43:34 GMT | Software Quality: Simplify It and Earn the Trust of Your Users (and Your Own!) | Agilista Desenvolvedor | [Read More](https://medium.com/p/42fa8d54998e) |
-| Sun, 07 Dec 2025 21:43:33 GMT | Proving Grounds - Boolean | jniket | [Read More](https://medium.com/p/2609d211e473) |
