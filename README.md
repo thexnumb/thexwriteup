@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 03:02:50 GMT | Reasons I’ve Used This Last Month Not To Write | Sturg Writes It Down | [Read More](https://medium.com/p/1a316cd64795) |
+| Mon, 08 Dec 2025 02:56:38 GMT | IIS Misconfigurations, MySQL Exposure, and the Path to Domain Admin | Johnny Meintel | [Read More](https://medium.com/p/14db9fbe9df8) |
+| Mon, 08 Dec 2025 02:52:10 GMT | HexStrike AI MCP v6.0: The New Era of Automated Cybersecurity | Sonu Yadav | [Read More](https://medium.com/p/f1dbeee25449) |
+| Mon, 08 Dec 2025 02:50:58 GMT | The Reason Why Real Spies Were Obsessed With Angry Birds Game | Alex Grande | [Read More](https://medium.com/p/472d00c6c7cb) |
+| Mon, 08 Dec 2025 02:23:31 GMT | XSS, CSRF, and SSRF: Understanding Three Commonly Confused Web Vulnerabilities | Moez Ben-Azzouz | [Read More](https://medium.com/p/9a00c9176ebd) |
+| Mon, 08 Dec 2025 02:19:27 GMT | Hack The Box-Editor Walkthrough | NV | [Read More](https://medium.com/p/14d3547f0c91) |
+| Mon, 08 Dec 2025 02:03:22 GMT | What Is WebRTC Used For? Does WebRTC Leak Your IP Address? | AdsPower Browser | [Read More](https://medium.com/p/04a56704ef8f) |
+| Mon, 08 Dec 2025 02:02:13 GMT | How Hackers Exploit Vulnerabilities to Gain Access. | Jugal Patel | [Read More](https://medium.com/p/fa8ebe12e1fd) |
+| Mon, 08 Dec 2025 01:47:08 GMT | How Developers Can Quickly Validate Application Security Before Deployment (2025 Guide) | Vulnersight | [Read More](https://medium.com/p/8cf00f17d193) |
+| Mon, 08 Dec 2025 01:42:24 GMT | The Mandatory Website Security Checklist for Your Business (2025 Edition) | Vulnersight | [Read More](https://medium.com/p/82dfc7fdb44b) |
+| Mon, 08 Dec 2025 01:41:51 GMT | Malspam targeted at Brazilian WhatsApp users | Rafael Batista | [Read More](https://medium.com/p/4872990a78af) |
 | Mon, 08 Dec 2025 01:38:48 GMT | [be rust] Kafka: Adding SASL/PLAIN Authentication to Rust Clients with rust-rdkafka | Andrian Tri Putra | [Read More](https://medium.com/p/d3c6f4cc7591) |
 | Mon, 08 Dec 2025 01:38:11 GMT | Ghost in the WAF: Building “WAF-Whisper” — An Adaptive Evasion Engine | Nmullenski | [Read More](https://medium.com/p/54366af7e99a) |
 | Mon, 08 Dec 2025 01:37:54 GMT | The Ultimate Guide to Active Directory LDAP Enumeration Using NetExec | Tareshsharma | [Read More](https://medium.com/p/af7f24ec05ff) |
@@ -102,14 +113,3 @@ You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
 | Sun, 07 Dec 2025 17:00:23 GMT | Advent of Cyber 2025: Full Walkthrough P1 | Motasem Hamdan | [Read More](https://medium.com/p/ba06781e416b) |
 | Sun, 07 Dec 2025 16:59:44 GMT | Membongkar Intrusion Detection: CTF Evasion dan Analisis IDS/HIDS | Zarkasi | [Read More](https://medium.com/p/73c26141ca87) |
 | Sun, 07 Dec 2025 16:59:35 GMT | Understanding Threats, System Vulnerabilities, Risks, Impacts and How to Assess The Severity of An… | Lutsvia | [Read More](https://medium.com/p/97240025a8ad) |
-| Sun, 07 Dec 2025 16:58:28 GMT | Analysing Packets with Wireshark: A Practical and Personal Walkthrough of the Tasks I performed and | Victor Nkereuwem | [Read More](https://medium.com/p/43853ec165d9) |
-| Sun, 07 Dec 2025 16:57:09 GMT | A Major Next.js Security Issue Explained Simply (CVE-2025–66478) | Stalin | [Read More](https://medium.com/p/674b56f55f79) |
-| Sun, 07 Dec 2025 16:56:35 GMT | When Paper Files Cost Lives: Why Digital Crime Reporting Can’t Wait | Pereznkunda | [Read More](https://medium.com/p/8361abb1d93c) |
-| Sun, 07 Dec 2025 16:51:11 GMT | Cyber Etiquette: How to Communicate Professionally Online | Financialanalytics | [Read More](https://medium.com/p/9bae9cf5baaf) |
-| Sun, 07 Dec 2025 16:48:35 GMT | WHEN THE HEART BLED: HEARTBLEED EXPLOIT | Vishal | [Read More](https://medium.com/p/a013662f734d) |
-| Sun, 07 Dec 2025 16:46:32 GMT | Advent of Cyber 2025 - Day 7: Network Discovery — Scan-ta Clause | D4m.sh | [Read More](https://medium.com/p/1baadf8eb628) |
-| Sun, 07 Dec 2025 16:40:15 GMT | The Complete Guide to MAC Spoofing: Changing Your Digital Fingerprint | Ajmir khan | [Read More](https://medium.com/p/af82b3f92520) |
-| Sun, 07 Dec 2025 16:33:30 GMT | Azure Sentinel Map Project - ¿Qué aprendí? | Lexie | [Read More](https://medium.com/p/e5cbc968e0a0) |
-| Sun, 07 Dec 2025 16:33:05 GMT | The Mistake That Made Me Fall in Love With Cybersecurity | Mubashir | [Read More](https://medium.com/p/ed620c1af1bd) |
-| Sun, 07 Dec 2025 16:31:52 GMT | Demystifying Network Spoofing: MAC, ARP, and IP Spoofing Explained | Ajmir khan | [Read More](https://medium.com/p/1288e2a5b709) |
-| Sun, 07 Dec 2025 16:30:05 GMT | HTB Challenge — The Suspicious Reviewer (OSINT) | Fardeen A. | [Read More](https://medium.com/p/6b3d72153d6d) |
