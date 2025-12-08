@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 03:32:20 GMT | 5 Essential Tips for Node.js Alerting with Grafana | Arunangshu Das | [Read More](https://medium.com/p/2f4c012b495d) |
+| Mon, 08 Dec 2025 03:28:13 GMT | Command Line Muscle Memory: 20 Commands You’ll Use on Every Lab | Aj | [Read More](https://medium.com/p/47aff468dd66) |
+| Mon, 08 Dec 2025 03:27:52 GMT | Part 1: A Complete Guide to Microsoft Defender for Cloud Apps (MDCA) | BoNeZ | [Read More](https://medium.com/p/22fcdf0b76f1) |
+| Mon, 08 Dec 2025 03:20:54 GMT | Who is Lena? and 7 Key Security Takeaways for CISOs | Dr. Feliks Kravets | [Read More](https://medium.com/p/55c434dcbbbd) |
 | Mon, 08 Dec 2025 03:02:50 GMT | Reasons I’ve Used This Last Month Not To Write | Sturg Writes It Down | [Read More](https://medium.com/p/1a316cd64795) |
 | Mon, 08 Dec 2025 02:56:38 GMT | IIS Misconfigurations, MySQL Exposure, and the Path to Domain Admin | Johnny Meintel | [Read More](https://medium.com/p/14db9fbe9df8) |
 | Mon, 08 Dec 2025 02:52:10 GMT | HexStrike AI MCP v6.0: The New Era of Automated Cybersecurity | Sonu Yadav | [Read More](https://medium.com/p/f1dbeee25449) |
@@ -109,7 +113,3 @@ You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
 | Sun, 07 Dec 2025 17:05:54 GMT | Top Insurance Tips Every Small Business Should Know | Lilyparker | [Read More](https://medium.com/p/b5f0f525e8b5) |
 | Sun, 07 Dec 2025 17:04:49 GMT | Fake CAPTCHA: leading to compromised systems | Ansh Verma | [Read More](https://medium.com/p/ebd9a4dc1646) |
 | Sun, 07 Dec 2025 17:04:22 GMT | Fish It! Script — Free Keyless Roblox Exploit (Updated) | ROBLOX FREE SCRIPTS | [Read More](https://medium.com/p/7ac45e0d90f6) |
-| Sun, 07 Dec 2025 17:00:32 GMT | Passphrases: The Simple, Strong Password Upgrade Everyone Should Use in 2026 | Itsmejij | [Read More](https://medium.com/p/980cfa66f8a4) |
-| Sun, 07 Dec 2025 17:00:23 GMT | Advent of Cyber 2025: Full Walkthrough P1 | Motasem Hamdan | [Read More](https://medium.com/p/ba06781e416b) |
-| Sun, 07 Dec 2025 16:59:44 GMT | Membongkar Intrusion Detection: CTF Evasion dan Analisis IDS/HIDS | Zarkasi | [Read More](https://medium.com/p/73c26141ca87) |
-| Sun, 07 Dec 2025 16:59:35 GMT | Understanding Threats, System Vulnerabilities, Risks, Impacts and How to Assess The Severity of An… | Lutsvia | [Read More](https://medium.com/p/97240025a8ad) |
