@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 04:51:35 GMT | How to Get Free Windows Activation Using the KMS Exploit. | TheCyberNirvana | [Read More](https://medium.com/p/9e9538eed592) |
+| Mon, 08 Dec 2025 04:33:41 GMT | Master Surya Ji – Best Indian Astrologer, Psychic & Vashikaran Expert in Fiji | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/a0c1a30c5b0b) |
+| Mon, 08 Dec 2025 04:33:39 GMT | When Speaking Up Feels Impossible | jei | [Read More](https://medium.com/p/381fd18ca82c) |
+| Mon, 08 Dec 2025 04:32:15 GMT | The Hybrid Token Pattern Everyone Ends Up Using Anyway: Have You Tried it in Your JavaScript… | Amit Kumar | [Read More](https://medium.com/p/f495ce92aa1f) |
+| Mon, 08 Dec 2025 04:32:15 GMT | Incident Response: From Breach to Business Continuity | F9 Infotech | [Read More](https://medium.com/p/b2c0628fde85) |
+| Mon, 08 Dec 2025 04:28:08 GMT | Tải Hack Haunted Dorm (Vô Hạn Tiền, Tiếng Việt) v1.8.1 | Bandisharecx | [Read More](https://medium.com/p/adfca1ad8264) |
+| Mon, 08 Dec 2025 04:00:35 GMT | Why Healthcare Needs a New Security Foundation for Devices, AI, and OT Systems | David SEHYEON Baek | [Read More](https://medium.com/p/b646df01a05f) |
+| Mon, 08 Dec 2025 03:57:01 GMT | Preparing Your Organization for the Post-Quantum Era: Why Action Starts Now | Nobuyuki Toyokawa | [Read More](https://medium.com/p/cccff0721586) |
 | Mon, 08 Dec 2025 03:32:20 GMT | 5 Essential Tips for Node.js Alerting with Grafana | Arunangshu Das | [Read More](https://medium.com/p/2f4c012b495d) |
 | Mon, 08 Dec 2025 03:28:13 GMT | Command Line Muscle Memory: 20 Commands You’ll Use on Every Lab | Aj | [Read More](https://medium.com/p/47aff468dd66) |
 | Mon, 08 Dec 2025 03:27:52 GMT | Part 1: A Complete Guide to Microsoft Defender for Cloud Apps (MDCA) | BoNeZ | [Read More](https://medium.com/p/22fcdf0b76f1) |
@@ -105,11 +113,3 @@ You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
 | Sun, 07 Dec 2025 17:36:54 GMT | How a Botnet Tried to Infect My Server — and How Docker Saved Me | Manpreetsingh | [Read More](https://medium.com/p/9f5e8c8dd0d1) |
 | Sun, 07 Dec 2025 17:36:08 GMT | ₹16,000 Earned by Reporting 2 Simple API Vulnerability - High Severity P2 | Rajankumarbarik | [Read More](https://medium.com/p/c5a6ea9fd8c5) |
 | Sun, 07 Dec 2025 17:30:43 GMT | Day 125 — Narnia OverTheWire Level-0 | Jinay | [Read More](https://medium.com/p/aa2a35ff1d67) |
-| Sun, 07 Dec 2025 17:27:03 GMT | Wazuh System Inventory: Services, Ports, and Protocols | Ismail Hakim | [Read More](https://medium.com/p/f0952719c57b) |
-| Sun, 07 Dec 2025 17:15:37 GMT | The Dark Web Data Goldmine: How I Found My Company’s Leaked Credentials Before the Bad Guys Did (… | Iski | [Read More](https://medium.com/p/4518890c8fa6) |
-| Sun, 07 Dec 2025 17:15:08 GMT | Fear of the Walking Zig: The Security Audit Gap | Krzyś | [Read More](https://medium.com/p/707aec6ceb92) |
-| Sun, 07 Dec 2025 17:11:22 GMT | Stay Ahead of Cybersecurity Threats by Acknowledging These “Must-Know” Terms | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/b40a5faf1964) |
-| Sun, 07 Dec 2025 17:07:24 GMT | [CyberDefenders Write-up] BumbleSting (Bumblebee leads to domain compromised and Conti ransomware) | Chicken0248 | [Read More](https://medium.com/p/19d31a27c907) |
-| Sun, 07 Dec 2025 17:05:54 GMT | Top Insurance Tips Every Small Business Should Know | Lilyparker | [Read More](https://medium.com/p/b5f0f525e8b5) |
-| Sun, 07 Dec 2025 17:04:49 GMT | Fake CAPTCHA: leading to compromised systems | Ansh Verma | [Read More](https://medium.com/p/ebd9a4dc1646) |
-| Sun, 07 Dec 2025 17:04:22 GMT | Fish It! Script — Free Keyless Roblox Exploit (Updated) | ROBLOX FREE SCRIPTS | [Read More](https://medium.com/p/7ac45e0d90f6) |
