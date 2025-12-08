@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 21:13:50 GMT | They See Me Rollin’… They Hatin’ — Writeup | Aymanegharrabou | [Read More](https://medium.com/p/91d499586848) |
+| Mon, 08 Dec 2025 20:57:57 GMT | The PoWER of “NO” | Seth J | [Read More](https://medium.com/p/7ed8e647daf8) |
 | Mon, 08 Dec 2025 20:35:46 GMT | ⚡ CyberSploit:1 — Full Walkthrough | IshhIshneet | [Read More](https://medium.com/p/82747702b00e) |
 | Mon, 08 Dec 2025 20:35:14 GMT | NightOps Drop — Red Team Custom Tool (Özel Aracımız) Eğitim Serisi Nedir ? | mintercoder | [Read More](https://medium.com/p/5acb44fd8bd0) |
 | Mon, 08 Dec 2025 20:23:54 GMT | GCP in Large Enterprises: What Companies Don’t Understand (But Should) | Mohamed ENNAHIBI | [Read More](https://medium.com/p/46d9aab4aa16) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 14:51:16 GMT | The Invisible Eye: How the New ‘Predator’ Spyware Turns Mobile Ads Into Surveillance Weapons | Enes Karataş | [Read More](https://medium.com/p/64449273ba50) |
 | Mon, 08 Dec 2025 14:49:04 GMT | I’mTop 5 Cybersecurity Threats Every Business Should Prepare For | Thinks Of Nadir | [Read More](https://medium.com/p/b9edd278b47e) |
 | Mon, 08 Dec 2025 14:46:35 GMT | The ‘React2Shell’ Vulnerability Explained: Why Only Next.js RSC Apps Are Affected | Mohit | [Read More](https://medium.com/p/f0fe0f769175) |
-| Mon, 08 Dec 2025 14:45:39 GMT | SCIM Gets an Upgrade: How RFC 9865's Cursor Pagination Changes IAM Integrations | Ehsan | [Read More](https://medium.com/p/8fe6212fd35d) |
-| Mon, 08 Dec 2025 14:42:22 GMT | Understanding the OSI Model — The Framework Behind Every Digital Connection | Paul Meyer | [Read More](https://medium.com/p/9cc43abe9e7e) |
