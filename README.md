@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 19:27:26 GMT | Part 2 /5:  SSH Log Analysis: Detecting Brute Force Attacks | Chaima KHABTHENI | [Read More](https://medium.com/p/d04254cd0213) |
+| Mon, 08 Dec 2025 19:26:46 GMT | When “Deleted” Isn’t Gone: What I Found Inside Used Hard Drives | MV Intelligence | [Read More](https://medium.com/p/9450f5e48b69) |
+| Mon, 08 Dec 2025 19:24:05 GMT | Unlocking Linux Process Power: Part 1 Monitor, Inspect Processes Like a Pro | MR.7 | [Read More](https://medium.com/p/502f73ae946a) |
+| Mon, 08 Dec 2025 19:23:27 GMT | NCAE C2Games MiniHacks Challenge Walkthrough | Samuel McLamb | [Read More](https://medium.com/p/13bb8e55e1f5) |
+| Mon, 08 Dec 2025 19:21:22 GMT | Microsoft Sentinel SIEM/SOAR Demystified — Detect, Investigate, and Respond to Threats Across Your… | D3ad_M3m0r13s | [Read More](https://medium.com/p/60fe1535321c) |
+| Mon, 08 Dec 2025 19:20:25 GMT | Microsoft Purview Audit Demystified — How Audit Logs Help You Reconstruct What Really Happened | D3ad_M3m0r13s | [Read More](https://medium.com/p/b04e9fc1294d) |
+| Mon, 08 Dec 2025 19:17:47 GMT | Beyond the AI Black Box by Achieving Transparency in LLM Agents with DSPy Observability | Valdez Ladd | [Read More](https://medium.com/p/d2086b9e9ab2) |
+| Mon, 08 Dec 2025 19:17:37 GMT | United Security: Leading Security Services | United Security | [Read More](https://medium.com/p/ff5f0ad07a12) |
 | Mon, 08 Dec 2025 19:11:39 GMT | Advent of Cyber 2025 - Day 8: Prompt Injection - Sched-yule conflict | Akshat Patel | [Read More](https://medium.com/p/0e032230ede7) |
 | Mon, 08 Dec 2025 19:08:50 GMT | How I Recovered 5 Years’ Worth of 500GB Lost Files Using Just 3 Windows Commands | Raymond Ebonine | [Read More](https://medium.com/p/46fc5280859d) |
 | Mon, 08 Dec 2025 19:02:04 GMT | Remote Security Agent Colorado Springs — Overwatch Technologies | Overwatch Technologies | [Read More](https://medium.com/p/db968bd1f4f3) |
@@ -27,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 18:47:39 GMT | Why Small Businesses Need Cloud Security in 2026 | Techridge Solutions | [Read More](https://medium.com/p/10cf688f7e2a) |
 | Mon, 08 Dec 2025 18:46:01 GMT | Security Risk Analysis: Identification of Threats, Vulnerabilities, and CVSS Severity Rating… | Diva Rizky Alfitrah | [Read More](https://medium.com/p/6684a2d03488) |
 | Mon, 08 Dec 2025 18:27:25 GMT | Network Discovery — Scan-ta Clause - AoC 2025 Day — 7 - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/46960a37919e) |
+| Mon, 08 Dec 2025 18:27:01 GMT | What Cyber Incidents Taught Us About 2025? | TechDemocracy | [Read More](https://medium.com/p/9f8d46b5e76c) |
 | Mon, 08 Dec 2025 18:26:35 GMT | Shadow AI Just Got a Promotion: A Look at Microsoft’s ‘Agentic’ Defender | Arsh Riz | [Read More](https://medium.com/p/b757512f6fe2) |
 | Mon, 08 Dec 2025 18:26:31 GMT | SHA1 Hulud: Why Mobile and Kotlin Multiplatform Developers Should Still Pay Attention | Ryan W | [Read More](https://medium.com/p/4bff77c640d5) |
 | Mon, 08 Dec 2025 18:26:05 GMT | Ratio1 RedMesh: Turning Penetration Testing into a Distributed System | Ratio1 | [Read More](https://medium.com/p/e2989efaf07b) |
@@ -43,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 17:53:16 GMT | Smartphones in the Crosshairs: The Evolution of Mobile Malware | Craig Tsikiwa | [Read More](https://medium.com/p/73f194603ba7) |
 | Mon, 08 Dec 2025 17:47:18 GMT | Every Bug I Ever Fixed Made Sense Only After I Understood These 7 Layers | Dayakumar | [Read More](https://medium.com/p/9b0d7ef081f3) |
 | Mon, 08 Dec 2025 17:42:33 GMT | DockerLabs — Ejotapete | Noelia Presa | [Read More](https://medium.com/p/410c2c4764a5) |
+| Mon, 08 Dec 2025 17:37:18 GMT | How to Prioritize Vulnerabilities When Everything Looks Critical | Digital Defense | [Read More](https://medium.com/p/94fc48965dd2) |
 | Mon, 08 Dec 2025 17:31:35 GMT | Lab: User role can be modified in user profile | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6bcf0def68c0) |
 | Mon, 08 Dec 2025 17:28:08 GMT | Backdoor CTF-2025: Flask of Cookies writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/fcd81b892608) |
 | Mon, 08 Dec 2025 17:28:02 GMT | .NET Core’da Kapıları Kilitlemek: JWT (JSON Web Token) Mantığı | Mehmet Sönmez | [Read More](https://medium.com/p/dce5a8930096) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 14:12:18 GMT | Building SOC 2 & ISO 27001 Controls on AWS — A Step-by-Step Practical Guide for DevSecOps Teams | Davebhargavi | [Read More](https://medium.com/p/02ca4341630b) |
 | Mon, 08 Dec 2025 14:12:04 GMT | Why TypeScript Is More Secure Than JavaScript — And Why Most Developers Can’t Explain Why | Arnold CONVOLBO | [Read More](https://medium.com/p/db4620dc9c4d) |
 | Mon, 08 Dec 2025 14:10:56 GMT | Resilience Beyond Technology: Why Human-Centric Cybersecurity Matters More Than Ever | Hello @ Octellient | [Read More](https://medium.com/p/f97bae6733cb) |
-| Mon, 08 Dec 2025 14:10:35 GMT | Manual and Periodic Security Scanning with Trivy | Anıl Ülger | [Read More](https://medium.com/p/11f6b0c85d3e) |
-| Mon, 08 Dec 2025 14:03:54 GMT | One object to create and carry to thwart all Archon attacks | David Senouf | [Read More](https://medium.com/p/ecc60ada8170) |
-| Mon, 08 Dec 2025 14:00:42 GMT | CVE-2025–55182: A Practical Breakdown for Security, Engineering, and Product Teams | Enrique Somoza | [Read More](https://medium.com/p/0a1922e83ea9) |
-| Mon, 08 Dec 2025 13:55:48 GMT | How I Performed Basic API Security Tests Using Postman (Beginner Edition) | Maryblessing | [Read More](https://medium.com/p/3371e3414309) |
-| Mon, 08 Dec 2025 13:52:46 GMT | React2Shell: أخطر ثغرة RCE بعد كارثة Log4j | Mustafaxstr0ike | [Read More](https://medium.com/p/bc984deeadb0) |
-| Mon, 08 Dec 2025 13:51:06 GMT | How Often Should Your Business Conduct a Penetration Test? (2025 Guide) | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/cfcf6b1379b8) |
-| Mon, 08 Dec 2025 13:46:16 GMT | The Code Leak Epidemic Nobody Wants to Talk About | Dávid Ondruš | [Read More](https://medium.com/p/178178f3ac72) |
-| Mon, 08 Dec 2025 13:44:50 GMT | Intercepting Everything: A PAX PoS Pentest Case Study | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/442f09cd9c8d) |
-| Mon, 08 Dec 2025 13:43:46 GMT | Temenos OFS String Injection: Revealing a Hidden Financial Attack Vector | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/44df0e2bef9d) |
-| Mon, 08 Dec 2025 13:43:24 GMT | Access Control And Identity-Based Access With Zero Trust | Chris Yeung | [Read More](https://medium.com/p/e59e5e25f48f) |
