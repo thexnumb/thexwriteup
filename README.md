@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 11:02:42 GMT | The “Two-Tap Trust” UX | Nexumo | [Read More](https://medium.com/p/0bcd5d7a82fa) |
+| Mon, 08 Dec 2025 10:58:39 GMT | WGU Secure Network Design(D482) | Irene A. Gil | [Read More](https://medium.com/p/7d20e53bf177) |
+| Mon, 08 Dec 2025 10:50:12 GMT | How Your Phone Silently Betrayed Your Computer | Rabail Zaheer | [Read More](https://medium.com/p/4de52317de47) |
 | Mon, 08 Dec 2025 10:39:09 GMT | Nvidia Cosmos의 개념과 활용 | Maysay | [Read More](https://medium.com/p/29981459fe7d) |
 | Mon, 08 Dec 2025 10:37:40 GMT | Measuring Malice: When Being ‘Almost Right’ Is Exactly Wrong | Koifsec | [Read More](https://medium.com/p/abbdbe2ca7c7) |
 | Mon, 08 Dec 2025 10:37:27 GMT | Unlocking the Power of Sublist3r: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/fa39f2265b7c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 05:31:07 GMT | WhatsApp’s New Security Mode Gives iPhone Users One-Tap Protection | WABetaInfo | [Read More](https://medium.com/p/8bb64955811c) |
 | Mon, 08 Dec 2025 05:31:01 GMT | The Security Benchmark Suppliers Must Meet to Stay Competitive | Kadhijahafiya | [Read More](https://medium.com/p/4ea5f2ab6790) |
 | Mon, 08 Dec 2025 05:27:11 GMT | Seamless WordPress Migration: Moving Your Site Without Losing a Beat | IT Company | [Read More](https://medium.com/p/63d97efa471e) |
-| Mon, 08 Dec 2025 05:23:55 GMT | Understanding where to store JWT Tokens: Simple Explanation | Muhammad Ayaan shaikh | [Read More](https://medium.com/p/d8fa969e9573) |
-| Mon, 08 Dec 2025 05:23:05 GMT | Hacking AI: How I Crafted RCE on a Vibe-Coding LLM Using Prompt Engineering | ipsbruno3 | [Read More](https://medium.com/p/b45ccc57e312) |
-| Mon, 08 Dec 2025 05:21:54 GMT | Sanchar Saathi: The app everyone’s buzzing about! | Keyur | [Read More](https://medium.com/p/87a1f7f2dd96) |
