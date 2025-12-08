@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 08:33:06 GMT | 5 Tiny Tech Mistakes That Caused Catastrophic Disasters | Vedant Jain | [Read More](https://medium.com/p/5e675ae0242e) |
+| Mon, 08 Dec 2025 08:21:57 GMT | A Complete Guide to the AWS Associate Certification | cyber security Updates | [Read More](https://medium.com/p/ad6c979a76ce) |
+| Mon, 08 Dec 2025 08:21:10 GMT | Protect Your Privacy: Best Antivirus for PC for Complete Security | Siyanoav | [Read More](https://medium.com/p/99c1360f1a24) |
+| Mon, 08 Dec 2025 08:17:32 GMT | How to Install Acunetix on Kali Linux | Swarachis Sutradhar | [Read More](https://medium.com/p/b9e8db71b9b7) |
+| Mon, 08 Dec 2025 08:16:37 GMT | How I Earn 938$ Online In One Week Via Android | LALPRO.COM | [Read More](https://medium.com/p/1a4a47d93a50) |
+| Mon, 08 Dec 2025 08:08:14 GMT | Critical Alert: The React2Shell Vulnerability and What You Must Do Now | Smith Kruz | [Read More](https://medium.com/p/2e41e217f9e0) |
+| Mon, 08 Dec 2025 08:03:00 GMT | Why the Internet Routes Traffic Like a Confused Taxi Driver | Fateyaly | [Read More](https://medium.com/p/bb500c00f426) |
+| Mon, 08 Dec 2025 08:02:40 GMT | From Starlink to Star Wars — The Real Cyber Threats in Space | Netlas.io | [Read More](https://medium.com/p/aee88aa15a1e) |
+| Mon, 08 Dec 2025 07:59:48 GMT | Multi-Store E-Commerce: Stop Cross-Account Flags with Local Residential IPs | LedgerGale | [Read More](https://medium.com/p/7f398ee62d9b) |
+| Mon, 08 Dec 2025 07:57:54 GMT | Zanzibar: Understanding Google’s Global Authorization System | Dipak Kr das | [Read More](https://medium.com/p/9fe39694960f) |
+| Mon, 08 Dec 2025 07:50:29 GMT | The Deepfake Election Problem | Rajesh Poovathum Kadavil | [Read More](https://medium.com/p/35fba29d388f) |
+| Mon, 08 Dec 2025 07:43:38 GMT | Why ‘Risk Ownership’ Fails (And What to Assign Instead) | Levente Simon | [Read More](https://medium.com/p/db431165aabc) |
+| Mon, 08 Dec 2025 07:42:13 GMT | What Is API Security and Why Should Everyday People Care? | Fwawira | [Read More](https://medium.com/p/bf49b7abc1f0) |
 | Mon, 08 Dec 2025 07:32:42 GMT | Most Pentesters Conducting AWS Assessments Fail to Find Real Attack Paths — How to Attack IAM… | Muh. Fani Akbar | [Read More](https://medium.com/p/9caa4875c110) |
 | Mon, 08 Dec 2025 07:32:05 GMT | Stress and Bugs | Ace | [Read More](https://medium.com/p/e455d35ef56c) |
 | Mon, 08 Dec 2025 07:31:40 GMT | Windows Security Researcher Course | Diyar Saadi - Malfav | [Read More](https://medium.com/p/07e12c2e56f9) |
@@ -100,16 +113,3 @@ You’re Not a… | Kim Brown | [Read More](https://medium.com/p/88ea17b522b9) |
 | Mon, 08 Dec 2025 00:49:09 GMT | Understanding of React2Shell | Ashok | [Read More](https://medium.com/p/6c5ecdf2d89b) |
 | Mon, 08 Dec 2025 00:44:18 GMT | Threat Intelligence Report | Genet Shibru | [Read More](https://medium.com/p/eabcb8844e55) |
 | Mon, 08 Dec 2025 00:35:32 GMT | Rising Android Threat Targeting Mobile Banking Users | Geoffrey Wenger | [Read More](https://medium.com/p/e32baafc1074) |
-| Mon, 08 Dec 2025 00:34:57 GMT | Virtual Kidnapping Scams Are Evolving Faster Than People Expect | Geoffrey Wenger | [Read More](https://medium.com/p/a0a37db5cdbd) |
-| Mon, 08 Dec 2025 00:14:15 GMT | From Diagrams to Packets: Building My First FortiGate Lab as a New Defender | Barbaros Emre Alagöz | [Read More](https://medium.com/p/8bb5d6c880ed) |
-| Mon, 08 Dec 2025 00:01:26 GMT | CyberDefenders - Tusk Infostealer Lab - Walkthrough | Drew Arpino | [Read More](https://medium.com/p/8abb35ea4449) |
-| Sun, 07 Dec 2025 23:57:37 GMT | What Most Amateur Algerian Phishers Get Wrong: A Cybersecurity Perspective | Zahi halimi | [Read More](https://medium.com/p/0dd042dd6510) |
-| Sun, 07 Dec 2025 23:56:09 GMT | Thinking in 3D: The Simple Framework That Could Save Your Digital Life | Oghenemaro Ikelegbe | [Read More](https://medium.com/p/407e78835f7a) |
-| Sun, 07 Dec 2025 23:35:44 GMT | TLD Discovery For BugBounty | 0X0mahmoud | [Read More](https://medium.com/p/07340cf543ff) |
-| Sun, 07 Dec 2025 23:32:30 GMT | The Security Vulnerabilities I Shipped to Production | DefineWorld | [Read More](https://medium.com/p/ce8165ed7871) |
-| Sun, 07 Dec 2025 23:16:33 GMT | Post 3: What Actually Is Information Technology (IT)? — Sally’s Business | SattiData | [Read More](https://medium.com/p/23cbc12494b7) |
-| Sun, 07 Dec 2025 23:09:56 GMT | The Pratfall Effect: Why Your Imperfections Make You More Likeable | Insightful Savant | [Read More](https://medium.com/p/072a3dc5edd2) |
-| Sun, 07 Dec 2025 23:02:15 GMT | Public Wi-Fi is a Trap. Here’s How to Secure It for $0. | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/b3827b76f5d9) |
-| Sun, 07 Dec 2025 22:55:07 GMT | Blockchain Risks: What Project Managers and Tech Strategists Need to Know as Stablecoins Outpace… | CCL Montante | [Read More](https://medium.com/p/0385b3147515) |
-| Sun, 07 Dec 2025 22:33:51 GMT | How can you send secure message across the internet? | Jan Skopal | [Read More](https://medium.com/p/45b513c9b944) |
-| Sun, 07 Dec 2025 22:16:28 GMT | Three Years of ChatGPT: Model training | Mario Beccia | [Read More](https://medium.com/p/52af7e2a16ed) |
