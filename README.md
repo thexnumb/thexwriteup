@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 18:27:25 GMT | Network Discovery — Scan-ta Clause - AoC 2025 Day — 7 - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/46960a37919e) |
+| Mon, 08 Dec 2025 18:26:35 GMT | Shadow AI Just Got a Promotion: A Look at Microsoft’s ‘Agentic’ Defender | Arsh Riz | [Read More](https://medium.com/p/b757512f6fe2) |
+| Mon, 08 Dec 2025 18:26:05 GMT | Ratio1 RedMesh: Turning Penetration Testing into a Distributed System | Ratio1 | [Read More](https://medium.com/p/e2989efaf07b) |
+| Mon, 08 Dec 2025 18:23:13 GMT | The Version of Me You Never Knew (Because I Never Showed You) | jig N | [Read More](https://medium.com/p/355f2dd142de) |
+| Mon, 08 Dec 2025 18:21:19 GMT | I Have a Confession to Make. I Cheated. | Diana Cristina Culincu | [Read More](https://medium.com/p/30ccddcb57e5) |
+| Mon, 08 Dec 2025 18:21:14 GMT | Maravel-Framework 10.54.3 security and speed improvement | marius-ciclistu | [Read More](https://medium.com/p/35479a65f70e) |
+| Mon, 08 Dec 2025 18:19:21 GMT | Workplace Vulnerability: Share or else… | TheCorp101 | [Read More](https://medium.com/p/6e5912eb81bd) |
+| Mon, 08 Dec 2025 18:17:08 GMT | Jury Duty Can Expose Personal Data | News Folder 19 | [Read More](https://medium.com/p/2ae5fa81a62e) |
+| Mon, 08 Dec 2025 18:07:09 GMT | Blaster — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/181250b37cca) |
+| Mon, 08 Dec 2025 18:02:17 GMT | The STRATA-8 Framework: A Bottom-Up Discovery Model for AI Security Experts | Kenneth Kasuba | [Read More](https://medium.com/p/a07267adf1bc) |
+| Mon, 08 Dec 2025 17:59:07 GMT | Turning My Gaming PC Into an Enterprise-Hardened Windows 11 Workstation (HomeLab Project) | JD Herring | [Read More](https://medium.com/p/523f52fe5054) |
+| Mon, 08 Dec 2025 17:57:45 GMT | From USB Malware to AI-IDE Bugs: This Week’s Cyber Threats Demanding Attention | Chetan Seripally | [Read More](https://medium.com/p/d96f60d07430) |
+| Mon, 08 Dec 2025 17:55:36 GMT | AI in 2025 Wrapped: How Artificial Intelligence Transformed Work, Creativity & Life | Namra khan Ghouri | [Read More](https://medium.com/p/89c6626c79d0) |
+| Mon, 08 Dec 2025 17:53:16 GMT | Smartphones in the Crosshairs: The Evolution of Mobile Malware | Craig Tsikiwa | [Read More](https://medium.com/p/73f194603ba7) |
+| Mon, 08 Dec 2025 17:47:18 GMT | Every Bug I Ever Fixed Made Sense Only After I Understood These 7 Layers | Dayakumar | [Read More](https://medium.com/p/9b0d7ef081f3) |
+| Mon, 08 Dec 2025 17:42:33 GMT | DockerLabs — Ejotapete | Noelia Presa | [Read More](https://medium.com/p/410c2c4764a5) |
 | Mon, 08 Dec 2025 17:31:35 GMT | Lab: User role can be modified in user profile | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6bcf0def68c0) |
 | Mon, 08 Dec 2025 17:28:08 GMT | Backdoor CTF-2025: Flask of Cookies writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/fcd81b892608) |
 | Mon, 08 Dec 2025 17:28:02 GMT | .NET Core’da Kapıları Kilitlemek: JWT (JSON Web Token) Mantığı | Mehmet Sönmez | [Read More](https://medium.com/p/dce5a8930096) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 13:10:15 GMT | CVE‑2025‑53097, CVE‑2025‑53536, CVE‑2025‑58372: Roo Code Vulnerabilities in 2025 — An AI Powered… | gm0 | [Read More](https://medium.com/p/89eb0c482a00) |
 | Mon, 08 Dec 2025 13:04:31 GMT | TryHackMe Writeup: Poster | Berkay AĞGÜL | [Read More](https://medium.com/p/73cae04fd576) |
 | Mon, 08 Dec 2025 13:02:42 GMT | #12- Kali Linux - Collection T: Harvesting Data from Compromised Systems | SDNTechForum | [Read More](https://medium.com/p/6b06b90ab33f) |
-| Mon, 08 Dec 2025 13:02:37 GMT | React2Shell and the Broader Lessons of a Vulnerability at the Framework Layer | CryptoCadet | [Read More](https://medium.com/p/ece2d7a734ee) |
-| Mon, 08 Dec 2025 13:02:36 GMT | The Compliance-Ready Agent: SOC 2 Without Slowing Down | Vectorlane | [Read More](https://medium.com/p/1ed105088d32) |
-| Mon, 08 Dec 2025 13:01:48 GMT | “Piggy” BTLO Walkthrough | Jagadishtripathy | [Read More](https://medium.com/p/d5b04186b7c8) |
-| Mon, 08 Dec 2025 12:58:27 GMT | Hack the Cookie — CTF Write-up | MZEEN | [Read More](https://medium.com/p/e314889c2b3a) |
-| Mon, 08 Dec 2025 12:58:26 GMT | CVE‑2025‑55012 — Zed Editor Agent Panel Permission Bypass | gm0 | [Read More](https://medium.com/p/5091fa6ac1aa) |
-| Mon, 08 Dec 2025 12:51:46 GMT | Advent of Cyber 25 — Day 7 — Network Discovery — Scan-ta Clause | cybertactic | [Read More](https://medium.com/p/bf0f6a81c45f) |
-| Mon, 08 Dec 2025 12:49:07 GMT | AI-Powered Attack Detection in Spring Boot: Build a Self-Defending API | CodeTalks | [Read More](https://medium.com/p/d6ceae7ec412) |
-| Mon, 08 Dec 2025 12:48:25 GMT | Rocky Linux 10.1: Faster Reboots, Stronger Crypto, and New Toolchains for Enterprise Servers | Emilyharbord | [Read More](https://medium.com/p/05dc3b936223) |
-| Mon, 08 Dec 2025 12:45:09 GMT | Without DNS, The Internet Won’t Exist | Scofield O. Idehen | [Read More](https://medium.com/p/406b47534d72) |
-| Mon, 08 Dec 2025 12:44:33 GMT | Cybersecurity Compliance: The One Gap That’s Putting Your Entire Business at Risk | SecureSlate | [Read More](https://medium.com/p/6cbc118f96e0) |
-| Mon, 08 Dec 2025 12:38:58 GMT | The Evolution of Zero-Day Threats: How They Grew Smarter, Faster & Harder to Stop | Miraroy | [Read More](https://medium.com/p/6d9220873d7d) |
-| Mon, 08 Dec 2025 12:36:01 GMT | “I Make $20,000 a Month—Why Marry a Woman Who Makes $3,000?” | Claire Moore | [Read More](https://medium.com/p/df69a09296d9) |
-| Mon, 08 Dec 2025 12:34:36 GMT | Day 126 — Narnia Level-1 OverTheWire | Jinay | [Read More](https://medium.com/p/a1520ce00824) |
-| Mon, 08 Dec 2025 12:33:12 GMT | TryHackMe - Linux Logging for SOC Walkthrough | Birdv | [Read More](https://medium.com/p/efafb8c6bb3e) |
-| Mon, 08 Dec 2025 12:26:23 GMT | Guarding the Digital Frontier: The Case for National Internet Security | Mwesigwa Jayden | [Read More](https://medium.com/p/c7a476b30019) |
-| Mon, 08 Dec 2025 12:26:04 GMT | Filtering Out Noise on Burp Suite with TLS Pass-Through (Quick Guide) | MaMad | [Read More](https://medium.com/p/b8c58440f302) |
