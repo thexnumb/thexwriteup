@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Dec 2025 22:20:11 GMT | The Day I Found a Public Laravel Log Viewer — And Why It Could Have Exposed an Entire Hospital… | Anshubind | [Read More](https://medium.com/p/e9eeb2e3f6c3) |
+| Mon, 08 Dec 2025 22:19:51 GMT | When One Slash Broke the Rules — Finding an Open Redirect on a Major Marketplace | Anshubind | [Read More](https://medium.com/p/9d9bc7a39fbd) |
+| Mon, 08 Dec 2025 22:11:26 GMT | XSS TO SSRF INTO THE NEXT JS THAT VULNERABLE TO REACT2SHELL NEW CVE-2025–66478 | Ahmed Ibrahim | [Read More](https://medium.com/p/824defa9b013) |
+| Mon, 08 Dec 2025 22:10:55 GMT | Your Road 2 Cyber Security Day 0 | Sir Lakewest | [Read More](https://medium.com/p/33fd6ebb3cb1) |
+| Mon, 08 Dec 2025 21:52:08 GMT | The Battle of Cat And Mouse: Red vs Blue Team! | Azefox innovations | [Read More](https://medium.com/p/8fdd24b13a82) |
 | Mon, 08 Dec 2025 21:30:10 GMT | Insecure Deserialization — Overview | Yassin Khadrawy | [Read More](https://medium.com/p/65ecfaa59943) |
 | Mon, 08 Dec 2025 21:13:50 GMT | They See Me Rollin’… They Hatin’ — Writeup | Aymanegharrabou | [Read More](https://medium.com/p/91d499586848) |
 | Mon, 08 Dec 2025 20:57:57 GMT | The PoWER of “NO” | Seth J | [Read More](https://medium.com/p/7ed8e647daf8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 15:04:58 GMT | Building a Zero-Touch SOC: End-to-End Automation with Wazuh, Shuffle, and TheHive | Mark Csete | [Read More](https://medium.com/p/09a82483adaf) |
 | Mon, 08 Dec 2025 15:02:22 GMT | Cyber Briefing: 2025.12.08 | CyberMaterial | [Read More](https://medium.com/p/6f1b668841ce) |
 | Mon, 08 Dec 2025 15:01:21 GMT | Demystifying Security Operations Center (SOC) — A Beginner’s Guide | Binesh Madharapu | [Read More](https://medium.com/p/8f3c2c40e8de) |
-| Mon, 08 Dec 2025 15:00:01 GMT | VuwCTF 2025 - Undercut - Forensics Challenge (Second Blood) | Zeyad Karim | [Read More](https://medium.com/p/689a705f0781) |
-| Mon, 08 Dec 2025 14:58:23 GMT | Cybersecurity and Infrastructure Security Agency Blows the Whistle: The BRICKSTORM Backdoor and… | Travis Ray Caverhill | [Read More](https://medium.com/p/c357f510b57e) |
-| Mon, 08 Dec 2025 14:58:17 GMT | I Watched My Friend Lose $50K to a Romance Scam. Here’s What I Wish She’d Known. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/87b912c4b8dc) |
-| Mon, 08 Dec 2025 14:51:16 GMT | The Invisible Eye: How the New ‘Predator’ Spyware Turns Mobile Ads Into Surveillance Weapons | Enes Karataş | [Read More](https://medium.com/p/64449273ba50) |
-| Mon, 08 Dec 2025 14:49:04 GMT | I’mTop 5 Cybersecurity Threats Every Business Should Prepare For | Thinks Of Nadir | [Read More](https://medium.com/p/b9edd278b47e) |
