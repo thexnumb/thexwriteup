@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 20:18:35 GMT | Rising Tides, Rising Costs | Juha Uitto | [Read More](https://medium.com/p/7c0d54dc926d) |
+| Tue, 09 Dec 2025 20:16:26 GMT | Origin ip discovery methods | TheCzar | [Read More](https://medium.com/p/d462c28d895a) |
+| Tue, 09 Dec 2025 20:14:02 GMT | TCP Challenges — Part 2 : Encoded String - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/8f707e1785f7) |
+| Tue, 09 Dec 2025 20:11:40 GMT | Why Cyber Security Is Now a Strategic Imperative for Iran’s Digital Economy | Armin Mehraeen | [Read More](https://medium.com/p/02c6285eb681) |
+| Tue, 09 Dec 2025 20:06:14 GMT | Here’s how to protect against prompt injection attacks in vscode. | JC Reign | [Read More](https://medium.com/p/d37094bb278f) |
+| Tue, 09 Dec 2025 19:58:35 GMT | Advent of Cyber 2025 - Day 9: Passwords — A Cracking Christmas | D4m.sh | [Read More](https://medium.com/p/69d3eb9f8693) |
+| Tue, 09 Dec 2025 19:58:05 GMT | The Strategic Triumph of Architectural Depth in Cybersecurity | İsmail İşler | [Read More](https://medium.com/p/52a0e0b1060c) |
+| Tue, 09 Dec 2025 19:50:41 GMT | Bir Sistemi Fethetmek İçin Neden İnşa Etmeyi Bilmelisiniz? | İsmail İşler | [Read More](https://medium.com/p/f219e7a35a34) |
+| Tue, 09 Dec 2025 19:43:48 GMT | Stay Safe Online. Why I’m Testing Webroot Internet Security? | TechVault | [Read More](https://medium.com/p/4bdc776d5fbc) |
 | Tue, 09 Dec 2025 19:34:22 GMT | Internal Working of Rate Limiting — Token Bucket, Leaky Bucket & Real Production Implementations | Logic Layer | [Read More](https://medium.com/p/30eadadaa39d) |
 | Tue, 09 Dec 2025 19:31:01 GMT | Infinity Learning lab: Trust Me, Relationship is Malicious — Writeup | Hubert | [Read More](https://medium.com/p/436f6349288c) |
 | Tue, 09 Dec 2025 19:25:45 GMT | The $55,444 Nightmare: A Student’s Google Cloud Mistake and Vital Lessons for Developers | Enes Karataş | [Read More](https://medium.com/p/80a3d767b7fa) |
@@ -105,12 +114,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 13:14:56 GMT | This bug take to me 4 days to understand how is work | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/34892d63b113) |
 | Tue, 09 Dec 2025 13:13:18 GMT | MrRobot Lab Writeup—  Part 1 - CyberDefenders | Yogi Teza | [Read More](https://medium.com/p/19e7da88fef5) |
 | Tue, 09 Dec 2025 13:11:08 GMT | How Access Governance Must Evolve Before Agentic Automation Takes Over | Frank Kresse | [Read More](https://medium.com/p/3218794374b0) |
-| Tue, 09 Dec 2025 13:10:32 GMT | Why Most Smart Contract Audits Fail to Protect Your Protocol | Marcellus Nwankwo | [Read More](https://medium.com/p/941aac62876c) |
-| Tue, 09 Dec 2025 13:10:14 GMT | Attacking WordPress - Reconnissance & Information Gathering | Amrsmooke | [Read More](https://medium.com/p/cc0ff10a4604) |
-| Tue, 09 Dec 2025 13:07:07 GMT | How to Detect Hooking (Frida) on Capacitor | Talsec | [Read More](https://medium.com/p/d192de3e6180) |
-| Tue, 09 Dec 2025 12:58:45 GMT | Integrating OpenAI ChatGPT with Microsoft Sentinel: A Complete Guide to AI-Powered Security… | Adolf Sey | [Read More](https://medium.com/p/3d8d3cc04b00) |
-| Tue, 09 Dec 2025 12:56:29 GMT | Before Hackers Even Try: The Power of Proactive Cyber Defense | ANSI Technologies | [Read More](https://medium.com/p/dc70aa892613) |
-| Tue, 09 Dec 2025 12:51:11 GMT | CloudSEK CTF 2025 — Writeup | codebreaker | [Read More](https://medium.com/p/5bff19734490) |
-| Tue, 09 Dec 2025 12:47:50 GMT | The Unauthenticated RCE Deserialization Disaster: Deep Dive into React Server Components… | Albert Corzo | [Read More](https://medium.com/p/a150598202d9) |
-| Tue, 09 Dec 2025 12:45:11 GMT | Cyber Paths & Second Chances: Why Tech Careers Are Changing Lives | cyberpathsfundraisingcup | [Read More](https://medium.com/p/1fed60ea0545) |
-| Tue, 09 Dec 2025 12:39:54 GMT | Members Can Prevent Admins/Owners from Accessing Reviews via Manipulated UUID | 0xAdam | [Read More](https://medium.com/p/a2dbce4dda6a) |
