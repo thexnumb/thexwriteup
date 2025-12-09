@@ -12,10 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 11:10:37 GMT | SOC Automation With AI: How Companies Can Reduce 70% Alert Fatigue Instantly | AiCyberWatch | [Read More](https://medium.com/p/ebad27ffe735) |
+| Tue, 09 Dec 2025 11:03:11 GMT | The Season Doesn’t Pause for the Sick, the Elderly, or the Caregiver | Abiola Hakeemat Etti-Ayilara | [Read More](https://medium.com/p/7f112cdb05e5) |
+| Tue, 09 Dec 2025 11:02:15 GMT | Day 9 — Runtime Threat Detection (The Shadow with Red Eyes) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/93c00ea086e6) |
+| Tue, 09 Dec 2025 10:58:19 GMT | Malicious VSCode Extensions Infiltrate Microsoft’s Registry with Information-Stealing Malware | Technijian | [Read More](https://medium.com/p/ded2bac89df3) |
+| Tue, 09 Dec 2025 10:57:24 GMT | WhatsApp Strict Security Settings Feature Coming Soon for iOS Users | AllBetaInfo | [Read More](https://medium.com/p/3184689f7807) |
+| Tue, 09 Dec 2025 10:51:18 GMT | HyperLink Injection (HLI) | Fabian Rosales (far00t01) | [Read More](https://medium.com/p/f85f3a6eded5) |
+| Tue, 09 Dec 2025 10:48:31 GMT | Strengthening Modern Software Development with Advanced DevSecOps Services | Innov8world - Top Outsourcing Software Company | [Read More](https://medium.com/p/1f63ecde5445) |
+| Tue, 09 Dec 2025 10:47:41 GMT | Hunting Agent Tesla: A Beginner’s Guide to Splunk Malware Analysis | Aderinola Taiwo | [Read More](https://medium.com/p/3c4c075e73de) |
 | Tue, 09 Dec 2025 10:46:58 GMT | HSB60 Smart Pedestrian Barrier for Saudi Security & Access Control | Hitech Barrier | [Read More](https://medium.com/p/4175f3a99b52) |
 | Tue, 09 Dec 2025 10:45:59 GMT | I got €€ for finding a bug that others missed | Rajveer | [Read More](https://medium.com/p/3c176d4c3436) |
 | Tue, 09 Dec 2025 10:44:08 GMT | What is Sanchar Saathi App? Features, Benefits & How to Use It | Ayza Anam | [Read More](https://medium.com/p/ad1b2dcb0981) |
 | Tue, 09 Dec 2025 10:42:59 GMT | techNbuddy: Where Real Networking Meets Career Growth | techNbuddy | [Read More](https://medium.com/p/7c6206d6df74) |
+| Tue, 09 Dec 2025 10:42:20 GMT | Executive Briefing for Digital Leaders 2025 | MJ Tangaan | [Read More](https://medium.com/p/0f35cfc29283) |
+| Tue, 09 Dec 2025 10:40:01 GMT | Building Your Own Python Password Generator | Dorian Sotpyrc | [Read More](https://medium.com/p/51d1e48f24dd) |
+| Tue, 09 Dec 2025 10:37:33 GMT | The Dark Side of DeFi: What Really Happens to Billions in Stolen Crypto | Thecryptomagazines | [Read More](https://medium.com/p/4f17125d96e6) |
 | Tue, 09 Dec 2025 10:32:28 GMT | SSL Offloading Explained: How Modern Websites Speed Up Secure Connections | Natarajan C K | [Read More](https://medium.com/p/3e474703e445) |
 | Tue, 09 Dec 2025 10:30:25 GMT | ☠️Dark Side of Bug Bounty Programs (EXCLUSIVE REPORT) . | ElonMuskTheAntichrist | [Read More](https://medium.com/p/af317b7fb2b0) |
 | Tue, 09 Dec 2025 10:29:13 GMT | Security Lab Simulation Project Part 7: Elastic Agent Installation for Linux | Jenny | [Read More](https://medium.com/p/6150bc40b7c8) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 06:16:40 GMT | Known-Plaintext Attack on PHP-Proxy: From Broken Encryption to FastCGI RCE | Muh. Fani Akbar | [Read More](https://medium.com/p/4942523c7955) |
 | Tue, 09 Dec 2025 06:15:52 GMT | SSH Cheat Sheet | Oz | [Read More](https://medium.com/p/4286e41fb92c) |
 | Tue, 09 Dec 2025 06:12:58 GMT | Part 15: Virtual Box IT Home Lab — Understanding Delegate control, and account lockout. | Declan | [Read More](https://medium.com/p/b73a634538a9) |
-| Tue, 09 Dec 2025 06:10:58 GMT | Liquidity without security is just a faster way to lose money. | Heesham Naji | [Read More](https://medium.com/p/94cb22b07521) |
-| Tue, 09 Dec 2025 06:08:06 GMT | TryHackMe: Wonderland Writeup | cbev | [Read More](https://medium.com/p/df935e5974cf) |
-| Tue, 09 Dec 2025 06:07:41 GMT | Analysis of React2Shell RCE Vulnerability (CVE-2025–55182) | NSHC ThreatRecon Team | [Read More](https://medium.com/p/108ffbecad9f) |
-| Tue, 09 Dec 2025 06:07:36 GMT | “Every Parent Needs This App in 2026 — It Blocks ALL Social Media Instantly” | ghostyjoe | [Read More](https://medium.com/p/0c7d5ffcbbb2) |
-| Tue, 09 Dec 2025 05:57:09 GMT | How an EOR Simplifies Hiring Technical and IT Talent in India | Atharva Pedwal | [Read More](https://medium.com/p/4d9f6b43d3db) |
-| Tue, 09 Dec 2025 05:54:49 GMT | Authentication vs Authorization | Deepak sivan | [Read More](https://medium.com/p/eaae156d4626) |
-| Tue, 09 Dec 2025 05:53:13 GMT | Cracking the Mystery of Domains with nslookup️‍♂️ | Cybeague Technologies | [Read More](https://medium.com/p/8f18a2817f74) |
-| Tue, 09 Dec 2025 05:50:37 GMT | Behind the Screen: The Invisible Networks Targeting Pakistan’s Stability | Muhammad Mohsin Iqbal | [Read More](https://medium.com/p/b04c759d7af5) |
-| Tue, 09 Dec 2025 05:49:47 GMT | 24/7 Vulnerability Management: Your Always-On Shield Against Evolving Cyber Threats | james harry | [Read More](https://medium.com/p/9f460219dae6) |
-| Tue, 09 Dec 2025 05:44:34 GMT | The Year of the “Silent Breakdown”: 2025 Cybersecurity State of the Union | The Opscore Labs | [Read More](https://medium.com/p/e70d0c4916c7) |
-| Tue, 09 Dec 2025 05:29:32 GMT | Phishing Analysis Tool — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/1fb550c84076) |
