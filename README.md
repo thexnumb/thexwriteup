@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 10:46:58 GMT | HSB60 Smart Pedestrian Barrier for Saudi Security & Access Control | Hitech Barrier | [Read More](https://medium.com/p/4175f3a99b52) |
+| Tue, 09 Dec 2025 10:45:59 GMT | I got €€ for finding a bug that others missed | Rajveer | [Read More](https://medium.com/p/3c176d4c3436) |
+| Tue, 09 Dec 2025 10:44:08 GMT | What is Sanchar Saathi App? Features, Benefits & How to Use It | Ayza Anam | [Read More](https://medium.com/p/ad1b2dcb0981) |
+| Tue, 09 Dec 2025 10:42:59 GMT | techNbuddy: Where Real Networking Meets Career Growth | techNbuddy | [Read More](https://medium.com/p/7c6206d6df74) |
+| Tue, 09 Dec 2025 10:32:28 GMT | SSL Offloading Explained: How Modern Websites Speed Up Secure Connections | Natarajan C K | [Read More](https://medium.com/p/3e474703e445) |
+| Tue, 09 Dec 2025 10:30:25 GMT | ☠️Dark Side of Bug Bounty Programs (EXCLUSIVE REPORT) . | ElonMuskTheAntichrist | [Read More](https://medium.com/p/af317b7fb2b0) |
+| Tue, 09 Dec 2025 10:29:13 GMT | Security Lab Simulation Project Part 7: Elastic Agent Installation for Linux | Jenny | [Read More](https://medium.com/p/6150bc40b7c8) |
+| Tue, 09 Dec 2025 10:29:02 GMT | GuardConnect: Real-Time Patrol & Attendance Portal | Leiten Technologies Pvt Ltd | [Read More](https://medium.com/p/7c559b5ee198) |
+| Tue, 09 Dec 2025 10:26:43 GMT | How Managed SOC Providers Handle Major Cybersecurity Incidents | Eventus Security Private Limited | [Read More](https://medium.com/p/c22b88d565ce) |
+| Tue, 09 Dec 2025 10:24:25 GMT | Hire Dedicated Node js Developer to Boost Your Web Development Projects | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/e46f3f3f9bf9) |
 | Tue, 09 Dec 2025 10:21:13 GMT | Linux Firewall Rule Design: Deep Dive into Secure Traffic Architecture | Esra Kayhan | [Read More](https://medium.com/p/035ac1202b44) |
 | Tue, 09 Dec 2025 10:20:41 GMT | Writing SELinux Policies: Secure and Controlled Access in Linux | Esra Kayhan | [Read More](https://medium.com/p/8d9e122fb1b6) |
 | Tue, 09 Dec 2025 10:12:01 GMT | Phishing Hunter — Information Security Project | Muhammad Bilal Ashiq | [Read More](https://medium.com/p/787ccc99da3c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 05:49:47 GMT | 24/7 Vulnerability Management: Your Always-On Shield Against Evolving Cyber Threats | james harry | [Read More](https://medium.com/p/9f460219dae6) |
 | Tue, 09 Dec 2025 05:44:34 GMT | The Year of the “Silent Breakdown”: 2025 Cybersecurity State of the Union | The Opscore Labs | [Read More](https://medium.com/p/e70d0c4916c7) |
 | Tue, 09 Dec 2025 05:29:32 GMT | Phishing Analysis Tool — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/1fb550c84076) |
-| Tue, 09 Dec 2025 05:21:55 GMT | A Complete Guide to SMB Enumeration in Active Directory Using NetExec (NXC) | Tareshsharma | [Read More](https://medium.com/p/3bb7e2ff01b9) |
-| Tue, 09 Dec 2025 05:18:01 GMT | A Supplier Guide to Achieving Trusted Security Validation | Kadhijahafiya | [Read More](https://medium.com/p/0f50d8d41c2d) |
-| Tue, 09 Dec 2025 05:09:41 GMT | Top Security Testing Service Companies in the USA | Kristen Carter | [Read More](https://medium.com/p/45cce2d5e8d7) |
-| Tue, 09 Dec 2025 05:09:28 GMT | Top 100 Most Commonly Used FireWall Rules | Neel Shah | [Read More](https://medium.com/p/dc914943eb85) |
-| Tue, 09 Dec 2025 05:03:56 GMT | The Cryptography Concept Journey — Cryptographic Hashing | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4ff6f03dd047) |
-| Tue, 09 Dec 2025 05:03:12 GMT | Android’s Mobile Device Management (MDM): Your Little Customized Government | Mohammad Faiz Fanani | [Read More](https://medium.com/p/ded09ff07481) |
-| Tue, 09 Dec 2025 04:57:51 GMT | OWASP Top 10 ile Derinlemesine Güvenlik Analizi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/fb0db0c294ff) |
-| Tue, 09 Dec 2025 04:56:58 GMT | Partner with a Leading Remote Monitoring and Management Company & Cyber Security Software Companies | Gainside | [Read More](https://medium.com/p/495a985616de) |
-| Tue, 09 Dec 2025 04:55:33 GMT | Explore Steps to Manage Large Data Volumes in Salesforce? | QuantoKnack Training | [Read More](https://medium.com/p/fcde18f87189) |
-| Tue, 09 Dec 2025 04:53:52 GMT | Find a Cloud Migration Cost Calculator for Hybrid Environments? | Maruti Techlabs | [Read More](https://medium.com/p/6faff09b932c) |
