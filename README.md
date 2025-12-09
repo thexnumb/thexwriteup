@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 15:38:36 GMT | ️‍♂️ From User to Super Admin: A Hacker’s Playbook for Elevation via Misconfigured APIs | 0xUnkn0wn | [Read More](https://medium.com/p/b76da4d20132) |
+| Tue, 09 Dec 2025 15:32:10 GMT | A Complete Guide to Modern Authentication and Authorization | Rusiru Gunaratne | [Read More](https://medium.com/p/eae7b9272efb) |
 | Tue, 09 Dec 2025 15:25:24 GMT | A Simple AI-Assisted Workflow That Helped Me Regain My Writing Momentum | Mansi Sachar | [Read More](https://medium.com/p/d56011f810c6) |
 | Tue, 09 Dec 2025 15:23:21 GMT | #7 Cyber Security : The Essential Building Blocks of the Internet and Their Role in Security | Betül Akmercan | [Read More](https://medium.com/p/6963219009e8) |
 | Tue, 09 Dec 2025 15:19:41 GMT | AI Can’t Be Trusted — But It Still Needs Your Trust | Liz Kelly | [Read More](https://medium.com/p/c4e98405cddb) |
@@ -111,5 +113,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 10:21:13 GMT | Linux Firewall Rule Design: Deep Dive into Secure Traffic Architecture | Esra Kayhan | [Read More](https://medium.com/p/035ac1202b44) |
 | Tue, 09 Dec 2025 10:20:41 GMT | Writing SELinux Policies: Secure and Controlled Access in Linux | Esra Kayhan | [Read More](https://medium.com/p/8d9e122fb1b6) |
 | Tue, 09 Dec 2025 10:12:01 GMT | Phishing Hunter — Information Security Project | Muhammad Bilal Ashiq | [Read More](https://medium.com/p/787ccc99da3c) |
-| Tue, 09 Dec 2025 10:10:36 GMT | Reliable IT Helpdesk With Remote Support Services Provider in India | Anbarasans | [Read More](https://medium.com/p/2c9cf73162ce) |
-| Tue, 09 Dec 2025 10:04:14 GMT | React2Shell: Why CVE-2025–55182 is a Wake-Up Call for the React Ecosystem | jhasec | [Read More](https://medium.com/p/95712c13a96a) |
