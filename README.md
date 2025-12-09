@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 07:18:18 GMT | Staying safe: Understanding cybercrime | Anshi B | [Read More](https://medium.com/p/79d79659d9cf) |
+| Tue, 09 Dec 2025 07:07:57 GMT | Internal vs External Pentest: 12 Tools Clients Don’t Know Exist (and How Pros Use Them) | Very Lazy Tech | [Read More](https://medium.com/p/5a19bb22d91a) |
+| Tue, 09 Dec 2025 07:06:32 GMT | Meet Sanjay Kiran – One of the Youngest Heads of Operations in India’s Private Security Industry… | Sanjay Kiran | [Read More](https://medium.com/p/159e2911f96c) |
+| Tue, 09 Dec 2025 07:03:45 GMT | AI Compliance Is the New Cybersecurity: The 2026 Framework Every Tech Leader Must Follow | Naushil Jain | [Read More](https://medium.com/p/2586017ccd49) |
+| Tue, 09 Dec 2025 07:02:40 GMT | Launch Your Cybersecurity Career with Confidence — Certified Ethical Hacking Essentials | Adhiraj Kasabe | [Read More](https://medium.com/p/dcd8cf557ce5) |
+| Tue, 09 Dec 2025 06:59:48 GMT | The Quantum Reckoning | Camilo Lascano Tribin | [Read More](https://medium.com/p/fc21de0dc885) |
+| Tue, 09 Dec 2025 06:55:31 GMT | How to Protect React Native API Keys on Android + iOS | Manan Gadhiya | [Read More](https://medium.com/p/18e7032cea41) |
+| Tue, 09 Dec 2025 06:50:52 GMT | AI in Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/4a2d98d72388) |
+| Tue, 09 Dec 2025 06:39:16 GMT | HOW DOES DNS WORK? | KISHORE S | [Read More](https://medium.com/p/7ba8b154aaf7) |
+| Tue, 09 Dec 2025 06:37:41 GMT | How to learn cyber security: A guide for beginners | Wonderland RV | [Read More](https://medium.com/p/ccd5901c123a) |
+| Tue, 09 Dec 2025 06:36:52 GMT | How to learn cyber security: A guide for beginners | AdverdizeSG | [Read More](https://medium.com/p/b8ef8397aa5e) |
+| Tue, 09 Dec 2025 06:36:19 GMT | The CISSP Diaries: Dancin’ with Domain 2 — Asset Security (Or: Why Your Data is Prettier Than… | Mainak Biswas | [Read More](https://medium.com/p/39421c4f6f14) |
+| Tue, 09 Dec 2025 06:35:31 GMT | BREAKING: CMU Researchers Found That “Vibe Coding” Is Insecure. | Athirani | [Read More](https://medium.com/p/3da0fb8583f0) |
 | Tue, 09 Dec 2025 06:32:30 GMT | Prompt Injection — Sched-yule conflict | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/82e185ebd7d8) |
 | Tue, 09 Dec 2025 06:29:36 GMT | The Best Vulnerability Disclosure Programs (VDP): A 2026 Guide for Security Researchers | ghostyjoe | [Read More](https://medium.com/p/21fa5588b8e4) |
 | Tue, 09 Dec 2025 06:26:07 GMT | The Daily Tech Digest: 09 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/27374d228a93) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 22:36:37 GMT | “Safer Than a Bank”: What All Their IT Providers Told Them | Fabien Soulis | [Read More](https://medium.com/p/e1ea09fcde78) |
 | Mon, 08 Dec 2025 22:20:11 GMT | The Day I Found a Public Laravel Log Viewer — And Why It Could Have Exposed an Entire Hospital… | Anshubind | [Read More](https://medium.com/p/e9eeb2e3f6c3) |
 | Mon, 08 Dec 2025 22:19:51 GMT | When One Slash Broke the Rules — Finding an Open Redirect on a Major Marketplace | Anshubind | [Read More](https://medium.com/p/9d9bc7a39fbd) |
-| Mon, 08 Dec 2025 22:11:26 GMT | XSS TO SSRF INTO THE NEXT JS THAT VULNERABLE TO REACT2SHELL NEW CVE-2025–66478 | Ahmed Ibrahim | [Read More](https://medium.com/p/824defa9b013) |
-| Mon, 08 Dec 2025 22:10:55 GMT | Your Road 2 Cyber Security Day 0 | Sir Lakewest | [Read More](https://medium.com/p/33fd6ebb3cb1) |
-| Mon, 08 Dec 2025 21:52:08 GMT | The Battle of Cat And Mouse: Red vs Blue Team! | Azefox innovations | [Read More](https://medium.com/p/8fdd24b13a82) |
-| Mon, 08 Dec 2025 21:30:10 GMT | Insecure Deserialization — Overview | Yassin Khadrawy | [Read More](https://medium.com/p/65ecfaa59943) |
-| Mon, 08 Dec 2025 21:13:50 GMT | They See Me Rollin’… They Hatin’ — Writeup | Aymanegharrabou | [Read More](https://medium.com/p/91d499586848) |
-| Mon, 08 Dec 2025 20:57:57 GMT | The PoWER of “NO” | Seth J | [Read More](https://medium.com/p/7ed8e647daf8) |
-| Mon, 08 Dec 2025 20:35:46 GMT | ⚡ CyberSploit:1 — Full Walkthrough | IshhIshneet | [Read More](https://medium.com/p/82747702b00e) |
-| Mon, 08 Dec 2025 20:35:14 GMT | NightOps Drop — Red Team Custom Tool (Özel Aracımız) Eğitim Serisi Nedir ? | mintercoder | [Read More](https://medium.com/p/5acb44fd8bd0) |
-| Mon, 08 Dec 2025 20:23:54 GMT | GCP in Large Enterprises: What Companies Don’t Understand (But Should) | Mohamed ENNAHIBI | [Read More](https://medium.com/p/46d9aab4aa16) |
-| Mon, 08 Dec 2025 20:22:47 GMT | Darknet Vendor Shops Verification — What You Need to Know | Tor BBB | [Read More](https://medium.com/p/4e5d826c8de3) |
-| Mon, 08 Dec 2025 20:10:07 GMT | Basics Commands of Kali-Linux for Ethical Hacking (PART-1) | Akhil Thakur | [Read More](https://medium.com/p/2f871c1ceeb3) |
-| Mon, 08 Dec 2025 20:10:00 GMT | Advent of Cyber 2025 - Day 8: Prompt Injection — Sched-yule conflict | D4m.sh | [Read More](https://medium.com/p/255a9e84da92) |
-| Mon, 08 Dec 2025 20:06:24 GMT | tester | Josephhu | [Read More](https://medium.com/p/7befdd25a4ce) |
