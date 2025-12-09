@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 17:10:52 GMT | 2025 Durum Değerlendirmesi | Uğur Ertabak | [Read More](https://medium.com/p/bd873e52356d) |
+| Tue, 09 Dec 2025 17:09:58 GMT | “Top 10 Tools Every Bug Bounty Hunter Must Use” | Aman Sharma | [Read More](https://medium.com/p/900425e33f8d) |
+| Tue, 09 Dec 2025 17:02:15 GMT | The Day I Realized Identity Security Was Broken — And Why AI Makes It Worse | Shazmeen Sohail | [Read More](https://medium.com/p/9f24156f2b5d) |
+| Tue, 09 Dec 2025 17:01:00 GMT | HackTheBox: Gavel Writeup — From Web to Root | Rahaliashraf | [Read More](https://medium.com/p/f26d4c0f880c) |
 | Tue, 09 Dec 2025 16:36:33 GMT | View To Peace Building And Security In The Modern World; How Can We End Banditry In Nigeria? | Goto Emmanuel | [Read More](https://medium.com/p/69deb3309467) |
 | Tue, 09 Dec 2025 16:33:29 GMT | Hey Medium fam…
  Tonight, I’m writing this with a chill down my spine. | Hachtechnology | [Read More](https://medium.com/p/068c8dbf38eb) |
@@ -110,7 +114,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 10:51:18 GMT | HyperLink Injection (HLI) | Fabian Rosales (far00t01) | [Read More](https://medium.com/p/f85f3a6eded5) |
 | Tue, 09 Dec 2025 10:48:31 GMT | Strengthening Modern Software Development with Advanced DevSecOps Services | Innov8world - Top Outsourcing Software Company | [Read More](https://medium.com/p/1f63ecde5445) |
 | Tue, 09 Dec 2025 10:47:41 GMT | Hunting Agent Tesla: A Beginner’s Guide to Splunk Malware Analysis | Aderinola Taiwo | [Read More](https://medium.com/p/3c4c075e73de) |
-| Tue, 09 Dec 2025 10:46:58 GMT | HSB60 Smart Pedestrian Barrier for Saudi Security & Access Control | Hitech Barrier | [Read More](https://medium.com/p/4175f3a99b52) |
-| Tue, 09 Dec 2025 10:45:59 GMT | I got €€ for finding a bug that others missed | Rajveer | [Read More](https://medium.com/p/3c176d4c3436) |
-| Tue, 09 Dec 2025 10:44:08 GMT | What is Sanchar Saathi App? Features, Benefits & How to Use It | Ayza Anam | [Read More](https://medium.com/p/ad1b2dcb0981) |
-| Tue, 09 Dec 2025 10:42:59 GMT | techNbuddy: Where Real Networking Meets Career Growth | techNbuddy | [Read More](https://medium.com/p/7c6206d6df74) |
