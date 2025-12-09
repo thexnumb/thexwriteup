@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 09:23:45 GMT | Bug Bounty Hunting — Complete Guide (Part-159) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/159c17d767e2) |
+| Tue, 09 Dec 2025 09:23:17 GMT | Bug Bounty Hunting — Complete Guide (Part-158) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/bd392c1a970f) |
+| Tue, 09 Dec 2025 09:18:53 GMT | Syndika x CredShields: Supporting Security for Web3 Teams That Ship | Syndika | [Read More](https://medium.com/p/9bfd29465ce8) |
+| Tue, 09 Dec 2025 09:17:26 GMT | 5 easy-to-use VPNs for beginners with 1-click connections | Safelyo VPN | [Read More](https://medium.com/p/62f44ee86ef8) |
+| Tue, 09 Dec 2025 09:15:09 GMT | Drosera Alerts — What they are, how they work, and why they matter. | MAVERICK | [Read More](https://medium.com/p/e07f75c6e48f) |
+| Tue, 09 Dec 2025 09:14:38 GMT | Seeing in the Dark: IRPs Through A Red Team Lens | Redfox Security | [Read More](https://medium.com/p/834fefdda387) |
+| Tue, 09 Dec 2025 09:09:49 GMT | Why You Must Hire Professional Lawyers and Investigators When Your Crypto Is Hacked, Scammed, or… | Officer's Notes | [Read More](https://medium.com/p/2c14090415e9) |
+| Tue, 09 Dec 2025 09:09:25 GMT | CVE‑2025‑55182 (“React2Shell”): What You Need to Know | Stalin | [Read More](https://medium.com/p/733d0dca66c7) |
+| Tue, 09 Dec 2025 09:09:24 GMT | The Death of the Chatbot: Why 2026 Will Be the Year of the “Autonomous Agent.” | Adam Frąckowiak | [Read More](https://medium.com/p/afe1d3fef8c9) |
+| Tue, 09 Dec 2025 09:08:21 GMT | How CPUs Fight Malware: A Deep Dive into Hardware-Level Security | Samyakgoel | [Read More](https://medium.com/p/75546b532535) |
+| Tue, 09 Dec 2025 09:02:24 GMT | 5 Proven Cyber Due Diligence in M&A Plays | Pentest_Testing_Corp | [Read More](https://medium.com/p/5355c5d6d5c1) |
+| Tue, 09 Dec 2025 09:02:22 GMT | When a Man Shows These Signs, He’s Terrified of Losing You — Don’t Push Him Away | Elaine Ford | [Read More](https://medium.com/p/2d8397babc0d) |
+| Tue, 09 Dec 2025 09:02:18 GMT | Replace Dark Web Screenshots With Real Credentials You Can Act On Using LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/d33e891546a2) |
+| Tue, 09 Dec 2025 09:01:51 GMT | The Digital East India Company: Why Your SaaS Stack is a Colonial Tax | Jayal Yadav | [Read More](https://medium.com/p/d70f9f0119d9) |
+| Tue, 09 Dec 2025 08:59:59 GMT | The Rise of Database Automation Tools and What It Means for DBAs | Mafiree | [Read More](https://medium.com/p/cbabca9b3802) |
+| Tue, 09 Dec 2025 08:57:45 GMT | How to create a new Gmail account without phone number 2025 | Safelyo Global | [Read More](https://medium.com/p/95761f82febb) |
+| Tue, 09 Dec 2025 08:52:25 GMT | Best Engineering College in Pune for Computer Engineering — Student Review 2026 | Marathwada Mitra Mandal's Institute of Technology | [Read More](https://medium.com/p/d584dd57b005) |
+| Tue, 09 Dec 2025 08:52:24 GMT | I Got Quoted $80,000 for SOC 2 Compliance. Here’s What I Did Instead. | Bhavesh Patil | [Read More](https://medium.com/p/e5a9b8e03e75) |
+| Tue, 09 Dec 2025 08:49:56 GMT | The Art of Reconnaissance: How Cybersecurity Starts Before the Attack | farshad moradi shahrbabak | [Read More](https://medium.com/p/fff73f67c34c) |
+| Tue, 09 Dec 2025 08:43:48 GMT | Understanding Networks: How They Work and Why They Matter | Md Shoyeb Hossain | [Read More](https://medium.com/p/087d68ceb8f3) |
 | Tue, 09 Dec 2025 08:26:28 GMT | When your entire IT runs on 2–3 people… and why that’s actually a huge opportunity | Ahouab Aliouche | [Read More](https://medium.com/p/d3df74e2bb46) |
+| Tue, 09 Dec 2025 08:26:27 GMT | Say Goodbye to the Web3 “Dark Forest”: How BSA Uses AI to Build a Closed-Loop Security System | Block Sec Arena | [Read More](https://medium.com/p/0481ea944f11) |
+| Tue, 09 Dec 2025 08:25:31 GMT | Critical Alert: React Server Components Vulnerability “React2Shell” (And How to Fix It) | Muhammed ERDAL | [Read More](https://medium.com/p/4652c31c7798) |
 | Tue, 09 Dec 2025 08:16:22 GMT | API Breach Forensics Toolkit: Step-by-Step Tools to Uncover Every Hidden Threat | Very Lazy Tech | [Read More](https://medium.com/p/a593991f05ff) |
 | Tue, 09 Dec 2025 08:15:29 GMT | America’s Identity at a Crossroads: How Security Crackdowns and Migration Policies Are Reshaping… | MASUM BILLAH | [Read More](https://medium.com/p/8961f9f6646d) |
 | Tue, 09 Dec 2025 08:12:17 GMT | I Hate Phishing Texts, but I Love These New Android Scam Protection Features | Crystal Crowder | [Read More](https://medium.com/p/0d7e707e1659) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 03:54:43 GMT | Tải Hack Stickman The Flash (Menu, Full Tiền, Kim Cương, Mở Khóa Tất Cả ) v1.78.23 | genzvnmod | [Read More](https://medium.com/p/f3c217bbe816) |
 | Tue, 09 Dec 2025 03:49:57 GMT | The Danger of Facial Recognition Technology: A Call to Action | Elijah L | [Read More](https://medium.com/p/7b13d2f99ebe) |
 | Tue, 09 Dec 2025 03:47:29 GMT | Tải Hack Supreme Duelist Stickman (Full Tiền, Max Level) v4.0.4 | Game4u | [Read More](https://medium.com/p/03cb7b74e8c1) |
-| Tue, 09 Dec 2025 03:32:15 GMT | The Hidden Chain: How a Simple ZIP File Leads to Full WhatsApp Session Hijacking | Deven Chhajed | [Read More](https://medium.com/p/292b013e41e9) |
-| Tue, 09 Dec 2025 03:30:52 GMT | The uncomfortable truth. | AXSAS | [Read More](https://medium.com/p/e2432d255796) |
-| Tue, 09 Dec 2025 03:07:44 GMT | How AI can ruin lives through illusion, misinformation and misuse | Shazam | [Read More](https://medium.com/p/4d2cbab7c463) |
-| Tue, 09 Dec 2025 02:53:56 GMT | How Google Maps Calculates Fastest Routes — When The World Changes Every Minute | The Dev Notebook | [Read More](https://medium.com/p/bb55b5ec9ef6) |
-| Tue, 09 Dec 2025 02:53:02 GMT | TryHackMe: Overpass Writeup | cbev | [Read More](https://medium.com/p/cae2f668b909) |
-| Tue, 09 Dec 2025 02:46:28 GMT | Shadow AI: The Governance Problem You’re Already Behind On | Warwick McIntosh | [Read More](https://medium.com/p/f081bbfc9c2c) |
-| Tue, 09 Dec 2025 02:32:34 GMT | La FTC maintient l’interdiction contre le fondateur de stalkerware | L'ABESTIT | [Read More](https://medium.com/p/7163be574221) |
-| Tue, 09 Dec 2025 02:20:06 GMT | The Illusion AI in Cyber Security: Complete Autonomy | Jeremy | [Read More](https://medium.com/p/9b071939a566) |
-| Tue, 09 Dec 2025 02:17:45 GMT | Hack the Box “Precious” CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/a2296ec1fd32) |
-| Tue, 09 Dec 2025 02:11:28 GMT | How I Study DFIR Every Day — My Routine, Tools, and Mindset | Xeipher | [Read More](https://medium.com/p/42e9950061e6) |
-| Tue, 09 Dec 2025 02:10:51 GMT | How to Stop “Clean” Residential Proxies From Getting Flagged | TokenGlim | [Read More](https://medium.com/p/4e280d3368e6) |
-| Tue, 09 Dec 2025 02:07:54 GMT | When Innovation Outpaces Protection: Closing the Cybersecurity Gap in Africa’s Healthcare | Digital Health Africa | [Read More](https://medium.com/p/f2dd8305ec49) |
-| Tue, 09 Dec 2025 02:06:24 GMT | Tuesday Morning Threat Report: Dec 9, 2025 | Mark Maguire | [Read More](https://medium.com/p/4641d21e4275) |
-| Tue, 09 Dec 2025 01:51:14 GMT | Bug Bounty Hunting: The Real Playbook for Beginners That Actually Works | Monika sharma | [Read More](https://medium.com/p/97ff6ad81e2a) |
-| Tue, 09 Dec 2025 01:51:10 GMT | Terrorism and crime research tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/cfb0dc3e0c36) |
-| Tue, 09 Dec 2025 01:51:04 GMT | Best Chrome extensions for OSINT | loyalonlytoday | [Read More](https://medium.com/p/505b067b51e4) |
-| Tue, 09 Dec 2025 01:41:31 GMT | Subdomain Takeover in 2025  — New Methods + Tools | Vipul Sonule | [Read More](https://medium.com/p/33bba0de6afc) |
-| Tue, 09 Dec 2025 01:32:12 GMT | The Consent Receipt: Proving Your Agent Had Permission | Syntal | [Read More](https://medium.com/p/af7344aff558) |
-| Tue, 09 Dec 2025 01:16:39 GMT | Here’s how to tell if he really loves you: one thing will show you. | Hanpis | [Read More](https://medium.com/p/2cd5373b2520) |
-| Tue, 09 Dec 2025 01:15:30 GMT | Understanding Avast’s Recent Sandbox Security Failure | Geoffrey Wenger | [Read More](https://medium.com/p/7e2f15d1f8ce) |
-| Tue, 09 Dec 2025 01:15:23 GMT | Massive GitLab Leak Shows Scope Of Exposed Developer Secrets | Geoffrey Wenger | [Read More](https://medium.com/p/7379f4151d34) |
-| Tue, 09 Dec 2025 01:08:03 GMT | The Holiday Fight You’re About to Have Was Scripted Six Weeks Ago by a Bot in St. Petersburg | Kevin Kelly | [Read More](https://medium.com/p/ef92d56dcea5) |
