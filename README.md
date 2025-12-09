@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 13:30:52 GMT | [Broken Access Control] Members can pin/unpin any post in a Microsoft Teams community | Rohmad Hidayah | [Read More](https://medium.com/p/ba11e6d37945) |
+| Tue, 09 Dec 2025 13:19:05 GMT | Learning Cybersecurity in 30 Days! What?! | Seray Akman | [Read More](https://medium.com/p/726631894520) |
+| Tue, 09 Dec 2025 13:15:18 GMT | Advent of Cyber 25 — Day 8 — Prompt Injection — Sched-yule conflict | cybertactic | [Read More](https://medium.com/p/85b99fb9b416) |
+| Tue, 09 Dec 2025 13:14:56 GMT | This bug take to me 4 days to understand how is work | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/34892d63b113) |
+| Tue, 09 Dec 2025 13:13:18 GMT | MrRobot Lab Writeup—  Part 1 - CyberDefenders | Yogi Teza | [Read More](https://medium.com/p/19e7da88fef5) |
+| Tue, 09 Dec 2025 13:11:08 GMT | How Access Governance Must Evolve Before Agentic Automation Takes Over | Frank Kresse | [Read More](https://medium.com/p/3218794374b0) |
+| Tue, 09 Dec 2025 13:10:32 GMT | Why Most Smart Contract Audits Fail to Protect Your Protocol | Marcellus Nwankwo | [Read More](https://medium.com/p/941aac62876c) |
+| Tue, 09 Dec 2025 13:10:14 GMT | Attacking WordPress - Reconnissance & Information Gathering | Amrsmooke | [Read More](https://medium.com/p/cc0ff10a4604) |
+| Tue, 09 Dec 2025 12:58:45 GMT | Integrating OpenAI ChatGPT with Microsoft Sentinel: A Complete Guide to AI-Powered Security… | Adolf Sey | [Read More](https://medium.com/p/3d8d3cc04b00) |
+| Tue, 09 Dec 2025 12:56:29 GMT | Before Hackers Even Try: The Power of Proactive Cyber Defense | ANSI Technologies | [Read More](https://medium.com/p/dc70aa892613) |
+| Tue, 09 Dec 2025 12:51:11 GMT | CloudSEK CTF 2025 — Writeup | codebreaker | [Read More](https://medium.com/p/5bff19734490) |
+| Tue, 09 Dec 2025 12:47:50 GMT | The Unauthenticated RCE Deserialization Disaster: Deep Dive into React Server Components… | Albert Corzo | [Read More](https://medium.com/p/a150598202d9) |
 | Tue, 09 Dec 2025 12:45:11 GMT | Cyber Paths & Second Chances: Why Tech Careers Are Changing Lives | cyberpathsfundraisingcup | [Read More](https://medium.com/p/1fed60ea0545) |
 | Tue, 09 Dec 2025 12:39:54 GMT | Members Can Prevent Admins/Owners from Accessing Reviews via Manipulated UUID | 0xAdam | [Read More](https://medium.com/p/a2dbce4dda6a) |
 | Tue, 09 Dec 2025 12:39:33 GMT | What is AWS WAF? | Thomas Eid | [Read More](https://medium.com/p/209493c75cd9) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 08:49:56 GMT | The Art of Reconnaissance: How Cybersecurity Starts Before the Attack | farshad moradi shahrbabak | [Read More](https://medium.com/p/fff73f67c34c) |
 | Tue, 09 Dec 2025 08:43:48 GMT | Understanding Networks: How They Work and Why They Matter | Md Shoyeb Hossain | [Read More](https://medium.com/p/087d68ceb8f3) |
 | Tue, 09 Dec 2025 08:32:10 GMT | Third Party Risk Assessment Solutions | Beaconer | [Read More](https://medium.com/p/42b0bf64f9f5) |
-| Tue, 09 Dec 2025 08:26:28 GMT | When your entire IT runs on 2–3 people… and why that’s actually a huge opportunity | Ahouab Aliouche | [Read More](https://medium.com/p/d3df74e2bb46) |
-| Tue, 09 Dec 2025 08:26:27 GMT | Say Goodbye to the Web3 “Dark Forest”: How BSA Uses AI to Build a Closed-Loop Security System | Block Sec Arena | [Read More](https://medium.com/p/0481ea944f11) |
-| Tue, 09 Dec 2025 08:25:31 GMT | Critical Alert: React Server Components Vulnerability “React2Shell” (And How to Fix It) | Muhammed ERDAL | [Read More](https://medium.com/p/4652c31c7798) |
-| Tue, 09 Dec 2025 08:16:22 GMT | API Breach Forensics Toolkit: Step-by-Step Tools to Uncover Every Hidden Threat | Very Lazy Tech | [Read More](https://medium.com/p/a593991f05ff) |
-| Tue, 09 Dec 2025 08:15:29 GMT | America’s Identity at a Crossroads: How Security Crackdowns and Migration Policies Are Reshaping… | MASUM BILLAH | [Read More](https://medium.com/p/8961f9f6646d) |
-| Tue, 09 Dec 2025 08:12:17 GMT | I Hate Phishing Texts, but I Love These New Android Scam Protection Features | Crystal Crowder | [Read More](https://medium.com/p/0d7e707e1659) |
-| Tue, 09 Dec 2025 08:01:33 GMT | Top-Rated Free Antivirus Apps for PC and Mobile Devices in 2025 | Siyanoav | [Read More](https://medium.com/p/35c28b51c6dc) |
-| Tue, 09 Dec 2025 08:00:27 GMT | Are Your Digital Footprints Quietly Building a Case Against You? | Germano Costi | [Read More](https://medium.com/p/d3b9d2ab0201) |
-| Tue, 09 Dec 2025 07:58:37 GMT | How I Made $5,000 (₹4.49 Lakh) in Just 1 Hour by Scanning JavaScript Files | Mohsin khan | [Read More](https://medium.com/p/18428e9184d9) |
-| Tue, 09 Dec 2025 07:56:34 GMT | Best Free Antivirus for PC: Keep Your Device Secure in 2025 | SiyanoAV | [Read More](https://medium.com/p/1dfe87b74664) |
-| Tue, 09 Dec 2025 07:52:53 GMT | General Data Protection Regulation (GDPR) | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/37523d713cd8) |
-| Tue, 09 Dec 2025 07:49:03 GMT | Prompt Injection — Sched-yule conflict - Advent of Cyber 2025 Day 8 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/30f859bd23a7) |
