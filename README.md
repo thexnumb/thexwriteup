@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 14:19:09 GMT | Mama, hear this | Alizabeth Amelia Rose | [Read More](https://medium.com/p/01f7356b6064) |
+| Tue, 09 Dec 2025 14:12:57 GMT | “If your body is falling apart but you still have to work, read this.” | Divya Agarwal | [Read More](https://medium.com/p/8af392fd1fe4) |
+| Tue, 09 Dec 2025 14:12:07 GMT | Call/Message anyone on Facebook directly, bypassing the message request ($$$$+$$$$$) | Samip Aryal | [Read More](https://medium.com/p/c182055b1724) |
+| Tue, 09 Dec 2025 14:10:47 GMT | Rust, AI, and the IDE Trap: What If Your Dev Tools Turned Against You? | Germano Costi | [Read More](https://medium.com/p/4a26121226ab) |
+| Tue, 09 Dec 2025 14:03:52 GMT | Why Your Passwords Are NOT Safe Just Because You Think They Are | Vedad Borovac | [Read More](https://medium.com/p/b4018ed92197) |
+| Tue, 09 Dec 2025 14:02:44 GMT | Why I Turned Off “Background App Refresh” | K_Anik | [Read More](https://medium.com/p/ef03de547608) |
+| Tue, 09 Dec 2025 14:02:44 GMT | Linux Security Habit #3 — The One Command That Exposes a Hacker Before They Use Your Server | Faruk Ahmed | [Read More](https://medium.com/p/c833691ec54b) |
+| Tue, 09 Dec 2025 14:02:29 GMT | Zero Trust Maturity: Building Security Without Weak Links | Hello @ Octellient | [Read More](https://medium.com/p/d26525da3a0b) |
+| Tue, 09 Dec 2025 13:59:18 GMT | I’m writing this to document my journey into Exploit Development — Part 1. | MrLearner | [Read More](https://medium.com/p/b27f3f85aa69) |
+| Tue, 09 Dec 2025 13:48:54 GMT | Why SMBs Are Now Prime Targets for Cyberattacks | Teddy Cerra | [Read More](https://medium.com/p/0c81789602a8) |
+| Tue, 09 Dec 2025 13:48:50 GMT | The First Real Security Hole I Ever Found Using Nmap | Fateyaly | [Read More](https://medium.com/p/8eccff1d3dbf) |
+| Tue, 09 Dec 2025 13:44:29 GMT | 15 Free Online Cybersecurity & Ethical Hacking Courses You Can Start Today ✨ | Intellibytes | [Read More](https://medium.com/p/089524bb0369) |
+| Tue, 09 Dec 2025 13:33:18 GMT | CTEM Nedir? | Salihugurlu | [Read More](https://medium.com/p/ba0d06a4a2ca) |
 | Tue, 09 Dec 2025 13:30:52 GMT | [Broken Access Control] Members can pin/unpin any post in a Microsoft Teams community | Rohmad Hidayah | [Read More](https://medium.com/p/ba11e6d37945) |
+| Tue, 09 Dec 2025 13:30:40 GMT | MAJOR DISCOVERY: 7 WordPress Plugin Vulnerabilities, ZERO False Positives! | ZAST AI | [Read More](https://medium.com/p/1ca0c3f76e2a) |
+| Tue, 09 Dec 2025 13:28:42 GMT | LOW-LEVEL BASICS Part 1 | Infohack | [Read More](https://medium.com/p/89d2ac3c7a6f) |
 | Tue, 09 Dec 2025 13:19:05 GMT | Learning Cybersecurity in 30 Days! What?! | Seray Akman | [Read More](https://medium.com/p/726631894520) |
 | Tue, 09 Dec 2025 13:15:18 GMT | Advent of Cyber 25 — Day 8 — Prompt Injection — Sched-yule conflict | cybertactic | [Read More](https://medium.com/p/85b99fb9b416) |
 | Tue, 09 Dec 2025 13:14:56 GMT | This bug take to me 4 days to understand how is work | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/34892d63b113) |
@@ -20,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 13:11:08 GMT | How Access Governance Must Evolve Before Agentic Automation Takes Over | Frank Kresse | [Read More](https://medium.com/p/3218794374b0) |
 | Tue, 09 Dec 2025 13:10:32 GMT | Why Most Smart Contract Audits Fail to Protect Your Protocol | Marcellus Nwankwo | [Read More](https://medium.com/p/941aac62876c) |
 | Tue, 09 Dec 2025 13:10:14 GMT | Attacking WordPress - Reconnissance & Information Gathering | Amrsmooke | [Read More](https://medium.com/p/cc0ff10a4604) |
+| Tue, 09 Dec 2025 13:07:07 GMT | How to Detect Hooking (Frida) on Capacitor | Talsec | [Read More](https://medium.com/p/d192de3e6180) |
 | Tue, 09 Dec 2025 12:58:45 GMT | Integrating OpenAI ChatGPT with Microsoft Sentinel: A Complete Guide to AI-Powered Security… | Adolf Sey | [Read More](https://medium.com/p/3d8d3cc04b00) |
 | Tue, 09 Dec 2025 12:56:29 GMT | Before Hackers Even Try: The Power of Proactive Cyber Defense | ANSI Technologies | [Read More](https://medium.com/p/dc70aa892613) |
 | Tue, 09 Dec 2025 12:51:11 GMT | CloudSEK CTF 2025 — Writeup | codebreaker | [Read More](https://medium.com/p/5bff19734490) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 09:18:53 GMT | Syndika x CredShields: Supporting Security for Web3 Teams That Ship | Syndika | [Read More](https://medium.com/p/9bfd29465ce8) |
 | Tue, 09 Dec 2025 09:17:26 GMT | 5 easy-to-use VPNs for beginners with 1-click connections | Safelyo VPN | [Read More](https://medium.com/p/62f44ee86ef8) |
 | Tue, 09 Dec 2025 09:15:09 GMT | Drosera Alerts — What they are, how they work, and why they matter. | MAVERICK | [Read More](https://medium.com/p/e07f75c6e48f) |
-| Tue, 09 Dec 2025 09:14:38 GMT | Seeing in the Dark: IRPs Through A Red Team Lens | Redfox Security | [Read More](https://medium.com/p/834fefdda387) |
-| Tue, 09 Dec 2025 09:09:49 GMT | Why You Must Hire Professional Lawyers and Investigators When Your Crypto Is Hacked, Scammed, or… | Officer's Notes | [Read More](https://medium.com/p/2c14090415e9) |
-| Tue, 09 Dec 2025 09:09:25 GMT | CVE‑2025‑55182 (“React2Shell”): What You Need to Know | Stalin | [Read More](https://medium.com/p/733d0dca66c7) |
-| Tue, 09 Dec 2025 09:09:24 GMT | The Death of the Chatbot: Why 2026 Will Be the Year of the “Autonomous Agent.” | Adam Frąckowiak | [Read More](https://medium.com/p/afe1d3fef8c9) |
-| Tue, 09 Dec 2025 09:08:21 GMT | How CPUs Fight Malware: A Deep Dive into Hardware-Level Security | Samyakgoel | [Read More](https://medium.com/p/75546b532535) |
-| Tue, 09 Dec 2025 09:02:24 GMT | 5 Proven Cyber Due Diligence in M&A Plays | Pentest_Testing_Corp | [Read More](https://medium.com/p/5355c5d6d5c1) |
-| Tue, 09 Dec 2025 09:02:22 GMT | When a Man Shows These Signs, He’s Terrified of Losing You — Don’t Push Him Away | Elaine Ford | [Read More](https://medium.com/p/2d8397babc0d) |
-| Tue, 09 Dec 2025 09:02:18 GMT | Replace Dark Web Screenshots With Real Credentials You Can Act On Using LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/d33e891546a2) |
-| Tue, 09 Dec 2025 09:01:51 GMT | The Digital East India Company: Why Your SaaS Stack is a Colonial Tax | Jayal Yadav | [Read More](https://medium.com/p/d70f9f0119d9) |
-| Tue, 09 Dec 2025 08:59:59 GMT | The Rise of Database Automation Tools and What It Means for DBAs | Mafiree | [Read More](https://medium.com/p/cbabca9b3802) |
-| Tue, 09 Dec 2025 08:57:45 GMT | How to create a new Gmail account without phone number 2025 | Safelyo Global | [Read More](https://medium.com/p/95761f82febb) |
-| Tue, 09 Dec 2025 08:52:25 GMT | Best Engineering College in Pune for Computer Engineering — Student Review 2026 | Marathwada Mitra Mandal's Institute of Technology | [Read More](https://medium.com/p/d584dd57b005) |
-| Tue, 09 Dec 2025 08:52:24 GMT | I Got Quoted $80,000 for SOC 2 Compliance. Here’s What I Did Instead. | Bhavesh Patil | [Read More](https://medium.com/p/e5a9b8e03e75) |
-| Tue, 09 Dec 2025 08:49:56 GMT | The Art of Reconnaissance: How Cybersecurity Starts Before the Attack | farshad moradi shahrbabak | [Read More](https://medium.com/p/fff73f67c34c) |
-| Tue, 09 Dec 2025 08:43:48 GMT | Understanding Networks: How They Work and Why They Matter | Md Shoyeb Hossain | [Read More](https://medium.com/p/087d68ceb8f3) |
-| Tue, 09 Dec 2025 08:32:10 GMT | Third Party Risk Assessment Solutions | Beaconer | [Read More](https://medium.com/p/42b0bf64f9f5) |
