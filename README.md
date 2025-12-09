@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 14:36:43 GMT | Tryhackme Walkthrough Linux Machine CTF!! | Mainekhacker | [Read More](https://medium.com/p/57d56c6881ee) |
+| Tue, 09 Dec 2025 14:32:34 GMT | (Comptia A+) Dealing with Cybersecurity Threats: Best Practices for Host and Network Protection | Vignesh R | [Read More](https://medium.com/p/b62c29c635a2) |
+| Tue, 09 Dec 2025 14:27:06 GMT | Information Security Therapy #3- 10 πράγματα που θα ήθελα να ξέρω όταν ξεκίνησα στο security (και… | Elena Sarimichailidou | [Read More](https://medium.com/p/8e2e5be4c334) |
+| Tue, 09 Dec 2025 14:26:37 GMT | Part 30: ️ NSG in Azure — Not Just a Firewall, It’s Your Cloud’s National Security Guard | Shubham Barman | [Read More](https://medium.com/p/7ad132780533) |
 | Tue, 09 Dec 2025 14:19:09 GMT | Mama, hear this | Alizabeth Amelia Rose | [Read More](https://medium.com/p/01f7356b6064) |
+| Tue, 09 Dec 2025 14:19:08 GMT | AI Won’t Mitigate Your Risks; It’ll Expose the Ones You’ve Been
+Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) |
+| Tue, 09 Dec 2025 14:16:21 GMT | Your ChatGPT History Might Be Public — How to Secure It | AI Canvas | [Read More](https://medium.com/p/4ac098336116) |
+| Tue, 09 Dec 2025 14:14:28 GMT | VeriGov: A Crypto-Economic Protocol for Decentralized Software Supply Chain Security | Nikhil Ranjan | [Read More](https://medium.com/p/727d59a2fc33) |
 | Tue, 09 Dec 2025 14:12:57 GMT | “If your body is falling apart but you still have to work, read this.” | Divya Agarwal | [Read More](https://medium.com/p/8af392fd1fe4) |
+| Tue, 09 Dec 2025 14:12:11 GMT | Failed GRC, AI, and the Children Forced to Save the World | Jay H. | [Read More](https://medium.com/p/565d6c3f1e19) |
 | Tue, 09 Dec 2025 14:12:07 GMT | Call/Message anyone on Facebook directly, bypassing the message request ($$$$+$$$$$) | Samip Aryal | [Read More](https://medium.com/p/c182055b1724) |
 | Tue, 09 Dec 2025 14:10:47 GMT | Rust, AI, and the IDE Trap: What If Your Dev Tools Turned Against You? | Germano Costi | [Read More](https://medium.com/p/4a26121226ab) |
 | Tue, 09 Dec 2025 14:03:52 GMT | Why Your Passwords Are NOT Safe Just Because You Think They Are | Vedad Borovac | [Read More](https://medium.com/p/b4018ed92197) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 09:36:59 GMT | Anonymous FTP + Splunk Logging: A Hands-On Cybersecurity Lab Guide | Abhinsubej | [Read More](https://medium.com/p/f6c143227f6a) |
 | Tue, 09 Dec 2025 09:35:09 GMT | How Transparent IT Policies Boost Supplier Credibility | Rahman Iqbal | [Read More](https://medium.com/p/24dbcd1c4ae9) |
 | Tue, 09 Dec 2025 09:34:45 GMT | La red del Caos | La Trama Del Caos | [Read More](https://medium.com/p/3e6d5b405572) |
-| Tue, 09 Dec 2025 09:34:16 GMT | Not Everyone Will Know You | Ronnie Charrier | [Read More](https://medium.com/p/96c32068029f) |
-| Tue, 09 Dec 2025 09:27:04 GMT | Leaking Secrets Without Realizing: A Beginner’s Guide to Information Disclosure | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/8f5f39a7feb8) |
-| Tue, 09 Dec 2025 09:23:45 GMT | Bug Bounty Hunting — Complete Guide (Part-159) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/159c17d767e2) |
-| Tue, 09 Dec 2025 09:23:17 GMT | Bug Bounty Hunting — Complete Guide (Part-158) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/bd392c1a970f) |
-| Tue, 09 Dec 2025 09:21:46 GMT | Cybersecurity Training Online: Essential Certifications You Should Know in 2026 | Janbask Training | [Read More](https://medium.com/p/c4cc5a4c2d71) |
-| Tue, 09 Dec 2025 09:18:53 GMT | Syndika x CredShields: Supporting Security for Web3 Teams That Ship | Syndika | [Read More](https://medium.com/p/9bfd29465ce8) |
-| Tue, 09 Dec 2025 09:17:26 GMT | 5 easy-to-use VPNs for beginners with 1-click connections | Safelyo VPN | [Read More](https://medium.com/p/62f44ee86ef8) |
-| Tue, 09 Dec 2025 09:15:09 GMT | Drosera Alerts — What they are, how they work, and why they matter. | MAVERICK | [Read More](https://medium.com/p/e07f75c6e48f) |
