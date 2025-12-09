@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 06:32:30 GMT | Prompt Injection — Sched-yule conflict | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/82e185ebd7d8) |
+| Tue, 09 Dec 2025 06:29:36 GMT | The Best Vulnerability Disclosure Programs (VDP): A 2026 Guide for Security Researchers | ghostyjoe | [Read More](https://medium.com/p/21fa5588b8e4) |
+| Tue, 09 Dec 2025 06:26:07 GMT | The Daily Tech Digest: 09 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/27374d228a93) |
+| Tue, 09 Dec 2025 06:19:10 GMT | The Executive’s Guide to Enterprise Cloud Security & AI Privacy | Gopal Joshi | [Read More](https://medium.com/p/5c1a93880b0d) |
+| Tue, 09 Dec 2025 06:16:40 GMT | Known-Plaintext Attack on PHP-Proxy: From Broken Encryption to FastCGI RCE | Muh. Fani Akbar | [Read More](https://medium.com/p/4942523c7955) |
+| Tue, 09 Dec 2025 06:15:52 GMT | SSH Cheat Sheet | Oz | [Read More](https://medium.com/p/4286e41fb92c) |
+| Tue, 09 Dec 2025 06:12:58 GMT | Part 15: Virtual Box IT Home Lab — Understanding Delegate control, and account lockout. | Declan | [Read More](https://medium.com/p/b73a634538a9) |
+| Tue, 09 Dec 2025 06:10:58 GMT | Liquidity without security is just a faster way to lose money. | Heesham Naji | [Read More](https://medium.com/p/94cb22b07521) |
+| Tue, 09 Dec 2025 06:08:06 GMT | TryHackMe: Wonderland Writeup | cbev | [Read More](https://medium.com/p/df935e5974cf) |
+| Tue, 09 Dec 2025 06:07:41 GMT | Analysis of React2Shell RCE Vulnerability (CVE-2025–55182) | NSHC ThreatRecon Team | [Read More](https://medium.com/p/108ffbecad9f) |
+| Tue, 09 Dec 2025 06:07:36 GMT | “Every Parent Needs This App in 2026 — It Blocks ALL Social Media Instantly” | ghostyjoe | [Read More](https://medium.com/p/0c7d5ffcbbb2) |
+| Tue, 09 Dec 2025 05:57:09 GMT | How an EOR Simplifies Hiring Technical and IT Talent in India | Atharva Pedwal | [Read More](https://medium.com/p/4d9f6b43d3db) |
+| Tue, 09 Dec 2025 05:54:49 GMT | Authentication vs Authorization | Deepak sivan | [Read More](https://medium.com/p/eaae156d4626) |
+| Tue, 09 Dec 2025 05:53:13 GMT | Cracking the Mystery of Domains with nslookup️‍♂️ | Cybeague Technologies | [Read More](https://medium.com/p/8f18a2817f74) |
+| Tue, 09 Dec 2025 05:50:37 GMT | Behind the Screen: The Invisible Networks Targeting Pakistan’s Stability | Muhammad Mohsin Iqbal | [Read More](https://medium.com/p/b04c759d7af5) |
+| Tue, 09 Dec 2025 05:49:47 GMT | 24/7 Vulnerability Management: Your Always-On Shield Against Evolving Cyber Threats | james harry | [Read More](https://medium.com/p/9f460219dae6) |
 | Tue, 09 Dec 2025 05:44:34 GMT | The Year of the “Silent Breakdown”: 2025 Cybersecurity State of the Union | The Opscore Labs | [Read More](https://medium.com/p/e70d0c4916c7) |
 | Tue, 09 Dec 2025 05:29:32 GMT | Phishing Analysis Tool — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/1fb550c84076) |
 | Tue, 09 Dec 2025 05:21:55 GMT | A Complete Guide to SMB Enumeration in Active Directory Using NetExec (NXC) | Tareshsharma | [Read More](https://medium.com/p/3bb7e2ff01b9) |
@@ -33,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 04:35:20 GMT | Prompt Injection: Complete Security Guide | eyal doron | [Read More](https://medium.com/p/7f90ff09ddd3) |
 | Tue, 09 Dec 2025 04:32:23 GMT | Your First SOC 2-Ready Agent | Quaxel | [Read More](https://medium.com/p/398585b1bd26) |
 | Tue, 09 Dec 2025 04:28:36 GMT | Why the CISM Certification Is a Game-Changer for Your Cybersecurity Career | Cybernous Infosec consulting | [Read More](https://medium.com/p/c7339be9798d) |
+| Tue, 09 Dec 2025 04:26:38 GMT | The “Ghost GPS” Story at Delhi Airport | Raajeev H Dave (AI Man) | [Read More](https://medium.com/p/b05f00ba7c6f) |
 | Tue, 09 Dec 2025 04:17:04 GMT | Tải Poppy Playtime Chapter 3 Apk V1.0.25 Miễn Phí | GOCMOD | [Read More](https://medium.com/p/91e0c1102078) |
 | Tue, 09 Dec 2025 04:14:59 GMT | From Idea to APK: Building a Root Android Proxy Tool for Pentesters (WolfyProxy) | gecr07 | [Read More](https://medium.com/p/aa5d9259530d) |
 | Tue, 09 Dec 2025 04:11:53 GMT | What is a Botnet? - VIIEGO | Rolando | [Read More](https://medium.com/p/f50d58e2e60d) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 20:10:07 GMT | Basics Commands of Kali-Linux for Ethical Hacking (PART-1) | Akhil Thakur | [Read More](https://medium.com/p/2f871c1ceeb3) |
 | Mon, 08 Dec 2025 20:10:00 GMT | Advent of Cyber 2025 - Day 8: Prompt Injection — Sched-yule conflict | D4m.sh | [Read More](https://medium.com/p/255a9e84da92) |
 | Mon, 08 Dec 2025 20:06:24 GMT | tester | Josephhu | [Read More](https://medium.com/p/7befdd25a4ce) |
-| Mon, 08 Dec 2025 20:04:30 GMT | Machine learning model evaluation: detecting fraudulent transactions. | Josh | [Read More](https://medium.com/p/21b3392fb50e) |
-| Mon, 08 Dec 2025 20:03:22 GMT | Linux Network Sniffing & Packet Capture for Hackers | Cybersecplayground | [Read More](https://medium.com/p/7afcfb0444d0) |
-| Mon, 08 Dec 2025 19:59:09 GMT | DevSecOps in 2025: Embedding Security Into Every Stage of Your Software Delivery Pipeline | K.sharath chandra | [Read More](https://medium.com/p/1297e1a2754b) |
-| Mon, 08 Dec 2025 19:54:35 GMT | Part 3 : DNS Log Analysis using Splunk | Chaima KHABTHENI | [Read More](https://medium.com/p/6a5b2f2512a0) |
-| Mon, 08 Dec 2025 19:52:25 GMT | Guard Workforce Management in 2025: What Security Companies Should Focus On | Teona | [Read More](https://medium.com/p/8fc32b8794f1) |
-| Mon, 08 Dec 2025 19:43:43 GMT | Why Your AI Coding Assistant Needs a Security Layer (And How to Add One in 2 Minutes) | Mike Hanol | [Read More](https://medium.com/p/d8888db2be29) |
-| Mon, 08 Dec 2025 19:41:15 GMT | The Purdue Model: Understanding OT Network Architecture | urjasec | [Read More](https://medium.com/p/53f05d18cbac) |
-| Mon, 08 Dec 2025 19:27:26 GMT | Part 2 /5:  SSH Log Analysis: Detecting Brute Force Attacks | Chaima KHABTHENI | [Read More](https://medium.com/p/d04254cd0213) |
-| Mon, 08 Dec 2025 19:26:46 GMT | When “Deleted” Isn’t Gone: What I Found Inside Used Hard Drives | MV Intelligence | [Read More](https://medium.com/p/9450f5e48b69) |
-| Mon, 08 Dec 2025 19:24:05 GMT | Unlocking Linux Process Power: Part 1 Monitor, Inspect Processes Like a Pro | MR.7 | [Read More](https://medium.com/p/502f73ae946a) |
-| Mon, 08 Dec 2025 19:23:27 GMT | NCAE C2Games MiniHacks Challenge Walkthrough | Samuel McLamb | [Read More](https://medium.com/p/13bb8e55e1f5) |
-| Mon, 08 Dec 2025 19:21:22 GMT | Microsoft Sentinel SIEM/SOAR Demystified — Detect, Investigate, and Respond to Threats Across Your… | D3ad_M3m0r13s | [Read More](https://medium.com/p/60fe1535321c) |
-| Mon, 08 Dec 2025 19:20:25 GMT | Microsoft Purview Audit Demystified — How Audit Logs Help You Reconstruct What Really Happened | D3ad_M3m0r13s | [Read More](https://medium.com/p/b04e9fc1294d) |
-| Mon, 08 Dec 2025 19:17:47 GMT | Beyond the AI Black Box by Achieving Transparency in LLM Agents with DSPy Observability | Valdez Ladd | [Read More](https://medium.com/p/d2086b9e9ab2) |
-| Mon, 08 Dec 2025 19:17:37 GMT | United Security: Leading Security Services | United Security | [Read More](https://medium.com/p/ff5f0ad07a12) |
-| Mon, 08 Dec 2025 19:11:39 GMT | Advent of Cyber 2025 - Day 8: Prompt Injection - Sched-yule conflict | Akshat Patel | [Read More](https://medium.com/p/0e032230ede7) |
-| Mon, 08 Dec 2025 19:08:50 GMT | How I Recovered 5 Years’ Worth of 500GB Lost Files Using Just 3 Windows Commands | Raymond Ebonine | [Read More](https://medium.com/p/46fc5280859d) |
