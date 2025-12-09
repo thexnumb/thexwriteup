@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 12:45:11 GMT | Cyber Paths & Second Chances: Why Tech Careers Are Changing Lives | cyberpathsfundraisingcup | [Read More](https://medium.com/p/1fed60ea0545) |
+| Tue, 09 Dec 2025 12:39:54 GMT | Members Can Prevent Admins/Owners from Accessing Reviews via Manipulated UUID | 0xAdam | [Read More](https://medium.com/p/a2dbce4dda6a) |
+| Tue, 09 Dec 2025 12:39:33 GMT | What is AWS WAF? | Thomas Eid | [Read More](https://medium.com/p/209493c75cd9) |
+| Tue, 09 Dec 2025 12:35:33 GMT | The Biometric Tower of Babel | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/b32c773fe657) |
+| Tue, 09 Dec 2025 12:33:11 GMT | AI-Powered Cybersecurity vs AI-Powered Attacks: Who Really Has the Upper Hand? | Digital Defense | [Read More](https://medium.com/p/5710c70bad5c) |
+| Tue, 09 Dec 2025 12:30:57 GMT | How Managed Security Services Protect Small Businesses From Modern Cyberattacks in Brooklyn | Systech MSP | [Read More](https://medium.com/p/a9dfa02533bd) |
+| Tue, 09 Dec 2025 12:30:11 GMT | Password Pandemonium | Tryhacking | [Read More](https://medium.com/p/3f5ba45a72bc) |
+| Tue, 09 Dec 2025 12:29:34 GMT | Executive Protection Security Services Florida: Ensuring Elite Safety and Peace of Mind | Onyx Protective Services | [Read More](https://medium.com/p/76a379188c83) |
+| Tue, 09 Dec 2025 12:25:45 GMT | What is EC-Council’s Ethical Hacking Program? | Cybersecurity Courses | [Read More](https://medium.com/p/70076b58de49) |
+| Tue, 09 Dec 2025 12:22:44 GMT | Discovering Cloud Misconfigurations with Google Dorks | Reju Kole | [Read More](https://medium.com/p/c683274abc90) |
+| Tue, 09 Dec 2025 12:20:00 GMT | CVE-2025-55182 (React2Shell) : The Vulnerability Nobody Asked For | X3RX3S Sec. | [Read More](https://medium.com/p/efd97431efef) |
+| Tue, 09 Dec 2025 12:11:47 GMT | DockerLabs — Psycho | Noelia Presa | [Read More](https://medium.com/p/934052721a3e) |
+| Tue, 09 Dec 2025 12:10:53 GMT | Is it necessary to close files? | Pratyush Prajapati | [Read More](https://medium.com/p/941668bd3c0c) |
+| Tue, 09 Dec 2025 12:09:03 GMT | Surveillance Capitalism | JayCee | [Read More](https://medium.com/p/5940188e8fbf) |
+| Tue, 09 Dec 2025 12:06:37 GMT | The Most Dangerous Threat in Security Isn’t a Weapon — It’s Organizational Denial. | Peter Uliano | [Read More](https://medium.com/p/b84813deb1eb) |
+| Tue, 09 Dec 2025 12:02:13 GMT | How Do You Implement Automated Security Scans in Pipelines? | Harold Finch | [Read More](https://medium.com/p/49931deb2dde) |
+| Tue, 09 Dec 2025 12:00:29 GMT | Inside (OPLAN DEU): How Germany Is Preparing for a NATO–Russia War Scenario | Bajram Geci | [Read More](https://medium.com/p/603e7859273f) |
+| Tue, 09 Dec 2025 12:00:11 GMT | Synthetic Fraud: How AI-Generated Identities Will Break Traditional Security Systems | Marton Schneider | [Read More](https://medium.com/p/4a98c1c94ef4) |
+| Tue, 09 Dec 2025 11:57:42 GMT | Offline and off the road: the hidden perils of the connected car era | Enrique Dans | [Read More](https://medium.com/p/41b431d0b912) |
+| Tue, 09 Dec 2025 11:49:40 GMT | For developers and entrepreneurs: This represents one of the largest asymmetric information… | Berend Watchus | [Read More](https://medium.com/p/a0bfce104aa2) |
 | Tue, 09 Dec 2025 11:37:48 GMT | Generative AI in DevSecOps: Enhancing Security Automation Across the Software Lifecycle | Kadhem SELLAMI | [Read More](https://medium.com/p/6d8b1c36b873) |
 | Tue, 09 Dec 2025 11:36:31 GMT | I Almost Fell for an Email Scam. 10 Seconds in Bitwarden Saved Me | Dan Christ | [Read More](https://medium.com/p/9661a4433ab3) |
 | Tue, 09 Dec 2025 11:30:52 GMT | Gen AI in Cybersecurity: A Personal Look at the New Threats and Defenses Shaping the Future | Swapnil Pratap Singh | [Read More](https://medium.com/p/ba4e0674ac61) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 07:56:34 GMT | Best Free Antivirus for PC: Keep Your Device Secure in 2025 | SiyanoAV | [Read More](https://medium.com/p/1dfe87b74664) |
 | Tue, 09 Dec 2025 07:52:53 GMT | General Data Protection Regulation (GDPR) | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/37523d713cd8) |
 | Tue, 09 Dec 2025 07:49:03 GMT | Prompt Injection — Sched-yule conflict - Advent of Cyber 2025 Day 8 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/30f859bd23a7) |
-| Tue, 09 Dec 2025 07:48:37 GMT | Why Hiring Local Traffic Marshal Services Offers Better On-Site Response | Jane Tang | [Read More](https://medium.com/p/efdfc0127716) |
-| Tue, 09 Dec 2025 07:48:33 GMT | HackTheBox — Conversor | Boubakri Rami | [Read More](https://medium.com/p/99fa97e33726) |
-| Tue, 09 Dec 2025 07:46:43 GMT | How Security Solutions in Singapore Minimize Theft, Fraud, and Internal Risks | Jane Tang | [Read More](https://medium.com/p/921cfdd00433) |
-| Tue, 09 Dec 2025 07:41:40 GMT | From Blocked to Bypassed: The Science Behind Voidly’s AI-Routed VPN | Voidly | [Read More](https://medium.com/p/fb1d420c65e0) |
-| Tue, 09 Dec 2025 07:39:00 GMT | Zuri Njoku Explores Digital Transformation and Its Impact on IT | Zuri Njoku | [Read More](https://medium.com/p/df01d449f85f) |
-| Tue, 09 Dec 2025 07:28:12 GMT | DoS on a  live streaming and chatting App (Ethically). | Exploit5lover | [Read More](https://medium.com/p/0b5aed816b80) |
-| Tue, 09 Dec 2025 07:22:06 GMT | New in Symfony 7.4: Signing Messages | Matt Mochalkin | [Read More](https://medium.com/p/9d29f8cccf5d) |
-| Tue, 09 Dec 2025 07:18:18 GMT | Staying safe: Understanding cybercrime | Anshi B | [Read More](https://medium.com/p/79d79659d9cf) |
-| Tue, 09 Dec 2025 07:07:57 GMT | Internal vs External Pentest: 12 Tools Clients Don’t Know Exist (and How Pros Use Them) | Very Lazy Tech | [Read More](https://medium.com/p/5a19bb22d91a) |
-| Tue, 09 Dec 2025 07:06:32 GMT | Meet Sanjay Kiran – One of the Youngest Heads of Operations in India’s Private Security Industry… | Sanjay Kiran | [Read More](https://medium.com/p/159e2911f96c) |
-| Tue, 09 Dec 2025 07:03:45 GMT | AI Compliance Is the New Cybersecurity: The 2026 Framework Every Tech Leader Must Follow | Naushil Jain | [Read More](https://medium.com/p/2586017ccd49) |
-| Tue, 09 Dec 2025 07:02:40 GMT | Launch Your Cybersecurity Career with Confidence — Certified Ethical Hacking Essentials | Adhiraj Kasabe | [Read More](https://medium.com/p/dcd8cf557ce5) |
-| Tue, 09 Dec 2025 06:59:48 GMT | The Quantum Reckoning | Camilo Lascano Tribin | [Read More](https://medium.com/p/fc21de0dc885) |
-| Tue, 09 Dec 2025 06:55:31 GMT | How to Protect React Native API Keys on Android + iOS | Manan Gadhiya | [Read More](https://medium.com/p/18e7032cea41) |
-| Tue, 09 Dec 2025 06:50:52 GMT | AI in Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/4a2d98d72388) |
-| Tue, 09 Dec 2025 06:39:16 GMT | HOW DOES DNS WORK? | KISHORE S | [Read More](https://medium.com/p/7ba8b154aaf7) |
-| Tue, 09 Dec 2025 06:37:41 GMT | How to learn cyber security: A guide for beginners | Wonderland RV | [Read More](https://medium.com/p/ccd5901c123a) |
-| Tue, 09 Dec 2025 06:36:52 GMT | How to learn cyber security: A guide for beginners | AdverdizeSG | [Read More](https://medium.com/p/b8ef8397aa5e) |
-| Tue, 09 Dec 2025 06:36:19 GMT | The CISSP Diaries: Dancin’ with Domain 2 — Asset Security (Or: Why Your Data is Prettier Than… | Mainak Biswas | [Read More](https://medium.com/p/39421c4f6f14) |
-| Tue, 09 Dec 2025 06:35:31 GMT | BREAKING: CMU Researchers Found That “Vibe Coding” Is Insecure. | Athirani | [Read More](https://medium.com/p/3da0fb8583f0) |
