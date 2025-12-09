@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 22:11:00 GMT | Become bug bounty hunter part 2 | Ahmedayannnn | [Read More](https://medium.com/p/cf5c3afc36f0) |
+| Tue, 09 Dec 2025 22:04:44 GMT | Qradar101 Challenge — Cyberdefenders | Saif-eldeen | [Read More](https://medium.com/p/bb7c741116ee) |
+| Tue, 09 Dec 2025 22:02:38 GMT | I Can’t Tell What’s Real Anymore: AI Video Is Destroying Trust | CodeOrbit | [Read More](https://medium.com/p/0c21126ce433) |
+| Tue, 09 Dec 2025 22:02:15 GMT | The Engine Powered by Knowledge | Zeneil Ambekar | [Read More](https://medium.com/p/c3d850acb817) |
+| Tue, 09 Dec 2025 21:55:18 GMT | Historical Prototypes of Modern Technologies | Chier Hu | [Read More](https://medium.com/p/038f461aa0da) |
+| Tue, 09 Dec 2025 21:45:09 GMT | Understanding Today’s Active Darkweb Marketplaces | Tor BBB | [Read More](https://medium.com/p/d9c28d21e8e6) |
+| Tue, 09 Dec 2025 21:37:28 GMT | Lab: DOM XSS in jQuery selector sink using a hashchange event | KRY | [Read More](https://medium.com/p/74640c4529ac) |
 | Tue, 09 Dec 2025 21:34:43 GMT | IMPARA NMAP: Esegui Scansioni Strategiche con Script e Automazione — Dai Fondamenti alle… | Diego Rodrigues | [Read More](https://medium.com/p/7ec78833aa8d) |
+| Tue, 09 Dec 2025 21:34:39 GMT | Lab: DOM XSS in jQuery anchor href attribute sink using location.search source | KRY | [Read More](https://medium.com/p/1f4fa4a6390d) |
 | Tue, 09 Dec 2025 21:32:44 GMT | Identity restored. Ready for file-tree generation. | Projectsentinel | [Read More](https://medium.com/p/6001e24e6fe6) |
 | Tue, 09 Dec 2025 21:30:19 GMT | APC Process Injection using NtQueueApcThreadEx2 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/149c00afa57e) |
 | Tue, 09 Dec 2025 21:24:49 GMT | Don’t Lie On Your Cybersecurity Resume | Jbird | [Read More](https://medium.com/p/a5d408577a65) |
@@ -52,6 +60,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 18:28:18 GMT | Why I Stopped Pasting Text into Random Online Diff Tools (And Built My Own Secure Version) | L.J. | [Read More](https://medium.com/p/7ae0340dbad2) |
 | Tue, 09 Dec 2025 18:27:00 GMT | Common Authentication Weaknesses and How to Avoid Them | Damir Kolobaric | [Read More](https://medium.com/p/e43051d2fcc6) |
 | Tue, 09 Dec 2025 18:26:37 GMT | The Agentic Pivot: 6 Strategic Takeaways from Ignite 2025 That Actually Matter for CISOs | Arsh Riz | [Read More](https://medium.com/p/05185f658aa2) |
+| Tue, 09 Dec 2025 18:14:12 GMT | Phishing Prevention — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/9f6fa095418e) |
 | Tue, 09 Dec 2025 18:12:11 GMT | The IT Governance Trilogy: Understanding COBIT, ITIL, and ISO 27001 | C.N. Husnul Izzati | [Read More](https://medium.com/p/4449a917c7f3) |
 | Tue, 09 Dec 2025 18:02:15 GMT | Ice — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/ef4ff477d7f1) |
 | Tue, 09 Dec 2025 18:02:14 GMT | PicoCTF Writeup: b00tl3gRSA2 | SoBatista | [Read More](https://medium.com/p/2d08ae26ee21) |
@@ -72,8 +81,10 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 17:16:57 GMT | How I Built a CISO’s Dark Web Playbook That Uncovered a $ Vulnerability ️‍♂️ | Iski | [Read More](https://medium.com/p/15a3bf2efb1c) |
 | Tue, 09 Dec 2025 17:10:52 GMT | 2025 Durum Değerlendirmesi | Uğur Ertabak | [Read More](https://medium.com/p/bd873e52356d) |
 | Tue, 09 Dec 2025 17:09:58 GMT | “Top 10 Tools Every Bug Bounty Hunter Must Use” | Aman Sharma | [Read More](https://medium.com/p/900425e33f8d) |
+| Tue, 09 Dec 2025 17:03:58 GMT | Cyber Security | Haider Baloch | [Read More](https://medium.com/p/4de7e9fb3e6d) |
 | Tue, 09 Dec 2025 17:02:15 GMT | The Day I Realized Identity Security Was Broken — And Why AI Makes It Worse | Shazmeen Sohail | [Read More](https://medium.com/p/9f24156f2b5d) |
 | Tue, 09 Dec 2025 17:01:00 GMT | HackTheBox: Gavel Writeup — From Web to Root | Rahaliashraf | [Read More](https://medium.com/p/f26d4c0f880c) |
+| Tue, 09 Dec 2025 16:48:53 GMT | The 7 Best Backup Tools for Your Company in 2026 | Cordula Boeck | [Read More](https://medium.com/p/8c3d6dcd9931) |
 | Tue, 09 Dec 2025 16:36:33 GMT | View To Peace Building And Security In The Modern World; How Can We End Banditry In Nigeria? | Goto Emmanuel | [Read More](https://medium.com/p/69deb3309467) |
 | Tue, 09 Dec 2025 16:33:29 GMT | Hey Medium fam…
  Tonight, I’m writing this with a chill down my spine. | Hachtechnology | [Read More](https://medium.com/p/068c8dbf38eb) |
@@ -102,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 14:47:17 GMT | The Illusion of Security: What an External Assessment Revealed | Tyreek Haynes | [Read More](https://medium.com/p/cfcb1592aabf) |
 | Tue, 09 Dec 2025 14:36:43 GMT | Tryhackme Walkthrough Linux Machine CTF!! | Mainekhacker | [Read More](https://medium.com/p/57d56c6881ee) |
 | Tue, 09 Dec 2025 14:32:34 GMT | (Comptia A+) Dealing with Cybersecurity Threats: Best Practices for Host and Network Protection | Vignesh R | [Read More](https://medium.com/p/b62c29c635a2) |
-| Tue, 09 Dec 2025 14:27:06 GMT | Information Security Therapy #3- 10 πράγματα που θα ήθελα να ξέρω όταν ξεκίνησα στο security (και… | Elena Sarimichailidou | [Read More](https://medium.com/p/8e2e5be4c334) |
-| Tue, 09 Dec 2025 14:26:37 GMT | Part 30: ️ NSG in Azure — Not Just a Firewall, It’s Your Cloud’s National Security Guard | Shubham Barman | [Read More](https://medium.com/p/7ad132780533) |
-| Tue, 09 Dec 2025 14:19:09 GMT | Mama, hear this | Alizabeth Amelia Rose | [Read More](https://medium.com/p/01f7356b6064) |
-| Tue, 09 Dec 2025 14:19:08 GMT | AI Won’t Mitigate Your Risks; It’ll Expose the Ones You’ve Been
-Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) |
-| Tue, 09 Dec 2025 14:16:21 GMT | Your ChatGPT History Might Be Public — How to Secure It | AI Canvas | [Read More](https://medium.com/p/4ac098336116) |
-| Tue, 09 Dec 2025 14:14:28 GMT | VeriGov: A Crypto-Economic Protocol for Decentralized Software Supply Chain Security | Nikhil Ranjan | [Read More](https://medium.com/p/727d59a2fc33) |
-| Tue, 09 Dec 2025 14:12:57 GMT | “If your body is falling apart but you still have to work, read this.” | Divya Agarwal | [Read More](https://medium.com/p/8af392fd1fe4) |
-| Tue, 09 Dec 2025 14:12:11 GMT | Failed GRC, AI, and the Children Forced to Save the World | Jay H. | [Read More](https://medium.com/p/565d6c3f1e19) |
-| Tue, 09 Dec 2025 14:12:07 GMT | Call/Message anyone on Facebook directly, bypassing the message request ($$$$+$$$$$) | Samip Aryal | [Read More](https://medium.com/p/c182055b1724) |
-| Tue, 09 Dec 2025 14:10:47 GMT | Rust, AI, and the IDE Trap: What If Your Dev Tools Turned Against You? | Germano Costi | [Read More](https://medium.com/p/4a26121226ab) |
-| Tue, 09 Dec 2025 14:03:52 GMT | Why Your Passwords Are NOT Safe Just Because You Think They Are | Vedad Borovac | [Read More](https://medium.com/p/b4018ed92197) |
