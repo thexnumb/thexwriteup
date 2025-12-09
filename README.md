@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 10:21:13 GMT | Linux Firewall Rule Design: Deep Dive into Secure Traffic Architecture | Esra Kayhan | [Read More](https://medium.com/p/035ac1202b44) |
+| Tue, 09 Dec 2025 10:20:41 GMT | Writing SELinux Policies: Secure and Controlled Access in Linux | Esra Kayhan | [Read More](https://medium.com/p/8d9e122fb1b6) |
+| Tue, 09 Dec 2025 10:12:01 GMT | Phishing Hunter — Information Security Project | Muhammad Bilal Ashiq | [Read More](https://medium.com/p/787ccc99da3c) |
+| Tue, 09 Dec 2025 10:10:36 GMT | Reliable IT Helpdesk With Remote Support Services Provider in India | Anbarasans | [Read More](https://medium.com/p/2c9cf73162ce) |
+| Tue, 09 Dec 2025 10:04:14 GMT | React2Shell: Why CVE-2025–55182 is a Wake-Up Call for the React Ecosystem | jhasec | [Read More](https://medium.com/p/95712c13a96a) |
+| Tue, 09 Dec 2025 10:02:13 GMT | The Cybersecurity Mindset Thinking Like a Defender in a World of Threats | CYBER CYMRU | [Read More](https://medium.com/p/db247245612c) |
+| Tue, 09 Dec 2025 09:59:54 GMT | How to Write SQL Queries That Avoid Phantom Reads and Indexing Anomalies | Rohan Dutt | [Read More](https://medium.com/p/13175484d115) |
+| Tue, 09 Dec 2025 09:59:35 GMT | The End of “Ctrl+F” Forensics: How LLMs Are Rewriting the Rules of Investigation | Motasem Hamdan | [Read More](https://medium.com/p/d28a27414ce8) |
+| Tue, 09 Dec 2025 09:58:22 GMT | The Benefits of Integrating IT and OT Security Practices | Rahman Iqbal | [Read More](https://medium.com/p/99b69fbaa494) |
+| Tue, 09 Dec 2025 09:50:46 GMT | Networking fundamentals for penetration testing | Vishalraj | [Read More](https://medium.com/p/a52e8abf8327) |
+| Tue, 09 Dec 2025 09:42:09 GMT | Hey Backend Devs, Your Extra JSON is Slowing Down My Flutter App (And It’s a Security Risk!) | Ravi Savaliya | [Read More](https://medium.com/p/fe126751f687) |
 | Tue, 09 Dec 2025 09:41:58 GMT | Let’s Keep the Merry in Merry Christmas | Chiefparks | [Read More](https://medium.com/p/23f3de9d8e63) |
 | Tue, 09 Dec 2025 09:37:02 GMT | Connecting to the AWS CLI without storing access keys in plain text: the A-Z guide (aws login) | Yassine Derouich | [Read More](https://medium.com/p/c595f2978799) |
+| Tue, 09 Dec 2025 09:36:59 GMT | Anonymous FTP + Splunk Logging: A Hands-On Cybersecurity Lab Guide | Abhinsubej | [Read More](https://medium.com/p/f6c143227f6a) |
 | Tue, 09 Dec 2025 09:35:09 GMT | How Transparent IT Policies Boost Supplier Credibility | Rahman Iqbal | [Read More](https://medium.com/p/24dbcd1c4ae9) |
 | Tue, 09 Dec 2025 09:34:45 GMT | La red del Caos | La Trama Del Caos | [Read More](https://medium.com/p/3e6d5b405572) |
 | Tue, 09 Dec 2025 09:34:16 GMT | Not Everyone Will Know You | Ronnie Charrier | [Read More](https://medium.com/p/96c32068029f) |
@@ -39,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 08:52:24 GMT | I Got Quoted $80,000 for SOC 2 Compliance. Here’s What I Did Instead. | Bhavesh Patil | [Read More](https://medium.com/p/e5a9b8e03e75) |
 | Tue, 09 Dec 2025 08:49:56 GMT | The Art of Reconnaissance: How Cybersecurity Starts Before the Attack | farshad moradi shahrbabak | [Read More](https://medium.com/p/fff73f67c34c) |
 | Tue, 09 Dec 2025 08:43:48 GMT | Understanding Networks: How They Work and Why They Matter | Md Shoyeb Hossain | [Read More](https://medium.com/p/087d68ceb8f3) |
+| Tue, 09 Dec 2025 08:32:10 GMT | Third Party Risk Assessment Solutions | Beaconer | [Read More](https://medium.com/p/42b0bf64f9f5) |
 | Tue, 09 Dec 2025 08:26:28 GMT | When your entire IT runs on 2–3 people… and why that’s actually a huge opportunity | Ahouab Aliouche | [Read More](https://medium.com/p/d3df74e2bb46) |
 | Tue, 09 Dec 2025 08:26:27 GMT | Say Goodbye to the Web3 “Dark Forest”: How BSA Uses AI to Build a Closed-Loop Security System | Block Sec Arena | [Read More](https://medium.com/p/0481ea944f11) |
 | Tue, 09 Dec 2025 08:25:31 GMT | Critical Alert: React Server Components Vulnerability “React2Shell” (And How to Fix It) | Muhammed ERDAL | [Read More](https://medium.com/p/4652c31c7798) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 04:56:58 GMT | Partner with a Leading Remote Monitoring and Management Company & Cyber Security Software Companies | Gainside | [Read More](https://medium.com/p/495a985616de) |
 | Tue, 09 Dec 2025 04:55:33 GMT | Explore Steps to Manage Large Data Volumes in Salesforce? | QuantoKnack Training | [Read More](https://medium.com/p/fcde18f87189) |
 | Tue, 09 Dec 2025 04:53:52 GMT | Find a Cloud Migration Cost Calculator for Hybrid Environments? | Maruti Techlabs | [Read More](https://medium.com/p/6faff09b932c) |
-| Tue, 09 Dec 2025 04:48:00 GMT | CI/CD Secrets Leaks: How to Secure Your Android Build Pipeline | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/4f430796eb60) |
-| Tue, 09 Dec 2025 04:46:58 GMT | Top Security Risks of Using Cracked Software in 2025? | Rowan Johnson | [Read More](https://medium.com/p/de92e07f521d) |
-| Tue, 09 Dec 2025 04:45:06 GMT | Governance, Risk, and Compliance with Artificial Intelligence | Terrell Grenyion | [Read More](https://medium.com/p/63119bec74e4) |
-| Tue, 09 Dec 2025 04:39:46 GMT | HTB Challenge — The Suspicious Domain | Fardeen A. | [Read More](https://medium.com/p/e1f23f747f38) |
-| Tue, 09 Dec 2025 04:38:57 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonzalezking | [Read More](https://medium.com/p/88aa609f638d) |
-| Tue, 09 Dec 2025 04:36:01 GMT | The Hidden Backdoor in Your Tech Stack: Supply-Chain Attacks You Never Saw Coming | Paritosh | [Read More](https://medium.com/p/e9d9d3b8ef47) |
-| Tue, 09 Dec 2025 04:35:20 GMT | Prompt Injection: Complete Security Guide | eyal doron | [Read More](https://medium.com/p/7f90ff09ddd3) |
-| Tue, 09 Dec 2025 04:32:23 GMT | Your First SOC 2-Ready Agent | Quaxel | [Read More](https://medium.com/p/398585b1bd26) |
-| Tue, 09 Dec 2025 04:28:36 GMT | Why the CISM Certification Is a Game-Changer for Your Cybersecurity Career | Cybernous Infosec consulting | [Read More](https://medium.com/p/c7339be9798d) |
-| Tue, 09 Dec 2025 04:26:38 GMT | The “Ghost GPS” Story at Delhi Airport | Raajeev H Dave (AI Man) | [Read More](https://medium.com/p/b05f00ba7c6f) |
-| Tue, 09 Dec 2025 04:17:04 GMT | Tải Poppy Playtime Chapter 3 Apk V1.0.25 Miễn Phí | GOCMOD | [Read More](https://medium.com/p/91e0c1102078) |
-| Tue, 09 Dec 2025 04:14:59 GMT | From Idea to APK: Building a Root Android Proxy Tool for Pentesters (WolfyProxy) | gecr07 | [Read More](https://medium.com/p/aa5d9259530d) |
-| Tue, 09 Dec 2025 04:11:53 GMT | What is a Botnet? - VIIEGO | Rolando | [Read More](https://medium.com/p/f50d58e2e60d) |
