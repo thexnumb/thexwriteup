@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 23:32:15 GMT | My CPTS Exam Experience (Part 3): Failing the Report, Rewriting Everything, and Finally Passing | Kentucky Mathitis | [Read More](https://medium.com/p/43b273caae17) |
+| Tue, 09 Dec 2025 23:31:18 GMT | Running Kali Linux on WSL 2? Here’s How to Connect External USB Wi-Fi or PenDrives (usbipd Guide) | Sharif Madber | [Read More](https://medium.com/p/3ec65c4f61b4) |
+| Tue, 09 Dec 2025 23:28:14 GMT | HackTheBox Windows Event Logs & Finding Evil module — Analyzing Evil With Sysmon & Event Logs | Zainab Akinlawon | [Read More](https://medium.com/p/d8bbbc0c19c1) |
+| Tue, 09 Dec 2025 23:24:50 GMT | SOC104 — Malware Detected Alert Walkthrough — LetsDefend | Mohammad Salam | [Read More](https://medium.com/p/c925b69329c7) |
+| Tue, 09 Dec 2025 23:22:22 GMT | RAM’in Ötesinde: Modern Bellek Yönetimi ve Güvenlik Mimarisi | Ali Yakar | [Read More](https://medium.com/p/9c5876d28c90) |
 | Tue, 09 Dec 2025 23:08:58 GMT | Why Financial Firms Still Struggle With Cybersecurity Compliance (And What to Do About It) | CompuWork | [Read More](https://medium.com/p/36a674fbee5e) |
 | Tue, 09 Dec 2025 22:59:59 GMT | “Why Should I Care About Privacy If I’m Not Doing Anything Wrong?” | Ethics In Beta | [Read More](https://medium.com/p/480251a8dbba) |
 | Tue, 09 Dec 2025 22:58:14 GMT | Developers Love It. Hackers Love It More. The Truth About Vibe Coding | Cyber-AppSec | [Read More](https://medium.com/p/6fbaa9d09e8c) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 15:38:36 GMT | ️‍♂️ From User to Super Admin: A Hacker’s Playbook for Elevation via Misconfigured APIs | 0xUnkn0wn | [Read More](https://medium.com/p/b76da4d20132) |
 | Tue, 09 Dec 2025 15:32:10 GMT | A Complete Guide to Modern Authentication and Authorization | Rusiru Gunaratne | [Read More](https://medium.com/p/eae7b9272efb) |
 | Tue, 09 Dec 2025 15:25:24 GMT | A Simple AI-Assisted Workflow That Helped Me Regain My Writing Momentum | Mansi Sachar | [Read More](https://medium.com/p/d56011f810c6) |
-| Tue, 09 Dec 2025 15:23:21 GMT | #7 Cyber Security : The Essential Building Blocks of the Internet and Their Role in Security | Betül Akmercan | [Read More](https://medium.com/p/6963219009e8) |
-| Tue, 09 Dec 2025 15:19:41 GMT | AI Can’t Be Trusted — But It Still Needs Your Trust | Liz Kelly | [Read More](https://medium.com/p/c4e98405cddb) |
-| Tue, 09 Dec 2025 15:14:18 GMT | When Phishing fights back: Autopsy of an attack that didn’t want to be analyzed. | Shxdowz | [Read More](https://medium.com/p/8fc1fa6e28dd) |
-| Tue, 09 Dec 2025 15:06:24 GMT | Sniffing & Spoofing: The Invisible Threats in Your Network | Ajmir khan | [Read More](https://medium.com/p/cb0b9d876acc) |
-| Tue, 09 Dec 2025 15:05:56 GMT | Rhadamanthys PDF file analysis — How attackers evade defences | RileyHv | [Read More](https://medium.com/p/69e003134c41) |
