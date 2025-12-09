@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 07:28:12 GMT | DoS on a  live streaming and chatting App (Ethically). | Exploit5lover | [Read More](https://medium.com/p/0b5aed816b80) |
+| Tue, 09 Dec 2025 07:22:06 GMT | New in Symfony 7.4: Signing Messages | Matt Mochalkin | [Read More](https://medium.com/p/9d29f8cccf5d) |
 | Tue, 09 Dec 2025 07:18:18 GMT | Staying safe: Understanding cybercrime | Anshi B | [Read More](https://medium.com/p/79d79659d9cf) |
 | Tue, 09 Dec 2025 07:07:57 GMT | Internal vs External Pentest: 12 Tools Clients Don’t Know Exist (and How Pros Use Them) | Very Lazy Tech | [Read More](https://medium.com/p/5a19bb22d91a) |
 | Tue, 09 Dec 2025 07:06:32 GMT | Meet Sanjay Kiran – One of the Youngest Heads of Operations in India’s Private Security Industry… | Sanjay Kiran | [Read More](https://medium.com/p/159e2911f96c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 22:51:31 GMT | Understanding TLD Abuse in Modern Cybercrime | R1cH4t | [Read More](https://medium.com/p/accad623bea9) |
 | Mon, 08 Dec 2025 22:36:48 GMT | Stop Managing Your Image, Start Hearing the Truth: David Cohen on Feedback That Matters | Stacey Chillemi | [Read More](https://medium.com/p/cce1b53d6243) |
 | Mon, 08 Dec 2025 22:36:37 GMT | “Safer Than a Bank”: What All Their IT Providers Told Them | Fabien Soulis | [Read More](https://medium.com/p/e1ea09fcde78) |
-| Mon, 08 Dec 2025 22:20:11 GMT | The Day I Found a Public Laravel Log Viewer — And Why It Could Have Exposed an Entire Hospital… | Anshubind | [Read More](https://medium.com/p/e9eeb2e3f6c3) |
-| Mon, 08 Dec 2025 22:19:51 GMT | When One Slash Broke the Rules — Finding an Open Redirect on a Major Marketplace | Anshubind | [Read More](https://medium.com/p/9d9bc7a39fbd) |
