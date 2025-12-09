@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 21:34:43 GMT | IMPARA NMAP: Esegui Scansioni Strategiche con Script e Automazione — Dai Fondamenti alle… | Diego Rodrigues | [Read More](https://medium.com/p/7ec78833aa8d) |
+| Tue, 09 Dec 2025 21:32:44 GMT | Identity restored. Ready for file-tree generation. | Projectsentinel | [Read More](https://medium.com/p/6001e24e6fe6) |
+| Tue, 09 Dec 2025 21:30:19 GMT | APC Process Injection using NtQueueApcThreadEx2 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/149c00afa57e) |
+| Tue, 09 Dec 2025 21:24:49 GMT | Don’t Lie On Your Cybersecurity Resume | Jbird | [Read More](https://medium.com/p/a5d408577a65) |
 | Tue, 09 Dec 2025 21:18:55 GMT | Why “Compliant” Organizations Still Get Breached: | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/301babe0cb92) |
 | Tue, 09 Dec 2025 21:18:30 GMT | Exposição da Porta 554/RTSP: Análise de Vulnerabilidades em Dispositivos IoT | Evelyse Akemy | [Read More](https://medium.com/p/48f15a8f9559) |
 | Tue, 09 Dec 2025 21:11:38 GMT | picoCTF — HTTP Headers Challenge (who are you ?) | vulnhunter | [Read More](https://medium.com/p/052d4a7434b5) |
@@ -110,7 +114,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 14:12:07 GMT | Call/Message anyone on Facebook directly, bypassing the message request ($$$$+$$$$$) | Samip Aryal | [Read More](https://medium.com/p/c182055b1724) |
 | Tue, 09 Dec 2025 14:10:47 GMT | Rust, AI, and the IDE Trap: What If Your Dev Tools Turned Against You? | Germano Costi | [Read More](https://medium.com/p/4a26121226ab) |
 | Tue, 09 Dec 2025 14:03:52 GMT | Why Your Passwords Are NOT Safe Just Because You Think They Are | Vedad Borovac | [Read More](https://medium.com/p/b4018ed92197) |
-| Tue, 09 Dec 2025 14:02:44 GMT | Why I Turned Off “Background App Refresh” | K_Anik | [Read More](https://medium.com/p/ef03de547608) |
-| Tue, 09 Dec 2025 14:02:44 GMT | Linux Security Habit #3 — The One Command That Exposes a Hacker Before They Use Your Server | Faruk Ahmed | [Read More](https://medium.com/p/c833691ec54b) |
-| Tue, 09 Dec 2025 14:02:29 GMT | Zero Trust Maturity: Building Security Without Weak Links | Hello @ Octellient | [Read More](https://medium.com/p/d26525da3a0b) |
-| Tue, 09 Dec 2025 13:59:18 GMT | I’m writing this to document my journey into Exploit Development — Part 1. | MrLearner | [Read More](https://medium.com/p/b27f3f85aa69) |
