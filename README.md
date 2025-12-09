@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 08:26:28 GMT | When your entire IT runs on 2–3 people… and why that’s actually a huge opportunity | Ahouab Aliouche | [Read More](https://medium.com/p/d3df74e2bb46) |
+| Tue, 09 Dec 2025 08:16:22 GMT | API Breach Forensics Toolkit: Step-by-Step Tools to Uncover Every Hidden Threat | Very Lazy Tech | [Read More](https://medium.com/p/a593991f05ff) |
+| Tue, 09 Dec 2025 08:15:29 GMT | America’s Identity at a Crossroads: How Security Crackdowns and Migration Policies Are Reshaping… | MASUM BILLAH | [Read More](https://medium.com/p/8961f9f6646d) |
+| Tue, 09 Dec 2025 08:12:17 GMT | I Hate Phishing Texts, but I Love These New Android Scam Protection Features | Crystal Crowder | [Read More](https://medium.com/p/0d7e707e1659) |
+| Tue, 09 Dec 2025 08:01:33 GMT | Top-Rated Free Antivirus Apps for PC and Mobile Devices in 2025 | Siyanoav | [Read More](https://medium.com/p/35c28b51c6dc) |
+| Tue, 09 Dec 2025 08:00:27 GMT | Are Your Digital Footprints Quietly Building a Case Against You? | Germano Costi | [Read More](https://medium.com/p/d3b9d2ab0201) |
+| Tue, 09 Dec 2025 07:58:37 GMT | How I Made $5,000 (₹4.49 Lakh) in Just 1 Hour by Scanning JavaScript Files | Mohsin khan | [Read More](https://medium.com/p/18428e9184d9) |
+| Tue, 09 Dec 2025 07:56:34 GMT | Best Free Antivirus for PC: Keep Your Device Secure in 2025 | SiyanoAV | [Read More](https://medium.com/p/1dfe87b74664) |
+| Tue, 09 Dec 2025 07:52:53 GMT | General Data Protection Regulation (GDPR) | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/37523d713cd8) |
+| Tue, 09 Dec 2025 07:49:03 GMT | Prompt Injection — Sched-yule conflict - Advent of Cyber 2025 Day 8 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/30f859bd23a7) |
+| Tue, 09 Dec 2025 07:48:37 GMT | Why Hiring Local Traffic Marshal Services Offers Better On-Site Response | Jane Tang | [Read More](https://medium.com/p/efdfc0127716) |
+| Tue, 09 Dec 2025 07:48:33 GMT | HackTheBox — Conversor | Boubakri Rami | [Read More](https://medium.com/p/99fa97e33726) |
+| Tue, 09 Dec 2025 07:46:43 GMT | How Security Solutions in Singapore Minimize Theft, Fraud, and Internal Risks | Jane Tang | [Read More](https://medium.com/p/921cfdd00433) |
+| Tue, 09 Dec 2025 07:41:40 GMT | From Blocked to Bypassed: The Science Behind Voidly’s AI-Routed VPN | Voidly | [Read More](https://medium.com/p/fb1d420c65e0) |
+| Tue, 09 Dec 2025 07:39:00 GMT | Zuri Njoku Explores Digital Transformation and Its Impact on IT | Zuri Njoku | [Read More](https://medium.com/p/df01d449f85f) |
 | Tue, 09 Dec 2025 07:28:12 GMT | DoS on a  live streaming and chatting App (Ethically). | Exploit5lover | [Read More](https://medium.com/p/0b5aed816b80) |
 | Tue, 09 Dec 2025 07:22:06 GMT | New in Symfony 7.4: Signing Messages | Matt Mochalkin | [Read More](https://medium.com/p/9d29f8cccf5d) |
 | Tue, 09 Dec 2025 07:18:18 GMT | Staying safe: Understanding cybercrime | Anshi B | [Read More](https://medium.com/p/79d79659d9cf) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 01:15:30 GMT | Understanding Avast’s Recent Sandbox Security Failure | Geoffrey Wenger | [Read More](https://medium.com/p/7e2f15d1f8ce) |
 | Tue, 09 Dec 2025 01:15:23 GMT | Massive GitLab Leak Shows Scope Of Exposed Developer Secrets | Geoffrey Wenger | [Read More](https://medium.com/p/7379f4151d34) |
 | Tue, 09 Dec 2025 01:08:03 GMT | The Holiday Fight You’re About to Have Was Scripted Six Weeks Ago by a Bot in St. Petersburg | Kevin Kelly | [Read More](https://medium.com/p/ef92d56dcea5) |
-| Tue, 09 Dec 2025 01:02:13 GMT | Methods of delivery vs. intrusion: the Hacklore edition | @boblord | [Read More](https://medium.com/p/b042f51954a6) |
-| Tue, 09 Dec 2025 00:57:38 GMT | Eleven Devices That Help You Read Environments Like A System | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0da7f5078da0) |
-| Tue, 09 Dec 2025 00:56:28 GMT | The January Shift and My Predictions for 2026. | Ellis Taylor | [Read More](https://medium.com/p/756be3649bc2) |
-| Tue, 09 Dec 2025 00:34:10 GMT | The NBA’s Bot Bunny Fiasco | Franky Arriola | [Read More](https://medium.com/p/d6d9a56266c5) |
-| Tue, 09 Dec 2025 00:33:43 GMT | Next.js’teki Kritik React2Shell Açığı ve OWASP Client-Side Top 10 Güvenlik Riskleri | Kaan Baş | [Read More](https://medium.com/p/956dabbd692c) |
-| Tue, 09 Dec 2025 00:02:12 GMT | API8:2023 Security Misconfiguration: Detección, Impacto y Mitigación | JPablo13 | [Read More](https://medium.com/p/43b57d1a8bab) |
-| Tue, 09 Dec 2025 00:01:55 GMT | The Silent Killer in Your React 19 App: CVE-2025–55182 and How to Fix It in 30 Seconds | Just_Clive | [Read More](https://medium.com/p/05482daa44fa) |
-| Mon, 08 Dec 2025 23:41:14 GMT | AI-Driven Nonprofits: Accelerate Impact with Intelligence and Automation, Part 2 | Atish Dash | [Read More](https://medium.com/p/7f45e2467f3d) |
-| Mon, 08 Dec 2025 23:35:51 GMT | Understanding Cron for Homelabs | Sara Sheon | [Read More](https://medium.com/p/13476a343a76) |
-| Mon, 08 Dec 2025 23:35:14 GMT | WhatsApp Flaw Exposed 3.5 Billion Phone Numbers | Cyber-AppSec | [Read More](https://medium.com/p/67c94666ada1) |
-| Mon, 08 Dec 2025 23:19:48 GMT | Unlocking Growth in East Africa: Key Business Insights for 2025 and Beyond. | Tumuranze | [Read More](https://medium.com/p/fd1f0b4029c6) |
-| Mon, 08 Dec 2025 23:12:13 GMT | My CPTS Exam Experience (Part 2): The Midpoint, The 12 Flags, and All the Mistakes I Made | Kentucky Mathitis | [Read More](https://medium.com/p/0c7e9c241a60) |
-| Mon, 08 Dec 2025 22:51:31 GMT | Understanding TLD Abuse in Modern Cybercrime | R1cH4t | [Read More](https://medium.com/p/accad623bea9) |
-| Mon, 08 Dec 2025 22:36:48 GMT | Stop Managing Your Image, Start Hearing the Truth: David Cohen on Feedback That Matters | Stacey Chillemi | [Read More](https://medium.com/p/cce1b53d6243) |
-| Mon, 08 Dec 2025 22:36:37 GMT | “Safer Than a Bank”: What All Their IT Providers Told Them | Fabien Soulis | [Read More](https://medium.com/p/e1ea09fcde78) |
