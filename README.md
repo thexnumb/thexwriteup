@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 01:41:31 GMT | Subdomain Takeover in 2025  — New Methods + Tools | Vipul Sonule | [Read More](https://medium.com/p/33bba0de6afc) |
+| Tue, 09 Dec 2025 01:32:12 GMT | The Consent Receipt: Proving Your Agent Had Permission | Syntal | [Read More](https://medium.com/p/af7344aff558) |
+| Tue, 09 Dec 2025 01:16:39 GMT | Here’s how to tell if he really loves you: one thing will show you. | Hanpis | [Read More](https://medium.com/p/2cd5373b2520) |
+| Tue, 09 Dec 2025 01:15:30 GMT | Understanding Avast’s Recent Sandbox Security Failure | Geoffrey Wenger | [Read More](https://medium.com/p/7e2f15d1f8ce) |
+| Tue, 09 Dec 2025 01:15:23 GMT | Massive GitLab Leak Shows Scope Of Exposed Developer Secrets | Geoffrey Wenger | [Read More](https://medium.com/p/7379f4151d34) |
+| Tue, 09 Dec 2025 01:08:03 GMT | The Holiday Fight You’re About to Have Was Scripted Six Weeks Ago by a Bot in St. Petersburg | Kevin Kelly | [Read More](https://medium.com/p/ef92d56dcea5) |
+| Tue, 09 Dec 2025 01:02:13 GMT | Methods of delivery vs. intrusion: the Hacklore edition | @boblord | [Read More](https://medium.com/p/b042f51954a6) |
+| Tue, 09 Dec 2025 00:57:38 GMT | Eleven Devices That Help You Read Environments Like A System | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0da7f5078da0) |
+| Tue, 09 Dec 2025 00:56:28 GMT | The January Shift and My Predictions for 2026. | Ellis Taylor | [Read More](https://medium.com/p/756be3649bc2) |
+| Tue, 09 Dec 2025 00:34:10 GMT | The NBA’s Bot Bunny Fiasco | Franky Arriola | [Read More](https://medium.com/p/d6d9a56266c5) |
+| Tue, 09 Dec 2025 00:33:43 GMT | Next.js’teki Kritik React2Shell Açığı ve OWASP Client-Side Top 10 Güvenlik Riskleri | Kaan Baş | [Read More](https://medium.com/p/956dabbd692c) |
+| Tue, 09 Dec 2025 00:02:12 GMT | API8:2023 Security Misconfiguration: Detección, Impacto y Mitigación | JPablo13 | [Read More](https://medium.com/p/43b57d1a8bab) |
+| Tue, 09 Dec 2025 00:01:55 GMT | The Silent Killer in Your React 19 App: CVE-2025–55182 and How to Fix It in 30 Seconds | Just_Clive | [Read More](https://medium.com/p/05482daa44fa) |
+| Mon, 08 Dec 2025 23:41:14 GMT | AI-Driven Nonprofits: Accelerate Impact with Intelligence and Automation, Part 2 | Atish Dash | [Read More](https://medium.com/p/7f45e2467f3d) |
+| Mon, 08 Dec 2025 23:35:51 GMT | Understanding Cron for Homelabs | Sara Sheon | [Read More](https://medium.com/p/13476a343a76) |
+| Mon, 08 Dec 2025 23:35:14 GMT | WhatsApp Flaw Exposed 3.5 Billion Phone Numbers | Cyber-AppSec | [Read More](https://medium.com/p/67c94666ada1) |
 | Mon, 08 Dec 2025 23:19:48 GMT | Unlocking Growth in East Africa: Key Business Insights for 2025 and Beyond. | Tumuranze | [Read More](https://medium.com/p/fd1f0b4029c6) |
 | Mon, 08 Dec 2025 23:12:13 GMT | My CPTS Exam Experience (Part 2): The Midpoint, The 12 Flags, and All the Mistakes I Made | Kentucky Mathitis | [Read More](https://medium.com/p/0c7e9c241a60) |
 | Mon, 08 Dec 2025 22:51:31 GMT | Understanding TLD Abuse in Modern Cybercrime | R1cH4t | [Read More](https://medium.com/p/accad623bea9) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 16:26:20 GMT | From Account Operator to Domain Admin: The Hidden Dangerous 60-Minute Window in Active Directory | Christian Kold Jensen | [Read More](https://medium.com/p/3790e9d5091f) |
 | Mon, 08 Dec 2025 16:22:06 GMT | Investigando um Phishing! — SOC146 Phishing Mail Detected — Blue Team | Otávio Alves | [Read More](https://medium.com/p/a8961c6e19ee) |
 | Mon, 08 Dec 2025 16:21:39 GMT | The 6 Cyber Threats Every Small Business Must Prepare for in 2026 | Cordula Boeck | [Read More](https://medium.com/p/1fc7a99e3bd5) |
-| Mon, 08 Dec 2025 16:21:27 GMT | ️ Essential Cybersecurity Tools — Category-Wise (Simple & Short Guide) | Veeram Reddy | [Read More](https://medium.com/p/0b65f429f517) |
-| Mon, 08 Dec 2025 16:19:48 GMT | Founder MYQER message from ANITA | Myqer | [Read More](https://medium.com/p/b6ff7050731a) |
-| Mon, 08 Dec 2025 16:06:42 GMT | Veracode | Piyali Das | [Read More](https://medium.com/p/1e985b59ca23) |
-| Mon, 08 Dec 2025 16:03:30 GMT | The Hidden Forensic Trails Your PC Leaves Behind | Tattva Tarang | [Read More](https://medium.com/p/c70c5b51efcf) |
-| Mon, 08 Dec 2025 15:54:32 GMT | Most cyber failures start long before an attack. They start with misaligned expectations. | Douglas Ferguson | [Read More](https://medium.com/p/4db28ad03e36) |
-| Mon, 08 Dec 2025 15:48:31 GMT | Elon Musk VS European Union: Bagaimana Agenda-Setting Elon Musk Lewat Platform X Memperkeruh… | Aisyah Adinda Rachma | [Read More](https://medium.com/p/858f5730eccc) |
-| Mon, 08 Dec 2025 15:43:38 GMT | Who Wins in the 2026 Cybersecurity Job Market? | Taimur Ijlal | [Read More](https://medium.com/p/ac96e409ebcb) |
-| Mon, 08 Dec 2025 15:41:46 GMT | Ignite-Writeup TryHackMe Room | Foysalahmed | [Read More](https://medium.com/p/0a192912b54f) |
-| Mon, 08 Dec 2025 15:39:58 GMT | 28,000 Repos, One Breach: Why the Red Hat Incident Is a Wake-Up Call | Jyostnavya Jakkapu | [Read More](https://medium.com/p/35d11dd32e21) |
-| Mon, 08 Dec 2025 15:38:18 GMT | The Power of Practicing the Right Way: How Small Skills Shape Big Futures in Cybersecurity | NineTales | [Read More](https://medium.com/p/000330374b76) |
-| Mon, 08 Dec 2025 15:37:45 GMT | JWT Authentication Bypass via Algorithm Confusion With No Exposed Key | Bash Overflow | [Read More](https://medium.com/p/a9958117b6a2) |
-| Mon, 08 Dec 2025 15:31:58 GMT | 97 Days Unpatched: How #Links Hijack Perplexity Comet, Copilot & Gemini for 3B Users | MohamedAbdelmenem | [Read More](https://medium.com/p/3f43ac93cc17) |
-| Mon, 08 Dec 2025 15:25:34 GMT | freeRASP for Kotlin Multiplaform Guide | Talsec | [Read More](https://medium.com/p/9f6aaa1ec235) |
-| Mon, 08 Dec 2025 15:24:14 GMT | Where are the real value pools? | Kumar M | [Read More](https://medium.com/p/f61dfe758517) |
-| Mon, 08 Dec 2025 15:22:03 GMT | Stop Leaving Your Linux Server Open to Hackers: A Practical Security Guide | Ashish Singh | [Read More](https://medium.com/p/5b65db5df83c) |
-| Mon, 08 Dec 2025 15:21:01 GMT | The Joy of Being Cared For: Understanding Deep Connection | Austi Gene | [Read More](https://medium.com/p/e444fab34b65) |
