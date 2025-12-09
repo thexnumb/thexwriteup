@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 20:39:36 GMT | Cybersecurity Gap Assessments in the NIS2 Era: How AI Enables Real-World Readiness | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/3bd642310dfc) |
+| Tue, 09 Dec 2025 20:38:49 GMT | Hardening Remote Access: A Guide to Using a YubiKey for Secure Sign-In | DevOpsIsRil | [Read More](https://medium.com/p/7e7d3dad15ba) |
+| Tue, 09 Dec 2025 20:22:10 GMT | I Grew Up Outsmarting My Parents’ Internet Rules — Now I Help Build Better Ones | Cyber Dive | [Read More](https://medium.com/p/dfbbebe59483) |
 | Tue, 09 Dec 2025 20:18:35 GMT | Rising Tides, Rising Costs | Juha Uitto | [Read More](https://medium.com/p/7c0d54dc926d) |
 | Tue, 09 Dec 2025 20:16:26 GMT | Origin ip discovery methods | TheCzar | [Read More](https://medium.com/p/d462c28d895a) |
 | Tue, 09 Dec 2025 20:14:02 GMT | TCP Challenges — Part 2 : Encoded String - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/8f707e1785f7) |
@@ -22,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 19:50:41 GMT | Bir Sistemi Fethetmek İçin Neden İnşa Etmeyi Bilmelisiniz? | İsmail İşler | [Read More](https://medium.com/p/f219e7a35a34) |
 | Tue, 09 Dec 2025 19:43:48 GMT | Stay Safe Online. Why I’m Testing Webroot Internet Security? | TechVault | [Read More](https://medium.com/p/4bdc776d5fbc) |
 | Tue, 09 Dec 2025 19:34:22 GMT | Internal Working of Rate Limiting — Token Bucket, Leaky Bucket & Real Production Implementations | Logic Layer | [Read More](https://medium.com/p/30eadadaa39d) |
+| Tue, 09 Dec 2025 19:32:14 GMT | Dove nascondere soldi in casa nel 2025 (senza farsi trovare dai ladri) | Beetle Wood® | [Read More](https://medium.com/p/2cc11c0b6c03) |
 | Tue, 09 Dec 2025 19:31:01 GMT | Infinity Learning lab: Trust Me, Relationship is Malicious — Writeup | Hubert | [Read More](https://medium.com/p/436f6349288c) |
 | Tue, 09 Dec 2025 19:25:45 GMT | The $55,444 Nightmare: A Student’s Google Cloud Mistake and Vital Lessons for Developers | Enes Karataş | [Read More](https://medium.com/p/80a3d767b7fa) |
 | Tue, 09 Dec 2025 19:22:54 GMT | How to Spot a Fake Link Before You Click | Aj | [Read More](https://medium.com/p/5af9e96d9a70) |
@@ -110,7 +114,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 13:30:40 GMT | MAJOR DISCOVERY: 7 WordPress Plugin Vulnerabilities, ZERO False Positives! | ZAST AI | [Read More](https://medium.com/p/1ca0c3f76e2a) |
 | Tue, 09 Dec 2025 13:28:42 GMT | LOW-LEVEL BASICS Part 1 | Infohack | [Read More](https://medium.com/p/89d2ac3c7a6f) |
 | Tue, 09 Dec 2025 13:19:05 GMT | Learning Cybersecurity in 30 Days! What?! | Seray Akman | [Read More](https://medium.com/p/726631894520) |
-| Tue, 09 Dec 2025 13:15:18 GMT | Advent of Cyber 25 — Day 8 — Prompt Injection — Sched-yule conflict | cybertactic | [Read More](https://medium.com/p/85b99fb9b416) |
-| Tue, 09 Dec 2025 13:14:56 GMT | This bug take to me 4 days to understand how is work | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/34892d63b113) |
-| Tue, 09 Dec 2025 13:13:18 GMT | MrRobot Lab Writeup—  Part 1 - CyberDefenders | Yogi Teza | [Read More](https://medium.com/p/19e7da88fef5) |
-| Tue, 09 Dec 2025 13:11:08 GMT | How Access Governance Must Evolve Before Agentic Automation Takes Over | Frank Kresse | [Read More](https://medium.com/p/3218794374b0) |
