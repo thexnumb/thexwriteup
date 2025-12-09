@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 18:27:00 GMT | Common Authentication Weaknesses and How to Avoid Them | Damir Kolobaric | [Read More](https://medium.com/p/e43051d2fcc6) |
+| Tue, 09 Dec 2025 18:26:37 GMT | The Agentic Pivot: 6 Strategic Takeaways from Ignite 2025 That Actually Matter for CISOs | Arsh Riz | [Read More](https://medium.com/p/05185f658aa2) |
+| Tue, 09 Dec 2025 18:12:11 GMT | The IT Governance Trilogy: Understanding COBIT, ITIL, and ISO 27001 | C.N. Husnul Izzati | [Read More](https://medium.com/p/4449a917c7f3) |
+| Tue, 09 Dec 2025 18:02:15 GMT | Ice — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/ef4ff477d7f1) |
+| Tue, 09 Dec 2025 18:02:14 GMT | PicoCTF Writeup: b00tl3gRSA2 | SoBatista | [Read More](https://medium.com/p/2d08ae26ee21) |
+| Tue, 09 Dec 2025 18:00:26 GMT | I Trusted ChatGPT… And This Is What Happened | Andrijon Kapiti | [Read More](https://medium.com/p/e4444d9decca) |
+| Tue, 09 Dec 2025 17:59:54 GMT | 2026 Red Teaming — Kendi Payload Sistemimizi Yazıyoruz | mintercoder | [Read More](https://medium.com/p/31a6d666af9a) |
+| Tue, 09 Dec 2025 17:49:23 GMT | Bug Bounty Beginners: Try This to Find Your First Bug | Rajankumarbarik | [Read More](https://medium.com/p/d5402a78a518) |
+| Tue, 09 Dec 2025 17:48:09 GMT | The Hidden Risk in Home Networks: How ISP Hardware Undermines Security and Learning | Brian Haman, PhD | [Read More](https://medium.com/p/49fb231575f3) |
+| Tue, 09 Dec 2025 17:45:59 GMT | Day 7: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/39c983d1eec8) |
 | Tue, 09 Dec 2025 17:44:38 GMT | The SIEM Screamed, I Froze: My Journey from Panic to Proficiency in the SOC | Zahra Bibi | [Read More](https://medium.com/p/3f89391bd063) |
 | Tue, 09 Dec 2025 17:43:58 GMT | Azure vs AWS vs Google Cloud: Which Cloud Platform Is Right for You? | Techridge Solutions | [Read More](https://medium.com/p/a5aa069727e5) |
 | Tue, 09 Dec 2025 17:33:43 GMT | If You Use the Internet, You need these Cybersecurity Basics to Stay Safe | Shilpa | [Read More](https://medium.com/p/cf718c7ac35d) |
+| Tue, 09 Dec 2025 17:32:31 GMT | Part 36 : Azure Firewall vs NSG — The Real Difference Nobody Explains Clearly | Shubham Barman | [Read More](https://medium.com/p/41c9e9c76133) |
 | Tue, 09 Dec 2025 17:24:48 GMT | Prompt Injection — Sched-yule conflict - AoC 2025 Day — 8 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/9d2f63c2267e) |
 | Tue, 09 Dec 2025 17:24:30 GMT | The Growing Need for Darkweb Scam Awareness in 2025 | Tor BBB | [Read More](https://medium.com/p/67dea3479d3a) |
 | Tue, 09 Dec 2025 17:24:24 GMT | How Hackers Exploited My Next.js Server in MinutesAnd How I Fought Back | Sami Benchaalia | [Read More](https://medium.com/p/79dee257b9b6) |
@@ -103,14 +114,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 12:10:53 GMT | Is it necessary to close files? | Pratyush Prajapati | [Read More](https://medium.com/p/941668bd3c0c) |
 | Tue, 09 Dec 2025 12:09:03 GMT | Surveillance Capitalism | JayCee | [Read More](https://medium.com/p/5940188e8fbf) |
 | Tue, 09 Dec 2025 12:06:37 GMT | The Most Dangerous Threat in Security Isn’t a Weapon — It’s Organizational Denial. | Peter Uliano | [Read More](https://medium.com/p/b84813deb1eb) |
-| Tue, 09 Dec 2025 12:02:13 GMT | How Do You Implement Automated Security Scans in Pipelines? | Harold Finch | [Read More](https://medium.com/p/49931deb2dde) |
-| Tue, 09 Dec 2025 12:00:29 GMT | Inside (OPLAN DEU): How Germany Is Preparing for a NATO–Russia War Scenario | Bajram Geci | [Read More](https://medium.com/p/603e7859273f) |
-| Tue, 09 Dec 2025 12:00:11 GMT | Synthetic Fraud: How AI-Generated Identities Will Break Traditional Security Systems | Marton Schneider | [Read More](https://medium.com/p/4a98c1c94ef4) |
-| Tue, 09 Dec 2025 11:57:42 GMT | Offline and off the road: the hidden perils of the connected car era | Enrique Dans | [Read More](https://medium.com/p/41b431d0b912) |
-| Tue, 09 Dec 2025 11:49:40 GMT | For developers and entrepreneurs: This represents one of the largest asymmetric information… | Berend Watchus | [Read More](https://medium.com/p/a0bfce104aa2) |
-| Tue, 09 Dec 2025 11:37:48 GMT | Generative AI in DevSecOps: Enhancing Security Automation Across the Software Lifecycle | Kadhem SELLAMI | [Read More](https://medium.com/p/6d8b1c36b873) |
-| Tue, 09 Dec 2025 11:36:31 GMT | I Almost Fell for an Email Scam. 10 Seconds in Bitwarden Saved Me | Dan Christ | [Read More](https://medium.com/p/9661a4433ab3) |
-| Tue, 09 Dec 2025 11:30:52 GMT | Gen AI in Cybersecurity: A Personal Look at the New Threats and Defenses Shaping the Future | Swapnil Pratap Singh | [Read More](https://medium.com/p/ba4e0674ac61) |
-| Tue, 09 Dec 2025 11:29:22 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/cac444ce7f9e) |
-| Tue, 09 Dec 2025 11:26:58 GMT | TryHackMEVMs: BruteMe | Justin Jude Cabodil | [Read More](https://medium.com/p/289a16223544) |
-| Tue, 09 Dec 2025 11:25:35 GMT | An Evidence-Driven Model for Accurate Container Vulnerability Attribution | Sonu Preetam Padhy | [Read More](https://medium.com/p/342b0f12da57) |
