@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 15:25:24 GMT | A Simple AI-Assisted Workflow That Helped Me Regain My Writing Momentum | Mansi Sachar | [Read More](https://medium.com/p/d56011f810c6) |
+| Tue, 09 Dec 2025 15:23:21 GMT | #7 Cyber Security : The Essential Building Blocks of the Internet and Their Role in Security | Betül Akmercan | [Read More](https://medium.com/p/6963219009e8) |
+| Tue, 09 Dec 2025 15:19:41 GMT | AI Can’t Be Trusted — But It Still Needs Your Trust | Liz Kelly | [Read More](https://medium.com/p/c4e98405cddb) |
+| Tue, 09 Dec 2025 15:14:18 GMT | When Phishing fights back: Autopsy of an attack that didn’t want to be analyzed. | Shxdowz | [Read More](https://medium.com/p/8fc1fa6e28dd) |
+| Tue, 09 Dec 2025 15:06:24 GMT | Sniffing & Spoofing: The Invisible Threats in Your Network | Ajmir khan | [Read More](https://medium.com/p/cb0b9d876acc) |
+| Tue, 09 Dec 2025 15:05:56 GMT | Rhadamanthys PDF file analysis — How attackers evade defences | RileyHv | [Read More](https://medium.com/p/69e003134c41) |
+| Tue, 09 Dec 2025 15:02:42 GMT | Cyber Briefing: 2025.12.09 | CyberMaterial | [Read More](https://medium.com/p/f53a8e5fc759) |
+| Tue, 09 Dec 2025 14:58:09 GMT | Light v1.2 CTF Write-up: Simple SQLi Bypass | Jadallah K. J. Albanna | [Read More](https://medium.com/p/88b44b1e9ba8) |
+| Tue, 09 Dec 2025 14:55:12 GMT | ⚠️ SQL Injection (SQLi) Attack Example and STRIDE Classification | Md Johirul Islam | [Read More](https://medium.com/p/272454f50a62) |
+| Tue, 09 Dec 2025 14:48:21 GMT | How to Build a Bulletproof Incident Response Workflow in 2025 | Zahra Bibi | [Read More](https://medium.com/p/77dbe9983deb) |
+| Tue, 09 Dec 2025 14:47:17 GMT | The Illusion of Security: What an External Assessment Revealed | Tyreek Haynes | [Read More](https://medium.com/p/cfcb1592aabf) |
 | Tue, 09 Dec 2025 14:36:43 GMT | Tryhackme Walkthrough Linux Machine CTF!! | Mainekhacker | [Read More](https://medium.com/p/57d56c6881ee) |
 | Tue, 09 Dec 2025 14:32:34 GMT | (Comptia A+) Dealing with Cybersecurity Threats: Best Practices for Host and Network Protection | Vignesh R | [Read More](https://medium.com/p/b62c29c635a2) |
 | Tue, 09 Dec 2025 14:27:06 GMT | Information Security Therapy #3- 10 πράγματα που θα ήθελα να ξέρω όταν ξεκίνησα στο security (και… | Elena Sarimichailidou | [Read More](https://medium.com/p/8e2e5be4c334) |
@@ -102,14 +113,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 10:12:01 GMT | Phishing Hunter — Information Security Project | Muhammad Bilal Ashiq | [Read More](https://medium.com/p/787ccc99da3c) |
 | Tue, 09 Dec 2025 10:10:36 GMT | Reliable IT Helpdesk With Remote Support Services Provider in India | Anbarasans | [Read More](https://medium.com/p/2c9cf73162ce) |
 | Tue, 09 Dec 2025 10:04:14 GMT | React2Shell: Why CVE-2025–55182 is a Wake-Up Call for the React Ecosystem | jhasec | [Read More](https://medium.com/p/95712c13a96a) |
-| Tue, 09 Dec 2025 10:02:13 GMT | The Cybersecurity Mindset Thinking Like a Defender in a World of Threats | CYBER CYMRU | [Read More](https://medium.com/p/db247245612c) |
-| Tue, 09 Dec 2025 09:59:54 GMT | How to Write SQL Queries That Avoid Phantom Reads and Indexing Anomalies | Rohan Dutt | [Read More](https://medium.com/p/13175484d115) |
-| Tue, 09 Dec 2025 09:59:35 GMT | The End of “Ctrl+F” Forensics: How LLMs Are Rewriting the Rules of Investigation | Motasem Hamdan | [Read More](https://medium.com/p/d28a27414ce8) |
-| Tue, 09 Dec 2025 09:58:22 GMT | The Benefits of Integrating IT and OT Security Practices | Rahman Iqbal | [Read More](https://medium.com/p/99b69fbaa494) |
-| Tue, 09 Dec 2025 09:50:46 GMT | Networking fundamentals for penetration testing | Vishalraj | [Read More](https://medium.com/p/a52e8abf8327) |
-| Tue, 09 Dec 2025 09:42:09 GMT | Hey Backend Devs, Your Extra JSON is Slowing Down My Flutter App (And It’s a Security Risk!) | Ravi Savaliya | [Read More](https://medium.com/p/fe126751f687) |
-| Tue, 09 Dec 2025 09:41:58 GMT | Let’s Keep the Merry in Merry Christmas | Chiefparks | [Read More](https://medium.com/p/23f3de9d8e63) |
-| Tue, 09 Dec 2025 09:37:02 GMT | Connecting to the AWS CLI without storing access keys in plain text: the A-Z guide (aws login) | Yassine Derouich | [Read More](https://medium.com/p/c595f2978799) |
-| Tue, 09 Dec 2025 09:36:59 GMT | Anonymous FTP + Splunk Logging: A Hands-On Cybersecurity Lab Guide | Abhinsubej | [Read More](https://medium.com/p/f6c143227f6a) |
-| Tue, 09 Dec 2025 09:35:09 GMT | How Transparent IT Policies Boost Supplier Credibility | Rahman Iqbal | [Read More](https://medium.com/p/24dbcd1c4ae9) |
-| Tue, 09 Dec 2025 09:34:45 GMT | La red del Caos | La Trama Del Caos | [Read More](https://medium.com/p/3e6d5b405572) |
