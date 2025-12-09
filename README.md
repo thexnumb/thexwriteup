@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 19:03:31 GMT | AI Is Not Dangerous It Amplifies Whatever Environment It Enters | Syed Zeeshan Hayder Kazmi | [Read More](https://medium.com/p/398ba0791c82) |
+| Tue, 09 Dec 2025 18:59:39 GMT | Greed Inversion | Dreedwhittaker | [Read More](https://medium.com/p/3d610ef8d362) |
+| Tue, 09 Dec 2025 18:49:05 GMT | Why Every Business Needs a Red Team Assessment - Strengthening Cybersecurity | Lumiversesolution | [Read More](https://medium.com/p/bdf91f1dfaba) |
+| Tue, 09 Dec 2025 18:48:12 GMT | Passwords — A Cracking Christmas-Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/85c91e6eaabb) |
+| Tue, 09 Dec 2025 18:37:46 GMT | From Zero to Cryptominer in 6 Minutes: Observing CVE-2025–55182 (React2Shell) Exploitation in the… | Gerisson | [Read More](https://medium.com/p/3e7609584bb2) |
+| Tue, 09 Dec 2025 18:28:18 GMT | Why I Stopped Pasting Text into Random Online Diff Tools (And Built My Own Secure Version) | L.J. | [Read More](https://medium.com/p/7ae0340dbad2) |
 | Tue, 09 Dec 2025 18:27:00 GMT | Common Authentication Weaknesses and How to Avoid Them | Damir Kolobaric | [Read More](https://medium.com/p/e43051d2fcc6) |
 | Tue, 09 Dec 2025 18:26:37 GMT | The Agentic Pivot: 6 Strategic Takeaways from Ignite 2025 That Actually Matter for CISOs | Arsh Riz | [Read More](https://medium.com/p/05185f658aa2) |
 | Tue, 09 Dec 2025 18:12:11 GMT | The IT Governance Trilogy: Understanding COBIT, ITIL, and ISO 27001 | C.N. Husnul Izzati | [Read More](https://medium.com/p/4449a917c7f3) |
@@ -108,9 +114,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 12:30:11 GMT | Password Pandemonium | Tryhacking | [Read More](https://medium.com/p/3f5ba45a72bc) |
 | Tue, 09 Dec 2025 12:29:34 GMT | Executive Protection Security Services Florida: Ensuring Elite Safety and Peace of Mind | Onyx Protective Services | [Read More](https://medium.com/p/76a379188c83) |
 | Tue, 09 Dec 2025 12:25:45 GMT | What is EC-Council’s Ethical Hacking Program? | Cybersecurity Courses | [Read More](https://medium.com/p/70076b58de49) |
-| Tue, 09 Dec 2025 12:22:44 GMT | Discovering Cloud Misconfigurations with Google Dorks | Reju Kole | [Read More](https://medium.com/p/c683274abc90) |
-| Tue, 09 Dec 2025 12:20:00 GMT | CVE-2025-55182 (React2Shell) : The Vulnerability Nobody Asked For | X3RX3S Sec. | [Read More](https://medium.com/p/efd97431efef) |
-| Tue, 09 Dec 2025 12:11:47 GMT | DockerLabs — Psycho | Noelia Presa | [Read More](https://medium.com/p/934052721a3e) |
-| Tue, 09 Dec 2025 12:10:53 GMT | Is it necessary to close files? | Pratyush Prajapati | [Read More](https://medium.com/p/941668bd3c0c) |
-| Tue, 09 Dec 2025 12:09:03 GMT | Surveillance Capitalism | JayCee | [Read More](https://medium.com/p/5940188e8fbf) |
-| Tue, 09 Dec 2025 12:06:37 GMT | The Most Dangerous Threat in Security Isn’t a Weapon — It’s Organizational Denial. | Peter Uliano | [Read More](https://medium.com/p/b84813deb1eb) |
