@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 05:21:55 GMT | A Complete Guide to SMB Enumeration in Active Directory Using NetExec (NXC) | Tareshsharma | [Read More](https://medium.com/p/3bb7e2ff01b9) |
+| Tue, 09 Dec 2025 05:18:01 GMT | A Supplier Guide to Achieving Trusted Security Validation | Kadhijahafiya | [Read More](https://medium.com/p/0f50d8d41c2d) |
+| Tue, 09 Dec 2025 05:09:41 GMT | Top Security Testing Service Companies in the USA | Kristen Carter | [Read More](https://medium.com/p/45cce2d5e8d7) |
+| Tue, 09 Dec 2025 05:09:28 GMT | Top 100 Most Commonly Used FireWall Rules | Neel Shah | [Read More](https://medium.com/p/dc914943eb85) |
+| Tue, 09 Dec 2025 05:03:56 GMT | The Cryptography Concept Journey — Cryptographic Hashing | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4ff6f03dd047) |
+| Tue, 09 Dec 2025 05:03:12 GMT | Android’s Mobile Device Management (MDM): Your Little Customized Government | Mohammad Faiz Fanani | [Read More](https://medium.com/p/ded09ff07481) |
+| Tue, 09 Dec 2025 04:57:51 GMT | OWASP Top 10 ile Derinlemesine Güvenlik Analizi | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/fb0db0c294ff) |
+| Tue, 09 Dec 2025 04:56:58 GMT | Partner with a Leading Remote Monitoring and Management Company & Cyber Security Software Companies | Gainside | [Read More](https://medium.com/p/495a985616de) |
+| Tue, 09 Dec 2025 04:55:33 GMT | Explore Steps to Manage Large Data Volumes in Salesforce? | QuantoKnack Training | [Read More](https://medium.com/p/fcde18f87189) |
+| Tue, 09 Dec 2025 04:53:52 GMT | Find a Cloud Migration Cost Calculator for Hybrid Environments? | Maruti Techlabs | [Read More](https://medium.com/p/6faff09b932c) |
 | Tue, 09 Dec 2025 04:48:00 GMT | CI/CD Secrets Leaks: How to Secure Your Android Build Pipeline | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/4f430796eb60) |
+| Tue, 09 Dec 2025 04:46:58 GMT | Top Security Risks of Using Cracked Software in 2025? | Rowan Johnson | [Read More](https://medium.com/p/de92e07f521d) |
 | Tue, 09 Dec 2025 04:45:06 GMT | Governance, Risk, and Compliance with Artificial Intelligence | Terrell Grenyion | [Read More](https://medium.com/p/63119bec74e4) |
 | Tue, 09 Dec 2025 04:39:46 GMT | HTB Challenge — The Suspicious Domain | Fardeen A. | [Read More](https://medium.com/p/e1f23f747f38) |
 | Tue, 09 Dec 2025 04:38:57 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonzalezking | [Read More](https://medium.com/p/88aa609f638d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 19:08:50 GMT | How I Recovered 5 Years’ Worth of 500GB Lost Files Using Just 3 Windows Commands | Raymond Ebonine | [Read More](https://medium.com/p/46fc5280859d) |
 | Mon, 08 Dec 2025 19:02:04 GMT | Remote Security Agent Colorado Springs — Overwatch Technologies | Overwatch Technologies | [Read More](https://medium.com/p/db968bd1f4f3) |
 | Mon, 08 Dec 2025 18:58:58 GMT | Stop Waiting to Be Hacked: Why Threat Hunting is the Only Skill That Matters | Motasem Hamdan | [Read More](https://medium.com/p/f66d5778760d) |
-| Mon, 08 Dec 2025 18:58:26 GMT | ServiceNow’s Veza Acquisition: What It Means for Identity Security | Steve Anderson | [Read More](https://medium.com/p/b822639f5d29) |
-| Mon, 08 Dec 2025 18:56:24 GMT | Become the bug bounty hunter following my medium blogs | Ahmedayannnn | [Read More](https://medium.com/p/5f8184b56f4f) |
-| Mon, 08 Dec 2025 18:56:22 GMT | You’ve Been Hacked…Now What? A Clear, Step-by-Step Guide for Non-Tech Users (Personal & Business) | Paradise technologies Inc | [Read More](https://medium.com/p/faa84c369cdd) |
-| Mon, 08 Dec 2025 18:55:17 GMT | From “Big vs Small” to “CIA vs DAD”: The Opposites We Never Knew We’d Need in Cybersecurity | Abdulraheem Abdulsalam | [Read More](https://medium.com/p/c3c69e424ef9) |
-| Mon, 08 Dec 2025 18:52:40 GMT | How Zero-Day AI Attacks Exploit Vulnerabilities in Real Time⏰ | Michael King | [Read More](https://medium.com/p/19583bb0cb42) |
-| Mon, 08 Dec 2025 18:51:17 GMT | teslacrypt Ransomware Network Traffic Analysis | Wayne Currie | [Read More](https://medium.com/p/be30976d5d23) |
-| Mon, 08 Dec 2025 18:50:59 GMT | CTF Deconstruction: Lian_Yu — A Journey Through Web, Hex, and Stego | Jadallah K. J. Albanna | [Read More](https://medium.com/p/a2c3f838bd2b) |
-| Mon, 08 Dec 2025 18:49:20 GMT | Human-AI Collaboration That Actually Works in the SOC | Graylog | [Read More](https://medium.com/p/93c10b258a5d) |
-| Mon, 08 Dec 2025 18:47:39 GMT | Why Small Businesses Need Cloud Security in 2026 | Techridge Solutions | [Read More](https://medium.com/p/10cf688f7e2a) |
-| Mon, 08 Dec 2025 18:46:01 GMT | Security Risk Analysis: Identification of Threats, Vulnerabilities, and CVSS Severity Rating… | Diva Rizky Alfitrah | [Read More](https://medium.com/p/6684a2d03488) |
-| Mon, 08 Dec 2025 18:27:25 GMT | Network Discovery — Scan-ta Clause - AoC 2025 Day — 7 - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/46960a37919e) |
