@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 17:44:38 GMT | The SIEM Screamed, I Froze: My Journey from Panic to Proficiency in the SOC | Zahra Bibi | [Read More](https://medium.com/p/3f89391bd063) |
+| Tue, 09 Dec 2025 17:43:58 GMT | Azure vs AWS vs Google Cloud: Which Cloud Platform Is Right for You? | Techridge Solutions | [Read More](https://medium.com/p/a5aa069727e5) |
+| Tue, 09 Dec 2025 17:33:43 GMT | If You Use the Internet, You need these Cybersecurity Basics to Stay Safe | Shilpa | [Read More](https://medium.com/p/cf718c7ac35d) |
+| Tue, 09 Dec 2025 17:24:48 GMT | Prompt Injection — Sched-yule conflict - AoC 2025 Day — 8 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/9d2f63c2267e) |
+| Tue, 09 Dec 2025 17:24:30 GMT | The Growing Need for Darkweb Scam Awareness in 2025 | Tor BBB | [Read More](https://medium.com/p/67dea3479d3a) |
+| Tue, 09 Dec 2025 17:24:24 GMT | How Hackers Exploited My Next.js Server in MinutesAnd How I Fought Back | Sami Benchaalia | [Read More](https://medium.com/p/79dee257b9b6) |
+| Tue, 09 Dec 2025 17:24:23 GMT | CVE-2025–55182 — Remote Code Execution via Unsafe Server-Side Input Handling in Next.js | Arul-Hacks | [Read More](https://medium.com/p/8891768a6f99) |
+| Tue, 09 Dec 2025 17:22:02 GMT | CVE-2025–55182 — Critical RCE in React Server Components | Virendra Kumar | [Read More](https://medium.com/p/069f7e123c40) |
+| Tue, 09 Dec 2025 17:16:57 GMT | How I Built a CISO’s Dark Web Playbook That Uncovered a $ Vulnerability ️‍♂️ | Iski | [Read More](https://medium.com/p/15a3bf2efb1c) |
 | Tue, 09 Dec 2025 17:10:52 GMT | 2025 Durum Değerlendirmesi | Uğur Ertabak | [Read More](https://medium.com/p/bd873e52356d) |
 | Tue, 09 Dec 2025 17:09:58 GMT | “Top 10 Tools Every Bug Bounty Hunter Must Use” | Aman Sharma | [Read More](https://medium.com/p/900425e33f8d) |
 | Tue, 09 Dec 2025 17:02:15 GMT | The Day I Realized Identity Security Was Broken — And Why AI Makes It Worse | Shazmeen Sohail | [Read More](https://medium.com/p/9f24156f2b5d) |
@@ -105,12 +114,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 11:29:22 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/cac444ce7f9e) |
 | Tue, 09 Dec 2025 11:26:58 GMT | TryHackMEVMs: BruteMe | Justin Jude Cabodil | [Read More](https://medium.com/p/289a16223544) |
 | Tue, 09 Dec 2025 11:25:35 GMT | An Evidence-Driven Model for Accurate Container Vulnerability Attribution | Sonu Preetam Padhy | [Read More](https://medium.com/p/342b0f12da57) |
-| Tue, 09 Dec 2025 11:10:37 GMT | SOC Automation With AI: How Companies Can Reduce 70% Alert Fatigue Instantly | AiCyberWatch | [Read More](https://medium.com/p/ebad27ffe735) |
-| Tue, 09 Dec 2025 11:03:11 GMT | The Season Doesn’t Pause for the Sick, the Elderly, or the Caregiver | Abiola Hakeemat Etti-Ayilara | [Read More](https://medium.com/p/7f112cdb05e5) |
-| Tue, 09 Dec 2025 11:02:15 GMT | Day 9 — Runtime Threat Detection (The Shadow with Red Eyes) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/93c00ea086e6) |
-| Tue, 09 Dec 2025 11:01:01 GMT | Firewall Mimarilerinin Kalbi: NAT Mekanizmasını Anlamak | Furkan Ünlü | [Read More](https://medium.com/p/7780f07056c1) |
-| Tue, 09 Dec 2025 10:58:19 GMT | Malicious VSCode Extensions Infiltrate Microsoft’s Registry with Information-Stealing Malware | Technijian | [Read More](https://medium.com/p/ded2bac89df3) |
-| Tue, 09 Dec 2025 10:57:24 GMT | WhatsApp Strict Security Settings Feature Coming Soon for iOS Users | AllBetaInfo | [Read More](https://medium.com/p/3184689f7807) |
-| Tue, 09 Dec 2025 10:51:18 GMT | HyperLink Injection (HLI) | Fabian Rosales (far00t01) | [Read More](https://medium.com/p/f85f3a6eded5) |
-| Tue, 09 Dec 2025 10:48:31 GMT | Strengthening Modern Software Development with Advanced DevSecOps Services | Innov8world - Top Outsourcing Software Company | [Read More](https://medium.com/p/1f63ecde5445) |
-| Tue, 09 Dec 2025 10:47:41 GMT | Hunting Agent Tesla: A Beginner’s Guide to Splunk Malware Analysis | Aderinola Taiwo | [Read More](https://medium.com/p/3c4c075e73de) |
