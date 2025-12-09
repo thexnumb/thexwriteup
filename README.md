@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 04:48:00 GMT | CI/CD Secrets Leaks: How to Secure Your Android Build Pipeline | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/4f430796eb60) |
+| Tue, 09 Dec 2025 04:45:06 GMT | Governance, Risk, and Compliance with Artificial Intelligence | Terrell Grenyion | [Read More](https://medium.com/p/63119bec74e4) |
+| Tue, 09 Dec 2025 04:39:46 GMT | HTB Challenge — The Suspicious Domain | Fardeen A. | [Read More](https://medium.com/p/e1f23f747f38) |
+| Tue, 09 Dec 2025 04:38:57 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonzalezking | [Read More](https://medium.com/p/88aa609f638d) |
+| Tue, 09 Dec 2025 04:36:01 GMT | The Hidden Backdoor in Your Tech Stack: Supply-Chain Attacks You Never Saw Coming | Paritosh | [Read More](https://medium.com/p/e9d9d3b8ef47) |
+| Tue, 09 Dec 2025 04:35:20 GMT | Prompt Injection: Complete Security Guide | eyal doron | [Read More](https://medium.com/p/7f90ff09ddd3) |
+| Tue, 09 Dec 2025 04:32:23 GMT | Your First SOC 2-Ready Agent | Quaxel | [Read More](https://medium.com/p/398585b1bd26) |
+| Tue, 09 Dec 2025 04:28:36 GMT | Why the CISM Certification Is a Game-Changer for Your Cybersecurity Career | Cybernous Infosec consulting | [Read More](https://medium.com/p/c7339be9798d) |
+| Tue, 09 Dec 2025 04:17:04 GMT | Tải Poppy Playtime Chapter 3 Apk V1.0.25 Miễn Phí | GOCMOD | [Read More](https://medium.com/p/91e0c1102078) |
+| Tue, 09 Dec 2025 04:14:59 GMT | From Idea to APK: Building a Root Android Proxy Tool for Pentesters (WolfyProxy) | gecr07 | [Read More](https://medium.com/p/aa5d9259530d) |
+| Tue, 09 Dec 2025 04:11:53 GMT | What is a Botnet? - VIIEGO | Rolando | [Read More](https://medium.com/p/f50d58e2e60d) |
+| Tue, 09 Dec 2025 04:04:34 GMT | Transform Productivity and Cybersecurity Through Expert IT Support for Small Business Solutions | IT Company | [Read More](https://medium.com/p/215889d75fd1) |
+| Tue, 09 Dec 2025 04:03:40 GMT | The Ones Who Walk Quietly | Matthew Horan | [Read More](https://medium.com/p/22f19f1c80b8) |
+| Tue, 09 Dec 2025 04:02:30 GMT | China’s Carrier Ops Stoke Japan’s Alarm Over Taiwan Invasion | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/b19dcb8f0108) |
 | Tue, 09 Dec 2025 03:54:54 GMT | React2Shell: The Most Serious React Vulnerability Since Log4Shell? | Hussein Ali | [Read More](https://medium.com/p/1af4a3ae0931) |
+| Tue, 09 Dec 2025 03:54:43 GMT | Tải Hack Stickman The Flash (Menu, Full Tiền, Kim Cương, Mở Khóa Tất Cả ) v1.78.23 | genzvnmod | [Read More](https://medium.com/p/f3c217bbe816) |
 | Tue, 09 Dec 2025 03:49:57 GMT | The Danger of Facial Recognition Technology: A Call to Action | Elijah L | [Read More](https://medium.com/p/7b13d2f99ebe) |
 | Tue, 09 Dec 2025 03:47:29 GMT | Tải Hack Supreme Duelist Stickman (Full Tiền, Max Level) v4.0.4 | Game4u | [Read More](https://medium.com/p/03cb7b74e8c1) |
 | Tue, 09 Dec 2025 03:32:15 GMT | The Hidden Chain: How a Simple ZIP File Leads to Full WhatsApp Session Hijacking | Deven Chhajed | [Read More](https://medium.com/p/292b013e41e9) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 18:47:39 GMT | Why Small Businesses Need Cloud Security in 2026 | Techridge Solutions | [Read More](https://medium.com/p/10cf688f7e2a) |
 | Mon, 08 Dec 2025 18:46:01 GMT | Security Risk Analysis: Identification of Threats, Vulnerabilities, and CVSS Severity Rating… | Diva Rizky Alfitrah | [Read More](https://medium.com/p/6684a2d03488) |
 | Mon, 08 Dec 2025 18:27:25 GMT | Network Discovery — Scan-ta Clause - AoC 2025 Day — 7 - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/46960a37919e) |
-| Mon, 08 Dec 2025 18:27:01 GMT | What Cyber Incidents Taught Us About 2025? | TechDemocracy | [Read More](https://medium.com/p/9f8d46b5e76c) |
-| Mon, 08 Dec 2025 18:26:35 GMT | Shadow AI Just Got a Promotion: A Look at Microsoft’s ‘Agentic’ Defender | Arsh Riz | [Read More](https://medium.com/p/b757512f6fe2) |
-| Mon, 08 Dec 2025 18:26:31 GMT | SHA1 Hulud: Why Mobile and Kotlin Multiplatform Developers Should Still Pay Attention | Ryan W | [Read More](https://medium.com/p/4bff77c640d5) |
-| Mon, 08 Dec 2025 18:26:05 GMT | Ratio1 RedMesh: Turning Penetration Testing into a Distributed System | Ratio1 | [Read More](https://medium.com/p/e2989efaf07b) |
-| Mon, 08 Dec 2025 18:23:13 GMT | The Version of Me You Never Knew (Because I Never Showed You) | jig N | [Read More](https://medium.com/p/355f2dd142de) |
-| Mon, 08 Dec 2025 18:21:19 GMT | I Have a Confession to Make. I Cheated. | Diana Cristina Culincu | [Read More](https://medium.com/p/30ccddcb57e5) |
-| Mon, 08 Dec 2025 18:21:14 GMT | Maravel-Framework 10.54.3 security and speed improvement | marius-ciclistu | [Read More](https://medium.com/p/35479a65f70e) |
-| Mon, 08 Dec 2025 18:19:21 GMT | Workplace Vulnerability: Share or else… | TheCorp101 | [Read More](https://medium.com/p/6e5912eb81bd) |
-| Mon, 08 Dec 2025 18:17:08 GMT | Jury Duty Can Expose Personal Data | News Folder 19 | [Read More](https://medium.com/p/2ae5fa81a62e) |
-| Mon, 08 Dec 2025 18:07:09 GMT | Blaster — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/181250b37cca) |
-| Mon, 08 Dec 2025 18:02:17 GMT | The STRATA-8 Framework: A Bottom-Up Discovery Model for AI Security Experts | Kenneth Kasuba | [Read More](https://medium.com/p/a07267adf1bc) |
-| Mon, 08 Dec 2025 17:59:07 GMT | Turning My Gaming PC Into an Enterprise-Hardened Windows 11 Workstation (HomeLab Project) | JD Herring | [Read More](https://medium.com/p/523f52fe5054) |
-| Mon, 08 Dec 2025 17:57:45 GMT | From USB Malware to AI-IDE Bugs: This Week’s Cyber Threats Demanding Attention | Chetan Seripally | [Read More](https://medium.com/p/d96f60d07430) |
-| Mon, 08 Dec 2025 17:55:36 GMT | AI in 2025 Wrapped: How Artificial Intelligence Transformed Work, Creativity & Life | Namra khan Ghouri | [Read More](https://medium.com/p/89c6626c79d0) |
-| Mon, 08 Dec 2025 17:53:16 GMT | Smartphones in the Crosshairs: The Evolution of Mobile Malware | Craig Tsikiwa | [Read More](https://medium.com/p/73f194603ba7) |
