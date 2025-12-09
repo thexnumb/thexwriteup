@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 09:41:58 GMT | Let’s Keep the Merry in Merry Christmas | Chiefparks | [Read More](https://medium.com/p/23f3de9d8e63) |
+| Tue, 09 Dec 2025 09:37:02 GMT | Connecting to the AWS CLI without storing access keys in plain text: the A-Z guide (aws login) | Yassine Derouich | [Read More](https://medium.com/p/c595f2978799) |
+| Tue, 09 Dec 2025 09:35:09 GMT | How Transparent IT Policies Boost Supplier Credibility | Rahman Iqbal | [Read More](https://medium.com/p/24dbcd1c4ae9) |
+| Tue, 09 Dec 2025 09:34:45 GMT | La red del Caos | La Trama Del Caos | [Read More](https://medium.com/p/3e6d5b405572) |
+| Tue, 09 Dec 2025 09:34:16 GMT | Not Everyone Will Know You | Ronnie Charrier | [Read More](https://medium.com/p/96c32068029f) |
+| Tue, 09 Dec 2025 09:27:04 GMT | Leaking Secrets Without Realizing: A Beginner’s Guide to Information Disclosure | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/8f5f39a7feb8) |
 | Tue, 09 Dec 2025 09:23:45 GMT | Bug Bounty Hunting — Complete Guide (Part-159) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/159c17d767e2) |
 | Tue, 09 Dec 2025 09:23:17 GMT | Bug Bounty Hunting — Complete Guide (Part-158) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/bd392c1a970f) |
+| Tue, 09 Dec 2025 09:21:46 GMT | Cybersecurity Training Online: Essential Certifications You Should Know in 2026 | Janbask Training | [Read More](https://medium.com/p/c4cc5a4c2d71) |
 | Tue, 09 Dec 2025 09:18:53 GMT | Syndika x CredShields: Supporting Security for Web3 Teams That Ship | Syndika | [Read More](https://medium.com/p/9bfd29465ce8) |
 | Tue, 09 Dec 2025 09:17:26 GMT | 5 easy-to-use VPNs for beginners with 1-click connections | Safelyo VPN | [Read More](https://medium.com/p/62f44ee86ef8) |
 | Tue, 09 Dec 2025 09:15:09 GMT | Drosera Alerts — What they are, how they work, and why they matter. | MAVERICK | [Read More](https://medium.com/p/e07f75c6e48f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 04:17:04 GMT | Tải Poppy Playtime Chapter 3 Apk V1.0.25 Miễn Phí | GOCMOD | [Read More](https://medium.com/p/91e0c1102078) |
 | Tue, 09 Dec 2025 04:14:59 GMT | From Idea to APK: Building a Root Android Proxy Tool for Pentesters (WolfyProxy) | gecr07 | [Read More](https://medium.com/p/aa5d9259530d) |
 | Tue, 09 Dec 2025 04:11:53 GMT | What is a Botnet? - VIIEGO | Rolando | [Read More](https://medium.com/p/f50d58e2e60d) |
-| Tue, 09 Dec 2025 04:04:34 GMT | Transform Productivity and Cybersecurity Through Expert IT Support for Small Business Solutions | IT Company | [Read More](https://medium.com/p/215889d75fd1) |
-| Tue, 09 Dec 2025 04:03:40 GMT | The Ones Who Walk Quietly | Matthew Horan | [Read More](https://medium.com/p/22f19f1c80b8) |
-| Tue, 09 Dec 2025 04:02:30 GMT | China’s Carrier Ops Stoke Japan’s Alarm Over Taiwan Invasion | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/b19dcb8f0108) |
-| Tue, 09 Dec 2025 03:54:54 GMT | React2Shell: The Most Serious React Vulnerability Since Log4Shell? | Hussein Ali | [Read More](https://medium.com/p/1af4a3ae0931) |
-| Tue, 09 Dec 2025 03:54:43 GMT | Tải Hack Stickman The Flash (Menu, Full Tiền, Kim Cương, Mở Khóa Tất Cả ) v1.78.23 | genzvnmod | [Read More](https://medium.com/p/f3c217bbe816) |
-| Tue, 09 Dec 2025 03:49:57 GMT | The Danger of Facial Recognition Technology: A Call to Action | Elijah L | [Read More](https://medium.com/p/7b13d2f99ebe) |
-| Tue, 09 Dec 2025 03:47:29 GMT | Tải Hack Supreme Duelist Stickman (Full Tiền, Max Level) v4.0.4 | Game4u | [Read More](https://medium.com/p/03cb7b74e8c1) |
