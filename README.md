@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 16:36:33 GMT | View To Peace Building And Security In The Modern World; How Can We End Banditry In Nigeria? | Goto Emmanuel | [Read More](https://medium.com/p/69deb3309467) |
+| Tue, 09 Dec 2025 16:33:29 GMT | Hey Medium fam…
+ Tonight, I’m writing this with a chill down my spine. | Hachtechnology | [Read More](https://medium.com/p/068c8dbf38eb) |
 | Tue, 09 Dec 2025 16:26:26 GMT | If You Think a Vulnerable Man Is Weak…You Might Be the Problem | THE WRITER’S LENS | [Read More](https://medium.com/p/6c1e46275797) |
 | Tue, 09 Dec 2025 16:20:24 GMT | Agentic AI Attacks and the New Cybersecurity Landscape | Gadi Singer | [Read More](https://medium.com/p/96f4dc41ce9c) |
 | Tue, 09 Dec 2025 16:12:26 GMT | How to Store Critical Secrets for 100+ Years | Mohamad Nashaat | [Read More](https://medium.com/p/f4006765a544) |
@@ -111,5 +114,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 10:45:59 GMT | I got €€ for finding a bug that others missed | Rajveer | [Read More](https://medium.com/p/3c176d4c3436) |
 | Tue, 09 Dec 2025 10:44:08 GMT | What is Sanchar Saathi App? Features, Benefits & How to Use It | Ayza Anam | [Read More](https://medium.com/p/ad1b2dcb0981) |
 | Tue, 09 Dec 2025 10:42:59 GMT | techNbuddy: Where Real Networking Meets Career Growth | techNbuddy | [Read More](https://medium.com/p/7c6206d6df74) |
-| Tue, 09 Dec 2025 10:42:20 GMT | Executive Briefing for Digital Leaders 2025 | MJ Tangaan | [Read More](https://medium.com/p/0f35cfc29283) |
-| Tue, 09 Dec 2025 10:40:01 GMT | Building Your Own Python Password Generator | Dorian Sotpyrc | [Read More](https://medium.com/p/51d1e48f24dd) |
