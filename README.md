@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 23:08:58 GMT | Why Financial Firms Still Struggle With Cybersecurity Compliance (And What to Do About It) | CompuWork | [Read More](https://medium.com/p/36a674fbee5e) |
+| Tue, 09 Dec 2025 22:59:59 GMT | “Why Should I Care About Privacy If I’m Not Doing Anything Wrong?” | Ethics In Beta | [Read More](https://medium.com/p/480251a8dbba) |
+| Tue, 09 Dec 2025 22:58:14 GMT | Developers Love It. Hackers Love It More. The Truth About Vibe Coding | Cyber-AppSec | [Read More](https://medium.com/p/6fbaa9d09e8c) |
+| Tue, 09 Dec 2025 22:45:10 GMT | Disadvantages of Running a Business Without a Website | Victory Nnaemeka | [Read More](https://medium.com/p/2cd00d80e80a) |
+| Tue, 09 Dec 2025 22:42:10 GMT | Improper Assets Management & Mass Assignment: Two API Bugs That Quietly Destroy Systems | Mahmoudelshorpagy | [Read More](https://medium.com/p/e3af28ec60d3) |
+| Tue, 09 Dec 2025 22:39:17 GMT | There and Back Again: My Journey into Offensive Security | eron clarke | [Read More](https://medium.com/p/d6acacf56714) |
+| Tue, 09 Dec 2025 22:36:08 GMT | Passwords — A Cracking Christmas - Advent of Cyber 2025 Day 9 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/0c86af4af140) |
 | Tue, 09 Dec 2025 22:11:00 GMT | Become bug bounty hunter part 2 | Ahmedayannnn | [Read More](https://medium.com/p/cf5c3afc36f0) |
 | Tue, 09 Dec 2025 22:04:44 GMT | Qradar101 Challenge — Cyberdefenders | Saif-eldeen | [Read More](https://medium.com/p/bb7c741116ee) |
 | Tue, 09 Dec 2025 22:02:38 GMT | I Can’t Tell What’s Real Anymore: AI Video Is Destroying Trust | CodeOrbit | [Read More](https://medium.com/p/0c21126ce433) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 15:14:18 GMT | When Phishing fights back: Autopsy of an attack that didn’t want to be analyzed. | Shxdowz | [Read More](https://medium.com/p/8fc1fa6e28dd) |
 | Tue, 09 Dec 2025 15:06:24 GMT | Sniffing & Spoofing: The Invisible Threats in Your Network | Ajmir khan | [Read More](https://medium.com/p/cb0b9d876acc) |
 | Tue, 09 Dec 2025 15:05:56 GMT | Rhadamanthys PDF file analysis — How attackers evade defences | RileyHv | [Read More](https://medium.com/p/69e003134c41) |
-| Tue, 09 Dec 2025 15:02:42 GMT | Cyber Briefing: 2025.12.09 | CyberMaterial | [Read More](https://medium.com/p/f53a8e5fc759) |
-| Tue, 09 Dec 2025 14:58:09 GMT | Light v1.2 CTF Write-up: Simple SQLi Bypass | Jadallah K. J. Albanna | [Read More](https://medium.com/p/88b44b1e9ba8) |
-| Tue, 09 Dec 2025 14:55:12 GMT | ⚠️ SQL Injection (SQLi) Attack Example and STRIDE Classification | Md Johirul Islam | [Read More](https://medium.com/p/272454f50a62) |
-| Tue, 09 Dec 2025 14:48:21 GMT | How to Build a Bulletproof Incident Response Workflow in 2025 | Zahra Bibi | [Read More](https://medium.com/p/77dbe9983deb) |
-| Tue, 09 Dec 2025 14:47:17 GMT | The Illusion of Security: What an External Assessment Revealed | Tyreek Haynes | [Read More](https://medium.com/p/cfcb1592aabf) |
-| Tue, 09 Dec 2025 14:36:43 GMT | Tryhackme Walkthrough Linux Machine CTF!! | Mainekhacker | [Read More](https://medium.com/p/57d56c6881ee) |
-| Tue, 09 Dec 2025 14:32:34 GMT | (Comptia A+) Dealing with Cybersecurity Threats: Best Practices for Host and Network Protection | Vignesh R | [Read More](https://medium.com/p/b62c29c635a2) |
