@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 03:07:44 GMT | How AI can ruin lives through illusion, misinformation and misuse | Shazam | [Read More](https://medium.com/p/4d2cbab7c463) |
+| Tue, 09 Dec 2025 02:53:56 GMT | How Google Maps Calculates Fastest Routes — When The World Changes Every Minute | The Dev Notebook | [Read More](https://medium.com/p/bb55b5ec9ef6) |
+| Tue, 09 Dec 2025 02:53:02 GMT | TryHackMe: Overpass Writeup | cbev | [Read More](https://medium.com/p/cae2f668b909) |
+| Tue, 09 Dec 2025 02:46:28 GMT | Shadow AI: The Governance Problem You’re Already Behind On | Warwick McIntosh | [Read More](https://medium.com/p/f081bbfc9c2c) |
+| Tue, 09 Dec 2025 02:32:34 GMT | La FTC maintient l’interdiction contre le fondateur de stalkerware | L'ABESTIT | [Read More](https://medium.com/p/7163be574221) |
+| Tue, 09 Dec 2025 02:20:06 GMT | The Illusion AI in Cyber Security: Complete Autonomy | Jeremy | [Read More](https://medium.com/p/9b071939a566) |
+| Tue, 09 Dec 2025 02:17:45 GMT | Hack the Box “Precious” CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/a2296ec1fd32) |
+| Tue, 09 Dec 2025 02:11:28 GMT | How I Study DFIR Every Day — My Routine, Tools, and Mindset | Xeipher | [Read More](https://medium.com/p/42e9950061e6) |
+| Tue, 09 Dec 2025 02:10:51 GMT | How to Stop “Clean” Residential Proxies From Getting Flagged | TokenGlim | [Read More](https://medium.com/p/4e280d3368e6) |
+| Tue, 09 Dec 2025 02:07:54 GMT | When Innovation Outpaces Protection: Closing the Cybersecurity Gap in Africa’s Healthcare | Digital Health Africa | [Read More](https://medium.com/p/f2dd8305ec49) |
+| Tue, 09 Dec 2025 02:06:24 GMT | Tuesday Morning Threat Report: Dec 9, 2025 | Mark Maguire | [Read More](https://medium.com/p/4641d21e4275) |
+| Tue, 09 Dec 2025 01:51:14 GMT | Bug Bounty Hunting: The Real Playbook for Beginners That Actually Works | Monika sharma | [Read More](https://medium.com/p/97ff6ad81e2a) |
+| Tue, 09 Dec 2025 01:51:10 GMT | Terrorism and crime research tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/cfb0dc3e0c36) |
+| Tue, 09 Dec 2025 01:51:04 GMT | Best Chrome extensions for OSINT | loyalonlytoday | [Read More](https://medium.com/p/505b067b51e4) |
 | Tue, 09 Dec 2025 01:41:31 GMT | Subdomain Takeover in 2025  — New Methods + Tools | Vipul Sonule | [Read More](https://medium.com/p/33bba0de6afc) |
 | Tue, 09 Dec 2025 01:32:12 GMT | The Consent Receipt: Proving Your Agent Had Permission | Syntal | [Read More](https://medium.com/p/af7344aff558) |
 | Tue, 09 Dec 2025 01:16:39 GMT | Here’s how to tell if he really loves you: one thing will show you. | Hanpis | [Read More](https://medium.com/p/2cd5373b2520) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 17:37:18 GMT | How to Prioritize Vulnerabilities When Everything Looks Critical | Digital Defense | [Read More](https://medium.com/p/94fc48965dd2) |
 | Mon, 08 Dec 2025 17:31:35 GMT | Lab: User role can be modified in user profile | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6bcf0def68c0) |
 | Mon, 08 Dec 2025 17:28:08 GMT | Backdoor CTF-2025: Flask of Cookies writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/fcd81b892608) |
-| Mon, 08 Dec 2025 17:28:02 GMT | .NET Core’da Kapıları Kilitlemek: JWT (JSON Web Token) Mantığı | Mehmet Sönmez | [Read More](https://medium.com/p/dce5a8930096) |
-| Mon, 08 Dec 2025 17:21:44 GMT | Vibecoding Feels Magical — But Is It Safe? A Gentle Reality Check for the AI Coding Era | APARNA BODA | [Read More](https://medium.com/p/58f55b3fe0c1) |
-| Mon, 08 Dec 2025 17:16:27 GMT | Cloudflare Outage Today Knocks Major Global Websites Offline | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/40b4a4250e0a) |
-| Mon, 08 Dec 2025 17:12:56 GMT | The Unconventional OSINT: How Dark Web Tools Gave Me the Edge to Find a $ Bug ️‍♂️ | Iski | [Read More](https://medium.com/p/29397e2d6a1a) |
-| Mon, 08 Dec 2025 17:12:45 GMT | How to Remediate the React2Shell Vulnerability (CVE-2025–55182): A Step-by-Step Guide | Vamshi Vangapally | [Read More](https://medium.com/p/bcb0d3dcc79c) |
-| Mon, 08 Dec 2025 17:11:03 GMT | Encryption vs Hashing: What’s the Real Difference? | Jitesh Dalsaniya | [Read More](https://medium.com/p/7fc8fc5d877e) |
-| Mon, 08 Dec 2025 17:07:17 GMT | Only Prompt Injection? How MCP Turns AI into an Attack Vector | karincayiyen | [Read More](https://medium.com/p/b6a417047468) |
-| Mon, 08 Dec 2025 17:05:51 GMT | Simple Hacking Technique for Beginners (2025 Edition) | Scofield O. Idehen | [Read More](https://medium.com/p/0bb4d7d7b3a7) |
-| Mon, 08 Dec 2025 17:01:27 GMT | Why Choose Rainbow Secure for MFA & IAM: A Blueprint for Business Resilience | Dr. Shashi Karhail | [Read More](https://medium.com/p/69943562798c) |
-| Mon, 08 Dec 2025 17:00:50 GMT | The “Niki Minja” Moment | Lessons in the Mundane | [Read More](https://medium.com/p/88e70c394e62) |
-| Mon, 08 Dec 2025 16:32:10 GMT | Inside Scammer Playbooks: Banking Manipulation Scripts Exposed | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/da4b3c011b6a) |
-| Mon, 08 Dec 2025 16:26:20 GMT | From Account Operator to Domain Admin: The Hidden Dangerous 60-Minute Window in Active Directory | Christian Kold Jensen | [Read More](https://medium.com/p/3790e9d5091f) |
-| Mon, 08 Dec 2025 16:22:06 GMT | Investigando um Phishing! — SOC146 Phishing Mail Detected — Blue Team | Otávio Alves | [Read More](https://medium.com/p/a8961c6e19ee) |
-| Mon, 08 Dec 2025 16:21:39 GMT | The 6 Cyber Threats Every Small Business Must Prepare for in 2026 | Cordula Boeck | [Read More](https://medium.com/p/1fc7a99e3bd5) |
