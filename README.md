@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 11:37:48 GMT | Generative AI in DevSecOps: Enhancing Security Automation Across the Software Lifecycle | Kadhem SELLAMI | [Read More](https://medium.com/p/6d8b1c36b873) |
+| Tue, 09 Dec 2025 11:36:31 GMT | I Almost Fell for an Email Scam. 10 Seconds in Bitwarden Saved Me | Dan Christ | [Read More](https://medium.com/p/9661a4433ab3) |
+| Tue, 09 Dec 2025 11:30:52 GMT | Gen AI in Cybersecurity: A Personal Look at the New Threats and Defenses Shaping the Future | Swapnil Pratap Singh | [Read More](https://medium.com/p/ba4e0674ac61) |
+| Tue, 09 Dec 2025 11:29:22 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/cac444ce7f9e) |
+| Tue, 09 Dec 2025 11:26:58 GMT | TryHackMEVMs: BruteMe | Justin Jude Cabodil | [Read More](https://medium.com/p/289a16223544) |
+| Tue, 09 Dec 2025 11:25:35 GMT | An Evidence-Driven Model for Accurate Container Vulnerability Attribution | Sonu Preetam Padhy | [Read More](https://medium.com/p/342b0f12da57) |
 | Tue, 09 Dec 2025 11:10:37 GMT | SOC Automation With AI: How Companies Can Reduce 70% Alert Fatigue Instantly | AiCyberWatch | [Read More](https://medium.com/p/ebad27ffe735) |
 | Tue, 09 Dec 2025 11:03:11 GMT | The Season Doesn’t Pause for the Sick, the Elderly, or the Caregiver | Abiola Hakeemat Etti-Ayilara | [Read More](https://medium.com/p/7f112cdb05e5) |
 | Tue, 09 Dec 2025 11:02:15 GMT | Day 9 — Runtime Threat Detection (The Shadow with Red Eyes) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/93c00ea086e6) |
+| Tue, 09 Dec 2025 11:01:01 GMT | Firewall Mimarilerinin Kalbi: NAT Mekanizmasını Anlamak | Furkan Ünlü | [Read More](https://medium.com/p/7780f07056c1) |
 | Tue, 09 Dec 2025 10:58:19 GMT | Malicious VSCode Extensions Infiltrate Microsoft’s Registry with Information-Stealing Malware | Technijian | [Read More](https://medium.com/p/ded2bac89df3) |
 | Tue, 09 Dec 2025 10:57:24 GMT | WhatsApp Strict Security Settings Feature Coming Soon for iOS Users | AllBetaInfo | [Read More](https://medium.com/p/3184689f7807) |
 | Tue, 09 Dec 2025 10:51:18 GMT | HyperLink Injection (HLI) | Fabian Rosales (far00t01) | [Read More](https://medium.com/p/f85f3a6eded5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 06:36:52 GMT | How to learn cyber security: A guide for beginners | AdverdizeSG | [Read More](https://medium.com/p/b8ef8397aa5e) |
 | Tue, 09 Dec 2025 06:36:19 GMT | The CISSP Diaries: Dancin’ with Domain 2 — Asset Security (Or: Why Your Data is Prettier Than… | Mainak Biswas | [Read More](https://medium.com/p/39421c4f6f14) |
 | Tue, 09 Dec 2025 06:35:31 GMT | BREAKING: CMU Researchers Found That “Vibe Coding” Is Insecure. | Athirani | [Read More](https://medium.com/p/3da0fb8583f0) |
-| Tue, 09 Dec 2025 06:32:30 GMT | Prompt Injection — Sched-yule conflict | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/82e185ebd7d8) |
-| Tue, 09 Dec 2025 06:29:36 GMT | The Best Vulnerability Disclosure Programs (VDP): A 2026 Guide for Security Researchers | ghostyjoe | [Read More](https://medium.com/p/21fa5588b8e4) |
-| Tue, 09 Dec 2025 06:26:07 GMT | The Daily Tech Digest: 09 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/27374d228a93) |
-| Tue, 09 Dec 2025 06:19:10 GMT | The Executive’s Guide to Enterprise Cloud Security & AI Privacy | Gopal Joshi | [Read More](https://medium.com/p/5c1a93880b0d) |
-| Tue, 09 Dec 2025 06:16:40 GMT | Known-Plaintext Attack on PHP-Proxy: From Broken Encryption to FastCGI RCE | Muh. Fani Akbar | [Read More](https://medium.com/p/4942523c7955) |
-| Tue, 09 Dec 2025 06:15:52 GMT | SSH Cheat Sheet | Oz | [Read More](https://medium.com/p/4286e41fb92c) |
-| Tue, 09 Dec 2025 06:12:58 GMT | Part 15: Virtual Box IT Home Lab — Understanding Delegate control, and account lockout. | Declan | [Read More](https://medium.com/p/b73a634538a9) |
