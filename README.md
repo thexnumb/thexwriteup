@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 19:34:22 GMT | Internal Working of Rate Limiting — Token Bucket, Leaky Bucket & Real Production Implementations | Logic Layer | [Read More](https://medium.com/p/30eadadaa39d) |
+| Tue, 09 Dec 2025 19:31:01 GMT | Infinity Learning lab: Trust Me, Relationship is Malicious — Writeup | Hubert | [Read More](https://medium.com/p/436f6349288c) |
+| Tue, 09 Dec 2025 19:25:45 GMT | The $55,444 Nightmare: A Student’s Google Cloud Mistake and Vital Lessons for Developers | Enes Karataş | [Read More](https://medium.com/p/80a3d767b7fa) |
+| Tue, 09 Dec 2025 19:22:54 GMT | How to Spot a Fake Link Before You Click | Aj | [Read More](https://medium.com/p/5af9e96d9a70) |
+| Tue, 09 Dec 2025 19:22:31 GMT | Assumed Breach SOC Lab: Internal RDP Brute Force, Active Directory Recon, and Wazuh Detection | Liam smydo | [Read More](https://medium.com/p/cb4d45a989b7) |
+| Tue, 09 Dec 2025 19:18:22 GMT | Picture this: it’s a quiet Tuesday afternoon. | Kuldeep Pisda | [Read More](https://medium.com/p/a8eeb631cc23) |
+| Tue, 09 Dec 2025 19:14:56 GMT | DevOps Security Myths — Mistakes That Put Your Entire Pipeline at Risk | JSOC IT BLOG | [Read More](https://medium.com/p/0993629819bc) |
 | Tue, 09 Dec 2025 19:03:31 GMT | AI Is Not Dangerous It Amplifies Whatever Environment It Enters | Syed Zeeshan Hayder Kazmi | [Read More](https://medium.com/p/398ba0791c82) |
 | Tue, 09 Dec 2025 18:59:39 GMT | Greed Inversion | Dreedwhittaker | [Read More](https://medium.com/p/3d610ef8d362) |
 | Tue, 09 Dec 2025 18:49:05 GMT | Why Every Business Needs a Red Team Assessment - Strengthening Cybersecurity | Lumiversesolution | [Read More](https://medium.com/p/bdf91f1dfaba) |
@@ -107,10 +114,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 12:47:50 GMT | The Unauthenticated RCE Deserialization Disaster: Deep Dive into React Server Components… | Albert Corzo | [Read More](https://medium.com/p/a150598202d9) |
 | Tue, 09 Dec 2025 12:45:11 GMT | Cyber Paths & Second Chances: Why Tech Careers Are Changing Lives | cyberpathsfundraisingcup | [Read More](https://medium.com/p/1fed60ea0545) |
 | Tue, 09 Dec 2025 12:39:54 GMT | Members Can Prevent Admins/Owners from Accessing Reviews via Manipulated UUID | 0xAdam | [Read More](https://medium.com/p/a2dbce4dda6a) |
-| Tue, 09 Dec 2025 12:39:33 GMT | What is AWS WAF? | Thomas Eid | [Read More](https://medium.com/p/209493c75cd9) |
-| Tue, 09 Dec 2025 12:35:33 GMT | The Biometric Tower of Babel | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/b32c773fe657) |
-| Tue, 09 Dec 2025 12:33:11 GMT | AI-Powered Cybersecurity vs AI-Powered Attacks: Who Really Has the Upper Hand? | Digital Defense | [Read More](https://medium.com/p/5710c70bad5c) |
-| Tue, 09 Dec 2025 12:30:57 GMT | How Managed Security Services Protect Small Businesses From Modern Cyberattacks in Brooklyn | Systech MSP | [Read More](https://medium.com/p/a9dfa02533bd) |
-| Tue, 09 Dec 2025 12:30:11 GMT | Password Pandemonium | Tryhacking | [Read More](https://medium.com/p/3f5ba45a72bc) |
-| Tue, 09 Dec 2025 12:29:34 GMT | Executive Protection Security Services Florida: Ensuring Elite Safety and Peace of Mind | Onyx Protective Services | [Read More](https://medium.com/p/76a379188c83) |
-| Tue, 09 Dec 2025 12:25:45 GMT | What is EC-Council’s Ethical Hacking Program? | Cybersecurity Courses | [Read More](https://medium.com/p/70076b58de49) |
