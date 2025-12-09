@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 21:18:55 GMT | Why “Compliant” Organizations Still Get Breached: | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/301babe0cb92) |
+| Tue, 09 Dec 2025 21:18:30 GMT | Exposição da Porta 554/RTSP: Análise de Vulnerabilidades em Dispositivos IoT | Evelyse Akemy | [Read More](https://medium.com/p/48f15a8f9559) |
+| Tue, 09 Dec 2025 21:11:38 GMT | picoCTF — HTTP Headers Challenge (who are you ?) | vulnhunter | [Read More](https://medium.com/p/052d4a7434b5) |
+| Tue, 09 Dec 2025 20:58:59 GMT | The DHS-Led AI-ISAC and the Future of Critical Infrastructure Security | CCD-IS | [Read More](https://medium.com/p/1b3382bc4dd8) |
+| Tue, 09 Dec 2025 20:58:46 GMT | Event Crew Services: The Skilled Support That Brings Your Event to Life | waeventservices.co.uk/ | [Read More](https://medium.com/p/87cac76a662a) |
+| Tue, 09 Dec 2025 20:49:51 GMT | The Convergence of AI and Blockchain: 5 Game-Changing Trends to Watch in 2025 | 0o0r7 | [Read More](https://medium.com/p/db8324d2188a) |
+| Tue, 09 Dec 2025 20:42:33 GMT | File Inclusion Lab — Complete Exploitation Write-HTB | GhostInject | [Read More](https://medium.com/p/3ecdc9883edb) |
 | Tue, 09 Dec 2025 20:39:36 GMT | Cybersecurity Gap Assessments in the NIS2 Era: How AI Enables Real-World Readiness | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/3bd642310dfc) |
 | Tue, 09 Dec 2025 20:38:49 GMT | Hardening Remote Access: A Guide to Using a YubiKey for Secure Sign-In | DevOpsIsRil | [Read More](https://medium.com/p/7e7d3dad15ba) |
+| Tue, 09 Dec 2025 20:38:26 GMT | “LOVE ISN’T ABOUT NEVER BREAKING — IT’S ABOUT CHOOSING TO REBUILD, TOGETHER, EVERY SINGLE TIME.” | QuietGrowth Labs | [Read More](https://medium.com/p/d38f5a4cedcf) |
 | Tue, 09 Dec 2025 20:22:10 GMT | I Grew Up Outsmarting My Parents’ Internet Rules — Now I Help Build Better Ones | Cyber Dive | [Read More](https://medium.com/p/dfbbebe59483) |
 | Tue, 09 Dec 2025 20:18:35 GMT | Rising Tides, Rising Costs | Juha Uitto | [Read More](https://medium.com/p/7c0d54dc926d) |
 | Tue, 09 Dec 2025 20:16:26 GMT | Origin ip discovery methods | TheCzar | [Read More](https://medium.com/p/d462c28d895a) |
@@ -106,11 +114,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 14:02:44 GMT | Linux Security Habit #3 — The One Command That Exposes a Hacker Before They Use Your Server | Faruk Ahmed | [Read More](https://medium.com/p/c833691ec54b) |
 | Tue, 09 Dec 2025 14:02:29 GMT | Zero Trust Maturity: Building Security Without Weak Links | Hello @ Octellient | [Read More](https://medium.com/p/d26525da3a0b) |
 | Tue, 09 Dec 2025 13:59:18 GMT | I’m writing this to document my journey into Exploit Development — Part 1. | MrLearner | [Read More](https://medium.com/p/b27f3f85aa69) |
-| Tue, 09 Dec 2025 13:48:54 GMT | Why SMBs Are Now Prime Targets for Cyberattacks | Teddy Cerra | [Read More](https://medium.com/p/0c81789602a8) |
-| Tue, 09 Dec 2025 13:48:50 GMT | The First Real Security Hole I Ever Found Using Nmap | Fateyaly | [Read More](https://medium.com/p/8eccff1d3dbf) |
-| Tue, 09 Dec 2025 13:44:29 GMT | 15 Free Online Cybersecurity & Ethical Hacking Courses You Can Start Today ✨ | Intellibytes | [Read More](https://medium.com/p/089524bb0369) |
-| Tue, 09 Dec 2025 13:33:18 GMT | CTEM Nedir? | Salihugurlu | [Read More](https://medium.com/p/ba0d06a4a2ca) |
-| Tue, 09 Dec 2025 13:30:52 GMT | [Broken Access Control] Members can pin/unpin any post in a Microsoft Teams community | Rohmad Hidayah | [Read More](https://medium.com/p/ba11e6d37945) |
-| Tue, 09 Dec 2025 13:30:40 GMT | MAJOR DISCOVERY: 7 WordPress Plugin Vulnerabilities, ZERO False Positives! | ZAST AI | [Read More](https://medium.com/p/1ca0c3f76e2a) |
-| Tue, 09 Dec 2025 13:28:42 GMT | LOW-LEVEL BASICS Part 1 | Infohack | [Read More](https://medium.com/p/89d2ac3c7a6f) |
-| Tue, 09 Dec 2025 13:19:05 GMT | Learning Cybersecurity in 30 Days! What?! | Seray Akman | [Read More](https://medium.com/p/726631894520) |
