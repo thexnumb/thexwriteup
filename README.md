@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 16:26:26 GMT | If You Think a Vulnerable Man Is Weak…You Might Be the Problem | THE WRITER’S LENS | [Read More](https://medium.com/p/6c1e46275797) |
+| Tue, 09 Dec 2025 16:20:24 GMT | Agentic AI Attacks and the New Cybersecurity Landscape | Gadi Singer | [Read More](https://medium.com/p/96f4dc41ce9c) |
+| Tue, 09 Dec 2025 16:12:26 GMT | How to Store Critical Secrets for 100+ Years | Mohamad Nashaat | [Read More](https://medium.com/p/f4006765a544) |
+| Tue, 09 Dec 2025 16:03:36 GMT | Cybersecurity Decoded: From Your Click to a Hacker’s Attack | mohandika | [Read More](https://medium.com/p/7d6b5bf99134) |
+| Tue, 09 Dec 2025 16:02:54 GMT | True AI independence starts with your architecture, not your data location | Enrico Karsten | [Read More](https://medium.com/p/3c9089a49ab9) |
+| Tue, 09 Dec 2025 15:58:38 GMT | Beyond “The Craft of Intelligence”: Human Agency in the Age of Digital Espionage | Andrey Spiridonov | [Read More](https://medium.com/p/70e7698ca1f9) |
+| Tue, 09 Dec 2025 15:51:59 GMT | The Evolution Of Smart Contracts | Obotonmedium | [Read More](https://medium.com/p/ce6265d031a2) |
+| Tue, 09 Dec 2025 15:47:54 GMT | 9 Networking Protocols Powering the Internet (And Why You Should Know Them) | Paradise technologies Inc | [Read More](https://medium.com/p/cc4c5b4c4927) |
+| Tue, 09 Dec 2025 15:46:48 GMT | The Quiet Token Heist: Why 2026’s Biggest SaaS Breaches Won’t Start With Passwords | Wes Young | [Read More](https://medium.com/p/03276f0f14c1) |
+| Tue, 09 Dec 2025 15:45:53 GMT | Performing a Brute Force Attack on DVWA using Burp Suite | Aswin Pramod | [Read More](https://medium.com/p/f42516740b68) |
 | Tue, 09 Dec 2025 15:38:36 GMT | ️‍♂️ From User to Super Admin: A Hacker’s Playbook for Elevation via Misconfigured APIs | 0xUnkn0wn | [Read More](https://medium.com/p/b76da4d20132) |
 | Tue, 09 Dec 2025 15:32:10 GMT | A Complete Guide to Modern Authentication and Authorization | Rusiru Gunaratne | [Read More](https://medium.com/p/eae7b9272efb) |
 | Tue, 09 Dec 2025 15:25:24 GMT | A Simple AI-Assisted Workflow That Helped Me Regain My Writing Momentum | Mansi Sachar | [Read More](https://medium.com/p/d56011f810c6) |
@@ -103,13 +113,3 @@ Willfully Blind To | Aes Sedai | [Read More](https://medium.com/p/fcc2f6a8ba14) 
 | Tue, 09 Dec 2025 10:42:59 GMT | techNbuddy: Where Real Networking Meets Career Growth | techNbuddy | [Read More](https://medium.com/p/7c6206d6df74) |
 | Tue, 09 Dec 2025 10:42:20 GMT | Executive Briefing for Digital Leaders 2025 | MJ Tangaan | [Read More](https://medium.com/p/0f35cfc29283) |
 | Tue, 09 Dec 2025 10:40:01 GMT | Building Your Own Python Password Generator | Dorian Sotpyrc | [Read More](https://medium.com/p/51d1e48f24dd) |
-| Tue, 09 Dec 2025 10:37:33 GMT | The Dark Side of DeFi: What Really Happens to Billions in Stolen Crypto | Thecryptomagazines | [Read More](https://medium.com/p/4f17125d96e6) |
-| Tue, 09 Dec 2025 10:32:28 GMT | SSL Offloading Explained: How Modern Websites Speed Up Secure Connections | Natarajan C K | [Read More](https://medium.com/p/3e474703e445) |
-| Tue, 09 Dec 2025 10:30:25 GMT | ☠️Dark Side of Bug Bounty Programs (EXCLUSIVE REPORT) . | ElonMuskTheAntichrist | [Read More](https://medium.com/p/af317b7fb2b0) |
-| Tue, 09 Dec 2025 10:29:13 GMT | Security Lab Simulation Project Part 7: Elastic Agent Installation for Linux | Jenny | [Read More](https://medium.com/p/6150bc40b7c8) |
-| Tue, 09 Dec 2025 10:29:02 GMT | GuardConnect: Real-Time Patrol & Attendance Portal | Leiten Technologies Pvt Ltd | [Read More](https://medium.com/p/7c559b5ee198) |
-| Tue, 09 Dec 2025 10:26:43 GMT | How Managed SOC Providers Handle Major Cybersecurity Incidents | Eventus Security Private Limited | [Read More](https://medium.com/p/c22b88d565ce) |
-| Tue, 09 Dec 2025 10:24:25 GMT | Hire Dedicated Node js Developer to Boost Your Web Development Projects | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/e46f3f3f9bf9) |
-| Tue, 09 Dec 2025 10:21:13 GMT | Linux Firewall Rule Design: Deep Dive into Secure Traffic Architecture | Esra Kayhan | [Read More](https://medium.com/p/035ac1202b44) |
-| Tue, 09 Dec 2025 10:20:41 GMT | Writing SELinux Policies: Secure and Controlled Access in Linux | Esra Kayhan | [Read More](https://medium.com/p/8d9e122fb1b6) |
-| Tue, 09 Dec 2025 10:12:01 GMT | Phishing Hunter — Information Security Project | Muhammad Bilal Ashiq | [Read More](https://medium.com/p/787ccc99da3c) |
