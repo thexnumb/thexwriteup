@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 03:54:54 GMT | React2Shell: The Most Serious React Vulnerability Since Log4Shell? | Hussein Ali | [Read More](https://medium.com/p/1af4a3ae0931) |
+| Tue, 09 Dec 2025 03:49:57 GMT | The Danger of Facial Recognition Technology: A Call to Action | Elijah L | [Read More](https://medium.com/p/7b13d2f99ebe) |
+| Tue, 09 Dec 2025 03:47:29 GMT | Tải Hack Supreme Duelist Stickman (Full Tiền, Max Level) v4.0.4 | Game4u | [Read More](https://medium.com/p/03cb7b74e8c1) |
+| Tue, 09 Dec 2025 03:32:15 GMT | The Hidden Chain: How a Simple ZIP File Leads to Full WhatsApp Session Hijacking | Deven Chhajed | [Read More](https://medium.com/p/292b013e41e9) |
+| Tue, 09 Dec 2025 03:30:52 GMT | The uncomfortable truth. | AXSAS | [Read More](https://medium.com/p/e2432d255796) |
 | Tue, 09 Dec 2025 03:07:44 GMT | How AI can ruin lives through illusion, misinformation and misuse | Shazam | [Read More](https://medium.com/p/4d2cbab7c463) |
 | Tue, 09 Dec 2025 02:53:56 GMT | How Google Maps Calculates Fastest Routes — When The World Changes Every Minute | The Dev Notebook | [Read More](https://medium.com/p/bb55b5ec9ef6) |
 | Tue, 09 Dec 2025 02:53:02 GMT | TryHackMe: Overpass Writeup | cbev | [Read More](https://medium.com/p/cae2f668b909) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 17:57:45 GMT | From USB Malware to AI-IDE Bugs: This Week’s Cyber Threats Demanding Attention | Chetan Seripally | [Read More](https://medium.com/p/d96f60d07430) |
 | Mon, 08 Dec 2025 17:55:36 GMT | AI in 2025 Wrapped: How Artificial Intelligence Transformed Work, Creativity & Life | Namra khan Ghouri | [Read More](https://medium.com/p/89c6626c79d0) |
 | Mon, 08 Dec 2025 17:53:16 GMT | Smartphones in the Crosshairs: The Evolution of Mobile Malware | Craig Tsikiwa | [Read More](https://medium.com/p/73f194603ba7) |
-| Mon, 08 Dec 2025 17:47:18 GMT | Every Bug I Ever Fixed Made Sense Only After I Understood These 7 Layers | Dayakumar | [Read More](https://medium.com/p/9b0d7ef081f3) |
-| Mon, 08 Dec 2025 17:42:33 GMT | DockerLabs — Ejotapete | Noelia Presa | [Read More](https://medium.com/p/410c2c4764a5) |
-| Mon, 08 Dec 2025 17:37:18 GMT | How to Prioritize Vulnerabilities When Everything Looks Critical | Digital Defense | [Read More](https://medium.com/p/94fc48965dd2) |
-| Mon, 08 Dec 2025 17:31:35 GMT | Lab: User role can be modified in user profile | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6bcf0def68c0) |
-| Mon, 08 Dec 2025 17:28:08 GMT | Backdoor CTF-2025: Flask of Cookies writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/fcd81b892608) |
