@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Dec 2025 05:44:34 GMT | The Year of the “Silent Breakdown”: 2025 Cybersecurity State of the Union | The Opscore Labs | [Read More](https://medium.com/p/e70d0c4916c7) |
+| Tue, 09 Dec 2025 05:29:32 GMT | Phishing Analysis Tool — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/1fb550c84076) |
 | Tue, 09 Dec 2025 05:21:55 GMT | A Complete Guide to SMB Enumeration in Active Directory Using NetExec (NXC) | Tareshsharma | [Read More](https://medium.com/p/3bb7e2ff01b9) |
 | Tue, 09 Dec 2025 05:18:01 GMT | A Supplier Guide to Achieving Trusted Security Validation | Kadhijahafiya | [Read More](https://medium.com/p/0f50d8d41c2d) |
 | Tue, 09 Dec 2025 05:09:41 GMT | Top Security Testing Service Companies in the USA | Kristen Carter | [Read More](https://medium.com/p/45cce2d5e8d7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Dec 2025 19:17:37 GMT | United Security: Leading Security Services | United Security | [Read More](https://medium.com/p/ff5f0ad07a12) |
 | Mon, 08 Dec 2025 19:11:39 GMT | Advent of Cyber 2025 - Day 8: Prompt Injection - Sched-yule conflict | Akshat Patel | [Read More](https://medium.com/p/0e032230ede7) |
 | Mon, 08 Dec 2025 19:08:50 GMT | How I Recovered 5 Years’ Worth of 500GB Lost Files Using Just 3 Windows Commands | Raymond Ebonine | [Read More](https://medium.com/p/46fc5280859d) |
-| Mon, 08 Dec 2025 19:02:04 GMT | Remote Security Agent Colorado Springs — Overwatch Technologies | Overwatch Technologies | [Read More](https://medium.com/p/db968bd1f4f3) |
-| Mon, 08 Dec 2025 18:58:58 GMT | Stop Waiting to Be Hacked: Why Threat Hunting is the Only Skill That Matters | Motasem Hamdan | [Read More](https://medium.com/p/f66d5778760d) |
