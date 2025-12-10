@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 14:42:28 GMT | Your Digital Transformation is not seen as an Asset | Manuel Tress | [Read More](https://medium.com/p/8f180f28bb8c) |
+| Wed, 10 Dec 2025 14:41:54 GMT | Mastering Cybersecurity in 2025: Why It’s No Longer Just an IT Problem | Hello @ Octellient | [Read More](https://medium.com/p/3bacf0b36457) |
+| Wed, 10 Dec 2025 14:40:04 GMT | ️‍♀️ Cybersecurity Incident Report: Juicy Details Breach | Jadallah K. J. Albanna | [Read More](https://medium.com/p/628ff5f6b404) |
+| Wed, 10 Dec 2025 14:37:04 GMT | Understanding Web Applications: Architecture, Components, and Common Vulnerabilities | Grace Omokhowa Audu | [Read More](https://medium.com/p/a45d4502fba5) |
+| Wed, 10 Dec 2025 14:34:34 GMT | When Espionage Turns Ransomware: GOLD BLADE’s QWCrypt Locker Threat | Chetan Seripally | [Read More](https://medium.com/p/452a29df14ad) |
+| Wed, 10 Dec 2025 14:32:17 GMT | (Comptia A+) The Importance of Physical Security: Protecting Your IT Infrastructure | Vignesh R | [Read More](https://medium.com/p/0b3bf76b6e21) |
+| Wed, 10 Dec 2025 14:24:33 GMT | Cognitive Mismatch Challenge (CMC): A New Frontier in AI Detection.(CAPTCHA) | Pourlier jason | [Read More](https://medium.com/p/a4b6fe9de22a) |
 | Wed, 10 Dec 2025 14:19:39 GMT | Pragmatism: Why German Love for Perfect Processes Is a Transformation Killer | Nina Sophie Pejsa | [Read More](https://medium.com/p/9d1c2393b472) |
 | Wed, 10 Dec 2025 14:14:38 GMT | Güvenlik Duvarındaki Sessiz Tehlike: | HSD ATLAS | [Read More](https://medium.com/p/eebe689059e9) |
 | Wed, 10 Dec 2025 14:13:53 GMT | Fortifying FinTech Against Cyber Threats⚠️ | KnubiSoft | [Read More](https://medium.com/p/af196f0af303) |
@@ -106,10 +113,3 @@ A Year of Unmasking Critical Browser Vulnerabilities | SquareX | [Read More](htt
 | Wed, 10 Dec 2025 09:08:14 GMT | React2Shell: How One Bug Just Nuked 40% of the Internet (And Your Server Might Already Be Pwned) | DevBoost Lab | [Read More](https://medium.com/p/bd3baa3ce3c3) |
 | Wed, 10 Dec 2025 09:02:16 GMT | Developers: Add A Real Leak Check To Any Login With LeakRadar’s API In 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/32d4adf927c9) |
 | Wed, 10 Dec 2025 08:56:51 GMT | Stop Praying to the Oracle: The Tatvamasi Protocol for AI | Jayal Yadav | [Read More](https://medium.com/p/2990dd08f208) |
-| Wed, 10 Dec 2025 08:56:39 GMT | Metrics and Models for Measuring the Effectiveness of Vulnerability Management Programs | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/c8105a263795) |
-| Wed, 10 Dec 2025 08:49:01 GMT | SWIFT Simplified: The World’s Financial Messenger Service | crązŷrąiɲ | [Read More](https://medium.com/p/b6c06308a920) |
-| Wed, 10 Dec 2025 08:33:47 GMT | Associative: Your Trusted Appium Testing Company and IT Solutions Partner | Associative: Software Development & Consulting | [Read More](https://medium.com/p/54157ef82c02) |
-| Wed, 10 Dec 2025 08:28:09 GMT | Data Privacy in Repair: Here’s How We Keep Your Photos & Files Safe (and Why We Don’t Need Your… | Sampurnakart | [Read More](https://medium.com/p/43e375a6b3cc) |
-| Wed, 10 Dec 2025 08:26:47 GMT | ️ When an Image Loader Turned Into a Backdoor: My Discovery of a Blind SSRF on a Blockchain… | Anshubind | [Read More](https://medium.com/p/94d33d6d5371) |
-| Wed, 10 Dec 2025 08:24:53 GMT | When a Login Page Became a Trap: My Discovery of a Web Cache Deception Vulnerability | Anshubind | [Read More](https://medium.com/p/d1cbbdc0203f) |
-| Wed, 10 Dec 2025 08:18:08 GMT | Data Security Failing? Try Powerful Free Antivirus Now | SiyanoAV | [Read More](https://medium.com/p/ace4240e2efc) |
