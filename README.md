@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 03:07:46 GMT | Turning a “Feature” into a “Vulnerability” — Collaboration Feature Exposed Every Username in the… | Raman Gautam - rghx | [Read More](https://medium.com/p/e11cbe806bfc) |
+| Wed, 10 Dec 2025 03:06:59 GMT | How Netflix Uses Java to Handle Hundreds of Microservices — A Practical View for Developers | The Dev Notebook | [Read More](https://medium.com/p/3c5a70f9c255) |
+| Wed, 10 Dec 2025 03:05:27 GMT | The Strength Everyone Praises… and the Cost No One Sees | Sree Palakurthi | [Read More](https://medium.com/p/a36cc9c8c6b4) |
+| Wed, 10 Dec 2025 02:55:06 GMT | Event Horizon? | Sarah Alsamman | [Read More](https://medium.com/p/48becba90eb5) |
+| Wed, 10 Dec 2025 02:44:32 GMT | React2Shell Crisis Breakdown: How To Instantly Protect Your Projects | Tara Prasad Routray | [Read More](https://medium.com/p/04cc94a5688f) |
+| Wed, 10 Dec 2025 02:44:14 GMT | Welcome to the Crypto Graveyard | Tina Ginn | [Read More](https://medium.com/p/d3955600743f) |
+| Wed, 10 Dec 2025 02:41:21 GMT | Instant Root via Unauthenticated Docker Engine API (TCP/2375)From Low-Priv Container → Full ROOT… | Nano | [Read More](https://medium.com/p/0cc368bc7aef) |
+| Wed, 10 Dec 2025 02:32:14 GMT | LockBit Ransomware: A Detailed Analysis Chapter 1 | Thegreatpayload | [Read More](https://medium.com/p/d6c84a2d8c9b) |
+| Wed, 10 Dec 2025 02:19:05 GMT | Are hackers using AI to crack password now ? 100 % yes ‍↕️ | Sir Lakewest | [Read More](https://medium.com/p/7773683a6c60) |
+| Wed, 10 Dec 2025 02:14:39 GMT | Pioneers Ahead of Their Time | Chier Hu | [Read More](https://medium.com/p/c4510d154868) |
+| Wed, 10 Dec 2025 02:09:19 GMT | The Suspicious Choclate.exe | Tryhacking | [Read More](https://medium.com/p/3ddb65d13fbc) |
+| Wed, 10 Dec 2025 02:07:44 GMT | The Definitive Guide to Modern Technology: Shaping Our World and Future Trajectories | Toni Rose Joseph | [Read More](https://medium.com/p/dfde63ff3ab7) |
+| Wed, 10 Dec 2025 02:06:42 GMT | The Shape Beneath the Cotton | Moe Caster | [Read More](https://medium.com/p/d4aef123cc63) |
 | Wed, 10 Dec 2025 01:44:41 GMT | Loki & Promtail: A Deep Dive into Scalable Logging | Srikanta Sahu | [Read More](https://medium.com/p/65dbcf66cb1c) |
 | Wed, 10 Dec 2025 01:38:28 GMT | How I Exploited Blind SSRF to Own an AWS Environment — My Step-by-Step Red Team Hunt | ZAYN | [Read More](https://medium.com/p/c403378b06a4) |
 | Wed, 10 Dec 2025 01:30:49 GMT | When AI Shouldn’t Automate | John Williams | [Read More](https://medium.com/p/6d924c68348e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 17:48:09 GMT | The Hidden Risk in Home Networks: How ISP Hardware Undermines Security and Learning | Brian Haman, PhD | [Read More](https://medium.com/p/49fb231575f3) |
 | Tue, 09 Dec 2025 17:45:59 GMT | Day 7: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/39c983d1eec8) |
 | Tue, 09 Dec 2025 17:44:38 GMT | The SIEM Screamed, I Froze: My Journey from Panic to Proficiency in the SOC | Zahra Bibi | [Read More](https://medium.com/p/3f89391bd063) |
-| Tue, 09 Dec 2025 17:43:58 GMT | Azure vs AWS vs Google Cloud: Which Cloud Platform Is Right for You? | Techridge Solutions | [Read More](https://medium.com/p/a5aa069727e5) |
-| Tue, 09 Dec 2025 17:33:43 GMT | If You Use the Internet, You need these Cybersecurity Basics to Stay Safe | Shilpa | [Read More](https://medium.com/p/cf718c7ac35d) |
-| Tue, 09 Dec 2025 17:32:31 GMT | Part 36 : Azure Firewall vs NSG — The Real Difference Nobody Explains Clearly | Shubham Barman | [Read More](https://medium.com/p/41c9e9c76133) |
-| Tue, 09 Dec 2025 17:24:48 GMT | Prompt Injection — Sched-yule conflict - AoC 2025 Day — 8 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/9d2f63c2267e) |
-| Tue, 09 Dec 2025 17:24:30 GMT | The Growing Need for Darkweb Scam Awareness in 2025 | Tor BBB | [Read More](https://medium.com/p/67dea3479d3a) |
-| Tue, 09 Dec 2025 17:24:24 GMT | How Hackers Exploited My Next.js Server in MinutesAnd How I Fought Back | Sami Benchaalia | [Read More](https://medium.com/p/79dee257b9b6) |
-| Tue, 09 Dec 2025 17:24:23 GMT | CVE-2025–55182 — Remote Code Execution via Unsafe Server-Side Input Handling in Next.js | Arul-Hacks | [Read More](https://medium.com/p/8891768a6f99) |
-| Tue, 09 Dec 2025 17:22:02 GMT | CVE-2025–55182 — Critical RCE in React Server Components | Virendra Kumar | [Read More](https://medium.com/p/069f7e123c40) |
-| Tue, 09 Dec 2025 17:16:57 GMT | How I Built a CISO’s Dark Web Playbook That Uncovered a $ Vulnerability ️‍♂️ | Iski | [Read More](https://medium.com/p/15a3bf2efb1c) |
-| Tue, 09 Dec 2025 17:10:52 GMT | 2025 Durum Değerlendirmesi | Uğur Ertabak | [Read More](https://medium.com/p/bd873e52356d) |
-| Tue, 09 Dec 2025 17:09:58 GMT | “Top 10 Tools Every Bug Bounty Hunter Must Use” | Aman Sharma | [Read More](https://medium.com/p/900425e33f8d) |
-| Tue, 09 Dec 2025 17:03:58 GMT | Cyber Security | Haider Baloch | [Read More](https://medium.com/p/4de7e9fb3e6d) |
-| Tue, 09 Dec 2025 17:02:15 GMT | The Day I Realized Identity Security Was Broken — And Why AI Makes It Worse | Shazmeen Sohail | [Read More](https://medium.com/p/9f24156f2b5d) |
