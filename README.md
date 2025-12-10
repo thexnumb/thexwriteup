@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 22:21:24 GMT | Fortress Protocol x Modulus Twitter Spaces Transcript | Fortress Protocol | [Read More](https://medium.com/p/04ee16bfb51a) |
+| Wed, 10 Dec 2025 21:36:10 GMT | The Transparency Fix. How a three-tiered system solved broken parking enforcement. | Stream Data Systems | [Read More](https://medium.com/p/1df5af7d598c) |
 | Wed, 10 Dec 2025 21:19:21 GMT | Observing Real-World RDP Attacks and Thinking like an Attacker | Aimee Liu | [Read More](https://medium.com/p/39ed689340e3) |
 | Wed, 10 Dec 2025 21:12:13 GMT | When Poetry Becomes a Weapon: How Researchers Broke Every Major AI With Verses | Zoom In AI | [Read More](https://medium.com/p/30aae4f3e7c4) |
 | Wed, 10 Dec 2025 20:57:18 GMT | Snapped Phish-ing Line — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/4e20ca0c37e7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 15:02:39 GMT | VPNって何がいい？ | Yoshiaki | [Read More](https://medium.com/p/102b46371977) |
 | Wed, 10 Dec 2025 15:02:39 GMT | Cyber Briefing: 2025.12.10 | CyberMaterial | [Read More](https://medium.com/p/ad1e142a7618) |
 | Wed, 10 Dec 2025 15:02:32 GMT | Hacking the Connected Car: Part 2 — Seeing the Unseen | Federico Barsanti | [Read More](https://medium.com/p/920897bd211d) |
-| Wed, 10 Dec 2025 14:58:24 GMT | From Detection to Action: Transforming SOC Efficiency with NDR Solution | NetWitness | [Read More](https://medium.com/p/c8c58623b944) |
-| Wed, 10 Dec 2025 14:58:22 GMT | Microsoft Silently Mitigates Years-Old LNK Vulnerability: Everything Businesses Need to Know | IT_Engineer | [Read More](https://medium.com/p/52c1f9771220) |
