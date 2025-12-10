@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 06:33:24 GMT | “ReconFTW — Unified Reconnaissance Engine for Bug‑Bounty Hunters” | ghostyjoe | [Read More](https://medium.com/p/cbed5ddaff7d) |
+| Wed, 10 Dec 2025 06:27:47 GMT | Cloudflare Outages: The Day the Internet Blinked — And What It Means for All of Us | Enock Kiplangat | [Read More](https://medium.com/p/33080c943b44) |
+| Wed, 10 Dec 2025 06:21:48 GMT | What are the 5 C’s of cyber security? | Ascend InfoTech | [Read More](https://medium.com/p/9221410b0a2f) |
+| Wed, 10 Dec 2025 06:19:11 GMT | Reimagining Threat Modeling with Generative AI In AWS | Advait khatu | [Read More](https://medium.com/p/9d4ec878c331) |
+| Wed, 10 Dec 2025 06:18:00 GMT | Detecting UAC (User Account Control) Bypass Privilege Escalation | Ngatz | [Read More](https://medium.com/p/117e430dd7a3) |
+| Wed, 10 Dec 2025 06:17:39 GMT | From Default IIS Page to Critical SQL Injection | Ahmad Mugh33ra | [Read More](https://medium.com/p/d0e9950c66fc) |
+| Wed, 10 Dec 2025 06:16:22 GMT | The Sentinel Network: Next-Generation Secure Communications for Modern Warfare | Ehsan | [Read More](https://medium.com/p/756105ba4416) |
+| Wed, 10 Dec 2025 06:03:36 GMT | Strengthen Digital Payment Trust — Certified PCI DSS Security Strategist (CPDSSS) | Adhiraj Kasabe | [Read More](https://medium.com/p/bcfa2143895b) |
+| Wed, 10 Dec 2025 06:02:17 GMT | Hacking is 20% exploitation and 80% documentation. | ZAYN | [Read More](https://medium.com/p/016f844454ae) |
+| Wed, 10 Dec 2025 06:00:58 GMT | What Is a CDN and Why Do We Need crossorigin in Script Tags? | Ayush Jaiswal | [Read More](https://medium.com/p/720aa2c1541a) |
+| Wed, 10 Dec 2025 05:50:06 GMT | Automate Security Before You Commit: Using DevSecOps Kit Git Hooks (Complete Guide) | Edgar Posada | [Read More](https://medium.com/p/82d7091cdfa0) |
+| Wed, 10 Dec 2025 05:48:45 GMT | Raising Cyber Standards to Meet Enterprise Supplier Expectations | Kadhijahafiya | [Read More](https://medium.com/p/c88c97206935) |
 | Wed, 10 Dec 2025 05:39:17 GMT | How To Set Up A Secure Microsoft Business Account For Teams? | Kendall Garcia | [Read More](https://medium.com/p/ff73d59ce44f) |
 | Wed, 10 Dec 2025 05:24:23 GMT | Passwords — A Cracking Christmas | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/bd0a1b8f9aa2) |
 | Wed, 10 Dec 2025 05:23:33 GMT | BackdoorCTF 2025 experience (and writeups) | Maksim Hayder | [Read More](https://medium.com/p/5d700ddc2e87) |
@@ -21,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 04:58:23 GMT | Could Your Linux Setup Be Giving You A False Sense Of Security With DLP For Linux? | keyTrackr | [Read More](https://medium.com/p/f79d3f08ec39) |
 | Wed, 10 Dec 2025 04:54:19 GMT | Cyber Kill Chain | Demegorash | [Read More](https://medium.com/p/955a3819faa9) |
 | Wed, 10 Dec 2025 04:54:04 GMT | Deep-Dive Domain Intelligence: A Practical WHOIS Recon Walkthrough | Abhayal | [Read More](https://medium.com/p/92f7271b99dd) |
+| Wed, 10 Dec 2025 04:45:44 GMT | HackSmarter Arasaka AD Lab Writeup | Avyukt Security | [Read More](https://medium.com/p/b57d7e0b5e48) |
 | Wed, 10 Dec 2025 04:38:52 GMT | How I Built a Private ITAR Compliance Scanner on a Mac | Sean McConoughey | [Read More](https://medium.com/p/37ca071282c2) |
 | Wed, 10 Dec 2025 04:26:47 GMT | The AI “Kidnapping” Call: How 3 Seconds of Audio Can Ruin Your Life (And How to Stop It) | ByteSwift Digital pro | [Read More](https://medium.com/p/58e199db3536) |
 | Wed, 10 Dec 2025 04:21:30 GMT | Open Source Intelligence (OSINT): Start-to-Finish Practical Guide | Aj | [Read More](https://medium.com/p/88bc53ef163e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 20:58:46 GMT | Event Crew Services: The Skilled Support That Brings Your Event to Life | waeventservices.co.uk/ | [Read More](https://medium.com/p/87cac76a662a) |
 | Tue, 09 Dec 2025 20:49:51 GMT | The Convergence of AI and Blockchain: 5 Game-Changing Trends to Watch in 2025 | 0o0r7 | [Read More](https://medium.com/p/db8324d2188a) |
 | Tue, 09 Dec 2025 20:42:33 GMT | File Inclusion Lab — Complete Exploitation Write-HTB | GhostInject | [Read More](https://medium.com/p/3ecdc9883edb) |
-| Tue, 09 Dec 2025 20:39:36 GMT | Cybersecurity Gap Assessments in the NIS2 Era: How AI Enables Real-World Readiness | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/3bd642310dfc) |
-| Tue, 09 Dec 2025 20:38:49 GMT | Hardening Remote Access: A Guide to Using a YubiKey for Secure Sign-In | DevOpsIsRil | [Read More](https://medium.com/p/7e7d3dad15ba) |
-| Tue, 09 Dec 2025 20:38:26 GMT | “LOVE ISN’T ABOUT NEVER BREAKING — IT’S ABOUT CHOOSING TO REBUILD, TOGETHER, EVERY SINGLE TIME.” | QuietGrowth Labs | [Read More](https://medium.com/p/d38f5a4cedcf) |
-| Tue, 09 Dec 2025 20:22:10 GMT | I Grew Up Outsmarting My Parents’ Internet Rules — Now I Help Build Better Ones | Cyber Dive | [Read More](https://medium.com/p/dfbbebe59483) |
-| Tue, 09 Dec 2025 20:18:35 GMT | Rising Tides, Rising Costs | Juha Uitto | [Read More](https://medium.com/p/7c0d54dc926d) |
-| Tue, 09 Dec 2025 20:16:26 GMT | Origin ip discovery methods | TheCzar | [Read More](https://medium.com/p/d462c28d895a) |
-| Tue, 09 Dec 2025 20:14:02 GMT | TCP Challenges — Part 2 : Encoded String - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/8f707e1785f7) |
-| Tue, 09 Dec 2025 20:11:40 GMT | Why Cyber Security Is Now a Strategic Imperative for Iran’s Digital Economy | Armin Mehraeen | [Read More](https://medium.com/p/02c6285eb681) |
-| Tue, 09 Dec 2025 20:06:14 GMT | Here’s how to protect against prompt injection attacks in vscode. | JC Reign | [Read More](https://medium.com/p/d37094bb278f) |
-| Tue, 09 Dec 2025 19:58:35 GMT | Advent of Cyber 2025 - Day 9: Passwords — A Cracking Christmas | D4m.sh | [Read More](https://medium.com/p/69d3eb9f8693) |
-| Tue, 09 Dec 2025 19:58:05 GMT | The Strategic Triumph of Architectural Depth in Cybersecurity | İsmail İşler | [Read More](https://medium.com/p/52a0e0b1060c) |
-| Tue, 09 Dec 2025 19:50:41 GMT | Bir Sistemi Fethetmek İçin Neden İnşa Etmeyi Bilmelisiniz? | İsmail İşler | [Read More](https://medium.com/p/f219e7a35a34) |
-| Tue, 09 Dec 2025 19:43:48 GMT | Stay Safe Online. Why I’m Testing Webroot Internet Security? | TechVault | [Read More](https://medium.com/p/4bdc776d5fbc) |
