@@ -12,10 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 20:32:16 GMT | Roblox Scams: Are Free Robux Apps Safe for Kids? A Parent’s Guide | Cyber Dive | [Read More](https://medium.com/p/af8c02ea9763) |
+| Wed, 10 Dec 2025 20:31:57 GMT | La Red del Caos® | La Trama Del Caos | [Read More](https://medium.com/p/371d1281b7f3) |
+| Wed, 10 Dec 2025 20:30:35 GMT | Strategic Roadmap for Windows Malware Development: Offensive Engineering and Systems Architecture | Mr_MalMan | [Read More](https://medium.com/p/d5591105cd5c) |
+| Wed, 10 Dec 2025 20:30:11 GMT | FortiGate giriş maceram… | Yagmur | [Read More](https://medium.com/p/77ea2fbcceaa) |
+| Wed, 10 Dec 2025 20:28:26 GMT | AI-Driven IoT Systems for Industry 4.0 | ORB, Operations Research Bit | [Read More](https://medium.com/p/6c36ade118a9) |
+| Wed, 10 Dec 2025 20:27:28 GMT | Advent of Cyber 2025 - Day 10: SOC Alert Triaging — Tinsel Triage | D4m.sh | [Read More](https://medium.com/p/457064231be9) |
+| Wed, 10 Dec 2025 20:24:48 GMT | Day 128 — Narnia Level-2 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/f1a121f05e33) |
 | Wed, 10 Dec 2025 20:23:48 GMT | Why Vulnerability Is The Strongest Thing You Can Embrace | NY Media Hub | [Read More](https://medium.com/p/00e8596097d0) |
 | Wed, 10 Dec 2025 20:15:24 GMT | 6 best firewalls for macOS in 2026: Tested picks for privacy-focused users | Yuriy Varbanets | [Read More](https://medium.com/p/ed16748d8804) |
 | Wed, 10 Dec 2025 20:04:44 GMT | INVISIBLE TRACES - RDP | JHP | [Read More](https://medium.com/p/0fa6b0d4329f) |
 | Wed, 10 Dec 2025 20:04:23 GMT | Advent of Cyber 25 — Day 9— Passwords — A Cracking Christmas | cybertactic | [Read More](https://medium.com/p/9fade955c7aa) |
+| Wed, 10 Dec 2025 20:04:06 GMT | Cybersecurity Part 2 | Shivaram Shankaranarayana Yarmunja | [Read More](https://medium.com/p/33b260108375) |
 | Wed, 10 Dec 2025 19:28:51 GMT | Cyber Chor aur Digital Daku: How Indian Netizens Can Beat Hackers at Their Own Game | Utkarsh Thakur | [Read More](https://medium.com/p/5bf440f033c2) |
 | Wed, 10 Dec 2025 19:26:57 GMT | Zero-Downtime Migration: Okta to Azure AD for a Production Healthcare Platform | Nayeemashaik | [Read More](https://medium.com/p/34615a474f90) |
 | Wed, 10 Dec 2025 19:26:22 GMT | The evolution from V2Ray to Xray to Sing-box | Md Samaul Haque Malik | [Read More](https://medium.com/p/0f4ffdeb3fe7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 14:55:30 GMT | Setting Up a Proxy Server: Step-by-Step for Beginners | ProxiesThatWork | [Read More](https://medium.com/p/2d080ab1b1e1) |
 | Wed, 10 Dec 2025 14:42:28 GMT | Your Digital Transformation is not seen as an Asset | Manuel Tress | [Read More](https://medium.com/p/8f180f28bb8c) |
 | Wed, 10 Dec 2025 14:41:54 GMT | Mastering Cybersecurity in 2025: Why It’s No Longer Just an IT Problem | Hello @ Octellient | [Read More](https://medium.com/p/3bacf0b36457) |
-| Wed, 10 Dec 2025 14:40:04 GMT | ️‍♀️ Cybersecurity Incident Report: Juicy Details Breach | Jadallah K. J. Albanna | [Read More](https://medium.com/p/628ff5f6b404) |
-| Wed, 10 Dec 2025 14:37:04 GMT | Understanding Web Applications: Architecture, Components, and Common Vulnerabilities | Grace Omokhowa Audu | [Read More](https://medium.com/p/a45d4502fba5) |
-| Wed, 10 Dec 2025 14:34:34 GMT | When Espionage Turns Ransomware: GOLD BLADE’s QWCrypt Locker Threat | Chetan Seripally | [Read More](https://medium.com/p/452a29df14ad) |
-| Wed, 10 Dec 2025 14:32:17 GMT | (Comptia A+) The Importance of Physical Security: Protecting Your IT Infrastructure | Vignesh R | [Read More](https://medium.com/p/0b3bf76b6e21) |
-| Wed, 10 Dec 2025 14:28:52 GMT | How to Detect Jailbreak on Capacitor | Talsec | [Read More](https://medium.com/p/dae820c7fc7b) |
-| Wed, 10 Dec 2025 14:24:33 GMT | Cognitive Mismatch Challenge (CMC): A New Frontier in AI Detection.(CAPTCHA) | Pourlier jason | [Read More](https://medium.com/p/a4b6fe9de22a) |
-| Wed, 10 Dec 2025 14:19:39 GMT | Pragmatism: Why German Love for Perfect Processes Is a Transformation Killer | Nina Sophie Pejsa | [Read More](https://medium.com/p/9d1c2393b472) |
-| Wed, 10 Dec 2025 14:14:38 GMT | Güvenlik Duvarındaki Sessiz Tehlike: | HSD ATLAS | [Read More](https://medium.com/p/eebe689059e9) |
