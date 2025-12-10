@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 19:09:19 GMT | Production history around: Bug Video on my Phone | Brandon John Barnard | [Read More](https://medium.com/p/ad872ce23312) |
+| Wed, 10 Dec 2025 19:00:50 GMT | Building Secure and Efficient Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/80d3b4de6812) |
+| Wed, 10 Dec 2025 19:00:11 GMT | 56 Holes in Your Windows Shield: Are You One of the Targets and Don’t Know It Yet? | Germano Costi | [Read More](https://medium.com/p/db5fec81ef1e) |
+| Wed, 10 Dec 2025 18:57:36 GMT | Ring Security Essentials Compared: Wall Mount vs. Spotlight Cam Plus vs. Stick Up Cam Battery. | Mohamedettakki | [Read More](https://medium.com/p/ddd310d4cbda) |
+| Wed, 10 Dec 2025 18:57:20 GMT | Microsoft’s Fatal Blow to the Illegal KMS38 Activation Method | Onhexgroup | [Read More](https://medium.com/p/c686ad3172f1) |
+| Wed, 10 Dec 2025 18:54:05 GMT | Monitoring Tool Installation on Linux Servers: Starting the Surveillance with Prometheus and… | Esra Kayhan | [Read More](https://medium.com/p/904d33903d07) |
+| Wed, 10 Dec 2025 18:53:34 GMT | The Greenholt Phish — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/49491b004e86) |
+| Wed, 10 Dec 2025 18:52:52 GMT | Sandbox Processes in Linux: Isolated and Secure Execution Environments | Esra Kayhan | [Read More](https://medium.com/p/eb55a89e6052) |
+| Wed, 10 Dec 2025 18:42:39 GMT | Using MITRE ATT&CK for Adversary Analysis | Ahmedhezema | [Read More](https://medium.com/p/0b5383e92c1e) |
+| Wed, 10 Dec 2025 18:39:56 GMT | Using custom AI agents with Google SecOps SOAR & MCPs and why I turned it off | Mike | [Read More](https://medium.com/p/928271ed05c3) |
+| Wed, 10 Dec 2025 18:33:16 GMT | How to Start a Career in Cybersecurity With No Experience | Himanshu Kumar | [Read More](https://medium.com/p/e21ad0fa544d) |
+| Wed, 10 Dec 2025 18:28:39 GMT | 8 Real Cyberattack Stories from Germany That Almost Destroyed Businesses | Cordula Boeck | [Read More](https://medium.com/p/0701fff543a6) |
+| Wed, 10 Dec 2025 18:26:47 GMT | Kendi Active Directory Lab Ortamınızı Kurun-III: Active Directory Güvenliği: Bölüm-7 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/d4ec2e4c489b) |
+| Wed, 10 Dec 2025 18:22:46 GMT | Fortinet:  Critical vulnerabilities — Different Products | SOCFortress | [Read More](https://medium.com/p/7432631af2f4) |
 | Wed, 10 Dec 2025 18:22:43 GMT | km tools | Bahaa Awad | [Read More](https://medium.com/p/5f9717f0d78d) |
 | Wed, 10 Dec 2025 18:16:09 GMT | Microsoft Finally Killed the Hidden Shortcut Bug After Years of Exploitation | Jbird | [Read More](https://medium.com/p/5c8e147d3776) |
 | Wed, 10 Dec 2025 18:12:12 GMT | Beyond Security: Integrating ISO 27001, GDPR, and SOC 2 for Holistic Trust | C.N. Husnul Izzati | [Read More](https://medium.com/p/34e9289b59d1) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 14:02:24 GMT | Building Stronger Cybersecurity with Smart Frameworks | Paul Meyer | [Read More](https://medium.com/p/7e3204e5fab0) |
 | Wed, 10 Dec 2025 14:02:21 GMT | Linux Security Habit #4 — The One Directory Attackers Always Try to Modify (And How I Catch It… | Faruk Ahmed | [Read More](https://medium.com/p/93c6c461c088) |
 | Wed, 10 Dec 2025 14:02:19 GMT | Magento Security Patches: Why Your Store Needs Them | On Tap | [Read More](https://medium.com/p/c466e349e3ed) |
-| Wed, 10 Dec 2025 14:00:01 GMT | TryHackMe Writeup: Undiscovered | Berkay AĞGÜL | [Read More](https://medium.com/p/433d9a48e39c) |
-| Wed, 10 Dec 2025 13:59:57 GMT | 2025 Year of Browser Bugs Recap:
-A Year of Unmasking Critical Browser Vulnerabilities | SquareX | [Read More](https://medium.com/p/e3f8fc617129) |
-| Wed, 10 Dec 2025 13:58:13 GMT | Critical vulnerability in React Server Components (RSC) protocol | Akhshy Ganesh | [Read More](https://medium.com/p/7f07aa54d1d5) |
-| Wed, 10 Dec 2025 13:57:31 GMT | Mastering VLANs, Firewalls & Network Devices: A Practical Guide for Modern IT Setups | Angel Mathew | [Read More](https://medium.com/p/2179a0b0d5b8) |
-| Wed, 10 Dec 2025 13:54:56 GMT | A Complete “Juicy Details” TryHackMe Writeup | Malk All Banna | [Read More](https://medium.com/p/14931d908242) |
-| Wed, 10 Dec 2025 13:52:31 GMT | The Return of The Luhn Algorithm | Alp | [Read More](https://medium.com/p/542d3d951576) |
-| Wed, 10 Dec 2025 13:51:40 GMT | BACKOOR CTF 2025 (PWN) | R1 | [Read More](https://medium.com/p/197c12d6f712) |
-| Wed, 10 Dec 2025 13:46:58 GMT | Broken 2FA Authentication | Daemi Jack | [Read More](https://medium.com/p/97ab0d64052f) |
-| Wed, 10 Dec 2025 13:34:44 GMT | 0-Day Hunting Guide ️‍♂️: Recon Techniques Nobody Talks About | Vipul Sonule | [Read More](https://medium.com/p/046d373b6dab) |
-| Wed, 10 Dec 2025 13:32:17 GMT | What I Learned Writing for Change (Literally) | Aaron Pace | [Read More](https://medium.com/p/faff2f8c43ce) |
-| Wed, 10 Dec 2025 13:31:41 GMT | Building a Modern Cyber Security Architecture | Sebastian Kandler | [Read More](https://medium.com/p/cc41b844bec2) |
-| Wed, 10 Dec 2025 13:29:23 GMT | What Is VAPT Security Testing and Why Does Your Business Need It | Testrig Technologies | [Read More](https://medium.com/p/95b3f67f7f62) |
-| Wed, 10 Dec 2025 13:18:25 GMT | Why 99% of Bug Hunters Fail — and How to Be the 1% | Vipul Sonule | [Read More](https://medium.com/p/0f07d96885b4) |
-| Wed, 10 Dec 2025 13:14:32 GMT | Inside MAYBEROBOT: Analyzing Russia’s Rapid-Response PowerShell Backdoor | Mark Nikon | [Read More](https://medium.com/p/d6fed3d78ba7) |
