@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 23:29:51 GMT | ### New GHDB-Inspired Dorks | Nochia | [Read More](https://medium.com/p/2c361e0ac05e) |
+| Wed, 10 Dec 2025 23:21:29 GMT | AltaySec Akademi: Türkiye’nin İlk Ücretsiz ve Türkçe Siber Güvenlik Eğitim Platformu — Öğrenci… | Mert Doğan | [Read More](https://medium.com/p/ce8b58903ece) |
+| Wed, 10 Dec 2025 23:16:30 GMT | Observability improves AI safety and reliability | Brian Gastwirth | [Read More](https://medium.com/p/f606fcf6d1b6) |
 | Wed, 10 Dec 2025 23:14:04 GMT | Passwords — A Cracking Christmas — Writeup(DAY 9 — Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/923433f6a87c) |
 | Wed, 10 Dec 2025 23:00:27 GMT | Cryptography basics- Tryhackme Room. | King | [Read More](https://medium.com/p/798468dd5bb7) |
 | Wed, 10 Dec 2025 22:54:34 GMT | CVE-2025–55182, CVE-2025–6647 quick analysis | akbun | [Read More](https://medium.com/p/aa087e8d2378) |
@@ -25,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 22:24:14 GMT | KALI LINUX OSINT 2025: Maîtrisez l’Intelligence des Sources Ouvertes avec des Outils Haute… | Diego Rodrigues | [Read More](https://medium.com/p/2e91c7f0a32c) |
 | Wed, 10 Dec 2025 22:21:24 GMT | Fortress Protocol x Modulus Twitter Spaces Transcript | Fortress Protocol | [Read More](https://medium.com/p/04ee16bfb51a) |
 | Wed, 10 Dec 2025 22:18:42 GMT | eWPTX: All You Need to Know | Mostafa Sharaf | [Read More](https://medium.com/p/acbf2b649bad) |
+| Wed, 10 Dec 2025 22:00:44 GMT | APPRENEZ LE MALTEGO: Maîtrisez les Enquêtes OSINT, l’Analyse des Relations et le Renseignement… | Diego Rodrigues | [Read More](https://medium.com/p/6ab47abe4500) |
 | Wed, 10 Dec 2025 21:36:10 GMT | The Transparency Fix. How a three-tiered system solved broken parking enforcement. | Stream Data Systems | [Read More](https://medium.com/p/1df5af7d598c) |
 | Wed, 10 Dec 2025 21:19:21 GMT | Observing Real-World RDP Attacks and Thinking like an Attacker | Aimee Liu | [Read More](https://medium.com/p/39ed689340e3) |
 | Wed, 10 Dec 2025 21:12:13 GMT | When Poetry Becomes a Weapon: How Researchers Broke Every Major AI With Verses | Zoom In AI | [Read More](https://medium.com/p/30aae4f3e7c4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 16:00:40 GMT | Why Azure Key Vault is Essential for .NET Security | Lakshitha Madhuwantha | [Read More](https://medium.com/p/d129bf39c2e9) |
 | Wed, 10 Dec 2025 15:46:59 GMT | MBAs Seek Next Amazing New Technology To Ruin | NTTP | [Read More](https://medium.com/p/963fc34cab5d) |
 | Wed, 10 Dec 2025 15:44:22 GMT | There’s No Dropdown for This: Why We Needed a Different Approach to Search | Lucas Longacre | [Read More](https://medium.com/p/f923eb5fabbe) |
-| Wed, 10 Dec 2025 15:44:18 GMT | CVE-2025–55182 (React2Shell) — Complete Bug Bounty Hunting Guide | Abhishek meena | [Read More](https://medium.com/p/9cbfd15b6e47) |
-| Wed, 10 Dec 2025 15:39:27 GMT | The 2026 Guide to “Digital Hygiene” for Teens: Why It Goes Way Beyond Social Media | Night walkr | [Read More](https://medium.com/p/77b07a0e19ea) |
-| Wed, 10 Dec 2025 15:38:00 GMT | Cybersafety- Curating Safer Online Culture | Anushka Dutta | [Read More](https://medium.com/p/5bd468e43610) |
-| Wed, 10 Dec 2025 15:32:12 GMT | Part 42: DNS in Azure: From First Principles to Private DNS Zones | Shubham Barman | [Read More](https://medium.com/p/116c2e92ddfd) |
