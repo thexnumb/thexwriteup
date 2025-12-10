@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 19:28:51 GMT | Cyber Chor aur Digital Daku: How Indian Netizens Can Beat Hackers at Their Own Game | Utkarsh Thakur | [Read More](https://medium.com/p/5bf440f033c2) |
+| Wed, 10 Dec 2025 19:26:57 GMT | Zero-Downtime Migration: Okta to Azure AD for a Production Healthcare Platform | Nayeemashaik | [Read More](https://medium.com/p/34615a474f90) |
+| Wed, 10 Dec 2025 19:26:22 GMT | The evolution from V2Ray to Xray to Sing-box | Md Samaul Haque Malik | [Read More](https://medium.com/p/0f4ffdeb3fe7) |
+| Wed, 10 Dec 2025 19:23:06 GMT | HTB Challenges — Follow the Money | Fardeen A. | [Read More](https://medium.com/p/ba7efc540fca) |
+| Wed, 10 Dec 2025 19:20:15 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 6: DC-7 | Shikhar Sinha | [Read More](https://medium.com/p/6519d5080eae) |
 | Wed, 10 Dec 2025 19:09:19 GMT | Production history around: Bug Video on my Phone | Brandon John Barnard | [Read More](https://medium.com/p/ad872ce23312) |
 | Wed, 10 Dec 2025 19:00:50 GMT | Building Secure and Efficient Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/80d3b4de6812) |
 | Wed, 10 Dec 2025 19:00:11 GMT | 56 Holes in Your Windows Shield: Are You One of the Targets and Don’t Know It Yet? | Germano Costi | [Read More](https://medium.com/p/db5fec81ef1e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 14:10:50 GMT | What Behind My First Critical Bug — ATO $X,XXX | brbr0s | [Read More](https://medium.com/p/079cc10e1951) |
 | Wed, 10 Dec 2025 14:10:35 GMT | Enterprise Content Management: From Chaos to Strategic Advantage | ONE ECM | [Read More](https://medium.com/p/4fea73a01822) |
 | Wed, 10 Dec 2025 14:09:47 GMT | React2Shell: The Exploit That Shocked the Web | Code Coup | [Read More](https://medium.com/p/e8b987d740bd) |
-| Wed, 10 Dec 2025 14:05:41 GMT | Love That Thrives: A True-Life Story Showing how Love Reveals Itself in Vulnerability | Carmen Helen Golden | [Read More](https://medium.com/p/a030a95cd3ea) |
-| Wed, 10 Dec 2025 14:03:05 GMT | Tryhackme Advent of Cyber 2025 (Day1–5) | SpaceIO | [Read More](https://medium.com/p/c6fa2cbf6eae) |
-| Wed, 10 Dec 2025 14:02:24 GMT | Building Stronger Cybersecurity with Smart Frameworks | Paul Meyer | [Read More](https://medium.com/p/7e3204e5fab0) |
-| Wed, 10 Dec 2025 14:02:21 GMT | Linux Security Habit #4 — The One Directory Attackers Always Try to Modify (And How I Catch It… | Faruk Ahmed | [Read More](https://medium.com/p/93c6c461c088) |
-| Wed, 10 Dec 2025 14:02:19 GMT | Magento Security Patches: Why Your Store Needs Them | On Tap | [Read More](https://medium.com/p/c466e349e3ed) |
