@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 15:32:12 GMT | Part 42: DNS in Azure: From First Principles to Private DNS Zones | Shubham Barman | [Read More](https://medium.com/p/116c2e92ddfd) |
+| Wed, 10 Dec 2025 15:29:51 GMT | Stop Leaking Your Keys: A Beginner’s Guide to Hiding Secrets in Flutter | Sabin RanaBhat | [Read More](https://medium.com/p/bf3010fd052d) |
+| Wed, 10 Dec 2025 15:28:08 GMT | Important Security Settings for Your PHP Server | Tarik Aljanabi | [Read More](https://medium.com/p/cf46320659ea) |
 | Wed, 10 Dec 2025 15:22:20 GMT | Unlocking Secrets: How to Create Your Own Wordlist for Hidden Directories and Endpoints | Aman Sharma | [Read More](https://medium.com/p/26a031b288b7) |
+| Wed, 10 Dec 2025 15:21:26 GMT | Self-Learning: The Real Competitive Advantage in Career and Life | Deborah Ehru | [Read More](https://medium.com/p/7620b5806582) |
 | Wed, 10 Dec 2025 15:18:28 GMT | Cracking HTB’s Hubbub Challenge — Turning AVR Buzzer Noise Into a Flag | Krishna Teja | [Read More](https://medium.com/p/568f31cd0a02) |
 | Wed, 10 Dec 2025 15:13:59 GMT | Active Directory | Mert Baykal | [Read More](https://medium.com/p/942293cf82f2) |
 | Wed, 10 Dec 2025 15:06:05 GMT | React2Shell (CVE-2025–55182): 10 Puanlık Kritik Zafiyeti Nasıl İnceledim? | Enes Bayraker | [Read More](https://medium.com/p/977ec518e97f) |
@@ -109,7 +113,3 @@ A Year of Unmasking Critical Browser Vulnerabilities | SquareX | [Read More](htt
 | Wed, 10 Dec 2025 10:12:32 GMT | Day 10 — Legacy Systems (The Old Bridge) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/d85db07cca46) |
 | Wed, 10 Dec 2025 10:08:04 GMT | Email Security Services in Singapore: Protecting Businesses in a Digital-First Era: | HawkShield | [Read More](https://medium.com/p/f012de255ea6) |
 | Wed, 10 Dec 2025 10:02:46 GMT | The Privacy Playbook Your Customers Expect in 2025 | Velorum | [Read More](https://medium.com/p/fe765d73ee3a) |
-| Wed, 10 Dec 2025 09:54:11 GMT | Chennai M.Sc Colleges: Fees, Admission Criteria, Accepted Entrance Exams & Career Opportunities | Ajaykumartripathi | [Read More](https://medium.com/p/fbdfaeb17f28) |
-| Wed, 10 Dec 2025 09:50:23 GMT | A CTF Journey on FLAGYARD | Kyrillos Kamal | [Read More](https://medium.com/p/08af91ffe1c1) |
-| Wed, 10 Dec 2025 09:49:10 GMT | Kendi Active Directory Lab Ortamınızı Kurun-II: Active Directory Güvenliği: Bölüm-6 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/d9e1288a8549) |
-| Wed, 10 Dec 2025 09:46:24 GMT | From a Single Quote & a Space to a 1‑Year AI Subscription | Taher | [Read More](https://medium.com/p/bc89a6671eff) |
