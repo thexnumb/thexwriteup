@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 18:22:43 GMT | km tools | Bahaa Awad | [Read More](https://medium.com/p/5f9717f0d78d) |
+| Wed, 10 Dec 2025 18:16:09 GMT | Microsoft Finally Killed the Hidden Shortcut Bug After Years of Exploitation | Jbird | [Read More](https://medium.com/p/5c8e147d3776) |
+| Wed, 10 Dec 2025 18:12:12 GMT | Beyond Security: Integrating ISO 27001, GDPR, and SOC 2 for Holistic Trust | C.N. Husnul Izzati | [Read More](https://medium.com/p/34e9289b59d1) |
+| Wed, 10 Dec 2025 18:11:27 GMT | Beyond DP: Building Privacy Aware AI Pipelines for the Enterprise | Nishi Kaura | [Read More](https://medium.com/p/eb45fff4f068) |
+| Wed, 10 Dec 2025 18:08:30 GMT | Understanding the AI Shared Responsibility Model: A Comprehensive Framework for Security and Risk… | Juan Pablo Castro | [Read More](https://medium.com/p/9f5c11ea76e3) |
+| Wed, 10 Dec 2025 18:07:22 GMT | #xss0r Community — December Gift! | xss0r | [Read More](https://medium.com/p/cfebcf2c9c2f) |
+| Wed, 10 Dec 2025 18:05:04 GMT | The need for a Thinking, Private Brain & The Death of Dumb Drones | Berend Watchus | [Read More](https://medium.com/p/05a568532c50) |
+| Wed, 10 Dec 2025 18:01:13 GMT | CRITICAL ALERT: Patch Your Next.js App NOW to Stop the ‘React2Shell’ RCE Flaw | Dev Rahul | [Read More](https://medium.com/p/604e86e59487) |
+| Wed, 10 Dec 2025 17:58:23 GMT | Bitunix na-ebuli Ogo Nchekwa na Nkwado Iwu ya elu site na Fireblocks na Elliptic KYT | Mr Alex Yung® | [Read More](https://medium.com/p/3fb94175c55f) |
+| Wed, 10 Dec 2025 17:56:08 GMT | Gain a deeper understanding of Indonesian Cybersecurity Laws | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/941aba6c9fa5) |
+| Wed, 10 Dec 2025 17:50:51 GMT | How A Real Payment System Uses Java to Guarantee Idempotency & Ledger Accuracy | The Dev Notebook | [Read More](https://medium.com/p/b031b90ba17c) |
+| Wed, 10 Dec 2025 17:48:29 GMT | The NPM Supply Chain Security Wake-Up Call (2025) | Prince Makavana | [Read More](https://medium.com/p/edfe800d939d) |
+| Wed, 10 Dec 2025 17:46:33 GMT | LLM-Assisted Malware & Payload Crafting | Derick Johnson | [Read More](https://medium.com/p/78cbb377a82a) |
+| Wed, 10 Dec 2025 17:37:15 GMT | The Human Weak Link: A Transhuman’s Unapologetic Field Manual for Making Companies Care About Cyber… | Len Noe | [Read More](https://medium.com/p/fe268e4e2605) |
+| Wed, 10 Dec 2025 17:37:06 GMT | Life In The Trenches | Paul Smales | [Read More](https://medium.com/p/b88b4576d83c) |
 | Wed, 10 Dec 2025 17:30:10 GMT | The Wormable Malware Incident That Pushed GitHub to Reinforce npm Security | Theotismatthews | [Read More](https://medium.com/p/ec3ad9130a75) |
 | Wed, 10 Dec 2025 17:29:37 GMT | The $1.7 Million Domain That Could Have Exposed Half the World’s Passwords | satyaranjan bal | [Read More](https://medium.com/p/4a4737fdea1a) |
 | Wed, 10 Dec 2025 17:25:41 GMT | What is a Logic Bomb? - VIIEGO | Rolando | [Read More](https://medium.com/p/4abcf606bd4f) |
@@ -98,18 +113,3 @@ A Year of Unmasking Critical Browser Vulnerabilities | SquareX | [Read More](htt
 | Wed, 10 Dec 2025 13:29:23 GMT | What Is VAPT Security Testing and Why Does Your Business Need It | Testrig Technologies | [Read More](https://medium.com/p/95b3f67f7f62) |
 | Wed, 10 Dec 2025 13:18:25 GMT | Why 99% of Bug Hunters Fail — and How to Be the 1% | Vipul Sonule | [Read More](https://medium.com/p/0f07d96885b4) |
 | Wed, 10 Dec 2025 13:14:32 GMT | Inside MAYBEROBOT: Analyzing Russia’s Rapid-Response PowerShell Backdoor | Mark Nikon | [Read More](https://medium.com/p/d6fed3d78ba7) |
-| Wed, 10 Dec 2025 13:07:13 GMT | Penetration Testing on AWS Goat | Bennet Sharwin | [Read More](https://medium.com/p/bb214717b5da) |
-| Wed, 10 Dec 2025 13:06:34 GMT | I Lost $12,000 Using the “Safest” Crypto Wallet -Here’s What Nobody Tells You About Security | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/4cc6eb6b161c) |
-| Wed, 10 Dec 2025 13:02:40 GMT | Money Is Never the Greatest Source of Security | Jarvis mak | [Read More](https://medium.com/p/009876724a17) |
-| Wed, 10 Dec 2025 13:02:13 GMT | Windows PowerShell Now Warns When Running Invoke-WebRequest Scripts: What IT Teams Need to Know | Technijian | [Read More](https://medium.com/p/40618f7d6d01) |
-| Wed, 10 Dec 2025 12:59:19 GMT | React2Shell: Critical Vulnerability in React Server explained with technical details of code | Gustavo Barbieri | [Read More](https://medium.com/p/b75a84e76a1c) |
-| Wed, 10 Dec 2025 12:56:39 GMT | When Cyber Warfare Wears a Civilian Face: The Story of a Ukrainian Hacker, Russian Proxies, and the… | Gbolahan Akinbola | [Read More](https://medium.com/p/f04622ec0747) |
-| Wed, 10 Dec 2025 12:43:17 GMT | Extropy Security Bytes: w49, 2025 | Extropy.IO | [Read More](https://medium.com/p/dd931cca4756) |
-| Wed, 10 Dec 2025 12:43:14 GMT | The Digital Bodyguard: Cybersecurity Consultant for SMBs | Fahad Rajpoot | [Read More](https://medium.com/p/f09e65113fcd) |
-| Wed, 10 Dec 2025 12:42:34 GMT | The Hidden Shift Breaking the Internet’s Old Rules | Nanthakumar | [Read More](https://medium.com/p/953f98d59ac7) |
-| Wed, 10 Dec 2025 12:38:31 GMT | Basic Kali-Linux Commands for Ethical Hacking (Part-2) | Akhil Thakur | [Read More](https://medium.com/p/de6830ea22b2) |
-| Wed, 10 Dec 2025 12:35:44 GMT | The Mask We Wear When Our Heart Is Too Heavy | Rahul Gupta | [Read More](https://medium.com/p/914d996547ab) |
-| Wed, 10 Dec 2025 12:35:35 GMT | React’s New Vulnerability and What It Means for Blockchain Projects | FreeBlock | [Read More](https://medium.com/p/bc68cc3e92d7) |
-| Wed, 10 Dec 2025 12:27:21 GMT | AI‑Based Security Systems: A Guide to Smarter, Faster Threat Management | QualysecEurope | [Read More](https://medium.com/p/f7e9ce7b51ff) |
-| Wed, 10 Dec 2025 12:18:17 GMT | Enterprise AI Agent Implementation: Bridging the Gap Between Autonomy and Production Readiness | Dean Taplin | [Read More](https://medium.com/p/bfa61e058ce0) |
-| Wed, 10 Dec 2025 12:17:17 GMT | Tech Engineer — IT Services, Web Development & Industrial Training | Tech Engineer | [Read More](https://medium.com/p/ce32cf7cad54) |
