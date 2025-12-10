@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 11:06:43 GMT | Linux Networking Cheat Sheet | Oz | [Read More](https://medium.com/p/06616c58288a) |
+| Wed, 10 Dec 2025 11:02:24 GMT | Here is your version shortened by ~1000 characters, still sharp, human, viral, and clean: | Salimassili | [Read More](https://medium.com/p/8f3dc6d998b5) |
+| Wed, 10 Dec 2025 10:55:48 GMT | Wireshark Traffic Analysis: Identifying Hosts: DHCP, NetBIOS and Kerberos | Citadel Cybersec | [Read More](https://medium.com/p/350f57669086) |
+| Wed, 10 Dec 2025 10:53:52 GMT | My Bug Bounty Mindmap: From Target to Takeover (With Practical Steps) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/3eb03ef0bf94) |
+| Wed, 10 Dec 2025 10:52:32 GMT | How Microsoft Azure Solves Top Challenges in SAP Cloud Migration | Techridge Solutions | [Read More](https://medium.com/p/7b4776615f23) |
+| Wed, 10 Dec 2025 10:51:24 GMT | Top 15 cybersecurity companies in India 2026 | StrongBox IT | [Read More](https://medium.com/p/0ca7ebe8ae2e) |
+| Wed, 10 Dec 2025 10:49:29 GMT | The First Humans Raised by Algorithms : Generation Alpha | Abdul Salam Chaudhary - Psychologist | [Read More](https://medium.com/p/269ee343536d) |
+| Wed, 10 Dec 2025 10:47:03 GMT | Security Lab Simulation Project Part 8: Wazuh Server Setup and Configuration | Jenny | [Read More](https://medium.com/p/2936d7808bf1) |
+| Wed, 10 Dec 2025 10:45:26 GMT | Basic Networking + Python Complete Programming Bundle — Special Year-End Offer by Craw Security | Manisha Chaudhary | [Read More](https://medium.com/p/9b62d9de677a) |
 | Wed, 10 Dec 2025 10:42:40 GMT | How to Become a Penetration Tester in 2026 — Complete Beginner Roadmap | Learning Saints | [Read More](https://medium.com/p/cc14f996ac7e) |
 | Wed, 10 Dec 2025 10:41:41 GMT | SQL Injection | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/ea281b7bcc2e) |
 | Wed, 10 Dec 2025 10:30:02 GMT | Wazuh × Tines SOAR Integration Lab — Phase 2 | Hanif K A | [Read More](https://medium.com/p/c8d1f8409b58) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 05:39:17 GMT | How To Set Up A Secure Microsoft Business Account For Teams? | Kendall Garcia | [Read More](https://medium.com/p/ff73d59ce44f) |
 | Wed, 10 Dec 2025 05:24:23 GMT | Passwords — A Cracking Christmas | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/bd0a1b8f9aa2) |
 | Wed, 10 Dec 2025 05:23:33 GMT | BackdoorCTF 2025 experience (and writeups) | Maksim Hayder | [Read More](https://medium.com/p/5d700ddc2e87) |
-| Wed, 10 Dec 2025 05:17:35 GMT | HTB Challenge — Social Media Investigation | Fardeen A. | [Read More](https://medium.com/p/a51b49be99ff) |
-| Wed, 10 Dec 2025 05:07:58 GMT | Best skill development center in Delhi NCR | Diyanagra | [Read More](https://medium.com/p/79eacc2ff54e) |
-| Wed, 10 Dec 2025 05:03:16 GMT | Design-Time DevSecOps: Security Before the First Commit | Dave Patten | [Read More](https://medium.com/p/2a8274e89297) |
-| Wed, 10 Dec 2025 04:58:23 GMT | Could Your Linux Setup Be Giving You A False Sense Of Security With DLP For Linux? | keyTrackr | [Read More](https://medium.com/p/f79d3f08ec39) |
-| Wed, 10 Dec 2025 04:54:19 GMT | Cyber Kill Chain | Demegorash | [Read More](https://medium.com/p/955a3819faa9) |
-| Wed, 10 Dec 2025 04:54:04 GMT | Deep-Dive Domain Intelligence: A Practical WHOIS Recon Walkthrough | Abhayal | [Read More](https://medium.com/p/92f7271b99dd) |
-| Wed, 10 Dec 2025 04:45:44 GMT | HackSmarter Arasaka AD Lab Writeup | Avyukt Security | [Read More](https://medium.com/p/b57d7e0b5e48) |
-| Wed, 10 Dec 2025 04:38:52 GMT | How I Built a Private ITAR Compliance Scanner on a Mac | Sean McConoughey | [Read More](https://medium.com/p/37ca071282c2) |
-| Wed, 10 Dec 2025 04:26:47 GMT | The AI “Kidnapping” Call: How 3 Seconds of Audio Can Ruin Your Life (And How to Stop It) | ByteSwift Digital pro | [Read More](https://medium.com/p/58e199db3536) |
