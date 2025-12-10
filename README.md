@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 17:30:10 GMT | The Wormable Malware Incident That Pushed GitHub to Reinforce npm Security | Theotismatthews | [Read More](https://medium.com/p/ec3ad9130a75) |
+| Wed, 10 Dec 2025 17:29:37 GMT | The $1.7 Million Domain That Could Have Exposed Half the World’s Passwords | satyaranjan bal | [Read More](https://medium.com/p/4a4737fdea1a) |
+| Wed, 10 Dec 2025 17:25:41 GMT | What is a Logic Bomb? - VIIEGO | Rolando | [Read More](https://medium.com/p/4abcf606bd4f) |
 | Wed, 10 Dec 2025 17:20:40 GMT | Internet of Things (IoT) | Himanshu Bhatt | [Read More](https://medium.com/p/6969c01ecaa7) |
 | Wed, 10 Dec 2025 17:19:42 GMT | ⚠️ The Rising Wave of Cyber Threats | grandpas story | [Read More](https://medium.com/p/6afe18019412) |
 | Wed, 10 Dec 2025 17:08:30 GMT | Getting Started With bWAPP on Kali Linux Using Docker | Sithum Ranasinghe | [Read More](https://medium.com/p/47e9c3c470b6) |
@@ -110,6 +113,3 @@ A Year of Unmasking Critical Browser Vulnerabilities | SquareX | [Read More](htt
 | Wed, 10 Dec 2025 12:27:21 GMT | AI‑Based Security Systems: A Guide to Smarter, Faster Threat Management | QualysecEurope | [Read More](https://medium.com/p/f7e9ce7b51ff) |
 | Wed, 10 Dec 2025 12:18:17 GMT | Enterprise AI Agent Implementation: Bridging the Gap Between Autonomy and Production Readiness | Dean Taplin | [Read More](https://medium.com/p/bfa61e058ce0) |
 | Wed, 10 Dec 2025 12:17:17 GMT | Tech Engineer — IT Services, Web Development & Industrial Training | Tech Engineer | [Read More](https://medium.com/p/ce32cf7cad54) |
-| Wed, 10 Dec 2025 12:06:41 GMT | Strengthening Web3 Security: Recent Vulnerability Findings from Yhbit | Yhbit | [Read More](https://medium.com/p/4f6586f9a2a2) |
-| Wed, 10 Dec 2025 12:06:01 GMT | Depeche Mode’s Prediction of Corporate Elitism, Lies, and Deceit | Namir Sagheenanajar | [Read More](https://medium.com/p/b2f4db8eb48c) |
-| Wed, 10 Dec 2025 12:03:24 GMT | Discover the Top Cybersecurity Solutions for 2025: A Complete Guide to VAPT, SASE, and Network… | networsys | [Read More](https://medium.com/p/5645588931c2) |
