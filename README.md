@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 20:23:48 GMT | Why Vulnerability Is The Strongest Thing You Can Embrace | NY Media Hub | [Read More](https://medium.com/p/00e8596097d0) |
+| Wed, 10 Dec 2025 20:15:24 GMT | 6 best firewalls for macOS in 2026: Tested picks for privacy-focused users | Yuriy Varbanets | [Read More](https://medium.com/p/ed16748d8804) |
+| Wed, 10 Dec 2025 20:04:44 GMT | INVISIBLE TRACES - RDP | JHP | [Read More](https://medium.com/p/0fa6b0d4329f) |
+| Wed, 10 Dec 2025 20:04:23 GMT | Advent of Cyber 25 — Day 9— Passwords — A Cracking Christmas | cybertactic | [Read More](https://medium.com/p/9fade955c7aa) |
 | Wed, 10 Dec 2025 19:28:51 GMT | Cyber Chor aur Digital Daku: How Indian Netizens Can Beat Hackers at Their Own Game | Utkarsh Thakur | [Read More](https://medium.com/p/5bf440f033c2) |
 | Wed, 10 Dec 2025 19:26:57 GMT | Zero-Downtime Migration: Okta to Azure AD for a Production Healthcare Platform | Nayeemashaik | [Read More](https://medium.com/p/34615a474f90) |
 | Wed, 10 Dec 2025 19:26:22 GMT | The evolution from V2Ray to Xray to Sing-box | Md Samaul Haque Malik | [Read More](https://medium.com/p/0f4ffdeb3fe7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 14:24:33 GMT | Cognitive Mismatch Challenge (CMC): A New Frontier in AI Detection.(CAPTCHA) | Pourlier jason | [Read More](https://medium.com/p/a4b6fe9de22a) |
 | Wed, 10 Dec 2025 14:19:39 GMT | Pragmatism: Why German Love for Perfect Processes Is a Transformation Killer | Nina Sophie Pejsa | [Read More](https://medium.com/p/9d1c2393b472) |
 | Wed, 10 Dec 2025 14:14:38 GMT | Güvenlik Duvarındaki Sessiz Tehlike: | HSD ATLAS | [Read More](https://medium.com/p/eebe689059e9) |
-| Wed, 10 Dec 2025 14:13:53 GMT | Fortifying FinTech Against Cyber Threats⚠️ | KnubiSoft | [Read More](https://medium.com/p/af196f0af303) |
-| Wed, 10 Dec 2025 14:10:50 GMT | What Behind My First Critical Bug — ATO $X,XXX | brbr0s | [Read More](https://medium.com/p/079cc10e1951) |
-| Wed, 10 Dec 2025 14:10:35 GMT | Enterprise Content Management: From Chaos to Strategic Advantage | ONE ECM | [Read More](https://medium.com/p/4fea73a01822) |
-| Wed, 10 Dec 2025 14:09:47 GMT | React2Shell: The Exploit That Shocked the Web | Code Coup | [Read More](https://medium.com/p/e8b987d740bd) |
