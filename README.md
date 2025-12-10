@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 13:31:41 GMT | Building a Modern Cyber Security Architecture | Sebastian Kandler | [Read More](https://medium.com/p/cc41b844bec2) |
+| Wed, 10 Dec 2025 13:29:23 GMT | What Is VAPT Security Testing and Why Does Your Business Need It | Testrig Technologies | [Read More](https://medium.com/p/95b3f67f7f62) |
+| Wed, 10 Dec 2025 13:18:25 GMT | Why 99% of Bug Hunters Fail — and How to Be the 1% | Vipul Sonule | [Read More](https://medium.com/p/0f07d96885b4) |
+| Wed, 10 Dec 2025 13:14:32 GMT | Inside MAYBEROBOT: Analyzing Russia’s Rapid-Response PowerShell Backdoor | Mark Nikon | [Read More](https://medium.com/p/d6fed3d78ba7) |
+| Wed, 10 Dec 2025 13:07:13 GMT | Penetration Testing on AWS Goat | Bennet Sharwin | [Read More](https://medium.com/p/bb214717b5da) |
+| Wed, 10 Dec 2025 13:06:34 GMT | I Lost $12,000 Using the “Safest” Crypto Wallet -Here’s What Nobody Tells You About Security | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/4cc6eb6b161c) |
+| Wed, 10 Dec 2025 13:02:40 GMT | Money Is Never the Greatest Source of Security | Jarvis mak | [Read More](https://medium.com/p/009876724a17) |
+| Wed, 10 Dec 2025 13:02:13 GMT | Windows PowerShell Now Warns When Running Invoke-WebRequest Scripts: What IT Teams Need to Know | Technijian | [Read More](https://medium.com/p/40618f7d6d01) |
+| Wed, 10 Dec 2025 12:59:19 GMT | React2Shell: Critical Vulnerability in React Server explained with technical details of code | Gustavo Barbieri | [Read More](https://medium.com/p/b75a84e76a1c) |
+| Wed, 10 Dec 2025 12:56:39 GMT | When Cyber Warfare Wears a Civilian Face: The Story of a Ukrainian Hacker, Russian Proxies, and the… | Gbolahan Akinbola | [Read More](https://medium.com/p/f04622ec0747) |
 | Wed, 10 Dec 2025 12:43:17 GMT | Extropy Security Bytes: w49, 2025 | Extropy.IO | [Read More](https://medium.com/p/dd931cca4756) |
 | Wed, 10 Dec 2025 12:43:14 GMT | The Digital Bodyguard: Cybersecurity Consultant for SMBs | Fahad Rajpoot | [Read More](https://medium.com/p/f09e65113fcd) |
 | Wed, 10 Dec 2025 12:42:34 GMT | The Hidden Shift Breaking the Internet’s Old Rules | Nanthakumar | [Read More](https://medium.com/p/953f98d59ac7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 07:25:01 GMT | Top Trending Tech Domains & Skills for 2026 | Anjali | [Read More](https://medium.com/p/8ad7fa4548fa) |
 | Wed, 10 Dec 2025 07:22:36 GMT | The Daily Tech Digest: 10 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/92a1e5fe6581) |
 | Wed, 10 Dec 2025 07:19:13 GMT | Paging Dr. Deepfake: | expansions -- D. Hannaham | [Read More](https://medium.com/p/20ee70e2cec1) |
-| Wed, 10 Dec 2025 07:17:48 GMT | Externalised Policy Enforcement in Zapper: a cloud‑native approach to managed file transfer | Prabhu Srivastava | [Read More](https://medium.com/p/42aa24249453) |
-| Wed, 10 Dec 2025 07:15:30 GMT | Global Cyberattack | Anamika Singh | [Read More](https://medium.com/p/7181b1830c06) |
-| Wed, 10 Dec 2025 07:14:10 GMT | The Night I Learned Recon Is 80% of Hacking (And Why I Was Doing It Wrong) | Fateyaly | [Read More](https://medium.com/p/835657de2188) |
-| Wed, 10 Dec 2025 07:09:40 GMT | The 2-Minute Fix: Eliminating Render-Blocking CSS in WordPress | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/c08a780b8946) |
-| Wed, 10 Dec 2025 07:04:53 GMT | Leaked PayPal production Client id and API Secret → full merchant takeover Closed as “Informative”… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/c2781f9aaaa7) |
-| Wed, 10 Dec 2025 07:04:00 GMT | Tải Tank Stars Hack (MOD Full Tiền, Max Level, Menu) V2.12.100 | Game4u | [Read More](https://medium.com/p/cb972f1e10eb) |
-| Wed, 10 Dec 2025 07:02:14 GMT | Red vs. Blue: Building (and Breaking) the Battlefield | Madhan Mohan Reddy | [Read More](https://medium.com/p/e71b2c3374ea) |
-| Wed, 10 Dec 2025 07:02:02 GMT | Digital Hygiene: The Simple Tech Habits That Protect You More Than Any Antivirus. | Grace Chukwunta | [Read More](https://medium.com/p/9bdac0dd183a) |
-| Wed, 10 Dec 2025 06:58:37 GMT | Ode to the fly | Fiona Cockburn | [Read More](https://medium.com/p/ce9525afcffb) |
-| Wed, 10 Dec 2025 06:57:13 GMT | Tải Huyền Thoại Hải Tặc Lậu (Việt Hóa) v1.0.5 | Bandisharecx | [Read More](https://medium.com/p/a63d8f11f019) |
