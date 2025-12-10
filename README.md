@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 08:26:47 GMT | ️ When an Image Loader Turned Into a Backdoor: My Discovery of a Blind SSRF on a Blockchain… | Anshubind | [Read More](https://medium.com/p/94d33d6d5371) |
+| Wed, 10 Dec 2025 08:24:53 GMT | When a Login Page Became a Trap: My Discovery of a Web Cache Deception Vulnerability | Anshubind | [Read More](https://medium.com/p/d1cbbdc0203f) |
+| Wed, 10 Dec 2025 08:18:08 GMT | Data Security Failing? Try Powerful Free Antivirus Now | SiyanoAV | [Read More](https://medium.com/p/ace4240e2efc) |
+| Wed, 10 Dec 2025 08:15:37 GMT | Microsoft Drops 56 New Vulnerabilities — Including 3 Zero-Days. | Dave MacKinnon | [Read More](https://medium.com/p/acf8a01a62ed) |
+| Wed, 10 Dec 2025 08:13:50 GMT | The End of “Good Enough” Security: A Personal Manifesto | Gideon Cohen | [Read More](https://medium.com/p/8b1cefacc6b8) |
+| Wed, 10 Dec 2025 08:12:14 GMT | Cybersecurity: To be Zero (day) | Spazioformadesign | [Read More](https://medium.com/p/f5ade40203ca) |
+| Wed, 10 Dec 2025 08:11:49 GMT | Infomatic Technologies: A Trusted Partner for Modern Business Outsourcing | Infomatic Solutions | [Read More](https://medium.com/p/7e953d563b8a) |
+| Wed, 10 Dec 2025 08:10:59 GMT | What One Leader Told Me About Why They Stayed with Us Client Interview or Story (anonymised) | Fook Hwa Tan | [Read More](https://medium.com/p/6192d0165042) |
+| Wed, 10 Dec 2025 08:09:59 GMT | Key Takeaways from Today’s Cybersecurity Panel | Fook Hwa Tan | [Read More](https://medium.com/p/a623085d53b2) |
+| Wed, 10 Dec 2025 08:08:36 GMT | The Windows Security Journey — BitLocker to Go | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6be07bc054bf) |
+| Wed, 10 Dec 2025 08:05:07 GMT | Adopting Modern Strategies to Strengthen Digital Security and Risk Prevention | Vijilan | [Read More](https://medium.com/p/616022f0483e) |
+| Wed, 10 Dec 2025 08:03:57 GMT | The AI Advantage in SecOps Starts With What You Can See | Stellar Cyber | [Read More](https://medium.com/p/840602661348) |
+| Wed, 10 Dec 2025 08:01:28 GMT | How SSL Works / How Do You Secure Your Web App? | Sahil Gupta | [Read More](https://medium.com/p/a72441065f02) |
+| Wed, 10 Dec 2025 07:53:56 GMT | Your Cyber Defenses are Already Obsolete | Aes Sedai | [Read More](https://medium.com/p/35b14b8f94e2) |
+| Wed, 10 Dec 2025 07:49:32 GMT | Optimized Dockerfile for SvelteKit applications — from experience and best practices | Balazs Csaba | [Read More](https://medium.com/p/99603d8d1303) |
+| Wed, 10 Dec 2025 07:40:38 GMT | Nightowl:A tool designed to lock onto overlooked internal network paths, uncover hidden active… | Мартин. | [Read More](https://medium.com/p/cfe0ff366441) |
+| Wed, 10 Dec 2025 07:37:32 GMT | If you’re looking for the best vapt services provider to safeguard your digital assets, look no… | StrongBox IT | [Read More](https://medium.com/p/7ed8f051f80e) |
 | Wed, 10 Dec 2025 07:33:03 GMT | How IT Services Companies in Australia Drive Business Transformation | IT Company | [Read More](https://medium.com/p/decd5b167806) |
 | Wed, 10 Dec 2025 07:32:14 GMT | The EU’s AI Code of Practice: A Milestone in Frontier AI Safety | Simon Hodgkins | [Read More](https://medium.com/p/43e1cf4660a1) |
 | Wed, 10 Dec 2025 07:31:25 GMT | Stop Fighting Browser HTTPS Errors: Running mkcert Certificates with Traefik for Local Development | Scaibu | [Read More](https://medium.com/p/c2ea8e70b196) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 01:20:06 GMT | The Physics of Hardware Hacking (Part 1) | X-3306 | [Read More](https://medium.com/p/eb39044163c1) |
 | Wed, 10 Dec 2025 01:02:49 GMT | Part 5/5 Splunk Dashboard for SSH Logs | Chaima KHABTHENI | [Read More](https://medium.com/p/01c505f7185a) |
 | Wed, 10 Dec 2025 00:54:48 GMT | Apache Config vs. .htaccess: The Security Battle You’re Probably Losing | BotsiCat | [Read More](https://medium.com/p/37f3baa3fbdc) |
-| Wed, 10 Dec 2025 00:34:08 GMT | When Budget Cuts Become Breach Risks: A CISO’s Dilemma in the Age of AI | Byron Love, MBA, PgMP, PMP, CISSP | [Read More](https://medium.com/p/08486b368fbe) |
-| Wed, 10 Dec 2025 00:22:12 GMT | Part 4 :    HTTP Log Analysis using Splunk | Chaima KHABTHENI | [Read More](https://medium.com/p/6d19bc8f2d2b) |
-| Wed, 10 Dec 2025 00:13:01 GMT | CCEP Badged | Kehindeadesunloye | [Read More](https://medium.com/p/c26438a7ef33) |
-| Wed, 10 Dec 2025 00:07:44 GMT | The Power of Threat Intelligence Platforms | Samina Perveen | [Read More](https://medium.com/p/30c70623e6f5) |
-| Wed, 10 Dec 2025 00:05:54 GMT | Hire a Hacker Pro: The World’s Most Advanced Offensive Cybersecurity Firm | Maxine Patrillo | [Read More](https://medium.com/p/6557f7ad6da4) |
-| Wed, 10 Dec 2025 00:04:42 GMT | Easy: Install Marauder on the Flipper Zero + WiFi Dev Board | HackettSec | [Read More](https://medium.com/p/dfa8fcb79701) |
-| Wed, 10 Dec 2025 00:03:18 GMT | React2Shell(CVE 2025–55182): Command Injection | Abhishek Gupta | [Read More](https://medium.com/p/925999689256) |
-| Wed, 10 Dec 2025 00:02:19 GMT | API8:2023 Security Misconfiguration: Detection, Impact, and Mitigation | JPablo13 | [Read More](https://medium.com/p/b83176084f57) |
-| Tue, 09 Dec 2025 23:32:15 GMT | My CPTS Exam Experience (Part 3): Failing the Report, Rewriting Everything, and Finally Passing | Kentucky Mathitis | [Read More](https://medium.com/p/43b273caae17) |
-| Tue, 09 Dec 2025 23:31:18 GMT | Running Kali Linux on WSL 2? Here’s How to Connect External USB Wi-Fi or PenDrives (usbipd Guide) | Sharif Madber | [Read More](https://medium.com/p/3ec65c4f61b4) |
-| Tue, 09 Dec 2025 23:28:14 GMT | HackTheBox Windows Event Logs & Finding Evil module — Analyzing Evil With Sysmon & Event Logs | Zainab Akinlawon | [Read More](https://medium.com/p/d8bbbc0c19c1) |
-| Tue, 09 Dec 2025 23:24:50 GMT | SOC104 — Malware Detected Alert Walkthrough — LetsDefend | Mohammad Salam | [Read More](https://medium.com/p/c925b69329c7) |
-| Tue, 09 Dec 2025 23:22:22 GMT | RAM’in Ötesinde: Modern Bellek Yönetimi ve Güvenlik Mimarisi | Ali Yakar | [Read More](https://medium.com/p/9c5876d28c90) |
-| Tue, 09 Dec 2025 23:08:58 GMT | Why Financial Firms Still Struggle With Cybersecurity Compliance (And What to Do About It) | CompuWork | [Read More](https://medium.com/p/36a674fbee5e) |
-| Tue, 09 Dec 2025 22:59:59 GMT | “Why Should I Care About Privacy If I’m Not Doing Anything Wrong?” | Ethics In Beta | [Read More](https://medium.com/p/480251a8dbba) |
-| Tue, 09 Dec 2025 22:58:14 GMT | Developers Love It. Hackers Love It More. The Truth About Vibe Coding | Cyber-AppSec | [Read More](https://medium.com/p/6fbaa9d09e8c) |
-| Tue, 09 Dec 2025 22:45:10 GMT | Disadvantages of Running a Business Without a Website | Victory Nnaemeka | [Read More](https://medium.com/p/2cd00d80e80a) |
