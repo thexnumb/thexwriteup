@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 21:19:21 GMT | Observing Real-World RDP Attacks and Thinking like an Attacker | Aimee Liu | [Read More](https://medium.com/p/39ed689340e3) |
+| Wed, 10 Dec 2025 21:12:13 GMT | When Poetry Becomes a Weapon: How Researchers Broke Every Major AI With Verses | Zoom In AI | [Read More](https://medium.com/p/30aae4f3e7c4) |
 | Wed, 10 Dec 2025 20:57:18 GMT | Snapped Phish-ing Line — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/4e20ca0c37e7) |
 | Wed, 10 Dec 2025 20:41:44 GMT | Cybersecurity Policy Pivot: Analyzing the White House’s New Executive Order and Its Impact on… | CCD-IS | [Read More](https://medium.com/p/436739e02ca0) |
 | Wed, 10 Dec 2025 20:32:16 GMT | Roblox Scams: Are Free Robux Apps Safe for Kids? A Parent’s Guide | Cyber Dive | [Read More](https://medium.com/p/af8c02ea9763) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 15:02:32 GMT | Hacking the Connected Car: Part 2 — Seeing the Unseen | Federico Barsanti | [Read More](https://medium.com/p/920897bd211d) |
 | Wed, 10 Dec 2025 14:58:24 GMT | From Detection to Action: Transforming SOC Efficiency with NDR Solution | NetWitness | [Read More](https://medium.com/p/c8c58623b944) |
 | Wed, 10 Dec 2025 14:58:22 GMT | Microsoft Silently Mitigates Years-Old LNK Vulnerability: Everything Businesses Need to Know | IT_Engineer | [Read More](https://medium.com/p/52c1f9771220) |
-| Wed, 10 Dec 2025 14:57:44 GMT | ATT&CK® Evaluations’ Enterprise 2025 | Lex Crumpton | [Read More](https://medium.com/p/d4aed00dc646) |
-| Wed, 10 Dec 2025 14:55:30 GMT | Setting Up a Proxy Server: Step-by-Step for Beginners | ProxiesThatWork | [Read More](https://medium.com/p/2d080ab1b1e1) |
