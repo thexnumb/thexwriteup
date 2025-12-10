@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 01:44:41 GMT | Loki & Promtail: A Deep Dive into Scalable Logging | Srikanta Sahu | [Read More](https://medium.com/p/65dbcf66cb1c) |
+| Wed, 10 Dec 2025 01:38:28 GMT | How I Exploited Blind SSRF to Own an AWS Environment — My Step-by-Step Red Team Hunt | ZAYN | [Read More](https://medium.com/p/c403378b06a4) |
+| Wed, 10 Dec 2025 01:30:49 GMT | When AI Shouldn’t Automate | John Williams | [Read More](https://medium.com/p/6d924c68348e) |
+| Wed, 10 Dec 2025 01:29:08 GMT | Remote Workers Face New Risks From Fake Meeting Fix Prompts | Geoffrey Wenger | [Read More](https://medium.com/p/2ba1a1dc0670) |
+| Wed, 10 Dec 2025 01:28:57 GMT | National AI Rule Sparks A New Fight Over Tech Oversight | Geoffrey Wenger | [Read More](https://medium.com/p/5f06fa5b5395) |
+| Wed, 10 Dec 2025 01:28:47 GMT | React2Shell — CVE-2025-55182 Unauthenticated Remote Code Execution in React Server Components | CyberQuestor | [Read More](https://medium.com/p/b6bf7ee6c22f) |
+| Wed, 10 Dec 2025 01:20:06 GMT | The Physics of Hardware Hacking (Part 1) | X-3306 | [Read More](https://medium.com/p/eb39044163c1) |
+| Wed, 10 Dec 2025 01:02:49 GMT | Part 5/5 Splunk Dashboard for SSH Logs | Chaima KHABTHENI | [Read More](https://medium.com/p/01c505f7185a) |
+| Wed, 10 Dec 2025 00:54:48 GMT | Apache Config vs. .htaccess: The Security Battle You’re Probably Losing | BotsiCat | [Read More](https://medium.com/p/37f3baa3fbdc) |
+| Wed, 10 Dec 2025 00:34:08 GMT | When Budget Cuts Become Breach Risks: A CISO’s Dilemma in the Age of AI | Byron Love, MBA, PgMP, PMP, CISSP | [Read More](https://medium.com/p/08486b368fbe) |
+| Wed, 10 Dec 2025 00:22:12 GMT | Part 4 :    HTTP Log Analysis using Splunk | Chaima KHABTHENI | [Read More](https://medium.com/p/6d19bc8f2d2b) |
+| Wed, 10 Dec 2025 00:13:01 GMT | CCEP Badged | Kehindeadesunloye | [Read More](https://medium.com/p/c26438a7ef33) |
+| Wed, 10 Dec 2025 00:07:44 GMT | The Power of Threat Intelligence Platforms | Samina Perveen | [Read More](https://medium.com/p/30c70623e6f5) |
+| Wed, 10 Dec 2025 00:05:54 GMT | Hire a Hacker Pro: The World’s Most Advanced Offensive Cybersecurity Firm | Maxine Patrillo | [Read More](https://medium.com/p/6557f7ad6da4) |
+| Wed, 10 Dec 2025 00:04:42 GMT | Easy: Install Marauder on the Flipper Zero + WiFi Dev Board | HackettSec | [Read More](https://medium.com/p/dfa8fcb79701) |
+| Wed, 10 Dec 2025 00:03:18 GMT | React2Shell(CVE 2025–55182): Command Injection | Abhishek Gupta | [Read More](https://medium.com/p/925999689256) |
+| Wed, 10 Dec 2025 00:02:19 GMT | API8:2023 Security Misconfiguration: Detection, Impact, and Mitigation | JPablo13 | [Read More](https://medium.com/p/b83176084f57) |
 | Tue, 09 Dec 2025 23:32:15 GMT | My CPTS Exam Experience (Part 3): Failing the Report, Rewriting Everything, and Finally Passing | Kentucky Mathitis | [Read More](https://medium.com/p/43b273caae17) |
 | Tue, 09 Dec 2025 23:31:18 GMT | Running Kali Linux on WSL 2? Here’s How to Connect External USB Wi-Fi or PenDrives (usbipd Guide) | Sharif Madber | [Read More](https://medium.com/p/3ec65c4f61b4) |
 | Tue, 09 Dec 2025 23:28:14 GMT | HackTheBox Windows Event Logs & Finding Evil module — Analyzing Evil With Sysmon & Event Logs | Zainab Akinlawon | [Read More](https://medium.com/p/d8bbbc0c19c1) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 17:09:58 GMT | “Top 10 Tools Every Bug Bounty Hunter Must Use” | Aman Sharma | [Read More](https://medium.com/p/900425e33f8d) |
 | Tue, 09 Dec 2025 17:03:58 GMT | Cyber Security | Haider Baloch | [Read More](https://medium.com/p/4de7e9fb3e6d) |
 | Tue, 09 Dec 2025 17:02:15 GMT | The Day I Realized Identity Security Was Broken — And Why AI Makes It Worse | Shazmeen Sohail | [Read More](https://medium.com/p/9f24156f2b5d) |
-| Tue, 09 Dec 2025 17:01:00 GMT | HackTheBox: Gavel Writeup — From Web to Root | Rahaliashraf | [Read More](https://medium.com/p/f26d4c0f880c) |
-| Tue, 09 Dec 2025 16:48:53 GMT | The 7 Best Backup Tools for Your Company in 2026 | Cordula Boeck | [Read More](https://medium.com/p/8c3d6dcd9931) |
-| Tue, 09 Dec 2025 16:36:33 GMT | View To Peace Building And Security In The Modern World; How Can We End Banditry In Nigeria? | Goto Emmanuel | [Read More](https://medium.com/p/69deb3309467) |
-| Tue, 09 Dec 2025 16:33:29 GMT | Hey Medium fam…
- Tonight, I’m writing this with a chill down my spine. | Hachtechnology | [Read More](https://medium.com/p/068c8dbf38eb) |
-| Tue, 09 Dec 2025 16:26:26 GMT | If You Think a Vulnerable Man Is Weak…You Might Be the Problem | THE WRITER’S LENS | [Read More](https://medium.com/p/6c1e46275797) |
-| Tue, 09 Dec 2025 16:20:24 GMT | Agentic AI Attacks and the New Cybersecurity Landscape | Gadi Singer | [Read More](https://medium.com/p/96f4dc41ce9c) |
-| Tue, 09 Dec 2025 16:12:26 GMT | How to Store Critical Secrets for 100+ Years | Mohamad Nashaat | [Read More](https://medium.com/p/f4006765a544) |
-| Tue, 09 Dec 2025 16:03:36 GMT | Cybersecurity Decoded: From Your Click to a Hacker’s Attack | mohandika | [Read More](https://medium.com/p/7d6b5bf99134) |
-| Tue, 09 Dec 2025 16:02:54 GMT | True AI independence starts with your architecture, not your data location | Enrico Karsten | [Read More](https://medium.com/p/3c9089a49ab9) |
-| Tue, 09 Dec 2025 15:58:38 GMT | Beyond “The Craft of Intelligence”: Human Agency in the Age of Digital Espionage | Andrey Spiridonov | [Read More](https://medium.com/p/70e7698ca1f9) |
-| Tue, 09 Dec 2025 15:51:59 GMT | The Evolution Of Smart Contracts | Obotonmedium | [Read More](https://medium.com/p/ce6265d031a2) |
-| Tue, 09 Dec 2025 15:47:54 GMT | 9 Networking Protocols Powering the Internet (And Why You Should Know Them) | Paradise technologies Inc | [Read More](https://medium.com/p/cc4c5b4c4927) |
-| Tue, 09 Dec 2025 15:46:48 GMT | The Quiet Token Heist: Why 2026’s Biggest SaaS Breaches Won’t Start With Passwords | Wes Young | [Read More](https://medium.com/p/03276f0f14c1) |
-| Tue, 09 Dec 2025 15:45:53 GMT | Performing a Brute Force Attack on DVWA using Burp Suite | Aswin Pramod | [Read More](https://medium.com/p/f42516740b68) |
-| Tue, 09 Dec 2025 15:38:36 GMT | ️‍♂️ From User to Super Admin: A Hacker’s Playbook for Elevation via Misconfigured APIs | 0xUnkn0wn | [Read More](https://medium.com/p/b76da4d20132) |
-| Tue, 09 Dec 2025 15:32:10 GMT | A Complete Guide to Modern Authentication and Authorization | Rusiru Gunaratne | [Read More](https://medium.com/p/eae7b9272efb) |
-| Tue, 09 Dec 2025 15:25:24 GMT | A Simple AI-Assisted Workflow That Helped Me Regain My Writing Momentum | Mansi Sachar | [Read More](https://medium.com/p/d56011f810c6) |
