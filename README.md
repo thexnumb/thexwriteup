@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 04:38:52 GMT | How I Built a Private ITAR Compliance Scanner on a Mac | Sean McConoughey | [Read More](https://medium.com/p/37ca071282c2) |
+| Wed, 10 Dec 2025 04:26:47 GMT | The AI “Kidnapping” Call: How 3 Seconds of Audio Can Ruin Your Life (And How to Stop It) | ByteSwift Digital pro | [Read More](https://medium.com/p/58e199db3536) |
+| Wed, 10 Dec 2025 04:21:30 GMT | Open Source Intelligence (OSINT): Start-to-Finish Practical Guide | Aj | [Read More](https://medium.com/p/88bc53ef163e) |
+| Wed, 10 Dec 2025 04:21:24 GMT | Tools To Investigate Phone Numbers-OSINT | loyalonlytoday | [Read More](https://medium.com/p/ee4b28c201e9) |
+| Wed, 10 Dec 2025 04:21:17 GMT | $2,500 Bounty: The Silent Cache Poisoning Attack Hidden in One Header | Monika sharma | [Read More](https://medium.com/p/b42b2b6a33b3) |
+| Wed, 10 Dec 2025 04:17:14 GMT | $1,000 Bounty: How Bypass Admin Approval in an inDriver | Monika sharma | [Read More](https://medium.com/p/78f19fe84572) |
+| Wed, 10 Dec 2025 04:12:17 GMT | From NTLM Relay to Domain Compromise: A Practical Walkthrough of ADCS ESC8 | codesterzz | [Read More](https://medium.com/p/e78e99c25a70) |
 | Wed, 10 Dec 2025 03:56:37 GMT | The Quantum “Master Key”: Why Your Board Needs to Talk About Physics Sooner than Later | Patrick Lefler | [Read More](https://medium.com/p/63ba0e89ad54) |
 | Wed, 10 Dec 2025 03:55:27 GMT | Hello World: My First Step Into Writing | Hina Kauser | [Read More](https://medium.com/p/e4776d715401) |
 | Wed, 10 Dec 2025 03:43:49 GMT | Weekly Threat Intelligence Report 8 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/47d75c4b8622) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 19:18:22 GMT | Picture this: it’s a quiet Tuesday afternoon. | Kuldeep Pisda | [Read More](https://medium.com/p/a8eeb631cc23) |
 | Tue, 09 Dec 2025 19:14:56 GMT | DevOps Security Myths — Mistakes That Put Your Entire Pipeline at Risk | JSOC IT BLOG | [Read More](https://medium.com/p/0993629819bc) |
 | Tue, 09 Dec 2025 19:03:31 GMT | AI Is Not Dangerous It Amplifies Whatever Environment It Enters | Syed Zeeshan Hayder Kazmi | [Read More](https://medium.com/p/398ba0791c82) |
-| Tue, 09 Dec 2025 18:59:39 GMT | Greed Inversion | Dreedwhittaker | [Read More](https://medium.com/p/3d610ef8d362) |
-| Tue, 09 Dec 2025 18:49:05 GMT | Why Every Business Needs a Red Team Assessment - Strengthening Cybersecurity | Lumiversesolution | [Read More](https://medium.com/p/bdf91f1dfaba) |
-| Tue, 09 Dec 2025 18:48:12 GMT | Passwords — A Cracking Christmas-Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/85c91e6eaabb) |
-| Tue, 09 Dec 2025 18:37:46 GMT | From Zero to Cryptominer in 6 Minutes: Observing CVE-2025–55182 (React2Shell) Exploitation in the… | Gerisson | [Read More](https://medium.com/p/3e7609584bb2) |
-| Tue, 09 Dec 2025 18:28:18 GMT | Why I Stopped Pasting Text into Random Online Diff Tools (And Built My Own Secure Version) | L.J. | [Read More](https://medium.com/p/7ae0340dbad2) |
-| Tue, 09 Dec 2025 18:27:00 GMT | Common Authentication Weaknesses and How to Avoid Them | Damir Kolobaric | [Read More](https://medium.com/p/e43051d2fcc6) |
-| Tue, 09 Dec 2025 18:26:37 GMT | The Agentic Pivot: 6 Strategic Takeaways from Ignite 2025 That Actually Matter for CISOs | Arsh Riz | [Read More](https://medium.com/p/05185f658aa2) |
