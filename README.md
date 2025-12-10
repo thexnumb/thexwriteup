@@ -12,12 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 15:22:20 GMT | Unlocking Secrets: How to Create Your Own Wordlist for Hidden Directories and Endpoints | Aman Sharma | [Read More](https://medium.com/p/26a031b288b7) |
+| Wed, 10 Dec 2025 15:18:28 GMT | Cracking HTB’s Hubbub Challenge — Turning AVR Buzzer Noise Into a Flag | Krishna Teja | [Read More](https://medium.com/p/568f31cd0a02) |
+| Wed, 10 Dec 2025 15:13:59 GMT | Active Directory | Mert Baykal | [Read More](https://medium.com/p/942293cf82f2) |
+| Wed, 10 Dec 2025 15:06:05 GMT | React2Shell (CVE-2025–55182): 10 Puanlık Kritik Zafiyeti Nasıl İnceledim? | Enes Bayraker | [Read More](https://medium.com/p/977ec518e97f) |
+| Wed, 10 Dec 2025 15:06:01 GMT | The Browser Turned Into a Supercomputer — And That’s a Security Nightmare | Mohit | [Read More](https://medium.com/p/52d45597a242) |
+| Wed, 10 Dec 2025 15:05:41 GMT | Azure Key Vault : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/82574bca648a) |
+| Wed, 10 Dec 2025 15:02:39 GMT | VPNって何がいい？ | Yoshiaki | [Read More](https://medium.com/p/102b46371977) |
+| Wed, 10 Dec 2025 15:02:39 GMT | Cyber Briefing: 2025.12.10 | CyberMaterial | [Read More](https://medium.com/p/ad1e142a7618) |
+| Wed, 10 Dec 2025 15:02:32 GMT | Hacking the Connected Car: Part 2 — Seeing the Unseen | Federico Barsanti | [Read More](https://medium.com/p/920897bd211d) |
+| Wed, 10 Dec 2025 14:58:24 GMT | From Detection to Action: Transforming SOC Efficiency with NDR Solution | NetWitness | [Read More](https://medium.com/p/c8c58623b944) |
+| Wed, 10 Dec 2025 14:58:22 GMT | Microsoft Silently Mitigates Years-Old LNK Vulnerability: Everything Businesses Need to Know | IT_Engineer | [Read More](https://medium.com/p/52c1f9771220) |
+| Wed, 10 Dec 2025 14:57:44 GMT | ATT&CK® Evaluations’ Enterprise 2025 | Lex Crumpton | [Read More](https://medium.com/p/d4aed00dc646) |
+| Wed, 10 Dec 2025 14:55:30 GMT | Setting Up a Proxy Server: Step-by-Step for Beginners | ProxiesThatWork | [Read More](https://medium.com/p/2d080ab1b1e1) |
 | Wed, 10 Dec 2025 14:42:28 GMT | Your Digital Transformation is not seen as an Asset | Manuel Tress | [Read More](https://medium.com/p/8f180f28bb8c) |
 | Wed, 10 Dec 2025 14:41:54 GMT | Mastering Cybersecurity in 2025: Why It’s No Longer Just an IT Problem | Hello @ Octellient | [Read More](https://medium.com/p/3bacf0b36457) |
 | Wed, 10 Dec 2025 14:40:04 GMT | ️‍♀️ Cybersecurity Incident Report: Juicy Details Breach | Jadallah K. J. Albanna | [Read More](https://medium.com/p/628ff5f6b404) |
 | Wed, 10 Dec 2025 14:37:04 GMT | Understanding Web Applications: Architecture, Components, and Common Vulnerabilities | Grace Omokhowa Audu | [Read More](https://medium.com/p/a45d4502fba5) |
 | Wed, 10 Dec 2025 14:34:34 GMT | When Espionage Turns Ransomware: GOLD BLADE’s QWCrypt Locker Threat | Chetan Seripally | [Read More](https://medium.com/p/452a29df14ad) |
 | Wed, 10 Dec 2025 14:32:17 GMT | (Comptia A+) The Importance of Physical Security: Protecting Your IT Infrastructure | Vignesh R | [Read More](https://medium.com/p/0b3bf76b6e21) |
+| Wed, 10 Dec 2025 14:28:52 GMT | How to Detect Jailbreak on Capacitor | Talsec | [Read More](https://medium.com/p/dae820c7fc7b) |
 | Wed, 10 Dec 2025 14:24:33 GMT | Cognitive Mismatch Challenge (CMC): A New Frontier in AI Detection.(CAPTCHA) | Pourlier jason | [Read More](https://medium.com/p/a4b6fe9de22a) |
 | Wed, 10 Dec 2025 14:19:39 GMT | Pragmatism: Why German Love for Perfect Processes Is a Transformation Killer | Nina Sophie Pejsa | [Read More](https://medium.com/p/9d1c2393b472) |
 | Wed, 10 Dec 2025 14:14:38 GMT | Güvenlik Duvarındaki Sessiz Tehlike: | HSD ATLAS | [Read More](https://medium.com/p/eebe689059e9) |
@@ -99,17 +113,3 @@ A Year of Unmasking Critical Browser Vulnerabilities | SquareX | [Read More](htt
 | Wed, 10 Dec 2025 09:50:23 GMT | A CTF Journey on FLAGYARD | Kyrillos Kamal | [Read More](https://medium.com/p/08af91ffe1c1) |
 | Wed, 10 Dec 2025 09:49:10 GMT | Kendi Active Directory Lab Ortamınızı Kurun-II: Active Directory Güvenliği: Bölüm-6 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/d9e1288a8549) |
 | Wed, 10 Dec 2025 09:46:24 GMT | From a Single Quote & a Space to a 1‑Year AI Subscription | Taher | [Read More](https://medium.com/p/bc89a6671eff) |
-| Wed, 10 Dec 2025 09:45:41 GMT | NetShop ISP Launches “Digital Shield” to Strengthen Network-Wide DDoS Protection | NetShop ISP | [Read More](https://medium.com/p/1bcd2747d7f9) |
-| Wed, 10 Dec 2025 09:44:51 GMT | Designing trust: the UX of AI security | ABHIJOY SARKAR | [Read More](https://medium.com/p/f04055730540) |
-| Wed, 10 Dec 2025 09:39:16 GMT | PortSwigger: Business logic vulnerabilities LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/36ace7334f19) |
-| Wed, 10 Dec 2025 09:38:11 GMT | Leading IT Infrastructure Management Services Provider in India - Modernize Your IT Infra | Mathewneelan | [Read More](https://medium.com/p/da3df0f937e1) |
-| Wed, 10 Dec 2025 09:37:44 GMT | Door Security & Guarding Skills: Flexible Training with Afternoon and Evening Lectures | International Centre for Security Excellence | [Read More](https://medium.com/p/54f808ab3a3a) |
-| Wed, 10 Dec 2025 09:32:15 GMT | The Consent Receipt Email | Nexumo | [Read More](https://medium.com/p/1153907168a6) |
-| Wed, 10 Dec 2025 09:27:05 GMT | Limiting Public Access and Protecting Sensitive Data in Azure Storage | Sebastian Utoiu | [Read More](https://medium.com/p/95f6b703d0ac) |
-| Wed, 10 Dec 2025 09:20:57 GMT | Perbedaan Bug vs Technical Debt: Kenapa Web Developer Sering Kewalahan | Fathurrahman Al Hafiz | [Read More](https://medium.com/p/9cc3d0c14444) |
-| Wed, 10 Dec 2025 09:17:35 GMT | One Line of Code That Can Hijack Your Entire Website | Redfox Security | [Read More](https://medium.com/p/87fd059b203b) |
-| Wed, 10 Dec 2025 09:12:01 GMT | Data Protection & Privacy in 2025 — Latest Developments and Why They Matter | Devarshi Acharya | [Read More](https://medium.com/p/7b6b33c5514d) |
-| Wed, 10 Dec 2025 09:11:49 GMT | THE OPERATIONAL DOCTRINE FOR HUMAN AI COGNITIVE SYSTEMS | Matthew Wood | [Read More](https://medium.com/p/89faa51174ab) |
-| Wed, 10 Dec 2025 09:08:14 GMT | React2Shell: How One Bug Just Nuked 40% of the Internet (And Your Server Might Already Be Pwned) | DevBoost Lab | [Read More](https://medium.com/p/bd3baa3ce3c3) |
-| Wed, 10 Dec 2025 09:02:16 GMT | Developers: Add A Real Leak Check To Any Login With LeakRadar’s API In 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/32d4adf927c9) |
-| Wed, 10 Dec 2025 08:56:51 GMT | Stop Praying to the Oracle: The Tatvamasi Protocol for AI | Jayal Yadav | [Read More](https://medium.com/p/2990dd08f208) |
