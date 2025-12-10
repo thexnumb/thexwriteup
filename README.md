@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 03:56:37 GMT | The Quantum “Master Key”: Why Your Board Needs to Talk About Physics Sooner than Later | Patrick Lefler | [Read More](https://medium.com/p/63ba0e89ad54) |
+| Wed, 10 Dec 2025 03:55:27 GMT | Hello World: My First Step Into Writing | Hina Kauser | [Read More](https://medium.com/p/e4776d715401) |
+| Wed, 10 Dec 2025 03:43:49 GMT | Weekly Threat Intelligence Report 8 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/47d75c4b8622) |
+| Wed, 10 Dec 2025 03:38:29 GMT | Tools That Make ISO 27001 Compliance Easier | Viola | [Read More](https://medium.com/p/0696659d955b) |
+| Wed, 10 Dec 2025 03:37:45 GMT | The Art Of Dirty Power: Abusing Voltage To Unlock ESP32 Behaviors | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d9cde4ed27f1) |
+| Wed, 10 Dec 2025 03:35:02 GMT | Static Residential Proxy: When to Use It, How to Keep Sessions Stable, and What to Test Before You… | Proxy001 | [Read More](https://medium.com/p/c84c5dc0f702) |
+| Wed, 10 Dec 2025 03:33:04 GMT | The Donna Fonda Thesis: Why the “Heroic” Era of Logistics is Over (And Why Boring Process Wins) | Heesham Naji | [Read More](https://medium.com/p/310b2f1bc6fa) |
+| Wed, 10 Dec 2025 03:32:39 GMT | APT36’s New Python ELF Malware: Inside the Campaign Targeting Linux Systems in Indian Government… | Deven Chhajed | [Read More](https://medium.com/p/9866a63d7dd7) |
+| Wed, 10 Dec 2025 03:25:25 GMT | Denial of service on the “Post” tab in any Microsoft Teams community | Rohmad Hidayah | [Read More](https://medium.com/p/9f6220d95251) |
+| Wed, 10 Dec 2025 03:19:47 GMT | AI to the rescue. When hackers found our server, our AI Agent defended us. | Juan Pelaez | [Read More](https://medium.com/p/3e897895bc6c) |
 | Wed, 10 Dec 2025 03:07:46 GMT | Turning a “Feature” into a “Vulnerability” — Collaboration Feature Exposed Every Username in the… | Raman Gautam - rghx | [Read More](https://medium.com/p/e11cbe806bfc) |
 | Wed, 10 Dec 2025 03:06:59 GMT | How Netflix Uses Java to Handle Hundreds of Microservices — A Practical View for Developers | The Dev Notebook | [Read More](https://medium.com/p/3c5a70f9c255) |
 | Wed, 10 Dec 2025 03:05:27 GMT | The Strength Everyone Praises… and the Cost No One Sees | Sree Palakurthi | [Read More](https://medium.com/p/a36cc9c8c6b4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 18:28:18 GMT | Why I Stopped Pasting Text into Random Online Diff Tools (And Built My Own Secure Version) | L.J. | [Read More](https://medium.com/p/7ae0340dbad2) |
 | Tue, 09 Dec 2025 18:27:00 GMT | Common Authentication Weaknesses and How to Avoid Them | Damir Kolobaric | [Read More](https://medium.com/p/e43051d2fcc6) |
 | Tue, 09 Dec 2025 18:26:37 GMT | The Agentic Pivot: 6 Strategic Takeaways from Ignite 2025 That Actually Matter for CISOs | Arsh Riz | [Read More](https://medium.com/p/05185f658aa2) |
-| Tue, 09 Dec 2025 18:14:12 GMT | Phishing Prevention — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/9f6fa095418e) |
-| Tue, 09 Dec 2025 18:12:11 GMT | The IT Governance Trilogy: Understanding COBIT, ITIL, and ISO 27001 | C.N. Husnul Izzati | [Read More](https://medium.com/p/4449a917c7f3) |
-| Tue, 09 Dec 2025 18:02:15 GMT | Ice — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/ef4ff477d7f1) |
-| Tue, 09 Dec 2025 18:02:14 GMT | PicoCTF Writeup: b00tl3gRSA2 | SoBatista | [Read More](https://medium.com/p/2d08ae26ee21) |
-| Tue, 09 Dec 2025 18:00:26 GMT | I Trusted ChatGPT… And This Is What Happened | Andrijon Kapiti | [Read More](https://medium.com/p/e4444d9decca) |
-| Tue, 09 Dec 2025 17:59:54 GMT | 2026 Red Teaming — Kendi Payload Sistemimizi Yazıyoruz | mintercoder | [Read More](https://medium.com/p/31a6d666af9a) |
-| Tue, 09 Dec 2025 17:49:23 GMT | Bug Bounty Beginners: Try This to Find Your First Bug | Rajankumarbarik | [Read More](https://medium.com/p/d5402a78a518) |
-| Tue, 09 Dec 2025 17:48:09 GMT | The Hidden Risk in Home Networks: How ISP Hardware Undermines Security and Learning | Brian Haman, PhD | [Read More](https://medium.com/p/49fb231575f3) |
-| Tue, 09 Dec 2025 17:45:59 GMT | Day 7: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/39c983d1eec8) |
-| Tue, 09 Dec 2025 17:44:38 GMT | The SIEM Screamed, I Froze: My Journey from Panic to Proficiency in the SOC | Zahra Bibi | [Read More](https://medium.com/p/3f89391bd063) |
