@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 05:39:17 GMT | How To Set Up A Secure Microsoft Business Account For Teams? | Kendall Garcia | [Read More](https://medium.com/p/ff73d59ce44f) |
+| Wed, 10 Dec 2025 05:24:23 GMT | Passwords — A Cracking Christmas | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/bd0a1b8f9aa2) |
+| Wed, 10 Dec 2025 05:23:33 GMT | BackdoorCTF 2025 experience (and writeups) | Maksim Hayder | [Read More](https://medium.com/p/5d700ddc2e87) |
 | Wed, 10 Dec 2025 05:17:35 GMT | HTB Challenge — Social Media Investigation | Fardeen A. | [Read More](https://medium.com/p/a51b49be99ff) |
 | Wed, 10 Dec 2025 05:07:58 GMT | Best skill development center in Delhi NCR | Diyanagra | [Read More](https://medium.com/p/79eacc2ff54e) |
 | Wed, 10 Dec 2025 05:03:16 GMT | Design-Time DevSecOps: Security Before the First Commit | Dave Patten | [Read More](https://medium.com/p/2a8274e89297) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 19:58:05 GMT | The Strategic Triumph of Architectural Depth in Cybersecurity | İsmail İşler | [Read More](https://medium.com/p/52a0e0b1060c) |
 | Tue, 09 Dec 2025 19:50:41 GMT | Bir Sistemi Fethetmek İçin Neden İnşa Etmeyi Bilmelisiniz? | İsmail İşler | [Read More](https://medium.com/p/f219e7a35a34) |
 | Tue, 09 Dec 2025 19:43:48 GMT | Stay Safe Online. Why I’m Testing Webroot Internet Security? | TechVault | [Read More](https://medium.com/p/4bdc776d5fbc) |
-| Tue, 09 Dec 2025 19:34:22 GMT | Internal Working of Rate Limiting — Token Bucket, Leaky Bucket & Real Production Implementations | Logic Layer | [Read More](https://medium.com/p/30eadadaa39d) |
-| Tue, 09 Dec 2025 19:32:14 GMT | Dove nascondere soldi in casa nel 2025 (senza farsi trovare dai ladri) | Beetle Wood® | [Read More](https://medium.com/p/2cc11c0b6c03) |
-| Tue, 09 Dec 2025 19:31:01 GMT | Infinity Learning lab: Trust Me, Relationship is Malicious — Writeup | Hubert | [Read More](https://medium.com/p/436f6349288c) |
