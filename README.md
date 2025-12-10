@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 22:41:49 GMT | What Are Some of the Most Important Lessons After 20 Years in IT and Cybersecurity? | Igor Berner | [Read More](https://medium.com/p/30bf9e0b90e2) |
+| Wed, 10 Dec 2025 22:40:58 GMT | From Serving Airforce to Corporate Cybersecurity | M Umar Akhlaq | [Read More](https://medium.com/p/ab9840c9fe39) |
+| Wed, 10 Dec 2025 22:35:48 GMT | Protecting trust at the speed of risk | Slalom | [Read More](https://medium.com/p/fe8b0ad1df01) |
+| Wed, 10 Dec 2025 22:32:27 GMT | Stepping Into Cybersecurity | Larry Harris | [Read More](https://medium.com/p/d55f915dc70e) |
+| Wed, 10 Dec 2025 22:32:24 GMT | I lied, I am (still) depressed. | Hafeezah Salau | [Read More](https://medium.com/p/c38988ddb475) |
+| Wed, 10 Dec 2025 22:24:14 GMT | KALI LINUX OSINT 2025: Maîtrisez l’Intelligence des Sources Ouvertes avec des Outils Haute… | Diego Rodrigues | [Read More](https://medium.com/p/2e91c7f0a32c) |
 | Wed, 10 Dec 2025 22:21:24 GMT | Fortress Protocol x Modulus Twitter Spaces Transcript | Fortress Protocol | [Read More](https://medium.com/p/04ee16bfb51a) |
+| Wed, 10 Dec 2025 22:18:42 GMT | eWPTX: All You Need to Know | Mostafa Sharaf | [Read More](https://medium.com/p/acbf2b649bad) |
 | Wed, 10 Dec 2025 21:36:10 GMT | The Transparency Fix. How a three-tiered system solved broken parking enforcement. | Stream Data Systems | [Read More](https://medium.com/p/1df5af7d598c) |
 | Wed, 10 Dec 2025 21:19:21 GMT | Observing Real-World RDP Attacks and Thinking like an Attacker | Aimee Liu | [Read More](https://medium.com/p/39ed689340e3) |
 | Wed, 10 Dec 2025 21:12:13 GMT | When Poetry Becomes a Weapon: How Researchers Broke Every Major AI With Verses | Zoom In AI | [Read More](https://medium.com/p/30aae4f3e7c4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 15:22:20 GMT | Unlocking Secrets: How to Create Your Own Wordlist for Hidden Directories and Endpoints | Aman Sharma | [Read More](https://medium.com/p/26a031b288b7) |
 | Wed, 10 Dec 2025 15:21:26 GMT | Self-Learning: The Real Competitive Advantage in Career and Life | Deborah Ehru | [Read More](https://medium.com/p/7620b5806582) |
 | Wed, 10 Dec 2025 15:18:28 GMT | Cracking HTB’s Hubbub Challenge — Turning AVR Buzzer Noise Into a Flag | Krishna Teja | [Read More](https://medium.com/p/568f31cd0a02) |
-| Wed, 10 Dec 2025 15:13:59 GMT | Active Directory | Mert Baykal | [Read More](https://medium.com/p/942293cf82f2) |
-| Wed, 10 Dec 2025 15:06:05 GMT | React2Shell (CVE-2025–55182): 10 Puanlık Kritik Zafiyeti Nasıl İnceledim? | Enes Bayraker | [Read More](https://medium.com/p/977ec518e97f) |
-| Wed, 10 Dec 2025 15:06:01 GMT | The Browser Turned Into a Supercomputer — And That’s a Security Nightmare | Mohit | [Read More](https://medium.com/p/52d45597a242) |
-| Wed, 10 Dec 2025 15:05:41 GMT | Azure Key Vault : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/82574bca648a) |
-| Wed, 10 Dec 2025 15:02:39 GMT | VPNって何がいい？ | Yoshiaki | [Read More](https://medium.com/p/102b46371977) |
-| Wed, 10 Dec 2025 15:02:39 GMT | Cyber Briefing: 2025.12.10 | CyberMaterial | [Read More](https://medium.com/p/ad1e142a7618) |
-| Wed, 10 Dec 2025 15:02:32 GMT | Hacking the Connected Car: Part 2 — Seeing the Unseen | Federico Barsanti | [Read More](https://medium.com/p/920897bd211d) |
