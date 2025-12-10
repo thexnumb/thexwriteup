@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 07:33:03 GMT | How IT Services Companies in Australia Drive Business Transformation | IT Company | [Read More](https://medium.com/p/decd5b167806) |
+| Wed, 10 Dec 2025 07:32:14 GMT | The EU’s AI Code of Practice: A Milestone in Frontier AI Safety | Simon Hodgkins | [Read More](https://medium.com/p/43e1cf4660a1) |
+| Wed, 10 Dec 2025 07:31:25 GMT | Stop Fighting Browser HTTPS Errors: Running mkcert Certificates with Traefik for Local Development | Scaibu | [Read More](https://medium.com/p/c2ea8e70b196) |
+| Wed, 10 Dec 2025 07:27:39 GMT | Joseph Lamar Simmons Shares Why Psychological Profiling Is a Core Intelligence Skill | Joseph Lamar Simmons | [Read More](https://medium.com/p/a9566117b0cf) |
+| Wed, 10 Dec 2025 07:25:01 GMT | Top Trending Tech Domains & Skills for 2026 | Anjali | [Read More](https://medium.com/p/8ad7fa4548fa) |
 | Wed, 10 Dec 2025 07:22:36 GMT | The Daily Tech Digest: 10 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/92a1e5fe6581) |
 | Wed, 10 Dec 2025 07:19:13 GMT | Paging Dr. Deepfake: | expansions -- D. Hannaham | [Read More](https://medium.com/p/20ee70e2cec1) |
 | Wed, 10 Dec 2025 07:17:48 GMT | Externalised Policy Enforcement in Zapper: a cloud‑native approach to managed file transfer | Prabhu Srivastava | [Read More](https://medium.com/p/42aa24249453) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 22:59:59 GMT | “Why Should I Care About Privacy If I’m Not Doing Anything Wrong?” | Ethics In Beta | [Read More](https://medium.com/p/480251a8dbba) |
 | Tue, 09 Dec 2025 22:58:14 GMT | Developers Love It. Hackers Love It More. The Truth About Vibe Coding | Cyber-AppSec | [Read More](https://medium.com/p/6fbaa9d09e8c) |
 | Tue, 09 Dec 2025 22:45:10 GMT | Disadvantages of Running a Business Without a Website | Victory Nnaemeka | [Read More](https://medium.com/p/2cd00d80e80a) |
-| Tue, 09 Dec 2025 22:42:10 GMT | Improper Assets Management & Mass Assignment: Two API Bugs That Quietly Destroy Systems | Mahmoudelshorpagy | [Read More](https://medium.com/p/e3af28ec60d3) |
-| Tue, 09 Dec 2025 22:39:17 GMT | There and Back Again: My Journey into Offensive Security | eron clarke | [Read More](https://medium.com/p/d6acacf56714) |
-| Tue, 09 Dec 2025 22:36:08 GMT | Passwords — A Cracking Christmas - Advent of Cyber 2025 Day 9 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/0c86af4af140) |
-| Tue, 09 Dec 2025 22:11:00 GMT | Become bug bounty hunter part 2 | Ahmedayannnn | [Read More](https://medium.com/p/cf5c3afc36f0) |
-| Tue, 09 Dec 2025 22:04:44 GMT | Qradar101 Challenge — Cyberdefenders | Saif-eldeen | [Read More](https://medium.com/p/bb7c741116ee) |
