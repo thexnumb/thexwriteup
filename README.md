@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 20:57:18 GMT | Snapped Phish-ing Line — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/4e20ca0c37e7) |
+| Wed, 10 Dec 2025 20:41:44 GMT | Cybersecurity Policy Pivot: Analyzing the White House’s New Executive Order and Its Impact on… | CCD-IS | [Read More](https://medium.com/p/436739e02ca0) |
 | Wed, 10 Dec 2025 20:32:16 GMT | Roblox Scams: Are Free Robux Apps Safe for Kids? A Parent’s Guide | Cyber Dive | [Read More](https://medium.com/p/af8c02ea9763) |
 | Wed, 10 Dec 2025 20:31:57 GMT | La Red del Caos® | La Trama Del Caos | [Read More](https://medium.com/p/371d1281b7f3) |
 | Wed, 10 Dec 2025 20:30:35 GMT | Strategic Roadmap for Windows Malware Development: Offensive Engineering and Systems Architecture | Mr_MalMan | [Read More](https://medium.com/p/d5591105cd5c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 14:58:22 GMT | Microsoft Silently Mitigates Years-Old LNK Vulnerability: Everything Businesses Need to Know | IT_Engineer | [Read More](https://medium.com/p/52c1f9771220) |
 | Wed, 10 Dec 2025 14:57:44 GMT | ATT&CK® Evaluations’ Enterprise 2025 | Lex Crumpton | [Read More](https://medium.com/p/d4aed00dc646) |
 | Wed, 10 Dec 2025 14:55:30 GMT | Setting Up a Proxy Server: Step-by-Step for Beginners | ProxiesThatWork | [Read More](https://medium.com/p/2d080ab1b1e1) |
-| Wed, 10 Dec 2025 14:42:28 GMT | Your Digital Transformation is not seen as an Asset | Manuel Tress | [Read More](https://medium.com/p/8f180f28bb8c) |
-| Wed, 10 Dec 2025 14:41:54 GMT | Mastering Cybersecurity in 2025: Why It’s No Longer Just an IT Problem | Hello @ Octellient | [Read More](https://medium.com/p/3bacf0b36457) |
