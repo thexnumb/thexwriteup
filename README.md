@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 07:22:36 GMT | The Daily Tech Digest: 10 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/92a1e5fe6581) |
+| Wed, 10 Dec 2025 07:19:13 GMT | Paging Dr. Deepfake: | expansions -- D. Hannaham | [Read More](https://medium.com/p/20ee70e2cec1) |
+| Wed, 10 Dec 2025 07:17:48 GMT | Externalised Policy Enforcement in Zapper: a cloud‑native approach to managed file transfer | Prabhu Srivastava | [Read More](https://medium.com/p/42aa24249453) |
+| Wed, 10 Dec 2025 07:15:30 GMT | Global Cyberattack | Anamika Singh | [Read More](https://medium.com/p/7181b1830c06) |
+| Wed, 10 Dec 2025 07:14:10 GMT | The Night I Learned Recon Is 80% of Hacking (And Why I Was Doing It Wrong) | Fateyaly | [Read More](https://medium.com/p/835657de2188) |
+| Wed, 10 Dec 2025 07:09:40 GMT | The 2-Minute Fix: Eliminating Render-Blocking CSS in WordPress | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/c08a780b8946) |
+| Wed, 10 Dec 2025 07:04:53 GMT | Leaked PayPal production Client id and API Secret → full merchant takeover Closed as “Informative”… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/c2781f9aaaa7) |
+| Wed, 10 Dec 2025 07:04:00 GMT | Tải Tank Stars Hack (MOD Full Tiền, Max Level, Menu) V2.12.100 | Game4u | [Read More](https://medium.com/p/cb972f1e10eb) |
+| Wed, 10 Dec 2025 07:02:14 GMT | Red vs. Blue: Building (and Breaking) the Battlefield | Madhan Mohan Reddy | [Read More](https://medium.com/p/e71b2c3374ea) |
+| Wed, 10 Dec 2025 07:02:02 GMT | Digital Hygiene: The Simple Tech Habits That Protect You More Than Any Antivirus. | Grace Chukwunta | [Read More](https://medium.com/p/9bdac0dd183a) |
+| Wed, 10 Dec 2025 06:58:37 GMT | Ode to the fly | Fiona Cockburn | [Read More](https://medium.com/p/ce9525afcffb) |
+| Wed, 10 Dec 2025 06:57:13 GMT | Tải Huyền Thoại Hải Tặc Lậu (Việt Hóa) v1.0.5 | Bandisharecx | [Read More](https://medium.com/p/a63d8f11f019) |
+| Wed, 10 Dec 2025 06:55:27 GMT | Next.js 2025 Security Update: Why Every Developer Should Sit Up and Pay Attention | Enock Kiplangat | [Read More](https://medium.com/p/a2e9832d0994) |
+| Wed, 10 Dec 2025 06:46:13 GMT | CCSE-204 CrowdStrike SIEM Engineer Certification Guide | Exam Kill | [Read More](https://medium.com/p/09e1d12125ff) |
+| Wed, 10 Dec 2025 06:45:59 GMT | Rethinking Benign Alerts: A New Perspective for Detection Engineering | Alex Teixeira | [Read More](https://medium.com/p/525f701d66b7) |
+| Wed, 10 Dec 2025 06:43:58 GMT | Kling AI Avatar 2.0: The Future of AI-Driven Digital Avatars | Ccarol | [Read More](https://medium.com/p/20569e542fa1) |
+| Wed, 10 Dec 2025 06:38:28 GMT | Tải Two Horns Mod Apk V1.3.1 Cho Android | Apkpuredev | [Read More](https://medium.com/p/c297f83002e3) |
 | Wed, 10 Dec 2025 06:33:24 GMT | “ReconFTW — Unified Reconnaissance Engine for Bug‑Bounty Hunters” | ghostyjoe | [Read More](https://medium.com/p/cbed5ddaff7d) |
 | Wed, 10 Dec 2025 06:27:47 GMT | Cloudflare Outages: The Day the Internet Blinked — And What It Means for All of Us | Enock Kiplangat | [Read More](https://medium.com/p/33080c943b44) |
 | Wed, 10 Dec 2025 06:21:48 GMT | What are the 5 C’s of cyber security? | Ascend InfoTech | [Read More](https://medium.com/p/9221410b0a2f) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 22:36:08 GMT | Passwords — A Cracking Christmas - Advent of Cyber 2025 Day 9 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/0c86af4af140) |
 | Tue, 09 Dec 2025 22:11:00 GMT | Become bug bounty hunter part 2 | Ahmedayannnn | [Read More](https://medium.com/p/cf5c3afc36f0) |
 | Tue, 09 Dec 2025 22:04:44 GMT | Qradar101 Challenge — Cyberdefenders | Saif-eldeen | [Read More](https://medium.com/p/bb7c741116ee) |
-| Tue, 09 Dec 2025 22:02:38 GMT | I Can’t Tell What’s Real Anymore: AI Video Is Destroying Trust | CodeOrbit | [Read More](https://medium.com/p/0c21126ce433) |
-| Tue, 09 Dec 2025 22:02:15 GMT | The Engine Powered by Knowledge | Zeneil Ambekar | [Read More](https://medium.com/p/c3d850acb817) |
-| Tue, 09 Dec 2025 21:55:18 GMT | Historical Prototypes of Modern Technologies | Chier Hu | [Read More](https://medium.com/p/038f461aa0da) |
-| Tue, 09 Dec 2025 21:45:09 GMT | Understanding Today’s Active Darkweb Marketplaces | Tor BBB | [Read More](https://medium.com/p/d9c28d21e8e6) |
-| Tue, 09 Dec 2025 21:37:28 GMT | Lab: DOM XSS in jQuery selector sink using a hashchange event | KRY | [Read More](https://medium.com/p/74640c4529ac) |
-| Tue, 09 Dec 2025 21:34:43 GMT | IMPARA NMAP: Esegui Scansioni Strategiche con Script e Automazione — Dai Fondamenti alle… | Diego Rodrigues | [Read More](https://medium.com/p/7ec78833aa8d) |
-| Tue, 09 Dec 2025 21:34:39 GMT | Lab: DOM XSS in jQuery anchor href attribute sink using location.search source | KRY | [Read More](https://medium.com/p/1f4fa4a6390d) |
-| Tue, 09 Dec 2025 21:32:44 GMT | Identity restored. Ready for file-tree generation. | Projectsentinel | [Read More](https://medium.com/p/6001e24e6fe6) |
-| Tue, 09 Dec 2025 21:30:19 GMT | APC Process Injection using NtQueueApcThreadEx2 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/149c00afa57e) |
-| Tue, 09 Dec 2025 21:24:49 GMT | Don’t Lie On Your Cybersecurity Resume | Jbird | [Read More](https://medium.com/p/a5d408577a65) |
-| Tue, 09 Dec 2025 21:18:55 GMT | Why “Compliant” Organizations Still Get Breached: | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/301babe0cb92) |
-| Tue, 09 Dec 2025 21:18:30 GMT | Exposição da Porta 554/RTSP: Análise de Vulnerabilidades em Dispositivos IoT | Evelyse Akemy | [Read More](https://medium.com/p/48f15a8f9559) |
-| Tue, 09 Dec 2025 21:11:38 GMT | picoCTF — HTTP Headers Challenge (who are you ?) | vulnhunter | [Read More](https://medium.com/p/052d4a7434b5) |
-| Tue, 09 Dec 2025 20:58:59 GMT | The DHS-Led AI-ISAC and the Future of Critical Infrastructure Security | CCD-IS | [Read More](https://medium.com/p/1b3382bc4dd8) |
-| Tue, 09 Dec 2025 20:58:46 GMT | Event Crew Services: The Skilled Support That Brings Your Event to Life | waeventservices.co.uk/ | [Read More](https://medium.com/p/87cac76a662a) |
-| Tue, 09 Dec 2025 20:49:51 GMT | The Convergence of AI and Blockchain: 5 Game-Changing Trends to Watch in 2025 | 0o0r7 | [Read More](https://medium.com/p/db8324d2188a) |
-| Tue, 09 Dec 2025 20:42:33 GMT | File Inclusion Lab — Complete Exploitation Write-HTB | GhostInject | [Read More](https://medium.com/p/3ecdc9883edb) |
