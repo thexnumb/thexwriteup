@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 05:17:35 GMT | HTB Challenge — Social Media Investigation | Fardeen A. | [Read More](https://medium.com/p/a51b49be99ff) |
+| Wed, 10 Dec 2025 05:07:58 GMT | Best skill development center in Delhi NCR | Diyanagra | [Read More](https://medium.com/p/79eacc2ff54e) |
+| Wed, 10 Dec 2025 05:03:16 GMT | Design-Time DevSecOps: Security Before the First Commit | Dave Patten | [Read More](https://medium.com/p/2a8274e89297) |
+| Wed, 10 Dec 2025 04:58:23 GMT | Could Your Linux Setup Be Giving You A False Sense Of Security With DLP For Linux? | keyTrackr | [Read More](https://medium.com/p/f79d3f08ec39) |
+| Wed, 10 Dec 2025 04:54:19 GMT | Cyber Kill Chain | Demegorash | [Read More](https://medium.com/p/955a3819faa9) |
+| Wed, 10 Dec 2025 04:54:04 GMT | Deep-Dive Domain Intelligence: A Practical WHOIS Recon Walkthrough | Abhayal | [Read More](https://medium.com/p/92f7271b99dd) |
 | Wed, 10 Dec 2025 04:38:52 GMT | How I Built a Private ITAR Compliance Scanner on a Mac | Sean McConoughey | [Read More](https://medium.com/p/37ca071282c2) |
 | Wed, 10 Dec 2025 04:26:47 GMT | The AI “Kidnapping” Call: How 3 Seconds of Audio Can Ruin Your Life (And How to Stop It) | ByteSwift Digital pro | [Read More](https://medium.com/p/58e199db3536) |
 | Wed, 10 Dec 2025 04:21:30 GMT | Open Source Intelligence (OSINT): Start-to-Finish Practical Guide | Aj | [Read More](https://medium.com/p/88bc53ef163e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Dec 2025 19:34:22 GMT | Internal Working of Rate Limiting — Token Bucket, Leaky Bucket & Real Production Implementations | Logic Layer | [Read More](https://medium.com/p/30eadadaa39d) |
 | Tue, 09 Dec 2025 19:32:14 GMT | Dove nascondere soldi in casa nel 2025 (senza farsi trovare dai ladri) | Beetle Wood® | [Read More](https://medium.com/p/2cc11c0b6c03) |
 | Tue, 09 Dec 2025 19:31:01 GMT | Infinity Learning lab: Trust Me, Relationship is Malicious — Writeup | Hubert | [Read More](https://medium.com/p/436f6349288c) |
-| Tue, 09 Dec 2025 19:25:45 GMT | The $55,444 Nightmare: A Student’s Google Cloud Mistake and Vital Lessons for Developers | Enes Karataş | [Read More](https://medium.com/p/80a3d767b7fa) |
-| Tue, 09 Dec 2025 19:22:54 GMT | How to Spot a Fake Link Before You Click | Aj | [Read More](https://medium.com/p/5af9e96d9a70) |
-| Tue, 09 Dec 2025 19:22:31 GMT | Assumed Breach SOC Lab: Internal RDP Brute Force, Active Directory Recon, and Wazuh Detection | Liam smydo | [Read More](https://medium.com/p/cb4d45a989b7) |
-| Tue, 09 Dec 2025 19:18:22 GMT | Picture this: it’s a quiet Tuesday afternoon. | Kuldeep Pisda | [Read More](https://medium.com/p/a8eeb631cc23) |
-| Tue, 09 Dec 2025 19:14:56 GMT | DevOps Security Myths — Mistakes That Put Your Entire Pipeline at Risk | JSOC IT BLOG | [Read More](https://medium.com/p/0993629819bc) |
-| Tue, 09 Dec 2025 19:03:31 GMT | AI Is Not Dangerous It Amplifies Whatever Environment It Enters | Syed Zeeshan Hayder Kazmi | [Read More](https://medium.com/p/398ba0791c82) |
