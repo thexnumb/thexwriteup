@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 12:43:17 GMT | Extropy Security Bytes: w49, 2025 | Extropy.IO | [Read More](https://medium.com/p/dd931cca4756) |
+| Wed, 10 Dec 2025 12:43:14 GMT | The Digital Bodyguard: Cybersecurity Consultant for SMBs | Fahad Rajpoot | [Read More](https://medium.com/p/f09e65113fcd) |
+| Wed, 10 Dec 2025 12:42:34 GMT | The Hidden Shift Breaking the Internet’s Old Rules | Nanthakumar | [Read More](https://medium.com/p/953f98d59ac7) |
+| Wed, 10 Dec 2025 12:38:31 GMT | Basic Kali-Linux Commands for Ethical Hacking (Part-2) | Akhil Thakur | [Read More](https://medium.com/p/de6830ea22b2) |
+| Wed, 10 Dec 2025 12:35:44 GMT | The Mask We Wear When Our Heart Is Too Heavy | Rahul Gupta | [Read More](https://medium.com/p/914d996547ab) |
+| Wed, 10 Dec 2025 12:35:35 GMT | React’s New Vulnerability and What It Means for Blockchain Projects | FreeBlock | [Read More](https://medium.com/p/bc68cc3e92d7) |
+| Wed, 10 Dec 2025 12:27:21 GMT | AI‑Based Security Systems: A Guide to Smarter, Faster Threat Management | QualysecEurope | [Read More](https://medium.com/p/f7e9ce7b51ff) |
+| Wed, 10 Dec 2025 12:18:17 GMT | Enterprise AI Agent Implementation: Bridging the Gap Between Autonomy and Production Readiness | Dean Taplin | [Read More](https://medium.com/p/bfa61e058ce0) |
+| Wed, 10 Dec 2025 12:17:17 GMT | Tech Engineer — IT Services, Web Development & Industrial Training | Tech Engineer | [Read More](https://medium.com/p/ce32cf7cad54) |
+| Wed, 10 Dec 2025 12:06:41 GMT | Strengthening Web3 Security: Recent Vulnerability Findings from Yhbit | Yhbit | [Read More](https://medium.com/p/4f6586f9a2a2) |
+| Wed, 10 Dec 2025 12:06:01 GMT | Depeche Mode’s Prediction of Corporate Elitism, Lies, and Deceit | Namir Sagheenanajar | [Read More](https://medium.com/p/b2f4db8eb48c) |
+| Wed, 10 Dec 2025 12:03:24 GMT | Discover the Top Cybersecurity Solutions for 2025: A Complete Guide to VAPT, SASE, and Network… | networsys | [Read More](https://medium.com/p/5645588931c2) |
+| Wed, 10 Dec 2025 12:02:14 GMT | Breaking Free: Why I’m Cancelling Remarkable Connect (And Considering Pen and Paper) | Tony S | [Read More](https://medium.com/p/44b9d3e11f89) |
+| Wed, 10 Dec 2025 12:01:29 GMT | Cybersecurity 101: The Essential Pillars and the CIA Triad | Namratamali | [Read More](https://medium.com/p/3d808e5111a4) |
+| Wed, 10 Dec 2025 11:58:30 GMT | When I Finally Softened | No Sorensen | [Read More](https://medium.com/p/2c585dfecd5e) |
+| Wed, 10 Dec 2025 11:53:11 GMT | 15 Essential Ways to Protect Yourself from Scams and Fraud | Charu Kumar Mathur | [Read More](https://medium.com/p/7d9e2356ba25) |
+| Wed, 10 Dec 2025 11:39:37 GMT | Best Security Solutions for Small Businesses in Toronto | Square Security Inc. | [Read More](https://medium.com/p/fb94b023bd05) |
+| Wed, 10 Dec 2025 11:36:02 GMT | Splunk Incident Response: Reconstructing an Attack Using Perimeter Logs | Citadel Cybersec | [Read More](https://medium.com/p/7647ced46f54) |
+| Wed, 10 Dec 2025 11:33:08 GMT | AI-Driven Intrigue: When Nation-States Hack with Algorithms | Ssolosssolo | [Read More](https://medium.com/p/e12cfe5f1fd3) |
 | Wed, 10 Dec 2025 11:28:44 GMT | NOTE: this is a straight forward walkthrough to see what worked. | Cyc0 | [Read More](https://medium.com/p/c1551960d6c8) |
 | Wed, 10 Dec 2025 11:21:27 GMT | Evaluating Election Technology | Trillion Defense | [Read More](https://medium.com/p/269eccc6939f) |
 | Wed, 10 Dec 2025 11:17:23 GMT | Crypto Scam Types: How They Work and How to Avoid Them | AML You | [Read More](https://medium.com/p/ba91ed44ae7f) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 07:02:02 GMT | Digital Hygiene: The Simple Tech Habits That Protect You More Than Any Antivirus. | Grace Chukwunta | [Read More](https://medium.com/p/9bdac0dd183a) |
 | Wed, 10 Dec 2025 06:58:37 GMT | Ode to the fly | Fiona Cockburn | [Read More](https://medium.com/p/ce9525afcffb) |
 | Wed, 10 Dec 2025 06:57:13 GMT | Tải Huyền Thoại Hải Tặc Lậu (Việt Hóa) v1.0.5 | Bandisharecx | [Read More](https://medium.com/p/a63d8f11f019) |
-| Wed, 10 Dec 2025 06:55:27 GMT | Next.js 2025 Security Update: Why Every Developer Should Sit Up and Pay Attention | Enock Kiplangat | [Read More](https://medium.com/p/a2e9832d0994) |
-| Wed, 10 Dec 2025 06:46:19 GMT | OWASP’ı Anlamak: Güvenli Yazılım Geliştirme | Mustafa Dikyar | [Read More](https://medium.com/p/3be764c5069c) |
-| Wed, 10 Dec 2025 06:46:13 GMT | CCSE-204 CrowdStrike SIEM Engineer Certification Guide | Exam Kill | [Read More](https://medium.com/p/09e1d12125ff) |
-| Wed, 10 Dec 2025 06:45:59 GMT | Rethinking Benign Alerts: A New Perspective for Detection Engineering | Alex Teixeira | [Read More](https://medium.com/p/525f701d66b7) |
-| Wed, 10 Dec 2025 06:43:58 GMT | Kling AI Avatar 2.0: The Future of AI-Driven Digital Avatars | Ccarol | [Read More](https://medium.com/p/20569e542fa1) |
-| Wed, 10 Dec 2025 06:38:28 GMT | Tải Two Horns Mod Apk V1.3.1 Cho Android | Apkpuredev | [Read More](https://medium.com/p/c297f83002e3) |
-| Wed, 10 Dec 2025 06:33:24 GMT | “ReconFTW — Unified Reconnaissance Engine for Bug‑Bounty Hunters” | ghostyjoe | [Read More](https://medium.com/p/cbed5ddaff7d) |
-| Wed, 10 Dec 2025 06:27:47 GMT | Cloudflare Outages: The Day the Internet Blinked — And What It Means for All of Us | Enock Kiplangat | [Read More](https://medium.com/p/33080c943b44) |
-| Wed, 10 Dec 2025 06:21:48 GMT | What are the 5 C’s of cyber security? | Ascend InfoTech | [Read More](https://medium.com/p/9221410b0a2f) |
-| Wed, 10 Dec 2025 06:19:11 GMT | Reimagining Threat Modeling with Generative AI In AWS | Advait khatu | [Read More](https://medium.com/p/9d4ec878c331) |
-| Wed, 10 Dec 2025 06:18:00 GMT | Detecting UAC (User Account Control) Bypass Privilege Escalation | Ngatz | [Read More](https://medium.com/p/117e430dd7a3) |
-| Wed, 10 Dec 2025 06:17:39 GMT | From Default IIS Page to Critical SQL Injection | Ahmad Mugh33ra | [Read More](https://medium.com/p/d0e9950c66fc) |
-| Wed, 10 Dec 2025 06:16:22 GMT | The Sentinel Network: Next-Generation Secure Communications for Modern Warfare | Ehsan | [Read More](https://medium.com/p/756105ba4416) |
-| Wed, 10 Dec 2025 06:03:36 GMT | Strengthen Digital Payment Trust — Certified PCI DSS Security Strategist (CPDSSS) | Adhiraj Kasabe | [Read More](https://medium.com/p/bcfa2143895b) |
-| Wed, 10 Dec 2025 06:02:17 GMT | Hacking is 20% exploitation and 80% documentation. | ZAYN | [Read More](https://medium.com/p/016f844454ae) |
-| Wed, 10 Dec 2025 06:00:58 GMT | What Is a CDN and Why Do We Need crossorigin in Script Tags? | Ayush Jaiswal | [Read More](https://medium.com/p/720aa2c1541a) |
-| Wed, 10 Dec 2025 05:50:06 GMT | Automate Security Before You Commit: Using DevSecOps Kit Git Hooks (Complete Guide) | Edgar Posada | [Read More](https://medium.com/p/82d7091cdfa0) |
-| Wed, 10 Dec 2025 05:48:45 GMT | Raising Cyber Standards to Meet Enterprise Supplier Expectations | Kadhijahafiya | [Read More](https://medium.com/p/c88c97206935) |
-| Wed, 10 Dec 2025 05:48:11 GMT | The Rising Cost of Cyberattacks and Why Network Security Providers Matter More Than Ever | Sarah | [Read More](https://medium.com/p/c44cbab0f333) |
