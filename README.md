@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 09:17:35 GMT | One Line of Code That Can Hijack Your Entire Website | Redfox Security | [Read More](https://medium.com/p/87fd059b203b) |
+| Wed, 10 Dec 2025 09:12:01 GMT | Data Protection & Privacy in 2025 — Latest Developments and Why They Matter | Devarshi Acharya | [Read More](https://medium.com/p/7b6b33c5514d) |
+| Wed, 10 Dec 2025 09:11:49 GMT | THE OPERATIONAL DOCTRINE FOR HUMAN AI COGNITIVE SYSTEMS | Matthew Wood | [Read More](https://medium.com/p/89faa51174ab) |
+| Wed, 10 Dec 2025 09:08:14 GMT | React2Shell: How One Bug Just Nuked 40% of the Internet (And Your Server Might Already Be Pwned) | DevBoost Lab | [Read More](https://medium.com/p/bd3baa3ce3c3) |
+| Wed, 10 Dec 2025 09:02:16 GMT | Developers: Add A Real Leak Check To Any Login With LeakRadar’s API In 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/32d4adf927c9) |
+| Wed, 10 Dec 2025 08:56:39 GMT | Metrics and Models for Measuring the Effectiveness of Vulnerability Management Programs | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/c8105a263795) |
+| Wed, 10 Dec 2025 08:49:01 GMT | SWIFT Simplified: The World’s Financial Messenger Service | crązŷrąiɲ | [Read More](https://medium.com/p/b6c06308a920) |
+| Wed, 10 Dec 2025 08:33:47 GMT | Associative: Your Trusted Appium Testing Company and IT Solutions Partner | Associative: Software Development & Consulting | [Read More](https://medium.com/p/54157ef82c02) |
+| Wed, 10 Dec 2025 08:28:09 GMT | Data Privacy in Repair: Here’s How We Keep Your Photos & Files Safe (and Why We Don’t Need Your… | Sampurnakart | [Read More](https://medium.com/p/43e375a6b3cc) |
 | Wed, 10 Dec 2025 08:26:47 GMT | ️ When an Image Loader Turned Into a Backdoor: My Discovery of a Blind SSRF on a Blockchain… | Anshubind | [Read More](https://medium.com/p/94d33d6d5371) |
 | Wed, 10 Dec 2025 08:24:53 GMT | When a Login Page Became a Trap: My Discovery of a Web Cache Deception Vulnerability | Anshubind | [Read More](https://medium.com/p/d1cbbdc0203f) |
 | Wed, 10 Dec 2025 08:18:08 GMT | Data Security Failing? Try Powerful Free Antivirus Now | SiyanoAV | [Read More](https://medium.com/p/ace4240e2efc) |
@@ -47,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 06:58:37 GMT | Ode to the fly | Fiona Cockburn | [Read More](https://medium.com/p/ce9525afcffb) |
 | Wed, 10 Dec 2025 06:57:13 GMT | Tải Huyền Thoại Hải Tặc Lậu (Việt Hóa) v1.0.5 | Bandisharecx | [Read More](https://medium.com/p/a63d8f11f019) |
 | Wed, 10 Dec 2025 06:55:27 GMT | Next.js 2025 Security Update: Why Every Developer Should Sit Up and Pay Attention | Enock Kiplangat | [Read More](https://medium.com/p/a2e9832d0994) |
+| Wed, 10 Dec 2025 06:46:19 GMT | OWASP’ı Anlamak: Güvenli Yazılım Geliştirme | Mustafa Dikyar | [Read More](https://medium.com/p/3be764c5069c) |
 | Wed, 10 Dec 2025 06:46:13 GMT | CCSE-204 CrowdStrike SIEM Engineer Certification Guide | Exam Kill | [Read More](https://medium.com/p/09e1d12125ff) |
 | Wed, 10 Dec 2025 06:45:59 GMT | Rethinking Benign Alerts: A New Perspective for Detection Engineering | Alex Teixeira | [Read More](https://medium.com/p/525f701d66b7) |
 | Wed, 10 Dec 2025 06:43:58 GMT | Kling AI Avatar 2.0: The Future of AI-Driven Digital Avatars | Ccarol | [Read More](https://medium.com/p/20569e542fa1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 02:14:39 GMT | Pioneers Ahead of Their Time | Chier Hu | [Read More](https://medium.com/p/c4510d154868) |
 | Wed, 10 Dec 2025 02:09:19 GMT | The Suspicious Choclate.exe | Tryhacking | [Read More](https://medium.com/p/3ddb65d13fbc) |
 | Wed, 10 Dec 2025 02:07:44 GMT | The Definitive Guide to Modern Technology: Shaping Our World and Future Trajectories | Toni Rose Joseph | [Read More](https://medium.com/p/dfde63ff3ab7) |
-| Wed, 10 Dec 2025 02:06:42 GMT | The Shape Beneath the Cotton | Moe Caster | [Read More](https://medium.com/p/d4aef123cc63) |
-| Wed, 10 Dec 2025 01:44:41 GMT | Loki & Promtail: A Deep Dive into Scalable Logging | Srikanta Sahu | [Read More](https://medium.com/p/65dbcf66cb1c) |
-| Wed, 10 Dec 2025 01:38:28 GMT | How I Exploited Blind SSRF to Own an AWS Environment — My Step-by-Step Red Team Hunt | ZAYN | [Read More](https://medium.com/p/c403378b06a4) |
-| Wed, 10 Dec 2025 01:30:49 GMT | When AI Shouldn’t Automate | John Williams | [Read More](https://medium.com/p/6d924c68348e) |
-| Wed, 10 Dec 2025 01:29:08 GMT | Remote Workers Face New Risks From Fake Meeting Fix Prompts | Geoffrey Wenger | [Read More](https://medium.com/p/2ba1a1dc0670) |
-| Wed, 10 Dec 2025 01:28:57 GMT | National AI Rule Sparks A New Fight Over Tech Oversight | Geoffrey Wenger | [Read More](https://medium.com/p/5f06fa5b5395) |
-| Wed, 10 Dec 2025 01:28:47 GMT | React2Shell — CVE-2025-55182 Unauthenticated Remote Code Execution in React Server Components | CyberQuestor | [Read More](https://medium.com/p/b6bf7ee6c22f) |
-| Wed, 10 Dec 2025 01:20:06 GMT | The Physics of Hardware Hacking (Part 1) | X-3306 | [Read More](https://medium.com/p/eb39044163c1) |
-| Wed, 10 Dec 2025 01:02:49 GMT | Part 5/5 Splunk Dashboard for SSH Logs | Chaima KHABTHENI | [Read More](https://medium.com/p/01c505f7185a) |
-| Wed, 10 Dec 2025 00:54:48 GMT | Apache Config vs. .htaccess: The Security Battle You’re Probably Losing | BotsiCat | [Read More](https://medium.com/p/37f3baa3fbdc) |
