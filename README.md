@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 14:19:39 GMT | Pragmatism: Why German Love for Perfect Processes Is a Transformation Killer | Nina Sophie Pejsa | [Read More](https://medium.com/p/9d1c2393b472) |
+| Wed, 10 Dec 2025 14:14:38 GMT | Güvenlik Duvarındaki Sessiz Tehlike: | HSD ATLAS | [Read More](https://medium.com/p/eebe689059e9) |
+| Wed, 10 Dec 2025 14:13:53 GMT | Fortifying FinTech Against Cyber Threats⚠️ | KnubiSoft | [Read More](https://medium.com/p/af196f0af303) |
+| Wed, 10 Dec 2025 14:10:50 GMT | What Behind My First Critical Bug — ATO $X,XXX | brbr0s | [Read More](https://medium.com/p/079cc10e1951) |
+| Wed, 10 Dec 2025 14:10:35 GMT | Enterprise Content Management: From Chaos to Strategic Advantage | ONE ECM | [Read More](https://medium.com/p/4fea73a01822) |
+| Wed, 10 Dec 2025 14:09:47 GMT | React2Shell: The Exploit That Shocked the Web | Code Coup | [Read More](https://medium.com/p/e8b987d740bd) |
+| Wed, 10 Dec 2025 14:05:41 GMT | Love That Thrives: A True-Life Story Showing how Love Reveals Itself in Vulnerability | Carmen Helen Golden | [Read More](https://medium.com/p/a030a95cd3ea) |
+| Wed, 10 Dec 2025 14:03:05 GMT | Tryhackme Advent of Cyber 2025 (Day1–5) | SpaceIO | [Read More](https://medium.com/p/c6fa2cbf6eae) |
+| Wed, 10 Dec 2025 14:02:24 GMT | Building Stronger Cybersecurity with Smart Frameworks | Paul Meyer | [Read More](https://medium.com/p/7e3204e5fab0) |
+| Wed, 10 Dec 2025 14:02:21 GMT | Linux Security Habit #4 — The One Directory Attackers Always Try to Modify (And How I Catch It… | Faruk Ahmed | [Read More](https://medium.com/p/93c6c461c088) |
+| Wed, 10 Dec 2025 14:02:19 GMT | Magento Security Patches: Why Your Store Needs Them | On Tap | [Read More](https://medium.com/p/c466e349e3ed) |
+| Wed, 10 Dec 2025 14:00:01 GMT | TryHackMe Writeup: Undiscovered | Berkay AĞGÜL | [Read More](https://medium.com/p/433d9a48e39c) |
+| Wed, 10 Dec 2025 13:59:57 GMT | 2025 Year of Browser Bugs Recap:
+A Year of Unmasking Critical Browser Vulnerabilities | SquareX | [Read More](https://medium.com/p/e3f8fc617129) |
+| Wed, 10 Dec 2025 13:58:13 GMT | Critical vulnerability in React Server Components (RSC) protocol | Akhshy Ganesh | [Read More](https://medium.com/p/7f07aa54d1d5) |
+| Wed, 10 Dec 2025 13:57:31 GMT | Mastering VLANs, Firewalls & Network Devices: A Practical Guide for Modern IT Setups | Angel Mathew | [Read More](https://medium.com/p/2179a0b0d5b8) |
+| Wed, 10 Dec 2025 13:54:56 GMT | A Complete “Juicy Details” TryHackMe Writeup | Malk All Banna | [Read More](https://medium.com/p/14931d908242) |
+| Wed, 10 Dec 2025 13:52:31 GMT | The Return of The Luhn Algorithm | Alp | [Read More](https://medium.com/p/542d3d951576) |
+| Wed, 10 Dec 2025 13:51:40 GMT | BACKOOR CTF 2025 (PWN) | R1 | [Read More](https://medium.com/p/197c12d6f712) |
+| Wed, 10 Dec 2025 13:46:58 GMT | Broken 2FA Authentication | Daemi Jack | [Read More](https://medium.com/p/97ab0d64052f) |
+| Wed, 10 Dec 2025 13:34:44 GMT | 0-Day Hunting Guide ️‍♂️: Recon Techniques Nobody Talks About | Vipul Sonule | [Read More](https://medium.com/p/046d373b6dab) |
+| Wed, 10 Dec 2025 13:32:17 GMT | What I Learned Writing for Change (Literally) | Aaron Pace | [Read More](https://medium.com/p/faff2f8c43ce) |
 | Wed, 10 Dec 2025 13:31:41 GMT | Building a Modern Cyber Security Architecture | Sebastian Kandler | [Read More](https://medium.com/p/cc41b844bec2) |
 | Wed, 10 Dec 2025 13:29:23 GMT | What Is VAPT Security Testing and Why Does Your Business Need It | Testrig Technologies | [Read More](https://medium.com/p/95b3f67f7f62) |
 | Wed, 10 Dec 2025 13:18:25 GMT | Why 99% of Bug Hunters Fail — and How to Be the 1% | Vipul Sonule | [Read More](https://medium.com/p/0f07d96885b4) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 08:26:47 GMT | ️ When an Image Loader Turned Into a Backdoor: My Discovery of a Blind SSRF on a Blockchain… | Anshubind | [Read More](https://medium.com/p/94d33d6d5371) |
 | Wed, 10 Dec 2025 08:24:53 GMT | When a Login Page Became a Trap: My Discovery of a Web Cache Deception Vulnerability | Anshubind | [Read More](https://medium.com/p/d1cbbdc0203f) |
 | Wed, 10 Dec 2025 08:18:08 GMT | Data Security Failing? Try Powerful Free Antivirus Now | SiyanoAV | [Read More](https://medium.com/p/ace4240e2efc) |
-| Wed, 10 Dec 2025 08:15:37 GMT | Microsoft Drops 56 New Vulnerabilities — Including 3 Zero-Days. | Dave MacKinnon | [Read More](https://medium.com/p/acf8a01a62ed) |
-| Wed, 10 Dec 2025 08:13:50 GMT | The End of “Good Enough” Security: A Personal Manifesto | Gideon Cohen | [Read More](https://medium.com/p/8b1cefacc6b8) |
-| Wed, 10 Dec 2025 08:12:14 GMT | Cybersecurity: To be Zero (day) | Spazioformadesign | [Read More](https://medium.com/p/f5ade40203ca) |
-| Wed, 10 Dec 2025 08:11:49 GMT | Infomatic Technologies: A Trusted Partner for Modern Business Outsourcing | Infomatic Solutions | [Read More](https://medium.com/p/7e953d563b8a) |
-| Wed, 10 Dec 2025 08:10:59 GMT | What One Leader Told Me About Why They Stayed with Us Client Interview or Story (anonymised) | Fook Hwa Tan | [Read More](https://medium.com/p/6192d0165042) |
-| Wed, 10 Dec 2025 08:09:59 GMT | Key Takeaways from Today’s Cybersecurity Panel | Fook Hwa Tan | [Read More](https://medium.com/p/a623085d53b2) |
-| Wed, 10 Dec 2025 08:08:36 GMT | The Windows Security Journey — BitLocker to Go | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6be07bc054bf) |
-| Wed, 10 Dec 2025 08:05:07 GMT | Adopting Modern Strategies to Strengthen Digital Security and Risk Prevention | Vijilan | [Read More](https://medium.com/p/616022f0483e) |
-| Wed, 10 Dec 2025 08:03:57 GMT | The AI Advantage in SecOps Starts With What You Can See | Stellar Cyber | [Read More](https://medium.com/p/840602661348) |
-| Wed, 10 Dec 2025 08:01:28 GMT | How SSL Works / How Do You Secure Your Web App? | Sahil Gupta | [Read More](https://medium.com/p/a72441065f02) |
-| Wed, 10 Dec 2025 07:53:56 GMT | Your Cyber Defenses are Already Obsolete | Aes Sedai | [Read More](https://medium.com/p/35b14b8f94e2) |
-| Wed, 10 Dec 2025 07:49:32 GMT | Optimized Dockerfile for SvelteKit applications — from experience and best practices | Balazs Csaba | [Read More](https://medium.com/p/99603d8d1303) |
-| Wed, 10 Dec 2025 07:40:38 GMT | Nightowl:A tool designed to lock onto overlooked internal network paths, uncover hidden active… | Мартин. | [Read More](https://medium.com/p/cfe0ff366441) |
-| Wed, 10 Dec 2025 07:37:32 GMT | If you’re looking for the best vapt services provider to safeguard your digital assets, look no… | StrongBox IT | [Read More](https://medium.com/p/7ed8f051f80e) |
-| Wed, 10 Dec 2025 07:33:03 GMT | How IT Services Companies in Australia Drive Business Transformation | IT Company | [Read More](https://medium.com/p/decd5b167806) |
-| Wed, 10 Dec 2025 07:32:14 GMT | The EU’s AI Code of Practice: A Milestone in Frontier AI Safety | Simon Hodgkins | [Read More](https://medium.com/p/43e1cf4660a1) |
-| Wed, 10 Dec 2025 07:31:25 GMT | Stop Fighting Browser HTTPS Errors: Running mkcert Certificates with Traefik for Local Development | Scaibu | [Read More](https://medium.com/p/c2ea8e70b196) |
-| Wed, 10 Dec 2025 07:27:39 GMT | Joseph Lamar Simmons Shares Why Psychological Profiling Is a Core Intelligence Skill | Joseph Lamar Simmons | [Read More](https://medium.com/p/a9566117b0cf) |
-| Wed, 10 Dec 2025 07:25:01 GMT | Top Trending Tech Domains & Skills for 2026 | Anjali | [Read More](https://medium.com/p/8ad7fa4548fa) |
-| Wed, 10 Dec 2025 07:22:36 GMT | The Daily Tech Digest: 10 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/92a1e5fe6581) |
-| Wed, 10 Dec 2025 07:19:13 GMT | Paging Dr. Deepfake: | expansions -- D. Hannaham | [Read More](https://medium.com/p/20ee70e2cec1) |
