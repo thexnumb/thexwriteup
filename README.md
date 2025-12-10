@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 16:15:29 GMT | Why windows says your license isn’t genuine, even when you paid for It | Vedad Borovac | [Read More](https://medium.com/p/fafebb737377) |
+| Wed, 10 Dec 2025 16:09:25 GMT | Secrets in Git, Tokens in Logs: The Silent Data Breaches Inside Your Codebase | Niyati Daftary | [Read More](https://medium.com/p/81615936044f) |
+| Wed, 10 Dec 2025 16:09:22 GMT | How I Found an Integer Overflow in ImageMagick Leading to Out-of-Bounds Read (CVE-2025–66628) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/c22e037b54d2) |
+| Wed, 10 Dec 2025 16:05:52 GMT | The Complete Guide to Man-in-the-Middle Attacks: From Theory to Practice | Ajmir khan | [Read More](https://medium.com/p/57e460a0d6c9) |
+| Wed, 10 Dec 2025 16:05:42 GMT | Firewalls Decoded: 5 Types, Where to Use Them, and Why Your Security Depends on It | Paradise technologies Inc | [Read More](https://medium.com/p/34f7c3cc83cd) |
+| Wed, 10 Dec 2025 16:03:48 GMT | When AI Discovers Vulnerabilities Faster Than We Can Patch: The Moment Cybersecurity Reaches Its… | Abatis ABTU | [Read More](https://medium.com/p/df552702bad7) |
+| Wed, 10 Dec 2025 16:02:35 GMT | What Is API Security and Why Should Everyday People Care? | Maryblessing | [Read More](https://medium.com/p/055535456082) |
+| Wed, 10 Dec 2025 16:02:34 GMT | Episode 14: “The Silence Between Packets” | Dr. House In I.T. | [Read More](https://medium.com/p/ce7e264aff55) |
+| Wed, 10 Dec 2025 16:00:40 GMT | Why Azure Key Vault is Essential for .NET Security | Lakshitha Madhuwantha | [Read More](https://medium.com/p/d129bf39c2e9) |
+| Wed, 10 Dec 2025 15:46:59 GMT | MBAs Seek Next Amazing New Technology To Ruin | NTTP | [Read More](https://medium.com/p/963fc34cab5d) |
+| Wed, 10 Dec 2025 15:44:22 GMT | There’s No Dropdown for This: Why We Needed a Different Approach to Search | Lucas Longacre | [Read More](https://medium.com/p/f923eb5fabbe) |
+| Wed, 10 Dec 2025 15:44:18 GMT | CVE-2025–55182 (React2Shell) — Complete Bug Bounty Hunting Guide | Abhishek meena | [Read More](https://medium.com/p/9cbfd15b6e47) |
+| Wed, 10 Dec 2025 15:39:27 GMT | The 2026 Guide to “Digital Hygiene” for Teens: Why It Goes Way Beyond Social Media | Night walkr | [Read More](https://medium.com/p/77b07a0e19ea) |
+| Wed, 10 Dec 2025 15:38:00 GMT | Cybersafety- Curating Safer Online Culture | Anushka Dutta | [Read More](https://medium.com/p/5bd468e43610) |
 | Wed, 10 Dec 2025 15:32:12 GMT | Part 42: DNS in Azure: From First Principles to Private DNS Zones | Shubham Barman | [Read More](https://medium.com/p/116c2e92ddfd) |
 | Wed, 10 Dec 2025 15:29:51 GMT | Stop Leaking Your Keys: A Beginner’s Guide to Hiding Secrets in Flutter | Sabin RanaBhat | [Read More](https://medium.com/p/bf3010fd052d) |
 | Wed, 10 Dec 2025 15:28:08 GMT | Important Security Settings for Your PHP Server | Tarik Aljanabi | [Read More](https://medium.com/p/cf46320659ea) |
@@ -99,17 +113,3 @@ A Year of Unmasking Critical Browser Vulnerabilities | SquareX | [Read More](htt
 | Wed, 10 Dec 2025 10:51:24 GMT | Top 15 cybersecurity companies in India 2026 | StrongBox IT | [Read More](https://medium.com/p/0ca7ebe8ae2e) |
 | Wed, 10 Dec 2025 10:49:29 GMT | The First Humans Raised by Algorithms : Generation Alpha | Abdul Salam Chaudhary - Psychologist | [Read More](https://medium.com/p/269ee343536d) |
 | Wed, 10 Dec 2025 10:47:03 GMT | Security Lab Simulation Project Part 8: Wazuh Server Setup and Configuration | Jenny | [Read More](https://medium.com/p/2936d7808bf1) |
-| Wed, 10 Dec 2025 10:45:26 GMT | Basic Networking + Python Complete Programming Bundle — Special Year-End Offer by Craw Security | Manisha Chaudhary | [Read More](https://medium.com/p/9b62d9de677a) |
-| Wed, 10 Dec 2025 10:42:40 GMT | How to Become a Penetration Tester in 2026 — Complete Beginner Roadmap | Learning Saints | [Read More](https://medium.com/p/cc14f996ac7e) |
-| Wed, 10 Dec 2025 10:41:41 GMT | SQL Injection | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/ea281b7bcc2e) |
-| Wed, 10 Dec 2025 10:30:02 GMT | Wazuh × Tines SOAR Integration Lab — Phase 2 | Hanif K A | [Read More](https://medium.com/p/c8d1f8409b58) |
-| Wed, 10 Dec 2025 10:29:51 GMT | Internet Outage on 18 Nov, 2025 (Cloudflare) | Dhairya Singla | [Read More](https://medium.com/p/b2a5d047ca7c) |
-| Wed, 10 Dec 2025 10:28:35 GMT | Urgent Alert: Zero-Day Remote Code Execution Vulnerability Discovered in React Server Components | Yuraj Isurinda | [Read More](https://medium.com/p/afb46fa83e0b) |
-| Wed, 10 Dec 2025 10:23:20 GMT | Why Microsoft 365 Is the Complete Solution Every Modern Business Needs | Uniglobal | [Read More](https://medium.com/p/5118b0efc1e4) |
-| Wed, 10 Dec 2025 10:20:07 GMT | Physical Security Still Matters More Than We Think | Trust Consulting Services | [Read More](https://medium.com/p/96f6bf641337) |
-| Wed, 10 Dec 2025 10:19:23 GMT | Web Zafiyetleri Serisi #10 | Didem Kış | [Read More](https://medium.com/p/c69e9f957693) |
-| Wed, 10 Dec 2025 10:15:34 GMT | Attention, GPT dans ma recette | Valentin Thion | [Read More](https://medium.com/p/d7b6dcafb533) |
-| Wed, 10 Dec 2025 10:15:29 GMT | Thinking | Ian Andrew Paterniti | [Read More](https://medium.com/p/7943972c86d7) |
-| Wed, 10 Dec 2025 10:12:32 GMT | Day 10 — Legacy Systems (The Old Bridge) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/d85db07cca46) |
-| Wed, 10 Dec 2025 10:08:04 GMT | Email Security Services in Singapore: Protecting Businesses in a Digital-First Era: | HawkShield | [Read More](https://medium.com/p/f012de255ea6) |
-| Wed, 10 Dec 2025 10:02:46 GMT | The Privacy Playbook Your Customers Expect in 2025 | Velorum | [Read More](https://medium.com/p/fe765d73ee3a) |
