@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 23:14:04 GMT | Passwords — A Cracking Christmas — Writeup(DAY 9 — Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/923433f6a87c) |
+| Wed, 10 Dec 2025 23:00:27 GMT | Cryptography basics- Tryhackme Room. | King | [Read More](https://medium.com/p/798468dd5bb7) |
+| Wed, 10 Dec 2025 22:54:34 GMT | CVE-2025–55182, CVE-2025–6647 quick analysis | akbun | [Read More](https://medium.com/p/aa087e8d2378) |
+| Wed, 10 Dec 2025 22:47:26 GMT | Post 4: Mary Begins Building Sally’s System | SattiData | [Read More](https://medium.com/p/ad55e4a76df6) |
 | Wed, 10 Dec 2025 22:41:49 GMT | What Are Some of the Most Important Lessons After 20 Years in IT and Cybersecurity? | Igor Berner | [Read More](https://medium.com/p/30bf9e0b90e2) |
 | Wed, 10 Dec 2025 22:40:58 GMT | From Serving Airforce to Corporate Cybersecurity | M Umar Akhlaq | [Read More](https://medium.com/p/ab9840c9fe39) |
+| Wed, 10 Dec 2025 22:37:13 GMT | Introducing kubectl-readonly | Guillaume Rams | [Read More](https://medium.com/p/7ef1987c945b) |
 | Wed, 10 Dec 2025 22:35:48 GMT | Protecting trust at the speed of risk | Slalom | [Read More](https://medium.com/p/fe8b0ad1df01) |
 | Wed, 10 Dec 2025 22:32:27 GMT | Stepping Into Cybersecurity | Larry Harris | [Read More](https://medium.com/p/d55f915dc70e) |
 | Wed, 10 Dec 2025 22:32:24 GMT | I lied, I am (still) depressed. | Hafeezah Salau | [Read More](https://medium.com/p/c38988ddb475) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 15:39:27 GMT | The 2026 Guide to “Digital Hygiene” for Teens: Why It Goes Way Beyond Social Media | Night walkr | [Read More](https://medium.com/p/77b07a0e19ea) |
 | Wed, 10 Dec 2025 15:38:00 GMT | Cybersafety- Curating Safer Online Culture | Anushka Dutta | [Read More](https://medium.com/p/5bd468e43610) |
 | Wed, 10 Dec 2025 15:32:12 GMT | Part 42: DNS in Azure: From First Principles to Private DNS Zones | Shubham Barman | [Read More](https://medium.com/p/116c2e92ddfd) |
-| Wed, 10 Dec 2025 15:29:51 GMT | Stop Leaking Your Keys: A Beginner’s Guide to Hiding Secrets in Flutter | Sabin RanaBhat | [Read More](https://medium.com/p/bf3010fd052d) |
-| Wed, 10 Dec 2025 15:28:08 GMT | Important Security Settings for Your PHP Server | Tarik Aljanabi | [Read More](https://medium.com/p/cf46320659ea) |
-| Wed, 10 Dec 2025 15:22:20 GMT | Unlocking Secrets: How to Create Your Own Wordlist for Hidden Directories and Endpoints | Aman Sharma | [Read More](https://medium.com/p/26a031b288b7) |
-| Wed, 10 Dec 2025 15:21:26 GMT | Self-Learning: The Real Competitive Advantage in Career and Life | Deborah Ehru | [Read More](https://medium.com/p/7620b5806582) |
-| Wed, 10 Dec 2025 15:18:28 GMT | Cracking HTB’s Hubbub Challenge — Turning AVR Buzzer Noise Into a Flag | Krishna Teja | [Read More](https://medium.com/p/568f31cd0a02) |
