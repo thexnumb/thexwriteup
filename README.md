@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 11:28:44 GMT | NOTE: this is a straight forward walkthrough to see what worked. | Cyc0 | [Read More](https://medium.com/p/c1551960d6c8) |
+| Wed, 10 Dec 2025 11:21:27 GMT | Evaluating Election Technology | Trillion Defense | [Read More](https://medium.com/p/269eccc6939f) |
+| Wed, 10 Dec 2025 11:17:23 GMT | Crypto Scam Types: How They Work and How to Avoid Them | AML You | [Read More](https://medium.com/p/ba91ed44ae7f) |
 | Wed, 10 Dec 2025 11:06:43 GMT | Linux Networking Cheat Sheet | Oz | [Read More](https://medium.com/p/06616c58288a) |
 | Wed, 10 Dec 2025 11:02:24 GMT | Here is your version shortened by ~1000 characters, still sharp, human, viral, and clean: | Salimassili | [Read More](https://medium.com/p/8f3dc6d998b5) |
 | Wed, 10 Dec 2025 10:55:48 GMT | Wireshark Traffic Analysis: Identifying Hosts: DHCP, NetBIOS and Kerberos | Citadel Cybersec | [Read More](https://medium.com/p/350f57669086) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 05:50:06 GMT | Automate Security Before You Commit: Using DevSecOps Kit Git Hooks (Complete Guide) | Edgar Posada | [Read More](https://medium.com/p/82d7091cdfa0) |
 | Wed, 10 Dec 2025 05:48:45 GMT | Raising Cyber Standards to Meet Enterprise Supplier Expectations | Kadhijahafiya | [Read More](https://medium.com/p/c88c97206935) |
 | Wed, 10 Dec 2025 05:48:11 GMT | The Rising Cost of Cyberattacks and Why Network Security Providers Matter More Than Ever | Sarah | [Read More](https://medium.com/p/c44cbab0f333) |
-| Wed, 10 Dec 2025 05:39:17 GMT | How To Set Up A Secure Microsoft Business Account For Teams? | Kendall Garcia | [Read More](https://medium.com/p/ff73d59ce44f) |
-| Wed, 10 Dec 2025 05:24:23 GMT | Passwords — A Cracking Christmas | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/bd0a1b8f9aa2) |
-| Wed, 10 Dec 2025 05:23:33 GMT | BackdoorCTF 2025 experience (and writeups) | Maksim Hayder | [Read More](https://medium.com/p/5d700ddc2e87) |
