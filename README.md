@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 10:20:07 GMT | Physical Security Still Matters More Than We Think | Trust Consulting Services | [Read More](https://medium.com/p/96f6bf641337) |
+| Wed, 10 Dec 2025 10:19:23 GMT | Web Zafiyetleri Serisi #10 | Didem Kış | [Read More](https://medium.com/p/c69e9f957693) |
+| Wed, 10 Dec 2025 10:15:34 GMT | Attention, GPT dans ma recette | Valentin Thion | [Read More](https://medium.com/p/d7b6dcafb533) |
+| Wed, 10 Dec 2025 10:15:29 GMT | Thinking | Ian Andrew Paterniti | [Read More](https://medium.com/p/7943972c86d7) |
+| Wed, 10 Dec 2025 10:12:32 GMT | Day 10 — Legacy Systems (The Old Bridge) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/d85db07cca46) |
+| Wed, 10 Dec 2025 10:08:04 GMT | Email Security Services in Singapore: Protecting Businesses in a Digital-First Era: | HawkShield | [Read More](https://medium.com/p/f012de255ea6) |
+| Wed, 10 Dec 2025 10:02:46 GMT | The Privacy Playbook Your Customers Expect in 2025 | Velorum | [Read More](https://medium.com/p/fe765d73ee3a) |
+| Wed, 10 Dec 2025 09:54:11 GMT | Chennai M.Sc Colleges: Fees, Admission Criteria, Accepted Entrance Exams & Career Opportunities | Ajaykumartripathi | [Read More](https://medium.com/p/fbdfaeb17f28) |
+| Wed, 10 Dec 2025 09:50:23 GMT | A CTF Journey on FLAGYARD | Kyrillos Kamal | [Read More](https://medium.com/p/08af91ffe1c1) |
+| Wed, 10 Dec 2025 09:49:10 GMT | Kendi Active Directory Lab Ortamınızı Kurun-II: Active Directory Güvenliği: Bölüm-6 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/d9e1288a8549) |
+| Wed, 10 Dec 2025 09:46:24 GMT | From a Single Quote & a Space to a 1‑Year AI Subscription | Taher | [Read More](https://medium.com/p/bc89a6671eff) |
+| Wed, 10 Dec 2025 09:45:41 GMT | NetShop ISP Launches “Digital Shield” to Strengthen Network-Wide DDoS Protection | NetShop ISP | [Read More](https://medium.com/p/1bcd2747d7f9) |
+| Wed, 10 Dec 2025 09:44:51 GMT | Designing trust: the UX of AI security | ABHIJOY SARKAR | [Read More](https://medium.com/p/f04055730540) |
 | Wed, 10 Dec 2025 09:39:16 GMT | PortSwigger: Business logic vulnerabilities LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/36ace7334f19) |
 | Wed, 10 Dec 2025 09:38:11 GMT | Leading IT Infrastructure Management Services Provider in India - Modernize Your IT Infra | Mathewneelan | [Read More](https://medium.com/p/da3df0f937e1) |
+| Wed, 10 Dec 2025 09:37:44 GMT | Door Security & Guarding Skills: Flexible Training with Afternoon and Evening Lectures | International Centre for Security Excellence | [Read More](https://medium.com/p/54f808ab3a3a) |
 | Wed, 10 Dec 2025 09:32:15 GMT | The Consent Receipt Email | Nexumo | [Read More](https://medium.com/p/1153907168a6) |
 | Wed, 10 Dec 2025 09:27:05 GMT | Limiting Public Access and Protecting Sensitive Data in Azure Storage | Sebastian Utoiu | [Read More](https://medium.com/p/95f6b703d0ac) |
 | Wed, 10 Dec 2025 09:20:57 GMT | Perbedaan Bug vs Technical Debt: Kenapa Web Developer Sering Kewalahan | Fathurrahman Al Hafiz | [Read More](https://medium.com/p/9cc3d0c14444) |
@@ -22,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 09:11:49 GMT | THE OPERATIONAL DOCTRINE FOR HUMAN AI COGNITIVE SYSTEMS | Matthew Wood | [Read More](https://medium.com/p/89faa51174ab) |
 | Wed, 10 Dec 2025 09:08:14 GMT | React2Shell: How One Bug Just Nuked 40% of the Internet (And Your Server Might Already Be Pwned) | DevBoost Lab | [Read More](https://medium.com/p/bd3baa3ce3c3) |
 | Wed, 10 Dec 2025 09:02:16 GMT | Developers: Add A Real Leak Check To Any Login With LeakRadar’s API In 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/32d4adf927c9) |
+| Wed, 10 Dec 2025 08:56:51 GMT | Stop Praying to the Oracle: The Tatvamasi Protocol for AI | Jayal Yadav | [Read More](https://medium.com/p/2990dd08f208) |
 | Wed, 10 Dec 2025 08:56:39 GMT | Metrics and Models for Measuring the Effectiveness of Vulnerability Management Programs | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/c8105a263795) |
 | Wed, 10 Dec 2025 08:49:01 GMT | SWIFT Simplified: The World’s Financial Messenger Service | crązŷrąiɲ | [Read More](https://medium.com/p/b6c06308a920) |
 | Wed, 10 Dec 2025 08:33:47 GMT | Associative: Your Trusted Appium Testing Company and IT Solutions Partner | Associative: Software Development & Consulting | [Read More](https://medium.com/p/54157ef82c02) |
@@ -78,6 +93,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 06:00:58 GMT | What Is a CDN and Why Do We Need crossorigin in Script Tags? | Ayush Jaiswal | [Read More](https://medium.com/p/720aa2c1541a) |
 | Wed, 10 Dec 2025 05:50:06 GMT | Automate Security Before You Commit: Using DevSecOps Kit Git Hooks (Complete Guide) | Edgar Posada | [Read More](https://medium.com/p/82d7091cdfa0) |
 | Wed, 10 Dec 2025 05:48:45 GMT | Raising Cyber Standards to Meet Enterprise Supplier Expectations | Kadhijahafiya | [Read More](https://medium.com/p/c88c97206935) |
+| Wed, 10 Dec 2025 05:48:11 GMT | The Rising Cost of Cyberattacks and Why Network Security Providers Matter More Than Ever | Sarah | [Read More](https://medium.com/p/c44cbab0f333) |
 | Wed, 10 Dec 2025 05:39:17 GMT | How To Set Up A Secure Microsoft Business Account For Teams? | Kendall Garcia | [Read More](https://medium.com/p/ff73d59ce44f) |
 | Wed, 10 Dec 2025 05:24:23 GMT | Passwords — A Cracking Christmas | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/bd0a1b8f9aa2) |
 | Wed, 10 Dec 2025 05:23:33 GMT | BackdoorCTF 2025 experience (and writeups) | Maksim Hayder | [Read More](https://medium.com/p/5d700ddc2e87) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 04:17:14 GMT | $1,000 Bounty: How Bypass Admin Approval in an inDriver | Monika sharma | [Read More](https://medium.com/p/78f19fe84572) |
 | Wed, 10 Dec 2025 04:12:17 GMT | From NTLM Relay to Domain Compromise: A Practical Walkthrough of ADCS ESC8 | codesterzz | [Read More](https://medium.com/p/e78e99c25a70) |
 | Wed, 10 Dec 2025 03:56:37 GMT | The Quantum “Master Key”: Why Your Board Needs to Talk About Physics Sooner than Later | Patrick Lefler | [Read More](https://medium.com/p/63ba0e89ad54) |
-| Wed, 10 Dec 2025 03:55:27 GMT | Hello World: My First Step Into Writing | Hina Kauser | [Read More](https://medium.com/p/e4776d715401) |
-| Wed, 10 Dec 2025 03:43:49 GMT | Weekly Threat Intelligence Report 8 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/47d75c4b8622) |
-| Wed, 10 Dec 2025 03:38:29 GMT | Tools That Make ISO 27001 Compliance Easier | Viola | [Read More](https://medium.com/p/0696659d955b) |
-| Wed, 10 Dec 2025 03:37:45 GMT | The Art Of Dirty Power: Abusing Voltage To Unlock ESP32 Behaviors | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d9cde4ed27f1) |
-| Wed, 10 Dec 2025 03:35:02 GMT | Static Residential Proxy: When to Use It, How to Keep Sessions Stable, and What to Test Before You… | Proxy001 | [Read More](https://medium.com/p/c84c5dc0f702) |
-| Wed, 10 Dec 2025 03:33:04 GMT | The Donna Fonda Thesis: Why the “Heroic” Era of Logistics is Over (And Why Boring Process Wins) | Heesham Naji | [Read More](https://medium.com/p/310b2f1bc6fa) |
-| Wed, 10 Dec 2025 03:32:39 GMT | APT36’s New Python ELF Malware: Inside the Campaign Targeting Linux Systems in Indian Government… | Deven Chhajed | [Read More](https://medium.com/p/9866a63d7dd7) |
-| Wed, 10 Dec 2025 03:25:25 GMT | Denial of service on the “Post” tab in any Microsoft Teams community | Rohmad Hidayah | [Read More](https://medium.com/p/9f6220d95251) |
-| Wed, 10 Dec 2025 03:19:47 GMT | AI to the rescue. When hackers found our server, our AI Agent defended us. | Juan Pelaez | [Read More](https://medium.com/p/3e897895bc6c) |
-| Wed, 10 Dec 2025 03:07:46 GMT | Turning a “Feature” into a “Vulnerability” — Collaboration Feature Exposed Every Username in the… | Raman Gautam - rghx | [Read More](https://medium.com/p/e11cbe806bfc) |
-| Wed, 10 Dec 2025 03:06:59 GMT | How Netflix Uses Java to Handle Hundreds of Microservices — A Practical View for Developers | The Dev Notebook | [Read More](https://medium.com/p/3c5a70f9c255) |
-| Wed, 10 Dec 2025 03:05:27 GMT | The Strength Everyone Praises… and the Cost No One Sees | Sree Palakurthi | [Read More](https://medium.com/p/a36cc9c8c6b4) |
-| Wed, 10 Dec 2025 02:55:06 GMT | Event Horizon? | Sarah Alsamman | [Read More](https://medium.com/p/48becba90eb5) |
-| Wed, 10 Dec 2025 02:44:32 GMT | React2Shell Crisis Breakdown: How To Instantly Protect Your Projects | Tara Prasad Routray | [Read More](https://medium.com/p/04cc94a5688f) |
-| Wed, 10 Dec 2025 02:44:14 GMT | Welcome to the Crypto Graveyard | Tina Ginn | [Read More](https://medium.com/p/d3955600743f) |
-| Wed, 10 Dec 2025 02:41:21 GMT | Instant Root via Unauthenticated Docker Engine API (TCP/2375)From Low-Priv Container → Full ROOT… | Nano | [Read More](https://medium.com/p/0cc368bc7aef) |
