@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Dec 2025 09:39:16 GMT | PortSwigger: Business logic vulnerabilities LABS | Abdelhamid Elbouz | [Read More](https://medium.com/p/36ace7334f19) |
+| Wed, 10 Dec 2025 09:38:11 GMT | Leading IT Infrastructure Management Services Provider in India - Modernize Your IT Infra | Mathewneelan | [Read More](https://medium.com/p/da3df0f937e1) |
+| Wed, 10 Dec 2025 09:32:15 GMT | The Consent Receipt Email | Nexumo | [Read More](https://medium.com/p/1153907168a6) |
+| Wed, 10 Dec 2025 09:27:05 GMT | Limiting Public Access and Protecting Sensitive Data in Azure Storage | Sebastian Utoiu | [Read More](https://medium.com/p/95f6b703d0ac) |
+| Wed, 10 Dec 2025 09:20:57 GMT | Perbedaan Bug vs Technical Debt: Kenapa Web Developer Sering Kewalahan | Fathurrahman Al Hafiz | [Read More](https://medium.com/p/9cc3d0c14444) |
 | Wed, 10 Dec 2025 09:17:35 GMT | One Line of Code That Can Hijack Your Entire Website | Redfox Security | [Read More](https://medium.com/p/87fd059b203b) |
 | Wed, 10 Dec 2025 09:12:01 GMT | Data Protection & Privacy in 2025 — Latest Developments and Why They Matter | Devarshi Acharya | [Read More](https://medium.com/p/7b6b33c5514d) |
 | Wed, 10 Dec 2025 09:11:49 GMT | THE OPERATIONAL DOCTRINE FOR HUMAN AI COGNITIVE SYSTEMS | Matthew Wood | [Read More](https://medium.com/p/89faa51174ab) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 02:44:32 GMT | React2Shell Crisis Breakdown: How To Instantly Protect Your Projects | Tara Prasad Routray | [Read More](https://medium.com/p/04cc94a5688f) |
 | Wed, 10 Dec 2025 02:44:14 GMT | Welcome to the Crypto Graveyard | Tina Ginn | [Read More](https://medium.com/p/d3955600743f) |
 | Wed, 10 Dec 2025 02:41:21 GMT | Instant Root via Unauthenticated Docker Engine API (TCP/2375)From Low-Priv Container → Full ROOT… | Nano | [Read More](https://medium.com/p/0cc368bc7aef) |
-| Wed, 10 Dec 2025 02:32:14 GMT | LockBit Ransomware: A Detailed Analysis Chapter 1 | Thegreatpayload | [Read More](https://medium.com/p/d6c84a2d8c9b) |
-| Wed, 10 Dec 2025 02:19:05 GMT | Are hackers using AI to crack password now ? 100 % yes ‍↕️ | Sir Lakewest | [Read More](https://medium.com/p/7773683a6c60) |
-| Wed, 10 Dec 2025 02:14:39 GMT | Pioneers Ahead of Their Time | Chier Hu | [Read More](https://medium.com/p/c4510d154868) |
-| Wed, 10 Dec 2025 02:09:19 GMT | The Suspicious Choclate.exe | Tryhacking | [Read More](https://medium.com/p/3ddb65d13fbc) |
-| Wed, 10 Dec 2025 02:07:44 GMT | The Definitive Guide to Modern Technology: Shaping Our World and Future Trajectories | Toni Rose Joseph | [Read More](https://medium.com/p/dfde63ff3ab7) |
