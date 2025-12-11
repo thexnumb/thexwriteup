@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 10:29:15 GMT | Goodbye Mimikatz? How Credential Guard, VBS & UEFI Lock Changed LSASS Attacks Forever | Yua Mikanana | [Read More](https://medium.com/p/d3c0bc828769) |
+| Thu, 11 Dec 2025 10:23:46 GMT | Security Lab Simulation Project Part 9: Wazuh Agents Installation | Jenny | [Read More](https://medium.com/p/8e6d8ecedaed) |
 | Thu, 11 Dec 2025 10:16:29 GMT | How Secure Is Microsoft 365 Email? A Full Breakdown of Its Protection Features | EINITIAL24 | [Read More](https://medium.com/p/8d92a356670d) |
 | Thu, 11 Dec 2025 10:10:47 GMT | India: ¿control tecnológico o transparencia digital? | Vicente Nogales Zamarriego #Mobility #Payments | [Read More](https://medium.com/p/6853e5e2ff7f) |
 | Thu, 11 Dec 2025 10:07:47 GMT | 60-Minute Proven Threat Modeling Workshop Template | Pentest_Testing_Corp | [Read More](https://medium.com/p/3abee1e0df2f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 04:16:16 GMT | PayPal’s SDK URLs Leak Merchant Emails and Client IDs – A PII Goldmine Dismissed as "Informative"… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/1f5f8e4fd4a4) |
 | Thu, 11 Dec 2025 04:15:17 GMT | REST Is Flexible, but SOAP Is Secure — Why Fintech Still Loves SOAP (A Deep Technical Deep Dive) | Pathum Piyumal | [Read More](https://medium.com/p/90b3adbd34a5) |
 | Thu, 11 Dec 2025 04:07:16 GMT | You Can Get Hacked Without Clicking Anything. AI Just Made It Easier. | Pasan Madhuranga | [Read More](https://medium.com/p/50a4e41695b3) |
-| Thu, 11 Dec 2025 04:04:34 GMT | Tải Hack Car Parking Multiplayer (Mod Full Tiền) V4.9.5.2 Trên Android | Apkpuredev | [Read More](https://medium.com/p/0dea18a59ce7) |
-| Thu, 11 Dec 2025 03:48:59 GMT | 97 Days Unpatched: How #Links Hijack Perplexity Comet, Copilot & Gemini for 3B Users | MohamedAbdelmenem | [Read More](https://medium.com/p/5bbb3b54b39d) |
