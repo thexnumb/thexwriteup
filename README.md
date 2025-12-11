@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 22:17:20 GMT | Stop Blaming Parents. Child Safety Online Is a System Failure, Not a User Error | Jeff Kingsland | [Read More](https://medium.com/p/9a8caca37b98) |
+| Thu, 11 Dec 2025 22:17:17 GMT | AI Agent Memory Security Requires More Observability | Valdez Ladd | [Read More](https://medium.com/p/b12053e39ff0) |
+| Thu, 11 Dec 2025 22:14:48 GMT | AERGO→HPP Token Swap & Migration | Barman | [Read More](https://medium.com/p/b6eea76f23ae) |
+| Thu, 11 Dec 2025 22:05:40 GMT | From College Classroom to IIT Stage: A Journey I Never Expected | Satyam Pathania | [Read More](https://medium.com/p/6ab8f492eab7) |
+| Thu, 11 Dec 2025 21:58:14 GMT | HTB CTF Write-Up: Fawn | Paulo Melo | [Read More](https://medium.com/p/ce9ec032d25e) |
+| Thu, 11 Dec 2025 21:49:54 GMT | Why Industrial Security Services Are Essential for Construction Projects | Salum Security | [Read More](https://medium.com/p/8b33ad894bf5) |
+| Thu, 11 Dec 2025 21:49:44 GMT | Invisible Success of Healthcare Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/71e73ad6b980) |
+| Thu, 11 Dec 2025 21:48:07 GMT | Danish Intelligence Report Raises Concerns About U.S. | Defence Affairs & Analysis | [Read More](https://medium.com/p/3e244c4786ae) |
+| Thu, 11 Dec 2025 21:46:48 GMT | Safeguard Your Property with Expert Armed Security Guards in California | Salum Security | [Read More](https://medium.com/p/5aaff7cd256f) |
+| Thu, 11 Dec 2025 21:46:26 GMT | Fail-over Strategy for Tor-Based C2 — Part 8 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/3b1c77e980d0) |
+| Thu, 11 Dec 2025 21:45:47 GMT | CRA - The new cybersecurity standard that will change how Europe designs digital products | Xavier Mico Perez | [Read More](https://medium.com/p/e978639fb977) |
+| Thu, 11 Dec 2025 21:44:27 GMT | Network Trafik Temelleri: DNS, TCP/IP ve Ağ Analizi | Ertan Caner Eskici | [Read More](https://medium.com/p/6f564aa9a569) |
+| Thu, 11 Dec 2025 21:41:20 GMT | Understanding the NSX Edge Redeploy Lifecycle: A Deep Dive into the Automated Backend Workflow | Ahmed Maher | [Read More](https://medium.com/p/ca71875388bf) |
 | Thu, 11 Dec 2025 21:30:55 GMT | The “Dream Job” Nightmare: Inside the Fake Recruiter Crypto Malware Attack | Martian | [Read More](https://medium.com/p/f37a51729b0d) |
 | Thu, 11 Dec 2025 21:30:35 GMT | Authentication Bypass-TryHackMe Walkthrough. | Ahmed Mostafa | [Read More](https://medium.com/p/541e82f66a98) |
 | Thu, 11 Dec 2025 21:26:08 GMT | HTTP Fundamentals for Cybersecurity | Sviatoslav König | [Read More](https://medium.com/p/4ddaf13f2fe1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 16:01:30 GMT | SQL Injection: Definition, Examples, and How to Prevent It | bektiaw | [Read More](https://medium.com/p/b9b356eff25b) |
 | Thu, 11 Dec 2025 15:56:49 GMT | Retours sur Shai Hulud 2.0 | Jonathan Hervieux | [Read More](https://medium.com/p/fd4e17e800d9) |
 | Thu, 11 Dec 2025 15:56:06 GMT | Cloud Data Security Market: Safeguarding Digital Trust in a Hyper-Connected Era | Desouza Nancy | [Read More](https://medium.com/p/e7aa23c3dd4d) |
-| Thu, 11 Dec 2025 15:55:38 GMT | 5 Mins € 100 | Snooptsz | [Read More](https://medium.com/p/0f86caa17334) |
-| Thu, 11 Dec 2025 15:54:17 GMT | Cybersecurity Insight: Data Exfiltration via Legit Slack API — An Improved C PoC Analysis | ONESithuation | [Read More](https://medium.com/p/31584a9d947e) |
-| Thu, 11 Dec 2025 15:51:26 GMT | How Hackers Hack Your Android — Complete Breakdown & Protection Guide | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/590642f7b902) |
-| Thu, 11 Dec 2025 15:51:10 GMT | The Millisecond Heist: How Race Conditions Turn Timing into a Hacker’s Weapon | Ganesh Choudhary | [Read More](https://medium.com/p/d86613ff3d90) |
-| Thu, 11 Dec 2025 15:46:43 GMT | Will UNC5221 pop a fresh zero-day before Dec 31? Final Forecast! | Wes Young | [Read More](https://medium.com/p/0fa45f9ae75f) |
-| Thu, 11 Dec 2025 15:45:23 GMT | A Beginner’s Guide to Infosec (Written by an Actual Beginner) | Angela | [Read More](https://medium.com/p/0e238f22ed44) |
-| Thu, 11 Dec 2025 15:42:22 GMT | My Day 1 Corporate Journey – Induction Day 1 ✨ | Annie lovelace | [Read More](https://medium.com/p/1c59dc32bbf0) |
-| Thu, 11 Dec 2025 15:39:57 GMT | Hello Everyone ‍♀️ My First Post Here! | Shubhangi Agarwal | [Read More](https://medium.com/p/3f8664624d28) |
-| Thu, 11 Dec 2025 15:34:54 GMT | React2Shell: Tek HTTP Request ile Server’da Kod Çalıştırmak | Mehmet Aras | [Read More](https://medium.com/p/ed368bcaacad) |
-| Thu, 11 Dec 2025 15:32:42 GMT | Why Frontend AND Backend Validation Matter More Than Ever (2025 Deep Dive) | JIN | [Read More](https://medium.com/p/d8c8c58e0416) |
-| Thu, 11 Dec 2025 15:25:49 GMT | The Pony Express Problem: Why Change Data Capture Is Java’s Answer to Real-Time Sync | Jitin Kayyala | [Read More](https://medium.com/p/aa5c14c5c151) |
-| Thu, 11 Dec 2025 15:22:03 GMT | PwnTillDawn ElMariachiPC Writeup | Bazil Brohi | [Read More](https://medium.com/p/ae9cd6696e1d) |
-| Thu, 11 Dec 2025 15:12:28 GMT | The Secret Code Hidden in Every AI Image (And Why It Changes Everything) | Syedmohathashimali | [Read More](https://medium.com/p/4595b00324b8) |
