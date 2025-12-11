@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 01:43:06 GMT | “Unpacking the Layers of Authenticity” | The Lotus Review | [Read More](https://medium.com/p/4de2a21572a4) |
+| Thu, 11 Dec 2025 01:43:01 GMT | hating me is okay | miu | [Read More](https://medium.com/p/9ff86761ae8f) |
+| Thu, 11 Dec 2025 01:32:10 GMT | The Donna Fonda Thesis: Why the “Heroic” Era of Logistics is Over (And Why Boring Process Wins) | Heesham Naji | [Read More](https://medium.com/p/c76e7f3b5924) |
+| Thu, 11 Dec 2025 01:21:22 GMT | Securing Ecobee and HomeKit Devices: IoT VLAN Isolation with UniFi OS 4.4.9 | Lazro | [Read More](https://medium.com/p/9e2bc8437fb7) |
+| Thu, 11 Dec 2025 01:16:18 GMT | Part 2: Inside the Differences Between Microsoft Defender and CrowdStrike Falcon | Faysal Dhimbil | [Read More](https://medium.com/p/50474875342a) |
+| Thu, 11 Dec 2025 01:08:41 GMT | How to unblock Instagram on school computer without VPN: 5 easy ways | Millie Bobby | [Read More](https://medium.com/p/d0f2a66466ed) |
+| Thu, 11 Dec 2025 01:02:23 GMT | For our Master’s research project, I, Swarupa Jeedimetla, a cybersecurity student at Saint Louis… | Swarupa Jeedimetla | [Read More](https://medium.com/p/ecdf608f02c1) |
+| Thu, 11 Dec 2025 00:53:34 GMT | Part 1: Why AI Threat Detection Fails: A Deep Dive Into Adversarial Evasion | Faysal Dhimbil | [Read More](https://medium.com/p/a30438cd0493) |
+| Thu, 11 Dec 2025 00:50:52 GMT | The Future of Open Source: Innovation, Intelligence, and a New Era of Risk | Bolajiakerele | [Read More](https://medium.com/p/9ac16d6578bb) |
+| Thu, 11 Dec 2025 00:43:58 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Diciembre 2025 | Tiziano Mass | [Read More](https://medium.com/p/6967cc6c18df) |
+| Thu, 11 Dec 2025 00:38:42 GMT | IT vs OT: Understanding the Key Differences in Modern Industrial Environments | Muhammad Ali Khan | [Read More](https://medium.com/p/e7e089f332f0) |
+| Thu, 11 Dec 2025 00:23:01 GMT | Welcome to Mediocre Moments! | Koko Writes | [Read More](https://medium.com/p/f75aab29afaa) |
+| Wed, 10 Dec 2025 23:51:13 GMT | H@ck your home network & Secure Your Home Wi-Fi Network | Mert Baykal | [Read More](https://medium.com/p/ddc4813f7191) |
+| Wed, 10 Dec 2025 23:45:20 GMT | AI Browser Attacks — Chrome’s New Defenses Change Everything | Cyber-AppSec | [Read More](https://medium.com/p/edfd28bf23ab) |
+| Wed, 10 Dec 2025 23:34:27 GMT | ️ Why the MOOZ NFT Collection Chose Etherscan Message Signing for Holder Verification | Dimitrios Misios | [Read More](https://medium.com/p/79368abcec60) |
 | Wed, 10 Dec 2025 23:29:51 GMT | ### New GHDB-Inspired Dorks | Nochia | [Read More](https://medium.com/p/2c361e0ac05e) |
 | Wed, 10 Dec 2025 23:21:29 GMT | AltaySec Akademi: Türkiye’nin İlk Ücretsiz ve Türkçe Siber Güvenlik Eğitim Platformu — Öğrenci… | Mert Doğan | [Read More](https://medium.com/p/ce8b58903ece) |
+| Wed, 10 Dec 2025 23:16:54 GMT | Fraudsters Understand Your Onboarding Funnel. Do You? | Savvas Georgiou | [Read More](https://medium.com/p/55012ebcccac) |
 | Wed, 10 Dec 2025 23:16:30 GMT | Observability improves AI safety and reliability | Brian Gastwirth | [Read More](https://medium.com/p/f606fcf6d1b6) |
 | Wed, 10 Dec 2025 23:14:04 GMT | Passwords — A Cracking Christmas — Writeup(DAY 9 — Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/923433f6a87c) |
 | Wed, 10 Dec 2025 23:00:27 GMT | Cryptography basics- Tryhackme Room. | King | [Read More](https://medium.com/p/798468dd5bb7) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 16:44:57 GMT | Why Your Internet Speed Is Never the Same as What You Pay For — The Hidden Truth Behind Mbps | Hafizbilaltariq | [Read More](https://medium.com/p/d43d594124c0) |
 | Wed, 10 Dec 2025 16:43:17 GMT | Cybersecurity for Autonomous Vehicles: Securing Self-Driving Cars | Digital Defense | [Read More](https://medium.com/p/904a82d27070) |
 | Wed, 10 Dec 2025 16:40:06 GMT | Digital Diplomacy: How States Use Social Media | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/d92752a5d5a9) |
-| Wed, 10 Dec 2025 16:33:21 GMT | MÓDULO 0 — Fundamentos Matemáticos y Científicos para un Hacker | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/ff753933c70b) |
-| Wed, 10 Dec 2025 16:22:11 GMT | DevSecOps: Integrating Security at Every Stage of the SDLC | MosChip® | [Read More](https://medium.com/p/4ee2eff0af0b) |
-| Wed, 10 Dec 2025 16:21:47 GMT | AI-Driven Cyberattacks in 2025: The New Era of Digital Danger | Sam Writes Security | [Read More](https://medium.com/p/f4789eff84fe) |
-| Wed, 10 Dec 2025 16:21:19 GMT | PivotIntel Daily Intelligence Brief | Angela Fisher | [Read More](https://medium.com/p/b51e25a9fc69) |
-| Wed, 10 Dec 2025 16:20:58 GMT | eJPT Prep - Host & Network Penetration Testing: The Metasploit Framework CTF 2 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/46f23e0b21ae) |
-| Wed, 10 Dec 2025 16:15:29 GMT | Why windows says your license isn’t genuine, even when you paid for It | Vedad Borovac | [Read More](https://medium.com/p/fafebb737377) |
-| Wed, 10 Dec 2025 16:09:25 GMT | Secrets in Git, Tokens in Logs: The Silent Data Breaches Inside Your Codebase | Niyati Daftary | [Read More](https://medium.com/p/81615936044f) |
-| Wed, 10 Dec 2025 16:09:22 GMT | How I Found an Integer Overflow in ImageMagick Leading to Out-of-Bounds Read (CVE-2025–66628) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/c22e037b54d2) |
-| Wed, 10 Dec 2025 16:05:52 GMT | The Complete Guide to Man-in-the-Middle Attacks: From Theory to Practice | Ajmir khan | [Read More](https://medium.com/p/57e460a0d6c9) |
-| Wed, 10 Dec 2025 16:05:42 GMT | Firewalls Decoded: 5 Types, Where to Use Them, and Why Your Security Depends on It | Paradise technologies Inc | [Read More](https://medium.com/p/34f7c3cc83cd) |
-| Wed, 10 Dec 2025 16:03:48 GMT | When AI Discovers Vulnerabilities Faster Than We Can Patch: The Moment Cybersecurity Reaches Its… | Abatis ABTU | [Read More](https://medium.com/p/df552702bad7) |
-| Wed, 10 Dec 2025 16:02:35 GMT | What Is API Security and Why Should Everyday People Care? | Maryblessing | [Read More](https://medium.com/p/055535456082) |
-| Wed, 10 Dec 2025 16:02:34 GMT | Episode 14: “The Silence Between Packets” | Dr. House In I.T. | [Read More](https://medium.com/p/ce7e264aff55) |
-| Wed, 10 Dec 2025 16:00:40 GMT | Why Azure Key Vault is Essential for .NET Security | Lakshitha Madhuwantha | [Read More](https://medium.com/p/d129bf39c2e9) |
-| Wed, 10 Dec 2025 15:46:59 GMT | MBAs Seek Next Amazing New Technology To Ruin | NTTP | [Read More](https://medium.com/p/963fc34cab5d) |
-| Wed, 10 Dec 2025 15:44:22 GMT | There’s No Dropdown for This: Why We Needed a Different Approach to Search | Lucas Longacre | [Read More](https://medium.com/p/f923eb5fabbe) |
