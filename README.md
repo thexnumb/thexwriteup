@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 17:09:50 GMT | Linux Bash Shell Cheat Sheet Explained Like You’re New to the Terminal | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/01c798bed10c) |
+| Thu, 11 Dec 2025 17:07:50 GMT | IDOR: Başkasının Verisine Ulaşmanın En Kolay Yolu | Halil İbrahim Kuş | [Read More](https://medium.com/p/75dccafc9d98) |
+| Thu, 11 Dec 2025 17:03:46 GMT | Clean Code in C#: A Step-by-Step Guide to SonarQube & .NET | Lakshitha Madhuwantha | [Read More](https://medium.com/p/d345173f2ef2) |
+| Thu, 11 Dec 2025 17:02:13 GMT | Learning the Fundamentals of Cybersecurity — Part 2, The MITRE ATT&CK Framework | Michael H. | [Read More](https://medium.com/p/c6623bd6baf3) |
+| Thu, 11 Dec 2025 16:57:39 GMT | Digital Twins: The Silent New Powerhouse in Cybersecurity | Morteza saberikamarposhti | [Read More](https://medium.com/p/2b4cbb759f38) |
+| Thu, 11 Dec 2025 16:57:26 GMT | Simple Steganography: Hiding Text Messages Using Python Hex Encoding | Udita Kumari | [Read More](https://medium.com/p/0c17b89da928) |
+| Thu, 11 Dec 2025 16:54:24 GMT | Basics of Networking : TCP/IP Model | alizadasec | [Read More](https://medium.com/p/8563855a77db) |
+| Thu, 11 Dec 2025 16:52:21 GMT | I Passed the ISC2 Certified in Cybersecurity Exam with 1 month of Prep: Here’s My Strategy | Umar Al-Mahfuz | [Read More](https://medium.com/p/d88b34701b3e) |
+| Thu, 11 Dec 2025 16:50:42 GMT | How I Set Up a Legacy PHP HMS System on Windows: XAMPP, Ports, Errors, Breakdowns, Fixes, and… | Peter Ochieng | [Read More](https://medium.com/p/6038926f94c9) |
+| Thu, 11 Dec 2025 16:49:00 GMT | A Quick Look at 403 Bypass Techniques | Blueorionn | [Read More](https://medium.com/p/93cabe51e54b) |
+| Thu, 11 Dec 2025 16:47:28 GMT | The Cryptography Concept Journey — Merkle Tree | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9bbb57c72848) |
+| Thu, 11 Dec 2025 16:46:59 GMT | CVE‑2025‑67505: When Race Conditions Undermine Identity Infrastructure | gm0 | [Read More](https://medium.com/p/c47096302a1c) |
+| Thu, 11 Dec 2025 16:46:18 GMT | What is Robot.txt? (2 mins cybersecurity lesson) | Dayanidhi Meganathan | [Read More](https://medium.com/p/50a9c6b15476) |
+| Thu, 11 Dec 2025 16:41:18 GMT | Prompt Engineering for Stone-Age Brains | Kamal Talreja | [Read More](https://medium.com/p/0abb90594387) |
+| Thu, 11 Dec 2025 16:41:16 GMT | 53: porcelain heart | analienmind | [Read More](https://medium.com/p/c8298ca842fc) |
+| Thu, 11 Dec 2025 16:40:00 GMT | Even 404 links reveals PII.. | Anirudh kaila | [Read More](https://medium.com/p/4d68991babd7) |
+| Thu, 11 Dec 2025 16:37:53 GMT | Every Role Behind Cybersecurity | mohandika | [Read More](https://medium.com/p/c98e756ec5e9) |
+| Thu, 11 Dec 2025 16:37:47 GMT | Salvaje libertad en una nueva ciudad | Paola Cialato | [Read More](https://medium.com/p/604214ed2363) |
+| Thu, 11 Dec 2025 16:37:38 GMT | 5 Red Flags That Your Business May Already Be in a Hacker’s Crosshairs | Cordula Boeck | [Read More](https://medium.com/p/bd912e4b8e17) |
+| Thu, 11 Dec 2025 16:33:30 GMT | Practical ways to check if you are being tracked or monitored through your social media account | Juliet | [Read More](https://medium.com/p/89e8f1e81139) |
+| Thu, 11 Dec 2025 16:32:13 GMT | Netexec 101: Basic Usage & Installation | SpaceIO | [Read More](https://medium.com/p/6ee5a11d2a4a) |
 | Thu, 11 Dec 2025 16:23:34 GMT | Product Review: Salesforce Nonprofit Cloud (NPC) | Cait Graaf | [Read More](https://medium.com/p/f40b2cc8ae59) |
 | Thu, 11 Dec 2025 16:20:11 GMT | Protecting Your Digital Identity From Account Takeovers | Geoffrey Wenger | [Read More](https://medium.com/p/7d281136af82) |
 | Thu, 11 Dec 2025 16:18:38 GMT | Lab: Reflected XSS into attribute with angle brackets HTML-encoded | KRY | [Read More](https://medium.com/p/89f759a7632c) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 12:47:51 GMT | How Ledger eliminated multisig blind signing with the 1inch Swap API | 1inch | [Read More](https://medium.com/p/6fe689dfc0a7) |
 | Thu, 11 Dec 2025 12:38:57 GMT | The Invisible API Problem Costing Enterprises Millions — Here’s How ZeroThreat Finds It Fast | Kate Bennett | [Read More](https://medium.com/p/2ed34653d154) |
 | Thu, 11 Dec 2025 12:37:11 GMT | Top Cyber Security Services in Dubai for Businesses | TechCloud IT Services L.L.C. | [Read More](https://medium.com/p/30f835fe8056) |
-| Thu, 11 Dec 2025 12:32:09 GMT | Why Cyber Security Services in London Are Essential | Proxar IT Consulting | [Read More](https://medium.com/p/50601dda352f) |
-| Thu, 11 Dec 2025 12:31:15 GMT | A Beginner’s Complete Guide to the Blue Team in Cybersecurity. | Venuri Vonara Kumarasinghe | [Read More](https://medium.com/p/d569442c2a4a) |
-| Thu, 11 Dec 2025 12:26:44 GMT | Lock Any PDF with Python in 20 Lines | Dorian Sotpyrc | [Read More](https://medium.com/p/0098d49c826d) |
-| Thu, 11 Dec 2025 12:25:37 GMT | The Intermediate Guide to Insurance | Navita Arora | [Read More](https://medium.com/p/f360466bbc89) |
-| Thu, 11 Dec 2025 12:20:59 GMT | Portswigger Academy — SQL injection with filter bypass via XML encoding — Write-up | Alan | [Read More](https://medium.com/p/3094bc1bceef) |
-| Thu, 11 Dec 2025 12:18:22 GMT | THE DEVELOPMENT DISASTER: Over 10,000 Docker Images Found Leaking Live Credentials for AI and… | Akshatdwivedi | [Read More](https://medium.com/p/0264a37c4cd7) |
-| Thu, 11 Dec 2025 12:18:09 GMT | The Psychology and Techniques Behind Cyber Stalking | Himanshu Bhatt | [Read More](https://medium.com/p/83d9505f573a) |
-| Thu, 11 Dec 2025 12:14:40 GMT | Nigbati Igbagbọ Di Owó Gidi | FONIE | [Read More](https://medium.com/p/4aade72d4981) |
-| Thu, 11 Dec 2025 12:09:18 GMT | Top cybersecurity companies in Bangalore | StrongBox IT | [Read More](https://medium.com/p/a3c776b31233) |
-| Thu, 11 Dec 2025 12:02:39 GMT | The Future of Crypto Safety: What Bitunix’s Fireblocks & Elliptic Upgrade Means for Everyday Users | FONIE | [Read More](https://medium.com/p/3369a9bafab3) |
-| Thu, 11 Dec 2025 12:02:22 GMT | When Customer Service Stops Being Human | Angus Peterson | [Read More](https://medium.com/p/28998dd84476) |
-| Thu, 11 Dec 2025 12:01:51 GMT | The Anatomy of Digital Trust: Why “Audited” Isn’t Enough in Web3 Security | Gideon Cohen | [Read More](https://medium.com/p/0018d6c5239a) |
-| Thu, 11 Dec 2025 12:01:22 GMT | Day 11 — Authenticity of AI-Generated Content (The Cowgirl) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/95ebc41f72ab) |
-| Thu, 11 Dec 2025 11:50:33 GMT | When Crypto Leaders Get Hacked: What CZ’s Warning Really Tells Us About Security | Johnson William | [Read More](https://medium.com/p/683f9aa87e7c) |
-| Thu, 11 Dec 2025 11:47:59 GMT | Stop Speed-Running PortSwigger Labs: The 7-Phase Methodology That Actually Makes You a Better… | abdelkarime_alhannachi | [Read More](https://medium.com/p/42972cf46e0f) |
-| Thu, 11 Dec 2025 11:44:39 GMT | Bug Bounty Full Course in Hindi: Complete Guide for Beginners | Crawsec | [Read More](https://medium.com/p/3ced3060d19e) |
-| Thu, 11 Dec 2025 11:36:32 GMT | Securing Splunk Enterprise with Let’s Encrypt SSL Certificates | SDNTechForum | [Read More](https://medium.com/p/11ff11e80dc5) |
-| Thu, 11 Dec 2025 11:32:31 GMT | One Click, Total Security — Experience the Power of Free Antivirus | Siyanoav | [Read More](https://medium.com/p/2596c99c3a4c) |
-| Thu, 11 Dec 2025 11:28:11 GMT | Fireblocks + Elliptic на Bitunix: Institutional-Grade Безопасность для Всех. | Zava | [Read More](https://medium.com/p/f5f9c04f98a5) |
-| Thu, 11 Dec 2025 11:15:53 GMT | All-Dimension Crypto Exchange Selection Guide: From No-KYC and Privacy Protection to Security and… | SuperEx | [Read More](https://medium.com/p/d7d9ed683571) |
-| Thu, 11 Dec 2025 11:14:15 GMT | AI Sigma Rules: Scale Threat Detection, Drive Down MTTR | ANY.RUN | [Read More](https://medium.com/p/f1ac816fcb93) |
