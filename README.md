@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 05:13:45 GMT | Bug Bounty Journey: From Discovery to $800 Reward | Milan Gautam | [Read More](https://medium.com/p/fa280a7d1205) |
+| Thu, 11 Dec 2025 05:12:27 GMT | Top Free AI Security Tools Every Cybersecurity Enthusiast Should Know in 2025 | pavani | [Read More](https://medium.com/p/73ca084810c3) |
+| Thu, 11 Dec 2025 05:07:40 GMT | The Network Layer — Network Series 2 | Mr.Cool | [Read More](https://medium.com/p/aab9ce5a9903) |
+| Thu, 11 Dec 2025 04:59:37 GMT | How to Choose the Right Security Screens for Maximum Protection | Gold Coast Security Screens | [Read More](https://medium.com/p/181b0f0cbd52) |
 | Thu, 11 Dec 2025 04:32:39 GMT | Red-Teaming Your Agent: Prompts That Find the Cracks | Hash Block | [Read More](https://medium.com/p/cf6c81dad318) |
 | Thu, 11 Dec 2025 04:32:05 GMT | The Coming Digital Dark Age | Victor Babaniyi | [Read More](https://medium.com/p/adb058cf8051) |
 | Thu, 11 Dec 2025 04:29:51 GMT | ประจำวันพฤหัสบดีที่ 11 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/633255b5d728) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 18:12:12 GMT | Beyond Security: Integrating ISO 27001, GDPR, and SOC 2 for Holistic Trust | C.N. Husnul Izzati | [Read More](https://medium.com/p/34e9289b59d1) |
 | Wed, 10 Dec 2025 18:11:27 GMT | Beyond DP: Building Privacy Aware AI Pipelines for the Enterprise | Nishi Kaura | [Read More](https://medium.com/p/eb45fff4f068) |
 | Wed, 10 Dec 2025 18:08:30 GMT | Understanding the AI Shared Responsibility Model: A Comprehensive Framework for Security and Risk… | Juan Pablo Castro | [Read More](https://medium.com/p/9f5c11ea76e3) |
-| Wed, 10 Dec 2025 18:07:22 GMT | #xss0r Community — December Gift! | xss0r | [Read More](https://medium.com/p/cfebcf2c9c2f) |
-| Wed, 10 Dec 2025 18:05:04 GMT | The need for a Thinking, Private Brain & The Death of Dumb Drones | Berend Watchus | [Read More](https://medium.com/p/05a568532c50) |
-| Wed, 10 Dec 2025 18:01:13 GMT | CRITICAL ALERT: Patch Your Next.js App NOW to Stop the ‘React2Shell’ RCE Flaw | Dev Rahul | [Read More](https://medium.com/p/604e86e59487) |
-| Wed, 10 Dec 2025 17:58:23 GMT | Bitunix na-ebuli Ogo Nchekwa na Nkwado Iwu ya elu site na Fireblocks na Elliptic KYT | Mr Alex Yung® | [Read More](https://medium.com/p/3fb94175c55f) |
