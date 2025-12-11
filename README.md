@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 20:57:18 GMT | Strengthening My Networking Fundamentals — Completing TryHackMe’s “DNS in Detail” Certification | Secured By Sebastion | [Read More](https://medium.com/p/7b7c2c57377c) |
+| Thu, 11 Dec 2025 20:47:12 GMT | TryHackMe Writeup: Startup | Berkay AĞGÜL | [Read More](https://medium.com/p/7fb4556d9e79) |
 | Thu, 11 Dec 2025 20:26:30 GMT | Kuantum Bilgisayarlar ve Siber Güvenlik | Nupelda Kandemir | [Read More](https://medium.com/p/75f87ae31f5f) |
 | Thu, 11 Dec 2025 20:25:29 GMT | Understanding China’s Smart City Initiatives in Africa and Their Global Impact | Jared Douville | [Read More](https://medium.com/p/fec95e375926) |
 | Thu, 11 Dec 2025 20:19:44 GMT | 15 Common Cyber Attacks Explained Simply (So You’re Not Caught Off Guard) | Paradise technologies Inc | [Read More](https://medium.com/p/ef3802aca229) |
@@ -29,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 19:06:08 GMT | Only JWT? Here’s How Hackers Still Bypass Your Authorization | karincayiyen | [Read More](https://medium.com/p/ee3a0b86b50f) |
 | Thu, 11 Dec 2025 19:03:09 GMT | This table is an educational analysis created to help understand what each field inside the… | Tahatan | [Read More](https://medium.com/p/0f0ad6118c95) |
 | Thu, 11 Dec 2025 19:02:36 GMT | Cybersecurity Service Essentials for San Diego Businesses: Finding a Trusted Cybersecurity Service… | Xonicwave IT Support | [Read More](https://medium.com/p/67f0e4e5e598) |
+| Thu, 11 Dec 2025 18:57:27 GMT | Flash Loan Attack Uncovered: PancakeSwap LP Exploit and the DMi/Moolah Drain Explained | Evgenii | [Read More](https://medium.com/p/bb487f66f26e) |
 | Thu, 11 Dec 2025 18:53:34 GMT | Stop Using Free Wi-Fi: This Is How Attackers Steal Your Passwords in Seconds | Satyam Pathania | [Read More](https://medium.com/p/2a5a0b885608) |
 | Thu, 11 Dec 2025 18:52:50 GMT | Advent of Cyber 2025 Day 11 - TryHackMe - XSS - Merry XSSMas - WriteUp | Axoloth | [Read More](https://medium.com/p/125de1017c48) |
 | Thu, 11 Dec 2025 18:44:03 GMT | ArcherX brings AI Powered Cybersecurity to the Global Industry. | InfoSec Global Trends | [Read More](https://medium.com/p/2863ba6c4890) |
@@ -46,12 +49,14 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 18:01:47 GMT | OSINT Under the Hood: OPSEC for the OSINT Researcher | Rabail Zaheer | [Read More](https://medium.com/p/2fbc4988e2ff) |
 | Thu, 11 Dec 2025 17:57:09 GMT | Endpoint Protection 2.0: Beyond Antivirus for Modern Threats | Technijian | [Read More](https://medium.com/p/c4fe9295ab6c) |
 | Thu, 11 Dec 2025 17:57:06 GMT | Enhance Bulk Account Creation with PVACreator's Automation Suite | GeekSwares | [Read More](https://medium.com/p/a99ab8f69239) |
+| Thu, 11 Dec 2025 17:56:43 GMT | This One Screenshot Could Expose Your Entire Digital Life | Payal Lathi | [Read More](https://medium.com/p/2641ad5d1cb1) |
 | Thu, 11 Dec 2025 17:54:49 GMT | The Truth Is.. | Tika Terrell | [Read More](https://medium.com/p/ac7248c11909) |
 | Thu, 11 Dec 2025 17:54:45 GMT | Securing AI Workloads in Kubernetes: Why Traditional Network Security Isn’t Enough | Tigera | [Read More](https://medium.com/p/f91fe77495b4) |
 | Thu, 11 Dec 2025 17:52:41 GMT | TryHackMe: Advent of Cyber 2025 — Day 11 Walkthrough | Inyanji Lynnette | [Read More](https://medium.com/p/05613b62e484) |
 | Thu, 11 Dec 2025 17:42:32 GMT | When HTML5 Videos Refuse to Play: Debugging the “Video File Not Found” Error on Ubuntu — 1/3 | Anzalo Quin | [Read More](https://medium.com/p/3ee8b035a03d) |
 | Thu, 11 Dec 2025 17:41:24 GMT | SIEM Explained Simply: A Beginner’s Guide to Security Monitoring & Threat Detection | Natarajan C K | [Read More](https://medium.com/p/3ec781a0322f) |
 | Thu, 11 Dec 2025 17:38:56 GMT | Your Fancy Cybersecurity Budget Is Wasted Money. Here’s What Actually Matters. | Hania Khan | [Read More](https://medium.com/p/477437829fc7) |
+| Thu, 11 Dec 2025 17:36:39 GMT | ️ Digital Archaeology: How to Unearth Hidden Technical Manuals with Google Dorks | Anzalo Quin | [Read More](https://medium.com/p/e10cecaf0078) |
 | Thu, 11 Dec 2025 17:31:34 GMT | HTB CTF Write-Up: Meow | Paulo Melo | [Read More](https://medium.com/p/b49f08afe390) |
 | Thu, 11 Dec 2025 17:29:50 GMT | Cybercriminals Exploit Google Ads to Spread macOS Malware Through Fake AI Conversations | Technijian | [Read More](https://medium.com/p/bd35a90889ab) |
 | Thu, 11 Dec 2025 17:19:59 GMT | Inside the React RSC Flaw Now Powering Cloud Shell Takeovers and Secret Theft | Chetan Seripally | [Read More](https://medium.com/p/cfb39cf45fdf) |
@@ -94,6 +99,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 15:55:38 GMT | 5 Mins € 100 | Snooptsz | [Read More](https://medium.com/p/0f86caa17334) |
 | Thu, 11 Dec 2025 15:54:17 GMT | Cybersecurity Insight: Data Exfiltration via Legit Slack API — An Improved C PoC Analysis | ONESithuation | [Read More](https://medium.com/p/31584a9d947e) |
 | Thu, 11 Dec 2025 15:51:26 GMT | How Hackers Hack Your Android — Complete Breakdown & Protection Guide | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/590642f7b902) |
+| Thu, 11 Dec 2025 15:51:10 GMT | The Millisecond Heist: How Race Conditions Turn Timing into a Hacker’s Weapon | Ganesh Choudhary | [Read More](https://medium.com/p/d86613ff3d90) |
 | Thu, 11 Dec 2025 15:46:43 GMT | Will UNC5221 pop a fresh zero-day before Dec 31? Final Forecast! | Wes Young | [Read More](https://medium.com/p/0fa45f9ae75f) |
 | Thu, 11 Dec 2025 15:45:23 GMT | A Beginner’s Guide to Infosec (Written by an Actual Beginner) | Angela | [Read More](https://medium.com/p/0e238f22ed44) |
 | Thu, 11 Dec 2025 15:42:22 GMT | My Day 1 Corporate Journey – Induction Day 1 ✨ | Annie lovelace | [Read More](https://medium.com/p/1c59dc32bbf0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 15:11:20 GMT | Emotional AI & Cybersecurity: Can AI Read Human Intent? | Digital Defense | [Read More](https://medium.com/p/9316e3ba18e6) |
 | Thu, 11 Dec 2025 15:11:06 GMT | VulnNet: Internal - TryHackMe | Prajwal81 | [Read More](https://medium.com/p/1f2a9c9473b0) |
 | Thu, 11 Dec 2025 15:09:24 GMT | DAY 1–2: NETWORK 101 — Your Networking Foundation | Seray Akman | [Read More](https://medium.com/p/417535cf7a73) |
-| Thu, 11 Dec 2025 15:04:44 GMT | SAML vs OIDC — Understanding the Future of Enterprise Authentication | Chaos To Clarity | [Read More](https://medium.com/p/427f7e8f37d4) |
-| Thu, 11 Dec 2025 15:04:08 GMT | Understanding Darkweb Market Exit Scams — Key Warning Signs | Tor BBB | [Read More](https://medium.com/p/c9a2b4615835) |
-| Thu, 11 Dec 2025 15:02:13 GMT | Beyond the Big Three: DevOps, Security, Networking & Hybrid Innovations | Alaa Nassef | [Read More](https://medium.com/p/6f3e38c09096) |
-| Thu, 11 Dec 2025 15:02:13 GMT | Cyber Briefing: 2025.12.11 | CyberMaterial | [Read More](https://medium.com/p/446cfbf55d60) |
-| Thu, 11 Dec 2025 15:01:26 GMT | Web3 Has Three Pillars. One of Them Is Still Missing. | Abatis ABTU | [Read More](https://medium.com/p/2f9605f64ce7) |
-| Thu, 11 Dec 2025 14:57:27 GMT | ️ NET: Firewalls — Stateless vs Stateful | Jothiprakash | [Read More](https://medium.com/p/57e4d459ec89) |
