@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 03:18:38 GMT | Understanding Digital Consequences: Indonesian Cyber Law | Diva Rizky Alfitrah | [Read More](https://medium.com/p/bad02611bcfd) |
+| Thu, 11 Dec 2025 03:07:19 GMT | Google’s New Antigravity AI Coding Tool Erroneously Wiped Out A User’s Hard Drive | Jim Clyde Monge | [Read More](https://medium.com/p/b59631bae8b7) |
+| Thu, 11 Dec 2025 03:03:08 GMT | AI Agents Aren’t Productivity Hacks. They’re Shadow IT With Root Access | MohamedAbdelmenem | [Read More](https://medium.com/p/889a896d73ff) |
+| Thu, 11 Dec 2025 02:54:06 GMT | SOC Alert Triaging — Tinsel Triage | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/716683119f8a) |
+| Thu, 11 Dec 2025 02:45:54 GMT | Slowed & Reverb Studio Online — Best Tool to Create Aesthetic Slowed + Reverb Tracks Free | Muhammad Rizwan | [Read More](https://medium.com/p/f739dac14c71) |
+| Thu, 11 Dec 2025 02:40:27 GMT | How to Quantify Cyber Risk When You ONLY Have Two Numbers | Mehdi | [Read More](https://medium.com/p/904c3f16288e) |
+| Thu, 11 Dec 2025 02:31:45 GMT | Kling Video 2.6: A Complete Breakdown of the New Audio-Visual AI Video Model | Ccarol | [Read More](https://medium.com/p/1dac35e8f8e5) |
+| Thu, 11 Dec 2025 02:00:55 GMT | TryHackMe: Hammer Writeup | cbev | [Read More](https://medium.com/p/06f783b92689) |
 | Thu, 11 Dec 2025 01:43:06 GMT | “Unpacking the Layers of Authenticity” | The Lotus Review | [Read More](https://medium.com/p/4de2a21572a4) |
 | Thu, 11 Dec 2025 01:43:01 GMT | hating me is okay | miu | [Read More](https://medium.com/p/9ff86761ae8f) |
 | Thu, 11 Dec 2025 01:32:10 GMT | The Donna Fonda Thesis: Why the “Heroic” Era of Logistics is Over (And Why Boring Process Wins) | Heesham Naji | [Read More](https://medium.com/p/c76e7f3b5924) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 17:08:30 GMT | Getting Started With bWAPP on Kali Linux Using Docker | Sithum Ranasinghe | [Read More](https://medium.com/p/47e9c3c470b6) |
 | Wed, 10 Dec 2025 17:07:42 GMT | Writing an Incident Response Plan — A Comprehensive Guide | Aditya Nehra | [Read More](https://medium.com/p/bfd270291c01) |
 | Wed, 10 Dec 2025 17:06:55 GMT | How to Improve Lobby Security Without Compromising Visitor Experience | Joven A Rodrigues | [Read More](https://medium.com/p/eb130d5e5312) |
-| Wed, 10 Dec 2025 16:56:50 GMT | How to Reduce Your Digital Footprints? | Abhay Parashar | [Read More](https://medium.com/p/600556fc1e3d) |
-| Wed, 10 Dec 2025 16:56:37 GMT | What Is SysReptor? A Complete Guide for Modern Pentesters | Hades | [Read More](https://medium.com/p/9d3df209ecc5) |
-| Wed, 10 Dec 2025 16:55:25 GMT | React2Shell (CVE-2025–55182): Why Your “Frontend” Library Just Gave Root Access to Your Backend | Ayush Bulbule | [Read More](https://medium.com/p/d6ef2087b3fa) |
-| Wed, 10 Dec 2025 16:53:55 GMT | The 5 Critical Cybersecurity Threats in 2025 | Karl Buhl | [Read More](https://medium.com/p/d3a9ec1c00bf) |
-| Wed, 10 Dec 2025 16:45:03 GMT | Your Firewall Is Fine; Your Outbound Traffic Is Not: Hidden Exfiltration Paths Hospitals Never… | Travis Ray Caverhill | [Read More](https://medium.com/p/8aa91e80c840) |
-| Wed, 10 Dec 2025 16:44:57 GMT | Why Your Internet Speed Is Never the Same as What You Pay For — The Hidden Truth Behind Mbps | Hafizbilaltariq | [Read More](https://medium.com/p/d43d594124c0) |
-| Wed, 10 Dec 2025 16:43:17 GMT | Cybersecurity for Autonomous Vehicles: Securing Self-Driving Cars | Digital Defense | [Read More](https://medium.com/p/904a82d27070) |
-| Wed, 10 Dec 2025 16:40:06 GMT | Digital Diplomacy: How States Use Social Media | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/d92752a5d5a9) |
