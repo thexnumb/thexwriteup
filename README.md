@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 16:23:34 GMT | Product Review: Salesforce Nonprofit Cloud (NPC) | Cait Graaf | [Read More](https://medium.com/p/f40b2cc8ae59) |
+| Thu, 11 Dec 2025 16:20:11 GMT | Protecting Your Digital Identity From Account Takeovers | Geoffrey Wenger | [Read More](https://medium.com/p/7d281136af82) |
+| Thu, 11 Dec 2025 16:18:38 GMT | Lab: Reflected XSS into attribute with angle brackets HTML-encoded | KRY | [Read More](https://medium.com/p/89f759a7632c) |
+| Thu, 11 Dec 2025 16:17:38 GMT | CVE‑2025‑67635: When Jenkins’ HTTP CLI Becomes a DoS Weapon | gm0 | [Read More](https://medium.com/p/3b64a961b14d) |
+| Thu, 11 Dec 2025 16:15:36 GMT | AI and Hacking: How Artificial Intelligence Is Transforming Cybersecurity | Bomi | [Read More](https://medium.com/p/a50489888e62) |
+| Thu, 11 Dec 2025 16:12:29 GMT | Understanding DLL Hijacking Risks In Modern Windows Systems | Geoffrey Wenger | [Read More](https://medium.com/p/3d78833ec80c) |
+| Thu, 11 Dec 2025 16:11:52 GMT | Should Both Garage Door Sensors Be Green: A Troubleshooting Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/1fda078e5827) |
+| Thu, 11 Dec 2025 16:11:21 GMT | As I prepare for the AWS Certified Security Specialty SCS-C03 exam, set for March 15, I am… | Gregory Raphael Jr. | [Read More](https://medium.com/p/164aa4abd003) |
+| Thu, 11 Dec 2025 16:08:33 GMT | How I Found 3 Logic Bugs by Thinking Like a Developer | Mohamed Abdelmoatie | [Read More](https://medium.com/p/5a561f6cf76f) |
+| Thu, 11 Dec 2025 16:03:26 GMT | Securing your server for newbies like me! | Furkancan Okal | [Read More](https://medium.com/p/db1df199d6cf) |
+| Thu, 11 Dec 2025 16:02:52 GMT | Study: 90% of Code Written via “Vibe Coding” Contains Security Vulnerabilities | Digital Minds | [Read More](https://medium.com/p/906e8bc27fca) |
+| Thu, 11 Dec 2025 16:01:30 GMT | SQL Injection: Definition, Examples, and How to Prevent It | bektiaw | [Read More](https://medium.com/p/b9b356eff25b) |
+| Thu, 11 Dec 2025 15:56:49 GMT | Retours sur Shai Hulud 2.0 | Jonathan Hervieux | [Read More](https://medium.com/p/fd4e17e800d9) |
+| Thu, 11 Dec 2025 15:56:06 GMT | Cloud Data Security Market: Safeguarding Digital Trust in a Hyper-Connected Era | Desouza Nancy | [Read More](https://medium.com/p/e7aa23c3dd4d) |
+| Thu, 11 Dec 2025 15:55:38 GMT | 5 Mins € 100 | Snooptsz | [Read More](https://medium.com/p/0f86caa17334) |
+| Thu, 11 Dec 2025 15:54:17 GMT | Cybersecurity Insight: Data Exfiltration via Legit Slack API — An Improved C PoC Analysis | ONESithuation | [Read More](https://medium.com/p/31584a9d947e) |
+| Thu, 11 Dec 2025 15:51:26 GMT | How Hackers Hack Your Android — Complete Breakdown & Protection Guide | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/590642f7b902) |
 | Thu, 11 Dec 2025 15:46:43 GMT | Will UNC5221 pop a fresh zero-day before Dec 31? Final Forecast! | Wes Young | [Read More](https://medium.com/p/0fa45f9ae75f) |
 | Thu, 11 Dec 2025 15:45:23 GMT | A Beginner’s Guide to Infosec (Written by an Actual Beginner) | Angela | [Read More](https://medium.com/p/0e238f22ed44) |
 | Thu, 11 Dec 2025 15:42:22 GMT | My Day 1 Corporate Journey – Induction Day 1 ✨ | Annie lovelace | [Read More](https://medium.com/p/1c59dc32bbf0) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 11:28:11 GMT | Fireblocks + Elliptic на Bitunix: Institutional-Grade Безопасность для Всех. | Zava | [Read More](https://medium.com/p/f5f9c04f98a5) |
 | Thu, 11 Dec 2025 11:15:53 GMT | All-Dimension Crypto Exchange Selection Guide: From No-KYC and Privacy Protection to Security and… | SuperEx | [Read More](https://medium.com/p/d7d9ed683571) |
 | Thu, 11 Dec 2025 11:14:15 GMT | AI Sigma Rules: Scale Threat Detection, Drive Down MTTR | ANY.RUN | [Read More](https://medium.com/p/f1ac816fcb93) |
-| Thu, 11 Dec 2025 11:12:34 GMT | The AI Security Dilemma: What Should States Fear Most? | Mathilde Beaulat | [Read More](https://medium.com/p/bc0c2691311e) |
-| Thu, 11 Dec 2025 11:09:50 GMT | Beware of Digital Arrest Scams: A Beginner’s Guide to Staying Safe Online | CCOE | [Read More](https://medium.com/p/2e7c3a74f0c2) |
-| Thu, 11 Dec 2025 11:05:56 GMT | Top 10 des Meilleures Applications pour Protéger vos Données Personnelles en 2025 | Astuce Digitale | [Read More](https://medium.com/p/21a731dcc81e) |
-| Thu, 11 Dec 2025 10:55:43 GMT | Top BCA Colleges in Bangalore: Accreditation & Career Scope | Success Study Tips | [Read More](https://medium.com/p/478b2741659c) |
-| Thu, 11 Dec 2025 10:55:36 GMT | Mastering Packet Crafting with Scapy: A Beginner-Friendly Deep Dive | Edwin Atali | [Read More](https://medium.com/p/92409ac0a822) |
-| Thu, 11 Dec 2025 10:52:39 GMT | Surge in Outsourced SOC Demand: Why SOC-as-a-Service (SOCaaS) Is Growing Faster Than Ever | Eventus Security Private Limited | [Read More](https://medium.com/p/950471517005) |
-| Thu, 11 Dec 2025 10:42:29 GMT | How to Upgrade Old Security Systems in a Toronto Office | Square Security Inc. | [Read More](https://medium.com/p/48da359297a6) |
-| Thu, 11 Dec 2025 10:41:06 GMT | The Role of Forensics in Incident Response: Why It Matters More Than Ever | Reghu Mohandas | [Read More](https://medium.com/p/761b3b1cef3d) |
-| Thu, 11 Dec 2025 10:37:34 GMT | 43 robots for every employee: why your security team is fighting yesterday’s war | Effedielle | [Read More](https://medium.com/p/fa858c5255e2) |
-| Thu, 11 Dec 2025 10:29:15 GMT | Goodbye Mimikatz? How Credential Guard, VBS & UEFI Lock Changed LSASS Attacks Forever | Yua Mikanana | [Read More](https://medium.com/p/d3c0bc828769) |
-| Thu, 11 Dec 2025 10:23:46 GMT | Security Lab Simulation Project Part 9: Wazuh Agents Installation | Jenny | [Read More](https://medium.com/p/8e6d8ecedaed) |
-| Thu, 11 Dec 2025 10:16:29 GMT | How Secure Is Microsoft 365 Email? A Full Breakdown of Its Protection Features | EINITIAL24 | [Read More](https://medium.com/p/8d92a356670d) |
-| Thu, 11 Dec 2025 10:10:47 GMT | India: ¿control tecnológico o transparencia digital? | Vicente Nogales Zamarriego #Mobility #Payments | [Read More](https://medium.com/p/6853e5e2ff7f) |
-| Thu, 11 Dec 2025 10:07:47 GMT | 60-Minute Proven Threat Modeling Workshop Template | Pentest_Testing_Corp | [Read More](https://medium.com/p/3abee1e0df2f) |
-| Thu, 11 Dec 2025 10:02:28 GMT | Do I really need a WordPress security plugin if my hosting offers security? | Calin V. | [Read More](https://medium.com/p/49a680eb975b) |
-| Thu, 11 Dec 2025 10:01:08 GMT | The Day Crypto Exchange Security Quietly Entered a New Era | Daisypto | [Read More](https://medium.com/p/efbc0654bd91) |
-| Thu, 11 Dec 2025 09:57:42 GMT | Building An Agentic System for Bug Bounty Duplicate Detection | Adrihp06 | [Read More](https://medium.com/p/e476911c859b) |
