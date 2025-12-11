@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 18:29:53 GMT | AI Hackers Outperform Humans: Stanford Bots Breach Networks Alone | Coby Mendoza | [Read More](https://medium.com/p/22bb7099afec) |
+| Thu, 11 Dec 2025 18:20:03 GMT | The Future of Security: Next-Generation Security Systems Shaping the Digital Age | Ugochukwu Bernard Anyaogu-Ben | [Read More](https://medium.com/p/fbe2b5657ede) |
+| Thu, 11 Dec 2025 18:15:23 GMT | Advent of Cyber 2025 - Day 11: XSS - Merry XSSMas | Akshat Patel | [Read More](https://medium.com/p/4329d6b880e3) |
+| Thu, 11 Dec 2025 18:05:48 GMT | Azure Recon to Foothold and Profit : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/3b1fd9fc5059) |
+| Thu, 11 Dec 2025 18:05:38 GMT | XSS — Merry XSSMas -Try Hack ME Walkthrough | Fazal | [Read More](https://medium.com/p/e2c6ad72c2fc) |
+| Thu, 11 Dec 2025 18:02:13 GMT | HackTheBox Fawn: FTP Fundamentals | SoBatista | [Read More](https://medium.com/p/4c1ce391c387) |
+| Thu, 11 Dec 2025 18:01:47 GMT | OSINT Under the Hood: OPSEC for the OSINT Researcher | Rabail Zaheer | [Read More](https://medium.com/p/2fbc4988e2ff) |
+| Thu, 11 Dec 2025 17:57:09 GMT | Endpoint Protection 2.0: Beyond Antivirus for Modern Threats | Technijian | [Read More](https://medium.com/p/c4fe9295ab6c) |
+| Thu, 11 Dec 2025 17:57:06 GMT | Enhance Bulk Account Creation with PVACreator's Automation Suite | GeekSwares | [Read More](https://medium.com/p/a99ab8f69239) |
+| Thu, 11 Dec 2025 17:54:49 GMT | The Truth Is.. | Tika Terrell | [Read More](https://medium.com/p/ac7248c11909) |
+| Thu, 11 Dec 2025 17:54:45 GMT | Securing AI Workloads in Kubernetes: Why Traditional Network Security Isn’t Enough | Tigera | [Read More](https://medium.com/p/f91fe77495b4) |
+| Thu, 11 Dec 2025 17:52:41 GMT | TryHackMe: Advent of Cyber 2025 — Day 11 Walkthrough | Inyanji Lynnette | [Read More](https://medium.com/p/05613b62e484) |
 | Thu, 11 Dec 2025 17:42:32 GMT | When HTML5 Videos Refuse to Play: Debugging the “Video File Not Found” Error on Ubuntu — 1/3 | Anzalo Quin | [Read More](https://medium.com/p/3ee8b035a03d) |
 | Thu, 11 Dec 2025 17:41:24 GMT | SIEM Explained Simply: A Beginner’s Guide to Security Monitoring & Threat Detection | Natarajan C K | [Read More](https://medium.com/p/3ec781a0322f) |
 | Thu, 11 Dec 2025 17:38:56 GMT | Your Fancy Cybersecurity Budget Is Wasted Money. Here’s What Actually Matters. | Hania Khan | [Read More](https://medium.com/p/477437829fc7) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 14:02:22 GMT | Authorization in the Age of AI Agents: Beyond All-or-Nothing Access Control | Nwosu Rosemary | [Read More](https://medium.com/p/747d58adb8c1) |
 | Thu, 11 Dec 2025 13:53:52 GMT | How AI Is Quietly Becoming Your New Everyday Life Hack (and Why It’s Not as Scary as It Sounds) | Tech-Explorer | [Read More](https://medium.com/p/de514f8b0469) |
 | Thu, 11 Dec 2025 13:45:40 GMT | Why I Quit a “Perfect” Career to Bet on the Unscalable Economy in 2026 | SocialScreen | [Read More](https://medium.com/p/42a8c65a9a03) |
-| Thu, 11 Dec 2025 13:38:42 GMT | How I Turned a 403 Forbidden Into a 200 OK | Arya m Pillai | [Read More](https://medium.com/p/0149ca3e0db6) |
-| Thu, 11 Dec 2025 13:32:11 GMT | Linux Threat Detection 1 Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/40658126b632) |
-| Thu, 11 Dec 2025 13:32:11 GMT | Linux Security Habit #5 — The One Log File That Reveals an Intruder Before Any Tool Does | Faruk Ahmed | [Read More](https://medium.com/p/551099468730) |
-| Thu, 11 Dec 2025 13:32:10 GMT | Why the Next 5 Years Will Be the Golden Era of Cybersecurity Careers? | Sanjaykumar P | [Read More](https://medium.com/p/6089d5f6b6eb) |
-| Thu, 11 Dec 2025 13:29:40 GMT | Three Days, One Reverse Proxy, and a Whole Lot of Troubleshooting: | Jesse Ridley | [Read More](https://medium.com/p/f14fdf691fd8) |
-| Thu, 11 Dec 2025 13:29:14 GMT | Return - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/a6d31b525183) |
-| Thu, 11 Dec 2025 13:12:34 GMT | Shocking Truths About Microservice Security and Solution | Viral Parmar | [Read More](https://medium.com/p/c4aff9c3d9c7) |
-| Thu, 11 Dec 2025 13:08:16 GMT | Siber Vatan Yolculuğu -1 | g.o. | [Read More](https://medium.com/p/c0e27d46ca12) |
-| Thu, 11 Dec 2025 13:03:10 GMT | When an Image Endpoint Opened the Entire Server: My Discovery of a Critical Path Traversal… | Anshubind | [Read More](https://medium.com/p/28a2e9184f32) |
-| Thu, 11 Dec 2025 13:02:31 GMT | The Hidden Translation Key: How a Simple Blog Page Revealed a Serious Security Flaw | Anshubind | [Read More](https://medium.com/p/381df9311402) |
-| Thu, 11 Dec 2025 12:59:16 GMT | Act Now: MCP Is the AI Threat No One Is Ready For | Rabia AMAAOUCH | [Read More](https://medium.com/p/97f05ce85fdc) |
-| Thu, 11 Dec 2025 12:56:57 GMT | Why You Should Check for WebRTC Leaks Before Browsing Securely | Anna Kolodkina | [Read More](https://medium.com/p/d46c5b337b0e) |
