@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 06:29:19 GMT | Are DLP Tools Really Protecting Your Sensitive Data? | keyTrackr | [Read More](https://medium.com/p/340a7573ba24) |
+| Thu, 11 Dec 2025 06:23:03 GMT | How I passed eJPT v2 in 20 days (2025) | Rahul | [Read More](https://medium.com/p/f43b5db236b6) |
+| Thu, 11 Dec 2025 06:19:38 GMT | GRC Compliance Services That Strengthen Your Cybersecurity: The Ultimate Guide for Modern… | Sentry Cyber | [Read More](https://medium.com/p/fd43930ed225) |
+| Thu, 11 Dec 2025 06:08:33 GMT | Veriyle Gelen Casus: XXE’nin Yankıları | Muhammet Yasin Ağzıkuru | [Read More](https://medium.com/p/48c710ac0f26) |
+| Thu, 11 Dec 2025 06:02:39 GMT | It was 2 AM. My coffee was cold. Burp Suite was lighting up red. | ZAYN | [Read More](https://medium.com/p/ccc1d4c7aaa1) |
+| Thu, 11 Dec 2025 06:02:38 GMT | Hot Site, Warm Site və Cold Site: Fövqəladə Hallarda Hansı Ehtiyat Mərkəzi Seçilməlidir? | asif_akbarli | [Read More](https://medium.com/p/fa43571588bc) |
+| Thu, 11 Dec 2025 05:57:10 GMT | ALERT — The Updated OWASP TOP 10 for 2K25 is here. Check this | S Kumar | [Read More](https://medium.com/p/cc213846773f) |
+| Thu, 11 Dec 2025 05:55:17 GMT | IPsec_(/500) Explained Simply | Nano | [Read More](https://medium.com/p/104fa9fbe5e7) |
+| Thu, 11 Dec 2025 05:46:53 GMT | The Day I Became the Attacker and the Analyst: A Red vs Blue Capstone | Thridev | [Read More](https://medium.com/p/dcfaa8a61594) |
 | Thu, 11 Dec 2025 05:42:15 GMT | Google XSS Game Solution | Blueorionn | [Read More](https://medium.com/p/425ce2539a58) |
 | Thu, 11 Dec 2025 05:39:03 GMT | Stored Cross-Site Scripting: HTML Context (Nothing Encoded) | Aditya Bhatt | [Read More](https://medium.com/p/1f63a3899cb2) |
 | Thu, 11 Dec 2025 05:29:24 GMT | Password Security Best Practices: Beyond ‘123456’ | Haxman | [Read More](https://medium.com/p/19350f3c1b13) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 19:20:15 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 6: DC-7 | Shikhar Sinha | [Read More](https://medium.com/p/6519d5080eae) |
 | Wed, 10 Dec 2025 19:09:19 GMT | Production history around: Bug Video on my Phone | Brandon John Barnard | [Read More](https://medium.com/p/ad872ce23312) |
 | Wed, 10 Dec 2025 19:00:50 GMT | Building Secure and Efficient Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/80d3b4de6812) |
-| Wed, 10 Dec 2025 19:00:11 GMT | 56 Holes in Your Windows Shield: Are You One of the Targets and Don’t Know It Yet? | Germano Costi | [Read More](https://medium.com/p/db5fec81ef1e) |
-| Wed, 10 Dec 2025 18:57:36 GMT | Ring Security Essentials Compared: Wall Mount vs. Spotlight Cam Plus vs. Stick Up Cam Battery. | Mohamedettakki | [Read More](https://medium.com/p/ddd310d4cbda) |
-| Wed, 10 Dec 2025 18:57:20 GMT | Microsoft’s Fatal Blow to the Illegal KMS38 Activation Method | Onhexgroup | [Read More](https://medium.com/p/c686ad3172f1) |
-| Wed, 10 Dec 2025 18:54:05 GMT | Monitoring Tool Installation on Linux Servers: Starting the Surveillance with Prometheus and… | Esra Kayhan | [Read More](https://medium.com/p/904d33903d07) |
-| Wed, 10 Dec 2025 18:53:34 GMT | The Greenholt Phish — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/49491b004e86) |
-| Wed, 10 Dec 2025 18:52:52 GMT | Sandbox Processes in Linux: Isolated and Secure Execution Environments | Esra Kayhan | [Read More](https://medium.com/p/eb55a89e6052) |
-| Wed, 10 Dec 2025 18:42:39 GMT | Using MITRE ATT&CK for Adversary Analysis | Ahmedhezema | [Read More](https://medium.com/p/0b5383e92c1e) |
-| Wed, 10 Dec 2025 18:39:56 GMT | Using custom AI agents with Google SecOps SOAR & MCPs and why I turned it off | Mike | [Read More](https://medium.com/p/928271ed05c3) |
-| Wed, 10 Dec 2025 18:33:16 GMT | How to Start a Career in Cybersecurity With No Experience | Himanshu Kumar | [Read More](https://medium.com/p/e21ad0fa544d) |
