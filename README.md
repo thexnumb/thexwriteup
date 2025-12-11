@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 19:59:28 GMT | What is Quantum Safe and why you should be worried about the Quantum Threat. | Thomas Zilliox | [Read More](https://medium.com/p/537696d62058) |
+| Thu, 11 Dec 2025 19:57:53 GMT | XSS — Merry XSSMas - Advent of Cyber 2025 Day 11 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/51ead6368176) |
+| Thu, 11 Dec 2025 19:36:22 GMT | The Great AI Pivot: From Chatbots to Autonomous Execution | Daryl | [Read More](https://medium.com/p/9d200504c9a4) |
+| Thu, 11 Dec 2025 19:34:55 GMT | The “Mystery” Job That Unraveled Into a Billion-Dollar Crime Web | Izza Khan Niazi | [Read More](https://medium.com/p/9206d45b09a4) |
 | Thu, 11 Dec 2025 19:17:06 GMT | Model Armor: Securing AI Deployments for the Enterprise | Md Mahrab Khan | [Read More](https://medium.com/p/7cec3f907747) |
 | Thu, 11 Dec 2025 19:14:59 GMT | Our Nemesis: Anonymous JWT Token | Hamit CİBO | [Read More](https://medium.com/p/48b1a7c90a77) |
 | Thu, 11 Dec 2025 19:12:32 GMT | Securing Your API with HTTPS: A Complete Guide to Free SSL Using Certbot | ARHAM RUMI | [Read More](https://medium.com/p/bcdc6eb33fff) |
@@ -46,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 17:31:34 GMT | HTB CTF Write-Up: Meow | Paulo Melo | [Read More](https://medium.com/p/b49f08afe390) |
 | Thu, 11 Dec 2025 17:29:50 GMT | Cybercriminals Exploit Google Ads to Spread macOS Malware Through Fake AI Conversations | Technijian | [Read More](https://medium.com/p/bd35a90889ab) |
 | Thu, 11 Dec 2025 17:19:59 GMT | Inside the React RSC Flaw Now Powering Cloud Shell Takeovers and Secret Theft | Chetan Seripally | [Read More](https://medium.com/p/cfb39cf45fdf) |
+| Thu, 11 Dec 2025 17:16:16 GMT | VS Code + GitHub: The Easiest Way to Upload Your Project | Shreya Patel | [Read More](https://medium.com/p/c4a919ecda7b) |
 | Thu, 11 Dec 2025 17:09:50 GMT | Linux Bash Shell Cheat Sheet Explained Like You’re New to the Terminal | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/01c798bed10c) |
 | Thu, 11 Dec 2025 17:07:50 GMT | IDOR: Başkasının Verisine Ulaşmanın En Kolay Yolu | Halil İbrahim Kuş | [Read More](https://medium.com/p/75dccafc9d98) |
 | Thu, 11 Dec 2025 17:03:46 GMT | Clean Code in C#: A Step-by-Step Guide to SonarQube & .NET | Lakshitha Madhuwantha | [Read More](https://medium.com/p/d345173f2ef2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 14:48:11 GMT | ISO 42001 vs ISO 27001: What’s the Difference? | Hicomply | [Read More](https://medium.com/p/a167880badd5) |
 | Thu, 11 Dec 2025 14:47:54 GMT | Subdomain Roulette: How Forgotten Hosts Became My Golden Ticket to Admin Panels | Iski | [Read More](https://medium.com/p/73c6aa17cac5) |
 | Thu, 11 Dec 2025 14:47:01 GMT | The Rise of Gamified Cloud Computing | Faisal haque | [Read More](https://medium.com/p/95c1aff75029) |
-| Thu, 11 Dec 2025 14:46:49 GMT | Opening Up Too Quickly in a Relationship Creates Hidden Risks | Tony Chan | [Read More](https://medium.com/p/bf0978ae31b5) |
-| Thu, 11 Dec 2025 14:46:06 GMT | The Relearning Season - AI becomes the content auditor | Pratikshya Paramita | [Read More](https://medium.com/p/53ebc6704040) |
-| Thu, 11 Dec 2025 14:43:08 GMT | The New C2 Tactic Making Windows Malware Invisible: Why Google Drive Is the New Target. | Khabbab Sarker | [Read More](https://medium.com/p/51496e539f8a) |
-| Thu, 11 Dec 2025 14:42:59 GMT | Nigeria’s 2025 Cyber Threat Landscape: From BEC to AI-Driven Attacks | Ben Awoks | [Read More](https://medium.com/p/7149f0a1f48e) |
-| Thu, 11 Dec 2025 14:38:41 GMT | Setting Up pfSense on QEMU/KVM: Complete Lab Guide with Blocking Features | sk | [Read More](https://medium.com/p/8690584586fc) |
