@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 07:20:17 GMT | https://www.youtube.com/watch?v=FOd8Tel_W7M | Erkan Saka | [Read More](https://medium.com/p/df067e21acfc) |
+| Thu, 11 Dec 2025 07:16:58 GMT | Cybersecurity Journey: My Last Semester at UVU | Alan Andres Haro | [Read More](https://medium.com/p/dec566ec1abf) |
+| Thu, 11 Dec 2025 07:12:47 GMT | techNbuddy: Discover Your Ideal Match Where Skills, Work Style & Vibe Perfectly Align | techNbuddy | [Read More](https://medium.com/p/848cc16dbfd2) |
+| Thu, 11 Dec 2025 07:08:03 GMT | Top Security Solutions Every Jewellery Store Needs: Safes, Vaults & Strong Room Doors | Steelage | [Read More](https://medium.com/p/10b6b23289e2) |
+| Thu, 11 Dec 2025 07:04:54 GMT | Find Your First Bug: 20 Tools That Require Zero Luck (Master Your First Exploit Without Guesswork) | Very Lazy Tech | [Read More](https://medium.com/p/d77df87f3662) |
+| Thu, 11 Dec 2025 07:04:07 GMT | HSTS: Close Your Site’s Security Gap | Olha Stefanishyna | [Read More](https://medium.com/p/a7e32a0fc4ce) |
+| Thu, 11 Dec 2025 07:02:38 GMT | Laravel Advent Day 11: Laravel Authentication Is Almost Too Easy — and That’s Exactly Why It’s So… | Hector Canovas | [Read More](https://medium.com/p/1451e1dad8ed) |
+| Thu, 11 Dec 2025 07:01:41 GMT | On the Days When Writing Feels Impossible | 押部 郁朗 / Ikuro Oshibe | [Read More](https://medium.com/p/e19aad0f2901) |
+| Thu, 11 Dec 2025 07:01:30 GMT | Günümüz Uygulama Güvenliğinde Application Security Posture Management Araçları ve Önemi | PeakCyber | [Read More](https://medium.com/p/50ba13495313) |
+| Thu, 11 Dec 2025 06:58:55 GMT | IKE Enumeration for Pentesters | Nano | [Read More](https://medium.com/p/0d902c66ff85) |
+| Thu, 11 Dec 2025 06:56:24 GMT | The Daily Tech Digest: 11 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/78fad07f81cd) |
+| Thu, 11 Dec 2025 06:44:30 GMT | The best digital forensics frameworks | loyalonlytoday | [Read More](https://medium.com/p/ef0f6bb4a3fc) |
+| Thu, 11 Dec 2025 06:44:24 GMT | The 5 Most Common Mistakes Beginners Make in Ethical Hacking | Shahzaib | [Read More](https://medium.com/p/035ca4ad8c27) |
+| Thu, 11 Dec 2025 06:44:17 GMT | How I made ₹8000 in 10 minutes from bug bounty | StvRoot | [Read More](https://medium.com/p/9097119b4e5e) |
+| Thu, 11 Dec 2025 06:41:16 GMT | Bug Bounty Hunter Christmas Wishes | ghostyjoe | [Read More](https://medium.com/p/f131e68a8bf3) |
+| Thu, 11 Dec 2025 06:35:14 GMT | AWS re:Invent 2025: The Complete Breakdown of AI, Compute, Security and Modernization Announcements | Adhiraj Jarwal | [Read More](https://medium.com/p/8f393412699f) |
+| Thu, 11 Dec 2025 06:34:19 GMT | Why Security Services in India Are Becoming Essential for Every Sector | Ciss India | [Read More](https://medium.com/p/7fc3b96d13d5) |
 | Thu, 11 Dec 2025 06:29:19 GMT | Are DLP Tools Really Protecting Your Sensitive Data? | keyTrackr | [Read More](https://medium.com/p/340a7573ba24) |
 | Thu, 11 Dec 2025 06:23:03 GMT | How I passed eJPT v2 in 20 days (2025) | Rahul | [Read More](https://medium.com/p/f43b5db236b6) |
 | Thu, 11 Dec 2025 06:19:38 GMT | GRC Compliance Services That Strengthen Your Cybersecurity: The Ultimate Guide for Modern… | Sentry Cyber | [Read More](https://medium.com/p/fd43930ed225) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 20:41:44 GMT | Cybersecurity Policy Pivot: Analyzing the White House’s New Executive Order and Its Impact on… | CCD-IS | [Read More](https://medium.com/p/436739e02ca0) |
 | Wed, 10 Dec 2025 20:32:16 GMT | Roblox Scams: Are Free Robux Apps Safe for Kids? A Parent’s Guide | Cyber Dive | [Read More](https://medium.com/p/af8c02ea9763) |
 | Wed, 10 Dec 2025 20:31:57 GMT | La Red del Caos® | La Trama Del Caos | [Read More](https://medium.com/p/371d1281b7f3) |
-| Wed, 10 Dec 2025 20:30:35 GMT | Strategic Roadmap for Windows Malware Development: Offensive Engineering and Systems Architecture | Mr_MalMan | [Read More](https://medium.com/p/d5591105cd5c) |
-| Wed, 10 Dec 2025 20:30:11 GMT | FortiGate giriş maceram… | Yagmur | [Read More](https://medium.com/p/77ea2fbcceaa) |
-| Wed, 10 Dec 2025 20:28:26 GMT | AI-Driven IoT Systems for Industry 4.0 | ORB, Operations Research Bit | [Read More](https://medium.com/p/6c36ade118a9) |
-| Wed, 10 Dec 2025 20:27:28 GMT | Advent of Cyber 2025 - Day 10: SOC Alert Triaging — Tinsel Triage | D4m.sh | [Read More](https://medium.com/p/457064231be9) |
-| Wed, 10 Dec 2025 20:24:48 GMT | Day 128 — Narnia Level-2 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/f1a121f05e33) |
-| Wed, 10 Dec 2025 20:23:48 GMT | Why Vulnerability Is The Strongest Thing You Can Embrace | NY Media Hub | [Read More](https://medium.com/p/00e8596097d0) |
-| Wed, 10 Dec 2025 20:15:24 GMT | 6 best firewalls for macOS in 2026: Tested picks for privacy-focused users | Yuriy Varbanets | [Read More](https://medium.com/p/ed16748d8804) |
-| Wed, 10 Dec 2025 20:04:44 GMT | INVISIBLE TRACES - RDP | JHP | [Read More](https://medium.com/p/0fa6b0d4329f) |
-| Wed, 10 Dec 2025 20:04:23 GMT | Advent of Cyber 25 — Day 9— Passwords — A Cracking Christmas | cybertactic | [Read More](https://medium.com/p/9fade955c7aa) |
-| Wed, 10 Dec 2025 20:04:06 GMT | Cybersecurity Part 2 | Shivaram Shankaranarayana Yarmunja | [Read More](https://medium.com/p/33b260108375) |
-| Wed, 10 Dec 2025 19:28:51 GMT | Cyber Chor aur Digital Daku: How Indian Netizens Can Beat Hackers at Their Own Game | Utkarsh Thakur | [Read More](https://medium.com/p/5bf440f033c2) |
-| Wed, 10 Dec 2025 19:26:57 GMT | Zero-Downtime Migration: Okta to Azure AD for a Production Healthcare Platform | Nayeemashaik | [Read More](https://medium.com/p/34615a474f90) |
-| Wed, 10 Dec 2025 19:26:22 GMT | The evolution from V2Ray to Xray to Sing-box | Md Samaul Haque Malik | [Read More](https://medium.com/p/0f4ffdeb3fe7) |
-| Wed, 10 Dec 2025 19:23:06 GMT | HTB Challenges — Follow the Money | Fardeen A. | [Read More](https://medium.com/p/ba7efc540fca) |
-| Wed, 10 Dec 2025 19:20:15 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 6: DC-7 | Shikhar Sinha | [Read More](https://medium.com/p/6519d5080eae) |
-| Wed, 10 Dec 2025 19:09:19 GMT | Production history around: Bug Video on my Phone | Brandon John Barnard | [Read More](https://medium.com/p/ad872ce23312) |
-| Wed, 10 Dec 2025 19:00:50 GMT | Building Secure and Efficient Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/80d3b4de6812) |
