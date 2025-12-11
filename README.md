@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 09:32:36 GMT | Data Protection & Privacy: Navigating Today’s Era of Digital Sniffing and Surveillance | Devarshi Acharya | [Read More](https://medium.com/p/50c416ea96d2) |
+| Thu, 11 Dec 2025 09:32:15 GMT | Node.js Pre-Signed URL Patterns: Secure, Zero-CPU File Transfers at Scale | Nikulsinh Rajput | [Read More](https://medium.com/p/014d4f66f2ba) |
+| Thu, 11 Dec 2025 09:30:29 GMT | How to Optimize Website Security and HTTPS Implementation | Bintu's Art and Everything | [Read More](https://medium.com/p/cb9f55501ed3) |
+| Thu, 11 Dec 2025 09:27:49 GMT | I Tried Building an Antivirus — Here’s What I Learned Part 2 | S.Ali | [Read More](https://medium.com/p/f2b424acdf26) |
+| Thu, 11 Dec 2025 09:26:40 GMT | “As the Presale Approaches: What Do Investors Truly Want?” | Lazil Bae | [Read More](https://medium.com/p/040049a05fc1) |
+| Thu, 11 Dec 2025 09:24:40 GMT | How SOC 2 Compliance Requirements Accelerate Your Enterprise Sales Cycle | SecureSlate | [Read More](https://medium.com/p/d6332b9a906c) |
+| Thu, 11 Dec 2025 09:19:10 GMT | Digital Shield Alliance Program Now Open: The Referral Mechanism for the Hardware Wallet 80% of… | Digital Shield | [Read More](https://medium.com/p/8dddbe4f0ef4) |
 | Thu, 11 Dec 2025 09:15:07 GMT | CZ’s Hardware Wallet Red Line: Why Digital Shield Insists on “Private Keys Must Never Leave the… | Digital Shield | [Read More](https://medium.com/p/334cf6932b0c) |
 | Thu, 11 Dec 2025 09:03:22 GMT | Cybersecurity in Remote Work: Why Proxies Are Non-Negotiable | ProxiesThatWork | [Read More](https://medium.com/p/ae89de31c393) |
 | Thu, 11 Dec 2025 09:02:19 GMT | Find Stealer Log Leaks Your Breach Databases Will Never Show Using LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/d100137387f5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 02:45:54 GMT | Slowed & Reverb Studio Online — Best Tool to Create Aesthetic Slowed + Reverb Tracks Free | Muhammad Rizwan | [Read More](https://medium.com/p/f739dac14c71) |
 | Thu, 11 Dec 2025 02:40:27 GMT | How to Quantify Cyber Risk When You ONLY Have Two Numbers | Mehdi | [Read More](https://medium.com/p/904c3f16288e) |
 | Thu, 11 Dec 2025 02:31:45 GMT | Kling Video 2.6: A Complete Breakdown of the New Audio-Visual AI Video Model | Ccarol | [Read More](https://medium.com/p/1dac35e8f8e5) |
-| Thu, 11 Dec 2025 02:00:55 GMT | TryHackMe: Hammer Writeup | cbev | [Read More](https://medium.com/p/06f783b92689) |
-| Thu, 11 Dec 2025 01:43:06 GMT | “Unpacking the Layers of Authenticity” | The Lotus Review | [Read More](https://medium.com/p/4de2a21572a4) |
-| Thu, 11 Dec 2025 01:43:01 GMT | hating me is okay | miu | [Read More](https://medium.com/p/9ff86761ae8f) |
-| Thu, 11 Dec 2025 01:32:10 GMT | The Donna Fonda Thesis: Why the “Heroic” Era of Logistics is Over (And Why Boring Process Wins) | Heesham Naji | [Read More](https://medium.com/p/c76e7f3b5924) |
-| Thu, 11 Dec 2025 01:21:22 GMT | Securing Ecobee and HomeKit Devices: IoT VLAN Isolation with UniFi OS 4.4.9 | Lazro | [Read More](https://medium.com/p/9e2bc8437fb7) |
-| Thu, 11 Dec 2025 01:16:18 GMT | Part 2: Inside the Differences Between Microsoft Defender and CrowdStrike Falcon | Faysal Dhimbil | [Read More](https://medium.com/p/50474875342a) |
-| Thu, 11 Dec 2025 01:08:41 GMT | How to unblock Instagram on school computer without VPN: 5 easy ways | Millie Bobby | [Read More](https://medium.com/p/d0f2a66466ed) |
