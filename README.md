@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 23:29:21 GMT | When Technology Turns into Theater: | Chier Hu | [Read More](https://medium.com/p/dc3cfea055b4) |
+| Thu, 11 Dec 2025 23:25:31 GMT | Why Does Privacy Matter? | Decentr | [Read More](https://medium.com/p/21f88553b07a) |
+| Thu, 11 Dec 2025 23:25:03 GMT | Software Is Being Rewritten by AI — And So Are the Attacks. | Cyber-AppSec | [Read More](https://medium.com/p/4face2bbddbe) |
+| Thu, 11 Dec 2025 23:21:58 GMT | SANS Holiday Hack 2025: Act I | Akshita Shah | [Read More](https://medium.com/p/731fb5a21e64) |
 | Thu, 11 Dec 2025 23:09:27 GMT | Phishing Email Analysis | Teddybot | [Read More](https://medium.com/p/f417a455d97a) |
 | Thu, 11 Dec 2025 23:03:19 GMT | [Carnegie Mellon University] 바이브 코딩(Vibe Coding)은 과연 안전한가? AI 에이전트 생성 코드의 보안 취약점 벤치마킹 ‘SUSVIBES’ 공개 | YouShin kim | [Read More](https://medium.com/p/051772d06476) |
 | Thu, 11 Dec 2025 23:00:20 GMT | Why AI, Quantum and Blockchain Are Converging — And Why the Storm Token Matters Now | Rhys Lenney | [Read More](https://medium.com/p/4fb19be3e055) |
@@ -37,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 21:26:08 GMT | HTTP Fundamentals for Cybersecurity | Sviatoslav König | [Read More](https://medium.com/p/4ddaf13f2fe1) |
 | Thu, 11 Dec 2025 20:57:18 GMT | Strengthening My Networking Fundamentals — Completing TryHackMe’s “DNS in Detail” Certification | Secured By Sebastion | [Read More](https://medium.com/p/7b7c2c57377c) |
 | Thu, 11 Dec 2025 20:47:12 GMT | TryHackMe Writeup: Startup | Berkay AĞGÜL | [Read More](https://medium.com/p/7fb4556d9e79) |
+| Thu, 11 Dec 2025 20:30:44 GMT | The Great React2Shell Disaster: Your Server Got Pwned and You Didn’t Even Know It (CVE-2025–55182) | CyferNest Sec | [Read More](https://medium.com/p/8889db751c40) |
 | Thu, 11 Dec 2025 20:26:30 GMT | Kuantum Bilgisayarlar ve Siber Güvenlik | Nupelda Kandemir | [Read More](https://medium.com/p/75f87ae31f5f) |
 | Thu, 11 Dec 2025 20:25:29 GMT | Understanding China’s Smart City Initiatives in Africa and Their Global Impact | Jared Douville | [Read More](https://medium.com/p/fec95e375926) |
 | Thu, 11 Dec 2025 20:19:44 GMT | 15 Common Cyber Attacks Explained Simply (So You’re Not Caught Off Guard) | Paradise technologies Inc | [Read More](https://medium.com/p/ef3802aca229) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 16:32:13 GMT | Netexec 101: Basic Usage & Installation | SpaceIO | [Read More](https://medium.com/p/6ee5a11d2a4a) |
 | Thu, 11 Dec 2025 16:23:34 GMT | Product Review: Salesforce Nonprofit Cloud (NPC) | Cait Graaf | [Read More](https://medium.com/p/f40b2cc8ae59) |
 | Thu, 11 Dec 2025 16:20:11 GMT | Protecting Your Digital Identity From Account Takeovers | Geoffrey Wenger | [Read More](https://medium.com/p/7d281136af82) |
-| Thu, 11 Dec 2025 16:18:38 GMT | Lab: Reflected XSS into attribute with angle brackets HTML-encoded | KRY | [Read More](https://medium.com/p/89f759a7632c) |
-| Thu, 11 Dec 2025 16:17:38 GMT | CVE‑2025‑67635: When Jenkins’ HTTP CLI Becomes a DoS Weapon | gm0 | [Read More](https://medium.com/p/3b64a961b14d) |
-| Thu, 11 Dec 2025 16:15:36 GMT | AI and Hacking: How Artificial Intelligence Is Transforming Cybersecurity | Bomi | [Read More](https://medium.com/p/a50489888e62) |
-| Thu, 11 Dec 2025 16:12:29 GMT | Understanding DLL Hijacking Risks In Modern Windows Systems | Geoffrey Wenger | [Read More](https://medium.com/p/3d78833ec80c) |
-| Thu, 11 Dec 2025 16:11:52 GMT | Should Both Garage Door Sensors Be Green: A Troubleshooting Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/1fda078e5827) |
