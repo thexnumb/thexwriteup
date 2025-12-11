@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 10:16:29 GMT | How Secure Is Microsoft 365 Email? A Full Breakdown of Its Protection Features | EINITIAL24 | [Read More](https://medium.com/p/8d92a356670d) |
+| Thu, 11 Dec 2025 10:10:47 GMT | India: ¿control tecnológico o transparencia digital? | Vicente Nogales Zamarriego #Mobility #Payments | [Read More](https://medium.com/p/6853e5e2ff7f) |
+| Thu, 11 Dec 2025 10:07:47 GMT | 60-Minute Proven Threat Modeling Workshop Template | Pentest_Testing_Corp | [Read More](https://medium.com/p/3abee1e0df2f) |
+| Thu, 11 Dec 2025 10:02:28 GMT | Do I really need a WordPress security plugin if my hosting offers security? | Calin V. | [Read More](https://medium.com/p/49a680eb975b) |
+| Thu, 11 Dec 2025 10:01:08 GMT | The Day Crypto Exchange Security Quietly Entered a New Era | Daisypto | [Read More](https://medium.com/p/efbc0654bd91) |
+| Thu, 11 Dec 2025 09:57:42 GMT | Building An Agentic System for Bug Bounty Duplicate Detection | Adrihp06 | [Read More](https://medium.com/p/e476911c859b) |
+| Thu, 11 Dec 2025 09:55:57 GMT | How Organisations Can Break Every Stage of the Cyber Kill Chain | farshad moradi shahrbabak | [Read More](https://medium.com/p/2940c893a3b2) |
+| Thu, 11 Dec 2025 09:54:23 GMT | How Do Product Engineering Solutions Help Companies Speed Up Software Development? | Anfisamanya | [Read More](https://medium.com/p/3c46e4124d51) |
+| Thu, 11 Dec 2025 09:53:00 GMT | I Watched Hackers Turn ChatGPT’s Share Feature into a Delivery System for macOS Malware… | Muhammad Hassan Ali | [Read More](https://medium.com/p/9d773de0ed0e) |
+| Thu, 11 Dec 2025 09:46:16 GMT | 1 Year Cyber Security Diploma Course: Year-End Bumper Sale | Manisha Chaudhary | [Read More](https://medium.com/p/ac659a53bed4) |
 | Thu, 11 Dec 2025 09:32:36 GMT | Data Protection & Privacy: Navigating Today’s Era of Digital Sniffing and Surveillance | Devarshi Acharya | [Read More](https://medium.com/p/50c416ea96d2) |
 | Thu, 11 Dec 2025 09:32:15 GMT | Node.js Pre-Signed URL Patterns: Secure, Zero-CPU File Transfers at Scale | Nikulsinh Rajput | [Read More](https://medium.com/p/014d4f66f2ba) |
 | Thu, 11 Dec 2025 09:30:29 GMT | How to Optimize Website Security and HTTPS Implementation | Bintu's Art and Everything | [Read More](https://medium.com/p/cb9f55501ed3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 04:07:16 GMT | You Can Get Hacked Without Clicking Anything. AI Just Made It Easier. | Pasan Madhuranga | [Read More](https://medium.com/p/50a4e41695b3) |
 | Thu, 11 Dec 2025 04:04:34 GMT | Tải Hack Car Parking Multiplayer (Mod Full Tiền) V4.9.5.2 Trên Android | Apkpuredev | [Read More](https://medium.com/p/0dea18a59ce7) |
 | Thu, 11 Dec 2025 03:48:59 GMT | 97 Days Unpatched: How #Links Hijack Perplexity Comet, Copilot & Gemini for 3B Users | MohamedAbdelmenem | [Read More](https://medium.com/p/5bbb3b54b39d) |
-| Thu, 11 Dec 2025 03:40:10 GMT | Choosing Residential Proxy Providers: Avoiding Trial-Only Quality, GEO Mismatch, and Mid-Campaign… | Proxy001 | [Read More](https://medium.com/p/b2e996f8efa8) |
-| Thu, 11 Dec 2025 03:32:49 GMT | 7 Best Practices for Chaos Engineering in Node.js | Arunangshu Das | [Read More](https://medium.com/p/aeac633d18f9) |
-| Thu, 11 Dec 2025 03:26:32 GMT | The CrowdStrike Incident Didn’t Break the Internet — It Exposed Us | Jesutofunmi Adeboye | [Read More](https://medium.com/p/c18b0cca3c54) |
-| Thu, 11 Dec 2025 03:18:38 GMT | Understanding Digital Consequences: Indonesian Cyber Law | Diva Rizky Alfitrah | [Read More](https://medium.com/p/bad02611bcfd) |
-| Thu, 11 Dec 2025 03:07:19 GMT | Google’s New Antigravity AI Coding Tool Erroneously Wiped Out A User’s Hard Drive | Jim Clyde Monge | [Read More](https://medium.com/p/b59631bae8b7) |
-| Thu, 11 Dec 2025 03:03:08 GMT | AI Agents Aren’t Productivity Hacks. They’re Shadow IT With Root Access | MohamedAbdelmenem | [Read More](https://medium.com/p/889a896d73ff) |
-| Thu, 11 Dec 2025 02:54:06 GMT | SOC Alert Triaging — Tinsel Triage | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/716683119f8a) |
-| Thu, 11 Dec 2025 02:45:54 GMT | Slowed & Reverb Studio Online — Best Tool to Create Aesthetic Slowed + Reverb Tracks Free | Muhammad Rizwan | [Read More](https://medium.com/p/f739dac14c71) |
-| Thu, 11 Dec 2025 02:40:27 GMT | How to Quantify Cyber Risk When You ONLY Have Two Numbers | Mehdi | [Read More](https://medium.com/p/904c3f16288e) |
-| Thu, 11 Dec 2025 02:31:45 GMT | Kling Video 2.6: A Complete Breakdown of the New Audio-Visual AI Video Model | Ccarol | [Read More](https://medium.com/p/1dac35e8f8e5) |
