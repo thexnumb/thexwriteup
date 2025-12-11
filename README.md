@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 21:30:55 GMT | The “Dream Job” Nightmare: Inside the Fake Recruiter Crypto Malware Attack | Martian | [Read More](https://medium.com/p/f37a51729b0d) |
+| Thu, 11 Dec 2025 21:30:35 GMT | Authentication Bypass-TryHackMe Walkthrough. | Ahmed Mostafa | [Read More](https://medium.com/p/541e82f66a98) |
+| Thu, 11 Dec 2025 21:26:08 GMT | HTTP Fundamentals for Cybersecurity | Sviatoslav König | [Read More](https://medium.com/p/4ddaf13f2fe1) |
 | Thu, 11 Dec 2025 20:57:18 GMT | Strengthening My Networking Fundamentals — Completing TryHackMe’s “DNS in Detail” Certification | Secured By Sebastion | [Read More](https://medium.com/p/7b7c2c57377c) |
 | Thu, 11 Dec 2025 20:47:12 GMT | TryHackMe Writeup: Startup | Berkay AĞGÜL | [Read More](https://medium.com/p/7fb4556d9e79) |
 | Thu, 11 Dec 2025 20:26:30 GMT | Kuantum Bilgisayarlar ve Siber Güvenlik | Nupelda Kandemir | [Read More](https://medium.com/p/75f87ae31f5f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 15:25:49 GMT | The Pony Express Problem: Why Change Data Capture Is Java’s Answer to Real-Time Sync | Jitin Kayyala | [Read More](https://medium.com/p/aa5c14c5c151) |
 | Thu, 11 Dec 2025 15:22:03 GMT | PwnTillDawn ElMariachiPC Writeup | Bazil Brohi | [Read More](https://medium.com/p/ae9cd6696e1d) |
 | Thu, 11 Dec 2025 15:12:28 GMT | The Secret Code Hidden in Every AI Image (And Why It Changes Everything) | Syedmohathashimali | [Read More](https://medium.com/p/4595b00324b8) |
-| Thu, 11 Dec 2025 15:11:20 GMT | Emotional AI & Cybersecurity: Can AI Read Human Intent? | Digital Defense | [Read More](https://medium.com/p/9316e3ba18e6) |
-| Thu, 11 Dec 2025 15:11:06 GMT | VulnNet: Internal - TryHackMe | Prajwal81 | [Read More](https://medium.com/p/1f2a9c9473b0) |
-| Thu, 11 Dec 2025 15:09:24 GMT | DAY 1–2: NETWORK 101 — Your Networking Foundation | Seray Akman | [Read More](https://medium.com/p/417535cf7a73) |
