@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 13:38:42 GMT | How I Turned a 403 Forbidden Into a 200 OK | Arya m Pillai | [Read More](https://medium.com/p/0149ca3e0db6) |
+| Thu, 11 Dec 2025 13:32:11 GMT | Linux Threat Detection 1 Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/40658126b632) |
+| Thu, 11 Dec 2025 13:32:11 GMT | Linux Security Habit #5 — The One Log File That Reveals an Intruder Before Any Tool Does | Faruk Ahmed | [Read More](https://medium.com/p/551099468730) |
+| Thu, 11 Dec 2025 13:32:10 GMT | Why the Next 5 Years Will Be the Golden Era of Cybersecurity Careers? | Sanjaykumar P | [Read More](https://medium.com/p/6089d5f6b6eb) |
+| Thu, 11 Dec 2025 13:29:40 GMT | Three Days, One Reverse Proxy, and a Whole Lot of Troubleshooting: | Jesse Ridley | [Read More](https://medium.com/p/f14fdf691fd8) |
+| Thu, 11 Dec 2025 13:29:14 GMT | Return - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/a6d31b525183) |
+| Thu, 11 Dec 2025 13:12:34 GMT | Shocking Truths About Microservice Security and Solution | Viral Parmar | [Read More](https://medium.com/p/c4aff9c3d9c7) |
+| Thu, 11 Dec 2025 13:08:16 GMT | Siber Vatan Yolculuğu -1 | g.o. | [Read More](https://medium.com/p/c0e27d46ca12) |
+| Thu, 11 Dec 2025 13:03:10 GMT | When an Image Endpoint Opened the Entire Server: My Discovery of a Critical Path Traversal… | Anshubind | [Read More](https://medium.com/p/28a2e9184f32) |
+| Thu, 11 Dec 2025 13:02:31 GMT | The Hidden Translation Key: How a Simple Blog Page Revealed a Serious Security Flaw | Anshubind | [Read More](https://medium.com/p/381df9311402) |
+| Thu, 11 Dec 2025 12:59:16 GMT | Act Now: MCP Is the AI Threat No One Is Ready For | Rabia AMAAOUCH | [Read More](https://medium.com/p/97f05ce85fdc) |
+| Thu, 11 Dec 2025 12:56:57 GMT | Why You Should Check for WebRTC Leaks Before Browsing Securely | Anna Kolodkina | [Read More](https://medium.com/p/d46c5b337b0e) |
+| Thu, 11 Dec 2025 12:54:54 GMT | Auditing Solana Anchor constraints | Alexey Posikera | [Read More](https://medium.com/p/21e8543a51f3) |
+| Thu, 11 Dec 2025 12:51:20 GMT | Challenge DGSE x RootMe | Horus | [Read More](https://medium.com/p/bf895a33bd9f) |
 | Thu, 11 Dec 2025 12:49:37 GMT | Defender for Cloud vs. Sentinel: Which One Do You Need? | Techridge Solutions | [Read More](https://medium.com/p/c2ad902940b9) |
+| Thu, 11 Dec 2025 12:47:51 GMT | How Ledger eliminated multisig blind signing with the 1inch Swap API | 1inch | [Read More](https://medium.com/p/6fe689dfc0a7) |
 | Thu, 11 Dec 2025 12:38:57 GMT | The Invisible API Problem Costing Enterprises Millions — Here’s How ZeroThreat Finds It Fast | Kate Bennett | [Read More](https://medium.com/p/2ed34653d154) |
 | Thu, 11 Dec 2025 12:37:11 GMT | Top Cyber Security Services in Dubai for Businesses | TechCloud IT Services L.L.C. | [Read More](https://medium.com/p/30f835fe8056) |
 | Thu, 11 Dec 2025 12:32:09 GMT | Why Cyber Security Services in London Are Essential | Proxar IT Consulting | [Read More](https://medium.com/p/50601dda352f) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 07:32:15 GMT | The “Trust Wall” for AI Agents | Bhagya Rana | [Read More](https://medium.com/p/8bb2f19d9fc6) |
 | Thu, 11 Dec 2025 07:29:45 GMT | Mental Health Strategies for Remote Workers: How to Stay Balanced in a Digital World | Be nice insabat | [Read More](https://medium.com/p/79f1f6ae157f) |
 | Thu, 11 Dec 2025 07:25:07 GMT | Top Web Development Agencies for Modern, User-First Websites | Delostyle studio | [Read More](https://medium.com/p/579a25370cba) |
-| Thu, 11 Dec 2025 07:23:46 GMT | React2Shell Is Exploding Across the Web -FREE React2Shell Scanner | Sabbir Hossain | [Read More](https://medium.com/p/84530e6c58f2) |
-| Thu, 11 Dec 2025 07:20:17 GMT | https://www.youtube.com/watch?v=FOd8Tel_W7M | Erkan Saka | [Read More](https://medium.com/p/df067e21acfc) |
-| Thu, 11 Dec 2025 07:16:58 GMT | Cybersecurity Journey: My Last Semester at UVU | Alan Andres Haro | [Read More](https://medium.com/p/dec566ec1abf) |
-| Thu, 11 Dec 2025 07:12:47 GMT | techNbuddy: Discover Your Ideal Match Where Skills, Work Style & Vibe Perfectly Align | techNbuddy | [Read More](https://medium.com/p/848cc16dbfd2) |
-| Thu, 11 Dec 2025 07:08:03 GMT | Top Security Solutions Every Jewellery Store Needs: Safes, Vaults & Strong Room Doors | Steelage | [Read More](https://medium.com/p/10b6b23289e2) |
-| Thu, 11 Dec 2025 07:04:54 GMT | Find Your First Bug: 20 Tools That Require Zero Luck (Master Your First Exploit Without Guesswork) | Very Lazy Tech | [Read More](https://medium.com/p/d77df87f3662) |
-| Thu, 11 Dec 2025 07:04:07 GMT | HSTS: Close Your Site’s Security Gap | Olha Stefanishyna | [Read More](https://medium.com/p/a7e32a0fc4ce) |
-| Thu, 11 Dec 2025 07:02:38 GMT | Laravel Advent Day 11: Laravel Authentication Is Almost Too Easy — and That’s Exactly Why It’s So… | Hector Canovas | [Read More](https://medium.com/p/1451e1dad8ed) |
-| Thu, 11 Dec 2025 07:01:41 GMT | On the Days When Writing Feels Impossible | 押部 郁朗 / Ikuro Oshibe | [Read More](https://medium.com/p/e19aad0f2901) |
-| Thu, 11 Dec 2025 07:01:30 GMT | Günümüz Uygulama Güvenliğinde Application Security Posture Management Araçları ve Önemi | PeakCyber | [Read More](https://medium.com/p/50ba13495313) |
-| Thu, 11 Dec 2025 06:58:55 GMT | IKE Enumeration for Pentesters | Nano | [Read More](https://medium.com/p/0d902c66ff85) |
-| Thu, 11 Dec 2025 06:56:24 GMT | The Daily Tech Digest: 11 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/78fad07f81cd) |
-| Thu, 11 Dec 2025 06:44:30 GMT | The best digital forensics frameworks | loyalonlytoday | [Read More](https://medium.com/p/ef0f6bb4a3fc) |
-| Thu, 11 Dec 2025 06:44:24 GMT | The 5 Most Common Mistakes Beginners Make in Ethical Hacking | Shahzaib | [Read More](https://medium.com/p/035ca4ad8c27) |
-| Thu, 11 Dec 2025 06:44:17 GMT | How I made ₹8000 in 10 minutes from bug bounty | StvRoot | [Read More](https://medium.com/p/9097119b4e5e) |
