@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 04:32:39 GMT | Red-Teaming Your Agent: Prompts That Find the Cracks | Hash Block | [Read More](https://medium.com/p/cf6c81dad318) |
+| Thu, 11 Dec 2025 04:32:05 GMT | The Coming Digital Dark Age | Victor Babaniyi | [Read More](https://medium.com/p/adb058cf8051) |
+| Thu, 11 Dec 2025 04:29:51 GMT | ประจำวันพฤหัสบดีที่ 11 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/633255b5d728) |
+| Thu, 11 Dec 2025 04:27:46 GMT | How to Label Homemade Food Legally & Professionally: A Complete Guide. | Jerusha Evangeline | [Read More](https://medium.com/p/a739b79e131f) |
+| Thu, 11 Dec 2025 04:26:56 GMT | Tải Bus Simulator Vietnam Apk (MOD Bản Full ) v9.3.8 | genzvnmod | [Read More](https://medium.com/p/6051126e7e59) |
+| Thu, 11 Dec 2025 04:18:16 GMT | :   … | Bibekananda Kundu | [Read More](https://medium.com/p/7cf5c549d19f) |
+| Thu, 11 Dec 2025 04:16:16 GMT | PayPal’s SDK URLs Leak Merchant Emails and Client IDs – A PII Goldmine Dismissed as "Informative"… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/1f5f8e4fd4a4) |
+| Thu, 11 Dec 2025 04:15:17 GMT | REST Is Flexible, but SOAP Is Secure — Why Fintech Still Loves SOAP (A Deep Technical Deep Dive) | Pathum Piyumal | [Read More](https://medium.com/p/90b3adbd34a5) |
+| Thu, 11 Dec 2025 04:07:16 GMT | You Can Get Hacked Without Clicking Anything. AI Just Made It Easier. | Pasan Madhuranga | [Read More](https://medium.com/p/50a4e41695b3) |
+| Thu, 11 Dec 2025 04:04:34 GMT | Tải Hack Car Parking Multiplayer (Mod Full Tiền) V4.9.5.2 Trên Android | Apkpuredev | [Read More](https://medium.com/p/0dea18a59ce7) |
 | Thu, 11 Dec 2025 03:48:59 GMT | 97 Days Unpatched: How #Links Hijack Perplexity Comet, Copilot & Gemini for 3B Users | MohamedAbdelmenem | [Read More](https://medium.com/p/5bbb3b54b39d) |
 | Thu, 11 Dec 2025 03:40:10 GMT | Choosing Residential Proxy Providers: Avoiding Trial-Only Quality, GEO Mismatch, and Mid-Campaign… | Proxy001 | [Read More](https://medium.com/p/b2e996f8efa8) |
 | Thu, 11 Dec 2025 03:32:49 GMT | 7 Best Practices for Chaos Engineering in Node.js | Arunangshu Das | [Read More](https://medium.com/p/aeac633d18f9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 18:05:04 GMT | The need for a Thinking, Private Brain & The Death of Dumb Drones | Berend Watchus | [Read More](https://medium.com/p/05a568532c50) |
 | Wed, 10 Dec 2025 18:01:13 GMT | CRITICAL ALERT: Patch Your Next.js App NOW to Stop the ‘React2Shell’ RCE Flaw | Dev Rahul | [Read More](https://medium.com/p/604e86e59487) |
 | Wed, 10 Dec 2025 17:58:23 GMT | Bitunix na-ebuli Ogo Nchekwa na Nkwado Iwu ya elu site na Fireblocks na Elliptic KYT | Mr Alex Yung® | [Read More](https://medium.com/p/3fb94175c55f) |
-| Wed, 10 Dec 2025 17:56:08 GMT | Gain a deeper understanding of Indonesian Cybersecurity Laws | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/941aba6c9fa5) |
-| Wed, 10 Dec 2025 17:50:51 GMT | How A Real Payment System Uses Java to Guarantee Idempotency & Ledger Accuracy | The Dev Notebook | [Read More](https://medium.com/p/b031b90ba17c) |
-| Wed, 10 Dec 2025 17:48:29 GMT | The NPM Supply Chain Security Wake-Up Call (2025) | Prince Makavana | [Read More](https://medium.com/p/edfe800d939d) |
-| Wed, 10 Dec 2025 17:46:33 GMT | LLM-Assisted Malware & Payload Crafting | Derick Johnson | [Read More](https://medium.com/p/78cbb377a82a) |
-| Wed, 10 Dec 2025 17:37:15 GMT | The Human Weak Link: A Transhuman’s Unapologetic Field Manual for Making Companies Care About Cyber… | Len Noe | [Read More](https://medium.com/p/fe268e4e2605) |
-| Wed, 10 Dec 2025 17:37:06 GMT | Life In The Trenches | Paul Smales | [Read More](https://medium.com/p/b88b4576d83c) |
-| Wed, 10 Dec 2025 17:30:10 GMT | The Wormable Malware Incident That Pushed GitHub to Reinforce npm Security | Theotismatthews | [Read More](https://medium.com/p/ec3ad9130a75) |
-| Wed, 10 Dec 2025 17:29:37 GMT | The $1.7 Million Domain That Could Have Exposed Half the World’s Passwords | satyaranjan bal | [Read More](https://medium.com/p/4a4737fdea1a) |
-| Wed, 10 Dec 2025 17:25:41 GMT | What is a Logic Bomb? - VIIEGO | Rolando | [Read More](https://medium.com/p/4abcf606bd4f) |
-| Wed, 10 Dec 2025 17:20:40 GMT | Internet of Things (IoT) | Himanshu Bhatt | [Read More](https://medium.com/p/6969c01ecaa7) |
