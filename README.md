@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 15:22:03 GMT | PwnTillDawn ElMariachiPC Writeup | Bazil Brohi | [Read More](https://medium.com/p/ae9cd6696e1d) |
+| Thu, 11 Dec 2025 15:12:28 GMT | The Secret Code Hidden in Every AI Image (And Why It Changes Everything) | Syedmohathashimali | [Read More](https://medium.com/p/4595b00324b8) |
+| Thu, 11 Dec 2025 15:11:20 GMT | Emotional AI & Cybersecurity: Can AI Read Human Intent? | Digital Defense | [Read More](https://medium.com/p/9316e3ba18e6) |
+| Thu, 11 Dec 2025 15:11:06 GMT | VulnNet: Internal - TryHackMe | Prajwal81 | [Read More](https://medium.com/p/1f2a9c9473b0) |
+| Thu, 11 Dec 2025 15:09:24 GMT | DAY 1–2: NETWORK 101 — Your Networking Foundation | Seray Akman | [Read More](https://medium.com/p/417535cf7a73) |
+| Thu, 11 Dec 2025 15:04:44 GMT | SAML vs OIDC — Understanding the Future of Enterprise Authentication | Chaos To Clarity | [Read More](https://medium.com/p/427f7e8f37d4) |
+| Thu, 11 Dec 2025 15:04:08 GMT | Understanding Darkweb Market Exit Scams — Key Warning Signs | Tor BBB | [Read More](https://medium.com/p/c9a2b4615835) |
+| Thu, 11 Dec 2025 15:02:13 GMT | Beyond the Big Three: DevOps, Security, Networking & Hybrid Innovations | Alaa Nassef | [Read More](https://medium.com/p/6f3e38c09096) |
+| Thu, 11 Dec 2025 15:02:13 GMT | Cyber Briefing: 2025.12.11 | CyberMaterial | [Read More](https://medium.com/p/446cfbf55d60) |
+| Thu, 11 Dec 2025 15:01:26 GMT | Web3 Has Three Pillars. One of Them Is Still Missing. | Abatis ABTU | [Read More](https://medium.com/p/2f9605f64ce7) |
+| Thu, 11 Dec 2025 14:57:27 GMT | ️ NET: Firewalls — Stateless vs Stateful | Jothiprakash | [Read More](https://medium.com/p/57e4d459ec89) |
+| Thu, 11 Dec 2025 14:50:02 GMT | Agentic Trust: Solving the LLM Context vs Security Paradox With Vault and Local LLMs | Raymon Epping | [Read More](https://medium.com/p/82adb133e5c1) |
+| Thu, 11 Dec 2025 14:48:37 GMT | What Every Developer Should Know About Okta Authentication | Chaos To Clarity | [Read More](https://medium.com/p/57b0cb9ae81d) |
+| Thu, 11 Dec 2025 14:48:11 GMT | ISO 42001 vs ISO 27001: What’s the Difference? | Hicomply | [Read More](https://medium.com/p/a167880badd5) |
+| Thu, 11 Dec 2025 14:47:54 GMT | Subdomain Roulette: How Forgotten Hosts Became My Golden Ticket to Admin Panels | Iski | [Read More](https://medium.com/p/73c6aa17cac5) |
+| Thu, 11 Dec 2025 14:47:01 GMT | The Rise of Gamified Cloud Computing | Faisal haque | [Read More](https://medium.com/p/95c1aff75029) |
+| Thu, 11 Dec 2025 14:46:49 GMT | Opening Up Too Quickly in a Relationship Creates Hidden Risks | Tony Chan | [Read More](https://medium.com/p/bf0978ae31b5) |
+| Thu, 11 Dec 2025 14:46:06 GMT | The Relearning Season - AI becomes the content auditor | Pratikshya Paramita | [Read More](https://medium.com/p/53ebc6704040) |
+| Thu, 11 Dec 2025 14:43:08 GMT | The New C2 Tactic Making Windows Malware Invisible: Why Google Drive Is the New Target. | Khabbab Sarker | [Read More](https://medium.com/p/51496e539f8a) |
+| Thu, 11 Dec 2025 14:42:59 GMT | Nigeria’s 2025 Cyber Threat Landscape: From BEC to AI-Driven Attacks | Ben Awoks | [Read More](https://medium.com/p/7149f0a1f48e) |
 | Thu, 11 Dec 2025 14:38:41 GMT | Setting Up pfSense on QEMU/KVM: Complete Lab Guide with Blocking Features | sk | [Read More](https://medium.com/p/8690584586fc) |
 | Thu, 11 Dec 2025 14:32:31 GMT | (Comptia A+) Understanding Passwords and Authentication: A Deep Dive into Security Practices | Vignesh R | [Read More](https://medium.com/p/a4497e47f9cf) |
 | Thu, 11 Dec 2025 14:32:31 GMT | Networking Made Simple — Your Quick Beginner’s Guide | Paul Meyer | [Read More](https://medium.com/p/a933341bd36f) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 09:32:36 GMT | Data Protection & Privacy: Navigating Today’s Era of Digital Sniffing and Surveillance | Devarshi Acharya | [Read More](https://medium.com/p/50c416ea96d2) |
 | Thu, 11 Dec 2025 09:32:15 GMT | Node.js Pre-Signed URL Patterns: Secure, Zero-CPU File Transfers at Scale | Nikulsinh Rajput | [Read More](https://medium.com/p/014d4f66f2ba) |
 | Thu, 11 Dec 2025 09:30:29 GMT | How to Optimize Website Security and HTTPS Implementation | Bintu's Art and Everything | [Read More](https://medium.com/p/cb9f55501ed3) |
-| Thu, 11 Dec 2025 09:27:49 GMT | I Tried Building an Antivirus — Here’s What I Learned Part 2 | S.Ali | [Read More](https://medium.com/p/f2b424acdf26) |
-| Thu, 11 Dec 2025 09:26:40 GMT | “As the Presale Approaches: What Do Investors Truly Want?” | Lazil Bae | [Read More](https://medium.com/p/040049a05fc1) |
-| Thu, 11 Dec 2025 09:24:40 GMT | How SOC 2 Compliance Requirements Accelerate Your Enterprise Sales Cycle | SecureSlate | [Read More](https://medium.com/p/d6332b9a906c) |
-| Thu, 11 Dec 2025 09:19:10 GMT | Digital Shield Alliance Program Now Open: The Referral Mechanism for the Hardware Wallet 80% of… | Digital Shield | [Read More](https://medium.com/p/8dddbe4f0ef4) |
-| Thu, 11 Dec 2025 09:15:07 GMT | CZ’s Hardware Wallet Red Line: Why Digital Shield Insists on “Private Keys Must Never Leave the… | Digital Shield | [Read More](https://medium.com/p/334cf6932b0c) |
-| Thu, 11 Dec 2025 09:03:22 GMT | Cybersecurity in Remote Work: Why Proxies Are Non-Negotiable | ProxiesThatWork | [Read More](https://medium.com/p/ae89de31c393) |
-| Thu, 11 Dec 2025 09:02:19 GMT | Find Stealer Log Leaks Your Breach Databases Will Never Show Using LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/d100137387f5) |
-| Thu, 11 Dec 2025 09:00:57 GMT | Hackers Don’t Wait. Can Your RTO Keep Up? | Redfox Security | [Read More](https://medium.com/p/fdd60769be0a) |
-| Thu, 11 Dec 2025 09:00:32 GMT | Your Most Intimate Data Just Got Profiled | blogginglen.com | [Read More](https://medium.com/p/9a3ceb46210e) |
-| Thu, 11 Dec 2025 08:54:31 GMT | Digital Shield Alliance Program Now Open: The Referral Mechanism for the Hardware Wallet 80% of… | Digital Shield Offcial | [Read More](https://medium.com/p/e2dd1e0c18dc) |
-| Thu, 11 Dec 2025 08:50:14 GMT | Shadows in the Code: How AI-Powered Attacks Are Redefining Cyber Warfare And the Human Strategies… | ZENcurity | [Read More](https://medium.com/p/bd00d3cb1fa8) |
-| Thu, 11 Dec 2025 08:48:10 GMT | Why Outsourcing Cybersecurity Services Is More Cost-Effective Than Building In-House Teams | flyonit au | [Read More](https://medium.com/p/670cc046801c) |
-| Thu, 11 Dec 2025 08:47:35 GMT | PWN’D Hidden in Plainsight : Writeup | 0xPH4NT0M | [Read More](https://medium.com/p/1ca8f1810ffc) |
-| Thu, 11 Dec 2025 08:44:30 GMT | React2Shell (CVE-2025–55182) Under Active Attack: Analysis of Global Threat Activity Against RSC… | Criminal IP | [Read More](https://medium.com/p/68eb16c893cc) |
-| Thu, 11 Dec 2025 08:37:59 GMT | Best Practices for Staying Ahead of Enterprise Compliance Trends | Rahman Iqbal | [Read More](https://medium.com/p/069497ce3f6b) |
-| Thu, 11 Dec 2025 08:36:25 GMT | Getting all info about my coworkers via unprotected GraphQL path | CANITEY | [Read More](https://medium.com/p/ee75ad67903a) |
-| Thu, 11 Dec 2025 08:35:56 GMT | TryHackMe - Blue Walkthrough | Birdv | [Read More](https://medium.com/p/a4cd34273ec4) |
-| Thu, 11 Dec 2025 08:32:07 GMT | From Static To Sovereign: Architecting Your First Real Hidden Service | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/944f314a2a53) |
-| Thu, 11 Dec 2025 08:16:29 GMT | Security Is the New Speed | Abdelghani Alhijawi | [Read More](https://medium.com/p/a863ec63663c) |
-| Thu, 11 Dec 2025 08:16:18 GMT | From Recon to RCE: Hunting React2Shell (CVE-2025–55182) for Bug Bounties | coffinxp | [Read More](https://medium.com/p/4e3a3ed79876) |
