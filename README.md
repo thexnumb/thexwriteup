@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 14:20:59 GMT | Permanent Denial of Service in Automattic Platforms | Monika sharma | [Read More](https://medium.com/p/bdf92b1504d1) |
+| Thu, 11 Dec 2025 14:14:49 GMT | Everything You need to know about React2Shell(CVE 2025–55182) | Abhishek Gupta | [Read More](https://medium.com/p/11899c267eb1) |
+| Thu, 11 Dec 2025 14:14:04 GMT | Perfection, Mercy, and Vulnerability | arun simon | [Read More](https://medium.com/p/897d34ed1d85) |
+| Thu, 11 Dec 2025 14:12:38 GMT | DevSecOps With Graph — Insights as Valuable as Gold | Luzidl | [Read More](https://medium.com/p/5d90be4315e8) |
+| Thu, 11 Dec 2025 14:12:21 GMT | How to Configure Oracle Database Vault on an Oracle 19c CDB | MdAsifHussain | [Read More](https://medium.com/p/2e37bf5014f5) |
+| Thu, 11 Dec 2025 14:12:20 GMT | TryHackMe — Escape the Office | omni | [Read More](https://medium.com/p/af64cde69006) |
+| Thu, 11 Dec 2025 14:09:53 GMT | We Spent Too Much On A CISO Team — My Team Turned It Into Fake Security | The Concurrent Mind | [Read More](https://medium.com/p/526778df9ac0) |
+| Thu, 11 Dec 2025 14:02:22 GMT | Authorization in the Age of AI Agents: Beyond All-or-Nothing Access Control | Nwosu Rosemary | [Read More](https://medium.com/p/747d58adb8c1) |
+| Thu, 11 Dec 2025 13:53:52 GMT | How AI Is Quietly Becoming Your New Everyday Life Hack (and Why It’s Not as Scary as It Sounds) | Tech-Explorer | [Read More](https://medium.com/p/de514f8b0469) |
+| Thu, 11 Dec 2025 13:45:40 GMT | Why I Quit a “Perfect” Career to Bet on the Unscalable Economy in 2026 | SocialScreen | [Read More](https://medium.com/p/42a8c65a9a03) |
 | Thu, 11 Dec 2025 13:38:42 GMT | How I Turned a 403 Forbidden Into a 200 OK | Arya m Pillai | [Read More](https://medium.com/p/0149ca3e0db6) |
 | Thu, 11 Dec 2025 13:32:11 GMT | Linux Threat Detection 1 Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/40658126b632) |
 | Thu, 11 Dec 2025 13:32:11 GMT | Linux Security Habit #5 — The One Log File That Reveals an Intruder Before Any Tool Does | Faruk Ahmed | [Read More](https://medium.com/p/551099468730) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 07:51:32 GMT | RBAC Explained Simply: How Modern Companies Keep Access Secure Without Losing Their Minds | Kiprutobeauttah | [Read More](https://medium.com/p/58bd09e00164) |
 | Thu, 11 Dec 2025 07:51:16 GMT | My First Medium Earnings as a Bug Bounty Hunter — Why This Small Milestone Means a Lot | Be nice insabat | [Read More](https://medium.com/p/158ae3e11311) |
 | Thu, 11 Dec 2025 07:46:35 GMT | What Is Scareware? [Definition, Identification, Prevention, and Avoidance] | Hamza Hanif | [Read More](https://medium.com/p/bdfc9663de10) |
-| Thu, 11 Dec 2025 07:45:49 GMT | Top Global AI Regulations | InfosecTrain | [Read More](https://medium.com/p/fef5a72cc80f) |
-| Thu, 11 Dec 2025 07:44:53 GMT | Lab: User role controlled by request parameter | Songül Kızılay Özügürler | [Read More](https://medium.com/p/256c2ee638e1) |
-| Thu, 11 Dec 2025 07:44:46 GMT | Lab: URL-based access control can be circumvented | Songül Kızılay Özügürler | [Read More](https://medium.com/p/d77cd5f29bc0) |
-| Thu, 11 Dec 2025 07:40:00 GMT | From Morning Coffee to Midnight Scrolls: How Your Daily Life is a Cyber Playground | Lakshita Gulliya | [Read More](https://medium.com/p/7baecbfed7e6) |
-| Thu, 11 Dec 2025 07:37:03 GMT | Teknik Komputer 2025: Network Security Practicum Write-up | Wilman Saragih Sitio | [Read More](https://medium.com/p/8dc8450f78db) |
-| Thu, 11 Dec 2025 07:32:15 GMT | PCI-ish Agents: Take Payments, Hold Nothing | Nexumo | [Read More](https://medium.com/p/9ad015ca02f3) |
-| Thu, 11 Dec 2025 07:32:15 GMT | Zero-Trust Prompts,Assume compromise. Design anyway. | Thinking Loop | [Read More](https://medium.com/p/d3cb24363802) |
-| Thu, 11 Dec 2025 07:32:15 GMT | The “Trust Wall” for AI Agents | Bhagya Rana | [Read More](https://medium.com/p/8bb2f19d9fc6) |
-| Thu, 11 Dec 2025 07:29:45 GMT | Mental Health Strategies for Remote Workers: How to Stay Balanced in a Digital World | Be nice insabat | [Read More](https://medium.com/p/79f1f6ae157f) |
-| Thu, 11 Dec 2025 07:25:07 GMT | Top Web Development Agencies for Modern, User-First Websites | Delostyle studio | [Read More](https://medium.com/p/579a25370cba) |
