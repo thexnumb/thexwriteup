@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 09:15:07 GMT | CZ’s Hardware Wallet Red Line: Why Digital Shield Insists on “Private Keys Must Never Leave the… | Digital Shield | [Read More](https://medium.com/p/334cf6932b0c) |
+| Thu, 11 Dec 2025 09:03:22 GMT | Cybersecurity in Remote Work: Why Proxies Are Non-Negotiable | ProxiesThatWork | [Read More](https://medium.com/p/ae89de31c393) |
+| Thu, 11 Dec 2025 09:02:19 GMT | Find Stealer Log Leaks Your Breach Databases Will Never Show Using LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/d100137387f5) |
+| Thu, 11 Dec 2025 09:00:57 GMT | Hackers Don’t Wait. Can Your RTO Keep Up? | Redfox Security | [Read More](https://medium.com/p/fdd60769be0a) |
+| Thu, 11 Dec 2025 09:00:32 GMT | Your Most Intimate Data Just Got Profiled | blogginglen.com | [Read More](https://medium.com/p/9a3ceb46210e) |
+| Thu, 11 Dec 2025 08:54:31 GMT | Digital Shield Alliance Program Now Open: The Referral Mechanism for the Hardware Wallet 80% of… | Digital Shield Offcial | [Read More](https://medium.com/p/e2dd1e0c18dc) |
+| Thu, 11 Dec 2025 08:50:14 GMT | Shadows in the Code: How AI-Powered Attacks Are Redefining Cyber Warfare And the Human Strategies… | ZENcurity | [Read More](https://medium.com/p/bd00d3cb1fa8) |
+| Thu, 11 Dec 2025 08:48:10 GMT | Why Outsourcing Cybersecurity Services Is More Cost-Effective Than Building In-House Teams | flyonit au | [Read More](https://medium.com/p/670cc046801c) |
+| Thu, 11 Dec 2025 08:47:35 GMT | PWN’D Hidden in Plainsight : Writeup | 0xPH4NT0M | [Read More](https://medium.com/p/1ca8f1810ffc) |
+| Thu, 11 Dec 2025 08:44:30 GMT | React2Shell (CVE-2025–55182) Under Active Attack: Analysis of Global Threat Activity Against RSC… | Criminal IP | [Read More](https://medium.com/p/68eb16c893cc) |
+| Thu, 11 Dec 2025 08:37:59 GMT | Best Practices for Staying Ahead of Enterprise Compliance Trends | Rahman Iqbal | [Read More](https://medium.com/p/069497ce3f6b) |
+| Thu, 11 Dec 2025 08:36:25 GMT | Getting all info about my coworkers via unprotected GraphQL path | CANITEY | [Read More](https://medium.com/p/ee75ad67903a) |
+| Thu, 11 Dec 2025 08:35:56 GMT | TryHackMe - Blue Walkthrough | Birdv | [Read More](https://medium.com/p/a4cd34273ec4) |
+| Thu, 11 Dec 2025 08:32:07 GMT | From Static To Sovereign: Architecting Your First Real Hidden Service | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/944f314a2a53) |
 | Thu, 11 Dec 2025 08:16:29 GMT | Security Is the New Speed | Abdelghani Alhijawi | [Read More](https://medium.com/p/a863ec63663c) |
 | Thu, 11 Dec 2025 08:16:18 GMT | From Recon to RCE: Hunting React2Shell (CVE-2025–55182) for Bug Bounties | coffinxp | [Read More](https://medium.com/p/4e3a3ed79876) |
 | Thu, 11 Dec 2025 08:15:22 GMT | Error, Bug & Failure | Dilani Thathsarani | [Read More](https://medium.com/p/3ea234ce54ab) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 01:21:22 GMT | Securing Ecobee and HomeKit Devices: IoT VLAN Isolation with UniFi OS 4.4.9 | Lazro | [Read More](https://medium.com/p/9e2bc8437fb7) |
 | Thu, 11 Dec 2025 01:16:18 GMT | Part 2: Inside the Differences Between Microsoft Defender and CrowdStrike Falcon | Faysal Dhimbil | [Read More](https://medium.com/p/50474875342a) |
 | Thu, 11 Dec 2025 01:08:41 GMT | How to unblock Instagram on school computer without VPN: 5 easy ways | Millie Bobby | [Read More](https://medium.com/p/d0f2a66466ed) |
-| Thu, 11 Dec 2025 01:02:23 GMT | For our Master’s research project, I, Swarupa Jeedimetla, a cybersecurity student at Saint Louis… | Swarupa Jeedimetla | [Read More](https://medium.com/p/ecdf608f02c1) |
-| Thu, 11 Dec 2025 00:53:34 GMT | Part 1: Why AI Threat Detection Fails: A Deep Dive Into Adversarial Evasion | Faysal Dhimbil | [Read More](https://medium.com/p/a30438cd0493) |
-| Thu, 11 Dec 2025 00:50:52 GMT | The Future of Open Source: Innovation, Intelligence, and a New Era of Risk | Bolajiakerele | [Read More](https://medium.com/p/9ac16d6578bb) |
-| Thu, 11 Dec 2025 00:43:58 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Diciembre 2025 | Tiziano Mass | [Read More](https://medium.com/p/6967cc6c18df) |
-| Thu, 11 Dec 2025 00:38:42 GMT | IT vs OT: Understanding the Key Differences in Modern Industrial Environments | Muhammad Ali Khan | [Read More](https://medium.com/p/e7e089f332f0) |
-| Thu, 11 Dec 2025 00:23:01 GMT | Welcome to Mediocre Moments! | Koko Writes | [Read More](https://medium.com/p/f75aab29afaa) |
-| Wed, 10 Dec 2025 23:56:43 GMT | Understanding Holiday Scams: A Cybersecurity Threat You Can’t Ignore | Adept Networks | [Read More](https://medium.com/p/1ab1cef2f6c4) |
-| Wed, 10 Dec 2025 23:51:13 GMT | H@ck your home network & Secure Your Home Wi-Fi Network | Mert Baykal | [Read More](https://medium.com/p/ddc4813f7191) |
-| Wed, 10 Dec 2025 23:45:20 GMT | AI Browser Attacks — Chrome’s New Defenses Change Everything | Cyber-AppSec | [Read More](https://medium.com/p/edfd28bf23ab) |
-| Wed, 10 Dec 2025 23:34:27 GMT | ️ Why the MOOZ NFT Collection Chose Etherscan Message Signing for Holder Verification | Dimitrios Misios | [Read More](https://medium.com/p/79368abcec60) |
-| Wed, 10 Dec 2025 23:29:51 GMT | ### New GHDB-Inspired Dorks | Nochia | [Read More](https://medium.com/p/2c361e0ac05e) |
-| Wed, 10 Dec 2025 23:21:29 GMT | AltaySec Akademi: Türkiye’nin İlk Ücretsiz ve Türkçe Siber Güvenlik Eğitim Platformu — Öğrenci… | Mert Doğan | [Read More](https://medium.com/p/ce8b58903ece) |
-| Wed, 10 Dec 2025 23:16:54 GMT | Fraudsters Understand Your Onboarding Funnel. Do You? | Savvas Georgiou | [Read More](https://medium.com/p/55012ebcccac) |
-| Wed, 10 Dec 2025 23:16:30 GMT | Observability improves AI safety and reliability | Brian Gastwirth | [Read More](https://medium.com/p/f606fcf6d1b6) |
