@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 12:49:37 GMT | Defender for Cloud vs. Sentinel: Which One Do You Need? | Techridge Solutions | [Read More](https://medium.com/p/c2ad902940b9) |
+| Thu, 11 Dec 2025 12:38:57 GMT | The Invisible API Problem Costing Enterprises Millions — Here’s How ZeroThreat Finds It Fast | Kate Bennett | [Read More](https://medium.com/p/2ed34653d154) |
+| Thu, 11 Dec 2025 12:37:11 GMT | Top Cyber Security Services in Dubai for Businesses | TechCloud IT Services L.L.C. | [Read More](https://medium.com/p/30f835fe8056) |
+| Thu, 11 Dec 2025 12:32:09 GMT | Why Cyber Security Services in London Are Essential | Proxar IT Consulting | [Read More](https://medium.com/p/50601dda352f) |
+| Thu, 11 Dec 2025 12:31:15 GMT | A Beginner’s Complete Guide to the Blue Team in Cybersecurity. | Venuri Vonara Kumarasinghe | [Read More](https://medium.com/p/d569442c2a4a) |
+| Thu, 11 Dec 2025 12:26:44 GMT | Lock Any PDF with Python in 20 Lines | Dorian Sotpyrc | [Read More](https://medium.com/p/0098d49c826d) |
+| Thu, 11 Dec 2025 12:25:37 GMT | The Intermediate Guide to Insurance | Navita Arora | [Read More](https://medium.com/p/f360466bbc89) |
+| Thu, 11 Dec 2025 12:20:59 GMT | Portswigger Academy — SQL injection with filter bypass via XML encoding — Write-up | Alan | [Read More](https://medium.com/p/3094bc1bceef) |
+| Thu, 11 Dec 2025 12:18:22 GMT | THE DEVELOPMENT DISASTER: Over 10,000 Docker Images Found Leaking Live Credentials for AI and… | Akshatdwivedi | [Read More](https://medium.com/p/0264a37c4cd7) |
+| Thu, 11 Dec 2025 12:18:09 GMT | The Psychology and Techniques Behind Cyber Stalking | Himanshu Bhatt | [Read More](https://medium.com/p/83d9505f573a) |
+| Thu, 11 Dec 2025 12:14:40 GMT | Nigbati Igbagbọ Di Owó Gidi | FONIE | [Read More](https://medium.com/p/4aade72d4981) |
+| Thu, 11 Dec 2025 12:09:18 GMT | Top cybersecurity companies in Bangalore | StrongBox IT | [Read More](https://medium.com/p/a3c776b31233) |
+| Thu, 11 Dec 2025 12:02:39 GMT | The Future of Crypto Safety: What Bitunix’s Fireblocks & Elliptic Upgrade Means for Everyday Users | FONIE | [Read More](https://medium.com/p/3369a9bafab3) |
+| Thu, 11 Dec 2025 12:02:22 GMT | When Customer Service Stops Being Human | Angus Peterson | [Read More](https://medium.com/p/28998dd84476) |
+| Thu, 11 Dec 2025 12:01:51 GMT | The Anatomy of Digital Trust: Why “Audited” Isn’t Enough in Web3 Security | Gideon Cohen | [Read More](https://medium.com/p/0018d6c5239a) |
+| Thu, 11 Dec 2025 12:01:22 GMT | Day 11 — Authenticity of AI-Generated Content (The Cowgirl) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/95ebc41f72ab) |
+| Thu, 11 Dec 2025 11:50:33 GMT | When Crypto Leaders Get Hacked: What CZ’s Warning Really Tells Us About Security | Johnson William | [Read More](https://medium.com/p/683f9aa87e7c) |
+| Thu, 11 Dec 2025 11:47:59 GMT | Stop Speed-Running PortSwigger Labs: The 7-Phase Methodology That Actually Makes You a Better… | abdelkarime_alhannachi | [Read More](https://medium.com/p/42972cf46e0f) |
+| Thu, 11 Dec 2025 11:44:39 GMT | Bug Bounty Full Course in Hindi: Complete Guide for Beginners | Crawsec | [Read More](https://medium.com/p/3ced3060d19e) |
 | Thu, 11 Dec 2025 11:36:32 GMT | Securing Splunk Enterprise with Let’s Encrypt SSL Certificates | SDNTechForum | [Read More](https://medium.com/p/11ff11e80dc5) |
 | Thu, 11 Dec 2025 11:32:31 GMT | One Click, Total Security — Experience the Power of Free Antivirus | Siyanoav | [Read More](https://medium.com/p/2596c99c3a4c) |
 | Thu, 11 Dec 2025 11:28:11 GMT | Fireblocks + Elliptic на Bitunix: Institutional-Grade Безопасность для Всех. | Zava | [Read More](https://medium.com/p/f5f9c04f98a5) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 06:44:30 GMT | The best digital forensics frameworks | loyalonlytoday | [Read More](https://medium.com/p/ef0f6bb4a3fc) |
 | Thu, 11 Dec 2025 06:44:24 GMT | The 5 Most Common Mistakes Beginners Make in Ethical Hacking | Shahzaib | [Read More](https://medium.com/p/035ca4ad8c27) |
 | Thu, 11 Dec 2025 06:44:17 GMT | How I made ₹8000 in 10 minutes from bug bounty | StvRoot | [Read More](https://medium.com/p/9097119b4e5e) |
-| Thu, 11 Dec 2025 06:41:16 GMT | Bug Bounty Hunter Christmas Wishes | ghostyjoe | [Read More](https://medium.com/p/f131e68a8bf3) |
-| Thu, 11 Dec 2025 06:35:14 GMT | AWS re:Invent 2025: The Complete Breakdown of AI, Compute, Security and Modernization Announcements | Adhiraj Jarwal | [Read More](https://medium.com/p/8f393412699f) |
-| Thu, 11 Dec 2025 06:34:19 GMT | Why Security Services in India Are Becoming Essential for Every Sector | Ciss India | [Read More](https://medium.com/p/7fc3b96d13d5) |
-| Thu, 11 Dec 2025 06:29:19 GMT | Are DLP Tools Really Protecting Your Sensitive Data? | keyTrackr | [Read More](https://medium.com/p/340a7573ba24) |
-| Thu, 11 Dec 2025 06:23:03 GMT | How I passed eJPT v2 in 20 days (2025) | Rahul | [Read More](https://medium.com/p/f43b5db236b6) |
-| Thu, 11 Dec 2025 06:19:38 GMT | GRC Compliance Services That Strengthen Your Cybersecurity: The Ultimate Guide for Modern… | Sentry Cyber | [Read More](https://medium.com/p/fd43930ed225) |
-| Thu, 11 Dec 2025 06:08:33 GMT | Veriyle Gelen Casus: XXE’nin Yankıları | Muhammet Yasin Ağzıkuru | [Read More](https://medium.com/p/48c710ac0f26) |
-| Thu, 11 Dec 2025 06:02:39 GMT | It was 2 AM. My coffee was cold. Burp Suite was lighting up red. | ZAYN | [Read More](https://medium.com/p/ccc1d4c7aaa1) |
-| Thu, 11 Dec 2025 06:02:38 GMT | Hot Site, Warm Site və Cold Site: Fövqəladə Hallarda Hansı Ehtiyat Mərkəzi Seçilməlidir? | asif_akbarli | [Read More](https://medium.com/p/fa43571588bc) |
-| Thu, 11 Dec 2025 05:57:10 GMT | ALERT — The Updated OWASP TOP 10 for 2K25 is here. Check this | S Kumar | [Read More](https://medium.com/p/cc213846773f) |
-| Thu, 11 Dec 2025 05:55:17 GMT | IPsec_(/500) Explained Simply | Nano | [Read More](https://medium.com/p/104fa9fbe5e7) |
-| Thu, 11 Dec 2025 05:46:53 GMT | The Day I Became the Attacker and the Analyst: A Red vs Blue Capstone | Thridev | [Read More](https://medium.com/p/dcfaa8a61594) |
-| Thu, 11 Dec 2025 05:42:15 GMT | Google XSS Game Solution | Blueorionn | [Read More](https://medium.com/p/425ce2539a58) |
-| Thu, 11 Dec 2025 05:39:03 GMT | Stored Cross-Site Scripting: HTML Context (Nothing Encoded) | Aditya Bhatt | [Read More](https://medium.com/p/1f63a3899cb2) |
-| Thu, 11 Dec 2025 05:29:24 GMT | Password Security Best Practices: Beyond ‘123456’ | Haxman | [Read More](https://medium.com/p/19350f3c1b13) |
-| Thu, 11 Dec 2025 05:27:49 GMT | AI in Cybersecurity: The Double-Edged Sword of 2025 | Haxman | [Read More](https://medium.com/p/303d7b9d0552) |
-| Thu, 11 Dec 2025 05:24:54 GMT | FCP_FGT_AD-7.6 Exam Insights: What to Expect & How to Score High | sabrina Pinto | [Read More](https://medium.com/p/37bb7649e191) |
-| Thu, 11 Dec 2025 05:24:27 GMT | React2Shell (CVE-2025–55182): The Deserialization Bug That Broke the Web ⚡ | Aditya Bhatt | [Read More](https://medium.com/p/569b41f8bb55) |
-| Thu, 11 Dec 2025 05:23:13 GMT | Limits, Threats, and Protections: How Indonesian Cyber ​​Law Regulates Our Digital Activities | Lutsvia | [Read More](https://medium.com/p/b5eed56e6a0a) |
