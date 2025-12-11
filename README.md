@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 11:05:56 GMT | Top 10 des Meilleures Applications pour Protéger vos Données Personnelles en 2025 | Astuce Digitale | [Read More](https://medium.com/p/21a731dcc81e) |
+| Thu, 11 Dec 2025 10:55:43 GMT | Top BCA Colleges in Bangalore: Accreditation & Career Scope | Success Study Tips | [Read More](https://medium.com/p/478b2741659c) |
+| Thu, 11 Dec 2025 10:55:36 GMT | Mastering Packet Crafting with Scapy: A Beginner-Friendly Deep Dive | Edwin Atali | [Read More](https://medium.com/p/92409ac0a822) |
+| Thu, 11 Dec 2025 10:52:39 GMT | Surge in Outsourced SOC Demand: Why SOC-as-a-Service (SOCaaS) Is Growing Faster Than Ever | Eventus Security Private Limited | [Read More](https://medium.com/p/950471517005) |
+| Thu, 11 Dec 2025 10:42:29 GMT | How to Upgrade Old Security Systems in a Toronto Office | Square Security Inc. | [Read More](https://medium.com/p/48da359297a6) |
+| Thu, 11 Dec 2025 10:41:06 GMT | The Role of Forensics in Incident Response: Why It Matters More Than Ever | Reghu Mohandas | [Read More](https://medium.com/p/761b3b1cef3d) |
+| Thu, 11 Dec 2025 10:37:34 GMT | 43 robots for every employee: why your security team is fighting yesterday’s war | Effedielle | [Read More](https://medium.com/p/fa858c5255e2) |
 | Thu, 11 Dec 2025 10:29:15 GMT | Goodbye Mimikatz? How Credential Guard, VBS & UEFI Lock Changed LSASS Attacks Forever | Yua Mikanana | [Read More](https://medium.com/p/d3c0bc828769) |
 | Thu, 11 Dec 2025 10:23:46 GMT | Security Lab Simulation Project Part 9: Wazuh Agents Installation | Jenny | [Read More](https://medium.com/p/8e6d8ecedaed) |
 | Thu, 11 Dec 2025 10:16:29 GMT | How Secure Is Microsoft 365 Email? A Full Breakdown of Its Protection Features | EINITIAL24 | [Read More](https://medium.com/p/8d92a356670d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 04:59:37 GMT | How to Choose the Right Security Screens for Maximum Protection | Gold Coast Security Screens | [Read More](https://medium.com/p/181b0f0cbd52) |
 | Thu, 11 Dec 2025 04:32:39 GMT | Red-Teaming Your Agent: Prompts That Find the Cracks | Hash Block | [Read More](https://medium.com/p/cf6c81dad318) |
 | Thu, 11 Dec 2025 04:32:05 GMT | The Coming Digital Dark Age | Victor Babaniyi | [Read More](https://medium.com/p/adb058cf8051) |
-| Thu, 11 Dec 2025 04:29:51 GMT | ประจำวันพฤหัสบดีที่ 11 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/633255b5d728) |
-| Thu, 11 Dec 2025 04:27:46 GMT | How to Label Homemade Food Legally & Professionally: A Complete Guide. | Jerusha Evangeline | [Read More](https://medium.com/p/a739b79e131f) |
-| Thu, 11 Dec 2025 04:26:56 GMT | Tải Bus Simulator Vietnam Apk (MOD Bản Full ) v9.3.8 | genzvnmod | [Read More](https://medium.com/p/6051126e7e59) |
-| Thu, 11 Dec 2025 04:18:16 GMT | :   … | Bibekananda Kundu | [Read More](https://medium.com/p/7cf5c549d19f) |
-| Thu, 11 Dec 2025 04:16:16 GMT | PayPal’s SDK URLs Leak Merchant Emails and Client IDs – A PII Goldmine Dismissed as "Informative"… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/1f5f8e4fd4a4) |
-| Thu, 11 Dec 2025 04:15:17 GMT | REST Is Flexible, but SOAP Is Secure — Why Fintech Still Loves SOAP (A Deep Technical Deep Dive) | Pathum Piyumal | [Read More](https://medium.com/p/90b3adbd34a5) |
-| Thu, 11 Dec 2025 04:07:16 GMT | You Can Get Hacked Without Clicking Anything. AI Just Made It Easier. | Pasan Madhuranga | [Read More](https://medium.com/p/50a4e41695b3) |
