@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 15:46:43 GMT | Will UNC5221 pop a fresh zero-day before Dec 31? Final Forecast! | Wes Young | [Read More](https://medium.com/p/0fa45f9ae75f) |
+| Thu, 11 Dec 2025 15:45:23 GMT | A Beginner’s Guide to Infosec (Written by an Actual Beginner) | Angela | [Read More](https://medium.com/p/0e238f22ed44) |
+| Thu, 11 Dec 2025 15:42:22 GMT | My Day 1 Corporate Journey – Induction Day 1 ✨ | Annie lovelace | [Read More](https://medium.com/p/1c59dc32bbf0) |
+| Thu, 11 Dec 2025 15:39:57 GMT | Hello Everyone ‍♀️ My First Post Here! | Shubhangi Agarwal | [Read More](https://medium.com/p/3f8664624d28) |
+| Thu, 11 Dec 2025 15:34:54 GMT | React2Shell: Tek HTTP Request ile Server’da Kod Çalıştırmak | Mehmet Aras | [Read More](https://medium.com/p/ed368bcaacad) |
+| Thu, 11 Dec 2025 15:32:42 GMT | Why Frontend AND Backend Validation Matter More Than Ever (2025 Deep Dive) | JIN | [Read More](https://medium.com/p/d8c8c58e0416) |
+| Thu, 11 Dec 2025 15:25:49 GMT | The Pony Express Problem: Why Change Data Capture Is Java’s Answer to Real-Time Sync | Jitin Kayyala | [Read More](https://medium.com/p/aa5c14c5c151) |
 | Thu, 11 Dec 2025 15:22:03 GMT | PwnTillDawn ElMariachiPC Writeup | Bazil Brohi | [Read More](https://medium.com/p/ae9cd6696e1d) |
 | Thu, 11 Dec 2025 15:12:28 GMT | The Secret Code Hidden in Every AI Image (And Why It Changes Everything) | Syedmohathashimali | [Read More](https://medium.com/p/4595b00324b8) |
 | Thu, 11 Dec 2025 15:11:20 GMT | Emotional AI & Cybersecurity: Can AI Read Human Intent? | Digital Defense | [Read More](https://medium.com/p/9316e3ba18e6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 10:02:28 GMT | Do I really need a WordPress security plugin if my hosting offers security? | Calin V. | [Read More](https://medium.com/p/49a680eb975b) |
 | Thu, 11 Dec 2025 10:01:08 GMT | The Day Crypto Exchange Security Quietly Entered a New Era | Daisypto | [Read More](https://medium.com/p/efbc0654bd91) |
 | Thu, 11 Dec 2025 09:57:42 GMT | Building An Agentic System for Bug Bounty Duplicate Detection | Adrihp06 | [Read More](https://medium.com/p/e476911c859b) |
-| Thu, 11 Dec 2025 09:55:57 GMT | How Organisations Can Break Every Stage of the Cyber Kill Chain | farshad moradi shahrbabak | [Read More](https://medium.com/p/2940c893a3b2) |
-| Thu, 11 Dec 2025 09:54:23 GMT | How Do Product Engineering Solutions Help Companies Speed Up Software Development? | Anfisamanya | [Read More](https://medium.com/p/3c46e4124d51) |
-| Thu, 11 Dec 2025 09:53:00 GMT | I Watched Hackers Turn ChatGPT’s Share Feature into a Delivery System for macOS Malware… | Muhammad Hassan Ali | [Read More](https://medium.com/p/9d773de0ed0e) |
-| Thu, 11 Dec 2025 09:46:16 GMT | 1 Year Cyber Security Diploma Course: Year-End Bumper Sale | Manisha Chaudhary | [Read More](https://medium.com/p/ac659a53bed4) |
-| Thu, 11 Dec 2025 09:32:36 GMT | Data Protection & Privacy: Navigating Today’s Era of Digital Sniffing and Surveillance | Devarshi Acharya | [Read More](https://medium.com/p/50c416ea96d2) |
-| Thu, 11 Dec 2025 09:32:15 GMT | Node.js Pre-Signed URL Patterns: Secure, Zero-CPU File Transfers at Scale | Nikulsinh Rajput | [Read More](https://medium.com/p/014d4f66f2ba) |
-| Thu, 11 Dec 2025 09:30:29 GMT | How to Optimize Website Security and HTTPS Implementation | Bintu's Art and Everything | [Read More](https://medium.com/p/cb9f55501ed3) |
