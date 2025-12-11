@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 03:48:59 GMT | 97 Days Unpatched: How #Links Hijack Perplexity Comet, Copilot & Gemini for 3B Users | MohamedAbdelmenem | [Read More](https://medium.com/p/5bbb3b54b39d) |
+| Thu, 11 Dec 2025 03:40:10 GMT | Choosing Residential Proxy Providers: Avoiding Trial-Only Quality, GEO Mismatch, and Mid-Campaign… | Proxy001 | [Read More](https://medium.com/p/b2e996f8efa8) |
+| Thu, 11 Dec 2025 03:32:49 GMT | 7 Best Practices for Chaos Engineering in Node.js | Arunangshu Das | [Read More](https://medium.com/p/aeac633d18f9) |
+| Thu, 11 Dec 2025 03:26:32 GMT | The CrowdStrike Incident Didn’t Break the Internet — It Exposed Us | Jesutofunmi Adeboye | [Read More](https://medium.com/p/c18b0cca3c54) |
 | Thu, 11 Dec 2025 03:18:38 GMT | Understanding Digital Consequences: Indonesian Cyber Law | Diva Rizky Alfitrah | [Read More](https://medium.com/p/bad02611bcfd) |
 | Thu, 11 Dec 2025 03:07:19 GMT | Google’s New Antigravity AI Coding Tool Erroneously Wiped Out A User’s Hard Drive | Jim Clyde Monge | [Read More](https://medium.com/p/b59631bae8b7) |
 | Thu, 11 Dec 2025 03:03:08 GMT | AI Agents Aren’t Productivity Hacks. They’re Shadow IT With Root Access | MohamedAbdelmenem | [Read More](https://medium.com/p/889a896d73ff) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 17:29:37 GMT | The $1.7 Million Domain That Could Have Exposed Half the World’s Passwords | satyaranjan bal | [Read More](https://medium.com/p/4a4737fdea1a) |
 | Wed, 10 Dec 2025 17:25:41 GMT | What is a Logic Bomb? - VIIEGO | Rolando | [Read More](https://medium.com/p/4abcf606bd4f) |
 | Wed, 10 Dec 2025 17:20:40 GMT | Internet of Things (IoT) | Himanshu Bhatt | [Read More](https://medium.com/p/6969c01ecaa7) |
-| Wed, 10 Dec 2025 17:19:42 GMT | ⚠️ The Rising Wave of Cyber Threats | grandpas story | [Read More](https://medium.com/p/6afe18019412) |
-| Wed, 10 Dec 2025 17:08:30 GMT | Getting Started With bWAPP on Kali Linux Using Docker | Sithum Ranasinghe | [Read More](https://medium.com/p/47e9c3c470b6) |
-| Wed, 10 Dec 2025 17:07:42 GMT | Writing an Incident Response Plan — A Comprehensive Guide | Aditya Nehra | [Read More](https://medium.com/p/bfd270291c01) |
-| Wed, 10 Dec 2025 17:06:55 GMT | How to Improve Lobby Security Without Compromising Visitor Experience | Joven A Rodrigues | [Read More](https://medium.com/p/eb130d5e5312) |
