@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 07:29:45 GMT | Mental Health Strategies for Remote Workers: How to Stay Balanced in a Digital World | Be nice insabat | [Read More](https://medium.com/p/79f1f6ae157f) |
+| Thu, 11 Dec 2025 07:25:07 GMT | Top Web Development Agencies for Modern, User-First Websites | Delostyle studio | [Read More](https://medium.com/p/579a25370cba) |
+| Thu, 11 Dec 2025 07:23:46 GMT | React2Shell Is Exploding Across the Web -FREE React2Shell Scanner | Sabbir Hossain | [Read More](https://medium.com/p/84530e6c58f2) |
 | Thu, 11 Dec 2025 07:20:17 GMT | https://www.youtube.com/watch?v=FOd8Tel_W7M | Erkan Saka | [Read More](https://medium.com/p/df067e21acfc) |
 | Thu, 11 Dec 2025 07:16:58 GMT | Cybersecurity Journey: My Last Semester at UVU | Alan Andres Haro | [Read More](https://medium.com/p/dec566ec1abf) |
 | Thu, 11 Dec 2025 07:12:47 GMT | techNbuddy: Discover Your Ideal Match Where Skills, Work Style & Vibe Perfectly Align | techNbuddy | [Read More](https://medium.com/p/848cc16dbfd2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 21:19:21 GMT | Observing Real-World RDP Attacks and Thinking like an Attacker | Aimee Liu | [Read More](https://medium.com/p/39ed689340e3) |
 | Wed, 10 Dec 2025 21:12:13 GMT | When Poetry Becomes a Weapon: How Researchers Broke Every Major AI With Verses | Zoom In AI | [Read More](https://medium.com/p/30aae4f3e7c4) |
 | Wed, 10 Dec 2025 20:57:18 GMT | Snapped Phish-ing Line — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/4e20ca0c37e7) |
-| Wed, 10 Dec 2025 20:41:44 GMT | Cybersecurity Policy Pivot: Analyzing the White House’s New Executive Order and Its Impact on… | CCD-IS | [Read More](https://medium.com/p/436739e02ca0) |
-| Wed, 10 Dec 2025 20:32:16 GMT | Roblox Scams: Are Free Robux Apps Safe for Kids? A Parent’s Guide | Cyber Dive | [Read More](https://medium.com/p/af8c02ea9763) |
-| Wed, 10 Dec 2025 20:31:57 GMT | La Red del Caos® | La Trama Del Caos | [Read More](https://medium.com/p/371d1281b7f3) |
