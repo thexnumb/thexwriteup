@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 08:16:29 GMT | Security Is the New Speed | Abdelghani Alhijawi | [Read More](https://medium.com/p/a863ec63663c) |
+| Thu, 11 Dec 2025 08:16:18 GMT | From Recon to RCE: Hunting React2Shell (CVE-2025–55182) for Bug Bounties | coffinxp | [Read More](https://medium.com/p/4e3a3ed79876) |
+| Thu, 11 Dec 2025 08:15:22 GMT | Error, Bug & Failure | Dilani Thathsarani | [Read More](https://medium.com/p/3ea234ce54ab) |
+| Thu, 11 Dec 2025 08:07:23 GMT | ALL IN ONE — Writeup TryHackMe | Grishpradhan | [Read More](https://medium.com/p/b133df3a1503) |
+| Thu, 11 Dec 2025 08:03:16 GMT | Kostenlose Antivirus: Die besten kostenlosen Antivirus-Programme im Jahr 2025 | SiyanoAV | [Read More](https://medium.com/p/d20e47683f87) |
+| Thu, 11 Dec 2025 07:52:35 GMT | Best VPS Hosting Service Provider in India - HostDime | HostDime India | [Read More](https://medium.com/p/366dd81ea0b4) |
+| Thu, 11 Dec 2025 07:51:32 GMT | RBAC Explained Simply: How Modern Companies Keep Access Secure Without Losing Their Minds | Kiprutobeauttah | [Read More](https://medium.com/p/58bd09e00164) |
+| Thu, 11 Dec 2025 07:51:16 GMT | My First Medium Earnings as a Bug Bounty Hunter — Why This Small Milestone Means a Lot | Be nice insabat | [Read More](https://medium.com/p/158ae3e11311) |
+| Thu, 11 Dec 2025 07:46:35 GMT | What Is Scareware? [Definition, Identification, Prevention, and Avoidance] | Hamza Hanif | [Read More](https://medium.com/p/bdfc9663de10) |
+| Thu, 11 Dec 2025 07:45:49 GMT | Top Global AI Regulations | InfosecTrain | [Read More](https://medium.com/p/fef5a72cc80f) |
+| Thu, 11 Dec 2025 07:44:53 GMT | Lab: User role controlled by request parameter | Songül Kızılay Özügürler | [Read More](https://medium.com/p/256c2ee638e1) |
+| Thu, 11 Dec 2025 07:44:46 GMT | Lab: URL-based access control can be circumvented | Songül Kızılay Özügürler | [Read More](https://medium.com/p/d77cd5f29bc0) |
+| Thu, 11 Dec 2025 07:40:00 GMT | From Morning Coffee to Midnight Scrolls: How Your Daily Life is a Cyber Playground | Lakshita Gulliya | [Read More](https://medium.com/p/7baecbfed7e6) |
+| Thu, 11 Dec 2025 07:37:03 GMT | Teknik Komputer 2025: Network Security Practicum Write-up | Wilman Saragih Sitio | [Read More](https://medium.com/p/8dc8450f78db) |
+| Thu, 11 Dec 2025 07:32:15 GMT | PCI-ish Agents: Take Payments, Hold Nothing | Nexumo | [Read More](https://medium.com/p/9ad015ca02f3) |
+| Thu, 11 Dec 2025 07:32:15 GMT | Zero-Trust Prompts,Assume compromise. Design anyway. | Thinking Loop | [Read More](https://medium.com/p/d3cb24363802) |
+| Thu, 11 Dec 2025 07:32:15 GMT | The “Trust Wall” for AI Agents | Bhagya Rana | [Read More](https://medium.com/p/8bb2f19d9fc6) |
 | Thu, 11 Dec 2025 07:29:45 GMT | Mental Health Strategies for Remote Workers: How to Stay Balanced in a Digital World | Be nice insabat | [Read More](https://medium.com/p/79f1f6ae157f) |
 | Thu, 11 Dec 2025 07:25:07 GMT | Top Web Development Agencies for Modern, User-First Websites | Delostyle studio | [Read More](https://medium.com/p/579a25370cba) |
 | Thu, 11 Dec 2025 07:23:46 GMT | React2Shell Is Exploding Across the Web -FREE React2Shell Scanner | Sabbir Hossain | [Read More](https://medium.com/p/84530e6c58f2) |
@@ -87,6 +104,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 00:43:58 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Diciembre 2025 | Tiziano Mass | [Read More](https://medium.com/p/6967cc6c18df) |
 | Thu, 11 Dec 2025 00:38:42 GMT | IT vs OT: Understanding the Key Differences in Modern Industrial Environments | Muhammad Ali Khan | [Read More](https://medium.com/p/e7e089f332f0) |
 | Thu, 11 Dec 2025 00:23:01 GMT | Welcome to Mediocre Moments! | Koko Writes | [Read More](https://medium.com/p/f75aab29afaa) |
+| Wed, 10 Dec 2025 23:56:43 GMT | Understanding Holiday Scams: A Cybersecurity Threat You Can’t Ignore | Adept Networks | [Read More](https://medium.com/p/1ab1cef2f6c4) |
 | Wed, 10 Dec 2025 23:51:13 GMT | H@ck your home network & Secure Your Home Wi-Fi Network | Mert Baykal | [Read More](https://medium.com/p/ddc4813f7191) |
 | Wed, 10 Dec 2025 23:45:20 GMT | AI Browser Attacks — Chrome’s New Defenses Change Everything | Cyber-AppSec | [Read More](https://medium.com/p/edfd28bf23ab) |
 | Wed, 10 Dec 2025 23:34:27 GMT | ️ Why the MOOZ NFT Collection Chose Etherscan Message Signing for Holder Verification | Dimitrios Misios | [Read More](https://medium.com/p/79368abcec60) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 23:21:29 GMT | AltaySec Akademi: Türkiye’nin İlk Ücretsiz ve Türkçe Siber Güvenlik Eğitim Platformu — Öğrenci… | Mert Doğan | [Read More](https://medium.com/p/ce8b58903ece) |
 | Wed, 10 Dec 2025 23:16:54 GMT | Fraudsters Understand Your Onboarding Funnel. Do You? | Savvas Georgiou | [Read More](https://medium.com/p/55012ebcccac) |
 | Wed, 10 Dec 2025 23:16:30 GMT | Observability improves AI safety and reliability | Brian Gastwirth | [Read More](https://medium.com/p/f606fcf6d1b6) |
-| Wed, 10 Dec 2025 23:14:04 GMT | Passwords — A Cracking Christmas — Writeup(DAY 9 — Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/923433f6a87c) |
-| Wed, 10 Dec 2025 23:00:27 GMT | Cryptography basics- Tryhackme Room. | King | [Read More](https://medium.com/p/798468dd5bb7) |
-| Wed, 10 Dec 2025 22:54:34 GMT | CVE-2025–55182, CVE-2025–6647 quick analysis | akbun | [Read More](https://medium.com/p/aa087e8d2378) |
-| Wed, 10 Dec 2025 22:47:26 GMT | Post 4: Mary Begins Building Sally’s System | SattiData | [Read More](https://medium.com/p/ad55e4a76df6) |
-| Wed, 10 Dec 2025 22:41:49 GMT | What Are Some of the Most Important Lessons After 20 Years in IT and Cybersecurity? | Igor Berner | [Read More](https://medium.com/p/30bf9e0b90e2) |
-| Wed, 10 Dec 2025 22:40:58 GMT | From Serving Airforce to Corporate Cybersecurity | M Umar Akhlaq | [Read More](https://medium.com/p/ab9840c9fe39) |
-| Wed, 10 Dec 2025 22:37:13 GMT | Introducing kubectl-readonly | Guillaume Rams | [Read More](https://medium.com/p/7ef1987c945b) |
-| Wed, 10 Dec 2025 22:35:48 GMT | Protecting trust at the speed of risk | Slalom | [Read More](https://medium.com/p/fe8b0ad1df01) |
-| Wed, 10 Dec 2025 22:32:27 GMT | Stepping Into Cybersecurity | Larry Harris | [Read More](https://medium.com/p/d55f915dc70e) |
-| Wed, 10 Dec 2025 22:32:24 GMT | I lied, I am (still) depressed. | Hafeezah Salau | [Read More](https://medium.com/p/c38988ddb475) |
-| Wed, 10 Dec 2025 22:24:14 GMT | KALI LINUX OSINT 2025: Maîtrisez l’Intelligence des Sources Ouvertes avec des Outils Haute… | Diego Rodrigues | [Read More](https://medium.com/p/2e91c7f0a32c) |
-| Wed, 10 Dec 2025 22:21:24 GMT | Fortress Protocol x Modulus Twitter Spaces Transcript | Fortress Protocol | [Read More](https://medium.com/p/04ee16bfb51a) |
-| Wed, 10 Dec 2025 22:18:42 GMT | eWPTX: All You Need to Know | Mostafa Sharaf | [Read More](https://medium.com/p/acbf2b649bad) |
-| Wed, 10 Dec 2025 22:00:44 GMT | APPRENEZ LE MALTEGO: Maîtrisez les Enquêtes OSINT, l’Analyse des Relations et le Renseignement… | Diego Rodrigues | [Read More](https://medium.com/p/6ab47abe4500) |
-| Wed, 10 Dec 2025 21:36:10 GMT | The Transparency Fix. How a three-tiered system solved broken parking enforcement. | Stream Data Systems | [Read More](https://medium.com/p/1df5af7d598c) |
-| Wed, 10 Dec 2025 21:19:21 GMT | Observing Real-World RDP Attacks and Thinking like an Attacker | Aimee Liu | [Read More](https://medium.com/p/39ed689340e3) |
-| Wed, 10 Dec 2025 21:12:13 GMT | When Poetry Becomes a Weapon: How Researchers Broke Every Major AI With Verses | Zoom In AI | [Read More](https://medium.com/p/30aae4f3e7c4) |
-| Wed, 10 Dec 2025 20:57:18 GMT | Snapped Phish-ing Line — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/4e20ca0c37e7) |
