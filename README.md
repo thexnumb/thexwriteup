@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 14:38:41 GMT | Setting Up pfSense on QEMU/KVM: Complete Lab Guide with Blocking Features | sk | [Read More](https://medium.com/p/8690584586fc) |
+| Thu, 11 Dec 2025 14:32:31 GMT | (Comptia A+) Understanding Passwords and Authentication: A Deep Dive into Security Practices | Vignesh R | [Read More](https://medium.com/p/a4497e47f9cf) |
+| Thu, 11 Dec 2025 14:32:31 GMT | Networking Made Simple — Your Quick Beginner’s Guide | Paul Meyer | [Read More](https://medium.com/p/a933341bd36f) |
+| Thu, 11 Dec 2025 14:30:15 GMT | Multi-server deployment with NeoC2 Framework (Part 4) | stillbigjosh | [Read More](https://medium.com/p/e9d48790e973) |
+| Thu, 11 Dec 2025 14:24:43 GMT | SOC Alert Triaging — Tinsel Triage - TryHackMe- Walkthrough | Visir | [Read More](https://medium.com/p/6f9fc218db83) |
+| Thu, 11 Dec 2025 14:21:52 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity → the AWS-Azure-Cloudflare Outage Wave | Nitin Garg | [Read More](https://medium.com/p/0c8260d59b29) |
 | Thu, 11 Dec 2025 14:20:59 GMT | Permanent Denial of Service in Automattic Platforms | Monika sharma | [Read More](https://medium.com/p/bdf92b1504d1) |
+| Thu, 11 Dec 2025 14:18:48 GMT | Linux CLI — Shells Bells | Ravtolemanish | [Read More](https://medium.com/p/526c502863ed) |
 | Thu, 11 Dec 2025 14:14:49 GMT | Everything You need to know about React2Shell(CVE 2025–55182) | Abhishek Gupta | [Read More](https://medium.com/p/11899c267eb1) |
 | Thu, 11 Dec 2025 14:14:04 GMT | Perfection, Mercy, and Vulnerability | arun simon | [Read More](https://medium.com/p/897d34ed1d85) |
 | Thu, 11 Dec 2025 14:12:38 GMT | DevSecOps With Graph — Insights as Valuable as Gold | Luzidl | [Read More](https://medium.com/p/5d90be4315e8) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 08:32:07 GMT | From Static To Sovereign: Architecting Your First Real Hidden Service | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/944f314a2a53) |
 | Thu, 11 Dec 2025 08:16:29 GMT | Security Is the New Speed | Abdelghani Alhijawi | [Read More](https://medium.com/p/a863ec63663c) |
 | Thu, 11 Dec 2025 08:16:18 GMT | From Recon to RCE: Hunting React2Shell (CVE-2025–55182) for Bug Bounties | coffinxp | [Read More](https://medium.com/p/4e3a3ed79876) |
-| Thu, 11 Dec 2025 08:15:22 GMT | Error, Bug & Failure | Dilani Thathsarani | [Read More](https://medium.com/p/3ea234ce54ab) |
-| Thu, 11 Dec 2025 08:07:23 GMT | ALL IN ONE — Writeup TryHackMe | Grishpradhan | [Read More](https://medium.com/p/b133df3a1503) |
-| Thu, 11 Dec 2025 08:03:16 GMT | Kostenlose Antivirus: Die besten kostenlosen Antivirus-Programme im Jahr 2025 | SiyanoAV | [Read More](https://medium.com/p/d20e47683f87) |
-| Thu, 11 Dec 2025 07:52:35 GMT | Best VPS Hosting Service Provider in India - HostDime | HostDime India | [Read More](https://medium.com/p/366dd81ea0b4) |
-| Thu, 11 Dec 2025 07:51:32 GMT | RBAC Explained Simply: How Modern Companies Keep Access Secure Without Losing Their Minds | Kiprutobeauttah | [Read More](https://medium.com/p/58bd09e00164) |
-| Thu, 11 Dec 2025 07:51:16 GMT | My First Medium Earnings as a Bug Bounty Hunter — Why This Small Milestone Means a Lot | Be nice insabat | [Read More](https://medium.com/p/158ae3e11311) |
-| Thu, 11 Dec 2025 07:46:35 GMT | What Is Scareware? [Definition, Identification, Prevention, and Avoidance] | Hamza Hanif | [Read More](https://medium.com/p/bdfc9663de10) |
