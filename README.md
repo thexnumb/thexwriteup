@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 20:26:30 GMT | Kuantum Bilgisayarlar ve Siber Güvenlik | Nupelda Kandemir | [Read More](https://medium.com/p/75f87ae31f5f) |
+| Thu, 11 Dec 2025 20:25:29 GMT | Understanding China’s Smart City Initiatives in Africa and Their Global Impact | Jared Douville | [Read More](https://medium.com/p/fec95e375926) |
+| Thu, 11 Dec 2025 20:19:44 GMT | 15 Common Cyber Attacks Explained Simply (So You’re Not Caught Off Guard) | Paradise technologies Inc | [Read More](https://medium.com/p/ef3802aca229) |
+| Thu, 11 Dec 2025 20:19:01 GMT | Weaponized Bots, Hijacked Accounts, and the Dark Economy Targeting Streamers | Dude Dangerous | [Read More](https://medium.com/p/4a92b5619128) |
+| Thu, 11 Dec 2025 20:17:50 GMT | The Curious Case of safe_sleep.sh in GitHub Actions | Navaneeth Sen | [Read More](https://medium.com/p/a5dab2dca833) |
 | Thu, 11 Dec 2025 19:59:28 GMT | What is Quantum Safe and why you should be worried about the Quantum Threat. | Thomas Zilliox | [Read More](https://medium.com/p/537696d62058) |
 | Thu, 11 Dec 2025 19:57:53 GMT | XSS — Merry XSSMas - Advent of Cyber 2025 Day 11 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/51ead6368176) |
 | Thu, 11 Dec 2025 19:36:22 GMT | The Great AI Pivot: From Chatbots to Autonomous Execution | Daryl | [Read More](https://medium.com/p/9d200504c9a4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 15:02:13 GMT | Cyber Briefing: 2025.12.11 | CyberMaterial | [Read More](https://medium.com/p/446cfbf55d60) |
 | Thu, 11 Dec 2025 15:01:26 GMT | Web3 Has Three Pillars. One of Them Is Still Missing. | Abatis ABTU | [Read More](https://medium.com/p/2f9605f64ce7) |
 | Thu, 11 Dec 2025 14:57:27 GMT | ️ NET: Firewalls — Stateless vs Stateful | Jothiprakash | [Read More](https://medium.com/p/57e4d459ec89) |
-| Thu, 11 Dec 2025 14:50:02 GMT | Agentic Trust: Solving the LLM Context vs Security Paradox With Vault and Local LLMs | Raymon Epping | [Read More](https://medium.com/p/82adb133e5c1) |
-| Thu, 11 Dec 2025 14:48:37 GMT | What Every Developer Should Know About Okta Authentication | Chaos To Clarity | [Read More](https://medium.com/p/57b0cb9ae81d) |
-| Thu, 11 Dec 2025 14:48:11 GMT | ISO 42001 vs ISO 27001: What’s the Difference? | Hicomply | [Read More](https://medium.com/p/a167880badd5) |
-| Thu, 11 Dec 2025 14:47:54 GMT | Subdomain Roulette: How Forgotten Hosts Became My Golden Ticket to Admin Panels | Iski | [Read More](https://medium.com/p/73c6aa17cac5) |
-| Thu, 11 Dec 2025 14:47:01 GMT | The Rise of Gamified Cloud Computing | Faisal haque | [Read More](https://medium.com/p/95c1aff75029) |
