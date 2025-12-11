@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 19:17:06 GMT | Model Armor: Securing AI Deployments for the Enterprise | Md Mahrab Khan | [Read More](https://medium.com/p/7cec3f907747) |
+| Thu, 11 Dec 2025 19:14:59 GMT | Our Nemesis: Anonymous JWT Token | Hamit CİBO | [Read More](https://medium.com/p/48b1a7c90a77) |
+| Thu, 11 Dec 2025 19:12:32 GMT | Securing Your API with HTTPS: A Complete Guide to Free SSL Using Certbot | ARHAM RUMI | [Read More](https://medium.com/p/bcdc6eb33fff) |
+| Thu, 11 Dec 2025 19:11:00 GMT | Anonimato Digital | Mastersec | [Read More](https://medium.com/p/9520f4b73837) |
+| Thu, 11 Dec 2025 19:06:46 GMT | 5 Critical Linux Security Techniques Every Security Professional Should Know | Mert Baykal | [Read More](https://medium.com/p/667d668fbeee) |
+| Thu, 11 Dec 2025 19:06:08 GMT | Only JWT? Here’s How Hackers Still Bypass Your Authorization | karincayiyen | [Read More](https://medium.com/p/ee3a0b86b50f) |
+| Thu, 11 Dec 2025 19:03:09 GMT | This table is an educational analysis created to help understand what each field inside the… | Tahatan | [Read More](https://medium.com/p/0f0ad6118c95) |
+| Thu, 11 Dec 2025 19:02:36 GMT | Cybersecurity Service Essentials for San Diego Businesses: Finding a Trusted Cybersecurity Service… | Xonicwave IT Support | [Read More](https://medium.com/p/67f0e4e5e598) |
+| Thu, 11 Dec 2025 18:53:34 GMT | Stop Using Free Wi-Fi: This Is How Attackers Steal Your Passwords in Seconds | Satyam Pathania | [Read More](https://medium.com/p/2a5a0b885608) |
+| Thu, 11 Dec 2025 18:52:50 GMT | Advent of Cyber 2025 Day 11 - TryHackMe - XSS - Merry XSSMas - WriteUp | Axoloth | [Read More](https://medium.com/p/125de1017c48) |
+| Thu, 11 Dec 2025 18:44:03 GMT | ArcherX brings AI Powered Cybersecurity to the Global Industry. | InfoSec Global Trends | [Read More](https://medium.com/p/2863ba6c4890) |
+| Thu, 11 Dec 2025 18:39:03 GMT | XSS — Web’in Sessiz Katili ve En Yaygın Açığı | Halil İbrahim Kuş | [Read More](https://medium.com/p/23ad150de7c6) |
+| Thu, 11 Dec 2025 18:38:41 GMT | [CyberDefenders Write-up] Malicious PyPi (From pip to Sliver and Aurora stealer) | Chicken0248 | [Read More](https://medium.com/p/f2c731183512) |
+| Thu, 11 Dec 2025 18:38:14 GMT | The Crucial Line: Knowing When to Accept a Situation Versus When to Surrender to It | Yash Patil | [Read More](https://medium.com/p/1537c4ac5a73) |
+| Thu, 11 Dec 2025 18:35:33 GMT | [CyberDefenders Write-up] Midnight RDP (Rouge RDP to Cobalt Strike beacon and Domain Compromise) | Chicken0248 | [Read More](https://medium.com/p/cd6e0e769cfb) |
+| Thu, 11 Dec 2025 18:31:43 GMT | The Art of Deception: How HP’s 2025 Threat Report Reveals the Weaponization of UX and… | Rob Enderle | [Read More](https://medium.com/p/84cb1e939232) |
 | Thu, 11 Dec 2025 18:29:53 GMT | AI Hackers Outperform Humans: Stanford Bots Breach Networks Alone | Coby Mendoza | [Read More](https://medium.com/p/22bb7099afec) |
 | Thu, 11 Dec 2025 18:20:03 GMT | The Future of Security: Next-Generation Security Systems Shaping the Digital Age | Ugochukwu Bernard Anyaogu-Ben | [Read More](https://medium.com/p/fbe2b5657ede) |
 | Thu, 11 Dec 2025 18:15:23 GMT | Advent of Cyber 2025 - Day 11: XSS - Merry XSSMas | Akshat Patel | [Read More](https://medium.com/p/4329d6b880e3) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 14:43:08 GMT | The New C2 Tactic Making Windows Malware Invisible: Why Google Drive Is the New Target. | Khabbab Sarker | [Read More](https://medium.com/p/51496e539f8a) |
 | Thu, 11 Dec 2025 14:42:59 GMT | Nigeria’s 2025 Cyber Threat Landscape: From BEC to AI-Driven Attacks | Ben Awoks | [Read More](https://medium.com/p/7149f0a1f48e) |
 | Thu, 11 Dec 2025 14:38:41 GMT | Setting Up pfSense on QEMU/KVM: Complete Lab Guide with Blocking Features | sk | [Read More](https://medium.com/p/8690584586fc) |
-| Thu, 11 Dec 2025 14:32:31 GMT | (Comptia A+) Understanding Passwords and Authentication: A Deep Dive into Security Practices | Vignesh R | [Read More](https://medium.com/p/a4497e47f9cf) |
-| Thu, 11 Dec 2025 14:32:31 GMT | Networking Made Simple — Your Quick Beginner’s Guide | Paul Meyer | [Read More](https://medium.com/p/a933341bd36f) |
-| Thu, 11 Dec 2025 14:30:15 GMT | Multi-server deployment with NeoC2 Framework (Part 4) | stillbigjosh | [Read More](https://medium.com/p/e9d48790e973) |
-| Thu, 11 Dec 2025 14:24:43 GMT | SOC Alert Triaging — Tinsel Triage - TryHackMe- Walkthrough | Visir | [Read More](https://medium.com/p/6f9fc218db83) |
-| Thu, 11 Dec 2025 14:21:52 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity → the AWS-Azure-Cloudflare Outage Wave | Nitin Garg | [Read More](https://medium.com/p/0c8260d59b29) |
-| Thu, 11 Dec 2025 14:20:59 GMT | Permanent Denial of Service in Automattic Platforms | Monika sharma | [Read More](https://medium.com/p/bdf92b1504d1) |
-| Thu, 11 Dec 2025 14:18:48 GMT | Linux CLI — Shells Bells | Ravtolemanish | [Read More](https://medium.com/p/526c502863ed) |
-| Thu, 11 Dec 2025 14:14:49 GMT | Everything You need to know about React2Shell(CVE 2025–55182) | Abhishek Gupta | [Read More](https://medium.com/p/11899c267eb1) |
-| Thu, 11 Dec 2025 14:14:04 GMT | Perfection, Mercy, and Vulnerability | arun simon | [Read More](https://medium.com/p/897d34ed1d85) |
-| Thu, 11 Dec 2025 14:12:38 GMT | DevSecOps With Graph — Insights as Valuable as Gold | Luzidl | [Read More](https://medium.com/p/5d90be4315e8) |
-| Thu, 11 Dec 2025 14:12:21 GMT | How to Configure Oracle Database Vault on an Oracle 19c CDB | MdAsifHussain | [Read More](https://medium.com/p/2e37bf5014f5) |
-| Thu, 11 Dec 2025 14:12:20 GMT | TryHackMe — Escape the Office | omni | [Read More](https://medium.com/p/af64cde69006) |
-| Thu, 11 Dec 2025 14:09:53 GMT | We Spent Too Much On A CISO Team — My Team Turned It Into Fake Security | The Concurrent Mind | [Read More](https://medium.com/p/526778df9ac0) |
-| Thu, 11 Dec 2025 14:02:22 GMT | Authorization in the Age of AI Agents: Beyond All-or-Nothing Access Control | Nwosu Rosemary | [Read More](https://medium.com/p/747d58adb8c1) |
-| Thu, 11 Dec 2025 13:53:52 GMT | How AI Is Quietly Becoming Your New Everyday Life Hack (and Why It’s Not as Scary as It Sounds) | Tech-Explorer | [Read More](https://medium.com/p/de514f8b0469) |
-| Thu, 11 Dec 2025 13:45:40 GMT | Why I Quit a “Perfect” Career to Bet on the Unscalable Economy in 2026 | SocialScreen | [Read More](https://medium.com/p/42a8c65a9a03) |
