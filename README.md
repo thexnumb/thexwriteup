@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 23:09:27 GMT | Phishing Email Analysis | Teddybot | [Read More](https://medium.com/p/f417a455d97a) |
+| Thu, 11 Dec 2025 23:03:19 GMT | [Carnegie Mellon University] 바이브 코딩(Vibe Coding)은 과연 안전한가? AI 에이전트 생성 코드의 보안 취약점 벤치마킹 ‘SUSVIBES’ 공개 | YouShin kim | [Read More](https://medium.com/p/051772d06476) |
+| Thu, 11 Dec 2025 23:00:20 GMT | Why AI, Quantum and Blockchain Are Converging — And Why the Storm Token Matters Now | Rhys Lenney | [Read More](https://medium.com/p/4fb19be3e055) |
+| Thu, 11 Dec 2025 22:56:44 GMT | my bitcoin was stolen how can I recover it” | Simonjustice | [Read More](https://medium.com/p/8d43883e1151) |
+| Thu, 11 Dec 2025 22:52:32 GMT | Business owners understand cybersecurity better than IT teams and here’s why | Fabien Soulis | [Read More](https://medium.com/p/dcefd30ecf1e) |
+| Thu, 11 Dec 2025 22:41:32 GMT | DareToExpose™ Exclusive Investigation | Daretoexpose | [Read More](https://medium.com/p/0dd1779c3e6b) |
+| Thu, 11 Dec 2025 22:34:57 GMT | What AI Actually Is (And Why Your Kid Needs to Know) | Halimah Olaolohun Abdul-Azeez | [Read More](https://medium.com/p/108ac855adb9) |
 | Thu, 11 Dec 2025 22:17:20 GMT | Stop Blaming Parents. Child Safety Online Is a System Failure, Not a User Error | Jeff Kingsland | [Read More](https://medium.com/p/9a8caca37b98) |
 | Thu, 11 Dec 2025 22:17:17 GMT | AI Agent Memory Security Requires More Observability | Valdez Ladd | [Read More](https://medium.com/p/b12053e39ff0) |
 | Thu, 11 Dec 2025 22:14:48 GMT | AERGO→HPP Token Swap & Migration | Barman | [Read More](https://medium.com/p/b6eea76f23ae) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 16:15:36 GMT | AI and Hacking: How Artificial Intelligence Is Transforming Cybersecurity | Bomi | [Read More](https://medium.com/p/a50489888e62) |
 | Thu, 11 Dec 2025 16:12:29 GMT | Understanding DLL Hijacking Risks In Modern Windows Systems | Geoffrey Wenger | [Read More](https://medium.com/p/3d78833ec80c) |
 | Thu, 11 Dec 2025 16:11:52 GMT | Should Both Garage Door Sensors Be Green: A Troubleshooting Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/1fda078e5827) |
-| Thu, 11 Dec 2025 16:11:21 GMT | As I prepare for the AWS Certified Security Specialty SCS-C03 exam, set for March 15, I am… | Gregory Raphael Jr. | [Read More](https://medium.com/p/164aa4abd003) |
-| Thu, 11 Dec 2025 16:08:33 GMT | How I Found 3 Logic Bugs by Thinking Like a Developer | Mohamed Abdelmoatie | [Read More](https://medium.com/p/5a561f6cf76f) |
-| Thu, 11 Dec 2025 16:03:26 GMT | Securing your server for newbies like me! | Furkancan Okal | [Read More](https://medium.com/p/db1df199d6cf) |
-| Thu, 11 Dec 2025 16:02:52 GMT | Study: 90% of Code Written via “Vibe Coding” Contains Security Vulnerabilities | Digital Minds | [Read More](https://medium.com/p/906e8bc27fca) |
-| Thu, 11 Dec 2025 16:01:30 GMT | SQL Injection: Definition, Examples, and How to Prevent It | bektiaw | [Read More](https://medium.com/p/b9b356eff25b) |
-| Thu, 11 Dec 2025 15:56:49 GMT | Retours sur Shai Hulud 2.0 | Jonathan Hervieux | [Read More](https://medium.com/p/fd4e17e800d9) |
-| Thu, 11 Dec 2025 15:56:06 GMT | Cloud Data Security Market: Safeguarding Digital Trust in a Hyper-Connected Era | Desouza Nancy | [Read More](https://medium.com/p/e7aa23c3dd4d) |
