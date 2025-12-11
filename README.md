@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 17:42:32 GMT | When HTML5 Videos Refuse to Play: Debugging the “Video File Not Found” Error on Ubuntu — 1/3 | Anzalo Quin | [Read More](https://medium.com/p/3ee8b035a03d) |
+| Thu, 11 Dec 2025 17:41:24 GMT | SIEM Explained Simply: A Beginner’s Guide to Security Monitoring & Threat Detection | Natarajan C K | [Read More](https://medium.com/p/3ec781a0322f) |
+| Thu, 11 Dec 2025 17:38:56 GMT | Your Fancy Cybersecurity Budget Is Wasted Money. Here’s What Actually Matters. | Hania Khan | [Read More](https://medium.com/p/477437829fc7) |
+| Thu, 11 Dec 2025 17:31:34 GMT | HTB CTF Write-Up: Meow | Paulo Melo | [Read More](https://medium.com/p/b49f08afe390) |
+| Thu, 11 Dec 2025 17:29:50 GMT | Cybercriminals Exploit Google Ads to Spread macOS Malware Through Fake AI Conversations | Technijian | [Read More](https://medium.com/p/bd35a90889ab) |
+| Thu, 11 Dec 2025 17:19:59 GMT | Inside the React RSC Flaw Now Powering Cloud Shell Takeovers and Secret Theft | Chetan Seripally | [Read More](https://medium.com/p/cfb39cf45fdf) |
 | Thu, 11 Dec 2025 17:09:50 GMT | Linux Bash Shell Cheat Sheet Explained Like You’re New to the Terminal | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/01c798bed10c) |
 | Thu, 11 Dec 2025 17:07:50 GMT | IDOR: Başkasının Verisine Ulaşmanın En Kolay Yolu | Halil İbrahim Kuş | [Read More](https://medium.com/p/75dccafc9d98) |
 | Thu, 11 Dec 2025 17:03:46 GMT | Clean Code in C#: A Step-by-Step Guide to SonarQube & .NET | Lakshitha Madhuwantha | [Read More](https://medium.com/p/d345173f2ef2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 13:02:31 GMT | The Hidden Translation Key: How a Simple Blog Page Revealed a Serious Security Flaw | Anshubind | [Read More](https://medium.com/p/381df9311402) |
 | Thu, 11 Dec 2025 12:59:16 GMT | Act Now: MCP Is the AI Threat No One Is Ready For | Rabia AMAAOUCH | [Read More](https://medium.com/p/97f05ce85fdc) |
 | Thu, 11 Dec 2025 12:56:57 GMT | Why You Should Check for WebRTC Leaks Before Browsing Securely | Anna Kolodkina | [Read More](https://medium.com/p/d46c5b337b0e) |
-| Thu, 11 Dec 2025 12:54:54 GMT | Auditing Solana Anchor constraints | Alexey Posikera | [Read More](https://medium.com/p/21e8543a51f3) |
-| Thu, 11 Dec 2025 12:51:20 GMT | Challenge DGSE x RootMe | Horus | [Read More](https://medium.com/p/bf895a33bd9f) |
-| Thu, 11 Dec 2025 12:49:37 GMT | Defender for Cloud vs. Sentinel: Which One Do You Need? | Techridge Solutions | [Read More](https://medium.com/p/c2ad902940b9) |
-| Thu, 11 Dec 2025 12:47:51 GMT | How Ledger eliminated multisig blind signing with the 1inch Swap API | 1inch | [Read More](https://medium.com/p/6fe689dfc0a7) |
-| Thu, 11 Dec 2025 12:38:57 GMT | The Invisible API Problem Costing Enterprises Millions — Here’s How ZeroThreat Finds It Fast | Kate Bennett | [Read More](https://medium.com/p/2ed34653d154) |
-| Thu, 11 Dec 2025 12:37:11 GMT | Top Cyber Security Services in Dubai for Businesses | TechCloud IT Services L.L.C. | [Read More](https://medium.com/p/30f835fe8056) |
