@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Dec 2025 05:42:15 GMT | Google XSS Game Solution | Blueorionn | [Read More](https://medium.com/p/425ce2539a58) |
+| Thu, 11 Dec 2025 05:39:03 GMT | Stored Cross-Site Scripting: HTML Context (Nothing Encoded) | Aditya Bhatt | [Read More](https://medium.com/p/1f63a3899cb2) |
+| Thu, 11 Dec 2025 05:29:24 GMT | Password Security Best Practices: Beyond ‘123456’ | Haxman | [Read More](https://medium.com/p/19350f3c1b13) |
+| Thu, 11 Dec 2025 05:27:49 GMT | AI in Cybersecurity: The Double-Edged Sword of 2025 | Haxman | [Read More](https://medium.com/p/303d7b9d0552) |
+| Thu, 11 Dec 2025 05:24:54 GMT | FCP_FGT_AD-7.6 Exam Insights: What to Expect & How to Score High | sabrina Pinto | [Read More](https://medium.com/p/37bb7649e191) |
+| Thu, 11 Dec 2025 05:24:27 GMT | React2Shell (CVE-2025–55182): The Deserialization Bug That Broke the Web ⚡ | Aditya Bhatt | [Read More](https://medium.com/p/569b41f8bb55) |
+| Thu, 11 Dec 2025 05:23:13 GMT | Limits, Threats, and Protections: How Indonesian Cyber ​​Law Regulates Our Digital Activities | Lutsvia | [Read More](https://medium.com/p/b5eed56e6a0a) |
+| Thu, 11 Dec 2025 05:19:58 GMT | What Is Grey Hat Hacking? | Soundaryaps | [Read More](https://medium.com/p/78452256154d) |
 | Thu, 11 Dec 2025 05:13:45 GMT | Bug Bounty Journey: From Discovery to $800 Reward | Milan Gautam | [Read More](https://medium.com/p/fa280a7d1205) |
 | Thu, 11 Dec 2025 05:12:27 GMT | Top Free AI Security Tools Every Cybersecurity Enthusiast Should Know in 2025 | pavani | [Read More](https://medium.com/p/73ca084810c3) |
 | Thu, 11 Dec 2025 05:07:40 GMT | The Network Layer — Network Series 2 | Mr.Cool | [Read More](https://medium.com/p/aab9ce5a9903) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Dec 2025 18:42:39 GMT | Using MITRE ATT&CK for Adversary Analysis | Ahmedhezema | [Read More](https://medium.com/p/0b5383e92c1e) |
 | Wed, 10 Dec 2025 18:39:56 GMT | Using custom AI agents with Google SecOps SOAR & MCPs and why I turned it off | Mike | [Read More](https://medium.com/p/928271ed05c3) |
 | Wed, 10 Dec 2025 18:33:16 GMT | How to Start a Career in Cybersecurity With No Experience | Himanshu Kumar | [Read More](https://medium.com/p/e21ad0fa544d) |
-| Wed, 10 Dec 2025 18:28:39 GMT | 8 Real Cyberattack Stories from Germany That Almost Destroyed Businesses | Cordula Boeck | [Read More](https://medium.com/p/0701fff543a6) |
-| Wed, 10 Dec 2025 18:26:47 GMT | Kendi Active Directory Lab Ortamınızı Kurun-III: Active Directory Güvenliği: Bölüm-7 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/d4ec2e4c489b) |
-| Wed, 10 Dec 2025 18:22:46 GMT | Fortinet:  Critical vulnerabilities — Different Products | SOCFortress | [Read More](https://medium.com/p/7432631af2f4) |
-| Wed, 10 Dec 2025 18:22:43 GMT | km tools | Bahaa Awad | [Read More](https://medium.com/p/5f9717f0d78d) |
-| Wed, 10 Dec 2025 18:16:09 GMT | Microsoft Finally Killed the Hidden Shortcut Bug After Years of Exploitation | Jbird | [Read More](https://medium.com/p/5c8e147d3776) |
-| Wed, 10 Dec 2025 18:12:12 GMT | Beyond Security: Integrating ISO 27001, GDPR, and SOC 2 for Holistic Trust | C.N. Husnul Izzati | [Read More](https://medium.com/p/34e9289b59d1) |
-| Wed, 10 Dec 2025 18:11:27 GMT | Beyond DP: Building Privacy Aware AI Pipelines for the Enterprise | Nishi Kaura | [Read More](https://medium.com/p/eb45fff4f068) |
-| Wed, 10 Dec 2025 18:08:30 GMT | Understanding the AI Shared Responsibility Model: A Comprehensive Framework for Security and Risk… | Juan Pablo Castro | [Read More](https://medium.com/p/9f5c11ea76e3) |
