@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 13:24:30 GMT | Cross‑Site WebSocket Hijacking: When target.com Listens to Evil.com | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/658afad330e0) |
+| Fri, 12 Dec 2025 13:16:58 GMT | Advent of Cyber 2025 Prep Track | Kshitij Gupta | [Read More](https://medium.com/p/1376237a73a7) |
+| Fri, 12 Dec 2025 13:08:24 GMT | The New AI Poisoning Attack Vector Scammers are Using NOW | Phil Stafford | [Read More](https://medium.com/p/dbc0f98b199f) |
+| Fri, 12 Dec 2025 12:59:44 GMT | I am a book. | Obiageli Eze | [Read More](https://medium.com/p/624d53060f40) |
+| Fri, 12 Dec 2025 12:57:27 GMT | Why Most Developers Write Insecure Code Without Realizing It | Hania Khan | [Read More](https://medium.com/p/097b1f74b6eb) |
+| Fri, 12 Dec 2025 12:57:24 GMT | PART 2: A Complete Guide to Microsoft Defender for Cloud Apps (MDCA) | BoNeZ | [Read More](https://medium.com/p/72fe36f256ba) |
+| Fri, 12 Dec 2025 12:56:34 GMT | Linux Threat Detection 2 Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/69d2cb8a2741) |
+| Fri, 12 Dec 2025 12:53:34 GMT | Decentralized Identity (DID): The Next Revolution in User Authentication | Codearies | [Read More](https://medium.com/p/0fa180d7068a) |
+| Fri, 12 Dec 2025 12:53:31 GMT | URGENT SECURITY ALERT for Next.js and React developers | Aemann Nueva | [Read More](https://medium.com/p/a1240b3daf47) |
+| Fri, 12 Dec 2025 12:50:18 GMT | Quantum Computing and the Impending Security Threats to Cryptocurrencies | Dejia Wang | [Read More](https://medium.com/p/24fc6639db63) |
 | Fri, 12 Dec 2025 12:49:08 GMT | What Is Driving Hyderabad’s Surge in Global Capability Centre? | sunainask2000 | [Read More](https://medium.com/p/d38d0e32f11f) |
 | Fri, 12 Dec 2025 12:31:11 GMT | What is Hello Future Technologies (HFT)? | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/cf3449ba270a) |
 | Fri, 12 Dec 2025 12:28:52 GMT | GPS Truck Tracking Device Trusted by 1,400+ Truck Owners | Top Tracking System | [Read More](https://medium.com/p/de57f9b4b723) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 07:45:11 GMT | Top Endpoint Security Mistakes That Cost Companies Millions — And How ANSI Technologies Helps You… | ANSI Technologies | [Read More](https://medium.com/p/b80f7ff55c15) |
 | Fri, 12 Dec 2025 07:42:25 GMT | The Dark Web of Pakistan’s Call Centers | Fizzah Ashraf | [Read More](https://medium.com/p/4e85311d847c) |
 | Fri, 12 Dec 2025 07:40:16 GMT | What I Wish I Knew About IT in Shanghai | Alex Graham | [Read More](https://medium.com/p/31e8394d2108) |
-| Fri, 12 Dec 2025 07:39:55 GMT | Python for Cybersecurity: Automating Vulnerability Discovery | Majidbasharat | [Read More](https://medium.com/p/14f3bc8bf6cf) |
-| Fri, 12 Dec 2025 07:37:37 GMT | FortiGate SSL / SSH Inspection: Şifreli Trafiğin Denetlenmesi ve Sertifika Yapısı | Furkan Ünlü | [Read More](https://medium.com/p/5bb609f59e65) |
-| Fri, 12 Dec 2025 07:37:27 GMT | The Corix Partners Friday Reading List — December 12, 2025 | JC Gaillard | [Read More](https://medium.com/p/3368a17cc7fc) |
-| Fri, 12 Dec 2025 07:29:09 GMT | Why is Ethical Hacking Important? | Hephziba | [Read More](https://medium.com/p/015f49b76313) |
-| Fri, 12 Dec 2025 07:28:07 GMT | Tải Vmos Pro Mod (Premium Apk) v3.1.2 | genzvnmod | [Read More](https://medium.com/p/0abef87d053e) |
-| Fri, 12 Dec 2025 07:26:55 GMT | Red Team Simulation: Multi-Stage Delivery, AV Bypass Analysis & Persistence with Havoc C2 : | Elmehdi Laassiri | [Read More](https://medium.com/p/b920f3bcc613) |
-| Fri, 12 Dec 2025 07:22:26 GMT | Your Simple Guide to the CISSP Certification | CybeCloud | [Read More](https://medium.com/p/1768e2f83f98) |
-| Fri, 12 Dec 2025 07:18:06 GMT | Transparency and Security: How We Integrate GDPR Principles in Every AI and Software Solution | Gyan Consulting | [Read More](https://medium.com/p/821efaf3a6d7) |
-| Fri, 12 Dec 2025 07:13:00 GMT | Why I started bug bounty in 2025 | Gilad | [Read More](https://medium.com/p/0d376f72a6bb) |
-| Fri, 12 Dec 2025 07:11:53 GMT | Strengthening Organizational Protection: Why Security Consulting Services and Security Training… | Ciss India | [Read More](https://medium.com/p/a6be33b44850) |
