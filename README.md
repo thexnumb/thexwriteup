@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 22:19:54 GMT | Cybersecurity Lab Reflection: Nmap & Scapy | Claudius Thompson | [Read More](https://medium.com/p/5bb7008d6a28) |
 | Fri, 12 Dec 2025 22:10:58 GMT | Passing ISC2 Certified in Cybersecurity Exam on Your First Try | Irene A. Gil | [Read More](https://medium.com/p/f1d93380f4b8) |
 | Fri, 12 Dec 2025 21:48:29 GMT | The Girl in the Mirror | Shianna Marie | [Read More](https://medium.com/p/72b816afb105) |
 | Fri, 12 Dec 2025 21:45:56 GMT | IDOR Privilege Escalation: Deleting Protected Accounts | Parth Narula | [Read More](https://medium.com/p/d5b26bfcf657) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 14:45:10 GMT | Wireshark Investigation — Malicious Google Authenticator Download | Muhammad Hassan Akhtar | [Read More](https://medium.com/p/47e5bdd6f3e5) |
 | Fri, 12 Dec 2025 14:41:23 GMT | H@cking Staff — Essential Devices Every Ethical Hacker Should Know | Mert Baykal | [Read More](https://medium.com/p/e162b2943403) |
 | Fri, 12 Dec 2025 14:35:57 GMT | Backup Lies — Why Your “Secured” Backups Aren’t Actually Recoverable | JSOC IT BLOG | [Read More](https://medium.com/p/624e0c478a3b) |
-| Fri, 12 Dec 2025 14:33:28 GMT | Spring Boot ve JWT: API’nizi Modern Yöntemlerle Koruyun | Baran Kaya | [Read More](https://medium.com/p/60285b3d84e4) |
