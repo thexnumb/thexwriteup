@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 21:12:51 GMT | The Two New RSC Vulnerabilities Every Next.js and React Developer Should Know About | Faisal haque | [Read More](https://medium.com/p/4cb101ebc0bc) |
+| Fri, 12 Dec 2025 21:10:55 GMT | Active Directory Delegation Abuse | Mal3vAntCtrl | [Read More](https://medium.com/p/ca7283944117) |
+| Fri, 12 Dec 2025 21:05:20 GMT | Voltaire in the Server Room: An Enlightenment Critique of Modern Cybersecurity Policy | CCD-IS | [Read More](https://medium.com/p/ff0e39b53c82) |
+| Fri, 12 Dec 2025 21:02:15 GMT | How to run SysReptor on Portainer | Jared Erlien | [Read More](https://medium.com/p/3e85872163ef) |
+| Fri, 12 Dec 2025 20:58:55 GMT | How a Single Mistyped Operator in GitHub Actions Triggered a $2,500 CI/CD Meltdown | FutureStack Academy | [Read More](https://medium.com/p/f8c99312fb90) |
+| Fri, 12 Dec 2025 20:47:44 GMT | WannaCry Ransomware Attack: The Global Cyber Outbreak That Changed Security Forever | Shivam | [Read More](https://medium.com/p/173c3efa9a8e) |
+| Fri, 12 Dec 2025 20:46:00 GMT | Building a Common Language: Core Concepts of Cyber Security for Insurers | Armin Mehraeen | [Read More](https://medium.com/p/f3a1ba235433) |
 | Fri, 12 Dec 2025 20:05:22 GMT | How Attackers Use Cloudflare to Launch and Mask Exploitation Attempts | Yealvare | [Read More](https://medium.com/p/fa70c9860e25) |
 | Fri, 12 Dec 2025 20:03:03 GMT | How a Single Mistyped Operator in GitHub Actions Triggered a $2,500 CI/CD Meltdown | FutureStack Academy | [Read More](https://medium.com/p/86180608d34e) |
 | Fri, 12 Dec 2025 20:01:35 GMT | Why Urology Practices Face Rising Cyber Risks: The Overlooked Vulnerabilities in Medical Imaging… | David Miller | [Read More](https://medium.com/p/a017b2b48d7d) |
@@ -26,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 19:08:51 GMT | React’s December Security Crisis: From React2Shell to Three Critical CVEs in 8 Days | Daniel Bogale | [Read More](https://medium.com/p/85e1e8cc9ef4) |
 | Fri, 12 Dec 2025 19:05:41 GMT | The Unwritten Playbook: What Actually Happens in a SOC | Sidharth Sunil | [Read More](https://medium.com/p/b25676a96ee6) |
 | Fri, 12 Dec 2025 19:01:50 GMT | The Constitution of Digital Physics | Chris Perkins | [Read More](https://medium.com/p/157e7e45c1b5) |
+| Fri, 12 Dec 2025 19:01:29 GMT | • Trusting & Feeling | The FoxMartin | [Read More](https://medium.com/p/3b702e65a51e) |
 | Fri, 12 Dec 2025 18:29:38 GMT | Assume Privileged Role with External ID : Pwned-Labs Walkthrough Part 1 | Maverick | [Read More](https://medium.com/p/7d97dbd77c2b) |
 | Fri, 12 Dec 2025 18:23:43 GMT | Advanced Container Security Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/ae773b8fa721) |
 | Fri, 12 Dec 2025 18:23:05 GMT | VPN Server Installation on Linux: Secure Remote Access with OpenVPN | Esra Kayhan | [Read More](https://medium.com/p/6a49878a1d9f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 14:23:04 GMT | Critical Security Vulnerability in React Server Components: What Developers Need to Know | Huzaifa Aslam | [Read More](https://medium.com/p/6b8c5efb9eb3) |
 | Fri, 12 Dec 2025 14:22:11 GMT | What is SSL Bridging and How Does It Work? | Dinu Gitlan | [Read More](https://medium.com/p/5c71c704a9e9) |
 | Fri, 12 Dec 2025 14:19:25 GMT | DOM XSS in innerHTML Sink (location.search → innerHTML) | Aditya Bhatt | [Read More](https://medium.com/p/e2c11b21a6cb) |
-| Fri, 12 Dec 2025 14:11:11 GMT | The Great Online Money Hunt: Real Bucks vs. Bogus Scams! | Lincoln j | [Read More](https://medium.com/p/e15301893fe4) |
-| Fri, 12 Dec 2025 14:09:42 GMT | Infinity Learning lab: EC2 Compromise — Writeup | Hubert | [Read More](https://medium.com/p/592fb031da31) |
-| Fri, 12 Dec 2025 14:06:02 GMT | How Multi-Channel CCTV Monitoring Works — Simplified for Everyone! | Paul Meyer | [Read More](https://medium.com/p/e44d298b5209) |
-| Fri, 12 Dec 2025 14:03:51 GMT | From Detection to Disclosure: Analysis and Documentation of an XSS in Microsoft | Rahul Hoysala | [Read More](https://medium.com/p/d0d7dc196460) |
-| Fri, 12 Dec 2025 14:02:24 GMT | 自動化測試 API 權限漏洞與 OpenAPI 安全性 | JH5 | [Read More](https://medium.com/p/e67142174be1) |
-| Fri, 12 Dec 2025 13:57:32 GMT | Securing AKS Web Applications with Azure AD and OAuth2 Proxy | Marouane Bouzida | [Read More](https://medium.com/p/a6f642366353) |
-| Fri, 12 Dec 2025 13:56:13 GMT | Hunting Bugs in the Shadows of a Global Energy Giant: The Reflected XSS Hidden in a VPN Portal | Anshubind | [Read More](https://medium.com/p/8f3b0cd9a441) |
-| Fri, 12 Dec 2025 13:55:39 GMT | When env.js Breaks Bad: How a Single File Exposed Critical Secrets in a Global Enterprise | Anshubind | [Read More](https://medium.com/p/f114b2f8613a) |
