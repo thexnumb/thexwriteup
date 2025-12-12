@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 22:10:58 GMT | Passing ISC2 Certified in Cybersecurity Exam on Your First Try | Irene A. Gil | [Read More](https://medium.com/p/f1d93380f4b8) |
+| Fri, 12 Dec 2025 21:48:29 GMT | The Girl in the Mirror | Shianna Marie | [Read More](https://medium.com/p/72b816afb105) |
+| Fri, 12 Dec 2025 21:45:56 GMT | IDOR Privilege Escalation: Deleting Protected Accounts | Parth Narula | [Read More](https://medium.com/p/d5b26bfcf657) |
 | Fri, 12 Dec 2025 21:32:40 GMT | Taming the Beast: How We Migrated a 25-Year-Old, 40TB Data Warehouse to BigQuery in 12 Months | Ford Credit Technology & Product Team | [Read More](https://medium.com/p/1336c1705d52) |
 | Fri, 12 Dec 2025 21:28:10 GMT | I Cracked the Code to Break Into Cybersecurity (And You Can Too) | Abdullah Javeed | [Read More](https://medium.com/p/b45b25513d2a) |
 | Fri, 12 Dec 2025 21:28:01 GMT | Beginners: Copy-Paste This ONE Trick = Free $100–$500 Bounties | Monika sharma | [Read More](https://medium.com/p/bf4978fdfaa9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 14:41:23 GMT | H@cking Staff — Essential Devices Every Ethical Hacker Should Know | Mert Baykal | [Read More](https://medium.com/p/e162b2943403) |
 | Fri, 12 Dec 2025 14:35:57 GMT | Backup Lies — Why Your “Secured” Backups Aren’t Actually Recoverable | JSOC IT BLOG | [Read More](https://medium.com/p/624e0c478a3b) |
 | Fri, 12 Dec 2025 14:33:28 GMT | Spring Boot ve JWT: API’nizi Modern Yöntemlerle Koruyun | Baran Kaya | [Read More](https://medium.com/p/60285b3d84e4) |
-| Fri, 12 Dec 2025 14:32:50 GMT | (Comptia A+) Understanding Malware: Types, Functions, and Symptoms | Vignesh R | [Read More](https://medium.com/p/9592d3c826f4) |
-| Fri, 12 Dec 2025 14:32:50 GMT | Who would you choose: someone who loves you, or someone you love? | Eilen Lexus | [Read More](https://medium.com/p/57299b6f8439) |
-| Fri, 12 Dec 2025 14:32:50 GMT | Layer 2 Explained Simply: The Secret Layer That Adds MAC Addresses | ajay devaliya | [Read More](https://medium.com/p/4bb21e114f6e) |
