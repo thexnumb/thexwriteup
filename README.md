@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 15:10:57 GMT | Agentic Trust Part II | Raymon Epping | [Read More](https://medium.com/p/3258909d82c0) |
+| Fri, 12 Dec 2025 15:02:41 GMT | AI Security & Compliance: Why Safe AI Will Decide the Future of Enterprise Innovation | Vasuki Upadhya | [Read More](https://medium.com/p/3f8d1e685c5a) |
+| Fri, 12 Dec 2025 15:02:40 GMT | Cyber Briefing: 2025.12.12 | CyberMaterial | [Read More](https://medium.com/p/046425902b44) |
+| Fri, 12 Dec 2025 15:02:40 GMT | Normalizing your Security Logs in Snowflake | Vince Luongo | [Read More](https://medium.com/p/dfa6de2cd0de) |
+| Fri, 12 Dec 2025 15:01:48 GMT | Day 12 — React2Shell CVE (The Mines) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/e2e350a9fdaf) |
+| Fri, 12 Dec 2025 14:59:46 GMT | Cryptojacking: Sessiz Kripto Madencileri ve Siber Tehdidin Gizli Yüzü | Hsdfsmvu | [Read More](https://medium.com/p/9d7391522f47) |
+| Fri, 12 Dec 2025 14:59:42 GMT | TryHackMe Writeup: NerdHerd | Berkay AĞGÜL | [Read More](https://medium.com/p/5d4f1c55bbc6) |
+| Fri, 12 Dec 2025 14:45:10 GMT | Wireshark Investigation — Malicious Google Authenticator Download | Muhammad Hassan Akhtar | [Read More](https://medium.com/p/47e5bdd6f3e5) |
+| Fri, 12 Dec 2025 14:41:23 GMT | H@cking Staff — Essential Devices Every Ethical Hacker Should Know | Mert Baykal | [Read More](https://medium.com/p/e162b2943403) |
 | Fri, 12 Dec 2025 14:35:57 GMT | Backup Lies — Why Your “Secured” Backups Aren’t Actually Recoverable | JSOC IT BLOG | [Read More](https://medium.com/p/624e0c478a3b) |
 | Fri, 12 Dec 2025 14:33:28 GMT | Spring Boot ve JWT: API’nizi Modern Yöntemlerle Koruyun | Baran Kaya | [Read More](https://medium.com/p/60285b3d84e4) |
 | Fri, 12 Dec 2025 14:32:50 GMT | (Comptia A+) Understanding Malware: Types, Functions, and Symptoms | Vignesh R | [Read More](https://medium.com/p/9592d3c826f4) |
@@ -27,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 14:09:42 GMT | Infinity Learning lab: EC2 Compromise — Writeup | Hubert | [Read More](https://medium.com/p/592fb031da31) |
 | Fri, 12 Dec 2025 14:06:02 GMT | How Multi-Channel CCTV Monitoring Works — Simplified for Everyone! | Paul Meyer | [Read More](https://medium.com/p/e44d298b5209) |
 | Fri, 12 Dec 2025 14:03:51 GMT | From Detection to Disclosure: Analysis and Documentation of an XSS in Microsoft | Rahul Hoysala | [Read More](https://medium.com/p/d0d7dc196460) |
+| Fri, 12 Dec 2025 14:02:24 GMT | 自動化測試 API 權限漏洞與 OpenAPI 安全性 | JH5 | [Read More](https://medium.com/p/e67142174be1) |
 | Fri, 12 Dec 2025 13:57:32 GMT | Securing AKS Web Applications with Azure AD and OAuth2 Proxy | Marouane Bouzida | [Read More](https://medium.com/p/a6f642366353) |
 | Fri, 12 Dec 2025 13:56:13 GMT | Hunting Bugs in the Shadows of a Global Energy Giant: The Reflected XSS Hidden in a VPN Portal | Anshubind | [Read More](https://medium.com/p/8f3b0cd9a441) |
 | Fri, 12 Dec 2025 13:55:39 GMT | When env.js Breaks Bad: How a Single File Exposed Critical Secrets in a Global Enterprise | Anshubind | [Read More](https://medium.com/p/f114b2f8613a) |
@@ -46,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 12:56:34 GMT | Linux Threat Detection 2 Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/69d2cb8a2741) |
 | Fri, 12 Dec 2025 12:53:34 GMT | Decentralized Identity (DID): The Next Revolution in User Authentication | Codearies | [Read More](https://medium.com/p/0fa180d7068a) |
 | Fri, 12 Dec 2025 12:53:31 GMT | URGENT SECURITY ALERT for Next.js and React developers | Aemann Nueva | [Read More](https://medium.com/p/a1240b3daf47) |
+| Fri, 12 Dec 2025 12:52:40 GMT | Advent of Cyber 2025 Day 11-XSS Merry XSSMas- TryHackMe | Md Amjad | [Read More](https://medium.com/p/31dfd28694f4) |
 | Fri, 12 Dec 2025 12:50:18 GMT | Quantum Computing and the Impending Security Threats to Cryptocurrencies | Dejia Wang | [Read More](https://medium.com/p/24fc6639db63) |
 | Fri, 12 Dec 2025 12:49:08 GMT | What Is Driving Hyderabad’s Surge in Global Capability Centre? | sunainask2000 | [Read More](https://medium.com/p/d38d0e32f11f) |
 | Fri, 12 Dec 2025 12:31:11 GMT | What is Hello Future Technologies (HFT)? | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/cf3449ba270a) |
@@ -78,6 +89,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 11:02:18 GMT | Signal Theft for Beginners: How Your Devices Gossip Behind Your Back | Franziska "Ziska" Fink | [Read More](https://medium.com/p/e5664595c672) |
 | Fri, 12 Dec 2025 10:58:11 GMT | Java Spring Boot ile Red Team Aracı Geliştirmek | mintercoder | [Read More](https://medium.com/p/07da03a8144e) |
 | Fri, 12 Dec 2025 10:56:39 GMT | ? | Adeoluwa Obadofin | [Read More](https://medium.com/p/86585dfabcb5) |
+| Fri, 12 Dec 2025 10:55:06 GMT | Top 5 Importance of Cyber Security Tools for Small and Medium Businesses | Accotequs | [Read More](https://medium.com/p/a1ce04a4693b) |
 | Fri, 12 Dec 2025 10:46:38 GMT | Inside America’s Secret Surveillance Machine | PAUL WOODTHORPE | [Read More](https://medium.com/p/fb9b42706437) |
 | Fri, 12 Dec 2025 10:45:57 GMT | Network Trafik Analizi: Kaynaklar ve Temel Akışlar (Sources and Flows) | Ertan Caner Eskici | [Read More](https://medium.com/p/3a7f4734fdcc) |
 | Fri, 12 Dec 2025 10:43:01 GMT | From Why to How: Azure Lighthouse for MSSPs, and Cross‑Tenant Sentinel at Scale | Ahmed Monsri | [Read More](https://medium.com/p/6d753c2ff475) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 09:50:27 GMT | AI-Powered Cybersecurity in the Digital Era: Key Risks, Challenges & Strategic Solutions | ICUBE TECHNOLABS | [Read More](https://medium.com/p/8366a0a54481) |
 | Fri, 12 Dec 2025 09:42:16 GMT | AI Poisoning! Cybersecurity’s Next Global Challenge? | Creative Clicks | [Read More](https://medium.com/p/f28b68b8d08e) |
 | Fri, 12 Dec 2025 09:37:37 GMT | Why I Respect Hackers More Than Compliance Officers | Motasem Hamdan | [Read More](https://medium.com/p/7e014b8bbb4f) |
-| Fri, 12 Dec 2025 09:35:18 GMT | Cybersecurity in 2025: What Businesses Need | Devarshi Acharya | [Read More](https://medium.com/p/611278245aa1) |
-| Fri, 12 Dec 2025 09:35:09 GMT | Deepfake Scams Are Becoming Impossible to Detect- Here’s Why | Jordan Tate | [Read More](https://medium.com/p/36e239ec7f2d) |
-| Fri, 12 Dec 2025 09:32:18 GMT | How to Perform API Penetration Testing: Tools, Attacks, and Real Examples | Muhammed Midlaj | [Read More](https://medium.com/p/36551a65a1d4) |
-| Fri, 12 Dec 2025 09:31:41 GMT | Security Solutions for Retail Stores in Toronto | Square Security Inc. | [Read More](https://medium.com/p/581d51bc97ad) |
-| Fri, 12 Dec 2025 09:30:18 GMT | Day 10: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/7ba6194423e9) |
-| Fri, 12 Dec 2025 09:16:46 GMT | Mastering Mutual TLS in WSO2 APIM: Dynamic SSL Profiles for Backend Security | Chethan B S | [Read More](https://medium.com/p/2db9b2139f4a) |
-| Fri, 12 Dec 2025 09:12:31 GMT | How to Know our Phone Is Hacked — Signs, Real Examples & Protection Tips (2025) | AMAL AJI | [Read More](https://medium.com/p/43bc5631c922) |
-| Fri, 12 Dec 2025 09:08:01 GMT | Agentic Interoperability is Grounded in Containment, Not Control | Paul Knowles | [Read More](https://medium.com/p/c0105da55556) |
-| Fri, 12 Dec 2025 09:01:35 GMT | “Burp Suite for Dumb Humans: The Ultimate Click-By-Click Beginner Guide” | ghostyjoe | [Read More](https://medium.com/p/15f1cffe7603) |
-| Fri, 12 Dec 2025 09:00:37 GMT | NIST’s “QPV” Mindset: Turning Post-Quantum Risk Into Measurable Readiness | Barbaros Emre Alagöz | [Read More](https://medium.com/p/ee16f06e7013) |
-| Fri, 12 Dec 2025 08:58:04 GMT | Why Organizations Need a Structured Security Governance Model | Rahman Iqbal | [Read More](https://medium.com/p/9ad71c421379) |
-| Fri, 12 Dec 2025 08:57:34 GMT | How to Protect Your Accounts Online | Akshaya Mary Lingala | [Read More](https://medium.com/p/f6342cdc7790) |
