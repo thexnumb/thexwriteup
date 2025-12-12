@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 03:04:51 GMT | ZKpass: The Secret Key to Web3’s Digital Identity Revolution | sukma ramantika | [Read More](https://medium.com/p/aa9545585325) |
+| Fri, 12 Dec 2025 02:39:45 GMT | แจ้งเตือนช่องโหว่ร้ายแรงใน Apache Tika CVE-2025–66516 ความรุนแรงระดับ 10 ตรวจสอบและแก้ไข ด่วน!! | ThaiCERT By NCSA | [Read More](https://medium.com/p/c094e793e9c1) |
+| Fri, 12 Dec 2025 02:26:44 GMT | Why SilentWire Cybersecurity Delivers What Other Firms Promise | SilentWire Cybersecurity | [Read More](https://medium.com/p/8f4d343c73e3) |
+| Fri, 12 Dec 2025 02:18:19 GMT | XSS — Merry XSSMas | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/6346833c57e0) |
+| Fri, 12 Dec 2025 02:09:47 GMT | A Complete Guide to Computer Viruses: Everything You’ve Seen, Heard About, or Even Experienced But… | Su Bak | [Read More](https://medium.com/p/622b4d99baa4) |
+| Fri, 12 Dec 2025 02:01:11 GMT | Ataque de 51% em Blockchains Proof of Work: Funcionamento, Casos Reais e Medidas de Prevenção | Kelvenr | [Read More](https://medium.com/p/9d9bc240981d) |
+| Fri, 12 Dec 2025 01:50:54 GMT | How SilentWire Cybersecurity Solves the Cost–Quality Gap | SilentWire Cybersecurity | [Read More](https://medium.com/p/c5ac92e4eeb6) |
 | Fri, 12 Dec 2025 01:45:35 GMT | When “Cancel Order” Becomes “Access Granted” — Blind SQL Injection | Waleed Osama | [Read More](https://medium.com/p/669fdb830958) |
 | Fri, 12 Dec 2025 01:19:07 GMT | Does turning off wifi affect the way a VPN works? Quick facts | Millie Bobby | [Read More](https://medium.com/p/8391eba2dc4d) |
 | Fri, 12 Dec 2025 01:02:33 GMT | 2025 National Security Strategy Validates Core Thesis of “Asymmetric Warfare: Strategies and… | Josh Luberisse | [Read More](https://medium.com/p/6786bbf4ce94) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 17:29:50 GMT | Cybercriminals Exploit Google Ads to Spread macOS Malware Through Fake AI Conversations | Technijian | [Read More](https://medium.com/p/bd35a90889ab) |
 | Thu, 11 Dec 2025 17:19:59 GMT | Inside the React RSC Flaw Now Powering Cloud Shell Takeovers and Secret Theft | Chetan Seripally | [Read More](https://medium.com/p/cfb39cf45fdf) |
 | Thu, 11 Dec 2025 17:16:16 GMT | VS Code + GitHub: The Easiest Way to Upload Your Project | Shreya Patel | [Read More](https://medium.com/p/c4a919ecda7b) |
-| Thu, 11 Dec 2025 17:09:50 GMT | Linux Bash Shell Cheat Sheet Explained Like You’re New to the Terminal | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/01c798bed10c) |
-| Thu, 11 Dec 2025 17:07:50 GMT | IDOR: Başkasının Verisine Ulaşmanın En Kolay Yolu | Halil İbrahim Kuş | [Read More](https://medium.com/p/75dccafc9d98) |
-| Thu, 11 Dec 2025 17:03:46 GMT | Clean Code in C#: A Step-by-Step Guide to SonarQube & .NET | Lakshitha Madhuwantha | [Read More](https://medium.com/p/d345173f2ef2) |
-| Thu, 11 Dec 2025 17:02:13 GMT | Learning the Fundamentals of Cybersecurity — Part 2, The MITRE ATT&CK Framework | Michael H. | [Read More](https://medium.com/p/c6623bd6baf3) |
-| Thu, 11 Dec 2025 16:57:39 GMT | Digital Twins: The Silent New Powerhouse in Cybersecurity | Morteza saberikamarposhti | [Read More](https://medium.com/p/2b4cbb759f38) |
-| Thu, 11 Dec 2025 16:57:26 GMT | Simple Steganography: Hiding Text Messages Using Python Hex Encoding | Udita Kumari | [Read More](https://medium.com/p/0c17b89da928) |
-| Thu, 11 Dec 2025 16:54:24 GMT | Basics of Networking : TCP/IP Model | alizadasec | [Read More](https://medium.com/p/8563855a77db) |
