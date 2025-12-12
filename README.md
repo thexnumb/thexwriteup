@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 10:45:57 GMT | Network Trafik Analizi: Kaynaklar ve Temel Akışlar (Sources and Flows) | Ertan Caner Eskici | [Read More](https://medium.com/p/3a7f4734fdcc) |
+| Fri, 12 Dec 2025 10:36:08 GMT | Top 7 Secure Browsers I Use for Safe, Private, and Secure Browsing (2026 Edition) | John Muconto | [Read More](https://medium.com/p/1755253b346d) |
+| Fri, 12 Dec 2025 10:29:50 GMT | Jaguar Land Rover Confirms Data Exposure After Major Cyber-Attack | Jared Douville | [Read More](https://medium.com/p/9c7f61a96dc3) |
+| Fri, 12 Dec 2025 10:28:56 GMT | AI in Cyber Law: Transforming Privacy Policy Analysis, Legal Research, and Cybersecurity Incident… | Chinmay gowda M Harish | [Read More](https://medium.com/p/0686638fe554) |
+| Fri, 12 Dec 2025 10:27:47 GMT | Day 11: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/5d1e93d5f940) |
+| Fri, 12 Dec 2025 10:25:09 GMT | Why Zero Trust Services Are Essential for Modern Business Security | NG Cloud Security | [Read More](https://medium.com/p/2f5c3498e601) |
+| Fri, 12 Dec 2025 10:24:53 GMT | That One Morning: The SaaS App That Haunted My Career | Zahra Bibi | [Read More](https://medium.com/p/3cf33b6f406a) |
+| Fri, 12 Dec 2025 10:24:50 GMT | South Africa’s Data Centre Boom and the Looming Resource Crisis | Mystic Matt | [Read More](https://medium.com/p/088f23a27a4b) |
+| Fri, 12 Dec 2025 10:24:15 GMT | Strengthening Digital Defense: A Complete Guide to Cybersecurity Services by L4RG | Vijay Singh Bisht | [Read More](https://medium.com/p/c967f52acd16) |
 | Fri, 12 Dec 2025 10:18:13 GMT | How I Earned ₹22,000 Just by Reporting “P5” Bugs (OSINT trick) | Rajankumarbarik | [Read More](https://medium.com/p/7effa189bdb8) |
+| Fri, 12 Dec 2025 10:17:27 GMT | “Hands”- A poem | bre ♡ | [Read More](https://medium.com/p/32de67788c0f) |
 | Fri, 12 Dec 2025 10:11:08 GMT | Year-End Offer RHCSA and RHCE Training | Manisha Chaudhary | [Read More](https://medium.com/p/18ed3216d4b9) |
 | Fri, 12 Dec 2025 10:04:39 GMT | Landslide Detection in Chitral District Using Sentinel-1 SAR & Google Earth Engine (GEE) | Afedullah | [Read More](https://medium.com/p/29d1cbae8138) |
 | Fri, 12 Dec 2025 10:01:40 GMT | “Embracing Vulnerability: The Key to True Integrity and a Balanced Life You Deserve” | Binte Habib | [Read More](https://medium.com/p/fd6384807443) |
@@ -103,13 +113,3 @@ Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d
 | Fri, 12 Dec 2025 05:27:31 GMT | A Trusted Measure of Strong Organizational Cyber Standards | Kadhijahafiya | [Read More](https://medium.com/p/e7fd465ab471) |
 | Fri, 12 Dec 2025 05:25:33 GMT | Why Warehouse & Distribution Security Matters More Than Ever — And How World Guardian Delivers… | Hirasarfraz | [Read More](https://medium.com/p/e3ea63478f30) |
 | Fri, 12 Dec 2025 05:14:18 GMT | Bite Your Tongue | Clementine Illy | [Read More](https://medium.com/p/49fdd636aba3) |
-| Fri, 12 Dec 2025 05:13:59 GMT | Warehouse & Distribution Security: Protect Your Facility with World Guardian | Hirasarfraz | [Read More](https://medium.com/p/8401aad463db) |
-| Fri, 12 Dec 2025 05:13:34 GMT | How Hackers Actually Hack Instagram Accounts and How You Can Stop Them | Noorul Ameen | [Read More](https://medium.com/p/1db66c9f0fb4) |
-| Fri, 12 Dec 2025 05:10:26 GMT | Emerging Data Security Trends: What Businesses Need to Prepare for by 2026 | Techridge Solutions | [Read More](https://medium.com/p/9e1499cab139) |
-| Fri, 12 Dec 2025 05:10:12 GMT | Understanding the Kill Chain: From Reconnaissance to Exploitation | ZAYN | [Read More](https://medium.com/p/2bdeea5b9ee9) |
-| Fri, 12 Dec 2025 05:02:14 GMT | THE CALL — Tale #9. | Dean Natukunda | [Read More](https://medium.com/p/bcfd36d66b55) |
-| Fri, 12 Dec 2025 04:51:29 GMT | Unmasking the King: A Strategic Threat Profile of LockBit 5.0 | Zacdmw | [Read More](https://medium.com/p/60d56da100d9) |
-| Fri, 12 Dec 2025 04:48:59 GMT | REACT2SHELL EXPLOITATION | Rakesh Krishnan | [Read More](https://medium.com/p/ed8c06a29432) |
-| Fri, 12 Dec 2025 04:48:31 GMT | Blockchain Secrets: The New Era of Data Security and Privacy | Kerala Blockchain Academy | [Read More](https://medium.com/p/e52abf1c5d45) |
-| Fri, 12 Dec 2025 04:32:17 GMT | Social Media & Messaging: Where Privacy Goes to Die | Raghunandan J | [Read More](https://medium.com/p/c472e1ffa1f9) |
-| Fri, 12 Dec 2025 04:32:03 GMT | Top 10 IT Challenges for 2026 | HostNOC | [Read More](https://medium.com/p/e1c096de6c16) |
