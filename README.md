@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 09:37:37 GMT | Why I Respect Hackers More Than Compliance Officers | Motasem Hamdan | [Read More](https://medium.com/p/7e014b8bbb4f) |
+| Fri, 12 Dec 2025 09:35:18 GMT | Cybersecurity in 2025: What Businesses Need | Devarshi Acharya | [Read More](https://medium.com/p/611278245aa1) |
+| Fri, 12 Dec 2025 09:35:09 GMT | Deepfake Scams Are Becoming Impossible to Detect- Here’s Why | Jordan Tate | [Read More](https://medium.com/p/36e239ec7f2d) |
+| Fri, 12 Dec 2025 09:32:18 GMT | How to Perform API Penetration Testing: Tools, Attacks, and Real Examples | Muhammed Midlaj | [Read More](https://medium.com/p/36551a65a1d4) |
+| Fri, 12 Dec 2025 09:31:41 GMT | Security Solutions for Retail Stores in Toronto | Square Security Inc. | [Read More](https://medium.com/p/581d51bc97ad) |
+| Fri, 12 Dec 2025 09:30:18 GMT | Day 10: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/7ba6194423e9) |
 | Fri, 12 Dec 2025 09:16:46 GMT | Mastering Mutual TLS in WSO2 APIM: Dynamic SSL Profiles for Backend Security | Chethan B S | [Read More](https://medium.com/p/2db9b2139f4a) |
 | Fri, 12 Dec 2025 09:12:31 GMT | How to Know our Phone Is Hacked — Signs, Real Examples & Protection Tips (2025) | AMAL AJI | [Read More](https://medium.com/p/43bc5631c922) |
 | Fri, 12 Dec 2025 09:08:01 GMT | Agentic Interoperability is Grounded in Containment, Not Control | Paul Knowles | [Read More](https://medium.com/p/c0105da55556) |
@@ -60,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 07:06:12 GMT | XSS — Merry XSSMas — Writeup(DAY 11— Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/5a1b014dc23d) |
 | Fri, 12 Dec 2025 07:04:09 GMT | The Truth About Believing the Dollar Would Save Me After Five Years | Jerry Nelson | [Read More](https://medium.com/p/d0cca414e1a0) |
 | Fri, 12 Dec 2025 06:55:54 GMT | Tải Dead Cells APK (MOD Việt Hóa, Không Quảng Cáo) v3.5.9 | Bandisharecx | [Read More](https://medium.com/p/df3ba416e872) |
+| Fri, 12 Dec 2025 06:49:56 GMT | How Variable Data Technology is Transforming Postcard & Brochure Campaigns in 2025 | Sonu Ahir | [Read More](https://medium.com/p/33b15ab72a3a) |
 | Fri, 12 Dec 2025 06:49:32 GMT | Top Commercial Roofing Companies for Residential Roof Replacement by a Trusted Roofing Company San… | Kidd Roofing | [Read More](https://medium.com/p/3f67bf6f0b7f) |
 | Fri, 12 Dec 2025 06:46:39 GMT | My Automated Recon Workflow: The “LeetEnum” Script | Aman Kumar (ak) | [Read More](https://medium.com/p/e1a3fb972023) |
 | Fri, 12 Dec 2025 06:46:10 GMT | How Quantum Computing Could Impact Encryption in the Next 5 Years | Ghulamabbas | [Read More](https://medium.com/p/714284523c7b) |
@@ -72,6 +79,7 @@ Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d
 | Fri, 12 Dec 2025 06:32:49 GMT | Boosting Small Business Efficiency with Remote IT Support for Small Business | IT Company | [Read More](https://medium.com/p/5e7ea82be723) |
 | Fri, 12 Dec 2025 06:31:45 GMT | Hackers4Justice: The Origin Story | SirHaxAlot | [Read More](https://medium.com/p/2742d5fbb0c1) |
 | Fri, 12 Dec 2025 06:28:48 GMT | Why Cybersecurity Should Be Part of Your App Development Process | Telepathy Infotech | [Read More](https://medium.com/p/c289a7fd3778) |
+| Fri, 12 Dec 2025 06:25:10 GMT | Affordable Cybersecurity Services for Small Businesses | Maxatlasofficial | [Read More](https://medium.com/p/ecac9178005b) |
 | Fri, 12 Dec 2025 06:17:46 GMT | Threat Modeling a Cloud SOC Log Ingestion & Detection Pipeline Using STRIDE | Currantejwani | [Read More](https://medium.com/p/88a31e5569e1) |
 | Fri, 12 Dec 2025 06:11:59 GMT | Cyber-Resilience and Economic Statecraft: The G7’s Diplomatic Push for Collective Financial Defense | CCD-IS | [Read More](https://medium.com/p/60be66634f41) |
 | Fri, 12 Dec 2025 06:02:12 GMT | U.S. Would Lose Taiwan War | Vic Langston | [Read More](https://medium.com/p/8691fea27c79) |
@@ -105,11 +113,3 @@ Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d
 | Fri, 12 Dec 2025 02:26:44 GMT | Why SilentWire Cybersecurity Delivers What Other Firms Promise | SilentWire Cybersecurity | [Read More](https://medium.com/p/8f4d343c73e3) |
 | Fri, 12 Dec 2025 02:18:19 GMT | XSS — Merry XSSMas | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/6346833c57e0) |
 | Fri, 12 Dec 2025 02:09:47 GMT | A Complete Guide to Computer Viruses: Everything You’ve Seen, Heard About, or Even Experienced But… | Su Bak | [Read More](https://medium.com/p/622b4d99baa4) |
-| Fri, 12 Dec 2025 02:01:11 GMT | Ataque de 51% em Blockchains Proof of Work: Funcionamento, Casos Reais e Medidas de Prevenção | Kelvenr | [Read More](https://medium.com/p/9d9bc240981d) |
-| Fri, 12 Dec 2025 01:50:54 GMT | How SilentWire Cybersecurity Solves the Cost–Quality Gap | SilentWire Cybersecurity | [Read More](https://medium.com/p/c5ac92e4eeb6) |
-| Fri, 12 Dec 2025 01:45:35 GMT | When “Cancel Order” Becomes “Access Granted” — Blind SQL Injection | Waleed Osama | [Read More](https://medium.com/p/669fdb830958) |
-| Fri, 12 Dec 2025 01:19:07 GMT | Does turning off wifi affect the way a VPN works? Quick facts | Millie Bobby | [Read More](https://medium.com/p/8391eba2dc4d) |
-| Fri, 12 Dec 2025 01:02:33 GMT | 2025 National Security Strategy Validates Core Thesis of “Asymmetric Warfare: Strategies and… | Josh Luberisse | [Read More](https://medium.com/p/6786bbf4ce94) |
-| Fri, 12 Dec 2025 01:00:52 GMT | How DareToExpose™ Uncovered 25 Years of Digital Surveillance | Daretoexpose | [Read More](https://medium.com/p/1b630506caef) |
-| Fri, 12 Dec 2025 00:52:01 GMT | Interesting Bug Bounty Findings I found in Android Application | m_kamal | [Read More](https://medium.com/p/3fa75b69cb19) |
-| Fri, 12 Dec 2025 00:51:33 GMT | What Is API Security and Why Should WE Care? | Hafsah Ashraf | [Read More](https://medium.com/p/4161e73a2ca6) |
