@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 05:36:16 GMT | Using Residential Proxies to Keep Multi-Account Social Media Profiles Alive | BitFlux | [Read More](https://medium.com/p/0c3f6a6151f1) |
+| Fri, 12 Dec 2025 05:32:15 GMT | The Password Everyone Uses That Hackers Can’t Crack | MyNextDeveloper | [Read More](https://medium.com/p/cb562892aef8) |
+| Fri, 12 Dec 2025 05:27:31 GMT | A Trusted Measure of Strong Organizational Cyber Standards | Kadhijahafiya | [Read More](https://medium.com/p/e7fd465ab471) |
+| Fri, 12 Dec 2025 05:25:33 GMT | Why Warehouse & Distribution Security Matters More Than Ever — And How World Guardian Delivers… | Hirasarfraz | [Read More](https://medium.com/p/e3ea63478f30) |
 | Fri, 12 Dec 2025 05:14:18 GMT | Bite Your Tongue | Clementine Illy | [Read More](https://medium.com/p/49fdd636aba3) |
 | Fri, 12 Dec 2025 05:13:59 GMT | Warehouse & Distribution Security: Protect Your Facility with World Guardian | Hirasarfraz | [Read More](https://medium.com/p/8401aad463db) |
 | Fri, 12 Dec 2025 05:13:34 GMT | How Hackers Actually Hack Instagram Accounts and How You Can Stop Them | Noorul Ameen | [Read More](https://medium.com/p/1db66c9f0fb4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 18:29:53 GMT | AI Hackers Outperform Humans: Stanford Bots Breach Networks Alone | Coby Mendoza | [Read More](https://medium.com/p/22bb7099afec) |
 | Thu, 11 Dec 2025 18:20:03 GMT | The Future of Security: Next-Generation Security Systems Shaping the Digital Age | Ugochukwu Bernard Anyaogu-Ben | [Read More](https://medium.com/p/fbe2b5657ede) |
 | Thu, 11 Dec 2025 18:15:23 GMT | Advent of Cyber 2025 - Day 11: XSS - Merry XSSMas | Akshat Patel | [Read More](https://medium.com/p/4329d6b880e3) |
-| Thu, 11 Dec 2025 18:05:48 GMT | Azure Recon to Foothold and Profit : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/3b1fd9fc5059) |
-| Thu, 11 Dec 2025 18:05:38 GMT | XSS — Merry XSSMas -Try Hack ME Walkthrough | Fazal | [Read More](https://medium.com/p/e2c6ad72c2fc) |
-| Thu, 11 Dec 2025 18:02:13 GMT | HackTheBox Fawn: FTP Fundamentals | SoBatista | [Read More](https://medium.com/p/4c1ce391c387) |
-| Thu, 11 Dec 2025 18:01:47 GMT | OSINT Under the Hood: OPSEC for the OSINT Researcher | Rabail Zaheer | [Read More](https://medium.com/p/2fbc4988e2ff) |
