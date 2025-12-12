@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 23:10:08 GMT | Ransomware in 2025: What Every Small and Midsize Business Needs to Know to Stay Protected | Configr Technologies | [Read More](https://medium.com/p/bb97677fdc76) |
+| Fri, 12 Dec 2025 23:06:44 GMT | Cyberattack Warning: MacStealer Malware Spread Through Fake ChatGPT Prompts | AI THOUGHT | [Read More](https://medium.com/p/edc3ac0bc19f) |
+| Fri, 12 Dec 2025 23:05:04 GMT | Exploring Network Traffic Analysis and Manipulation Techniques | Seun odebode | [Read More](https://medium.com/p/462dde68df67) |
+| Fri, 12 Dec 2025 23:04:17 GMT | “Contextual Hacking”: A Guide To Active Reconnaissance & Vulnerability Exploitation | Entit_y | [Read More](https://medium.com/p/41b266516a5a) |
+| Fri, 12 Dec 2025 22:56:16 GMT | Understanding Bot Protection on Cloudflare: Features, Data, and Practical Analysis | SYJ's Learning Diary | [Read More](https://medium.com/p/446badcebd9b) |
+| Fri, 12 Dec 2025 22:49:53 GMT | Israeli cybersecurity funding soars to $4.4 billion, up 46% in 2025 | Defence Affairs & Analysis | [Read More](https://medium.com/p/99e34cf24a03) |
+| Fri, 12 Dec 2025 22:34:10 GMT | LastPass Fined 2 Million by UK Regulators for Data Breaches | Matthew.Rosenquist | [Read More](https://medium.com/p/470ff43a34a6) |
 | Fri, 12 Dec 2025 22:19:54 GMT | Cybersecurity Lab Reflection: Nmap & Scapy | Claudius Thompson | [Read More](https://medium.com/p/5bb7008d6a28) |
 | Fri, 12 Dec 2025 22:10:58 GMT | Passing ISC2 Certified in Cybersecurity Exam on Your First Try | Irene A. Gil | [Read More](https://medium.com/p/f1d93380f4b8) |
 | Fri, 12 Dec 2025 21:48:29 GMT | The Girl in the Mirror | Shianna Marie | [Read More](https://medium.com/p/72b816afb105) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 15:10:57 GMT | Agentic Trust Part II | Raymon Epping | [Read More](https://medium.com/p/3258909d82c0) |
 | Fri, 12 Dec 2025 15:02:41 GMT | AI Security & Compliance: Why Safe AI Will Decide the Future of Enterprise Innovation | Vasuki Upadhya | [Read More](https://medium.com/p/3f8d1e685c5a) |
 | Fri, 12 Dec 2025 15:02:40 GMT | Cyber Briefing: 2025.12.12 | CyberMaterial | [Read More](https://medium.com/p/046425902b44) |
-| Fri, 12 Dec 2025 15:02:40 GMT | Normalizing your Security Logs in Snowflake | Vince Luongo | [Read More](https://medium.com/p/dfa6de2cd0de) |
-| Fri, 12 Dec 2025 15:01:48 GMT | Day 12 — React2Shell CVE (The Mines) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/e2e350a9fdaf) |
-| Fri, 12 Dec 2025 14:59:46 GMT | Cryptojacking: Sessiz Kripto Madencileri ve Siber Tehdidin Gizli Yüzü | Hsdfsmvu | [Read More](https://medium.com/p/9d7391522f47) |
-| Fri, 12 Dec 2025 14:59:42 GMT | TryHackMe Writeup: NerdHerd | Berkay AĞGÜL | [Read More](https://medium.com/p/5d4f1c55bbc6) |
-| Fri, 12 Dec 2025 14:45:10 GMT | Wireshark Investigation — Malicious Google Authenticator Download | Muhammad Hassan Akhtar | [Read More](https://medium.com/p/47e5bdd6f3e5) |
-| Fri, 12 Dec 2025 14:41:23 GMT | H@cking Staff — Essential Devices Every Ethical Hacker Should Know | Mert Baykal | [Read More](https://medium.com/p/e162b2943403) |
-| Fri, 12 Dec 2025 14:35:57 GMT | Backup Lies — Why Your “Secured” Backups Aren’t Actually Recoverable | JSOC IT BLOG | [Read More](https://medium.com/p/624e0c478a3b) |
