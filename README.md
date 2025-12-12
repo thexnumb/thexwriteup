@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 07:22:26 GMT | Your Simple Guide to the CISSP Certification | CybeCloud | [Read More](https://medium.com/p/1768e2f83f98) |
+| Fri, 12 Dec 2025 07:18:06 GMT | Transparency and Security: How We Integrate GDPR Principles in Every AI and Software Solution | Gyan Consulting | [Read More](https://medium.com/p/821efaf3a6d7) |
+| Fri, 12 Dec 2025 07:13:00 GMT | Why I started bug bounty in 2025 | Gilad | [Read More](https://medium.com/p/0d376f72a6bb) |
+| Fri, 12 Dec 2025 07:11:53 GMT | Strengthening Organizational Protection: Why Security Consulting Services and Security Training… | Ciss India | [Read More](https://medium.com/p/a6be33b44850) |
+| Fri, 12 Dec 2025 07:09:34 GMT | Tải Hack Dead Rail Apk + Script (Auto Win, Kill Aura, AimBot) | Game4u | [Read More](https://medium.com/p/553ef4436734) |
+| Fri, 12 Dec 2025 07:08:09 GMT | OSINT Mapping Toolkit: 25 Essential Tools Every Large Organization Should Master | Very Lazy Tech | [Read More](https://medium.com/p/34b275a8ac25) |
+| Fri, 12 Dec 2025 07:08:07 GMT | Precision Forensics Through Automation: A Look Inside TronScript | Pritish Bali | [Read More](https://medium.com/p/5de11f8b4056) |
+| Fri, 12 Dec 2025 07:06:12 GMT | XSS — Merry XSSMas — Writeup(DAY 11— Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/5a1b014dc23d) |
+| Fri, 12 Dec 2025 07:04:09 GMT | The Truth About Believing the Dollar Would Save Me After Five Years | Jerry Nelson | [Read More](https://medium.com/p/d0cca414e1a0) |
+| Fri, 12 Dec 2025 06:55:54 GMT | Tải Dead Cells APK (MOD Việt Hóa, Không Quảng Cáo) v3.5.9 | Bandisharecx | [Read More](https://medium.com/p/df3ba416e872) |
+| Fri, 12 Dec 2025 06:49:32 GMT | Top Commercial Roofing Companies for Residential Roof Replacement by a Trusted Roofing Company San… | Kidd Roofing | [Read More](https://medium.com/p/3f67bf6f0b7f) |
+| Fri, 12 Dec 2025 06:46:39 GMT | My Automated Recon Workflow: The “LeetEnum” Script | Aman Kumar (ak) | [Read More](https://medium.com/p/e1a3fb972023) |
+| Fri, 12 Dec 2025 06:46:10 GMT | How Quantum Computing Could Impact Encryption in the Next 5 Years | Ghulamabbas | [Read More](https://medium.com/p/714284523c7b) |
+| Fri, 12 Dec 2025 06:44:57 GMT | Chain Link Fence in Saudi Arabia A Smart Durable and Cost Effective Security Solution | Hitechfence | [Read More](https://medium.com/p/8295f38d8555) |
+| Fri, 12 Dec 2025 06:43:15 GMT | Part 15 — “Q-Day: The Exact Moment Quantum Computers Will Break the Internet — And Why Experts Are… | Mr. Richie Gunawan | [Read More](https://medium.com/p/e06200301200) |
+| Fri, 12 Dec 2025 06:38:20 GMT | Part 14 — “Quantum AI: The Technology That Will Make ChatGPT Look Like a Calculator” | Mr. Richie Gunawan | [Read More](https://medium.com/p/87e017ab9546) |
+| Fri, 12 Dec 2025 06:37:17 GMT | Significance of Cloud Security | Siddhant Saxena | [Read More](https://medium.com/p/d96dacc168c6) |
+| Fri, 12 Dec 2025 06:32:55 GMT | Hybrid Security Consult Week 4 - Practical
+Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d28ff2a38b5) |
+| Fri, 12 Dec 2025 06:32:49 GMT | Boosting Small Business Efficiency with Remote IT Support for Small Business | IT Company | [Read More](https://medium.com/p/5e7ea82be723) |
+| Fri, 12 Dec 2025 06:31:45 GMT | Hackers4Justice: The Origin Story | SirHaxAlot | [Read More](https://medium.com/p/2742d5fbb0c1) |
+| Fri, 12 Dec 2025 06:28:48 GMT | Why Cybersecurity Should Be Part of Your App Development Process | Telepathy Infotech | [Read More](https://medium.com/p/c289a7fd3778) |
 | Fri, 12 Dec 2025 06:17:46 GMT | Threat Modeling a Cloud SOC Log Ingestion & Detection Pipeline Using STRIDE | Currantejwani | [Read More](https://medium.com/p/88a31e5569e1) |
 | Fri, 12 Dec 2025 06:11:59 GMT | Cyber-Resilience and Economic Statecraft: The G7’s Diplomatic Push for Collective Financial Defense | CCD-IS | [Read More](https://medium.com/p/60be66634f41) |
 | Fri, 12 Dec 2025 06:02:12 GMT | U.S. Would Lose Taiwan War | Vic Langston | [Read More](https://medium.com/p/8691fea27c79) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 21:30:35 GMT | Authentication Bypass-TryHackMe Walkthrough. | Ahmed Mostafa | [Read More](https://medium.com/p/541e82f66a98) |
 | Thu, 11 Dec 2025 21:26:08 GMT | HTTP Fundamentals for Cybersecurity | Sviatoslav König | [Read More](https://medium.com/p/4ddaf13f2fe1) |
 | Thu, 11 Dec 2025 20:57:18 GMT | Strengthening My Networking Fundamentals — Completing TryHackMe’s “DNS in Detail” Certification | Secured By Sebastion | [Read More](https://medium.com/p/7b7c2c57377c) |
-| Thu, 11 Dec 2025 20:47:12 GMT | TryHackMe Writeup: Startup | Berkay AĞGÜL | [Read More](https://medium.com/p/7fb4556d9e79) |
-| Thu, 11 Dec 2025 20:30:44 GMT | The Great React2Shell Disaster: Your Server Got Pwned and You Didn’t Even Know It (CVE-2025–55182) | CyferNest Sec | [Read More](https://medium.com/p/8889db751c40) |
-| Thu, 11 Dec 2025 20:26:30 GMT | Kuantum Bilgisayarlar ve Siber Güvenlik | Nupelda Kandemir | [Read More](https://medium.com/p/75f87ae31f5f) |
-| Thu, 11 Dec 2025 20:25:29 GMT | Understanding China’s Smart City Initiatives in Africa and Their Global Impact | Jared Douville | [Read More](https://medium.com/p/fec95e375926) |
-| Thu, 11 Dec 2025 20:19:44 GMT | 15 Common Cyber Attacks Explained Simply (So You’re Not Caught Off Guard) | Paradise technologies Inc | [Read More](https://medium.com/p/ef3802aca229) |
-| Thu, 11 Dec 2025 20:19:01 GMT | Weaponized Bots, Hijacked Accounts, and the Dark Economy Targeting Streamers | Dude Dangerous | [Read More](https://medium.com/p/4a92b5619128) |
-| Thu, 11 Dec 2025 20:17:50 GMT | The Curious Case of safe_sleep.sh in GitHub Actions | Navaneeth Sen | [Read More](https://medium.com/p/a5dab2dca833) |
-| Thu, 11 Dec 2025 19:59:28 GMT | What is Quantum Safe and why you should be worried about the Quantum Threat. | Thomas Zilliox | [Read More](https://medium.com/p/537696d62058) |
-| Thu, 11 Dec 2025 19:57:53 GMT | XSS — Merry XSSMas - Advent of Cyber 2025 Day 11 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/51ead6368176) |
-| Thu, 11 Dec 2025 19:36:22 GMT | The Great AI Pivot: From Chatbots to Autonomous Execution | Daryl | [Read More](https://medium.com/p/9d200504c9a4) |
-| Thu, 11 Dec 2025 19:34:55 GMT | The “Mystery” Job That Unraveled Into a Billion-Dollar Crime Web | Izza Khan Niazi | [Read More](https://medium.com/p/9206d45b09a4) |
-| Thu, 11 Dec 2025 19:17:06 GMT | Model Armor: Securing AI Deployments for the Enterprise | Md Mahrab Khan | [Read More](https://medium.com/p/7cec3f907747) |
-| Thu, 11 Dec 2025 19:14:59 GMT | Our Nemesis: Anonymous JWT Token | Hamit CİBO | [Read More](https://medium.com/p/48b1a7c90a77) |
-| Thu, 11 Dec 2025 19:12:32 GMT | Securing Your API with HTTPS: A Complete Guide to Free SSL Using Certbot | ARHAM RUMI | [Read More](https://medium.com/p/bcdc6eb33fff) |
-| Thu, 11 Dec 2025 19:11:00 GMT | Anonimato Digital | Mastersec | [Read More](https://medium.com/p/9520f4b73837) |
-| Thu, 11 Dec 2025 19:06:46 GMT | 5 Critical Linux Security Techniques Every Security Professional Should Know | Mert Baykal | [Read More](https://medium.com/p/667d668fbeee) |
-| Thu, 11 Dec 2025 19:06:08 GMT | Only JWT? Here’s How Hackers Still Bypass Your Authorization | karincayiyen | [Read More](https://medium.com/p/ee3a0b86b50f) |
-| Thu, 11 Dec 2025 19:03:09 GMT | This table is an educational analysis created to help understand what each field inside the… | Tahatan | [Read More](https://medium.com/p/0f0ad6118c95) |
-| Thu, 11 Dec 2025 19:02:36 GMT | Cybersecurity Service Essentials for San Diego Businesses: Finding a Trusted Cybersecurity Service… | Xonicwave IT Support | [Read More](https://medium.com/p/67f0e4e5e598) |
-| Thu, 11 Dec 2025 18:57:27 GMT | Flash Loan Attack Uncovered: PancakeSwap LP Exploit and the DMi/Moolah Drain Explained | Evgenii | [Read More](https://medium.com/p/bb487f66f26e) |
-| Thu, 11 Dec 2025 18:53:34 GMT | Stop Using Free Wi-Fi: This Is How Attackers Steal Your Passwords in Seconds | Satyam Pathania | [Read More](https://medium.com/p/2a5a0b885608) |
