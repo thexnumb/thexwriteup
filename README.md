@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 11:38:22 GMT | “The Easiest Way to Hack WiFi on Ubuntu (No One Tells You This)” | ghostyjoe | [Read More](https://medium.com/p/0660acc1f8f8) |
+| Fri, 12 Dec 2025 11:34:45 GMT | Reflecting on 2025: Gratitude, Growth, and What’s Next | Luke Appleby | [Read More](https://medium.com/p/a394b3ec8d89) |
+| Fri, 12 Dec 2025 11:30:48 GMT | Bash Scripting Basics Every Beginner Should Know | Joseph Fagbemi | [Read More](https://medium.com/p/d76c8ec32961) |
+| Fri, 12 Dec 2025 11:30:24 GMT | Building a Clean Room in a Fake World: The Corruption of Data (Maya) | Jayal Yadav | [Read More](https://medium.com/p/d468c0dc5b5a) |
+| Fri, 12 Dec 2025 11:25:21 GMT | Fuzzing Your Digital Forensic Tools So They Don’t Fumble in Court | Fatima Zakir | [Read More](https://medium.com/p/802557112ce1) |
+| Fri, 12 Dec 2025 11:22:01 GMT | Attacking WordPress - Vulnerability Scanning & Manual Verification | Amrsmooke | [Read More](https://medium.com/p/6d9c04d6fd8b) |
+| Fri, 12 Dec 2025 11:14:33 GMT | Security Lab Simulation Project Part 10: Sending Wazuh Alerts to Elasticsearch | Jenny | [Read More](https://medium.com/p/55e68e35d1c7) |
 | Fri, 12 Dec 2025 11:09:50 GMT | Stop Wasting Hours - This AI Unlocks your Hacking Skills in Minutes | Shahzaib | [Read More](https://medium.com/p/9b880e5d24b2) |
 | Fri, 12 Dec 2025 11:06:41 GMT | The Things I Didn’t Say (But Wish I Did) | Inspire: Viva La Vida | [Read More](https://medium.com/p/da1df33f04ae) |
 | Fri, 12 Dec 2025 11:04:48 GMT | Learning SSRF — A Complete Guide | Rajesh Kumar | [Read More](https://medium.com/p/d3d775a3e05c) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d28ff2a38b5) |
 | Fri, 12 Dec 2025 06:32:49 GMT | Boosting Small Business Efficiency with Remote IT Support for Small Business | IT Company | [Read More](https://medium.com/p/5e7ea82be723) |
 | Fri, 12 Dec 2025 06:31:45 GMT | Hackers4Justice: The Origin Story | SirHaxAlot | [Read More](https://medium.com/p/2742d5fbb0c1) |
-| Fri, 12 Dec 2025 06:28:48 GMT | Why Cybersecurity Should Be Part of Your App Development Process | Telepathy Infotech | [Read More](https://medium.com/p/c289a7fd3778) |
-| Fri, 12 Dec 2025 06:25:10 GMT | Affordable Cybersecurity Services for Small Businesses | Maxatlasofficial | [Read More](https://medium.com/p/ecac9178005b) |
-| Fri, 12 Dec 2025 06:17:46 GMT | Threat Modeling a Cloud SOC Log Ingestion & Detection Pipeline Using STRIDE | Currantejwani | [Read More](https://medium.com/p/88a31e5569e1) |
-| Fri, 12 Dec 2025 06:11:59 GMT | Cyber-Resilience and Economic Statecraft: The G7’s Diplomatic Push for Collective Financial Defense | CCD-IS | [Read More](https://medium.com/p/60be66634f41) |
-| Fri, 12 Dec 2025 06:02:12 GMT | U.S. Would Lose Taiwan War | Vic Langston | [Read More](https://medium.com/p/8691fea27c79) |
-| Fri, 12 Dec 2025 05:58:52 GMT | The Frontend Frenzy is Fading: Why Backend is Your Brain’s Best Bet Against AI (And Why You Need… | Shalin | [Read More](https://medium.com/p/8a658694a874) |
-| Fri, 12 Dec 2025 05:58:26 GMT | How AWS tracks the cloud’s biggest security threats and helps shut them down | Vishal Mishra | [Read More](https://medium.com/p/f9ea51950986) |
