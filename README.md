@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 16:25:26 GMT | Bruce Firmware: The Unlikely Cybersecurity Tool in a 3D Printer’s Heart | Nisarg Patel | [Read More](https://medium.com/p/af979842b979) |
+| Fri, 12 Dec 2025 16:18:17 GMT | I Started My Cybersecurity Career Early — Here’s What I Learned the Hard Way | Thomas Kim | [Read More](https://medium.com/p/cb6349885428) |
+| Fri, 12 Dec 2025 16:17:07 GMT | From the Information Age to the Age of Intelligence! | Dr. Ajaya Sankar | [Read More](https://medium.com/p/4036598bfd77) |
+| Fri, 12 Dec 2025 16:16:48 GMT | Building Autonomous Pentesting Pipelines with AI: A Practical Guide for Modern Engineering Teams | Mohd Sohaib | [Read More](https://medium.com/p/5032cfd73827) |
+| Fri, 12 Dec 2025 16:10:03 GMT | Advent of Cyber 2025 - Day 12: Phishing — Phishmas Greetings | D4m.sh | [Read More](https://medium.com/p/ff82ca8a16af) |
+| Fri, 12 Dec 2025 16:08:50 GMT | Hype Tech vs. Workhorse Tech | Chier Hu | [Read More](https://medium.com/p/14f00c5d3d52) |
+| Fri, 12 Dec 2025 16:07:29 GMT | How to Install Ubuntu 24.04 LTS | Angelo Sebastian Bibon | [Read More](https://medium.com/p/e434c5482891) |
+| Fri, 12 Dec 2025 16:02:19 GMT | Know This and Know Peace | Lori A. A. | [Read More](https://medium.com/p/628a3c155a5c) |
+| Fri, 12 Dec 2025 15:59:40 GMT | Defense in Depth: A Practical Guide to the 7 Layers of Cybersecurity | Paradise technologies Inc | [Read More](https://medium.com/p/a73c401ce5f1) |
+| Fri, 12 Dec 2025 15:59:08 GMT | Get a Locksmith — Professional Support Across London by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/c0e5298cdd41) |
+| Fri, 12 Dec 2025 15:58:27 GMT | 24 Hour Locksmith Service Near Me — Reliable Security Support Anytime | The Lock Specialist Ltd | [Read More](https://medium.com/p/12cc8aac11e7) |
+| Fri, 12 Dec 2025 15:54:44 GMT | Celebrating Small Wins: Why Every Bug Fixed Matters | Higor Mesquita | [Read More](https://medium.com/p/5ada3f17c7a8) |
+| Fri, 12 Dec 2025 15:51:56 GMT | My Cloud Network Now Fights Back: Building an Automated SOC with Sentinel | Gideon John Utong | [Read More](https://medium.com/p/c8eba54d102c) |
+| Fri, 12 Dec 2025 15:51:14 GMT | AI Chat Platform Sharing Flow: When Intended Functionality Leads to Privacy Exposure | ANTIBUGS | [Read More](https://medium.com/p/0ff548b02f1a) |
+| Fri, 12 Dec 2025 15:49:58 GMT | The Medical Records You Deleted Still Exist: How “Ghost Data” Is Fueling a New Wave of Identity… | Travis Ray Caverhill | [Read More](https://medium.com/p/ec6e5d15a1be) |
+| Fri, 12 Dec 2025 15:48:48 GMT | PortSwigger Web Security Academy: All Path Traversal Labs Solved (Full Walkthrough) | Blueorionn | [Read More](https://medium.com/p/8cccad53d44e) |
+| Fri, 12 Dec 2025 15:46:47 GMT | Massive Slack Infrastructure Exposure leaked internal hostnames by CYBER KALKI after Hackerone… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/ef37e73dbc36) |
 | Fri, 12 Dec 2025 15:39:57 GMT | Reveal Hidden Files in Google Storage : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/850c709a63de) |
 | Fri, 12 Dec 2025 15:36:04 GMT | How I Helped Secure a Fintech Platform Through Responsible Disclosure | Vijay K | [Read More](https://medium.com/p/f5bd4cad2402) |
 | Fri, 12 Dec 2025 15:32:14 GMT | A Terrible Night (1896) | Willow Redd | [Read More](https://medium.com/p/999db4293cc8) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 11:02:18 GMT | Signal Theft for Beginners: How Your Devices Gossip Behind Your Back | Franziska "Ziska" Fink | [Read More](https://medium.com/p/e5664595c672) |
 | Fri, 12 Dec 2025 10:58:11 GMT | Java Spring Boot ile Red Team Aracı Geliştirmek | mintercoder | [Read More](https://medium.com/p/07da03a8144e) |
 | Fri, 12 Dec 2025 10:56:39 GMT | ? | Adeoluwa Obadofin | [Read More](https://medium.com/p/86585dfabcb5) |
-| Fri, 12 Dec 2025 10:55:06 GMT | Top 5 Importance of Cyber Security Tools for Small and Medium Businesses | Accotequs | [Read More](https://medium.com/p/a1ce04a4693b) |
-| Fri, 12 Dec 2025 10:46:38 GMT | Inside America’s Secret Surveillance Machine | PAUL WOODTHORPE | [Read More](https://medium.com/p/fb9b42706437) |
-| Fri, 12 Dec 2025 10:45:57 GMT | Network Trafik Analizi: Kaynaklar ve Temel Akışlar (Sources and Flows) | Ertan Caner Eskici | [Read More](https://medium.com/p/3a7f4734fdcc) |
-| Fri, 12 Dec 2025 10:43:01 GMT | From Why to How: Azure Lighthouse for MSSPs, and Cross‑Tenant Sentinel at Scale | Ahmed Monsri | [Read More](https://medium.com/p/6d753c2ff475) |
-| Fri, 12 Dec 2025 10:36:08 GMT | Top 7 Secure Browsers I Use for Safe, Private, and Secure Browsing (2026 Edition) | John Muconto | [Read More](https://medium.com/p/1755253b346d) |
-| Fri, 12 Dec 2025 10:29:50 GMT | Jaguar Land Rover Confirms Data Exposure After Major Cyber-Attack | Jared Douville | [Read More](https://medium.com/p/9c7f61a96dc3) |
-| Fri, 12 Dec 2025 10:28:56 GMT | AI in Cyber Law: Transforming Privacy Policy Analysis, Legal Research, and Cybersecurity Incident… | Chinmay gowda M Harish | [Read More](https://medium.com/p/0686638fe554) |
-| Fri, 12 Dec 2025 10:27:47 GMT | Day 11: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/5d1e93d5f940) |
-| Fri, 12 Dec 2025 10:25:09 GMT | Why Zero Trust Services Are Essential for Modern Business Security | NG Cloud Security | [Read More](https://medium.com/p/2f5c3498e601) |
-| Fri, 12 Dec 2025 10:24:53 GMT | That One Morning: The SaaS App That Haunted My Career | Zahra Bibi | [Read More](https://medium.com/p/3cf33b6f406a) |
-| Fri, 12 Dec 2025 10:24:50 GMT | South Africa’s Data Centre Boom and the Looming Resource Crisis | Mystic Matt | [Read More](https://medium.com/p/088f23a27a4b) |
-| Fri, 12 Dec 2025 10:24:15 GMT | Strengthening Digital Defense: A Complete Guide to Cybersecurity Services by L4RG | Vijay Singh Bisht | [Read More](https://medium.com/p/c967f52acd16) |
-| Fri, 12 Dec 2025 10:18:13 GMT | How I Earned ₹22,000 Just by Reporting “P5” Bugs (OSINT trick) | Rajankumarbarik | [Read More](https://medium.com/p/7effa189bdb8) |
-| Fri, 12 Dec 2025 10:17:27 GMT | “Hands”- A poem | bre ♡ | [Read More](https://medium.com/p/32de67788c0f) |
-| Fri, 12 Dec 2025 10:11:08 GMT | Year-End Offer RHCSA and RHCE Training | Manisha Chaudhary | [Read More](https://medium.com/p/18ed3216d4b9) |
-| Fri, 12 Dec 2025 10:04:39 GMT | Landslide Detection in Chitral District Using Sentinel-1 SAR & Google Earth Engine (GEE) | Afedullah | [Read More](https://medium.com/p/29d1cbae8138) |
-| Fri, 12 Dec 2025 10:01:40 GMT | “Embracing Vulnerability: The Key to True Integrity and a Balanced Life You Deserve” | Binte Habib | [Read More](https://medium.com/p/fd6384807443) |
