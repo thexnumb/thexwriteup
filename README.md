@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 20:05:22 GMT | How Attackers Use Cloudflare to Launch and Mask Exploitation Attempts | Yealvare | [Read More](https://medium.com/p/fa70c9860e25) |
+| Fri, 12 Dec 2025 20:03:03 GMT | How a Single Mistyped Operator in GitHub Actions Triggered a $2,500 CI/CD Meltdown | FutureStack Academy | [Read More](https://medium.com/p/86180608d34e) |
+| Fri, 12 Dec 2025 20:01:35 GMT | Why Urology Practices Face Rising Cyber Risks: The Overlooked Vulnerabilities in Medical Imaging… | David Miller | [Read More](https://medium.com/p/a017b2b48d7d) |
+| Fri, 12 Dec 2025 19:48:48 GMT | Top OT Cyber Threats in 2025 | Muhammad Ali Khan | [Read More](https://medium.com/p/c173a03f7522) |
+| Fri, 12 Dec 2025 19:47:25 GMT | How to Master OT Incident Response | Muhammad Ali Khan | [Read More](https://medium.com/p/a6577ecbb83e) |
+| Fri, 12 Dec 2025 19:40:30 GMT | HOW A ROBBERY INCIDENT LED TO THE CREATION OF THE HALOGEN GROUP. | Simeon Dumle | [Read More](https://medium.com/p/868d3c537808) |
+| Fri, 12 Dec 2025 19:40:08 GMT | SOC Alert Triaging — Tinsel Triage - AoC 2025 Day — 10 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/23569e5c76c3) |
 | Fri, 12 Dec 2025 19:38:17 GMT | Data Security Posture Management (DSPM)- Part 1 | Pritam Burnwal | [Read More](https://medium.com/p/fe61f02e10a9) |
 | Fri, 12 Dec 2025 19:21:32 GMT | Cisco Catalyst 3560-CX-8PC-S Firmware Güncellemesi | Hakan ÇEVİK | [Read More](https://medium.com/p/9bb7686bbdeb) |
 | Fri, 12 Dec 2025 19:16:42 GMT | The Silent Gatekeeper: Why CAPTCHA is Dying and What Comes Next in 2025 | Tugui Dragos-Constantin | [Read More](https://medium.com/p/f387fa334bbd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 13:57:32 GMT | Securing AKS Web Applications with Azure AD and OAuth2 Proxy | Marouane Bouzida | [Read More](https://medium.com/p/a6f642366353) |
 | Fri, 12 Dec 2025 13:56:13 GMT | Hunting Bugs in the Shadows of a Global Energy Giant: The Reflected XSS Hidden in a VPN Portal | Anshubind | [Read More](https://medium.com/p/8f3b0cd9a441) |
 | Fri, 12 Dec 2025 13:55:39 GMT | When env.js Breaks Bad: How a Single File Exposed Critical Secrets in a Global Enterprise | Anshubind | [Read More](https://medium.com/p/f114b2f8613a) |
-| Fri, 12 Dec 2025 13:55:19 GMT | React2Shell Krizi: React Sunucu Bileşenlerinde Kritik Güvenlik Açıkları ve İkinci Dalga Tehditler | Burak Demiröz | [Read More](https://medium.com/p/ebd44072ef03) |
-| Fri, 12 Dec 2025 13:54:38 GMT | The Slow, Silent Heartbreak I Never Saw Coming. | Stephanieee ink. | [Read More](https://medium.com/p/da90898d199f) |
-| Fri, 12 Dec 2025 13:51:35 GMT | AI Security Risks in the Digital Economy | Tim Murkomen | [Read More](https://medium.com/p/a63a16c8f1eb) |
-| Fri, 12 Dec 2025 13:50:06 GMT | Stop Leaking Secrets in Your Logs /Meet sanitizer for Golang | Xanco | [Read More](https://medium.com/p/919b7a23302c) |
-| Fri, 12 Dec 2025 13:39:33 GMT | How to “Child-Proof” a Windows Laptop in 10 Minutes or Less | Night walkr | [Read More](https://medium.com/p/6264db87da94) |
-| Fri, 12 Dec 2025 13:34:41 GMT | The Enemy Within: Why 60% of Data Breaches Start with an Employee | Night walkr | [Read More](https://medium.com/p/6d71692482bb) |
-| Fri, 12 Dec 2025 13:32:18 GMT | AI and AI Red Teaming | Menesay | [Read More](https://medium.com/p/5c20a03f295e) |
