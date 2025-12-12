@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 11:09:50 GMT | Stop Wasting Hours - This AI Unlocks your Hacking Skills in Minutes | Shahzaib | [Read More](https://medium.com/p/9b880e5d24b2) |
+| Fri, 12 Dec 2025 11:06:41 GMT | The Things I Didn’t Say (But Wish I Did) | Inspire: Viva La Vida | [Read More](https://medium.com/p/da1df33f04ae) |
+| Fri, 12 Dec 2025 11:04:48 GMT | Learning SSRF — A Complete Guide | Rajesh Kumar | [Read More](https://medium.com/p/d3d775a3e05c) |
+| Fri, 12 Dec 2025 11:02:18 GMT | Expats Must Stay Vigilant to Reach Federal Services | Lsjaffee (Writer, Educator, Over-Thinker) | [Read More](https://medium.com/p/d8d2e1fc3af9) |
+| Fri, 12 Dec 2025 11:02:18 GMT | Signal Theft for Beginners: How Your Devices Gossip Behind Your Back | Franziska "Ziska" Fink | [Read More](https://medium.com/p/e5664595c672) |
+| Fri, 12 Dec 2025 10:58:11 GMT | Java Spring Boot ile Red Team Aracı Geliştirmek | mintercoder | [Read More](https://medium.com/p/07da03a8144e) |
+| Fri, 12 Dec 2025 10:56:39 GMT | ? | Adeoluwa Obadofin | [Read More](https://medium.com/p/86585dfabcb5) |
+| Fri, 12 Dec 2025 10:46:38 GMT | Inside America’s Secret Surveillance Machine | PAUL WOODTHORPE | [Read More](https://medium.com/p/fb9b42706437) |
 | Fri, 12 Dec 2025 10:45:57 GMT | Network Trafik Analizi: Kaynaklar ve Temel Akışlar (Sources and Flows) | Ertan Caner Eskici | [Read More](https://medium.com/p/3a7f4734fdcc) |
+| Fri, 12 Dec 2025 10:43:01 GMT | From Why to How: Azure Lighthouse for MSSPs, and Cross‑Tenant Sentinel at Scale | Ahmed Monsri | [Read More](https://medium.com/p/6d753c2ff475) |
 | Fri, 12 Dec 2025 10:36:08 GMT | Top 7 Secure Browsers I Use for Safe, Private, and Secure Browsing (2026 Edition) | John Muconto | [Read More](https://medium.com/p/1755253b346d) |
 | Fri, 12 Dec 2025 10:29:50 GMT | Jaguar Land Rover Confirms Data Exposure After Major Cyber-Attack | Jared Douville | [Read More](https://medium.com/p/9c7f61a96dc3) |
 | Fri, 12 Dec 2025 10:28:56 GMT | AI in Cyber Law: Transforming Privacy Policy Analysis, Legal Research, and Cybersecurity Incident… | Chinmay gowda M Harish | [Read More](https://medium.com/p/0686638fe554) |
@@ -30,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 09:52:44 GMT | How Hackers Are Exploiting Influencers | Himanshu Bhatt | [Read More](https://medium.com/p/a79588f34fc5) |
 | Fri, 12 Dec 2025 09:51:50 GMT | Build the Foundation of Cyber Defense Mastery — Certified Ethical Hacking Foundation | Adhiraj Kasabe | [Read More](https://medium.com/p/01114dafd5a7) |
 | Fri, 12 Dec 2025 09:50:27 GMT | AI-Powered Cybersecurity in the Digital Era: Key Risks, Challenges & Strategic Solutions | ICUBE TECHNOLABS | [Read More](https://medium.com/p/8366a0a54481) |
+| Fri, 12 Dec 2025 09:42:16 GMT | AI Poisoning! Cybersecurity’s Next Global Challenge? | Creative Clicks | [Read More](https://medium.com/p/f28b68b8d08e) |
 | Fri, 12 Dec 2025 09:37:37 GMT | Why I Respect Hackers More Than Compliance Officers | Motasem Hamdan | [Read More](https://medium.com/p/7e014b8bbb4f) |
 | Fri, 12 Dec 2025 09:35:18 GMT | Cybersecurity in 2025: What Businesses Need | Devarshi Acharya | [Read More](https://medium.com/p/611278245aa1) |
 | Fri, 12 Dec 2025 09:35:09 GMT | Deepfake Scams Are Becoming Impossible to Detect- Here’s Why | Jordan Tate | [Read More](https://medium.com/p/36e239ec7f2d) |
@@ -103,13 +113,3 @@ Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d
 | Fri, 12 Dec 2025 06:02:12 GMT | U.S. Would Lose Taiwan War | Vic Langston | [Read More](https://medium.com/p/8691fea27c79) |
 | Fri, 12 Dec 2025 05:58:52 GMT | The Frontend Frenzy is Fading: Why Backend is Your Brain’s Best Bet Against AI (And Why You Need… | Shalin | [Read More](https://medium.com/p/8a658694a874) |
 | Fri, 12 Dec 2025 05:58:26 GMT | How AWS tracks the cloud’s biggest security threats and helps shut them down | Vishal Mishra | [Read More](https://medium.com/p/f9ea51950986) |
-| Fri, 12 Dec 2025 05:56:51 GMT | Security Controls Explained. How Real Cybersecurity Actually Works | Raleigh Guevarra | [Read More](https://medium.com/p/970e8a14fb46) |
-| Fri, 12 Dec 2025 05:47:11 GMT | How React Got Hacked: The Supply‑Chain Attack Nobody Saw Coming | The Silent Genius | [Read More](https://medium.com/p/d4a6e878944c) |
-| Fri, 12 Dec 2025 05:46:44 GMT | A Recognition Built for Organizations Elevating Security Discipline | Kadhijahafiya | [Read More](https://medium.com/p/a64261a34ef9) |
-| Fri, 12 Dec 2025 05:44:45 GMT | How to Choose the Right Access Control System in Saudi Arabia | Zenecaastra | [Read More](https://medium.com/p/c3cc7904f4b9) |
-| Fri, 12 Dec 2025 05:38:21 GMT | The Windows Concept Journey — WinRM (Windows Remote Management) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e9fd617317dd) |
-| Fri, 12 Dec 2025 05:36:16 GMT | Using Residential Proxies to Keep Multi-Account Social Media Profiles Alive | BitFlux | [Read More](https://medium.com/p/0c3f6a6151f1) |
-| Fri, 12 Dec 2025 05:32:15 GMT | The Password Everyone Uses That Hackers Can’t Crack | MyNextDeveloper | [Read More](https://medium.com/p/cb562892aef8) |
-| Fri, 12 Dec 2025 05:27:31 GMT | A Trusted Measure of Strong Organizational Cyber Standards | Kadhijahafiya | [Read More](https://medium.com/p/e7fd465ab471) |
-| Fri, 12 Dec 2025 05:25:33 GMT | Why Warehouse & Distribution Security Matters More Than Ever — And How World Guardian Delivers… | Hirasarfraz | [Read More](https://medium.com/p/e3ea63478f30) |
-| Fri, 12 Dec 2025 05:14:18 GMT | Bite Your Tongue | Clementine Illy | [Read More](https://medium.com/p/49fdd636aba3) |
