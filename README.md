@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 01:45:35 GMT | When “Cancel Order” Becomes “Access Granted” — Blind SQL Injection | Waleed Osama | [Read More](https://medium.com/p/669fdb830958) |
+| Fri, 12 Dec 2025 01:19:07 GMT | Does turning off wifi affect the way a VPN works? Quick facts | Millie Bobby | [Read More](https://medium.com/p/8391eba2dc4d) |
+| Fri, 12 Dec 2025 01:02:33 GMT | 2025 National Security Strategy Validates Core Thesis of “Asymmetric Warfare: Strategies and… | Josh Luberisse | [Read More](https://medium.com/p/6786bbf4ce94) |
+| Fri, 12 Dec 2025 01:00:52 GMT | How DareToExpose™ Uncovered 25 Years of Digital Surveillance | Daretoexpose | [Read More](https://medium.com/p/1b630506caef) |
+| Fri, 12 Dec 2025 00:52:01 GMT | Interesting Bug Bounty Findings I found in Android Application | m_kamal | [Read More](https://medium.com/p/3fa75b69cb19) |
+| Fri, 12 Dec 2025 00:51:33 GMT | What Is API Security and Why Should WE Care? | Hafsah Ashraf | [Read More](https://medium.com/p/4161e73a2ca6) |
+| Fri, 12 Dec 2025 00:48:44 GMT | Prefetch Analysis Home Lab | Roman Charleston | [Read More](https://medium.com/p/4c9e376c9e01) |
+| Fri, 12 Dec 2025 00:32:46 GMT | Encryption in Transit in a Distributed System | Moses Oderinde | [Read More](https://medium.com/p/ed9c11e1de09) |
+| Fri, 12 Dec 2025 00:23:27 GMT | Black Hat GEO in the LLM Era: Policy, Ethics, and the Fight for Information Integrity | Geolyze | [Read More](https://medium.com/p/d27357326249) |
+| Fri, 12 Dec 2025 00:23:24 GMT | Great AI Tools For Pentesters & OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/5bfcf4110285) |
+| Fri, 12 Dec 2025 00:23:12 GMT | The Most Used Tool in Bug Hunting — And How to Master It Like a Pro | Monika sharma | [Read More](https://medium.com/p/cb64c1f93895) |
+| Fri, 12 Dec 2025 00:16:09 GMT | THM — Tech_Supp0rt: 1 | 0xEnzoSantana | [Read More](https://medium.com/p/957d979059c7) |
+| Fri, 12 Dec 2025 00:04:36 GMT | Why is Cybersecurity broken today? | PlainText Cyber | [Read More](https://medium.com/p/4ed52da67536) |
+| Fri, 12 Dec 2025 00:02:16 GMT | OWASP API9: Cómo Explotar Shadow y Zombie APIs (Improper Inventory Management) | JPablo13 | [Read More](https://medium.com/p/e98dbf1c8c1d) |
+| Thu, 11 Dec 2025 23:49:11 GMT | How Do Patrol Services Work For Commercial Properties in California? | Comprehensive Security Services Inc. | [Read More](https://medium.com/p/048aea36575e) |
+| Thu, 11 Dec 2025 23:47:04 GMT | Alpine room official writeup | Soraya Djerrab | [Read More](https://medium.com/p/b6c562ea98ba) |
 | Thu, 11 Dec 2025 23:29:21 GMT | When Technology Turns into Theater: | Chier Hu | [Read More](https://medium.com/p/dc3cfea055b4) |
 | Thu, 11 Dec 2025 23:25:31 GMT | Why Does Privacy Matter? | Decentr | [Read More](https://medium.com/p/21f88553b07a) |
 | Thu, 11 Dec 2025 23:25:03 GMT | Software Is Being Rewritten by AI — And So Are the Attacks. | Cyber-AppSec | [Read More](https://medium.com/p/4face2bbddbe) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 16:57:39 GMT | Digital Twins: The Silent New Powerhouse in Cybersecurity | Morteza saberikamarposhti | [Read More](https://medium.com/p/2b4cbb759f38) |
 | Thu, 11 Dec 2025 16:57:26 GMT | Simple Steganography: Hiding Text Messages Using Python Hex Encoding | Udita Kumari | [Read More](https://medium.com/p/0c17b89da928) |
 | Thu, 11 Dec 2025 16:54:24 GMT | Basics of Networking : TCP/IP Model | alizadasec | [Read More](https://medium.com/p/8563855a77db) |
-| Thu, 11 Dec 2025 16:52:21 GMT | I Passed the ISC2 Certified in Cybersecurity Exam with 1 month of Prep: Here’s My Strategy | Umar Al-Mahfuz | [Read More](https://medium.com/p/d88b34701b3e) |
-| Thu, 11 Dec 2025 16:50:42 GMT | How I Set Up a Legacy PHP HMS System on Windows: XAMPP, Ports, Errors, Breakdowns, Fixes, and… | Peter Ochieng | [Read More](https://medium.com/p/6038926f94c9) |
-| Thu, 11 Dec 2025 16:49:00 GMT | A Quick Look at 403 Bypass Techniques | Blueorionn | [Read More](https://medium.com/p/93cabe51e54b) |
-| Thu, 11 Dec 2025 16:47:28 GMT | The Cryptography Concept Journey — Merkle Tree | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9bbb57c72848) |
-| Thu, 11 Dec 2025 16:46:59 GMT | CVE‑2025‑67505: When Race Conditions Undermine Identity Infrastructure | gm0 | [Read More](https://medium.com/p/c47096302a1c) |
-| Thu, 11 Dec 2025 16:46:18 GMT | What is Robot.txt? (2 mins cybersecurity lesson) | Dayanidhi Meganathan | [Read More](https://medium.com/p/50a9c6b15476) |
-| Thu, 11 Dec 2025 16:41:18 GMT | Prompt Engineering for Stone-Age Brains | Kamal Talreja | [Read More](https://medium.com/p/0abb90594387) |
-| Thu, 11 Dec 2025 16:41:16 GMT | 53: porcelain heart | analienmind | [Read More](https://medium.com/p/c8298ca842fc) |
-| Thu, 11 Dec 2025 16:40:00 GMT | Even 404 links reveals PII.. | Anirudh kaila | [Read More](https://medium.com/p/4d68991babd7) |
-| Thu, 11 Dec 2025 16:37:53 GMT | Every Role Behind Cybersecurity | mohandika | [Read More](https://medium.com/p/c98e756ec5e9) |
-| Thu, 11 Dec 2025 16:37:47 GMT | Salvaje libertad en una nueva ciudad | Paola Cialato | [Read More](https://medium.com/p/604214ed2363) |
-| Thu, 11 Dec 2025 16:37:38 GMT | 5 Red Flags That Your Business May Already Be in a Hacker’s Crosshairs | Cordula Boeck | [Read More](https://medium.com/p/bd912e4b8e17) |
-| Thu, 11 Dec 2025 16:33:30 GMT | Practical ways to check if you are being tracked or monitored through your social media account | Juliet | [Read More](https://medium.com/p/89e8f1e81139) |
-| Thu, 11 Dec 2025 16:32:13 GMT | Netexec 101: Basic Usage & Installation | SpaceIO | [Read More](https://medium.com/p/6ee5a11d2a4a) |
-| Thu, 11 Dec 2025 16:23:34 GMT | Product Review: Salesforce Nonprofit Cloud (NPC) | Cait Graaf | [Read More](https://medium.com/p/f40b2cc8ae59) |
-| Thu, 11 Dec 2025 16:20:11 GMT | Protecting Your Digital Identity From Account Takeovers | Geoffrey Wenger | [Read More](https://medium.com/p/7d281136af82) |
