@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 06:17:46 GMT | Threat Modeling a Cloud SOC Log Ingestion & Detection Pipeline Using STRIDE | Currantejwani | [Read More](https://medium.com/p/88a31e5569e1) |
+| Fri, 12 Dec 2025 06:11:59 GMT | Cyber-Resilience and Economic Statecraft: The G7’s Diplomatic Push for Collective Financial Defense | CCD-IS | [Read More](https://medium.com/p/60be66634f41) |
+| Fri, 12 Dec 2025 06:02:12 GMT | U.S. Would Lose Taiwan War | Vic Langston | [Read More](https://medium.com/p/8691fea27c79) |
+| Fri, 12 Dec 2025 05:58:52 GMT | The Frontend Frenzy is Fading: Why Backend is Your Brain’s Best Bet Against AI (And Why You Need… | Shalin | [Read More](https://medium.com/p/8a658694a874) |
+| Fri, 12 Dec 2025 05:58:26 GMT | How AWS tracks the cloud’s biggest security threats and helps shut them down | Vishal Mishra | [Read More](https://medium.com/p/f9ea51950986) |
+| Fri, 12 Dec 2025 05:56:51 GMT | Security Controls Explained. How Real Cybersecurity Actually Works | Raleigh Guevarra | [Read More](https://medium.com/p/970e8a14fb46) |
+| Fri, 12 Dec 2025 05:47:11 GMT | How React Got Hacked: The Supply‑Chain Attack Nobody Saw Coming | The Silent Genius | [Read More](https://medium.com/p/d4a6e878944c) |
+| Fri, 12 Dec 2025 05:46:44 GMT | A Recognition Built for Organizations Elevating Security Discipline | Kadhijahafiya | [Read More](https://medium.com/p/a64261a34ef9) |
+| Fri, 12 Dec 2025 05:44:45 GMT | How to Choose the Right Access Control System in Saudi Arabia | Zenecaastra | [Read More](https://medium.com/p/c3cc7904f4b9) |
+| Fri, 12 Dec 2025 05:38:21 GMT | The Windows Concept Journey — WinRM (Windows Remote Management) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e9fd617317dd) |
 | Fri, 12 Dec 2025 05:36:16 GMT | Using Residential Proxies to Keep Multi-Account Social Media Profiles Alive | BitFlux | [Read More](https://medium.com/p/0c3f6a6151f1) |
 | Fri, 12 Dec 2025 05:32:15 GMT | The Password Everyone Uses That Hackers Can’t Crack | MyNextDeveloper | [Read More](https://medium.com/p/cb562892aef8) |
 | Fri, 12 Dec 2025 05:27:31 GMT | A Trusted Measure of Strong Organizational Cyber Standards | Kadhijahafiya | [Read More](https://medium.com/p/e7fd465ab471) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 19:02:36 GMT | Cybersecurity Service Essentials for San Diego Businesses: Finding a Trusted Cybersecurity Service… | Xonicwave IT Support | [Read More](https://medium.com/p/67f0e4e5e598) |
 | Thu, 11 Dec 2025 18:57:27 GMT | Flash Loan Attack Uncovered: PancakeSwap LP Exploit and the DMi/Moolah Drain Explained | Evgenii | [Read More](https://medium.com/p/bb487f66f26e) |
 | Thu, 11 Dec 2025 18:53:34 GMT | Stop Using Free Wi-Fi: This Is How Attackers Steal Your Passwords in Seconds | Satyam Pathania | [Read More](https://medium.com/p/2a5a0b885608) |
-| Thu, 11 Dec 2025 18:52:50 GMT | Advent of Cyber 2025 Day 11 - TryHackMe - XSS - Merry XSSMas - WriteUp | Axoloth | [Read More](https://medium.com/p/125de1017c48) |
-| Thu, 11 Dec 2025 18:44:03 GMT | ArcherX brings AI Powered Cybersecurity to the Global Industry. | InfoSec Global Trends | [Read More](https://medium.com/p/2863ba6c4890) |
-| Thu, 11 Dec 2025 18:39:03 GMT | XSS — Web’in Sessiz Katili ve En Yaygın Açığı | Halil İbrahim Kuş | [Read More](https://medium.com/p/23ad150de7c6) |
-| Thu, 11 Dec 2025 18:38:41 GMT | [CyberDefenders Write-up] Malicious PyPi (From pip to Sliver and Aurora stealer) | Chicken0248 | [Read More](https://medium.com/p/f2c731183512) |
-| Thu, 11 Dec 2025 18:38:14 GMT | The Crucial Line: Knowing When to Accept a Situation Versus When to Surrender to It | Yash Patil | [Read More](https://medium.com/p/1537c4ac5a73) |
-| Thu, 11 Dec 2025 18:35:33 GMT | [CyberDefenders Write-up] Midnight RDP (Rouge RDP to Cobalt Strike beacon and Domain Compromise) | Chicken0248 | [Read More](https://medium.com/p/cd6e0e769cfb) |
-| Thu, 11 Dec 2025 18:31:43 GMT | The Art of Deception: How HP’s 2025 Threat Report Reveals the Weaponization of UX and… | Rob Enderle | [Read More](https://medium.com/p/84cb1e939232) |
-| Thu, 11 Dec 2025 18:29:53 GMT | AI Hackers Outperform Humans: Stanford Bots Breach Networks Alone | Coby Mendoza | [Read More](https://medium.com/p/22bb7099afec) |
-| Thu, 11 Dec 2025 18:20:03 GMT | The Future of Security: Next-Generation Security Systems Shaping the Digital Age | Ugochukwu Bernard Anyaogu-Ben | [Read More](https://medium.com/p/fbe2b5657ede) |
-| Thu, 11 Dec 2025 18:15:23 GMT | Advent of Cyber 2025 - Day 11: XSS - Merry XSSMas | Akshat Patel | [Read More](https://medium.com/p/4329d6b880e3) |
