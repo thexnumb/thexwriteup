@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 16:52:31 GMT | Cybersecurity News Review — Week 50 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/d2bf8c2c02c7) |
+| Fri, 12 Dec 2025 16:52:08 GMT | Christmas Wishes for Everybody | Randy Fredlund | [Read More](https://medium.com/p/ddcc2fa57b97) |
+| Fri, 12 Dec 2025 16:48:06 GMT | Security flaw in Hama Film photo booth website exposes customer photos and videos online | TechByte360 | [Read More](https://medium.com/p/c3949423a1f9) |
 | Fri, 12 Dec 2025 16:33:09 GMT | When Outdated IT Becomes a Security Risk — What Your Company Needs to Know | Cordula Boeck | [Read More](https://medium.com/p/58bb97c38caf) |
 | Fri, 12 Dec 2025 16:31:58 GMT | The Unsolvable Problem: Why Prompt Injection May Define the AI Security Era | Shashwata Bhattacharjee | [Read More](https://medium.com/p/94a0433318a4) |
 | Fri, 12 Dec 2025 16:27:17 GMT | Verified Onion Links: A 2025 Research Directory for Safe Tor Navigation | Tor BBB | [Read More](https://medium.com/p/fae7dfecbb3d) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 11:22:01 GMT | Attacking WordPress - Vulnerability Scanning & Manual Verification | Amrsmooke | [Read More](https://medium.com/p/6d9c04d6fd8b) |
 | Fri, 12 Dec 2025 11:14:33 GMT | Security Lab Simulation Project Part 10: Sending Wazuh Alerts to Elasticsearch | Jenny | [Read More](https://medium.com/p/55e68e35d1c7) |
 | Fri, 12 Dec 2025 11:09:50 GMT | Stop Wasting Hours - This AI Unlocks your Hacking Skills in Minutes | Shahzaib | [Read More](https://medium.com/p/9b880e5d24b2) |
-| Fri, 12 Dec 2025 11:06:41 GMT | The Things I Didn’t Say (But Wish I Did) | Inspire: Viva La Vida | [Read More](https://medium.com/p/da1df33f04ae) |
-| Fri, 12 Dec 2025 11:04:48 GMT | Learning SSRF — A Complete Guide | Rajesh Kumar | [Read More](https://medium.com/p/d3d775a3e05c) |
-| Fri, 12 Dec 2025 11:02:18 GMT | Expats Must Stay Vigilant to Reach Federal Services | Lsjaffee (Writer, Educator, Over-Thinker) | [Read More](https://medium.com/p/d8d2e1fc3af9) |
