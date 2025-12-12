@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 12:49:08 GMT | What Is Driving Hyderabad’s Surge in Global Capability Centre? | sunainask2000 | [Read More](https://medium.com/p/d38d0e32f11f) |
+| Fri, 12 Dec 2025 12:31:11 GMT | What is Hello Future Technologies (HFT)? | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/cf3449ba270a) |
+| Fri, 12 Dec 2025 12:28:52 GMT | GPS Truck Tracking Device Trusted by 1,400+ Truck Owners | Top Tracking System | [Read More](https://medium.com/p/de57f9b4b723) |
+| Fri, 12 Dec 2025 12:23:50 GMT | Critical Surge in Threat Activity Hits Core and IoT Platforms | Loginsoft | [Read More](https://medium.com/p/549fa9aa020b) |
+| Fri, 12 Dec 2025 12:23:32 GMT | Google Appoints Amin Vahdat as Chief AI Infrastructure Technologist: A Major Shift in AI and Cloud… | Ovabuzz | [Read More](https://medium.com/p/3b7ad35b3677) |
+| Fri, 12 Dec 2025 12:22:01 GMT | TryHackMe ChillHack ❄️: Complete Walkthrough | intheloop | [Read More](https://medium.com/p/a18135e67afd) |
+| Fri, 12 Dec 2025 12:20:48 GMT | Day 130 — Narnia Level-4 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/4e6829197c86) |
+| Fri, 12 Dec 2025 12:20:23 GMT | Inside the 2.4 GHz Jungle: How ISM Devices Collide, Interfere, and Expose Security Gaps | Michael Preston | [Read More](https://medium.com/p/217e2929535f) |
+| Fri, 12 Dec 2025 12:16:30 GMT | How to Protect Your Personal Information Online in High-Risk Environments | MrKarthikKN | [Read More](https://medium.com/p/ee2cd9c9ba93) |
+| Fri, 12 Dec 2025 12:16:17 GMT | Oracle ZDLRA: Incident Response and “Break-Glass” Procedures | Arsalan Dehghani Sariyarghan | [Read More](https://medium.com/p/ecb1a3dbf6f6) |
+| Fri, 12 Dec 2025 12:08:23 GMT | For developers and entrepreneurs: This represents one of the largest asymmetric information… | Berend Watchus | [Read More](https://medium.com/p/65ffa52b6f71) |
+| Fri, 12 Dec 2025 12:03:51 GMT | What is CORS? Why is it important? | Sahil Gupta | [Read More](https://medium.com/p/9a875b0253cd) |
+| Fri, 12 Dec 2025 11:59:00 GMT | Hands-On Understanding of OWASP Top 10: Broken Access Control | Yoshiyuki Watanabe | [Read More](https://medium.com/p/938dd7665848) |
+| Fri, 12 Dec 2025 11:52:09 GMT | Nasa HOF, How did i got this? | Charon19d | [Read More](https://medium.com/p/6bec416a51da) |
+| Fri, 12 Dec 2025 11:50:08 GMT | Year-End Christmas Sale on Cybersecurity Courses — Limited Time Only | cyber security Updates | [Read More](https://medium.com/p/c9b04e301a75) |
+| Fri, 12 Dec 2025 11:45:17 GMT | Ligolo-ng: The Ultimate Pivoting Tool for Modern Pentesting | Moustafa Abdelmaksoud | [Read More](https://medium.com/p/ee586299e06d) |
+| Fri, 12 Dec 2025 11:44:14 GMT | IT Audit Vs Internal audit : What’s the difference ? | Jane Omoteshowo Onwuegbuosa | [Read More](https://medium.com/p/6c179f7d8421) |
 | Fri, 12 Dec 2025 11:38:22 GMT | “The Easiest Way to Hack WiFi on Ubuntu (No One Tells You This)” | ghostyjoe | [Read More](https://medium.com/p/0660acc1f8f8) |
 | Fri, 12 Dec 2025 11:34:45 GMT | Reflecting on 2025: Gratitude, Growth, and What’s Next | Luke Appleby | [Read More](https://medium.com/p/a394b3ec8d89) |
 | Fri, 12 Dec 2025 11:30:48 GMT | Bash Scripting Basics Every Beginner Should Know | Joseph Fagbemi | [Read More](https://medium.com/p/d76c8ec32961) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 07:18:06 GMT | Transparency and Security: How We Integrate GDPR Principles in Every AI and Software Solution | Gyan Consulting | [Read More](https://medium.com/p/821efaf3a6d7) |
 | Fri, 12 Dec 2025 07:13:00 GMT | Why I started bug bounty in 2025 | Gilad | [Read More](https://medium.com/p/0d376f72a6bb) |
 | Fri, 12 Dec 2025 07:11:53 GMT | Strengthening Organizational Protection: Why Security Consulting Services and Security Training… | Ciss India | [Read More](https://medium.com/p/a6be33b44850) |
-| Fri, 12 Dec 2025 07:09:34 GMT | Tải Hack Dead Rail Apk + Script (Auto Win, Kill Aura, AimBot) | Game4u | [Read More](https://medium.com/p/553ef4436734) |
-| Fri, 12 Dec 2025 07:08:09 GMT | OSINT Mapping Toolkit: 25 Essential Tools Every Large Organization Should Master | Very Lazy Tech | [Read More](https://medium.com/p/34b275a8ac25) |
-| Fri, 12 Dec 2025 07:08:07 GMT | Precision Forensics Through Automation: A Look Inside TronScript | Pritish Bali | [Read More](https://medium.com/p/5de11f8b4056) |
-| Fri, 12 Dec 2025 07:06:12 GMT | XSS — Merry XSSMas — Writeup(DAY 11— Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/5a1b014dc23d) |
-| Fri, 12 Dec 2025 07:04:09 GMT | The Truth About Believing the Dollar Would Save Me After Five Years | Jerry Nelson | [Read More](https://medium.com/p/d0cca414e1a0) |
-| Fri, 12 Dec 2025 06:55:54 GMT | Tải Dead Cells APK (MOD Việt Hóa, Không Quảng Cáo) v3.5.9 | Bandisharecx | [Read More](https://medium.com/p/df3ba416e872) |
-| Fri, 12 Dec 2025 06:49:56 GMT | How Variable Data Technology is Transforming Postcard & Brochure Campaigns in 2025 | Sonu Ahir | [Read More](https://medium.com/p/33b15ab72a3a) |
-| Fri, 12 Dec 2025 06:49:32 GMT | Top Commercial Roofing Companies for Residential Roof Replacement by a Trusted Roofing Company San… | Kidd Roofing | [Read More](https://medium.com/p/3f67bf6f0b7f) |
-| Fri, 12 Dec 2025 06:46:39 GMT | My Automated Recon Workflow: The “LeetEnum” Script | Aman Kumar (ak) | [Read More](https://medium.com/p/e1a3fb972023) |
-| Fri, 12 Dec 2025 06:46:10 GMT | How Quantum Computing Could Impact Encryption in the Next 5 Years | Ghulamabbas | [Read More](https://medium.com/p/714284523c7b) |
-| Fri, 12 Dec 2025 06:44:57 GMT | Chain Link Fence in Saudi Arabia A Smart Durable and Cost Effective Security Solution | Hitechfence | [Read More](https://medium.com/p/8295f38d8555) |
-| Fri, 12 Dec 2025 06:43:15 GMT | Part 15 — “Q-Day: The Exact Moment Quantum Computers Will Break the Internet — And Why Experts Are… | Mr. Richie Gunawan | [Read More](https://medium.com/p/e06200301200) |
-| Fri, 12 Dec 2025 06:38:20 GMT | Part 14 — “Quantum AI: The Technology That Will Make ChatGPT Look Like a Calculator” | Mr. Richie Gunawan | [Read More](https://medium.com/p/87e017ab9546) |
-| Fri, 12 Dec 2025 06:37:17 GMT | Significance of Cloud Security | Siddhant Saxena | [Read More](https://medium.com/p/d96dacc168c6) |
-| Fri, 12 Dec 2025 06:32:55 GMT | Hybrid Security Consult Week 4 - Practical
-Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d28ff2a38b5) |
-| Fri, 12 Dec 2025 06:32:49 GMT | Boosting Small Business Efficiency with Remote IT Support for Small Business | IT Company | [Read More](https://medium.com/p/5e7ea82be723) |
-| Fri, 12 Dec 2025 06:31:45 GMT | Hackers4Justice: The Origin Story | SirHaxAlot | [Read More](https://medium.com/p/2742d5fbb0c1) |
