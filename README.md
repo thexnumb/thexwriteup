@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 18:29:38 GMT | Assume Privileged Role with External ID : Pwned-Labs Walkthrough Part 1 | Maverick | [Read More](https://medium.com/p/7d97dbd77c2b) |
+| Fri, 12 Dec 2025 18:23:43 GMT | Advanced Container Security Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/ae773b8fa721) |
+| Fri, 12 Dec 2025 18:23:05 GMT | VPN Server Installation on Linux: Secure Remote Access with OpenVPN | Esra Kayhan | [Read More](https://medium.com/p/6a49878a1d9f) |
+| Fri, 12 Dec 2025 18:22:42 GMT | ️ Daemon Security Configuration in Linux: Restricting Service Privileges with systemd | Esra Kayhan | [Read More](https://medium.com/p/a1466718852f) |
+| Fri, 12 Dec 2025 18:20:33 GMT | Kviklet: The Database Access Control Platform That Actually Makes Sense | Rio Wiraldhani | [Read More](https://medium.com/p/3cc2c2d09344) |
+| Fri, 12 Dec 2025 18:18:37 GMT | Top 15 web based OSINT tools (free)-Enjoy it | Nazrul Islam Rana | [Read More](https://medium.com/p/780dde4571cd) |
+| Fri, 12 Dec 2025 18:16:37 GMT | Passwords — A Cracking Christmas - AoC 2025 Day-9 - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/e78e53a61fb7) |
+| Fri, 12 Dec 2025 18:15:29 GMT | React Server Components Hit by Trio of Vulnerabilities: DoS, Source Code Exposure, and an… | gm0 | [Read More](https://medium.com/p/cc8db64a439d) |
+| Fri, 12 Dec 2025 18:15:09 GMT | CVE‑2025‑64721: A Critical Sandbox Escape That Breaks the Isolation Boundary | gm0 | [Read More](https://medium.com/p/ad6a60d0e9bd) |
+| Fri, 12 Dec 2025 18:14:16 GMT | Advent of Cyber 2025 Day 12 - TryHackMe - Phishing - Phishmas Greetings - WriteUp | Axoloth | [Read More](https://medium.com/p/a8766e39c764) |
+| Fri, 12 Dec 2025 18:13:13 GMT | BlackForce Phishing Kit Uses Man in the Browser Attacks to Steal Credentials and Bypass MFA | Chetan Seripally | [Read More](https://medium.com/p/ab02bbb9ce38) |
+| Fri, 12 Dec 2025 18:10:51 GMT | HTB Challenges — WebVault Time Machine Investigation | Fardeen A. | [Read More](https://medium.com/p/e60c80eccd3b) |
+| Fri, 12 Dec 2025 18:09:05 GMT | The Governance Layer Your AI CLI Tools Are Missing | Paul Laudeman | [Read More](https://medium.com/p/dadb3287bdb9) |
+| Fri, 12 Dec 2025 18:08:04 GMT | CORS Errors Driving You Crazy? Here’s How to Fix Them Properly | Navanath Jadhav | [Read More](https://medium.com/p/03cb99a5180c) |
+| Fri, 12 Dec 2025 18:03:41 GMT | Hacking: The Art of Exploitation | Samina Perveen | [Read More](https://medium.com/p/ba5d7b71c466) |
+| Fri, 12 Dec 2025 18:01:16 GMT | Apple’s Silent Shake-Up: Why So Many Leaders Are Leaving and What It Means for the Future | Ankit Gajera | [Read More](https://medium.com/p/a74ec8638656) |
+| Fri, 12 Dec 2025 17:58:46 GMT | 10 Powerful Mind Hacks That Rewire Your Brain for Success : | MINHAJUL ISLAM | [Read More](https://medium.com/p/2fbfefad9eb7) |
+| Fri, 12 Dec 2025 17:52:53 GMT | I Reviewed 500+ Cybersecurity Portfolios. Here’s Why Yours Isn’t Getting You Hired | Abdullah Javeed | [Read More](https://medium.com/p/a1edf871bb0d) |
+| Fri, 12 Dec 2025 17:52:45 GMT | Mi Home Security Camera (MJSXJ02CM) — Technical Teardown + UART Boot Analysis | Aaronjjose | [Read More](https://medium.com/p/6eb188a45678) |
+| Fri, 12 Dec 2025 17:42:12 GMT | 第一張資安證照 CompTIA Security+ 701 | William | [Read More](https://medium.com/p/4f43d803d03b) |
+| Fri, 12 Dec 2025 17:42:07 GMT | Advent of Cyber 25 — Day 11 — XSS — Merry XSSMas | cybertactic | [Read More](https://medium.com/p/7f667d8cc4d1) |
 | Fri, 12 Dec 2025 17:36:41 GMT | Setting Up a VLAN-Isolated Cybersecurity Home Lab | 0xmatchaberry | [Read More](https://medium.com/p/957820f43138) |
 | Fri, 12 Dec 2025 17:29:33 GMT | Advent of Cyber 25 — Day 10— SOC Alert Triaging — Tinsel Triage | cybertactic | [Read More](https://medium.com/p/be44362103a6) |
 | Fri, 12 Dec 2025 17:28:38 GMT | How Robotics Is Transforming Modern Security Management: Real Use Cases From the Field | Teona | [Read More](https://medium.com/p/c26b08fbabc2) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 12:57:27 GMT | Why Most Developers Write Insecure Code Without Realizing It | Hania Khan | [Read More](https://medium.com/p/097b1f74b6eb) |
 | Fri, 12 Dec 2025 12:57:24 GMT | PART 2: A Complete Guide to Microsoft Defender for Cloud Apps (MDCA) | BoNeZ | [Read More](https://medium.com/p/72fe36f256ba) |
 | Fri, 12 Dec 2025 12:56:34 GMT | Linux Threat Detection 2 Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/69d2cb8a2741) |
-| Fri, 12 Dec 2025 12:53:34 GMT | Decentralized Identity (DID): The Next Revolution in User Authentication | Codearies | [Read More](https://medium.com/p/0fa180d7068a) |
-| Fri, 12 Dec 2025 12:53:31 GMT | URGENT SECURITY ALERT for Next.js and React developers | Aemann Nueva | [Read More](https://medium.com/p/a1240b3daf47) |
-| Fri, 12 Dec 2025 12:52:40 GMT | Advent of Cyber 2025 Day 11-XSS Merry XSSMas- TryHackMe | Md Amjad | [Read More](https://medium.com/p/31dfd28694f4) |
-| Fri, 12 Dec 2025 12:50:18 GMT | Quantum Computing and the Impending Security Threats to Cryptocurrencies | Dejia Wang | [Read More](https://medium.com/p/24fc6639db63) |
-| Fri, 12 Dec 2025 12:49:08 GMT | What Is Driving Hyderabad’s Surge in Global Capability Centre? | sunainask2000 | [Read More](https://medium.com/p/d38d0e32f11f) |
-| Fri, 12 Dec 2025 12:31:11 GMT | What is Hello Future Technologies (HFT)? | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/cf3449ba270a) |
-| Fri, 12 Dec 2025 12:28:52 GMT | GPS Truck Tracking Device Trusted by 1,400+ Truck Owners | Top Tracking System | [Read More](https://medium.com/p/de57f9b4b723) |
-| Fri, 12 Dec 2025 12:23:50 GMT | Critical Surge in Threat Activity Hits Core and IoT Platforms | Loginsoft | [Read More](https://medium.com/p/549fa9aa020b) |
-| Fri, 12 Dec 2025 12:23:32 GMT | Google Appoints Amin Vahdat as Chief AI Infrastructure Technologist: A Major Shift in AI and Cloud… | Ovabuzz | [Read More](https://medium.com/p/3b7ad35b3677) |
-| Fri, 12 Dec 2025 12:22:01 GMT | TryHackMe ChillHack ❄️: Complete Walkthrough | intheloop | [Read More](https://medium.com/p/a18135e67afd) |
-| Fri, 12 Dec 2025 12:20:48 GMT | Day 130 — Narnia Level-4 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/4e6829197c86) |
-| Fri, 12 Dec 2025 12:20:23 GMT | Inside the 2.4 GHz Jungle: How ISM Devices Collide, Interfere, and Expose Security Gaps | Michael Preston | [Read More](https://medium.com/p/217e2929535f) |
-| Fri, 12 Dec 2025 12:16:30 GMT | How to Protect Your Personal Information Online in High-Risk Environments | MrKarthikKN | [Read More](https://medium.com/p/ee2cd9c9ba93) |
-| Fri, 12 Dec 2025 12:16:17 GMT | Oracle ZDLRA: Incident Response and “Break-Glass” Procedures | Arsalan Dehghani Sariyarghan | [Read More](https://medium.com/p/ecb1a3dbf6f6) |
-| Fri, 12 Dec 2025 12:08:23 GMT | For developers and entrepreneurs: This represents one of the largest asymmetric information… | Berend Watchus | [Read More](https://medium.com/p/65ffa52b6f71) |
-| Fri, 12 Dec 2025 12:03:51 GMT | What is CORS? Why is it important? | Sahil Gupta | [Read More](https://medium.com/p/9a875b0253cd) |
-| Fri, 12 Dec 2025 11:59:00 GMT | Hands-On Understanding of OWASP Top 10: Broken Access Control | Yoshiyuki Watanabe | [Read More](https://medium.com/p/938dd7665848) |
-| Fri, 12 Dec 2025 11:52:09 GMT | Nasa HOF, How did i got this? | Charon19d | [Read More](https://medium.com/p/6bec416a51da) |
-| Fri, 12 Dec 2025 11:50:08 GMT | Year-End Christmas Sale on Cybersecurity Courses — Limited Time Only | cyber security Updates | [Read More](https://medium.com/p/c9b04e301a75) |
-| Fri, 12 Dec 2025 11:45:17 GMT | Ligolo-ng: The Ultimate Pivoting Tool for Modern Pentesting | Moustafa Abdelmaksoud | [Read More](https://medium.com/p/ee586299e06d) |
-| Fri, 12 Dec 2025 11:44:14 GMT | IT Audit Vs Internal audit : What’s the difference ? | Jane Omoteshowo Onwuegbuosa | [Read More](https://medium.com/p/6c179f7d8421) |
