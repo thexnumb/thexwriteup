@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 14:19:25 GMT | DOM XSS in innerHTML Sink (location.search → innerHTML) | Aditya Bhatt | [Read More](https://medium.com/p/e2c11b21a6cb) |
+| Fri, 12 Dec 2025 14:09:42 GMT | Infinity Learning lab: EC2 Compromise — Writeup | Hubert | [Read More](https://medium.com/p/592fb031da31) |
+| Fri, 12 Dec 2025 14:06:02 GMT | How Multi-Channel CCTV Monitoring Works — Simplified for Everyone! | Paul Meyer | [Read More](https://medium.com/p/e44d298b5209) |
+| Fri, 12 Dec 2025 14:03:51 GMT | From Detection to Disclosure: Analysis and Documentation of an XSS in Microsoft | Rahul Hoysala | [Read More](https://medium.com/p/d0d7dc196460) |
+| Fri, 12 Dec 2025 13:57:32 GMT | Securing AKS Web Applications with Azure AD and OAuth2 Proxy | Marouane Bouzida | [Read More](https://medium.com/p/a6f642366353) |
+| Fri, 12 Dec 2025 13:56:13 GMT | Hunting Bugs in the Shadows of a Global Energy Giant: The Reflected XSS Hidden in a VPN Portal | Anshubind | [Read More](https://medium.com/p/8f3b0cd9a441) |
+| Fri, 12 Dec 2025 13:55:39 GMT | When env.js Breaks Bad: How a Single File Exposed Critical Secrets in a Global Enterprise | Anshubind | [Read More](https://medium.com/p/f114b2f8613a) |
+| Fri, 12 Dec 2025 13:55:19 GMT | React2Shell Krizi: React Sunucu Bileşenlerinde Kritik Güvenlik Açıkları ve İkinci Dalga Tehditler | Burak Demiröz | [Read More](https://medium.com/p/ebd44072ef03) |
+| Fri, 12 Dec 2025 13:54:38 GMT | The Slow, Silent Heartbreak I Never Saw Coming. | Stephanieee ink. | [Read More](https://medium.com/p/da90898d199f) |
+| Fri, 12 Dec 2025 13:51:35 GMT | AI Security Risks in the Digital Economy | Tim Murkomen | [Read More](https://medium.com/p/a63a16c8f1eb) |
+| Fri, 12 Dec 2025 13:50:06 GMT | Stop Leaking Secrets in Your Logs /Meet sanitizer for Golang | Xanco | [Read More](https://medium.com/p/919b7a23302c) |
+| Fri, 12 Dec 2025 13:39:33 GMT | How to “Child-Proof” a Windows Laptop in 10 Minutes or Less | Night walkr | [Read More](https://medium.com/p/6264db87da94) |
+| Fri, 12 Dec 2025 13:34:41 GMT | The Enemy Within: Why 60% of Data Breaches Start with an Employee | Night walkr | [Read More](https://medium.com/p/6d71692482bb) |
+| Fri, 12 Dec 2025 13:32:18 GMT | AI and AI Red Teaming | Menesay | [Read More](https://medium.com/p/5c20a03f295e) |
 | Fri, 12 Dec 2025 13:24:30 GMT | Cross‑Site WebSocket Hijacking: When target.com Listens to Evil.com | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/658afad330e0) |
 | Fri, 12 Dec 2025 13:16:58 GMT | Advent of Cyber 2025 Prep Track | Kshitij Gupta | [Read More](https://medium.com/p/1376237a73a7) |
 | Fri, 12 Dec 2025 13:08:24 GMT | The New AI Poisoning Attack Vector Scammers are Using NOW | Phil Stafford | [Read More](https://medium.com/p/dbc0f98b199f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 08:31:55 GMT | The First Time I Understood an Attack Chain | Fateyaly | [Read More](https://medium.com/p/1fc01f68bda2) |
 | Fri, 12 Dec 2025 08:27:15 GMT | PwnTillDawn Morty Writeup | Bazil Brohi | [Read More](https://medium.com/p/d9636ed92a1c) |
 | Fri, 12 Dec 2025 08:22:11 GMT | ⭐ How to Tell Real Quantum Breakthroughs From Hype | Oliver H Blake | [Read More](https://medium.com/p/2c56650a2b0e) |
-| Fri, 12 Dec 2025 08:17:47 GMT | The Device Refresh Cycle: Your Secret Weapon for Fast, Secure Tech | Unduit Editorial Team | [Read More](https://medium.com/p/8f9b53dff653) |
-| Fri, 12 Dec 2025 08:06:15 GMT | Data Demons: Exposing the hidden risks inside analytics | Sam.KL | [Read More](https://medium.com/p/ced7fda9fa65) |
-| Fri, 12 Dec 2025 08:03:55 GMT | The Cybersecurity Course That Made Me Question Everything I Do Online | Vijay Kumar Gupta | [Read More](https://medium.com/p/8feae3a738d5) |
-| Fri, 12 Dec 2025 08:02:19 GMT | I Didn’t Know My Voice — Only Its Echo | Łukasz Ratajczak | [Read More](https://medium.com/p/68471bf979d9) |
-| Fri, 12 Dec 2025 08:00:28 GMT | NETREAPER: The All-in-One Toolkit for Network Security Testing | Sajidur Rahman | [Read More](https://medium.com/p/91c27c114bfc) |
-| Fri, 12 Dec 2025 08:00:26 GMT | NANOREMOTE: When Google Drive Becomes the Operator’s Control Panel | Germano Costi | [Read More](https://medium.com/p/634be00524b9) |
-| Fri, 12 Dec 2025 07:54:59 GMT | ISO 27001 Requirements: A Complete Guide to Protecting Business Value | SecureSlate | [Read More](https://medium.com/p/97d63b2c6148) |
-| Fri, 12 Dec 2025 07:51:51 GMT | What I Learned This Month Reflections from the Frontlines: November Learnings | Fook Hwa Tan | [Read More](https://medium.com/p/d2100a638678) |
-| Fri, 12 Dec 2025 07:50:26 GMT | My 3 Favorite Leadership Books (and Why) These Shaped My Thinking in Strategy, Faith, and Cyber | Fook Hwa Tan | [Read More](https://medium.com/p/fa6e3efaa6a7) |
-| Fri, 12 Dec 2025 07:49:42 GMT | Learning Race Condition — A Complete Guide | Rajesh Kumar | [Read More](https://medium.com/p/e5ff11011d47) |
-| Fri, 12 Dec 2025 07:46:10 GMT | Top 5 Firewall Mistakes Businesses Make — and How ANSI Technologies Helps You Avoid Them | ANSI Technologies | [Read More](https://medium.com/p/244457287a06) |
-| Fri, 12 Dec 2025 07:45:11 GMT | Top Endpoint Security Mistakes That Cost Companies Millions — And How ANSI Technologies Helps You… | ANSI Technologies | [Read More](https://medium.com/p/b80f7ff55c15) |
-| Fri, 12 Dec 2025 07:42:25 GMT | The Dark Web of Pakistan’s Call Centers | Fizzah Ashraf | [Read More](https://medium.com/p/4e85311d847c) |
-| Fri, 12 Dec 2025 07:40:16 GMT | What I Wish I Knew About IT in Shanghai | Alex Graham | [Read More](https://medium.com/p/31e8394d2108) |
