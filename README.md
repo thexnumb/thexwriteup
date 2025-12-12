@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 23:25:20 GMT | Segurança em AWS — riscos e cuidados com políticas IAM | Gabriel Simeoni | [Read More](https://medium.com/p/df85f4f2f06d) |
+| Fri, 12 Dec 2025 23:24:43 GMT | TRYHACKME AOC 2025 XSS - Merry XSSMas Writeup | Saiaditya | [Read More](https://medium.com/p/407bd028882d) |
+| Fri, 12 Dec 2025 23:21:00 GMT | Um bom líder sabe distinguir amizade de coleguismo. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/197b2e74e333) |
+| Fri, 12 Dec 2025 23:19:06 GMT | Red Teams as a Practice Framework for Audit-Ready Organizations | Dr Casey LaFrance | [Read More](https://medium.com/p/25df79e556e4) |
 | Fri, 12 Dec 2025 23:10:08 GMT | Ransomware in 2025: What Every Small and Midsize Business Needs to Know to Stay Protected | Configr Technologies | [Read More](https://medium.com/p/bb97677fdc76) |
 | Fri, 12 Dec 2025 23:06:44 GMT | Cyberattack Warning: MacStealer Malware Spread Through Fake ChatGPT Prompts | AI THOUGHT | [Read More](https://medium.com/p/edc3ac0bc19f) |
 | Fri, 12 Dec 2025 23:05:04 GMT | Exploring Network Traffic Analysis and Manipulation Techniques | Seun odebode | [Read More](https://medium.com/p/462dde68df67) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 15:32:14 GMT | A Terrible Night (1896) | Willow Redd | [Read More](https://medium.com/p/999db4293cc8) |
 | Fri, 12 Dec 2025 15:30:02 GMT | “When Menu Choices Turn Malicious: Uncovering an XSS Bug in Zomato’s Widgets” | Aman Sharma | [Read More](https://medium.com/p/62f29a9f0b03) |
 | Fri, 12 Dec 2025 15:28:16 GMT | Knitting your own sweater. | Whitney Fakolade | [Read More](https://medium.com/p/b998f84f1a1e) |
-| Fri, 12 Dec 2025 15:27:59 GMT | Is Your Inbox (or Phone) a Trap.. ? 7 Phishing Types Every Professional Needs to Know. | Khabbab Sarker | [Read More](https://medium.com/p/423fb20c3477) |
-| Fri, 12 Dec 2025 15:10:57 GMT | Agentic Trust Part II | Raymon Epping | [Read More](https://medium.com/p/3258909d82c0) |
-| Fri, 12 Dec 2025 15:02:41 GMT | AI Security & Compliance: Why Safe AI Will Decide the Future of Enterprise Innovation | Vasuki Upadhya | [Read More](https://medium.com/p/3f8d1e685c5a) |
-| Fri, 12 Dec 2025 15:02:40 GMT | Cyber Briefing: 2025.12.12 | CyberMaterial | [Read More](https://medium.com/p/046425902b44) |
