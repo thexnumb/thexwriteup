@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 21:32:40 GMT | Taming the Beast: How We Migrated a 25-Year-Old, 40TB Data Warehouse to BigQuery in 12 Months | Ford Credit Technology & Product Team | [Read More](https://medium.com/p/1336c1705d52) |
+| Fri, 12 Dec 2025 21:28:10 GMT | I Cracked the Code to Break Into Cybersecurity (And You Can Too) | Abdullah Javeed | [Read More](https://medium.com/p/b45b25513d2a) |
+| Fri, 12 Dec 2025 21:28:01 GMT | Beginners: Copy-Paste This ONE Trick = Free $100–$500 Bounties | Monika sharma | [Read More](https://medium.com/p/bf4978fdfaa9) |
+| Fri, 12 Dec 2025 21:27:47 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded | KRY | [Read More](https://medium.com/p/6758fc9827c1) |
+| Fri, 12 Dec 2025 21:24:53 GMT | Fix vulnerabilities in Linux docker image and best practice on dockerfile | Shuo | [Read More](https://medium.com/p/3525fb2fb782) |
+| Fri, 12 Dec 2025 21:24:32 GMT | Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded | KRY | [Read More](https://medium.com/p/5e4efa696df4) |
 | Fri, 12 Dec 2025 21:12:51 GMT | The Two New RSC Vulnerabilities Every Next.js and React Developer Should Know About | Faisal haque | [Read More](https://medium.com/p/4cb101ebc0bc) |
 | Fri, 12 Dec 2025 21:10:55 GMT | Active Directory Delegation Abuse | Mal3vAntCtrl | [Read More](https://medium.com/p/ca7283944117) |
 | Fri, 12 Dec 2025 21:05:20 GMT | Voltaire in the Server Room: An Enlightenment Critique of Modern Cybersecurity Policy | CCD-IS | [Read More](https://medium.com/p/ff0e39b53c82) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 14:32:50 GMT | (Comptia A+) Understanding Malware: Types, Functions, and Symptoms | Vignesh R | [Read More](https://medium.com/p/9592d3c826f4) |
 | Fri, 12 Dec 2025 14:32:50 GMT | Who would you choose: someone who loves you, or someone you love? | Eilen Lexus | [Read More](https://medium.com/p/57299b6f8439) |
 | Fri, 12 Dec 2025 14:32:50 GMT | Layer 2 Explained Simply: The Secret Layer That Adds MAC Addresses | ajay devaliya | [Read More](https://medium.com/p/4bb21e114f6e) |
-| Fri, 12 Dec 2025 14:31:38 GMT | Security Perspective on Python 3.14 | Maikel Mardjan | [Read More](https://medium.com/p/4c8f404e1c03) |
-| Fri, 12 Dec 2025 14:29:25 GMT | DOM XSS in jQuery href Attribute Sink (location.search → jQuery.attr) | Aditya Bhatt | [Read More](https://medium.com/p/958ce0e52904) |
-| Fri, 12 Dec 2025 14:24:07 GMT | The Rise of ITDR: Why Identity Threat Detection & Response Is Becoming the New Frontline of… | Sunnysinha | [Read More](https://medium.com/p/b665a724ced5) |
-| Fri, 12 Dec 2025 14:23:04 GMT | Critical Security Vulnerability in React Server Components: What Developers Need to Know | Huzaifa Aslam | [Read More](https://medium.com/p/6b8c5efb9eb3) |
-| Fri, 12 Dec 2025 14:22:11 GMT | What is SSL Bridging and How Does It Work? | Dinu Gitlan | [Read More](https://medium.com/p/5c71c704a9e9) |
-| Fri, 12 Dec 2025 14:19:25 GMT | DOM XSS in innerHTML Sink (location.search → innerHTML) | Aditya Bhatt | [Read More](https://medium.com/p/e2c11b21a6cb) |
