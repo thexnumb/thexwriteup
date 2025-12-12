@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 14:35:57 GMT | Backup Lies — Why Your “Secured” Backups Aren’t Actually Recoverable | JSOC IT BLOG | [Read More](https://medium.com/p/624e0c478a3b) |
+| Fri, 12 Dec 2025 14:33:28 GMT | Spring Boot ve JWT: API’nizi Modern Yöntemlerle Koruyun | Baran Kaya | [Read More](https://medium.com/p/60285b3d84e4) |
+| Fri, 12 Dec 2025 14:32:50 GMT | (Comptia A+) Understanding Malware: Types, Functions, and Symptoms | Vignesh R | [Read More](https://medium.com/p/9592d3c826f4) |
+| Fri, 12 Dec 2025 14:32:50 GMT | Who would you choose: someone who loves you, or someone you love? | Eilen Lexus | [Read More](https://medium.com/p/57299b6f8439) |
+| Fri, 12 Dec 2025 14:32:50 GMT | Layer 2 Explained Simply: The Secret Layer That Adds MAC Addresses | ajay devaliya | [Read More](https://medium.com/p/4bb21e114f6e) |
+| Fri, 12 Dec 2025 14:31:38 GMT | Security Perspective on Python 3.14 | Maikel Mardjan | [Read More](https://medium.com/p/4c8f404e1c03) |
+| Fri, 12 Dec 2025 14:29:25 GMT | DOM XSS in jQuery href Attribute Sink (location.search → jQuery.attr) | Aditya Bhatt | [Read More](https://medium.com/p/958ce0e52904) |
+| Fri, 12 Dec 2025 14:24:07 GMT | The Rise of ITDR: Why Identity Threat Detection & Response Is Becoming the New Frontline of… | Sunnysinha | [Read More](https://medium.com/p/b665a724ced5) |
+| Fri, 12 Dec 2025 14:23:04 GMT | Critical Security Vulnerability in React Server Components: What Developers Need to Know | Huzaifa Aslam | [Read More](https://medium.com/p/6b8c5efb9eb3) |
+| Fri, 12 Dec 2025 14:22:11 GMT | What is SSL Bridging and How Does It Work? | Dinu Gitlan | [Read More](https://medium.com/p/5c71c704a9e9) |
 | Fri, 12 Dec 2025 14:19:25 GMT | DOM XSS in innerHTML Sink (location.search → innerHTML) | Aditya Bhatt | [Read More](https://medium.com/p/e2c11b21a6cb) |
+| Fri, 12 Dec 2025 14:11:11 GMT | The Great Online Money Hunt: Real Bucks vs. Bogus Scams! | Lincoln j | [Read More](https://medium.com/p/e15301893fe4) |
 | Fri, 12 Dec 2025 14:09:42 GMT | Infinity Learning lab: EC2 Compromise — Writeup | Hubert | [Read More](https://medium.com/p/592fb031da31) |
 | Fri, 12 Dec 2025 14:06:02 GMT | How Multi-Channel CCTV Monitoring Works — Simplified for Everyone! | Paul Meyer | [Read More](https://medium.com/p/e44d298b5209) |
 | Fri, 12 Dec 2025 14:03:51 GMT | From Detection to Disclosure: Analysis and Documentation of an XSS in Microsoft | Rahul Hoysala | [Read More](https://medium.com/p/d0d7dc196460) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 09:00:37 GMT | NIST’s “QPV” Mindset: Turning Post-Quantum Risk Into Measurable Readiness | Barbaros Emre Alagöz | [Read More](https://medium.com/p/ee16f06e7013) |
 | Fri, 12 Dec 2025 08:58:04 GMT | Why Organizations Need a Structured Security Governance Model | Rahman Iqbal | [Read More](https://medium.com/p/9ad71c421379) |
 | Fri, 12 Dec 2025 08:57:34 GMT | How to Protect Your Accounts Online | Akshaya Mary Lingala | [Read More](https://medium.com/p/f6342cdc7790) |
-| Fri, 12 Dec 2025 08:51:42 GMT | The Daily Tech Digest: 12 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/693595eeef2c) |
-| Fri, 12 Dec 2025 08:50:31 GMT | Protocol-Level Network Threat Hunting: A Wireshark-Centric Guide | Andrey Pautov | [Read More](https://medium.com/p/a6770ffc96c6) |
-| Fri, 12 Dec 2025 08:49:39 GMT | Why We Built CheckMyCreds — Because Your Credentials Deserve Better Protection | Dhanesh Dodia - HeyDanny | [Read More](https://medium.com/p/5786abe1696b) |
-| Fri, 12 Dec 2025 08:47:05 GMT | If Disaster Struck Today, How Much Data Would You Lose? | Redfox Security | [Read More](https://medium.com/p/99b25b2b8267) |
-| Fri, 12 Dec 2025 08:45:28 GMT | Lab: Method-based access control can be circumvented | Songül Kızılay Özügürler | [Read More](https://medium.com/p/18f855c5c313) |
-| Fri, 12 Dec 2025 08:44:03 GMT | Lab: Unprotected admin functionality with unpredictable URL | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6a45d874ecf7) |
-| Fri, 12 Dec 2025 08:38:20 GMT | “It Wasn’t Me”: How a Childhood Habit Explains Repudiation and the Power of AAA in Cybersecurity | Abdulraheem Abdulsalam | [Read More](https://medium.com/p/367f024ab127) |
-| Fri, 12 Dec 2025 08:37:07 GMT | TryHackMe: Gallery Writeup | cbev | [Read More](https://medium.com/p/91f407777863) |
-| Fri, 12 Dec 2025 08:31:55 GMT | The First Time I Understood an Attack Chain | Fateyaly | [Read More](https://medium.com/p/1fc01f68bda2) |
-| Fri, 12 Dec 2025 08:27:15 GMT | PwnTillDawn Morty Writeup | Bazil Brohi | [Read More](https://medium.com/p/d9636ed92a1c) |
-| Fri, 12 Dec 2025 08:22:11 GMT | ⭐ How to Tell Real Quantum Breakthroughs From Hype | Oliver H Blake | [Read More](https://medium.com/p/2c56650a2b0e) |
