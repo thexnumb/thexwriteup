@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 04:51:29 GMT | Unmasking the King: A Strategic Threat Profile of LockBit 5.0 | Zacdmw | [Read More](https://medium.com/p/60d56da100d9) |
+| Fri, 12 Dec 2025 04:48:59 GMT | REACT2SHELL EXPLOITATION | Rakesh Krishnan | [Read More](https://medium.com/p/ed8c06a29432) |
+| Fri, 12 Dec 2025 04:32:17 GMT | Social Media & Messaging: Where Privacy Goes to Die | Raghunandan J | [Read More](https://medium.com/p/c472e1ffa1f9) |
+| Fri, 12 Dec 2025 04:32:03 GMT | Top 10 IT Challenges for 2026 | HostNOC | [Read More](https://medium.com/p/e1c096de6c16) |
+| Fri, 12 Dec 2025 03:59:03 GMT | What Is Ethical Hacking and Why Do We Need Ethical Hackers? | Vishalraj | [Read More](https://medium.com/p/95fc3141ce16) |
 | Fri, 12 Dec 2025 03:32:16 GMT | Inside the Lazarus Job Scam: How Researchers Captured a North Korean APT Live in Action | Deven Chhajed | [Read More](https://medium.com/p/0fe512959efe) |
 | Fri, 12 Dec 2025 03:15:17 GMT | Someone tried to steal $10,000 using a non-custodial wallet called Atomic Wallet today… | Godswill Akpan | [Read More](https://medium.com/p/4e49f23e1bb7) |
 | Fri, 12 Dec 2025 03:04:51 GMT | ZKpass: The Secret Key to Web3’s Digital Identity Revolution | sukma ramantika | [Read More](https://medium.com/p/aa9545585325) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 17:54:45 GMT | Securing AI Workloads in Kubernetes: Why Traditional Network Security Isn’t Enough | Tigera | [Read More](https://medium.com/p/f91fe77495b4) |
 | Thu, 11 Dec 2025 17:52:41 GMT | TryHackMe: Advent of Cyber 2025 — Day 11 Walkthrough | Inyanji Lynnette | [Read More](https://medium.com/p/05613b62e484) |
 | Thu, 11 Dec 2025 17:42:32 GMT | When HTML5 Videos Refuse to Play: Debugging the “Video File Not Found” Error on Ubuntu — 1/3 | Anzalo Quin | [Read More](https://medium.com/p/3ee8b035a03d) |
-| Thu, 11 Dec 2025 17:41:24 GMT | SIEM Explained Simply: A Beginner’s Guide to Security Monitoring & Threat Detection | Natarajan C K | [Read More](https://medium.com/p/3ec781a0322f) |
-| Thu, 11 Dec 2025 17:38:56 GMT | Your Fancy Cybersecurity Budget Is Wasted Money. Here’s What Actually Matters. | Hania Khan | [Read More](https://medium.com/p/477437829fc7) |
-| Thu, 11 Dec 2025 17:36:39 GMT | ️ Digital Archaeology: How to Unearth Hidden Technical Manuals with Google Dorks | Anzalo Quin | [Read More](https://medium.com/p/e10cecaf0078) |
-| Thu, 11 Dec 2025 17:31:34 GMT | HTB CTF Write-Up: Meow | Paulo Melo | [Read More](https://medium.com/p/b49f08afe390) |
-| Thu, 11 Dec 2025 17:29:50 GMT | Cybercriminals Exploit Google Ads to Spread macOS Malware Through Fake AI Conversations | Technijian | [Read More](https://medium.com/p/bd35a90889ab) |
