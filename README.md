@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 17:36:41 GMT | Setting Up a VLAN-Isolated Cybersecurity Home Lab | 0xmatchaberry | [Read More](https://medium.com/p/957820f43138) |
+| Fri, 12 Dec 2025 17:29:33 GMT | Advent of Cyber 25 — Day 10— SOC Alert Triaging — Tinsel Triage | cybertactic | [Read More](https://medium.com/p/be44362103a6) |
+| Fri, 12 Dec 2025 17:28:38 GMT | How Robotics Is Transforming Modern Security Management: Real Use Cases From the Field | Teona | [Read More](https://medium.com/p/c26b08fbabc2) |
+| Fri, 12 Dec 2025 17:27:40 GMT | VirtualBox Network Adapter Types - Beginner-Friendly Guide | Avrodip Joy | [Read More](https://medium.com/p/e0b21d7a7bc1) |
+| Fri, 12 Dec 2025 17:22:00 GMT | Neural Networks: Basics and Behavior | Xecyber | [Read More](https://medium.com/p/9d62d6040c64) |
+| Fri, 12 Dec 2025 17:18:53 GMT | AI Agent: AresGPT for SCRUM teams Red Teaming for Product Lifecycle | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/f8bb71ca8616) |
+| Fri, 12 Dec 2025 17:16:24 GMT | React2Shell: the critical RCE in React Server Components everyone needs to patch now | Satvik Tripathi | [Read More](https://medium.com/p/7e0fad7a698f) |
+| Fri, 12 Dec 2025 17:16:07 GMT | ️‍♂️ Stealth Scan Explained: How Hackers Probe Networks Without Being Seen | Natarajan C K | [Read More](https://medium.com/p/c2d38b553172) |
 | Fri, 12 Dec 2025 16:52:31 GMT | Cybersecurity News Review — Week 50 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/d2bf8c2c02c7) |
 | Fri, 12 Dec 2025 16:52:08 GMT | Christmas Wishes for Everybody | Randy Fredlund | [Read More](https://medium.com/p/ddcc2fa57b97) |
 | Fri, 12 Dec 2025 16:48:06 GMT | Security flaw in Hama Film photo booth website exposes customer photos and videos online | TechByte360 | [Read More](https://medium.com/p/c3949423a1f9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 11:50:08 GMT | Year-End Christmas Sale on Cybersecurity Courses — Limited Time Only | cyber security Updates | [Read More](https://medium.com/p/c9b04e301a75) |
 | Fri, 12 Dec 2025 11:45:17 GMT | Ligolo-ng: The Ultimate Pivoting Tool for Modern Pentesting | Moustafa Abdelmaksoud | [Read More](https://medium.com/p/ee586299e06d) |
 | Fri, 12 Dec 2025 11:44:14 GMT | IT Audit Vs Internal audit : What’s the difference ? | Jane Omoteshowo Onwuegbuosa | [Read More](https://medium.com/p/6c179f7d8421) |
-| Fri, 12 Dec 2025 11:38:22 GMT | “The Easiest Way to Hack WiFi on Ubuntu (No One Tells You This)” | ghostyjoe | [Read More](https://medium.com/p/0660acc1f8f8) |
-| Fri, 12 Dec 2025 11:34:45 GMT | Reflecting on 2025: Gratitude, Growth, and What’s Next | Luke Appleby | [Read More](https://medium.com/p/a394b3ec8d89) |
-| Fri, 12 Dec 2025 11:30:48 GMT | Bash Scripting Basics Every Beginner Should Know | Joseph Fagbemi | [Read More](https://medium.com/p/d76c8ec32961) |
-| Fri, 12 Dec 2025 11:30:24 GMT | Building a Clean Room in a Fake World: The Corruption of Data (Maya) | Jayal Yadav | [Read More](https://medium.com/p/d468c0dc5b5a) |
-| Fri, 12 Dec 2025 11:25:21 GMT | Fuzzing Your Digital Forensic Tools So They Don’t Fumble in Court | Fatima Zakir | [Read More](https://medium.com/p/802557112ce1) |
-| Fri, 12 Dec 2025 11:22:01 GMT | Attacking WordPress - Vulnerability Scanning & Manual Verification | Amrsmooke | [Read More](https://medium.com/p/6d9c04d6fd8b) |
-| Fri, 12 Dec 2025 11:14:33 GMT | Security Lab Simulation Project Part 10: Sending Wazuh Alerts to Elasticsearch | Jenny | [Read More](https://medium.com/p/55e68e35d1c7) |
-| Fri, 12 Dec 2025 11:09:50 GMT | Stop Wasting Hours - This AI Unlocks your Hacking Skills in Minutes | Shahzaib | [Read More](https://medium.com/p/9b880e5d24b2) |
