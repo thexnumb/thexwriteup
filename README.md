@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 10:18:13 GMT | How I Earned ₹22,000 Just by Reporting “P5” Bugs (OSINT trick) | Rajankumarbarik | [Read More](https://medium.com/p/7effa189bdb8) |
+| Fri, 12 Dec 2025 10:11:08 GMT | Year-End Offer RHCSA and RHCE Training | Manisha Chaudhary | [Read More](https://medium.com/p/18ed3216d4b9) |
+| Fri, 12 Dec 2025 10:04:39 GMT | Landslide Detection in Chitral District Using Sentinel-1 SAR & Google Earth Engine (GEE) | Afedullah | [Read More](https://medium.com/p/29d1cbae8138) |
+| Fri, 12 Dec 2025 10:01:40 GMT | “Embracing Vulnerability: The Key to True Integrity and a Balanced Life You Deserve” | Binte Habib | [Read More](https://medium.com/p/fd6384807443) |
+| Fri, 12 Dec 2025 10:00:03 GMT | Why Most IT Courses Fail — and How Cognimab’s Cyber Security Program Actually Builds Real Skills | Cognimab | [Read More](https://medium.com/p/904ab475e5e5) |
+| Fri, 12 Dec 2025 09:52:44 GMT | How Hackers Are Exploiting Influencers | Himanshu Bhatt | [Read More](https://medium.com/p/a79588f34fc5) |
+| Fri, 12 Dec 2025 09:51:50 GMT | Build the Foundation of Cyber Defense Mastery — Certified Ethical Hacking Foundation | Adhiraj Kasabe | [Read More](https://medium.com/p/01114dafd5a7) |
+| Fri, 12 Dec 2025 09:50:27 GMT | AI-Powered Cybersecurity in the Digital Era: Key Risks, Challenges & Strategic Solutions | ICUBE TECHNOLABS | [Read More](https://medium.com/p/8366a0a54481) |
 | Fri, 12 Dec 2025 09:37:37 GMT | Why I Respect Hackers More Than Compliance Officers | Motasem Hamdan | [Read More](https://medium.com/p/7e014b8bbb4f) |
 | Fri, 12 Dec 2025 09:35:18 GMT | Cybersecurity in 2025: What Businesses Need | Devarshi Acharya | [Read More](https://medium.com/p/611278245aa1) |
 | Fri, 12 Dec 2025 09:35:09 GMT | Deepfake Scams Are Becoming Impossible to Detect- Here’s Why | Jordan Tate | [Read More](https://medium.com/p/36e239ec7f2d) |
@@ -105,11 +113,3 @@ Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d
 | Fri, 12 Dec 2025 04:48:31 GMT | Blockchain Secrets: The New Era of Data Security and Privacy | Kerala Blockchain Academy | [Read More](https://medium.com/p/e52abf1c5d45) |
 | Fri, 12 Dec 2025 04:32:17 GMT | Social Media & Messaging: Where Privacy Goes to Die | Raghunandan J | [Read More](https://medium.com/p/c472e1ffa1f9) |
 | Fri, 12 Dec 2025 04:32:03 GMT | Top 10 IT Challenges for 2026 | HostNOC | [Read More](https://medium.com/p/e1c096de6c16) |
-| Fri, 12 Dec 2025 03:59:03 GMT | What Is Ethical Hacking and Why Do We Need Ethical Hackers? | Vishalraj | [Read More](https://medium.com/p/95fc3141ce16) |
-| Fri, 12 Dec 2025 03:32:16 GMT | Inside the Lazarus Job Scam: How Researchers Captured a North Korean APT Live in Action | Deven Chhajed | [Read More](https://medium.com/p/0fe512959efe) |
-| Fri, 12 Dec 2025 03:15:17 GMT | Someone tried to steal $10,000 using a non-custodial wallet called Atomic Wallet today… | Godswill Akpan | [Read More](https://medium.com/p/4e49f23e1bb7) |
-| Fri, 12 Dec 2025 03:04:51 GMT | ZKpass: The Secret Key to Web3’s Digital Identity Revolution | sukma ramantika | [Read More](https://medium.com/p/aa9545585325) |
-| Fri, 12 Dec 2025 02:39:45 GMT | แจ้งเตือนช่องโหว่ร้ายแรงใน Apache Tika CVE-2025–66516 ความรุนแรงระดับ 10 ตรวจสอบและแก้ไข ด่วน!! | ThaiCERT By NCSA | [Read More](https://medium.com/p/c094e793e9c1) |
-| Fri, 12 Dec 2025 02:26:44 GMT | Why SilentWire Cybersecurity Delivers What Other Firms Promise | SilentWire Cybersecurity | [Read More](https://medium.com/p/8f4d343c73e3) |
-| Fri, 12 Dec 2025 02:18:19 GMT | XSS — Merry XSSMas | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/6346833c57e0) |
-| Fri, 12 Dec 2025 02:09:47 GMT | A Complete Guide to Computer Viruses: Everything You’ve Seen, Heard About, or Even Experienced But… | Su Bak | [Read More](https://medium.com/p/622b4d99baa4) |
