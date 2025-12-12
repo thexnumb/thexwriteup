@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 16:33:09 GMT | When Outdated IT Becomes a Security Risk — What Your Company Needs to Know | Cordula Boeck | [Read More](https://medium.com/p/58bb97c38caf) |
+| Fri, 12 Dec 2025 16:31:58 GMT | The Unsolvable Problem: Why Prompt Injection May Define the AI Security Era | Shashwata Bhattacharjee | [Read More](https://medium.com/p/94a0433318a4) |
+| Fri, 12 Dec 2025 16:27:17 GMT | Verified Onion Links: A 2025 Research Directory for Safe Tor Navigation | Tor BBB | [Read More](https://medium.com/p/fae7dfecbb3d) |
 | Fri, 12 Dec 2025 16:25:26 GMT | Bruce Firmware: The Unlikely Cybersecurity Tool in a 3D Printer’s Heart | Nisarg Patel | [Read More](https://medium.com/p/af979842b979) |
 | Fri, 12 Dec 2025 16:18:17 GMT | I Started My Cybersecurity Career Early — Here’s What I Learned the Hard Way | Thomas Kim | [Read More](https://medium.com/p/cb6349885428) |
 | Fri, 12 Dec 2025 16:17:07 GMT | From the Information Age to the Age of Intelligence! | Dr. Ajaya Sankar | [Read More](https://medium.com/p/4036598bfd77) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 11:06:41 GMT | The Things I Didn’t Say (But Wish I Did) | Inspire: Viva La Vida | [Read More](https://medium.com/p/da1df33f04ae) |
 | Fri, 12 Dec 2025 11:04:48 GMT | Learning SSRF — A Complete Guide | Rajesh Kumar | [Read More](https://medium.com/p/d3d775a3e05c) |
 | Fri, 12 Dec 2025 11:02:18 GMT | Expats Must Stay Vigilant to Reach Federal Services | Lsjaffee (Writer, Educator, Over-Thinker) | [Read More](https://medium.com/p/d8d2e1fc3af9) |
-| Fri, 12 Dec 2025 11:02:18 GMT | Signal Theft for Beginners: How Your Devices Gossip Behind Your Back | Franziska "Ziska" Fink | [Read More](https://medium.com/p/e5664595c672) |
-| Fri, 12 Dec 2025 10:58:11 GMT | Java Spring Boot ile Red Team Aracı Geliştirmek | mintercoder | [Read More](https://medium.com/p/07da03a8144e) |
-| Fri, 12 Dec 2025 10:56:39 GMT | ? | Adeoluwa Obadofin | [Read More](https://medium.com/p/86585dfabcb5) |
