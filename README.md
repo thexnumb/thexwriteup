@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 15:39:57 GMT | Reveal Hidden Files in Google Storage : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/850c709a63de) |
+| Fri, 12 Dec 2025 15:36:04 GMT | How I Helped Secure a Fintech Platform Through Responsible Disclosure | Vijay K | [Read More](https://medium.com/p/f5bd4cad2402) |
+| Fri, 12 Dec 2025 15:32:14 GMT | A Terrible Night (1896) | Willow Redd | [Read More](https://medium.com/p/999db4293cc8) |
+| Fri, 12 Dec 2025 15:30:02 GMT | “When Menu Choices Turn Malicious: Uncovering an XSS Bug in Zomato’s Widgets” | Aman Sharma | [Read More](https://medium.com/p/62f29a9f0b03) |
+| Fri, 12 Dec 2025 15:28:16 GMT | Knitting your own sweater. | Whitney Fakolade | [Read More](https://medium.com/p/b998f84f1a1e) |
+| Fri, 12 Dec 2025 15:27:59 GMT | Is Your Inbox (or Phone) a Trap.. ? 7 Phishing Types Every Professional Needs to Know. | Khabbab Sarker | [Read More](https://medium.com/p/423fb20c3477) |
 | Fri, 12 Dec 2025 15:10:57 GMT | Agentic Trust Part II | Raymon Epping | [Read More](https://medium.com/p/3258909d82c0) |
 | Fri, 12 Dec 2025 15:02:41 GMT | AI Security & Compliance: Why Safe AI Will Decide the Future of Enterprise Innovation | Vasuki Upadhya | [Read More](https://medium.com/p/3f8d1e685c5a) |
 | Fri, 12 Dec 2025 15:02:40 GMT | Cyber Briefing: 2025.12.12 | CyberMaterial | [Read More](https://medium.com/p/046425902b44) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 10:11:08 GMT | Year-End Offer RHCSA and RHCE Training | Manisha Chaudhary | [Read More](https://medium.com/p/18ed3216d4b9) |
 | Fri, 12 Dec 2025 10:04:39 GMT | Landslide Detection in Chitral District Using Sentinel-1 SAR & Google Earth Engine (GEE) | Afedullah | [Read More](https://medium.com/p/29d1cbae8138) |
 | Fri, 12 Dec 2025 10:01:40 GMT | “Embracing Vulnerability: The Key to True Integrity and a Balanced Life You Deserve” | Binte Habib | [Read More](https://medium.com/p/fd6384807443) |
-| Fri, 12 Dec 2025 10:00:03 GMT | Why Most IT Courses Fail — and How Cognimab’s Cyber Security Program Actually Builds Real Skills | Cognimab | [Read More](https://medium.com/p/904ab475e5e5) |
-| Fri, 12 Dec 2025 09:52:44 GMT | How Hackers Are Exploiting Influencers | Himanshu Bhatt | [Read More](https://medium.com/p/a79588f34fc5) |
-| Fri, 12 Dec 2025 09:51:50 GMT | Build the Foundation of Cyber Defense Mastery — Certified Ethical Hacking Foundation | Adhiraj Kasabe | [Read More](https://medium.com/p/01114dafd5a7) |
-| Fri, 12 Dec 2025 09:50:27 GMT | AI-Powered Cybersecurity in the Digital Era: Key Risks, Challenges & Strategic Solutions | ICUBE TECHNOLABS | [Read More](https://medium.com/p/8366a0a54481) |
-| Fri, 12 Dec 2025 09:42:16 GMT | AI Poisoning! Cybersecurity’s Next Global Challenge? | Creative Clicks | [Read More](https://medium.com/p/f28b68b8d08e) |
-| Fri, 12 Dec 2025 09:37:37 GMT | Why I Respect Hackers More Than Compliance Officers | Motasem Hamdan | [Read More](https://medium.com/p/7e014b8bbb4f) |
