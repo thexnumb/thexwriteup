@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 03:32:16 GMT | Inside the Lazarus Job Scam: How Researchers Captured a North Korean APT Live in Action | Deven Chhajed | [Read More](https://medium.com/p/0fe512959efe) |
+| Fri, 12 Dec 2025 03:15:17 GMT | Someone tried to steal $10,000 using a non-custodial wallet called Atomic Wallet today… | Godswill Akpan | [Read More](https://medium.com/p/4e49f23e1bb7) |
 | Fri, 12 Dec 2025 03:04:51 GMT | ZKpass: The Secret Key to Web3’s Digital Identity Revolution | sukma ramantika | [Read More](https://medium.com/p/aa9545585325) |
 | Fri, 12 Dec 2025 02:39:45 GMT | แจ้งเตือนช่องโหว่ร้ายแรงใน Apache Tika CVE-2025–66516 ความรุนแรงระดับ 10 ตรวจสอบและแก้ไข ด่วน!! | ThaiCERT By NCSA | [Read More](https://medium.com/p/c094e793e9c1) |
 | Fri, 12 Dec 2025 02:26:44 GMT | Why SilentWire Cybersecurity Delivers What Other Firms Promise | SilentWire Cybersecurity | [Read More](https://medium.com/p/8f4d343c73e3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 17:36:39 GMT | ️ Digital Archaeology: How to Unearth Hidden Technical Manuals with Google Dorks | Anzalo Quin | [Read More](https://medium.com/p/e10cecaf0078) |
 | Thu, 11 Dec 2025 17:31:34 GMT | HTB CTF Write-Up: Meow | Paulo Melo | [Read More](https://medium.com/p/b49f08afe390) |
 | Thu, 11 Dec 2025 17:29:50 GMT | Cybercriminals Exploit Google Ads to Spread macOS Malware Through Fake AI Conversations | Technijian | [Read More](https://medium.com/p/bd35a90889ab) |
-| Thu, 11 Dec 2025 17:19:59 GMT | Inside the React RSC Flaw Now Powering Cloud Shell Takeovers and Secret Theft | Chetan Seripally | [Read More](https://medium.com/p/cfb39cf45fdf) |
-| Thu, 11 Dec 2025 17:16:16 GMT | VS Code + GitHub: The Easiest Way to Upload Your Project | Shreya Patel | [Read More](https://medium.com/p/c4a919ecda7b) |
