@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 09:16:46 GMT | Mastering Mutual TLS in WSO2 APIM: Dynamic SSL Profiles for Backend Security | Chethan B S | [Read More](https://medium.com/p/2db9b2139f4a) |
+| Fri, 12 Dec 2025 09:12:31 GMT | How to Know our Phone Is Hacked — Signs, Real Examples & Protection Tips (2025) | AMAL AJI | [Read More](https://medium.com/p/43bc5631c922) |
+| Fri, 12 Dec 2025 09:08:01 GMT | Agentic Interoperability is Grounded in Containment, Not Control | Paul Knowles | [Read More](https://medium.com/p/c0105da55556) |
+| Fri, 12 Dec 2025 09:01:35 GMT | “Burp Suite for Dumb Humans: The Ultimate Click-By-Click Beginner Guide” | ghostyjoe | [Read More](https://medium.com/p/15f1cffe7603) |
+| Fri, 12 Dec 2025 09:00:37 GMT | NIST’s “QPV” Mindset: Turning Post-Quantum Risk Into Measurable Readiness | Barbaros Emre Alagöz | [Read More](https://medium.com/p/ee16f06e7013) |
+| Fri, 12 Dec 2025 08:58:04 GMT | Why Organizations Need a Structured Security Governance Model | Rahman Iqbal | [Read More](https://medium.com/p/9ad71c421379) |
+| Fri, 12 Dec 2025 08:57:34 GMT | How to Protect Your Accounts Online | Akshaya Mary Lingala | [Read More](https://medium.com/p/f6342cdc7790) |
+| Fri, 12 Dec 2025 08:51:42 GMT | The Daily Tech Digest: 12 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/693595eeef2c) |
+| Fri, 12 Dec 2025 08:50:31 GMT | Protocol-Level Network Threat Hunting: A Wireshark-Centric Guide | Andrey Pautov | [Read More](https://medium.com/p/a6770ffc96c6) |
+| Fri, 12 Dec 2025 08:49:39 GMT | Why We Built CheckMyCreds — Because Your Credentials Deserve Better Protection | Dhanesh Dodia - HeyDanny | [Read More](https://medium.com/p/5786abe1696b) |
+| Fri, 12 Dec 2025 08:47:05 GMT | If Disaster Struck Today, How Much Data Would You Lose? | Redfox Security | [Read More](https://medium.com/p/99b25b2b8267) |
+| Fri, 12 Dec 2025 08:45:28 GMT | Lab: Method-based access control can be circumvented | Songül Kızılay Özügürler | [Read More](https://medium.com/p/18f855c5c313) |
+| Fri, 12 Dec 2025 08:44:03 GMT | Lab: Unprotected admin functionality with unpredictable URL | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6a45d874ecf7) |
+| Fri, 12 Dec 2025 08:38:20 GMT | “It Wasn’t Me”: How a Childhood Habit Explains Repudiation and the Power of AAA in Cybersecurity | Abdulraheem Abdulsalam | [Read More](https://medium.com/p/367f024ab127) |
+| Fri, 12 Dec 2025 08:37:07 GMT | TryHackMe: Gallery Writeup | cbev | [Read More](https://medium.com/p/91f407777863) |
+| Fri, 12 Dec 2025 08:31:55 GMT | The First Time I Understood an Attack Chain | Fateyaly | [Read More](https://medium.com/p/1fc01f68bda2) |
+| Fri, 12 Dec 2025 08:27:15 GMT | PwnTillDawn Morty Writeup | Bazil Brohi | [Read More](https://medium.com/p/d9636ed92a1c) |
+| Fri, 12 Dec 2025 08:22:11 GMT | ⭐ How to Tell Real Quantum Breakthroughs From Hype | Oliver H Blake | [Read More](https://medium.com/p/2c56650a2b0e) |
 | Fri, 12 Dec 2025 08:17:47 GMT | The Device Refresh Cycle: Your Secret Weapon for Fast, Secure Tech | Unduit Editorial Team | [Read More](https://medium.com/p/8f9b53dff653) |
 | Fri, 12 Dec 2025 08:06:15 GMT | Data Demons: Exposing the hidden risks inside analytics | Sam.KL | [Read More](https://medium.com/p/ced7fda9fa65) |
 | Fri, 12 Dec 2025 08:03:55 GMT | The Cybersecurity Course That Made Me Question Everything I Do Online | Vijay Kumar Gupta | [Read More](https://medium.com/p/8feae3a738d5) |
@@ -95,21 +113,3 @@ Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d
 | Fri, 12 Dec 2025 01:00:52 GMT | How DareToExpose™ Uncovered 25 Years of Digital Surveillance | Daretoexpose | [Read More](https://medium.com/p/1b630506caef) |
 | Fri, 12 Dec 2025 00:52:01 GMT | Interesting Bug Bounty Findings I found in Android Application | m_kamal | [Read More](https://medium.com/p/3fa75b69cb19) |
 | Fri, 12 Dec 2025 00:51:33 GMT | What Is API Security and Why Should WE Care? | Hafsah Ashraf | [Read More](https://medium.com/p/4161e73a2ca6) |
-| Fri, 12 Dec 2025 00:48:44 GMT | Prefetch Analysis Home Lab | Roman Charleston | [Read More](https://medium.com/p/4c9e376c9e01) |
-| Fri, 12 Dec 2025 00:32:46 GMT | Encryption in Transit in a Distributed System | Moses Oderinde | [Read More](https://medium.com/p/ed9c11e1de09) |
-| Fri, 12 Dec 2025 00:23:27 GMT | Black Hat GEO in the LLM Era: Policy, Ethics, and the Fight for Information Integrity | Geolyze | [Read More](https://medium.com/p/d27357326249) |
-| Fri, 12 Dec 2025 00:23:24 GMT | Great AI Tools For Pentesters & OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/5bfcf4110285) |
-| Fri, 12 Dec 2025 00:23:12 GMT | The Most Used Tool in Bug Hunting — And How to Master It Like a Pro | Monika sharma | [Read More](https://medium.com/p/cb64c1f93895) |
-| Fri, 12 Dec 2025 00:16:09 GMT | THM — Tech_Supp0rt: 1 | 0xEnzoSantana | [Read More](https://medium.com/p/957d979059c7) |
-| Fri, 12 Dec 2025 00:04:36 GMT | Why is Cybersecurity broken today? | PlainText Cyber | [Read More](https://medium.com/p/4ed52da67536) |
-| Fri, 12 Dec 2025 00:02:16 GMT | OWASP API9: Cómo Explotar Shadow y Zombie APIs (Improper Inventory Management) | JPablo13 | [Read More](https://medium.com/p/e98dbf1c8c1d) |
-| Thu, 11 Dec 2025 23:49:11 GMT | How Do Patrol Services Work For Commercial Properties in California? | Comprehensive Security Services Inc. | [Read More](https://medium.com/p/048aea36575e) |
-| Thu, 11 Dec 2025 23:47:04 GMT | Alpine room official writeup | Soraya Djerrab | [Read More](https://medium.com/p/b6c562ea98ba) |
-| Thu, 11 Dec 2025 23:29:21 GMT | When Technology Turns into Theater: | Chier Hu | [Read More](https://medium.com/p/dc3cfea055b4) |
-| Thu, 11 Dec 2025 23:25:31 GMT | Why Does Privacy Matter? | Decentr | [Read More](https://medium.com/p/21f88553b07a) |
-| Thu, 11 Dec 2025 23:25:03 GMT | Software Is Being Rewritten by AI — And So Are the Attacks. | Cyber-AppSec | [Read More](https://medium.com/p/4face2bbddbe) |
-| Thu, 11 Dec 2025 23:21:58 GMT | SANS Holiday Hack 2025: Act I | Akshita Shah | [Read More](https://medium.com/p/731fb5a21e64) |
-| Thu, 11 Dec 2025 23:09:27 GMT | Phishing Email Analysis | Teddybot | [Read More](https://medium.com/p/f417a455d97a) |
-| Thu, 11 Dec 2025 23:03:19 GMT | [Carnegie Mellon University] 바이브 코딩(Vibe Coding)은 과연 안전한가? AI 에이전트 생성 코드의 보안 취약점 벤치마킹 ‘SUSVIBES’ 공개 | YouShin kim | [Read More](https://medium.com/p/051772d06476) |
-| Thu, 11 Dec 2025 23:00:20 GMT | Why AI, Quantum and Blockchain Are Converging — And Why the Storm Token Matters Now | Rhys Lenney | [Read More](https://medium.com/p/4fb19be3e055) |
-| Thu, 11 Dec 2025 22:56:44 GMT | my bitcoin was stolen how can I recover it” | Simonjustice | [Read More](https://medium.com/p/8d43883e1151) |
