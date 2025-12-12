@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 19:10:36 GMT | Virtualization: My Experience, Insights, and How You Can Get Started | Mark Thompson | [Read More](https://medium.com/p/d9f3e3f9c39a) |
+| Fri, 12 Dec 2025 19:08:51 GMT | React’s December Security Crisis: From React2Shell to Three Critical CVEs in 8 Days | Daniel Bogale | [Read More](https://medium.com/p/85e1e8cc9ef4) |
+| Fri, 12 Dec 2025 19:05:41 GMT | The Unwritten Playbook: What Actually Happens in a SOC | Sidharth Sunil | [Read More](https://medium.com/p/b25676a96ee6) |
+| Fri, 12 Dec 2025 19:01:50 GMT | The Constitution of Digital Physics | Chris Perkins | [Read More](https://medium.com/p/157e7e45c1b5) |
 | Fri, 12 Dec 2025 18:29:38 GMT | Assume Privileged Role with External ID : Pwned-Labs Walkthrough Part 1 | Maverick | [Read More](https://medium.com/p/7d97dbd77c2b) |
 | Fri, 12 Dec 2025 18:23:43 GMT | Advanced Container Security Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/ae773b8fa721) |
 | Fri, 12 Dec 2025 18:23:05 GMT | VPN Server Installation on Linux: Secure Remote Access with OpenVPN | Esra Kayhan | [Read More](https://medium.com/p/6a49878a1d9f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 13:24:30 GMT | Cross‑Site WebSocket Hijacking: When target.com Listens to Evil.com | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/658afad330e0) |
 | Fri, 12 Dec 2025 13:16:58 GMT | Advent of Cyber 2025 Prep Track | Kshitij Gupta | [Read More](https://medium.com/p/1376237a73a7) |
 | Fri, 12 Dec 2025 13:08:24 GMT | The New AI Poisoning Attack Vector Scammers are Using NOW | Phil Stafford | [Read More](https://medium.com/p/dbc0f98b199f) |
-| Fri, 12 Dec 2025 12:59:44 GMT | I am a book. | Obiageli Eze | [Read More](https://medium.com/p/624d53060f40) |
-| Fri, 12 Dec 2025 12:57:27 GMT | Why Most Developers Write Insecure Code Without Realizing It | Hania Khan | [Read More](https://medium.com/p/097b1f74b6eb) |
-| Fri, 12 Dec 2025 12:57:24 GMT | PART 2: A Complete Guide to Microsoft Defender for Cloud Apps (MDCA) | BoNeZ | [Read More](https://medium.com/p/72fe36f256ba) |
-| Fri, 12 Dec 2025 12:56:34 GMT | Linux Threat Detection 2 Walkthrough. TryHackMe | Lintu Oommen | [Read More](https://medium.com/p/69d2cb8a2741) |
