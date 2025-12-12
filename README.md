@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 08:17:47 GMT | The Device Refresh Cycle: Your Secret Weapon for Fast, Secure Tech | Unduit Editorial Team | [Read More](https://medium.com/p/8f9b53dff653) |
+| Fri, 12 Dec 2025 08:06:15 GMT | Data Demons: Exposing the hidden risks inside analytics | Sam.KL | [Read More](https://medium.com/p/ced7fda9fa65) |
+| Fri, 12 Dec 2025 08:03:55 GMT | The Cybersecurity Course That Made Me Question Everything I Do Online | Vijay Kumar Gupta | [Read More](https://medium.com/p/8feae3a738d5) |
+| Fri, 12 Dec 2025 08:02:19 GMT | I Didn’t Know My Voice — Only Its Echo | Łukasz Ratajczak | [Read More](https://medium.com/p/68471bf979d9) |
+| Fri, 12 Dec 2025 08:00:28 GMT | NETREAPER: The All-in-One Toolkit for Network Security Testing | Sajidur Rahman | [Read More](https://medium.com/p/91c27c114bfc) |
+| Fri, 12 Dec 2025 08:00:26 GMT | NANOREMOTE: When Google Drive Becomes the Operator’s Control Panel | Germano Costi | [Read More](https://medium.com/p/634be00524b9) |
+| Fri, 12 Dec 2025 07:54:59 GMT | ISO 27001 Requirements: A Complete Guide to Protecting Business Value | SecureSlate | [Read More](https://medium.com/p/97d63b2c6148) |
+| Fri, 12 Dec 2025 07:51:51 GMT | What I Learned This Month Reflections from the Frontlines: November Learnings | Fook Hwa Tan | [Read More](https://medium.com/p/d2100a638678) |
+| Fri, 12 Dec 2025 07:50:26 GMT | My 3 Favorite Leadership Books (and Why) These Shaped My Thinking in Strategy, Faith, and Cyber | Fook Hwa Tan | [Read More](https://medium.com/p/fa6e3efaa6a7) |
+| Fri, 12 Dec 2025 07:49:42 GMT | Learning Race Condition — A Complete Guide | Rajesh Kumar | [Read More](https://medium.com/p/e5ff11011d47) |
+| Fri, 12 Dec 2025 07:46:10 GMT | Top 5 Firewall Mistakes Businesses Make — and How ANSI Technologies Helps You Avoid Them | ANSI Technologies | [Read More](https://medium.com/p/244457287a06) |
+| Fri, 12 Dec 2025 07:45:11 GMT | Top Endpoint Security Mistakes That Cost Companies Millions — And How ANSI Technologies Helps You… | ANSI Technologies | [Read More](https://medium.com/p/b80f7ff55c15) |
+| Fri, 12 Dec 2025 07:42:25 GMT | The Dark Web of Pakistan’s Call Centers | Fizzah Ashraf | [Read More](https://medium.com/p/4e85311d847c) |
+| Fri, 12 Dec 2025 07:40:16 GMT | What I Wish I Knew About IT in Shanghai | Alex Graham | [Read More](https://medium.com/p/31e8394d2108) |
+| Fri, 12 Dec 2025 07:39:55 GMT | Python for Cybersecurity: Automating Vulnerability Discovery | Majidbasharat | [Read More](https://medium.com/p/14f3bc8bf6cf) |
+| Fri, 12 Dec 2025 07:37:37 GMT | FortiGate SSL / SSH Inspection: Şifreli Trafiğin Denetlenmesi ve Sertifika Yapısı | Furkan Ünlü | [Read More](https://medium.com/p/5bb609f59e65) |
 | Fri, 12 Dec 2025 07:37:27 GMT | The Corix Partners Friday Reading List — December 12, 2025 | JC Gaillard | [Read More](https://medium.com/p/3368a17cc7fc) |
 | Fri, 12 Dec 2025 07:29:09 GMT | Why is Ethical Hacking Important? | Hephziba | [Read More](https://medium.com/p/015f49b76313) |
 | Fri, 12 Dec 2025 07:28:07 GMT | Tải Vmos Pro Mod (Premium Apk) v3.1.2 | genzvnmod | [Read More](https://medium.com/p/0abef87d053e) |
@@ -97,19 +113,3 @@ Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d
 | Thu, 11 Dec 2025 23:03:19 GMT | [Carnegie Mellon University] 바이브 코딩(Vibe Coding)은 과연 안전한가? AI 에이전트 생성 코드의 보안 취약점 벤치마킹 ‘SUSVIBES’ 공개 | YouShin kim | [Read More](https://medium.com/p/051772d06476) |
 | Thu, 11 Dec 2025 23:00:20 GMT | Why AI, Quantum and Blockchain Are Converging — And Why the Storm Token Matters Now | Rhys Lenney | [Read More](https://medium.com/p/4fb19be3e055) |
 | Thu, 11 Dec 2025 22:56:44 GMT | my bitcoin was stolen how can I recover it” | Simonjustice | [Read More](https://medium.com/p/8d43883e1151) |
-| Thu, 11 Dec 2025 22:52:32 GMT | Business owners understand cybersecurity better than IT teams and here’s why | Fabien Soulis | [Read More](https://medium.com/p/dcefd30ecf1e) |
-| Thu, 11 Dec 2025 22:41:32 GMT | DareToExpose™ Exclusive Investigation | Daretoexpose | [Read More](https://medium.com/p/0dd1779c3e6b) |
-| Thu, 11 Dec 2025 22:34:57 GMT | What AI Actually Is (And Why Your Kid Needs to Know) | Halimah Olaolohun Abdul-Azeez | [Read More](https://medium.com/p/108ac855adb9) |
-| Thu, 11 Dec 2025 22:17:20 GMT | Stop Blaming Parents. Child Safety Online Is a System Failure, Not a User Error | Jeff Kingsland | [Read More](https://medium.com/p/9a8caca37b98) |
-| Thu, 11 Dec 2025 22:17:17 GMT | AI Agent Memory Security Requires More Observability | Valdez Ladd | [Read More](https://medium.com/p/b12053e39ff0) |
-| Thu, 11 Dec 2025 22:14:48 GMT | AERGO→HPP Token Swap & Migration | Barman | [Read More](https://medium.com/p/b6eea76f23ae) |
-| Thu, 11 Dec 2025 22:05:40 GMT | From College Classroom to IIT Stage: A Journey I Never Expected | Satyam Pathania | [Read More](https://medium.com/p/6ab8f492eab7) |
-| Thu, 11 Dec 2025 21:58:14 GMT | HTB CTF Write-Up: Fawn | Paulo Melo | [Read More](https://medium.com/p/ce9ec032d25e) |
-| Thu, 11 Dec 2025 21:49:54 GMT | Why Industrial Security Services Are Essential for Construction Projects | Salum Security | [Read More](https://medium.com/p/8b33ad894bf5) |
-| Thu, 11 Dec 2025 21:49:44 GMT | Invisible Success of Healthcare Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/71e73ad6b980) |
-| Thu, 11 Dec 2025 21:48:07 GMT | Danish Intelligence Report Raises Concerns About U.S. | Defence Affairs & Analysis | [Read More](https://medium.com/p/3e244c4786ae) |
-| Thu, 11 Dec 2025 21:46:48 GMT | Safeguard Your Property with Expert Armed Security Guards in California | Salum Security | [Read More](https://medium.com/p/5aaff7cd256f) |
-| Thu, 11 Dec 2025 21:46:26 GMT | Fail-over Strategy for Tor-Based C2 — Part 8 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/3b1c77e980d0) |
-| Thu, 11 Dec 2025 21:45:47 GMT | CRA - The new cybersecurity standard that will change how Europe designs digital products | Xavier Mico Perez | [Read More](https://medium.com/p/e978639fb977) |
-| Thu, 11 Dec 2025 21:44:27 GMT | Network Trafik Temelleri: DNS, TCP/IP ve Ağ Analizi | Ertan Caner Eskici | [Read More](https://medium.com/p/6f564aa9a569) |
-| Thu, 11 Dec 2025 21:41:20 GMT | Understanding the NSX Edge Redeploy Lifecycle: A Deep Dive into the Automated Backend Workflow | Ahmed Maher | [Read More](https://medium.com/p/ca71875388bf) |
