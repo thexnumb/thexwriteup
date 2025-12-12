@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 07:37:27 GMT | The Corix Partners Friday Reading List — December 12, 2025 | JC Gaillard | [Read More](https://medium.com/p/3368a17cc7fc) |
+| Fri, 12 Dec 2025 07:29:09 GMT | Why is Ethical Hacking Important? | Hephziba | [Read More](https://medium.com/p/015f49b76313) |
+| Fri, 12 Dec 2025 07:28:07 GMT | Tải Vmos Pro Mod (Premium Apk) v3.1.2 | genzvnmod | [Read More](https://medium.com/p/0abef87d053e) |
+| Fri, 12 Dec 2025 07:26:55 GMT | Red Team Simulation: Multi-Stage Delivery, AV Bypass Analysis & Persistence with Havoc C2 : | Elmehdi Laassiri | [Read More](https://medium.com/p/b920f3bcc613) |
 | Fri, 12 Dec 2025 07:22:26 GMT | Your Simple Guide to the CISSP Certification | CybeCloud | [Read More](https://medium.com/p/1768e2f83f98) |
 | Fri, 12 Dec 2025 07:18:06 GMT | Transparency and Security: How We Integrate GDPR Principles in Every AI and Software Solution | Gyan Consulting | [Read More](https://medium.com/p/821efaf3a6d7) |
 | Fri, 12 Dec 2025 07:13:00 GMT | Why I started bug bounty in 2025 | Gilad | [Read More](https://medium.com/p/0d376f72a6bb) |
@@ -109,7 +113,3 @@ Task: The Web Shell | Adeleke Theophilus O | [Read More](https://medium.com/p/9d
 | Thu, 11 Dec 2025 21:45:47 GMT | CRA - The new cybersecurity standard that will change how Europe designs digital products | Xavier Mico Perez | [Read More](https://medium.com/p/e978639fb977) |
 | Thu, 11 Dec 2025 21:44:27 GMT | Network Trafik Temelleri: DNS, TCP/IP ve Ağ Analizi | Ertan Caner Eskici | [Read More](https://medium.com/p/6f564aa9a569) |
 | Thu, 11 Dec 2025 21:41:20 GMT | Understanding the NSX Edge Redeploy Lifecycle: A Deep Dive into the Automated Backend Workflow | Ahmed Maher | [Read More](https://medium.com/p/ca71875388bf) |
-| Thu, 11 Dec 2025 21:30:55 GMT | The “Dream Job” Nightmare: Inside the Fake Recruiter Crypto Malware Attack | Martian | [Read More](https://medium.com/p/f37a51729b0d) |
-| Thu, 11 Dec 2025 21:30:35 GMT | Authentication Bypass-TryHackMe Walkthrough. | Ahmed Mostafa | [Read More](https://medium.com/p/541e82f66a98) |
-| Thu, 11 Dec 2025 21:26:08 GMT | HTTP Fundamentals for Cybersecurity | Sviatoslav König | [Read More](https://medium.com/p/4ddaf13f2fe1) |
-| Thu, 11 Dec 2025 20:57:18 GMT | Strengthening My Networking Fundamentals — Completing TryHackMe’s “DNS in Detail” Certification | Secured By Sebastion | [Read More](https://medium.com/p/7b7c2c57377c) |
