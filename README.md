@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Dec 2025 05:14:18 GMT | Bite Your Tongue | Clementine Illy | [Read More](https://medium.com/p/49fdd636aba3) |
+| Fri, 12 Dec 2025 05:13:59 GMT | Warehouse & Distribution Security: Protect Your Facility with World Guardian | Hirasarfraz | [Read More](https://medium.com/p/8401aad463db) |
+| Fri, 12 Dec 2025 05:13:34 GMT | How Hackers Actually Hack Instagram Accounts and How You Can Stop Them | Noorul Ameen | [Read More](https://medium.com/p/1db66c9f0fb4) |
+| Fri, 12 Dec 2025 05:10:26 GMT | Emerging Data Security Trends: What Businesses Need to Prepare for by 2026 | Techridge Solutions | [Read More](https://medium.com/p/9e1499cab139) |
+| Fri, 12 Dec 2025 05:10:12 GMT | Understanding the Kill Chain: From Reconnaissance to Exploitation | ZAYN | [Read More](https://medium.com/p/2bdeea5b9ee9) |
+| Fri, 12 Dec 2025 05:02:14 GMT | THE CALL — Tale #9. | Dean Natukunda | [Read More](https://medium.com/p/bcfd36d66b55) |
 | Fri, 12 Dec 2025 04:51:29 GMT | Unmasking the King: A Strategic Threat Profile of LockBit 5.0 | Zacdmw | [Read More](https://medium.com/p/60d56da100d9) |
 | Fri, 12 Dec 2025 04:48:59 GMT | REACT2SHELL EXPLOITATION | Rakesh Krishnan | [Read More](https://medium.com/p/ed8c06a29432) |
+| Fri, 12 Dec 2025 04:48:31 GMT | Blockchain Secrets: The New Era of Data Security and Privacy | Kerala Blockchain Academy | [Read More](https://medium.com/p/e52abf1c5d45) |
 | Fri, 12 Dec 2025 04:32:17 GMT | Social Media & Messaging: Where Privacy Goes to Die | Raghunandan J | [Read More](https://medium.com/p/c472e1ffa1f9) |
 | Fri, 12 Dec 2025 04:32:03 GMT | Top 10 IT Challenges for 2026 | HostNOC | [Read More](https://medium.com/p/e1c096de6c16) |
 | Fri, 12 Dec 2025 03:59:03 GMT | What Is Ethical Hacking and Why Do We Need Ethical Hackers? | Vishalraj | [Read More](https://medium.com/p/95fc3141ce16) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Dec 2025 18:05:38 GMT | XSS — Merry XSSMas -Try Hack ME Walkthrough | Fazal | [Read More](https://medium.com/p/e2c6ad72c2fc) |
 | Thu, 11 Dec 2025 18:02:13 GMT | HackTheBox Fawn: FTP Fundamentals | SoBatista | [Read More](https://medium.com/p/4c1ce391c387) |
 | Thu, 11 Dec 2025 18:01:47 GMT | OSINT Under the Hood: OPSEC for the OSINT Researcher | Rabail Zaheer | [Read More](https://medium.com/p/2fbc4988e2ff) |
-| Thu, 11 Dec 2025 17:57:09 GMT | Endpoint Protection 2.0: Beyond Antivirus for Modern Threats | Technijian | [Read More](https://medium.com/p/c4fe9295ab6c) |
-| Thu, 11 Dec 2025 17:57:06 GMT | Enhance Bulk Account Creation with PVACreator's Automation Suite | GeekSwares | [Read More](https://medium.com/p/a99ab8f69239) |
-| Thu, 11 Dec 2025 17:56:43 GMT | This One Screenshot Could Expose Your Entire Digital Life | Payal Lathi | [Read More](https://medium.com/p/2641ad5d1cb1) |
-| Thu, 11 Dec 2025 17:54:49 GMT | The Truth Is.. | Tika Terrell | [Read More](https://medium.com/p/ac7248c11909) |
-| Thu, 11 Dec 2025 17:54:45 GMT | Securing AI Workloads in Kubernetes: Why Traditional Network Security Isn’t Enough | Tigera | [Read More](https://medium.com/p/f91fe77495b4) |
-| Thu, 11 Dec 2025 17:52:41 GMT | TryHackMe: Advent of Cyber 2025 — Day 11 Walkthrough | Inyanji Lynnette | [Read More](https://medium.com/p/05613b62e484) |
-| Thu, 11 Dec 2025 17:42:32 GMT | When HTML5 Videos Refuse to Play: Debugging the “Video File Not Found” Error on Ubuntu — 1/3 | Anzalo Quin | [Read More](https://medium.com/p/3ee8b035a03d) |
