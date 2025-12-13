@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 12:35:21 GMT | Darknet Vendor Shops Verification: How Trust Is Evaluated in Anonymous Markets | Tor BBB | [Read More](https://medium.com/p/2b7b972ccfce) |
+| Sat, 13 Dec 2025 12:33:59 GMT | Don’t Just Patch; Predict: How I Used Dark Web Chatter to Find a Vulnerability Before It Was… | Iski | [Read More](https://medium.com/p/bc46d89f79f6) |
+| Sat, 13 Dec 2025 12:30:53 GMT | How Payment Apps Detect Fraud Rings Using Graph Cycles | The Dev Notebook | [Read More](https://medium.com/p/15fe4e4fd3c1) |
+| Sat, 13 Dec 2025 12:27:52 GMT | Android Static Analysis 101 - The Blueprint Developers Hope You Never Read | Slayer | [Read More](https://medium.com/p/6e7692145088) |
+| Sat, 13 Dec 2025 12:24:05 GMT | how to instagram profile picture lock | IGtips | [Read More](https://medium.com/p/5f1e4d628d35) |
+| Sat, 13 Dec 2025 12:20:21 GMT | FortiGate SSL/SSH Inspection: Şifreli Trafiğin Kilidini Açmak ve Sertifika Kâbusunu Aşmak | Azra K. | [Read More](https://medium.com/p/299ae52c03c3) |
+| Sat, 13 Dec 2025 12:19:13 GMT | Top 10 Essential Pentest Tools with Command Examples | Mert Baykal | [Read More](https://medium.com/p/b1138f83b4ed) |
+| Sat, 13 Dec 2025 12:06:30 GMT | How Free Antivirus Helps You Stay Secure Online | SiyanoAV | [Read More](https://medium.com/p/aa64153f1841) |
+| Sat, 13 Dec 2025 12:06:11 GMT | Kali Linux 2025.4 Is Here — And It’s a Pretty Big Deal | Sajidur Rahman | [Read More](https://medium.com/p/55063d1bb9b7) |
+| Sat, 13 Dec 2025 12:05:18 GMT | Introduction to Splunk: Monitoring Security Alerts & Incident Response | Ankit Kumar | [Read More](https://medium.com/p/8d6de56c86de) |
+| Sat, 13 Dec 2025 12:04:30 GMT | Why I Built My Own Security Scanner (And Why You Might Need It) | Manoj Kumar | [Read More](https://medium.com/p/4511cb6d7b34) |
+| Sat, 13 Dec 2025 11:47:56 GMT | I Brought a Dead TP-Link C20 Back to Life — Unbricking and Installing OpenWrt | Atiqur Rahman | [Read More](https://medium.com/p/af379f68fa0d) |
+| Sat, 13 Dec 2025 11:44:11 GMT | You Can Be Tracked on WhatsApp Without Receiving a Single Message | Bassam Khan | [Read More](https://medium.com/p/7f5fed97a5b0) |
+| Sat, 13 Dec 2025 11:43:45 GMT | ⚠️ 2025 is the year careers quietly split into two paths. | Hachtechnology | [Read More](https://medium.com/p/e90c5c9128d0) |
+| Sat, 13 Dec 2025 11:42:47 GMT | A Critical RCE in React Server Components | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/38a248fbcddd) |
+| Sat, 13 Dec 2025 11:38:27 GMT | Part 16 — “The Quantum Singularity: What Happens When a Quantum Computer Computes Something… | Mr. Richie Gunawan | [Read More](https://medium.com/p/0bfb0daea892) |
+| Sat, 13 Dec 2025 11:37:49 GMT | React Server Components Vulnerability(CVE-2025–55182) Explained | Komal Raut | [Read More](https://medium.com/p/97c2852ed004) |
+| Sat, 13 Dec 2025 11:37:36 GMT | How Quality Assurance Engineers Can Strengthen Application Security | Saurav Dawadi | [Read More](https://medium.com/p/4ec3c94a5d2f) |
+| Sat, 13 Dec 2025 11:35:47 GMT | How Good Is Infinix Hot 10 Battery Life for Heavy Users? | Luna Collins | [Read More](https://medium.com/p/1a2e6e691a84) |
+| Sat, 13 Dec 2025 11:32:53 GMT | Navigating life as an emotional person | EmotionalPhool | [Read More](https://medium.com/p/18b7977ccf4b) |
 | Sat, 13 Dec 2025 11:26:41 GMT | Apple Patches Two WebKit Zero Days Actively Exploited in Sophisticated Attacks | valasala suhas | [Read More](https://medium.com/p/c331ce725245) |
 | Sat, 13 Dec 2025 11:22:17 GMT | The Truth About Home Security Systems: What Really Keeps a Home Safe | Criminology Expert | [Read More](https://medium.com/p/a682d2b958b7) |
 | Sat, 13 Dec 2025 11:16:46 GMT | A Beginner’s Guide to Cybersecurity in 2025: 5 Things I Wish I Knew Before Switching Fields | M Umar Akhlaq | [Read More](https://medium.com/p/52d889ca9dd5) |
@@ -93,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 04:45:14 GMT | Tải Human Fall Flat APK (MOD Bản Full) v2.5.1 Mới Nhất | Bandisharecx | [Read More](https://medium.com/p/9cec603cf076) |
 | Sat, 13 Dec 2025 04:44:01 GMT | Top 10 Site Checkers for 2025: How to Choose the Best Scam Detector | Brendan Smith | [Read More](https://medium.com/p/5625f73a6de1) |
 | Sat, 13 Dec 2025 04:43:27 GMT | Best CCTV Monitoring Dubai: Secure Your Property with Confidence | Delight international Security Services | [Read More](https://medium.com/p/961b285e06e2) |
-| Sat, 13 Dec 2025 04:34:42 GMT | Apple’s Latest Zero-Day Crisis: What iPhone Users Need to Know | Devam Shah | [Read More](https://medium.com/p/ef218334b0ab) |
-| Sat, 13 Dec 2025 04:32:26 GMT | The Memory Rules That Keep Agents Trustworthy | Nexumo | [Read More](https://medium.com/p/41cb3c194b1a) |
-| Sat, 13 Dec 2025 04:32:19 GMT | Audit-Proof Agent Docs (Without Killing Velocity) | Thinking Loop | [Read More](https://medium.com/p/52e12eb606e2) |
-| Sat, 13 Dec 2025 04:31:47 GMT | Account-Flow Stability: Why Static Residential / ISP Proxies Fit Login, Verification, Ads, and… | ChainGlimpse | [Read More](https://medium.com/p/29fc6dfc9d59) |
-| Sat, 13 Dec 2025 04:23:38 GMT | An all-in-one Bash script tool for Kubernetes penetration testing and security enumeration | Dr. Saket Acharya | [Read More](https://medium.com/p/f0c7287991e2) |
-| Sat, 13 Dec 2025 04:18:30 GMT | W1seGuy Walkthrough | Pimsim | [Read More](https://medium.com/p/562513421616) |
-| Sat, 13 Dec 2025 04:13:05 GMT | How Concrete Enables One-Click DeFi ? | Rizkierel | [Read More](https://medium.com/p/91d4985072ea) |
-| Sat, 13 Dec 2025 04:00:23 GMT | Tải ROBLOX APK + MOD (Menu, Bất Tử) 2.700.937 Miễn Phí | Apkpuredev | [Read More](https://medium.com/p/2c7cae420d6f) |
-| Sat, 13 Dec 2025 03:37:45 GMT | How I Deployed Adobe Acrobat Pro to Windows Devices with Intune (The Practical Way, Real… | Harpreet Wasu | [Read More](https://medium.com/p/bd95efc7095e) |
-| Sat, 13 Dec 2025 03:33:11 GMT | Paper HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/8edec7583475) |
-| Sat, 13 Dec 2025 03:32:16 GMT | ⭐ Network Security for Beginners: A Simple, Story-Based Guide to Staying Safe Online | Jayesh Dankhara | [Read More](https://medium.com/p/e7ce51492df9) |
-| Sat, 13 Dec 2025 03:25:30 GMT | The iRAID™ Model: How to Achieve Maximum AI Compliance with a Single, Integrated NIST Architecture | Govind Palakuri | [Read More](https://medium.com/p/9127d56b1a38) |
-| Sat, 13 Dec 2025 03:22:15 GMT | The Invoice Trap: How XWorm Hides in Routine Billing Emails | Deven Chhajed | [Read More](https://medium.com/p/628b10165cf8) |
-| Sat, 13 Dec 2025 03:21:02 GMT | W1seGuy | Pimsim | [Read More](https://medium.com/p/5f2f7227ccb5) |
-| Sat, 13 Dec 2025 02:59:11 GMT | Over Before You Know It | Crow in the Flow | [Read More](https://medium.com/p/5e7ec75c2f36) |
-| Sat, 13 Dec 2025 02:51:07 GMT | Is your Node.js API silently leaking data? An AppSec Guide for Software Engineers | Leonardo Policarpo | [Read More](https://medium.com/p/79eec39d74c0) |
-| Sat, 13 Dec 2025 02:50:59 GMT | Why Most Cybersecurity Spending Fails | Teddy Cerra | [Read More](https://medium.com/p/6d7fa63eaf72) |
-| Sat, 13 Dec 2025 02:32:51 GMT | Security and Regulatory Compliance in Fintech: Essential Guide to Operating Without Risk | Rodrigo Onaga | [Read More](https://medium.com/p/71a1f8856fd1) |
-| Sat, 13 Dec 2025 02:29:40 GMT | How a Fake Pop-Up Nearly Ruined a Life — And How You Can Stop It | Dan Blum | [Read More](https://medium.com/p/fb783cbcd6a1) |
-| Sat, 13 Dec 2025 02:19:09 GMT | Developers must know about SSRF vs. CSRF, here’s why. | AT | [Read More](https://medium.com/p/cdf5315a2c01) |
