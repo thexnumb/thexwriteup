@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 19:03:57 GMT | Prompt Injection in LLMs: Attacks, Impacts, and Mitigation Strategies | Wesley de Morais | [Read More](https://medium.com/p/c9c9b569fd72) |
+| Sat, 13 Dec 2025 19:02:15 GMT | Would you get off the bus for me? | dapoetri | [Read More](https://medium.com/p/68250ff0bb65) |
 | Sat, 13 Dec 2025 18:34:40 GMT | MITRE ATT&CK & GEMINI CLI | Jakub Kowalski | [Read More](https://medium.com/p/3d26d25d28f4) |
 | Sat, 13 Dec 2025 18:31:15 GMT | Cybersecurity’s New Focus: Skills Over Staffing in AI Era | Valentin Podkamennyi | [Read More](https://medium.com/p/1be03cdda2ae) |
 | Sat, 13 Dec 2025 18:28:11 GMT | AS2 Protocol Explained with a Real Spring Boot Implementation | Manoj | [Read More](https://medium.com/p/560c6e794cd1) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 11:35:47 GMT | How Good Is Infinix Hot 10 Battery Life for Heavy Users? | Luna Collins | [Read More](https://medium.com/p/1a2e6e691a84) |
 | Sat, 13 Dec 2025 11:32:53 GMT | Navigating life as an emotional person | EmotionalPhool | [Read More](https://medium.com/p/18b7977ccf4b) |
 | Sat, 13 Dec 2025 11:26:41 GMT | Apple Patches Two WebKit Zero Days Actively Exploited in Sophisticated Attacks | valasala suhas | [Read More](https://medium.com/p/c331ce725245) |
-| Sat, 13 Dec 2025 11:22:17 GMT | The Truth About Home Security Systems: What Really Keeps a Home Safe | Criminology Expert | [Read More](https://medium.com/p/a682d2b958b7) |
-| Sat, 13 Dec 2025 11:16:46 GMT | A Beginner’s Guide to Cybersecurity in 2025: 5 Things I Wish I Knew Before Switching Fields | M Umar Akhlaq | [Read More](https://medium.com/p/52d889ca9dd5) |
