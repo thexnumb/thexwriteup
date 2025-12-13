@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 15:02:15 GMT | How Hard Is It to Meet the Right Person? | Fower Leo | [Read More](https://medium.com/p/141eb5976c4c) |
+| Sat, 13 Dec 2025 15:01:59 GMT | Brainspotting | Alizabeth Amelia Rose | [Read More](https://medium.com/p/23a24956fe99) |
+| Sat, 13 Dec 2025 15:01:16 GMT | The Problem With “Free” Network Tools on the Internet | Bohdan Pylypchuk | [Read More](https://medium.com/p/82bf83896657) |
+| Sat, 13 Dec 2025 14:49:24 GMT | Fake Faces, Real Crimes: The Dangerous Rise of Deepfakes in India | Hacktechmedia | [Read More](https://medium.com/p/c9d7e5f2672d) |
+| Sat, 13 Dec 2025 14:42:22 GMT | Juicy CTF: How I manipulated a virtual Golden Retriever to steal his secrets | Telynor | [Read More](https://medium.com/p/cebd24b1a3f1) |
+| Sat, 13 Dec 2025 14:40:26 GMT | The Hidden Wiki: Navigating the Transition to V3 Onion Services | Bonventure Baraka | [Read More](https://medium.com/p/df003c0ba56c) |
+| Sat, 13 Dec 2025 14:37:01 GMT | The Creator’s Paradox: Why True Value Requires Radical Vulnerability | Morgan Thain Miller | [Read More](https://medium.com/p/8f036d3e19bb) |
+| Sat, 13 Dec 2025 14:36:15 GMT | Exploring the Most Popular Linux Distributions — Which One Powers Your Workstation? | Paul Meyer | [Read More](https://medium.com/p/2489cb4b09c9) |
 | Sat, 13 Dec 2025 14:34:44 GMT | ️ The Day I Found an Exposed Firebase Database on a Ferrari Subdomain — And Got the “Already… | Anshubind | [Read More](https://medium.com/p/05023b362520) |
 | Sat, 13 Dec 2025 14:33:52 GMT | ✉️ The Day I Found a Hardcoded SendinBlue API Key in a Front-End Script — And Why Email Services… | Anshubind | [Read More](https://medium.com/p/220ac969f10e) |
 | Sat, 13 Dec 2025 14:32:15 GMT | (Comptia A+) The Ultimate Guide to Anti-Malware Best Practices | Vignesh R | [Read More](https://medium.com/p/591059628881) |
+| Sat, 13 Dec 2025 14:29:22 GMT | Juicy CTF : Comment j’ai manipulé un Golden Retriever virtuel pour lui voler ses secrets | Telynor | [Read More](https://medium.com/p/19c5a9de69c6) |
 | Sat, 13 Dec 2025 14:20:54 GMT | What kind of carbon monoxide detector CO alarm should you choose | Vedard Alarm | [Read More](https://medium.com/p/dba71b1afd68) |
 | Sat, 13 Dec 2025 14:20:38 GMT | SAP Security in 2025: Protecting Your ERP from Modern Threats Part 2 | Khan Mohammed Aamir | [Read More](https://medium.com/p/d8d128039b73) |
 | Sat, 13 Dec 2025 14:15:04 GMT | What is Flowcharts and Pseudocode ? | Min Khant | [Read More](https://medium.com/p/3bd7bf671c2a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 09:01:20 GMT | Whoami ? | DrXpl0iT | [Read More](https://medium.com/p/f49b41eca5ca) |
 | Sat, 13 Dec 2025 08:55:54 GMT | Analytics for sensemaking: Machine-enabled taxonomies | Ensley Tan | [Read More](https://medium.com/p/41b02c9abe90) |
 | Sat, 13 Dec 2025 08:51:53 GMT | “Embracing Vulnerability” | Binte Habib | [Read More](https://medium.com/p/6d085160817d) |
-| Sat, 13 Dec 2025 08:48:23 GMT | Authentication vs Authorization: One Story You’ll Never Forget | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/47b6543dc03b) |
-| Sat, 13 Dec 2025 08:44:53 GMT | Ethics Over Optics: Living Out Our Principles Daily Our Code of Ethics (And Why It’s Not Just… | Fook Hwa Tan | [Read More](https://medium.com/p/5c00a77b92fd) |
-| Sat, 13 Dec 2025 08:43:11 GMT | How I Handle High-Stakes Conversations — The Most Important Question I Ask Before Speaking | Fook Hwa Tan | [Read More](https://medium.com/p/17f20dd2ba77) |
-| Sat, 13 Dec 2025 08:33:31 GMT | Detecting React2Shell at Scale: How CurlSek’s Probe Agent Delivered Rapid, Validated Response… | Mohd Sohaib | [Read More](https://medium.com/p/333c46e6ea4c) |
-| Sat, 13 Dec 2025 08:32:50 GMT | How Certification Prepares Teams for Multi-Layered Cyber Threats | Rahman Iqbal | [Read More](https://medium.com/p/5c9006d59f16) |
-| Sat, 13 Dec 2025 08:18:36 GMT | Christmas Sale on Cybersecurity Courses for Aspiring Cybersecurity Professionals | cyber security Updates | [Read More](https://medium.com/p/81cc27f51f2d) |
-| Sat, 13 Dec 2025 08:13:08 GMT | TCP VE UDP: SALDIRGANIN VE SAVUNMACININ GÖZÜNDEN İKİ FARKLI AĞ FELSEFESİ | Cyber Web | [Read More](https://medium.com/p/c39ae2efa6af) |
-| Sat, 13 Dec 2025 08:05:00 GMT | ️ Diving Into the Dark Web: Secrets, Safety & Cyber Lessons | Nimit Ahir | [Read More](https://medium.com/p/85973d9582a6) |
-| Sat, 13 Dec 2025 08:01:45 GMT | The Role of Blockchain in Digital Identity & Cybersecurity | Blue Bird Digital Technology | [Read More](https://medium.com/p/9eddeacaf84e) |
