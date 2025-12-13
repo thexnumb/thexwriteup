@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 13:16:54 GMT | CYBER KILL CHAIN | someone | [Read More](https://medium.com/p/9043b9bf884a) |
+| Sat, 13 Dec 2025 13:16:05 GMT | RSC ve React2Shell | Onur Dayıbaşı | [Read More](https://medium.com/p/abc5dbead6c1) |
+| Sat, 13 Dec 2025 13:12:44 GMT | TryHackMe Writeup: Year of the Dog | Berkay AĞGÜL | [Read More](https://medium.com/p/a3b1be9ceb32) |
+| Sat, 13 Dec 2025 13:11:52 GMT | My First Penetration Test and the Lesson That Stayed With Me | Mubashir | [Read More](https://medium.com/p/c9ee1256f6ef) |
+| Sat, 13 Dec 2025 13:10:54 GMT | Firmware Analysis of a V380‑Based IoT Camera Using Linux Built‑in Tools | Aaronjjose | [Read More](https://medium.com/p/11f29f336e7e) |
+| Sat, 13 Dec 2025 13:01:21 GMT | Ports & Services: The Doorways of Digital Communication | Satyam Singh | [Read More](https://medium.com/p/a0b6a684aaf2) |
+| Sat, 13 Dec 2025 13:00:10 GMT | Metasploitable 3 (Windows) Write-up — Part VII: Port 3389 — Gaining Graphical Access via RDP | Kalash Kundaliya | [Read More](https://medium.com/p/8577180be971) |
+| Sat, 13 Dec 2025 12:57:57 GMT | How I Performed Basic API Security Tests Using Postman (Beginner Edition) | Stella Obatoye | [Read More](https://medium.com/p/2ceef01ee7de) |
+| Sat, 13 Dec 2025 12:56:34 GMT | DC-2 Walkthrough: From WordPress Enumeration to Root Access | Aris Arisyi | [Read More](https://medium.com/p/fe78784bfb12) |
+| Sat, 13 Dec 2025 12:55:42 GMT | New Gadgets Coming in 2026 That Will Help Humans in Everyday Life | Guestblogger | [Read More](https://medium.com/p/6d4c2d10d021) |
+| Sat, 13 Dec 2025 12:52:33 GMT | LinkedIn Hacks for Ethical Hackers | Muhammad Haider Tallal | [Read More](https://medium.com/p/391a81c90756) |
+| Sat, 13 Dec 2025 12:46:31 GMT | Zero Trust Security: What It Means for You (Also for Non-Techie) | The Techie Indian | [Read More](https://medium.com/p/ef40116c2442) |
+| Sat, 13 Dec 2025 12:44:35 GMT | Day 13 — Audit and Update Old Infrastructure (Deep in the Mines) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/c144a05bdfa6) |
+| Sat, 13 Dec 2025 12:37:32 GMT | The Apple Wallet Lock Scam | Malvox | [Read More](https://medium.com/p/19437899ccd3) |
+| Sat, 13 Dec 2025 12:36:54 GMT | Shielding Your Production Code: How to Restrict GitHub Pushes to a Staging-Only Workflow | Khawaja Muhammad Mushood | [Read More](https://medium.com/p/1d81ec9375f4) |
 | Sat, 13 Dec 2025 12:35:21 GMT | Darknet Vendor Shops Verification: How Trust Is Evaluated in Anonymous Markets | Tor BBB | [Read More](https://medium.com/p/2b7b972ccfce) |
 | Sat, 13 Dec 2025 12:33:59 GMT | Don’t Just Patch; Predict: How I Used Dark Web Chatter to Find a Vulnerability Before It Was… | Iski | [Read More](https://medium.com/p/bc46d89f79f6) |
 | Sat, 13 Dec 2025 12:30:53 GMT | How Payment Apps Detect Fraud Rings Using Graph Cycles | The Dev Notebook | [Read More](https://medium.com/p/15fe4e4fd3c1) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 06:07:57 GMT | Como crear un Aula Virtual en Moodle paso a paso | Dennis garcia | [Read More](https://medium.com/p/b8c3a41185c4) |
 | Sat, 13 Dec 2025 06:03:54 GMT | Tải Summer Memories Apk (Mod Việt Hóa) v2.04 | genzvnmod | [Read More](https://medium.com/p/9863c7c18af1) |
 | Sat, 13 Dec 2025 06:00:23 GMT | Mir Najeeb Mengal — Founder, CEO & Software Engineer | Mirnajeebmengal | [Read More](https://medium.com/p/37973b74de4a) |
-| Sat, 13 Dec 2025 05:54:12 GMT | Staying Private in Crypto: Your Guide to Keeping Things Under the Radar | Officer's Notes | [Read More](https://medium.com/p/ed6da7367b2b) |
-| Sat, 13 Dec 2025 05:42:30 GMT | The Bombshell Exposures - Cyber Kalki Exposes GlobalProtect VPN Portals at NATO, NASA, and Tesla… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/9750a1da09ad) |
-| Sat, 13 Dec 2025 05:41:31 GMT | Napoleon in the Digital Trenches: A Commander’s Take on Modern Cybersecurity Policy | CCD-IS | [Read More](https://medium.com/p/d49b74467b7f) |
-| Sat, 13 Dec 2025 05:36:34 GMT | Automating Deployments: CI/CD Pipelines with GitHub Actions and Bash | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f705f6f2f9ae) |
-| Sat, 13 Dec 2025 05:33:49 GMT | Splunk Basics: Homelab “SOC In A Box” | Johnny Meintel | [Read More](https://medium.com/p/b7f0d2746fdc) |
-| Sat, 13 Dec 2025 05:32:14 GMT | DevOps Roadmap (Part 22): Advanced Docker Concepts — Multi-Stage Builds, Health Checks, Layers… | Sainath | [Read More](https://medium.com/p/c5c24b9cc567) |
-| Sat, 13 Dec 2025 05:26:43 GMT | Are Mobile Proxies Worth the Cost for Account Stability? | TokenWraith | [Read More](https://medium.com/p/4a5af233b0da) |
-| Sat, 13 Dec 2025 05:17:21 GMT | Building a Full Audit Log System in Django SaaS (Async, Event-Based, Tamper-Proof Logs) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/86d2ae3fb99e) |
-| Sat, 13 Dec 2025 05:13:37 GMT | How NAT Works: A Simple Guide to Network Address Translation | Smit Pipaliya | [Read More](https://medium.com/p/5eaaf9cb92cc) |
-| Sat, 13 Dec 2025 05:12:52 GMT | What is Linux Server Hardening: Step-by-Step Security Guide | Smit Pipaliya | [Read More](https://medium.com/p/954e0b071555) |
-| Sat, 13 Dec 2025 05:07:34 GMT | The Art of Clean Recon: Amass for Bug Bounty Hunters | Purushotham.R | [Read More](https://medium.com/p/42992157adf6) |
-| Sat, 13 Dec 2025 04:59:25 GMT | PROJETO mini-lab: Monitoramento com #Wazuh ❗​❗​❗​ 
->Atualizações: Suricata + VMs< | EduKayky | [Read More](https://medium.com/p/0f119c0e39d1) |
-| Sat, 13 Dec 2025 04:45:14 GMT | Tải Human Fall Flat APK (MOD Bản Full) v2.5.1 Mới Nhất | Bandisharecx | [Read More](https://medium.com/p/9cec603cf076) |
-| Sat, 13 Dec 2025 04:44:01 GMT | Top 10 Site Checkers for 2025: How to Choose the Best Scam Detector | Brendan Smith | [Read More](https://medium.com/p/5625f73a6de1) |
-| Sat, 13 Dec 2025 04:43:27 GMT | Best CCTV Monitoring Dubai: Secure Your Property with Confidence | Delight international Security Services | [Read More](https://medium.com/p/961b285e06e2) |
