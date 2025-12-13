@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 09:12:06 GMT | Bodyguard Services Dubai: When Safety Becomes a Daily Priority | septimus Security | [Read More](https://medium.com/p/12899f952dfa) |
+| Sat, 13 Dec 2025 09:11:35 GMT | Your App Is Not Secure Until You Know This! | MD AL Mamun Mim | [Read More](https://medium.com/p/e8919ab82dd6) |
+| Sat, 13 Dec 2025 09:10:03 GMT | Day 131 — Narnia Level-5 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/d57e1193bc7c) |
+| Sat, 13 Dec 2025 09:01:20 GMT | Whoami ? | DrXpl0iT | [Read More](https://medium.com/p/f49b41eca5ca) |
+| Sat, 13 Dec 2025 08:55:54 GMT | Analytics for sensemaking: Machine-enabled taxonomies | Ensley Tan | [Read More](https://medium.com/p/41b02c9abe90) |
+| Sat, 13 Dec 2025 08:51:53 GMT | “Embracing Vulnerability” | Binte Habib | [Read More](https://medium.com/p/6d085160817d) |
 | Sat, 13 Dec 2025 08:48:23 GMT | Authentication vs Authorization: One Story You’ll Never Forget | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/47b6543dc03b) |
 | Sat, 13 Dec 2025 08:44:53 GMT | Ethics Over Optics: Living Out Our Principles Daily Our Code of Ethics (And Why It’s Not Just… | Fook Hwa Tan | [Read More](https://medium.com/p/5c00a77b92fd) |
 | Sat, 13 Dec 2025 08:43:11 GMT | How I Handle High-Stakes Conversations — The Most Important Question I Ask Before Speaking | Fook Hwa Tan | [Read More](https://medium.com/p/17f20dd2ba77) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 22:19:54 GMT | Cybersecurity Lab Reflection: Nmap & Scapy | Claudius Thompson | [Read More](https://medium.com/p/5bb7008d6a28) |
 | Fri, 12 Dec 2025 22:10:58 GMT | Passing ISC2 Certified in Cybersecurity Exam on Your First Try | Irene A. Gil | [Read More](https://medium.com/p/f1d93380f4b8) |
 | Fri, 12 Dec 2025 21:48:29 GMT | The Girl in the Mirror | Shianna Marie | [Read More](https://medium.com/p/72b816afb105) |
-| Fri, 12 Dec 2025 21:45:56 GMT | IDOR Privilege Escalation: Deleting Protected Accounts | Parth Narula | [Read More](https://medium.com/p/d5b26bfcf657) |
-| Fri, 12 Dec 2025 21:32:40 GMT | Taming the Beast: How We Migrated a 25-Year-Old, 40TB Data Warehouse to BigQuery in 12 Months | Ford Credit Technology & Product Team | [Read More](https://medium.com/p/1336c1705d52) |
-| Fri, 12 Dec 2025 21:28:10 GMT | I Cracked the Code to Break Into Cybersecurity (And You Can Too) | Abdullah Javeed | [Read More](https://medium.com/p/b45b25513d2a) |
-| Fri, 12 Dec 2025 21:28:01 GMT | Beginners: Copy-Paste This ONE Trick = Free $100–$500 Bounties | Monika sharma | [Read More](https://medium.com/p/bf4978fdfaa9) |
-| Fri, 12 Dec 2025 21:27:47 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded | KRY | [Read More](https://medium.com/p/6758fc9827c1) |
-| Fri, 12 Dec 2025 21:24:53 GMT | Fix vulnerabilities in Linux docker image and best practice on dockerfile | Shuo | [Read More](https://medium.com/p/3525fb2fb782) |
