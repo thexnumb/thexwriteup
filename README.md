@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 10:29:48 GMT | Cybersecurity Fundamentals: A Beginner’s Guide | Hadiyayazeen | [Read More](https://medium.com/p/8a101f0db2d8) |
+| Sat, 13 Dec 2025 10:28:51 GMT | Lab: Insecure direct object references | Songül Kızılay Özügürler | [Read More](https://medium.com/p/b682887eb59f) |
+| Sat, 13 Dec 2025 10:27:58 GMT | Lab: User ID controlled by request parameter | Songül Kızılay Özügürler | [Read More](https://medium.com/p/b94365292c75) |
+| Sat, 13 Dec 2025 10:26:55 GMT | My Journey to Cybersecurity | Robert Simpson | [Read More](https://medium.com/p/920fe8ab1b77) |
+| Sat, 13 Dec 2025 10:19:12 GMT | Network Administrator Notes: Blocking Bogon IPv4 addresses on Cisco 3750X | Timmychen | [Read More](https://medium.com/p/d8ba927492dc) |
 | Sat, 13 Dec 2025 10:16:44 GMT | 10 Powerful Reasons Why a Cybersecurity Course Can Secure Your Future Success | Aarushi | [Read More](https://medium.com/p/1824390f38e4) |
 | Sat, 13 Dec 2025 10:11:21 GMT | TryHackMe ChillHack ❄️: Complete Walkthrough | intheloop | [Read More](https://medium.com/p/b1b755222a20) |
 | Sat, 13 Dec 2025 10:04:13 GMT | From Public Wi-Fi to Quantum Threats: Why You Might Need a VPN in 2025 | gmatechnologyus | [Read More](https://medium.com/p/e0bcdcd6bf53) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 00:41:40 GMT | The Accident of Birth: Why Your Environment is Your Destiny’s Blueprint | Rohaan Ahmad | [Read More](https://medium.com/p/23365d55f827) |
 | Sat, 13 Dec 2025 00:34:37 GMT | THM — Tony The Tiger | 0xEnzoSantana | [Read More](https://medium.com/p/f0e0512bd884) |
 | Sat, 13 Dec 2025 00:28:27 GMT | The Fastest Way to Reduce LLM Risk | Cyber-AppSec | [Read More](https://medium.com/p/d4554585427d) |
-| Sat, 13 Dec 2025 00:14:03 GMT | When Google Cloud Suspended My Project for Crypto Mining I Wasn’t Doing | Callum Eddisford | [Read More](https://medium.com/p/fe218c1e0a56) |
-| Sat, 13 Dec 2025 00:02:16 GMT | OWASP API9: How to Exploit Shadow and Zombie APIs (Improper Inventory Management) | JPablo13 | [Read More](https://medium.com/p/a2ccd60fdaaf) |
-| Fri, 12 Dec 2025 23:57:40 GMT | Why Every Website Needs a robots.txt File (And What Happens If You Ignore It) | Broncio Aguilar-Sanjuan | [Read More](https://medium.com/p/a1ccfcaecb7e) |
-| Fri, 12 Dec 2025 23:49:13 GMT | We Watch, You Relax! CCTV Camera Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/deffbce32de2) |
-| Fri, 12 Dec 2025 23:47:58 GMT | What I Learned From My First Network Scanning & Packet-Sniffing Labs | Khronicles | [Read More](https://medium.com/p/8f4c50763e08) |
