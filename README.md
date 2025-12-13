@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 19:20:20 GMT | 50 million dollar scam or 50 dollar bargain? | Roman Charleston | [Read More](https://medium.com/p/01e12f34a55b) |
+| Sat, 13 Dec 2025 19:16:13 GMT | You’re Fuzzing All Wrong: FFUF & Virtual Host Fuzzing | Abhishek Gupta | [Read More](https://medium.com/p/99e82643935a) |
+| Sat, 13 Dec 2025 19:14:18 GMT | Cybersecurity Concepts For Dummies | Minahil | [Read More](https://medium.com/p/ae97449cf7ee) |
 | Sat, 13 Dec 2025 19:03:57 GMT | Prompt Injection in LLMs: Attacks, Impacts, and Mitigation Strategies | Wesley de Morais | [Read More](https://medium.com/p/c9c9b569fd72) |
 | Sat, 13 Dec 2025 19:02:15 GMT | Would you get off the bus for me? | dapoetri | [Read More](https://medium.com/p/68250ff0bb65) |
 | Sat, 13 Dec 2025 18:34:40 GMT | MITRE ATT&CK & GEMINI CLI | Jakub Kowalski | [Read More](https://medium.com/p/3d26d25d28f4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 11:38:27 GMT | Part 16 — “The Quantum Singularity: What Happens When a Quantum Computer Computes Something… | Mr. Richie Gunawan | [Read More](https://medium.com/p/0bfb0daea892) |
 | Sat, 13 Dec 2025 11:37:49 GMT | React Server Components Vulnerability(CVE-2025–55182) Explained | Komal Raut | [Read More](https://medium.com/p/97c2852ed004) |
 | Sat, 13 Dec 2025 11:37:36 GMT | How Quality Assurance Engineers Can Strengthen Application Security | Saurav Dawadi | [Read More](https://medium.com/p/4ec3c94a5d2f) |
-| Sat, 13 Dec 2025 11:35:47 GMT | How Good Is Infinix Hot 10 Battery Life for Heavy Users? | Luna Collins | [Read More](https://medium.com/p/1a2e6e691a84) |
-| Sat, 13 Dec 2025 11:32:53 GMT | Navigating life as an emotional person | EmotionalPhool | [Read More](https://medium.com/p/18b7977ccf4b) |
-| Sat, 13 Dec 2025 11:26:41 GMT | Apple Patches Two WebKit Zero Days Actively Exploited in Sophisticated Attacks | valasala suhas | [Read More](https://medium.com/p/c331ce725245) |
