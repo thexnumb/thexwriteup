@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 23:16:35 GMT | How I met Claude Shannon | Alan Greenspan | [Read More](https://medium.com/p/c49bd4370317) |
+| Sat, 13 Dec 2025 23:01:20 GMT | Palestinian Freelancers: The Rising Talent Pool Every Business Should Consider | Apricot International | [Read More](https://medium.com/p/cb41d7c4b866) |
+| Sat, 13 Dec 2025 22:55:55 GMT | Salt Typhoon: The Worst Telecommunications Hack in American History | Abdelakarim Benabdallah | [Read More](https://medium.com/p/0b48917ca8e4) |
+| Sat, 13 Dec 2025 22:43:02 GMT | Role-Based Access Control (RBAC): The Foundation of Modern Application Security | Stoic Engineer | [Read More](https://medium.com/p/1b0ea030a9c9) |
 | Sat, 13 Dec 2025 22:14:03 GMT | La información, el “otro” producto en las empresas. | Carl Martz | [Read More](https://medium.com/p/d83c13057ec9) |
 | Sat, 13 Dec 2025 22:13:52 GMT | Churchill in the Digital War Room: A Grand Strategy Compared to the UK’s Cyber Power Vision | CCD-IS | [Read More](https://medium.com/p/79adae3327ce) |
 | Sat, 13 Dec 2025 22:13:30 GMT | Prompt Injection: The Security Vulnerability That Can Compromise Your Entire System | Suchitra Malimbada | [Read More](https://medium.com/p/8b91d5afea00) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 13:10:54 GMT | Firmware Analysis of a V380‑Based IoT Camera Using Linux Built‑in Tools | Aaronjjose | [Read More](https://medium.com/p/11f29f336e7e) |
 | Sat, 13 Dec 2025 13:01:21 GMT | Ports & Services: The Doorways of Digital Communication | Satyam Singh | [Read More](https://medium.com/p/a0b6a684aaf2) |
 | Sat, 13 Dec 2025 13:00:10 GMT | Metasploitable 3 (Windows) Write-up — Part VII: Port 3389 — Gaining Graphical Access via RDP | Kalash Kundaliya | [Read More](https://medium.com/p/8577180be971) |
-| Sat, 13 Dec 2025 12:57:57 GMT | How I Performed Basic API Security Tests Using Postman (Beginner Edition) | Stella Obatoye | [Read More](https://medium.com/p/2ceef01ee7de) |
-| Sat, 13 Dec 2025 12:56:34 GMT | DC-2 Walkthrough: From WordPress Enumeration to Root Access | Aris Arisyi | [Read More](https://medium.com/p/fe78784bfb12) |
-| Sat, 13 Dec 2025 12:55:42 GMT | New Gadgets Coming in 2026 That Will Help Humans in Everyday Life | Guestblogger | [Read More](https://medium.com/p/6d4c2d10d021) |
-| Sat, 13 Dec 2025 12:52:33 GMT | LinkedIn Hacks for Ethical Hackers | Muhammad Haider Tallal | [Read More](https://medium.com/p/391a81c90756) |
