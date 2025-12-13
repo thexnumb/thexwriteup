@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 08:13:08 GMT | TCP VE UDP: SALDIRGANIN VE SAVUNMACININ GÖZÜNDEN İKİ FARKLI AĞ FELSEFESİ | Cyber Web | [Read More](https://medium.com/p/c39ae2efa6af) |
+| Sat, 13 Dec 2025 08:05:00 GMT | ️ Diving Into the Dark Web: Secrets, Safety & Cyber Lessons | Nimit Ahir | [Read More](https://medium.com/p/85973d9582a6) |
+| Sat, 13 Dec 2025 08:01:45 GMT | The Role of Blockchain in Digital Identity & Cybersecurity | Blue Bird Digital Technology | [Read More](https://medium.com/p/9eddeacaf84e) |
+| Sat, 13 Dec 2025 07:57:05 GMT | Beyond Authentication — Exploiting a Nasty IDOR in Profile Update Functionality | Munna✨ | [Read More](https://medium.com/p/25740fb56b05) |
+| Sat, 13 Dec 2025 07:55:14 GMT | Highest Paying Cyber Security Jobs In 2025 | Muhammad Haider Tallal | [Read More](https://medium.com/p/48e6eda79007) |
+| Sat, 13 Dec 2025 07:42:05 GMT | What Is Cybersecurity Risk Assessment and How to Perform It | Maxatlasofficial | [Read More](https://medium.com/p/7e965059d22d) |
 | Sat, 13 Dec 2025 07:38:26 GMT | The Cryptography Concept Journey — Symmetric Encryption (Private Key Encryption) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9ad7ca366f56) |
+| Sat, 13 Dec 2025 07:32:32 GMT | Don’t Let Your Prompt Ruin the Demo | Praxen | [Read More](https://medium.com/p/fa2c7ebe507a) |
+| Sat, 13 Dec 2025 07:32:25 GMT | Google and Apple roll out emergency security updates after zero day attacks | Bintu's Art and Everything | [Read More](https://medium.com/p/64de81c03c17) |
+| Sat, 13 Dec 2025 07:32:01 GMT | Fundamentals of Computer Networking | Adam Kozak | [Read More](https://medium.com/p/19f43a8d1d1b) |
 | Sat, 13 Dec 2025 07:20:55 GMT | 21,000 Users, 13 Nodes: Why Voidly’s AI VPN Is Scaling While Others Get Blocked | Voidly | [Read More](https://medium.com/p/1ca8e6603a5f) |
 | Sat, 13 Dec 2025 07:16:11 GMT | TryHackMe — Block Writeup | Edward Nathanael | [Read More](https://medium.com/p/4d152a9ad1be) |
 | Sat, 13 Dec 2025 07:05:29 GMT | Active Directory: Kurumsal Aglarin Gorunmeyen Beyni | telix | [Read More](https://medium.com/p/0ffeb453f440) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 21:05:20 GMT | Voltaire in the Server Room: An Enlightenment Critique of Modern Cybersecurity Policy | CCD-IS | [Read More](https://medium.com/p/ff0e39b53c82) |
 | Fri, 12 Dec 2025 21:02:15 GMT | How to run SysReptor on Portainer | Jared Erlien | [Read More](https://medium.com/p/3e85872163ef) |
 | Fri, 12 Dec 2025 20:58:55 GMT | How a Single Mistyped Operator in GitHub Actions Triggered a $2,500 CI/CD Meltdown | FutureStack Academy | [Read More](https://medium.com/p/f8c99312fb90) |
-| Fri, 12 Dec 2025 20:47:44 GMT | WannaCry Ransomware Attack: The Global Cyber Outbreak That Changed Security Forever | Shivam | [Read More](https://medium.com/p/173c3efa9a8e) |
-| Fri, 12 Dec 2025 20:46:00 GMT | Building a Common Language: Core Concepts of Cyber Security for Insurers | Armin Mehraeen | [Read More](https://medium.com/p/f3a1ba235433) |
-| Fri, 12 Dec 2025 20:05:22 GMT | How Attackers Use Cloudflare to Launch and Mask Exploitation Attempts | Yealvare | [Read More](https://medium.com/p/fa70c9860e25) |
-| Fri, 12 Dec 2025 20:03:03 GMT | How a Single Mistyped Operator in GitHub Actions Triggered a $2,500 CI/CD Meltdown | FutureStack Academy | [Read More](https://medium.com/p/86180608d34e) |
-| Fri, 12 Dec 2025 20:01:35 GMT | Why Urology Practices Face Rising Cyber Risks: The Overlooked Vulnerabilities in Medical Imaging… | David Miller | [Read More](https://medium.com/p/a017b2b48d7d) |
-| Fri, 12 Dec 2025 19:48:48 GMT | Top OT Cyber Threats in 2025 | Muhammad Ali Khan | [Read More](https://medium.com/p/c173a03f7522) |
-| Fri, 12 Dec 2025 19:47:25 GMT | How to Master OT Incident Response | Muhammad Ali Khan | [Read More](https://medium.com/p/a6577ecbb83e) |
-| Fri, 12 Dec 2025 19:40:30 GMT | HOW A ROBBERY INCIDENT LED TO THE CREATION OF THE HALOGEN GROUP. | Simeon Dumle | [Read More](https://medium.com/p/868d3c537808) |
-| Fri, 12 Dec 2025 19:40:08 GMT | SOC Alert Triaging — Tinsel Triage - AoC 2025 Day — 10 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/23569e5c76c3) |
