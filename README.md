@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 15:28:06 GMT | Some Feelings Don’t Survive Translation | Lavinia | [Read More](https://medium.com/p/27bfa5870e7e) |
+| Sat, 13 Dec 2025 15:14:35 GMT | HTTP Yanıtları: Durum Kodları ve Güvenlik Zafiyetleri | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/49fdc0e29f17) |
 | Sat, 13 Dec 2025 15:02:15 GMT | How Hard Is It to Meet the Right Person? | Fower Leo | [Read More](https://medium.com/p/141eb5976c4c) |
 | Sat, 13 Dec 2025 15:01:59 GMT | Brainspotting | Alizabeth Amelia Rose | [Read More](https://medium.com/p/23a24956fe99) |
 | Sat, 13 Dec 2025 15:01:16 GMT | The Problem With “Free” Network Tools on the Internet | Bohdan Pylypchuk | [Read More](https://medium.com/p/82bf83896657) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 09:11:35 GMT | Your App Is Not Secure Until You Know This! | MD AL Mamun Mim | [Read More](https://medium.com/p/e8919ab82dd6) |
 | Sat, 13 Dec 2025 09:10:03 GMT | Day 131 — Narnia Level-5 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/d57e1193bc7c) |
 | Sat, 13 Dec 2025 09:01:20 GMT | Whoami ? | DrXpl0iT | [Read More](https://medium.com/p/f49b41eca5ca) |
-| Sat, 13 Dec 2025 08:55:54 GMT | Analytics for sensemaking: Machine-enabled taxonomies | Ensley Tan | [Read More](https://medium.com/p/41b02c9abe90) |
-| Sat, 13 Dec 2025 08:51:53 GMT | “Embracing Vulnerability” | Binte Habib | [Read More](https://medium.com/p/6d085160817d) |
