@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 07:16:11 GMT | TryHackMe — Block Writeup | Edward Nathanael | [Read More](https://medium.com/p/4d152a9ad1be) |
+| Sat, 13 Dec 2025 07:05:29 GMT | Active Directory: Kurumsal Aglarin Gorunmeyen Beyni | telix | [Read More](https://medium.com/p/0ffeb453f440) |
+| Sat, 13 Dec 2025 06:59:16 GMT | Privilege Escalation Matters: 12 Chains Leading to Full Takeover (Step-by-Step Guide) | Very Lazy Tech | [Read More](https://medium.com/p/7ec70cb0b8ef) |
+| Sat, 13 Dec 2025 06:48:14 GMT | How to Spot Fake Software Installers That Contain Malware | Ask IT Support | [Read More](https://medium.com/p/e0be3f5e1c8e) |
+| Sat, 13 Dec 2025 06:47:56 GMT | Rethinking Device Privacy: An Automatic Environment Switching Security Concept for Mobile and… | Sahil Shaikh | [Read More](https://medium.com/p/96a71b67463d) |
+| Sat, 13 Dec 2025 06:26:51 GMT | Associative: A Premier Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/3bd7594dc1da) |
 | Sat, 13 Dec 2025 06:10:37 GMT | The New Playbook for Cyber Leadership: Inside the First 100 Days of the CISO | JC Gaillard | [Read More](https://medium.com/p/a5ee7fe5d63e) |
 | Sat, 13 Dec 2025 06:07:57 GMT | Como crear un Aula Virtual en Moodle paso a paso | Dennis garcia | [Read More](https://medium.com/p/b8c3a41185c4) |
 | Sat, 13 Dec 2025 06:03:54 GMT | Tải Summer Memories Apk (Mod Việt Hóa) v2.04 | genzvnmod | [Read More](https://medium.com/p/9863c7c18af1) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 19:40:08 GMT | SOC Alert Triaging — Tinsel Triage - AoC 2025 Day — 10 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/23569e5c76c3) |
 | Fri, 12 Dec 2025 19:38:17 GMT | Data Security Posture Management (DSPM)- Part 1 | Pritam Burnwal | [Read More](https://medium.com/p/fe61f02e10a9) |
 | Fri, 12 Dec 2025 19:21:32 GMT | Cisco Catalyst 3560-CX-8PC-S Firmware Güncellemesi | Hakan ÇEVİK | [Read More](https://medium.com/p/9bb7686bbdeb) |
-| Fri, 12 Dec 2025 19:16:42 GMT | The Silent Gatekeeper: Why CAPTCHA is Dying and What Comes Next in 2025 | Tugui Dragos-Constantin | [Read More](https://medium.com/p/f387fa334bbd) |
-| Fri, 12 Dec 2025 19:10:36 GMT | Virtualization: My Experience, Insights, and How You Can Get Started | Mark Thompson | [Read More](https://medium.com/p/d9f3e3f9c39a) |
-| Fri, 12 Dec 2025 19:08:51 GMT | React’s December Security Crisis: From React2Shell to Three Critical CVEs in 8 Days | Daniel Bogale | [Read More](https://medium.com/p/85e1e8cc9ef4) |
-| Fri, 12 Dec 2025 19:05:41 GMT | The Unwritten Playbook: What Actually Happens in a SOC | Sidharth Sunil | [Read More](https://medium.com/p/b25676a96ee6) |
-| Fri, 12 Dec 2025 19:01:50 GMT | The Constitution of Digital Physics | Chris Perkins | [Read More](https://medium.com/p/157e7e45c1b5) |
-| Fri, 12 Dec 2025 19:01:29 GMT | • Trusting & Feeling | The FoxMartin | [Read More](https://medium.com/p/3b702e65a51e) |
