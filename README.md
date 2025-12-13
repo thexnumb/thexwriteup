@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 01:32:33 GMT | Permission Is a Timeline, Not a Checkbox | Praxen | [Read More](https://medium.com/p/79972c99b070) |
+| Sat, 13 Dec 2025 01:31:08 GMT | APTs simple explanation | Aras Darweesh | [Read More](https://medium.com/p/ba857f19aa62) |
+| Sat, 13 Dec 2025 01:10:00 GMT | How does Cloudflare protect a site? | Rafli Maulana | [Read More](https://medium.com/p/95465c5accd4) |
+| Sat, 13 Dec 2025 00:54:21 GMT | Steve Wozniak’s Legacy and the Personal Computer Revolution | Stacklegend | [Read More](https://medium.com/p/6a7dfe9e55ef) |
+| Sat, 13 Dec 2025 00:41:40 GMT | The Accident of Birth: Why Your Environment is Your Destiny’s Blueprint | Rohaan Ahmad | [Read More](https://medium.com/p/23365d55f827) |
+| Sat, 13 Dec 2025 00:34:37 GMT | THM — Tony The Tiger | 0xEnzoSantana | [Read More](https://medium.com/p/f0e0512bd884) |
+| Sat, 13 Dec 2025 00:28:27 GMT | The Fastest Way to Reduce LLM Risk | Cyber-AppSec | [Read More](https://medium.com/p/d4554585427d) |
+| Sat, 13 Dec 2025 00:14:03 GMT | When Google Cloud Suspended My Project for Crypto Mining I Wasn’t Doing | Callum Eddisford | [Read More](https://medium.com/p/fe218c1e0a56) |
+| Sat, 13 Dec 2025 00:02:16 GMT | OWASP API9: How to Exploit Shadow and Zombie APIs (Improper Inventory Management) | JPablo13 | [Read More](https://medium.com/p/a2ccd60fdaaf) |
+| Fri, 12 Dec 2025 23:57:40 GMT | Why Every Website Needs a robots.txt File (And What Happens If You Ignore It) | Broncio Aguilar-Sanjuan | [Read More](https://medium.com/p/a1ccfcaecb7e) |
+| Fri, 12 Dec 2025 23:49:13 GMT | We Watch, You Relax! CCTV Camera Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/deffbce32de2) |
+| Fri, 12 Dec 2025 23:47:58 GMT | What I Learned From My First Network Scanning & Packet-Sniffing Labs | Khronicles | [Read More](https://medium.com/p/8f4c50763e08) |
+| Fri, 12 Dec 2025 23:47:27 GMT | The Return of the QR Code Scam: Why Hospitals Keep Falling for a 20 Year Old Trick | Travis Ray Caverhill | [Read More](https://medium.com/p/8b762e273cbc) |
+| Fri, 12 Dec 2025 23:43:25 GMT | Nmap & Scapy Lab Documentation | Mhlope Nkosikhona | [Read More](https://medium.com/p/ef9232da8bcf) |
 | Fri, 12 Dec 2025 23:25:20 GMT | Segurança em AWS — riscos e cuidados com políticas IAM | Gabriel Simeoni | [Read More](https://medium.com/p/df85f4f2f06d) |
 | Fri, 12 Dec 2025 23:24:43 GMT | TRYHACKME AOC 2025 XSS - Merry XSSMas Writeup | Saiaditya | [Read More](https://medium.com/p/407bd028882d) |
 | Fri, 12 Dec 2025 23:21:00 GMT | Um bom líder sabe distinguir amizade de coleguismo. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/197b2e74e333) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 16:08:50 GMT | Hype Tech vs. Workhorse Tech | Chier Hu | [Read More](https://medium.com/p/14f00c5d3d52) |
 | Fri, 12 Dec 2025 16:07:29 GMT | How to Install Ubuntu 24.04 LTS | Angelo Sebastian Bibon | [Read More](https://medium.com/p/e434c5482891) |
 | Fri, 12 Dec 2025 16:02:19 GMT | Know This and Know Peace | Lori A. A. | [Read More](https://medium.com/p/628a3c155a5c) |
-| Fri, 12 Dec 2025 15:59:40 GMT | Defense in Depth: A Practical Guide to the 7 Layers of Cybersecurity | Paradise technologies Inc | [Read More](https://medium.com/p/a73c401ce5f1) |
-| Fri, 12 Dec 2025 15:59:08 GMT | Get a Locksmith — Professional Support Across London by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/c0e5298cdd41) |
-| Fri, 12 Dec 2025 15:58:27 GMT | 24 Hour Locksmith Service Near Me — Reliable Security Support Anytime | The Lock Specialist Ltd | [Read More](https://medium.com/p/12cc8aac11e7) |
-| Fri, 12 Dec 2025 15:54:44 GMT | Celebrating Small Wins: Why Every Bug Fixed Matters | Higor Mesquita | [Read More](https://medium.com/p/5ada3f17c7a8) |
-| Fri, 12 Dec 2025 15:51:56 GMT | My Cloud Network Now Fights Back: Building an Automated SOC with Sentinel | Gideon John Utong | [Read More](https://medium.com/p/c8eba54d102c) |
-| Fri, 12 Dec 2025 15:51:14 GMT | AI Chat Platform Sharing Flow: When Intended Functionality Leads to Privacy Exposure | ANTIBUGS | [Read More](https://medium.com/p/0ff548b02f1a) |
-| Fri, 12 Dec 2025 15:49:58 GMT | The Medical Records You Deleted Still Exist: How “Ghost Data” Is Fueling a New Wave of Identity… | Travis Ray Caverhill | [Read More](https://medium.com/p/ec6e5d15a1be) |
-| Fri, 12 Dec 2025 15:48:48 GMT | PortSwigger Web Security Academy: All Path Traversal Labs Solved (Full Walkthrough) | Blueorionn | [Read More](https://medium.com/p/8cccad53d44e) |
-| Fri, 12 Dec 2025 15:46:47 GMT | Massive Slack Infrastructure Exposure leaked internal hostnames by CYBER KALKI after Hackerone… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/ef37e73dbc36) |
-| Fri, 12 Dec 2025 15:39:57 GMT | Reveal Hidden Files in Google Storage : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/850c709a63de) |
-| Fri, 12 Dec 2025 15:36:04 GMT | How I Helped Secure a Fintech Platform Through Responsible Disclosure | Vijay K | [Read More](https://medium.com/p/f5bd4cad2402) |
-| Fri, 12 Dec 2025 15:32:14 GMT | A Terrible Night (1896) | Willow Redd | [Read More](https://medium.com/p/999db4293cc8) |
-| Fri, 12 Dec 2025 15:30:02 GMT | “When Menu Choices Turn Malicious: Uncovering an XSS Bug in Zomato’s Widgets” | Aman Sharma | [Read More](https://medium.com/p/62f29a9f0b03) |
-| Fri, 12 Dec 2025 15:28:16 GMT | Knitting your own sweater. | Whitney Fakolade | [Read More](https://medium.com/p/b998f84f1a1e) |
