@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 16:07:59 GMT | How AI Will Replace Tasks — Not Jobs | Senthil Jaganathan | [Read More](https://medium.com/p/bc232789e808) |
+| Sat, 13 Dec 2025 16:02:15 GMT | CIA Triad: The Backbone of Information Security | Shayaan Khan | [Read More](https://medium.com/p/f15dc2e2548d) |
+| Sat, 13 Dec 2025 16:00:36 GMT | The Center of RAG Security Is the Context Layer | inkme | [Read More](https://medium.com/p/f3a92275f9c8) |
+| Sat, 13 Dec 2025 15:56:25 GMT | Understanding Pivoting: From Compromised Hosts To Internal Networks | Swee2ooth | [Read More](https://medium.com/p/06d74fed4a8f) |
+| Sat, 13 Dec 2025 15:53:39 GMT | Looking At Bitunix Through The Lens Of Insurance And Protection | Adebayo Adedayo Richard | [Read More](https://medium.com/p/37a1852d54c0) |
+| Sat, 13 Dec 2025 15:49:28 GMT | Why IAM Has Become the Most Critical Cybersecurity Skill in 2025–26 | InsureTech Skills | [Read More](https://medium.com/p/f3c9a6eb4cad) |
+| Sat, 13 Dec 2025 15:47:42 GMT | Accessing a Company’s Entire Supply Chain Through an Open Google Drive | Tyreek Haynes | [Read More](https://medium.com/p/e7a1a551e9fc) |
+| Sat, 13 Dec 2025 15:41:25 GMT | Cross Site Scripting | Mylescorey | [Read More](https://medium.com/p/4a4146ef4242) |
+| Sat, 13 Dec 2025 15:32:47 GMT | How I Found a High-Severity Prompt Injection Bug in an AI LLM Chatbot | Rajankumarbarik | [Read More](https://medium.com/p/6f930d3a3918) |
 | Sat, 13 Dec 2025 15:28:06 GMT | Some Feelings Don’t Survive Translation | Lavinia | [Read More](https://medium.com/p/27bfa5870e7e) |
 | Sat, 13 Dec 2025 15:14:35 GMT | HTTP Yanıtları: Durum Kodları ve Güvenlik Zafiyetleri | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/49fdc0e29f17) |
 | Sat, 13 Dec 2025 15:02:15 GMT | How Hard Is It to Meet the Right Person? | Fower Leo | [Read More](https://medium.com/p/141eb5976c4c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 09:44:58 GMT | Bug Bounty from Zero: A Realistic Beginner’s Guide | Shruthilaya | [Read More](https://medium.com/p/2ab061de86b8) |
 | Sat, 13 Dec 2025 09:43:23 GMT | TryHackMe: Startup Writeup | cbev | [Read More](https://medium.com/p/a76632f40871) |
 | Sat, 13 Dec 2025 09:41:59 GMT | The Loneliness We Don’t Talk About in a Digital World | Aishwarya | [Read More](https://medium.com/p/41c3c4eae52b) |
-| Sat, 13 Dec 2025 09:41:38 GMT | Year-End Bumper Sale: OSCP + OSEP Training Only | Manisha Chaudhary | [Read More](https://medium.com/p/a73bd3a48b99) |
-| Sat, 13 Dec 2025 09:37:20 GMT | Who Installs Security Systems in Toronto Quickly? | Square Security Inc. | [Read More](https://medium.com/p/f6652e824693) |
-| Sat, 13 Dec 2025 09:27:06 GMT | AI-Augmented Cyber Threats on the Dark Web | David SEHYEON Baek | [Read More](https://medium.com/p/98df68f4e19d) |
-| Sat, 13 Dec 2025 09:24:59 GMT | SOC Prime and the Sigma Standard | David SEHYEON Baek | [Read More](https://medium.com/p/6784464ee652) |
-| Sat, 13 Dec 2025 09:23:33 GMT | Try Hack Me- Blaster Walkthrough | Herrfuhrer | [Read More](https://medium.com/p/e6317364b23c) |
-| Sat, 13 Dec 2025 09:12:06 GMT | Bodyguard Services Dubai: When Safety Becomes a Daily Priority | septimus Security | [Read More](https://medium.com/p/12899f952dfa) |
-| Sat, 13 Dec 2025 09:11:35 GMT | Your App Is Not Secure Until You Know This! | MD AL Mamun Mim | [Read More](https://medium.com/p/e8919ab82dd6) |
-| Sat, 13 Dec 2025 09:10:03 GMT | Day 131 — Narnia Level-5 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/d57e1193bc7c) |
-| Sat, 13 Dec 2025 09:01:20 GMT | Whoami ? | DrXpl0iT | [Read More](https://medium.com/p/f49b41eca5ca) |
