@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 06:10:37 GMT | The New Playbook for Cyber Leadership: Inside the First 100 Days of the CISO | JC Gaillard | [Read More](https://medium.com/p/a5ee7fe5d63e) |
+| Sat, 13 Dec 2025 06:07:57 GMT | Como crear un Aula Virtual en Moodle paso a paso | Dennis garcia | [Read More](https://medium.com/p/b8c3a41185c4) |
+| Sat, 13 Dec 2025 06:03:54 GMT | Tải Summer Memories Apk (Mod Việt Hóa) v2.04 | genzvnmod | [Read More](https://medium.com/p/9863c7c18af1) |
+| Sat, 13 Dec 2025 06:00:23 GMT | Mir Najeeb Mengal — Founder, CEO & Software Engineer | Mirnajeebmengal | [Read More](https://medium.com/p/37973b74de4a) |
+| Sat, 13 Dec 2025 05:54:12 GMT | Staying Private in Crypto: Your Guide to Keeping Things Under the Radar | Officer's Notes | [Read More](https://medium.com/p/ed6da7367b2b) |
 | Sat, 13 Dec 2025 05:42:30 GMT | The Bombshell Exposures - Cyber Kalki Exposes GlobalProtect VPN Portals at NATO, NASA, and Tesla… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/9750a1da09ad) |
+| Sat, 13 Dec 2025 05:41:31 GMT | Napoleon in the Digital Trenches: A Commander’s Take on Modern Cybersecurity Policy | CCD-IS | [Read More](https://medium.com/p/d49b74467b7f) |
+| Sat, 13 Dec 2025 05:36:34 GMT | Automating Deployments: CI/CD Pipelines with GitHub Actions and Bash | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f705f6f2f9ae) |
+| Sat, 13 Dec 2025 05:33:49 GMT | Splunk Basics: Homelab “SOC In A Box” | Johnny Meintel | [Read More](https://medium.com/p/b7f0d2746fdc) |
 | Sat, 13 Dec 2025 05:32:14 GMT | DevOps Roadmap (Part 22): Advanced Docker Concepts — Multi-Stage Builds, Health Checks, Layers… | Sainath | [Read More](https://medium.com/p/c5c24b9cc567) |
 | Sat, 13 Dec 2025 05:26:43 GMT | Are Mobile Proxies Worth the Cost for Account Stability? | TokenWraith | [Read More](https://medium.com/p/4a5af233b0da) |
 | Sat, 13 Dec 2025 05:17:21 GMT | Building a Full Audit Log System in Django SaaS (Async, Event-Based, Tamper-Proof Logs) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/86d2ae3fb99e) |
@@ -42,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 02:51:07 GMT | Is your Node.js API silently leaking data? An AppSec Guide for Software Engineers | Leonardo Policarpo | [Read More](https://medium.com/p/79eec39d74c0) |
 | Sat, 13 Dec 2025 02:50:59 GMT | Why Most Cybersecurity Spending Fails | Teddy Cerra | [Read More](https://medium.com/p/6d7fa63eaf72) |
 | Sat, 13 Dec 2025 02:32:51 GMT | Security and Regulatory Compliance in Fintech: Essential Guide to Operating Without Risk | Rodrigo Onaga | [Read More](https://medium.com/p/71a1f8856fd1) |
+| Sat, 13 Dec 2025 02:29:40 GMT | How a Fake Pop-Up Nearly Ruined a Life — And How You Can Stop It | Dan Blum | [Read More](https://medium.com/p/fb783cbcd6a1) |
 | Sat, 13 Dec 2025 02:19:09 GMT | Developers must know about SSRF vs. CSRF, here’s why. | AT | [Read More](https://medium.com/p/cdf5315a2c01) |
 | Sat, 13 Dec 2025 02:12:34 GMT | OSI Model | Ulung Surya Atma Kencana | [Read More](https://medium.com/p/8e52767380d6) |
 | Sat, 13 Dec 2025 02:02:36 GMT | Preventing Prompt Injection with Firebase Genkit | JH5 | [Read More](https://medium.com/p/a47a4231b3f2) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 19:05:41 GMT | The Unwritten Playbook: What Actually Happens in a SOC | Sidharth Sunil | [Read More](https://medium.com/p/b25676a96ee6) |
 | Fri, 12 Dec 2025 19:01:50 GMT | The Constitution of Digital Physics | Chris Perkins | [Read More](https://medium.com/p/157e7e45c1b5) |
 | Fri, 12 Dec 2025 19:01:29 GMT | • Trusting & Feeling | The FoxMartin | [Read More](https://medium.com/p/3b702e65a51e) |
-| Fri, 12 Dec 2025 18:29:38 GMT | Assume Privileged Role with External ID : Pwned-Labs Walkthrough Part 1 | Maverick | [Read More](https://medium.com/p/7d97dbd77c2b) |
-| Fri, 12 Dec 2025 18:23:43 GMT | Advanced Container Security Techniques in Linux | Linux Guide | [Read More](https://medium.com/p/ae773b8fa721) |
-| Fri, 12 Dec 2025 18:23:05 GMT | VPN Server Installation on Linux: Secure Remote Access with OpenVPN | Esra Kayhan | [Read More](https://medium.com/p/6a49878a1d9f) |
-| Fri, 12 Dec 2025 18:22:42 GMT | ️ Daemon Security Configuration in Linux: Restricting Service Privileges with systemd | Esra Kayhan | [Read More](https://medium.com/p/a1466718852f) |
-| Fri, 12 Dec 2025 18:20:33 GMT | Kviklet: The Database Access Control Platform That Actually Makes Sense | Rio Wiraldhani | [Read More](https://medium.com/p/3cc2c2d09344) |
-| Fri, 12 Dec 2025 18:18:37 GMT | Top 15 web based OSINT tools (free)-Enjoy it | Nazrul Islam Rana | [Read More](https://medium.com/p/780dde4571cd) |
-| Fri, 12 Dec 2025 18:16:37 GMT | Passwords — A Cracking Christmas - AoC 2025 Day-9 - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/e78e53a61fb7) |
-| Fri, 12 Dec 2025 18:15:29 GMT | React Server Components Hit by Trio of Vulnerabilities: DoS, Source Code Exposure, and an… | gm0 | [Read More](https://medium.com/p/cc8db64a439d) |
-| Fri, 12 Dec 2025 18:15:09 GMT | CVE‑2025‑64721: A Critical Sandbox Escape That Breaks the Isolation Boundary | gm0 | [Read More](https://medium.com/p/ad6a60d0e9bd) |
