@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 18:28:11 GMT | AS2 Protocol Explained with a Real Spring Boot Implementation | Manoj | [Read More](https://medium.com/p/560c6e794cd1) |
+| Sat, 13 Dec 2025 18:16:45 GMT | Editor — HackTheBox | Mustafa Abdullah | [Read More](https://medium.com/p/85505c6dd0c4) |
+| Sat, 13 Dec 2025 18:14:21 GMT | RECOVERING FROM ONLINE INVESTMENT SCAMS: HIRE SOLACE CYBER WORKSTATIONS | Jonathan Saltman | [Read More](https://medium.com/p/d34ccbedf4cd) |
+| Sat, 13 Dec 2025 18:09:28 GMT | :  ’ | Souravmookherjee | [Read More](https://medium.com/p/14fc4a0ef08d) |
+| Sat, 13 Dec 2025 18:08:58 GMT | Explication des Fonctionnalités : | Roothackeer | [Read More](https://medium.com/p/08c8a03faf8b) |
+| Sat, 13 Dec 2025 17:55:53 GMT | # I Found RCE in Production MCP Servers — So I Built a Scanner | Teycir | [Read More](https://medium.com/p/fd17f2213cf7) |
+| Sat, 13 Dec 2025 17:54:50 GMT | AWS Security in 2025: What Actually Changed and Why It Matters | Neeraj Sharma | [Read More](https://medium.com/p/78d2621487fc) |
+| Sat, 13 Dec 2025 17:52:25 GMT | When Your SIM Is No Longer Yours: How SIM and eSIM Cloning Enables Invisible Phone Spying | Daretoexpose | [Read More](https://medium.com/p/ffd62387bf00) |
+| Sat, 13 Dec 2025 17:49:54 GMT | Web Proxy | declan | [Read More](https://medium.com/p/d372f006b193) |
+| Sat, 13 Dec 2025 17:41:04 GMT | When “Being Strong” Becomes the Mask That’s Hardest to Take Off | Jenna Jeff | [Read More](https://medium.com/p/8444713c7617) |
 | Sat, 13 Dec 2025 17:37:39 GMT | How Zero Knowledge Blockchain Technology Is Redefining Privacy, Scalability, and Trust in… | Emmanuel Nwidemua | [Read More](https://medium.com/p/43d823baec4c) |
+| Sat, 13 Dec 2025 17:35:30 GMT | Building a Hands-On SOC Lab with Splunk: From Ubuntu Server to Live Windows Telemetry | Vivektumma27 | [Read More](https://medium.com/p/b04eeb55d724) |
 | Sat, 13 Dec 2025 17:33:25 GMT | Deepfake risk, and how Coalition’s new coverage helps protect your business | Marc Matthew Mason | [Read More](https://medium.com/p/c32e1f457a2e) |
 | Sat, 13 Dec 2025 17:32:19 GMT | I Watched an AI Hack Stanford’s Network for $18/Hour. Here’s Why the Headlines Got It Wrong. | Kuldeepsinh Jadeja | [Read More](https://medium.com/p/bb98d9619ba1) |
 | Sat, 13 Dec 2025 17:31:34 GMT | HTB: White Rabbit | Sean Gray | [Read More](https://medium.com/p/706173896476) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 11:09:46 GMT | HackTheBox — MonitorsFour | Boubakri Rami | [Read More](https://medium.com/p/20fa43f547e1) |
 | Sat, 13 Dec 2025 11:01:09 GMT | Why Should Developers Learn Cybersecurity? | karincayiyen | [Read More](https://medium.com/p/af0c6394eb91) |
 | Sat, 13 Dec 2025 10:59:54 GMT | Is GRC Bureaucracy? | Adeoluwa Obadofin | [Read More](https://medium.com/p/fa30ce368cce) |
-| Sat, 13 Dec 2025 10:52:33 GMT | Frozen Fingers & Hot Bugs: How a Small Dork Turned Into Full Support Panel Access | Yousef Elsheikh | [Read More](https://medium.com/p/0a37bf69650f) |
-| Sat, 13 Dec 2025 10:47:27 GMT | Güvenlik Kamerası Sistemlerinde Doğru Planlama Neden Önemlidir? | Ertel Bilisim Sistemleri | [Read More](https://medium.com/p/ff44e2db6f03) |
-| Sat, 13 Dec 2025 10:46:48 GMT | PostgreSQL 17 vs PostgreSQL 18: Parallel Query Execution — What’s Real, What’s Next | Rizqi Mulki | [Read More](https://medium.com/p/5b483a51bcef) |
-| Sat, 13 Dec 2025 10:44:17 GMT | AI-Powered Command Generation and Automation in Linux Shell with SGPT | Seb AGUELE | [Read More](https://medium.com/p/8db9b2d5a530) |
-| Sat, 13 Dec 2025 10:37:54 GMT | Femboy Futa House (0.1) | Mia Mi | [Read More](https://medium.com/p/d7d9f4b6f0f2) |
-| Sat, 13 Dec 2025 10:29:48 GMT | Cybersecurity Fundamentals: A Beginner’s Guide | Hadiyayazeen | [Read More](https://medium.com/p/8a101f0db2d8) |
-| Sat, 13 Dec 2025 10:28:51 GMT | Lab: Insecure direct object references | Songül Kızılay Özügürler | [Read More](https://medium.com/p/b682887eb59f) |
-| Sat, 13 Dec 2025 10:27:58 GMT | Lab: User ID controlled by request parameter | Songül Kızılay Özügürler | [Read More](https://medium.com/p/b94365292c75) |
-| Sat, 13 Dec 2025 10:26:55 GMT | My Journey to Cybersecurity | Robert Simpson | [Read More](https://medium.com/p/920fe8ab1b77) |
-| Sat, 13 Dec 2025 10:19:12 GMT | Network Administrator Notes: Blocking Bogon IPv4 addresses on Cisco 3750X | Timmychen | [Read More](https://medium.com/p/d8ba927492dc) |
-| Sat, 13 Dec 2025 10:16:44 GMT | 10 Powerful Reasons Why a Cybersecurity Course Can Secure Your Future Success | Aarushi | [Read More](https://medium.com/p/1824390f38e4) |
