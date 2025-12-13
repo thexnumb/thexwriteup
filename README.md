@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 17:37:39 GMT | How Zero Knowledge Blockchain Technology Is Redefining Privacy, Scalability, and Trust in… | Emmanuel Nwidemua | [Read More](https://medium.com/p/43d823baec4c) |
+| Sat, 13 Dec 2025 17:33:25 GMT | Deepfake risk, and how Coalition’s new coverage helps protect your business | Marc Matthew Mason | [Read More](https://medium.com/p/c32e1f457a2e) |
+| Sat, 13 Dec 2025 17:32:19 GMT | I Watched an AI Hack Stanford’s Network for $18/Hour. Here’s Why the Headlines Got It Wrong. | Kuldeepsinh Jadeja | [Read More](https://medium.com/p/bb98d9619ba1) |
+| Sat, 13 Dec 2025 17:31:34 GMT | HTB: White Rabbit | Sean Gray | [Read More](https://medium.com/p/706173896476) |
+| Sat, 13 Dec 2025 17:28:11 GMT | What Your Cracks Reveal About You (When You Finally Pay Attention) | Alessandro Capraro | [Read More](https://medium.com/p/d45e9a7e2508) |
+| Sat, 13 Dec 2025 17:26:58 GMT | AFI™ – Architectural Feature Isolation | Shawnn carter | [Read More](https://medium.com/p/26b80c4f0c8a) |
+| Sat, 13 Dec 2025 17:16:21 GMT | TCS Hack Quest Season 10 — CTF Write‑Up | rajasekharyarava | [Read More](https://medium.com/p/8ad8796988d5) |
 | Sat, 13 Dec 2025 16:56:42 GMT | The career paths of the IT Architect. | Mohammed Brückner | [Read More](https://medium.com/p/b30b1015bb91) |
 | Sat, 13 Dec 2025 16:50:30 GMT | Defending Systems Through Ethical Hacking | Nyra | [Read More](https://medium.com/p/92310844bd09) |
 | Sat, 13 Dec 2025 16:27:10 GMT | How I Bypassed Voucher Limits Using a Race Condition Vulnerability | Danish Ahmed | [Read More](https://medium.com/p/4cc3b192a5b1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 10:26:55 GMT | My Journey to Cybersecurity | Robert Simpson | [Read More](https://medium.com/p/920fe8ab1b77) |
 | Sat, 13 Dec 2025 10:19:12 GMT | Network Administrator Notes: Blocking Bogon IPv4 addresses on Cisco 3750X | Timmychen | [Read More](https://medium.com/p/d8ba927492dc) |
 | Sat, 13 Dec 2025 10:16:44 GMT | 10 Powerful Reasons Why a Cybersecurity Course Can Secure Your Future Success | Aarushi | [Read More](https://medium.com/p/1824390f38e4) |
-| Sat, 13 Dec 2025 10:11:21 GMT | TryHackMe ChillHack ❄️: Complete Walkthrough | intheloop | [Read More](https://medium.com/p/b1b755222a20) |
-| Sat, 13 Dec 2025 10:04:13 GMT | From Public Wi-Fi to Quantum Threats: Why You Might Need a VPN in 2025 | gmatechnologyus | [Read More](https://medium.com/p/e0bcdcd6bf53) |
-| Sat, 13 Dec 2025 10:01:16 GMT | The Biggest Cybersecurity Threat of the Next Decade Won’t Be Malware — Trust me its TRUST | Sujith | [Read More](https://medium.com/p/5de2f4d791b9) |
-| Sat, 13 Dec 2025 09:53:11 GMT | Tornado Cash Nova Deposit & Withdraw Guide: Complete Guide to Stay Anonymous (2025) | Jesse Fangs | [Read More](https://medium.com/p/b79fbd433039) |
-| Sat, 13 Dec 2025 09:52:00 GMT | Cyber Hygiene: Simple Steps to Stay Safe Online | Miraal | [Read More](https://medium.com/p/cdbd7a72cc35) |
-| Sat, 13 Dec 2025 09:50:41 GMT | Network Security Services in 2025: Building Resilience in a Hyper-Connected World | Devarshi Acharya | [Read More](https://medium.com/p/eeaadb31080f) |
-| Sat, 13 Dec 2025 09:46:33 GMT | Basit Bir Girişin Yıkıcı Gücü: Komut Enjeksiyonu Zafiyeti | Halil İbrahim Kuş | [Read More](https://medium.com/p/8399f5a1df76) |
