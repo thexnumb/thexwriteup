@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 02:59:11 GMT | Over Before You Know It | Crow in the Flow | [Read More](https://medium.com/p/5e7ec75c2f36) |
+| Sat, 13 Dec 2025 02:51:07 GMT | Is your Node.js API silently leaking data? An AppSec Guide for Software Engineers | Leonardo Policarpo | [Read More](https://medium.com/p/79eec39d74c0) |
+| Sat, 13 Dec 2025 02:50:59 GMT | Why Most Cybersecurity Spending Fails | Teddy Cerra | [Read More](https://medium.com/p/6d7fa63eaf72) |
+| Sat, 13 Dec 2025 02:32:51 GMT | Security and Regulatory Compliance in Fintech: Essential Guide to Operating Without Risk | Rodrigo Onaga | [Read More](https://medium.com/p/71a1f8856fd1) |
+| Sat, 13 Dec 2025 02:19:09 GMT | Developers must know about SSRF vs. CSRF, here’s why. | AT | [Read More](https://medium.com/p/cdf5315a2c01) |
+| Sat, 13 Dec 2025 02:12:34 GMT | OSI Model | Ulung Surya Atma Kencana | [Read More](https://medium.com/p/8e52767380d6) |
+| Sat, 13 Dec 2025 02:02:36 GMT | Preventing Prompt Injection with Firebase Genkit | JH5 | [Read More](https://medium.com/p/a47a4231b3f2) |
+| Sat, 13 Dec 2025 02:02:36 GMT | The SNAFU Weekly Report — #2 (2025–12–13) | Michael H. | [Read More](https://medium.com/p/97761a017d1e) |
+| Sat, 13 Dec 2025 01:55:54 GMT | La encrucijada digital del pueblo yoreme | M.C. José Luis Cervantes González | [Read More](https://medium.com/p/9b252beaa86b) |
 | Sat, 13 Dec 2025 01:32:33 GMT | Permission Is a Timeline, Not a Checkbox | Praxen | [Read More](https://medium.com/p/79972c99b070) |
 | Sat, 13 Dec 2025 01:31:08 GMT | APTs simple explanation | Aras Darweesh | [Read More](https://medium.com/p/ba857f19aa62) |
 | Sat, 13 Dec 2025 01:10:00 GMT | How does Cloudflare protect a site? | Rafli Maulana | [Read More](https://medium.com/p/95465c5accd4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 16:48:06 GMT | Security flaw in Hama Film photo booth website exposes customer photos and videos online | TechByte360 | [Read More](https://medium.com/p/c3949423a1f9) |
 | Fri, 12 Dec 2025 16:33:09 GMT | When Outdated IT Becomes a Security Risk — What Your Company Needs to Know | Cordula Boeck | [Read More](https://medium.com/p/58bb97c38caf) |
 | Fri, 12 Dec 2025 16:31:58 GMT | The Unsolvable Problem: Why Prompt Injection May Define the AI Security Era | Shashwata Bhattacharjee | [Read More](https://medium.com/p/94a0433318a4) |
-| Fri, 12 Dec 2025 16:27:17 GMT | Verified Onion Links: A 2025 Research Directory for Safe Tor Navigation | Tor BBB | [Read More](https://medium.com/p/fae7dfecbb3d) |
-| Fri, 12 Dec 2025 16:25:26 GMT | Bruce Firmware: The Unlikely Cybersecurity Tool in a 3D Printer’s Heart | Nisarg Patel | [Read More](https://medium.com/p/af979842b979) |
-| Fri, 12 Dec 2025 16:18:17 GMT | I Started My Cybersecurity Career Early — Here’s What I Learned the Hard Way | Thomas Kim | [Read More](https://medium.com/p/cb6349885428) |
-| Fri, 12 Dec 2025 16:17:07 GMT | From the Information Age to the Age of Intelligence! | Dr. Ajaya Sankar | [Read More](https://medium.com/p/4036598bfd77) |
-| Fri, 12 Dec 2025 16:16:48 GMT | Building Autonomous Pentesting Pipelines with AI: A Practical Guide for Modern Engineering Teams | Mohd Sohaib | [Read More](https://medium.com/p/5032cfd73827) |
-| Fri, 12 Dec 2025 16:10:03 GMT | Advent of Cyber 2025 - Day 12: Phishing — Phishmas Greetings | D4m.sh | [Read More](https://medium.com/p/ff82ca8a16af) |
-| Fri, 12 Dec 2025 16:08:50 GMT | Hype Tech vs. Workhorse Tech | Chier Hu | [Read More](https://medium.com/p/14f00c5d3d52) |
-| Fri, 12 Dec 2025 16:07:29 GMT | How to Install Ubuntu 24.04 LTS | Angelo Sebastian Bibon | [Read More](https://medium.com/p/e434c5482891) |
-| Fri, 12 Dec 2025 16:02:19 GMT | Know This and Know Peace | Lori A. A. | [Read More](https://medium.com/p/628a3c155a5c) |
