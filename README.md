@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 03:37:45 GMT | How I Deployed Adobe Acrobat Pro to Windows Devices with Intune (The Practical Way, Real… | Harpreet Wasu | [Read More](https://medium.com/p/bd95efc7095e) |
+| Sat, 13 Dec 2025 03:33:11 GMT | Paper HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/8edec7583475) |
+| Sat, 13 Dec 2025 03:32:16 GMT | ⭐ Network Security for Beginners: A Simple, Story-Based Guide to Staying Safe Online | Jayesh Dankhara | [Read More](https://medium.com/p/e7ce51492df9) |
+| Sat, 13 Dec 2025 03:25:30 GMT | The iRAID™ Model: How to Achieve Maximum AI Compliance with a Single, Integrated NIST Architecture | Govind Palakuri | [Read More](https://medium.com/p/9127d56b1a38) |
+| Sat, 13 Dec 2025 03:22:15 GMT | The Invoice Trap: How XWorm Hides in Routine Billing Emails | Deven Chhajed | [Read More](https://medium.com/p/628b10165cf8) |
+| Sat, 13 Dec 2025 03:21:02 GMT | W1seGuy | Pimsim | [Read More](https://medium.com/p/5f2f7227ccb5) |
 | Sat, 13 Dec 2025 02:59:11 GMT | Over Before You Know It | Crow in the Flow | [Read More](https://medium.com/p/5e7ec75c2f36) |
 | Sat, 13 Dec 2025 02:51:07 GMT | Is your Node.js API silently leaking data? An AppSec Guide for Software Engineers | Leonardo Policarpo | [Read More](https://medium.com/p/79eec39d74c0) |
 | Sat, 13 Dec 2025 02:50:59 GMT | Why Most Cybersecurity Spending Fails | Teddy Cerra | [Read More](https://medium.com/p/6d7fa63eaf72) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 17:22:00 GMT | Neural Networks: Basics and Behavior | Xecyber | [Read More](https://medium.com/p/9d62d6040c64) |
 | Fri, 12 Dec 2025 17:18:53 GMT | AI Agent: AresGPT for SCRUM teams Red Teaming for Product Lifecycle | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/f8bb71ca8616) |
 | Fri, 12 Dec 2025 17:16:24 GMT | React2Shell: the critical RCE in React Server Components everyone needs to patch now | Satvik Tripathi | [Read More](https://medium.com/p/7e0fad7a698f) |
-| Fri, 12 Dec 2025 17:16:07 GMT | ️‍♂️ Stealth Scan Explained: How Hackers Probe Networks Without Being Seen | Natarajan C K | [Read More](https://medium.com/p/c2d38b553172) |
-| Fri, 12 Dec 2025 16:52:31 GMT | Cybersecurity News Review — Week 50 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/d2bf8c2c02c7) |
-| Fri, 12 Dec 2025 16:52:08 GMT | Christmas Wishes for Everybody | Randy Fredlund | [Read More](https://medium.com/p/ddcc2fa57b97) |
-| Fri, 12 Dec 2025 16:48:06 GMT | Security flaw in Hama Film photo booth website exposes customer photos and videos online | TechByte360 | [Read More](https://medium.com/p/c3949423a1f9) |
-| Fri, 12 Dec 2025 16:33:09 GMT | When Outdated IT Becomes a Security Risk — What Your Company Needs to Know | Cordula Boeck | [Read More](https://medium.com/p/58bb97c38caf) |
-| Fri, 12 Dec 2025 16:31:58 GMT | The Unsolvable Problem: Why Prompt Injection May Define the AI Security Era | Shashwata Bhattacharjee | [Read More](https://medium.com/p/94a0433318a4) |
