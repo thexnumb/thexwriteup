@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 04:23:38 GMT | An all-in-one Bash script tool for Kubernetes penetration testing and security enumeration | Dr. Saket Acharya | [Read More](https://medium.com/p/f0c7287991e2) |
+| Sat, 13 Dec 2025 04:18:30 GMT | W1seGuy Walkthrough | Pimsim | [Read More](https://medium.com/p/562513421616) |
+| Sat, 13 Dec 2025 04:13:05 GMT | How Concrete Enables One-Click DeFi ? | Rizkierel | [Read More](https://medium.com/p/91d4985072ea) |
+| Sat, 13 Dec 2025 04:00:23 GMT | Tải ROBLOX APK + MOD (Menu, Bất Tử) 2.700.937 Miễn Phí | Apkpuredev | [Read More](https://medium.com/p/2c7cae420d6f) |
 | Sat, 13 Dec 2025 03:37:45 GMT | How I Deployed Adobe Acrobat Pro to Windows Devices with Intune (The Practical Way, Real… | Harpreet Wasu | [Read More](https://medium.com/p/bd95efc7095e) |
 | Sat, 13 Dec 2025 03:33:11 GMT | Paper HTB Machine Walk-Through! | Nmullenski | [Read More](https://medium.com/p/8edec7583475) |
 | Sat, 13 Dec 2025 03:32:16 GMT | ⭐ Network Security for Beginners: A Simple, Story-Based Guide to Staying Safe Online | Jayesh Dankhara | [Read More](https://medium.com/p/e7ce51492df9) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 17:36:41 GMT | Setting Up a VLAN-Isolated Cybersecurity Home Lab | 0xmatchaberry | [Read More](https://medium.com/p/957820f43138) |
 | Fri, 12 Dec 2025 17:29:33 GMT | Advent of Cyber 25 — Day 10— SOC Alert Triaging — Tinsel Triage | cybertactic | [Read More](https://medium.com/p/be44362103a6) |
 | Fri, 12 Dec 2025 17:28:38 GMT | How Robotics Is Transforming Modern Security Management: Real Use Cases From the Field | Teona | [Read More](https://medium.com/p/c26b08fbabc2) |
-| Fri, 12 Dec 2025 17:27:40 GMT | VirtualBox Network Adapter Types - Beginner-Friendly Guide | Avrodip Joy | [Read More](https://medium.com/p/e0b21d7a7bc1) |
-| Fri, 12 Dec 2025 17:22:00 GMT | Neural Networks: Basics and Behavior | Xecyber | [Read More](https://medium.com/p/9d62d6040c64) |
-| Fri, 12 Dec 2025 17:18:53 GMT | AI Agent: AresGPT for SCRUM teams Red Teaming for Product Lifecycle | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/f8bb71ca8616) |
-| Fri, 12 Dec 2025 17:16:24 GMT | React2Shell: the critical RCE in React Server Components everyone needs to patch now | Satvik Tripathi | [Read More](https://medium.com/p/7e0fad7a698f) |
