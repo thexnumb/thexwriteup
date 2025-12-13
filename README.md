@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 10:16:44 GMT | 10 Powerful Reasons Why a Cybersecurity Course Can Secure Your Future Success | Aarushi | [Read More](https://medium.com/p/1824390f38e4) |
+| Sat, 13 Dec 2025 10:11:21 GMT | TryHackMe ChillHack ❄️: Complete Walkthrough | intheloop | [Read More](https://medium.com/p/b1b755222a20) |
+| Sat, 13 Dec 2025 10:04:13 GMT | From Public Wi-Fi to Quantum Threats: Why You Might Need a VPN in 2025 | gmatechnologyus | [Read More](https://medium.com/p/e0bcdcd6bf53) |
+| Sat, 13 Dec 2025 10:01:16 GMT | The Biggest Cybersecurity Threat of the Next Decade Won’t Be Malware — Trust me its TRUST | Sujith | [Read More](https://medium.com/p/5de2f4d791b9) |
+| Sat, 13 Dec 2025 09:53:11 GMT | Tornado Cash Nova Deposit & Withdraw Guide: Complete Guide to Stay Anonymous (2025) | Jesse Fangs | [Read More](https://medium.com/p/b79fbd433039) |
+| Sat, 13 Dec 2025 09:52:00 GMT | Cyber Hygiene: Simple Steps to Stay Safe Online | Miraal | [Read More](https://medium.com/p/cdbd7a72cc35) |
+| Sat, 13 Dec 2025 09:50:41 GMT | Network Security Services in 2025: Building Resilience in a Hyper-Connected World | Devarshi Acharya | [Read More](https://medium.com/p/eeaadb31080f) |
+| Sat, 13 Dec 2025 09:46:33 GMT | Basit Bir Girişin Yıkıcı Gücü: Komut Enjeksiyonu Zafiyeti | Halil İbrahim Kuş | [Read More](https://medium.com/p/8399f5a1df76) |
+| Sat, 13 Dec 2025 09:44:58 GMT | Bug Bounty from Zero: A Realistic Beginner’s Guide | Shruthilaya | [Read More](https://medium.com/p/2ab061de86b8) |
+| Sat, 13 Dec 2025 09:43:23 GMT | TryHackMe: Startup Writeup | cbev | [Read More](https://medium.com/p/a76632f40871) |
+| Sat, 13 Dec 2025 09:41:59 GMT | The Loneliness We Don’t Talk About in a Digital World | Aishwarya | [Read More](https://medium.com/p/41c3c4eae52b) |
+| Sat, 13 Dec 2025 09:41:38 GMT | Year-End Bumper Sale: OSCP + OSEP Training Only | Manisha Chaudhary | [Read More](https://medium.com/p/a73bd3a48b99) |
 | Sat, 13 Dec 2025 09:37:20 GMT | Who Installs Security Systems in Toronto Quickly? | Square Security Inc. | [Read More](https://medium.com/p/f6652e824693) |
 | Sat, 13 Dec 2025 09:27:06 GMT | AI-Augmented Cyber Threats on the Dark Web | David SEHYEON Baek | [Read More](https://medium.com/p/98df68f4e19d) |
 | Sat, 13 Dec 2025 09:24:59 GMT | SOC Prime and the Sigma Standard | David SEHYEON Baek | [Read More](https://medium.com/p/6784464ee652) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 23:57:40 GMT | Why Every Website Needs a robots.txt File (And What Happens If You Ignore It) | Broncio Aguilar-Sanjuan | [Read More](https://medium.com/p/a1ccfcaecb7e) |
 | Fri, 12 Dec 2025 23:49:13 GMT | We Watch, You Relax! CCTV Camera Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/deffbce32de2) |
 | Fri, 12 Dec 2025 23:47:58 GMT | What I Learned From My First Network Scanning & Packet-Sniffing Labs | Khronicles | [Read More](https://medium.com/p/8f4c50763e08) |
-| Fri, 12 Dec 2025 23:47:27 GMT | The Return of the QR Code Scam: Why Hospitals Keep Falling for a 20 Year Old Trick | Travis Ray Caverhill | [Read More](https://medium.com/p/8b762e273cbc) |
-| Fri, 12 Dec 2025 23:43:25 GMT | Nmap & Scapy Lab Documentation | Mhlope Nkosikhona | [Read More](https://medium.com/p/ef9232da8bcf) |
-| Fri, 12 Dec 2025 23:25:20 GMT | Segurança em AWS — riscos e cuidados com políticas IAM | Gabriel Simeoni | [Read More](https://medium.com/p/df85f4f2f06d) |
-| Fri, 12 Dec 2025 23:24:43 GMT | TRYHACKME AOC 2025 XSS - Merry XSSMas Writeup | Saiaditya | [Read More](https://medium.com/p/407bd028882d) |
-| Fri, 12 Dec 2025 23:21:00 GMT | Um bom líder sabe distinguir amizade de coleguismo. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/197b2e74e333) |
-| Fri, 12 Dec 2025 23:19:06 GMT | Red Teams as a Practice Framework for Audit-Ready Organizations | Dr Casey LaFrance | [Read More](https://medium.com/p/25df79e556e4) |
-| Fri, 12 Dec 2025 23:10:08 GMT | Ransomware in 2025: What Every Small and Midsize Business Needs to Know to Stay Protected | Configr Technologies | [Read More](https://medium.com/p/bb97677fdc76) |
-| Fri, 12 Dec 2025 23:06:44 GMT | Cyberattack Warning: MacStealer Malware Spread Through Fake ChatGPT Prompts | AI THOUGHT | [Read More](https://medium.com/p/edc3ac0bc19f) |
-| Fri, 12 Dec 2025 23:05:04 GMT | Exploring Network Traffic Analysis and Manipulation Techniques | Seun odebode | [Read More](https://medium.com/p/462dde68df67) |
-| Fri, 12 Dec 2025 23:04:17 GMT | “Contextual Hacking”: A Guide To Active Reconnaissance & Vulnerability Exploitation | Entit_y | [Read More](https://medium.com/p/41b266516a5a) |
-| Fri, 12 Dec 2025 22:56:16 GMT | Understanding Bot Protection on Cloudflare: Features, Data, and Practical Analysis | SYJ's Learning Diary | [Read More](https://medium.com/p/446badcebd9b) |
-| Fri, 12 Dec 2025 22:49:53 GMT | Israeli cybersecurity funding soars to $4.4 billion, up 46% in 2025 | Defence Affairs & Analysis | [Read More](https://medium.com/p/99e34cf24a03) |
