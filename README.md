@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 16:27:10 GMT | How I Bypassed Voucher Limits Using a Race Condition Vulnerability | Danish Ahmed | [Read More](https://medium.com/p/4cc3b192a5b1) |
 | Sat, 13 Dec 2025 16:07:59 GMT | How AI Will Replace Tasks — Not Jobs | Senthil Jaganathan | [Read More](https://medium.com/p/bc232789e808) |
 | Sat, 13 Dec 2025 16:02:15 GMT | CIA Triad: The Backbone of Information Security | Shayaan Khan | [Read More](https://medium.com/p/f15dc2e2548d) |
 | Sat, 13 Dec 2025 16:00:36 GMT | The Center of RAG Security Is the Context Layer | inkme | [Read More](https://medium.com/p/f3a92275f9c8) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 09:46:33 GMT | Basit Bir Girişin Yıkıcı Gücü: Komut Enjeksiyonu Zafiyeti | Halil İbrahim Kuş | [Read More](https://medium.com/p/8399f5a1df76) |
 | Sat, 13 Dec 2025 09:44:58 GMT | Bug Bounty from Zero: A Realistic Beginner’s Guide | Shruthilaya | [Read More](https://medium.com/p/2ab061de86b8) |
 | Sat, 13 Dec 2025 09:43:23 GMT | TryHackMe: Startup Writeup | cbev | [Read More](https://medium.com/p/a76632f40871) |
-| Sat, 13 Dec 2025 09:41:59 GMT | The Loneliness We Don’t Talk About in a Digital World | Aishwarya | [Read More](https://medium.com/p/41c3c4eae52b) |
