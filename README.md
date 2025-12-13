@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 20:25:23 GMT | USB CoinMiner Attacks Rise Through Deceptive Shortcut Files | Geoffrey Wenger | [Read More](https://medium.com/p/6caabd841a42) |
+| Sat, 13 Dec 2025 20:25:18 GMT | DroidLock Malware Takes Over Android Devices With Ease | Geoffrey Wenger | [Read More](https://medium.com/p/f0663e96d508) |
+| Sat, 13 Dec 2025 20:21:15 GMT | Dimensionality Reduction Strikes 降维打击 in Tech History | Chier Hu | [Read More](https://medium.com/p/3eacf9214c10) |
+| Sat, 13 Dec 2025 20:17:01 GMT | WhiteRabbit — HackTheBox — Detailed Write Up | Jafar Pathan | [Read More](https://medium.com/p/9ddaa21a9266) |
 | Sat, 13 Dec 2025 20:01:26 GMT | How I Discovered a Massive Data Leak Exposing Millions of Users During Routine Recon | Mohaseen | [Read More](https://medium.com/p/ca5f96e57f90) |
 | Sat, 13 Dec 2025 19:44:32 GMT | ESCÂNDALO NO AMOLATINA: Mariano Jr., | AKUMAAYORI | [Read More](https://medium.com/p/5587c30af2cc) |
 | Sat, 13 Dec 2025 19:39:19 GMT | Not “Entry-Level”: The Real Impact of L1 SOC Analysts | Dany Christel | [Read More](https://medium.com/p/76bdf2e9242e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 12:06:11 GMT | Kali Linux 2025.4 Is Here — And It’s a Pretty Big Deal | Sajidur Rahman | [Read More](https://medium.com/p/55063d1bb9b7) |
 | Sat, 13 Dec 2025 12:05:18 GMT | Introduction to Splunk: Monitoring Security Alerts & Incident Response | Ankit Kumar | [Read More](https://medium.com/p/8d6de56c86de) |
 | Sat, 13 Dec 2025 12:04:30 GMT | Why I Built My Own Security Scanner (And Why You Might Need It) | Manoj Kumar | [Read More](https://medium.com/p/4511cb6d7b34) |
-| Sat, 13 Dec 2025 11:47:56 GMT | I Brought a Dead TP-Link C20 Back to Life — Unbricking and Installing OpenWrt | Atiqur Rahman | [Read More](https://medium.com/p/af379f68fa0d) |
-| Sat, 13 Dec 2025 11:44:11 GMT | You Can Be Tracked on WhatsApp Without Receiving a Single Message | Bassam Khan | [Read More](https://medium.com/p/7f5fed97a5b0) |
-| Sat, 13 Dec 2025 11:43:45 GMT | ⚠️ 2025 is the year careers quietly split into two paths. | Hachtechnology | [Read More](https://medium.com/p/e90c5c9128d0) |
-| Sat, 13 Dec 2025 11:42:47 GMT | A Critical RCE in React Server Components | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/38a248fbcddd) |
