@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 11:26:41 GMT | Apple Patches Two WebKit Zero Days Actively Exploited in Sophisticated Attacks | valasala suhas | [Read More](https://medium.com/p/c331ce725245) |
+| Sat, 13 Dec 2025 11:22:17 GMT | The Truth About Home Security Systems: What Really Keeps a Home Safe | Criminology Expert | [Read More](https://medium.com/p/a682d2b958b7) |
 | Sat, 13 Dec 2025 11:16:46 GMT | A Beginner’s Guide to Cybersecurity in 2025: 5 Things I Wish I Knew Before Switching Fields | M Umar Akhlaq | [Read More](https://medium.com/p/52d889ca9dd5) |
 | Sat, 13 Dec 2025 11:09:46 GMT | HackTheBox — MonitorsFour | Boubakri Rami | [Read More](https://medium.com/p/20fa43f547e1) |
 | Sat, 13 Dec 2025 11:01:09 GMT | Why Should Developers Learn Cybersecurity? | karincayiyen | [Read More](https://medium.com/p/af0c6394eb91) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 02:32:51 GMT | Security and Regulatory Compliance in Fintech: Essential Guide to Operating Without Risk | Rodrigo Onaga | [Read More](https://medium.com/p/71a1f8856fd1) |
 | Sat, 13 Dec 2025 02:29:40 GMT | How a Fake Pop-Up Nearly Ruined a Life — And How You Can Stop It | Dan Blum | [Read More](https://medium.com/p/fb783cbcd6a1) |
 | Sat, 13 Dec 2025 02:19:09 GMT | Developers must know about SSRF vs. CSRF, here’s why. | AT | [Read More](https://medium.com/p/cdf5315a2c01) |
-| Sat, 13 Dec 2025 02:12:34 GMT | OSI Model | Ulung Surya Atma Kencana | [Read More](https://medium.com/p/8e52767380d6) |
-| Sat, 13 Dec 2025 02:02:36 GMT | Preventing Prompt Injection with Firebase Genkit | JH5 | [Read More](https://medium.com/p/a47a4231b3f2) |
