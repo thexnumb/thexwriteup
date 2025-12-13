@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 07:38:26 GMT | The Cryptography Concept Journey — Symmetric Encryption (Private Key Encryption) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9ad7ca366f56) |
+| Sat, 13 Dec 2025 07:20:55 GMT | 21,000 Users, 13 Nodes: Why Voidly’s AI VPN Is Scaling While Others Get Blocked | Voidly | [Read More](https://medium.com/p/1ca8e6603a5f) |
 | Sat, 13 Dec 2025 07:16:11 GMT | TryHackMe — Block Writeup | Edward Nathanael | [Read More](https://medium.com/p/4d152a9ad1be) |
 | Sat, 13 Dec 2025 07:05:29 GMT | Active Directory: Kurumsal Aglarin Gorunmeyen Beyni | telix | [Read More](https://medium.com/p/0ffeb453f440) |
 | Sat, 13 Dec 2025 06:59:16 GMT | Privilege Escalation Matters: 12 Chains Leading to Full Takeover (Step-by-Step Guide) | Very Lazy Tech | [Read More](https://medium.com/p/7ec70cb0b8ef) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 19:47:25 GMT | How to Master OT Incident Response | Muhammad Ali Khan | [Read More](https://medium.com/p/a6577ecbb83e) |
 | Fri, 12 Dec 2025 19:40:30 GMT | HOW A ROBBERY INCIDENT LED TO THE CREATION OF THE HALOGEN GROUP. | Simeon Dumle | [Read More](https://medium.com/p/868d3c537808) |
 | Fri, 12 Dec 2025 19:40:08 GMT | SOC Alert Triaging — Tinsel Triage - AoC 2025 Day — 10 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/23569e5c76c3) |
-| Fri, 12 Dec 2025 19:38:17 GMT | Data Security Posture Management (DSPM)- Part 1 | Pritam Burnwal | [Read More](https://medium.com/p/fe61f02e10a9) |
-| Fri, 12 Dec 2025 19:21:32 GMT | Cisco Catalyst 3560-CX-8PC-S Firmware Güncellemesi | Hakan ÇEVİK | [Read More](https://medium.com/p/9bb7686bbdeb) |
