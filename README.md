@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 20:01:26 GMT | How I Discovered a Massive Data Leak Exposing Millions of Users During Routine Recon | Mohaseen | [Read More](https://medium.com/p/ca5f96e57f90) |
+| Sat, 13 Dec 2025 19:44:32 GMT | ESCÂNDALO NO AMOLATINA: Mariano Jr., | AKUMAAYORI | [Read More](https://medium.com/p/5587c30af2cc) |
+| Sat, 13 Dec 2025 19:39:19 GMT | Not “Entry-Level”: The Real Impact of L1 SOC Analysts | Dany Christel | [Read More](https://medium.com/p/76bdf2e9242e) |
 | Sat, 13 Dec 2025 19:20:20 GMT | 50 million dollar scam or 50 dollar bargain? | Roman Charleston | [Read More](https://medium.com/p/01e12f34a55b) |
 | Sat, 13 Dec 2025 19:16:13 GMT | You’re Fuzzing All Wrong: FFUF & Virtual Host Fuzzing | Abhishek Gupta | [Read More](https://medium.com/p/99e82643935a) |
 | Sat, 13 Dec 2025 19:14:18 GMT | Cybersecurity Concepts For Dummies | Minahil | [Read More](https://medium.com/p/ae97449cf7ee) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 11:44:11 GMT | You Can Be Tracked on WhatsApp Without Receiving a Single Message | Bassam Khan | [Read More](https://medium.com/p/7f5fed97a5b0) |
 | Sat, 13 Dec 2025 11:43:45 GMT | ⚠️ 2025 is the year careers quietly split into two paths. | Hachtechnology | [Read More](https://medium.com/p/e90c5c9128d0) |
 | Sat, 13 Dec 2025 11:42:47 GMT | A Critical RCE in React Server Components | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/38a248fbcddd) |
-| Sat, 13 Dec 2025 11:38:27 GMT | Part 16 — “The Quantum Singularity: What Happens When a Quantum Computer Computes Something… | Mr. Richie Gunawan | [Read More](https://medium.com/p/0bfb0daea892) |
-| Sat, 13 Dec 2025 11:37:49 GMT | React Server Components Vulnerability(CVE-2025–55182) Explained | Komal Raut | [Read More](https://medium.com/p/97c2852ed004) |
-| Sat, 13 Dec 2025 11:37:36 GMT | How Quality Assurance Engineers Can Strengthen Application Security | Saurav Dawadi | [Read More](https://medium.com/p/4ec3c94a5d2f) |
