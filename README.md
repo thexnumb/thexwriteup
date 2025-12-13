@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 05:42:30 GMT | The Bombshell Exposures - Cyber Kalki Exposes GlobalProtect VPN Portals at NATO, NASA, and Tesla… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/9750a1da09ad) |
+| Sat, 13 Dec 2025 05:32:14 GMT | DevOps Roadmap (Part 22): Advanced Docker Concepts — Multi-Stage Builds, Health Checks, Layers… | Sainath | [Read More](https://medium.com/p/c5c24b9cc567) |
+| Sat, 13 Dec 2025 05:26:43 GMT | Are Mobile Proxies Worth the Cost for Account Stability? | TokenWraith | [Read More](https://medium.com/p/4a5af233b0da) |
+| Sat, 13 Dec 2025 05:17:21 GMT | Building a Full Audit Log System in Django SaaS (Async, Event-Based, Tamper-Proof Logs) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/86d2ae3fb99e) |
 | Sat, 13 Dec 2025 05:13:37 GMT | How NAT Works: A Simple Guide to Network Address Translation | Smit Pipaliya | [Read More](https://medium.com/p/5eaaf9cb92cc) |
 | Sat, 13 Dec 2025 05:12:52 GMT | What is Linux Server Hardening: Step-by-Step Security Guide | Smit Pipaliya | [Read More](https://medium.com/p/954e0b071555) |
 | Sat, 13 Dec 2025 05:07:34 GMT | The Art of Clean Recon: Amass for Bug Bounty Hunters | Purushotham.R | [Read More](https://medium.com/p/42992157adf6) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 18:16:37 GMT | Passwords — A Cracking Christmas - AoC 2025 Day-9 - by Mynk | Mayank Shukla | [Read More](https://medium.com/p/e78e53a61fb7) |
 | Fri, 12 Dec 2025 18:15:29 GMT | React Server Components Hit by Trio of Vulnerabilities: DoS, Source Code Exposure, and an… | gm0 | [Read More](https://medium.com/p/cc8db64a439d) |
 | Fri, 12 Dec 2025 18:15:09 GMT | CVE‑2025‑64721: A Critical Sandbox Escape That Breaks the Isolation Boundary | gm0 | [Read More](https://medium.com/p/ad6a60d0e9bd) |
-| Fri, 12 Dec 2025 18:14:16 GMT | Advent of Cyber 2025 Day 12 - TryHackMe - Phishing - Phishmas Greetings - WriteUp | Axoloth | [Read More](https://medium.com/p/a8766e39c764) |
-| Fri, 12 Dec 2025 18:13:13 GMT | BlackForce Phishing Kit Uses Man in the Browser Attacks to Steal Credentials and Bypass MFA | Chetan Seripally | [Read More](https://medium.com/p/ab02bbb9ce38) |
-| Fri, 12 Dec 2025 18:10:51 GMT | HTB Challenges — WebVault Time Machine Investigation | Fardeen A. | [Read More](https://medium.com/p/e60c80eccd3b) |
-| Fri, 12 Dec 2025 18:09:05 GMT | The Governance Layer Your AI CLI Tools Are Missing | Paul Laudeman | [Read More](https://medium.com/p/dadb3287bdb9) |
