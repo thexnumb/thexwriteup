@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 08:48:23 GMT | Authentication vs Authorization: One Story You’ll Never Forget | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/47b6543dc03b) |
+| Sat, 13 Dec 2025 08:44:53 GMT | Ethics Over Optics: Living Out Our Principles Daily Our Code of Ethics (And Why It’s Not Just… | Fook Hwa Tan | [Read More](https://medium.com/p/5c00a77b92fd) |
+| Sat, 13 Dec 2025 08:43:11 GMT | How I Handle High-Stakes Conversations — The Most Important Question I Ask Before Speaking | Fook Hwa Tan | [Read More](https://medium.com/p/17f20dd2ba77) |
+| Sat, 13 Dec 2025 08:33:31 GMT | Detecting React2Shell at Scale: How CurlSek’s Probe Agent Delivered Rapid, Validated Response… | Mohd Sohaib | [Read More](https://medium.com/p/333c46e6ea4c) |
+| Sat, 13 Dec 2025 08:32:50 GMT | How Certification Prepares Teams for Multi-Layered Cyber Threats | Rahman Iqbal | [Read More](https://medium.com/p/5c9006d59f16) |
+| Sat, 13 Dec 2025 08:18:36 GMT | Christmas Sale on Cybersecurity Courses for Aspiring Cybersecurity Professionals | cyber security Updates | [Read More](https://medium.com/p/81cc27f51f2d) |
 | Sat, 13 Dec 2025 08:13:08 GMT | TCP VE UDP: SALDIRGANIN VE SAVUNMACININ GÖZÜNDEN İKİ FARKLI AĞ FELSEFESİ | Cyber Web | [Read More](https://medium.com/p/c39ae2efa6af) |
 | Sat, 13 Dec 2025 08:05:00 GMT | ️ Diving Into the Dark Web: Secrets, Safety & Cyber Lessons | Nimit Ahir | [Read More](https://medium.com/p/85973d9582a6) |
 | Sat, 13 Dec 2025 08:01:45 GMT | The Role of Blockchain in Digital Identity & Cybersecurity | Blue Bird Digital Technology | [Read More](https://medium.com/p/9eddeacaf84e) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 21:28:01 GMT | Beginners: Copy-Paste This ONE Trick = Free $100–$500 Bounties | Monika sharma | [Read More](https://medium.com/p/bf4978fdfaa9) |
 | Fri, 12 Dec 2025 21:27:47 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded | KRY | [Read More](https://medium.com/p/6758fc9827c1) |
 | Fri, 12 Dec 2025 21:24:53 GMT | Fix vulnerabilities in Linux docker image and best practice on dockerfile | Shuo | [Read More](https://medium.com/p/3525fb2fb782) |
-| Fri, 12 Dec 2025 21:24:32 GMT | Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded | KRY | [Read More](https://medium.com/p/5e4efa696df4) |
-| Fri, 12 Dec 2025 21:12:51 GMT | The Two New RSC Vulnerabilities Every Next.js and React Developer Should Know About | Faisal haque | [Read More](https://medium.com/p/4cb101ebc0bc) |
-| Fri, 12 Dec 2025 21:10:55 GMT | Active Directory Delegation Abuse | Mal3vAntCtrl | [Read More](https://medium.com/p/ca7283944117) |
-| Fri, 12 Dec 2025 21:05:20 GMT | Voltaire in the Server Room: An Enlightenment Critique of Modern Cybersecurity Policy | CCD-IS | [Read More](https://medium.com/p/ff0e39b53c82) |
-| Fri, 12 Dec 2025 21:02:15 GMT | How to run SysReptor on Portainer | Jared Erlien | [Read More](https://medium.com/p/3e85872163ef) |
-| Fri, 12 Dec 2025 20:58:55 GMT | How a Single Mistyped Operator in GitHub Actions Triggered a $2,500 CI/CD Meltdown | FutureStack Academy | [Read More](https://medium.com/p/f8c99312fb90) |
