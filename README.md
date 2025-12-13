@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 14:13:33 GMT | Assembly Is Scary — Until You Actually Learn It | Hack-Bat | [Read More](https://medium.com/p/c2f7b4f45e25) |
+| Sat, 13 Dec 2025 14:11:15 GMT | Bagaimana Face Recognition Bekerja di Smartphone Anda? | Almas Indhar Amanullah | [Read More](https://medium.com/p/07c67f04c956) |
+| Sat, 13 Dec 2025 14:09:45 GMT | Navigating the Deep Web in 2026: The Hidden Wiki’s New V3 Home | Jonathan Mwiu | [Read More](https://medium.com/p/de128bff2ea1) |
+| Sat, 13 Dec 2025 14:03:54 GMT | How AI Security Cameras Revolutionize Industrial Surveillance in 2025 | Dolon Ghosh | [Read More](https://medium.com/p/ef4265327b8e) |
+| Sat, 13 Dec 2025 14:02:18 GMT | How Secure Hosting Protects Your Customers and Builds Trust | HSINGH WEB STUDIO | [Read More](https://medium.com/p/5e2b8c51b2c5) |
+| Sat, 13 Dec 2025 13:58:29 GMT | Switching Teams: Transitioning to Linux | Suami Monday | [Read More](https://medium.com/p/222776d2742b) |
+| Sat, 13 Dec 2025 13:52:53 GMT | #27. Hashing: The Most Elegant Way to Turn Valuable Data Into Garbage So Other Garbage Can’t Steal… | Code Reaper | [Read More](https://medium.com/p/ca8eb77ee7e5) |
+| Sat, 13 Dec 2025 13:38:27 GMT | Data Poisoning Explained: How Bad Data Can Quietly Break AI and Security Systems | Natarajan C K | [Read More](https://medium.com/p/a4843a41f2b9) |
 | Sat, 13 Dec 2025 13:37:15 GMT | FASH PumpFun Migration Is LIVE. Holders MUST Upgrade Before the Old Contract Dies | Henrywilliam | [Read More](https://medium.com/p/af8b72a30361) |
 | Sat, 13 Dec 2025 13:24:30 GMT | Phantom Stealer Campaign Abuses ISO Mounting to Compromise Windows Systems | valasala suhas | [Read More](https://medium.com/p/fdd52e8fe6ed) |
 | Sat, 13 Dec 2025 13:22:14 GMT | I Found 100 Bugs Using This One Recon Checklist | Codi | [Read More](https://medium.com/p/b23cabecff9a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 07:32:32 GMT | Don’t Let Your Prompt Ruin the Demo | Praxen | [Read More](https://medium.com/p/fa2c7ebe507a) |
 | Sat, 13 Dec 2025 07:32:25 GMT | Google and Apple roll out emergency security updates after zero day attacks | Bintu's Art and Everything | [Read More](https://medium.com/p/64de81c03c17) |
 | Sat, 13 Dec 2025 07:32:01 GMT | Fundamentals of Computer Networking | Adam Kozak | [Read More](https://medium.com/p/19f43a8d1d1b) |
-| Sat, 13 Dec 2025 07:20:55 GMT | 21,000 Users, 13 Nodes: Why Voidly’s AI VPN Is Scaling While Others Get Blocked | Voidly | [Read More](https://medium.com/p/1ca8e6603a5f) |
-| Sat, 13 Dec 2025 07:16:11 GMT | TryHackMe — Block Writeup | Edward Nathanael | [Read More](https://medium.com/p/4d152a9ad1be) |
-| Sat, 13 Dec 2025 07:05:29 GMT | Active Directory: Kurumsal Aglarin Gorunmeyen Beyni | telix | [Read More](https://medium.com/p/0ffeb453f440) |
-| Sat, 13 Dec 2025 06:59:16 GMT | Privilege Escalation Matters: 12 Chains Leading to Full Takeover (Step-by-Step Guide) | Very Lazy Tech | [Read More](https://medium.com/p/7ec70cb0b8ef) |
-| Sat, 13 Dec 2025 06:48:14 GMT | How to Spot Fake Software Installers That Contain Malware | Ask IT Support | [Read More](https://medium.com/p/e0be3f5e1c8e) |
-| Sat, 13 Dec 2025 06:47:56 GMT | Rethinking Device Privacy: An Automatic Environment Switching Security Concept for Mobile and… | Sahil Shaikh | [Read More](https://medium.com/p/96a71b67463d) |
-| Sat, 13 Dec 2025 06:26:51 GMT | Associative: A Premier Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/3bd7594dc1da) |
-| Sat, 13 Dec 2025 06:10:37 GMT | The New Playbook for Cyber Leadership: Inside the First 100 Days of the CISO | JC Gaillard | [Read More](https://medium.com/p/a5ee7fe5d63e) |
