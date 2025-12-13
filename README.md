@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 11:16:46 GMT | A Beginner’s Guide to Cybersecurity in 2025: 5 Things I Wish I Knew Before Switching Fields | M Umar Akhlaq | [Read More](https://medium.com/p/52d889ca9dd5) |
+| Sat, 13 Dec 2025 11:09:46 GMT | HackTheBox — MonitorsFour | Boubakri Rami | [Read More](https://medium.com/p/20fa43f547e1) |
+| Sat, 13 Dec 2025 11:01:09 GMT | Why Should Developers Learn Cybersecurity? | karincayiyen | [Read More](https://medium.com/p/af0c6394eb91) |
+| Sat, 13 Dec 2025 10:59:54 GMT | Is GRC Bureaucracy? | Adeoluwa Obadofin | [Read More](https://medium.com/p/fa30ce368cce) |
+| Sat, 13 Dec 2025 10:52:33 GMT | Frozen Fingers & Hot Bugs: How a Small Dork Turned Into Full Support Panel Access | Yousef Elsheikh | [Read More](https://medium.com/p/0a37bf69650f) |
+| Sat, 13 Dec 2025 10:47:27 GMT | Güvenlik Kamerası Sistemlerinde Doğru Planlama Neden Önemlidir? | Ertel Bilisim Sistemleri | [Read More](https://medium.com/p/ff44e2db6f03) |
+| Sat, 13 Dec 2025 10:46:48 GMT | PostgreSQL 17 vs PostgreSQL 18: Parallel Query Execution — What’s Real, What’s Next | Rizqi Mulki | [Read More](https://medium.com/p/5b483a51bcef) |
+| Sat, 13 Dec 2025 10:44:17 GMT | AI-Powered Command Generation and Automation in Linux Shell with SGPT | Seb AGUELE | [Read More](https://medium.com/p/8db9b2d5a530) |
+| Sat, 13 Dec 2025 10:37:54 GMT | Femboy Futa House (0.1) | Mia Mi | [Read More](https://medium.com/p/d7d9f4b6f0f2) |
 | Sat, 13 Dec 2025 10:29:48 GMT | Cybersecurity Fundamentals: A Beginner’s Guide | Hadiyayazeen | [Read More](https://medium.com/p/8a101f0db2d8) |
 | Sat, 13 Dec 2025 10:28:51 GMT | Lab: Insecure direct object references | Songül Kızılay Özügürler | [Read More](https://medium.com/p/b682887eb59f) |
 | Sat, 13 Dec 2025 10:27:58 GMT | Lab: User ID controlled by request parameter | Songül Kızılay Özügürler | [Read More](https://medium.com/p/b94365292c75) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 02:19:09 GMT | Developers must know about SSRF vs. CSRF, here’s why. | AT | [Read More](https://medium.com/p/cdf5315a2c01) |
 | Sat, 13 Dec 2025 02:12:34 GMT | OSI Model | Ulung Surya Atma Kencana | [Read More](https://medium.com/p/8e52767380d6) |
 | Sat, 13 Dec 2025 02:02:36 GMT | Preventing Prompt Injection with Firebase Genkit | JH5 | [Read More](https://medium.com/p/a47a4231b3f2) |
-| Sat, 13 Dec 2025 02:02:36 GMT | The SNAFU Weekly Report — #2 (2025–12–13) | Michael H. | [Read More](https://medium.com/p/97761a017d1e) |
-| Sat, 13 Dec 2025 01:55:54 GMT | La encrucijada digital del pueblo yoreme | M.C. José Luis Cervantes González | [Read More](https://medium.com/p/9b252beaa86b) |
-| Sat, 13 Dec 2025 01:32:33 GMT | Permission Is a Timeline, Not a Checkbox | Praxen | [Read More](https://medium.com/p/79972c99b070) |
-| Sat, 13 Dec 2025 01:31:08 GMT | APTs simple explanation | Aras Darweesh | [Read More](https://medium.com/p/ba857f19aa62) |
-| Sat, 13 Dec 2025 01:10:00 GMT | How does Cloudflare protect a site? | Rafli Maulana | [Read More](https://medium.com/p/95465c5accd4) |
-| Sat, 13 Dec 2025 00:54:21 GMT | Steve Wozniak’s Legacy and the Personal Computer Revolution | Stacklegend | [Read More](https://medium.com/p/6a7dfe9e55ef) |
-| Sat, 13 Dec 2025 00:41:40 GMT | The Accident of Birth: Why Your Environment is Your Destiny’s Blueprint | Rohaan Ahmad | [Read More](https://medium.com/p/23365d55f827) |
-| Sat, 13 Dec 2025 00:34:37 GMT | THM — Tony The Tiger | 0xEnzoSantana | [Read More](https://medium.com/p/f0e0512bd884) |
-| Sat, 13 Dec 2025 00:28:27 GMT | The Fastest Way to Reduce LLM Risk | Cyber-AppSec | [Read More](https://medium.com/p/d4554585427d) |
