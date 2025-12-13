@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 05:13:37 GMT | How NAT Works: A Simple Guide to Network Address Translation | Smit Pipaliya | [Read More](https://medium.com/p/5eaaf9cb92cc) |
+| Sat, 13 Dec 2025 05:12:52 GMT | What is Linux Server Hardening: Step-by-Step Security Guide | Smit Pipaliya | [Read More](https://medium.com/p/954e0b071555) |
+| Sat, 13 Dec 2025 05:07:34 GMT | The Art of Clean Recon: Amass for Bug Bounty Hunters | Purushotham.R | [Read More](https://medium.com/p/42992157adf6) |
+| Sat, 13 Dec 2025 04:59:25 GMT | PROJETO mini-lab: Monitoramento com #Wazuh ❗​❗​❗​ 
+>Atualizações: Suricata + VMs< | EduKayky | [Read More](https://medium.com/p/0f119c0e39d1) |
+| Sat, 13 Dec 2025 04:45:14 GMT | Tải Human Fall Flat APK (MOD Bản Full) v2.5.1 Mới Nhất | Bandisharecx | [Read More](https://medium.com/p/9cec603cf076) |
+| Sat, 13 Dec 2025 04:44:01 GMT | Top 10 Site Checkers for 2025: How to Choose the Best Scam Detector | Brendan Smith | [Read More](https://medium.com/p/5625f73a6de1) |
+| Sat, 13 Dec 2025 04:43:27 GMT | Best CCTV Monitoring Dubai: Secure Your Property with Confidence | Delight international Security Services | [Read More](https://medium.com/p/961b285e06e2) |
+| Sat, 13 Dec 2025 04:34:42 GMT | Apple’s Latest Zero-Day Crisis: What iPhone Users Need to Know | Devam Shah | [Read More](https://medium.com/p/ef218334b0ab) |
+| Sat, 13 Dec 2025 04:32:26 GMT | The Memory Rules That Keep Agents Trustworthy | Nexumo | [Read More](https://medium.com/p/41cb3c194b1a) |
+| Sat, 13 Dec 2025 04:32:19 GMT | Audit-Proof Agent Docs (Without Killing Velocity) | Thinking Loop | [Read More](https://medium.com/p/52e12eb606e2) |
+| Sat, 13 Dec 2025 04:31:47 GMT | Account-Flow Stability: Why Static Residential / ISP Proxies Fit Login, Verification, Ads, and… | ChainGlimpse | [Read More](https://medium.com/p/29fc6dfc9d59) |
 | Sat, 13 Dec 2025 04:23:38 GMT | An all-in-one Bash script tool for Kubernetes penetration testing and security enumeration | Dr. Saket Acharya | [Read More](https://medium.com/p/f0c7287991e2) |
 | Sat, 13 Dec 2025 04:18:30 GMT | W1seGuy Walkthrough | Pimsim | [Read More](https://medium.com/p/562513421616) |
 | Sat, 13 Dec 2025 04:13:05 GMT | How Concrete Enables One-Click DeFi ? | Rizkierel | [Read More](https://medium.com/p/91d4985072ea) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 18:13:13 GMT | BlackForce Phishing Kit Uses Man in the Browser Attacks to Steal Credentials and Bypass MFA | Chetan Seripally | [Read More](https://medium.com/p/ab02bbb9ce38) |
 | Fri, 12 Dec 2025 18:10:51 GMT | HTB Challenges — WebVault Time Machine Investigation | Fardeen A. | [Read More](https://medium.com/p/e60c80eccd3b) |
 | Fri, 12 Dec 2025 18:09:05 GMT | The Governance Layer Your AI CLI Tools Are Missing | Paul Laudeman | [Read More](https://medium.com/p/dadb3287bdb9) |
-| Fri, 12 Dec 2025 18:08:04 GMT | CORS Errors Driving You Crazy? Here’s How to Fix Them Properly | Navanath Jadhav | [Read More](https://medium.com/p/03cb99a5180c) |
-| Fri, 12 Dec 2025 18:03:41 GMT | Hacking: The Art of Exploitation | Samina Perveen | [Read More](https://medium.com/p/ba5d7b71c466) |
-| Fri, 12 Dec 2025 18:01:16 GMT | Apple’s Silent Shake-Up: Why So Many Leaders Are Leaving and What It Means for the Future | Ankit Gajera | [Read More](https://medium.com/p/a74ec8638656) |
-| Fri, 12 Dec 2025 17:58:46 GMT | 10 Powerful Mind Hacks That Rewire Your Brain for Success : | MINHAJUL ISLAM | [Read More](https://medium.com/p/2fbfefad9eb7) |
-| Fri, 12 Dec 2025 17:52:53 GMT | I Reviewed 500+ Cybersecurity Portfolios. Here’s Why Yours Isn’t Getting You Hired | Abdullah Javeed | [Read More](https://medium.com/p/a1edf871bb0d) |
-| Fri, 12 Dec 2025 17:52:45 GMT | Mi Home Security Camera (MJSXJ02CM) — Technical Teardown + UART Boot Analysis | Aaronjjose | [Read More](https://medium.com/p/6eb188a45678) |
-| Fri, 12 Dec 2025 17:42:12 GMT | 第一張資安證照 CompTIA Security+ 701 | William | [Read More](https://medium.com/p/4f43d803d03b) |
-| Fri, 12 Dec 2025 17:42:07 GMT | Advent of Cyber 25 — Day 11 — XSS — Merry XSSMas | cybertactic | [Read More](https://medium.com/p/7f667d8cc4d1) |
-| Fri, 12 Dec 2025 17:36:41 GMT | Setting Up a VLAN-Isolated Cybersecurity Home Lab | 0xmatchaberry | [Read More](https://medium.com/p/957820f43138) |
-| Fri, 12 Dec 2025 17:29:33 GMT | Advent of Cyber 25 — Day 10— SOC Alert Triaging — Tinsel Triage | cybertactic | [Read More](https://medium.com/p/be44362103a6) |
-| Fri, 12 Dec 2025 17:28:38 GMT | How Robotics Is Transforming Modern Security Management: Real Use Cases From the Field | Teona | [Read More](https://medium.com/p/c26b08fbabc2) |
