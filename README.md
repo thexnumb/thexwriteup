@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 18:34:40 GMT | MITRE ATT&CK & GEMINI CLI | Jakub Kowalski | [Read More](https://medium.com/p/3d26d25d28f4) |
+| Sat, 13 Dec 2025 18:31:15 GMT | Cybersecurity’s New Focus: Skills Over Staffing in AI Era | Valentin Podkamennyi | [Read More](https://medium.com/p/1be03cdda2ae) |
 | Sat, 13 Dec 2025 18:28:11 GMT | AS2 Protocol Explained with a Real Spring Boot Implementation | Manoj | [Read More](https://medium.com/p/560c6e794cd1) |
+| Sat, 13 Dec 2025 18:27:11 GMT | Adversarial AI in Late 2025: Current Attacks, Defenses, and Production Threats | Travis-ML | [Read More](https://medium.com/p/898b63036f56) |
 | Sat, 13 Dec 2025 18:16:45 GMT | Editor — HackTheBox | Mustafa Abdullah | [Read More](https://medium.com/p/85505c6dd0c4) |
 | Sat, 13 Dec 2025 18:14:21 GMT | RECOVERING FROM ONLINE INVESTMENT SCAMS: HIRE SOLACE CYBER WORKSTATIONS | Jonathan Saltman | [Read More](https://medium.com/p/d34ccbedf4cd) |
 | Sat, 13 Dec 2025 18:09:28 GMT | :  ’ | Souravmookherjee | [Read More](https://medium.com/p/14fc4a0ef08d) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 11:26:41 GMT | Apple Patches Two WebKit Zero Days Actively Exploited in Sophisticated Attacks | valasala suhas | [Read More](https://medium.com/p/c331ce725245) |
 | Sat, 13 Dec 2025 11:22:17 GMT | The Truth About Home Security Systems: What Really Keeps a Home Safe | Criminology Expert | [Read More](https://medium.com/p/a682d2b958b7) |
 | Sat, 13 Dec 2025 11:16:46 GMT | A Beginner’s Guide to Cybersecurity in 2025: 5 Things I Wish I Knew Before Switching Fields | M Umar Akhlaq | [Read More](https://medium.com/p/52d889ca9dd5) |
-| Sat, 13 Dec 2025 11:09:46 GMT | HackTheBox — MonitorsFour | Boubakri Rami | [Read More](https://medium.com/p/20fa43f547e1) |
-| Sat, 13 Dec 2025 11:01:09 GMT | Why Should Developers Learn Cybersecurity? | karincayiyen | [Read More](https://medium.com/p/af0c6394eb91) |
-| Sat, 13 Dec 2025 10:59:54 GMT | Is GRC Bureaucracy? | Adeoluwa Obadofin | [Read More](https://medium.com/p/fa30ce368cce) |
