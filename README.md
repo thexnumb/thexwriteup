@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 22:10:27 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 7: DC-8 | Shikhar Sinha | [Read More](https://medium.com/p/081e1cd9664d) |
+| Sat, 13 Dec 2025 21:40:33 GMT | Advanced Chain Management with IPTables ️ | Esra Kayhan | [Read More](https://medium.com/p/0a176bbd0a1e) |
+| Sat, 13 Dec 2025 21:40:09 GMT | Systemd Unit File Security: Hardening Techniques, Pitfalls, and Real-World Examples | Esra Kayhan | [Read More](https://medium.com/p/d6fdd7b00423) |
 | Sat, 13 Dec 2025 21:17:36 GMT | Advent of Cyber 2025 - Day 13: YARA Rules — YARA mean one! | D4m.sh | [Read More](https://medium.com/p/ce0ab4a3ce2c) |
 | Sat, 13 Dec 2025 21:04:22 GMT | Documentation: Site-to-Site VPN (AWS Task 12) | Thomas Eid | [Read More](https://medium.com/p/454e6a791207) |
 | Sat, 13 Dec 2025 21:00:35 GMT | 2025 Tech Recap | Rye Overly | [Read More](https://medium.com/p/d07ff4fbdb15) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 12:46:31 GMT | Zero Trust Security: What It Means for You (Also for Non-Techie) | The Techie Indian | [Read More](https://medium.com/p/ef40116c2442) |
 | Sat, 13 Dec 2025 12:44:35 GMT | Day 13 — Audit and Update Old Infrastructure (Deep in the Mines) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/c144a05bdfa6) |
 | Sat, 13 Dec 2025 12:37:32 GMT | The Apple Wallet Lock Scam | Malvox | [Read More](https://medium.com/p/19437899ccd3) |
-| Sat, 13 Dec 2025 12:36:54 GMT | Shielding Your Production Code: How to Restrict GitHub Pushes to a Staging-Only Workflow | Khawaja Muhammad Mushood | [Read More](https://medium.com/p/1d81ec9375f4) |
-| Sat, 13 Dec 2025 12:35:21 GMT | Darknet Vendor Shops Verification: How Trust Is Evaluated in Anonymous Markets | Tor BBB | [Read More](https://medium.com/p/2b7b972ccfce) |
-| Sat, 13 Dec 2025 12:33:59 GMT | Don’t Just Patch; Predict: How I Used Dark Web Chatter to Find a Vulnerability Before It Was… | Iski | [Read More](https://medium.com/p/bc46d89f79f6) |
