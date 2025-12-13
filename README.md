@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 09:37:20 GMT | Who Installs Security Systems in Toronto Quickly? | Square Security Inc. | [Read More](https://medium.com/p/f6652e824693) |
+| Sat, 13 Dec 2025 09:27:06 GMT | AI-Augmented Cyber Threats on the Dark Web | David SEHYEON Baek | [Read More](https://medium.com/p/98df68f4e19d) |
+| Sat, 13 Dec 2025 09:24:59 GMT | SOC Prime and the Sigma Standard | David SEHYEON Baek | [Read More](https://medium.com/p/6784464ee652) |
+| Sat, 13 Dec 2025 09:23:33 GMT | Try Hack Me- Blaster Walkthrough | Herrfuhrer | [Read More](https://medium.com/p/e6317364b23c) |
 | Sat, 13 Dec 2025 09:12:06 GMT | Bodyguard Services Dubai: When Safety Becomes a Daily Priority | septimus Security | [Read More](https://medium.com/p/12899f952dfa) |
 | Sat, 13 Dec 2025 09:11:35 GMT | Your App Is Not Secure Until You Know This! | MD AL Mamun Mim | [Read More](https://medium.com/p/e8919ab82dd6) |
 | Sat, 13 Dec 2025 09:10:03 GMT | Day 131 — Narnia Level-5 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/d57e1193bc7c) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Dec 2025 23:04:17 GMT | “Contextual Hacking”: A Guide To Active Reconnaissance & Vulnerability Exploitation | Entit_y | [Read More](https://medium.com/p/41b266516a5a) |
 | Fri, 12 Dec 2025 22:56:16 GMT | Understanding Bot Protection on Cloudflare: Features, Data, and Practical Analysis | SYJ's Learning Diary | [Read More](https://medium.com/p/446badcebd9b) |
 | Fri, 12 Dec 2025 22:49:53 GMT | Israeli cybersecurity funding soars to $4.4 billion, up 46% in 2025 | Defence Affairs & Analysis | [Read More](https://medium.com/p/99e34cf24a03) |
-| Fri, 12 Dec 2025 22:34:10 GMT | LastPass Fined 2 Million by UK Regulators for Data Breaches | Matthew.Rosenquist | [Read More](https://medium.com/p/470ff43a34a6) |
-| Fri, 12 Dec 2025 22:19:54 GMT | Cybersecurity Lab Reflection: Nmap & Scapy | Claudius Thompson | [Read More](https://medium.com/p/5bb7008d6a28) |
-| Fri, 12 Dec 2025 22:10:58 GMT | Passing ISC2 Certified in Cybersecurity Exam on Your First Try | Irene A. Gil | [Read More](https://medium.com/p/f1d93380f4b8) |
-| Fri, 12 Dec 2025 21:48:29 GMT | The Girl in the Mirror | Shianna Marie | [Read More](https://medium.com/p/72b816afb105) |
