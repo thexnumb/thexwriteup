@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 14:34:44 GMT | ️ The Day I Found an Exposed Firebase Database on a Ferrari Subdomain — And Got the “Already… | Anshubind | [Read More](https://medium.com/p/05023b362520) |
+| Sat, 13 Dec 2025 14:33:52 GMT | ✉️ The Day I Found a Hardcoded SendinBlue API Key in a Front-End Script — And Why Email Services… | Anshubind | [Read More](https://medium.com/p/220ac969f10e) |
+| Sat, 13 Dec 2025 14:32:15 GMT | (Comptia A+) The Ultimate Guide to Anti-Malware Best Practices | Vignesh R | [Read More](https://medium.com/p/591059628881) |
+| Sat, 13 Dec 2025 14:20:54 GMT | What kind of carbon monoxide detector CO alarm should you choose | Vedard Alarm | [Read More](https://medium.com/p/dba71b1afd68) |
+| Sat, 13 Dec 2025 14:20:38 GMT | SAP Security in 2025: Protecting Your ERP from Modern Threats Part 2 | Khan Mohammed Aamir | [Read More](https://medium.com/p/d8d128039b73) |
+| Sat, 13 Dec 2025 14:15:04 GMT | What is Flowcharts and Pseudocode ? | Min Khant | [Read More](https://medium.com/p/3bd7bf671c2a) |
 | Sat, 13 Dec 2025 14:13:33 GMT | Assembly Is Scary — Until You Actually Learn It | Hack-Bat | [Read More](https://medium.com/p/c2f7b4f45e25) |
+| Sat, 13 Dec 2025 14:11:54 GMT | SAP Security in 2025: Protecting Your ERP from Modern Threats Part-1 | Khan Mohammed Aamir | [Read More](https://medium.com/p/566b733d4bb7) |
 | Sat, 13 Dec 2025 14:11:15 GMT | Bagaimana Face Recognition Bekerja di Smartphone Anda? | Almas Indhar Amanullah | [Read More](https://medium.com/p/07c67f04c956) |
 | Sat, 13 Dec 2025 14:09:45 GMT | Navigating the Deep Web in 2026: The Hidden Wiki’s New V3 Home | Jonathan Mwiu | [Read More](https://medium.com/p/de128bff2ea1) |
 | Sat, 13 Dec 2025 14:03:54 GMT | How AI Security Cameras Revolutionize Industrial Surveillance in 2025 | Dolon Ghosh | [Read More](https://medium.com/p/ef4265327b8e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 08:13:08 GMT | TCP VE UDP: SALDIRGANIN VE SAVUNMACININ GÖZÜNDEN İKİ FARKLI AĞ FELSEFESİ | Cyber Web | [Read More](https://medium.com/p/c39ae2efa6af) |
 | Sat, 13 Dec 2025 08:05:00 GMT | ️ Diving Into the Dark Web: Secrets, Safety & Cyber Lessons | Nimit Ahir | [Read More](https://medium.com/p/85973d9582a6) |
 | Sat, 13 Dec 2025 08:01:45 GMT | The Role of Blockchain in Digital Identity & Cybersecurity | Blue Bird Digital Technology | [Read More](https://medium.com/p/9eddeacaf84e) |
-| Sat, 13 Dec 2025 07:57:05 GMT | Beyond Authentication — Exploiting a Nasty IDOR in Profile Update Functionality | Munna✨ | [Read More](https://medium.com/p/25740fb56b05) |
-| Sat, 13 Dec 2025 07:55:14 GMT | Highest Paying Cyber Security Jobs In 2025 | Muhammad Haider Tallal | [Read More](https://medium.com/p/48e6eda79007) |
-| Sat, 13 Dec 2025 07:42:05 GMT | What Is Cybersecurity Risk Assessment and How to Perform It | Maxatlasofficial | [Read More](https://medium.com/p/7e965059d22d) |
-| Sat, 13 Dec 2025 07:38:26 GMT | The Cryptography Concept Journey — Symmetric Encryption (Private Key Encryption) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9ad7ca366f56) |
-| Sat, 13 Dec 2025 07:32:32 GMT | Don’t Let Your Prompt Ruin the Demo | Praxen | [Read More](https://medium.com/p/fa2c7ebe507a) |
-| Sat, 13 Dec 2025 07:32:25 GMT | Google and Apple roll out emergency security updates after zero day attacks | Bintu's Art and Everything | [Read More](https://medium.com/p/64de81c03c17) |
-| Sat, 13 Dec 2025 07:32:01 GMT | Fundamentals of Computer Networking | Adam Kozak | [Read More](https://medium.com/p/19f43a8d1d1b) |
