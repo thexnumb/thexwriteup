@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 21:04:22 GMT | Documentation: Site-to-Site VPN (AWS Task 12) | Thomas Eid | [Read More](https://medium.com/p/454e6a791207) |
+| Sat, 13 Dec 2025 21:00:35 GMT | 2025 Tech Recap | Rye Overly | [Read More](https://medium.com/p/d07ff4fbdb15) |
+| Sat, 13 Dec 2025 21:00:24 GMT | Knowledge Check (HTB academy) Walk through | Mohamed Walid | [Read More](https://medium.com/p/83e96e453134) |
+| Sat, 13 Dec 2025 20:57:20 GMT | Regarding eCTHPv3 by INE Security | Chris Vladimirov | [Read More](https://medium.com/p/ab945684adf8) |
+| Sat, 13 Dec 2025 20:53:09 GMT | TCS HackQuest CTF Season 10: Round 1 Challenge Walkthrough | mayhack | [Read More](https://medium.com/p/d295ff590d0f) |
+| Sat, 13 Dec 2025 20:39:45 GMT | Why 2025 Might Be the Best Year Ever to Switch to Linux | Sam Writes Security | [Read More](https://medium.com/p/574aa5e37ca3) |
+| Sat, 13 Dec 2025 20:26:54 GMT | the post i almost deleted (and why that says everything about me) | Chyna | [Read More](https://medium.com/p/e9fc67c5c3f2) |
 | Sat, 13 Dec 2025 20:25:23 GMT | USB CoinMiner Attacks Rise Through Deceptive Shortcut Files | Geoffrey Wenger | [Read More](https://medium.com/p/6caabd841a42) |
 | Sat, 13 Dec 2025 20:25:18 GMT | DroidLock Malware Takes Over Android Devices With Ease | Geoffrey Wenger | [Read More](https://medium.com/p/f0663e96d508) |
 | Sat, 13 Dec 2025 20:21:15 GMT | Dimensionality Reduction Strikes 降维打击 in Tech History | Chier Hu | [Read More](https://medium.com/p/3eacf9214c10) |
@@ -23,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 19:16:13 GMT | You’re Fuzzing All Wrong: FFUF & Virtual Host Fuzzing | Abhishek Gupta | [Read More](https://medium.com/p/99e82643935a) |
 | Sat, 13 Dec 2025 19:14:18 GMT | Cybersecurity Concepts For Dummies | Minahil | [Read More](https://medium.com/p/ae97449cf7ee) |
 | Sat, 13 Dec 2025 19:03:57 GMT | Prompt Injection in LLMs: Attacks, Impacts, and Mitigation Strategies | Wesley de Morais | [Read More](https://medium.com/p/c9c9b569fd72) |
+| Sat, 13 Dec 2025 19:02:31 GMT | Building a Simple File Upload API with FastAPI | Mido Osama | [Read More](https://medium.com/p/64499f9fdd14) |
 | Sat, 13 Dec 2025 19:02:15 GMT | Would you get off the bus for me? | dapoetri | [Read More](https://medium.com/p/68250ff0bb65) |
 | Sat, 13 Dec 2025 18:34:40 GMT | MITRE ATT&CK & GEMINI CLI | Jakub Kowalski | [Read More](https://medium.com/p/3d26d25d28f4) |
 | Sat, 13 Dec 2025 18:31:15 GMT | Cybersecurity’s New Focus: Skills Over Staffing in AI Era | Valentin Podkamennyi | [Read More](https://medium.com/p/1be03cdda2ae) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 12:35:21 GMT | Darknet Vendor Shops Verification: How Trust Is Evaluated in Anonymous Markets | Tor BBB | [Read More](https://medium.com/p/2b7b972ccfce) |
 | Sat, 13 Dec 2025 12:33:59 GMT | Don’t Just Patch; Predict: How I Used Dark Web Chatter to Find a Vulnerability Before It Was… | Iski | [Read More](https://medium.com/p/bc46d89f79f6) |
 | Sat, 13 Dec 2025 12:30:53 GMT | How Payment Apps Detect Fraud Rings Using Graph Cycles | The Dev Notebook | [Read More](https://medium.com/p/15fe4e4fd3c1) |
-| Sat, 13 Dec 2025 12:27:52 GMT | Android Static Analysis 101 - The Blueprint Developers Hope You Never Read | Slayer | [Read More](https://medium.com/p/6e7692145088) |
-| Sat, 13 Dec 2025 12:24:05 GMT | how to instagram profile picture lock | IGtips | [Read More](https://medium.com/p/5f1e4d628d35) |
-| Sat, 13 Dec 2025 12:20:21 GMT | FortiGate SSL/SSH Inspection: Şifreli Trafiğin Kilidini Açmak ve Sertifika Kâbusunu Aşmak | Azra K. | [Read More](https://medium.com/p/299ae52c03c3) |
-| Sat, 13 Dec 2025 12:19:13 GMT | Top 10 Essential Pentest Tools with Command Examples | Mert Baykal | [Read More](https://medium.com/p/b1138f83b4ed) |
-| Sat, 13 Dec 2025 12:06:30 GMT | How Free Antivirus Helps You Stay Secure Online | SiyanoAV | [Read More](https://medium.com/p/aa64153f1841) |
-| Sat, 13 Dec 2025 12:06:11 GMT | Kali Linux 2025.4 Is Here — And It’s a Pretty Big Deal | Sajidur Rahman | [Read More](https://medium.com/p/55063d1bb9b7) |
-| Sat, 13 Dec 2025 12:05:18 GMT | Introduction to Splunk: Monitoring Security Alerts & Incident Response | Ankit Kumar | [Read More](https://medium.com/p/8d6de56c86de) |
-| Sat, 13 Dec 2025 12:04:30 GMT | Why I Built My Own Security Scanner (And Why You Might Need It) | Manoj Kumar | [Read More](https://medium.com/p/4511cb6d7b34) |
