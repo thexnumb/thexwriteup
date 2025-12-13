@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 22:14:03 GMT | La información, el “otro” producto en las empresas. | Carl Martz | [Read More](https://medium.com/p/d83c13057ec9) |
+| Sat, 13 Dec 2025 22:13:52 GMT | Churchill in the Digital War Room: A Grand Strategy Compared to the UK’s Cyber Power Vision | CCD-IS | [Read More](https://medium.com/p/79adae3327ce) |
+| Sat, 13 Dec 2025 22:13:30 GMT | Prompt Injection: The Security Vulnerability That Can Compromise Your Entire System | Suchitra Malimbada | [Read More](https://medium.com/p/8b91d5afea00) |
 | Sat, 13 Dec 2025 22:10:27 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 7: DC-8 | Shikhar Sinha | [Read More](https://medium.com/p/081e1cd9664d) |
 | Sat, 13 Dec 2025 21:40:33 GMT | Advanced Chain Management with IPTables ️ | Esra Kayhan | [Read More](https://medium.com/p/0a176bbd0a1e) |
 | Sat, 13 Dec 2025 21:40:09 GMT | Systemd Unit File Security: Hardening Techniques, Pitfalls, and Real-World Examples | Esra Kayhan | [Read More](https://medium.com/p/d6fdd7b00423) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 12:56:34 GMT | DC-2 Walkthrough: From WordPress Enumeration to Root Access | Aris Arisyi | [Read More](https://medium.com/p/fe78784bfb12) |
 | Sat, 13 Dec 2025 12:55:42 GMT | New Gadgets Coming in 2026 That Will Help Humans in Everyday Life | Guestblogger | [Read More](https://medium.com/p/6d4c2d10d021) |
 | Sat, 13 Dec 2025 12:52:33 GMT | LinkedIn Hacks for Ethical Hackers | Muhammad Haider Tallal | [Read More](https://medium.com/p/391a81c90756) |
-| Sat, 13 Dec 2025 12:46:31 GMT | Zero Trust Security: What It Means for You (Also for Non-Techie) | The Techie Indian | [Read More](https://medium.com/p/ef40116c2442) |
-| Sat, 13 Dec 2025 12:44:35 GMT | Day 13 — Audit and Update Old Infrastructure (Deep in the Mines) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/c144a05bdfa6) |
-| Sat, 13 Dec 2025 12:37:32 GMT | The Apple Wallet Lock Scam | Malvox | [Read More](https://medium.com/p/19437899ccd3) |
