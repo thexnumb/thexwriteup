@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Dec 2025 13:37:15 GMT | FASH PumpFun Migration Is LIVE. Holders MUST Upgrade Before the Old Contract Dies | Henrywilliam | [Read More](https://medium.com/p/af8b72a30361) |
+| Sat, 13 Dec 2025 13:24:30 GMT | Phantom Stealer Campaign Abuses ISO Mounting to Compromise Windows Systems | valasala suhas | [Read More](https://medium.com/p/fdd52e8fe6ed) |
+| Sat, 13 Dec 2025 13:22:14 GMT | I Found 100 Bugs Using This One Recon Checklist | Codi | [Read More](https://medium.com/p/b23cabecff9a) |
 | Sat, 13 Dec 2025 13:16:54 GMT | CYBER KILL CHAIN | someone | [Read More](https://medium.com/p/9043b9bf884a) |
 | Sat, 13 Dec 2025 13:16:05 GMT | RSC ve React2Shell | Onur Dayıbaşı | [Read More](https://medium.com/p/abc5dbead6c1) |
 | Sat, 13 Dec 2025 13:12:44 GMT | TryHackMe Writeup: Year of the Dog | Berkay AĞGÜL | [Read More](https://medium.com/p/a3b1be9ceb32) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 06:47:56 GMT | Rethinking Device Privacy: An Automatic Environment Switching Security Concept for Mobile and… | Sahil Shaikh | [Read More](https://medium.com/p/96a71b67463d) |
 | Sat, 13 Dec 2025 06:26:51 GMT | Associative: A Premier Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/3bd7594dc1da) |
 | Sat, 13 Dec 2025 06:10:37 GMT | The New Playbook for Cyber Leadership: Inside the First 100 Days of the CISO | JC Gaillard | [Read More](https://medium.com/p/a5ee7fe5d63e) |
-| Sat, 13 Dec 2025 06:07:57 GMT | Como crear un Aula Virtual en Moodle paso a paso | Dennis garcia | [Read More](https://medium.com/p/b8c3a41185c4) |
-| Sat, 13 Dec 2025 06:03:54 GMT | Tải Summer Memories Apk (Mod Việt Hóa) v2.04 | genzvnmod | [Read More](https://medium.com/p/9863c7c18af1) |
-| Sat, 13 Dec 2025 06:00:23 GMT | Mir Najeeb Mengal — Founder, CEO & Software Engineer | Mirnajeebmengal | [Read More](https://medium.com/p/37973b74de4a) |
