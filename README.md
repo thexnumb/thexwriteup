@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 16:39:34 GMT | CodePartTwo Writeup — HTB | ItsProbably1v9 | [Read More](https://medium.com/p/4d60f47eaf33) |
+| Sun, 14 Dec 2025 16:37:57 GMT | The Real Cost of a Cyber Breach Is Not in IT. It Is in Cash Flow, Valuation, and Insurance. | Jennifer Lawrence | [Read More](https://medium.com/p/be1b7193536d) |
+| Sun, 14 Dec 2025 16:35:23 GMT | Tokens are just digital wristbands that apps use to remember you. | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f8db0f35bb88) |
+| Sun, 14 Dec 2025 16:35:09 GMT | What is a Race Condition? | Gohar Ghukasyan | [Read More](https://medium.com/p/8f3244b8dda4) |
+| Sun, 14 Dec 2025 16:34:26 GMT | We Don’t Need Your Eyeballs to Prove You’re Human | BiyteLüm | [Read More](https://medium.com/p/5816bd3cd625) |
+| Sun, 14 Dec 2025 16:32:55 GMT | OASIS INFOBYTE OIBSIP | Divyagoyal | [Read More](https://medium.com/p/f3db25d6f184) |
+| Sun, 14 Dec 2025 16:29:33 GMT | DECENTRALIZED AI AND BLOCKCHAIN CYBERSECURITY GUIDE | Adesowapo Adeyemi | [Read More](https://medium.com/p/cac23798203e) |
+| Sun, 14 Dec 2025 16:17:26 GMT | 20251214_Webアプリにおける手動診断の生き残り | Hiroya Nakamura | [Read More](https://medium.com/p/25148383381d) |
 | Sun, 14 Dec 2025 16:12:27 GMT | When HIPAA Meets AI: The Critical Gap Healthcare Organizations Can’t Afford to Ignore | Travis-ML | [Read More](https://medium.com/p/c051416d7262) |
 | Sun, 14 Dec 2025 16:06:24 GMT | Getting Started in Cybersecurity: My First Steps into Offensive Security | Rudraksh Yadav | [Read More](https://medium.com/p/1500c09bfb7b) |
+| Sun, 14 Dec 2025 16:05:19 GMT | สรุปงาน Sec-Girl #6 | napatchol thaipanich | [Read More](https://medium.com/p/327174c79b59) |
 | Sun, 14 Dec 2025 15:59:03 GMT | Day 1 of Learning C — Laying the First Brick Toward My Own Operating System | Rohit Prajapati | [Read More](https://medium.com/p/19bd1c8709ac) |
 | Sun, 14 Dec 2025 15:56:12 GMT | Why Cisco CCNA Still Matters in Today’s IT World | Joshuaa Smi | [Read More](https://medium.com/p/81aab094eec3) |
 | Sun, 14 Dec 2025 15:52:25 GMT | The Day I Found an Exposed Google Cloud Service Account Key in a Production JS File — And How… | Anshubind | [Read More](https://medium.com/p/6ee42010e638) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 10:02:58 GMT | I Stopped Hacking Manually and Started Automating (And Why Report Writing is Everything) | Janhvee Laad | [Read More](https://medium.com/p/a5a985e66edd) |
 | Sun, 14 Dec 2025 09:59:48 GMT | Virtual Reality, Collective Consciousness and New Cognitive Objects | Taulan Zauzanov | [Read More](https://medium.com/p/2e63657bbf79) |
 | Sun, 14 Dec 2025 09:57:35 GMT | Introducing dssrf: A Safe‑by‑Construction SSRF Defense Library for Node.js | Relun Sec | [Read More](https://medium.com/p/d3adbed34b45) |
-| Sun, 14 Dec 2025 09:55:42 GMT | My Journey to a Million Requests per Second | Sarthakkar | [Read More](https://medium.com/p/e211a1f5fee0) |
-| Sun, 14 Dec 2025 09:54:55 GMT | The Limitations of Geoblocking: My 60-Day VPN Experiment | Wesley Belleman | [Read More](https://medium.com/p/79e357bfaa14) |
-| Sun, 14 Dec 2025 09:54:11 GMT | TryHackMe: Boiler CTF Writeup | cbev | [Read More](https://medium.com/p/570720c20a94) |
-| Sun, 14 Dec 2025 09:52:10 GMT | FAILED ATTEMPTS TO ASSASSINATE PUTIN , WAS MODI ALSO ON TARGET (FULL INSIDE STORY) CIA GAME PLAN… | Sunil Kumar Chaudhary | [Read More](https://medium.com/p/fecc98ea788e) |
-| Sun, 14 Dec 2025 09:47:56 GMT | Why Most Organizations Fail at Cyber Security — Even After Investing Heavily | Ankit rai | [Read More](https://medium.com/p/c952083f5d8c) |
-| Sun, 14 Dec 2025 09:46:17 GMT | The Role of AI in Proactive Risk Resolution | AllSafeCloud | [Read More](https://medium.com/p/79ca9a319574) |
-| Sun, 14 Dec 2025 09:31:56 GMT | Implementing secure webhooks: producer and consumer perspectives | Akash | [Read More](https://medium.com/p/8522af31f048) |
-| Sun, 14 Dec 2025 09:27:56 GMT | Assume Privileged Role with External ID : Pwned-Labs Walkthrough Part 2 | Maverick | [Read More](https://medium.com/p/bcc67a223c65) |
-| Sun, 14 Dec 2025 09:22:41 GMT | The Quiet Cost of Survival Mode | Raissa Maharani | [Read More](https://medium.com/p/50d74e5f62b5) |
