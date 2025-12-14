@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 06:54:31 GMT | Red Teaming AI Models: 12 Jailbreak Techniques Every Security Pro Should Master | Very Lazy Tech | [Read More](https://medium.com/p/9f380ce329c4) |
+| Sun, 14 Dec 2025 06:50:15 GMT | Endpoint Threat Hunting: Proactive Detection on Windows, Linux, and macOS | Andrey Pautov | [Read More](https://medium.com/p/f892d9b8a113) |
+| Sun, 14 Dec 2025 06:42:32 GMT | Apple Confirms iPhone Attacks All Users Must Update Now | Moni | [Read More](https://medium.com/p/20d9244016c3) |
+| Sun, 14 Dec 2025 06:37:06 GMT | My Bug Bounty Diary | Janhvee Laad | [Read More](https://medium.com/p/4b0a78bdf7c9) |
 | Sun, 14 Dec 2025 06:17:44 GMT | Implementing TOTP-Based Multi-Factor Authentication in Symfony 7 | Edgaras | [Read More](https://medium.com/p/e186df051dc8) |
 | Sun, 14 Dec 2025 06:10:26 GMT | MY KIDNAPPING EXPERIENCE ON 29th NOVEMBER ALONG AT UGWUGO NIKE OPI NSUKKA ROAD ENUGU STATE. | MOSES ABEL | [Read More](https://medium.com/p/871574e32ff9) |
 | Sun, 14 Dec 2025 06:09:44 GMT | SOC FUNDAMENTALS: Detection, Response, and the SOC Pillars | ARCHANA P | [Read More](https://medium.com/p/01d74d7430b3) |
@@ -111,7 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 17:35:30 GMT | Building a Hands-On SOC Lab with Splunk: From Ubuntu Server to Live Windows Telemetry | Vivektumma27 | [Read More](https://medium.com/p/b04eeb55d724) |
 | Sat, 13 Dec 2025 17:33:25 GMT | Deepfake risk, and how Coalition’s new coverage helps protect your business | Marc Matthew Mason | [Read More](https://medium.com/p/c32e1f457a2e) |
 | Sat, 13 Dec 2025 17:32:19 GMT | I Watched an AI Hack Stanford’s Network for $18/Hour. Here’s Why the Headlines Got It Wrong. | Kuldeepsinh Jadeja | [Read More](https://medium.com/p/bb98d9619ba1) |
-| Sat, 13 Dec 2025 17:31:34 GMT | HTB: White Rabbit | Sean Gray | [Read More](https://medium.com/p/706173896476) |
-| Sat, 13 Dec 2025 17:28:11 GMT | What Your Cracks Reveal About You (When You Finally Pay Attention) | Alessandro Capraro | [Read More](https://medium.com/p/d45e9a7e2508) |
-| Sat, 13 Dec 2025 17:26:58 GMT | AFI™ – Architectural Feature Isolation | Shawnn carter | [Read More](https://medium.com/p/26b80c4f0c8a) |
-| Sat, 13 Dec 2025 17:16:21 GMT | TCS Hack Quest Season 10 — CTF Write‑Up | rajasekharyarava | [Read More](https://medium.com/p/8ad8796988d5) |
