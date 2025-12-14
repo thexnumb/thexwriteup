@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 10:32:54 GMT | In the hidden layers of the internet, where identities dissolve into code and silence speaks… | David HX | [Read More](https://medium.com/p/5a4df2d6b1b7) |
+| Sun, 14 Dec 2025 10:32:49 GMT | Hack Smarter, Not Harder: How AI Is Changing the Way We Learn Cybersecurity | Ai Founder Lab | [Read More](https://medium.com/p/08fa5a0dac35) |
+| Sun, 14 Dec 2025 10:31:20 GMT | Day 132 — Narnia Level-6 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/a743eef89287) |
+| Sun, 14 Dec 2025 10:29:22 GMT | Camera Surveillance Systems | Square Security Inc. | [Read More](https://medium.com/p/11281ea8935f) |
+| Sun, 14 Dec 2025 10:28:03 GMT | Windows Services Architecture | Reeti Agarwal | [Read More](https://medium.com/p/f6b78997467f) |
+| Sun, 14 Dec 2025 10:27:35 GMT | The Developer’s Speed is the CISO’s Bill: Why We Need to Fix Code, Not Just Block Attacks | WayneReidUK | [Read More](https://medium.com/p/8bc0e2b662cf) |
+| Sun, 14 Dec 2025 10:22:10 GMT | If Identity Collapses, Everything Collapses: “Identity Plane” Architecture in Modern Systems and… | Umut Akbulut | [Read More](https://medium.com/p/21fc3427447f) |
+| Sun, 14 Dec 2025 10:20:50 GMT | Is X-Bow the End of Security Analysts? How AI Is Reshaping Bug Hunting ⚔️ | Krish_cyber | [Read More](https://medium.com/p/cbbc8fe6dc38) |
+| Sun, 14 Dec 2025 10:17:48 GMT | Kimlik Çökerse Her Şey Çöker – Modern Sistemlerde “Identity Plane” Mimarisi ve Geri Dönüşü Olmayan… | Umut Akbulut | [Read More](https://medium.com/p/ffcea5f49b0c) |
 | Sun, 14 Dec 2025 10:07:05 GMT | Domain Name Security Basics — How to Protect Your Domain Name? | Recep Serit | [Read More](https://medium.com/p/320aa417876c) |
 | Sun, 14 Dec 2025 10:05:21 GMT | Flipper Zero in 2025–2026: Why Cybersecurity Professionals Are Paying Serious Attention ️ | Krish_cyber | [Read More](https://medium.com/p/fdead990d38c) |
 | Sun, 14 Dec 2025 10:02:58 GMT | I Stopped Hacking Manually and Started Automating (And Why Report Writing is Everything) | Janhvee Laad | [Read More](https://medium.com/p/a5a985e66edd) |
@@ -106,12 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 23:46:05 GMT | Networking concepts that every software engineer should know | Satish Alturu | [Read More](https://medium.com/p/646dcd24ed6b) |
 | Sat, 13 Dec 2025 23:16:35 GMT | How I met Claude Shannon | Alan Greenspan | [Read More](https://medium.com/p/c49bd4370317) |
 | Sat, 13 Dec 2025 23:01:20 GMT | Palestinian Freelancers: The Rising Talent Pool Every Business Should Consider | Apricot International | [Read More](https://medium.com/p/cb41d7c4b866) |
-| Sat, 13 Dec 2025 22:55:55 GMT | Salt Typhoon: The Worst Telecommunications Hack in American History | Abdelakarim Benabdallah | [Read More](https://medium.com/p/0b48917ca8e4) |
-| Sat, 13 Dec 2025 22:43:02 GMT | Role-Based Access Control (RBAC): The Foundation of Modern Application Security | Stoic Engineer | [Read More](https://medium.com/p/1b0ea030a9c9) |
-| Sat, 13 Dec 2025 22:14:03 GMT | La información, el “otro” producto en las empresas. | Carl Martz | [Read More](https://medium.com/p/d83c13057ec9) |
-| Sat, 13 Dec 2025 22:13:52 GMT | Churchill in the Digital War Room: A Grand Strategy Compared to the UK’s Cyber Power Vision | CCD-IS | [Read More](https://medium.com/p/79adae3327ce) |
-| Sat, 13 Dec 2025 22:13:30 GMT | Prompt Injection: The Security Vulnerability That Can Compromise Your Entire System | Suchitra Malimbada | [Read More](https://medium.com/p/8b91d5afea00) |
-| Sat, 13 Dec 2025 22:10:27 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 7: DC-8 | Shikhar Sinha | [Read More](https://medium.com/p/081e1cd9664d) |
-| Sat, 13 Dec 2025 21:40:33 GMT | Advanced Chain Management with IPTables ️ | Esra Kayhan | [Read More](https://medium.com/p/0a176bbd0a1e) |
-| Sat, 13 Dec 2025 21:40:09 GMT | Systemd Unit File Security: Hardening Techniques, Pitfalls, and Real-World Examples | Esra Kayhan | [Read More](https://medium.com/p/d6fdd7b00423) |
-| Sat, 13 Dec 2025 21:17:36 GMT | Advent of Cyber 2025 - Day 13: YARA Rules — YARA mean one! | D4m.sh | [Read More](https://medium.com/p/ce0ab4a3ce2c) |
