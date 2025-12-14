@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 10:07:05 GMT | Domain Name Security Basics — How to Protect Your Domain Name? | Recep Serit | [Read More](https://medium.com/p/320aa417876c) |
+| Sun, 14 Dec 2025 10:05:21 GMT | Flipper Zero in 2025–2026: Why Cybersecurity Professionals Are Paying Serious Attention ️ | Krish_cyber | [Read More](https://medium.com/p/fdead990d38c) |
+| Sun, 14 Dec 2025 10:02:58 GMT | I Stopped Hacking Manually and Started Automating (And Why Report Writing is Everything) | Janhvee Laad | [Read More](https://medium.com/p/a5a985e66edd) |
+| Sun, 14 Dec 2025 09:59:48 GMT | Virtual Reality, Collective Consciousness and New Cognitive Objects | Taulan Zauzanov | [Read More](https://medium.com/p/2e63657bbf79) |
+| Sun, 14 Dec 2025 09:57:35 GMT | Introducing dssrf: A Safe‑by‑Construction SSRF Defense Library for Node.js | Relun Sec | [Read More](https://medium.com/p/d3adbed34b45) |
+| Sun, 14 Dec 2025 09:55:42 GMT | My Journey to a Million Requests per Second | Sarthakkar | [Read More](https://medium.com/p/e211a1f5fee0) |
+| Sun, 14 Dec 2025 09:54:55 GMT | The Limitations of Geoblocking: My 60-Day VPN Experiment | Wesley Belleman | [Read More](https://medium.com/p/79e357bfaa14) |
+| Sun, 14 Dec 2025 09:54:11 GMT | TryHackMe: Boiler CTF Writeup | cbev | [Read More](https://medium.com/p/570720c20a94) |
+| Sun, 14 Dec 2025 09:52:10 GMT | FAILED ATTEMPTS TO ASSASSINATE PUTIN , WAS MODI ALSO ON TARGET (FULL INSIDE STORY) CIA GAME PLAN… | Sunil Kumar Chaudhary | [Read More](https://medium.com/p/fecc98ea788e) |
+| Sun, 14 Dec 2025 09:47:56 GMT | Why Most Organizations Fail at Cyber Security — Even After Investing Heavily | Ankit rai | [Read More](https://medium.com/p/c952083f5d8c) |
+| Sun, 14 Dec 2025 09:46:17 GMT | The Role of AI in Proactive Risk Resolution | AllSafeCloud | [Read More](https://medium.com/p/79ca9a319574) |
 | Sun, 14 Dec 2025 09:31:56 GMT | Implementing secure webhooks: producer and consumer perspectives | Akash | [Read More](https://medium.com/p/8522af31f048) |
 | Sun, 14 Dec 2025 09:27:56 GMT | Assume Privileged Role with External ID : Pwned-Labs Walkthrough Part 2 | Maverick | [Read More](https://medium.com/p/bcc67a223c65) |
+| Sun, 14 Dec 2025 09:22:41 GMT | The Quiet Cost of Survival Mode | Raissa Maharani | [Read More](https://medium.com/p/50d74e5f62b5) |
 | Sun, 14 Dec 2025 09:18:03 GMT | The End of America’s Global Mission: | Diplomat Dialogues | [Read More](https://medium.com/p/9379a977eab7) |
 | Sun, 14 Dec 2025 09:13:00 GMT | 7 Urgent GeoServer CVE-2025–58360 Fix Steps | Pentest_Testing_Corp | [Read More](https://medium.com/p/2c26188fac7e) |
 | Sun, 14 Dec 2025 09:03:18 GMT | PortSwigger: “Information Disclosure” otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/9002c391dd76) |
@@ -103,15 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 21:40:33 GMT | Advanced Chain Management with IPTables ️ | Esra Kayhan | [Read More](https://medium.com/p/0a176bbd0a1e) |
 | Sat, 13 Dec 2025 21:40:09 GMT | Systemd Unit File Security: Hardening Techniques, Pitfalls, and Real-World Examples | Esra Kayhan | [Read More](https://medium.com/p/d6fdd7b00423) |
 | Sat, 13 Dec 2025 21:17:36 GMT | Advent of Cyber 2025 - Day 13: YARA Rules — YARA mean one! | D4m.sh | [Read More](https://medium.com/p/ce0ab4a3ce2c) |
-| Sat, 13 Dec 2025 21:04:22 GMT | Documentation: Site-to-Site VPN (AWS Task 12) | Thomas Eid | [Read More](https://medium.com/p/454e6a791207) |
-| Sat, 13 Dec 2025 21:00:35 GMT | 2025 Tech Recap | Rye Overly | [Read More](https://medium.com/p/d07ff4fbdb15) |
-| Sat, 13 Dec 2025 21:00:24 GMT | Knowledge Check (HTB academy) Walk through | Mohamed Walid | [Read More](https://medium.com/p/83e96e453134) |
-| Sat, 13 Dec 2025 20:57:20 GMT | Regarding eCTHPv3 by INE Security | Chris Vladimirov | [Read More](https://medium.com/p/ab945684adf8) |
-| Sat, 13 Dec 2025 20:53:09 GMT | TCS HackQuest CTF Season 10: Round 1 Challenge Walkthrough | mayhack | [Read More](https://medium.com/p/d295ff590d0f) |
-| Sat, 13 Dec 2025 20:39:45 GMT | Why 2025 Might Be the Best Year Ever to Switch to Linux | Sam Writes Security | [Read More](https://medium.com/p/574aa5e37ca3) |
-| Sat, 13 Dec 2025 20:26:54 GMT | the post i almost deleted (and why that says everything about me) | Chyna | [Read More](https://medium.com/p/e9fc67c5c3f2) |
-| Sat, 13 Dec 2025 20:25:23 GMT | USB CoinMiner Attacks Rise Through Deceptive Shortcut Files | Geoffrey Wenger | [Read More](https://medium.com/p/6caabd841a42) |
-| Sat, 13 Dec 2025 20:25:18 GMT | DroidLock Malware Takes Over Android Devices With Ease | Geoffrey Wenger | [Read More](https://medium.com/p/f0663e96d508) |
-| Sat, 13 Dec 2025 20:21:15 GMT | Dimensionality Reduction Strikes 降维打击 in Tech History | Chier Hu | [Read More](https://medium.com/p/3eacf9214c10) |
-| Sat, 13 Dec 2025 20:17:01 GMT | WhiteRabbit — HackTheBox — Detailed Write Up | Jafar Pathan | [Read More](https://medium.com/p/9ddaa21a9266) |
-| Sat, 13 Dec 2025 20:01:26 GMT | How I Discovered a Massive Data Leak Exposing Millions of Users During Routine Recon | Mohaseen | [Read More](https://medium.com/p/ca5f96e57f90) |
