@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 22:00:52 GMT | HTB CTF Write-Up: Fawn | Paulo Melo | [Read More](https://medium.com/p/ff0bc6b50058) |
+| Sun, 14 Dec 2025 21:52:46 GMT | YAPAY ZEKA KULLANICILARI VE YAZILIMCILAR MAĞDUR OLUR MU? | Gülşah Akın | [Read More](https://medium.com/p/d66406222048) |
+| Sun, 14 Dec 2025 21:48:34 GMT | The Security Paradox: Why Buying More Tools Won’t Stop the Breaches Subtitle: We are spending… | Andrea Cere | [Read More](https://medium.com/p/4f74c37366e9) |
+| Sun, 14 Dec 2025 21:45:25 GMT | Entity Authentication | Ali Naghiyev | [Read More](https://medium.com/p/105f1575b9cb) |
+| Sun, 14 Dec 2025 21:43:44 GMT | AWS Portfolio Project Overview | Space Mann | [Read More](https://medium.com/p/64aa996aef83) |
+| Sun, 14 Dec 2025 21:39:28 GMT | Reflections on Network Reconnaissance: Learning Through Nmap and Scapy Labs | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/97d4b3e53c32) |
+| Sun, 14 Dec 2025 21:35:07 GMT | ⚡️Advanced XSS Bypass for Akamai WAF | Cybersecplayground | [Read More](https://medium.com/p/a70c0663c3f7) |
+| Sun, 14 Dec 2025 21:32:54 GMT | Best Post-Exploitation Tools for Active Directory Pentesting | loyalonlytoday | [Read More](https://medium.com/p/3105fd8fd42e) |
+| Sun, 14 Dec 2025 21:32:50 GMT | ️ File Upload Vulnerabilities: Complete Guide + Real Exploit | Vipul Sonule | [Read More](https://medium.com/p/27e0e56ea4ef) |
 | Sun, 14 Dec 2025 21:32:46 GMT | Bug Bounty Hunting Isn’t Luck — It’s a System (With Tools That Actually Work) | Mainekhacker | [Read More](https://medium.com/p/a7d907a75a2a) |
 | Sun, 14 Dec 2025 21:27:48 GMT | $12,500 Bounty: How Changing One GraphQL ID Let Me Delete Other Users’ Data | Monika sharma | [Read More](https://medium.com/p/4a6e1c70ae12) |
 | Sun, 14 Dec 2025 21:26:11 GMT | Dear Clients: Thank You for Trusting Us With Your Security — Ethics Over Optics: Living Out Our… | Fook Hwa Tan | [Read More](https://medium.com/p/0008e24c316b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 14:28:04 GMT | Hardening an Existing MongoDB Sharded Cluster with Keyfile Authentication | Mai Hoang Viet | [Read More](https://medium.com/p/20944afd13b1) |
 | Sun, 14 Dec 2025 14:20:43 GMT | Day 12: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/02a5eeb7ba8f) |
 | Sun, 14 Dec 2025 14:13:40 GMT | Graphical Password Authentication: How Picture Perfect Passwords can enhance Security | Rohit Kumar Singh | [Read More](https://medium.com/p/ba973a8230db) |
-| Sun, 14 Dec 2025 14:10:43 GMT | From {{7+7}} to Root: Achieving RCE via SSTI | Raj Prasad Kuiri | [Read More](https://medium.com/p/509e81cee120) |
-| Sun, 14 Dec 2025 14:09:57 GMT | The Essentials of SSL/TLS | mohandika | [Read More](https://medium.com/p/99024a8d2823) |
-| Sun, 14 Dec 2025 14:08:33 GMT | How Hackers Use Kali Linux Against Cloud Servers | Fareed Masood | [Read More](https://medium.com/p/56e6f9e6cf36) |
-| Sun, 14 Dec 2025 14:05:35 GMT | WHAT IS API SECURITY AND WHY SHOULD EVERYDAY PEOPLE CARE? | verytiredgirl | [Read More](https://medium.com/p/e53c3ea47d3b) |
-| Sun, 14 Dec 2025 14:02:14 GMT | AI Didn’t Break Your Security. It Just Moved Fast Enough to Show How Broken It Already Was | MohamedAbdelmenem | [Read More](https://medium.com/p/4280d44eadbe) |
-| Sun, 14 Dec 2025 14:00:07 GMT | Joern: Your Secret Weapon for Hunting Bugs at Scale | Madushka | [Read More](https://medium.com/p/3e993e100b91) |
-| Sun, 14 Dec 2025 13:53:39 GMT | Speaking Up: A Personal Note on Integrity, Accountability, and Digital Safety | EKUNDAYO Oluwadamilare | [Read More](https://medium.com/p/0f3b162161f2) |
-| Sun, 14 Dec 2025 13:53:16 GMT | ISO/IEC 27001 Information Security Associate: A Strong Foundation in Information Security | Allan Banday | [Read More](https://medium.com/p/f7c5e3e6d10d) |
-| Sun, 14 Dec 2025 13:48:32 GMT | Week 0: Sprint 0 — Hardware Sourcing & Platform Setup | scriptpy | [Read More](https://medium.com/p/35fe2494913a) |
