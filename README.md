@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 14:10:43 GMT | From {{7+7}} to Root: Achieving RCE via SSTI | Raj Prasad Kuiri | [Read More](https://medium.com/p/509e81cee120) |
+| Sun, 14 Dec 2025 14:09:57 GMT | The Essentials of SSL/TLS | mohandika | [Read More](https://medium.com/p/99024a8d2823) |
+| Sun, 14 Dec 2025 14:05:35 GMT | WHAT IS API SECURITY AND WHY SHOULD EVERYDAY PEOPLE CARE? | verytiredgirl | [Read More](https://medium.com/p/e53c3ea47d3b) |
+| Sun, 14 Dec 2025 14:02:14 GMT | AI Didn’t Break Your Security. It Just Moved Fast Enough to Show How Broken It Already Was | MohamedAbdelmenem | [Read More](https://medium.com/p/4280d44eadbe) |
+| Sun, 14 Dec 2025 14:00:07 GMT | Joern: Your Secret Weapon for Hunting Bugs at Scale | Madushka | [Read More](https://medium.com/p/3e993e100b91) |
+| Sun, 14 Dec 2025 13:53:39 GMT | Speaking Up: A Personal Note on Integrity, Accountability, and Digital Safety | EKUNDAYO Oluwadamilare | [Read More](https://medium.com/p/0f3b162161f2) |
+| Sun, 14 Dec 2025 13:53:16 GMT | ISO/IEC 27001 Information Security Associate: A Strong Foundation in Information Security | Allan Banday | [Read More](https://medium.com/p/f7c5e3e6d10d) |
+| Sun, 14 Dec 2025 13:48:32 GMT | Week 0: Sprint 0 — Hardware Sourcing & Platform Setup | scriptpy | [Read More](https://medium.com/p/35fe2494913a) |
 | Sun, 14 Dec 2025 13:36:33 GMT | Why Cybersecurity Tools Alone Are Failing Modern Organizations | Ankit rai | [Read More](https://medium.com/p/2cf4094f063f) |
 | Sun, 14 Dec 2025 13:26:38 GMT | The Hidden Tax in DeFi: How Syntetika Protects Operators From MEV | Emmanuel Chibuzor | [Read More](https://medium.com/p/bcc4659afd64) |
 | Sun, 14 Dec 2025 13:20:10 GMT | Critical Alert: New React Server Components Vulnerabilities (Dec 2025) | Udaykumar Dhokia | [Read More](https://medium.com/p/341f4ec81853) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 05:54:20 GMT | YARA Rules — YARA mean one! — Writeup(DAY 13— Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/7dd7275c91bc) |
 | Sun, 14 Dec 2025 05:34:08 GMT | Mobile Proxy Sticky Sessions: Reduce Account Checkpoints Without Mid-Flow IP Changes | CoinZenith | [Read More](https://medium.com/p/0774867252d9) |
 | Sun, 14 Dec 2025 05:26:27 GMT | Practical Virtualization: Hosting and Hardening a Minecraft Server in VirtualBox | Declan | [Read More](https://medium.com/p/9ed55dcc9fd0) |
-| Sun, 14 Dec 2025 05:18:52 GMT | Why Traditional SIEM Is Dying — And How ClickHouse + AI Is Replacing It | Pranav Dixit | [Read More](https://medium.com/p/a09ddcb19d44) |
-| Sun, 14 Dec 2025 05:02:14 GMT | The Audit That Everyone Passes But Nobody’s Actually Secure | Steve Anderson | [Read More](https://medium.com/p/315c88f03dd9) |
-| Sun, 14 Dec 2025 04:56:58 GMT | Why Googling Yourself Is Not Enough: A Compliance-Oriented View of Search Results | Paolocermelli | [Read More](https://medium.com/p/505fa125c695) |
-| Sun, 14 Dec 2025 04:51:37 GMT | ️Cybersecurity Awareness: The Threats of Social Engineering | Margareth de Oliveira | [Read More](https://medium.com/p/c154697bca0f) |
-| Sun, 14 Dec 2025 04:51:06 GMT | Google Cloud Shell Container Escape | Bipin Jitiya | [Read More](https://medium.com/p/b69ffb46b5df) |
-| Sun, 14 Dec 2025 04:46:38 GMT | The Cryptography Concept Journey — Asymmetric Encryption (Public Key Encryption) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1efb68fb0258) |
-| Sun, 14 Dec 2025 04:41:36 GMT | Multi-Factor Authentication (MFA): Strengthening the First Line of Defense | Geeky Vartika | [Read More](https://medium.com/p/db1e97c03fb8) |
-| Sun, 14 Dec 2025 04:37:47 GMT | Bug Bounty Hunting — Complete Guide (Part-161) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0dcc932cb749) |
