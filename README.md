@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 13:36:33 GMT | Why Cybersecurity Tools Alone Are Failing Modern Organizations | Ankit rai | [Read More](https://medium.com/p/2cf4094f063f) |
+| Sun, 14 Dec 2025 13:26:38 GMT | The Hidden Tax in DeFi: How Syntetika Protects Operators From MEV | Emmanuel Chibuzor | [Read More](https://medium.com/p/bcc4659afd64) |
 | Sun, 14 Dec 2025 13:20:10 GMT | Critical Alert: New React Server Components Vulnerabilities (Dec 2025) | Udaykumar Dhokia | [Read More](https://medium.com/p/341f4ec81853) |
 | Sun, 14 Dec 2025 13:10:48 GMT | MiniSOC - Dijital Kale Projesini Neden Geliştiriyorum? | Hakan ÇEVİK | [Read More](https://medium.com/p/4fa40d61d2e4) |
 | Sun, 14 Dec 2025 13:03:01 GMT | How Companies Decide Between In-House and Outsourced Development | Jyoti Joshi | [Read More](https://medium.com/p/49ad22a02395) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 04:46:38 GMT | The Cryptography Concept Journey — Asymmetric Encryption (Public Key Encryption) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1efb68fb0258) |
 | Sun, 14 Dec 2025 04:41:36 GMT | Multi-Factor Authentication (MFA): Strengthening the First Line of Defense | Geeky Vartika | [Read More](https://medium.com/p/db1e97c03fb8) |
 | Sun, 14 Dec 2025 04:37:47 GMT | Bug Bounty Hunting — Complete Guide (Part-161) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0dcc932cb749) |
-| Sun, 14 Dec 2025 04:36:06 GMT | Bug Bounty Hunting — Complete Guide (Part-160) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/4e6d1a2dc241) |
-| Sun, 14 Dec 2025 04:16:06 GMT | Attackers Know Your Human Patterns Better Than You Do | Muhammad Ali Khan | [Read More](https://medium.com/p/2cac0339ccfc) |
