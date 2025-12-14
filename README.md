@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 04:36:06 GMT | Bug Bounty Hunting — Complete Guide (Part-160) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/4e6d1a2dc241) |
+| Sun, 14 Dec 2025 04:16:06 GMT | Attackers Know Your Human Patterns Better Than You Do | Muhammad Ali Khan | [Read More](https://medium.com/p/2cac0339ccfc) |
+| Sun, 14 Dec 2025 04:15:03 GMT | Analyzing FTP Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/02cf7abda9cf) |
+| Sun, 14 Dec 2025 04:14:32 GMT | Cognitive Overload vs Automation: When Smart Systems Make Humans Dumber | Muhammad Ali Khan | [Read More](https://medium.com/p/3f055bfb1698) |
+| Sun, 14 Dec 2025 04:04:42 GMT | AUTONOMOUS ESCAPE TEST ARCHIVE — BY SCPX NETWORK | PercyThePigeon | [Read More](https://medium.com/p/4e06310f812d) |
+| Sun, 14 Dec 2025 04:02:17 GMT | UK Targets Rising Russian Undersea Threats | Vic Langston | [Read More](https://medium.com/p/4e37752a01f5) |
 | Sun, 14 Dec 2025 03:32:16 GMT | RoningLoader: Inside the Stealthy Malware Chain That Disarms Endpoint Security | Deven Chhajed | [Read More](https://medium.com/p/00dd00202c28) |
 | Sun, 14 Dec 2025 03:30:17 GMT | We Existed in the Space Between | Bemnet Lulu Abera | [Read More](https://medium.com/p/c092787b46f4) |
 | Sun, 14 Dec 2025 03:24:16 GMT | I didn’t start early.
@@ -109,9 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 15:02:15 GMT | How Hard Is It to Meet the Right Person? | Fower Leo | [Read More](https://medium.com/p/141eb5976c4c) |
 | Sat, 13 Dec 2025 15:01:59 GMT | Brainspotting | Alizabeth Amelia Rose | [Read More](https://medium.com/p/23a24956fe99) |
 | Sat, 13 Dec 2025 15:01:16 GMT | The Problem With “Free” Network Tools on the Internet | Bohdan Pylypchuk | [Read More](https://medium.com/p/82bf83896657) |
-| Sat, 13 Dec 2025 14:49:24 GMT | Fake Faces, Real Crimes: The Dangerous Rise of Deepfakes in India | Hacktechmedia | [Read More](https://medium.com/p/c9d7e5f2672d) |
-| Sat, 13 Dec 2025 14:42:22 GMT | Juicy CTF: How I manipulated a virtual Golden Retriever to steal his secrets | Telynor | [Read More](https://medium.com/p/cebd24b1a3f1) |
-| Sat, 13 Dec 2025 14:40:26 GMT | The Hidden Wiki: Navigating the Transition to V3 Onion Services | Bonventure Baraka | [Read More](https://medium.com/p/df003c0ba56c) |
-| Sat, 13 Dec 2025 14:37:01 GMT | The Creator’s Paradox: Why True Value Requires Radical Vulnerability | Morgan Thain Miller | [Read More](https://medium.com/p/8f036d3e19bb) |
-| Sat, 13 Dec 2025 14:36:15 GMT | Exploring the Most Popular Linux Distributions — Which One Powers Your Workstation? | Paul Meyer | [Read More](https://medium.com/p/2489cb4b09c9) |
-| Sat, 13 Dec 2025 14:34:44 GMT | ️ The Day I Found an Exposed Firebase Database on a Ferrari Subdomain — And Got the “Already… | Anshubind | [Read More](https://medium.com/p/05023b362520) |
