@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 14:37:03 GMT | ️‍♂️ RAT Malware Explained: How Hackers Take Remote Control of Your Device | Natarajan C K | [Read More](https://medium.com/p/9b5bfa635a94) |
+| Sun, 14 Dec 2025 14:34:26 GMT | Why I Don’t Teach Hacking the “Responsible” Way | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e0314d84aa4a) |
+| Sun, 14 Dec 2025 14:32:17 GMT | (Comptia A+) Understanding Social Engineering: How to Protect Yourself and Your Organization | Vignesh R | [Read More](https://medium.com/p/077a94d825e5) |
+| Sun, 14 Dec 2025 14:28:04 GMT | Hardening an Existing MongoDB Sharded Cluster with Keyfile Authentication | Mai Hoang Viet | [Read More](https://medium.com/p/20944afd13b1) |
+| Sun, 14 Dec 2025 14:20:43 GMT | Day 12: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/02a5eeb7ba8f) |
+| Sun, 14 Dec 2025 14:13:40 GMT | Graphical Password Authentication: How Picture Perfect Passwords can enhance Security | Rohit Kumar Singh | [Read More](https://medium.com/p/ba973a8230db) |
 | Sun, 14 Dec 2025 14:10:43 GMT | From {{7+7}} to Root: Achieving RCE via SSTI | Raj Prasad Kuiri | [Read More](https://medium.com/p/509e81cee120) |
 | Sun, 14 Dec 2025 14:09:57 GMT | The Essentials of SSL/TLS | mohandika | [Read More](https://medium.com/p/99024a8d2823) |
+| Sun, 14 Dec 2025 14:08:33 GMT | How Hackers Use Kali Linux Against Cloud Servers | Fareed Masood | [Read More](https://medium.com/p/56e6f9e6cf36) |
 | Sun, 14 Dec 2025 14:05:35 GMT | WHAT IS API SECURITY AND WHY SHOULD EVERYDAY PEOPLE CARE? | verytiredgirl | [Read More](https://medium.com/p/e53c3ea47d3b) |
 | Sun, 14 Dec 2025 14:02:14 GMT | AI Didn’t Break Your Security. It Just Moved Fast Enough to Show How Broken It Already Was | MohamedAbdelmenem | [Read More](https://medium.com/p/4280d44eadbe) |
 | Sun, 14 Dec 2025 14:00:07 GMT | Joern: Your Secret Weapon for Hunting Bugs at Scale | Madushka | [Read More](https://medium.com/p/3e993e100b91) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 06:50:15 GMT | Endpoint Threat Hunting: Proactive Detection on Windows, Linux, and macOS | Andrey Pautov | [Read More](https://medium.com/p/f892d9b8a113) |
 | Sun, 14 Dec 2025 06:42:32 GMT | Apple Confirms iPhone Attacks All Users Must Update Now | Moni | [Read More](https://medium.com/p/20d9244016c3) |
 | Sun, 14 Dec 2025 06:37:06 GMT | My Bug Bounty Diary | Janhvee Laad | [Read More](https://medium.com/p/4b0a78bdf7c9) |
-| Sun, 14 Dec 2025 06:17:44 GMT | Implementing TOTP-Based Multi-Factor Authentication in Symfony 7 | Edgaras | [Read More](https://medium.com/p/e186df051dc8) |
-| Sun, 14 Dec 2025 06:10:26 GMT | MY KIDNAPPING EXPERIENCE ON 29th NOVEMBER ALONG AT UGWUGO NIKE OPI NSUKKA ROAD ENUGU STATE. | MOSES ABEL | [Read More](https://medium.com/p/871574e32ff9) |
-| Sun, 14 Dec 2025 06:09:44 GMT | SOC FUNDAMENTALS: Detection, Response, and the SOC Pillars | ARCHANA P | [Read More](https://medium.com/p/01d74d7430b3) |
-| Sun, 14 Dec 2025 06:02:15 GMT | U.S. Identified 24 Russian Spies in Mexico — and Mexico Let Them Stay | Vic Langston | [Read More](https://medium.com/p/f35b6a279265) |
-| Sun, 14 Dec 2025 05:54:20 GMT | YARA Rules — YARA mean one! — Writeup(DAY 13— Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/7dd7275c91bc) |
-| Sun, 14 Dec 2025 05:34:08 GMT | Mobile Proxy Sticky Sessions: Reduce Account Checkpoints Without Mid-Flow IP Changes | CoinZenith | [Read More](https://medium.com/p/0774867252d9) |
-| Sun, 14 Dec 2025 05:26:27 GMT | Practical Virtualization: Hosting and Hardening a Minecraft Server in VirtualBox | Declan | [Read More](https://medium.com/p/9ed55dcc9fd0) |
