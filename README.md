@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 20:05:06 GMT | Reflected XSS in blog search | aiden | [Read More](https://medium.com/p/f0b5abffb8b2) |
+| Sun, 14 Dec 2025 20:00:20 GMT | Advent of Cyber 25 — Day 13 — YARA Rules — YARA mean one! | cybertactic | [Read More](https://medium.com/p/d95a05064444) |
+| Sun, 14 Dec 2025 19:51:27 GMT | Netgear R7800 Nighthawk OpenWRT IDS/IPS Kurulumu ve Test Sonuçları | Hakan ÇEVİK | [Read More](https://medium.com/p/20cd308fd703) |
+| Sun, 14 Dec 2025 19:49:35 GMT | What Developers Can Learn From Exchange Security Models | Dan Crypto Keller | [Read More](https://medium.com/p/a997b1df4c16) |
+| Sun, 14 Dec 2025 19:46:06 GMT | Advent of Cyber 25 — Day 12 — Phishing — Phishmas Greetings | cybertactic | [Read More](https://medium.com/p/f0ea7ead9d44) |
+| Sun, 14 Dec 2025 19:45:07 GMT | Gemini Under Fire: Unpacking the GeminiJack Zero-Click Vulnerability and How Hackers Are… | eL Njas!™ | [Read More](https://medium.com/p/ff6d8d3f7809) |
+| Sun, 14 Dec 2025 19:41:43 GMT | Security Pillars in DevOps | Senam Kudjo Humado | [Read More](https://medium.com/p/79bb11727506) |
 | Sun, 14 Dec 2025 19:25:41 GMT | MDE’s DeviceNetworkEvents table [Part 3 — Http and SslConnectionInspected ActionTypes] | Ethan Bowen | [Read More](https://medium.com/p/31a4ab66fbf1) |
 | Sun, 14 Dec 2025 19:22:52 GMT | How To Restrict Kubernetes Image Registries Using Kyverno | Ikeri Ebenezer | [Read More](https://medium.com/p/6a19b0d37332) |
 | Sun, 14 Dec 2025 19:22:17 GMT | Day 13: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/0c84a17babe6) |
@@ -22,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 18:45:06 GMT | NymVPN v2025.19: অনলাইন প্রাইভেসির নতুন দিগন্ত | Rabib Bin Nur | [Read More](https://medium.com/p/3507b25e5260) |
 | Sun, 14 Dec 2025 18:44:40 GMT | Try Hack Me Digital Forensics Fundamentals | Carrie Roberts | [Read More](https://medium.com/p/73ee3e5124cd) |
 | Sun, 14 Dec 2025 18:42:28 GMT | Still | yossijey | [Read More](https://medium.com/p/f52b8b299f19) |
+| Sun, 14 Dec 2025 18:36:57 GMT | Data Recovery Deep Dive: A Beginner’s Guide to Recovering Lost Files on Windows | Dominic Ebojo | [Read More](https://medium.com/p/ab823a548c57) |
 | Sun, 14 Dec 2025 18:20:44 GMT | Advent of Cyber 2025 - Day 14: Containers — DoorDasher’s Demise | D4m.sh | [Read More](https://medium.com/p/e1fb72367478) |
 | Sun, 14 Dec 2025 18:19:46 GMT | Nmap Tool for Beginner | DefeAsh | [Read More](https://medium.com/p/885fe0ba3a89) |
 | Sun, 14 Dec 2025 18:17:00 GMT | Beyond the Password: Modern Authentication Explained | Guroosh | [Read More](https://medium.com/p/24363219f25b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 12:37:50 GMT | Gain Entry to GCP via GitLab Commit : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/9e42eaa99aaa) |
 | Sun, 14 Dec 2025 12:25:10 GMT | Is React Hacked? The Critical Vulnerability That Shook the React Ecosystem | Mert Gökhan Dönmez | [Read More](https://medium.com/p/2e97d47a3d92) |
 | Sun, 14 Dec 2025 12:24:13 GMT | The Python Metaclass Trick That Finally Makes Sense (And When You Actually Need It) | Rizqi Mulki | [Read More](https://medium.com/p/a0fb04964e05) |
-| Sun, 14 Dec 2025 12:22:43 GMT | Android App Security in 2026: Real-World Cybersecurity Practices Beyond HTTPS | Software Developer | [Read More](https://medium.com/p/095c7761660c) |
-| Sun, 14 Dec 2025 12:19:45 GMT | Windows Forensics Investigation and Analysis | Chinasachinasa | [Read More](https://medium.com/p/1634cc173847) |
-| Sun, 14 Dec 2025 12:12:22 GMT | How a Simple CORS Misconfiguration Put a Finance Platform at Risk | Abdulbar | [Read More](https://medium.com/p/052d188dd2eb) |
-| Sun, 14 Dec 2025 12:05:57 GMT | Forgetting These 11 Cybersecurity Threats Is A “Fool’s Nightmare” | Rishabh Shah | [Read More](https://medium.com/p/fa77e456e00d) |
-| Sun, 14 Dec 2025 12:05:25 GMT | Cloudsek CTF Writeup 2025 | popo | [Read More](https://medium.com/p/ef1f758ad7f0) |
-| Sun, 14 Dec 2025 12:05:15 GMT | Scanning Networks | Dante | [Read More](https://medium.com/p/39baa8c0c3d3) |
-| Sun, 14 Dec 2025 12:03:29 GMT | YARA Rules — YARA mean one! - Advent of Cyber 2025 Day 13 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/bf7d27cb2eb5) |
-| Sun, 14 Dec 2025 12:00:48 GMT | React4Shell Zaafiyeti Ve Analizi | Bilal Eski | [Read More](https://medium.com/p/39668559c156) |
