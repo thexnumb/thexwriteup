@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 15:36:39 GMT | Padelify CTF Write-up: When WAFs play padel and lose | Telynor | [Read More](https://medium.com/p/4d3fd6dcee6f) |
+| Sun, 14 Dec 2025 15:30:43 GMT | Cybersecurity Writing Pays More Than You Think | Muhammad Haider Tallal | [Read More](https://medium.com/p/ddaea703d591) |
 | Sun, 14 Dec 2025 15:15:07 GMT | MeetCyber Women Coffee Circles | MeetCyber Editor | [Read More](https://medium.com/p/34ca86c5d75b) |
 | Sun, 14 Dec 2025 15:13:50 GMT | Practical CSRF Protection for Cookie-Based APIs | Nitish Mehta | [Read More](https://medium.com/p/691463f6d654) |
 | Sun, 14 Dec 2025 15:02:22 GMT | How to Integrate Spring Boot 3 with Aws Secret Manager and Parameter Store Using AWS SDK v2 | Fahim Fahad | [Read More](https://medium.com/p/390a59cfdbae) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 08:06:02 GMT | The Rise of Zero Trust: Why Companies No Longer Automatically ‘Trust’ Users or Devices. | Grace Chukwunta | [Read More](https://medium.com/p/bfb31d5922dd) |
 | Sun, 14 Dec 2025 08:06:01 GMT | Into the Abyss: The Essential Toolset for Dark Web OSINT and Monitoring | eRRoR | [Read More](https://medium.com/p/9f8c85322ebe) |
 | Sun, 14 Dec 2025 07:59:59 GMT | I Trusted the Bottle Because Humans Would Betray Me | Kohei | [Read More](https://medium.com/p/c1ce39ec4359) |
-| Sun, 14 Dec 2025 07:53:45 GMT | The Biggest Privacy Mistake People Make on Their Phones | Aj | [Read More](https://medium.com/p/0dfd7e902039) |
-| Sun, 14 Dec 2025 07:50:56 GMT | How IT Service Companies Structure Their Delivery Models for Better Results AVA Technology | @itservicesguide | [Read More](https://medium.com/p/0e35b5a31be1) |
