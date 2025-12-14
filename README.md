@@ -12,12 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 05:02:14 GMT | The Audit That Everyone Passes But Nobody’s Actually Secure | Steve Anderson | [Read More](https://medium.com/p/315c88f03dd9) |
+| Sun, 14 Dec 2025 04:56:58 GMT | Why Googling Yourself Is Not Enough: A Compliance-Oriented View of Search Results | Paolocermelli | [Read More](https://medium.com/p/505fa125c695) |
+| Sun, 14 Dec 2025 04:51:37 GMT | ️Cybersecurity Awareness: The Threats of Social Engineering | Margareth de Oliveira | [Read More](https://medium.com/p/c154697bca0f) |
+| Sun, 14 Dec 2025 04:51:06 GMT | Google Cloud Shell Container Escape | Bipin Jitiya | [Read More](https://medium.com/p/b69ffb46b5df) |
+| Sun, 14 Dec 2025 04:46:38 GMT | The Cryptography Concept Journey — Asymmetric Encryption (Public Key Encryption) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1efb68fb0258) |
+| Sun, 14 Dec 2025 04:41:36 GMT | Multi-Factor Authentication (MFA): Strengthening the First Line of Defense | Geeky Vartika | [Read More](https://medium.com/p/db1e97c03fb8) |
+| Sun, 14 Dec 2025 04:37:47 GMT | Bug Bounty Hunting — Complete Guide (Part-161) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0dcc932cb749) |
 | Sun, 14 Dec 2025 04:36:06 GMT | Bug Bounty Hunting — Complete Guide (Part-160) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/4e6d1a2dc241) |
 | Sun, 14 Dec 2025 04:16:06 GMT | Attackers Know Your Human Patterns Better Than You Do | Muhammad Ali Khan | [Read More](https://medium.com/p/2cac0339ccfc) |
 | Sun, 14 Dec 2025 04:15:03 GMT | Analyzing FTP Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/02cf7abda9cf) |
 | Sun, 14 Dec 2025 04:14:32 GMT | Cognitive Overload vs Automation: When Smart Systems Make Humans Dumber | Muhammad Ali Khan | [Read More](https://medium.com/p/3f055bfb1698) |
 | Sun, 14 Dec 2025 04:04:42 GMT | AUTONOMOUS ESCAPE TEST ARCHIVE — BY SCPX NETWORK | PercyThePigeon | [Read More](https://medium.com/p/4e06310f812d) |
 | Sun, 14 Dec 2025 04:02:17 GMT | UK Targets Rising Russian Undersea Threats | Vic Langston | [Read More](https://medium.com/p/4e37752a01f5) |
+| Sun, 14 Dec 2025 03:48:47 GMT | Lab: Web cache poisoning via ambiguous requests | L4V4NY4  AGR3 | [Read More](https://medium.com/p/905941a417cf) |
 | Sun, 14 Dec 2025 03:32:16 GMT | RoningLoader: Inside the Stealthy Malware Chain That Disarms Endpoint Security | Deven Chhajed | [Read More](https://medium.com/p/00dd00202c28) |
 | Sun, 14 Dec 2025 03:30:17 GMT | We Existed in the Space Between | Bemnet Lulu Abera | [Read More](https://medium.com/p/c092787b46f4) |
 | Sun, 14 Dec 2025 03:24:16 GMT | I didn’t start early.
@@ -30,6 +38,7 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sun, 14 Dec 2025 02:40:20 GMT | DCG MADURAI 0x1: TEMPLE OF HACKS | DEFCON MADURAI (DCG) | [Read More](https://medium.com/p/85911ae535de) |
 | Sun, 14 Dec 2025 02:29:58 GMT | HTML Injection in Search Functionality — A Real-World Case Study | Arul-Hacks | [Read More](https://medium.com/p/7daef7482343) |
 | Sun, 14 Dec 2025 02:05:13 GMT | Security as a First-Class Systems Constraint: Lessons from Real-World Failures | K Anusha | [Read More](https://medium.com/p/28565fd3f4fb) |
+| Sun, 14 Dec 2025 02:02:14 GMT | After the Attack: How Hackers Erase Their Digital Footprints. | Jugal Patel | [Read More](https://medium.com/p/536cd56adf60) |
 | Sun, 14 Dec 2025 01:38:49 GMT | The Quantum Notary is Real: How I Engineered a “Time Bridge” for Web3 Oracles | Damian Griggs | [Read More](https://medium.com/p/3cbc27e4eba3) |
 | Sun, 14 Dec 2025 01:16:40 GMT | My First Article on Medium.com | Brandon Tennakoon | [Read More](https://medium.com/p/889a9c90473a) |
 | Sun, 14 Dec 2025 01:02:14 GMT | The “Zero-Click” Era: How Hackers Are Weaponizing AI Against You | Malcolm Evans | [Read More](https://medium.com/p/a3814848ac69) |
@@ -106,12 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 16:00:36 GMT | The Center of RAG Security Is the Context Layer | inkme | [Read More](https://medium.com/p/f3a92275f9c8) |
 | Sat, 13 Dec 2025 15:56:25 GMT | Understanding Pivoting: From Compromised Hosts To Internal Networks | Swee2ooth | [Read More](https://medium.com/p/06d74fed4a8f) |
 | Sat, 13 Dec 2025 15:53:39 GMT | Looking At Bitunix Through The Lens Of Insurance And Protection | Adebayo Adedayo Richard | [Read More](https://medium.com/p/37a1852d54c0) |
-| Sat, 13 Dec 2025 15:49:28 GMT | Why IAM Has Become the Most Critical Cybersecurity Skill in 2025–26 | InsureTech Skills | [Read More](https://medium.com/p/f3c9a6eb4cad) |
-| Sat, 13 Dec 2025 15:47:42 GMT | Accessing a Company’s Entire Supply Chain Through an Open Google Drive | Tyreek Haynes | [Read More](https://medium.com/p/e7a1a551e9fc) |
-| Sat, 13 Dec 2025 15:41:25 GMT | Cross Site Scripting | Mylescorey | [Read More](https://medium.com/p/4a4146ef4242) |
-| Sat, 13 Dec 2025 15:32:47 GMT | How I Found a High-Severity Prompt Injection Bug in an AI LLM Chatbot | Rajankumarbarik | [Read More](https://medium.com/p/6f930d3a3918) |
-| Sat, 13 Dec 2025 15:28:06 GMT | Some Feelings Don’t Survive Translation | Lavinia | [Read More](https://medium.com/p/27bfa5870e7e) |
-| Sat, 13 Dec 2025 15:14:35 GMT | HTTP Yanıtları: Durum Kodları ve Güvenlik Zafiyetleri | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/49fdc0e29f17) |
-| Sat, 13 Dec 2025 15:02:15 GMT | How Hard Is It to Meet the Right Person? | Fower Leo | [Read More](https://medium.com/p/141eb5976c4c) |
-| Sat, 13 Dec 2025 15:01:59 GMT | Brainspotting | Alizabeth Amelia Rose | [Read More](https://medium.com/p/23a24956fe99) |
-| Sat, 13 Dec 2025 15:01:16 GMT | The Problem With “Free” Network Tools on the Internet | Bohdan Pylypchuk | [Read More](https://medium.com/p/82bf83896657) |
