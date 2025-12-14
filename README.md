@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 12:37:50 GMT | Gain Entry to GCP via GitLab Commit : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/9e42eaa99aaa) |
+| Sun, 14 Dec 2025 12:25:10 GMT | Is React Hacked? The Critical Vulnerability That Shook the React Ecosystem | Mert Gökhan Dönmez | [Read More](https://medium.com/p/2e97d47a3d92) |
+| Sun, 14 Dec 2025 12:24:13 GMT | The Python Metaclass Trick That Finally Makes Sense (And When You Actually Need It) | Rizqi Mulki | [Read More](https://medium.com/p/a0fb04964e05) |
+| Sun, 14 Dec 2025 12:22:43 GMT | Android App Security in 2026: Real-World Cybersecurity Practices Beyond HTTPS | Software Developer | [Read More](https://medium.com/p/095c7761660c) |
+| Sun, 14 Dec 2025 12:19:45 GMT | Windows Forensics Investigation and Analysis | Chinasachinasa | [Read More](https://medium.com/p/1634cc173847) |
+| Sun, 14 Dec 2025 12:12:22 GMT | How a Simple CORS Misconfiguration Put a Finance Platform at Risk | Abdulbar | [Read More](https://medium.com/p/052d188dd2eb) |
+| Sun, 14 Dec 2025 12:05:57 GMT | Forgetting These 11 Cybersecurity Threats Is A “Fool’s Nightmare” | Rishabh Shah | [Read More](https://medium.com/p/fa77e456e00d) |
+| Sun, 14 Dec 2025 12:05:25 GMT | Cloudsek CTF Writeup 2025 | popo | [Read More](https://medium.com/p/ef1f758ad7f0) |
+| Sun, 14 Dec 2025 12:05:15 GMT | Scanning Networks | Dante | [Read More](https://medium.com/p/39baa8c0c3d3) |
+| Sun, 14 Dec 2025 12:03:29 GMT | YARA Rules — YARA mean one! - Advent of Cyber 2025 Day 13 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/bf7d27cb2eb5) |
+| Sun, 14 Dec 2025 12:00:48 GMT | React4Shell Zaafiyeti Ve Analizi | Bilal Eski | [Read More](https://medium.com/p/39668559c156) |
+| Sun, 14 Dec 2025 11:53:50 GMT | I Didn’t Hack Anything — The App Gave Me Admin Access by Itself | Iski | [Read More](https://medium.com/p/532e72e92f44) |
+| Sun, 14 Dec 2025 11:53:26 GMT | Cross-Site Scripting (XSS) Saldırıları ve Korunma Yöntemleri | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/e0bbe8ab7136) |
+| Sun, 14 Dec 2025 11:45:48 GMT | Lab: User ID controlled by request parameter with password disclosure | Songül Kızılay Özügürler | [Read More](https://medium.com/p/582a70ad0300) |
+| Sun, 14 Dec 2025 11:45:37 GMT | Lab: User ID controlled by request parameter with data leakage in redirect | Songül Kızılay Özügürler | [Read More](https://medium.com/p/4ae70b603a16) |
+| Sun, 14 Dec 2025 11:45:00 GMT | What is Mobile Application Security Testing? | Beetles IO | [Read More](https://medium.com/p/16856998d551) |
 | Sun, 14 Dec 2025 11:36:06 GMT | React2Shell Explained: How a Critical React Server Components Vulnerability Exposed Next.js Apps | Mohammad Nawal Ali | [Read More](https://medium.com/p/17888a52a74c) |
 | Sun, 14 Dec 2025 11:29:48 GMT | The Way Life Goes. | TheTamiloreJenrola | [Read More](https://medium.com/p/85708f08b0ae) |
 | Sun, 14 Dec 2025 11:27:32 GMT | CEH v13 AI + SOC Analyst Combo: Year-End Sale | Manisha Chaudhary | [Read More](https://medium.com/p/ad5cdf836d8d) |
@@ -98,20 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 03:24:16 GMT | I didn’t start early.
 I didn’t have clarity.
 I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.com/p/ed6ea56bb304) |
-| Sun, 14 Dec 2025 03:17:55 GMT | The Industrialization of Deception: Why Human Trust is Your New Attack Surface | Shlok Kshirsagar | [Read More](https://medium.com/p/6aa62f8d5147) |
-| Sun, 14 Dec 2025 03:04:12 GMT | 80 Passwords, 100 Memberships, Endless Exhaustion: Why Is Digital Life So Chaotic? | Syrenka / Mürvet Günday | [Read More](https://medium.com/p/5c57dbae62c1) |
-| Sun, 14 Dec 2025 02:50:44 GMT | JAMMERS: FROM VILLAINS TO DEFENDERS — WHEN INTERFERING CAN HELP PROTECT | Joabe Emanuel Neundorff Kautnick | [Read More](https://medium.com/p/ab5efbc4f13c) |
-| Sun, 14 Dec 2025 02:45:03 GMT | TryHackMe “Stolen Mount” Write-up | Nick Gusto | [Read More](https://medium.com/p/0217ae93b5f9) |
-| Sun, 14 Dec 2025 02:40:20 GMT | DCG MADURAI 0x1: TEMPLE OF HACKS | DEFCON MADURAI (DCG) | [Read More](https://medium.com/p/85911ae535de) |
-| Sun, 14 Dec 2025 02:29:58 GMT | HTML Injection in Search Functionality — A Real-World Case Study | Arul-Hacks | [Read More](https://medium.com/p/7daef7482343) |
-| Sun, 14 Dec 2025 02:05:13 GMT | Security as a First-Class Systems Constraint: Lessons from Real-World Failures | K Anusha | [Read More](https://medium.com/p/28565fd3f4fb) |
-| Sun, 14 Dec 2025 02:02:14 GMT | After the Attack: How Hackers Erase Their Digital Footprints. | Jugal Patel | [Read More](https://medium.com/p/536cd56adf60) |
-| Sun, 14 Dec 2025 01:38:49 GMT | The Quantum Notary is Real: How I Engineered a “Time Bridge” for Web3 Oracles | Damian Griggs | [Read More](https://medium.com/p/3cbc27e4eba3) |
-| Sun, 14 Dec 2025 01:16:40 GMT | My First Article on Medium.com | Brandon Tennakoon | [Read More](https://medium.com/p/889a9c90473a) |
-| Sun, 14 Dec 2025 01:02:14 GMT | The “Zero-Click” Era: How Hackers Are Weaponizing AI Against You | Malcolm Evans | [Read More](https://medium.com/p/a3814848ac69) |
-| Sun, 14 Dec 2025 00:59:42 GMT | Departure | Chris Perkins | [Read More](https://medium.com/p/525049f52c23) |
-| Sun, 14 Dec 2025 00:50:48 GMT | Beyond the Firewall: Why Privacy-Enhancing Technologies (PETs) Are the Future of Data | Likitha Reddy | [Read More](https://medium.com/p/828fdd99c4f7) |
-| Sun, 14 Dec 2025 00:46:31 GMT | Digital Transformation Fails When Institutions Skip Readiness | Jared Hoertz, MBA, M.S. | [Read More](https://medium.com/p/873adce010e2) |
-| Sun, 14 Dec 2025 00:33:57 GMT | XRP’s Next $200 Billion Frontier: Introducing UISP – The Universal Identity Settlement Protocol
-… | Enigmatic | [Read More](https://medium.com/p/2a4b588a06dc) |
-| Sun, 14 Dec 2025 00:33:36 GMT | How Researchers Queried 100Million WhatsApp Numbers Per Hour (And What Changed) | Berend Watchus | [Read More](https://medium.com/p/f665e0bdb316) |
