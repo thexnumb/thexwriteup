@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 08:06:02 GMT | The Rise of Zero Trust: Why Companies No Longer Automatically ‘Trust’ Users or Devices. | Grace Chukwunta | [Read More](https://medium.com/p/bfb31d5922dd) |
+| Sun, 14 Dec 2025 08:06:01 GMT | Into the Abyss: The Essential Toolset for Dark Web OSINT and Monitoring | eRRoR | [Read More](https://medium.com/p/9f8c85322ebe) |
+| Sun, 14 Dec 2025 07:59:59 GMT | I Trusted the Bottle Because Humans Would Betray Me | Kohei | [Read More](https://medium.com/p/c1ce39ec4359) |
+| Sun, 14 Dec 2025 07:53:45 GMT | The Biggest Privacy Mistake People Make on Their Phones | Aj | [Read More](https://medium.com/p/0dfd7e902039) |
+| Sun, 14 Dec 2025 07:50:56 GMT | How IT Service Companies Structure Their Delivery Models for Better Results AVA Technology | @itservicesguide | [Read More](https://medium.com/p/0e35b5a31be1) |
+| Sun, 14 Dec 2025 07:50:48 GMT | Why Software Licensing Is Becoming A Key Cybersecurity Factor? | Brendakelly | [Read More](https://medium.com/p/fd3d4db6993a) |
 | Sun, 14 Dec 2025 07:33:10 GMT | Top 10 Essential Cybersecurity Skills for Cybersecurity Analysts in 2026 | cyber security Updates | [Read More](https://medium.com/p/a9cb5eafec63) |
 | Sun, 14 Dec 2025 07:32:24 GMT | I Watched My Own Living Room on the Dark Web | Andrew Whitely | [Read More](https://medium.com/p/dc1a2dbe742c) |
 | Sun, 14 Dec 2025 07:32:16 GMT | Ethical Hacking for AI Before Attackers Do | Duckweave | [Read More](https://medium.com/p/ab1b7068f433) |
@@ -109,9 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 18:16:45 GMT | Editor — HackTheBox | Mustafa Abdullah | [Read More](https://medium.com/p/85505c6dd0c4) |
 | Sat, 13 Dec 2025 18:14:21 GMT | RECOVERING FROM ONLINE INVESTMENT SCAMS: HIRE SOLACE CYBER WORKSTATIONS | Jonathan Saltman | [Read More](https://medium.com/p/d34ccbedf4cd) |
 | Sat, 13 Dec 2025 18:09:28 GMT | :  ’ | Souravmookherjee | [Read More](https://medium.com/p/14fc4a0ef08d) |
-| Sat, 13 Dec 2025 18:08:58 GMT | Explication des Fonctionnalités : | Roothackeer | [Read More](https://medium.com/p/08c8a03faf8b) |
-| Sat, 13 Dec 2025 17:55:53 GMT | # I Found RCE in Production MCP Servers — So I Built a Scanner | Teycir | [Read More](https://medium.com/p/fd17f2213cf7) |
-| Sat, 13 Dec 2025 17:54:50 GMT | AWS Security in 2025: What Actually Changed and Why It Matters | Neeraj Sharma | [Read More](https://medium.com/p/78d2621487fc) |
-| Sat, 13 Dec 2025 17:52:25 GMT | When Your SIM Is No Longer Yours: How SIM and eSIM Cloning Enables Invisible Phone Spying | Daretoexpose | [Read More](https://medium.com/p/ffd62387bf00) |
-| Sat, 13 Dec 2025 17:49:54 GMT | Web Proxy | declan | [Read More](https://medium.com/p/d372f006b193) |
-| Sat, 13 Dec 2025 17:41:04 GMT | When “Being Strong” Becomes the Mask That’s Hardest to Take Off | Jenna Jeff | [Read More](https://medium.com/p/8444713c7617) |
