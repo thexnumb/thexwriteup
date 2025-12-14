@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 06:17:44 GMT | Implementing TOTP-Based Multi-Factor Authentication in Symfony 7 | Edgaras | [Read More](https://medium.com/p/e186df051dc8) |
+| Sun, 14 Dec 2025 06:10:26 GMT | MY KIDNAPPING EXPERIENCE ON 29th NOVEMBER ALONG AT UGWUGO NIKE OPI NSUKKA ROAD ENUGU STATE. | MOSES ABEL | [Read More](https://medium.com/p/871574e32ff9) |
+| Sun, 14 Dec 2025 06:09:44 GMT | SOC FUNDAMENTALS: Detection, Response, and the SOC Pillars | ARCHANA P | [Read More](https://medium.com/p/01d74d7430b3) |
+| Sun, 14 Dec 2025 06:02:15 GMT | U.S. Identified 24 Russian Spies in Mexico — and Mexico Let Them Stay | Vic Langston | [Read More](https://medium.com/p/f35b6a279265) |
+| Sun, 14 Dec 2025 05:54:20 GMT | YARA Rules — YARA mean one! — Writeup(DAY 13— Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/7dd7275c91bc) |
 | Sun, 14 Dec 2025 05:34:08 GMT | Mobile Proxy Sticky Sessions: Reduce Account Checkpoints Without Mid-Flow IP Changes | CoinZenith | [Read More](https://medium.com/p/0774867252d9) |
 | Sun, 14 Dec 2025 05:26:27 GMT | Practical Virtualization: Hosting and Hardening a Minecraft Server in VirtualBox | Declan | [Read More](https://medium.com/p/9ed55dcc9fd0) |
 | Sun, 14 Dec 2025 05:18:52 GMT | Why Traditional SIEM Is Dying — And How ClickHouse + AI Is Replacing It | Pranav Dixit | [Read More](https://medium.com/p/a09ddcb19d44) |
@@ -110,8 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 17:28:11 GMT | What Your Cracks Reveal About You (When You Finally Pay Attention) | Alessandro Capraro | [Read More](https://medium.com/p/d45e9a7e2508) |
 | Sat, 13 Dec 2025 17:26:58 GMT | AFI™ – Architectural Feature Isolation | Shawnn carter | [Read More](https://medium.com/p/26b80c4f0c8a) |
 | Sat, 13 Dec 2025 17:16:21 GMT | TCS Hack Quest Season 10 — CTF Write‑Up | rajasekharyarava | [Read More](https://medium.com/p/8ad8796988d5) |
-| Sat, 13 Dec 2025 16:56:42 GMT | The career paths of the IT Architect. | Mohammed Brückner | [Read More](https://medium.com/p/b30b1015bb91) |
-| Sat, 13 Dec 2025 16:50:30 GMT | Defending Systems Through Ethical Hacking | Nyra | [Read More](https://medium.com/p/92310844bd09) |
-| Sat, 13 Dec 2025 16:27:10 GMT | How I Bypassed Voucher Limits Using a Race Condition Vulnerability | Danish Ahmed | [Read More](https://medium.com/p/4cc3b192a5b1) |
-| Sat, 13 Dec 2025 16:07:59 GMT | How AI Will Replace Tasks — Not Jobs | Senthil Jaganathan | [Read More](https://medium.com/p/bc232789e808) |
-| Sat, 13 Dec 2025 16:02:15 GMT | CIA Triad: The Backbone of Information Security | Shayaan Khan | [Read More](https://medium.com/p/f15dc2e2548d) |
