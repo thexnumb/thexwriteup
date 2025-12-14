@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 17:32:20 GMT | When AI Agents Break the Browser Sandbox: Indirect Prompt Injection, Tainted Memory, and the… | Mammoth Cyber | [Read More](https://medium.com/p/b292604b9559) |
+| Sun, 14 Dec 2025 17:22:16 GMT | Ağ Temelleri: OSI ve TCP/IP Modeli | Melih Yalnız | [Read More](https://medium.com/p/288d0aa04319) |
 | Sun, 14 Dec 2025 17:12:32 GMT | How I Discovered a Single Sign-On Chain Break Through a Weak Authentication Flow in an Enterprise… | Abhishek Kumar | [Read More](https://medium.com/p/3b5d0a39379c) |
 | Sun, 14 Dec 2025 17:02:19 GMT | I Waited. He Hesitated. Nothing Happened. | Pratibha Singh | [Read More](https://medium.com/p/5ae007952367) |
 | Sun, 14 Dec 2025 16:58:38 GMT | Setting up Samba Securely | Angelo Sebastian | [Read More](https://medium.com/p/14138ee5c7e2) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 10:31:20 GMT | Day 132 — Narnia Level-6 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/a743eef89287) |
 | Sun, 14 Dec 2025 10:29:22 GMT | Camera Surveillance Systems | Square Security Inc. | [Read More](https://medium.com/p/11281ea8935f) |
 | Sun, 14 Dec 2025 10:28:03 GMT | Windows Services Architecture | Reeti Agarwal | [Read More](https://medium.com/p/f6b78997467f) |
-| Sun, 14 Dec 2025 10:27:35 GMT | The Developer’s Speed is the CISO’s Bill: Why We Need to Fix Code, Not Just Block Attacks | WayneReidUK | [Read More](https://medium.com/p/8bc0e2b662cf) |
-| Sun, 14 Dec 2025 10:22:10 GMT | If Identity Collapses, Everything Collapses: “Identity Plane” Architecture in Modern Systems and… | Umut Akbulut | [Read More](https://medium.com/p/21fc3427447f) |
