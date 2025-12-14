@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 11:12:21 GMT | How Social Bots Manipulate Public Opinion | STCLab, Inc. | [Read More](https://medium.com/p/67a7e9f71b20) |
+| Sun, 14 Dec 2025 11:05:39 GMT | Day 14 — Network Boundary Monitoring (Watched from the Woods) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/ebe1719b39e7) |
+| Sun, 14 Dec 2025 10:52:51 GMT | Google Antigravity’s Sandbox Isn’t Real, a Symlink Proved It | MaanVader | [Read More](https://medium.com/p/d57264a8b040) |
 | Sun, 14 Dec 2025 10:32:54 GMT | In the hidden layers of the internet, where identities dissolve into code and silence speaks… | David HX | [Read More](https://medium.com/p/5a4df2d6b1b7) |
 | Sun, 14 Dec 2025 10:32:49 GMT | Hack Smarter, Not Harder: How AI Is Changing the Way We Learn Cybersecurity | Ai Founder Lab | [Read More](https://medium.com/p/08fa5a0dac35) |
 | Sun, 14 Dec 2025 10:31:20 GMT | Day 132 — Narnia Level-6 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/a743eef89287) |
@@ -21,6 +24,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 10:22:10 GMT | If Identity Collapses, Everything Collapses: “Identity Plane” Architecture in Modern Systems and… | Umut Akbulut | [Read More](https://medium.com/p/21fc3427447f) |
 | Sun, 14 Dec 2025 10:20:50 GMT | Is X-Bow the End of Security Analysts? How AI Is Reshaping Bug Hunting ⚔️ | Krish_cyber | [Read More](https://medium.com/p/cbbc8fe6dc38) |
 | Sun, 14 Dec 2025 10:17:48 GMT | Kimlik Çökerse Her Şey Çöker – Modern Sistemlerde “Identity Plane” Mimarisi ve Geri Dönüşü Olmayan… | Umut Akbulut | [Read More](https://medium.com/p/ffcea5f49b0c) |
+| Sun, 14 Dec 2025 10:08:08 GMT | Battleground Superbug | Ajmal Shah | [Read More](https://medium.com/p/1ca54050b2d6) |
 | Sun, 14 Dec 2025 10:07:05 GMT | Domain Name Security Basics — How to Protect Your Domain Name? | Recep Serit | [Read More](https://medium.com/p/320aa417876c) |
 | Sun, 14 Dec 2025 10:05:21 GMT | Flipper Zero in 2025–2026: Why Cybersecurity Professionals Are Paying Serious Attention ️ | Krish_cyber | [Read More](https://medium.com/p/fdead990d38c) |
 | Sun, 14 Dec 2025 10:02:58 GMT | I Stopped Hacking Manually and Started Automating (And Why Report Writing is Everything) | Janhvee Laad | [Read More](https://medium.com/p/a5a985e66edd) |
@@ -111,7 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sun, 14 Dec 2025 00:12:28 GMT | Democracy vs. Hybrid War: When Emergency Logic Becomes Normal | Lassi Leivo | [Read More](https://medium.com/p/1a64a74e5667) |
 | Sun, 14 Dec 2025 00:05:22 GMT | Post 5: Mary’s IT Application | SattiData | [Read More](https://medium.com/p/dcff62077774) |
 | Sat, 13 Dec 2025 23:54:19 GMT | The Western Internet Is Cracking | Moisés Cabello | [Read More](https://medium.com/p/3b73fb273333) |
-| Sat, 13 Dec 2025 23:51:43 GMT | JAMMERS: DE VILÕES A DEFENSORES — QUANDO INTERFERIR PODE AJUDAR A PROTEGER | Joabe Emanuel Neundorff Kautnick | [Read More](https://medium.com/p/13a5bc0a979e) |
-| Sat, 13 Dec 2025 23:46:05 GMT | Networking concepts that every software engineer should know | Satish Alturu | [Read More](https://medium.com/p/646dcd24ed6b) |
-| Sat, 13 Dec 2025 23:16:35 GMT | How I met Claude Shannon | Alan Greenspan | [Read More](https://medium.com/p/c49bd4370317) |
-| Sat, 13 Dec 2025 23:01:20 GMT | Palestinian Freelancers: The Rising Talent Pool Every Business Should Consider | Apricot International | [Read More](https://medium.com/p/cb41d7c4b866) |
