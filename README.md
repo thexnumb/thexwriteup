@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 15:15:07 GMT | MeetCyber Women Coffee Circles | MeetCyber Editor | [Read More](https://medium.com/p/34ca86c5d75b) |
+| Sun, 14 Dec 2025 15:13:50 GMT | Practical CSRF Protection for Cookie-Based APIs | Nitish Mehta | [Read More](https://medium.com/p/691463f6d654) |
+| Sun, 14 Dec 2025 15:02:22 GMT | How to Integrate Spring Boot 3 with Aws Secret Manager and Parameter Store Using AWS SDK v2 | Fahim Fahad | [Read More](https://medium.com/p/390a59cfdbae) |
+| Sun, 14 Dec 2025 14:58:36 GMT | YARA Rules — YARA mean one!-Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/457593bd68c5) |
+| Sun, 14 Dec 2025 14:49:54 GMT | My Pull Request to OpenPrinting Got Merged: Fixing SpliX Driver Metadata | Ayush Singh | [Read More](https://medium.com/p/23558cb44dfc) |
+| Sun, 14 Dec 2025 14:42:17 GMT | Why Cybersecurity Conferences Don’t Actually Make You Safer | Cyberkech | [Read More](https://medium.com/p/31cc3b1b4ecd) |
+| Sun, 14 Dec 2025 14:41:54 GMT | Why Hackers Love thefuck: The Terminal Weapon You Didn’t Know You Needed | ghostyjoe | [Read More](https://medium.com/p/f45fa6726749) |
+| Sun, 14 Dec 2025 14:37:58 GMT | Capítulo 16 — A Invasão dos Bugs Gigantes | Kleber Andrade | [Read More](https://medium.com/p/c512a02653b6) |
 | Sun, 14 Dec 2025 14:37:03 GMT | ️‍♂️ RAT Malware Explained: How Hackers Take Remote Control of Your Device | Natarajan C K | [Read More](https://medium.com/p/9b5bfa635a94) |
 | Sun, 14 Dec 2025 14:34:26 GMT | Why I Don’t Teach Hacking the “Responsible” Way | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e0314d84aa4a) |
 | Sun, 14 Dec 2025 14:32:17 GMT | (Comptia A+) Understanding Social Engineering: How to Protect Yourself and Your Organization | Vignesh R | [Read More](https://medium.com/p/077a94d825e5) |
+| Sun, 14 Dec 2025 14:31:09 GMT | Exploiting Logic Flaw to Bypass Payment Using Fractional Quantities | Hamzadzworm | [Read More](https://medium.com/p/e2f62aa512fb) |
 | Sun, 14 Dec 2025 14:28:04 GMT | Hardening an Existing MongoDB Sharded Cluster with Keyfile Authentication | Mai Hoang Viet | [Read More](https://medium.com/p/20944afd13b1) |
 | Sun, 14 Dec 2025 14:20:43 GMT | Day 12: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/02a5eeb7ba8f) |
 | Sun, 14 Dec 2025 14:13:40 GMT | Graphical Password Authentication: How Picture Perfect Passwords can enhance Security | Rohit Kumar Singh | [Read More](https://medium.com/p/ba973a8230db) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 07:59:59 GMT | I Trusted the Bottle Because Humans Would Betray Me | Kohei | [Read More](https://medium.com/p/c1ce39ec4359) |
 | Sun, 14 Dec 2025 07:53:45 GMT | The Biggest Privacy Mistake People Make on Their Phones | Aj | [Read More](https://medium.com/p/0dfd7e902039) |
 | Sun, 14 Dec 2025 07:50:56 GMT | How IT Service Companies Structure Their Delivery Models for Better Results AVA Technology | @itservicesguide | [Read More](https://medium.com/p/0e35b5a31be1) |
-| Sun, 14 Dec 2025 07:50:48 GMT | Why Software Licensing Is Becoming A Key Cybersecurity Factor? | Brendakelly | [Read More](https://medium.com/p/fd3d4db6993a) |
-| Sun, 14 Dec 2025 07:33:10 GMT | Top 10 Essential Cybersecurity Skills for Cybersecurity Analysts in 2026 | cyber security Updates | [Read More](https://medium.com/p/a9cb5eafec63) |
-| Sun, 14 Dec 2025 07:32:24 GMT | I Watched My Own Living Room on the Dark Web | Andrew Whitely | [Read More](https://medium.com/p/dc1a2dbe742c) |
-| Sun, 14 Dec 2025 07:32:16 GMT | Ethical Hacking for AI Before Attackers Do | Duckweave | [Read More](https://medium.com/p/ab1b7068f433) |
-| Sun, 14 Dec 2025 07:11:55 GMT | Securing MCP Servers for Agentic AI: A Practical Guide to MCP Security, Authorization, and Runtime… | NetJoints | [Read More](https://medium.com/p/c50b8dfe6113) |
-| Sun, 14 Dec 2025 06:54:31 GMT | Red Teaming AI Models: 12 Jailbreak Techniques Every Security Pro Should Master | Very Lazy Tech | [Read More](https://medium.com/p/9f380ce329c4) |
-| Sun, 14 Dec 2025 06:50:15 GMT | Endpoint Threat Hunting: Proactive Detection on Windows, Linux, and macOS | Andrey Pautov | [Read More](https://medium.com/p/f892d9b8a113) |
-| Sun, 14 Dec 2025 06:42:32 GMT | Apple Confirms iPhone Attacks All Users Must Update Now | Moni | [Read More](https://medium.com/p/20d9244016c3) |
-| Sun, 14 Dec 2025 06:37:06 GMT | My Bug Bounty Diary | Janhvee Laad | [Read More](https://medium.com/p/4b0a78bdf7c9) |
