@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 16:12:27 GMT | When HIPAA Meets AI: The Critical Gap Healthcare Organizations Can’t Afford to Ignore | Travis-ML | [Read More](https://medium.com/p/c051416d7262) |
+| Sun, 14 Dec 2025 16:06:24 GMT | Getting Started in Cybersecurity: My First Steps into Offensive Security | Rudraksh Yadav | [Read More](https://medium.com/p/1500c09bfb7b) |
+| Sun, 14 Dec 2025 15:59:03 GMT | Day 1 of Learning C — Laying the First Brick Toward My Own Operating System | Rohit Prajapati | [Read More](https://medium.com/p/19bd1c8709ac) |
+| Sun, 14 Dec 2025 15:56:12 GMT | Why Cisco CCNA Still Matters in Today’s IT World | Joshuaa Smi | [Read More](https://medium.com/p/81aab094eec3) |
+| Sun, 14 Dec 2025 15:52:25 GMT | The Day I Found an Exposed Google Cloud Service Account Key in a Production JS File — And How… | Anshubind | [Read More](https://medium.com/p/6ee42010e638) |
+| Sun, 14 Dec 2025 15:51:47 GMT | When I Found a Hardcoded Sentry Token in a JS Bundle — And Got the Classic “Already a Known… | Anshubind | [Read More](https://medium.com/p/de0fbc34680a) |
+| Sun, 14 Dec 2025 15:50:15 GMT | Network Traffic Basics — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/5ba400fdadb0) |
+| Sun, 14 Dec 2025 15:48:22 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 8: DC-9 | Shikhar Sinha | [Read More](https://medium.com/p/7688ad3578e8) |
+| Sun, 14 Dec 2025 15:47:00 GMT | My eCPPTv3 Exam Experience — A Real Test of Manual Pentesting Skills | Anand Jogawade | [Read More](https://medium.com/p/febdce44d95f) |
+| Sun, 14 Dec 2025 15:46:56 GMT | AI Series Ep. 5 — Your own Pentest Agent with Python and Open WebUI all local | Michael Harms | [Read More](https://medium.com/p/9648ade0f37a) |
+| Sun, 14 Dec 2025 15:45:48 GMT | Intelligent or Not? The Current State of Artificial Intelligence and Enterprise Architecture | Jake | [Read More](https://medium.com/p/95c68698138e) |
+| Sun, 14 Dec 2025 15:42:40 GMT | From Theory to Terminal: My Hands-On Journey as a Security Analyst Intern with Oasis Infobyte | Azizurrehman | [Read More](https://medium.com/p/d9c124a679a1) |
+| Sun, 14 Dec 2025 15:41:08 GMT | [論文筆記] 為什麼「詩歌」成了 LLM 的越獄密碼？解析 Adversarial Poetry 攻擊 | Joe Hsu | [Read More](https://medium.com/p/c08c1da108de) |
 | Sun, 14 Dec 2025 15:36:39 GMT | Padelify CTF Write-up: When WAFs play padel and lose | Telynor | [Read More](https://medium.com/p/4d3fd6dcee6f) |
+| Sun, 14 Dec 2025 15:35:07 GMT | ShieldCommit: How Real Cloud Mistakes Inspired Me to Build a Simple Security Tool | Krishna Fattepurkar | [Read More](https://medium.com/p/107c71d5516f) |
+| Sun, 14 Dec 2025 15:34:20 GMT | ICML 2025 - The “Art of Balance” in Federated Learning: The FedCEO Framework Cracks the Dilemma of… | Yuecheng Li | [Read More](https://medium.com/p/326c9d8bd5fe) |
+| Sun, 14 Dec 2025 15:34:12 GMT | Visualizing Wazuh Detection Coverage with MITRE ATT&CK (Hands-On) | Analystx30 | [Read More](https://medium.com/p/1bbc2d30946c) |
 | Sun, 14 Dec 2025 15:30:43 GMT | Cybersecurity Writing Pays More Than You Think | Muhammad Haider Tallal | [Read More](https://medium.com/p/ddaea703d591) |
 | Sun, 14 Dec 2025 15:15:07 GMT | MeetCyber Women Coffee Circles | MeetCyber Editor | [Read More](https://medium.com/p/34ca86c5d75b) |
 | Sun, 14 Dec 2025 15:13:50 GMT | Practical CSRF Protection for Cookie-Based APIs | Nitish Mehta | [Read More](https://medium.com/p/691463f6d654) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 09:31:56 GMT | Implementing secure webhooks: producer and consumer perspectives | Akash | [Read More](https://medium.com/p/8522af31f048) |
 | Sun, 14 Dec 2025 09:27:56 GMT | Assume Privileged Role with External ID : Pwned-Labs Walkthrough Part 2 | Maverick | [Read More](https://medium.com/p/bcc67a223c65) |
 | Sun, 14 Dec 2025 09:22:41 GMT | The Quiet Cost of Survival Mode | Raissa Maharani | [Read More](https://medium.com/p/50d74e5f62b5) |
-| Sun, 14 Dec 2025 09:18:03 GMT | The End of America’s Global Mission: | Diplomat Dialogues | [Read More](https://medium.com/p/9379a977eab7) |
-| Sun, 14 Dec 2025 09:13:00 GMT | 7 Urgent GeoServer CVE-2025–58360 Fix Steps | Pentest_Testing_Corp | [Read More](https://medium.com/p/2c26188fac7e) |
-| Sun, 14 Dec 2025 09:03:18 GMT | PortSwigger: “Information Disclosure” otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/9002c391dd76) |
-| Sun, 14 Dec 2025 08:59:54 GMT | The Hidden Cost of Illegal Call Centers | Maha Khalid | [Read More](https://medium.com/p/a4b5383beb81) |
-| Sun, 14 Dec 2025 08:49:52 GMT | Stop Investigating Endpoints Like It’s 2015: A Free Roadmap to Becoming a Cloud SOC Analyst | Motasem Hamdan | [Read More](https://medium.com/p/5e2555dd6f09) |
-| Sun, 14 Dec 2025 08:46:59 GMT | JWT 簡介 | Jesshsieh | [Read More](https://medium.com/p/e7b2cc6dc2b9) |
-| Sun, 14 Dec 2025 08:45:54 GMT | Seeking Cyber Security Help Visit Legitimate Hacking Organisation I Recommend Santoshi Hackers For… | Richardcarol | [Read More](https://medium.com/p/7c7f5f115687) |
-| Sun, 14 Dec 2025 08:44:41 GMT | Lockheed Martin’s Cyber Kill Chain: A Practical Guide for Aspiring Security Professionals | Cyberbali | [Read More](https://medium.com/p/0e665cb9a4a8) |
-| Sun, 14 Dec 2025 08:43:05 GMT | Xyra’s Approach to Protecting User Funds: Lessons from a Recent Bridge Exploit. | Deborah John | [Read More](https://medium.com/p/2a4b77229f6a) |
-| Sun, 14 Dec 2025 08:37:01 GMT | Why Genuine Software Is the Foundation of Secure Computing? | LanaPeterson | [Read More](https://medium.com/p/ac4c6562b0e6) |
-| Sun, 14 Dec 2025 08:35:06 GMT | Guide to Authentication and Session Management Vulnerabilities | rr-1k | [Read More](https://medium.com/p/139e423af513) |
-| Sun, 14 Dec 2025 08:32:15 GMT | Trust Without a Boss: Reputation in Decentralized Nets | Vectorlane | [Read More](https://medium.com/p/77608f252ae0) |
-| Sun, 14 Dec 2025 08:30:56 GMT | Building a Real-Time AI-Based Voice Scam Detector | Kanika Im-erb | [Read More](https://medium.com/p/61f2d8881d14) |
-| Sun, 14 Dec 2025 08:06:02 GMT | The Rise of Zero Trust: Why Companies No Longer Automatically ‘Trust’ Users or Devices. | Grace Chukwunta | [Read More](https://medium.com/p/bfb31d5922dd) |
-| Sun, 14 Dec 2025 08:06:01 GMT | Into the Abyss: The Essential Toolset for Dark Web OSINT and Monitoring | eRRoR | [Read More](https://medium.com/p/9f8c85322ebe) |
-| Sun, 14 Dec 2025 07:59:59 GMT | I Trusted the Bottle Because Humans Would Betray Me | Kohei | [Read More](https://medium.com/p/c1ce39ec4359) |
