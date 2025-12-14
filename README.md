@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 07:33:10 GMT | Top 10 Essential Cybersecurity Skills for Cybersecurity Analysts in 2026 | cyber security Updates | [Read More](https://medium.com/p/a9cb5eafec63) |
+| Sun, 14 Dec 2025 07:32:24 GMT | I Watched My Own Living Room on the Dark Web | Andrew Whitely | [Read More](https://medium.com/p/dc1a2dbe742c) |
+| Sun, 14 Dec 2025 07:32:16 GMT | Ethical Hacking for AI Before Attackers Do | Duckweave | [Read More](https://medium.com/p/ab1b7068f433) |
+| Sun, 14 Dec 2025 07:11:55 GMT | Securing MCP Servers for Agentic AI: A Practical Guide to MCP Security, Authorization, and Runtime… | NetJoints | [Read More](https://medium.com/p/c50b8dfe6113) |
 | Sun, 14 Dec 2025 06:54:31 GMT | Red Teaming AI Models: 12 Jailbreak Techniques Every Security Pro Should Master | Very Lazy Tech | [Read More](https://medium.com/p/9f380ce329c4) |
 | Sun, 14 Dec 2025 06:50:15 GMT | Endpoint Threat Hunting: Proactive Detection on Windows, Linux, and macOS | Andrey Pautov | [Read More](https://medium.com/p/f892d9b8a113) |
 | Sun, 14 Dec 2025 06:42:32 GMT | Apple Confirms iPhone Attacks All Users Must Update Now | Moni | [Read More](https://medium.com/p/20d9244016c3) |
@@ -111,7 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 17:52:25 GMT | When Your SIM Is No Longer Yours: How SIM and eSIM Cloning Enables Invisible Phone Spying | Daretoexpose | [Read More](https://medium.com/p/ffd62387bf00) |
 | Sat, 13 Dec 2025 17:49:54 GMT | Web Proxy | declan | [Read More](https://medium.com/p/d372f006b193) |
 | Sat, 13 Dec 2025 17:41:04 GMT | When “Being Strong” Becomes the Mask That’s Hardest to Take Off | Jenna Jeff | [Read More](https://medium.com/p/8444713c7617) |
-| Sat, 13 Dec 2025 17:37:39 GMT | How Zero Knowledge Blockchain Technology Is Redefining Privacy, Scalability, and Trust in… | Emmanuel Nwidemua | [Read More](https://medium.com/p/43d823baec4c) |
-| Sat, 13 Dec 2025 17:35:30 GMT | Building a Hands-On SOC Lab with Splunk: From Ubuntu Server to Live Windows Telemetry | Vivektumma27 | [Read More](https://medium.com/p/b04eeb55d724) |
-| Sat, 13 Dec 2025 17:33:25 GMT | Deepfake risk, and how Coalition’s new coverage helps protect your business | Marc Matthew Mason | [Read More](https://medium.com/p/c32e1f457a2e) |
-| Sat, 13 Dec 2025 17:32:19 GMT | I Watched an AI Hack Stanford’s Network for $18/Hour. Here’s Why the Headlines Got It Wrong. | Kuldeepsinh Jadeja | [Read More](https://medium.com/p/bb98d9619ba1) |
