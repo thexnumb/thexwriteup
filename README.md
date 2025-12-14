@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 21:12:08 GMT | Getting Started with AI Red Teaming: Breaking AI Before It Breaks Us | Ty cummings | [Read More](https://medium.com/p/d552dd62ab66) |
+| Sun, 14 Dec 2025 21:02:46 GMT | I Found One Bug and Made $9,750 | Codi | [Read More](https://medium.com/p/e0f0ac179b1a) |
+| Sun, 14 Dec 2025 21:02:15 GMT | A Hidden Line of Text Can Hijack an AI — No Clicks, No Malware, Just Words | AhmedAbdelmenem | [Read More](https://medium.com/p/54fa716894f4) |
+| Sun, 14 Dec 2025 21:01:11 GMT | TryHackMe - Dunkle Materie Write-Up | Jigit | [Read More](https://medium.com/p/b37cbb0860c0) |
+| Sun, 14 Dec 2025 20:56:19 GMT | The Clean Code Betrayal: Compiler Optimization’s Silent Kill | Batuhan Sancak | [Read More](https://medium.com/p/ab8c58f09bf6) |
 | Sun, 14 Dec 2025 20:30:54 GMT | Hunter by HackSmarter Labs Walkthrough | Muhammad Usman Faridi | [Read More](https://medium.com/p/dbe435b4a8ee) |
 | Sun, 14 Dec 2025 20:26:39 GMT | The secret rulebook behind every tap-and-go payment (Part 4) | Ryan Aminollahi | [Read More](https://medium.com/p/f67d852fa9f9) |
 | Sun, 14 Dec 2025 20:05:06 GMT | Reflected XSS in blog search | aiden | [Read More](https://medium.com/p/f0b5abffb8b2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 13:10:48 GMT | MiniSOC - Dijital Kale Projesini Neden Geliştiriyorum? | Hakan ÇEVİK | [Read More](https://medium.com/p/4fa40d61d2e4) |
 | Sun, 14 Dec 2025 13:03:01 GMT | How Companies Decide Between In-House and Outsourced Development | Jyoti Joshi | [Read More](https://medium.com/p/49ad22a02395) |
 | Sun, 14 Dec 2025 12:59:16 GMT | GRC and AI GOVERNANCE | Adeoluwa Obadofin | [Read More](https://medium.com/p/bdc4b2e79878) |
-| Sun, 14 Dec 2025 12:59:09 GMT | What I learned in my first experience in GRC — ISO27001:2022 | Mahad Aqeel | [Read More](https://medium.com/p/d7c1b378c047) |
-| Sun, 14 Dec 2025 12:47:45 GMT | How Local Knowledge Gives Brampton Security Guards an Advantage | Diligent Security Services | [Read More](https://medium.com/p/fb7bb0449b2b) |
-| Sun, 14 Dec 2025 12:43:50 GMT | Securing a Kenyan SACCO from Zero [Part 1 of 6] | Munaniadeno | [Read More](https://medium.com/p/d873d88a449d) |
-| Sun, 14 Dec 2025 12:43:42 GMT | Part 3: How Adversarial Attacks Break AI Models | Faysal Dhimbil | [Read More](https://medium.com/p/ab7b1a8fb030) |
-| Sun, 14 Dec 2025 12:37:50 GMT | Gain Entry to GCP via GitLab Commit : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/9e42eaa99aaa) |
