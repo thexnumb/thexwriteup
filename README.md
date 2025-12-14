@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 11:36:06 GMT | React2Shell Explained: How a Critical React Server Components Vulnerability Exposed Next.js Apps | Mohammad Nawal Ali | [Read More](https://medium.com/p/17888a52a74c) |
+| Sun, 14 Dec 2025 11:29:48 GMT | The Way Life Goes. | TheTamiloreJenrola | [Read More](https://medium.com/p/85708f08b0ae) |
+| Sun, 14 Dec 2025 11:27:32 GMT | CEH v13 AI + SOC Analyst Combo: Year-End Sale | Manisha Chaudhary | [Read More](https://medium.com/p/ad5cdf836d8d) |
+| Sun, 14 Dec 2025 11:23:37 GMT | From Static to Synthetic: The Transformation of Cyber Forensics in the AI Era | Kristel Mae Lim | [Read More](https://medium.com/p/301782a61a5a) |
+| Sun, 14 Dec 2025 11:15:45 GMT | Lock Down Your Digital Life for $0: The Ultimate Free Cybersecurity Guide | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/213f5542c665) |
 | Sun, 14 Dec 2025 11:12:21 GMT | How Social Bots Manipulate Public Opinion | STCLab, Inc. | [Read More](https://medium.com/p/67a7e9f71b20) |
 | Sun, 14 Dec 2025 11:05:39 GMT | Day 14 — Network Boundary Monitoring (Watched from the Woods) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/ebe1719b39e7) |
 | Sun, 14 Dec 2025 10:52:51 GMT | Google Antigravity’s Sandbox Isn’t Real, a Symlink Proved It | MaanVader | [Read More](https://medium.com/p/d57264a8b040) |
@@ -110,8 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sun, 14 Dec 2025 00:33:57 GMT | XRP’s Next $200 Billion Frontier: Introducing UISP – The Universal Identity Settlement Protocol
 … | Enigmatic | [Read More](https://medium.com/p/2a4b588a06dc) |
 | Sun, 14 Dec 2025 00:33:36 GMT | How Researchers Queried 100Million WhatsApp Numbers Per Hour (And What Changed) | Berend Watchus | [Read More](https://medium.com/p/f665e0bdb316) |
-| Sun, 14 Dec 2025 00:27:26 GMT | Jailbreaking: One Method, Three Applications. | Berend Watchus | [Read More](https://medium.com/p/f25f3bda0d74) |
-| Sun, 14 Dec 2025 00:25:57 GMT | Indirect Prompt Injection and the Enterprise AI Browser — A Zero Trust Perspective | Mammoth Cyber | [Read More](https://medium.com/p/dade596be0ac) |
-| Sun, 14 Dec 2025 00:12:28 GMT | Democracy vs. Hybrid War: When Emergency Logic Becomes Normal | Lassi Leivo | [Read More](https://medium.com/p/1a64a74e5667) |
-| Sun, 14 Dec 2025 00:05:22 GMT | Post 5: Mary’s IT Application | SattiData | [Read More](https://medium.com/p/dcff62077774) |
-| Sat, 13 Dec 2025 23:54:19 GMT | The Western Internet Is Cracking | Moisés Cabello | [Read More](https://medium.com/p/3b73fb273333) |
