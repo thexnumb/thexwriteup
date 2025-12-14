@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 09:03:18 GMT | PortSwigger: “Information Disclosure” otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/9002c391dd76) |
+| Sun, 14 Dec 2025 08:59:54 GMT | The Hidden Cost of Illegal Call Centers | Maha Khalid | [Read More](https://medium.com/p/a4b5383beb81) |
+| Sun, 14 Dec 2025 08:49:52 GMT | Stop Investigating Endpoints Like It’s 2015: A Free Roadmap to Becoming a Cloud SOC Analyst | Motasem Hamdan | [Read More](https://medium.com/p/5e2555dd6f09) |
 | Sun, 14 Dec 2025 08:46:59 GMT | JWT 簡介 | Jesshsieh | [Read More](https://medium.com/p/e7b2cc6dc2b9) |
 | Sun, 14 Dec 2025 08:45:54 GMT | Seeking Cyber Security Help Visit Legitimate Hacking Organisation I Recommend Santoshi Hackers For… | Richardcarol | [Read More](https://medium.com/p/7c7f5f115687) |
+| Sun, 14 Dec 2025 08:44:41 GMT | Lockheed Martin’s Cyber Kill Chain: A Practical Guide for Aspiring Security Professionals | Cyberbali | [Read More](https://medium.com/p/0e665cb9a4a8) |
+| Sun, 14 Dec 2025 08:43:05 GMT | Xyra’s Approach to Protecting User Funds: Lessons from a Recent Bridge Exploit. | Deborah John | [Read More](https://medium.com/p/2a4b77229f6a) |
 | Sun, 14 Dec 2025 08:37:01 GMT | Why Genuine Software Is the Foundation of Secure Computing? | LanaPeterson | [Read More](https://medium.com/p/ac4c6562b0e6) |
 | Sun, 14 Dec 2025 08:35:06 GMT | Guide to Authentication and Session Management Vulnerabilities | rr-1k | [Read More](https://medium.com/p/139e423af513) |
 | Sun, 14 Dec 2025 08:32:15 GMT | Trust Without a Boss: Reputation in Decentralized Nets | Vectorlane | [Read More](https://medium.com/p/77608f252ae0) |
@@ -110,8 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 19:39:19 GMT | Not “Entry-Level”: The Real Impact of L1 SOC Analysts | Dany Christel | [Read More](https://medium.com/p/76bdf2e9242e) |
 | Sat, 13 Dec 2025 19:20:20 GMT | 50 million dollar scam or 50 dollar bargain? | Roman Charleston | [Read More](https://medium.com/p/01e12f34a55b) |
 | Sat, 13 Dec 2025 19:16:13 GMT | You’re Fuzzing All Wrong: FFUF & Virtual Host Fuzzing | Abhishek Gupta | [Read More](https://medium.com/p/99e82643935a) |
-| Sat, 13 Dec 2025 19:14:18 GMT | Cybersecurity Concepts For Dummies | Minahil | [Read More](https://medium.com/p/ae97449cf7ee) |
-| Sat, 13 Dec 2025 19:03:57 GMT | Prompt Injection in LLMs: Attacks, Impacts, and Mitigation Strategies | Wesley de Morais | [Read More](https://medium.com/p/c9c9b569fd72) |
-| Sat, 13 Dec 2025 19:02:31 GMT | Building a Simple File Upload API with FastAPI | Mido Osama | [Read More](https://medium.com/p/64499f9fdd14) |
-| Sat, 13 Dec 2025 19:02:15 GMT | Would you get off the bus for me? | dapoetri | [Read More](https://medium.com/p/68250ff0bb65) |
-| Sat, 13 Dec 2025 18:34:40 GMT | MITRE ATT&CK & GEMINI CLI | Jakub Kowalski | [Read More](https://medium.com/p/3d26d25d28f4) |
