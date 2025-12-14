@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 20:30:54 GMT | Hunter by HackSmarter Labs Walkthrough | Muhammad Usman Faridi | [Read More](https://medium.com/p/dbe435b4a8ee) |
+| Sun, 14 Dec 2025 20:26:39 GMT | The secret rulebook behind every tap-and-go payment (Part 4) | Ryan Aminollahi | [Read More](https://medium.com/p/f67d852fa9f9) |
 | Sun, 14 Dec 2025 20:05:06 GMT | Reflected XSS in blog search | aiden | [Read More](https://medium.com/p/f0b5abffb8b2) |
 | Sun, 14 Dec 2025 20:00:20 GMT | Advent of Cyber 25 — Day 13 — YARA Rules — YARA mean one! | cybertactic | [Read More](https://medium.com/p/d95a05064444) |
 | Sun, 14 Dec 2025 19:51:27 GMT | Netgear R7800 Nighthawk OpenWRT IDS/IPS Kurulumu ve Test Sonuçları | Hakan ÇEVİK | [Read More](https://medium.com/p/20cd308fd703) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 12:43:50 GMT | Securing a Kenyan SACCO from Zero [Part 1 of 6] | Munaniadeno | [Read More](https://medium.com/p/d873d88a449d) |
 | Sun, 14 Dec 2025 12:43:42 GMT | Part 3: How Adversarial Attacks Break AI Models | Faysal Dhimbil | [Read More](https://medium.com/p/ab7b1a8fb030) |
 | Sun, 14 Dec 2025 12:37:50 GMT | Gain Entry to GCP via GitLab Commit : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/9e42eaa99aaa) |
-| Sun, 14 Dec 2025 12:25:10 GMT | Is React Hacked? The Critical Vulnerability That Shook the React Ecosystem | Mert Gökhan Dönmez | [Read More](https://medium.com/p/2e97d47a3d92) |
-| Sun, 14 Dec 2025 12:24:13 GMT | The Python Metaclass Trick That Finally Makes Sense (And When You Actually Need It) | Rizqi Mulki | [Read More](https://medium.com/p/a0fb04964e05) |
