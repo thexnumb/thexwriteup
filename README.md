@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 19:07:20 GMT | How I Exposed 1,337 User Records With One GraphQL Query | Codi | [Read More](https://medium.com/p/bc4551b909c7) |
+| Sun, 14 Dec 2025 19:06:01 GMT | Entering API Fundamentals & Auth | Hafiz Muhammad Taha | [Read More](https://medium.com/p/4f5eca9e2a7d) |
+| Sun, 14 Dec 2025 18:58:06 GMT | The Bare Tree That Broke Me | Alizabeth Amelia Rose | [Read More](https://medium.com/p/029f9684a32b) |
+| Sun, 14 Dec 2025 18:45:06 GMT | NymVPN v2025.19: অনলাইন প্রাইভেসির নতুন দিগন্ত | Rabib Bin Nur | [Read More](https://medium.com/p/3507b25e5260) |
+| Sun, 14 Dec 2025 18:44:40 GMT | Try Hack Me Digital Forensics Fundamentals | Carrie Roberts | [Read More](https://medium.com/p/73ee3e5124cd) |
+| Sun, 14 Dec 2025 18:42:28 GMT | Still | yossijey | [Read More](https://medium.com/p/f52b8b299f19) |
 | Sun, 14 Dec 2025 18:20:44 GMT | Advent of Cyber 2025 - Day 14: Containers — DoorDasher’s Demise | D4m.sh | [Read More](https://medium.com/p/e1fb72367478) |
 | Sun, 14 Dec 2025 18:19:46 GMT | Nmap Tool for Beginner | DefeAsh | [Read More](https://medium.com/p/885fe0ba3a89) |
 | Sun, 14 Dec 2025 18:17:00 GMT | Beyond the Password: Modern Authentication Explained | Guroosh | [Read More](https://medium.com/p/24363219f25b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 11:53:26 GMT | Cross-Site Scripting (XSS) Saldırıları ve Korunma Yöntemleri | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/e0bbe8ab7136) |
 | Sun, 14 Dec 2025 11:45:48 GMT | Lab: User ID controlled by request parameter with password disclosure | Songül Kızılay Özügürler | [Read More](https://medium.com/p/582a70ad0300) |
 | Sun, 14 Dec 2025 11:45:37 GMT | Lab: User ID controlled by request parameter with data leakage in redirect | Songül Kızılay Özügürler | [Read More](https://medium.com/p/4ae70b603a16) |
-| Sun, 14 Dec 2025 11:45:00 GMT | What is Mobile Application Security Testing? | Beetles IO | [Read More](https://medium.com/p/16856998d551) |
-| Sun, 14 Dec 2025 11:36:06 GMT | React2Shell Explained: How a Critical React Server Components Vulnerability Exposed Next.js Apps | Mohammad Nawal Ali | [Read More](https://medium.com/p/17888a52a74c) |
-| Sun, 14 Dec 2025 11:29:48 GMT | The Way Life Goes. | TheTamiloreJenrola | [Read More](https://medium.com/p/85708f08b0ae) |
-| Sun, 14 Dec 2025 11:27:32 GMT | CEH v13 AI + SOC Analyst Combo: Year-End Sale | Manisha Chaudhary | [Read More](https://medium.com/p/ad5cdf836d8d) |
-| Sun, 14 Dec 2025 11:23:37 GMT | From Static to Synthetic: The Transformation of Cyber Forensics in the AI Era | Kristel Mae Lim | [Read More](https://medium.com/p/301782a61a5a) |
-| Sun, 14 Dec 2025 11:15:45 GMT | Lock Down Your Digital Life for $0: The Ultimate Free Cybersecurity Guide | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/213f5542c665) |
