@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 09:31:56 GMT | Implementing secure webhooks: producer and consumer perspectives | Akash | [Read More](https://medium.com/p/8522af31f048) |
+| Sun, 14 Dec 2025 09:27:56 GMT | Assume Privileged Role with External ID : Pwned-Labs Walkthrough Part 2 | Maverick | [Read More](https://medium.com/p/bcc67a223c65) |
+| Sun, 14 Dec 2025 09:18:03 GMT | The End of America’s Global Mission: | Diplomat Dialogues | [Read More](https://medium.com/p/9379a977eab7) |
+| Sun, 14 Dec 2025 09:13:00 GMT | 7 Urgent GeoServer CVE-2025–58360 Fix Steps | Pentest_Testing_Corp | [Read More](https://medium.com/p/2c26188fac7e) |
 | Sun, 14 Dec 2025 09:03:18 GMT | PortSwigger: “Information Disclosure” otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/9002c391dd76) |
 | Sun, 14 Dec 2025 08:59:54 GMT | The Hidden Cost of Illegal Call Centers | Maha Khalid | [Read More](https://medium.com/p/a4b5383beb81) |
 | Sun, 14 Dec 2025 08:49:52 GMT | Stop Investigating Endpoints Like It’s 2015: A Free Roadmap to Becoming a Cloud SOC Analyst | Motasem Hamdan | [Read More](https://medium.com/p/5e2555dd6f09) |
@@ -111,7 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 20:21:15 GMT | Dimensionality Reduction Strikes 降维打击 in Tech History | Chier Hu | [Read More](https://medium.com/p/3eacf9214c10) |
 | Sat, 13 Dec 2025 20:17:01 GMT | WhiteRabbit — HackTheBox — Detailed Write Up | Jafar Pathan | [Read More](https://medium.com/p/9ddaa21a9266) |
 | Sat, 13 Dec 2025 20:01:26 GMT | How I Discovered a Massive Data Leak Exposing Millions of Users During Routine Recon | Mohaseen | [Read More](https://medium.com/p/ca5f96e57f90) |
-| Sat, 13 Dec 2025 19:44:32 GMT | ESCÂNDALO NO AMOLATINA: Mariano Jr., | AKUMAAYORI | [Read More](https://medium.com/p/5587c30af2cc) |
-| Sat, 13 Dec 2025 19:39:19 GMT | Not “Entry-Level”: The Real Impact of L1 SOC Analysts | Dany Christel | [Read More](https://medium.com/p/76bdf2e9242e) |
-| Sat, 13 Dec 2025 19:20:20 GMT | 50 million dollar scam or 50 dollar bargain? | Roman Charleston | [Read More](https://medium.com/p/01e12f34a55b) |
-| Sat, 13 Dec 2025 19:16:13 GMT | You’re Fuzzing All Wrong: FFUF & Virtual Host Fuzzing | Abhishek Gupta | [Read More](https://medium.com/p/99e82643935a) |
