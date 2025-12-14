@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 23:11:54 GMT | Risk Aware Cybersecurity Models: Evolving Beyond Standard Random Forests | Nishi Kaura | [Read More](https://medium.com/p/929274e53fe9) |
+| Sun, 14 Dec 2025 23:08:01 GMT | The Boring Checklist That Fails Cyber Essentials: Asset Management for Real‑World SMEs | Laurentiu Barbu | [Read More](https://medium.com/p/dad78e7e5cd5) |
+| Sun, 14 Dec 2025 23:07:27 GMT | Local Privilege Escalation via Docker Misconfiguration in Linux Operating Systems | Shady mulla | [Read More](https://medium.com/p/120c4fc105e6) |
+| Sun, 14 Dec 2025 23:02:17 GMT | Offensive AI Threatening DeFI | Web3.com Ventures | [Read More](https://medium.com/p/1e8bc71c00b5) |
+| Sun, 14 Dec 2025 22:53:06 GMT | Zombie Scan (Idle Scan) in Nmap Explained: How It Works, Commands, and Real-World Use | webcipher101 | [Read More](https://medium.com/p/c852e4fab823) |
+| Sun, 14 Dec 2025 22:49:29 GMT | Why MFA has become Non‑Negotiable in Cyber Essentials | Laurentiu Barbu | [Read More](https://medium.com/p/c73f420c3434) |
+| Sun, 14 Dec 2025 22:48:22 GMT | DNS Sinkholes: A Simple Guide to Protecting Your Network | Raviteja Mureboina | [Read More](https://medium.com/p/fc1c8200f184) |
 | Sun, 14 Dec 2025 22:11:19 GMT | Why Your AI-Generated Code is Probably Garbage (And How to Fix It) | Satinath Mondal | [Read More](https://medium.com/p/6adcd19a8fdb) |
 | Sun, 14 Dec 2025 22:00:52 GMT | HTB CTF Write-Up: Fawn | Paulo Melo | [Read More](https://medium.com/p/ff0bc6b50058) |
 | Sun, 14 Dec 2025 21:52:46 GMT | YAPAY ZEKA KULLANICILARI VE YAZILIMCILAR MAĞDUR OLUR MU? | Gülşah Akın | [Read More](https://medium.com/p/d66406222048) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 14:49:54 GMT | My Pull Request to OpenPrinting Got Merged: Fixing SpliX Driver Metadata | Ayush Singh | [Read More](https://medium.com/p/23558cb44dfc) |
 | Sun, 14 Dec 2025 14:42:17 GMT | Why Cybersecurity Conferences Don’t Actually Make You Safer | Cyberkech | [Read More](https://medium.com/p/31cc3b1b4ecd) |
 | Sun, 14 Dec 2025 14:41:54 GMT | Why Hackers Love thefuck: The Terminal Weapon You Didn’t Know You Needed | ghostyjoe | [Read More](https://medium.com/p/f45fa6726749) |
-| Sun, 14 Dec 2025 14:37:58 GMT | Capítulo 16 — A Invasão dos Bugs Gigantes | Kleber Andrade | [Read More](https://medium.com/p/c512a02653b6) |
-| Sun, 14 Dec 2025 14:37:03 GMT | ️‍♂️ RAT Malware Explained: How Hackers Take Remote Control of Your Device | Natarajan C K | [Read More](https://medium.com/p/9b5bfa635a94) |
-| Sun, 14 Dec 2025 14:34:26 GMT | Why I Don’t Teach Hacking the “Responsible” Way | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e0314d84aa4a) |
-| Sun, 14 Dec 2025 14:32:17 GMT | (Comptia A+) Understanding Social Engineering: How to Protect Yourself and Your Organization | Vignesh R | [Read More](https://medium.com/p/077a94d825e5) |
-| Sun, 14 Dec 2025 14:31:09 GMT | Exploiting Logic Flaw to Bypass Payment Using Fractional Quantities | Hamzadzworm | [Read More](https://medium.com/p/e2f62aa512fb) |
-| Sun, 14 Dec 2025 14:28:04 GMT | Hardening an Existing MongoDB Sharded Cluster with Keyfile Authentication | Mai Hoang Viet | [Read More](https://medium.com/p/20944afd13b1) |
-| Sun, 14 Dec 2025 14:20:43 GMT | Day 12: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/02a5eeb7ba8f) |
