@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 17:12:32 GMT | How I Discovered a Single Sign-On Chain Break Through a Weak Authentication Flow in an Enterprise… | Abhishek Kumar | [Read More](https://medium.com/p/3b5d0a39379c) |
+| Sun, 14 Dec 2025 17:02:19 GMT | I Waited. He Hesitated. Nothing Happened. | Pratibha Singh | [Read More](https://medium.com/p/5ae007952367) |
+| Sun, 14 Dec 2025 16:58:38 GMT | Setting up Samba Securely | Angelo Sebastian | [Read More](https://medium.com/p/14138ee5c7e2) |
+| Sun, 14 Dec 2025 16:54:40 GMT | Notepad++ 8.8.9 Update Released With Important Security Fix | Cyber security updates | [Read More](https://medium.com/p/faf5872705e2) |
+| Sun, 14 Dec 2025 16:52:30 GMT | How to Get Moviebox Pro Invitation Code Free | moviesbox.co | [Read More](https://medium.com/p/11e6ae330ffd) |
+| Sun, 14 Dec 2025 16:49:30 GMT | Remote Customer Support Jobs Explained | Kael Virex | [Read More](https://medium.com/p/5d21f434a95b) |
+| Sun, 14 Dec 2025 16:46:10 GMT | Cybersecurity: The Black, Grey, and White | Anugrah Gansalangi | [Read More](https://medium.com/p/7431b6448d30) |
+| Sun, 14 Dec 2025 16:44:53 GMT | TryHackMe Writeup: The Server From Hell | Berkay AĞGÜL | [Read More](https://medium.com/p/9031589995ee) |
 | Sun, 14 Dec 2025 16:39:34 GMT | CodePartTwo Writeup — HTB | ItsProbably1v9 | [Read More](https://medium.com/p/4d60f47eaf33) |
 | Sun, 14 Dec 2025 16:37:57 GMT | The Real Cost of a Cyber Breach Is Not in IT. It Is in Cash Flow, Valuation, and Insurance. | Jennifer Lawrence | [Read More](https://medium.com/p/be1b7193536d) |
 | Sun, 14 Dec 2025 16:35:23 GMT | Tokens are just digital wristbands that apps use to remember you. | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f8db0f35bb88) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 10:28:03 GMT | Windows Services Architecture | Reeti Agarwal | [Read More](https://medium.com/p/f6b78997467f) |
 | Sun, 14 Dec 2025 10:27:35 GMT | The Developer’s Speed is the CISO’s Bill: Why We Need to Fix Code, Not Just Block Attacks | WayneReidUK | [Read More](https://medium.com/p/8bc0e2b662cf) |
 | Sun, 14 Dec 2025 10:22:10 GMT | If Identity Collapses, Everything Collapses: “Identity Plane” Architecture in Modern Systems and… | Umut Akbulut | [Read More](https://medium.com/p/21fc3427447f) |
-| Sun, 14 Dec 2025 10:20:50 GMT | Is X-Bow the End of Security Analysts? How AI Is Reshaping Bug Hunting ⚔️ | Krish_cyber | [Read More](https://medium.com/p/cbbc8fe6dc38) |
-| Sun, 14 Dec 2025 10:17:48 GMT | Kimlik Çökerse Her Şey Çöker – Modern Sistemlerde “Identity Plane” Mimarisi ve Geri Dönüşü Olmayan… | Umut Akbulut | [Read More](https://medium.com/p/ffcea5f49b0c) |
-| Sun, 14 Dec 2025 10:08:08 GMT | Battleground Superbug | Ajmal Shah | [Read More](https://medium.com/p/1ca54050b2d6) |
-| Sun, 14 Dec 2025 10:07:05 GMT | Domain Name Security Basics — How to Protect Your Domain Name? | Recep Serit | [Read More](https://medium.com/p/320aa417876c) |
-| Sun, 14 Dec 2025 10:05:21 GMT | Flipper Zero in 2025–2026: Why Cybersecurity Professionals Are Paying Serious Attention ️ | Krish_cyber | [Read More](https://medium.com/p/fdead990d38c) |
-| Sun, 14 Dec 2025 10:02:58 GMT | I Stopped Hacking Manually and Started Automating (And Why Report Writing is Everything) | Janhvee Laad | [Read More](https://medium.com/p/a5a985e66edd) |
-| Sun, 14 Dec 2025 09:59:48 GMT | Virtual Reality, Collective Consciousness and New Cognitive Objects | Taulan Zauzanov | [Read More](https://medium.com/p/2e63657bbf79) |
-| Sun, 14 Dec 2025 09:57:35 GMT | Introducing dssrf: A Safe‑by‑Construction SSRF Defense Library for Node.js | Relun Sec | [Read More](https://medium.com/p/d3adbed34b45) |
