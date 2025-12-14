@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 08:46:59 GMT | JWT 簡介 | Jesshsieh | [Read More](https://medium.com/p/e7b2cc6dc2b9) |
+| Sun, 14 Dec 2025 08:45:54 GMT | Seeking Cyber Security Help Visit Legitimate Hacking Organisation I Recommend Santoshi Hackers For… | Richardcarol | [Read More](https://medium.com/p/7c7f5f115687) |
+| Sun, 14 Dec 2025 08:37:01 GMT | Why Genuine Software Is the Foundation of Secure Computing? | LanaPeterson | [Read More](https://medium.com/p/ac4c6562b0e6) |
+| Sun, 14 Dec 2025 08:35:06 GMT | Guide to Authentication and Session Management Vulnerabilities | rr-1k | [Read More](https://medium.com/p/139e423af513) |
+| Sun, 14 Dec 2025 08:32:15 GMT | Trust Without a Boss: Reputation in Decentralized Nets | Vectorlane | [Read More](https://medium.com/p/77608f252ae0) |
+| Sun, 14 Dec 2025 08:30:56 GMT | Building a Real-Time AI-Based Voice Scam Detector | Kanika Im-erb | [Read More](https://medium.com/p/61f2d8881d14) |
 | Sun, 14 Dec 2025 08:06:02 GMT | The Rise of Zero Trust: Why Companies No Longer Automatically ‘Trust’ Users or Devices. | Grace Chukwunta | [Read More](https://medium.com/p/bfb31d5922dd) |
 | Sun, 14 Dec 2025 08:06:01 GMT | Into the Abyss: The Essential Toolset for Dark Web OSINT and Monitoring | eRRoR | [Read More](https://medium.com/p/9f8c85322ebe) |
 | Sun, 14 Dec 2025 07:59:59 GMT | I Trusted the Bottle Because Humans Would Betray Me | Kohei | [Read More](https://medium.com/p/c1ce39ec4359) |
@@ -109,9 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 19:02:31 GMT | Building a Simple File Upload API with FastAPI | Mido Osama | [Read More](https://medium.com/p/64499f9fdd14) |
 | Sat, 13 Dec 2025 19:02:15 GMT | Would you get off the bus for me? | dapoetri | [Read More](https://medium.com/p/68250ff0bb65) |
 | Sat, 13 Dec 2025 18:34:40 GMT | MITRE ATT&CK & GEMINI CLI | Jakub Kowalski | [Read More](https://medium.com/p/3d26d25d28f4) |
-| Sat, 13 Dec 2025 18:31:15 GMT | Cybersecurity’s New Focus: Skills Over Staffing in AI Era | Valentin Podkamennyi | [Read More](https://medium.com/p/1be03cdda2ae) |
-| Sat, 13 Dec 2025 18:28:11 GMT | AS2 Protocol Explained with a Real Spring Boot Implementation | Manoj | [Read More](https://medium.com/p/560c6e794cd1) |
-| Sat, 13 Dec 2025 18:27:11 GMT | Adversarial AI in Late 2025: Current Attacks, Defenses, and Production Threats | Travis-ML | [Read More](https://medium.com/p/898b63036f56) |
-| Sat, 13 Dec 2025 18:16:45 GMT | Editor — HackTheBox | Mustafa Abdullah | [Read More](https://medium.com/p/85505c6dd0c4) |
-| Sat, 13 Dec 2025 18:14:21 GMT | RECOVERING FROM ONLINE INVESTMENT SCAMS: HIRE SOLACE CYBER WORKSTATIONS | Jonathan Saltman | [Read More](https://medium.com/p/d34ccbedf4cd) |
-| Sat, 13 Dec 2025 18:09:28 GMT | :  ’ | Souravmookherjee | [Read More](https://medium.com/p/14fc4a0ef08d) |
