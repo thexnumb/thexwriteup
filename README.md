@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 22:11:19 GMT | Why Your AI-Generated Code is Probably Garbage (And How to Fix It) | Satinath Mondal | [Read More](https://medium.com/p/6adcd19a8fdb) |
 | Sun, 14 Dec 2025 22:00:52 GMT | HTB CTF Write-Up: Fawn | Paulo Melo | [Read More](https://medium.com/p/ff0bc6b50058) |
 | Sun, 14 Dec 2025 21:52:46 GMT | YAPAY ZEKA KULLANICILARI VE YAZILIMCILAR MAĞDUR OLUR MU? | Gülşah Akın | [Read More](https://medium.com/p/d66406222048) |
 | Sun, 14 Dec 2025 21:48:34 GMT | The Security Paradox: Why Buying More Tools Won’t Stop the Breaches Subtitle: We are spending… | Andrea Cere | [Read More](https://medium.com/p/4f74c37366e9) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 14:31:09 GMT | Exploiting Logic Flaw to Bypass Payment Using Fractional Quantities | Hamzadzworm | [Read More](https://medium.com/p/e2f62aa512fb) |
 | Sun, 14 Dec 2025 14:28:04 GMT | Hardening an Existing MongoDB Sharded Cluster with Keyfile Authentication | Mai Hoang Viet | [Read More](https://medium.com/p/20944afd13b1) |
 | Sun, 14 Dec 2025 14:20:43 GMT | Day 12: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/02a5eeb7ba8f) |
-| Sun, 14 Dec 2025 14:13:40 GMT | Graphical Password Authentication: How Picture Perfect Passwords can enhance Security | Rohit Kumar Singh | [Read More](https://medium.com/p/ba973a8230db) |
