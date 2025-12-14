@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 21:32:46 GMT | Bug Bounty Hunting Isn’t Luck — It’s a System (With Tools That Actually Work) | Mainekhacker | [Read More](https://medium.com/p/a7d907a75a2a) |
+| Sun, 14 Dec 2025 21:27:48 GMT | $12,500 Bounty: How Changing One GraphQL ID Let Me Delete Other Users’ Data | Monika sharma | [Read More](https://medium.com/p/4a6e1c70ae12) |
+| Sun, 14 Dec 2025 21:26:11 GMT | Dear Clients: Thank You for Trusting Us With Your Security — Ethics Over Optics: Living Out Our… | Fook Hwa Tan | [Read More](https://medium.com/p/0008e24c316b) |
+| Sun, 14 Dec 2025 21:25:27 GMT | *Titre :* "Découvrez les secrets de la réussite en ligne ! " | Mg | [Read More](https://medium.com/p/792d143bc859) |
+| Sun, 14 Dec 2025 21:24:48 GMT | You Can Lead with Faith and Still Be Strategic — Faith and Cybersecurity: Where They Intersect | Fook Hwa Tan | [Read More](https://medium.com/p/aeeb231fe32b) |
+| Sun, 14 Dec 2025 21:19:08 GMT | Web Security Academy: Websockets— Manipulating WebSocket messages to exploit vulnerabilities | Octavian I. | [Read More](https://medium.com/p/1bdb390ae842) |
 | Sun, 14 Dec 2025 21:12:08 GMT | Getting Started with AI Red Teaming: Breaking AI Before It Breaks Us | Ty cummings | [Read More](https://medium.com/p/d552dd62ab66) |
 | Sun, 14 Dec 2025 21:02:46 GMT | I Found One Bug and Made $9,750 | Codi | [Read More](https://medium.com/p/e0f0ac179b1a) |
 | Sun, 14 Dec 2025 21:02:15 GMT | A Hidden Line of Text Can Hijack an AI — No Clicks, No Malware, Just Words | AhmedAbdelmenem | [Read More](https://medium.com/p/54fa716894f4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 13:53:39 GMT | Speaking Up: A Personal Note on Integrity, Accountability, and Digital Safety | EKUNDAYO Oluwadamilare | [Read More](https://medium.com/p/0f3b162161f2) |
 | Sun, 14 Dec 2025 13:53:16 GMT | ISO/IEC 27001 Information Security Associate: A Strong Foundation in Information Security | Allan Banday | [Read More](https://medium.com/p/f7c5e3e6d10d) |
 | Sun, 14 Dec 2025 13:48:32 GMT | Week 0: Sprint 0 — Hardware Sourcing & Platform Setup | scriptpy | [Read More](https://medium.com/p/35fe2494913a) |
-| Sun, 14 Dec 2025 13:36:33 GMT | Why Cybersecurity Tools Alone Are Failing Modern Organizations | Ankit rai | [Read More](https://medium.com/p/2cf4094f063f) |
-| Sun, 14 Dec 2025 13:26:38 GMT | The Hidden Tax in DeFi: How Syntetika Protects Operators From MEV | Emmanuel Chibuzor | [Read More](https://medium.com/p/bcc4659afd64) |
-| Sun, 14 Dec 2025 13:20:10 GMT | Critical Alert: New React Server Components Vulnerabilities (Dec 2025) | Udaykumar Dhokia | [Read More](https://medium.com/p/341f4ec81853) |
-| Sun, 14 Dec 2025 13:10:48 GMT | MiniSOC - Dijital Kale Projesini Neden Geliştiriyorum? | Hakan ÇEVİK | [Read More](https://medium.com/p/4fa40d61d2e4) |
-| Sun, 14 Dec 2025 13:03:01 GMT | How Companies Decide Between In-House and Outsourced Development | Jyoti Joshi | [Read More](https://medium.com/p/49ad22a02395) |
-| Sun, 14 Dec 2025 12:59:16 GMT | GRC and AI GOVERNANCE | Adeoluwa Obadofin | [Read More](https://medium.com/p/bdc4b2e79878) |
