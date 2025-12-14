@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 01:38:49 GMT | The Quantum Notary is Real: How I Engineered a “Time Bridge” for Web3 Oracles | Damian Griggs | [Read More](https://medium.com/p/3cbc27e4eba3) |
+| Sun, 14 Dec 2025 01:16:40 GMT | My First Article on Medium.com | Brandon Tennakoon | [Read More](https://medium.com/p/889a9c90473a) |
+| Sun, 14 Dec 2025 01:02:14 GMT | The “Zero-Click” Era: How Hackers Are Weaponizing AI Against You | Malcolm Evans | [Read More](https://medium.com/p/a3814848ac69) |
+| Sun, 14 Dec 2025 00:59:42 GMT | Departure | Chris Perkins | [Read More](https://medium.com/p/525049f52c23) |
+| Sun, 14 Dec 2025 00:50:48 GMT | Beyond the Firewall: Why Privacy-Enhancing Technologies (PETs) Are the Future of Data | Likitha Reddy | [Read More](https://medium.com/p/828fdd99c4f7) |
+| Sun, 14 Dec 2025 00:46:31 GMT | Digital Transformation Fails When Institutions Skip Readiness | Jared Hoertz, MBA, M.S. | [Read More](https://medium.com/p/873adce010e2) |
+| Sun, 14 Dec 2025 00:33:57 GMT | XRP’s Next $200 Billion Frontier: Introducing UISP – The Universal Identity Settlement Protocol
+… | Enigmatic | [Read More](https://medium.com/p/2a4b588a06dc) |
+| Sun, 14 Dec 2025 00:33:36 GMT | How Researchers Queried 100Million WhatsApp Numbers Per Hour (And What Changed) | Berend Watchus | [Read More](https://medium.com/p/f665e0bdb316) |
+| Sun, 14 Dec 2025 00:27:26 GMT | Jailbreaking: One Method, Three Applications. | Berend Watchus | [Read More](https://medium.com/p/f25f3bda0d74) |
+| Sun, 14 Dec 2025 00:25:57 GMT | Indirect Prompt Injection and the Enterprise AI Browser — A Zero Trust Perspective | Mammoth Cyber | [Read More](https://medium.com/p/dade596be0ac) |
+| Sun, 14 Dec 2025 00:12:28 GMT | Democracy vs. Hybrid War: When Emergency Logic Becomes Normal | Lassi Leivo | [Read More](https://medium.com/p/1a64a74e5667) |
+| Sun, 14 Dec 2025 00:05:22 GMT | Post 5: Mary’s IT Application | SattiData | [Read More](https://medium.com/p/dcff62077774) |
+| Sat, 13 Dec 2025 23:54:19 GMT | The Western Internet Is Cracking | Moisés Cabello | [Read More](https://medium.com/p/3b73fb273333) |
+| Sat, 13 Dec 2025 23:51:43 GMT | JAMMERS: DE VILÕES A DEFENSORES — QUANDO INTERFERIR PODE AJUDAR A PROTEGER | Joabe Emanuel Neundorff Kautnick | [Read More](https://medium.com/p/13a5bc0a979e) |
+| Sat, 13 Dec 2025 23:46:05 GMT | Networking concepts that every software engineer should know | Satish Alturu | [Read More](https://medium.com/p/646dcd24ed6b) |
 | Sat, 13 Dec 2025 23:16:35 GMT | How I met Claude Shannon | Alan Greenspan | [Read More](https://medium.com/p/c49bd4370317) |
 | Sat, 13 Dec 2025 23:01:20 GMT | Palestinian Freelancers: The Rising Talent Pool Every Business Should Consider | Apricot International | [Read More](https://medium.com/p/cb41d7c4b866) |
 | Sat, 13 Dec 2025 22:55:55 GMT | Salt Typhoon: The Worst Telecommunications Hack in American History | Abdelakarim Benabdallah | [Read More](https://medium.com/p/0b48917ca8e4) |
@@ -97,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 14:11:54 GMT | SAP Security in 2025: Protecting Your ERP from Modern Threats Part-1 | Khan Mohammed Aamir | [Read More](https://medium.com/p/566b733d4bb7) |
 | Sat, 13 Dec 2025 14:11:15 GMT | Bagaimana Face Recognition Bekerja di Smartphone Anda? | Almas Indhar Amanullah | [Read More](https://medium.com/p/07c67f04c956) |
 | Sat, 13 Dec 2025 14:09:45 GMT | Navigating the Deep Web in 2026: The Hidden Wiki’s New V3 Home | Jonathan Mwiu | [Read More](https://medium.com/p/de128bff2ea1) |
-| Sat, 13 Dec 2025 14:03:54 GMT | How AI Security Cameras Revolutionize Industrial Surveillance in 2025 | Dolon Ghosh | [Read More](https://medium.com/p/ef4265327b8e) |
-| Sat, 13 Dec 2025 14:02:18 GMT | How Secure Hosting Protects Your Customers and Builds Trust | HSINGH WEB STUDIO | [Read More](https://medium.com/p/5e2b8c51b2c5) |
-| Sat, 13 Dec 2025 13:58:29 GMT | Switching Teams: Transitioning to Linux | Suami Monday | [Read More](https://medium.com/p/222776d2742b) |
-| Sat, 13 Dec 2025 13:52:53 GMT | #27. Hashing: The Most Elegant Way to Turn Valuable Data Into Garbage So Other Garbage Can’t Steal… | Code Reaper | [Read More](https://medium.com/p/ca8eb77ee7e5) |
-| Sat, 13 Dec 2025 13:38:27 GMT | Data Poisoning Explained: How Bad Data Can Quietly Break AI and Security Systems | Natarajan C K | [Read More](https://medium.com/p/a4843a41f2b9) |
-| Sat, 13 Dec 2025 13:37:15 GMT | FASH PumpFun Migration Is LIVE. Holders MUST Upgrade Before the Old Contract Dies | Henrywilliam | [Read More](https://medium.com/p/af8b72a30361) |
-| Sat, 13 Dec 2025 13:24:30 GMT | Phantom Stealer Campaign Abuses ISO Mounting to Compromise Windows Systems | valasala suhas | [Read More](https://medium.com/p/fdd52e8fe6ed) |
-| Sat, 13 Dec 2025 13:22:14 GMT | I Found 100 Bugs Using This One Recon Checklist | Codi | [Read More](https://medium.com/p/b23cabecff9a) |
-| Sat, 13 Dec 2025 13:16:54 GMT | CYBER KILL CHAIN | someone | [Read More](https://medium.com/p/9043b9bf884a) |
-| Sat, 13 Dec 2025 13:16:05 GMT | RSC ve React2Shell | Onur Dayıbaşı | [Read More](https://medium.com/p/abc5dbead6c1) |
-| Sat, 13 Dec 2025 13:12:44 GMT | TryHackMe Writeup: Year of the Dog | Berkay AĞGÜL | [Read More](https://medium.com/p/a3b1be9ceb32) |
-| Sat, 13 Dec 2025 13:11:52 GMT | My First Penetration Test and the Lesson That Stayed With Me | Mubashir | [Read More](https://medium.com/p/c9ee1256f6ef) |
-| Sat, 13 Dec 2025 13:10:54 GMT | Firmware Analysis of a V380‑Based IoT Camera Using Linux Built‑in Tools | Aaronjjose | [Read More](https://medium.com/p/11f29f336e7e) |
-| Sat, 13 Dec 2025 13:01:21 GMT | Ports & Services: The Doorways of Digital Communication | Satyam Singh | [Read More](https://medium.com/p/a0b6a684aaf2) |
-| Sat, 13 Dec 2025 13:00:10 GMT | Metasploitable 3 (Windows) Write-up — Part VII: Port 3389 — Gaining Graphical Access via RDP | Kalash Kundaliya | [Read More](https://medium.com/p/8577180be971) |
