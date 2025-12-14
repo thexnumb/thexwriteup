@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 05:34:08 GMT | Mobile Proxy Sticky Sessions: Reduce Account Checkpoints Without Mid-Flow IP Changes | CoinZenith | [Read More](https://medium.com/p/0774867252d9) |
+| Sun, 14 Dec 2025 05:26:27 GMT | Practical Virtualization: Hosting and Hardening a Minecraft Server in VirtualBox | Declan | [Read More](https://medium.com/p/9ed55dcc9fd0) |
+| Sun, 14 Dec 2025 05:18:52 GMT | Why Traditional SIEM Is Dying — And How ClickHouse + AI Is Replacing It | Pranav Dixit | [Read More](https://medium.com/p/a09ddcb19d44) |
 | Sun, 14 Dec 2025 05:02:14 GMT | The Audit That Everyone Passes But Nobody’s Actually Secure | Steve Anderson | [Read More](https://medium.com/p/315c88f03dd9) |
 | Sun, 14 Dec 2025 04:56:58 GMT | Why Googling Yourself Is Not Enough: A Compliance-Oriented View of Search Results | Paolocermelli | [Read More](https://medium.com/p/505fa125c695) |
 | Sun, 14 Dec 2025 04:51:37 GMT | ️Cybersecurity Awareness: The Threats of Social Engineering | Margareth de Oliveira | [Read More](https://medium.com/p/c154697bca0f) |
@@ -112,6 +115,3 @@ I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.
 | Sat, 13 Dec 2025 16:27:10 GMT | How I Bypassed Voucher Limits Using a Race Condition Vulnerability | Danish Ahmed | [Read More](https://medium.com/p/4cc3b192a5b1) |
 | Sat, 13 Dec 2025 16:07:59 GMT | How AI Will Replace Tasks — Not Jobs | Senthil Jaganathan | [Read More](https://medium.com/p/bc232789e808) |
 | Sat, 13 Dec 2025 16:02:15 GMT | CIA Triad: The Backbone of Information Security | Shayaan Khan | [Read More](https://medium.com/p/f15dc2e2548d) |
-| Sat, 13 Dec 2025 16:00:36 GMT | The Center of RAG Security Is the Context Layer | inkme | [Read More](https://medium.com/p/f3a92275f9c8) |
-| Sat, 13 Dec 2025 15:56:25 GMT | Understanding Pivoting: From Compromised Hosts To Internal Networks | Swee2ooth | [Read More](https://medium.com/p/06d74fed4a8f) |
-| Sat, 13 Dec 2025 15:53:39 GMT | Looking At Bitunix Through The Lens Of Insurance And Protection | Adebayo Adedayo Richard | [Read More](https://medium.com/p/37a1852d54c0) |
