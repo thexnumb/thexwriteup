@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 18:20:44 GMT | Advent of Cyber 2025 - Day 14: Containers — DoorDasher’s Demise | D4m.sh | [Read More](https://medium.com/p/e1fb72367478) |
+| Sun, 14 Dec 2025 18:19:46 GMT | Nmap Tool for Beginner | DefeAsh | [Read More](https://medium.com/p/885fe0ba3a89) |
+| Sun, 14 Dec 2025 18:17:00 GMT | Beyond the Password: Modern Authentication Explained | Guroosh | [Read More](https://medium.com/p/24363219f25b) |
+| Sun, 14 Dec 2025 18:16:45 GMT | XSS — Merry XSSMas - AoC 2025 Day — 11 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/f50eb9144a43) |
+| Sun, 14 Dec 2025 17:49:22 GMT | AWS GuardDuty: In-Depth Guide Based on AWS Documentation | Thomas Eid | [Read More](https://medium.com/p/3ab4a40f9754) |
+| Sun, 14 Dec 2025 17:48:13 GMT | CTF Write-ups: My Beginner Challenges for ISET Zaghouan | Maha Marwani | [Read More](https://medium.com/p/017dd598950b) |
+| Sun, 14 Dec 2025 17:46:39 GMT | Responsibilities of IT Project Manager, Technical Project Manager, Product Owner, and Product… | Yaqoot Nawab | [Read More](https://medium.com/p/e14fa4060663) |
 | Sun, 14 Dec 2025 17:32:20 GMT | When AI Agents Break the Browser Sandbox: Indirect Prompt Injection, Tainted Memory, and the… | Mammoth Cyber | [Read More](https://medium.com/p/b292604b9559) |
+| Sun, 14 Dec 2025 17:29:26 GMT | Without this no one can be successful in life in any field of work | Be nice insabat | [Read More](https://medium.com/p/fb7195f3311f) |
 | Sun, 14 Dec 2025 17:22:16 GMT | Ağ Temelleri: OSI ve TCP/IP Modeli | Melih Yalnız | [Read More](https://medium.com/p/288d0aa04319) |
 | Sun, 14 Dec 2025 17:12:32 GMT | How I Discovered a Single Sign-On Chain Break Through a Weak Authentication Flow in an Enterprise… | Abhishek Kumar | [Read More](https://medium.com/p/3b5d0a39379c) |
 | Sun, 14 Dec 2025 17:02:19 GMT | I Waited. He Hesitated. Nothing Happened. | Pratibha Singh | [Read More](https://medium.com/p/5ae007952367) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 11:27:32 GMT | CEH v13 AI + SOC Analyst Combo: Year-End Sale | Manisha Chaudhary | [Read More](https://medium.com/p/ad5cdf836d8d) |
 | Sun, 14 Dec 2025 11:23:37 GMT | From Static to Synthetic: The Transformation of Cyber Forensics in the AI Era | Kristel Mae Lim | [Read More](https://medium.com/p/301782a61a5a) |
 | Sun, 14 Dec 2025 11:15:45 GMT | Lock Down Your Digital Life for $0: The Ultimate Free Cybersecurity Guide | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/213f5542c665) |
-| Sun, 14 Dec 2025 11:12:21 GMT | How Social Bots Manipulate Public Opinion | STCLab, Inc. | [Read More](https://medium.com/p/67a7e9f71b20) |
-| Sun, 14 Dec 2025 11:05:39 GMT | Day 14 — Network Boundary Monitoring (Watched from the Woods) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/ebe1719b39e7) |
-| Sun, 14 Dec 2025 10:52:51 GMT | Google Antigravity’s Sandbox Isn’t Real, a Symlink Proved It | MaanVader | [Read More](https://medium.com/p/d57264a8b040) |
-| Sun, 14 Dec 2025 10:32:54 GMT | In the hidden layers of the internet, where identities dissolve into code and silence speaks… | David HX | [Read More](https://medium.com/p/5a4df2d6b1b7) |
-| Sun, 14 Dec 2025 10:32:49 GMT | Hack Smarter, Not Harder: How AI Is Changing the Way We Learn Cybersecurity | Ai Founder Lab | [Read More](https://medium.com/p/08fa5a0dac35) |
-| Sun, 14 Dec 2025 10:31:20 GMT | Day 132 — Narnia Level-6 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/a743eef89287) |
-| Sun, 14 Dec 2025 10:29:22 GMT | Camera Surveillance Systems | Square Security Inc. | [Read More](https://medium.com/p/11281ea8935f) |
-| Sun, 14 Dec 2025 10:28:03 GMT | Windows Services Architecture | Reeti Agarwal | [Read More](https://medium.com/p/f6b78997467f) |
