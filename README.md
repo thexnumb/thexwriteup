@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 19:25:41 GMT | MDE’s DeviceNetworkEvents table [Part 3 — Http and SslConnectionInspected ActionTypes] | Ethan Bowen | [Read More](https://medium.com/p/31a4ab66fbf1) |
+| Sun, 14 Dec 2025 19:22:52 GMT | How To Restrict Kubernetes Image Registries Using Kyverno | Ikeri Ebenezer | [Read More](https://medium.com/p/6a19b0d37332) |
+| Sun, 14 Dec 2025 19:22:17 GMT | Day 13: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/0c84a17babe6) |
+| Sun, 14 Dec 2025 19:13:04 GMT | The Web Developer’s Dilemma: Should I Build Faster or Safer? | Mubashir | [Read More](https://medium.com/p/eaad5fbaf04f) |
 | Sun, 14 Dec 2025 19:07:20 GMT | How I Exposed 1,337 User Records With One GraphQL Query | Codi | [Read More](https://medium.com/p/bc4551b909c7) |
 | Sun, 14 Dec 2025 19:06:01 GMT | Entering API Fundamentals & Auth | Hafiz Muhammad Taha | [Read More](https://medium.com/p/4f5eca9e2a7d) |
 | Sun, 14 Dec 2025 18:58:06 GMT | The Bare Tree That Broke Me | Alizabeth Amelia Rose | [Read More](https://medium.com/p/029f9684a32b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 12:05:15 GMT | Scanning Networks | Dante | [Read More](https://medium.com/p/39baa8c0c3d3) |
 | Sun, 14 Dec 2025 12:03:29 GMT | YARA Rules — YARA mean one! - Advent of Cyber 2025 Day 13 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/bf7d27cb2eb5) |
 | Sun, 14 Dec 2025 12:00:48 GMT | React4Shell Zaafiyeti Ve Analizi | Bilal Eski | [Read More](https://medium.com/p/39668559c156) |
-| Sun, 14 Dec 2025 11:53:50 GMT | I Didn’t Hack Anything — The App Gave Me Admin Access by Itself | Iski | [Read More](https://medium.com/p/532e72e92f44) |
-| Sun, 14 Dec 2025 11:53:26 GMT | Cross-Site Scripting (XSS) Saldırıları ve Korunma Yöntemleri | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/e0bbe8ab7136) |
-| Sun, 14 Dec 2025 11:45:48 GMT | Lab: User ID controlled by request parameter with password disclosure | Songül Kızılay Özügürler | [Read More](https://medium.com/p/582a70ad0300) |
-| Sun, 14 Dec 2025 11:45:37 GMT | Lab: User ID controlled by request parameter with data leakage in redirect | Songül Kızılay Özügürler | [Read More](https://medium.com/p/4ae70b603a16) |
