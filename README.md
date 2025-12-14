@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 13:20:10 GMT | Critical Alert: New React Server Components Vulnerabilities (Dec 2025) | Udaykumar Dhokia | [Read More](https://medium.com/p/341f4ec81853) |
+| Sun, 14 Dec 2025 13:10:48 GMT | MiniSOC - Dijital Kale Projesini Neden Geliştiriyorum? | Hakan ÇEVİK | [Read More](https://medium.com/p/4fa40d61d2e4) |
+| Sun, 14 Dec 2025 13:03:01 GMT | How Companies Decide Between In-House and Outsourced Development | Jyoti Joshi | [Read More](https://medium.com/p/49ad22a02395) |
+| Sun, 14 Dec 2025 12:59:16 GMT | GRC and AI GOVERNANCE | Adeoluwa Obadofin | [Read More](https://medium.com/p/bdc4b2e79878) |
+| Sun, 14 Dec 2025 12:59:09 GMT | What I learned in my first experience in GRC — ISO27001:2022 | Mahad Aqeel | [Read More](https://medium.com/p/d7c1b378c047) |
+| Sun, 14 Dec 2025 12:47:45 GMT | How Local Knowledge Gives Brampton Security Guards an Advantage | Diligent Security Services | [Read More](https://medium.com/p/fb7bb0449b2b) |
+| Sun, 14 Dec 2025 12:43:50 GMT | Securing a Kenyan SACCO from Zero [Part 1 of 6] | Munaniadeno | [Read More](https://medium.com/p/d873d88a449d) |
+| Sun, 14 Dec 2025 12:43:42 GMT | Part 3: How Adversarial Attacks Break AI Models | Faysal Dhimbil | [Read More](https://medium.com/p/ab7b1a8fb030) |
 | Sun, 14 Dec 2025 12:37:50 GMT | Gain Entry to GCP via GitLab Commit : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/9e42eaa99aaa) |
 | Sun, 14 Dec 2025 12:25:10 GMT | Is React Hacked? The Critical Vulnerability That Shook the React Ecosystem | Mert Gökhan Dönmez | [Read More](https://medium.com/p/2e97d47a3d92) |
 | Sun, 14 Dec 2025 12:24:13 GMT | The Python Metaclass Trick That Finally Makes Sense (And When You Actually Need It) | Rizqi Mulki | [Read More](https://medium.com/p/a0fb04964e05) |
@@ -104,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 04:37:47 GMT | Bug Bounty Hunting — Complete Guide (Part-161) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0dcc932cb749) |
 | Sun, 14 Dec 2025 04:36:06 GMT | Bug Bounty Hunting — Complete Guide (Part-160) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/4e6d1a2dc241) |
 | Sun, 14 Dec 2025 04:16:06 GMT | Attackers Know Your Human Patterns Better Than You Do | Muhammad Ali Khan | [Read More](https://medium.com/p/2cac0339ccfc) |
-| Sun, 14 Dec 2025 04:15:03 GMT | Analyzing FTP Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/02cf7abda9cf) |
-| Sun, 14 Dec 2025 04:14:32 GMT | Cognitive Overload vs Automation: When Smart Systems Make Humans Dumber | Muhammad Ali Khan | [Read More](https://medium.com/p/3f055bfb1698) |
-| Sun, 14 Dec 2025 04:04:42 GMT | AUTONOMOUS ESCAPE TEST ARCHIVE — BY SCPX NETWORK | PercyThePigeon | [Read More](https://medium.com/p/4e06310f812d) |
-| Sun, 14 Dec 2025 04:02:17 GMT | UK Targets Rising Russian Undersea Threats | Vic Langston | [Read More](https://medium.com/p/4e37752a01f5) |
-| Sun, 14 Dec 2025 03:48:47 GMT | Lab: Web cache poisoning via ambiguous requests | L4V4NY4  AGR3 | [Read More](https://medium.com/p/905941a417cf) |
-| Sun, 14 Dec 2025 03:32:16 GMT | RoningLoader: Inside the Stealthy Malware Chain That Disarms Endpoint Security | Deven Chhajed | [Read More](https://medium.com/p/00dd00202c28) |
-| Sun, 14 Dec 2025 03:30:17 GMT | We Existed in the Space Between | Bemnet Lulu Abera | [Read More](https://medium.com/p/c092787b46f4) |
-| Sun, 14 Dec 2025 03:24:16 GMT | I didn’t start early.
-I didn’t have clarity.
-I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.com/p/ed6ea56bb304) |
