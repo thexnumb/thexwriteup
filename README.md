@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Dec 2025 03:32:16 GMT | RoningLoader: Inside the Stealthy Malware Chain That Disarms Endpoint Security | Deven Chhajed | [Read More](https://medium.com/p/00dd00202c28) |
+| Sun, 14 Dec 2025 03:30:17 GMT | We Existed in the Space Between | Bemnet Lulu Abera | [Read More](https://medium.com/p/c092787b46f4) |
+| Sun, 14 Dec 2025 03:24:16 GMT | I didn’t start early.
+I didn’t have clarity.
+I didn’t even believe in myself. | Subhashis Dey | [Read More](https://medium.com/p/ed6ea56bb304) |
+| Sun, 14 Dec 2025 03:17:55 GMT | The Industrialization of Deception: Why Human Trust is Your New Attack Surface | Shlok Kshirsagar | [Read More](https://medium.com/p/6aa62f8d5147) |
+| Sun, 14 Dec 2025 03:04:12 GMT | 80 Passwords, 100 Memberships, Endless Exhaustion: Why Is Digital Life So Chaotic? | Syrenka / Mürvet Günday | [Read More](https://medium.com/p/5c57dbae62c1) |
+| Sun, 14 Dec 2025 02:50:44 GMT | JAMMERS: FROM VILLAINS TO DEFENDERS — WHEN INTERFERING CAN HELP PROTECT | Joabe Emanuel Neundorff Kautnick | [Read More](https://medium.com/p/ab5efbc4f13c) |
+| Sun, 14 Dec 2025 02:45:03 GMT | TryHackMe “Stolen Mount” Write-up | Nick Gusto | [Read More](https://medium.com/p/0217ae93b5f9) |
+| Sun, 14 Dec 2025 02:40:20 GMT | DCG MADURAI 0x1: TEMPLE OF HACKS | DEFCON MADURAI (DCG) | [Read More](https://medium.com/p/85911ae535de) |
+| Sun, 14 Dec 2025 02:29:58 GMT | HTML Injection in Search Functionality — A Real-World Case Study | Arul-Hacks | [Read More](https://medium.com/p/7daef7482343) |
+| Sun, 14 Dec 2025 02:05:13 GMT | Security as a First-Class Systems Constraint: Lessons from Real-World Failures | K Anusha | [Read More](https://medium.com/p/28565fd3f4fb) |
 | Sun, 14 Dec 2025 01:38:49 GMT | The Quantum Notary is Real: How I Engineered a “Time Bridge” for Web3 Oracles | Damian Griggs | [Read More](https://medium.com/p/3cbc27e4eba3) |
 | Sun, 14 Dec 2025 01:16:40 GMT | My First Article on Medium.com | Brandon Tennakoon | [Read More](https://medium.com/p/889a9c90473a) |
 | Sun, 14 Dec 2025 01:02:14 GMT | The “Zero-Click” Era: How Hackers Are Weaponizing AI Against You | Malcolm Evans | [Read More](https://medium.com/p/a3814848ac69) |
@@ -103,13 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Dec 2025 14:37:01 GMT | The Creator’s Paradox: Why True Value Requires Radical Vulnerability | Morgan Thain Miller | [Read More](https://medium.com/p/8f036d3e19bb) |
 | Sat, 13 Dec 2025 14:36:15 GMT | Exploring the Most Popular Linux Distributions — Which One Powers Your Workstation? | Paul Meyer | [Read More](https://medium.com/p/2489cb4b09c9) |
 | Sat, 13 Dec 2025 14:34:44 GMT | ️ The Day I Found an Exposed Firebase Database on a Ferrari Subdomain — And Got the “Already… | Anshubind | [Read More](https://medium.com/p/05023b362520) |
-| Sat, 13 Dec 2025 14:33:52 GMT | ✉️ The Day I Found a Hardcoded SendinBlue API Key in a Front-End Script — And Why Email Services… | Anshubind | [Read More](https://medium.com/p/220ac969f10e) |
-| Sat, 13 Dec 2025 14:32:15 GMT | (Comptia A+) The Ultimate Guide to Anti-Malware Best Practices | Vignesh R | [Read More](https://medium.com/p/591059628881) |
-| Sat, 13 Dec 2025 14:29:22 GMT | Juicy CTF : Comment j’ai manipulé un Golden Retriever virtuel pour lui voler ses secrets | Telynor | [Read More](https://medium.com/p/19c5a9de69c6) |
-| Sat, 13 Dec 2025 14:20:54 GMT | What kind of carbon monoxide detector CO alarm should you choose | Vedard Alarm | [Read More](https://medium.com/p/dba71b1afd68) |
-| Sat, 13 Dec 2025 14:20:38 GMT | SAP Security in 2025: Protecting Your ERP from Modern Threats Part 2 | Khan Mohammed Aamir | [Read More](https://medium.com/p/d8d128039b73) |
-| Sat, 13 Dec 2025 14:15:04 GMT | What is Flowcharts and Pseudocode ? | Min Khant | [Read More](https://medium.com/p/3bd7bf671c2a) |
-| Sat, 13 Dec 2025 14:13:33 GMT | Assembly Is Scary — Until You Actually Learn It | Hack-Bat | [Read More](https://medium.com/p/c2f7b4f45e25) |
-| Sat, 13 Dec 2025 14:11:54 GMT | SAP Security in 2025: Protecting Your ERP from Modern Threats Part-1 | Khan Mohammed Aamir | [Read More](https://medium.com/p/566b733d4bb7) |
-| Sat, 13 Dec 2025 14:11:15 GMT | Bagaimana Face Recognition Bekerja di Smartphone Anda? | Almas Indhar Amanullah | [Read More](https://medium.com/p/07c67f04c956) |
-| Sat, 13 Dec 2025 14:09:45 GMT | Navigating the Deep Web in 2026: The Hidden Wiki’s New V3 Home | Jonathan Mwiu | [Read More](https://medium.com/p/de128bff2ea1) |
