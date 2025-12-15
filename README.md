@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 11:07:12 GMT | Delving into experience on hands-on cybersecurity practices | BJ Louis Marcellana | [Read More](https://medium.com/p/609df073a0f7) |
+| Mon, 15 Dec 2025 11:04:21 GMT | Oh to Be Vulnerable | Peero007 | [Read More](https://medium.com/p/1a692e2c9c16) |
+| Mon, 15 Dec 2025 11:02:22 GMT | Best Hyperscale Managed Data Center Service Provider in India | Samvaskaran | [Read More](https://medium.com/p/0d7187045842) |
+| Mon, 15 Dec 2025 10:59:20 GMT | Rain Bird Corporation Reports Payment Card Data Breach After Months-Long Web Store Compromise | Legal Thoughts | [Read More](https://medium.com/p/2a21f99f5efe) |
+| Mon, 15 Dec 2025 10:55:56 GMT | CYBER SECURITY: Protecting Your Digital World | Tanveersehgal | [Read More](https://medium.com/p/c3d4089c02c7) |
 | Mon, 15 Dec 2025 10:49:50 GMT | The Paradox of the 3.4 Million: Why You Can’t Find a Job in a “Desperate” Industry | Nmullenski | [Read More](https://medium.com/p/90406e4854bb) |
 | Mon, 15 Dec 2025 10:49:45 GMT | How I Bypassed Voucher Limits Using a Race Condition Vulnerability | Danish Ahmed | [Read More](https://medium.com/p/8f68a19fbc76) |
 | Mon, 15 Dec 2025 10:49:40 GMT | How a Simple SSTI Turned Into $1,000 and RCE | Danish Ahmed | [Read More](https://medium.com/p/6d121fc4a55e) |
+| Mon, 15 Dec 2025 10:49:37 GMT | Why Monitoring Outbound Connections Is the Fastest Way to Detect a Compromised Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/ef089c7a24a7) |
 | Mon, 15 Dec 2025 10:49:21 GMT | Beyond Credentials: The Hidden Ecosystem of InfoStealers and the Log Economy | Dzianis Skliar | [Read More](https://medium.com/p/35dac21b2fbb) |
 | Mon, 15 Dec 2025 10:49:07 GMT | Precious HTB Machine Walk-Though! | Nmullenski | [Read More](https://medium.com/p/a64d23ab1640) |
 | Mon, 15 Dec 2025 10:49:03 GMT | Your Browser Is Spying On You  — Here’s Proof | Vipul Sonule | [Read More](https://medium.com/p/2e4ca07233fd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 07:02:38 GMT | Web Güvenliğinde Erişim Kontrolü ve Yetki Yükseltme (Privilege Escalation) | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/41164f4bdb9a) |
 | Mon, 15 Dec 2025 07:02:37 GMT | My All-Expenses-Paid Trip to Mauritius: Attending the FIRST & AfricaCERT Symposium | Odunlade Adeola | [Read More](https://medium.com/p/d4434ff5c3e6) |
 | Mon, 15 Dec 2025 07:01:42 GMT | Tải Badminton Blitz Mod Apk (Vô Hạn Tiền) v1.18.9.31 | genzvnmod | [Read More](https://medium.com/p/2f2a24e0168d) |
-| Mon, 15 Dec 2025 07:01:31 GMT | Security Lab Simulation Project Part 11: Installation of Snort3 | Jenny | [Read More](https://medium.com/p/bd74ae824413) |
-| Mon, 15 Dec 2025 06:59:04 GMT | The North Pole Azure Landing Zone | Brian Veldman | [Read More](https://medium.com/p/d1646b3e2451) |
-| Mon, 15 Dec 2025 06:58:26 GMT | Armed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/bfc346717920) |
-| Mon, 15 Dec 2025 06:57:13 GMT | Stay Safe: Why Human Error and Social Engineering Cause Over 95% of Security Breaches | Godluck Akyoo | [Read More](https://medium.com/p/3b94733d5620) |
-| Mon, 15 Dec 2025 06:54:49 GMT | Chain Link Fence in Saudi Arabia A Reliable Cost Effective & Climate Ready Security Solution | Hitechfence | [Read More](https://medium.com/p/9ca85e004f9b) |
-| Mon, 15 Dec 2025 06:48:47 GMT | Tải Back Alley Tales Apk Mod (Vô Hạn Tiền, Việt Hóa) v2.21 | Game4u | [Read More](https://medium.com/p/16f6b61ea54a) |
