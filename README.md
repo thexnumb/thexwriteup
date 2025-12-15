@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 08:32:15 GMT | The “No Breach Found” Trap: When Your Domain Is Exposed Outside Breach Dumps | Alexandre Vandamme | [Read More](https://medium.com/p/bdc7016194b1) |
+| Mon, 15 Dec 2025 08:29:30 GMT | Tải Sakura School Simulator Mod Apk V1.046.01 (Mở Khóa) Mới Nhất | GOCMOD | [Read More](https://medium.com/p/04e06fcf6a61) |
+| Mon, 15 Dec 2025 08:26:38 GMT | Bug Bounty Hunting — Complete Guide (Part-163) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0b38587ff72f) |
+| Mon, 15 Dec 2025 08:24:56 GMT | Bug Bounty Hunting — Complete Guide (Part-162) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/2f0a27daa600) |
+| Mon, 15 Dec 2025 08:23:32 GMT | Deepfakes, Treated as Infrastructure: Engineering a National Authenticity Control Plane (ACP) | Abdalhafeez Bushara | [Read More](https://medium.com/p/7792ccd39f37) |
+| Mon, 15 Dec 2025 08:23:14 GMT | “Who Sent That Email?” — How one tiny Hidden API turned into a spam machine | Munna✨ | [Read More](https://medium.com/p/a56b69a72a4c) |
+| Mon, 15 Dec 2025 08:22:35 GMT | Attack Path Mapping | Fateyaly | [Read More](https://medium.com/p/2120c3d2f7f1) |
+| Mon, 15 Dec 2025 08:08:59 GMT | What Is API Security and Why Should Everyday People Care? | Gift Afortu | [Read More](https://medium.com/p/1d0d5e51f3d3) |
+| Mon, 15 Dec 2025 08:04:28 GMT | More Data, Smarter Security: Unlocking Hunting Power with Microsoft Sentinel Data Lake | CtrlAltDefend | [Read More](https://medium.com/p/a61d3e96d8c9) |
+| Mon, 15 Dec 2025 08:03:34 GMT | Internet Locator io | Timgall | [Read More](https://medium.com/p/5ffcbe03c223) |
+| Mon, 15 Dec 2025 08:02:43 GMT | What Is API Security and Why Should Everyday People Care? | Stella Obatoye | [Read More](https://medium.com/p/199ffb2a4c6e) |
+| Mon, 15 Dec 2025 07:58:13 GMT | React2Shell: A Critical React Security Bug | Tushar Kanjariya | [Read More](https://medium.com/p/d7d07c72b919) |
+| Mon, 15 Dec 2025 07:54:26 GMT | Growth, Grit, and Everything In-Between | Gift Afortu | [Read More](https://medium.com/p/997b15e8737f) |
+| Mon, 15 Dec 2025 07:54:16 GMT | Hack The Box Broke My Brain — And That’s Why It Works | Kenneth Solomon | [Read More](https://medium.com/p/069548688737) |
+| Mon, 15 Dec 2025 07:47:48 GMT | Maximize Business Email Protection with the Best Cloud Email Security Provider in Australia | IT Company | [Read More](https://medium.com/p/616810353fea) |
+| Mon, 15 Dec 2025 07:47:05 GMT | How to Test DNS Leak and Make Sure Your Online Activity Stays Private | Anna Kolodkina | [Read More](https://medium.com/p/847da2a72985) |
+| Mon, 15 Dec 2025 07:46:53 GMT | The Pivot: Hunting Hidden Doors with Fuzzing and Multi-Platform Mindset | Janhvee Laad | [Read More](https://medium.com/p/9a64baca3a7e) |
 | Mon, 15 Dec 2025 07:39:30 GMT | eJPT Prep - Host & Network Penetration Testing: Exploitation CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/3192c00d5740) |
+| Mon, 15 Dec 2025 07:38:51 GMT | Why South Korea’s New AI Ad Labeling Rules Matter for Trust and Consumer Protection | Tayyab Bin Tariq | [Read More](https://medium.com/p/9cdf772d39a9) |
 | Mon, 15 Dec 2025 07:31:02 GMT | Containers — DoorDasher’s Demise - Advent of Cyber 2025 Day 14 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/be82af87f2a7) |
 | Mon, 15 Dec 2025 07:29:32 GMT | Will Junior Developers Exist in 5 Years? An AI Reality Check | Vishwas Thangella | [Read More](https://medium.com/p/d8d1166976dd) |
 | Mon, 15 Dec 2025 07:24:01 GMT | Volatility Plugins — Plugin windows.handles Let’s Talk About it | Dean | [Read More](https://medium.com/p/2ab930c5a2b1) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 01:58:31 GMT | Google, I’m Sorry. I Think I Broke It. | YUZU | [Read More](https://medium.com/p/74b2fa63cdc8) |
 | Mon, 15 Dec 2025 01:56:34 GMT | The Sweetest, Happiest Sayings: You Be Beautiful and Glamorous, I’ll Work Hard to Make Money | Xiaochen | [Read More](https://medium.com/p/e3b58609d111) |
 | Mon, 15 Dec 2025 01:17:13 GMT | Some thoughts don’t need a label — just a space to linger | Yugiee & Thoughts | [Read More](https://medium.com/p/d789038ab9f3) |
-| Mon, 15 Dec 2025 01:13:00 GMT | A arrogância tem um fim inevitável — seja na dor da doença ou, em último caso, na morte. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/5a662c89ff89) |
-| Mon, 15 Dec 2025 01:06:38 GMT | 7 Azure Security Gaps I’ve Seen in Production (and How to Fix Them) | V Ray | [Read More](https://medium.com/p/e1e4b67cea92) |
-| Mon, 15 Dec 2025 00:58:15 GMT | Weeloan loan customer care number /❽❺❾❼❶❸❷❹❸❸//8972701422 Weeloan up h | Grwj Ds | [Read More](https://medium.com/p/c3c33beed884) |
-| Mon, 15 Dec 2025 00:41:50 GMT | Proving Grounds - Clue | jniket | [Read More](https://medium.com/p/b0e197d9be56) |
-| Mon, 15 Dec 2025 00:24:31 GMT | How Holiday Retail Emails Became Silent Surveillance Tools | Geoffrey Wenger | [Read More](https://medium.com/p/7b16446b8a86) |
-| Mon, 15 Dec 2025 00:24:25 GMT | Chrome’s Emergency Update Shows How Fast Browser Risk Moves | Geoffrey Wenger | [Read More](https://medium.com/p/07d6fdacb8ed) |
-| Mon, 15 Dec 2025 00:13:06 GMT | New Tech & Cybersecurity: Your Daily Briefing on Digital Threats and Breakthroughs | Abstract Mind | [Read More](https://medium.com/p/103cb0b8f5bc) |
-| Sun, 14 Dec 2025 23:57:54 GMT | The Next War Begins Today | Yuliia Popovska | [Read More](https://medium.com/p/a63c88092815) |
-| Sun, 14 Dec 2025 23:36:18 GMT | How I discovered leaked Snowflake credentials for a Fortune 500 Manufacturing Company using… | Tillson Galloway | [Read More](https://medium.com/p/6adfdfcc3657) |
-| Sun, 14 Dec 2025 23:32:15 GMT | La Gravité Numérique : Quand les actifs se cachent pour mourir | ZOC Research Lab | [Read More](https://medium.com/p/58e3aa0075be) |
-| Sun, 14 Dec 2025 23:11:54 GMT | Risk Aware Cybersecurity Models: Evolving Beyond Standard Random Forests | Nishi Kaura | [Read More](https://medium.com/p/929274e53fe9) |
-| Sun, 14 Dec 2025 23:08:01 GMT | The Boring Checklist That Fails Cyber Essentials: Asset Management for Real‑World SMEs | Laurentiu Barbu | [Read More](https://medium.com/p/dad78e7e5cd5) |
-| Sun, 14 Dec 2025 23:07:27 GMT | Local Privilege Escalation via Docker Misconfiguration in Linux Operating Systems | Shady mulla | [Read More](https://medium.com/p/120c4fc105e6) |
-| Sun, 14 Dec 2025 23:02:17 GMT | Offensive AI Threatening DeFI | Web3.com Ventures | [Read More](https://medium.com/p/1e8bc71c00b5) |
-| Sun, 14 Dec 2025 22:53:06 GMT | Zombie Scan (Idle Scan) in Nmap Explained: How It Works, Commands, and Real-World Use | webcipher101 | [Read More](https://medium.com/p/c852e4fab823) |
-| Sun, 14 Dec 2025 22:49:29 GMT | Why MFA has become Non‑Negotiable in Cyber Essentials | Laurentiu Barbu | [Read More](https://medium.com/p/c73f420c3434) |
-| Sun, 14 Dec 2025 22:48:22 GMT | DNS Sinkholes: A Simple Guide to Protecting Your Network | Raviteja Mureboina | [Read More](https://medium.com/p/fc1c8200f184) |
-| Sun, 14 Dec 2025 22:11:19 GMT | Why Your AI-Generated Code is Probably Garbage (And How to Fix It) | Satinath Mondal | [Read More](https://medium.com/p/6adcd19a8fdb) |
