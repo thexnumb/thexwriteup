@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 23:29:24 GMT | Seasons— The "Face of the Leaf" | Lilacs violet | [Read More](https://medium.com/p/1990befd8e82) |
+| Mon, 15 Dec 2025 23:29:16 GMT | A Practical Guide to Typography Hierarchy in UI Systems | Haadi Alhassan | [Read More](https://medium.com/p/bf6a792c3302) |
 | Mon, 15 Dec 2025 22:59:46 GMT | Cyber Essentials Explained: The UK Cybersecurity Badge Your Business Can’t Ignore in 2026 | Laurentiu Barbu | [Read More](https://medium.com/p/f6636405fbb9) |
 | Mon, 15 Dec 2025 22:55:41 GMT | Are LLMs actually good enough to replace humans in static code analysis? | Cyber-AppSec | [Read More](https://medium.com/p/532bcd7902a7) |
 | Mon, 15 Dec 2025 22:41:42 GMT | I Almost Lost $47,000 to a “Security Upgrade” That Looked Completely Legitimate | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/ae63e56bbe8f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 16:36:53 GMT | The Complete Guide to Modern Identity Theft Prevention | Mr Technology | [Read More](https://medium.com/p/376a426fb14d) |
 | Mon, 15 Dec 2025 16:27:50 GMT | [90 days to CompTIA Security+] — Day 1/90 | Lam Nguyen | [Read More](https://medium.com/p/4f934b7f853e) |
 | Mon, 15 Dec 2025 16:23:02 GMT | Long Rallies Aren’t Just Boring, They Make Us Less Safe | Patrick Young | [Read More](https://medium.com/p/14d829e52d9b) |
-| Mon, 15 Dec 2025 16:21:26 GMT | Depth Isn’t the Problem. Letting It Hurt You Is. | Tanvi Nagare | [Read More](https://medium.com/p/f348104d216b) |
-| Mon, 15 Dec 2025 16:20:44 GMT | Advent of Cyber 2025 Day4 — Tryhackme walkthrough(Room:-AI in Security — old sAInt nick) | TRedEye | [Read More](https://medium.com/p/0aebe41f9e8b) |
