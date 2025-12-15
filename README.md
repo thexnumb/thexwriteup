@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 01:17:13 GMT | Some thoughts don’t need a label — just a space to linger | Yugiee & Thoughts | [Read More](https://medium.com/p/d789038ab9f3) |
+| Mon, 15 Dec 2025 01:06:38 GMT | 7 Azure Security Gaps I’ve Seen in Production (and How to Fix Them) | V Ray | [Read More](https://medium.com/p/e1e4b67cea92) |
+| Mon, 15 Dec 2025 00:58:15 GMT | Weeloan loan customer care number /❽❺❾❼❶❸❷❹❸❸//8972701422 Weeloan up h | Grwj Ds | [Read More](https://medium.com/p/c3c33beed884) |
+| Mon, 15 Dec 2025 00:41:50 GMT | Proving Grounds - Clue | jniket | [Read More](https://medium.com/p/b0e197d9be56) |
+| Mon, 15 Dec 2025 00:24:31 GMT | How Holiday Retail Emails Became Silent Surveillance Tools | Geoffrey Wenger | [Read More](https://medium.com/p/7b16446b8a86) |
+| Mon, 15 Dec 2025 00:24:25 GMT | Chrome’s Emergency Update Shows How Fast Browser Risk Moves | Geoffrey Wenger | [Read More](https://medium.com/p/07d6fdacb8ed) |
+| Mon, 15 Dec 2025 00:13:06 GMT | New Tech & Cybersecurity: Your Daily Briefing on Digital Threats and Breakthroughs | Abstract Mind | [Read More](https://medium.com/p/103cb0b8f5bc) |
+| Sun, 14 Dec 2025 23:57:54 GMT | The Next War Begins Today | Yuliia Popovska | [Read More](https://medium.com/p/a63c88092815) |
+| Sun, 14 Dec 2025 23:36:18 GMT | How I discovered leaked Snowflake credentials for a Fortune 500 Manufacturing Company using… | Tillson Galloway | [Read More](https://medium.com/p/6adfdfcc3657) |
+| Sun, 14 Dec 2025 23:32:15 GMT | La Gravité Numérique : Quand les actifs se cachent pour mourir | ZOC Research Lab | [Read More](https://medium.com/p/58e3aa0075be) |
 | Sun, 14 Dec 2025 23:11:54 GMT | Risk Aware Cybersecurity Models: Evolving Beyond Standard Random Forests | Nishi Kaura | [Read More](https://medium.com/p/929274e53fe9) |
 | Sun, 14 Dec 2025 23:08:01 GMT | The Boring Checklist That Fails Cyber Essentials: Asset Management for Real‑World SMEs | Laurentiu Barbu | [Read More](https://medium.com/p/dad78e7e5cd5) |
 | Sun, 14 Dec 2025 23:07:27 GMT | Local Privilege Escalation via Docker Misconfiguration in Linux Operating Systems | Shady mulla | [Read More](https://medium.com/p/120c4fc105e6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 15:41:08 GMT | [論文筆記] 為什麼「詩歌」成了 LLM 的越獄密碼？解析 Adversarial Poetry 攻擊 | Joe Hsu | [Read More](https://medium.com/p/c08c1da108de) |
 | Sun, 14 Dec 2025 15:36:39 GMT | Padelify CTF Write-up: When WAFs play padel and lose | Telynor | [Read More](https://medium.com/p/4d3fd6dcee6f) |
 | Sun, 14 Dec 2025 15:35:07 GMT | ShieldCommit: How Real Cloud Mistakes Inspired Me to Build a Simple Security Tool | Krishna Fattepurkar | [Read More](https://medium.com/p/107c71d5516f) |
-| Sun, 14 Dec 2025 15:34:20 GMT | ICML 2025 - The “Art of Balance” in Federated Learning: The FedCEO Framework Cracks the Dilemma of… | Yuecheng Li | [Read More](https://medium.com/p/326c9d8bd5fe) |
-| Sun, 14 Dec 2025 15:34:12 GMT | Visualizing Wazuh Detection Coverage with MITRE ATT&CK (Hands-On) | Analystx30 | [Read More](https://medium.com/p/1bbc2d30946c) |
-| Sun, 14 Dec 2025 15:30:43 GMT | Cybersecurity Writing Pays More Than You Think | Muhammad Haider Tallal | [Read More](https://medium.com/p/ddaea703d591) |
-| Sun, 14 Dec 2025 15:15:07 GMT | MeetCyber Women Coffee Circles | MeetCyber Editor | [Read More](https://medium.com/p/34ca86c5d75b) |
-| Sun, 14 Dec 2025 15:13:50 GMT | Practical CSRF Protection for Cookie-Based APIs | Nitish Mehta | [Read More](https://medium.com/p/691463f6d654) |
-| Sun, 14 Dec 2025 15:02:22 GMT | How to Integrate Spring Boot 3 with Aws Secret Manager and Parameter Store Using AWS SDK v2 | Fahim Fahad | [Read More](https://medium.com/p/390a59cfdbae) |
-| Sun, 14 Dec 2025 14:58:36 GMT | YARA Rules — YARA mean one!-Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/457593bd68c5) |
-| Sun, 14 Dec 2025 14:49:54 GMT | My Pull Request to OpenPrinting Got Merged: Fixing SpliX Driver Metadata | Ayush Singh | [Read More](https://medium.com/p/23558cb44dfc) |
-| Sun, 14 Dec 2025 14:42:17 GMT | Why Cybersecurity Conferences Don’t Actually Make You Safer | Cyberkech | [Read More](https://medium.com/p/31cc3b1b4ecd) |
-| Sun, 14 Dec 2025 14:41:54 GMT | Why Hackers Love thefuck: The Terminal Weapon You Didn’t Know You Needed | ghostyjoe | [Read More](https://medium.com/p/f45fa6726749) |
