@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 20:43:53 GMT | Best Laptop for Cyber Security | Draft Gadgets | [Read More](https://medium.com/p/a0d232c5f585) |
+| Mon, 15 Dec 2025 20:34:26 GMT | Try Hack Me- Brooklyn Nine Nine Walkthrough | Herrfuhrer | [Read More](https://medium.com/p/3b2028a01de3) |
 | Mon, 15 Dec 2025 20:11:08 GMT | Single-Character Domains Exist and Why You Can’t Register One Today | declan | [Read More](https://medium.com/p/e22f690e4a1d) |
 | Mon, 15 Dec 2025 20:07:09 GMT | From Format String to Building a ROP chain ft. musl libc — niteCTF 2025 | Somnath Das | [Read More](https://medium.com/p/1d3ef9838d12) |
 | Mon, 15 Dec 2025 19:59:14 GMT | Best Crypto Asset Recovery Service Providers: Top Firms to Retrieve Lost Bitcoin: Reach Out To… | Kevin Braiw | [Read More](https://medium.com/p/f72f455432d4) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 15:24:21 GMT | picoCTF: Dear Diary (Disk Forensics) | Rafael Cliffordtan | [Read More](https://medium.com/p/bebd3204f99b) |
 | Mon, 15 Dec 2025 15:21:29 GMT | How My EOA Was Hijacked by an EIP-7702 Delegation on Sepolia (hopefully just it) and How to Revoke… | Evgenii | [Read More](https://medium.com/p/1dc69bc2138f) |
 | Mon, 15 Dec 2025 15:15:47 GMT | How Much Does CCTV Installation Really Cost in Kenya? A Practical Breakdown (From the Field) | Debrazz Security Systems | [Read More](https://medium.com/p/976be99d53af) |
-| Mon, 15 Dec 2025 15:12:55 GMT | Evading EDR Hooks With Indirect Syscalls and Tartarus Gate | Muaaz | [Read More](https://medium.com/p/219e3a094337) |
-| Mon, 15 Dec 2025 15:10:43 GMT | From Scrolls to Code: How Ancient Libraries Teach Us Domain-Driven Design | Jitin Kayyala | [Read More](https://medium.com/p/ab624c7036a1) |
