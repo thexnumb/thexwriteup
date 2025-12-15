@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 22:35:39 GMT | Advent of Cyber 2025 - Day 15: Web Attack Forensics — Drone Alone | D4m.sh | [Read More](https://medium.com/p/87910fec363f) |
+| Mon, 15 Dec 2025 22:29:00 GMT | Five Dangerous Cybersecurity Truths for 2026 That Make Your Old Playbook Obsolete | WayneReidUK | [Read More](https://medium.com/p/28a7144c6870) |
 | Mon, 15 Dec 2025 21:53:31 GMT | If I Joined Your Security Team, This Is What I’d Fix in the First 90 Days | Beri Contraster | [Read More](https://medium.com/p/cd748f8e8ded) |
 | Mon, 15 Dec 2025 21:50:06 GMT | Implementing the Security Technical Implementation Guide (STIG) on ubuntu-24_04-lts | Kevin Troell | [Read More](https://medium.com/p/e1eb83e75a32) |
 | Mon, 15 Dec 2025 21:39:43 GMT | The Salt of the Earth | Amy Potter | [Read More](https://medium.com/p/34014be52d20) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 16:11:42 GMT | My CISSP Journey 2025: From Evening Walks to Cybersecurity Certification | Muhammad Bilal | [Read More](https://medium.com/p/14a6ae9e2ad9) |
 | Mon, 15 Dec 2025 16:10:47 GMT | How to Drill Out a Cylinder Lock: Safe Pro Methods | Sure Lock & Key LLC | [Read More](https://medium.com/p/8185901b7c18) |
 | Mon, 15 Dec 2025 16:04:31 GMT | ISO vs IEC | Venkat Subramaniyan | [Read More](https://medium.com/p/f35d4ef8e0c3) |
-| Mon, 15 Dec 2025 15:58:21 GMT | Kerberos Delegation and Common Attack Scenarios | Louis Trout | [Read More](https://medium.com/p/f493f9bd235a) |
-| Mon, 15 Dec 2025 15:56:14 GMT | Strengthening Medical Device Cybersecurity: Deep Dive into Regulations & IEC 81001‑5‑1 | Venkat Subramaniyan | [Read More](https://medium.com/p/e758241e485d) |
