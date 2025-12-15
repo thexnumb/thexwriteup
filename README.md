@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 04:24:59 GMT | Threat Modeling Checklist for Mobile App Development | Raghunandan J | [Read More](https://medium.com/p/1135004efb5f) |
+| Mon, 15 Dec 2025 04:20:49 GMT | AI vs Hackers: A Cyber War Most People Don’t Even Notice | Shahebaz | [Read More](https://medium.com/p/ae48d3e363dd) |
+| Mon, 15 Dec 2025 04:06:22 GMT | Performing CVE-2020–3596 in Four Steps: Crashing Cisco VCS via SIP | JunoonBro | [Read More](https://medium.com/p/42059155037e) |
+| Mon, 15 Dec 2025 04:04:17 GMT | Rekuva, Self-Custody and User Responsibility: What You Must Understand Before Using It | Rekuva: The "Ctrl+Z" for Your Wallet | [Read More](https://medium.com/p/499e20cbfca3) |
+| Mon, 15 Dec 2025 04:02:03 GMT | [Broken Access Control] Removed members can access any post content in a Microsoft Teams community | Rohmad Hidayah | [Read More](https://medium.com/p/1e1dbb34cc1d) |
+| Mon, 15 Dec 2025 03:59:46 GMT | Global IT Infrastructure: The Backbone of the Digital World | Airconnectinfosystemspvtltd | [Read More](https://medium.com/p/426cb00fc2bd) |
 | Mon, 15 Dec 2025 03:35:05 GMT | CloudSEK Hiring CTF December 2025- Round 2 -WriteUP | Adithyanpezheri | [Read More](https://medium.com/p/7c78e57ffb1c) |
 | Mon, 15 Dec 2025 03:34:20 GMT | Help Make Tech Support Better | David Buckwalter | [Read More](https://medium.com/p/fec7c30ee1d1) |
 | Mon, 15 Dec 2025 03:32:17 GMT | Top 10 Tools for Testing Node.js API Resilience | Arunangshu Das | [Read More](https://medium.com/p/f8d6d2e8b956) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 16:46:10 GMT | Cybersecurity: The Black, Grey, and White | Anugrah Gansalangi | [Read More](https://medium.com/p/7431b6448d30) |
 | Sun, 14 Dec 2025 16:44:53 GMT | TryHackMe Writeup: The Server From Hell | Berkay AĞGÜL | [Read More](https://medium.com/p/9031589995ee) |
 | Sun, 14 Dec 2025 16:39:34 GMT | CodePartTwo Writeup — HTB | ItsProbably1v9 | [Read More](https://medium.com/p/4d60f47eaf33) |
-| Sun, 14 Dec 2025 16:37:57 GMT | The Real Cost of a Cyber Breach Is Not in IT. It Is in Cash Flow, Valuation, and Insurance. | Jennifer Lawrence | [Read More](https://medium.com/p/be1b7193536d) |
-| Sun, 14 Dec 2025 16:35:23 GMT | Tokens are just digital wristbands that apps use to remember you. | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f8db0f35bb88) |
-| Sun, 14 Dec 2025 16:35:09 GMT | What is a Race Condition? | Gohar Ghukasyan | [Read More](https://medium.com/p/8f3244b8dda4) |
-| Sun, 14 Dec 2025 16:34:26 GMT | We Don’t Need Your Eyeballs to Prove You’re Human | BiyteLüm | [Read More](https://medium.com/p/5816bd3cd625) |
-| Sun, 14 Dec 2025 16:32:55 GMT | OASIS INFOBYTE OIBSIP | Divyagoyal | [Read More](https://medium.com/p/f3db25d6f184) |
-| Sun, 14 Dec 2025 16:29:33 GMT | DECENTRALIZED AI AND BLOCKCHAIN CYBERSECURITY GUIDE | Adesowapo Adeyemi | [Read More](https://medium.com/p/cac23798203e) |
