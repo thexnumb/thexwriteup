@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 11:34:29 GMT | PortSwigger SQL Injection Lab Çözümleri-3 | ENES KURTULAN | [Read More](https://medium.com/p/7cda9a677328) |
+| Mon, 15 Dec 2025 11:31:14 GMT | Next-Gen Turnstiles That Move as Fast as Your Business in KSA & GCC | Tekshoyabeelyas | [Read More](https://medium.com/p/7ccaa36ad34b) |
+| Mon, 15 Dec 2025 11:31:10 GMT | Launch Big on a Small Budget: The Rise of Cheap Linux Reseller Hosting in 2025 | Janet Watson | [Read More](https://medium.com/p/60d81d18ad6f) |
+| Mon, 15 Dec 2025 11:30:44 GMT | Understanding Address Poisoning | Connor Kenway | [Read More](https://medium.com/p/df36c21effba) |
+| Mon, 15 Dec 2025 11:29:28 GMT | Bugs across the world’s languages. Let’s check LanguageTool | Unicorn Developer | [Read More](https://medium.com/p/26e27797eaa8) |
 | Mon, 15 Dec 2025 11:07:12 GMT | Delving into experience on hands-on cybersecurity practices | BJ Louis Marcellana | [Read More](https://medium.com/p/609df073a0f7) |
 | Mon, 15 Dec 2025 11:04:21 GMT | Oh to Be Vulnerable | Peero007 | [Read More](https://medium.com/p/1a692e2c9c16) |
 | Mon, 15 Dec 2025 11:02:22 GMT | Best Hyperscale Managed Data Center Service Provider in India | Samvaskaran | [Read More](https://medium.com/p/0d7187045842) |
+| Mon, 15 Dec 2025 11:01:19 GMT | How OT Cybersecurity Services Reduce Risks and Downtime | Arista Cyber | [Read More](https://medium.com/p/75bc468d2544) |
 | Mon, 15 Dec 2025 10:59:20 GMT | Rain Bird Corporation Reports Payment Card Data Breach After Months-Long Web Store Compromise | Legal Thoughts | [Read More](https://medium.com/p/2a21f99f5efe) |
 | Mon, 15 Dec 2025 10:55:56 GMT | CYBER SECURITY: Protecting Your Digital World | Tanveersehgal | [Read More](https://medium.com/p/c3d4089c02c7) |
 | Mon, 15 Dec 2025 10:49:50 GMT | The Paradox of the 3.4 Million: Why You Can’t Find a Job in a “Desperate” Industry | Nmullenski | [Read More](https://medium.com/p/90406e4854bb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 07:15:52 GMT | Automating the Hunt: How I Built a Detection-as-Code Pipeline That Deploys Rules | CyberFreak | [Read More](https://medium.com/p/52002d5cae80) |
 | Mon, 15 Dec 2025 07:10:59 GMT | Smart Home Setup: Budget vs Premium Options That Actually Work | Ghulamabbas | [Read More](https://medium.com/p/1b44e336a6d6) |
 | Mon, 15 Dec 2025 07:09:59 GMT | Fixing the 503: Architecting Highly Available WooCommerce for Peak Traffic | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/e3f81fa96481) |
-| Mon, 15 Dec 2025 07:06:42 GMT | The Shocking Truth: Why Even “Good” Couples Cheat in Modern Marriage | Daisy Lewis | [Read More](https://medium.com/p/1b88541b0ed9) |
-| Mon, 15 Dec 2025 07:05:18 GMT | Unarmed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/171ae8c01c31) |
-| Mon, 15 Dec 2025 07:02:42 GMT | Felaketlere Rağmen Ayakta Kalan Altyapı: Güvenilir Ağların 4 Temel Sırrı | HSD Kayseri Üniversitesi | [Read More](https://medium.com/p/96ed36b69ef0) |
-| Mon, 15 Dec 2025 07:02:38 GMT | Web Güvenliğinde Erişim Kontrolü ve Yetki Yükseltme (Privilege Escalation) | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/41164f4bdb9a) |
-| Mon, 15 Dec 2025 07:02:37 GMT | My All-Expenses-Paid Trip to Mauritius: Attending the FIRST & AfricaCERT Symposium | Odunlade Adeola | [Read More](https://medium.com/p/d4434ff5c3e6) |
-| Mon, 15 Dec 2025 07:01:42 GMT | Tải Badminton Blitz Mod Apk (Vô Hạn Tiền) v1.18.9.31 | genzvnmod | [Read More](https://medium.com/p/2f2a24e0168d) |
