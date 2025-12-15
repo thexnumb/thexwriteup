@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 21:29:01 GMT | Getting Started with Burpsuite for API Security Testing | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/33316140e00f) |
+| Mon, 15 Dec 2025 21:28:56 GMT | The Scariest Threat in “A House of Dynamite” | B. F. Campbell | [Read More](https://medium.com/p/2530f342a8f7) |
+| Mon, 15 Dec 2025 21:26:36 GMT | Payload Shape Injection: The API Security Risk Nobody Names | Mohammad Abir Abbas | [Read More](https://medium.com/p/a820e080a3a1) |
+| Mon, 15 Dec 2025 21:22:00 GMT | Directory Transversal lead to RCE - Manual hacking. | Alejandro Estupiñán | [Read More](https://medium.com/p/df33825e2023) |
+| Mon, 15 Dec 2025 21:20:37 GMT | From Clone to Detection: Deploying an AI-Powered Phishing Detection System in Under an Hour | Andycarsan | [Read More](https://medium.com/p/74ea8323b19e) |
+| Mon, 15 Dec 2025 21:12:13 GMT | Building an Attack Surface Monitoring Engine (ASM) with FastAPI and Nmap | Pranshu Pathak | [Read More](https://medium.com/p/37d3fe91191a) |
 | Mon, 15 Dec 2025 21:10:33 GMT | Two Years Later, Justice Still Eludes Family of Slain Casino Security Guard | Scott Hill | [Read More](https://medium.com/p/8d88db7df50d) |
 | Mon, 15 Dec 2025 21:08:37 GMT | How I Used an IDOR to Trigger XSS and Take Over All Accounts | Codi | [Read More](https://medium.com/p/09ceca8e843a) |
 | Mon, 15 Dec 2025 21:00:47 GMT | FortiGate Firewall ile Ağ Güvenliği Temel Kullanım Rehberi, Bileşenler ve USOM (SSL / SSH… | ZehraAydogdu | [Read More](https://medium.com/p/38235100242c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 15:53:21 GMT | A Comprehensive Guide to Hacking, Virtual Machines, Linux, and Networking | Ajojose | [Read More](https://medium.com/p/e095130c78ed) |
 | Mon, 15 Dec 2025 15:44:32 GMT | TryHackMe Write‑Up: Linux Logging for SOC | Toge24_ | [Read More](https://medium.com/p/3b0bff7d6ea5) |
 | Mon, 15 Dec 2025 15:43:23 GMT | The 20% That Delivers 80% of Microsoft Defender for Cloud’s Value in Azure | Ahmed Monsri | [Read More](https://medium.com/p/e5d2307f6fed) |
-| Mon, 15 Dec 2025 15:40:09 GMT | Recon Dorking: The Art of Advanced Information Gathering for Cybersecurity | N0aziXss | [Read More](https://medium.com/p/3bcf4a1625c8) |
-| Mon, 15 Dec 2025 15:40:09 GMT | Configure authentication in a React.js app by using Microsoft Entra External ID | Parfaitkouess | [Read More](https://medium.com/p/5382004e34b9) |
-| Mon, 15 Dec 2025 15:39:08 GMT | Day 14: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/73ae5100c1cf) |
-| Mon, 15 Dec 2025 15:37:57 GMT | The Best Hire I Almost Didn’t Make | Ben Wachstein | [Read More](https://medium.com/p/f8ed7791eee8) |
-| Mon, 15 Dec 2025 15:36:15 GMT | HackTheBox Machine: GreenHorn (Steganography / Image Forensic) | Rafael Cliffordtan | [Read More](https://medium.com/p/e352284f8b48) |
-| Mon, 15 Dec 2025 15:32:38 GMT | PVS-14 vs Modern Night Vision Devices: Why Professionals Still Trust the Classic | Night Vision 4 Less | [Read More](https://medium.com/p/1d7f13aa73be) |
