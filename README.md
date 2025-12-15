@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 17:47:12 GMT | Enable Password less SSH Authentication on Linux | Rohan Sirohi | [Read More](https://medium.com/p/734ee23a7352) |
+| Mon, 15 Dec 2025 17:39:19 GMT | FHIR API Security: Beyond OAuth 2.0 | Cyberspecs | [Read More](https://medium.com/p/89c2ecd9c0d4) |
+| Mon, 15 Dec 2025 17:38:14 GMT | Technology Strategy vs Digital Transformation: Key Differences Every Business Must Understand… | Sophiajones | [Read More](https://medium.com/p/23171398513b) |
+| Mon, 15 Dec 2025 17:33:27 GMT | The Fight for Neural Sovereignty Is Just Beginning | Len Noe | [Read More](https://medium.com/p/4a140f28d83c) |
+| Mon, 15 Dec 2025 17:30:30 GMT | I’m not arrogant — I just execute what others only talk about. | Neerav | [Read More](https://medium.com/p/55cdac9f49cc) |
+| Mon, 15 Dec 2025 17:29:46 GMT | A Turning Point for Britain’s Digital Defences | Digital Auditor | [Read More](https://medium.com/p/317ff0a0accd) |
+| Mon, 15 Dec 2025 17:27:49 GMT | In-the-Wild Threat Hunting Using Composite Scoring and VirusTotal Telemetry | Manuel Arrieta | [Read More](https://medium.com/p/53605f27ae17) |
+| Mon, 15 Dec 2025 17:22:24 GMT | How Ride-Sharing Apps Solve Bipartite Matching at Scale | The Dev Notebook | [Read More](https://medium.com/p/a0150deda26d) |
+| Mon, 15 Dec 2025 17:22:14 GMT | Go’s crypto/… Packages Don’t Make Crypto Easy — They Make It Possible | syarif | [Read More](https://medium.com/p/047f3420feb1) |
 | Mon, 15 Dec 2025 17:18:09 GMT | 700Credit LLC Data Breach Highlights Third-Party Cyber Risks in Automotive Finance | Legal Thoughts | [Read More](https://medium.com/p/f99f9a0bd819) |
 | Mon, 15 Dec 2025 17:17:15 GMT | System Incident Report: FLIPKART-DELIVERY-2025–12–15 | Jayal Yadav | [Read More](https://medium.com/p/fd66a02e8d0a) |
 | Mon, 15 Dec 2025 17:14:16 GMT | HTB Cap Write-up beginner friendly | Tokiko | [Read More](https://medium.com/p/83da2a3e2cae) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 12:39:22 GMT | API1:2023 — Broken Object Level Authorization | Apifort | [Read More](https://medium.com/p/e7c9f90f1ecd) |
 | Mon, 15 Dec 2025 12:38:23 GMT | How AI Cameras Are Transforming Industrial Safety and Risk Management | Dolon Ghosh | [Read More](https://medium.com/p/940d4d16b728) |
 | Mon, 15 Dec 2025 12:36:42 GMT | Revisiting the Big Data Landscape: | Mainak Biswas | [Read More](https://medium.com/p/526e9d215b1f) |
-| Mon, 15 Dec 2025 12:35:35 GMT | When Attackers Think Like Your Business, Penetration Testing Becomes Essential | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/8945e12e707d) |
-| Mon, 15 Dec 2025 12:33:12 GMT | Deep Dive: OAuth 2.0 Vulnerabilities & Exploitation Guide | Fuzzyy Duck | [Read More](https://medium.com/p/a468f84d57b7) |
-| Mon, 15 Dec 2025 12:30:51 GMT | 10 Crucial Skills Every Tech Professional Should Learn | Ruang Mawartoto | [Read More](https://medium.com/p/9d7488d04478) |
-| Mon, 15 Dec 2025 12:30:15 GMT | Event Services in the UK — Luxury, Reliable & Professional Event Solutions | waeventservices.co.uk/ | [Read More](https://medium.com/p/ab3bf10db618) |
-| Mon, 15 Dec 2025 12:29:03 GMT | What sets your cybersecurity solutions apart from other providers in Orange County? | Strike Works | [Read More](https://medium.com/p/4ff6ad11daf9) |
-| Mon, 15 Dec 2025 12:27:44 GMT | TryHackMe - Windows Logging for SOC Walkthrough | Birdv | [Read More](https://medium.com/p/51e9a7909871) |
-| Mon, 15 Dec 2025 12:27:06 GMT | How an LLM and One Curious Non-Engineer Eliminated the Last 25 % Mystery of Turbofan Thrust in One… | Berend Watchus | [Read More](https://medium.com/p/b2a0981ee7be) |
-| Mon, 15 Dec 2025 12:17:07 GMT | From the Glitch of 2025 to the Architecture of Trust in 2026 | ComsignTrust LTD | [Read More](https://medium.com/p/c99fb68d74f3) |
-| Mon, 15 Dec 2025 12:16:39 GMT | CSRF vs JWT: The One Story That Finally Makes It Click | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/16352ef67196) |
