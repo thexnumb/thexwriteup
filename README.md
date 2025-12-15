@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 21:10:33 GMT | Two Years Later, Justice Still Eludes Family of Slain Casino Security Guard | Scott Hill | [Read More](https://medium.com/p/8d88db7df50d) |
+| Mon, 15 Dec 2025 21:08:37 GMT | How I Used an IDOR to Trigger XSS and Take Over All Accounts | Codi | [Read More](https://medium.com/p/09ceca8e843a) |
+| Mon, 15 Dec 2025 21:00:47 GMT | FortiGate Firewall ile Ağ Güvenliği Temel Kullanım Rehberi, Bileşenler ve USOM (SSL / SSH… | ZehraAydogdu | [Read More](https://medium.com/p/38235100242c) |
+| Mon, 15 Dec 2025 20:46:53 GMT | GCC Cracking RSA with Partial Information | Mahmoud Fawzy | [Read More](https://medium.com/p/007d02ff08ca) |
 | Mon, 15 Dec 2025 20:43:53 GMT | Best Laptop for Cyber Security | Draft Gadgets | [Read More](https://medium.com/p/a0d232c5f585) |
+| Mon, 15 Dec 2025 20:42:14 GMT | Building a Threat Detection Lab with Wireshark and Nmap | Secured By Sebastion | [Read More](https://medium.com/p/00d37d571382) |
 | Mon, 15 Dec 2025 20:34:26 GMT | Try Hack Me- Brooklyn Nine Nine Walkthrough | Herrfuhrer | [Read More](https://medium.com/p/3b2028a01de3) |
 | Mon, 15 Dec 2025 20:11:08 GMT | Single-Character Domains Exist and Why You Can’t Register One Today | declan | [Read More](https://medium.com/p/e22f690e4a1d) |
 | Mon, 15 Dec 2025 20:07:09 GMT | From Format String to Building a ROP chain ft. musl libc — niteCTF 2025 | Somnath Das | [Read More](https://medium.com/p/1d3ef9838d12) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 15:37:57 GMT | The Best Hire I Almost Didn’t Make | Ben Wachstein | [Read More](https://medium.com/p/f8ed7791eee8) |
 | Mon, 15 Dec 2025 15:36:15 GMT | HackTheBox Machine: GreenHorn (Steganography / Image Forensic) | Rafael Cliffordtan | [Read More](https://medium.com/p/e352284f8b48) |
 | Mon, 15 Dec 2025 15:32:38 GMT | PVS-14 vs Modern Night Vision Devices: Why Professionals Still Trust the Classic | Night Vision 4 Less | [Read More](https://medium.com/p/1d7f13aa73be) |
-| Mon, 15 Dec 2025 15:31:08 GMT | Kali Linux 2025.4 Is Here: Desktop Upgrades, Wayland Improvements & Halloween Mode | Aura Tech Insight | [Read More](https://medium.com/p/51f24b719471) |
-| Mon, 15 Dec 2025 15:26:51 GMT | How to set up a Cowrie Honeypot on Ubuntu Server | Choo Jia Zheng | [Read More](https://medium.com/p/c6bef2e149fa) |
-| Mon, 15 Dec 2025 15:24:21 GMT | picoCTF: Dear Diary (Disk Forensics) | Rafael Cliffordtan | [Read More](https://medium.com/p/bebd3204f99b) |
-| Mon, 15 Dec 2025 15:21:29 GMT | How My EOA Was Hijacked by an EIP-7702 Delegation on Sepolia (hopefully just it) and How to Revoke… | Evgenii | [Read More](https://medium.com/p/1dc69bc2138f) |
-| Mon, 15 Dec 2025 15:15:47 GMT | How Much Does CCTV Installation Really Cost in Kenya? A Practical Breakdown (From the Field) | Debrazz Security Systems | [Read More](https://medium.com/p/976be99d53af) |
