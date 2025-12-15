@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 07:39:30 GMT | eJPT Prep - Host & Network Penetration Testing: Exploitation CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/3192c00d5740) |
+| Mon, 15 Dec 2025 07:31:02 GMT | Containers — DoorDasher’s Demise - Advent of Cyber 2025 Day 14 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/be82af87f2a7) |
+| Mon, 15 Dec 2025 07:29:32 GMT | Will Junior Developers Exist in 5 Years? An AI Reality Check | Vishwas Thangella | [Read More](https://medium.com/p/d8d1166976dd) |
+| Mon, 15 Dec 2025 07:24:01 GMT | Volatility Plugins — Plugin windows.handles Let’s Talk About it | Dean | [Read More](https://medium.com/p/2ab930c5a2b1) |
+| Mon, 15 Dec 2025 07:23:51 GMT | How to Build a Threat Model Using Proxmox, pfSense, and Security Onion | Danny Vargas - CyberSecurity Focus | [Read More](https://medium.com/p/031f13656ea0) |
+| Mon, 15 Dec 2025 07:22:44 GMT | Quantum Blockchain: Crypto’s Unbreakable Future? | BlockByte | [Read More](https://medium.com/p/7f027c6138b1) |
 | Mon, 15 Dec 2025 07:15:52 GMT | Automating the Hunt: How I Built a Detection-as-Code Pipeline That Deploys Rules | CyberFreak | [Read More](https://medium.com/p/52002d5cae80) |
 | Mon, 15 Dec 2025 07:10:59 GMT | Smart Home Setup: Budget vs Premium Options That Actually Work | Ghulamabbas | [Read More](https://medium.com/p/1b44e336a6d6) |
 | Mon, 15 Dec 2025 07:09:59 GMT | Fixing the 503: Architecting Highly Available WooCommerce for Peak Traffic | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/e3f81fa96481) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 22:49:29 GMT | Why MFA has become Non‑Negotiable in Cyber Essentials | Laurentiu Barbu | [Read More](https://medium.com/p/c73f420c3434) |
 | Sun, 14 Dec 2025 22:48:22 GMT | DNS Sinkholes: A Simple Guide to Protecting Your Network | Raviteja Mureboina | [Read More](https://medium.com/p/fc1c8200f184) |
 | Sun, 14 Dec 2025 22:11:19 GMT | Why Your AI-Generated Code is Probably Garbage (And How to Fix It) | Satinath Mondal | [Read More](https://medium.com/p/6adcd19a8fdb) |
-| Sun, 14 Dec 2025 22:00:52 GMT | HTB CTF Write-Up: Fawn | Paulo Melo | [Read More](https://medium.com/p/ff0bc6b50058) |
-| Sun, 14 Dec 2025 21:52:46 GMT | YAPAY ZEKA KULLANICILARI VE YAZILIMCILAR MAĞDUR OLUR MU? | Gülşah Akın | [Read More](https://medium.com/p/d66406222048) |
-| Sun, 14 Dec 2025 21:48:34 GMT | The Security Paradox: Why Buying More Tools Won’t Stop the Breaches Subtitle: We are spending… | Andrea Cere | [Read More](https://medium.com/p/4f74c37366e9) |
-| Sun, 14 Dec 2025 21:45:25 GMT | Entity Authentication | Ali Naghiyev | [Read More](https://medium.com/p/105f1575b9cb) |
-| Sun, 14 Dec 2025 21:43:44 GMT | AWS Portfolio Project Overview | Space Mann | [Read More](https://medium.com/p/64aa996aef83) |
-| Sun, 14 Dec 2025 21:39:28 GMT | Reflections on Network Reconnaissance: Learning Through Nmap and Scapy Labs | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/97d4b3e53c32) |
