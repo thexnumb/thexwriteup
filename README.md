@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 03:35:05 GMT | CloudSEK Hiring CTF December 2025- Round 2 -WriteUP | Adithyanpezheri | [Read More](https://medium.com/p/7c78e57ffb1c) |
+| Mon, 15 Dec 2025 03:34:20 GMT | Help Make Tech Support Better | David Buckwalter | [Read More](https://medium.com/p/fec7c30ee1d1) |
+| Mon, 15 Dec 2025 03:32:17 GMT | Top 10 Tools for Testing Node.js API Resilience | Arunangshu Das | [Read More](https://medium.com/p/f8d6d2e8b956) |
+| Mon, 15 Dec 2025 03:32:17 GMT | When a Signal Silences the Engine: How a Satellite Glitch Left Hundreds of Porsches Stranded | Deven Chhajed | [Read More](https://medium.com/p/84d41bfae382) |
+| Mon, 15 Dec 2025 03:31:30 GMT | Intro to IPs | Michael Orozco-Fletcher | [Read More](https://medium.com/p/2001f61a30b1) |
+| Mon, 15 Dec 2025 03:00:29 GMT | TryHackMe Advent of Cyber 2024 — Day 6 Walkthrough: Malware Sandboxing | Pongsathorn Parivutthipong | [Read More](https://medium.com/p/117402ae4205) |
+| Mon, 15 Dec 2025 02:59:39 GMT | Inside FuzzingBrain: How an LLM‑Powered CRS Detects and Patches Vulnerabilities at Scale | Shivam Kanodia | [Read More](https://medium.com/p/918fac5c5b1c) |
+| Mon, 15 Dec 2025 02:58:52 GMT | Sticky Sessions: Reuse Cookies + Headers Without Breaking Your Session | BlockChimera | [Read More](https://medium.com/p/35cc829a6102) |
+| Mon, 15 Dec 2025 02:51:23 GMT | TryHackMe: Include Writeup | cbev | [Read More](https://medium.com/p/375b2434aae5) |
+| Mon, 15 Dec 2025 02:32:16 GMT | Your VPN Says One Country. Your Traffic Goes Somewhere Else. Here’s the Uncomfortable Truth. | FutureTech | [Read More](https://medium.com/p/ae4365cb4a3d) |
+| Mon, 15 Dec 2025 02:28:12 GMT | AUKUS Does Not Have a Strategy Problem. It Has a Production and Governance Problem. | AXSAS | [Read More](https://medium.com/p/bb9a2f9e07ed) |
+| Mon, 15 Dec 2025 02:27:55 GMT | Cybersecurity Framework and Risk Governance Strategy in the Age of AI and Emerging Technologies | Venkat K | [Read More](https://medium.com/p/079ffde58aa8) |
+| Mon, 15 Dec 2025 02:21:52 GMT | Vessel | Chris Perkins | [Read More](https://medium.com/p/32bb759ebda2) |
+| Mon, 15 Dec 2025 02:01:34 GMT | Evolution of Composite Cyber Threats: 2025 Analysis and 2026 Key Response Strategies | NSHC ThreatRecon Team | [Read More](https://medium.com/p/5be9d1ca8ac6) |
+| Mon, 15 Dec 2025 01:58:31 GMT | Google, I’m Sorry. I Think I Broke It. | YUZU | [Read More](https://medium.com/p/74b2fa63cdc8) |
+| Mon, 15 Dec 2025 01:56:34 GMT | The Sweetest, Happiest Sayings: You Be Beautiful and Glamorous, I’ll Work Hard to Make Money | Xiaochen | [Read More](https://medium.com/p/e3b58609d111) |
 | Mon, 15 Dec 2025 01:17:13 GMT | Some thoughts don’t need a label — just a space to linger | Yugiee & Thoughts | [Read More](https://medium.com/p/d789038ab9f3) |
+| Mon, 15 Dec 2025 01:13:00 GMT | A arrogância tem um fim inevitável — seja na dor da doença ou, em último caso, na morte. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/5a662c89ff89) |
 | Mon, 15 Dec 2025 01:06:38 GMT | 7 Azure Security Gaps I’ve Seen in Production (and How to Fix Them) | V Ray | [Read More](https://medium.com/p/e1e4b67cea92) |
 | Mon, 15 Dec 2025 00:58:15 GMT | Weeloan loan customer care number /❽❺❾❼❶❸❷❹❸❸//8972701422 Weeloan up h | Grwj Ds | [Read More](https://medium.com/p/c3c33beed884) |
 | Mon, 15 Dec 2025 00:41:50 GMT | Proving Grounds - Clue | jniket | [Read More](https://medium.com/p/b0e197d9be56) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 16:34:26 GMT | We Don’t Need Your Eyeballs to Prove You’re Human | BiyteLüm | [Read More](https://medium.com/p/5816bd3cd625) |
 | Sun, 14 Dec 2025 16:32:55 GMT | OASIS INFOBYTE OIBSIP | Divyagoyal | [Read More](https://medium.com/p/f3db25d6f184) |
 | Sun, 14 Dec 2025 16:29:33 GMT | DECENTRALIZED AI AND BLOCKCHAIN CYBERSECURITY GUIDE | Adesowapo Adeyemi | [Read More](https://medium.com/p/cac23798203e) |
-| Sun, 14 Dec 2025 16:17:26 GMT | 20251214_Webアプリにおける手動診断の生き残り | Hiroya Nakamura | [Read More](https://medium.com/p/25148383381d) |
-| Sun, 14 Dec 2025 16:12:27 GMT | When HIPAA Meets AI: The Critical Gap Healthcare Organizations Can’t Afford to Ignore | Travis-ML | [Read More](https://medium.com/p/c051416d7262) |
-| Sun, 14 Dec 2025 16:06:24 GMT | Getting Started in Cybersecurity: My First Steps into Offensive Security | Rudraksh Yadav | [Read More](https://medium.com/p/1500c09bfb7b) |
-| Sun, 14 Dec 2025 16:05:19 GMT | สรุปงาน Sec-Girl #6 | napatchol thaipanich | [Read More](https://medium.com/p/327174c79b59) |
-| Sun, 14 Dec 2025 15:59:03 GMT | Day 1 of Learning C — Laying the First Brick Toward My Own Operating System | Rohit Prajapati | [Read More](https://medium.com/p/19bd1c8709ac) |
-| Sun, 14 Dec 2025 15:56:12 GMT | Why Cisco CCNA Still Matters in Today’s IT World | Joshuaa Smi | [Read More](https://medium.com/p/81aab094eec3) |
-| Sun, 14 Dec 2025 15:52:25 GMT | The Day I Found an Exposed Google Cloud Service Account Key in a Production JS File — And How… | Anshubind | [Read More](https://medium.com/p/6ee42010e638) |
-| Sun, 14 Dec 2025 15:51:47 GMT | When I Found a Hardcoded Sentry Token in a JS Bundle — And Got the Classic “Already a Known… | Anshubind | [Read More](https://medium.com/p/de0fbc34680a) |
-| Sun, 14 Dec 2025 15:50:15 GMT | Network Traffic Basics — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/5ba400fdadb0) |
-| Sun, 14 Dec 2025 15:48:22 GMT | DC-1 → DC-9: A Full 9-Machine Pentesting Series - Episode 8: DC-9 | Shikhar Sinha | [Read More](https://medium.com/p/7688ad3578e8) |
-| Sun, 14 Dec 2025 15:47:00 GMT | My eCPPTv3 Exam Experience — A Real Test of Manual Pentesting Skills | Anand Jogawade | [Read More](https://medium.com/p/febdce44d95f) |
-| Sun, 14 Dec 2025 15:46:56 GMT | AI Series Ep. 5 — Your own Pentest Agent with Python and Open WebUI all local | Michael Harms | [Read More](https://medium.com/p/9648ade0f37a) |
-| Sun, 14 Dec 2025 15:45:48 GMT | Intelligent or Not? The Current State of Artificial Intelligence and Enterprise Architecture | Jake | [Read More](https://medium.com/p/95c68698138e) |
-| Sun, 14 Dec 2025 15:42:40 GMT | From Theory to Terminal: My Hands-On Journey as a Security Analyst Intern with Oasis Infobyte | Azizurrehman | [Read More](https://medium.com/p/d9c124a679a1) |
-| Sun, 14 Dec 2025 15:41:08 GMT | [論文筆記] 為什麼「詩歌」成了 LLM 的越獄密碼？解析 Adversarial Poetry 攻擊 | Joe Hsu | [Read More](https://medium.com/p/c08c1da108de) |
-| Sun, 14 Dec 2025 15:36:39 GMT | Padelify CTF Write-up: When WAFs play padel and lose | Telynor | [Read More](https://medium.com/p/4d3fd6dcee6f) |
-| Sun, 14 Dec 2025 15:35:07 GMT | ShieldCommit: How Real Cloud Mistakes Inspired Me to Build a Simple Security Tool | Krishna Fattepurkar | [Read More](https://medium.com/p/107c71d5516f) |
