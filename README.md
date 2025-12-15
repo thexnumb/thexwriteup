@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 17:18:09 GMT | 700Credit LLC Data Breach Highlights Third-Party Cyber Risks in Automotive Finance | Legal Thoughts | [Read More](https://medium.com/p/f99f9a0bd819) |
+| Mon, 15 Dec 2025 17:17:15 GMT | System Incident Report: FLIPKART-DELIVERY-2025–12–15 | Jayal Yadav | [Read More](https://medium.com/p/fd66a02e8d0a) |
+| Mon, 15 Dec 2025 17:14:16 GMT | HTB Cap Write-up beginner friendly | Tokiko | [Read More](https://medium.com/p/83da2a3e2cae) |
+| Mon, 15 Dec 2025 17:13:24 GMT | Security and Performance Aspects of ZFS on Linux Advanced | Linux Guide | [Read More](https://medium.com/p/6472ab8c6c87) |
+| Mon, 15 Dec 2025 17:13:11 GMT | Day 15 — How to Respond to an Ongoing Compromise (Hawk’s Path) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/1d1af805ee6f) |
+| Mon, 15 Dec 2025 17:05:06 GMT | Advent of Cyber 2025 Day5 — Tryhackme walkthrough(IDOR — Santa’s Little IDOR) | TRedEye | [Read More](https://medium.com/p/9d3d8f961fdf) |
+| Mon, 15 Dec 2025 17:04:47 GMT | Advent of Cyber 2025 - Day 15 Web Attack Forensics - Drone Alone | Akshat Patel | [Read More](https://medium.com/p/6936bc6711ce) |
+| Mon, 15 Dec 2025 17:04:42 GMT | CDK Tool— Konteyner Sızma Aracı | Adil Azimdegil | [Read More](https://medium.com/p/64d51b320bef) |
+| Mon, 15 Dec 2025 17:03:37 GMT | Adding Authentication to Elixir Native Kafka Client: Trust, but Verify | Anton Borisov | [Read More](https://medium.com/p/f7d6d3876cff) |
+| Mon, 15 Dec 2025 16:59:13 GMT | What is a DAST scan anyway? | ShiftLeftSec | [Read More](https://medium.com/p/5aaeac232540) |
+| Mon, 15 Dec 2025 16:54:37 GMT | Contec CMS8000 undocumented behaviors compared to what the FDA Approved | Karambit.AI | [Read More](https://medium.com/p/7f7bc4cd4e4b) |
+| Mon, 15 Dec 2025 16:51:22 GMT | Protect Your Business Before Attackers Strike | Dr. Shashi Karhail | [Read More](https://medium.com/p/6e31748cf68c) |
+| Mon, 15 Dec 2025 16:50:25 GMT | Hands-On API Security: Lessons from a Vulnerable JWT Implementation | Ian Zammit | [Read More](https://medium.com/p/38a1dac71fab) |
+| Mon, 15 Dec 2025 16:45:55 GMT | A Simple Guide to the MITRE ATT&CK Framework | Kota Deepak sai | [Read More](https://medium.com/p/6e1e9a319eba) |
+| Mon, 15 Dec 2025 16:36:53 GMT | The Complete Guide to Modern Identity Theft Prevention | Mr Technology | [Read More](https://medium.com/p/376a426fb14d) |
 | Mon, 15 Dec 2025 16:27:50 GMT | [90 days to CompTIA Security+] — Day 1/90 | Lam Nguyen | [Read More](https://medium.com/p/4f934b7f853e) |
 | Mon, 15 Dec 2025 16:23:02 GMT | Long Rallies Aren’t Just Boring, They Make Us Less Safe | Patrick Young | [Read More](https://medium.com/p/14d829e52d9b) |
+| Mon, 15 Dec 2025 16:21:26 GMT | Depth Isn’t the Problem. Letting It Hurt You Is. | Tanvi Nagare | [Read More](https://medium.com/p/f348104d216b) |
 | Mon, 15 Dec 2025 16:20:44 GMT | Advent of Cyber 2025 Day4 — Tryhackme walkthrough(Room:-AI in Security — old sAInt nick) | TRedEye | [Read More](https://medium.com/p/0aebe41f9e8b) |
 | Mon, 15 Dec 2025 16:14:47 GMT | Buried in JavaScript: How One Comment Led Me to a Production API Key | Iski | [Read More](https://medium.com/p/65a33b1644bb) |
 | Mon, 15 Dec 2025 16:11:42 GMT | My CISSP Journey 2025: From Evening Walks to Cybersecurity Certification | Muhammad Bilal | [Read More](https://medium.com/p/14a6ae9e2ad9) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 12:27:06 GMT | How an LLM and One Curious Non-Engineer Eliminated the Last 25 % Mystery of Turbofan Thrust in One… | Berend Watchus | [Read More](https://medium.com/p/b2a0981ee7be) |
 | Mon, 15 Dec 2025 12:17:07 GMT | From the Glitch of 2025 to the Architecture of Trust in 2026 | ComsignTrust LTD | [Read More](https://medium.com/p/c99fb68d74f3) |
 | Mon, 15 Dec 2025 12:16:39 GMT | CSRF vs JWT: The One Story That Finally Makes It Click | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/16352ef67196) |
-| Mon, 15 Dec 2025 12:16:35 GMT | Linux Security Habit #6 — The One Outbound Check That Exposes a Compromised Server | Faruk Ahmed | [Read More](https://medium.com/p/b1ed4027f544) |
-| Mon, 15 Dec 2025 12:14:24 GMT | Top 10 Everyday Tech Buzzwords That Hide a Darker Past | Anastasios Antoniadis | [Read More](https://medium.com/p/76e63bcbf992) |
-| Mon, 15 Dec 2025 12:14:14 GMT | The Illusion of Trust: Why Key Management is the 2026 Threat Vector | Gideon Cohen | [Read More](https://medium.com/p/eb350850e4da) |
-| Mon, 15 Dec 2025 12:10:31 GMT | Lab: Referer-based access control | Songül Kızılay Özügürler | [Read More](https://medium.com/p/54c633f83db2) |
-| Mon, 15 Dec 2025 12:10:20 GMT | Lab: Multi-step process with no access control on one step | Songül Kızılay Özügürler | [Read More](https://medium.com/p/44b23fe80959) |
-| Mon, 15 Dec 2025 12:09:04 GMT | The App You See Is Not the Whole Story: What APIs Really Do and Why You Should Care | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/bcd1914454e7) |
-| Mon, 15 Dec 2025 12:07:48 GMT | Reversing Shai-Hulud 2.0 — A Worm That Shreds Your Files | Dolevmiz | [Read More](https://medium.com/p/b0e04da57347) |
-| Mon, 15 Dec 2025 12:05:00 GMT | Bug Bounty Burnout and the Boredom of Repetitive Tasks | Mohsin khan | [Read More](https://medium.com/p/dacda4dac71a) |
-| Mon, 15 Dec 2025 12:02:24 GMT | Understanding CWE-540: Inclusion of Sensitive Information in Source Code | Walter Moar | [Read More](https://medium.com/p/6093870df326) |
-| Mon, 15 Dec 2025 11:59:56 GMT | The MITRE 2025 CWE™ Top 25: What Changed, What Didn’t, and Why It Matters | gm0 | [Read More](https://medium.com/p/a6d64d650a02) |
-| Mon, 15 Dec 2025 11:51:13 GMT | CISSP Exam Review: A Security Practitioner’s Take on a Managerial Exam | Hacker's Perspective | [Read More](https://medium.com/p/feea98773652) |
-| Mon, 15 Dec 2025 11:34:29 GMT | PortSwigger SQL Injection Lab Çözümleri-3 | ENES KURTULAN | [Read More](https://medium.com/p/7cda9a677328) |
-| Mon, 15 Dec 2025 11:31:14 GMT | Next-Gen Turnstiles That Move as Fast as Your Business in KSA & GCC | Tekshoyabeelyas | [Read More](https://medium.com/p/7ccaa36ad34b) |
-| Mon, 15 Dec 2025 11:31:10 GMT | Launch Big on a Small Budget: The Rise of Cheap Linux Reseller Hosting in 2025 | Janet Watson | [Read More](https://medium.com/p/60d81d18ad6f) |
-| Mon, 15 Dec 2025 11:30:44 GMT | Understanding Address Poisoning | Connor Kenway | [Read More](https://medium.com/p/df36c21effba) |
-| Mon, 15 Dec 2025 11:29:28 GMT | Bugs across the world’s languages. Let’s check LanguageTool | Unicorn Developer | [Read More](https://medium.com/p/26e27797eaa8) |
