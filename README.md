@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 14:13:41 GMT | Top 20 common network security threats and how to mitigate them | Rohit Kumar Singh | [Read More](https://medium.com/p/c6549ddc32dd) |
+| Mon, 15 Dec 2025 14:13:32 GMT | Access control vulnerabilities | karkr | [Read More](https://medium.com/p/f443c4e30e21) |
+| Mon, 15 Dec 2025 14:06:58 GMT | OSINT Ethics and Legal Boundaries: What You Can Do vs What You Shouldn’t | Kavi Amudan | [Read More](https://medium.com/p/01299d2c31a9) |
+| Mon, 15 Dec 2025 14:02:27 GMT | 2025: Global Security Collapse | Anton Krutikov | [Read More](https://medium.com/p/5f0c2dbf32c0) |
+| Mon, 15 Dec 2025 14:02:22 GMT | The $200K Missile Problem: Using Radar’s Micro-Doppler Effect for Sub-Second C2 Precision | Siddhant Mishra | [Read More](https://medium.com/p/8ff069bb868d) |
+| Mon, 15 Dec 2025 14:00:06 GMT | ServiceNow’s Armis Talks Signal a Shift Toward Control-First Enterprise Platforms | Nathaniel Niyazov | [Read More](https://medium.com/p/60bea14ee659) |
+| Mon, 15 Dec 2025 13:57:21 GMT | Why MSSPs Need a vCISO to Stay Competitive in Today’s Cyber Market | Hello @ Octellient | [Read More](https://medium.com/p/df5ba2dab3b6) |
+| Mon, 15 Dec 2025 13:53:22 GMT | How One Vulnerability Brought Down an Entire Business | Digital Defense | [Read More](https://medium.com/p/d89285fc44d5) |
+| Mon, 15 Dec 2025 13:36:42 GMT | Azure Active Directory (AAD) Attack & Defense (Reconnaissance Phase) | Mohab Salah | [Read More](https://medium.com/p/c4f291c40180) |
 | Mon, 15 Dec 2025 13:18:02 GMT | THE 2025 CYBERSECURITY AWARD | Adeoluwa Obadofin | [Read More](https://medium.com/p/986210c4de51) |
 | Mon, 15 Dec 2025 13:17:47 GMT | $25,000- Critical Vulnerability was Found on HackerOne | KILLUA_UCHIHA | [Read More](https://medium.com/p/ee1dd3b33ad5) |
 | Mon, 15 Dec 2025 13:16:46 GMT | Lenovo Thinkcentre M700 Tiny Opnsense Firewall Kurulumu | Hakan ÇEVİK | [Read More](https://medium.com/p/56ea054be77b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 09:27:37 GMT | IT Support Outsourcing: A Smart Strategy for Modern Businesses | Alice Brown | [Read More](https://medium.com/p/c1eef37dc89f) |
 | Mon, 15 Dec 2025 09:26:54 GMT | Security Risk Assessment: Why Attackers Don’t Care That You Passed Your Audit… | Travis Ray Caverhill | [Read More](https://medium.com/p/1a122ce1d7e5) |
 | Mon, 15 Dec 2025 09:24:36 GMT | Professional-Level Security Made Accessible with Free Antivirus | Siyanoav | [Read More](https://medium.com/p/9073362e2287) |
-| Mon, 15 Dec 2025 09:19:37 GMT | How to Use FaceSeek to Track Your Online Presence and Clean Up Old Photos. | Shash | [Read More](https://medium.com/p/3e41fc4fc78c) |
-| Mon, 15 Dec 2025 09:12:50 GMT | How I Actually Run a Black‑Box Pentest as a One‑Person Red Team | ZAYN | [Read More](https://medium.com/p/dbd4a169b70b) |
-| Mon, 15 Dec 2025 09:12:26 GMT | Strengthening Safety and Resilience with Professional Security Consulting Services in India | Ciss India | [Read More](https://medium.com/p/2d672743712c) |
-| Mon, 15 Dec 2025 09:10:02 GMT | When Speed Becomes a Bug: How AI Agents Are Reinventing Performance Testing in 2025 | Arpit choubey | [Read More](https://medium.com/p/e8109ac4fe0d) |
-| Mon, 15 Dec 2025 09:08:29 GMT | Building a Security-First Culture in Fintech Engineering Teams | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/30b85caef806) |
-| Mon, 15 Dec 2025 09:08:20 GMT | Chasing Ghosts in the Machine: The Evolving Landscape of Cyber Forensics | Rhesty John Fernandez | [Read More](https://medium.com/p/3db8894b1549) |
-| Mon, 15 Dec 2025 09:05:57 GMT | Strategies to Improve Operational Resilience Through Cyber Skills | Rahman Iqbal | [Read More](https://medium.com/p/f30c17b38111) |
-| Mon, 15 Dec 2025 09:03:32 GMT | Protect Against Cyber Attacks: Stay Secure in a Digital World | Cyber Kanun | [Read More](https://medium.com/p/33b15bb1893b) |
-| Mon, 15 Dec 2025 08:59:49 GMT | techNbuddy App: A Smart Way to Grow Your IT Career Through Real Connections | techNbuddy | [Read More](https://medium.com/p/0a5ef5c94b02) |
