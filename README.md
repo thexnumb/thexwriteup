@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 07:15:52 GMT | Automating the Hunt: How I Built a Detection-as-Code Pipeline That Deploys Rules | CyberFreak | [Read More](https://medium.com/p/52002d5cae80) |
+| Mon, 15 Dec 2025 07:10:59 GMT | Smart Home Setup: Budget vs Premium Options That Actually Work | Ghulamabbas | [Read More](https://medium.com/p/1b44e336a6d6) |
+| Mon, 15 Dec 2025 07:09:59 GMT | Fixing the 503: Architecting Highly Available WooCommerce for Peak Traffic | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/e3f81fa96481) |
+| Mon, 15 Dec 2025 07:06:42 GMT | The Shocking Truth: Why Even “Good” Couples Cheat in Modern Marriage | Daisy Lewis | [Read More](https://medium.com/p/1b88541b0ed9) |
+| Mon, 15 Dec 2025 07:05:18 GMT | Unarmed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/171ae8c01c31) |
+| Mon, 15 Dec 2025 07:02:42 GMT | Felaketlere Rağmen Ayakta Kalan Altyapı: Güvenilir Ağların 4 Temel Sırrı | HSD Kayseri Üniversitesi | [Read More](https://medium.com/p/96ed36b69ef0) |
+| Mon, 15 Dec 2025 07:02:38 GMT | Web Güvenliğinde Erişim Kontrolü ve Yetki Yükseltme (Privilege Escalation) | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/41164f4bdb9a) |
+| Mon, 15 Dec 2025 07:02:37 GMT | My All-Expenses-Paid Trip to Mauritius: Attending the FIRST & AfricaCERT Symposium | Odunlade Adeola | [Read More](https://medium.com/p/d4434ff5c3e6) |
+| Mon, 15 Dec 2025 07:01:42 GMT | Tải Badminton Blitz Mod Apk (Vô Hạn Tiền) v1.18.9.31 | genzvnmod | [Read More](https://medium.com/p/2f2a24e0168d) |
+| Mon, 15 Dec 2025 07:01:31 GMT | Security Lab Simulation Project Part 11: Installation of Snort3 | Jenny | [Read More](https://medium.com/p/bd74ae824413) |
+| Mon, 15 Dec 2025 06:59:04 GMT | The North Pole Azure Landing Zone | Brian Veldman | [Read More](https://medium.com/p/d1646b3e2451) |
+| Mon, 15 Dec 2025 06:58:26 GMT | Armed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/bfc346717920) |
+| Mon, 15 Dec 2025 06:57:13 GMT | Stay Safe: Why Human Error and Social Engineering Cause Over 95% of Security Breaches | Godluck Akyoo | [Read More](https://medium.com/p/3b94733d5620) |
+| Mon, 15 Dec 2025 06:54:49 GMT | Chain Link Fence in Saudi Arabia A Reliable Cost Effective & Climate Ready Security Solution | Hitechfence | [Read More](https://medium.com/p/9ca85e004f9b) |
+| Mon, 15 Dec 2025 06:48:47 GMT | Tải Back Alley Tales Apk Mod (Vô Hạn Tiền, Việt Hóa) v2.21 | Game4u | [Read More](https://medium.com/p/16f6b61ea54a) |
+| Mon, 15 Dec 2025 06:45:20 GMT | Stop the Brute Force Bots: Why You Must Limit Login Attempts in WordPress Today | Atanu Das | [Read More](https://medium.com/p/cf3ed431c6e3) |
+| Mon, 15 Dec 2025 06:41:21 GMT | How the ISO27001 Lead Implementer Course Changed the Way I View Cybersecurity | Banke Olufon | [Read More](https://medium.com/p/377dcf7db7bb) |
+| Mon, 15 Dec 2025 06:35:57 GMT | The Cryptography Concept Journey — HMAC (Hashed Based Message Authentication Code) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/51eef03a9a6d) |
 | Mon, 15 Dec 2025 06:34:32 GMT | AI-Driven Compliance Monitoring for Financial and Healthcare Institutions | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/7b08ef4ea438) |
 | Mon, 15 Dec 2025 06:33:55 GMT | Mini PC ile Çoklu Monitör Kullanımı: 2025 Rehberi ve Performans İpuçları | Technopc | [Read More](https://medium.com/p/d4c21bcd5ab7) |
+| Mon, 15 Dec 2025 06:30:29 GMT | Tải Hack Câu Cá Vạn Cân (Mod Menu, Vô Hạn Tiền, Thể Lực) v1.64.0 | Bandisharecx | [Read More](https://medium.com/p/88be8aa27f3d) |
 | Mon, 15 Dec 2025 06:28:04 GMT | PALLAS | sunxwrytes | [Read More](https://medium.com/p/a8312ed550bc) |
 | Mon, 15 Dec 2025 06:27:26 GMT | The One AWS Setting That Could Leak Your S3 Data — And How to Lock It Down in 60 Seconds | Faruk Ahmed | [Read More](https://medium.com/p/8047554157b7) |
 | Mon, 15 Dec 2025 06:18:47 GMT | #1 OT/ICS Cybersecurity training in Delhi NCR and in India | TheEvolvEdge | [Read More](https://medium.com/p/5e7aee6e433b) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 21:45:25 GMT | Entity Authentication | Ali Naghiyev | [Read More](https://medium.com/p/105f1575b9cb) |
 | Sun, 14 Dec 2025 21:43:44 GMT | AWS Portfolio Project Overview | Space Mann | [Read More](https://medium.com/p/64aa996aef83) |
 | Sun, 14 Dec 2025 21:39:28 GMT | Reflections on Network Reconnaissance: Learning Through Nmap and Scapy Labs | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/97d4b3e53c32) |
-| Sun, 14 Dec 2025 21:35:07 GMT | ⚡️Advanced XSS Bypass for Akamai WAF | Cybersecplayground | [Read More](https://medium.com/p/a70c0663c3f7) |
-| Sun, 14 Dec 2025 21:32:54 GMT | Best Post-Exploitation Tools for Active Directory Pentesting | loyalonlytoday | [Read More](https://medium.com/p/3105fd8fd42e) |
-| Sun, 14 Dec 2025 21:32:50 GMT | ️ File Upload Vulnerabilities: Complete Guide + Real Exploit | Vipul Sonule | [Read More](https://medium.com/p/27e0e56ea4ef) |
-| Sun, 14 Dec 2025 21:32:46 GMT | Bug Bounty Hunting Isn’t Luck — It’s a System (With Tools That Actually Work) | Mainekhacker | [Read More](https://medium.com/p/a7d907a75a2a) |
-| Sun, 14 Dec 2025 21:27:48 GMT | $12,500 Bounty: How Changing One GraphQL ID Let Me Delete Other Users’ Data | Monika sharma | [Read More](https://medium.com/p/4a6e1c70ae12) |
-| Sun, 14 Dec 2025 21:26:11 GMT | Dear Clients: Thank You for Trusting Us With Your Security — Ethics Over Optics: Living Out Our… | Fook Hwa Tan | [Read More](https://medium.com/p/0008e24c316b) |
-| Sun, 14 Dec 2025 21:25:27 GMT | *Titre :* "Découvrez les secrets de la réussite en ligne ! " | Mg | [Read More](https://medium.com/p/792d143bc859) |
-| Sun, 14 Dec 2025 21:24:48 GMT | You Can Lead with Faith and Still Be Strategic — Faith and Cybersecurity: Where They Intersect | Fook Hwa Tan | [Read More](https://medium.com/p/aeeb231fe32b) |
-| Sun, 14 Dec 2025 21:19:08 GMT | Web Security Academy: Websockets— Manipulating WebSocket messages to exploit vulnerabilities | Octavian I. | [Read More](https://medium.com/p/1bdb390ae842) |
-| Sun, 14 Dec 2025 21:12:08 GMT | Getting Started with AI Red Teaming: Breaking AI Before It Breaks Us | Ty cummings | [Read More](https://medium.com/p/d552dd62ab66) |
-| Sun, 14 Dec 2025 21:02:46 GMT | I Found One Bug and Made $9,750 | Codi | [Read More](https://medium.com/p/e0f0ac179b1a) |
-| Sun, 14 Dec 2025 21:02:15 GMT | A Hidden Line of Text Can Hijack an AI — No Clicks, No Malware, Just Words | AhmedAbdelmenem | [Read More](https://medium.com/p/54fa716894f4) |
-| Sun, 14 Dec 2025 21:01:11 GMT | TryHackMe - Dunkle Materie Write-Up | Jigit | [Read More](https://medium.com/p/b37cbb0860c0) |
-| Sun, 14 Dec 2025 20:56:19 GMT | The Clean Code Betrayal: Compiler Optimization’s Silent Kill | Batuhan Sancak | [Read More](https://medium.com/p/ab8c58f09bf6) |
-| Sun, 14 Dec 2025 20:30:54 GMT | Hunter by HackSmarter Labs Walkthrough | Muhammad Usman Faridi | [Read More](https://medium.com/p/dbe435b4a8ee) |
-| Sun, 14 Dec 2025 20:26:39 GMT | The secret rulebook behind every tap-and-go payment (Part 4) | Ryan Aminollahi | [Read More](https://medium.com/p/f67d852fa9f9) |
-| Sun, 14 Dec 2025 20:05:06 GMT | Reflected XSS in blog search | aiden | [Read More](https://medium.com/p/f0b5abffb8b2) |
-| Sun, 14 Dec 2025 20:00:20 GMT | Advent of Cyber 25 — Day 13 — YARA Rules — YARA mean one! | cybertactic | [Read More](https://medium.com/p/d95a05064444) |
-| Sun, 14 Dec 2025 19:51:27 GMT | Netgear R7800 Nighthawk OpenWRT IDS/IPS Kurulumu ve Test Sonuçları | Hakan ÇEVİK | [Read More](https://medium.com/p/20cd308fd703) |
