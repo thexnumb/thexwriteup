@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 19:19:34 GMT | Web Attack Forensics — Drone Alone - Advent of Cyber 2025 Day 15 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/6b21cad187e0) |
+| Mon, 15 Dec 2025 19:06:31 GMT | Weekly Cyber Threat Bulletin: 11 December 2025 | Marcelle Lee | [Read More](https://medium.com/p/56137b44a057) |
+| Mon, 15 Dec 2025 19:06:06 GMT | AI Series Ep. 7 — Social Engineering of Large Language Model — Shadow Data in RAG revealed | Michael Harms | [Read More](https://medium.com/p/c28cc40a0af8) |
+| Mon, 15 Dec 2025 18:56:30 GMT | My Journey into Cyber Security Starts Now | Muhammad Rehan | [Read More](https://medium.com/p/1fc7e652b202) |
+| Mon, 15 Dec 2025 18:52:51 GMT | A Complete Guide to CEH Master Certification (Theory + Practical) guide‍ By Mr. Siddhesh | Siddhesh Surve | [Read More](https://medium.com/p/8327144366a5) |
+| Mon, 15 Dec 2025 18:52:35 GMT | Illuminating the Dark Corners of AI (skimmable annotated presentation) | Patrick Walsh | [Read More](https://medium.com/p/838fd29d27a7) |
+| Mon, 15 Dec 2025 18:47:14 GMT | Hamad Ahmed Al-Mehshadi Al-Maadeed | Qatar | [Read More](https://medium.com/p/f239eb86e7af) |
+| Mon, 15 Dec 2025 18:46:12 GMT | The CGI Script That Should Have Stayed Hidden — How a Forgotten Diagnostic File Exposed an… | Anshubind | [Read More](https://medium.com/p/46e9215743cd) |
+| Mon, 15 Dec 2025 18:45:38 GMT | Website Cloning & SMB Enumeration in a Controlled Environment | Claudius Thompson | [Read More](https://medium.com/p/3e67b1a5f715) |
+| Mon, 15 Dec 2025 18:45:24 GMT | ⚡ The Reflected XSS Hidden Inside a Login Page — And How a Single Parameter Became a Security Weak… | Anshubind | [Read More](https://medium.com/p/ad52a584292f) |
 | Mon, 15 Dec 2025 18:34:21 GMT | The “Silent Breach” in Your Merchant Portfolio: How to Predict Risk Before the Card Brands Do | Emory French | [Read More](https://medium.com/p/ad9921277353) |
 | Mon, 15 Dec 2025 18:33:56 GMT | When Your Frontend Starts Mining Cryptocurrency: A Tale of Disguised Malware | Pillars | [Read More](https://medium.com/p/a9508eb940c9) |
 | Mon, 15 Dec 2025 18:31:01 GMT | How to Find Security Providers for Large-Scale Events: Practical Guide for Decision-Makers | Teona | [Read More](https://medium.com/p/eb0bd216a44f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 14:32:21 GMT | (Comptia A+) The Evolution of Software Licensing: From Bill Gates to Modern-Day Systems | Vignesh R | [Read More](https://medium.com/p/c1f8c828cadb) |
 | Mon, 15 Dec 2025 14:32:20 GMT | SEC’s New Crypto Custody Guidance: Navigating the Future of Digital Asset Security | DigitalChainSpace | [Read More](https://medium.com/p/5c22b80f1015) |
 | Mon, 15 Dec 2025 14:32:15 GMT | AI Threat Modeling for LLM Workloads on AWS | Davebhargavi | [Read More](https://medium.com/p/fca976570710) |
-| Mon, 15 Dec 2025 14:29:43 GMT | Paradox | WhisperedVerse | [Read More](https://medium.com/p/1928acd0040b) |
-| Mon, 15 Dec 2025 14:29:17 GMT | How Law Enforcement Tracks Darkweb Markets | Tor BBB | [Read More](https://medium.com/p/4c6f1bb5fea5) |
-| Mon, 15 Dec 2025 14:26:05 GMT | TryHackMe: Creative Room Writeup | Anmolchhetri | [Read More](https://medium.com/p/325d057d51e3) |
-| Mon, 15 Dec 2025 14:22:40 GMT | ️ IT Administrators — The Quiet Force Powering Every Organization | Paul Meyer | [Read More](https://medium.com/p/eedf218c2eb7) |
-| Mon, 15 Dec 2025 14:18:20 GMT | Cyber Security for Space & Defense Market Size 2026 - Growth Outlook to 2033 | Hachion Trainings | [Read More](https://medium.com/p/5dd11580a8d7) |
-| Mon, 15 Dec 2025 14:13:41 GMT | Top 20 common network security threats and how to mitigate them | Rohit Kumar Singh | [Read More](https://medium.com/p/c6549ddc32dd) |
-| Mon, 15 Dec 2025 14:13:32 GMT | Access control vulnerabilities | karkr | [Read More](https://medium.com/p/f443c4e30e21) |
-| Mon, 15 Dec 2025 14:06:58 GMT | OSINT Ethics and Legal Boundaries: What You Can Do vs What You Shouldn’t | Kavi Amudan | [Read More](https://medium.com/p/01299d2c31a9) |
-| Mon, 15 Dec 2025 14:02:27 GMT | 2025: Global Security Collapse | Anton Krutikov | [Read More](https://medium.com/p/5f0c2dbf32c0) |
-| Mon, 15 Dec 2025 14:02:22 GMT | The $200K Missile Problem: Using Radar’s Micro-Doppler Effect for Sub-Second C2 Precision | Siddhant Mishra | [Read More](https://medium.com/p/8ff069bb868d) |
