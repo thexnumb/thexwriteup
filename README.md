@@ -12,14 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 16:27:50 GMT | [90 days to CompTIA Security+] — Day 1/90 | Lam Nguyen | [Read More](https://medium.com/p/4f934b7f853e) |
+| Mon, 15 Dec 2025 16:23:02 GMT | Long Rallies Aren’t Just Boring, They Make Us Less Safe | Patrick Young | [Read More](https://medium.com/p/14d829e52d9b) |
+| Mon, 15 Dec 2025 16:20:44 GMT | Advent of Cyber 2025 Day4 — Tryhackme walkthrough(Room:-AI in Security — old sAInt nick) | TRedEye | [Read More](https://medium.com/p/0aebe41f9e8b) |
+| Mon, 15 Dec 2025 16:14:47 GMT | Buried in JavaScript: How One Comment Led Me to a Production API Key | Iski | [Read More](https://medium.com/p/65a33b1644bb) |
+| Mon, 15 Dec 2025 16:11:42 GMT | My CISSP Journey 2025: From Evening Walks to Cybersecurity Certification | Muhammad Bilal | [Read More](https://medium.com/p/14a6ae9e2ad9) |
+| Mon, 15 Dec 2025 16:10:47 GMT | How to Drill Out a Cylinder Lock: Safe Pro Methods | Sure Lock & Key LLC | [Read More](https://medium.com/p/8185901b7c18) |
+| Mon, 15 Dec 2025 16:04:31 GMT | ISO vs IEC | Venkat Subramaniyan | [Read More](https://medium.com/p/f35d4ef8e0c3) |
+| Mon, 15 Dec 2025 15:58:21 GMT | Kerberos Delegation and Common Attack Scenarios | Louis Trout | [Read More](https://medium.com/p/f493f9bd235a) |
+| Mon, 15 Dec 2025 15:56:14 GMT | Strengthening Medical Device Cybersecurity: Deep Dive into Regulations & IEC 81001‑5‑1 | Venkat Subramaniyan | [Read More](https://medium.com/p/e758241e485d) |
+| Mon, 15 Dec 2025 15:54:24 GMT | A Hacker’s Christmas: Bug Bounties by Candlelight | ghostyjoe | [Read More](https://medium.com/p/d28a847e9146) |
+| Mon, 15 Dec 2025 15:53:21 GMT | A Comprehensive Guide to Hacking, Virtual Machines, Linux, and Networking | Ajojose | [Read More](https://medium.com/p/e095130c78ed) |
 | Mon, 15 Dec 2025 15:44:32 GMT | TryHackMe Write‑Up: Linux Logging for SOC | Toge24_ | [Read More](https://medium.com/p/3b0bff7d6ea5) |
+| Mon, 15 Dec 2025 15:43:23 GMT | The 20% That Delivers 80% of Microsoft Defender for Cloud’s Value in Azure | Ahmed Monsri | [Read More](https://medium.com/p/e5d2307f6fed) |
 | Mon, 15 Dec 2025 15:40:09 GMT | Recon Dorking: The Art of Advanced Information Gathering for Cybersecurity | N0aziXss | [Read More](https://medium.com/p/3bcf4a1625c8) |
+| Mon, 15 Dec 2025 15:40:09 GMT | Configure authentication in a React.js app by using Microsoft Entra External ID | Parfaitkouess | [Read More](https://medium.com/p/5382004e34b9) |
 | Mon, 15 Dec 2025 15:39:08 GMT | Day 14: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/73ae5100c1cf) |
+| Mon, 15 Dec 2025 15:37:57 GMT | The Best Hire I Almost Didn’t Make | Ben Wachstein | [Read More](https://medium.com/p/f8ed7791eee8) |
 | Mon, 15 Dec 2025 15:36:15 GMT | HackTheBox Machine: GreenHorn (Steganography / Image Forensic) | Rafael Cliffordtan | [Read More](https://medium.com/p/e352284f8b48) |
 | Mon, 15 Dec 2025 15:32:38 GMT | PVS-14 vs Modern Night Vision Devices: Why Professionals Still Trust the Classic | Night Vision 4 Less | [Read More](https://medium.com/p/1d7f13aa73be) |
 | Mon, 15 Dec 2025 15:31:08 GMT | Kali Linux 2025.4 Is Here: Desktop Upgrades, Wayland Improvements & Halloween Mode | Aura Tech Insight | [Read More](https://medium.com/p/51f24b719471) |
 | Mon, 15 Dec 2025 15:26:51 GMT | How to set up a Cowrie Honeypot on Ubuntu Server | Choo Jia Zheng | [Read More](https://medium.com/p/c6bef2e149fa) |
 | Mon, 15 Dec 2025 15:24:21 GMT | picoCTF: Dear Diary (Disk Forensics) | Rafael Cliffordtan | [Read More](https://medium.com/p/bebd3204f99b) |
+| Mon, 15 Dec 2025 15:21:29 GMT | How My EOA Was Hijacked by an EIP-7702 Delegation on Sepolia (hopefully just it) and How to Revoke… | Evgenii | [Read More](https://medium.com/p/1dc69bc2138f) |
 | Mon, 15 Dec 2025 15:15:47 GMT | How Much Does CCTV Installation Really Cost in Kenya? A Practical Breakdown (From the Field) | Debrazz Security Systems | [Read More](https://medium.com/p/976be99d53af) |
 | Mon, 15 Dec 2025 15:12:55 GMT | Evading EDR Hooks With Indirect Syscalls and Tartarus Gate | Muaaz | [Read More](https://medium.com/p/219e3a094337) |
 | Mon, 15 Dec 2025 15:10:43 GMT | From Scrolls to Code: How Ancient Libraries Teach Us Domain-Driven Design | Jitin Kayyala | [Read More](https://medium.com/p/ab624c7036a1) |
@@ -52,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 14:00:06 GMT | ServiceNow’s Armis Talks Signal a Shift Toward Control-First Enterprise Platforms | Nathaniel Niyazov | [Read More](https://medium.com/p/60bea14ee659) |
 | Mon, 15 Dec 2025 13:57:21 GMT | Why MSSPs Need a vCISO to Stay Competitive in Today’s Cyber Market | Hello @ Octellient | [Read More](https://medium.com/p/df5ba2dab3b6) |
 | Mon, 15 Dec 2025 13:53:22 GMT | How One Vulnerability Brought Down an Entire Business | Digital Defense | [Read More](https://medium.com/p/d89285fc44d5) |
+| Mon, 15 Dec 2025 13:47:44 GMT | React2Shell Deep Dive: Unpacking the Remote Code Execution Flaw in React Server Components | Ravsr Vamsikrishna | [Read More](https://medium.com/p/16e2043f962a) |
 | Mon, 15 Dec 2025 13:36:42 GMT | Azure Active Directory (AAD) Attack & Defense (Reconnaissance Phase) | Mohab Salah | [Read More](https://medium.com/p/c4f291c40180) |
 | Mon, 15 Dec 2025 13:18:02 GMT | THE 2025 CYBERSECURITY AWARD | Adeoluwa Obadofin | [Read More](https://medium.com/p/986210c4de51) |
 | Mon, 15 Dec 2025 13:17:47 GMT | $25,000- Critical Vulnerability was Found on HackerOne | KILLUA_UCHIHA | [Read More](https://medium.com/p/ee1dd3b33ad5) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 11:31:10 GMT | Launch Big on a Small Budget: The Rise of Cheap Linux Reseller Hosting in 2025 | Janet Watson | [Read More](https://medium.com/p/60d81d18ad6f) |
 | Mon, 15 Dec 2025 11:30:44 GMT | Understanding Address Poisoning | Connor Kenway | [Read More](https://medium.com/p/df36c21effba) |
 | Mon, 15 Dec 2025 11:29:28 GMT | Bugs across the world’s languages. Let’s check LanguageTool | Unicorn Developer | [Read More](https://medium.com/p/26e27797eaa8) |
-| Mon, 15 Dec 2025 11:07:12 GMT | Delving into experience on hands-on cybersecurity practices | BJ Louis Marcellana | [Read More](https://medium.com/p/609df073a0f7) |
-| Mon, 15 Dec 2025 11:04:21 GMT | Oh to Be Vulnerable | Peero007 | [Read More](https://medium.com/p/1a692e2c9c16) |
-| Mon, 15 Dec 2025 11:02:22 GMT | Best Hyperscale Managed Data Center Service Provider in India | Samvaskaran | [Read More](https://medium.com/p/0d7187045842) |
-| Mon, 15 Dec 2025 11:01:19 GMT | How OT Cybersecurity Services Reduce Risks and Downtime | Arista Cyber | [Read More](https://medium.com/p/75bc468d2544) |
-| Mon, 15 Dec 2025 10:59:20 GMT | Rain Bird Corporation Reports Payment Card Data Breach After Months-Long Web Store Compromise | Legal Thoughts | [Read More](https://medium.com/p/2a21f99f5efe) |
-| Mon, 15 Dec 2025 10:55:56 GMT | CYBER SECURITY: Protecting Your Digital World | Tanveersehgal | [Read More](https://medium.com/p/c3d4089c02c7) |
-| Mon, 15 Dec 2025 10:49:50 GMT | The Paradox of the 3.4 Million: Why You Can’t Find a Job in a “Desperate” Industry | Nmullenski | [Read More](https://medium.com/p/90406e4854bb) |
-| Mon, 15 Dec 2025 10:49:45 GMT | How I Bypassed Voucher Limits Using a Race Condition Vulnerability | Danish Ahmed | [Read More](https://medium.com/p/8f68a19fbc76) |
-| Mon, 15 Dec 2025 10:49:40 GMT | How a Simple SSTI Turned Into $1,000 and RCE | Danish Ahmed | [Read More](https://medium.com/p/6d121fc4a55e) |
-| Mon, 15 Dec 2025 10:49:37 GMT | Why Monitoring Outbound Connections Is the Fastest Way to Detect a Compromised Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/ef089c7a24a7) |
-| Mon, 15 Dec 2025 10:49:21 GMT | Beyond Credentials: The Hidden Ecosystem of InfoStealers and the Log Economy | Dzianis Skliar | [Read More](https://medium.com/p/35dac21b2fbb) |
-| Mon, 15 Dec 2025 10:49:07 GMT | Precious HTB Machine Walk-Though! | Nmullenski | [Read More](https://medium.com/p/a64d23ab1640) |
-| Mon, 15 Dec 2025 10:49:03 GMT | Your Browser Is Spying On You  — Here’s Proof | Vipul Sonule | [Read More](https://medium.com/p/2e4ca07233fd) |
-| Mon, 15 Dec 2025 10:37:54 GMT | Building a Future-Proof Career: The PCNSE Exam Roadmap for 2026 | Oliver adam | [Read More](https://medium.com/p/ce9bd0a78c91) |
-| Mon, 15 Dec 2025 10:37:28 GMT | What’s Your Address?” Why Cybersecurity Professionals Never Give a Straight Answer | Vijay Kumar Gupta | [Read More](https://medium.com/p/9752edbdfa51) |
-| Mon, 15 Dec 2025 10:35:10 GMT | Cyber-Resilient Power Grids: Strategies for the Decentralized Future | Trillion Defense | [Read More](https://medium.com/p/9bc775a3420b) |
