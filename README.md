@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 13:18:02 GMT | THE 2025 CYBERSECURITY AWARD | Adeoluwa Obadofin | [Read More](https://medium.com/p/986210c4de51) |
+| Mon, 15 Dec 2025 13:17:47 GMT | $25,000- Critical Vulnerability was Found on HackerOne | KILLUA_UCHIHA | [Read More](https://medium.com/p/ee1dd3b33ad5) |
+| Mon, 15 Dec 2025 13:16:46 GMT | Lenovo Thinkcentre M700 Tiny Opnsense Firewall Kurulumu | Hakan ÇEVİK | [Read More](https://medium.com/p/56ea054be77b) |
+| Mon, 15 Dec 2025 13:15:14 GMT | # Common Web Vulnerabilities Every Developer Should Know | Abdulbar | [Read More](https://medium.com/p/91546c3aef60) |
+| Mon, 15 Dec 2025 13:11:30 GMT | Evasion & Combining Techniques: How Small API Bugs Become Critical Vulnerabilities | Mahmoudelshorpagy | [Read More](https://medium.com/p/b75b5369775d) |
+| Mon, 15 Dec 2025 13:10:53 GMT | A Practitioner’s Path through Microsoft Defender for Cloud | Ahmed Monsri | [Read More](https://medium.com/p/8c918ccde4d4) |
+| Mon, 15 Dec 2025 13:06:21 GMT | PKK/YPG’nin Suriye’de Stratejik Daralması ve Türkiye… | Mert Tupuz | [Read More](https://medium.com/p/40f87a4cad5b) |
+| Mon, 15 Dec 2025 13:02:18 GMT | How I Renewed My Certified in Cybersecurity Certification | carlarjenkins | [Read More](https://medium.com/p/f68dd50e96ba) |
+| Mon, 15 Dec 2025 13:01:24 GMT | Beginner Bug Bounty Guide | Abdulbar | [Read More](https://medium.com/p/dfd886cfafd3) |
+| Mon, 15 Dec 2025 12:59:16 GMT | Modat Magnify Cyber Dorking | Abhirup Konwar | [Read More](https://medium.com/p/caf4ae55138e) |
+| Mon, 15 Dec 2025 12:56:41 GMT | Negative AddOn to Financial Flaw — Business Logic Vulnerability | Mr. Vrushabh | [Read More](https://medium.com/p/ea40f269e173) |
+| Mon, 15 Dec 2025 12:55:31 GMT | What is Clickjacking Attack? How to Protect Your WordPress Website from Clickjacking | Taha Mehmood | [Read More](https://medium.com/p/2f757c582962) |
+| Mon, 15 Dec 2025 12:53:39 GMT | The SOC Hero Problem | Alexandra Costea | [Read More](https://medium.com/p/44dc7123ee23) |
 | Mon, 15 Dec 2025 12:47:23 GMT | Uncovering a Critical Vulnerability: From Unrestricted File Upload to Full System Compromise | Muhammad Sameer | [Read More](https://medium.com/p/a2074814480a) |
+| Mon, 15 Dec 2025 12:42:50 GMT | The Worst OpSec Fails of 2025: Lessons from Darknet Busts and Whale Kidnappings | Officer's Notes | [Read More](https://medium.com/p/44fb4b7bc362) |
 | Mon, 15 Dec 2025 12:39:22 GMT | API1:2023 — Broken Object Level Authorization | Apifort | [Read More](https://medium.com/p/e7c9f90f1ecd) |
 | Mon, 15 Dec 2025 12:38:23 GMT | How AI Cameras Are Transforming Industrial Safety and Risk Management | Dolon Ghosh | [Read More](https://medium.com/p/940d4d16b728) |
 | Mon, 15 Dec 2025 12:36:42 GMT | Revisiting the Big Data Landscape: | Mainak Biswas | [Read More](https://medium.com/p/526e9d215b1f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 09:05:57 GMT | Strategies to Improve Operational Resilience Through Cyber Skills | Rahman Iqbal | [Read More](https://medium.com/p/f30c17b38111) |
 | Mon, 15 Dec 2025 09:03:32 GMT | Protect Against Cyber Attacks: Stay Secure in a Digital World | Cyber Kanun | [Read More](https://medium.com/p/33b15bb1893b) |
 | Mon, 15 Dec 2025 08:59:49 GMT | techNbuddy App: A Smart Way to Grow Your IT Career Through Real Connections | techNbuddy | [Read More](https://medium.com/p/0a5ef5c94b02) |
-| Mon, 15 Dec 2025 08:57:03 GMT | วิกฤต Fortinet: ช่องโหว่ Critical เปิดทางแฮกเกอร์ข้าม Login ควบคุมอุปกรณ์ผ่าน FortiCloud SSO‼️ | ThaiCERT By NCSA | [Read More](https://medium.com/p/0c73a8c71897) |
-| Mon, 15 Dec 2025 08:56:45 GMT | Steal Website Screenshots Like a Pro EyeWitness Exposed! | cybrNK | [Read More](https://medium.com/p/1995c106bd76) |
-| Mon, 15 Dec 2025 08:53:32 GMT | Hackers Breaking In Without a Click. How? They Are Using This.. | Redfox Security | [Read More](https://medium.com/p/d5ac1844c595) |
-| Mon, 15 Dec 2025 08:52:00 GMT | ISP Proxies vs Residential Proxies: The Stable Setup for Multi-Account Ops | ChainWhisper | [Read More](https://medium.com/p/18eec427877c) |
-| Mon, 15 Dec 2025 08:44:26 GMT | Overpass Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/41d454c3690d) |
-| Mon, 15 Dec 2025 08:41:11 GMT | How I Check for Subdomain Takeovers Part 1 | Red | [Read More](https://medium.com/p/b4640f69b389) |
-| Mon, 15 Dec 2025 08:41:08 GMT | Weaponizing Vulnerabilities - TryHackMe Walkthrough | Yogesh Mishra | [Read More](https://medium.com/p/bcebc8e9d44c) |
-| Mon, 15 Dec 2025 08:40:31 GMT | Writeup for picoCTF challenge “Secrets” | Walter Moar | [Read More](https://medium.com/p/eb4be38b309e) |
-| Mon, 15 Dec 2025 08:33:27 GMT | Card Access Control Systems | Square Security Inc. | [Read More](https://medium.com/p/ca85209cad5d) |
-| Mon, 15 Dec 2025 08:32:15 GMT | The “No Breach Found” Trap: When Your Domain Is Exposed Outside Breach Dumps | Alexandre Vandamme | [Read More](https://medium.com/p/bdc7016194b1) |
-| Mon, 15 Dec 2025 08:29:30 GMT | Tải Sakura School Simulator Mod Apk V1.046.01 (Mở Khóa) Mới Nhất | GOCMOD | [Read More](https://medium.com/p/04e06fcf6a61) |
-| Mon, 15 Dec 2025 08:26:38 GMT | Bug Bounty Hunting — Complete Guide (Part-163) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0b38587ff72f) |
-| Mon, 15 Dec 2025 08:24:56 GMT | Bug Bounty Hunting — Complete Guide (Part-162) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/2f0a27daa600) |
-| Mon, 15 Dec 2025 08:23:32 GMT | Deepfakes, Treated as Infrastructure: Engineering a National Authenticity Control Plane (ACP) | Abdalhafeez Bushara | [Read More](https://medium.com/p/7792ccd39f37) |
