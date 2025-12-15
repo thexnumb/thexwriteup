@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 12:47:23 GMT | Uncovering a Critical Vulnerability: From Unrestricted File Upload to Full System Compromise | Muhammad Sameer | [Read More](https://medium.com/p/a2074814480a) |
+| Mon, 15 Dec 2025 12:39:22 GMT | API1:2023 — Broken Object Level Authorization | Apifort | [Read More](https://medium.com/p/e7c9f90f1ecd) |
+| Mon, 15 Dec 2025 12:38:23 GMT | How AI Cameras Are Transforming Industrial Safety and Risk Management | Dolon Ghosh | [Read More](https://medium.com/p/940d4d16b728) |
+| Mon, 15 Dec 2025 12:36:42 GMT | Revisiting the Big Data Landscape: | Mainak Biswas | [Read More](https://medium.com/p/526e9d215b1f) |
+| Mon, 15 Dec 2025 12:35:35 GMT | When Attackers Think Like Your Business, Penetration Testing Becomes Essential | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/8945e12e707d) |
+| Mon, 15 Dec 2025 12:33:12 GMT | Deep Dive: OAuth 2.0 Vulnerabilities & Exploitation Guide | Fuzzyy Duck | [Read More](https://medium.com/p/a468f84d57b7) |
+| Mon, 15 Dec 2025 12:30:51 GMT | 10 Crucial Skills Every Tech Professional Should Learn | Ruang Mawartoto | [Read More](https://medium.com/p/9d7488d04478) |
+| Mon, 15 Dec 2025 12:30:15 GMT | Event Services in the UK — Luxury, Reliable & Professional Event Solutions | waeventservices.co.uk/ | [Read More](https://medium.com/p/ab3bf10db618) |
+| Mon, 15 Dec 2025 12:29:03 GMT | What sets your cybersecurity solutions apart from other providers in Orange County? | Strike Works | [Read More](https://medium.com/p/4ff6ad11daf9) |
+| Mon, 15 Dec 2025 12:27:44 GMT | TryHackMe - Windows Logging for SOC Walkthrough | Birdv | [Read More](https://medium.com/p/51e9a7909871) |
+| Mon, 15 Dec 2025 12:27:06 GMT | How an LLM and One Curious Non-Engineer Eliminated the Last 25 % Mystery of Turbofan Thrust in One… | Berend Watchus | [Read More](https://medium.com/p/b2a0981ee7be) |
+| Mon, 15 Dec 2025 12:17:07 GMT | From the Glitch of 2025 to the Architecture of Trust in 2026 | ComsignTrust LTD | [Read More](https://medium.com/p/c99fb68d74f3) |
+| Mon, 15 Dec 2025 12:16:39 GMT | CSRF vs JWT: The One Story That Finally Makes It Click | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/16352ef67196) |
+| Mon, 15 Dec 2025 12:16:35 GMT | Linux Security Habit #6 — The One Outbound Check That Exposes a Compromised Server | Faruk Ahmed | [Read More](https://medium.com/p/b1ed4027f544) |
+| Mon, 15 Dec 2025 12:14:24 GMT | Top 10 Everyday Tech Buzzwords That Hide a Darker Past | Anastasios Antoniadis | [Read More](https://medium.com/p/76e63bcbf992) |
+| Mon, 15 Dec 2025 12:14:14 GMT | The Illusion of Trust: Why Key Management is the 2026 Threat Vector | Gideon Cohen | [Read More](https://medium.com/p/eb350850e4da) |
+| Mon, 15 Dec 2025 12:10:31 GMT | Lab: Referer-based access control | Songül Kızılay Özügürler | [Read More](https://medium.com/p/54c633f83db2) |
+| Mon, 15 Dec 2025 12:10:20 GMT | Lab: Multi-step process with no access control on one step | Songül Kızılay Özügürler | [Read More](https://medium.com/p/44b23fe80959) |
+| Mon, 15 Dec 2025 12:09:04 GMT | The App You See Is Not the Whole Story: What APIs Really Do and Why You Should Care | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/bcd1914454e7) |
+| Mon, 15 Dec 2025 12:07:48 GMT | Reversing Shai-Hulud 2.0 — A Worm That Shreds Your Files | Dolevmiz | [Read More](https://medium.com/p/b0e04da57347) |
+| Mon, 15 Dec 2025 12:05:00 GMT | Bug Bounty Burnout and the Boredom of Repetitive Tasks | Mohsin khan | [Read More](https://medium.com/p/dacda4dac71a) |
+| Mon, 15 Dec 2025 12:02:24 GMT | Understanding CWE-540: Inclusion of Sensitive Information in Source Code | Walter Moar | [Read More](https://medium.com/p/6093870df326) |
+| Mon, 15 Dec 2025 11:59:56 GMT | The MITRE 2025 CWE™ Top 25: What Changed, What Didn’t, and Why It Matters | gm0 | [Read More](https://medium.com/p/a6d64d650a02) |
+| Mon, 15 Dec 2025 11:51:13 GMT | CISSP Exam Review: A Security Practitioner’s Take on a Managerial Exam | Hacker's Perspective | [Read More](https://medium.com/p/feea98773652) |
 | Mon, 15 Dec 2025 11:34:29 GMT | PortSwigger SQL Injection Lab Çözümleri-3 | ENES KURTULAN | [Read More](https://medium.com/p/7cda9a677328) |
 | Mon, 15 Dec 2025 11:31:14 GMT | Next-Gen Turnstiles That Move as Fast as Your Business in KSA & GCC | Tekshoyabeelyas | [Read More](https://medium.com/p/7ccaa36ad34b) |
 | Mon, 15 Dec 2025 11:31:10 GMT | Launch Big on a Small Budget: The Rise of Cheap Linux Reseller Hosting in 2025 | Janet Watson | [Read More](https://medium.com/p/60d81d18ad6f) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 08:26:38 GMT | Bug Bounty Hunting — Complete Guide (Part-163) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0b38587ff72f) |
 | Mon, 15 Dec 2025 08:24:56 GMT | Bug Bounty Hunting — Complete Guide (Part-162) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/2f0a27daa600) |
 | Mon, 15 Dec 2025 08:23:32 GMT | Deepfakes, Treated as Infrastructure: Engineering a National Authenticity Control Plane (ACP) | Abdalhafeez Bushara | [Read More](https://medium.com/p/7792ccd39f37) |
-| Mon, 15 Dec 2025 08:23:14 GMT | “Who Sent That Email?” — How one tiny Hidden API turned into a spam machine | Munna✨ | [Read More](https://medium.com/p/a56b69a72a4c) |
-| Mon, 15 Dec 2025 08:22:35 GMT | Attack Path Mapping | Fateyaly | [Read More](https://medium.com/p/2120c3d2f7f1) |
-| Mon, 15 Dec 2025 08:08:59 GMT | What Is API Security and Why Should Everyday People Care? | Gift Afortu | [Read More](https://medium.com/p/1d0d5e51f3d3) |
-| Mon, 15 Dec 2025 08:04:28 GMT | More Data, Smarter Security: Unlocking Hunting Power with Microsoft Sentinel Data Lake | CtrlAltDefend | [Read More](https://medium.com/p/a61d3e96d8c9) |
-| Mon, 15 Dec 2025 08:03:34 GMT | Internet Locator io | Timgall | [Read More](https://medium.com/p/5ffcbe03c223) |
-| Mon, 15 Dec 2025 08:02:43 GMT | What Is API Security and Why Should Everyday People Care? | Stella Obatoye | [Read More](https://medium.com/p/199ffb2a4c6e) |
-| Mon, 15 Dec 2025 07:58:13 GMT | React2Shell: A Critical React Security Bug | Tushar Kanjariya | [Read More](https://medium.com/p/d7d07c72b919) |
-| Mon, 15 Dec 2025 07:54:26 GMT | Growth, Grit, and Everything In-Between | Gift Afortu | [Read More](https://medium.com/p/997b15e8737f) |
-| Mon, 15 Dec 2025 07:54:16 GMT | Hack The Box Broke My Brain — And That’s Why It Works | Kenneth Solomon | [Read More](https://medium.com/p/069548688737) |
-| Mon, 15 Dec 2025 07:47:48 GMT | Maximize Business Email Protection with the Best Cloud Email Security Provider in Australia | IT Company | [Read More](https://medium.com/p/616810353fea) |
-| Mon, 15 Dec 2025 07:47:05 GMT | How to Test DNS Leak and Make Sure Your Online Activity Stays Private | Anna Kolodkina | [Read More](https://medium.com/p/847da2a72985) |
-| Mon, 15 Dec 2025 07:46:53 GMT | The Pivot: Hunting Hidden Doors with Fuzzing and Multi-Platform Mindset | Janhvee Laad | [Read More](https://medium.com/p/9a64baca3a7e) |
-| Mon, 15 Dec 2025 07:41:50 GMT | Remote Code Execution (RCE) Vulnerability Report | Ravi Pipalwa | [Read More](https://medium.com/p/4394b38ff90e) |
-| Mon, 15 Dec 2025 07:40:17 GMT | Securing Machine Identities in AI Workflows: From APIs to Autonomous Agents | Yash Patel | [Read More](https://medium.com/p/aded154d5f5b) |
-| Mon, 15 Dec 2025 07:39:30 GMT | eJPT Prep - Host & Network Penetration Testing: Exploitation CTF 1 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/3192c00d5740) |
-| Mon, 15 Dec 2025 07:38:51 GMT | Why South Korea’s New AI Ad Labeling Rules Matter for Trust and Consumer Protection | Tayyab Bin Tariq | [Read More](https://medium.com/p/9cdf772d39a9) |
-| Mon, 15 Dec 2025 07:31:02 GMT | Containers — DoorDasher’s Demise - Advent of Cyber 2025 Day 14 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/be82af87f2a7) |
-| Mon, 15 Dec 2025 07:29:32 GMT | Will Junior Developers Exist in 5 Years? An AI Reality Check | Vishwas Thangella | [Read More](https://medium.com/p/d8d1166976dd) |
-| Mon, 15 Dec 2025 07:24:01 GMT | Volatility Plugins — Plugin windows.handles Let’s Talk About it | Dean | [Read More](https://medium.com/p/2ab930c5a2b1) |
-| Mon, 15 Dec 2025 07:23:51 GMT | How to Build a Threat Model Using Proxmox, pfSense, and Security Onion | Danny Vargas - CyberSecurity Focus | [Read More](https://medium.com/p/031f13656ea0) |
-| Mon, 15 Dec 2025 07:22:44 GMT | Quantum Blockchain: Crypto’s Unbreakable Future? | BlockByte | [Read More](https://medium.com/p/7f027c6138b1) |
-| Mon, 15 Dec 2025 07:15:52 GMT | Automating the Hunt: How I Built a Detection-as-Code Pipeline That Deploys Rules | CyberFreak | [Read More](https://medium.com/p/52002d5cae80) |
-| Mon, 15 Dec 2025 07:10:59 GMT | Smart Home Setup: Budget vs Premium Options That Actually Work | Ghulamabbas | [Read More](https://medium.com/p/1b44e336a6d6) |
-| Mon, 15 Dec 2025 07:09:59 GMT | Fixing the 503: Architecting Highly Available WooCommerce for Peak Traffic | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/e3f81fa96481) |
