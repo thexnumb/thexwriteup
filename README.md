@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 20:11:08 GMT | Single-Character Domains Exist and Why You Can’t Register One Today | declan | [Read More](https://medium.com/p/e22f690e4a1d) |
+| Mon, 15 Dec 2025 20:07:09 GMT | From Format String to Building a ROP chain ft. musl libc — niteCTF 2025 | Somnath Das | [Read More](https://medium.com/p/1d3ef9838d12) |
+| Mon, 15 Dec 2025 19:59:14 GMT | Best Crypto Asset Recovery Service Providers: Top Firms to Retrieve Lost Bitcoin: Reach Out To… | Kevin Braiw | [Read More](https://medium.com/p/f72f455432d4) |
+| Mon, 15 Dec 2025 19:57:56 GMT | The Ghost in Explorer.exe: Unmasking DTrack’s Hidden Payload | MalwareDoctor | [Read More](https://medium.com/p/70fc7ac38f6f) |
+| Mon, 15 Dec 2025 19:56:54 GMT | Juicy-Details THMWalkthrough | TalentedH@cker | [Read More](https://medium.com/p/a4ec81674ba9) |
+| Mon, 15 Dec 2025 19:52:57 GMT | Why is every NPM install a Leap of Faith ? | Rishi  Lalwani | [Read More](https://medium.com/p/cf45083831e2) |
+| Mon, 15 Dec 2025 19:51:16 GMT | Israel Issues Chilling Cyber Warfare Warning After Iran Attacks | Defence Affairs & Analysis | [Read More](https://medium.com/p/e24a9c46107c) |
+| Mon, 15 Dec 2025 19:39:54 GMT | Web Attack Forensics AOC 2025 Day 15 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/dfb0d6dda841) |
 | Mon, 15 Dec 2025 19:29:29 GMT | THM — The Sticker Shop | 0xEnzoSantana | [Read More](https://medium.com/p/064099bbea84) |
 | Mon, 15 Dec 2025 19:28:49 GMT | Mapping the Cyber Threat Landscape in Iran | Armin Mehraeen | [Read More](https://medium.com/p/2a475bb4f3f4) |
 | Mon, 15 Dec 2025 19:28:48 GMT | I’ve Been Fooled by Online Scams Too. Here’s How I Stay Safe in 2025 | Dinah Davis | [Read More](https://medium.com/p/64878a30a1fb) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 15:15:47 GMT | How Much Does CCTV Installation Really Cost in Kenya? A Practical Breakdown (From the Field) | Debrazz Security Systems | [Read More](https://medium.com/p/976be99d53af) |
 | Mon, 15 Dec 2025 15:12:55 GMT | Evading EDR Hooks With Indirect Syscalls and Tartarus Gate | Muaaz | [Read More](https://medium.com/p/219e3a094337) |
 | Mon, 15 Dec 2025 15:10:43 GMT | From Scrolls to Code: How Ancient Libraries Teach Us Domain-Driven Design | Jitin Kayyala | [Read More](https://medium.com/p/ab624c7036a1) |
-| Mon, 15 Dec 2025 15:10:09 GMT | Step Into Cybersecurity with Ethical Hacking Training from Ascend Education | Samuel | [Read More](https://medium.com/p/49389440a886) |
-| Mon, 15 Dec 2025 15:06:56 GMT | SOC Role in Blue Team — TryHackMe Learning Notes | Khadkabishwash | [Read More](https://medium.com/p/82a092dfe887) |
-| Mon, 15 Dec 2025 15:05:03 GMT | My Journey Begins | Zaksec Wolf | [Read More](https://medium.com/p/0188a68ad558) |
-| Mon, 15 Dec 2025 15:02:33 GMT | Cyber Briefing: 2025.12.15 | CyberMaterial | [Read More](https://medium.com/p/129be60e1360) |
-| Mon, 15 Dec 2025 14:46:09 GMT | Nine Months In Cyber: From “What’s an API?” to Real‑World Wins | mikesploit | [Read More](https://medium.com/p/589188f99f75) |
-| Mon, 15 Dec 2025 14:45:38 GMT | Day 133 — Narnia Level-7 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/53b46965c9d6) |
-| Mon, 15 Dec 2025 14:44:38 GMT | VolkLocker Ransomware Is Vulnerable on Windows and Linux: The Hard-Coded Master Key That Breaks the… | Germano Costi | [Read More](https://medium.com/p/0e4e3b69d77f) |
-| Mon, 15 Dec 2025 14:44:37 GMT | How to Protect Social Media Accounts with Best Practices | Deathrow8008s | [Read More](https://medium.com/p/ba786de4fd54) |
