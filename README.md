@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 10:49:50 GMT | The Paradox of the 3.4 Million: Why You Can’t Find a Job in a “Desperate” Industry | Nmullenski | [Read More](https://medium.com/p/90406e4854bb) |
+| Mon, 15 Dec 2025 10:49:45 GMT | How I Bypassed Voucher Limits Using a Race Condition Vulnerability | Danish Ahmed | [Read More](https://medium.com/p/8f68a19fbc76) |
+| Mon, 15 Dec 2025 10:49:40 GMT | How a Simple SSTI Turned Into $1,000 and RCE | Danish Ahmed | [Read More](https://medium.com/p/6d121fc4a55e) |
+| Mon, 15 Dec 2025 10:49:21 GMT | Beyond Credentials: The Hidden Ecosystem of InfoStealers and the Log Economy | Dzianis Skliar | [Read More](https://medium.com/p/35dac21b2fbb) |
+| Mon, 15 Dec 2025 10:49:07 GMT | Precious HTB Machine Walk-Though! | Nmullenski | [Read More](https://medium.com/p/a64d23ab1640) |
+| Mon, 15 Dec 2025 10:49:03 GMT | Your Browser Is Spying On You  — Here’s Proof | Vipul Sonule | [Read More](https://medium.com/p/2e4ca07233fd) |
+| Mon, 15 Dec 2025 10:37:54 GMT | Building a Future-Proof Career: The PCNSE Exam Roadmap for 2026 | Oliver adam | [Read More](https://medium.com/p/ce9bd0a78c91) |
+| Mon, 15 Dec 2025 10:37:28 GMT | What’s Your Address?” Why Cybersecurity Professionals Never Give a Straight Answer | Vijay Kumar Gupta | [Read More](https://medium.com/p/9752edbdfa51) |
+| Mon, 15 Dec 2025 10:35:10 GMT | Cyber-Resilient Power Grids: Strategies for the Decentralized Future | Trillion Defense | [Read More](https://medium.com/p/9bc775a3420b) |
+| Mon, 15 Dec 2025 10:32:15 GMT | dig Command Explained: A Simple Guide to DNS Lookups for Networking & Cybersecurity | Natarajan C K | [Read More](https://medium.com/p/16921aa14469) |
+| Mon, 15 Dec 2025 10:32:12 GMT | Creating a blog site using WordPress | Angelo Sebastian | [Read More](https://medium.com/p/d06652db8ec3) |
+| Mon, 15 Dec 2025 10:29:26 GMT | Cyber Forensics in the Age of AI | Ed Carlo Nile Parcellano | [Read More](https://medium.com/p/b82811434bc2) |
+| Mon, 15 Dec 2025 10:28:52 GMT | Demystifying the OWASP Top 10 for Agentic Applications | Idan Habler | [Read More](https://medium.com/p/4eedba941b2c) |
+| Mon, 15 Dec 2025 10:27:29 GMT | Digital Gravity: When Assets Hide to Die | ZOC Research Lab | [Read More](https://medium.com/p/1db25ace8eba) |
 | Mon, 15 Dec 2025 10:22:05 GMT | Best Udemy Cybersecurity Courses with AI Integration for 2026 | Coursespeak | [Read More](https://medium.com/p/7b5120d49407) |
 | Mon, 15 Dec 2025 10:21:49 GMT | I Asked Strangers What They Were Afraid to Admit About Their Lives | ThoughtsNarrator | [Read More](https://medium.com/p/341a11555f91) |
 | Mon, 15 Dec 2025 10:13:54 GMT | ISO 27001 Audit vs. Penetration Test: Which One Protects Your Data? | SecureSlate | [Read More](https://medium.com/p/765610609697) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 06:57:13 GMT | Stay Safe: Why Human Error and Social Engineering Cause Over 95% of Security Breaches | Godluck Akyoo | [Read More](https://medium.com/p/3b94733d5620) |
 | Mon, 15 Dec 2025 06:54:49 GMT | Chain Link Fence in Saudi Arabia A Reliable Cost Effective & Climate Ready Security Solution | Hitechfence | [Read More](https://medium.com/p/9ca85e004f9b) |
 | Mon, 15 Dec 2025 06:48:47 GMT | Tải Back Alley Tales Apk Mod (Vô Hạn Tiền, Việt Hóa) v2.21 | Game4u | [Read More](https://medium.com/p/16f6b61ea54a) |
-| Mon, 15 Dec 2025 06:45:20 GMT | Stop the Brute Force Bots: Why You Must Limit Login Attempts in WordPress Today | Atanu Das | [Read More](https://medium.com/p/cf3ed431c6e3) |
-| Mon, 15 Dec 2025 06:41:21 GMT | How the ISO27001 Lead Implementer Course Changed the Way I View Cybersecurity | Banke Olufon | [Read More](https://medium.com/p/377dcf7db7bb) |
-| Mon, 15 Dec 2025 06:35:57 GMT | The Cryptography Concept Journey — HMAC (Hashed Based Message Authentication Code) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/51eef03a9a6d) |
-| Mon, 15 Dec 2025 06:34:32 GMT | AI-Driven Compliance Monitoring for Financial and Healthcare Institutions | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/7b08ef4ea438) |
-| Mon, 15 Dec 2025 06:33:55 GMT | Mini PC ile Çoklu Monitör Kullanımı: 2025 Rehberi ve Performans İpuçları | Technopc | [Read More](https://medium.com/p/d4c21bcd5ab7) |
-| Mon, 15 Dec 2025 06:30:29 GMT | Tải Hack Câu Cá Vạn Cân (Mod Menu, Vô Hạn Tiền, Thể Lực) v1.64.0 | Bandisharecx | [Read More](https://medium.com/p/88be8aa27f3d) |
-| Mon, 15 Dec 2025 06:28:04 GMT | PALLAS | sunxwrytes | [Read More](https://medium.com/p/a8312ed550bc) |
-| Mon, 15 Dec 2025 06:27:26 GMT | The One AWS Setting That Could Leak Your S3 Data — And How to Lock It Down in 60 Seconds | Faruk Ahmed | [Read More](https://medium.com/p/8047554157b7) |
-| Mon, 15 Dec 2025 06:18:47 GMT | #1 OT/ICS Cybersecurity training in Delhi NCR and in India | TheEvolvEdge | [Read More](https://medium.com/p/5e7aee6e433b) |
-| Mon, 15 Dec 2025 06:16:36 GMT | Hidden Laptop Hacks: Get More From Your Budget Laptop | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/ba94cc1e4723) |
-| Mon, 15 Dec 2025 06:02:12 GMT | The Zero-Click AI Heist: Stealing Data From Users Who Did Nothing Wrong | AhmedAbdelmenem | [Read More](https://medium.com/p/195004c5a150) |
-| Mon, 15 Dec 2025 06:01:16 GMT | Secure Your Future with Industry-Recognized Cyber Training | Kadhijahafiya | [Read More](https://medium.com/p/dd8f295a4613) |
-| Mon, 15 Dec 2025 06:00:10 GMT | Securing Your React App: Why HTTP-Only Cookies Beat LocalStorage for Authentication | Manthan Parmar | [Read More](https://medium.com/p/799412c4590a) |
-| Mon, 15 Dec 2025 05:58:04 GMT | Build Expertise to Secure High-Value Digital Assets | Kadhijahafiya | [Read More](https://medium.com/p/beb5500bb5ee) |
