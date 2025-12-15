@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 21:53:31 GMT | If I Joined Your Security Team, This Is What I’d Fix in the First 90 Days | Beri Contraster | [Read More](https://medium.com/p/cd748f8e8ded) |
+| Mon, 15 Dec 2025 21:50:06 GMT | Implementing the Security Technical Implementation Guide (STIG) on ubuntu-24_04-lts | Kevin Troell | [Read More](https://medium.com/p/e1eb83e75a32) |
+| Mon, 15 Dec 2025 21:39:43 GMT | The Salt of the Earth | Amy Potter | [Read More](https://medium.com/p/34014be52d20) |
+| Mon, 15 Dec 2025 21:34:21 GMT | I’ve Been Holding So Much Alone But… | Shang | [Read More](https://medium.com/p/4b8c1302f3dc) |
 | Mon, 15 Dec 2025 21:29:01 GMT | Getting Started with Burpsuite for API Security Testing | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/33316140e00f) |
 | Mon, 15 Dec 2025 21:28:56 GMT | The Scariest Threat in “A House of Dynamite” | B. F. Campbell | [Read More](https://medium.com/p/2530f342a8f7) |
 | Mon, 15 Dec 2025 21:26:36 GMT | Payload Shape Injection: The API Security Risk Nobody Names | Mohammad Abir Abbas | [Read More](https://medium.com/p/a820e080a3a1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 16:04:31 GMT | ISO vs IEC | Venkat Subramaniyan | [Read More](https://medium.com/p/f35d4ef8e0c3) |
 | Mon, 15 Dec 2025 15:58:21 GMT | Kerberos Delegation and Common Attack Scenarios | Louis Trout | [Read More](https://medium.com/p/f493f9bd235a) |
 | Mon, 15 Dec 2025 15:56:14 GMT | Strengthening Medical Device Cybersecurity: Deep Dive into Regulations & IEC 81001‑5‑1 | Venkat Subramaniyan | [Read More](https://medium.com/p/e758241e485d) |
-| Mon, 15 Dec 2025 15:54:24 GMT | A Hacker’s Christmas: Bug Bounties by Candlelight | ghostyjoe | [Read More](https://medium.com/p/d28a847e9146) |
-| Mon, 15 Dec 2025 15:53:21 GMT | A Comprehensive Guide to Hacking, Virtual Machines, Linux, and Networking | Ajojose | [Read More](https://medium.com/p/e095130c78ed) |
-| Mon, 15 Dec 2025 15:44:32 GMT | TryHackMe Write‑Up: Linux Logging for SOC | Toge24_ | [Read More](https://medium.com/p/3b0bff7d6ea5) |
-| Mon, 15 Dec 2025 15:43:23 GMT | The 20% That Delivers 80% of Microsoft Defender for Cloud’s Value in Azure | Ahmed Monsri | [Read More](https://medium.com/p/e5d2307f6fed) |
