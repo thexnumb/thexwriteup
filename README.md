@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 15:44:32 GMT | TryHackMe Write‑Up: Linux Logging for SOC | Toge24_ | [Read More](https://medium.com/p/3b0bff7d6ea5) |
+| Mon, 15 Dec 2025 15:40:09 GMT | Recon Dorking: The Art of Advanced Information Gathering for Cybersecurity | N0aziXss | [Read More](https://medium.com/p/3bcf4a1625c8) |
+| Mon, 15 Dec 2025 15:39:08 GMT | Day 14: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/73ae5100c1cf) |
+| Mon, 15 Dec 2025 15:36:15 GMT | HackTheBox Machine: GreenHorn (Steganography / Image Forensic) | Rafael Cliffordtan | [Read More](https://medium.com/p/e352284f8b48) |
+| Mon, 15 Dec 2025 15:32:38 GMT | PVS-14 vs Modern Night Vision Devices: Why Professionals Still Trust the Classic | Night Vision 4 Less | [Read More](https://medium.com/p/1d7f13aa73be) |
+| Mon, 15 Dec 2025 15:31:08 GMT | Kali Linux 2025.4 Is Here: Desktop Upgrades, Wayland Improvements & Halloween Mode | Aura Tech Insight | [Read More](https://medium.com/p/51f24b719471) |
+| Mon, 15 Dec 2025 15:26:51 GMT | How to set up a Cowrie Honeypot on Ubuntu Server | Choo Jia Zheng | [Read More](https://medium.com/p/c6bef2e149fa) |
+| Mon, 15 Dec 2025 15:24:21 GMT | picoCTF: Dear Diary (Disk Forensics) | Rafael Cliffordtan | [Read More](https://medium.com/p/bebd3204f99b) |
 | Mon, 15 Dec 2025 15:15:47 GMT | How Much Does CCTV Installation Really Cost in Kenya? A Practical Breakdown (From the Field) | Debrazz Security Systems | [Read More](https://medium.com/p/976be99d53af) |
 | Mon, 15 Dec 2025 15:12:55 GMT | Evading EDR Hooks With Indirect Syscalls and Tartarus Gate | Muaaz | [Read More](https://medium.com/p/219e3a094337) |
 | Mon, 15 Dec 2025 15:10:43 GMT | From Scrolls to Code: How Ancient Libraries Teach Us Domain-Driven Design | Jitin Kayyala | [Read More](https://medium.com/p/ab624c7036a1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 10:37:54 GMT | Building a Future-Proof Career: The PCNSE Exam Roadmap for 2026 | Oliver adam | [Read More](https://medium.com/p/ce9bd0a78c91) |
 | Mon, 15 Dec 2025 10:37:28 GMT | What’s Your Address?” Why Cybersecurity Professionals Never Give a Straight Answer | Vijay Kumar Gupta | [Read More](https://medium.com/p/9752edbdfa51) |
 | Mon, 15 Dec 2025 10:35:10 GMT | Cyber-Resilient Power Grids: Strategies for the Decentralized Future | Trillion Defense | [Read More](https://medium.com/p/9bc775a3420b) |
-| Mon, 15 Dec 2025 10:32:15 GMT | dig Command Explained: A Simple Guide to DNS Lookups for Networking & Cybersecurity | Natarajan C K | [Read More](https://medium.com/p/16921aa14469) |
-| Mon, 15 Dec 2025 10:32:12 GMT | Creating a blog site using WordPress | Angelo Sebastian | [Read More](https://medium.com/p/d06652db8ec3) |
-| Mon, 15 Dec 2025 10:29:26 GMT | Cyber Forensics in the Age of AI | Ed Carlo Nile Parcellano | [Read More](https://medium.com/p/b82811434bc2) |
-| Mon, 15 Dec 2025 10:28:52 GMT | Demystifying the OWASP Top 10 for Agentic Applications | Idan Habler | [Read More](https://medium.com/p/4eedba941b2c) |
-| Mon, 15 Dec 2025 10:27:29 GMT | Digital Gravity: When Assets Hide to Die | ZOC Research Lab | [Read More](https://medium.com/p/1db25ace8eba) |
-| Mon, 15 Dec 2025 10:22:05 GMT | Best Udemy Cybersecurity Courses with AI Integration for 2026 | Coursespeak | [Read More](https://medium.com/p/7b5120d49407) |
-| Mon, 15 Dec 2025 10:21:49 GMT | I Asked Strangers What They Were Afraid to Admit About Their Lives | ThoughtsNarrator | [Read More](https://medium.com/p/341a11555f91) |
-| Mon, 15 Dec 2025 10:13:54 GMT | ISO 27001 Audit vs. Penetration Test: Which One Protects Your Data? | SecureSlate | [Read More](https://medium.com/p/765610609697) |
