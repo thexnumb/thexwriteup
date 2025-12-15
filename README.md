@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 22:59:46 GMT | Cyber Essentials Explained: The UK Cybersecurity Badge Your Business Can’t Ignore in 2026 | Laurentiu Barbu | [Read More](https://medium.com/p/f6636405fbb9) |
+| Mon, 15 Dec 2025 22:55:41 GMT | Are LLMs actually good enough to replace humans in static code analysis? | Cyber-AppSec | [Read More](https://medium.com/p/532bcd7902a7) |
+| Mon, 15 Dec 2025 22:41:42 GMT | I Almost Lost $47,000 to a “Security Upgrade” That Looked Completely Legitimate | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/ae63e56bbe8f) |
+| Mon, 15 Dec 2025 22:40:06 GMT | 6 Ways Minimizing Your Needs Cost You Emotional Safety | Bloom with Maria | [Read More](https://medium.com/p/9b3457c66a05) |
 | Mon, 15 Dec 2025 22:35:39 GMT | Advent of Cyber 2025 - Day 15: Web Attack Forensics — Drone Alone | D4m.sh | [Read More](https://medium.com/p/87910fec363f) |
 | Mon, 15 Dec 2025 22:29:00 GMT | Five Dangerous Cybersecurity Truths for 2026 That Make Your Old Playbook Obsolete | WayneReidUK | [Read More](https://medium.com/p/28a7144c6870) |
 | Mon, 15 Dec 2025 21:53:31 GMT | If I Joined Your Security Team, This Is What I’d Fix in the First 90 Days | Beri Contraster | [Read More](https://medium.com/p/cd748f8e8ded) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 16:23:02 GMT | Long Rallies Aren’t Just Boring, They Make Us Less Safe | Patrick Young | [Read More](https://medium.com/p/14d829e52d9b) |
 | Mon, 15 Dec 2025 16:21:26 GMT | Depth Isn’t the Problem. Letting It Hurt You Is. | Tanvi Nagare | [Read More](https://medium.com/p/f348104d216b) |
 | Mon, 15 Dec 2025 16:20:44 GMT | Advent of Cyber 2025 Day4 — Tryhackme walkthrough(Room:-AI in Security — old sAInt nick) | TRedEye | [Read More](https://medium.com/p/0aebe41f9e8b) |
-| Mon, 15 Dec 2025 16:14:47 GMT | Buried in JavaScript: How One Comment Led Me to a Production API Key | Iski | [Read More](https://medium.com/p/65a33b1644bb) |
-| Mon, 15 Dec 2025 16:11:42 GMT | My CISSP Journey 2025: From Evening Walks to Cybersecurity Certification | Muhammad Bilal | [Read More](https://medium.com/p/14a6ae9e2ad9) |
-| Mon, 15 Dec 2025 16:10:47 GMT | How to Drill Out a Cylinder Lock: Safe Pro Methods | Sure Lock & Key LLC | [Read More](https://medium.com/p/8185901b7c18) |
-| Mon, 15 Dec 2025 16:04:31 GMT | ISO vs IEC | Venkat Subramaniyan | [Read More](https://medium.com/p/f35d4ef8e0c3) |
