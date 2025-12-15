@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 05:18:32 GMT | How To Use Comet Browser Safely Without Compromising Your Data | Ravi | [Read More](https://medium.com/p/2617bcbb32e8) |
+| Mon, 15 Dec 2025 05:08:18 GMT | Top Data Management Solutions Fort Myers - Orlando Experts | Gainside | [Read More](https://medium.com/p/5b063cbe10a7) |
+| Mon, 15 Dec 2025 05:07:15 GMT | Why Your UEBA Isn’t Working | Alvin Lee | [Read More](https://medium.com/p/edbba4cbc488) |
+| Mon, 15 Dec 2025 05:06:51 GMT | DevSecOps for Startups Guide | Girish Dhamane | [Read More](https://medium.com/p/f8a727f8a194) |
+| Mon, 15 Dec 2025 05:06:04 GMT | Tải Hack Câu Cá Vạn Cân (Menu, Vô Hạn Tiền, Thể Lực) V1.64.0 | Apkpuredev | [Read More](https://medium.com/p/683a9218a51f) |
+| Mon, 15 Dec 2025 05:03:27 GMT | SOC Analyst vs Penetration Tester: Which Cybersecurity Career Path Should You Choose? | Sajidur Rahman | [Read More](https://medium.com/p/5b32622d7d3d) |
+| Mon, 15 Dec 2025 04:57:11 GMT | What is a Drive-By-Download? - VIIEGO | Rolando | [Read More](https://medium.com/p/0aead404d98c) |
+| Mon, 15 Dec 2025 04:52:57 GMT | Embedded Router Security Assessment Report | Matt Imdad | [Read More](https://medium.com/p/0cdb6ae80949) |
+| Mon, 15 Dec 2025 04:52:16 GMT | How Multi-Cloud Strategies Are Reshaping Modern Business Operations | F9 Infotech | [Read More](https://medium.com/p/3624b1e15d17) |
+| Mon, 15 Dec 2025 04:52:04 GMT | Logların İzinde: APT Günlükleri-3 | Ali Ekber KARA | [Read More](https://medium.com/p/6ab6610da68a) |
+| Mon, 15 Dec 2025 04:49:51 GMT | Where Real Love Actually Finds Us | Mardiana Ayu | [Read More](https://medium.com/p/93e2bbe139be) |
+| Mon, 15 Dec 2025 04:47:20 GMT | Top Benefits of Implementing ERPNext for MSMEs | Indsys Holdings India Private Limited | [Read More](https://medium.com/p/8fd20245ec5a) |
 | Mon, 15 Dec 2025 04:24:59 GMT | Threat Modeling Checklist for Mobile App Development | Raghunandan J | [Read More](https://medium.com/p/1135004efb5f) |
 | Mon, 15 Dec 2025 04:20:49 GMT | AI vs Hackers: A Cyber War Most People Don’t Even Notice | Shahebaz | [Read More](https://medium.com/p/ae48d3e363dd) |
 | Mon, 15 Dec 2025 04:06:22 GMT | Performing CVE-2020–3596 in Four Steps: Crashing Cisco VCS via SIP | JunoonBro | [Read More](https://medium.com/p/42059155037e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 17:49:22 GMT | AWS GuardDuty: In-Depth Guide Based on AWS Documentation | Thomas Eid | [Read More](https://medium.com/p/3ab4a40f9754) |
 | Sun, 14 Dec 2025 17:48:13 GMT | CTF Write-ups: My Beginner Challenges for ISET Zaghouan | Maha Marwani | [Read More](https://medium.com/p/017dd598950b) |
 | Sun, 14 Dec 2025 17:46:39 GMT | Responsibilities of IT Project Manager, Technical Project Manager, Product Owner, and Product… | Yaqoot Nawab | [Read More](https://medium.com/p/e14fa4060663) |
-| Sun, 14 Dec 2025 17:32:20 GMT | When AI Agents Break the Browser Sandbox: Indirect Prompt Injection, Tainted Memory, and the… | Mammoth Cyber | [Read More](https://medium.com/p/b292604b9559) |
-| Sun, 14 Dec 2025 17:29:26 GMT | Without this no one can be successful in life in any field of work | Be nice insabat | [Read More](https://medium.com/p/fb7195f3311f) |
-| Sun, 14 Dec 2025 17:22:16 GMT | Ağ Temelleri: OSI ve TCP/IP Modeli | Melih Yalnız | [Read More](https://medium.com/p/288d0aa04319) |
-| Sun, 14 Dec 2025 17:12:32 GMT | How I Discovered a Single Sign-On Chain Break Through a Weak Authentication Flow in an Enterprise… | Abhishek Kumar | [Read More](https://medium.com/p/3b5d0a39379c) |
-| Sun, 14 Dec 2025 17:02:19 GMT | I Waited. He Hesitated. Nothing Happened. | Pratibha Singh | [Read More](https://medium.com/p/5ae007952367) |
-| Sun, 14 Dec 2025 16:58:38 GMT | Setting up Samba Securely | Angelo Sebastian | [Read More](https://medium.com/p/14138ee5c7e2) |
-| Sun, 14 Dec 2025 16:54:40 GMT | Notepad++ 8.8.9 Update Released With Important Security Fix | Cyber security updates | [Read More](https://medium.com/p/faf5872705e2) |
-| Sun, 14 Dec 2025 16:52:30 GMT | How to Get Moviebox Pro Invitation Code Free | moviesbox.co | [Read More](https://medium.com/p/11e6ae330ffd) |
-| Sun, 14 Dec 2025 16:49:30 GMT | Remote Customer Support Jobs Explained | Kael Virex | [Read More](https://medium.com/p/5d21f434a95b) |
-| Sun, 14 Dec 2025 16:46:10 GMT | Cybersecurity: The Black, Grey, and White | Anugrah Gansalangi | [Read More](https://medium.com/p/7431b6448d30) |
-| Sun, 14 Dec 2025 16:44:53 GMT | TryHackMe Writeup: The Server From Hell | Berkay AĞGÜL | [Read More](https://medium.com/p/9031589995ee) |
-| Sun, 14 Dec 2025 16:39:34 GMT | CodePartTwo Writeup — HTB | ItsProbably1v9 | [Read More](https://medium.com/p/4d60f47eaf33) |
