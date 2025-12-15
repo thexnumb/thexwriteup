@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 15:15:47 GMT | How Much Does CCTV Installation Really Cost in Kenya? A Practical Breakdown (From the Field) | Debrazz Security Systems | [Read More](https://medium.com/p/976be99d53af) |
+| Mon, 15 Dec 2025 15:12:55 GMT | Evading EDR Hooks With Indirect Syscalls and Tartarus Gate | Muaaz | [Read More](https://medium.com/p/219e3a094337) |
+| Mon, 15 Dec 2025 15:10:43 GMT | From Scrolls to Code: How Ancient Libraries Teach Us Domain-Driven Design | Jitin Kayyala | [Read More](https://medium.com/p/ab624c7036a1) |
+| Mon, 15 Dec 2025 15:10:09 GMT | Step Into Cybersecurity with Ethical Hacking Training from Ascend Education | Samuel | [Read More](https://medium.com/p/49389440a886) |
+| Mon, 15 Dec 2025 15:06:56 GMT | SOC Role in Blue Team — TryHackMe Learning Notes | Khadkabishwash | [Read More](https://medium.com/p/82a092dfe887) |
+| Mon, 15 Dec 2025 15:05:03 GMT | My Journey Begins | Zaksec Wolf | [Read More](https://medium.com/p/0188a68ad558) |
+| Mon, 15 Dec 2025 15:02:33 GMT | Cyber Briefing: 2025.12.15 | CyberMaterial | [Read More](https://medium.com/p/129be60e1360) |
 | Mon, 15 Dec 2025 14:46:09 GMT | Nine Months In Cyber: From “What’s an API?” to Real‑World Wins | mikesploit | [Read More](https://medium.com/p/589188f99f75) |
 | Mon, 15 Dec 2025 14:45:38 GMT | Day 133 — Narnia Level-7 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/53b46965c9d6) |
 | Mon, 15 Dec 2025 14:44:38 GMT | VolkLocker Ransomware Is Vulnerable on Windows and Linux: The Hard-Coded Master Key That Breaks the… | Germano Costi | [Read More](https://medium.com/p/0e4e3b69d77f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 10:22:05 GMT | Best Udemy Cybersecurity Courses with AI Integration for 2026 | Coursespeak | [Read More](https://medium.com/p/7b5120d49407) |
 | Mon, 15 Dec 2025 10:21:49 GMT | I Asked Strangers What They Were Afraid to Admit About Their Lives | ThoughtsNarrator | [Read More](https://medium.com/p/341a11555f91) |
 | Mon, 15 Dec 2025 10:13:54 GMT | ISO 27001 Audit vs. Penetration Test: Which One Protects Your Data? | SecureSlate | [Read More](https://medium.com/p/765610609697) |
-| Mon, 15 Dec 2025 10:13:18 GMT | Disrupting the Disruption: How NBI Region 6 Orchestrates a Unified Response to Digital Threats | Louise Kylle G. Bulan | [Read More](https://medium.com/p/7557048d1f4e) |
-| Mon, 15 Dec 2025 10:11:12 GMT | The Next Global Conflict No One Is Talking About | Anjali K | [Read More](https://medium.com/p/2154727da86e) |
-| Mon, 15 Dec 2025 10:06:56 GMT | CRA’s Digital Products Classification | Xavier Mico Perez | [Read More](https://medium.com/p/e340dc2c0701) |
-| Mon, 15 Dec 2025 10:06:23 GMT | TryHackMe: Year of the Jellyfish Writeup | cbev | [Read More](https://medium.com/p/ef4a9f739736) |
-| Mon, 15 Dec 2025 10:06:06 GMT | Game Over: Reverse a .NET RAT Disguised as ‘Parcheesi’ | N03l | [Read More](https://medium.com/p/4df1a00bbe9a) |
-| Mon, 15 Dec 2025 10:05:16 GMT | North Korean Fake Zoom Scams Are Stealing $300M in Crypto | Casi Borg | [Read More](https://medium.com/p/e4dabfbf84c2) |
-| Mon, 15 Dec 2025 09:57:18 GMT | Pentest Reports That Don’t End Up in the Trash | ZAYN | [Read More](https://medium.com/p/c743477319c8) |
