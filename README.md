@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 06:34:32 GMT | AI-Driven Compliance Monitoring for Financial and Healthcare Institutions | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/7b08ef4ea438) |
+| Mon, 15 Dec 2025 06:33:55 GMT | Mini PC ile Çoklu Monitör Kullanımı: 2025 Rehberi ve Performans İpuçları | Technopc | [Read More](https://medium.com/p/d4c21bcd5ab7) |
+| Mon, 15 Dec 2025 06:28:04 GMT | PALLAS | sunxwrytes | [Read More](https://medium.com/p/a8312ed550bc) |
+| Mon, 15 Dec 2025 06:27:26 GMT | The One AWS Setting That Could Leak Your S3 Data — And How to Lock It Down in 60 Seconds | Faruk Ahmed | [Read More](https://medium.com/p/8047554157b7) |
+| Mon, 15 Dec 2025 06:18:47 GMT | #1 OT/ICS Cybersecurity training in Delhi NCR and in India | TheEvolvEdge | [Read More](https://medium.com/p/5e7aee6e433b) |
+| Mon, 15 Dec 2025 06:16:36 GMT | Hidden Laptop Hacks: Get More From Your Budget Laptop | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/ba94cc1e4723) |
+| Mon, 15 Dec 2025 06:02:12 GMT | The Zero-Click AI Heist: Stealing Data From Users Who Did Nothing Wrong | AhmedAbdelmenem | [Read More](https://medium.com/p/195004c5a150) |
+| Mon, 15 Dec 2025 06:01:16 GMT | Secure Your Future with Industry-Recognized Cyber Training | Kadhijahafiya | [Read More](https://medium.com/p/dd8f295a4613) |
+| Mon, 15 Dec 2025 06:00:10 GMT | Securing Your React App: Why HTTP-Only Cookies Beat LocalStorage for Authentication | Manthan Parmar | [Read More](https://medium.com/p/799412c4590a) |
+| Mon, 15 Dec 2025 05:58:04 GMT | Build Expertise to Secure High-Value Digital Assets | Kadhijahafiya | [Read More](https://medium.com/p/beb5500bb5ee) |
+| Mon, 15 Dec 2025 05:53:15 GMT | The Daily Tech Digest: 15 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/bdd9495015d4) |
+| Mon, 15 Dec 2025 05:52:16 GMT | Academy — Privilege Escalation & Exploitation Walkthrough (TCM Security) | B3TA-BLOCKER | [Read More](https://medium.com/p/4987caa46d2b) |
+| Mon, 15 Dec 2025 05:50:09 GMT | Every Security Header is Just One of These 8 Header Patterns— Once You See It, You Can’t Unsee It | Aryan Garg | [Read More](https://medium.com/p/ca7f4d271290) |
+| Mon, 15 Dec 2025 05:47:41 GMT | Understanding CompTIA PenTest+ and Its Role in Modern Cybersecurity | Varshika S | [Read More](https://medium.com/p/78eef9366cb1) |
+| Mon, 15 Dec 2025 05:45:18 GMT | Smart, Seamless, and Secure: Facial Recognition for KSA & GCC Businesses | Tekshoyabeelyas | [Read More](https://medium.com/p/4f47367f0893) |
+| Mon, 15 Dec 2025 05:44:26 GMT | Top Benefits of Studying Computer Science or Information Technology | Purvitahanda | [Read More](https://medium.com/p/7c4c9b937328) |
 | Mon, 15 Dec 2025 05:33:04 GMT | Cybersecurity Best Practices: How to Stay Safe Online (2024) — FastCadCoding | Muskanvaishya | [Read More](https://medium.com/p/2bd3a923cbdb) |
 | Mon, 15 Dec 2025 05:32:16 GMT | DevOps Roadmap (Part 24): Kubernetes Deployments, Autoscaling, Probes, Resource Limits & Rolling… | Sainath | [Read More](https://medium.com/p/d1fd082b3342) |
 | Mon, 15 Dec 2025 05:31:41 GMT | Building Docker Images the Right Way: Size, Layers, and Security | Yasin Hastürk | [Read More](https://medium.com/p/c03f08250469) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Dec 2025 20:05:06 GMT | Reflected XSS in blog search | aiden | [Read More](https://medium.com/p/f0b5abffb8b2) |
 | Sun, 14 Dec 2025 20:00:20 GMT | Advent of Cyber 25 — Day 13 — YARA Rules — YARA mean one! | cybertactic | [Read More](https://medium.com/p/d95a05064444) |
 | Sun, 14 Dec 2025 19:51:27 GMT | Netgear R7800 Nighthawk OpenWRT IDS/IPS Kurulumu ve Test Sonuçları | Hakan ÇEVİK | [Read More](https://medium.com/p/20cd308fd703) |
-| Sun, 14 Dec 2025 19:49:35 GMT | What Developers Can Learn From Exchange Security Models | Dan Crypto Keller | [Read More](https://medium.com/p/a997b1df4c16) |
-| Sun, 14 Dec 2025 19:46:06 GMT | Advent of Cyber 25 — Day 12 — Phishing — Phishmas Greetings | cybertactic | [Read More](https://medium.com/p/f0ea7ead9d44) |
-| Sun, 14 Dec 2025 19:45:07 GMT | Gemini Under Fire: Unpacking the GeminiJack Zero-Click Vulnerability and How Hackers Are… | eL Njas!™ | [Read More](https://medium.com/p/ff6d8d3f7809) |
-| Sun, 14 Dec 2025 19:41:43 GMT | Security Pillars in DevOps | Senam Kudjo Humado | [Read More](https://medium.com/p/79bb11727506) |
-| Sun, 14 Dec 2025 19:25:41 GMT | MDE’s DeviceNetworkEvents table [Part 3 — Http and SslConnectionInspected ActionTypes] | Ethan Bowen | [Read More](https://medium.com/p/31a4ab66fbf1) |
-| Sun, 14 Dec 2025 19:22:52 GMT | How To Restrict Kubernetes Image Registries Using Kyverno | Ikeri Ebenezer | [Read More](https://medium.com/p/6a19b0d37332) |
-| Sun, 14 Dec 2025 19:22:17 GMT | Day 13: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/0c84a17babe6) |
-| Sun, 14 Dec 2025 19:13:04 GMT | The Web Developer’s Dilemma: Should I Build Faster or Safer? | Mubashir | [Read More](https://medium.com/p/eaad5fbaf04f) |
-| Sun, 14 Dec 2025 19:07:20 GMT | How I Exposed 1,337 User Records With One GraphQL Query | Codi | [Read More](https://medium.com/p/bc4551b909c7) |
-| Sun, 14 Dec 2025 19:06:01 GMT | Entering API Fundamentals & Auth | Hafiz Muhammad Taha | [Read More](https://medium.com/p/4f5eca9e2a7d) |
-| Sun, 14 Dec 2025 18:58:06 GMT | The Bare Tree That Broke Me | Alizabeth Amelia Rose | [Read More](https://medium.com/p/029f9684a32b) |
-| Sun, 14 Dec 2025 18:45:06 GMT | NymVPN v2025.19: অনলাইন প্রাইভেসির নতুন দিগন্ত | Rabib Bin Nur | [Read More](https://medium.com/p/3507b25e5260) |
-| Sun, 14 Dec 2025 18:44:40 GMT | Try Hack Me Digital Forensics Fundamentals | Carrie Roberts | [Read More](https://medium.com/p/73ee3e5124cd) |
-| Sun, 14 Dec 2025 18:42:28 GMT | Still | yossijey | [Read More](https://medium.com/p/f52b8b299f19) |
-| Sun, 14 Dec 2025 18:36:57 GMT | Data Recovery Deep Dive: A Beginner’s Guide to Recovering Lost Files on Windows | Dominic Ebojo | [Read More](https://medium.com/p/ab823a548c57) |
-| Sun, 14 Dec 2025 18:20:44 GMT | Advent of Cyber 2025 - Day 14: Containers — DoorDasher’s Demise | D4m.sh | [Read More](https://medium.com/p/e1fb72367478) |
