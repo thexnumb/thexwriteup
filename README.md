@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 18:34:21 GMT | The “Silent Breach” in Your Merchant Portfolio: How to Predict Risk Before the Card Brands Do | Emory French | [Read More](https://medium.com/p/ad9921277353) |
+| Mon, 15 Dec 2025 18:33:56 GMT | When Your Frontend Starts Mining Cryptocurrency: A Tale of Disguised Malware | Pillars | [Read More](https://medium.com/p/a9508eb940c9) |
+| Mon, 15 Dec 2025 18:31:01 GMT | How to Find Security Providers for Large-Scale Events: Practical Guide for Decision-Makers | Teona | [Read More](https://medium.com/p/eb0bd216a44f) |
+| Mon, 15 Dec 2025 18:30:12 GMT | Traps: Proactive Security Infrastructure for Ethereum by Ehidonaldo | Akhere Donald | [Read More](https://medium.com/p/3df65a03d616) |
+| Mon, 15 Dec 2025 18:29:13 GMT | Title: We Don’t Remember Facts Anymore. We Remember Where to Find Them. | Mame | [Read More](https://medium.com/p/9e5718394c4e) |
+| Mon, 15 Dec 2025 18:26:02 GMT | A Small Tool for Finding and Fixing Vulnerable Next.js Repos | Elad Mizrahi | [Read More](https://medium.com/p/606bce5ea1be) |
+| Mon, 15 Dec 2025 18:25:32 GMT | The Laptop That Didn’t Ask for Much — Just to Be Watched | Cybersickerhub | [Read More](https://medium.com/p/83e078bbad54) |
+| Mon, 15 Dec 2025 18:23:17 GMT | How many Cybersecurity Specialists are there in the World? | Muhammadfaizan | [Read More](https://medium.com/p/77ff0563e210) |
+| Mon, 15 Dec 2025 18:22:06 GMT | The PCI “Cheat Code”: How Tokenization Saves Your Sanity (and Your Data) | Emory French | [Read More](https://medium.com/p/a296687f7e14) |
+| Mon, 15 Dec 2025 18:20:58 GMT | How to pick a router | Dmitriy Plaks | [Read More](https://medium.com/p/f07627d0a27f) |
+| Mon, 15 Dec 2025 18:18:01 GMT | Building an ISP That Works | Financial Poise | [Read More](https://medium.com/p/d15a2a634586) |
+| Mon, 15 Dec 2025 18:16:43 GMT | The Silent Rulers of the Planet: How Invertebrates Won Evolution | Hel Mort | [Read More](https://medium.com/p/137e0bf84ad9) |
+| Mon, 15 Dec 2025 18:13:39 GMT | The Problem Was Never My Setup | Mahamyousufzai | [Read More](https://medium.com/p/dd4dedfe664a) |
+| Mon, 15 Dec 2025 18:12:17 GMT | Crack The Hash WalkThrough | Abiralkarmacharya | [Read More](https://medium.com/p/d9fa3afb4635) |
+| Mon, 15 Dec 2025 18:08:14 GMT | Hashing, Password Security & Cryptography Basics | Connor Kenway | [Read More](https://medium.com/p/a1dd8f818811) |
+| Mon, 15 Dec 2025 18:06:31 GMT | Phishing — Phishmas Greetings - AoC 2025 Day — 12 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/2c23f0d38572) |
+| Mon, 15 Dec 2025 18:03:11 GMT | How React Broke the Internet | Vignesh Chandrasekharan | [Read More](https://medium.com/p/fe68d2e05f5d) |
+| Mon, 15 Dec 2025 17:59:38 GMT | Secure Any Internal App with NGINX + OAuth2 Proxy + Microsoft Login (Azure Entra ID) | Rohan Sirohi | [Read More](https://medium.com/p/d79c630ce9ba) |
+| Mon, 15 Dec 2025 17:57:07 GMT | Sandboxing for AI Agents | Yessine Abdelmaksoud | [Read More](https://medium.com/p/2420ac69569e) |
+| Mon, 15 Dec 2025 17:53:17 GMT | Setting Up Kali Linux on AWS EC2 Step-by-Step | Fareed Masood | [Read More](https://medium.com/p/b27bf0ad6358) |
+| Mon, 15 Dec 2025 17:50:00 GMT | Malware Detection Methods in Linux ️ | Esra Kayhan | [Read More](https://medium.com/p/4736d36aa181) |
+| Mon, 15 Dec 2025 17:48:50 GMT | ️ Packet Crafting Techniques: Rewriting the Language of the Network | Esra Kayhan | [Read More](https://medium.com/p/83cfe86e5eec) |
+| Mon, 15 Dec 2025 17:47:15 GMT | CVE‑2025‑13780: Critical RCE in pgAdmin | gm0 | [Read More](https://medium.com/p/6ec4050249e0) |
 | Mon, 15 Dec 2025 17:47:12 GMT | Enable Password less SSH Authentication on Linux | Rohan Sirohi | [Read More](https://medium.com/p/734ee23a7352) |
 | Mon, 15 Dec 2025 17:39:19 GMT | FHIR API Security: Beyond OAuth 2.0 | Cyberspecs | [Read More](https://medium.com/p/89c2ecd9c0d4) |
 | Mon, 15 Dec 2025 17:38:14 GMT | Technology Strategy vs Digital Transformation: Key Differences Every Business Must Understand… | Sophiajones | [Read More](https://medium.com/p/23171398513b) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 14:06:58 GMT | OSINT Ethics and Legal Boundaries: What You Can Do vs What You Shouldn’t | Kavi Amudan | [Read More](https://medium.com/p/01299d2c31a9) |
 | Mon, 15 Dec 2025 14:02:27 GMT | 2025: Global Security Collapse | Anton Krutikov | [Read More](https://medium.com/p/5f0c2dbf32c0) |
 | Mon, 15 Dec 2025 14:02:22 GMT | The $200K Missile Problem: Using Radar’s Micro-Doppler Effect for Sub-Second C2 Precision | Siddhant Mishra | [Read More](https://medium.com/p/8ff069bb868d) |
-| Mon, 15 Dec 2025 14:00:06 GMT | ServiceNow’s Armis Talks Signal a Shift Toward Control-First Enterprise Platforms | Nathaniel Niyazov | [Read More](https://medium.com/p/60bea14ee659) |
-| Mon, 15 Dec 2025 13:57:21 GMT | Why MSSPs Need a vCISO to Stay Competitive in Today’s Cyber Market | Hello @ Octellient | [Read More](https://medium.com/p/df5ba2dab3b6) |
-| Mon, 15 Dec 2025 13:53:22 GMT | How One Vulnerability Brought Down an Entire Business | Digital Defense | [Read More](https://medium.com/p/d89285fc44d5) |
-| Mon, 15 Dec 2025 13:47:44 GMT | React2Shell Deep Dive: Unpacking the Remote Code Execution Flaw in React Server Components | Ravsr Vamsikrishna | [Read More](https://medium.com/p/16e2043f962a) |
-| Mon, 15 Dec 2025 13:36:42 GMT | Azure Active Directory (AAD) Attack & Defense (Reconnaissance Phase) | Mohab Salah | [Read More](https://medium.com/p/c4f291c40180) |
-| Mon, 15 Dec 2025 13:18:02 GMT | THE 2025 CYBERSECURITY AWARD | Adeoluwa Obadofin | [Read More](https://medium.com/p/986210c4de51) |
-| Mon, 15 Dec 2025 13:17:47 GMT | $25,000- Critical Vulnerability was Found on HackerOne | KILLUA_UCHIHA | [Read More](https://medium.com/p/ee1dd3b33ad5) |
-| Mon, 15 Dec 2025 13:16:46 GMT | Lenovo Thinkcentre M700 Tiny Opnsense Firewall Kurulumu | Hakan ÇEVİK | [Read More](https://medium.com/p/56ea054be77b) |
-| Mon, 15 Dec 2025 13:15:14 GMT | # Common Web Vulnerabilities Every Developer Should Know | Abdulbar | [Read More](https://medium.com/p/91546c3aef60) |
-| Mon, 15 Dec 2025 13:11:30 GMT | Evasion & Combining Techniques: How Small API Bugs Become Critical Vulnerabilities | Mahmoudelshorpagy | [Read More](https://medium.com/p/b75b5369775d) |
-| Mon, 15 Dec 2025 13:10:53 GMT | A Practitioner’s Path through Microsoft Defender for Cloud | Ahmed Monsri | [Read More](https://medium.com/p/8c918ccde4d4) |
-| Mon, 15 Dec 2025 13:06:21 GMT | PKK/YPG’nin Suriye’de Stratejik Daralması ve Türkiye… | Mert Tupuz | [Read More](https://medium.com/p/40f87a4cad5b) |
-| Mon, 15 Dec 2025 13:02:18 GMT | How I Renewed My Certified in Cybersecurity Certification | carlarjenkins | [Read More](https://medium.com/p/f68dd50e96ba) |
-| Mon, 15 Dec 2025 13:01:24 GMT | Beginner Bug Bounty Guide | Abdulbar | [Read More](https://medium.com/p/dfd886cfafd3) |
-| Mon, 15 Dec 2025 12:59:16 GMT | Modat Magnify Cyber Dorking | Abhirup Konwar | [Read More](https://medium.com/p/caf4ae55138e) |
-| Mon, 15 Dec 2025 12:56:41 GMT | Negative AddOn to Financial Flaw — Business Logic Vulnerability | Mr. Vrushabh | [Read More](https://medium.com/p/ea40f269e173) |
-| Mon, 15 Dec 2025 12:55:31 GMT | What is Clickjacking Attack? How to Protect Your WordPress Website from Clickjacking | Taha Mehmood | [Read More](https://medium.com/p/2f757c582962) |
-| Mon, 15 Dec 2025 12:53:39 GMT | The SOC Hero Problem | Alexandra Costea | [Read More](https://medium.com/p/44dc7123ee23) |
-| Mon, 15 Dec 2025 12:47:23 GMT | Uncovering a Critical Vulnerability: From Unrestricted File Upload to Full System Compromise | Muhammad Sameer | [Read More](https://medium.com/p/a2074814480a) |
-| Mon, 15 Dec 2025 12:42:50 GMT | The Worst OpSec Fails of 2025: Lessons from Darknet Busts and Whale Kidnappings | Officer's Notes | [Read More](https://medium.com/p/44fb4b7bc362) |
-| Mon, 15 Dec 2025 12:39:22 GMT | API1:2023 — Broken Object Level Authorization | Apifort | [Read More](https://medium.com/p/e7c9f90f1ecd) |
-| Mon, 15 Dec 2025 12:38:23 GMT | How AI Cameras Are Transforming Industrial Safety and Risk Management | Dolon Ghosh | [Read More](https://medium.com/p/940d4d16b728) |
-| Mon, 15 Dec 2025 12:36:42 GMT | Revisiting the Big Data Landscape: | Mainak Biswas | [Read More](https://medium.com/p/526e9d215b1f) |
