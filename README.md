@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 10:22:05 GMT | Best Udemy Cybersecurity Courses with AI Integration for 2026 | Coursespeak | [Read More](https://medium.com/p/7b5120d49407) |
+| Mon, 15 Dec 2025 10:21:49 GMT | I Asked Strangers What They Were Afraid to Admit About Their Lives | ThoughtsNarrator | [Read More](https://medium.com/p/341a11555f91) |
+| Mon, 15 Dec 2025 10:13:54 GMT | ISO 27001 Audit vs. Penetration Test: Which One Protects Your Data? | SecureSlate | [Read More](https://medium.com/p/765610609697) |
+| Mon, 15 Dec 2025 10:13:18 GMT | Disrupting the Disruption: How NBI Region 6 Orchestrates a Unified Response to Digital Threats | Louise Kylle G. Bulan | [Read More](https://medium.com/p/7557048d1f4e) |
+| Mon, 15 Dec 2025 10:11:12 GMT | The Next Global Conflict No One Is Talking About | Anjali K | [Read More](https://medium.com/p/2154727da86e) |
+| Mon, 15 Dec 2025 10:06:56 GMT | CRA’s Digital Products Classification | Xavier Mico Perez | [Read More](https://medium.com/p/e340dc2c0701) |
+| Mon, 15 Dec 2025 10:06:23 GMT | TryHackMe: Year of the Jellyfish Writeup | cbev | [Read More](https://medium.com/p/ef4a9f739736) |
+| Mon, 15 Dec 2025 10:06:06 GMT | Game Over: Reverse a .NET RAT Disguised as ‘Parcheesi’ | N03l | [Read More](https://medium.com/p/4df1a00bbe9a) |
+| Mon, 15 Dec 2025 10:05:16 GMT | North Korean Fake Zoom Scams Are Stealing $300M in Crypto | Casi Borg | [Read More](https://medium.com/p/e4dabfbf84c2) |
+| Mon, 15 Dec 2025 09:57:18 GMT | Pentest Reports That Don’t End Up in the Trash | ZAYN | [Read More](https://medium.com/p/c743477319c8) |
+| Mon, 15 Dec 2025 09:53:34 GMT | Anti-Detect.com — Browser Fingerprint Scanner & Privacy Risk Evaluator | Songdeyu | [Read More](https://medium.com/p/c630b4c426ec) |
+| Mon, 15 Dec 2025 09:52:10 GMT | The AI Paradox: How overtrust is Now Your Biggest Security Risk | KMSEC (Pty) LTD | [Read More](https://medium.com/p/5400535343b0) |
+| Mon, 15 Dec 2025 09:51:10 GMT | Cybersecurity Winter Training Internship with Certificate | Manisha Chaudhary | [Read More](https://medium.com/p/dce06174ab93) |
+| Mon, 15 Dec 2025 09:48:19 GMT | 合约代码审计（一） — 项目初步梳理 | xun stark | [Read More](https://medium.com/p/19f76c6b953a) |
+| Mon, 15 Dec 2025 09:47:07 GMT | The 7 Kali Linux Tools I Use in Every Single CTF (and Why You Should Master Them) | Axoloth | [Read More](https://medium.com/p/b05f03d655f0) |
+| Mon, 15 Dec 2025 09:42:24 GMT | Top 10 Practical Projects for AI, ML, and Data Science Students (Categorized by Domain) | Arun K | [Read More](https://medium.com/p/989387b1441e) |
+| Mon, 15 Dec 2025 09:41:19 GMT | 5 Infrastructure as Code Security Issues & How to Fix Them | Spacelift | [Read More](https://medium.com/p/66b4f2fb1fa5) |
+| Mon, 15 Dec 2025 09:39:27 GMT | Forecasting Bugs and Performance Issues in Mobile Apps Using AI Analytics | Samitha Walpola | [Read More](https://medium.com/p/1265bdb896cf) |
+| Mon, 15 Dec 2025 09:38:21 GMT | React Server Components Are Still Not Ready Yet. | Andrea D'Attero | [Read More](https://medium.com/p/b3886b161e24) |
+| Mon, 15 Dec 2025 09:36:33 GMT | Mr.Black Machine Walkthrough | OmRajbhoi | [Read More](https://medium.com/p/ba876913aa28) |
+| Mon, 15 Dec 2025 09:33:44 GMT | Enterprise iOS Security for Fintech Applications | Samitha Walpola | [Read More](https://medium.com/p/99d4714d0e28) |
+| Mon, 15 Dec 2025 09:32:49 GMT | The Evolution of C2: Centralized to On-Chain | Netlas.io | [Read More](https://medium.com/p/7f4c3b6e0bfd) |
+| Mon, 15 Dec 2025 09:32:36 GMT | Web3 Security Best Practices for Developers - Hashtag Web3 | #web3 | [Read More](https://medium.com/p/4770ebc181b8) |
+| Mon, 15 Dec 2025 09:28:01 GMT | Referrer Policy Bypass via HTTP Link Header Injection | Mahmoud Fawzy | [Read More](https://medium.com/p/e9e9025bf221) |
 | Mon, 15 Dec 2025 09:27:37 GMT | IT Support Outsourcing: A Smart Strategy for Modern Businesses | Alice Brown | [Read More](https://medium.com/p/c1eef37dc89f) |
 | Mon, 15 Dec 2025 09:26:54 GMT | Security Risk Assessment: Why Attackers Don’t Care That You Passed Your Audit… | Travis Ray Caverhill | [Read More](https://medium.com/p/1a122ce1d7e5) |
 | Mon, 15 Dec 2025 09:24:36 GMT | Professional-Level Security Made Accessible with Free Antivirus | Siyanoav | [Read More](https://medium.com/p/9073362e2287) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 06:01:16 GMT | Secure Your Future with Industry-Recognized Cyber Training | Kadhijahafiya | [Read More](https://medium.com/p/dd8f295a4613) |
 | Mon, 15 Dec 2025 06:00:10 GMT | Securing Your React App: Why HTTP-Only Cookies Beat LocalStorage for Authentication | Manthan Parmar | [Read More](https://medium.com/p/799412c4590a) |
 | Mon, 15 Dec 2025 05:58:04 GMT | Build Expertise to Secure High-Value Digital Assets | Kadhijahafiya | [Read More](https://medium.com/p/beb5500bb5ee) |
-| Mon, 15 Dec 2025 05:53:15 GMT | The Daily Tech Digest: 15 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/bdd9495015d4) |
-| Mon, 15 Dec 2025 05:52:16 GMT | Academy — Privilege Escalation & Exploitation Walkthrough (TCM Security) | B3TA-BLOCKER | [Read More](https://medium.com/p/4987caa46d2b) |
-| Mon, 15 Dec 2025 05:50:09 GMT | Every Security Header is Just One of These 8 Header Patterns— Once You See It, You Can’t Unsee It | Aryan Garg | [Read More](https://medium.com/p/ca7f4d271290) |
-| Mon, 15 Dec 2025 05:47:41 GMT | Understanding CompTIA PenTest+ and Its Role in Modern Cybersecurity | Varshika S | [Read More](https://medium.com/p/78eef9366cb1) |
-| Mon, 15 Dec 2025 05:45:18 GMT | Smart, Seamless, and Secure: Facial Recognition for KSA & GCC Businesses | Tekshoyabeelyas | [Read More](https://medium.com/p/4f47367f0893) |
-| Mon, 15 Dec 2025 05:44:26 GMT | Top Benefits of Studying Computer Science or Information Technology | Purvitahanda | [Read More](https://medium.com/p/7c4c9b937328) |
-| Mon, 15 Dec 2025 05:33:04 GMT | Cybersecurity Best Practices: How to Stay Safe Online (2024) — FastCadCoding | Muskanvaishya | [Read More](https://medium.com/p/2bd3a923cbdb) |
-| Mon, 15 Dec 2025 05:32:16 GMT | DevOps Roadmap (Part 24): Kubernetes Deployments, Autoscaling, Probes, Resource Limits & Rolling… | Sainath | [Read More](https://medium.com/p/d1fd082b3342) |
-| Mon, 15 Dec 2025 05:31:41 GMT | Building Docker Images the Right Way: Size, Layers, and Security | Yasin Hastürk | [Read More](https://medium.com/p/c03f08250469) |
-| Mon, 15 Dec 2025 05:30:53 GMT | How U.S. SaaS Startups Can Use Contracts, SLAs and DPAs to Pass Enterprise Security Reviews | Hansen Tong | [Read More](https://medium.com/p/212b94125328) |
-| Mon, 15 Dec 2025 05:26:10 GMT | Incident Response and Management: A Proactive Approach to Cyber Resilience | LDM Global | [Read More](https://medium.com/p/b8dcf44ce216) |
-| Mon, 15 Dec 2025 05:25:02 GMT | Cybersecurity is no longer a niche concern reserved for large enterprises or government agencies. | Varshika S | [Read More](https://medium.com/p/8499480837de) |
-| Mon, 15 Dec 2025 05:18:32 GMT | How To Use Comet Browser Safely Without Compromising Your Data | Ravi | [Read More](https://medium.com/p/2617bcbb32e8) |
-| Mon, 15 Dec 2025 05:17:48 GMT | Cybersecurity Awareness Training: The First Line of Defense in a Digital World | Maxatlasofficial | [Read More](https://medium.com/p/bd0c67c5dbaa) |
-| Mon, 15 Dec 2025 05:08:18 GMT | Top Data Management Solutions Fort Myers - Orlando Experts | Gainside | [Read More](https://medium.com/p/5b063cbe10a7) |
-| Mon, 15 Dec 2025 05:07:15 GMT | Why Your UEBA Isn’t Working | Alvin Lee | [Read More](https://medium.com/p/edbba4cbc488) |
-| Mon, 15 Dec 2025 05:06:51 GMT | DevSecOps for Startups Guide | Girish Dhamane | [Read More](https://medium.com/p/f8a727f8a194) |
-| Mon, 15 Dec 2025 05:06:04 GMT | Tải Hack Câu Cá Vạn Cân (Menu, Vô Hạn Tiền, Thể Lực) V1.64.0 | Apkpuredev | [Read More](https://medium.com/p/683a9218a51f) |
-| Mon, 15 Dec 2025 05:03:27 GMT | SOC Analyst vs Penetration Tester: Which Cybersecurity Career Path Should You Choose? | Sajidur Rahman | [Read More](https://medium.com/p/5b32622d7d3d) |
-| Mon, 15 Dec 2025 04:57:11 GMT | What is a Drive-By-Download? - VIIEGO | Rolando | [Read More](https://medium.com/p/0aead404d98c) |
-| Mon, 15 Dec 2025 04:52:57 GMT | Embedded Router Security Assessment Report | Matt Imdad | [Read More](https://medium.com/p/0cdb6ae80949) |
-| Mon, 15 Dec 2025 04:52:16 GMT | How Multi-Cloud Strategies Are Reshaping Modern Business Operations | F9 Infotech | [Read More](https://medium.com/p/3624b1e15d17) |
-| Mon, 15 Dec 2025 04:52:04 GMT | Logların İzinde: APT Günlükleri-3 | Ali Ekber KARA | [Read More](https://medium.com/p/6ab6610da68a) |
-| Mon, 15 Dec 2025 04:49:51 GMT | Where Real Love Actually Finds Us | Mardiana Ayu | [Read More](https://medium.com/p/93e2bbe139be) |
