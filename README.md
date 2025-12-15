@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 14:46:09 GMT | Nine Months In Cyber: From “What’s an API?” to Real‑World Wins | mikesploit | [Read More](https://medium.com/p/589188f99f75) |
+| Mon, 15 Dec 2025 14:45:38 GMT | Day 133 — Narnia Level-7 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/53b46965c9d6) |
+| Mon, 15 Dec 2025 14:44:38 GMT | VolkLocker Ransomware Is Vulnerable on Windows and Linux: The Hard-Coded Master Key That Breaks the… | Germano Costi | [Read More](https://medium.com/p/0e4e3b69d77f) |
+| Mon, 15 Dec 2025 14:44:37 GMT | How to Protect Social Media Accounts with Best Practices | Deathrow8008s | [Read More](https://medium.com/p/ba786de4fd54) |
+| Mon, 15 Dec 2025 14:44:10 GMT | Capítulo 18 — O Bug Primordial | Kleber Andrade | [Read More](https://medium.com/p/72cd74e75390) |
+| Mon, 15 Dec 2025 14:43:06 GMT | Why Your Business Needs Data Backup | Local Toronto | [Read More](https://medium.com/p/ea5d8452bbae) |
+| Mon, 15 Dec 2025 14:40:08 GMT | FINAL WEEK ! — Call for Speakers for “VulnCon 2026” Closes on December 22, 2025 | CVE Program Blog | [Read More](https://medium.com/p/b5c006cbd1d2) |
+| Mon, 15 Dec 2025 14:34:39 GMT | Cyber Security: The Invisible Shield That Keeps the Internet Alive | Rahul Shah | [Read More](https://medium.com/p/8c727b0455dc) |
+| Mon, 15 Dec 2025 14:32:36 GMT | USOM Tehdit İstihbaratının FortiGate Firewall’a Entegrasyonu | Furkan Ünlü | [Read More](https://medium.com/p/bbfb2ff3d6be) |
+| Mon, 15 Dec 2025 14:32:21 GMT | (Comptia A+) The Evolution of Software Licensing: From Bill Gates to Modern-Day Systems | Vignesh R | [Read More](https://medium.com/p/c1f8c828cadb) |
+| Mon, 15 Dec 2025 14:32:20 GMT | SEC’s New Crypto Custody Guidance: Navigating the Future of Digital Asset Security | DigitalChainSpace | [Read More](https://medium.com/p/5c22b80f1015) |
+| Mon, 15 Dec 2025 14:32:15 GMT | AI Threat Modeling for LLM Workloads on AWS | Davebhargavi | [Read More](https://medium.com/p/fca976570710) |
+| Mon, 15 Dec 2025 14:29:43 GMT | Paradox | WhisperedVerse | [Read More](https://medium.com/p/1928acd0040b) |
+| Mon, 15 Dec 2025 14:29:17 GMT | How Law Enforcement Tracks Darkweb Markets | Tor BBB | [Read More](https://medium.com/p/4c6f1bb5fea5) |
+| Mon, 15 Dec 2025 14:26:05 GMT | TryHackMe: Creative Room Writeup | Anmolchhetri | [Read More](https://medium.com/p/325d057d51e3) |
+| Mon, 15 Dec 2025 14:22:40 GMT | ️ IT Administrators — The Quiet Force Powering Every Organization | Paul Meyer | [Read More](https://medium.com/p/eedf218c2eb7) |
+| Mon, 15 Dec 2025 14:18:20 GMT | Cyber Security for Space & Defense Market Size 2026 - Growth Outlook to 2033 | Hachion Trainings | [Read More](https://medium.com/p/5dd11580a8d7) |
 | Mon, 15 Dec 2025 14:13:41 GMT | Top 20 common network security threats and how to mitigate them | Rohit Kumar Singh | [Read More](https://medium.com/p/c6549ddc32dd) |
 | Mon, 15 Dec 2025 14:13:32 GMT | Access control vulnerabilities | karkr | [Read More](https://medium.com/p/f443c4e30e21) |
 | Mon, 15 Dec 2025 14:06:58 GMT | OSINT Ethics and Legal Boundaries: What You Can Do vs What You Shouldn’t | Kavi Amudan | [Read More](https://medium.com/p/01299d2c31a9) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 10:06:06 GMT | Game Over: Reverse a .NET RAT Disguised as ‘Parcheesi’ | N03l | [Read More](https://medium.com/p/4df1a00bbe9a) |
 | Mon, 15 Dec 2025 10:05:16 GMT | North Korean Fake Zoom Scams Are Stealing $300M in Crypto | Casi Borg | [Read More](https://medium.com/p/e4dabfbf84c2) |
 | Mon, 15 Dec 2025 09:57:18 GMT | Pentest Reports That Don’t End Up in the Trash | ZAYN | [Read More](https://medium.com/p/c743477319c8) |
-| Mon, 15 Dec 2025 09:53:34 GMT | Anti-Detect.com — Browser Fingerprint Scanner & Privacy Risk Evaluator | Songdeyu | [Read More](https://medium.com/p/c630b4c426ec) |
-| Mon, 15 Dec 2025 09:52:10 GMT | The AI Paradox: How overtrust is Now Your Biggest Security Risk | KMSEC (Pty) LTD | [Read More](https://medium.com/p/5400535343b0) |
-| Mon, 15 Dec 2025 09:51:10 GMT | Cybersecurity Winter Training Internship with Certificate | Manisha Chaudhary | [Read More](https://medium.com/p/dce06174ab93) |
-| Mon, 15 Dec 2025 09:48:19 GMT | 合约代码审计（一） — 项目初步梳理 | xun stark | [Read More](https://medium.com/p/19f76c6b953a) |
-| Mon, 15 Dec 2025 09:47:07 GMT | The 7 Kali Linux Tools I Use in Every Single CTF (and Why You Should Master Them) | Axoloth | [Read More](https://medium.com/p/b05f03d655f0) |
-| Mon, 15 Dec 2025 09:42:24 GMT | Top 10 Practical Projects for AI, ML, and Data Science Students (Categorized by Domain) | Arun K | [Read More](https://medium.com/p/989387b1441e) |
-| Mon, 15 Dec 2025 09:41:19 GMT | 5 Infrastructure as Code Security Issues & How to Fix Them | Spacelift | [Read More](https://medium.com/p/66b4f2fb1fa5) |
-| Mon, 15 Dec 2025 09:39:27 GMT | Forecasting Bugs and Performance Issues in Mobile Apps Using AI Analytics | Samitha Walpola | [Read More](https://medium.com/p/1265bdb896cf) |
-| Mon, 15 Dec 2025 09:38:21 GMT | React Server Components Are Still Not Ready Yet. | Andrea D'Attero | [Read More](https://medium.com/p/b3886b161e24) |
-| Mon, 15 Dec 2025 09:36:33 GMT | Mr.Black Machine Walkthrough | OmRajbhoi | [Read More](https://medium.com/p/ba876913aa28) |
-| Mon, 15 Dec 2025 09:33:44 GMT | Enterprise iOS Security for Fintech Applications | Samitha Walpola | [Read More](https://medium.com/p/99d4714d0e28) |
-| Mon, 15 Dec 2025 09:32:49 GMT | The Evolution of C2: Centralized to On-Chain | Netlas.io | [Read More](https://medium.com/p/7f4c3b6e0bfd) |
-| Mon, 15 Dec 2025 09:32:36 GMT | Web3 Security Best Practices for Developers - Hashtag Web3 | #web3 | [Read More](https://medium.com/p/4770ebc181b8) |
-| Mon, 15 Dec 2025 09:28:01 GMT | Referrer Policy Bypass via HTTP Link Header Injection | Mahmoud Fawzy | [Read More](https://medium.com/p/e9e9025bf221) |
-| Mon, 15 Dec 2025 09:27:37 GMT | IT Support Outsourcing: A Smart Strategy for Modern Businesses | Alice Brown | [Read More](https://medium.com/p/c1eef37dc89f) |
-| Mon, 15 Dec 2025 09:26:54 GMT | Security Risk Assessment: Why Attackers Don’t Care That You Passed Your Audit… | Travis Ray Caverhill | [Read More](https://medium.com/p/1a122ce1d7e5) |
-| Mon, 15 Dec 2025 09:24:36 GMT | Professional-Level Security Made Accessible with Free Antivirus | Siyanoav | [Read More](https://medium.com/p/9073362e2287) |
