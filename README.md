@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Dec 2025 19:29:29 GMT | THM — The Sticker Shop | 0xEnzoSantana | [Read More](https://medium.com/p/064099bbea84) |
+| Mon, 15 Dec 2025 19:28:49 GMT | Mapping the Cyber Threat Landscape in Iran | Armin Mehraeen | [Read More](https://medium.com/p/2a475bb4f3f4) |
+| Mon, 15 Dec 2025 19:28:48 GMT | I’ve Been Fooled by Online Scams Too. Here’s How I Stay Safe in 2025 | Dinah Davis | [Read More](https://medium.com/p/64878a30a1fb) |
+| Mon, 15 Dec 2025 19:24:05 GMT | Scan Clean, System Dirty – The Architectural Decay Hidden by Security Reports | Umut Akbulut | [Read More](https://medium.com/p/2c539ac22707) |
+| Mon, 15 Dec 2025 19:24:00 GMT | LetsDefend — MSHTML | Javier | [Read More](https://medium.com/p/968b8922d54d) |
+| Mon, 15 Dec 2025 19:23:50 GMT | I Broke a Fortune 100 in 14 Days by Reading JavaScript | Adnan | [Read More](https://medium.com/p/c8e1fe27f1b2) |
+| Mon, 15 Dec 2025 19:23:46 GMT | Finansal Siber Tehditlerin Evrimi: Dijital Suçta On Yıllık Dönüşüm (2016–2024) | Pelinnasln | [Read More](https://medium.com/p/e40aa0eee309) |
 | Mon, 15 Dec 2025 19:19:34 GMT | Web Attack Forensics — Drone Alone - Advent of Cyber 2025 Day 15 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/6b21cad187e0) |
+| Mon, 15 Dec 2025 19:18:09 GMT | Amazon CloudFront: OAI vs OAC | Ayesha Siddiqa | [Read More](https://medium.com/p/317816aacee4) |
 | Mon, 15 Dec 2025 19:06:31 GMT | Weekly Cyber Threat Bulletin: 11 December 2025 | Marcelle Lee | [Read More](https://medium.com/p/56137b44a057) |
 | Mon, 15 Dec 2025 19:06:06 GMT | AI Series Ep. 7 — Social Engineering of Large Language Model — Shadow Data in RAG revealed | Michael Harms | [Read More](https://medium.com/p/c28cc40a0af8) |
 | Mon, 15 Dec 2025 18:56:30 GMT | My Journey into Cyber Security Starts Now | Muhammad Rehan | [Read More](https://medium.com/p/1fc7e652b202) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 14:45:38 GMT | Day 133 — Narnia Level-7 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/53b46965c9d6) |
 | Mon, 15 Dec 2025 14:44:38 GMT | VolkLocker Ransomware Is Vulnerable on Windows and Linux: The Hard-Coded Master Key That Breaks the… | Germano Costi | [Read More](https://medium.com/p/0e4e3b69d77f) |
 | Mon, 15 Dec 2025 14:44:37 GMT | How to Protect Social Media Accounts with Best Practices | Deathrow8008s | [Read More](https://medium.com/p/ba786de4fd54) |
-| Mon, 15 Dec 2025 14:44:10 GMT | Capítulo 18 — O Bug Primordial | Kleber Andrade | [Read More](https://medium.com/p/72cd74e75390) |
-| Mon, 15 Dec 2025 14:43:06 GMT | Why Your Business Needs Data Backup | Local Toronto | [Read More](https://medium.com/p/ea5d8452bbae) |
-| Mon, 15 Dec 2025 14:40:08 GMT | FINAL WEEK ! — Call for Speakers for “VulnCon 2026” Closes on December 22, 2025 | CVE Program Blog | [Read More](https://medium.com/p/b5c006cbd1d2) |
-| Mon, 15 Dec 2025 14:34:39 GMT | Cyber Security: The Invisible Shield That Keeps the Internet Alive | Rahul Shah | [Read More](https://medium.com/p/8c727b0455dc) |
-| Mon, 15 Dec 2025 14:32:36 GMT | USOM Tehdit İstihbaratının FortiGate Firewall’a Entegrasyonu | Furkan Ünlü | [Read More](https://medium.com/p/bbfb2ff3d6be) |
-| Mon, 15 Dec 2025 14:32:21 GMT | (Comptia A+) The Evolution of Software Licensing: From Bill Gates to Modern-Day Systems | Vignesh R | [Read More](https://medium.com/p/c1f8c828cadb) |
-| Mon, 15 Dec 2025 14:32:20 GMT | SEC’s New Crypto Custody Guidance: Navigating the Future of Digital Asset Security | DigitalChainSpace | [Read More](https://medium.com/p/5c22b80f1015) |
-| Mon, 15 Dec 2025 14:32:15 GMT | AI Threat Modeling for LLM Workloads on AWS | Davebhargavi | [Read More](https://medium.com/p/fca976570710) |
