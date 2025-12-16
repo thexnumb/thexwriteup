@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 07:12:16 GMT | How I Built a SOC Lab in My Bedroom: The Blueprint | Abimanyu A | [Read More](https://medium.com/p/812aa2a1545a) |
+| Tue, 16 Dec 2025 07:09:35 GMT | Volatility Plugins — Plugin windows.malfind Let’s Talk About it | Dean | [Read More](https://medium.com/p/c9e1b64001bd) |
+| Tue, 16 Dec 2025 07:06:01 GMT | How Authenticator Apps Generate 6-Digit Codes Every 30 Seconds Even Offline (A Deep Technical… | Dhananjay Aggarwal | [Read More](https://medium.com/p/d641f45cc24a) |
+| Tue, 16 Dec 2025 07:04:17 GMT | Breaking Yavuzlar VulnLab Complete XSS Walkthrough | Himanshu | [Read More](https://medium.com/p/919df28ba9ad) |
+| Tue, 16 Dec 2025 07:02:21 GMT | A Beginner-Friendly Guide to API Authentication & Authorization: Lessons from Twitter/X’s API | Odunlade Adeola | [Read More](https://medium.com/p/3f0d473466b7) |
+| Tue, 16 Dec 2025 07:00:24 GMT | Google to Shut Down Dark Web Monitoring Tool in February 2026: What Users Need to Know | Deepak Sharma | [Read More](https://medium.com/p/da66e7261709) |
+| Tue, 16 Dec 2025 06:48:13 GMT | Complete Guide to Maximizing Productivity with MS Office 365 Small Business Premium | IT Company | [Read More](https://medium.com/p/bded5f211658) |
+| Tue, 16 Dec 2025 06:44:32 GMT | How Security Best Practices Should Evolve for Full Stack Engineering | Byot Tech | [Read More](https://medium.com/p/7f4765729d02) |
+| Tue, 16 Dec 2025 06:36:31 GMT | Email Phishing Analysis Guide | Root2Revenue | [Read More](https://medium.com/p/d62ff45a2588) |
+| Tue, 16 Dec 2025 06:31:35 GMT | Malware as a Service — How Cybercriminals Are Scaling Attacks Like Startups | Ssolosssolo | [Read More](https://medium.com/p/6365c8d8ed35) |
 | Tue, 16 Dec 2025 06:31:01 GMT | Tải Câu Cá Vạn Cân Mod Apk V1.64.0 (Full Tiền, Map, Menu) | GOCMOD | [Read More](https://medium.com/p/1409c03c23e0) |
 | Tue, 16 Dec 2025 06:30:48 GMT | The New Age of Malware Attacks — Why Today’s Threats Are Harder to Detect Than Ever | Ssolosssolo | [Read More](https://medium.com/p/953938bc4558) |
 | Tue, 16 Dec 2025 06:27:41 GMT | 5 Signs Your Business Needs Professional Cybersecurity Consulting | Deepa | [Read More](https://medium.com/p/09bb27b21b0f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 21:28:56 GMT | The Scariest Threat in “A House of Dynamite” | B. F. Campbell | [Read More](https://medium.com/p/2530f342a8f7) |
 | Mon, 15 Dec 2025 21:26:36 GMT | Payload Shape Injection: The API Security Risk Nobody Names | Mohammad Abir Abbas | [Read More](https://medium.com/p/a820e080a3a1) |
 | Mon, 15 Dec 2025 21:22:00 GMT | Directory Transversal lead to RCE - Manual hacking. | Alejandro Estupiñán | [Read More](https://medium.com/p/df33825e2023) |
-| Mon, 15 Dec 2025 21:20:37 GMT | From Clone to Detection: Deploying an AI-Powered Phishing Detection System in Under an Hour | Andycarsan | [Read More](https://medium.com/p/74ea8323b19e) |
-| Mon, 15 Dec 2025 21:12:13 GMT | Building an Attack Surface Monitoring Engine (ASM) with FastAPI and Nmap | Pranshu Pathak | [Read More](https://medium.com/p/37d3fe91191a) |
-| Mon, 15 Dec 2025 21:10:33 GMT | Two Years Later, Justice Still Eludes Family of Slain Casino Security Guard | Scott Hill | [Read More](https://medium.com/p/8d88db7df50d) |
-| Mon, 15 Dec 2025 21:08:37 GMT | How I Used an IDOR to Trigger XSS and Take Over All Accounts | Codi | [Read More](https://medium.com/p/09ceca8e843a) |
-| Mon, 15 Dec 2025 21:00:47 GMT | FortiGate Firewall ile Ağ Güvenliği Temel Kullanım Rehberi, Bileşenler ve USOM (SSL / SSH… | ZehraAydogdu | [Read More](https://medium.com/p/38235100242c) |
-| Mon, 15 Dec 2025 20:46:53 GMT | GCC Cracking RSA with Partial Information | Mahmoud Fawzy | [Read More](https://medium.com/p/007d02ff08ca) |
-| Mon, 15 Dec 2025 20:43:53 GMT | Best Laptop for Cyber Security | Draft Gadgets | [Read More](https://medium.com/p/a0d232c5f585) |
-| Mon, 15 Dec 2025 20:42:14 GMT | Building a Threat Detection Lab with Wireshark and Nmap | Secured By Sebastion | [Read More](https://medium.com/p/00d37d571382) |
-| Mon, 15 Dec 2025 20:34:26 GMT | Try Hack Me- Brooklyn Nine Nine Walkthrough | Herrfuhrer | [Read More](https://medium.com/p/3b2028a01de3) |
-| Mon, 15 Dec 2025 20:11:08 GMT | Single-Character Domains Exist and Why You Can’t Register One Today | declan | [Read More](https://medium.com/p/e22f690e4a1d) |
