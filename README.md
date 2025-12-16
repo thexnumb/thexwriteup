@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 13:38:33 GMT | SOC170 — Passwd Found in Requested URL — Possible LFI Attack | mrsifr | [Read More](https://medium.com/p/4406cdfcb025) |
+| Tue, 16 Dec 2025 13:35:19 GMT | # Why I Write About Security | Abdulbar | [Read More](https://medium.com/p/2cd88f269dcb) |
+| Tue, 16 Dec 2025 13:32:40 GMT | ⚡ Make ZSH Fast, Colored, and Kali-Like (Without Lag) | Taha Ex | [Read More](https://medium.com/p/4f144b8fce36) |
+| Tue, 16 Dec 2025 13:26:38 GMT | # Free Hacking Tools Every Beginner Should Know (3-Minute Read) | Abdulbar | [Read More](https://medium.com/p/2eaf1d82a082) |
+| Tue, 16 Dec 2025 13:19:00 GMT | Case Study: Large-Scale Open-Source Security Assessment in 6 Days | ZAST AI | [Read More](https://medium.com/p/44e5af7fe62c) |
+| Tue, 16 Dec 2025 13:17:46 GMT | SOC 2, ISO 27001, and CMMC: Why Audit Readiness Is an Operational Discipline | Gaurav Sengar | [Read More](https://medium.com/p/4f948a43c922) |
+| Tue, 16 Dec 2025 13:12:43 GMT | Defining Signers for Amazon CloudFront Signed URLs: What Developers Must Get Right | Osman ALP | [Read More](https://medium.com/p/a3f2f7f59835) |
+| Tue, 16 Dec 2025 13:06:02 GMT | How to Find Hidden Bugs on Any Website in Just 6 Minutes | Codi | [Read More](https://medium.com/p/56443c448921) |
+| Tue, 16 Dec 2025 13:06:02 GMT | How often should security tests run in CI/CD? | Harold Finch | [Read More](https://medium.com/p/d2286d3ae5a3) |
+| Tue, 16 Dec 2025 13:02:24 GMT | Linux Security Habit #7 — The One Permission Check That Exposes Silent Privilege Escalation | Faruk Ahmed | [Read More](https://medium.com/p/55db7f2b9d22) |
+| Tue, 16 Dec 2025 13:01:52 GMT | Active Directory Pratik Rehberi: II “Yönetim Araçları ve Yetkilendirme” | Taha Altın | [Read More](https://medium.com/p/e25ea693ce71) |
+| Tue, 16 Dec 2025 12:59:53 GMT | Active Directory Pratik Rehberi: I “Organizasyon & Temel Yönetim” | Taha Altın | [Read More](https://medium.com/p/078732fcd7b6) |
+| Tue, 16 Dec 2025 12:57:54 GMT | Critical Security Flaws Discovered in Inverter Systems | Marlon Starkloff | [Read More](https://medium.com/p/cb802bc4cac2) |
 | Tue, 16 Dec 2025 12:47:00 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/867e51ef5dd6) |
 | Tue, 16 Dec 2025 12:39:09 GMT | MCP Security for Enterprise: When LLMs Stop Talking and Start Acting | Tunahan TEKEOGLU | [Read More](https://medium.com/p/ff4f6e6cafd4) |
 | Tue, 16 Dec 2025 12:30:30 GMT | A Journey from Session Poisoning to CL.CL Request Smuggling | Mahmoud Fawzy | [Read More](https://medium.com/p/9c7dbc122e08) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 07:59:00 GMT | Build a Future-Ready Career as a Cyber Security Engineer | Jacobwilsonus | [Read More](https://medium.com/p/63421bf339c7) |
 | Tue, 16 Dec 2025 07:58:12 GMT | Trusted Remote IT Support in Sydney That Delivers Results | Any network | [Read More](https://medium.com/p/dd617e66dea8) |
 | Tue, 16 Dec 2025 07:57:54 GMT | Why CVSS Is No Longer Enough: Rethinking Vulnerability Risk with Business Context | Assure eServices Inc. | [Read More](https://medium.com/p/1598259862b9) |
-| Tue, 16 Dec 2025 07:54:53 GMT | SQL injection UNION attack. | Amrsmooke | [Read More](https://medium.com/p/c4d71b80101f) |
-| Tue, 16 Dec 2025 07:53:59 GMT | The Hidden Doors of the Web: Pentesting and Hunting API Exploits | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/aa7f83d63765) |
-| Tue, 16 Dec 2025 07:53:20 GMT | A Beginner’s Guide to CCTV Mobile Apps and Remote Monitoring | Ask IT Support | [Read More](https://medium.com/p/893f2e203b80) |
-| Tue, 16 Dec 2025 07:51:45 GMT | The “Featured” Trap: When Your Browser Becomes the Attacker | Germano Costi | [Read More](https://medium.com/p/bbd8e4caae13) |
-| Tue, 16 Dec 2025 07:42:28 GMT | Sam Altman’s Code Red Exposes Structural Failure as ChatGPT and Gemini Compete | Melviya | [Read More](https://medium.com/p/ccfe5bd300b2) |
-| Tue, 16 Dec 2025 07:21:04 GMT | Security Lab Simulation Project Part 12: Configuration of Snort3 | Jenny | [Read More](https://medium.com/p/70c51799d4b1) |
-| Tue, 16 Dec 2025 07:19:38 GMT | Reverse Proxy | Anandhu Kannan | [Read More](https://medium.com/p/01c74e1f1d19) |
-| Tue, 16 Dec 2025 07:12:16 GMT | How I Built a SOC Lab in My Bedroom: The Blueprint | Abimanyu A | [Read More](https://medium.com/p/812aa2a1545a) |
-| Tue, 16 Dec 2025 07:09:35 GMT | Volatility Plugins — Plugin windows.malfind Let’s Talk About it | Dean | [Read More](https://medium.com/p/c9e1b64001bd) |
-| Tue, 16 Dec 2025 07:06:01 GMT | How Authenticator Apps Generate 6-Digit Codes Every 30 Seconds Even Offline (A Deep Technical… | Dhananjay Aggarwal | [Read More](https://medium.com/p/d641f45cc24a) |
-| Tue, 16 Dec 2025 07:04:17 GMT | Breaking Yavuzlar VulnLab Complete XSS Walkthrough | Himanshu | [Read More](https://medium.com/p/919df28ba9ad) |
-| Tue, 16 Dec 2025 07:02:21 GMT | A Beginner-Friendly Guide to API Authentication & Authorization: Lessons from Twitter/X’s API | Odunlade Adeola | [Read More](https://medium.com/p/3f0d473466b7) |
-| Tue, 16 Dec 2025 07:00:24 GMT | Google to Shut Down Dark Web Monitoring Tool in February 2026: What Users Need to Know | Deepak Sharma | [Read More](https://medium.com/p/da66e7261709) |
