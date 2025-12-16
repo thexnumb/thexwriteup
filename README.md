@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 17:27:13 GMT | Why we built an MCP server for email security | Annika Grunewakdt | [Read More](https://medium.com/p/9a3f7dd3a8f0) |
+| Tue, 16 Dec 2025 17:26:59 GMT | Security Awareness Isn’t a Month, It’s a Mindset | Really Bad Security | [Read More](https://medium.com/p/bfee433418d7) |
+| Tue, 16 Dec 2025 17:25:15 GMT | Complex ≠ Secure: Rethinking Passwords | Really Bad Security | [Read More](https://medium.com/p/f17267859d5c) |
+| Tue, 16 Dec 2025 17:24:48 GMT | Rockrose Development LLC Data Breach Raises Concerns Over Real Estate Data Security | David Miller | [Read More](https://medium.com/p/fab06f5c081c) |
+| Tue, 16 Dec 2025 17:22:26 GMT | DevOps 2.0: GitOps, Policy-as-Code, and Shift-Left Security Changed Everything (Quietly) | Logic Over Latte | [Read More](https://medium.com/p/1fccafa75ae8) |
 | Tue, 16 Dec 2025 17:21:18 GMT | Top Tech Skills Trending in 2025 | Freaky Irfuu.. | [Read More](https://medium.com/p/82789d81a30b) |
+| Tue, 16 Dec 2025 17:21:18 GMT | How to Build APIs That Can’t Be Tricked: Secure Request Validation in Go | syarif | [Read More](https://medium.com/p/ad73dac8bf1f) |
+| Tue, 16 Dec 2025 17:16:15 GMT | How Does AI Detect Spam? (Explained Simply) | Prapti Vahia | [Read More](https://medium.com/p/dc3570e03750) |
+| Tue, 16 Dec 2025 17:15:51 GMT | The Day We Learn to Receive Love | Lys B | [Read More](https://medium.com/p/c8f53d98c836) |
+| Tue, 16 Dec 2025 17:15:26 GMT | CVE‑2025‑66516: Critical XXE in Apache Tika (PDF Uploads at Risk) | vinod | [Read More](https://medium.com/p/e011ccd61e52) |
 | Tue, 16 Dec 2025 17:06:59 GMT | SOAR and SIEM Explained: Cloud-Native Security Automation for Modern SOCs | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/269826798562) |
 | Tue, 16 Dec 2025 17:05:34 GMT | How To Deploy Keys for SSH Authentication | Hugo Enrique López Pérez | [Read More](https://medium.com/p/6c66ea3fedb3) |
 | Tue, 16 Dec 2025 17:03:35 GMT | Advent of Cyber 2025 - Day 16: Forensics — Registry Furensics | D4m.sh | [Read More](https://medium.com/p/6dc3f3b65ca6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 13:02:24 GMT | Linux Security Habit #7 — The One Permission Check That Exposes Silent Privilege Escalation | Faruk Ahmed | [Read More](https://medium.com/p/55db7f2b9d22) |
 | Tue, 16 Dec 2025 13:01:52 GMT | Active Directory Pratik Rehberi: II “Yönetim Araçları ve Yetkilendirme” | Taha Altın | [Read More](https://medium.com/p/e25ea693ce71) |
 | Tue, 16 Dec 2025 12:59:53 GMT | Active Directory Pratik Rehberi: I “Organizasyon & Temel Yönetim” | Taha Altın | [Read More](https://medium.com/p/078732fcd7b6) |
-| Tue, 16 Dec 2025 12:57:54 GMT | Critical Security Flaws Discovered in Inverter Systems | Marlon Starkloff | [Read More](https://medium.com/p/cb802bc4cac2) |
-| Tue, 16 Dec 2025 12:47:00 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/867e51ef5dd6) |
-| Tue, 16 Dec 2025 12:39:09 GMT | MCP Security for Enterprise: When LLMs Stop Talking and Start Acting | Tunahan TEKEOGLU | [Read More](https://medium.com/p/ff4f6e6cafd4) |
-| Tue, 16 Dec 2025 12:30:30 GMT | A Journey from Session Poisoning to CL.CL Request Smuggling | Mahmoud Fawzy | [Read More](https://medium.com/p/9c7dbc122e08) |
-| Tue, 16 Dec 2025 12:28:23 GMT | Tomb of Java antiquities | Unicorn Developer | [Read More](https://medium.com/p/040d1ed297af) |
-| Tue, 16 Dec 2025 12:24:01 GMT | Trusted Security & IoT Solutions Provider in the UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/141a1a201fd3) |
-| Tue, 16 Dec 2025 12:22:32 GMT | Shielding Growth: How Scalable Firewall Solutions Power Secure Digital Transformation | ANSI Technologies | [Read More](https://medium.com/p/0c22221202db) |
-| Tue, 16 Dec 2025 12:19:03 GMT | JavaScript Analysis: From Minified Mess to High-Impact Bugs for Bug Bounty Hunters | Bugatsec | [Read More](https://medium.com/p/924ab3f12ccf) |
-| Tue, 16 Dec 2025 12:13:11 GMT | Home Cybersecurity Lab Setup Using VMware Workstation using pfSense and Multi OS Virtual Machine | Oluwadamilare Adeosun | [Read More](https://medium.com/p/7acfdc2615e9) |
