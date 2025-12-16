@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 22:29:54 GMT | Carnival Crisis - Dog Years | Julio Oña | [Read More](https://medium.com/p/2d19c3dbe970) |
 | Tue, 16 Dec 2025 21:55:52 GMT | Logical 2FA Bypass by Reusing Trusted Device Authentication Flow | Mahmoud Gamal | [Read More](https://medium.com/p/bd95b32b104c) |
 | Tue, 16 Dec 2025 21:47:15 GMT | We’re Solving Yesterday’s IAM Problems With Tomorrow’s Budget | Steve Anderson | [Read More](https://medium.com/p/59fb8ad10d37) |
 | Tue, 16 Dec 2025 21:35:55 GMT | Swells | Chris Perkins | [Read More](https://medium.com/p/c07cbbb85f3d) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 15:50:03 GMT | Your Security Scanner Misses 97% of AI-Generated Backdoors | AhmedAbdelmenem | [Read More](https://medium.com/p/e7b955b7f304) |
 | Tue, 16 Dec 2025 15:47:41 GMT | [90 days to CompTIA Security+] — Day 2/90 | Lam Nguyen | [Read More](https://medium.com/p/904d4628a74e) |
 | Tue, 16 Dec 2025 15:41:51 GMT | APIs: Your Weakest Link — Why API Attacks Are Exploding in 2025 | JSOC IT BLOG | [Read More](https://medium.com/p/705139fa9a2e) |
-| Tue, 16 Dec 2025 15:40:49 GMT | Documenting My Journey Into Penetration Testing | Written by k41r0s3 | [Read More](https://medium.com/p/fecd2393bba0) |
