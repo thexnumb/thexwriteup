@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 19:01:10 GMT | ‎‎ ‎‎‎⠀⠀⠀⠀⠀⠀Burp Suite Intruder | Akshay | [Read More](https://medium.com/p/89d4deb4db05) |
+| Tue, 16 Dec 2025 18:57:10 GMT | LLMs Are Not Enough: Introducing Large Action Models (LAM) | Lakshmi Priya Sridharan | [Read More](https://medium.com/p/448476e87f10) |
+| Tue, 16 Dec 2025 18:52:24 GMT | Why Java Systems Prefer Time-Based Algorithms Over State-Based Ones | The Dev Notebook | [Read More](https://medium.com/p/2dc586c4f58d) |
+| Tue, 16 Dec 2025 18:46:08 GMT | Linux Privilege Escalation Prevention Techniques | Esra Kayhan | [Read More](https://medium.com/p/aa0849829945) |
+| Tue, 16 Dec 2025 18:44:34 GMT | Network Protocol Anomaly Detection: Going Beyond Signature-Based Security | Esra Kayhan | [Read More](https://medium.com/p/b1fd9cbc10b7) |
+| Tue, 16 Dec 2025 18:43:21 GMT | Authentication and Authorization: Best Practices for Application Security | Jen Cracchiola | [Read More](https://medium.com/p/68bbccb5054b) |
+| Tue, 16 Dec 2025 18:42:56 GMT | How to Use Ps Tools Command | DefenAsh | [Read More](https://medium.com/p/1dda37bb1515) |
+| Tue, 16 Dec 2025 18:31:28 GMT | Infinity Learning lab: Assume & Decrypt (or vice versa)— Writeup | Hubert | [Read More](https://medium.com/p/b65eb8431f3b) |
+| Tue, 16 Dec 2025 18:31:23 GMT | Game of Death for Cybersecurity (Defense-in-Depth Series) | Michael Wills | [Read More](https://medium.com/p/e7ad1097cf47) |
 | Tue, 16 Dec 2025 18:29:35 GMT | pgAdmin 4 Meta-Command Filter Bypass — RCE | Cybersecplayground | [Read More](https://medium.com/p/8c22e9f1983d) |
 | Tue, 16 Dec 2025 18:27:21 GMT | Containers — DoorDasher’s Demise - AoC 2025 Day — 14 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/7e9b7f9255f4) |
 | Tue, 16 Dec 2025 18:26:51 GMT | The Energy Cost of AI Is Becoming a National Security Issue | Ezhil | [Read More](https://medium.com/p/7643a1658db9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 14:18:30 GMT | Unified Logs Will Become The Hidden Engine Behind Cyber Resilience in 2026 | Graylog | [Read More](https://medium.com/p/8c8fb12ba6d1) |
 | Tue, 16 Dec 2025 14:16:26 GMT | SELinux Policies Best Practices for Enterprise Linux | Linux Guide | [Read More](https://medium.com/p/16b57f653309) |
 | Tue, 16 Dec 2025 14:12:14 GMT | Anyone With API Access Can Clone an AI Model and Make It Unsafe | Marc Bara | [Read More](https://medium.com/p/45e4800cd436) |
-| Tue, 16 Dec 2025 14:11:32 GMT | Darkweb Research Tools Every Analyst Should Know | Tor BBB | [Read More](https://medium.com/p/7cf9aeab1d73) |
-| Tue, 16 Dec 2025 14:03:20 GMT | Shuffled PIN Keypads: When Security Forgets the Human | Cibiabiramu | [Read More](https://medium.com/p/eae4c8d783c4) |
-| Tue, 16 Dec 2025 14:02:16 GMT | How Cybercriminals Use AI to Social Engineer Better Than Humans | Anum Khan | [Read More](https://medium.com/p/5c1c2a239848) |
-| Tue, 16 Dec 2025 14:02:16 GMT | Designing Secure Networks: VLANs, Security Zones, and Layer 2 Protections | Secured By Sebastion | [Read More](https://medium.com/p/f71c8ef563de) |
-| Tue, 16 Dec 2025 14:00:41 GMT | Düşmanı Tanımak Yetmez, Onun Gibi Düşünmek Gerekir | Serdar Kurt | [Read More](https://medium.com/p/3aa9701becb9) |
-| Tue, 16 Dec 2025 13:59:25 GMT | Enterprise Multi-Agent Systems As Organizational Digital Twins | Arnou Kunz | [Read More](https://medium.com/p/b1b0c09cd029) |
-| Tue, 16 Dec 2025 13:49:36 GMT | 4 Critical Lessons from the Apache Tika Bug That Scored a Perfect 10.0 | Vedant Jain | [Read More](https://medium.com/p/a17ff30c317c) |
-| Tue, 16 Dec 2025 13:47:22 GMT | Low Budget Patrolling Services Houston | Security Houston | [Read More](https://medium.com/p/237758ddca55) |
-| Tue, 16 Dec 2025 13:46:20 GMT | Service Accounts: Architecture Patterns | Mr Ben Abdallah | [Read More](https://medium.com/p/ee345cd041d2) |
