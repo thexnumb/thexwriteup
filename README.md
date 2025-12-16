@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 10:40:13 GMT | Russian Phishing Campaign Uses ISO Attachments to Deliver Phantom Stealer Malware | News Bulletin | [Read More](https://medium.com/p/16b17b60f119) |
+| Tue, 16 Dec 2025 10:39:49 GMT | A Private Follow Up & Gift for Readers of the Cybersecurity for VCs Series” | Barry Ritchie | [Read More](https://medium.com/p/1f9b73906c29) |
+| Tue, 16 Dec 2025 10:33:26 GMT | 7-Step Ultimate December 2025 Patch Tuesday Triage | Pentest_Testing_Corp | [Read More](https://medium.com/p/53d91939b909) |
+| Tue, 16 Dec 2025 10:32:15 GMT | SOAR Explained: How Modern Security Teams Respond Faster to Cyber Threats | Natarajan C K | [Read More](https://medium.com/p/e24f70f7d93a) |
+| Tue, 16 Dec 2025 10:32:04 GMT | My Top 20 Most Popular Cybersecurity Articles of 2025 | JC Gaillard | [Read More](https://medium.com/p/bff5b48f1595) |
+| Tue, 16 Dec 2025 10:28:52 GMT | Advent of Cyber 25 — Day 15 — Web Attack Forensics — Drone Alone | cybertactic | [Read More](https://medium.com/p/bc6ffce0435e) |
+| Tue, 16 Dec 2025 10:28:24 GMT | Backup in Cybersecurity: Why the 3–2–1–1–0 Rule Is the Gold Standard for Business Survival | Zefai Insights | [Read More](https://medium.com/p/f24f6e620f9c) |
+| Tue, 16 Dec 2025 10:26:22 GMT | How Windows Defender Evolved Into One of the Strongest Endpoint Protections on the Planet | Yua Mikanana | [Read More](https://medium.com/p/6f1a9a1bd404) |
+| Tue, 16 Dec 2025 10:23:32 GMT | Why Web Application Security Services in India Are Critical for Modern Businesses | Prakash Factosecure | [Read More](https://medium.com/p/eca16df8cac9) |
+| Tue, 16 Dec 2025 10:20:27 GMT | How I Got RCE’d for the First Time — and What It Taught Me About Security | Laurence L | [Read More](https://medium.com/p/2c2c5e634c6d) |
+| Tue, 16 Dec 2025 10:19:55 GMT | HTB Pentester Path — Footprinting Module Part II | Varkeythms | [Read More](https://medium.com/p/0571431c5667) |
+| Tue, 16 Dec 2025 10:19:29 GMT | CVE-2025–55182 Alert: How to Secure Your Next.js App Before It’s Too Late | SecureSlate | [Read More](https://medium.com/p/a1883c3a5f3c) |
 | Tue, 16 Dec 2025 10:16:22 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/d049fbb659c6) |
 | Tue, 16 Dec 2025 10:13:25 GMT | Advent of Cyber 25 — Day 14 — Containers — DoorDasher’s Demise | cybertactic | [Read More](https://medium.com/p/dff0584a9666) |
 | Tue, 16 Dec 2025 10:08:02 GMT | Take Control of Your Privacy: AdGuard-Home with HTTPS and TLS Encryption | Kalyan Mudumby | [Read More](https://medium.com/p/38fb96693370) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 05:07:00 GMT | How CISO as a Service Helps You Reduce Cyber Risks Fast | NMT Security | [Read More](https://medium.com/p/b81242f288ba) |
 | Tue, 16 Dec 2025 05:04:06 GMT | Common Node.js Security Vulnerabilities and How DevOps Teams Can Prevent Them in SaaS Applications | Ravi Kyada | [Read More](https://medium.com/p/c6dfd2086049) |
 | Tue, 16 Dec 2025 04:59:07 GMT | COMO CREAR UN AULA VIRTUAL EN SABIONET | Dennis garcia | [Read More](https://medium.com/p/e68e75695d26) |
-| Tue, 16 Dec 2025 04:58:34 GMT | My Journey into Cybersecurity | Mmohammadsalman | [Read More](https://medium.com/p/09a7b8a7394f) |
-| Tue, 16 Dec 2025 04:54:01 GMT | Cybersecurity Awareness Training for Employees: A Practical Defense Against Modern Threats | Maxatlasofficial | [Read More](https://medium.com/p/fd082338bd7b) |
-| Tue, 16 Dec 2025 04:53:51 GMT | [CyberDefenders Write-up] RARCVE (bat file to PowerShell and Shellcode debugging) | Chicken0248 | [Read More](https://medium.com/p/9dc33049b9a1) |
-| Tue, 16 Dec 2025 04:52:48 GMT | [CyberDefenders Write-up] GhostDetect (Analysis on the VBScript embedded in LNK file) | Chicken0248 | [Read More](https://medium.com/p/6c070650bb58) |
-| Tue, 16 Dec 2025 04:48:45 GMT | How Hackers Can Hack You Using Just Your Phone Number | Vishalraj | [Read More](https://medium.com/p/81f623aa5357) |
-| Tue, 16 Dec 2025 04:47:54 GMT | Why LinkedIn Automation Gets Restricted: Network Identity Drift | CryptoFlux | [Read More](https://medium.com/p/3f21beeea327) |
-| Tue, 16 Dec 2025 04:42:16 GMT | SIEM Integration: How Zapper Edge Turns File Activity Into Behavioral Intelligence | Prabhu Srivastava | [Read More](https://medium.com/p/6e36b11ded39) |
-| Tue, 16 Dec 2025 04:36:49 GMT | Case File: Agent Sudo | Themisertreachery | [Read More](https://medium.com/p/654537f73915) |
-| Tue, 16 Dec 2025 04:36:01 GMT | Securing a Kenyan SACCO from Zero [Part 2 of 6] | Munaniadeno | [Read More](https://medium.com/p/61d3e92f92d0) |
-| Tue, 16 Dec 2025 04:29:16 GMT | I Don’t Trust Software I Can’t Understand Anymore · PLEX | Dorian Sotpyrc | [Read More](https://medium.com/p/59496d2a4a7c) |
-| Tue, 16 Dec 2025 04:14:33 GMT | Stop Paying for Roaming: The Free Tech Stack I Used Across Three Continents | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/5d1d409c8a72) |
-| Tue, 16 Dec 2025 03:53:24 GMT | AWS IAM: Beyond the Basics — A Security Practitioner’s Guide | Blaise NGWA SHU | [Read More](https://medium.com/p/442ea0e31e40) |
