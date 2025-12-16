@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 20:17:25 GMT | The Lazy Hunter’s Guide to Modat: Recon Smarter, Not Harder | hacker_might | [Read More](https://medium.com/p/4bc95bc2a577) |
+| Tue, 16 Dec 2025 20:07:36 GMT | Dehumanization the Bot Way | Ruthie Owen-Moreno | [Read More](https://medium.com/p/bc9a7542c845) |
+| Tue, 16 Dec 2025 19:59:45 GMT | Why Agentic AI Amplifies Configuration Debt (and How to Contain It) | Donovan_Distracted | [Read More](https://medium.com/p/ce83aee96546) |
+| Tue, 16 Dec 2025 19:52:21 GMT | CyberExam Sqlmap for Beginners lab Writeup | FYC | [Read More](https://medium.com/p/765d9c2faa10) |
+| Tue, 16 Dec 2025 19:52:01 GMT | Authentication vs Authorization — What's the Difference? | Damir Kolobaric | [Read More](https://medium.com/p/44265c869c5f) |
+| Tue, 16 Dec 2025 19:41:23 GMT | LFI to RCE via Log Poisoning: A Hands-On Exploit Guide | Raj Prasad Kuiri | [Read More](https://medium.com/p/621255a547c4) |
+| Tue, 16 Dec 2025 19:40:37 GMT | Forensics — Registry Furensics AOC 2025 Day 16 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/8bffbecd0d74) |
+| Tue, 16 Dec 2025 19:40:01 GMT | The CrowdStrike Crisis Taught Us We’re Practicing the Wrong Scenarios | Tyson Martin | [Read More](https://medium.com/p/21ad8e1c3193) |
+| Tue, 16 Dec 2025 19:32:47 GMT | Editor Hack The Box Walkthrough | NourInTech | [Read More](https://medium.com/p/74a3acdc4bbe) |
 | Tue, 16 Dec 2025 19:31:45 GMT | CVE Record Disputes, Explained: A Community Path to Clearer Vulnerability Data in a… | CVE Program Blog | [Read More](https://medium.com/p/271a6b5e1054) |
 | Tue, 16 Dec 2025 19:23:27 GMT | The Real Cost of Oracle Security | Chain Love | [Read More](https://medium.com/p/c34dd26d7760) |
 | Tue, 16 Dec 2025 19:21:01 GMT | Install OpenCTI using Docker for Threat Intelligence (Step-by-Step) | 0xRahuL | [Read More](https://medium.com/p/1113ac52ad98) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 14:44:24 GMT | Infinity Learning lab: Whispers from SQS— Writeup | Hubert | [Read More](https://medium.com/p/fbe09c33bed5) |
 | Tue, 16 Dec 2025 14:43:29 GMT | What Is MLL and Why I Think It Is the Next Big Skill to Learn for the Future | Suzan Gautam | [Read More](https://medium.com/p/eb70ff05b581) |
 | Tue, 16 Dec 2025 14:43:02 GMT | That ‘Legit’ Site You Just Gave Your Credentials to Might Be A Scam | Chaudhry Awais Ahmed | [Read More](https://medium.com/p/87b25e003062) |
-| Tue, 16 Dec 2025 14:41:01 GMT | Industrial Protocols: Modbus and DNP3 | urjasec | [Read More](https://medium.com/p/210eb4de5061) |
-| Tue, 16 Dec 2025 14:39:43 GMT | Forensics Challenge: Riddle Registry — Finding Flags in PDF Metadata | vulnhunter | [Read More](https://medium.com/p/c431a4338a7d) |
-| Tue, 16 Dec 2025 14:35:27 GMT | Resolving the Tenable Vulnerability “SSL Self-Signed Certificate” (Nessus Plugin ID 57582) in… | Jerome Decinco | [Read More](https://medium.com/p/d2a82e46ff0a) |
-| Tue, 16 Dec 2025 14:34:32 GMT | Digging Into LockBit 5.0: A Casual Review Insight | Rizqi Setyo Kusprihantanto | [Read More](https://medium.com/p/298dd8facb85) |
-| Tue, 16 Dec 2025 14:32:18 GMT | (Comptia A+) Understanding Incident Response in IT: A Comprehensive Guide for IT Professionals | Vignesh R | [Read More](https://medium.com/p/b16b38ec86dd) |
-| Tue, 16 Dec 2025 14:28:57 GMT | The Agentic Identity Moment: Why Enterprise AI Must Treat Agents as Governed Machine Identities | RAKTIM SINGH | [Read More](https://medium.com/p/b3064ec4d08b) |
-| Tue, 16 Dec 2025 14:26:46 GMT | Shocking Rise in AI-Generated CSAM | Shailendra Kumar | [Read More](https://medium.com/p/8ef5ec99e372) |
-| Tue, 16 Dec 2025 14:26:38 GMT | YARA Rules — YARA mean one! - AoC 2025 Day — 13 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/9ef8e170810b) |
-| Tue, 16 Dec 2025 14:25:52 GMT | Why Your Employees Are Your Biggest Security Risk (And How Hackers Know It) | Dhanush N | [Read More](https://medium.com/p/613ad1cc05e2) |
