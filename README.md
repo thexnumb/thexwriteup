@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 21:30:09 GMT | IPC via Thread Description | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f5223e601e60) |
+| Tue, 16 Dec 2025 21:27:04 GMT | Outsmarting AI-Powered Threats: Why Every Company Needs a vCISO Now | Hello @ Octellient | [Read More](https://medium.com/p/351f12639875) |
 | Tue, 16 Dec 2025 21:11:39 GMT | The Door official writeup | Soraya Djerrab | [Read More](https://medium.com/p/e209f5d4da6d) |
 | Tue, 16 Dec 2025 21:08:34 GMT | The Business Case for a Bespoke Website | Tashif Khan | [Read More](https://medium.com/p/714a6603e63f) |
 | Tue, 16 Dec 2025 20:57:04 GMT | DockerLabs — Jason [Write-Up] | APS88 | [Read More](https://medium.com/p/fdd947b24b34) |
@@ -74,6 +76,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 17:06:59 GMT | SOAR and SIEM Explained: Cloud-Native Security Automation for Modern SOCs | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/269826798562) |
 | Tue, 16 Dec 2025 17:05:34 GMT | How To Deploy Keys for SSH Authentication | Hugo Enrique López Pérez | [Read More](https://medium.com/p/6c66ea3fedb3) |
 | Tue, 16 Dec 2025 17:03:35 GMT | Advent of Cyber 2025 - Day 16: Forensics — Registry Furensics | D4m.sh | [Read More](https://medium.com/p/6dc3f3b65ca6) |
+| Tue, 16 Dec 2025 17:00:27 GMT | Le Lexique du Diplomate : Au-delà du Champ de Bataille — Redéfinir la Sécurité comme Sécurité… | Giulia Corso | [Read More](https://medium.com/p/95b75072c4cb) |
 | Tue, 16 Dec 2025 16:59:04 GMT | The Diplomat’s Lexicon: Beyond the Battlefield — Redefining Security as Human Security | Giulia Corso | [Read More](https://medium.com/p/1552aaff2ea1) |
 | Tue, 16 Dec 2025 16:52:22 GMT | Demystifying OAuth 2.0: A Technical Deep Dive into the Google Login Flow | Ahmed Haseen | [Read More](https://medium.com/p/c2c5f17522a2) |
 | Tue, 16 Dec 2025 16:45:49 GMT | HackTheBox Machine : Cap (Network Traffic Analysis) | Rafael Cliffordtan | [Read More](https://medium.com/p/12b4634d2cb8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 15:20:35 GMT | The Man Called: “King Of HELOC” | O. J. Okpabi | [Read More](https://medium.com/p/c29002e4fd3a) |
 | Tue, 16 Dec 2025 15:20:15 GMT | Tutorial Lengkap & Aman Menyimpan Seed Phrase Wallet Menggunakan VeraCrypt | Draxen | [Read More](https://medium.com/p/74eed0638a0c) |
 | Tue, 16 Dec 2025 15:18:12 GMT | When Frontend Assumptions Break: Observing Server-Side Command Execution in React & Next.js | Shikhar Sinha | [Read More](https://medium.com/p/a63bb72747b5) |
-| Tue, 16 Dec 2025 15:07:31 GMT | I Quit Development(Web & App) & Cyber Security to Build a Machine That Can Do Them for Me ! | Aura Farmer | [Read More](https://medium.com/p/0ae0eb87cd77) |
-| Tue, 16 Dec 2025 15:06:01 GMT | One Unchecked Box, One Billion Records: The Human Error Problem | Patrick Walsh | [Read More](https://medium.com/p/142274a48e63) |
-| Tue, 16 Dec 2025 15:02:26 GMT | Your ChatGPT Secrets Could Testify Against You: Here’s the Proof | Lucky | [Read More](https://medium.com/p/757c35393c49) |
