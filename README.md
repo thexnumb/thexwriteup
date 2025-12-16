@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 15:22:36 GMT | From Abstract to Acumen — Anatomy of a Modern BEC Attack | Cyb3rhawk | [Read More](https://medium.com/p/d4f0464b68c5) |
+| Tue, 16 Dec 2025 15:20:35 GMT | The Man Called: “King Of HELOC” | O. J. Okpabi | [Read More](https://medium.com/p/c29002e4fd3a) |
+| Tue, 16 Dec 2025 15:18:12 GMT | When Frontend Assumptions Break: Observing Server-Side Command Execution in React & Next.js | Shikhar Sinha | [Read More](https://medium.com/p/a63bb72747b5) |
+| Tue, 16 Dec 2025 15:07:31 GMT | I Quit Development(Web & App) & Cyber Security to Build a Machine That Can Do Them for Me ! | Aura Farmer | [Read More](https://medium.com/p/0ae0eb87cd77) |
+| Tue, 16 Dec 2025 15:06:01 GMT | One Unchecked Box, One Billion Records: The Human Error Problem | Patrick Walsh | [Read More](https://medium.com/p/142274a48e63) |
+| Tue, 16 Dec 2025 15:02:26 GMT | Your ChatGPT Secrets Could Testify Against You: Here’s the Proof | Lucky | [Read More](https://medium.com/p/757c35393c49) |
+| Tue, 16 Dec 2025 15:02:26 GMT | Cyber Briefing: 2025.12.16 | CyberMaterial | [Read More](https://medium.com/p/6c097c403fcb) |
+| Tue, 16 Dec 2025 15:01:47 GMT | Cybersecurity for Financial services | IT_Engineer | [Read More](https://medium.com/p/28a70773cbf2) |
+| Tue, 16 Dec 2025 14:58:40 GMT | React2Shell (CVE-2025–55182) Under Active Exploitation: Why Linux Servers Are in the Blast Radius… | Germano Costi | [Read More](https://medium.com/p/42f98847449d) |
+| Tue, 16 Dec 2025 14:55:34 GMT | Themida: Windows Executable Protection | Antonio Pagano | [Read More](https://medium.com/p/124b78fcd278) |
 | Tue, 16 Dec 2025 14:44:24 GMT | Infinity Learning lab: Whispers from SQS— Writeup | Hubert | [Read More](https://medium.com/p/fbe09c33bed5) |
 | Tue, 16 Dec 2025 14:43:29 GMT | What Is MLL and Why I Think It Is the Next Big Skill to Learn for the Future | Suzan Gautam | [Read More](https://medium.com/p/eb70ff05b581) |
 | Tue, 16 Dec 2025 14:43:02 GMT | That ‘Legit’ Site You Just Gave Your Credentials to Might Be A Scam | Chaudhry Awais Ahmed | [Read More](https://medium.com/p/87b25e003062) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 10:19:29 GMT | CVE-2025–55182 Alert: How to Secure Your Next.js App Before It’s Too Late | SecureSlate | [Read More](https://medium.com/p/a1883c3a5f3c) |
 | Tue, 16 Dec 2025 10:16:22 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/d049fbb659c6) |
 | Tue, 16 Dec 2025 10:13:25 GMT | Advent of Cyber 25 — Day 14 — Containers — DoorDasher’s Demise | cybertactic | [Read More](https://medium.com/p/dff0584a9666) |
-| Tue, 16 Dec 2025 10:08:02 GMT | Take Control of Your Privacy: AdGuard-Home with HTTPS and TLS Encryption | Kalyan Mudumby | [Read More](https://medium.com/p/38fb96693370) |
-| Tue, 16 Dec 2025 09:58:39 GMT | How to Prepare for Offensive Security Certified Professional (OSCP) Exam | Manisha Chaudhary | [Read More](https://medium.com/p/c5d181a69ac3) |
-| Tue, 16 Dec 2025 09:57:55 GMT | You Don’t Get Hacked Just Because Port 22 Is Open: Where Is SSH Actually Dangerous? | isaergisi | [Read More](https://medium.com/p/9ab362f558b9) |
-| Tue, 16 Dec 2025 09:45:05 GMT | house alarm system costThe True House Alarm System Cost in 2026: Is Home Security Worth the Price? | Criminology Expert | [Read More](https://medium.com/p/6d9f08a0568d) |
-| Tue, 16 Dec 2025 09:39:40 GMT | Script Kiddies — The Amateur Hackers Who Still Matter | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/d9baac10604a) |
-| Tue, 16 Dec 2025 09:38:47 GMT | Highest Salary Ethical Hacking Jobs in India: Your Complete Career Guide | cyber security Updates | [Read More](https://medium.com/p/f4c04f5438f5) |
-| Tue, 16 Dec 2025 09:36:24 GMT | Difference Between 2.4GHz and 5GHz Wi-Fi — Mejbankadir Ethical Hacker’s Real-Life Lesson | Mejbankadir | [Read More](https://medium.com/p/b86c78ce48a2) |
-| Tue, 16 Dec 2025 09:36:20 GMT | Fletcher Reede The Coder: Agile’s Endless Echo Chamber | Namir Sagheenanajar | [Read More](https://medium.com/p/54cbfb7e6724) |
-| Tue, 16 Dec 2025 09:32:39 GMT | How to Access Your Work Desktop From Home | Alex Hughes | [Read More](https://medium.com/p/28d9bfb44d7e) |
-| Tue, 16 Dec 2025 09:32:16 GMT | How i hacked a website just by looking at the source code | Devansh Patel | [Read More](https://medium.com/p/90645f085736) |
