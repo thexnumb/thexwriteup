@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 21:55:52 GMT | Logical 2FA Bypass by Reusing Trusted Device Authentication Flow | Mahmoud Gamal | [Read More](https://medium.com/p/bd95b32b104c) |
+| Tue, 16 Dec 2025 21:47:15 GMT | We’re Solving Yesterday’s IAM Problems With Tomorrow’s Budget | Steve Anderson | [Read More](https://medium.com/p/59fb8ad10d37) |
+| Tue, 16 Dec 2025 21:35:55 GMT | Swells | Chris Perkins | [Read More](https://medium.com/p/c07cbbb85f3d) |
+| Tue, 16 Dec 2025 21:35:06 GMT | Footprinting Skill Assessment 1 | Saqlain Naqvi | [Read More](https://medium.com/p/596c16636c7c) |
+| Tue, 16 Dec 2025 21:30:29 GMT | InsanityHosting: From SQLi to Firefox Credential Decryption | IshhIshneet | [Read More](https://medium.com/p/75a0309b5b82) |
 | Tue, 16 Dec 2025 21:30:09 GMT | IPC via Thread Description | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f5223e601e60) |
 | Tue, 16 Dec 2025 21:27:04 GMT | Outsmarting AI-Powered Threats: Why Every Company Needs a vCISO Now | Hello @ Octellient | [Read More](https://medium.com/p/351f12639875) |
 | Tue, 16 Dec 2025 21:11:39 GMT | The Door official writeup | Soraya Djerrab | [Read More](https://medium.com/p/e209f5d4da6d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 15:47:41 GMT | [90 days to CompTIA Security+] — Day 2/90 | Lam Nguyen | [Read More](https://medium.com/p/904d4628a74e) |
 | Tue, 16 Dec 2025 15:41:51 GMT | APIs: Your Weakest Link — Why API Attacks Are Exploding in 2025 | JSOC IT BLOG | [Read More](https://medium.com/p/705139fa9a2e) |
 | Tue, 16 Dec 2025 15:40:49 GMT | Documenting My Journey Into Penetration Testing | Written by k41r0s3 | [Read More](https://medium.com/p/fecd2393bba0) |
-| Tue, 16 Dec 2025 15:29:39 GMT | OWASP Top 10 2025: IAAA Failures — TryHackMe Walkthrough | farshad moradi shahrbabak | [Read More](https://medium.com/p/5d37bdd9832d) |
-| Tue, 16 Dec 2025 15:22:36 GMT | From Abstract to Acumen — Anatomy of a Modern BEC Attack | Cyb3rhawk | [Read More](https://medium.com/p/d4f0464b68c5) |
-| Tue, 16 Dec 2025 15:20:35 GMT | The Man Called: “King Of HELOC” | O. J. Okpabi | [Read More](https://medium.com/p/c29002e4fd3a) |
-| Tue, 16 Dec 2025 15:20:15 GMT | Tutorial Lengkap & Aman Menyimpan Seed Phrase Wallet Menggunakan VeraCrypt | Draxen | [Read More](https://medium.com/p/74eed0638a0c) |
-| Tue, 16 Dec 2025 15:18:12 GMT | When Frontend Assumptions Break: Observing Server-Side Command Execution in React & Next.js | Shikhar Sinha | [Read More](https://medium.com/p/a63bb72747b5) |
