@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 09:19:07 GMT | The Bug I Can Never Report: A Lesson in Ethics and the "Govt Site" Dilemma | Janhvee Laad | [Read More](https://medium.com/p/5bf10a113e63) |
+| Tue, 16 Dec 2025 09:18:26 GMT | What Is Drupal And Why It’s the ‘Final Boss’ of Web Design? | Kishan Singh | [Read More](https://medium.com/p/a28ec3b51996) |
+| Tue, 16 Dec 2025 09:14:59 GMT | Why Choosing a Top Security Service Provider Is Essential for Modern Businesses | Ciss India | [Read More](https://medium.com/p/1576f8d8187a) |
+| Tue, 16 Dec 2025 09:07:43 GMT | The Books That Actually Taught Me Cybersecurity | Aj | [Read More](https://medium.com/p/838b3e196ddf) |
+| Tue, 16 Dec 2025 09:07:15 GMT | Prognosis: Cybersecurity Risks in Modern Medicine | Redfox Security | [Read More](https://medium.com/p/77e0485ea15f) |
+| Tue, 16 Dec 2025 09:04:03 GMT | ประจำวันอังคารที่ 16 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/dd7961706529) |
+| Tue, 16 Dec 2025 09:02:22 GMT | The Security Dilemma in International Relations: How Seeking Safety Creates Global Danger | Bastian Friborg | [Read More](https://medium.com/p/a4a6a35941b8) |
+| Tue, 16 Dec 2025 09:01:34 GMT | Race Condition Vulnerability | Doston Abdullaev | [Read More](https://medium.com/p/08dc12ccd5b1) |
+| Tue, 16 Dec 2025 09:00:51 GMT | TryHackMe AoC2025 All Answers | Pavneet_Singh_ | [Read More](https://medium.com/p/3959e09de3eb) |
+| Tue, 16 Dec 2025 08:58:34 GMT | Off Target: The Security Failure That Cost Half a Billion | G Prabhanjana | [Read More](https://medium.com/p/8b5039444090) |
+| Tue, 16 Dec 2025 08:57:59 GMT | How To Proactively Scan Any Python Package for Security Weaknesses Before Installation | Maikel Mardjan | [Read More](https://medium.com/p/f44bb9ddc936) |
+| Tue, 16 Dec 2025 08:57:27 GMT | One HTTP Request. Full Server Takeover. | Selcuk Ozdemir | [Read More](https://medium.com/p/4008cd19be7f) |
+| Tue, 16 Dec 2025 08:54:10 GMT | Top 5 Recon Tactics That Still Work in 2025: Mastering Modern Info Gathering for Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/d1e33418ada1) |
+| Tue, 16 Dec 2025 08:51:23 GMT | Mastering IDORs: Practical Notes on Real‑World Access Control Failures | Afi0pchik | [Read More](https://medium.com/p/a507375f3230) |
+| Tue, 16 Dec 2025 08:50:28 GMT | 12 Advanced Exploits Every Network Pen Tester Should Master in 2025 | Muhammad Haider Tallal | [Read More](https://medium.com/p/91d20532d2b9) |
+| Tue, 16 Dec 2025 08:46:49 GMT | The Future of SEO in 2025: AI Integration and Zero Party Data | Savadsavo | [Read More](https://medium.com/p/ef8895595f0b) |
 | Tue, 16 Dec 2025 08:32:14 GMT | Bug Bounty Upgrade: Turn Recon Into Impact With Ethical Credential Evidence | Alexandre Vandamme | [Read More](https://medium.com/p/960640beb846) |
 | Tue, 16 Dec 2025 08:25:47 GMT | IDOR Vulnerability | Doston Abdullaev | [Read More](https://medium.com/p/7272b1cf7830) |
 | Tue, 16 Dec 2025 08:24:09 GMT | Loot Exchange, Teams and SharePoint with GraphRunner : Pwned-Labs Azure Lab Walkthrough | Maverick | [Read More](https://medium.com/p/5f3d66ca81d7) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 03:00:07 GMT | MCP, Explained Simply: What It Is, Why It Matters, and Why I’m Paying Attention | Vikram | [Read More](https://medium.com/p/9534347a3db3) |
 | Tue, 16 Dec 2025 02:59:55 GMT | Tải Fishing Master Apk V2.4.196913 Cho Android | Apkpuredev | [Read More](https://medium.com/p/84a5968018f6) |
 | Tue, 16 Dec 2025 02:58:10 GMT | Tuesday Morning Threat Report: Dec 16, 2025 | Mark Maguire | [Read More](https://medium.com/p/b0811a7c7d9a) |
-| Tue, 16 Dec 2025 02:09:23 GMT | Why Threat Actors Still Outgun Defensive Teams | David SEHYEON Baek | [Read More](https://medium.com/p/125316a063c1) |
-| Tue, 16 Dec 2025 02:06:09 GMT | The Rise of AI-Driven IT | IPSpecialist | [Read More](https://medium.com/p/dafa47c04e6e) |
-| Tue, 16 Dec 2025 01:56:48 GMT | 65-Year-Old Woman’s Relationship Standards: Better Alone Than Settling | Yettalee | [Read More](https://medium.com/p/9ac0e9101b0f) |
-| Tue, 16 Dec 2025 01:50:44 GMT | True Love Waits for No One: Can a Man’s Flirting Turn into Real Feelings? | Eilen Lexus | [Read More](https://medium.com/p/c63a9d6a950c) |
-| Tue, 16 Dec 2025 01:44:19 GMT | Zero Trust Security Explained: Why It’s Becoming Essential for Modern Businesses in 2026 | Techridge Solutions | [Read More](https://medium.com/p/3e071eef6c04) |
-| Tue, 16 Dec 2025 01:44:01 GMT | Review eMAPT: Cómo logré certificarme en Pentesting Móvil | B13ss3d | [Read More](https://medium.com/p/4f57beb65372) |
-| Tue, 16 Dec 2025 01:37:18 GMT | What Happens When You Paste Text Into Grammarly? | A D | [Read More](https://medium.com/p/bf0e4d74ea33) |
-| Tue, 16 Dec 2025 01:22:16 GMT | AdsPower Achieves SOC 2 Type II Attestation: A New Milestone in International-Grade Security | AdsPower Browser | [Read More](https://medium.com/p/933aa2fdc03a) |
-| Tue, 16 Dec 2025 01:02:32 GMT | O Gato de Schrödinger — Pwn Challenge | FireUAI | [Read More](https://medium.com/p/e0f593b50489) |
-| Tue, 16 Dec 2025 00:57:59 GMT | Surprise Exit Instead of an IPO: ServiceNow and Armis’s $7 Billion Flirtation | Enes Karataş | [Read More](https://medium.com/p/18f4ff7faf38) |
-| Tue, 16 Dec 2025 00:51:13 GMT | Software Composition Analysis (SCA): Managing Open-Source Risk in Modern Applications | Nima Bargestan | [Read More](https://medium.com/p/b53a0d86ed58) |
-| Tue, 16 Dec 2025 00:49:33 GMT | When People Become The Weakest Link In Security | Geoffrey Wenger | [Read More](https://medium.com/p/d8da9e3edcee) |
-| Tue, 16 Dec 2025 00:49:25 GMT | Website Security Basics That Actually Protect Real Sites | Geoffrey Wenger | [Read More](https://medium.com/p/2450f1bc6c21) |
-| Tue, 16 Dec 2025 00:36:18 GMT | Stars | Chris Perkins | [Read More](https://medium.com/p/db8b363a11dd) |
-| Tue, 16 Dec 2025 00:33:52 GMT | How to Build an Asset Register in a Single Day (and Stop Failing Cyber Essentials Plus) | Laurentiu Barbu | [Read More](https://medium.com/p/f31cd6e319ca) |
-| Tue, 16 Dec 2025 00:18:01 GMT | Cutting Through the Noise: Why Complexity Is the Real AI Security Risk | Jaz Lin | [Read More](https://medium.com/p/6efd3b94f0eb) |
