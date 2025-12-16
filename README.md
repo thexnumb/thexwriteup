@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 05:43:03 GMT | The Cryptography Concept Journey — DH (Diffie Hellman) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b7c79947a10e) |
+| Tue, 16 Dec 2025 05:42:49 GMT | The Daily Tech Digest: 16 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f5934a20e515) |
+| Tue, 16 Dec 2025 05:42:48 GMT | Breaking the Web (Part 7): Security Misconfigurations — When Defaults Become Dangerous | Mohammed Fahad | [Read More](https://medium.com/p/30b15459d196) |
+| Tue, 16 Dec 2025 05:41:07 GMT | IT Security Solutions in Fort Myers - IT Solutions & IT Solutions Tampa | Gainside | [Read More](https://medium.com/p/0f7cbd73d906) |
+| Tue, 16 Dec 2025 05:40:33 GMT | Chrome Browser Extension With Over 2 Million Users Flagged for Security Risks | TechByte360 | [Read More](https://medium.com/p/e4aeb3127637) |
+| Tue, 16 Dec 2025 05:37:47 GMT | Cyber security courses | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/194559771011) |
+| Tue, 16 Dec 2025 05:33:23 GMT | Becoming a Penetration Tester: Skills, Tools, and the Mindset That Makes the Difference | Ferdi Edogawa | [Read More](https://medium.com/p/9068bb423af9) |
+| Tue, 16 Dec 2025 05:32:51 GMT | What Is Cross-Site Request Forgery (CSRF)? | Prajwal Ahluwalia | [Read More](https://medium.com/p/a8d8140219d9) |
+| Tue, 16 Dec 2025 05:31:11 GMT | Top Benefits of Using the Best Cybersecurity Tool of India | NMT Security | [Read More](https://medium.com/p/1f357fee9829) |
+| Tue, 16 Dec 2025 05:30:09 GMT | Password Generator: How to Create Strong, Secure Passwords That Actually Protect You | Rajan Butani | [Read More](https://medium.com/p/8dee5ef3f587) |
+| Tue, 16 Dec 2025 05:28:18 GMT | Why Cybersecurity Should Be a Priority for Your Business Website | HSINGH WEB STUDIO | [Read More](https://medium.com/p/54a546ff2ea9) |
 | Tue, 16 Dec 2025 05:11:33 GMT | Public Wi-Fi Is a Trap — Christmas Makes It Work | Sam Galope | [Read More](https://medium.com/p/e7ecf70520af) |
 | Tue, 16 Dec 2025 05:07:00 GMT | How CISO as a Service Helps You Reduce Cyber Risks Fast | NMT Security | [Read More](https://medium.com/p/b81242f288ba) |
 | Tue, 16 Dec 2025 05:04:06 GMT | Common Node.js Security Vulnerabilities and How DevOps Teams Can Prevent Them in SaaS Applications | Ravi Kyada | [Read More](https://medium.com/p/c6dfd2086049) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 19:28:48 GMT | I’ve Been Fooled by Online Scams Too. Here’s How I Stay Safe in 2025 | Dinah Davis | [Read More](https://medium.com/p/64878a30a1fb) |
 | Mon, 15 Dec 2025 19:24:05 GMT | Scan Clean, System Dirty – The Architectural Decay Hidden by Security Reports | Umut Akbulut | [Read More](https://medium.com/p/2c539ac22707) |
 | Mon, 15 Dec 2025 19:24:00 GMT | LetsDefend — MSHTML | Javier | [Read More](https://medium.com/p/968b8922d54d) |
-| Mon, 15 Dec 2025 19:23:50 GMT | I Broke a Fortune 100 in 14 Days by Reading JavaScript | Adnan | [Read More](https://medium.com/p/c8e1fe27f1b2) |
-| Mon, 15 Dec 2025 19:23:46 GMT | Finansal Siber Tehditlerin Evrimi: Dijital Suçta On Yıllık Dönüşüm (2016–2024) | Pelinnasln | [Read More](https://medium.com/p/e40aa0eee309) |
-| Mon, 15 Dec 2025 19:19:34 GMT | Web Attack Forensics — Drone Alone - Advent of Cyber 2025 Day 15 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/6b21cad187e0) |
-| Mon, 15 Dec 2025 19:18:09 GMT | Amazon CloudFront: OAI vs OAC | Ayesha Siddiqa | [Read More](https://medium.com/p/317816aacee4) |
-| Mon, 15 Dec 2025 19:06:31 GMT | Weekly Cyber Threat Bulletin: 11 December 2025 | Marcelle Lee | [Read More](https://medium.com/p/56137b44a057) |
-| Mon, 15 Dec 2025 19:06:06 GMT | AI Series Ep. 7 — Social Engineering of Large Language Model — Shadow Data in RAG revealed | Michael Harms | [Read More](https://medium.com/p/c28cc40a0af8) |
-| Mon, 15 Dec 2025 18:56:30 GMT | My Journey into Cyber Security Starts Now | Muhammad Rehan | [Read More](https://medium.com/p/1fc7e652b202) |
-| Mon, 15 Dec 2025 18:52:51 GMT | A Complete Guide to CEH Master Certification (Theory + Practical) guide‍ By Mr. Siddhesh | Siddhesh Surve | [Read More](https://medium.com/p/8327144366a5) |
-| Mon, 15 Dec 2025 18:52:35 GMT | Illuminating the Dark Corners of AI (skimmable annotated presentation) | Patrick Walsh | [Read More](https://medium.com/p/838fd29d27a7) |
-| Mon, 15 Dec 2025 18:47:14 GMT | Hamad Ahmed Al-Mehshadi Al-Maadeed | Qatar | [Read More](https://medium.com/p/f239eb86e7af) |
-| Mon, 15 Dec 2025 18:46:12 GMT | The CGI Script That Should Have Stayed Hidden — How a Forgotten Diagnostic File Exposed an… | Anshubind | [Read More](https://medium.com/p/46e9215743cd) |
