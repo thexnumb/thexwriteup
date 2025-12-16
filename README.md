@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 19:31:45 GMT | CVE Record Disputes, Explained: A Community Path to Clearer Vulnerability Data in a… | CVE Program Blog | [Read More](https://medium.com/p/271a6b5e1054) |
+| Tue, 16 Dec 2025 19:23:27 GMT | The Real Cost of Oracle Security | Chain Love | [Read More](https://medium.com/p/c34dd26d7760) |
+| Tue, 16 Dec 2025 19:21:01 GMT | Install OpenCTI using Docker for Threat Intelligence (Step-by-Step) | 0xRahuL | [Read More](https://medium.com/p/1113ac52ad98) |
+| Tue, 16 Dec 2025 19:18:02 GMT | 3 Common ARP Attacks Explained | Geexirooz | [Read More](https://medium.com/p/76a6db647836) |
+| Tue, 16 Dec 2025 19:15:10 GMT | Azure SOC Honeypot Lab: Mapping Real-World RDP Brute-Force Activity with Microsoft Sentinel | Mark Csete | [Read More](https://medium.com/p/e47630726e6d) |
 | Tue, 16 Dec 2025 19:01:10 GMT | ‎‎ ‎‎‎⠀⠀⠀⠀⠀⠀Burp Suite Intruder | Akshay | [Read More](https://medium.com/p/89d4deb4db05) |
 | Tue, 16 Dec 2025 18:57:10 GMT | LLMs Are Not Enough: Introducing Large Action Models (LAM) | Lakshmi Priya Sridharan | [Read More](https://medium.com/p/448476e87f10) |
 | Tue, 16 Dec 2025 18:52:24 GMT | Why Java Systems Prefer Time-Based Algorithms Over State-Based Ones | The Dev Notebook | [Read More](https://medium.com/p/2dc586c4f58d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 14:26:46 GMT | Shocking Rise in AI-Generated CSAM | Shailendra Kumar | [Read More](https://medium.com/p/8ef5ec99e372) |
 | Tue, 16 Dec 2025 14:26:38 GMT | YARA Rules — YARA mean one! - AoC 2025 Day — 13 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/9ef8e170810b) |
 | Tue, 16 Dec 2025 14:25:52 GMT | Why Your Employees Are Your Biggest Security Risk (And How Hackers Know It) | Dhanush N | [Read More](https://medium.com/p/613ad1cc05e2) |
-| Tue, 16 Dec 2025 14:23:04 GMT | Web Challenge: Bypassing Login with a Hidden Dev Header | vulnhunter | [Read More](https://medium.com/p/cf78676f2c57) |
-| Tue, 16 Dec 2025 14:22:18 GMT | Smarter Monitoring. Faster Insights. Real Control. | Paul Meyer | [Read More](https://medium.com/p/3b5083addbb4) |
-| Tue, 16 Dec 2025 14:18:30 GMT | Unified Logs Will Become The Hidden Engine Behind Cyber Resilience in 2026 | Graylog | [Read More](https://medium.com/p/8c8fb12ba6d1) |
-| Tue, 16 Dec 2025 14:16:26 GMT | SELinux Policies Best Practices for Enterprise Linux | Linux Guide | [Read More](https://medium.com/p/16b57f653309) |
-| Tue, 16 Dec 2025 14:12:14 GMT | Anyone With API Access Can Clone an AI Model and Make It Unsafe | Marc Bara | [Read More](https://medium.com/p/45e4800cd436) |
