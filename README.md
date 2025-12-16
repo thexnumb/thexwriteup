@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 11:15:28 GMT | Stratum: Real-Time Vulnerability Detection Built for the Speed of Modern Development. | Bhawini. | [Read More](https://medium.com/p/3c464fc970d9) |
+| Tue, 16 Dec 2025 11:12:55 GMT | I Found a 12,000 ₹ Blind SQL Injection, Beginner's friendly Breakdown | Rajankumarbarik | [Read More](https://medium.com/p/33db28a48dbc) |
+| Tue, 16 Dec 2025 11:11:53 GMT | Stratum: Real-Time Vulnerability Detection Built for the Speed of Modern Development. | Bhawini. | [Read More](https://medium.com/p/b6cf3373a375) |
+| Tue, 16 Dec 2025 11:07:09 GMT | 5 Critical Vulnerabilities Discovered in Penetration Testing: Expert Remediation Guide for 2025 | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/f0327bb5d28a) |
+| Tue, 16 Dec 2025 11:06:46 GMT | Nessus Scans Are 90% Useless Without This Manual Step | ZAYN | [Read More](https://medium.com/p/4a21abbc9ad2) |
+| Tue, 16 Dec 2025 11:06:20 GMT | The Difference Between Manual Testing & Automated Scanning (Why You Need Both | ZAYN | [Read More](https://medium.com/p/e2c4a8df7059) |
+| Tue, 16 Dec 2025 11:01:48 GMT | 7 Proven Techniques to Protect Your APIs From Unwanted Attacks | Shubho Dey | [Read More](https://medium.com/p/c68a02d83a8c) |
+| Tue, 16 Dec 2025 10:55:50 GMT | CYBERSECURITY WISDOM: LESSONS FROM THE TRENCHES | Fabien Soulis | [Read More](https://medium.com/p/9308a6f4c538) |
 | Tue, 16 Dec 2025 10:40:13 GMT | Russian Phishing Campaign Uses ISO Attachments to Deliver Phantom Stealer Malware | News Bulletin | [Read More](https://medium.com/p/16b17b60f119) |
 | Tue, 16 Dec 2025 10:39:49 GMT | A Private Follow Up & Gift for Readers of the Cybersecurity for VCs Series” | Barry Ritchie | [Read More](https://medium.com/p/1f9b73906c29) |
 | Tue, 16 Dec 2025 10:33:26 GMT | 7-Step Ultimate December 2025 Patch Tuesday Triage | Pentest_Testing_Corp | [Read More](https://medium.com/p/53d91939b909) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 05:40:33 GMT | Chrome Browser Extension With Over 2 Million Users Flagged for Security Risks | TechByte360 | [Read More](https://medium.com/p/e4aeb3127637) |
 | Tue, 16 Dec 2025 05:37:47 GMT | Cyber security courses | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/194559771011) |
 | Tue, 16 Dec 2025 05:33:23 GMT | Becoming a Penetration Tester: Skills, Tools, and the Mindset That Makes the Difference | Ferdi Edogawa | [Read More](https://medium.com/p/9068bb423af9) |
-| Tue, 16 Dec 2025 05:32:51 GMT | What Is Cross-Site Request Forgery (CSRF)? | Prajwal Ahluwalia | [Read More](https://medium.com/p/a8d8140219d9) |
-| Tue, 16 Dec 2025 05:31:11 GMT | Top Benefits of Using the Best Cybersecurity Tool of India | NMT Security | [Read More](https://medium.com/p/1f357fee9829) |
-| Tue, 16 Dec 2025 05:30:09 GMT | Password Generator: How to Create Strong, Secure Passwords That Actually Protect You | Rajan Butani | [Read More](https://medium.com/p/8dee5ef3f587) |
-| Tue, 16 Dec 2025 05:28:18 GMT | Why Cybersecurity Should Be a Priority for Your Business Website | HSINGH WEB STUDIO | [Read More](https://medium.com/p/54a546ff2ea9) |
-| Tue, 16 Dec 2025 05:11:33 GMT | Public Wi-Fi Is a Trap — Christmas Makes It Work | Sam Galope | [Read More](https://medium.com/p/e7ecf70520af) |
-| Tue, 16 Dec 2025 05:07:00 GMT | How CISO as a Service Helps You Reduce Cyber Risks Fast | NMT Security | [Read More](https://medium.com/p/b81242f288ba) |
-| Tue, 16 Dec 2025 05:04:06 GMT | Common Node.js Security Vulnerabilities and How DevOps Teams Can Prevent Them in SaaS Applications | Ravi Kyada | [Read More](https://medium.com/p/c6dfd2086049) |
-| Tue, 16 Dec 2025 04:59:07 GMT | COMO CREAR UN AULA VIRTUAL EN SABIONET | Dennis garcia | [Read More](https://medium.com/p/e68e75695d26) |
