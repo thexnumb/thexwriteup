@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 14:44:24 GMT | Infinity Learning lab: Whispers from SQS— Writeup | Hubert | [Read More](https://medium.com/p/fbe09c33bed5) |
+| Tue, 16 Dec 2025 14:43:29 GMT | What Is MLL and Why I Think It Is the Next Big Skill to Learn for the Future | Suzan Gautam | [Read More](https://medium.com/p/eb70ff05b581) |
+| Tue, 16 Dec 2025 14:43:02 GMT | That ‘Legit’ Site You Just Gave Your Credentials to Might Be A Scam | Chaudhry Awais Ahmed | [Read More](https://medium.com/p/87b25e003062) |
+| Tue, 16 Dec 2025 14:41:01 GMT | Industrial Protocols: Modbus and DNP3 | urjasec | [Read More](https://medium.com/p/210eb4de5061) |
+| Tue, 16 Dec 2025 14:39:43 GMT | Forensics Challenge: Riddle Registry — Finding Flags in PDF Metadata | vulnhunter | [Read More](https://medium.com/p/c431a4338a7d) |
+| Tue, 16 Dec 2025 14:35:27 GMT | Resolving the Tenable Vulnerability “SSL Self-Signed Certificate” (Nessus Plugin ID 57582) in… | Jerome Decinco | [Read More](https://medium.com/p/d2a82e46ff0a) |
+| Tue, 16 Dec 2025 14:34:32 GMT | Digging Into LockBit 5.0: A Casual Review Insight | Rizqi Setyo Kusprihantanto | [Read More](https://medium.com/p/298dd8facb85) |
+| Tue, 16 Dec 2025 14:32:18 GMT | (Comptia A+) Understanding Incident Response in IT: A Comprehensive Guide for IT Professionals | Vignesh R | [Read More](https://medium.com/p/b16b38ec86dd) |
+| Tue, 16 Dec 2025 14:28:57 GMT | The Agentic Identity Moment: Why Enterprise AI Must Treat Agents as Governed Machine Identities | RAKTIM SINGH | [Read More](https://medium.com/p/b3064ec4d08b) |
+| Tue, 16 Dec 2025 14:26:46 GMT | Shocking Rise in AI-Generated CSAM | Shailendra Kumar | [Read More](https://medium.com/p/8ef5ec99e372) |
+| Tue, 16 Dec 2025 14:26:38 GMT | YARA Rules — YARA mean one! - AoC 2025 Day — 13 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/9ef8e170810b) |
+| Tue, 16 Dec 2025 14:25:52 GMT | Why Your Employees Are Your Biggest Security Risk (And How Hackers Know It) | Dhanush N | [Read More](https://medium.com/p/613ad1cc05e2) |
+| Tue, 16 Dec 2025 14:23:04 GMT | Web Challenge: Bypassing Login with a Hidden Dev Header | vulnhunter | [Read More](https://medium.com/p/cf78676f2c57) |
+| Tue, 16 Dec 2025 14:22:18 GMT | Smarter Monitoring. Faster Insights. Real Control. | Paul Meyer | [Read More](https://medium.com/p/3b5083addbb4) |
 | Tue, 16 Dec 2025 14:18:30 GMT | Unified Logs Will Become The Hidden Engine Behind Cyber Resilience in 2026 | Graylog | [Read More](https://medium.com/p/8c8fb12ba6d1) |
+| Tue, 16 Dec 2025 14:16:26 GMT | SELinux Policies Best Practices for Enterprise Linux | Linux Guide | [Read More](https://medium.com/p/16b57f653309) |
 | Tue, 16 Dec 2025 14:12:14 GMT | Anyone With API Access Can Clone an AI Model and Make It Unsafe | Marc Bara | [Read More](https://medium.com/p/45e4800cd436) |
 | Tue, 16 Dec 2025 14:11:32 GMT | Darkweb Research Tools Every Analyst Should Know | Tor BBB | [Read More](https://medium.com/p/7cf9aeab1d73) |
 | Tue, 16 Dec 2025 14:03:20 GMT | Shuffled PIN Keypads: When Security Forgets the Human | Cibiabiramu | [Read More](https://medium.com/p/eae4c8d783c4) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 09:36:20 GMT | Fletcher Reede The Coder: Agile’s Endless Echo Chamber | Namir Sagheenanajar | [Read More](https://medium.com/p/54cbfb7e6724) |
 | Tue, 16 Dec 2025 09:32:39 GMT | How to Access Your Work Desktop From Home | Alex Hughes | [Read More](https://medium.com/p/28d9bfb44d7e) |
 | Tue, 16 Dec 2025 09:32:16 GMT | How i hacked a website just by looking at the source code | Devansh Patel | [Read More](https://medium.com/p/90645f085736) |
-| Tue, 16 Dec 2025 09:29:12 GMT | Automating ZAP for CI/CD — an MVP | ShiftLeftSec | [Read More](https://medium.com/p/69d5c322386c) |
-| Tue, 16 Dec 2025 09:26:21 GMT | The Importance of Contextual Threat Analysis in a Modern SOC | Eventus Security Private Limited | [Read More](https://medium.com/p/3bd34ef255d2) |
-| Tue, 16 Dec 2025 09:19:07 GMT | The Bug I Can Never Report: A Lesson in Ethics and the "Govt Site" Dilemma | Janhvee Laad | [Read More](https://medium.com/p/5bf10a113e63) |
-| Tue, 16 Dec 2025 09:18:26 GMT | What Is Drupal And Why It’s the ‘Final Boss’ of Web Design? | Kishan Singh | [Read More](https://medium.com/p/a28ec3b51996) |
-| Tue, 16 Dec 2025 09:18:08 GMT | Security Documentation Templates Every Team Should Have Ready | Rahman Iqbal | [Read More](https://medium.com/p/80bcf3aa1add) |
-| Tue, 16 Dec 2025 09:14:59 GMT | Why Choosing a Top Security Service Provider Is Essential for Modern Businesses | Ciss India | [Read More](https://medium.com/p/1576f8d8187a) |
-| Tue, 16 Dec 2025 09:07:43 GMT | The Books That Actually Taught Me Cybersecurity | Aj | [Read More](https://medium.com/p/838b3e196ddf) |
-| Tue, 16 Dec 2025 09:07:15 GMT | Prognosis: Cybersecurity Risks in Modern Medicine | Redfox Security | [Read More](https://medium.com/p/77e0485ea15f) |
-| Tue, 16 Dec 2025 09:04:03 GMT | ประจำวันอังคารที่ 16 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/dd7961706529) |
-| Tue, 16 Dec 2025 09:02:22 GMT | The Security Dilemma in International Relations: How Seeking Safety Creates Global Danger | Bastian Friborg | [Read More](https://medium.com/p/a4a6a35941b8) |
-| Tue, 16 Dec 2025 09:01:34 GMT | Race Condition Vulnerability | Doston Abdullaev | [Read More](https://medium.com/p/08dc12ccd5b1) |
-| Tue, 16 Dec 2025 09:00:51 GMT | TryHackMe AoC2025 All Answers | Pavneet_Singh_ | [Read More](https://medium.com/p/3959e09de3eb) |
-| Tue, 16 Dec 2025 08:58:34 GMT | Off Target: The Security Failure That Cost Half a Billion | G Prabhanjana | [Read More](https://medium.com/p/8b5039444090) |
-| Tue, 16 Dec 2025 08:57:59 GMT | How To Proactively Scan Any Python Package for Security Weaknesses Before Installation | Maikel Mardjan | [Read More](https://medium.com/p/f44bb9ddc936) |
-| Tue, 16 Dec 2025 08:57:27 GMT | One HTTP Request. Full Server Takeover. | Selcuk Ozdemir | [Read More](https://medium.com/p/4008cd19be7f) |
