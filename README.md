@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 11:28:16 GMT | IDOR: When “Just Changing the Identifier” Gives You an Account | Twilight | [Read More](https://medium.com/p/b83911e1bf4d) |
+| Tue, 16 Dec 2025 11:26:33 GMT | Some People Will Only Love You When You’re Silent | Inspire: Viva La Vida | [Read More](https://medium.com/p/6800bb8210cc) |
+| Tue, 16 Dec 2025 11:24:31 GMT | The right tool for the job | Hacking Club Mate | [Read More](https://medium.com/p/f0f831f489fe) |
+| Tue, 16 Dec 2025 11:24:23 GMT | Why Nigerian Startup Fail Beyond Infrastructure And Policy | Joshua Oyeniyi | [Read More](https://medium.com/p/10672b409168) |
+| Tue, 16 Dec 2025 11:22:08 GMT | Burp Suite vs ZAP: The Ultimate Web Security Testing Showdown | Ajmir khan | [Read More](https://medium.com/p/b81e234c321e) |
+| Tue, 16 Dec 2025 11:19:56 GMT | How the hash was won | Hacking Club Mate | [Read More](https://medium.com/p/601bb333aa44) |
+| Tue, 16 Dec 2025 11:16:48 GMT | Service Accounts for the Pragmatic Developer: Deconstructing “Use Default Credentials” | Mr Ben Abdallah | [Read More](https://medium.com/p/5780b08a26a4) |
 | Tue, 16 Dec 2025 11:15:28 GMT | Stratum: Real-Time Vulnerability Detection Built for the Speed of Modern Development. | Bhawini. | [Read More](https://medium.com/p/3c464fc970d9) |
 | Tue, 16 Dec 2025 11:12:55 GMT | I Found a 12,000 ₹ Blind SQL Injection, Beginner's friendly Breakdown | Rajankumarbarik | [Read More](https://medium.com/p/33db28a48dbc) |
 | Tue, 16 Dec 2025 11:11:53 GMT | Stratum: Real-Time Vulnerability Detection Built for the Speed of Modern Development. | Bhawini. | [Read More](https://medium.com/p/b6cf3373a375) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 05:49:22 GMT | Password Security Made Easy: Implementing bcrypt Verification in Python | Hasmoon Mohamed | [Read More](https://medium.com/p/ed4514483888) |
 | Tue, 16 Dec 2025 05:49:12 GMT | What Voidly’s Rapid Growth Says About the Future of Online Privacy | Voidly | [Read More](https://medium.com/p/50003e0b628d) |
 | Tue, 16 Dec 2025 05:46:12 GMT | The Hacker Didn’t Break the System. Someone Clicked a Link. | Nagendra Korasikha | [Read More](https://medium.com/p/db4440b0fb36) |
-| Tue, 16 Dec 2025 05:43:03 GMT | The Cryptography Concept Journey — DH (Diffie Hellman) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b7c79947a10e) |
-| Tue, 16 Dec 2025 05:42:49 GMT | The Daily Tech Digest: 16 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f5934a20e515) |
-| Tue, 16 Dec 2025 05:42:48 GMT | Breaking the Web (Part 7): Security Misconfigurations — When Defaults Become Dangerous | Mohammed Fahad | [Read More](https://medium.com/p/30b15459d196) |
-| Tue, 16 Dec 2025 05:41:07 GMT | IT Security Solutions in Fort Myers - IT Solutions & IT Solutions Tampa | Gainside | [Read More](https://medium.com/p/0f7cbd73d906) |
-| Tue, 16 Dec 2025 05:40:33 GMT | Chrome Browser Extension With Over 2 Million Users Flagged for Security Risks | TechByte360 | [Read More](https://medium.com/p/e4aeb3127637) |
-| Tue, 16 Dec 2025 05:37:47 GMT | Cyber security courses | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/194559771011) |
-| Tue, 16 Dec 2025 05:33:23 GMT | Becoming a Penetration Tester: Skills, Tools, and the Mindset That Makes the Difference | Ferdi Edogawa | [Read More](https://medium.com/p/9068bb423af9) |
