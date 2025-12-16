@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 12:47:00 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/867e51ef5dd6) |
+| Tue, 16 Dec 2025 12:39:09 GMT | MCP Security for Enterprise: When LLMs Stop Talking and Start Acting | Tunahan TEKEOGLU | [Read More](https://medium.com/p/ff4f6e6cafd4) |
+| Tue, 16 Dec 2025 12:30:30 GMT | A Journey from Session Poisoning to CL.CL Request Smuggling | Mahmoud Fawzy | [Read More](https://medium.com/p/9c7dbc122e08) |
+| Tue, 16 Dec 2025 12:28:23 GMT | Tomb of Java antiquities | Unicorn Developer | [Read More](https://medium.com/p/040d1ed297af) |
+| Tue, 16 Dec 2025 12:24:01 GMT | Trusted Security & IoT Solutions Provider in the UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/141a1a201fd3) |
+| Tue, 16 Dec 2025 12:22:32 GMT | Shielding Growth: How Scalable Firewall Solutions Power Secure Digital Transformation | ANSI Technologies | [Read More](https://medium.com/p/0c22221202db) |
+| Tue, 16 Dec 2025 12:19:03 GMT | JavaScript Analysis: From Minified Mess to High-Impact Bugs for Bug Bounty Hunters | Bugatsec | [Read More](https://medium.com/p/924ab3f12ccf) |
+| Tue, 16 Dec 2025 12:13:11 GMT | Home Cybersecurity Lab Setup Using VMware Workstation using pfSense and Multi OS Virtual Machine | Oluwadamilare Adeosun | [Read More](https://medium.com/p/7acfdc2615e9) |
+| Tue, 16 Dec 2025 12:13:01 GMT | Prediction: In 2026, LLM-embedded malware will remain largely a marketing artefact, because it… | Oliver Rochford | [Read More](https://medium.com/p/59c78790d47e) |
+| Tue, 16 Dec 2025 12:12:52 GMT | Building Omnis: A 600+ Agent Orchestrator Powered by a Mixture of Agents | Ram Kansal | [Read More](https://medium.com/p/3d3c8c232a2f) |
+| Tue, 16 Dec 2025 12:04:34 GMT | Splunk Loglarını Yapay Zeka ile Analiz Etmek: Otomatik Tehdit Avcılığı | Mustafa Caliskan | [Read More](https://medium.com/p/9c706097263c) |
+| Tue, 16 Dec 2025 12:01:18 GMT | IT’s Reputation is Decided in Exactly Two Places (Even in the Middle of Transformation) | Nina Sophie Pejsa | [Read More](https://medium.com/p/ccfc869a7530) |
+| Tue, 16 Dec 2025 11:59:49 GMT | How to Protect Your Kids Online in 2026 | Usama Awais | [Read More](https://medium.com/p/404d44af9691) |
+| Tue, 16 Dec 2025 11:58:27 GMT | SSH Backdoor Small keys trick | alwannn 4K | [Read More](https://medium.com/p/f6c5e4163508) |
+| Tue, 16 Dec 2025 11:44:04 GMT | En Zayıf Halka | Betul Toy | [Read More](https://medium.com/p/0971af4bf767) |
 | Tue, 16 Dec 2025 11:28:16 GMT | IDOR: When “Just Changing the Identifier” Gives You an Account | Twilight | [Read More](https://medium.com/p/b83911e1bf4d) |
 | Tue, 16 Dec 2025 11:26:33 GMT | Some People Will Only Love You When You’re Silent | Inspire: Viva La Vida | [Read More](https://medium.com/p/6800bb8210cc) |
 | Tue, 16 Dec 2025 11:24:31 GMT | The right tool for the job | Hacking Club Mate | [Read More](https://medium.com/p/f0f831f489fe) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 07:04:17 GMT | Breaking Yavuzlar VulnLab Complete XSS Walkthrough | Himanshu | [Read More](https://medium.com/p/919df28ba9ad) |
 | Tue, 16 Dec 2025 07:02:21 GMT | A Beginner-Friendly Guide to API Authentication & Authorization: Lessons from Twitter/X’s API | Odunlade Adeola | [Read More](https://medium.com/p/3f0d473466b7) |
 | Tue, 16 Dec 2025 07:00:24 GMT | Google to Shut Down Dark Web Monitoring Tool in February 2026: What Users Need to Know | Deepak Sharma | [Read More](https://medium.com/p/da66e7261709) |
-| Tue, 16 Dec 2025 06:48:13 GMT | Complete Guide to Maximizing Productivity with MS Office 365 Small Business Premium | IT Company | [Read More](https://medium.com/p/bded5f211658) |
-| Tue, 16 Dec 2025 06:44:32 GMT | How Security Best Practices Should Evolve for Full Stack Engineering | Byot Tech | [Read More](https://medium.com/p/7f4765729d02) |
-| Tue, 16 Dec 2025 06:36:31 GMT | Email Phishing Analysis Guide | Root2Revenue | [Read More](https://medium.com/p/d62ff45a2588) |
-| Tue, 16 Dec 2025 06:31:35 GMT | Malware as a Service — How Cybercriminals Are Scaling Attacks Like Startups | Ssolosssolo | [Read More](https://medium.com/p/6365c8d8ed35) |
-| Tue, 16 Dec 2025 06:31:01 GMT | Tải Câu Cá Vạn Cân Mod Apk V1.64.0 (Full Tiền, Map, Menu) | GOCMOD | [Read More](https://medium.com/p/1409c03c23e0) |
-| Tue, 16 Dec 2025 06:30:48 GMT | The New Age of Malware Attacks — Why Today’s Threats Are Harder to Detect Than Ever | Ssolosssolo | [Read More](https://medium.com/p/953938bc4558) |
-| Tue, 16 Dec 2025 06:27:41 GMT | 5 Signs Your Business Needs Professional Cybersecurity Consulting | Deepa | [Read More](https://medium.com/p/09bb27b21b0f) |
-| Tue, 16 Dec 2025 06:24:36 GMT | LinkedIn CAPTCHA/429 Blocks: When Subnet Reputation Takes Down Everything | HashWhirl | [Read More](https://medium.com/p/c971663e28b2) |
-| Tue, 16 Dec 2025 06:22:12 GMT | How Accurate Is AI Intrusion Detection Compared to Traditional Systems? | Elitevidiq | [Read More](https://medium.com/p/63e06e55e9fb) |
-| Tue, 16 Dec 2025 06:10:13 GMT | Tải FF Advance Server v66.51.0 Miễn Phí Cho Android | genzvnmod | [Read More](https://medium.com/p/b130b62eb1e7) |
-| Tue, 16 Dec 2025 06:08:43 GMT | When Someone Reads Your Heart, Not Your Mind | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/7aef33938a75) |
-| Tue, 16 Dec 2025 06:05:08 GMT | From Linux to Networks: Cyber Basics | Muhammed Shadil MP | [Read More](https://medium.com/p/ebd045500ea0) |
-| Tue, 16 Dec 2025 05:49:22 GMT | Password Security Made Easy: Implementing bcrypt Verification in Python | Hasmoon Mohamed | [Read More](https://medium.com/p/ed4514483888) |
-| Tue, 16 Dec 2025 05:49:12 GMT | What Voidly’s Rapid Growth Says About the Future of Online Privacy | Voidly | [Read More](https://medium.com/p/50003e0b628d) |
-| Tue, 16 Dec 2025 05:46:12 GMT | The Hacker Didn’t Break the System. Someone Clicked a Link. | Nagendra Korasikha | [Read More](https://medium.com/p/db4440b0fb36) |
