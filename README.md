@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 05:11:33 GMT | Public Wi-Fi Is a Trap — Christmas Makes It Work | Sam Galope | [Read More](https://medium.com/p/e7ecf70520af) |
+| Tue, 16 Dec 2025 05:07:00 GMT | How CISO as a Service Helps You Reduce Cyber Risks Fast | NMT Security | [Read More](https://medium.com/p/b81242f288ba) |
+| Tue, 16 Dec 2025 05:04:06 GMT | Common Node.js Security Vulnerabilities and How DevOps Teams Can Prevent Them in SaaS Applications | Ravi Kyada | [Read More](https://medium.com/p/c6dfd2086049) |
+| Tue, 16 Dec 2025 04:59:07 GMT | COMO CREAR UN AULA VIRTUAL EN SABIONET | Dennis garcia | [Read More](https://medium.com/p/e68e75695d26) |
+| Tue, 16 Dec 2025 04:58:34 GMT | My Journey into Cybersecurity | Mmohammadsalman | [Read More](https://medium.com/p/09a7b8a7394f) |
+| Tue, 16 Dec 2025 04:53:51 GMT | [CyberDefenders Write-up] RARCVE (bat file to PowerShell and Shellcode debugging) | Chicken0248 | [Read More](https://medium.com/p/9dc33049b9a1) |
+| Tue, 16 Dec 2025 04:52:48 GMT | [CyberDefenders Write-up] GhostDetect (Analysis on the VBScript embedded in LNK file) | Chicken0248 | [Read More](https://medium.com/p/6c070650bb58) |
+| Tue, 16 Dec 2025 04:48:45 GMT | How Hackers Can Hack You Using Just Your Phone Number | Vishalraj | [Read More](https://medium.com/p/81f623aa5357) |
+| Tue, 16 Dec 2025 04:47:54 GMT | Why LinkedIn Automation Gets Restricted: Network Identity Drift | CryptoFlux | [Read More](https://medium.com/p/3f21beeea327) |
 | Tue, 16 Dec 2025 04:42:16 GMT | SIEM Integration: How Zapper Edge Turns File Activity Into Behavioral Intelligence | Prabhu Srivastava | [Read More](https://medium.com/p/6e36b11ded39) |
 | Tue, 16 Dec 2025 04:36:49 GMT | Case File: Agent Sudo | Themisertreachery | [Read More](https://medium.com/p/654537f73915) |
 | Tue, 16 Dec 2025 04:36:01 GMT | Securing a Kenyan SACCO from Zero [Part 2 of 6] | Munaniadeno | [Read More](https://medium.com/p/61d3e92f92d0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 18:52:35 GMT | Illuminating the Dark Corners of AI (skimmable annotated presentation) | Patrick Walsh | [Read More](https://medium.com/p/838fd29d27a7) |
 | Mon, 15 Dec 2025 18:47:14 GMT | Hamad Ahmed Al-Mehshadi Al-Maadeed | Qatar | [Read More](https://medium.com/p/f239eb86e7af) |
 | Mon, 15 Dec 2025 18:46:12 GMT | The CGI Script That Should Have Stayed Hidden — How a Forgotten Diagnostic File Exposed an… | Anshubind | [Read More](https://medium.com/p/46e9215743cd) |
-| Mon, 15 Dec 2025 18:45:38 GMT | Website Cloning & SMB Enumeration in a Controlled Environment | Claudius Thompson | [Read More](https://medium.com/p/3e67b1a5f715) |
-| Mon, 15 Dec 2025 18:45:24 GMT | ⚡ The Reflected XSS Hidden Inside a Login Page — And How a Single Parameter Became a Security Weak… | Anshubind | [Read More](https://medium.com/p/ad52a584292f) |
-| Mon, 15 Dec 2025 18:34:21 GMT | The “Silent Breach” in Your Merchant Portfolio: How to Predict Risk Before the Card Brands Do | Emory French | [Read More](https://medium.com/p/ad9921277353) |
-| Mon, 15 Dec 2025 18:33:56 GMT | When Your Frontend Starts Mining Cryptocurrency: A Tale of Disguised Malware | Pillars | [Read More](https://medium.com/p/a9508eb940c9) |
-| Mon, 15 Dec 2025 18:31:01 GMT | How to Find Security Providers for Large-Scale Events: Practical Guide for Decision-Makers | Teona | [Read More](https://medium.com/p/eb0bd216a44f) |
-| Mon, 15 Dec 2025 18:30:12 GMT | Traps: Proactive Security Infrastructure for Ethereum by Ehidonaldo | Akhere Donald | [Read More](https://medium.com/p/3df65a03d616) |
-| Mon, 15 Dec 2025 18:29:13 GMT | Title: We Don’t Remember Facts Anymore. We Remember Where to Find Them. | Mame | [Read More](https://medium.com/p/9e5718394c4e) |
-| Mon, 15 Dec 2025 18:26:02 GMT | A Small Tool for Finding and Fixing Vulnerable Next.js Repos | Elad Mizrahi | [Read More](https://medium.com/p/606bce5ea1be) |
-| Mon, 15 Dec 2025 18:25:32 GMT | The Laptop That Didn’t Ask for Much — Just to Be Watched | Cybersickerhub | [Read More](https://medium.com/p/83e078bbad54) |
