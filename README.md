@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 08:32:14 GMT | Bug Bounty Upgrade: Turn Recon Into Impact With Ethical Credential Evidence | Alexandre Vandamme | [Read More](https://medium.com/p/960640beb846) |
+| Tue, 16 Dec 2025 08:25:47 GMT | IDOR Vulnerability | Doston Abdullaev | [Read More](https://medium.com/p/7272b1cf7830) |
+| Tue, 16 Dec 2025 08:24:09 GMT | Loot Exchange, Teams and SharePoint with GraphRunner : Pwned-Labs Azure Lab Walkthrough | Maverick | [Read More](https://medium.com/p/5f3d66ca81d7) |
+| Tue, 16 Dec 2025 08:21:30 GMT | File Upload Vulnerabilities: File upload, shell, RCE. What is a Pentester’s Real Job? | Sanjarbiy | [Read More](https://medium.com/p/d634b29f0b88) |
+| Tue, 16 Dec 2025 08:19:20 GMT | Gen Z Isn’t Lazy — The System Changed, and We Pretended It Didn’t | Vijay Kumar Gupta | [Read More](https://medium.com/p/51e139960b53) |
+| Tue, 16 Dec 2025 08:07:33 GMT | Building Decentralized Architectures with Web3 and Symfony 7.4 | Matt Mochalkin | [Read More](https://medium.com/p/c43fb15bbda4) |
+| Tue, 16 Dec 2025 08:06:01 GMT | Finding the Echoes: An Artist’s Journey From Trauma to Rediscovery (Part 5: It All Connects) | Jérôme Leroy | [Read More](https://medium.com/p/e415720065e7) |
+| Tue, 16 Dec 2025 08:04:54 GMT | Britain’s Grey‑Zone Challenge: A Practical Pact to Pull Us Back from the “Space Between Peace and… | AegisMind | [Read More](https://medium.com/p/3bcfdd71d69f) |
+| Tue, 16 Dec 2025 08:04:27 GMT | Weaponizing the Browser: A Hacker’s Guide to BeEF | ghostyjoe | [Read More](https://medium.com/p/56b5d08107e5) |
+| Tue, 16 Dec 2025 08:03:36 GMT | ️ The Expressway Heist: Cracking a VPN, Hashing Passwords, and Snagging Root | Nishant Pawar | [Read More](https://medium.com/p/b250339efe2a) |
+| Tue, 16 Dec 2025 08:01:08 GMT | Smart Code Search: Natural Language RAG for Git Repositories | Alessandro Lusci | [Read More](https://medium.com/p/2c75a5d6cdf8) |
+| Tue, 16 Dec 2025 07:59:00 GMT | Build a Future-Ready Career as a Cyber Security Engineer | Jacobwilsonus | [Read More](https://medium.com/p/63421bf339c7) |
+| Tue, 16 Dec 2025 07:58:12 GMT | Trusted Remote IT Support in Sydney That Delivers Results | Any network | [Read More](https://medium.com/p/dd617e66dea8) |
+| Tue, 16 Dec 2025 07:57:54 GMT | Why CVSS Is No Longer Enough: Rethinking Vulnerability Risk with Business Context | Assure eServices Inc. | [Read More](https://medium.com/p/1598259862b9) |
+| Tue, 16 Dec 2025 07:54:53 GMT | SQL injection UNION attack. | Amrsmooke | [Read More](https://medium.com/p/c4d71b80101f) |
+| Tue, 16 Dec 2025 07:53:59 GMT | The Hidden Doors of the Web: Pentesting and Hunting API Exploits | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/aa7f83d63765) |
+| Tue, 16 Dec 2025 07:53:20 GMT | A Beginner’s Guide to CCTV Mobile Apps and Remote Monitoring | Ask IT Support | [Read More](https://medium.com/p/893f2e203b80) |
+| Tue, 16 Dec 2025 07:51:45 GMT | The “Featured” Trap: When Your Browser Becomes the Attacker | Germano Costi | [Read More](https://medium.com/p/bbd8e4caae13) |
 | Tue, 16 Dec 2025 07:42:28 GMT | Sam Altman’s Code Red Exposes Structural Failure as ChatGPT and Gemini Compete | Melviya | [Read More](https://medium.com/p/ccfe5bd300b2) |
 | Tue, 16 Dec 2025 07:21:04 GMT | Security Lab Simulation Project Part 12: Configuration of Snort3 | Jenny | [Read More](https://medium.com/p/70c51799d4b1) |
 | Tue, 16 Dec 2025 07:19:38 GMT | Reverse Proxy | Anandhu Kannan | [Read More](https://medium.com/p/01c74e1f1d19) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 00:36:18 GMT | Stars | Chris Perkins | [Read More](https://medium.com/p/db8b363a11dd) |
 | Tue, 16 Dec 2025 00:33:52 GMT | How to Build an Asset Register in a Single Day (and Stop Failing Cyber Essentials Plus) | Laurentiu Barbu | [Read More](https://medium.com/p/f31cd6e319ca) |
 | Tue, 16 Dec 2025 00:18:01 GMT | Cutting Through the Noise: Why Complexity Is the Real AI Security Risk | Jaz Lin | [Read More](https://medium.com/p/6efd3b94f0eb) |
-| Tue, 16 Dec 2025 00:13:49 GMT | Apple Patches Sophisticated Zero-Days in Targeted Attacks | Abstract Mind | [Read More](https://medium.com/p/468f67dfc8df) |
-| Tue, 16 Dec 2025 00:02:38 GMT | API10–2023: Unsafe Consumption of APIs — Explotación y Mitigación | JPablo13 | [Read More](https://medium.com/p/2ec626af806e) |
-| Mon, 15 Dec 2025 23:50:08 GMT | Why I Care About Cybersecurity, UX, and Anti-fragile Systems | Casandra Cain | [Read More](https://medium.com/p/f98b99be6abe) |
-| Mon, 15 Dec 2025 23:48:06 GMT | I Asked Gandalf AI for a Secret It Wasn’t Allowed to Share | Krono | [Read More](https://medium.com/p/9d39b2591fe4) |
-| Mon, 15 Dec 2025 23:42:15 GMT | It Looks Like a Warning: Building Vulnerability Management Maturity | Jeff Kingsland | [Read More](https://medium.com/p/f20f38e25834) |
-| Mon, 15 Dec 2025 23:29:24 GMT | Seasons— The "Face of the Leaf" | Lilacs violet | [Read More](https://medium.com/p/1990befd8e82) |
-| Mon, 15 Dec 2025 23:29:16 GMT | A Practical Guide to Typography Hierarchy in UI Systems | Haadi Alhassan | [Read More](https://medium.com/p/bf6a792c3302) |
-| Mon, 15 Dec 2025 22:59:46 GMT | Cyber Essentials Explained: The UK Cybersecurity Badge Your Business Can’t Ignore in 2026 | Laurentiu Barbu | [Read More](https://medium.com/p/f6636405fbb9) |
-| Mon, 15 Dec 2025 22:55:41 GMT | Are LLMs actually good enough to replace humans in static code analysis? | Cyber-AppSec | [Read More](https://medium.com/p/532bcd7902a7) |
-| Mon, 15 Dec 2025 22:41:42 GMT | I Almost Lost $47,000 to a “Security Upgrade” That Looked Completely Legitimate | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/ae63e56bbe8f) |
-| Mon, 15 Dec 2025 22:40:06 GMT | 6 Ways Minimizing Your Needs Cost You Emotional Safety | Bloom with Maria | [Read More](https://medium.com/p/9b3457c66a05) |
-| Mon, 15 Dec 2025 22:35:39 GMT | Advent of Cyber 2025 - Day 15: Web Attack Forensics — Drone Alone | D4m.sh | [Read More](https://medium.com/p/87910fec363f) |
-| Mon, 15 Dec 2025 22:29:00 GMT | Five Dangerous Cybersecurity Truths for 2026 That Make Your Old Playbook Obsolete | WayneReidUK | [Read More](https://medium.com/p/28a7144c6870) |
-| Mon, 15 Dec 2025 21:53:31 GMT | If I Joined Your Security Team, This Is What I’d Fix in the First 90 Days | Beri Contraster | [Read More](https://medium.com/p/cd748f8e8ded) |
-| Mon, 15 Dec 2025 21:50:06 GMT | Implementing the Security Technical Implementation Guide (STIG) on ubuntu-24_04-lts | Kevin Troell | [Read More](https://medium.com/p/e1eb83e75a32) |
-| Mon, 15 Dec 2025 21:39:43 GMT | The Salt of the Earth | Amy Potter | [Read More](https://medium.com/p/34014be52d20) |
-| Mon, 15 Dec 2025 21:34:21 GMT | I’ve Been Holding So Much Alone But… | Shang | [Read More](https://medium.com/p/4b8c1302f3dc) |
-| Mon, 15 Dec 2025 21:29:01 GMT | Getting Started with Burpsuite for API Security Testing | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/33316140e00f) |
