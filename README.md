@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 17:21:18 GMT | Top Tech Skills Trending in 2025 | Freaky Irfuu.. | [Read More](https://medium.com/p/82789d81a30b) |
+| Tue, 16 Dec 2025 17:06:59 GMT | SOAR and SIEM Explained: Cloud-Native Security Automation for Modern SOCs | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/269826798562) |
+| Tue, 16 Dec 2025 17:05:34 GMT | How To Deploy Keys for SSH Authentication | Hugo Enrique López Pérez | [Read More](https://medium.com/p/6c66ea3fedb3) |
+| Tue, 16 Dec 2025 17:03:35 GMT | Advent of Cyber 2025 - Day 16: Forensics — Registry Furensics | D4m.sh | [Read More](https://medium.com/p/6dc3f3b65ca6) |
+| Tue, 16 Dec 2025 16:59:04 GMT | The Diplomat’s Lexicon: Beyond the Battlefield — Redefining Security as Human Security | Giulia Corso | [Read More](https://medium.com/p/1552aaff2ea1) |
+| Tue, 16 Dec 2025 16:52:22 GMT | Demystifying OAuth 2.0: A Technical Deep Dive into the Google Login Flow | Ahmed Haseen | [Read More](https://medium.com/p/c2c5f17522a2) |
+| Tue, 16 Dec 2025 16:45:49 GMT | HackTheBox Machine : Cap (Network Traffic Analysis) | Rafael Cliffordtan | [Read More](https://medium.com/p/12b4634d2cb8) |
+| Tue, 16 Dec 2025 16:45:47 GMT | SoundCloud Data Breach: What Happened and How to Protect Your Account | Technijian | [Read More](https://medium.com/p/01ab54abb521) |
+| Tue, 16 Dec 2025 16:44:56 GMT | Business logic vulnerabilities (İş mantığı zafiyetleri) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/392e1107eaa2) |
+| Tue, 16 Dec 2025 16:44:53 GMT | You Are Awesome PDF! (SSRF VM Challenge) | Josh Beck | [Read More](https://medium.com/p/fa8c534e5a72) |
+| Tue, 16 Dec 2025 16:40:27 GMT | Raccoons and the Importance of Logging…In Our Applications! | Jen Cracchiola | [Read More](https://medium.com/p/20b75e701a62) |
+| Tue, 16 Dec 2025 16:39:45 GMT | ️‍♂️ The Dark Web Knew Before the Company Did: Finding a Bug Using Leaked Chatter | Iski | [Read More](https://medium.com/p/e2a5f85a5485) |
+| Tue, 16 Dec 2025 16:39:14 GMT | Start 2026 Clean: How I Wipe My “Digital Footprint” | K_Anik | [Read More](https://medium.com/p/7dd126169a65) |
+| Tue, 16 Dec 2025 16:34:09 GMT | Day 134 — Completing OverTheWire Narnia (Levels 0–8) | Jinay | [Read More](https://medium.com/p/10208a6418d4) |
+| Tue, 16 Dec 2025 16:27:36 GMT | Hi all, quick update for 2025 | Hachtechnology | [Read More](https://medium.com/p/c0aad823e553) |
 | Tue, 16 Dec 2025 16:25:15 GMT | When Love Becomes Conditional | David egah | [Read More](https://medium.com/p/8a22768ab270) |
 | Tue, 16 Dec 2025 16:22:13 GMT | Benchmarking Claude 4.5 Sonnet vs Claude 4.5 Opus for Penetration testing | Daniel Knight | [Read More](https://medium.com/p/dd639d64c149) |
 | Tue, 16 Dec 2025 16:20:54 GMT | How I Found Multiple Bugs by Testing One Endpoint ?? | Y0S3TREX | [Read More](https://medium.com/p/a85f8fc33150) |
@@ -34,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 15:29:39 GMT | OWASP Top 10 2025: IAAA Failures — TryHackMe Walkthrough | farshad moradi shahrbabak | [Read More](https://medium.com/p/5d37bdd9832d) |
 | Tue, 16 Dec 2025 15:22:36 GMT | From Abstract to Acumen — Anatomy of a Modern BEC Attack | Cyb3rhawk | [Read More](https://medium.com/p/d4f0464b68c5) |
 | Tue, 16 Dec 2025 15:20:35 GMT | The Man Called: “King Of HELOC” | O. J. Okpabi | [Read More](https://medium.com/p/c29002e4fd3a) |
+| Tue, 16 Dec 2025 15:20:15 GMT | Tutorial Lengkap & Aman Menyimpan Seed Phrase Wallet Menggunakan VeraCrypt | Draxen | [Read More](https://medium.com/p/74eed0638a0c) |
 | Tue, 16 Dec 2025 15:18:12 GMT | When Frontend Assumptions Break: Observing Server-Side Command Execution in React & Next.js | Shikhar Sinha | [Read More](https://medium.com/p/a63bb72747b5) |
 | Tue, 16 Dec 2025 15:07:31 GMT | I Quit Development(Web & App) & Cyber Security to Build a Machine That Can Do Them for Me ! | Aura Farmer | [Read More](https://medium.com/p/0ae0eb87cd77) |
 | Tue, 16 Dec 2025 15:06:01 GMT | One Unchecked Box, One Billion Records: The Human Error Problem | Patrick Walsh | [Read More](https://medium.com/p/142274a48e63) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 12:22:32 GMT | Shielding Growth: How Scalable Firewall Solutions Power Secure Digital Transformation | ANSI Technologies | [Read More](https://medium.com/p/0c22221202db) |
 | Tue, 16 Dec 2025 12:19:03 GMT | JavaScript Analysis: From Minified Mess to High-Impact Bugs for Bug Bounty Hunters | Bugatsec | [Read More](https://medium.com/p/924ab3f12ccf) |
 | Tue, 16 Dec 2025 12:13:11 GMT | Home Cybersecurity Lab Setup Using VMware Workstation using pfSense and Multi OS Virtual Machine | Oluwadamilare Adeosun | [Read More](https://medium.com/p/7acfdc2615e9) |
-| Tue, 16 Dec 2025 12:13:01 GMT | Prediction: In 2026, LLM-embedded malware will remain largely a marketing artefact, because it… | Oliver Rochford | [Read More](https://medium.com/p/59c78790d47e) |
-| Tue, 16 Dec 2025 12:12:52 GMT | Building Omnis: A 600+ Agent Orchestrator Powered by a Mixture of Agents | Ram Kansal | [Read More](https://medium.com/p/3d3c8c232a2f) |
-| Tue, 16 Dec 2025 12:04:34 GMT | Splunk Loglarını Yapay Zeka ile Analiz Etmek: Otomatik Tehdit Avcılığı | Mustafa Caliskan | [Read More](https://medium.com/p/9c706097263c) |
-| Tue, 16 Dec 2025 12:01:18 GMT | IT’s Reputation is Decided in Exactly Two Places (Even in the Middle of Transformation) | Nina Sophie Pejsa | [Read More](https://medium.com/p/ccfc869a7530) |
-| Tue, 16 Dec 2025 11:59:49 GMT | How to Protect Your Kids Online in 2026 | Usama Awais | [Read More](https://medium.com/p/404d44af9691) |
-| Tue, 16 Dec 2025 11:58:27 GMT | SSH Backdoor Small keys trick | alwannn 4K | [Read More](https://medium.com/p/f6c5e4163508) |
-| Tue, 16 Dec 2025 11:44:04 GMT | En Zayıf Halka | Betul Toy | [Read More](https://medium.com/p/0971af4bf767) |
-| Tue, 16 Dec 2025 11:28:16 GMT | IDOR: When “Just Changing the Identifier” Gives You an Account | Twilight | [Read More](https://medium.com/p/b83911e1bf4d) |
-| Tue, 16 Dec 2025 11:26:33 GMT | Some People Will Only Love You When You’re Silent | Inspire: Viva La Vida | [Read More](https://medium.com/p/6800bb8210cc) |
-| Tue, 16 Dec 2025 11:24:31 GMT | The right tool for the job | Hacking Club Mate | [Read More](https://medium.com/p/f0f831f489fe) |
-| Tue, 16 Dec 2025 11:24:23 GMT | Why Nigerian Startup Fail Beyond Infrastructure And Policy | Joshua Oyeniyi | [Read More](https://medium.com/p/10672b409168) |
-| Tue, 16 Dec 2025 11:22:08 GMT | Burp Suite vs ZAP: The Ultimate Web Security Testing Showdown | Ajmir khan | [Read More](https://medium.com/p/b81e234c321e) |
-| Tue, 16 Dec 2025 11:19:56 GMT | How the hash was won | Hacking Club Mate | [Read More](https://medium.com/p/601bb333aa44) |
-| Tue, 16 Dec 2025 11:16:48 GMT | Service Accounts for the Pragmatic Developer: Deconstructing “Use Default Credentials” | Mr Ben Abdallah | [Read More](https://medium.com/p/5780b08a26a4) |
-| Tue, 16 Dec 2025 11:15:28 GMT | Stratum: Real-Time Vulnerability Detection Built for the Speed of Modern Development. | Bhawini. | [Read More](https://medium.com/p/3c464fc970d9) |
-| Tue, 16 Dec 2025 11:12:55 GMT | I Found a 12,000 ₹ Blind SQL Injection, Beginner's friendly Breakdown | Rajankumarbarik | [Read More](https://medium.com/p/33db28a48dbc) |
