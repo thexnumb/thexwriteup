@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 21:11:39 GMT | The Door official writeup | Soraya Djerrab | [Read More](https://medium.com/p/e209f5d4da6d) |
+| Tue, 16 Dec 2025 21:08:34 GMT | The Business Case for a Bespoke Website | Tashif Khan | [Read More](https://medium.com/p/714a6603e63f) |
+| Tue, 16 Dec 2025 20:57:04 GMT | DockerLabs — Jason [Write-Up] | APS88 | [Read More](https://medium.com/p/fdd947b24b34) |
+| Tue, 16 Dec 2025 20:49:07 GMT | Dark Web & Deep Web Tam Olarak Ne? | sude9 | [Read More](https://medium.com/p/b4b9ae0f6c4a) |
+| Tue, 16 Dec 2025 20:47:25 GMT | Symfonos: 2 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/e1a8afdb92b3) |
 | Tue, 16 Dec 2025 20:41:09 GMT | How Threat Actors Are Manipulating Zendesk Sub-domains for Impersonation and Phishing | Michael Bocanegra | [Read More](https://medium.com/p/9eb9829002ff) |
 | Tue, 16 Dec 2025 20:35:07 GMT | The Safety Illusion: Inside the Growing Gap Between AI’s Promises and Its Actual Safeguards | Zoom In AI | [Read More](https://medium.com/p/efb4894ff43e) |
 | Tue, 16 Dec 2025 20:17:25 GMT | The Lazy Hunter’s Guide to Modat: Recon Smarter, Not Harder | hacker_might | [Read More](https://medium.com/p/4bc95bc2a577) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 15:07:31 GMT | I Quit Development(Web & App) & Cyber Security to Build a Machine That Can Do Them for Me ! | Aura Farmer | [Read More](https://medium.com/p/0ae0eb87cd77) |
 | Tue, 16 Dec 2025 15:06:01 GMT | One Unchecked Box, One Billion Records: The Human Error Problem | Patrick Walsh | [Read More](https://medium.com/p/142274a48e63) |
 | Tue, 16 Dec 2025 15:02:26 GMT | Your ChatGPT Secrets Could Testify Against You: Here’s the Proof | Lucky | [Read More](https://medium.com/p/757c35393c49) |
-| Tue, 16 Dec 2025 15:02:26 GMT | Cyber Briefing: 2025.12.16 | CyberMaterial | [Read More](https://medium.com/p/6c097c403fcb) |
-| Tue, 16 Dec 2025 15:01:47 GMT | Cybersecurity for Financial services | IT_Engineer | [Read More](https://medium.com/p/28a70773cbf2) |
-| Tue, 16 Dec 2025 14:58:40 GMT | React2Shell (CVE-2025–55182) Under Active Exploitation: Why Linux Servers Are in the Blast Radius… | Germano Costi | [Read More](https://medium.com/p/42f98847449d) |
-| Tue, 16 Dec 2025 14:55:34 GMT | Themida: Windows Executable Protection | Antonio Pagano | [Read More](https://medium.com/p/124b78fcd278) |
-| Tue, 16 Dec 2025 14:44:24 GMT | Infinity Learning lab: Whispers from SQS— Writeup | Hubert | [Read More](https://medium.com/p/fbe09c33bed5) |
