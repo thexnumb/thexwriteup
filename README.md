@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 06:31:01 GMT | Tải Câu Cá Vạn Cân Mod Apk V1.64.0 (Full Tiền, Map, Menu) | GOCMOD | [Read More](https://medium.com/p/1409c03c23e0) |
+| Tue, 16 Dec 2025 06:30:48 GMT | The New Age of Malware Attacks — Why Today’s Threats Are Harder to Detect Than Ever | Ssolosssolo | [Read More](https://medium.com/p/953938bc4558) |
+| Tue, 16 Dec 2025 06:27:41 GMT | 5 Signs Your Business Needs Professional Cybersecurity Consulting | Deepa | [Read More](https://medium.com/p/09bb27b21b0f) |
+| Tue, 16 Dec 2025 06:24:36 GMT | LinkedIn CAPTCHA/429 Blocks: When Subnet Reputation Takes Down Everything | HashWhirl | [Read More](https://medium.com/p/c971663e28b2) |
+| Tue, 16 Dec 2025 06:22:12 GMT | How Accurate Is AI Intrusion Detection Compared to Traditional Systems? | Elitevidiq | [Read More](https://medium.com/p/63e06e55e9fb) |
+| Tue, 16 Dec 2025 06:10:13 GMT | Tải FF Advance Server v66.51.0 Miễn Phí Cho Android | genzvnmod | [Read More](https://medium.com/p/b130b62eb1e7) |
+| Tue, 16 Dec 2025 06:08:43 GMT | When Someone Reads Your Heart, Not Your Mind | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/7aef33938a75) |
+| Tue, 16 Dec 2025 06:05:08 GMT | From Linux to Networks: Cyber Basics | Muhammed Shadil MP | [Read More](https://medium.com/p/ebd045500ea0) |
+| Tue, 16 Dec 2025 05:49:22 GMT | Password Security Made Easy: Implementing bcrypt Verification in Python | Hasmoon Mohamed | [Read More](https://medium.com/p/ed4514483888) |
+| Tue, 16 Dec 2025 05:49:12 GMT | What Voidly’s Rapid Growth Says About the Future of Online Privacy | Voidly | [Read More](https://medium.com/p/50003e0b628d) |
+| Tue, 16 Dec 2025 05:46:12 GMT | The Hacker Didn’t Break the System. Someone Clicked a Link. | Nagendra Korasikha | [Read More](https://medium.com/p/db4440b0fb36) |
 | Tue, 16 Dec 2025 05:43:03 GMT | The Cryptography Concept Journey — DH (Diffie Hellman) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b7c79947a10e) |
 | Tue, 16 Dec 2025 05:42:49 GMT | The Daily Tech Digest: 16 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f5934a20e515) |
 | Tue, 16 Dec 2025 05:42:48 GMT | Breaking the Web (Part 7): Security Misconfigurations — When Defaults Become Dangerous | Mohammed Fahad | [Read More](https://medium.com/p/30b15459d196) |
@@ -28,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 05:04:06 GMT | Common Node.js Security Vulnerabilities and How DevOps Teams Can Prevent Them in SaaS Applications | Ravi Kyada | [Read More](https://medium.com/p/c6dfd2086049) |
 | Tue, 16 Dec 2025 04:59:07 GMT | COMO CREAR UN AULA VIRTUAL EN SABIONET | Dennis garcia | [Read More](https://medium.com/p/e68e75695d26) |
 | Tue, 16 Dec 2025 04:58:34 GMT | My Journey into Cybersecurity | Mmohammadsalman | [Read More](https://medium.com/p/09a7b8a7394f) |
+| Tue, 16 Dec 2025 04:54:01 GMT | Cybersecurity Awareness Training for Employees: A Practical Defense Against Modern Threats | Maxatlasofficial | [Read More](https://medium.com/p/fd082338bd7b) |
 | Tue, 16 Dec 2025 04:53:51 GMT | [CyberDefenders Write-up] RARCVE (bat file to PowerShell and Shellcode debugging) | Chicken0248 | [Read More](https://medium.com/p/9dc33049b9a1) |
 | Tue, 16 Dec 2025 04:52:48 GMT | [CyberDefenders Write-up] GhostDetect (Analysis on the VBScript embedded in LNK file) | Chicken0248 | [Read More](https://medium.com/p/6c070650bb58) |
 | Tue, 16 Dec 2025 04:48:45 GMT | How Hackers Can Hack You Using Just Your Phone Number | Vishalraj | [Read More](https://medium.com/p/81f623aa5357) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 20:42:14 GMT | Building a Threat Detection Lab with Wireshark and Nmap | Secured By Sebastion | [Read More](https://medium.com/p/00d37d571382) |
 | Mon, 15 Dec 2025 20:34:26 GMT | Try Hack Me- Brooklyn Nine Nine Walkthrough | Herrfuhrer | [Read More](https://medium.com/p/3b2028a01de3) |
 | Mon, 15 Dec 2025 20:11:08 GMT | Single-Character Domains Exist and Why You Can’t Register One Today | declan | [Read More](https://medium.com/p/e22f690e4a1d) |
-| Mon, 15 Dec 2025 20:07:09 GMT | From Format String to Building a ROP chain ft. musl libc — niteCTF 2025 | Somnath Das | [Read More](https://medium.com/p/1d3ef9838d12) |
-| Mon, 15 Dec 2025 19:59:14 GMT | Best Crypto Asset Recovery Service Providers: Top Firms to Retrieve Lost Bitcoin: Reach Out To… | Kevin Braiw | [Read More](https://medium.com/p/f72f455432d4) |
-| Mon, 15 Dec 2025 19:57:56 GMT | The Ghost in Explorer.exe: Unmasking DTrack’s Hidden Payload | MalwareDoctor | [Read More](https://medium.com/p/70fc7ac38f6f) |
-| Mon, 15 Dec 2025 19:56:54 GMT | Juicy-Details THMWalkthrough | TalentedH@cker | [Read More](https://medium.com/p/a4ec81674ba9) |
-| Mon, 15 Dec 2025 19:52:57 GMT | Why is every NPM install a Leap of Faith ? | Rishi  Lalwani | [Read More](https://medium.com/p/cf45083831e2) |
-| Mon, 15 Dec 2025 19:51:16 GMT | Israel Issues Chilling Cyber Warfare Warning After Iran Attacks | Defence Affairs & Analysis | [Read More](https://medium.com/p/e24a9c46107c) |
-| Mon, 15 Dec 2025 19:39:54 GMT | Web Attack Forensics AOC 2025 Day 15 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/dfb0d6dda841) |
-| Mon, 15 Dec 2025 19:29:29 GMT | THM — The Sticker Shop | 0xEnzoSantana | [Read More](https://medium.com/p/064099bbea84) |
-| Mon, 15 Dec 2025 19:28:49 GMT | Mapping the Cyber Threat Landscape in Iran | Armin Mehraeen | [Read More](https://medium.com/p/2a475bb4f3f4) |
-| Mon, 15 Dec 2025 19:28:48 GMT | I’ve Been Fooled by Online Scams Too. Here’s How I Stay Safe in 2025 | Dinah Davis | [Read More](https://medium.com/p/64878a30a1fb) |
-| Mon, 15 Dec 2025 19:24:05 GMT | Scan Clean, System Dirty – The Architectural Decay Hidden by Security Reports | Umut Akbulut | [Read More](https://medium.com/p/2c539ac22707) |
-| Mon, 15 Dec 2025 19:24:00 GMT | LetsDefend — MSHTML | Javier | [Read More](https://medium.com/p/968b8922d54d) |
