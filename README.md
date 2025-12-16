@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 15:40:49 GMT | Documenting My Journey Into Penetration Testing | Written by k41r0s3 | [Read More](https://medium.com/p/fecd2393bba0) |
+| Tue, 16 Dec 2025 15:29:39 GMT | OWASP Top 10 2025: IAAA Failures — TryHackMe Walkthrough | farshad moradi shahrbabak | [Read More](https://medium.com/p/5d37bdd9832d) |
 | Tue, 16 Dec 2025 15:22:36 GMT | From Abstract to Acumen — Anatomy of a Modern BEC Attack | Cyb3rhawk | [Read More](https://medium.com/p/d4f0464b68c5) |
 | Tue, 16 Dec 2025 15:20:35 GMT | The Man Called: “King Of HELOC” | O. J. Okpabi | [Read More](https://medium.com/p/c29002e4fd3a) |
 | Tue, 16 Dec 2025 15:18:12 GMT | When Frontend Assumptions Break: Observing Server-Side Command Execution in React & Next.js | Shikhar Sinha | [Read More](https://medium.com/p/a63bb72747b5) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 10:20:27 GMT | How I Got RCE’d for the First Time — and What It Taught Me About Security | Laurence L | [Read More](https://medium.com/p/2c2c5e634c6d) |
 | Tue, 16 Dec 2025 10:19:55 GMT | HTB Pentester Path — Footprinting Module Part II | Varkeythms | [Read More](https://medium.com/p/0571431c5667) |
 | Tue, 16 Dec 2025 10:19:29 GMT | CVE-2025–55182 Alert: How to Secure Your Next.js App Before It’s Too Late | SecureSlate | [Read More](https://medium.com/p/a1883c3a5f3c) |
-| Tue, 16 Dec 2025 10:16:22 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/d049fbb659c6) |
-| Tue, 16 Dec 2025 10:13:25 GMT | Advent of Cyber 25 — Day 14 — Containers — DoorDasher’s Demise | cybertactic | [Read More](https://medium.com/p/dff0584a9666) |
