@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 16:25:15 GMT | When Love Becomes Conditional | David egah | [Read More](https://medium.com/p/8a22768ab270) |
+| Tue, 16 Dec 2025 16:22:13 GMT | Benchmarking Claude 4.5 Sonnet vs Claude 4.5 Opus for Penetration testing | Daniel Knight | [Read More](https://medium.com/p/dd639d64c149) |
+| Tue, 16 Dec 2025 16:20:54 GMT | How I Found Multiple Bugs by Testing One Endpoint ?? | Y0S3TREX | [Read More](https://medium.com/p/a85f8fc33150) |
+| Tue, 16 Dec 2025 16:20:21 GMT | Mitigating Cache-Busting Exploits in Phishing Attacks | Parminder Singh | [Read More](https://medium.com/p/36b70754472b) |
+| Tue, 16 Dec 2025 16:16:53 GMT | PortSwigger Lab Write‑Up: Automating Gift Card Redemption via Checkout Workflow Exploit | Anas Elsaba | [Read More](https://medium.com/p/88849d45fbc5) |
+| Tue, 16 Dec 2025 16:16:40 GMT | In the Know: Zero Trust AI with John Kindervag | Mammoth Cyber | [Read More](https://medium.com/p/90811ad5f177) |
+| Tue, 16 Dec 2025 16:12:14 GMT | Lab: User ID controlled by request parameter, with unpredictable user IDs | Songül Kızılay Özügürler | [Read More](https://medium.com/p/79ad7563b9c3) |
+| Tue, 16 Dec 2025 16:08:51 GMT | Acknowledge the Differences between IP, Port, Protocol, and How Important They Are to Cyber… | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/060f2cb2230e) |
+| Tue, 16 Dec 2025 16:06:47 GMT | The 2-Second Rule: Web Performance in the Age of AI Search | Ritik Doijod | [Read More](https://medium.com/p/825af8383ecf) |
+| Tue, 16 Dec 2025 16:02:20 GMT | Seedless, Stressless: 5 Wallet Recovery Models That Work | Bhagya Rana | [Read More](https://medium.com/p/335f6c9de1c6) |
+| Tue, 16 Dec 2025 16:02:20 GMT | Token Gating That Scales: 5 Patterns That Hold | Vectorlane | [Read More](https://medium.com/p/b76c95d22731) |
+| Tue, 16 Dec 2025 15:58:36 GMT | Social Engineering | Tryhacking | [Read More](https://medium.com/p/d15ef1cf09e2) |
+| Tue, 16 Dec 2025 15:55:39 GMT | Medium Fans, Rejoice: The Alternatives You’ve Been Waiting For Have Arrived | Adeel Ahmed | [Read More](https://medium.com/p/1e0edfe45257) |
+| Tue, 16 Dec 2025 15:54:21 GMT | My first test: Firewall & Network Troubleshooting | Oluwadamilare Adeosun | [Read More](https://medium.com/p/ccddd9b7d7ca) |
+| Tue, 16 Dec 2025 15:54:18 GMT | QA and Security: Basic Security Testing for QA Engineers | Joaquin Moreira | [Read More](https://medium.com/p/c06e377c72b2) |
+| Tue, 16 Dec 2025 15:50:03 GMT | Your Security Scanner Misses 97% of AI-Generated Backdoors | AhmedAbdelmenem | [Read More](https://medium.com/p/e7b955b7f304) |
+| Tue, 16 Dec 2025 15:47:41 GMT | [90 days to CompTIA Security+] — Day 2/90 | Lam Nguyen | [Read More](https://medium.com/p/904d4628a74e) |
+| Tue, 16 Dec 2025 15:41:51 GMT | APIs: Your Weakest Link — Why API Attacks Are Exploding in 2025 | JSOC IT BLOG | [Read More](https://medium.com/p/705139fa9a2e) |
 | Tue, 16 Dec 2025 15:40:49 GMT | Documenting My Journey Into Penetration Testing | Written by k41r0s3 | [Read More](https://medium.com/p/fecd2393bba0) |
 | Tue, 16 Dec 2025 15:29:39 GMT | OWASP Top 10 2025: IAAA Failures — TryHackMe Walkthrough | farshad moradi shahrbabak | [Read More](https://medium.com/p/5d37bdd9832d) |
 | Tue, 16 Dec 2025 15:22:36 GMT | From Abstract to Acumen — Anatomy of a Modern BEC Attack | Cyb3rhawk | [Read More](https://medium.com/p/d4f0464b68c5) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 11:16:48 GMT | Service Accounts for the Pragmatic Developer: Deconstructing “Use Default Credentials” | Mr Ben Abdallah | [Read More](https://medium.com/p/5780b08a26a4) |
 | Tue, 16 Dec 2025 11:15:28 GMT | Stratum: Real-Time Vulnerability Detection Built for the Speed of Modern Development. | Bhawini. | [Read More](https://medium.com/p/3c464fc970d9) |
 | Tue, 16 Dec 2025 11:12:55 GMT | I Found a 12,000 ₹ Blind SQL Injection, Beginner's friendly Breakdown | Rajankumarbarik | [Read More](https://medium.com/p/33db28a48dbc) |
-| Tue, 16 Dec 2025 11:11:53 GMT | Stratum: Real-Time Vulnerability Detection Built for the Speed of Modern Development. | Bhawini. | [Read More](https://medium.com/p/b6cf3373a375) |
-| Tue, 16 Dec 2025 11:07:09 GMT | 5 Critical Vulnerabilities Discovered in Penetration Testing: Expert Remediation Guide for 2025 | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/f0327bb5d28a) |
-| Tue, 16 Dec 2025 11:06:46 GMT | Nessus Scans Are 90% Useless Without This Manual Step | ZAYN | [Read More](https://medium.com/p/4a21abbc9ad2) |
-| Tue, 16 Dec 2025 11:06:20 GMT | The Difference Between Manual Testing & Automated Scanning (Why You Need Both | ZAYN | [Read More](https://medium.com/p/e2c4a8df7059) |
-| Tue, 16 Dec 2025 11:01:48 GMT | 7 Proven Techniques to Protect Your APIs From Unwanted Attacks | Shubho Dey | [Read More](https://medium.com/p/c68a02d83a8c) |
-| Tue, 16 Dec 2025 10:55:50 GMT | CYBERSECURITY WISDOM: LESSONS FROM THE TRENCHES | Fabien Soulis | [Read More](https://medium.com/p/9308a6f4c538) |
-| Tue, 16 Dec 2025 10:40:13 GMT | Russian Phishing Campaign Uses ISO Attachments to Deliver Phantom Stealer Malware | News Bulletin | [Read More](https://medium.com/p/16b17b60f119) |
-| Tue, 16 Dec 2025 10:39:49 GMT | A Private Follow Up & Gift for Readers of the Cybersecurity for VCs Series” | Barry Ritchie | [Read More](https://medium.com/p/1f9b73906c29) |
-| Tue, 16 Dec 2025 10:33:26 GMT | 7-Step Ultimate December 2025 Patch Tuesday Triage | Pentest_Testing_Corp | [Read More](https://medium.com/p/53d91939b909) |
-| Tue, 16 Dec 2025 10:32:15 GMT | SOAR Explained: How Modern Security Teams Respond Faster to Cyber Threats | Natarajan C K | [Read More](https://medium.com/p/e24f70f7d93a) |
-| Tue, 16 Dec 2025 10:32:04 GMT | My Top 20 Most Popular Cybersecurity Articles of 2025 | JC Gaillard | [Read More](https://medium.com/p/bff5b48f1595) |
-| Tue, 16 Dec 2025 10:28:52 GMT | Advent of Cyber 25 — Day 15 — Web Attack Forensics — Drone Alone | cybertactic | [Read More](https://medium.com/p/bc6ffce0435e) |
-| Tue, 16 Dec 2025 10:28:24 GMT | Backup in Cybersecurity: Why the 3–2–1–1–0 Rule Is the Gold Standard for Business Survival | Zefai Insights | [Read More](https://medium.com/p/f24f6e620f9c) |
-| Tue, 16 Dec 2025 10:26:22 GMT | How Windows Defender Evolved Into One of the Strongest Endpoint Protections on the Planet | Yua Mikanana | [Read More](https://medium.com/p/6f1a9a1bd404) |
-| Tue, 16 Dec 2025 10:23:32 GMT | Why Web Application Security Services in India Are Critical for Modern Businesses | Prakash Factosecure | [Read More](https://medium.com/p/eca16df8cac9) |
-| Tue, 16 Dec 2025 10:20:27 GMT | How I Got RCE’d for the First Time — and What It Taught Me About Security | Laurence L | [Read More](https://medium.com/p/2c2c5e634c6d) |
-| Tue, 16 Dec 2025 10:19:55 GMT | HTB Pentester Path — Footprinting Module Part II | Varkeythms | [Read More](https://medium.com/p/0571431c5667) |
-| Tue, 16 Dec 2025 10:19:29 GMT | CVE-2025–55182 Alert: How to Secure Your Next.js App Before It’s Too Late | SecureSlate | [Read More](https://medium.com/p/a1883c3a5f3c) |
