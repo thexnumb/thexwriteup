@@ -12,13 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 14:18:30 GMT | Unified Logs Will Become The Hidden Engine Behind Cyber Resilience in 2026 | Graylog | [Read More](https://medium.com/p/8c8fb12ba6d1) |
+| Tue, 16 Dec 2025 14:12:14 GMT | Anyone With API Access Can Clone an AI Model and Make It Unsafe | Marc Bara | [Read More](https://medium.com/p/45e4800cd436) |
+| Tue, 16 Dec 2025 14:11:32 GMT | Darkweb Research Tools Every Analyst Should Know | Tor BBB | [Read More](https://medium.com/p/7cf9aeab1d73) |
+| Tue, 16 Dec 2025 14:03:20 GMT | Shuffled PIN Keypads: When Security Forgets the Human | Cibiabiramu | [Read More](https://medium.com/p/eae4c8d783c4) |
+| Tue, 16 Dec 2025 14:02:16 GMT | How Cybercriminals Use AI to Social Engineer Better Than Humans | Anum Khan | [Read More](https://medium.com/p/5c1c2a239848) |
+| Tue, 16 Dec 2025 14:02:16 GMT | Designing Secure Networks: VLANs, Security Zones, and Layer 2 Protections | Secured By Sebastion | [Read More](https://medium.com/p/f71c8ef563de) |
+| Tue, 16 Dec 2025 14:00:41 GMT | Düşmanı Tanımak Yetmez, Onun Gibi Düşünmek Gerekir | Serdar Kurt | [Read More](https://medium.com/p/3aa9701becb9) |
+| Tue, 16 Dec 2025 13:59:25 GMT | Enterprise Multi-Agent Systems As Organizational Digital Twins | Arnou Kunz | [Read More](https://medium.com/p/b1b0c09cd029) |
+| Tue, 16 Dec 2025 13:49:36 GMT | 4 Critical Lessons from the Apache Tika Bug That Scored a Perfect 10.0 | Vedant Jain | [Read More](https://medium.com/p/a17ff30c317c) |
+| Tue, 16 Dec 2025 13:47:22 GMT | Low Budget Patrolling Services Houston | Security Houston | [Read More](https://medium.com/p/237758ddca55) |
+| Tue, 16 Dec 2025 13:46:20 GMT | Service Accounts: Architecture Patterns | Mr Ben Abdallah | [Read More](https://medium.com/p/ee345cd041d2) |
+| Tue, 16 Dec 2025 13:40:58 GMT | Working with multiple git accounts and avoiding committing using the wrong email address | Srihari Sridharan | [Read More](https://medium.com/p/642f1c12e634) |
+| Tue, 16 Dec 2025 13:40:28 GMT | Certified Red Team Specialist (CRTSv2) : Review | Fabrice | [Read More](https://medium.com/p/28521fd1a388) |
+| Tue, 16 Dec 2025 13:39:23 GMT | Safeguarding the Future of Fintech: Managing Critical IT Risks in a Digital Financial Economy | Cameron Nyack | [Read More](https://medium.com/p/9df309c4629d) |
 | Tue, 16 Dec 2025 13:38:33 GMT | SOC170 — Passwd Found in Requested URL — Possible LFI Attack | mrsifr | [Read More](https://medium.com/p/4406cdfcb025) |
+| Tue, 16 Dec 2025 13:35:53 GMT | Alarm Security Guard Company Houston | Security Houston | [Read More](https://medium.com/p/d9c66e768046) |
+| Tue, 16 Dec 2025 13:35:53 GMT | People Call Me a Hacker. I’m Just Curious. | Sohankrishnaa | [Read More](https://medium.com/p/38a206321464) |
 | Tue, 16 Dec 2025 13:35:19 GMT | # Why I Write About Security | Abdulbar | [Read More](https://medium.com/p/2cd88f269dcb) |
 | Tue, 16 Dec 2025 13:32:40 GMT | ⚡ Make ZSH Fast, Colored, and Kali-Like (Without Lag) | Taha Ex | [Read More](https://medium.com/p/4f144b8fce36) |
+| Tue, 16 Dec 2025 13:32:37 GMT | Securing AI Processes At The Right Points | Bill Franks | [Read More](https://medium.com/p/bac280ebe8fc) |
 | Tue, 16 Dec 2025 13:26:38 GMT | # Free Hacking Tools Every Beginner Should Know (3-Minute Read) | Abdulbar | [Read More](https://medium.com/p/2eaf1d82a082) |
 | Tue, 16 Dec 2025 13:19:00 GMT | Case Study: Large-Scale Open-Source Security Assessment in 6 Days | ZAST AI | [Read More](https://medium.com/p/44e5af7fe62c) |
 | Tue, 16 Dec 2025 13:17:46 GMT | SOC 2, ISO 27001, and CMMC: Why Audit Readiness Is an Operational Discipline | Gaurav Sengar | [Read More](https://medium.com/p/4f948a43c922) |
 | Tue, 16 Dec 2025 13:12:43 GMT | Defining Signers for Amazon CloudFront Signed URLs: What Developers Must Get Right | Osman ALP | [Read More](https://medium.com/p/a3f2f7f59835) |
+| Tue, 16 Dec 2025 13:12:32 GMT | Surveillance Pricing: How Much Home and Business Security Really Costs | MonitorealPR | [Read More](https://medium.com/p/f87b4fc543c0) |
 | Tue, 16 Dec 2025 13:06:02 GMT | How to Find Hidden Bugs on Any Website in Just 6 Minutes | Codi | [Read More](https://medium.com/p/56443c448921) |
 | Tue, 16 Dec 2025 13:06:02 GMT | How often should security tests run in CI/CD? | Harold Finch | [Read More](https://medium.com/p/d2286d3ae5a3) |
 | Tue, 16 Dec 2025 13:02:24 GMT | Linux Security Habit #7 — The One Permission Check That Exposes Silent Privilege Escalation | Faruk Ahmed | [Read More](https://medium.com/p/55db7f2b9d22) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 08:58:34 GMT | Off Target: The Security Failure That Cost Half a Billion | G Prabhanjana | [Read More](https://medium.com/p/8b5039444090) |
 | Tue, 16 Dec 2025 08:57:59 GMT | How To Proactively Scan Any Python Package for Security Weaknesses Before Installation | Maikel Mardjan | [Read More](https://medium.com/p/f44bb9ddc936) |
 | Tue, 16 Dec 2025 08:57:27 GMT | One HTTP Request. Full Server Takeover. | Selcuk Ozdemir | [Read More](https://medium.com/p/4008cd19be7f) |
-| Tue, 16 Dec 2025 08:54:10 GMT | Top 5 Recon Tactics That Still Work in 2025: Mastering Modern Info Gathering for Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/d1e33418ada1) |
-| Tue, 16 Dec 2025 08:51:23 GMT | Mastering IDORs: Practical Notes on Real‑World Access Control Failures | Afi0pchik | [Read More](https://medium.com/p/a507375f3230) |
-| Tue, 16 Dec 2025 08:50:28 GMT | 12 Advanced Exploits Every Network Pen Tester Should Master in 2025 | Muhammad Haider Tallal | [Read More](https://medium.com/p/91d20532d2b9) |
-| Tue, 16 Dec 2025 08:46:49 GMT | The Future of SEO in 2025: AI Integration and Zero Party Data | Savadsavo | [Read More](https://medium.com/p/ef8895595f0b) |
-| Tue, 16 Dec 2025 08:32:14 GMT | Bug Bounty Upgrade: Turn Recon Into Impact With Ethical Credential Evidence | Alexandre Vandamme | [Read More](https://medium.com/p/960640beb846) |
-| Tue, 16 Dec 2025 08:25:47 GMT | IDOR Vulnerability | Doston Abdullaev | [Read More](https://medium.com/p/7272b1cf7830) |
-| Tue, 16 Dec 2025 08:24:09 GMT | Loot Exchange, Teams and SharePoint with GraphRunner : Pwned-Labs Azure Lab Walkthrough | Maverick | [Read More](https://medium.com/p/5f3d66ca81d7) |
-| Tue, 16 Dec 2025 08:21:30 GMT | File Upload Vulnerabilities: File upload, shell, RCE. What is a Pentester’s Real Job? | Sanjarbiy | [Read More](https://medium.com/p/d634b29f0b88) |
-| Tue, 16 Dec 2025 08:19:20 GMT | Gen Z Isn’t Lazy — The System Changed, and We Pretended It Didn’t | Vijay Kumar Gupta | [Read More](https://medium.com/p/51e139960b53) |
-| Tue, 16 Dec 2025 08:07:33 GMT | Building Decentralized Architectures with Web3 and Symfony 7.4 | Matt Mochalkin | [Read More](https://medium.com/p/c43fb15bbda4) |
-| Tue, 16 Dec 2025 08:06:01 GMT | Finding the Echoes: An Artist’s Journey From Trauma to Rediscovery (Part 5: It All Connects) | Jérôme Leroy | [Read More](https://medium.com/p/e415720065e7) |
-| Tue, 16 Dec 2025 08:04:54 GMT | Britain’s Grey‑Zone Challenge: A Practical Pact to Pull Us Back from the “Space Between Peace and… | AegisMind | [Read More](https://medium.com/p/3bcfdd71d69f) |
-| Tue, 16 Dec 2025 08:04:27 GMT | Weaponizing the Browser: A Hacker’s Guide to BeEF | ghostyjoe | [Read More](https://medium.com/p/56b5d08107e5) |
-| Tue, 16 Dec 2025 08:03:36 GMT | ️ The Expressway Heist: Cracking a VPN, Hashing Passwords, and Snagging Root | Nishant Pawar | [Read More](https://medium.com/p/b250339efe2a) |
-| Tue, 16 Dec 2025 08:01:08 GMT | Smart Code Search: Natural Language RAG for Git Repositories | Alessandro Lusci | [Read More](https://medium.com/p/2c75a5d6cdf8) |
-| Tue, 16 Dec 2025 07:59:00 GMT | Build a Future-Ready Career as a Cyber Security Engineer | Jacobwilsonus | [Read More](https://medium.com/p/63421bf339c7) |
-| Tue, 16 Dec 2025 07:58:12 GMT | Trusted Remote IT Support in Sydney That Delivers Results | Any network | [Read More](https://medium.com/p/dd617e66dea8) |
-| Tue, 16 Dec 2025 07:57:54 GMT | Why CVSS Is No Longer Enough: Rethinking Vulnerability Risk with Business Context | Assure eServices Inc. | [Read More](https://medium.com/p/1598259862b9) |
