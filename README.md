@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 03:53:24 GMT | AWS IAM: Beyond the Basics — A Security Practitioner’s Guide | Blaise NGWA SHU | [Read More](https://medium.com/p/442ea0e31e40) |
+| Tue, 16 Dec 2025 03:48:14 GMT | Wireshark: Packet Operations — TryhackMe | Paul koumedzro | [Read More](https://medium.com/p/44de64e8c08d) |
+| Tue, 16 Dec 2025 03:45:39 GMT | Bridge the Distance: Provide Reassurance in a Relationship | Cassandra Miller | [Read More](https://medium.com/p/fdb82de0a70c) |
+| Tue, 16 Dec 2025 03:30:02 GMT | Tải Sakura School Simulator Mod Apk (Mở Khóa, Vô Hạn Tiền) v1.046.01 | Game4u | [Read More](https://medium.com/p/637a0f6e292b) |
+| Tue, 16 Dec 2025 03:26:33 GMT | Inside the Claimed LG Data Leak: What the Alleged Exposure Really Means | Deven Chhajed | [Read More](https://medium.com/p/7d7aa42bfc53) |
+| Tue, 16 Dec 2025 03:21:30 GMT | Tải FF Advance Server APK (Full Tiền, Kim Cương) v8.9.0g | Bandisharecx | [Read More](https://medium.com/p/66b2e1c5cafb) |
 | Tue, 16 Dec 2025 03:21:19 GMT | 10 OSINT Tools Every Cybersecurity Professional Should Know (Before Hackers Do) ️‍♂️ | Krish_cyber | [Read More](https://medium.com/p/2e927c8a17cd) |
+| Tue, 16 Dec 2025 03:20:50 GMT | Using Virtual Machines and Snapshots for Safe Experimentation | Aj | [Read More](https://medium.com/p/6fcf89ebd3e0) |
+| Tue, 16 Dec 2025 03:20:36 GMT | $200 Bounty: XSS via X-Forwarded-Host Header That Also Triggered an Open Redirect | Monika sharma | [Read More](https://medium.com/p/9582bc59f6a7) |
+| Tue, 16 Dec 2025 03:17:33 GMT | OSINT Under the Hood: Why OSINT Is the Ultimate Cybersecurity Foundation | Rabail Zaheer | [Read More](https://medium.com/p/4c546bf24c17) |
 | Tue, 16 Dec 2025 03:08:38 GMT | Poetry Can Trick AI Into Ignoring Safety Rules (And Why That Should Terrify You) | Abhishek Datta | [Read More](https://medium.com/p/89baacb9d5e6) |
 | Tue, 16 Dec 2025 03:07:49 GMT | What Are Cyber Security Audit Services? Benefits, Process, and Best Practices | ONEXT DIGITAL | [Read More](https://medium.com/p/47530c2870f9) |
 | Tue, 16 Dec 2025 03:02:17 GMT | RustScan vs Nmap: Which Port Scanner Should You Use in Your Pentesting Workflow? | Sajidur Rahman | [Read More](https://medium.com/p/210bae121557) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 18:20:58 GMT | How to pick a router | Dmitriy Plaks | [Read More](https://medium.com/p/f07627d0a27f) |
 | Mon, 15 Dec 2025 18:18:01 GMT | Building an ISP That Works | Financial Poise | [Read More](https://medium.com/p/d15a2a634586) |
 | Mon, 15 Dec 2025 18:16:43 GMT | The Silent Rulers of the Planet: How Invertebrates Won Evolution | Hel Mort | [Read More](https://medium.com/p/137e0bf84ad9) |
-| Mon, 15 Dec 2025 18:13:39 GMT | The Problem Was Never My Setup | Mahamyousufzai | [Read More](https://medium.com/p/dd4dedfe664a) |
-| Mon, 15 Dec 2025 18:12:17 GMT | Crack The Hash WalkThrough | Abiralkarmacharya | [Read More](https://medium.com/p/d9fa3afb4635) |
-| Mon, 15 Dec 2025 18:08:14 GMT | Hashing, Password Security & Cryptography Basics | Connor Kenway | [Read More](https://medium.com/p/a1dd8f818811) |
-| Mon, 15 Dec 2025 18:06:31 GMT | Phishing — Phishmas Greetings - AoC 2025 Day — 12 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/2c23f0d38572) |
-| Mon, 15 Dec 2025 18:03:11 GMT | How React Broke the Internet | Vignesh Chandrasekharan | [Read More](https://medium.com/p/fe68d2e05f5d) |
-| Mon, 15 Dec 2025 17:59:38 GMT | Secure Any Internal App with NGINX + OAuth2 Proxy + Microsoft Login (Azure Entra ID) | Rohan Sirohi | [Read More](https://medium.com/p/d79c630ce9ba) |
-| Mon, 15 Dec 2025 17:57:07 GMT | Sandboxing for AI Agents | Yessine Abdelmaksoud | [Read More](https://medium.com/p/2420ac69569e) |
-| Mon, 15 Dec 2025 17:53:17 GMT | Setting Up Kali Linux on AWS EC2 Step-by-Step | Fareed Masood | [Read More](https://medium.com/p/b27bf0ad6358) |
-| Mon, 15 Dec 2025 17:50:00 GMT | Malware Detection Methods in Linux ️ | Esra Kayhan | [Read More](https://medium.com/p/4736d36aa181) |
