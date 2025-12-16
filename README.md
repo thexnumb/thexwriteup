@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 18:29:35 GMT | pgAdmin 4 Meta-Command Filter Bypass — RCE | Cybersecplayground | [Read More](https://medium.com/p/8c22e9f1983d) |
+| Tue, 16 Dec 2025 18:27:21 GMT | Containers — DoorDasher’s Demise - AoC 2025 Day — 14 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/7e9b7f9255f4) |
+| Tue, 16 Dec 2025 18:26:51 GMT | The Energy Cost of AI Is Becoming a National Security Issue | Ezhil | [Read More](https://medium.com/p/7643a1658db9) |
+| Tue, 16 Dec 2025 18:24:17 GMT | The State AI Regulation Trap: How Well-Meaning Laws Accidentally Strengthen Big Tech | Chris | [Read More](https://medium.com/p/76a1b3670285) |
+| Tue, 16 Dec 2025 18:23:50 GMT | Why Your “Smart” Rate Limiter Punishes Good Users First | Logic Over Latte | [Read More](https://medium.com/p/8bce4dacf27a) |
+| Tue, 16 Dec 2025 18:21:14 GMT | 6 Shocking Truths About 2025’s Most Dangerous Hacker Supergroup | Allan & Ida | [Read More](https://medium.com/p/f38f70fdc934) |
+| Tue, 16 Dec 2025 18:14:34 GMT | Inside a Support Scam | Connor Kenway | [Read More](https://medium.com/p/9e853c8eec4d) |
+| Tue, 16 Dec 2025 18:12:50 GMT | If you’ve ever clicked endlessly through the AWS Console, you already know the feeling, too many… | Aadeyemikazeem | [Read More](https://medium.com/p/8b39d37171f9) |
+| Tue, 16 Dec 2025 18:02:28 GMT | RPC Providers Under Load: 10 Security Postures That Hold | Velorum | [Read More](https://medium.com/p/ca3d2a55c150) |
+| Tue, 16 Dec 2025 18:02:26 GMT | PicoCTF Writeups — asm2 | SoBatista | [Read More](https://medium.com/p/862c815bbd61) |
+| Tue, 16 Dec 2025 18:02:20 GMT | DeepSeek Injects 50% More Vulnerabilities When You Mention Tibet | MohamedAbdelmenem | [Read More](https://medium.com/p/049dabc5c3e1) |
+| Tue, 16 Dec 2025 18:02:20 GMT | Names, Emails, Locations, Device IDs: What One OpenAI Vendor Export Gave Hackers | MohamedAbdelmenem | [Read More](https://medium.com/p/51721f806f35) |
+| Tue, 16 Dec 2025 17:59:53 GMT | HTTP Status Codes Cheatsheet | Khalil Z. | [Read More](https://medium.com/p/d19b23dfa17a) |
+| Tue, 16 Dec 2025 17:51:37 GMT | HOW I PERFOMED BASIC API SECURITY TESTS USING POSTMAN | Madalitso Cheyo | [Read More](https://medium.com/p/6f4763cd25f9) |
+| Tue, 16 Dec 2025 17:48:14 GMT | How a Social Engineering Call Bypassed Millions Worth of Security | Digital Defense | [Read More](https://medium.com/p/8101bc7601e9) |
+| Tue, 16 Dec 2025 17:46:36 GMT | When HTML5 Videos Refuse to Play: Debugging the “Video File Not Found” Error on Ubuntu — 2/3 | Anzalo Quin | [Read More](https://medium.com/p/3ba0937e065c) |
+| Tue, 16 Dec 2025 17:45:27 GMT | Advent of Cyber 2025 Day 16 - TryHackMe - Forensics — Registry Furensics - WriteUp | Axoloth | [Read More](https://medium.com/p/2dac823000f1) |
+| Tue, 16 Dec 2025 17:42:33 GMT | What I Learned Studying for CompTIA Network+ With No IT Experience | Fernando Rivas | [Read More](https://medium.com/p/2e7df64a002a) |
+| Tue, 16 Dec 2025 17:37:02 GMT | Operational Readiness for Post-Quantum Cryptography: Three Questions Your Board Needs to Ask | Patrick Lefler | [Read More](https://medium.com/p/fea88948abb1) |
 | Tue, 16 Dec 2025 17:27:13 GMT | Why we built an MCP server for email security | Annika Grunewakdt | [Read More](https://medium.com/p/9a3f7dd3a8f0) |
 | Tue, 16 Dec 2025 17:26:59 GMT | Security Awareness Isn’t a Month, It’s a Mindset | Really Bad Security | [Read More](https://medium.com/p/bfee433418d7) |
 | Tue, 16 Dec 2025 17:25:15 GMT | Complex ≠ Secure: Rethinking Passwords | Really Bad Security | [Read More](https://medium.com/p/f17267859d5c) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 13:49:36 GMT | 4 Critical Lessons from the Apache Tika Bug That Scored a Perfect 10.0 | Vedant Jain | [Read More](https://medium.com/p/a17ff30c317c) |
 | Tue, 16 Dec 2025 13:47:22 GMT | Low Budget Patrolling Services Houston | Security Houston | [Read More](https://medium.com/p/237758ddca55) |
 | Tue, 16 Dec 2025 13:46:20 GMT | Service Accounts: Architecture Patterns | Mr Ben Abdallah | [Read More](https://medium.com/p/ee345cd041d2) |
-| Tue, 16 Dec 2025 13:40:58 GMT | Working with multiple git accounts and avoiding committing using the wrong email address | Srihari Sridharan | [Read More](https://medium.com/p/642f1c12e634) |
-| Tue, 16 Dec 2025 13:40:28 GMT | Certified Red Team Specialist (CRTSv2) : Review | Fabrice | [Read More](https://medium.com/p/28521fd1a388) |
-| Tue, 16 Dec 2025 13:39:23 GMT | Safeguarding the Future of Fintech: Managing Critical IT Risks in a Digital Financial Economy | Cameron Nyack | [Read More](https://medium.com/p/9df309c4629d) |
-| Tue, 16 Dec 2025 13:38:33 GMT | SOC170 — Passwd Found in Requested URL — Possible LFI Attack | mrsifr | [Read More](https://medium.com/p/4406cdfcb025) |
-| Tue, 16 Dec 2025 13:35:53 GMT | Alarm Security Guard Company Houston | Security Houston | [Read More](https://medium.com/p/d9c66e768046) |
-| Tue, 16 Dec 2025 13:35:53 GMT | People Call Me a Hacker. I’m Just Curious. | Sohankrishnaa | [Read More](https://medium.com/p/38a206321464) |
-| Tue, 16 Dec 2025 13:35:19 GMT | # Why I Write About Security | Abdulbar | [Read More](https://medium.com/p/2cd88f269dcb) |
-| Tue, 16 Dec 2025 13:32:40 GMT | ⚡ Make ZSH Fast, Colored, and Kali-Like (Without Lag) | Taha Ex | [Read More](https://medium.com/p/4f144b8fce36) |
-| Tue, 16 Dec 2025 13:32:37 GMT | Securing AI Processes At The Right Points | Bill Franks | [Read More](https://medium.com/p/bac280ebe8fc) |
-| Tue, 16 Dec 2025 13:26:38 GMT | # Free Hacking Tools Every Beginner Should Know (3-Minute Read) | Abdulbar | [Read More](https://medium.com/p/2eaf1d82a082) |
-| Tue, 16 Dec 2025 13:19:00 GMT | Case Study: Large-Scale Open-Source Security Assessment in 6 Days | ZAST AI | [Read More](https://medium.com/p/44e5af7fe62c) |
-| Tue, 16 Dec 2025 13:17:46 GMT | SOC 2, ISO 27001, and CMMC: Why Audit Readiness Is an Operational Discipline | Gaurav Sengar | [Read More](https://medium.com/p/4f948a43c922) |
-| Tue, 16 Dec 2025 13:12:43 GMT | Defining Signers for Amazon CloudFront Signed URLs: What Developers Must Get Right | Osman ALP | [Read More](https://medium.com/p/a3f2f7f59835) |
-| Tue, 16 Dec 2025 13:12:32 GMT | Surveillance Pricing: How Much Home and Business Security Really Costs | MonitorealPR | [Read More](https://medium.com/p/f87b4fc543c0) |
-| Tue, 16 Dec 2025 13:06:02 GMT | How to Find Hidden Bugs on Any Website in Just 6 Minutes | Codi | [Read More](https://medium.com/p/56443c448921) |
-| Tue, 16 Dec 2025 13:06:02 GMT | How often should security tests run in CI/CD? | Harold Finch | [Read More](https://medium.com/p/d2286d3ae5a3) |
-| Tue, 16 Dec 2025 13:02:24 GMT | Linux Security Habit #7 — The One Permission Check That Exposes Silent Privilege Escalation | Faruk Ahmed | [Read More](https://medium.com/p/55db7f2b9d22) |
-| Tue, 16 Dec 2025 13:01:52 GMT | Active Directory Pratik Rehberi: II “Yönetim Araçları ve Yetkilendirme” | Taha Altın | [Read More](https://medium.com/p/e25ea693ce71) |
-| Tue, 16 Dec 2025 12:59:53 GMT | Active Directory Pratik Rehberi: I “Organizasyon & Temel Yönetim” | Taha Altın | [Read More](https://medium.com/p/078732fcd7b6) |
