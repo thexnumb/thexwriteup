@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 04:42:16 GMT | SIEM Integration: How Zapper Edge Turns File Activity Into Behavioral Intelligence | Prabhu Srivastava | [Read More](https://medium.com/p/6e36b11ded39) |
+| Tue, 16 Dec 2025 04:36:49 GMT | Case File: Agent Sudo | Themisertreachery | [Read More](https://medium.com/p/654537f73915) |
+| Tue, 16 Dec 2025 04:36:01 GMT | Securing a Kenyan SACCO from Zero [Part 2 of 6] | Munaniadeno | [Read More](https://medium.com/p/61d3e92f92d0) |
+| Tue, 16 Dec 2025 04:29:16 GMT | I Don’t Trust Software I Can’t Understand Anymore · PLEX | Dorian Sotpyrc | [Read More](https://medium.com/p/59496d2a4a7c) |
+| Tue, 16 Dec 2025 04:14:33 GMT | Stop Paying for Roaming: The Free Tech Stack I Used Across Three Continents | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/5d1d409c8a72) |
 | Tue, 16 Dec 2025 03:53:24 GMT | AWS IAM: Beyond the Basics — A Security Practitioner’s Guide | Blaise NGWA SHU | [Read More](https://medium.com/p/442ea0e31e40) |
 | Tue, 16 Dec 2025 03:48:14 GMT | Wireshark: Packet Operations — TryhackMe | Paul koumedzro | [Read More](https://medium.com/p/44de64e8c08d) |
 | Tue, 16 Dec 2025 03:45:39 GMT | Bridge the Distance: Provide Reassurance in a Relationship | Cassandra Miller | [Read More](https://medium.com/p/fdb82de0a70c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 18:29:13 GMT | Title: We Don’t Remember Facts Anymore. We Remember Where to Find Them. | Mame | [Read More](https://medium.com/p/9e5718394c4e) |
 | Mon, 15 Dec 2025 18:26:02 GMT | A Small Tool for Finding and Fixing Vulnerable Next.js Repos | Elad Mizrahi | [Read More](https://medium.com/p/606bce5ea1be) |
 | Mon, 15 Dec 2025 18:25:32 GMT | The Laptop That Didn’t Ask for Much — Just to Be Watched | Cybersickerhub | [Read More](https://medium.com/p/83e078bbad54) |
-| Mon, 15 Dec 2025 18:23:17 GMT | How many Cybersecurity Specialists are there in the World? | Muhammadfaizan | [Read More](https://medium.com/p/77ff0563e210) |
-| Mon, 15 Dec 2025 18:22:06 GMT | The PCI “Cheat Code”: How Tokenization Saves Your Sanity (and Your Data) | Emory French | [Read More](https://medium.com/p/a296687f7e14) |
-| Mon, 15 Dec 2025 18:20:58 GMT | How to pick a router | Dmitriy Plaks | [Read More](https://medium.com/p/f07627d0a27f) |
-| Mon, 15 Dec 2025 18:18:01 GMT | Building an ISP That Works | Financial Poise | [Read More](https://medium.com/p/d15a2a634586) |
-| Mon, 15 Dec 2025 18:16:43 GMT | The Silent Rulers of the Planet: How Invertebrates Won Evolution | Hel Mort | [Read More](https://medium.com/p/137e0bf84ad9) |
