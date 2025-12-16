@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 09:45:05 GMT | house alarm system costThe True House Alarm System Cost in 2026: Is Home Security Worth the Price? | Criminology Expert | [Read More](https://medium.com/p/6d9f08a0568d) |
+| Tue, 16 Dec 2025 09:39:40 GMT | Script Kiddies — The Amateur Hackers Who Still Matter | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/d9baac10604a) |
+| Tue, 16 Dec 2025 09:36:24 GMT | Difference Between 2.4GHz and 5GHz Wi-Fi — Mejbankadir Ethical Hacker’s Real-Life Lesson | Mejbankadir | [Read More](https://medium.com/p/b86c78ce48a2) |
+| Tue, 16 Dec 2025 09:36:20 GMT | Fletcher Reede The Coder: Agile’s Endless Echo Chamber | Namir Sagheenanajar | [Read More](https://medium.com/p/54cbfb7e6724) |
+| Tue, 16 Dec 2025 09:32:39 GMT | How to Access Your Work Desktop From Home | Alex Hughes | [Read More](https://medium.com/p/28d9bfb44d7e) |
+| Tue, 16 Dec 2025 09:32:16 GMT | How i hacked a website just by looking at the source code | Devansh Patel | [Read More](https://medium.com/p/90645f085736) |
+| Tue, 16 Dec 2025 09:29:12 GMT | Automating ZAP for CI/CD — an MVP | ShiftLeftSec | [Read More](https://medium.com/p/69d5c322386c) |
+| Tue, 16 Dec 2025 09:26:21 GMT | The Importance of Contextual Threat Analysis in a Modern SOC | Eventus Security Private Limited | [Read More](https://medium.com/p/3bd34ef255d2) |
 | Tue, 16 Dec 2025 09:19:07 GMT | The Bug I Can Never Report: A Lesson in Ethics and the "Govt Site" Dilemma | Janhvee Laad | [Read More](https://medium.com/p/5bf10a113e63) |
 | Tue, 16 Dec 2025 09:18:26 GMT | What Is Drupal And Why It’s the ‘Final Boss’ of Web Design? | Kishan Singh | [Read More](https://medium.com/p/a28ec3b51996) |
+| Tue, 16 Dec 2025 09:18:08 GMT | Security Documentation Templates Every Team Should Have Ready | Rahman Iqbal | [Read More](https://medium.com/p/80bcf3aa1add) |
 | Tue, 16 Dec 2025 09:14:59 GMT | Why Choosing a Top Security Service Provider Is Essential for Modern Businesses | Ciss India | [Read More](https://medium.com/p/1576f8d8187a) |
 | Tue, 16 Dec 2025 09:07:43 GMT | The Books That Actually Taught Me Cybersecurity | Aj | [Read More](https://medium.com/p/838b3e196ddf) |
 | Tue, 16 Dec 2025 09:07:15 GMT | Prognosis: Cybersecurity Risks in Modern Medicine | Redfox Security | [Read More](https://medium.com/p/77e0485ea15f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 03:26:33 GMT | Inside the Claimed LG Data Leak: What the Alleged Exposure Really Means | Deven Chhajed | [Read More](https://medium.com/p/7d7aa42bfc53) |
 | Tue, 16 Dec 2025 03:21:30 GMT | Tải FF Advance Server APK (Full Tiền, Kim Cương) v8.9.0g | Bandisharecx | [Read More](https://medium.com/p/66b2e1c5cafb) |
 | Tue, 16 Dec 2025 03:21:19 GMT | 10 OSINT Tools Every Cybersecurity Professional Should Know (Before Hackers Do) ️‍♂️ | Krish_cyber | [Read More](https://medium.com/p/2e927c8a17cd) |
-| Tue, 16 Dec 2025 03:20:50 GMT | Using Virtual Machines and Snapshots for Safe Experimentation | Aj | [Read More](https://medium.com/p/6fcf89ebd3e0) |
-| Tue, 16 Dec 2025 03:20:36 GMT | $200 Bounty: XSS via X-Forwarded-Host Header That Also Triggered an Open Redirect | Monika sharma | [Read More](https://medium.com/p/9582bc59f6a7) |
-| Tue, 16 Dec 2025 03:17:33 GMT | OSINT Under the Hood: Why OSINT Is the Ultimate Cybersecurity Foundation | Rabail Zaheer | [Read More](https://medium.com/p/4c546bf24c17) |
-| Tue, 16 Dec 2025 03:08:38 GMT | Poetry Can Trick AI Into Ignoring Safety Rules (And Why That Should Terrify You) | Abhishek Datta | [Read More](https://medium.com/p/89baacb9d5e6) |
-| Tue, 16 Dec 2025 03:07:49 GMT | What Are Cyber Security Audit Services? Benefits, Process, and Best Practices | ONEXT DIGITAL | [Read More](https://medium.com/p/47530c2870f9) |
-| Tue, 16 Dec 2025 03:02:17 GMT | RustScan vs Nmap: Which Port Scanner Should You Use in Your Pentesting Workflow? | Sajidur Rahman | [Read More](https://medium.com/p/210bae121557) |
-| Tue, 16 Dec 2025 03:00:07 GMT | MCP, Explained Simply: What It Is, Why It Matters, and Why I’m Paying Attention | Vikram | [Read More](https://medium.com/p/9534347a3db3) |
-| Tue, 16 Dec 2025 02:59:55 GMT | Tải Fishing Master Apk V2.4.196913 Cho Android | Apkpuredev | [Read More](https://medium.com/p/84a5968018f6) |
-| Tue, 16 Dec 2025 02:58:10 GMT | Tuesday Morning Threat Report: Dec 16, 2025 | Mark Maguire | [Read More](https://medium.com/p/b0811a7c7d9a) |
