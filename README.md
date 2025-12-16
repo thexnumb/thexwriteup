@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 10:16:22 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/d049fbb659c6) |
+| Tue, 16 Dec 2025 10:13:25 GMT | Advent of Cyber 25 — Day 14 — Containers — DoorDasher’s Demise | cybertactic | [Read More](https://medium.com/p/dff0584a9666) |
+| Tue, 16 Dec 2025 10:08:02 GMT | Take Control of Your Privacy: AdGuard-Home with HTTPS and TLS Encryption | Kalyan Mudumby | [Read More](https://medium.com/p/38fb96693370) |
+| Tue, 16 Dec 2025 09:58:39 GMT | How to Prepare for Offensive Security Certified Professional (OSCP) Exam | Manisha Chaudhary | [Read More](https://medium.com/p/c5d181a69ac3) |
+| Tue, 16 Dec 2025 09:57:55 GMT | You Don’t Get Hacked Just Because Port 22 Is Open: Where Is SSH Actually Dangerous? | isaergisi | [Read More](https://medium.com/p/9ab362f558b9) |
 | Tue, 16 Dec 2025 09:45:05 GMT | house alarm system costThe True House Alarm System Cost in 2026: Is Home Security Worth the Price? | Criminology Expert | [Read More](https://medium.com/p/6d9f08a0568d) |
 | Tue, 16 Dec 2025 09:39:40 GMT | Script Kiddies — The Amateur Hackers Who Still Matter | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/d9baac10604a) |
+| Tue, 16 Dec 2025 09:38:47 GMT | Highest Salary Ethical Hacking Jobs in India: Your Complete Career Guide | cyber security Updates | [Read More](https://medium.com/p/f4c04f5438f5) |
 | Tue, 16 Dec 2025 09:36:24 GMT | Difference Between 2.4GHz and 5GHz Wi-Fi — Mejbankadir Ethical Hacker’s Real-Life Lesson | Mejbankadir | [Read More](https://medium.com/p/b86c78ce48a2) |
 | Tue, 16 Dec 2025 09:36:20 GMT | Fletcher Reede The Coder: Agile’s Endless Echo Chamber | Namir Sagheenanajar | [Read More](https://medium.com/p/54cbfb7e6724) |
 | Tue, 16 Dec 2025 09:32:39 GMT | How to Access Your Work Desktop From Home | Alex Hughes | [Read More](https://medium.com/p/28d9bfb44d7e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 04:29:16 GMT | I Don’t Trust Software I Can’t Understand Anymore · PLEX | Dorian Sotpyrc | [Read More](https://medium.com/p/59496d2a4a7c) |
 | Tue, 16 Dec 2025 04:14:33 GMT | Stop Paying for Roaming: The Free Tech Stack I Used Across Three Continents | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/5d1d409c8a72) |
 | Tue, 16 Dec 2025 03:53:24 GMT | AWS IAM: Beyond the Basics — A Security Practitioner’s Guide | Blaise NGWA SHU | [Read More](https://medium.com/p/442ea0e31e40) |
-| Tue, 16 Dec 2025 03:48:14 GMT | Wireshark: Packet Operations — TryhackMe | Paul koumedzro | [Read More](https://medium.com/p/44de64e8c08d) |
-| Tue, 16 Dec 2025 03:45:39 GMT | Bridge the Distance: Provide Reassurance in a Relationship | Cassandra Miller | [Read More](https://medium.com/p/fdb82de0a70c) |
-| Tue, 16 Dec 2025 03:30:02 GMT | Tải Sakura School Simulator Mod Apk (Mở Khóa, Vô Hạn Tiền) v1.046.01 | Game4u | [Read More](https://medium.com/p/637a0f6e292b) |
-| Tue, 16 Dec 2025 03:26:33 GMT | Inside the Claimed LG Data Leak: What the Alleged Exposure Really Means | Deven Chhajed | [Read More](https://medium.com/p/7d7aa42bfc53) |
-| Tue, 16 Dec 2025 03:21:30 GMT | Tải FF Advance Server APK (Full Tiền, Kim Cương) v8.9.0g | Bandisharecx | [Read More](https://medium.com/p/66b2e1c5cafb) |
-| Tue, 16 Dec 2025 03:21:19 GMT | 10 OSINT Tools Every Cybersecurity Professional Should Know (Before Hackers Do) ️‍♂️ | Krish_cyber | [Read More](https://medium.com/p/2e927c8a17cd) |
