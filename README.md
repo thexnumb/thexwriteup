@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 20:41:09 GMT | How Threat Actors Are Manipulating Zendesk Sub-domains for Impersonation and Phishing | Michael Bocanegra | [Read More](https://medium.com/p/9eb9829002ff) |
+| Tue, 16 Dec 2025 20:35:07 GMT | The Safety Illusion: Inside the Growing Gap Between AI’s Promises and Its Actual Safeguards | Zoom In AI | [Read More](https://medium.com/p/efb4894ff43e) |
 | Tue, 16 Dec 2025 20:17:25 GMT | The Lazy Hunter’s Guide to Modat: Recon Smarter, Not Harder | hacker_might | [Read More](https://medium.com/p/4bc95bc2a577) |
 | Tue, 16 Dec 2025 20:07:36 GMT | Dehumanization the Bot Way | Ruthie Owen-Moreno | [Read More](https://medium.com/p/bc9a7542c845) |
 | Tue, 16 Dec 2025 19:59:45 GMT | Why Agentic AI Amplifies Configuration Debt (and How to Contain It) | Donovan_Distracted | [Read More](https://medium.com/p/ce83aee96546) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 14:58:40 GMT | React2Shell (CVE-2025–55182) Under Active Exploitation: Why Linux Servers Are in the Blast Radius… | Germano Costi | [Read More](https://medium.com/p/42f98847449d) |
 | Tue, 16 Dec 2025 14:55:34 GMT | Themida: Windows Executable Protection | Antonio Pagano | [Read More](https://medium.com/p/124b78fcd278) |
 | Tue, 16 Dec 2025 14:44:24 GMT | Infinity Learning lab: Whispers from SQS— Writeup | Hubert | [Read More](https://medium.com/p/fbe09c33bed5) |
-| Tue, 16 Dec 2025 14:43:29 GMT | What Is MLL and Why I Think It Is the Next Big Skill to Learn for the Future | Suzan Gautam | [Read More](https://medium.com/p/eb70ff05b581) |
-| Tue, 16 Dec 2025 14:43:02 GMT | That ‘Legit’ Site You Just Gave Your Credentials to Might Be A Scam | Chaudhry Awais Ahmed | [Read More](https://medium.com/p/87b25e003062) |
