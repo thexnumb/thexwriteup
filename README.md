@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 07:42:28 GMT | Sam Altman’s Code Red Exposes Structural Failure as ChatGPT and Gemini Compete | Melviya | [Read More](https://medium.com/p/ccfe5bd300b2) |
+| Tue, 16 Dec 2025 07:21:04 GMT | Security Lab Simulation Project Part 12: Configuration of Snort3 | Jenny | [Read More](https://medium.com/p/70c51799d4b1) |
+| Tue, 16 Dec 2025 07:19:38 GMT | Reverse Proxy | Anandhu Kannan | [Read More](https://medium.com/p/01c74e1f1d19) |
 | Tue, 16 Dec 2025 07:12:16 GMT | How I Built a SOC Lab in My Bedroom: The Blueprint | Abimanyu A | [Read More](https://medium.com/p/812aa2a1545a) |
 | Tue, 16 Dec 2025 07:09:35 GMT | Volatility Plugins — Plugin windows.malfind Let’s Talk About it | Dean | [Read More](https://medium.com/p/c9e1b64001bd) |
 | Tue, 16 Dec 2025 07:06:01 GMT | How Authenticator Apps Generate 6-Digit Codes Every 30 Seconds Even Offline (A Deep Technical… | Dhananjay Aggarwal | [Read More](https://medium.com/p/d641f45cc24a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 21:39:43 GMT | The Salt of the Earth | Amy Potter | [Read More](https://medium.com/p/34014be52d20) |
 | Mon, 15 Dec 2025 21:34:21 GMT | I’ve Been Holding So Much Alone But… | Shang | [Read More](https://medium.com/p/4b8c1302f3dc) |
 | Mon, 15 Dec 2025 21:29:01 GMT | Getting Started with Burpsuite for API Security Testing | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/33316140e00f) |
-| Mon, 15 Dec 2025 21:28:56 GMT | The Scariest Threat in “A House of Dynamite” | B. F. Campbell | [Read More](https://medium.com/p/2530f342a8f7) |
-| Mon, 15 Dec 2025 21:26:36 GMT | Payload Shape Injection: The API Security Risk Nobody Names | Mohammad Abir Abbas | [Read More](https://medium.com/p/a820e080a3a1) |
-| Mon, 15 Dec 2025 21:22:00 GMT | Directory Transversal lead to RCE - Manual hacking. | Alejandro Estupiñán | [Read More](https://medium.com/p/df33825e2023) |
