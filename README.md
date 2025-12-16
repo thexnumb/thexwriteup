@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 23:07:10 GMT | Operation PCPcat: Hunting a Next.js Credential Stealer That’s Already Compromised 59K Servers | Mario Candela | [Read More](https://medium.com/p/2512c2d8f704) |
+| Tue, 16 Dec 2025 23:04:13 GMT | How is AI changing the hiring process? | Lucas Silva | [Read More](https://medium.com/p/98c38e4257ce) |
+| Tue, 16 Dec 2025 22:51:06 GMT | Vibe Coding: Real Code, Real Risks, or Both? | Cyber-AppSec | [Read More](https://medium.com/p/1a2536d17b2f) |
+| Tue, 16 Dec 2025 22:46:11 GMT | PERKENALAN TANPA TOPENG | manusia kumal | [Read More](https://medium.com/p/388124398291) |
+| Tue, 16 Dec 2025 22:40:48 GMT | Top 10 One-Liner Commands for JavaScript Hunting | Monika sharma | [Read More](https://medium.com/p/d6910b3f8d6d) |
+| Tue, 16 Dec 2025 22:35:14 GMT | CVE-2025–24071 Simplified | Nyx0r | [Read More](https://medium.com/p/01c213f11011) |
 | Tue, 16 Dec 2025 22:29:54 GMT | Carnival Crisis - Dog Years | Julio Oña | [Read More](https://medium.com/p/2d19c3dbe970) |
 | Tue, 16 Dec 2025 21:55:52 GMT | Logical 2FA Bypass by Reusing Trusted Device Authentication Flow | Mahmoud Gamal | [Read More](https://medium.com/p/bd95b32b104c) |
 | Tue, 16 Dec 2025 21:47:15 GMT | We’re Solving Yesterday’s IAM Problems With Tomorrow’s Budget | Steve Anderson | [Read More](https://medium.com/p/59fb8ad10d37) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 16:02:20 GMT | Seedless, Stressless: 5 Wallet Recovery Models That Work | Bhagya Rana | [Read More](https://medium.com/p/335f6c9de1c6) |
 | Tue, 16 Dec 2025 16:02:20 GMT | Token Gating That Scales: 5 Patterns That Hold | Vectorlane | [Read More](https://medium.com/p/b76c95d22731) |
 | Tue, 16 Dec 2025 15:58:36 GMT | Social Engineering | Tryhacking | [Read More](https://medium.com/p/d15ef1cf09e2) |
-| Tue, 16 Dec 2025 15:55:39 GMT | Medium Fans, Rejoice: The Alternatives You’ve Been Waiting For Have Arrived | Adeel Ahmed | [Read More](https://medium.com/p/1e0edfe45257) |
-| Tue, 16 Dec 2025 15:54:21 GMT | My first test: Firewall & Network Troubleshooting | Oluwadamilare Adeosun | [Read More](https://medium.com/p/ccddd9b7d7ca) |
-| Tue, 16 Dec 2025 15:54:18 GMT | QA and Security: Basic Security Testing for QA Engineers | Joaquin Moreira | [Read More](https://medium.com/p/c06e377c72b2) |
-| Tue, 16 Dec 2025 15:50:03 GMT | Your Security Scanner Misses 97% of AI-Generated Backdoors | AhmedAbdelmenem | [Read More](https://medium.com/p/e7b955b7f304) |
-| Tue, 16 Dec 2025 15:47:41 GMT | [90 days to CompTIA Security+] — Day 2/90 | Lam Nguyen | [Read More](https://medium.com/p/904d4628a74e) |
-| Tue, 16 Dec 2025 15:41:51 GMT | APIs: Your Weakest Link — Why API Attacks Are Exploding in 2025 | JSOC IT BLOG | [Read More](https://medium.com/p/705139fa9a2e) |
