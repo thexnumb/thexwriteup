@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 03:21:19 GMT | 10 OSINT Tools Every Cybersecurity Professional Should Know (Before Hackers Do) ️‍♂️ | Krish_cyber | [Read More](https://medium.com/p/2e927c8a17cd) |
+| Tue, 16 Dec 2025 03:08:38 GMT | Poetry Can Trick AI Into Ignoring Safety Rules (And Why That Should Terrify You) | Abhishek Datta | [Read More](https://medium.com/p/89baacb9d5e6) |
+| Tue, 16 Dec 2025 03:07:49 GMT | What Are Cyber Security Audit Services? Benefits, Process, and Best Practices | ONEXT DIGITAL | [Read More](https://medium.com/p/47530c2870f9) |
+| Tue, 16 Dec 2025 03:02:17 GMT | RustScan vs Nmap: Which Port Scanner Should You Use in Your Pentesting Workflow? | Sajidur Rahman | [Read More](https://medium.com/p/210bae121557) |
+| Tue, 16 Dec 2025 03:00:07 GMT | MCP, Explained Simply: What It Is, Why It Matters, and Why I’m Paying Attention | Vikram | [Read More](https://medium.com/p/9534347a3db3) |
+| Tue, 16 Dec 2025 02:59:55 GMT | Tải Fishing Master Apk V2.4.196913 Cho Android | Apkpuredev | [Read More](https://medium.com/p/84a5968018f6) |
+| Tue, 16 Dec 2025 02:58:10 GMT | Tuesday Morning Threat Report: Dec 16, 2025 | Mark Maguire | [Read More](https://medium.com/p/b0811a7c7d9a) |
+| Tue, 16 Dec 2025 02:09:23 GMT | Why Threat Actors Still Outgun Defensive Teams | David SEHYEON Baek | [Read More](https://medium.com/p/125316a063c1) |
+| Tue, 16 Dec 2025 02:06:09 GMT | The Rise of AI-Driven IT | IPSpecialist | [Read More](https://medium.com/p/dafa47c04e6e) |
+| Tue, 16 Dec 2025 01:56:48 GMT | 65-Year-Old Woman’s Relationship Standards: Better Alone Than Settling | Yettalee | [Read More](https://medium.com/p/9ac0e9101b0f) |
+| Tue, 16 Dec 2025 01:50:44 GMT | True Love Waits for No One: Can a Man’s Flirting Turn into Real Feelings? | Eilen Lexus | [Read More](https://medium.com/p/c63a9d6a950c) |
+| Tue, 16 Dec 2025 01:44:19 GMT | Zero Trust Security Explained: Why It’s Becoming Essential for Modern Businesses in 2026 | Techridge Solutions | [Read More](https://medium.com/p/3e071eef6c04) |
 | Tue, 16 Dec 2025 01:44:01 GMT | Review eMAPT: Cómo logré certificarme en Pentesting Móvil | B13ss3d | [Read More](https://medium.com/p/4f57beb65372) |
 | Tue, 16 Dec 2025 01:37:18 GMT | What Happens When You Paste Text Into Grammarly? | A D | [Read More](https://medium.com/p/bf0e4d74ea33) |
 | Tue, 16 Dec 2025 01:22:16 GMT | AdsPower Achieves SOC 2 Type II Attestation: A New Milestone in International-Grade Security | AdsPower Browser | [Read More](https://medium.com/p/933aa2fdc03a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 17:57:07 GMT | Sandboxing for AI Agents | Yessine Abdelmaksoud | [Read More](https://medium.com/p/2420ac69569e) |
 | Mon, 15 Dec 2025 17:53:17 GMT | Setting Up Kali Linux on AWS EC2 Step-by-Step | Fareed Masood | [Read More](https://medium.com/p/b27bf0ad6358) |
 | Mon, 15 Dec 2025 17:50:00 GMT | Malware Detection Methods in Linux ️ | Esra Kayhan | [Read More](https://medium.com/p/4736d36aa181) |
-| Mon, 15 Dec 2025 17:48:50 GMT | ️ Packet Crafting Techniques: Rewriting the Language of the Network | Esra Kayhan | [Read More](https://medium.com/p/83cfe86e5eec) |
-| Mon, 15 Dec 2025 17:47:15 GMT | CVE‑2025‑13780: Critical RCE in pgAdmin | gm0 | [Read More](https://medium.com/p/6ec4050249e0) |
-| Mon, 15 Dec 2025 17:47:12 GMT | Enable Password less SSH Authentication on Linux | Rohan Sirohi | [Read More](https://medium.com/p/734ee23a7352) |
-| Mon, 15 Dec 2025 17:39:19 GMT | FHIR API Security: Beyond OAuth 2.0 | Cyberspecs | [Read More](https://medium.com/p/89c2ecd9c0d4) |
-| Mon, 15 Dec 2025 17:38:14 GMT | Technology Strategy vs Digital Transformation: Key Differences Every Business Must Understand… | Sophiajones | [Read More](https://medium.com/p/23171398513b) |
-| Mon, 15 Dec 2025 17:33:27 GMT | The Fight for Neural Sovereignty Is Just Beginning | Len Noe | [Read More](https://medium.com/p/4a140f28d83c) |
-| Mon, 15 Dec 2025 17:30:30 GMT | I’m not arrogant — I just execute what others only talk about. | Neerav | [Read More](https://medium.com/p/55cdac9f49cc) |
-| Mon, 15 Dec 2025 17:29:46 GMT | A Turning Point for Britain’s Digital Defences | Digital Auditor | [Read More](https://medium.com/p/317ff0a0accd) |
-| Mon, 15 Dec 2025 17:27:49 GMT | In-the-Wild Threat Hunting Using Composite Scoring and VirusTotal Telemetry | Manuel Arrieta | [Read More](https://medium.com/p/53605f27ae17) |
-| Mon, 15 Dec 2025 17:22:24 GMT | How Ride-Sharing Apps Solve Bipartite Matching at Scale | The Dev Notebook | [Read More](https://medium.com/p/a0150deda26d) |
-| Mon, 15 Dec 2025 17:22:14 GMT | Go’s crypto/… Packages Don’t Make Crypto Easy — They Make It Possible | syarif | [Read More](https://medium.com/p/047f3420feb1) |
-| Mon, 15 Dec 2025 17:18:09 GMT | 700Credit LLC Data Breach Highlights Third-Party Cyber Risks in Automotive Finance | Legal Thoughts | [Read More](https://medium.com/p/f99f9a0bd819) |
