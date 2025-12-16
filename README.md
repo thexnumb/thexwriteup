@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Dec 2025 01:44:01 GMT | Review eMAPT: Cómo logré certificarme en Pentesting Móvil | B13ss3d | [Read More](https://medium.com/p/4f57beb65372) |
+| Tue, 16 Dec 2025 01:37:18 GMT | What Happens When You Paste Text Into Grammarly? | A D | [Read More](https://medium.com/p/bf0e4d74ea33) |
+| Tue, 16 Dec 2025 01:22:16 GMT | AdsPower Achieves SOC 2 Type II Attestation: A New Milestone in International-Grade Security | AdsPower Browser | [Read More](https://medium.com/p/933aa2fdc03a) |
+| Tue, 16 Dec 2025 01:02:32 GMT | O Gato de Schrödinger — Pwn Challenge | FireUAI | [Read More](https://medium.com/p/e0f593b50489) |
+| Tue, 16 Dec 2025 00:57:59 GMT | Surprise Exit Instead of an IPO: ServiceNow and Armis’s $7 Billion Flirtation | Enes Karataş | [Read More](https://medium.com/p/18f4ff7faf38) |
+| Tue, 16 Dec 2025 00:51:13 GMT | Software Composition Analysis (SCA): Managing Open-Source Risk in Modern Applications | Nima Bargestan | [Read More](https://medium.com/p/b53a0d86ed58) |
+| Tue, 16 Dec 2025 00:49:33 GMT | When People Become The Weakest Link In Security | Geoffrey Wenger | [Read More](https://medium.com/p/d8da9e3edcee) |
+| Tue, 16 Dec 2025 00:49:25 GMT | Website Security Basics That Actually Protect Real Sites | Geoffrey Wenger | [Read More](https://medium.com/p/2450f1bc6c21) |
+| Tue, 16 Dec 2025 00:36:18 GMT | Stars | Chris Perkins | [Read More](https://medium.com/p/db8b363a11dd) |
+| Tue, 16 Dec 2025 00:33:52 GMT | How to Build an Asset Register in a Single Day (and Stop Failing Cyber Essentials Plus) | Laurentiu Barbu | [Read More](https://medium.com/p/f31cd6e319ca) |
+| Tue, 16 Dec 2025 00:18:01 GMT | Cutting Through the Noise: Why Complexity Is the Real AI Security Risk | Jaz Lin | [Read More](https://medium.com/p/6efd3b94f0eb) |
+| Tue, 16 Dec 2025 00:13:49 GMT | Apple Patches Sophisticated Zero-Days in Targeted Attacks | Abstract Mind | [Read More](https://medium.com/p/468f67dfc8df) |
+| Tue, 16 Dec 2025 00:02:38 GMT | API10–2023: Unsafe Consumption of APIs — Explotación y Mitigación | JPablo13 | [Read More](https://medium.com/p/2ec626af806e) |
+| Mon, 15 Dec 2025 23:50:08 GMT | Why I Care About Cybersecurity, UX, and Anti-fragile Systems | Casandra Cain | [Read More](https://medium.com/p/f98b99be6abe) |
+| Mon, 15 Dec 2025 23:48:06 GMT | I Asked Gandalf AI for a Secret It Wasn’t Allowed to Share | Krono | [Read More](https://medium.com/p/9d39b2591fe4) |
+| Mon, 15 Dec 2025 23:42:15 GMT | It Looks Like a Warning: Building Vulnerability Management Maturity | Jeff Kingsland | [Read More](https://medium.com/p/f20f38e25834) |
 | Mon, 15 Dec 2025 23:29:24 GMT | Seasons— The "Face of the Leaf" | Lilacs violet | [Read More](https://medium.com/p/1990befd8e82) |
 | Mon, 15 Dec 2025 23:29:16 GMT | A Practical Guide to Typography Hierarchy in UI Systems | Haadi Alhassan | [Read More](https://medium.com/p/bf6a792c3302) |
 | Mon, 15 Dec 2025 22:59:46 GMT | Cyber Essentials Explained: The UK Cybersecurity Badge Your Business Can’t Ignore in 2026 | Laurentiu Barbu | [Read More](https://medium.com/p/f6636405fbb9) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Dec 2025 17:22:24 GMT | How Ride-Sharing Apps Solve Bipartite Matching at Scale | The Dev Notebook | [Read More](https://medium.com/p/a0150deda26d) |
 | Mon, 15 Dec 2025 17:22:14 GMT | Go’s crypto/… Packages Don’t Make Crypto Easy — They Make It Possible | syarif | [Read More](https://medium.com/p/047f3420feb1) |
 | Mon, 15 Dec 2025 17:18:09 GMT | 700Credit LLC Data Breach Highlights Third-Party Cyber Risks in Automotive Finance | Legal Thoughts | [Read More](https://medium.com/p/f99f9a0bd819) |
-| Mon, 15 Dec 2025 17:17:15 GMT | System Incident Report: FLIPKART-DELIVERY-2025–12–15 | Jayal Yadav | [Read More](https://medium.com/p/fd66a02e8d0a) |
-| Mon, 15 Dec 2025 17:14:16 GMT | HTB Cap Write-up beginner friendly | Tokiko | [Read More](https://medium.com/p/83da2a3e2cae) |
-| Mon, 15 Dec 2025 17:13:24 GMT | Security and Performance Aspects of ZFS on Linux Advanced | Linux Guide | [Read More](https://medium.com/p/6472ab8c6c87) |
-| Mon, 15 Dec 2025 17:13:11 GMT | Day 15 — How to Respond to an Ongoing Compromise (Hawk’s Path) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/1d1af805ee6f) |
-| Mon, 15 Dec 2025 17:05:06 GMT | Advent of Cyber 2025 Day5 — Tryhackme walkthrough(IDOR — Santa’s Little IDOR) | TRedEye | [Read More](https://medium.com/p/9d3d8f961fdf) |
-| Mon, 15 Dec 2025 17:04:47 GMT | Advent of Cyber 2025 - Day 15 Web Attack Forensics - Drone Alone | Akshat Patel | [Read More](https://medium.com/p/6936bc6711ce) |
-| Mon, 15 Dec 2025 17:04:42 GMT | CDK Tool— Konteyner Sızma Aracı | Adil Azimdegil | [Read More](https://medium.com/p/64d51b320bef) |
-| Mon, 15 Dec 2025 17:03:37 GMT | Adding Authentication to Elixir Native Kafka Client: Trust, but Verify | Anton Borisov | [Read More](https://medium.com/p/f7d6d3876cff) |
-| Mon, 15 Dec 2025 16:59:13 GMT | What is a DAST scan anyway? | ShiftLeftSec | [Read More](https://medium.com/p/5aaeac232540) |
-| Mon, 15 Dec 2025 16:54:37 GMT | Contec CMS8000 undocumented behaviors compared to what the FDA Approved | Karambit.AI | [Read More](https://medium.com/p/7f7bc4cd4e4b) |
-| Mon, 15 Dec 2025 16:51:22 GMT | Protect Your Business Before Attackers Strike | Dr. Shashi Karhail | [Read More](https://medium.com/p/6e31748cf68c) |
-| Mon, 15 Dec 2025 16:50:25 GMT | Hands-On API Security: Lessons from a Vulnerable JWT Implementation | Ian Zammit | [Read More](https://medium.com/p/38a1dac71fab) |
-| Mon, 15 Dec 2025 16:45:55 GMT | A Simple Guide to the MITRE ATT&CK Framework | Kota Deepak sai | [Read More](https://medium.com/p/6e1e9a319eba) |
-| Mon, 15 Dec 2025 16:36:53 GMT | The Complete Guide to Modern Identity Theft Prevention | Mr Technology | [Read More](https://medium.com/p/376a426fb14d) |
-| Mon, 15 Dec 2025 16:27:50 GMT | [90 days to CompTIA Security+] — Day 1/90 | Lam Nguyen | [Read More](https://medium.com/p/4f934b7f853e) |
-| Mon, 15 Dec 2025 16:23:02 GMT | Long Rallies Aren’t Just Boring, They Make Us Less Safe | Patrick Young | [Read More](https://medium.com/p/14d829e52d9b) |
