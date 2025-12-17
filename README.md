@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 19:09:54 GMT | Event Security London — Reliable & Licensed Event Security by WA Event Services | waeventservices.co.uk/ | [Read More](https://medium.com/p/da6a3e77ac57) |
+| Wed, 17 Dec 2025 18:59:00 GMT | Day 135 — Bohemoth Level-0 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/526322cb5aa3) |
+| Wed, 17 Dec 2025 18:51:35 GMT | Home Office Security for Businesses: How to Protect Remote Employees and Data | Cordula Boeck | [Read More](https://medium.com/p/7df4a334d157) |
+| Wed, 17 Dec 2025 18:40:19 GMT | DOM Based XSS: Görünmeyen Ama Tehlikeli | Melih Yılmaz | [Read More](https://medium.com/p/ce24ac706330) |
+| Wed, 17 Dec 2025 18:38:17 GMT | Review of Antisyphon On-Demand Trainings | haarlems | [Read More](https://medium.com/p/671866aaf15c) |
+| Wed, 17 Dec 2025 18:25:01 GMT | A Personal Security Guide for 2026: Simple Habits to Stay Safe in a Smarter Digital World | Emmanuel Okon | [Read More](https://medium.com/p/d19eac50fa4e) |
 | Wed, 17 Dec 2025 18:20:32 GMT | Node.js Security Essentials: Hardening Express with Ken Key | Kenny Key - SEO & Local Growth Strategist | [Read More](https://medium.com/p/a37062383017) |
 | Wed, 17 Dec 2025 18:19:07 GMT | Course Google Security Operations — Deep Dive and ls101 | Mmohammadsalman | [Read More](https://medium.com/p/94804b93425b) |
 | Wed, 17 Dec 2025 18:17:08 GMT | Securely Connecting Azure Databricks to ADLS Gen2 | Mattevikramkumar | [Read More](https://medium.com/p/ecd184a54fc9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 13:19:24 GMT | Android 16’s New Security Feature: A Shield Against Accessibility API Abuse | Jackson F. de A. M. | [Read More](https://medium.com/p/4bdaf4f214f3) |
 | Wed, 17 Dec 2025 13:18:04 GMT | CRITICAL ALERT: React2Shell (CVE-2025–55182) Allows Remote Code Execution in Next.js and React SSR | Ashish Sharda | [Read More](https://medium.com/p/5f5efb56c81e) |
 | Wed, 17 Dec 2025 13:11:54 GMT | You Might Just Stab Me Directly in My Heart | august | [Read More](https://medium.com/p/0407bc9607a8) |
-| Wed, 17 Dec 2025 13:10:16 GMT | The GRANITE Act and the Online Safety Act: Understanding the Global Battle Over Internet Freedom | Rabib Bin Nur | [Read More](https://medium.com/p/db631e23b0a5) |
-| Wed, 17 Dec 2025 13:07:25 GMT | PCI Data Security Requirements Explained: A Complete Guide for Businesses | QualysecEurope | [Read More](https://medium.com/p/4b799f48b014) |
-| Wed, 17 Dec 2025 13:06:01 GMT | I Found a $10,000 Bug by Bypassing a 403 Forbidden Page | Codi | [Read More](https://medium.com/p/1e588fb9dd4b) |
-| Wed, 17 Dec 2025 13:02:55 GMT | Linux Security Habit #8 — The One Kernel Check That Exposes Rootkits and Deep Persistence | Faruk Ahmed | [Read More](https://medium.com/p/8cf6b2a4bd2b) |
-| Wed, 17 Dec 2025 13:00:02 GMT | Why Scanners Miss the Most Expensive Bugs (And Why Humans Still Get Paid) | Krish_cyber | [Read More](https://medium.com/p/7badb8b2ad5b) |
-| Wed, 17 Dec 2025 12:57:24 GMT | SOC Services: Powering Proactive and Resilient Cybersecurity | Eventus Security Private Limited | [Read More](https://medium.com/p/42ec08692e7d) |
