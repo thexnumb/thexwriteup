@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 06:31:43 GMT | Trust: The New Attack Surface in Cybersecurity | Shreya | [Read More](https://medium.com/p/1097b9e6694f) |
+| Wed, 17 Dec 2025 06:30:57 GMT | How I Hacked an Entrepreneur | StvRoot | [Read More](https://medium.com/p/19d270a62c5c) |
+| Wed, 17 Dec 2025 06:27:23 GMT | The Daily Tech Digest: 17 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7de090c85559) |
+| Wed, 17 Dec 2025 06:25:35 GMT | Emerging Careers in Cybersecurity: What Roles Are Hot and Which Certifications Open the Door | Sec Guy | [Read More](https://medium.com/p/74b2607052b2) |
+| Wed, 17 Dec 2025 06:22:47 GMT | Day 9 — Project Uber. Implementing Security and login configs | Yasif khan | [Read More](https://medium.com/p/3dc7bb3244dd) |
+| Wed, 17 Dec 2025 06:18:57 GMT | Beyond Testing | Tech and Marketing Journal | [Read More](https://medium.com/p/ae0d94f63872) |
+| Wed, 17 Dec 2025 06:18:42 GMT | Unlimited ISP Proxies: Avoid Throttles & Bans | HashCrest | [Read More](https://medium.com/p/71c5f71251c0) |
+| Wed, 17 Dec 2025 06:15:40 GMT | When finance sees too much | Andrea Belvedere | [Read More](https://medium.com/p/32b5525085f8) |
+| Wed, 17 Dec 2025 06:13:45 GMT | The Cryptography Concept Journey -Digital Signature | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/63bacd12e39d) |
+| Wed, 17 Dec 2025 06:13:10 GMT | Digital Forensics-[Ali Hadi — Mystery Hacked System Case] | whoami | [Read More](https://medium.com/p/24f3b6cb1a08) |
+| Wed, 17 Dec 2025 06:11:18 GMT | sYou Got an Apple ‘Spyware Attack’ Alert. Here’s What It Actually Means. | RayasWeb | [Read More](https://medium.com/p/7a29b4808cc0) |
+| Wed, 17 Dec 2025 06:08:32 GMT | AI-Agent-Prompts | Abdul Majid Jamil | [Read More](https://medium.com/p/66222797b0f6) |
+| Wed, 17 Dec 2025 05:55:42 GMT | Forensics — Registry Furensics | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/2200861c6357) |
+| Wed, 17 Dec 2025 05:55:23 GMT | How AI Is Transforming the Way Faceless Content Channels Are Built | Nani | [Read More](https://medium.com/p/282eab44972e) |
+| Wed, 17 Dec 2025 05:53:32 GMT | Cyber Risk Is Now a Boardroom Metric, Yet Most Boards Still Treat It Like IT | Jennifer Lawrence | [Read More](https://medium.com/p/d0dbad6755ad) |
 | Wed, 17 Dec 2025 05:43:39 GMT | Proven Strategies: Affordable Website Maintenance Services for Businesses That Prevent Costly… | IT Company | [Read More](https://medium.com/p/a391033f5375) |
 | Wed, 17 Dec 2025 05:38:31 GMT | How I hacked a Jenkins endpoint and leaked critical information | محمد بن إبراهيم | [Read More](https://medium.com/p/87097f21789c) |
 | Wed, 17 Dec 2025 05:32:31 GMT | Insider Secrets to Building a Strong Cyber Defense | Kadhijahafiya | [Read More](https://medium.com/p/8406ac7fd33f) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 20:07:36 GMT | Dehumanization the Bot Way | Ruthie Owen-Moreno | [Read More](https://medium.com/p/bc9a7542c845) |
 | Tue, 16 Dec 2025 19:59:45 GMT | Why Agentic AI Amplifies Configuration Debt (and How to Contain It) | Donovan_Distracted | [Read More](https://medium.com/p/ce83aee96546) |
 | Tue, 16 Dec 2025 19:52:21 GMT | CyberExam Sqlmap for Beginners lab Writeup | FYC | [Read More](https://medium.com/p/765d9c2faa10) |
-| Tue, 16 Dec 2025 19:52:01 GMT | Authentication vs Authorization — What's the Difference? | Damir Kolobaric | [Read More](https://medium.com/p/44265c869c5f) |
-| Tue, 16 Dec 2025 19:41:23 GMT | LFI to RCE via Log Poisoning: A Hands-On Exploit Guide | Raj Prasad Kuiri | [Read More](https://medium.com/p/621255a547c4) |
-| Tue, 16 Dec 2025 19:40:37 GMT | Forensics — Registry Furensics AOC 2025 Day 16 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/8bffbecd0d74) |
-| Tue, 16 Dec 2025 19:40:01 GMT | The CrowdStrike Crisis Taught Us We’re Practicing the Wrong Scenarios | Tyson Martin | [Read More](https://medium.com/p/21ad8e1c3193) |
-| Tue, 16 Dec 2025 19:32:47 GMT | Editor Hack The Box Walkthrough | NourInTech | [Read More](https://medium.com/p/74a3acdc4bbe) |
-| Tue, 16 Dec 2025 19:31:45 GMT | CVE Record Disputes, Explained: A Community Path to Clearer Vulnerability Data in a… | CVE Program Blog | [Read More](https://medium.com/p/271a6b5e1054) |
-| Tue, 16 Dec 2025 19:23:27 GMT | The Real Cost of Oracle Security | Chain Love | [Read More](https://medium.com/p/c34dd26d7760) |
-| Tue, 16 Dec 2025 19:21:01 GMT | Install OpenCTI using Docker for Threat Intelligence (Step-by-Step) | 0xRahuL | [Read More](https://medium.com/p/1113ac52ad98) |
-| Tue, 16 Dec 2025 19:18:02 GMT | 3 Common ARP Attacks Explained | Geexirooz | [Read More](https://medium.com/p/76a6db647836) |
-| Tue, 16 Dec 2025 19:15:10 GMT | Azure SOC Honeypot Lab: Mapping Real-World RDP Brute-Force Activity with Microsoft Sentinel | Mark Csete | [Read More](https://medium.com/p/e47630726e6d) |
-| Tue, 16 Dec 2025 19:01:10 GMT | ‎‎ ‎‎‎⠀⠀⠀⠀⠀⠀Burp Suite Intruder | Akshay | [Read More](https://medium.com/p/89d4deb4db05) |
-| Tue, 16 Dec 2025 18:57:10 GMT | LLMs Are Not Enough: Introducing Large Action Models (LAM) | Lakshmi Priya Sridharan | [Read More](https://medium.com/p/448476e87f10) |
-| Tue, 16 Dec 2025 18:52:24 GMT | Why Java Systems Prefer Time-Based Algorithms Over State-Based Ones | The Dev Notebook | [Read More](https://medium.com/p/2dc586c4f58d) |
-| Tue, 16 Dec 2025 18:48:18 GMT | How SMEs Can Train Employees to Recognize Phishing Attacks | Cordula Boeck | [Read More](https://medium.com/p/2be07cabe5cb) |
-| Tue, 16 Dec 2025 18:46:08 GMT | Linux Privilege Escalation Prevention Techniques | Esra Kayhan | [Read More](https://medium.com/p/aa0849829945) |
