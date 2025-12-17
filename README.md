@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 21:31:48 GMT | I Scored 100% on OSCP After 6 Months of Hell (Here’s Everything I Learned) | Abdullah Javeed | [Read More](https://medium.com/p/19d31cd89503) |
+| Wed, 17 Dec 2025 21:28:41 GMT | HackTheBox Challenge Writeup: ReactOOPS | Rahaliashraf | [Read More](https://medium.com/p/4fd619b671ff) |
+| Wed, 17 Dec 2025 21:23:08 GMT | A Ordem do Código Limpo | Kleber Andrade | [Read More](https://medium.com/p/299094b49fad) |
+| Wed, 17 Dec 2025 21:21:42 GMT | Why They Stop Trying Once They Know You Won’t Leave | Bloom with Maria | [Read More](https://medium.com/p/4ecd43341fdd) |
 | Wed, 17 Dec 2025 21:02:54 GMT | Pentest to CVE Research | Edward Amarh | [Read More](https://medium.com/p/7462804c0750) |
 | Wed, 17 Dec 2025 21:01:18 GMT | Getting Started with Burp Suite for API Security Testing | Joyatee Datta | [Read More](https://medium.com/p/1221387c9ef1) |
 | Wed, 17 Dec 2025 20:51:05 GMT | The Myth of the “Brilliant Hacker” | Abba Abdullahi Wakili | [Read More](https://medium.com/p/706f39b22bc8) |
@@ -109,7 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 14:59:01 GMT | Kubernetes 1.35 Security: 7 Game-Changing Features Released Today (DevSecOps Must-Know) | inboryn | [Read More](https://medium.com/p/637b696b0491) |
 | Wed, 17 Dec 2025 14:58:51 GMT | 7 Open Source Intelligence (OSINT) Tools — Investigate The Digital Traces | Byte Hawk | [Read More](https://medium.com/p/88f5976caa50) |
 | Wed, 17 Dec 2025 14:54:15 GMT | ️ Windows Defender Bypasses in 2025: Why Public Tools Still Work — and Why Cybersecurity Pros… | Yua Mikanana | [Read More](https://medium.com/p/468309134cff) |
-| Wed, 17 Dec 2025 14:53:23 GMT | Storm | Alizabeth Amelia Rose | [Read More](https://medium.com/p/3ff2c98415ec) |
-| Wed, 17 Dec 2025 14:52:15 GMT | The $50 Million Code Bug That’s Still Emptying Crypto Wallets (And How to Stop It Before It Hits… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/a4891f4b0dd1) |
-| Wed, 17 Dec 2025 14:42:33 GMT | # The API Endpoint That Shouldn’t Have Exposed 50,000 User Records | Abdulbar | [Read More](https://medium.com/p/4b29b9f20df2) |
-| Wed, 17 Dec 2025 14:40:54 GMT | WHAT PROFESSIONAL BURGLARS ARE ACTUALLY LOOKING FOR WHEN THEY WATCH YOUR HOUSE | Safewithyvonne | [Read More](https://medium.com/p/d67361110d44) |
