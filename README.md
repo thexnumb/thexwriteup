@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 05:21:47 GMT | Staying Ahead in Digital Parenting! | MrKarthikKN | [Read More](https://medium.com/p/53c6fcb075dd) |
+| Wed, 17 Dec 2025 05:13:53 GMT | Switching Between VPN Providers Automatically: Why It Matters and When to Do It | ghostyjoe | [Read More](https://medium.com/p/539888d8d41b) |
+| Wed, 17 Dec 2025 05:05:10 GMT | NetworkMiner — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/54ceced3f5ec) |
+| Wed, 17 Dec 2025 05:03:49 GMT | Holiday Security Alert: How to Spot and Avoid Fake QR Codes | Sanket Ligade | [Read More](https://medium.com/p/db2e82dfc5c8) |
+| Wed, 17 Dec 2025 04:56:13 GMT | Good Engineers Fix Bugs. Great Engineers Design Systems Where Bugs Are Boring | Krati Varshney | [Read More](https://medium.com/p/2a71b7ccb6d8) |
 | Wed, 17 Dec 2025 04:46:12 GMT | What Is Dual-Band WiFi and Why It Improves Internet Speed? | Ask IT Support | [Read More](https://medium.com/p/0af32a76f304) |
 | Wed, 17 Dec 2025 04:39:27 GMT | Cross-Site Scripting Via Unsanitized Input In a PHP Endpoint | Ajay | [Read More](https://medium.com/p/993266129f5d) |
 | Wed, 17 Dec 2025 04:35:31 GMT | DOCUMENTING MY JOURNEY TOWARDS DECENTRALISED AI AND BLOCKCHAIN CYBERSECURITY | Adesowapo Adeyemi | [Read More](https://medium.com/p/32e7004c1a02) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 18:31:28 GMT | Infinity Learning lab: Assume & Decrypt (or vice versa)— Writeup | Hubert | [Read More](https://medium.com/p/b65eb8431f3b) |
 | Tue, 16 Dec 2025 18:31:23 GMT | Game of Death for Cybersecurity (Defense-in-Depth Series) | Michael Wills | [Read More](https://medium.com/p/e7ad1097cf47) |
 | Tue, 16 Dec 2025 18:29:35 GMT | pgAdmin 4 Meta-Command Filter Bypass — RCE | Cybersecplayground | [Read More](https://medium.com/p/8c22e9f1983d) |
-| Tue, 16 Dec 2025 18:27:21 GMT | Containers — DoorDasher’s Demise - AoC 2025 Day — 14 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/7e9b7f9255f4) |
-| Tue, 16 Dec 2025 18:26:51 GMT | The Energy Cost of AI Is Becoming a National Security Issue | Ezhil | [Read More](https://medium.com/p/7643a1658db9) |
-| Tue, 16 Dec 2025 18:24:17 GMT | The State AI Regulation Trap: How Well-Meaning Laws Accidentally Strengthen Big Tech | Chris | [Read More](https://medium.com/p/76a1b3670285) |
-| Tue, 16 Dec 2025 18:23:50 GMT | Why Your “Smart” Rate Limiter Punishes Good Users First | Logic Over Latte | [Read More](https://medium.com/p/8bce4dacf27a) |
-| Tue, 16 Dec 2025 18:21:14 GMT | 6 Shocking Truths About 2025’s Most Dangerous Hacker Supergroup | Allan & Ida | [Read More](https://medium.com/p/f38f70fdc934) |
