@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 03:11:33 GMT | The Iron Guard: Securing Your Observability Stack at Enterprise Scale | Srikanta Sahu | [Read More](https://medium.com/p/6334effd1e39) |
+| Wed, 17 Dec 2025 03:06:44 GMT | Agentic AI Red Teaming Jobs in 2025–2026: How to Build a Career in the Hottest New Cyber Role | Sajidur Rahman | [Read More](https://medium.com/p/b993f22ff9c3) |
+| Wed, 17 Dec 2025 02:50:39 GMT | Exposure Management: The Strategic Evolution Every Cybersecurity Team Needs | anthony k | [Read More](https://medium.com/p/38b58926e720) |
+| Wed, 17 Dec 2025 02:00:18 GMT | #طنز #خنده #فیل #فیلم #داف #داف_ایرانی #دخترسکسی #دخترایرانی #موزیک #تهران #شیرآز #أصفهان #تبریز… | شماره خاله اصفهان09387543619 | [Read More](https://medium.com/p/6b41bce97948) |
+| Wed, 17 Dec 2025 01:59:26 GMT | برنامه فول ماساژ جلسه ایی کایلی جنری اصفهلن09398300686 | شماره خاله اصفهان09387543619 | [Read More](https://medium.com/p/e790244a4249) |
+| Wed, 17 Dec 2025 01:58:37 GMT | React2Shell: The High Price of a Fast Web | Louis Phang | [Read More](https://medium.com/p/55d501e8594f) |
+| Wed, 17 Dec 2025 01:57:08 GMT | Where Do Our Vulnerabilities Lie? | RJNarina | [Read More](https://medium.com/p/451d57e3e0b7) |
 | Wed, 17 Dec 2025 01:43:08 GMT | Recreating CVE‑2025‑55184: React Server Components DoS (Lab POC) | Tarekh Shaikh | [Read More](https://medium.com/p/e9ced4c296bd) |
 | Wed, 17 Dec 2025 01:42:16 GMT | Beyond Words: The Profound Power of True Empathy and Genuine Care in Relationships | Austi Gene | [Read More](https://medium.com/p/02fb348b1511) |
 | Wed, 17 Dec 2025 01:39:52 GMT | React2Shell Apocalypse: CVE-2025-55182 RCE Tears Through React/Next.js | Krishnendu Bhowmick | [Read More](https://medium.com/p/34bc9a28c7b0) |
@@ -69,6 +76,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 19:01:10 GMT | ‎‎ ‎‎‎⠀⠀⠀⠀⠀⠀Burp Suite Intruder | Akshay | [Read More](https://medium.com/p/89d4deb4db05) |
 | Tue, 16 Dec 2025 18:57:10 GMT | LLMs Are Not Enough: Introducing Large Action Models (LAM) | Lakshmi Priya Sridharan | [Read More](https://medium.com/p/448476e87f10) |
 | Tue, 16 Dec 2025 18:52:24 GMT | Why Java Systems Prefer Time-Based Algorithms Over State-Based Ones | The Dev Notebook | [Read More](https://medium.com/p/2dc586c4f58d) |
+| Tue, 16 Dec 2025 18:48:18 GMT | How SMEs Can Train Employees to Recognize Phishing Attacks | Cordula Boeck | [Read More](https://medium.com/p/2be07cabe5cb) |
 | Tue, 16 Dec 2025 18:46:08 GMT | Linux Privilege Escalation Prevention Techniques | Esra Kayhan | [Read More](https://medium.com/p/aa0849829945) |
 | Tue, 16 Dec 2025 18:44:34 GMT | Network Protocol Anomaly Detection: Going Beyond Signature-Based Security | Esra Kayhan | [Read More](https://medium.com/p/b1fd9cbc10b7) |
 | Tue, 16 Dec 2025 18:43:21 GMT | Authentication and Authorization: Best Practices for Application Security | Jen Cracchiola | [Read More](https://medium.com/p/68bbccb5054b) |
@@ -83,12 +91,14 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 18:21:14 GMT | 6 Shocking Truths About 2025’s Most Dangerous Hacker Supergroup | Allan & Ida | [Read More](https://medium.com/p/f38f70fdc934) |
 | Tue, 16 Dec 2025 18:14:34 GMT | Inside a Support Scam | Connor Kenway | [Read More](https://medium.com/p/9e853c8eec4d) |
 | Tue, 16 Dec 2025 18:12:50 GMT | If you’ve ever clicked endlessly through the AWS Console, you already know the feeling, too many… | Aadeyemikazeem | [Read More](https://medium.com/p/8b39d37171f9) |
+| Tue, 16 Dec 2025 18:08:49 GMT | Cybersecurity Credentials You Can Earn with Air Force COOL in 2026 | Ccsglobaltech Marcom | [Read More](https://medium.com/p/9e5b53ed4dca) |
 | Tue, 16 Dec 2025 18:02:28 GMT | RPC Providers Under Load: 10 Security Postures That Hold | Velorum | [Read More](https://medium.com/p/ca3d2a55c150) |
 | Tue, 16 Dec 2025 18:02:26 GMT | PicoCTF Writeups — asm2 | SoBatista | [Read More](https://medium.com/p/862c815bbd61) |
 | Tue, 16 Dec 2025 18:02:20 GMT | DeepSeek Injects 50% More Vulnerabilities When You Mention Tibet | MohamedAbdelmenem | [Read More](https://medium.com/p/049dabc5c3e1) |
 | Tue, 16 Dec 2025 18:02:20 GMT | Names, Emails, Locations, Device IDs: What One OpenAI Vendor Export Gave Hackers | MohamedAbdelmenem | [Read More](https://medium.com/p/51721f806f35) |
 | Tue, 16 Dec 2025 17:59:53 GMT | HTTP Status Codes Cheatsheet | Khalil Z. | [Read More](https://medium.com/p/d19b23dfa17a) |
 | Tue, 16 Dec 2025 17:51:37 GMT | HOW I PERFOMED BASIC API SECURITY TESTS USING POSTMAN | Madalitso Cheyo | [Read More](https://medium.com/p/6f4763cd25f9) |
+| Tue, 16 Dec 2025 17:49:33 GMT | SoundCloud Confirms Data Breach Affecting 20% of Users | Chetan Seripally | [Read More](https://medium.com/p/987094662a05) |
 | Tue, 16 Dec 2025 17:48:14 GMT | How a Social Engineering Call Bypassed Millions Worth of Security | Digital Defense | [Read More](https://medium.com/p/8101bc7601e9) |
 | Tue, 16 Dec 2025 17:46:36 GMT | When HTML5 Videos Refuse to Play: Debugging the “Video File Not Found” Error on Ubuntu — 2/3 | Anzalo Quin | [Read More](https://medium.com/p/3ba0937e065c) |
 | Tue, 16 Dec 2025 17:45:27 GMT | Advent of Cyber 2025 Day 16 - TryHackMe - Forensics — Registry Furensics - WriteUp | Axoloth | [Read More](https://medium.com/p/2dac823000f1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 17:21:18 GMT | Top Tech Skills Trending in 2025 | Freaky Irfuu.. | [Read More](https://medium.com/p/82789d81a30b) |
 | Tue, 16 Dec 2025 17:21:18 GMT | How to Build APIs That Can’t Be Tricked: Secure Request Validation in Go | syarif | [Read More](https://medium.com/p/ad73dac8bf1f) |
 | Tue, 16 Dec 2025 17:16:15 GMT | How Does AI Detect Spam? (Explained Simply) | Prapti Vahia | [Read More](https://medium.com/p/dc3570e03750) |
-| Tue, 16 Dec 2025 17:15:51 GMT | The Day We Learn to Receive Love | Lys B | [Read More](https://medium.com/p/c8f53d98c836) |
-| Tue, 16 Dec 2025 17:15:26 GMT | CVE‑2025‑66516: Critical XXE in Apache Tika (PDF Uploads at Risk) | vinod | [Read More](https://medium.com/p/e011ccd61e52) |
-| Tue, 16 Dec 2025 17:06:59 GMT | SOAR and SIEM Explained: Cloud-Native Security Automation for Modern SOCs | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/269826798562) |
-| Tue, 16 Dec 2025 17:05:34 GMT | How To Deploy Keys for SSH Authentication | Hugo Enrique López Pérez | [Read More](https://medium.com/p/6c66ea3fedb3) |
-| Tue, 16 Dec 2025 17:03:35 GMT | Advent of Cyber 2025 - Day 16: Forensics — Registry Furensics | D4m.sh | [Read More](https://medium.com/p/6dc3f3b65ca6) |
-| Tue, 16 Dec 2025 17:00:27 GMT | Le Lexique du Diplomate : Au-delà du Champ de Bataille — Redéfinir la Sécurité comme Sécurité… | Giulia Corso | [Read More](https://medium.com/p/95b75072c4cb) |
-| Tue, 16 Dec 2025 16:59:04 GMT | The Diplomat’s Lexicon: Beyond the Battlefield — Redefining Security as Human Security | Giulia Corso | [Read More](https://medium.com/p/1552aaff2ea1) |
-| Tue, 16 Dec 2025 16:52:22 GMT | Demystifying OAuth 2.0: A Technical Deep Dive into the Google Login Flow | Ahmed Haseen | [Read More](https://medium.com/p/c2c5f17522a2) |
-| Tue, 16 Dec 2025 16:45:49 GMT | HackTheBox Machine : Cap (Network Traffic Analysis) | Rafael Cliffordtan | [Read More](https://medium.com/p/12b4634d2cb8) |
-| Tue, 16 Dec 2025 16:45:47 GMT | SoundCloud Data Breach: What Happened and How to Protect Your Account | Technijian | [Read More](https://medium.com/p/01ab54abb521) |
