@@ -12,11 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 13:31:32 GMT | Splunk Security Use Cases: A Practical Guide for Real — World Threat Detection‍ | Shakthi | [Read More](https://medium.com/p/a067fd6054a0) |
+| Wed, 17 Dec 2025 13:30:10 GMT | Hidden Holiday Email Trackers: How Retailers Profile Your Inbox | Karl Buhl | [Read More](https://medium.com/p/0ac840f472fd) |
+| Wed, 17 Dec 2025 13:22:41 GMT | K9 Security Services | Target securitygroup | [Read More](https://medium.com/p/3d5edf6fa147) |
+| Wed, 17 Dec 2025 13:20:08 GMT | Roaming fields in search of potential vulnerabilities | Unicorn Developer | [Read More](https://medium.com/p/f4339b37c1f0) |
+| Wed, 17 Dec 2025 13:19:24 GMT | Android 16’s New Security Feature: A Shield Against Accessibility API Abuse | Jackson F. de A. M. | [Read More](https://medium.com/p/4bdaf4f214f3) |
+| Wed, 17 Dec 2025 13:18:04 GMT | CRITICAL ALERT: React2Shell (CVE-2025–55182) Allows Remote Code Execution in Next.js and React SSR | Ashish Sharda | [Read More](https://medium.com/p/5f5efb56c81e) |
+| Wed, 17 Dec 2025 13:11:54 GMT | You Might Just Stab Me Directly in My Heart | august | [Read More](https://medium.com/p/0407bc9607a8) |
+| Wed, 17 Dec 2025 13:10:16 GMT | The GRANITE Act and the Online Safety Act: Understanding the Global Battle Over Internet Freedom | Rabib Bin Nur | [Read More](https://medium.com/p/db631e23b0a5) |
+| Wed, 17 Dec 2025 13:07:25 GMT | PCI Data Security Requirements Explained: A Complete Guide for Businesses | QualysecEurope | [Read More](https://medium.com/p/4b799f48b014) |
+| Wed, 17 Dec 2025 13:06:01 GMT | I Found a $10,000 Bug by Bypassing a 403 Forbidden Page | Codi | [Read More](https://medium.com/p/1e588fb9dd4b) |
+| Wed, 17 Dec 2025 13:02:55 GMT | Linux Security Habit #8 — The One Kernel Check That Exposes Rootkits and Deep Persistence | Faruk Ahmed | [Read More](https://medium.com/p/8cf6b2a4bd2b) |
+| Wed, 17 Dec 2025 13:00:02 GMT | Why Scanners Miss the Most Expensive Bugs (And Why Humans Still Get Paid) | Krish_cyber | [Read More](https://medium.com/p/7badb8b2ad5b) |
+| Wed, 17 Dec 2025 12:57:24 GMT | SOC Services: Powering Proactive and Resilient Cybersecurity | Eventus Security Private Limited | [Read More](https://medium.com/p/42ec08692e7d) |
+| Wed, 17 Dec 2025 12:56:48 GMT | Dear Failure, | Summer | [Read More](https://medium.com/p/7e522657ea5e) |
+| Wed, 17 Dec 2025 12:56:43 GMT | From Locks to Zero-Trust: Top Security Concepts Every Engineer Must Master | Lets Learn Now | [Read More](https://medium.com/p/810175957d0f) |
+| Wed, 17 Dec 2025 12:52:40 GMT | When a Zero Trust Firewall is Not a Zero Trust Firewall | Paul Walsh | [Read More](https://medium.com/p/aebd0d9f0459) |
 | Wed, 17 Dec 2025 12:49:09 GMT | I Almost Got Hacked Because I Forgot to Lock My Digital Door | Abdulraheem Abdulsalam | [Read More](https://medium.com/p/8e636c1a2ef0) |
 | Wed, 17 Dec 2025 12:47:26 GMT | Darkweb Safety Tips: Practical Guidance for Safer Research | Tor BBB | [Read More](https://medium.com/p/d84db54f7c12) |
 | Wed, 17 Dec 2025 12:46:31 GMT | SQL Injection — Why It Still Happens | Suraj Bhandari | [Read More](https://medium.com/p/f200825a4f0e) |
 | Wed, 17 Dec 2025 12:42:14 GMT | Top Cybersecurity Threats of 2025: A Guide to Protecting Your Business | Andres Quintero | [Read More](https://medium.com/p/c49d3a804973) |
 | Wed, 17 Dec 2025 12:39:29 GMT | Extracting a Decrypted IPA from a Jailbroken iOS Device (Pentester’s Guide) | Gokul | [Read More](https://medium.com/p/de7639bf1a34) |
+| Wed, 17 Dec 2025 12:35:16 GMT | Disclosure Day by Spielberg | Edoardo Segato-Figueroa | [Read More](https://medium.com/p/4c031c83fd80) |
 | Wed, 17 Dec 2025 12:33:18 GMT | From Playing to Building: My Journey Creating a Personal CTF | Shatrughan | [Read More](https://medium.com/p/c73f792b3160) |
 | Wed, 17 Dec 2025 12:30:36 GMT | Day 3: Linux fundamentals part 1 & 2 | Chloe Bridgens | [Read More](https://medium.com/p/cd5ef35d5ceb) |
 | Wed, 17 Dec 2025 12:27:08 GMT | Stop Duplicating Route Guards and HTTP Interceptors: A Unified Middleware Approach for Angular | Sachin Dilshan | [Read More](https://medium.com/p/418fbceb90c7) |
@@ -43,6 +60,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 11:20:08 GMT | The Backbone of the Web: A Developer’s Guide to HTTP, HTTPS, and SSL | Pattarapol Tantechasa | [Read More](https://medium.com/p/8ea5c60b32f1) |
 | Wed, 17 Dec 2025 11:12:09 GMT | The Internet Is More Than Just a Click: Understanding IP, Ports, and Protocols Behind the… | Habibi | [Read More](https://medium.com/p/f3a85485b1da) |
 | Wed, 17 Dec 2025 11:06:25 GMT | Raccoon Stealer v2: What Every Blockchain Developer Needs to Know About Info-Stealing Malware | DracattusDev | [Read More](https://medium.com/p/ddaa715421d3) |
+| Wed, 17 Dec 2025 11:03:21 GMT | 5 Ways Threat Intelligence Drives SOC ROI: Board-Ready Cases for CISOs | ANY.RUN | [Read More](https://medium.com/p/468a18046777) |
 | Wed, 17 Dec 2025 11:01:51 GMT | How to set up an Active Directory lab at home | Gothos | [Read More](https://medium.com/p/9d469a9901d1) |
 | Wed, 17 Dec 2025 10:50:21 GMT | The Beginning of the End-to-End: How the World’s First Wireless Hack Exposed a Security Myth | Yashas Shetty | [Read More](https://medium.com/p/b9650c182d9b) |
 | Wed, 17 Dec 2025 10:49:05 GMT | Best Endpoint Security Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/29b517444783) |
@@ -95,21 +113,3 @@ Security Platform | Somesh | [Read More](https://medium.com/p/9d3c77246e96) |
 | Wed, 17 Dec 2025 08:09:17 GMT | Most Cybersecurity Advice Is Generic — Here’s How We’re Different: The Problem with Most Security… | Fook Hwa Tan | [Read More](https://medium.com/p/13a3b1ed14a5) |
 | Wed, 17 Dec 2025 08:07:34 GMT | It Wasn’t Easy to Hear, But It Helped Me Grow — Feedback That Changed How I Lead | Fook Hwa Tan | [Read More](https://medium.com/p/6703d1ac9beb) |
 | Wed, 17 Dec 2025 08:02:31 GMT | How to Prevent Ransomware Attacks Step by Step | Manisha Chaudhary | [Read More](https://medium.com/p/109ee1663c6b) |
-| Wed, 17 Dec 2025 08:02:23 GMT | [Part 18] The Next 10 Years of AI Cybersecurity: Trends That Will Define the Industry | Cyberkech | [Read More](https://medium.com/p/064d7c82592a) |
-| Wed, 17 Dec 2025 08:01:24 GMT | 當「看似只是設定問題」的漏洞，升級為實際入侵行動：FortiCloud SSO 驗證機制遭實際攻擊利用 | 竣盟科技Billows | [Read More](https://medium.com/p/31ded851fd14) |
-| Wed, 17 Dec 2025 07:45:36 GMT | Source Code Review for Security | Aishwarya Hiremath | [Read More](https://medium.com/p/455399ec8c70) |
-| Wed, 17 Dec 2025 07:44:54 GMT | Intro to Vulnerability Scanners: What They Tell You and What They Hide | Aj | [Read More](https://medium.com/p/c3dd0b687ef1) |
-| Wed, 17 Dec 2025 07:41:40 GMT | When Security Gets “Selective” — A Reality Every IT Professional Knows Too Well | Vijay Kumar Gupta | [Read More](https://medium.com/p/e6e5f6431cbb) |
-| Wed, 17 Dec 2025 07:32:16 GMT | 10 Compliance-Ready Data Rooms for Web3 Raises | Praxen | [Read More](https://medium.com/p/26b45f86aac7) |
-| Wed, 17 Dec 2025 07:31:55 GMT | Compiler আমাকে যতবার অপমান করেছে | Taminul Islam | [Read More](https://medium.com/p/475a30db47cb) |
-| Wed, 17 Dec 2025 07:31:07 GMT | Breaking Payment Logic With Numbers: A Bug Bounty Story… | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/091b3aa55256) |
-| Wed, 17 Dec 2025 07:25:57 GMT | How Much Does Cyber Insurance Cost in India? A Complete Pricing Guide for Businesses | piyush | [Read More](https://medium.com/p/17449341fd5d) |
-| Wed, 17 Dec 2025 07:25:46 GMT | Day 82- How I accidently found one of the best beginner CTF platforms: OverTheWire | unica 02 | [Read More](https://medium.com/p/9dd59a39f288) |
-| Wed, 17 Dec 2025 07:25:19 GMT | Mastering Next.js Monorepos for Enterprise Scale | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/add8ede5eff1) |
-| Wed, 17 Dec 2025 07:24:56 GMT | I Spoke to a Cybersecurity Professional Who Can’t Get Hired. He Did Nothing Wrong. | Taimur Ijlal | [Read More](https://medium.com/p/d6daf5cb5afe) |
-| Wed, 17 Dec 2025 07:23:36 GMT | Security Lab Simulation Project Part 13: Snort Integration on Elasticsearch and Tshark Installation | Jenny | [Read More](https://medium.com/p/1197c1236349) |
-| Wed, 17 Dec 2025 07:22:26 GMT | Tải Zarchiver Pro Apk (Bản Full) v1.0.10 Miễn Phí | genzvnmod | [Read More](https://medium.com/p/5c11915e7ec7) |
-| Wed, 17 Dec 2025 07:20:46 GMT | Tải Summertime Saga Mod Apk Việt Hóa v22.0.0 | Game4u | [Read More](https://medium.com/p/e62b9b06a7e4) |
-| Wed, 17 Dec 2025 07:20:41 GMT | Design your first Windows Forensics Lab, as a defensive content engineer | Chicken0248 | [Read More](https://medium.com/p/523bf891fbd7) |
-| Wed, 17 Dec 2025 07:18:19 GMT | December 16, 2025 • HarwoodLabs | Chris Harwood | [Read More](https://medium.com/p/fe4e04d34cb2) |
-| Wed, 17 Dec 2025 07:15:29 GMT | Signal Intrusion - Hire Hacker | BlackHat | [Read More](https://medium.com/p/f59e31aac895) |
