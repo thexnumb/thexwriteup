@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 17:36:21 GMT | Stored XSS Attack In DVWA | Mylescorey | [Read More](https://medium.com/p/02b8cf8fe8ad) |
+| Wed, 17 Dec 2025 17:35:09 GMT | Implementing POP (Proof of Possession) Token in Angular and Node.js: A Practical Guide | Satnam Singh | [Read More](https://medium.com/p/e8df14bee149) |
+| Wed, 17 Dec 2025 17:28:07 GMT | ️‍♂️ picoCTF 2024 — CanYouSee? - Simple Forensics Write-Up | vulnhunter | [Read More](https://medium.com/p/320033c1c13e) |
+| Wed, 17 Dec 2025 17:26:12 GMT | Modern Malware Deployment: How Legit-Looking Software Becomes the Perfect Trojan | Sneha Rajput | [Read More](https://medium.com/p/d7fc3bdf6619) |
+| Wed, 17 Dec 2025 17:23:37 GMT | Learning Android Pentesting Fundamentals: Intents & Activities as an Attack Surface | Mahmoudelshorpagy | [Read More](https://medium.com/p/f3b7b321ffb0) |
 | Wed, 17 Dec 2025 17:17:56 GMT | Message Queuing Telemetry Transport (MQTT) | Abdul Samad | [Read More](https://medium.com/p/43c77bc2d421) |
 | Wed, 17 Dec 2025 17:14:39 GMT | The $12 Trillion Scam: Is Your “Bank” Actually a Teenager in Lahore? | Muhammad Ali Ramzan | [Read More](https://medium.com/p/af6a7aef4cda) |
 | Wed, 17 Dec 2025 17:12:30 GMT | Forensics: Flag in Flame — When Logs Turn Into Images | vulnhunter | [Read More](https://medium.com/p/3fc526d0a5bf) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 12:30:36 GMT | Day 3: Linux fundamentals part 1 & 2 | Chloe Bridgens | [Read More](https://medium.com/p/cd5ef35d5ceb) |
 | Wed, 17 Dec 2025 12:27:08 GMT | Stop Duplicating Route Guards and HTTP Interceptors: A Unified Middleware Approach for Angular | Sachin Dilshan | [Read More](https://medium.com/p/418fbceb90c7) |
 | Wed, 17 Dec 2025 12:22:43 GMT | Why AI Sounds Confident Even When It’s Wrong | James Kreis | [Read More](https://medium.com/p/73da3a7f43c8) |
-| Wed, 17 Dec 2025 12:19:16 GMT | Managed Detection and Response (MDR): The Smarter Way Enterprises Strengthen Cyber Defences | James Das | [Read More](https://medium.com/p/1d42ef94c3f7) |
-| Wed, 17 Dec 2025 12:16:10 GMT | Identify a Phishing Website Fast: Simple Checks That Can Save You From Costly Mistakes | Techwizs | [Read More](https://medium.com/p/c324dfa18ece) |
-| Wed, 17 Dec 2025 12:12:26 GMT | IDOR-”Bir bakıp çıkacaz izne gerek yok!!” | Yusufcancinar | [Read More](https://medium.com/p/2823479cf852) |
-| Wed, 17 Dec 2025 12:10:20 GMT | Research on CVE‑2025‑59718 and CVE‑2025‑59719 | Karim Jaber | [Read More](https://medium.com/p/f2246b76ee6d) |
-| Wed, 17 Dec 2025 12:09:15 GMT | AI Knows You Better Than Your Best Friend And That’s Not a Feature. It’s the Business Model. | Rubzcomms | [Read More](https://medium.com/p/8cc1c1a6a5f6) |
