@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 15:45:00 GMT | Strengthening Hospital Security with Millennium Access Control Systems | Tony Brooks | [Read More](https://medium.com/p/02cb83d9fa00) |
+| Wed, 17 Dec 2025 15:35:49 GMT | How I Met Your Microservice | Saadet Elizaveta Babal | [Read More](https://medium.com/p/1ea1ca56ceaa) |
+| Wed, 17 Dec 2025 15:33:08 GMT | I’ve Interviewed Thousands of Cybersecurity Professionals — Here’s My Best Advice for 2026 | Taimur Ijlal | [Read More](https://medium.com/p/444efec45b2c) |
+| Wed, 17 Dec 2025 15:32:46 GMT | React2Shell: Technical Deep Dive into CVE-2025–55182 (CVSS 10.0) | Mohammed Muneef | [Read More](https://medium.com/p/fe884c61eb85) |
+| Wed, 17 Dec 2025 15:31:33 GMT | OpenWire Lab Walkthrough — CyberDefenders | Hussein 404 | [Read More](https://medium.com/p/8529e75b00a3) |
+| Wed, 17 Dec 2025 15:26:46 GMT | FortiGate Threat Intelligence Integration: Bringing Context to Firewall Events with SOCFORTRESS | SOCFortress | [Read More](https://medium.com/p/5cefe3b29f9b) |
+| Wed, 17 Dec 2025 15:25:43 GMT | Router Freedom in Practice: Security, Learning, and the Limits of ISP Policy | Brian Haman, PhD | [Read More](https://medium.com/p/911d821a6823) |
 | Wed, 17 Dec 2025 15:13:30 GMT | Breaking Down Metasploitable 2: From Recon to Root | Isha Sangpal | [Read More](https://medium.com/p/d3736b4a8f91) |
 | Wed, 17 Dec 2025 15:10:08 GMT | Corporate Absurdities: Pretentious Motivations, How to Burn 50 Million and Call It Progress in ERP | Namir Sagheenanajar | [Read More](https://medium.com/p/6172ae036e1c) |
 | Wed, 17 Dec 2025 15:10:06 GMT | A Systematic Review of Two Health AI Platforms’ Security Postures | Cipher Sentinel | [Read More](https://medium.com/p/db7853124f25) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 10:38:49 GMT | Email Phishing Analysis: How Attacks Work, Why They Succeed, and How to Defend Against Them | Jestin Samuel | [Read More](https://medium.com/p/18045ea4842e) |
 | Wed, 17 Dec 2025 10:38:48 GMT | Why Cybersecurity Tools Alone Can Never Protect Your Organization | Ankit rai | [Read More](https://medium.com/p/449ebd7ea97b) |
 | Wed, 17 Dec 2025 10:36:25 GMT | Turning Code Into Color — The RGB Breakthrough Behind NPCore’s Ransomware Defense | David SEHYEON Baek | [Read More](https://medium.com/p/e416649987f3) |
-| Wed, 17 Dec 2025 10:36:09 GMT | DHCP leak + Access Points/Routers + Juniper EducaOffice Experience | Ammar Cader | [Read More](https://medium.com/p/45d933e11b2c) |
-| Wed, 17 Dec 2025 10:32:33 GMT | The Complete 2026 Guide to Anonymously Accessing the Dark Web | Mohammed Fizal | [Read More](https://medium.com/p/ea565b4d904a) |
-| Wed, 17 Dec 2025 10:25:48 GMT | What 2025 Taught SMEs About Cloud and IT in the UAE | Shirin Fazana | [Read More](https://medium.com/p/a0dafdbfbd11) |
-| Wed, 17 Dec 2025 10:24:47 GMT | Critical Vulnerabilities to Remediate Before Entering 2026 | Salim Doğan CESUR | [Read More](https://medium.com/p/6cf05da14346) |
-| Wed, 17 Dec 2025 10:14:49 GMT | How One WhatsApp Feature Got Me Two $500 Bounties in the Meta Bug Bounty Program | Mohammad Shadab Shaikh | [Read More](https://medium.com/p/31ffb3ff12c9) |
-| Wed, 17 Dec 2025 10:12:03 GMT | GraphQL Security Deep Dive: Finding High‑Impact Bugs | Afi0pchik | [Read More](https://medium.com/p/a6adedc6133c) |
-| Wed, 17 Dec 2025 10:06:01 GMT | ⭐ Why is global security finding itself in its most vulnerable moment? | Mr Simpsons | [Read More](https://medium.com/p/92722a1d6506) |
