@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 05:43:39 GMT | Proven Strategies: Affordable Website Maintenance Services for Businesses That Prevent Costly… | IT Company | [Read More](https://medium.com/p/a391033f5375) |
+| Wed, 17 Dec 2025 05:38:31 GMT | How I hacked a Jenkins endpoint and leaked critical information | محمد بن إبراهيم | [Read More](https://medium.com/p/87097f21789c) |
+| Wed, 17 Dec 2025 05:32:31 GMT | Insider Secrets to Building a Strong Cyber Defense | Kadhijahafiya | [Read More](https://medium.com/p/8406ac7fd33f) |
+| Wed, 17 Dec 2025 05:29:34 GMT | Personal Cybersecurity for Techies | Udit | [Read More](https://medium.com/p/b479961a98f1) |
+| Wed, 17 Dec 2025 05:28:43 GMT | Ditch the Diploma, Grab the Cert: Why IT Certifications Trump College Degrees in the Modern Tech… | Sec Guy | [Read More](https://medium.com/p/8f1a4e75e4a9) |
 | Wed, 17 Dec 2025 05:21:47 GMT | Staying Ahead in Digital Parenting! | MrKarthikKN | [Read More](https://medium.com/p/53c6fcb075dd) |
+| Wed, 17 Dec 2025 05:19:58 GMT | Zuri Ozeomachukwu Njoku Shares Insights on How IT Improves Access to Education | Zuri Njoku | [Read More](https://medium.com/p/26c7f6da5b57) |
 | Wed, 17 Dec 2025 05:13:53 GMT | Switching Between VPN Providers Automatically: Why It Matters and When to Do It | ghostyjoe | [Read More](https://medium.com/p/539888d8d41b) |
 | Wed, 17 Dec 2025 05:05:10 GMT | NetworkMiner — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/54ceced3f5ec) |
 | Wed, 17 Dec 2025 05:03:49 GMT | Holiday Security Alert: How to Spot and Avoid Fake QR Codes | Sanket Ligade | [Read More](https://medium.com/p/db2e82dfc5c8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 18:52:24 GMT | Why Java Systems Prefer Time-Based Algorithms Over State-Based Ones | The Dev Notebook | [Read More](https://medium.com/p/2dc586c4f58d) |
 | Tue, 16 Dec 2025 18:48:18 GMT | How SMEs Can Train Employees to Recognize Phishing Attacks | Cordula Boeck | [Read More](https://medium.com/p/2be07cabe5cb) |
 | Tue, 16 Dec 2025 18:46:08 GMT | Linux Privilege Escalation Prevention Techniques | Esra Kayhan | [Read More](https://medium.com/p/aa0849829945) |
-| Tue, 16 Dec 2025 18:44:34 GMT | Network Protocol Anomaly Detection: Going Beyond Signature-Based Security | Esra Kayhan | [Read More](https://medium.com/p/b1fd9cbc10b7) |
-| Tue, 16 Dec 2025 18:43:21 GMT | Authentication and Authorization: Best Practices for Application Security | Jen Cracchiola | [Read More](https://medium.com/p/68bbccb5054b) |
-| Tue, 16 Dec 2025 18:42:56 GMT | How to Use Ps Tools Command | DefenAsh | [Read More](https://medium.com/p/1dda37bb1515) |
-| Tue, 16 Dec 2025 18:31:28 GMT | Infinity Learning lab: Assume & Decrypt (or vice versa)— Writeup | Hubert | [Read More](https://medium.com/p/b65eb8431f3b) |
-| Tue, 16 Dec 2025 18:31:23 GMT | Game of Death for Cybersecurity (Defense-in-Depth Series) | Michael Wills | [Read More](https://medium.com/p/e7ad1097cf47) |
-| Tue, 16 Dec 2025 18:29:35 GMT | pgAdmin 4 Meta-Command Filter Bypass — RCE | Cybersecplayground | [Read More](https://medium.com/p/8c22e9f1983d) |
