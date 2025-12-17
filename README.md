@@ -12,8 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 07:22:26 GMT | Tải Zarchiver Pro Apk (Bản Full) v1.0.10 Miễn Phí | genzvnmod | [Read More](https://medium.com/p/5c11915e7ec7) |
+| Wed, 17 Dec 2025 07:20:46 GMT | Tải Summertime Saga Mod Apk Việt Hóa v22.0.0 | Game4u | [Read More](https://medium.com/p/e62b9b06a7e4) |
+| Wed, 17 Dec 2025 07:15:29 GMT | Signal Intrusion - Hire Hacker | BlackHat | [Read More](https://medium.com/p/f59e31aac895) |
+| Wed, 17 Dec 2025 07:12:23 GMT | Volatility Plugins — Plugin windows.ldrmodules Let’s Talk About it | Dean | [Read More](https://medium.com/p/d209b03d275d) |
+| Wed, 17 Dec 2025 07:11:47 GMT | CyberExam Command Injection (Type1) lab Writeup | A.A | [Read More](https://medium.com/p/d24b4ee59d6f) |
+| Wed, 17 Dec 2025 07:11:31 GMT | From Privacy Payment to Privacy Collaboration: How Cryptography Is Reshaping Trust and Freedom for… | BenFen | [Read More](https://medium.com/p/c21c0b9cc1e6) |
+| Wed, 17 Dec 2025 07:11:29 GMT | Smarter Security in 2026: How Advanced Technology Is Transforming Guard Management | TrueTym | [Read More](https://medium.com/p/fbfb5f5cc404) |
+| Wed, 17 Dec 2025 07:10:36 GMT | The Night I Stumbled Into an Unprotected Hangfire Dashboard — And Why It Was Far More Dangerous… | Anshubind | [Read More](https://medium.com/p/c8212005cf51) |
+| Wed, 17 Dec 2025 07:09:41 GMT | The Debug Log Left Behind — And How It Exposed the Inner Workings of a Major Automotive Platform | Anshubind | [Read More](https://medium.com/p/97d1f09cadef) |
+| Wed, 17 Dec 2025 07:09:27 GMT | Manual vs Automated Penetration Testing: Which Works Best in 2025 | VisionX Technologies | [Read More](https://medium.com/p/e2392bbca3c9) |
+| Wed, 17 Dec 2025 07:08:03 GMT | Hyper-V Manager: Uses Beyond Creating Virtual Machines | Ramandeep Bagri | [Read More](https://medium.com/p/0d67874658e6) |
+| Wed, 17 Dec 2025 07:06:10 GMT | Systemd Service for persistence in Linux | Kiptryin | [Read More](https://medium.com/p/ca3e609b063c) |
+| Wed, 17 Dec 2025 07:06:03 GMT | What Are We Losing When We Let AI Think for Us? | Himanshu Chaudhary | [Read More](https://medium.com/p/434818959632) |
+| Wed, 17 Dec 2025 07:02:49 GMT | Security Consulting Services: Delivering Total Security Solutions in India | Ciss India | [Read More](https://medium.com/p/20c82d4c219b) |
+| Wed, 17 Dec 2025 07:02:22 GMT | Laravel Advent Day 17. File Uploads & Storage: Handling User Content with Confidence | Hector Canovas | [Read More](https://medium.com/p/136543f41c40) |
+| Wed, 17 Dec 2025 07:00:25 GMT | 5 Free AI Tools That Feel Like Paid Software in 2025 | WorkTech AI | [Read More](https://medium.com/p/40f147e6be41) |
+| Wed, 17 Dec 2025 07:00:25 GMT | The Failure No One Files a Ticket For | The Latency Gambler | [Read More](https://medium.com/p/7a7991ee2d8b) |
+| Wed, 17 Dec 2025 07:00:15 GMT | 10 MFA Fatigue Attack Techniques & How to Detect Them: Master the Art of Stopping Modern Account… | Very Lazy Tech | [Read More](https://medium.com/p/ba99bffac1db) |
+| Wed, 17 Dec 2025 06:58:55 GMT | Bandit Walkthrough Level 6 → Level 7 | Hardik Ghuge | [Read More](https://medium.com/p/f50ec389bb4b) |
+| Wed, 17 Dec 2025 06:57:28 GMT | Are You Oversharing in Your Writing? A Mindful Take on Vulnerability and Boundaries | Basit Chinggisi | [Read More](https://medium.com/p/efa5a3df18b6) |
+| Wed, 17 Dec 2025 06:56:48 GMT | Kioptrix Level 1.1 Full WalkThrough | Hardik Ghuge | [Read More](https://medium.com/p/00cd47dead8f) |
+| Wed, 17 Dec 2025 06:53:06 GMT | The Right to Shadow | Jayson Morale | [Read More](https://medium.com/p/6f430b7fc19d) |
+| Wed, 17 Dec 2025 06:50:55 GMT | A mesma arma pode salvar ou destruir — tudo depende de quem a segura. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/49306dc75b1a) |
+| Wed, 17 Dec 2025 06:49:23 GMT | Why Malicious Browser Extensions Are a Real Financial Risk for Online Transactions | Ted Quek | [Read More](https://medium.com/p/061c21e692ff) |
+| Wed, 17 Dec 2025 06:46:03 GMT | Where can I get CNAPP services with built-in vulnerability management? | Sara | [Read More](https://medium.com/p/a0444c3c3d90) |
 | Wed, 17 Dec 2025 06:31:43 GMT | Trust: The New Attack Surface in Cybersecurity | Shreya | [Read More](https://medium.com/p/1097b9e6694f) |
 | Wed, 17 Dec 2025 06:30:57 GMT | How I Hacked an Entrepreneur | StvRoot | [Read More](https://medium.com/p/19d270a62c5c) |
+| Wed, 17 Dec 2025 06:30:19 GMT | How We Stayed Protected During the React & Next.js Security Incident | Vottun | [Read More](https://medium.com/p/be6e48ed4894) |
 | Wed, 17 Dec 2025 06:27:23 GMT | The Daily Tech Digest: 17 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7de090c85559) |
 | Wed, 17 Dec 2025 06:25:35 GMT | Emerging Careers in Cybersecurity: What Roles Are Hot and Which Certifications Open the Door | Sec Guy | [Read More](https://medium.com/p/74b2607052b2) |
 | Wed, 17 Dec 2025 06:22:47 GMT | Day 9 — Project Uber. Implementing Security and login configs | Yasif khan | [Read More](https://medium.com/p/3dc7bb3244dd) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 00:02:16 GMT | API10–2023: Unsafe Consumption of APIs — Exploitation and Mitigation | JPablo13 | [Read More](https://medium.com/p/b099a80cfe99) |
 | Tue, 16 Dec 2025 23:54:50 GMT | Dancing in the Rain | Alizabeth Amelia Rose | [Read More](https://medium.com/p/126fa9842ea0) |
 | Tue, 16 Dec 2025 23:46:08 GMT | React Native 0.83, | The React Native Rewind | [Read More](https://medium.com/p/35098b7e777d) |
-| Tue, 16 Dec 2025 23:39:18 GMT | Why 2025’s ‘Online Passport’ Gold Rush Will Get People Blackmailed and Ki77ed | Berend Watchus | [Read More](https://medium.com/p/16ade544319a) |
-| Tue, 16 Dec 2025 23:07:10 GMT | Operation PCPcat: Hunting a Next.js Credential Stealer That’s Already Compromised 59K Servers | Mario Candela | [Read More](https://medium.com/p/2512c2d8f704) |
-| Tue, 16 Dec 2025 23:04:13 GMT | How is AI changing the hiring process? | Lucas Silva | [Read More](https://medium.com/p/98c38e4257ce) |
-| Tue, 16 Dec 2025 22:51:06 GMT | Vibe Coding: Real Code, Real Risks, or Both? | Cyber-AppSec | [Read More](https://medium.com/p/1a2536d17b2f) |
-| Tue, 16 Dec 2025 22:46:11 GMT | PERKENALAN TANPA TOPENG | manusia kumal | [Read More](https://medium.com/p/388124398291) |
-| Tue, 16 Dec 2025 22:40:48 GMT | Top 10 One-Liner Commands for JavaScript Hunting | Monika sharma | [Read More](https://medium.com/p/d6910b3f8d6d) |
-| Tue, 16 Dec 2025 22:35:14 GMT | CVE-2025–24071 Simplified | Nyx0r | [Read More](https://medium.com/p/01c213f11011) |
-| Tue, 16 Dec 2025 22:29:54 GMT | Carnival Crisis - Dog Years | Julio Oña | [Read More](https://medium.com/p/2d19c3dbe970) |
-| Tue, 16 Dec 2025 21:55:52 GMT | Logical 2FA Bypass by Reusing Trusted Device Authentication Flow | Mahmoud Gamal | [Read More](https://medium.com/p/bd95b32b104c) |
-| Tue, 16 Dec 2025 21:47:15 GMT | We’re Solving Yesterday’s IAM Problems With Tomorrow’s Budget | Steve Anderson | [Read More](https://medium.com/p/59fb8ad10d37) |
-| Tue, 16 Dec 2025 21:35:55 GMT | Swells | Chris Perkins | [Read More](https://medium.com/p/c07cbbb85f3d) |
-| Tue, 16 Dec 2025 21:35:06 GMT | Footprinting Skill Assessment 1 | Saqlain Naqvi | [Read More](https://medium.com/p/596c16636c7c) |
-| Tue, 16 Dec 2025 21:30:29 GMT | InsanityHosting: From SQLi to Firefox Credential Decryption | IshhIshneet | [Read More](https://medium.com/p/75a0309b5b82) |
-| Tue, 16 Dec 2025 21:30:09 GMT | IPC via Thread Description | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f5223e601e60) |
-| Tue, 16 Dec 2025 21:27:04 GMT | Outsmarting AI-Powered Threats: Why Every Company Needs a vCISO Now | Hello @ Octellient | [Read More](https://medium.com/p/351f12639875) |
-| Tue, 16 Dec 2025 21:11:39 GMT | The Door official writeup | Soraya Djerrab | [Read More](https://medium.com/p/e209f5d4da6d) |
-| Tue, 16 Dec 2025 21:08:34 GMT | The Business Case for a Bespoke Website | Tashif Khan | [Read More](https://medium.com/p/714a6603e63f) |
-| Tue, 16 Dec 2025 20:57:04 GMT | DockerLabs — Jason [Write-Up] | APS88 | [Read More](https://medium.com/p/fdd947b24b34) |
-| Tue, 16 Dec 2025 20:49:07 GMT | Dark Web & Deep Web Tam Olarak Ne? | sude9 | [Read More](https://medium.com/p/b4b9ae0f6c4a) |
-| Tue, 16 Dec 2025 20:47:25 GMT | Symfonos: 2 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/e1a8afdb92b3) |
-| Tue, 16 Dec 2025 20:41:09 GMT | How Threat Actors Are Manipulating Zendesk Sub-domains for Impersonation and Phishing | Michael Bocanegra | [Read More](https://medium.com/p/9eb9829002ff) |
-| Tue, 16 Dec 2025 20:35:07 GMT | The Safety Illusion: Inside the Growing Gap Between AI’s Promises and Its Actual Safeguards | Zoom In AI | [Read More](https://medium.com/p/efb4894ff43e) |
-| Tue, 16 Dec 2025 20:17:25 GMT | The Lazy Hunter’s Guide to Modat: Recon Smarter, Not Harder | hacker_might | [Read More](https://medium.com/p/4bc95bc2a577) |
-| Tue, 16 Dec 2025 20:07:36 GMT | Dehumanization the Bot Way | Ruthie Owen-Moreno | [Read More](https://medium.com/p/bc9a7542c845) |
-| Tue, 16 Dec 2025 19:59:45 GMT | Why Agentic AI Amplifies Configuration Debt (and How to Contain It) | Donovan_Distracted | [Read More](https://medium.com/p/ce83aee96546) |
-| Tue, 16 Dec 2025 19:52:21 GMT | CyberExam Sqlmap for Beginners lab Writeup | FYC | [Read More](https://medium.com/p/765d9c2faa10) |
