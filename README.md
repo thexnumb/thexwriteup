@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 22:40:56 GMT | Business Logic Bugs That Paid Big: How “Working as Intended” Broke Million-Dollar Systems | Krish_cyber | [Read More](https://medium.com/p/6f4bd345659d) |
+| Wed, 17 Dec 2025 22:40:31 GMT | $2,500 Bounty: How a Simple Race Condition Let Me Get Paid Multiple Times by HackerOne | Monika sharma | [Read More](https://medium.com/p/cc7bbb0551f1) |
+| Wed, 17 Dec 2025 22:27:18 GMT | HackTheBox — File Uploads-Whitelist Filters | 415141 | [Read More](https://medium.com/p/312ac6211c04) |
+| Wed, 17 Dec 2025 22:23:05 GMT | Lab: 2FA broken logic | Songül Kızılay Özügürler | [Read More](https://medium.com/p/a41b70b3708f) |
 | Wed, 17 Dec 2025 22:21:32 GMT | --When EDR Becomes the Camouflage | Kapil | [Read More](https://medium.com/p/fd895ac4465b) |
+| Wed, 17 Dec 2025 22:13:48 GMT | BrickStorm: when persistent access becomes infrastructure | Rodrigo Gutierrez | [Read More](https://medium.com/p/78964db1ab9f) |
 | Wed, 17 Dec 2025 22:09:33 GMT | “Script” Engellemek Yetmez: Reflected XSS Gerçeği | Melih Yılmaz | [Read More](https://medium.com/p/7eb253c1c417) |
 | Wed, 17 Dec 2025 22:06:07 GMT | Vulnhub Deathnote: 1 Walkthrough | Luke Gearty | [Read More](https://medium.com/p/845929fdbe23) |
 | Wed, 17 Dec 2025 22:02:31 GMT | See How Some of the World’s Best Organisations are Boosting Website Speed and Security with Modern… | Joana Inch | [Read More](https://medium.com/p/abf682225591) |
@@ -108,8 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 15:25:43 GMT | Router Freedom in Practice: Security, Learning, and the Limits of ISP Policy | Brian Haman, PhD | [Read More](https://medium.com/p/911d821a6823) |
 | Wed, 17 Dec 2025 15:13:30 GMT | Breaking Down Metasploitable 2: From Recon to Root | Isha Sangpal | [Read More](https://medium.com/p/d3736b4a8f91) |
 | Wed, 17 Dec 2025 15:10:08 GMT | Corporate Absurdities: Pretentious Motivations, How to Burn 50 Million and Call It Progress in ERP | Namir Sagheenanajar | [Read More](https://medium.com/p/6172ae036e1c) |
-| Wed, 17 Dec 2025 15:10:06 GMT | A Systematic Review of Two Health AI Platforms’ Security Postures | Cipher Sentinel | [Read More](https://medium.com/p/db7853124f25) |
-| Wed, 17 Dec 2025 15:09:17 GMT | Beyond Spam Filters: Building an AI-Driven Email Security Strategy for 2025 | ANSI Technologies | [Read More](https://medium.com/p/f07ce16b538c) |
-| Wed, 17 Dec 2025 15:09:08 GMT | Cyber Security Project#4 — Building Encrypted Notes Vault | Abdul Basit Khan | [Read More](https://medium.com/p/9e0c6d20c7bc) |
-| Wed, 17 Dec 2025 15:04:23 GMT | Cyber Risk Management in 2026: From Tools to Truth | Zeron | [Read More](https://medium.com/p/7ff2f2e47e85) |
-| Wed, 17 Dec 2025 15:02:27 GMT | The Quiet Standardization of Finance: What Chainlink’s Week With Coinbase, DTCC, and SWIFT Is… | Joseph Razo | [Read More](https://medium.com/p/cb148f6dd2a9) |
