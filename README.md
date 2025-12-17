@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 11:36:17 GMT | Hacking Series (Part 6): System Hacking — How Attackers Compromise Systems (CEH Perspective) | Cyber Wolf | [Read More](https://medium.com/p/d199c04b5d78) |
+| Wed, 17 Dec 2025 11:34:25 GMT | 10 Best Vulnerable Websites for Penetration Testing and Ethical Hacking | DeltaBytes | [Read More](https://medium.com/p/f33f465444ae) |
+| Wed, 17 Dec 2025 11:32:30 GMT | 1-Year Cyber Security Diploma Course Christmas Sale | Manisha Chaudhary | [Read More](https://medium.com/p/bfe9c4526fdd) |
+| Wed, 17 Dec 2025 11:31:51 GMT | A Good Girls Guide to Reverse Engineering - CTF | Lia Eu - midn8 | [Read More](https://medium.com/p/612c27fe6e5e) |
+| Wed, 17 Dec 2025 11:29:17 GMT | Certificates, HTTPS, and ATS on iOS — From Zero to Confident | VINODH KUMAR | [Read More](https://medium.com/p/421e97b72d31) |
+| Wed, 17 Dec 2025 11:24:57 GMT | Why your browser knows more about you than you realize | Vedad Borovac | [Read More](https://medium.com/p/b876d4689a4c) |
+| Wed, 17 Dec 2025 11:23:59 GMT | Digital Convenience Is Creating a Silent Security Crisis | MASUM BILLAH | [Read More](https://medium.com/p/f6785fe62bbf) |
+| Wed, 17 Dec 2025 11:20:32 GMT | SSH Log Analysis Using Splunk: A Red and Blue Team Perspective | 5r4v4n | [Read More](https://medium.com/p/a19bff46478e) |
+| Wed, 17 Dec 2025 11:20:08 GMT | The Backbone of the Web: A Developer’s Guide to HTTP, HTTPS, and SSL | Pattarapol Tantechasa | [Read More](https://medium.com/p/8ea5c60b32f1) |
 | Wed, 17 Dec 2025 11:12:09 GMT | The Internet Is More Than Just a Click: Understanding IP, Ports, and Protocols Behind the… | Habibi | [Read More](https://medium.com/p/f3a85485b1da) |
 | Wed, 17 Dec 2025 11:06:25 GMT | Raccoon Stealer v2: What Every Blockchain Developer Needs to Know About Info-Stealing Malware | DracattusDev | [Read More](https://medium.com/p/ddaa715421d3) |
 | Wed, 17 Dec 2025 11:01:51 GMT | How to set up an Active Directory lab at home | Gothos | [Read More](https://medium.com/p/9d469a9901d1) |
@@ -104,12 +113,3 @@ Security Platform | Somesh | [Read More](https://medium.com/p/9d3c77246e96) |
 | Wed, 17 Dec 2025 06:57:28 GMT | Are You Oversharing in Your Writing? A Mindful Take on Vulnerability and Boundaries | Basit Chinggisi | [Read More](https://medium.com/p/efa5a3df18b6) |
 | Wed, 17 Dec 2025 06:56:48 GMT | Kioptrix Level 1.1 Full WalkThrough | Hardik Ghuge | [Read More](https://medium.com/p/00cd47dead8f) |
 | Wed, 17 Dec 2025 06:53:06 GMT | The Right to Shadow | Jayson Morale | [Read More](https://medium.com/p/6f430b7fc19d) |
-| Wed, 17 Dec 2025 06:50:55 GMT | A mesma arma pode salvar ou destruir — tudo depende de quem a segura. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/49306dc75b1a) |
-| Wed, 17 Dec 2025 06:49:23 GMT | Why Malicious Browser Extensions Are a Real Financial Risk for Online Transactions | Ted Quek | [Read More](https://medium.com/p/061c21e692ff) |
-| Wed, 17 Dec 2025 06:46:03 GMT | Where can I get CNAPP services with built-in vulnerability management? | Sara | [Read More](https://medium.com/p/a0444c3c3d90) |
-| Wed, 17 Dec 2025 06:40:43 GMT | Write Up: MBPTL (Most Basic Penetration Testing Lab) | Rahmat Hadinata | [Read More](https://medium.com/p/9df55e5da603) |
-| Wed, 17 Dec 2025 06:31:43 GMT | Trust: The New Attack Surface in Cybersecurity | Shreya | [Read More](https://medium.com/p/1097b9e6694f) |
-| Wed, 17 Dec 2025 06:30:57 GMT | How I Hacked an Entrepreneur | StvRoot | [Read More](https://medium.com/p/19d270a62c5c) |
-| Wed, 17 Dec 2025 06:30:19 GMT | How We Stayed Protected During the React & Next.js Security Incident | Vottun | [Read More](https://medium.com/p/be6e48ed4894) |
-| Wed, 17 Dec 2025 06:27:23 GMT | The Daily Tech Digest: 17 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7de090c85559) |
-| Wed, 17 Dec 2025 06:25:35 GMT | Emerging Careers in Cybersecurity: What Roles Are Hot and Which Certifications Open the Door | Sec Guy | [Read More](https://medium.com/p/74b2607052b2) |
