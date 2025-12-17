@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 04:03:34 GMT | Security Systems Benefits Go Far Beyond Preventing Crime | Supraja | [Read More](https://medium.com/p/b7fc67244fd3) |
+| Wed, 17 Dec 2025 03:57:43 GMT | Still Failing on Residential/ISP Proxies? Fix Locale + DNS Consistency | CoinZenith | [Read More](https://medium.com/p/13c66d6eec94) |
+| Wed, 17 Dec 2025 03:57:14 GMT | Building a Low-Cost IoT Security Camera with the ESP32-CAM: Setup, Streaming, and Cybersecurity… | Abigail | [Read More](https://medium.com/p/12cd94363db2) |
+| Wed, 17 Dec 2025 03:56:51 GMT | The Hidden Pulse of the Cloud: How to Manage Shadow Networking in Cloud-Native Worlds. | Sanjay K Mohindroo | [Read More](https://medium.com/p/ed1509b70781) |
+| Wed, 17 Dec 2025 03:53:41 GMT | Atlassian CVE-2022–26134 Full Writeup | Sulav1_ | [Read More](https://medium.com/p/4d7b93139f42) |
+| Wed, 17 Dec 2025 03:47:20 GMT | Tải Snake 8 Ball Pool Apk V2.0.6 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/238a96ce30e2) |
+| Wed, 17 Dec 2025 03:35:59 GMT | Dual-Pool Isolation: Keep Logins Stable While Scraping Scales | BitMirage | [Read More](https://medium.com/p/e8824ee213d2) |
+| Wed, 17 Dec 2025 03:33:24 GMT | Your Phone Is Tracking You Right Now — Here’s the Proof | The Techie Indian | [Read More](https://medium.com/p/8880cd2f6775) |
+| Wed, 17 Dec 2025 03:26:35 GMT | Your Smart Toilet Isn’t as Private as You Think: The Truth Behind Kohler’s “End-to-End Encryption”… | Deven Chhajed | [Read More](https://medium.com/p/cad16477aa59) |
+| Wed, 17 Dec 2025 03:23:23 GMT | BLACK ARCH IS BACK ! | spider1sec | [Read More](https://medium.com/p/4fdf903d4892) |
 | Wed, 17 Dec 2025 03:11:33 GMT | The Iron Guard: Securing Your Observability Stack at Enterprise Scale | Srikanta Sahu | [Read More](https://medium.com/p/6334effd1e39) |
 | Wed, 17 Dec 2025 03:06:44 GMT | Agentic AI Red Teaming Jobs in 2025–2026: How to Build a Career in the Hottest New Cyber Role | Sajidur Rahman | [Read More](https://medium.com/p/b993f22ff9c3) |
 | Wed, 17 Dec 2025 02:50:39 GMT | Exposure Management: The Strategic Evolution Every Cybersecurity Team Needs | anthony k | [Read More](https://medium.com/p/38b58926e720) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 17:48:14 GMT | How a Social Engineering Call Bypassed Millions Worth of Security | Digital Defense | [Read More](https://medium.com/p/8101bc7601e9) |
 | Tue, 16 Dec 2025 17:46:36 GMT | When HTML5 Videos Refuse to Play: Debugging the “Video File Not Found” Error on Ubuntu — 2/3 | Anzalo Quin | [Read More](https://medium.com/p/3ba0937e065c) |
 | Tue, 16 Dec 2025 17:45:27 GMT | Advent of Cyber 2025 Day 16 - TryHackMe - Forensics — Registry Furensics - WriteUp | Axoloth | [Read More](https://medium.com/p/2dac823000f1) |
-| Tue, 16 Dec 2025 17:42:33 GMT | What I Learned Studying for CompTIA Network+ With No IT Experience | Fernando Rivas | [Read More](https://medium.com/p/2e7df64a002a) |
-| Tue, 16 Dec 2025 17:37:02 GMT | Operational Readiness for Post-Quantum Cryptography: Three Questions Your Board Needs to Ask | Patrick Lefler | [Read More](https://medium.com/p/fea88948abb1) |
-| Tue, 16 Dec 2025 17:27:13 GMT | Why we built an MCP server for email security | Annika Grunewakdt | [Read More](https://medium.com/p/9a3f7dd3a8f0) |
-| Tue, 16 Dec 2025 17:26:59 GMT | Security Awareness Isn’t a Month, It’s a Mindset | Really Bad Security | [Read More](https://medium.com/p/bfee433418d7) |
-| Tue, 16 Dec 2025 17:25:15 GMT | Complex ≠ Secure: Rethinking Passwords | Really Bad Security | [Read More](https://medium.com/p/f17267859d5c) |
-| Tue, 16 Dec 2025 17:24:48 GMT | Rockrose Development LLC Data Breach Raises Concerns Over Real Estate Data Security | David Miller | [Read More](https://medium.com/p/fab06f5c081c) |
-| Tue, 16 Dec 2025 17:22:26 GMT | DevOps 2.0: GitOps, Policy-as-Code, and Shift-Left Security Changed Everything (Quietly) | Logic Over Latte | [Read More](https://medium.com/p/1fccafa75ae8) |
-| Tue, 16 Dec 2025 17:21:18 GMT | Top Tech Skills Trending in 2025 | Freaky Irfuu.. | [Read More](https://medium.com/p/82789d81a30b) |
-| Tue, 16 Dec 2025 17:21:18 GMT | How to Build APIs That Can’t Be Tricked: Secure Request Validation in Go | syarif | [Read More](https://medium.com/p/ad73dac8bf1f) |
-| Tue, 16 Dec 2025 17:16:15 GMT | How Does AI Detect Spam? (Explained Simply) | Prapti Vahia | [Read More](https://medium.com/p/dc3570e03750) |
