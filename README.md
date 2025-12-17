@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 21:02:54 GMT | Pentest to CVE Research | Edward Amarh | [Read More](https://medium.com/p/7462804c0750) |
+| Wed, 17 Dec 2025 21:01:18 GMT | Getting Started with Burp Suite for API Security Testing | Joyatee Datta | [Read More](https://medium.com/p/1221387c9ef1) |
+| Wed, 17 Dec 2025 20:51:05 GMT | The Myth of the “Brilliant Hacker” | Abba Abdullahi Wakili | [Read More](https://medium.com/p/706f39b22bc8) |
 | Wed, 17 Dec 2025 20:30:05 GMT | When Encryption Depends on Errors, Not Data A Critical Look at Noise-Based Security in Quantum-Safe… | Bervice | [Read More](https://medium.com/p/640ee3790b9a) |
 | Wed, 17 Dec 2025 20:29:55 GMT | The Security Automation That Actually Worked (And Why Most Don’t) | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/49e06555b501) |
 | Wed, 17 Dec 2025 20:28:15 GMT | When detection logic is scattered, SigmaQuery finds the right Sigma rule in seconds | Reinhard Westerholt | [Read More](https://medium.com/p/ed300a076b22) |
@@ -110,6 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 14:52:15 GMT | The $50 Million Code Bug That’s Still Emptying Crypto Wallets (And How to Stop It Before It Hits… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/a4891f4b0dd1) |
 | Wed, 17 Dec 2025 14:42:33 GMT | # The API Endpoint That Shouldn’t Have Exposed 50,000 User Records | Abdulbar | [Read More](https://medium.com/p/4b29b9f20df2) |
 | Wed, 17 Dec 2025 14:40:54 GMT | WHAT PROFESSIONAL BURGLARS ARE ACTUALLY LOOKING FOR WHEN THEY WATCH YOUR HOUSE | Safewithyvonne | [Read More](https://medium.com/p/d67361110d44) |
-| Wed, 17 Dec 2025 14:36:42 GMT | Advent of Cyber 2025 Day6 — Tryhackme walkthrough(Malware Analysis — Egg-xecutable) | TRedEye | [Read More](https://medium.com/p/c537a4d5c312) |
-| Wed, 17 Dec 2025 14:34:15 GMT | Pengenalan Cybersecurity | My Skill | [Read More](https://medium.com/p/85970ffd6e01) |
-| Wed, 17 Dec 2025 14:33:06 GMT | (Comptia A+) Mastering Environmental Controls in IT: Essential Tips for a Safe and Reliable… | Vignesh R | [Read More](https://medium.com/p/f71314f0bf55) |
