@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 08:32:51 GMT | 7 Critical Steps to Protecting Sensitive Industrial Data | Rahman Iqbal | [Read More](https://medium.com/p/b7ab8870ab13) |
+| Wed, 17 Dec 2025 08:32:17 GMT | Red Team Shortcut: Validate Real-World Credential Exposure Without Guessing | Alexandre Vandamme | [Read More](https://medium.com/p/03ad7c3d4557) |
+| Wed, 17 Dec 2025 08:29:13 GMT | 5 Advanced PostgreSQL Configurations | Oz | [Read More](https://medium.com/p/17b1b7110a54) |
+| Wed, 17 Dec 2025 08:27:44 GMT | eJPT Prep - Host & Network Penetration Testing: Exploitation CTF 2 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/028574c52635) |
+| Wed, 17 Dec 2025 08:25:18 GMT | Alarm Systems & Monitoring | Square Security Inc. | [Read More](https://medium.com/p/92df56310101) |
+| Wed, 17 Dec 2025 08:15:21 GMT | Siber Güvenliğin Temeli: Network 101 | Umut Baran Yavuz | [Read More](https://medium.com/p/2820f3313efe) |
+| Wed, 17 Dec 2025 08:14:05 GMT | Malicious VPN Extensions Are Stealing Your ChatGPT and Gemini Conversations | Techsankar | [Read More](https://medium.com/p/933b4169b34d) |
+| Wed, 17 Dec 2025 08:09:17 GMT | Most Cybersecurity Advice Is Generic — Here’s How We’re Different: The Problem with Most Security… | Fook Hwa Tan | [Read More](https://medium.com/p/13a3b1ed14a5) |
+| Wed, 17 Dec 2025 08:07:34 GMT | It Wasn’t Easy to Hear, But It Helped Me Grow — Feedback That Changed How I Lead | Fook Hwa Tan | [Read More](https://medium.com/p/6703d1ac9beb) |
+| Wed, 17 Dec 2025 08:02:31 GMT | How to Prevent Ransomware Attacks Step by Step | Manisha Chaudhary | [Read More](https://medium.com/p/109ee1663c6b) |
+| Wed, 17 Dec 2025 08:02:23 GMT | [Part 18] The Next 10 Years of AI Cybersecurity: Trends That Will Define the Industry | Cyberkech | [Read More](https://medium.com/p/064d7c82592a) |
+| Wed, 17 Dec 2025 08:01:24 GMT | 當「看似只是設定問題」的漏洞，升級為實際入侵行動：FortiCloud SSO 驗證機制遭實際攻擊利用 | 竣盟科技Billows | [Read More](https://medium.com/p/31ded851fd14) |
+| Wed, 17 Dec 2025 07:45:36 GMT | Source Code Review for Security | Aishwarya Hiremath | [Read More](https://medium.com/p/455399ec8c70) |
+| Wed, 17 Dec 2025 07:44:54 GMT | Intro to Vulnerability Scanners: What They Tell You and What They Hide | Aj | [Read More](https://medium.com/p/c3dd0b687ef1) |
+| Wed, 17 Dec 2025 07:41:40 GMT | When Security Gets “Selective” — A Reality Every IT Professional Knows Too Well | Vijay Kumar Gupta | [Read More](https://medium.com/p/e6e5f6431cbb) |
 | Wed, 17 Dec 2025 07:32:16 GMT | 10 Compliance-Ready Data Rooms for Web3 Raises | Praxen | [Read More](https://medium.com/p/26b45f86aac7) |
 | Wed, 17 Dec 2025 07:31:55 GMT | Compiler আমাকে যতবার অপমান করেছে | Taminul Islam | [Read More](https://medium.com/p/475a30db47cb) |
 | Wed, 17 Dec 2025 07:31:07 GMT | Breaking Payment Logic With Numbers: A Bug Bounty Story… | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/091b3aa55256) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 03:33:24 GMT | Your Phone Is Tracking You Right Now — Here’s the Proof | The Techie Indian | [Read More](https://medium.com/p/8880cd2f6775) |
 | Wed, 17 Dec 2025 03:26:35 GMT | Your Smart Toilet Isn’t as Private as You Think: The Truth Behind Kohler’s “End-to-End Encryption”… | Deven Chhajed | [Read More](https://medium.com/p/cad16477aa59) |
 | Wed, 17 Dec 2025 03:23:23 GMT | BLACK ARCH IS BACK ! | spider1sec | [Read More](https://medium.com/p/4fdf903d4892) |
-| Wed, 17 Dec 2025 03:11:33 GMT | The Iron Guard: Securing Your Observability Stack at Enterprise Scale | Srikanta Sahu | [Read More](https://medium.com/p/6334effd1e39) |
-| Wed, 17 Dec 2025 03:06:44 GMT | Agentic AI Red Teaming Jobs in 2025–2026: How to Build a Career in the Hottest New Cyber Role | Sajidur Rahman | [Read More](https://medium.com/p/b993f22ff9c3) |
-| Wed, 17 Dec 2025 02:50:39 GMT | Exposure Management: The Strategic Evolution Every Cybersecurity Team Needs | anthony k | [Read More](https://medium.com/p/38b58926e720) |
-| Wed, 17 Dec 2025 02:00:18 GMT | #طنز #خنده #فیل #فیلم #داف #داف_ایرانی #دخترسکسی #دخترایرانی #موزیک #تهران #شیرآز #أصفهان #تبریز… | شماره خاله اصفهان09387543619 | [Read More](https://medium.com/p/6b41bce97948) |
-| Wed, 17 Dec 2025 01:59:26 GMT | برنامه فول ماساژ جلسه ایی کایلی جنری اصفهلن09398300686 | شماره خاله اصفهان09387543619 | [Read More](https://medium.com/p/e790244a4249) |
-| Wed, 17 Dec 2025 01:58:37 GMT | React2Shell: The High Price of a Fast Web | Louis Phang | [Read More](https://medium.com/p/55d501e8594f) |
-| Wed, 17 Dec 2025 01:57:08 GMT | Where Do Our Vulnerabilities Lie? | RJNarina | [Read More](https://medium.com/p/451d57e3e0b7) |
-| Wed, 17 Dec 2025 01:43:08 GMT | Recreating CVE‑2025‑55184: React Server Components DoS (Lab POC) | Tarekh Shaikh | [Read More](https://medium.com/p/e9ced4c296bd) |
-| Wed, 17 Dec 2025 01:42:16 GMT | Beyond Words: The Profound Power of True Empathy and Genuine Care in Relationships | Austi Gene | [Read More](https://medium.com/p/02fb348b1511) |
-| Wed, 17 Dec 2025 01:39:52 GMT | React2Shell Apocalypse: CVE-2025-55182 RCE Tears Through React/Next.js | Krishnendu Bhowmick | [Read More](https://medium.com/p/34bc9a28c7b0) |
-| Wed, 17 Dec 2025 01:34:03 GMT | When an IP Isn’t an IP | Bonar | [Read More](https://medium.com/p/e64c4755bc5a) |
-| Wed, 17 Dec 2025 01:32:19 GMT | 5 DID + Credential Flows That Actually Work in Hiring | Quaxel | [Read More](https://medium.com/p/4a61d06c53d1) |
-| Wed, 17 Dec 2025 01:06:39 GMT | Shannon and the Rise of “Proof-by-Exploitation” AI Pentesting | Barbaros Emre Alagöz | [Read More](https://medium.com/p/67b0aadb2c49) |
-| Wed, 17 Dec 2025 01:06:15 GMT | The Absence of Hatred Is Not Enough | Jesse Di Liello | [Read More](https://medium.com/p/4f46bf2fbec4) |
-| Wed, 17 Dec 2025 01:05:11 GMT | XP Cyber Range Writeup - Operations Gone Wrong: The Incompetent Intern [NG] | jellyfish | [Read More](https://medium.com/p/461570f466c4) |
