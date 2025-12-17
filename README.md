@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 23:07:53 GMT | What a TCP Handshake Looks Like During Network Analysis | Omer Duman | [Read More](https://medium.com/p/0795ed39ac19) |
+| Wed, 17 Dec 2025 23:05:24 GMT | Google introduces the Gemini 3 Flash and sets it as the Gemini app’s default model. | loukmane hamzaoui | [Read More](https://medium.com/p/56fc9c14e3de) |
+| Wed, 17 Dec 2025 23:00:36 GMT | Salt Typhoon’s architects were trained at the Cisco Academy. | Jared Douville | [Read More](https://medium.com/p/7ccabb5d83b2) |
+| Wed, 17 Dec 2025 22:46:34 GMT | What is API Security and Why Should Everyday People Care About it? | Veronica Peter | [Read More](https://medium.com/p/529f8b744d83) |
 | Wed, 17 Dec 2025 22:40:56 GMT | Business Logic Bugs That Paid Big: How “Working as Intended” Broke Million-Dollar Systems | Krish_cyber | [Read More](https://medium.com/p/6f4bd345659d) |
+| Wed, 17 Dec 2025 22:40:51 GMT | From Castles to Condominiums: The Quiet Art of Digital Boundaries | Samina Perveen | [Read More](https://medium.com/p/4e9c299b7d4a) |
 | Wed, 17 Dec 2025 22:40:31 GMT | $2,500 Bounty: How a Simple Race Condition Let Me Get Paid Multiple Times by HackerOne | Monika sharma | [Read More](https://medium.com/p/cc7bbb0551f1) |
 | Wed, 17 Dec 2025 22:27:18 GMT | HackTheBox — File Uploads-Whitelist Filters | 415141 | [Read More](https://medium.com/p/312ac6211c04) |
 | Wed, 17 Dec 2025 22:23:05 GMT | Lab: 2FA broken logic | Songül Kızılay Özügürler | [Read More](https://medium.com/p/a41b70b3708f) |
@@ -108,8 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 15:35:49 GMT | How I Met Your Microservice | Saadet Elizaveta Babal | [Read More](https://medium.com/p/1ea1ca56ceaa) |
 | Wed, 17 Dec 2025 15:33:08 GMT | I’ve Interviewed Thousands of Cybersecurity Professionals — Here’s My Best Advice for 2026 | Taimur Ijlal | [Read More](https://medium.com/p/444efec45b2c) |
 | Wed, 17 Dec 2025 15:32:46 GMT | React2Shell: Technical Deep Dive into CVE-2025–55182 (CVSS 10.0) | Mohammed Muneef | [Read More](https://medium.com/p/fe884c61eb85) |
-| Wed, 17 Dec 2025 15:31:33 GMT | OpenWire Lab Walkthrough — CyberDefenders | Hussein 404 | [Read More](https://medium.com/p/8529e75b00a3) |
-| Wed, 17 Dec 2025 15:26:46 GMT | FortiGate Threat Intelligence Integration: Bringing Context to Firewall Events with SOCFORTRESS | SOCFortress | [Read More](https://medium.com/p/5cefe3b29f9b) |
-| Wed, 17 Dec 2025 15:25:43 GMT | Router Freedom in Practice: Security, Learning, and the Limits of ISP Policy | Brian Haman, PhD | [Read More](https://medium.com/p/911d821a6823) |
-| Wed, 17 Dec 2025 15:13:30 GMT | Breaking Down Metasploitable 2: From Recon to Root | Isha Sangpal | [Read More](https://medium.com/p/d3736b4a8f91) |
-| Wed, 17 Dec 2025 15:10:08 GMT | Corporate Absurdities: Pretentious Motivations, How to Burn 50 Million and Call It Progress in ERP | Namir Sagheenanajar | [Read More](https://medium.com/p/6172ae036e1c) |
