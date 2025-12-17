@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 20:19:22 GMT | Understanding Broken Authentication: What It Is, How
+It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.com/p/1b046fa9541b) |
+| Wed, 17 Dec 2025 20:06:09 GMT | HTB WEB FUZZING | Darshil Ashvinbhai Thummar | [Read More](https://medium.com/p/6f378ceaa31c) |
+| Wed, 17 Dec 2025 20:03:43 GMT | Why Copying Uber’s Architecture Is a Career-Limiting Move | Logic Over Latte | [Read More](https://medium.com/p/dfa33beba178) |
+| Wed, 17 Dec 2025 20:03:31 GMT | Do You Really Need a VPN? | lind l. | [Read More](https://medium.com/p/2b4e67259218) |
+| Wed, 17 Dec 2025 19:54:15 GMT | Steering LLMs Like a Neuroscientist: Changing AI Behavior Without Fine-Tuning | evoailabs | [Read More](https://medium.com/p/6d8a6168892c) |
+| Wed, 17 Dec 2025 19:48:44 GMT | Can an $18-an-hour AI agent out-hack a six-figure cybersecurity pro? | Mrigank Gupta | [Read More](https://medium.com/p/1a95f9db0f04) |
+| Wed, 17 Dec 2025 19:42:36 GMT | XSS- Merry XSSMas AOC 2025 Day 11 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/2c5c3da38377) |
+| Wed, 17 Dec 2025 19:41:01 GMT | CyberChef- Hoperation Save McSkidy AOC 2025 Day 17 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/c1c646dc46dd) |
+| Wed, 17 Dec 2025 19:40:12 GMT | Malware families: in-depth technical analysis | Telynor | [Read More](https://medium.com/p/746cb16e5466) |
 | Wed, 17 Dec 2025 19:38:26 GMT | RootMe: A Step-by-Step CTF Walkthrough | IshhIshneet | [Read More](https://medium.com/p/71b30bc80442) |
 | Wed, 17 Dec 2025 19:29:55 GMT | What is Cross-Site Request Forgery (CSRF)? | Islemothmani | [Read More](https://medium.com/p/f1dbef5aa269) |
 | Wed, 17 Dec 2025 19:25:33 GMT | Top Enterprise Network Security Solutions 2026 : How To Protect Data | Fortnexs Shield | [Read More](https://medium.com/p/9a67edbe6952) |
@@ -103,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 14:24:10 GMT | API Keys, Tokens, and Secrets: How They Leak and How Developers Can Avoid It | Esther Kenneth | [Read More](https://medium.com/p/a51d689c9e0c) |
 | Wed, 17 Dec 2025 14:19:53 GMT | Chain of Responsibility Design Pattern in Modern Java(17–25): Learning from Medieval Bureaucracy | Jitin Kayyala | [Read More](https://medium.com/p/9c947db082a4) |
 | Wed, 17 Dec 2025 14:18:39 GMT | Job-Ready Cybersecurity Training: What You Need to Learn in 2026 | Janbask Training | [Read More](https://medium.com/p/8afdd957146b) |
-| Wed, 17 Dec 2025 14:16:48 GMT | Empowering Cyber Defense: The Rise of Agentic AI in Cybersecurity | Maya Rhodes Technology Ai | [Read More](https://medium.com/p/f284cd21b9e0) |
-| Wed, 17 Dec 2025 14:09:39 GMT | Security Platform Consolidation in 2026: The AI Imperative | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/6d0deb426841) |
-| Wed, 17 Dec 2025 14:05:11 GMT | What’s your AI Policy like? | Adeoluwa Obadofin | [Read More](https://medium.com/p/46cc433e2d04) |
-| Wed, 17 Dec 2025 14:00:37 GMT | TROPTIONS CORP Partners with Live Oaks Strategies to Power Enterprise Cybersecurity. | Carl London | [Read More](https://medium.com/p/43e099ef9532) |
-| Wed, 17 Dec 2025 13:55:51 GMT | Cellik Android Malware Builds Malicious Versions of Google Play Apps: A Growing Mobile Security… | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/b71929e5aea4) |
-| Wed, 17 Dec 2025 13:44:29 GMT | MASVS Compliance Checklist: A Practical Guide for Security Teams | Abhinav | [Read More](https://medium.com/p/3b14f5b6b764) |
-| Wed, 17 Dec 2025 13:44:14 GMT | Active Directory Pratik Rehberi: IV — Additional DC, RODC ve FSMO Rollerinin Yönetimi | Taha Altın | [Read More](https://medium.com/p/e1cacb587cf7) |
-| Wed, 17 Dec 2025 13:41:01 GMT | Active Directory Pratik Rehberi: III “Group Policy (GPO)” | Taha Altın | [Read More](https://medium.com/p/5570d3a4bb94) |
-| Wed, 17 Dec 2025 13:36:03 GMT | Beginner’s Guide to Cybersecurity | Dubeyguy | [Read More](https://medium.com/p/0381664f1375) |
