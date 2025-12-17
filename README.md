@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 04:46:12 GMT | What Is Dual-Band WiFi and Why It Improves Internet Speed? | Ask IT Support | [Read More](https://medium.com/p/0af32a76f304) |
+| Wed, 17 Dec 2025 04:39:27 GMT | Cross-Site Scripting Via Unsanitized Input In a PHP Endpoint | Ajay | [Read More](https://medium.com/p/993266129f5d) |
+| Wed, 17 Dec 2025 04:35:31 GMT | DOCUMENTING MY JOURNEY TOWARDS DECENTRALISED AI AND BLOCKCHAIN CYBERSECURITY | Adesowapo Adeyemi | [Read More](https://medium.com/p/32e7004c1a02) |
+| Wed, 17 Dec 2025 04:33:00 GMT | The Easiest Way to Protect Yourself | Michael Unquera | [Read More](https://medium.com/p/7060d731859f) |
+| Wed, 17 Dec 2025 04:32:20 GMT | PostgreSQL Is All You Need: Stop Over-Engineering Your Database | Ritik Doijod | [Read More](https://medium.com/p/91f4ae55501a) |
+| Wed, 17 Dec 2025 04:32:17 GMT | 10 Messaging Bridges That Don’t Lock User Funds | Quaxel | [Read More](https://medium.com/p/792395ae3c63) |
+| Wed, 17 Dec 2025 04:31:55 GMT | AI is reshaping Cybersecurity, but not in the way most people think | Shreyas | [Read More](https://medium.com/p/74807303f8e0) |
+| Wed, 17 Dec 2025 04:30:51 GMT | Static ISP Proxies Aren’t Undetectable | LedgerHaze | [Read More](https://medium.com/p/7bf5417b3afb) |
+| Wed, 17 Dec 2025 04:22:39 GMT | Tải Barbarq Mod APK (Vô Hạn Tiền, Max Level) V1.0.1811 | Bandisharecx | [Read More](https://medium.com/p/464441d5ac2a) |
+| Wed, 17 Dec 2025 04:15:09 GMT | CYBER TRUST DI ERA AI DENGAN ZERO-KNOWLEDGE CRYPTOGRPAHY | Agung Nawan | [Read More](https://medium.com/p/be912e2fc6e8) |
+| Wed, 17 Dec 2025 04:09:25 GMT | Secret Maps and Server Gateways: How IP, Ports, and Protocols Work to Protect or Open Networks | Diva Rizky Alfitrah | [Read More](https://medium.com/p/02459a25bbe3) |
+| Wed, 17 Dec 2025 04:07:27 GMT | ️ Day 002 of 100DaysOfCloud Creating an AWS Security Group | Hritik Raj | [Read More](https://medium.com/p/9c3ba6814c05) |
+| Wed, 17 Dec 2025 04:07:16 GMT | For Travelers Entering Nigeria, Tinubu’s New Police-Withdrawal Order Could Change Everything | VOYA | [Read More](https://medium.com/p/128ef808788c) |
 | Wed, 17 Dec 2025 04:03:34 GMT | Security Systems Benefits Go Far Beyond Preventing Crime | Supraja | [Read More](https://medium.com/p/b7fc67244fd3) |
 | Wed, 17 Dec 2025 03:57:43 GMT | Still Failing on Residential/ISP Proxies? Fix Locale + DNS Consistency | CoinZenith | [Read More](https://medium.com/p/13c66d6eec94) |
 | Wed, 17 Dec 2025 03:57:14 GMT | Building a Low-Cost IoT Security Camera with the ESP32-CAM: Setup, Streaming, and Cybersecurity… | Abigail | [Read More](https://medium.com/p/12cd94363db2) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 18:24:17 GMT | The State AI Regulation Trap: How Well-Meaning Laws Accidentally Strengthen Big Tech | Chris | [Read More](https://medium.com/p/76a1b3670285) |
 | Tue, 16 Dec 2025 18:23:50 GMT | Why Your “Smart” Rate Limiter Punishes Good Users First | Logic Over Latte | [Read More](https://medium.com/p/8bce4dacf27a) |
 | Tue, 16 Dec 2025 18:21:14 GMT | 6 Shocking Truths About 2025’s Most Dangerous Hacker Supergroup | Allan & Ida | [Read More](https://medium.com/p/f38f70fdc934) |
-| Tue, 16 Dec 2025 18:14:34 GMT | Inside a Support Scam | Connor Kenway | [Read More](https://medium.com/p/9e853c8eec4d) |
-| Tue, 16 Dec 2025 18:12:50 GMT | If you’ve ever clicked endlessly through the AWS Console, you already know the feeling, too many… | Aadeyemikazeem | [Read More](https://medium.com/p/8b39d37171f9) |
-| Tue, 16 Dec 2025 18:08:49 GMT | Cybersecurity Credentials You Can Earn with Air Force COOL in 2026 | Ccsglobaltech Marcom | [Read More](https://medium.com/p/9e5b53ed4dca) |
-| Tue, 16 Dec 2025 18:02:28 GMT | RPC Providers Under Load: 10 Security Postures That Hold | Velorum | [Read More](https://medium.com/p/ca3d2a55c150) |
-| Tue, 16 Dec 2025 18:02:26 GMT | PicoCTF Writeups — asm2 | SoBatista | [Read More](https://medium.com/p/862c815bbd61) |
-| Tue, 16 Dec 2025 18:02:20 GMT | DeepSeek Injects 50% More Vulnerabilities When You Mention Tibet | MohamedAbdelmenem | [Read More](https://medium.com/p/049dabc5c3e1) |
-| Tue, 16 Dec 2025 18:02:20 GMT | Names, Emails, Locations, Device IDs: What One OpenAI Vendor Export Gave Hackers | MohamedAbdelmenem | [Read More](https://medium.com/p/51721f806f35) |
-| Tue, 16 Dec 2025 17:59:53 GMT | HTTP Status Codes Cheatsheet | Khalil Z. | [Read More](https://medium.com/p/d19b23dfa17a) |
-| Tue, 16 Dec 2025 17:51:37 GMT | HOW I PERFOMED BASIC API SECURITY TESTS USING POSTMAN | Madalitso Cheyo | [Read More](https://medium.com/p/6f4763cd25f9) |
-| Tue, 16 Dec 2025 17:49:33 GMT | SoundCloud Confirms Data Breach Affecting 20% of Users | Chetan Seripally | [Read More](https://medium.com/p/987094662a05) |
-| Tue, 16 Dec 2025 17:48:14 GMT | How a Social Engineering Call Bypassed Millions Worth of Security | Digital Defense | [Read More](https://medium.com/p/8101bc7601e9) |
-| Tue, 16 Dec 2025 17:46:36 GMT | When HTML5 Videos Refuse to Play: Debugging the “Video File Not Found” Error on Ubuntu — 2/3 | Anzalo Quin | [Read More](https://medium.com/p/3ba0937e065c) |
-| Tue, 16 Dec 2025 17:45:27 GMT | Advent of Cyber 2025 Day 16 - TryHackMe - Forensics — Registry Furensics - WriteUp | Axoloth | [Read More](https://medium.com/p/2dac823000f1) |
