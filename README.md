@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 15:13:30 GMT | Breaking Down Metasploitable 2: From Recon to Root | Isha Sangpal | [Read More](https://medium.com/p/d3736b4a8f91) |
+| Wed, 17 Dec 2025 15:10:08 GMT | Corporate Absurdities: Pretentious Motivations, How to Burn 50 Million and Call It Progress in ERP | Namir Sagheenanajar | [Read More](https://medium.com/p/6172ae036e1c) |
+| Wed, 17 Dec 2025 15:10:06 GMT | A Systematic Review of Two Health AI Platforms’ Security Postures | Cipher Sentinel | [Read More](https://medium.com/p/db7853124f25) |
+| Wed, 17 Dec 2025 15:09:17 GMT | Beyond Spam Filters: Building an AI-Driven Email Security Strategy for 2025 | ANSI Technologies | [Read More](https://medium.com/p/f07ce16b538c) |
+| Wed, 17 Dec 2025 15:09:08 GMT | Cyber Security Project#4 — Building Encrypted Notes Vault | Abdul Basit Khan | [Read More](https://medium.com/p/9e0c6d20c7bc) |
+| Wed, 17 Dec 2025 15:04:23 GMT | Cyber Risk Management in 2026: From Tools to Truth | Zeron | [Read More](https://medium.com/p/7ff2f2e47e85) |
+| Wed, 17 Dec 2025 15:02:27 GMT | The Quiet Standardization of Finance: What Chainlink’s Week With Coinbase, DTCC, and SWIFT Is… | Joseph Razo | [Read More](https://medium.com/p/cb148f6dd2a9) |
+| Wed, 17 Dec 2025 15:02:25 GMT | Hacking the Connected Car: Part 3 — From App to Actuator | Federico Barsanti | [Read More](https://medium.com/p/2c69e09629e6) |
+| Wed, 17 Dec 2025 15:02:21 GMT | Cyber Briefing: 2025.12.17 | CyberMaterial | [Read More](https://medium.com/p/0a5832eebc49) |
+| Wed, 17 Dec 2025 15:01:00 GMT | Active Directory Attack Simulation and AI-Assisted Threat Detection with Popular SIEM Tools-Part 4 | Robert Onyango | [Read More](https://medium.com/p/01a8a12f7feb) |
+| Wed, 17 Dec 2025 14:59:59 GMT | How to Detect AI-Generated Voices (And Why It’s Getting Harder) | AI Voice Detector | [Read More](https://medium.com/p/65dc2189a733) |
+| Wed, 17 Dec 2025 14:59:01 GMT | Kubernetes 1.35 Security: 7 Game-Changing Features Released Today (DevSecOps Must-Know) | inboryn | [Read More](https://medium.com/p/637b696b0491) |
+| Wed, 17 Dec 2025 14:58:51 GMT | 7 Open Source Intelligence (OSINT) Tools — Investigate The Digital Traces | Byte Hawk | [Read More](https://medium.com/p/88f5976caa50) |
+| Wed, 17 Dec 2025 14:54:15 GMT | ️ Windows Defender Bypasses in 2025: Why Public Tools Still Work — and Why Cybersecurity Pros… | Yua Mikanana | [Read More](https://medium.com/p/468309134cff) |
+| Wed, 17 Dec 2025 14:53:23 GMT | Storm | Alizabeth Amelia Rose | [Read More](https://medium.com/p/3ff2c98415ec) |
+| Wed, 17 Dec 2025 14:52:15 GMT | The $50 Million Code Bug That’s Still Emptying Crypto Wallets (And How to Stop It Before It Hits… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/a4891f4b0dd1) |
 | Wed, 17 Dec 2025 14:42:33 GMT | # The API Endpoint That Shouldn’t Have Exposed 50,000 User Records | Abdulbar | [Read More](https://medium.com/p/4b29b9f20df2) |
 | Wed, 17 Dec 2025 14:40:54 GMT | WHAT PROFESSIONAL BURGLARS ARE ACTUALLY LOOKING FOR WHEN THEY WATCH YOUR HOUSE | Safewithyvonne | [Read More](https://medium.com/p/d67361110d44) |
 | Wed, 17 Dec 2025 14:36:42 GMT | Advent of Cyber 2025 Day6 — Tryhackme walkthrough(Malware Analysis — Egg-xecutable) | TRedEye | [Read More](https://medium.com/p/c537a4d5c312) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 10:14:49 GMT | How One WhatsApp Feature Got Me Two $500 Bounties in the Meta Bug Bounty Program | Mohammad Shadab Shaikh | [Read More](https://medium.com/p/31ffb3ff12c9) |
 | Wed, 17 Dec 2025 10:12:03 GMT | GraphQL Security Deep Dive: Finding High‑Impact Bugs | Afi0pchik | [Read More](https://medium.com/p/a6adedc6133c) |
 | Wed, 17 Dec 2025 10:06:01 GMT | ⭐ Why is global security finding itself in its most vulnerable moment? | Mr Simpsons | [Read More](https://medium.com/p/92722a1d6506) |
-| Wed, 17 Dec 2025 10:02:44 GMT | MACOF Explained: The Easiest ARP Flooding Attack Ever! | Shahzaib | [Read More](https://medium.com/p/184434161ba5) |
-| Wed, 17 Dec 2025 10:02:37 GMT | Magento Security Best Practices: How to Keep Your Store Safe | On Tap | [Read More](https://medium.com/p/e9d35316984d) |
-| Wed, 17 Dec 2025 10:00:57 GMT | SENSITIVE PII DATA FOUND OF PAYPAL, CEO ALEX CHRISS DATA BREACH LEAK WEBSITE CLOSED AS… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/594d9a26fbd0) |
-| Wed, 17 Dec 2025 09:58:25 GMT | The 7 Best DAST Solutions for 2026: Ranked by Speed and Accuracy | SecureSlate | [Read More](https://medium.com/p/ed55087d2660) |
-| Wed, 17 Dec 2025 09:57:53 GMT | GhostPoster and the “Trusted Icon” Trap: How 17 Firefox Add-ons Turned a PNG into a Malware Loader | Germano Costi | [Read More](https://medium.com/p/d38c7e0ceee2) |
-| Wed, 17 Dec 2025 09:57:30 GMT | The Mother Lode: Hacking with GitHub Dorking | Janhvee Laad | [Read More](https://medium.com/p/40a8201218a3) |
-| Wed, 17 Dec 2025 09:54:57 GMT | Les headers HTTP : ces métadonnées invisibles qui pilotent vos applications | Ahmadou Bamba Diagne | [Read More](https://medium.com/p/b30e113242f6) |
-| Wed, 17 Dec 2025 09:39:44 GMT | How to Create an SSH Honeypot on Ubuntu Server | Abhinsubej | [Read More](https://medium.com/p/1f1be6348ed6) |
-| Wed, 17 Dec 2025 09:38:58 GMT | Best skill develop center in Delhi NCR | Anshul Choudhary | [Read More](https://medium.com/p/e0a74d9b16b1) |
-| Wed, 17 Dec 2025 09:35:35 GMT | Top OSINT Browser Extensions for BugHunters, Cybersecurity Professionals, Journalists… | Elie Attieh | [Read More](https://medium.com/p/4809431f9c79) |
-| Wed, 17 Dec 2025 09:34:50 GMT | Deleting Browsing Data: The First Step Toward Real Online Privacy | EraseMe | [Read More](https://medium.com/p/492f5b01f2df) |
-| Wed, 17 Dec 2025 09:13:26 GMT | This Industry Is The Biggest Cybersecurity Blind Spot In The World — And Agriculture Is Paying The… | Redfox Security | [Read More](https://medium.com/p/1e441c1e8d84) |
-| Wed, 17 Dec 2025 09:13:11 GMT | Breaking IoT Assumptions: What RF Analysis Revealed About a “Secure” Smart Sensor | Michael Preston | [Read More](https://medium.com/p/2cc990238f97) |
-| Wed, 17 Dec 2025 09:12:01 GMT | STARK Lab: An Interactive Deep Dive into Zero-Knowledge Proofs | Bernhard Mueller | [Read More](https://medium.com/p/d5894121b22e) |
-| Wed, 17 Dec 2025 09:02:55 GMT | Cybersecurity for Remote Workers Must Know Tips | Warda Saleem | [Read More](https://medium.com/p/639b5c1b51aa) |
-| Wed, 17 Dec 2025 09:02:34 GMT | The Dark Web Explained Clearly: What It Is, How It Works and Why It Matters to You | Noorul Ameen | [Read More](https://medium.com/p/5babcd4290e8) |
