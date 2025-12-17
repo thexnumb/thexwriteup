@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 16:14:52 GMT | Career Growth in 2026: How Tech Professionals Move Forward in Their Current Roles | David Rise | [Read More](https://medium.com/p/08bc5db699b2) |
+| Wed, 17 Dec 2025 16:11:52 GMT | Understanding BOLA: What It Is, How It Happens, and How to Prevent It. | Esther Kenneth | [Read More](https://medium.com/p/008f5787628b) |
+| Wed, 17 Dec 2025 16:00:27 GMT | Why HR Is a Prime Target for Social Engineering Attacks | Digital Defense | [Read More](https://medium.com/p/5a1c1c0e84ff) |
+| Wed, 17 Dec 2025 15:58:56 GMT | Choosing A Secure And Reliable Web Host That Scales | Geoffrey Wenger | [Read More](https://medium.com/p/2c7b6feb587b) |
+| Wed, 17 Dec 2025 15:58:48 GMT | Real Computer Maintenance Without Risk Or Subscriptions | Geoffrey Wenger | [Read More](https://medium.com/p/14318efc936b) |
+| Wed, 17 Dec 2025 15:55:46 GMT | When Governments Tell You to Turn Off the Network, the Model Is Already Broken | Fortress Protocol | [Read More](https://medium.com/p/2782db0b8771) |
+| Wed, 17 Dec 2025 15:53:03 GMT | SSRF Challenge Write-up | Obioma Felicity Uzoh | [Read More](https://medium.com/p/96759d05e27c) |
+| Wed, 17 Dec 2025 15:47:52 GMT | The Comma That Cost a Fortune | Anuja | [Read More](https://medium.com/p/1f7bd0a29363) |
 | Wed, 17 Dec 2025 15:45:00 GMT | Strengthening Hospital Security with Millennium Access Control Systems | Tony Brooks | [Read More](https://medium.com/p/02cb83d9fa00) |
+| Wed, 17 Dec 2025 15:41:58 GMT | Recording and Analysing network traffic | Irina Y | [Read More](https://medium.com/p/f793286ee44b) |
+| Wed, 17 Dec 2025 15:39:06 GMT | The Sunset of Google’s Dark Web Report: What It Means and Where to Go Next. | eL Njas!™ | [Read More](https://medium.com/p/ceaa1359c336) |
 | Wed, 17 Dec 2025 15:35:49 GMT | How I Met Your Microservice | Saadet Elizaveta Babal | [Read More](https://medium.com/p/1ea1ca56ceaa) |
 | Wed, 17 Dec 2025 15:33:08 GMT | I’ve Interviewed Thousands of Cybersecurity Professionals — Here’s My Best Advice for 2026 | Taimur Ijlal | [Read More](https://medium.com/p/444efec45b2c) |
 | Wed, 17 Dec 2025 15:32:46 GMT | React2Shell: Technical Deep Dive into CVE-2025–55182 (CVSS 10.0) | Mohammed Muneef | [Read More](https://medium.com/p/fe884c61eb85) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 11:20:08 GMT | The Backbone of the Web: A Developer’s Guide to HTTP, HTTPS, and SSL | Pattarapol Tantechasa | [Read More](https://medium.com/p/8ea5c60b32f1) |
 | Wed, 17 Dec 2025 11:12:09 GMT | The Internet Is More Than Just a Click: Understanding IP, Ports, and Protocols Behind the… | Habibi | [Read More](https://medium.com/p/f3a85485b1da) |
 | Wed, 17 Dec 2025 11:06:25 GMT | Raccoon Stealer v2: What Every Blockchain Developer Needs to Know About Info-Stealing Malware | DracattusDev | [Read More](https://medium.com/p/ddaa715421d3) |
-| Wed, 17 Dec 2025 11:03:21 GMT | 5 Ways Threat Intelligence Drives SOC ROI: Board-Ready Cases for CISOs | ANY.RUN | [Read More](https://medium.com/p/468a18046777) |
-| Wed, 17 Dec 2025 11:01:51 GMT | How to set up an Active Directory lab at home | Gothos | [Read More](https://medium.com/p/9d469a9901d1) |
-| Wed, 17 Dec 2025 10:50:21 GMT | The Beginning of the End-to-End: How the World’s First Wireless Hack Exposed a Security Myth | Yashas Shetty | [Read More](https://medium.com/p/b9650c182d9b) |
-| Wed, 17 Dec 2025 10:49:05 GMT | Best Endpoint Security Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/29b517444783) |
-| Wed, 17 Dec 2025 10:45:12 GMT | 合约代码审计（二） — 利用AST构建状态机 | xun stark | [Read More](https://medium.com/p/d4410504ee2b) |
-| Wed, 17 Dec 2025 10:44:33 GMT | TCP vs UDP protocol in cyber security: | Sir Lakewest | [Read More](https://medium.com/p/a87020e05c89) |
-| Wed, 17 Dec 2025 10:40:56 GMT | From ISO 27001 to SOC 2 Type 2: Why we decided to climb Everest solo (again!) | Rebecca Cottignies | [Read More](https://medium.com/p/ab0847401ab9) |
-| Wed, 17 Dec 2025 10:38:49 GMT | Email Phishing Analysis: How Attacks Work, Why They Succeed, and How to Defend Against Them | Jestin Samuel | [Read More](https://medium.com/p/18045ea4842e) |
-| Wed, 17 Dec 2025 10:38:48 GMT | Why Cybersecurity Tools Alone Can Never Protect Your Organization | Ankit rai | [Read More](https://medium.com/p/449ebd7ea97b) |
-| Wed, 17 Dec 2025 10:36:25 GMT | Turning Code Into Color — The RGB Breakthrough Behind NPCore’s Ransomware Defense | David SEHYEON Baek | [Read More](https://medium.com/p/e416649987f3) |
