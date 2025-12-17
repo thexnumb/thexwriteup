@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 11:12:09 GMT | The Internet Is More Than Just a Click: Understanding IP, Ports, and Protocols Behind the… | Habibi | [Read More](https://medium.com/p/f3a85485b1da) |
+| Wed, 17 Dec 2025 11:06:25 GMT | Raccoon Stealer v2: What Every Blockchain Developer Needs to Know About Info-Stealing Malware | DracattusDev | [Read More](https://medium.com/p/ddaa715421d3) |
+| Wed, 17 Dec 2025 11:01:51 GMT | How to set up an Active Directory lab at home | Gothos | [Read More](https://medium.com/p/9d469a9901d1) |
+| Wed, 17 Dec 2025 10:50:21 GMT | The Beginning of the End-to-End: How the World’s First Wireless Hack Exposed a Security Myth | Yashas Shetty | [Read More](https://medium.com/p/b9650c182d9b) |
 | Wed, 17 Dec 2025 10:49:05 GMT | Best Endpoint Security Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/29b517444783) |
+| Wed, 17 Dec 2025 10:45:12 GMT | 合约代码审计（二） — 利用AST构建状态机 | xun stark | [Read More](https://medium.com/p/d4410504ee2b) |
 | Wed, 17 Dec 2025 10:44:33 GMT | TCP vs UDP protocol in cyber security: | Sir Lakewest | [Read More](https://medium.com/p/a87020e05c89) |
 | Wed, 17 Dec 2025 10:40:56 GMT | From ISO 27001 to SOC 2 Type 2: Why we decided to climb Everest solo (again!) | Rebecca Cottignies | [Read More](https://medium.com/p/ab0847401ab9) |
 | Wed, 17 Dec 2025 10:38:49 GMT | Email Phishing Analysis: How Attacks Work, Why They Succeed, and How to Defend Against Them | Jestin Samuel | [Read More](https://medium.com/p/18045ea4842e) |
@@ -108,8 +113,3 @@ Security Platform | Somesh | [Read More](https://medium.com/p/9d3c77246e96) |
 | Wed, 17 Dec 2025 06:30:19 GMT | How We Stayed Protected During the React & Next.js Security Incident | Vottun | [Read More](https://medium.com/p/be6e48ed4894) |
 | Wed, 17 Dec 2025 06:27:23 GMT | The Daily Tech Digest: 17 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7de090c85559) |
 | Wed, 17 Dec 2025 06:25:35 GMT | Emerging Careers in Cybersecurity: What Roles Are Hot and Which Certifications Open the Door | Sec Guy | [Read More](https://medium.com/p/74b2607052b2) |
-| Wed, 17 Dec 2025 06:22:47 GMT | Day 9 — Project Uber. Implementing Security and login configs | Yasif khan | [Read More](https://medium.com/p/3dc7bb3244dd) |
-| Wed, 17 Dec 2025 06:18:57 GMT | Beyond Testing | Tech and Marketing Journal | [Read More](https://medium.com/p/ae0d94f63872) |
-| Wed, 17 Dec 2025 06:18:42 GMT | Unlimited ISP Proxies: Avoid Throttles & Bans | HashCrest | [Read More](https://medium.com/p/71c5f71251c0) |
-| Wed, 17 Dec 2025 06:15:40 GMT | When finance sees too much | Andrea Belvedere | [Read More](https://medium.com/p/32b5525085f8) |
-| Wed, 17 Dec 2025 06:13:45 GMT | The Cryptography Concept Journey -Digital Signature | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/63bacd12e39d) |
