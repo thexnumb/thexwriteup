@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 20:30:05 GMT | When Encryption Depends on Errors, Not Data A Critical Look at Noise-Based Security in Quantum-Safe… | Bervice | [Read More](https://medium.com/p/640ee3790b9a) |
+| Wed, 17 Dec 2025 20:29:55 GMT | The Security Automation That Actually Worked (And Why Most Don’t) | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/49e06555b501) |
+| Wed, 17 Dec 2025 20:28:15 GMT | When detection logic is scattered, SigmaQuery finds the right Sigma rule in seconds | Reinhard Westerholt | [Read More](https://medium.com/p/ed300a076b22) |
+| Wed, 17 Dec 2025 20:25:18 GMT | Security Debt: The Hidden Interest We Pay for “Working” Systems | Nagarjuna | [Read More](https://medium.com/p/93391fb85185) |
 | Wed, 17 Dec 2025 20:19:22 GMT | Understanding Broken Authentication: What It Is, How
 It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.com/p/1b046fa9541b) |
 | Wed, 17 Dec 2025 20:06:09 GMT | HTB WEB FUZZING | Darshil Ashvinbhai Thummar | [Read More](https://medium.com/p/6f378ceaa31c) |
@@ -109,7 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 14:36:42 GMT | Advent of Cyber 2025 Day6 — Tryhackme walkthrough(Malware Analysis — Egg-xecutable) | TRedEye | [Read More](https://medium.com/p/c537a4d5c312) |
 | Wed, 17 Dec 2025 14:34:15 GMT | Pengenalan Cybersecurity | My Skill | [Read More](https://medium.com/p/85970ffd6e01) |
 | Wed, 17 Dec 2025 14:33:06 GMT | (Comptia A+) Mastering Environmental Controls in IT: Essential Tips for a Safe and Reliable… | Vignesh R | [Read More](https://medium.com/p/f71314f0bf55) |
-| Wed, 17 Dec 2025 14:33:06 GMT | Production Environment: Where AI Agent Demos Go To Die | Nwosu Rosemary | [Read More](https://medium.com/p/fe50c17315c4) |
-| Wed, 17 Dec 2025 14:24:10 GMT | API Keys, Tokens, and Secrets: How They Leak and How Developers Can Avoid It | Esther Kenneth | [Read More](https://medium.com/p/a51d689c9e0c) |
-| Wed, 17 Dec 2025 14:19:53 GMT | Chain of Responsibility Design Pattern in Modern Java(17–25): Learning from Medieval Bureaucracy | Jitin Kayyala | [Read More](https://medium.com/p/9c947db082a4) |
-| Wed, 17 Dec 2025 14:18:39 GMT | Job-Ready Cybersecurity Training: What You Need to Learn in 2026 | Janbask Training | [Read More](https://medium.com/p/8afdd957146b) |
