@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 09:13:26 GMT | This Industry Is The Biggest Cybersecurity Blind Spot In The World — And Agriculture Is Paying The… | Redfox Security | [Read More](https://medium.com/p/1e441c1e8d84) |
+| Wed, 17 Dec 2025 09:13:11 GMT | Breaking IoT Assumptions: What RF Analysis Revealed About a “Secure” Smart Sensor | Michael Preston | [Read More](https://medium.com/p/2cc990238f97) |
+| Wed, 17 Dec 2025 09:12:01 GMT | STARK Lab: An Interactive Deep Dive into Zero-Knowledge Proofs | Bernhard Mueller | [Read More](https://medium.com/p/d5894121b22e) |
+| Wed, 17 Dec 2025 09:02:55 GMT | Cybersecurity for Remote Workers Must Know Tips | Warda Saleem | [Read More](https://medium.com/p/639b5c1b51aa) |
+| Wed, 17 Dec 2025 09:02:34 GMT | The Dark Web Explained Clearly: What It Is, How It Works and Why It Matters to You | Noorul Ameen | [Read More](https://medium.com/p/5babcd4290e8) |
+| Wed, 17 Dec 2025 09:01:56 GMT | Driving Digital Transformation for Network Marketing Businesses in Bokaro | Jonney3 | [Read More](https://medium.com/p/a6b105d6c8ad) |
+| Wed, 17 Dec 2025 08:59:53 GMT | “When Encrypted Chats Aren’t Enough”: What Pete Hegseth’s Use of Signal Means for U.S. | RealTyme | [Read More](https://medium.com/p/9f510de51715) |
+| Wed, 17 Dec 2025 08:59:30 GMT | The Future of AI CCTV Cameras for Warehouse Security Monitoring | Dolon Ghosh | [Read More](https://medium.com/p/bbd77c0a1eb9) |
+| Wed, 17 Dec 2025 08:55:35 GMT | How to Maintain Security in Remote Communication for Enterprises | RealTyme | [Read More](https://medium.com/p/fbecbd02ddf1) |
+| Wed, 17 Dec 2025 08:52:13 GMT | Session Management — Session Versioning Explained | Aman Khan | [Read More](https://medium.com/p/9fd941ecba10) |
+| Wed, 17 Dec 2025 08:48:19 GMT | I Updated React. Am I Safe? | Angel Ejugh | [Read More](https://medium.com/p/f5ca3239eec5) |
+| Wed, 17 Dec 2025 08:43:04 GMT | The Evolution of Terrorism: Why Modern Extremism Is Harder to Predict — and Harder to Prevent | Swastik Samal | [Read More](https://medium.com/p/15eb0ca88251) |
+| Wed, 17 Dec 2025 08:42:53 GMT | Wazuh.-The Open Source
+Security Platform | Somesh | [Read More](https://medium.com/p/9d3c77246e96) |
+| Wed, 17 Dec 2025 08:33:28 GMT | The Death of the Private Key: How Threshold Cryptography & MPC Redefine Asset Security | AnyaVolkov | [Read More](https://medium.com/p/70d695c0340e) |
 | Wed, 17 Dec 2025 08:32:51 GMT | 7 Critical Steps to Protecting Sensitive Industrial Data | Rahman Iqbal | [Read More](https://medium.com/p/b7ab8870ab13) |
 | Wed, 17 Dec 2025 08:32:17 GMT | Red Team Shortcut: Validate Real-World Credential Exposure Without Guessing | Alexandre Vandamme | [Read More](https://medium.com/p/03ad7c3d4557) |
 | Wed, 17 Dec 2025 08:29:13 GMT | 5 Advanced PostgreSQL Configurations | Oz | [Read More](https://medium.com/p/17b1b7110a54) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 04:31:55 GMT | AI is reshaping Cybersecurity, but not in the way most people think | Shreyas | [Read More](https://medium.com/p/74807303f8e0) |
 | Wed, 17 Dec 2025 04:30:51 GMT | Static ISP Proxies Aren’t Undetectable | LedgerHaze | [Read More](https://medium.com/p/7bf5417b3afb) |
 | Wed, 17 Dec 2025 04:22:39 GMT | Tải Barbarq Mod APK (Vô Hạn Tiền, Max Level) V1.0.1811 | Bandisharecx | [Read More](https://medium.com/p/464441d5ac2a) |
-| Wed, 17 Dec 2025 04:15:09 GMT | CYBER TRUST DI ERA AI DENGAN ZERO-KNOWLEDGE CRYPTOGRPAHY | Agung Nawan | [Read More](https://medium.com/p/be912e2fc6e8) |
-| Wed, 17 Dec 2025 04:09:25 GMT | Secret Maps and Server Gateways: How IP, Ports, and Protocols Work to Protect or Open Networks | Diva Rizky Alfitrah | [Read More](https://medium.com/p/02459a25bbe3) |
-| Wed, 17 Dec 2025 04:07:27 GMT | ️ Day 002 of 100DaysOfCloud Creating an AWS Security Group | Hritik Raj | [Read More](https://medium.com/p/9c3ba6814c05) |
-| Wed, 17 Dec 2025 04:07:16 GMT | For Travelers Entering Nigeria, Tinubu’s New Police-Withdrawal Order Could Change Everything | VOYA | [Read More](https://medium.com/p/128ef808788c) |
-| Wed, 17 Dec 2025 04:03:34 GMT | Security Systems Benefits Go Far Beyond Preventing Crime | Supraja | [Read More](https://medium.com/p/b7fc67244fd3) |
-| Wed, 17 Dec 2025 03:57:43 GMT | Still Failing on Residential/ISP Proxies? Fix Locale + DNS Consistency | CoinZenith | [Read More](https://medium.com/p/13c66d6eec94) |
-| Wed, 17 Dec 2025 03:57:14 GMT | Building a Low-Cost IoT Security Camera with the ESP32-CAM: Setup, Streaming, and Cybersecurity… | Abigail | [Read More](https://medium.com/p/12cd94363db2) |
-| Wed, 17 Dec 2025 03:56:51 GMT | The Hidden Pulse of the Cloud: How to Manage Shadow Networking in Cloud-Native Worlds. | Sanjay K Mohindroo | [Read More](https://medium.com/p/ed1509b70781) |
-| Wed, 17 Dec 2025 03:53:41 GMT | Atlassian CVE-2022–26134 Full Writeup | Sulav1_ | [Read More](https://medium.com/p/4d7b93139f42) |
-| Wed, 17 Dec 2025 03:47:20 GMT | Tải Snake 8 Ball Pool Apk V2.0.6 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/238a96ce30e2) |
-| Wed, 17 Dec 2025 03:35:59 GMT | Dual-Pool Isolation: Keep Logins Stable While Scraping Scales | BitMirage | [Read More](https://medium.com/p/e8824ee213d2) |
-| Wed, 17 Dec 2025 03:33:24 GMT | Your Phone Is Tracking You Right Now — Here’s the Proof | The Techie Indian | [Read More](https://medium.com/p/8880cd2f6775) |
-| Wed, 17 Dec 2025 03:26:35 GMT | Your Smart Toilet Isn’t as Private as You Think: The Truth Behind Kohler’s “End-to-End Encryption”… | Deven Chhajed | [Read More](https://medium.com/p/cad16477aa59) |
-| Wed, 17 Dec 2025 03:23:23 GMT | BLACK ARCH IS BACK ! | spider1sec | [Read More](https://medium.com/p/4fdf903d4892) |
