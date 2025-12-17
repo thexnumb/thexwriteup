@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 10:49:05 GMT | Best Endpoint Security Services Provider in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/29b517444783) |
+| Wed, 17 Dec 2025 10:44:33 GMT | TCP vs UDP protocol in cyber security: | Sir Lakewest | [Read More](https://medium.com/p/a87020e05c89) |
+| Wed, 17 Dec 2025 10:40:56 GMT | From ISO 27001 to SOC 2 Type 2: Why we decided to climb Everest solo (again!) | Rebecca Cottignies | [Read More](https://medium.com/p/ab0847401ab9) |
+| Wed, 17 Dec 2025 10:38:49 GMT | Email Phishing Analysis: How Attacks Work, Why They Succeed, and How to Defend Against Them | Jestin Samuel | [Read More](https://medium.com/p/18045ea4842e) |
+| Wed, 17 Dec 2025 10:38:48 GMT | Why Cybersecurity Tools Alone Can Never Protect Your Organization | Ankit rai | [Read More](https://medium.com/p/449ebd7ea97b) |
+| Wed, 17 Dec 2025 10:36:25 GMT | Turning Code Into Color — The RGB Breakthrough Behind NPCore’s Ransomware Defense | David SEHYEON Baek | [Read More](https://medium.com/p/e416649987f3) |
+| Wed, 17 Dec 2025 10:36:09 GMT | DHCP leak + Access Points/Routers + Juniper EducaOffice Experience | Ammar Cader | [Read More](https://medium.com/p/45d933e11b2c) |
+| Wed, 17 Dec 2025 10:32:33 GMT | The Complete 2026 Guide to Anonymously Accessing the Dark Web | Mohammed Fizal | [Read More](https://medium.com/p/ea565b4d904a) |
+| Wed, 17 Dec 2025 10:25:48 GMT | What 2025 Taught SMEs About Cloud and IT in the UAE | Shirin Fazana | [Read More](https://medium.com/p/a0dafdbfbd11) |
+| Wed, 17 Dec 2025 10:24:47 GMT | Critical Vulnerabilities to Remediate Before Entering 2026 | Salim Doğan CESUR | [Read More](https://medium.com/p/6cf05da14346) |
 | Wed, 17 Dec 2025 10:14:49 GMT | How One WhatsApp Feature Got Me Two $500 Bounties in the Meta Bug Bounty Program | Mohammad Shadab Shaikh | [Read More](https://medium.com/p/31ffb3ff12c9) |
 | Wed, 17 Dec 2025 10:12:03 GMT | GraphQL Security Deep Dive: Finding High‑Impact Bugs | Afi0pchik | [Read More](https://medium.com/p/a6adedc6133c) |
 | Wed, 17 Dec 2025 10:06:01 GMT | ⭐ Why is global security finding itself in its most vulnerable moment? | Mr Simpsons | [Read More](https://medium.com/p/92722a1d6506) |
@@ -92,6 +102,7 @@ Security Platform | Somesh | [Read More](https://medium.com/p/9d3c77246e96) |
 | Wed, 17 Dec 2025 06:50:55 GMT | A mesma arma pode salvar ou destruir — tudo depende de quem a segura. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/49306dc75b1a) |
 | Wed, 17 Dec 2025 06:49:23 GMT | Why Malicious Browser Extensions Are a Real Financial Risk for Online Transactions | Ted Quek | [Read More](https://medium.com/p/061c21e692ff) |
 | Wed, 17 Dec 2025 06:46:03 GMT | Where can I get CNAPP services with built-in vulnerability management? | Sara | [Read More](https://medium.com/p/a0444c3c3d90) |
+| Wed, 17 Dec 2025 06:40:43 GMT | Write Up: MBPTL (Most Basic Penetration Testing Lab) | Rahmat Hadinata | [Read More](https://medium.com/p/9df55e5da603) |
 | Wed, 17 Dec 2025 06:31:43 GMT | Trust: The New Attack Surface in Cybersecurity | Shreya | [Read More](https://medium.com/p/1097b9e6694f) |
 | Wed, 17 Dec 2025 06:30:57 GMT | How I Hacked an Entrepreneur | StvRoot | [Read More](https://medium.com/p/19d270a62c5c) |
 | Wed, 17 Dec 2025 06:30:19 GMT | How We Stayed Protected During the React & Next.js Security Incident | Vottun | [Read More](https://medium.com/p/be6e48ed4894) |
@@ -102,14 +113,3 @@ Security Platform | Somesh | [Read More](https://medium.com/p/9d3c77246e96) |
 | Wed, 17 Dec 2025 06:18:42 GMT | Unlimited ISP Proxies: Avoid Throttles & Bans | HashCrest | [Read More](https://medium.com/p/71c5f71251c0) |
 | Wed, 17 Dec 2025 06:15:40 GMT | When finance sees too much | Andrea Belvedere | [Read More](https://medium.com/p/32b5525085f8) |
 | Wed, 17 Dec 2025 06:13:45 GMT | The Cryptography Concept Journey -Digital Signature | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/63bacd12e39d) |
-| Wed, 17 Dec 2025 06:13:10 GMT | Digital Forensics-[Ali Hadi — Mystery Hacked System Case] | whoami | [Read More](https://medium.com/p/24f3b6cb1a08) |
-| Wed, 17 Dec 2025 06:11:18 GMT | sYou Got an Apple ‘Spyware Attack’ Alert. Here’s What It Actually Means. | RayasWeb | [Read More](https://medium.com/p/7a29b4808cc0) |
-| Wed, 17 Dec 2025 06:08:32 GMT | AI-Agent-Prompts | Abdul Majid Jamil | [Read More](https://medium.com/p/66222797b0f6) |
-| Wed, 17 Dec 2025 05:55:42 GMT | Forensics — Registry Furensics | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/2200861c6357) |
-| Wed, 17 Dec 2025 05:55:23 GMT | How AI Is Transforming the Way Faceless Content Channels Are Built | Nani | [Read More](https://medium.com/p/282eab44972e) |
-| Wed, 17 Dec 2025 05:53:32 GMT | Cyber Risk Is Now a Boardroom Metric, Yet Most Boards Still Treat It Like IT | Jennifer Lawrence | [Read More](https://medium.com/p/d0dbad6755ad) |
-| Wed, 17 Dec 2025 05:43:39 GMT | Proven Strategies: Affordable Website Maintenance Services for Businesses That Prevent Costly… | IT Company | [Read More](https://medium.com/p/a391033f5375) |
-| Wed, 17 Dec 2025 05:38:31 GMT | How I hacked a Jenkins endpoint and leaked critical information | محمد بن إبراهيم | [Read More](https://medium.com/p/87097f21789c) |
-| Wed, 17 Dec 2025 05:32:31 GMT | Insider Secrets to Building a Strong Cyber Defense | Kadhijahafiya | [Read More](https://medium.com/p/8406ac7fd33f) |
-| Wed, 17 Dec 2025 05:29:34 GMT | Personal Cybersecurity for Techies | Udit | [Read More](https://medium.com/p/b479961a98f1) |
-| Wed, 17 Dec 2025 05:28:43 GMT | Ditch the Diploma, Grab the Cert: Why IT Certifications Trump College Degrees in the Modern Tech… | Sec Guy | [Read More](https://medium.com/p/8f1a4e75e4a9) |
