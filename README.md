@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 22:21:32 GMT | --When EDR Becomes the Camouflage | Kapil | [Read More](https://medium.com/p/fd895ac4465b) |
+| Wed, 17 Dec 2025 22:09:33 GMT | “Script” Engellemek Yetmez: Reflected XSS Gerçeği | Melih Yılmaz | [Read More](https://medium.com/p/7eb253c1c417) |
+| Wed, 17 Dec 2025 22:06:07 GMT | Vulnhub Deathnote: 1 Walkthrough | Luke Gearty | [Read More](https://medium.com/p/845929fdbe23) |
+| Wed, 17 Dec 2025 22:02:31 GMT | See How Some of the World’s Best Organisations are Boosting Website Speed and Security with Modern… | Joana Inch | [Read More](https://medium.com/p/abf682225591) |
+| Wed, 17 Dec 2025 21:56:22 GMT | Reset Password Token Leakage to Third-Party Analytics Leading to Account Takeover | Mohamed_Farghly | [Read More](https://medium.com/p/e66723dcb8d0) |
+| Wed, 17 Dec 2025 21:49:46 GMT | Real-Time Scareware Protection Expands in Microsoft Edge | www.OneCoolTip.com | [Read More](https://medium.com/p/b7fa04e99465) |
+| Wed, 17 Dec 2025 21:48:04 GMT | The Trap of Trust — Security Strategies for the Era of Account Takeover | David SEHYEON Baek | [Read More](https://medium.com/p/d0a0d55d0b50) |
 | Wed, 17 Dec 2025 21:31:48 GMT | I Scored 100% on OSCP After 6 Months of Hell (Here’s Everything I Learned) | Abdullah Javeed | [Read More](https://medium.com/p/19d31cd89503) |
 | Wed, 17 Dec 2025 21:28:41 GMT | HackTheBox Challenge Writeup: ReactOOPS | Rahaliashraf | [Read More](https://medium.com/p/4fd619b671ff) |
 | Wed, 17 Dec 2025 21:23:08 GMT | A Ordem do Código Limpo | Kleber Andrade | [Read More](https://medium.com/p/299094b49fad) |
@@ -106,10 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 15:09:08 GMT | Cyber Security Project#4 — Building Encrypted Notes Vault | Abdul Basit Khan | [Read More](https://medium.com/p/9e0c6d20c7bc) |
 | Wed, 17 Dec 2025 15:04:23 GMT | Cyber Risk Management in 2026: From Tools to Truth | Zeron | [Read More](https://medium.com/p/7ff2f2e47e85) |
 | Wed, 17 Dec 2025 15:02:27 GMT | The Quiet Standardization of Finance: What Chainlink’s Week With Coinbase, DTCC, and SWIFT Is… | Joseph Razo | [Read More](https://medium.com/p/cb148f6dd2a9) |
-| Wed, 17 Dec 2025 15:02:25 GMT | Hacking the Connected Car: Part 3 — From App to Actuator | Federico Barsanti | [Read More](https://medium.com/p/2c69e09629e6) |
-| Wed, 17 Dec 2025 15:02:21 GMT | Cyber Briefing: 2025.12.17 | CyberMaterial | [Read More](https://medium.com/p/0a5832eebc49) |
-| Wed, 17 Dec 2025 15:01:00 GMT | Active Directory Attack Simulation and AI-Assisted Threat Detection with Popular SIEM Tools-Part 4 | Robert Onyango | [Read More](https://medium.com/p/01a8a12f7feb) |
-| Wed, 17 Dec 2025 14:59:59 GMT | How to Detect AI-Generated Voices (And Why It’s Getting Harder) | AI Voice Detector | [Read More](https://medium.com/p/65dc2189a733) |
-| Wed, 17 Dec 2025 14:59:01 GMT | Kubernetes 1.35 Security: 7 Game-Changing Features Released Today (DevSecOps Must-Know) | inboryn | [Read More](https://medium.com/p/637b696b0491) |
-| Wed, 17 Dec 2025 14:58:51 GMT | 7 Open Source Intelligence (OSINT) Tools — Investigate The Digital Traces | Byte Hawk | [Read More](https://medium.com/p/88f5976caa50) |
-| Wed, 17 Dec 2025 14:54:15 GMT | ️ Windows Defender Bypasses in 2025: Why Public Tools Still Work — and Why Cybersecurity Pros… | Yua Mikanana | [Read More](https://medium.com/p/468309134cff) |
