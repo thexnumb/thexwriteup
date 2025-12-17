@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 10:14:49 GMT | How One WhatsApp Feature Got Me Two $500 Bounties in the Meta Bug Bounty Program | Mohammad Shadab Shaikh | [Read More](https://medium.com/p/31ffb3ff12c9) |
+| Wed, 17 Dec 2025 10:12:03 GMT | GraphQL Security Deep Dive: Finding High‑Impact Bugs | Afi0pchik | [Read More](https://medium.com/p/a6adedc6133c) |
+| Wed, 17 Dec 2025 10:06:01 GMT | ⭐ Why is global security finding itself in its most vulnerable moment? | Mr Simpsons | [Read More](https://medium.com/p/92722a1d6506) |
+| Wed, 17 Dec 2025 10:02:44 GMT | MACOF Explained: The Easiest ARP Flooding Attack Ever! | Shahzaib | [Read More](https://medium.com/p/184434161ba5) |
+| Wed, 17 Dec 2025 10:02:37 GMT | Magento Security Best Practices: How to Keep Your Store Safe | On Tap | [Read More](https://medium.com/p/e9d35316984d) |
+| Wed, 17 Dec 2025 10:00:57 GMT | SENSITIVE PII DATA FOUND OF PAYPAL, CEO ALEX CHRISS DATA BREACH LEAK WEBSITE CLOSED AS… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/594d9a26fbd0) |
+| Wed, 17 Dec 2025 09:58:25 GMT | The 7 Best DAST Solutions for 2026: Ranked by Speed and Accuracy | SecureSlate | [Read More](https://medium.com/p/ed55087d2660) |
+| Wed, 17 Dec 2025 09:57:53 GMT | GhostPoster and the “Trusted Icon” Trap: How 17 Firefox Add-ons Turned a PNG into a Malware Loader | Germano Costi | [Read More](https://medium.com/p/d38c7e0ceee2) |
+| Wed, 17 Dec 2025 09:57:30 GMT | The Mother Lode: Hacking with GitHub Dorking | Janhvee Laad | [Read More](https://medium.com/p/40a8201218a3) |
+| Wed, 17 Dec 2025 09:54:57 GMT | Les headers HTTP : ces métadonnées invisibles qui pilotent vos applications | Ahmadou Bamba Diagne | [Read More](https://medium.com/p/b30e113242f6) |
+| Wed, 17 Dec 2025 09:39:44 GMT | How to Create an SSH Honeypot on Ubuntu Server | Abhinsubej | [Read More](https://medium.com/p/1f1be6348ed6) |
+| Wed, 17 Dec 2025 09:38:58 GMT | Best skill develop center in Delhi NCR | Anshul Choudhary | [Read More](https://medium.com/p/e0a74d9b16b1) |
+| Wed, 17 Dec 2025 09:35:35 GMT | Top OSINT Browser Extensions for BugHunters, Cybersecurity Professionals, Journalists… | Elie Attieh | [Read More](https://medium.com/p/4809431f9c79) |
+| Wed, 17 Dec 2025 09:34:50 GMT | Deleting Browsing Data: The First Step Toward Real Online Privacy | EraseMe | [Read More](https://medium.com/p/492f5b01f2df) |
 | Wed, 17 Dec 2025 09:13:26 GMT | This Industry Is The Biggest Cybersecurity Blind Spot In The World — And Agriculture Is Paying The… | Redfox Security | [Read More](https://medium.com/p/1e441c1e8d84) |
 | Wed, 17 Dec 2025 09:13:11 GMT | Breaking IoT Assumptions: What RF Analysis Revealed About a “Secure” Smart Sensor | Michael Preston | [Read More](https://medium.com/p/2cc990238f97) |
 | Wed, 17 Dec 2025 09:12:01 GMT | STARK Lab: An Interactive Deep Dive into Zero-Knowledge Proofs | Bernhard Mueller | [Read More](https://medium.com/p/d5894121b22e) |
@@ -59,6 +73,7 @@ Security Platform | Somesh | [Read More](https://medium.com/p/9d3c77246e96) |
 | Wed, 17 Dec 2025 07:11:47 GMT | CyberExam Command Injection (Type1) lab Writeup | A.A | [Read More](https://medium.com/p/d24b4ee59d6f) |
 | Wed, 17 Dec 2025 07:11:31 GMT | From Privacy Payment to Privacy Collaboration: How Cryptography Is Reshaping Trust and Freedom for… | BenFen | [Read More](https://medium.com/p/c21c0b9cc1e6) |
 | Wed, 17 Dec 2025 07:11:29 GMT | Smarter Security in 2026: How Advanced Technology Is Transforming Guard Management | TrueTym | [Read More](https://medium.com/p/fbfb5f5cc404) |
+| Wed, 17 Dec 2025 07:10:43 GMT | O histórico de alguém revela o que ele fez — mas não o que ainda pode fazer. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/fea7175f8bf0) |
 | Wed, 17 Dec 2025 07:10:36 GMT | The Night I Stumbled Into an Unprotected Hangfire Dashboard — And Why It Was Far More Dangerous… | Anshubind | [Read More](https://medium.com/p/c8212005cf51) |
 | Wed, 17 Dec 2025 07:09:41 GMT | The Debug Log Left Behind — And How It Exposed the Inner Workings of a Major Automotive Platform | Anshubind | [Read More](https://medium.com/p/97d1f09cadef) |
 | Wed, 17 Dec 2025 07:09:27 GMT | Manual vs Automated Penetration Testing: Which Works Best in 2025 | VisionX Technologies | [Read More](https://medium.com/p/e2392bbca3c9) |
@@ -98,18 +113,3 @@ Security Platform | Somesh | [Read More](https://medium.com/p/9d3c77246e96) |
 | Wed, 17 Dec 2025 05:32:31 GMT | Insider Secrets to Building a Strong Cyber Defense | Kadhijahafiya | [Read More](https://medium.com/p/8406ac7fd33f) |
 | Wed, 17 Dec 2025 05:29:34 GMT | Personal Cybersecurity for Techies | Udit | [Read More](https://medium.com/p/b479961a98f1) |
 | Wed, 17 Dec 2025 05:28:43 GMT | Ditch the Diploma, Grab the Cert: Why IT Certifications Trump College Degrees in the Modern Tech… | Sec Guy | [Read More](https://medium.com/p/8f1a4e75e4a9) |
-| Wed, 17 Dec 2025 05:21:47 GMT | Staying Ahead in Digital Parenting! | MrKarthikKN | [Read More](https://medium.com/p/53c6fcb075dd) |
-| Wed, 17 Dec 2025 05:19:58 GMT | Zuri Ozeomachukwu Njoku Shares Insights on How IT Improves Access to Education | Zuri Njoku | [Read More](https://medium.com/p/26c7f6da5b57) |
-| Wed, 17 Dec 2025 05:13:53 GMT | Switching Between VPN Providers Automatically: Why It Matters and When to Do It | ghostyjoe | [Read More](https://medium.com/p/539888d8d41b) |
-| Wed, 17 Dec 2025 05:05:10 GMT | NetworkMiner — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/54ceced3f5ec) |
-| Wed, 17 Dec 2025 05:03:49 GMT | Holiday Security Alert: How to Spot and Avoid Fake QR Codes | Sanket Ligade | [Read More](https://medium.com/p/db2e82dfc5c8) |
-| Wed, 17 Dec 2025 04:56:13 GMT | Good Engineers Fix Bugs. Great Engineers Design Systems Where Bugs Are Boring | Krati Varshney | [Read More](https://medium.com/p/2a71b7ccb6d8) |
-| Wed, 17 Dec 2025 04:46:12 GMT | What Is Dual-Band WiFi and Why It Improves Internet Speed? | Ask IT Support | [Read More](https://medium.com/p/0af32a76f304) |
-| Wed, 17 Dec 2025 04:39:27 GMT | Cross-Site Scripting Via Unsanitized Input In a PHP Endpoint | Ajay | [Read More](https://medium.com/p/993266129f5d) |
-| Wed, 17 Dec 2025 04:35:31 GMT | DOCUMENTING MY JOURNEY TOWARDS DECENTRALISED AI AND BLOCKCHAIN CYBERSECURITY | Adesowapo Adeyemi | [Read More](https://medium.com/p/32e7004c1a02) |
-| Wed, 17 Dec 2025 04:33:00 GMT | The Easiest Way to Protect Yourself | Michael Unquera | [Read More](https://medium.com/p/7060d731859f) |
-| Wed, 17 Dec 2025 04:32:20 GMT | PostgreSQL Is All You Need: Stop Over-Engineering Your Database | Ritik Doijod | [Read More](https://medium.com/p/91f4ae55501a) |
-| Wed, 17 Dec 2025 04:32:17 GMT | 10 Messaging Bridges That Don’t Lock User Funds | Quaxel | [Read More](https://medium.com/p/792395ae3c63) |
-| Wed, 17 Dec 2025 04:31:55 GMT | AI is reshaping Cybersecurity, but not in the way most people think | Shreyas | [Read More](https://medium.com/p/74807303f8e0) |
-| Wed, 17 Dec 2025 04:30:51 GMT | Static ISP Proxies Aren’t Undetectable | LedgerHaze | [Read More](https://medium.com/p/7bf5417b3afb) |
-| Wed, 17 Dec 2025 04:22:39 GMT | Tải Barbarq Mod APK (Vô Hạn Tiền, Max Level) V1.0.1811 | Bandisharecx | [Read More](https://medium.com/p/464441d5ac2a) |
