@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 19:38:26 GMT | RootMe: A Step-by-Step CTF Walkthrough | IshhIshneet | [Read More](https://medium.com/p/71b30bc80442) |
+| Wed, 17 Dec 2025 19:29:55 GMT | What is Cross-Site Request Forgery (CSRF)? | Islemothmani | [Read More](https://medium.com/p/f1dbef5aa269) |
+| Wed, 17 Dec 2025 19:25:33 GMT | Top Enterprise Network Security Solutions 2026 : How To Protect Data | Fortnexs Shield | [Read More](https://medium.com/p/9a67edbe6952) |
+| Wed, 17 Dec 2025 19:22:37 GMT | Advent of Cyber 2025 Day 17 - TryHackMe - CyberChef - Hoperation Save McSkidy - WriteUp | Axoloth | [Read More](https://medium.com/p/85b9eda13719) |
+| Wed, 17 Dec 2025 19:20:44 GMT | The First AI Coding Exploits Are Here, and They Don’t Look Like Hacks | MohamedAbdelmenem | [Read More](https://medium.com/p/427bcba83d0d) |
+| Wed, 17 Dec 2025 19:19:04 GMT | Network Security Essentials — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/0754f9e5fb47) |
+| Wed, 17 Dec 2025 19:15:40 GMT | Operator Fatigue In OT Cyber Security | Muhammad Ali Khan | [Read More](https://medium.com/p/2829e6bc4e68) |
+| Wed, 17 Dec 2025 19:15:21 GMT | Centralized Suppression Management for Detections Using Macros & Lookups | Harrison Pomeroy | [Read More](https://medium.com/p/be87ffc2f954) |
 | Wed, 17 Dec 2025 19:09:54 GMT | Event Security London — Reliable & Licensed Event Security by WA Event Services | waeventservices.co.uk/ | [Read More](https://medium.com/p/da6a3e77ac57) |
 | Wed, 17 Dec 2025 18:59:00 GMT | Day 135 — Bohemoth Level-0 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/526322cb5aa3) |
 | Wed, 17 Dec 2025 18:51:35 GMT | Home Office Security for Businesses: How to Protect Remote Employees and Data | Cordula Boeck | [Read More](https://medium.com/p/7df4a334d157) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 13:44:14 GMT | Active Directory Pratik Rehberi: IV — Additional DC, RODC ve FSMO Rollerinin Yönetimi | Taha Altın | [Read More](https://medium.com/p/e1cacb587cf7) |
 | Wed, 17 Dec 2025 13:41:01 GMT | Active Directory Pratik Rehberi: III “Group Policy (GPO)” | Taha Altın | [Read More](https://medium.com/p/5570d3a4bb94) |
 | Wed, 17 Dec 2025 13:36:03 GMT | Beginner’s Guide to Cybersecurity | Dubeyguy | [Read More](https://medium.com/p/0381664f1375) |
-| Wed, 17 Dec 2025 13:33:10 GMT | The Bug Bounty Automation Stack That Can Generate $10K+ (Open Source Tools Only) | BugHunter’s Journal | [Read More](https://medium.com/p/93ed3e8b3ee7) |
-| Wed, 17 Dec 2025 13:31:32 GMT | Splunk Security Use Cases: A Practical Guide for Real — World Threat Detection‍ | Shakthi | [Read More](https://medium.com/p/a067fd6054a0) |
-| Wed, 17 Dec 2025 13:30:10 GMT | Hidden Holiday Email Trackers: How Retailers Profile Your Inbox | Karl Buhl | [Read More](https://medium.com/p/0ac840f472fd) |
-| Wed, 17 Dec 2025 13:22:41 GMT | K9 Security Services | Target securitygroup | [Read More](https://medium.com/p/3d5edf6fa147) |
-| Wed, 17 Dec 2025 13:20:08 GMT | Roaming fields in search of potential vulnerabilities | Unicorn Developer | [Read More](https://medium.com/p/f4339b37c1f0) |
-| Wed, 17 Dec 2025 13:19:24 GMT | Android 16’s New Security Feature: A Shield Against Accessibility API Abuse | Jackson F. de A. M. | [Read More](https://medium.com/p/4bdaf4f214f3) |
-| Wed, 17 Dec 2025 13:18:04 GMT | CRITICAL ALERT: React2Shell (CVE-2025–55182) Allows Remote Code Execution in Next.js and React SSR | Ashish Sharda | [Read More](https://medium.com/p/5f5efb56c81e) |
-| Wed, 17 Dec 2025 13:11:54 GMT | You Might Just Stab Me Directly in My Heart | august | [Read More](https://medium.com/p/0407bc9607a8) |
