@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 14:42:33 GMT | # The API Endpoint That Shouldn’t Have Exposed 50,000 User Records | Abdulbar | [Read More](https://medium.com/p/4b29b9f20df2) |
+| Wed, 17 Dec 2025 14:40:54 GMT | WHAT PROFESSIONAL BURGLARS ARE ACTUALLY LOOKING FOR WHEN THEY WATCH YOUR HOUSE | Safewithyvonne | [Read More](https://medium.com/p/d67361110d44) |
+| Wed, 17 Dec 2025 14:36:42 GMT | Advent of Cyber 2025 Day6 — Tryhackme walkthrough(Malware Analysis — Egg-xecutable) | TRedEye | [Read More](https://medium.com/p/c537a4d5c312) |
+| Wed, 17 Dec 2025 14:34:15 GMT | Pengenalan Cybersecurity | My Skill | [Read More](https://medium.com/p/85970ffd6e01) |
+| Wed, 17 Dec 2025 14:33:06 GMT | (Comptia A+) Mastering Environmental Controls in IT: Essential Tips for a Safe and Reliable… | Vignesh R | [Read More](https://medium.com/p/f71314f0bf55) |
+| Wed, 17 Dec 2025 14:33:06 GMT | Production Environment: Where AI Agent Demos Go To Die | Nwosu Rosemary | [Read More](https://medium.com/p/fe50c17315c4) |
+| Wed, 17 Dec 2025 14:24:10 GMT | API Keys, Tokens, and Secrets: How They Leak and How Developers Can Avoid It | Esther Kenneth | [Read More](https://medium.com/p/a51d689c9e0c) |
 | Wed, 17 Dec 2025 14:19:53 GMT | Chain of Responsibility Design Pattern in Modern Java(17–25): Learning from Medieval Bureaucracy | Jitin Kayyala | [Read More](https://medium.com/p/9c947db082a4) |
 | Wed, 17 Dec 2025 14:18:39 GMT | Job-Ready Cybersecurity Training: What You Need to Learn in 2026 | Janbask Training | [Read More](https://medium.com/p/8afdd957146b) |
 | Wed, 17 Dec 2025 14:16:48 GMT | Empowering Cyber Defense: The Rise of Agentic AI in Cybersecurity | Maya Rhodes Technology Ai | [Read More](https://medium.com/p/f284cd21b9e0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 09:12:01 GMT | STARK Lab: An Interactive Deep Dive into Zero-Knowledge Proofs | Bernhard Mueller | [Read More](https://medium.com/p/d5894121b22e) |
 | Wed, 17 Dec 2025 09:02:55 GMT | Cybersecurity for Remote Workers Must Know Tips | Warda Saleem | [Read More](https://medium.com/p/639b5c1b51aa) |
 | Wed, 17 Dec 2025 09:02:34 GMT | The Dark Web Explained Clearly: What It Is, How It Works and Why It Matters to You | Noorul Ameen | [Read More](https://medium.com/p/5babcd4290e8) |
-| Wed, 17 Dec 2025 09:01:56 GMT | Driving Digital Transformation for Network Marketing Businesses in Bokaro | Jonney3 | [Read More](https://medium.com/p/a6b105d6c8ad) |
-| Wed, 17 Dec 2025 08:59:53 GMT | “When Encrypted Chats Aren’t Enough”: What Pete Hegseth’s Use of Signal Means for U.S. | RealTyme | [Read More](https://medium.com/p/9f510de51715) |
-| Wed, 17 Dec 2025 08:59:30 GMT | The Future of AI CCTV Cameras for Warehouse Security Monitoring | Dolon Ghosh | [Read More](https://medium.com/p/bbd77c0a1eb9) |
-| Wed, 17 Dec 2025 08:55:35 GMT | How to Maintain Security in Remote Communication for Enterprises | RealTyme | [Read More](https://medium.com/p/fbecbd02ddf1) |
-| Wed, 17 Dec 2025 08:52:13 GMT | Session Management — Session Versioning Explained | Aman Khan | [Read More](https://medium.com/p/9fd941ecba10) |
-| Wed, 17 Dec 2025 08:48:19 GMT | I Updated React. Am I Safe? | Angel Ejugh | [Read More](https://medium.com/p/f5ca3239eec5) |
-| Wed, 17 Dec 2025 08:43:04 GMT | The Evolution of Terrorism: Why Modern Extremism Is Harder to Predict — and Harder to Prevent | Swastik Samal | [Read More](https://medium.com/p/15eb0ca88251) |
