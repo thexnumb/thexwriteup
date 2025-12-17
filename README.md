@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 14:19:53 GMT | Chain of Responsibility Design Pattern in Modern Java(17–25): Learning from Medieval Bureaucracy | Jitin Kayyala | [Read More](https://medium.com/p/9c947db082a4) |
+| Wed, 17 Dec 2025 14:18:39 GMT | Job-Ready Cybersecurity Training: What You Need to Learn in 2026 | Janbask Training | [Read More](https://medium.com/p/8afdd957146b) |
+| Wed, 17 Dec 2025 14:16:48 GMT | Empowering Cyber Defense: The Rise of Agentic AI in Cybersecurity | Maya Rhodes Technology Ai | [Read More](https://medium.com/p/f284cd21b9e0) |
+| Wed, 17 Dec 2025 14:09:39 GMT | Security Platform Consolidation in 2026: The AI Imperative | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/6d0deb426841) |
+| Wed, 17 Dec 2025 14:05:11 GMT | What’s your AI Policy like? | Adeoluwa Obadofin | [Read More](https://medium.com/p/46cc433e2d04) |
+| Wed, 17 Dec 2025 14:00:37 GMT | TROPTIONS CORP Partners with Live Oaks Strategies to Power Enterprise Cybersecurity. | Carl London | [Read More](https://medium.com/p/43e099ef9532) |
+| Wed, 17 Dec 2025 13:55:51 GMT | Cellik Android Malware Builds Malicious Versions of Google Play Apps: A Growing Mobile Security… | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/b71929e5aea4) |
+| Wed, 17 Dec 2025 13:44:29 GMT | MASVS Compliance Checklist: A Practical Guide for Security Teams | Abhinav | [Read More](https://medium.com/p/3b14f5b6b764) |
+| Wed, 17 Dec 2025 13:44:14 GMT | Active Directory Pratik Rehberi: IV — Additional DC, RODC ve FSMO Rollerinin Yönetimi | Taha Altın | [Read More](https://medium.com/p/e1cacb587cf7) |
+| Wed, 17 Dec 2025 13:41:01 GMT | Active Directory Pratik Rehberi: III “Group Policy (GPO)” | Taha Altın | [Read More](https://medium.com/p/5570d3a4bb94) |
+| Wed, 17 Dec 2025 13:36:03 GMT | Beginner’s Guide to Cybersecurity | Dubeyguy | [Read More](https://medium.com/p/0381664f1375) |
+| Wed, 17 Dec 2025 13:33:10 GMT | The Bug Bounty Automation Stack That Can Generate $10K+ (Open Source Tools Only) | BugHunter’s Journal | [Read More](https://medium.com/p/93ed3e8b3ee7) |
 | Wed, 17 Dec 2025 13:31:32 GMT | Splunk Security Use Cases: A Practical Guide for Real — World Threat Detection‍ | Shakthi | [Read More](https://medium.com/p/a067fd6054a0) |
 | Wed, 17 Dec 2025 13:30:10 GMT | Hidden Holiday Email Trackers: How Retailers Profile Your Inbox | Karl Buhl | [Read More](https://medium.com/p/0ac840f472fd) |
 | Wed, 17 Dec 2025 13:22:41 GMT | K9 Security Services | Target securitygroup | [Read More](https://medium.com/p/3d5edf6fa147) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 08:52:13 GMT | Session Management — Session Versioning Explained | Aman Khan | [Read More](https://medium.com/p/9fd941ecba10) |
 | Wed, 17 Dec 2025 08:48:19 GMT | I Updated React. Am I Safe? | Angel Ejugh | [Read More](https://medium.com/p/f5ca3239eec5) |
 | Wed, 17 Dec 2025 08:43:04 GMT | The Evolution of Terrorism: Why Modern Extremism Is Harder to Predict — and Harder to Prevent | Swastik Samal | [Read More](https://medium.com/p/15eb0ca88251) |
-| Wed, 17 Dec 2025 08:42:53 GMT | Wazuh.-The Open Source
-Security Platform | Somesh | [Read More](https://medium.com/p/9d3c77246e96) |
-| Wed, 17 Dec 2025 08:33:28 GMT | The Death of the Private Key: How Threshold Cryptography & MPC Redefine Asset Security | AnyaVolkov | [Read More](https://medium.com/p/70d695c0340e) |
-| Wed, 17 Dec 2025 08:32:51 GMT | 7 Critical Steps to Protecting Sensitive Industrial Data | Rahman Iqbal | [Read More](https://medium.com/p/b7ab8870ab13) |
-| Wed, 17 Dec 2025 08:32:17 GMT | Red Team Shortcut: Validate Real-World Credential Exposure Without Guessing | Alexandre Vandamme | [Read More](https://medium.com/p/03ad7c3d4557) |
-| Wed, 17 Dec 2025 08:29:13 GMT | 5 Advanced PostgreSQL Configurations | Oz | [Read More](https://medium.com/p/17b1b7110a54) |
-| Wed, 17 Dec 2025 08:27:44 GMT | eJPT Prep - Host & Network Penetration Testing: Exploitation CTF 2 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/028574c52635) |
-| Wed, 17 Dec 2025 08:25:18 GMT | Alarm Systems & Monitoring | Square Security Inc. | [Read More](https://medium.com/p/92df56310101) |
-| Wed, 17 Dec 2025 08:15:21 GMT | Siber Güvenliğin Temeli: Network 101 | Umut Baran Yavuz | [Read More](https://medium.com/p/2820f3313efe) |
-| Wed, 17 Dec 2025 08:14:05 GMT | Malicious VPN Extensions Are Stealing Your ChatGPT and Gemini Conversations | Techsankar | [Read More](https://medium.com/p/933b4169b34d) |
-| Wed, 17 Dec 2025 08:09:17 GMT | Most Cybersecurity Advice Is Generic — Here’s How We’re Different: The Problem with Most Security… | Fook Hwa Tan | [Read More](https://medium.com/p/13a3b1ed14a5) |
-| Wed, 17 Dec 2025 08:07:34 GMT | It Wasn’t Easy to Hear, But It Helped Me Grow — Feedback That Changed How I Lead | Fook Hwa Tan | [Read More](https://medium.com/p/6703d1ac9beb) |
-| Wed, 17 Dec 2025 08:02:31 GMT | How to Prevent Ransomware Attacks Step by Step | Manisha Chaudhary | [Read More](https://medium.com/p/109ee1663c6b) |
