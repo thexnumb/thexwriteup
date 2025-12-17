@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 07:32:16 GMT | 10 Compliance-Ready Data Rooms for Web3 Raises | Praxen | [Read More](https://medium.com/p/26b45f86aac7) |
+| Wed, 17 Dec 2025 07:31:55 GMT | Compiler আমাকে যতবার অপমান করেছে | Taminul Islam | [Read More](https://medium.com/p/475a30db47cb) |
+| Wed, 17 Dec 2025 07:31:07 GMT | Breaking Payment Logic With Numbers: A Bug Bounty Story… | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/091b3aa55256) |
+| Wed, 17 Dec 2025 07:25:57 GMT | How Much Does Cyber Insurance Cost in India? A Complete Pricing Guide for Businesses | piyush | [Read More](https://medium.com/p/17449341fd5d) |
+| Wed, 17 Dec 2025 07:25:46 GMT | Day 82- How I accidently found one of the best beginner CTF platforms: OverTheWire | unica 02 | [Read More](https://medium.com/p/9dd59a39f288) |
+| Wed, 17 Dec 2025 07:25:19 GMT | Mastering Next.js Monorepos for Enterprise Scale | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/add8ede5eff1) |
+| Wed, 17 Dec 2025 07:24:56 GMT | I Spoke to a Cybersecurity Professional Who Can’t Get Hired. He Did Nothing Wrong. | Taimur Ijlal | [Read More](https://medium.com/p/d6daf5cb5afe) |
+| Wed, 17 Dec 2025 07:23:36 GMT | Security Lab Simulation Project Part 13: Snort Integration on Elasticsearch and Tshark Installation | Jenny | [Read More](https://medium.com/p/1197c1236349) |
 | Wed, 17 Dec 2025 07:22:26 GMT | Tải Zarchiver Pro Apk (Bản Full) v1.0.10 Miễn Phí | genzvnmod | [Read More](https://medium.com/p/5c11915e7ec7) |
 | Wed, 17 Dec 2025 07:20:46 GMT | Tải Summertime Saga Mod Apk Việt Hóa v22.0.0 | Game4u | [Read More](https://medium.com/p/e62b9b06a7e4) |
+| Wed, 17 Dec 2025 07:20:41 GMT | Design your first Windows Forensics Lab, as a defensive content engineer | Chicken0248 | [Read More](https://medium.com/p/523bf891fbd7) |
+| Wed, 17 Dec 2025 07:18:19 GMT | December 16, 2025 • HarwoodLabs | Chris Harwood | [Read More](https://medium.com/p/fe4e04d34cb2) |
 | Wed, 17 Dec 2025 07:15:29 GMT | Signal Intrusion - Hire Hacker | BlackHat | [Read More](https://medium.com/p/f59e31aac895) |
 | Wed, 17 Dec 2025 07:12:23 GMT | Volatility Plugins — Plugin windows.ldrmodules Let’s Talk About it | Dean | [Read More](https://medium.com/p/d209b03d275d) |
 | Wed, 17 Dec 2025 07:11:47 GMT | CyberExam Command Injection (Type1) lab Writeup | A.A | [Read More](https://medium.com/p/d24b4ee59d6f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 01:06:39 GMT | Shannon and the Rise of “Proof-by-Exploitation” AI Pentesting | Barbaros Emre Alagöz | [Read More](https://medium.com/p/67b0aadb2c49) |
 | Wed, 17 Dec 2025 01:06:15 GMT | The Absence of Hatred Is Not Enough | Jesse Di Liello | [Read More](https://medium.com/p/4f46bf2fbec4) |
 | Wed, 17 Dec 2025 01:05:11 GMT | XP Cyber Range Writeup - Operations Gone Wrong: The Incompetent Intern [NG] | jellyfish | [Read More](https://medium.com/p/461570f466c4) |
-| Wed, 17 Dec 2025 00:49:16 GMT | Recurring classes of software weaknesses: 2007 vs. 2025 | @boblord | [Read More](https://medium.com/p/c2cd56125e1a) |
-| Wed, 17 Dec 2025 00:47:21 GMT | We Are the People—And We Still Have the Power | Gramps | [Read More](https://medium.com/p/0a365d58e5e9) |
-| Wed, 17 Dec 2025 00:41:22 GMT | AWS VPC Network Security — Segmenting Your Network | Andrew Larsen | [Read More](https://medium.com/p/03ba1ae38158) |
-| Wed, 17 Dec 2025 00:36:24 GMT | Chrome rolls out AI podcast feature on Android | Abstract Mind | [Read More](https://medium.com/p/ce24ae7896dd) |
-| Wed, 17 Dec 2025 00:13:33 GMT | MITRE comparte las debilidades de software más peligrosas de 2025 | Tiziano Mass | [Read More](https://medium.com/p/5ff5192b1e2f) |
-| Wed, 17 Dec 2025 00:07:29 GMT | Richard Doty, Mirage Men, and the Psyops Blueprint Behind Modern Cyber Warfare | Jeff Kingsland | [Read More](https://medium.com/p/fa3070ab1226) |
-| Wed, 17 Dec 2025 00:07:11 GMT | Your Staff’s Phones Are in Scope: BYOD and Mobile Devices Under Cyber Essentials (and CE Plus) | Laurentiu Barbu | [Read More](https://medium.com/p/a585d87bbcf4) |
-| Wed, 17 Dec 2025 00:02:16 GMT | API10–2023: Unsafe Consumption of APIs — Exploitation and Mitigation | JPablo13 | [Read More](https://medium.com/p/b099a80cfe99) |
-| Tue, 16 Dec 2025 23:54:50 GMT | Dancing in the Rain | Alizabeth Amelia Rose | [Read More](https://medium.com/p/126fa9842ea0) |
-| Tue, 16 Dec 2025 23:46:08 GMT | React Native 0.83, | The React Native Rewind | [Read More](https://medium.com/p/35098b7e777d) |
