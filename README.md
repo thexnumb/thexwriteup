@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 01:43:08 GMT | Recreating CVE‑2025‑55184: React Server Components DoS (Lab POC) | Tarekh Shaikh | [Read More](https://medium.com/p/e9ced4c296bd) |
+| Wed, 17 Dec 2025 01:42:16 GMT | Beyond Words: The Profound Power of True Empathy and Genuine Care in Relationships | Austi Gene | [Read More](https://medium.com/p/02fb348b1511) |
+| Wed, 17 Dec 2025 01:39:52 GMT | React2Shell Apocalypse: CVE-2025-55182 RCE Tears Through React/Next.js | Krishnendu Bhowmick | [Read More](https://medium.com/p/34bc9a28c7b0) |
+| Wed, 17 Dec 2025 01:34:03 GMT | When an IP Isn’t an IP | Bonar | [Read More](https://medium.com/p/e64c4755bc5a) |
+| Wed, 17 Dec 2025 01:32:19 GMT | 5 DID + Credential Flows That Actually Work in Hiring | Quaxel | [Read More](https://medium.com/p/4a61d06c53d1) |
+| Wed, 17 Dec 2025 01:06:39 GMT | Shannon and the Rise of “Proof-by-Exploitation” AI Pentesting | Barbaros Emre Alagöz | [Read More](https://medium.com/p/67b0aadb2c49) |
+| Wed, 17 Dec 2025 01:06:15 GMT | The Absence of Hatred Is Not Enough | Jesse Di Liello | [Read More](https://medium.com/p/4f46bf2fbec4) |
+| Wed, 17 Dec 2025 01:05:11 GMT | XP Cyber Range Writeup - Operations Gone Wrong: The Incompetent Intern [NG] | jellyfish | [Read More](https://medium.com/p/461570f466c4) |
+| Wed, 17 Dec 2025 00:49:16 GMT | Recurring classes of software weaknesses: 2007 vs. 2025 | @boblord | [Read More](https://medium.com/p/c2cd56125e1a) |
+| Wed, 17 Dec 2025 00:47:21 GMT | We Are the People—And We Still Have the Power | Gramps | [Read More](https://medium.com/p/0a365d58e5e9) |
+| Wed, 17 Dec 2025 00:41:22 GMT | AWS VPC Network Security — Segmenting Your Network | Andrew Larsen | [Read More](https://medium.com/p/03ba1ae38158) |
+| Wed, 17 Dec 2025 00:36:24 GMT | Chrome rolls out AI podcast feature on Android | Abstract Mind | [Read More](https://medium.com/p/ce24ae7896dd) |
+| Wed, 17 Dec 2025 00:13:33 GMT | MITRE comparte las debilidades de software más peligrosas de 2025 | Tiziano Mass | [Read More](https://medium.com/p/5ff5192b1e2f) |
+| Wed, 17 Dec 2025 00:07:29 GMT | Richard Doty, Mirage Men, and the Psyops Blueprint Behind Modern Cyber Warfare | Jeff Kingsland | [Read More](https://medium.com/p/fa3070ab1226) |
+| Wed, 17 Dec 2025 00:07:11 GMT | Your Staff’s Phones Are in Scope: BYOD and Mobile Devices Under Cyber Essentials (and CE Plus) | Laurentiu Barbu | [Read More](https://medium.com/p/a585d87bbcf4) |
+| Wed, 17 Dec 2025 00:02:16 GMT | API10–2023: Unsafe Consumption of APIs — Exploitation and Mitigation | JPablo13 | [Read More](https://medium.com/p/b099a80cfe99) |
+| Tue, 16 Dec 2025 23:54:50 GMT | Dancing in the Rain | Alizabeth Amelia Rose | [Read More](https://medium.com/p/126fa9842ea0) |
+| Tue, 16 Dec 2025 23:46:08 GMT | React Native 0.83, | The React Native Rewind | [Read More](https://medium.com/p/35098b7e777d) |
+| Tue, 16 Dec 2025 23:39:18 GMT | Why 2025’s ‘Online Passport’ Gold Rush Will Get People Blackmailed and Ki77ed | Berend Watchus | [Read More](https://medium.com/p/16ade544319a) |
 | Tue, 16 Dec 2025 23:07:10 GMT | Operation PCPcat: Hunting a Next.js Credential Stealer That’s Already Compromised 59K Servers | Mario Candela | [Read More](https://medium.com/p/2512c2d8f704) |
 | Tue, 16 Dec 2025 23:04:13 GMT | How is AI changing the hiring process? | Lucas Silva | [Read More](https://medium.com/p/98c38e4257ce) |
 | Tue, 16 Dec 2025 22:51:06 GMT | Vibe Coding: Real Code, Real Risks, or Both? | Cyber-AppSec | [Read More](https://medium.com/p/1a2536d17b2f) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Dec 2025 16:52:22 GMT | Demystifying OAuth 2.0: A Technical Deep Dive into the Google Login Flow | Ahmed Haseen | [Read More](https://medium.com/p/c2c5f17522a2) |
 | Tue, 16 Dec 2025 16:45:49 GMT | HackTheBox Machine : Cap (Network Traffic Analysis) | Rafael Cliffordtan | [Read More](https://medium.com/p/12b4634d2cb8) |
 | Tue, 16 Dec 2025 16:45:47 GMT | SoundCloud Data Breach: What Happened and How to Protect Your Account | Technijian | [Read More](https://medium.com/p/01ab54abb521) |
-| Tue, 16 Dec 2025 16:44:56 GMT | Business logic vulnerabilities (İş mantığı zafiyetleri) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/392e1107eaa2) |
-| Tue, 16 Dec 2025 16:44:53 GMT | You Are Awesome PDF! (SSRF VM Challenge) | Josh Beck | [Read More](https://medium.com/p/fa8c534e5a72) |
-| Tue, 16 Dec 2025 16:40:27 GMT | Raccoons and the Importance of Logging…In Our Applications! | Jen Cracchiola | [Read More](https://medium.com/p/20b75e701a62) |
-| Tue, 16 Dec 2025 16:39:45 GMT | ️‍♂️ The Dark Web Knew Before the Company Did: Finding a Bug Using Leaked Chatter | Iski | [Read More](https://medium.com/p/e2a5f85a5485) |
-| Tue, 16 Dec 2025 16:39:14 GMT | Start 2026 Clean: How I Wipe My “Digital Footprint” | K_Anik | [Read More](https://medium.com/p/7dd126169a65) |
-| Tue, 16 Dec 2025 16:34:09 GMT | Day 134 — Completing OverTheWire Narnia (Levels 0–8) | Jinay | [Read More](https://medium.com/p/10208a6418d4) |
-| Tue, 16 Dec 2025 16:27:36 GMT | Hi all, quick update for 2025 | Hachtechnology | [Read More](https://medium.com/p/c0aad823e553) |
-| Tue, 16 Dec 2025 16:25:15 GMT | When Love Becomes Conditional | David egah | [Read More](https://medium.com/p/8a22768ab270) |
-| Tue, 16 Dec 2025 16:22:13 GMT | Benchmarking Claude 4.5 Sonnet vs Claude 4.5 Opus for Penetration testing | Daniel Knight | [Read More](https://medium.com/p/dd639d64c149) |
-| Tue, 16 Dec 2025 16:20:54 GMT | How I Found Multiple Bugs by Testing One Endpoint ?? | Y0S3TREX | [Read More](https://medium.com/p/a85f8fc33150) |
-| Tue, 16 Dec 2025 16:20:21 GMT | Mitigating Cache-Busting Exploits in Phishing Attacks | Parminder Singh | [Read More](https://medium.com/p/36b70754472b) |
-| Tue, 16 Dec 2025 16:16:53 GMT | PortSwigger Lab Write‑Up: Automating Gift Card Redemption via Checkout Workflow Exploit | Anas Elsaba | [Read More](https://medium.com/p/88849d45fbc5) |
-| Tue, 16 Dec 2025 16:16:40 GMT | In the Know: Zero Trust AI with John Kindervag | Mammoth Cyber | [Read More](https://medium.com/p/90811ad5f177) |
-| Tue, 16 Dec 2025 16:12:14 GMT | Lab: User ID controlled by request parameter, with unpredictable user IDs | Songül Kızılay Özügürler | [Read More](https://medium.com/p/79ad7563b9c3) |
-| Tue, 16 Dec 2025 16:08:51 GMT | Acknowledge the Differences between IP, Port, Protocol, and How Important They Are to Cyber… | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/060f2cb2230e) |
-| Tue, 16 Dec 2025 16:06:47 GMT | The 2-Second Rule: Web Performance in the Age of AI Search | Ritik Doijod | [Read More](https://medium.com/p/825af8383ecf) |
-| Tue, 16 Dec 2025 16:02:20 GMT | Seedless, Stressless: 5 Wallet Recovery Models That Work | Bhagya Rana | [Read More](https://medium.com/p/335f6c9de1c6) |
-| Tue, 16 Dec 2025 16:02:20 GMT | Token Gating That Scales: 5 Patterns That Hold | Vectorlane | [Read More](https://medium.com/p/b76c95d22731) |
-| Tue, 16 Dec 2025 15:58:36 GMT | Social Engineering | Tryhacking | [Read More](https://medium.com/p/d15ef1cf09e2) |
