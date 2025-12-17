@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 18:20:32 GMT | Node.js Security Essentials: Hardening Express with Ken Key | Kenny Key - SEO & Local Growth Strategist | [Read More](https://medium.com/p/a37062383017) |
+| Wed, 17 Dec 2025 18:19:07 GMT | Course Google Security Operations — Deep Dive and ls101 | Mmohammadsalman | [Read More](https://medium.com/p/94804b93425b) |
+| Wed, 17 Dec 2025 18:17:08 GMT | Securely Connecting Azure Databricks to ADLS Gen2 | Mattevikramkumar | [Read More](https://medium.com/p/ecd184a54fc9) |
+| Wed, 17 Dec 2025 18:10:17 GMT | Rate Limiting in Microservices: Why & How | Anand Jeyaseelan | [Read More](https://medium.com/p/28ca19c34efe) |
+| Wed, 17 Dec 2025 18:05:57 GMT | Web Attack Forensics — Drone Alone - AoC 2025 Day — 15 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/77dd3ff43f98) |
+| Wed, 17 Dec 2025 17:55:20 GMT | XML-RPC PHP File Abuse (xmlrpc.php) - Blind SSRF via WordPress XML-RPC pingback.ping | terp0x0 | [Read More](https://medium.com/p/561e3476107d) |
+| Wed, 17 Dec 2025 17:54:40 GMT | Symfonos: 3 .1— Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/983cb955a02c) |
+| Wed, 17 Dec 2025 17:47:54 GMT | Forever Young | Anthony Repetto | [Read More](https://medium.com/p/b8e094dc84ca) |
+| Wed, 17 Dec 2025 17:45:41 GMT | Fuzzing (The Dynamic Software Testing Method) and Fuzzers the Caterpillar | Jen Cracchiola | [Read More](https://medium.com/p/dbc5fec2ba4e) |
+| Wed, 17 Dec 2025 17:44:06 GMT | Joining the DEF CON Madurai Volunteer Team | Aravind | [Read More](https://medium.com/p/510f7932b876) |
+| Wed, 17 Dec 2025 17:43:57 GMT | Why Proactive Security in Colorado Springs Is the Smarter Way to Protect Your Property | Overwatch Technologies | [Read More](https://medium.com/p/b5b983e8e81f) |
+| Wed, 17 Dec 2025 17:40:58 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/7aa93d59477f) |
+| Wed, 17 Dec 2025 17:38:45 GMT | RedTrails (Hack The Box) Write Up | Nthawk | [Read More](https://medium.com/p/99ed1706421c) |
 | Wed, 17 Dec 2025 17:36:21 GMT | Stored XSS Attack In DVWA | Mylescorey | [Read More](https://medium.com/p/02b8cf8fe8ad) |
 | Wed, 17 Dec 2025 17:35:09 GMT | Implementing POP (Proof of Possession) Token in Angular and Node.js: A Practical Guide | Satnam Singh | [Read More](https://medium.com/p/e8df14bee149) |
 | Wed, 17 Dec 2025 17:28:07 GMT | ️‍♂️ picoCTF 2024 — CanYouSee? - Simple Forensics Write-Up | vulnhunter | [Read More](https://medium.com/p/320033c1c13e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 13:02:55 GMT | Linux Security Habit #8 — The One Kernel Check That Exposes Rootkits and Deep Persistence | Faruk Ahmed | [Read More](https://medium.com/p/8cf6b2a4bd2b) |
 | Wed, 17 Dec 2025 13:00:02 GMT | Why Scanners Miss the Most Expensive Bugs (And Why Humans Still Get Paid) | Krish_cyber | [Read More](https://medium.com/p/7badb8b2ad5b) |
 | Wed, 17 Dec 2025 12:57:24 GMT | SOC Services: Powering Proactive and Resilient Cybersecurity | Eventus Security Private Limited | [Read More](https://medium.com/p/42ec08692e7d) |
-| Wed, 17 Dec 2025 12:56:48 GMT | Dear Failure, | Summer | [Read More](https://medium.com/p/7e522657ea5e) |
-| Wed, 17 Dec 2025 12:56:43 GMT | From Locks to Zero-Trust: Top Security Concepts Every Engineer Must Master | Lets Learn Now | [Read More](https://medium.com/p/810175957d0f) |
-| Wed, 17 Dec 2025 12:52:40 GMT | When a Zero Trust Firewall is Not a Zero Trust Firewall | Paul Walsh | [Read More](https://medium.com/p/aebd0d9f0459) |
-| Wed, 17 Dec 2025 12:49:09 GMT | I Almost Got Hacked Because I Forgot to Lock My Digital Door | Abdulraheem Abdulsalam | [Read More](https://medium.com/p/8e636c1a2ef0) |
-| Wed, 17 Dec 2025 12:47:26 GMT | Darkweb Safety Tips: Practical Guidance for Safer Research | Tor BBB | [Read More](https://medium.com/p/d84db54f7c12) |
-| Wed, 17 Dec 2025 12:46:31 GMT | SQL Injection — Why It Still Happens | Suraj Bhandari | [Read More](https://medium.com/p/f200825a4f0e) |
-| Wed, 17 Dec 2025 12:42:14 GMT | Top Cybersecurity Threats of 2025: A Guide to Protecting Your Business | Andres Quintero | [Read More](https://medium.com/p/c49d3a804973) |
-| Wed, 17 Dec 2025 12:39:29 GMT | Extracting a Decrypted IPA from a Jailbroken iOS Device (Pentester’s Guide) | Gokul | [Read More](https://medium.com/p/de7639bf1a34) |
-| Wed, 17 Dec 2025 12:35:16 GMT | Disclosure Day by Spielberg | Edoardo Segato-Figueroa | [Read More](https://medium.com/p/4c031c83fd80) |
-| Wed, 17 Dec 2025 12:33:18 GMT | From Playing to Building: My Journey Creating a Personal CTF | Shatrughan | [Read More](https://medium.com/p/c73f792b3160) |
-| Wed, 17 Dec 2025 12:30:36 GMT | Day 3: Linux fundamentals part 1 & 2 | Chloe Bridgens | [Read More](https://medium.com/p/cd5ef35d5ceb) |
-| Wed, 17 Dec 2025 12:27:08 GMT | Stop Duplicating Route Guards and HTTP Interceptors: A Unified Middleware Approach for Angular | Sachin Dilshan | [Read More](https://medium.com/p/418fbceb90c7) |
-| Wed, 17 Dec 2025 12:22:43 GMT | Why AI Sounds Confident Even When It’s Wrong | James Kreis | [Read More](https://medium.com/p/73da3a7f43c8) |
