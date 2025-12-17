@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Dec 2025 17:17:56 GMT | Message Queuing Telemetry Transport (MQTT) | Abdul Samad | [Read More](https://medium.com/p/43c77bc2d421) |
+| Wed, 17 Dec 2025 17:14:39 GMT | The $12 Trillion Scam: Is Your “Bank” Actually a Teenager in Lahore? | Muhammad Ali Ramzan | [Read More](https://medium.com/p/af6a7aef4cda) |
+| Wed, 17 Dec 2025 17:12:30 GMT | Forensics: Flag in Flame — When Logs Turn Into Images | vulnhunter | [Read More](https://medium.com/p/3fc526d0a5bf) |
+| Wed, 17 Dec 2025 17:06:22 GMT | Why I’m Learning Cybersecurity in Public (From Complete Beginner) | Callum - Cyber Security Journey | [Read More](https://medium.com/p/bfe56cb0d168) |
+| Wed, 17 Dec 2025 17:03:39 GMT | Advent of Cyber 2025 - Day 17: CyberChef — Hoperation Save McSkidy | D4m.sh | [Read More](https://medium.com/p/14fa0265c894) |
+| Wed, 17 Dec 2025 16:54:09 GMT | How to Secure a Place of Worship: Church, Mosque, Synagogue, Temple, and Other Faith Spaces —… | Shahzad Kayani | [Read More](https://medium.com/p/f759510e4c79) |
+| Wed, 17 Dec 2025 16:44:20 GMT | Android Pentesting setup — Kali Linux | Genrunic | [Read More](https://medium.com/p/de8d9bc9f2c8) |
+| Wed, 17 Dec 2025 16:44:07 GMT | The Fear After the Publish Button | Katrina Pescador | [Read More](https://medium.com/p/a66143442ac8) |
+| Wed, 17 Dec 2025 16:42:46 GMT | Web Uygulama Güvenliğinde Kritik Bir Tehdit: Dosya Yükleme Zafiyetleri ve RCE Analizi | ali | [Read More](https://medium.com/p/ee9536c5bd61) |
+| Wed, 17 Dec 2025 16:41:06 GMT | Claude Code “File Modified” Error? Just Paste This | Ikram | [Read More](https://medium.com/p/cb4ec086abcd) |
+| Wed, 17 Dec 2025 16:36:32 GMT | Why You Need a Fast, Secure V2Ray VPN? | Arash Hadad | [Read More](https://medium.com/p/9107bd046655) |
+| Wed, 17 Dec 2025 16:36:01 GMT | Part 1: How to Securely Conduct Phishing Simulations Using a Reverse Proxy on GoPhish | salman syed | [Read More](https://medium.com/p/09f38beda3b1) |
+| Wed, 17 Dec 2025 16:33:06 GMT | The New Age of Cyber Scams in India: What You Must Know to Stay Safe | Hitesh Said | [Read More](https://medium.com/p/ce3927e65ec7) |
+| Wed, 17 Dec 2025 16:26:42 GMT | The World’s First “AI-Native Airline” Is Coming. Here’s What Could Go Wrong. | Zoom In AI | [Read More](https://medium.com/p/d278aa071f5d) |
+| Wed, 17 Dec 2025 16:26:21 GMT | Compromise, Recon and Exfiltration in OCI : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/75a2a5b81392) |
+| Wed, 17 Dec 2025 16:24:56 GMT | One “Harmless” Parameter, Full Account Takeover — My Favorite Bug Bounty Find | Iski | [Read More](https://medium.com/p/1e4c9cf7c17d) |
+| Wed, 17 Dec 2025 16:24:17 GMT | How a Public readme.txt Led to a Critical WordPress CVE | samael0x4 | [Read More](https://medium.com/p/dc8776454011) |
 | Wed, 17 Dec 2025 16:14:52 GMT | Career Growth in 2026: How Tech Professionals Move Forward in Their Current Roles | David Rise | [Read More](https://medium.com/p/08bc5db699b2) |
 | Wed, 17 Dec 2025 16:11:52 GMT | Understanding BOLA: What It Is, How It Happens, and How to Prevent It. | Esther Kenneth | [Read More](https://medium.com/p/008f5787628b) |
 | Wed, 17 Dec 2025 16:00:27 GMT | Why HR Is a Prime Target for Social Engineering Attacks | Digital Defense | [Read More](https://medium.com/p/5a1c1c0e84ff) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 12:12:26 GMT | IDOR-”Bir bakıp çıkacaz izne gerek yok!!” | Yusufcancinar | [Read More](https://medium.com/p/2823479cf852) |
 | Wed, 17 Dec 2025 12:10:20 GMT | Research on CVE‑2025‑59718 and CVE‑2025‑59719 | Karim Jaber | [Read More](https://medium.com/p/f2246b76ee6d) |
 | Wed, 17 Dec 2025 12:09:15 GMT | AI Knows You Better Than Your Best Friend And That’s Not a Feature. It’s the Business Model. | Rubzcomms | [Read More](https://medium.com/p/8cc1c1a6a5f6) |
-| Wed, 17 Dec 2025 12:07:28 GMT | Trigkey Green G4 Mini PC Onarımı ve Testler | Hakan ÇEVİK | [Read More](https://medium.com/p/316ca91050db) |
-| Wed, 17 Dec 2025 12:06:42 GMT | Website Security | Dinuka Salwathura | [Read More](https://medium.com/p/2f60b7dc853f) |
-| Wed, 17 Dec 2025 12:02:19 GMT | How One Email Becomes a Complete OSINT Dossier (Without Hacking) | Ingvar Pavlovich | [Read More](https://medium.com/p/766acb2c9876) |
-| Wed, 17 Dec 2025 11:52:16 GMT | The NIS2 Ticking Clock: Why Your Organization Must Prepare for Europe’s Cyber Overhaul Now | CFE CERTIFICATION | [Read More](https://medium.com/p/fb624df4432a) |
-| Wed, 17 Dec 2025 11:36:17 GMT | Hacking Series (Part 6): System Hacking — How Attackers Compromise Systems (CEH Perspective) | Cyber Wolf | [Read More](https://medium.com/p/d199c04b5d78) |
-| Wed, 17 Dec 2025 11:34:50 GMT | Multi-Stage SVG: Analyzing a Colombian Court-Themed Malware Campaign with 0% AV Detection | Pavol Kluka | [Read More](https://medium.com/p/56dc90e97d94) |
-| Wed, 17 Dec 2025 11:34:25 GMT | 10 Best Vulnerable Websites for Penetration Testing and Ethical Hacking | DeltaBytes | [Read More](https://medium.com/p/f33f465444ae) |
-| Wed, 17 Dec 2025 11:32:30 GMT | 1-Year Cyber Security Diploma Course Christmas Sale | Manisha Chaudhary | [Read More](https://medium.com/p/bfe9c4526fdd) |
-| Wed, 17 Dec 2025 11:31:51 GMT | A Good Girls Guide to Reverse Engineering - CTF | Lia Eu - midn8 | [Read More](https://medium.com/p/612c27fe6e5e) |
-| Wed, 17 Dec 2025 11:30:48 GMT | Recent U.S. | SuperEx | [Read More](https://medium.com/p/ed5a717e53d3) |
-| Wed, 17 Dec 2025 11:29:17 GMT | Certificates, HTTPS, and ATS on iOS — From Zero to Confident | VINODH KUMAR | [Read More](https://medium.com/p/421e97b72d31) |
-| Wed, 17 Dec 2025 11:24:57 GMT | Why your browser knows more about you than you realize | Vedad Borovac | [Read More](https://medium.com/p/b876d4689a4c) |
-| Wed, 17 Dec 2025 11:23:59 GMT | Digital Convenience Is Creating a Silent Security Crisis | MASUM BILLAH | [Read More](https://medium.com/p/f6785fe62bbf) |
-| Wed, 17 Dec 2025 11:20:32 GMT | SSH Log Analysis Using Splunk: A Red and Blue Team Perspective | 5r4v4n | [Read More](https://medium.com/p/a19bff46478e) |
-| Wed, 17 Dec 2025 11:20:08 GMT | The Backbone of the Web: A Developer’s Guide to HTTP, HTTPS, and SSL | Pattarapol Tantechasa | [Read More](https://medium.com/p/8ea5c60b32f1) |
-| Wed, 17 Dec 2025 11:12:09 GMT | The Internet Is More Than Just a Click: Understanding IP, Ports, and Protocols Behind the… | Habibi | [Read More](https://medium.com/p/f3a85485b1da) |
-| Wed, 17 Dec 2025 11:06:25 GMT | Raccoon Stealer v2: What Every Blockchain Developer Needs to Know About Info-Stealing Malware | DracattusDev | [Read More](https://medium.com/p/ddaa715421d3) |
