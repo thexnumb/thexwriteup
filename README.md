@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 15:17:35 GMT | Open Web Application Security Project | Akshay Damle | [Read More](https://medium.com/p/15870f2f6517) |
+| Thu, 18 Dec 2025 15:14:55 GMT | Getting Started Cyber Security With Zynex Soutions. | Bilal Nasir | [Read More](https://medium.com/p/fcef2d8d23ff) |
+| Thu, 18 Dec 2025 15:09:24 GMT | TryHackMe W1seGuy — Crypto Challenge Walkthrough | Abhilash H | [Read More](https://medium.com/p/70cc14d5bb8e) |
+| Thu, 18 Dec 2025 15:07:09 GMT | Hybrid Cloud Security in 2026: Best Practices to Protect Enterprise Data | Techridge Solutions | [Read More](https://medium.com/p/40d12d051990) |
+| Thu, 18 Dec 2025 15:02:50 GMT | Cyber Briefing: 2025.12.18 | CyberMaterial | [Read More](https://medium.com/p/b134f5fe29fa) |
+| Thu, 18 Dec 2025 14:57:26 GMT | The Administrator Paradox: How I Built a Secure, Serverless Backend (And Locked Myself Out in the… | Aayush Soni | [Read More](https://medium.com/p/0e210d919388) |
+| Thu, 18 Dec 2025 14:50:46 GMT | The Invisible Threat: Why Your Browser Extensions Might Be Spying on You | Rawi | [Read More](https://medium.com/p/c2763fb540c3) |
+| Thu, 18 Dec 2025 14:50:12 GMT | Computers Aren’t Smart, They’re Just Very Good at Listening….. | Anaswara Pyarilal | [Read More](https://medium.com/p/01ffa06564ee) |
+| Thu, 18 Dec 2025 14:50:04 GMT | The Tech Owner’s Holiday Shutdown Checklist: Secure Your Business & Home Networks Before You Log… | Paradise technologies Inc | [Read More](https://medium.com/p/134f99abd395) |
+| Thu, 18 Dec 2025 14:48:27 GMT | How I Found a Zero-Click Flaw by Questioning a “Safe” Rendering Path | Rawi | [Read More](https://medium.com/p/b104c29a3e8e) |
 | Thu, 18 Dec 2025 14:41:51 GMT | Starting My Ethical Hacking Journey on TryHackMe | Kashif shah | [Read More](https://medium.com/p/94ba52c7f927) |
 | Thu, 18 Dec 2025 14:40:07 GMT | What DNS Really Does — and Why It’s a Weak Link in Internet Security | Codeandcontext | [Read More](https://medium.com/p/01cac58439a8) |
 | Thu, 18 Dec 2025 14:37:59 GMT | How Courage and Vulnerability Team Up to Transcend Fear | Eugene C Scott | [Read More](https://medium.com/p/ca374e365428) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 09:59:14 GMT | How To Become a Hacker | adce626 | [Read More](https://medium.com/p/53996a944767) |
 | Thu, 18 Dec 2025 09:58:09 GMT | Not Just Phishing. This One Hunts The Whales. | Redfox Security | [Read More](https://medium.com/p/8ee29b97b183) |
 | Thu, 18 Dec 2025 09:56:18 GMT | Switch vs Router: What’s the Real Difference? | BHARGAV SANDILYA | [Read More](https://medium.com/p/65765d8c929a) |
-| Thu, 18 Dec 2025 09:45:49 GMT | The Password is Dead! Long Live the Passkey | Gareth Brown | [Read More](https://medium.com/p/c41f25755dbe) |
-| Thu, 18 Dec 2025 09:45:31 GMT | HexStrike on Kali Linux 2025.4: A Comprehensive Guide | Andrey Pautov | [Read More](https://medium.com/p/85a0e5752949) |
-| Thu, 18 Dec 2025 09:42:23 GMT | Why Touch Isn’t Always Intimacy | Abha | [Read More](https://medium.com/p/965706a09ef6) |
-| Thu, 18 Dec 2025 09:40:45 GMT | DOM XSS Using Web Messages and Javascript URL (window.postMessage → innerHTML Sink) | Aditya Bhatt | [Read More](https://medium.com/p/fda6c0064a4e) |
-| Thu, 18 Dec 2025 09:39:10 GMT | “The Cybersecurity Game Master” is out! | Roberto Dillon | [Read More](https://medium.com/p/5d5e3d390642) |
-| Thu, 18 Dec 2025 09:34:35 GMT | When Expiry Lies: Oracle Manipulation in Ribbon’s Options System (~$2.7M USD are gone) | Evgenii | [Read More](https://medium.com/p/dedc21d2d0f3) |
-| Thu, 18 Dec 2025 09:28:44 GMT | Docker Hardened Images are Free | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/538fbccabaf3) |
-| Thu, 18 Dec 2025 09:28:40 GMT | From M&A to Crisis Recovery — Why Leaders Bring Us In: Why Clients Trust Us With Complex Challenges | Fook Hwa Tan | [Read More](https://medium.com/p/5f0ec5acecae) |
-| Thu, 18 Dec 2025 09:27:58 GMT | แจ้งเตือนช่องโหว่วิกฤต Ivanti Endpoint Manager (EPM) — CVE-2025–10573 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f30b95e8b573) |
-| Thu, 18 Dec 2025 09:27:54 GMT | Data-Driven Trust: What We’ve Protected in the Last Year Our Cybersecurity Impact in Numbers | Fook Hwa Tan | [Read More](https://medium.com/p/06abc0e7c620) |
