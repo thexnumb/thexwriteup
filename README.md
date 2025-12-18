@@ -12,12 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 09:42:23 GMT | Why Touch Isn’t Always Intimacy | Abha | [Read More](https://medium.com/p/965706a09ef6) |
+| Thu, 18 Dec 2025 09:40:45 GMT | DOM XSS Using Web Messages and Javascript URL (window.postMessage → innerHTML Sink) | Aditya Bhatt | [Read More](https://medium.com/p/fda6c0064a4e) |
+| Thu, 18 Dec 2025 09:39:10 GMT | “The Cybersecurity Game Master” is out! | Roberto Dillon | [Read More](https://medium.com/p/5d5e3d390642) |
+| Thu, 18 Dec 2025 09:34:35 GMT | When Expiry Lies: Oracle Manipulation in Ribbon’s Options System (~$2.7M USD are gone) | Evgenii | [Read More](https://medium.com/p/dedc21d2d0f3) |
+| Thu, 18 Dec 2025 09:28:44 GMT | Docker Hardened Images are Free | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/538fbccabaf3) |
+| Thu, 18 Dec 2025 09:28:40 GMT | From M&A to Crisis Recovery — Why Leaders Bring Us In: Why Clients Trust Us With Complex Challenges | Fook Hwa Tan | [Read More](https://medium.com/p/5f0ec5acecae) |
+| Thu, 18 Dec 2025 09:27:54 GMT | Data-Driven Trust: What We’ve Protected in the Last Year Our Cybersecurity Impact in Numbers | Fook Hwa Tan | [Read More](https://medium.com/p/06abc0e7c620) |
 | Thu, 18 Dec 2025 09:25:42 GMT | ประจำวันพฤหัสบดีที่ 18 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/aefa17d2dc53) |
 | Thu, 18 Dec 2025 09:24:03 GMT | The Hidden Cost of “Yield”: Why Most BTCFi Products Fail Institutional Risk Tests | Emmanuel Chibuzor | [Read More](https://medium.com/p/8cde970ba26c) |
 | Thu, 18 Dec 2025 09:21:42 GMT | Password Reset Poisoning: Receiving the Same Reset Link in My Inbox | Twilight | [Read More](https://medium.com/p/1cb2b3ab0b80) |
 | Thu, 18 Dec 2025 09:20:34 GMT | Anomalous Behavior Detection in HTTP Traffic: Catching What WAFs Miss | Esra Kayhan | [Read More](https://medium.com/p/e53ed7d1aa57) |
 | Thu, 18 Dec 2025 09:20:06 GMT | Network Protocol Anomaly Detection | Esra Kayhan | [Read More](https://medium.com/p/9a35fd9a107c) |
 | Thu, 18 Dec 2025 09:04:47 GMT | How I Broke My Linux Server Using Nmap | Fateyaly | [Read More](https://medium.com/p/3f2808a18ae6) |
+| Thu, 18 Dec 2025 08:57:56 GMT | CRLF — Carriage Return Line Feed | Nutthanonn | [Read More](https://medium.com/p/9ac646018934) |
 | Thu, 18 Dec 2025 08:56:12 GMT | Meet pwman: The Tiny CLI Password Manager That Fits in Your Terminal | Aliopdandan | [Read More](https://medium.com/p/904f295e269f) |
 | Thu, 18 Dec 2025 08:54:14 GMT | The 7 Best SAST Solutions for 2026: Balancing Speed, Accuracy, and Security Controls | SecureSlate | [Read More](https://medium.com/p/6fb7b58c5c48) |
 | Thu, 18 Dec 2025 08:52:03 GMT | Event Security Solutions: Protecting Your Special Occasions | Travel time | [Read More](https://medium.com/p/454e49d610e0) |
@@ -40,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 08:02:23 GMT | Where I Most Fully Was, I Was In Transit | Łukasz Ratajczak | [Read More](https://medium.com/p/d9153ad0147e) |
 | Thu, 18 Dec 2025 07:59:27 GMT | The Things We Told Too Soon | Joan Bluejack | [Read More](https://medium.com/p/b4c40dcfb84d) |
 | Thu, 18 Dec 2025 07:55:18 GMT | I Lost $15,000 Because I Didn’t Listen to the Knot in My Stomach | SocialScreen | [Read More](https://medium.com/p/14f721a8717c) |
+| Thu, 18 Dec 2025 07:51:59 GMT | 10 Aplikasi iPhone Unik Yang Anda Wajib Miliki (Edisi 2025) | 77go - Best Online Casino Malaysia | [Read More](https://medium.com/p/5812db3c4793) |
 | Thu, 18 Dec 2025 07:50:43 GMT | XINTRA — Meow Islands Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/a1fc31c96983) |
 | Thu, 18 Dec 2025 07:49:19 GMT | Top 10 Tips for Using Solidworks Simulation Solutions Effectively | Tech Savvy | [Read More](https://medium.com/p/5a2d86f77d78) |
 | Thu, 18 Dec 2025 07:48:48 GMT | Tải Pure Tuber Apk (Premium, Mở Khóa Vip, Không Quảng Cáo) V5.4.0.101 | genzvnmod | [Read More](https://medium.com/p/a2146feff431) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 03:54:06 GMT | IT Priorities 2026: 10 IT Leaders Should Focus On | HostNOC | [Read More](https://medium.com/p/0f1f58128dd1) |
 | Thu, 18 Dec 2025 03:47:35 GMT | Sysmon Is Coming To Windows — Let’s Celebrate By Talking About Event ID Chaining As Indicators Of… | Johnny Meintel | [Read More](https://medium.com/p/ac0076cac754) |
 | Thu, 18 Dec 2025 03:33:07 GMT | 21. Re-ceive — | icanwallad | [Read More](https://medium.com/p/db401d0dc890) |
-| Thu, 18 Dec 2025 03:32:36 GMT | 5 Essential Tips for Feature Flags in Node.js | Arunangshu Das | [Read More](https://medium.com/p/6bee0b30e0d5) |
-| Thu, 18 Dec 2025 03:32:36 GMT | FastAPI HSTS/HPKP/CSP Playbook: Ship Secure-by-Default APIs Without Breaking Browsers | Codastra | [Read More](https://medium.com/p/b8170811c1ff) |
-| Thu, 18 Dec 2025 03:32:36 GMT | Bug Report | paQArti | [Read More](https://medium.com/p/d46441416069) |
-| Thu, 18 Dec 2025 03:16:43 GMT | The Hidden Threat Inside a Charging Cable: How Modern “BadUSB” Attacks Really Work | Deven Chhajed | [Read More](https://medium.com/p/48261dee874a) |
-| Thu, 18 Dec 2025 03:05:01 GMT | XSS Saldırıları | Alper Köse | [Read More](https://medium.com/p/47f8c76b891d) |
-| Thu, 18 Dec 2025 02:40:57 GMT | Docker Just Reset Container Security: Hardened Images Are Now Free for Everyone | Akshay Bhavukesan | [Read More](https://medium.com/p/b985ebaaa7d9) |
-| Thu, 18 Dec 2025 02:22:41 GMT | Weekly Threat Intelligence Report 15 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/f3ebebf0175f) |
-| Thu, 18 Dec 2025 02:20:04 GMT | This Image Can Hack Your PC — What You Need to Know (Safe Explanation) | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/ef5f3c038add) |
-| Thu, 18 Dec 2025 02:15:43 GMT | React2Shell (CVE-2025–55182): O Colapso Silencioso do Server-Side Rendering | Alissonoliveira | [Read More](https://medium.com/p/0db833a7fc79) |
