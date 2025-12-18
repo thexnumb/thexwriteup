@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 14:19:46 GMT | Write-Up — Publicly Exposed MySQL on an “Inactive” Subdomain (KAIAWEB-216) | Mohamed Abdul Hamid | [Read More](https://medium.com/p/61aa704429d1) |
+| Thu, 18 Dec 2025 14:13:08 GMT | Simple Reflected XSS Attack on DVWA | Mylescorey | [Read More](https://medium.com/p/f4071ada4c2a) |
+| Thu, 18 Dec 2025 14:04:31 GMT | Africa’s Cybersecurity Crossroads: What 2025 Threat Reports Reveal About the Continent’s Digital… | sadique kwatsima | [Read More](https://medium.com/p/5603269cf263) |
+| Thu, 18 Dec 2025 14:03:28 GMT | 5 Generative AI Security Threats SOC Teams Can’t Ignore | Junaid Mumtaz | [Read More](https://medium.com/p/536e48d2ce7f) |
+| Thu, 18 Dec 2025 14:02:42 GMT | Emulation vs. Simulation: Why Understanding the Difference Matters in Modern Cybersecurity | Secured By Sebastion | [Read More](https://medium.com/p/0e7b4f90ccf8) |
+| Thu, 18 Dec 2025 14:02:40 GMT | Can I Open My Garage Door with My Phone: Smart Options | Up & Down Garage Door Services | [Read More](https://medium.com/p/5706fa3470f3) |
+| Thu, 18 Dec 2025 13:58:35 GMT | The Invisible Threat: How Malicious Extensions Turn Your Browser Into a Spy | Rawi | [Read More](https://medium.com/p/cf9d917c703e) |
+| Thu, 18 Dec 2025 13:58:27 GMT | React2Shell (CVE-2025–55182) | Rajesh Mondal | [Read More](https://medium.com/p/b14d9bb15841) |
+| Thu, 18 Dec 2025 13:56:30 GMT | SOC 2, Decoded: A Conversation Between a Founder and a Consultant | Dimple Badhan | [Read More](https://medium.com/p/8bd7105f7a5a) |
+| Thu, 18 Dec 2025 13:54:09 GMT | Cache vs Cookies: What’s the Difference & Why It Matters | Taha Mehmood | [Read More](https://medium.com/p/e19f4d5f80ad) |
+| Thu, 18 Dec 2025 13:46:49 GMT | Frameworks for Cyber Security Fundamentals | Terminals & Coffee | [Read More](https://medium.com/p/5721a2a44aad) |
+| Thu, 18 Dec 2025 13:43:37 GMT | I Changed One ID and Got Someone Else’s Data: An API BOLA Lab | 0xMiawChan | [Read More](https://medium.com/p/6ad50f875f7d) |
+| Thu, 18 Dec 2025 13:39:22 GMT | Best Linux Distros for Developers, Gamers, and Privacy Champions | Ganesh Sapate | [Read More](https://medium.com/p/e2dd664597ba) |
 | Thu, 18 Dec 2025 13:33:09 GMT | Is It a Security control, a Requirement, a Safeguard? | Amit Paz | [Read More](https://medium.com/p/5fcd2b3abc09) |
 | Thu, 18 Dec 2025 13:25:40 GMT | How Modern Cloud Architecture Improves App Speed and Security | Macromodule Technologies | [Read More](https://medium.com/p/3248f64993cc) |
 | Thu, 18 Dec 2025 13:22:04 GMT | How Converting Cookie Files to JSON Makes Web Work Easier | Anna Kolodkina | [Read More](https://medium.com/p/b6e48d163173) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 08:57:56 GMT | CRLF — Carriage Return Line Feed | Nutthanonn | [Read More](https://medium.com/p/9ac646018934) |
 | Thu, 18 Dec 2025 08:56:12 GMT | Meet pwman: The Tiny CLI Password Manager That Fits in Your Terminal | Aliopdandan | [Read More](https://medium.com/p/904f295e269f) |
 | Thu, 18 Dec 2025 08:54:14 GMT | The 7 Best SAST Solutions for 2026: Balancing Speed, Accuracy, and Security Controls | SecureSlate | [Read More](https://medium.com/p/6fb7b58c5c48) |
-| Thu, 18 Dec 2025 08:52:03 GMT | Event Security Solutions: Protecting Your Special Occasions | Travel time | [Read More](https://medium.com/p/454e49d610e0) |
-| Thu, 18 Dec 2025 08:49:10 GMT | Your Digital Shield Starts with SiyanoAV Free Antivirus Today | Siyanoav | [Read More](https://medium.com/p/088cbbc29649) |
-| Thu, 18 Dec 2025 08:47:02 GMT | Don’t Jump Into the Middle of Cybersecurity — Learn It in Phases | Kenneth Solomon | [Read More](https://medium.com/p/9fdcedef8652) |
-| Thu, 18 Dec 2025 08:46:43 GMT | The Strategic Tool Selection Playbook: From Evaluation to Executive Approval | cyber_pix | [Read More](https://medium.com/p/7c27758164c6) |
-| Thu, 18 Dec 2025 08:45:16 GMT | Incident Response: Why It Matters in Cybersecurity | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/a9ab5eb6a8bf) |
-| Thu, 18 Dec 2025 08:32:34 GMT | Plain-Text Leaks vs Dark-Web Screenshots: What’s Actionable and What Isn’t | Alexandre Vandamme | [Read More](https://medium.com/p/dcd295a4f4a5) |
-| Thu, 18 Dec 2025 08:26:14 GMT | Publishing an Internet-Draft at the IETF | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/45a27c59e394) |
-| Thu, 18 Dec 2025 08:24:53 GMT | How I Got into the Cyblack SOC Academy (And How You Can Too). | Joanorifha | [Read More](https://medium.com/p/a43126801f3c) |
-| Thu, 18 Dec 2025 08:23:00 GMT | Protect Your Business with Information Security Services | Justinbrock | [Read More](https://medium.com/p/c4a0a2ee2b19) |
-| Thu, 18 Dec 2025 08:22:16 GMT | Securing a Kenyan SACCO from Zero [Part 3 of 6] | Munaniadeno | [Read More](https://medium.com/p/512fe0d5caae) |
-| Thu, 18 Dec 2025 08:15:14 GMT | $13 Million VC Dream Turned $2.2 Million Fraud: The Shiloh Luckey & ComplYant Story | O. J. Okpabi | [Read More](https://medium.com/p/ca6efba1f9a1) |
-| Thu, 18 Dec 2025 08:15:13 GMT | The Best Information Security Books of 2025 Yıl sona ererken, işte 2025'in En İyi Bilgi Güvenliği… | Talha Özcan | [Read More](https://medium.com/p/c83230157f1a) |
-| Thu, 18 Dec 2025 08:09:25 GMT | AWS Envelop Encryption | N P Prahal | [Read More](https://medium.com/p/c151ab4111a4) |
