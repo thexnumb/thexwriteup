@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 03:47:35 GMT | Sysmon Is Coming To Windows — Let’s Celebrate By Talking About Event ID Chaining As Indicators Of… | Johnny Meintel | [Read More](https://medium.com/p/ac0076cac754) |
+| Thu, 18 Dec 2025 03:33:07 GMT | 21. Re-ceive — | icanwallad | [Read More](https://medium.com/p/db401d0dc890) |
+| Thu, 18 Dec 2025 03:32:36 GMT | 5 Essential Tips for Feature Flags in Node.js | Arunangshu Das | [Read More](https://medium.com/p/6bee0b30e0d5) |
+| Thu, 18 Dec 2025 03:32:36 GMT | FastAPI HSTS/HPKP/CSP Playbook: Ship Secure-by-Default APIs Without Breaking Browsers | Codastra | [Read More](https://medium.com/p/b8170811c1ff) |
+| Thu, 18 Dec 2025 03:32:36 GMT | Bug Report | paQArti | [Read More](https://medium.com/p/d46441416069) |
+| Thu, 18 Dec 2025 03:16:43 GMT | The Hidden Threat Inside a Charging Cable: How Modern “BadUSB” Attacks Really Work | Deven Chhajed | [Read More](https://medium.com/p/48261dee874a) |
 | Thu, 18 Dec 2025 03:05:01 GMT | XSS Saldırıları | Alper Köse | [Read More](https://medium.com/p/47f8c76b891d) |
 | Thu, 18 Dec 2025 02:40:57 GMT | Docker Just Reset Container Security: Hardened Images Are Now Free for Everyone | Akshay Bhavukesan | [Read More](https://medium.com/p/b985ebaaa7d9) |
 | Thu, 18 Dec 2025 02:22:41 GMT | Weekly Threat Intelligence Report 15 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/f3ebebf0175f) |
@@ -107,9 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 17:17:56 GMT | Message Queuing Telemetry Transport (MQTT) | Abdul Samad | [Read More](https://medium.com/p/43c77bc2d421) |
 | Wed, 17 Dec 2025 17:14:39 GMT | The $12 Trillion Scam: Is Your “Bank” Actually a Teenager in Lahore? | Muhammad Ali Ramzan | [Read More](https://medium.com/p/af6a7aef4cda) |
 | Wed, 17 Dec 2025 17:12:30 GMT | Forensics: Flag in Flame — When Logs Turn Into Images | vulnhunter | [Read More](https://medium.com/p/3fc526d0a5bf) |
-| Wed, 17 Dec 2025 17:06:22 GMT | Why I’m Learning Cybersecurity in Public (From Complete Beginner) | Callum - Cyber Security Journey | [Read More](https://medium.com/p/bfe56cb0d168) |
-| Wed, 17 Dec 2025 17:03:39 GMT | Advent of Cyber 2025 - Day 17: CyberChef — Hoperation Save McSkidy | D4m.sh | [Read More](https://medium.com/p/14fa0265c894) |
-| Wed, 17 Dec 2025 16:54:09 GMT | How to Secure a Place of Worship: Church, Mosque, Synagogue, Temple, and Other Faith Spaces —… | Shahzad Kayani | [Read More](https://medium.com/p/f759510e4c79) |
-| Wed, 17 Dec 2025 16:44:20 GMT | Android Pentesting setup — Kali Linux | Genrunic | [Read More](https://medium.com/p/de8d9bc9f2c8) |
-| Wed, 17 Dec 2025 16:44:07 GMT | The Fear After the Publish Button | Katrina Pescador | [Read More](https://medium.com/p/a66143442ac8) |
-| Wed, 17 Dec 2025 16:42:46 GMT | Web Uygulama Güvenliğinde Kritik Bir Tehdit: Dosya Yükleme Zafiyetleri ve RCE Analizi | ali | [Read More](https://medium.com/p/ee9536c5bd61) |
