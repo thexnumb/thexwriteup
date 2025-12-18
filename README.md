@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 22:33:32 GMT | Cyber-hijacking a ship? | Angelina Souren | [Read More](https://medium.com/p/95e207e125bd) |
+| Thu, 18 Dec 2025 22:31:11 GMT | When AI Becomes the Instructor: Analyzing YouTube’s Video Summarization Safety Gap | Vidura Ranathunga | [Read More](https://medium.com/p/e729bc66f643) |
+| Thu, 18 Dec 2025 22:18:45 GMT | Certified AI/ML Pentester Review | m8sec | [Read More](https://medium.com/p/82dc145c0c76) |
 | Thu, 18 Dec 2025 22:18:11 GMT | Why AI-Driven Vibe Hacking Demands a New DevSecOps Mindset | Cyber-AppSec | [Read More](https://medium.com/p/790c0383ca38) |
 | Thu, 18 Dec 2025 22:10:46 GMT | The Unseen Architecture: A Deep Dive into Network Fundamentals | samurai | [Read More](https://medium.com/p/989a9ff2d6ba) |
 | Thu, 18 Dec 2025 22:07:27 GMT | The Hacker Mindset Isn’t About Crime, It’s About Curiosity | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/eaf8d00fc60e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 14:48:27 GMT | How I Found a Zero-Click Flaw by Questioning a “Safe” Rendering Path | Rawi | [Read More](https://medium.com/p/b104c29a3e8e) |
 | Thu, 18 Dec 2025 14:41:51 GMT | Starting My Ethical Hacking Journey on TryHackMe | Kashif shah | [Read More](https://medium.com/p/94ba52c7f927) |
 | Thu, 18 Dec 2025 14:40:07 GMT | What DNS Really Does — and Why It’s a Weak Link in Internet Security | Codeandcontext | [Read More](https://medium.com/p/01cac58439a8) |
-| Thu, 18 Dec 2025 14:37:59 GMT | How Courage and Vulnerability Team Up to Transcend Fear | Eugene C Scott | [Read More](https://medium.com/p/ca374e365428) |
-| Thu, 18 Dec 2025 14:32:21 GMT | (Comptia A+) Mastering Essential IT Documentation: A Comprehensive Guide for Technicians | Vignesh R | [Read More](https://medium.com/p/9e08b5891e33) |
-| Thu, 18 Dec 2025 14:31:13 GMT | How Venezuela Built a Digital System for Regime Survival | Money, Guns & Oil | [Read More](https://medium.com/p/9d1c34eb6d68) |
