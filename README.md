@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 05:42:16 GMT | React Is NOT as Safe as You Think: A Deep Dive into a CVSS 10.0 Vulnerability | Sachin Ghadi | [Read More](https://medium.com/p/f747ec05d4db) |
+| Thu, 18 Dec 2025 05:42:10 GMT | That Last-Minute Panic Before Leaving Home | Ramesh Raj | [Read More](https://medium.com/p/375350dddc2a) |
+| Thu, 18 Dec 2025 05:30:37 GMT | The Anatomy of a Cyberattack: How Real Attacks Unfold | Michael H. | [Read More](https://medium.com/p/2f90de5035df) |
+| Thu, 18 Dec 2025 05:29:53 GMT | How to Identify Malicious URLs in Everyday Browsing | Thatipamulajashwanth | [Read More](https://medium.com/p/aa0df88c0d90) |
+| Thu, 18 Dec 2025 05:28:02 GMT | CrowdStrike Falcon AIDR (AI Detection & Response) | D09r | [Read More](https://medium.com/p/e22cdfdc6372) |
+| Thu, 18 Dec 2025 05:22:22 GMT | The Silent $4 Million Thief: Why We Need to Talk About Phishing NOW | Khabbab Sarker | [Read More](https://medium.com/p/03a45a7bbcc9) |
+| Thu, 18 Dec 2025 05:17:59 GMT | How to transfer data from GCP Storage Service to OCI Object Storage | Anup Nair | [Read More](https://medium.com/p/337509bc59e3) |
+| Thu, 18 Dec 2025 05:15:47 GMT | The Hidden Security Risks in Python Apps - And How to Prevent Them Before They Cost You | Avi Root Info Solution | [Read More](https://medium.com/p/93d0b05d0f01) |
 | Thu, 18 Dec 2025 05:11:19 GMT | Amazon EC2: Comprehensive Technical Report | Somesh | [Read More](https://medium.com/p/2637c08e36f8) |
 | Thu, 18 Dec 2025 05:06:41 GMT | Angular Security: A Comprehensive Guide with Real-World Examples | Satnam Singh | [Read More](https://medium.com/p/198d13d22719) |
 | Thu, 18 Dec 2025 05:05:19 GMT | The Strategic Relocation of Global Capability Centers | World Trade Center Shamshabad - Future City | [Read More](https://medium.com/p/28375e7e02af) |
@@ -105,11 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 19:19:04 GMT | Network Security Essentials — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/0754f9e5fb47) |
 | Wed, 17 Dec 2025 19:15:40 GMT | Operator Fatigue In OT Cyber Security | Muhammad Ali Khan | [Read More](https://medium.com/p/2829e6bc4e68) |
 | Wed, 17 Dec 2025 19:15:21 GMT | Centralized Suppression Management for Detections Using Macros & Lookups | Harrison Pomeroy | [Read More](https://medium.com/p/be87ffc2f954) |
-| Wed, 17 Dec 2025 19:09:54 GMT | Event Security London — Reliable & Licensed Event Security by WA Event Services | waeventservices.co.uk/ | [Read More](https://medium.com/p/da6a3e77ac57) |
-| Wed, 17 Dec 2025 18:59:00 GMT | Day 135 — Bohemoth Level-0 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/526322cb5aa3) |
-| Wed, 17 Dec 2025 18:51:35 GMT | Home Office Security for Businesses: How to Protect Remote Employees and Data | Cordula Boeck | [Read More](https://medium.com/p/7df4a334d157) |
-| Wed, 17 Dec 2025 18:40:19 GMT | DOM Based XSS: Görünmeyen Ama Tehlikeli | Melih Yılmaz | [Read More](https://medium.com/p/ce24ac706330) |
-| Wed, 17 Dec 2025 18:38:17 GMT | Review of Antisyphon On-Demand Trainings | haarlems | [Read More](https://medium.com/p/671866aaf15c) |
-| Wed, 17 Dec 2025 18:25:01 GMT | A Personal Security Guide for 2026: Simple Habits to Stay Safe in a Smarter Digital World | Emmanuel Okon | [Read More](https://medium.com/p/d19eac50fa4e) |
-| Wed, 17 Dec 2025 18:20:32 GMT | Node.js Security Essentials: Hardening Express with Ken Key | Kenny Key - SEO & Local Growth Strategist | [Read More](https://medium.com/p/a37062383017) |
-| Wed, 17 Dec 2025 18:19:07 GMT | Course Google Security Operations — Deep Dive and ls101 | Mmohammadsalman | [Read More](https://medium.com/p/94804b93425b) |
