@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 03:05:01 GMT | XSS Saldırıları | Alper Köse | [Read More](https://medium.com/p/47f8c76b891d) |
+| Thu, 18 Dec 2025 02:40:57 GMT | Docker Just Reset Container Security: Hardened Images Are Now Free for Everyone | Akshay Bhavukesan | [Read More](https://medium.com/p/b985ebaaa7d9) |
+| Thu, 18 Dec 2025 02:22:41 GMT | Weekly Threat Intelligence Report 15 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/f3ebebf0175f) |
+| Thu, 18 Dec 2025 02:20:04 GMT | This Image Can Hack Your PC — What You Need to Know (Safe Explanation) | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/ef5f3c038add) |
+| Thu, 18 Dec 2025 02:15:43 GMT | React2Shell (CVE-2025–55182): O Colapso Silencioso do Server-Side Rendering | Alissonoliveira | [Read More](https://medium.com/p/0db833a7fc79) |
+| Thu, 18 Dec 2025 02:15:35 GMT | Continuous Control Monitoring (CCM): From Annual Audits to Real-Time Assurance | ThreatLens byGurdeep | [Read More](https://medium.com/p/a6813dec1f39) |
+| Thu, 18 Dec 2025 02:13:02 GMT | Why QR + TOTP Is the Missing Layer of Passwordless Authentication | Anton Minin Baranovskii | [Read More](https://medium.com/p/a147133a7e36) |
+| Thu, 18 Dec 2025 01:56:11 GMT | Building your own local CA, and using it to secure a local Nginx server with HTTPS | Coleo7o7o7 | [Read More](https://medium.com/p/21cb4f2dbb5c) |
 | Thu, 18 Dec 2025 01:42:56 GMT | Policy-as-Code: Turning Security Controls into Enforceable, Auditable Logic | ThreatLens byGurdeep | [Read More](https://medium.com/p/181c40dbb833) |
 | Thu, 18 Dec 2025 01:42:09 GMT | Post 6: The Scale of IT — And Why Job Opportunities Are Still Vast | SattiData | [Read More](https://medium.com/p/04be670f984a) |
 | Thu, 18 Dec 2025 01:32:17 GMT | Python + Wasmtime in Servers: Safe Sandbox for Untrusted UDFs at Near-Native Speed | Codastra | [Read More](https://medium.com/p/ed858be1c48e) |
@@ -105,11 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 16:44:20 GMT | Android Pentesting setup — Kali Linux | Genrunic | [Read More](https://medium.com/p/de8d9bc9f2c8) |
 | Wed, 17 Dec 2025 16:44:07 GMT | The Fear After the Publish Button | Katrina Pescador | [Read More](https://medium.com/p/a66143442ac8) |
 | Wed, 17 Dec 2025 16:42:46 GMT | Web Uygulama Güvenliğinde Kritik Bir Tehdit: Dosya Yükleme Zafiyetleri ve RCE Analizi | ali | [Read More](https://medium.com/p/ee9536c5bd61) |
-| Wed, 17 Dec 2025 16:41:06 GMT | Claude Code “File Modified” Error? Just Paste This | Ikram | [Read More](https://medium.com/p/cb4ec086abcd) |
-| Wed, 17 Dec 2025 16:36:32 GMT | Why You Need a Fast, Secure V2Ray VPN? | Arash Hadad | [Read More](https://medium.com/p/9107bd046655) |
-| Wed, 17 Dec 2025 16:36:01 GMT | Part 1: How to Securely Conduct Phishing Simulations Using a Reverse Proxy on GoPhish | salman syed | [Read More](https://medium.com/p/09f38beda3b1) |
-| Wed, 17 Dec 2025 16:33:06 GMT | The New Age of Cyber Scams in India: What You Must Know to Stay Safe | Hitesh Said | [Read More](https://medium.com/p/ce3927e65ec7) |
-| Wed, 17 Dec 2025 16:26:42 GMT | The World’s First “AI-Native Airline” Is Coming. Here’s What Could Go Wrong. | Zoom In AI | [Read More](https://medium.com/p/d278aa071f5d) |
-| Wed, 17 Dec 2025 16:26:21 GMT | Compromise, Recon and Exfiltration in OCI : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/75a2a5b81392) |
-| Wed, 17 Dec 2025 16:24:56 GMT | One “Harmless” Parameter, Full Account Takeover — My Favorite Bug Bounty Find | Iski | [Read More](https://medium.com/p/1e4c9cf7c17d) |
-| Wed, 17 Dec 2025 16:24:17 GMT | How a Public readme.txt Led to a Critical WordPress CVE | samael0x4 | [Read More](https://medium.com/p/dc8776454011) |
