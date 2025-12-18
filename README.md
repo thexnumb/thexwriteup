@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 05:11:19 GMT | Amazon EC2: Comprehensive Technical Report | Somesh | [Read More](https://medium.com/p/2637c08e36f8) |
+| Thu, 18 Dec 2025 05:06:41 GMT | Angular Security: A Comprehensive Guide with Real-World Examples | Satnam Singh | [Read More](https://medium.com/p/198d13d22719) |
+| Thu, 18 Dec 2025 05:05:19 GMT | The Strategic Relocation of Global Capability Centers | World Trade Center Shamshabad - Future City | [Read More](https://medium.com/p/28375e7e02af) |
+| Thu, 18 Dec 2025 05:01:43 GMT | Advanced Recon & the Web3 Frontier | Janhvee Laad | [Read More](https://medium.com/p/d0a0a75d5d13) |
+| Thu, 18 Dec 2025 04:57:16 GMT | Mobile Proxy Sticky Sessions: Fix Login Verification Loops and Session Loss | ChainNova | [Read More](https://medium.com/p/308f7c123226) |
+| Thu, 18 Dec 2025 04:55:14 GMT | Tải SosoMod Apk V1.3.6 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/9b034753298d) |
+| Thu, 18 Dec 2025 04:52:56 GMT | Credential-Stealing Malware Analysis (Vidar Family) | HackettSec | [Read More](https://medium.com/p/ad1b1ad69ac1) |
+| Thu, 18 Dec 2025 04:47:31 GMT | Splunk Homelab Noise Reduction — Part 2 | Johnny Meintel | [Read More](https://medium.com/p/db1a775a675f) |
 | Thu, 18 Dec 2025 04:39:43 GMT | They Called It Luck — So NASA Did It Again | Ninadgowda | [Read More](https://medium.com/p/0146179622a5) |
 | Thu, 18 Dec 2025 04:39:29 GMT | Why Most Students Learn Skills — But Still Don’t Get Jobs | Ankit rai | [Read More](https://medium.com/p/55243d8b3c72) |
 | Thu, 18 Dec 2025 04:30:54 GMT | Multi-Device Safety: Protecting Devices Across Platforms | OpsEnki | [Read More](https://medium.com/p/1499f4a5c0d7) |
@@ -105,11 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 18:25:01 GMT | A Personal Security Guide for 2026: Simple Habits to Stay Safe in a Smarter Digital World | Emmanuel Okon | [Read More](https://medium.com/p/d19eac50fa4e) |
 | Wed, 17 Dec 2025 18:20:32 GMT | Node.js Security Essentials: Hardening Express with Ken Key | Kenny Key - SEO & Local Growth Strategist | [Read More](https://medium.com/p/a37062383017) |
 | Wed, 17 Dec 2025 18:19:07 GMT | Course Google Security Operations — Deep Dive and ls101 | Mmohammadsalman | [Read More](https://medium.com/p/94804b93425b) |
-| Wed, 17 Dec 2025 18:17:08 GMT | Securely Connecting Azure Databricks to ADLS Gen2 | Mattevikramkumar | [Read More](https://medium.com/p/ecd184a54fc9) |
-| Wed, 17 Dec 2025 18:10:17 GMT | Rate Limiting in Microservices: Why & How | Anand Jeyaseelan | [Read More](https://medium.com/p/28ca19c34efe) |
-| Wed, 17 Dec 2025 18:05:57 GMT | Web Attack Forensics — Drone Alone - AoC 2025 Day — 15 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/77dd3ff43f98) |
-| Wed, 17 Dec 2025 17:55:20 GMT | XML-RPC PHP File Abuse (xmlrpc.php) - Blind SSRF via WordPress XML-RPC pingback.ping | terp0x0 | [Read More](https://medium.com/p/561e3476107d) |
-| Wed, 17 Dec 2025 17:54:40 GMT | Symfonos: 3 .1— Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/983cb955a02c) |
-| Wed, 17 Dec 2025 17:47:54 GMT | Forever Young | Anthony Repetto | [Read More](https://medium.com/p/b8e094dc84ca) |
-| Wed, 17 Dec 2025 17:45:41 GMT | Fuzzing (The Dynamic Software Testing Method) and Fuzzers the Caterpillar | Jen Cracchiola | [Read More](https://medium.com/p/dbc5fec2ba4e) |
-| Wed, 17 Dec 2025 17:44:06 GMT | Joining the DEF CON Madurai Volunteer Team | Aravind | [Read More](https://medium.com/p/510f7932b876) |
