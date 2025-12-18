@@ -12,12 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 10:22:12 GMT | PLANNING | Enoch Root | [Read More](https://medium.com/p/9b0128c495e2) |
+| Thu, 18 Dec 2025 10:18:57 GMT | Pilot Bölüm. | Gizem Saruhan | [Read More](https://medium.com/p/47001c2d3925) |
+| Thu, 18 Dec 2025 10:15:08 GMT | CORS Explained: Which Response Headers Are Actually Required? | Shubham Soni | [Read More](https://medium.com/p/f260421a6dcb) |
+| Thu, 18 Dec 2025 10:14:37 GMT | Top 10 Ethical Hacking Tools for Windows and Linux | Manisha Chaudhary | [Read More](https://medium.com/p/23008f0e5634) |
+| Thu, 18 Dec 2025 10:09:08 GMT | French Interior Ministry Cyberattack: Critical Lessons for Government and Business Security | Technijian | [Read More](https://medium.com/p/4665b774ef2b) |
+| Thu, 18 Dec 2025 10:06:53 GMT | Learn Google Dorking: Arama Motorlarıyla Bilgi Keşfi | Yigitduman | [Read More](https://medium.com/p/a15be23287fa) |
+| Thu, 18 Dec 2025 10:03:15 GMT | Kimwolf Android Botnet: Anatomy of a 1.8 Million–Node DDoS Machine Targeting Smart TVs | Reggie Menacherry | [Read More](https://medium.com/p/84ebb1bcaae6) |
+| Thu, 18 Dec 2025 09:59:14 GMT | How To Become a Hacker | adce626 | [Read More](https://medium.com/p/53996a944767) |
+| Thu, 18 Dec 2025 09:58:09 GMT | Not Just Phishing. This One Hunts The Whales. | Redfox Security | [Read More](https://medium.com/p/8ee29b97b183) |
+| Thu, 18 Dec 2025 09:56:18 GMT | Switch vs Router: What’s the Real Difference? | BHARGAV SANDILYA | [Read More](https://medium.com/p/65765d8c929a) |
+| Thu, 18 Dec 2025 09:45:49 GMT | The Password is Dead! Long Live the Passkey | Gareth Brown | [Read More](https://medium.com/p/c41f25755dbe) |
+| Thu, 18 Dec 2025 09:45:31 GMT | HexStrike on Kali Linux 2025.4: A Comprehensive Guide | Andrey Pautov | [Read More](https://medium.com/p/85a0e5752949) |
 | Thu, 18 Dec 2025 09:42:23 GMT | Why Touch Isn’t Always Intimacy | Abha | [Read More](https://medium.com/p/965706a09ef6) |
 | Thu, 18 Dec 2025 09:40:45 GMT | DOM XSS Using Web Messages and Javascript URL (window.postMessage → innerHTML Sink) | Aditya Bhatt | [Read More](https://medium.com/p/fda6c0064a4e) |
 | Thu, 18 Dec 2025 09:39:10 GMT | “The Cybersecurity Game Master” is out! | Roberto Dillon | [Read More](https://medium.com/p/5d5e3d390642) |
 | Thu, 18 Dec 2025 09:34:35 GMT | When Expiry Lies: Oracle Manipulation in Ribbon’s Options System (~$2.7M USD are gone) | Evgenii | [Read More](https://medium.com/p/dedc21d2d0f3) |
 | Thu, 18 Dec 2025 09:28:44 GMT | Docker Hardened Images are Free | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/538fbccabaf3) |
 | Thu, 18 Dec 2025 09:28:40 GMT | From M&A to Crisis Recovery — Why Leaders Bring Us In: Why Clients Trust Us With Complex Challenges | Fook Hwa Tan | [Read More](https://medium.com/p/5f0ec5acecae) |
+| Thu, 18 Dec 2025 09:27:58 GMT | แจ้งเตือนช่องโหว่วิกฤต Ivanti Endpoint Manager (EPM) — CVE-2025–10573 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f30b95e8b573) |
 | Thu, 18 Dec 2025 09:27:54 GMT | Data-Driven Trust: What We’ve Protected in the Last Year Our Cybersecurity Impact in Numbers | Fook Hwa Tan | [Read More](https://medium.com/p/06abc0e7c620) |
 | Thu, 18 Dec 2025 09:25:42 GMT | ประจำวันพฤหัสบดีที่ 18 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/aefa17d2dc53) |
 | Thu, 18 Dec 2025 09:24:03 GMT | The Hidden Cost of “Yield”: Why Most BTCFi Products Fail Institutional Risk Tests | Emmanuel Chibuzor | [Read More](https://medium.com/p/8cde970ba26c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 04:55:14 GMT | Tải SosoMod Apk V1.3.6 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/9b034753298d) |
 | Thu, 18 Dec 2025 04:52:56 GMT | Credential-Stealing Malware Analysis (Vidar Family) | HackettSec | [Read More](https://medium.com/p/ad1b1ad69ac1) |
 | Thu, 18 Dec 2025 04:47:31 GMT | Splunk Homelab Noise Reduction — Part 2 | Johnny Meintel | [Read More](https://medium.com/p/db1a775a675f) |
-| Thu, 18 Dec 2025 04:39:43 GMT | They Called It Luck — So NASA Did It Again | Ninadgowda | [Read More](https://medium.com/p/0146179622a5) |
-| Thu, 18 Dec 2025 04:39:29 GMT | Why Most Students Learn Skills — But Still Don’t Get Jobs | Ankit rai | [Read More](https://medium.com/p/55243d8b3c72) |
-| Thu, 18 Dec 2025 04:30:54 GMT | Multi-Device Safety: Protecting Devices Across Platforms | OpsEnki | [Read More](https://medium.com/p/1499f4a5c0d7) |
-| Thu, 18 Dec 2025 04:29:53 GMT | Top 10 Endpoint Protection Strategies Every Business Should Know | Maxatlasofficial | [Read More](https://medium.com/p/c49df616c068) |
-| Thu, 18 Dec 2025 04:27:42 GMT | Why Updating Third-Party Libraries Is Critical for Application Security | Geeky Vartika | [Read More](https://medium.com/p/a0e7496011be) |
-| Thu, 18 Dec 2025 04:23:20 GMT | Security, Compliance, and Governance for AI-Enhanced BDD | Stepan Plotytsia | [Read More](https://medium.com/p/34b86d59c053) |
-| Thu, 18 Dec 2025 04:22:37 GMT | 8 Million Users’ AI Conversations Sold by ‘Privacy’ Extensions | Pawan Jaiswal | [Read More](https://medium.com/p/0e3d247503fa) |
-| Thu, 18 Dec 2025 04:02:37 GMT | Client Components vs Server Components in React | Miral Kumbhani | [Read More](https://medium.com/p/6e01331f0873) |
-| Thu, 18 Dec 2025 04:01:11 GMT | What is API Security and Why Should You Care? | Yasmin | [Read More](https://medium.com/p/a6f3a91a85c4) |
-| Thu, 18 Dec 2025 03:57:07 GMT | And if you get a feeling (Pt. 2) | Treasure Kelechukwu | [Read More](https://medium.com/p/70382232bb2c) |
-| Thu, 18 Dec 2025 03:54:06 GMT | IT Priorities 2026: 10 IT Leaders Should Focus On | HostNOC | [Read More](https://medium.com/p/0f1f58128dd1) |
-| Thu, 18 Dec 2025 03:47:35 GMT | Sysmon Is Coming To Windows — Let’s Celebrate By Talking About Event ID Chaining As Indicators Of… | Johnny Meintel | [Read More](https://medium.com/p/ac0076cac754) |
-| Thu, 18 Dec 2025 03:33:07 GMT | 21. Re-ceive — | icanwallad | [Read More](https://medium.com/p/db401d0dc890) |
