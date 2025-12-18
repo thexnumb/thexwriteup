@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 01:42:56 GMT | Policy-as-Code: Turning Security Controls into Enforceable, Auditable Logic | ThreatLens byGurdeep | [Read More](https://medium.com/p/181c40dbb833) |
+| Thu, 18 Dec 2025 01:42:09 GMT | Post 6: The Scale of IT — And Why Job Opportunities Are Still Vast | SattiData | [Read More](https://medium.com/p/04be670f984a) |
+| Thu, 18 Dec 2025 01:32:17 GMT | Python + Wasmtime in Servers: Safe Sandbox for Untrusted UDFs at Near-Native Speed | Codastra | [Read More](https://medium.com/p/ed858be1c48e) |
+| Thu, 18 Dec 2025 01:21:12 GMT | Discussion of Business on Platforms vs. Independant Platform Systems | Aaron Linder | [Read More](https://medium.com/p/5f050f999ed6) |
+| Thu, 18 Dec 2025 01:02:38 GMT | Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin | tanvi mittal | [Read More](https://medium.com/p/f994a38e4515) |
+| Thu, 18 Dec 2025 00:48:14 GMT | Snowflake Account Access & Security | Sushmasree Rudroju | [Read More](https://medium.com/p/a73187fd9c2b) |
+| Thu, 18 Dec 2025 00:42:44 GMT | SSRF Vulnerability Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/ab1fc0c0fe04) |
+| Thu, 18 Dec 2025 00:33:31 GMT | Current | Chris Perkins | [Read More](https://medium.com/p/745961b089ae) |
+| Thu, 18 Dec 2025 00:12:03 GMT | The Day You Lose Everything — and How to Make Sure It Never Happens | Rekuva: The "Ctrl+Z" for Your Wallet | [Read More](https://medium.com/p/cd7b38c48bbe) |
+| Thu, 18 Dec 2025 00:09:06 GMT | CTF Flow- HackingClub | Henrique | [Read More](https://medium.com/p/ecd3eb5be0df) |
+| Thu, 18 Dec 2025 00:05:51 GMT | $5,000 Bounty: How I Hijacked Google Gemini’s UI via Python Code Execution | janet zech | [Read More](https://medium.com/p/0c9c09e556ae) |
+| Thu, 18 Dec 2025 00:05:07 GMT | A case study for Accountable Autonomy at Airports | Inference Labs | [Read More](https://medium.com/p/173b940b76e2) |
+| Wed, 17 Dec 2025 23:50:03 GMT | How Hypergame Theory Is Revolutionizing High-Stakes AI Training | Berend Watchus | [Read More](https://medium.com/p/296ba0a1eebd) |
 | Wed, 17 Dec 2025 23:18:16 GMT | Your AWS Account Could Be Mining Crypto Right Now | Cyber-AppSec | [Read More](https://medium.com/p/776d5a7f66e8) |
 | Wed, 17 Dec 2025 23:07:53 GMT | What a TCP Handshake Looks Like During Network Analysis | Omer Duman | [Read More](https://medium.com/p/0795ed39ac19) |
 | Wed, 17 Dec 2025 23:05:24 GMT | Google introduces the Gemini 3 Flash and sets it as the Gemini app’s default model. | loukmane hamzaoui | [Read More](https://medium.com/p/56fc9c14e3de) |
@@ -100,16 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 16:26:21 GMT | Compromise, Recon and Exfiltration in OCI : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/75a2a5b81392) |
 | Wed, 17 Dec 2025 16:24:56 GMT | One “Harmless” Parameter, Full Account Takeover — My Favorite Bug Bounty Find | Iski | [Read More](https://medium.com/p/1e4c9cf7c17d) |
 | Wed, 17 Dec 2025 16:24:17 GMT | How a Public readme.txt Led to a Critical WordPress CVE | samael0x4 | [Read More](https://medium.com/p/dc8776454011) |
-| Wed, 17 Dec 2025 16:14:52 GMT | Career Growth in 2026: How Tech Professionals Move Forward in Their Current Roles | David Rise | [Read More](https://medium.com/p/08bc5db699b2) |
-| Wed, 17 Dec 2025 16:11:52 GMT | Understanding BOLA: What It Is, How It Happens, and How to Prevent It. | Esther Kenneth | [Read More](https://medium.com/p/008f5787628b) |
-| Wed, 17 Dec 2025 16:00:27 GMT | Why HR Is a Prime Target for Social Engineering Attacks | Digital Defense | [Read More](https://medium.com/p/5a1c1c0e84ff) |
-| Wed, 17 Dec 2025 15:58:56 GMT | Choosing A Secure And Reliable Web Host That Scales | Geoffrey Wenger | [Read More](https://medium.com/p/2c7b6feb587b) |
-| Wed, 17 Dec 2025 15:58:48 GMT | Real Computer Maintenance Without Risk Or Subscriptions | Geoffrey Wenger | [Read More](https://medium.com/p/14318efc936b) |
-| Wed, 17 Dec 2025 15:55:46 GMT | When Governments Tell You to Turn Off the Network, the Model Is Already Broken | Fortress Protocol | [Read More](https://medium.com/p/2782db0b8771) |
-| Wed, 17 Dec 2025 15:53:03 GMT | SSRF Challenge Write-up | Obioma Felicity Uzoh | [Read More](https://medium.com/p/96759d05e27c) |
-| Wed, 17 Dec 2025 15:47:52 GMT | The Comma That Cost a Fortune | Anuja | [Read More](https://medium.com/p/1f7bd0a29363) |
-| Wed, 17 Dec 2025 15:45:00 GMT | Strengthening Hospital Security with Millennium Access Control Systems | Tony Brooks | [Read More](https://medium.com/p/02cb83d9fa00) |
-| Wed, 17 Dec 2025 15:41:58 GMT | Recording and Analysing network traffic | Irina Y | [Read More](https://medium.com/p/f793286ee44b) |
-| Wed, 17 Dec 2025 15:39:06 GMT | The Sunset of Google’s Dark Web Report: What It Means and Where to Go Next. | eL Njas!™ | [Read More](https://medium.com/p/ceaa1359c336) |
-| Wed, 17 Dec 2025 15:35:49 GMT | How I Met Your Microservice | Saadet Elizaveta Babal | [Read More](https://medium.com/p/1ea1ca56ceaa) |
-| Wed, 17 Dec 2025 15:33:08 GMT | I’ve Interviewed Thousands of Cybersecurity Professionals — Here’s My Best Advice for 2026 | Taimur Ijlal | [Read More](https://medium.com/p/444efec45b2c) |
