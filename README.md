@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 16:12:58 GMT | Payload Shape Injection: Deep Dive & LLM-Augmented Exploration E2 | Mohammad Abir Abbas | [Read More](https://medium.com/p/c39ba251bc7b) |
+| Thu, 18 Dec 2025 16:12:31 GMT | Marketing & Cybersecurity: Protecting Customer Data in Campaigns | Digital Defense | [Read More](https://medium.com/p/2791e940779f) |
+| Thu, 18 Dec 2025 16:08:36 GMT | CISO Communities: Cybersecurity’s Secret Weapon | IT_Engineer | [Read More](https://medium.com/p/2b5c4f5b8e8d) |
+| Thu, 18 Dec 2025 16:06:15 GMT | ‘React’ vulnerability sparked the industry | Andrii Shyshenko | [Read More](https://medium.com/p/a3f4a24d9816) |
+| Thu, 18 Dec 2025 16:04:17 GMT | The Day a Company Learned Passwords Are a Business Risk | Udit Varshney | [Read More](https://medium.com/p/65e1777929ad) |
+| Thu, 18 Dec 2025 16:03:57 GMT | Should you accept cookies while visiting different websites? | Ashish Kr. Jha | [Read More](https://medium.com/p/ce029a7e5b4f) |
+| Thu, 18 Dec 2025 16:00:31 GMT | A Featured Chrome Extension Was Quietly Recording Millions of AI Conversations | Decentr | [Read More](https://medium.com/p/b78993a693d9) |
+| Thu, 18 Dec 2025 15:54:57 GMT | Three Delivery Models That Survived, Everything Else Died | Petra Ivanigova | [Read More](https://medium.com/p/4237a835c386) |
+| Thu, 18 Dec 2025 15:50:50 GMT | React2Shell: Anatomy of a 10/10 RCE Nightmare (CVE-2025–55182) | Theodore John.S | [Read More](https://medium.com/p/66df5bef4da2) |
+| Thu, 18 Dec 2025 15:49:25 GMT | Human + AI = Red Team 2.0 | Aniket Das | [Read More](https://medium.com/p/bff0fde4e0df) |
+| Thu, 18 Dec 2025 15:46:42 GMT | [DEEP RESEARCH] Zero-Days Are a Distraction: 2025’s Biggest Losses Were Stolen Tokens + OAuth | Wes Young | [Read More](https://medium.com/p/57810377494c) |
 | Thu, 18 Dec 2025 15:41:34 GMT | Top 10 Tech Skills to Master in 2026 | Sarah Morino | [Read More](https://medium.com/p/65030d2e3b57) |
 | Thu, 18 Dec 2025 15:37:51 GMT | Cybersecurity for Utilities: Safeguarding the Backbone of Modern Society | Perimeterwatch | [Read More](https://medium.com/p/c46f149a3884) |
 | Thu, 18 Dec 2025 15:32:48 GMT | Architecting for Compliance and Scale: Cloud Engineering for Digital Banking | Yokota Strong | [Read More](https://medium.com/p/49197e058c37) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 10:41:29 GMT | Press PG Practice — Security Lessons | Balaji_21 | [Read More](https://medium.com/p/ae64281d0c15) |
 | Thu, 18 Dec 2025 10:38:08 GMT | How I Built a SOC Lab in My Bedroom | Abimanyu A | [Read More](https://medium.com/p/33c37c282ab2) |
 | Thu, 18 Dec 2025 10:33:27 GMT | Step-by-Step Audit Readiness Guide for ISO 27001 | Consulting4sec | [Read More](https://medium.com/p/99acf0ebd812) |
-| Thu, 18 Dec 2025 10:30:15 GMT | Everyone Is Carrying Something: Some People Hide It Better | Justine Jacob | [Read More](https://medium.com/p/c452991e300e) |
-| Thu, 18 Dec 2025 10:28:22 GMT | ISO/IEC 27018 Certification: Protecting Personal Data in the Cloud | Sqccertification | [Read More](https://medium.com/p/f922e04422a5) |
-| Thu, 18 Dec 2025 10:24:52 GMT | I Just Wanted You to Read Me | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/67b3cf4d4ee7) |
-| Thu, 18 Dec 2025 10:22:12 GMT | PLANNING | Enoch Root | [Read More](https://medium.com/p/9b0128c495e2) |
-| Thu, 18 Dec 2025 10:19:17 GMT | Why Cybersecurity Consultancy in the Philippines Is Essential for Business Security | Prakash Factosecure | [Read More](https://medium.com/p/69bdf7036c94) |
-| Thu, 18 Dec 2025 10:18:57 GMT | Pilot Bölüm. | Gizem Saruhan | [Read More](https://medium.com/p/47001c2d3925) |
-| Thu, 18 Dec 2025 10:18:26 GMT | The Future of AI-Powered Security Analysis | Securegap.io | [Read More](https://medium.com/p/29b00c80c812) |
-| Thu, 18 Dec 2025 10:16:36 GMT | Phishing Simulation and Awareness Services in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/96199e3d7a03) |
-| Thu, 18 Dec 2025 10:15:08 GMT | CORS Explained: Which Response Headers Are Actually Required? | Shubham Soni | [Read More](https://medium.com/p/f260421a6dcb) |
-| Thu, 18 Dec 2025 10:14:37 GMT | Top 10 Ethical Hacking Tools for Windows and Linux | Manisha Chaudhary | [Read More](https://medium.com/p/23008f0e5634) |
-| Thu, 18 Dec 2025 10:09:08 GMT | French Interior Ministry Cyberattack: Critical Lessons for Government and Business Security | Technijian | [Read More](https://medium.com/p/4665b774ef2b) |
