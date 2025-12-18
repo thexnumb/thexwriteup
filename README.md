@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 08:26:14 GMT | Publishing an Internet-Draft at the IETF | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/45a27c59e394) |
+| Thu, 18 Dec 2025 08:24:53 GMT | How I Got into the Cyblack SOC Academy (And How You Can Too). | Joanorifha | [Read More](https://medium.com/p/a43126801f3c) |
+| Thu, 18 Dec 2025 08:23:00 GMT | Protect Your Business with Information Security Services | Justinbrock | [Read More](https://medium.com/p/c4a0a2ee2b19) |
+| Thu, 18 Dec 2025 08:22:16 GMT | Securing a Kenyan SACCO from Zero [Part 3 of 6] | Munaniadeno | [Read More](https://medium.com/p/512fe0d5caae) |
+| Thu, 18 Dec 2025 08:15:14 GMT | $13 Million VC Dream Turned $2.2 Million Fraud: The Shiloh Luckey & ComplYant Story | O. J. Okpabi | [Read More](https://medium.com/p/ca6efba1f9a1) |
+| Thu, 18 Dec 2025 08:15:13 GMT | The Best Information Security Books of 2025 Yıl sona ererken, işte 2025'in En İyi Bilgi Güvenliği… | Talha Özcan | [Read More](https://medium.com/p/c83230157f1a) |
+| Thu, 18 Dec 2025 08:09:25 GMT | AWS Envelop Encryption | N P Prahal | [Read More](https://medium.com/p/c151ab4111a4) |
+| Thu, 18 Dec 2025 08:09:25 GMT | Cybersecurity Career Paths and Job Market Outlook 2026 | EINITIAL24 | [Read More](https://medium.com/p/aeb29b1919a1) |
+| Thu, 18 Dec 2025 08:06:13 GMT | New Book Release: Protecting Blazor Web Apps and WebAssembly from Real-World Attacks | Chandradev Prasad | [Read More](https://medium.com/p/bbd15071cbf4) |
+| Thu, 18 Dec 2025 08:05:53 GMT | Observing Access Control in Consumer Platforms: When Sessions Persist but Sensitive Actions Trigger… | NishitaThakkar | [Read More](https://medium.com/p/ed2c287434c3) |
+| Thu, 18 Dec 2025 08:04:51 GMT | Understanding Post-Quantum Cryptography: A Practical Roadmap | Yunus Emre SERT | [Read More](https://medium.com/p/582214565648) |
+| Thu, 18 Dec 2025 08:04:08 GMT | Largest security breach of 2025? 200 million user records breached. | Rishi | [Read More](https://medium.com/p/63e7fcda8162) |
+| Thu, 18 Dec 2025 08:02:45 GMT | React2Shell Exploitation Escalates into Large-Scale Global Attacks | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/a82fea911ac9) |
+| Thu, 18 Dec 2025 08:02:23 GMT | Where I Most Fully Was, I Was In Transit | Łukasz Ratajczak | [Read More](https://medium.com/p/d9153ad0147e) |
+| Thu, 18 Dec 2025 07:59:27 GMT | The Things We Told Too Soon | Joan Bluejack | [Read More](https://medium.com/p/b4c40dcfb84d) |
+| Thu, 18 Dec 2025 07:55:18 GMT | I Lost $15,000 Because I Didn’t Listen to the Knot in My Stomach | SocialScreen | [Read More](https://medium.com/p/14f721a8717c) |
+| Thu, 18 Dec 2025 07:50:43 GMT | XINTRA — Meow Islands Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/a1fc31c96983) |
+| Thu, 18 Dec 2025 07:49:19 GMT | Top 10 Tips for Using Solidworks Simulation Solutions Effectively | Tech Savvy | [Read More](https://medium.com/p/5a2d86f77d78) |
+| Thu, 18 Dec 2025 07:48:48 GMT | Tải Pure Tuber Apk (Premium, Mở Khóa Vip, Không Quảng Cáo) V5.4.0.101 | genzvnmod | [Read More](https://medium.com/p/a2146feff431) |
+| Thu, 18 Dec 2025 07:43:05 GMT | Professional Bodyguard Service Malaysia - Trusted Personal Protection | Joyah Raza J | [Read More](https://medium.com/p/48ecd607611c) |
+| Thu, 18 Dec 2025 07:38:50 GMT | Tải Stumble Guys Mod Hack.boats ( Mod Menu,Vô Hạn Tiền, Full Skin, Max Level) v0.92.6 | Game4u | [Read More](https://medium.com/p/2333c0113898) |
+| Thu, 18 Dec 2025 07:37:08 GMT | Cwe Top 25–2025 Edition | Yaniv | [Read More](https://medium.com/p/75872242a69d) |
 | Thu, 18 Dec 2025 07:32:42 GMT | Free Wi-Fi: Convenience or Hidden Risk? | Himanshu Bhatt | [Read More](https://medium.com/p/1cb1aa0a9f48) |
 | Thu, 18 Dec 2025 07:32:34 GMT | Salt Typhoon: China’s 2025 Telecom Siege That Listened to America’s Every Whisper | Kalariya Het | [Read More](https://medium.com/p/2c84d86e4919) |
 | Thu, 18 Dec 2025 07:25:34 GMT | Tải Bus Simulator Vietnam APK (MOD Bản Full) v9.3.6 | Bandisharecx | [Read More](https://medium.com/p/8ede48254786) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 00:42:44 GMT | SSRF Vulnerability Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/ab1fc0c0fe04) |
 | Thu, 18 Dec 2025 00:33:31 GMT | Current | Chris Perkins | [Read More](https://medium.com/p/745961b089ae) |
 | Thu, 18 Dec 2025 00:12:03 GMT | The Day You Lose Everything — and How to Make Sure It Never Happens | Rekuva: The "Ctrl+Z" for Your Wallet | [Read More](https://medium.com/p/cd7b38c48bbe) |
-| Thu, 18 Dec 2025 00:09:06 GMT | CTF Flow- HackingClub | Henrique | [Read More](https://medium.com/p/ecd3eb5be0df) |
-| Thu, 18 Dec 2025 00:05:51 GMT | $5,000 Bounty: How I Hijacked Google Gemini’s UI via Python Code Execution | janet zech | [Read More](https://medium.com/p/0c9c09e556ae) |
-| Thu, 18 Dec 2025 00:05:07 GMT | A case study for Accountable Autonomy at Airports | Inference Labs | [Read More](https://medium.com/p/173b940b76e2) |
-| Wed, 17 Dec 2025 23:50:03 GMT | How Hypergame Theory Is Revolutionizing High-Stakes AI Training | Berend Watchus | [Read More](https://medium.com/p/296ba0a1eebd) |
-| Wed, 17 Dec 2025 23:18:16 GMT | Your AWS Account Could Be Mining Crypto Right Now | Cyber-AppSec | [Read More](https://medium.com/p/776d5a7f66e8) |
-| Wed, 17 Dec 2025 23:07:53 GMT | What a TCP Handshake Looks Like During Network Analysis | Omer Duman | [Read More](https://medium.com/p/0795ed39ac19) |
-| Wed, 17 Dec 2025 23:05:24 GMT | Google introduces the Gemini 3 Flash and sets it as the Gemini app’s default model. | loukmane hamzaoui | [Read More](https://medium.com/p/56fc9c14e3de) |
-| Wed, 17 Dec 2025 23:00:36 GMT | Salt Typhoon’s architects were trained at the Cisco Academy. | Jared Douville | [Read More](https://medium.com/p/7ccabb5d83b2) |
-| Wed, 17 Dec 2025 22:46:34 GMT | What is API Security and Why Should Everyday People Care About it? | Veronica Peter | [Read More](https://medium.com/p/529f8b744d83) |
-| Wed, 17 Dec 2025 22:40:56 GMT | Business Logic Bugs That Paid Big: How “Working as Intended” Broke Million-Dollar Systems | Krish_cyber | [Read More](https://medium.com/p/6f4bd345659d) |
-| Wed, 17 Dec 2025 22:40:51 GMT | From Castles to Condominiums: The Quiet Art of Digital Boundaries | Samina Perveen | [Read More](https://medium.com/p/4e9c299b7d4a) |
-| Wed, 17 Dec 2025 22:40:31 GMT | $2,500 Bounty: How a Simple Race Condition Let Me Get Paid Multiple Times by HackerOne | Monika sharma | [Read More](https://medium.com/p/cc7bbb0551f1) |
-| Wed, 17 Dec 2025 22:27:18 GMT | HackTheBox — File Uploads-Whitelist Filters | 415141 | [Read More](https://medium.com/p/312ac6211c04) |
-| Wed, 17 Dec 2025 22:23:05 GMT | Lab: 2FA broken logic | Songül Kızılay Özügürler | [Read More](https://medium.com/p/a41b70b3708f) |
-| Wed, 17 Dec 2025 22:21:32 GMT | --When EDR Becomes the Camouflage | Kapil | [Read More](https://medium.com/p/fd895ac4465b) |
-| Wed, 17 Dec 2025 22:13:48 GMT | BrickStorm: when persistent access becomes infrastructure | Rodrigo Gutierrez | [Read More](https://medium.com/p/78964db1ab9f) |
-| Wed, 17 Dec 2025 22:09:33 GMT | “Script” Engellemek Yetmez: Reflected XSS Gerçeği | Melih Yılmaz | [Read More](https://medium.com/p/7eb253c1c417) |
-| Wed, 17 Dec 2025 22:06:07 GMT | Vulnhub Deathnote: 1 Walkthrough | Luke Gearty | [Read More](https://medium.com/p/845929fdbe23) |
-| Wed, 17 Dec 2025 22:02:31 GMT | See How Some of the World’s Best Organisations are Boosting Website Speed and Security with Modern… | Joana Inch | [Read More](https://medium.com/p/abf682225591) |
-| Wed, 17 Dec 2025 21:56:22 GMT | Reset Password Token Leakage to Third-Party Analytics Leading to Account Takeover | Mohamed_Farghly | [Read More](https://medium.com/p/e66723dcb8d0) |
-| Wed, 17 Dec 2025 21:49:46 GMT | Real-Time Scareware Protection Expands in Microsoft Edge | www.OneCoolTip.com | [Read More](https://medium.com/p/b7fa04e99465) |
-| Wed, 17 Dec 2025 21:48:04 GMT | The Trap of Trust — Security Strategies for the Era of Account Takeover | David SEHYEON Baek | [Read More](https://medium.com/p/d0a0d55d0b50) |
