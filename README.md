@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 11:28:51 GMT | 2025 FIRST & AfricaCERT Symposium in Mauritius: “When the Defenders Unite.” | Gamuchirai | [Read More](https://medium.com/p/c52000e2dac5) |
+| Thu, 18 Dec 2025 11:20:59 GMT | Cryptocurrency and Cybercrime in 2026 | Warda Saleem | [Read More](https://medium.com/p/82b35de0d47d) |
+| Thu, 18 Dec 2025 11:19:13 GMT | Hacking Series (Part 7): Malware Analysis — How Malware Works, How It’s Detected, and How to… | Cyber Wolf | [Read More](https://medium.com/p/bb8d2f4371d4) |
+| Thu, 18 Dec 2025 11:18:14 GMT | Russian is No.#2 language in content on the internet. | Martin Abramov | [Read More](https://medium.com/p/11265249ff4a) |
 | Thu, 18 Dec 2025 11:10:16 GMT | ABOUT ME | Khushisharma | [Read More](https://medium.com/p/27c66d2bd8eb) |
 | Thu, 18 Dec 2025 11:06:15 GMT | Ask Adam: Empowering FTEs to Break Free of Vendor Saturation | Namir Sagheenanajar | [Read More](https://medium.com/p/b07c55cfd774) |
 | Thu, 18 Dec 2025 11:06:15 GMT | Why do we Prefer Lies in the Age of Information? | Prof. Michael Wainaina, (Ph.D.). | [Read More](https://medium.com/p/1a7d4fede65c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 06:33:11 GMT | Docker’s AI Assistant Can Now Automatically Secure Your Containers with Docker Hardened Images | Ashwini Puranik | [Read More](https://medium.com/p/6877320f59c9) |
 | Thu, 18 Dec 2025 06:24:39 GMT | Fix Meta Ads Checkpoint Login Loops | Bitway | [Read More](https://medium.com/p/52ed14a726e6) |
 | Thu, 18 Dec 2025 06:23:54 GMT | The 100x Engineer is a Myth. The 100x Process is Real. | Ofri Peretz | [Read More](https://medium.com/p/3e1ce9636bcf) |
-| Thu, 18 Dec 2025 06:21:07 GMT | Top Safety Measures by Event Security Services in Singapore | Jane Tang | [Read More](https://medium.com/p/1f764c07677f) |
-| Thu, 18 Dec 2025 06:12:50 GMT | 02 - Why Integrity, Authenticity, and Cyber Awareness Define the Modern Founder’s Path | Valerie Cobb | [Read More](https://medium.com/p/3297778327c2) |
-| Thu, 18 Dec 2025 06:10:24 GMT | The Invisible Decisions Shaping Your Digital Life | Muhammad Suleman | [Read More](https://medium.com/p/09321c1bd475) |
-| Thu, 18 Dec 2025 06:09:22 GMT | CWE Top 25 (2025): Understanding the Software Weaknesses Behind Modern Attacks | Sujal Shihani | [Read More](https://medium.com/p/55bb7456b6b9) |
