@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 07:32:42 GMT | Free Wi-Fi: Convenience or Hidden Risk? | Himanshu Bhatt | [Read More](https://medium.com/p/1cb1aa0a9f48) |
+| Thu, 18 Dec 2025 07:32:34 GMT | Salt Typhoon: China’s 2025 Telecom Siege That Listened to America’s Every Whisper | Kalariya Het | [Read More](https://medium.com/p/2c84d86e4919) |
+| Thu, 18 Dec 2025 07:25:34 GMT | Tải Bus Simulator Vietnam APK (MOD Bản Full) v9.3.6 | Bandisharecx | [Read More](https://medium.com/p/8ede48254786) |
+| Thu, 18 Dec 2025 07:24:15 GMT | ToolShell: The Silent Cyber Knife That Sliced Into America’s Digital Heart in 2025 | Kalariya Het | [Read More](https://medium.com/p/8758c0b65079) |
+| Thu, 18 Dec 2025 07:22:40 GMT | 2026 Will Be Brutal for Legacy Tech. AI-First Platforms Will take the Throne | AIRRIVED | [Read More](https://medium.com/p/63da0efc15bc) |
+| Thu, 18 Dec 2025 07:22:39 GMT | KSA’s Data Centers: Securing the Financial Future. | Mohd Nadeem | [Read More](https://medium.com/p/45f1991cc6bc) |
+| Thu, 18 Dec 2025 07:21:04 GMT | 64 Million Lives For Sale In Spain’s Teen Data Heist | O. J. Okpabi | [Read More](https://medium.com/p/94e3531eba3a) |
+| Thu, 18 Dec 2025 07:11:59 GMT | Solve Memory Leaks via Angular Development Services | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/b67707268976) |
 | Thu, 18 Dec 2025 07:09:02 GMT | The $44 Leap: Why the Arduino Uno Q Marks a New Chapter for Makers | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/fc548b4a47a1) |
 | Thu, 18 Dec 2025 06:56:41 GMT | Write-up CTF: Fishy HTTP (HackTheBox) | Ervi | [Read More](https://medium.com/p/532be1f9349d) |
 | Thu, 18 Dec 2025 06:51:12 GMT | Cybersecurity Framework Profile for Artificial Intelligence (Cyber AI Profile) | Viktor Davydych | [Read More](https://medium.com/p/29401c1d3fe2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 21:56:22 GMT | Reset Password Token Leakage to Third-Party Analytics Leading to Account Takeover | Mohamed_Farghly | [Read More](https://medium.com/p/e66723dcb8d0) |
 | Wed, 17 Dec 2025 21:49:46 GMT | Real-Time Scareware Protection Expands in Microsoft Edge | www.OneCoolTip.com | [Read More](https://medium.com/p/b7fa04e99465) |
 | Wed, 17 Dec 2025 21:48:04 GMT | The Trap of Trust — Security Strategies for the Era of Account Takeover | David SEHYEON Baek | [Read More](https://medium.com/p/d0a0d55d0b50) |
-| Wed, 17 Dec 2025 21:31:48 GMT | I Scored 100% on OSCP After 6 Months of Hell (Here’s Everything I Learned) | Abdullah Javeed | [Read More](https://medium.com/p/19d31cd89503) |
-| Wed, 17 Dec 2025 21:28:41 GMT | HackTheBox Challenge Writeup: ReactOOPS | Rahaliashraf | [Read More](https://medium.com/p/4fd619b671ff) |
-| Wed, 17 Dec 2025 21:23:08 GMT | A Ordem do Código Limpo | Kleber Andrade | [Read More](https://medium.com/p/299094b49fad) |
-| Wed, 17 Dec 2025 21:21:42 GMT | Why They Stop Trying Once They Know You Won’t Leave | Bloom with Maria | [Read More](https://medium.com/p/4ecd43341fdd) |
-| Wed, 17 Dec 2025 21:02:54 GMT | Pentest to CVE Research | Edward Amarh | [Read More](https://medium.com/p/7462804c0750) |
-| Wed, 17 Dec 2025 21:01:18 GMT | Getting Started with Burp Suite for API Security Testing | Joyatee Datta | [Read More](https://medium.com/p/1221387c9ef1) |
-| Wed, 17 Dec 2025 20:51:05 GMT | The Myth of the “Brilliant Hacker” | Abba Abdullahi Wakili | [Read More](https://medium.com/p/706f39b22bc8) |
-| Wed, 17 Dec 2025 20:30:05 GMT | When Encryption Depends on Errors, Not Data A Critical Look at Noise-Based Security in Quantum-Safe… | Bervice | [Read More](https://medium.com/p/640ee3790b9a) |
