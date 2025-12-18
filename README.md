@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 11:10:16 GMT | ABOUT ME | Khushisharma | [Read More](https://medium.com/p/27c66d2bd8eb) |
+| Thu, 18 Dec 2025 11:06:15 GMT | Ask Adam: Empowering FTEs to Break Free of Vendor Saturation | Namir Sagheenanajar | [Read More](https://medium.com/p/b07c55cfd774) |
+| Thu, 18 Dec 2025 11:06:15 GMT | Why do we Prefer Lies in the Age of Information? | Prof. Michael Wainaina, (Ph.D.). | [Read More](https://medium.com/p/1a7d4fede65c) |
+| Thu, 18 Dec 2025 11:00:48 GMT | The Ultimate Combo Cheap Reseller Hosting + Web Design Skills for a Profitable Online Business | Janet Watson | [Read More](https://medium.com/p/6c1098b79f65) |
+| Thu, 18 Dec 2025 10:59:33 GMT | IDOR Explained | Akshay Damle | [Read More](https://medium.com/p/941505123efd) |
+| Thu, 18 Dec 2025 10:58:41 GMT | Hear your Fears instead of wearing them | Avni Bhandari | [Read More](https://medium.com/p/30708564d03d) |
+| Thu, 18 Dec 2025 10:57:41 GMT | Security Lab Simulation Project Part 14: Installation of Mythic on Ubuntu Server | Jenny | [Read More](https://medium.com/p/85ece4418690) |
+| Thu, 18 Dec 2025 10:57:20 GMT | Go’s Secret Mode Changes How We Think About Memory | Minervee | [Read More](https://medium.com/p/586a84106c7b) |
+| Thu, 18 Dec 2025 10:55:29 GMT | ISO 27001: Why Cybersecurity Should Be a Top Priority for Every Business | ISO Management Consultant Ltd. | [Read More](https://medium.com/p/835689a32546) |
+| Thu, 18 Dec 2025 10:49:33 GMT | Security Fundamentals — Core concepts | Suraj Bhandari | [Read More](https://medium.com/p/e09eb431dab3) |
+| Thu, 18 Dec 2025 10:44:10 GMT | Inside a Cyber Insurance Policy: Structure, Coverages and Key Exclusions | Armin Mehraeen | [Read More](https://medium.com/p/a0d896033368) |
 | Thu, 18 Dec 2025 10:42:52 GMT | Vulnerability Management Tools That Actually Reduce Risk | Lanvaus | [Read More](https://medium.com/p/ed5238a0b660) |
 | Thu, 18 Dec 2025 10:41:29 GMT | Press PG Practice — Security Lessons | Balaji_21 | [Read More](https://medium.com/p/ae64281d0c15) |
 | Thu, 18 Dec 2025 10:38:08 GMT | How I Built a SOC Lab in My Bedroom | Abimanyu A | [Read More](https://medium.com/p/33c37c282ab2) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 06:12:50 GMT | 02 - Why Integrity, Authenticity, and Cyber Awareness Define the Modern Founder’s Path | Valerie Cobb | [Read More](https://medium.com/p/3297778327c2) |
 | Thu, 18 Dec 2025 06:10:24 GMT | The Invisible Decisions Shaping Your Digital Life | Muhammad Suleman | [Read More](https://medium.com/p/09321c1bd475) |
 | Thu, 18 Dec 2025 06:09:22 GMT | CWE Top 25 (2025): Understanding the Software Weaknesses Behind Modern Attacks | Sujal Shihani | [Read More](https://medium.com/p/55bb7456b6b9) |
-| Thu, 18 Dec 2025 06:07:57 GMT | Cybersecurity Skills for 2026 — A Practical Roadmap for Indian Beginners Aiming for Their First… | Sajidur Rahman | [Read More](https://medium.com/p/7fabbb47a7b0) |
-| Thu, 18 Dec 2025 06:00:43 GMT | Truth Engineering – Vol. 1 | Joseph Zaki | [Read More](https://medium.com/p/74660ca04b45) |
-| Thu, 18 Dec 2025 05:55:13 GMT | SECURET Quantum TV: The Future of Private Home Rehabilitation | SAYCOIN | [Read More](https://medium.com/p/000777460bd3) |
-| Thu, 18 Dec 2025 05:52:57 GMT | I Built a “Linguistic Firewall” for AI. Can You Breach It? | Josephis K. Wade | [Read More](https://medium.com/p/13e7db8715d9) |
-| Thu, 18 Dec 2025 05:52:47 GMT | Remote IT Support & IT Support Hartford - VoIP Services in Hartford — GainSide | Gainside | [Read More](https://medium.com/p/dfc431df6114) |
-| Thu, 18 Dec 2025 05:42:16 GMT | React Is NOT as Safe as You Think: A Deep Dive into a CVSS 10.0 Vulnerability | Sachin Ghadi | [Read More](https://medium.com/p/f747ec05d4db) |
-| Thu, 18 Dec 2025 05:42:10 GMT | That Last-Minute Panic Before Leaving Home | Ramesh Raj | [Read More](https://medium.com/p/375350dddc2a) |
-| Thu, 18 Dec 2025 05:30:37 GMT | The Anatomy of a Cyberattack: How Real Attacks Unfold | Michael H. | [Read More](https://medium.com/p/2f90de5035df) |
-| Thu, 18 Dec 2025 05:29:53 GMT | How to Identify Malicious URLs in Everyday Browsing | Thatipamulajashwanth | [Read More](https://medium.com/p/aa0df88c0d90) |
-| Thu, 18 Dec 2025 05:28:02 GMT | CrowdStrike Falcon AIDR (AI Detection & Response) | D09r | [Read More](https://medium.com/p/e22cdfdc6372) |
-| Thu, 18 Dec 2025 05:22:22 GMT | The Silent $4 Million Thief: Why We Need to Talk About Phishing NOW | Khabbab Sarker | [Read More](https://medium.com/p/03a45a7bbcc9) |
