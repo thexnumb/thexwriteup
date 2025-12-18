@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 07:09:02 GMT | The $44 Leap: Why the Arduino Uno Q Marks a New Chapter for Makers | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/fc548b4a47a1) |
+| Thu, 18 Dec 2025 06:56:41 GMT | Write-up CTF: Fishy HTTP (HackTheBox) | Ervi | [Read More](https://medium.com/p/532be1f9349d) |
+| Thu, 18 Dec 2025 06:51:12 GMT | Cybersecurity Framework Profile for Artificial Intelligence (Cyber AI Profile) | Viktor Davydych | [Read More](https://medium.com/p/29401c1d3fe2) |
+| Thu, 18 Dec 2025 06:44:34 GMT | Android Under the Hood: The Modern Security Architecture | Jahan Zeb | [Read More](https://medium.com/p/66177cec8191) |
+| Thu, 18 Dec 2025 06:43:14 GMT | The One Linux Security Habit That Saved Me From a Silent Breach | Faruk Ahmed | [Read More](https://medium.com/p/e4dfbc267b7c) |
+| Thu, 18 Dec 2025 06:41:03 GMT | Why Professional Security Training Services Matter When Choosing a Security Company in Mumbai | Ciss India | [Read More](https://medium.com/p/460cb0ebf046) |
+| Thu, 18 Dec 2025 06:38:23 GMT | CyberChef — Hoperation Save McSkidy - Advent of Cyber 2025 Day 17 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/22a5a7e280d1) |
+| Thu, 18 Dec 2025 06:37:08 GMT | The Daily Tech Digest: 18 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6d0b607bc9f5) |
+| Thu, 18 Dec 2025 06:33:11 GMT | Docker’s AI Assistant Can Now Automatically Secure Your Containers with Docker Hardened Images | Ashwini Puranik | [Read More](https://medium.com/p/6877320f59c9) |
 | Thu, 18 Dec 2025 06:24:39 GMT | Fix Meta Ads Checkpoint Login Loops | Bitway | [Read More](https://medium.com/p/52ed14a726e6) |
 | Thu, 18 Dec 2025 06:23:54 GMT | The 100x Engineer is a Myth. The 100x Process is Real. | Ofri Peretz | [Read More](https://medium.com/p/3e1ce9636bcf) |
 | Thu, 18 Dec 2025 06:21:07 GMT | Top Safety Measures by Event Security Services in Singapore | Jane Tang | [Read More](https://medium.com/p/1f764c07677f) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Dec 2025 21:01:18 GMT | Getting Started with Burp Suite for API Security Testing | Joyatee Datta | [Read More](https://medium.com/p/1221387c9ef1) |
 | Wed, 17 Dec 2025 20:51:05 GMT | The Myth of the “Brilliant Hacker” | Abba Abdullahi Wakili | [Read More](https://medium.com/p/706f39b22bc8) |
 | Wed, 17 Dec 2025 20:30:05 GMT | When Encryption Depends on Errors, Not Data A Critical Look at Noise-Based Security in Quantum-Safe… | Bervice | [Read More](https://medium.com/p/640ee3790b9a) |
-| Wed, 17 Dec 2025 20:29:55 GMT | The Security Automation That Actually Worked (And Why Most Don’t) | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/49e06555b501) |
-| Wed, 17 Dec 2025 20:28:15 GMT | When detection logic is scattered, SigmaQuery finds the right Sigma rule in seconds | Reinhard Westerholt | [Read More](https://medium.com/p/ed300a076b22) |
-| Wed, 17 Dec 2025 20:25:18 GMT | Security Debt: The Hidden Interest We Pay for “Working” Systems | Nagarjuna | [Read More](https://medium.com/p/93391fb85185) |
-| Wed, 17 Dec 2025 20:19:22 GMT | Understanding Broken Authentication: What It Is, How
-It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.com/p/1b046fa9541b) |
-| Wed, 17 Dec 2025 20:06:09 GMT | HTB WEB FUZZING | Darshil Ashvinbhai Thummar | [Read More](https://medium.com/p/6f378ceaa31c) |
-| Wed, 17 Dec 2025 20:03:43 GMT | Why Copying Uber’s Architecture Is a Career-Limiting Move | Logic Over Latte | [Read More](https://medium.com/p/dfa33beba178) |
-| Wed, 17 Dec 2025 20:03:31 GMT | Do You Really Need a VPN? | lind l. | [Read More](https://medium.com/p/2b4e67259218) |
-| Wed, 17 Dec 2025 19:54:15 GMT | Steering LLMs Like a Neuroscientist: Changing AI Behavior Without Fine-Tuning | evoailabs | [Read More](https://medium.com/p/6d8a6168892c) |
-| Wed, 17 Dec 2025 19:48:44 GMT | Can an $18-an-hour AI agent out-hack a six-figure cybersecurity pro? | Mrigank Gupta | [Read More](https://medium.com/p/1a95f9db0f04) |
