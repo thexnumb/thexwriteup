@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 23:32:51 GMT | React2Shell Shows Us Why JavaScript On The Server Was A Mistake | Andrew Zuo | [Read More](https://medium.com/p/fdb3cdcc0ec1) |
+| Thu, 18 Dec 2025 23:18:50 GMT | The DeRec Alliance: The Treaty to End the Crypto Casino | Jeffrey Smith | [Read More](https://medium.com/p/e9d4720cfb5f) |
 | Thu, 18 Dec 2025 23:12:52 GMT | The Unseen Layer Of Tech That Makes The Modern World Feel Supernatural | Abstract Mind | [Read More](https://medium.com/p/5e578e778115) |
 | Thu, 18 Dec 2025 23:08:13 GMT | Frankenstein APC Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1007c24a0317) |
 | Thu, 18 Dec 2025 23:07:40 GMT | Inside the OT Cyber War Room: Who Sits Where, What’s on the Screens, and Who Gets to Pull the Plug | Muhammad Ali Khan | [Read More](https://medium.com/p/7764f05bedd1) |
@@ -45,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 19:59:43 GMT | Applying Data Protection in Our Applications | Jen Cracchiola | [Read More](https://medium.com/p/6278df95d010) |
 | Thu, 18 Dec 2025 19:59:00 GMT | Microservices Authentication: Token Server Setup with Working Code | .Net Labs | [Read More](https://medium.com/p/c1ec4ce8d802) |
 | Thu, 18 Dec 2025 19:54:04 GMT | Anatomía de una Infección | FeCeSociety | [Read More](https://medium.com/p/a6a68910751c) |
+| Thu, 18 Dec 2025 19:51:25 GMT | Top 5 Open Source SOAR Solutions in 2025 | UTMStack | [Read More](https://medium.com/p/f7e931546dd0) |
 | Thu, 18 Dec 2025 19:42:43 GMT | IDOR — Santa’s Little IDOR Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e590bd85996b) |
 | Thu, 18 Dec 2025 19:41:42 GMT | Threat Detection and Response Trends that will Impact this Year | NetWitness | [Read More](https://medium.com/p/6a587e1fc799) |
 | Thu, 18 Dec 2025 19:41:13 GMT | Obfuscation- The Egg Shell File AOC 2025 Day 18 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/79fb4c8402ea) |
@@ -53,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 19:31:49 GMT | Advancements in Agent OS and NatLangChain Ecosystems | Kase | [Read More](https://medium.com/p/0a15fe4de908) |
 | Thu, 18 Dec 2025 19:30:58 GMT | Burp Suite Nedir? Web Uygulama Güvenliği Testlerinde Kullanımı | Egemen Ayyıldız | [Read More](https://medium.com/p/e6dd05af0685) |
 | Thu, 18 Dec 2025 19:22:11 GMT | First-Party Fraud and Chargeback Abuse in 2025: A Systemic Challenge for Financial Services | Dan Chang | [Read More](https://medium.com/p/6f87a1f6dd82) |
+| Thu, 18 Dec 2025 19:19:19 GMT | Garden Finance, Moonwell, DMi Token: $11.9M | Olympix | [Read More](https://medium.com/p/00bba7c4f3d4) |
 | Thu, 18 Dec 2025 19:19:18 GMT | Rethinking Banking Architecture in a High-Compute World | Aarya Thakar | [Read More](https://medium.com/p/7aa669e02ffa) |
 | Thu, 18 Dec 2025 19:05:22 GMT | CyberChef - Hoperation Save McSkidy · Advent of Cyber 2025 - Day 17 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/4d54c45e705d) |
 | Thu, 18 Dec 2025 19:03:57 GMT | On zero-knowledge and trust in password managers | Passary | [Read More](https://medium.com/p/56fdd921bda3) |
@@ -61,6 +65,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 18:47:35 GMT | A PRACTICAL GUIDE TO PROMOTING THE REAL ADOPTION OF CRYPTOCURRENCIES IN THE EVERYDAY ECONOMY | EurocoinPay.io | [Read More](https://medium.com/p/cec715e4c71c) |
 | Thu, 18 Dec 2025 18:47:21 GMT | Obfuscated Code: What It Really Is, Why It Exists, and Whether You Can Crack It Open | Toni Maxx | [Read More](https://medium.com/p/559265c71c7f) |
 | Thu, 18 Dec 2025 18:46:13 GMT | “Why Your Password Is Trash (And Other Ways Hackers Win)” | Vasujaggi | [Read More](https://medium.com/p/b67e2b6a0bee) |
+| Thu, 18 Dec 2025 18:40:43 GMT | The Role of Firewalls in Modern Business Cybersecurity | Cordula Boeck | [Read More](https://medium.com/p/750d78de80ea) |
 | Thu, 18 Dec 2025 18:30:46 GMT | Advent of Cyber 2025 Day 18 - TryHackMe - Obfuscation - The Egg Shell File - WriteUp | Axoloth | [Read More](https://medium.com/p/50ff9aaf8c46) |
 | Thu, 18 Dec 2025 18:30:23 GMT | Advent of Cyber 2025 - Day 18: Obfuscation — The Egg Shell File | D4m.sh | [Read More](https://medium.com/p/68a1db96908b) |
 | Thu, 18 Dec 2025 18:21:58 GMT | The “Unzip” That Backdoors Your PC: Why Your Old WinRAR Is Now a National Security Risk | Adham Khaled | [Read More](https://medium.com/p/32e4e950643f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 15:37:51 GMT | Cybersecurity for Utilities: Safeguarding the Backbone of Modern Society | Perimeterwatch | [Read More](https://medium.com/p/c46f149a3884) |
 | Thu, 18 Dec 2025 15:32:48 GMT | Architecting for Compliance and Scale: Cloud Engineering for Digital Banking | Yokota Strong | [Read More](https://medium.com/p/49197e058c37) |
 | Thu, 18 Dec 2025 15:26:26 GMT | How I Found the Skill to Manage Relationship Vulnerability | Cater Aleey | [Read More](https://medium.com/p/f2d1612c0b64) |
-| Thu, 18 Dec 2025 15:17:35 GMT | Open Web Application Security Project | Akshay Damle | [Read More](https://medium.com/p/15870f2f6517) |
-| Thu, 18 Dec 2025 15:16:23 GMT | Vulnerability Highlight: Beavers, Insufficient Logging and Monitoring | Jen Cracchiola | [Read More](https://medium.com/p/5b524c805187) |
-| Thu, 18 Dec 2025 15:14:55 GMT | Getting Started Cyber Security With Zynex Soutions. | Bilal Nasir | [Read More](https://medium.com/p/fcef2d8d23ff) |
-| Thu, 18 Dec 2025 15:09:24 GMT | TryHackMe W1seGuy — Crypto Challenge Walkthrough | Abhilash H | [Read More](https://medium.com/p/70cc14d5bb8e) |
-| Thu, 18 Dec 2025 15:07:09 GMT | Hybrid Cloud Security in 2026: Best Practices to Protect Enterprise Data | Techridge Solutions | [Read More](https://medium.com/p/40d12d051990) |
