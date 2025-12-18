@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 19:05:22 GMT | CyberChef - Hoperation Save McSkidy · Advent of Cyber 2025 - Day 17 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/4d54c45e705d) |
+| Thu, 18 Dec 2025 19:03:57 GMT | On zero-knowledge and trust in password managers | Passary | [Read More](https://medium.com/p/56fdd921bda3) |
+| Thu, 18 Dec 2025 19:01:11 GMT | React2Shell: The Critical Vulnerability That Shook the JavaScript World | Aditya Kumar Tiwari | [Read More](https://medium.com/p/843647dc5247) |
+| Thu, 18 Dec 2025 18:50:52 GMT | Cyber Guidance for Small Businesses | @boblord | [Read More](https://medium.com/p/35e316b1bfbc) |
+| Thu, 18 Dec 2025 18:47:35 GMT | A PRACTICAL GUIDE TO PROMOTING THE REAL ADOPTION OF CRYPTOCURRENCIES IN THE EVERYDAY ECONOMY | EurocoinPay.io | [Read More](https://medium.com/p/cec715e4c71c) |
+| Thu, 18 Dec 2025 18:47:21 GMT | Obfuscated Code: What It Really Is, Why It Exists, and Whether You Can Crack It Open | Toni Maxx | [Read More](https://medium.com/p/559265c71c7f) |
+| Thu, 18 Dec 2025 18:46:13 GMT | “Why Your Password Is Trash (And Other Ways Hackers Win)” | Vasujaggi | [Read More](https://medium.com/p/b67e2b6a0bee) |
 | Thu, 18 Dec 2025 18:30:46 GMT | Advent of Cyber 2025 Day 18 - TryHackMe - Obfuscation - The Egg Shell File - WriteUp | Axoloth | [Read More](https://medium.com/p/50ff9aaf8c46) |
 | Thu, 18 Dec 2025 18:30:23 GMT | Advent of Cyber 2025 - Day 18: Obfuscation — The Egg Shell File | D4m.sh | [Read More](https://medium.com/p/68a1db96908b) |
 | Thu, 18 Dec 2025 18:21:58 GMT | The “Unzip” That Backdoors Your PC: Why Your Old WinRAR Is Now a National Security Risk | Adham Khaled | [Read More](https://medium.com/p/32e4e950643f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 13:04:15 GMT | Why Converting Netscape Cookies to JSON Still Matters Today | Anna Kolodkina | [Read More](https://medium.com/p/c76125771a37) |
 | Thu, 18 Dec 2025 12:58:41 GMT | Security Awareness Training Is Theater: Why Phishing Still Works Every Time | Travis Ray Caverhill | [Read More](https://medium.com/p/4216a1830256) |
 | Thu, 18 Dec 2025 12:54:48 GMT | How Ignoring IT Slowly Compounds Into a Leadership Crisis? | Himanshu Chaudhary | [Read More](https://medium.com/p/60a496c39703) |
-| Thu, 18 Dec 2025 12:53:56 GMT | The Hidden Cost of Mobile App Security Gaps: Reasons Behind Top 5 Breaches Unveiled | Rucha Wele | [Read More](https://medium.com/p/b51e67b259a1) |
-| Thu, 18 Dec 2025 12:53:51 GMT | Network Discovery Detection — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/7635d0c4026f) |
-| Thu, 18 Dec 2025 12:53:31 GMT | What is Augmented NDR ? | Stellar Cyber | [Read More](https://medium.com/p/22489c9ce8f3) |
-| Thu, 18 Dec 2025 12:46:45 GMT | Understanding Web Authentication: A Practical Guide to Basic Auth, Sessions, Cookies, Tokens… | Brent Fischer | [Read More](https://medium.com/p/c72301d022f0) |
-| Thu, 18 Dec 2025 12:43:27 GMT | OSINT Under the Hood: Build Your Portfolio — A Person of Interest Profile | Rabail Zaheer | [Read More](https://medium.com/p/79fb9da06c07) |
-| Thu, 18 Dec 2025 12:42:20 GMT | Why Most Bug Bounty Findings Come From Thinking, Not Tools | Gl1tch | [Read More](https://medium.com/p/b955aa542090) |
-| Thu, 18 Dec 2025 12:41:06 GMT | Cisco Elevates AI Security From Safeguard to Enterprise Control Layer | Nathaniel Niyazov | [Read More](https://medium.com/p/721ef8e88ef7) |
