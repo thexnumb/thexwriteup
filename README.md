@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 20:26:38 GMT | Modernizing Kubernetes Access with Teleport and SSO | Ayham Hassan | [Read More](https://medium.com/p/f2c73550a963) |
+| Thu, 18 Dec 2025 20:21:18 GMT | Is Linux Really Impossible on iOS? Not Exactly. | MouhibMahadbi | [Read More](https://medium.com/p/6e5d13b9a3b2) |
+| Thu, 18 Dec 2025 20:16:49 GMT | How I’m Preparing for the Security+ Exam (and What I’ve Learned So Far) | Secured By Sebastion | [Read More](https://medium.com/p/810910ebff85) |
 | Thu, 18 Dec 2025 20:10:01 GMT | Google Dorking Nedir? | Kerem Göçen | [Read More](https://medium.com/p/8b0165083f5c) |
 | Thu, 18 Dec 2025 20:09:48 GMT | Deepfakes, Disinformation, and the Coming Identity Crisis | James Kreis | [Read More](https://medium.com/p/b5912ba6f1ae) |
 | Thu, 18 Dec 2025 20:08:26 GMT | Why Domain-Specific AI Is the Future of Proactive Cybersecurity | anthony k | [Read More](https://medium.com/p/80e9dc9abeb8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 14:02:40 GMT | Can I Open My Garage Door with My Phone: Smart Options | Up & Down Garage Door Services | [Read More](https://medium.com/p/5706fa3470f3) |
 | Thu, 18 Dec 2025 13:58:35 GMT | The Invisible Threat: How Malicious Extensions Turn Your Browser Into a Spy | Rawi | [Read More](https://medium.com/p/cf9d917c703e) |
 | Thu, 18 Dec 2025 13:58:27 GMT | React2Shell (CVE-2025–55182) | Rajesh Mondal | [Read More](https://medium.com/p/b14d9bb15841) |
-| Thu, 18 Dec 2025 13:56:30 GMT | SOC 2, Decoded: A Conversation Between a Founder and a Consultant | Dimple Badhan | [Read More](https://medium.com/p/8bd7105f7a5a) |
-| Thu, 18 Dec 2025 13:54:09 GMT | Cache vs Cookies: What’s the Difference & Why It Matters | Taha Mehmood | [Read More](https://medium.com/p/e19f4d5f80ad) |
-| Thu, 18 Dec 2025 13:46:49 GMT | Frameworks for Cyber Security Fundamentals | Terminals & Coffee | [Read More](https://medium.com/p/5721a2a44aad) |
