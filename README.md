@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 13:33:09 GMT | Is It a Security control, a Requirement, a Safeguard? | Amit Paz | [Read More](https://medium.com/p/5fcd2b3abc09) |
+| Thu, 18 Dec 2025 13:25:40 GMT | How Modern Cloud Architecture Improves App Speed and Security | Macromodule Technologies | [Read More](https://medium.com/p/3248f64993cc) |
+| Thu, 18 Dec 2025 13:22:04 GMT | How Converting Cookie Files to JSON Makes Web Work Easier | Anna Kolodkina | [Read More](https://medium.com/p/b6e48d163173) |
+| Thu, 18 Dec 2025 13:20:15 GMT | Shift Security Left: A Complete Guide to Scanning Java, React, and Containers with Trivy | Pakeetharan Balasubramaniam | [Read More](https://medium.com/p/eb98fd6fedd6) |
+| Thu, 18 Dec 2025 13:16:29 GMT | Getting Wi-Fi Passwords With Python | Pralin Khaira | [Read More](https://medium.com/p/5ac3903a78dd) |
+| Thu, 18 Dec 2025 13:12:41 GMT | Mutual TLS (mTLS): The Unsung Hero of Microservices Security | Lets Learn Now | [Read More](https://medium.com/p/70aa91eeabeb) |
+| Thu, 18 Dec 2025 13:10:41 GMT | We Cloned A Voice in 30 Seconds | AI Whisperer Hub | [Read More](https://medium.com/p/5dbb5d2c94b9) |
+| Thu, 18 Dec 2025 13:06:01 GMT | From a Simple Certificate to a Critical Cloud Flaw: A Bug Bounty Journey | Codi | [Read More](https://medium.com/p/1e613efc42fc) |
+| Thu, 18 Dec 2025 13:04:19 GMT | Year in Review by ANY.RUN: Key Threats, Solutions, and Breakthroughs of 2025 | ANY.RUN | [Read More](https://medium.com/p/46ae40b9d0cc) |
+| Thu, 18 Dec 2025 13:04:15 GMT | Why Converting Netscape Cookies to JSON Still Matters Today | Anna Kolodkina | [Read More](https://medium.com/p/c76125771a37) |
+| Thu, 18 Dec 2025 12:58:41 GMT | Security Awareness Training Is Theater: Why Phishing Still Works Every Time | Travis Ray Caverhill | [Read More](https://medium.com/p/4216a1830256) |
+| Thu, 18 Dec 2025 12:54:48 GMT | How Ignoring IT Slowly Compounds Into a Leadership Crisis? | Himanshu Chaudhary | [Read More](https://medium.com/p/60a496c39703) |
+| Thu, 18 Dec 2025 12:53:56 GMT | The Hidden Cost of Mobile App Security Gaps: Reasons Behind Top 5 Breaches Unveiled | Rucha Wele | [Read More](https://medium.com/p/b51e67b259a1) |
+| Thu, 18 Dec 2025 12:53:51 GMT | Network Discovery Detection — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/7635d0c4026f) |
+| Thu, 18 Dec 2025 12:53:31 GMT | What is Augmented NDR ? | Stellar Cyber | [Read More](https://medium.com/p/22489c9ce8f3) |
+| Thu, 18 Dec 2025 12:46:45 GMT | Understanding Web Authentication: A Practical Guide to Basic Auth, Sessions, Cookies, Tokens… | Brent Fischer | [Read More](https://medium.com/p/c72301d022f0) |
 | Thu, 18 Dec 2025 12:43:27 GMT | OSINT Under the Hood: Build Your Portfolio — A Person of Interest Profile | Rabail Zaheer | [Read More](https://medium.com/p/79fb9da06c07) |
 | Thu, 18 Dec 2025 12:42:20 GMT | Why Most Bug Bounty Findings Come From Thinking, Not Tools | Gl1tch | [Read More](https://medium.com/p/b955aa542090) |
 | Thu, 18 Dec 2025 12:41:06 GMT | Cisco Elevates AI Security From Safeguard to Enterprise Control Layer | Nathaniel Niyazov | [Read More](https://medium.com/p/721ef8e88ef7) |
@@ -78,6 +94,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 09:21:42 GMT | Password Reset Poisoning: Receiving the Same Reset Link in My Inbox | Twilight | [Read More](https://medium.com/p/1cb2b3ab0b80) |
 | Thu, 18 Dec 2025 09:20:34 GMT | Anomalous Behavior Detection in HTTP Traffic: Catching What WAFs Miss | Esra Kayhan | [Read More](https://medium.com/p/e53ed7d1aa57) |
 | Thu, 18 Dec 2025 09:20:06 GMT | Network Protocol Anomaly Detection | Esra Kayhan | [Read More](https://medium.com/p/9a35fd9a107c) |
+| Thu, 18 Dec 2025 09:10:26 GMT | CVE-2025–55182: A Deep Dive into React’s Critical Server Components Vulnerability | Shehzad Ahmed | [Read More](https://medium.com/p/8c5c14c08af7) |
 | Thu, 18 Dec 2025 09:04:47 GMT | How I Broke My Linux Server Using Nmap | Fateyaly | [Read More](https://medium.com/p/3f2808a18ae6) |
 | Thu, 18 Dec 2025 08:57:56 GMT | CRLF — Carriage Return Line Feed | Nutthanonn | [Read More](https://medium.com/p/9ac646018934) |
 | Thu, 18 Dec 2025 08:56:12 GMT | Meet pwman: The Tiny CLI Password Manager That Fits in Your Terminal | Aliopdandan | [Read More](https://medium.com/p/904f295e269f) |
@@ -85,6 +102,8 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 08:52:03 GMT | Event Security Solutions: Protecting Your Special Occasions | Travel time | [Read More](https://medium.com/p/454e49d610e0) |
 | Thu, 18 Dec 2025 08:49:10 GMT | Your Digital Shield Starts with SiyanoAV Free Antivirus Today | Siyanoav | [Read More](https://medium.com/p/088cbbc29649) |
 | Thu, 18 Dec 2025 08:47:02 GMT | Don’t Jump Into the Middle of Cybersecurity — Learn It in Phases | Kenneth Solomon | [Read More](https://medium.com/p/9fdcedef8652) |
+| Thu, 18 Dec 2025 08:46:43 GMT | The Strategic Tool Selection Playbook: From Evaluation to Executive Approval | cyber_pix | [Read More](https://medium.com/p/7c27758164c6) |
+| Thu, 18 Dec 2025 08:45:16 GMT | Incident Response: Why It Matters in Cybersecurity | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/a9ab5eb6a8bf) |
 | Thu, 18 Dec 2025 08:32:34 GMT | Plain-Text Leaks vs Dark-Web Screenshots: What’s Actionable and What Isn’t | Alexandre Vandamme | [Read More](https://medium.com/p/dcd295a4f4a5) |
 | Thu, 18 Dec 2025 08:26:14 GMT | Publishing an Internet-Draft at the IETF | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/45a27c59e394) |
 | Thu, 18 Dec 2025 08:24:53 GMT | How I Got into the Cyblack SOC Academy (And How You Can Too). | Joanorifha | [Read More](https://medium.com/p/a43126801f3c) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 08:15:14 GMT | $13 Million VC Dream Turned $2.2 Million Fraud: The Shiloh Luckey & ComplYant Story | O. J. Okpabi | [Read More](https://medium.com/p/ca6efba1f9a1) |
 | Thu, 18 Dec 2025 08:15:13 GMT | The Best Information Security Books of 2025 Yıl sona ererken, işte 2025'in En İyi Bilgi Güvenliği… | Talha Özcan | [Read More](https://medium.com/p/c83230157f1a) |
 | Thu, 18 Dec 2025 08:09:25 GMT | AWS Envelop Encryption | N P Prahal | [Read More](https://medium.com/p/c151ab4111a4) |
-| Thu, 18 Dec 2025 08:09:25 GMT | Cybersecurity Career Paths and Job Market Outlook 2026 | EINITIAL24 | [Read More](https://medium.com/p/aeb29b1919a1) |
-| Thu, 18 Dec 2025 08:06:13 GMT | New Book Release: Protecting Blazor Web Apps and WebAssembly from Real-World Attacks | Chandradev Prasad | [Read More](https://medium.com/p/bbd15071cbf4) |
-| Thu, 18 Dec 2025 08:05:53 GMT | Observing Access Control in Consumer Platforms: When Sessions Persist but Sensitive Actions Trigger… | NishitaThakkar | [Read More](https://medium.com/p/ed2c287434c3) |
-| Thu, 18 Dec 2025 08:04:51 GMT | Understanding Post-Quantum Cryptography: A Practical Roadmap | Yunus Emre SERT | [Read More](https://medium.com/p/582214565648) |
-| Thu, 18 Dec 2025 08:04:08 GMT | Largest security breach of 2025? 200 million user records breached. | Rishi | [Read More](https://medium.com/p/63e7fcda8162) |
-| Thu, 18 Dec 2025 08:02:45 GMT | React2Shell Exploitation Escalates into Large-Scale Global Attacks | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/a82fea911ac9) |
-| Thu, 18 Dec 2025 08:02:23 GMT | Where I Most Fully Was, I Was In Transit | Łukasz Ratajczak | [Read More](https://medium.com/p/d9153ad0147e) |
-| Thu, 18 Dec 2025 07:59:27 GMT | The Things We Told Too Soon | Joan Bluejack | [Read More](https://medium.com/p/b4c40dcfb84d) |
-| Thu, 18 Dec 2025 07:55:18 GMT | I Lost $15,000 Because I Didn’t Listen to the Knot in My Stomach | SocialScreen | [Read More](https://medium.com/p/14f721a8717c) |
-| Thu, 18 Dec 2025 07:51:59 GMT | 10 Aplikasi iPhone Unik Yang Anda Wajib Miliki (Edisi 2025) | 77go - Best Online Casino Malaysia | [Read More](https://medium.com/p/5812db3c4793) |
-| Thu, 18 Dec 2025 07:50:43 GMT | XINTRA — Meow Islands Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/a1fc31c96983) |
-| Thu, 18 Dec 2025 07:49:19 GMT | Top 10 Tips for Using Solidworks Simulation Solutions Effectively | Tech Savvy | [Read More](https://medium.com/p/5a2d86f77d78) |
-| Thu, 18 Dec 2025 07:48:48 GMT | Tải Pure Tuber Apk (Premium, Mở Khóa Vip, Không Quảng Cáo) V5.4.0.101 | genzvnmod | [Read More](https://medium.com/p/a2146feff431) |
-| Thu, 18 Dec 2025 07:43:05 GMT | Professional Bodyguard Service Malaysia - Trusted Personal Protection | Joyah Raza J | [Read More](https://medium.com/p/48ecd607611c) |
-| Thu, 18 Dec 2025 07:38:50 GMT | Tải Stumble Guys Mod Hack.boats ( Mod Menu,Vô Hạn Tiền, Full Skin, Max Level) v0.92.6 | Game4u | [Read More](https://medium.com/p/2333c0113898) |
-| Thu, 18 Dec 2025 07:37:08 GMT | Cwe Top 25–2025 Edition | Yaniv | [Read More](https://medium.com/p/75872242a69d) |
-| Thu, 18 Dec 2025 07:32:42 GMT | Free Wi-Fi: Convenience or Hidden Risk? | Himanshu Bhatt | [Read More](https://medium.com/p/1cb1aa0a9f48) |
-| Thu, 18 Dec 2025 07:32:34 GMT | Salt Typhoon: China’s 2025 Telecom Siege That Listened to America’s Every Whisper | Kalariya Het | [Read More](https://medium.com/p/2c84d86e4919) |
-| Thu, 18 Dec 2025 07:25:34 GMT | Tải Bus Simulator Vietnam APK (MOD Bản Full) v9.3.6 | Bandisharecx | [Read More](https://medium.com/p/8ede48254786) |
