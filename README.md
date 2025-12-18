@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 14:41:51 GMT | Starting My Ethical Hacking Journey on TryHackMe | Kashif shah | [Read More](https://medium.com/p/94ba52c7f927) |
+| Thu, 18 Dec 2025 14:40:07 GMT | What DNS Really Does — and Why It’s a Weak Link in Internet Security | Codeandcontext | [Read More](https://medium.com/p/01cac58439a8) |
+| Thu, 18 Dec 2025 14:37:59 GMT | How Courage and Vulnerability Team Up to Transcend Fear | Eugene C Scott | [Read More](https://medium.com/p/ca374e365428) |
+| Thu, 18 Dec 2025 14:32:21 GMT | (Comptia A+) Mastering Essential IT Documentation: A Comprehensive Guide for Technicians | Vignesh R | [Read More](https://medium.com/p/9e08b5891e33) |
+| Thu, 18 Dec 2025 14:31:13 GMT | How Venezuela Built a Digital System for Regime Survival | Money, Guns & Oil | [Read More](https://medium.com/p/9d1c34eb6d68) |
+| Thu, 18 Dec 2025 14:29:23 GMT | Why Do Networks Even Work Correctly? | azrecon_ | [Read More](https://medium.com/p/870472376f64) |
+| Thu, 18 Dec 2025 14:28:23 GMT | Agentic AI in Banking: Powerful Innovation or Silent Cyber Risk? | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/97298e267b14) |
+| Thu, 18 Dec 2025 14:22:00 GMT | An AI Hacked a Top AI Company: 4 Shocking Takeaways from a New Breed of Cyberattack | Ujwal Hiranwar | [Read More](https://medium.com/p/91bda061f44a) |
 | Thu, 18 Dec 2025 14:19:46 GMT | Write-Up — Publicly Exposed MySQL on an “Inactive” Subdomain (KAIAWEB-216) | Mohamed Abdul Hamid | [Read More](https://medium.com/p/61aa704429d1) |
+| Thu, 18 Dec 2025 14:19:01 GMT | Multi-Cloud Madness — The Complexity That Kills Performance and Security | JSOC IT BLOG | [Read More](https://medium.com/p/fde183c2b4d4) |
+| Thu, 18 Dec 2025 14:14:17 GMT | Linux’un Siber Güvenlik Altyapılarındaki Kritik Rolü | Furkan Ünlü | [Read More](https://medium.com/p/8c333251a0e0) |
 | Thu, 18 Dec 2025 14:13:08 GMT | Simple Reflected XSS Attack on DVWA | Mylescorey | [Read More](https://medium.com/p/f4071ada4c2a) |
 | Thu, 18 Dec 2025 14:04:31 GMT | Africa’s Cybersecurity Crossroads: What 2025 Threat Reports Reveal About the Continent’s Digital… | sadique kwatsima | [Read More](https://medium.com/p/5603269cf263) |
 | Thu, 18 Dec 2025 14:03:28 GMT | 5 Generative AI Security Threats SOC Teams Can’t Ignore | Junaid Mumtaz | [Read More](https://medium.com/p/536e48d2ce7f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 09:28:40 GMT | From M&A to Crisis Recovery — Why Leaders Bring Us In: Why Clients Trust Us With Complex Challenges | Fook Hwa Tan | [Read More](https://medium.com/p/5f0ec5acecae) |
 | Thu, 18 Dec 2025 09:27:58 GMT | แจ้งเตือนช่องโหว่วิกฤต Ivanti Endpoint Manager (EPM) — CVE-2025–10573 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f30b95e8b573) |
 | Thu, 18 Dec 2025 09:27:54 GMT | Data-Driven Trust: What We’ve Protected in the Last Year Our Cybersecurity Impact in Numbers | Fook Hwa Tan | [Read More](https://medium.com/p/06abc0e7c620) |
-| Thu, 18 Dec 2025 09:25:42 GMT | ประจำวันพฤหัสบดีที่ 18 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/aefa17d2dc53) |
-| Thu, 18 Dec 2025 09:24:03 GMT | The Hidden Cost of “Yield”: Why Most BTCFi Products Fail Institutional Risk Tests | Emmanuel Chibuzor | [Read More](https://medium.com/p/8cde970ba26c) |
-| Thu, 18 Dec 2025 09:21:42 GMT | Password Reset Poisoning: Receiving the Same Reset Link in My Inbox | Twilight | [Read More](https://medium.com/p/1cb2b3ab0b80) |
-| Thu, 18 Dec 2025 09:20:34 GMT | Anomalous Behavior Detection in HTTP Traffic: Catching What WAFs Miss | Esra Kayhan | [Read More](https://medium.com/p/e53ed7d1aa57) |
-| Thu, 18 Dec 2025 09:20:06 GMT | Network Protocol Anomaly Detection | Esra Kayhan | [Read More](https://medium.com/p/9a35fd9a107c) |
-| Thu, 18 Dec 2025 09:10:26 GMT | CVE-2025–55182: A Deep Dive into React’s Critical Server Components Vulnerability | Shehzad Ahmed | [Read More](https://medium.com/p/8c5c14c08af7) |
-| Thu, 18 Dec 2025 09:04:47 GMT | How I Broke My Linux Server Using Nmap | Fateyaly | [Read More](https://medium.com/p/3f2808a18ae6) |
-| Thu, 18 Dec 2025 08:57:56 GMT | CRLF — Carriage Return Line Feed | Nutthanonn | [Read More](https://medium.com/p/9ac646018934) |
-| Thu, 18 Dec 2025 08:56:12 GMT | Meet pwman: The Tiny CLI Password Manager That Fits in Your Terminal | Aliopdandan | [Read More](https://medium.com/p/904f295e269f) |
-| Thu, 18 Dec 2025 08:54:14 GMT | The 7 Best SAST Solutions for 2026: Balancing Speed, Accuracy, and Security Controls | SecureSlate | [Read More](https://medium.com/p/6fb7b58c5c48) |
