@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 19:34:17 GMT | How I Installed Wordlistctl on Kali Linux: Step-by-Step Guide | Md. Ekhtiar Hossain | [Read More](https://medium.com/p/03a65275ae51) |
+| Thu, 18 Dec 2025 19:31:49 GMT | Advancements in Agent OS and NatLangChain Ecosystems | Kase | [Read More](https://medium.com/p/0a15fe4de908) |
+| Thu, 18 Dec 2025 19:30:58 GMT | Burp Suite Nedir? Web Uygulama Güvenliği Testlerinde Kullanımı | Egemen Ayyıldız | [Read More](https://medium.com/p/e6dd05af0685) |
+| Thu, 18 Dec 2025 19:22:11 GMT | First-Party Fraud and Chargeback Abuse in 2025: A Systemic Challenge for Financial Services | Dan Chang | [Read More](https://medium.com/p/6f87a1f6dd82) |
+| Thu, 18 Dec 2025 19:19:18 GMT | Rethinking Banking Architecture in a High-Compute World | Aarya Thakar | [Read More](https://medium.com/p/7aa669e02ffa) |
 | Thu, 18 Dec 2025 19:05:22 GMT | CyberChef - Hoperation Save McSkidy · Advent of Cyber 2025 - Day 17 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/4d54c45e705d) |
 | Thu, 18 Dec 2025 19:03:57 GMT | On zero-knowledge and trust in password managers | Passary | [Read More](https://medium.com/p/56fdd921bda3) |
 | Thu, 18 Dec 2025 19:01:11 GMT | React2Shell: The Critical Vulnerability That Shook the JavaScript World | Aditya Kumar Tiwari | [Read More](https://medium.com/p/843647dc5247) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 13:16:29 GMT | Getting Wi-Fi Passwords With Python | Pralin Khaira | [Read More](https://medium.com/p/5ac3903a78dd) |
 | Thu, 18 Dec 2025 13:12:41 GMT | Mutual TLS (mTLS): The Unsung Hero of Microservices Security | Lets Learn Now | [Read More](https://medium.com/p/70aa91eeabeb) |
 | Thu, 18 Dec 2025 13:10:41 GMT | We Cloned A Voice in 30 Seconds | AI Whisperer Hub | [Read More](https://medium.com/p/5dbb5d2c94b9) |
-| Thu, 18 Dec 2025 13:06:01 GMT | From a Simple Certificate to a Critical Cloud Flaw: A Bug Bounty Journey | Codi | [Read More](https://medium.com/p/1e613efc42fc) |
-| Thu, 18 Dec 2025 13:04:19 GMT | Year in Review by ANY.RUN: Key Threats, Solutions, and Breakthroughs of 2025 | ANY.RUN | [Read More](https://medium.com/p/46ae40b9d0cc) |
-| Thu, 18 Dec 2025 13:04:15 GMT | Why Converting Netscape Cookies to JSON Still Matters Today | Anna Kolodkina | [Read More](https://medium.com/p/c76125771a37) |
-| Thu, 18 Dec 2025 12:58:41 GMT | Security Awareness Training Is Theater: Why Phishing Still Works Every Time | Travis Ray Caverhill | [Read More](https://medium.com/p/4216a1830256) |
-| Thu, 18 Dec 2025 12:54:48 GMT | How Ignoring IT Slowly Compounds Into a Leadership Crisis? | Himanshu Chaudhary | [Read More](https://medium.com/p/60a496c39703) |
