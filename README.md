@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 21:02:44 GMT | Stream Azure Activity Logs to Splunk Cloud (SIEM) Using Azure Event Hubs | Hilton Gusmão | [Read More](https://medium.com/p/e4b0c8f9c852) |
+| Thu, 18 Dec 2025 20:51:10 GMT | Obfuscation - The Egg Shell File · Advent of Cyber 2025 - Day 18 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/ac037fc4c371) |
+| Thu, 18 Dec 2025 20:49:42 GMT | The Cryptography Concept Journey — Digital Certificates | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/278d2bc299d2) |
+| Thu, 18 Dec 2025 20:36:04 GMT | Finding the Secret Ingredient: A “Pickle Rick” CTF Walkthrough | IshhIshneet | [Read More](https://medium.com/p/b76f1af9e705) |
+| Thu, 18 Dec 2025 20:35:47 GMT | Mr. Robot CTF: A Comprehensive Walkthrough | IshhIshneet | [Read More](https://medium.com/p/709c4e2987c7) |
 | Thu, 18 Dec 2025 20:26:38 GMT | Modernizing Kubernetes Access with Teleport and SSO | Ayham Hassan | [Read More](https://medium.com/p/f2c73550a963) |
 | Thu, 18 Dec 2025 20:21:18 GMT | Is Linux Really Impossible on iOS? Not Exactly. | MouhibMahadbi | [Read More](https://medium.com/p/6e5d13b9a3b2) |
 | Thu, 18 Dec 2025 20:16:49 GMT | How I’m Preparing for the Security+ Exam (and What I’ve Learned So Far) | Secured By Sebastion | [Read More](https://medium.com/p/810910ebff85) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 14:14:17 GMT | Linux’un Siber Güvenlik Altyapılarındaki Kritik Rolü | Furkan Ünlü | [Read More](https://medium.com/p/8c333251a0e0) |
 | Thu, 18 Dec 2025 14:13:08 GMT | Simple Reflected XSS Attack on DVWA | Mylescorey | [Read More](https://medium.com/p/f4071ada4c2a) |
 | Thu, 18 Dec 2025 14:04:31 GMT | Africa’s Cybersecurity Crossroads: What 2025 Threat Reports Reveal About the Continent’s Digital… | sadique kwatsima | [Read More](https://medium.com/p/5603269cf263) |
-| Thu, 18 Dec 2025 14:03:28 GMT | 5 Generative AI Security Threats SOC Teams Can’t Ignore | Junaid Mumtaz | [Read More](https://medium.com/p/536e48d2ce7f) |
-| Thu, 18 Dec 2025 14:02:42 GMT | Emulation vs. Simulation: Why Understanding the Difference Matters in Modern Cybersecurity | Secured By Sebastion | [Read More](https://medium.com/p/0e7b4f90ccf8) |
-| Thu, 18 Dec 2025 14:02:40 GMT | Can I Open My Garage Door with My Phone: Smart Options | Up & Down Garage Door Services | [Read More](https://medium.com/p/5706fa3470f3) |
-| Thu, 18 Dec 2025 13:58:35 GMT | The Invisible Threat: How Malicious Extensions Turn Your Browser Into a Spy | Rawi | [Read More](https://medium.com/p/cf9d917c703e) |
-| Thu, 18 Dec 2025 13:58:27 GMT | React2Shell (CVE-2025–55182) | Rajesh Mondal | [Read More](https://medium.com/p/b14d9bb15841) |
