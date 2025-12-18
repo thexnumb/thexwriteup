@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 17:13:11 GMT | Look Inside The House Write-up (Ringzeroteam) | colo | [Read More](https://medium.com/p/6f799a91d3f1) |
+| Thu, 18 Dec 2025 17:08:03 GMT | Setting Up My First Cybersecurity Home Lab | Vengadasalam | [Read More](https://medium.com/p/b129f3a47360) |
+| Thu, 18 Dec 2025 17:05:02 GMT | How to Check If Your WhatsApp Is Hacked (Phone & PC) | Usama Ahmad | [Read More](https://medium.com/p/80b1e615f850) |
+| Thu, 18 Dec 2025 16:57:48 GMT | Sentinel Security Solutions: A Central Coast Security Infrastructure Staple | Torchlight Marketing | [Read More](https://medium.com/p/a16fdd92cbd9) |
+| Thu, 18 Dec 2025 16:57:16 GMT | Why Most Bug Bounty Findings Come From Thinking, Not Tools | Gl1tch | [Read More](https://medium.com/p/2899347e6890) |
+| Thu, 18 Dec 2025 16:56:35 GMT | Penetration Testing News: Key Updates and Trends for 2025 | Hoplon InfoSec | [Read More](https://medium.com/p/cd7733e4bb77) |
+| Thu, 18 Dec 2025 16:52:16 GMT | I Tried to Break My Own AI (and Learned a Lot) | Elisheba Builds | [Read More](https://medium.com/p/092ed484230c) |
+| Thu, 18 Dec 2025 16:41:30 GMT | Fake Shopping Domains Surge as Threat Actors Exploit the 2025 Holiday Season | Chetan Seripally | [Read More](https://medium.com/p/d0605aa17371) |
+| Thu, 18 Dec 2025 16:25:07 GMT | Zero Trust Security — Why “Trust No One” Is the Future of the Internet | Code x Design by Pranav | [Read More](https://medium.com/p/04c1c8f3c4c0) |
 | Thu, 18 Dec 2025 16:12:58 GMT | Payload Shape Injection: Deep Dive & LLM-Augmented Exploration E2 | Mohammad Abir Abbas | [Read More](https://medium.com/p/c39ba251bc7b) |
 | Thu, 18 Dec 2025 16:12:31 GMT | Marketing & Cybersecurity: Protecting Customer Data in Campaigns | Digital Defense | [Read More](https://medium.com/p/2791e940779f) |
 | Thu, 18 Dec 2025 16:08:36 GMT | CISO Communities: Cybersecurity’s Secret Weapon | IT_Engineer | [Read More](https://medium.com/p/2b5c4f5b8e8d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 11:00:48 GMT | The Ultimate Combo Cheap Reseller Hosting + Web Design Skills for a Profitable Online Business | Janet Watson | [Read More](https://medium.com/p/6c1098b79f65) |
 | Thu, 18 Dec 2025 10:59:33 GMT | IDOR Explained | Akshay Damle | [Read More](https://medium.com/p/941505123efd) |
 | Thu, 18 Dec 2025 10:58:41 GMT | Hear your Fears instead of wearing them | Avni Bhandari | [Read More](https://medium.com/p/30708564d03d) |
-| Thu, 18 Dec 2025 10:57:41 GMT | Security Lab Simulation Project Part 14: Installation of Mythic on Ubuntu Server | Jenny | [Read More](https://medium.com/p/85ece4418690) |
-| Thu, 18 Dec 2025 10:57:20 GMT | Go’s Secret Mode Changes How We Think About Memory | Minervee | [Read More](https://medium.com/p/586a84106c7b) |
-| Thu, 18 Dec 2025 10:55:29 GMT | ISO 27001: Why Cybersecurity Should Be a Top Priority for Every Business | ISO Management Consultant Ltd. | [Read More](https://medium.com/p/835689a32546) |
-| Thu, 18 Dec 2025 10:49:33 GMT | Security Fundamentals — Core concepts | Suraj Bhandari | [Read More](https://medium.com/p/e09eb431dab3) |
-| Thu, 18 Dec 2025 10:44:10 GMT | Inside a Cyber Insurance Policy: Structure, Coverages and Key Exclusions | Armin Mehraeen | [Read More](https://medium.com/p/a0d896033368) |
-| Thu, 18 Dec 2025 10:42:52 GMT | Vulnerability Management Tools That Actually Reduce Risk | Lanvaus | [Read More](https://medium.com/p/ed5238a0b660) |
-| Thu, 18 Dec 2025 10:41:29 GMT | Press PG Practice — Security Lessons | Balaji_21 | [Read More](https://medium.com/p/ae64281d0c15) |
-| Thu, 18 Dec 2025 10:38:08 GMT | How I Built a SOC Lab in My Bedroom | Abimanyu A | [Read More](https://medium.com/p/33c37c282ab2) |
-| Thu, 18 Dec 2025 10:33:27 GMT | Step-by-Step Audit Readiness Guide for ISO 27001 | Consulting4sec | [Read More](https://medium.com/p/99acf0ebd812) |
