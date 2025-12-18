@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 21:32:35 GMT | My Journey in IT, Cybersecurity, and Automation — Kehinde Ladepo | kehinde ladepo | [Read More](https://medium.com/p/ba7840e63bf7) |
+| Thu, 18 Dec 2025 21:31:58 GMT | HackTheBox: MonitorsFour | Rahaliashraf | [Read More](https://medium.com/p/4859add0b51c) |
+| Thu, 18 Dec 2025 21:24:32 GMT | Advent of Cyber 2025 - Day 18: Obfuscation - The Egg Shell File | Akshat Patel | [Read More](https://medium.com/p/a8102c196f4b) |
+| Thu, 18 Dec 2025 21:17:49 GMT | OSINT: Temel Kavramlar, Kullanilan Siteler ve Tool’lar | telix | [Read More](https://medium.com/p/a66a54dfe320) |
 | Thu, 18 Dec 2025 21:02:44 GMT | Stream Azure Activity Logs to Splunk Cloud (SIEM) Using Azure Event Hubs | Hilton Gusmão | [Read More](https://medium.com/p/e4b0c8f9c852) |
 | Thu, 18 Dec 2025 20:51:10 GMT | Obfuscation - The Egg Shell File · Advent of Cyber 2025 - Day 18 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/ac037fc4c371) |
 | Thu, 18 Dec 2025 20:49:42 GMT | The Cryptography Concept Journey — Digital Certificates | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/278d2bc299d2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 14:28:23 GMT | Agentic AI in Banking: Powerful Innovation or Silent Cyber Risk? | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/97298e267b14) |
 | Thu, 18 Dec 2025 14:22:00 GMT | An AI Hacked a Top AI Company: 4 Shocking Takeaways from a New Breed of Cyberattack | Ujwal Hiranwar | [Read More](https://medium.com/p/91bda061f44a) |
 | Thu, 18 Dec 2025 14:19:46 GMT | Write-Up — Publicly Exposed MySQL on an “Inactive” Subdomain (KAIAWEB-216) | Mohamed Abdul Hamid | [Read More](https://medium.com/p/61aa704429d1) |
-| Thu, 18 Dec 2025 14:19:01 GMT | Multi-Cloud Madness — The Complexity That Kills Performance and Security | JSOC IT BLOG | [Read More](https://medium.com/p/fde183c2b4d4) |
-| Thu, 18 Dec 2025 14:14:17 GMT | Linux’un Siber Güvenlik Altyapılarındaki Kritik Rolü | Furkan Ünlü | [Read More](https://medium.com/p/8c333251a0e0) |
-| Thu, 18 Dec 2025 14:13:08 GMT | Simple Reflected XSS Attack on DVWA | Mylescorey | [Read More](https://medium.com/p/f4071ada4c2a) |
-| Thu, 18 Dec 2025 14:04:31 GMT | Africa’s Cybersecurity Crossroads: What 2025 Threat Reports Reveal About the Continent’s Digital… | sadique kwatsima | [Read More](https://medium.com/p/5603269cf263) |
