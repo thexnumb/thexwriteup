@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 18:30:46 GMT | Advent of Cyber 2025 Day 18 - TryHackMe - Obfuscation - The Egg Shell File - WriteUp | Axoloth | [Read More](https://medium.com/p/50ff9aaf8c46) |
+| Thu, 18 Dec 2025 18:30:23 GMT | Advent of Cyber 2025 - Day 18: Obfuscation — The Egg Shell File | D4m.sh | [Read More](https://medium.com/p/68a1db96908b) |
+| Thu, 18 Dec 2025 18:21:58 GMT | The “Unzip” That Backdoors Your PC: Why Your Old WinRAR Is Now a National Security Risk | Adham Khaled | [Read More](https://medium.com/p/32e4e950643f) |
+| Thu, 18 Dec 2025 18:21:37 GMT | Inside the Hacker’s Playbook: How Attacks Happen and How You Can Outsmart Them | Punya J | [Read More](https://medium.com/p/eb9ab6c28113) |
+| Thu, 18 Dec 2025 18:21:16 GMT | Understanding SSTI: When {{7*7}} Runs on the Server | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f1c5d83519a7) |
+| Thu, 18 Dec 2025 18:20:23 GMT | Saldırganların En Sessiz Silahı: Blind SQL Injection ! | Iremzeynep | [Read More](https://medium.com/p/6ff00d9fc739) |
+| Thu, 18 Dec 2025 18:16:53 GMT | XSS Nedir? XSS Rehberi Ve Örnek Lab Çözümü | Yusuf sakin yeşiltaş | [Read More](https://medium.com/p/0b27c2f0c3f1) |
+| Thu, 18 Dec 2025 18:14:32 GMT | Email Security & The Crisis of Trust in Digital Communications | Andrew Kagan | [Read More](https://medium.com/p/36a29eb19639) |
+| Thu, 18 Dec 2025 18:11:49 GMT | OAuth2 Explained for Microservices in Java (Beginner Friendly) | Anand Jeyaseelan | [Read More](https://medium.com/p/826eb7e99d75) |
+| Thu, 18 Dec 2025 18:10:50 GMT | Comparative study: pentesting / jailbreaking AI agents | Berend Watchus | [Read More](https://medium.com/p/123cb3710684) |
+| Thu, 18 Dec 2025 18:06:54 GMT | React2Shell (CVE-2025–55182) is not “just another React bug”. | Gaurav Sengar | [Read More](https://medium.com/p/48267b31a769) |
+| Thu, 18 Dec 2025 18:05:29 GMT | A Hands-On Introduction to Polyglot Files | Kulkan Security | [Read More](https://medium.com/p/699885a3e59f) |
+| Thu, 18 Dec 2025 17:55:15 GMT | n8n for Cybersecurity Automation: A Practical, Honest Exploration | Rigved Nimish Mankame | [Read More](https://medium.com/p/fecd681b32e8) |
+| Thu, 18 Dec 2025 17:53:15 GMT | Data Maintenance: Securing, Preserving, and Permanently Eliminating Digital Information | Little_Sun4lower | [Read More](https://medium.com/p/90a2171503c7) |
 | Thu, 18 Dec 2025 17:42:28 GMT | Your Social Media Feed Is Full of Ghosts and It Is Costing You Money | Muhaideen Nausar | [Read More](https://medium.com/p/32f412d20498) |
 | Thu, 18 Dec 2025 17:39:50 GMT | Advent of Cyber 25 — Day 17 — CyberChef — Hoperation Save McSkidy | cybertactic | [Read More](https://medium.com/p/a7bc4cb28e2a) |
 | Thu, 18 Dec 2025 17:35:46 GMT | CCNP Security Certification: A Practical Guide for Advanced Cisco Security Careers | Saurav Banerjee | [Read More](https://medium.com/p/91afdbd4e9be) |
@@ -19,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 17:28:40 GMT | In AI, Each Neuron Is Just a Small Function — Here’s the Easiest Way to Understand It | Prapti Vahia | [Read More](https://medium.com/p/72f109f7c28d) |
 | Thu, 18 Dec 2025 17:27:55 GMT | Common Security Bugs in Go — Part 1: Authentication & Signatures | Dhruv Gundecha | [Read More](https://medium.com/p/645595507458) |
 | Thu, 18 Dec 2025 17:15:12 GMT | Vulnerability in Visual Studio Code Go extension | ASAcrew Blog | [Read More](https://medium.com/p/5009e541fc13) |
+| Thu, 18 Dec 2025 17:14:31 GMT | 一次登入，長期有效？OAuth2 的魔法 | 思維舞步 MindSteps | [Read More](https://medium.com/p/e59716bb7dcc) |
 | Thu, 18 Dec 2025 17:13:11 GMT | Look Inside The House Write-up (Ringzeroteam) | colo | [Read More](https://medium.com/p/6f799a91d3f1) |
 | Thu, 18 Dec 2025 17:08:03 GMT | Setting Up My First Cybersecurity Home Lab | Vengadasalam | [Read More](https://medium.com/p/b129f3a47360) |
 | Thu, 18 Dec 2025 17:05:02 GMT | How to Check If Your WhatsApp Is Hacked (Phone & PC) | Usama Ahmad | [Read More](https://medium.com/p/80b1e615f850) |
@@ -76,6 +91,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 13:54:09 GMT | Cache vs Cookies: What’s the Difference & Why It Matters | Taha Mehmood | [Read More](https://medium.com/p/e19f4d5f80ad) |
 | Thu, 18 Dec 2025 13:46:49 GMT | Frameworks for Cyber Security Fundamentals | Terminals & Coffee | [Read More](https://medium.com/p/5721a2a44aad) |
 | Thu, 18 Dec 2025 13:43:37 GMT | I Changed One ID and Got Someone Else’s Data: An API BOLA Lab | 0xMiawChan | [Read More](https://medium.com/p/6ad50f875f7d) |
+| Thu, 18 Dec 2025 13:42:55 GMT | In 2026, Cybersecurity Will Decide Which Brands Customers Trust and Which They Leave | Jennifer Lawrence | [Read More](https://medium.com/p/c1b04ab45348) |
 | Thu, 18 Dec 2025 13:39:22 GMT | Best Linux Distros for Developers, Gamers, and Privacy Champions | Ganesh Sapate | [Read More](https://medium.com/p/e2dd664597ba) |
 | Thu, 18 Dec 2025 13:33:09 GMT | Is It a Security control, a Requirement, a Safeguard? | Amit Paz | [Read More](https://medium.com/p/5fcd2b3abc09) |
 | Thu, 18 Dec 2025 13:25:40 GMT | How Modern Cloud Architecture Improves App Speed and Security | Macromodule Technologies | [Read More](https://medium.com/p/3248f64993cc) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 12:43:27 GMT | OSINT Under the Hood: Build Your Portfolio — A Person of Interest Profile | Rabail Zaheer | [Read More](https://medium.com/p/79fb9da06c07) |
 | Thu, 18 Dec 2025 12:42:20 GMT | Why Most Bug Bounty Findings Come From Thinking, Not Tools | Gl1tch | [Read More](https://medium.com/p/b955aa542090) |
 | Thu, 18 Dec 2025 12:41:06 GMT | Cisco Elevates AI Security From Safeguard to Enterprise Control Layer | Nathaniel Niyazov | [Read More](https://medium.com/p/721ef8e88ef7) |
-| Thu, 18 Dec 2025 12:38:08 GMT | Urgent: Kimsuky’s “QR Delivery” Trap Is Quietly Turning Android Phones Into Spy Devices — Here’s… | Germano Costi | [Read More](https://medium.com/p/4e1e35d62d88) |
-| Thu, 18 Dec 2025 12:31:55 GMT | Customizing the lock screen to be just right: secure access and no extra widgets | Svetlana Palitsyna | [Read More](https://medium.com/p/ad862cd74922) |
-| Thu, 18 Dec 2025 12:31:40 GMT | **“5 Simple Ways to Keep Your Home Computer Safe from Hackers”** | Mscoder | [Read More](https://medium.com/p/6fbb0b29e060) |
-| Thu, 18 Dec 2025 12:31:15 GMT | How ZeroThreat Helps Startups Reduce Security Costs by 90% | Kate Bennett | [Read More](https://medium.com/p/c323527faca6) |
-| Thu, 18 Dec 2025 12:17:28 GMT | The Linux Power Move: How Cheap Servers Are Beating Big Hosting Brands in 2025? | Andy | [Read More](https://medium.com/p/1cb7fa832c3f) |
-| Thu, 18 Dec 2025 12:16:40 GMT | HACK THE BOX — HELP | Alleyezonme | [Read More](https://medium.com/p/e2abe1811e28) |
-| Thu, 18 Dec 2025 12:15:13 GMT | Hands-on Cybersecurity Training with Labs in India | Manisha Chaudhary | [Read More](https://medium.com/p/b5c3887285fb) |
-| Thu, 18 Dec 2025 12:09:02 GMT | Testing AI-Orchestrated Attacks in Practice | Tuomo Makkonen | [Read More](https://medium.com/p/12f8fb03191e) |
-| Thu, 18 Dec 2025 12:03:44 GMT | Choosing the Right Cybersecurity Company in Australia: Affordable, Trusted, and Future-Ready… | Sentry Cyber | [Read More](https://medium.com/p/2e135c01c22f) |
-| Thu, 18 Dec 2025 12:02:39 GMT | Writeup for picoCTF challenge “Unminify” | Walter Moar | [Read More](https://medium.com/p/e9a175c3085b) |
-| Thu, 18 Dec 2025 11:41:42 GMT | EDITOR | Enoch Root | [Read More](https://medium.com/p/bdd9f7ddca1f) |
-| Thu, 18 Dec 2025 11:40:43 GMT | Fully Resetting Antigravity (VS Code Fork) on Linux | Muhammet Aydın | [Read More](https://medium.com/p/44690bee8012) |
-| Thu, 18 Dec 2025 11:40:43 GMT | Which Tool is Commonly Used For End Point Security? | cyber security Updates | [Read More](https://medium.com/p/d9c479a19bea) |
-| Thu, 18 Dec 2025 11:28:51 GMT | 2025 FIRST & AfricaCERT Symposium in Mauritius: “When the Defenders Unite.” | Gamuchirai | [Read More](https://medium.com/p/c52000e2dac5) |
-| Thu, 18 Dec 2025 11:20:59 GMT | Cryptocurrency and Cybercrime in 2026 | Warda Saleem | [Read More](https://medium.com/p/82b35de0d47d) |
-| Thu, 18 Dec 2025 11:19:13 GMT | Hacking Series (Part 7): Malware Analysis — How Malware Works, How It’s Detected, and How to… | Cyber Wolf | [Read More](https://medium.com/p/bb8d2f4371d4) |
