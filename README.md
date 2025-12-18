@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 09:25:42 GMT | ประจำวันพฤหัสบดีที่ 18 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/aefa17d2dc53) |
+| Thu, 18 Dec 2025 09:24:03 GMT | The Hidden Cost of “Yield”: Why Most BTCFi Products Fail Institutional Risk Tests | Emmanuel Chibuzor | [Read More](https://medium.com/p/8cde970ba26c) |
+| Thu, 18 Dec 2025 09:21:42 GMT | Password Reset Poisoning: Receiving the Same Reset Link in My Inbox | Twilight | [Read More](https://medium.com/p/1cb2b3ab0b80) |
+| Thu, 18 Dec 2025 09:20:34 GMT | Anomalous Behavior Detection in HTTP Traffic: Catching What WAFs Miss | Esra Kayhan | [Read More](https://medium.com/p/e53ed7d1aa57) |
+| Thu, 18 Dec 2025 09:20:06 GMT | Network Protocol Anomaly Detection | Esra Kayhan | [Read More](https://medium.com/p/9a35fd9a107c) |
+| Thu, 18 Dec 2025 09:04:47 GMT | How I Broke My Linux Server Using Nmap | Fateyaly | [Read More](https://medium.com/p/3f2808a18ae6) |
+| Thu, 18 Dec 2025 08:56:12 GMT | Meet pwman: The Tiny CLI Password Manager That Fits in Your Terminal | Aliopdandan | [Read More](https://medium.com/p/904f295e269f) |
+| Thu, 18 Dec 2025 08:54:14 GMT | The 7 Best SAST Solutions for 2026: Balancing Speed, Accuracy, and Security Controls | SecureSlate | [Read More](https://medium.com/p/6fb7b58c5c48) |
+| Thu, 18 Dec 2025 08:52:03 GMT | Event Security Solutions: Protecting Your Special Occasions | Travel time | [Read More](https://medium.com/p/454e49d610e0) |
+| Thu, 18 Dec 2025 08:49:10 GMT | Your Digital Shield Starts with SiyanoAV Free Antivirus Today | Siyanoav | [Read More](https://medium.com/p/088cbbc29649) |
+| Thu, 18 Dec 2025 08:47:02 GMT | Don’t Jump Into the Middle of Cybersecurity — Learn It in Phases | Kenneth Solomon | [Read More](https://medium.com/p/9fdcedef8652) |
+| Thu, 18 Dec 2025 08:32:34 GMT | Plain-Text Leaks vs Dark-Web Screenshots: What’s Actionable and What Isn’t | Alexandre Vandamme | [Read More](https://medium.com/p/dcd295a4f4a5) |
 | Thu, 18 Dec 2025 08:26:14 GMT | Publishing an Internet-Draft at the IETF | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/45a27c59e394) |
 | Thu, 18 Dec 2025 08:24:53 GMT | How I Got into the Cyblack SOC Academy (And How You Can Too). | Joanorifha | [Read More](https://medium.com/p/a43126801f3c) |
 | Thu, 18 Dec 2025 08:23:00 GMT | Protect Your Business with Information Security Services | Justinbrock | [Read More](https://medium.com/p/c4a0a2ee2b19) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 02:22:41 GMT | Weekly Threat Intelligence Report 15 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/f3ebebf0175f) |
 | Thu, 18 Dec 2025 02:20:04 GMT | This Image Can Hack Your PC — What You Need to Know (Safe Explanation) | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/ef5f3c038add) |
 | Thu, 18 Dec 2025 02:15:43 GMT | React2Shell (CVE-2025–55182): O Colapso Silencioso do Server-Side Rendering | Alissonoliveira | [Read More](https://medium.com/p/0db833a7fc79) |
-| Thu, 18 Dec 2025 02:15:35 GMT | Continuous Control Monitoring (CCM): From Annual Audits to Real-Time Assurance | ThreatLens byGurdeep | [Read More](https://medium.com/p/a6813dec1f39) |
-| Thu, 18 Dec 2025 02:13:02 GMT | Why QR + TOTP Is the Missing Layer of Passwordless Authentication | Anton Minin Baranovskii | [Read More](https://medium.com/p/a147133a7e36) |
-| Thu, 18 Dec 2025 01:56:11 GMT | Building your own local CA, and using it to secure a local Nginx server with HTTPS | Coleo7o7o7 | [Read More](https://medium.com/p/21cb4f2dbb5c) |
-| Thu, 18 Dec 2025 01:42:56 GMT | Policy-as-Code: Turning Security Controls into Enforceable, Auditable Logic | ThreatLens byGurdeep | [Read More](https://medium.com/p/181c40dbb833) |
-| Thu, 18 Dec 2025 01:42:09 GMT | Post 6: The Scale of IT — And Why Job Opportunities Are Still Vast | SattiData | [Read More](https://medium.com/p/04be670f984a) |
-| Thu, 18 Dec 2025 01:32:17 GMT | Python + Wasmtime in Servers: Safe Sandbox for Untrusted UDFs at Near-Native Speed | Codastra | [Read More](https://medium.com/p/ed858be1c48e) |
-| Thu, 18 Dec 2025 01:21:12 GMT | Discussion of Business on Platforms vs. Independant Platform Systems | Aaron Linder | [Read More](https://medium.com/p/5f050f999ed6) |
-| Thu, 18 Dec 2025 01:02:38 GMT | Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin | tanvi mittal | [Read More](https://medium.com/p/f994a38e4515) |
-| Thu, 18 Dec 2025 00:48:14 GMT | Snowflake Account Access & Security | Sushmasree Rudroju | [Read More](https://medium.com/p/a73187fd9c2b) |
-| Thu, 18 Dec 2025 00:42:44 GMT | SSRF Vulnerability Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/ab1fc0c0fe04) |
-| Thu, 18 Dec 2025 00:33:31 GMT | Current | Chris Perkins | [Read More](https://medium.com/p/745961b089ae) |
-| Thu, 18 Dec 2025 00:12:03 GMT | The Day You Lose Everything — and How to Make Sure It Never Happens | Rekuva: The "Ctrl+Z" for Your Wallet | [Read More](https://medium.com/p/cd7b38c48bbe) |
