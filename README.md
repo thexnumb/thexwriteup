@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 04:39:43 GMT | They Called It Luck — So NASA Did It Again | Ninadgowda | [Read More](https://medium.com/p/0146179622a5) |
+| Thu, 18 Dec 2025 04:39:29 GMT | Why Most Students Learn Skills — But Still Don’t Get Jobs | Ankit rai | [Read More](https://medium.com/p/55243d8b3c72) |
+| Thu, 18 Dec 2025 04:30:54 GMT | Multi-Device Safety: Protecting Devices Across Platforms | OpsEnki | [Read More](https://medium.com/p/1499f4a5c0d7) |
+| Thu, 18 Dec 2025 04:29:53 GMT | Top 10 Endpoint Protection Strategies Every Business Should Know | Maxatlasofficial | [Read More](https://medium.com/p/c49df616c068) |
+| Thu, 18 Dec 2025 04:27:42 GMT | Why Updating Third-Party Libraries Is Critical for Application Security | Geeky Vartika | [Read More](https://medium.com/p/a0e7496011be) |
+| Thu, 18 Dec 2025 04:23:20 GMT | Security, Compliance, and Governance for AI-Enhanced BDD | Stepan Plotytsia | [Read More](https://medium.com/p/34b86d59c053) |
+| Thu, 18 Dec 2025 04:22:37 GMT | 8 Million Users’ AI Conversations Sold by ‘Privacy’ Extensions | Pawan Jaiswal | [Read More](https://medium.com/p/0e3d247503fa) |
+| Thu, 18 Dec 2025 04:02:37 GMT | Client Components vs Server Components in React | Miral Kumbhani | [Read More](https://medium.com/p/6e01331f0873) |
+| Thu, 18 Dec 2025 04:01:11 GMT | What is API Security and Why Should You Care? | Yasmin | [Read More](https://medium.com/p/a6f3a91a85c4) |
+| Thu, 18 Dec 2025 03:57:07 GMT | And if you get a feeling (Pt. 2) | Treasure Kelechukwu | [Read More](https://medium.com/p/70382232bb2c) |
+| Thu, 18 Dec 2025 03:54:06 GMT | IT Priorities 2026: 10 IT Leaders Should Focus On | HostNOC | [Read More](https://medium.com/p/0f1f58128dd1) |
 | Thu, 18 Dec 2025 03:47:35 GMT | Sysmon Is Coming To Windows — Let’s Celebrate By Talking About Event ID Chaining As Indicators Of… | Johnny Meintel | [Read More](https://medium.com/p/ac0076cac754) |
 | Thu, 18 Dec 2025 03:33:07 GMT | 21. Re-ceive — | icanwallad | [Read More](https://medium.com/p/db401d0dc890) |
 | Thu, 18 Dec 2025 03:32:36 GMT | 5 Essential Tips for Feature Flags in Node.js | Arunangshu Das | [Read More](https://medium.com/p/6bee0b30e0d5) |
@@ -102,14 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 17:47:54 GMT | Forever Young | Anthony Repetto | [Read More](https://medium.com/p/b8e094dc84ca) |
 | Wed, 17 Dec 2025 17:45:41 GMT | Fuzzing (The Dynamic Software Testing Method) and Fuzzers the Caterpillar | Jen Cracchiola | [Read More](https://medium.com/p/dbc5fec2ba4e) |
 | Wed, 17 Dec 2025 17:44:06 GMT | Joining the DEF CON Madurai Volunteer Team | Aravind | [Read More](https://medium.com/p/510f7932b876) |
-| Wed, 17 Dec 2025 17:43:57 GMT | Why Proactive Security in Colorado Springs Is the Smarter Way to Protect Your Property | Overwatch Technologies | [Read More](https://medium.com/p/b5b983e8e81f) |
-| Wed, 17 Dec 2025 17:40:58 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/7aa93d59477f) |
-| Wed, 17 Dec 2025 17:38:45 GMT | RedTrails (Hack The Box) Write Up | Nthawk | [Read More](https://medium.com/p/99ed1706421c) |
-| Wed, 17 Dec 2025 17:36:21 GMT | Stored XSS Attack In DVWA | Mylescorey | [Read More](https://medium.com/p/02b8cf8fe8ad) |
-| Wed, 17 Dec 2025 17:35:09 GMT | Implementing POP (Proof of Possession) Token in Angular and Node.js: A Practical Guide | Satnam Singh | [Read More](https://medium.com/p/e8df14bee149) |
-| Wed, 17 Dec 2025 17:28:07 GMT | ️‍♂️ picoCTF 2024 — CanYouSee? - Simple Forensics Write-Up | vulnhunter | [Read More](https://medium.com/p/320033c1c13e) |
-| Wed, 17 Dec 2025 17:26:12 GMT | Modern Malware Deployment: How Legit-Looking Software Becomes the Perfect Trojan | Sneha Rajput | [Read More](https://medium.com/p/d7fc3bdf6619) |
-| Wed, 17 Dec 2025 17:23:37 GMT | Learning Android Pentesting Fundamentals: Intents & Activities as an Attack Surface | Mahmoudelshorpagy | [Read More](https://medium.com/p/f3b7b321ffb0) |
-| Wed, 17 Dec 2025 17:17:56 GMT | Message Queuing Telemetry Transport (MQTT) | Abdul Samad | [Read More](https://medium.com/p/43c77bc2d421) |
-| Wed, 17 Dec 2025 17:14:39 GMT | The $12 Trillion Scam: Is Your “Bank” Actually a Teenager in Lahore? | Muhammad Ali Ramzan | [Read More](https://medium.com/p/af6a7aef4cda) |
-| Wed, 17 Dec 2025 17:12:30 GMT | Forensics: Flag in Flame — When Logs Turn Into Images | vulnhunter | [Read More](https://medium.com/p/3fc526d0a5bf) |
