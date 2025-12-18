@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 06:24:39 GMT | Fix Meta Ads Checkpoint Login Loops | Bitway | [Read More](https://medium.com/p/52ed14a726e6) |
+| Thu, 18 Dec 2025 06:23:54 GMT | The 100x Engineer is a Myth. The 100x Process is Real. | Ofri Peretz | [Read More](https://medium.com/p/3e1ce9636bcf) |
+| Thu, 18 Dec 2025 06:21:07 GMT | Top Safety Measures by Event Security Services in Singapore | Jane Tang | [Read More](https://medium.com/p/1f764c07677f) |
+| Thu, 18 Dec 2025 06:12:50 GMT | 02 - Why Integrity, Authenticity, and Cyber Awareness Define the Modern Founder’s Path | Valerie Cobb | [Read More](https://medium.com/p/3297778327c2) |
+| Thu, 18 Dec 2025 06:10:24 GMT | The Invisible Decisions Shaping Your Digital Life | Muhammad Suleman | [Read More](https://medium.com/p/09321c1bd475) |
+| Thu, 18 Dec 2025 06:09:22 GMT | CWE Top 25 (2025): Understanding the Software Weaknesses Behind Modern Attacks | Sujal Shihani | [Read More](https://medium.com/p/55bb7456b6b9) |
+| Thu, 18 Dec 2025 06:07:57 GMT | Cybersecurity Skills for 2026 — A Practical Roadmap for Indian Beginners Aiming for Their First… | Sajidur Rahman | [Read More](https://medium.com/p/7fabbb47a7b0) |
+| Thu, 18 Dec 2025 06:00:43 GMT | Truth Engineering – Vol. 1 | Joseph Zaki | [Read More](https://medium.com/p/74660ca04b45) |
+| Thu, 18 Dec 2025 05:55:13 GMT | SECURET Quantum TV: The Future of Private Home Rehabilitation | SAYCOIN | [Read More](https://medium.com/p/000777460bd3) |
+| Thu, 18 Dec 2025 05:52:57 GMT | I Built a “Linguistic Firewall” for AI. Can You Breach It? | Josephis K. Wade | [Read More](https://medium.com/p/13e7db8715d9) |
+| Thu, 18 Dec 2025 05:52:47 GMT | Remote IT Support & IT Support Hartford - VoIP Services in Hartford — GainSide | Gainside | [Read More](https://medium.com/p/dfc431df6114) |
 | Thu, 18 Dec 2025 05:42:16 GMT | React Is NOT as Safe as You Think: A Deep Dive into a CVSS 10.0 Vulnerability | Sachin Ghadi | [Read More](https://medium.com/p/f747ec05d4db) |
 | Thu, 18 Dec 2025 05:42:10 GMT | That Last-Minute Panic Before Leaving Home | Ramesh Raj | [Read More](https://medium.com/p/375350dddc2a) |
 | Thu, 18 Dec 2025 05:30:37 GMT | The Anatomy of a Cyberattack: How Real Attacks Unfold | Michael H. | [Read More](https://medium.com/p/2f90de5035df) |
@@ -102,14 +113,3 @@ It Happens, and How to Prevent It | Stella Obatoye | [Read More](https://medium.
 | Wed, 17 Dec 2025 20:03:31 GMT | Do You Really Need a VPN? | lind l. | [Read More](https://medium.com/p/2b4e67259218) |
 | Wed, 17 Dec 2025 19:54:15 GMT | Steering LLMs Like a Neuroscientist: Changing AI Behavior Without Fine-Tuning | evoailabs | [Read More](https://medium.com/p/6d8a6168892c) |
 | Wed, 17 Dec 2025 19:48:44 GMT | Can an $18-an-hour AI agent out-hack a six-figure cybersecurity pro? | Mrigank Gupta | [Read More](https://medium.com/p/1a95f9db0f04) |
-| Wed, 17 Dec 2025 19:42:36 GMT | XSS- Merry XSSMas AOC 2025 Day 11 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/2c5c3da38377) |
-| Wed, 17 Dec 2025 19:41:01 GMT | CyberChef- Hoperation Save McSkidy AOC 2025 Day 17 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/c1c646dc46dd) |
-| Wed, 17 Dec 2025 19:40:12 GMT | Malware families: in-depth technical analysis | Telynor | [Read More](https://medium.com/p/746cb16e5466) |
-| Wed, 17 Dec 2025 19:38:26 GMT | RootMe: A Step-by-Step CTF Walkthrough | IshhIshneet | [Read More](https://medium.com/p/71b30bc80442) |
-| Wed, 17 Dec 2025 19:29:55 GMT | What is Cross-Site Request Forgery (CSRF)? | Islemothmani | [Read More](https://medium.com/p/f1dbef5aa269) |
-| Wed, 17 Dec 2025 19:25:33 GMT | Top Enterprise Network Security Solutions 2026 : How To Protect Data | Fortnexs Shield | [Read More](https://medium.com/p/9a67edbe6952) |
-| Wed, 17 Dec 2025 19:22:37 GMT | Advent of Cyber 2025 Day 17 - TryHackMe - CyberChef - Hoperation Save McSkidy - WriteUp | Axoloth | [Read More](https://medium.com/p/85b9eda13719) |
-| Wed, 17 Dec 2025 19:20:44 GMT | The First AI Coding Exploits Are Here, and They Don’t Look Like Hacks | MohamedAbdelmenem | [Read More](https://medium.com/p/427bcba83d0d) |
-| Wed, 17 Dec 2025 19:19:04 GMT | Network Security Essentials — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/0754f9e5fb47) |
-| Wed, 17 Dec 2025 19:15:40 GMT | Operator Fatigue In OT Cyber Security | Muhammad Ali Khan | [Read More](https://medium.com/p/2829e6bc4e68) |
-| Wed, 17 Dec 2025 19:15:21 GMT | Centralized Suppression Management for Detections Using Macros & Lookups | Harrison Pomeroy | [Read More](https://medium.com/p/be87ffc2f954) |
