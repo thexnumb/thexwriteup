@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 23:12:52 GMT | The Unseen Layer Of Tech That Makes The Modern World Feel Supernatural | Abstract Mind | [Read More](https://medium.com/p/5e578e778115) |
+| Thu, 18 Dec 2025 23:08:13 GMT | Frankenstein APC Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1007c24a0317) |
+| Thu, 18 Dec 2025 23:07:40 GMT | Inside the OT Cyber War Room: Who Sits Where, What’s on the Screens, and Who Gets to Pull the Plug | Muhammad Ali Khan | [Read More](https://medium.com/p/7764f05bedd1) |
+| Thu, 18 Dec 2025 23:06:55 GMT | Training Under Fire: How To Drill OT Operators For Cognitive Overload | Muhammad Ali Khan | [Read More](https://medium.com/p/c2a949f4c410) |
+| Thu, 18 Dec 2025 22:59:31 GMT | Escape_202 in CYBER TALENTS | Anik Sutrodhar | [Read More](https://medium.com/p/0b36d9898d89) |
+| Thu, 18 Dec 2025 22:58:07 GMT | Okta Logs to Detections in SIEM: Purple Team Project | Erebus | [Read More](https://medium.com/p/2a1037f1b3c3) |
+| Thu, 18 Dec 2025 22:42:24 GMT | Why ‘Strong Passwords’ Are Useless in 2025 | Liam | [Read More](https://medium.com/p/49c21d63ce2b) |
+| Thu, 18 Dec 2025 22:41:30 GMT | How to Secure Agentic Applications | Manu Cohen-Yashar | [Read More](https://medium.com/p/06dfc8369757) |
 | Thu, 18 Dec 2025 22:33:32 GMT | Cyber-hijacking a ship? | Angelina Souren | [Read More](https://medium.com/p/95e207e125bd) |
 | Thu, 18 Dec 2025 22:31:11 GMT | When AI Becomes the Instructor: Analyzing YouTube’s Video Summarization Safety Gap | Vidura Ranathunga | [Read More](https://medium.com/p/e729bc66f643) |
 | Thu, 18 Dec 2025 22:18:45 GMT | Certified AI/ML Pentester Review | m8sec | [Read More](https://medium.com/p/82dc145c0c76) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 15:14:55 GMT | Getting Started Cyber Security With Zynex Soutions. | Bilal Nasir | [Read More](https://medium.com/p/fcef2d8d23ff) |
 | Thu, 18 Dec 2025 15:09:24 GMT | TryHackMe W1seGuy — Crypto Challenge Walkthrough | Abhilash H | [Read More](https://medium.com/p/70cc14d5bb8e) |
 | Thu, 18 Dec 2025 15:07:09 GMT | Hybrid Cloud Security in 2026: Best Practices to Protect Enterprise Data | Techridge Solutions | [Read More](https://medium.com/p/40d12d051990) |
-| Thu, 18 Dec 2025 15:02:50 GMT | Cyber Briefing: 2025.12.18 | CyberMaterial | [Read More](https://medium.com/p/b134f5fe29fa) |
-| Thu, 18 Dec 2025 14:57:26 GMT | The Administrator Paradox: How I Built a Secure, Serverless Backend (And Locked Myself Out in the… | Aayush Soni | [Read More](https://medium.com/p/0e210d919388) |
-| Thu, 18 Dec 2025 14:50:46 GMT | The Invisible Threat: Why Your Browser Extensions Might Be Spying on You | Rawi | [Read More](https://medium.com/p/c2763fb540c3) |
-| Thu, 18 Dec 2025 14:50:12 GMT | Computers Aren’t Smart, They’re Just Very Good at Listening….. | Anaswara Pyarilal | [Read More](https://medium.com/p/01ffa06564ee) |
-| Thu, 18 Dec 2025 14:50:04 GMT | The Tech Owner’s Holiday Shutdown Checklist: Secure Your Business & Home Networks Before You Log… | Paradise technologies Inc | [Read More](https://medium.com/p/134f99abd395) |
-| Thu, 18 Dec 2025 14:48:27 GMT | How I Found a Zero-Click Flaw by Questioning a “Safe” Rendering Path | Rawi | [Read More](https://medium.com/p/b104c29a3e8e) |
-| Thu, 18 Dec 2025 14:41:51 GMT | Starting My Ethical Hacking Journey on TryHackMe | Kashif shah | [Read More](https://medium.com/p/94ba52c7f927) |
-| Thu, 18 Dec 2025 14:40:07 GMT | What DNS Really Does — and Why It’s a Weak Link in Internet Security | Codeandcontext | [Read More](https://medium.com/p/01cac58439a8) |
