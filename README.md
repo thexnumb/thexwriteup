@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 17:42:28 GMT | Your Social Media Feed Is Full of Ghosts and It Is Costing You Money | Muhaideen Nausar | [Read More](https://medium.com/p/32f412d20498) |
+| Thu, 18 Dec 2025 17:39:50 GMT | Advent of Cyber 25 — Day 17 — CyberChef — Hoperation Save McSkidy | cybertactic | [Read More](https://medium.com/p/a7bc4cb28e2a) |
+| Thu, 18 Dec 2025 17:35:46 GMT | CCNP Security Certification: A Practical Guide for Advanced Cisco Security Careers | Saurav Banerjee | [Read More](https://medium.com/p/91afdbd4e9be) |
+| Thu, 18 Dec 2025 17:31:14 GMT | CCNP Enterprise Certification: Your Complete Guide to Advancing Enterprise Networking Skills | Saurav Banerjee | [Read More](https://medium.com/p/0bbf3993268f) |
+| Thu, 18 Dec 2025 17:28:40 GMT | In AI, Each Neuron Is Just a Small Function — Here’s the Easiest Way to Understand It | Prapti Vahia | [Read More](https://medium.com/p/72f109f7c28d) |
+| Thu, 18 Dec 2025 17:27:55 GMT | Common Security Bugs in Go — Part 1: Authentication & Signatures | Dhruv Gundecha | [Read More](https://medium.com/p/645595507458) |
+| Thu, 18 Dec 2025 17:15:12 GMT | Vulnerability in Visual Studio Code Go extension | ASAcrew Blog | [Read More](https://medium.com/p/5009e541fc13) |
 | Thu, 18 Dec 2025 17:13:11 GMT | Look Inside The House Write-up (Ringzeroteam) | colo | [Read More](https://medium.com/p/6f799a91d3f1) |
 | Thu, 18 Dec 2025 17:08:03 GMT | Setting Up My First Cybersecurity Home Lab | Vengadasalam | [Read More](https://medium.com/p/b129f3a47360) |
 | Thu, 18 Dec 2025 17:05:02 GMT | How to Check If Your WhatsApp Is Hacked (Phone & PC) | Usama Ahmad | [Read More](https://medium.com/p/80b1e615f850) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 11:28:51 GMT | 2025 FIRST & AfricaCERT Symposium in Mauritius: “When the Defenders Unite.” | Gamuchirai | [Read More](https://medium.com/p/c52000e2dac5) |
 | Thu, 18 Dec 2025 11:20:59 GMT | Cryptocurrency and Cybercrime in 2026 | Warda Saleem | [Read More](https://medium.com/p/82b35de0d47d) |
 | Thu, 18 Dec 2025 11:19:13 GMT | Hacking Series (Part 7): Malware Analysis — How Malware Works, How It’s Detected, and How to… | Cyber Wolf | [Read More](https://medium.com/p/bb8d2f4371d4) |
-| Thu, 18 Dec 2025 11:18:14 GMT | Russian is No.#2 language in content on the internet. | Martin Abramov | [Read More](https://medium.com/p/11265249ff4a) |
-| Thu, 18 Dec 2025 11:10:16 GMT | ABOUT ME | Khushisharma | [Read More](https://medium.com/p/27c66d2bd8eb) |
-| Thu, 18 Dec 2025 11:06:15 GMT | Ask Adam: Empowering FTEs to Break Free of Vendor Saturation | Namir Sagheenanajar | [Read More](https://medium.com/p/b07c55cfd774) |
-| Thu, 18 Dec 2025 11:06:15 GMT | Why do we Prefer Lies in the Age of Information? | Prof. Michael Wainaina, (Ph.D.). | [Read More](https://medium.com/p/1a7d4fede65c) |
-| Thu, 18 Dec 2025 11:00:48 GMT | The Ultimate Combo Cheap Reseller Hosting + Web Design Skills for a Profitable Online Business | Janet Watson | [Read More](https://medium.com/p/6c1098b79f65) |
-| Thu, 18 Dec 2025 10:59:33 GMT | IDOR Explained | Akshay Damle | [Read More](https://medium.com/p/941505123efd) |
-| Thu, 18 Dec 2025 10:58:41 GMT | Hear your Fears instead of wearing them | Avni Bhandari | [Read More](https://medium.com/p/30708564d03d) |
