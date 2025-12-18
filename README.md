@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 12:43:27 GMT | OSINT Under the Hood: Build Your Portfolio — A Person of Interest Profile | Rabail Zaheer | [Read More](https://medium.com/p/79fb9da06c07) |
+| Thu, 18 Dec 2025 12:42:20 GMT | Why Most Bug Bounty Findings Come From Thinking, Not Tools | Gl1tch | [Read More](https://medium.com/p/b955aa542090) |
+| Thu, 18 Dec 2025 12:41:06 GMT | Cisco Elevates AI Security From Safeguard to Enterprise Control Layer | Nathaniel Niyazov | [Read More](https://medium.com/p/721ef8e88ef7) |
+| Thu, 18 Dec 2025 12:38:08 GMT | Urgent: Kimsuky’s “QR Delivery” Trap Is Quietly Turning Android Phones Into Spy Devices — Here’s… | Germano Costi | [Read More](https://medium.com/p/4e1e35d62d88) |
+| Thu, 18 Dec 2025 12:31:55 GMT | Customizing the lock screen to be just right: secure access and no extra widgets | Svetlana Palitsyna | [Read More](https://medium.com/p/ad862cd74922) |
+| Thu, 18 Dec 2025 12:31:40 GMT | **“5 Simple Ways to Keep Your Home Computer Safe from Hackers”** | Mscoder | [Read More](https://medium.com/p/6fbb0b29e060) |
+| Thu, 18 Dec 2025 12:31:15 GMT | How ZeroThreat Helps Startups Reduce Security Costs by 90% | Kate Bennett | [Read More](https://medium.com/p/c323527faca6) |
+| Thu, 18 Dec 2025 12:17:28 GMT | The Linux Power Move: How Cheap Servers Are Beating Big Hosting Brands in 2025? | Andy | [Read More](https://medium.com/p/1cb7fa832c3f) |
+| Thu, 18 Dec 2025 12:16:40 GMT | HACK THE BOX — HELP | Alleyezonme | [Read More](https://medium.com/p/e2abe1811e28) |
+| Thu, 18 Dec 2025 12:15:13 GMT | Hands-on Cybersecurity Training with Labs in India | Manisha Chaudhary | [Read More](https://medium.com/p/b5c3887285fb) |
+| Thu, 18 Dec 2025 12:09:02 GMT | Testing AI-Orchestrated Attacks in Practice | Tuomo Makkonen | [Read More](https://medium.com/p/12f8fb03191e) |
+| Thu, 18 Dec 2025 12:03:44 GMT | Choosing the Right Cybersecurity Company in Australia: Affordable, Trusted, and Future-Ready… | Sentry Cyber | [Read More](https://medium.com/p/2e135c01c22f) |
+| Thu, 18 Dec 2025 12:02:39 GMT | Writeup for picoCTF challenge “Unminify” | Walter Moar | [Read More](https://medium.com/p/e9a175c3085b) |
+| Thu, 18 Dec 2025 11:41:42 GMT | EDITOR | Enoch Root | [Read More](https://medium.com/p/bdd9f7ddca1f) |
+| Thu, 18 Dec 2025 11:40:43 GMT | Fully Resetting Antigravity (VS Code Fork) on Linux | Muhammet Aydın | [Read More](https://medium.com/p/44690bee8012) |
+| Thu, 18 Dec 2025 11:40:43 GMT | Which Tool is Commonly Used For End Point Security? | cyber security Updates | [Read More](https://medium.com/p/d9c479a19bea) |
 | Thu, 18 Dec 2025 11:28:51 GMT | 2025 FIRST & AfricaCERT Symposium in Mauritius: “When the Defenders Unite.” | Gamuchirai | [Read More](https://medium.com/p/c52000e2dac5) |
 | Thu, 18 Dec 2025 11:20:59 GMT | Cryptocurrency and Cybercrime in 2026 | Warda Saleem | [Read More](https://medium.com/p/82b35de0d47d) |
 | Thu, 18 Dec 2025 11:19:13 GMT | Hacking Series (Part 7): Malware Analysis — How Malware Works, How It’s Detected, and How to… | Cyber Wolf | [Read More](https://medium.com/p/bb8d2f4371d4) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 07:32:42 GMT | Free Wi-Fi: Convenience or Hidden Risk? | Himanshu Bhatt | [Read More](https://medium.com/p/1cb1aa0a9f48) |
 | Thu, 18 Dec 2025 07:32:34 GMT | Salt Typhoon: China’s 2025 Telecom Siege That Listened to America’s Every Whisper | Kalariya Het | [Read More](https://medium.com/p/2c84d86e4919) |
 | Thu, 18 Dec 2025 07:25:34 GMT | Tải Bus Simulator Vietnam APK (MOD Bản Full) v9.3.6 | Bandisharecx | [Read More](https://medium.com/p/8ede48254786) |
-| Thu, 18 Dec 2025 07:24:15 GMT | ToolShell: The Silent Cyber Knife That Sliced Into America’s Digital Heart in 2025 | Kalariya Het | [Read More](https://medium.com/p/8758c0b65079) |
-| Thu, 18 Dec 2025 07:22:40 GMT | 2026 Will Be Brutal for Legacy Tech. AI-First Platforms Will take the Throne | AIRRIVED | [Read More](https://medium.com/p/63da0efc15bc) |
-| Thu, 18 Dec 2025 07:22:39 GMT | KSA’s Data Centers: Securing the Financial Future. | Mohd Nadeem | [Read More](https://medium.com/p/45f1991cc6bc) |
-| Thu, 18 Dec 2025 07:21:04 GMT | 64 Million Lives For Sale In Spain’s Teen Data Heist | O. J. Okpabi | [Read More](https://medium.com/p/94e3531eba3a) |
-| Thu, 18 Dec 2025 07:11:59 GMT | Solve Memory Leaks via Angular Development Services | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/b67707268976) |
-| Thu, 18 Dec 2025 07:09:02 GMT | The $44 Leap: Why the Arduino Uno Q Marks a New Chapter for Makers | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/fc548b4a47a1) |
-| Thu, 18 Dec 2025 06:56:41 GMT | Write-up CTF: Fishy HTTP (HackTheBox) | Ervi | [Read More](https://medium.com/p/532be1f9349d) |
-| Thu, 18 Dec 2025 06:51:12 GMT | Cybersecurity Framework Profile for Artificial Intelligence (Cyber AI Profile) | Viktor Davydych | [Read More](https://medium.com/p/29401c1d3fe2) |
-| Thu, 18 Dec 2025 06:44:34 GMT | Android Under the Hood: The Modern Security Architecture | Jahan Zeb | [Read More](https://medium.com/p/66177cec8191) |
-| Thu, 18 Dec 2025 06:43:14 GMT | The One Linux Security Habit That Saved Me From a Silent Breach | Faruk Ahmed | [Read More](https://medium.com/p/e4dfbc267b7c) |
-| Thu, 18 Dec 2025 06:41:03 GMT | Why Professional Security Training Services Matter When Choosing a Security Company in Mumbai | Ciss India | [Read More](https://medium.com/p/460cb0ebf046) |
-| Thu, 18 Dec 2025 06:38:23 GMT | CyberChef — Hoperation Save McSkidy - Advent of Cyber 2025 Day 17 - Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/22a5a7e280d1) |
-| Thu, 18 Dec 2025 06:37:08 GMT | The Daily Tech Digest: 18 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6d0b607bc9f5) |
-| Thu, 18 Dec 2025 06:33:11 GMT | Docker’s AI Assistant Can Now Automatically Secure Your Containers with Docker Hardened Images | Ashwini Puranik | [Read More](https://medium.com/p/6877320f59c9) |
-| Thu, 18 Dec 2025 06:24:39 GMT | Fix Meta Ads Checkpoint Login Loops | Bitway | [Read More](https://medium.com/p/52ed14a726e6) |
-| Thu, 18 Dec 2025 06:23:54 GMT | The 100x Engineer is a Myth. The 100x Process is Real. | Ofri Peretz | [Read More](https://medium.com/p/3e1ce9636bcf) |
