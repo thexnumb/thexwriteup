@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 10:42:52 GMT | Vulnerability Management Tools That Actually Reduce Risk | Lanvaus | [Read More](https://medium.com/p/ed5238a0b660) |
+| Thu, 18 Dec 2025 10:41:29 GMT | Press PG Practice — Security Lessons | Balaji_21 | [Read More](https://medium.com/p/ae64281d0c15) |
+| Thu, 18 Dec 2025 10:38:08 GMT | How I Built a SOC Lab in My Bedroom | Abimanyu A | [Read More](https://medium.com/p/33c37c282ab2) |
+| Thu, 18 Dec 2025 10:33:27 GMT | Step-by-Step Audit Readiness Guide for ISO 27001 | Consulting4sec | [Read More](https://medium.com/p/99acf0ebd812) |
+| Thu, 18 Dec 2025 10:30:15 GMT | Everyone Is Carrying Something: Some People Hide It Better | Justine Jacob | [Read More](https://medium.com/p/c452991e300e) |
+| Thu, 18 Dec 2025 10:28:22 GMT | ISO/IEC 27018 Certification: Protecting Personal Data in the Cloud | Sqccertification | [Read More](https://medium.com/p/f922e04422a5) |
+| Thu, 18 Dec 2025 10:24:52 GMT | I Just Wanted You to Read Me | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/67b3cf4d4ee7) |
 | Thu, 18 Dec 2025 10:22:12 GMT | PLANNING | Enoch Root | [Read More](https://medium.com/p/9b0128c495e2) |
+| Thu, 18 Dec 2025 10:19:17 GMT | Why Cybersecurity Consultancy in the Philippines Is Essential for Business Security | Prakash Factosecure | [Read More](https://medium.com/p/69bdf7036c94) |
 | Thu, 18 Dec 2025 10:18:57 GMT | Pilot Bölüm. | Gizem Saruhan | [Read More](https://medium.com/p/47001c2d3925) |
+| Thu, 18 Dec 2025 10:18:26 GMT | The Future of AI-Powered Security Analysis | Securegap.io | [Read More](https://medium.com/p/29b00c80c812) |
+| Thu, 18 Dec 2025 10:16:36 GMT | Phishing Simulation and Awareness Services in India - Net Access | Samvaskaran | [Read More](https://medium.com/p/96199e3d7a03) |
 | Thu, 18 Dec 2025 10:15:08 GMT | CORS Explained: Which Response Headers Are Actually Required? | Shubham Soni | [Read More](https://medium.com/p/f260421a6dcb) |
 | Thu, 18 Dec 2025 10:14:37 GMT | Top 10 Ethical Hacking Tools for Windows and Linux | Manisha Chaudhary | [Read More](https://medium.com/p/23008f0e5634) |
 | Thu, 18 Dec 2025 10:09:08 GMT | French Interior Ministry Cyberattack: Critical Lessons for Government and Business Security | Technijian | [Read More](https://medium.com/p/4665b774ef2b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 05:29:53 GMT | How to Identify Malicious URLs in Everyday Browsing | Thatipamulajashwanth | [Read More](https://medium.com/p/aa0df88c0d90) |
 | Thu, 18 Dec 2025 05:28:02 GMT | CrowdStrike Falcon AIDR (AI Detection & Response) | D09r | [Read More](https://medium.com/p/e22cdfdc6372) |
 | Thu, 18 Dec 2025 05:22:22 GMT | The Silent $4 Million Thief: Why We Need to Talk About Phishing NOW | Khabbab Sarker | [Read More](https://medium.com/p/03a45a7bbcc9) |
-| Thu, 18 Dec 2025 05:17:59 GMT | How to transfer data from GCP Storage Service to OCI Object Storage | Anup Nair | [Read More](https://medium.com/p/337509bc59e3) |
-| Thu, 18 Dec 2025 05:15:47 GMT | The Hidden Security Risks in Python Apps - And How to Prevent Them Before They Cost You | Avi Root Info Solution | [Read More](https://medium.com/p/93d0b05d0f01) |
-| Thu, 18 Dec 2025 05:11:19 GMT | Amazon EC2: Comprehensive Technical Report | Somesh | [Read More](https://medium.com/p/2637c08e36f8) |
-| Thu, 18 Dec 2025 05:06:41 GMT | Angular Security: A Comprehensive Guide with Real-World Examples | Satnam Singh | [Read More](https://medium.com/p/198d13d22719) |
-| Thu, 18 Dec 2025 05:05:19 GMT | The Strategic Relocation of Global Capability Centers | World Trade Center Shamshabad - Future City | [Read More](https://medium.com/p/28375e7e02af) |
-| Thu, 18 Dec 2025 05:01:43 GMT | Advanced Recon & the Web3 Frontier | Janhvee Laad | [Read More](https://medium.com/p/d0a0a75d5d13) |
-| Thu, 18 Dec 2025 04:57:16 GMT | Mobile Proxy Sticky Sessions: Fix Login Verification Loops and Session Loss | ChainNova | [Read More](https://medium.com/p/308f7c123226) |
-| Thu, 18 Dec 2025 04:55:14 GMT | Tải SosoMod Apk V1.3.6 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/9b034753298d) |
-| Thu, 18 Dec 2025 04:52:56 GMT | Credential-Stealing Malware Analysis (Vidar Family) | HackettSec | [Read More](https://medium.com/p/ad1b1ad69ac1) |
-| Thu, 18 Dec 2025 04:47:31 GMT | Splunk Homelab Noise Reduction — Part 2 | Johnny Meintel | [Read More](https://medium.com/p/db1a775a675f) |
