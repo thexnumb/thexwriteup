@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 20:10:01 GMT | Google Dorking Nedir? | Kerem Göçen | [Read More](https://medium.com/p/8b0165083f5c) |
+| Thu, 18 Dec 2025 20:09:48 GMT | Deepfakes, Disinformation, and the Coming Identity Crisis | James Kreis | [Read More](https://medium.com/p/b5912ba6f1ae) |
+| Thu, 18 Dec 2025 20:08:26 GMT | Why Domain-Specific AI Is the Future of Proactive Cybersecurity | anthony k | [Read More](https://medium.com/p/80e9dc9abeb8) |
+| Thu, 18 Dec 2025 19:59:43 GMT | Applying Data Protection in Our Applications | Jen Cracchiola | [Read More](https://medium.com/p/6278df95d010) |
+| Thu, 18 Dec 2025 19:59:00 GMT | Microservices Authentication: Token Server Setup with Working Code | .Net Labs | [Read More](https://medium.com/p/c1ec4ce8d802) |
+| Thu, 18 Dec 2025 19:54:04 GMT | Anatomía de una Infección | FeCeSociety | [Read More](https://medium.com/p/a6a68910751c) |
+| Thu, 18 Dec 2025 19:42:43 GMT | IDOR — Santa’s Little IDOR Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e590bd85996b) |
+| Thu, 18 Dec 2025 19:41:42 GMT | Threat Detection and Response Trends that will Impact this Year | NetWitness | [Read More](https://medium.com/p/6a587e1fc799) |
+| Thu, 18 Dec 2025 19:41:13 GMT | Obfuscation- The Egg Shell File AOC 2025 Day 18 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/79fb4c8402ea) |
+| Thu, 18 Dec 2025 19:37:54 GMT | HTB Season Gacha - MonitorsFour — The Full Path from IDOR to Docker Desktop escape (WSL2) and root | Svjatoslav König | [Read More](https://medium.com/p/de2de2f5062a) |
 | Thu, 18 Dec 2025 19:34:17 GMT | How I Installed Wordlistctl on Kali Linux: Step-by-Step Guide | Md. Ekhtiar Hossain | [Read More](https://medium.com/p/03a65275ae51) |
 | Thu, 18 Dec 2025 19:31:49 GMT | Advancements in Agent OS and NatLangChain Ecosystems | Kase | [Read More](https://medium.com/p/0a15fe4de908) |
 | Thu, 18 Dec 2025 19:30:58 GMT | Burp Suite Nedir? Web Uygulama Güvenliği Testlerinde Kullanımı | Egemen Ayyıldız | [Read More](https://medium.com/p/e6dd05af0685) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 13:56:30 GMT | SOC 2, Decoded: A Conversation Between a Founder and a Consultant | Dimple Badhan | [Read More](https://medium.com/p/8bd7105f7a5a) |
 | Thu, 18 Dec 2025 13:54:09 GMT | Cache vs Cookies: What’s the Difference & Why It Matters | Taha Mehmood | [Read More](https://medium.com/p/e19f4d5f80ad) |
 | Thu, 18 Dec 2025 13:46:49 GMT | Frameworks for Cyber Security Fundamentals | Terminals & Coffee | [Read More](https://medium.com/p/5721a2a44aad) |
-| Thu, 18 Dec 2025 13:43:37 GMT | I Changed One ID and Got Someone Else’s Data: An API BOLA Lab | 0xMiawChan | [Read More](https://medium.com/p/6ad50f875f7d) |
-| Thu, 18 Dec 2025 13:42:55 GMT | In 2026, Cybersecurity Will Decide Which Brands Customers Trust and Which They Leave | Jennifer Lawrence | [Read More](https://medium.com/p/c1b04ab45348) |
-| Thu, 18 Dec 2025 13:39:22 GMT | Best Linux Distros for Developers, Gamers, and Privacy Champions | Ganesh Sapate | [Read More](https://medium.com/p/e2dd664597ba) |
-| Thu, 18 Dec 2025 13:33:09 GMT | Is It a Security control, a Requirement, a Safeguard? | Amit Paz | [Read More](https://medium.com/p/5fcd2b3abc09) |
-| Thu, 18 Dec 2025 13:25:40 GMT | How Modern Cloud Architecture Improves App Speed and Security | Macromodule Technologies | [Read More](https://medium.com/p/3248f64993cc) |
-| Thu, 18 Dec 2025 13:22:04 GMT | How Converting Cookie Files to JSON Makes Web Work Easier | Anna Kolodkina | [Read More](https://medium.com/p/b6e48d163173) |
-| Thu, 18 Dec 2025 13:20:15 GMT | Shift Security Left: A Complete Guide to Scanning Java, React, and Containers with Trivy | Pakeetharan Balasubramaniam | [Read More](https://medium.com/p/eb98fd6fedd6) |
-| Thu, 18 Dec 2025 13:16:29 GMT | Getting Wi-Fi Passwords With Python | Pralin Khaira | [Read More](https://medium.com/p/5ac3903a78dd) |
-| Thu, 18 Dec 2025 13:12:41 GMT | Mutual TLS (mTLS): The Unsung Hero of Microservices Security | Lets Learn Now | [Read More](https://medium.com/p/70aa91eeabeb) |
-| Thu, 18 Dec 2025 13:10:41 GMT | We Cloned A Voice in 30 Seconds | AI Whisperer Hub | [Read More](https://medium.com/p/5dbb5d2c94b9) |
