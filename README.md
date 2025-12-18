@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 15:41:34 GMT | Top 10 Tech Skills to Master in 2026 | Sarah Morino | [Read More](https://medium.com/p/65030d2e3b57) |
+| Thu, 18 Dec 2025 15:37:51 GMT | Cybersecurity for Utilities: Safeguarding the Backbone of Modern Society | Perimeterwatch | [Read More](https://medium.com/p/c46f149a3884) |
+| Thu, 18 Dec 2025 15:32:48 GMT | Architecting for Compliance and Scale: Cloud Engineering for Digital Banking | Yokota Strong | [Read More](https://medium.com/p/49197e058c37) |
+| Thu, 18 Dec 2025 15:26:26 GMT | How I Found the Skill to Manage Relationship Vulnerability | Cater Aleey | [Read More](https://medium.com/p/f2d1612c0b64) |
 | Thu, 18 Dec 2025 15:17:35 GMT | Open Web Application Security Project | Akshay Damle | [Read More](https://medium.com/p/15870f2f6517) |
+| Thu, 18 Dec 2025 15:16:23 GMT | Vulnerability Highlight: Beavers, Insufficient Logging and Monitoring | Jen Cracchiola | [Read More](https://medium.com/p/5b524c805187) |
 | Thu, 18 Dec 2025 15:14:55 GMT | Getting Started Cyber Security With Zynex Soutions. | Bilal Nasir | [Read More](https://medium.com/p/fcef2d8d23ff) |
 | Thu, 18 Dec 2025 15:09:24 GMT | TryHackMe W1seGuy — Crypto Challenge Walkthrough | Abhilash H | [Read More](https://medium.com/p/70cc14d5bb8e) |
 | Thu, 18 Dec 2025 15:07:09 GMT | Hybrid Cloud Security in 2026: Best Practices to Protect Enterprise Data | Techridge Solutions | [Read More](https://medium.com/p/40d12d051990) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 10:15:08 GMT | CORS Explained: Which Response Headers Are Actually Required? | Shubham Soni | [Read More](https://medium.com/p/f260421a6dcb) |
 | Thu, 18 Dec 2025 10:14:37 GMT | Top 10 Ethical Hacking Tools for Windows and Linux | Manisha Chaudhary | [Read More](https://medium.com/p/23008f0e5634) |
 | Thu, 18 Dec 2025 10:09:08 GMT | French Interior Ministry Cyberattack: Critical Lessons for Government and Business Security | Technijian | [Read More](https://medium.com/p/4665b774ef2b) |
-| Thu, 18 Dec 2025 10:06:53 GMT | Learn Google Dorking: Arama Motorlarıyla Bilgi Keşfi | Yigitduman | [Read More](https://medium.com/p/a15be23287fa) |
-| Thu, 18 Dec 2025 10:03:15 GMT | Kimwolf Android Botnet: Anatomy of a 1.8 Million–Node DDoS Machine Targeting Smart TVs | Reggie Menacherry | [Read More](https://medium.com/p/84ebb1bcaae6) |
-| Thu, 18 Dec 2025 09:59:14 GMT | How To Become a Hacker | adce626 | [Read More](https://medium.com/p/53996a944767) |
-| Thu, 18 Dec 2025 09:58:09 GMT | Not Just Phishing. This One Hunts The Whales. | Redfox Security | [Read More](https://medium.com/p/8ee29b97b183) |
-| Thu, 18 Dec 2025 09:56:18 GMT | Switch vs Router: What’s the Real Difference? | BHARGAV SANDILYA | [Read More](https://medium.com/p/65765d8c929a) |
