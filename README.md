@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Dec 2025 22:18:11 GMT | Why AI-Driven Vibe Hacking Demands a New DevSecOps Mindset | Cyber-AppSec | [Read More](https://medium.com/p/790c0383ca38) |
+| Thu, 18 Dec 2025 22:10:46 GMT | The Unseen Architecture: A Deep Dive into Network Fundamentals | samurai | [Read More](https://medium.com/p/989a9ff2d6ba) |
+| Thu, 18 Dec 2025 22:07:27 GMT | The Hacker Mindset Isn’t About Crime, It’s About Curiosity | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/eaf8d00fc60e) |
+| Thu, 18 Dec 2025 22:05:00 GMT | The Fortress Within the Code: Exein and Europe’s Cybersecurity Revolution | Enes Karataş | [Read More](https://medium.com/p/5ab93f2ce4a1) |
 | Thu, 18 Dec 2025 21:32:35 GMT | My Journey in IT, Cybersecurity, and Automation — Kehinde Ladepo | kehinde ladepo | [Read More](https://medium.com/p/ba7840e63bf7) |
 | Thu, 18 Dec 2025 21:31:58 GMT | HackTheBox: MonitorsFour | Rahaliashraf | [Read More](https://medium.com/p/4859add0b51c) |
 | Thu, 18 Dec 2025 21:24:32 GMT | Advent of Cyber 2025 - Day 18: Obfuscation - The Egg Shell File | Akshat Patel | [Read More](https://medium.com/p/a8102c196f4b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 14:37:59 GMT | How Courage and Vulnerability Team Up to Transcend Fear | Eugene C Scott | [Read More](https://medium.com/p/ca374e365428) |
 | Thu, 18 Dec 2025 14:32:21 GMT | (Comptia A+) Mastering Essential IT Documentation: A Comprehensive Guide for Technicians | Vignesh R | [Read More](https://medium.com/p/9e08b5891e33) |
 | Thu, 18 Dec 2025 14:31:13 GMT | How Venezuela Built a Digital System for Regime Survival | Money, Guns & Oil | [Read More](https://medium.com/p/9d1c34eb6d68) |
-| Thu, 18 Dec 2025 14:29:23 GMT | Why Do Networks Even Work Correctly? | azrecon_ | [Read More](https://medium.com/p/870472376f64) |
-| Thu, 18 Dec 2025 14:28:23 GMT | Agentic AI in Banking: Powerful Innovation or Silent Cyber Risk? | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/97298e267b14) |
-| Thu, 18 Dec 2025 14:22:00 GMT | An AI Hacked a Top AI Company: 4 Shocking Takeaways from a New Breed of Cyberattack | Ujwal Hiranwar | [Read More](https://medium.com/p/91bda061f44a) |
-| Thu, 18 Dec 2025 14:19:46 GMT | Write-Up — Publicly Exposed MySQL on an “Inactive” Subdomain (KAIAWEB-216) | Mohamed Abdul Hamid | [Read More](https://medium.com/p/61aa704429d1) |
