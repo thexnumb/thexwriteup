@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 11:07:38 GMT | Penetration Testing Certification for Beginners | Manisha Chaudhary | [Read More](https://medium.com/p/39a9971e935b) |
+| Fri, 19 Dec 2025 11:05:10 GMT | Australia’s Noosa Council $2.3M & A Sophisticated Public Funds Sham | O. J. Okpabi | [Read More](https://medium.com/p/5bc0f07c47a3) |
+| Fri, 19 Dec 2025 11:02:41 GMT | AI Turned Her Face Into A Weapon | O. J. Okpabi | [Read More](https://medium.com/p/40bc0dcfa7c0) |
+| Fri, 19 Dec 2025 11:02:20 GMT | Why I Still Trust Terminal Logs More Than People | Franziska "Ziska" Fink | [Read More](https://medium.com/p/df227925af8b) |
+| Fri, 19 Dec 2025 11:01:38 GMT | Cryptography for Microservices | Suraj Bhandari | [Read More](https://medium.com/p/890b7130f64c) |
+| Fri, 19 Dec 2025 10:57:24 GMT | We Love Our Country, But We Don’t See Our Future Here | Vijay Kumar Gupta | [Read More](https://medium.com/p/90df1ccbb670) |
+| Fri, 19 Dec 2025 10:54:11 GMT | From Laptops to Mobiles: Why Endpoint Security Is the Backbone of Modern Cyber Defense | ANSI Technologies | [Read More](https://medium.com/p/2b7523344cac) |
+| Fri, 19 Dec 2025 10:47:50 GMT | CVE-2025–20393 (Cisco AsyncOS Zero-Day) | Virendra Kumar | [Read More](https://medium.com/p/72b35798cdf9) |
+| Fri, 19 Dec 2025 10:45:44 GMT | Where DFIR Fits in NIST’s Cyber AI Profile | Adetomiwa | [Read More](https://medium.com/p/a0c5bde15514) |
+| Fri, 19 Dec 2025 10:44:14 GMT | Digital Forensic Services Explained: What You Get and Why It Matters | SmartCLOUD Australia | [Read More](https://medium.com/p/07a4eda0ca91) |
 | Fri, 19 Dec 2025 10:35:15 GMT | Tailwind CSS Developer Job Description Template to Attract Top Talent | Dappinity Technologies | [Read More](https://medium.com/p/c5342a81217c) |
 | Fri, 19 Dec 2025 10:33:43 GMT | The Digital Defense Approach: Real Attacker Simulation vs Generic Check-Based Testing | Digital Defense | [Read More](https://medium.com/p/c995401a79aa) |
 | Fri, 19 Dec 2025 10:26:38 GMT | Kali Linux 2025.4 Released! What Changed? | Shahzaib | [Read More](https://medium.com/p/2620af4f3021) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 04:11:45 GMT | How to Automate Your SOC2 Evidence Collection | Ofri Peretz | [Read More](https://medium.com/p/ec92c6862fd2) |
 | Fri, 19 Dec 2025 04:10:11 GMT | Obfuscation — The Egg Shell File (AoC TryHackMe Write-Up) — Day 18 | Taufiqurrahman Yudhi Atmadja | [Read More](https://medium.com/p/70307c9a346d) |
 | Fri, 19 Dec 2025 04:03:42 GMT | CTF Daily Bugle - TryHackMe | Henrique | [Read More](https://medium.com/p/e3290872ddad) |
-| Fri, 19 Dec 2025 04:03:15 GMT | A Soft Goodbye | Mukul Sharda | [Read More](https://medium.com/p/4e84f6b6027a) |
-| Fri, 19 Dec 2025 03:58:48 GMT | The Mathematics of Digital Extortion: A Forensic Accountant’s Analysis of “Synthetic Negative” Data | Nezahualpilli Tlapalco | [Read More](https://medium.com/p/41bd0661d243) |
-| Fri, 19 Dec 2025 03:55:36 GMT | Phishing Prevention Fundamentals That Protect Your Digital Life in 7 Powerful Ways | Maxatlasofficial | [Read More](https://medium.com/p/c6010f345686) |
-| Fri, 19 Dec 2025 03:46:13 GMT | From the subjects of bug-bounty, I am a learner , lets learn together.. | L3v1 ⚔️ | [Read More](https://medium.com/p/345688bc0e3b) |
-| Fri, 19 Dec 2025 03:39:33 GMT | How to Use Git to Manage Your Tools, Notes, and Scripts | Aj | [Read More](https://medium.com/p/339b45ca2095) |
-| Fri, 19 Dec 2025 03:39:26 GMT | GitHub Action Secrets Vulnerable to Token Exploitation | Valentin Podkamennyi | [Read More](https://medium.com/p/d23f64e88641) |
-| Fri, 19 Dec 2025 03:38:49 GMT | Code Smell 317 — Email Handling Vulnerabilities | Maximiliano Contieri | [Read More](https://medium.com/p/cfdf66f36e64) |
-| Fri, 19 Dec 2025 03:36:20 GMT | Data Exfiltration Detection — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/4f3d5a070ecf) |
-| Fri, 19 Dec 2025 03:35:16 GMT | Tutorial Membuat Cloud Storage Pribadi dengan ownCloud, XAMPP, dan ngrok | Muhammad Ade Nur Wahyudi | [Read More](https://medium.com/p/98490a485e2e) |
-| Fri, 19 Dec 2025 03:32:39 GMT | Top 7 Tools for Progressive Delivery in Node.js | Arunangshu Das | [Read More](https://medium.com/p/e6a0ceb2344b) |
