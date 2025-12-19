@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 23:36:19 GMT | PART 2, Claude is dumber now. Claude’s self analysis. | Berend Watchus | [Read More](https://medium.com/p/7da56bcdd5ea) |
+| Fri, 19 Dec 2025 23:31:15 GMT | The Dev-Sec Friction Problem (And How to Eliminate It) | Ofri Peretz | [Read More](https://medium.com/p/99639a3869a4) |
+| Fri, 19 Dec 2025 23:27:31 GMT | The Weakest Link in Industrial Cybersecurity | Muhammad Ali Khan | [Read More](https://medium.com/p/caf19f8a36da) |
+| Fri, 19 Dec 2025 23:26:49 GMT | Alert Design in OT. If Everything Screams, Nothing Is Heard | Muhammad Ali Khan | [Read More](https://medium.com/p/75c5a247b5bc) |
+| Fri, 19 Dec 2025 23:26:04 GMT | How a “Featured” Chrome Extension Secretly Spied on Millions | Cyber-AppSec | [Read More](https://medium.com/p/377b1e64704a) |
+| Fri, 19 Dec 2025 23:25:48 GMT | Enhance Account Success with PVACreator for Bulk Creation and Management | Ichsanneng | [Read More](https://medium.com/p/91ae559cf925) |
 | Fri, 19 Dec 2025 22:57:41 GMT | ABAC (Attribute-Based Access Control): The Missing Layer of Modern Authorization | Stoic Engineer | [Read More](https://medium.com/p/8d01ae2b69d4) |
 | Fri, 19 Dec 2025 22:50:56 GMT | TryHackMe: harder Writeup | cbev | [Read More](https://medium.com/p/69b07cfe5867) |
 | Fri, 19 Dec 2025 22:37:04 GMT | Modern Red Team Operations: Initial Foothold & Discovery in Active Directory Environments | Bilal Berk karabulut | [Read More](https://medium.com/p/b5c348049904) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 16:24:03 GMT | Next.js ve React App Router Güvenlik Açığı: CVE-2025–55182 Neyi Tehdit Ediyor? | Erhan Akkaya | [Read More](https://medium.com/p/7d73851798a8) |
 | Fri, 19 Dec 2025 16:17:42 GMT | # The Quiet Bugs That Don’t Look Like Bugs | Abdulbar | [Read More](https://medium.com/p/c38c7db08364) |
 | Fri, 19 Dec 2025 16:15:18 GMT | XLMRAT WriteUP — CyberDefenders | Ichiro Dexther | [Read More](https://medium.com/p/ca3739a6c2f4) |
-| Fri, 19 Dec 2025 16:14:36 GMT | Crack the Code: Weakness vs. Vulnerability | Maikel Mardjan | [Read More](https://medium.com/p/22c8641a1faf) |
-| Fri, 19 Dec 2025 16:09:28 GMT | Introduction to SQL Injection | PriOFF | [Read More](https://medium.com/p/f4f0911f3461) |
-| Fri, 19 Dec 2025 16:05:01 GMT | What Is 2FA and Why Every One Must Use It | cryptostringer | [Read More](https://medium.com/p/68953e842a60) |
-| Fri, 19 Dec 2025 16:04:57 GMT | How to Build an IT Security Strategy That Actually Works | Cordula Boeck | [Read More](https://medium.com/p/52d842c95a6c) |
-| Fri, 19 Dec 2025 16:04:32 GMT | Stored XSS Attack | Mylescorey | [Read More](https://medium.com/p/e0b43a0ca72f) |
-| Fri, 19 Dec 2025 16:02:54 GMT | Code Red for Apple Users: Inside the WebKit Zero-Days That Just Hit Your Device | Motasem Hamdan | [Read More](https://medium.com/p/ac46e69daaba) |
