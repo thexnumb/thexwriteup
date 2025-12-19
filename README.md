@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 10:20:03 GMT | 6 Python Practices That Prevent “It Worked on My Machine” Bugs | Muhammad Huzair Awan | [Read More](https://medium.com/p/49aa9af19e08) |
+| Fri, 19 Dec 2025 10:05:44 GMT | Best VAPT Services Provider in India - Threat Detection | Samvaskaran | [Read More](https://medium.com/p/6c2bbea97945) |
+| Fri, 19 Dec 2025 09:56:57 GMT | From DIY Headaches to High-Touch Monitoring: My Experience with WatchNod | Anjali Singh | [Read More](https://medium.com/p/6e4a151c9aad) |
+| Fri, 19 Dec 2025 09:56:17 GMT | Common Security Gaps Organizations Miss Without Continuous Security Monitoring | Gavin Ellis | [Read More](https://medium.com/p/b6361a534ae5) |
+| Fri, 19 Dec 2025 09:49:14 GMT | Cyber Attack vs Cyber Incident: The Difference Businesses Ignore | vanguardtec | [Read More](https://medium.com/p/3d4039aaf80c) |
+| Fri, 19 Dec 2025 09:48:04 GMT | EU’s Cyber Resilience Act is Here — Is Your Product Ready? | Epteck GmbH | [Read More](https://medium.com/p/4c4003c379a8) |
+| Fri, 19 Dec 2025 09:45:29 GMT | Security Lab Simulation Project Part 15: Creation of Payload using Mythic — Apollo Agent and HTTP… | Jenny | [Read More](https://medium.com/p/e9566243cd89) |
+| Fri, 19 Dec 2025 09:42:50 GMT | What Are The Added Advantages Of Cyber Security Monitoring Services? | Ethanhunttwwd | [Read More](https://medium.com/p/5aec1428711d) |
 | Fri, 19 Dec 2025 09:42:06 GMT | Diploma of Information Technology: Build Practical Skills for a Digital Career | royalinternational | [Read More](https://medium.com/p/ae62ff73c3c0) |
 | Fri, 19 Dec 2025 09:37:00 GMT | Windows Watchdog Engine | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/7edf62803d9d) |
 | Fri, 19 Dec 2025 09:36:08 GMT | The New Rules of the Game: How Cybersecurity Skill Tests Define Your Career in 2026 | Benda Infotech | [Read More](https://medium.com/p/f104f172a9a1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 03:17:39 GMT | Road to Root: A Complete Walkthrough of Corrosion: 2 | Harlin Taggar | [Read More](https://medium.com/p/62c2d32cfb02) |
 | Fri, 19 Dec 2025 03:09:41 GMT | Understanding React2Shell: A Critical Vulnerability in React Server Components (CVE-2025–55182) | Frostynxth | [Read More](https://medium.com/p/9a834711c0ee) |
 | Fri, 19 Dec 2025 03:02:58 GMT | Spring Boot Made Entry Easy — But Mastery Rare | The Dev Notebook | [Read More](https://medium.com/p/0ed5a60a2816) |
-| Fri, 19 Dec 2025 03:02:26 GMT | How Tails OS Saved a Journalist’s Investigation: Real Stories of Digital Survival | Sajidur Rahman | [Read More](https://medium.com/p/49cb02c09637) |
-| Fri, 19 Dec 2025 02:58:34 GMT | Paper to Proof: Failure Modes in Appeals & Legal Service | Letro | [Read More](https://medium.com/p/b60c63910fe2) |
-| Fri, 19 Dec 2025 02:47:14 GMT | NETWORK PENTEST VISUAL GUIDE OF BACKDOORS AND NPCs — 01CS | Arudi Valentine | [Read More](https://medium.com/p/44fc8a9ea82a) |
-| Fri, 19 Dec 2025 02:36:27 GMT | Malware Analysis: Resource-Based Dropper Deploying a Masqueraded svchost.exe | HackettSec | [Read More](https://medium.com/p/4b08f2bd978d) |
-| Fri, 19 Dec 2025 02:15:48 GMT | The Password Alchemist: How a Simple Parameter Swap Led to Full Account Takeover | Fuzzyy Duck | [Read More](https://medium.com/p/d3436b226889) |
-| Fri, 19 Dec 2025 02:14:35 GMT | From Keyboards to Nuclear Warheads: Inside North Korea’s Crypto Laundering Machine | chaincertify | [Read More](https://medium.com/p/a720f5c32501) |
-| Fri, 19 Dec 2025 02:12:03 GMT | The M&S Data Breach: What Happened — and How Daifend Could Have Helped!! | Bhawini. | [Read More](https://medium.com/p/dbb6dc5897b5) |
-| Fri, 19 Dec 2025 02:11:38 GMT | Want to Be a Pentester? Master These 5 Skills ! | Shahzaib | [Read More](https://medium.com/p/69a018acc4ad) |
