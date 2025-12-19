@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 07:41:04 GMT | Is Your Data Safe? A Simple Guide to Understanding Big Tech and Privacy | Scrolling world | [Read More](https://medium.com/p/65eeb13d5627) |
+| Fri, 19 Dec 2025 07:35:22 GMT | Cyber Threat Modeling: Building Attack Trees That Predict Real Risks | Majidbasharat | [Read More](https://medium.com/p/32031804bcb7) |
+| Fri, 19 Dec 2025 07:22:59 GMT | Moorbridge Cyber Security Shares Simple Ways to Avoid Crypto Scams and Launches a No Win, No Fee… | Henry Miller | [Read More](https://medium.com/p/ac9da2a00d22) |
 | Fri, 19 Dec 2025 07:18:51 GMT | CYBER SECURITY | rajendra maurya | [Read More](https://medium.com/p/ca7d0d2ad59d) |
 | Fri, 19 Dec 2025 07:17:27 GMT | Cybersecurity as a Service for Reliable Business Defense | Archana Agarwal | [Read More](https://medium.com/p/5b2e6ee9c4eb) |
 | Fri, 19 Dec 2025 07:10:35 GMT | 5 Ways Higher Education Builds Data Resilience | Aileen Scott | [Read More](https://medium.com/p/e4ea4900d18f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 22:07:27 GMT | The Hacker Mindset Isn’t About Crime, It’s About Curiosity | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/eaf8d00fc60e) |
 | Thu, 18 Dec 2025 22:05:00 GMT | The Fortress Within the Code: Exein and Europe’s Cybersecurity Revolution | Enes Karataş | [Read More](https://medium.com/p/5ab93f2ce4a1) |
 | Thu, 18 Dec 2025 21:32:35 GMT | My Journey in IT, Cybersecurity, and Automation — Kehinde Ladepo | kehinde ladepo | [Read More](https://medium.com/p/ba7840e63bf7) |
-| Thu, 18 Dec 2025 21:31:58 GMT | HackTheBox: MonitorsFour | Rahaliashraf | [Read More](https://medium.com/p/4859add0b51c) |
-| Thu, 18 Dec 2025 21:24:32 GMT | Advent of Cyber 2025 - Day 18: Obfuscation - The Egg Shell File | Akshat Patel | [Read More](https://medium.com/p/a8102c196f4b) |
-| Thu, 18 Dec 2025 21:21:21 GMT | Google Dorking: Arama Motorunu Bir Güvenlik Aracına Dönüştürmek | Deniz Bacak | [Read More](https://medium.com/p/94838a629c17) |
