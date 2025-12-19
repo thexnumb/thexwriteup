@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 21:29:57 GMT | Beyond the Hype: Building a Reliable, Full-Cycle AI SOC Agent | Aniketagarwal | [Read More](https://medium.com/p/12aaf9dfb004) |
 | Fri, 19 Dec 2025 21:19:49 GMT | Becoming Sherlock Holmes | Juan Hernandez | [Read More](https://medium.com/p/c8bd3086d6b6) |
 | Fri, 19 Dec 2025 21:15:56 GMT | Unauthorized access to any presentation at Dropbox | Raccoon | [Read More](https://medium.com/p/604af454547d) |
 | Fri, 19 Dec 2025 21:10:41 GMT | How to Hide Your API Keys in React (The Right Way) | Azad Ansari | [Read More](https://medium.com/p/c87b578e0e27) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 15:26:13 GMT | tunn3l_v1s10n | NicholasLionel | [Read More](https://medium.com/p/8e01bb198014) |
 | Fri, 19 Dec 2025 15:19:33 GMT | Exploring Container Security with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/299cae63b3fb) |
 | Fri, 19 Dec 2025 15:19:29 GMT | Exploring Auditd Advanced Usage with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/66fbab103641) |
-| Fri, 19 Dec 2025 15:18:58 GMT | Website & Online Presence Monitoring: The Silent Safety Net Every Small Business Needs | Paradise technologies Inc | [Read More](https://medium.com/p/bf140b8d173a) |
