@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 16:26:09 GMT | Incident Snapshot: How I Capture Critical Evidence on My Linux Servers Before Damage Happens | Faruk Ahmed | [Read More](https://medium.com/p/e3304dc4e617) |
+| Fri, 19 Dec 2025 16:24:58 GMT | Cloudflare’s Lava Lamp Wall: When Internet Security Depends on Pure Chaos | Abhishek Dharmik | [Read More](https://medium.com/p/6de68df3c197) |
+| Fri, 19 Dec 2025 16:17:42 GMT | # The Quiet Bugs That Don’t Look Like Bugs | Abdulbar | [Read More](https://medium.com/p/c38c7db08364) |
+| Fri, 19 Dec 2025 16:15:18 GMT | XLMRAT WriteUP — CyberDefenders | Ichiro Dexther | [Read More](https://medium.com/p/ca3739a6c2f4) |
+| Fri, 19 Dec 2025 16:14:36 GMT | Crack the Code: Weakness vs. Vulnerability | Maikel Mardjan | [Read More](https://medium.com/p/22c8641a1faf) |
+| Fri, 19 Dec 2025 16:09:28 GMT | Introduction to SQL Injection | PriOFF | [Read More](https://medium.com/p/f4f0911f3461) |
+| Fri, 19 Dec 2025 16:05:01 GMT | What Is 2FA and Why Every One Must Use It | cryptostringer | [Read More](https://medium.com/p/68953e842a60) |
+| Fri, 19 Dec 2025 16:04:32 GMT | Stored XSS Attack | Mylescorey | [Read More](https://medium.com/p/e0b43a0ca72f) |
+| Fri, 19 Dec 2025 16:02:54 GMT | Code Red for Apple Users: Inside the WebKit Zero-Days That Just Hit Your Device | Motasem Hamdan | [Read More](https://medium.com/p/ac46e69daaba) |
+| Fri, 19 Dec 2025 15:59:07 GMT | How I Set Up a SIEM Using Wazuh | Felicity Lois | [Read More](https://medium.com/p/f2e833a16374) |
+| Fri, 19 Dec 2025 15:56:08 GMT | CCTV Installation Services In Hyderabad - Anu Cc Cameras | Anucccameras | [Read More](https://medium.com/p/b7c705e38c02) |
+| Fri, 19 Dec 2025 15:52:33 GMT | Inside the Attacker’s Mind: Lessons from Ethical Hacking Labs on Social Engineering and SMB… | Edwin Atali | [Read More](https://medium.com/p/33f86b51feec) |
+| Fri, 19 Dec 2025 15:44:55 GMT | Loss Prevention Security: A Complete Guide to Protecting Your Business from Theft and Shrinkage | Hirasarfraz | [Read More](https://medium.com/p/c7156448d136) |
 | Fri, 19 Dec 2025 15:37:34 GMT | Why Zero Trust Quietly Fails in Web3 | Abatis ABTU | [Read More](https://medium.com/p/146f01fc49cc) |
 | Fri, 19 Dec 2025 15:37:23 GMT | PicoCTF — Matryoshka doll | uikayo | [Read More](https://medium.com/p/6511e14cbb05) |
 | Fri, 19 Dec 2025 15:36:51 GMT | Ağ Güvenliğinin İki Temel Taşı: IDS ve IPS Arasındaki Kritik Farklar | Muhammed Emin Berberoğlu | [Read More](https://medium.com/p/9a3f2af85f7c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 10:20:03 GMT | 6 Python Practices That Prevent “It Worked on My Machine” Bugs | Muhammad Huzair Awan | [Read More](https://medium.com/p/49aa9af19e08) |
 | Fri, 19 Dec 2025 10:16:31 GMT | Global Software & IT Trends of 2025: What CTOs Must Act on Now | Shamim Rajani | [Read More](https://medium.com/p/050529fa0707) |
 | Fri, 19 Dec 2025 10:05:44 GMT | Best VAPT Services Provider in India - Threat Detection | Samvaskaran | [Read More](https://medium.com/p/6c2bbea97945) |
-| Fri, 19 Dec 2025 09:56:57 GMT | From DIY Headaches to High-Touch Monitoring: My Experience with WatchNod | Anjali Singh | [Read More](https://medium.com/p/6e4a151c9aad) |
-| Fri, 19 Dec 2025 09:56:17 GMT | Common Security Gaps Organizations Miss Without Continuous Security Monitoring | Gavin Ellis | [Read More](https://medium.com/p/b6361a534ae5) |
-| Fri, 19 Dec 2025 09:49:14 GMT | Cyber Attack vs Cyber Incident: The Difference Businesses Ignore | vanguardtec | [Read More](https://medium.com/p/3d4039aaf80c) |
-| Fri, 19 Dec 2025 09:48:04 GMT | EU’s Cyber Resilience Act is Here — Is Your Product Ready? | Epteck GmbH | [Read More](https://medium.com/p/4c4003c379a8) |
-| Fri, 19 Dec 2025 09:45:29 GMT | Security Lab Simulation Project Part 15: Creation of Payload using Mythic — Apollo Agent and HTTP… | Jenny | [Read More](https://medium.com/p/e9566243cd89) |
-| Fri, 19 Dec 2025 09:42:50 GMT | What Are The Added Advantages Of Cyber Security Monitoring Services? | Ethanhunttwwd | [Read More](https://medium.com/p/5aec1428711d) |
-| Fri, 19 Dec 2025 09:42:06 GMT | Diploma of Information Technology: Build Practical Skills for a Digital Career | royalinternational | [Read More](https://medium.com/p/ae62ff73c3c0) |
-| Fri, 19 Dec 2025 09:37:00 GMT | Windows Watchdog Engine | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/7edf62803d9d) |
-| Fri, 19 Dec 2025 09:36:08 GMT | The New Rules of the Game: How Cybersecurity Skill Tests Define Your Career in 2026 | Benda Infotech | [Read More](https://medium.com/p/f104f172a9a1) |
-| Fri, 19 Dec 2025 09:35:50 GMT | The royal Gift Card Scam | HRH Prince Angel Melendez II | [Read More](https://medium.com/p/93f0cfca5499) |
-| Fri, 19 Dec 2025 09:34:19 GMT | PortSwigger: XSS otaqları (1) | Farid Mehdiyev | [Read More](https://medium.com/p/6c32d337374d) |
-| Fri, 19 Dec 2025 09:20:36 GMT | BloodCat Updated to Version 1.3!!! | Мартин. | [Read More](https://medium.com/p/5f44b0a0d84b) |
-| Fri, 19 Dec 2025 09:15:39 GMT | Advent of Cyber 25 — Day 18 — Obfuscation — The Egg Shell File | cybertactic | [Read More](https://medium.com/p/49cb0f7ee261) |
