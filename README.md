@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 01:40:00 GMT | I Automated Wildcard SSL with Cloudflare DNS for Proxy Servers (Marzban & X-UI) | Tawana Mohammadi | [Read More](https://medium.com/p/b899fb341e20) |
+| Fri, 19 Dec 2025 01:36:50 GMT | bt What Men Truly Desire Beyond Physical Intimacy: 5 Key Aspects Women Often Overlook | Xiexiange | [Read More](https://medium.com/p/59ddbf33fd1b) |
+| Fri, 19 Dec 2025 01:32:18 GMT | 5 NFT Revenue Splits That Don’t Leak Funds | Quaxel | [Read More](https://medium.com/p/211d582a19fd) |
+| Fri, 19 Dec 2025 01:02:18 GMT | Broken Access Control: low-privilege user dapat Menghapus Lampiran Slip Gaji Melalui Endpoint… | Robi Mohamad subagja | [Read More](https://medium.com/p/ba7e3b58c04b) |
+| Fri, 19 Dec 2025 00:59:20 GMT | Crew | Chris Perkins | [Read More](https://medium.com/p/f3efdcb804c2) |
+| Fri, 19 Dec 2025 00:56:15 GMT | The React Server Components Incident Wasn’t a Bug. It Was a Trust Failure. | Saumya Kant Kamal | [Read More](https://medium.com/p/685affe45bed) |
+| Fri, 19 Dec 2025 00:43:05 GMT | When “Harmless” Files Become A Malware Delivery Trap | Geoffrey Wenger | [Read More](https://medium.com/p/3e1ac69e35e1) |
+| Fri, 19 Dec 2025 00:43:02 GMT | Honest Computer Maintenance Without Subscriptions Or Tracking | Geoffrey Wenger | [Read More](https://medium.com/p/861316525905) |
+| Fri, 19 Dec 2025 00:36:48 GMT | Moving Abroad Isn’t a Fairy Tale: The Reality I Had to Learn the Hard Way | M Umar Akhlaq | [Read More](https://medium.com/p/8de72a55730d) |
+| Fri, 19 Dec 2025 00:19:54 GMT | Malvertising Leads to Fake DockerDesktop.exe “GPUGate” Dropper | Maurice Fielenbach | [Read More](https://medium.com/p/a320f8bf7f89) |
+| Fri, 19 Dec 2025 00:11:19 GMT | Dynamic Analysis of a Windows Keylogger with Process Monitor and Process Explorer | bit_tico | [Read More](https://medium.com/p/207625e8ffd0) |
+| Fri, 19 Dec 2025 00:05:19 GMT | The Most Dangerous AI Feature Isn’t Chatbots, It’s Undetectable Image Editing | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/c29f9ccd2815) |
+| Thu, 18 Dec 2025 23:54:42 GMT | How I built a Secure Guest Network Using VLANs and ACLs | Sophia Mitchell | [Read More](https://medium.com/p/bc809174e9ce) |
+| Thu, 18 Dec 2025 23:52:08 GMT | Linux logrotate: Prevent Disk Full Outages Without Losing Logs | Murat Kurkoglu | [Read More](https://medium.com/p/b8699926a618) |
+| Thu, 18 Dec 2025 23:36:54 GMT | The Cartographer’s Map | Dominic Eaton 2 | [Read More](https://medium.com/p/f257af384d24) |
 | Thu, 18 Dec 2025 23:32:51 GMT | React2Shell Shows Us Why JavaScript On The Server Was A Mistake | Andrew Zuo | [Read More](https://medium.com/p/fdb3cdcc0ec1) |
 | Thu, 18 Dec 2025 23:18:50 GMT | The DeRec Alliance: The Treaty to End the Crypto Casino | Jeffrey Smith | [Read More](https://medium.com/p/e9d4720cfb5f) |
 | Thu, 18 Dec 2025 23:12:52 GMT | The Unseen Layer Of Tech That Makes The Modern World Feel Supernatural | Abstract Mind | [Read More](https://medium.com/p/5e578e778115) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 16:52:16 GMT | I Tried to Break My Own AI (and Learned a Lot) | Elisheba Builds | [Read More](https://medium.com/p/092ed484230c) |
 | Thu, 18 Dec 2025 16:41:30 GMT | Fake Shopping Domains Surge as Threat Actors Exploit the 2025 Holiday Season | Chetan Seripally | [Read More](https://medium.com/p/d0605aa17371) |
 | Thu, 18 Dec 2025 16:25:07 GMT | Zero Trust Security — Why “Trust No One” Is the Future of the Internet | Code x Design by Pranav | [Read More](https://medium.com/p/04c1c8f3c4c0) |
-| Thu, 18 Dec 2025 16:12:58 GMT | Payload Shape Injection: Deep Dive & LLM-Augmented Exploration E2 | Mohammad Abir Abbas | [Read More](https://medium.com/p/c39ba251bc7b) |
-| Thu, 18 Dec 2025 16:12:31 GMT | Marketing & Cybersecurity: Protecting Customer Data in Campaigns | Digital Defense | [Read More](https://medium.com/p/2791e940779f) |
-| Thu, 18 Dec 2025 16:08:36 GMT | CISO Communities: Cybersecurity’s Secret Weapon | IT_Engineer | [Read More](https://medium.com/p/2b5c4f5b8e8d) |
-| Thu, 18 Dec 2025 16:06:15 GMT | ‘React’ vulnerability sparked the industry | Andrii Shyshenko | [Read More](https://medium.com/p/a3f4a24d9816) |
-| Thu, 18 Dec 2025 16:04:17 GMT | The Day a Company Learned Passwords Are a Business Risk | Udit Varshney | [Read More](https://medium.com/p/65e1777929ad) |
-| Thu, 18 Dec 2025 16:03:57 GMT | Should you accept cookies while visiting different websites? | Ashish Kr. Jha | [Read More](https://medium.com/p/ce029a7e5b4f) |
-| Thu, 18 Dec 2025 16:00:31 GMT | A Featured Chrome Extension Was Quietly Recording Millions of AI Conversations | Decentr | [Read More](https://medium.com/p/b78993a693d9) |
-| Thu, 18 Dec 2025 15:54:57 GMT | Three Delivery Models That Survived, Everything Else Died | Petra Ivanigova | [Read More](https://medium.com/p/4237a835c386) |
-| Thu, 18 Dec 2025 15:50:50 GMT | React2Shell: Anatomy of a 10/10 RCE Nightmare (CVE-2025–55182) | Theodore John.S | [Read More](https://medium.com/p/66df5bef4da2) |
-| Thu, 18 Dec 2025 15:49:25 GMT | Human + AI = Red Team 2.0 | Aniket Das | [Read More](https://medium.com/p/bff0fde4e0df) |
-| Thu, 18 Dec 2025 15:46:42 GMT | [DEEP RESEARCH] Zero-Days Are a Distraction: 2025’s Biggest Losses Were Stolen Tokens + OAuth | Wes Young | [Read More](https://medium.com/p/57810377494c) |
-| Thu, 18 Dec 2025 15:41:34 GMT | Top 10 Tech Skills to Master in 2026 | Sarah Morino | [Read More](https://medium.com/p/65030d2e3b57) |
-| Thu, 18 Dec 2025 15:37:51 GMT | Cybersecurity for Utilities: Safeguarding the Backbone of Modern Society | Perimeterwatch | [Read More](https://medium.com/p/c46f149a3884) |
-| Thu, 18 Dec 2025 15:32:48 GMT | Architecting for Compliance and Scale: Cloud Engineering for Digital Banking | Yokota Strong | [Read More](https://medium.com/p/49197e058c37) |
-| Thu, 18 Dec 2025 15:26:26 GMT | How I Found the Skill to Manage Relationship Vulnerability | Cater Aleey | [Read More](https://medium.com/p/f2d1612c0b64) |
