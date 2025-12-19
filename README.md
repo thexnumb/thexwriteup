@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 10:35:15 GMT | Tailwind CSS Developer Job Description Template to Attract Top Talent | Dappinity Technologies | [Read More](https://medium.com/p/c5342a81217c) |
+| Fri, 19 Dec 2025 10:33:43 GMT | The Digital Defense Approach: Real Attacker Simulation vs Generic Check-Based Testing | Digital Defense | [Read More](https://medium.com/p/c995401a79aa) |
+| Fri, 19 Dec 2025 10:26:38 GMT | Kali Linux 2025.4 Released! What Changed? | Shahzaib | [Read More](https://medium.com/p/2620af4f3021) |
+| Fri, 19 Dec 2025 10:26:04 GMT | 5 Critical Sysmon Alerts Every Organization Should Know | SpaceIO | [Read More](https://medium.com/p/e418e0c6ae52) |
 | Fri, 19 Dec 2025 10:20:03 GMT | 6 Python Practices That Prevent “It Worked on My Machine” Bugs | Muhammad Huzair Awan | [Read More](https://medium.com/p/49aa9af19e08) |
 | Fri, 19 Dec 2025 10:05:44 GMT | Best VAPT Services Provider in India - Threat Detection | Samvaskaran | [Read More](https://medium.com/p/6c2bbea97945) |
 | Fri, 19 Dec 2025 09:56:57 GMT | From DIY Headaches to High-Touch Monitoring: My Experience with WatchNod | Anjali Singh | [Read More](https://medium.com/p/6e4a151c9aad) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 03:36:20 GMT | Data Exfiltration Detection — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/4f3d5a070ecf) |
 | Fri, 19 Dec 2025 03:35:16 GMT | Tutorial Membuat Cloud Storage Pribadi dengan ownCloud, XAMPP, dan ngrok | Muhammad Ade Nur Wahyudi | [Read More](https://medium.com/p/98490a485e2e) |
 | Fri, 19 Dec 2025 03:32:39 GMT | Top 7 Tools for Progressive Delivery in Node.js | Arunangshu Das | [Read More](https://medium.com/p/e6a0ceb2344b) |
-| Fri, 19 Dec 2025 03:32:39 GMT | The USB Trap: How a Simple USB Shortcut Fuels a Silent Crypto-Mining Operation | Deven Chhajed | [Read More](https://medium.com/p/2d8d1a143ff8) |
-| Fri, 19 Dec 2025 03:17:39 GMT | Road to Root: A Complete Walkthrough of Corrosion: 2 | Harlin Taggar | [Read More](https://medium.com/p/62c2d32cfb02) |
-| Fri, 19 Dec 2025 03:09:41 GMT | Understanding React2Shell: A Critical Vulnerability in React Server Components (CVE-2025–55182) | Frostynxth | [Read More](https://medium.com/p/9a834711c0ee) |
-| Fri, 19 Dec 2025 03:02:58 GMT | Spring Boot Made Entry Easy — But Mastery Rare | The Dev Notebook | [Read More](https://medium.com/p/0ed5a60a2816) |
