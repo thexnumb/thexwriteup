@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 19:10:25 GMT | SSRF PortSwigger Academy (Lab 1 solution) | Ammar Ahmed | [Read More](https://medium.com/p/ece35c11c7d9) |
+| Fri, 19 Dec 2025 19:06:54 GMT | I am studying networking and preparing for certifications like CompTIA Network+. | Hardeep Kaur | [Read More](https://medium.com/p/a9eb3df82e06) |
+| Fri, 19 Dec 2025 19:06:33 GMT | Centralizing JWT Authentication in .NET Microservices | .Net Labs | [Read More](https://medium.com/p/f0833ce586c3) |
+| Fri, 19 Dec 2025 19:06:30 GMT | Migrate Your PYRO Tokens Today. Don’t Miss the Opportunity! | Liamnoah | [Read More](https://medium.com/p/ff5ce5f640f8) |
+| Fri, 19 Dec 2025 19:05:40 GMT | Trust Is No Longer Automatic: How to Verify AI Images and Videos | Kael Virex | [Read More](https://medium.com/p/83e28d5b4a98) |
+| Fri, 19 Dec 2025 19:01:21 GMT | Your AI Coding Assistant Is 10x Faster at Shipping Vulnerabilities | AhmedAbdelmenem | [Read More](https://medium.com/p/739472065f27) |
+| Fri, 19 Dec 2025 18:55:07 GMT | Weekly Cyber Threat Bulletin: 18 December 2025 | Marcelle Lee | [Read More](https://medium.com/p/46dabd186b27) |
+| Fri, 19 Dec 2025 18:51:50 GMT | Recovering Data from a Failing HDD Inside a Live Proxmox Homelab | Vetri | [Read More](https://medium.com/p/8b8af270ac16) |
+| Fri, 19 Dec 2025 18:49:25 GMT | Romance | AmyChen | [Read More](https://medium.com/p/4752e9ead6e5) |
+| Fri, 19 Dec 2025 18:48:30 GMT | Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | KRY | [Read More](https://medium.com/p/c4c378cc6566) |
+| Fri, 19 Dec 2025 18:48:29 GMT | A Simple Guide to HTTPS (SSL/TLS) Certificate Updates for Everyone | Darshana Mahesh | [Read More](https://medium.com/p/3398e8884f04) |
+| Fri, 19 Dec 2025 18:47:36 GMT | Adding Differential Privacy to Evolution Strategies | David Zagardo | [Read More](https://medium.com/p/cd9de8e273ae) |
+| Fri, 19 Dec 2025 18:45:43 GMT | Lab: DOM XSS in document.write sink using source location.search inside a select element | KRY | [Read More](https://medium.com/p/3186e91adef7) |
+| Fri, 19 Dec 2025 18:40:01 GMT | University CTF 2025 Writeup: SHL33T Challenge | Taufiqurrahman Yudhi Atmadja | [Read More](https://medium.com/p/522a0726aa75) |
+| Fri, 19 Dec 2025 18:38:07 GMT | Building a Cybersecurity Home Lab — Part 5.1: Disabling AV via GPO | JBXSec | [Read More](https://medium.com/p/bc54204c2d67) |
+| Fri, 19 Dec 2025 18:37:20 GMT | The History of Cybersecurity | Abhiram Boyanapalli | [Read More](https://medium.com/p/41b65ca8c86f) |
 | Fri, 19 Dec 2025 18:23:07 GMT | Advent of Cyber 2025 Day 19 - TryHackMe - ICS/Modbus - Claus for Concern - WriteUp | Axoloth | [Read More](https://medium.com/p/cea119b5802a) |
 | Fri, 19 Dec 2025 18:16:46 GMT | Information disclosure, but not in the way you might expect | Rajveer | [Read More](https://medium.com/p/a914479e06cc) |
 | Fri, 19 Dec 2025 18:07:46 GMT | From Connection to Controversy: The Dual Nature of Social Media in Today’s Society | Miss.Yine Yenki Nyika | [Read More](https://medium.com/p/e4175cbca435) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 14:05:17 GMT | Red Team vs Blue Team: What College Never Teaches You | Asmit Patil | [Read More](https://medium.com/p/d09f22fd7076) |
 | Fri, 19 Dec 2025 13:57:53 GMT | Surge in Active Exploitation Impacts Core Infrastructure and IoT Devices | Loginsoft | [Read More](https://medium.com/p/be9fa3e4e923) |
 | Fri, 19 Dec 2025 13:50:37 GMT | Book domestic flights for 2,500 points | Daily Drop | [Read More](https://medium.com/p/7de3efd5239f) |
-| Fri, 19 Dec 2025 13:47:22 GMT | How i Found Easy ₹5,000 IDOR - Bug Bounty Writeup - P3 | Rajankumarbarik | [Read More](https://medium.com/p/27348656c4cd) |
-| Fri, 19 Dec 2025 13:42:36 GMT | Day 19 — Secret Management (The Okterakt) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/2ba9881c57fb) |
-| Fri, 19 Dec 2025 13:39:24 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS | Cruz | [Read More](https://medium.com/p/a4ed3b377f54) |
-| Fri, 19 Dec 2025 13:33:25 GMT | Understanding Cybersecurity Trends and Challenges in 2026: A Beginner’s Guide | Warda Saleem | [Read More](https://medium.com/p/49a51631c5d8) |
-| Fri, 19 Dec 2025 13:32:45 GMT | The Signal and the Noise: Shadow AI Doesn’t Matter | Potech | [Read More](https://medium.com/p/f4644128f537) |
-| Fri, 19 Dec 2025 13:28:51 GMT | m00nwalk2 write up | Radja | [Read More](https://medium.com/p/45839987f4c7) |
-| Fri, 19 Dec 2025 13:25:14 GMT | Claude got dumber: When Claude AI Lobotomizes Itself While Writing About Its Own Decay | Berend Watchus | [Read More](https://medium.com/p/6f16b84f9d85) |
-| Fri, 19 Dec 2025 13:18:54 GMT | 資訊安全 — CIA 與 DAD 三要素是什麼？ | Andy Lu | [Read More](https://medium.com/p/f8274306caf2) |
-| Fri, 19 Dec 2025 13:15:18 GMT | On-Device ID Recognition for Fast and Secure Verification | OCR Studio | [Read More](https://medium.com/p/c121fea1dd21) |
-| Fri, 19 Dec 2025 13:15:06 GMT | The Critical Link: Why Cyber Security Is Essential to Effective Safeguarding | Jeff Kingsland | [Read More](https://medium.com/p/3d6d3a757e75) |
-| Fri, 19 Dec 2025 13:12:55 GMT | PicoCTF Writeup — Wireshark twoo twooo two twoo… | Hans Immanuel Julius | [Read More](https://medium.com/p/ad836daad815) |
-| Fri, 19 Dec 2025 13:09:16 GMT | Next.js in Kubernetes: How I Solved the ECONNREFUSED Nightmare | KOLOGO B  Josias Yannick | [Read More](https://medium.com/p/f6771349a7a6) |
-| Fri, 19 Dec 2025 13:03:45 GMT | What is Hyperautomation in Modern Cybersecurity ? | Stellar Cyber | [Read More](https://medium.com/p/7e0683709f8a) |
-| Fri, 19 Dec 2025 13:01:00 GMT | Everything Wrong With Cybersecurity Education (And What We’re Doing About It) | Ulrich Swart | [Read More](https://medium.com/p/1b4cfc4e03e1) |
-| Fri, 19 Dec 2025 12:56:09 GMT | Digler: The Modern Forensic Disk Analysis and File Recovery Toolkit | Pralin Khaira | [Read More](https://medium.com/p/5c4bbc0a2c9a) |
-| Fri, 19 Dec 2025 12:55:20 GMT | AI vs. AI: How Voidly’s Hydra Outsmarts Automated Censorship | Voidly | [Read More](https://medium.com/p/8d722a7a0396) |
