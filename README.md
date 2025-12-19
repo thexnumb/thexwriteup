@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 09:42:06 GMT | Diploma of Information Technology: Build Practical Skills for a Digital Career | royalinternational | [Read More](https://medium.com/p/ae62ff73c3c0) |
+| Fri, 19 Dec 2025 09:37:00 GMT | Windows Watchdog Engine | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/7edf62803d9d) |
+| Fri, 19 Dec 2025 09:36:08 GMT | The New Rules of the Game: How Cybersecurity Skill Tests Define Your Career in 2026 | Benda Infotech | [Read More](https://medium.com/p/f104f172a9a1) |
+| Fri, 19 Dec 2025 09:35:50 GMT | The royal Gift Card Scam | HRH Prince Angel Melendez II | [Read More](https://medium.com/p/93f0cfca5499) |
+| Fri, 19 Dec 2025 09:34:19 GMT | PortSwigger: XSS otaqları (1) | Farid Mehdiyev | [Read More](https://medium.com/p/6c32d337374d) |
 | Fri, 19 Dec 2025 09:20:36 GMT | BloodCat Updated to Version 1.3!!! | Мартин. | [Read More](https://medium.com/p/5f44b0a0d84b) |
 | Fri, 19 Dec 2025 09:15:39 GMT | Advent of Cyber 25 — Day 18 — Obfuscation — The Egg Shell File | cybertactic | [Read More](https://medium.com/p/49cb0f7ee261) |
 | Fri, 19 Dec 2025 09:11:31 GMT | Top Methods for Monitoring and Responding to Security Incidents | Rahman Iqbal | [Read More](https://medium.com/p/5edca0e4d3f8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 02:14:35 GMT | From Keyboards to Nuclear Warheads: Inside North Korea’s Crypto Laundering Machine | chaincertify | [Read More](https://medium.com/p/a720f5c32501) |
 | Fri, 19 Dec 2025 02:12:03 GMT | The M&S Data Breach: What Happened — and How Daifend Could Have Helped!! | Bhawini. | [Read More](https://medium.com/p/dbb6dc5897b5) |
 | Fri, 19 Dec 2025 02:11:38 GMT | Want to Be a Pentester? Master These 5 Skills ! | Shahzaib | [Read More](https://medium.com/p/69a018acc4ad) |
-| Fri, 19 Dec 2025 02:09:12 GMT | Hidden Admin Tools → Full Exploitation Chains | Monika sharma | [Read More](https://medium.com/p/eb36d9132193) |
-| Fri, 19 Dec 2025 02:00:03 GMT | CVE-2025–52692: Discovery and Exploitation of Zero-day Vulnerability in Linksys E9450-SG Router | Jun Rong | [Read More](https://medium.com/p/cda5c829bbf9) |
-| Fri, 19 Dec 2025 01:40:00 GMT | I Automated Wildcard SSL with Cloudflare DNS for Proxy Servers (Marzban & X-UI) | Tawana Mohammadi | [Read More](https://medium.com/p/b899fb341e20) |
-| Fri, 19 Dec 2025 01:36:50 GMT | bt What Men Truly Desire Beyond Physical Intimacy: 5 Key Aspects Women Often Overlook | Xiexiange | [Read More](https://medium.com/p/59ddbf33fd1b) |
-| Fri, 19 Dec 2025 01:32:18 GMT | 5 NFT Revenue Splits That Don’t Leak Funds | Quaxel | [Read More](https://medium.com/p/211d582a19fd) |
