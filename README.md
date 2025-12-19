@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 19:28:25 GMT | Exploring Penetration Testing: SMB Enumeration and Social Engineering with Website Cloning | Seun odebode | [Read More](https://medium.com/p/315fb5ea9b4d) |
+| Fri, 19 Dec 2025 19:24:14 GMT | How to Migrate PYRO Tokens. Upgrade Before It’s Too Late! | Jamesnoah | [Read More](https://medium.com/p/2c8fd42f1a54) |
 | Fri, 19 Dec 2025 19:10:25 GMT | SSRF PortSwigger Academy (Lab 1 solution) | Ammar Ahmed | [Read More](https://medium.com/p/ece35c11c7d9) |
 | Fri, 19 Dec 2025 19:06:54 GMT | I am studying networking and preparing for certifications like CompTIA Network+. | Hardeep Kaur | [Read More](https://medium.com/p/a9eb3df82e06) |
 | Fri, 19 Dec 2025 19:06:33 GMT | Centralizing JWT Authentication in .NET Microservices | .Net Labs | [Read More](https://medium.com/p/f0833ce586c3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 14:12:36 GMT | The Kind of Admiration That Never Gets Close | maa | [Read More](https://medium.com/p/0b0afe38e32e) |
 | Fri, 19 Dec 2025 14:06:42 GMT | Active Directory Pratik Rehberi : V “Dayanıklılık & Ağ Entegrasyonu” | Taha Altın | [Read More](https://medium.com/p/b025d490bc7e) |
 | Fri, 19 Dec 2025 14:05:17 GMT | Red Team vs Blue Team: What College Never Teaches You | Asmit Patil | [Read More](https://medium.com/p/d09f22fd7076) |
-| Fri, 19 Dec 2025 13:57:53 GMT | Surge in Active Exploitation Impacts Core Infrastructure and IoT Devices | Loginsoft | [Read More](https://medium.com/p/be9fa3e4e923) |
-| Fri, 19 Dec 2025 13:50:37 GMT | Book domestic flights for 2,500 points | Daily Drop | [Read More](https://medium.com/p/7de3efd5239f) |
