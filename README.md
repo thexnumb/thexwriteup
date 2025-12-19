@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 14:41:15 GMT | Biblioteca — THM Writeup | Kavin Jindal | [Read More](https://medium.com/p/78dd46cff0d8) |
+| Fri, 19 Dec 2025 14:32:43 GMT | (Comptia A+) Safeguarding Essential Data: A Technician’s Guide to Handling Regulated Information | Vignesh R | [Read More](https://medium.com/p/8ac319f2366f) |
 | Fri, 19 Dec 2025 14:14:58 GMT | Aftermouth | JustJules | [Read More](https://medium.com/p/bcc161aaf9b9) |
 | Fri, 19 Dec 2025 14:12:36 GMT | The Kind of Admiration That Never Gets Close | maa | [Read More](https://medium.com/p/0b0afe38e32e) |
 | Fri, 19 Dec 2025 14:06:42 GMT | Active Directory Pratik Rehberi : V “Dayanıklılık & Ağ Entegrasyonu” | Taha Altın | [Read More](https://medium.com/p/b025d490bc7e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 08:00:29 GMT | Open Source Intelligence (OSINT) Analysis: Digital Risks in the Nigerian Banking Sector. | Adaeze Damian | [Read More](https://medium.com/p/01eb6fdc48dd) |
 | Fri, 19 Dec 2025 07:59:28 GMT | SOC Services in Malaysia: Strengthening 24/7 Cyber Threat Monitoring | Prakash Factosecure | [Read More](https://medium.com/p/40738dc817f5) |
 | Fri, 19 Dec 2025 07:58:50 GMT | How to Integrate a Honeypot with Wazuh SIEM (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/446e389910ef) |
-| Fri, 19 Dec 2025 07:56:43 GMT | Is​‍​‌‍​‍‌​‍​‌‍​‍‌ Your Infrastructure Secure? Why You Need VAPT Before It’s Too Late | Clouds Dubai | [Read More](https://medium.com/p/67206bb8d5dc) |
-| Fri, 19 Dec 2025 07:54:18 GMT | AWS S3 Bucket | Somesh | [Read More](https://medium.com/p/554d89871407) |
