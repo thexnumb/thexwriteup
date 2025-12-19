@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 22:19:40 GMT | Epic Fails in Learning CS — And How to Crush Them | Aras Darweesh | [Read More](https://medium.com/p/3fd697ddc6cd) |
+| Fri, 19 Dec 2025 22:11:17 GMT | China Cyberspace Powered by AI | European Values Center for Security Policy | [Read More](https://medium.com/p/e270ea556e22) |
+| Fri, 19 Dec 2025 22:04:58 GMT | Odysafe CTI Platform: The Open-Source Tool That Actually Simplifies IOC Management | ShadowBlue | [Read More](https://medium.com/p/94058191dd91) |
+| Fri, 19 Dec 2025 22:02:38 GMT | Scammers in China Are Using AI-Generated Images to Get Refunds | Abstract Mind | [Read More](https://medium.com/p/bd8a56f643c4) |
+| Fri, 19 Dec 2025 22:00:37 GMT | Try Hack Me- Easy Peasy Walkthrough | Herrfuhrer | [Read More](https://medium.com/p/f1e8fb7926ab) |
+| Fri, 19 Dec 2025 21:48:31 GMT | 2025 Report: Libertas Alpha Network | Libertas Alpha | [Read More](https://medium.com/p/2acba979b08a) |
+| Fri, 19 Dec 2025 21:43:26 GMT | What I Learned from Hands-On Ethical Hacking Labs: Website Cloning & SMB Enumeration | Mohamed Lebbie | [Read More](https://medium.com/p/f85001671156) |
+| Fri, 19 Dec 2025 21:35:44 GMT | Storm | Chris Perkins | [Read More](https://medium.com/p/e6f374c21fc7) |
 | Fri, 19 Dec 2025 21:29:57 GMT | Beyond the Hype: Building a Reliable, Full-Cycle AI SOC Agent | Aniketagarwal | [Read More](https://medium.com/p/12aaf9dfb004) |
 | Fri, 19 Dec 2025 21:19:49 GMT | Becoming Sherlock Holmes | Juan Hernandez | [Read More](https://medium.com/p/c8bd3086d6b6) |
 | Fri, 19 Dec 2025 21:15:56 GMT | Unauthorized access to any presentation at Dropbox | Raccoon | [Read More](https://medium.com/p/604af454547d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 15:44:55 GMT | Loss Prevention Security: A Complete Guide to Protecting Your Business from Theft and Shrinkage | Hirasarfraz | [Read More](https://medium.com/p/c7156448d136) |
 | Fri, 19 Dec 2025 15:37:34 GMT | Why Zero Trust Quietly Fails in Web3 | Abatis ABTU | [Read More](https://medium.com/p/146f01fc49cc) |
 | Fri, 19 Dec 2025 15:37:23 GMT | PicoCTF — Matryoshka doll | uikayo | [Read More](https://medium.com/p/6511e14cbb05) |
-| Fri, 19 Dec 2025 15:36:51 GMT | Ağ Güvenliğinin İki Temel Taşı: IDS ve IPS Arasındaki Kritik Farklar | Muhammed Emin Berberoğlu | [Read More](https://medium.com/p/9a3f2af85f7c) |
-| Fri, 19 Dec 2025 15:32:47 GMT | How We Debug Event-Driven Systems Without Losing Our Minds | Lakshika | [Read More](https://medium.com/p/573ec28786ea) |
-| Fri, 19 Dec 2025 15:31:35 GMT | Stored XSS (Kalıcı XSS) | Melih Yılmaz | [Read More](https://medium.com/p/a2ce747f1de0) |
-| Fri, 19 Dec 2025 15:30:43 GMT | TryHackMe — PrintNightmare Thrice! - A Short & Simple Writeup | CP4rrot | [Read More](https://medium.com/p/25fa20f57c08) |
-| Fri, 19 Dec 2025 15:28:14 GMT | TT$100 Billion Spent, 7,400+ Murders Recorded: Trinidad and Tobago’s Security Dilemma | True Democracy TT | [Read More](https://medium.com/p/2f717ce6284e) |
-| Fri, 19 Dec 2025 15:26:13 GMT | tunn3l_v1s10n | NicholasLionel | [Read More](https://medium.com/p/8e01bb198014) |
-| Fri, 19 Dec 2025 15:19:33 GMT | Exploring Container Security with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/299cae63b3fb) |
-| Fri, 19 Dec 2025 15:19:29 GMT | Exploring Auditd Advanced Usage with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/66fbab103641) |
