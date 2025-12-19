@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 05:31:56 GMT | Digital Marketing + IT: Why Businesses Succeed Faster With Integrated Technology Solutions | Concentics Private Limited | [Read More](https://medium.com/p/979b2d457a74) |
 | Fri, 19 Dec 2025 05:13:07 GMT | Best Summer Training in Lucknow for Cybersecurity & IT Students (2025 Guide) | Ankit rai | [Read More](https://medium.com/p/874e0ecc3781) |
 | Fri, 19 Dec 2025 05:12:53 GMT | 7 Reasons Learning Foundations Beats Learning Tools | Saurav Singh | [Read More](https://medium.com/p/2b5997bc068d) |
 | Fri, 19 Dec 2025 05:10:26 GMT | VIP Security Services in Dubai — Trusted Protection for High-Profile Clients | Delight international Security Services | [Read More](https://medium.com/p/09bf1f5eadb3) |
@@ -27,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 04:03:42 GMT | CTF Daily Bugle - TryHackMe | Henrique | [Read More](https://medium.com/p/e3290872ddad) |
 | Fri, 19 Dec 2025 04:03:15 GMT | A Soft Goodbye | Mukul Sharda | [Read More](https://medium.com/p/4e84f6b6027a) |
 | Fri, 19 Dec 2025 03:58:48 GMT | The Mathematics of Digital Extortion: A Forensic Accountant’s Analysis of “Synthetic Negative” Data | Nezahualpilli Tlapalco | [Read More](https://medium.com/p/41bd0661d243) |
+| Fri, 19 Dec 2025 03:55:36 GMT | Phishing Prevention Fundamentals That Protect Your Digital Life in 7 Powerful Ways | Maxatlasofficial | [Read More](https://medium.com/p/c6010f345686) |
 | Fri, 19 Dec 2025 03:46:13 GMT | From the subjects of bug-bounty, I am a learner , lets learn together.. | L3v1 ⚔️ | [Read More](https://medium.com/p/345688bc0e3b) |
 | Fri, 19 Dec 2025 03:39:33 GMT | How to Use Git to Manage Your Tools, Notes, and Scripts | Aj | [Read More](https://medium.com/p/339b45ca2095) |
 | Fri, 19 Dec 2025 03:39:26 GMT | GitHub Action Secrets Vulnerable to Token Exploitation | Valentin Podkamennyi | [Read More](https://medium.com/p/d23f64e88641) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 19:22:11 GMT | First-Party Fraud and Chargeback Abuse in 2025: A Systemic Challenge for Financial Services | Dan Chang | [Read More](https://medium.com/p/6f87a1f6dd82) |
 | Thu, 18 Dec 2025 19:19:19 GMT | Garden Finance, Moonwell, DMi Token: $11.9M | Olympix | [Read More](https://medium.com/p/00bba7c4f3d4) |
 | Thu, 18 Dec 2025 19:19:18 GMT | Rethinking Banking Architecture in a High-Compute World | Aarya Thakar | [Read More](https://medium.com/p/7aa669e02ffa) |
-| Thu, 18 Dec 2025 19:05:22 GMT | CyberChef - Hoperation Save McSkidy · Advent of Cyber 2025 - Day 17 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/4d54c45e705d) |
-| Thu, 18 Dec 2025 19:03:57 GMT | On zero-knowledge and trust in password managers | Passary | [Read More](https://medium.com/p/56fdd921bda3) |
