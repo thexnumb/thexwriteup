@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 14:14:58 GMT | Aftermouth | JustJules | [Read More](https://medium.com/p/bcc161aaf9b9) |
+| Fri, 19 Dec 2025 14:12:36 GMT | The Kind of Admiration That Never Gets Close | maa | [Read More](https://medium.com/p/0b0afe38e32e) |
+| Fri, 19 Dec 2025 14:06:42 GMT | Active Directory Pratik Rehberi : V “Dayanıklılık & Ağ Entegrasyonu” | Taha Altın | [Read More](https://medium.com/p/b025d490bc7e) |
+| Fri, 19 Dec 2025 14:05:17 GMT | Red Team vs Blue Team: What College Never Teaches You | Asmit Patil | [Read More](https://medium.com/p/d09f22fd7076) |
+| Fri, 19 Dec 2025 13:57:53 GMT | Surge in Active Exploitation Impacts Core Infrastructure and IoT Devices | Loginsoft | [Read More](https://medium.com/p/be9fa3e4e923) |
+| Fri, 19 Dec 2025 13:50:37 GMT | Book domestic flights for 2,500 points | Daily Drop | [Read More](https://medium.com/p/7de3efd5239f) |
+| Fri, 19 Dec 2025 13:47:22 GMT | How i Found Easy ₹5,000 IDOR - Bug Bounty Writeup - P3 | Rajankumarbarik | [Read More](https://medium.com/p/27348656c4cd) |
+| Fri, 19 Dec 2025 13:42:36 GMT | Day 19 — Secret Management (The Okterakt) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/2ba9881c57fb) |
+| Fri, 19 Dec 2025 13:39:24 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS | Cruz | [Read More](https://medium.com/p/a4ed3b377f54) |
 | Fri, 19 Dec 2025 13:33:25 GMT | Understanding Cybersecurity Trends and Challenges in 2026: A Beginner’s Guide | Warda Saleem | [Read More](https://medium.com/p/49a51631c5d8) |
+| Fri, 19 Dec 2025 13:32:45 GMT | The Signal and the Noise: Shadow AI Doesn’t Matter | Potech | [Read More](https://medium.com/p/f4644128f537) |
+| Fri, 19 Dec 2025 13:28:51 GMT | m00nwalk2 write up | Radja | [Read More](https://medium.com/p/45839987f4c7) |
+| Fri, 19 Dec 2025 13:25:14 GMT | Claude got dumber: When Claude AI Lobotomizes Itself While Writing About Its Own Decay | Berend Watchus | [Read More](https://medium.com/p/6f16b84f9d85) |
 | Fri, 19 Dec 2025 13:18:54 GMT | 資訊安全 — CIA 與 DAD 三要素是什麼？ | Andy Lu | [Read More](https://medium.com/p/f8274306caf2) |
 | Fri, 19 Dec 2025 13:15:18 GMT | On-Device ID Recognition for Fast and Secure Verification | OCR Studio | [Read More](https://medium.com/p/c121fea1dd21) |
 | Fri, 19 Dec 2025 13:15:06 GMT | The Critical Link: Why Cyber Security Is Essential to Effective Safeguarding | Jeff Kingsland | [Read More](https://medium.com/p/3d6d3a757e75) |
@@ -60,6 +72,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 10:26:38 GMT | Kali Linux 2025.4 Released! What Changed? | Shahzaib | [Read More](https://medium.com/p/2620af4f3021) |
 | Fri, 19 Dec 2025 10:26:04 GMT | 5 Critical Sysmon Alerts Every Organization Should Know | SpaceIO | [Read More](https://medium.com/p/e418e0c6ae52) |
 | Fri, 19 Dec 2025 10:20:03 GMT | 6 Python Practices That Prevent “It Worked on My Machine” Bugs | Muhammad Huzair Awan | [Read More](https://medium.com/p/49aa9af19e08) |
+| Fri, 19 Dec 2025 10:16:31 GMT | Global Software & IT Trends of 2025: What CTOs Must Act on Now | Shamim Rajani | [Read More](https://medium.com/p/050529fa0707) |
 | Fri, 19 Dec 2025 10:05:44 GMT | Best VAPT Services Provider in India - Threat Detection | Samvaskaran | [Read More](https://medium.com/p/6c2bbea97945) |
 | Fri, 19 Dec 2025 09:56:57 GMT | From DIY Headaches to High-Touch Monitoring: My Experience with WatchNod | Anjali Singh | [Read More](https://medium.com/p/6e4a151c9aad) |
 | Fri, 19 Dec 2025 09:56:17 GMT | Common Security Gaps Organizations Miss Without Continuous Security Monitoring | Gavin Ellis | [Read More](https://medium.com/p/b6361a534ae5) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 07:58:50 GMT | How to Integrate a Honeypot with Wazuh SIEM (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/446e389910ef) |
 | Fri, 19 Dec 2025 07:56:43 GMT | Is​‍​‌‍​‍‌​‍​‌‍​‍‌ Your Infrastructure Secure? Why You Need VAPT Before It’s Too Late | Clouds Dubai | [Read More](https://medium.com/p/67206bb8d5dc) |
 | Fri, 19 Dec 2025 07:54:18 GMT | AWS S3 Bucket | Somesh | [Read More](https://medium.com/p/554d89871407) |
-| Fri, 19 Dec 2025 07:48:26 GMT | Authentication in .NET — Part 12: Session & Cookie Security Hardening (Final Part) | Dilanka Muthukumarana | [Read More](https://medium.com/p/a13e42a25a3b) |
-| Fri, 19 Dec 2025 07:41:04 GMT | Is Your Data Safe? A Simple Guide to Understanding Big Tech and Privacy | Scrolling world | [Read More](https://medium.com/p/65eeb13d5627) |
-| Fri, 19 Dec 2025 07:37:50 GMT | Authentication in .NET — Part 11: Tenant-Aware Identity & Data Isolation | Dilanka Muthukumarana | [Read More](https://medium.com/p/a195bc29c515) |
-| Fri, 19 Dec 2025 07:37:13 GMT | Ultimate PC Protection with Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/35826952711a) |
-| Fri, 19 Dec 2025 07:35:22 GMT | Cyber Threat Modeling: Building Attack Trees That Predict Real Risks | Majidbasharat | [Read More](https://medium.com/p/32031804bcb7) |
-| Fri, 19 Dec 2025 07:22:59 GMT | Moorbridge Cyber Security Shares Simple Ways to Avoid Crypto Scams and Launches a No Win, No Fee… | Henry Miller | [Read More](https://medium.com/p/ac9da2a00d22) |
-| Fri, 19 Dec 2025 07:18:51 GMT | CYBER SECURITY | rajendra maurya | [Read More](https://medium.com/p/ca7d0d2ad59d) |
-| Fri, 19 Dec 2025 07:17:27 GMT | Cybersecurity as a Service for Reliable Business Defense | Archana Agarwal | [Read More](https://medium.com/p/5b2e6ee9c4eb) |
-| Fri, 19 Dec 2025 07:10:35 GMT | 5 Ways Higher Education Builds Data Resilience | Aileen Scott | [Read More](https://medium.com/p/e4ea4900d18f) |
-| Fri, 19 Dec 2025 07:08:54 GMT | Electronic Security Solutions: The Role of Security Consultancy in India’s Evolving Safety… | Ciss India | [Read More](https://medium.com/p/a16e1553ed72) |
-| Fri, 19 Dec 2025 07:06:02 GMT | VAPTServicesComprehensive VAPT services to Secure Your Digital Assets - Secninjaz Technologies LLP | Secninjaz Technologies LLP | [Read More](https://medium.com/p/2963c967e75c) |
-| Fri, 19 Dec 2025 06:59:59 GMT | How Do Organizations Scale Security Operations with SOAR Solutions? | NetWitness | [Read More](https://medium.com/p/209145f0eb92) |
-| Fri, 19 Dec 2025 06:58:31 GMT | Top 10 Subdomain Discovery Tools That Beat Amass: Level Up Your Recon Game | Very Lazy Tech | [Read More](https://medium.com/p/eea86f3b284d) |
