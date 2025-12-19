@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 13:33:25 GMT | Understanding Cybersecurity Trends and Challenges in 2026: A Beginner’s Guide | Warda Saleem | [Read More](https://medium.com/p/49a51631c5d8) |
+| Fri, 19 Dec 2025 13:18:54 GMT | 資訊安全 — CIA 與 DAD 三要素是什麼？ | Andy Lu | [Read More](https://medium.com/p/f8274306caf2) |
+| Fri, 19 Dec 2025 13:15:18 GMT | On-Device ID Recognition for Fast and Secure Verification | OCR Studio | [Read More](https://medium.com/p/c121fea1dd21) |
+| Fri, 19 Dec 2025 13:15:06 GMT | The Critical Link: Why Cyber Security Is Essential to Effective Safeguarding | Jeff Kingsland | [Read More](https://medium.com/p/3d6d3a757e75) |
+| Fri, 19 Dec 2025 13:12:55 GMT | PicoCTF Writeup — Wireshark twoo twooo two twoo… | Hans Immanuel Julius | [Read More](https://medium.com/p/ad836daad815) |
+| Fri, 19 Dec 2025 13:09:16 GMT | Next.js in Kubernetes: How I Solved the ECONNREFUSED Nightmare | KOLOGO B  Josias Yannick | [Read More](https://medium.com/p/f6771349a7a6) |
+| Fri, 19 Dec 2025 13:03:45 GMT | What is Hyperautomation in Modern Cybersecurity ? | Stellar Cyber | [Read More](https://medium.com/p/7e0683709f8a) |
+| Fri, 19 Dec 2025 13:01:00 GMT | Everything Wrong With Cybersecurity Education (And What We’re Doing About It) | Ulrich Swart | [Read More](https://medium.com/p/1b4cfc4e03e1) |
+| Fri, 19 Dec 2025 12:56:09 GMT | Digler: The Modern Forensic Disk Analysis and File Recovery Toolkit | Pralin Khaira | [Read More](https://medium.com/p/5c4bbc0a2c9a) |
+| Fri, 19 Dec 2025 12:55:20 GMT | AI vs. AI: How Voidly’s Hydra Outsmarts Automated Censorship | Voidly | [Read More](https://medium.com/p/8d722a7a0396) |
+| Fri, 19 Dec 2025 12:54:11 GMT | Code: HackTheBox Writeup | HackTheBox SRMIST | [Read More](https://medium.com/p/7b1d764df077) |
 | Fri, 19 Dec 2025 12:28:03 GMT | How to Hunt for and Analyze Disappearing C2 Beaconing Servers? | Zahra Bibi | [Read More](https://medium.com/p/bd73bf648cba) |
 | Fri, 19 Dec 2025 12:27:47 GMT | Ethical Hacking: Legal Scope and Cyber Threat Assessment | Rebelldon | [Read More](https://medium.com/p/1fabff4022cc) |
 | Fri, 19 Dec 2025 12:27:18 GMT | Let’s Defend SOC141 — Phishing URL Detected (Analyst Thought Process) | Pablo Rodriguez Sanz | [Read More](https://medium.com/p/096ecd0a6ed5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 07:06:02 GMT | VAPTServicesComprehensive VAPT services to Secure Your Digital Assets - Secninjaz Technologies LLP | Secninjaz Technologies LLP | [Read More](https://medium.com/p/2963c967e75c) |
 | Fri, 19 Dec 2025 06:59:59 GMT | How Do Organizations Scale Security Operations with SOAR Solutions? | NetWitness | [Read More](https://medium.com/p/209145f0eb92) |
 | Fri, 19 Dec 2025 06:58:31 GMT | Top 10 Subdomain Discovery Tools That Beat Amass: Level Up Your Recon Game | Very Lazy Tech | [Read More](https://medium.com/p/eea86f3b284d) |
-| Fri, 19 Dec 2025 06:57:20 GMT | How to Install SonarQube Using Docker on EC2 (Ubuntu 24.04) | Rajesh Thakur | [Read More](https://medium.com/p/a7d424c8d0dd) |
-| Fri, 19 Dec 2025 06:43:51 GMT | The Corix Partners Friday Reading List — December 19, 2025 | JC Gaillard | [Read More](https://medium.com/p/8faf3fa0d2a4) |
-| Fri, 19 Dec 2025 06:42:47 GMT | HIPAA Compliance Services for Healthcare Providers and Practices | Cyber Cops | [Read More](https://medium.com/p/07f64c2ffcf8) |
-| Fri, 19 Dec 2025 06:41:15 GMT | Part 0: The Journey in Climbing Out of The LLM Trap in CTI | Ly Dion | [Read More](https://medium.com/p/015da449c4cb) |
-| Fri, 19 Dec 2025 06:38:39 GMT | OSINT Dunyasına Giris: Verinin Bilgiye Donustugu Nokta | Umut Baran Yavuz | [Read More](https://medium.com/p/9dee6e9a9fdc) |
-| Fri, 19 Dec 2025 06:37:40 GMT | Your Debugging Sucks Because You’re Not Asking These 8 Questions | The Latency Gambler | [Read More](https://medium.com/p/4b1796ca0697) |
-| Fri, 19 Dec 2025 06:20:16 GMT | Why Vulnerability Is a Speaker’s Real Superpower? | Yuvi Aggarwal | [Read More](https://medium.com/p/f19ac2000ca3) |
-| Fri, 19 Dec 2025 06:17:18 GMT | Why Did Türkiye Down a Drone with an F-16? | Melike Balkın Karakaya | [Read More](https://medium.com/p/678afc6b9276) |
-| Fri, 19 Dec 2025 06:16:24 GMT | Top 5 Lessons That Stayed and Were Relearned This Year! | Jayakishor Bayadi | [Read More](https://medium.com/p/792900f18446) |
-| Fri, 19 Dec 2025 06:09:09 GMT | Westminster Abbey Flying the Flag | Ella Read | [Read More](https://medium.com/p/08d72d754bb2) |
-| Fri, 19 Dec 2025 06:02:12 GMT | SOC169 — Possible IDOR Attack Detected | Tomasz Kozlowski | [Read More](https://medium.com/p/b3b36b428be6) |
