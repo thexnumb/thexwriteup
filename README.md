@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 21:19:49 GMT | Becoming Sherlock Holmes | Juan Hernandez | [Read More](https://medium.com/p/c8bd3086d6b6) |
+| Fri, 19 Dec 2025 21:15:56 GMT | Unauthorized access to any presentation at Dropbox | Raccoon | [Read More](https://medium.com/p/604af454547d) |
+| Fri, 19 Dec 2025 21:10:41 GMT | How to Hide Your API Keys in React (The Right Way) | Azad Ansari | [Read More](https://medium.com/p/c87b578e0e27) |
+| Fri, 19 Dec 2025 20:56:07 GMT | IPv6 Security Configurations | Esra Kayhan | [Read More](https://medium.com/p/0d0714f51fef) |
+| Fri, 19 Dec 2025 20:52:01 GMT | Phreeli: Privacy-by-Design Mobile Telecommunications | CtrlAltDisobey | [Read More](https://medium.com/p/35a970152fd3) |
+| Fri, 19 Dec 2025 20:44:50 GMT | How Kerberos Authentication Works  -- and How Attackers Quietly Abuse It | Amine Ali | [Read More](https://medium.com/p/e631d222cd5a) |
 | Fri, 19 Dec 2025 20:37:58 GMT | AI — You’ve Come a Long Way, Baby | Matt Ray | [Read More](https://medium.com/p/0a737b7e74e7) |
 | Fri, 19 Dec 2025 20:26:00 GMT | Day #64 of writing a poem per day | Sunny Brown | [Read More](https://medium.com/p/d24c3673fa26) |
 | Fri, 19 Dec 2025 20:23:57 GMT | How I Found an Unauthenticated XXE That Allowed Arbitrary File Read in NASA | Thomas A. | [Read More](https://medium.com/p/bfffe24dc24e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 15:19:33 GMT | Exploring Container Security with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/299cae63b3fb) |
 | Fri, 19 Dec 2025 15:19:29 GMT | Exploring Auditd Advanced Usage with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/66fbab103641) |
 | Fri, 19 Dec 2025 15:18:58 GMT | Website & Online Presence Monitoring: The Silent Safety Net Every Small Business Needs | Paradise technologies Inc | [Read More](https://medium.com/p/bf140b8d173a) |
-| Fri, 19 Dec 2025 15:17:01 GMT | Outlawed / Banned from the Fraudulent Bug Bounty World: The Story of Cyber Kalki | ElonMuskTheAntichrist | [Read More](https://medium.com/p/a73028b0959d) |
-| Fri, 19 Dec 2025 15:16:46 GMT | Docker Made Hardened Images Free -and That Quietly Changes Container Security | Marios Petrellis | [Read More](https://medium.com/p/45b56dae6eae) |
-| Fri, 19 Dec 2025 15:12:14 GMT | Why GRC Analysts Are Getting Stuck in 2026 .. And GRC Engineers Aren’t | Taimur Ijlal | [Read More](https://medium.com/p/dc306281c5f4) |
-| Fri, 19 Dec 2025 15:11:04 GMT | PicoCTF — Flag in Flame | uikayo | [Read More](https://medium.com/p/91c56d83cc10) |
-| Fri, 19 Dec 2025 15:10:02 GMT | Patch Culture in Cybersecurity | Voldemaras Kadys | [Read More](https://medium.com/p/9c74e715ec56) |
-| Fri, 19 Dec 2025 15:02:49 GMT | Cyber Briefing: 2025.12.19 | CyberMaterial | [Read More](https://medium.com/p/d19cb2559355) |
