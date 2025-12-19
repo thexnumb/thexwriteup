@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 08:17:56 GMT | How to setup Android Application testing environment Step by Step guide | Jahan Zeb | [Read More](https://medium.com/p/5d36ebcea33f) |
+| Fri, 19 Dec 2025 08:13:48 GMT | Cybersecurity Course in Telugu: Learn Digital Security with Confidence | Adasmadasu | [Read More](https://medium.com/p/b663530b8811) |
+| Fri, 19 Dec 2025 08:04:14 GMT | How Vision 2030 Is Accelerating the Cybersecurity Market in Saudi Arabia | Vijay Mishra | [Read More](https://medium.com/p/aa858bbe606b) |
+| Fri, 19 Dec 2025 08:03:57 GMT | The Daily Tech Digest: 19 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e4df8150014e) |
+| Fri, 19 Dec 2025 08:00:29 GMT | Open Source Intelligence (OSINT) Analysis: Digital Risks in the Nigerian Banking Sector. | Adaeze Damian | [Read More](https://medium.com/p/01eb6fdc48dd) |
+| Fri, 19 Dec 2025 07:59:28 GMT | SOC Services in Malaysia: Strengthening 24/7 Cyber Threat Monitoring | Prakash Factosecure | [Read More](https://medium.com/p/40738dc817f5) |
+| Fri, 19 Dec 2025 07:58:50 GMT | How to Integrate a Honeypot with Wazuh SIEM (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/446e389910ef) |
+| Fri, 19 Dec 2025 07:56:43 GMT | Is​‍​‌‍​‍‌​‍​‌‍​‍‌ Your Infrastructure Secure? Why You Need VAPT Before It’s Too Late | Clouds Dubai | [Read More](https://medium.com/p/67206bb8d5dc) |
+| Fri, 19 Dec 2025 07:54:18 GMT | AWS S3 Bucket | Somesh | [Read More](https://medium.com/p/554d89871407) |
+| Fri, 19 Dec 2025 07:48:26 GMT | Authentication in .NET — Part 12: Session & Cookie Security Hardening (Final Part) | Dilanka Muthukumarana | [Read More](https://medium.com/p/a13e42a25a3b) |
 | Fri, 19 Dec 2025 07:41:04 GMT | Is Your Data Safe? A Simple Guide to Understanding Big Tech and Privacy | Scrolling world | [Read More](https://medium.com/p/65eeb13d5627) |
+| Fri, 19 Dec 2025 07:37:50 GMT | Authentication in .NET — Part 11: Tenant-Aware Identity & Data Isolation | Dilanka Muthukumarana | [Read More](https://medium.com/p/a195bc29c515) |
+| Fri, 19 Dec 2025 07:37:13 GMT | Ultimate PC Protection with Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/35826952711a) |
 | Fri, 19 Dec 2025 07:35:22 GMT | Cyber Threat Modeling: Building Attack Trees That Predict Real Risks | Majidbasharat | [Read More](https://medium.com/p/32031804bcb7) |
 | Fri, 19 Dec 2025 07:22:59 GMT | Moorbridge Cyber Security Shares Simple Ways to Avoid Crypto Scams and Launches a No Win, No Fee… | Henry Miller | [Read More](https://medium.com/p/ac9da2a00d22) |
 | Fri, 19 Dec 2025 07:18:51 GMT | CYBER SECURITY | rajendra maurya | [Read More](https://medium.com/p/ca7d0d2ad59d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 23:08:13 GMT | Frankenstein APC Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1007c24a0317) |
 | Thu, 18 Dec 2025 23:07:40 GMT | Inside the OT Cyber War Room: Who Sits Where, What’s on the Screens, and Who Gets to Pull the Plug | Muhammad Ali Khan | [Read More](https://medium.com/p/7764f05bedd1) |
 | Thu, 18 Dec 2025 23:06:55 GMT | Training Under Fire: How To Drill OT Operators For Cognitive Overload | Muhammad Ali Khan | [Read More](https://medium.com/p/c2a949f4c410) |
-| Thu, 18 Dec 2025 22:59:31 GMT | Escape_202 in CYBER TALENTS | Anik Sutrodhar | [Read More](https://medium.com/p/0b36d9898d89) |
-| Thu, 18 Dec 2025 22:58:07 GMT | Okta Logs to Detections in SIEM: Purple Team Project | Erebus | [Read More](https://medium.com/p/2a1037f1b3c3) |
-| Thu, 18 Dec 2025 22:42:24 GMT | Why ‘Strong Passwords’ Are Useless in 2025 | Liam | [Read More](https://medium.com/p/49c21d63ce2b) |
-| Thu, 18 Dec 2025 22:41:30 GMT | How to Secure Agentic Applications | Manu Cohen-Yashar | [Read More](https://medium.com/p/06dfc8369757) |
-| Thu, 18 Dec 2025 22:33:32 GMT | Cyber-hijacking a ship? | Angelina Souren | [Read More](https://medium.com/p/95e207e125bd) |
-| Thu, 18 Dec 2025 22:31:11 GMT | When AI Becomes the Instructor: Analyzing YouTube’s Video Summarization Safety Gap | Vidura Ranathunga | [Read More](https://medium.com/p/e729bc66f643) |
-| Thu, 18 Dec 2025 22:18:45 GMT | Certified AI/ML Pentester Review | m8sec | [Read More](https://medium.com/p/82dc145c0c76) |
-| Thu, 18 Dec 2025 22:18:11 GMT | Why AI-Driven Vibe Hacking Demands a New DevSecOps Mindset | Cyber-AppSec | [Read More](https://medium.com/p/790c0383ca38) |
-| Thu, 18 Dec 2025 22:10:46 GMT | The Unseen Architecture: A Deep Dive into Network Fundamentals | samurai | [Read More](https://medium.com/p/989a9ff2d6ba) |
-| Thu, 18 Dec 2025 22:07:27 GMT | The Hacker Mindset Isn’t About Crime, It’s About Curiosity | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/eaf8d00fc60e) |
-| Thu, 18 Dec 2025 22:05:00 GMT | The Fortress Within the Code: Exein and Europe’s Cybersecurity Revolution | Enes Karataş | [Read More](https://medium.com/p/5ab93f2ce4a1) |
-| Thu, 18 Dec 2025 21:32:35 GMT | My Journey in IT, Cybersecurity, and Automation — Kehinde Ladepo | kehinde ladepo | [Read More](https://medium.com/p/ba7840e63bf7) |
