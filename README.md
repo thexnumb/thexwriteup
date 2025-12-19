@@ -12,13 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 16:43:02 GMT | How to DeGoogle your life and why you should | Anastasios Antoniadis | [Read More](https://medium.com/p/ee050f620838) |
+| Fri, 19 Dec 2025 16:37:42 GMT | DOCUMENTING MY JOURNEY TOWARDS DECENTRALISED AI AND BLOCKCHAIN CYBERSECURITY | Adesowapo Adeyemi | [Read More](https://medium.com/p/3547a7c91dc6) |
+| Fri, 19 Dec 2025 16:34:27 GMT | Linux Terminaline İlk Adım: Temel Komutlar ve Pratik Uygulamalar ️ | ahmetesatakkus | [Read More](https://medium.com/p/bd5895e93fd0) |
+| Fri, 19 Dec 2025 16:31:42 GMT | Recon Fatigue Is Real — Until This One URL Paid My Rent | Iski | [Read More](https://medium.com/p/8768a51dc50e) |
 | Fri, 19 Dec 2025 16:26:09 GMT | Incident Snapshot: How I Capture Critical Evidence on My Linux Servers Before Damage Happens | Faruk Ahmed | [Read More](https://medium.com/p/e3304dc4e617) |
 | Fri, 19 Dec 2025 16:24:58 GMT | Cloudflare’s Lava Lamp Wall: When Internet Security Depends on Pure Chaos | Abhishek Dharmik | [Read More](https://medium.com/p/6de68df3c197) |
+| Fri, 19 Dec 2025 16:24:03 GMT | Next.js ve React App Router Güvenlik Açığı: CVE-2025–55182 Neyi Tehdit Ediyor? | Erhan Akkaya | [Read More](https://medium.com/p/7d73851798a8) |
 | Fri, 19 Dec 2025 16:17:42 GMT | # The Quiet Bugs That Don’t Look Like Bugs | Abdulbar | [Read More](https://medium.com/p/c38c7db08364) |
 | Fri, 19 Dec 2025 16:15:18 GMT | XLMRAT WriteUP — CyberDefenders | Ichiro Dexther | [Read More](https://medium.com/p/ca3739a6c2f4) |
 | Fri, 19 Dec 2025 16:14:36 GMT | Crack the Code: Weakness vs. Vulnerability | Maikel Mardjan | [Read More](https://medium.com/p/22c8641a1faf) |
 | Fri, 19 Dec 2025 16:09:28 GMT | Introduction to SQL Injection | PriOFF | [Read More](https://medium.com/p/f4f0911f3461) |
 | Fri, 19 Dec 2025 16:05:01 GMT | What Is 2FA and Why Every One Must Use It | cryptostringer | [Read More](https://medium.com/p/68953e842a60) |
+| Fri, 19 Dec 2025 16:04:57 GMT | How to Build an IT Security Strategy That Actually Works | Cordula Boeck | [Read More](https://medium.com/p/52d842c95a6c) |
 | Fri, 19 Dec 2025 16:04:32 GMT | Stored XSS Attack | Mylescorey | [Read More](https://medium.com/p/e0b43a0ca72f) |
 | Fri, 19 Dec 2025 16:02:54 GMT | Code Red for Apple Users: Inside the WebKit Zero-Days That Just Hit Your Device | Motasem Hamdan | [Read More](https://medium.com/p/ac46e69daaba) |
 | Fri, 19 Dec 2025 15:59:07 GMT | How I Set Up a SIEM Using Wazuh | Felicity Lois | [Read More](https://medium.com/p/f2e833a16374) |
@@ -48,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 14:57:39 GMT | How to Get an Alberta Security License: Complete Requirements & Step-by-Step Guide | Hirasarfraz | [Read More](https://medium.com/p/7368bcff69e6) |
 | Fri, 19 Dec 2025 14:51:49 GMT | Mitigation Isn’t Failure: What Timmins’ Security Pilot Reveals About Public Safety | Scott Hill | [Read More](https://medium.com/p/2a62c6eff176) |
 | Fri, 19 Dec 2025 14:45:39 GMT | WHAT IS BEST ACCESS MODEL IN SNOWFLAKE? | alok singh | [Read More](https://medium.com/p/46ea96b5fd9d) |
+| Fri, 19 Dec 2025 14:42:48 GMT | Arbitrary Code Execution (ACE) vs Remote Code Execution (RCE) | Drraghavendra | [Read More](https://medium.com/p/826da016ede0) |
 | Fri, 19 Dec 2025 14:41:15 GMT | Biblioteca — THM Writeup | Kavin Jindal | [Read More](https://medium.com/p/78dd46cff0d8) |
 | Fri, 19 Dec 2025 14:32:43 GMT | (Comptia A+) Safeguarding Essential Data: A Technician’s Guide to Handling Regulated Information | Vignesh R | [Read More](https://medium.com/p/8ac319f2366f) |
 | Fri, 19 Dec 2025 14:14:58 GMT | Aftermouth | JustJules | [Read More](https://medium.com/p/bcc161aaf9b9) |
@@ -102,13 +109,6 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 11:01:38 GMT | Cryptography for Microservices | Suraj Bhandari | [Read More](https://medium.com/p/890b7130f64c) |
 | Fri, 19 Dec 2025 10:57:24 GMT | We Love Our Country, But We Don’t See Our Future Here | Vijay Kumar Gupta | [Read More](https://medium.com/p/90df1ccbb670) |
 | Fri, 19 Dec 2025 10:54:11 GMT | From Laptops to Mobiles: Why Endpoint Security Is the Backbone of Modern Cyber Defense | ANSI Technologies | [Read More](https://medium.com/p/2b7523344cac) |
+| Fri, 19 Dec 2025 10:48:46 GMT | Lab: Server-side template injection with information disclosure via user-supplied objects | L4V4NY4  AGR3 | [Read More](https://medium.com/p/92b88eb25f1c) |
 | Fri, 19 Dec 2025 10:47:50 GMT | CVE-2025–20393 (Cisco AsyncOS Zero-Day) | Virendra Kumar | [Read More](https://medium.com/p/72b35798cdf9) |
 | Fri, 19 Dec 2025 10:45:44 GMT | Where DFIR Fits in NIST’s Cyber AI Profile | Adetomiwa | [Read More](https://medium.com/p/a0c5bde15514) |
-| Fri, 19 Dec 2025 10:44:14 GMT | Digital Forensic Services Explained: What You Get and Why It Matters | SmartCLOUD Australia | [Read More](https://medium.com/p/07a4eda0ca91) |
-| Fri, 19 Dec 2025 10:35:15 GMT | Tailwind CSS Developer Job Description Template to Attract Top Talent | Dappinity Technologies | [Read More](https://medium.com/p/c5342a81217c) |
-| Fri, 19 Dec 2025 10:33:43 GMT | The Digital Defense Approach: Real Attacker Simulation vs Generic Check-Based Testing | Digital Defense | [Read More](https://medium.com/p/c995401a79aa) |
-| Fri, 19 Dec 2025 10:26:38 GMT | Kali Linux 2025.4 Released! What Changed? | Shahzaib | [Read More](https://medium.com/p/2620af4f3021) |
-| Fri, 19 Dec 2025 10:26:04 GMT | 5 Critical Sysmon Alerts Every Organization Should Know | SpaceIO | [Read More](https://medium.com/p/e418e0c6ae52) |
-| Fri, 19 Dec 2025 10:20:03 GMT | 6 Python Practices That Prevent “It Worked on My Machine” Bugs | Muhammad Huzair Awan | [Read More](https://medium.com/p/49aa9af19e08) |
-| Fri, 19 Dec 2025 10:16:31 GMT | Global Software & IT Trends of 2025: What CTOs Must Act on Now | Shamim Rajani | [Read More](https://medium.com/p/050529fa0707) |
-| Fri, 19 Dec 2025 10:05:44 GMT | Best VAPT Services Provider in India - Threat Detection | Samvaskaran | [Read More](https://medium.com/p/6c2bbea97945) |
