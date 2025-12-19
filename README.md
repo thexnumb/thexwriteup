@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 22:37:04 GMT | Modern Red Team Operations: Initial Foothold & Discovery in Active Directory Environments | Bilal Berk karabulut | [Read More](https://medium.com/p/b5c348049904) |
+| Fri, 19 Dec 2025 22:33:37 GMT | What I Learned from Website Cloning and SMB Enumeration Labs | Isaac Edzie | [Read More](https://medium.com/p/998f1a63538a) |
+| Fri, 19 Dec 2025 22:32:00 GMT | Attack Surface Management (ASM) in 2026 | Adam Rhys Heaton | [Read More](https://medium.com/p/0dcd2ea0ed05) |
+| Fri, 19 Dec 2025 22:21:36 GMT | Building a Production-Ready YARA Malware Detection System (Without Breaking the Bank) | ShadowBlue | [Read More](https://medium.com/p/251438af90ad) |
 | Fri, 19 Dec 2025 22:19:40 GMT | Epic Fails in Learning CS — And How to Crush Them | Aras Darweesh | [Read More](https://medium.com/p/3fd697ddc6cd) |
 | Fri, 19 Dec 2025 22:11:17 GMT | China Cyberspace Powered by AI | European Values Center for Security Policy | [Read More](https://medium.com/p/e270ea556e22) |
 | Fri, 19 Dec 2025 22:04:58 GMT | Odysafe CTI Platform: The Open-Source Tool That Actually Simplifies IOC Management | ShadowBlue | [Read More](https://medium.com/p/94058191dd91) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 16:02:54 GMT | Code Red for Apple Users: Inside the WebKit Zero-Days That Just Hit Your Device | Motasem Hamdan | [Read More](https://medium.com/p/ac46e69daaba) |
 | Fri, 19 Dec 2025 15:59:07 GMT | How I Set Up a SIEM Using Wazuh | Felicity Lois | [Read More](https://medium.com/p/f2e833a16374) |
 | Fri, 19 Dec 2025 15:56:08 GMT | CCTV Installation Services In Hyderabad - Anu Cc Cameras | Anucccameras | [Read More](https://medium.com/p/b7c705e38c02) |
-| Fri, 19 Dec 2025 15:52:33 GMT | Inside the Attacker’s Mind: Lessons from Ethical Hacking Labs on Social Engineering and SMB… | Edwin Atali | [Read More](https://medium.com/p/33f86b51feec) |
-| Fri, 19 Dec 2025 15:44:55 GMT | Loss Prevention Security: A Complete Guide to Protecting Your Business from Theft and Shrinkage | Hirasarfraz | [Read More](https://medium.com/p/c7156448d136) |
-| Fri, 19 Dec 2025 15:37:34 GMT | Why Zero Trust Quietly Fails in Web3 | Abatis ABTU | [Read More](https://medium.com/p/146f01fc49cc) |
-| Fri, 19 Dec 2025 15:37:23 GMT | PicoCTF — Matryoshka doll | uikayo | [Read More](https://medium.com/p/6511e14cbb05) |
