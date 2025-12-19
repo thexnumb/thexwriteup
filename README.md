@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 04:37:10 GMT | Obfuscation — The Egg Shell File | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/ce6052cbbb7a) |
+| Fri, 19 Dec 2025 04:36:12 GMT | Logların İzinde: APT Senaryosu — 4 | Ali Ekber KARA | [Read More](https://medium.com/p/dad5898237ce) |
+| Fri, 19 Dec 2025 04:32:34 GMT | 7 Cross-Program Risk Tests Before Shipping a Router | Duckweave | [Read More](https://medium.com/p/22c839e587fb) |
+| Fri, 19 Dec 2025 04:32:34 GMT | Day 6: The DPDP Act and Data Sharing — Secure, Responsible & Purpose-Bound | Saurabh Sharma | [Read More](https://medium.com/p/926f8fc521c5) |
+| Fri, 19 Dec 2025 04:21:40 GMT | How I Ended Up Choosing Cybersecurity | Harlin Taggar | [Read More](https://medium.com/p/9a047ac0cc90) |
+| Fri, 19 Dec 2025 04:11:45 GMT | How to Automate Your SOC2 Evidence Collection | Ofri Peretz | [Read More](https://medium.com/p/ec92c6862fd2) |
+| Fri, 19 Dec 2025 04:10:11 GMT | Obfuscation — The Egg Shell File (AoC TryHackMe Write-Up) — Day 18 | Taufiqurrahman Yudhi Atmadja | [Read More](https://medium.com/p/70307c9a346d) |
+| Fri, 19 Dec 2025 04:03:42 GMT | CTF Daily Bugle - TryHackMe | Henrique | [Read More](https://medium.com/p/e3290872ddad) |
+| Fri, 19 Dec 2025 04:03:15 GMT | A Soft Goodbye | Mukul Sharda | [Read More](https://medium.com/p/4e84f6b6027a) |
 | Fri, 19 Dec 2025 03:58:48 GMT | The Mathematics of Digital Extortion: A Forensic Accountant’s Analysis of “Synthetic Negative” Data | Nezahualpilli Tlapalco | [Read More](https://medium.com/p/41bd0661d243) |
 | Fri, 19 Dec 2025 03:46:13 GMT | From the subjects of bug-bounty, I am a learner , lets learn together.. | L3v1 ⚔️ | [Read More](https://medium.com/p/345688bc0e3b) |
 | Fri, 19 Dec 2025 03:39:33 GMT | How to Use Git to Manage Your Tools, Notes, and Scripts | Aj | [Read More](https://medium.com/p/339b45ca2095) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 18:47:35 GMT | A PRACTICAL GUIDE TO PROMOTING THE REAL ADOPTION OF CRYPTOCURRENCIES IN THE EVERYDAY ECONOMY | EurocoinPay.io | [Read More](https://medium.com/p/cec715e4c71c) |
 | Thu, 18 Dec 2025 18:47:21 GMT | Obfuscated Code: What It Really Is, Why It Exists, and Whether You Can Crack It Open | Toni Maxx | [Read More](https://medium.com/p/559265c71c7f) |
 | Thu, 18 Dec 2025 18:46:13 GMT | “Why Your Password Is Trash (And Other Ways Hackers Win)” | Vasujaggi | [Read More](https://medium.com/p/b67e2b6a0bee) |
-| Thu, 18 Dec 2025 18:40:43 GMT | The Role of Firewalls in Modern Business Cybersecurity | Cordula Boeck | [Read More](https://medium.com/p/750d78de80ea) |
-| Thu, 18 Dec 2025 18:30:46 GMT | Advent of Cyber 2025 Day 18 - TryHackMe - Obfuscation - The Egg Shell File - WriteUp | Axoloth | [Read More](https://medium.com/p/50ff9aaf8c46) |
-| Thu, 18 Dec 2025 18:30:23 GMT | Advent of Cyber 2025 - Day 18: Obfuscation — The Egg Shell File | D4m.sh | [Read More](https://medium.com/p/68a1db96908b) |
-| Thu, 18 Dec 2025 18:21:58 GMT | The “Unzip” That Backdoors Your PC: Why Your Old WinRAR Is Now a National Security Risk | Adham Khaled | [Read More](https://medium.com/p/32e4e950643f) |
-| Thu, 18 Dec 2025 18:21:37 GMT | Inside the Hacker’s Playbook: How Attacks Happen and How You Can Outsmart Them | Punya J | [Read More](https://medium.com/p/eb9ab6c28113) |
-| Thu, 18 Dec 2025 18:21:16 GMT | Understanding SSTI: When {{7*7}} Runs on the Server | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f1c5d83519a7) |
-| Thu, 18 Dec 2025 18:20:23 GMT | Saldırganların En Sessiz Silahı: Blind SQL Injection ! | Iremzeynep | [Read More](https://medium.com/p/6ff00d9fc739) |
-| Thu, 18 Dec 2025 18:16:53 GMT | XSS Nedir? XSS Rehberi Ve Örnek Lab Çözümü | Yusuf sakin yeşiltaş | [Read More](https://medium.com/p/0b27c2f0c3f1) |
-| Thu, 18 Dec 2025 18:14:32 GMT | Email Security & The Crisis of Trust in Digital Communications | Andrew Kagan | [Read More](https://medium.com/p/36a29eb19639) |
