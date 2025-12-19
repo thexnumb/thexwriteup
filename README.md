@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 17:11:05 GMT | Certifications — The Hard Truth | Amir Akhwand | [Read More](https://medium.com/p/9a5cd377bfd4) |
+| Fri, 19 Dec 2025 17:06:13 GMT | Cybersecurity News Review — Week 51 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/89c41acd0dc7) |
+| Fri, 19 Dec 2025 17:04:34 GMT | The Corp.com Collision | satyaranjan bal | [Read More](https://medium.com/p/0851377741b2) |
+| Fri, 19 Dec 2025 17:03:17 GMT | Building Magic (Easy) — HackSmarter Active Directory Walkthrough | rajasekharyarava | [Read More](https://medium.com/p/5cbc3a8018e5) |
+| Fri, 19 Dec 2025 17:02:46 GMT | What Ten Years of Broken Systems Taught Me About Control | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/abc514c34806) |
+| Fri, 19 Dec 2025 17:00:43 GMT | Advent of Cyber 2025 - Day 19: ICS/Modbus — Claus for Concern | D4m.sh | [Read More](https://medium.com/p/073d04ac243d) |
+| Fri, 19 Dec 2025 17:00:24 GMT | CEHv12: Vulnerability Analysis (Practised)(Module 5) | Aditya Kumar | [Read More](https://medium.com/p/d21e70616faa) |
+| Fri, 19 Dec 2025 16:58:58 GMT | Building My First Vulnerability Scanner Using Python: A Step-by-Step Guide | Aneef Sheriff | [Read More](https://medium.com/p/3f9ed3899daa) |
+| Fri, 19 Dec 2025 16:56:49 GMT | Hey there — Welcome. | Amir Akhwand | [Read More](https://medium.com/p/ff7caaec2533) |
+| Fri, 19 Dec 2025 16:54:57 GMT | Hacking Series (Part 8): Sniffing & Spoofing — How Hackers Intercept Traffic and How to Stop… | Cyber Wolf | [Read More](https://medium.com/p/42c6faafc00d) |
+| Fri, 19 Dec 2025 16:54:35 GMT | Why Choose an Ethical Hacking Course in Kochi in 2026? | Anaynams | [Read More](https://medium.com/p/227fd20233ac) |
+| Fri, 19 Dec 2025 16:54:17 GMT | Temel Network Kavramları: OSI, TCP/IP, UDP | HTurkmen | [Read More](https://medium.com/p/fa97905bb735) |
+| Fri, 19 Dec 2025 16:52:09 GMT | 32-bit and 64-bit Stack-Based Buffer Overflow Exploitation | Axolot | [Read More](https://medium.com/p/7cb63f9280c4) |
+| Fri, 19 Dec 2025 16:49:39 GMT | GPT-5.2-Codex and the Quiet Inflection Point in Agentic Security Research | Chetan Seripally | [Read More](https://medium.com/p/d4ef9a1c097b) |
 | Fri, 19 Dec 2025 16:43:02 GMT | How to DeGoogle your life and why you should | Anastasios Antoniadis | [Read More](https://medium.com/p/ee050f620838) |
 | Fri, 19 Dec 2025 16:37:42 GMT | DOCUMENTING MY JOURNEY TOWARDS DECENTRALISED AI AND BLOCKCHAIN CYBERSECURITY | Adesowapo Adeyemi | [Read More](https://medium.com/p/3547a7c91dc6) |
 | Fri, 19 Dec 2025 16:34:27 GMT | Linux Terminaline İlk Adım: Temel Komutlar ve Pratik Uygulamalar ️ | ahmetesatakkus | [Read More](https://medium.com/p/bd5895e93fd0) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 11:33:22 GMT | ️ Routing Manipulation Investigations: Tracing the Attacker’s Route | Esra Kayhan | [Read More](https://medium.com/p/5d3ca3881db8) |
 | Fri, 19 Dec 2025 11:32:56 GMT | UEFI Secure Boot Linux Trust Chain: How Your Distro Gets Microsoft’s Permission to Boot | Can Artuc | [Read More](https://medium.com/p/4742902ed07e) |
 | Fri, 19 Dec 2025 11:27:53 GMT | The Leaky Login — Sniffing Credentials from Raw Packets | Aditya Bhatt | [Read More](https://medium.com/p/0d0f4b62f560) |
-| Fri, 19 Dec 2025 11:20:57 GMT | Cyber Warfare Has Changed and Most Leaders Haven’t Noticed Yet! | Himanshu Chaudhary | [Read More](https://medium.com/p/a2df71048bcc) |
-| Fri, 19 Dec 2025 11:19:57 GMT | Cloudflare for Small Businesses: Security and Speed on a Budget | Owtanet | [Read More](https://medium.com/p/de7eb078b4fa) |
-| Fri, 19 Dec 2025 11:15:44 GMT | PDFeye: is that pdf hiding malware? | Roberto Dillon | [Read More](https://medium.com/p/425ba3b4032d) |
-| Fri, 19 Dec 2025 11:10:05 GMT | Stop CAPTCHA Loops and 429 Spikes | CoinZenith | [Read More](https://medium.com/p/83e26eed76ee) |
-| Fri, 19 Dec 2025 11:07:38 GMT | Penetration Testing Certification for Beginners | Manisha Chaudhary | [Read More](https://medium.com/p/39a9971e935b) |
-| Fri, 19 Dec 2025 11:05:10 GMT | Australia’s Noosa Council $2.3M & A Sophisticated Public Funds Sham | O. J. Okpabi | [Read More](https://medium.com/p/5bc0f07c47a3) |
-| Fri, 19 Dec 2025 11:02:41 GMT | AI Turned Her Face Into A Weapon | O. J. Okpabi | [Read More](https://medium.com/p/40bc0dcfa7c0) |
-| Fri, 19 Dec 2025 11:02:20 GMT | Why I Still Trust Terminal Logs More Than People | Franziska "Ziska" Fink | [Read More](https://medium.com/p/df227925af8b) |
-| Fri, 19 Dec 2025 11:01:38 GMT | Cryptography for Microservices | Suraj Bhandari | [Read More](https://medium.com/p/890b7130f64c) |
-| Fri, 19 Dec 2025 10:57:24 GMT | We Love Our Country, But We Don’t See Our Future Here | Vijay Kumar Gupta | [Read More](https://medium.com/p/90df1ccbb670) |
-| Fri, 19 Dec 2025 10:54:11 GMT | From Laptops to Mobiles: Why Endpoint Security Is the Backbone of Modern Cyber Defense | ANSI Technologies | [Read More](https://medium.com/p/2b7523344cac) |
-| Fri, 19 Dec 2025 10:48:46 GMT | Lab: Server-side template injection with information disclosure via user-supplied objects | L4V4NY4  AGR3 | [Read More](https://medium.com/p/92b88eb25f1c) |
-| Fri, 19 Dec 2025 10:47:50 GMT | CVE-2025–20393 (Cisco AsyncOS Zero-Day) | Virendra Kumar | [Read More](https://medium.com/p/72b35798cdf9) |
-| Fri, 19 Dec 2025 10:45:44 GMT | Where DFIR Fits in NIST’s Cyber AI Profile | Adetomiwa | [Read More](https://medium.com/p/a0c5bde15514) |
