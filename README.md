@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 15:19:33 GMT | Exploring Container Security with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/299cae63b3fb) |
+| Fri, 19 Dec 2025 15:19:29 GMT | Exploring Auditd Advanced Usage with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/66fbab103641) |
+| Fri, 19 Dec 2025 15:17:01 GMT | Outlawed / Banned from the Fraudulent Bug Bounty World: The Story of Cyber Kalki | ElonMuskTheAntichrist | [Read More](https://medium.com/p/a73028b0959d) |
+| Fri, 19 Dec 2025 15:12:14 GMT | Why GRC Analysts Are Getting Stuck in 2026 .. And GRC Engineers Aren’t | Taimur Ijlal | [Read More](https://medium.com/p/dc306281c5f4) |
+| Fri, 19 Dec 2025 15:11:04 GMT | PicoCTF — Flag in Flame | uikayo | [Read More](https://medium.com/p/91c56d83cc10) |
+| Fri, 19 Dec 2025 15:10:02 GMT | Patch Culture in Cybersecurity | Voldemaras Kadys | [Read More](https://medium.com/p/9c74e715ec56) |
+| Fri, 19 Dec 2025 15:02:49 GMT | Cyber Briefing: 2025.12.19 | CyberMaterial | [Read More](https://medium.com/p/d19cb2559355) |
+| Fri, 19 Dec 2025 15:02:48 GMT | Bentley Key Fob Replacement: Fast, Smart, and Stress-Free | Sure Lock & Key LLC | [Read More](https://medium.com/p/68e9a81d9605) |
+| Fri, 19 Dec 2025 15:02:44 GMT | Tor Ditched C for Rust, and Your Privacy Just Got Better | Bhavyansh | [Read More](https://medium.com/p/4876f74b8909) |
+| Fri, 19 Dec 2025 15:01:56 GMT | ’      … | Anwar Khalid | [Read More](https://medium.com/p/684cdd580c59) |
+| Fri, 19 Dec 2025 14:57:39 GMT | How to Get an Alberta Security License: Complete Requirements & Step-by-Step Guide | Hirasarfraz | [Read More](https://medium.com/p/7368bcff69e6) |
+| Fri, 19 Dec 2025 14:51:49 GMT | Mitigation Isn’t Failure: What Timmins’ Security Pilot Reveals About Public Safety | Scott Hill | [Read More](https://medium.com/p/2a62c6eff176) |
+| Fri, 19 Dec 2025 14:45:39 GMT | WHAT IS BEST ACCESS MODEL IN SNOWFLAKE? | alok singh | [Read More](https://medium.com/p/46ea96b5fd9d) |
 | Fri, 19 Dec 2025 14:41:15 GMT | Biblioteca — THM Writeup | Kavin Jindal | [Read More](https://medium.com/p/78dd46cff0d8) |
 | Fri, 19 Dec 2025 14:32:43 GMT | (Comptia A+) Safeguarding Essential Data: A Technician’s Guide to Handling Regulated Information | Vignesh R | [Read More](https://medium.com/p/8ac319f2366f) |
 | Fri, 19 Dec 2025 14:14:58 GMT | Aftermouth | JustJules | [Read More](https://medium.com/p/bcc161aaf9b9) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 08:46:04 GMT | The Open Redirect That Could Turn a Trusted URL Into a Weapon — A Bug Hunting Story | Anshubind | [Read More](https://medium.com/p/c01e47e5ab3a) |
 | Fri, 19 Dec 2025 08:45:22 GMT | The phpinfo() Page That Shouldn’t Have Been There — And How It Exposed NykaaMan’s Internal… | Anshubind | [Read More](https://medium.com/p/ee5f6e568159) |
 | Fri, 19 Dec 2025 08:42:45 GMT | The Architecture of Isolation: From Crafting Containers to Industrial Standards | Mr Ben Abdallah | [Read More](https://medium.com/p/c8cff4876255) |
-| Fri, 19 Dec 2025 08:41:05 GMT | 10 Best CSPM Solutions for Multi-Cloud Environments (Ranked & Reviewed) | SecureSlate | [Read More](https://medium.com/p/e587256be1f0) |
-| Fri, 19 Dec 2025 08:37:38 GMT | The Cryptography Concept Journey — Shamir’s Secret Sharing | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7d78dd9cf855) |
-| Fri, 19 Dec 2025 08:36:32 GMT | Mastering Next.js Monorepos for Enterprise Scale | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/6c6c2cb73710) |
-| Fri, 19 Dec 2025 08:32:18 GMT | SaaS Founders: Cut Support Tickets by Catching Compromised Accounts Early | Alexandre Vandamme | [Read More](https://medium.com/p/16afad04f9ba) |
-| Fri, 19 Dec 2025 08:28:00 GMT | Inside the AI-Native Era: Insights and Myth Busters for Modern Security Teams | Garvitasethi | [Read More](https://medium.com/p/f6c58cea73ef) |
-| Fri, 19 Dec 2025 08:17:56 GMT | How to setup Android Application testing environment Step by Step guide | Jahan Zeb | [Read More](https://medium.com/p/5d36ebcea33f) |
-| Fri, 19 Dec 2025 08:16:58 GMT | Top Features Every MDR Platform Should Have | Eventus Security Private Limited | [Read More](https://medium.com/p/50d5beb3d3e1) |
-| Fri, 19 Dec 2025 08:13:48 GMT | Cybersecurity Course in Telugu: Learn Digital Security with Confidence | Adasmadasu | [Read More](https://medium.com/p/b663530b8811) |
-| Fri, 19 Dec 2025 08:04:14 GMT | How Vision 2030 Is Accelerating the Cybersecurity Market in Saudi Arabia | Vijay Mishra | [Read More](https://medium.com/p/aa858bbe606b) |
-| Fri, 19 Dec 2025 08:03:57 GMT | The Daily Tech Digest: 19 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e4df8150014e) |
-| Fri, 19 Dec 2025 08:00:29 GMT | Open Source Intelligence (OSINT) Analysis: Digital Risks in the Nigerian Banking Sector. | Adaeze Damian | [Read More](https://medium.com/p/01eb6fdc48dd) |
-| Fri, 19 Dec 2025 07:59:28 GMT | SOC Services in Malaysia: Strengthening 24/7 Cyber Threat Monitoring | Prakash Factosecure | [Read More](https://medium.com/p/40738dc817f5) |
-| Fri, 19 Dec 2025 07:58:50 GMT | How to Integrate a Honeypot with Wazuh SIEM (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/446e389910ef) |
