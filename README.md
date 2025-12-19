@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 22:57:41 GMT | ABAC (Attribute-Based Access Control): The Missing Layer of Modern Authorization | Stoic Engineer | [Read More](https://medium.com/p/8d01ae2b69d4) |
+| Fri, 19 Dec 2025 22:50:56 GMT | TryHackMe: harder Writeup | cbev | [Read More](https://medium.com/p/69b07cfe5867) |
 | Fri, 19 Dec 2025 22:37:04 GMT | Modern Red Team Operations: Initial Foothold & Discovery in Active Directory Environments | Bilal Berk karabulut | [Read More](https://medium.com/p/b5c348049904) |
 | Fri, 19 Dec 2025 22:33:37 GMT | What I Learned from Website Cloning and SMB Enumeration Labs | Isaac Edzie | [Read More](https://medium.com/p/998f1a63538a) |
 | Fri, 19 Dec 2025 22:32:00 GMT | Attack Surface Management (ASM) in 2026 | Adam Rhys Heaton | [Read More](https://medium.com/p/0dcd2ea0ed05) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 16:04:57 GMT | How to Build an IT Security Strategy That Actually Works | Cordula Boeck | [Read More](https://medium.com/p/52d842c95a6c) |
 | Fri, 19 Dec 2025 16:04:32 GMT | Stored XSS Attack | Mylescorey | [Read More](https://medium.com/p/e0b43a0ca72f) |
 | Fri, 19 Dec 2025 16:02:54 GMT | Code Red for Apple Users: Inside the WebKit Zero-Days That Just Hit Your Device | Motasem Hamdan | [Read More](https://medium.com/p/ac46e69daaba) |
-| Fri, 19 Dec 2025 15:59:07 GMT | How I Set Up a SIEM Using Wazuh | Felicity Lois | [Read More](https://medium.com/p/f2e833a16374) |
-| Fri, 19 Dec 2025 15:56:08 GMT | CCTV Installation Services In Hyderabad - Anu Cc Cameras | Anucccameras | [Read More](https://medium.com/p/b7c705e38c02) |
