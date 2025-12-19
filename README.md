@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 07:18:51 GMT | CYBER SECURITY | rajendra maurya | [Read More](https://medium.com/p/ca7d0d2ad59d) |
+| Fri, 19 Dec 2025 07:17:27 GMT | Cybersecurity as a Service for Reliable Business Defense | Archana Agarwal | [Read More](https://medium.com/p/5b2e6ee9c4eb) |
+| Fri, 19 Dec 2025 07:10:35 GMT | 5 Ways Higher Education Builds Data Resilience | Aileen Scott | [Read More](https://medium.com/p/e4ea4900d18f) |
+| Fri, 19 Dec 2025 07:08:54 GMT | Electronic Security Solutions: The Role of Security Consultancy in India’s Evolving Safety… | Ciss India | [Read More](https://medium.com/p/a16e1553ed72) |
+| Fri, 19 Dec 2025 07:06:02 GMT | VAPTServicesComprehensive VAPT services to Secure Your Digital Assets - Secninjaz Technologies LLP | Secninjaz Technologies LLP | [Read More](https://medium.com/p/2963c967e75c) |
+| Fri, 19 Dec 2025 06:59:59 GMT | How Do Organizations Scale Security Operations with SOAR Solutions? | NetWitness | [Read More](https://medium.com/p/209145f0eb92) |
+| Fri, 19 Dec 2025 06:58:31 GMT | Top 10 Subdomain Discovery Tools That Beat Amass: Level Up Your Recon Game | Very Lazy Tech | [Read More](https://medium.com/p/eea86f3b284d) |
+| Fri, 19 Dec 2025 06:57:20 GMT | How to Install SonarQube Using Docker on EC2 (Ubuntu 24.04) | Rajesh Thakur | [Read More](https://medium.com/p/a7d424c8d0dd) |
+| Fri, 19 Dec 2025 06:43:51 GMT | The Corix Partners Friday Reading List — December 19, 2025 | JC Gaillard | [Read More](https://medium.com/p/8faf3fa0d2a4) |
+| Fri, 19 Dec 2025 06:42:47 GMT | HIPAA Compliance Services for Healthcare Providers and Practices | Cyber Cops | [Read More](https://medium.com/p/07f64c2ffcf8) |
+| Fri, 19 Dec 2025 06:41:15 GMT | Part 0: The Journey in Climbing Out of The LLM Trap in CTI | Ly Dion | [Read More](https://medium.com/p/015da449c4cb) |
+| Fri, 19 Dec 2025 06:38:39 GMT | OSINT Dunyasına Giris: Verinin Bilgiye Donustugu Nokta | Umut Baran Yavuz | [Read More](https://medium.com/p/9dee6e9a9fdc) |
+| Fri, 19 Dec 2025 06:37:40 GMT | Your Debugging Sucks Because You’re Not Asking These 8 Questions | The Latency Gambler | [Read More](https://medium.com/p/4b1796ca0697) |
 | Fri, 19 Dec 2025 06:20:16 GMT | Why Vulnerability Is a Speaker’s Real Superpower? | Yuvi Aggarwal | [Read More](https://medium.com/p/f19ac2000ca3) |
 | Fri, 19 Dec 2025 06:17:18 GMT | Why Did Türkiye Down a Drone with an F-16? | Melike Balkın Karakaya | [Read More](https://medium.com/p/678afc6b9276) |
 | Fri, 19 Dec 2025 06:16:24 GMT | Top 5 Lessons That Stayed and Were Relearned This Year! | Jayakishor Bayadi | [Read More](https://medium.com/p/792900f18446) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 21:31:58 GMT | HackTheBox: MonitorsFour | Rahaliashraf | [Read More](https://medium.com/p/4859add0b51c) |
 | Thu, 18 Dec 2025 21:24:32 GMT | Advent of Cyber 2025 - Day 18: Obfuscation - The Egg Shell File | Akshat Patel | [Read More](https://medium.com/p/a8102c196f4b) |
 | Thu, 18 Dec 2025 21:21:21 GMT | Google Dorking: Arama Motorunu Bir Güvenlik Aracına Dönüştürmek | Deniz Bacak | [Read More](https://medium.com/p/94838a629c17) |
-| Thu, 18 Dec 2025 21:17:49 GMT | OSINT: Temel Kavramlar, Kullanilan Siteler ve Tool’lar | telix | [Read More](https://medium.com/p/a66a54dfe320) |
-| Thu, 18 Dec 2025 21:02:44 GMT | Stream Azure Activity Logs to Splunk Cloud (SIEM) Using Azure Event Hubs | Hilton Gusmão | [Read More](https://medium.com/p/e4b0c8f9c852) |
-| Thu, 18 Dec 2025 20:51:10 GMT | Obfuscation - The Egg Shell File · Advent of Cyber 2025 - Day 18 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/ac037fc4c371) |
-| Thu, 18 Dec 2025 20:49:42 GMT | The Cryptography Concept Journey — Digital Certificates | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/278d2bc299d2) |
-| Thu, 18 Dec 2025 20:36:04 GMT | Finding the Secret Ingredient: A “Pickle Rick” CTF Walkthrough | IshhIshneet | [Read More](https://medium.com/p/b76f1af9e705) |
-| Thu, 18 Dec 2025 20:35:47 GMT | Mr. Robot CTF: A Comprehensive Walkthrough | IshhIshneet | [Read More](https://medium.com/p/709c4e2987c7) |
-| Thu, 18 Dec 2025 20:26:38 GMT | Modernizing Kubernetes Access with Teleport and SSO | Ayham Hassan | [Read More](https://medium.com/p/f2c73550a963) |
-| Thu, 18 Dec 2025 20:21:18 GMT | Is Linux Really Impossible on iOS? Not Exactly. | MouhibMahadbi | [Read More](https://medium.com/p/6e5d13b9a3b2) |
-| Thu, 18 Dec 2025 20:16:49 GMT | How I’m Preparing for the Security+ Exam (and What I’ve Learned So Far) | Secured By Sebastion | [Read More](https://medium.com/p/810910ebff85) |
-| Thu, 18 Dec 2025 20:10:01 GMT | Google Dorking Nedir? | Kerem Göçen | [Read More](https://medium.com/p/8b0165083f5c) |
-| Thu, 18 Dec 2025 20:09:48 GMT | Deepfakes, Disinformation, and the Coming Identity Crisis | James Kreis | [Read More](https://medium.com/p/b5912ba6f1ae) |
-| Thu, 18 Dec 2025 20:08:26 GMT | Why Domain-Specific AI Is the Future of Proactive Cybersecurity | anthony k | [Read More](https://medium.com/p/80e9dc9abeb8) |
-| Thu, 18 Dec 2025 19:59:43 GMT | Applying Data Protection in Our Applications | Jen Cracchiola | [Read More](https://medium.com/p/6278df95d010) |
