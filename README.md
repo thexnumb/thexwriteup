@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 20:37:58 GMT | AI — You’ve Come a Long Way, Baby | Matt Ray | [Read More](https://medium.com/p/0a737b7e74e7) |
+| Fri, 19 Dec 2025 20:26:00 GMT | Day #64 of writing a poem per day | Sunny Brown | [Read More](https://medium.com/p/d24c3673fa26) |
+| Fri, 19 Dec 2025 20:23:57 GMT | How I Found an Unauthenticated XXE That Allowed Arbitrary File Read in NASA | Thomas A. | [Read More](https://medium.com/p/bfffe24dc24e) |
+| Fri, 19 Dec 2025 20:19:14 GMT | CYBER-ENABLED FINANCIAL CRIMES AND THEIR EFFECTS ON DIGITAL BANKING ADOPTION | Udyeffiong | [Read More](https://medium.com/p/5d0521f7d6f7) |
 | Fri, 19 Dec 2025 20:12:52 GMT | The War Room: A Post-Mortem of Earth’s Digital Vitals-2 | Cruz | [Read More](https://medium.com/p/77b2a506238a) |
 | Fri, 19 Dec 2025 20:11:58 GMT | Advent of Cyber 2025 - Day 19: ICS/Modbus - Claus for Concern | Akshat Patel | [Read More](https://medium.com/p/a9dc2d15fd56) |
 | Fri, 19 Dec 2025 20:06:06 GMT | Digital Signatures, Explained Simply | Talalmog | [Read More](https://medium.com/p/29bd69d8d318) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 15:11:04 GMT | PicoCTF — Flag in Flame | uikayo | [Read More](https://medium.com/p/91c56d83cc10) |
 | Fri, 19 Dec 2025 15:10:02 GMT | Patch Culture in Cybersecurity | Voldemaras Kadys | [Read More](https://medium.com/p/9c74e715ec56) |
 | Fri, 19 Dec 2025 15:02:49 GMT | Cyber Briefing: 2025.12.19 | CyberMaterial | [Read More](https://medium.com/p/d19cb2559355) |
-| Fri, 19 Dec 2025 15:02:48 GMT | Bentley Key Fob Replacement: Fast, Smart, and Stress-Free | Sure Lock & Key LLC | [Read More](https://medium.com/p/68e9a81d9605) |
-| Fri, 19 Dec 2025 15:02:44 GMT | Tor Ditched C for Rust, and Your Privacy Just Got Better | Bhavyansh | [Read More](https://medium.com/p/4876f74b8909) |
-| Fri, 19 Dec 2025 15:01:56 GMT | ’      … | Anwar Khalid | [Read More](https://medium.com/p/684cdd580c59) |
-| Fri, 19 Dec 2025 14:57:39 GMT | How to Get an Alberta Security License: Complete Requirements & Step-by-Step Guide | Hirasarfraz | [Read More](https://medium.com/p/7368bcff69e6) |
