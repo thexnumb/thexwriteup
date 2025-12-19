@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 11:33:22 GMT | ️ Routing Manipulation Investigations: Tracing the Attacker’s Route | Esra Kayhan | [Read More](https://medium.com/p/5d3ca3881db8) |
+| Fri, 19 Dec 2025 11:27:53 GMT | The Leaky Login — Sniffing Credentials from Raw Packets | Aditya Bhatt | [Read More](https://medium.com/p/0d0f4b62f560) |
+| Fri, 19 Dec 2025 11:20:57 GMT | Cyber Warfare Has Changed and Most Leaders Haven’t Noticed Yet! | Himanshu Chaudhary | [Read More](https://medium.com/p/a2df71048bcc) |
+| Fri, 19 Dec 2025 11:19:57 GMT | Cloudflare for Small Businesses: Security and Speed on a Budget | Owtanet | [Read More](https://medium.com/p/de7eb078b4fa) |
+| Fri, 19 Dec 2025 11:15:44 GMT | PDFeye: is that pdf hiding malware? | Roberto Dillon | [Read More](https://medium.com/p/425ba3b4032d) |
+| Fri, 19 Dec 2025 11:10:05 GMT | Stop CAPTCHA Loops and 429 Spikes | CoinZenith | [Read More](https://medium.com/p/83e26eed76ee) |
 | Fri, 19 Dec 2025 11:07:38 GMT | Penetration Testing Certification for Beginners | Manisha Chaudhary | [Read More](https://medium.com/p/39a9971e935b) |
 | Fri, 19 Dec 2025 11:05:10 GMT | Australia’s Noosa Council $2.3M & A Sophisticated Public Funds Sham | O. J. Okpabi | [Read More](https://medium.com/p/5bc0f07c47a3) |
 | Fri, 19 Dec 2025 11:02:41 GMT | AI Turned Her Face Into A Weapon | O. J. Okpabi | [Read More](https://medium.com/p/40bc0dcfa7c0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 04:47:28 GMT | Perplexity AI Deep Research Explained: Step-by-Step 2025 Guide | Rakesh Sahani | [Read More](https://medium.com/p/baf6fee43ce8) |
 | Fri, 19 Dec 2025 04:37:10 GMT | Obfuscation — The Egg Shell File | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/ce6052cbbb7a) |
 | Fri, 19 Dec 2025 04:36:12 GMT | Logların İzinde: APT Senaryosu — 4 | Ali Ekber KARA | [Read More](https://medium.com/p/dad5898237ce) |
-| Fri, 19 Dec 2025 04:32:34 GMT | 7 Cross-Program Risk Tests Before Shipping a Router | Duckweave | [Read More](https://medium.com/p/22c839e587fb) |
-| Fri, 19 Dec 2025 04:32:34 GMT | Day 6: The DPDP Act and Data Sharing — Secure, Responsible & Purpose-Bound | Saurabh Sharma | [Read More](https://medium.com/p/926f8fc521c5) |
-| Fri, 19 Dec 2025 04:21:40 GMT | How I Ended Up Choosing Cybersecurity | Harlin Taggar | [Read More](https://medium.com/p/9a047ac0cc90) |
-| Fri, 19 Dec 2025 04:11:45 GMT | How to Automate Your SOC2 Evidence Collection | Ofri Peretz | [Read More](https://medium.com/p/ec92c6862fd2) |
-| Fri, 19 Dec 2025 04:10:11 GMT | Obfuscation — The Egg Shell File (AoC TryHackMe Write-Up) — Day 18 | Taufiqurrahman Yudhi Atmadja | [Read More](https://medium.com/p/70307c9a346d) |
-| Fri, 19 Dec 2025 04:03:42 GMT | CTF Daily Bugle - TryHackMe | Henrique | [Read More](https://medium.com/p/e3290872ddad) |
