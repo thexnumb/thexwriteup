@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 17:23:08 GMT | The Silent Cyber Threat: Overconfidence in “Secure” Systems | Ankit rai | [Read More](https://medium.com/p/5f9a1aef309d) |
+| Fri, 19 Dec 2025 17:21:05 GMT | Indirect Prompt Injection: Summarize Email Leads to Several Unauthorized Actions | rdzsp | [Read More](https://medium.com/p/42892e03da20) |
+| Fri, 19 Dec 2025 17:18:40 GMT | CVE-2025–67418: When Default Credentials Become a Remote Root Button | Arpit Sharma | [Read More](https://medium.com/p/03be5ee4b927) |
+| Fri, 19 Dec 2025 17:18:24 GMT | My Unfiltered Journey through Cybersecurity | Yaaahyax | [Read More](https://medium.com/p/a4bff8eeb5a4) |
+| Fri, 19 Dec 2025 17:17:37 GMT | Securing Medical Devices in Healthcare | Shane Haynes | [Read More](https://medium.com/p/eecbc01c41db) |
+| Fri, 19 Dec 2025 17:15:44 GMT | Managing IT Assets Across Borders: Navigating the Digital Wild West | Len Noe | [Read More](https://medium.com/p/f4633ede68ff) |
+| Fri, 19 Dec 2025 17:11:57 GMT | Insufficient Transport Layer Protection Vulnerabilities: You Down With ITLP? (Yeah, you know me!) | Jen Cracchiola | [Read More](https://medium.com/p/e5733fcb9283) |
 | Fri, 19 Dec 2025 17:11:05 GMT | Certifications — The Hard Truth | Amir Akhwand | [Read More](https://medium.com/p/9a5cd377bfd4) |
 | Fri, 19 Dec 2025 17:06:13 GMT | Cybersecurity News Review — Week 51 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/89c41acd0dc7) |
 | Fri, 19 Dec 2025 17:04:34 GMT | The Corp.com Collision | satyaranjan bal | [Read More](https://medium.com/p/0851377741b2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 12:09:45 GMT | Chat with your commits: AI + 1Password + Terminal | Matteo Codogno | [Read More](https://medium.com/p/cd252761f81b) |
 | Fri, 19 Dec 2025 12:06:41 GMT | How I Found a $8,560 Password Reset Bug | Codi | [Read More](https://medium.com/p/23a5845421c9) |
 | Fri, 19 Dec 2025 12:06:24 GMT | I’m Still Learning: Lessons I’ve Learned (the Hard Way) as a New Team Lead | Lokesh Rawal | [Read More](https://medium.com/p/6dabde7c4ddf) |
-| Fri, 19 Dec 2025 11:59:46 GMT | Investigating Windows 3.x | Ismaelggm | [Read More](https://medium.com/p/0f210a3aaaa1) |
-| Fri, 19 Dec 2025 11:59:01 GMT | Getting started with Mythic C2 | r4ulcl | [Read More](https://medium.com/p/6e4dfe46dede) |
-| Fri, 19 Dec 2025 11:57:37 GMT | Are You Really as Original as You Think? | Alexandra Costea | [Read More](https://medium.com/p/e3ee6b634e65) |
-| Fri, 19 Dec 2025 11:55:43 GMT | How a React Request Turned Into Full Server Shell Root Access (React‑to‑Shell) Understanding using… | Muhammad Abdul Rehman | [Read More](https://medium.com/p/4e11ceb58b73) |
-| Fri, 19 Dec 2025 11:33:22 GMT | ️ Routing Manipulation Investigations: Tracing the Attacker’s Route | Esra Kayhan | [Read More](https://medium.com/p/5d3ca3881db8) |
-| Fri, 19 Dec 2025 11:32:56 GMT | UEFI Secure Boot Linux Trust Chain: How Your Distro Gets Microsoft’s Permission to Boot | Can Artuc | [Read More](https://medium.com/p/4742902ed07e) |
-| Fri, 19 Dec 2025 11:27:53 GMT | The Leaky Login — Sniffing Credentials from Raw Packets | Aditya Bhatt | [Read More](https://medium.com/p/0d0f4b62f560) |
