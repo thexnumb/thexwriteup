@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 05:13:07 GMT | Best Summer Training in Lucknow for Cybersecurity & IT Students (2025 Guide) | Ankit rai | [Read More](https://medium.com/p/874e0ecc3781) |
+| Fri, 19 Dec 2025 05:12:53 GMT | 7 Reasons Learning Foundations Beats Learning Tools | Saurav Singh | [Read More](https://medium.com/p/2b5997bc068d) |
+| Fri, 19 Dec 2025 05:10:26 GMT | VIP Security Services in Dubai — Trusted Protection for High-Profile Clients | Delight international Security Services | [Read More](https://medium.com/p/09bf1f5eadb3) |
+| Fri, 19 Dec 2025 05:07:20 GMT | My First Digital Autopsy: How I Created & Investigated My Own Disk Image (Chaos Included :/ ) | Jamilex Estevez | [Read More](https://medium.com/p/1226fe43fb35) |
+| Fri, 19 Dec 2025 04:47:28 GMT | Perplexity AI Deep Research Explained: Step-by-Step 2025 Guide | Rakesh Sahani | [Read More](https://medium.com/p/baf6fee43ce8) |
 | Fri, 19 Dec 2025 04:37:10 GMT | Obfuscation — The Egg Shell File | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/ce6052cbbb7a) |
 | Fri, 19 Dec 2025 04:36:12 GMT | Logların İzinde: APT Senaryosu — 4 | Ali Ekber KARA | [Read More](https://medium.com/p/dad5898237ce) |
 | Fri, 19 Dec 2025 04:32:34 GMT | 7 Cross-Program Risk Tests Before Shipping a Router | Duckweave | [Read More](https://medium.com/p/22c839e587fb) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 19:19:18 GMT | Rethinking Banking Architecture in a High-Compute World | Aarya Thakar | [Read More](https://medium.com/p/7aa669e02ffa) |
 | Thu, 18 Dec 2025 19:05:22 GMT | CyberChef - Hoperation Save McSkidy · Advent of Cyber 2025 - Day 17 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/4d54c45e705d) |
 | Thu, 18 Dec 2025 19:03:57 GMT | On zero-knowledge and trust in password managers | Passary | [Read More](https://medium.com/p/56fdd921bda3) |
-| Thu, 18 Dec 2025 19:01:11 GMT | React2Shell: The Critical Vulnerability That Shook the JavaScript World | Aditya Kumar Tiwari | [Read More](https://medium.com/p/843647dc5247) |
-| Thu, 18 Dec 2025 18:50:52 GMT | Cyber Guidance for Small Businesses | @boblord | [Read More](https://medium.com/p/35e316b1bfbc) |
-| Thu, 18 Dec 2025 18:47:35 GMT | A PRACTICAL GUIDE TO PROMOTING THE REAL ADOPTION OF CRYPTOCURRENCIES IN THE EVERYDAY ECONOMY | EurocoinPay.io | [Read More](https://medium.com/p/cec715e4c71c) |
-| Thu, 18 Dec 2025 18:47:21 GMT | Obfuscated Code: What It Really Is, Why It Exists, and Whether You Can Crack It Open | Toni Maxx | [Read More](https://medium.com/p/559265c71c7f) |
-| Thu, 18 Dec 2025 18:46:13 GMT | “Why Your Password Is Trash (And Other Ways Hackers Win)” | Vasujaggi | [Read More](https://medium.com/p/b67e2b6a0bee) |
