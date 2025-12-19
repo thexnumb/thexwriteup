@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 06:20:16 GMT | Why Vulnerability Is a Speaker’s Real Superpower? | Yuvi Aggarwal | [Read More](https://medium.com/p/f19ac2000ca3) |
+| Fri, 19 Dec 2025 06:17:18 GMT | Why Did Türkiye Down a Drone with an F-16? | Melike Balkın Karakaya | [Read More](https://medium.com/p/678afc6b9276) |
+| Fri, 19 Dec 2025 06:16:24 GMT | Top 5 Lessons That Stayed and Were Relearned This Year! | Jayakishor Bayadi | [Read More](https://medium.com/p/792900f18446) |
+| Fri, 19 Dec 2025 06:09:09 GMT | Westminster Abbey Flying the Flag | Ella Read | [Read More](https://medium.com/p/08d72d754bb2) |
+| Fri, 19 Dec 2025 06:02:12 GMT | SOC169 — Possible IDOR Attack Detected | Tomasz Kozlowski | [Read More](https://medium.com/p/b3b36b428be6) |
+| Fri, 19 Dec 2025 06:00:06 GMT | How 4 Months of Sleepless Nights Led Me to My First NASA Letter of Recognition | Ninadgowda | [Read More](https://medium.com/p/c6a8174356c4) |
+| Fri, 19 Dec 2025 05:55:24 GMT | Develop Key Competencies in Cybersecurity and Risk Management | Kadhijahafiya | [Read More](https://medium.com/p/ce7dad7a0d20) |
+| Fri, 19 Dec 2025 05:54:33 GMT | Security First Software Engineering: Best Practices That Actually Work | Nayan Goel | [Read More](https://medium.com/p/5dc05ed9b0d0) |
+| Fri, 19 Dec 2025 05:46:15 GMT | DC-1 Walkthrough: Learning Web Exploitation & Linux Privilege Escalation as a Beginner | Abinash Kumar Yadav | [Read More](https://medium.com/p/a6f6e0f8ec3b) |
+| Fri, 19 Dec 2025 05:45:33 GMT | Google is evil, and will do whatever it takes to own you | David Garcia | [Read More](https://medium.com/p/7e48b0dcc34d) |
+| Fri, 19 Dec 2025 05:38:38 GMT | Critical Security Alert: Remote Code Execution Vulnerability in React Server Components… | Sai Kiran | [Read More](https://medium.com/p/0b19050fc8f5) |
+| Fri, 19 Dec 2025 05:36:25 GMT | Leading Software Development Company in Hyderabad | Mdandampalli | [Read More](https://medium.com/p/91e2a514a3ef) |
 | Fri, 19 Dec 2025 05:31:56 GMT | Digital Marketing + IT: Why Businesses Succeed Faster With Integrated Technology Solutions | Concentics Private Limited | [Read More](https://medium.com/p/979b2d457a74) |
+| Fri, 19 Dec 2025 05:31:18 GMT | The Observability Blueprint: Capacity Planning Before You Onboard (A Field Guide) | Srikanta Sahu | [Read More](https://medium.com/p/f12bf103f103) |
 | Fri, 19 Dec 2025 05:13:07 GMT | Best Summer Training in Lucknow for Cybersecurity & IT Students (2025 Guide) | Ankit rai | [Read More](https://medium.com/p/874e0ecc3781) |
 | Fri, 19 Dec 2025 05:12:53 GMT | 7 Reasons Learning Foundations Beats Learning Tools | Saurav Singh | [Read More](https://medium.com/p/2b5997bc068d) |
 | Fri, 19 Dec 2025 05:10:26 GMT | VIP Security Services in Dubai — Trusted Protection for High-Profile Clients | Delight international Security Services | [Read More](https://medium.com/p/09bf1f5eadb3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 20:09:48 GMT | Deepfakes, Disinformation, and the Coming Identity Crisis | James Kreis | [Read More](https://medium.com/p/b5912ba6f1ae) |
 | Thu, 18 Dec 2025 20:08:26 GMT | Why Domain-Specific AI Is the Future of Proactive Cybersecurity | anthony k | [Read More](https://medium.com/p/80e9dc9abeb8) |
 | Thu, 18 Dec 2025 19:59:43 GMT | Applying Data Protection in Our Applications | Jen Cracchiola | [Read More](https://medium.com/p/6278df95d010) |
-| Thu, 18 Dec 2025 19:59:00 GMT | Microservices Authentication: Token Server Setup with Working Code | .Net Labs | [Read More](https://medium.com/p/c1ec4ce8d802) |
-| Thu, 18 Dec 2025 19:54:04 GMT | Anatomía de una Infección | FeCeSociety | [Read More](https://medium.com/p/a6a68910751c) |
-| Thu, 18 Dec 2025 19:51:25 GMT | Top 5 Open Source SOAR Solutions in 2025 | UTMStack | [Read More](https://medium.com/p/f7e931546dd0) |
-| Thu, 18 Dec 2025 19:42:43 GMT | IDOR — Santa’s Little IDOR Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e590bd85996b) |
-| Thu, 18 Dec 2025 19:41:42 GMT | Threat Detection and Response Trends that will Impact this Year | NetWitness | [Read More](https://medium.com/p/6a587e1fc799) |
-| Thu, 18 Dec 2025 19:41:13 GMT | Obfuscation- The Egg Shell File AOC 2025 Day 18 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/79fb4c8402ea) |
-| Thu, 18 Dec 2025 19:37:54 GMT | HTB Season Gacha - MonitorsFour — The Full Path from IDOR to Docker Desktop escape (WSL2) and root | Svjatoslav König | [Read More](https://medium.com/p/de2de2f5062a) |
-| Thu, 18 Dec 2025 19:34:17 GMT | How I Installed Wordlistctl on Kali Linux: Step-by-Step Guide | Md. Ekhtiar Hossain | [Read More](https://medium.com/p/03a65275ae51) |
-| Thu, 18 Dec 2025 19:31:49 GMT | Advancements in Agent OS and NatLangChain Ecosystems | Kase | [Read More](https://medium.com/p/0a15fe4de908) |
-| Thu, 18 Dec 2025 19:30:58 GMT | Burp Suite Nedir? Web Uygulama Güvenliği Testlerinde Kullanımı | Egemen Ayyıldız | [Read More](https://medium.com/p/e6dd05af0685) |
-| Thu, 18 Dec 2025 19:22:11 GMT | First-Party Fraud and Chargeback Abuse in 2025: A Systemic Challenge for Financial Services | Dan Chang | [Read More](https://medium.com/p/6f87a1f6dd82) |
-| Thu, 18 Dec 2025 19:19:19 GMT | Garden Finance, Moonwell, DMi Token: $11.9M | Olympix | [Read More](https://medium.com/p/00bba7c4f3d4) |
-| Thu, 18 Dec 2025 19:19:18 GMT | Rethinking Banking Architecture in a High-Compute World | Aarya Thakar | [Read More](https://medium.com/p/7aa669e02ffa) |
