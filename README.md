@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 03:17:39 GMT | Road to Root: A Complete Walkthrough of Corrosion: 2 | Harlin Taggar | [Read More](https://medium.com/p/62c2d32cfb02) |
+| Fri, 19 Dec 2025 03:09:41 GMT | Understanding React2Shell: A Critical Vulnerability in React Server Components (CVE-2025–55182) | Frostynxth | [Read More](https://medium.com/p/9a834711c0ee) |
+| Fri, 19 Dec 2025 03:02:58 GMT | Spring Boot Made Entry Easy — But Mastery Rare | The Dev Notebook | [Read More](https://medium.com/p/0ed5a60a2816) |
+| Fri, 19 Dec 2025 03:02:26 GMT | How Tails OS Saved a Journalist’s Investigation: Real Stories of Digital Survival | Sajidur Rahman | [Read More](https://medium.com/p/49cb02c09637) |
+| Fri, 19 Dec 2025 02:58:34 GMT | Paper to Proof: Failure Modes in Appeals & Legal Service | Letro | [Read More](https://medium.com/p/b60c63910fe2) |
+| Fri, 19 Dec 2025 02:47:14 GMT | NETWORK PENTEST VISUAL GUIDE OF BACKDOORS AND NPCs — 01CS | Arudi Valentine | [Read More](https://medium.com/p/44fc8a9ea82a) |
+| Fri, 19 Dec 2025 02:36:27 GMT | Malware Analysis: Resource-Based Dropper Deploying a Masqueraded svchost.exe | HackettSec | [Read More](https://medium.com/p/4b08f2bd978d) |
+| Fri, 19 Dec 2025 02:15:48 GMT | The Password Alchemist: How a Simple Parameter Swap Led to Full Account Takeover | Fuzzyy Duck | [Read More](https://medium.com/p/d3436b226889) |
+| Fri, 19 Dec 2025 02:14:35 GMT | From Keyboards to Nuclear Warheads: Inside North Korea’s Crypto Laundering Machine | chaincertify | [Read More](https://medium.com/p/a720f5c32501) |
+| Fri, 19 Dec 2025 02:12:03 GMT | The M&S Data Breach: What Happened — and How Daifend Could Have Helped!! | Bhawini. | [Read More](https://medium.com/p/dbb6dc5897b5) |
+| Fri, 19 Dec 2025 02:11:38 GMT | Want to Be a Pentester? Master These 5 Skills ! | Shahzaib | [Read More](https://medium.com/p/69a018acc4ad) |
+| Fri, 19 Dec 2025 02:09:12 GMT | Hidden Admin Tools → Full Exploitation Chains | Monika sharma | [Read More](https://medium.com/p/eb36d9132193) |
+| Fri, 19 Dec 2025 02:00:03 GMT | CVE-2025–52692: Discovery and Exploitation of Zero-day Vulnerability in Linksys E9450-SG Router | Jun Rong | [Read More](https://medium.com/p/cda5c829bbf9) |
 | Fri, 19 Dec 2025 01:40:00 GMT | I Automated Wildcard SSL with Cloudflare DNS for Proxy Servers (Marzban & X-UI) | Tawana Mohammadi | [Read More](https://medium.com/p/b899fb341e20) |
 | Fri, 19 Dec 2025 01:36:50 GMT | bt What Men Truly Desire Beyond Physical Intimacy: 5 Key Aspects Women Often Overlook | Xiexiange | [Read More](https://medium.com/p/59ddbf33fd1b) |
 | Fri, 19 Dec 2025 01:32:18 GMT | 5 NFT Revenue Splits That Don’t Leak Funds | Quaxel | [Read More](https://medium.com/p/211d582a19fd) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 17:39:50 GMT | Advent of Cyber 25 — Day 17 — CyberChef — Hoperation Save McSkidy | cybertactic | [Read More](https://medium.com/p/a7bc4cb28e2a) |
 | Thu, 18 Dec 2025 17:35:46 GMT | CCNP Security Certification: A Practical Guide for Advanced Cisco Security Careers | Saurav Banerjee | [Read More](https://medium.com/p/91afdbd4e9be) |
 | Thu, 18 Dec 2025 17:31:14 GMT | CCNP Enterprise Certification: Your Complete Guide to Advancing Enterprise Networking Skills | Saurav Banerjee | [Read More](https://medium.com/p/0bbf3993268f) |
-| Thu, 18 Dec 2025 17:28:40 GMT | In AI, Each Neuron Is Just a Small Function — Here’s the Easiest Way to Understand It | Prapti Vahia | [Read More](https://medium.com/p/72f109f7c28d) |
-| Thu, 18 Dec 2025 17:27:55 GMT | Common Security Bugs in Go — Part 1: Authentication & Signatures | Dhruv Gundecha | [Read More](https://medium.com/p/645595507458) |
-| Thu, 18 Dec 2025 17:15:12 GMT | Vulnerability in Visual Studio Code Go extension | ASAcrew Blog | [Read More](https://medium.com/p/5009e541fc13) |
-| Thu, 18 Dec 2025 17:14:31 GMT | 一次登入，長期有效？OAuth2 的魔法 | 思維舞步 MindSteps | [Read More](https://medium.com/p/e59716bb7dcc) |
-| Thu, 18 Dec 2025 17:13:11 GMT | Look Inside The House Write-up (Ringzeroteam) | colo | [Read More](https://medium.com/p/6f799a91d3f1) |
-| Thu, 18 Dec 2025 17:08:03 GMT | Setting Up My First Cybersecurity Home Lab | Vengadasalam | [Read More](https://medium.com/p/b129f3a47360) |
-| Thu, 18 Dec 2025 17:05:02 GMT | How to Check If Your WhatsApp Is Hacked (Phone & PC) | Usama Ahmad | [Read More](https://medium.com/p/80b1e615f850) |
-| Thu, 18 Dec 2025 16:57:48 GMT | Sentinel Security Solutions: A Central Coast Security Infrastructure Staple | Torchlight Marketing | [Read More](https://medium.com/p/a16fdd92cbd9) |
-| Thu, 18 Dec 2025 16:57:16 GMT | Why Most Bug Bounty Findings Come From Thinking, Not Tools | Gl1tch | [Read More](https://medium.com/p/2899347e6890) |
-| Thu, 18 Dec 2025 16:56:35 GMT | Penetration Testing News: Key Updates and Trends for 2025 | Hoplon InfoSec | [Read More](https://medium.com/p/cd7733e4bb77) |
-| Thu, 18 Dec 2025 16:52:16 GMT | I Tried to Break My Own AI (and Learned a Lot) | Elisheba Builds | [Read More](https://medium.com/p/092ed484230c) |
-| Thu, 18 Dec 2025 16:41:30 GMT | Fake Shopping Domains Surge as Threat Actors Exploit the 2025 Holiday Season | Chetan Seripally | [Read More](https://medium.com/p/d0605aa17371) |
-| Thu, 18 Dec 2025 16:25:07 GMT | Zero Trust Security — Why “Trust No One” Is the Future of the Internet | Code x Design by Pranav | [Read More](https://medium.com/p/04c1c8f3c4c0) |
