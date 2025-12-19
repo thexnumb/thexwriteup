@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 20:12:52 GMT | The War Room: A Post-Mortem of Earth’s Digital Vitals-2 | Cruz | [Read More](https://medium.com/p/77b2a506238a) |
+| Fri, 19 Dec 2025 20:11:58 GMT | Advent of Cyber 2025 - Day 19: ICS/Modbus - Claus for Concern | Akshat Patel | [Read More](https://medium.com/p/a9dc2d15fd56) |
+| Fri, 19 Dec 2025 20:06:06 GMT | Digital Signatures, Explained Simply | Talalmog | [Read More](https://medium.com/p/29bd69d8d318) |
+| Fri, 19 Dec 2025 19:54:36 GMT | What Is Swagger UI? | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/b3986b7d0d87) |
+| Fri, 19 Dec 2025 19:48:41 GMT | Yapay Zekâ Destekli Otonom Siber Saldırılar Gerçekleşti. | Mustafa YILMAZ | [Read More](https://medium.com/p/291519f1fad1) |
+| Fri, 19 Dec 2025 19:47:58 GMT | What I Learned From Cloning a Website and Scanning SMB Vulnerabilities | Aliutijani | [Read More](https://medium.com/p/ec71245fb42b) |
+| Fri, 19 Dec 2025 19:42:44 GMT | Prompt Injection AOC 2025 Day 8 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/a3aff3053d12) |
+| Fri, 19 Dec 2025 19:41:16 GMT | ICS/Modbus- Claus for Concern AOC 2025 Day 19 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/c9543bae9ed5) |
+| Fri, 19 Dec 2025 19:35:06 GMT | Cloudflare’s Wall of Entropy: How Lava Lamps Protect the Internet with Randomness | Akshay Wakhare | [Read More](https://medium.com/p/9d43615a8b5f) |
 | Fri, 19 Dec 2025 19:28:25 GMT | Exploring Penetration Testing: SMB Enumeration and Social Engineering with Website Cloning | Seun odebode | [Read More](https://medium.com/p/315fb5ea9b4d) |
 | Fri, 19 Dec 2025 19:24:14 GMT | How to Migrate PYRO Tokens. Upgrade Before It’s Too Late! | Jamesnoah | [Read More](https://medium.com/p/2c8fd42f1a54) |
 | Fri, 19 Dec 2025 19:10:25 GMT | SSRF PortSwigger Academy (Lab 1 solution) | Ammar Ahmed | [Read More](https://medium.com/p/ece35c11c7d9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 15:02:44 GMT | Tor Ditched C for Rust, and Your Privacy Just Got Better | Bhavyansh | [Read More](https://medium.com/p/4876f74b8909) |
 | Fri, 19 Dec 2025 15:01:56 GMT | ’      … | Anwar Khalid | [Read More](https://medium.com/p/684cdd580c59) |
 | Fri, 19 Dec 2025 14:57:39 GMT | How to Get an Alberta Security License: Complete Requirements & Step-by-Step Guide | Hirasarfraz | [Read More](https://medium.com/p/7368bcff69e6) |
-| Fri, 19 Dec 2025 14:51:49 GMT | Mitigation Isn’t Failure: What Timmins’ Security Pilot Reveals About Public Safety | Scott Hill | [Read More](https://medium.com/p/2a62c6eff176) |
-| Fri, 19 Dec 2025 14:45:39 GMT | WHAT IS BEST ACCESS MODEL IN SNOWFLAKE? | alok singh | [Read More](https://medium.com/p/46ea96b5fd9d) |
-| Fri, 19 Dec 2025 14:42:48 GMT | Arbitrary Code Execution (ACE) vs Remote Code Execution (RCE) | Drraghavendra | [Read More](https://medium.com/p/826da016ede0) |
-| Fri, 19 Dec 2025 14:41:15 GMT | Biblioteca — THM Writeup | Kavin Jindal | [Read More](https://medium.com/p/78dd46cff0d8) |
-| Fri, 19 Dec 2025 14:32:43 GMT | (Comptia A+) Safeguarding Essential Data: A Technician’s Guide to Handling Regulated Information | Vignesh R | [Read More](https://medium.com/p/8ac319f2366f) |
-| Fri, 19 Dec 2025 14:14:58 GMT | Aftermouth | JustJules | [Read More](https://medium.com/p/bcc161aaf9b9) |
-| Fri, 19 Dec 2025 14:12:36 GMT | The Kind of Admiration That Never Gets Close | maa | [Read More](https://medium.com/p/0b0afe38e32e) |
-| Fri, 19 Dec 2025 14:06:42 GMT | Active Directory Pratik Rehberi : V “Dayanıklılık & Ağ Entegrasyonu” | Taha Altın | [Read More](https://medium.com/p/b025d490bc7e) |
-| Fri, 19 Dec 2025 14:05:17 GMT | Red Team vs Blue Team: What College Never Teaches You | Asmit Patil | [Read More](https://medium.com/p/d09f22fd7076) |
