@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 15:37:34 GMT | Why Zero Trust Quietly Fails in Web3 | Abatis ABTU | [Read More](https://medium.com/p/146f01fc49cc) |
+| Fri, 19 Dec 2025 15:37:23 GMT | PicoCTF — Matryoshka doll | uikayo | [Read More](https://medium.com/p/6511e14cbb05) |
+| Fri, 19 Dec 2025 15:36:51 GMT | Ağ Güvenliğinin İki Temel Taşı: IDS ve IPS Arasındaki Kritik Farklar | Muhammed Emin Berberoğlu | [Read More](https://medium.com/p/9a3f2af85f7c) |
+| Fri, 19 Dec 2025 15:32:47 GMT | How We Debug Event-Driven Systems Without Losing Our Minds | Lakshika | [Read More](https://medium.com/p/573ec28786ea) |
+| Fri, 19 Dec 2025 15:31:35 GMT | Stored XSS (Kalıcı XSS) | Melih Yılmaz | [Read More](https://medium.com/p/a2ce747f1de0) |
+| Fri, 19 Dec 2025 15:30:43 GMT | TryHackMe — PrintNightmare Thrice! - A Short & Simple Writeup | CP4rrot | [Read More](https://medium.com/p/25fa20f57c08) |
+| Fri, 19 Dec 2025 15:28:14 GMT | TT$100 Billion Spent, 7,400+ Murders Recorded: Trinidad and Tobago’s Security Dilemma | True Democracy TT | [Read More](https://medium.com/p/2f717ce6284e) |
+| Fri, 19 Dec 2025 15:26:13 GMT | tunn3l_v1s10n | NicholasLionel | [Read More](https://medium.com/p/8e01bb198014) |
 | Fri, 19 Dec 2025 15:19:33 GMT | Exploring Container Security with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/299cae63b3fb) |
 | Fri, 19 Dec 2025 15:19:29 GMT | Exploring Auditd Advanced Usage with Real World Scenarios | Linux Guide | [Read More](https://medium.com/p/66fbab103641) |
+| Fri, 19 Dec 2025 15:18:58 GMT | Website & Online Presence Monitoring: The Silent Safety Net Every Small Business Needs | Paradise technologies Inc | [Read More](https://medium.com/p/bf140b8d173a) |
 | Fri, 19 Dec 2025 15:17:01 GMT | Outlawed / Banned from the Fraudulent Bug Bounty World: The Story of Cyber Kalki | ElonMuskTheAntichrist | [Read More](https://medium.com/p/a73028b0959d) |
+| Fri, 19 Dec 2025 15:16:46 GMT | Docker Made Hardened Images Free -and That Quietly Changes Container Security | Marios Petrellis | [Read More](https://medium.com/p/45b56dae6eae) |
 | Fri, 19 Dec 2025 15:12:14 GMT | Why GRC Analysts Are Getting Stuck in 2026 .. And GRC Engineers Aren’t | Taimur Ijlal | [Read More](https://medium.com/p/dc306281c5f4) |
 | Fri, 19 Dec 2025 15:11:04 GMT | PicoCTF — Flag in Flame | uikayo | [Read More](https://medium.com/p/91c56d83cc10) |
 | Fri, 19 Dec 2025 15:10:02 GMT | Patch Culture in Cybersecurity | Voldemaras Kadys | [Read More](https://medium.com/p/9c74e715ec56) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 09:34:19 GMT | PortSwigger: XSS otaqları (1) | Farid Mehdiyev | [Read More](https://medium.com/p/6c32d337374d) |
 | Fri, 19 Dec 2025 09:20:36 GMT | BloodCat Updated to Version 1.3!!! | Мартин. | [Read More](https://medium.com/p/5f44b0a0d84b) |
 | Fri, 19 Dec 2025 09:15:39 GMT | Advent of Cyber 25 — Day 18 — Obfuscation — The Egg Shell File | cybertactic | [Read More](https://medium.com/p/49cb0f7ee261) |
-| Fri, 19 Dec 2025 09:11:31 GMT | Top Methods for Monitoring and Responding to Security Incidents | Rahman Iqbal | [Read More](https://medium.com/p/5edca0e4d3f8) |
-| Fri, 19 Dec 2025 09:09:30 GMT | Inside India’s ₹1,000 Crore Cyber Fraud Case: How Investigators Traced a Pan-India Scam to Chinese… | Naman Shekhar Sharma | [Read More](https://medium.com/p/0946578e7a42) |
-| Fri, 19 Dec 2025 09:07:57 GMT | Securing Legacy Infrastructure in an AI-Driven Enterprise | Syed Zeeshan Hayder Kazmi | [Read More](https://medium.com/p/2b1b77f59507) |
-| Fri, 19 Dec 2025 09:03:23 GMT | I Hacked AI To Build Me a C2 Server and get Shell Access | Jordy de Koning | [Read More](https://medium.com/p/73ebf6223e6b) |
-| Fri, 19 Dec 2025 08:55:17 GMT | Tải Wuthering Waves Apk V2.7.1 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/0f1f58dd533e) |
-| Fri, 19 Dec 2025 08:47:48 GMT | Getting “Verified” Commits on GitHub | Ian Ngethe Muchiri | [Read More](https://medium.com/p/88237024a856) |
-| Fri, 19 Dec 2025 08:47:43 GMT | The Fortress of Strength: Why Your Walls Are Keeping You Safe, But Lonely | Yash Patil | [Read More](https://medium.com/p/26f92e08d07a) |
-| Fri, 19 Dec 2025 08:46:04 GMT | The Open Redirect That Could Turn a Trusted URL Into a Weapon — A Bug Hunting Story | Anshubind | [Read More](https://medium.com/p/c01e47e5ab3a) |
-| Fri, 19 Dec 2025 08:45:22 GMT | The phpinfo() Page That Shouldn’t Have Been There — And How It Exposed NykaaMan’s Internal… | Anshubind | [Read More](https://medium.com/p/ee5f6e568159) |
-| Fri, 19 Dec 2025 08:42:45 GMT | The Architecture of Isolation: From Crafting Containers to Industrial Standards | Mr Ben Abdallah | [Read More](https://medium.com/p/c8cff4876255) |
