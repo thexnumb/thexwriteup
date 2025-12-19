@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 09:20:36 GMT | BloodCat Updated to Version 1.3!!! | Мартин. | [Read More](https://medium.com/p/5f44b0a0d84b) |
+| Fri, 19 Dec 2025 09:15:39 GMT | Advent of Cyber 25 — Day 18 — Obfuscation — The Egg Shell File | cybertactic | [Read More](https://medium.com/p/49cb0f7ee261) |
+| Fri, 19 Dec 2025 09:11:31 GMT | Top Methods for Monitoring and Responding to Security Incidents | Rahman Iqbal | [Read More](https://medium.com/p/5edca0e4d3f8) |
+| Fri, 19 Dec 2025 09:09:30 GMT | Inside India’s ₹1,000 Crore Cyber Fraud Case: How Investigators Traced a Pan-India Scam to Chinese… | Naman Shekhar Sharma | [Read More](https://medium.com/p/0946578e7a42) |
+| Fri, 19 Dec 2025 09:07:57 GMT | Securing Legacy Infrastructure in an AI-Driven Enterprise | Syed Zeeshan Hayder Kazmi | [Read More](https://medium.com/p/2b1b77f59507) |
+| Fri, 19 Dec 2025 09:03:23 GMT | I Hacked AI To Build Me a C2 Server and get Shell Access | Jordy de Koning | [Read More](https://medium.com/p/73ebf6223e6b) |
+| Fri, 19 Dec 2025 08:55:17 GMT | Tải Wuthering Waves Apk V2.7.1 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/0f1f58dd533e) |
+| Fri, 19 Dec 2025 08:47:48 GMT | Getting “Verified” Commits on GitHub | Ian Ngethe Muchiri | [Read More](https://medium.com/p/88237024a856) |
+| Fri, 19 Dec 2025 08:47:43 GMT | The Fortress of Strength: Why Your Walls Are Keeping You Safe, But Lonely | Yash Patil | [Read More](https://medium.com/p/26f92e08d07a) |
+| Fri, 19 Dec 2025 08:46:04 GMT | The Open Redirect That Could Turn a Trusted URL Into a Weapon — A Bug Hunting Story | Anshubind | [Read More](https://medium.com/p/c01e47e5ab3a) |
+| Fri, 19 Dec 2025 08:45:22 GMT | The phpinfo() Page That Shouldn’t Have Been There — And How It Exposed NykaaMan’s Internal… | Anshubind | [Read More](https://medium.com/p/ee5f6e568159) |
+| Fri, 19 Dec 2025 08:42:45 GMT | The Architecture of Isolation: From Crafting Containers to Industrial Standards | Mr Ben Abdallah | [Read More](https://medium.com/p/c8cff4876255) |
+| Fri, 19 Dec 2025 08:41:05 GMT | 10 Best CSPM Solutions for Multi-Cloud Environments (Ranked & Reviewed) | SecureSlate | [Read More](https://medium.com/p/e587256be1f0) |
+| Fri, 19 Dec 2025 08:37:38 GMT | The Cryptography Concept Journey — Shamir’s Secret Sharing | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7d78dd9cf855) |
+| Fri, 19 Dec 2025 08:36:32 GMT | Mastering Next.js Monorepos for Enterprise Scale | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/6c6c2cb73710) |
+| Fri, 19 Dec 2025 08:32:18 GMT | SaaS Founders: Cut Support Tickets by Catching Compromised Accounts Early | Alexandre Vandamme | [Read More](https://medium.com/p/16afad04f9ba) |
+| Fri, 19 Dec 2025 08:28:00 GMT | Inside the AI-Native Era: Insights and Myth Busters for Modern Security Teams | Garvitasethi | [Read More](https://medium.com/p/f6c58cea73ef) |
 | Fri, 19 Dec 2025 08:17:56 GMT | How to setup Android Application testing environment Step by Step guide | Jahan Zeb | [Read More](https://medium.com/p/5d36ebcea33f) |
+| Fri, 19 Dec 2025 08:16:58 GMT | Top Features Every MDR Platform Should Have | Eventus Security Private Limited | [Read More](https://medium.com/p/50d5beb3d3e1) |
 | Fri, 19 Dec 2025 08:13:48 GMT | Cybersecurity Course in Telugu: Learn Digital Security with Confidence | Adasmadasu | [Read More](https://medium.com/p/b663530b8811) |
 | Fri, 19 Dec 2025 08:04:14 GMT | How Vision 2030 Is Accelerating the Cybersecurity Market in Saudi Arabia | Vijay Mishra | [Read More](https://medium.com/p/aa858bbe606b) |
 | Fri, 19 Dec 2025 08:03:57 GMT | The Daily Tech Digest: 19 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e4df8150014e) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 01:40:00 GMT | I Automated Wildcard SSL with Cloudflare DNS for Proxy Servers (Marzban & X-UI) | Tawana Mohammadi | [Read More](https://medium.com/p/b899fb341e20) |
 | Fri, 19 Dec 2025 01:36:50 GMT | bt What Men Truly Desire Beyond Physical Intimacy: 5 Key Aspects Women Often Overlook | Xiexiange | [Read More](https://medium.com/p/59ddbf33fd1b) |
 | Fri, 19 Dec 2025 01:32:18 GMT | 5 NFT Revenue Splits That Don’t Leak Funds | Quaxel | [Read More](https://medium.com/p/211d582a19fd) |
-| Fri, 19 Dec 2025 01:02:18 GMT | Broken Access Control: low-privilege user dapat Menghapus Lampiran Slip Gaji Melalui Endpoint… | Robi Mohamad subagja | [Read More](https://medium.com/p/ba7e3b58c04b) |
-| Fri, 19 Dec 2025 00:59:20 GMT | Crew | Chris Perkins | [Read More](https://medium.com/p/f3efdcb804c2) |
-| Fri, 19 Dec 2025 00:56:15 GMT | The React Server Components Incident Wasn’t a Bug. It Was a Trust Failure. | Saumya Kant Kamal | [Read More](https://medium.com/p/685affe45bed) |
-| Fri, 19 Dec 2025 00:43:05 GMT | When “Harmless” Files Become A Malware Delivery Trap | Geoffrey Wenger | [Read More](https://medium.com/p/3e1ac69e35e1) |
-| Fri, 19 Dec 2025 00:43:02 GMT | Honest Computer Maintenance Without Subscriptions Or Tracking | Geoffrey Wenger | [Read More](https://medium.com/p/861316525905) |
-| Fri, 19 Dec 2025 00:36:48 GMT | Moving Abroad Isn’t a Fairy Tale: The Reality I Had to Learn the Hard Way | M Umar Akhlaq | [Read More](https://medium.com/p/8de72a55730d) |
-| Fri, 19 Dec 2025 00:19:54 GMT | Malvertising Leads to Fake DockerDesktop.exe “GPUGate” Dropper | Maurice Fielenbach | [Read More](https://medium.com/p/a320f8bf7f89) |
-| Fri, 19 Dec 2025 00:11:19 GMT | Dynamic Analysis of a Windows Keylogger with Process Monitor and Process Explorer | bit_tico | [Read More](https://medium.com/p/207625e8ffd0) |
-| Fri, 19 Dec 2025 00:05:19 GMT | The Most Dangerous AI Feature Isn’t Chatbots, It’s Undetectable Image Editing | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/c29f9ccd2815) |
-| Thu, 18 Dec 2025 23:54:42 GMT | How I built a Secure Guest Network Using VLANs and ACLs | Sophia Mitchell | [Read More](https://medium.com/p/bc809174e9ce) |
-| Thu, 18 Dec 2025 23:52:08 GMT | Linux logrotate: Prevent Disk Full Outages Without Losing Logs | Murat Kurkoglu | [Read More](https://medium.com/p/b8699926a618) |
-| Thu, 18 Dec 2025 23:36:54 GMT | The Cartographer’s Map | Dominic Eaton 2 | [Read More](https://medium.com/p/f257af384d24) |
-| Thu, 18 Dec 2025 23:32:51 GMT | React2Shell Shows Us Why JavaScript On The Server Was A Mistake | Andrew Zuo | [Read More](https://medium.com/p/fdb3cdcc0ec1) |
-| Thu, 18 Dec 2025 23:18:50 GMT | The DeRec Alliance: The Treaty to End the Crypto Casino | Jeffrey Smith | [Read More](https://medium.com/p/e9d4720cfb5f) |
-| Thu, 18 Dec 2025 23:12:52 GMT | The Unseen Layer Of Tech That Makes The Modern World Feel Supernatural | Abstract Mind | [Read More](https://medium.com/p/5e578e778115) |
-| Thu, 18 Dec 2025 23:08:13 GMT | Frankenstein APC Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1007c24a0317) |
-| Thu, 18 Dec 2025 23:07:40 GMT | Inside the OT Cyber War Room: Who Sits Where, What’s on the Screens, and Who Gets to Pull the Plug | Muhammad Ali Khan | [Read More](https://medium.com/p/7764f05bedd1) |
-| Thu, 18 Dec 2025 23:06:55 GMT | Training Under Fire: How To Drill OT Operators For Cognitive Overload | Muhammad Ali Khan | [Read More](https://medium.com/p/c2a949f4c410) |
