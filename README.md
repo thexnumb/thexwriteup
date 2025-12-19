@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 18:23:07 GMT | Advent of Cyber 2025 Day 19 - TryHackMe - ICS/Modbus - Claus for Concern - WriteUp | Axoloth | [Read More](https://medium.com/p/cea119b5802a) |
+| Fri, 19 Dec 2025 18:16:46 GMT | Information disclosure, but not in the way you might expect | Rajveer | [Read More](https://medium.com/p/a914479e06cc) |
+| Fri, 19 Dec 2025 18:07:46 GMT | From Connection to Controversy: The Dual Nature of Social Media in Today’s Society | Miss.Yine Yenki Nyika | [Read More](https://medium.com/p/e4175cbca435) |
+| Fri, 19 Dec 2025 18:07:38 GMT | Is Microsoft 365 Email Secure to Use? Detailed Analysis of M365 Security Features | EINITIAL24 | [Read More](https://medium.com/p/f26159f0a976) |
+| Fri, 19 Dec 2025 18:00:36 GMT | Server Error. How to fix? | Thomas Weex | [Read More](https://medium.com/p/f671bc915c59) |
+| Fri, 19 Dec 2025 18:00:07 GMT | I Predicted AI Manipulation Years Ago. Now It’s Becoming a Reality | Aarya Thakar | [Read More](https://medium.com/p/7c2fde3f3172) |
+| Fri, 19 Dec 2025 17:56:52 GMT | Why Most People Get Stuck Learning Cybersecurity | Hania Khan | [Read More](https://medium.com/p/550c9583ba00) |
+| Fri, 19 Dec 2025 17:49:29 GMT | Infinity Learning lab: Lambda Escalation — Writeup | Hubert | [Read More](https://medium.com/p/5fa1a4976434) |
+| Fri, 19 Dec 2025 17:49:19 GMT | Understanding Cybersecurity: A Beginner’s Perspective | Vanshika Kukreja | [Read More](https://medium.com/p/fff662652423) |
+| Fri, 19 Dec 2025 17:36:44 GMT | Why AI Needs Data Instead of “Intelligence” | Prapti Vahia | [Read More](https://medium.com/p/4cedf8de4a2a) |
+| Fri, 19 Dec 2025 17:28:06 GMT | Kimwolf Botnet Hijacks 1.8 Million Android TVs for Global DDoS Attacks | Gligits.ini | [Read More](https://medium.com/p/b263d1a639f6) |
 | Fri, 19 Dec 2025 17:23:08 GMT | The Silent Cyber Threat: Overconfidence in “Secure” Systems | Ankit rai | [Read More](https://medium.com/p/5f9a1aef309d) |
+| Fri, 19 Dec 2025 17:22:20 GMT | How Spring Security Actually Works (A Deep, Practical Walkthrough) | Pranesh Meher | [Read More](https://medium.com/p/2ec2b6a8100c) |
 | Fri, 19 Dec 2025 17:21:05 GMT | Indirect Prompt Injection: Summarize Email Leads to Several Unauthorized Actions | rdzsp | [Read More](https://medium.com/p/42892e03da20) |
 | Fri, 19 Dec 2025 17:18:40 GMT | CVE-2025–67418: When Default Credentials Become a Remote Root Button | Arpit Sharma | [Read More](https://medium.com/p/03be5ee4b927) |
 | Fri, 19 Dec 2025 17:18:24 GMT | My Unfiltered Journey through Cybersecurity | Yaaahyax | [Read More](https://medium.com/p/a4bff8eeb5a4) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 13:01:00 GMT | Everything Wrong With Cybersecurity Education (And What We’re Doing About It) | Ulrich Swart | [Read More](https://medium.com/p/1b4cfc4e03e1) |
 | Fri, 19 Dec 2025 12:56:09 GMT | Digler: The Modern Forensic Disk Analysis and File Recovery Toolkit | Pralin Khaira | [Read More](https://medium.com/p/5c4bbc0a2c9a) |
 | Fri, 19 Dec 2025 12:55:20 GMT | AI vs. AI: How Voidly’s Hydra Outsmarts Automated Censorship | Voidly | [Read More](https://medium.com/p/8d722a7a0396) |
-| Fri, 19 Dec 2025 12:54:11 GMT | Code: HackTheBox Writeup | HackTheBox SRMIST | [Read More](https://medium.com/p/7b1d764df077) |
-| Fri, 19 Dec 2025 12:28:03 GMT | How to Hunt for and Analyze Disappearing C2 Beaconing Servers? | Zahra Bibi | [Read More](https://medium.com/p/bd73bf648cba) |
-| Fri, 19 Dec 2025 12:27:47 GMT | Ethical Hacking: Legal Scope and Cyber Threat Assessment | Rebelldon | [Read More](https://medium.com/p/1fabff4022cc) |
-| Fri, 19 Dec 2025 12:27:18 GMT | Let’s Defend SOC141 — Phishing URL Detected (Analyst Thought Process) | Pablo Rodriguez Sanz | [Read More](https://medium.com/p/096ecd0a6ed5) |
-| Fri, 19 Dec 2025 12:15:25 GMT | Ethical Hacking Classes Online with Certificate in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/39d409124303) |
-| Fri, 19 Dec 2025 12:11:46 GMT | Volatility Plugins — Plugin window.ssdt Let’s Talk About it | Dean | [Read More](https://medium.com/p/1d086bb13ce7) |
-| Fri, 19 Dec 2025 12:11:08 GMT | Medallion Architecture: The Data LakeHouse Pattern That Actually Works | Jitin Kayyala | [Read More](https://medium.com/p/6b3897999f8d) |
-| Fri, 19 Dec 2025 12:10:55 GMT | Architecting a Secure MCP Server with Python & FastAPI | William Famy | [Read More](https://medium.com/p/643916a65477) |
-| Fri, 19 Dec 2025 12:10:24 GMT | One Language Is Enough: Why Beginners Should Start With Python | Usama Ahmad | [Read More](https://medium.com/p/657965bbc5dd) |
-| Fri, 19 Dec 2025 12:09:45 GMT | Chat with your commits: AI + 1Password + Terminal | Matteo Codogno | [Read More](https://medium.com/p/cd252761f81b) |
-| Fri, 19 Dec 2025 12:06:41 GMT | How I Found a $8,560 Password Reset Bug | Codi | [Read More](https://medium.com/p/23a5845421c9) |
-| Fri, 19 Dec 2025 12:06:24 GMT | I’m Still Learning: Lessons I’ve Learned (the Hard Way) as a New Team Lead | Lokesh Rawal | [Read More](https://medium.com/p/6dabde7c4ddf) |
