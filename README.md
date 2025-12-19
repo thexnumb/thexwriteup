@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 03:58:48 GMT | The Mathematics of Digital Extortion: A Forensic Accountant’s Analysis of “Synthetic Negative” Data | Nezahualpilli Tlapalco | [Read More](https://medium.com/p/41bd0661d243) |
+| Fri, 19 Dec 2025 03:46:13 GMT | From the subjects of bug-bounty, I am a learner , lets learn together.. | L3v1 ⚔️ | [Read More](https://medium.com/p/345688bc0e3b) |
+| Fri, 19 Dec 2025 03:39:33 GMT | How to Use Git to Manage Your Tools, Notes, and Scripts | Aj | [Read More](https://medium.com/p/339b45ca2095) |
+| Fri, 19 Dec 2025 03:39:26 GMT | GitHub Action Secrets Vulnerable to Token Exploitation | Valentin Podkamennyi | [Read More](https://medium.com/p/d23f64e88641) |
+| Fri, 19 Dec 2025 03:38:49 GMT | Code Smell 317 — Email Handling Vulnerabilities | Maximiliano Contieri | [Read More](https://medium.com/p/cfdf66f36e64) |
+| Fri, 19 Dec 2025 03:36:20 GMT | Data Exfiltration Detection — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/4f3d5a070ecf) |
+| Fri, 19 Dec 2025 03:35:16 GMT | Tutorial Membuat Cloud Storage Pribadi dengan ownCloud, XAMPP, dan ngrok | Muhammad Ade Nur Wahyudi | [Read More](https://medium.com/p/98490a485e2e) |
+| Fri, 19 Dec 2025 03:32:39 GMT | Top 7 Tools for Progressive Delivery in Node.js | Arunangshu Das | [Read More](https://medium.com/p/e6a0ceb2344b) |
+| Fri, 19 Dec 2025 03:32:39 GMT | The USB Trap: How a Simple USB Shortcut Fuels a Silent Crypto-Mining Operation | Deven Chhajed | [Read More](https://medium.com/p/2d8d1a143ff8) |
 | Fri, 19 Dec 2025 03:17:39 GMT | Road to Root: A Complete Walkthrough of Corrosion: 2 | Harlin Taggar | [Read More](https://medium.com/p/62c2d32cfb02) |
 | Fri, 19 Dec 2025 03:09:41 GMT | Understanding React2Shell: A Critical Vulnerability in React Server Components (CVE-2025–55182) | Frostynxth | [Read More](https://medium.com/p/9a834711c0ee) |
 | Fri, 19 Dec 2025 03:02:58 GMT | Spring Boot Made Entry Easy — But Mastery Rare | The Dev Notebook | [Read More](https://medium.com/p/0ed5a60a2816) |
@@ -60,6 +69,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 21:32:35 GMT | My Journey in IT, Cybersecurity, and Automation — Kehinde Ladepo | kehinde ladepo | [Read More](https://medium.com/p/ba7840e63bf7) |
 | Thu, 18 Dec 2025 21:31:58 GMT | HackTheBox: MonitorsFour | Rahaliashraf | [Read More](https://medium.com/p/4859add0b51c) |
 | Thu, 18 Dec 2025 21:24:32 GMT | Advent of Cyber 2025 - Day 18: Obfuscation - The Egg Shell File | Akshat Patel | [Read More](https://medium.com/p/a8102c196f4b) |
+| Thu, 18 Dec 2025 21:21:21 GMT | Google Dorking: Arama Motorunu Bir Güvenlik Aracına Dönüştürmek | Deniz Bacak | [Read More](https://medium.com/p/94838a629c17) |
 | Thu, 18 Dec 2025 21:17:49 GMT | OSINT: Temel Kavramlar, Kullanilan Siteler ve Tool’lar | telix | [Read More](https://medium.com/p/a66a54dfe320) |
 | Thu, 18 Dec 2025 21:02:44 GMT | Stream Azure Activity Logs to Splunk Cloud (SIEM) Using Azure Event Hubs | Hilton Gusmão | [Read More](https://medium.com/p/e4b0c8f9c852) |
 | Thu, 18 Dec 2025 20:51:10 GMT | Obfuscation - The Egg Shell File · Advent of Cyber 2025 - Day 18 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/ac037fc4c371) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Dec 2025 18:20:23 GMT | Saldırganların En Sessiz Silahı: Blind SQL Injection ! | Iremzeynep | [Read More](https://medium.com/p/6ff00d9fc739) |
 | Thu, 18 Dec 2025 18:16:53 GMT | XSS Nedir? XSS Rehberi Ve Örnek Lab Çözümü | Yusuf sakin yeşiltaş | [Read More](https://medium.com/p/0b27c2f0c3f1) |
 | Thu, 18 Dec 2025 18:14:32 GMT | Email Security & The Crisis of Trust in Digital Communications | Andrew Kagan | [Read More](https://medium.com/p/36a29eb19639) |
-| Thu, 18 Dec 2025 18:11:49 GMT | OAuth2 Explained for Microservices in Java (Beginner Friendly) | Anand Jeyaseelan | [Read More](https://medium.com/p/826eb7e99d75) |
-| Thu, 18 Dec 2025 18:10:50 GMT | Comparative study: pentesting / jailbreaking AI agents | Berend Watchus | [Read More](https://medium.com/p/123cb3710684) |
-| Thu, 18 Dec 2025 18:06:54 GMT | React2Shell (CVE-2025–55182) is not “just another React bug”. | Gaurav Sengar | [Read More](https://medium.com/p/48267b31a769) |
-| Thu, 18 Dec 2025 18:05:29 GMT | A Hands-On Introduction to Polyglot Files | Kulkan Security | [Read More](https://medium.com/p/699885a3e59f) |
-| Thu, 18 Dec 2025 17:55:15 GMT | n8n for Cybersecurity Automation: A Practical, Honest Exploration | Rigved Nimish Mankame | [Read More](https://medium.com/p/fecd681b32e8) |
-| Thu, 18 Dec 2025 17:53:15 GMT | Data Maintenance: Securing, Preserving, and Permanently Eliminating Digital Information | Little_Sun4lower | [Read More](https://medium.com/p/90a2171503c7) |
-| Thu, 18 Dec 2025 17:42:28 GMT | Your Social Media Feed Is Full of Ghosts and It Is Costing You Money | Muhaideen Nausar | [Read More](https://medium.com/p/32f412d20498) |
-| Thu, 18 Dec 2025 17:39:50 GMT | Advent of Cyber 25 — Day 17 — CyberChef — Hoperation Save McSkidy | cybertactic | [Read More](https://medium.com/p/a7bc4cb28e2a) |
-| Thu, 18 Dec 2025 17:35:46 GMT | CCNP Security Certification: A Practical Guide for Advanced Cisco Security Careers | Saurav Banerjee | [Read More](https://medium.com/p/91afdbd4e9be) |
-| Thu, 18 Dec 2025 17:31:14 GMT | CCNP Enterprise Certification: Your Complete Guide to Advancing Enterprise Networking Skills | Saurav Banerjee | [Read More](https://medium.com/p/0bbf3993268f) |
