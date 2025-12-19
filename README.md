@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Dec 2025 12:28:03 GMT | How to Hunt for and Analyze Disappearing C2 Beaconing Servers? | Zahra Bibi | [Read More](https://medium.com/p/bd73bf648cba) |
+| Fri, 19 Dec 2025 12:27:47 GMT | Ethical Hacking: Legal Scope and Cyber Threat Assessment | Rebelldon | [Read More](https://medium.com/p/1fabff4022cc) |
+| Fri, 19 Dec 2025 12:27:18 GMT | Let’s Defend SOC141 — Phishing URL Detected (Analyst Thought Process) | Pablo Rodriguez Sanz | [Read More](https://medium.com/p/096ecd0a6ed5) |
+| Fri, 19 Dec 2025 12:15:25 GMT | Ethical Hacking Classes Online with Certificate in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/39d409124303) |
+| Fri, 19 Dec 2025 12:11:46 GMT | Volatility Plugins — Plugin window.ssdt Let’s Talk About it | Dean | [Read More](https://medium.com/p/1d086bb13ce7) |
+| Fri, 19 Dec 2025 12:11:08 GMT | Medallion Architecture: The Data LakeHouse Pattern That Actually Works | Jitin Kayyala | [Read More](https://medium.com/p/6b3897999f8d) |
+| Fri, 19 Dec 2025 12:10:55 GMT | Architecting a Secure MCP Server with Python & FastAPI | William Famy | [Read More](https://medium.com/p/643916a65477) |
+| Fri, 19 Dec 2025 12:10:24 GMT | One Language Is Enough: Why Beginners Should Start With Python | Usama Ahmad | [Read More](https://medium.com/p/657965bbc5dd) |
+| Fri, 19 Dec 2025 12:09:45 GMT | Chat with your commits: AI + 1Password + Terminal | Matteo Codogno | [Read More](https://medium.com/p/cd252761f81b) |
+| Fri, 19 Dec 2025 12:06:41 GMT | How I Found a $8,560 Password Reset Bug | Codi | [Read More](https://medium.com/p/23a5845421c9) |
+| Fri, 19 Dec 2025 12:06:24 GMT | I’m Still Learning: Lessons I’ve Learned (the Hard Way) as a New Team Lead | Lokesh Rawal | [Read More](https://medium.com/p/6dabde7c4ddf) |
+| Fri, 19 Dec 2025 11:59:46 GMT | Investigating Windows 3.x | Ismaelggm | [Read More](https://medium.com/p/0f210a3aaaa1) |
+| Fri, 19 Dec 2025 11:59:01 GMT | Getting started with Mythic C2 | r4ulcl | [Read More](https://medium.com/p/6e4dfe46dede) |
+| Fri, 19 Dec 2025 11:57:37 GMT | Are You Really as Original as You Think? | Alexandra Costea | [Read More](https://medium.com/p/e3ee6b634e65) |
+| Fri, 19 Dec 2025 11:55:43 GMT | How a React Request Turned Into Full Server Shell Root Access (React‑to‑Shell) Understanding using… | Muhammad Abdul Rehman | [Read More](https://medium.com/p/4e11ceb58b73) |
 | Fri, 19 Dec 2025 11:33:22 GMT | ️ Routing Manipulation Investigations: Tracing the Attacker’s Route | Esra Kayhan | [Read More](https://medium.com/p/5d3ca3881db8) |
+| Fri, 19 Dec 2025 11:32:56 GMT | UEFI Secure Boot Linux Trust Chain: How Your Distro Gets Microsoft’s Permission to Boot | Can Artuc | [Read More](https://medium.com/p/4742902ed07e) |
 | Fri, 19 Dec 2025 11:27:53 GMT | The Leaky Login — Sniffing Credentials from Raw Packets | Aditya Bhatt | [Read More](https://medium.com/p/0d0f4b62f560) |
 | Fri, 19 Dec 2025 11:20:57 GMT | Cyber Warfare Has Changed and Most Leaders Haven’t Noticed Yet! | Himanshu Chaudhary | [Read More](https://medium.com/p/a2df71048bcc) |
 | Fri, 19 Dec 2025 11:19:57 GMT | Cloudflare for Small Businesses: Security and Speed on a Budget | Owtanet | [Read More](https://medium.com/p/de7eb078b4fa) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 06:16:24 GMT | Top 5 Lessons That Stayed and Were Relearned This Year! | Jayakishor Bayadi | [Read More](https://medium.com/p/792900f18446) |
 | Fri, 19 Dec 2025 06:09:09 GMT | Westminster Abbey Flying the Flag | Ella Read | [Read More](https://medium.com/p/08d72d754bb2) |
 | Fri, 19 Dec 2025 06:02:12 GMT | SOC169 — Possible IDOR Attack Detected | Tomasz Kozlowski | [Read More](https://medium.com/p/b3b36b428be6) |
-| Fri, 19 Dec 2025 06:00:06 GMT | How 4 Months of Sleepless Nights Led Me to My First NASA Letter of Recognition | Ninadgowda | [Read More](https://medium.com/p/c6a8174356c4) |
-| Fri, 19 Dec 2025 05:55:24 GMT | Develop Key Competencies in Cybersecurity and Risk Management | Kadhijahafiya | [Read More](https://medium.com/p/ce7dad7a0d20) |
-| Fri, 19 Dec 2025 05:54:33 GMT | Security First Software Engineering: Best Practices That Actually Work | Nayan Goel | [Read More](https://medium.com/p/5dc05ed9b0d0) |
-| Fri, 19 Dec 2025 05:46:15 GMT | DC-1 Walkthrough: Learning Web Exploitation & Linux Privilege Escalation as a Beginner | Abinash Kumar Yadav | [Read More](https://medium.com/p/a6f6e0f8ec3b) |
-| Fri, 19 Dec 2025 05:45:33 GMT | Google is evil, and will do whatever it takes to own you | David Garcia | [Read More](https://medium.com/p/7e48b0dcc34d) |
-| Fri, 19 Dec 2025 05:38:38 GMT | Critical Security Alert: Remote Code Execution Vulnerability in React Server Components… | Sai Kiran | [Read More](https://medium.com/p/0b19050fc8f5) |
-| Fri, 19 Dec 2025 05:36:25 GMT | Leading Software Development Company in Hyderabad | Mdandampalli | [Read More](https://medium.com/p/91e2a514a3ef) |
-| Fri, 19 Dec 2025 05:31:56 GMT | Digital Marketing + IT: Why Businesses Succeed Faster With Integrated Technology Solutions | Concentics Private Limited | [Read More](https://medium.com/p/979b2d457a74) |
-| Fri, 19 Dec 2025 05:31:18 GMT | The Observability Blueprint: Capacity Planning Before You Onboard (A Field Guide) | Srikanta Sahu | [Read More](https://medium.com/p/f12bf103f103) |
-| Fri, 19 Dec 2025 05:13:07 GMT | Best Summer Training in Lucknow for Cybersecurity & IT Students (2025 Guide) | Ankit rai | [Read More](https://medium.com/p/874e0ecc3781) |
-| Fri, 19 Dec 2025 05:12:53 GMT | 7 Reasons Learning Foundations Beats Learning Tools | Saurav Singh | [Read More](https://medium.com/p/2b5997bc068d) |
-| Fri, 19 Dec 2025 05:10:26 GMT | VIP Security Services in Dubai — Trusted Protection for High-Profile Clients | Delight international Security Services | [Read More](https://medium.com/p/09bf1f5eadb3) |
-| Fri, 19 Dec 2025 05:07:20 GMT | My First Digital Autopsy: How I Created & Investigated My Own Disk Image (Chaos Included :/ ) | Jamilex Estevez | [Read More](https://medium.com/p/1226fe43fb35) |
-| Fri, 19 Dec 2025 04:47:28 GMT | Perplexity AI Deep Research Explained: Step-by-Step 2025 Guide | Rakesh Sahani | [Read More](https://medium.com/p/baf6fee43ce8) |
-| Fri, 19 Dec 2025 04:37:10 GMT | Obfuscation — The Egg Shell File | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/ce6052cbbb7a) |
-| Fri, 19 Dec 2025 04:36:12 GMT | Logların İzinde: APT Senaryosu — 4 | Ali Ekber KARA | [Read More](https://medium.com/p/dad5898237ce) |
