@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 10:05:12 GMT | What Is a Header in Networking? | Soundaryaps | [Read More](https://medium.com/p/522699b3351c) |
+| Sat, 20 Dec 2025 10:04:36 GMT | Protecting Your Online Account | Sharif Hassan | [Read More](https://medium.com/p/51b66fd47ada) |
+| Sat, 20 Dec 2025 09:58:55 GMT | PortSwigger Lab Solution: SQL injection vulnerability in WHERE clause allowing retrieval of hidden… | PriOFF | [Read More](https://medium.com/p/b1d0f7ea82e7) |
+| Sat, 20 Dec 2025 09:53:14 GMT | TryHackME VM: Chocolate Factory | Justin Jude Cabodil | [Read More](https://medium.com/p/1bcbdc12e952) |
+| Sat, 20 Dec 2025 09:50:49 GMT | Is Your Website an Open Door? Find Hidden Vulnerabilities in 10 Minutes (Special Offers Inside!) | Yurie Vulnerabilitie Scanner | [Read More](https://medium.com/p/ab339ed04805) |
+| Sat, 20 Dec 2025 09:48:09 GMT | Common Cybersecurity Threats and Attacks: How Systems Really Get Compromised | Lakshay Nimwal | [Read More](https://medium.com/p/9092cd71dc48) |
+| Sat, 20 Dec 2025 09:47:13 GMT | Hackers Don’t Need Passwords. They Just Need You. | Redfox Security | [Read More](https://medium.com/p/b539943c7254) |
+| Sat, 20 Dec 2025 09:34:20 GMT | Fundamental Principles of Information Security | Lakshay Nimwal | [Read More](https://medium.com/p/6de2ce3e4dbd) |
+| Sat, 20 Dec 2025 09:33:58 GMT | When Machines Start Learning From Themselves: The Quiet Crisis No One Is Talking About | Vijay Kumar Gupta | [Read More](https://medium.com/p/601262e15caa) |
 | Sat, 20 Dec 2025 09:09:18 GMT | Security by Output, PHP Response Tricks That Reduce Exposure | Asian Digital Hub | [Read More](https://medium.com/p/3e8a0d8007b0) |
 | Sat, 20 Dec 2025 09:08:56 GMT | Linux Terminali: Siber Güvenliğin Mutfak Tezgahı | Cyber Web | [Read More](https://medium.com/p/cb55314c54c1) |
 | Sat, 20 Dec 2025 08:59:35 GMT | Amazon CloudWatch: A Comprehensive Monitoring and Observability Solution | Somesh | [Read More](https://medium.com/p/5f3dc0078302) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 22:32:00 GMT | Attack Surface Management (ASM) in 2026 | Adam Rhys Heaton | [Read More](https://medium.com/p/0dcd2ea0ed05) |
 | Fri, 19 Dec 2025 22:21:36 GMT | Building a Production-Ready YARA Malware Detection System (Without Breaking the Bank) | ShadowBlue | [Read More](https://medium.com/p/251438af90ad) |
 | Fri, 19 Dec 2025 22:19:40 GMT | Epic Fails in Learning CS — And How to Crush Them | Aras Darweesh | [Read More](https://medium.com/p/3fd697ddc6cd) |
-| Fri, 19 Dec 2025 22:11:17 GMT | China Cyberspace Powered by AI | European Values Center for Security Policy | [Read More](https://medium.com/p/e270ea556e22) |
-| Fri, 19 Dec 2025 22:04:58 GMT | Odysafe CTI Platform: The Open-Source Tool That Actually Simplifies IOC Management | ShadowBlue | [Read More](https://medium.com/p/94058191dd91) |
-| Fri, 19 Dec 2025 22:02:38 GMT | Scammers in China Are Using AI-Generated Images to Get Refunds | Abstract Mind | [Read More](https://medium.com/p/bd8a56f643c4) |
-| Fri, 19 Dec 2025 22:00:37 GMT | Try Hack Me- Easy Peasy Walkthrough | Herrfuhrer | [Read More](https://medium.com/p/f1e8fb7926ab) |
-| Fri, 19 Dec 2025 21:48:31 GMT | 2025 Report: Libertas Alpha Network | Libertas Alpha | [Read More](https://medium.com/p/2acba979b08a) |
-| Fri, 19 Dec 2025 21:43:26 GMT | What I Learned from Hands-On Ethical Hacking Labs: Website Cloning & SMB Enumeration | Mohamed Lebbie | [Read More](https://medium.com/p/f85001671156) |
-| Fri, 19 Dec 2025 21:35:44 GMT | Storm | Chris Perkins | [Read More](https://medium.com/p/e6f374c21fc7) |
-| Fri, 19 Dec 2025 21:29:57 GMT | Beyond the Hype: Building a Reliable, Full-Cycle AI SOC Agent | Aniketagarwal | [Read More](https://medium.com/p/12aaf9dfb004) |
-| Fri, 19 Dec 2025 21:19:49 GMT | Becoming Sherlock Holmes | Juan Hernandez | [Read More](https://medium.com/p/c8bd3086d6b6) |
