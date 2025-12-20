@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 19:15:50 GMT | I Built a Single Frida Script that Automates OWASP Mobile Security Testing | Raj Prasad Kuiri | [Read More](https://medium.com/p/7b26bb5f336a) |
+| Sat, 20 Dec 2025 19:15:10 GMT | Cybersecurity Mindest | Igor Berner | [Read More](https://medium.com/p/cc6157f870cf) |
+| Sat, 20 Dec 2025 19:04:36 GMT | Day 94: My younger brother is a better hacker than I | Nile Okomo | [Read More](https://medium.com/p/8760bf3f4c06) |
+| Sat, 20 Dec 2025 19:04:12 GMT | The Only AI Infrastructure Platform Ready for PQFIF 2035 — and Why That Matters Right Now | DUDE Technologies | [Read More](https://medium.com/p/5881f570b4ce) |
+| Sat, 20 Dec 2025 19:03:57 GMT | How I Passed OSCP+ on First Attempt: A Complete Preparation Guide | Krishnakant Sharma | [Read More](https://medium.com/p/1b07d10fd769) |
+| Sat, 20 Dec 2025 18:58:04 GMT | Apple Introduces New Seven Factor Authentication | NTTP | [Read More](https://medium.com/p/ae1aafa2dbbf) |
+| Sat, 20 Dec 2025 18:52:03 GMT | 2026 Goals — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/f675943b07fb) |
+| Sat, 20 Dec 2025 18:50:42 GMT | Ring Home Standard With Alarm Professional Monitoring: How It Works and Why It Matters for Home… | Criminology Expert | [Read More](https://medium.com/p/7502497ced1a) |
 | Sat, 20 Dec 2025 18:39:51 GMT | Install Suricata step by step on Ubuntu | Soumya Ranjan Sahoo | [Read More](https://medium.com/p/ea58a367288d) |
+| Sat, 20 Dec 2025 18:35:59 GMT | My top dozen Snowflake features released in 2025 | NadirDoctor | [Read More](https://medium.com/p/75cf5537e03f) |
 | Sat, 20 Dec 2025 18:25:34 GMT | Creative — THM Writeup | Kavin Jindal | [Read More](https://medium.com/p/ca7f10d9f325) |
 | Sat, 20 Dec 2025 18:22:36 GMT | PortSwigger Web Security Academy_Complete Walkthrough Series | 0xM3d0din | [Read More](https://medium.com/p/8af0649ca66c) |
 | Sat, 20 Dec 2025 18:21:40 GMT | N0aziXss SubSpectre: Advanced Subdomain Discovery with Intelligent HTTP Analysis | N0aziXss | [Read More](https://medium.com/p/a52d1e7cd7aa) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 11:39:55 GMT | Forensics — Registry Furensics - AoC 2025 Day - 16 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a28933ca2d45) |
 | Sat, 20 Dec 2025 11:29:32 GMT | Raven, the twin brother of Nightowl | Мартин. | [Read More](https://medium.com/p/9f73d9cedf11) |
 | Sat, 20 Dec 2025 11:27:02 GMT | The Bug That Wasn’t Visible: A Real Production Lesson from an LMS Project | TechEd Diaries | [Read More](https://medium.com/p/c7940d1b2493) |
-| Sat, 20 Dec 2025 11:15:56 GMT | Cybersecurity Isn’t Optional Anymore — It’s Your Career’s First Line of Defense. | 4Achievers | [Read More](https://medium.com/p/ded4f650876e) |
-| Sat, 20 Dec 2025 11:07:13 GMT | Dosya Oluşturma ve Yönetme (File Operations) | g.o. | [Read More](https://medium.com/p/74555169fac1) |
-| Sat, 20 Dec 2025 11:06:31 GMT | How adaptive malware exploits blind spots in EDR, ML models, and human response | Khushi | [Read More](https://medium.com/p/b152d7b2e680) |
-| Sat, 20 Dec 2025 11:02:19 GMT | Corporate Ethics in the Digital Age | Inshirah Zaib | [Read More](https://medium.com/p/61aa99513a00) |
-| Sat, 20 Dec 2025 11:02:18 GMT | OSINT: open source intelligence in the free market | Spazioformadsgn | [Read More](https://medium.com/p/f08bc4591f19) |
-| Sat, 20 Dec 2025 10:54:22 GMT | AI, Cybersecurity, and Crypto: The Tech Shifts Quietly Redefining Our Digital Future | Leinn | [Read More](https://medium.com/p/cd04cb7a12d4) |
-| Sat, 20 Dec 2025 10:41:02 GMT | Zero | MouhibMahadbi | [Read More](https://medium.com/p/7c257429deb1) |
-| Sat, 20 Dec 2025 10:35:41 GMT | How I Built My Security Tool “YURIE” — Making Website Security Fast, Safe, and Accessible | Yurie Vulnerabilitie Scanner | [Read More](https://medium.com/p/a62ecb7cdb44) |
-| Sat, 20 Dec 2025 10:35:03 GMT | Can You Become a Hacker Just by Using Google? | Maneesha Dewmina | [Read More](https://medium.com/p/3c1f49eb717e) |
