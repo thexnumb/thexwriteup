@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 23:30:37 GMT | US Government Technology Work Is Not a Buzzword. It Is a System. | Paul George Savluc | [Read More](https://medium.com/p/b1bfed6bd0c3) |
 | Sat, 20 Dec 2025 23:08:17 GMT | How does copy/paste work so well? | Michael Kokosenski | [Read More](https://medium.com/p/6da80316e02e) |
 | Sat, 20 Dec 2025 23:05:34 GMT | Web Security from First Principles What Actually Happens When You Click a Link. | Ehtisham Fakhar | [Read More](https://medium.com/p/8a0be62a01e5) |
 | Sat, 20 Dec 2025 23:02:43 GMT | Hidden administrator account under Windows Server Core: demonstration and defense | Devilman24 | [Read More](https://medium.com/p/81f9aad5611e) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 14:08:18 GMT | # ️‍♂️ The Day I Uncovered a Hidden Account Enumeration Bug | Abdulbar | [Read More](https://medium.com/p/0304615b4fe2) |
 | Sat, 20 Dec 2025 14:06:10 GMT | I Hacked Microsoft: Remote Code Execution (RCE) via Dependency Confusion | Aman Kumar (ak) | [Read More](https://medium.com/p/0c15ebee52df) |
 | Sat, 20 Dec 2025 14:02:19 GMT | Security best practice using OWASP based on my experience | IRFAN SUSILO | [Read More](https://medium.com/p/057d77c200fe) |
-| Sat, 20 Dec 2025 13:56:00 GMT | From Zero to Bronze: How I Earned My First Badge Hunting for Leaked Secrets | Jugnu Panchal | [Read More](https://medium.com/p/d477e874592e) |
