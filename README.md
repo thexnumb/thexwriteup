@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 21:07:36 GMT | Understanding Modern Firewall Architecture: From Network to Application Layer | Little_Sun4lower | [Read More](https://medium.com/p/827bb50751fd) |
+| Sat, 20 Dec 2025 21:04:30 GMT | The FMCSA’s New Rule Gets Safety Exactly Backwards | Heesham Naji | [Read More](https://medium.com/p/39d58fbf0e77) |
+| Sat, 20 Dec 2025 21:01:23 GMT | Mastering Auditd Advanced Usage in Production Environments | Linux Guide | [Read More](https://medium.com/p/0dd34b949e2b) |
+| Sat, 20 Dec 2025 20:59:10 GMT | LinkedIn Job Scams Targeting Web3, Blockchain, AI Job Seekers | Yiting Huang | [Read More](https://medium.com/p/4b6a1d396cbd) |
+| Sat, 20 Dec 2025 20:48:57 GMT | Sentinel: O Guardião Silencioso que Protege seu App Android Contra Fraudes | Evandro Costa | [Read More](https://medium.com/p/7215b185c2a6) |
+| Sat, 20 Dec 2025 20:46:37 GMT | Advent of Cyber 2025 - Day 20: Race Conditions — Toy to The World | D4m.sh | [Read More](https://medium.com/p/193011042527) |
+| Sat, 20 Dec 2025 20:44:27 GMT | The cybersecurity insurance paradox, part 2 | STR4T0TT0 | [Read More](https://medium.com/p/aed1ce41e0f3) |
+| Sat, 20 Dec 2025 20:44:09 GMT | Scaling Cloud Security: Enabling AWS GuardDuty Across All Accounts and Regions | Niraj Kumar | [Read More](https://medium.com/p/2aae3fb995a8) |
+| Sat, 20 Dec 2025 20:38:14 GMT | France Interior Ministry Cyber Breach 2025: How Hackers Quietly Accessed Police Databases | O. J. Okpabi | [Read More](https://medium.com/p/ce71744e0927) |
+| Sat, 20 Dec 2025 20:37:12 GMT | Barts Health NHS Trust Attack Explained: Data Theft, Dark Web Exposure, And What Happened | O. J. Okpabi | [Read More](https://medium.com/p/173f05daef31) |
+| Sat, 20 Dec 2025 20:34:53 GMT | Digital Information Technology: Meaning, Importance, Benefits, and Future Scope | Ali Joyia | [Read More](https://medium.com/p/55a8838162d9) |
+| Sat, 20 Dec 2025 20:33:42 GMT | Get Ready for PQC Digital Certificates | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/285daef9d7ec) |
 | Sat, 20 Dec 2025 20:32:52 GMT | Road TryHackMe Room | Dharmendrakumar | [Read More](https://medium.com/p/cd3a6bf9c466) |
 | Sat, 20 Dec 2025 20:23:53 GMT | CIA triad: Should confidentiality, integrity, and availability be treated equally? | Chamika Karunarathna | [Read More](https://medium.com/p/d6bef1e362e4) |
 | Sat, 20 Dec 2025 20:18:18 GMT | What Really Happens When You Put a Fresh EC2 + Docker + Nginx Site on the Internet | Kingdesign | [Read More](https://medium.com/p/411a5a1d2fb9) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 13:18:31 GMT | How Egypt turned its energy independence into a strategic hostage | Mümin Ahmedoğlu | [Read More](https://medium.com/p/deb6e30e7dda) |
 | Sat, 20 Dec 2025 13:14:04 GMT | TryHackMe Writeup: Brute It | Berkay AĞGÜL | [Read More](https://medium.com/p/9bd54746f920) |
 | Sat, 20 Dec 2025 13:07:18 GMT | Stealthy Network Mapping: A Guide to DNS Footprinting | DefenAsh | [Read More](https://medium.com/p/a0173b9ba0ab) |
-| Sat, 20 Dec 2025 13:06:01 GMT | Yet another dark pattern discovered on Facebook? Reporting? | Fred Showker | [Read More](https://medium.com/p/f284579f1ff7) |
-| Sat, 20 Dec 2025 13:02:24 GMT | One Key or Two? Symmetric vs. Asymmetric Encryption Explained | Keroles Massoud | [Read More](https://medium.com/p/7ea5c21631b3) |
-| Sat, 20 Dec 2025 12:56:33 GMT | Why Cybersecurity Is Not One-Size-Fits-All: How We Tailor Services for Different Sectors | Fook Hwa Tan | [Read More](https://medium.com/p/14bd8342d808) |
-| Sat, 20 Dec 2025 12:55:38 GMT | My Promise to Clients: Clarity, Courage, and Care — What You Can Expect From Working With Me | Fook Hwa Tan | [Read More](https://medium.com/p/6534707fc9f1) |
-| Sat, 20 Dec 2025 12:46:40 GMT | Data in Transit vs. Data at Rest: How to Keep Both Secure | Ferdi Edogawa | [Read More](https://medium.com/p/682d2c5cde58) |
-| Sat, 20 Dec 2025 12:42:07 GMT | How to Identify Scams in Seconds | Shahzaib | [Read More](https://medium.com/p/cdec4bb08177) |
-| Sat, 20 Dec 2025 12:35:01 GMT | The Year-End Review You’re Too Busy to Do (But Your 2026 Depends On It) | Rubab Fatima | [Read More](https://medium.com/p/61bd6663ec58) |
-| Sat, 20 Dec 2025 12:32:18 GMT | Security-First Development: Prompting for Secure Code (Before It’s Hacked) | Kawaldeep Singh | [Read More](https://medium.com/p/4e0e589360c8) |
-| Sat, 20 Dec 2025 12:30:10 GMT | TheHackersLabs — Inj3ctCrew [Write-Up] | APS88 | [Read More](https://medium.com/p/664c6902e107) |
-| Sat, 20 Dec 2025 12:27:11 GMT | BlackICE AC: Building a Fast, Multipurpose Project Site as a Developer | Axrader | [Read More](https://medium.com/p/3e4caa2b9d35) |
-| Sat, 20 Dec 2025 12:25:27 GMT | Production-Grade Hardening Ubuntu with High-Security Measures | Karthick Dk | [Read More](https://medium.com/p/26ab8570c0dd) |
-| Sat, 20 Dec 2025 12:22:28 GMT | What a Month of SSH Logs Reveals About the State of the Internet in 2025 | Faruk Ahmed | [Read More](https://medium.com/p/d9c931173d4d) |
