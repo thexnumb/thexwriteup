@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 08:26:13 GMT | A tile showroom in San Francisco just lost $200,000 | Heesham Naji | [Read More](https://medium.com/p/28d1f2649ee9) |
+| Sat, 20 Dec 2025 08:14:30 GMT | CompTIA 2026: The Roadmap That Changes Everything | Sec Guy | [Read More](https://medium.com/p/8be19e8c3f1a) |
+| Sat, 20 Dec 2025 08:12:33 GMT | Post-Quantum Cryptography: Securing Today’s Data Against Tomorrow’s Computers | Aditya Sharma | [Read More](https://medium.com/p/e55df873b7e0) |
+| Sat, 20 Dec 2025 07:59:19 GMT | AI & Computer Science Innovation in Schools — A Practical Track | Ibrahim khan | [Read More](https://medium.com/p/01171ffee3f4) |
+| Sat, 20 Dec 2025 07:58:29 GMT | Stop “Hard Retries” Before They Lock You Out | TokenGlim | [Read More](https://medium.com/p/a48071895e34) |
+| Sat, 20 Dec 2025 07:56:58 GMT | No Protection Means No Control — Get Antivirus for Windows Now | Siyanoav | [Read More](https://medium.com/p/ba16ca759b9c) |
+| Sat, 20 Dec 2025 07:46:45 GMT | ANONYMOUS- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/092ed898e664) |
+| Sat, 20 Dec 2025 07:44:22 GMT | Understanding the OSI Model: A Practical Way to Think About Networking | BHARGAV SANDILYA | [Read More](https://medium.com/p/f7c6e94fa975) |
 | Sat, 20 Dec 2025 07:30:17 GMT | How 2FA Authenticator Apps Work Offline: The Magic Behind TOTP | Odunayo Dada | [Read More](https://medium.com/p/b00e5adaf68f) |
 | Sat, 20 Dec 2025 07:23:24 GMT | CVE-2025–9086 - Out of bounds read for cookie path | Aakash Rahsi | [Read More](https://medium.com/p/65279fa4321b) |
 | Sat, 20 Dec 2025 07:19:40 GMT | From Prompt to Payout: How a ChatGPT Prompt Led Me to a Bug Bounty | errorsec_ | [Read More](https://medium.com/p/7b2893d846d4) |
@@ -41,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 05:10:04 GMT | [Ethernaut] 7. Force | Jiseop Shin | [Read More](https://medium.com/p/33c9a4989ada) |
 | Sat, 20 Dec 2025 05:07:39 GMT | JWT Is NOT Authentication | rahul sahay | [Read More](https://medium.com/p/3708592d8363) |
 | Sat, 20 Dec 2025 05:02:24 GMT | Securing a Kenyan SACCO from Zero [Part 4 of 6] | Munaniadeno | [Read More](https://medium.com/p/31c762faaa4c) |
+| Sat, 20 Dec 2025 04:58:32 GMT | Ultimate Guide to Cybersecurity Risk Assessment for Small Businesses | Maxatlasofficial | [Read More](https://medium.com/p/bae4b477b7e6) |
 | Sat, 20 Dec 2025 04:57:10 GMT | Chain of Responsibility: The Pattern That Quietly Became Your Company’s Business Policy | The Dev Notebook | [Read More](https://medium.com/p/57ebbf21d35e) |
 | Sat, 20 Dec 2025 04:39:12 GMT | From Curiosity to Cash: How I Bypassed 2FA and Earned $300! | Zer0Figure | [Read More](https://medium.com/p/b81ef4c01000) |
 | Sat, 20 Dec 2025 04:37:52 GMT | Networking: The Hacker’s Alpha and Omega! | Keyur | [Read More](https://medium.com/p/a6c0e80fa214) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 20:26:00 GMT | Day #64 of writing a poem per day | Sunny Brown | [Read More](https://medium.com/p/d24c3673fa26) |
 | Fri, 19 Dec 2025 20:23:57 GMT | How I Found an Unauthenticated XXE That Allowed Arbitrary File Read in NASA | Thomas A. | [Read More](https://medium.com/p/bfffe24dc24e) |
 | Fri, 19 Dec 2025 20:19:14 GMT | CYBER-ENABLED FINANCIAL CRIMES AND THEIR EFFECTS ON DIGITAL BANKING ADOPTION | Udyeffiong | [Read More](https://medium.com/p/5d0521f7d6f7) |
-| Fri, 19 Dec 2025 20:12:52 GMT | The War Room: A Post-Mortem of Earth’s Digital Vitals-2 | Cruz | [Read More](https://medium.com/p/77b2a506238a) |
-| Fri, 19 Dec 2025 20:11:58 GMT | Advent of Cyber 2025 - Day 19: ICS/Modbus - Claus for Concern | Akshat Patel | [Read More](https://medium.com/p/a9dc2d15fd56) |
-| Fri, 19 Dec 2025 20:06:06 GMT | Digital Signatures, Explained Simply | Talalmog | [Read More](https://medium.com/p/29bd69d8d318) |
-| Fri, 19 Dec 2025 19:54:36 GMT | What Is Swagger UI? | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/b3986b7d0d87) |
-| Fri, 19 Dec 2025 19:48:41 GMT | Yapay Zekâ Destekli Otonom Siber Saldırılar Gerçekleşti. | Mustafa YILMAZ | [Read More](https://medium.com/p/291519f1fad1) |
-| Fri, 19 Dec 2025 19:47:58 GMT | What I Learned From Cloning a Website and Scanning SMB Vulnerabilities | Aliutijani | [Read More](https://medium.com/p/ec71245fb42b) |
-| Fri, 19 Dec 2025 19:42:44 GMT | Prompt Injection AOC 2025 Day 8 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/a3aff3053d12) |
-| Fri, 19 Dec 2025 19:41:16 GMT | ICS/Modbus- Claus for Concern AOC 2025 Day 19 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/c9543bae9ed5) |
-| Fri, 19 Dec 2025 19:35:06 GMT | Cloudflare’s Wall of Entropy: How Lava Lamps Protect the Internet with Randomness | Akshay Wakhare | [Read More](https://medium.com/p/9d43615a8b5f) |
