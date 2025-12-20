@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 00:58:59 GMT | I Stopped My Smart TV From Spying on Me | K_Anik | [Read More](https://medium.com/p/64bed426be91) |
+| Sat, 20 Dec 2025 00:27:15 GMT | LinkedIn 求職詐騙：特別針對 Web3／區塊鏈求職者 | Yiting Huang - Product Designer | [Read More](https://medium.com/p/a5eb9bff46ea) |
+| Sat, 20 Dec 2025 00:25:44 GMT | Building Secure Authentication: A Complete Guide to JWTs, Passwords, MFA and OAuth | Loggd | [Read More](https://medium.com/p/fdad8d243b91) |
+| Fri, 19 Dec 2025 23:52:27 GMT | PC gaming really on the decline, or is it just being priced out? | Joseph Flowers | [Read More](https://medium.com/p/9d005a935874) |
+| Fri, 19 Dec 2025 23:42:14 GMT | The Ultimate Guide to Managed IT Services for Financial Companies in the USA | CompuWork | [Read More](https://medium.com/p/8c955fa2c71c) |
 | Fri, 19 Dec 2025 23:36:19 GMT | PART 2, Claude is dumber now. Claude’s self analysis. | Berend Watchus | [Read More](https://medium.com/p/7da56bcdd5ea) |
 | Fri, 19 Dec 2025 23:31:15 GMT | The Dev-Sec Friction Problem (And How to Eliminate It) | Ofri Peretz | [Read More](https://medium.com/p/99639a3869a4) |
 | Fri, 19 Dec 2025 23:27:31 GMT | The Weakest Link in Industrial Cybersecurity | Muhammad Ali Khan | [Read More](https://medium.com/p/caf19f8a36da) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 16:37:42 GMT | DOCUMENTING MY JOURNEY TOWARDS DECENTRALISED AI AND BLOCKCHAIN CYBERSECURITY | Adesowapo Adeyemi | [Read More](https://medium.com/p/3547a7c91dc6) |
 | Fri, 19 Dec 2025 16:34:27 GMT | Linux Terminaline İlk Adım: Temel Komutlar ve Pratik Uygulamalar ️ | ahmetesatakkus | [Read More](https://medium.com/p/bd5895e93fd0) |
 | Fri, 19 Dec 2025 16:31:42 GMT | Recon Fatigue Is Real — Until This One URL Paid My Rent | Iski | [Read More](https://medium.com/p/8768a51dc50e) |
-| Fri, 19 Dec 2025 16:26:09 GMT | Incident Snapshot: How I Capture Critical Evidence on My Linux Servers Before Damage Happens | Faruk Ahmed | [Read More](https://medium.com/p/e3304dc4e617) |
-| Fri, 19 Dec 2025 16:24:58 GMT | Cloudflare’s Lava Lamp Wall: When Internet Security Depends on Pure Chaos | Abhishek Dharmik | [Read More](https://medium.com/p/6de68df3c197) |
-| Fri, 19 Dec 2025 16:24:03 GMT | Next.js ve React App Router Güvenlik Açığı: CVE-2025–55182 Neyi Tehdit Ediyor? | Erhan Akkaya | [Read More](https://medium.com/p/7d73851798a8) |
-| Fri, 19 Dec 2025 16:17:42 GMT | # The Quiet Bugs That Don’t Look Like Bugs | Abdulbar | [Read More](https://medium.com/p/c38c7db08364) |
-| Fri, 19 Dec 2025 16:15:18 GMT | XLMRAT WriteUP — CyberDefenders | Ichiro Dexther | [Read More](https://medium.com/p/ca3739a6c2f4) |
