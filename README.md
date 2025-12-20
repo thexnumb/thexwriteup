@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 17:17:48 GMT | I Thought Encryption Was Enough. It Wasn’t. | Shivendra Mishra | [Read More](https://medium.com/p/99aa3ce4f5bc) |
+| Sat, 20 Dec 2025 17:13:33 GMT | I Automated My Cybersecurity News Feed. Here’s What Actually Happened | CyberCraft | [Read More](https://medium.com/p/fe486c16ec18) |
+| Sat, 20 Dec 2025 17:10:40 GMT | PATH Hijacking Privilege Escalation — THM “Eavesdropper” Room | Ajmir khan | [Read More](https://medium.com/p/be721cdc8c4d) |
+| Sat, 20 Dec 2025 17:01:16 GMT | What Are Weights & Bias in AI? (Explained in the Easiest Way Ever) | Prapti Vahia | [Read More](https://medium.com/p/f705315e0824) |
+| Sat, 20 Dec 2025 16:58:22 GMT | TryHackMe — MD2PDF Walkthrough (Understanding the Vulnerability, Not Just the Flag) | 4renSick | [Read More](https://medium.com/p/9d48426dff76) |
+| Sat, 20 Dec 2025 16:58:20 GMT | What You & Your Colleagues Don’t Know About AI Yet | Mumme Fanaei | [Read More](https://medium.com/p/f3639c04af3d) |
+| Sat, 20 Dec 2025 16:56:01 GMT | How I Passed OSCP+ on My First Attempt — The Exact Workflow, Tools, and Notes That Helped Me… | Alex Warren Security | [Read More](https://medium.com/p/1e282bc81e1a) |
+| Sat, 20 Dec 2025 16:51:41 GMT | The Return of On-Prem: Why Companies Are Quietly Pulling Back from the Cloud | Travis Ray Caverhill | [Read More](https://medium.com/p/1cf1b891938c) |
+| Sat, 20 Dec 2025 16:46:14 GMT | When CAPTCHA Becomes a Weapon: Inside a Real-World Phishing Campaign | CipherX9F Security | [Read More](https://medium.com/p/0bccfdf04b38) |
+| Sat, 20 Dec 2025 16:46:02 GMT | The 30-Minute Security Audit: Onboarding a New Codebase | Ofri Peretz | [Read More](https://medium.com/p/223f50afe19f) |
 | Sat, 20 Dec 2025 16:45:04 GMT | Networking in Cyber Security Part 1. | Bilal Nasir | [Read More](https://medium.com/p/837c8274b2da) |
+| Sat, 20 Dec 2025 16:42:43 GMT | NOVA marketplace is a convenient and technological platform | Explorer Insight | [Read More](https://medium.com/p/82b17b85adbc) |
 | Sat, 20 Dec 2025 16:37:27 GMT | Beyond the Firewall: Navigating ISP Policies Through a GRC Lens | Brian Haman, PhD | [Read More](https://medium.com/p/32c5c4e29491) |
 | Sat, 20 Dec 2025 16:35:10 GMT | I Used to Ignore This — Now I Warn Everyone About It | Er Dhaval Ramani | [Read More](https://medium.com/p/7504ac4bc451) |
 | Sat, 20 Dec 2025 16:32:21 GMT | How a Forgotten Code Library Led to the University of Sydney Data Breach | Chetan Seripally | [Read More](https://medium.com/p/2443c91dd126) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 09:50:49 GMT | Is Your Website an Open Door? Find Hidden Vulnerabilities in 10 Minutes (Special Offers Inside!) | Yurie Vulnerabilitie Scanner | [Read More](https://medium.com/p/ab339ed04805) |
 | Sat, 20 Dec 2025 09:48:09 GMT | Common Cybersecurity Threats and Attacks: How Systems Really Get Compromised | Lakshay Nimwal | [Read More](https://medium.com/p/9092cd71dc48) |
 | Sat, 20 Dec 2025 09:47:13 GMT | Hackers Don’t Need Passwords. They Just Need You. | Redfox Security | [Read More](https://medium.com/p/b539943c7254) |
-| Sat, 20 Dec 2025 09:34:20 GMT | Fundamental Principles of Information Security | Lakshay Nimwal | [Read More](https://medium.com/p/6de2ce3e4dbd) |
-| Sat, 20 Dec 2025 09:33:58 GMT | When Machines Start Learning From Themselves: The Quiet Crisis No One Is Talking About | Vijay Kumar Gupta | [Read More](https://medium.com/p/601262e15caa) |
-| Sat, 20 Dec 2025 09:09:18 GMT | Security by Output, PHP Response Tricks That Reduce Exposure | Asian Digital Hub | [Read More](https://medium.com/p/3e8a0d8007b0) |
-| Sat, 20 Dec 2025 09:08:56 GMT | Linux Terminali: Siber Güvenliğin Mutfak Tezgahı | Cyber Web | [Read More](https://medium.com/p/cb55314c54c1) |
-| Sat, 20 Dec 2025 08:59:35 GMT | Amazon CloudWatch: A Comprehensive Monitoring and Observability Solution | Somesh | [Read More](https://medium.com/p/5f3dc0078302) |
-| Sat, 20 Dec 2025 08:58:07 GMT | How a single backslash got me £1000 bounty from a bug bounty program | Sairaj Thorat | [Read More](https://medium.com/p/39239e8fc017) |
-| Sat, 20 Dec 2025 08:49:09 GMT | Data Walkthrough | Spookz | [Read More](https://medium.com/p/e6025dbc683b) |
-| Sat, 20 Dec 2025 08:48:49 GMT | How Regular Audits Improve Corporate Cyber Resilience | Rahman Iqbal | [Read More](https://medium.com/p/400337d7a784) |
-| Sat, 20 Dec 2025 08:41:26 GMT | CVE-2025–8961 - LibTIFF tiffcrop tiffcrop.c main memory corruption | Aakash Rahsi | [Read More](https://medium.com/p/7dca9955fecb) |
-| Sat, 20 Dec 2025 08:32:19 GMT | Cyber Insurance Prep: Prove You Monitor Credential Leaks and Act on Alerts | Alexandre Vandamme | [Read More](https://medium.com/p/60b074d2ec6f) |
-| Sat, 20 Dec 2025 08:26:13 GMT | A tile showroom in San Francisco just lost $200,000 | Heesham Naji | [Read More](https://medium.com/p/28d1f2649ee9) |
