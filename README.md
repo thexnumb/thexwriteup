@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 03:39:58 GMT | Improper SVG Handling in AI Generated Output | mohamed khattab | [Read More](https://medium.com/p/b434b5d0da8c) |
+| Sat, 20 Dec 2025 03:37:57 GMT | Tải Honor Of Kings Apk v11.1.1.1 Cho Android | genzvnmod | [Read More](https://medium.com/p/1a9382b9b311) |
+| Sat, 20 Dec 2025 03:32:19 GMT | Shanya: The Packer That Helps Ransomware Evade Defenses and Kill EDR | Deven Chhajed | [Read More](https://medium.com/p/2fc1beaaa279) |
+| Sat, 20 Dec 2025 03:22:00 GMT | Tải Human Fall Flat Apk (Bản Full) v2.5.1 Miễn Phí Cho Android | Game4u | [Read More](https://medium.com/p/e86804c04561) |
 | Sat, 20 Dec 2025 03:09:14 GMT | Tải Hack MadOut2 (Full Tiền, Kim Cương) v17.03 | Bandisharecx | [Read More](https://medium.com/p/1e5c513bf2ca) |
 | Sat, 20 Dec 2025 03:07:38 GMT | React to Shell: A Vulnerability at Frontend Code | bipin | [Read More](https://medium.com/p/b7ed98c9c77b) |
 | Sat, 20 Dec 2025 02:49:01 GMT | Hey everyone! | Whistle blower | [Read More](https://medium.com/p/c464194f1e29) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 17:06:13 GMT | Cybersecurity News Review — Week 51 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/89c41acd0dc7) |
 | Fri, 19 Dec 2025 17:04:34 GMT | The Corp.com Collision | satyaranjan bal | [Read More](https://medium.com/p/0851377741b2) |
 | Fri, 19 Dec 2025 17:03:17 GMT | Building Magic (Easy) — HackSmarter Active Directory Walkthrough | rajasekharyarava | [Read More](https://medium.com/p/5cbc3a8018e5) |
-| Fri, 19 Dec 2025 17:02:46 GMT | What Ten Years of Broken Systems Taught Me About Control | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/abc514c34806) |
-| Fri, 19 Dec 2025 17:00:43 GMT | Advent of Cyber 2025 - Day 19: ICS/Modbus — Claus for Concern | D4m.sh | [Read More](https://medium.com/p/073d04ac243d) |
-| Fri, 19 Dec 2025 17:00:24 GMT | CEHv12: Vulnerability Analysis (Practised)(Module 5) | Aditya Kumar | [Read More](https://medium.com/p/d21e70616faa) |
-| Fri, 19 Dec 2025 16:58:58 GMT | Building My First Vulnerability Scanner Using Python: A Step-by-Step Guide | Aneef Sheriff | [Read More](https://medium.com/p/3f9ed3899daa) |
