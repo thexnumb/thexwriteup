@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 12:35:01 GMT | The Year-End Review You’re Too Busy to Do (But Your 2026 Depends On It) | Rubab Fatima | [Read More](https://medium.com/p/61bd6663ec58) |
+| Sat, 20 Dec 2025 12:32:18 GMT | Security-First Development: Prompting for Secure Code (Before It’s Hacked) | Kawaldeep Singh | [Read More](https://medium.com/p/4e0e589360c8) |
+| Sat, 20 Dec 2025 12:30:10 GMT | TheHackersLabs — Inj3ctCrew [Write-Up] | APS88 | [Read More](https://medium.com/p/664c6902e107) |
+| Sat, 20 Dec 2025 12:27:11 GMT | BlackICE AC: Building a Fast, Multipurpose Project Site as a Developer | Axrader | [Read More](https://medium.com/p/3e4caa2b9d35) |
+| Sat, 20 Dec 2025 12:25:27 GMT | Production-Grade Hardening Ubuntu with High-Security Measures | Karthick Dk | [Read More](https://medium.com/p/26ab8570c0dd) |
+| Sat, 20 Dec 2025 12:22:28 GMT | What a Month of SSH Logs Reveals About the State of the Internet in 2025 | Faruk Ahmed | [Read More](https://medium.com/p/d9c931173d4d) |
+| Sat, 20 Dec 2025 12:16:25 GMT | Editor — HackTheBox Full Walkthrough | Beri Contraster | [Read More](https://medium.com/p/aa39472b601b) |
+| Sat, 20 Dec 2025 12:14:50 GMT | ️‍♂️ Man-in-the-Middle Detection Methods: How to Catch Covert Eavesdropping | Esra Kayhan | [Read More](https://medium.com/p/4b09802c31d2) |
+| Sat, 20 Dec 2025 12:11:07 GMT | How to Master AWS Security in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/aa92a4a995b4) |
+| Sat, 20 Dec 2025 12:03:16 GMT | Transforming an Old Laptop into a Kali Linux Lab with Proxmox: A Beginner’s Guide to Type 1… | SAFAL GAUTAM | [Read More](https://medium.com/p/6d75d1986c80) |
+| Sat, 20 Dec 2025 11:54:00 GMT | This Hacker Tried… and Failed | Danny Wsol | [Read More](https://medium.com/p/cf5b36ec42b2) |
+| Sat, 20 Dec 2025 11:53:59 GMT | The Ghostworker’s Fight Against Surveillance Capitalism: A White Paper on Google’s Corporate… | My Darkest Hearts | [Read More](https://medium.com/p/1c8d21e26528) |
+| Sat, 20 Dec 2025 11:51:29 GMT | Smart Security Solutions for Jewellery Stores: Safes, Vaults & Strong Room Doors | Steelage | [Read More](https://medium.com/p/4cd55513dfa3) |
+| Sat, 20 Dec 2025 11:47:15 GMT | Why Slow Scans Are Smarter Than Aggressive Ones | Fateyaly | [Read More](https://medium.com/p/f24f81cb4914) |
+| Sat, 20 Dec 2025 11:41:52 GMT | $1,000 Bounty: How a Logout Parameter Turned Into a Phishing Redirect Machine | Monika sharma | [Read More](https://medium.com/p/4b42fffa9900) |
+| Sat, 20 Dec 2025 11:39:55 GMT | Forensics — Registry Furensics - AoC 2025 Day - 16 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a28933ca2d45) |
+| Sat, 20 Dec 2025 11:29:32 GMT | Raven, the twin brother of Nightowl | Мартин. | [Read More](https://medium.com/p/9f73d9cedf11) |
 | Sat, 20 Dec 2025 11:27:02 GMT | The Bug That Wasn’t Visible: A Real Production Lesson from an LMS Project | TechEd Diaries | [Read More](https://medium.com/p/c7940d1b2493) |
 | Sat, 20 Dec 2025 11:15:56 GMT | Cybersecurity Isn’t Optional Anymore — It’s Your Career’s First Line of Defense. | 4Achievers | [Read More](https://medium.com/p/ded4f650876e) |
 | Sat, 20 Dec 2025 11:07:13 GMT | Dosya Oluşturma ve Yönetme (File Operations) | g.o. | [Read More](https://medium.com/p/74555169fac1) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 04:26:17 GMT | Graph-Based Threat Intelligence: A Technical Survey of Machine Learning Approaches for Fraud… | Brian Curry | [Read More](https://medium.com/p/aee8339a7a9d) |
 | Sat, 20 Dec 2025 04:09:09 GMT | How I Built a Raspberry Pi Fan Speed Controller with NestJS | Hoang Dinh | [Read More](https://medium.com/p/d91832e06e26) |
 | Sat, 20 Dec 2025 04:02:57 GMT | AI Scams Are Increasing — What You Need to Know to Stay Safe | Hameedduke | [Read More](https://medium.com/p/569dfe7665d0) |
-| Sat, 20 Dec 2025 03:58:34 GMT | Tải Dan The Man Mod APK V1.12.72 (Vô Hạn Tiền, Bất Tử, Menu) | GOCMOD | [Read More](https://medium.com/p/72c04080c076) |
-| Sat, 20 Dec 2025 03:39:58 GMT | Improper SVG Handling in AI Generated Output | mohamed khattab | [Read More](https://medium.com/p/b434b5d0da8c) |
-| Sat, 20 Dec 2025 03:37:57 GMT | Tải Honor Of Kings Apk v11.1.1.1 Cho Android | genzvnmod | [Read More](https://medium.com/p/1a9382b9b311) |
-| Sat, 20 Dec 2025 03:32:19 GMT | Shanya: The Packer That Helps Ransomware Evade Defenses and Kill EDR | Deven Chhajed | [Read More](https://medium.com/p/2fc1beaaa279) |
-| Sat, 20 Dec 2025 03:22:00 GMT | Tải Human Fall Flat Apk (Bản Full) v2.5.1 Miễn Phí Cho Android | Game4u | [Read More](https://medium.com/p/e86804c04561) |
-| Sat, 20 Dec 2025 03:09:14 GMT | Tải Hack MadOut2 (Full Tiền, Kim Cương) v17.03 | Bandisharecx | [Read More](https://medium.com/p/1e5c513bf2ca) |
-| Sat, 20 Dec 2025 03:07:38 GMT | React to Shell: A Vulnerability at Frontend Code | bipin | [Read More](https://medium.com/p/b7ed98c9c77b) |
-| Sat, 20 Dec 2025 02:49:01 GMT | Hey everyone! | Whistle blower | [Read More](https://medium.com/p/c464194f1e29) |
-| Sat, 20 Dec 2025 02:44:55 GMT | Tải Night Adventure Apk (Vô Hạn Tiền) V1.0 Cho Android | Apkpuredev | [Read More](https://medium.com/p/4d6cc6de8cbc) |
-| Sat, 20 Dec 2025 02:29:53 GMT | Man-in-the-Middle Detection — TryhackMe Walktrhough | Paul koumedzro | [Read More](https://medium.com/p/7a42434f3d59) |
-| Sat, 20 Dec 2025 02:19:19 GMT | Analysis of Sensitive Information Vulnerability in Public XML Files | Albertstive | [Read More](https://medium.com/p/840ef304e88a) |
-| Sat, 20 Dec 2025 01:54:47 GMT | The CIA Triad: The Foundation of Cybersecurity | farshad moradi shahrbabak | [Read More](https://medium.com/p/c714271f6f53) |
-| Sat, 20 Dec 2025 01:53:26 GMT | Mohamed Sayed Kamel (vdtafury) — AI & Data Engineer & CTF Player | Mohamed Sayed Kamel | [Read More](https://medium.com/p/f7c283876f10) |
-| Sat, 20 Dec 2025 01:47:40 GMT | Hypervisors Became The New Front Line For Ransomware | Geoffrey Wenger | [Read More](https://medium.com/p/7210ba66d506) |
-| Sat, 20 Dec 2025 01:47:32 GMT | Why Deleting Files Still Leaves Your Data Exposed | Geoffrey Wenger | [Read More](https://medium.com/p/fd847e79903a) |
-| Sat, 20 Dec 2025 00:58:59 GMT | I Stopped My Smart TV From Spying on Me | K_Anik | [Read More](https://medium.com/p/64bed426be91) |
-| Sat, 20 Dec 2025 00:27:15 GMT | LinkedIn 求職詐騙：特別針對 Web3／區塊鏈求職者 | Yiting Huang - Product Designer | [Read More](https://medium.com/p/a5eb9bff46ea) |
