@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 14:32:17 GMT | (Comptia A+) Mastering Change Management: A Step-By-Step Guide for IT Professionals | Vignesh R | [Read More](https://medium.com/p/ecfbf005731e) |
+| Sat, 20 Dec 2025 14:22:37 GMT | DATA PRIVACY IN THE AGE OF ARTIFICIAL I PRIVACY IN THE AGE OF ARTIFICIAL INTELLIGENCE | Shree Dwivedi | [Read More](https://medium.com/p/4316fe7a3630) |
+| Sat, 20 Dec 2025 14:21:19 GMT | What Happens When a Kali Linux Lab Breaks Your Mac | Widson Ambaisi | [Read More](https://medium.com/p/feb55ada06c0) |
+| Sat, 20 Dec 2025 14:14:06 GMT | Weaponizing Format Strings: Leaks, Writes, and Code Execution | Afi0pchik | [Read More](https://medium.com/p/9d5f13860f6c) |
+| Sat, 20 Dec 2025 14:13:05 GMT | Clear Docs, Happy Users: A Beginner’s Guide to Documentation | Maleesha Thalagala | [Read More](https://medium.com/p/b40dcada65b4) |
 | Sat, 20 Dec 2025 14:09:18 GMT | Deepfake with Hidden Disclaimer: Still Illegal? Live case. | Berend Watchus | [Read More](https://medium.com/p/616a1f6f5409) |
 | Sat, 20 Dec 2025 14:08:18 GMT | # ️‍♂️ The Day I Uncovered a Hidden Account Enumeration Bug | Abdulbar | [Read More](https://medium.com/p/0304615b4fe2) |
 | Sat, 20 Dec 2025 14:06:10 GMT | I Hacked Microsoft: Remote Code Execution (RCE) via Dependency Confusion | Aman Kumar (ak) | [Read More](https://medium.com/p/0c15ebee52df) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 06:09:51 GMT | From Infinite Money Glitch to Secure System: Fixing Race Condition Vulnerabilities in DApps | Abhishek Adhikari | [Read More](https://medium.com/p/e4e3ecc86c99) |
 | Sat, 20 Dec 2025 06:07:05 GMT | The $10K Blueprint: Building an Elite Bug Bounty Automation Stack Using Only Open Source Tools | Ayush Maikhuri | [Read More](https://medium.com/p/1725731407f0) |
 | Sat, 20 Dec 2025 06:01:46 GMT | BlackGate Linux Box, Proving Grounds ( OSCP Road ) | Cyb0rgBytes | [Read More](https://medium.com/p/e678325b6cf6) |
-| Sat, 20 Dec 2025 05:51:04 GMT | The Ghost in the Machine: | Gandieslay | [Read More](https://medium.com/p/1032253b5fa1) |
-| Sat, 20 Dec 2025 05:45:11 GMT | Bespoke Managed IT Services for Innovative Modern Business | Mounika Dheeru | [Read More](https://medium.com/p/d25560ad8b72) |
-| Sat, 20 Dec 2025 05:43:19 GMT | Encoding vs Encryption vs Hashing (with traps & myths) | Suraj Bhandari | [Read More](https://medium.com/p/1b9f1d9de537) |
-| Sat, 20 Dec 2025 05:41:17 GMT | Your New Senior Engineer is Here: Meet GPT-5.2 Codex | Siddhesh Surve | [Read More](https://medium.com/p/729e85e5b6d1) |
-| Sat, 20 Dec 2025 05:38:19 GMT | Elevate Your Enterprise Security Skills with Aramco Program | Kadhijahafiya | [Read More](https://medium.com/p/968f4fa0dec9) |
