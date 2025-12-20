@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 13:25:10 GMT | NTFS Explained: Architecture, Security Features, and Forensic Value | Saqlain Naqvi | [Read More](https://medium.com/p/1bcb6da9bc6e) |
+| Sat, 20 Dec 2025 13:18:31 GMT | How Egypt turned its energy independence into a strategic hostage | Mümin Ahmedoğlu | [Read More](https://medium.com/p/deb6e30e7dda) |
+| Sat, 20 Dec 2025 13:14:04 GMT | TryHackMe Writeup: Brute It | Berkay AĞGÜL | [Read More](https://medium.com/p/9bd54746f920) |
+| Sat, 20 Dec 2025 13:07:18 GMT | Stealthy Network Mapping: A Guide to DNS Footprinting | DefenAsh | [Read More](https://medium.com/p/a0173b9ba0ab) |
+| Sat, 20 Dec 2025 13:06:01 GMT | Yet another dark pattern discovered on Facebook? Reporting? | Fred Showker | [Read More](https://medium.com/p/f284579f1ff7) |
+| Sat, 20 Dec 2025 13:02:24 GMT | One Key or Two? Symmetric vs. Asymmetric Encryption Explained | Keroles Massoud | [Read More](https://medium.com/p/7ea5c21631b3) |
+| Sat, 20 Dec 2025 12:56:33 GMT | Why Cybersecurity Is Not One-Size-Fits-All: How We Tailor Services for Different Sectors | Fook Hwa Tan | [Read More](https://medium.com/p/14bd8342d808) |
+| Sat, 20 Dec 2025 12:55:38 GMT | My Promise to Clients: Clarity, Courage, and Care — What You Can Expect From Working With Me | Fook Hwa Tan | [Read More](https://medium.com/p/6534707fc9f1) |
+| Sat, 20 Dec 2025 12:46:40 GMT | Data in Transit vs. Data at Rest: How to Keep Both Secure | Ferdi Edogawa | [Read More](https://medium.com/p/682d2c5cde58) |
+| Sat, 20 Dec 2025 12:42:07 GMT | How to Identify Scams in Seconds | Shahzaib | [Read More](https://medium.com/p/cdec4bb08177) |
 | Sat, 20 Dec 2025 12:35:01 GMT | The Year-End Review You’re Too Busy to Do (But Your 2026 Depends On It) | Rubab Fatima | [Read More](https://medium.com/p/61bd6663ec58) |
 | Sat, 20 Dec 2025 12:32:18 GMT | Security-First Development: Prompting for Secure Code (Before It’s Hacked) | Kawaldeep Singh | [Read More](https://medium.com/p/4e0e589360c8) |
 | Sat, 20 Dec 2025 12:30:10 GMT | TheHackersLabs — Inj3ctCrew [Write-Up] | APS88 | [Read More](https://medium.com/p/664c6902e107) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 05:02:24 GMT | Securing a Kenyan SACCO from Zero [Part 4 of 6] | Munaniadeno | [Read More](https://medium.com/p/31c762faaa4c) |
 | Sat, 20 Dec 2025 04:58:32 GMT | Ultimate Guide to Cybersecurity Risk Assessment for Small Businesses | Maxatlasofficial | [Read More](https://medium.com/p/bae4b477b7e6) |
 | Sat, 20 Dec 2025 04:57:10 GMT | Chain of Responsibility: The Pattern That Quietly Became Your Company’s Business Policy | The Dev Notebook | [Read More](https://medium.com/p/57ebbf21d35e) |
-| Sat, 20 Dec 2025 04:39:12 GMT | From Curiosity to Cash: How I Bypassed 2FA and Earned $300! | Zer0Figure | [Read More](https://medium.com/p/b81ef4c01000) |
-| Sat, 20 Dec 2025 04:37:52 GMT | Networking: The Hacker’s Alpha and Omega! | Keyur | [Read More](https://medium.com/p/a6c0e80fa214) |
-| Sat, 20 Dec 2025 04:34:45 GMT | Understanding Uniformed vs. Plainclothes Security Guards in Brampton | Diligent Security Services | [Read More](https://medium.com/p/080c80913936) |
-| Sat, 20 Dec 2025 04:34:03 GMT | Regulation in the Digital Age: What 2025 Revealed and What 2026 Must Deliver | Shailendra Vikram Singh | [Read More](https://medium.com/p/e8eef1d32b6c) |
-| Sat, 20 Dec 2025 04:32:20 GMT | Node.js Security Best Practices for 2026 | Sparkle Web | [Read More](https://medium.com/p/3b27fb1e8160) |
-| Sat, 20 Dec 2025 04:28:45 GMT | I’m Zer0Figure — Exploring Security One Vulnerability at a Time | Zer0Figure | [Read More](https://medium.com/p/b960a282c50a) |
-| Sat, 20 Dec 2025 04:28:38 GMT | When AI Meets Childhood: ChatGPT as a Case Study | Mukoro Ogheneteguonor Michelle | [Read More](https://medium.com/p/1ff7a2874b85) |
-| Sat, 20 Dec 2025 04:26:17 GMT | Graph-Based Threat Intelligence: A Technical Survey of Machine Learning Approaches for Fraud… | Brian Curry | [Read More](https://medium.com/p/aee8339a7a9d) |
-| Sat, 20 Dec 2025 04:09:09 GMT | How I Built a Raspberry Pi Fan Speed Controller with NestJS | Hoang Dinh | [Read More](https://medium.com/p/d91832e06e26) |
-| Sat, 20 Dec 2025 04:02:57 GMT | AI Scams Are Increasing — What You Need to Know to Stay Safe | Hameedduke | [Read More](https://medium.com/p/569dfe7665d0) |
