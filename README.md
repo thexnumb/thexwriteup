@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 16:45:04 GMT | Networking in Cyber Security Part 1. | Bilal Nasir | [Read More](https://medium.com/p/837c8274b2da) |
+| Sat, 20 Dec 2025 16:37:27 GMT | Beyond the Firewall: Navigating ISP Policies Through a GRC Lens | Brian Haman, PhD | [Read More](https://medium.com/p/32c5c4e29491) |
+| Sat, 20 Dec 2025 16:35:10 GMT | I Used to Ignore This — Now I Warn Everyone About It | Er Dhaval Ramani | [Read More](https://medium.com/p/7504ac4bc451) |
+| Sat, 20 Dec 2025 16:32:21 GMT | How a Forgotten Code Library Led to the University of Sydney Data Breach | Chetan Seripally | [Read More](https://medium.com/p/2443c91dd126) |
+| Sat, 20 Dec 2025 16:29:16 GMT | Expressway Hack The Box Walkthrough | NourInTech | [Read More](https://medium.com/p/4d5a11f2b514) |
 | Sat, 20 Dec 2025 16:11:04 GMT | Cross-Site Scripting (XSS) Nedir? | Melih Yılmaz | [Read More](https://medium.com/p/607da2fdfff7) |
 | Sat, 20 Dec 2025 16:11:02 GMT | Cybersecurity in 2026: Still Worth Your Time (and Your Career)? | Motasem Hamdan | [Read More](https://medium.com/p/7ac9c70f9ec4) |
 | Sat, 20 Dec 2025 16:08:07 GMT | [HackSmarter.org Write-up] BuildingMagic | Chicken0248 | [Read More](https://medium.com/p/d34a21cfd36f) |
@@ -22,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 15:42:45 GMT | Episode 15: “The Keycard Conundrum” | Dr. House In I.T. | [Read More](https://medium.com/p/999c111320ca) |
 | Sat, 20 Dec 2025 15:41:32 GMT | Building the Foundation of a Wazuh SIEM Home Lab | 0xmatchaberry | [Read More](https://medium.com/p/9f483bf9ec80) |
 | Sat, 20 Dec 2025 15:39:56 GMT | Deploying AI Across Businesses | Rimshah Rehman | [Read More](https://medium.com/p/6ca494cee7c4) |
+| Sat, 20 Dec 2025 15:37:04 GMT | Physics Wallah (PW) VAPT Interview Experience — A Fresher’s Story | Chhavi Rohilla | [Read More](https://medium.com/p/24ddf4ccd1eb) |
 | Sat, 20 Dec 2025 15:27:38 GMT | IT Support Services: Reliable Managed IT Solutions for Modern Businesses | Akash | [Read More](https://medium.com/p/95e923cfc5d7) |
 | Sat, 20 Dec 2025 15:24:43 GMT | Social Media Reveals Your Partner’s True Character | ADITI | [Read More](https://medium.com/p/09cb5c29cdb3) |
 | Sat, 20 Dec 2025 15:24:30 GMT | Beyond the Web - Thick Clients & Advanced Exploitation | Janhvee Laad | [Read More](https://medium.com/p/b19ab2540570) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 08:41:26 GMT | CVE-2025–8961 - LibTIFF tiffcrop tiffcrop.c main memory corruption | Aakash Rahsi | [Read More](https://medium.com/p/7dca9955fecb) |
 | Sat, 20 Dec 2025 08:32:19 GMT | Cyber Insurance Prep: Prove You Monitor Credential Leaks and Act on Alerts | Alexandre Vandamme | [Read More](https://medium.com/p/60b074d2ec6f) |
 | Sat, 20 Dec 2025 08:26:13 GMT | A tile showroom in San Francisco just lost $200,000 | Heesham Naji | [Read More](https://medium.com/p/28d1f2649ee9) |
-| Sat, 20 Dec 2025 08:25:15 GMT | REST API Endpoint Extractor | Abhirup Konwar | [Read More](https://medium.com/p/d36dfe63506b) |
-| Sat, 20 Dec 2025 08:14:30 GMT | CompTIA 2026: The Roadmap That Changes Everything | Sec Guy | [Read More](https://medium.com/p/8be19e8c3f1a) |
-| Sat, 20 Dec 2025 08:12:33 GMT | Post-Quantum Cryptography: Securing Today’s Data Against Tomorrow’s Computers | Aditya Sharma | [Read More](https://medium.com/p/e55df873b7e0) |
-| Sat, 20 Dec 2025 07:59:19 GMT | AI & Computer Science Innovation in Schools — A Practical Track | Ibrahim khan | [Read More](https://medium.com/p/01171ffee3f4) |
-| Sat, 20 Dec 2025 07:58:29 GMT | Stop “Hard Retries” Before They Lock You Out | TokenGlim | [Read More](https://medium.com/p/a48071895e34) |
-| Sat, 20 Dec 2025 07:56:58 GMT | No Protection Means No Control — Get Antivirus for Windows Now | Siyanoav | [Read More](https://medium.com/p/ba16ca759b9c) |
