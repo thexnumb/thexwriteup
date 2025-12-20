@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 05:10:04 GMT | [Ethernaut] 7. Force | Jiseop Shin | [Read More](https://medium.com/p/33c9a4989ada) |
+| Sat, 20 Dec 2025 05:02:24 GMT | Securing a Kenyan SACCO from Zero [Part 4 of 6] | Munaniadeno | [Read More](https://medium.com/p/31c762faaa4c) |
+| Sat, 20 Dec 2025 04:57:10 GMT | Chain of Responsibility: The Pattern That Quietly Became Your Company’s Business Policy | The Dev Notebook | [Read More](https://medium.com/p/57ebbf21d35e) |
+| Sat, 20 Dec 2025 04:39:12 GMT | From Curiosity to Cash: How I Bypassed 2FA and Earned $300! | Zer0Figure | [Read More](https://medium.com/p/b81ef4c01000) |
+| Sat, 20 Dec 2025 04:37:52 GMT | Networking: The Hacker’s Alpha and Omega! | Keyur | [Read More](https://medium.com/p/a6c0e80fa214) |
+| Sat, 20 Dec 2025 04:34:45 GMT | Understanding Uniformed vs. Plainclothes Security Guards in Brampton | Diligent Security Services | [Read More](https://medium.com/p/080c80913936) |
+| Sat, 20 Dec 2025 04:34:03 GMT | Regulation in the Digital Age: What 2025 Revealed and What 2026 Must Deliver | Shailendra Vikram Singh | [Read More](https://medium.com/p/e8eef1d32b6c) |
+| Sat, 20 Dec 2025 04:32:20 GMT | Node.js Security Best Practices for 2026 | Sparkle Web | [Read More](https://medium.com/p/3b27fb1e8160) |
 | Sat, 20 Dec 2025 04:28:45 GMT | I’m Zer0Figure — Exploring Security One Vulnerability at a Time | Zer0Figure | [Read More](https://medium.com/p/b960a282c50a) |
+| Sat, 20 Dec 2025 04:28:38 GMT | When AI Meets Childhood: ChatGPT as a Case Study | Mukoro Ogheneteguonor Michelle | [Read More](https://medium.com/p/1ff7a2874b85) |
+| Sat, 20 Dec 2025 04:26:17 GMT | Graph-Based Threat Intelligence: A Technical Survey of Machine Learning Approaches for Fraud… | Brian Curry | [Read More](https://medium.com/p/aee8339a7a9d) |
 | Sat, 20 Dec 2025 04:09:09 GMT | How I Built a Raspberry Pi Fan Speed Controller with NestJS | Hoang Dinh | [Read More](https://medium.com/p/d91832e06e26) |
 | Sat, 20 Dec 2025 04:02:57 GMT | AI Scams Are Increasing — What You Need to Know to Stay Safe | Hameedduke | [Read More](https://medium.com/p/569dfe7665d0) |
 | Sat, 20 Dec 2025 03:58:34 GMT | Tải Dan The Man Mod APK V1.12.72 (Vô Hạn Tiền, Bất Tử, Menu) | GOCMOD | [Read More](https://medium.com/p/72c04080c076) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 17:56:52 GMT | Why Most People Get Stuck Learning Cybersecurity | Hania Khan | [Read More](https://medium.com/p/550c9583ba00) |
 | Fri, 19 Dec 2025 17:49:29 GMT | Infinity Learning lab: Lambda Escalation — Writeup | Hubert | [Read More](https://medium.com/p/5fa1a4976434) |
 | Fri, 19 Dec 2025 17:49:19 GMT | Understanding Cybersecurity: A Beginner’s Perspective | Vanshika Kukreja | [Read More](https://medium.com/p/fff662652423) |
-| Fri, 19 Dec 2025 17:36:44 GMT | Why AI Needs Data Instead of “Intelligence” | Prapti Vahia | [Read More](https://medium.com/p/4cedf8de4a2a) |
-| Fri, 19 Dec 2025 17:28:06 GMT | Kimwolf Botnet Hijacks 1.8 Million Android TVs for Global DDoS Attacks | Gligits.ini | [Read More](https://medium.com/p/b263d1a639f6) |
-| Fri, 19 Dec 2025 17:23:08 GMT | The Silent Cyber Threat: Overconfidence in “Secure” Systems | Ankit rai | [Read More](https://medium.com/p/5f9a1aef309d) |
-| Fri, 19 Dec 2025 17:22:20 GMT | How Spring Security Actually Works (A Deep, Practical Walkthrough) | Pranesh Meher | [Read More](https://medium.com/p/2ec2b6a8100c) |
-| Fri, 19 Dec 2025 17:21:05 GMT | Indirect Prompt Injection: Summarize Email Leads to Several Unauthorized Actions | rdzsp | [Read More](https://medium.com/p/42892e03da20) |
-| Fri, 19 Dec 2025 17:18:40 GMT | CVE-2025–67418: When Default Credentials Become a Remote Root Button | Arpit Sharma | [Read More](https://medium.com/p/03be5ee4b927) |
-| Fri, 19 Dec 2025 17:18:24 GMT | My Unfiltered Journey through Cybersecurity | Yaaahyax | [Read More](https://medium.com/p/a4bff8eeb5a4) |
-| Fri, 19 Dec 2025 17:17:37 GMT | Securing Medical Devices in Healthcare | Shane Haynes | [Read More](https://medium.com/p/eecbc01c41db) |
-| Fri, 19 Dec 2025 17:15:44 GMT | Managing IT Assets Across Borders: Navigating the Digital Wild West | Len Noe | [Read More](https://medium.com/p/f4633ede68ff) |
-| Fri, 19 Dec 2025 17:11:57 GMT | Insufficient Transport Layer Protection Vulnerabilities: You Down With ITLP? (Yeah, you know me!) | Jen Cracchiola | [Read More](https://medium.com/p/e5733fcb9283) |
