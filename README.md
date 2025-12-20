@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 03:09:14 GMT | Tải Hack MadOut2 (Full Tiền, Kim Cương) v17.03 | Bandisharecx | [Read More](https://medium.com/p/1e5c513bf2ca) |
+| Sat, 20 Dec 2025 03:07:38 GMT | React to Shell: A Vulnerability at Frontend Code | bipin | [Read More](https://medium.com/p/b7ed98c9c77b) |
+| Sat, 20 Dec 2025 02:49:01 GMT | Hey everyone! | Whistle blower | [Read More](https://medium.com/p/c464194f1e29) |
+| Sat, 20 Dec 2025 02:44:55 GMT | Tải Night Adventure Apk (Vô Hạn Tiền) V1.0 Cho Android | Apkpuredev | [Read More](https://medium.com/p/4d6cc6de8cbc) |
+| Sat, 20 Dec 2025 02:29:53 GMT | Man-in-the-Middle Detection — TryhackMe Walktrhough | Paul koumedzro | [Read More](https://medium.com/p/7a42434f3d59) |
+| Sat, 20 Dec 2025 02:19:19 GMT | Analysis of Sensitive Information Vulnerability in Public XML Files | Albertstive | [Read More](https://medium.com/p/840ef304e88a) |
+| Sat, 20 Dec 2025 01:54:47 GMT | The CIA Triad: The Foundation of Cybersecurity | farshad moradi shahrbabak | [Read More](https://medium.com/p/c714271f6f53) |
+| Sat, 20 Dec 2025 01:53:26 GMT | Mohamed Sayed Kamel (vdtafury) — AI & Data Engineer & CTF Player | Mohamed Sayed Kamel | [Read More](https://medium.com/p/f7c283876f10) |
+| Sat, 20 Dec 2025 01:47:40 GMT | Hypervisors Became The New Front Line For Ransomware | Geoffrey Wenger | [Read More](https://medium.com/p/7210ba66d506) |
+| Sat, 20 Dec 2025 01:47:32 GMT | Why Deleting Files Still Leaves Your Data Exposed | Geoffrey Wenger | [Read More](https://medium.com/p/fd847e79903a) |
 | Sat, 20 Dec 2025 00:58:59 GMT | I Stopped My Smart TV From Spying on Me | K_Anik | [Read More](https://medium.com/p/64bed426be91) |
 | Sat, 20 Dec 2025 00:27:15 GMT | LinkedIn 求職詐騙：特別針對 Web3／區塊鏈求職者 | Yiting Huang - Product Designer | [Read More](https://medium.com/p/a5eb9bff46ea) |
 | Sat, 20 Dec 2025 00:25:44 GMT | Building Secure Authentication: A Complete Guide to JWTs, Passwords, MFA and OAuth | Loggd | [Read More](https://medium.com/p/fdad8d243b91) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 17:00:43 GMT | Advent of Cyber 2025 - Day 19: ICS/Modbus — Claus for Concern | D4m.sh | [Read More](https://medium.com/p/073d04ac243d) |
 | Fri, 19 Dec 2025 17:00:24 GMT | CEHv12: Vulnerability Analysis (Practised)(Module 5) | Aditya Kumar | [Read More](https://medium.com/p/d21e70616faa) |
 | Fri, 19 Dec 2025 16:58:58 GMT | Building My First Vulnerability Scanner Using Python: A Step-by-Step Guide | Aneef Sheriff | [Read More](https://medium.com/p/3f9ed3899daa) |
-| Fri, 19 Dec 2025 16:56:49 GMT | Hey there — Welcome. | Amir Akhwand | [Read More](https://medium.com/p/ff7caaec2533) |
-| Fri, 19 Dec 2025 16:54:57 GMT | Hacking Series (Part 8): Sniffing & Spoofing — How Hackers Intercept Traffic and How to Stop… | Cyber Wolf | [Read More](https://medium.com/p/42c6faafc00d) |
-| Fri, 19 Dec 2025 16:54:35 GMT | Why Choose an Ethical Hacking Course in Kochi in 2026? | Anaynams | [Read More](https://medium.com/p/227fd20233ac) |
-| Fri, 19 Dec 2025 16:54:17 GMT | Temel Network Kavramları: OSI, TCP/IP, UDP | HTurkmen | [Read More](https://medium.com/p/fa97905bb735) |
-| Fri, 19 Dec 2025 16:52:09 GMT | 32-bit and 64-bit Stack-Based Buffer Overflow Exploitation | Axolot | [Read More](https://medium.com/p/7cb63f9280c4) |
-| Fri, 19 Dec 2025 16:49:39 GMT | GPT-5.2-Codex and the Quiet Inflection Point in Agentic Security Research | Chetan Seripally | [Read More](https://medium.com/p/d4ef9a1c097b) |
-| Fri, 19 Dec 2025 16:43:02 GMT | How to DeGoogle your life and why you should | Anastasios Antoniadis | [Read More](https://medium.com/p/ee050f620838) |
-| Fri, 19 Dec 2025 16:37:42 GMT | DOCUMENTING MY JOURNEY TOWARDS DECENTRALISED AI AND BLOCKCHAIN CYBERSECURITY | Adesowapo Adeyemi | [Read More](https://medium.com/p/3547a7c91dc6) |
-| Fri, 19 Dec 2025 16:34:27 GMT | Linux Terminaline İlk Adım: Temel Komutlar ve Pratik Uygulamalar ️ | ahmetesatakkus | [Read More](https://medium.com/p/bd5895e93fd0) |
-| Fri, 19 Dec 2025 16:31:42 GMT | Recon Fatigue Is Real — Until This One URL Paid My Rent | Iski | [Read More](https://medium.com/p/8768a51dc50e) |
