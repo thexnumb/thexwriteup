@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 11:07:13 GMT | Dosya Oluşturma ve Yönetme (File Operations) | g.o. | [Read More](https://medium.com/p/74555169fac1) |
+| Sat, 20 Dec 2025 11:06:31 GMT | How adaptive malware exploits blind spots in EDR, ML models, and human response | Khushi | [Read More](https://medium.com/p/b152d7b2e680) |
+| Sat, 20 Dec 2025 11:02:19 GMT | Corporate Ethics in the Digital Age | Inshirah Zaib | [Read More](https://medium.com/p/61aa99513a00) |
+| Sat, 20 Dec 2025 11:02:18 GMT | OSINT: open source intelligence in the free market | Spazioformadsgn | [Read More](https://medium.com/p/f08bc4591f19) |
+| Sat, 20 Dec 2025 10:54:22 GMT | AI, Cybersecurity, and Crypto: The Tech Shifts Quietly Redefining Our Digital Future | Leinn | [Read More](https://medium.com/p/cd04cb7a12d4) |
 | Sat, 20 Dec 2025 10:41:02 GMT | Zero | MouhibMahadbi | [Read More](https://medium.com/p/7c257429deb1) |
 | Sat, 20 Dec 2025 10:35:41 GMT | How I Built My Security Tool “YURIE” — Making Website Security Fast, Safe, and Accessible | Yurie Vulnerabilitie Scanner | [Read More](https://medium.com/p/a62ecb7cdb44) |
 | Sat, 20 Dec 2025 10:35:03 GMT | Can You Become a Hacker Just by Using Google? | Maneesha Dewmina | [Read More](https://medium.com/p/3c1f49eb717e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 00:27:15 GMT | LinkedIn 求職詐騙：特別針對 Web3／區塊鏈求職者 | Yiting Huang - Product Designer | [Read More](https://medium.com/p/a5eb9bff46ea) |
 | Sat, 20 Dec 2025 00:25:44 GMT | Building Secure Authentication: A Complete Guide to JWTs, Passwords, MFA and OAuth | Loggd | [Read More](https://medium.com/p/fdad8d243b91) |
 | Fri, 19 Dec 2025 23:52:27 GMT | PC gaming really on the decline, or is it just being priced out? | Joseph Flowers | [Read More](https://medium.com/p/9d005a935874) |
-| Fri, 19 Dec 2025 23:42:14 GMT | The Ultimate Guide to Managed IT Services for Financial Companies in the USA | CompuWork | [Read More](https://medium.com/p/8c955fa2c71c) |
-| Fri, 19 Dec 2025 23:36:19 GMT | PART 2, Claude is dumber now. Claude’s self analysis. | Berend Watchus | [Read More](https://medium.com/p/7da56bcdd5ea) |
-| Fri, 19 Dec 2025 23:31:15 GMT | The Dev-Sec Friction Problem (And How to Eliminate It) | Ofri Peretz | [Read More](https://medium.com/p/99639a3869a4) |
-| Fri, 19 Dec 2025 23:27:31 GMT | The Weakest Link in Industrial Cybersecurity | Muhammad Ali Khan | [Read More](https://medium.com/p/caf19f8a36da) |
-| Fri, 19 Dec 2025 23:26:49 GMT | Alert Design in OT. If Everything Screams, Nothing Is Heard | Muhammad Ali Khan | [Read More](https://medium.com/p/75c5a247b5bc) |
