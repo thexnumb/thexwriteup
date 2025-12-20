@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 06:22:08 GMT | Your Website is Infected: 5 Minutes to Clean it and Save Your Business | Rabiul Bashar | [Read More](https://medium.com/p/7346363179d3) |
+| Sat, 20 Dec 2025 06:15:26 GMT | What Are SIEM Tools Used For in Real Organizations | Digital Duffer | [Read More](https://medium.com/p/49399606b3ed) |
+| Sat, 20 Dec 2025 06:14:17 GMT | What Is SIEM in Cyber Security: Complete Guide 2026 | Digital Duffer | [Read More](https://medium.com/p/f3a94b2c333a) |
+| Sat, 20 Dec 2025 06:09:51 GMT | From Infinite Money Glitch to Secure System: Fixing Race Condition Vulnerabilities in DApps | Abhishek Adhikari | [Read More](https://medium.com/p/e4e3ecc86c99) |
+| Sat, 20 Dec 2025 06:07:05 GMT | The $10K Blueprint: Building an Elite Bug Bounty Automation Stack Using Only Open Source Tools | Ayush Maikhuri | [Read More](https://medium.com/p/1725731407f0) |
+| Sat, 20 Dec 2025 06:01:46 GMT | BlackGate Linux Box, Proving Grounds ( OSCP Road ) | Cyb0rgBytes | [Read More](https://medium.com/p/e678325b6cf6) |
+| Sat, 20 Dec 2025 05:51:04 GMT | The Ghost in the Machine: | Gandieslay | [Read More](https://medium.com/p/1032253b5fa1) |
+| Sat, 20 Dec 2025 05:45:11 GMT | Bespoke Managed IT Services for Innovative Modern Business | Mounika Dheeru | [Read More](https://medium.com/p/d25560ad8b72) |
+| Sat, 20 Dec 2025 05:43:19 GMT | Encoding vs Encryption vs Hashing (with traps & myths) | Suraj Bhandari | [Read More](https://medium.com/p/1b9f1d9de537) |
+| Sat, 20 Dec 2025 05:41:17 GMT | Your New Senior Engineer is Here: Meet GPT-5.2 Codex | Siddhesh Surve | [Read More](https://medium.com/p/729e85e5b6d1) |
 | Sat, 20 Dec 2025 05:38:19 GMT | Elevate Your Enterprise Security Skills with Aramco Program | Kadhijahafiya | [Read More](https://medium.com/p/968f4fa0dec9) |
 | Sat, 20 Dec 2025 05:36:23 GMT | More Than Robocop: 5 Shocking Ways Drones and AI Will Change Our World, According to Police | Urban (@officialurbanus) | [Read More](https://medium.com/p/c8f977b35b4f) |
 | Sat, 20 Dec 2025 05:34:32 GMT | One Weak Password Can End a Company | StackSnacker | [Read More](https://medium.com/p/6dfe80983b0c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 19:01:21 GMT | Your AI Coding Assistant Is 10x Faster at Shipping Vulnerabilities | AhmedAbdelmenem | [Read More](https://medium.com/p/739472065f27) |
 | Fri, 19 Dec 2025 18:55:07 GMT | Weekly Cyber Threat Bulletin: 18 December 2025 | Marcelle Lee | [Read More](https://medium.com/p/46dabd186b27) |
 | Fri, 19 Dec 2025 18:51:50 GMT | Recovering Data from a Failing HDD Inside a Live Proxmox Homelab | Vetri | [Read More](https://medium.com/p/8b8af270ac16) |
-| Fri, 19 Dec 2025 18:49:25 GMT | Romance | AmyChen | [Read More](https://medium.com/p/4752e9ead6e5) |
-| Fri, 19 Dec 2025 18:48:30 GMT | Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | KRY | [Read More](https://medium.com/p/c4c378cc6566) |
-| Fri, 19 Dec 2025 18:48:29 GMT | A Simple Guide to HTTPS (SSL/TLS) Certificate Updates for Everyone | Darshana Mahesh | [Read More](https://medium.com/p/3398e8884f04) |
-| Fri, 19 Dec 2025 18:47:36 GMT | Adding Differential Privacy to Evolution Strategies | David Zagardo | [Read More](https://medium.com/p/cd9de8e273ae) |
-| Fri, 19 Dec 2025 18:45:43 GMT | Lab: DOM XSS in document.write sink using source location.search inside a select element | KRY | [Read More](https://medium.com/p/3186e91adef7) |
-| Fri, 19 Dec 2025 18:40:01 GMT | University CTF 2025 Writeup: SHL33T Challenge | Taufiqurrahman Yudhi Atmadja | [Read More](https://medium.com/p/522a0726aa75) |
-| Fri, 19 Dec 2025 18:38:07 GMT | Building a Cybersecurity Home Lab — Part 5.1: Disabling AV via GPO | JBXSec | [Read More](https://medium.com/p/bc54204c2d67) |
-| Fri, 19 Dec 2025 18:37:20 GMT | The History of Cybersecurity | Abhiram Boyanapalli | [Read More](https://medium.com/p/41b65ca8c86f) |
-| Fri, 19 Dec 2025 18:23:07 GMT | Advent of Cyber 2025 Day 19 - TryHackMe - ICS/Modbus - Claus for Concern - WriteUp | Axoloth | [Read More](https://medium.com/p/cea119b5802a) |
-| Fri, 19 Dec 2025 18:16:46 GMT | Information disclosure, but not in the way you might expect | Rajveer | [Read More](https://medium.com/p/a914479e06cc) |
