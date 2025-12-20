@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 13:29:28 GMT | 2026 Is Closer Than You Think: The Shocking Changes That Will Redefine Your Life | Sturk | [Read More](https://medium.com/p/41cfada1958a) |
+| Sat, 20 Dec 2025 13:28:44 GMT | The AI Agent Graveyard: Why 46% of Projects Die Before Production | ThinkBeyond | [Read More](https://medium.com/p/6c779b533941) |
 | Sat, 20 Dec 2025 13:25:10 GMT | NTFS Explained: Architecture, Security Features, and Forensic Value | Saqlain Naqvi | [Read More](https://medium.com/p/1bcb6da9bc6e) |
 | Sat, 20 Dec 2025 13:18:31 GMT | How Egypt turned its energy independence into a strategic hostage | Mümin Ahmedoğlu | [Read More](https://medium.com/p/deb6e30e7dda) |
 | Sat, 20 Dec 2025 13:14:04 GMT | TryHackMe Writeup: Brute It | Berkay AĞGÜL | [Read More](https://medium.com/p/9bd54746f920) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 05:10:04 GMT | [Ethernaut] 7. Force | Jiseop Shin | [Read More](https://medium.com/p/33c9a4989ada) |
 | Sat, 20 Dec 2025 05:07:39 GMT | JWT Is NOT Authentication | rahul sahay | [Read More](https://medium.com/p/3708592d8363) |
 | Sat, 20 Dec 2025 05:02:24 GMT | Securing a Kenyan SACCO from Zero [Part 4 of 6] | Munaniadeno | [Read More](https://medium.com/p/31c762faaa4c) |
-| Sat, 20 Dec 2025 04:58:32 GMT | Ultimate Guide to Cybersecurity Risk Assessment for Small Businesses | Maxatlasofficial | [Read More](https://medium.com/p/bae4b477b7e6) |
-| Sat, 20 Dec 2025 04:57:10 GMT | Chain of Responsibility: The Pattern That Quietly Became Your Company’s Business Policy | The Dev Notebook | [Read More](https://medium.com/p/57ebbf21d35e) |
