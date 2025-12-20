@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 19:26:14 GMT | PortSwigger Web Security Academy — Lab Write-Up 1 | 0xM3d0din | [Read More](https://medium.com/p/3baf9055a3ce) |
+| Sat, 20 Dec 2025 19:17:47 GMT | Advent of Cyber 2025 Day 20 - TryHackMe - Race Conditions - Toy to The World - WriteUp | Axoloth | [Read More](https://medium.com/p/f2b034cb6c48) |
 | Sat, 20 Dec 2025 19:15:50 GMT | I Built a Single Frida Script that Automates OWASP Mobile Security Testing | Raj Prasad Kuiri | [Read More](https://medium.com/p/7b26bb5f336a) |
 | Sat, 20 Dec 2025 19:15:10 GMT | Cybersecurity Mindest | Igor Berner | [Read More](https://medium.com/p/cc6157f870cf) |
 | Sat, 20 Dec 2025 19:04:36 GMT | Day 94: My younger brother is a better hacker than I | Nile Okomo | [Read More](https://medium.com/p/8760bf3f4c06) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 11:47:15 GMT | Why Slow Scans Are Smarter Than Aggressive Ones | Fateyaly | [Read More](https://medium.com/p/f24f81cb4914) |
 | Sat, 20 Dec 2025 11:41:52 GMT | $1,000 Bounty: How a Logout Parameter Turned Into a Phishing Redirect Machine | Monika sharma | [Read More](https://medium.com/p/4b42fffa9900) |
 | Sat, 20 Dec 2025 11:39:55 GMT | Forensics — Registry Furensics - AoC 2025 Day - 16 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a28933ca2d45) |
-| Sat, 20 Dec 2025 11:29:32 GMT | Raven, the twin brother of Nightowl | Мартин. | [Read More](https://medium.com/p/9f73d9cedf11) |
-| Sat, 20 Dec 2025 11:27:02 GMT | The Bug That Wasn’t Visible: A Real Production Lesson from an LMS Project | TechEd Diaries | [Read More](https://medium.com/p/c7940d1b2493) |
