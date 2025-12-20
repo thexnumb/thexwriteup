@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 10:41:02 GMT | Zero | MouhibMahadbi | [Read More](https://medium.com/p/7c257429deb1) |
+| Sat, 20 Dec 2025 10:35:41 GMT | How I Built My Security Tool “YURIE” — Making Website Security Fast, Safe, and Accessible | Yurie Vulnerabilitie Scanner | [Read More](https://medium.com/p/a62ecb7cdb44) |
+| Sat, 20 Dec 2025 10:35:03 GMT | Can You Become a Hacker Just by Using Google? | Maneesha Dewmina | [Read More](https://medium.com/p/3c1f49eb717e) |
+| Sat, 20 Dec 2025 10:32:38 GMT | Linux Navigating Directories (Linux Dizinlerde Gezinme) | g.o. | [Read More](https://medium.com/p/70ce71ee3807) |
+| Sat, 20 Dec 2025 10:31:53 GMT | Trilochana: The “All-Seeing” Eye for Your Codebase’s Secrets | Mitesh Singh Jat | [Read More](https://medium.com/p/f97b2559d75a) |
+| Sat, 20 Dec 2025 10:25:44 GMT | Ethical Hacking Course with AI in Dubai | Crawsec | [Read More](https://medium.com/p/2ca392797a75) |
+| Sat, 20 Dec 2025 10:24:30 GMT | Lock Fingerprint + Request Shape to Stop Login/Verify Loops | CoinZephyr | [Read More](https://medium.com/p/940e951f53a5) |
+| Sat, 20 Dec 2025 10:17:31 GMT | Day 20 — Incident Response (The Ambush) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/92c8596b7ee4) |
+| Sat, 20 Dec 2025 10:12:23 GMT | X-Worm Malware Analysis | Aufarifqi | [Read More](https://medium.com/p/dcb6e47b643b) |
 | Sat, 20 Dec 2025 10:05:12 GMT | What Is a Header in Networking? | Soundaryaps | [Read More](https://medium.com/p/522699b3351c) |
 | Sat, 20 Dec 2025 10:04:36 GMT | Protecting Your Online Account | Sharif Hassan | [Read More](https://medium.com/p/51b66fd47ada) |
 | Sat, 20 Dec 2025 09:58:55 GMT | PortSwigger Lab Solution: SQL injection vulnerability in WHERE clause allowing retrieval of hidden… | PriOFF | [Read More](https://medium.com/p/b1d0f7ea82e7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 23:31:15 GMT | The Dev-Sec Friction Problem (And How to Eliminate It) | Ofri Peretz | [Read More](https://medium.com/p/99639a3869a4) |
 | Fri, 19 Dec 2025 23:27:31 GMT | The Weakest Link in Industrial Cybersecurity | Muhammad Ali Khan | [Read More](https://medium.com/p/caf19f8a36da) |
 | Fri, 19 Dec 2025 23:26:49 GMT | Alert Design in OT. If Everything Screams, Nothing Is Heard | Muhammad Ali Khan | [Read More](https://medium.com/p/75c5a247b5bc) |
-| Fri, 19 Dec 2025 23:26:04 GMT | How a “Featured” Chrome Extension Secretly Spied on Millions | Cyber-AppSec | [Read More](https://medium.com/p/377b1e64704a) |
-| Fri, 19 Dec 2025 23:25:48 GMT | Enhance Account Success with PVACreator for Bulk Creation and Management | Ichsanneng | [Read More](https://medium.com/p/91ae559cf925) |
-| Fri, 19 Dec 2025 22:57:41 GMT | ABAC (Attribute-Based Access Control): The Missing Layer of Modern Authorization | Stoic Engineer | [Read More](https://medium.com/p/8d01ae2b69d4) |
-| Fri, 19 Dec 2025 22:50:56 GMT | TryHackMe: harder Writeup | cbev | [Read More](https://medium.com/p/69b07cfe5867) |
-| Fri, 19 Dec 2025 22:37:04 GMT | Modern Red Team Operations: Initial Foothold & Discovery in Active Directory Environments | Bilal Berk karabulut | [Read More](https://medium.com/p/b5c348049904) |
-| Fri, 19 Dec 2025 22:33:37 GMT | What I Learned from Website Cloning and SMB Enumeration Labs | Isaac Edzie | [Read More](https://medium.com/p/998f1a63538a) |
-| Fri, 19 Dec 2025 22:32:00 GMT | Attack Surface Management (ASM) in 2026 | Adam Rhys Heaton | [Read More](https://medium.com/p/0dcd2ea0ed05) |
-| Fri, 19 Dec 2025 22:21:36 GMT | Building a Production-Ready YARA Malware Detection System (Without Breaking the Bank) | ShadowBlue | [Read More](https://medium.com/p/251438af90ad) |
-| Fri, 19 Dec 2025 22:19:40 GMT | Epic Fails in Learning CS — And How to Crush Them | Aras Darweesh | [Read More](https://medium.com/p/3fd697ddc6cd) |
