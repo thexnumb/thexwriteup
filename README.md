@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 11:27:02 GMT | The Bug That Wasn’t Visible: A Real Production Lesson from an LMS Project | TechEd Diaries | [Read More](https://medium.com/p/c7940d1b2493) |
+| Sat, 20 Dec 2025 11:15:56 GMT | Cybersecurity Isn’t Optional Anymore — It’s Your Career’s First Line of Defense. | 4Achievers | [Read More](https://medium.com/p/ded4f650876e) |
 | Sat, 20 Dec 2025 11:07:13 GMT | Dosya Oluşturma ve Yönetme (File Operations) | g.o. | [Read More](https://medium.com/p/74555169fac1) |
 | Sat, 20 Dec 2025 11:06:31 GMT | How adaptive malware exploits blind spots in EDR, ML models, and human response | Khushi | [Read More](https://medium.com/p/b152d7b2e680) |
 | Sat, 20 Dec 2025 11:02:19 GMT | Corporate Ethics in the Digital Age | Inshirah Zaib | [Read More](https://medium.com/p/61aa99513a00) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 01:47:32 GMT | Why Deleting Files Still Leaves Your Data Exposed | Geoffrey Wenger | [Read More](https://medium.com/p/fd847e79903a) |
 | Sat, 20 Dec 2025 00:58:59 GMT | I Stopped My Smart TV From Spying on Me | K_Anik | [Read More](https://medium.com/p/64bed426be91) |
 | Sat, 20 Dec 2025 00:27:15 GMT | LinkedIn 求職詐騙：特別針對 Web3／區塊鏈求職者 | Yiting Huang - Product Designer | [Read More](https://medium.com/p/a5eb9bff46ea) |
-| Sat, 20 Dec 2025 00:25:44 GMT | Building Secure Authentication: A Complete Guide to JWTs, Passwords, MFA and OAuth | Loggd | [Read More](https://medium.com/p/fdad8d243b91) |
-| Fri, 19 Dec 2025 23:52:27 GMT | PC gaming really on the decline, or is it just being priced out? | Joseph Flowers | [Read More](https://medium.com/p/9d005a935874) |
