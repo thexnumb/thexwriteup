@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 23:08:17 GMT | How does copy/paste work so well? | Michael Kokosenski | [Read More](https://medium.com/p/6da80316e02e) |
+| Sat, 20 Dec 2025 23:05:34 GMT | Web Security from First Principles What Actually Happens When You Click a Link. | Ehtisham Fakhar | [Read More](https://medium.com/p/8a0be62a01e5) |
+| Sat, 20 Dec 2025 23:02:43 GMT | Hidden administrator account under Windows Server Core: demonstration and defense | Devilman24 | [Read More](https://medium.com/p/81f9aad5611e) |
+| Sat, 20 Dec 2025 22:42:50 GMT | An IDOR that allows user information disclosure | Shahd Mk | [Read More](https://medium.com/p/36fd7643f31b) |
 | Sat, 20 Dec 2025 22:26:23 GMT | Do you really understand   and how cookies protect you ? | Bittu Kumar | [Read More](https://medium.com/p/0f2c6db24fa6) |
 | Sat, 20 Dec 2025 22:08:18 GMT | Horizon | Chris Perkins | [Read More](https://medium.com/p/7c6cc101050c) |
 | Sat, 20 Dec 2025 21:59:43 GMT | Anti-CSRF Tokens: Limitations | Amine Ali | [Read More](https://medium.com/p/9862e7195486) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 14:06:10 GMT | I Hacked Microsoft: Remote Code Execution (RCE) via Dependency Confusion | Aman Kumar (ak) | [Read More](https://medium.com/p/0c15ebee52df) |
 | Sat, 20 Dec 2025 14:02:19 GMT | Security best practice using OWASP based on my experience | IRFAN SUSILO | [Read More](https://medium.com/p/057d77c200fe) |
 | Sat, 20 Dec 2025 13:56:00 GMT | From Zero to Bronze: How I Earned My First Badge Hunting for Leaked Secrets | Jugnu Panchal | [Read More](https://medium.com/p/d477e874592e) |
-| Sat, 20 Dec 2025 13:53:13 GMT | ️ URL Shorteners vs URL Hiders: What They Are and Why They Matter in Cybersecurity | Natarajan C K | [Read More](https://medium.com/p/7f2c075d41f2) |
-| Sat, 20 Dec 2025 13:48:48 GMT | Volume Shadow Copy Service (VSS) Explained for Cybersecurity Backup Labs | Ramandeep Bagri | [Read More](https://medium.com/p/3b5b875c5139) |
-| Sat, 20 Dec 2025 13:46:36 GMT | Sovereign AI: The Global Scramble for Digital Independence (And Why It Matters More Than You… | Intellibytes | [Read More](https://medium.com/p/289895a4e79b) |
-| Sat, 20 Dec 2025 13:29:28 GMT | 2026 Is Closer Than You Think: The Shocking Changes That Will Redefine Your Life | Sturk | [Read More](https://medium.com/p/41cfada1958a) |
