@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 18:39:51 GMT | Install Suricata step by step on Ubuntu | Soumya Ranjan Sahoo | [Read More](https://medium.com/p/ea58a367288d) |
 | Sat, 20 Dec 2025 18:25:34 GMT | Creative — THM Writeup | Kavin Jindal | [Read More](https://medium.com/p/ca7f10d9f325) |
 | Sat, 20 Dec 2025 18:22:36 GMT | PortSwigger Web Security Academy_Complete Walkthrough Series | 0xM3d0din | [Read More](https://medium.com/p/8af0649ca66c) |
 | Sat, 20 Dec 2025 18:21:40 GMT | N0aziXss SubSpectre: Advanced Subdomain Discovery with Intelligent HTTP Analysis | N0aziXss | [Read More](https://medium.com/p/a52d1e7cd7aa) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 10:41:02 GMT | Zero | MouhibMahadbi | [Read More](https://medium.com/p/7c257429deb1) |
 | Sat, 20 Dec 2025 10:35:41 GMT | How I Built My Security Tool “YURIE” — Making Website Security Fast, Safe, and Accessible | Yurie Vulnerabilitie Scanner | [Read More](https://medium.com/p/a62ecb7cdb44) |
 | Sat, 20 Dec 2025 10:35:03 GMT | Can You Become a Hacker Just by Using Google? | Maneesha Dewmina | [Read More](https://medium.com/p/3c1f49eb717e) |
-| Sat, 20 Dec 2025 10:32:38 GMT | Linux Navigating Directories (Linux Dizinlerde Gezinme) | g.o. | [Read More](https://medium.com/p/70ce71ee3807) |
