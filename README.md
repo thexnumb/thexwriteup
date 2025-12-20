@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 22:26:23 GMT | Do you really understand   and how cookies protect you ? | Bittu Kumar | [Read More](https://medium.com/p/0f2c6db24fa6) |
 | Sat, 20 Dec 2025 22:08:18 GMT | Horizon | Chris Perkins | [Read More](https://medium.com/p/7c6cc101050c) |
 | Sat, 20 Dec 2025 21:59:43 GMT | Anti-CSRF Tokens: Limitations | Amine Ali | [Read More](https://medium.com/p/9862e7195486) |
 | Sat, 20 Dec 2025 21:23:26 GMT | What Teams Should Review Before Shipping AI Features | Mehdi Khalilzadeh | [Read More](https://medium.com/p/86682483b590) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 13:48:48 GMT | Volume Shadow Copy Service (VSS) Explained for Cybersecurity Backup Labs | Ramandeep Bagri | [Read More](https://medium.com/p/3b5b875c5139) |
 | Sat, 20 Dec 2025 13:46:36 GMT | Sovereign AI: The Global Scramble for Digital Independence (And Why It Matters More Than You… | Intellibytes | [Read More](https://medium.com/p/289895a4e79b) |
 | Sat, 20 Dec 2025 13:29:28 GMT | 2026 Is Closer Than You Think: The Shocking Changes That Will Redefine Your Life | Sturk | [Read More](https://medium.com/p/41cfada1958a) |
-| Sat, 20 Dec 2025 13:28:44 GMT | The AI Agent Graveyard: Why 46% of Projects Die Before Production | ThinkBeyond | [Read More](https://medium.com/p/6c779b533941) |
