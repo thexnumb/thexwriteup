@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 16:11:04 GMT | Cross-Site Scripting (XSS) Nedir? | Melih Yılmaz | [Read More](https://medium.com/p/607da2fdfff7) |
+| Sat, 20 Dec 2025 16:11:02 GMT | Cybersecurity in 2026: Still Worth Your Time (and Your Career)? | Motasem Hamdan | [Read More](https://medium.com/p/7ac9c70f9ec4) |
+| Sat, 20 Dec 2025 16:08:07 GMT | [HackSmarter.org Write-up] BuildingMagic | Chicken0248 | [Read More](https://medium.com/p/d34a21cfd36f) |
+| Sat, 20 Dec 2025 16:06:10 GMT | Exploring Information Gathering: The Main Foundation of Cybersecurity | Diva Rizky Alfitrah | [Read More](https://medium.com/p/e6727528ad3e) |
+| Sat, 20 Dec 2025 15:58:12 GMT | [HackSmarter.org Write-up] Arasaka (Kerberoasting, Shadow Credential, ESC1) | Chicken0248 | [Read More](https://medium.com/p/f679f891962b) |
+| Sat, 20 Dec 2025 15:43:49 GMT | Earn $2k/month by Approaching a Target in Bug Bounty Programs | Muhammad Haider Tallal | [Read More](https://medium.com/p/12bc32b25044) |
+| Sat, 20 Dec 2025 15:43:12 GMT | Deterministic Signatures with ECDSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c3f8d5002bde) |
+| Sat, 20 Dec 2025 15:42:45 GMT | Episode 15: “The Keycard Conundrum” | Dr. House In I.T. | [Read More](https://medium.com/p/999c111320ca) |
+| Sat, 20 Dec 2025 15:41:32 GMT | Building the Foundation of a Wazuh SIEM Home Lab | 0xmatchaberry | [Read More](https://medium.com/p/9f483bf9ec80) |
+| Sat, 20 Dec 2025 15:39:56 GMT | Deploying AI Across Businesses | Rimshah Rehman | [Read More](https://medium.com/p/6ca494cee7c4) |
 | Sat, 20 Dec 2025 15:27:38 GMT | IT Support Services: Reliable Managed IT Solutions for Modern Businesses | Akash | [Read More](https://medium.com/p/95e923cfc5d7) |
 | Sat, 20 Dec 2025 15:24:43 GMT | Social Media Reveals Your Partner’s True Character | ADITI | [Read More](https://medium.com/p/09cb5c29cdb3) |
 | Sat, 20 Dec 2025 15:24:30 GMT | Beyond the Web - Thick Clients & Advanced Exploitation | Janhvee Laad | [Read More](https://medium.com/p/b19ab2540570) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 07:59:19 GMT | AI & Computer Science Innovation in Schools — A Practical Track | Ibrahim khan | [Read More](https://medium.com/p/01171ffee3f4) |
 | Sat, 20 Dec 2025 07:58:29 GMT | Stop “Hard Retries” Before They Lock You Out | TokenGlim | [Read More](https://medium.com/p/a48071895e34) |
 | Sat, 20 Dec 2025 07:56:58 GMT | No Protection Means No Control — Get Antivirus for Windows Now | Siyanoav | [Read More](https://medium.com/p/ba16ca759b9c) |
-| Sat, 20 Dec 2025 07:46:45 GMT | ANONYMOUS- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/092ed898e664) |
-| Sat, 20 Dec 2025 07:44:22 GMT | Understanding the OSI Model: A Practical Way to Think About Networking | BHARGAV SANDILYA | [Read More](https://medium.com/p/f7c6e94fa975) |
-| Sat, 20 Dec 2025 07:30:17 GMT | How 2FA Authenticator Apps Work Offline: The Magic Behind TOTP | Odunayo Dada | [Read More](https://medium.com/p/b00e5adaf68f) |
-| Sat, 20 Dec 2025 07:23:24 GMT | CVE-2025–9086 - Out of bounds read for cookie path | Aakash Rahsi | [Read More](https://medium.com/p/65279fa4321b) |
-| Sat, 20 Dec 2025 07:19:40 GMT | From Prompt to Payout: How a ChatGPT Prompt Led Me to a Bug Bounty | errorsec_ | [Read More](https://medium.com/p/7b2893d846d4) |
-| Sat, 20 Dec 2025 07:13:17 GMT | Cyber security course in Hyderabad | APEC EDU | [Read More](https://medium.com/p/ab6fa97d91e7) |
-| Sat, 20 Dec 2025 07:07:47 GMT | GZR Observer — Global Daily — India Perspective Dec 19, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/983ceddd2cc3) |
-| Sat, 20 Dec 2025 06:53:02 GMT | GraphQL Hacking Toolkit 2025: 20 Commands & Payloads Every Pentester Should Master | Very Lazy Tech | [Read More](https://medium.com/p/336db9499b30) |
-| Sat, 20 Dec 2025 06:41:23 GMT | Top 5 Online Scams Students Must Know in 2025 | Ravi Prasanth | [Read More](https://medium.com/p/28ff713cb02b) |
-| Sat, 20 Dec 2025 06:38:50 GMT | A Foundational Constraint–Entropy Principle for Global Arithmetic Structures | Atul Mamgain | [Read More](https://medium.com/p/60ac09865664) |
