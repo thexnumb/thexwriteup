@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 15:05:59 GMT | Uncovering Threats Through WAF Logs: A Threat Hunter’s Lens | Surya Teja | [Read More](https://medium.com/p/0838101d3987) |
+| Sat, 20 Dec 2025 14:51:53 GMT | The Real Cost of AI: What We Don’t See as Developers | Thusara | [Read More](https://medium.com/p/b6e29d416bc4) |
+| Sat, 20 Dec 2025 14:41:41 GMT | How I Hunt for Swagger UI on Real Targets (A Practical Guide for Bug Bounty Hunters) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d44b284609aa) |
 | Sat, 20 Dec 2025 14:32:17 GMT | (Comptia A+) Mastering Change Management: A Step-By-Step Guide for IT Professionals | Vignesh R | [Read More](https://medium.com/p/ecfbf005731e) |
+| Sat, 20 Dec 2025 14:30:21 GMT | White Paper: Cybersecurity in Connected Vehicles — A Deep Dive for Cybersecurity Teams. | Bhawini. | [Read More](https://medium.com/p/4262c3c1bd9f) |
 | Sat, 20 Dec 2025 14:22:37 GMT | DATA PRIVACY IN THE AGE OF ARTIFICIAL I PRIVACY IN THE AGE OF ARTIFICIAL INTELLIGENCE | Shree Dwivedi | [Read More](https://medium.com/p/4316fe7a3630) |
 | Sat, 20 Dec 2025 14:21:19 GMT | What Happens When a Kali Linux Lab Breaks Your Mac | Widson Ambaisi | [Read More](https://medium.com/p/feb55ada06c0) |
 | Sat, 20 Dec 2025 14:14:06 GMT | Weaponizing Format Strings: Leaks, Writes, and Code Execution | Afi0pchik | [Read More](https://medium.com/p/9d5f13860f6c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 06:31:13 GMT | Road to Root: A Complete VulnHub Walkthrough of Hackable: 3 | Harlin Taggar | [Read More](https://medium.com/p/636595be292e) |
 | Sat, 20 Dec 2025 06:22:08 GMT | Your Website is Infected: 5 Minutes to Clean it and Save Your Business | Rabiul Bashar | [Read More](https://medium.com/p/7346363179d3) |
 | Sat, 20 Dec 2025 06:15:26 GMT | What Are SIEM Tools Used For in Real Organizations | Digital Duffer | [Read More](https://medium.com/p/49399606b3ed) |
-| Sat, 20 Dec 2025 06:14:17 GMT | What Is SIEM in Cyber Security: Complete Guide 2026 | Digital Duffer | [Read More](https://medium.com/p/f3a94b2c333a) |
-| Sat, 20 Dec 2025 06:09:51 GMT | From Infinite Money Glitch to Secure System: Fixing Race Condition Vulnerabilities in DApps | Abhishek Adhikari | [Read More](https://medium.com/p/e4e3ecc86c99) |
-| Sat, 20 Dec 2025 06:07:05 GMT | The $10K Blueprint: Building an Elite Bug Bounty Automation Stack Using Only Open Source Tools | Ayush Maikhuri | [Read More](https://medium.com/p/1725731407f0) |
-| Sat, 20 Dec 2025 06:01:46 GMT | BlackGate Linux Box, Proving Grounds ( OSCP Road ) | Cyb0rgBytes | [Read More](https://medium.com/p/e678325b6cf6) |
