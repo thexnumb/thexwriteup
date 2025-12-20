@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 05:38:19 GMT | Elevate Your Enterprise Security Skills with Aramco Program | Kadhijahafiya | [Read More](https://medium.com/p/968f4fa0dec9) |
+| Sat, 20 Dec 2025 05:36:23 GMT | More Than Robocop: 5 Shocking Ways Drones and AI Will Change Our World, According to Police | Urban (@officialurbanus) | [Read More](https://medium.com/p/c8f977b35b4f) |
+| Sat, 20 Dec 2025 05:34:32 GMT | One Weak Password Can End a Company | StackSnacker | [Read More](https://medium.com/p/6dfe80983b0c) |
+| Sat, 20 Dec 2025 05:24:29 GMT | Unmasking the Weak Points: Probing LLM Frontiers with garak | Daisuke AKAGAWA | [Read More](https://medium.com/p/50f4db714a62) |
+| Sat, 20 Dec 2025 05:20:13 GMT | You Can Fake an Identity. You Can’t Fake Physics. | Sharat Nautiyal | [Read More](https://medium.com/p/1e13e2ecac51) |
+| Sat, 20 Dec 2025 05:16:56 GMT | Data Privacy and Protection in Today’s Digital World: Why It Matters More Than Ever | Devarshi Acharya | [Read More](https://medium.com/p/5e66fef5f7de) |
 | Sat, 20 Dec 2025 05:10:04 GMT | [Ethernaut] 7. Force | Jiseop Shin | [Read More](https://medium.com/p/33c9a4989ada) |
+| Sat, 20 Dec 2025 05:07:39 GMT | JWT Is NOT Authentication | rahul sahay | [Read More](https://medium.com/p/3708592d8363) |
 | Sat, 20 Dec 2025 05:02:24 GMT | Securing a Kenyan SACCO from Zero [Part 4 of 6] | Munaniadeno | [Read More](https://medium.com/p/31c762faaa4c) |
 | Sat, 20 Dec 2025 04:57:10 GMT | Chain of Responsibility: The Pattern That Quietly Became Your Company’s Business Policy | The Dev Notebook | [Read More](https://medium.com/p/57ebbf21d35e) |
 | Sat, 20 Dec 2025 04:39:12 GMT | From Curiosity to Cash: How I Bypassed 2FA and Earned $300! | Zer0Figure | [Read More](https://medium.com/p/b81ef4c01000) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 18:37:20 GMT | The History of Cybersecurity | Abhiram Boyanapalli | [Read More](https://medium.com/p/41b65ca8c86f) |
 | Fri, 19 Dec 2025 18:23:07 GMT | Advent of Cyber 2025 Day 19 - TryHackMe - ICS/Modbus - Claus for Concern - WriteUp | Axoloth | [Read More](https://medium.com/p/cea119b5802a) |
 | Fri, 19 Dec 2025 18:16:46 GMT | Information disclosure, but not in the way you might expect | Rajveer | [Read More](https://medium.com/p/a914479e06cc) |
-| Fri, 19 Dec 2025 18:07:46 GMT | From Connection to Controversy: The Dual Nature of Social Media in Today’s Society | Miss.Yine Yenki Nyika | [Read More](https://medium.com/p/e4175cbca435) |
-| Fri, 19 Dec 2025 18:07:38 GMT | Is Microsoft 365 Email Secure to Use? Detailed Analysis of M365 Security Features | EINITIAL24 | [Read More](https://medium.com/p/f26159f0a976) |
-| Fri, 19 Dec 2025 18:00:36 GMT | Server Error. How to fix? | Thomas Weex | [Read More](https://medium.com/p/f671bc915c59) |
-| Fri, 19 Dec 2025 18:00:07 GMT | I Predicted AI Manipulation Years Ago. Now It’s Becoming a Reality | Aarya Thakar | [Read More](https://medium.com/p/7c2fde3f3172) |
-| Fri, 19 Dec 2025 17:56:52 GMT | Why Most People Get Stuck Learning Cybersecurity | Hania Khan | [Read More](https://medium.com/p/550c9583ba00) |
-| Fri, 19 Dec 2025 17:49:29 GMT | Infinity Learning lab: Lambda Escalation — Writeup | Hubert | [Read More](https://medium.com/p/5fa1a4976434) |
-| Fri, 19 Dec 2025 17:49:19 GMT | Understanding Cybersecurity: A Beginner’s Perspective | Vanshika Kukreja | [Read More](https://medium.com/p/fff662652423) |
