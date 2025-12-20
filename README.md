@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 21:23:26 GMT | What Teams Should Review Before Shipping AI Features | Mehdi Khalilzadeh | [Read More](https://medium.com/p/86682483b590) |
+| Sat, 20 Dec 2025 21:22:59 GMT | The Epstein Index: 943 Pages That Prove Privacy is a Luxury Good | Khushdeep Sharma | [Read More](https://medium.com/p/8325d3ce6b3c) |
 | Sat, 20 Dec 2025 21:07:36 GMT | Understanding Modern Firewall Architecture: From Network to Application Layer | Little_Sun4lower | [Read More](https://medium.com/p/827bb50751fd) |
 | Sat, 20 Dec 2025 21:04:30 GMT | The FMCSA’s New Rule Gets Safety Exactly Backwards | Heesham Naji | [Read More](https://medium.com/p/39d58fbf0e77) |
 | Sat, 20 Dec 2025 21:01:23 GMT | Mastering Auditd Advanced Usage in Production Environments | Linux Guide | [Read More](https://medium.com/p/0dd34b949e2b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 13:28:44 GMT | The AI Agent Graveyard: Why 46% of Projects Die Before Production | ThinkBeyond | [Read More](https://medium.com/p/6c779b533941) |
 | Sat, 20 Dec 2025 13:25:10 GMT | NTFS Explained: Architecture, Security Features, and Forensic Value | Saqlain Naqvi | [Read More](https://medium.com/p/1bcb6da9bc6e) |
 | Sat, 20 Dec 2025 13:18:31 GMT | How Egypt turned its energy independence into a strategic hostage | Mümin Ahmedoğlu | [Read More](https://medium.com/p/deb6e30e7dda) |
-| Sat, 20 Dec 2025 13:14:04 GMT | TryHackMe Writeup: Brute It | Berkay AĞGÜL | [Read More](https://medium.com/p/9bd54746f920) |
-| Sat, 20 Dec 2025 13:07:18 GMT | Stealthy Network Mapping: A Guide to DNS Footprinting | DefenAsh | [Read More](https://medium.com/p/a0173b9ba0ab) |
