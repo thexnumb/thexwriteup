@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 17:23:27 GMT | When Rate Limiting Fails Silently: Turning OTP Abuse into Account Takeover | Iski | [Read More](https://medium.com/p/a46c30b8c80c) |
+| Sat, 20 Dec 2025 17:23:27 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-3 | Cruz | [Read More](https://medium.com/p/99dfa3aba475) |
+| Sat, 20 Dec 2025 17:22:57 GMT | THM “Eavesdropper” Room — Complete Walkthrough | Ajmir khan | [Read More](https://medium.com/p/baf9d1e92ba3) |
 | Sat, 20 Dec 2025 17:17:48 GMT | I Thought Encryption Was Enough. It Wasn’t. | Shivendra Mishra | [Read More](https://medium.com/p/99aa3ce4f5bc) |
 | Sat, 20 Dec 2025 17:13:33 GMT | I Automated My Cybersecurity News Feed. Here’s What Actually Happened | CyberCraft | [Read More](https://medium.com/p/fe486c16ec18) |
 | Sat, 20 Dec 2025 17:10:40 GMT | PATH Hijacking Privilege Escalation — THM “Eavesdropper” Room | Ajmir khan | [Read More](https://medium.com/p/be721cdc8c4d) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 10:04:36 GMT | Protecting Your Online Account | Sharif Hassan | [Read More](https://medium.com/p/51b66fd47ada) |
 | Sat, 20 Dec 2025 09:58:55 GMT | PortSwigger Lab Solution: SQL injection vulnerability in WHERE clause allowing retrieval of hidden… | PriOFF | [Read More](https://medium.com/p/b1d0f7ea82e7) |
 | Sat, 20 Dec 2025 09:53:14 GMT | TryHackME VM: Chocolate Factory | Justin Jude Cabodil | [Read More](https://medium.com/p/1bcbdc12e952) |
-| Sat, 20 Dec 2025 09:50:49 GMT | Is Your Website an Open Door? Find Hidden Vulnerabilities in 10 Minutes (Special Offers Inside!) | Yurie Vulnerabilitie Scanner | [Read More](https://medium.com/p/ab339ed04805) |
-| Sat, 20 Dec 2025 09:48:09 GMT | Common Cybersecurity Threats and Attacks: How Systems Really Get Compromised | Lakshay Nimwal | [Read More](https://medium.com/p/9092cd71dc48) |
-| Sat, 20 Dec 2025 09:47:13 GMT | Hackers Don’t Need Passwords. They Just Need You. | Redfox Security | [Read More](https://medium.com/p/b539943c7254) |
