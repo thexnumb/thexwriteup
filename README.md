@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 14:09:18 GMT | Deepfake with Hidden Disclaimer: Still Illegal? Live case. | Berend Watchus | [Read More](https://medium.com/p/616a1f6f5409) |
+| Sat, 20 Dec 2025 14:08:18 GMT | # ️‍♂️ The Day I Uncovered a Hidden Account Enumeration Bug | Abdulbar | [Read More](https://medium.com/p/0304615b4fe2) |
+| Sat, 20 Dec 2025 14:06:10 GMT | I Hacked Microsoft: Remote Code Execution (RCE) via Dependency Confusion | Aman Kumar (ak) | [Read More](https://medium.com/p/0c15ebee52df) |
+| Sat, 20 Dec 2025 14:02:19 GMT | Security best practice using OWASP based on my experience | IRFAN SUSILO | [Read More](https://medium.com/p/057d77c200fe) |
+| Sat, 20 Dec 2025 13:56:00 GMT | From Zero to Bronze: How I Earned My First Badge Hunting for Leaked Secrets | Jugnu Panchal | [Read More](https://medium.com/p/d477e874592e) |
+| Sat, 20 Dec 2025 13:53:13 GMT | ️ URL Shorteners vs URL Hiders: What They Are and Why They Matter in Cybersecurity | Natarajan C K | [Read More](https://medium.com/p/7f2c075d41f2) |
+| Sat, 20 Dec 2025 13:48:48 GMT | Volume Shadow Copy Service (VSS) Explained for Cybersecurity Backup Labs | Ramandeep Bagri | [Read More](https://medium.com/p/3b5b875c5139) |
+| Sat, 20 Dec 2025 13:46:36 GMT | Sovereign AI: The Global Scramble for Digital Independence (And Why It Matters More Than You… | Intellibytes | [Read More](https://medium.com/p/289895a4e79b) |
 | Sat, 20 Dec 2025 13:29:28 GMT | 2026 Is Closer Than You Think: The Shocking Changes That Will Redefine Your Life | Sturk | [Read More](https://medium.com/p/41cfada1958a) |
 | Sat, 20 Dec 2025 13:28:44 GMT | The AI Agent Graveyard: Why 46% of Projects Die Before Production | ThinkBeyond | [Read More](https://medium.com/p/6c779b533941) |
 | Sat, 20 Dec 2025 13:25:10 GMT | NTFS Explained: Architecture, Security Features, and Forensic Value | Saqlain Naqvi | [Read More](https://medium.com/p/1bcb6da9bc6e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 05:43:19 GMT | Encoding vs Encryption vs Hashing (with traps & myths) | Suraj Bhandari | [Read More](https://medium.com/p/1b9f1d9de537) |
 | Sat, 20 Dec 2025 05:41:17 GMT | Your New Senior Engineer is Here: Meet GPT-5.2 Codex | Siddhesh Surve | [Read More](https://medium.com/p/729e85e5b6d1) |
 | Sat, 20 Dec 2025 05:38:19 GMT | Elevate Your Enterprise Security Skills with Aramco Program | Kadhijahafiya | [Read More](https://medium.com/p/968f4fa0dec9) |
-| Sat, 20 Dec 2025 05:36:23 GMT | More Than Robocop: 5 Shocking Ways Drones and AI Will Change Our World, According to Police | Urban (@officialurbanus) | [Read More](https://medium.com/p/c8f977b35b4f) |
-| Sat, 20 Dec 2025 05:34:32 GMT | One Weak Password Can End a Company | StackSnacker | [Read More](https://medium.com/p/6dfe80983b0c) |
-| Sat, 20 Dec 2025 05:24:29 GMT | Unmasking the Weak Points: Probing LLM Frontiers with garak | Daisuke AKAGAWA | [Read More](https://medium.com/p/50f4db714a62) |
-| Sat, 20 Dec 2025 05:20:13 GMT | You Can Fake an Identity. You Can’t Fake Physics. | Sharat Nautiyal | [Read More](https://medium.com/p/1e13e2ecac51) |
-| Sat, 20 Dec 2025 05:16:56 GMT | Data Privacy and Protection in Today’s Digital World: Why It Matters More Than Ever | Devarshi Acharya | [Read More](https://medium.com/p/5e66fef5f7de) |
-| Sat, 20 Dec 2025 05:10:04 GMT | [Ethernaut] 7. Force | Jiseop Shin | [Read More](https://medium.com/p/33c9a4989ada) |
-| Sat, 20 Dec 2025 05:07:39 GMT | JWT Is NOT Authentication | rahul sahay | [Read More](https://medium.com/p/3708592d8363) |
-| Sat, 20 Dec 2025 05:02:24 GMT | Securing a Kenyan SACCO from Zero [Part 4 of 6] | Munaniadeno | [Read More](https://medium.com/p/31c762faaa4c) |
