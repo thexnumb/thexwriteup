@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 09:09:18 GMT | Security by Output, PHP Response Tricks That Reduce Exposure | Asian Digital Hub | [Read More](https://medium.com/p/3e8a0d8007b0) |
+| Sat, 20 Dec 2025 09:08:56 GMT | Linux Terminali: Siber Güvenliğin Mutfak Tezgahı | Cyber Web | [Read More](https://medium.com/p/cb55314c54c1) |
+| Sat, 20 Dec 2025 08:59:35 GMT | Amazon CloudWatch: A Comprehensive Monitoring and Observability Solution | Somesh | [Read More](https://medium.com/p/5f3dc0078302) |
+| Sat, 20 Dec 2025 08:58:07 GMT | How a single backslash got me £1000 bounty from a bug bounty program | Sairaj Thorat | [Read More](https://medium.com/p/39239e8fc017) |
+| Sat, 20 Dec 2025 08:49:09 GMT | Data Walkthrough | Spookz | [Read More](https://medium.com/p/e6025dbc683b) |
+| Sat, 20 Dec 2025 08:48:49 GMT | How Regular Audits Improve Corporate Cyber Resilience | Rahman Iqbal | [Read More](https://medium.com/p/400337d7a784) |
 | Sat, 20 Dec 2025 08:41:26 GMT | CVE-2025–8961 - LibTIFF tiffcrop tiffcrop.c main memory corruption | Aakash Rahsi | [Read More](https://medium.com/p/7dca9955fecb) |
 | Sat, 20 Dec 2025 08:32:19 GMT | Cyber Insurance Prep: Prove You Monitor Credential Leaks and Act on Alerts | Alexandre Vandamme | [Read More](https://medium.com/p/60b074d2ec6f) |
 | Sat, 20 Dec 2025 08:26:13 GMT | A tile showroom in San Francisco just lost $200,000 | Heesham Naji | [Read More](https://medium.com/p/28d1f2649ee9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 21:35:44 GMT | Storm | Chris Perkins | [Read More](https://medium.com/p/e6f374c21fc7) |
 | Fri, 19 Dec 2025 21:29:57 GMT | Beyond the Hype: Building a Reliable, Full-Cycle AI SOC Agent | Aniketagarwal | [Read More](https://medium.com/p/12aaf9dfb004) |
 | Fri, 19 Dec 2025 21:19:49 GMT | Becoming Sherlock Holmes | Juan Hernandez | [Read More](https://medium.com/p/c8bd3086d6b6) |
-| Fri, 19 Dec 2025 21:15:56 GMT | Unauthorized access to any presentation at Dropbox | Raccoon | [Read More](https://medium.com/p/604af454547d) |
-| Fri, 19 Dec 2025 21:10:41 GMT | How to Hide Your API Keys in React (The Right Way) | Azad Ansari | [Read More](https://medium.com/p/c87b578e0e27) |
-| Fri, 19 Dec 2025 20:56:07 GMT | IPv6 Security Configurations | Esra Kayhan | [Read More](https://medium.com/p/0d0714f51fef) |
-| Fri, 19 Dec 2025 20:52:01 GMT | Phreeli: Privacy-by-Design Mobile Telecommunications | CtrlAltDisobey | [Read More](https://medium.com/p/35a970152fd3) |
-| Fri, 19 Dec 2025 20:44:50 GMT | How Kerberos Authentication Works  -- and How Attackers Quietly Abuse It | Amine Ali | [Read More](https://medium.com/p/e631d222cd5a) |
-| Fri, 19 Dec 2025 20:37:58 GMT | AI — You’ve Come a Long Way, Baby | Matt Ray | [Read More](https://medium.com/p/0a737b7e74e7) |
