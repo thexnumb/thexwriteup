@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 08:41:26 GMT | CVE-2025–8961 - LibTIFF tiffcrop tiffcrop.c main memory corruption | Aakash Rahsi | [Read More](https://medium.com/p/7dca9955fecb) |
+| Sat, 20 Dec 2025 08:32:19 GMT | Cyber Insurance Prep: Prove You Monitor Credential Leaks and Act on Alerts | Alexandre Vandamme | [Read More](https://medium.com/p/60b074d2ec6f) |
 | Sat, 20 Dec 2025 08:26:13 GMT | A tile showroom in San Francisco just lost $200,000 | Heesham Naji | [Read More](https://medium.com/p/28d1f2649ee9) |
+| Sat, 20 Dec 2025 08:25:15 GMT | REST API Endpoint Extractor | Abhirup Konwar | [Read More](https://medium.com/p/d36dfe63506b) |
 | Sat, 20 Dec 2025 08:14:30 GMT | CompTIA 2026: The Roadmap That Changes Everything | Sec Guy | [Read More](https://medium.com/p/8be19e8c3f1a) |
 | Sat, 20 Dec 2025 08:12:33 GMT | Post-Quantum Cryptography: Securing Today’s Data Against Tomorrow’s Computers | Aditya Sharma | [Read More](https://medium.com/p/e55df873b7e0) |
 | Sat, 20 Dec 2025 07:59:19 GMT | AI & Computer Science Innovation in Schools — A Practical Track | Ibrahim khan | [Read More](https://medium.com/p/01171ffee3f4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 20:52:01 GMT | Phreeli: Privacy-by-Design Mobile Telecommunications | CtrlAltDisobey | [Read More](https://medium.com/p/35a970152fd3) |
 | Fri, 19 Dec 2025 20:44:50 GMT | How Kerberos Authentication Works  -- and How Attackers Quietly Abuse It | Amine Ali | [Read More](https://medium.com/p/e631d222cd5a) |
 | Fri, 19 Dec 2025 20:37:58 GMT | AI — You’ve Come a Long Way, Baby | Matt Ray | [Read More](https://medium.com/p/0a737b7e74e7) |
-| Fri, 19 Dec 2025 20:26:00 GMT | Day #64 of writing a poem per day | Sunny Brown | [Read More](https://medium.com/p/d24c3673fa26) |
-| Fri, 19 Dec 2025 20:23:57 GMT | How I Found an Unauthenticated XXE That Allowed Arbitrary File Read in NASA | Thomas A. | [Read More](https://medium.com/p/bfffe24dc24e) |
-| Fri, 19 Dec 2025 20:19:14 GMT | CYBER-ENABLED FINANCIAL CRIMES AND THEIR EFFECTS ON DIGITAL BANKING ADOPTION | Udyeffiong | [Read More](https://medium.com/p/5d0521f7d6f7) |
