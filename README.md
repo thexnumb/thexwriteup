@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 07:19:40 GMT | From Prompt to Payout: How a ChatGPT Prompt Led Me to a Bug Bounty | errorsec_ | [Read More](https://medium.com/p/7b2893d846d4) |
+| Sat, 20 Dec 2025 07:07:47 GMT | GZR Observer — Global Daily — India Perspective Dec 19, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/983ceddd2cc3) |
+| Sat, 20 Dec 2025 06:53:02 GMT | GraphQL Hacking Toolkit 2025: 20 Commands & Payloads Every Pentester Should Master | Very Lazy Tech | [Read More](https://medium.com/p/336db9499b30) |
+| Sat, 20 Dec 2025 06:41:23 GMT | Top 5 Online Scams Students Must Know in 2025 | Ravi Prasanth | [Read More](https://medium.com/p/28ff713cb02b) |
+| Sat, 20 Dec 2025 06:38:50 GMT | A Foundational Constraint–Entropy Principle for Global Arithmetic Structures | Atul Mamgain | [Read More](https://medium.com/p/60ac09865664) |
+| Sat, 20 Dec 2025 06:32:20 GMT | The New Insider Threat: When Your AI Assistant Becomes the Enemy | Finance and Technology Wars | [Read More](https://medium.com/p/e228f58919eb) |
+| Sat, 20 Dec 2025 06:31:13 GMT | Road to Root: A Complete VulnHub Walkthrough of Hackable: 3 | Harlin Taggar | [Read More](https://medium.com/p/636595be292e) |
 | Sat, 20 Dec 2025 06:22:08 GMT | Your Website is Infected: 5 Minutes to Clean it and Save Your Business | Rabiul Bashar | [Read More](https://medium.com/p/7346363179d3) |
 | Sat, 20 Dec 2025 06:15:26 GMT | What Are SIEM Tools Used For in Real Organizations | Digital Duffer | [Read More](https://medium.com/p/49399606b3ed) |
 | Sat, 20 Dec 2025 06:14:17 GMT | What Is SIEM in Cyber Security: Complete Guide 2026 | Digital Duffer | [Read More](https://medium.com/p/f3a94b2c333a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 19:28:25 GMT | Exploring Penetration Testing: SMB Enumeration and Social Engineering with Website Cloning | Seun odebode | [Read More](https://medium.com/p/315fb5ea9b4d) |
 | Fri, 19 Dec 2025 19:24:14 GMT | How to Migrate PYRO Tokens. Upgrade Before It’s Too Late! | Jamesnoah | [Read More](https://medium.com/p/2c8fd42f1a54) |
 | Fri, 19 Dec 2025 19:10:25 GMT | SSRF PortSwigger Academy (Lab 1 solution) | Ammar Ahmed | [Read More](https://medium.com/p/ece35c11c7d9) |
-| Fri, 19 Dec 2025 19:06:54 GMT | I am studying networking and preparing for certifications like CompTIA Network+. | Hardeep Kaur | [Read More](https://medium.com/p/a9eb3df82e06) |
-| Fri, 19 Dec 2025 19:06:33 GMT | Centralizing JWT Authentication in .NET Microservices | .Net Labs | [Read More](https://medium.com/p/f0833ce586c3) |
-| Fri, 19 Dec 2025 19:06:30 GMT | Migrate Your PYRO Tokens Today. Don’t Miss the Opportunity! | Liamnoah | [Read More](https://medium.com/p/ff5ce5f640f8) |
-| Fri, 19 Dec 2025 19:05:40 GMT | Trust Is No Longer Automatic: How to Verify AI Images and Videos | Kael Virex | [Read More](https://medium.com/p/83e28d5b4a98) |
-| Fri, 19 Dec 2025 19:01:21 GMT | Your AI Coding Assistant Is 10x Faster at Shipping Vulnerabilities | AhmedAbdelmenem | [Read More](https://medium.com/p/739472065f27) |
-| Fri, 19 Dec 2025 18:55:07 GMT | Weekly Cyber Threat Bulletin: 18 December 2025 | Marcelle Lee | [Read More](https://medium.com/p/46dabd186b27) |
-| Fri, 19 Dec 2025 18:51:50 GMT | Recovering Data from a Failing HDD Inside a Live Proxmox Homelab | Vetri | [Read More](https://medium.com/p/8b8af270ac16) |
