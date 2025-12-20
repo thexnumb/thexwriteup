@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 20:32:52 GMT | Road TryHackMe Room | Dharmendrakumar | [Read More](https://medium.com/p/cd3a6bf9c466) |
+| Sat, 20 Dec 2025 20:23:53 GMT | CIA triad: Should confidentiality, integrity, and availability be treated equally? | Chamika Karunarathna | [Read More](https://medium.com/p/d6bef1e362e4) |
+| Sat, 20 Dec 2025 20:18:18 GMT | What Really Happens When You Put a Fresh EC2 + Docker + Nginx Site on the Internet | Kingdesign | [Read More](https://medium.com/p/411a5a1d2fb9) |
 | Sat, 20 Dec 2025 20:06:37 GMT | We Are the Version 1s: The Visionary Strawhat Hackers - Chapter 1 | Lumirysm | [Read More](https://medium.com/p/1c2b2236d95f) |
 | Sat, 20 Dec 2025 19:45:04 GMT | Why Skill Alone Does not Win Bug Bounties | Hania Khan | [Read More](https://medium.com/p/380c1c317d7c) |
 | Sat, 20 Dec 2025 19:44:26 GMT | Race Conditions- Toy to The World AOC 2025 Day 20 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/dbda6f883eed) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 12:27:11 GMT | BlackICE AC: Building a Fast, Multipurpose Project Site as a Developer | Axrader | [Read More](https://medium.com/p/3e4caa2b9d35) |
 | Sat, 20 Dec 2025 12:25:27 GMT | Production-Grade Hardening Ubuntu with High-Security Measures | Karthick Dk | [Read More](https://medium.com/p/26ab8570c0dd) |
 | Sat, 20 Dec 2025 12:22:28 GMT | What a Month of SSH Logs Reveals About the State of the Internet in 2025 | Faruk Ahmed | [Read More](https://medium.com/p/d9c931173d4d) |
-| Sat, 20 Dec 2025 12:16:25 GMT | Editor — HackTheBox Full Walkthrough | Beri Contraster | [Read More](https://medium.com/p/aa39472b601b) |
-| Sat, 20 Dec 2025 12:14:50 GMT | ️‍♂️ Man-in-the-Middle Detection Methods: How to Catch Covert Eavesdropping | Esra Kayhan | [Read More](https://medium.com/p/4b09802c31d2) |
-| Sat, 20 Dec 2025 12:11:07 GMT | How to Master AWS Security in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/aa92a4a995b4) |
