@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 04:28:45 GMT | I’m Zer0Figure — Exploring Security One Vulnerability at a Time | Zer0Figure | [Read More](https://medium.com/p/b960a282c50a) |
+| Sat, 20 Dec 2025 04:09:09 GMT | How I Built a Raspberry Pi Fan Speed Controller with NestJS | Hoang Dinh | [Read More](https://medium.com/p/d91832e06e26) |
+| Sat, 20 Dec 2025 04:02:57 GMT | AI Scams Are Increasing — What You Need to Know to Stay Safe | Hameedduke | [Read More](https://medium.com/p/569dfe7665d0) |
+| Sat, 20 Dec 2025 03:58:34 GMT | Tải Dan The Man Mod APK V1.12.72 (Vô Hạn Tiền, Bất Tử, Menu) | GOCMOD | [Read More](https://medium.com/p/72c04080c076) |
 | Sat, 20 Dec 2025 03:39:58 GMT | Improper SVG Handling in AI Generated Output | mohamed khattab | [Read More](https://medium.com/p/b434b5d0da8c) |
 | Sat, 20 Dec 2025 03:37:57 GMT | Tải Honor Of Kings Apk v11.1.1.1 Cho Android | genzvnmod | [Read More](https://medium.com/p/1a9382b9b311) |
 | Sat, 20 Dec 2025 03:32:19 GMT | Shanya: The Packer That Helps Ransomware Evade Defenses and Kill EDR | Deven Chhajed | [Read More](https://medium.com/p/2fc1beaaa279) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 17:17:37 GMT | Securing Medical Devices in Healthcare | Shane Haynes | [Read More](https://medium.com/p/eecbc01c41db) |
 | Fri, 19 Dec 2025 17:15:44 GMT | Managing IT Assets Across Borders: Navigating the Digital Wild West | Len Noe | [Read More](https://medium.com/p/f4633ede68ff) |
 | Fri, 19 Dec 2025 17:11:57 GMT | Insufficient Transport Layer Protection Vulnerabilities: You Down With ITLP? (Yeah, you know me!) | Jen Cracchiola | [Read More](https://medium.com/p/e5733fcb9283) |
-| Fri, 19 Dec 2025 17:11:05 GMT | Certifications — The Hard Truth | Amir Akhwand | [Read More](https://medium.com/p/9a5cd377bfd4) |
-| Fri, 19 Dec 2025 17:06:13 GMT | Cybersecurity News Review — Week 51 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/89c41acd0dc7) |
-| Fri, 19 Dec 2025 17:04:34 GMT | The Corp.com Collision | satyaranjan bal | [Read More](https://medium.com/p/0851377741b2) |
-| Fri, 19 Dec 2025 17:03:17 GMT | Building Magic (Easy) — HackSmarter Active Directory Walkthrough | rajasekharyarava | [Read More](https://medium.com/p/5cbc3a8018e5) |
