@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 18:25:34 GMT | Creative — THM Writeup | Kavin Jindal | [Read More](https://medium.com/p/ca7f10d9f325) |
+| Sat, 20 Dec 2025 18:22:36 GMT | PortSwigger Web Security Academy_Complete Walkthrough Series | 0xM3d0din | [Read More](https://medium.com/p/8af0649ca66c) |
+| Sat, 20 Dec 2025 18:21:40 GMT | N0aziXss SubSpectre: Advanced Subdomain Discovery with Intelligent HTTP Analysis | N0aziXss | [Read More](https://medium.com/p/a52d1e7cd7aa) |
+| Sat, 20 Dec 2025 18:09:56 GMT | Free cyber security course scam | Mmohammadsalman | [Read More](https://medium.com/p/953a68ac330c) |
+| Sat, 20 Dec 2025 18:02:41 GMT | From Code Analysis to CVE: Uncovering SQL Injection in ChurchCRM (CVE-2025–67877) | Guilherme Mury | [Read More](https://medium.com/p/783c03863de9) |
+| Sat, 20 Dec 2025 18:02:23 GMT | WhatsApp « Ghost Pairing », l’arnaque invisible qui transforme votre compte en piège | nullbyte | [Read More](https://medium.com/p/c3b2a954d899) |
+| Sat, 20 Dec 2025 17:56:07 GMT | Google Security Operation revision | Mmohammadsalman | [Read More](https://medium.com/p/af137f571a77) |
+| Sat, 20 Dec 2025 17:52:24 GMT | The Future of AI Security: Challenges and Opportunities | Nayan Goel | [Read More](https://medium.com/p/eddcbb2c8e7b) |
+| Sat, 20 Dec 2025 17:42:57 GMT | The 91% Miracle and the 10-Year Trough: Why Waymo is a Public Health Cure with a Privacy Problem | Engel - Marcus | [Read More](https://medium.com/p/c8f8179adcec) |
 | Sat, 20 Dec 2025 17:23:27 GMT | When Rate Limiting Fails Silently: Turning OTP Abuse into Account Takeover | Iski | [Read More](https://medium.com/p/a46c30b8c80c) |
 | Sat, 20 Dec 2025 17:23:27 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-3 | Cruz | [Read More](https://medium.com/p/99dfa3aba475) |
 | Sat, 20 Dec 2025 17:22:57 GMT | THM “Eavesdropper” Room — Complete Walkthrough | Ajmir khan | [Read More](https://medium.com/p/baf9d1e92ba3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 10:35:41 GMT | How I Built My Security Tool “YURIE” — Making Website Security Fast, Safe, and Accessible | Yurie Vulnerabilitie Scanner | [Read More](https://medium.com/p/a62ecb7cdb44) |
 | Sat, 20 Dec 2025 10:35:03 GMT | Can You Become a Hacker Just by Using Google? | Maneesha Dewmina | [Read More](https://medium.com/p/3c1f49eb717e) |
 | Sat, 20 Dec 2025 10:32:38 GMT | Linux Navigating Directories (Linux Dizinlerde Gezinme) | g.o. | [Read More](https://medium.com/p/70ce71ee3807) |
-| Sat, 20 Dec 2025 10:31:53 GMT | Trilochana: The “All-Seeing” Eye for Your Codebase’s Secrets | Mitesh Singh Jat | [Read More](https://medium.com/p/f97b2559d75a) |
-| Sat, 20 Dec 2025 10:25:44 GMT | Ethical Hacking Course with AI in Dubai | Crawsec | [Read More](https://medium.com/p/2ca392797a75) |
-| Sat, 20 Dec 2025 10:24:30 GMT | Lock Fingerprint + Request Shape to Stop Login/Verify Loops | CoinZephyr | [Read More](https://medium.com/p/940e951f53a5) |
-| Sat, 20 Dec 2025 10:17:31 GMT | Day 20 — Incident Response (The Ambush) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/92c8596b7ee4) |
-| Sat, 20 Dec 2025 10:12:23 GMT | X-Worm Malware Analysis | Aufarifqi | [Read More](https://medium.com/p/dcb6e47b643b) |
-| Sat, 20 Dec 2025 10:05:12 GMT | What Is a Header in Networking? | Soundaryaps | [Read More](https://medium.com/p/522699b3351c) |
-| Sat, 20 Dec 2025 10:04:36 GMT | Protecting Your Online Account | Sharif Hassan | [Read More](https://medium.com/p/51b66fd47ada) |
-| Sat, 20 Dec 2025 09:58:55 GMT | PortSwigger Lab Solution: SQL injection vulnerability in WHERE clause allowing retrieval of hidden… | PriOFF | [Read More](https://medium.com/p/b1d0f7ea82e7) |
-| Sat, 20 Dec 2025 09:53:14 GMT | TryHackME VM: Chocolate Factory | Justin Jude Cabodil | [Read More](https://medium.com/p/1bcbdc12e952) |
