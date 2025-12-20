@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 07:30:17 GMT | How 2FA Authenticator Apps Work Offline: The Magic Behind TOTP | Odunayo Dada | [Read More](https://medium.com/p/b00e5adaf68f) |
+| Sat, 20 Dec 2025 07:23:24 GMT | CVE-2025–9086 - Out of bounds read for cookie path | Aakash Rahsi | [Read More](https://medium.com/p/65279fa4321b) |
 | Sat, 20 Dec 2025 07:19:40 GMT | From Prompt to Payout: How a ChatGPT Prompt Led Me to a Bug Bounty | errorsec_ | [Read More](https://medium.com/p/7b2893d846d4) |
+| Sat, 20 Dec 2025 07:13:17 GMT | Cyber security course in Hyderabad | APEC EDU | [Read More](https://medium.com/p/ab6fa97d91e7) |
 | Sat, 20 Dec 2025 07:07:47 GMT | GZR Observer — Global Daily — India Perspective Dec 19, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/983ceddd2cc3) |
 | Sat, 20 Dec 2025 06:53:02 GMT | GraphQL Hacking Toolkit 2025: 20 Commands & Payloads Every Pentester Should Master | Very Lazy Tech | [Read More](https://medium.com/p/336db9499b30) |
 | Sat, 20 Dec 2025 06:41:23 GMT | Top 5 Online Scams Students Must Know in 2025 | Ravi Prasanth | [Read More](https://medium.com/p/28ff713cb02b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Dec 2025 19:42:44 GMT | Prompt Injection AOC 2025 Day 8 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/a3aff3053d12) |
 | Fri, 19 Dec 2025 19:41:16 GMT | ICS/Modbus- Claus for Concern AOC 2025 Day 19 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/c9543bae9ed5) |
 | Fri, 19 Dec 2025 19:35:06 GMT | Cloudflare’s Wall of Entropy: How Lava Lamps Protect the Internet with Randomness | Akshay Wakhare | [Read More](https://medium.com/p/9d43615a8b5f) |
-| Fri, 19 Dec 2025 19:28:25 GMT | Exploring Penetration Testing: SMB Enumeration and Social Engineering with Website Cloning | Seun odebode | [Read More](https://medium.com/p/315fb5ea9b4d) |
-| Fri, 19 Dec 2025 19:24:14 GMT | How to Migrate PYRO Tokens. Upgrade Before It’s Too Late! | Jamesnoah | [Read More](https://medium.com/p/2c8fd42f1a54) |
-| Fri, 19 Dec 2025 19:10:25 GMT | SSRF PortSwigger Academy (Lab 1 solution) | Ammar Ahmed | [Read More](https://medium.com/p/ece35c11c7d9) |
