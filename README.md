@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 20:06:37 GMT | We Are the Version 1s: The Visionary Strawhat Hackers - Chapter 1 | Lumirysm | [Read More](https://medium.com/p/1c2b2236d95f) |
+| Sat, 20 Dec 2025 19:45:04 GMT | Why Skill Alone Does not Win Bug Bounties | Hania Khan | [Read More](https://medium.com/p/380c1c317d7c) |
+| Sat, 20 Dec 2025 19:44:26 GMT | Race Conditions- Toy to The World AOC 2025 Day 20 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/dbda6f883eed) |
+| Sat, 20 Dec 2025 19:35:48 GMT | “Q-Day” Is Coming: Why Quantum Computers Will Break Every Encryption Standard You’re Using (And… | DevBoost Lab | [Read More](https://medium.com/p/ded60c61882b) |
+| Sat, 20 Dec 2025 19:34:04 GMT | [AD攻防] 淺談Windows驗證機制 — NTLM | 陳禹璿 | [Read More](https://medium.com/p/e1e3de9015e5) |
+| Sat, 20 Dec 2025 19:32:45 GMT | Japan Didn’t Rearm With Tanks — It Rewired the Indo-Pacific With Contracts | Vivek Anand | [Read More](https://medium.com/p/0cc76c42dba9) |
+| Sat, 20 Dec 2025 19:32:13 GMT | TryHackMe Writeup: Chill Hack | Berkay AĞGÜL | [Read More](https://medium.com/p/9798895cc47e) |
 | Sat, 20 Dec 2025 19:26:14 GMT | PortSwigger Web Security Academy — Lab Write-Up 1 | 0xM3d0din | [Read More](https://medium.com/p/3baf9055a3ce) |
 | Sat, 20 Dec 2025 19:17:47 GMT | Advent of Cyber 2025 Day 20 - TryHackMe - Race Conditions - Toy to The World - WriteUp | Axoloth | [Read More](https://medium.com/p/f2b034cb6c48) |
 | Sat, 20 Dec 2025 19:15:50 GMT | I Built a Single Frida Script that Automates OWASP Mobile Security Testing | Raj Prasad Kuiri | [Read More](https://medium.com/p/7b26bb5f336a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 12:16:25 GMT | Editor — HackTheBox Full Walkthrough | Beri Contraster | [Read More](https://medium.com/p/aa39472b601b) |
 | Sat, 20 Dec 2025 12:14:50 GMT | ️‍♂️ Man-in-the-Middle Detection Methods: How to Catch Covert Eavesdropping | Esra Kayhan | [Read More](https://medium.com/p/4b09802c31d2) |
 | Sat, 20 Dec 2025 12:11:07 GMT | How to Master AWS Security in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/aa92a4a995b4) |
-| Sat, 20 Dec 2025 12:03:16 GMT | Transforming an Old Laptop into a Kali Linux Lab with Proxmox: A Beginner’s Guide to Type 1… | SAFAL GAUTAM | [Read More](https://medium.com/p/6d75d1986c80) |
-| Sat, 20 Dec 2025 11:54:00 GMT | This Hacker Tried… and Failed | Danny Wsol | [Read More](https://medium.com/p/cf5b36ec42b2) |
-| Sat, 20 Dec 2025 11:53:59 GMT | The Ghostworker’s Fight Against Surveillance Capitalism: A White Paper on Google’s Corporate… | My Darkest Hearts | [Read More](https://medium.com/p/1c8d21e26528) |
-| Sat, 20 Dec 2025 11:51:29 GMT | Smart Security Solutions for Jewellery Stores: Safes, Vaults & Strong Room Doors | Steelage | [Read More](https://medium.com/p/4cd55513dfa3) |
-| Sat, 20 Dec 2025 11:47:15 GMT | Why Slow Scans Are Smarter Than Aggressive Ones | Fateyaly | [Read More](https://medium.com/p/f24f81cb4914) |
-| Sat, 20 Dec 2025 11:41:52 GMT | $1,000 Bounty: How a Logout Parameter Turned Into a Phishing Redirect Machine | Monika sharma | [Read More](https://medium.com/p/4b42fffa9900) |
-| Sat, 20 Dec 2025 11:39:55 GMT | Forensics — Registry Furensics - AoC 2025 Day - 16 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a28933ca2d45) |
