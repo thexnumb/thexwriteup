@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Dec 2025 15:27:38 GMT | IT Support Services: Reliable Managed IT Solutions for Modern Businesses | Akash | [Read More](https://medium.com/p/95e923cfc5d7) |
+| Sat, 20 Dec 2025 15:24:43 GMT | Social Media Reveals Your Partner’s True Character | ADITI | [Read More](https://medium.com/p/09cb5c29cdb3) |
+| Sat, 20 Dec 2025 15:24:30 GMT | Beyond the Web - Thick Clients & Advanced Exploitation | Janhvee Laad | [Read More](https://medium.com/p/b19ab2540570) |
+| Sat, 20 Dec 2025 15:17:45 GMT | Knife Threat in Yellowknife Highlights Growing Risks for Frontline Security | Scott Hill | [Read More](https://medium.com/p/3dad2357504d) |
 | Sat, 20 Dec 2025 15:05:59 GMT | Uncovering Threats Through WAF Logs: A Threat Hunter’s Lens | Surya Teja | [Read More](https://medium.com/p/0838101d3987) |
 | Sat, 20 Dec 2025 14:51:53 GMT | The Real Cost of AI: What We Don’t See as Developers | Thusara | [Read More](https://medium.com/p/b6e29d416bc4) |
 | Sat, 20 Dec 2025 14:41:41 GMT | How I Hunt for Swagger UI on Real Targets (A Practical Guide for Bug Bounty Hunters) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d44b284609aa) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 06:53:02 GMT | GraphQL Hacking Toolkit 2025: 20 Commands & Payloads Every Pentester Should Master | Very Lazy Tech | [Read More](https://medium.com/p/336db9499b30) |
 | Sat, 20 Dec 2025 06:41:23 GMT | Top 5 Online Scams Students Must Know in 2025 | Ravi Prasanth | [Read More](https://medium.com/p/28ff713cb02b) |
 | Sat, 20 Dec 2025 06:38:50 GMT | A Foundational Constraint–Entropy Principle for Global Arithmetic Structures | Atul Mamgain | [Read More](https://medium.com/p/60ac09865664) |
-| Sat, 20 Dec 2025 06:32:20 GMT | The New Insider Threat: When Your AI Assistant Becomes the Enemy | Finance and Technology Wars | [Read More](https://medium.com/p/e228f58919eb) |
-| Sat, 20 Dec 2025 06:31:13 GMT | Road to Root: A Complete VulnHub Walkthrough of Hackable: 3 | Harlin Taggar | [Read More](https://medium.com/p/636595be292e) |
-| Sat, 20 Dec 2025 06:22:08 GMT | Your Website is Infected: 5 Minutes to Clean it and Save Your Business | Rabiul Bashar | [Read More](https://medium.com/p/7346363179d3) |
-| Sat, 20 Dec 2025 06:15:26 GMT | What Are SIEM Tools Used For in Real Organizations | Digital Duffer | [Read More](https://medium.com/p/49399606b3ed) |
