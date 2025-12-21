@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 22:14:38 GMT | Technology rarely changes in isolation. | Rye Overly | [Read More](https://medium.com/p/40180fe2652f) |
 | Sun, 21 Dec 2025 22:08:23 GMT | [CyberDefenders Write-up] Tusk Infostealer Lab | OxMotaw3 | [Read More](https://medium.com/p/83d4e5252972) |
 | Sun, 21 Dec 2025 21:44:16 GMT | The Ultimate Safe Investment for Your Family | Devdeep Mukherji | [Read More](https://medium.com/p/f02328529515) |
 | Sun, 21 Dec 2025 21:43:25 GMT | Steganography 101: Hiding secret in plain sights using STEGHIDE | Madhu Sudhan | [Read More](https://medium.com/p/7c48def3b35f) |
@@ -112,4 +113,3 @@ Hardening Docker Images | Olha Stefanishyna | [Read More](https://medium.com/p/d
 | Sun, 21 Dec 2025 14:09:36 GMT | Supercharge Your Chrome with the SHA-256 Encrypt / Decrypt Tool — Fast, Secure, and Local | Rohan Ravindra Kadam | [Read More](https://medium.com/p/bf3314664c8c) |
 | Sun, 21 Dec 2025 14:03:05 GMT | ISO 27001: Guide for Startup CEOs | Usmanbusiness | [Read More](https://medium.com/p/38099508da04) |
 | Sun, 21 Dec 2025 14:02:52 GMT | AI Agents: AresGPT and Metal RatioGPT for AI Security and Design | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/bea3aa0bfb88) |
-| Sun, 21 Dec 2025 13:58:33 GMT | When Quantum Meets Privacy: Understanding Post-Quantum Fully Homomorphic Encryption | SkillCite | [Read More](https://medium.com/p/515ad2c96720) |
