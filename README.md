@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 08:46:37 GMT | Debunking Spyware Claims : The Simple Technical Truth About the Sanchar Saathi App | greyman | [Read More](https://medium.com/p/972cab03d1b7) |
 | Sun, 21 Dec 2025 08:32:18 GMT | The 60-Minute Incident Runbook After You Find Leaked Employee Logins | Alexandre Vandamme | [Read More](https://medium.com/p/f38952f68029) |
 | Sun, 21 Dec 2025 08:26:49 GMT | The Digital Detective’s Arsenal: Essential Tools for Forensics & Investigation | eRRoR | [Read More](https://medium.com/p/d593083b39be) |
 | Sun, 21 Dec 2025 08:25:50 GMT | I Exposed My MySQL Database to the Internet (It Was a Bad Idea ) | Tanish Raj | [Read More](https://medium.com/p/5d156d4418f6) |
@@ -112,4 +113,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sat, 20 Dec 2025 19:34:04 GMT | [AD攻防] 淺談Windows驗證機制 — NTLM | 陳禹璿 | [Read More](https://medium.com/p/e1e3de9015e5) |
 | Sat, 20 Dec 2025 19:32:45 GMT | Japan Didn’t Rearm With Tanks — It Rewired the Indo-Pacific With Contracts | Vivek Anand | [Read More](https://medium.com/p/0cc76c42dba9) |
 | Sat, 20 Dec 2025 19:32:13 GMT | TryHackMe Writeup: Chill Hack | Berkay AĞGÜL | [Read More](https://medium.com/p/9798895cc47e) |
-| Sat, 20 Dec 2025 19:26:14 GMT | PortSwigger Web Security Academy — Lab Write-Up 1 | 0xM3d0din | [Read More](https://medium.com/p/3baf9055a3ce) |
