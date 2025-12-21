@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 10:11:43 GMT | SQL INJECTION AT DVWA(HIGH):WHEN ‘HIGH SECURITY’ ISN’T REALLY SECURE | Sanjivani Dobhal | [Read More](https://medium.com/p/5e189c4af2d5) |
+| Sun, 21 Dec 2025 10:09:54 GMT | From “Valid Bug” to “No Bounty”: VRP, VRT, P4, and P5 on Bugcrowd | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/7897398ebdd2) |
+| Sun, 21 Dec 2025 10:06:31 GMT | Bcrypt Password Verification in Python | AjayPieris | [Read More](https://medium.com/p/382feec3a542) |
+| Sun, 21 Dec 2025 09:56:31 GMT | Your Life Is Running on Someone Else’s Internet! | Srijan Mishra | [Read More](https://medium.com/p/08c9c3a48c32) |
+| Sun, 21 Dec 2025 09:55:10 GMT | Hacking Series (Part 9): Social Engineering — How Hackers Hack Humans (And How to Stop Them) | Cyber Wolf | [Read More](https://medium.com/p/ca425902678f) |
+| Sun, 21 Dec 2025 09:54:48 GMT | Shannon: The Open-Source AI That Breaks Your Web App Before Attackers Do | Pralin Khaira | [Read More](https://medium.com/p/0d3e758990f0) |
 | Sun, 21 Dec 2025 09:31:48 GMT | Fighting Cyber-Enabled Fraud: Why a Systemic Defence Is the Only Way Forward | Balasubramaniam GD | [Read More](https://medium.com/p/6d71a79e62ad) |
 | Sun, 21 Dec 2025 09:25:07 GMT | SEO Poisoning and Web Compromise Risks in Indian Government Websites | Abin Joseph | [Read More](https://medium.com/p/7bf8a2eb7299) |
 | Sun, 21 Dec 2025 09:23:33 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-4 | Cruz | [Read More](https://medium.com/p/26e54fe8e25e) |
@@ -107,9 +113,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sat, 20 Dec 2025 20:34:53 GMT | Digital Information Technology: Meaning, Importance, Benefits, and Future Scope | Ali Joyia | [Read More](https://medium.com/p/55a8838162d9) |
 | Sat, 20 Dec 2025 20:33:42 GMT | Get Ready for PQC Digital Certificates | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/285daef9d7ec) |
 | Sat, 20 Dec 2025 20:32:52 GMT | Road TryHackMe Room | Dharmendrakumar | [Read More](https://medium.com/p/cd3a6bf9c466) |
-| Sat, 20 Dec 2025 20:23:53 GMT | CIA triad: Should confidentiality, integrity, and availability be treated equally? | Chamika Karunarathna | [Read More](https://medium.com/p/d6bef1e362e4) |
-| Sat, 20 Dec 2025 20:18:18 GMT | What Really Happens When You Put a Fresh EC2 + Docker + Nginx Site on the Internet | Kingdesign | [Read More](https://medium.com/p/411a5a1d2fb9) |
-| Sat, 20 Dec 2025 20:06:37 GMT | We Are the Version 1s: The Visionary Strawhat Hackers - Chapter 1 | Lumirysm | [Read More](https://medium.com/p/1c2b2236d95f) |
-| Sat, 20 Dec 2025 19:45:04 GMT | Why Skill Alone Does not Win Bug Bounties | Hania Khan | [Read More](https://medium.com/p/380c1c317d7c) |
-| Sat, 20 Dec 2025 19:44:26 GMT | Race Conditions- Toy to The World AOC 2025 Day 20 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/dbda6f883eed) |
-| Sat, 20 Dec 2025 19:35:48 GMT | “Q-Day” Is Coming: Why Quantum Computers Will Break Every Encryption Standard You’re Using (And… | DevBoost Lab | [Read More](https://medium.com/p/ded60c61882b) |
