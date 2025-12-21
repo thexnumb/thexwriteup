@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 16:10:03 GMT | 30 Days of Red Team: Day 13 — Operational Security & Anti-Forensics | Maxwell Cross | [Read More](https://medium.com/p/728df45a09e6) |
+| Sun, 21 Dec 2025 15:59:23 GMT | The Unsexy Truth About Network Security | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/83982f92855a) |
+| Sun, 21 Dec 2025 15:57:12 GMT | The Cryptography Concept Journey — Feistel Network | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1f86b4eadae2) |
+| Sun, 21 Dec 2025 15:37:35 GMT | AI Upskilling & Workforce Transformation in the UK | Salfistudio | [Read More](https://medium.com/p/c9abd3b906ad) |
+| Sun, 21 Dec 2025 15:35:34 GMT | Bir SOC Analisti Bir Alarmı Nasıl Okur? | Zeynep Demir | [Read More](https://medium.com/p/07c64f75d0b7) |
 | Sun, 21 Dec 2025 15:33:28 GMT | Telegram Bots Are Useful — But at What Cost to Privacy? | Syed Iqbal Ahammad | [Read More](https://medium.com/p/e42ecd6e4a48) |
 | Sun, 21 Dec 2025 15:26:32 GMT | The Spy in Your Living Room: Why Your Smart Fridge Could Be Your Biggest Cybersecurity Nightmare | Dimaspw | [Read More](https://medium.com/p/c6e762959408) |
 | Sun, 21 Dec 2025 15:21:07 GMT | Client-Side AES Encryption Is Not Secure | Aman Chauhan | [Read More](https://medium.com/p/b06ac2ff59ef) |
@@ -110,8 +115,3 @@ How Hidden Compartments Are Redefining Modern Security | Beetle Wood® | [Read M
 | Sun, 21 Dec 2025 08:25:50 GMT | I Exposed My MySQL Database to the Internet (It Was a Bad Idea ) | Tanish Raj | [Read More](https://medium.com/p/5d156d4418f6) |
 | Sun, 21 Dec 2025 08:24:47 GMT | How I Investigated a Realistic Web Attack Using PCAP Analysis on CyberDefender’s WebStrike Lab | Fouad Kamildeen-Aransi | [Read More](https://medium.com/p/ec22fb8ba150) |
 | Sun, 21 Dec 2025 08:24:36 GMT | Let’s talk API and AI integration. | Adeoluwa Obadofin | [Read More](https://medium.com/p/e6e0673c8061) |
-| Sun, 21 Dec 2025 08:23:47 GMT | How I almost failed OSCP+ until I fixed my notes… | Jordan Hale Research | [Read More](https://medium.com/p/97835304765e) |
-| Sun, 21 Dec 2025 08:22:29 GMT | AI-Driven Pentesting at Home: Using HexStrike-AI for Full Network Discovery and Exploitation | Andrey Pautov | [Read More](https://medium.com/p/00a9e88b3bde) |
-| Sun, 21 Dec 2025 08:22:22 GMT | Governance for AI Security: How to Lock Down Models, Pipelines, and People | Yash Patel | [Read More](https://medium.com/p/22b7de775646) |
-| Sun, 21 Dec 2025 08:16:57 GMT | I Passed OSCP+ Because of ONE Purchase — If You’re Preparing, Don’t Miss This | Jordan Hale Research | [Read More](https://medium.com/p/e81660159b4d) |
-| Sun, 21 Dec 2025 08:12:20 GMT | 7 Powerful Data Sovereignty Compliance Moves | Pentest_Testing_Corp | [Read More](https://medium.com/p/853992205090) |
