@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 14:09:36 GMT | Supercharge Your Chrome with the SHA-256 Encrypt / Decrypt Tool — Fast, Secure, and Local | Rohan Ravindra Kadam | [Read More](https://medium.com/p/bf3314664c8c) |
+| Sun, 21 Dec 2025 14:03:05 GMT | ISO 27001: Guide for Startup CEOs | Usmanbusiness | [Read More](https://medium.com/p/38099508da04) |
+| Sun, 21 Dec 2025 14:02:52 GMT | AI Agents: AresGPT and Metal RatioGPT for AI Security and Design | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/bea3aa0bfb88) |
+| Sun, 21 Dec 2025 13:58:33 GMT | When Quantum Meets Privacy: Understanding Post-Quantum Fully Homomorphic Encryption | SkillCite | [Read More](https://medium.com/p/515ad2c96720) |
+| Sun, 21 Dec 2025 13:51:29 GMT | How I Squeezed 16GB Performance out of  8 GB RAM for Pentesting | Joshgun Abdullayev | [Read More](https://medium.com/p/6ff97cdbe2d8) |
+| Sun, 21 Dec 2025 13:51:20 GMT | AWS S3 Enumeration Basics : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/010e9a0a4a6c) |
+| Sun, 21 Dec 2025 13:48:39 GMT | When Signal drops, BitChat connects. | MoaazBinSajjad | [Read More](https://medium.com/p/45a37f218193) |
+| Sun, 21 Dec 2025 13:46:03 GMT | CyberChef — Hoperation Save McSkidy - AoC 2025 Day — 17 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/36da8ea3caae) |
 | Sun, 21 Dec 2025 13:39:42 GMT | Insecure Coding- MFA-- TryHackMe Writeups | Aakash Rajput | [Read More](https://medium.com/p/56421539c28c) |
 | Sun, 21 Dec 2025 13:33:48 GMT | Bug Beauty Manager — how to use GitOps for solving security tooling testing and pipeline scaling | Dimitar Vassilev | [Read More](https://medium.com/p/7ce0fb1e39d2) |
 | Sun, 21 Dec 2025 13:33:38 GMT | Ethical hacking and its frameworks, how we can find a job in this field in the future, how we can… | Zohaibsaeed | [Read More](https://medium.com/p/146567ded0ca) |
@@ -108,11 +116,3 @@ How Hidden Compartments Are Redefining Modern Security | Beetle Wood® | [Read M
 | Sun, 21 Dec 2025 06:01:15 GMT | India Faces Rising Cyber Threats: Why Cybersecurity Jobs Are Booming in 2025
 India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8ebda6) |
 | Sun, 21 Dec 2025 05:55:19 GMT | Why Schools and Universities in Nigeria Need Smarter Protection Systems Today | Anslem Eromobor | [Read More](https://medium.com/p/52e2a27f1ac8) |
-| Sun, 21 Dec 2025 05:48:35 GMT | ShinyHunters, Scattered LAPSUS$ Hunters, and the Post-Arrest Identity Crisis: A CTI Perspective | Vardhan Gss | [Read More](https://medium.com/p/3e119d8c9fd5) |
-| Sun, 21 Dec 2025 05:27:16 GMT | Hands-On Exploitation of the “Sunset” Vulnerable Machine | Alfykannoth | [Read More](https://medium.com/p/fee2914c5bba) |
-| Sun, 21 Dec 2025 05:22:16 GMT | SubDog : Subdomain Enumeration | Abhirup Konwar | [Read More](https://medium.com/p/c5eb419d9e7b) |
-| Sun, 21 Dec 2025 05:13:26 GMT | 3 AM War Rooms: My Life as a Cybersecurity Incident Responder | Gowtham Nesamani B | [Read More](https://medium.com/p/d24022ce9094) |
-| Sun, 21 Dec 2025 05:11:44 GMT | From $0 to $125: How I Abused a GraphQL Endpoint to Bomb Inboxes (My First Bounty) | Zer0Figure | [Read More](https://medium.com/p/6553ac14e514) |
-| Sun, 21 Dec 2025 05:06:50 GMT | How to bypass Windows network setup how to use the oobe\bypassnro (setup Windows 11 with a local… | We the People | [Read More](https://medium.com/p/bc970fb5d73d) |
-| Sun, 21 Dec 2025 05:00:22 GMT | RCE via Insecure JS Sandbox Bypass | Bipin Jitiya | [Read More](https://medium.com/p/a26ad6364112) |
-| Sun, 21 Dec 2025 04:46:26 GMT | From Heuristics to Specialized Models: How I Bulletproofed an AI Agent with Qwen-Guard | Sergio Toro | [Read More](https://medium.com/p/5b230e7faf79) |
