@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 05:27:16 GMT | Hands-On Exploitation of the “Sunset” Vulnerable Machine | Alfykannoth | [Read More](https://medium.com/p/fee2914c5bba) |
+| Sun, 21 Dec 2025 05:22:16 GMT | SubDog : Subdomain Enumeration | Abhirup Konwar | [Read More](https://medium.com/p/c5eb419d9e7b) |
 | Sun, 21 Dec 2025 05:13:26 GMT | 3 AM War Rooms: My Life as a Cybersecurity Incident Responder | Gowtham Nesamani B | [Read More](https://medium.com/p/d24022ce9094) |
 | Sun, 21 Dec 2025 05:11:44 GMT | From $0 to $125: How I Abused a GraphQL Endpoint to Bomb Inboxes (My First Bounty) | Zer0Figure | [Read More](https://medium.com/p/6553ac14e514) |
 | Sun, 21 Dec 2025 05:06:50 GMT | How to bypass Windows network setup how to use the oobe\bypassnro (setup Windows 11 with a local… | We the People | [Read More](https://medium.com/p/bc970fb5d73d) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 16:58:20 GMT | What You & Your Colleagues Don’t Know About AI Yet | Mumme Fanaei | [Read More](https://medium.com/p/f3639c04af3d) |
 | Sat, 20 Dec 2025 16:56:01 GMT | How I Passed OSCP+ on My First Attempt — The Exact Workflow, Tools, and Notes That Helped Me… | Alex Warren Security | [Read More](https://medium.com/p/1e282bc81e1a) |
 | Sat, 20 Dec 2025 16:51:41 GMT | The Return of On-Prem: Why Companies Are Quietly Pulling Back from the Cloud | Travis Ray Caverhill | [Read More](https://medium.com/p/1cf1b891938c) |
-| Sat, 20 Dec 2025 16:46:14 GMT | When CAPTCHA Becomes a Weapon: Inside a Real-World Phishing Campaign | CipherX9F Security | [Read More](https://medium.com/p/0bccfdf04b38) |
-| Sat, 20 Dec 2025 16:46:02 GMT | The 30-Minute Security Audit: Onboarding a New Codebase | Ofri Peretz | [Read More](https://medium.com/p/223f50afe19f) |
