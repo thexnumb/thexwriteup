@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 07:19:27 GMT | How I Went From Failing Labs to Passing OSCP+ — The Story I Wish Someone Told Me Earlier | Alex Warren Security | [Read More](https://medium.com/p/5c4d1ef69394) |
+| Sun, 21 Dec 2025 07:10:44 GMT | Adversary Simulation Toolkit: 20 Tools for Real Labs (Master Red Team Skills) | Very Lazy Tech | [Read More](https://medium.com/p/009ae592c915) |
+| Sun, 21 Dec 2025 07:10:20 GMT | Traceroute: Following the Digital Breadcrumbs Across the Internet | Cybeague Technologies | [Read More](https://medium.com/p/42b1d95f90fb) |
+| Sun, 21 Dec 2025 06:43:41 GMT | Networking Fundamentals for Cybersecurity | Kashif shah | [Read More](https://medium.com/p/dc1ce90d67c0) |
+| Sun, 21 Dec 2025 06:35:57 GMT | ICS Security Basics | Kavindu Sahan | [Read More](https://medium.com/p/9a3d022c697c) |
+| Sun, 21 Dec 2025 06:33:46 GMT | ML-DSA (FIPS 204) | kcl17 | [Read More](https://medium.com/p/dd151ace3493) |
+| Sun, 21 Dec 2025 06:31:46 GMT | Reflections from My First OIDF Workshop & Trip to San Francisco — October 2025 | Sachin Mamoru | [Read More](https://medium.com/p/504b7890ef9d) |
 | Sun, 21 Dec 2025 06:14:07 GMT | The Version of Me You Think You Understand Is Dead | KV | [Read More](https://medium.com/p/7dd86628d573) |
 | Sun, 21 Dec 2025 06:01:15 GMT | India Faces Rising Cyber Threats: Why Cybersecurity Jobs Are Booming in 2025
 India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8ebda6) |
@@ -48,6 +55,7 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sun, 21 Dec 2025 01:03:49 GMT | Before The Signature | Jory Sabourin | [Read More](https://medium.com/p/637c62ca545f) |
 | Sun, 21 Dec 2025 00:51:13 GMT | Knife Maintenance Tips for Hunters | Buyer’s Guide Pro | [Read More](https://medium.com/p/73435c73a00f) |
 | Sun, 21 Dec 2025 00:20:08 GMT | How a Simple Token Mistake Led Me to a Full Admin Account Takeover | MOAMEN REZK | [Read More](https://medium.com/p/ea344c195b26) |
+| Sun, 21 Dec 2025 00:19:16 GMT | El Project Manager como facilitador entre negocio, sistemas de información e inteligencia… | Gian Luca Vanoli | [Read More](https://medium.com/p/66e50478a720) |
 | Sun, 21 Dec 2025 00:04:21 GMT | Coding in Cybersecurity: Two Worlds Colliding for the Future of Technology | Jeremy Lugo | [Read More](https://medium.com/p/0d6716ea7b76) |
 | Sun, 21 Dec 2025 00:01:58 GMT | My New Tool, Web Surface Inspector | Aaronashley | [Read More](https://medium.com/p/54354860e6f1) |
 | Sat, 20 Dec 2025 23:44:50 GMT | Why Most People Use AI Wrong in Cybersecurity | Hania Khan | [Read More](https://medium.com/p/299426a7e4a2) |
@@ -105,11 +113,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sat, 20 Dec 2025 18:02:41 GMT | From Code Analysis to CVE: Uncovering SQL Injection in ChurchCRM (CVE-2025–67877) | Guilherme Mury | [Read More](https://medium.com/p/783c03863de9) |
 | Sat, 20 Dec 2025 18:02:23 GMT | WhatsApp « Ghost Pairing », l’arnaque invisible qui transforme votre compte en piège | nullbyte | [Read More](https://medium.com/p/c3b2a954d899) |
 | Sat, 20 Dec 2025 17:56:07 GMT | Google Security Operation revision | Mmohammadsalman | [Read More](https://medium.com/p/af137f571a77) |
-| Sat, 20 Dec 2025 17:52:24 GMT | The Future of AI Security: Challenges and Opportunities | Nayan Goel | [Read More](https://medium.com/p/eddcbb2c8e7b) |
-| Sat, 20 Dec 2025 17:42:57 GMT | The 91% Miracle and the 10-Year Trough: Why Waymo is a Public Health Cure with a Privacy Problem | Engel - Marcus | [Read More](https://medium.com/p/c8f8179adcec) |
-| Sat, 20 Dec 2025 17:23:27 GMT | When Rate Limiting Fails Silently: Turning OTP Abuse into Account Takeover | Iski | [Read More](https://medium.com/p/a46c30b8c80c) |
-| Sat, 20 Dec 2025 17:23:27 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-3 | Cruz | [Read More](https://medium.com/p/99dfa3aba475) |
-| Sat, 20 Dec 2025 17:22:57 GMT | THM “Eavesdropper” Room — Complete Walkthrough | Ajmir khan | [Read More](https://medium.com/p/baf9d1e92ba3) |
-| Sat, 20 Dec 2025 17:17:48 GMT | I Thought Encryption Was Enough. It Wasn’t. | Shivendra Mishra | [Read More](https://medium.com/p/99aa3ce4f5bc) |
-| Sat, 20 Dec 2025 17:13:33 GMT | I Automated My Cybersecurity News Feed. Here’s What Actually Happened | CyberCraft | [Read More](https://medium.com/p/fe486c16ec18) |
-| Sat, 20 Dec 2025 17:10:40 GMT | PATH Hijacking Privilege Escalation — THM “Eavesdropper” Room | Ajmir khan | [Read More](https://medium.com/p/be721cdc8c4d) |
