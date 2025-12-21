@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 19:10:22 GMT | The Future: A Superfluous Way of Thinking | Mariaclaudialima | [Read More](https://medium.com/p/517dd64c0610) |
+| Sun, 21 Dec 2025 19:03:45 GMT | HTB University CTF 2025: Tinsel Trouble Forensics & Coding Challenges | Loay Salah | [Read More](https://medium.com/p/744079ee21d5) |
+| Sun, 21 Dec 2025 18:56:08 GMT | *Water, Security and Climate: New challenges for South Asia* | Siraj Karam Pitafi | [Read More](https://medium.com/p/4a58bbd4c8f2) |
+| Sun, 21 Dec 2025 18:55:51 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-5 | Cruz | [Read More](https://medium.com/p/931daf99359e) |
+| Sun, 21 Dec 2025 18:48:33 GMT | Android Device Security: Sandboxing, Rooting, and Attestation Explained | Vikas Soni | [Read More](https://medium.com/p/719169339871) |
+| Sun, 21 Dec 2025 18:45:10 GMT | How to Create an Arch Linux Virtual Machine on Kali Linux (Using KVM/QEMU) | Oscar Yanez Feijoo | [Read More](https://medium.com/p/10c080fb9aab) |
+| Sun, 21 Dec 2025 18:42:27 GMT | To You Who Learned Resilience Slowly: A Gentle Ode to Strength Forged in Time | Wilson Igbasi | [Read More](https://medium.com/p/aa60d1e9bb07) |
+| Sun, 21 Dec 2025 18:39:01 GMT | Google SecOps study | Mmohammadsalman | [Read More](https://medium.com/p/667fd39c1a64) |
+| Sun, 21 Dec 2025 18:37:54 GMT | OAuth, SAML, OIDC — Same Login Screen. Very Different Stories. | Anirudha Chakraborty | [Read More](https://medium.com/p/7646ddb04bc7) |
+| Sun, 21 Dec 2025 18:37:32 GMT | 10 Signs Your WordPress Site Has Been Hacked (And What To Do About It) | Faysal Ahmed | [Read More](https://medium.com/p/8ea2bcda67f0) |
+| Sun, 21 Dec 2025 18:29:56 GMT | Hack The Box — NeuroSync | Harjot Singh | [Read More](https://medium.com/p/1bfaf0017281) |
+| Sun, 21 Dec 2025 18:24:32 GMT | Behind the Four Walls of Your Screen:Where Do Our Deleted Files Go? | DAVID ADAMA | [Read More](https://medium.com/p/9c36e68c1466) |
 | Sun, 21 Dec 2025 18:20:52 GMT | Cybersecurity in the Isle of Man: What Local Businesses Must Know in 2026 | Just Technology Consulting Ltd | [Read More](https://medium.com/p/442cc8c9780c) |
 | Sun, 21 Dec 2025 18:17:25 GMT | How Defensive Thinking Changes the Way You Build | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/17ff6a4b4cc0) |
 | Sun, 21 Dec 2025 18:07:18 GMT | Advent of Cyber 2025 - Day 21: Malware Analysis — Malhare.exe | D4m.sh | [Read More](https://medium.com/p/977a870d7506) |
@@ -103,16 +115,3 @@ Unmasking the Cover-Up: How Frax Finance… | Clarkcorrin | [Read More](https://
 | Sun, 21 Dec 2025 12:06:53 GMT | The Field Guide to Black-Box Prediction -The Fifteen Rules | Mitchell D McPhetridge | [Read More](https://medium.com/p/d097763b4b5e) |
 | Sun, 21 Dec 2025 12:04:32 GMT | OPNsense Firewall in VirtualBox: Beginner Walkthrough | Declan | [Read More](https://medium.com/p/0d75071062cc) |
 | Sun, 21 Dec 2025 11:59:32 GMT | A Beginner-Friendly Collection of Damn Vulnerable Applications | 0xMaximux | [Read More](https://medium.com/p/7e0176e1b2d5) |
-| Sun, 21 Dec 2025 11:55:10 GMT | The Day I Found a Spring Boot Actuator Endpoint Exposed in Production — And How It Nearly… | Anshubind | [Read More](https://medium.com/p/7ce0e8fb7b0a) |
-| Sun, 21 Dec 2025 11:54:26 GMT | The Night I Found a Public Log Directory Exposing Nearly a Gigabyte of Sensitive Data | Anshubind | [Read More](https://medium.com/p/9b05e2eda2ce) |
-| Sun, 21 Dec 2025 11:51:04 GMT | NymVPN v2025.20 রিলিজ: প্রাইভেসি, কাস্টমাইজেশন ও পারফরম্যান্সে নতুন ধাপ | Rabib Bin Nur | [Read More](https://medium.com/p/1bfb310d78c8) |
-| Sun, 21 Dec 2025 11:50:25 GMT | Linux’ta Metin Düzenleme (Text Editing) | g.o. | [Read More](https://medium.com/p/129dc6670fc3) |
-| Sun, 21 Dec 2025 11:48:37 GMT | The Invisible Layer of Furniture Design: 
-How Hidden Compartments Are Redefining Modern Security | Beetle Wood® | [Read More](https://medium.com/p/15f59f1cc777) |
-| Sun, 21 Dec 2025 11:46:40 GMT | React Server Components Vulnerability ( CVE-2025–55182 ) | RANVIR GORAI | [Read More](https://medium.com/p/90f0c8c624c2) |
-| Sun, 21 Dec 2025 11:44:50 GMT | Source IP Anchoring with Entra Global Secure Access | Brian Veldman | [Read More](https://medium.com/p/6d873684c02f) |
-| Sun, 21 Dec 2025 11:43:44 GMT | From Broken Access Control to Mass Account Takeover | Meghnine Islem | [Read More](https://medium.com/p/88d599489f45) |
-| Sun, 21 Dec 2025 11:41:50 GMT | The Internet of Things Security Environment, Kinetic Vulnerabilities, and the Architecture of… | David SEHYEON Baek | [Read More](https://medium.com/p/bcfb617c7f6b) |
-| Sun, 21 Dec 2025 11:33:10 GMT | Shield Your FastAPI: 7 Essential Middleware to Stop Hackers in Their Tracks | Sizan Mahmud | [Read More](https://medium.com/p/e590a047f615) |
-| Sun, 21 Dec 2025 11:32:59 GMT | Your Python App Is Probably Leaking Something — Run These 7 Commands | Dorian Sotpyrc | [Read More](https://medium.com/p/fe81a6705a25) |
-| Sun, 21 Dec 2025 11:30:00 GMT | Lock VM Walkthrough | Spookz | [Read More](https://medium.com/p/a7a6730fa4f9) |
