@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 17:14:43 GMT | Everyone Tested the Login Page — I Tested the Logout Button Instead | Iski | [Read More](https://medium.com/p/3500c4168b67) |
+| Sun, 21 Dec 2025 17:10:46 GMT | SQL injection vulnerability allowing login bypass | PriOFF | [Read More](https://medium.com/p/8d7750779237) |
+| Sun, 21 Dec 2025 17:09:50 GMT | [HackSmarter.org Write-up] MidGarden2 (BadSuccessor exploitation) | Chicken0248 | [Read More](https://medium.com/p/caf53d14bd9b) |
+| Sun, 21 Dec 2025 17:09:29 GMT | [HackSmarter.org Write-up] Welcome (Shadow Credential, ForceChangePassword, ESC1) | Chicken0248 | [Read More](https://medium.com/p/0193d2e6e8ae) |
+| Sun, 21 Dec 2025 17:08:11 GMT | TRS4R3N Event Viewer | Serhan Kırca | [Read More](https://medium.com/p/54bcfc85a2f1) |
+| Sun, 21 Dec 2025 16:57:39 GMT | TCP 3-Way Handshake Manipulation | Esra Kayhan | [Read More](https://medium.com/p/80723b7b39c9) |
+| Sun, 21 Dec 2025 16:54:49 GMT | Minimal Size, Maximum Safety:
+Hardening Docker Images | Olha Stefanishyna | [Read More](https://medium.com/p/de1346b16ffb) |
+| Sun, 21 Dec 2025 16:53:11 GMT | Los 10 ciberataques que marcaron 2025 en el mundo | Tiziano Mass | [Read More](https://medium.com/p/41bdeb44dfb8) |
+| Sun, 21 Dec 2025 16:45:04 GMT | Beyond the “Deploy” Button | Creepus | [Read More](https://medium.com/p/cc46f050f365) |
+| Sun, 21 Dec 2025 16:41:01 GMT | Malhare.exe AOC 2025 Day 21 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/7c59b369c6d4) |
 | Sun, 21 Dec 2025 16:33:41 GMT | MUSPRINT Day 19 — Discovering My Real Boundaries | Ajojose | [Read More](https://medium.com/p/df89f2955477) |
 | Sun, 21 Dec 2025 16:22:31 GMT | An Accidental DevSecOps Engineer | Kapil Yadav | [Read More](https://medium.com/p/03be9ff40e32) |
 | Sun, 21 Dec 2025 16:10:03 GMT | 30 Days of Red Team: Day 13 — Operational Security & Anti-Forensics | Maxwell Cross | [Read More](https://medium.com/p/728df45a09e6) |
@@ -105,13 +116,3 @@ How Hidden Compartments Are Redefining Modern Security | Beetle Wood® | [Read M
 | Sun, 21 Dec 2025 10:11:43 GMT | SQL INJECTION AT DVWA(HIGH):WHEN ‘HIGH SECURITY’ ISN’T REALLY SECURE | Sanjivani Dobhal | [Read More](https://medium.com/p/5e189c4af2d5) |
 | Sun, 21 Dec 2025 10:09:54 GMT | From “Valid Bug” to “No Bounty”: VRP, VRT, P4, and P5 on Bugcrowd | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/7897398ebdd2) |
 | Sun, 21 Dec 2025 10:06:31 GMT | Bcrypt Password Verification in Python | AjayPieris | [Read More](https://medium.com/p/382feec3a542) |
-| Sun, 21 Dec 2025 09:56:31 GMT | Your Life Is Running on Someone Else’s Internet! | Srijan Mishra | [Read More](https://medium.com/p/08c9c3a48c32) |
-| Sun, 21 Dec 2025 09:55:10 GMT | Hacking Series (Part 9): Social Engineering — How Hackers Hack Humans (And How to Stop Them) | Cyber Wolf | [Read More](https://medium.com/p/ca425902678f) |
-| Sun, 21 Dec 2025 09:54:48 GMT | Shannon: The Open-Source AI That Breaks Your Web App Before Attackers Do | Pralin Khaira | [Read More](https://medium.com/p/0d3e758990f0) |
-| Sun, 21 Dec 2025 09:31:48 GMT | Fighting Cyber-Enabled Fraud: Why a Systemic Defence Is the Only Way Forward | Balasubramaniam GD | [Read More](https://medium.com/p/6d71a79e62ad) |
-| Sun, 21 Dec 2025 09:25:07 GMT | SEO Poisoning and Web Compromise Risks in Indian Government Websites | Abin Joseph | [Read More](https://medium.com/p/7bf8a2eb7299) |
-| Sun, 21 Dec 2025 09:23:33 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-4 | Cruz | [Read More](https://medium.com/p/26e54fe8e25e) |
-| Sun, 21 Dec 2025 08:46:37 GMT | Debunking Spyware Claims : The Simple Technical Truth About the Sanchar Saathi App | greyman | [Read More](https://medium.com/p/972cab03d1b7) |
-| Sun, 21 Dec 2025 08:32:18 GMT | The 60-Minute Incident Runbook After You Find Leaked Employee Logins | Alexandre Vandamme | [Read More](https://medium.com/p/f38952f68029) |
-| Sun, 21 Dec 2025 08:26:49 GMT | The Digital Detective’s Arsenal: Essential Tools for Forensics & Investigation | eRRoR | [Read More](https://medium.com/p/d593083b39be) |
-| Sun, 21 Dec 2025 08:25:50 GMT | I Exposed My MySQL Database to the Internet (It Was a Bad Idea ) | Tanish Raj | [Read More](https://medium.com/p/5d156d4418f6) |
