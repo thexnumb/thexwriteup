@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 15:19:33 GMT | Obfuscation — The Egg Shell File - AoC 2025 Day — 18 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/ad89ed559278) |
+| Sun, 21 Dec 2025 15:17:27 GMT | Building a Tiny Linux From Scratch | Im0nk3yar0und | [Read More](https://medium.com/p/48c9d9a06f3c) |
+| Sun, 21 Dec 2025 14:42:40 GMT | Why AI Will Never Save You From Yourself | Cyberkech | [Read More](https://medium.com/p/7075314eaeef) |
 | Sun, 21 Dec 2025 14:34:48 GMT | We pwned X, Vercel, Cursor, and Discord through a supply-chain attack | Aman Shekhar | [Read More](https://medium.com/p/7730f70bfa10) |
 | Sun, 21 Dec 2025 14:32:18 GMT | (Comptia A+) The Zen of Backup: Strategies, Tools, and Best Practices | Vignesh R | [Read More](https://medium.com/p/0397fd4c8003) |
+| Sun, 21 Dec 2025 14:29:52 GMT | Breaking LLM Guardrails: A Hands-On Journey into Prompt Injection | Srijan Adk | [Read More](https://medium.com/p/e74c48a105b4) |
 | Sun, 21 Dec 2025 14:28:54 GMT | How do i trace and retrieve stolen/lost ethereum without upfront fee? | Flynn Braden | [Read More](https://medium.com/p/fed6e2806266) |
 | Sun, 21 Dec 2025 14:28:34 GMT | Day 21 — Balancing Speed and Security (Confrontation with Jack) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/28c2e67824f2) |
 | Sun, 21 Dec 2025 14:27:20 GMT | Building a Robust Information Security Management System (ISMS): A Practical Guide for 2025 | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/427e728cfbb3) |
@@ -111,7 +115,3 @@ How Hidden Compartments Are Redefining Modern Security | Beetle Wood® | [Read M
 | Sun, 21 Dec 2025 08:02:24 GMT | The “Good Enough” Loading State is No Longer Good Enough | Godfrey Lebo | [Read More](https://medium.com/p/896e176e4a60) |
 | Sun, 21 Dec 2025 08:01:11 GMT | Hands-On OT Security Course | Sulaiman Alhasawi | [Read More](https://medium.com/p/b78f266a587a) |
 | Sun, 21 Dec 2025 07:59:26 GMT | The Importance of Data Privacy in the Digital Age | Tedcom | [Read More](https://medium.com/p/0177317a6216) |
-| Sun, 21 Dec 2025 07:49:33 GMT | Finding My First Critical IDOR Vulnerability: A Junior AppSec Engineer’s Journey | Chetan Biranje | [Read More](https://medium.com/p/3fcc44f50812) |
-| Sun, 21 Dec 2025 07:32:23 GMT | Test | Nick Birjmohun | [Read More](https://medium.com/p/1e8b6f5d5485) |
-| Sun, 21 Dec 2025 07:30:10 GMT | Investigasi Forensik Windows: Studi Kasus TryHackMe Windows Endpoint Forensics CTF | Jerry Berlin | [Read More](https://medium.com/p/81245566feaf) |
-| Sun, 21 Dec 2025 07:23:09 GMT | Road to Root: How I Compromised the PyExp: 1 VulnHub Machine | Harlin Taggar | [Read More](https://medium.com/p/2aca2f0a0c1f) |
