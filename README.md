@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 20:38:50 GMT | Translating Cybersecurity into Universal Logic | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/3b59be341199) |
+| Sun, 21 Dec 2025 20:38:43 GMT | Siber Güvenlikte Kaleleri Yıkmak: Neden “Zero Trust” Konuşuyoruz? | Büşra İleri | [Read More](https://medium.com/p/f46d88dd0b86) |
+| Sun, 21 Dec 2025 20:38:34 GMT | Sofremos um Ataque! — SOC335 CVE-2024-49138 Exploração Detectada — Blue Team | Otávio Alves | [Read More](https://medium.com/p/e4ba1d971543) |
+| Sun, 21 Dec 2025 20:28:19 GMT | What Today’s Top Security Frameworks Measure, and What They Quietly Ignore | Travis Ray Caverhill | [Read More](https://medium.com/p/4c709d349dbd) |
+| Sun, 21 Dec 2025 20:27:51 GMT | Finishing the year 2025, My Cybersecurity Journey | Aaronashley | [Read More](https://medium.com/p/7daa08b35b57) |
+| Sun, 21 Dec 2025 20:22:11 GMT | My Journey toward HTB’s CJCA | Shane | [Read More](https://medium.com/p/48c36e588747) |
 | Sun, 21 Dec 2025 20:21:53 GMT | Hacking the iOS system keyboard | Matej Kokošinek | [Read More](https://medium.com/p/fd95d80468d4) |
+| Sun, 21 Dec 2025 20:15:51 GMT | Networking and Its Types | Annusijaz | [Read More](https://medium.com/p/93bf6d556fd7) |
+| Sun, 21 Dec 2025 20:09:49 GMT | SCADA/ICS/OT Security Needs More Than Visibility. It Needs Deception. | Fatma Erturk | [Read More](https://medium.com/p/6463b952db8a) |
+| Sun, 21 Dec 2025 20:05:09 GMT | Insecure Direct Object Reference (IDOR): How Blue Teams Detect and Stop It | Anas404 | [Read More](https://medium.com/p/73aa67e8fd6d) |
 | Sun, 21 Dec 2025 19:51:10 GMT | PortSwigger Web Security Academy — Lab Write-Up 2 | 0xM3d0din | [Read More](https://medium.com/p/61d2b2105c4f) |
 | Sun, 21 Dec 2025 19:42:57 GMT | A Comprehensive Guide to Python Virtual Environments with venv | Tareshsharma | [Read More](https://medium.com/p/4efed265767d) |
 | Sun, 21 Dec 2025 19:20:09 GMT | Aglarin Dilini Cozmek: Nmap ile Ilk Adimlar | Umut Baran Yavuz | [Read More](https://medium.com/p/60f29b968767) |
@@ -105,12 +114,3 @@ Unmasking the Cover-Up: How Frax Finance… | Clarkcorrin | [Read More](https://
 | Sun, 21 Dec 2025 13:05:11 GMT | Setting up CIS Benchmark Hardening through Qualys for Baseline Configuration Management: Product… | Cyberspecs | [Read More](https://medium.com/p/80439bbbff0a) |
 | Sun, 21 Dec 2025 13:02:33 GMT | The Ethics and Utility of Blockchain: Security, Trust, and Long-Term Value | Riya Barman | [Read More](https://medium.com/p/273b5f6d9d85) |
 | Sun, 21 Dec 2025 12:59:34 GMT | Data And Detect | Matthew Stevens | [Read More](https://medium.com/p/d64530181156) |
-| Sun, 21 Dec 2025 12:56:18 GMT | ️ Siber Güvenliğin Savunma Kalkanı: Blue Team (Mavi Takım) Nedir? | HSDEBYU | [Read More](https://medium.com/p/90ce31259b86) |
-| Sun, 21 Dec 2025 12:53:34 GMT | [CyberDefenders Write-up] XLMRat Lab | OxMotaw3 | [Read More](https://medium.com/p/4503a5f44030) |
-| Sun, 21 Dec 2025 12:52:09 GMT | SOC Workflow in Practice: Triage and Investigation with OpenCTI | Erebus | [Read More](https://medium.com/p/4a953ae5035c) |
-| Sun, 21 Dec 2025 12:50:33 GMT | ️‍♂️ Reading JavaScript Like a Hacker | Purushotham.R | [Read More](https://medium.com/p/0d77acae5a68) |
-| Sun, 21 Dec 2025 12:38:03 GMT | Fixing Kali Linux apt update Errors (404 / NO_PUBKEY) — Step-by-Step POC | Prakash Thakur | [Read More](https://medium.com/p/3e03c36a5187) |
-| Sun, 21 Dec 2025 12:31:22 GMT | When Trust Becomes the Attack Surface: Internal Network Denial of Service | Abhishek Birdawade | [Read More](https://medium.com/p/3bcd82b60492) |
-| Sun, 21 Dec 2025 12:25:40 GMT | IP Subnetting ve VLSM : Alt Ağlara Bölme Mantığı ve Hesaplamaları | FerhatÖzdemir | [Read More](https://medium.com/p/2b202082d66e) |
-| Sun, 21 Dec 2025 12:23:41 GMT | WordPress Security | Abdul Mubin | [Read More](https://medium.com/p/8424efc36926) |
-| Sun, 21 Dec 2025 12:20:58 GMT | VulnHub — The Planets: Mercury Writeup - By Priyank Rastogi - Technical404 - Hacker Priyank | Priyank Rastogi | [Read More](https://medium.com/p/2de50a332c63) |
