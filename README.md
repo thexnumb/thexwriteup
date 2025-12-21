@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 05:13:26 GMT | 3 AM War Rooms: My Life as a Cybersecurity Incident Responder | Gowtham Nesamani B | [Read More](https://medium.com/p/d24022ce9094) |
+| Sun, 21 Dec 2025 05:11:44 GMT | From $0 to $125: How I Abused a GraphQL Endpoint to Bomb Inboxes (My First Bounty) | Zer0Figure | [Read More](https://medium.com/p/6553ac14e514) |
+| Sun, 21 Dec 2025 05:06:50 GMT | How to bypass Windows network setup how to use the oobe\bypassnro (setup Windows 11 with a local… | We the People | [Read More](https://medium.com/p/bc970fb5d73d) |
+| Sun, 21 Dec 2025 05:00:22 GMT | RCE via Insecure JS Sandbox Bypass | Bipin Jitiya | [Read More](https://medium.com/p/a26ad6364112) |
+| Sun, 21 Dec 2025 04:46:26 GMT | From Heuristics to Specialized Models: How I Bulletproofed an AI Agent with Qwen-Guard | Sergio Toro | [Read More](https://medium.com/p/5b230e7faf79) |
+| Sun, 21 Dec 2025 04:32:43 GMT | Studi Kasus Implementasi Odoo Enterprise untuk Optimalisasi CRM, Operasional, dan Knowledge… | Vania Setyorini Purba | [Read More](https://medium.com/p/b94698442640) |
 | Sun, 21 Dec 2025 04:18:17 GMT | Fully Comprehend Reconnaissance Techniques as the Foundational Phase of Ethical Hacking | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8c2d5863b3af) |
 | Sun, 21 Dec 2025 04:10:41 GMT | Metasploitable 3 (Windows) Write-up — Part [IX]: Port 5985 — Windows Remote Management Exploitation | Kalash Kundaliya | [Read More](https://medium.com/p/cbe33775c451) |
 | Sun, 21 Dec 2025 03:32:40 GMT | When a Simple Document Reader Turns Dangerous: Lessons from a Malicious Android App on Google Play | Deven Chhajed | [Read More](https://medium.com/p/b6dd5080b5bb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 16:51:41 GMT | The Return of On-Prem: Why Companies Are Quietly Pulling Back from the Cloud | Travis Ray Caverhill | [Read More](https://medium.com/p/1cf1b891938c) |
 | Sat, 20 Dec 2025 16:46:14 GMT | When CAPTCHA Becomes a Weapon: Inside a Real-World Phishing Campaign | CipherX9F Security | [Read More](https://medium.com/p/0bccfdf04b38) |
 | Sat, 20 Dec 2025 16:46:02 GMT | The 30-Minute Security Audit: Onboarding a New Codebase | Ofri Peretz | [Read More](https://medium.com/p/223f50afe19f) |
-| Sat, 20 Dec 2025 16:45:04 GMT | Networking in Cyber Security Part 1. | Bilal Nasir | [Read More](https://medium.com/p/837c8274b2da) |
-| Sat, 20 Dec 2025 16:42:43 GMT | NOVA marketplace is a convenient and technological platform | Explorer Insight | [Read More](https://medium.com/p/82b17b85adbc) |
-| Sat, 20 Dec 2025 16:37:27 GMT | Beyond the Firewall: Navigating ISP Policies Through a GRC Lens | Brian Haman, PhD | [Read More](https://medium.com/p/32c5c4e29491) |
-| Sat, 20 Dec 2025 16:35:10 GMT | I Used to Ignore This — Now I Warn Everyone About It | Er Dhaval Ramani | [Read More](https://medium.com/p/7504ac4bc451) |
-| Sat, 20 Dec 2025 16:32:21 GMT | How a Forgotten Code Library Led to the University of Sydney Data Breach | Chetan Seripally | [Read More](https://medium.com/p/2443c91dd126) |
-| Sat, 20 Dec 2025 16:29:16 GMT | Expressway Hack The Box Walkthrough | NourInTech | [Read More](https://medium.com/p/4d5a11f2b514) |
