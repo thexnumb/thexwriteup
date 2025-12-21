@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 21:16:45 GMT | I Made $11K on a TikTok Bug Bounty | Codi | [Read More](https://medium.com/p/30da9a14af84) |
+| Sun, 21 Dec 2025 21:12:19 GMT | I Found My First Bugs in 48 Hours: A Beginner’s Real-World Guide | Codi | [Read More](https://medium.com/p/3c9edbf4fe36) |
+| Sun, 21 Dec 2025 21:03:36 GMT | Network 101'den Siber Güvenliğe Kısım 2 | Mustafa San | [Read More](https://medium.com/p/ec64e45039fa) |
+| Sun, 21 Dec 2025 20:59:54 GMT | Building and Securing a Linux Apache Web Server | Felicity Lois | [Read More](https://medium.com/p/09c24615fd09) |
+| Sun, 21 Dec 2025 20:55:02 GMT | Logların İzinde: APT Senaryosu — 5 | Ali Ekber KARA | [Read More](https://medium.com/p/f050898102d0) |
+| Sun, 21 Dec 2025 20:46:18 GMT | How I Passed the CompTIA Security+ Exam: Tips, Tricks, and Tools for Success | Secured By Sebastion | [Read More](https://medium.com/p/296a50989150) |
+| Sun, 21 Dec 2025 20:45:57 GMT | Network 101'den Siber Güvenliğe Yolculuk Kısım 1 | Mustafa San | [Read More](https://medium.com/p/ea78a3ec21ec) |
 | Sun, 21 Dec 2025 20:38:50 GMT | Translating Cybersecurity into Universal Logic | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/3b59be341199) |
 | Sun, 21 Dec 2025 20:38:43 GMT | Siber Güvenlikte Kaleleri Yıkmak: Neden “Zero Trust” Konuşuyoruz? | Büşra İleri | [Read More](https://medium.com/p/f46d88dd0b86) |
 | Sun, 21 Dec 2025 20:38:34 GMT | Sofremos um Ataque! — SOC335 CVE-2024-49138 Exploração Detectada — Blue Team | Otávio Alves | [Read More](https://medium.com/p/e4ba1d971543) |
+| Sun, 21 Dec 2025 20:36:47 GMT | Attacking the sunset machine : A complete walkthrough | Hebrewabin | [Read More](https://medium.com/p/1e249f1d9550) |
 | Sun, 21 Dec 2025 20:28:19 GMT | What Today’s Top Security Frameworks Measure, and What They Quietly Ignore | Travis Ray Caverhill | [Read More](https://medium.com/p/4c709d349dbd) |
 | Sun, 21 Dec 2025 20:27:51 GMT | Finishing the year 2025, My Cybersecurity Journey | Aaronashley | [Read More](https://medium.com/p/7daa08b35b57) |
 | Sun, 21 Dec 2025 20:22:11 GMT | My Journey toward HTB’s CJCA | Shane | [Read More](https://medium.com/p/48c36e588747) |
@@ -105,12 +113,3 @@ Hardening Docker Images | Olha Stefanishyna | [Read More](https://medium.com/p/d
 | Sun, 21 Dec 2025 13:33:38 GMT | Ethical hacking and its frameworks, how we can find a job in this field in the future, how we can… | Zohaibsaeed | [Read More](https://medium.com/p/146567ded0ca) |
 | Sun, 21 Dec 2025 13:31:20 GMT | Like-New Ring Alarm 8-Piece Kit: Real Home Security Without the High Price | PinGoodies | [Read More](https://medium.com/p/31f55a7cdf09) |
 | Sun, 21 Dec 2025 13:24:50 GMT | The Aladdin Zero-Click Ad-Based Infection Vector and the Modern Mercenary Spyware Ecosystem | David SEHYEON Baek | [Read More](https://medium.com/p/1c07878b0ac0) |
-| Sun, 21 Dec 2025 13:21:50 GMT | The Digital Panopticon: When ‘Child Safety’ Becomes Mass Surveillance | DigitalSparky | [Read More](https://medium.com/p/3fc5b8d3c74d) |
-| Sun, 21 Dec 2025 13:21:32 GMT | Bug Bounty Bootcamp: From Zero to Finding Your First Vulnerability | Aman Sharma | [Read More](https://medium.com/p/bcf6b9ae515a) |
-| Sun, 21 Dec 2025 13:20:54 GMT | FRAX FINANCE: The Stealth Patch & The Stolen Bounty
-Unmasking the Cover-Up: How Frax Finance… | Clarkcorrin | [Read More](https://medium.com/p/c52137d4c9c2) |
-| Sun, 21 Dec 2025 13:19:36 GMT | Intro to AWS IAM Enumeration : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/5cea0720dc47) |
-| Sun, 21 Dec 2025 13:06:33 GMT | All you need to know about Security Copilot Agents: Part 4 | Yash Mudaliar | [Read More](https://medium.com/p/ca402663e80b) |
-| Sun, 21 Dec 2025 13:05:11 GMT | Setting up CIS Benchmark Hardening through Qualys for Baseline Configuration Management: Product… | Cyberspecs | [Read More](https://medium.com/p/80439bbbff0a) |
-| Sun, 21 Dec 2025 13:02:33 GMT | The Ethics and Utility of Blockchain: Security, Trust, and Long-Term Value | Riya Barman | [Read More](https://medium.com/p/273b5f6d9d85) |
-| Sun, 21 Dec 2025 12:59:34 GMT | Data And Detect | Matthew Stevens | [Read More](https://medium.com/p/d64530181156) |
