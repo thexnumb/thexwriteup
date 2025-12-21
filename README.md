@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 12:38:03 GMT | Fixing Kali Linux apt update Errors (404 / NO_PUBKEY) — Step-by-Step POC | Prakash Thakur | [Read More](https://medium.com/p/3e03c36a5187) |
+| Sun, 21 Dec 2025 12:25:40 GMT | IP Subnetting ve VLSM : Alt Ağlara Bölme Mantığı ve Hesaplamaları | FerhatÖzdemir | [Read More](https://medium.com/p/2b202082d66e) |
+| Sun, 21 Dec 2025 12:23:41 GMT | WordPress Security | Abdul Mubin | [Read More](https://medium.com/p/8424efc36926) |
+| Sun, 21 Dec 2025 12:20:58 GMT | VulnHub — The Planets: Mercury Writeup - By Priyank Rastogi - Technical404 - Hacker Priyank | Priyank Rastogi | [Read More](https://medium.com/p/2de50a332c63) |
+| Sun, 21 Dec 2025 12:17:34 GMT | 10 Smallest Hacker Gadgets Used in Ethical Hacking and Penetration Testing | EINITIAL24 | [Read More](https://medium.com/p/12f72b242cbd) |
+| Sun, 21 Dec 2025 12:12:49 GMT | Day 139 — Behemoth Level-1 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/2dbacf0f512c) |
+| Sun, 21 Dec 2025 12:09:27 GMT | Top 10 Cybersecurity Training Institutes in India
+1. | Ankit rai | [Read More](https://medium.com/p/351c652b3d9c) |
+| Sun, 21 Dec 2025 12:06:53 GMT | The Field Guide to Black-Box Prediction -The Fifteen Rules | Mitchell D McPhetridge | [Read More](https://medium.com/p/d097763b4b5e) |
+| Sun, 21 Dec 2025 12:04:32 GMT | OPNsense Firewall in VirtualBox: Beginner Walkthrough | Declan | [Read More](https://medium.com/p/0d75071062cc) |
+| Sun, 21 Dec 2025 11:59:32 GMT | A Beginner-Friendly Collection of Damn Vulnerable Applications | 0xMaximux | [Read More](https://medium.com/p/7e0176e1b2d5) |
+| Sun, 21 Dec 2025 11:55:10 GMT | The Day I Found a Spring Boot Actuator Endpoint Exposed in Production — And How It Nearly… | Anshubind | [Read More](https://medium.com/p/7ce0e8fb7b0a) |
+| Sun, 21 Dec 2025 11:54:26 GMT | The Night I Found a Public Log Directory Exposing Nearly a Gigabyte of Sensitive Data | Anshubind | [Read More](https://medium.com/p/9b05e2eda2ce) |
+| Sun, 21 Dec 2025 11:51:04 GMT | NymVPN v2025.20 রিলিজ: প্রাইভেসি, কাস্টমাইজেশন ও পারফরম্যান্সে নতুন ধাপ | Rabib Bin Nur | [Read More](https://medium.com/p/1bfb310d78c8) |
+| Sun, 21 Dec 2025 11:50:25 GMT | Linux’ta Metin Düzenleme (Text Editing) | g.o. | [Read More](https://medium.com/p/129dc6670fc3) |
+| Sun, 21 Dec 2025 11:48:37 GMT | The Invisible Layer of Furniture Design: 
+How Hidden Compartments Are Redefining Modern Security | Beetle Wood® | [Read More](https://medium.com/p/15f59f1cc777) |
+| Sun, 21 Dec 2025 11:46:40 GMT | React Server Components Vulnerability ( CVE-2025–55182 ) | RANVIR GORAI | [Read More](https://medium.com/p/90f0c8c624c2) |
+| Sun, 21 Dec 2025 11:44:50 GMT | Source IP Anchoring with Entra Global Secure Access | Brian Veldman | [Read More](https://medium.com/p/6d873684c02f) |
+| Sun, 21 Dec 2025 11:43:44 GMT | From Broken Access Control to Mass Account Takeover | Meghnine Islem | [Read More](https://medium.com/p/88d599489f45) |
+| Sun, 21 Dec 2025 11:41:50 GMT | The Internet of Things Security Environment, Kinetic Vulnerabilities, and the Architecture of… | David SEHYEON Baek | [Read More](https://medium.com/p/bcfb617c7f6b) |
+| Sun, 21 Dec 2025 11:33:10 GMT | Shield Your FastAPI: 7 Essential Middleware to Stop Hackers in Their Tracks | Sizan Mahmud | [Read More](https://medium.com/p/e590a047f615) |
 | Sun, 21 Dec 2025 11:32:59 GMT | Your Python App Is Probably Leaking Something — Run These 7 Commands | Dorian Sotpyrc | [Read More](https://medium.com/p/fe81a6705a25) |
 | Sun, 21 Dec 2025 11:30:00 GMT | Lock VM Walkthrough | Spookz | [Read More](https://medium.com/p/a7a6730fa4f9) |
 | Sun, 21 Dec 2025 11:18:55 GMT | Penetration Mobile — ADB Command Basic | Bima Aditya Arya G | [Read More](https://medium.com/p/d564d05e38c0) |
@@ -93,23 +115,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sun, 21 Dec 2025 01:46:08 GMT | Nike’s CTO Move Shows How Leadership Is Changing | Ali Elmalı | [Read More](https://medium.com/p/787b1a3b9654) |
 | Sun, 21 Dec 2025 01:32:18 GMT | Secure Headers, Fast Pages: The JS Checklist | Bhagya Rana | [Read More](https://medium.com/p/0d3fb288fe79) |
 | Sun, 21 Dec 2025 01:28:31 GMT | I Trusted the AI Too Early. Production Taught Me Otherwise. | CodeWithYog | [Read More](https://medium.com/p/5b2399b7d850) |
-| Sun, 21 Dec 2025 01:24:45 GMT | Alabama Football: The Tide’s Big Comeback and Playoff Momentum | Bilkadiakram | [Read More](https://medium.com/p/225d912922d7) |
-| Sun, 21 Dec 2025 01:23:46 GMT | PicoCTF Writeup — Magikarp Ground Mission | flix | [Read More](https://medium.com/p/5ec2fadeb01d) |
-| Sun, 21 Dec 2025 01:04:43 GMT | Case Study: The Urban VPN Deception | Rajesh Mondal | [Read More](https://medium.com/p/118e2008bc70) |
-| Sun, 21 Dec 2025 01:03:49 GMT | Before The Signature | Jory Sabourin | [Read More](https://medium.com/p/637c62ca545f) |
-| Sun, 21 Dec 2025 00:51:13 GMT | Knife Maintenance Tips for Hunters | Buyer’s Guide Pro | [Read More](https://medium.com/p/73435c73a00f) |
-| Sun, 21 Dec 2025 00:20:08 GMT | How a Simple Token Mistake Led Me to a Full Admin Account Takeover | MOAMEN REZK | [Read More](https://medium.com/p/ea344c195b26) |
-| Sun, 21 Dec 2025 00:19:16 GMT | El Project Manager como facilitador entre negocio, sistemas de información e inteligencia… | Gian Luca Vanoli | [Read More](https://medium.com/p/66e50478a720) |
-| Sun, 21 Dec 2025 00:04:21 GMT | Coding in Cybersecurity: Two Worlds Colliding for the Future of Technology | Jeremy Lugo | [Read More](https://medium.com/p/0d6716ea7b76) |
-| Sun, 21 Dec 2025 00:01:58 GMT | My New Tool, Web Surface Inspector | Aaronashley | [Read More](https://medium.com/p/54354860e6f1) |
-| Sat, 20 Dec 2025 23:44:50 GMT | Why Most People Use AI Wrong in Cybersecurity | Hania Khan | [Read More](https://medium.com/p/299426a7e4a2) |
-| Sat, 20 Dec 2025 23:44:38 GMT | When One Request Becomes Two: A Deep Dive into HTTP Request Smuggling Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/9a12f29a6418) |
-| Sat, 20 Dec 2025 23:39:13 GMT | The Wounds May Heal, But The Scars Will Always Remains. | althea.hiddenpages | [Read More](https://medium.com/p/d4bd8a47f99b) |
-| Sat, 20 Dec 2025 23:34:54 GMT | Some Friendships Save Your Life | Ronnie Charrier | [Read More](https://medium.com/p/793cab983c47) |
-| Sat, 20 Dec 2025 23:30:37 GMT | US Government Technology Work Is Not a Buzzword. It Is a System. | Paul George Savluc | [Read More](https://medium.com/p/b1bfed6bd0c3) |
-| Sat, 20 Dec 2025 23:08:17 GMT | How does copy/paste work so well? | Michael Kokosenski | [Read More](https://medium.com/p/6da80316e02e) |
-| Sat, 20 Dec 2025 23:05:34 GMT | Web Security from First Principles What Actually Happens When You Click a Link. | Ehtisham Fakhar | [Read More](https://medium.com/p/8a0be62a01e5) |
-| Sat, 20 Dec 2025 23:02:43 GMT | Hidden administrator account under Windows Server Core: demonstration and defense | Devilman24 | [Read More](https://medium.com/p/81f9aad5611e) |
-| Sat, 20 Dec 2025 22:42:50 GMT | An IDOR that allows user information disclosure | Shahd Mk | [Read More](https://medium.com/p/36fd7643f31b) |
-| Sat, 20 Dec 2025 22:26:23 GMT | Do you really understand   and how cookies protect you ? | Bittu Kumar | [Read More](https://medium.com/p/0f2c6db24fa6) |
-| Sat, 20 Dec 2025 22:08:18 GMT | Horizon | Chris Perkins | [Read More](https://medium.com/p/7c6cc101050c) |
