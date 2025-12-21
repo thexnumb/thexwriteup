@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 14:34:48 GMT | We pwned X, Vercel, Cursor, and Discord through a supply-chain attack | Aman Shekhar | [Read More](https://medium.com/p/7730f70bfa10) |
+| Sun, 21 Dec 2025 14:32:18 GMT | (Comptia A+) The Zen of Backup: Strategies, Tools, and Best Practices | Vignesh R | [Read More](https://medium.com/p/0397fd4c8003) |
+| Sun, 21 Dec 2025 14:28:54 GMT | How do i trace and retrieve stolen/lost ethereum without upfront fee? | Flynn Braden | [Read More](https://medium.com/p/fed6e2806266) |
+| Sun, 21 Dec 2025 14:28:34 GMT | Day 21 — Balancing Speed and Security (Confrontation with Jack) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/28c2e67824f2) |
+| Sun, 21 Dec 2025 14:27:20 GMT | Building a Robust Information Security Management System (ISMS): A Practical Guide for 2025 | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/427e728cfbb3) |
+| Sun, 21 Dec 2025 14:26:46 GMT | The Transport & Application Layer — Network series 3 | Mr.Cool | [Read More](https://medium.com/p/564e351dd623) |
+| Sun, 21 Dec 2025 14:20:51 GMT | Your First 30 Days With Northwave | Fook Hwa Tan | [Read More](https://medium.com/p/df8509856333) |
+| Sun, 21 Dec 2025 14:19:06 GMT | Choose Your Path: Strategy, Response, or Long-Term Partnership — 5 Ways to Work With Us (Depending… | Fook Hwa Tan | [Read More](https://medium.com/p/6d3f4568e9a5) |
+| Sun, 21 Dec 2025 14:18:32 GMT | Combat Forces Command Creates New Ops Centers for SATCOM and EW | Defence Affairs & Analysis | [Read More](https://medium.com/p/95d351f6d39c) |
+| Sun, 21 Dec 2025 14:14:20 GMT | RBAC Without a Database: Azure AD Groups + Firebase Remote Config in a React Native Enterprise App | Mrinal Maheshwari | [Read More](https://medium.com/p/d7b6bde7e9a9) |
+| Sun, 21 Dec 2025 14:11:59 GMT | My Journey to Becoming a Certified Red Team Analyst(CRTA) ️‍♂️ | Priyank Rastogi | [Read More](https://medium.com/p/eb98418d450c) |
 | Sun, 21 Dec 2025 14:09:36 GMT | Supercharge Your Chrome with the SHA-256 Encrypt / Decrypt Tool — Fast, Secure, and Local | Rohan Ravindra Kadam | [Read More](https://medium.com/p/bf3314664c8c) |
 | Sun, 21 Dec 2025 14:03:05 GMT | ISO 27001: Guide for Startup CEOs | Usmanbusiness | [Read More](https://medium.com/p/38099508da04) |
 | Sun, 21 Dec 2025 14:02:52 GMT | AI Agents: AresGPT and Metal RatioGPT for AI Security and Design | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/bea3aa0bfb88) |
@@ -104,15 +115,3 @@ How Hidden Compartments Are Redefining Modern Security | Beetle Wood® | [Read M
 | Sun, 21 Dec 2025 07:32:23 GMT | Test | Nick Birjmohun | [Read More](https://medium.com/p/1e8b6f5d5485) |
 | Sun, 21 Dec 2025 07:30:10 GMT | Investigasi Forensik Windows: Studi Kasus TryHackMe Windows Endpoint Forensics CTF | Jerry Berlin | [Read More](https://medium.com/p/81245566feaf) |
 | Sun, 21 Dec 2025 07:23:09 GMT | Road to Root: How I Compromised the PyExp: 1 VulnHub Machine | Harlin Taggar | [Read More](https://medium.com/p/2aca2f0a0c1f) |
-| Sun, 21 Dec 2025 07:22:51 GMT | Road to Root: How I Compromised the HarryPotter: Nagini VulnHub Machine | Harlin Taggar | [Read More](https://medium.com/p/f9bea3f6c5d3) |
-| Sun, 21 Dec 2025 07:19:27 GMT | How I Went From Failing Labs to Passing OSCP+ — The Story I Wish Someone Told Me Earlier | Alex Warren Security | [Read More](https://medium.com/p/5c4d1ef69394) |
-| Sun, 21 Dec 2025 07:10:44 GMT | Adversary Simulation Toolkit: 20 Tools for Real Labs (Master Red Team Skills) | Very Lazy Tech | [Read More](https://medium.com/p/009ae592c915) |
-| Sun, 21 Dec 2025 07:10:20 GMT | Traceroute: Following the Digital Breadcrumbs Across the Internet | Cybeague Technologies | [Read More](https://medium.com/p/42b1d95f90fb) |
-| Sun, 21 Dec 2025 06:43:41 GMT | Networking Fundamentals for Cybersecurity | Kashif shah | [Read More](https://medium.com/p/dc1ce90d67c0) |
-| Sun, 21 Dec 2025 06:35:57 GMT | ICS Security Basics | Kavindu Sahan | [Read More](https://medium.com/p/9a3d022c697c) |
-| Sun, 21 Dec 2025 06:33:46 GMT | ML-DSA (FIPS 204) | kcl17 | [Read More](https://medium.com/p/dd151ace3493) |
-| Sun, 21 Dec 2025 06:31:46 GMT | Reflections from My First OIDF Workshop & Trip to San Francisco — October 2025 | Sachin Mamoru | [Read More](https://medium.com/p/504b7890ef9d) |
-| Sun, 21 Dec 2025 06:14:07 GMT | The Version of Me You Think You Understand Is Dead | KV | [Read More](https://medium.com/p/7dd86628d573) |
-| Sun, 21 Dec 2025 06:01:15 GMT | India Faces Rising Cyber Threats: Why Cybersecurity Jobs Are Booming in 2025
-India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8ebda6) |
-| Sun, 21 Dec 2025 05:55:19 GMT | Why Schools and Universities in Nigeria Need Smarter Protection Systems Today | Anslem Eromobor | [Read More](https://medium.com/p/52e2a27f1ac8) |
