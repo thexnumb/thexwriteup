@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 08:32:18 GMT | The 60-Minute Incident Runbook After You Find Leaked Employee Logins | Alexandre Vandamme | [Read More](https://medium.com/p/f38952f68029) |
+| Sun, 21 Dec 2025 08:26:49 GMT | The Digital Detective’s Arsenal: Essential Tools for Forensics & Investigation | eRRoR | [Read More](https://medium.com/p/d593083b39be) |
+| Sun, 21 Dec 2025 08:25:50 GMT | I Exposed My MySQL Database to the Internet (It Was a Bad Idea ) | Tanish Raj | [Read More](https://medium.com/p/5d156d4418f6) |
+| Sun, 21 Dec 2025 08:24:47 GMT | How I Investigated a Realistic Web Attack Using PCAP Analysis on CyberDefender’s WebStrike Lab | Fouad Kamildeen-Aransi | [Read More](https://medium.com/p/ec22fb8ba150) |
+| Sun, 21 Dec 2025 08:24:36 GMT | Let’s talk API and AI integration. | Adeoluwa Obadofin | [Read More](https://medium.com/p/e6e0673c8061) |
 | Sun, 21 Dec 2025 08:23:47 GMT | How I almost failed OSCP+ until I fixed my notes… | Jordan Hale Research | [Read More](https://medium.com/p/97835304765e) |
 | Sun, 21 Dec 2025 08:22:29 GMT | AI-Driven Pentesting at Home: Using HexStrike-AI for Full Network Discovery and Exploitation | Andrey Pautov | [Read More](https://medium.com/p/00a9e88b3bde) |
+| Sun, 21 Dec 2025 08:22:22 GMT | Governance for AI Security: How to Lock Down Models, Pipelines, and People | Yash Patel | [Read More](https://medium.com/p/22b7de775646) |
 | Sun, 21 Dec 2025 08:16:57 GMT | I Passed OSCP+ Because of ONE Purchase — If You’re Preparing, Don’t Miss This | Jordan Hale Research | [Read More](https://medium.com/p/e81660159b4d) |
 | Sun, 21 Dec 2025 08:12:20 GMT | 7 Powerful Data Sovereignty Compliance Moves | Pentest_Testing_Corp | [Read More](https://medium.com/p/853992205090) |
 | Sun, 21 Dec 2025 08:02:24 GMT | The “Good Enough” Loading State is No Longer Good Enough | Godfrey Lebo | [Read More](https://medium.com/p/896e176e4a60) |
@@ -107,9 +113,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sat, 20 Dec 2025 19:32:45 GMT | Japan Didn’t Rearm With Tanks — It Rewired the Indo-Pacific With Contracts | Vivek Anand | [Read More](https://medium.com/p/0cc76c42dba9) |
 | Sat, 20 Dec 2025 19:32:13 GMT | TryHackMe Writeup: Chill Hack | Berkay AĞGÜL | [Read More](https://medium.com/p/9798895cc47e) |
 | Sat, 20 Dec 2025 19:26:14 GMT | PortSwigger Web Security Academy — Lab Write-Up 1 | 0xM3d0din | [Read More](https://medium.com/p/3baf9055a3ce) |
-| Sat, 20 Dec 2025 19:17:47 GMT | Advent of Cyber 2025 Day 20 - TryHackMe - Race Conditions - Toy to The World - WriteUp | Axoloth | [Read More](https://medium.com/p/f2b034cb6c48) |
-| Sat, 20 Dec 2025 19:15:50 GMT | I Built a Single Frida Script that Automates OWASP Mobile Security Testing | Raj Prasad Kuiri | [Read More](https://medium.com/p/7b26bb5f336a) |
-| Sat, 20 Dec 2025 19:15:10 GMT | Cybersecurity Mindest | Igor Berner | [Read More](https://medium.com/p/cc6157f870cf) |
-| Sat, 20 Dec 2025 19:04:36 GMT | Day 94: My younger brother is a better hacker than I | Nile Okomo | [Read More](https://medium.com/p/8760bf3f4c06) |
-| Sat, 20 Dec 2025 19:04:12 GMT | The Only AI Infrastructure Platform Ready for PQFIF 2035 — and Why That Matters Right Now | DUDE Technologies | [Read More](https://medium.com/p/5881f570b4ce) |
-| Sat, 20 Dec 2025 19:03:57 GMT | How I Passed OSCP+ on First Attempt: A Complete Preparation Guide | Krishnakant Sharma | [Read More](https://medium.com/p/1b07d10fd769) |
