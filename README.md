@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 20:21:53 GMT | Hacking the iOS system keyboard | Matej Kokošinek | [Read More](https://medium.com/p/fd95d80468d4) |
+| Sun, 21 Dec 2025 19:51:10 GMT | PortSwigger Web Security Academy — Lab Write-Up 2 | 0xM3d0din | [Read More](https://medium.com/p/61d2b2105c4f) |
+| Sun, 21 Dec 2025 19:42:57 GMT | A Comprehensive Guide to Python Virtual Environments with venv | Tareshsharma | [Read More](https://medium.com/p/4efed265767d) |
 | Sun, 21 Dec 2025 19:20:09 GMT | Aglarin Dilini Cozmek: Nmap ile Ilk Adimlar | Umut Baran Yavuz | [Read More](https://medium.com/p/60f29b968767) |
 | Sun, 21 Dec 2025 19:14:45 GMT | How Subscription Models Are Reshaping App Retention | Labeeb Ali | [Read More](https://medium.com/p/11813c4754a5) |
 | Sun, 21 Dec 2025 19:10:38 GMT | Hack The Box University CTF 2025: Tinsel Trouble | Syed Dawood | [Read More](https://medium.com/p/b72d8cd82be9) |
@@ -111,7 +114,3 @@ Unmasking the Cover-Up: How Frax Finance… | Clarkcorrin | [Read More](https://
 | Sun, 21 Dec 2025 12:25:40 GMT | IP Subnetting ve VLSM : Alt Ağlara Bölme Mantığı ve Hesaplamaları | FerhatÖzdemir | [Read More](https://medium.com/p/2b202082d66e) |
 | Sun, 21 Dec 2025 12:23:41 GMT | WordPress Security | Abdul Mubin | [Read More](https://medium.com/p/8424efc36926) |
 | Sun, 21 Dec 2025 12:20:58 GMT | VulnHub — The Planets: Mercury Writeup - By Priyank Rastogi - Technical404 - Hacker Priyank | Priyank Rastogi | [Read More](https://medium.com/p/2de50a332c63) |
-| Sun, 21 Dec 2025 12:17:34 GMT | 10 Smallest Hacker Gadgets Used in Ethical Hacking and Penetration Testing | EINITIAL24 | [Read More](https://medium.com/p/12f72b242cbd) |
-| Sun, 21 Dec 2025 12:12:49 GMT | Day 139 — Behemoth Level-1 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/2dbacf0f512c) |
-| Sun, 21 Dec 2025 12:09:27 GMT | Top 10 Cybersecurity Training Institutes in India
-1. | Ankit rai | [Read More](https://medium.com/p/351c652b3d9c) |
