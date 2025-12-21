@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 19:20:09 GMT | Aglarin Dilini Cozmek: Nmap ile Ilk Adimlar | Umut Baran Yavuz | [Read More](https://medium.com/p/60f29b968767) |
+| Sun, 21 Dec 2025 19:14:45 GMT | How Subscription Models Are Reshaping App Retention | Labeeb Ali | [Read More](https://medium.com/p/11813c4754a5) |
+| Sun, 21 Dec 2025 19:10:38 GMT | Hack The Box University CTF 2025: Tinsel Trouble | Syed Dawood | [Read More](https://medium.com/p/b72d8cd82be9) |
 | Sun, 21 Dec 2025 19:10:22 GMT | The Future: A Superfluous Way of Thinking | Mariaclaudialima | [Read More](https://medium.com/p/517dd64c0610) |
 | Sun, 21 Dec 2025 19:03:45 GMT | HTB University CTF 2025: Tinsel Trouble Forensics & Coding Challenges | Loay Salah | [Read More](https://medium.com/p/744079ee21d5) |
 | Sun, 21 Dec 2025 18:56:08 GMT | *Water, Security and Climate: New challenges for South Asia* | Siraj Karam Pitafi | [Read More](https://medium.com/p/4a58bbd4c8f2) |
@@ -112,6 +115,3 @@ Unmasking the Cover-Up: How Frax Finance… | Clarkcorrin | [Read More](https://
 | Sun, 21 Dec 2025 12:12:49 GMT | Day 139 — Behemoth Level-1 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/2dbacf0f512c) |
 | Sun, 21 Dec 2025 12:09:27 GMT | Top 10 Cybersecurity Training Institutes in India
 1. | Ankit rai | [Read More](https://medium.com/p/351c652b3d9c) |
-| Sun, 21 Dec 2025 12:06:53 GMT | The Field Guide to Black-Box Prediction -The Fifteen Rules | Mitchell D McPhetridge | [Read More](https://medium.com/p/d097763b4b5e) |
-| Sun, 21 Dec 2025 12:04:32 GMT | OPNsense Firewall in VirtualBox: Beginner Walkthrough | Declan | [Read More](https://medium.com/p/0d75071062cc) |
-| Sun, 21 Dec 2025 11:59:32 GMT | A Beginner-Friendly Collection of Damn Vulnerable Applications | 0xMaximux | [Read More](https://medium.com/p/7e0176e1b2d5) |
