@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 13:21:32 GMT | Bug Bounty Bootcamp: From Zero to Finding Your First Vulnerability | Aman Sharma | [Read More](https://medium.com/p/bcf6b9ae515a) |
+| Sun, 21 Dec 2025 13:20:54 GMT | FRAX FINANCE: The Stealth Patch & The Stolen Bounty
+Unmasking the Cover-Up: How Frax Finance… | Clarkcorrin | [Read More](https://medium.com/p/c52137d4c9c2) |
+| Sun, 21 Dec 2025 13:19:36 GMT | Intro to AWS IAM Enumeration : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/5cea0720dc47) |
+| Sun, 21 Dec 2025 13:06:33 GMT | All you need to know about Security Copilot Agents: Part 4 | Yash Mudaliar | [Read More](https://medium.com/p/ca402663e80b) |
+| Sun, 21 Dec 2025 13:05:11 GMT | Setting up CIS Benchmark Hardening through Qualys for Baseline Configuration Management: Product… | Cyberspecs | [Read More](https://medium.com/p/80439bbbff0a) |
+| Sun, 21 Dec 2025 13:02:33 GMT | The Ethics and Utility of Blockchain: Security, Trust, and Long-Term Value | Riya Barman | [Read More](https://medium.com/p/273b5f6d9d85) |
+| Sun, 21 Dec 2025 12:59:34 GMT | Data And Detect | Matthew Stevens | [Read More](https://medium.com/p/d64530181156) |
+| Sun, 21 Dec 2025 12:56:18 GMT | ️ Siber Güvenliğin Savunma Kalkanı: Blue Team (Mavi Takım) Nedir? | HSDEBYU | [Read More](https://medium.com/p/90ce31259b86) |
+| Sun, 21 Dec 2025 12:53:34 GMT | [CyberDefenders Write-up] XLMRat Lab | OxMotaw3 | [Read More](https://medium.com/p/4503a5f44030) |
+| Sun, 21 Dec 2025 12:52:09 GMT | SOC Workflow in Practice: Triage and Investigation with OpenCTI | Erebus | [Read More](https://medium.com/p/4a953ae5035c) |
+| Sun, 21 Dec 2025 12:50:33 GMT | ️‍♂️ Reading JavaScript Like a Hacker | Purushotham.R | [Read More](https://medium.com/p/0d77acae5a68) |
 | Sun, 21 Dec 2025 12:38:03 GMT | Fixing Kali Linux apt update Errors (404 / NO_PUBKEY) — Step-by-Step POC | Prakash Thakur | [Read More](https://medium.com/p/3e03c36a5187) |
+| Sun, 21 Dec 2025 12:31:22 GMT | When Trust Becomes the Attack Surface: Internal Network Denial of Service | Abhishek Birdawade | [Read More](https://medium.com/p/3bcd82b60492) |
 | Sun, 21 Dec 2025 12:25:40 GMT | IP Subnetting ve VLSM : Alt Ağlara Bölme Mantığı ve Hesaplamaları | FerhatÖzdemir | [Read More](https://medium.com/p/2b202082d66e) |
 | Sun, 21 Dec 2025 12:23:41 GMT | WordPress Security | Abdul Mubin | [Read More](https://medium.com/p/8424efc36926) |
 | Sun, 21 Dec 2025 12:20:58 GMT | VulnHub — The Planets: Mercury Writeup - By Priyank Rastogi - Technical404 - Hacker Priyank | Priyank Rastogi | [Read More](https://medium.com/p/2de50a332c63) |
@@ -103,15 +116,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sun, 21 Dec 2025 03:32:40 GMT | When a Simple Document Reader Turns Dangerous: Lessons from a Malicious Android App on Google Play | Deven Chhajed | [Read More](https://medium.com/p/b6dd5080b5bb) |
 | Sun, 21 Dec 2025 03:31:06 GMT | What Undersea Internet Cables Reveal About the Internet | Nithi Byreddy | [Read More](https://medium.com/p/240884ee1415) |
 | Sun, 21 Dec 2025 03:07:17 GMT | Smarter models can be more vulnerable to prompt injection attacks | Suchitra Malimbada | [Read More](https://medium.com/p/008d4c4d066e) |
-| Sun, 21 Dec 2025 02:52:43 GMT | Excited to announce BugHQ — An all-in-one platform for security researchers! HTB | BBHunterpk | [Read More](https://medium.com/p/0e8bf1ccd9fc) |
-| Sun, 21 Dec 2025 02:47:04 GMT | Why New Computers Fail Long Before They Should | Geoffrey Wenger | [Read More](https://medium.com/p/f9b78cd6e7fa) |
-| Sun, 21 Dec 2025 02:47:01 GMT | Malware Hid Inside Firefox Addon Logos And Went Unnoticed | Geoffrey Wenger | [Read More](https://medium.com/p/1255cb3893ad) |
-| Sun, 21 Dec 2025 02:46:44 GMT | Sempre existe uma saída. Basta não desistir de procurar. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/e5f47093f212) |
-| Sun, 21 Dec 2025 02:36:56 GMT | Só compreendemos verdadeiramente alguém quando vivemos algo parecido. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/7f043c04b392) |
-| Sun, 21 Dec 2025 02:36:51 GMT | Operationalizing the CoSAI Risk Map (CoSAI-RM) | Omar Santos | [Read More](https://medium.com/p/c47a6db128c6) |
-| Sun, 21 Dec 2025 02:36:33 GMT | Controls & Consequences | Rob Contant | [Read More](https://medium.com/p/ec4590602680) |
-| Sun, 21 Dec 2025 02:31:30 GMT | AI Governance Is Being Rebuilt as Enforced Infrastructure | Nathaniel Niyazov | [Read More](https://medium.com/p/e5ad9f6faef6) |
-| Sun, 21 Dec 2025 02:22:43 GMT | Stateful Analysis for Firewalls ️ | Esra Kayhan | [Read More](https://medium.com/p/f5bdd124f0ad) |
-| Sun, 21 Dec 2025 01:46:08 GMT | Nike’s CTO Move Shows How Leadership Is Changing | Ali Elmalı | [Read More](https://medium.com/p/787b1a3b9654) |
-| Sun, 21 Dec 2025 01:32:18 GMT | Secure Headers, Fast Pages: The JS Checklist | Bhagya Rana | [Read More](https://medium.com/p/0d3fb288fe79) |
-| Sun, 21 Dec 2025 01:28:31 GMT | I Trusted the AI Too Early. Production Taught Me Otherwise. | CodeWithYog | [Read More](https://medium.com/p/5b2399b7d850) |
