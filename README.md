@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 06:14:07 GMT | The Version of Me You Think You Understand Is Dead | KV | [Read More](https://medium.com/p/7dd86628d573) |
+| Sun, 21 Dec 2025 06:01:15 GMT | India Faces Rising Cyber Threats: Why Cybersecurity Jobs Are Booming in 2025
+India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8ebda6) |
+| Sun, 21 Dec 2025 05:55:19 GMT | Why Schools and Universities in Nigeria Need Smarter Protection Systems Today | Anslem Eromobor | [Read More](https://medium.com/p/52e2a27f1ac8) |
+| Sun, 21 Dec 2025 05:48:35 GMT | ShinyHunters, Scattered LAPSUS$ Hunters, and the Post-Arrest Identity Crisis: A CTI Perspective | Vardhan Gss | [Read More](https://medium.com/p/3e119d8c9fd5) |
 | Sun, 21 Dec 2025 05:27:16 GMT | Hands-On Exploitation of the “Sunset” Vulnerable Machine | Alfykannoth | [Read More](https://medium.com/p/fee2914c5bba) |
 | Sun, 21 Dec 2025 05:22:16 GMT | SubDog : Subdomain Enumeration | Abhirup Konwar | [Read More](https://medium.com/p/c5eb419d9e7b) |
 | Sun, 21 Dec 2025 05:13:26 GMT | 3 AM War Rooms: My Life as a Cybersecurity Incident Responder | Gowtham Nesamani B | [Read More](https://medium.com/p/d24022ce9094) |
@@ -29,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Dec 2025 02:47:04 GMT | Why New Computers Fail Long Before They Should | Geoffrey Wenger | [Read More](https://medium.com/p/f9b78cd6e7fa) |
 | Sun, 21 Dec 2025 02:47:01 GMT | Malware Hid Inside Firefox Addon Logos And Went Unnoticed | Geoffrey Wenger | [Read More](https://medium.com/p/1255cb3893ad) |
 | Sun, 21 Dec 2025 02:46:44 GMT | Sempre existe uma saída. Basta não desistir de procurar. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/e5f47093f212) |
+| Sun, 21 Dec 2025 02:36:56 GMT | Só compreendemos verdadeiramente alguém quando vivemos algo parecido. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/7f043c04b392) |
 | Sun, 21 Dec 2025 02:36:51 GMT | Operationalizing the CoSAI Risk Map (CoSAI-RM) | Omar Santos | [Read More](https://medium.com/p/c47a6db128c6) |
 | Sun, 21 Dec 2025 02:36:33 GMT | Controls & Consequences | Rob Contant | [Read More](https://medium.com/p/ec4590602680) |
 | Sun, 21 Dec 2025 02:31:30 GMT | AI Governance Is Being Rebuilt as Enforced Infrastructure | Nathaniel Niyazov | [Read More](https://medium.com/p/e5ad9f6faef6) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 17:17:48 GMT | I Thought Encryption Was Enough. It Wasn’t. | Shivendra Mishra | [Read More](https://medium.com/p/99aa3ce4f5bc) |
 | Sat, 20 Dec 2025 17:13:33 GMT | I Automated My Cybersecurity News Feed. Here’s What Actually Happened | CyberCraft | [Read More](https://medium.com/p/fe486c16ec18) |
 | Sat, 20 Dec 2025 17:10:40 GMT | PATH Hijacking Privilege Escalation — THM “Eavesdropper” Room | Ajmir khan | [Read More](https://medium.com/p/be721cdc8c4d) |
-| Sat, 20 Dec 2025 17:01:16 GMT | What Are Weights & Bias in AI? (Explained in the Easiest Way Ever) | Prapti Vahia | [Read More](https://medium.com/p/f705315e0824) |
-| Sat, 20 Dec 2025 16:58:22 GMT | TryHackMe — MD2PDF Walkthrough (Understanding the Vulnerability, Not Just the Flag) | 4renSick | [Read More](https://medium.com/p/9d48426dff76) |
-| Sat, 20 Dec 2025 16:58:20 GMT | What You & Your Colleagues Don’t Know About AI Yet | Mumme Fanaei | [Read More](https://medium.com/p/f3639c04af3d) |
-| Sat, 20 Dec 2025 16:56:01 GMT | How I Passed OSCP+ on My First Attempt — The Exact Workflow, Tools, and Notes That Helped Me… | Alex Warren Security | [Read More](https://medium.com/p/1e282bc81e1a) |
-| Sat, 20 Dec 2025 16:51:41 GMT | The Return of On-Prem: Why Companies Are Quietly Pulling Back from the Cloud | Travis Ray Caverhill | [Read More](https://medium.com/p/1cf1b891938c) |
