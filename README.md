@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 17:31:42 GMT | ML in Cybersecurity: From Threat Detection to Automated Response | Nayan Goel | [Read More](https://medium.com/p/ad6958e4fbbb) |
+| Sun, 21 Dec 2025 17:29:22 GMT | A laptop keyboard is far more than a set of keys for typing letters. | Premchandra | [Read More](https://medium.com/p/75853b459f6a) |
+| Sun, 21 Dec 2025 17:24:31 GMT | Clop Exploits CentreStack File Servers to Steal Corporate Data at Scale | Chetan Seripally | [Read More](https://medium.com/p/2c7bd5fc0d71) |
+| Sun, 21 Dec 2025 17:20:13 GMT | Building Trace Guard: A Beginner-Friendly Blue Team Log Analysis Project Using Python | Aravind | [Read More](https://medium.com/p/a1d6b0de13cd) |
+| Sun, 21 Dec 2025 17:19:41 GMT | ✨From Chaos to Control: Designing a Secure IAM Governance Model for a Growing Company on AWS | Root2Revenue | [Read More](https://medium.com/p/e5d91aa19be5) |
 | Sun, 21 Dec 2025 17:14:43 GMT | Everyone Tested the Login Page — I Tested the Logout Button Instead | Iski | [Read More](https://medium.com/p/3500c4168b67) |
 | Sun, 21 Dec 2025 17:10:46 GMT | SQL injection vulnerability allowing login bypass | PriOFF | [Read More](https://medium.com/p/8d7750779237) |
 | Sun, 21 Dec 2025 17:09:50 GMT | [HackSmarter.org Write-up] MidGarden2 (BadSuccessor exploitation) | Chicken0248 | [Read More](https://medium.com/p/caf53d14bd9b) |
@@ -24,10 +29,12 @@ Hardening Docker Images | Olha Stefanishyna | [Read More](https://medium.com/p/d
 | Sun, 21 Dec 2025 16:45:04 GMT | Beyond the “Deploy” Button | Creepus | [Read More](https://medium.com/p/cc46f050f365) |
 | Sun, 21 Dec 2025 16:41:01 GMT | Malhare.exe AOC 2025 Day 21 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/7c59b369c6d4) |
 | Sun, 21 Dec 2025 16:33:41 GMT | MUSPRINT Day 19 — Discovering My Real Boundaries | Ajojose | [Read More](https://medium.com/p/df89f2955477) |
+| Sun, 21 Dec 2025 16:23:15 GMT | Part 41: How to Upload Multiple Files with Different Names in a Single LiveView Form | Kamaro Lambert | [Read More](https://medium.com/p/022bf371a9ed) |
 | Sun, 21 Dec 2025 16:22:31 GMT | An Accidental DevSecOps Engineer | Kapil Yadav | [Read More](https://medium.com/p/03be9ff40e32) |
 | Sun, 21 Dec 2025 16:10:03 GMT | 30 Days of Red Team: Day 13 — Operational Security & Anti-Forensics | Maxwell Cross | [Read More](https://medium.com/p/728df45a09e6) |
 | Sun, 21 Dec 2025 15:59:23 GMT | The Unsexy Truth About Network Security | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/83982f92855a) |
 | Sun, 21 Dec 2025 15:57:12 GMT | The Cryptography Concept Journey — Feistel Network | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1f86b4eadae2) |
+| Sun, 21 Dec 2025 15:48:01 GMT | HashJack 101 — Indirect Prompt Injection Attack | jai sai | [Read More](https://medium.com/p/552f7ce83b11) |
 | Sun, 21 Dec 2025 15:37:35 GMT | AI Upskilling & Workforce Transformation in the UK | Salfistudio | [Read More](https://medium.com/p/c9abd3b906ad) |
 | Sun, 21 Dec 2025 15:35:34 GMT | Bir SOC Analisti Bir Alarmı Nasıl Okur? | Zeynep Demir | [Read More](https://medium.com/p/07c64f75d0b7) |
 | Sun, 21 Dec 2025 15:33:28 GMT | Telegram Bots Are Useful — But at What Cost to Privacy? | Syed Iqbal Ahammad | [Read More](https://medium.com/p/e42ecd6e4a48) |
@@ -109,10 +116,3 @@ How Hidden Compartments Are Redefining Modern Security | Beetle Wood® | [Read M
 | Sun, 21 Dec 2025 10:56:10 GMT | AI and Automation in API Security: From Reactive Defense to Intelligent Protection | Ashwini Puranik | [Read More](https://medium.com/p/c2f2e967e3df) |
 | Sun, 21 Dec 2025 10:56:00 GMT | Why Reliable IT Support for Business Is Essential for Long-Term Growth | Redi for Business | [Read More](https://medium.com/p/e1d912a01841) |
 | Sun, 21 Dec 2025 10:48:50 GMT | Want to be greatness? | Vally | [Read More](https://medium.com/p/97855d89a194) |
-| Sun, 21 Dec 2025 10:40:36 GMT | What Is Networking? | Vally | [Read More](https://medium.com/p/d7c5bf2cdadc) |
-| Sun, 21 Dec 2025 10:30:44 GMT | CVE vs. CVSS: What the Score Tells You (and What It Doesn’t) | Andreas | [Read More](https://medium.com/p/87db2a5ef294) |
-| Sun, 21 Dec 2025 10:28:15 GMT | Leveraging Advanced Cryptographic Algorithms in Unified Diagnostic Services for Autotomive Security | Nbputrevu | [Read More](https://medium.com/p/8a08987a2131) |
-| Sun, 21 Dec 2025 10:21:40 GMT | The Infinite Loop: How I Bypasssed Protection on a Major E-Commerce Giant (And What It Taught Me) | Zer0Figure | [Read More](https://medium.com/p/ea701036d734) |
-| Sun, 21 Dec 2025 10:11:43 GMT | SQL INJECTION AT DVWA(HIGH):WHEN ‘HIGH SECURITY’ ISN’T REALLY SECURE | Sanjivani Dobhal | [Read More](https://medium.com/p/5e189c4af2d5) |
-| Sun, 21 Dec 2025 10:09:54 GMT | From “Valid Bug” to “No Bounty”: VRP, VRT, P4, and P5 on Bugcrowd | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/7897398ebdd2) |
-| Sun, 21 Dec 2025 10:06:31 GMT | Bcrypt Password Verification in Python | AjayPieris | [Read More](https://medium.com/p/382feec3a542) |
