@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 10:30:44 GMT | CVE vs. CVSS: What the Score Tells You (and What It Doesn’t) | Andreas | [Read More](https://medium.com/p/87db2a5ef294) |
+| Sun, 21 Dec 2025 10:28:15 GMT | Leveraging Advanced Cryptographic Algorithms in Unified Diagnostic Services for Autotomive Security | Nbputrevu | [Read More](https://medium.com/p/8a08987a2131) |
+| Sun, 21 Dec 2025 10:21:40 GMT | The Infinite Loop: How I Bypasssed Protection on a Major E-Commerce Giant (And What It Taught Me) | Zer0Figure | [Read More](https://medium.com/p/ea701036d734) |
 | Sun, 21 Dec 2025 10:11:43 GMT | SQL INJECTION AT DVWA(HIGH):WHEN ‘HIGH SECURITY’ ISN’T REALLY SECURE | Sanjivani Dobhal | [Read More](https://medium.com/p/5e189c4af2d5) |
 | Sun, 21 Dec 2025 10:09:54 GMT | From “Valid Bug” to “No Bounty”: VRP, VRT, P4, and P5 on Bugcrowd | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/7897398ebdd2) |
 | Sun, 21 Dec 2025 10:06:31 GMT | Bcrypt Password Verification in Python | AjayPieris | [Read More](https://medium.com/p/382feec3a542) |
@@ -110,6 +113,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sat, 20 Dec 2025 20:44:09 GMT | Scaling Cloud Security: Enabling AWS GuardDuty Across All Accounts and Regions | Niraj Kumar | [Read More](https://medium.com/p/2aae3fb995a8) |
 | Sat, 20 Dec 2025 20:38:14 GMT | France Interior Ministry Cyber Breach 2025: How Hackers Quietly Accessed Police Databases | O. J. Okpabi | [Read More](https://medium.com/p/ce71744e0927) |
 | Sat, 20 Dec 2025 20:37:12 GMT | Barts Health NHS Trust Attack Explained: Data Theft, Dark Web Exposure, And What Happened | O. J. Okpabi | [Read More](https://medium.com/p/173f05daef31) |
-| Sat, 20 Dec 2025 20:34:53 GMT | Digital Information Technology: Meaning, Importance, Benefits, and Future Scope | Ali Joyia | [Read More](https://medium.com/p/55a8838162d9) |
-| Sat, 20 Dec 2025 20:33:42 GMT | Get Ready for PQC Digital Certificates | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/285daef9d7ec) |
-| Sat, 20 Dec 2025 20:32:52 GMT | Road TryHackMe Room | Dharmendrakumar | [Read More](https://medium.com/p/cd3a6bf9c466) |
