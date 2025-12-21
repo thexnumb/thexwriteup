@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 23:23:26 GMT | The Dirty Secret of Observability: Why Your 10,000 Agents Are a Security Time Bomb (And How OpAMP… | TheRunBook | [Read More](https://medium.com/p/8f89a0848415) |
 | Sun, 21 Dec 2025 23:04:48 GMT | When You Post, You Become the Target | Sam Galope | [Read More](https://medium.com/p/98fee7abc095) |
 | Sun, 21 Dec 2025 22:59:54 GMT | Best Crypto Asset Recovery Service Providers: Top Firms to Retrieve Lost Bitcoin: Reach Out To… | Kevin Braiw | [Read More](https://medium.com/p/024bcca4d4b8) |
 | Sun, 21 Dec 2025 22:58:13 GMT | DISCLAIMER: All views expressed in the article are my own and the documentary that inspired this… | Moe | [Read More](https://medium.com/p/85f888ad5e15) |
@@ -112,4 +113,3 @@ Hardening Docker Images | Olha Stefanishyna | [Read More](https://medium.com/p/d
 | Sun, 21 Dec 2025 14:26:46 GMT | The Transport & Application Layer — Network series 3 | Mr.Cool | [Read More](https://medium.com/p/564e351dd623) |
 | Sun, 21 Dec 2025 14:20:51 GMT | Your First 30 Days With Northwave | Fook Hwa Tan | [Read More](https://medium.com/p/df8509856333) |
 | Sun, 21 Dec 2025 14:19:06 GMT | Choose Your Path: Strategy, Response, or Long-Term Partnership — 5 Ways to Work With Us (Depending… | Fook Hwa Tan | [Read More](https://medium.com/p/6d3f4568e9a5) |
-| Sun, 21 Dec 2025 14:18:32 GMT | Combat Forces Command Creates New Ops Centers for SATCOM and EW | Defence Affairs & Analysis | [Read More](https://medium.com/p/95d351f6d39c) |
