@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 18:20:52 GMT | Cybersecurity in the Isle of Man: What Local Businesses Must Know in 2026 | Just Technology Consulting Ltd | [Read More](https://medium.com/p/442cc8c9780c) |
+| Sun, 21 Dec 2025 18:17:25 GMT | How Defensive Thinking Changes the Way You Build | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/17ff6a4b4cc0) |
+| Sun, 21 Dec 2025 18:07:18 GMT | Advent of Cyber 2025 - Day 21: Malware Analysis — Malhare.exe | D4m.sh | [Read More](https://medium.com/p/977a870d7506) |
+| Sun, 21 Dec 2025 18:05:51 GMT | About Faysal Ahmed — Your WordPress Security Partner | Faysal Ahmed | [Read More](https://medium.com/p/fbe2f6e0501d) |
+| Sun, 21 Dec 2025 18:04:09 GMT | Week 1: Installing & Hardening Kali Linux | scriptpy | [Read More](https://medium.com/p/2e5322340530) |
+| Sun, 21 Dec 2025 18:02:31 GMT | The Future of Cybersecurity: What You Need to Know in 2025 | Cyber Punk | [Read More](https://medium.com/p/a7ffe65faf25) |
+| Sun, 21 Dec 2025 17:50:10 GMT | Unbounded Agent Execution can result in Denial-of-Service Attacks | Parminder Singh | [Read More](https://medium.com/p/bfe22b240f6f) |
+| Sun, 21 Dec 2025 17:49:57 GMT | ✨ JavaScript hasOwnProperty() Explained: Protecting Your Objects the Right Way | Natarajan C K | [Read More](https://medium.com/p/001d0e7d3095) |
+| Sun, 21 Dec 2025 17:46:55 GMT | Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence | Abstract Mind | [Read More](https://medium.com/p/d81d31fe3e24) |
+| Sun, 21 Dec 2025 17:41:35 GMT | Global Cybersecurity Crisis 2025: Black Hat Hackers’ Activities, Targeted Companies, and… | Mdrashedulsumon | [Read More](https://medium.com/p/7aabff78fd34) |
 | Sun, 21 Dec 2025 17:31:42 GMT | ML in Cybersecurity: From Threat Detection to Automated Response | Nayan Goel | [Read More](https://medium.com/p/ad6958e4fbbb) |
 | Sun, 21 Dec 2025 17:29:22 GMT | A laptop keyboard is far more than a set of keys for typing letters. | Premchandra | [Read More](https://medium.com/p/75853b459f6a) |
 | Sun, 21 Dec 2025 17:24:31 GMT | Clop Exploits CentreStack File Servers to Steal Corporate Data at Scale | Chetan Seripally | [Read More](https://medium.com/p/2c7bd5fc0d71) |
@@ -106,13 +116,3 @@ How Hidden Compartments Are Redefining Modern Security | Beetle Wood® | [Read M
 | Sun, 21 Dec 2025 11:33:10 GMT | Shield Your FastAPI: 7 Essential Middleware to Stop Hackers in Their Tracks | Sizan Mahmud | [Read More](https://medium.com/p/e590a047f615) |
 | Sun, 21 Dec 2025 11:32:59 GMT | Your Python App Is Probably Leaking Something — Run These 7 Commands | Dorian Sotpyrc | [Read More](https://medium.com/p/fe81a6705a25) |
 | Sun, 21 Dec 2025 11:30:00 GMT | Lock VM Walkthrough | Spookz | [Read More](https://medium.com/p/a7a6730fa4f9) |
-| Sun, 21 Dec 2025 11:18:55 GMT | Penetration Mobile — ADB Command Basic | Bima Aditya Arya G | [Read More](https://medium.com/p/d564d05e38c0) |
-| Sun, 21 Dec 2025 11:17:47 GMT | Cracking the Code: A Walkthrough of the Fam Product Security Challenge | Nishith P | [Read More](https://medium.com/p/21c296bd219d) |
-| Sun, 21 Dec 2025 11:14:56 GMT | Navigating the Information Age | Mukundarajan V N | [Read More](https://medium.com/p/c26689d41da3) |
-| Sun, 21 Dec 2025 11:11:52 GMT | Linux’ta Dosya ve Dizin Bulma Yöntemleri | g.o. | [Read More](https://medium.com/p/e13a8e25694e) |
-| Sun, 21 Dec 2025 11:07:16 GMT | Security Architecture Mistakes Even Experienced Teams Make | Muhammad Haider Tallal | [Read More](https://medium.com/p/e81130fa5128) |
-| Sun, 21 Dec 2025 11:06:44 GMT | Passive vs Active Recon: When to Use Each and Why It Matters | Aj | [Read More](https://medium.com/p/2aabb3e428ca) |
-| Sun, 21 Dec 2025 11:06:15 GMT | Network Reconnaissance: The Art of Digital Surveillance | Satyam Singh | [Read More](https://medium.com/p/a34d6cfc2524) |
-| Sun, 21 Dec 2025 10:56:10 GMT | AI and Automation in API Security: From Reactive Defense to Intelligent Protection | Ashwini Puranik | [Read More](https://medium.com/p/c2f2e967e3df) |
-| Sun, 21 Dec 2025 10:56:00 GMT | Why Reliable IT Support for Business Is Essential for Long-Term Growth | Redi for Business | [Read More](https://medium.com/p/e1d912a01841) |
-| Sun, 21 Dec 2025 10:48:50 GMT | Want to be greatness? | Vally | [Read More](https://medium.com/p/97855d89a194) |
