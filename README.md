@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 13:39:42 GMT | Insecure Coding- MFA-- TryHackMe Writeups | Aakash Rajput | [Read More](https://medium.com/p/56421539c28c) |
+| Sun, 21 Dec 2025 13:33:48 GMT | Bug Beauty Manager — how to use GitOps for solving security tooling testing and pipeline scaling | Dimitar Vassilev | [Read More](https://medium.com/p/7ce0fb1e39d2) |
+| Sun, 21 Dec 2025 13:33:38 GMT | Ethical hacking and its frameworks, how we can find a job in this field in the future, how we can… | Zohaibsaeed | [Read More](https://medium.com/p/146567ded0ca) |
+| Sun, 21 Dec 2025 13:31:20 GMT | Like-New Ring Alarm 8-Piece Kit: Real Home Security Without the High Price | PinGoodies | [Read More](https://medium.com/p/31f55a7cdf09) |
+| Sun, 21 Dec 2025 13:24:50 GMT | The Aladdin Zero-Click Ad-Based Infection Vector and the Modern Mercenary Spyware Ecosystem | David SEHYEON Baek | [Read More](https://medium.com/p/1c07878b0ac0) |
+| Sun, 21 Dec 2025 13:21:50 GMT | The Digital Panopticon: When ‘Child Safety’ Becomes Mass Surveillance | DigitalSparky | [Read More](https://medium.com/p/3fc5b8d3c74d) |
 | Sun, 21 Dec 2025 13:21:32 GMT | Bug Bounty Bootcamp: From Zero to Finding Your First Vulnerability | Aman Sharma | [Read More](https://medium.com/p/bcf6b9ae515a) |
 | Sun, 21 Dec 2025 13:20:54 GMT | FRAX FINANCE: The Stealth Patch & The Stolen Bounty
 Unmasking the Cover-Up: How Frax Finance… | Clarkcorrin | [Read More](https://medium.com/p/c52137d4c9c2) |
@@ -110,9 +116,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sun, 21 Dec 2025 05:06:50 GMT | How to bypass Windows network setup how to use the oobe\bypassnro (setup Windows 11 with a local… | We the People | [Read More](https://medium.com/p/bc970fb5d73d) |
 | Sun, 21 Dec 2025 05:00:22 GMT | RCE via Insecure JS Sandbox Bypass | Bipin Jitiya | [Read More](https://medium.com/p/a26ad6364112) |
 | Sun, 21 Dec 2025 04:46:26 GMT | From Heuristics to Specialized Models: How I Bulletproofed an AI Agent with Qwen-Guard | Sergio Toro | [Read More](https://medium.com/p/5b230e7faf79) |
-| Sun, 21 Dec 2025 04:32:43 GMT | Studi Kasus Implementasi Odoo Enterprise untuk Optimalisasi CRM, Operasional, dan Knowledge… | Vania Setyorini Purba | [Read More](https://medium.com/p/b94698442640) |
-| Sun, 21 Dec 2025 04:18:17 GMT | Fully Comprehend Reconnaissance Techniques as the Foundational Phase of Ethical Hacking | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8c2d5863b3af) |
-| Sun, 21 Dec 2025 04:10:41 GMT | Metasploitable 3 (Windows) Write-up — Part [IX]: Port 5985 — Windows Remote Management Exploitation | Kalash Kundaliya | [Read More](https://medium.com/p/cbe33775c451) |
-| Sun, 21 Dec 2025 03:32:40 GMT | When a Simple Document Reader Turns Dangerous: Lessons from a Malicious Android App on Google Play | Deven Chhajed | [Read More](https://medium.com/p/b6dd5080b5bb) |
-| Sun, 21 Dec 2025 03:31:06 GMT | What Undersea Internet Cables Reveal About the Internet | Nithi Byreddy | [Read More](https://medium.com/p/240884ee1415) |
-| Sun, 21 Dec 2025 03:07:17 GMT | Smarter models can be more vulnerable to prompt injection attacks | Suchitra Malimbada | [Read More](https://medium.com/p/008d4c4d066e) |
