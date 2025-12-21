@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 21:24:40 GMT | TryHackMe Writeup: All in One | Berkay AĞGÜL | [Read More](https://medium.com/p/299ddc96b119) |
 | Sun, 21 Dec 2025 21:16:45 GMT | I Made $11K on a TikTok Bug Bounty | Codi | [Read More](https://medium.com/p/30da9a14af84) |
+| Sun, 21 Dec 2025 21:15:10 GMT | Why Cybersecurity Beginners Fail (3 Common Mistakes) | Shahzaib | [Read More](https://medium.com/p/6273a80be00d) |
+| Sun, 21 Dec 2025 21:13:16 GMT | ‍☠️ Top Free Tools That Can Make You $1000/Month in Bug Bounty | Vipul Sonule | [Read More](https://medium.com/p/f3ad113d8d64) |
 | Sun, 21 Dec 2025 21:12:19 GMT | I Found My First Bugs in 48 Hours: A Beginner’s Real-World Guide | Codi | [Read More](https://medium.com/p/3c9edbf4fe36) |
 | Sun, 21 Dec 2025 21:03:36 GMT | Network 101'den Siber Güvenliğe Kısım 2 | Mustafa San | [Read More](https://medium.com/p/ec64e45039fa) |
 | Sun, 21 Dec 2025 20:59:54 GMT | Building and Securing a Linux Apache Web Server | Felicity Lois | [Read More](https://medium.com/p/09c24615fd09) |
@@ -110,6 +113,3 @@ Hardening Docker Images | Olha Stefanishyna | [Read More](https://medium.com/p/d
 | Sun, 21 Dec 2025 13:46:03 GMT | CyberChef — Hoperation Save McSkidy - AoC 2025 Day — 17 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/36da8ea3caae) |
 | Sun, 21 Dec 2025 13:39:42 GMT | Insecure Coding- MFA-- TryHackMe Writeups | Aakash Rajput | [Read More](https://medium.com/p/56421539c28c) |
 | Sun, 21 Dec 2025 13:33:48 GMT | Bug Beauty Manager — how to use GitOps for solving security tooling testing and pipeline scaling | Dimitar Vassilev | [Read More](https://medium.com/p/7ce0fb1e39d2) |
-| Sun, 21 Dec 2025 13:33:38 GMT | Ethical hacking and its frameworks, how we can find a job in this field in the future, how we can… | Zohaibsaeed | [Read More](https://medium.com/p/146567ded0ca) |
-| Sun, 21 Dec 2025 13:31:20 GMT | Like-New Ring Alarm 8-Piece Kit: Real Home Security Without the High Price | PinGoodies | [Read More](https://medium.com/p/31f55a7cdf09) |
-| Sun, 21 Dec 2025 13:24:50 GMT | The Aladdin Zero-Click Ad-Based Infection Vector and the Modern Mercenary Spyware Ecosystem | David SEHYEON Baek | [Read More](https://medium.com/p/1c07878b0ac0) |
