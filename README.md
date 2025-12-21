@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 16:33:41 GMT | MUSPRINT Day 19 — Discovering My Real Boundaries | Ajojose | [Read More](https://medium.com/p/df89f2955477) |
+| Sun, 21 Dec 2025 16:22:31 GMT | An Accidental DevSecOps Engineer | Kapil Yadav | [Read More](https://medium.com/p/03be9ff40e32) |
 | Sun, 21 Dec 2025 16:10:03 GMT | 30 Days of Red Team: Day 13 — Operational Security & Anti-Forensics | Maxwell Cross | [Read More](https://medium.com/p/728df45a09e6) |
 | Sun, 21 Dec 2025 15:59:23 GMT | The Unsexy Truth About Network Security | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/83982f92855a) |
 | Sun, 21 Dec 2025 15:57:12 GMT | The Cryptography Concept Journey — Feistel Network | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1f86b4eadae2) |
@@ -113,5 +115,3 @@ How Hidden Compartments Are Redefining Modern Security | Beetle Wood® | [Read M
 | Sun, 21 Dec 2025 08:32:18 GMT | The 60-Minute Incident Runbook After You Find Leaked Employee Logins | Alexandre Vandamme | [Read More](https://medium.com/p/f38952f68029) |
 | Sun, 21 Dec 2025 08:26:49 GMT | The Digital Detective’s Arsenal: Essential Tools for Forensics & Investigation | eRRoR | [Read More](https://medium.com/p/d593083b39be) |
 | Sun, 21 Dec 2025 08:25:50 GMT | I Exposed My MySQL Database to the Internet (It Was a Bad Idea ) | Tanish Raj | [Read More](https://medium.com/p/5d156d4418f6) |
-| Sun, 21 Dec 2025 08:24:47 GMT | How I Investigated a Realistic Web Attack Using PCAP Analysis on CyberDefender’s WebStrike Lab | Fouad Kamildeen-Aransi | [Read More](https://medium.com/p/ec22fb8ba150) |
-| Sun, 21 Dec 2025 08:24:36 GMT | Let’s talk API and AI integration. | Adeoluwa Obadofin | [Read More](https://medium.com/p/e6e0673c8061) |
