@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 01:46:08 GMT | Nike’s CTO Move Shows How Leadership Is Changing | Ali Elmalı | [Read More](https://medium.com/p/787b1a3b9654) |
+| Sun, 21 Dec 2025 01:32:18 GMT | Secure Headers, Fast Pages: The JS Checklist | Bhagya Rana | [Read More](https://medium.com/p/0d3fb288fe79) |
+| Sun, 21 Dec 2025 01:28:31 GMT | I Trusted the AI Too Early. Production Taught Me Otherwise. | CodeWithYog | [Read More](https://medium.com/p/5b2399b7d850) |
+| Sun, 21 Dec 2025 01:24:45 GMT | Alabama Football: The Tide’s Big Comeback and Playoff Momentum | Bilkadiakram | [Read More](https://medium.com/p/225d912922d7) |
+| Sun, 21 Dec 2025 01:23:46 GMT | PicoCTF Writeup — Magikarp Ground Mission | flix | [Read More](https://medium.com/p/5ec2fadeb01d) |
+| Sun, 21 Dec 2025 01:04:43 GMT | Case Study: The Urban VPN Deception | Rajesh Mondal | [Read More](https://medium.com/p/118e2008bc70) |
+| Sun, 21 Dec 2025 01:03:49 GMT | Before The Signature | Jory Sabourin | [Read More](https://medium.com/p/637c62ca545f) |
+| Sun, 21 Dec 2025 00:51:13 GMT | Knife Maintenance Tips for Hunters | Buyer’s Guide Pro | [Read More](https://medium.com/p/73435c73a00f) |
+| Sun, 21 Dec 2025 00:20:08 GMT | How a Simple Token Mistake Led Me to a Full Admin Account Takeover | MOAMEN REZK | [Read More](https://medium.com/p/ea344c195b26) |
+| Sun, 21 Dec 2025 00:04:21 GMT | Coding in Cybersecurity: Two Worlds Colliding for the Future of Technology | Jeremy Lugo | [Read More](https://medium.com/p/0d6716ea7b76) |
+| Sun, 21 Dec 2025 00:01:58 GMT | My New Tool, Web Surface Inspector | Aaronashley | [Read More](https://medium.com/p/54354860e6f1) |
+| Sat, 20 Dec 2025 23:44:50 GMT | Why Most People Use AI Wrong in Cybersecurity | Hania Khan | [Read More](https://medium.com/p/299426a7e4a2) |
+| Sat, 20 Dec 2025 23:44:38 GMT | When One Request Becomes Two: A Deep Dive into HTTP Request Smuggling Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/9a12f29a6418) |
+| Sat, 20 Dec 2025 23:39:13 GMT | The Wounds May Heal, But The Scars Will Always Remains. | althea.hiddenpages | [Read More](https://medium.com/p/d4bd8a47f99b) |
+| Sat, 20 Dec 2025 23:34:54 GMT | Some Friendships Save Your Life | Ronnie Charrier | [Read More](https://medium.com/p/793cab983c47) |
 | Sat, 20 Dec 2025 23:30:37 GMT | US Government Technology Work Is Not a Buzzword. It Is a System. | Paul George Savluc | [Read More](https://medium.com/p/b1bfed6bd0c3) |
 | Sat, 20 Dec 2025 23:08:17 GMT | How does copy/paste work so well? | Michael Kokosenski | [Read More](https://medium.com/p/6da80316e02e) |
 | Sat, 20 Dec 2025 23:05:34 GMT | Web Security from First Principles What Actually Happens When You Click a Link. | Ehtisham Fakhar | [Read More](https://medium.com/p/8a0be62a01e5) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 15:37:04 GMT | Physics Wallah (PW) VAPT Interview Experience — A Fresher’s Story | Chhavi Rohilla | [Read More](https://medium.com/p/24ddf4ccd1eb) |
 | Sat, 20 Dec 2025 15:27:38 GMT | IT Support Services: Reliable Managed IT Solutions for Modern Businesses | Akash | [Read More](https://medium.com/p/95e923cfc5d7) |
 | Sat, 20 Dec 2025 15:24:43 GMT | Social Media Reveals Your Partner’s True Character | ADITI | [Read More](https://medium.com/p/09cb5c29cdb3) |
-| Sat, 20 Dec 2025 15:24:30 GMT | Beyond the Web - Thick Clients & Advanced Exploitation | Janhvee Laad | [Read More](https://medium.com/p/b19ab2540570) |
-| Sat, 20 Dec 2025 15:17:45 GMT | Knife Threat in Yellowknife Highlights Growing Risks for Frontline Security | Scott Hill | [Read More](https://medium.com/p/3dad2357504d) |
-| Sat, 20 Dec 2025 15:05:59 GMT | Uncovering Threats Through WAF Logs: A Threat Hunter’s Lens | Surya Teja | [Read More](https://medium.com/p/0838101d3987) |
-| Sat, 20 Dec 2025 14:51:53 GMT | The Real Cost of AI: What We Don’t See as Developers | Thusara | [Read More](https://medium.com/p/b6e29d416bc4) |
-| Sat, 20 Dec 2025 14:41:41 GMT | How I Hunt for Swagger UI on Real Targets (A Practical Guide for Bug Bounty Hunters) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d44b284609aa) |
-| Sat, 20 Dec 2025 14:32:17 GMT | (Comptia A+) Mastering Change Management: A Step-By-Step Guide for IT Professionals | Vignesh R | [Read More](https://medium.com/p/ecfbf005731e) |
-| Sat, 20 Dec 2025 14:30:21 GMT | White Paper: Cybersecurity in Connected Vehicles — A Deep Dive for Cybersecurity Teams. | Bhawini. | [Read More](https://medium.com/p/4262c3c1bd9f) |
-| Sat, 20 Dec 2025 14:22:37 GMT | DATA PRIVACY IN THE AGE OF ARTIFICIAL I PRIVACY IN THE AGE OF ARTIFICIAL INTELLIGENCE | Shree Dwivedi | [Read More](https://medium.com/p/4316fe7a3630) |
-| Sat, 20 Dec 2025 14:21:19 GMT | What Happens When a Kali Linux Lab Breaks Your Mac | Widson Ambaisi | [Read More](https://medium.com/p/feb55ada06c0) |
-| Sat, 20 Dec 2025 14:14:06 GMT | Weaponizing Format Strings: Leaks, Writes, and Code Execution | Afi0pchik | [Read More](https://medium.com/p/9d5f13860f6c) |
-| Sat, 20 Dec 2025 14:13:05 GMT | Clear Docs, Happy Users: A Beginner’s Guide to Documentation | Maleesha Thalagala | [Read More](https://medium.com/p/b40dcada65b4) |
-| Sat, 20 Dec 2025 14:09:18 GMT | Deepfake with Hidden Disclaimer: Still Illegal? Live case. | Berend Watchus | [Read More](https://medium.com/p/616a1f6f5409) |
-| Sat, 20 Dec 2025 14:08:18 GMT | # ️‍♂️ The Day I Uncovered a Hidden Account Enumeration Bug | Abdulbar | [Read More](https://medium.com/p/0304615b4fe2) |
-| Sat, 20 Dec 2025 14:06:10 GMT | I Hacked Microsoft: Remote Code Execution (RCE) via Dependency Confusion | Aman Kumar (ak) | [Read More](https://medium.com/p/0c15ebee52df) |
-| Sat, 20 Dec 2025 14:02:19 GMT | Security best practice using OWASP based on my experience | IRFAN SUSILO | [Read More](https://medium.com/p/057d77c200fe) |
