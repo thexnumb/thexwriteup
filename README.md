@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 09:31:48 GMT | Fighting Cyber-Enabled Fraud: Why a Systemic Defence Is the Only Way Forward | Balasubramaniam GD | [Read More](https://medium.com/p/6d71a79e62ad) |
+| Sun, 21 Dec 2025 09:25:07 GMT | SEO Poisoning and Web Compromise Risks in Indian Government Websites | Abin Joseph | [Read More](https://medium.com/p/7bf8a2eb7299) |
+| Sun, 21 Dec 2025 09:23:33 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-4 | Cruz | [Read More](https://medium.com/p/26e54fe8e25e) |
 | Sun, 21 Dec 2025 08:46:37 GMT | Debunking Spyware Claims : The Simple Technical Truth About the Sanchar Saathi App | greyman | [Read More](https://medium.com/p/972cab03d1b7) |
 | Sun, 21 Dec 2025 08:32:18 GMT | The 60-Minute Incident Runbook After You Find Leaked Employee Logins | Alexandre Vandamme | [Read More](https://medium.com/p/f38952f68029) |
 | Sun, 21 Dec 2025 08:26:49 GMT | The Digital Detective’s Arsenal: Essential Tools for Forensics & Investigation | eRRoR | [Read More](https://medium.com/p/d593083b39be) |
@@ -110,6 +113,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sat, 20 Dec 2025 19:45:04 GMT | Why Skill Alone Does not Win Bug Bounties | Hania Khan | [Read More](https://medium.com/p/380c1c317d7c) |
 | Sat, 20 Dec 2025 19:44:26 GMT | Race Conditions- Toy to The World AOC 2025 Day 20 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/dbda6f883eed) |
 | Sat, 20 Dec 2025 19:35:48 GMT | “Q-Day” Is Coming: Why Quantum Computers Will Break Every Encryption Standard You’re Using (And… | DevBoost Lab | [Read More](https://medium.com/p/ded60c61882b) |
-| Sat, 20 Dec 2025 19:34:04 GMT | [AD攻防] 淺談Windows驗證機制 — NTLM | 陳禹璿 | [Read More](https://medium.com/p/e1e3de9015e5) |
-| Sat, 20 Dec 2025 19:32:45 GMT | Japan Didn’t Rearm With Tanks — It Rewired the Indo-Pacific With Contracts | Vivek Anand | [Read More](https://medium.com/p/0cc76c42dba9) |
-| Sat, 20 Dec 2025 19:32:13 GMT | TryHackMe Writeup: Chill Hack | Berkay AĞGÜL | [Read More](https://medium.com/p/9798895cc47e) |
