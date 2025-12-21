@@ -12,12 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 04:18:17 GMT | Fully Comprehend Reconnaissance Techniques as the Foundational Phase of Ethical Hacking | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8c2d5863b3af) |
+| Sun, 21 Dec 2025 04:10:41 GMT | Metasploitable 3 (Windows) Write-up — Part [IX]: Port 5985 — Windows Remote Management Exploitation | Kalash Kundaliya | [Read More](https://medium.com/p/cbe33775c451) |
 | Sun, 21 Dec 2025 03:32:40 GMT | When a Simple Document Reader Turns Dangerous: Lessons from a Malicious Android App on Google Play | Deven Chhajed | [Read More](https://medium.com/p/b6dd5080b5bb) |
 | Sun, 21 Dec 2025 03:31:06 GMT | What Undersea Internet Cables Reveal About the Internet | Nithi Byreddy | [Read More](https://medium.com/p/240884ee1415) |
 | Sun, 21 Dec 2025 03:07:17 GMT | Smarter models can be more vulnerable to prompt injection attacks | Suchitra Malimbada | [Read More](https://medium.com/p/008d4c4d066e) |
 | Sun, 21 Dec 2025 02:52:43 GMT | Excited to announce BugHQ — An all-in-one platform for security researchers! HTB | BBHunterpk | [Read More](https://medium.com/p/0e8bf1ccd9fc) |
 | Sun, 21 Dec 2025 02:47:04 GMT | Why New Computers Fail Long Before They Should | Geoffrey Wenger | [Read More](https://medium.com/p/f9b78cd6e7fa) |
 | Sun, 21 Dec 2025 02:47:01 GMT | Malware Hid Inside Firefox Addon Logos And Went Unnoticed | Geoffrey Wenger | [Read More](https://medium.com/p/1255cb3893ad) |
+| Sun, 21 Dec 2025 02:46:44 GMT | Sempre existe uma saída. Basta não desistir de procurar. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/e5f47093f212) |
 | Sun, 21 Dec 2025 02:36:51 GMT | Operationalizing the CoSAI Risk Map (CoSAI-RM) | Omar Santos | [Read More](https://medium.com/p/c47a6db128c6) |
 | Sun, 21 Dec 2025 02:36:33 GMT | Controls & Consequences | Rob Contant | [Read More](https://medium.com/p/ec4590602680) |
 | Sun, 21 Dec 2025 02:31:30 GMT | AI Governance Is Being Rebuilt as Enforced Infrastructure | Nathaniel Niyazov | [Read More](https://medium.com/p/e5ad9f6faef6) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 16:35:10 GMT | I Used to Ignore This — Now I Warn Everyone About It | Er Dhaval Ramani | [Read More](https://medium.com/p/7504ac4bc451) |
 | Sat, 20 Dec 2025 16:32:21 GMT | How a Forgotten Code Library Led to the University of Sydney Data Breach | Chetan Seripally | [Read More](https://medium.com/p/2443c91dd126) |
 | Sat, 20 Dec 2025 16:29:16 GMT | Expressway Hack The Box Walkthrough | NourInTech | [Read More](https://medium.com/p/4d5a11f2b514) |
-| Sat, 20 Dec 2025 16:11:04 GMT | Cross-Site Scripting (XSS) Nedir? | Melih Yılmaz | [Read More](https://medium.com/p/607da2fdfff7) |
-| Sat, 20 Dec 2025 16:11:02 GMT | Cybersecurity in 2026: Still Worth Your Time (and Your Career)? | Motasem Hamdan | [Read More](https://medium.com/p/7ac9c70f9ec4) |
-| Sat, 20 Dec 2025 16:08:07 GMT | [HackSmarter.org Write-up] BuildingMagic | Chicken0248 | [Read More](https://medium.com/p/d34a21cfd36f) |
