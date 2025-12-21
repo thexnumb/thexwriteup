@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 08:23:47 GMT | How I almost failed OSCP+ until I fixed my notes… | Jordan Hale Research | [Read More](https://medium.com/p/97835304765e) |
+| Sun, 21 Dec 2025 08:22:29 GMT | AI-Driven Pentesting at Home: Using HexStrike-AI for Full Network Discovery and Exploitation | Andrey Pautov | [Read More](https://medium.com/p/00a9e88b3bde) |
+| Sun, 21 Dec 2025 08:16:57 GMT | I Passed OSCP+ Because of ONE Purchase — If You’re Preparing, Don’t Miss This | Jordan Hale Research | [Read More](https://medium.com/p/e81660159b4d) |
+| Sun, 21 Dec 2025 08:12:20 GMT | 7 Powerful Data Sovereignty Compliance Moves | Pentest_Testing_Corp | [Read More](https://medium.com/p/853992205090) |
+| Sun, 21 Dec 2025 08:02:24 GMT | The “Good Enough” Loading State is No Longer Good Enough | Godfrey Lebo | [Read More](https://medium.com/p/896e176e4a60) |
+| Sun, 21 Dec 2025 08:01:11 GMT | Hands-On OT Security Course | Sulaiman Alhasawi | [Read More](https://medium.com/p/b78f266a587a) |
+| Sun, 21 Dec 2025 07:59:26 GMT | The Importance of Data Privacy in the Digital Age | Tedcom | [Read More](https://medium.com/p/0177317a6216) |
+| Sun, 21 Dec 2025 07:49:33 GMT | Finding My First Critical IDOR Vulnerability: A Junior AppSec Engineer’s Journey | Chetan Biranje | [Read More](https://medium.com/p/3fcc44f50812) |
 | Sun, 21 Dec 2025 07:32:23 GMT | Test | Nick Birjmohun | [Read More](https://medium.com/p/1e8b6f5d5485) |
 | Sun, 21 Dec 2025 07:30:10 GMT | Investigasi Forensik Windows: Studi Kasus TryHackMe Windows Endpoint Forensics CTF | Jerry Berlin | [Read More](https://medium.com/p/81245566feaf) |
 | Sun, 21 Dec 2025 07:23:09 GMT | Road to Root: How I Compromised the PyExp: 1 VulnHub Machine | Harlin Taggar | [Read More](https://medium.com/p/2aca2f0a0c1f) |
@@ -105,11 +113,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sat, 20 Dec 2025 19:04:36 GMT | Day 94: My younger brother is a better hacker than I | Nile Okomo | [Read More](https://medium.com/p/8760bf3f4c06) |
 | Sat, 20 Dec 2025 19:04:12 GMT | The Only AI Infrastructure Platform Ready for PQFIF 2035 — and Why That Matters Right Now | DUDE Technologies | [Read More](https://medium.com/p/5881f570b4ce) |
 | Sat, 20 Dec 2025 19:03:57 GMT | How I Passed OSCP+ on First Attempt: A Complete Preparation Guide | Krishnakant Sharma | [Read More](https://medium.com/p/1b07d10fd769) |
-| Sat, 20 Dec 2025 18:58:04 GMT | Apple Introduces New Seven Factor Authentication | NTTP | [Read More](https://medium.com/p/ae1aafa2dbbf) |
-| Sat, 20 Dec 2025 18:52:03 GMT | 2026 Goals — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/f675943b07fb) |
-| Sat, 20 Dec 2025 18:50:42 GMT | Ring Home Standard With Alarm Professional Monitoring: How It Works and Why It Matters for Home… | Criminology Expert | [Read More](https://medium.com/p/7502497ced1a) |
-| Sat, 20 Dec 2025 18:39:51 GMT | Install Suricata step by step on Ubuntu | Soumya Ranjan Sahoo | [Read More](https://medium.com/p/ea58a367288d) |
-| Sat, 20 Dec 2025 18:35:59 GMT | My top dozen Snowflake features released in 2025 | NadirDoctor | [Read More](https://medium.com/p/75cf5537e03f) |
-| Sat, 20 Dec 2025 18:25:34 GMT | Creative — THM Writeup | Kavin Jindal | [Read More](https://medium.com/p/ca7f10d9f325) |
-| Sat, 20 Dec 2025 18:22:36 GMT | PortSwigger Web Security Academy_Complete Walkthrough Series | 0xM3d0din | [Read More](https://medium.com/p/8af0649ca66c) |
-| Sat, 20 Dec 2025 18:21:40 GMT | N0aziXss SubSpectre: Advanced Subdomain Discovery with Intelligent HTTP Analysis | N0aziXss | [Read More](https://medium.com/p/a52d1e7cd7aa) |
