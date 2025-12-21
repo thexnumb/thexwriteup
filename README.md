@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 11:17:47 GMT | Cracking the Code: A Walkthrough of the Fam Product Security Challenge | Nishith P | [Read More](https://medium.com/p/21c296bd219d) |
+| Sun, 21 Dec 2025 11:14:56 GMT | Navigating the Information Age | Mukundarajan V N | [Read More](https://medium.com/p/c26689d41da3) |
+| Sun, 21 Dec 2025 11:11:52 GMT | Linux’ta Dosya ve Dizin Bulma Yöntemleri | g.o. | [Read More](https://medium.com/p/e13a8e25694e) |
+| Sun, 21 Dec 2025 11:07:16 GMT | Security Architecture Mistakes Even Experienced Teams Make | Muhammad Haider Tallal | [Read More](https://medium.com/p/e81130fa5128) |
+| Sun, 21 Dec 2025 11:06:44 GMT | Passive vs Active Recon: When to Use Each and Why It Matters | Aj | [Read More](https://medium.com/p/2aabb3e428ca) |
+| Sun, 21 Dec 2025 11:06:15 GMT | Network Reconnaissance: The Art of Digital Surveillance | Satyam Singh | [Read More](https://medium.com/p/a34d6cfc2524) |
+| Sun, 21 Dec 2025 10:56:10 GMT | AI and Automation in API Security: From Reactive Defense to Intelligent Protection | Ashwini Puranik | [Read More](https://medium.com/p/c2f2e967e3df) |
+| Sun, 21 Dec 2025 10:56:00 GMT | Why Reliable IT Support for Business Is Essential for Long-Term Growth | Redi for Business | [Read More](https://medium.com/p/e1d912a01841) |
+| Sun, 21 Dec 2025 10:48:50 GMT | Want to be greatness? | Vally | [Read More](https://medium.com/p/97855d89a194) |
+| Sun, 21 Dec 2025 10:40:36 GMT | What Is Networking? | Vally | [Read More](https://medium.com/p/d7c5bf2cdadc) |
 | Sun, 21 Dec 2025 10:30:44 GMT | CVE vs. CVSS: What the Score Tells You (and What It Doesn’t) | Andreas | [Read More](https://medium.com/p/87db2a5ef294) |
 | Sun, 21 Dec 2025 10:28:15 GMT | Leveraging Advanced Cryptographic Algorithms in Unified Diagnostic Services for Autotomive Security | Nbputrevu | [Read More](https://medium.com/p/8a08987a2131) |
 | Sun, 21 Dec 2025 10:21:40 GMT | The Infinite Loop: How I Bypasssed Protection on a Major E-Commerce Giant (And What It Taught Me) | Zer0Figure | [Read More](https://medium.com/p/ea701036d734) |
@@ -103,13 +113,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sat, 20 Dec 2025 21:59:43 GMT | Anti-CSRF Tokens: Limitations | Amine Ali | [Read More](https://medium.com/p/9862e7195486) |
 | Sat, 20 Dec 2025 21:23:26 GMT | What Teams Should Review Before Shipping AI Features | Mehdi Khalilzadeh | [Read More](https://medium.com/p/86682483b590) |
 | Sat, 20 Dec 2025 21:22:59 GMT | The Epstein Index: 943 Pages That Prove Privacy is a Luxury Good | Khushdeep Sharma | [Read More](https://medium.com/p/8325d3ce6b3c) |
-| Sat, 20 Dec 2025 21:07:36 GMT | Understanding Modern Firewall Architecture: From Network to Application Layer | Little_Sun4lower | [Read More](https://medium.com/p/827bb50751fd) |
-| Sat, 20 Dec 2025 21:04:30 GMT | The FMCSA’s New Rule Gets Safety Exactly Backwards | Heesham Naji | [Read More](https://medium.com/p/39d58fbf0e77) |
-| Sat, 20 Dec 2025 21:01:23 GMT | Mastering Auditd Advanced Usage in Production Environments | Linux Guide | [Read More](https://medium.com/p/0dd34b949e2b) |
-| Sat, 20 Dec 2025 20:59:10 GMT | LinkedIn Job Scams Targeting Web3, Blockchain, AI Job Seekers | Yiting Huang | [Read More](https://medium.com/p/4b6a1d396cbd) |
-| Sat, 20 Dec 2025 20:48:57 GMT | Sentinel: O Guardião Silencioso que Protege seu App Android Contra Fraudes | Evandro Costa | [Read More](https://medium.com/p/7215b185c2a6) |
-| Sat, 20 Dec 2025 20:46:37 GMT | Advent of Cyber 2025 - Day 20: Race Conditions — Toy to The World | D4m.sh | [Read More](https://medium.com/p/193011042527) |
-| Sat, 20 Dec 2025 20:44:27 GMT | The cybersecurity insurance paradox, part 2 | STR4T0TT0 | [Read More](https://medium.com/p/aed1ce41e0f3) |
-| Sat, 20 Dec 2025 20:44:09 GMT | Scaling Cloud Security: Enabling AWS GuardDuty Across All Accounts and Regions | Niraj Kumar | [Read More](https://medium.com/p/2aae3fb995a8) |
-| Sat, 20 Dec 2025 20:38:14 GMT | France Interior Ministry Cyber Breach 2025: How Hackers Quietly Accessed Police Databases | O. J. Okpabi | [Read More](https://medium.com/p/ce71744e0927) |
-| Sat, 20 Dec 2025 20:37:12 GMT | Barts Health NHS Trust Attack Explained: Data Theft, Dark Web Exposure, And What Happened | O. J. Okpabi | [Read More](https://medium.com/p/173f05daef31) |
