@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 03:32:40 GMT | When a Simple Document Reader Turns Dangerous: Lessons from a Malicious Android App on Google Play | Deven Chhajed | [Read More](https://medium.com/p/b6dd5080b5bb) |
+| Sun, 21 Dec 2025 03:31:06 GMT | What Undersea Internet Cables Reveal About the Internet | Nithi Byreddy | [Read More](https://medium.com/p/240884ee1415) |
+| Sun, 21 Dec 2025 03:07:17 GMT | Smarter models can be more vulnerable to prompt injection attacks | Suchitra Malimbada | [Read More](https://medium.com/p/008d4c4d066e) |
+| Sun, 21 Dec 2025 02:52:43 GMT | Excited to announce BugHQ — An all-in-one platform for security researchers! HTB | BBHunterpk | [Read More](https://medium.com/p/0e8bf1ccd9fc) |
+| Sun, 21 Dec 2025 02:47:04 GMT | Why New Computers Fail Long Before They Should | Geoffrey Wenger | [Read More](https://medium.com/p/f9b78cd6e7fa) |
+| Sun, 21 Dec 2025 02:47:01 GMT | Malware Hid Inside Firefox Addon Logos And Went Unnoticed | Geoffrey Wenger | [Read More](https://medium.com/p/1255cb3893ad) |
+| Sun, 21 Dec 2025 02:36:51 GMT | Operationalizing the CoSAI Risk Map (CoSAI-RM) | Omar Santos | [Read More](https://medium.com/p/c47a6db128c6) |
+| Sun, 21 Dec 2025 02:36:33 GMT | Controls & Consequences | Rob Contant | [Read More](https://medium.com/p/ec4590602680) |
+| Sun, 21 Dec 2025 02:31:30 GMT | AI Governance Is Being Rebuilt as Enforced Infrastructure | Nathaniel Niyazov | [Read More](https://medium.com/p/e5ad9f6faef6) |
+| Sun, 21 Dec 2025 02:22:43 GMT | Stateful Analysis for Firewalls ️ | Esra Kayhan | [Read More](https://medium.com/p/f5bdd124f0ad) |
 | Sun, 21 Dec 2025 01:46:08 GMT | Nike’s CTO Move Shows How Leadership Is Changing | Ali Elmalı | [Read More](https://medium.com/p/787b1a3b9654) |
 | Sun, 21 Dec 2025 01:32:18 GMT | Secure Headers, Fast Pages: The JS Checklist | Bhagya Rana | [Read More](https://medium.com/p/0d3fb288fe79) |
 | Sun, 21 Dec 2025 01:28:31 GMT | I Trusted the AI Too Early. Production Taught Me Otherwise. | CodeWithYog | [Read More](https://medium.com/p/5b2399b7d850) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Dec 2025 16:11:04 GMT | Cross-Site Scripting (XSS) Nedir? | Melih Yılmaz | [Read More](https://medium.com/p/607da2fdfff7) |
 | Sat, 20 Dec 2025 16:11:02 GMT | Cybersecurity in 2026: Still Worth Your Time (and Your Career)? | Motasem Hamdan | [Read More](https://medium.com/p/7ac9c70f9ec4) |
 | Sat, 20 Dec 2025 16:08:07 GMT | [HackSmarter.org Write-up] BuildingMagic | Chicken0248 | [Read More](https://medium.com/p/d34a21cfd36f) |
-| Sat, 20 Dec 2025 16:06:10 GMT | Exploring Information Gathering: The Main Foundation of Cybersecurity | Diva Rizky Alfitrah | [Read More](https://medium.com/p/e6727528ad3e) |
-| Sat, 20 Dec 2025 15:58:12 GMT | [HackSmarter.org Write-up] Arasaka (Kerberoasting, Shadow Credential, ESC1) | Chicken0248 | [Read More](https://medium.com/p/f679f891962b) |
-| Sat, 20 Dec 2025 15:43:49 GMT | Earn $2k/month by Approaching a Target in Bug Bounty Programs | Muhammad Haider Tallal | [Read More](https://medium.com/p/12bc32b25044) |
-| Sat, 20 Dec 2025 15:43:12 GMT | Deterministic Signatures with ECDSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c3f8d5002bde) |
-| Sat, 20 Dec 2025 15:42:45 GMT | Episode 15: “The Keycard Conundrum” | Dr. House In I.T. | [Read More](https://medium.com/p/999c111320ca) |
-| Sat, 20 Dec 2025 15:41:32 GMT | Building the Foundation of a Wazuh SIEM Home Lab | 0xmatchaberry | [Read More](https://medium.com/p/9f483bf9ec80) |
-| Sat, 20 Dec 2025 15:39:56 GMT | Deploying AI Across Businesses | Rimshah Rehman | [Read More](https://medium.com/p/6ca494cee7c4) |
-| Sat, 20 Dec 2025 15:37:04 GMT | Physics Wallah (PW) VAPT Interview Experience — A Fresher’s Story | Chhavi Rohilla | [Read More](https://medium.com/p/24ddf4ccd1eb) |
-| Sat, 20 Dec 2025 15:27:38 GMT | IT Support Services: Reliable Managed IT Solutions for Modern Businesses | Akash | [Read More](https://medium.com/p/95e923cfc5d7) |
-| Sat, 20 Dec 2025 15:24:43 GMT | Social Media Reveals Your Partner’s True Character | ADITI | [Read More](https://medium.com/p/09cb5c29cdb3) |
