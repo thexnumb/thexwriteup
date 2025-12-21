@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 23:04:48 GMT | When You Post, You Become the Target | Sam Galope | [Read More](https://medium.com/p/98fee7abc095) |
+| Sun, 21 Dec 2025 22:59:54 GMT | Best Crypto Asset Recovery Service Providers: Top Firms to Retrieve Lost Bitcoin: Reach Out To… | Kevin Braiw | [Read More](https://medium.com/p/024bcca4d4b8) |
+| Sun, 21 Dec 2025 22:58:13 GMT | DISCLAIMER: All views expressed in the article are my own and the documentary that inspired this… | Moe | [Read More](https://medium.com/p/85f888ad5e15) |
+| Sun, 21 Dec 2025 22:52:19 GMT | Don’t Retire Broke: The Brutal Truth About Money in Your Golden Years | Riva Smith | [Read More](https://medium.com/p/c97a461329ce) |
+| Sun, 21 Dec 2025 22:47:39 GMT | Security Awareness — Part 1 | Vijaiya Prathap | [Read More](https://medium.com/p/13b44f4066b2) |
 | Sun, 21 Dec 2025 22:14:38 GMT | Technology rarely changes in isolation. | Rye Overly | [Read More](https://medium.com/p/40180fe2652f) |
 | Sun, 21 Dec 2025 22:08:23 GMT | [CyberDefenders Write-up] Tusk Infostealer Lab | OxMotaw3 | [Read More](https://medium.com/p/83d4e5252972) |
 | Sun, 21 Dec 2025 21:44:16 GMT | The Ultimate Safe Investment for Your Family | Devdeep Mukherji | [Read More](https://medium.com/p/f02328529515) |
@@ -108,8 +113,3 @@ Hardening Docker Images | Olha Stefanishyna | [Read More](https://medium.com/p/d
 | Sun, 21 Dec 2025 14:20:51 GMT | Your First 30 Days With Northwave | Fook Hwa Tan | [Read More](https://medium.com/p/df8509856333) |
 | Sun, 21 Dec 2025 14:19:06 GMT | Choose Your Path: Strategy, Response, or Long-Term Partnership — 5 Ways to Work With Us (Depending… | Fook Hwa Tan | [Read More](https://medium.com/p/6d3f4568e9a5) |
 | Sun, 21 Dec 2025 14:18:32 GMT | Combat Forces Command Creates New Ops Centers for SATCOM and EW | Defence Affairs & Analysis | [Read More](https://medium.com/p/95d351f6d39c) |
-| Sun, 21 Dec 2025 14:14:20 GMT | RBAC Without a Database: Azure AD Groups + Firebase Remote Config in a React Native Enterprise App | Mrinal Maheshwari | [Read More](https://medium.com/p/d7b6bde7e9a9) |
-| Sun, 21 Dec 2025 14:11:59 GMT | My Journey to Becoming a Certified Red Team Analyst(CRTA) ️‍♂️ | Priyank Rastogi | [Read More](https://medium.com/p/eb98418d450c) |
-| Sun, 21 Dec 2025 14:09:36 GMT | Supercharge Your Chrome with the SHA-256 Encrypt / Decrypt Tool — Fast, Secure, and Local | Rohan Ravindra Kadam | [Read More](https://medium.com/p/bf3314664c8c) |
-| Sun, 21 Dec 2025 14:03:05 GMT | ISO 27001: Guide for Startup CEOs | Usmanbusiness | [Read More](https://medium.com/p/38099508da04) |
-| Sun, 21 Dec 2025 14:02:52 GMT | AI Agents: AresGPT and Metal RatioGPT for AI Security and Design | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/bea3aa0bfb88) |
