@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 11:32:59 GMT | Your Python App Is Probably Leaking Something — Run These 7 Commands | Dorian Sotpyrc | [Read More](https://medium.com/p/fe81a6705a25) |
+| Sun, 21 Dec 2025 11:30:00 GMT | Lock VM Walkthrough | Spookz | [Read More](https://medium.com/p/a7a6730fa4f9) |
+| Sun, 21 Dec 2025 11:18:55 GMT | Penetration Mobile — ADB Command Basic | Bima Aditya Arya G | [Read More](https://medium.com/p/d564d05e38c0) |
 | Sun, 21 Dec 2025 11:17:47 GMT | Cracking the Code: A Walkthrough of the Fam Product Security Challenge | Nishith P | [Read More](https://medium.com/p/21c296bd219d) |
 | Sun, 21 Dec 2025 11:14:56 GMT | Navigating the Information Age | Mukundarajan V N | [Read More](https://medium.com/p/c26689d41da3) |
 | Sun, 21 Dec 2025 11:11:52 GMT | Linux’ta Dosya ve Dizin Bulma Yöntemleri | g.o. | [Read More](https://medium.com/p/e13a8e25694e) |
@@ -110,6 +113,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sat, 20 Dec 2025 22:42:50 GMT | An IDOR that allows user information disclosure | Shahd Mk | [Read More](https://medium.com/p/36fd7643f31b) |
 | Sat, 20 Dec 2025 22:26:23 GMT | Do you really understand   and how cookies protect you ? | Bittu Kumar | [Read More](https://medium.com/p/0f2c6db24fa6) |
 | Sat, 20 Dec 2025 22:08:18 GMT | Horizon | Chris Perkins | [Read More](https://medium.com/p/7c6cc101050c) |
-| Sat, 20 Dec 2025 21:59:43 GMT | Anti-CSRF Tokens: Limitations | Amine Ali | [Read More](https://medium.com/p/9862e7195486) |
-| Sat, 20 Dec 2025 21:23:26 GMT | What Teams Should Review Before Shipping AI Features | Mehdi Khalilzadeh | [Read More](https://medium.com/p/86682483b590) |
-| Sat, 20 Dec 2025 21:22:59 GMT | The Epstein Index: 943 Pages That Prove Privacy is a Luxury Good | Khushdeep Sharma | [Read More](https://medium.com/p/8325d3ce6b3c) |
