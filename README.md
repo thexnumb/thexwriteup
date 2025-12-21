@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Dec 2025 07:32:23 GMT | Test | Nick Birjmohun | [Read More](https://medium.com/p/1e8b6f5d5485) |
+| Sun, 21 Dec 2025 07:30:10 GMT | Investigasi Forensik Windows: Studi Kasus TryHackMe Windows Endpoint Forensics CTF | Jerry Berlin | [Read More](https://medium.com/p/81245566feaf) |
+| Sun, 21 Dec 2025 07:23:09 GMT | Road to Root: How I Compromised the PyExp: 1 VulnHub Machine | Harlin Taggar | [Read More](https://medium.com/p/2aca2f0a0c1f) |
+| Sun, 21 Dec 2025 07:22:51 GMT | Road to Root: How I Compromised the HarryPotter: Nagini VulnHub Machine | Harlin Taggar | [Read More](https://medium.com/p/f9bea3f6c5d3) |
 | Sun, 21 Dec 2025 07:19:27 GMT | How I Went From Failing Labs to Passing OSCP+ — The Story I Wish Someone Told Me Earlier | Alex Warren Security | [Read More](https://medium.com/p/5c4d1ef69394) |
 | Sun, 21 Dec 2025 07:10:44 GMT | Adversary Simulation Toolkit: 20 Tools for Real Labs (Master Red Team Skills) | Very Lazy Tech | [Read More](https://medium.com/p/009ae592c915) |
 | Sun, 21 Dec 2025 07:10:20 GMT | Traceroute: Following the Digital Breadcrumbs Across the Internet | Cybeague Technologies | [Read More](https://medium.com/p/42b1d95f90fb) |
@@ -109,7 +113,3 @@ India has become one… | Ankit rai | [Read More](https://medium.com/p/62ae5f8eb
 | Sat, 20 Dec 2025 18:25:34 GMT | Creative — THM Writeup | Kavin Jindal | [Read More](https://medium.com/p/ca7f10d9f325) |
 | Sat, 20 Dec 2025 18:22:36 GMT | PortSwigger Web Security Academy_Complete Walkthrough Series | 0xM3d0din | [Read More](https://medium.com/p/8af0649ca66c) |
 | Sat, 20 Dec 2025 18:21:40 GMT | N0aziXss SubSpectre: Advanced Subdomain Discovery with Intelligent HTTP Analysis | N0aziXss | [Read More](https://medium.com/p/a52d1e7cd7aa) |
-| Sat, 20 Dec 2025 18:09:56 GMT | Free cyber security course scam | Mmohammadsalman | [Read More](https://medium.com/p/953a68ac330c) |
-| Sat, 20 Dec 2025 18:02:41 GMT | From Code Analysis to CVE: Uncovering SQL Injection in ChurchCRM (CVE-2025–67877) | Guilherme Mury | [Read More](https://medium.com/p/783c03863de9) |
-| Sat, 20 Dec 2025 18:02:23 GMT | WhatsApp « Ghost Pairing », l’arnaque invisible qui transforme votre compte en piège | nullbyte | [Read More](https://medium.com/p/c3b2a954d899) |
-| Sat, 20 Dec 2025 17:56:07 GMT | Google Security Operation revision | Mmohammadsalman | [Read More](https://medium.com/p/af137f571a77) |
