@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 20:36:16 GMT | When Betrayal Strikes: Why Divorce Isn’t the Real Answer | HeddaScott | [Read More](https://medium.com/p/ae884be727f7) |
+| Mon, 22 Dec 2025 20:35:10 GMT | SOC127 — SQL Injection Detected — Walkthrough | Petra | [Read More](https://medium.com/p/edfda3951fac) |
+| Mon, 22 Dec 2025 20:31:35 GMT | In Mid-December 2025, Hackers Stole Paid Members’ Pornhub Browsing and Intimate Data | David SEHYEON Baek | [Read More](https://medium.com/p/d233b35c24e6) |
+| Mon, 22 Dec 2025 20:19:17 GMT | Hack The Box University CTF 2025: Tinsel Trouble | Juan Pablo Morales | [Read More](https://medium.com/p/88435905d559) |
 | Mon, 22 Dec 2025 20:16:43 GMT | Behavior of a Public Web Form Submission Endpoint | Ishak Antar | [Read More](https://medium.com/p/f7dad8216884) |
 | Mon, 22 Dec 2025 20:14:33 GMT | Scrolling to Success: How Digital Marketing Turns Attention into Opportunity | Shree Dwivedi | [Read More](https://medium.com/p/45fd7c4b64ef) |
 | Mon, 22 Dec 2025 20:11:21 GMT | Nessus Guide Windows 11 | Navraj Gill | [Read More](https://medium.com/p/8057cc5c1b64) |
@@ -110,7 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 14:26:05 GMT | Securing Your Data with AWS Backup | Ajay Uppu | [Read More](https://medium.com/p/e789639faee5) |
 | Mon, 22 Dec 2025 14:24:25 GMT | Phishing: Understanding One of the Most Effective Cyber Attacks (Part 1) | Cyber Timi | [Read More](https://medium.com/p/7126391bd713) |
 | Mon, 22 Dec 2025 14:20:21 GMT | Alternatif Metode pengujian untuk Bypass firewall Cloudflare | Mohamad Fattyr | [Read More](https://medium.com/p/459b8c42ab27) |
-| Mon, 22 Dec 2025 14:12:54 GMT | OWASP Dropped a Top 10 for Agentic AI — Here’s What Actually Matters | Vito Rallo | [Read More](https://medium.com/p/a0b95ce32c16) |
-| Mon, 22 Dec 2025 14:08:18 GMT | RST TI Report Digest: 22 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/f8f8d8108e02) |
-| Mon, 22 Dec 2025 14:04:10 GMT | What Anthropic’s Claude Incident Means for Future AI Security | Hello @ Octellient | [Read More](https://medium.com/p/993701ee3676) |
-| Mon, 22 Dec 2025 14:02:23 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Mins to Fix It. | DefineWorld | [Read More](https://medium.com/p/00c0d6001182) |
