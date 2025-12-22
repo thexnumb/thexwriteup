@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 10:32:02 GMT | Beginner’s Guide to Penetration Testing Tools | Manisha Chaudhary | [Read More](https://medium.com/p/1188472211ff) |
+| Mon, 22 Dec 2025 10:29:37 GMT | Open OT: A Framework for Sovereign, Secure, and Operable Industrial Systems | Sulaiman Alhasawi | [Read More](https://medium.com/p/54815e211fa2) |
+| Mon, 22 Dec 2025 10:24:34 GMT | The Cyber security Career Guide for Indian Citizens in New Zealand | qbaycareer | [Read More](https://medium.com/p/620ffd6adfac) |
+| Mon, 22 Dec 2025 10:24:11 GMT | The Mechanics of Refresh Tokens | Rahul Sharma | [Read More](https://medium.com/p/ccb38c9560e2) |
+| Mon, 22 Dec 2025 10:23:33 GMT | How AI & Modern Technologies Are Transforming Global Businesses in 2025 — GateTouch Perspective | GateTouch | [Read More](https://medium.com/p/f77e7a3e4388) |
+| Mon, 22 Dec 2025 10:19:59 GMT | Building Future-Ready Healthcare IT Solutions Through Strategic Consulting | Ajay Singh | [Read More](https://medium.com/p/c934be1d8400) |
 | Mon, 22 Dec 2025 10:18:13 GMT | Home Security Automation in Coimbatore | Priyajayaprakash | [Read More](https://medium.com/p/44ad464170ba) |
+| Mon, 22 Dec 2025 10:18:10 GMT | How IT Service Automation Improves Employee Efficiency | Bluechip Advanced Technologies | [Read More](https://medium.com/p/5a0203a167de) |
 | Mon, 22 Dec 2025 10:14:24 GMT | ChatGPT Memory Poisoning | Jake Peralta | [Read More](https://medium.com/p/4bfcc5ca4dc0) |
 | Mon, 22 Dec 2025 10:12:56 GMT | How Cybersecurity Services Protect Your Business from Emerging Threats? | Microscan Communications | [Read More](https://medium.com/p/7671dfad7a6d) |
 | Mon, 22 Dec 2025 10:12:48 GMT | How Security, Identification and Automation Shape Modern Organisations | Arshiyaazar | [Read More](https://medium.com/p/3c31a8c99087) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 05:32:38 GMT | 86 Million Songs Just Walked Out of Spotify’s Front Door. Nobody Stopped Them. | NeuralNikitha | [Read More](https://medium.com/p/982848c1671f) |
 | Mon, 22 Dec 2025 05:23:57 GMT | Tải Tag After School Apk V2.0 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/86370b0b39c8) |
 | Mon, 22 Dec 2025 05:23:00 GMT | Bcrypt Password Verification in Python | Mnmrukshan | [Read More](https://medium.com/p/b83f6d525b5b) |
-| Mon, 22 Dec 2025 05:02:23 GMT | The Top 7 Cybersecurity Threats Businesses Face in 2025 — and How to Stay Ahead | F9 Infotech | [Read More](https://medium.com/p/36bda59da580) |
-| Mon, 22 Dec 2025 04:52:50 GMT | What is a VPN: Secure Online Privacy for Everyone! 77% OFF TODAY | The Curated Consumer | [Read More](https://medium.com/p/bcd81acdc4b8) |
-| Mon, 22 Dec 2025 04:49:30 GMT | Everything You Need to Know About a Cybersecurity Diploma Course | postgraduateguru | [Read More](https://medium.com/p/c31f2b704478) |
-| Mon, 22 Dec 2025 04:49:23 GMT | Execution After Redirection (EAR): The Silent High-Impact Bug That Lets You Bypass Logins Like… | CRAC Learning | [Read More](https://medium.com/p/1108ac6a9729) |
-| Mon, 22 Dec 2025 04:47:01 GMT | What is MLSecOps? | InfosecTrain | [Read More](https://medium.com/p/174f85e4bbac) |
-| Mon, 22 Dec 2025 04:46:26 GMT | Deep Dive: Secret Token Management in Spring Boot (Java 17) | StackStories | [Read More](https://medium.com/p/2910f451c5d4) |
-| Mon, 22 Dec 2025 04:41:00 GMT | Proving Grounds - Fanatastic | jniket | [Read More](https://medium.com/p/eff16a79537f) |
