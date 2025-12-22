@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 05:42:05 GMT | Proven Strategies for Enterprise Digital Security | Kadhijahafiya | [Read More](https://medium.com/p/63503d4f898e) |
+| Mon, 22 Dec 2025 05:32:39 GMT | Let’s Defend SOC169 — Possible IDOR Attack Detected (Analyst Thought Process) | Pablo Rodriguez Sanz | [Read More](https://medium.com/p/854ff303008b) |
+| Mon, 22 Dec 2025 05:32:38 GMT | 86 Million Songs Just Walked Out of Spotify’s Front Door. Nobody Stopped Them. | NeuralNikitha | [Read More](https://medium.com/p/982848c1671f) |
 | Mon, 22 Dec 2025 05:23:57 GMT | Tải Tag After School Apk V2.0 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/86370b0b39c8) |
+| Mon, 22 Dec 2025 05:23:00 GMT | Bcrypt Password Verification in Python | Mnmrukshan | [Read More](https://medium.com/p/b83f6d525b5b) |
 | Mon, 22 Dec 2025 05:02:23 GMT | The Top 7 Cybersecurity Threats Businesses Face in 2025 — and How to Stay Ahead | F9 Infotech | [Read More](https://medium.com/p/36bda59da580) |
 | Mon, 22 Dec 2025 04:52:50 GMT | What is a VPN: Secure Online Privacy for Everyone! 77% OFF TODAY | The Curated Consumer | [Read More](https://medium.com/p/bcd81acdc4b8) |
 | Mon, 22 Dec 2025 04:49:30 GMT | Everything You Need to Know About a Cybersecurity Diploma Course | postgraduateguru | [Read More](https://medium.com/p/c31f2b704478) |
@@ -109,7 +113,3 @@ That Actually Helps | Shubh Gupta | [Read More](https://medium.com/p/5036bcd02a2
 | Sun, 21 Dec 2025 18:37:54 GMT | OAuth, SAML, OIDC — Same Login Screen. Very Different Stories. | Anirudha Chakraborty | [Read More](https://medium.com/p/7646ddb04bc7) |
 | Sun, 21 Dec 2025 18:37:32 GMT | 10 Signs Your WordPress Site Has Been Hacked (And What To Do About It) | Faysal Ahmed | [Read More](https://medium.com/p/8ea2bcda67f0) |
 | Sun, 21 Dec 2025 18:29:56 GMT | Hack The Box — NeuroSync | Harjot Singh | [Read More](https://medium.com/p/1bfaf0017281) |
-| Sun, 21 Dec 2025 18:24:32 GMT | Behind the Four Walls of Your Screen:Where Do Our Deleted Files Go? | DAVID ADAMA | [Read More](https://medium.com/p/9c36e68c1466) |
-| Sun, 21 Dec 2025 18:20:52 GMT | Cybersecurity in the Isle of Man: What Local Businesses Must Know in 2026 | Just Technology Consulting Ltd | [Read More](https://medium.com/p/442cc8c9780c) |
-| Sun, 21 Dec 2025 18:17:25 GMT | How Defensive Thinking Changes the Way You Build | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/17ff6a4b4cc0) |
-| Sun, 21 Dec 2025 18:07:18 GMT | Advent of Cyber 2025 - Day 21: Malware Analysis — Malhare.exe | D4m.sh | [Read More](https://medium.com/p/977a870d7506) |
