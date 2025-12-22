@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 17:28:57 GMT | My Cybersecurity Journey- starting late ,But with patience | Prerana! | [Read More](https://medium.com/p/648473684e9a) |
+| Mon, 22 Dec 2025 17:25:31 GMT | Unlocking Linux Process Power: Part2 - Monitor, Terminate Processes Like a Pro | MR.7 | [Read More](https://medium.com/p/2b4db94ae338) |
+| Mon, 22 Dec 2025 17:24:54 GMT | What is the Privacy Problem in Trustworthy AI? | GhostDrift Mathematical Institute | [Read More](https://medium.com/p/202d4cd58c32) |
+| Mon, 22 Dec 2025 17:18:22 GMT | Wireshark Traffic Analysis: DNS and ICMP Traffic Tunneling & Cleartext Protocol Analysis: FTP | Citadel Cybersec | [Read More](https://medium.com/p/7effcc345114) |
+| Mon, 22 Dec 2025 17:17:14 GMT | You Weren’t Breached — but You’re Still at Risk | Dr. Shashi Karhail | [Read More](https://medium.com/p/27661593d89f) |
 | Mon, 22 Dec 2025 17:16:46 GMT | Quantum Computing Won’t Break Bitcoin. Overreacting Might! | Dipanshu Chaudhry | [Read More](https://medium.com/p/f1b7b31110da) |
 | Mon, 22 Dec 2025 17:16:19 GMT | Harvest Now, Decrypt Later: Why Quantum Computing Threatens Your Data Today | Emma Wirt | [Read More](https://medium.com/p/7395372e1d1f) |
 | Mon, 22 Dec 2025 17:16:12 GMT | Reasons Managed Endpoint Detection and Response Would Be Important | Glenn Merritt | [Read More](https://medium.com/p/5b7c94539e78) |
+| Mon, 22 Dec 2025 17:15:22 GMT | C2 Detection — Command & Carol -Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/0a19ca8f7a4c) |
 | Mon, 22 Dec 2025 17:14:13 GMT | The Essential Data Center Toolkit: Equipment You Need and Why It Matters | Paradise technologies Inc | [Read More](https://medium.com/p/c640288984cd) |
 | Mon, 22 Dec 2025 17:13:46 GMT | Static Security & Privacy Analysis of Sanchar Saathi App (Educational Research) | Saranyo Deyasi | [Read More](https://medium.com/p/1551170860ad) |
 | Mon, 22 Dec 2025 17:11:41 GMT | We Didn’t Think We Were a Target” — The Most Common Sentence After a Cyber Attack | Digital Defense | [Read More](https://medium.com/p/39acc01e7395) |
@@ -108,9 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 11:56:45 GMT | Understanding HttpOnly Cookies: Your Frontend’s Secret Weapon Against XSS Attacks | mirbasit01 | [Read More](https://medium.com/p/252fb98d3a5d) |
 | Mon, 22 Dec 2025 11:52:28 GMT | How Do IT Solutions for Businesses Shape Modern Teams? | Somberg | [Read More](https://medium.com/p/a3224eeb080d) |
 | Mon, 22 Dec 2025 11:44:07 GMT | Best Cloud Security Certification Courses in india | Manisha Chaudhary | [Read More](https://medium.com/p/89b1ee33b860) |
-| Mon, 22 Dec 2025 11:43:46 GMT | OT Cyber Security Services in Canada for Critical Infrastructure Protection | Arista Cyber | [Read More](https://medium.com/p/425c47d063a3) |
-| Mon, 22 Dec 2025 11:32:48 GMT | AI-Generated Apps: The Security Vulnerability Crisis Coming | Can Artuc | [Read More](https://medium.com/p/a1cc653d656a) |
-| Mon, 22 Dec 2025 11:29:05 GMT | What is a Phishing Attack and How to Prevent It? | Dinu Gitlan | [Read More](https://medium.com/p/b2da7f20b0e9) |
-| Mon, 22 Dec 2025 11:28:14 GMT | Linux’ta Filtreler (Filters) | g.o. | [Read More](https://medium.com/p/e8a15d30e8e9) |
-| Mon, 22 Dec 2025 11:28:00 GMT | Tech Stack for Building a Cybersecurity Micro-SaaS in 2026 | John Muconto | [Read More](https://medium.com/p/5ac46599f1bf) |
-| Mon, 22 Dec 2025 11:24:01 GMT | Breaking the Fortresses: Why “Zero Trust” is the Talk of the Cyber World | Büşra İleri | [Read More](https://medium.com/p/6063fd0b7648) |
