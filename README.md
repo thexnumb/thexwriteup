@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 13:32:40 GMT | Why GET and POST Are Not the Same. | Ehtisham Fakhar | [Read More](https://medium.com/p/d5796d0addd9) |
+| Mon, 22 Dec 2025 13:29:36 GMT | If I Were Starting AI in 2026 | Shivam Suchak | [Read More](https://medium.com/p/bf81c002e742) |
+| Mon, 22 Dec 2025 13:23:26 GMT | Sanity to Insanity: Chaining Public CMS Misconfigurations to Remote Admin Access on Production | Abdelrhman Allam (sl4x0) | [Read More](https://medium.com/p/1912857037dc) |
+| Mon, 22 Dec 2025 13:20:32 GMT | Facebook advertising tech support scams? What, anything for a buck? | Fred Showker | [Read More](https://medium.com/p/20703d7e50a3) |
+| Mon, 22 Dec 2025 13:19:06 GMT | QR Code Security | Surajit Majumder | [Read More](https://medium.com/p/b877ca70d876) |
+| Mon, 22 Dec 2025 13:07:13 GMT | Approach to Secure App Development | Groot Technologies | [Read More](https://medium.com/p/b8a3147b1a76) |
+| Mon, 22 Dec 2025 13:02:22 GMT | Linux Security Habit #10: I Always Capture an Incident Snapshot Before I Touch Anything | Faruk Ahmed | [Read More](https://medium.com/p/4e5ac95d52b1) |
+| Mon, 22 Dec 2025 12:54:15 GMT | Try Hack Me- Jack-of-All-Trades Walkthrough | PulseEinher | [Read More](https://medium.com/p/5fe80c38ad6b) |
+| Mon, 22 Dec 2025 12:49:29 GMT | WordPress Security: Essential Practices to Protect Your Site | Abdul Mubin | [Read More](https://medium.com/p/dd3b823d30da) |
+| Mon, 22 Dec 2025 12:45:53 GMT | Blocking SSH brute-force with Active Response in wazuh | zal ef | [Read More](https://medium.com/p/a8aadac34251) |
 | Mon, 22 Dec 2025 12:45:21 GMT | RBI Master Direction on Digital Payment Security Controls: A Comprehensive Compliance Guide | Certcube Labs | [Read More](https://medium.com/p/76848d3bf3ae) |
 | Mon, 22 Dec 2025 12:43:33 GMT | The Magic of Curl — Advance Commands | Paulo Bazzo | [Read More](https://medium.com/p/b57b3c9c3e64) |
+| Mon, 22 Dec 2025 12:40:43 GMT | PwnTillDawn Merry-go-Round Writeup | Bazil Brohi | [Read More](https://medium.com/p/8481d6d82815) |
 | Mon, 22 Dec 2025 12:32:39 GMT | Além do “Build Once, Run Anywhere”: Um Guia de Sobrevivência para Segurança de Containers | Sergio Lopes | [Read More](https://medium.com/p/9f440ae02bb9) |
 | Mon, 22 Dec 2025 12:32:15 GMT | NABARD IT & Cyber Security Audit Framework: A Comprehensive Guide for Supervised Entities | Certcube Labs | [Read More](https://medium.com/p/e7bbfd89c253) |
 | Mon, 22 Dec 2025 12:29:06 GMT | Reveal Malware CoinMiner | Aufarifqi | [Read More](https://medium.com/p/4348934fee62) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 08:05:01 GMT | Tải Soul Knight MOD APK V7.7.0 (Mở Khóa Nhân Vật, Menu) | GOCMOD | [Read More](https://medium.com/p/f40902b5ad0e) |
 | Mon, 22 Dec 2025 07:49:59 GMT | What Happens Behind the Scenes When You Type a Website Name | BHARGAV SANDILYA | [Read More](https://medium.com/p/8be3a1757523) |
 | Mon, 22 Dec 2025 07:41:24 GMT | ด่วน!! ช่องโหว่ใน Cisco Secure Email เสี่ยงถูกยึดระบบ ตรวจสอบด่วน | ThaiCERT By NCSA | [Read More](https://medium.com/p/afdf3163d26b) |
-| Mon, 22 Dec 2025 07:38:09 GMT | Who Killed ChatGPT? | YUZU | [Read More](https://medium.com/p/a973efbf23ad) |
-| Mon, 22 Dec 2025 07:33:56 GMT | Hack target worth two U.S. defense budgets — the dream of all hackers: Bitcoin P2PK | 0trust0day | [Read More](https://medium.com/p/024cfb2b4527) |
-| Mon, 22 Dec 2025 07:26:51 GMT | IT Security Solutions — Top Tools To Protect Your IT Assets | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/93200b225a69) |
-| Mon, 22 Dec 2025 07:26:29 GMT | AWS & Azure Bug Bounties: Essential Kali Tools for Cloud Security Testing | Muhammad Haider Tallal | [Read More](https://medium.com/p/8f14dc589f20) |
-| Mon, 22 Dec 2025 07:24:49 GMT | Alhamdulillah, I’m glad to share that I’ve built a clear and solid understanding of many web… | Abdullah Mina | [Read More](https://medium.com/p/4947df9ee36f) |
-| Mon, 22 Dec 2025 07:23:32 GMT | Top Laravel Development Trends Driving Web Applications in 2026 | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/40b965d5e331) |
-| Mon, 22 Dec 2025 07:23:07 GMT | Expert Guide to Security Hardening in Linux | Linux Guide | [Read More](https://medium.com/p/0169e8747155) |
-| Mon, 22 Dec 2025 07:22:05 GMT | SOC 2 Type II Compliance Overview | threatsys Pvt. Ltd. 07 | [Read More](https://medium.com/p/874cf85b8ca5) |
-| Mon, 22 Dec 2025 07:22:00 GMT | Tải Hack Supreme Duelist Stickman (Menu, Bất Tử, Tiền, Full Lv) v4.0.4 | genzvnmod | [Read More](https://medium.com/p/a8772ce4278c) |
-| Mon, 22 Dec 2025 07:21:07 GMT | How a Simple Morning Routine Improves Daily Productivity | Shanigujjar | [Read More](https://medium.com/p/6dae1a275ee8) |
-| Mon, 22 Dec 2025 07:18:46 GMT | Day 83- KQL basics every beginner must know | unica 02 | [Read More](https://medium.com/p/219bcf69e850) |
