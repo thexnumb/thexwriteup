@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 07:12:08 GMT | Empowering Digital Growth Through Mobile App and Software Development | Givat Auther | [Read More](https://medium.com/p/91d87659810e) |
+| Mon, 22 Dec 2025 07:10:48 GMT | Beyond Ransomware: How Autonomous Malware and Intelligent Threat Chains Are Redefining Cybercrime | Ssolosssolo | [Read More](https://medium.com/p/f2766e67b6c3) |
+| Mon, 22 Dec 2025 07:10:25 GMT | Reliable IT Support Services for Badgerys Creek | Any network | [Read More](https://medium.com/p/5167e078dde4) |
+| Mon, 22 Dec 2025 07:10:12 GMT | ECC (Elliptic Curve Cryptography) | Ssolosssolo | [Read More](https://medium.com/p/d065a5704f8c) |
+| Mon, 22 Dec 2025 07:09:13 GMT | 15 Tools That Show You the Hidden Life of a Packet: Master Network Analysis Like a Pro | Very Lazy Tech | [Read More](https://medium.com/p/7b37f3a6b57a) |
+| Mon, 22 Dec 2025 07:06:51 GMT | CloudSek CTF 2025 Write-Up | Sumit Chaturvedi | [Read More](https://medium.com/p/46403538dcee) |
+| Mon, 22 Dec 2025 07:02:24 GMT | My See-through Glass | Amuda Rukayat (rukeiyahh) | [Read More](https://medium.com/p/dcd2ee360ead) |
+| Mon, 22 Dec 2025 07:00:11 GMT | The Daily Tech Digest: 22 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6dd446aaa486) |
+| Mon, 22 Dec 2025 06:58:45 GMT | Malware Analysis — Malhare.exe | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/a22d6222a73c) |
+| Mon, 22 Dec 2025 06:57:45 GMT | Top 50 IT Companies in Coimbatore: Top Employers, Salaries & Career Scope | ESSEIndia Insights | [Read More](https://medium.com/p/077b98434676) |
+| Mon, 22 Dec 2025 06:55:51 GMT | High-Net-Worth Cybersecurity — How Attackers Actually Breach Wealt. | Omex Oleksandr | [Read More](https://medium.com/p/d24c54bb9dcb) |
+| Mon, 22 Dec 2025 06:53:50 GMT | HTB University CTF 2025 All web challenges walkthrough | 0xNayel | [Read More](https://medium.com/p/c510d44ca944) |
+| Mon, 22 Dec 2025 06:53:19 GMT | Tải Ff Tools Pro Max Apk (Android App) V1.0 | Game4u | [Read More](https://medium.com/p/d6c836fc6b7a) |
+| Mon, 22 Dec 2025 06:50:07 GMT | I Spent 3 Months Researching Image-Based Attacks. Here’s What I Found. | Raviteja Nekkalapu | [Read More](https://medium.com/p/ac50c9c301ac) |
+| Mon, 22 Dec 2025 06:43:17 GMT | theHarvester: A Simple Way to Gather Emails & Domains Like a Pro | Cybeague Technologies | [Read More](https://medium.com/p/c91c7b2acb88) |
+| Mon, 22 Dec 2025 06:42:47 GMT | Tải Roblox APK v2.701.966 Phiên Bản Quốc Tế Miễn Phí | Bandisharecx | [Read More](https://medium.com/p/7ed88a08eba7) |
+| Mon, 22 Dec 2025 06:38:46 GMT | Easy Splunk: Enterprise Security 8 | Antonella Blasetti | [Read More](https://medium.com/p/c02775b242ac) |
+| Mon, 22 Dec 2025 06:38:32 GMT | Why Rust Is the Language of Choice for Safe and Fast Systems (2025–2026) | Amin Softtech | [Read More](https://medium.com/p/060e3bb0a594) |
+| Mon, 22 Dec 2025 06:36:36 GMT | Ethereum Shifts Focus From Speed to Security With New 2026 Deadline. | Brave New Coin | [Read More](https://medium.com/p/b6a54565da3c) |
+| Mon, 22 Dec 2025 06:32:55 GMT | Whatsapp USA 6162021156 CC CVV DUMP PAYPAL CASHAPP ZELLE VENMO BANK WU TRANSFERS CLONED CARDS ATM… | Albertgonz | [Read More](https://medium.com/p/9738af021947) |
 | Mon, 22 Dec 2025 06:25:25 GMT | How Security Services Improve Safety for Events and Gatherings | ASRA Protection Service | [Read More](https://medium.com/p/8259564a104c) |
 | Mon, 22 Dec 2025 06:23:42 GMT | In His Arms I Discovered The Little But Great Act Everybody Yearns For, Yet Never Admits: The Love… | Carmen Helen Golden | [Read More](https://medium.com/p/f83c20e5737f) |
 | Mon, 22 Dec 2025 06:20:08 GMT | Police System in India | Vivek Shukla | [Read More](https://medium.com/p/2fe68b67c03b) |
@@ -93,23 +113,3 @@ That Actually Helps | Shubh Gupta | [Read More](https://medium.com/p/5036bcd02a2
 | Sun, 21 Dec 2025 21:12:19 GMT | I Found My First Bugs in 48 Hours: A Beginner’s Real-World Guide | Codi | [Read More](https://medium.com/p/3c9edbf4fe36) |
 | Sun, 21 Dec 2025 21:03:36 GMT | Network 101'den Siber Güvenliğe Kısım 2 | Mustafa San | [Read More](https://medium.com/p/ec64e45039fa) |
 | Sun, 21 Dec 2025 20:59:54 GMT | Building and Securing a Linux Apache Web Server | Felicity Lois | [Read More](https://medium.com/p/09c24615fd09) |
-| Sun, 21 Dec 2025 20:55:02 GMT | Logların İzinde: APT Senaryosu — 5 | Ali Ekber KARA | [Read More](https://medium.com/p/f050898102d0) |
-| Sun, 21 Dec 2025 20:46:18 GMT | How I Passed the CompTIA Security+ Exam: Tips, Tricks, and Tools for Success | Secured By Sebastion | [Read More](https://medium.com/p/296a50989150) |
-| Sun, 21 Dec 2025 20:45:57 GMT | Network 101'den Siber Güvenliğe Yolculuk Kısım 1 | Mustafa San | [Read More](https://medium.com/p/ea78a3ec21ec) |
-| Sun, 21 Dec 2025 20:38:50 GMT | Translating Cybersecurity into Universal Logic | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/3b59be341199) |
-| Sun, 21 Dec 2025 20:38:43 GMT | Siber Güvenlikte Kaleleri Yıkmak: Neden “Zero Trust” Konuşuyoruz? | Büşra İleri | [Read More](https://medium.com/p/f46d88dd0b86) |
-| Sun, 21 Dec 2025 20:38:34 GMT | Sofremos um Ataque! — SOC335 CVE-2024-49138 Exploração Detectada — Blue Team | Otávio Alves | [Read More](https://medium.com/p/e4ba1d971543) |
-| Sun, 21 Dec 2025 20:36:47 GMT | Attacking the sunset machine : A complete walkthrough | Hebrewabin | [Read More](https://medium.com/p/1e249f1d9550) |
-| Sun, 21 Dec 2025 20:28:19 GMT | What Today’s Top Security Frameworks Measure, and What They Quietly Ignore | Travis Ray Caverhill | [Read More](https://medium.com/p/4c709d349dbd) |
-| Sun, 21 Dec 2025 20:27:51 GMT | Finishing the year 2025, My Cybersecurity Journey | Aaronashley | [Read More](https://medium.com/p/7daa08b35b57) |
-| Sun, 21 Dec 2025 20:22:11 GMT | My Journey toward HTB’s CJCA | Shane | [Read More](https://medium.com/p/48c36e588747) |
-| Sun, 21 Dec 2025 20:21:53 GMT | Hacking the iOS system keyboard | Matej Kokošinek | [Read More](https://medium.com/p/fd95d80468d4) |
-| Sun, 21 Dec 2025 20:15:51 GMT | Networking and Its Types | Annusijaz | [Read More](https://medium.com/p/93bf6d556fd7) |
-| Sun, 21 Dec 2025 20:09:49 GMT | SCADA/ICS/OT Security Needs More Than Visibility. It Needs Deception. | Fatma Erturk | [Read More](https://medium.com/p/6463b952db8a) |
-| Sun, 21 Dec 2025 20:05:09 GMT | Insecure Direct Object Reference (IDOR): How Blue Teams Detect and Stop It | Anas404 | [Read More](https://medium.com/p/73aa67e8fd6d) |
-| Sun, 21 Dec 2025 19:51:10 GMT | PortSwigger Web Security Academy — Lab Write-Up 2 | 0xM3d0din | [Read More](https://medium.com/p/61d2b2105c4f) |
-| Sun, 21 Dec 2025 19:42:57 GMT | A Comprehensive Guide to Python Virtual Environments with venv | Tareshsharma | [Read More](https://medium.com/p/4efed265767d) |
-| Sun, 21 Dec 2025 19:20:09 GMT | Aglarin Dilini Cozmek: Nmap ile Ilk Adimlar | Umut Baran Yavuz | [Read More](https://medium.com/p/60f29b968767) |
-| Sun, 21 Dec 2025 19:14:45 GMT | How Subscription Models Are Reshaping App Retention | Labeeb Ali | [Read More](https://medium.com/p/11813c4754a5) |
-| Sun, 21 Dec 2025 19:10:38 GMT | Hack The Box University CTF 2025: Tinsel Trouble | Syed Dawood | [Read More](https://medium.com/p/b72d8cd82be9) |
-| Sun, 21 Dec 2025 19:10:22 GMT | The Future: A Superfluous Way of Thinking | Mariaclaudialima | [Read More](https://medium.com/p/517dd64c0610) |
