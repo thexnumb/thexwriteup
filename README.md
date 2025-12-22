@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 23:25:29 GMT | Ottno Pulse: The Happy Accident of Radical Transparency | Mike Ortiz | [Read More](https://medium.com/p/f9b40df427ee) |
+| Mon, 22 Dec 2025 23:22:02 GMT | What’s after Phishing? Vishing and Smishing! | Digital Uppercut | [Read More](https://medium.com/p/278d17cb01a5) |
 | Mon, 22 Dec 2025 23:13:21 GMT | Decentralized Edge Architectures: Turning Industrial Sabotage into a Managed Business Risk | Seyed Mohsen Mousavi Maleki | [Read More](https://medium.com/p/a54207499afa) |
 | Mon, 22 Dec 2025 23:11:06 GMT | I Thought My Phone Was Broken. It Turned Out Something Much Worse Was Happening. | Your IT and Tech Mates | [Read More](https://medium.com/p/83308de6f990) |
 | Mon, 22 Dec 2025 23:06:08 GMT | How I’m Thinking About My Cybersecurity Career Path as a Beginner | Callum - Cyber Security Journey | [Read More](https://medium.com/p/ba78da22ff63) |
@@ -112,5 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 16:42:12 GMT | The Quiet Brain Behind Security Operations: How AI Manages the Workforce Without the Noise | Teona | [Read More](https://medium.com/p/24366d853caa) |
 | Mon, 22 Dec 2025 16:39:12 GMT | Everyday Online Scams And How To Stop Them Cold | Geoffrey Wenger | [Read More](https://medium.com/p/38fd6a1ea326) |
 | Mon, 22 Dec 2025 16:38:20 GMT | Perimeter Security Systems: Complete Guide for Commercial & Residential Properties | Fortnexs Shield | [Read More](https://medium.com/p/bd3086117d22) |
-| Mon, 22 Dec 2025 16:38:16 GMT | PBO : Sistem Perpustakaan Digital guna Memenuhi Responsi | Yasa Wijaya | [Read More](https://medium.com/p/f021e5f5a20c) |
-| Mon, 22 Dec 2025 16:34:10 GMT | This is the age of AI. In 2026, enterprises must plan to be “unaffected” by breaches.. | Agnidipta Sarkar | [Read More](https://medium.com/p/af26a6a4d375) |
