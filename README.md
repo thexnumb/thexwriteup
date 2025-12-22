@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 21:17:27 GMT | Volatility Plugins — Plugin windows.psxview Let’s Talk About it | Dean | [Read More](https://medium.com/p/8a4d78df25ff) |
+| Mon, 22 Dec 2025 21:10:01 GMT | MITRE ATT&CK MCP Server | Inoussa Mouiche | [Read More](https://medium.com/p/ed811874dff0) |
+| Mon, 22 Dec 2025 20:55:09 GMT | How I Taught Myself Cybersecurity With NO 4 Year Degree… | RayasWeb | [Read More](https://medium.com/p/efc27b1d8bb5) |
+| Mon, 22 Dec 2025 20:53:02 GMT | What the Spotify Leak Tells Us About the Future | Enes Karataş | [Read More](https://medium.com/p/1bfc8c5d662e) |
+| Mon, 22 Dec 2025 20:50:35 GMT | How Monetary Distribution Fuels Endless Economic Cycles (And Why You’re Feeling the Squeeze) | Aref Awadh | [Read More](https://medium.com/p/e1a1bd3c1bfb) |
+| Mon, 22 Dec 2025 20:36:24 GMT | Squads vs Resource Pools: Real Productivity or Operational Illusion? | Agilista Desenvolvedor | [Read More](https://medium.com/p/af2d8e542601) |
 | Mon, 22 Dec 2025 20:36:16 GMT | When Betrayal Strikes: Why Divorce Isn’t the Real Answer | HeddaScott | [Read More](https://medium.com/p/ae884be727f7) |
 | Mon, 22 Dec 2025 20:35:10 GMT | SOC127 — SQL Injection Detected — Walkthrough | Petra | [Read More](https://medium.com/p/edfda3951fac) |
+| Mon, 22 Dec 2025 20:34:08 GMT | Sunucum Güvende mi? Kendi Otomatik Raporlama Sistemimi Nasıl Kodladım? | Mehmet Can Arslan | [Read More](https://medium.com/p/3e9c77f87afe) |
 | Mon, 22 Dec 2025 20:31:35 GMT | In Mid-December 2025, Hackers Stole Paid Members’ Pornhub Browsing and Intimate Data | David SEHYEON Baek | [Read More](https://medium.com/p/d233b35c24e6) |
 | Mon, 22 Dec 2025 20:19:17 GMT | Hack The Box University CTF 2025: Tinsel Trouble | Juan Pablo Morales | [Read More](https://medium.com/p/88435905d559) |
 | Mon, 22 Dec 2025 20:16:43 GMT | Behavior of a Public Web Form Submission Endpoint | Ishak Antar | [Read More](https://medium.com/p/f7dad8216884) |
@@ -45,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 18:26:23 GMT | CASP+ ® SecurityX ® SecAI+: The 2026 Pivot | Sec Guy | [Read More](https://medium.com/p/1671e61f0255) |
 | Mon, 22 Dec 2025 18:16:47 GMT | How Tezos Strengthened Its Walls Without Making a Sound | LibertéZ | [Read More](https://medium.com/p/87beae49a26a) |
 | Mon, 22 Dec 2025 18:12:28 GMT | The Dangerous Reality of Modern Scams | J.M. Matthew | [Read More](https://medium.com/p/c19f0e394829) |
+| Mon, 22 Dec 2025 18:12:21 GMT | Security Awareness | Tony | [Read More](https://medium.com/p/2d4c8b4127b8) |
 | Mon, 22 Dec 2025 18:06:13 GMT | When IT Becomes the Wrong Person’s Problem | SkyTide Group | [Read More](https://medium.com/p/e4a5f9014cce) |
 | Mon, 22 Dec 2025 18:02:37 GMT | Privilege Escalation in macOS PKG Installers | m8sec | [Read More](https://medium.com/p/cf3d3b6b8e31) |
 | Mon, 22 Dec 2025 17:59:34 GMT | The Magic of RITA: Detecting C2 Traffic Using Zeek Logs | Sadineni Sai Sushanth | [Read More](https://medium.com/p/963648c8ffcd) |
@@ -106,11 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 14:52:23 GMT | Paket Yönetimi (APT) | g.o. | [Read More](https://medium.com/p/579c018db6d0) |
 | Mon, 22 Dec 2025 14:50:03 GMT | Network Temellerine İlk Adım (10 Eylül 2025) | Onur Öztürk | [Read More](https://medium.com/p/1fef4b277383) |
 | Mon, 22 Dec 2025 14:42:32 GMT | AWS IAM Hardening & Automated Access Reviews for a Startup | Felicity Lois | [Read More](https://medium.com/p/fb805bea3395) |
-| Mon, 22 Dec 2025 14:41:05 GMT | How I’m Training Myself Beyond College | Asmit Patil | [Read More](https://medium.com/p/a9a33d2d18c7) |
-| Mon, 22 Dec 2025 14:40:07 GMT | Common Antivirus Myths That Are Quietly Putting Your Data at Risk | ANSI Technologies | [Read More](https://medium.com/p/66125587c41f) |
-| Mon, 22 Dec 2025 14:39:45 GMT | Day 22 — Chained Attack (The Final Confrontation) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/3d6c934071d3) |
-| Mon, 22 Dec 2025 14:38:07 GMT | Selective Retrieval Ends the Data Lake Tax Draining CISO Budgets | Graylog | [Read More](https://medium.com/p/d9cbd7417be5) |
-| Mon, 22 Dec 2025 14:27:01 GMT | Siber Güvenlik Yolculuğum | Onur Öztürk | [Read More](https://medium.com/p/856721e0ebec) |
-| Mon, 22 Dec 2025 14:26:05 GMT | Securing Your Data with AWS Backup | Ajay Uppu | [Read More](https://medium.com/p/e789639faee5) |
-| Mon, 22 Dec 2025 14:24:25 GMT | Phishing: Understanding One of the Most Effective Cyber Attacks (Part 1) | Cyber Timi | [Read More](https://medium.com/p/7126391bd713) |
-| Mon, 22 Dec 2025 14:20:21 GMT | Alternatif Metode pengujian untuk Bypass firewall Cloudflare | Mohamad Fattyr | [Read More](https://medium.com/p/459b8c42ab27) |
