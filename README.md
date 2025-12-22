@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 23:13:21 GMT | Decentralized Edge Architectures: Turning Industrial Sabotage into a Managed Business Risk | Seyed Mohsen Mousavi Maleki | [Read More](https://medium.com/p/a54207499afa) |
+| Mon, 22 Dec 2025 23:11:06 GMT | I Thought My Phone Was Broken. It Turned Out Something Much Worse Was Happening. | Your IT and Tech Mates | [Read More](https://medium.com/p/83308de6f990) |
+| Mon, 22 Dec 2025 23:06:08 GMT | How I’m Thinking About My Cybersecurity Career Path as a Beginner | Callum - Cyber Security Journey | [Read More](https://medium.com/p/ba78da22ff63) |
+| Mon, 22 Dec 2025 23:02:13 GMT | Most AI Startups Are Just Thin Wrappers Around APIs | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/c380852a5566) |
+| Mon, 22 Dec 2025 22:51:04 GMT | Advent of Cyber 2025 Day 22 - TryHackMe - C2 Detection - Command & Carol - WriteUp | Axoloth | [Read More](https://medium.com/p/4933016d99ed) |
+| Mon, 22 Dec 2025 22:45:01 GMT | Building Your First Hacking Lab: A Step-by-Step Guide to VirtualBox and Kali Linux | Tonia Taiwo | [Read More](https://medium.com/p/137afd3c1ecd) |
+| Mon, 22 Dec 2025 22:37:25 GMT | The Breach Isn’t the Real Problem. The Domino Effect Is. | Cyber-AppSec | [Read More](https://medium.com/p/8a5b864d9c05) |
 | Mon, 22 Dec 2025 22:33:31 GMT | An OCD Hacker | Viodex | [Read More](https://medium.com/p/bbe71aea169a) |
 | Mon, 22 Dec 2025 22:33:03 GMT | HackTheBox: Soulmate Writeup | Rahaliashraf | [Read More](https://medium.com/p/d39779c9ee1c) |
 | Mon, 22 Dec 2025 22:32:17 GMT | FROM ZERO TO FORENSICS: HOW I BUILT AN AUTOMATED ANDROID EVIDENCE TOOLKIT | Davonte Delancey | [Read More](https://medium.com/p/8d4f0703f24e) |
@@ -107,10 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 16:38:20 GMT | Perimeter Security Systems: Complete Guide for Commercial & Residential Properties | Fortnexs Shield | [Read More](https://medium.com/p/bd3086117d22) |
 | Mon, 22 Dec 2025 16:38:16 GMT | PBO : Sistem Perpustakaan Digital guna Memenuhi Responsi | Yasa Wijaya | [Read More](https://medium.com/p/f021e5f5a20c) |
 | Mon, 22 Dec 2025 16:34:10 GMT | This is the age of AI. In 2026, enterprises must plan to be “unaffected” by breaches.. | Agnidipta Sarkar | [Read More](https://medium.com/p/af26a6a4d375) |
-| Mon, 22 Dec 2025 16:30:48 GMT | When a Fake “SBI Aadhaar Update” Turned Into a Banking Trojan | Jagadishtripathy | [Read More](https://medium.com/p/2b869c8e43cc) |
-| Mon, 22 Dec 2025 16:26:56 GMT | Your AI Will Obey Another AI — Even If It Refuses You | AhmedAbdelmenem | [Read More](https://medium.com/p/52a25b94a1e1) |
-| Mon, 22 Dec 2025 16:22:59 GMT | “Your First Paycheck for Finding Flaws: The Beginner’s Guide to Bug Bounties” | Aman Sharma | [Read More](https://medium.com/p/5a40bc38d89e) |
-| Mon, 22 Dec 2025 16:16:24 GMT | Why One Click Cleaners Rarely Improve System Health | Geoffrey Wenger | [Read More](https://medium.com/p/2102c2da66e6) |
-| Mon, 22 Dec 2025 16:14:35 GMT | Vulnerability Databases: The Holy Grail of Cybersecurity? | Maikel Mardjan | [Read More](https://medium.com/p/c62b6d07c9ef) |
-| Mon, 22 Dec 2025 16:08:48 GMT | How I’ll Document My Cybersecurity Journey: My Learning Pipeline | I Putu Ali H. | [Read More](https://medium.com/p/3f1a571d0f39) |
-| Mon, 22 Dec 2025 16:06:30 GMT | Advanced Permission Systems in Django 6.0: | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/0916e84af84c) |
