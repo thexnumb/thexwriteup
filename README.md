@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 15:18:43 GMT | เรียนรู้การทำ และ Penetration Testing ด้วยตัวเอง — EP#01 | MisterB | [Read More](https://medium.com/p/691a515d093b) |
+| Mon, 22 Dec 2025 15:08:13 GMT | It Started With Blind XSS: How a Travel Website Fell to Account Takeover | D3vCyph3r | [Read More](https://medium.com/p/0c94c16c7732) |
+| Mon, 22 Dec 2025 15:02:23 GMT | Cyber Briefing: 2025.12.22 | CyberMaterial | [Read More](https://medium.com/p/3c0db829a01d) |
+| Mon, 22 Dec 2025 14:59:27 GMT | Social Engineering: When Humans Become the Weakest Link in Cybersecurity | Arasyncyber | [Read More](https://medium.com/p/e45ccf8b23b6) |
+| Mon, 22 Dec 2025 14:52:23 GMT | Paket Yönetimi (APT) | g.o. | [Read More](https://medium.com/p/579c018db6d0) |
+| Mon, 22 Dec 2025 14:50:03 GMT | Network Temellerine İlk Adım (10 Eylül 2025) | Onur Öztürk | [Read More](https://medium.com/p/1fef4b277383) |
+| Mon, 22 Dec 2025 14:42:32 GMT | AWS IAM Hardening & Automated Access Reviews for a Startup | Felicity Lois | [Read More](https://medium.com/p/fb805bea3395) |
+| Mon, 22 Dec 2025 14:41:05 GMT | How I’m Training Myself Beyond College | Asmit Patil | [Read More](https://medium.com/p/a9a33d2d18c7) |
+| Mon, 22 Dec 2025 14:40:07 GMT | Common Antivirus Myths That Are Quietly Putting Your Data at Risk | ANSI Technologies | [Read More](https://medium.com/p/66125587c41f) |
+| Mon, 22 Dec 2025 14:39:45 GMT | Day 22 — Chained Attack (The Final Confrontation) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/3d6c934071d3) |
+| Mon, 22 Dec 2025 14:38:07 GMT | Selective Retrieval Ends the Data Lake Tax Draining CISO Budgets | Graylog | [Read More](https://medium.com/p/d9cbd7417be5) |
+| Mon, 22 Dec 2025 14:27:01 GMT | Siber Güvenlik Yolculuğum | Onur Öztürk | [Read More](https://medium.com/p/856721e0ebec) |
 | Mon, 22 Dec 2025 14:26:05 GMT | Securing Your Data with AWS Backup | Ajay Uppu | [Read More](https://medium.com/p/e789639faee5) |
 | Mon, 22 Dec 2025 14:24:25 GMT | Phishing: Understanding One of the Most Effective Cyber Attacks (Part 1) | Cyber Timi | [Read More](https://medium.com/p/7126391bd713) |
 | Mon, 22 Dec 2025 14:20:21 GMT | Alternatif Metode pengujian untuk Bypass firewall Cloudflare | Mohamad Fattyr | [Read More](https://medium.com/p/459b8c42ab27) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 09:30:01 GMT | Is This the End of Bugthrive? A Brutally Honest Reflection | ProwlSec | [Read More](https://medium.com/p/e34f6a6ba8f0) |
 | Mon, 22 Dec 2025 09:21:43 GMT | AI-Driven Web Application Pentesting with HexStrike-AI | Andrey Pautov | [Read More](https://medium.com/p/67f3dae32040) |
 | Mon, 22 Dec 2025 09:21:04 GMT | Kuwait Leaders Choose Video Analytics for Seamless Fire Alarm Integration | Tekshoyabeelyas | [Read More](https://medium.com/p/8e4cd2a1a87f) |
-| Mon, 22 Dec 2025 09:18:55 GMT | https://offensoacademy.com/ | Jahanashabas | [Read More](https://medium.com/p/1eb1a87c0b50) |
-| Mon, 22 Dec 2025 09:18:37 GMT | Mega Christmas Digital Signing Benchmark — How Do Post Quantum Sigs Perform? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e3ab4e08d714) |
-| Mon, 22 Dec 2025 09:14:47 GMT | Building Efficient MLM Referral-Based Business Systems with Technology in Kapurthala | Jonney | [Read More](https://medium.com/p/1c37a626d213) |
-| Mon, 22 Dec 2025 09:10:04 GMT | The Hidden Power of WordPress Hosting When Paired with Low-Cost Reseller Plans | Janet Watson | [Read More](https://medium.com/p/e4e79fe790fe) |
-| Mon, 22 Dec 2025 09:07:40 GMT | GCP SSH Explained Simply: Browser vs. Permanent SSH Keys (Beginner Guide) | Aayusha Adhikari | [Read More](https://medium.com/p/bfd131e81715) |
-| Mon, 22 Dec 2025 09:06:47 GMT | How an MCA Degree Can Unlock Career Opportunities in Data Science, AI, and Cybersecurity | Tina Verma | [Read More](https://medium.com/p/8b5ccfbd2d02) |
-| Mon, 22 Dec 2025 09:00:04 GMT | The Growing Importance of Security, Identification and Automation Systems in Organisations | Arshiyaazar | [Read More](https://medium.com/p/ebd4663bb0b1) |
-| Mon, 22 Dec 2025 08:54:21 GMT | How Professional Security Supports Solar Farm Safety in Geelong | Group One Security Services Pty Ltd | [Read More](https://medium.com/p/a1eebfd74347) |
-| Mon, 22 Dec 2025 08:50:14 GMT | Digital Transformation Without Compromising Security: How to Achieve It | Rahman Iqbal | [Read More](https://medium.com/p/92806b72de6a) |
-| Mon, 22 Dec 2025 08:49:00 GMT | The Anatomy of React2Shell: Understanding the CVE-2025–55182 Critical RCE | SecureSlate | [Read More](https://medium.com/p/2f6b26015cbb) |
-| Mon, 22 Dec 2025 08:45:51 GMT | How to Reduce the Risk of DDoS Attacks Through Infrastructure Hardening | Jerome Decinco | [Read More](https://medium.com/p/79ae5a5691a1) |
-| Mon, 22 Dec 2025 08:45:29 GMT | TryHackMe: Retro Writeup | cbev | [Read More](https://medium.com/p/849764fe754d) |
