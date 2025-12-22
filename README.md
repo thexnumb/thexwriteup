@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 11:14:05 GMT | How to Get Your Lost or Scammed Cryptocurrency Back: Go to Optimistic Hacker Gaius. | Frankedward | [Read More](https://medium.com/p/2cd9cd813677) |
+| Mon, 22 Dec 2025 11:11:48 GMT | Microsoft’s New Centralized Defense: Blocking External Teams Users Directly from Defender Portal | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/87022a9f7767) |
+| Mon, 22 Dec 2025 11:07:40 GMT | The Technology That Shows Where Digital Content Comes From and Whether It Can Be Trusted | Himanshu Chaudhary | [Read More](https://medium.com/p/83a2b253c3b6) |
+| Mon, 22 Dec 2025 11:04:59 GMT | Best IT Helpdesk and Remote Support Services Provider in India | Samvaskaran | [Read More](https://medium.com/p/a7aedbe64496) |
+| Mon, 22 Dec 2025 11:04:15 GMT | Secrets Management in DevOps: The Guide You Wish You Had Before That 3 AM Incident | Divesh Rajput | [Read More](https://medium.com/p/13c1e13b8d8e) |
+| Mon, 22 Dec 2025 10:55:44 GMT | How I Found a Broken Subscription Logic That Unlocked Paid Courses for Free | Harshdeep Singh | [Read More](https://medium.com/p/81a4b5544429) |
+| Mon, 22 Dec 2025 10:54:27 GMT | Spotted a Phishing Email | Century Solutions Group | [Read More](https://medium.com/p/6704d172d47a) |
+| Mon, 22 Dec 2025 10:52:38 GMT | Cybersecurity: defence of company assets | Spazioformadsgn | [Read More](https://medium.com/p/31788d4fa077) |
+| Mon, 22 Dec 2025 10:49:41 GMT | What is SSH? A Beginner’s Guide to Secure Connections | Namrata | [Read More](https://medium.com/p/f9646e8b6d3d) |
+| Mon, 22 Dec 2025 10:48:44 GMT | Lessons from the 48.2 Billion Yen Heist: Why Was the “Robust MPC” Breached? | Satelite | [Read More](https://medium.com/p/f67052ff5f48) |
+| Mon, 22 Dec 2025 10:45:27 GMT | I Built a Security API Solo — Here’s How I Turned 3 Months of Research Into a Product | Raviteja Nekkalapu | [Read More](https://medium.com/p/c7c72db98d3b) |
+| Mon, 22 Dec 2025 10:44:42 GMT | Why I Think It’s Time to Rethink reCAPTCHA in a GDPR World | Regine | [Read More](https://medium.com/p/853fb82a27ab) |
 | Mon, 22 Dec 2025 10:32:02 GMT | Beginner’s Guide to Penetration Testing Tools | Manisha Chaudhary | [Read More](https://medium.com/p/1188472211ff) |
 | Mon, 22 Dec 2025 10:29:37 GMT | Open OT: A Framework for Sovereign, Secure, and Operable Industrial Systems | Sulaiman Alhasawi | [Read More](https://medium.com/p/54815e211fa2) |
 | Mon, 22 Dec 2025 10:24:34 GMT | The Cyber security Career Guide for Indian Citizens in New Zealand | qbaycareer | [Read More](https://medium.com/p/620ffd6adfac) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 06:25:25 GMT | How Security Services Improve Safety for Events and Gatherings | ASRA Protection Service | [Read More](https://medium.com/p/8259564a104c) |
 | Mon, 22 Dec 2025 06:23:42 GMT | In His Arms I Discovered The Little But Great Act Everybody Yearns For, Yet Never Admits: The Love… | Carmen Helen Golden | [Read More](https://medium.com/p/f83c20e5737f) |
 | Mon, 22 Dec 2025 06:20:08 GMT | Police System in India | Vivek Shukla | [Read More](https://medium.com/p/2fe68b67c03b) |
-| Mon, 22 Dec 2025 06:02:21 GMT | DevOps Roadmap (Part 31): DevOps Security — Secrets, IAM, TLS, Vault, Image Scanning, Zero Trust &… | Sainath | [Read More](https://medium.com/p/5b9c891b6e3a) |
-| Mon, 22 Dec 2025 06:01:47 GMT | How I Found 7 Logical Bugs in the com-olho CTF Feature | StrangeRwhite | [Read More](https://medium.com/p/7adc4c88615d) |
-| Mon, 22 Dec 2025 06:01:12 GMT | From Canadian Innovation to Nigerian Homes: The Future of Smart Living With Altium360 | Anslem Eromobor | [Read More](https://medium.com/p/427d61c6d4f3) |
-| Mon, 22 Dec 2025 05:53:57 GMT | CSA XCON Returns to Dehradun After a Decade | Deepak Sharma | [Read More](https://medium.com/p/bc70d934ebc2) |
-| Mon, 22 Dec 2025 05:52:17 GMT | Why Your Robot Vacuum Gets Stuck (And How AI is Fixing It) | Shujaatali Badami | [Read More](https://medium.com/p/0f51ffb55674) |
-| Mon, 22 Dec 2025 05:52:15 GMT | HHMD vs DFMD: What’s the Difference in Metal Detection? | Himoto | [Read More](https://medium.com/p/4295f02bd803) |
-| Mon, 22 Dec 2025 05:50:29 GMT | A Virus On The High Seas | O. J. Okpabi | [Read More](https://medium.com/p/d74ff5d208b3) |
-| Mon, 22 Dec 2025 05:42:05 GMT | Proven Strategies for Enterprise Digital Security | Kadhijahafiya | [Read More](https://medium.com/p/63503d4f898e) |
-| Mon, 22 Dec 2025 05:32:39 GMT | Let’s Defend SOC169 — Possible IDOR Attack Detected (Analyst Thought Process) | Pablo Rodriguez Sanz | [Read More](https://medium.com/p/854ff303008b) |
-| Mon, 22 Dec 2025 05:32:38 GMT | 86 Million Songs Just Walked Out of Spotify’s Front Door. Nobody Stopped Them. | NeuralNikitha | [Read More](https://medium.com/p/982848c1671f) |
-| Mon, 22 Dec 2025 05:23:57 GMT | Tải Tag After School Apk V2.0 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/86370b0b39c8) |
-| Mon, 22 Dec 2025 05:23:00 GMT | Bcrypt Password Verification in Python | Mnmrukshan | [Read More](https://medium.com/p/b83f6d525b5b) |
