@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 06:25:25 GMT | How Security Services Improve Safety for Events and Gatherings | ASRA Protection Service | [Read More](https://medium.com/p/8259564a104c) |
+| Mon, 22 Dec 2025 06:23:42 GMT | In His Arms I Discovered The Little But Great Act Everybody Yearns For, Yet Never Admits: The Love… | Carmen Helen Golden | [Read More](https://medium.com/p/f83c20e5737f) |
+| Mon, 22 Dec 2025 06:20:08 GMT | Police System in India | Vivek Shukla | [Read More](https://medium.com/p/2fe68b67c03b) |
+| Mon, 22 Dec 2025 06:02:21 GMT | DevOps Roadmap (Part 31): DevOps Security — Secrets, IAM, TLS, Vault, Image Scanning, Zero Trust &… | Sainath | [Read More](https://medium.com/p/5b9c891b6e3a) |
+| Mon, 22 Dec 2025 06:01:47 GMT | How I Found 7 Logical Bugs in the com-olho CTF Feature | StrangeRwhite | [Read More](https://medium.com/p/7adc4c88615d) |
+| Mon, 22 Dec 2025 06:01:12 GMT | From Canadian Innovation to Nigerian Homes: The Future of Smart Living With Altium360 | Anslem Eromobor | [Read More](https://medium.com/p/427d61c6d4f3) |
+| Mon, 22 Dec 2025 05:53:57 GMT | CSA XCON Returns to Dehradun After a Decade | Deepak Sharma | [Read More](https://medium.com/p/bc70d934ebc2) |
+| Mon, 22 Dec 2025 05:52:17 GMT | Why Your Robot Vacuum Gets Stuck (And How AI is Fixing It) | Shujaatali Badami | [Read More](https://medium.com/p/0f51ffb55674) |
+| Mon, 22 Dec 2025 05:52:15 GMT | HHMD vs DFMD: What’s the Difference in Metal Detection? | Himoto | [Read More](https://medium.com/p/4295f02bd803) |
+| Mon, 22 Dec 2025 05:50:29 GMT | A Virus On The High Seas | O. J. Okpabi | [Read More](https://medium.com/p/d74ff5d208b3) |
 | Mon, 22 Dec 2025 05:42:05 GMT | Proven Strategies for Enterprise Digital Security | Kadhijahafiya | [Read More](https://medium.com/p/63503d4f898e) |
 | Mon, 22 Dec 2025 05:32:39 GMT | Let’s Defend SOC169 — Possible IDOR Attack Detected (Analyst Thought Process) | Pablo Rodriguez Sanz | [Read More](https://medium.com/p/854ff303008b) |
 | Mon, 22 Dec 2025 05:32:38 GMT | 86 Million Songs Just Walked Out of Spotify’s Front Door. Nobody Stopped Them. | NeuralNikitha | [Read More](https://medium.com/p/982848c1671f) |
@@ -103,13 +113,3 @@ That Actually Helps | Shubh Gupta | [Read More](https://medium.com/p/5036bcd02a2
 | Sun, 21 Dec 2025 19:14:45 GMT | How Subscription Models Are Reshaping App Retention | Labeeb Ali | [Read More](https://medium.com/p/11813c4754a5) |
 | Sun, 21 Dec 2025 19:10:38 GMT | Hack The Box University CTF 2025: Tinsel Trouble | Syed Dawood | [Read More](https://medium.com/p/b72d8cd82be9) |
 | Sun, 21 Dec 2025 19:10:22 GMT | The Future: A Superfluous Way of Thinking | Mariaclaudialima | [Read More](https://medium.com/p/517dd64c0610) |
-| Sun, 21 Dec 2025 19:03:45 GMT | HTB University CTF 2025: Tinsel Trouble Forensics & Coding Challenges | Loay Salah | [Read More](https://medium.com/p/744079ee21d5) |
-| Sun, 21 Dec 2025 18:56:08 GMT | *Water, Security and Climate: New challenges for South Asia* | Siraj Karam Pitafi | [Read More](https://medium.com/p/4a58bbd4c8f2) |
-| Sun, 21 Dec 2025 18:55:51 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-5 | Cruz | [Read More](https://medium.com/p/931daf99359e) |
-| Sun, 21 Dec 2025 18:48:33 GMT | Android Device Security: Sandboxing, Rooting, and Attestation Explained | Vikas Soni | [Read More](https://medium.com/p/719169339871) |
-| Sun, 21 Dec 2025 18:45:10 GMT | How to Create an Arch Linux Virtual Machine on Kali Linux (Using KVM/QEMU) | Oscar Yanez Feijoo | [Read More](https://medium.com/p/10c080fb9aab) |
-| Sun, 21 Dec 2025 18:42:27 GMT | To You Who Learned Resilience Slowly: A Gentle Ode to Strength Forged in Time | Wilson Igbasi | [Read More](https://medium.com/p/aa60d1e9bb07) |
-| Sun, 21 Dec 2025 18:39:01 GMT | Google SecOps study | Mmohammadsalman | [Read More](https://medium.com/p/667fd39c1a64) |
-| Sun, 21 Dec 2025 18:37:54 GMT | OAuth, SAML, OIDC — Same Login Screen. Very Different Stories. | Anirudha Chakraborty | [Read More](https://medium.com/p/7646ddb04bc7) |
-| Sun, 21 Dec 2025 18:37:32 GMT | 10 Signs Your WordPress Site Has Been Hacked (And What To Do About It) | Faysal Ahmed | [Read More](https://medium.com/p/8ea2bcda67f0) |
-| Sun, 21 Dec 2025 18:29:56 GMT | Hack The Box — NeuroSync | Harjot Singh | [Read More](https://medium.com/p/1bfaf0017281) |
