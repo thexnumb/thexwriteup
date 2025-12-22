@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 20:16:43 GMT | Behavior of a Public Web Form Submission Endpoint | Ishak Antar | [Read More](https://medium.com/p/f7dad8216884) |
+| Mon, 22 Dec 2025 20:14:33 GMT | Scrolling to Success: How Digital Marketing Turns Attention into Opportunity | Shree Dwivedi | [Read More](https://medium.com/p/45fd7c4b64ef) |
+| Mon, 22 Dec 2025 20:11:21 GMT | Nessus Guide Windows 11 | Navraj Gill | [Read More](https://medium.com/p/8057cc5c1b64) |
+| Mon, 22 Dec 2025 20:02:48 GMT | It’s Not Imposter Syndrome. It’s Tribalism | Jeff Kingsland | [Read More](https://medium.com/p/0cee1dc63a39) |
+| Mon, 22 Dec 2025 20:00:03 GMT | Building the Muscle of Courage | Clara Popescu Brooks | [Read More](https://medium.com/p/9ffe58b632a7) |
+| Mon, 22 Dec 2025 19:51:30 GMT | Palisade: Zero-Trust Security for the AI Model Supply Chain | sharathr | [Read More](https://medium.com/p/def2b8232868) |
+| Mon, 22 Dec 2025 19:43:46 GMT | The Hunt & Capture Of RaccoonO365 | O. J. Okpabi | [Read More](https://medium.com/p/106dcddc7e80) |
+| Mon, 22 Dec 2025 19:40:05 GMT | Are Cloud Certifications Worth It? I Analyzed 825 Jobs to Find Out | John Mehler | [Read More](https://medium.com/p/9b73f4226771) |
+| Mon, 22 Dec 2025 19:38:07 GMT | The Day Our Production Server Flatlined: Anatomy of a Cryptojacking Attack | Suraj Jeswara | [Read More](https://medium.com/p/e675c58750ac) |
 | Mon, 22 Dec 2025 19:36:31 GMT | The Day My App Finally Trusted Its Users (A JWT Story) | Brayce Dominic | [Read More](https://medium.com/p/68775edf8a0e) |
 | Mon, 22 Dec 2025 19:36:02 GMT | 1,000 Unsecured MCP Servers: The Hidden Attack Surface You Missed | Mehdi BAFDIL | [Read More](https://medium.com/p/186f157822c4) |
 | Mon, 22 Dec 2025 19:26:17 GMT | Enterprise Data Architecture: The Blueprint for Digital Success | C.N. Husnul Izzati | [Read More](https://medium.com/p/78fa70e27b91) |
@@ -105,12 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 14:08:18 GMT | RST TI Report Digest: 22 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/f8f8d8108e02) |
 | Mon, 22 Dec 2025 14:04:10 GMT | What Anthropic’s Claude Incident Means for Future AI Security | Hello @ Octellient | [Read More](https://medium.com/p/993701ee3676) |
 | Mon, 22 Dec 2025 14:02:23 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Mins to Fix It. | DefineWorld | [Read More](https://medium.com/p/00c0d6001182) |
-| Mon, 22 Dec 2025 14:02:22 GMT | Antes del CCNA, fue el CCENT: así empezó todo en mi carrera de redes | Williams Padilla | [Read More](https://medium.com/p/102a9356e82c) |
-| Mon, 22 Dec 2025 14:00:45 GMT | The Concrete Vault Era: DeFi’s Evolution from Chaos to Composable Capital | Rizkierel | [Read More](https://medium.com/p/a7c880819afb) |
-| Mon, 22 Dec 2025 13:52:00 GMT | Fa-La-La-Laaaaaaa | The Write Sanity | [Read More](https://medium.com/p/28694e788224) |
-| Mon, 22 Dec 2025 13:48:16 GMT | EFF presents: The Breachies 2025- The Worst, Weirdest, Most Impactful Data Breaches of the Year | Erkan Saka | [Read More](https://medium.com/p/c6c0de6d1397) |
-| Mon, 22 Dec 2025 13:46:57 GMT | Icinga 2: From Monitoring to RCE | Itachix0f | [Read More](https://medium.com/p/2446b5c93506) |
-| Mon, 22 Dec 2025 13:46:47 GMT | Introduction to Cybersecurity — Final Part | Eniiyi | [Read More](https://medium.com/p/c9236d192b3e) |
-| Mon, 22 Dec 2025 13:45:34 GMT | The Lights Went Out in Denmark. London Just Confirmed a Breach. Is 2026 the Year of Cyber-Warfare? | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/1b8a504f75d7) |
-| Mon, 22 Dec 2025 13:44:00 GMT | Online Privacy in 2025: Why Regular Browsers Aren’t Enough Anymore | Anna Kolodkina | [Read More](https://medium.com/p/c1d995d841d9) |
-| Mon, 22 Dec 2025 13:39:17 GMT | How I Discovered a Critical OAuth Account Takeover Across Web and Mobile | Zuksh | [Read More](https://medium.com/p/97118706365a) |
