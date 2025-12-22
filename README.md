@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 07:38:09 GMT | Who Killed ChatGPT? | YUZU | [Read More](https://medium.com/p/a973efbf23ad) |
+| Mon, 22 Dec 2025 07:33:56 GMT | Hack target worth two U.S. defense budgets — the dream of all hackers: Bitcoin P2PK | 0trust0day | [Read More](https://medium.com/p/024cfb2b4527) |
+| Mon, 22 Dec 2025 07:26:51 GMT | IT Security Solutions — Top Tools To Protect Your IT Assets | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/93200b225a69) |
+| Mon, 22 Dec 2025 07:26:29 GMT | AWS & Azure Bug Bounties: Essential Kali Tools for Cloud Security Testing | Muhammad Haider Tallal | [Read More](https://medium.com/p/8f14dc589f20) |
+| Mon, 22 Dec 2025 07:24:49 GMT | Alhamdulillah, I’m glad to share that I’ve built a clear and solid understanding of many web… | Abdullah Mina | [Read More](https://medium.com/p/4947df9ee36f) |
+| Mon, 22 Dec 2025 07:23:32 GMT | Top Laravel Development Trends Driving Web Applications in 2026 | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/40b965d5e331) |
+| Mon, 22 Dec 2025 07:23:07 GMT | Expert Guide to Security Hardening in Linux | Linux Guide | [Read More](https://medium.com/p/0169e8747155) |
+| Mon, 22 Dec 2025 07:22:05 GMT | SOC 2 Type II Compliance Overview | threatsys Pvt. Ltd. 07 | [Read More](https://medium.com/p/874cf85b8ca5) |
+| Mon, 22 Dec 2025 07:22:00 GMT | Tải Hack Supreme Duelist Stickman (Menu, Bất Tử, Tiền, Full Lv) v4.0.4 | genzvnmod | [Read More](https://medium.com/p/a8772ce4278c) |
+| Mon, 22 Dec 2025 07:21:07 GMT | How a Simple Morning Routine Improves Daily Productivity | Shanigujjar | [Read More](https://medium.com/p/6dae1a275ee8) |
+| Mon, 22 Dec 2025 07:18:46 GMT | Day 83- KQL basics every beginner must know | unica 02 | [Read More](https://medium.com/p/219bcf69e850) |
 | Mon, 22 Dec 2025 07:12:08 GMT | Empowering Digital Growth Through Mobile App and Software Development | Givat Auther | [Read More](https://medium.com/p/91d87659810e) |
 | Mon, 22 Dec 2025 07:10:48 GMT | Beyond Ransomware: How Autonomous Malware and Intelligent Threat Chains Are Redefining Cybercrime | Ssolosssolo | [Read More](https://medium.com/p/f2766e67b6c3) |
 | Mon, 22 Dec 2025 07:10:25 GMT | Reliable IT Support Services for Badgerys Creek | Any network | [Read More](https://medium.com/p/5167e078dde4) |
@@ -102,14 +113,3 @@ That Actually Helps | Shubh Gupta | [Read More](https://medium.com/p/5036bcd02a2
 | Sun, 21 Dec 2025 22:14:38 GMT | Technology rarely changes in isolation. | Rye Overly | [Read More](https://medium.com/p/40180fe2652f) |
 | Sun, 21 Dec 2025 22:08:23 GMT | [CyberDefenders Write-up] Tusk Infostealer Lab | OxMotaw3 | [Read More](https://medium.com/p/83d4e5252972) |
 | Sun, 21 Dec 2025 21:44:16 GMT | The Ultimate Safe Investment for Your Family | Devdeep Mukherji | [Read More](https://medium.com/p/f02328529515) |
-| Sun, 21 Dec 2025 21:43:25 GMT | Steganography 101: Hiding secret in plain sights using STEGHIDE | Madhu Sudhan | [Read More](https://medium.com/p/7c48def3b35f) |
-| Sun, 21 Dec 2025 21:40:34 GMT | Metaparadox STO Security Update: Strengthening Governance with Multi-Signature Protection | Metaparadox LTD | [Read More](https://medium.com/p/a0da78a76492) |
-| Sun, 21 Dec 2025 21:37:43 GMT | How to retrieve lost eth from hackers? | Flynn Braden | [Read More](https://medium.com/p/da72173e1dce) |
-| Sun, 21 Dec 2025 21:35:43 GMT | HTB — Starting Point [TIER 0] — “Dancing” | Faraam | [Read More](https://medium.com/p/c3e27969b8c1) |
-| Sun, 21 Dec 2025 21:24:40 GMT | TryHackMe Writeup: All in One | Berkay AĞGÜL | [Read More](https://medium.com/p/299ddc96b119) |
-| Sun, 21 Dec 2025 21:16:45 GMT | I Made $11K on a TikTok Bug Bounty | Codi | [Read More](https://medium.com/p/30da9a14af84) |
-| Sun, 21 Dec 2025 21:15:10 GMT | Why Cybersecurity Beginners Fail (3 Common Mistakes) | Shahzaib | [Read More](https://medium.com/p/6273a80be00d) |
-| Sun, 21 Dec 2025 21:13:16 GMT | ‍☠️ Top Free Tools That Can Make You $1000/Month in Bug Bounty | Vipul Sonule | [Read More](https://medium.com/p/f3ad113d8d64) |
-| Sun, 21 Dec 2025 21:12:19 GMT | I Found My First Bugs in 48 Hours: A Beginner’s Real-World Guide | Codi | [Read More](https://medium.com/p/3c9edbf4fe36) |
-| Sun, 21 Dec 2025 21:03:36 GMT | Network 101'den Siber Güvenliğe Kısım 2 | Mustafa San | [Read More](https://medium.com/p/ec64e45039fa) |
-| Sun, 21 Dec 2025 20:59:54 GMT | Building and Securing a Linux Apache Web Server | Felicity Lois | [Read More](https://medium.com/p/09c24615fd09) |
