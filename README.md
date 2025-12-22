@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 01:21:57 GMT | Nwoke ji Obi’m: A Heart I’m Learning to Reclaim | Michelle Yemi-Adenuga | [Read More](https://medium.com/p/47a4dd3a28d1) |
+| Mon, 22 Dec 2025 00:59:02 GMT | Attackers Don’t Follow the Kill Chain. You Shouldn’t Either. | Val Vask | [Read More](https://medium.com/p/83cf234a171d) |
+| Mon, 22 Dec 2025 00:40:27 GMT | Swiss Cheese Model in Cybersecurity | Kurt Winter | [Read More](https://medium.com/p/af75a88770e8) |
+| Mon, 22 Dec 2025 00:19:16 GMT | CCTV camera onitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/bd5f6ca28ea1) |
+| Mon, 22 Dec 2025 00:07:19 GMT | Learning Ethical Hacking Through Hands-On Labs: Website Cloning and SMB Vulnerability Scanning | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/73e73b476337) |
+| Mon, 22 Dec 2025 00:02:21 GMT | TryHackMe - Tempest - Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/3451e0d6e2dc) |
+| Mon, 22 Dec 2025 00:02:20 GMT | Unlock the Secrets of Ethical Hacking: How to Safeguard Your Future in Cybersecurity | Negro Med | [Read More](https://medium.com/p/3e04dadaa10c) |
+| Sun, 21 Dec 2025 23:58:18 GMT | VibeHackAI: Human‑Led Multi-Agent AI Penetration Testing Team | cawa102 | [Read More](https://medium.com/p/a25da92ea9b9) |
+| Sun, 21 Dec 2025 23:45:41 GMT | From MITRE ATT&CK to Agentic Threat Investigation | Inoussa Mouiche | [Read More](https://medium.com/p/58336c22f482) |
+| Sun, 21 Dec 2025 23:39:55 GMT | Advent of Cyber 2025 Day 21 — Malware Analysis Bonus Challenge | Matt Swann | [Read More](https://medium.com/p/553b37d78530) |
 | Sun, 21 Dec 2025 23:23:26 GMT | The Dirty Secret of Observability: Why Your 10,000 Agents Are a Security Time Bomb (And How OpAMP… | TheRunBook | [Read More](https://medium.com/p/8f89a0848415) |
 | Sun, 21 Dec 2025 23:04:48 GMT | When You Post, You Become the Target | Sam Galope | [Read More](https://medium.com/p/98fee7abc095) |
 | Sun, 21 Dec 2025 22:59:54 GMT | Best Crypto Asset Recovery Service Providers: Top Firms to Retrieve Lost Bitcoin: Reach Out To… | Kevin Braiw | [Read More](https://medium.com/p/024bcca4d4b8) |
@@ -103,13 +113,3 @@ Hardening Docker Images | Olha Stefanishyna | [Read More](https://medium.com/p/d
 | Sun, 21 Dec 2025 15:21:07 GMT | Client-Side AES Encryption Is Not Secure | Aman Chauhan | [Read More](https://medium.com/p/b06ac2ff59ef) |
 | Sun, 21 Dec 2025 15:19:33 GMT | Obfuscation — The Egg Shell File - AoC 2025 Day — 18 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/ad89ed559278) |
 | Sun, 21 Dec 2025 15:17:27 GMT | Building a Tiny Linux From Scratch | Im0nk3yar0und | [Read More](https://medium.com/p/48c9d9a06f3c) |
-| Sun, 21 Dec 2025 14:42:40 GMT | Why AI Will Never Save You From Yourself | Cyberkech | [Read More](https://medium.com/p/7075314eaeef) |
-| Sun, 21 Dec 2025 14:34:48 GMT | We pwned X, Vercel, Cursor, and Discord through a supply-chain attack | Aman Shekhar | [Read More](https://medium.com/p/7730f70bfa10) |
-| Sun, 21 Dec 2025 14:32:18 GMT | (Comptia A+) The Zen of Backup: Strategies, Tools, and Best Practices | Vignesh R | [Read More](https://medium.com/p/0397fd4c8003) |
-| Sun, 21 Dec 2025 14:29:52 GMT | Breaking LLM Guardrails: A Hands-On Journey into Prompt Injection | Srijan Adk | [Read More](https://medium.com/p/e74c48a105b4) |
-| Sun, 21 Dec 2025 14:28:54 GMT | How do i trace and retrieve stolen/lost ethereum without upfront fee? | Flynn Braden | [Read More](https://medium.com/p/fed6e2806266) |
-| Sun, 21 Dec 2025 14:28:34 GMT | Day 21 — Balancing Speed and Security (Confrontation with Jack) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/28c2e67824f2) |
-| Sun, 21 Dec 2025 14:27:20 GMT | Building a Robust Information Security Management System (ISMS): A Practical Guide for 2025 | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/427e728cfbb3) |
-| Sun, 21 Dec 2025 14:26:46 GMT | The Transport & Application Layer — Network series 3 | Mr.Cool | [Read More](https://medium.com/p/564e351dd623) |
-| Sun, 21 Dec 2025 14:20:51 GMT | Your First 30 Days With Northwave | Fook Hwa Tan | [Read More](https://medium.com/p/df8509856333) |
-| Sun, 21 Dec 2025 14:19:06 GMT | Choose Your Path: Strategy, Response, or Long-Term Partnership — 5 Ways to Work With Us (Depending… | Fook Hwa Tan | [Read More](https://medium.com/p/6d3f4568e9a5) |
