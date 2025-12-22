@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 08:25:22 GMT | Day 16: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/1652093302ef) |
+| Mon, 22 Dec 2025 08:25:18 GMT | Exploiting Insecure Data storage Vulnerability in AndroGoat | Jahan Zeb | [Read More](https://medium.com/p/3066a3b47296) |
+| Mon, 22 Dec 2025 08:24:04 GMT | When Her Account Was Hacked: How Data Protection Saved Her Digital Life | Devarshi Acharya | [Read More](https://medium.com/p/864f9b52a6dc) |
+| Mon, 22 Dec 2025 08:23:32 GMT | Solving Global  SSH Auth in Hyprland | Ansari | [Read More](https://medium.com/p/96208ab24106) |
+| Mon, 22 Dec 2025 08:23:13 GMT | Day 15: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/7f69bea9c352) |
+| Mon, 22 Dec 2025 08:14:58 GMT | How Businesses Evaluate IT Service Providers Beyond Online Discussions | @itservicesguide | [Read More](https://medium.com/p/63bf6ba9daee) |
+| Mon, 22 Dec 2025 08:14:00 GMT | Malware Analysis — Malhare.exe - TryHackMe - Walkthrough | Visir | [Read More](https://medium.com/p/0ac53e434d04) |
+| Mon, 22 Dec 2025 08:11:37 GMT | Security Lab Simulation Project Part 16: Generating Security Alerts on Elasticsearch | Jenny | [Read More](https://medium.com/p/81fd51bcfd38) |
+| Mon, 22 Dec 2025 08:09:51 GMT | CSA XCON 2026: Elevating Global Cybersecurity Dialogue from the Foothills of Uttarakhand | Sagar Sajwan | [Read More](https://medium.com/p/49589160f34d) |
+| Mon, 22 Dec 2025 08:07:37 GMT | How to Block Bot Signups in Next.js 15: Stop Disposable Emails Before They Ruin Your SaaS Metrics | Trust Shield | [Read More](https://medium.com/p/4a79ce788492) |
+| Mon, 22 Dec 2025 08:05:01 GMT | Tải Soul Knight MOD APK V7.7.0 (Mở Khóa Nhân Vật, Menu) | GOCMOD | [Read More](https://medium.com/p/f40902b5ad0e) |
+| Mon, 22 Dec 2025 07:49:59 GMT | What Happens Behind the Scenes When You Type a Website Name | BHARGAV SANDILYA | [Read More](https://medium.com/p/8be3a1757523) |
+| Mon, 22 Dec 2025 07:41:24 GMT | ด่วน!! ช่องโหว่ใน Cisco Secure Email เสี่ยงถูกยึดระบบ ตรวจสอบด่วน | ThaiCERT By NCSA | [Read More](https://medium.com/p/afdf3163d26b) |
 | Mon, 22 Dec 2025 07:38:09 GMT | Who Killed ChatGPT? | YUZU | [Read More](https://medium.com/p/a973efbf23ad) |
 | Mon, 22 Dec 2025 07:33:56 GMT | Hack target worth two U.S. defense budgets — the dream of all hackers: Bitcoin P2PK | 0trust0day | [Read More](https://medium.com/p/024cfb2b4527) |
 | Mon, 22 Dec 2025 07:26:51 GMT | IT Security Solutions — Top Tools To Protect Your IT Assets | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/93200b225a69) |
@@ -100,16 +113,3 @@ That Actually Helps | Shubh Gupta | [Read More](https://medium.com/p/5036bcd02a2
 | Mon, 22 Dec 2025 00:19:16 GMT | CCTV camera onitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/bd5f6ca28ea1) |
 | Mon, 22 Dec 2025 00:07:19 GMT | Learning Ethical Hacking Through Hands-On Labs: Website Cloning and SMB Vulnerability Scanning | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/73e73b476337) |
 | Mon, 22 Dec 2025 00:02:21 GMT | TryHackMe - Tempest - Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/3451e0d6e2dc) |
-| Mon, 22 Dec 2025 00:02:20 GMT | Unlock the Secrets of Ethical Hacking: How to Safeguard Your Future in Cybersecurity | Negro Med | [Read More](https://medium.com/p/3e04dadaa10c) |
-| Sun, 21 Dec 2025 23:58:18 GMT | VibeHackAI: Human‑Led Multi-Agent AI Penetration Testing Team | cawa102 | [Read More](https://medium.com/p/a25da92ea9b9) |
-| Sun, 21 Dec 2025 23:45:41 GMT | From MITRE ATT&CK to Agentic Threat Investigation | Inoussa Mouiche | [Read More](https://medium.com/p/58336c22f482) |
-| Sun, 21 Dec 2025 23:39:55 GMT | Advent of Cyber 2025 Day 21 — Malware Analysis Bonus Challenge | Matt Swann | [Read More](https://medium.com/p/553b37d78530) |
-| Sun, 21 Dec 2025 23:23:26 GMT | The Dirty Secret of Observability: Why Your 10,000 Agents Are a Security Time Bomb (And How OpAMP… | TheRunBook | [Read More](https://medium.com/p/8f89a0848415) |
-| Sun, 21 Dec 2025 23:04:48 GMT | When You Post, You Become the Target | Sam Galope | [Read More](https://medium.com/p/98fee7abc095) |
-| Sun, 21 Dec 2025 22:59:54 GMT | Best Crypto Asset Recovery Service Providers: Top Firms to Retrieve Lost Bitcoin: Reach Out To… | Kevin Braiw | [Read More](https://medium.com/p/024bcca4d4b8) |
-| Sun, 21 Dec 2025 22:58:13 GMT | DISCLAIMER: All views expressed in the article are my own and the documentary that inspired this… | Moe | [Read More](https://medium.com/p/85f888ad5e15) |
-| Sun, 21 Dec 2025 22:52:19 GMT | Don’t Retire Broke: The Brutal Truth About Money in Your Golden Years | Riva Smith | [Read More](https://medium.com/p/c97a461329ce) |
-| Sun, 21 Dec 2025 22:47:39 GMT | Security Awareness — Part 1 | Vijaiya Prathap | [Read More](https://medium.com/p/13b44f4066b2) |
-| Sun, 21 Dec 2025 22:14:38 GMT | Technology rarely changes in isolation. | Rye Overly | [Read More](https://medium.com/p/40180fe2652f) |
-| Sun, 21 Dec 2025 22:08:23 GMT | [CyberDefenders Write-up] Tusk Infostealer Lab | OxMotaw3 | [Read More](https://medium.com/p/83d4e5252972) |
-| Sun, 21 Dec 2025 21:44:16 GMT | The Ultimate Safe Investment for Your Family | Devdeep Mukherji | [Read More](https://medium.com/p/f02328529515) |
