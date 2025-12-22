@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 22:07:11 GMT | Design of Scalable VLAN-Based Network Infrastructure: Inter-VLAN Routing and Wireless Integration… | iYÁOmarv_ | [Read More](https://medium.com/p/24fb43d7ac91) |
+| Mon, 22 Dec 2025 22:03:15 GMT | Visit Optimistic Hacker Gaius to learn how to recover your lost or stolen cryptocurrency. | Annamagdalena | [Read More](https://medium.com/p/5f5f810b0390) |
+| Mon, 22 Dec 2025 22:00:35 GMT | How Pretending to Be ‘Fine’ Drains Your Life Force | Jakub Frič | [Read More](https://medium.com/p/7a505e1b7b4b) |
+| Mon, 22 Dec 2025 22:00:21 GMT | Protecting Your Computing Device: A Practical Guide to Staying Secure in a Digital World | Little_Sun4lower | [Read More](https://medium.com/p/23b614bf5287) |
+| Mon, 22 Dec 2025 21:54:41 GMT | What is the Nix Ecosystem? A Security Engineer Lens. | Aditya Patange | [Read More](https://medium.com/p/3d3a772b3158) |
+| Mon, 22 Dec 2025 21:51:20 GMT | Why “We Have Visibility” Is Often a Dangerous Assumption | Mikayel Nalbandyan | [Read More](https://medium.com/p/31bd15054824) |
+| Mon, 22 Dec 2025 21:45:13 GMT | The Thing About Me No One Was Supposed to Notice | KV | [Read More](https://medium.com/p/5e9e694dea5f) |
+| Mon, 22 Dec 2025 21:43:19 GMT | Data Protection for Financial Firms. Why It Is Now a Business Imperative | CompuWork | [Read More](https://medium.com/p/856bc2de9f8f) |
 | Mon, 22 Dec 2025 21:36:30 GMT | Essential Website Security Tips You Need in 2025 | Ali.Yurie | [Read More](https://medium.com/p/984b51de6f87) |
 | Mon, 22 Dec 2025 21:33:07 GMT | How AI Changes Security Risk | Brandon Dewater | [Read More](https://medium.com/p/e6b65e697d95) |
 | Mon, 22 Dec 2025 21:32:39 GMT | My Journey Through SQL Injection Mastery From Zero | M. Mustafa Hussaini | [Read More](https://medium.com/p/35a758891d0d) |
@@ -106,11 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 15:58:09 GMT | #13- Kali Linux — Command & Control: Keeping Access Alive and Coordinated | SDNTechForum | [Read More](https://medium.com/p/933100f17c15) |
 | Mon, 22 Dec 2025 15:56:45 GMT | I Passed the ISC2 Certified in Cybersecurity (CC) Exam | Hotaru Komajou | [Read More](https://medium.com/p/630c8cad7a7d) |
 | Mon, 22 Dec 2025 15:55:35 GMT | ️ ¿Tu software tiene una “puerta abierta”? | Saulo Briceño Wong | [Read More](https://medium.com/p/c292f306b701) |
-| Mon, 22 Dec 2025 15:52:48 GMT | How I Used Dark Web Dump Analysis to Prioritize My Bug Bounty Targets | Iski | [Read More](https://medium.com/p/3371ca72aaba) |
-| Mon, 22 Dec 2025 15:49:56 GMT | Guía Introductoria: Cómo conectar Burp Suite a tu IA mediante MCP | ArtsSEC | [Read More](https://medium.com/p/bc2f49d9d761) |
-| Mon, 22 Dec 2025 15:39:29 GMT | Darknet Market Takedown: How Law Enforcement Disrupts Underground Markets | Tor BBB | [Read More](https://medium.com/p/27bf95bd1b1a) |
-| Mon, 22 Dec 2025 15:33:05 GMT | How To Hack Someone Legally | Muhammad Mustafa | [Read More](https://medium.com/p/fc6cc146bede) |
-| Mon, 22 Dec 2025 15:32:22 GMT | Top 7 Isolation Rules for Shared Vector Clusters | Velorum | [Read More](https://medium.com/p/7be049903f90) |
-| Mon, 22 Dec 2025 15:28:06 GMT | From Foothold to Domain Admin — The Real Attacker Journey Inside Active Directory | Suhel Kathi | [Read More](https://medium.com/p/6f1057d0ef5b) |
-| Mon, 22 Dec 2025 15:25:06 GMT | How to Get Your Lost or Scammed Cryptocurrency Back: Go to Optimistic Hacker Gaius. | Frankedward | [Read More](https://medium.com/p/56d3ab0c1908) |
-| Mon, 22 Dec 2025 15:24:11 GMT | Chronos is a vulnerable machine on Vulnhub, rated as ‘medium’. | Luke Gearty | [Read More](https://medium.com/p/3388bb2463bc) |
