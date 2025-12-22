@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 03:37:55 GMT | Dedicated Server for Small Business: A Complete Guide | HostNOC | [Read More](https://medium.com/p/a5c0bfe8eee9) |
+| Mon, 22 Dec 2025 03:34:34 GMT | How hackers intercept your mobile app traffic | Buhushika Kumarage | [Read More](https://medium.com/p/772801a96136) |
+| Mon, 22 Dec 2025 03:32:23 GMT | Pig-Butchering Scams: How Trust Is Turned Into a Weapon | Deven Chhajed | [Read More](https://medium.com/p/638c4e5e568f) |
+| Mon, 22 Dec 2025 03:04:51 GMT | Report: The Documented Case of AI Whistleblower Barrett KGK Maioho Against Google and Anthropic | My Darkest Hearts | [Read More](https://medium.com/p/c1d62622fcda) |
+| Mon, 22 Dec 2025 03:04:13 GMT | Closing the 24–48 Hour Vulnerability Intelligence Gap with ENISA EUVD + Python + SIEM Correlation | Sankar Innamuri | [Read More](https://medium.com/p/3382c2f98945) |
+| Mon, 22 Dec 2025 03:03:06 GMT | The Death of the Generalist: 4 High-Assurance Cybersecurity Business Models for 2026 | MIKE | [Read More](https://medium.com/p/cb6779353cf4) |
+| Mon, 22 Dec 2025 02:53:08 GMT | IDS Fundamentals | Paul koumedzro | [Read More](https://medium.com/p/0ba21d9a556a) |
+| Mon, 22 Dec 2025 02:50:47 GMT | Snort — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/d3fa22508495) |
+| Mon, 22 Dec 2025 02:48:35 GMT | VISION 2026 CYBERSECURITY — Q1 SOC EXECUTION PLAN | Efekodoemmanuel | [Read More](https://medium.com/p/402c132494c9) |
+| Mon, 22 Dec 2025 02:45:16 GMT | The Google Deception: Big Lies and Big A.I. | My Darkest Hearts | [Read More](https://medium.com/p/49497a21f54f) |
+| Mon, 22 Dec 2025 02:42:19 GMT | Top-Tier Security Should Not Be a Privilege:How Digital Shield Ends the “Minority Monopoly” of… | Digital Shield Offcial | [Read More](https://medium.com/p/91997cb94c5f) |
+| Mon, 22 Dec 2025 02:36:17 GMT | Digital Shield: Seeking Security in an Uncertain Market — Strategic Insights from the… | Digital Shield Offcial | [Read More](https://medium.com/p/aeb2b4642782) |
+| Mon, 22 Dec 2025 02:32:51 GMT | Digital Shield: Seeking Security in an Uncertain Market — Strategic Insights from the… | Digital Shield | [Read More](https://medium.com/p/b94514ae2656) |
+| Mon, 22 Dec 2025 02:32:42 GMT | Welcome back! | StrangeRwhite | [Read More](https://medium.com/p/9711f0f39419) |
+| Mon, 22 Dec 2025 02:30:18 GMT | Top-Tier Security Should Not Be a Privilege:How Digital Shield Ends the “Minority Monopoly” of… | Digital Shield | [Read More](https://medium.com/p/44af0343c32b) |
+| Mon, 22 Dec 2025 02:12:29 GMT | Blackhat Hacking Languages Explained (Beginner to Expert) | Shahzaib | [Read More](https://medium.com/p/a47000097381) |
+| Mon, 22 Dec 2025 02:12:23 GMT | Why Most Developers Accidentally Create Security Holes | Hania Khan | [Read More](https://medium.com/p/eb6ab50b60e0) |
 | Mon, 22 Dec 2025 01:21:57 GMT | Nwoke ji Obi’m: A Heart I’m Learning to Reclaim | Michelle Yemi-Adenuga | [Read More](https://medium.com/p/47a4dd3a28d1) |
 | Mon, 22 Dec 2025 00:59:02 GMT | Attackers Don’t Follow the Kill Chain. You Shouldn’t Either. | Val Vask | [Read More](https://medium.com/p/83cf234a171d) |
 | Mon, 22 Dec 2025 00:40:27 GMT | Swiss Cheese Model in Cybersecurity | Kurt Winter | [Read More](https://medium.com/p/af75a88770e8) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Dec 2025 16:57:39 GMT | TCP 3-Way Handshake Manipulation | Esra Kayhan | [Read More](https://medium.com/p/80723b7b39c9) |
 | Sun, 21 Dec 2025 16:54:49 GMT | Minimal Size, Maximum Safety:
 Hardening Docker Images | Olha Stefanishyna | [Read More](https://medium.com/p/de1346b16ffb) |
-| Sun, 21 Dec 2025 16:53:11 GMT | Los 10 ciberataques que marcaron 2025 en el mundo | Tiziano Mass | [Read More](https://medium.com/p/41bdeb44dfb8) |
-| Sun, 21 Dec 2025 16:45:04 GMT | Beyond the “Deploy” Button | Creepus | [Read More](https://medium.com/p/cc46f050f365) |
-| Sun, 21 Dec 2025 16:41:01 GMT | Malhare.exe AOC 2025 Day 21 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/7c59b369c6d4) |
-| Sun, 21 Dec 2025 16:33:41 GMT | MUSPRINT Day 19 — Discovering My Real Boundaries | Ajojose | [Read More](https://medium.com/p/df89f2955477) |
-| Sun, 21 Dec 2025 16:23:15 GMT | Part 41: How to Upload Multiple Files with Different Names in a Single LiveView Form | Kamaro Lambert | [Read More](https://medium.com/p/022bf371a9ed) |
-| Sun, 21 Dec 2025 16:22:31 GMT | An Accidental DevSecOps Engineer | Kapil Yadav | [Read More](https://medium.com/p/03be9ff40e32) |
-| Sun, 21 Dec 2025 16:10:03 GMT | 30 Days of Red Team: Day 13 — Operational Security & Anti-Forensics | Maxwell Cross | [Read More](https://medium.com/p/728df45a09e6) |
-| Sun, 21 Dec 2025 15:59:23 GMT | The Unsexy Truth About Network Security | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/83982f92855a) |
-| Sun, 21 Dec 2025 15:57:12 GMT | The Cryptography Concept Journey — Feistel Network | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1f86b4eadae2) |
-| Sun, 21 Dec 2025 15:48:01 GMT | HashJack 101 — Indirect Prompt Injection Attack | jai sai | [Read More](https://medium.com/p/552f7ce83b11) |
-| Sun, 21 Dec 2025 15:37:35 GMT | AI Upskilling & Workforce Transformation in the UK | Salfistudio | [Read More](https://medium.com/p/c9abd3b906ad) |
-| Sun, 21 Dec 2025 15:35:34 GMT | Bir SOC Analisti Bir Alarmı Nasıl Okur? | Zeynep Demir | [Read More](https://medium.com/p/07c64f75d0b7) |
-| Sun, 21 Dec 2025 15:33:28 GMT | Telegram Bots Are Useful — But at What Cost to Privacy? | Syed Iqbal Ahammad | [Read More](https://medium.com/p/e42ecd6e4a48) |
-| Sun, 21 Dec 2025 15:26:32 GMT | The Spy in Your Living Room: Why Your Smart Fridge Could Be Your Biggest Cybersecurity Nightmare | Dimaspw | [Read More](https://medium.com/p/c6e762959408) |
-| Sun, 21 Dec 2025 15:21:07 GMT | Client-Side AES Encryption Is Not Secure | Aman Chauhan | [Read More](https://medium.com/p/b06ac2ff59ef) |
-| Sun, 21 Dec 2025 15:19:33 GMT | Obfuscation — The Egg Shell File - AoC 2025 Day — 18 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/ad89ed559278) |
-| Sun, 21 Dec 2025 15:17:27 GMT | Building a Tiny Linux From Scratch | Im0nk3yar0und | [Read More](https://medium.com/p/48c9d9a06f3c) |
