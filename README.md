@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 09:18:55 GMT | https://offensoacademy.com/ | Jahanashabas | [Read More](https://medium.com/p/1eb1a87c0b50) |
+| Mon, 22 Dec 2025 09:18:37 GMT | Mega Christmas Digital Signing Benchmark — How Do Post Quantum Sigs Perform? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e3ab4e08d714) |
+| Mon, 22 Dec 2025 09:14:47 GMT | Building Efficient MLM Referral-Based Business Systems with Technology in Kapurthala | Jonney | [Read More](https://medium.com/p/1c37a626d213) |
+| Mon, 22 Dec 2025 09:10:04 GMT | The Hidden Power of WordPress Hosting When Paired with Low-Cost Reseller Plans | Janet Watson | [Read More](https://medium.com/p/e4e79fe790fe) |
+| Mon, 22 Dec 2025 09:07:40 GMT | GCP SSH Explained Simply: Browser vs. Permanent SSH Keys (Beginner Guide) | Aayusha Adhikari | [Read More](https://medium.com/p/bfd131e81715) |
+| Mon, 22 Dec 2025 09:06:47 GMT | How an MCA Degree Can Unlock Career Opportunities in Data Science, AI, and Cybersecurity | Tina Verma | [Read More](https://medium.com/p/8b5ccfbd2d02) |
+| Mon, 22 Dec 2025 09:00:04 GMT | The Growing Importance of Security, Identification and Automation Systems in Organisations | Arshiyaazar | [Read More](https://medium.com/p/ebd4663bb0b1) |
+| Mon, 22 Dec 2025 08:54:21 GMT | How Professional Security Supports Solar Farm Safety in Geelong | Group One Security Services Pty Ltd | [Read More](https://medium.com/p/a1eebfd74347) |
+| Mon, 22 Dec 2025 08:50:14 GMT | Digital Transformation Without Compromising Security: How to Achieve It | Rahman Iqbal | [Read More](https://medium.com/p/92806b72de6a) |
+| Mon, 22 Dec 2025 08:49:00 GMT | The Anatomy of React2Shell: Understanding the CVE-2025–55182 Critical RCE | SecureSlate | [Read More](https://medium.com/p/2f6b26015cbb) |
+| Mon, 22 Dec 2025 08:45:51 GMT | How to Reduce the Risk of DDoS Attacks Through Infrastructure Hardening | Jerome Decinco | [Read More](https://medium.com/p/79ae5a5691a1) |
+| Mon, 22 Dec 2025 08:45:29 GMT | TryHackMe: Retro Writeup | cbev | [Read More](https://medium.com/p/849764fe754d) |
+| Mon, 22 Dec 2025 08:44:57 GMT | 2FA Made My Night: How I Bypassed Two-Factor Authentication and Learned a Valuable Lesson | Lokesh Soni | [Read More](https://medium.com/p/af9867b4c3d6) |
+| Mon, 22 Dec 2025 08:37:51 GMT | Cryptography Explained: A Beginner’s Guide to Modern Encryption | Manubhav Sharma | [Read More](https://medium.com/p/bae74a525377) |
+| Mon, 22 Dec 2025 08:34:07 GMT | React2Shell: A Bootstrap Startup Perspective | Suntouched | [Read More](https://medium.com/p/9c2be3d10df8) |
 | Mon, 22 Dec 2025 08:25:22 GMT | Day 16: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/1652093302ef) |
 | Mon, 22 Dec 2025 08:25:18 GMT | Exploiting Insecure Data storage Vulnerability in AndroGoat | Jahan Zeb | [Read More](https://medium.com/p/3066a3b47296) |
 | Mon, 22 Dec 2025 08:24:04 GMT | When Her Account Was Hacked: How Data Protection Saved Her Digital Life | Devarshi Acharya | [Read More](https://medium.com/p/864f9b52a6dc) |
@@ -98,18 +113,3 @@ That Actually Helps | Shubh Gupta | [Read More](https://medium.com/p/5036bcd02a2
 | Mon, 22 Dec 2025 03:03:06 GMT | The Death of the Generalist: 4 High-Assurance Cybersecurity Business Models for 2026 | MIKE | [Read More](https://medium.com/p/cb6779353cf4) |
 | Mon, 22 Dec 2025 02:53:08 GMT | IDS Fundamentals | Paul koumedzro | [Read More](https://medium.com/p/0ba21d9a556a) |
 | Mon, 22 Dec 2025 02:50:47 GMT | Snort — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/d3fa22508495) |
-| Mon, 22 Dec 2025 02:48:35 GMT | VISION 2026 CYBERSECURITY — Q1 SOC EXECUTION PLAN | Efekodoemmanuel | [Read More](https://medium.com/p/402c132494c9) |
-| Mon, 22 Dec 2025 02:45:16 GMT | The Google Deception: Big Lies and Big A.I. | My Darkest Hearts | [Read More](https://medium.com/p/49497a21f54f) |
-| Mon, 22 Dec 2025 02:42:19 GMT | Top-Tier Security Should Not Be a Privilege:How Digital Shield Ends the “Minority Monopoly” of… | Digital Shield Offcial | [Read More](https://medium.com/p/91997cb94c5f) |
-| Mon, 22 Dec 2025 02:36:17 GMT | Digital Shield: Seeking Security in an Uncertain Market — Strategic Insights from the… | Digital Shield Offcial | [Read More](https://medium.com/p/aeb2b4642782) |
-| Mon, 22 Dec 2025 02:32:51 GMT | Digital Shield: Seeking Security in an Uncertain Market — Strategic Insights from the… | Digital Shield | [Read More](https://medium.com/p/b94514ae2656) |
-| Mon, 22 Dec 2025 02:32:42 GMT | Welcome back! | StrangeRwhite | [Read More](https://medium.com/p/9711f0f39419) |
-| Mon, 22 Dec 2025 02:30:18 GMT | Top-Tier Security Should Not Be a Privilege:How Digital Shield Ends the “Minority Monopoly” of… | Digital Shield | [Read More](https://medium.com/p/44af0343c32b) |
-| Mon, 22 Dec 2025 02:12:29 GMT | Blackhat Hacking Languages Explained (Beginner to Expert) | Shahzaib | [Read More](https://medium.com/p/a47000097381) |
-| Mon, 22 Dec 2025 02:12:23 GMT | Why Most Developers Accidentally Create Security Holes | Hania Khan | [Read More](https://medium.com/p/eb6ab50b60e0) |
-| Mon, 22 Dec 2025 01:21:57 GMT | Nwoke ji Obi’m: A Heart I’m Learning to Reclaim | Michelle Yemi-Adenuga | [Read More](https://medium.com/p/47a4dd3a28d1) |
-| Mon, 22 Dec 2025 00:59:02 GMT | Attackers Don’t Follow the Kill Chain. You Shouldn’t Either. | Val Vask | [Read More](https://medium.com/p/83cf234a171d) |
-| Mon, 22 Dec 2025 00:40:27 GMT | Swiss Cheese Model in Cybersecurity | Kurt Winter | [Read More](https://medium.com/p/af75a88770e8) |
-| Mon, 22 Dec 2025 00:19:16 GMT | CCTV camera onitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/bd5f6ca28ea1) |
-| Mon, 22 Dec 2025 00:07:19 GMT | Learning Ethical Hacking Through Hands-On Labs: Website Cloning and SMB Vulnerability Scanning | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/73e73b476337) |
-| Mon, 22 Dec 2025 00:02:21 GMT | TryHackMe - Tempest - Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/3451e0d6e2dc) |
