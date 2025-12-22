@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 16:46:38 GMT | C2 Detection Day 22 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/1ed35908c7ae) |
+| Mon, 22 Dec 2025 16:42:12 GMT | The Quiet Brain Behind Security Operations: How AI Manages the Workforce Without the Noise | Teona | [Read More](https://medium.com/p/24366d853caa) |
+| Mon, 22 Dec 2025 16:39:12 GMT | Everyday Online Scams And How To Stop Them Cold | Geoffrey Wenger | [Read More](https://medium.com/p/38fd6a1ea326) |
+| Mon, 22 Dec 2025 16:38:20 GMT | Perimeter Security Systems: Complete Guide for Commercial & Residential Properties | Fortnexs Shield | [Read More](https://medium.com/p/bd3086117d22) |
+| Mon, 22 Dec 2025 16:38:16 GMT | PBO : Sistem Perpustakaan Digital guna Memenuhi Responsi | Yasa Wijaya | [Read More](https://medium.com/p/f021e5f5a20c) |
+| Mon, 22 Dec 2025 16:34:10 GMT | This is the age of AI. In 2026, enterprises must plan to be “unaffected” by breaches.. | Agnidipta Sarkar | [Read More](https://medium.com/p/af26a6a4d375) |
+| Mon, 22 Dec 2025 16:30:48 GMT | When a Fake “SBI Aadhaar Update” Turned Into a Banking Trojan | Jagadishtripathy | [Read More](https://medium.com/p/2b869c8e43cc) |
+| Mon, 22 Dec 2025 16:26:56 GMT | Your AI Will Obey Another AI — Even If It Refuses You | AhmedAbdelmenem | [Read More](https://medium.com/p/52a25b94a1e1) |
 | Mon, 22 Dec 2025 16:22:59 GMT | “Your First Paycheck for Finding Flaws: The Beginner’s Guide to Bug Bounties” | Aman Sharma | [Read More](https://medium.com/p/5a40bc38d89e) |
 | Mon, 22 Dec 2025 16:16:24 GMT | Why One Click Cleaners Rarely Improve System Health | Geoffrey Wenger | [Read More](https://medium.com/p/2102c2da66e6) |
 | Mon, 22 Dec 2025 16:14:35 GMT | Vulnerability Databases: The Holy Grail of Cybersecurity? | Maikel Mardjan | [Read More](https://medium.com/p/c62b6d07c9ef) |
@@ -33,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 15:08:13 GMT | It Started With Blind XSS: How a Travel Website Fell to Account Takeover | D3vCyph3r | [Read More](https://medium.com/p/0c94c16c7732) |
 | Mon, 22 Dec 2025 15:02:23 GMT | Cyber Briefing: 2025.12.22 | CyberMaterial | [Read More](https://medium.com/p/3c0db829a01d) |
 | Mon, 22 Dec 2025 14:59:27 GMT | Social Engineering: When Humans Become the Weakest Link in Cybersecurity | Arasyncyber | [Read More](https://medium.com/p/e45ccf8b23b6) |
+| Mon, 22 Dec 2025 14:58:50 GMT | Image Upload Bypass Leading to Stored XSS | Cyx | [Read More](https://medium.com/p/546fd6db58b5) |
 | Mon, 22 Dec 2025 14:52:23 GMT | Paket Yönetimi (APT) | g.o. | [Read More](https://medium.com/p/579c018db6d0) |
 | Mon, 22 Dec 2025 14:50:03 GMT | Network Temellerine İlk Adım (10 Eylül 2025) | Onur Öztürk | [Read More](https://medium.com/p/1fef4b277383) |
 | Mon, 22 Dec 2025 14:42:32 GMT | AWS IAM Hardening & Automated Access Reviews for a Startup | Felicity Lois | [Read More](https://medium.com/p/fb805bea3395) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 10:48:44 GMT | Lessons from the 48.2 Billion Yen Heist: Why Was the “Robust MPC” Breached? | Satelite | [Read More](https://medium.com/p/f67052ff5f48) |
 | Mon, 22 Dec 2025 10:45:27 GMT | I Built a Security API Solo — Here’s How I Turned 3 Months of Research Into a Product | Raviteja Nekkalapu | [Read More](https://medium.com/p/c7c72db98d3b) |
 | Mon, 22 Dec 2025 10:44:42 GMT | Why I Think It’s Time to Rethink reCAPTCHA in a GDPR World | Regine | [Read More](https://medium.com/p/853fb82a27ab) |
-| Mon, 22 Dec 2025 10:32:02 GMT | Beginner’s Guide to Penetration Testing Tools | Manisha Chaudhary | [Read More](https://medium.com/p/1188472211ff) |
-| Mon, 22 Dec 2025 10:29:37 GMT | Open OT: A Framework for Sovereign, Secure, and Operable Industrial Systems | Sulaiman Alhasawi | [Read More](https://medium.com/p/54815e211fa2) |
-| Mon, 22 Dec 2025 10:24:34 GMT | The Cyber security Career Guide for Indian Citizens in New Zealand | qbaycareer | [Read More](https://medium.com/p/620ffd6adfac) |
-| Mon, 22 Dec 2025 10:24:11 GMT | The Mechanics of Refresh Tokens | Rahul Sharma | [Read More](https://medium.com/p/ccb38c9560e2) |
-| Mon, 22 Dec 2025 10:23:33 GMT | How AI & Modern Technologies Are Transforming Global Businesses in 2025 — GateTouch Perspective | GateTouch | [Read More](https://medium.com/p/f77e7a3e4388) |
-| Mon, 22 Dec 2025 10:19:59 GMT | Building Future-Ready Healthcare IT Solutions Through Strategic Consulting | Ajay Singh | [Read More](https://medium.com/p/c934be1d8400) |
-| Mon, 22 Dec 2025 10:18:13 GMT | Home Security Automation in Coimbatore | Priyajayaprakash | [Read More](https://medium.com/p/44ad464170ba) |
-| Mon, 22 Dec 2025 10:18:10 GMT | How IT Service Automation Improves Employee Efficiency | Bluechip Advanced Technologies | [Read More](https://medium.com/p/5a0203a167de) |
-| Mon, 22 Dec 2025 10:14:24 GMT | ChatGPT Memory Poisoning | Jake Peralta | [Read More](https://medium.com/p/4bfcc5ca4dc0) |
