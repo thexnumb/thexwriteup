@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 22:33:31 GMT | An OCD Hacker | Viodex | [Read More](https://medium.com/p/bbe71aea169a) |
+| Mon, 22 Dec 2025 22:33:03 GMT | HackTheBox: Soulmate Writeup | Rahaliashraf | [Read More](https://medium.com/p/d39779c9ee1c) |
+| Mon, 22 Dec 2025 22:32:17 GMT | FROM ZERO TO FORENSICS: HOW I BUILT AN AUTOMATED ANDROID EVIDENCE TOOLKIT | Davonte Delancey | [Read More](https://medium.com/p/8d4f0703f24e) |
+| Mon, 22 Dec 2025 22:23:23 GMT | Age and IT | Max | [Read More](https://medium.com/p/e41ad85cb22c) |
 | Mon, 22 Dec 2025 22:07:11 GMT | Design of Scalable VLAN-Based Network Infrastructure: Inter-VLAN Routing and Wireless Integration… | iYÁOmarv_ | [Read More](https://medium.com/p/24fb43d7ac91) |
 | Mon, 22 Dec 2025 22:03:15 GMT | Visit Optimistic Hacker Gaius to learn how to recover your lost or stolen cryptocurrency. | Annamagdalena | [Read More](https://medium.com/p/5f5f810b0390) |
 | Mon, 22 Dec 2025 22:00:35 GMT | How Pretending to Be ‘Fine’ Drains Your Life Force | Jakub Frič | [Read More](https://medium.com/p/7a505e1b7b4b) |
@@ -110,7 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 16:14:35 GMT | Vulnerability Databases: The Holy Grail of Cybersecurity? | Maikel Mardjan | [Read More](https://medium.com/p/c62b6d07c9ef) |
 | Mon, 22 Dec 2025 16:08:48 GMT | How I’ll Document My Cybersecurity Journey: My Learning Pipeline | I Putu Ali H. | [Read More](https://medium.com/p/3f1a571d0f39) |
 | Mon, 22 Dec 2025 16:06:30 GMT | Advanced Permission Systems in Django 6.0: | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/0916e84af84c) |
-| Mon, 22 Dec 2025 16:02:54 GMT | The Rising Threat of Cyber-crime: Why Critical Hacking Skills Are Essential for the Future | Negro Med | [Read More](https://medium.com/p/530e208d143b) |
-| Mon, 22 Dec 2025 15:58:09 GMT | #13- Kali Linux — Command & Control: Keeping Access Alive and Coordinated | SDNTechForum | [Read More](https://medium.com/p/933100f17c15) |
-| Mon, 22 Dec 2025 15:56:45 GMT | I Passed the ISC2 Certified in Cybersecurity (CC) Exam | Hotaru Komajou | [Read More](https://medium.com/p/630c8cad7a7d) |
-| Mon, 22 Dec 2025 15:55:35 GMT | ️ ¿Tu software tiene una “puerta abierta”? | Saulo Briceño Wong | [Read More](https://medium.com/p/c292f306b701) |
