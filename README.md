@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 21:36:30 GMT | Essential Website Security Tips You Need in 2025 | Ali.Yurie | [Read More](https://medium.com/p/984b51de6f87) |
+| Mon, 22 Dec 2025 21:33:07 GMT | How AI Changes Security Risk | Brandon Dewater | [Read More](https://medium.com/p/e6b65e697d95) |
+| Mon, 22 Dec 2025 21:32:39 GMT | My Journey Through SQL Injection Mastery From Zero | M. Mustafa Hussaini | [Read More](https://medium.com/p/35a758891d0d) |
+| Mon, 22 Dec 2025 21:32:14 GMT | How I Hacked Google’s Servers (Legally) With One URL | Codi | [Read More](https://medium.com/p/1105735a940c) |
+| Mon, 22 Dec 2025 21:26:44 GMT | Layer 1 Basics: Your Guide to Physical Network Security | oussama MAJID | [Read More](https://medium.com/p/e417223386c2) |
+| Mon, 22 Dec 2025 21:22:40 GMT | Why Website Security Should Be Your Priority in 2025: Here’s What You Need to Know | Ali.Yurie | [Read More](https://medium.com/p/a132a8b2010a) |
+| Mon, 22 Dec 2025 21:22:38 GMT | The Corrupted Password Dump — A Gentle Walk Through Hash Chaos | Aditya Bhatt | [Read More](https://medium.com/p/f273d0a760a8) |
+| Mon, 22 Dec 2025 21:20:22 GMT | Runers — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/33ba0acce791) |
 | Mon, 22 Dec 2025 21:17:27 GMT | Volatility Plugins — Plugin windows.psxview Let’s Talk About it | Dean | [Read More](https://medium.com/p/8a4d78df25ff) |
 | Mon, 22 Dec 2025 21:10:01 GMT | MITRE ATT&CK MCP Server | Inoussa Mouiche | [Read More](https://medium.com/p/ed811874dff0) |
 | Mon, 22 Dec 2025 20:55:09 GMT | How I Taught Myself Cybersecurity With NO 4 Year Degree… | RayasWeb | [Read More](https://medium.com/p/efc27b1d8bb5) |
@@ -106,11 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 15:28:06 GMT | From Foothold to Domain Admin — The Real Attacker Journey Inside Active Directory | Suhel Kathi | [Read More](https://medium.com/p/6f1057d0ef5b) |
 | Mon, 22 Dec 2025 15:25:06 GMT | How to Get Your Lost or Scammed Cryptocurrency Back: Go to Optimistic Hacker Gaius. | Frankedward | [Read More](https://medium.com/p/56d3ab0c1908) |
 | Mon, 22 Dec 2025 15:24:11 GMT | Chronos is a vulnerable machine on Vulnhub, rated as ‘medium’. | Luke Gearty | [Read More](https://medium.com/p/3388bb2463bc) |
-| Mon, 22 Dec 2025 15:18:43 GMT | เรียนรู้การทำ และ Penetration Testing ด้วยตัวเอง — EP#01 | MisterB | [Read More](https://medium.com/p/691a515d093b) |
-| Mon, 22 Dec 2025 15:08:13 GMT | It Started With Blind XSS: How a Travel Website Fell to Account Takeover | D3vCyph3r | [Read More](https://medium.com/p/0c94c16c7732) |
-| Mon, 22 Dec 2025 15:02:23 GMT | Cyber Briefing: 2025.12.22 | CyberMaterial | [Read More](https://medium.com/p/3c0db829a01d) |
-| Mon, 22 Dec 2025 14:59:27 GMT | Social Engineering: When Humans Become the Weakest Link in Cybersecurity | Arasyncyber | [Read More](https://medium.com/p/e45ccf8b23b6) |
-| Mon, 22 Dec 2025 14:58:50 GMT | Image Upload Bypass Leading to Stored XSS | Cyx | [Read More](https://medium.com/p/546fd6db58b5) |
-| Mon, 22 Dec 2025 14:52:23 GMT | Paket Yönetimi (APT) | g.o. | [Read More](https://medium.com/p/579c018db6d0) |
-| Mon, 22 Dec 2025 14:50:03 GMT | Network Temellerine İlk Adım (10 Eylül 2025) | Onur Öztürk | [Read More](https://medium.com/p/1fef4b277383) |
-| Mon, 22 Dec 2025 14:42:32 GMT | AWS IAM Hardening & Automated Access Reviews for a Startup | Felicity Lois | [Read More](https://medium.com/p/fb805bea3395) |
