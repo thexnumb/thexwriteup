@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 05:23:57 GMT | Tải Tag After School Apk V2.0 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/86370b0b39c8) |
+| Mon, 22 Dec 2025 05:02:23 GMT | The Top 7 Cybersecurity Threats Businesses Face in 2025 — and How to Stay Ahead | F9 Infotech | [Read More](https://medium.com/p/36bda59da580) |
+| Mon, 22 Dec 2025 04:52:50 GMT | What is a VPN: Secure Online Privacy for Everyone! 77% OFF TODAY | The Curated Consumer | [Read More](https://medium.com/p/bcd81acdc4b8) |
+| Mon, 22 Dec 2025 04:49:30 GMT | Everything You Need to Know About a Cybersecurity Diploma Course | postgraduateguru | [Read More](https://medium.com/p/c31f2b704478) |
+| Mon, 22 Dec 2025 04:49:23 GMT | Execution After Redirection (EAR): The Silent High-Impact Bug That Lets You Bypass Logins Like… | CRAC Learning | [Read More](https://medium.com/p/1108ac6a9729) |
+| Mon, 22 Dec 2025 04:47:01 GMT | What is MLSecOps? | InfosecTrain | [Read More](https://medium.com/p/174f85e4bbac) |
+| Mon, 22 Dec 2025 04:46:26 GMT | Deep Dive: Secret Token Management in Spring Boot (Java 17) | StackStories | [Read More](https://medium.com/p/2910f451c5d4) |
+| Mon, 22 Dec 2025 04:41:00 GMT | Proving Grounds - Fanatastic | jniket | [Read More](https://medium.com/p/eff16a79537f) |
+| Mon, 22 Dec 2025 04:32:29 GMT | From Alert Fatigue to Automation: Designing a CVE Notification System
+That Actually Helps | Shubh Gupta | [Read More](https://medium.com/p/5036bcd02a2c) |
+| Mon, 22 Dec 2025 04:31:02 GMT | PicoCTF Writeup — First Find | flix | [Read More](https://medium.com/p/aff9ac768538) |
 | Mon, 22 Dec 2025 04:28:06 GMT | The Global Battle Against Cybercrime: Why Countries and Companies Must Unite | Joseph Santhosh | [Read More](https://medium.com/p/74bdbe22c766) |
 | Mon, 22 Dec 2025 04:18:06 GMT | PicoCTF — First Grep | flix | [Read More](https://medium.com/p/c6f15119d80b) |
 | Mon, 22 Dec 2025 04:14:03 GMT | ​Alex VS Watchtower | Kassey's Dreams & Realities Ink. | [Read More](https://medium.com/p/b8e359f6af44) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Dec 2025 18:20:52 GMT | Cybersecurity in the Isle of Man: What Local Businesses Must Know in 2026 | Just Technology Consulting Ltd | [Read More](https://medium.com/p/442cc8c9780c) |
 | Sun, 21 Dec 2025 18:17:25 GMT | How Defensive Thinking Changes the Way You Build | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/17ff6a4b4cc0) |
 | Sun, 21 Dec 2025 18:07:18 GMT | Advent of Cyber 2025 - Day 21: Malware Analysis — Malhare.exe | D4m.sh | [Read More](https://medium.com/p/977a870d7506) |
-| Sun, 21 Dec 2025 18:05:51 GMT | About Faysal Ahmed — Your WordPress Security Partner | Faysal Ahmed | [Read More](https://medium.com/p/fbe2f6e0501d) |
-| Sun, 21 Dec 2025 18:04:09 GMT | Week 1: Installing & Hardening Kali Linux | scriptpy | [Read More](https://medium.com/p/2e5322340530) |
-| Sun, 21 Dec 2025 18:02:31 GMT | The Future of Cybersecurity: What You Need to Know in 2025 | Cyber Punk | [Read More](https://medium.com/p/a7ffe65faf25) |
-| Sun, 21 Dec 2025 17:50:10 GMT | Unbounded Agent Execution can result in Denial-of-Service Attacks | Parminder Singh | [Read More](https://medium.com/p/bfe22b240f6f) |
-| Sun, 21 Dec 2025 17:49:57 GMT | ✨ JavaScript hasOwnProperty() Explained: Protecting Your Objects the Right Way | Natarajan C K | [Read More](https://medium.com/p/001d0e7d3095) |
-| Sun, 21 Dec 2025 17:46:55 GMT | Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence | Abstract Mind | [Read More](https://medium.com/p/d81d31fe3e24) |
-| Sun, 21 Dec 2025 17:41:35 GMT | Global Cybersecurity Crisis 2025: Black Hat Hackers’ Activities, Targeted Companies, and… | Mdrashedulsumon | [Read More](https://medium.com/p/7aabff78fd34) |
-| Sun, 21 Dec 2025 17:31:42 GMT | ML in Cybersecurity: From Threat Detection to Automated Response | Nayan Goel | [Read More](https://medium.com/p/ad6958e4fbbb) |
-| Sun, 21 Dec 2025 17:29:22 GMT | A laptop keyboard is far more than a set of keys for typing letters. | Premchandra | [Read More](https://medium.com/p/75853b459f6a) |
-| Sun, 21 Dec 2025 17:24:31 GMT | Clop Exploits CentreStack File Servers to Steal Corporate Data at Scale | Chetan Seripally | [Read More](https://medium.com/p/2c7bd5fc0d71) |
