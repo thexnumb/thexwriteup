@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 10:18:13 GMT | Home Security Automation in Coimbatore | Priyajayaprakash | [Read More](https://medium.com/p/44ad464170ba) |
+| Mon, 22 Dec 2025 10:14:24 GMT | ChatGPT Memory Poisoning | Jake Peralta | [Read More](https://medium.com/p/4bfcc5ca4dc0) |
+| Mon, 22 Dec 2025 10:12:56 GMT | How Cybersecurity Services Protect Your Business from Emerging Threats? | Microscan Communications | [Read More](https://medium.com/p/7671dfad7a6d) |
+| Mon, 22 Dec 2025 10:12:48 GMT | How Security, Identification and Automation Shape Modern Organisations | Arshiyaazar | [Read More](https://medium.com/p/3c31a8c99087) |
+| Mon, 22 Dec 2025 10:08:59 GMT | ️ How I Hunt Race Conditions: Every Case, One Hot Wheels Mustang at a Time | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/90c6bb5dbb29) |
+| Mon, 22 Dec 2025 10:06:57 GMT | Sanitizing in PHP | Adnan taşdemir | [Read More](https://medium.com/p/f72519d4b03d) |
+| Mon, 22 Dec 2025 10:06:22 GMT | I made 27$ with this one article and got 103K traffic— Here’s Excatly how | Mr Horbio | [Read More](https://medium.com/p/c3f199cc4366) |
+| Mon, 22 Dec 2025 10:04:22 GMT | There Is More Than One Way to Live | Rahul Gupta | [Read More](https://medium.com/p/ffad08fdfcfc) |
+| Mon, 22 Dec 2025 10:02:20 GMT | Cyber Security in 2025: Must-Have Skill for the Digital Future | Ntech Global Solutions | [Read More](https://medium.com/p/2651cd8b319d) |
+| Mon, 22 Dec 2025 09:59:23 GMT | The three most useless words in universe of communication. | Kakoli Aster♡ | [Read More](https://medium.com/p/b212dc43096a) |
+| Mon, 22 Dec 2025 09:57:39 GMT | Down VM Walkthrough | Spookz | [Read More](https://medium.com/p/9e53458c308d) |
+| Mon, 22 Dec 2025 09:57:33 GMT | Building a Secure and Clean Local Hugo Environment with Docker | Sk3pper | [Read More](https://medium.com/p/767fa8efc132) |
+| Mon, 22 Dec 2025 09:54:09 GMT | Why Maritime Security Services Are Essential for Safe and Reliable Sea Operations | Delight international Security Services | [Read More](https://medium.com/p/228989373949) |
+| Mon, 22 Dec 2025 09:48:44 GMT | Total Security Solutions: The Importance of Professional Security Consultancy in a Changing World | Ciss India | [Read More](https://medium.com/p/4c37b9f3d78a) |
+| Mon, 22 Dec 2025 09:44:49 GMT | Behind the Screen: Observing Set-Top Box Device Network Traffic | Ravi sharma | [Read More](https://medium.com/p/65debbbc92a4) |
+| Mon, 22 Dec 2025 09:30:47 GMT | Trusted Types: The Solution to an Entire Class of ‘Forgotten Sanitization’ Bugs | Rishabh Soni | [Read More](https://medium.com/p/07b7fc97a9fd) |
+| Mon, 22 Dec 2025 09:30:01 GMT | Is This the End of Bugthrive? A Brutally Honest Reflection | ProwlSec | [Read More](https://medium.com/p/e34f6a6ba8f0) |
+| Mon, 22 Dec 2025 09:21:43 GMT | AI-Driven Web Application Pentesting with HexStrike-AI | Andrey Pautov | [Read More](https://medium.com/p/67f3dae32040) |
+| Mon, 22 Dec 2025 09:21:04 GMT | Kuwait Leaders Choose Video Analytics for Seamless Fire Alarm Integration | Tekshoyabeelyas | [Read More](https://medium.com/p/8e4cd2a1a87f) |
 | Mon, 22 Dec 2025 09:18:55 GMT | https://offensoacademy.com/ | Jahanashabas | [Read More](https://medium.com/p/1eb1a87c0b50) |
 | Mon, 22 Dec 2025 09:18:37 GMT | Mega Christmas Digital Signing Benchmark — How Do Post Quantum Sigs Perform? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e3ab4e08d714) |
 | Mon, 22 Dec 2025 09:14:47 GMT | Building Efficient MLM Referral-Based Business Systems with Technology in Kapurthala | Jonney | [Read More](https://medium.com/p/1c37a626d213) |
@@ -93,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 04:47:01 GMT | What is MLSecOps? | InfosecTrain | [Read More](https://medium.com/p/174f85e4bbac) |
 | Mon, 22 Dec 2025 04:46:26 GMT | Deep Dive: Secret Token Management in Spring Boot (Java 17) | StackStories | [Read More](https://medium.com/p/2910f451c5d4) |
 | Mon, 22 Dec 2025 04:41:00 GMT | Proving Grounds - Fanatastic | jniket | [Read More](https://medium.com/p/eff16a79537f) |
-| Mon, 22 Dec 2025 04:32:29 GMT | From Alert Fatigue to Automation: Designing a CVE Notification System
-That Actually Helps | Shubh Gupta | [Read More](https://medium.com/p/5036bcd02a2c) |
-| Mon, 22 Dec 2025 04:31:02 GMT | PicoCTF Writeup — First Find | flix | [Read More](https://medium.com/p/aff9ac768538) |
-| Mon, 22 Dec 2025 04:28:06 GMT | The Global Battle Against Cybercrime: Why Countries and Companies Must Unite | Joseph Santhosh | [Read More](https://medium.com/p/74bdbe22c766) |
-| Mon, 22 Dec 2025 04:18:06 GMT | PicoCTF — First Grep | flix | [Read More](https://medium.com/p/c6f15119d80b) |
-| Mon, 22 Dec 2025 04:14:03 GMT | ​Alex VS Watchtower | Kassey's Dreams & Realities Ink. | [Read More](https://medium.com/p/b8e359f6af44) |
-| Mon, 22 Dec 2025 04:11:42 GMT | Everyone Is Talking About AI. Almost No One Is Talking About What It’s Breaking. | Lakshita Gulliya | [Read More](https://medium.com/p/c2136de7880e) |
-| Mon, 22 Dec 2025 04:11:18 GMT | The Ultimate Kali Linux Bug Bounty Cheat Sheet: From Recon to Report | Janhvee Laad | [Read More](https://medium.com/p/ccc7e3295277) |
-| Mon, 22 Dec 2025 04:02:48 GMT | Building Production-Ready Rate Limiters in FastAPI: From In-Memory to Distributed Systems | Sizan Mahmud | [Read More](https://medium.com/p/1cf37346e7ea) |
-| Mon, 22 Dec 2025 04:00:48 GMT | Security in Distributed Systems | Ayo Akinkugbe | [Read More](https://medium.com/p/c68e0eff9886) |
-| Mon, 22 Dec 2025 03:57:04 GMT | Data Breach Prevention and Recovery: How Organizations Can Protect and Rebuild Trust | Maxatlasofficial | [Read More](https://medium.com/p/7377367f8cef) |
-| Mon, 22 Dec 2025 03:42:09 GMT | Instructions for deploying the NIST SP 800–53 Framework on the AWS platform. | HuyDangGDG | [Read More](https://medium.com/p/c96fe3e24473) |
-| Mon, 22 Dec 2025 03:37:55 GMT | Dedicated Server for Small Business: A Complete Guide | HostNOC | [Read More](https://medium.com/p/a5c0bfe8eee9) |
-| Mon, 22 Dec 2025 03:34:34 GMT | How hackers intercept your mobile app traffic | Buhushika Kumarage | [Read More](https://medium.com/p/772801a96136) |
-| Mon, 22 Dec 2025 03:32:23 GMT | Pig-Butchering Scams: How Trust Is Turned Into a Weapon | Deven Chhajed | [Read More](https://medium.com/p/638c4e5e568f) |
-| Mon, 22 Dec 2025 03:04:51 GMT | Report: The Documented Case of AI Whistleblower Barrett KGK Maioho Against Google and Anthropic | My Darkest Hearts | [Read More](https://medium.com/p/c1d62622fcda) |
-| Mon, 22 Dec 2025 03:04:13 GMT | Closing the 24–48 Hour Vulnerability Intelligence Gap with ENISA EUVD + Python + SIEM Correlation | Sankar Innamuri | [Read More](https://medium.com/p/3382c2f98945) |
-| Mon, 22 Dec 2025 03:03:06 GMT | The Death of the Generalist: 4 High-Assurance Cybersecurity Business Models for 2026 | MIKE | [Read More](https://medium.com/p/cb6779353cf4) |
-| Mon, 22 Dec 2025 02:53:08 GMT | IDS Fundamentals | Paul koumedzro | [Read More](https://medium.com/p/0ba21d9a556a) |
-| Mon, 22 Dec 2025 02:50:47 GMT | Snort — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/d3fa22508495) |
