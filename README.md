@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 15:33:05 GMT | How To Hack Someone Legally | Muhammad Mustafa | [Read More](https://medium.com/p/fc6cc146bede) |
+| Mon, 22 Dec 2025 15:32:22 GMT | Top 7 Isolation Rules for Shared Vector Clusters | Velorum | [Read More](https://medium.com/p/7be049903f90) |
+| Mon, 22 Dec 2025 15:28:06 GMT | From Foothold to Domain Admin — The Real Attacker Journey Inside Active Directory | Suhel Kathi | [Read More](https://medium.com/p/6f1057d0ef5b) |
+| Mon, 22 Dec 2025 15:25:06 GMT | How to Get Your Lost or Scammed Cryptocurrency Back: Go to Optimistic Hacker Gaius. | Frankedward | [Read More](https://medium.com/p/56d3ab0c1908) |
+| Mon, 22 Dec 2025 15:24:11 GMT | Chronos is a vulnerable machine on Vulnhub, rated as ‘medium’. | Luke Gearty | [Read More](https://medium.com/p/3388bb2463bc) |
 | Mon, 22 Dec 2025 15:18:43 GMT | เรียนรู้การทำ และ Penetration Testing ด้วยตัวเอง — EP#01 | MisterB | [Read More](https://medium.com/p/691a515d093b) |
 | Mon, 22 Dec 2025 15:08:13 GMT | It Started With Blind XSS: How a Travel Website Fell to Account Takeover | D3vCyph3r | [Read More](https://medium.com/p/0c94c16c7732) |
 | Mon, 22 Dec 2025 15:02:23 GMT | Cyber Briefing: 2025.12.22 | CyberMaterial | [Read More](https://medium.com/p/3c0db829a01d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 09:57:33 GMT | Building a Secure and Clean Local Hugo Environment with Docker | Sk3pper | [Read More](https://medium.com/p/767fa8efc132) |
 | Mon, 22 Dec 2025 09:54:09 GMT | Why Maritime Security Services Are Essential for Safe and Reliable Sea Operations | Delight international Security Services | [Read More](https://medium.com/p/228989373949) |
 | Mon, 22 Dec 2025 09:48:44 GMT | Total Security Solutions: The Importance of Professional Security Consultancy in a Changing World | Ciss India | [Read More](https://medium.com/p/4c37b9f3d78a) |
-| Mon, 22 Dec 2025 09:44:49 GMT | Behind the Screen: Observing Set-Top Box Device Network Traffic | Ravi sharma | [Read More](https://medium.com/p/65debbbc92a4) |
-| Mon, 22 Dec 2025 09:30:47 GMT | Trusted Types: The Solution to an Entire Class of ‘Forgotten Sanitization’ Bugs | Rishabh Soni | [Read More](https://medium.com/p/07b7fc97a9fd) |
-| Mon, 22 Dec 2025 09:30:01 GMT | Is This the End of Bugthrive? A Brutally Honest Reflection | ProwlSec | [Read More](https://medium.com/p/e34f6a6ba8f0) |
-| Mon, 22 Dec 2025 09:21:43 GMT | AI-Driven Web Application Pentesting with HexStrike-AI | Andrey Pautov | [Read More](https://medium.com/p/67f3dae32040) |
-| Mon, 22 Dec 2025 09:21:04 GMT | Kuwait Leaders Choose Video Analytics for Seamless Fire Alarm Integration | Tekshoyabeelyas | [Read More](https://medium.com/p/8e4cd2a1a87f) |
