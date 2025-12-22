@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 17:16:46 GMT | Quantum Computing Won’t Break Bitcoin. Overreacting Might! | Dipanshu Chaudhry | [Read More](https://medium.com/p/f1b7b31110da) |
+| Mon, 22 Dec 2025 17:16:19 GMT | Harvest Now, Decrypt Later: Why Quantum Computing Threatens Your Data Today | Emma Wirt | [Read More](https://medium.com/p/7395372e1d1f) |
+| Mon, 22 Dec 2025 17:16:12 GMT | Reasons Managed Endpoint Detection and Response Would Be Important | Glenn Merritt | [Read More](https://medium.com/p/5b7c94539e78) |
+| Mon, 22 Dec 2025 17:14:13 GMT | The Essential Data Center Toolkit: Equipment You Need and Why It Matters | Paradise technologies Inc | [Read More](https://medium.com/p/c640288984cd) |
+| Mon, 22 Dec 2025 17:13:46 GMT | Static Security & Privacy Analysis of Sanchar Saathi App (Educational Research) | Saranyo Deyasi | [Read More](https://medium.com/p/1551170860ad) |
+| Mon, 22 Dec 2025 17:11:41 GMT | We Didn’t Think We Were a Target” — The Most Common Sentence After a Cyber Attack | Digital Defense | [Read More](https://medium.com/p/39acc01e7395) |
+| Mon, 22 Dec 2025 17:10:27 GMT | Advent of Cyber 2025 - Day 22: C2 Detection — Command & Carol | D4m.sh | [Read More](https://medium.com/p/3fb9b41408c7) |
+| Mon, 22 Dec 2025 17:04:02 GMT | PortSwigger Web Security Academy — Lab Write-Up 3 | 0xM3d0din | [Read More](https://medium.com/p/2fcd98a5b7c1) |
+| Mon, 22 Dec 2025 17:02:52 GMT | pfSense VirtualBox Lab Guide: Hands-On Cybersecurity Setup | Dipesh Paul | [Read More](https://medium.com/p/bffa8483c0b6) |
+| Mon, 22 Dec 2025 16:56:21 GMT | URGENT: Delhi Airport’s GPS Failure Wasn’t a Glitch | Bhawini. | [Read More](https://medium.com/p/d0651de53d08) |
+| Mon, 22 Dec 2025 16:55:26 GMT | Night at the Museum - Fahemsec | Adhamkhairy | [Read More](https://medium.com/p/438e16dca94c) |
+| Mon, 22 Dec 2025 16:50:17 GMT | Why Cybersecurity Fails Even After Heavy Investment
+Introduction
+Organizations today spend more on… | Ankit rai | [Read More](https://medium.com/p/2da85ebcf1fc) |
 | Mon, 22 Dec 2025 16:46:38 GMT | C2 Detection Day 22 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/1ed35908c7ae) |
 | Mon, 22 Dec 2025 16:42:12 GMT | The Quiet Brain Behind Security Operations: How AI Manages the Workforce Without the Noise | Teona | [Read More](https://medium.com/p/24366d853caa) |
 | Mon, 22 Dec 2025 16:39:12 GMT | Everyday Online Scams And How To Stop Them Cold | Geoffrey Wenger | [Read More](https://medium.com/p/38fd6a1ea326) |
@@ -100,15 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 11:28:14 GMT | Linux’ta Filtreler (Filters) | g.o. | [Read More](https://medium.com/p/e8a15d30e8e9) |
 | Mon, 22 Dec 2025 11:28:00 GMT | Tech Stack for Building a Cybersecurity Micro-SaaS in 2026 | John Muconto | [Read More](https://medium.com/p/5ac46599f1bf) |
 | Mon, 22 Dec 2025 11:24:01 GMT | Breaking the Fortresses: Why “Zero Trust” is the Talk of the Cyber World | Büşra İleri | [Read More](https://medium.com/p/6063fd0b7648) |
-| Mon, 22 Dec 2025 11:14:05 GMT | How to Get Your Lost or Scammed Cryptocurrency Back: Go to Optimistic Hacker Gaius. | Frankedward | [Read More](https://medium.com/p/2cd9cd813677) |
-| Mon, 22 Dec 2025 11:11:48 GMT | Microsoft’s New Centralized Defense: Blocking External Teams Users Directly from Defender Portal | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/87022a9f7767) |
-| Mon, 22 Dec 2025 11:07:40 GMT | The Technology That Shows Where Digital Content Comes From and Whether It Can Be Trusted | Himanshu Chaudhary | [Read More](https://medium.com/p/83a2b253c3b6) |
-| Mon, 22 Dec 2025 11:04:59 GMT | Best IT Helpdesk and Remote Support Services Provider in India | Samvaskaran | [Read More](https://medium.com/p/a7aedbe64496) |
-| Mon, 22 Dec 2025 11:04:15 GMT | Secrets Management in DevOps: The Guide You Wish You Had Before That 3 AM Incident | Divesh Rajput | [Read More](https://medium.com/p/13c1e13b8d8e) |
-| Mon, 22 Dec 2025 10:55:44 GMT | How I Found a Broken Subscription Logic That Unlocked Paid Courses for Free | Harshdeep Singh | [Read More](https://medium.com/p/81a4b5544429) |
-| Mon, 22 Dec 2025 10:54:27 GMT | Spotted a Phishing Email | Century Solutions Group | [Read More](https://medium.com/p/6704d172d47a) |
-| Mon, 22 Dec 2025 10:52:38 GMT | Cybersecurity: defence of company assets | Spazioformadsgn | [Read More](https://medium.com/p/31788d4fa077) |
-| Mon, 22 Dec 2025 10:49:41 GMT | What is SSH? A Beginner’s Guide to Secure Connections | Namrata | [Read More](https://medium.com/p/f9646e8b6d3d) |
-| Mon, 22 Dec 2025 10:48:44 GMT | Lessons from the 48.2 Billion Yen Heist: Why Was the “Robust MPC” Breached? | Satelite | [Read More](https://medium.com/p/f67052ff5f48) |
-| Mon, 22 Dec 2025 10:45:27 GMT | I Built a Security API Solo — Here’s How I Turned 3 Months of Research Into a Product | Raviteja Nekkalapu | [Read More](https://medium.com/p/c7c72db98d3b) |
-| Mon, 22 Dec 2025 10:44:42 GMT | Why I Think It’s Time to Rethink reCAPTCHA in a GDPR World | Regine | [Read More](https://medium.com/p/853fb82a27ab) |
