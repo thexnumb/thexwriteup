@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 19:09:44 GMT | Network Security Architecture | mohandika | [Read More](https://medium.com/p/4bae7bbbd8d6) |
+| Mon, 22 Dec 2025 19:06:20 GMT | Trying to Quit YouTube This Holiday Season? Grayjay vs Invidious vs NewPipe | BiyteLüm | [Read More](https://medium.com/p/3ad3f0f0b80c) |
+| Mon, 22 Dec 2025 19:02:20 GMT | Building a Cybersecurity News Aggregator in Go — Part 1. | Michael H. | [Read More](https://medium.com/p/a6eaba89d6cd) |
+| Mon, 22 Dec 2025 19:01:27 GMT | Race Conditions — Toy to The World - AoC 2025 Day — 20 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/f0a14210f60a) |
+| Mon, 22 Dec 2025 18:56:26 GMT | ICS/Modbus — Claus for Concern - AoC 2025 Day — 19 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/5f72b55c7917) |
+| Mon, 22 Dec 2025 18:49:57 GMT | React 19 Server Components Security Crisis: A Complete Analysis & Response Guide | DevBoost Lab | [Read More](https://medium.com/p/4f6921749a2d) |
+| Mon, 22 Dec 2025 18:48:18 GMT | AI Workloads are a Security Nightmare — Here’s How to Fix Them in Kubernetes | Abhishek Rao | [Read More](https://medium.com/p/a6108aa92387) |
+| Mon, 22 Dec 2025 18:41:01 GMT | When Cyber Insurance Becomes a Dangerous Illusion | Cordula Boeck | [Read More](https://medium.com/p/30d89e0c937e) |
+| Mon, 22 Dec 2025 18:39:40 GMT | The Cryptography Concept Journey — Cryptanalysis | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/eef3ce11c7a9) |
+| Mon, 22 Dec 2025 18:36:43 GMT | Stop Relying on Go’s Memory Safety: The 4 Synchronization Secrets to Prevent Race Conditions ✨ | Puneet | [Read More](https://medium.com/p/17cb06c36410) |
 | Mon, 22 Dec 2025 18:26:23 GMT | CASP+ ® SecurityX ® SecAI+: The 2026 Pivot | Sec Guy | [Read More](https://medium.com/p/1671e61f0255) |
 | Mon, 22 Dec 2025 18:16:47 GMT | How Tezos Strengthened Its Walls Without Making a Sound | LibertéZ | [Read More](https://medium.com/p/87beae49a26a) |
 | Mon, 22 Dec 2025 18:12:28 GMT | The Dangerous Reality of Modern Scams | J.M. Matthew | [Read More](https://medium.com/p/c19f0e394829) |
@@ -88,6 +98,7 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 14:08:18 GMT | RST TI Report Digest: 22 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/f8f8d8108e02) |
 | Mon, 22 Dec 2025 14:04:10 GMT | What Anthropic’s Claude Incident Means for Future AI Security | Hello @ Octellient | [Read More](https://medium.com/p/993701ee3676) |
 | Mon, 22 Dec 2025 14:02:23 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Mins to Fix It. | DefineWorld | [Read More](https://medium.com/p/00c0d6001182) |
+| Mon, 22 Dec 2025 14:02:22 GMT | Antes del CCNA, fue el CCENT: así empezó todo en mi carrera de redes | Williams Padilla | [Read More](https://medium.com/p/102a9356e82c) |
 | Mon, 22 Dec 2025 14:00:45 GMT | The Concrete Vault Era: DeFi’s Evolution from Chaos to Composable Capital | Rizkierel | [Read More](https://medium.com/p/a7c880819afb) |
 | Mon, 22 Dec 2025 13:52:00 GMT | Fa-La-La-Laaaaaaa | The Write Sanity | [Read More](https://medium.com/p/28694e788224) |
 | Mon, 22 Dec 2025 13:48:16 GMT | EFF presents: The Breachies 2025- The Worst, Weirdest, Most Impactful Data Breaches of the Year | Erkan Saka | [Read More](https://medium.com/p/c6c0de6d1397) |
@@ -103,14 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 13:20:32 GMT | Facebook advertising tech support scams? What, anything for a buck? | Fred Showker | [Read More](https://medium.com/p/20703d7e50a3) |
 | Mon, 22 Dec 2025 13:19:06 GMT | QR Code Security | Surajit Majumder | [Read More](https://medium.com/p/b877ca70d876) |
 | Mon, 22 Dec 2025 13:07:13 GMT | Approach to Secure App Development | Groot Technologies | [Read More](https://medium.com/p/b8a3147b1a76) |
-| Mon, 22 Dec 2025 13:02:22 GMT | Linux Security Habit #10: I Always Capture an Incident Snapshot Before I Touch Anything | Faruk Ahmed | [Read More](https://medium.com/p/4e5ac95d52b1) |
-| Mon, 22 Dec 2025 12:54:15 GMT | Try Hack Me- Jack-of-All-Trades Walkthrough | PulseEinher | [Read More](https://medium.com/p/5fe80c38ad6b) |
-| Mon, 22 Dec 2025 12:49:29 GMT | WordPress Security: Essential Practices to Protect Your Site | Abdul Mubin | [Read More](https://medium.com/p/dd3b823d30da) |
-| Mon, 22 Dec 2025 12:45:53 GMT | Blocking SSH brute-force with Active Response in wazuh | zal ef | [Read More](https://medium.com/p/a8aadac34251) |
-| Mon, 22 Dec 2025 12:45:21 GMT | RBI Master Direction on Digital Payment Security Controls: A Comprehensive Compliance Guide | Certcube Labs | [Read More](https://medium.com/p/76848d3bf3ae) |
-| Mon, 22 Dec 2025 12:43:33 GMT | The Magic of Curl — Advance Commands | Paulo Bazzo | [Read More](https://medium.com/p/b57b3c9c3e64) |
-| Mon, 22 Dec 2025 12:40:43 GMT | PwnTillDawn Merry-go-Round Writeup | Bazil Brohi | [Read More](https://medium.com/p/8481d6d82815) |
-| Mon, 22 Dec 2025 12:32:39 GMT | Além do “Build Once, Run Anywhere”: Um Guia de Sobrevivência para Segurança de Containers | Sergio Lopes | [Read More](https://medium.com/p/9f440ae02bb9) |
-| Mon, 22 Dec 2025 12:32:15 GMT | NABARD IT & Cyber Security Audit Framework: A Comprehensive Guide for Supervised Entities | Certcube Labs | [Read More](https://medium.com/p/e7bbfd89c253) |
-| Mon, 22 Dec 2025 12:29:06 GMT | Reveal Malware CoinMiner | Aufarifqi | [Read More](https://medium.com/p/4348934fee62) |
-| Mon, 22 Dec 2025 12:19:09 GMT | Wekor — THM — Notes | Kavin Jindal | [Read More](https://medium.com/p/345aee09036b) |
