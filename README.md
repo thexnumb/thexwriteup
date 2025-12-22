@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 04:28:06 GMT | The Global Battle Against Cybercrime: Why Countries and Companies Must Unite | Joseph Santhosh | [Read More](https://medium.com/p/74bdbe22c766) |
+| Mon, 22 Dec 2025 04:18:06 GMT | PicoCTF — First Grep | flix | [Read More](https://medium.com/p/c6f15119d80b) |
+| Mon, 22 Dec 2025 04:14:03 GMT | ​Alex VS Watchtower | Kassey's Dreams & Realities Ink. | [Read More](https://medium.com/p/b8e359f6af44) |
+| Mon, 22 Dec 2025 04:11:42 GMT | Everyone Is Talking About AI. Almost No One Is Talking About What It’s Breaking. | Lakshita Gulliya | [Read More](https://medium.com/p/c2136de7880e) |
+| Mon, 22 Dec 2025 04:11:18 GMT | The Ultimate Kali Linux Bug Bounty Cheat Sheet: From Recon to Report | Janhvee Laad | [Read More](https://medium.com/p/ccc7e3295277) |
+| Mon, 22 Dec 2025 04:02:48 GMT | Building Production-Ready Rate Limiters in FastAPI: From In-Memory to Distributed Systems | Sizan Mahmud | [Read More](https://medium.com/p/1cf37346e7ea) |
+| Mon, 22 Dec 2025 04:00:48 GMT | Security in Distributed Systems | Ayo Akinkugbe | [Read More](https://medium.com/p/c68e0eff9886) |
+| Mon, 22 Dec 2025 03:57:04 GMT | Data Breach Prevention and Recovery: How Organizations Can Protect and Rebuild Trust | Maxatlasofficial | [Read More](https://medium.com/p/7377367f8cef) |
+| Mon, 22 Dec 2025 03:42:09 GMT | Instructions for deploying the NIST SP 800–53 Framework on the AWS platform. | HuyDangGDG | [Read More](https://medium.com/p/c96fe3e24473) |
 | Mon, 22 Dec 2025 03:37:55 GMT | Dedicated Server for Small Business: A Complete Guide | HostNOC | [Read More](https://medium.com/p/a5c0bfe8eee9) |
 | Mon, 22 Dec 2025 03:34:34 GMT | How hackers intercept your mobile app traffic | Buhushika Kumarage | [Read More](https://medium.com/p/772801a96136) |
 | Mon, 22 Dec 2025 03:32:23 GMT | Pig-Butchering Scams: How Trust Is Turned Into a Weapon | Deven Chhajed | [Read More](https://medium.com/p/638c4e5e568f) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Dec 2025 17:31:42 GMT | ML in Cybersecurity: From Threat Detection to Automated Response | Nayan Goel | [Read More](https://medium.com/p/ad6958e4fbbb) |
 | Sun, 21 Dec 2025 17:29:22 GMT | A laptop keyboard is far more than a set of keys for typing letters. | Premchandra | [Read More](https://medium.com/p/75853b459f6a) |
 | Sun, 21 Dec 2025 17:24:31 GMT | Clop Exploits CentreStack File Servers to Steal Corporate Data at Scale | Chetan Seripally | [Read More](https://medium.com/p/2c7bd5fc0d71) |
-| Sun, 21 Dec 2025 17:20:13 GMT | Building Trace Guard: A Beginner-Friendly Blue Team Log Analysis Project Using Python | Aravind | [Read More](https://medium.com/p/a1d6b0de13cd) |
-| Sun, 21 Dec 2025 17:19:41 GMT | ✨From Chaos to Control: Designing a Secure IAM Governance Model for a Growing Company on AWS | Root2Revenue | [Read More](https://medium.com/p/e5d91aa19be5) |
-| Sun, 21 Dec 2025 17:14:43 GMT | Everyone Tested the Login Page — I Tested the Logout Button Instead | Iski | [Read More](https://medium.com/p/3500c4168b67) |
-| Sun, 21 Dec 2025 17:10:46 GMT | SQL injection vulnerability allowing login bypass | PriOFF | [Read More](https://medium.com/p/8d7750779237) |
-| Sun, 21 Dec 2025 17:09:50 GMT | [HackSmarter.org Write-up] MidGarden2 (BadSuccessor exploitation) | Chicken0248 | [Read More](https://medium.com/p/caf53d14bd9b) |
-| Sun, 21 Dec 2025 17:09:29 GMT | [HackSmarter.org Write-up] Welcome (Shadow Credential, ForceChangePassword, ESC1) | Chicken0248 | [Read More](https://medium.com/p/0193d2e6e8ae) |
-| Sun, 21 Dec 2025 17:08:11 GMT | TRS4R3N Event Viewer | Serhan Kırca | [Read More](https://medium.com/p/54bcfc85a2f1) |
-| Sun, 21 Dec 2025 16:57:39 GMT | TCP 3-Way Handshake Manipulation | Esra Kayhan | [Read More](https://medium.com/p/80723b7b39c9) |
-| Sun, 21 Dec 2025 16:54:49 GMT | Minimal Size, Maximum Safety:
-Hardening Docker Images | Olha Stefanishyna | [Read More](https://medium.com/p/de1346b16ffb) |
