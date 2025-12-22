@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 14:12:54 GMT | OWASP Dropped a Top 10 for Agentic AI — Here’s What Actually Matters | Vito Rallo | [Read More](https://medium.com/p/a0b95ce32c16) |
+| Mon, 22 Dec 2025 14:08:18 GMT | RST TI Report Digest: 22 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/f8f8d8108e02) |
+| Mon, 22 Dec 2025 14:04:10 GMT | What Anthropic’s Claude Incident Means for Future AI Security | Hello @ Octellient | [Read More](https://medium.com/p/993701ee3676) |
+| Mon, 22 Dec 2025 14:02:23 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Mins to Fix It. | DefineWorld | [Read More](https://medium.com/p/00c0d6001182) |
+| Mon, 22 Dec 2025 14:00:45 GMT | The Concrete Vault Era: DeFi’s Evolution from Chaos to Composable Capital | Rizkierel | [Read More](https://medium.com/p/a7c880819afb) |
+| Mon, 22 Dec 2025 13:52:00 GMT | Fa-La-La-Laaaaaaa | The Write Sanity | [Read More](https://medium.com/p/28694e788224) |
+| Mon, 22 Dec 2025 13:48:16 GMT | EFF presents: The Breachies 2025- The Worst, Weirdest, Most Impactful Data Breaches of the Year | Erkan Saka | [Read More](https://medium.com/p/c6c0de6d1397) |
+| Mon, 22 Dec 2025 13:46:57 GMT | Icinga 2: From Monitoring to RCE | Itachix0f | [Read More](https://medium.com/p/2446b5c93506) |
+| Mon, 22 Dec 2025 13:46:47 GMT | Introduction to Cybersecurity — Final Part | Eniiyi | [Read More](https://medium.com/p/c9236d192b3e) |
+| Mon, 22 Dec 2025 13:45:34 GMT | The Lights Went Out in Denmark. London Just Confirmed a Breach. Is 2026 the Year of Cyber-Warfare? | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/1b8a504f75d7) |
+| Mon, 22 Dec 2025 13:44:00 GMT | Online Privacy in 2025: Why Regular Browsers Aren’t Enough Anymore | Anna Kolodkina | [Read More](https://medium.com/p/c1d995d841d9) |
+| Mon, 22 Dec 2025 13:39:17 GMT | How I Discovered a Critical OAuth Account Takeover Across Web and Mobile | Zuksh | [Read More](https://medium.com/p/97118706365a) |
+| Mon, 22 Dec 2025 13:38:11 GMT | Supporting Platform Validation for Wodan AI | AR Data Intelligence Solutions Inc. | [Read More](https://medium.com/p/59f231bdba70) |
 | Mon, 22 Dec 2025 13:32:40 GMT | Why GET and POST Are Not the Same. | Ehtisham Fakhar | [Read More](https://medium.com/p/d5796d0addd9) |
 | Mon, 22 Dec 2025 13:29:36 GMT | If I Were Starting AI in 2026 | Shivam Suchak | [Read More](https://medium.com/p/bf81c002e742) |
 | Mon, 22 Dec 2025 13:23:26 GMT | Sanity to Insanity: Chaining Public CMS Misconfigurations to Remote Admin Access on Production | Abdelrhman Allam (sl4x0) | [Read More](https://medium.com/p/1912857037dc) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 08:44:57 GMT | 2FA Made My Night: How I Bypassed Two-Factor Authentication and Learned a Valuable Lesson | Lokesh Soni | [Read More](https://medium.com/p/af9867b4c3d6) |
 | Mon, 22 Dec 2025 08:37:51 GMT | Cryptography Explained: A Beginner’s Guide to Modern Encryption | Manubhav Sharma | [Read More](https://medium.com/p/bae74a525377) |
 | Mon, 22 Dec 2025 08:34:07 GMT | React2Shell: A Bootstrap Startup Perspective | Suntouched | [Read More](https://medium.com/p/9c2be3d10df8) |
-| Mon, 22 Dec 2025 08:25:22 GMT | Day 16: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/1652093302ef) |
-| Mon, 22 Dec 2025 08:25:18 GMT | Exploiting Insecure Data storage Vulnerability in AndroGoat | Jahan Zeb | [Read More](https://medium.com/p/3066a3b47296) |
-| Mon, 22 Dec 2025 08:24:04 GMT | When Her Account Was Hacked: How Data Protection Saved Her Digital Life | Devarshi Acharya | [Read More](https://medium.com/p/864f9b52a6dc) |
-| Mon, 22 Dec 2025 08:23:32 GMT | Solving Global  SSH Auth in Hyprland | Ansari | [Read More](https://medium.com/p/96208ab24106) |
-| Mon, 22 Dec 2025 08:23:13 GMT | Day 15: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/7f69bea9c352) |
-| Mon, 22 Dec 2025 08:14:58 GMT | How Businesses Evaluate IT Service Providers Beyond Online Discussions | @itservicesguide | [Read More](https://medium.com/p/63bf6ba9daee) |
-| Mon, 22 Dec 2025 08:14:00 GMT | Malware Analysis — Malhare.exe - TryHackMe - Walkthrough | Visir | [Read More](https://medium.com/p/0ac53e434d04) |
-| Mon, 22 Dec 2025 08:11:37 GMT | Security Lab Simulation Project Part 16: Generating Security Alerts on Elasticsearch | Jenny | [Read More](https://medium.com/p/81fd51bcfd38) |
-| Mon, 22 Dec 2025 08:09:51 GMT | CSA XCON 2026: Elevating Global Cybersecurity Dialogue from the Foothills of Uttarakhand | Sagar Sajwan | [Read More](https://medium.com/p/49589160f34d) |
-| Mon, 22 Dec 2025 08:07:37 GMT | How to Block Bot Signups in Next.js 15: Stop Disposable Emails Before They Ruin Your SaaS Metrics | Trust Shield | [Read More](https://medium.com/p/4a79ce788492) |
-| Mon, 22 Dec 2025 08:05:01 GMT | Tải Soul Knight MOD APK V7.7.0 (Mở Khóa Nhân Vật, Menu) | GOCMOD | [Read More](https://medium.com/p/f40902b5ad0e) |
-| Mon, 22 Dec 2025 07:49:59 GMT | What Happens Behind the Scenes When You Type a Website Name | BHARGAV SANDILYA | [Read More](https://medium.com/p/8be3a1757523) |
-| Mon, 22 Dec 2025 07:41:24 GMT | ด่วน!! ช่องโหว่ใน Cisco Secure Email เสี่ยงถูกยึดระบบ ตรวจสอบด่วน | ThaiCERT By NCSA | [Read More](https://medium.com/p/afdf3163d26b) |
