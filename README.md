@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 14:26:05 GMT | Securing Your Data with AWS Backup | Ajay Uppu | [Read More](https://medium.com/p/e789639faee5) |
+| Mon, 22 Dec 2025 14:24:25 GMT | Phishing: Understanding One of the Most Effective Cyber Attacks (Part 1) | Cyber Timi | [Read More](https://medium.com/p/7126391bd713) |
+| Mon, 22 Dec 2025 14:20:21 GMT | Alternatif Metode pengujian untuk Bypass firewall Cloudflare | Mohamad Fattyr | [Read More](https://medium.com/p/459b8c42ab27) |
 | Mon, 22 Dec 2025 14:12:54 GMT | OWASP Dropped a Top 10 for Agentic AI — Here’s What Actually Matters | Vito Rallo | [Read More](https://medium.com/p/a0b95ce32c16) |
 | Mon, 22 Dec 2025 14:08:18 GMT | RST TI Report Digest: 22 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/f8f8d8108e02) |
 | Mon, 22 Dec 2025 14:04:10 GMT | What Anthropic’s Claude Incident Means for Future AI Security | Hello @ Octellient | [Read More](https://medium.com/p/993701ee3676) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 08:49:00 GMT | The Anatomy of React2Shell: Understanding the CVE-2025–55182 Critical RCE | SecureSlate | [Read More](https://medium.com/p/2f6b26015cbb) |
 | Mon, 22 Dec 2025 08:45:51 GMT | How to Reduce the Risk of DDoS Attacks Through Infrastructure Hardening | Jerome Decinco | [Read More](https://medium.com/p/79ae5a5691a1) |
 | Mon, 22 Dec 2025 08:45:29 GMT | TryHackMe: Retro Writeup | cbev | [Read More](https://medium.com/p/849764fe754d) |
-| Mon, 22 Dec 2025 08:44:57 GMT | 2FA Made My Night: How I Bypassed Two-Factor Authentication and Learned a Valuable Lesson | Lokesh Soni | [Read More](https://medium.com/p/af9867b4c3d6) |
-| Mon, 22 Dec 2025 08:37:51 GMT | Cryptography Explained: A Beginner’s Guide to Modern Encryption | Manubhav Sharma | [Read More](https://medium.com/p/bae74a525377) |
-| Mon, 22 Dec 2025 08:34:07 GMT | React2Shell: A Bootstrap Startup Perspective | Suntouched | [Read More](https://medium.com/p/9c2be3d10df8) |
