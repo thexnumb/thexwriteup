@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 18:26:23 GMT | CASP+ ® SecurityX ® SecAI+: The 2026 Pivot | Sec Guy | [Read More](https://medium.com/p/1671e61f0255) |
+| Mon, 22 Dec 2025 18:16:47 GMT | How Tezos Strengthened Its Walls Without Making a Sound | LibertéZ | [Read More](https://medium.com/p/87beae49a26a) |
+| Mon, 22 Dec 2025 18:12:28 GMT | The Dangerous Reality of Modern Scams | J.M. Matthew | [Read More](https://medium.com/p/c19f0e394829) |
+| Mon, 22 Dec 2025 18:06:13 GMT | When IT Becomes the Wrong Person’s Problem | SkyTide Group | [Read More](https://medium.com/p/e4a5f9014cce) |
+| Mon, 22 Dec 2025 18:02:37 GMT | Privilege Escalation in macOS PKG Installers | m8sec | [Read More](https://medium.com/p/cf3d3b6b8e31) |
+| Mon, 22 Dec 2025 17:59:34 GMT | The Magic of RITA: Detecting C2 Traffic Using Zeek Logs | Sadineni Sai Sushanth | [Read More](https://medium.com/p/963648c8ffcd) |
+| Mon, 22 Dec 2025 17:54:03 GMT | The “Flash” of the AI Era: Why CVE-2025–14174 Signals a Shift in Browser Security | Abdul Rasheed | [Read More](https://medium.com/p/0afc6fb735e8) |
+| Mon, 22 Dec 2025 17:49:33 GMT | Abusing iam:PassRole: Five Practical AWS Privilege Escalation Techniques | Narsingh Yadav | [Read More](https://medium.com/p/411502d01884) |
+| Mon, 22 Dec 2025 17:47:44 GMT | Lies-in-the-Loop: When AI Safety Controls Become the Exploit | Chetan Seripally | [Read More](https://medium.com/p/7ea35117db64) |
+| Mon, 22 Dec 2025 17:45:07 GMT | Don’t miss out on this podcast! | Omar Fares | [Read More](https://medium.com/p/f455e2c0441a) |
+| Mon, 22 Dec 2025 17:44:00 GMT | AI in Bug‑Bounty Hunting — Hack More Productive | Afi0pchik | [Read More](https://medium.com/p/a25cd5639794) |
 | Mon, 22 Dec 2025 17:28:57 GMT | My Cybersecurity Journey- starting late ,But with patience | Prerana! | [Read More](https://medium.com/p/648473684e9a) |
 | Mon, 22 Dec 2025 17:25:31 GMT | Unlocking Linux Process Power: Part2 - Monitor, Terminate Processes Like a Pro | MR.7 | [Read More](https://medium.com/p/2b4db94ae338) |
 | Mon, 22 Dec 2025 17:24:54 GMT | What is the Privacy Problem in Trustworthy AI? | GhostDrift Mathematical Institute | [Read More](https://medium.com/p/202d4cd58c32) |
@@ -103,14 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 12:32:15 GMT | NABARD IT & Cyber Security Audit Framework: A Comprehensive Guide for Supervised Entities | Certcube Labs | [Read More](https://medium.com/p/e7bbfd89c253) |
 | Mon, 22 Dec 2025 12:29:06 GMT | Reveal Malware CoinMiner | Aufarifqi | [Read More](https://medium.com/p/4348934fee62) |
 | Mon, 22 Dec 2025 12:19:09 GMT | Wekor — THM — Notes | Kavin Jindal | [Read More](https://medium.com/p/345aee09036b) |
-| Mon, 22 Dec 2025 12:18:21 GMT | Compromise of Android device integrity leading to unauthorized kernel-level access and manipulation… | Zuhair Mehtab | [Read More](https://medium.com/p/6108d09204e4) |
-| Mon, 22 Dec 2025 12:17:12 GMT | SBOM Solutions: Strengthening Software Supply Chain Security in a Connected World | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/9836e7e7d2f2) |
-| Mon, 22 Dec 2025 12:07:46 GMT | Understanding API Authentication in Fintech (Without the Confusion) | Banu Tutuncu - AI Tester in Fintech - Storyteller | [Read More](https://medium.com/p/41670aae8afe) |
-| Mon, 22 Dec 2025 12:06:46 GMT | Data Representation in Computers: | RK tamang | [Read More](https://medium.com/p/fd83893f6e1f) |
-| Mon, 22 Dec 2025 12:02:58 GMT | Guide 001 - Getting Started in Bug Bounty Hunting.. | adce626 | [Read More](https://medium.com/p/424d5480ec68) |
-| Mon, 22 Dec 2025 12:02:51 GMT | The Future of Open Source | Emily Chan | [Read More](https://medium.com/p/6e45f3160e19) |
-| Mon, 22 Dec 2025 12:02:50 GMT | CTF Basics: Understanding Base64 Encoding | Walter Moar | [Read More](https://medium.com/p/4280d26c04cf) |
-| Mon, 22 Dec 2025 11:57:47 GMT | From Steam Outages to Seamless Apps: Chicago’s Leading Mobile App Development Company Responds to… | Mike Brown | [Read More](https://medium.com/p/22ea7f73aa47) |
-| Mon, 22 Dec 2025 11:56:45 GMT | Understanding HttpOnly Cookies: Your Frontend’s Secret Weapon Against XSS Attacks | mirbasit01 | [Read More](https://medium.com/p/252fb98d3a5d) |
-| Mon, 22 Dec 2025 11:52:28 GMT | How Do IT Solutions for Businesses Shape Modern Teams? | Somberg | [Read More](https://medium.com/p/a3224eeb080d) |
-| Mon, 22 Dec 2025 11:44:07 GMT | Best Cloud Security Certification Courses in india | Manisha Chaudhary | [Read More](https://medium.com/p/89b1ee33b860) |
