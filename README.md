@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 11:32:48 GMT | AI-Generated Apps: The Security Vulnerability Crisis Coming | Can Artuc | [Read More](https://medium.com/p/a1cc653d656a) |
+| Mon, 22 Dec 2025 11:29:05 GMT | What is a Phishing Attack and How to Prevent It? | Dinu Gitlan | [Read More](https://medium.com/p/b2da7f20b0e9) |
+| Mon, 22 Dec 2025 11:28:14 GMT | Linux’ta Filtreler (Filters) | g.o. | [Read More](https://medium.com/p/e8a15d30e8e9) |
+| Mon, 22 Dec 2025 11:28:00 GMT | Tech Stack for Building a Cybersecurity Micro-SaaS in 2026 | John Muconto | [Read More](https://medium.com/p/5ac46599f1bf) |
+| Mon, 22 Dec 2025 11:24:01 GMT | Breaking the Fortresses: Why “Zero Trust” is the Talk of the Cyber World | Büşra İleri | [Read More](https://medium.com/p/6063fd0b7648) |
 | Mon, 22 Dec 2025 11:14:05 GMT | How to Get Your Lost or Scammed Cryptocurrency Back: Go to Optimistic Hacker Gaius. | Frankedward | [Read More](https://medium.com/p/2cd9cd813677) |
 | Mon, 22 Dec 2025 11:11:48 GMT | Microsoft’s New Centralized Defense: Blocking External Teams Users Directly from Defender Portal | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/87022a9f7767) |
 | Mon, 22 Dec 2025 11:07:40 GMT | The Technology That Shows Where Digital Content Comes From and Whether It Can Be Trusted | Himanshu Chaudhary | [Read More](https://medium.com/p/83a2b253c3b6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 06:42:47 GMT | Tải Roblox APK v2.701.966 Phiên Bản Quốc Tế Miễn Phí | Bandisharecx | [Read More](https://medium.com/p/7ed88a08eba7) |
 | Mon, 22 Dec 2025 06:38:46 GMT | Easy Splunk: Enterprise Security 8 | Antonella Blasetti | [Read More](https://medium.com/p/c02775b242ac) |
 | Mon, 22 Dec 2025 06:38:32 GMT | Why Rust Is the Language of Choice for Safe and Fast Systems (2025–2026) | Amin Softtech | [Read More](https://medium.com/p/060e3bb0a594) |
-| Mon, 22 Dec 2025 06:36:36 GMT | Ethereum Shifts Focus From Speed to Security With New 2026 Deadline. | Brave New Coin | [Read More](https://medium.com/p/b6a54565da3c) |
-| Mon, 22 Dec 2025 06:32:55 GMT | Whatsapp USA 6162021156 CC CVV DUMP PAYPAL CASHAPP ZELLE VENMO BANK WU TRANSFERS CLONED CARDS ATM… | Albertgonz | [Read More](https://medium.com/p/9738af021947) |
-| Mon, 22 Dec 2025 06:25:25 GMT | How Security Services Improve Safety for Events and Gatherings | ASRA Protection Service | [Read More](https://medium.com/p/8259564a104c) |
-| Mon, 22 Dec 2025 06:23:42 GMT | In His Arms I Discovered The Little But Great Act Everybody Yearns For, Yet Never Admits: The Love… | Carmen Helen Golden | [Read More](https://medium.com/p/f83c20e5737f) |
-| Mon, 22 Dec 2025 06:20:08 GMT | Police System in India | Vivek Shukla | [Read More](https://medium.com/p/2fe68b67c03b) |
