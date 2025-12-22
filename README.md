@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Dec 2025 19:36:31 GMT | The Day My App Finally Trusted Its Users (A JWT Story) | Brayce Dominic | [Read More](https://medium.com/p/68775edf8a0e) |
+| Mon, 22 Dec 2025 19:36:02 GMT | 1,000 Unsecured MCP Servers: The Hidden Attack Surface You Missed | Mehdi BAFDIL | [Read More](https://medium.com/p/186f157822c4) |
+| Mon, 22 Dec 2025 19:26:17 GMT | Enterprise Data Architecture: The Blueprint for Digital Success | C.N. Husnul Izzati | [Read More](https://medium.com/p/78fa70e27b91) |
+| Mon, 22 Dec 2025 19:23:53 GMT | İnternet Nasıl Çalışır?( IP, DNS, DHCP ve NAT Mantığı) | Arda Derya | [Read More](https://medium.com/p/3cd27b2e9964) |
+| Mon, 22 Dec 2025 19:20:43 GMT | My Experience Solving Challenges at TCS HackQuest Season 10 | Harsh Jain | [Read More](https://medium.com/p/102fc5ae6cbf) |
+| Mon, 22 Dec 2025 19:18:41 GMT | Stop Shifting Junk Left: Why You Must Scan Container Images Before the Registry | Prakhar Mathur | [Read More](https://medium.com/p/f799b73e3ee8) |
+| Mon, 22 Dec 2025 19:14:02 GMT | Cherry Cola Hair | Ouanessa Nana | [Read More](https://medium.com/p/98d68f6248a6) |
 | Mon, 22 Dec 2025 19:09:44 GMT | Network Security Architecture | mohandika | [Read More](https://medium.com/p/4bae7bbbd8d6) |
 | Mon, 22 Dec 2025 19:06:20 GMT | Trying to Quit YouTube This Holiday Season? Grayjay vs Invidious vs NewPipe | BiyteLüm | [Read More](https://medium.com/p/3ad3f0f0b80c) |
 | Mon, 22 Dec 2025 19:02:20 GMT | Building a Cybersecurity News Aggregator in Go — Part 1. | Michael H. | [Read More](https://medium.com/p/a6eaba89d6cd) |
@@ -107,10 +114,3 @@ Organizations today spend more on… | Ankit rai | [Read More](https://medium.co
 | Mon, 22 Dec 2025 13:45:34 GMT | The Lights Went Out in Denmark. London Just Confirmed a Breach. Is 2026 the Year of Cyber-Warfare? | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/1b8a504f75d7) |
 | Mon, 22 Dec 2025 13:44:00 GMT | Online Privacy in 2025: Why Regular Browsers Aren’t Enough Anymore | Anna Kolodkina | [Read More](https://medium.com/p/c1d995d841d9) |
 | Mon, 22 Dec 2025 13:39:17 GMT | How I Discovered a Critical OAuth Account Takeover Across Web and Mobile | Zuksh | [Read More](https://medium.com/p/97118706365a) |
-| Mon, 22 Dec 2025 13:38:11 GMT | Supporting Platform Validation for Wodan AI | AR Data Intelligence Solutions Inc. | [Read More](https://medium.com/p/59f231bdba70) |
-| Mon, 22 Dec 2025 13:32:40 GMT | Why GET and POST Are Not the Same. | Ehtisham Fakhar | [Read More](https://medium.com/p/d5796d0addd9) |
-| Mon, 22 Dec 2025 13:29:36 GMT | If I Were Starting AI in 2026 | Shivam Suchak | [Read More](https://medium.com/p/bf81c002e742) |
-| Mon, 22 Dec 2025 13:23:26 GMT | Sanity to Insanity: Chaining Public CMS Misconfigurations to Remote Admin Access on Production | Abdelrhman Allam (sl4x0) | [Read More](https://medium.com/p/1912857037dc) |
-| Mon, 22 Dec 2025 13:20:32 GMT | Facebook advertising tech support scams? What, anything for a buck? | Fred Showker | [Read More](https://medium.com/p/20703d7e50a3) |
-| Mon, 22 Dec 2025 13:19:06 GMT | QR Code Security | Surajit Majumder | [Read More](https://medium.com/p/b877ca70d876) |
-| Mon, 22 Dec 2025 13:07:13 GMT | Approach to Secure App Development | Groot Technologies | [Read More](https://medium.com/p/b8a3147b1a76) |
