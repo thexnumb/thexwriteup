@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 15:36:14 GMT | DDoS Attack Disrupts La Poste and La Banque Postale Services | RealSec.io | [Read More](https://medium.com/p/45df4e7ad3bd) |
+| Tue, 23 Dec 2025 15:23:37 GMT | Google Just Got Embarrassed by a University Lab. The Real Quantum War Isn’t About AI at All. | Zoom In AI | [Read More](https://medium.com/p/84aca5d3d9af) |
 | Tue, 23 Dec 2025 15:06:34 GMT | Google Cloud + Palo Alto Networks: The $10 Billion Security Deal That Changes Everything for… | inboryn | [Read More](https://medium.com/p/86ef488c8faf) |
 | Tue, 23 Dec 2025 15:05:31 GMT | Why Private Offensive Cyber Operations Are the Wrong Answer | Phil Stafford | [Read More](https://medium.com/p/495b1c5610df) |
 | Tue, 23 Dec 2025 15:02:27 GMT | Simon Hardy: Many Projects Are Just Telling Stories with AI, Nivex Uses AI from the Ground Up… | Netra Media | [Read More](https://medium.com/p/1343c5b43e33) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 09:57:14 GMT | QR Scam, learn more about it | Techwizs | [Read More](https://medium.com/p/a2ec7add992b) |
 | Tue, 23 Dec 2025 09:51:27 GMT | Advantages and Disadvantages of Biometric Devices for Security | Joven A Rodrigues | [Read More](https://medium.com/p/4f127716d537) |
 | Tue, 23 Dec 2025 09:51:03 GMT | Top Plants That Repel Mosquitoes For A Bug-Free Garden. | PlantoraApp | [Read More](https://medium.com/p/8ae77ff05d39) |
-| Tue, 23 Dec 2025 09:48:31 GMT | TryHackMe: CherryBlossom Writeup | cbev | [Read More](https://medium.com/p/ccbd40fafcbd) |
-| Tue, 23 Dec 2025 09:47:41 GMT | Hacking Series (Part 10): DoS & DDoS Attacks — How Systems Are Taken Down (And How to Defend… | Cyber Wolf | [Read More](https://medium.com/p/21ff02a134d5) |
