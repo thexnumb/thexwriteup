@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 19:14:38 GMT | How We Built a VPN That Survives Blocks Without Making Life Hard for Users | VPNHouse | [Read More](https://medium.com/p/4ada0bbb2980) |
+| Tue, 23 Dec 2025 19:07:08 GMT | Fixing JavaScript Hijacking: Securing Chatbot APIs Against JSONP Attacks | Harshitha Reddy | [Read More](https://medium.com/p/dbb9b9e6c7e1) |
+| Tue, 23 Dec 2025 18:57:20 GMT | Quantum Computing for Beginners: Why it matters and how it will change online security by 2030 | Ranam | [Read More](https://medium.com/p/64fc7e8c2be2) |
+| Tue, 23 Dec 2025 18:56:31 GMT | Malware Analysis — Malhare.exe - AoC 2025 Day — 21 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/0dc743b7d49b) |
+| Tue, 23 Dec 2025 18:56:26 GMT | The AI That Couldn’t Keep a Secret: How One Hidden Line of Text Leaked an Entire Company’s Data | Mohd uvais wali khan | [Read More](https://medium.com/p/da0f64f90cea) |
+| Tue, 23 Dec 2025 18:53:19 GMT | You Don’t Need a Zero-Day If the Door Is Already Open | Anthony K | [Read More](https://medium.com/p/1640bbbc6eeb) |
+| Tue, 23 Dec 2025 18:42:08 GMT | Lookup -TryHackMe Walkthrough | Nick Bayne | [Read More](https://medium.com/p/4a42c461166e) |
+| Tue, 23 Dec 2025 18:38:13 GMT | LinkedIn Üzerinden Aldığım Şüpheli İş İlanı | Hakan ÇEVİK | [Read More](https://medium.com/p/163f98ba3bb1) |
+| Tue, 23 Dec 2025 18:37:28 GMT | Finding Weakness Before Hackers Do | Kambetastephano | [Read More](https://medium.com/p/a927b1f0e940) |
+| Tue, 23 Dec 2025 18:34:37 GMT | POST-QUANTUM BLOCKCHAIN: AN UPDATE FOR THE FUTURE? | Christopher Kissel | [Read More](https://medium.com/p/a7c6652ce1f2) |
 | Tue, 23 Dec 2025 18:33:21 GMT | The Day I Found a Prometheus Node Exporter Exposed to the Internet — And Why It Revealed More… | Anshubind | [Read More](https://medium.com/p/1841acd4496b) |
 | Tue, 23 Dec 2025 18:32:40 GMT | The Night I Found a Backup ZIP File Sitting in Plain Sight — And Why It Could Have Exposed Far… | Anshubind | [Read More](https://medium.com/p/5edfb2fdabde) |
 | Tue, 23 Dec 2025 18:26:30 GMT | Certified Ethical Hacker — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/4e172ef25c20) |
@@ -43,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 16:17:03 GMT | Breach the Perimeter via Prompt Injection : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/a21b688cc54d) |
 | Tue, 23 Dec 2025 16:16:40 GMT | The Good, the Bad, and the Glitchy: Navigating 2025’s Tech Landscape and What 2026 Holds | Paradise technologies Inc | [Read More](https://medium.com/p/f598a558e504) |
 | Tue, 23 Dec 2025 16:12:46 GMT | Brooklyn Nine Nine Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/0bd514185b0b) |
+| Tue, 23 Dec 2025 16:08:20 GMT | React2Shell: The Critical Vulnerability Every Developer Needs to Know About | Mohd uvais wali khan | [Read More](https://medium.com/p/ae27c9269cc4) |
 | Tue, 23 Dec 2025 16:05:33 GMT | 3rd Building Enterprise Network Infrastructure: A Hotel Network Design Case Study | iYÁOmarv_ | [Read More](https://medium.com/p/c9a28ee5494a) |
 | Tue, 23 Dec 2025 16:02:21 GMT | The Ultimate Guide to Cybersecurity: Protecting Yourself and Your Organization from Hackers | Negro Med | [Read More](https://medium.com/p/153281701f95) |
 | Tue, 23 Dec 2025 16:00:54 GMT | Cybersecurity & Compliance Solutions: Safeguarding Business in a Digital Era | TVG Tech | [Read More](https://medium.com/p/d38e0512644d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 13:00:55 GMT | Why Smartphones Are the Most Valuable Target in Cybercrime Today | ANSI Technologies | [Read More](https://medium.com/p/2e3703597a71) |
 | Tue, 23 Dec 2025 13:00:21 GMT | I Tried Filling Out a Simple Contact Form and Discovered a Stored XSS in the Wild | Munna✨ | [Read More](https://medium.com/p/f777dec6369e) |
 | Tue, 23 Dec 2025 12:58:14 GMT | How Secure Is Your React App? A Frontend Developer’s Guide to Data Security | Sulman Ahmed | [Read More](https://medium.com/p/0cdf743d9514) |
-| Tue, 23 Dec 2025 12:55:13 GMT | How Santa Claus Solved the World’s Hardest Logistics and Cybersecurity Problem | Abatis ABTU | [Read More](https://medium.com/p/23a747c10955) |
-| Tue, 23 Dec 2025 12:49:25 GMT | How I Built a Production Home Lab from E-Waste (With 2GB RAM) | Raihan shamnad | [Read More](https://medium.com/p/b882c21cf781) |
-| Tue, 23 Dec 2025 12:49:24 GMT | “Bug Bounty Bootcamp #3: How the Internet Really Works (A Hacker’s Map)” | Aman Sharma | [Read More](https://medium.com/p/3c16b59a5e84) |
-| Tue, 23 Dec 2025 12:49:10 GMT | Digital Identity Is the Front Line | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/2ae8ab0329fb) |
-| Tue, 23 Dec 2025 12:35:28 GMT | Understanding CMMC Complaince | Zach Morin | [Read More](https://medium.com/p/f6c45068eec6) |
-| Tue, 23 Dec 2025 12:23:15 GMT | Welcome to Code Of School — Java with AI (Future ka Combo ) | deepanshu Rode | [Read More](https://medium.com/p/6dc05e0b90e6) |
-| Tue, 23 Dec 2025 12:19:04 GMT | Torrijas — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/5892af79c220) |
-| Tue, 23 Dec 2025 12:18:50 GMT | Segment Routing for Proxies: Keep Logins Stable, Rotate Fast for Pulls | BlockCypher | [Read More](https://medium.com/p/84b818ee4c72) |
-| Tue, 23 Dec 2025 12:16:32 GMT | 10 Must-Have AI Certifications for Career Growth in 2025 | Tejaswini Naresh IT | [Read More](https://medium.com/p/8254a852fec5) |
-| Tue, 23 Dec 2025 12:09:41 GMT | [AD攻防] Pass the Hash攻擊 | 陳禹璿 | [Read More](https://medium.com/p/7f1712bb87b6) |
-| Tue, 23 Dec 2025 12:08:49 GMT | Things I Learned at a recent AI Security Meetup | Anand Prabhat | [Read More](https://medium.com/p/03e4143b024d) |
