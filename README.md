@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 22:14:17 GMT | User Access Control Bypass via CMSTP | S12 - 0x12Dark Development | [Read More](https://medium.com/p/07bf78be0ce2) |
+| Tue, 23 Dec 2025 22:02:45 GMT | Breaking BlackPearl: A Full Exploitation Challenge Guide | Nahla Mahmoud Hossam Eldin Riad Youssef | [Read More](https://medium.com/p/c4445838137f) |
+| Tue, 23 Dec 2025 21:58:57 GMT | AWS Advent Calendar 2025 — Days 6–10 | Ihor Sasovets | [Read More](https://medium.com/p/eed627848bc4) |
+| Tue, 23 Dec 2025 21:56:01 GMT | Fraud as a Service: The Economics Are Turning | Will Groah | [Read More](https://medium.com/p/b49f100ee4fe) |
+| Tue, 23 Dec 2025 21:42:00 GMT | AWS Advent Calendar 2025 — Days 1–5 | Ihor Sasovets | [Read More](https://medium.com/p/de5a0c1cb69e) |
+| Tue, 23 Dec 2025 21:34:44 GMT | The Hacking Tool Chronicles: Kismet | z3r0trust | [Read More](https://medium.com/p/151a9e10120c) |
 | Tue, 23 Dec 2025 21:33:00 GMT | Ever need to track an IP address, get evidence on a cheating partner, hack and retrieve any account… | Decryptx | [Read More](https://medium.com/p/af36f479bea2) |
 | Tue, 23 Dec 2025 21:05:10 GMT | Open for Business: Harnessing the Power of Open-Source in the Corporate World | Sage Khan | [Read More](https://medium.com/p/1ee402aa3d8b) |
 | Tue, 23 Dec 2025 20:57:17 GMT | Vulnerability: DOM-Based XSS (type-0 XSS) — DVWA | Basmala Yasser | [Read More](https://medium.com/p/5e16e41af9da) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 14:20:20 GMT | Race Condition Bypass After a Fix: How I Exploited It Again | Abhishek Gupta | [Read More](https://medium.com/p/eeadcb4fce09) |
 | Tue, 23 Dec 2025 14:15:13 GMT | Try Hack Me- Madness Walkthrough | PulseEinher | [Read More](https://medium.com/p/5d3c804bd61f) |
 | Tue, 23 Dec 2025 14:10:05 GMT | Building a Globally Ranked Tech Enterprise from the Hills of Kerala. | Akash PS - Elite Ethical Hacker | [Read More](https://medium.com/p/a3049e8c5c23) |
-| Tue, 23 Dec 2025 14:03:46 GMT | Dread Forum: The Reddit of the Dark Web | adityaax | [Read More](https://medium.com/p/afabcee4dbbe) |
-| Tue, 23 Dec 2025 14:02:50 GMT | Why Running Containers as Root Is Risky — Use Rootless Containers Instead | Metta Surendhar | [Read More](https://medium.com/p/af19e412eb6b) |
-| Tue, 23 Dec 2025 14:02:48 GMT | Logs Don’t Prevent Incidents — They Explain Them | Faruk Ahmed | [Read More](https://medium.com/p/7fdd374530d1) |
-| Tue, 23 Dec 2025 14:02:45 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/2ac95657f229) |
-| Tue, 23 Dec 2025 14:02:40 GMT | What is Cyber Security? A beginner’s Guide | Shwetawrites | [Read More](https://medium.com/p/527ae657e91e) |
-| Tue, 23 Dec 2025 14:02:31 GMT | The New Naval Giants: Magnificent Weapons for a World That No Longer Exists. | Berend Watchus | [Read More](https://medium.com/p/e6288116cf6e) |
