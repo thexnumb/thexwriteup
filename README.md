@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 17:38:54 GMT | AI Security: Defending Against the Next Generation of Cyber Threats | Nayan Goel | [Read More](https://medium.com/p/777849c35e93) |
+| Tue, 23 Dec 2025 17:38:27 GMT | Cybersecurity Isn’t Just an IT Issue — It’s a Leadership Challenge | Digital Defense | [Read More](https://medium.com/p/fb4f4471ddb0) |
+| Tue, 23 Dec 2025 17:37:11 GMT | Free life | Sakhi Writes | [Read More](https://medium.com/p/59f0e726183f) |
+| Tue, 23 Dec 2025 17:22:56 GMT | The Complete Frida Automation Script for OWASP Mobile Security Testing (Part 2) | Raj Prasad Kuiri | [Read More](https://medium.com/p/d8021d564223) |
 | Tue, 23 Dec 2025 17:08:24 GMT | When Privacy Rules Start Shaping Market Power In Apps | Geoffrey Wenger | [Read More](https://medium.com/p/e6281cf08d7a) |
 | Tue, 23 Dec 2025 17:08:16 GMT | Why VPN Use Can Create Security Problems | Geoffrey Wenger | [Read More](https://medium.com/p/62091b8778df) |
 | Tue, 23 Dec 2025 17:07:23 GMT | Exploiting Timing-Based Username Enumeration and Credential Brute-Force with IP Rotation | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/20d0beaee629) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 11:30:13 GMT | Security Consulting Services: Why Choosing a Top Security Service Provider in India Matters | Ciss India | [Read More](https://medium.com/p/6bc24d48f174) |
 | Tue, 23 Dec 2025 11:25:05 GMT | Why Sharing Private Photos With Loved Ones Is Often the Biggest Risk | CVOR | [Read More](https://medium.com/p/2a271ba0454e) |
 | Tue, 23 Dec 2025 11:18:15 GMT | The Future is Watching: Top Benefits of AI-Based Industrial Surveillance Systems for Factories | Dolon Ghosh | [Read More](https://medium.com/p/ab0e9b6a82dc) |
-| Tue, 23 Dec 2025 11:16:00 GMT | What Is Data Protection As A Service (DPAAS)? Strengthening Cloud & Endpoint Security | QualysecEurope | [Read More](https://medium.com/p/897e0d4eb200) |
-| Tue, 23 Dec 2025 11:11:31 GMT | People Don’t Know How to Be Honest | amelie:) | [Read More](https://medium.com/p/e353a84e4bfa) |
-| Tue, 23 Dec 2025 11:08:24 GMT | The Silent Hemorrhage: Why Your RAG Pipeline is Leaking User Data. | Godfrey Lebo | [Read More](https://medium.com/p/886c83dc8ba6) |
-| Tue, 23 Dec 2025 11:03:08 GMT | Ethical Hacking for Beginners: What It Really Is and How to Start the Right Way When people hear… | My name is Valentin | [Read More](https://medium.com/p/62abdb462081) |
