@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 11:32:03 GMT | Vendor Risk Hell — How Third-Party Apps Quietly Destroy Your Security Posture | JSOC IT BLOG | [Read More](https://medium.com/p/b752ba0f1bbe) |
+| Tue, 23 Dec 2025 11:30:13 GMT | Security Consulting Services: Why Choosing a Top Security Service Provider in India Matters | Ciss India | [Read More](https://medium.com/p/6bc24d48f174) |
+| Tue, 23 Dec 2025 11:25:05 GMT | Why Sharing Private Photos With Loved Ones Is Often the Biggest Risk | CVOR | [Read More](https://medium.com/p/2a271ba0454e) |
 | Tue, 23 Dec 2025 11:18:15 GMT | The Future is Watching: Top Benefits of AI-Based Industrial Surveillance Systems for Factories | Dolon Ghosh | [Read More](https://medium.com/p/ab0e9b6a82dc) |
+| Tue, 23 Dec 2025 11:16:00 GMT | What Is Data Protection As A Service (DPAAS)? Strengthening Cloud & Endpoint Security | QualysecEurope | [Read More](https://medium.com/p/897e0d4eb200) |
+| Tue, 23 Dec 2025 11:11:31 GMT | People Don’t Know How to Be Honest | amelie:) | [Read More](https://medium.com/p/e353a84e4bfa) |
 | Tue, 23 Dec 2025 11:08:24 GMT | The Silent Hemorrhage: Why Your RAG Pipeline is Leaking User Data. | Godfrey Lebo | [Read More](https://medium.com/p/886c83dc8ba6) |
 | Tue, 23 Dec 2025 11:03:08 GMT | Ethical Hacking for Beginners: What It Really Is and How to Start the Right Way When people hear… | My name is Valentin | [Read More](https://medium.com/p/62abdb462081) |
 | Tue, 23 Dec 2025 11:02:21 GMT | GRC Lessons from Georgia’s Blockchain Land Registry: Managing Risk and Compliance in National… | Brian Haman, PhD | [Read More](https://medium.com/p/a52e9d0f283c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 06:00:05 GMT | From Honeypot Noise to Actionable Risk: Building a Fusion-Based ML IDS | Maxine Jones | [Read More](https://medium.com/p/41e6838812dd) |
 | Tue, 23 Dec 2025 05:59:59 GMT | Authorization Sprawl: The Silent Security Debt Nobody Is Tracking | Ashwini Puranik | [Read More](https://medium.com/p/7af570df58a9) |
 | Tue, 23 Dec 2025 05:54:56 GMT | Why a Dedicated IP is Non-Negotiable for Crypto Traders in 2026 | Essin Crypto | [Read More](https://medium.com/p/345d9a55cf0f) |
-| Tue, 23 Dec 2025 05:54:18 GMT | From Cyber Crisis to IT Strategy Reset: Lessons from a Retail Enterprise Transformation | Akhradej Suntornsnoh | [Read More](https://medium.com/p/7542766ebc0f) |
-| Tue, 23 Dec 2025 05:36:57 GMT | 2026 Cybersecurity Tips & Tricks | HackersPrey | [Read More](https://medium.com/p/febcd490c9c5) |
-| Tue, 23 Dec 2025 05:36:02 GMT | The Global Push to Open iOS: How Governments Are (Finally) Forcing Sideloading, Alternative App… | Scott Forbes | [Read More](https://medium.com/p/0c933ed69837) |
-| Tue, 23 Dec 2025 05:32:23 GMT | Why Writing Less Code Makes You a Better Developer | MyNextDeveloper | [Read More](https://medium.com/p/a8cdc81ab553) |
-| Tue, 23 Dec 2025 05:30:03 GMT | Kubernetes API & Objects — The Heart of How Kubernetes Works | Srikanta Sahu | [Read More](https://medium.com/p/3a000154d58a) |
