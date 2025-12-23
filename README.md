@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 17:08:24 GMT | When Privacy Rules Start Shaping Market Power In Apps | Geoffrey Wenger | [Read More](https://medium.com/p/e6281cf08d7a) |
+| Tue, 23 Dec 2025 17:08:16 GMT | Why VPN Use Can Create Security Problems | Geoffrey Wenger | [Read More](https://medium.com/p/62091b8778df) |
+| Tue, 23 Dec 2025 17:07:23 GMT | Exploiting Timing-Based Username Enumeration and Credential Brute-Force with IP Rotation | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/20d0beaee629) |
+| Tue, 23 Dec 2025 17:05:10 GMT | Sax LLP Data Breach Highlights Ongoing Risks to Professional Services Firms | Legal Thoughts | [Read More](https://medium.com/p/0cd416d50965) |
+| Tue, 23 Dec 2025 17:03:32 GMT | Advent of Cyber 2025 - Day 23: AWS Security — S3cret Santa | D4m.sh | [Read More](https://medium.com/p/e3ad42a44022) |
+| Tue, 23 Dec 2025 17:02:02 GMT | The Ledger Never Lies: A Comprehensive Review of Bitcoin Forensics | Satyam | [Read More](https://medium.com/p/6e352fd57883) |
+| Tue, 23 Dec 2025 16:46:29 GMT | This Bug Was “Low Severity” — Until I Chained It Into Total Data Exposure | Iski | [Read More](https://medium.com/p/8816e25e427b) |
+| Tue, 23 Dec 2025 16:43:20 GMT | The top 5 digital threats you need to know | Creepus | [Read More](https://medium.com/p/01322386050a) |
+| Tue, 23 Dec 2025 16:42:47 GMT | The “Zombie” Signal: Why Modern PTT is a Red Teamer’s Dream. ‘See’ guards through walls. | Berend Watchus | [Read More](https://medium.com/p/20e6d030ddd1) |
+| Tue, 23 Dec 2025 16:35:45 GMT | Rethinking Remote Access: An Introduction to awaBerry.com | Rita Willow Rans | [Read More](https://medium.com/p/f23b16b672a1) |
+| Tue, 23 Dec 2025 16:31:49 GMT | When Everything Passed But The Email Was Still Phishing | Medjue Gore | [Read More](https://medium.com/p/aa445d161f2d) |
+| Tue, 23 Dec 2025 16:27:33 GMT | CloudSEK CTF 2025 — My Journey Through 4 Challenges | Niveditha S Nair | [Read More](https://medium.com/p/a7460b664b43) |
 | Tue, 23 Dec 2025 16:17:07 GMT | What Regulators and Courts Quietly Did to AI This Week | A D | [Read More](https://medium.com/p/f3900e33e819) |
 | Tue, 23 Dec 2025 16:17:03 GMT | Breach the Perimeter via Prompt Injection : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/a21b688cc54d) |
 | Tue, 23 Dec 2025 16:16:40 GMT | The Good, the Bad, and the Glitchy: Navigating 2025’s Tech Landscape and What 2026 Holds | Paradise technologies Inc | [Read More](https://medium.com/p/f598a558e504) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 11:11:31 GMT | People Don’t Know How to Be Honest | amelie:) | [Read More](https://medium.com/p/e353a84e4bfa) |
 | Tue, 23 Dec 2025 11:08:24 GMT | The Silent Hemorrhage: Why Your RAG Pipeline is Leaking User Data. | Godfrey Lebo | [Read More](https://medium.com/p/886c83dc8ba6) |
 | Tue, 23 Dec 2025 11:03:08 GMT | Ethical Hacking for Beginners: What It Really Is and How to Start the Right Way When people hear… | My name is Valentin | [Read More](https://medium.com/p/62abdb462081) |
-| Tue, 23 Dec 2025 11:02:21 GMT | GRC Lessons from Georgia’s Blockchain Land Registry: Managing Risk and Compliance in National… | Brian Haman, PhD | [Read More](https://medium.com/p/a52e9d0f283c) |
-| Tue, 23 Dec 2025 11:02:18 GMT | The Privateer: Admiralty Law for the Digital Sea | Jeffrey Smith | [Read More](https://medium.com/p/233b58c5e2bd) |
-| Tue, 23 Dec 2025 10:57:49 GMT | How to Fix CVE-2025–55182 in React and Next.js: The Patching Guide | SecureSlate | [Read More](https://medium.com/p/d7e9b8aa8292) |
-| Tue, 23 Dec 2025 10:47:07 GMT | Proactive Network Threat Simulation for Enterprise Resilience | Cyber Fortify | [Read More](https://medium.com/p/2cebc8eb78a0) |
-| Tue, 23 Dec 2025 10:44:12 GMT | eJPT Prep: Host & Network Penetration Testing: Exploitation CTF 3 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/1dd75c037f49) |
-| Tue, 23 Dec 2025 10:42:55 GMT | Best Integrated Lease Management Software in India - Commercial | Samvaskaran | [Read More](https://medium.com/p/b3b4e8282929) |
-| Tue, 23 Dec 2025 10:34:27 GMT | TryHackME VM: Agent T | Justin Jude Cabodil | [Read More](https://medium.com/p/c5326e1a7c6b) |
-| Tue, 23 Dec 2025 10:34:02 GMT | siapa itu alzzcracker? | Dzone | [Read More](https://medium.com/p/74945202fa0b) |
-| Tue, 23 Dec 2025 10:32:55 GMT | Nissan Confirms Thousands of Customers Exposed in Red Hat Security Breach | Technijian | [Read More](https://medium.com/p/55a6523be0d2) |
-| Tue, 23 Dec 2025 10:32:19 GMT | Return-Path Explained: The Hidden Email Address That Controls Bounces and Security | Natarajan C K | [Read More](https://medium.com/p/8a7e4945fc6d) |
-| Tue, 23 Dec 2025 10:28:18 GMT | Random Is Not Same as Unpredictable in Python | Pratiyush Prakash | [Read More](https://medium.com/p/cb3888b3ff48) |
-| Tue, 23 Dec 2025 10:26:19 GMT | 7 Ruthless Ways to Stop AI-Powered Phishing in 2025 | Pentest_Testing_Corp | [Read More](https://medium.com/p/37b7e5b0c462) |
