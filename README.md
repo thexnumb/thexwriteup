@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 20:12:07 GMT | How I got my first Cybersecurity Internship in Canada | Sparsh Ladani | [Read More](https://medium.com/p/0f291347af36) |
+| Tue, 23 Dec 2025 20:11:15 GMT | Will AI Replace Doctors? My Honest Opinion From the Frontline | Foreign Doctor Life | [Read More](https://medium.com/p/6bcbcb713da5) |
+| Tue, 23 Dec 2025 19:51:51 GMT | What Is Business Impact Assessment for IT Infrastructure? | Shandeep KM | [Read More](https://medium.com/p/80d6341e92a0) |
+| Tue, 23 Dec 2025 19:50:18 GMT | From Detection to Decision — AI That Understands Process Physics in ICS | Muhammad Ali Khan | [Read More](https://medium.com/p/732bd882e5b6) |
+| Tue, 23 Dec 2025 19:46:39 GMT | One Login, Every System: The AI Agent Flaw Nobody’s Fixing | AhmedAbdelmenem | [Read More](https://medium.com/p/41c7df48b8a4) |
+| Tue, 23 Dec 2025 19:44:27 GMT | Cloud Network Traffic Inspection ☁️ | Esra Kayhan | [Read More](https://medium.com/p/59695d339914) |
+| Tue, 23 Dec 2025 19:42:58 GMT | React2Shell — urgh! | Brian Nguyen | [Read More](https://medium.com/p/a6941067f696) |
+| Tue, 23 Dec 2025 19:40:33 GMT | Breaking Down a Real CORS Misconfiguration. From Vulnerable to Fixed. | Macaroniwdcheese | [Read More](https://medium.com/p/44497dfcccd5) |
+| Tue, 23 Dec 2025 19:36:51 GMT | Bit & Byte Nedir? | Onur Öztürk | [Read More](https://medium.com/p/c9347f2a46ab) |
 | Tue, 23 Dec 2025 19:30:39 GMT | Hacking Smarter Not Harder, My Ride with HexStrike AI | sudo whoami | [Read More](https://medium.com/p/b48e7a3bca9c) |
 | Tue, 23 Dec 2025 19:14:38 GMT | How We Built a VPN That Survives Blocks Without Making Life Hard for Users | VPNHouse | [Read More](https://medium.com/p/4ada0bbb2980) |
 | Tue, 23 Dec 2025 19:07:08 GMT | Fixing JavaScript Hijacking: Securing Chatbot APIs Against JSONP Attacks | Harshitha Reddy | [Read More](https://medium.com/p/dbb9b9e6c7e1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 13:49:28 GMT | React2Shell Exploit  CVE-2025–55182 Bug Bounty Guide | Harshad Shah | [Read More](https://medium.com/p/44c6130b7a7f) |
 | Tue, 23 Dec 2025 13:44:53 GMT | I Tried to Secure My Accounts for One Week. Here’s What Changed | pavani | [Read More](https://medium.com/p/9c97e41f04db) |
 | Tue, 23 Dec 2025 13:35:15 GMT | 10 Measures I Take to Protect My Online Privacy | June Bright | [Read More](https://medium.com/p/9b370d18607d) |
-| Tue, 23 Dec 2025 13:32:29 GMT | Securing AI Integrations: Tackling MCP Security Vulnerabilities in Production | ByteBridge | [Read More](https://medium.com/p/424114443736) |
-| Tue, 23 Dec 2025 13:32:18 GMT | The Hidden Beginner’s Map to a $10,000 Bug Bounty | Codi | [Read More](https://medium.com/p/addcf6607714) |
-| Tue, 23 Dec 2025 13:19:29 GMT | Retry Budgets + Backoff: Stop Verify Loops Caused by Retry Storms | BitMirage | [Read More](https://medium.com/p/bd7fb866e7a9) |
-| Tue, 23 Dec 2025 13:15:56 GMT | AI Bubble Politics? Or A Preview To The Future | Kaushik Bhorjar | [Read More](https://medium.com/p/7d066c6eab77) |
-| Tue, 23 Dec 2025 13:15:17 GMT | Why are BEC and CEO Fraud Attacks Successful — Definition, Methods, Prevention | TrustRacer | [Read More](https://medium.com/p/0715a5da0dd7) |
-| Tue, 23 Dec 2025 13:13:18 GMT | My Ubuntu Linux MiniPC Suddenly Ran Out Of Memory and Crashed | Basil A. | [Read More](https://medium.com/p/1913fa5889d3) |
-| Tue, 23 Dec 2025 13:01:45 GMT | Day 23 — Secure By Design (Black Forest Shadow) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/4456f3920ccd) |
-| Tue, 23 Dec 2025 13:00:55 GMT | Why Smartphones Are the Most Valuable Target in Cybercrime Today | ANSI Technologies | [Read More](https://medium.com/p/2e3703597a71) |
-| Tue, 23 Dec 2025 13:00:21 GMT | I Tried Filling Out a Simple Contact Form and Discovered a Stored XSS in the Wild | Munna✨ | [Read More](https://medium.com/p/f777dec6369e) |
