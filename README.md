@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 09:11:14 GMT | Why the ACLU Is Worried About WhatsApp’s New AI Features | Nanthakumar | [Read More](https://medium.com/p/0dee88d8cfe8) |
+| Tue, 23 Dec 2025 09:08:47 GMT | Cybersecurity Skills That Actually Increase Your Salary | Muhammad Haider Tallal | [Read More](https://medium.com/p/1d753f941550) |
+| Tue, 23 Dec 2025 08:54:28 GMT | Edge Data Centres in Bahrain Need Advanced Intrusion Tech | Tekshoyabeelyas | [Read More](https://medium.com/p/45ea87533e7d) |
+| Tue, 23 Dec 2025 08:49:44 GMT | AI 販賣機的慘敗：資安專家眼中的 Prompt Injection 終極壓力測試 | p1x06u9 | [Read More](https://medium.com/p/ce492d437d29) |
+| Tue, 23 Dec 2025 08:36:34 GMT | The Daily Tech Digest: 23 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e4480155fba5) |
+| Tue, 23 Dec 2025 08:35:56 GMT | Blockchain for Enterprise Security and Decentralized Finance: The Future of Trust | Devarshi Acharya | [Read More](https://medium.com/p/7b62913eb567) |
+| Tue, 23 Dec 2025 08:31:36 GMT | Understanding the Playing Field: Environmental and Strategic Analysis of Cyber Insurance in Iran | Armin Mehraeen | [Read More](https://medium.com/p/240046b7363d) |
+| Tue, 23 Dec 2025 08:31:10 GMT | IDOR in ‘stuno’ parameter leading to unauthorized data exposure | akili | [Read More](https://medium.com/p/8a9d3068b196) |
+| Tue, 23 Dec 2025 08:30:35 GMT | From Threats to Strategy: Practical Takeaways for Insurance Executives | Armin Mehraeen | [Read More](https://medium.com/p/4db51df7f02b) |
+| Tue, 23 Dec 2025 08:28:02 GMT | THE NULL POINT KILLER | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/129c20501887) |
 | Tue, 23 Dec 2025 08:26:41 GMT | Navigating the Cybersecurity Talent Shortage in Critical Infrastructure | laiq ahmad | [Read More](https://medium.com/p/f779321c4a29) |
 | Tue, 23 Dec 2025 08:23:59 GMT | Study in Australia — Top International Universities & Opportunities | royalinternational | [Read More](https://medium.com/p/11df36ebe2cb) |
+| Tue, 23 Dec 2025 08:21:13 GMT | THE MAN YOU MISREAD —PART TWO | Shahram 'Caveman' Zargari | [Read More](https://medium.com/p/89cd6024b83e) |
 | Tue, 23 Dec 2025 08:17:36 GMT | YARA in Practice | Sadineni Sai Sushanth | [Read More](https://medium.com/p/f84cfbca98c5) |
 | Tue, 23 Dec 2025 08:14:28 GMT | Why Verified Security Standards Matter for Vendor Approval | Kadhijahafiya | [Read More](https://medium.com/p/54c69802a7e9) |
 | Tue, 23 Dec 2025 08:05:18 GMT | Think You’re Private Online? OSINT Says Otherwise | Secuverse | [Read More](https://medium.com/p/3cca2158c49d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 01:57:55 GMT | Banks Urge Customers to Update Browsers and Mobile Systems | Mohamad Mahmood | [Read More](https://medium.com/p/d121cc091044) |
 | Tue, 23 Dec 2025 01:52:29 GMT | The Hidden Dangers of Free Wi-Fi – How Hackers Can Steal Your Data Without You Knowing | Salaheddinta | [Read More](https://medium.com/p/10a52c25c74f) |
 | Tue, 23 Dec 2025 01:46:46 GMT | Post 7: Evolution of IT (Part 1): Supporting the Business | SattiData | [Read More](https://medium.com/p/dd4a56ac9d5b) |
-| Tue, 23 Dec 2025 01:45:36 GMT | Breaking OAuth 2.0: Vulnerabilities & Exploitation Guide | Fuzzyy Duck | [Read More](https://medium.com/p/d8b5ef009370) |
-| Tue, 23 Dec 2025 01:41:56 GMT | Why Hackers Break the Law – And How Their Skills Can Actually Do Good. | Salaheddinta | [Read More](https://medium.com/p/7c5b36fd9e3d) |
-| Tue, 23 Dec 2025 01:38:11 GMT | Time-Based SQL Injection: Complete Real-World Bug Bounty Guide | Monika sharma | [Read More](https://medium.com/p/0d38311a4adf) |
-| Tue, 23 Dec 2025 01:37:57 GMT | The OSINT Stack: Tools You Actually Need (and Why) | Aj | [Read More](https://medium.com/p/f1a73eaf68b2) |
-| Tue, 23 Dec 2025 01:32:21 GMT | JS Islands: 10 Plays for Less JS, More Speed | Vectorlane | [Read More](https://medium.com/p/b61ba5e41069) |
-| Tue, 23 Dec 2025 01:32:20 GMT | Fast Guardrails: 10 Layers That Keep Latency Low | Velorum | [Read More](https://medium.com/p/ff7c7ec04f7a) |
-| Tue, 23 Dec 2025 01:30:39 GMT | Game Day Alert! | Roxyrodjrr | [Read More](https://medium.com/p/79ba04541cbc) |
-| Tue, 23 Dec 2025 01:29:48 GMT | Advent of CTF 2025 - DAY 1 | Dargham Ali | [Read More](https://medium.com/p/fc39e9a7a8f3) |
-| Tue, 23 Dec 2025 01:13:30 GMT | Archipelago | Chris Perkins | [Read More](https://medium.com/p/3b22711ada09) |
-| Tue, 23 Dec 2025 00:58:24 GMT | When “Maintenance” Turns Malicious: How VectorGuard Labs Would Have Stopped Aevo’s $2.7M | Pavon Dunbar | [Read More](https://medium.com/p/aae1fe148dbd) |
-| Tue, 23 Dec 2025 00:52:54 GMT | Go to Optimistic Hacker Gaius for the best cryptocurrency recovery firm. | Annamagdalena | [Read More](https://medium.com/p/cc0f5ab6378a) |
