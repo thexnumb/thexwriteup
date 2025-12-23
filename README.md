@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 09:39:29 GMT | Blockchain‑Based Digital Identity For The Underserved | Mwenda Kelvin | [Read More](https://medium.com/p/3c75462d1a6a) |
+| Tue, 23 Dec 2025 09:37:08 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-6 | Cruz | [Read More](https://medium.com/p/8c87742ad5b3) |
+| Tue, 23 Dec 2025 09:33:01 GMT | Syscalls vs Modern AV/EDR in 2025: The Myth, the Reality, and What Actually Matters | Yua Mikanana | [Read More](https://medium.com/p/9baf0c17bb7a) |
+| Tue, 23 Dec 2025 09:27:33 GMT | When Toasters Attack: Deconstructing the Mirai Botnet and the Dyn DNS Outage | The Kernel Hub | [Read More](https://medium.com/p/37cbca28ca14) |
+| Tue, 23 Dec 2025 09:27:04 GMT | A Security Breach That Never Happened Because Someone Saw It Early | Forefront Technology International Inc. | [Read More](https://medium.com/p/266f6a4f7418) |
+| Tue, 23 Dec 2025 09:26:23 GMT | The Role of AI in Detecting and Responding to Cyber Threats | Rahman Iqbal | [Read More](https://medium.com/p/836daae49046) |
 | Tue, 23 Dec 2025 09:11:14 GMT | Why the ACLU Is Worried About WhatsApp’s New AI Features | Nanthakumar | [Read More](https://medium.com/p/0dee88d8cfe8) |
 | Tue, 23 Dec 2025 09:08:47 GMT | Cybersecurity Skills That Actually Increase Your Salary | Muhammad Haider Tallal | [Read More](https://medium.com/p/1d753f941550) |
 | Tue, 23 Dec 2025 08:54:28 GMT | Edge Data Centres in Bahrain Need Advanced Intrusion Tech | Tekshoyabeelyas | [Read More](https://medium.com/p/45ea87533e7d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 02:55:23 GMT | Tải Demon Slayer Mobile Apk V1.0.8 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/ff02ba89f54a) |
 | Tue, 23 Dec 2025 02:47:17 GMT | Passwords are DEAD | Shubhamkhatang | [Read More](https://medium.com/p/710031b70710) |
 | Tue, 23 Dec 2025 02:29:56 GMT | After 50: Nobody Cares About Your Dreams | Michael Bernard | [Read More](https://medium.com/p/628cfbaeef6c) |
-| Tue, 23 Dec 2025 02:25:16 GMT | It Works on My Machine, so why is this a problem? | William Cesar Santos | [Read More](https://medium.com/p/4ec457d1a1ad) |
-| Tue, 23 Dec 2025 02:14:22 GMT | The Hard Truth: Surviving the “40+” Career Cliff in Indian IT | Tamil Ram | [Read More](https://medium.com/p/e2d5f5dda58b) |
-| Tue, 23 Dec 2025 02:03:55 GMT | Spotify’s Biggest Data Scrape Ever: What Happened and Why It Matters | farshad moradi shahrbabak | [Read More](https://medium.com/p/c3e0501020dd) |
-| Tue, 23 Dec 2025 01:57:55 GMT | Banks Urge Customers to Update Browsers and Mobile Systems | Mohamad Mahmood | [Read More](https://medium.com/p/d121cc091044) |
-| Tue, 23 Dec 2025 01:52:29 GMT | The Hidden Dangers of Free Wi-Fi – How Hackers Can Steal Your Data Without You Knowing | Salaheddinta | [Read More](https://medium.com/p/10a52c25c74f) |
-| Tue, 23 Dec 2025 01:46:46 GMT | Post 7: Evolution of IT (Part 1): Supporting the Business | SattiData | [Read More](https://medium.com/p/dd4a56ac9d5b) |
