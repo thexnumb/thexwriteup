@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 14:29:57 GMT | How I Turned Stored XSS Into Account Takeover: Exploiting WebSocket-Driven Applications | Mohamed Ibrahim | [Read More](https://medium.com/p/dceecbf2276d) |
+| Tue, 23 Dec 2025 14:28:58 GMT | The Terminal Threat | Hello @ Octellient | [Read More](https://medium.com/p/f213f8300f1e) |
+| Tue, 23 Dec 2025 14:27:24 GMT | SSRF for Hackers: How I Think About It + Methods and a Tiny Checklist | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/451ecc6a589a) |
 | Tue, 23 Dec 2025 14:20:20 GMT | Race Condition Bypass After a Fix: How I Exploited It Again | Abhishek Gupta | [Read More](https://medium.com/p/eeadcb4fce09) |
 | Tue, 23 Dec 2025 14:15:13 GMT | Try Hack Me- Madness Walkthrough | PulseEinher | [Read More](https://medium.com/p/5d3c804bd61f) |
 | Tue, 23 Dec 2025 14:10:05 GMT | Building a Globally Ranked Tech Enterprise from the Hills of Kerala. | Akash PS - Elite Ethical Hacker | [Read More](https://medium.com/p/a3049e8c5c23) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 08:54:28 GMT | Edge Data Centres in Bahrain Need Advanced Intrusion Tech | Tekshoyabeelyas | [Read More](https://medium.com/p/45ea87533e7d) |
 | Tue, 23 Dec 2025 08:49:44 GMT | AI 販賣機的慘敗：資安專家眼中的 Prompt Injection 終極壓力測試 | p1x06u9 | [Read More](https://medium.com/p/ce492d437d29) |
 | Tue, 23 Dec 2025 08:36:34 GMT | The Daily Tech Digest: 23 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e4480155fba5) |
-| Tue, 23 Dec 2025 08:35:56 GMT | Blockchain for Enterprise Security and Decentralized Finance: The Future of Trust | Devarshi Acharya | [Read More](https://medium.com/p/7b62913eb567) |
-| Tue, 23 Dec 2025 08:31:36 GMT | Understanding the Playing Field: Environmental and Strategic Analysis of Cyber Insurance in Iran | Armin Mehraeen | [Read More](https://medium.com/p/240046b7363d) |
-| Tue, 23 Dec 2025 08:31:10 GMT | IDOR in ‘stuno’ parameter leading to unauthorized data exposure | akili | [Read More](https://medium.com/p/8a9d3068b196) |
