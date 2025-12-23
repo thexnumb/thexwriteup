@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 03:32:21 GMT | Payroll Pirates: How Search Ads Are Being Used to Hijack Salaries | Deven Chhajed | [Read More](https://medium.com/p/cf4dcca50f2b) |
+| Tue, 23 Dec 2025 03:32:06 GMT | White Label Crypto Exchange Platforms: Lowering Barriers to Global Market Access | TheExchain | [Read More](https://medium.com/p/8152693fd354) |
+| Tue, 23 Dec 2025 03:30:11 GMT | Tải Stickman Party Mod Apk (Vô Hạn Tiền) v2.4.9.2 | genzvnmod | [Read More](https://medium.com/p/5f27bdf64149) |
+| Tue, 23 Dec 2025 03:30:10 GMT | First Day Ready: A Practical IT Onboarding Checklist | Blog Chip | [Read More](https://medium.com/p/c95a770e8c23) |
+| Tue, 23 Dec 2025 03:28:28 GMT | React2Shell Analysis: Domain-Level Detection of RSC Exposure | Criminal IP | [Read More](https://medium.com/p/11db354612df) |
+| Tue, 23 Dec 2025 03:24:59 GMT | 本分 x TX-SHIELD 隐私支付：首个原生稳定币驱动的全隐私、可监管、高性能支付协议 | BenFen | [Read More](https://medium.com/p/0c13777edb4a) |
+| Tue, 23 Dec 2025 03:19:52 GMT | Tải Sausage Man Mod Apk (Menu, God Mode, Speed, Aimbot) v21.94 | Game4u | [Read More](https://medium.com/p/8cc62f7dd50a) |
+| Tue, 23 Dec 2025 03:11:27 GMT | Detecting Web Shells — Tryhackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/38e0544758a0) |
+| Tue, 23 Dec 2025 03:10:51 GMT | Detecting Web DDOS — Tryhackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/a9c536daa2f0) |
+| Tue, 23 Dec 2025 03:10:16 GMT | Tải Townscaper APK (MOD Bản Đầy Đủ) v1.20 | Bandisharecx | [Read More](https://medium.com/p/217685850695) |
+| Tue, 23 Dec 2025 02:55:23 GMT | Tải Demon Slayer Mobile Apk V1.0.8 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/ff02ba89f54a) |
+| Tue, 23 Dec 2025 02:47:17 GMT | Passwords are DEAD | Shubhamkhatang | [Read More](https://medium.com/p/710031b70710) |
+| Tue, 23 Dec 2025 02:29:56 GMT | After 50: Nobody Cares About Your Dreams | Michael Bernard | [Read More](https://medium.com/p/628cfbaeef6c) |
+| Tue, 23 Dec 2025 02:25:16 GMT | It Works on My Machine, so why is this a problem? | William Cesar Santos | [Read More](https://medium.com/p/4ec457d1a1ad) |
+| Tue, 23 Dec 2025 02:14:22 GMT | The Hard Truth: Surviving the “40+” Career Cliff in Indian IT | Tamil Ram | [Read More](https://medium.com/p/e2d5f5dda58b) |
+| Tue, 23 Dec 2025 02:03:55 GMT | Spotify’s Biggest Data Scrape Ever: What Happened and Why It Matters | farshad moradi shahrbabak | [Read More](https://medium.com/p/c3e0501020dd) |
+| Tue, 23 Dec 2025 01:57:55 GMT | Banks Urge Customers to Update Browsers and Mobile Systems | Mohamad Mahmood | [Read More](https://medium.com/p/d121cc091044) |
+| Tue, 23 Dec 2025 01:52:29 GMT | The Hidden Dangers of Free Wi-Fi – How Hackers Can Steal Your Data Without You Knowing | Salaheddinta | [Read More](https://medium.com/p/10a52c25c74f) |
+| Tue, 23 Dec 2025 01:46:46 GMT | Post 7: Evolution of IT (Part 1): Supporting the Business | SattiData | [Read More](https://medium.com/p/dd4a56ac9d5b) |
 | Tue, 23 Dec 2025 01:45:36 GMT | Breaking OAuth 2.0: Vulnerabilities & Exploitation Guide | Fuzzyy Duck | [Read More](https://medium.com/p/d8b5ef009370) |
+| Tue, 23 Dec 2025 01:41:56 GMT | Why Hackers Break the Law – And How Their Skills Can Actually Do Good. | Salaheddinta | [Read More](https://medium.com/p/7c5b36fd9e3d) |
 | Tue, 23 Dec 2025 01:38:11 GMT | Time-Based SQL Injection: Complete Real-World Bug Bounty Guide | Monika sharma | [Read More](https://medium.com/p/0d38311a4adf) |
 | Tue, 23 Dec 2025 01:37:57 GMT | The OSINT Stack: Tools You Actually Need (and Why) | Aj | [Read More](https://medium.com/p/f1a73eaf68b2) |
 | Tue, 23 Dec 2025 01:32:20 GMT | Fast Guardrails: 10 Layers That Keep Latency Low | Velorum | [Read More](https://medium.com/p/ff7c7ec04f7a) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 18:36:43 GMT | Stop Relying on Go’s Memory Safety: The 4 Synchronization Secrets to Prevent Race Conditions ✨ | Puneet | [Read More](https://medium.com/p/17cb06c36410) |
 | Mon, 22 Dec 2025 18:26:23 GMT | CASP+ ® SecurityX ® SecAI+: The 2026 Pivot | Sec Guy | [Read More](https://medium.com/p/1671e61f0255) |
 | Mon, 22 Dec 2025 18:16:47 GMT | How Tezos Strengthened Its Walls Without Making a Sound | LibertéZ | [Read More](https://medium.com/p/87beae49a26a) |
-| Mon, 22 Dec 2025 18:12:28 GMT | The Dangerous Reality of Modern Scams | J.M. Matthew | [Read More](https://medium.com/p/c19f0e394829) |
-| Mon, 22 Dec 2025 18:12:21 GMT | Security Awareness | Tony | [Read More](https://medium.com/p/2d4c8b4127b8) |
-| Mon, 22 Dec 2025 18:06:13 GMT | When IT Becomes the Wrong Person’s Problem | SkyTide Group | [Read More](https://medium.com/p/e4a5f9014cce) |
-| Mon, 22 Dec 2025 18:02:37 GMT | Privilege Escalation in macOS PKG Installers | m8sec | [Read More](https://medium.com/p/cf3d3b6b8e31) |
-| Mon, 22 Dec 2025 17:59:34 GMT | The Magic of RITA: Detecting C2 Traffic Using Zeek Logs | Sadineni Sai Sushanth | [Read More](https://medium.com/p/963648c8ffcd) |
-| Mon, 22 Dec 2025 17:54:03 GMT | The “Flash” of the AI Era: Why CVE-2025–14174 Signals a Shift in Browser Security | Abdul Rasheed | [Read More](https://medium.com/p/0afc6fb735e8) |
-| Mon, 22 Dec 2025 17:49:33 GMT | Abusing iam:PassRole: Five Practical AWS Privilege Escalation Techniques | Narsingh Yadav | [Read More](https://medium.com/p/411502d01884) |
-| Mon, 22 Dec 2025 17:47:44 GMT | Lies-in-the-Loop: When AI Safety Controls Become the Exploit | Chetan Seripally | [Read More](https://medium.com/p/7ea35117db64) |
-| Mon, 22 Dec 2025 17:45:07 GMT | Don’t miss out on this podcast! | Omar Fares | [Read More](https://medium.com/p/f455e2c0441a) |
-| Mon, 22 Dec 2025 17:44:00 GMT | AI in Bug‑Bounty Hunting — Hack More Productive | Afi0pchik | [Read More](https://medium.com/p/a25cd5639794) |
-| Mon, 22 Dec 2025 17:28:57 GMT | My Cybersecurity Journey- starting late ,But with patience | Prerana! | [Read More](https://medium.com/p/648473684e9a) |
-| Mon, 22 Dec 2025 17:25:31 GMT | Unlocking Linux Process Power: Part2 - Monitor, Terminate Processes Like a Pro | MR.7 | [Read More](https://medium.com/p/2b4db94ae338) |
-| Mon, 22 Dec 2025 17:24:54 GMT | What is the Privacy Problem in Trustworthy AI? | GhostDrift Mathematical Institute | [Read More](https://medium.com/p/202d4cd58c32) |
-| Mon, 22 Dec 2025 17:18:22 GMT | Wireshark Traffic Analysis: DNS and ICMP Traffic Tunneling & Cleartext Protocol Analysis: FTP | Citadel Cybersec | [Read More](https://medium.com/p/7effcc345114) |
-| Mon, 22 Dec 2025 17:17:14 GMT | You Weren’t Breached — but You’re Still at Risk | Dr. Shashi Karhail | [Read More](https://medium.com/p/27661593d89f) |
-| Mon, 22 Dec 2025 17:16:46 GMT | Quantum Computing Won’t Break Bitcoin. Overreacting Might! | Dipanshu Chaudhry | [Read More](https://medium.com/p/f1b7b31110da) |
-| Mon, 22 Dec 2025 17:16:19 GMT | Harvest Now, Decrypt Later: Why Quantum Computing Threatens Your Data Today | Emma Wirt | [Read More](https://medium.com/p/7395372e1d1f) |
-| Mon, 22 Dec 2025 17:16:12 GMT | Reasons Managed Endpoint Detection and Response Would Be Important | Glenn Merritt | [Read More](https://medium.com/p/5b7c94539e78) |
-| Mon, 22 Dec 2025 17:15:22 GMT | C2 Detection — Command & Carol -Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/0a19ca8f7a4c) |
-| Mon, 22 Dec 2025 17:14:13 GMT | The Essential Data Center Toolkit: Equipment You Need and Why It Matters | Paradise technologies Inc | [Read More](https://medium.com/p/c640288984cd) |
