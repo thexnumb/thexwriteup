@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 07:18:29 GMT | The Smart Dual Light Revolution in Security | Mahdiyar | [Read More](https://medium.com/p/92b0834c3f36) |
+| Tue, 23 Dec 2025 07:03:59 GMT | Top 20 Tools Hackers Use to Track You Across the Internet: Master What’s Following You | Very Lazy Tech | [Read More](https://medium.com/p/b6a159b8bbeb) |
+| Tue, 23 Dec 2025 06:58:24 GMT | How I Found Vulnerabilities in NASA and Got into the Hall of Fame | arashiyan | [Read More](https://medium.com/p/c8870bf65420) |
+| Tue, 23 Dec 2025 06:57:38 GMT | Data Breaches & Leaked Databases: When Our Digital Lives Spill into the Open | Karan Sonawane | [Read More](https://medium.com/p/432ef5f411a0) |
+| Tue, 23 Dec 2025 06:56:25 GMT | C2 Detection — Command & Carol | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/7350242fd170) |
+| Tue, 23 Dec 2025 06:54:44 GMT | When “Login” Was Enough: How a Single Click Compromised an Application | Dealonzius | [Read More](https://medium.com/p/2b4578798557) |
+| Tue, 23 Dec 2025 06:54:36 GMT | PicoCTF Problem: Cookie Monster Secret Recipe — Writeup | Aman Barolia | [Read More](https://medium.com/p/b03a52ca5d14) |
+| Tue, 23 Dec 2025 06:47:40 GMT | How I Leverage AI as a Cyber Security Practitioner in Daily Operations | Trian | [Read More](https://medium.com/p/c79dc0b5c6c7) |
+| Tue, 23 Dec 2025 06:46:46 GMT | Unlocking Your Cybersecurity Career: A Deep Dive into the Cybersecurity Masterclass Nigeria | MotivaLogic Academy | [Read More](https://medium.com/p/3c989fe6ff1f) |
+| Tue, 23 Dec 2025 06:39:05 GMT | The Sister’s Second Marriage: Finding Comfort and Companionship After Divorce | Dancemi Clare | [Read More](https://medium.com/p/745a067d84af) |
+| Tue, 23 Dec 2025 06:38:33 GMT | The Growing Risk of Digital Assets and Safeguarding Resilience with JGCMGS Professional Insights | JGCMGS | [Read More](https://medium.com/p/d75b15e35f71) |
+| Tue, 23 Dec 2025 06:38:09 GMT | Enhancing Your Online Security: Understanding Two Factor Authentication (2FA) | MilesBrown | [Read More](https://medium.com/p/2ab058e53809) |
 | Tue, 23 Dec 2025 06:32:38 GMT | How I Found a $10,800 Business Impact Bug: Race Condition & Broken Access Control | Abhishek Gupta | [Read More](https://medium.com/p/de40c9897e91) |
+| Tue, 23 Dec 2025 06:31:08 GMT | How SIEM Helps Detect and Respond to Security Threats — A Beginner SOC Perspective | Thanika Natarajan | [Read More](https://medium.com/p/cc3ab1589d4f) |
 | Tue, 23 Dec 2025 06:22:10 GMT | Network 101'den Siber Güvenliğe Kısım 3 | Mustafa San | [Read More](https://medium.com/p/ea9c12647d16) |
 | Tue, 23 Dec 2025 06:16:34 GMT | Dynatrace Security Investigator ile IP Adreslerini Analiz Edin | Perform Yazılım | [Read More](https://medium.com/p/4234916b3f2d) |
 | Tue, 23 Dec 2025 06:15:25 GMT | How Firewall Solutions Help Indian Businesses Stay Secure and Compliant | Lisa Loyal | [Read More](https://medium.com/p/06c57e898a19) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 22:23:23 GMT | Age and IT | Max | [Read More](https://medium.com/p/e41ad85cb22c) |
 | Mon, 22 Dec 2025 22:07:11 GMT | Design of Scalable VLAN-Based Network Infrastructure: Inter-VLAN Routing and Wireless Integration… | iYÁOmarv_ | [Read More](https://medium.com/p/24fb43d7ac91) |
 | Mon, 22 Dec 2025 22:03:15 GMT | Visit Optimistic Hacker Gaius to learn how to recover your lost or stolen cryptocurrency. | Annamagdalena | [Read More](https://medium.com/p/5f5f810b0390) |
-| Mon, 22 Dec 2025 22:00:35 GMT | How Pretending to Be ‘Fine’ Drains Your Life Force | Jakub Frič | [Read More](https://medium.com/p/7a505e1b7b4b) |
-| Mon, 22 Dec 2025 22:00:21 GMT | Protecting Your Computing Device: A Practical Guide to Staying Secure in a Digital World | Little_Sun4lower | [Read More](https://medium.com/p/23b614bf5287) |
-| Mon, 22 Dec 2025 21:54:41 GMT | What is the Nix Ecosystem? A Security Engineer Lens. | Aditya Patange | [Read More](https://medium.com/p/3d3a772b3158) |
-| Mon, 22 Dec 2025 21:51:20 GMT | Why “We Have Visibility” Is Often a Dangerous Assumption | Mikayel Nalbandyan | [Read More](https://medium.com/p/31bd15054824) |
-| Mon, 22 Dec 2025 21:45:13 GMT | The Thing About Me No One Was Supposed to Notice | KV | [Read More](https://medium.com/p/5e9e694dea5f) |
-| Mon, 22 Dec 2025 21:43:19 GMT | Data Protection for Financial Firms. Why It Is Now a Business Imperative | CompuWork | [Read More](https://medium.com/p/856bc2de9f8f) |
-| Mon, 22 Dec 2025 21:36:30 GMT | Essential Website Security Tips You Need in 2025 | Ali.Yurie | [Read More](https://medium.com/p/984b51de6f87) |
-| Mon, 22 Dec 2025 21:33:07 GMT | How AI Changes Security Risk | Brandon Dewater | [Read More](https://medium.com/p/e6b65e697d95) |
-| Mon, 22 Dec 2025 21:32:39 GMT | My Journey Through SQL Injection Mastery From Zero | M. Mustafa Hussaini | [Read More](https://medium.com/p/35a758891d0d) |
-| Mon, 22 Dec 2025 21:32:14 GMT | How I Hacked Google’s Servers (Legally) With One URL | Codi | [Read More](https://medium.com/p/1105735a940c) |
-| Mon, 22 Dec 2025 21:26:44 GMT | Layer 1 Basics: Your Guide to Physical Network Security | oussama MAJID | [Read More](https://medium.com/p/e417223386c2) |
-| Mon, 22 Dec 2025 21:22:40 GMT | Why Website Security Should Be Your Priority in 2025: Here’s What You Need to Know | Ali.Yurie | [Read More](https://medium.com/p/a132a8b2010a) |
-| Mon, 22 Dec 2025 21:22:38 GMT | The Corrupted Password Dump — A Gentle Walk Through Hash Chaos | Aditya Bhatt | [Read More](https://medium.com/p/f273d0a760a8) |
