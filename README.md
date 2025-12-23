@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 07:33:02 GMT | How ACSMI Helps Professionals Transition into Cybersecurity Careers | ACSMI | [Read More](https://medium.com/p/8b14ba748a01) |
+| Tue, 23 Dec 2025 07:29:15 GMT | full Stack Development Course in Rohini | NITI | [Read More](https://medium.com/p/5f6446aab738) |
+| Tue, 23 Dec 2025 07:25:47 GMT | Vulnerability vs Exploit: Know the Gap Between Weakness and Attack | Aj | [Read More](https://medium.com/p/3a8056b6620c) |
+| Tue, 23 Dec 2025 07:23:45 GMT | Rooting Android in 2025 — Power, Control, and the Fine Line of Security | Ssolosssolo | [Read More](https://medium.com/p/c4df855af970) |
+| Tue, 23 Dec 2025 07:23:17 GMT | Kotlin vs. Java: Choosing the Best Language for Backend Development (2025–2026) | Amin Softtech | [Read More](https://medium.com/p/e2b543f8829f) |
+| Tue, 23 Dec 2025 07:23:14 GMT | Flashing New Firmware on Android — Breathing New Life into Old Devices | Ssolosssolo | [Read More](https://medium.com/p/cf7a09aed798) |
 | Tue, 23 Dec 2025 07:18:29 GMT | The Smart Dual Light Revolution in Security | Mahdiyar | [Read More](https://medium.com/p/92b0834c3f36) |
 | Tue, 23 Dec 2025 07:03:59 GMT | Top 20 Tools Hackers Use to Track You Across the Internet: Master What’s Following You | Very Lazy Tech | [Read More](https://medium.com/p/b6a159b8bbeb) |
 | Tue, 23 Dec 2025 06:58:24 GMT | How I Found Vulnerabilities in NASA and Got into the Hall of Fame | arashiyan | [Read More](https://medium.com/p/c8870bf65420) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 22:51:04 GMT | Advent of Cyber 2025 Day 22 - TryHackMe - C2 Detection - Command & Carol - WriteUp | Axoloth | [Read More](https://medium.com/p/4933016d99ed) |
 | Mon, 22 Dec 2025 22:45:01 GMT | Building Your First Hacking Lab: A Step-by-Step Guide to VirtualBox and Kali Linux | Tonia Taiwo | [Read More](https://medium.com/p/137afd3c1ecd) |
 | Mon, 22 Dec 2025 22:37:25 GMT | The Breach Isn’t the Real Problem. The Domino Effect Is. | Cyber-AppSec | [Read More](https://medium.com/p/8a5b864d9c05) |
-| Mon, 22 Dec 2025 22:33:31 GMT | An OCD Hacker | Viodex | [Read More](https://medium.com/p/bbe71aea169a) |
-| Mon, 22 Dec 2025 22:33:03 GMT | HackTheBox: Soulmate Writeup | Rahaliashraf | [Read More](https://medium.com/p/d39779c9ee1c) |
-| Mon, 22 Dec 2025 22:32:17 GMT | FROM ZERO TO FORENSICS: HOW I BUILT AN AUTOMATED ANDROID EVIDENCE TOOLKIT | Davonte Delancey | [Read More](https://medium.com/p/8d4f0703f24e) |
-| Mon, 22 Dec 2025 22:23:23 GMT | Age and IT | Max | [Read More](https://medium.com/p/e41ad85cb22c) |
-| Mon, 22 Dec 2025 22:07:11 GMT | Design of Scalable VLAN-Based Network Infrastructure: Inter-VLAN Routing and Wireless Integration… | iYÁOmarv_ | [Read More](https://medium.com/p/24fb43d7ac91) |
-| Mon, 22 Dec 2025 22:03:15 GMT | Visit Optimistic Hacker Gaius to learn how to recover your lost or stolen cryptocurrency. | Annamagdalena | [Read More](https://medium.com/p/5f5f810b0390) |
