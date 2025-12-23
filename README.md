@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 04:35:11 GMT | Career Roadmap: Building Your IT Foundation | Sec Guy | [Read More](https://medium.com/p/a4e8b96b4334) |
+| Tue, 23 Dec 2025 04:32:22 GMT | Why Most Security Automation Fails in Production | Shubh Gupta | [Read More](https://medium.com/p/bfd6de801959) |
+| Tue, 23 Dec 2025 04:22:41 GMT | [HackSmarter.org Write-up] Sysco (AS-REP Roasting, Cisco secret 5, GPO Immediate Task) | Chicken0248 | [Read More](https://medium.com/p/863b39c306a8) |
+| Tue, 23 Dec 2025 04:22:21 GMT | Firewall and Intrusion Detection Systems: The First Line of Defense in Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/fbf7c5cb234b) |
+| Tue, 23 Dec 2025 04:18:50 GMT | [HackSmarter.org Write-up] NorthBridge Systems (WAR to RBCD, DPAPI, Backup Operators, DCSync) | Chicken0248 | [Read More](https://medium.com/p/972612e5ee36) |
+| Tue, 23 Dec 2025 04:08:10 GMT | Why Smart Fleet Managers Are Racing to Install Advanced Security Systems Before 2026 | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/a752c2e49ec9) |
+| Tue, 23 Dec 2025 04:02:50 GMT | From recon to AWS and DB credentials leaked | pr1vacy | [Read More](https://medium.com/p/81376d7e1e99) |
+| Tue, 23 Dec 2025 04:02:23 GMT | The Thermos, the Town Hall, and the Van: Why the Padlock Isn’t Enough | Spandan Sehgal | [Read More](https://medium.com/p/d14621e658e0) |
+| Tue, 23 Dec 2025 03:59:14 GMT | Tải Haunted Dorm Mod APK V1.8.3 (Vô Hạn Tiền, Menu, No Ads) | GOCMOD | [Read More](https://medium.com/p/9e536533a7bb) |
+| Tue, 23 Dec 2025 03:52:12 GMT | QA ga tau cek response ??? | Jordanh Parapat | [Read More](https://medium.com/p/5105f7ba74d5) |
+| Tue, 23 Dec 2025 03:49:17 GMT | Shifting Left at Enterprise Scale: How Cloudflare Manages Security with Infrastructure as Code | Civil Learning | [Read More](https://medium.com/p/309e7466d645) |
+| Tue, 23 Dec 2025 03:42:37 GMT | Can Generosity Make Us Vulnerable? | LaShell Tinder | [Read More](https://medium.com/p/e5daacaba6fe) |
 | Tue, 23 Dec 2025 03:32:21 GMT | Payroll Pirates: How Search Ads Are Being Used to Hijack Salaries | Deven Chhajed | [Read More](https://medium.com/p/cf4dcca50f2b) |
 | Tue, 23 Dec 2025 03:32:06 GMT | White Label Crypto Exchange Platforms: Lowering Barriers to Global Market Access | TheExchain | [Read More](https://medium.com/p/8152693fd354) |
 | Tue, 23 Dec 2025 03:30:11 GMT | Tải Stickman Party Mod Apk (Vô Hạn Tiền) v2.4.9.2 | genzvnmod | [Read More](https://medium.com/p/5f27bdf64149) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 19:20:43 GMT | My Experience Solving Challenges at TCS HackQuest Season 10 | Harsh Jain | [Read More](https://medium.com/p/102fc5ae6cbf) |
 | Mon, 22 Dec 2025 19:18:41 GMT | Stop Shifting Junk Left: Why You Must Scan Container Images Before the Registry | Prakhar Mathur | [Read More](https://medium.com/p/f799b73e3ee8) |
 | Mon, 22 Dec 2025 19:14:02 GMT | Cherry Cola Hair | Ouanessa Nana | [Read More](https://medium.com/p/98d68f6248a6) |
-| Mon, 22 Dec 2025 19:09:44 GMT | Network Security Architecture | mohandika | [Read More](https://medium.com/p/4bae7bbbd8d6) |
-| Mon, 22 Dec 2025 19:06:20 GMT | Trying to Quit YouTube This Holiday Season? Grayjay vs Invidious vs NewPipe | BiyteLüm | [Read More](https://medium.com/p/3ad3f0f0b80c) |
-| Mon, 22 Dec 2025 19:02:20 GMT | Building a Cybersecurity News Aggregator in Go — Part 1. | Michael H. | [Read More](https://medium.com/p/a6eaba89d6cd) |
-| Mon, 22 Dec 2025 19:01:27 GMT | Race Conditions — Toy to The World - AoC 2025 Day — 20 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/f0a14210f60a) |
-| Mon, 22 Dec 2025 18:56:26 GMT | ICS/Modbus — Claus for Concern - AoC 2025 Day — 19 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/5f72b55c7917) |
-| Mon, 22 Dec 2025 18:49:57 GMT | React 19 Server Components Security Crisis: A Complete Analysis & Response Guide | DevBoost Lab | [Read More](https://medium.com/p/4f6921749a2d) |
-| Mon, 22 Dec 2025 18:48:18 GMT | AI Workloads are a Security Nightmare — Here’s How to Fix Them in Kubernetes | Abhishek Rao | [Read More](https://medium.com/p/a6108aa92387) |
-| Mon, 22 Dec 2025 18:41:01 GMT | When Cyber Insurance Becomes a Dangerous Illusion | Cordula Boeck | [Read More](https://medium.com/p/30d89e0c937e) |
-| Mon, 22 Dec 2025 18:39:40 GMT | The Cryptography Concept Journey — Cryptanalysis | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/eef3ce11c7a9) |
-| Mon, 22 Dec 2025 18:36:43 GMT | Stop Relying on Go’s Memory Safety: The 4 Synchronization Secrets to Prevent Race Conditions ✨ | Puneet | [Read More](https://medium.com/p/17cb06c36410) |
-| Mon, 22 Dec 2025 18:26:23 GMT | CASP+ ® SecurityX ® SecAI+: The 2026 Pivot | Sec Guy | [Read More](https://medium.com/p/1671e61f0255) |
-| Mon, 22 Dec 2025 18:16:47 GMT | How Tezos Strengthened Its Walls Without Making a Sound | LibertéZ | [Read More](https://medium.com/p/87beae49a26a) |
