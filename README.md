@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 11:18:15 GMT | The Future is Watching: Top Benefits of AI-Based Industrial Surveillance Systems for Factories | Dolon Ghosh | [Read More](https://medium.com/p/ab0e9b6a82dc) |
+| Tue, 23 Dec 2025 11:08:24 GMT | The Silent Hemorrhage: Why Your RAG Pipeline is Leaking User Data. | Godfrey Lebo | [Read More](https://medium.com/p/886c83dc8ba6) |
+| Tue, 23 Dec 2025 11:03:08 GMT | Ethical Hacking for Beginners: What It Really Is and How to Start the Right Way When people hear… | My name is Valentin | [Read More](https://medium.com/p/62abdb462081) |
+| Tue, 23 Dec 2025 11:02:21 GMT | GRC Lessons from Georgia’s Blockchain Land Registry: Managing Risk and Compliance in National… | Brian Haman, PhD | [Read More](https://medium.com/p/a52e9d0f283c) |
+| Tue, 23 Dec 2025 11:02:18 GMT | The Privateer: Admiralty Law for the Digital Sea | Jeffrey Smith | [Read More](https://medium.com/p/233b58c5e2bd) |
+| Tue, 23 Dec 2025 10:57:49 GMT | How to Fix CVE-2025–55182 in React and Next.js: The Patching Guide | SecureSlate | [Read More](https://medium.com/p/d7e9b8aa8292) |
 | Tue, 23 Dec 2025 10:47:07 GMT | Proactive Network Threat Simulation for Enterprise Resilience | Cyber Fortify | [Read More](https://medium.com/p/2cebc8eb78a0) |
 | Tue, 23 Dec 2025 10:44:12 GMT | eJPT Prep: Host & Network Penetration Testing: Exploitation CTF 3 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/1dd75c037f49) |
+| Tue, 23 Dec 2025 10:42:55 GMT | Best Integrated Lease Management Software in India - Commercial | Samvaskaran | [Read More](https://medium.com/p/b3b4e8282929) |
 | Tue, 23 Dec 2025 10:34:27 GMT | TryHackME VM: Agent T | Justin Jude Cabodil | [Read More](https://medium.com/p/c5326e1a7c6b) |
 | Tue, 23 Dec 2025 10:34:02 GMT | siapa itu alzzcracker? | Dzone | [Read More](https://medium.com/p/74945202fa0b) |
 | Tue, 23 Dec 2025 10:32:55 GMT | Nissan Confirms Thousands of Customers Exposed in Red Hat Security Breach | Technijian | [Read More](https://medium.com/p/55a6523be0d2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 05:36:02 GMT | The Global Push to Open iOS: How Governments Are (Finally) Forcing Sideloading, Alternative App… | Scott Forbes | [Read More](https://medium.com/p/0c933ed69837) |
 | Tue, 23 Dec 2025 05:32:23 GMT | Why Writing Less Code Makes You a Better Developer | MyNextDeveloper | [Read More](https://medium.com/p/a8cdc81ab553) |
 | Tue, 23 Dec 2025 05:30:03 GMT | Kubernetes API & Objects — The Heart of How Kubernetes Works | Srikanta Sahu | [Read More](https://medium.com/p/3a000154d58a) |
-| Tue, 23 Dec 2025 05:29:19 GMT | One Shot — Cybertalents / Format String Exploitation Write-Up | Mohamed Sayed Kamel - vdtafury | [Read More](https://medium.com/p/52b58ae4b651) |
-| Tue, 23 Dec 2025 05:28:30 GMT | Minikube: Your Personal Kubernetes Sandbox on Your Laptop | Srikanta Sahu | [Read More](https://medium.com/p/69c2e47cc0f9) |
-| Tue, 23 Dec 2025 05:21:48 GMT | IT Managed Service Provider Tampa - IT Solutions Tampa | Gainside | [Read More](https://medium.com/p/d4b17a3614d7) |
-| Tue, 23 Dec 2025 05:20:20 GMT | UNION-Based SQL Injection: Finding a column containing text | PriOFF | [Read More](https://medium.com/p/b2d05eb3410b) |
-| Tue, 23 Dec 2025 05:11:43 GMT | Unlocking the Power of Sherlock: Advanced OSINT Tactics for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/cfd37acf77f5) |
-| Tue, 23 Dec 2025 05:08:17 GMT | Understanding the Role of a Privacy Impact Assessment | Digital Duffer | [Read More](https://medium.com/p/67bd139a90eb) |
-| Tue, 23 Dec 2025 05:07:31 GMT | Benefits of Privacy Impact Assessment | Digital Duffer | [Read More](https://medium.com/p/1b4cf14d083c) |
