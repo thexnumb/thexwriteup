@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 22:36:37 GMT | Saving a $1M Integration: Why We Pivoted to AWS Transit Gateway | Menelik | [Read More](https://medium.com/p/b4beca501fed) |
+| Tue, 23 Dec 2025 22:24:53 GMT | BankSmarter  - Hack Smarter Walkthrough | WireHawk Security | [Read More](https://medium.com/p/a45bb44ab9b9) |
 | Tue, 23 Dec 2025 22:14:17 GMT | User Access Control Bypass via CMSTP | S12 - 0x12Dark Development | [Read More](https://medium.com/p/07bf78be0ce2) |
 | Tue, 23 Dec 2025 22:02:45 GMT | Breaking BlackPearl: A Full Exploitation Challenge Guide | Nahla Mahmoud Hossam Eldin Riad Youssef | [Read More](https://medium.com/p/c4445838137f) |
 | Tue, 23 Dec 2025 21:58:57 GMT | AWS Advent Calendar 2025 — Days 6–10 | Ihor Sasovets | [Read More](https://medium.com/p/eed627848bc4) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 14:28:58 GMT | The Terminal Threat | Hello @ Octellient | [Read More](https://medium.com/p/f213f8300f1e) |
 | Tue, 23 Dec 2025 14:27:24 GMT | SSRF for Hackers: How I Think About It + Methods and a Tiny Checklist | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/451ecc6a589a) |
 | Tue, 23 Dec 2025 14:20:20 GMT | Race Condition Bypass After a Fix: How I Exploited It Again | Abhishek Gupta | [Read More](https://medium.com/p/eeadcb4fce09) |
-| Tue, 23 Dec 2025 14:15:13 GMT | Try Hack Me- Madness Walkthrough | PulseEinher | [Read More](https://medium.com/p/5d3c804bd61f) |
-| Tue, 23 Dec 2025 14:10:05 GMT | Building a Globally Ranked Tech Enterprise from the Hills of Kerala. | Akash PS - Elite Ethical Hacker | [Read More](https://medium.com/p/a3049e8c5c23) |
