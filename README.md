@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 21:33:00 GMT | Ever need to track an IP address, get evidence on a cheating partner, hack and retrieve any account… | Decryptx | [Read More](https://medium.com/p/af36f479bea2) |
 | Tue, 23 Dec 2025 21:05:10 GMT | Open for Business: Harnessing the Power of Open-Source in the Corporate World | Sage Khan | [Read More](https://medium.com/p/1ee402aa3d8b) |
 | Tue, 23 Dec 2025 20:57:17 GMT | Vulnerability: DOM-Based XSS (type-0 XSS) — DVWA | Basmala Yasser | [Read More](https://medium.com/p/5e16e41af9da) |
 | Tue, 23 Dec 2025 20:52:14 GMT | What are multiparty computations? {MPCs} | Mimi Marcus | [Read More](https://medium.com/p/bcc59935f372) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 14:02:45 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/2ac95657f229) |
 | Tue, 23 Dec 2025 14:02:40 GMT | What is Cyber Security? A beginner’s Guide | Shwetawrites | [Read More](https://medium.com/p/527ae657e91e) |
 | Tue, 23 Dec 2025 14:02:31 GMT | The New Naval Giants: Magnificent Weapons for a World That No Longer Exists. | Berend Watchus | [Read More](https://medium.com/p/e6288116cf6e) |
-| Tue, 23 Dec 2025 13:57:49 GMT | Platform Engineering Security Is Not One Tool | Salwan Mohamed | [Read More](https://medium.com/p/66eb8da88f44) |
