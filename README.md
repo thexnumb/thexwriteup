@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 06:32:38 GMT | How I Found a $10,800 Business Impact Bug: Race Condition & Broken Access Control | Abhishek Gupta | [Read More](https://medium.com/p/de40c9897e91) |
+| Tue, 23 Dec 2025 06:22:10 GMT | Network 101'den Siber Güvenliğe Kısım 3 | Mustafa San | [Read More](https://medium.com/p/ea9c12647d16) |
+| Tue, 23 Dec 2025 06:16:34 GMT | Dynatrace Security Investigator ile IP Adreslerini Analiz Edin | Perform Yazılım | [Read More](https://medium.com/p/4234916b3f2d) |
+| Tue, 23 Dec 2025 06:15:25 GMT | How Firewall Solutions Help Indian Businesses Stay Secure and Compliant | Lisa Loyal | [Read More](https://medium.com/p/06c57e898a19) |
+| Tue, 23 Dec 2025 06:04:39 GMT | Why Public and Private Institutions Must Adopt Central Monitoring for National Protection | Anslem Eromobor | [Read More](https://medium.com/p/a9609f02f5bb) |
+| Tue, 23 Dec 2025 06:02:16 GMT | Directors Information System (DIS): | Nilu Mohapatra | [Read More](https://medium.com/p/1e3f605d7cb7) |
+| Tue, 23 Dec 2025 06:01:19 GMT | Busting myths on Microsoft Security Copilot | Yash Mudaliar | [Read More](https://medium.com/p/5d668cbdac6a) |
+| Tue, 23 Dec 2025 06:00:05 GMT | From Honeypot Noise to Actionable Risk: Building a Fusion-Based ML IDS | Maxine Jones | [Read More](https://medium.com/p/41e6838812dd) |
+| Tue, 23 Dec 2025 05:59:59 GMT | Authorization Sprawl: The Silent Security Debt Nobody Is Tracking | Ashwini Puranik | [Read More](https://medium.com/p/7af570df58a9) |
+| Tue, 23 Dec 2025 05:54:56 GMT | Why a Dedicated IP is Non-Negotiable for Crypto Traders in 2026 | Essin Crypto | [Read More](https://medium.com/p/345d9a55cf0f) |
+| Tue, 23 Dec 2025 05:54:18 GMT | From Cyber Crisis to IT Strategy Reset: Lessons from a Retail Enterprise Transformation | Akhradej Suntornsnoh | [Read More](https://medium.com/p/7542766ebc0f) |
+| Tue, 23 Dec 2025 05:36:57 GMT | 2026 Cybersecurity Tips & Tricks | HackersPrey | [Read More](https://medium.com/p/febcd490c9c5) |
 | Tue, 23 Dec 2025 05:36:02 GMT | The Global Push to Open iOS: How Governments Are (Finally) Forcing Sideloading, Alternative App… | Scott Forbes | [Read More](https://medium.com/p/0c933ed69837) |
 | Tue, 23 Dec 2025 05:32:23 GMT | Why Writing Less Code Makes You a Better Developer | MyNextDeveloper | [Read More](https://medium.com/p/a8cdc81ab553) |
 | Tue, 23 Dec 2025 05:30:03 GMT | Kubernetes API & Objects — The Heart of How Kubernetes Works | Srikanta Sahu | [Read More](https://medium.com/p/3a000154d58a) |
@@ -62,6 +74,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 01:41:56 GMT | Why Hackers Break the Law – And How Their Skills Can Actually Do Good. | Salaheddinta | [Read More](https://medium.com/p/7c5b36fd9e3d) |
 | Tue, 23 Dec 2025 01:38:11 GMT | Time-Based SQL Injection: Complete Real-World Bug Bounty Guide | Monika sharma | [Read More](https://medium.com/p/0d38311a4adf) |
 | Tue, 23 Dec 2025 01:37:57 GMT | The OSINT Stack: Tools You Actually Need (and Why) | Aj | [Read More](https://medium.com/p/f1a73eaf68b2) |
+| Tue, 23 Dec 2025 01:32:21 GMT | JS Islands: 10 Plays for Less JS, More Speed | Vectorlane | [Read More](https://medium.com/p/b61ba5e41069) |
 | Tue, 23 Dec 2025 01:32:20 GMT | Fast Guardrails: 10 Layers That Keep Latency Low | Velorum | [Read More](https://medium.com/p/ff7c7ec04f7a) |
 | Tue, 23 Dec 2025 01:30:39 GMT | Game Day Alert! | Roxyrodjrr | [Read More](https://medium.com/p/79ba04541cbc) |
 | Tue, 23 Dec 2025 01:29:48 GMT | Advent of CTF 2025 - DAY 1 | Dargham Ali | [Read More](https://medium.com/p/fc39e9a7a8f3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 21:26:44 GMT | Layer 1 Basics: Your Guide to Physical Network Security | oussama MAJID | [Read More](https://medium.com/p/e417223386c2) |
 | Mon, 22 Dec 2025 21:22:40 GMT | Why Website Security Should Be Your Priority in 2025: Here’s What You Need to Know | Ali.Yurie | [Read More](https://medium.com/p/a132a8b2010a) |
 | Mon, 22 Dec 2025 21:22:38 GMT | The Corrupted Password Dump — A Gentle Walk Through Hash Chaos | Aditya Bhatt | [Read More](https://medium.com/p/f273d0a760a8) |
-| Mon, 22 Dec 2025 21:20:22 GMT | Runers — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/33ba0acce791) |
-| Mon, 22 Dec 2025 21:17:27 GMT | Volatility Plugins — Plugin windows.psxview Let’s Talk About it | Dean | [Read More](https://medium.com/p/8a4d78df25ff) |
-| Mon, 22 Dec 2025 21:10:01 GMT | MITRE ATT&CK MCP Server | Inoussa Mouiche | [Read More](https://medium.com/p/ed811874dff0) |
-| Mon, 22 Dec 2025 20:55:09 GMT | How I Taught Myself Cybersecurity With NO 4 Year Degree… | RayasWeb | [Read More](https://medium.com/p/efc27b1d8bb5) |
-| Mon, 22 Dec 2025 20:53:02 GMT | What the Spotify Leak Tells Us About the Future | Enes Karataş | [Read More](https://medium.com/p/1bfc8c5d662e) |
-| Mon, 22 Dec 2025 20:50:35 GMT | How Monetary Distribution Fuels Endless Economic Cycles (And Why You’re Feeling the Squeeze) | Aref Awadh | [Read More](https://medium.com/p/e1a1bd3c1bfb) |
-| Mon, 22 Dec 2025 20:36:24 GMT | Squads vs Resource Pools: Real Productivity or Operational Illusion? | Agilista Desenvolvedor | [Read More](https://medium.com/p/af2d8e542601) |
-| Mon, 22 Dec 2025 20:36:16 GMT | When Betrayal Strikes: Why Divorce Isn’t the Real Answer | HeddaScott | [Read More](https://medium.com/p/ae884be727f7) |
-| Mon, 22 Dec 2025 20:35:10 GMT | SOC127 — SQL Injection Detected — Walkthrough | Petra | [Read More](https://medium.com/p/edfda3951fac) |
-| Mon, 22 Dec 2025 20:34:08 GMT | Sunucum Güvende mi? Kendi Otomatik Raporlama Sistemimi Nasıl Kodladım? | Mehmet Can Arslan | [Read More](https://medium.com/p/3e9c77f87afe) |
-| Mon, 22 Dec 2025 20:31:35 GMT | In Mid-December 2025, Hackers Stole Paid Members’ Pornhub Browsing and Intimate Data | David SEHYEON Baek | [Read More](https://medium.com/p/d233b35c24e6) |
-| Mon, 22 Dec 2025 20:19:17 GMT | Hack The Box University CTF 2025: Tinsel Trouble | Juan Pablo Morales | [Read More](https://medium.com/p/88435905d559) |
-| Mon, 22 Dec 2025 20:16:43 GMT | Behavior of a Public Web Form Submission Endpoint | Ishak Antar | [Read More](https://medium.com/p/f7dad8216884) |
