@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 05:21:48 GMT | IT Managed Service Provider Tampa - IT Solutions Tampa | Gainside | [Read More](https://medium.com/p/d4b17a3614d7) |
+| Tue, 23 Dec 2025 05:11:43 GMT | Unlocking the Power of Sherlock: Advanced OSINT Tactics for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/cfd37acf77f5) |
+| Tue, 23 Dec 2025 05:08:17 GMT | Understanding the Role of a Privacy Impact Assessment | Digital Duffer | [Read More](https://medium.com/p/67bd139a90eb) |
+| Tue, 23 Dec 2025 05:07:31 GMT | Benefits of Privacy Impact Assessment | Digital Duffer | [Read More](https://medium.com/p/1b4cf14d083c) |
+| Tue, 23 Dec 2025 05:02:21 GMT | Why Cybersecurity Is the New Business Priority — Not Just an IT Concern | F9 Infotech | [Read More](https://medium.com/p/c6f9e849bf04) |
+| Tue, 23 Dec 2025 05:01:46 GMT | SpyX Stalkware: The Controversial Monitoring App That Exposed Millions | RayasWeb | [Read More](https://medium.com/p/95417f38d3cb) |
+| Tue, 23 Dec 2025 04:59:59 GMT | How I Found a Critical 2FA Misconfiguration and Earned a $2000 Bug Bounty | Ravindra | [Read More](https://medium.com/p/d1ed934dffec) |
+| Tue, 23 Dec 2025 04:51:31 GMT | Why Good Software Takes Time: Understanding the Real Journey Behind Quality Development | Tech Immortals | [Read More](https://medium.com/p/64845ee0f5db) |
+| Tue, 23 Dec 2025 04:44:27 GMT | Fundamentals of Computer Networks | Ragulnath M B | [Read More](https://medium.com/p/ae4cd6d760ce) |
 | Tue, 23 Dec 2025 04:35:11 GMT | Career Roadmap: Building Your IT Foundation | Sec Guy | [Read More](https://medium.com/p/a4e8b96b4334) |
 | Tue, 23 Dec 2025 04:32:22 GMT | Why Most Security Automation Fails in Production | Shubh Gupta | [Read More](https://medium.com/p/bfd6de801959) |
 | Tue, 23 Dec 2025 04:22:41 GMT | [HackSmarter.org Write-up] Sysco (AS-REP Roasting, Cisco secret 5, GPO Immediate Task) | Chicken0248 | [Read More](https://medium.com/p/863b39c306a8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 20:00:03 GMT | Building the Muscle of Courage | Clara Popescu Brooks | [Read More](https://medium.com/p/9ffe58b632a7) |
 | Mon, 22 Dec 2025 19:51:30 GMT | Palisade: Zero-Trust Security for the AI Model Supply Chain | sharathr | [Read More](https://medium.com/p/def2b8232868) |
 | Mon, 22 Dec 2025 19:43:46 GMT | The Hunt & Capture Of RaccoonO365 | O. J. Okpabi | [Read More](https://medium.com/p/106dcddc7e80) |
-| Mon, 22 Dec 2025 19:40:05 GMT | Are Cloud Certifications Worth It? I Analyzed 825 Jobs to Find Out | John Mehler | [Read More](https://medium.com/p/9b73f4226771) |
-| Mon, 22 Dec 2025 19:38:07 GMT | The Day Our Production Server Flatlined: Anatomy of a Cryptojacking Attack | Suraj Jeswara | [Read More](https://medium.com/p/e675c58750ac) |
-| Mon, 22 Dec 2025 19:36:31 GMT | The Day My App Finally Trusted Its Users (A JWT Story) | Brayce Dominic | [Read More](https://medium.com/p/68775edf8a0e) |
-| Mon, 22 Dec 2025 19:36:02 GMT | 1,000 Unsecured MCP Servers: The Hidden Attack Surface You Missed | Mehdi BAFDIL | [Read More](https://medium.com/p/186f157822c4) |
-| Mon, 22 Dec 2025 19:26:17 GMT | Enterprise Data Architecture: The Blueprint for Digital Success | C.N. Husnul Izzati | [Read More](https://medium.com/p/78fa70e27b91) |
-| Mon, 22 Dec 2025 19:23:53 GMT | İnternet Nasıl Çalışır?( IP, DNS, DHCP ve NAT Mantığı) | Arda Derya | [Read More](https://medium.com/p/3cd27b2e9964) |
-| Mon, 22 Dec 2025 19:20:43 GMT | My Experience Solving Challenges at TCS HackQuest Season 10 | Harsh Jain | [Read More](https://medium.com/p/102fc5ae6cbf) |
-| Mon, 22 Dec 2025 19:18:41 GMT | Stop Shifting Junk Left: Why You Must Scan Container Images Before the Registry | Prakhar Mathur | [Read More](https://medium.com/p/f799b73e3ee8) |
-| Mon, 22 Dec 2025 19:14:02 GMT | Cherry Cola Hair | Ouanessa Nana | [Read More](https://medium.com/p/98d68f6248a6) |
