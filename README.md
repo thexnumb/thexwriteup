@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 21:05:10 GMT | Open for Business: Harnessing the Power of Open-Source in the Corporate World | Sage Khan | [Read More](https://medium.com/p/1ee402aa3d8b) |
+| Tue, 23 Dec 2025 20:57:17 GMT | Vulnerability: DOM-Based XSS (type-0 XSS) — DVWA | Basmala Yasser | [Read More](https://medium.com/p/5e16e41af9da) |
+| Tue, 23 Dec 2025 20:52:14 GMT | What are multiparty computations? {MPCs} | Mimi Marcus | [Read More](https://medium.com/p/bcc59935f372) |
+| Tue, 23 Dec 2025 20:43:59 GMT | Why Most Crypto Scam Warnings Fail (And What Actually Works) | Deya Hroob | [Read More](https://medium.com/p/7081da4d5b76) |
 | Tue, 23 Dec 2025 20:38:05 GMT | The Importance of Cybersecurity in Your Company — Partnering with DVIUS | Biteris Companies | [Read More](https://medium.com/p/48f28b56d536) |
 | Tue, 23 Dec 2025 20:36:00 GMT | Building a Lightweight SSO System | Mine Kaya | [Read More](https://medium.com/p/414d229b0b31) |
 | Tue, 23 Dec 2025 20:26:08 GMT | Clear Your Cookies - Dog Years | Julio Oña | [Read More](https://medium.com/p/e59cb7a29f41) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 14:02:40 GMT | What is Cyber Security? A beginner’s Guide | Shwetawrites | [Read More](https://medium.com/p/527ae657e91e) |
 | Tue, 23 Dec 2025 14:02:31 GMT | The New Naval Giants: Magnificent Weapons for a World That No Longer Exists. | Berend Watchus | [Read More](https://medium.com/p/e6288116cf6e) |
 | Tue, 23 Dec 2025 13:57:49 GMT | Platform Engineering Security Is Not One Tool | Salwan Mohamed | [Read More](https://medium.com/p/66eb8da88f44) |
-| Tue, 23 Dec 2025 13:55:54 GMT | FOXY- BTLO Walkthrough | Jagadishtripathy | [Read More](https://medium.com/p/0c88c32bdc20) |
-| Tue, 23 Dec 2025 13:55:35 GMT | Belgium’s Power Went Silent Online | O. J. Okpabi | [Read More](https://medium.com/p/c3bbdc9afce2) |
-| Tue, 23 Dec 2025 13:54:34 GMT | PowerShell: Windows Most Powerful Tool Nobody Uses | MouhibMahadbi | [Read More](https://medium.com/p/743a0242f5de) |
-| Tue, 23 Dec 2025 13:53:35 GMT | Zero-Click Attacks in the Age of Agentic AI | Jacob George | [Read More](https://medium.com/p/a50fcfea4482) |
