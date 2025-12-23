@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 10:17:36 GMT | Best New Year Cybersecurity Certification Deals | cyber security Updates | [Read More](https://medium.com/p/f594a77e3d91) |
+| Tue, 23 Dec 2025 10:13:58 GMT | PicoCTF Writeup — Sleuthkit Intro | flix | [Read More](https://medium.com/p/3b35c484145e) |
+| Tue, 23 Dec 2025 10:13:22 GMT | PicoCTF Writeup — Big Zip | flix | [Read More](https://medium.com/p/feb1125af9f9) |
+| Tue, 23 Dec 2025 10:13:11 GMT | Bahrain AI-Powered Video Analytics Danger Detection Stops Breaches | Tekshoyabeelyas | [Read More](https://medium.com/p/6dcf8cf0983b) |
+| Tue, 23 Dec 2025 10:13:01 GMT | Optimistic Hacker Gaius was confirmed as the best cryptocurrency and the best method for recovering… | Józef Stanislaw | [Read More](https://medium.com/p/90879622e6fb) |
+| Tue, 23 Dec 2025 10:11:22 GMT | I Analyzed 100 Email Breaches in India - These Are the Patterns No One Notices | Aysha Saifi | [Read More](https://medium.com/p/e2bde2e092ea) |
+| Tue, 23 Dec 2025 10:05:06 GMT | My First Critical Bug: 0-Click Full Account Takeover | 0xJad | [Read More](https://medium.com/p/b3ee2c559122) |
+| Tue, 23 Dec 2025 10:02:33 GMT | From Talk to Action Why I’m Asking for Your Support | CYBER CYMRU | [Read More](https://medium.com/p/dea85c06ad0b) |
+| Tue, 23 Dec 2025 10:02:27 GMT | Why Autocorrect Doesn’t Learn Your Passwords?? (But Remembers Your Username) | Shivani | [Read More](https://medium.com/p/adf1303f0a21) |
+| Tue, 23 Dec 2025 10:02:00 GMT | Running Wanna Cry On My VM ! | Aufarifqi | [Read More](https://medium.com/p/a87540340a68) |
+| Tue, 23 Dec 2025 10:01:30 GMT | Reduce PDF File Size Without Losing Quality: A Practical Guide to PDF Compression | pdfalltools.com | [Read More](https://medium.com/p/81c8dc1464a8) |
+| Tue, 23 Dec 2025 09:59:09 GMT | IT Job Trends in the US: Entry-Level vs Mid-Level vs Senior Roles | gyan guide | [Read More](https://medium.com/p/b2b055fe708b) |
+| Tue, 23 Dec 2025 09:57:14 GMT | QR Scam, learn more about it | Techwizs | [Read More](https://medium.com/p/a2ec7add992b) |
+| Tue, 23 Dec 2025 09:51:27 GMT | Advantages and Disadvantages of Biometric Devices for Security | Joven A Rodrigues | [Read More](https://medium.com/p/4f127716d537) |
+| Tue, 23 Dec 2025 09:51:03 GMT | Top Plants That Repel Mosquitoes For A Bug-Free Garden. | PlantoraApp | [Read More](https://medium.com/p/8ae77ff05d39) |
+| Tue, 23 Dec 2025 09:48:31 GMT | TryHackMe: CherryBlossom Writeup | cbev | [Read More](https://medium.com/p/ccbd40fafcbd) |
+| Tue, 23 Dec 2025 09:47:41 GMT | Hacking Series (Part 10): DoS & DDoS Attacks — How Systems Are Taken Down (And How to Defend… | Cyber Wolf | [Read More](https://medium.com/p/21ff02a134d5) |
+| Tue, 23 Dec 2025 09:47:28 GMT | Feedback VM Walkthrough | Spookz | [Read More](https://medium.com/p/6e66721fa0b5) |
 | Tue, 23 Dec 2025 09:39:29 GMT | Blockchain‑Based Digital Identity For The Underserved | Mwenda Kelvin | [Read More](https://medium.com/p/3c75462d1a6a) |
 | Tue, 23 Dec 2025 09:37:08 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-6 | Cruz | [Read More](https://medium.com/p/8c87742ad5b3) |
 | Tue, 23 Dec 2025 09:33:01 GMT | Syscalls vs Modern AV/EDR in 2025: The Myth, the Reality, and What Actually Matters | Yua Mikanana | [Read More](https://medium.com/p/9baf0c17bb7a) |
@@ -47,6 +65,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 07:23:45 GMT | Rooting Android in 2025 — Power, Control, and the Fine Line of Security | Ssolosssolo | [Read More](https://medium.com/p/c4df855af970) |
 | Tue, 23 Dec 2025 07:23:17 GMT | Kotlin vs. Java: Choosing the Best Language for Backend Development (2025–2026) | Amin Softtech | [Read More](https://medium.com/p/e2b543f8829f) |
 | Tue, 23 Dec 2025 07:23:14 GMT | Flashing New Firmware on Android — Breathing New Life into Old Devices | Ssolosssolo | [Read More](https://medium.com/p/cf7a09aed798) |
+| Tue, 23 Dec 2025 07:21:39 GMT | Benefits of Hiring Local Private Security Company in Atlanta | Reliable Security Staffing | [Read More](https://medium.com/p/596732e44a6d) |
 | Tue, 23 Dec 2025 07:18:29 GMT | The Smart Dual Light Revolution in Security | Mahdiyar | [Read More](https://medium.com/p/92b0834c3f36) |
 | Tue, 23 Dec 2025 07:03:59 GMT | Top 20 Tools Hackers Use to Track You Across the Internet: Master What’s Following You | Very Lazy Tech | [Read More](https://medium.com/p/b6a159b8bbeb) |
 | Tue, 23 Dec 2025 06:58:24 GMT | How I Found Vulnerabilities in NASA and Got into the Hall of Fame | arashiyan | [Read More](https://medium.com/p/c8870bf65420) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 04:22:21 GMT | Firewall and Intrusion Detection Systems: The First Line of Defense in Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/fbf7c5cb234b) |
 | Tue, 23 Dec 2025 04:18:50 GMT | [HackSmarter.org Write-up] NorthBridge Systems (WAR to RBCD, DPAPI, Backup Operators, DCSync) | Chicken0248 | [Read More](https://medium.com/p/972612e5ee36) |
 | Tue, 23 Dec 2025 04:08:10 GMT | Why Smart Fleet Managers Are Racing to Install Advanced Security Systems Before 2026 | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/a752c2e49ec9) |
-| Tue, 23 Dec 2025 04:02:50 GMT | From recon to AWS and DB credentials leaked | pr1vacy | [Read More](https://medium.com/p/81376d7e1e99) |
-| Tue, 23 Dec 2025 04:02:23 GMT | The Thermos, the Town Hall, and the Van: Why the Padlock Isn’t Enough | Spandan Sehgal | [Read More](https://medium.com/p/d14621e658e0) |
-| Tue, 23 Dec 2025 03:59:14 GMT | Tải Haunted Dorm Mod APK V1.8.3 (Vô Hạn Tiền, Menu, No Ads) | GOCMOD | [Read More](https://medium.com/p/9e536533a7bb) |
-| Tue, 23 Dec 2025 03:52:12 GMT | QA ga tau cek response ??? | Jordanh Parapat | [Read More](https://medium.com/p/5105f7ba74d5) |
-| Tue, 23 Dec 2025 03:49:17 GMT | Shifting Left at Enterprise Scale: How Cloudflare Manages Security with Infrastructure as Code | Civil Learning | [Read More](https://medium.com/p/309e7466d645) |
-| Tue, 23 Dec 2025 03:42:37 GMT | Can Generosity Make Us Vulnerable? | LaShell Tinder | [Read More](https://medium.com/p/e5daacaba6fe) |
-| Tue, 23 Dec 2025 03:32:21 GMT | Payroll Pirates: How Search Ads Are Being Used to Hijack Salaries | Deven Chhajed | [Read More](https://medium.com/p/cf4dcca50f2b) |
-| Tue, 23 Dec 2025 03:32:06 GMT | White Label Crypto Exchange Platforms: Lowering Barriers to Global Market Access | TheExchain | [Read More](https://medium.com/p/8152693fd354) |
-| Tue, 23 Dec 2025 03:30:11 GMT | Tải Stickman Party Mod Apk (Vô Hạn Tiền) v2.4.9.2 | genzvnmod | [Read More](https://medium.com/p/5f27bdf64149) |
-| Tue, 23 Dec 2025 03:30:10 GMT | First Day Ready: A Practical IT Onboarding Checklist | Blog Chip | [Read More](https://medium.com/p/c95a770e8c23) |
-| Tue, 23 Dec 2025 03:28:28 GMT | React2Shell Analysis: Domain-Level Detection of RSC Exposure | Criminal IP | [Read More](https://medium.com/p/11db354612df) |
-| Tue, 23 Dec 2025 03:24:59 GMT | 本分 x TX-SHIELD 隐私支付：首个原生稳定币驱动的全隐私、可监管、高性能支付协议 | BenFen | [Read More](https://medium.com/p/0c13777edb4a) |
-| Tue, 23 Dec 2025 03:19:52 GMT | Tải Sausage Man Mod Apk (Menu, God Mode, Speed, Aimbot) v21.94 | Game4u | [Read More](https://medium.com/p/8cc62f7dd50a) |
-| Tue, 23 Dec 2025 03:11:27 GMT | Detecting Web Shells — Tryhackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/38e0544758a0) |
-| Tue, 23 Dec 2025 03:10:51 GMT | Detecting Web DDOS — Tryhackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/a9c536daa2f0) |
-| Tue, 23 Dec 2025 03:10:16 GMT | Tải Townscaper APK (MOD Bản Đầy Đủ) v1.20 | Bandisharecx | [Read More](https://medium.com/p/217685850695) |
-| Tue, 23 Dec 2025 02:55:23 GMT | Tải Demon Slayer Mobile Apk V1.0.8 Miễn Phí Cho Android | Apkpuredev | [Read More](https://medium.com/p/ff02ba89f54a) |
-| Tue, 23 Dec 2025 02:47:17 GMT | Passwords are DEAD | Shubhamkhatang | [Read More](https://medium.com/p/710031b70710) |
-| Tue, 23 Dec 2025 02:29:56 GMT | After 50: Nobody Cares About Your Dreams | Michael Bernard | [Read More](https://medium.com/p/628cfbaeef6c) |
