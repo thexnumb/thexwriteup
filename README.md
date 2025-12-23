@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 08:26:41 GMT | Navigating the Cybersecurity Talent Shortage in Critical Infrastructure | laiq ahmad | [Read More](https://medium.com/p/f779321c4a29) |
+| Tue, 23 Dec 2025 08:23:59 GMT | Study in Australia — Top International Universities & Opportunities | royalinternational | [Read More](https://medium.com/p/11df36ebe2cb) |
+| Tue, 23 Dec 2025 08:17:36 GMT | YARA in Practice | Sadineni Sai Sushanth | [Read More](https://medium.com/p/f84cfbca98c5) |
+| Tue, 23 Dec 2025 08:14:28 GMT | Why Verified Security Standards Matter for Vendor Approval | Kadhijahafiya | [Read More](https://medium.com/p/54c69802a7e9) |
+| Tue, 23 Dec 2025 08:05:18 GMT | Think You’re Private Online? OSINT Says Otherwise | Secuverse | [Read More](https://medium.com/p/3cca2158c49d) |
+| Tue, 23 Dec 2025 08:00:43 GMT | Notes on Attachment | Lauren Mills | [Read More](https://medium.com/p/b7cc6b1287e8) |
+| Tue, 23 Dec 2025 07:59:44 GMT | OpenAI warns AI browsers may never be fully secure against prompt injection attacks | Bintu's Art and Everything | [Read More](https://medium.com/p/641e022b7257) |
+| Tue, 23 Dec 2025 07:55:27 GMT | Web Application Penetration Testing Report | Ibrahim Sheikh | [Read More](https://medium.com/p/87f80e355c9f) |
+| Tue, 23 Dec 2025 07:54:48 GMT | Elevate Your Mobile Experience: The Definitive Guide to Smartphone Launchers in 2025 | pulsebangladesh | [Read More](https://medium.com/p/ea6b3924b591) |
+| Tue, 23 Dec 2025 07:49:53 GMT | The “Megazord” Mutation: Why the Akira Ransomware Surge Will Bankrupt You | The Kernel Hub | [Read More](https://medium.com/p/9a0405e7624e) |
+| Tue, 23 Dec 2025 07:45:37 GMT | LAN (Local Area Network) Nedir? | Melih Yalnız | [Read More](https://medium.com/p/e0b5b367d3fe) |
+| Tue, 23 Dec 2025 07:43:20 GMT | Integrating Shodan with HexStrike-AI Using Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/b6f9fcbe8e6e) |
 | Tue, 23 Dec 2025 07:33:02 GMT | How ACSMI Helps Professionals Transition into Cybersecurity Careers | ACSMI | [Read More](https://medium.com/p/8b14ba748a01) |
 | Tue, 23 Dec 2025 07:29:15 GMT | full Stack Development Course in Rohini | NITI | [Read More](https://medium.com/p/5f6446aab738) |
 | Tue, 23 Dec 2025 07:25:47 GMT | Vulnerability vs Exploit: Know the Gap Between Weakness and Attack | Aj | [Read More](https://medium.com/p/3a8056b6620c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 01:13:30 GMT | Archipelago | Chris Perkins | [Read More](https://medium.com/p/3b22711ada09) |
 | Tue, 23 Dec 2025 00:58:24 GMT | When “Maintenance” Turns Malicious: How VectorGuard Labs Would Have Stopped Aevo’s $2.7M | Pavon Dunbar | [Read More](https://medium.com/p/aae1fe148dbd) |
 | Tue, 23 Dec 2025 00:52:54 GMT | Go to Optimistic Hacker Gaius for the best cryptocurrency recovery firm. | Annamagdalena | [Read More](https://medium.com/p/cc0f5ab6378a) |
-| Tue, 23 Dec 2025 00:50:36 GMT | SOC127 — SQL Injection Detected | Harshprajapati | [Read More](https://medium.com/p/88804a5635ac) |
-| Tue, 23 Dec 2025 00:43:47 GMT | Cyber crime news — ransomware and advanced persistent threat groups | Michael Harms | [Read More](https://medium.com/p/95d47d04a41a) |
-| Tue, 23 Dec 2025 00:25:08 GMT | An ESP32 Script That Monitors My Home Network for Weird Devices | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ff1279fa2441) |
-| Mon, 22 Dec 2025 23:25:29 GMT | Ottno Pulse: The Happy Accident of Radical Transparency | Mike Ortiz | [Read More](https://medium.com/p/f9b40df427ee) |
-| Mon, 22 Dec 2025 23:22:02 GMT | What’s after Phishing? Vishing and Smishing! | Digital Uppercut | [Read More](https://medium.com/p/278d17cb01a5) |
-| Mon, 22 Dec 2025 23:13:21 GMT | Decentralized Edge Architectures: Turning Industrial Sabotage into a Managed Business Risk | Seyed Mohsen Mousavi Maleki | [Read More](https://medium.com/p/a54207499afa) |
-| Mon, 22 Dec 2025 23:11:06 GMT | I Thought My Phone Was Broken. It Turned Out Something Much Worse Was Happening. | Your IT and Tech Mates | [Read More](https://medium.com/p/83308de6f990) |
-| Mon, 22 Dec 2025 23:06:08 GMT | How I’m Thinking About My Cybersecurity Career Path as a Beginner | Callum - Cyber Security Journey | [Read More](https://medium.com/p/ba78da22ff63) |
-| Mon, 22 Dec 2025 23:02:13 GMT | Most AI Startups Are Just Thin Wrappers Around APIs | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/c380852a5566) |
-| Mon, 22 Dec 2025 22:51:04 GMT | Advent of Cyber 2025 Day 22 - TryHackMe - C2 Detection - Command & Carol - WriteUp | Axoloth | [Read More](https://medium.com/p/4933016d99ed) |
-| Mon, 22 Dec 2025 22:45:01 GMT | Building Your First Hacking Lab: A Step-by-Step Guide to VirtualBox and Kali Linux | Tonia Taiwo | [Read More](https://medium.com/p/137afd3c1ecd) |
-| Mon, 22 Dec 2025 22:37:25 GMT | The Breach Isn’t the Real Problem. The Domino Effect Is. | Cyber-AppSec | [Read More](https://medium.com/p/8a5b864d9c05) |
