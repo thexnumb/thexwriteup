@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 12:49:25 GMT | How I Built a Production Home Lab from E-Waste (With 2GB RAM) | Raihan shamnad | [Read More](https://medium.com/p/b882c21cf781) |
+| Tue, 23 Dec 2025 12:35:28 GMT | Understanding CMMC Complaince | Zach Morin | [Read More](https://medium.com/p/f6c45068eec6) |
+| Tue, 23 Dec 2025 12:23:15 GMT | Welcome to Code Of School — Java with AI (Future ka Combo ) | deepanshu Rode | [Read More](https://medium.com/p/6dc05e0b90e6) |
+| Tue, 23 Dec 2025 12:19:04 GMT | Torrijas — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/5892af79c220) |
+| Tue, 23 Dec 2025 12:18:50 GMT | Segment Routing for Proxies: Keep Logins Stable, Rotate Fast for Pulls | BlockCypher | [Read More](https://medium.com/p/84b818ee4c72) |
+| Tue, 23 Dec 2025 12:16:32 GMT | 10 Must-Have AI Certifications for Career Growth in 2025 | Tejaswini Naresh IT | [Read More](https://medium.com/p/8254a852fec5) |
+| Tue, 23 Dec 2025 12:09:41 GMT | [AD攻防] Pass the Hash攻擊 | 陳禹璿 | [Read More](https://medium.com/p/7f1712bb87b6) |
+| Tue, 23 Dec 2025 12:08:49 GMT | Things I Learned at a recent AI Security Meetup | Anand Prabhat | [Read More](https://medium.com/p/03e4143b024d) |
+| Tue, 23 Dec 2025 12:05:36 GMT | Passed PCA+PCNE+PCSE this year | Alexander Tyutin | [Read More](https://medium.com/p/e2f566a385df) |
+| Tue, 23 Dec 2025 11:59:33 GMT | AI Enabled Public Intelligence for Government Risk Analysis | Knowlesys Software Inc. | [Read More](https://medium.com/p/3122d44b2b14) |
+| Tue, 23 Dec 2025 11:59:28 GMT | Cybersecurity: Understanding Drive Sanitization in Linux: From File Deletion to Full Data… | Ramandeep Bagri | [Read More](https://medium.com/p/2a14321fe135) |
+| Tue, 23 Dec 2025 11:52:18 GMT | Healing from the Belief That You’re Hard to Love | Inspire: Viva La Vida | [Read More](https://medium.com/p/fe640e08dac4) |
+| Tue, 23 Dec 2025 11:46:51 GMT | I Found an $125 Email HTML Injection Just After My Previous Bug — Here’s Exactly How It Happened | Zer0Figure | [Read More](https://medium.com/p/329ec73ef451) |
+| Tue, 23 Dec 2025 11:42:27 GMT | LOLBAS Alert’leri: Ne Zaman Müdahale Gerekir? | İremDamar | [Read More](https://medium.com/p/319bcabfd2c2) |
+| Tue, 23 Dec 2025 11:40:17 GMT | PECB Cybersecurity Certification in 2026 at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/8b9a54571863) |
 | Tue, 23 Dec 2025 11:32:03 GMT | Vendor Risk Hell — How Third-Party Apps Quietly Destroy Your Security Posture | JSOC IT BLOG | [Read More](https://medium.com/p/b752ba0f1bbe) |
 | Tue, 23 Dec 2025 11:30:13 GMT | Security Consulting Services: Why Choosing a Top Security Service Provider in India Matters | Ciss India | [Read More](https://medium.com/p/6bc24d48f174) |
 | Tue, 23 Dec 2025 11:25:05 GMT | Why Sharing Private Photos With Loved Ones Is Often the Biggest Risk | CVOR | [Read More](https://medium.com/p/2a271ba0454e) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 06:54:44 GMT | When “Login” Was Enough: How a Single Click Compromised an Application | Dealonzius | [Read More](https://medium.com/p/2b4578798557) |
 | Tue, 23 Dec 2025 06:54:36 GMT | PicoCTF Problem: Cookie Monster Secret Recipe — Writeup | Aman Barolia | [Read More](https://medium.com/p/b03a52ca5d14) |
 | Tue, 23 Dec 2025 06:47:40 GMT | How I Leverage AI as a Cyber Security Practitioner in Daily Operations | Trian | [Read More](https://medium.com/p/c79dc0b5c6c7) |
-| Tue, 23 Dec 2025 06:46:46 GMT | Unlocking Your Cybersecurity Career: A Deep Dive into the Cybersecurity Masterclass Nigeria | MotivaLogic Academy | [Read More](https://medium.com/p/3c989fe6ff1f) |
-| Tue, 23 Dec 2025 06:39:05 GMT | The Sister’s Second Marriage: Finding Comfort and Companionship After Divorce | Dancemi Clare | [Read More](https://medium.com/p/745a067d84af) |
-| Tue, 23 Dec 2025 06:38:33 GMT | The Growing Risk of Digital Assets and Safeguarding Resilience with JGCMGS Professional Insights | JGCMGS | [Read More](https://medium.com/p/d75b15e35f71) |
-| Tue, 23 Dec 2025 06:38:09 GMT | Enhancing Your Online Security: Understanding Two Factor Authentication (2FA) | MilesBrown | [Read More](https://medium.com/p/2ab058e53809) |
-| Tue, 23 Dec 2025 06:32:38 GMT | How I Found a $10,800 Business Impact Bug: Race Condition & Broken Access Control | Abhishek Gupta | [Read More](https://medium.com/p/de40c9897e91) |
-| Tue, 23 Dec 2025 06:31:08 GMT | How SIEM Helps Detect and Respond to Security Threats — A Beginner SOC Perspective | Thanika Natarajan | [Read More](https://medium.com/p/cc3ab1589d4f) |
-| Tue, 23 Dec 2025 06:22:10 GMT | Network 101'den Siber Güvenliğe Kısım 3 | Mustafa San | [Read More](https://medium.com/p/ea9c12647d16) |
-| Tue, 23 Dec 2025 06:16:34 GMT | Dynatrace Security Investigator ile IP Adreslerini Analiz Edin | Perform Yazılım | [Read More](https://medium.com/p/4234916b3f2d) |
-| Tue, 23 Dec 2025 06:15:25 GMT | How Firewall Solutions Help Indian Businesses Stay Secure and Compliant | Lisa Loyal | [Read More](https://medium.com/p/06c57e898a19) |
-| Tue, 23 Dec 2025 06:04:39 GMT | Why Public and Private Institutions Must Adopt Central Monitoring for National Protection | Anslem Eromobor | [Read More](https://medium.com/p/a9609f02f5bb) |
-| Tue, 23 Dec 2025 06:02:16 GMT | Directors Information System (DIS): | Nilu Mohapatra | [Read More](https://medium.com/p/1e3f605d7cb7) |
-| Tue, 23 Dec 2025 06:01:19 GMT | Busting myths on Microsoft Security Copilot | Yash Mudaliar | [Read More](https://medium.com/p/5d668cbdac6a) |
-| Tue, 23 Dec 2025 06:00:05 GMT | From Honeypot Noise to Actionable Risk: Building a Fusion-Based ML IDS | Maxine Jones | [Read More](https://medium.com/p/41e6838812dd) |
-| Tue, 23 Dec 2025 05:59:59 GMT | Authorization Sprawl: The Silent Security Debt Nobody Is Tracking | Ashwini Puranik | [Read More](https://medium.com/p/7af570df58a9) |
-| Tue, 23 Dec 2025 05:54:56 GMT | Why a Dedicated IP is Non-Negotiable for Crypto Traders in 2026 | Essin Crypto | [Read More](https://medium.com/p/345d9a55cf0f) |
