@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 16:17:07 GMT | What Regulators and Courts Quietly Did to AI This Week | A D | [Read More](https://medium.com/p/f3900e33e819) |
+| Tue, 23 Dec 2025 16:17:03 GMT | Breach the Perimeter via Prompt Injection : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/a21b688cc54d) |
+| Tue, 23 Dec 2025 16:16:40 GMT | The Good, the Bad, and the Glitchy: Navigating 2025’s Tech Landscape and What 2026 Holds | Paradise technologies Inc | [Read More](https://medium.com/p/f598a558e504) |
+| Tue, 23 Dec 2025 16:12:46 GMT | Brooklyn Nine Nine Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/0bd514185b0b) |
+| Tue, 23 Dec 2025 16:05:33 GMT | 3rd Building Enterprise Network Infrastructure: A Hotel Network Design Case Study | iYÁOmarv_ | [Read More](https://medium.com/p/c9a28ee5494a) |
+| Tue, 23 Dec 2025 16:02:21 GMT | The Ultimate Guide to Cybersecurity: Protecting Yourself and Your Organization from Hackers | Negro Med | [Read More](https://medium.com/p/153281701f95) |
+| Tue, 23 Dec 2025 16:00:54 GMT | Cybersecurity & Compliance Solutions: Safeguarding Business in a Digital Era | TVG Tech | [Read More](https://medium.com/p/d38e0512644d) |
+| Tue, 23 Dec 2025 16:00:07 GMT | Linux Memory Analysis & Credential Hunting (ProcFS & Live Processes) | Cybersecplayground | [Read More](https://medium.com/p/12ddccfaa595) |
+| Tue, 23 Dec 2025 15:57:44 GMT | DO WE NEED A CYBER FORCE? | Chuck Durang | [Read More](https://medium.com/p/eaeec9ef6987) |
+| Tue, 23 Dec 2025 15:57:27 GMT | The Metaverse and Cyber Security Jobs | Aiswarya N | [Read More](https://medium.com/p/b0aeea4bbb0e) |
+| Tue, 23 Dec 2025 15:55:25 GMT | Smuggling Orders Past Business Logic | default_0x | [Read More](https://medium.com/p/d3433a1e989e) |
+| Tue, 23 Dec 2025 15:50:00 GMT | "Doing Security" vs. “Being Secure” -  What’s the Difference? | Bona Karides | [Read More](https://medium.com/p/340979785a19) |
+| Tue, 23 Dec 2025 15:46:40 GMT | Holiday Scam Survival Kit (2025): Delivery Texts, ‘Family Emergency’ Calls, Gift Card Traps | Wes Young | [Read More](https://medium.com/p/d1a029801b21) |
+| Tue, 23 Dec 2025 15:45:32 GMT | The First Security Conversation You Have Too Late: Hardening an Existing Azure Environment | Jurgen Allewijn | [Read More](https://medium.com/p/33115c772763) |
+| Tue, 23 Dec 2025 15:45:23 GMT | Exploit Weak Bucket Policies for Privileged Access : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/74bd103034a5) |
+| Tue, 23 Dec 2025 15:43:15 GMT | The First Thing a Beginner in Information Security Needs to Know | Angela | [Read More](https://medium.com/p/1b77a4fc0f39) |
+| Tue, 23 Dec 2025 15:39:12 GMT | Secure Docker Deployments on AWS Using Real-World Secrets Management | Manuel Hernandez Zemljic | [Read More](https://medium.com/p/be4d407ad396) |
+| Tue, 23 Dec 2025 15:39:04 GMT | Zero-Trust APIs with Spring Security: JWT, OAuth2 & mTLS in 2025 | dolly | [Read More](https://medium.com/p/89d27d197641) |
 | Tue, 23 Dec 2025 15:36:14 GMT | DDoS Attack Disrupts La Poste and La Banque Postale Services | RealSec.io | [Read More](https://medium.com/p/45df4e7ad3bd) |
 | Tue, 23 Dec 2025 15:23:37 GMT | Google Just Got Embarrassed by a University Lab. The Real Quantum War Isn’t About AI at All. | Zoom In AI | [Read More](https://medium.com/p/84aca5d3d9af) |
 | Tue, 23 Dec 2025 15:06:34 GMT | Google Cloud + Palo Alto Networks: The $10 Billion Security Deal That Changes Everything for… | inboryn | [Read More](https://medium.com/p/86ef488c8faf) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 10:32:19 GMT | Return-Path Explained: The Hidden Email Address That Controls Bounces and Security | Natarajan C K | [Read More](https://medium.com/p/8a7e4945fc6d) |
 | Tue, 23 Dec 2025 10:28:18 GMT | Random Is Not Same as Unpredictable in Python | Pratiyush Prakash | [Read More](https://medium.com/p/cb3888b3ff48) |
 | Tue, 23 Dec 2025 10:26:19 GMT | 7 Ruthless Ways to Stop AI-Powered Phishing in 2025 | Pentest_Testing_Corp | [Read More](https://medium.com/p/37b7e5b0c462) |
-| Tue, 23 Dec 2025 10:26:04 GMT | Preparing for the Quantum Apocalypse: The End of Classical Cryptography… | Kerem Işık | [Read More](https://medium.com/p/9e4ffdabcec9) |
-| Tue, 23 Dec 2025 10:25:39 GMT | A Complete Guide to Cyber Security Services in Canada for Businesses | Prakash Factosecure | [Read More](https://medium.com/p/e049f379c744) |
-| Tue, 23 Dec 2025 10:20:20 GMT | Designing a Secure CI/CD Pipeline for Fintech Systems | Olawale Aro | [Read More](https://medium.com/p/dcae0951336d) |
-| Tue, 23 Dec 2025 10:17:36 GMT | Best New Year Cybersecurity Certification Deals | cyber security Updates | [Read More](https://medium.com/p/f594a77e3d91) |
-| Tue, 23 Dec 2025 10:13:58 GMT | PicoCTF Writeup — Sleuthkit Intro | flix | [Read More](https://medium.com/p/3b35c484145e) |
-| Tue, 23 Dec 2025 10:13:22 GMT | PicoCTF Writeup — Big Zip | flix | [Read More](https://medium.com/p/feb1125af9f9) |
-| Tue, 23 Dec 2025 10:13:11 GMT | Bahrain AI-Powered Video Analytics Danger Detection Stops Breaches | Tekshoyabeelyas | [Read More](https://medium.com/p/6dcf8cf0983b) |
-| Tue, 23 Dec 2025 10:13:01 GMT | Optimistic Hacker Gaius was confirmed as the best cryptocurrency and the best method for recovering… | Józef Stanislaw | [Read More](https://medium.com/p/90879622e6fb) |
-| Tue, 23 Dec 2025 10:11:22 GMT | I Analyzed 100 Email Breaches in India - These Are the Patterns No One Notices | Aysha Saifi | [Read More](https://medium.com/p/e2bde2e092ea) |
-| Tue, 23 Dec 2025 10:05:06 GMT | My First Critical Bug: 0-Click Full Account Takeover | 0xJad | [Read More](https://medium.com/p/b3ee2c559122) |
-| Tue, 23 Dec 2025 10:02:33 GMT | From Talk to Action Why I’m Asking for Your Support | CYBER CYMRU | [Read More](https://medium.com/p/dea85c06ad0b) |
-| Tue, 23 Dec 2025 10:02:27 GMT | Why Autocorrect Doesn’t Learn Your Passwords?? (But Remembers Your Username) | Shivani | [Read More](https://medium.com/p/adf1303f0a21) |
-| Tue, 23 Dec 2025 10:02:00 GMT | Running Wanna Cry On My VM ! | Aufarifqi | [Read More](https://medium.com/p/a87540340a68) |
-| Tue, 23 Dec 2025 10:01:30 GMT | Reduce PDF File Size Without Losing Quality: A Practical Guide to PDF Compression | pdfalltools.com | [Read More](https://medium.com/p/81c8dc1464a8) |
-| Tue, 23 Dec 2025 09:59:09 GMT | IT Job Trends in the US: Entry-Level vs Mid-Level vs Senior Roles | gyan guide | [Read More](https://medium.com/p/b2b055fe708b) |
-| Tue, 23 Dec 2025 09:57:14 GMT | QR Scam, learn more about it | Techwizs | [Read More](https://medium.com/p/a2ec7add992b) |
-| Tue, 23 Dec 2025 09:51:27 GMT | Advantages and Disadvantages of Biometric Devices for Security | Joven A Rodrigues | [Read More](https://medium.com/p/4f127716d537) |
-| Tue, 23 Dec 2025 09:51:03 GMT | Top Plants That Repel Mosquitoes For A Bug-Free Garden. | PlantoraApp | [Read More](https://medium.com/p/8ae77ff05d39) |
