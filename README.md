@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 05:36:02 GMT | The Global Push to Open iOS: How Governments Are (Finally) Forcing Sideloading, Alternative App… | Scott Forbes | [Read More](https://medium.com/p/0c933ed69837) |
+| Tue, 23 Dec 2025 05:32:23 GMT | Why Writing Less Code Makes You a Better Developer | MyNextDeveloper | [Read More](https://medium.com/p/a8cdc81ab553) |
+| Tue, 23 Dec 2025 05:30:03 GMT | Kubernetes API & Objects — The Heart of How Kubernetes Works | Srikanta Sahu | [Read More](https://medium.com/p/3a000154d58a) |
+| Tue, 23 Dec 2025 05:29:19 GMT | One Shot — Cybertalents / Format String Exploitation Write-Up | Mohamed Sayed Kamel - vdtafury | [Read More](https://medium.com/p/52b58ae4b651) |
+| Tue, 23 Dec 2025 05:28:30 GMT | Minikube: Your Personal Kubernetes Sandbox on Your Laptop | Srikanta Sahu | [Read More](https://medium.com/p/69c2e47cc0f9) |
 | Tue, 23 Dec 2025 05:21:48 GMT | IT Managed Service Provider Tampa - IT Solutions Tampa | Gainside | [Read More](https://medium.com/p/d4b17a3614d7) |
+| Tue, 23 Dec 2025 05:20:20 GMT | UNION-Based SQL Injection: Finding a column containing text | PriOFF | [Read More](https://medium.com/p/b2d05eb3410b) |
 | Tue, 23 Dec 2025 05:11:43 GMT | Unlocking the Power of Sherlock: Advanced OSINT Tactics for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/cfd37acf77f5) |
 | Tue, 23 Dec 2025 05:08:17 GMT | Understanding the Role of a Privacy Impact Assessment | Digital Duffer | [Read More](https://medium.com/p/67bd139a90eb) |
 | Tue, 23 Dec 2025 05:07:31 GMT | Benefits of Privacy Impact Assessment | Digital Duffer | [Read More](https://medium.com/p/1b4cf14d083c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 20:31:35 GMT | In Mid-December 2025, Hackers Stole Paid Members’ Pornhub Browsing and Intimate Data | David SEHYEON Baek | [Read More](https://medium.com/p/d233b35c24e6) |
 | Mon, 22 Dec 2025 20:19:17 GMT | Hack The Box University CTF 2025: Tinsel Trouble | Juan Pablo Morales | [Read More](https://medium.com/p/88435905d559) |
 | Mon, 22 Dec 2025 20:16:43 GMT | Behavior of a Public Web Form Submission Endpoint | Ishak Antar | [Read More](https://medium.com/p/f7dad8216884) |
-| Mon, 22 Dec 2025 20:14:33 GMT | Scrolling to Success: How Digital Marketing Turns Attention into Opportunity | Shree Dwivedi | [Read More](https://medium.com/p/45fd7c4b64ef) |
-| Mon, 22 Dec 2025 20:11:21 GMT | Nessus Guide Windows 11 | Navraj Gill | [Read More](https://medium.com/p/8057cc5c1b64) |
-| Mon, 22 Dec 2025 20:02:48 GMT | It’s Not Imposter Syndrome. It’s Tribalism | Jeff Kingsland | [Read More](https://medium.com/p/0cee1dc63a39) |
-| Mon, 22 Dec 2025 20:00:03 GMT | Building the Muscle of Courage | Clara Popescu Brooks | [Read More](https://medium.com/p/9ffe58b632a7) |
-| Mon, 22 Dec 2025 19:51:30 GMT | Palisade: Zero-Trust Security for the AI Model Supply Chain | sharathr | [Read More](https://medium.com/p/def2b8232868) |
-| Mon, 22 Dec 2025 19:43:46 GMT | The Hunt & Capture Of RaccoonO365 | O. J. Okpabi | [Read More](https://medium.com/p/106dcddc7e80) |
