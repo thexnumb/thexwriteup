@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 23:33:34 GMT | The Uncomfortable Luxury of Sadness | Linda A Metzler | [Read More](https://medium.com/p/63e6c632ca87) |
+| Tue, 23 Dec 2025 23:26:22 GMT | CVE-2025–68613 in n8n — AI Vulnerability | Michael Harms | [Read More](https://medium.com/p/bb876932c52e) |
+| Tue, 23 Dec 2025 23:20:15 GMT | eJPT Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Mujtaba Shaikeldin | [Read More](https://medium.com/p/66dbfeed24fc) |
 | Tue, 23 Dec 2025 23:11:23 GMT | Holiday Vulnerabilities: Notes from a cyberdefender— and How My “Elf” Finally Showed up | Andre N Cardoso | [Read More](https://medium.com/p/a7a5fb7a59a2) |
 | Tue, 23 Dec 2025 23:09:53 GMT | Cyber Resiliency: Why Disaster Recovery Alone Is Failing Modern Businesses | Cyber-AppSec | [Read More](https://medium.com/p/c59d9737419f) |
 | Tue, 23 Dec 2025 22:54:26 GMT | Critical Infrastructure in the European Union | Fatma Erturk | [Read More](https://medium.com/p/1bb151ac6fa2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 14:58:57 GMT | How We Contained a Threat and Rebuilt Trust in 48 Hours (An anonymised real-world story) | Fook Hwa Tan | [Read More](https://medium.com/p/723a275875fc) |
 | Tue, 23 Dec 2025 14:55:07 GMT | The Cybersecurity Risks of Legacy Medical Devices in Healthcare | Eyman Khan | [Read More](https://medium.com/p/6d33631f7480) |
 | Tue, 23 Dec 2025 14:50:51 GMT | Spotify’s 300TB Leak: Biggest Music Archive Ever | Dhanush N | [Read More](https://medium.com/p/f9c9e69fa9a4) |
-| Tue, 23 Dec 2025 14:46:12 GMT | A Secure Closing for Your 2025 — Reflections on Cybersecurity at Year’s End | Cordula Boeck | [Read More](https://medium.com/p/cd19764c90ab) |
-| Tue, 23 Dec 2025 14:44:35 GMT | This Week in Tech: Skills That Are Shaping Careers | Hachion | [Read More](https://medium.com/p/33c661361a7d) |
-| Tue, 23 Dec 2025 14:41:07 GMT | Building My Hybrid Security Lab (Part 4): Extending Defender XDR to SaaS with Microsoft Defender… | Florence Nwizugbe | [Read More](https://medium.com/p/6fa8efb8b329) |
