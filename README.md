@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 23:11:23 GMT | Holiday Vulnerabilities: Notes from a cyberdefender— and How My “Elf” Finally Showed up | Andre N Cardoso | [Read More](https://medium.com/p/a7a5fb7a59a2) |
+| Tue, 23 Dec 2025 23:09:53 GMT | Cyber Resiliency: Why Disaster Recovery Alone Is Failing Modern Businesses | Cyber-AppSec | [Read More](https://medium.com/p/c59d9737419f) |
+| Tue, 23 Dec 2025 22:54:26 GMT | Critical Infrastructure in the European Union | Fatma Erturk | [Read More](https://medium.com/p/1bb151ac6fa2) |
+| Tue, 23 Dec 2025 22:53:38 GMT | PortSwigger Web Security Academy — Lab Write‑Up 4 | 0xM3d0din | [Read More](https://medium.com/p/0699b9fb1243) |
 | Tue, 23 Dec 2025 22:36:37 GMT | Saving a $1M Integration: Why We Pivoted to AWS Transit Gateway | Menelik | [Read More](https://medium.com/p/b4beca501fed) |
 | Tue, 23 Dec 2025 22:24:53 GMT | BankSmarter  - Hack Smarter Walkthrough | WireHawk Security | [Read More](https://medium.com/p/a45bb44ab9b9) |
 | Tue, 23 Dec 2025 22:14:17 GMT | User Access Control Bypass via CMSTP | S12 - 0x12Dark Development | [Read More](https://medium.com/p/07bf78be0ce2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 14:46:12 GMT | A Secure Closing for Your 2025 — Reflections on Cybersecurity at Year’s End | Cordula Boeck | [Read More](https://medium.com/p/cd19764c90ab) |
 | Tue, 23 Dec 2025 14:44:35 GMT | This Week in Tech: Skills That Are Shaping Careers | Hachion | [Read More](https://medium.com/p/33c661361a7d) |
 | Tue, 23 Dec 2025 14:41:07 GMT | Building My Hybrid Security Lab (Part 4): Extending Defender XDR to SaaS with Microsoft Defender… | Florence Nwizugbe | [Read More](https://medium.com/p/6fa8efb8b329) |
-| Tue, 23 Dec 2025 14:29:57 GMT | How I Turned Stored XSS Into Account Takeover: Exploiting WebSocket-Driven Applications | Mohamed Ibrahim | [Read More](https://medium.com/p/dceecbf2276d) |
-| Tue, 23 Dec 2025 14:28:58 GMT | The Terminal Threat | Hello @ Octellient | [Read More](https://medium.com/p/f213f8300f1e) |
-| Tue, 23 Dec 2025 14:27:24 GMT | SSRF for Hackers: How I Think About It + Methods and a Tiny Checklist | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/451ecc6a589a) |
-| Tue, 23 Dec 2025 14:20:20 GMT | Race Condition Bypass After a Fix: How I Exploited It Again | Abhishek Gupta | [Read More](https://medium.com/p/eeadcb4fce09) |
