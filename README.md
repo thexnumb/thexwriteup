@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 01:45:36 GMT | Breaking OAuth 2.0: Vulnerabilities & Exploitation Guide | Fuzzyy Duck | [Read More](https://medium.com/p/d8b5ef009370) |
+| Tue, 23 Dec 2025 01:38:11 GMT | Time-Based SQL Injection: Complete Real-World Bug Bounty Guide | Monika sharma | [Read More](https://medium.com/p/0d38311a4adf) |
+| Tue, 23 Dec 2025 01:37:57 GMT | The OSINT Stack: Tools You Actually Need (and Why) | Aj | [Read More](https://medium.com/p/f1a73eaf68b2) |
+| Tue, 23 Dec 2025 01:32:20 GMT | Fast Guardrails: 10 Layers That Keep Latency Low | Velorum | [Read More](https://medium.com/p/ff7c7ec04f7a) |
+| Tue, 23 Dec 2025 01:30:39 GMT | Game Day Alert! | Roxyrodjrr | [Read More](https://medium.com/p/79ba04541cbc) |
+| Tue, 23 Dec 2025 01:29:48 GMT | Advent of CTF 2025 - DAY 1 | Dargham Ali | [Read More](https://medium.com/p/fc39e9a7a8f3) |
+| Tue, 23 Dec 2025 01:13:30 GMT | Archipelago | Chris Perkins | [Read More](https://medium.com/p/3b22711ada09) |
+| Tue, 23 Dec 2025 00:58:24 GMT | When “Maintenance” Turns Malicious: How VectorGuard Labs Would Have Stopped Aevo’s $2.7M | Pavon Dunbar | [Read More](https://medium.com/p/aae1fe148dbd) |
+| Tue, 23 Dec 2025 00:52:54 GMT | Go to Optimistic Hacker Gaius for the best cryptocurrency recovery firm. | Annamagdalena | [Read More](https://medium.com/p/cc0f5ab6378a) |
+| Tue, 23 Dec 2025 00:50:36 GMT | SOC127 — SQL Injection Detected | Harshprajapati | [Read More](https://medium.com/p/88804a5635ac) |
+| Tue, 23 Dec 2025 00:43:47 GMT | Cyber crime news — ransomware and advanced persistent threat groups | Michael Harms | [Read More](https://medium.com/p/95d47d04a41a) |
+| Tue, 23 Dec 2025 00:25:08 GMT | An ESP32 Script That Monitors My Home Network for Weird Devices | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ff1279fa2441) |
 | Mon, 22 Dec 2025 23:25:29 GMT | Ottno Pulse: The Happy Accident of Radical Transparency | Mike Ortiz | [Read More](https://medium.com/p/f9b40df427ee) |
 | Mon, 22 Dec 2025 23:22:02 GMT | What’s after Phishing? Vishing and Smishing! | Digital Uppercut | [Read More](https://medium.com/p/278d17cb01a5) |
 | Mon, 22 Dec 2025 23:13:21 GMT | Decentralized Edge Architectures: Turning Industrial Sabotage into a Managed Business Risk | Seyed Mohsen Mousavi Maleki | [Read More](https://medium.com/p/a54207499afa) |
@@ -100,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Dec 2025 17:16:12 GMT | Reasons Managed Endpoint Detection and Response Would Be Important | Glenn Merritt | [Read More](https://medium.com/p/5b7c94539e78) |
 | Mon, 22 Dec 2025 17:15:22 GMT | C2 Detection — Command & Carol -Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/0a19ca8f7a4c) |
 | Mon, 22 Dec 2025 17:14:13 GMT | The Essential Data Center Toolkit: Equipment You Need and Why It Matters | Paradise technologies Inc | [Read More](https://medium.com/p/c640288984cd) |
-| Mon, 22 Dec 2025 17:13:46 GMT | Static Security & Privacy Analysis of Sanchar Saathi App (Educational Research) | Saranyo Deyasi | [Read More](https://medium.com/p/1551170860ad) |
-| Mon, 22 Dec 2025 17:11:41 GMT | We Didn’t Think We Were a Target” — The Most Common Sentence After a Cyber Attack | Digital Defense | [Read More](https://medium.com/p/39acc01e7395) |
-| Mon, 22 Dec 2025 17:10:27 GMT | Advent of Cyber 2025 - Day 22: C2 Detection — Command & Carol | D4m.sh | [Read More](https://medium.com/p/3fb9b41408c7) |
-| Mon, 22 Dec 2025 17:04:02 GMT | PortSwigger Web Security Academy — Lab Write-Up 3 | 0xM3d0din | [Read More](https://medium.com/p/2fcd98a5b7c1) |
-| Mon, 22 Dec 2025 17:02:52 GMT | pfSense VirtualBox Lab Guide: Hands-On Cybersecurity Setup | Dipesh Paul | [Read More](https://medium.com/p/bffa8483c0b6) |
-| Mon, 22 Dec 2025 16:56:21 GMT | URGENT: Delhi Airport’s GPS Failure Wasn’t a Glitch | Bhawini. | [Read More](https://medium.com/p/d0651de53d08) |
-| Mon, 22 Dec 2025 16:55:26 GMT | Night at the Museum - Fahemsec | Adhamkhairy | [Read More](https://medium.com/p/438e16dca94c) |
-| Mon, 22 Dec 2025 16:50:17 GMT | Why Cybersecurity Fails Even After Heavy Investment
-Introduction
-Organizations today spend more on… | Ankit rai | [Read More](https://medium.com/p/2da85ebcf1fc) |
-| Mon, 22 Dec 2025 16:46:38 GMT | C2 Detection Day 22 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/1ed35908c7ae) |
-| Mon, 22 Dec 2025 16:42:12 GMT | The Quiet Brain Behind Security Operations: How AI Manages the Workforce Without the Noise | Teona | [Read More](https://medium.com/p/24366d853caa) |
-| Mon, 22 Dec 2025 16:39:12 GMT | Everyday Online Scams And How To Stop Them Cold | Geoffrey Wenger | [Read More](https://medium.com/p/38fd6a1ea326) |
-| Mon, 22 Dec 2025 16:38:20 GMT | Perimeter Security Systems: Complete Guide for Commercial & Residential Properties | Fortnexs Shield | [Read More](https://medium.com/p/bd3086117d22) |
