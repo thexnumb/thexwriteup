@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 13:32:18 GMT | The Hidden Beginner’s Map to a $10,000 Bug Bounty | Codi | [Read More](https://medium.com/p/addcf6607714) |
+| Tue, 23 Dec 2025 13:19:29 GMT | Retry Budgets + Backoff: Stop Verify Loops Caused by Retry Storms | BitMirage | [Read More](https://medium.com/p/bd7fb866e7a9) |
+| Tue, 23 Dec 2025 13:15:56 GMT | AI Bubble Politics? Or A Preview To The Future | Kaushik Bhorjar | [Read More](https://medium.com/p/7d066c6eab77) |
+| Tue, 23 Dec 2025 13:15:17 GMT | Why are BEC and CEO Fraud Attacks Successful — Definition, Methods, Prevention | TrustRacer | [Read More](https://medium.com/p/0715a5da0dd7) |
+| Tue, 23 Dec 2025 13:13:18 GMT | My Ubuntu Linux MiniPC Suddenly Ran Out Of Memory and Crashed | Basil A. | [Read More](https://medium.com/p/1913fa5889d3) |
+| Tue, 23 Dec 2025 13:01:45 GMT | Day 23 — Secure By Design (Black Forest Shadow) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/4456f3920ccd) |
+| Tue, 23 Dec 2025 13:00:55 GMT | Why Smartphones Are the Most Valuable Target in Cybercrime Today | ANSI Technologies | [Read More](https://medium.com/p/2e3703597a71) |
+| Tue, 23 Dec 2025 13:00:21 GMT | I Tried Filling Out a Simple Contact Form and Discovered a Stored XSS in the Wild | Munna✨ | [Read More](https://medium.com/p/f777dec6369e) |
+| Tue, 23 Dec 2025 12:58:14 GMT | How Secure Is Your React App? A Frontend Developer’s Guide to Data Security | Sulman Ahmed | [Read More](https://medium.com/p/0cdf743d9514) |
+| Tue, 23 Dec 2025 12:55:13 GMT | How Santa Claus Solved the World’s Hardest Logistics and Cybersecurity Problem | Abatis ABTU | [Read More](https://medium.com/p/23a747c10955) |
 | Tue, 23 Dec 2025 12:49:25 GMT | How I Built a Production Home Lab from E-Waste (With 2GB RAM) | Raihan shamnad | [Read More](https://medium.com/p/b882c21cf781) |
+| Tue, 23 Dec 2025 12:49:24 GMT | “Bug Bounty Bootcamp #3: How the Internet Really Works (A Hacker’s Map)” | Aman Sharma | [Read More](https://medium.com/p/3c16b59a5e84) |
+| Tue, 23 Dec 2025 12:49:10 GMT | Digital Identity Is the Front Line | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/2ae8ab0329fb) |
 | Tue, 23 Dec 2025 12:35:28 GMT | Understanding CMMC Complaince | Zach Morin | [Read More](https://medium.com/p/f6c45068eec6) |
 | Tue, 23 Dec 2025 12:23:15 GMT | Welcome to Code Of School — Java with AI (Future ka Combo ) | deepanshu Rode | [Read More](https://medium.com/p/6dc05e0b90e6) |
 | Tue, 23 Dec 2025 12:19:04 GMT | Torrijas — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/5892af79c220) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 07:33:02 GMT | How ACSMI Helps Professionals Transition into Cybersecurity Careers | ACSMI | [Read More](https://medium.com/p/8b14ba748a01) |
 | Tue, 23 Dec 2025 07:29:15 GMT | full Stack Development Course in Rohini | NITI | [Read More](https://medium.com/p/5f6446aab738) |
 | Tue, 23 Dec 2025 07:25:47 GMT | Vulnerability vs Exploit: Know the Gap Between Weakness and Attack | Aj | [Read More](https://medium.com/p/3a8056b6620c) |
-| Tue, 23 Dec 2025 07:23:45 GMT | Rooting Android in 2025 — Power, Control, and the Fine Line of Security | Ssolosssolo | [Read More](https://medium.com/p/c4df855af970) |
-| Tue, 23 Dec 2025 07:23:17 GMT | Kotlin vs. Java: Choosing the Best Language for Backend Development (2025–2026) | Amin Softtech | [Read More](https://medium.com/p/e2b543f8829f) |
-| Tue, 23 Dec 2025 07:23:14 GMT | Flashing New Firmware on Android — Breathing New Life into Old Devices | Ssolosssolo | [Read More](https://medium.com/p/cf7a09aed798) |
-| Tue, 23 Dec 2025 07:21:39 GMT | Benefits of Hiring Local Private Security Company in Atlanta | Reliable Security Staffing | [Read More](https://medium.com/p/596732e44a6d) |
-| Tue, 23 Dec 2025 07:18:29 GMT | The Smart Dual Light Revolution in Security | Mahdiyar | [Read More](https://medium.com/p/92b0834c3f36) |
-| Tue, 23 Dec 2025 07:03:59 GMT | Top 20 Tools Hackers Use to Track You Across the Internet: Master What’s Following You | Very Lazy Tech | [Read More](https://medium.com/p/b6a159b8bbeb) |
-| Tue, 23 Dec 2025 06:58:24 GMT | How I Found Vulnerabilities in NASA and Got into the Hall of Fame | arashiyan | [Read More](https://medium.com/p/c8870bf65420) |
-| Tue, 23 Dec 2025 06:57:38 GMT | Data Breaches & Leaked Databases: When Our Digital Lives Spill into the Open | Karan Sonawane | [Read More](https://medium.com/p/432ef5f411a0) |
-| Tue, 23 Dec 2025 06:56:25 GMT | C2 Detection — Command & Carol | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/7350242fd170) |
-| Tue, 23 Dec 2025 06:54:44 GMT | When “Login” Was Enough: How a Single Click Compromised an Application | Dealonzius | [Read More](https://medium.com/p/2b4578798557) |
-| Tue, 23 Dec 2025 06:54:36 GMT | PicoCTF Problem: Cookie Monster Secret Recipe — Writeup | Aman Barolia | [Read More](https://medium.com/p/b03a52ca5d14) |
-| Tue, 23 Dec 2025 06:47:40 GMT | How I Leverage AI as a Cyber Security Practitioner in Daily Operations | Trian | [Read More](https://medium.com/p/c79dc0b5c6c7) |
