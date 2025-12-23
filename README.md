@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 10:47:07 GMT | Proactive Network Threat Simulation for Enterprise Resilience | Cyber Fortify | [Read More](https://medium.com/p/2cebc8eb78a0) |
+| Tue, 23 Dec 2025 10:44:12 GMT | eJPT Prep: Host & Network Penetration Testing: Exploitation CTF 3 — Lab Walkthrough | Omar Maged Ahmed | [Read More](https://medium.com/p/1dd75c037f49) |
+| Tue, 23 Dec 2025 10:34:27 GMT | TryHackME VM: Agent T | Justin Jude Cabodil | [Read More](https://medium.com/p/c5326e1a7c6b) |
+| Tue, 23 Dec 2025 10:34:02 GMT | siapa itu alzzcracker? | Dzone | [Read More](https://medium.com/p/74945202fa0b) |
+| Tue, 23 Dec 2025 10:32:55 GMT | Nissan Confirms Thousands of Customers Exposed in Red Hat Security Breach | Technijian | [Read More](https://medium.com/p/55a6523be0d2) |
+| Tue, 23 Dec 2025 10:32:19 GMT | Return-Path Explained: The Hidden Email Address That Controls Bounces and Security | Natarajan C K | [Read More](https://medium.com/p/8a7e4945fc6d) |
+| Tue, 23 Dec 2025 10:28:18 GMT | Random Is Not Same as Unpredictable in Python | Pratiyush Prakash | [Read More](https://medium.com/p/cb3888b3ff48) |
+| Tue, 23 Dec 2025 10:26:19 GMT | 7 Ruthless Ways to Stop AI-Powered Phishing in 2025 | Pentest_Testing_Corp | [Read More](https://medium.com/p/37b7e5b0c462) |
+| Tue, 23 Dec 2025 10:26:04 GMT | Preparing for the Quantum Apocalypse: The End of Classical Cryptography… | Kerem Işık | [Read More](https://medium.com/p/9e4ffdabcec9) |
+| Tue, 23 Dec 2025 10:25:39 GMT | A Complete Guide to Cyber Security Services in Canada for Businesses | Prakash Factosecure | [Read More](https://medium.com/p/e049f379c744) |
+| Tue, 23 Dec 2025 10:20:20 GMT | Designing a Secure CI/CD Pipeline for Fintech Systems | Olawale Aro | [Read More](https://medium.com/p/dcae0951336d) |
 | Tue, 23 Dec 2025 10:17:36 GMT | Best New Year Cybersecurity Certification Deals | cyber security Updates | [Read More](https://medium.com/p/f594a77e3d91) |
 | Tue, 23 Dec 2025 10:13:58 GMT | PicoCTF Writeup — Sleuthkit Intro | flix | [Read More](https://medium.com/p/3b35c484145e) |
 | Tue, 23 Dec 2025 10:13:22 GMT | PicoCTF Writeup — Big Zip | flix | [Read More](https://medium.com/p/feb1125af9f9) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 05:11:43 GMT | Unlocking the Power of Sherlock: Advanced OSINT Tactics for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/cfd37acf77f5) |
 | Tue, 23 Dec 2025 05:08:17 GMT | Understanding the Role of a Privacy Impact Assessment | Digital Duffer | [Read More](https://medium.com/p/67bd139a90eb) |
 | Tue, 23 Dec 2025 05:07:31 GMT | Benefits of Privacy Impact Assessment | Digital Duffer | [Read More](https://medium.com/p/1b4cf14d083c) |
-| Tue, 23 Dec 2025 05:02:21 GMT | Why Cybersecurity Is the New Business Priority — Not Just an IT Concern | F9 Infotech | [Read More](https://medium.com/p/c6f9e849bf04) |
-| Tue, 23 Dec 2025 05:01:46 GMT | SpyX Stalkware: The Controversial Monitoring App That Exposed Millions | RayasWeb | [Read More](https://medium.com/p/95417f38d3cb) |
-| Tue, 23 Dec 2025 04:59:59 GMT | How I Found a Critical 2FA Misconfiguration and Earned a $2000 Bug Bounty | Ravindra | [Read More](https://medium.com/p/d1ed934dffec) |
-| Tue, 23 Dec 2025 04:51:31 GMT | Why Good Software Takes Time: Understanding the Real Journey Behind Quality Development | Tech Immortals | [Read More](https://medium.com/p/64845ee0f5db) |
-| Tue, 23 Dec 2025 04:44:27 GMT | Fundamentals of Computer Networks | Ragulnath M B | [Read More](https://medium.com/p/ae4cd6d760ce) |
-| Tue, 23 Dec 2025 04:35:11 GMT | Career Roadmap: Building Your IT Foundation | Sec Guy | [Read More](https://medium.com/p/a4e8b96b4334) |
-| Tue, 23 Dec 2025 04:32:22 GMT | Why Most Security Automation Fails in Production | Shubh Gupta | [Read More](https://medium.com/p/bfd6de801959) |
-| Tue, 23 Dec 2025 04:22:41 GMT | [HackSmarter.org Write-up] Sysco (AS-REP Roasting, Cisco secret 5, GPO Immediate Task) | Chicken0248 | [Read More](https://medium.com/p/863b39c306a8) |
-| Tue, 23 Dec 2025 04:22:21 GMT | Firewall and Intrusion Detection Systems: The First Line of Defense in Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/fbf7c5cb234b) |
-| Tue, 23 Dec 2025 04:18:50 GMT | [HackSmarter.org Write-up] NorthBridge Systems (WAR to RBCD, DPAPI, Backup Operators, DCSync) | Chicken0248 | [Read More](https://medium.com/p/972612e5ee36) |
-| Tue, 23 Dec 2025 04:08:10 GMT | Why Smart Fleet Managers Are Racing to Install Advanced Security Systems Before 2026 | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/a752c2e49ec9) |
