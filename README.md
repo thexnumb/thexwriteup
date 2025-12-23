@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 15:06:34 GMT | Google Cloud + Palo Alto Networks: The $10 Billion Security Deal That Changes Everything for… | inboryn | [Read More](https://medium.com/p/86ef488c8faf) |
+| Tue, 23 Dec 2025 15:05:31 GMT | Why Private Offensive Cyber Operations Are the Wrong Answer | Phil Stafford | [Read More](https://medium.com/p/495b1c5610df) |
+| Tue, 23 Dec 2025 15:02:27 GMT | Simon Hardy: Many Projects Are Just Telling Stories with AI, Nivex Uses AI from the Ground Up… | Netra Media | [Read More](https://medium.com/p/1343c5b43e33) |
+| Tue, 23 Dec 2025 15:02:27 GMT | Cyber Briefing: 2025.12.23 | CyberMaterial | [Read More](https://medium.com/p/04c925735cfe) |
+| Tue, 23 Dec 2025 15:00:18 GMT | This Is What Our Ongoing Cyber Partnership Looks Like — A Visual Guide to Our Managed Services | Fook Hwa Tan | [Read More](https://medium.com/p/8afdf24dd456) |
+| Tue, 23 Dec 2025 14:58:57 GMT | How We Contained a Threat and Rebuilt Trust in 48 Hours (An anonymised real-world story) | Fook Hwa Tan | [Read More](https://medium.com/p/723a275875fc) |
+| Tue, 23 Dec 2025 14:55:07 GMT | The Cybersecurity Risks of Legacy Medical Devices in Healthcare | Eyman Khan | [Read More](https://medium.com/p/6d33631f7480) |
+| Tue, 23 Dec 2025 14:50:51 GMT | Spotify’s 300TB Leak: Biggest Music Archive Ever | Dhanush N | [Read More](https://medium.com/p/f9c9e69fa9a4) |
+| Tue, 23 Dec 2025 14:46:12 GMT | A Secure Closing for Your 2025 — Reflections on Cybersecurity at Year’s End | Cordula Boeck | [Read More](https://medium.com/p/cd19764c90ab) |
+| Tue, 23 Dec 2025 14:44:35 GMT | This Week in Tech: Skills That Are Shaping Careers | Hachion | [Read More](https://medium.com/p/33c661361a7d) |
+| Tue, 23 Dec 2025 14:41:07 GMT | Building My Hybrid Security Lab (Part 4): Extending Defender XDR to SaaS with Microsoft Defender… | Florence Nwizugbe | [Read More](https://medium.com/p/6fa8efb8b329) |
 | Tue, 23 Dec 2025 14:29:57 GMT | How I Turned Stored XSS Into Account Takeover: Exploiting WebSocket-Driven Applications | Mohamed Ibrahim | [Read More](https://medium.com/p/dceecbf2276d) |
 | Tue, 23 Dec 2025 14:28:58 GMT | The Terminal Threat | Hello @ Octellient | [Read More](https://medium.com/p/f213f8300f1e) |
 | Tue, 23 Dec 2025 14:27:24 GMT | SSRF for Hackers: How I Think About It + Methods and a Tiny Checklist | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/451ecc6a589a) |
@@ -31,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 13:53:35 GMT | Zero-Click Attacks in the Age of Agentic AI | Jacob George | [Read More](https://medium.com/p/a50fcfea4482) |
 | Tue, 23 Dec 2025 13:51:43 GMT | เรียนรู้การทำ Penetration Testing ด้วยตัวเอง — EP#02 | MisterB | [Read More](https://medium.com/p/94813ddfabb6) |
 | Tue, 23 Dec 2025 13:49:28 GMT | React2Shell Exploit  CVE-2025–55182 Bug Bounty Guide | Harshad Shah | [Read More](https://medium.com/p/44c6130b7a7f) |
+| Tue, 23 Dec 2025 13:44:53 GMT | I Tried to Secure My Accounts for One Week. Here’s What Changed | pavani | [Read More](https://medium.com/p/9c97e41f04db) |
 | Tue, 23 Dec 2025 13:35:15 GMT | 10 Measures I Take to Protect My Online Privacy | June Bright | [Read More](https://medium.com/p/9b370d18607d) |
 | Tue, 23 Dec 2025 13:32:29 GMT | Securing AI Integrations: Tackling MCP Security Vulnerabilities in Production | ByteBridge | [Read More](https://medium.com/p/424114443736) |
 | Tue, 23 Dec 2025 13:32:18 GMT | The Hidden Beginner’s Map to a $10,000 Bug Bounty | Codi | [Read More](https://medium.com/p/addcf6607714) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 09:51:03 GMT | Top Plants That Repel Mosquitoes For A Bug-Free Garden. | PlantoraApp | [Read More](https://medium.com/p/8ae77ff05d39) |
 | Tue, 23 Dec 2025 09:48:31 GMT | TryHackMe: CherryBlossom Writeup | cbev | [Read More](https://medium.com/p/ccbd40fafcbd) |
 | Tue, 23 Dec 2025 09:47:41 GMT | Hacking Series (Part 10): DoS & DDoS Attacks — How Systems Are Taken Down (And How to Defend… | Cyber Wolf | [Read More](https://medium.com/p/21ff02a134d5) |
-| Tue, 23 Dec 2025 09:47:28 GMT | Feedback VM Walkthrough | Spookz | [Read More](https://medium.com/p/6e66721fa0b5) |
-| Tue, 23 Dec 2025 09:39:29 GMT | Blockchain‑Based Digital Identity For The Underserved | Mwenda Kelvin | [Read More](https://medium.com/p/3c75462d1a6a) |
-| Tue, 23 Dec 2025 09:37:08 GMT | THE WAR ROOM: A POST-MORTEM OF EARTH’S DIGITAL VITALS-6 | Cruz | [Read More](https://medium.com/p/8c87742ad5b3) |
-| Tue, 23 Dec 2025 09:33:01 GMT | Syscalls vs Modern AV/EDR in 2025: The Myth, the Reality, and What Actually Matters | Yua Mikanana | [Read More](https://medium.com/p/9baf0c17bb7a) |
-| Tue, 23 Dec 2025 09:27:33 GMT | When Toasters Attack: Deconstructing the Mirai Botnet and the Dyn DNS Outage | The Kernel Hub | [Read More](https://medium.com/p/37cbca28ca14) |
-| Tue, 23 Dec 2025 09:27:04 GMT | A Security Breach That Never Happened Because Someone Saw It Early | Forefront Technology International Inc. | [Read More](https://medium.com/p/266f6a4f7418) |
-| Tue, 23 Dec 2025 09:26:23 GMT | The Role of AI in Detecting and Responding to Cyber Threats | Rahman Iqbal | [Read More](https://medium.com/p/836daae49046) |
-| Tue, 23 Dec 2025 09:11:14 GMT | Why the ACLU Is Worried About WhatsApp’s New AI Features | Nanthakumar | [Read More](https://medium.com/p/0dee88d8cfe8) |
-| Tue, 23 Dec 2025 09:08:47 GMT | Cybersecurity Skills That Actually Increase Your Salary | Muhammad Haider Tallal | [Read More](https://medium.com/p/1d753f941550) |
-| Tue, 23 Dec 2025 08:54:28 GMT | Edge Data Centres in Bahrain Need Advanced Intrusion Tech | Tekshoyabeelyas | [Read More](https://medium.com/p/45ea87533e7d) |
-| Tue, 23 Dec 2025 08:49:44 GMT | AI 販賣機的慘敗：資安專家眼中的 Prompt Injection 終極壓力測試 | p1x06u9 | [Read More](https://medium.com/p/ce492d437d29) |
-| Tue, 23 Dec 2025 08:36:34 GMT | The Daily Tech Digest: 23 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e4480155fba5) |
