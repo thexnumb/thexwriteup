@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 14:20:20 GMT | Race Condition Bypass After a Fix: How I Exploited It Again | Abhishek Gupta | [Read More](https://medium.com/p/eeadcb4fce09) |
+| Tue, 23 Dec 2025 14:15:13 GMT | Try Hack Me- Madness Walkthrough | PulseEinher | [Read More](https://medium.com/p/5d3c804bd61f) |
+| Tue, 23 Dec 2025 14:10:05 GMT | Building a Globally Ranked Tech Enterprise from the Hills of Kerala. | Akash PS - Elite Ethical Hacker | [Read More](https://medium.com/p/a3049e8c5c23) |
+| Tue, 23 Dec 2025 14:03:46 GMT | Dread Forum: The Reddit of the Dark Web | adityaax | [Read More](https://medium.com/p/afabcee4dbbe) |
+| Tue, 23 Dec 2025 14:02:50 GMT | Why Running Containers as Root Is Risky — Use Rootless Containers Instead | Metta Surendhar | [Read More](https://medium.com/p/af19e412eb6b) |
+| Tue, 23 Dec 2025 14:02:48 GMT | Logs Don’t Prevent Incidents — They Explain Them | Faruk Ahmed | [Read More](https://medium.com/p/7fdd374530d1) |
+| Tue, 23 Dec 2025 14:02:45 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/2ac95657f229) |
+| Tue, 23 Dec 2025 14:02:40 GMT | What is Cyber Security? A beginner’s Guide | Shwetawrites | [Read More](https://medium.com/p/527ae657e91e) |
+| Tue, 23 Dec 2025 14:02:31 GMT | The New Naval Giants: Magnificent Weapons for a World That No Longer Exists. | Berend Watchus | [Read More](https://medium.com/p/e6288116cf6e) |
+| Tue, 23 Dec 2025 13:57:49 GMT | Platform Engineering Security Is Not One Tool | Salwan Mohamed | [Read More](https://medium.com/p/66eb8da88f44) |
+| Tue, 23 Dec 2025 13:55:54 GMT | FOXY- BTLO Walkthrough | Jagadishtripathy | [Read More](https://medium.com/p/0c88c32bdc20) |
+| Tue, 23 Dec 2025 13:55:35 GMT | Belgium’s Power Went Silent Online | O. J. Okpabi | [Read More](https://medium.com/p/c3bbdc9afce2) |
+| Tue, 23 Dec 2025 13:54:34 GMT | PowerShell: Windows Most Powerful Tool Nobody Uses | MouhibMahadbi | [Read More](https://medium.com/p/743a0242f5de) |
+| Tue, 23 Dec 2025 13:53:35 GMT | Zero-Click Attacks in the Age of Agentic AI | Jacob George | [Read More](https://medium.com/p/a50fcfea4482) |
+| Tue, 23 Dec 2025 13:51:43 GMT | เรียนรู้การทำ Penetration Testing ด้วยตัวเอง — EP#02 | MisterB | [Read More](https://medium.com/p/94813ddfabb6) |
+| Tue, 23 Dec 2025 13:49:28 GMT | React2Shell Exploit  CVE-2025–55182 Bug Bounty Guide | Harshad Shah | [Read More](https://medium.com/p/44c6130b7a7f) |
+| Tue, 23 Dec 2025 13:35:15 GMT | 10 Measures I Take to Protect My Online Privacy | June Bright | [Read More](https://medium.com/p/9b370d18607d) |
+| Tue, 23 Dec 2025 13:32:29 GMT | Securing AI Integrations: Tackling MCP Security Vulnerabilities in Production | ByteBridge | [Read More](https://medium.com/p/424114443736) |
 | Tue, 23 Dec 2025 13:32:18 GMT | The Hidden Beginner’s Map to a $10,000 Bug Bounty | Codi | [Read More](https://medium.com/p/addcf6607714) |
 | Tue, 23 Dec 2025 13:19:29 GMT | Retry Budgets + Backoff: Stop Verify Loops Caused by Retry Storms | BitMirage | [Read More](https://medium.com/p/bd7fb866e7a9) |
 | Tue, 23 Dec 2025 13:15:56 GMT | AI Bubble Politics? Or A Preview To The Future | Kaushik Bhorjar | [Read More](https://medium.com/p/7d066c6eab77) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 08:35:56 GMT | Blockchain for Enterprise Security and Decentralized Finance: The Future of Trust | Devarshi Acharya | [Read More](https://medium.com/p/7b62913eb567) |
 | Tue, 23 Dec 2025 08:31:36 GMT | Understanding the Playing Field: Environmental and Strategic Analysis of Cyber Insurance in Iran | Armin Mehraeen | [Read More](https://medium.com/p/240046b7363d) |
 | Tue, 23 Dec 2025 08:31:10 GMT | IDOR in ‘stuno’ parameter leading to unauthorized data exposure | akili | [Read More](https://medium.com/p/8a9d3068b196) |
-| Tue, 23 Dec 2025 08:30:35 GMT | From Threats to Strategy: Practical Takeaways for Insurance Executives | Armin Mehraeen | [Read More](https://medium.com/p/4db51df7f02b) |
-| Tue, 23 Dec 2025 08:28:02 GMT | THE NULL POINT KILLER | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/129c20501887) |
-| Tue, 23 Dec 2025 08:26:41 GMT | Navigating the Cybersecurity Talent Shortage in Critical Infrastructure | laiq ahmad | [Read More](https://medium.com/p/f779321c4a29) |
-| Tue, 23 Dec 2025 08:23:59 GMT | Study in Australia — Top International Universities & Opportunities | royalinternational | [Read More](https://medium.com/p/11df36ebe2cb) |
-| Tue, 23 Dec 2025 08:21:13 GMT | THE MAN YOU MISREAD —PART TWO | Shahram 'Caveman' Zargari | [Read More](https://medium.com/p/89cd6024b83e) |
-| Tue, 23 Dec 2025 08:17:36 GMT | YARA in Practice | Sadineni Sai Sushanth | [Read More](https://medium.com/p/f84cfbca98c5) |
-| Tue, 23 Dec 2025 08:14:28 GMT | Why Verified Security Standards Matter for Vendor Approval | Kadhijahafiya | [Read More](https://medium.com/p/54c69802a7e9) |
-| Tue, 23 Dec 2025 08:05:18 GMT | Think You’re Private Online? OSINT Says Otherwise | Secuverse | [Read More](https://medium.com/p/3cca2158c49d) |
-| Tue, 23 Dec 2025 08:00:43 GMT | Notes on Attachment | Lauren Mills | [Read More](https://medium.com/p/b7cc6b1287e8) |
-| Tue, 23 Dec 2025 07:59:44 GMT | OpenAI warns AI browsers may never be fully secure against prompt injection attacks | Bintu's Art and Everything | [Read More](https://medium.com/p/641e022b7257) |
-| Tue, 23 Dec 2025 07:55:27 GMT | Web Application Penetration Testing Report | Ibrahim Sheikh | [Read More](https://medium.com/p/87f80e355c9f) |
-| Tue, 23 Dec 2025 07:54:48 GMT | Elevate Your Mobile Experience: The Definitive Guide to Smartphone Launchers in 2025 | pulsebangladesh | [Read More](https://medium.com/p/ea6b3924b591) |
-| Tue, 23 Dec 2025 07:49:53 GMT | The “Megazord” Mutation: Why the Akira Ransomware Surge Will Bankrupt You | The Kernel Hub | [Read More](https://medium.com/p/9a0405e7624e) |
-| Tue, 23 Dec 2025 07:45:37 GMT | LAN (Local Area Network) Nedir? | Melih Yalnız | [Read More](https://medium.com/p/e0b5b367d3fe) |
-| Tue, 23 Dec 2025 07:43:20 GMT | Integrating Shodan with HexStrike-AI Using Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/b6f9fcbe8e6e) |
-| Tue, 23 Dec 2025 07:33:02 GMT | How ACSMI Helps Professionals Transition into Cybersecurity Careers | ACSMI | [Read More](https://medium.com/p/8b14ba748a01) |
-| Tue, 23 Dec 2025 07:29:15 GMT | full Stack Development Course in Rohini | NITI | [Read More](https://medium.com/p/5f6446aab738) |
-| Tue, 23 Dec 2025 07:25:47 GMT | Vulnerability vs Exploit: Know the Gap Between Weakness and Attack | Aj | [Read More](https://medium.com/p/3a8056b6620c) |
