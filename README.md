@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 18:33:21 GMT | The Day I Found a Prometheus Node Exporter Exposed to the Internet — And Why It Revealed More… | Anshubind | [Read More](https://medium.com/p/1841acd4496b) |
+| Tue, 23 Dec 2025 18:32:40 GMT | The Night I Found a Backup ZIP File Sitting in Plain Sight — And Why It Could Have Exposed Far… | Anshubind | [Read More](https://medium.com/p/5edfb2fdabde) |
+| Tue, 23 Dec 2025 18:26:30 GMT | Certified Ethical Hacker — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/4e172ef25c20) |
+| Tue, 23 Dec 2025 18:13:47 GMT | Essential Security Features to Implement Before Deploying Any Backend Project | Istekhar | [Read More](https://medium.com/p/2b0281dbece0) |
+| Tue, 23 Dec 2025 18:12:41 GMT | Ethical Hacking Is Not About Breaking In, It Is About Understanding Why Systems Fail | Kambetastephano | [Read More](https://medium.com/p/8f4b3f0f3a58) |
+| Tue, 23 Dec 2025 18:12:15 GMT | Cybersecurity: A Comprehensive, In-Depth Guide to Digital Protection in the Modern World | Arbsbuy LLC | [Read More](https://medium.com/p/bc509b7537dc) |
+| Tue, 23 Dec 2025 17:57:40 GMT | Chaining an Authorized Signer Flow Into a Full Account Takeover | Dhane Ashley Diabajo | [Read More](https://medium.com/p/9e803a7e476f) |
+| Tue, 23 Dec 2025 17:57:14 GMT | I Wasn’t Healed Yet. Here’s What Finally Helped | Gary L Ellis | [Read More](https://medium.com/p/d8896aebf030) |
+| Tue, 23 Dec 2025 17:55:24 GMT | Independent Vendor Shops on the Dark Web: How They Work | Tor BBB | [Read More](https://medium.com/p/b17933422b5d) |
+| Tue, 23 Dec 2025 17:47:21 GMT | The Cryptography Concept Journey — OTP (One Time Pad) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/33ed7e29e7a4) |
+| Tue, 23 Dec 2025 17:46:19 GMT | The Danger of Simplicity: How a Default Credential Led to Full Account Access | Samet Yiğit | [Read More](https://medium.com/p/c47afe8c2724) |
 | Tue, 23 Dec 2025 17:38:54 GMT | AI Security: Defending Against the Next Generation of Cyber Threats | Nayan Goel | [Read More](https://medium.com/p/777849c35e93) |
 | Tue, 23 Dec 2025 17:38:27 GMT | Cybersecurity Isn’t Just an IT Issue — It’s a Leadership Challenge | Digital Defense | [Read More](https://medium.com/p/fb4f4471ddb0) |
 | Tue, 23 Dec 2025 17:37:11 GMT | Free life | Sakhi Writes | [Read More](https://medium.com/p/59f0e726183f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 12:16:32 GMT | 10 Must-Have AI Certifications for Career Growth in 2025 | Tejaswini Naresh IT | [Read More](https://medium.com/p/8254a852fec5) |
 | Tue, 23 Dec 2025 12:09:41 GMT | [AD攻防] Pass the Hash攻擊 | 陳禹璿 | [Read More](https://medium.com/p/7f1712bb87b6) |
 | Tue, 23 Dec 2025 12:08:49 GMT | Things I Learned at a recent AI Security Meetup | Anand Prabhat | [Read More](https://medium.com/p/03e4143b024d) |
-| Tue, 23 Dec 2025 12:05:36 GMT | Passed PCA+PCNE+PCSE this year | Alexander Tyutin | [Read More](https://medium.com/p/e2f566a385df) |
-| Tue, 23 Dec 2025 11:59:33 GMT | AI Enabled Public Intelligence for Government Risk Analysis | Knowlesys Software Inc. | [Read More](https://medium.com/p/3122d44b2b14) |
-| Tue, 23 Dec 2025 11:59:28 GMT | Cybersecurity: Understanding Drive Sanitization in Linux: From File Deletion to Full Data… | Ramandeep Bagri | [Read More](https://medium.com/p/2a14321fe135) |
-| Tue, 23 Dec 2025 11:52:18 GMT | Healing from the Belief That You’re Hard to Love | Inspire: Viva La Vida | [Read More](https://medium.com/p/fe640e08dac4) |
-| Tue, 23 Dec 2025 11:46:51 GMT | I Found an $125 Email HTML Injection Just After My Previous Bug — Here’s Exactly How It Happened | Zer0Figure | [Read More](https://medium.com/p/329ec73ef451) |
-| Tue, 23 Dec 2025 11:42:27 GMT | LOLBAS Alert’leri: Ne Zaman Müdahale Gerekir? | İremDamar | [Read More](https://medium.com/p/319bcabfd2c2) |
-| Tue, 23 Dec 2025 11:40:17 GMT | PECB Cybersecurity Certification in 2026 at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/8b9a54571863) |
-| Tue, 23 Dec 2025 11:32:03 GMT | Vendor Risk Hell — How Third-Party Apps Quietly Destroy Your Security Posture | JSOC IT BLOG | [Read More](https://medium.com/p/b752ba0f1bbe) |
-| Tue, 23 Dec 2025 11:30:13 GMT | Security Consulting Services: Why Choosing a Top Security Service Provider in India Matters | Ciss India | [Read More](https://medium.com/p/6bc24d48f174) |
-| Tue, 23 Dec 2025 11:25:05 GMT | Why Sharing Private Photos With Loved Ones Is Often the Biggest Risk | CVOR | [Read More](https://medium.com/p/2a271ba0454e) |
-| Tue, 23 Dec 2025 11:18:15 GMT | The Future is Watching: Top Benefits of AI-Based Industrial Surveillance Systems for Factories | Dolon Ghosh | [Read More](https://medium.com/p/ab0e9b6a82dc) |
