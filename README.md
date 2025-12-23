@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 20:38:05 GMT | The Importance of Cybersecurity in Your Company — Partnering with DVIUS | Biteris Companies | [Read More](https://medium.com/p/48f28b56d536) |
+| Tue, 23 Dec 2025 20:36:00 GMT | Building a Lightweight SSO System | Mine Kaya | [Read More](https://medium.com/p/414d229b0b31) |
+| Tue, 23 Dec 2025 20:26:08 GMT | Clear Your Cookies - Dog Years | Julio Oña | [Read More](https://medium.com/p/e59cb7a29f41) |
+| Tue, 23 Dec 2025 20:25:50 GMT | From “Add User” to Root: A 4-Digit Bug Bounty Command Injection | Yaseen Zubair | [Read More](https://medium.com/p/e436acd547a3) |
 | Tue, 23 Dec 2025 20:12:07 GMT | How I got my first Cybersecurity Internship in Canada | Sparsh Ladani | [Read More](https://medium.com/p/0f291347af36) |
 | Tue, 23 Dec 2025 20:11:15 GMT | Will AI Replace Doctors? My Honest Opinion From the Frontline | Foreign Doctor Life | [Read More](https://medium.com/p/6bcbcb713da5) |
 | Tue, 23 Dec 2025 19:51:51 GMT | What Is Business Impact Assessment for IT Infrastructure? | Shandeep KM | [Read More](https://medium.com/p/80d6341e92a0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 13:55:35 GMT | Belgium’s Power Went Silent Online | O. J. Okpabi | [Read More](https://medium.com/p/c3bbdc9afce2) |
 | Tue, 23 Dec 2025 13:54:34 GMT | PowerShell: Windows Most Powerful Tool Nobody Uses | MouhibMahadbi | [Read More](https://medium.com/p/743a0242f5de) |
 | Tue, 23 Dec 2025 13:53:35 GMT | Zero-Click Attacks in the Age of Agentic AI | Jacob George | [Read More](https://medium.com/p/a50fcfea4482) |
-| Tue, 23 Dec 2025 13:51:43 GMT | เรียนรู้การทำ Penetration Testing ด้วยตัวเอง — EP#02 | MisterB | [Read More](https://medium.com/p/94813ddfabb6) |
-| Tue, 23 Dec 2025 13:49:28 GMT | React2Shell Exploit  CVE-2025–55182 Bug Bounty Guide | Harshad Shah | [Read More](https://medium.com/p/44c6130b7a7f) |
-| Tue, 23 Dec 2025 13:44:53 GMT | I Tried to Secure My Accounts for One Week. Here’s What Changed | pavani | [Read More](https://medium.com/p/9c97e41f04db) |
-| Tue, 23 Dec 2025 13:35:15 GMT | 10 Measures I Take to Protect My Online Privacy | June Bright | [Read More](https://medium.com/p/9b370d18607d) |
