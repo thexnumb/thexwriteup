@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Dec 2025 19:30:39 GMT | Hacking Smarter Not Harder, My Ride with HexStrike AI | sudo whoami | [Read More](https://medium.com/p/b48e7a3bca9c) |
 | Tue, 23 Dec 2025 19:14:38 GMT | How We Built a VPN That Survives Blocks Without Making Life Hard for Users | VPNHouse | [Read More](https://medium.com/p/4ada0bbb2980) |
 | Tue, 23 Dec 2025 19:07:08 GMT | Fixing JavaScript Hijacking: Securing Chatbot APIs Against JSONP Attacks | Harshitha Reddy | [Read More](https://medium.com/p/dbb9b9e6c7e1) |
 | Tue, 23 Dec 2025 18:57:20 GMT | Quantum Computing for Beginners: Why it matters and how it will change online security by 2030 | Ranam | [Read More](https://medium.com/p/64fc7e8c2be2) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 13:01:45 GMT | Day 23 — Secure By Design (Black Forest Shadow) | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/4456f3920ccd) |
 | Tue, 23 Dec 2025 13:00:55 GMT | Why Smartphones Are the Most Valuable Target in Cybercrime Today | ANSI Technologies | [Read More](https://medium.com/p/2e3703597a71) |
 | Tue, 23 Dec 2025 13:00:21 GMT | I Tried Filling Out a Simple Contact Form and Discovered a Stored XSS in the Wild | Munna✨ | [Read More](https://medium.com/p/f777dec6369e) |
-| Tue, 23 Dec 2025 12:58:14 GMT | How Secure Is Your React App? A Frontend Developer’s Guide to Data Security | Sulman Ahmed | [Read More](https://medium.com/p/0cdf743d9514) |
