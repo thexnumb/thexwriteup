@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 14:33:26 GMT | How to Wake Your PC From Anywhere Using Wake on LAN on Android | George Salib | [Read More](https://medium.com/p/f2a4c7c0533f) |
+| Wed, 24 Dec 2025 14:32:20 GMT | Linux Security Habit #11: Freeze the System State Before You Investigate or Fix Anything | Faruk Ahmed | [Read More](https://medium.com/p/43fe6889dc8d) |
+| Wed, 24 Dec 2025 14:32:20 GMT | The Poison in the Pipeline: Why AI Training Data Is Your Biggest Security Blind Spot | Nwosu Rosemary | [Read More](https://medium.com/p/434dee3a6043) |
 | Wed, 24 Dec 2025 14:19:30 GMT | Top 10 WordPress Security Mistakes You’re Probably Making in 2025 | Mahbubul Haque | [Read More](https://medium.com/p/13f61922f731) |
 | Wed, 24 Dec 2025 14:12:16 GMT | PortSwigger Web Security Academy — Lab Write‑Up 5 | 0xM3d0din | [Read More](https://medium.com/p/72b8389cd531) |
 | Wed, 24 Dec 2025 14:10:02 GMT | A Sign of Courage | Subhadeep Ghosh | [Read More](https://medium.com/p/28a806d54a1c) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 08:07:57 GMT | Wrap Up of 2025 | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/89a6534ae8b7) |
 | Wed, 24 Dec 2025 08:06:25 GMT | Why Fraud Is a Customer Experience Problem, Not Just a Security Issue | Fraudlabs Pro | [Read More](https://medium.com/p/d3e0c66a3745) |
 | Wed, 24 Dec 2025 08:02:26 GMT | [Part 19] Adversarial AI: When Hackers Attack the Algorithms | Cyberkech | [Read More](https://medium.com/p/7d858045c2b5) |
-| Wed, 24 Dec 2025 07:53:46 GMT | AI Didn’t Just Change Attacks. It Changed Who the Victims Are. | Avlex Group | [Read More](https://medium.com/p/b6e70a63e6be) |
-| Wed, 24 Dec 2025 07:48:18 GMT | Diagnosing a Native WebView Crash on Android POS Devices | Somayekhaleghi | [Read More](https://medium.com/p/bb806ad2c8aa) |
-| Wed, 24 Dec 2025 07:44:45 GMT | The Humble CISO 2025 | Dr. Sybe Izaak Rispens | [Read More](https://medium.com/p/5516252c03f3) |
