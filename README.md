@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 11:23:54 GMT | The 2026 SAST Shortlist: What’s Actually Worth Using? | Maikel Mardjan | [Read More](https://medium.com/p/a07e65ba6b9f) |
 | Wed, 24 Dec 2025 11:08:52 GMT | AI Adoption Is Creating Security Debt Nobody Is Pricing In | Naveen C | [Read More](https://medium.com/p/6b066f389524) |
 | Wed, 24 Dec 2025 11:07:39 GMT | CVE-2025-68613  —  Authenticated Remote Code Execution (RCE) in n8n Workflow Automation Platform | Bash Overflow | [Read More](https://medium.com/p/b00da2f83c31) |
 | Wed, 24 Dec 2025 10:58:16 GMT | How One Compromised Endpoint Can Collapse an Entire Business Network | ANSI Technologies | [Read More](https://medium.com/p/0154066fe72d) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 04:40:03 GMT | Ketika Mobil Listrik Harus Waspada: Review Paper LLM-Powered Threat Intelligence untuk EV | nur.afandi | [Read More](https://medium.com/p/45a6bbcdb739) |
 | Wed, 24 Dec 2025 04:39:16 GMT | Rooting the Dev Machine (TCM Security) — Step-by-Step Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/5eb702c56eb6) |
 | Wed, 24 Dec 2025 04:38:36 GMT | 4 Deep Recon Techniques | Abhirup Konwar | [Read More](https://medium.com/p/563f5fb154df) |
-| Wed, 24 Dec 2025 04:30:45 GMT | AI/ML Security Engg. Roadmap | Rishav anand | [Read More](https://medium.com/p/18ba5a4f69bc) |
