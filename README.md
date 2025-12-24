@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 11:08:52 GMT | AI Adoption Is Creating Security Debt Nobody Is Pricing In | Naveen C | [Read More](https://medium.com/p/6b066f389524) |
+| Wed, 24 Dec 2025 11:07:39 GMT | CVE-2025-68613  —  Authenticated Remote Code Execution (RCE) in n8n Workflow Automation Platform | Bash Overflow | [Read More](https://medium.com/p/b00da2f83c31) |
+| Wed, 24 Dec 2025 10:58:16 GMT | How One Compromised Endpoint Can Collapse an Entire Business Network | ANSI Technologies | [Read More](https://medium.com/p/0154066fe72d) |
+| Wed, 24 Dec 2025 10:52:17 GMT | Day 20: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/6e75d843b8ae) |
+| Wed, 24 Dec 2025 10:51:56 GMT | Day 19: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/4499d5c29815) |
+| Wed, 24 Dec 2025 10:44:16 GMT | Legal Fees and Settlements in Cyber Insurance: Why This Coverage Is a Business Lifesaver | piyush | [Read More](https://medium.com/p/dfeab35d3acf) |
+| Wed, 24 Dec 2025 10:44:15 GMT | How SOC Teams Can Monitor and Respond to CVE-2025–55182 Exploit Attempts | SecureSlate | [Read More](https://medium.com/p/473ca0970e34) |
+| Wed, 24 Dec 2025 10:40:28 GMT | Best IT Services Company in Hyderabad | creative mind | [Read More](https://medium.com/p/35efd606a23e) |
 | Wed, 24 Dec 2025 10:32:25 GMT | Zefai Insights - Cyber Resilience Series | Zefai Insights | [Read More](https://medium.com/p/a36bd7ed0f11) |
 | Wed, 24 Dec 2025 10:26:33 GMT | From Theory to Practice: Simulating Phishing Attacks (Part 2) | Cyber Timi | [Read More](https://medium.com/p/d449f9d3e035) |
 | Wed, 24 Dec 2025 10:25:24 GMT | DC:9 Walkthrough VulnHub | Muhammed Midlaj | [Read More](https://medium.com/p/0d90e726b607) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 04:39:16 GMT | Rooting the Dev Machine (TCM Security) — Step-by-Step Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/5eb702c56eb6) |
 | Wed, 24 Dec 2025 04:38:36 GMT | 4 Deep Recon Techniques | Abhirup Konwar | [Read More](https://medium.com/p/563f5fb154df) |
 | Wed, 24 Dec 2025 04:30:45 GMT | AI/ML Security Engg. Roadmap | Rishav anand | [Read More](https://medium.com/p/18ba5a4f69bc) |
-| Wed, 24 Dec 2025 04:29:11 GMT | Kubernetes 1.35 Enhances Resource Scaling, AI Workloads | Valentin Podkamennyi | [Read More](https://medium.com/p/5e196fb7ca31) |
-| Wed, 24 Dec 2025 04:19:48 GMT | Detecting Web Attacks — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/465200d3d147) |
-| Wed, 24 Dec 2025 04:17:24 GMT | Windows Logging for SOC — Tryhackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/25767837b90a) |
-| Wed, 24 Dec 2025 04:11:24 GMT | Why Vendor-Neutral Security Recommendations Matter | Securegap.io | [Read More](https://medium.com/p/0b552a175a5a) |
-| Wed, 24 Dec 2025 03:43:03 GMT | Tải Last Z Survival Shooter Mod APK V1.250.689 (Menu, Vô Hạn Tiền) | GOCMOD | [Read More](https://medium.com/p/f73316933d0c) |
-| Wed, 24 Dec 2025 03:41:21 GMT | SEO, AEO, GEO, and LLMO Explained: The Complete Guide to Modern Search Optimization | Nilesh Solanki | [Read More](https://medium.com/p/d4b26f706af8) |
-| Wed, 24 Dec 2025 03:37:21 GMT | Merry Christmas from the SOCFortress team! | SOCFortress | [Read More](https://medium.com/p/b6fc37bc05aa) |
-| Wed, 24 Dec 2025 03:36:37 GMT | When Secrets Go Public: What Docker Hub Leaks Reveal About Modern Security | Deven Chhajed | [Read More](https://medium.com/p/048e9f9e63b8) |
