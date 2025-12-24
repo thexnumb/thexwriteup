@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 07:14:59 GMT | The Unmanaged AI Threat | Consulting4sec | [Read More](https://medium.com/p/9a08c8bb6665) |
+| Wed, 24 Dec 2025 07:14:13 GMT | Learning Policy as Code the Hard Way (And Why DevSecOps Needs It) | Eric Blancas | [Read More](https://medium.com/p/290dc568452c) |
+| Wed, 24 Dec 2025 07:09:49 GMT | Magnum Scanner | Ashraf Mohammed | [Read More](https://medium.com/p/bde5cda2d2d3) |
+| Wed, 24 Dec 2025 07:08:09 GMT | High-Quality C Programming — Why Many Fail, and What Actually Works | Gopi Krishnan S | [Read More](https://medium.com/p/0fd3fc1b4b47) |
+| Wed, 24 Dec 2025 07:07:25 GMT | CR2 RAW spoofing, Photobashing and VFX | CasualObserver | [Read More](https://medium.com/p/3f600171f8d6) |
+| Wed, 24 Dec 2025 07:05:15 GMT | Treat Every Function Parameter Like a Potential Attack Vector | Brian C. Hart, Ph.D. | [Read More](https://medium.com/p/72b33a25d32c) |
+| Wed, 24 Dec 2025 07:04:42 GMT | Top 12 Zero Trust Tools That Are Replacing VPNs: Master Modern Access Security | Very Lazy Tech | [Read More](https://medium.com/p/fd1528584d48) |
+| Wed, 24 Dec 2025 07:03:04 GMT | The Cryptography Concept Journey — ZKP (Zero Knowledge Proof) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1169090f31ec) |
+| Wed, 24 Dec 2025 06:56:48 GMT | Zuri Njoku Understanding System Deployment and Recovery in IT | Zuri Njoku | [Read More](https://medium.com/p/647f0b40f46f) |
+| Wed, 24 Dec 2025 06:54:33 GMT | CSRF Where Token is Tied to Non-Session Cookie — Complete Walkthrough with Visual Guide | CYGNOD | [Read More](https://medium.com/p/8bcca10c4146) |
+| Wed, 24 Dec 2025 06:53:24 GMT | Boost, Secure, Scale: The Low-Cost VPS Formula Fueling Modern Online Businesses | Ann Taylor | [Read More](https://medium.com/p/fe02219504e6) |
+| Wed, 24 Dec 2025 06:50:43 GMT | The Technological Singularity Triggered by Pattern Intelligence Quotient (PIQ) Reaching 1.0: | Evil Bot | [Read More](https://medium.com/p/b87522ffcc1b) |
+| Wed, 24 Dec 2025 06:48:45 GMT | Can We Really Eliminate Human Error in Incident Response? | NetWitness | [Read More](https://medium.com/p/4f769d78a05b) |
+| Wed, 24 Dec 2025 06:42:43 GMT | AWS Security — S3cret Santa | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/71ed1b58973a) |
 | Wed, 24 Dec 2025 06:34:12 GMT | TheFatRat 2026: Why the Original Died — and How Ethical Hackers Rebuilt It | ghostyjoe | [Read More](https://medium.com/p/dbbd4be29a8d) |
+| Wed, 24 Dec 2025 06:32:41 GMT | Static ISP Proxies Still Get Canceled or Flagged: The Ops Workflow That Fixes It | TokenLuster | [Read More](https://medium.com/p/20d689ad4bcf) |
 | Wed, 24 Dec 2025 06:31:03 GMT | Paso Credit loan app C U S T O M E R CARE H E L P L I N E NUMBER?@+//8624872050//•`√•`8435895380///P | Paso Credit loan app C U S T O M E R CARE NUMBER | [Read More](https://medium.com/p/beeac8577737) |
 | Wed, 24 Dec 2025 06:27:56 GMT | Why Growing Businesses in India Are Choosing Virtual CFO Services | Mahendra Technosoft Pvt.Ltd. | [Read More](https://medium.com/p/6d9f27cbd295) |
 | Wed, 24 Dec 2025 06:24:59 GMT | PicoCTF — dont-use-client-side - Web Exploitation - Easy | kingc06bra | [Read More](https://medium.com/p/ea31918c48e4) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 20:57:17 GMT | Vulnerability: DOM-Based XSS (type-0 XSS) — DVWA | Basmala Yasser | [Read More](https://medium.com/p/5e16e41af9da) |
 | Tue, 23 Dec 2025 20:52:14 GMT | What are multiparty computations? {MPCs} | Mimi Marcus | [Read More](https://medium.com/p/bcc59935f372) |
 | Tue, 23 Dec 2025 20:43:59 GMT | Why Most Crypto Scam Warnings Fail (And What Actually Works) | Deya Hroob | [Read More](https://medium.com/p/7081da4d5b76) |
-| Tue, 23 Dec 2025 20:38:05 GMT | The Importance of Cybersecurity in Your Company — Partnering with DVIUS | Biteris Companies | [Read More](https://medium.com/p/48f28b56d536) |
-| Tue, 23 Dec 2025 20:36:00 GMT | Building a Lightweight SSO System | Mine Kaya | [Read More](https://medium.com/p/414d229b0b31) |
-| Tue, 23 Dec 2025 20:26:08 GMT | Clear Your Cookies - Dog Years | Julio Oña | [Read More](https://medium.com/p/e59cb7a29f41) |
-| Tue, 23 Dec 2025 20:25:50 GMT | From “Add User” to Root: A 4-Digit Bug Bounty Command Injection | Yaseen Zubair | [Read More](https://medium.com/p/e436acd547a3) |
-| Tue, 23 Dec 2025 20:12:07 GMT | How I got my first Cybersecurity Internship in Canada | Sparsh Ladani | [Read More](https://medium.com/p/0f291347af36) |
-| Tue, 23 Dec 2025 20:11:15 GMT | Will AI Replace Doctors? My Honest Opinion From the Frontline | Foreign Doctor Life | [Read More](https://medium.com/p/6bcbcb713da5) |
-| Tue, 23 Dec 2025 19:51:51 GMT | What Is Business Impact Assessment for IT Infrastructure? | Shandeep KM | [Read More](https://medium.com/p/80d6341e92a0) |
-| Tue, 23 Dec 2025 19:50:18 GMT | From Detection to Decision — AI That Understands Process Physics in ICS | Muhammad Ali Khan | [Read More](https://medium.com/p/732bd882e5b6) |
-| Tue, 23 Dec 2025 19:46:39 GMT | One Login, Every System: The AI Agent Flaw Nobody’s Fixing | AhmedAbdelmenem | [Read More](https://medium.com/p/41c7df48b8a4) |
-| Tue, 23 Dec 2025 19:44:27 GMT | Cloud Network Traffic Inspection ☁️ | Esra Kayhan | [Read More](https://medium.com/p/59695d339914) |
-| Tue, 23 Dec 2025 19:42:58 GMT | React2Shell — urgh! | Brian Nguyen | [Read More](https://medium.com/p/a6941067f696) |
-| Tue, 23 Dec 2025 19:40:33 GMT | Breaking Down a Real CORS Misconfiguration. From Vulnerable to Fixed. | Macaroniwdcheese | [Read More](https://medium.com/p/44497dfcccd5) |
-| Tue, 23 Dec 2025 19:36:51 GMT | Bit & Byte Nedir? | Onur Öztürk | [Read More](https://medium.com/p/c9347f2a46ab) |
-| Tue, 23 Dec 2025 19:30:39 GMT | Hacking Smarter Not Harder, My Ride with HexStrike AI | sudo whoami | [Read More](https://medium.com/p/b48e7a3bca9c) |
-| Tue, 23 Dec 2025 19:14:38 GMT | How We Built a VPN That Survives Blocks Without Making Life Hard for Users | VPNHouse | [Read More](https://medium.com/p/4ada0bbb2980) |
