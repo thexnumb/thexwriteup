@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 19:07:01 GMT | The Art of Discovery: Mastering Web Crawlers in Bug Bounty & Pentesting | Omar Ait Ben Iyche | [Read More](https://medium.com/p/2972c8518fb5) |
+| Wed, 24 Dec 2025 19:01:49 GMT | The Beast Nobody Signed Up For: AI Security and the Potential Exodus Nobody’s Measuring | Lizzy J. | [Read More](https://medium.com/p/e43d58c5fa40) |
+| Wed, 24 Dec 2025 19:00:12 GMT | Why the Future of Security Operations Belongs to Explainable AI | Graylog | [Read More](https://medium.com/p/9836c6a93a86) |
+| Wed, 24 Dec 2025 18:57:23 GMT | Understanding Broken Object Level Authorization (BOLA) | Chihurumnanya Ruth Godwin | [Read More](https://medium.com/p/3a7a0ee1d516) |
+| Wed, 24 Dec 2025 18:55:00 GMT | Wireshark for Beginners: How to Actually Read Traffic (Without Drowning) | Richard Dosumu | [Read More](https://medium.com/p/73a0dbe51abd) |
+| Wed, 24 Dec 2025 18:48:16 GMT | Dixcover Everything | Federico Lucero | [Read More](https://medium.com/p/7a5e8017f554) |
+| Wed, 24 Dec 2025 18:46:48 GMT | Skip 4 years on campus — build a global tech career faster Thinking about a traditional 4-year IT… | Abdullah Shakeel | [Read More](https://medium.com/p/2b421d0fba01) |
+| Wed, 24 Dec 2025 18:44:50 GMT | Can Mobile Apps Be Vulnerable to CSRF? Simple Explanation | Raj Prasad Kuiri | [Read More](https://medium.com/p/82501a1c55f5) |
+| Wed, 24 Dec 2025 18:43:49 GMT | Volatility Plugins — Plugin window.modscan, ,window.modules Let’s Talk About it | Dean | [Read More](https://medium.com/p/2349a5ee359c) |
+| Wed, 24 Dec 2025 18:38:50 GMT | I Am Ashamed To Be A Man | Chris McCumskey | [Read More](https://medium.com/p/35effae20f2a) |
+| Wed, 24 Dec 2025 18:34:22 GMT | Exploitation with cURL — Hoperation Eggsploit ~Last room of Aod-2025 | Mann24> | [Read More](https://medium.com/p/cbce77e8d045) |
+| Wed, 24 Dec 2025 18:33:41 GMT | Google Dorks for Bug Bounty | aimaster | [Read More](https://medium.com/p/d1596fafbe39) |
+| Wed, 24 Dec 2025 18:32:21 GMT | Back to the Gym — Analyzing Malicious PCAPs | Security Posture | [Read More](https://medium.com/p/a58180f485d3) |
 | Wed, 24 Dec 2025 18:25:55 GMT | This is a script to lock off webview from its default spyware functions to more locked down mode | William Ashley | [Read More](https://medium.com/p/50b275b2ac49) |
 | Wed, 24 Dec 2025 18:23:19 GMT | The Space Between Wanting | Novita Eka Lestari | [Read More](https://medium.com/p/d2697d5f36a6) |
 | Wed, 24 Dec 2025 18:18:46 GMT | Practical Phone Security Without Sacrificing Speed | Geoffrey Wenger | [Read More](https://medium.com/p/308fd41c83f7) |
@@ -100,16 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 13:59:05 GMT | เรียนรู้การทำ Penetration Testing ด้วยตัวเอง — EP#03 | MisterB | [Read More](https://medium.com/p/d4ece923327d) |
 | Wed, 24 Dec 2025 13:53:23 GMT | WebRAT Malware Exploits GitHub Trust: Cybercriminals Weaponize Fake Vulnerability Exploits | Technijian | [Read More](https://medium.com/p/6abc026ff24a) |
 | Wed, 24 Dec 2025 13:50:22 GMT | Bitcoin Attacks: A Chronological Analysis of Threats, Exploits, and Mitigation Strategies | Satyam | [Read More](https://medium.com/p/3a1cc48635a0) |
-| Wed, 24 Dec 2025 13:38:42 GMT | The 24 Key Benefits of Digital Marketing (Why It Actually Works) | Pranali | [Read More](https://medium.com/p/2e888e694c32) |
-| Wed, 24 Dec 2025 13:37:01 GMT | Монголчууд агуйгаасаа гараагүй л байна уу? | Onon Salhi | [Read More](https://medium.com/p/2308371fccfc) |
-| Wed, 24 Dec 2025 13:36:54 GMT | ️‍♂️ The Hidden Message — VulnOS Steganography CTF | Aditya Bhatt | [Read More](https://medium.com/p/917def0d4e14) |
-| Wed, 24 Dec 2025 13:35:16 GMT | Layered Routing for Pull Workloads: Rotate Fetch Traffic, Keep Sensitive Steps Stable | CoinToken | [Read More](https://medium.com/p/ca57749ad8bd) |
-| Wed, 24 Dec 2025 13:28:23 GMT | cURL (Client URL); komut satırı arayüzü (CLI) üzerinden HTTP, HTTPS ve diğer birçok protokol… | Murat Balcı | [Read More](https://medium.com/p/23cdf25fe6f7) |
-| Wed, 24 Dec 2025 13:25:44 GMT | ️ Let’s Learn: Missing Security Headers & CSRF (Beginner‑Friendly, Guide) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/a942a3d1d063) |
-| Wed, 24 Dec 2025 13:23:07 GMT | Ensuring Campus Safety with Professional School Security Guard Services in Georgia | Onyx Protective Services | [Read More](https://medium.com/p/03b190d942b4) |
-| Wed, 24 Dec 2025 13:19:56 GMT | Why the Dahua P5AS-PV is the Ultimate Smart Home Guardian: A Deep Dive | Tavan CCTV | [Read More](https://medium.com/p/e8fabc5a2a7d) |
-| Wed, 24 Dec 2025 13:19:55 GMT | DoS on 2 graphql subdomains | moamen mahmoud | [Read More](https://medium.com/p/f8e779af8fcf) |
-| Wed, 24 Dec 2025 13:12:38 GMT | The Hidden Bug Behind Our Public 503 Page | Codi | [Read More](https://medium.com/p/18a00f0d5657) |
-| Wed, 24 Dec 2025 13:11:30 GMT | ICS/Modbus - Claus for Concern · Advent of Cyber 2025 - Day 19 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/975d151a77a0) |
-| Wed, 24 Dec 2025 13:11:02 GMT | Container Security: Docker & Kubernetes Hardening | Okan Yıldız | [Read More](https://medium.com/p/9140054c3072) |
-| Wed, 24 Dec 2025 13:09:10 GMT | How to Stay Connected During Business Trips | Mike. K. | [Read More](https://medium.com/p/8ce3fb53402c) |
