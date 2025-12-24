@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 05:08:38 GMT | IT Budget 2026: How To Create and Spend It? | HostNOC | [Read More](https://medium.com/p/5521e15d961d) |
+| Wed, 24 Dec 2025 05:08:28 GMT | 7 Powerful Benefits of CCNP Security Certification You Can’t Ignore in 2026 | Network Kings | [Read More](https://medium.com/p/08824291578e) |
+| Wed, 24 Dec 2025 05:08:16 GMT | Completing My First Google Cybersecurity Certificate Course: Week One Reflections | Callum - Cyber Security Journey | [Read More](https://medium.com/p/2e32f0b27688) |
+| Wed, 24 Dec 2025 05:02:23 GMT | Zero Trust Architecture: The Future of Secure Cloud Environments | F9 Infotech | [Read More](https://medium.com/p/d70a18e4fd20) |
+| Wed, 24 Dec 2025 05:01:44 GMT | Why Power & Energy Organizations Are the New Prime Targets for Cyber attacks Attacks | Ankit rai | [Read More](https://medium.com/p/6c3c12beaaef) |
 | Wed, 24 Dec 2025 04:40:03 GMT | Ketika Mobil Listrik Harus Waspada: Review Paper LLM-Powered Threat Intelligence untuk EV | nur.afandi | [Read More](https://medium.com/p/45a6bbcdb739) |
 | Wed, 24 Dec 2025 04:39:16 GMT | Rooting the Dev Machine (TCM Security) — Step-by-Step Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/5eb702c56eb6) |
 | Wed, 24 Dec 2025 04:38:36 GMT | 4 Deep Recon Techniques | Abhirup Konwar | [Read More](https://medium.com/p/563f5fb154df) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 17:57:14 GMT | I Wasn’t Healed Yet. Here’s What Finally Helped | Gary L Ellis | [Read More](https://medium.com/p/d8896aebf030) |
 | Tue, 23 Dec 2025 17:55:24 GMT | Independent Vendor Shops on the Dark Web: How They Work | Tor BBB | [Read More](https://medium.com/p/b17933422b5d) |
 | Tue, 23 Dec 2025 17:47:21 GMT | The Cryptography Concept Journey — OTP (One Time Pad) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/33ed7e29e7a4) |
-| Tue, 23 Dec 2025 17:46:19 GMT | The Danger of Simplicity: How a Default Credential Led to Full Account Access | Samet Yiğit | [Read More](https://medium.com/p/c47afe8c2724) |
-| Tue, 23 Dec 2025 17:38:54 GMT | AI Security: Defending Against the Next Generation of Cyber Threats | Nayan Goel | [Read More](https://medium.com/p/777849c35e93) |
-| Tue, 23 Dec 2025 17:38:27 GMT | Cybersecurity Isn’t Just an IT Issue — It’s a Leadership Challenge | Digital Defense | [Read More](https://medium.com/p/fb4f4471ddb0) |
-| Tue, 23 Dec 2025 17:37:11 GMT | Free life | Sakhi Writes | [Read More](https://medium.com/p/59f0e726183f) |
-| Tue, 23 Dec 2025 17:22:56 GMT | The Complete Frida Automation Script for OWASP Mobile Security Testing (Part 2) | Raj Prasad Kuiri | [Read More](https://medium.com/p/d8021d564223) |
