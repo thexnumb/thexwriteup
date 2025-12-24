@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 17:15:11 GMT | ISO 27001: Turning Information Security from Intention into Practice | Nikhilmokal | [Read More](https://medium.com/p/0cadf6e325bf) |
+| Wed, 24 Dec 2025 17:08:02 GMT | I Built Malware in a Controlled Lab — And It Took Over a Windows System in Seconds | Zahidul Islam Ratul | [Read More](https://medium.com/p/f644f59a3d65) |
+| Wed, 24 Dec 2025 17:05:28 GMT | University CTF 2025 Write-up: Feel My Terror | Taufiqurrahman Yudhi Atmadja | [Read More](https://medium.com/p/845348da6e11) |
+| Wed, 24 Dec 2025 17:05:01 GMT | Advent of Cyber 2025 - All Days - DAY 1–24 (complete) | D4m.sh | [Read More](https://medium.com/p/ed358e420ee4) |
+| Wed, 24 Dec 2025 17:02:14 GMT | Free Mail Forwarding: How to Effortlessly Protect Your Email (and Why You Should Start Today) | Extencil | [Read More](https://medium.com/p/4a928c2368a5) |
+| Wed, 24 Dec 2025 16:50:35 GMT | Protect yourself: How hackers are stealing telegram accounts. | Writings | [Read More](https://medium.com/p/af5b93fb85aa) |
+| Wed, 24 Dec 2025 16:48:32 GMT | How a Simple Email Can Put an Entire Organization at Risk | Digital Defense | [Read More](https://medium.com/p/406db6a50d65) |
+| Wed, 24 Dec 2025 16:45:54 GMT | NUS MComp (InfoSec) Course Review AY25/26 S1 | Justin Ng | [Read More](https://medium.com/p/97eb2a6d3079) |
+| Wed, 24 Dec 2025 16:44:11 GMT | cURL Hoperation Eggsploit Day 24 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/d1ef735e5012) |
+| Wed, 24 Dec 2025 16:43:31 GMT | Abuse Azure Logic App Automation : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/8a032b53710c) |
 | Wed, 24 Dec 2025 16:42:10 GMT | Decision-Making Authority of an IT Leader | Çağrı ÇİMENCİ | [Read More](https://medium.com/p/2e36ca458423) |
 | Wed, 24 Dec 2025 16:42:04 GMT | What happens when Instagram changes its digital architecture? | 1eonor | [Read More](https://medium.com/p/b1f698f6703d) |
 | Wed, 24 Dec 2025 16:38:35 GMT | An AI Just Became the #1 Hacker on HackerOne. Here’s Why You Should Pay Attention | Abdullah Javeed | [Read More](https://medium.com/p/3747ca58aba5) |
+| Wed, 24 Dec 2025 16:38:09 GMT | Advent of Cyber 2025 - Day 24: Exploitation with cURL — Hoperation Eggsploit | D4m.sh | [Read More](https://medium.com/p/a55b7ce6e381) |
 | Wed, 24 Dec 2025 16:33:26 GMT | Windows API İstismarı: Malware Geliştiricilerinin En Çok Kullandığı 61 Kritik Fonksiyon | Melih Yusuf Ercan | [Read More](https://medium.com/p/862526c90801) |
 | Wed, 24 Dec 2025 16:33:10 GMT | C2 Detection - Command & Carol · Advent of Cyber 2025 - Day 22 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/beeee1606cd5) |
 | Wed, 24 Dec 2025 16:32:05 GMT | Leveraging Splunk SIEM to Detect DoS Attacks | Citadel Cybersec | [Read More](https://medium.com/p/957069bf2682) |
@@ -102,14 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 11:59:00 GMT | Android App Pentesting A to Z | Rishav anand | [Read More](https://medium.com/p/a10c5d5d9846) |
 | Wed, 24 Dec 2025 11:57:47 GMT | Zero-Tolerance Security Backed by Next-Gen Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/71d000b91f40) |
 | Wed, 24 Dec 2025 11:48:53 GMT | How We Build Privacy-First Systems Using PIPEDA as a Guiding Framework | Gyan Consulting | [Read More](https://medium.com/p/bc2cecb528ae) |
-| Wed, 24 Dec 2025 11:45:16 GMT | XSS Vulnerability — ParoCyber Training | Claudius Thompson | [Read More](https://medium.com/p/cf2f30ef899d) |
-| Wed, 24 Dec 2025 11:42:00 GMT | Vulnerability Scanning Automation in Networks | Esra Kayhan | [Read More](https://medium.com/p/44583d3307ce) |
-| Wed, 24 Dec 2025 11:38:06 GMT | Why Hackers Love the Holidays: A Security Auditor’s Perspective | Gideon Cohen | [Read More](https://medium.com/p/68baf2e594bf) |
-| Wed, 24 Dec 2025 11:36:38 GMT | Mother Spends Life Savings on Son’s Wedding Home, Gets Devastating Surprise | XeniaAusten | [Read More](https://medium.com/p/215d8651deb5) |
-| Wed, 24 Dec 2025 11:23:54 GMT | The 2026 SAST Shortlist: What’s Actually Worth Using? | Maikel Mardjan | [Read More](https://medium.com/p/a07e65ba6b9f) |
-| Wed, 24 Dec 2025 11:08:52 GMT | AI Adoption Is Creating Security Debt Nobody Is Pricing In | Naveen C | [Read More](https://medium.com/p/6b066f389524) |
-| Wed, 24 Dec 2025 11:07:39 GMT | CVE-2025-68613  —  Authenticated Remote Code Execution (RCE) in n8n Workflow Automation Platform | Bash Overflow | [Read More](https://medium.com/p/b00da2f83c31) |
-| Wed, 24 Dec 2025 10:58:16 GMT | How One Compromised Endpoint Can Collapse an Entire Business Network | ANSI Technologies | [Read More](https://medium.com/p/0154066fe72d) |
-| Wed, 24 Dec 2025 10:52:17 GMT | Day 20: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/6e75d843b8ae) |
-| Wed, 24 Dec 2025 10:51:56 GMT | Day 19: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/4499d5c29815) |
-| Wed, 24 Dec 2025 10:44:16 GMT | Legal Fees and Settlements in Cyber Insurance: Why This Coverage Is a Business Lifesaver | piyush | [Read More](https://medium.com/p/dfeab35d3acf) |
