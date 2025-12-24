@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 09:16:29 GMT | Zero Trust Yaklaşımı Gerçekten Ne Kadar Uygulanabilir? | Furkan Ünlü | [Read More](https://medium.com/p/df79acdfcb60) |
+| Wed, 24 Dec 2025 09:12:58 GMT | Web Security Services in 2025: Protecting Digital Assets in an Evolving Threat Landscape | Devarshi Acharya | [Read More](https://medium.com/p/437226f3f9da) |
+| Wed, 24 Dec 2025 09:05:28 GMT | Most Websites Are Not Hacked — They Are Neglected: A Practical Guide to Real Website Security | Ali.Yurie | [Read More](https://medium.com/p/cd2d5dd9ace0) |
+| Wed, 24 Dec 2025 09:02:53 GMT | Out-of-Band (OOB) Server-Side Request Forgery (SSRF) Via File Upload | Neeraj kath | [Read More](https://medium.com/p/7f1abc493024) |
+| Wed, 24 Dec 2025 09:02:22 GMT | The CIO’s Awakening: Paying Premium for Process, Starving for Progress in ERP | Namir Sagheenanajar | [Read More](https://medium.com/p/5cc12d0fac0f) |
+| Wed, 24 Dec 2025 08:50:11 GMT | BloodCat V1.5:Automatic Threading · Password Spraying · Global Camera Updates. | Мартин. | [Read More](https://medium.com/p/9bec2767cc91) |
+| Wed, 24 Dec 2025 08:47:23 GMT | REVISITING MEDUSA LOCKER RANSOMWARE | Rakesh Krishnan | [Read More](https://medium.com/p/13be0ffd82c5) |
+| Wed, 24 Dec 2025 08:47:11 GMT | Data Protection and Privacy: A Lesson from a Hacked Identity | Devarshi Acharya | [Read More](https://medium.com/p/1b2a417d8579) |
+| Wed, 24 Dec 2025 08:46:46 GMT | Güçlü Şifre Saklama Politikaları | Taner Özer | [Read More](https://medium.com/p/ddb679516b16) |
+| Wed, 24 Dec 2025 08:42:05 GMT | Login/Verification Challenge Loops: Mobile vs Residential Proxies | ChainPancle | [Read More](https://medium.com/p/317000cd1eee) |
+| Wed, 24 Dec 2025 08:39:00 GMT | Why I Write About ISO 27001, Risk, and Practical Information Security | Eguen Jazaniah Femi | [Read More](https://medium.com/p/a457293fa9c8) |
+| Wed, 24 Dec 2025 08:37:48 GMT | The SME Cybersecurity Reality in India: Too Many Tools, Too Little Protection | CyBelt | [Read More](https://medium.com/p/5e8f31eb4596) |
+| Wed, 24 Dec 2025 08:37:46 GMT | Containerization Setup and Hands-On Practice on Kali Linux | Rabbiyatabassum | [Read More](https://medium.com/p/a7e28ab2499d) |
+| Wed, 24 Dec 2025 08:34:50 GMT | I Broke My AI Model So You Don’t Have To: Testing LLM Jailbreak Resistance with Garak | Sarthakvyadav | [Read More](https://medium.com/p/a30ef9b9a9e5) |
+| Wed, 24 Dec 2025 08:33:58 GMT | The Underhyped Cybersecurity Tools & Tips You Actually Need (And Everyone Ignores) | TheCyberAryan | [Read More](https://medium.com/p/5a069db4e68d) |
 | Wed, 24 Dec 2025 08:30:17 GMT | The Daily Tech Digest: 24 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6bf20e41c57c) |
 | Wed, 24 Dec 2025 08:27:47 GMT | Why WhatsApp Banned 72 Lakh Indian Accounts Last Month | Muhaideen Nausar | [Read More](https://medium.com/p/bb45044d243a) |
 | Wed, 24 Dec 2025 08:25:26 GMT | BenFen × TX-SHIELD Privacy Payment_ The First Native Stablecoin–Driven Payment Protocol with Full… | BenFen | [Read More](https://medium.com/p/9eff01a6d6ad) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 02:55:04 GMT | TryHackMe: tomghost Writeup | cbev | [Read More](https://medium.com/p/fcd8eb29092b) |
 | Wed, 24 Dec 2025 02:48:15 GMT | Tải Plants vs Zombies Fusion Mod Apk V3.0.1 Cho Android | Apkpuredev | [Read More](https://medium.com/p/3f1b1778489a) |
 | Wed, 24 Dec 2025 02:41:52 GMT | My Technical Goals for 2026: Linux, Hardware, and Self-Hosting | Sara Sheon | [Read More](https://medium.com/p/3f255cbb0bba) |
-| Wed, 24 Dec 2025 02:35:05 GMT | Everyone wants to use DeepSeek-V3.2 | Volodimir Krytsky | [Read More](https://medium.com/p/d72d7821419b) |
-| Wed, 24 Dec 2025 02:07:34 GMT | Night at the Museum — FahemSec Web Challenge | محمد بن إبراهيم | [Read More](https://medium.com/p/f2d6f8536bea) |
-| Wed, 24 Dec 2025 01:59:35 GMT | Stale Admin Invitations Lead to Unauthorized Admin Access | Mohamed Hwedy | [Read More](https://medium.com/p/9fa766e631d9) |
-| Wed, 24 Dec 2025 01:38:27 GMT | Understanding OWASP API Security Top 10 With Live Breach Examples — A Practical Guide | Mainekhacker | [Read More](https://medium.com/p/397aac566db5) |
-| Wed, 24 Dec 2025 01:38:15 GMT | Best Recon Method to Find JavaScript Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/ad3b1313afe2) |
-| Wed, 24 Dec 2025 01:10:31 GMT | The First Rust Linux Kernel CVE Just Happened: Why It’s Actually Good News | Ashish Sharda | [Read More](https://medium.com/p/e2fc2ca8569f) |
-| Wed, 24 Dec 2025 01:06:16 GMT | Technical Review: DVIUS.net Architecture Against DDoS and Penetration Threats | Biteris | [Read More](https://medium.com/p/6dc965dae34b) |
-| Wed, 24 Dec 2025 01:02:20 GMT | Why “Local” is the New “Cloud”: The Case for On-Premise LLMs | Eude Tech | [Read More](https://medium.com/p/592523f50416) |
-| Wed, 24 Dec 2025 00:56:38 GMT | Malware Analysis Report: “SecretPictures” USB Worm & Info-Stealer | Rahaliashraf | [Read More](https://medium.com/p/f95e4f92ab7e) |
-| Wed, 24 Dec 2025 00:54:15 GMT | How to use strong password easi | Techwizs | [Read More](https://medium.com/p/31ec13816f0b) |
-| Wed, 24 Dec 2025 00:28:19 GMT | When an Unusual Open Port Leads to Full Compromise: Lessons from an NFS Lab | Vivektumma27 | [Read More](https://medium.com/p/70a90996b49b) |
-| Wed, 24 Dec 2025 00:13:11 GMT | The Privacy You’ll Lose in 2026 (And How to Protect Yourself Now) | MoonDesk | [Read More](https://medium.com/p/596c324c732a) |
-| Wed, 24 Dec 2025 00:13:04 GMT | Android Attacks Google Confirms No Fix For 30% Of All Phones | Moni | [Read More](https://medium.com/p/07ef58cd433e) |
-| Tue, 23 Dec 2025 23:36:31 GMT | Welcome (HS Lab) | Stitoutl | [Read More](https://medium.com/p/f2c14a3ea8e2) |
-| Tue, 23 Dec 2025 23:33:34 GMT | The Uncomfortable Luxury of Sadness | Linda A Metzler | [Read More](https://medium.com/p/63e6c632ca87) |
