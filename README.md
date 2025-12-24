@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 20:28:00 GMT | The Day I Found a Google Sheets API Key Hidden in Plain Sight — Inside a Public JavaScript File | Anshubind | [Read More](https://medium.com/p/45795be4f51c) |
+| Wed, 24 Dec 2025 20:27:57 GMT | CompTIA Certifications changed my life | GhostInject | [Read More](https://medium.com/p/547f5188fe4a) |
+| Wed, 24 Dec 2025 20:27:31 GMT | The Night I Discovered a Production Server Hiding Behind an Exposed IP — And Why It Mattered… | Anshubind | [Read More](https://medium.com/p/e0f3009cdd51) |
 | Wed, 24 Dec 2025 20:13:45 GMT | Building A Fake Company Database And Employee Login Portal to Practice Data Exfiltration | Johnny Meintel | [Read More](https://medium.com/p/59c0421218f9) |
 | Wed, 24 Dec 2025 19:45:03 GMT | Spotify Allegedly Scraped: A 300TB Music Archive Sparks Global Debate | wandy iskwanto | [Read More](https://medium.com/p/1d04bb0b60a7) |
 | Wed, 24 Dec 2025 19:36:22 GMT | CSI: Remote Desktops & Invisible Artifacts — A Forensic Love Story | Fatima Zakir | [Read More](https://medium.com/p/08ac0e438e73) |
@@ -110,6 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 14:35:27 GMT | Understanding Networking Protocols: The Backbone of the Internet | Bilal Nasir | [Read More](https://medium.com/p/e94a3644b8c8) |
 | Wed, 24 Dec 2025 14:33:26 GMT | How to Wake Your PC From Anywhere Using Wake on LAN on Android | George Salib | [Read More](https://medium.com/p/f2a4c7c0533f) |
 | Wed, 24 Dec 2025 14:32:20 GMT | Linux Security Habit #11: Freeze the System State Before You Investigate or Fix Anything | Faruk Ahmed | [Read More](https://medium.com/p/43fe6889dc8d) |
-| Wed, 24 Dec 2025 14:32:20 GMT | The Poison in the Pipeline: Why AI Training Data Is Your Biggest Security Blind Spot | Nwosu Rosemary | [Read More](https://medium.com/p/434dee3a6043) |
-| Wed, 24 Dec 2025 14:19:30 GMT | Top 10 WordPress Security Mistakes You’re Probably Making in 2025 | Mahbubul Haque | [Read More](https://medium.com/p/13f61922f731) |
-| Wed, 24 Dec 2025 14:12:16 GMT | PortSwigger Web Security Academy — Lab Write‑Up 5 | 0xM3d0din | [Read More](https://medium.com/p/72b8389cd531) |
