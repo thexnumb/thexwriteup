@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 17:36:36 GMT | What Failing the CPTS Taught Me About Real-World Pentesting | SilentExploit | [Read More](https://medium.com/p/b4403f0c98f8) |
+| Wed, 24 Dec 2025 17:33:05 GMT | When AI Takes Away The Bottom Rung of the Job Ladder | Helen Patton | [Read More](https://medium.com/p/a2f95a95dbc7) |
+| Wed, 24 Dec 2025 17:29:57 GMT | Securing the Road Ahead: OT Cybersecurity in Modern Transport Infrastructure | Rob Campbell | [Read More](https://medium.com/p/20235b6169fb) |
+| Wed, 24 Dec 2025 17:28:29 GMT | Evil‑Bat is a real‑time human (live body) detection and activity logging tool based on remote …… | Мартин. | [Read More](https://medium.com/p/b347d535db03) |
+| Wed, 24 Dec 2025 17:24:43 GMT | Exploitation with cURL — Hoperation Eggsploit - Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/35afec32ee9b) |
+| Wed, 24 Dec 2025 17:22:45 GMT | Pharmacy Tech Practice Questions: Essential Guide for Exam Success | Motherlandlove | [Read More](https://medium.com/p/9c97f33fe97b) |
+| Wed, 24 Dec 2025 17:18:11 GMT | Advent of Cyber 2025 Day 24 - TryHackMe - Exploitation with cURL - Hoperation Eggsploit - WriteUp | Axoloth | [Read More](https://medium.com/p/c9e2afd3c26c) |
 | Wed, 24 Dec 2025 17:15:11 GMT | ISO 27001: Turning Information Security from Intention into Practice | Nikhilmokal | [Read More](https://medium.com/p/0cadf6e325bf) |
+| Wed, 24 Dec 2025 17:13:32 GMT | What Is API Security, and Why Does It Matter to Everyone? | Chihurumnanya Ruth Godwin | [Read More](https://medium.com/p/4d3e3d946a32) |
 | Wed, 24 Dec 2025 17:08:02 GMT | I Built Malware in a Controlled Lab — And It Took Over a Windows System in Seconds | Zahidul Islam Ratul | [Read More](https://medium.com/p/f644f59a3d65) |
 | Wed, 24 Dec 2025 17:05:28 GMT | University CTF 2025 Write-up: Feel My Terror | Taufiqurrahman Yudhi Atmadja | [Read More](https://medium.com/p/845348da6e11) |
 | Wed, 24 Dec 2025 17:05:01 GMT | Advent of Cyber 2025 - All Days - DAY 1–24 (complete) | D4m.sh | [Read More](https://medium.com/p/ed358e420ee4) |
@@ -105,11 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 12:25:51 GMT | The Illusion of Client-Side Security | Pwnr | [Read More](https://medium.com/p/9eea04ea9774) |
 | Wed, 24 Dec 2025 12:17:48 GMT | ️‍♂️ How Red Teams Win Before the Attack Even Starts | Aniket Nayak | [Read More](https://medium.com/p/54a64e69be0e) |
 | Wed, 24 Dec 2025 12:12:35 GMT | Amazon Bedrock Guardrails: Seeing Is Believing (With vs Without) | Guram Jalaghonia | [Read More](https://medium.com/p/89532f728d3b) |
-| Wed, 24 Dec 2025 12:11:01 GMT | In-Depth Technical Security Analysis of CVE-2025-66412 | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/ca43dfbae5ed) |
-| Wed, 24 Dec 2025 12:04:04 GMT | Base64 Decode Flag | Agil Jibrin | [Read More](https://medium.com/p/21c45bff00af) |
-| Wed, 24 Dec 2025 12:03:28 GMT | Authentication Without Secrets: Inside the World of Passkeys | Shekhar Saxena | [Read More](https://medium.com/p/f1a1748680ba) |
-| Wed, 24 Dec 2025 12:03:17 GMT | Implementing security with Python’s cryptography package | DHEV MUGUNDDHAN A | [Read More](https://medium.com/p/e6412a658a03) |
-| Wed, 24 Dec 2025 12:02:33 GMT | Career Growth in Canadian IT Jobs: Entry-Level to Senior-Level Pathways | gyan guide | [Read More](https://medium.com/p/d86ec27005e8) |
-| Wed, 24 Dec 2025 11:59:00 GMT | Android App Pentesting A to Z | Rishav anand | [Read More](https://medium.com/p/a10c5d5d9846) |
-| Wed, 24 Dec 2025 11:57:47 GMT | Zero-Tolerance Security Backed by Next-Gen Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/71d000b91f40) |
-| Wed, 24 Dec 2025 11:48:53 GMT | How We Build Privacy-First Systems Using PIPEDA as a Guiding Framework | Gyan Consulting | [Read More](https://medium.com/p/bc2cecb528ae) |
