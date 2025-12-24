@@ -12,9 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 23:20:20 GMT | Before CloudNetX Had a Name | Sec Guy | [Read More](https://medium.com/p/eeff28852b50) |
+| Wed, 24 Dec 2025 23:02:55 GMT | The React “Flight” Risk: Understanding CVE-2025–55182 and the Next.js Exploits | CyberSecurity | [Read More](https://medium.com/p/74fb8ab1f627) |
 | Wed, 24 Dec 2025 22:26:51 GMT | She Lost Everything After Divorce — The Heartbreaking Truth About Financial Dependence | Riva Smith | [Read More](https://medium.com/p/5f13b6c986ce) |
 | Wed, 24 Dec 2025 22:24:34 GMT | How to Conduct an AI Impact Assessment (Without Losing Your Mind) | Cyber-AppSec | [Read More](https://medium.com/p/434ccfa189a3) |
 | Wed, 24 Dec 2025 22:20:39 GMT | Günlük Kullanıcı İçin Gerçekten Güvenli Bir Tarayıcı Deneyimi Mümkün mü? | Özgür Karataş | [Read More](https://medium.com/p/0427561ea9ea) |
+| Wed, 24 Dec 2025 22:17:09 GMT | Gemini CLI Beyond the Basics: Choosing the Right MCP Authentication | minherz | [Read More](https://medium.com/p/b29f65eba61c) |
 | Wed, 24 Dec 2025 22:14:22 GMT | Understanding Web Sessions: A Beginner’s Guide to How Websites Remember You | EnTech | [Read More](https://medium.com/p/c6f470864e3f) |
 | Wed, 24 Dec 2025 22:05:36 GMT | Tips Scaling DevSecOps to Infinity Repos | thedevsecopshandbook | [Read More](https://medium.com/p/a4b52a6800aa) |
 | Wed, 24 Dec 2025 22:03:16 GMT | FortiGate ile Kurumsal Güvenliğe Genel Bir Bakış | Muhammed Emin Berberoğlu | [Read More](https://medium.com/p/3200d4cc97fa) |
@@ -110,6 +113,3 @@ E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https:
 | Wed, 24 Dec 2025 15:37:18 GMT | Day 23: AWS Security — S3cret Santa | Adani Kamal | [Read More](https://medium.com/p/0955fb306991) |
 | Wed, 24 Dec 2025 15:34:03 GMT | The Breach Comes From Inside: One “Trusted” Document Can Hijack Your AI | AhmedAbdelmenem | [Read More](https://medium.com/p/d2c9bf481103) |
 | Wed, 24 Dec 2025 15:33:41 GMT | The R400 Million Reality Check: Why I’m Cancelling “Januworry” | Ashlynn Natalie | [Read More](https://medium.com/p/34e9216ebf11) |
-| Wed, 24 Dec 2025 15:27:52 GMT | Securing Containerized Applications: A Defense-in-Depth Approach with Real-World Examples | Sudhir Mohanty (Devops & Test Automation Engineer) | [Read More](https://medium.com/p/fb697be811e0) |
-| Wed, 24 Dec 2025 15:24:49 GMT | Excited to announce BugHQ — An all-in-one platform for security researchers! | BBHunterpk | [Read More](https://medium.com/p/7d7cdc172377) |
-| Wed, 24 Dec 2025 15:18:37 GMT | How AI Is Changing Cybersecurity Forever—for Both Good and Evil | Adnan | [Read More](https://medium.com/p/ebdd58926750) |
