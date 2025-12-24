@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 22:05:36 GMT | Tips Scaling DevSecOps to Infinity Repos | thedevsecopshandbook | [Read More](https://medium.com/p/a4b52a6800aa) |
+| Wed, 24 Dec 2025 22:03:16 GMT | FortiGate ile Kurumsal Güvenliğe Genel Bir Bakış | Muhammed Emin Berberoğlu | [Read More](https://medium.com/p/3200d4cc97fa) |
+| Wed, 24 Dec 2025 22:02:45 GMT | How Attackers Turn Your AI Into an Injection Engine: XSS, SQL, and RCE via LLMs | Suchitra Malimbada | [Read More](https://medium.com/p/004662357df8) |
+| Wed, 24 Dec 2025 21:52:57 GMT | The SOC Access Paradox: When Your Security Team Becomes the Risk | Steve Anderson | [Read More](https://medium.com/p/584a70ebc8d3) |
+| Wed, 24 Dec 2025 21:49:09 GMT | One Request, Ten Times: How I Broke Admin Access with a Race Condition | 0xMoussa | [Read More](https://medium.com/p/05c56b072118) |
+| Wed, 24 Dec 2025 21:48:04 GMT | 技术确保了旅行证件的安全。 这就是为什么许多人需要英国生物识别护照，以确保他们的身份符合当代标准。
+E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https://medium.com/p/574b6a15822f) |
+| Wed, 24 Dec 2025 21:46:03 GMT | Title:Steganography‑Based Malware Delivery Analysis | Mustafaxstr0ike | [Read More](https://medium.com/p/7ad0c15986ec) |
 | Wed, 24 Dec 2025 21:24:19 GMT | Building a Secure Malware Analysis Lab: A Complete Guide to FLARE-VM, REMnux, and INetSim… | Aisha B. B | [Read More](https://medium.com/p/e99c6752e668) |
 | Wed, 24 Dec 2025 21:14:02 GMT | Stop Using process.env: Why Your TypeScript Apps Need an Environmental Contract | Santosh Jugjali | [Read More](https://medium.com/p/12ada314ddc3) |
 | Wed, 24 Dec 2025 21:06:50 GMT | How to Become a Smart Contract Bug Hunter and Get Paid in 2026 | PMartin | [Read More](https://medium.com/p/e7c39a825d29) |
@@ -106,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903444f) |
 | Wed, 24 Dec 2025 15:08:59 GMT | Boost Your Career with Med Tech Certification Online: A Complete Guide | Motherlandlove | [Read More](https://medium.com/p/6f0fa530ab6b) |
 | Wed, 24 Dec 2025 15:02:30 GMT | Cyber Briefing: 2025.12.24 | CyberMaterial | [Read More](https://medium.com/p/31c159bf40a9) |
-| Wed, 24 Dec 2025 15:02:28 GMT | Hacking the Connected Car: Part 4 — Securing the Fleet | Federico Barsanti | [Read More](https://medium.com/p/076d016e9050) |
-| Wed, 24 Dec 2025 14:57:33 GMT | I will operate penetration testing and vulnerability assessments | Mahbubul Haque | [Read More](https://medium.com/p/fbe0f8a39ce5) |
-| Wed, 24 Dec 2025 14:50:14 GMT | Top 3 ISO 27001 Mistakes Startups Make — and How to Fix Them | Eguen Jazaniah Femi | [Read More](https://medium.com/p/e249f70224c0) |
-| Wed, 24 Dec 2025 14:48:52 GMT | How Long Does It Take to Become a Pharmacy Tech? A Complete Guide | Motherlandlove | [Read More](https://medium.com/p/08cbd84626ec) |
-| Wed, 24 Dec 2025 14:42:21 GMT | Why SentryPC Is the №1 Choice for Parents in 2025–2026 (Complete Guide) | Paul Meyer | [Read More](https://medium.com/p/8277fb62bcfc) |
-| Wed, 24 Dec 2025 14:41:57 GMT | A Year of Red Team Training: Building Methodology and Mindset on Realistic Enterprise Networks | adib | [Read More](https://medium.com/p/9a0f888e19ec) |
-| Wed, 24 Dec 2025 14:40:28 GMT | Chinese and Indian Takeover in IT Markets in EU and North America. | Adham Ahmed Kabeel | [Read More](https://medium.com/p/6fae02789a64) |
