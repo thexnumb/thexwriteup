@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 14:19:30 GMT | Top 10 WordPress Security Mistakes You’re Probably Making in 2025 | Mahbubul Haque | [Read More](https://medium.com/p/13f61922f731) |
+| Wed, 24 Dec 2025 14:12:16 GMT | PortSwigger Web Security Academy — Lab Write‑Up 5 | 0xM3d0din | [Read More](https://medium.com/p/72b8389cd531) |
+| Wed, 24 Dec 2025 14:10:02 GMT | A Sign of Courage | Subhadeep Ghosh | [Read More](https://medium.com/p/28a806d54a1c) |
+| Wed, 24 Dec 2025 14:09:33 GMT | My Bug Bounty Methodology After 100 + Valid Submissions | Rajankumarbarik | [Read More](https://medium.com/p/9c15c5415dab) |
+| Wed, 24 Dec 2025 14:04:29 GMT | Cybersecurity Career: Why Experience Isn’t Enough in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/1ed386c5081c) |
+| Wed, 24 Dec 2025 14:00:06 GMT | Industrial Security Is Not Just Cyber | Fatma Erturk | [Read More](https://medium.com/p/8822d8ced1f1) |
+| Wed, 24 Dec 2025 13:59:05 GMT | เรียนรู้การทำ Penetration Testing ด้วยตัวเอง — EP#03 | MisterB | [Read More](https://medium.com/p/d4ece923327d) |
+| Wed, 24 Dec 2025 13:53:23 GMT | WebRAT Malware Exploits GitHub Trust: Cybercriminals Weaponize Fake Vulnerability Exploits | Technijian | [Read More](https://medium.com/p/6abc026ff24a) |
+| Wed, 24 Dec 2025 13:50:22 GMT | Bitcoin Attacks: A Chronological Analysis of Threats, Exploits, and Mitigation Strategies | Satyam | [Read More](https://medium.com/p/3a1cc48635a0) |
+| Wed, 24 Dec 2025 13:38:42 GMT | The 24 Key Benefits of Digital Marketing (Why It Actually Works) | Pranali | [Read More](https://medium.com/p/2e888e694c32) |
+| Wed, 24 Dec 2025 13:37:01 GMT | Монголчууд агуйгаасаа гараагүй л байна уу? | Onon Salhi | [Read More](https://medium.com/p/2308371fccfc) |
+| Wed, 24 Dec 2025 13:36:54 GMT | ️‍♂️ The Hidden Message — VulnOS Steganography CTF | Aditya Bhatt | [Read More](https://medium.com/p/917def0d4e14) |
+| Wed, 24 Dec 2025 13:35:16 GMT | Layered Routing for Pull Workloads: Rotate Fetch Traffic, Keep Sensitive Steps Stable | CoinToken | [Read More](https://medium.com/p/ca57749ad8bd) |
 | Wed, 24 Dec 2025 13:28:23 GMT | cURL (Client URL); komut satırı arayüzü (CLI) üzerinden HTTP, HTTPS ve diğer birçok protokol… | Murat Balcı | [Read More](https://medium.com/p/23cdf25fe6f7) |
+| Wed, 24 Dec 2025 13:25:44 GMT | ️ Let’s Learn: Missing Security Headers & CSRF (Beginner‑Friendly, Guide) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/a942a3d1d063) |
 | Wed, 24 Dec 2025 13:23:07 GMT | Ensuring Campus Safety with Professional School Security Guard Services in Georgia | Onyx Protective Services | [Read More](https://medium.com/p/03b190d942b4) |
 | Wed, 24 Dec 2025 13:19:56 GMT | Why the Dahua P5AS-PV is the Ultimate Smart Home Guardian: A Deep Dive | Tavan CCTV | [Read More](https://medium.com/p/e8fabc5a2a7d) |
 | Wed, 24 Dec 2025 13:19:55 GMT | DoS on 2 graphql subdomains | moamen mahmoud | [Read More](https://medium.com/p/f8e779af8fcf) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 07:53:46 GMT | AI Didn’t Just Change Attacks. It Changed Who the Victims Are. | Avlex Group | [Read More](https://medium.com/p/b6e70a63e6be) |
 | Wed, 24 Dec 2025 07:48:18 GMT | Diagnosing a Native WebView Crash on Android POS Devices | Somayekhaleghi | [Read More](https://medium.com/p/bb806ad2c8aa) |
 | Wed, 24 Dec 2025 07:44:45 GMT | The Humble CISO 2025 | Dr. Sybe Izaak Rispens | [Read More](https://medium.com/p/5516252c03f3) |
-| Wed, 24 Dec 2025 07:34:54 GMT | Centralized Sysmon Configuration Management with Wazuh | Hanif K A | [Read More](https://medium.com/p/0375b121ede8) |
-| Wed, 24 Dec 2025 07:28:07 GMT | eJPTv2 Exam Review (2026): How I Scored 91% in 10 Hours (Guide & Tips) | Niteesh Deshmukh | [Read More](https://medium.com/p/555c95287c52) |
-| Wed, 24 Dec 2025 07:25:04 GMT | How to Boost Organic Traffic Using a Smarter Backlink Monitoring Platform | Ethanbrot | [Read More](https://medium.com/p/48b3bd19597f) |
-| Wed, 24 Dec 2025 07:22:38 GMT | Reliable Cloud Services That Power Sydney Businesses | Any network | [Read More](https://medium.com/p/9d64d44b3cb2) |
-| Wed, 24 Dec 2025 07:19:45 GMT | Enhancing Shopify Website Development with custom Solutions from Expert Shopify Developers | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/1b90afbf28a4) |
-| Wed, 24 Dec 2025 07:14:59 GMT | The Unmanaged AI Threat | Consulting4sec | [Read More](https://medium.com/p/9a08c8bb6665) |
-| Wed, 24 Dec 2025 07:14:13 GMT | Learning Policy as Code the Hard Way (And Why DevSecOps Needs It) | Eric Blancas | [Read More](https://medium.com/p/290dc568452c) |
-| Wed, 24 Dec 2025 07:09:49 GMT | Magnum Scanner | Ashraf Mohammed | [Read More](https://medium.com/p/bde5cda2d2d3) |
-| Wed, 24 Dec 2025 07:08:09 GMT | High-Quality C Programming — Why Many Fail, and What Actually Works | Gopi Krishnan S | [Read More](https://medium.com/p/0fd3fc1b4b47) |
-| Wed, 24 Dec 2025 07:07:25 GMT | CR2 RAW spoofing, Photobashing and VFX | CasualObserver | [Read More](https://medium.com/p/3f600171f8d6) |
-| Wed, 24 Dec 2025 07:05:15 GMT | Treat Every Function Parameter Like a Potential Attack Vector | Brian C. Hart, Ph.D. | [Read More](https://medium.com/p/72b33a25d32c) |
-| Wed, 24 Dec 2025 07:04:42 GMT | Top 12 Zero Trust Tools That Are Replacing VPNs: Master Modern Access Security | Very Lazy Tech | [Read More](https://medium.com/p/fd1528584d48) |
-| Wed, 24 Dec 2025 07:03:04 GMT | The Cryptography Concept Journey — ZKP (Zero Knowledge Proof) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1169090f31ec) |
-| Wed, 24 Dec 2025 06:56:48 GMT | Zuri Njoku Understanding System Deployment and Recovery in IT | Zuri Njoku | [Read More](https://medium.com/p/647f0b40f46f) |
