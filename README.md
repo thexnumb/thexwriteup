@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 21:14:02 GMT | Stop Using process.env: Why Your TypeScript Apps Need an Environmental Contract | Santosh Jugjali | [Read More](https://medium.com/p/12ada314ddc3) |
+| Wed, 24 Dec 2025 21:06:50 GMT | How to Become a Smart Contract Bug Hunter and Get Paid in 2026 | PMartin | [Read More](https://medium.com/p/e7c39a825d29) |
+| Wed, 24 Dec 2025 20:59:17 GMT | The Infrastructure Trap: Why the US is Stuck on “Modems” While India Surfs on Light | Prateek Sharma | [Read More](https://medium.com/p/cfe206292aa9) |
+| Wed, 24 Dec 2025 20:57:54 GMT | Tenderat e AKSHI-t: Pengmarrje, kërcënime dhe ndikim politik | shteg.org | [Read More](https://medium.com/p/c0c44d2a06f2) |
+| Wed, 24 Dec 2025 20:51:25 GMT | Beyond the Upload Button: My Journey Through File Upload Vulnerabilities | M. Mustafa Hussaini | [Read More](https://medium.com/p/4c941b5fa57d) |
 | Wed, 24 Dec 2025 20:28:00 GMT | The Day I Found a Google Sheets API Key Hidden in Plain Sight — Inside a Public JavaScript File | Anshubind | [Read More](https://medium.com/p/45795be4f51c) |
 | Wed, 24 Dec 2025 20:27:57 GMT | CompTIA Certifications changed my life | GhostInject | [Read More](https://medium.com/p/547f5188fe4a) |
 | Wed, 24 Dec 2025 20:27:31 GMT | The Night I Discovered a Production Server Hiding Behind an Exposed IP — And Why It Mattered… | Anshubind | [Read More](https://medium.com/p/e0f3009cdd51) |
@@ -108,8 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 14:41:57 GMT | A Year of Red Team Training: Building Methodology and Mindset on Realistic Enterprise Networks | adib | [Read More](https://medium.com/p/9a0f888e19ec) |
 | Wed, 24 Dec 2025 14:40:28 GMT | Chinese and Indian Takeover in IT Markets in EU and North America. | Adham Ahmed Kabeel | [Read More](https://medium.com/p/6fae02789a64) |
 | Wed, 24 Dec 2025 14:39:04 GMT | Syllaby is changing the game for content creators | Piotr Macai | [Read More](https://medium.com/p/031d3e93a50c) |
-| Wed, 24 Dec 2025 14:37:52 GMT | Reverse Engineering a TP-Link Router: Getting Root Access via UART Protocol | AL QUDRI | [Read More](https://medium.com/p/670dfb8b5dae) |
-| Wed, 24 Dec 2025 14:35:35 GMT | Target Discrimination: Why AITX’s “Software Pivot” Offers Asymmetric Upside in the OTC | Paul D Pantera | [Read More](https://medium.com/p/b0c106f58448) |
-| Wed, 24 Dec 2025 14:35:27 GMT | Understanding Networking Protocols: The Backbone of the Internet | Bilal Nasir | [Read More](https://medium.com/p/e94a3644b8c8) |
-| Wed, 24 Dec 2025 14:33:26 GMT | How to Wake Your PC From Anywhere Using Wake on LAN on Android | George Salib | [Read More](https://medium.com/p/f2a4c7c0533f) |
-| Wed, 24 Dec 2025 14:32:20 GMT | Linux Security Habit #11: Freeze the System State Before You Investigate or Fix Anything | Faruk Ahmed | [Read More](https://medium.com/p/43fe6889dc8d) |
