@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 10:32:25 GMT | Zefai Insights - Cyber Resilience Series | Zefai Insights | [Read More](https://medium.com/p/a36bd7ed0f11) |
+| Wed, 24 Dec 2025 10:26:33 GMT | From Theory to Practice: Simulating Phishing Attacks (Part 2) | Cyber Timi | [Read More](https://medium.com/p/d449f9d3e035) |
+| Wed, 24 Dec 2025 10:25:24 GMT | DC:9 Walkthrough VulnHub | Muhammed Midlaj | [Read More](https://medium.com/p/0d90e726b607) |
 | Wed, 24 Dec 2025 10:12:42 GMT | Linux Fundamentals | TheNotorious | [Read More](https://medium.com/p/01f9017af0e7) |
+| Wed, 24 Dec 2025 10:11:54 GMT | PicoCTF — Scavenger Hunt - Web Exploitation - Easy | kingc06bra | [Read More](https://medium.com/p/d99515b4237f) |
 | Wed, 24 Dec 2025 10:00:47 GMT | Stop Making Your Managers Log Into Salesforce -☕ The “Coffee-Break” Approval - A Salesforce ↔… | SivaSwathi | [Read More](https://medium.com/p/7610780c0abe) |
 | Wed, 24 Dec 2025 09:55:08 GMT | 10 Things Every Programmer Must Do Before Launching a Website | Ali.Yurie | [Read More](https://medium.com/p/78d868ec5e9e) |
 | Wed, 24 Dec 2025 09:53:16 GMT | c Solutions India: The Importance of Professional Security Consultancy in a Changing… | Ciss India | [Read More](https://medium.com/p/7b779a9a7b75) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 03:41:21 GMT | SEO, AEO, GEO, and LLMO Explained: The Complete Guide to Modern Search Optimization | Nilesh Solanki | [Read More](https://medium.com/p/d4b26f706af8) |
 | Wed, 24 Dec 2025 03:37:21 GMT | Merry Christmas from the SOCFortress team! | SOCFortress | [Read More](https://medium.com/p/b6fc37bc05aa) |
 | Wed, 24 Dec 2025 03:36:37 GMT | When Secrets Go Public: What Docker Hub Leaks Reveal About Modern Security | Deven Chhajed | [Read More](https://medium.com/p/048e9f9e63b8) |
-| Wed, 24 Dec 2025 03:34:51 GMT | Access Management Market Outlook: Strategic Forecast and Industry Trends to 2030 | Gauri Kale | [Read More](https://medium.com/p/8e1d94fec06b) |
-| Wed, 24 Dec 2025 03:23:30 GMT | Tải Back Alley Tales Apk Mod (Việt Hóa) v2.21 | genzvnmod | [Read More](https://medium.com/p/b2b1c3eeed89) |
-| Wed, 24 Dec 2025 03:17:57 GMT | Stealing Domain Controller Credentials (ESC8): HackTheBox Windows Attacks & Defense Skills… | Cybersecurity Simplified | [Read More](https://medium.com/p/38544b469cd1) |
-| Wed, 24 Dec 2025 03:14:41 GMT | The Invisible Thread: Why Hacking and Sales are Actually the Same Game | Oybek Boltabayev | [Read More](https://medium.com/p/221c1f7c0c46) |
