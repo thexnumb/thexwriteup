@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 13:28:23 GMT | cURL (Client URL); komut satırı arayüzü (CLI) üzerinden HTTP, HTTPS ve diğer birçok protokol… | Murat Balcı | [Read More](https://medium.com/p/23cdf25fe6f7) |
+| Wed, 24 Dec 2025 13:23:07 GMT | Ensuring Campus Safety with Professional School Security Guard Services in Georgia | Onyx Protective Services | [Read More](https://medium.com/p/03b190d942b4) |
+| Wed, 24 Dec 2025 13:19:56 GMT | Why the Dahua P5AS-PV is the Ultimate Smart Home Guardian: A Deep Dive | Tavan CCTV | [Read More](https://medium.com/p/e8fabc5a2a7d) |
+| Wed, 24 Dec 2025 13:19:55 GMT | DoS on 2 graphql subdomains | moamen mahmoud | [Read More](https://medium.com/p/f8e779af8fcf) |
+| Wed, 24 Dec 2025 13:12:38 GMT | The Hidden Bug Behind Our Public 503 Page | Codi | [Read More](https://medium.com/p/18a00f0d5657) |
+| Wed, 24 Dec 2025 13:11:30 GMT | ICS/Modbus - Claus for Concern · Advent of Cyber 2025 - Day 19 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/975d151a77a0) |
+| Wed, 24 Dec 2025 13:11:02 GMT | Container Security: Docker & Kubernetes Hardening | Okan Yıldız | [Read More](https://medium.com/p/9140054c3072) |
+| Wed, 24 Dec 2025 13:09:10 GMT | How to Stay Connected During Business Trips | Mike. K. | [Read More](https://medium.com/p/8ce3fb53402c) |
+| Wed, 24 Dec 2025 13:07:28 GMT | Datacenter IP Blocked on the First Request? Fix ASN “Red Card” Fast | LedgerSurge | [Read More](https://medium.com/p/bc88a6613799) |
+| Wed, 24 Dec 2025 13:02:37 GMT | Bir Web Sitesine Girdiğimizde Arka Planda Neler Olur? | Esra Tosun | [Read More](https://medium.com/p/b57222193c03) |
+| Wed, 24 Dec 2025 12:58:27 GMT | Understanding CVE-2025–68613: A Critical Remote Code Execution Vulnerability in n8n Workflow… | Mahdi Eidi | [Read More](https://medium.com/p/99cfdf1f89a8) |
+| Wed, 24 Dec 2025 12:54:22 GMT | Secure by Design in Large Enterprises: Lessons from Building Security at Scale | Farrukh Khanzada | [Read More](https://medium.com/p/0c353c4c02bc) |
+| Wed, 24 Dec 2025 12:53:59 GMT | La sérialisation en PHP | Gaby zaafrani | [Read More](https://medium.com/p/3bd4c020d423) |
+| Wed, 24 Dec 2025 12:51:30 GMT | Critical n8n RCE Vulnerability (CVE-2025–68613): Over 100,000 Instances at Risk | Akaeid Hasan | [Read More](https://medium.com/p/d29ab3e4bbb4) |
+| Wed, 24 Dec 2025 12:50:26 GMT | Why You Should Regularly Test for DNS Leak to Stay Truly Anonymous Online | Anna Kolodkina | [Read More](https://medium.com/p/bfc04019a795) |
 | Wed, 24 Dec 2025 12:42:56 GMT | Try Hack Me- Poster Walkthrough | PulseEinher | [Read More](https://medium.com/p/43b73f1d99dc) |
 | Wed, 24 Dec 2025 12:33:23 GMT | Episode 1: I Stayed Without Asking | Kerungo | [Read More](https://medium.com/p/8582ff30f490) |
 | Wed, 24 Dec 2025 12:26:04 GMT | OpenAI Changelog → Slack Alerts (Low-Noise Setup) | QuietWatch | [Read More](https://medium.com/p/8ae5c5760f8e) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 07:04:42 GMT | Top 12 Zero Trust Tools That Are Replacing VPNs: Master Modern Access Security | Very Lazy Tech | [Read More](https://medium.com/p/fd1528584d48) |
 | Wed, 24 Dec 2025 07:03:04 GMT | The Cryptography Concept Journey — ZKP (Zero Knowledge Proof) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1169090f31ec) |
 | Wed, 24 Dec 2025 06:56:48 GMT | Zuri Njoku Understanding System Deployment and Recovery in IT | Zuri Njoku | [Read More](https://medium.com/p/647f0b40f46f) |
-| Wed, 24 Dec 2025 06:54:33 GMT | CSRF Where Token is Tied to Non-Session Cookie — Complete Walkthrough with Visual Guide | CYGNOD | [Read More](https://medium.com/p/8bcca10c4146) |
-| Wed, 24 Dec 2025 06:53:24 GMT | Boost, Secure, Scale: The Low-Cost VPS Formula Fueling Modern Online Businesses | Ann Taylor | [Read More](https://medium.com/p/fe02219504e6) |
-| Wed, 24 Dec 2025 06:50:43 GMT | The Technological Singularity Triggered by Pattern Intelligence Quotient (PIQ) Reaching 1.0: | Evil Bot | [Read More](https://medium.com/p/b87522ffcc1b) |
-| Wed, 24 Dec 2025 06:48:45 GMT | Can We Really Eliminate Human Error in Incident Response? | NetWitness | [Read More](https://medium.com/p/4f769d78a05b) |
-| Wed, 24 Dec 2025 06:42:43 GMT | AWS Security — S3cret Santa | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/71ed1b58973a) |
-| Wed, 24 Dec 2025 06:34:12 GMT | TheFatRat 2026: Why the Original Died — and How Ethical Hackers Rebuilt It | ghostyjoe | [Read More](https://medium.com/p/dbbd4be29a8d) |
-| Wed, 24 Dec 2025 06:32:41 GMT | Static ISP Proxies Still Get Canceled or Flagged: The Ops Workflow That Fixes It | TokenLuster | [Read More](https://medium.com/p/20d689ad4bcf) |
-| Wed, 24 Dec 2025 06:31:03 GMT | Paso Credit loan app C U S T O M E R CARE H E L P L I N E NUMBER?@+//8624872050//•`√•`8435895380///P | Paso Credit loan app C U S T O M E R CARE NUMBER | [Read More](https://medium.com/p/beeac8577737) |
-| Wed, 24 Dec 2025 06:27:56 GMT | Why Growing Businesses in India Are Choosing Virtual CFO Services | Mahendra Technosoft Pvt.Ltd. | [Read More](https://medium.com/p/6d9f27cbd295) |
-| Wed, 24 Dec 2025 06:24:59 GMT | PicoCTF — dont-use-client-side - Web Exploitation - Easy | kingc06bra | [Read More](https://medium.com/p/ea31918c48e4) |
-| Wed, 24 Dec 2025 06:24:07 GMT | A Christmas Wish | L. Iadisernia | [Read More](https://medium.com/p/42830ae24ecf) |
-| Wed, 24 Dec 2025 06:21:39 GMT | Static Residential Proxies: When They Beat Rotating Residential, How to Choose, and What You’ll Pay | Gabriele Wayner | [Read More](https://medium.com/p/2ee6ad2716c1) |
-| Wed, 24 Dec 2025 06:21:01 GMT | Ten Cybersecurity Shifts That Will Shape 2026 | Himanshu Chaudhary | [Read More](https://medium.com/p/9c7a6ac6a266) |
-| Wed, 24 Dec 2025 06:14:07 GMT | Strengthening Nigeria’s Security Culture: A New Era of Tech-Driven Guard Support | Anslem Eromobor | [Read More](https://medium.com/p/b1086112cddb) |
-| Wed, 24 Dec 2025 06:13:09 GMT | HSB60 Barrier Strengthening Saudi Arabia Critical Infrastructure Security (2024_2025) | Hitech Barrier | [Read More](https://medium.com/p/62a329c72412) |
