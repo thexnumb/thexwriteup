@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 03:14:41 GMT | The Invisible Thread: Why Hacking and Sales are Actually the Same Game | Oybek Boltabayev | [Read More](https://medium.com/p/221c1f7c0c46) |
+| Wed, 24 Dec 2025 03:13:23 GMT | NAS ile Active Directory (AD) İlişkisi | Arda Derya | [Read More](https://medium.com/p/8685d9617f5f) |
+| Wed, 24 Dec 2025 03:12:41 GMT | ️‍♂️ ReconKit I Built This Recon Tool Because Manual Recon Was Killing My Time ⚙️ | Purushotham.R | [Read More](https://medium.com/p/ff2d1a4e3606) |
+| Wed, 24 Dec 2025 03:11:42 GMT | Tải Gacha Nox Mod Apk v1.1.0 Mới Nhất Cho Android | Game4u | [Read More](https://medium.com/p/960c847558b7) |
+| Wed, 24 Dec 2025 03:08:58 GMT | The EPOCH of Cybernetic Teams | Dr. Vasileios Ioannidis | [Read More](https://medium.com/p/5d1f621ce3df) |
+| Wed, 24 Dec 2025 03:04:21 GMT | How to Master OAuth 2.0 | Suraj Bhandari | [Read More](https://medium.com/p/1b4ea11363a9) |
+| Wed, 24 Dec 2025 02:59:54 GMT | Tải Hack Knives Crash Mod APK (Full Tiền, Kim Cương) v1.0.49 | Bandisharecx | [Read More](https://medium.com/p/c0577d3bc2ac) |
+| Wed, 24 Dec 2025 02:57:30 GMT | Computer Network For Hackers: Learn How Data Moves | blackey07 | [Read More](https://medium.com/p/12010a8a01cc) |
+| Wed, 24 Dec 2025 02:55:04 GMT | TryHackMe: tomghost Writeup | cbev | [Read More](https://medium.com/p/fcd8eb29092b) |
+| Wed, 24 Dec 2025 02:48:15 GMT | Tải Plants vs Zombies Fusion Mod Apk V3.0.1 Cho Android | Apkpuredev | [Read More](https://medium.com/p/3f1b1778489a) |
+| Wed, 24 Dec 2025 02:41:52 GMT | My Technical Goals for 2026: Linux, Hardware, and Self-Hosting | Sara Sheon | [Read More](https://medium.com/p/3f255cbb0bba) |
+| Wed, 24 Dec 2025 02:35:05 GMT | Everyone wants to use DeepSeek-V3.2 | Volodimir Krytsky | [Read More](https://medium.com/p/d72d7821419b) |
+| Wed, 24 Dec 2025 02:07:34 GMT | Night at the Museum — FahemSec Web Challenge | محمد بن إبراهيم | [Read More](https://medium.com/p/f2d6f8536bea) |
+| Wed, 24 Dec 2025 01:59:35 GMT | Stale Admin Invitations Lead to Unauthorized Admin Access | Mohamed Hwedy | [Read More](https://medium.com/p/9fa766e631d9) |
 | Wed, 24 Dec 2025 01:38:27 GMT | Understanding OWASP API Security Top 10 With Live Breach Examples — A Practical Guide | Mainekhacker | [Read More](https://medium.com/p/397aac566db5) |
 | Wed, 24 Dec 2025 01:38:15 GMT | Best Recon Method to Find JavaScript Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/ad3b1313afe2) |
 | Wed, 24 Dec 2025 01:10:31 GMT | The First Rust Linux Kernel CVE Just Happened: Why It’s Actually Good News | Ashish Sharda | [Read More](https://medium.com/p/e2fc2ca8569f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 16:17:07 GMT | What Regulators and Courts Quietly Did to AI This Week | A D | [Read More](https://medium.com/p/f3900e33e819) |
 | Tue, 23 Dec 2025 16:17:03 GMT | Breach the Perimeter via Prompt Injection : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/a21b688cc54d) |
 | Tue, 23 Dec 2025 16:16:40 GMT | The Good, the Bad, and the Glitchy: Navigating 2025’s Tech Landscape and What 2026 Holds | Paradise technologies Inc | [Read More](https://medium.com/p/f598a558e504) |
-| Tue, 23 Dec 2025 16:12:46 GMT | Brooklyn Nine Nine Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/0bd514185b0b) |
-| Tue, 23 Dec 2025 16:08:20 GMT | React2Shell: The Critical Vulnerability Every Developer Needs to Know About | Mohd uvais wali khan | [Read More](https://medium.com/p/ae27c9269cc4) |
-| Tue, 23 Dec 2025 16:05:33 GMT | 3rd Building Enterprise Network Infrastructure: A Hotel Network Design Case Study | iYÁOmarv_ | [Read More](https://medium.com/p/c9a28ee5494a) |
-| Tue, 23 Dec 2025 16:02:21 GMT | The Ultimate Guide to Cybersecurity: Protecting Yourself and Your Organization from Hackers | Negro Med | [Read More](https://medium.com/p/153281701f95) |
-| Tue, 23 Dec 2025 16:00:54 GMT | Cybersecurity & Compliance Solutions: Safeguarding Business in a Digital Era | TVG Tech | [Read More](https://medium.com/p/d38e0512644d) |
-| Tue, 23 Dec 2025 16:00:07 GMT | Linux Memory Analysis & Credential Hunting (ProcFS & Live Processes) | Cybersecplayground | [Read More](https://medium.com/p/12ddccfaa595) |
-| Tue, 23 Dec 2025 15:57:44 GMT | DO WE NEED A CYBER FORCE? | Chuck Durang | [Read More](https://medium.com/p/eaeec9ef6987) |
-| Tue, 23 Dec 2025 15:57:27 GMT | The Metaverse and Cyber Security Jobs | Aiswarya N | [Read More](https://medium.com/p/b0aeea4bbb0e) |
-| Tue, 23 Dec 2025 15:55:25 GMT | Smuggling Orders Past Business Logic | default_0x | [Read More](https://medium.com/p/d3433a1e989e) |
-| Tue, 23 Dec 2025 15:50:00 GMT | "Doing Security" vs. “Being Secure” -  What’s the Difference? | Bona Karides | [Read More](https://medium.com/p/340979785a19) |
-| Tue, 23 Dec 2025 15:46:40 GMT | Holiday Scam Survival Kit (2025): Delivery Texts, ‘Family Emergency’ Calls, Gift Card Traps | Wes Young | [Read More](https://medium.com/p/d1a029801b21) |
-| Tue, 23 Dec 2025 15:45:32 GMT | The First Security Conversation You Have Too Late: Hardening an Existing Azure Environment | Jurgen Allewijn | [Read More](https://medium.com/p/33115c772763) |
-| Tue, 23 Dec 2025 15:45:23 GMT | Exploit Weak Bucket Policies for Privileged Access : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/74bd103034a5) |
-| Tue, 23 Dec 2025 15:43:15 GMT | The First Thing a Beginner in Information Security Needs to Know | Angela | [Read More](https://medium.com/p/1b77a4fc0f39) |
