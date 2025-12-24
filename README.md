@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 06:34:12 GMT | TheFatRat 2026: Why the Original Died — and How Ethical Hackers Rebuilt It | ghostyjoe | [Read More](https://medium.com/p/dbbd4be29a8d) |
+| Wed, 24 Dec 2025 06:31:03 GMT | Paso Credit loan app C U S T O M E R CARE H E L P L I N E NUMBER?@+//8624872050//•`√•`8435895380///P | Paso Credit loan app C U S T O M E R CARE NUMBER | [Read More](https://medium.com/p/beeac8577737) |
+| Wed, 24 Dec 2025 06:27:56 GMT | Why Growing Businesses in India Are Choosing Virtual CFO Services | Mahendra Technosoft Pvt.Ltd. | [Read More](https://medium.com/p/6d9f27cbd295) |
+| Wed, 24 Dec 2025 06:24:59 GMT | PicoCTF — dont-use-client-side - Web Exploitation - Easy | kingc06bra | [Read More](https://medium.com/p/ea31918c48e4) |
+| Wed, 24 Dec 2025 06:24:07 GMT | A Christmas Wish | L. Iadisernia | [Read More](https://medium.com/p/42830ae24ecf) |
+| Wed, 24 Dec 2025 06:21:39 GMT | Static Residential Proxies: When They Beat Rotating Residential, How to Choose, and What You’ll Pay | Gabriele Wayner | [Read More](https://medium.com/p/2ee6ad2716c1) |
+| Wed, 24 Dec 2025 06:21:01 GMT | Ten Cybersecurity Shifts That Will Shape 2026 | Himanshu Chaudhary | [Read More](https://medium.com/p/9c7a6ac6a266) |
+| Wed, 24 Dec 2025 06:14:07 GMT | Strengthening Nigeria’s Security Culture: A New Era of Tech-Driven Guard Support | Anslem Eromobor | [Read More](https://medium.com/p/b1086112cddb) |
+| Wed, 24 Dec 2025 06:13:09 GMT | HSB60 Barrier Strengthening Saudi Arabia Critical Infrastructure Security (2024_2025) | Hitech Barrier | [Read More](https://medium.com/p/62a329c72412) |
+| Wed, 24 Dec 2025 06:08:16 GMT | The AI Hype Is Fading Fast : But the Real Next Wave Is Already Building | aatef tasneem khan | [Read More](https://medium.com/p/77b6bf220579) |
+| Wed, 24 Dec 2025 06:00:50 GMT | Open-Source Supply Chain Compromise Escalates Across npm & NuGet | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/3d65e3ed2a53) |
+| Wed, 24 Dec 2025 06:00:48 GMT | PortSwigger Web Security Academy: All Information Disclosure Labs Solved (Full Walkthrough) | Blueorionn | [Read More](https://medium.com/p/97f9c4c95edc) |
+| Wed, 24 Dec 2025 05:58:41 GMT | ️Pentester’lar için Developer Tools: Inspector, Debugger ve Network | Ertan Caner Eskici | [Read More](https://medium.com/p/05c328bf335e) |
+| Wed, 24 Dec 2025 05:52:22 GMT | I Designed and Configured: A Campus University Network Using Cisco Packet Tracer | iYÁOmarv_ | [Read More](https://medium.com/p/6fd5a805b79c) |
+| Wed, 24 Dec 2025 05:46:44 GMT | How Security Best Practices Change for Full Stack Applications | Nschool Academy | [Read More](https://medium.com/p/778b2e4d1cf8) |
 | Wed, 24 Dec 2025 05:35:12 GMT | Why Penpot is the Future of Design Tools: A Deep Dive Beyond Figma, Adobe XD, and Sketch | Alok Dubey | [Read More](https://medium.com/p/0e3616eef60f) |
 | Wed, 24 Dec 2025 05:32:29 GMT | AI-Driven Wireless Penetration Testing. One Promt WIFI cracking | Andrey Pautov | [Read More](https://medium.com/p/6477c06f6af4) |
 | Wed, 24 Dec 2025 05:32:24 GMT | LLM Red-Team-in-a-Box: Prompt Injection, Data Exfil, and Safe-by-Default Middleware | Codastra | [Read More](https://medium.com/p/e00cee361446) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 19:36:51 GMT | Bit & Byte Nedir? | Onur Öztürk | [Read More](https://medium.com/p/c9347f2a46ab) |
 | Tue, 23 Dec 2025 19:30:39 GMT | Hacking Smarter Not Harder, My Ride with HexStrike AI | sudo whoami | [Read More](https://medium.com/p/b48e7a3bca9c) |
 | Tue, 23 Dec 2025 19:14:38 GMT | How We Built a VPN That Survives Blocks Without Making Life Hard for Users | VPNHouse | [Read More](https://medium.com/p/4ada0bbb2980) |
-| Tue, 23 Dec 2025 19:07:08 GMT | Fixing JavaScript Hijacking: Securing Chatbot APIs Against JSONP Attacks | Harshitha Reddy | [Read More](https://medium.com/p/dbb9b9e6c7e1) |
-| Tue, 23 Dec 2025 18:57:20 GMT | Quantum Computing for Beginners: Why it matters and how it will change online security by 2030 | Ranam | [Read More](https://medium.com/p/64fc7e8c2be2) |
-| Tue, 23 Dec 2025 18:56:31 GMT | Malware Analysis — Malhare.exe - AoC 2025 Day — 21 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/0dc743b7d49b) |
-| Tue, 23 Dec 2025 18:56:26 GMT | The AI That Couldn’t Keep a Secret: How One Hidden Line of Text Leaked an Entire Company’s Data | Mohd uvais wali khan | [Read More](https://medium.com/p/da0f64f90cea) |
-| Tue, 23 Dec 2025 18:53:19 GMT | You Don’t Need a Zero-Day If the Door Is Already Open | Anthony K | [Read More](https://medium.com/p/1640bbbc6eeb) |
-| Tue, 23 Dec 2025 18:42:08 GMT | Lookup -TryHackMe Walkthrough | Nick Bayne | [Read More](https://medium.com/p/4a42c461166e) |
-| Tue, 23 Dec 2025 18:38:13 GMT | LinkedIn Üzerinden Aldığım Şüpheli İş İlanı | Hakan ÇEVİK | [Read More](https://medium.com/p/163f98ba3bb1) |
-| Tue, 23 Dec 2025 18:37:28 GMT | Finding Weakness Before Hackers Do | Kambetastephano | [Read More](https://medium.com/p/a927b1f0e940) |
-| Tue, 23 Dec 2025 18:34:37 GMT | POST-QUANTUM BLOCKCHAIN: AN UPDATE FOR THE FUTURE? | Christopher Kissel | [Read More](https://medium.com/p/a7c6652ce1f2) |
-| Tue, 23 Dec 2025 18:33:21 GMT | The Day I Found a Prometheus Node Exporter Exposed to the Internet — And Why It Revealed More… | Anshubind | [Read More](https://medium.com/p/1841acd4496b) |
-| Tue, 23 Dec 2025 18:32:40 GMT | The Night I Found a Backup ZIP File Sitting in Plain Sight — And Why It Could Have Exposed Far… | Anshubind | [Read More](https://medium.com/p/5edfb2fdabde) |
-| Tue, 23 Dec 2025 18:26:30 GMT | Certified Ethical Hacker — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/4e172ef25c20) |
-| Tue, 23 Dec 2025 18:13:47 GMT | Essential Security Features to Implement Before Deploying Any Backend Project | Istekhar | [Read More](https://medium.com/p/2b0281dbece0) |
-| Tue, 23 Dec 2025 18:12:41 GMT | Ethical Hacking Is Not About Breaking In, It Is About Understanding Why Systems Fail | Kambetastephano | [Read More](https://medium.com/p/8f4b3f0f3a58) |
-| Tue, 23 Dec 2025 18:12:15 GMT | Cybersecurity: A Comprehensive, In-Depth Guide to Digital Protection in the Modern World | Arbsbuy LLC | [Read More](https://medium.com/p/bc509b7537dc) |
