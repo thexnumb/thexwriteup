@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 18:25:55 GMT | This is a script to lock off webview from its default spyware functions to more locked down mode | William Ashley | [Read More](https://medium.com/p/50b275b2ac49) |
+| Wed, 24 Dec 2025 18:23:19 GMT | The Space Between Wanting | Novita Eka Lestari | [Read More](https://medium.com/p/d2697d5f36a6) |
+| Wed, 24 Dec 2025 18:18:46 GMT | Practical Phone Security Without Sacrificing Speed | Geoffrey Wenger | [Read More](https://medium.com/p/308fd41c83f7) |
+| Wed, 24 Dec 2025 18:18:40 GMT | When AI Convenience Starts Undermining Human Skill | Geoffrey Wenger | [Read More](https://medium.com/p/4ab19a21443e) |
+| Wed, 24 Dec 2025 18:16:34 GMT | Autonomous Hacks 2026 (Offline): Where Bold Minds Leave the Crowd Behind | Harsh Mistry | [Read More](https://medium.com/p/4abb8edd32fb) |
+| Wed, 24 Dec 2025 18:12:31 GMT | TryHackMe Writeup: ColddBox Easy | Berkay AĞGÜL | [Read More](https://medium.com/p/679309b4bac7) |
+| Wed, 24 Dec 2025 18:06:01 GMT | Hunting the Unseen: My Journey with Blind XSS (Case Studies) | Samet Yiğit | [Read More](https://medium.com/p/abf1c8c8fac9) |
+| Wed, 24 Dec 2025 17:59:48 GMT | LISP vs BGP EVPN in Campus Fabrics: It’s Not About Better, It’s About Fit | Anas | [Read More](https://medium.com/p/fc1320f04b7c) |
+| Wed, 24 Dec 2025 17:49:48 GMT | Siber Güvenliğin Merkezi Sinir Sistemi: SIEM | Çınar Genç | [Read More](https://medium.com/p/7bd269f8613e) |
+| Wed, 24 Dec 2025 17:49:39 GMT | 5 AI-Powered Cybersecurity Tools That Saved My Job in 2025 (+ How to Use Them) | Zahra Bibi | [Read More](https://medium.com/p/b587925d9372) |
+| Wed, 24 Dec 2025 17:49:34 GMT | “Bug Bounty Bootcamp #4: How to Find and Target Anything on the Internet (IP Addresses Explained)” | Aman Sharma | [Read More](https://medium.com/p/7ff37422cc74) |
+| Wed, 24 Dec 2025 17:49:26 GMT | When Vulnerability Management Turns into Incident Response | Katlyn Gallo | [Read More](https://medium.com/p/6b67dc8b3084) |
+| Wed, 24 Dec 2025 17:45:58 GMT | Understanding CVEs: A Complete Guide to Bug Hunting and Reporting | SACHIN PV | [Read More](https://medium.com/p/63f470b885f5) |
 | Wed, 24 Dec 2025 17:36:36 GMT | What Failing the CPTS Taught Me About Real-World Pentesting | SilentExploit | [Read More](https://medium.com/p/b4403f0c98f8) |
 | Wed, 24 Dec 2025 17:33:05 GMT | When AI Takes Away The Bottom Rung of the Job Ladder | Helen Patton | [Read More](https://medium.com/p/a2f95a95dbc7) |
 | Wed, 24 Dec 2025 17:29:57 GMT | Securing the Road Ahead: OT Cybersecurity in Modern Transport Infrastructure | Rob Campbell | [Read More](https://medium.com/p/20235b6169fb) |
@@ -100,16 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 13:11:30 GMT | ICS/Modbus - Claus for Concern · Advent of Cyber 2025 - Day 19 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/975d151a77a0) |
 | Wed, 24 Dec 2025 13:11:02 GMT | Container Security: Docker & Kubernetes Hardening | Okan Yıldız | [Read More](https://medium.com/p/9140054c3072) |
 | Wed, 24 Dec 2025 13:09:10 GMT | How to Stay Connected During Business Trips | Mike. K. | [Read More](https://medium.com/p/8ce3fb53402c) |
-| Wed, 24 Dec 2025 13:07:28 GMT | Datacenter IP Blocked on the First Request? Fix ASN “Red Card” Fast | LedgerSurge | [Read More](https://medium.com/p/bc88a6613799) |
-| Wed, 24 Dec 2025 13:02:37 GMT | Bir Web Sitesine Girdiğimizde Arka Planda Neler Olur? | Esra Tosun | [Read More](https://medium.com/p/b57222193c03) |
-| Wed, 24 Dec 2025 12:58:27 GMT | Understanding CVE-2025–68613: A Critical Remote Code Execution Vulnerability in n8n Workflow… | Mahdi Eidi | [Read More](https://medium.com/p/99cfdf1f89a8) |
-| Wed, 24 Dec 2025 12:54:22 GMT | Secure by Design in Large Enterprises: Lessons from Building Security at Scale | Farrukh Khanzada | [Read More](https://medium.com/p/0c353c4c02bc) |
-| Wed, 24 Dec 2025 12:53:59 GMT | La sérialisation en PHP | Gaby zaafrani | [Read More](https://medium.com/p/3bd4c020d423) |
-| Wed, 24 Dec 2025 12:51:30 GMT | Critical n8n RCE Vulnerability (CVE-2025–68613): Over 100,000 Instances at Risk | Akaeid Hasan | [Read More](https://medium.com/p/d29ab3e4bbb4) |
-| Wed, 24 Dec 2025 12:50:26 GMT | Why You Should Regularly Test for DNS Leak to Stay Truly Anonymous Online | Anna Kolodkina | [Read More](https://medium.com/p/bfc04019a795) |
-| Wed, 24 Dec 2025 12:42:56 GMT | Try Hack Me- Poster Walkthrough | PulseEinher | [Read More](https://medium.com/p/43b73f1d99dc) |
-| Wed, 24 Dec 2025 12:33:23 GMT | Episode 1: I Stayed Without Asking | Kerungo | [Read More](https://medium.com/p/8582ff30f490) |
-| Wed, 24 Dec 2025 12:26:04 GMT | OpenAI Changelog → Slack Alerts (Low-Noise Setup) | QuietWatch | [Read More](https://medium.com/p/8ae5c5760f8e) |
-| Wed, 24 Dec 2025 12:25:51 GMT | The Illusion of Client-Side Security | Pwnr | [Read More](https://medium.com/p/9eea04ea9774) |
-| Wed, 24 Dec 2025 12:17:48 GMT | ️‍♂️ How Red Teams Win Before the Attack Even Starts | Aniket Nayak | [Read More](https://medium.com/p/54a64e69be0e) |
-| Wed, 24 Dec 2025 12:12:35 GMT | Amazon Bedrock Guardrails: Seeing Is Believing (With vs Without) | Guram Jalaghonia | [Read More](https://medium.com/p/89532f728d3b) |
