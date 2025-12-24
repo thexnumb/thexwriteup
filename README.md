@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 16:42:10 GMT | Decision-Making Authority of an IT Leader | Çağrı ÇİMENCİ | [Read More](https://medium.com/p/2e36ca458423) |
+| Wed, 24 Dec 2025 16:42:04 GMT | What happens when Instagram changes its digital architecture? | 1eonor | [Read More](https://medium.com/p/b1f698f6703d) |
+| Wed, 24 Dec 2025 16:38:35 GMT | An AI Just Became the #1 Hacker on HackerOne. Here’s Why You Should Pay Attention | Abdullah Javeed | [Read More](https://medium.com/p/3747ca58aba5) |
+| Wed, 24 Dec 2025 16:33:26 GMT | Windows API İstismarı: Malware Geliştiricilerinin En Çok Kullandığı 61 Kritik Fonksiyon | Melih Yusuf Ercan | [Read More](https://medium.com/p/862526c90801) |
+| Wed, 24 Dec 2025 16:33:10 GMT | C2 Detection - Command & Carol · Advent of Cyber 2025 - Day 22 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/beeee1606cd5) |
+| Wed, 24 Dec 2025 16:32:05 GMT | Leveraging Splunk SIEM to Detect DoS Attacks | Citadel Cybersec | [Read More](https://medium.com/p/957069bf2682) |
+| Wed, 24 Dec 2025 16:22:57 GMT | Hybrid Design Patterns: Strategy + Command (That Most People Don’t Know) | Jitin Kayyala | [Read More](https://medium.com/p/eea4748ed064) |
+| Wed, 24 Dec 2025 16:20:53 GMT | Stanford : une IA de hacking surpasse 9 experts sur 10 à moindre coût | Marc Barbezat | [Read More](https://medium.com/p/178d30fcb1bf) |
 | Wed, 24 Dec 2025 16:20:47 GMT | Cybersecurity: How AI Is Transforming Digital Defense into a High-Growth Global Opportunity | Ravi Prasanth | [Read More](https://medium.com/p/987fbfd02e68) |
 | Wed, 24 Dec 2025 16:20:31 GMT | Day 142 — Behemoth Level-2 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/87bc7da16a52) |
 | Wed, 24 Dec 2025 16:11:29 GMT | C2 Detection — Command & Carol - AoC 2025 Day — 22 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a679c6417cc6) |
@@ -105,11 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 10:52:17 GMT | Day 20: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/6e75d843b8ae) |
 | Wed, 24 Dec 2025 10:51:56 GMT | Day 19: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/4499d5c29815) |
 | Wed, 24 Dec 2025 10:44:16 GMT | Legal Fees and Settlements in Cyber Insurance: Why This Coverage Is a Business Lifesaver | piyush | [Read More](https://medium.com/p/dfeab35d3acf) |
-| Wed, 24 Dec 2025 10:44:15 GMT | How SOC Teams Can Monitor and Respond to CVE-2025–55182 Exploit Attempts | SecureSlate | [Read More](https://medium.com/p/473ca0970e34) |
-| Wed, 24 Dec 2025 10:40:28 GMT | Best IT Services Company in Hyderabad | creative mind | [Read More](https://medium.com/p/35efd606a23e) |
-| Wed, 24 Dec 2025 10:32:25 GMT | Zefai Insights - Cyber Resilience Series | Zefai Insights | [Read More](https://medium.com/p/a36bd7ed0f11) |
-| Wed, 24 Dec 2025 10:26:33 GMT | From Theory to Practice: Simulating Phishing Attacks (Part 2) | Cyber Timi | [Read More](https://medium.com/p/d449f9d3e035) |
-| Wed, 24 Dec 2025 10:25:24 GMT | DC:9 Walkthrough VulnHub | Muhammed Midlaj | [Read More](https://medium.com/p/0d90e726b607) |
-| Wed, 24 Dec 2025 10:12:42 GMT | Linux Fundamentals | TheNotorious | [Read More](https://medium.com/p/01f9017af0e7) |
-| Wed, 24 Dec 2025 10:11:54 GMT | PicoCTF — Scavenger Hunt - Web Exploitation - Easy | kingc06bra | [Read More](https://medium.com/p/d99515b4237f) |
-| Wed, 24 Dec 2025 10:00:47 GMT | Stop Making Your Managers Log Into Salesforce -☕ The “Coffee-Break” Approval - A Salesforce ↔… | SivaSwathi | [Read More](https://medium.com/p/7610780c0abe) |
