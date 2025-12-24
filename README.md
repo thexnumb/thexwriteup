@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 12:42:56 GMT | Try Hack Me- Poster Walkthrough | PulseEinher | [Read More](https://medium.com/p/43b73f1d99dc) |
+| Wed, 24 Dec 2025 12:33:23 GMT | Episode 1: I Stayed Without Asking | Kerungo | [Read More](https://medium.com/p/8582ff30f490) |
+| Wed, 24 Dec 2025 12:26:04 GMT | OpenAI Changelog → Slack Alerts (Low-Noise Setup) | QuietWatch | [Read More](https://medium.com/p/8ae5c5760f8e) |
+| Wed, 24 Dec 2025 12:25:51 GMT | The Illusion of Client-Side Security | Pwnr | [Read More](https://medium.com/p/9eea04ea9774) |
+| Wed, 24 Dec 2025 12:17:48 GMT | ️‍♂️ How Red Teams Win Before the Attack Even Starts | Aniket Nayak | [Read More](https://medium.com/p/54a64e69be0e) |
+| Wed, 24 Dec 2025 12:12:35 GMT | Amazon Bedrock Guardrails: Seeing Is Believing (With vs Without) | Guram Jalaghonia | [Read More](https://medium.com/p/89532f728d3b) |
+| Wed, 24 Dec 2025 12:11:01 GMT | In-Depth Technical Security Analysis of CVE-2025-66412 | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/ca43dfbae5ed) |
+| Wed, 24 Dec 2025 12:04:04 GMT | Base64 Decode Flag | Agil Jibrin | [Read More](https://medium.com/p/21c45bff00af) |
+| Wed, 24 Dec 2025 12:03:28 GMT | Authentication Without Secrets: Inside the World of Passkeys | Shekhar Saxena | [Read More](https://medium.com/p/f1a1748680ba) |
+| Wed, 24 Dec 2025 12:03:17 GMT | Implementing security with Python’s cryptography package | DHEV MUGUNDDHAN A | [Read More](https://medium.com/p/e6412a658a03) |
+| Wed, 24 Dec 2025 12:02:33 GMT | Career Growth in Canadian IT Jobs: Entry-Level to Senior-Level Pathways | gyan guide | [Read More](https://medium.com/p/d86ec27005e8) |
+| Wed, 24 Dec 2025 11:59:00 GMT | Android App Pentesting A to Z | Rishav anand | [Read More](https://medium.com/p/a10c5d5d9846) |
+| Wed, 24 Dec 2025 11:57:47 GMT | Zero-Tolerance Security Backed by Next-Gen Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/71d000b91f40) |
+| Wed, 24 Dec 2025 11:48:53 GMT | How We Build Privacy-First Systems Using PIPEDA as a Guiding Framework | Gyan Consulting | [Read More](https://medium.com/p/bc2cecb528ae) |
+| Wed, 24 Dec 2025 11:45:16 GMT | XSS Vulnerability — ParoCyber Training | Claudius Thompson | [Read More](https://medium.com/p/cf2f30ef899d) |
+| Wed, 24 Dec 2025 11:42:00 GMT | Vulnerability Scanning Automation in Networks | Esra Kayhan | [Read More](https://medium.com/p/44583d3307ce) |
+| Wed, 24 Dec 2025 11:38:06 GMT | Why Hackers Love the Holidays: A Security Auditor’s Perspective | Gideon Cohen | [Read More](https://medium.com/p/68baf2e594bf) |
+| Wed, 24 Dec 2025 11:36:38 GMT | Mother Spends Life Savings on Son’s Wedding Home, Gets Devastating Surprise | XeniaAusten | [Read More](https://medium.com/p/215d8651deb5) |
 | Wed, 24 Dec 2025 11:23:54 GMT | The 2026 SAST Shortlist: What’s Actually Worth Using? | Maikel Mardjan | [Read More](https://medium.com/p/a07e65ba6b9f) |
 | Wed, 24 Dec 2025 11:08:52 GMT | AI Adoption Is Creating Security Debt Nobody Is Pricing In | Naveen C | [Read More](https://medium.com/p/6b066f389524) |
 | Wed, 24 Dec 2025 11:07:39 GMT | CVE-2025-68613  —  Authenticated Remote Code Execution (RCE) in n8n Workflow Automation Platform | Bash Overflow | [Read More](https://medium.com/p/b00da2f83c31) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 06:21:01 GMT | Ten Cybersecurity Shifts That Will Shape 2026 | Himanshu Chaudhary | [Read More](https://medium.com/p/9c7a6ac6a266) |
 | Wed, 24 Dec 2025 06:14:07 GMT | Strengthening Nigeria’s Security Culture: A New Era of Tech-Driven Guard Support | Anslem Eromobor | [Read More](https://medium.com/p/b1086112cddb) |
 | Wed, 24 Dec 2025 06:13:09 GMT | HSB60 Barrier Strengthening Saudi Arabia Critical Infrastructure Security (2024_2025) | Hitech Barrier | [Read More](https://medium.com/p/62a329c72412) |
-| Wed, 24 Dec 2025 06:08:16 GMT | The AI Hype Is Fading Fast : But the Real Next Wave Is Already Building | aatef tasneem khan | [Read More](https://medium.com/p/77b6bf220579) |
-| Wed, 24 Dec 2025 06:00:50 GMT | Open-Source Supply Chain Compromise Escalates Across npm & NuGet | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/3d65e3ed2a53) |
-| Wed, 24 Dec 2025 06:00:48 GMT | PortSwigger Web Security Academy: All Information Disclosure Labs Solved (Full Walkthrough) | Blueorionn | [Read More](https://medium.com/p/97f9c4c95edc) |
-| Wed, 24 Dec 2025 05:58:41 GMT | ️Pentester’lar için Developer Tools: Inspector, Debugger ve Network | Ertan Caner Eskici | [Read More](https://medium.com/p/05c328bf335e) |
-| Wed, 24 Dec 2025 05:52:22 GMT | I Designed and Configured: A Campus University Network Using Cisco Packet Tracer | iYÁOmarv_ | [Read More](https://medium.com/p/6fd5a805b79c) |
-| Wed, 24 Dec 2025 05:46:44 GMT | How Security Best Practices Change for Full Stack Applications | Nschool Academy | [Read More](https://medium.com/p/778b2e4d1cf8) |
-| Wed, 24 Dec 2025 05:35:12 GMT | Why Penpot is the Future of Design Tools: A Deep Dive Beyond Figma, Adobe XD, and Sketch | Alok Dubey | [Read More](https://medium.com/p/0e3616eef60f) |
-| Wed, 24 Dec 2025 05:32:29 GMT | AI-Driven Wireless Penetration Testing. One Promt WIFI cracking | Andrey Pautov | [Read More](https://medium.com/p/6477c06f6af4) |
-| Wed, 24 Dec 2025 05:32:24 GMT | LLM Red-Team-in-a-Box: Prompt Injection, Data Exfil, and Safe-by-Default Middleware | Codastra | [Read More](https://medium.com/p/e00cee361446) |
-| Wed, 24 Dec 2025 05:18:29 GMT | Will Quantum Computing Break the Internet — or Save It? | Sakthimurugan S | [Read More](https://medium.com/p/7e7013a3ab78) |
-| Wed, 24 Dec 2025 05:08:38 GMT | IT Budget 2026: How To Create and Spend It? | HostNOC | [Read More](https://medium.com/p/5521e15d961d) |
-| Wed, 24 Dec 2025 05:08:28 GMT | 7 Powerful Benefits of CCNP Security Certification You Can’t Ignore in 2026 | Network Kings | [Read More](https://medium.com/p/08824291578e) |
-| Wed, 24 Dec 2025 05:08:16 GMT | Completing My First Google Cybersecurity Certificate Course: Week One Reflections | Callum - Cyber Security Journey | [Read More](https://medium.com/p/2e32f0b27688) |
-| Wed, 24 Dec 2025 05:02:23 GMT | Zero Trust Architecture: The Future of Secure Cloud Environments | F9 Infotech | [Read More](https://medium.com/p/d70a18e4fd20) |
-| Wed, 24 Dec 2025 05:01:44 GMT | Why Power & Energy Organizations Are the New Prime Targets for Cyber attacks Attacks | Ankit rai | [Read More](https://medium.com/p/6c3c12beaaef) |
-| Wed, 24 Dec 2025 04:40:03 GMT | Ketika Mobil Listrik Harus Waspada: Review Paper LLM-Powered Threat Intelligence untuk EV | nur.afandi | [Read More](https://medium.com/p/45a6bbcdb739) |
-| Wed, 24 Dec 2025 04:39:16 GMT | Rooting the Dev Machine (TCM Security) — Step-by-Step Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/5eb702c56eb6) |
-| Wed, 24 Dec 2025 04:38:36 GMT | 4 Deep Recon Techniques | Abhirup Konwar | [Read More](https://medium.com/p/563f5fb154df) |
