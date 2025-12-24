@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 20:13:45 GMT | Building A Fake Company Database And Employee Login Portal to Practice Data Exfiltration | Johnny Meintel | [Read More](https://medium.com/p/59c0421218f9) |
+| Wed, 24 Dec 2025 19:45:03 GMT | Spotify Allegedly Scraped: A 300TB Music Archive Sparks Global Debate | wandy iskwanto | [Read More](https://medium.com/p/1d04bb0b60a7) |
 | Wed, 24 Dec 2025 19:36:22 GMT | CSI: Remote Desktops & Invisible Artifacts — A Forensic Love Story | Fatima Zakir | [Read More](https://medium.com/p/08ac0e438e73) |
 | Wed, 24 Dec 2025 19:23:28 GMT | Top Most Common Penetration Testing Interview Questions: A “No-Robots” Guide to Acing the Role | The Daily Cyber News | [Read More](https://medium.com/p/7dc9a468d2de) |
 | Wed, 24 Dec 2025 19:22:09 GMT | Squashing a Critical SQL Injection in Our Chatbot API | Harshitha Reddy | [Read More](https://medium.com/p/9c1587464a91) |
@@ -111,5 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 14:32:20 GMT | The Poison in the Pipeline: Why AI Training Data Is Your Biggest Security Blind Spot | Nwosu Rosemary | [Read More](https://medium.com/p/434dee3a6043) |
 | Wed, 24 Dec 2025 14:19:30 GMT | Top 10 WordPress Security Mistakes You’re Probably Making in 2025 | Mahbubul Haque | [Read More](https://medium.com/p/13f61922f731) |
 | Wed, 24 Dec 2025 14:12:16 GMT | PortSwigger Web Security Academy — Lab Write‑Up 5 | 0xM3d0din | [Read More](https://medium.com/p/72b8389cd531) |
-| Wed, 24 Dec 2025 14:10:02 GMT | A Sign of Courage | Subhadeep Ghosh | [Read More](https://medium.com/p/28a806d54a1c) |
-| Wed, 24 Dec 2025 14:09:33 GMT | My Bug Bounty Methodology After 100 + Valid Submissions | Rajankumarbarik | [Read More](https://medium.com/p/9c15c5415dab) |
