@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 23:35:53 GMT | Hacking Juice Shop: From Recon to Admin Access in 48 Hours | Mohamed Magdy | [Read More](https://medium.com/p/49c24c9f41f4) |
+| Wed, 24 Dec 2025 23:34:25 GMT | Digital Footprints: The Internet Knows More Than You Think | Shruthilaya | [Read More](https://medium.com/p/e5db5d15ff85) |
 | Wed, 24 Dec 2025 23:20:20 GMT | Before CloudNetX Had a Name | Sec Guy | [Read More](https://medium.com/p/eeff28852b50) |
+| Wed, 24 Dec 2025 23:08:40 GMT | OpenAI says prompt injection attacks “long-term security challenge” | Abstract Mind | [Read More](https://medium.com/p/62be5b316fd9) |
 | Wed, 24 Dec 2025 23:02:55 GMT | The React “Flight” Risk: Understanding CVE-2025–55182 and the Next.js Exploits | CyberSecurity | [Read More](https://medium.com/p/74fb8ab1f627) |
 | Wed, 24 Dec 2025 22:26:51 GMT | She Lost Everything After Divorce — The Heartbreaking Truth About Financial Dependence | Riva Smith | [Read More](https://medium.com/p/5f13b6c986ce) |
 | Wed, 24 Dec 2025 22:24:34 GMT | How to Conduct an AI Impact Assessment (Without Losing Your Mind) | Cyber-AppSec | [Read More](https://medium.com/p/434ccfa189a3) |
@@ -110,6 +113,3 @@ E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https:
 | Wed, 24 Dec 2025 15:45:03 GMT | AI System Security: The New Frontier for Bug Bounty Hunters - Google, Anthropic & Samsung’s 2025… | BBHunterpk | [Read More](https://medium.com/p/66ce553dfa90) |
 | Wed, 24 Dec 2025 15:40:31 GMT | What Happens During an HTTPS Connection (And Why It Matters) | Codeandcontext | [Read More](https://medium.com/p/685d3ce34c2c) |
 | Wed, 24 Dec 2025 15:39:58 GMT | Welcome to Phish N’ Chips | Soumya Bhattacharjee | [Read More](https://medium.com/p/5c5b04ab38f4) |
-| Wed, 24 Dec 2025 15:37:18 GMT | Day 23: AWS Security — S3cret Santa | Adani Kamal | [Read More](https://medium.com/p/0955fb306991) |
-| Wed, 24 Dec 2025 15:34:03 GMT | The Breach Comes From Inside: One “Trusted” Document Can Hijack Your AI | AhmedAbdelmenem | [Read More](https://medium.com/p/d2c9bf481103) |
-| Wed, 24 Dec 2025 15:33:41 GMT | The R400 Million Reality Check: Why I’m Cancelling “Januworry” | Ashlynn Natalie | [Read More](https://medium.com/p/34e9216ebf11) |
