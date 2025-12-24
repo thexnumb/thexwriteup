@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 07:34:54 GMT | Centralized Sysmon Configuration Management with Wazuh | Hanif K A | [Read More](https://medium.com/p/0375b121ede8) |
+| Wed, 24 Dec 2025 07:28:07 GMT | eJPTv2 Exam Review (2026): How I Scored 91% in 10 Hours (Guide & Tips) | Niteesh Deshmukh | [Read More](https://medium.com/p/555c95287c52) |
+| Wed, 24 Dec 2025 07:25:04 GMT | How to Boost Organic Traffic Using a Smarter Backlink Monitoring Platform | Ethanbrot | [Read More](https://medium.com/p/48b3bd19597f) |
+| Wed, 24 Dec 2025 07:22:38 GMT | Reliable Cloud Services That Power Sydney Businesses | Any network | [Read More](https://medium.com/p/9d64d44b3cb2) |
+| Wed, 24 Dec 2025 07:19:45 GMT | Enhancing Shopify Website Development with custom Solutions from Expert Shopify Developers | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/1b90afbf28a4) |
 | Wed, 24 Dec 2025 07:14:59 GMT | The Unmanaged AI Threat | Consulting4sec | [Read More](https://medium.com/p/9a08c8bb6665) |
 | Wed, 24 Dec 2025 07:14:13 GMT | Learning Policy as Code the Hard Way (And Why DevSecOps Needs It) | Eric Blancas | [Read More](https://medium.com/p/290dc568452c) |
 | Wed, 24 Dec 2025 07:09:49 GMT | Magnum Scanner | Ashraf Mohammed | [Read More](https://medium.com/p/bde5cda2d2d3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 21:56:01 GMT | Fraud as a Service: The Economics Are Turning | Will Groah | [Read More](https://medium.com/p/b49f100ee4fe) |
 | Tue, 23 Dec 2025 21:42:00 GMT | AWS Advent Calendar 2025 — Days 1–5 | Ihor Sasovets | [Read More](https://medium.com/p/de5a0c1cb69e) |
 | Tue, 23 Dec 2025 21:34:44 GMT | The Hacking Tool Chronicles: Kismet | z3r0trust | [Read More](https://medium.com/p/151a9e10120c) |
-| Tue, 23 Dec 2025 21:33:00 GMT | Ever need to track an IP address, get evidence on a cheating partner, hack and retrieve any account… | Decryptx | [Read More](https://medium.com/p/af36f479bea2) |
-| Tue, 23 Dec 2025 21:05:10 GMT | Open for Business: Harnessing the Power of Open-Source in the Corporate World | Sage Khan | [Read More](https://medium.com/p/1ee402aa3d8b) |
-| Tue, 23 Dec 2025 20:57:17 GMT | Vulnerability: DOM-Based XSS (type-0 XSS) — DVWA | Basmala Yasser | [Read More](https://medium.com/p/5e16e41af9da) |
-| Tue, 23 Dec 2025 20:52:14 GMT | What are multiparty computations? {MPCs} | Mimi Marcus | [Read More](https://medium.com/p/bcc59935f372) |
-| Tue, 23 Dec 2025 20:43:59 GMT | Why Most Crypto Scam Warnings Fail (And What Actually Works) | Deya Hroob | [Read More](https://medium.com/p/7081da4d5b76) |
