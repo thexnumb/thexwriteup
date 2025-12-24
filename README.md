@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 03:43:03 GMT | Tải Last Z Survival Shooter Mod APK V1.250.689 (Menu, Vô Hạn Tiền) | GOCMOD | [Read More](https://medium.com/p/f73316933d0c) |
+| Wed, 24 Dec 2025 03:41:21 GMT | SEO, AEO, GEO, and LLMO Explained: The Complete Guide to Modern Search Optimization | Nilesh Solanki | [Read More](https://medium.com/p/d4b26f706af8) |
+| Wed, 24 Dec 2025 03:37:21 GMT | Merry Christmas from the SOCFortress team! | SOCFortress | [Read More](https://medium.com/p/b6fc37bc05aa) |
+| Wed, 24 Dec 2025 03:36:37 GMT | When Secrets Go Public: What Docker Hub Leaks Reveal About Modern Security | Deven Chhajed | [Read More](https://medium.com/p/048e9f9e63b8) |
+| Wed, 24 Dec 2025 03:34:51 GMT | Access Management Market Outlook: Strategic Forecast and Industry Trends to 2030 | Gauri Kale | [Read More](https://medium.com/p/8e1d94fec06b) |
+| Wed, 24 Dec 2025 03:23:30 GMT | Tải Back Alley Tales Apk Mod (Việt Hóa) v2.21 | genzvnmod | [Read More](https://medium.com/p/b2b1c3eeed89) |
+| Wed, 24 Dec 2025 03:17:57 GMT | Stealing Domain Controller Credentials (ESC8): HackTheBox Windows Attacks & Defense Skills… | Cybersecurity Simplified | [Read More](https://medium.com/p/38544b469cd1) |
 | Wed, 24 Dec 2025 03:14:41 GMT | The Invisible Thread: Why Hacking and Sales are Actually the Same Game | Oybek Boltabayev | [Read More](https://medium.com/p/221c1f7c0c46) |
 | Wed, 24 Dec 2025 03:13:23 GMT | NAS ile Active Directory (AD) İlişkisi | Arda Derya | [Read More](https://medium.com/p/8685d9617f5f) |
 | Wed, 24 Dec 2025 03:12:41 GMT | ️‍♂️ ReconKit I Built This Recon Tool Because Manual Recon Was Killing My Time ⚙️ | Purushotham.R | [Read More](https://medium.com/p/ff2d1a4e3606) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 17:02:02 GMT | The Ledger Never Lies: A Comprehensive Review of Bitcoin Forensics | Satyam | [Read More](https://medium.com/p/6e352fd57883) |
 | Tue, 23 Dec 2025 16:46:29 GMT | This Bug Was “Low Severity” — Until I Chained It Into Total Data Exposure | Iski | [Read More](https://medium.com/p/8816e25e427b) |
 | Tue, 23 Dec 2025 16:43:20 GMT | The top 5 digital threats you need to know | Creepus | [Read More](https://medium.com/p/01322386050a) |
-| Tue, 23 Dec 2025 16:42:47 GMT | The “Zombie” Signal: Why Modern PTT is a Red Teamer’s Dream. ‘See’ guards through walls. | Berend Watchus | [Read More](https://medium.com/p/20e6d030ddd1) |
-| Tue, 23 Dec 2025 16:35:45 GMT | Rethinking Remote Access: An Introduction to awaBerry.com | Rita Willow Rans | [Read More](https://medium.com/p/f23b16b672a1) |
-| Tue, 23 Dec 2025 16:31:49 GMT | When Everything Passed But The Email Was Still Phishing | Medjue Gore | [Read More](https://medium.com/p/aa445d161f2d) |
-| Tue, 23 Dec 2025 16:27:33 GMT | CloudSEK CTF 2025 — My Journey Through 4 Challenges | Niveditha S Nair | [Read More](https://medium.com/p/a7460b664b43) |
-| Tue, 23 Dec 2025 16:17:07 GMT | What Regulators and Courts Quietly Did to AI This Week | A D | [Read More](https://medium.com/p/f3900e33e819) |
-| Tue, 23 Dec 2025 16:17:03 GMT | Breach the Perimeter via Prompt Injection : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/a21b688cc54d) |
-| Tue, 23 Dec 2025 16:16:40 GMT | The Good, the Bad, and the Glitchy: Navigating 2025’s Tech Landscape and What 2026 Holds | Paradise technologies Inc | [Read More](https://medium.com/p/f598a558e504) |
