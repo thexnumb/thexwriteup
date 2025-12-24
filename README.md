@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 01:38:27 GMT | Understanding OWASP API Security Top 10 With Live Breach Examples — A Practical Guide | Mainekhacker | [Read More](https://medium.com/p/397aac566db5) |
+| Wed, 24 Dec 2025 01:38:15 GMT | Best Recon Method to Find JavaScript Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/ad3b1313afe2) |
+| Wed, 24 Dec 2025 01:10:31 GMT | The First Rust Linux Kernel CVE Just Happened: Why It’s Actually Good News | Ashish Sharda | [Read More](https://medium.com/p/e2fc2ca8569f) |
+| Wed, 24 Dec 2025 01:06:16 GMT | Technical Review: DVIUS.net Architecture Against DDoS and Penetration Threats | Biteris | [Read More](https://medium.com/p/6dc965dae34b) |
+| Wed, 24 Dec 2025 01:02:20 GMT | Why “Local” is the New “Cloud”: The Case for On-Premise LLMs | Eude Tech | [Read More](https://medium.com/p/592523f50416) |
+| Wed, 24 Dec 2025 00:56:38 GMT | Malware Analysis Report: “SecretPictures” USB Worm & Info-Stealer | Rahaliashraf | [Read More](https://medium.com/p/f95e4f92ab7e) |
+| Wed, 24 Dec 2025 00:54:15 GMT | How to use strong password easi | Techwizs | [Read More](https://medium.com/p/31ec13816f0b) |
+| Wed, 24 Dec 2025 00:28:19 GMT | When an Unusual Open Port Leads to Full Compromise: Lessons from an NFS Lab | Vivektumma27 | [Read More](https://medium.com/p/70a90996b49b) |
+| Wed, 24 Dec 2025 00:13:11 GMT | The Privacy You’ll Lose in 2026 (And How to Protect Yourself Now) | MoonDesk | [Read More](https://medium.com/p/596c324c732a) |
+| Wed, 24 Dec 2025 00:13:04 GMT | Android Attacks Google Confirms No Fix For 30% Of All Phones | Moni | [Read More](https://medium.com/p/07ef58cd433e) |
+| Tue, 23 Dec 2025 23:36:31 GMT | Welcome (HS Lab) | Stitoutl | [Read More](https://medium.com/p/f2c14a3ea8e2) |
 | Tue, 23 Dec 2025 23:33:34 GMT | The Uncomfortable Luxury of Sadness | Linda A Metzler | [Read More](https://medium.com/p/63e6c632ca87) |
+| Tue, 23 Dec 2025 23:29:17 GMT | Wireshark Investigation Cheat Sheet using AI prompts | The Commoness | [Read More](https://medium.com/p/e2264ab11ef8) |
 | Tue, 23 Dec 2025 23:26:22 GMT | CVE-2025–68613 in n8n — AI Vulnerability | Michael Harms | [Read More](https://medium.com/p/bb876932c52e) |
 | Tue, 23 Dec 2025 23:20:15 GMT | eJPT Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Mujtaba Shaikeldin | [Read More](https://medium.com/p/66dbfeed24fc) |
 | Tue, 23 Dec 2025 23:11:23 GMT | Holiday Vulnerabilities: Notes from a cyberdefender— and How My “Elf” Finally Showed up | Andre N Cardoso | [Read More](https://medium.com/p/a7a5fb7a59a2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 15:45:32 GMT | The First Security Conversation You Have Too Late: Hardening an Existing Azure Environment | Jurgen Allewijn | [Read More](https://medium.com/p/33115c772763) |
 | Tue, 23 Dec 2025 15:45:23 GMT | Exploit Weak Bucket Policies for Privileged Access : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/74bd103034a5) |
 | Tue, 23 Dec 2025 15:43:15 GMT | The First Thing a Beginner in Information Security Needs to Know | Angela | [Read More](https://medium.com/p/1b77a4fc0f39) |
-| Tue, 23 Dec 2025 15:39:12 GMT | Secure Docker Deployments on AWS Using Real-World Secrets Management | Manuel Hernandez Zemljic | [Read More](https://medium.com/p/be4d407ad396) |
-| Tue, 23 Dec 2025 15:39:04 GMT | Zero-Trust APIs with Spring Security: JWT, OAuth2 & mTLS in 2025 | dolly | [Read More](https://medium.com/p/89d27d197641) |
-| Tue, 23 Dec 2025 15:36:14 GMT | DDoS Attack Disrupts La Poste and La Banque Postale Services | RealSec.io | [Read More](https://medium.com/p/45df4e7ad3bd) |
-| Tue, 23 Dec 2025 15:23:37 GMT | Google Just Got Embarrassed by a University Lab. The Real Quantum War Isn’t About AI at All. | Zoom In AI | [Read More](https://medium.com/p/84aca5d3d9af) |
-| Tue, 23 Dec 2025 15:06:34 GMT | Google Cloud + Palo Alto Networks: The $10 Billion Security Deal That Changes Everything for… | inboryn | [Read More](https://medium.com/p/86ef488c8faf) |
-| Tue, 23 Dec 2025 15:05:31 GMT | Why Private Offensive Cyber Operations Are the Wrong Answer | Phil Stafford | [Read More](https://medium.com/p/495b1c5610df) |
-| Tue, 23 Dec 2025 15:02:27 GMT | Simon Hardy: Many Projects Are Just Telling Stories with AI, Nivex Uses AI from the Ground Up… | Netra Media | [Read More](https://medium.com/p/1343c5b43e33) |
-| Tue, 23 Dec 2025 15:02:27 GMT | Cyber Briefing: 2025.12.23 | CyberMaterial | [Read More](https://medium.com/p/04c925735cfe) |
-| Tue, 23 Dec 2025 15:00:18 GMT | This Is What Our Ongoing Cyber Partnership Looks Like — A Visual Guide to Our Managed Services | Fook Hwa Tan | [Read More](https://medium.com/p/8afdf24dd456) |
-| Tue, 23 Dec 2025 14:58:57 GMT | How We Contained a Threat and Rebuilt Trust in 48 Hours (An anonymised real-world story) | Fook Hwa Tan | [Read More](https://medium.com/p/723a275875fc) |
-| Tue, 23 Dec 2025 14:55:07 GMT | The Cybersecurity Risks of Legacy Medical Devices in Healthcare | Eyman Khan | [Read More](https://medium.com/p/6d33631f7480) |
-| Tue, 23 Dec 2025 14:50:51 GMT | Spotify’s 300TB Leak: Biggest Music Archive Ever | Dhanush N | [Read More](https://medium.com/p/f9c9e69fa9a4) |
