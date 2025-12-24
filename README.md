@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 16:20:47 GMT | Cybersecurity: How AI Is Transforming Digital Defense into a High-Growth Global Opportunity | Ravi Prasanth | [Read More](https://medium.com/p/987fbfd02e68) |
+| Wed, 24 Dec 2025 16:20:31 GMT | Day 142 — Behemoth Level-2 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/87bc7da16a52) |
+| Wed, 24 Dec 2025 16:11:29 GMT | C2 Detection — Command & Carol - AoC 2025 Day — 22 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a679c6417cc6) |
+| Wed, 24 Dec 2025 16:10:04 GMT | How to Securely Expose a Single API Endpoint Using Nginx as a Reverse Proxy | Chilat Sergiu | [Read More](https://medium.com/p/119c495ddc79) |
+| Wed, 24 Dec 2025 16:02:22 GMT | FastAPI Security Headers That Don’t Slow You Down | Nexumo | [Read More](https://medium.com/p/7c8ac864a5ee) |
+| Wed, 24 Dec 2025 15:58:23 GMT | Building a Human-in-the-Loop Security Automation with Jira, LLMs, and AWS WAF | Anurag | [Read More](https://medium.com/p/525647ea0cb1) |
+| Wed, 24 Dec 2025 15:51:40 GMT | When the Attack Is Already in Your Browser: The New Reality of Malicious Extensions (and How to… | Germano Costi | [Read More](https://medium.com/p/ebdbdd3e725a) |
+| Wed, 24 Dec 2025 15:48:56 GMT | Milvus Permissions Deep Dive: Building Your Security Fortress Against “Delete Database, Run Away” | JIN | [Read More](https://medium.com/p/487633567b16) |
+| Wed, 24 Dec 2025 15:47:53 GMT | IPTABLES (Linux Firewall)—Complete Practical Guide | Tushar jadhav | [Read More](https://medium.com/p/d469b3111070) |
+| Wed, 24 Dec 2025 15:46:41 GMT | You Will Have Been Warned | Fortress Protocol | [Read More](https://medium.com/p/3266d6f24c3e) |
+| Wed, 24 Dec 2025 15:45:36 GMT | Why AWS tagging is mandatory? | Rayhshtat | [Read More](https://medium.com/p/8bbc11e316e7) |
+| Wed, 24 Dec 2025 15:45:03 GMT | AI System Security: The New Frontier for Bug Bounty Hunters - Google, Anthropic & Samsung’s 2025… | BBHunterpk | [Read More](https://medium.com/p/66ce553dfa90) |
+| Wed, 24 Dec 2025 15:40:31 GMT | What Happens During an HTTPS Connection (And Why It Matters) | Codeandcontext | [Read More](https://medium.com/p/685d3ce34c2c) |
+| Wed, 24 Dec 2025 15:39:58 GMT | Welcome to Phish N’ Chips | Soumya Bhattacharjee | [Read More](https://medium.com/p/5c5b04ab38f4) |
+| Wed, 24 Dec 2025 15:37:18 GMT | Day 23: AWS Security — S3cret Santa | Adani Kamal | [Read More](https://medium.com/p/0955fb306991) |
 | Wed, 24 Dec 2025 15:34:03 GMT | The Breach Comes From Inside: One “Trusted” Document Can Hijack Your AI | AhmedAbdelmenem | [Read More](https://medium.com/p/d2c9bf481103) |
 | Wed, 24 Dec 2025 15:33:41 GMT | The R400 Million Reality Check: Why I’m Cancelling “Januworry” | Ashlynn Natalie | [Read More](https://medium.com/p/34e9216ebf11) |
 | Wed, 24 Dec 2025 15:27:52 GMT | Securing Containerized Applications: A Defense-in-Depth Approach with Real-World Examples | Sudhir Mohanty (Devops & Test Automation Engineer) | [Read More](https://medium.com/p/fb697be811e0) |
@@ -98,18 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 10:12:42 GMT | Linux Fundamentals | TheNotorious | [Read More](https://medium.com/p/01f9017af0e7) |
 | Wed, 24 Dec 2025 10:11:54 GMT | PicoCTF — Scavenger Hunt - Web Exploitation - Easy | kingc06bra | [Read More](https://medium.com/p/d99515b4237f) |
 | Wed, 24 Dec 2025 10:00:47 GMT | Stop Making Your Managers Log Into Salesforce -☕ The “Coffee-Break” Approval - A Salesforce ↔… | SivaSwathi | [Read More](https://medium.com/p/7610780c0abe) |
-| Wed, 24 Dec 2025 09:55:08 GMT | 10 Things Every Programmer Must Do Before Launching a Website | Ali.Yurie | [Read More](https://medium.com/p/78d868ec5e9e) |
-| Wed, 24 Dec 2025 09:53:16 GMT | c Solutions India: The Importance of Professional Security Consultancy in a Changing… | Ciss India | [Read More](https://medium.com/p/7b779a9a7b75) |
-| Wed, 24 Dec 2025 09:52:16 GMT | Identity Comes Before Kubernetes | Salwan Mohamed | [Read More](https://medium.com/p/667d5e760990) |
-| Wed, 24 Dec 2025 09:52:10 GMT | Security alarm installation electrician in Auckland - A1 Electricals | A1 Electrical | [Read More](https://medium.com/p/9becc72abcd1) |
-| Wed, 24 Dec 2025 09:51:35 GMT | In the Cloud, Identity Is the Exploit | Surya Teja | [Read More](https://medium.com/p/0cb980785e2e) |
-| Wed, 24 Dec 2025 09:42:46 GMT | Top Data Center Services Provider in India - Colocation Services | Samvaskaran | [Read More](https://medium.com/p/3542d6534cd2) |
-| Wed, 24 Dec 2025 09:41:06 GMT | … | Project Genesis | [Read More](https://medium.com/p/8219cacc3566) |
-| Wed, 24 Dec 2025 09:25:20 GMT | What Makes the Best Courses In Information Technology Different From the Rest? | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/7f40c41cce80) |
-| Wed, 24 Dec 2025 09:16:29 GMT | Zero Trust Yaklaşımı Gerçekten Ne Kadar Uygulanabilir? | Furkan Ünlü | [Read More](https://medium.com/p/df79acdfcb60) |
-| Wed, 24 Dec 2025 09:12:58 GMT | Web Security Services in 2025: Protecting Digital Assets in an Evolving Threat Landscape | Devarshi Acharya | [Read More](https://medium.com/p/437226f3f9da) |
-| Wed, 24 Dec 2025 09:05:28 GMT | Most Websites Are Not Hacked — They Are Neglected: A Practical Guide to Real Website Security | Ali.Yurie | [Read More](https://medium.com/p/cd2d5dd9ace0) |
-| Wed, 24 Dec 2025 09:02:53 GMT | Out-of-Band (OOB) Server-Side Request Forgery (SSRF) Via File Upload | Neeraj kath | [Read More](https://medium.com/p/7f1abc493024) |
-| Wed, 24 Dec 2025 09:02:22 GMT | The CIO’s Awakening: Paying Premium for Process, Starving for Progress in ERP | Namir Sagheenanajar | [Read More](https://medium.com/p/5cc12d0fac0f) |
-| Wed, 24 Dec 2025 08:50:11 GMT | BloodCat V1.5:Automatic Threading · Password Spraying · Global Camera Updates. | Мартин. | [Read More](https://medium.com/p/9bec2767cc91) |
-| Wed, 24 Dec 2025 08:47:23 GMT | REVISITING MEDUSA LOCKER RANSOMWARE | Rakesh Krishnan | [Read More](https://medium.com/p/13be0ffd82c5) |
