@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 08:30:17 GMT | The Daily Tech Digest: 24 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6bf20e41c57c) |
+| Wed, 24 Dec 2025 08:27:47 GMT | Why WhatsApp Banned 72 Lakh Indian Accounts Last Month | Muhaideen Nausar | [Read More](https://medium.com/p/bb45044d243a) |
+| Wed, 24 Dec 2025 08:25:26 GMT | BenFen × TX-SHIELD Privacy Payment_ The First Native Stablecoin–Driven Payment Protocol with Full… | BenFen | [Read More](https://medium.com/p/9eff01a6d6ad) |
+| Wed, 24 Dec 2025 08:23:45 GMT | Agent of the Week: The Cybersecurity Agent | Andreas Braun | [Read More](https://medium.com/p/4eb33498aa6e) |
+| Wed, 24 Dec 2025 08:23:41 GMT | Siber Güvenlik İçin Ağ Topolojisi Temelleri Eğitimi — 02 | Hamdi Bekir Yılmaz | [Read More](https://medium.com/p/f985eed819a4) |
+| Wed, 24 Dec 2025 08:23:37 GMT | 5 VPN Mistakes That Put Your Security at Risk
+ — and how to avoid them | NoProx | [Read More](https://medium.com/p/0b871084afe0) |
+| Wed, 24 Dec 2025 08:20:36 GMT | Why you should not ignore cloud computing nowadays? | Pranav soni | [Read More](https://medium.com/p/54c5d20619c7) |
+| Wed, 24 Dec 2025 08:13:12 GMT | Understanding MFA, its attack surface, and leading MFA providers for 2026 | Omkar Deo | [Read More](https://medium.com/p/8525d4cdfafc) |
+| Wed, 24 Dec 2025 08:13:08 GMT | Professional IT Hardware Solutions in Dubai for Modern Businesses | PLEXUS PRIMING IT TRADING & SECURITY INSTALLATION | [Read More](https://medium.com/p/0b60c195a979) |
+| Wed, 24 Dec 2025 08:07:57 GMT | Wrap Up of 2025 | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/89a6534ae8b7) |
+| Wed, 24 Dec 2025 08:06:25 GMT | Why Fraud Is a Customer Experience Problem, Not Just a Security Issue | Fraudlabs Pro | [Read More](https://medium.com/p/d3e0c66a3745) |
+| Wed, 24 Dec 2025 08:02:26 GMT | [Part 19] Adversarial AI: When Hackers Attack the Algorithms | Cyberkech | [Read More](https://medium.com/p/7d858045c2b5) |
+| Wed, 24 Dec 2025 07:53:46 GMT | AI Didn’t Just Change Attacks. It Changed Who the Victims Are. | Avlex Group | [Read More](https://medium.com/p/b6e70a63e6be) |
+| Wed, 24 Dec 2025 07:48:18 GMT | Diagnosing a Native WebView Crash on Android POS Devices | Somayekhaleghi | [Read More](https://medium.com/p/bb806ad2c8aa) |
+| Wed, 24 Dec 2025 07:44:45 GMT | The Humble CISO 2025 | Dr. Sybe Izaak Rispens | [Read More](https://medium.com/p/5516252c03f3) |
 | Wed, 24 Dec 2025 07:34:54 GMT | Centralized Sysmon Configuration Management with Wazuh | Hanif K A | [Read More](https://medium.com/p/0375b121ede8) |
 | Wed, 24 Dec 2025 07:28:07 GMT | eJPTv2 Exam Review (2026): How I Scored 91% in 10 Hours (Guide & Tips) | Niteesh Deshmukh | [Read More](https://medium.com/p/555c95287c52) |
 | Wed, 24 Dec 2025 07:25:04 GMT | How to Boost Organic Traffic Using a Smarter Backlink Monitoring Platform | Ethanbrot | [Read More](https://medium.com/p/48b3bd19597f) |
@@ -97,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 00:13:04 GMT | Android Attacks Google Confirms No Fix For 30% Of All Phones | Moni | [Read More](https://medium.com/p/07ef58cd433e) |
 | Tue, 23 Dec 2025 23:36:31 GMT | Welcome (HS Lab) | Stitoutl | [Read More](https://medium.com/p/f2c14a3ea8e2) |
 | Tue, 23 Dec 2025 23:33:34 GMT | The Uncomfortable Luxury of Sadness | Linda A Metzler | [Read More](https://medium.com/p/63e6c632ca87) |
-| Tue, 23 Dec 2025 23:29:17 GMT | Wireshark Investigation Cheat Sheet using AI prompts | The Commoness | [Read More](https://medium.com/p/e2264ab11ef8) |
-| Tue, 23 Dec 2025 23:26:22 GMT | CVE-2025–68613 in n8n — AI Vulnerability | Michael Harms | [Read More](https://medium.com/p/bb876932c52e) |
-| Tue, 23 Dec 2025 23:20:15 GMT | eJPT Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Mujtaba Shaikeldin | [Read More](https://medium.com/p/66dbfeed24fc) |
-| Tue, 23 Dec 2025 23:11:23 GMT | Holiday Vulnerabilities: Notes from a cyberdefender— and How My “Elf” Finally Showed up | Andre N Cardoso | [Read More](https://medium.com/p/a7a5fb7a59a2) |
-| Tue, 23 Dec 2025 23:09:53 GMT | Cyber Resiliency: Why Disaster Recovery Alone Is Failing Modern Businesses | Cyber-AppSec | [Read More](https://medium.com/p/c59d9737419f) |
-| Tue, 23 Dec 2025 22:54:26 GMT | Critical Infrastructure in the European Union | Fatma Erturk | [Read More](https://medium.com/p/1bb151ac6fa2) |
-| Tue, 23 Dec 2025 22:53:38 GMT | PortSwigger Web Security Academy — Lab Write‑Up 4 | 0xM3d0din | [Read More](https://medium.com/p/0699b9fb1243) |
-| Tue, 23 Dec 2025 22:36:37 GMT | Saving a $1M Integration: Why We Pivoted to AWS Transit Gateway | Menelik | [Read More](https://medium.com/p/b4beca501fed) |
-| Tue, 23 Dec 2025 22:24:53 GMT | BankSmarter  - Hack Smarter Walkthrough | WireHawk Security | [Read More](https://medium.com/p/a45bb44ab9b9) |
-| Tue, 23 Dec 2025 22:14:17 GMT | User Access Control Bypass via CMSTP | S12 - 0x12Dark Development | [Read More](https://medium.com/p/07bf78be0ce2) |
-| Tue, 23 Dec 2025 22:02:45 GMT | Breaking BlackPearl: A Full Exploitation Challenge Guide | Nahla Mahmoud Hossam Eldin Riad Youssef | [Read More](https://medium.com/p/c4445838137f) |
-| Tue, 23 Dec 2025 21:58:57 GMT | AWS Advent Calendar 2025 — Days 6–10 | Ihor Sasovets | [Read More](https://medium.com/p/eed627848bc4) |
-| Tue, 23 Dec 2025 21:56:01 GMT | Fraud as a Service: The Economics Are Turning | Will Groah | [Read More](https://medium.com/p/b49f100ee4fe) |
-| Tue, 23 Dec 2025 21:42:00 GMT | AWS Advent Calendar 2025 — Days 1–5 | Ihor Sasovets | [Read More](https://medium.com/p/de5a0c1cb69e) |
-| Tue, 23 Dec 2025 21:34:44 GMT | The Hacking Tool Chronicles: Kismet | z3r0trust | [Read More](https://medium.com/p/151a9e10120c) |
