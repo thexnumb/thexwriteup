@@ -12,10 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 15:34:03 GMT | The Breach Comes From Inside: One “Trusted” Document Can Hijack Your AI | AhmedAbdelmenem | [Read More](https://medium.com/p/d2c9bf481103) |
+| Wed, 24 Dec 2025 15:33:41 GMT | The R400 Million Reality Check: Why I’m Cancelling “Januworry” | Ashlynn Natalie | [Read More](https://medium.com/p/34e9216ebf11) |
+| Wed, 24 Dec 2025 15:27:52 GMT | Securing Containerized Applications: A Defense-in-Depth Approach with Real-World Examples | Sudhir Mohanty (Devops & Test Automation Engineer) | [Read More](https://medium.com/p/fb697be811e0) |
+| Wed, 24 Dec 2025 15:24:49 GMT | Excited to announce BugHQ — An all-in-one platform for security researchers! | BBHunterpk | [Read More](https://medium.com/p/7d7cdc172377) |
 | Wed, 24 Dec 2025 15:18:37 GMT | How AI Is Changing Cybersecurity Forever—for Both Good and Evil | Adnan | [Read More](https://medium.com/p/ebdd58926750) |
 | Wed, 24 Dec 2025 15:12:31 GMT | You Probably Have Leaked Credentials and You Would Not Know Until It Is Too Late | Alexandre Vandamme | [Read More](https://medium.com/p/613691d8898a) |
 | Wed, 24 Dec 2025 15:11:11 GMT | Red Team: Siber Güvenliğin Rahatsız Eden Gerçeği
 Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903444f) |
+| Wed, 24 Dec 2025 15:08:59 GMT | Boost Your Career with Med Tech Certification Online: A Complete Guide | Motherlandlove | [Read More](https://medium.com/p/6f0fa530ab6b) |
 | Wed, 24 Dec 2025 15:02:30 GMT | Cyber Briefing: 2025.12.24 | CyberMaterial | [Read More](https://medium.com/p/31c159bf40a9) |
 | Wed, 24 Dec 2025 15:02:28 GMT | Hacking the Connected Car: Part 4 — Securing the Fleet | Federico Barsanti | [Read More](https://medium.com/p/076d016e9050) |
 | Wed, 24 Dec 2025 14:57:33 GMT | I will operate penetration testing and vulnerability assessments | Mahbubul Haque | [Read More](https://medium.com/p/fbe0f8a39ce5) |
@@ -108,8 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 09:02:22 GMT | The CIO’s Awakening: Paying Premium for Process, Starving for Progress in ERP | Namir Sagheenanajar | [Read More](https://medium.com/p/5cc12d0fac0f) |
 | Wed, 24 Dec 2025 08:50:11 GMT | BloodCat V1.5:Automatic Threading · Password Spraying · Global Camera Updates. | Мартин. | [Read More](https://medium.com/p/9bec2767cc91) |
 | Wed, 24 Dec 2025 08:47:23 GMT | REVISITING MEDUSA LOCKER RANSOMWARE | Rakesh Krishnan | [Read More](https://medium.com/p/13be0ffd82c5) |
-| Wed, 24 Dec 2025 08:47:11 GMT | Data Protection and Privacy: A Lesson from a Hacked Identity | Devarshi Acharya | [Read More](https://medium.com/p/1b2a417d8579) |
-| Wed, 24 Dec 2025 08:46:46 GMT | Güçlü Şifre Saklama Politikaları | Taner Özer | [Read More](https://medium.com/p/ddb679516b16) |
-| Wed, 24 Dec 2025 08:42:05 GMT | Login/Verification Challenge Loops: Mobile vs Residential Proxies | ChainPancle | [Read More](https://medium.com/p/317000cd1eee) |
-| Wed, 24 Dec 2025 08:39:00 GMT | Why I Write About ISO 27001, Risk, and Practical Information Security | Eguen Jazaniah Femi | [Read More](https://medium.com/p/a457293fa9c8) |
-| Wed, 24 Dec 2025 08:37:48 GMT | The SME Cybersecurity Reality in India: Too Many Tools, Too Little Protection | CyBelt | [Read More](https://medium.com/p/5e8f31eb4596) |
