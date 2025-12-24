@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 05:35:12 GMT | Why Penpot is the Future of Design Tools: A Deep Dive Beyond Figma, Adobe XD, and Sketch | Alok Dubey | [Read More](https://medium.com/p/0e3616eef60f) |
+| Wed, 24 Dec 2025 05:32:29 GMT | AI-Driven Wireless Penetration Testing. One Promt WIFI cracking | Andrey Pautov | [Read More](https://medium.com/p/6477c06f6af4) |
+| Wed, 24 Dec 2025 05:32:24 GMT | LLM Red-Team-in-a-Box: Prompt Injection, Data Exfil, and Safe-by-Default Middleware | Codastra | [Read More](https://medium.com/p/e00cee361446) |
+| Wed, 24 Dec 2025 05:18:29 GMT | Will Quantum Computing Break the Internet — or Save It? | Sakthimurugan S | [Read More](https://medium.com/p/7e7013a3ab78) |
 | Wed, 24 Dec 2025 05:08:38 GMT | IT Budget 2026: How To Create and Spend It? | HostNOC | [Read More](https://medium.com/p/5521e15d961d) |
 | Wed, 24 Dec 2025 05:08:28 GMT | 7 Powerful Benefits of CCNP Security Certification You Can’t Ignore in 2026 | Network Kings | [Read More](https://medium.com/p/08824291578e) |
 | Wed, 24 Dec 2025 05:08:16 GMT | Completing My First Google Cybersecurity Certificate Course: Week One Reflections | Callum - Cyber Security Journey | [Read More](https://medium.com/p/2e32f0b27688) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 18:13:47 GMT | Essential Security Features to Implement Before Deploying Any Backend Project | Istekhar | [Read More](https://medium.com/p/2b0281dbece0) |
 | Tue, 23 Dec 2025 18:12:41 GMT | Ethical Hacking Is Not About Breaking In, It Is About Understanding Why Systems Fail | Kambetastephano | [Read More](https://medium.com/p/8f4b3f0f3a58) |
 | Tue, 23 Dec 2025 18:12:15 GMT | Cybersecurity: A Comprehensive, In-Depth Guide to Digital Protection in the Modern World | Arbsbuy LLC | [Read More](https://medium.com/p/bc509b7537dc) |
-| Tue, 23 Dec 2025 17:57:40 GMT | Chaining an Authorized Signer Flow Into a Full Account Takeover | Dhane Ashley Diabajo | [Read More](https://medium.com/p/9e803a7e476f) |
-| Tue, 23 Dec 2025 17:57:14 GMT | I Wasn’t Healed Yet. Here’s What Finally Helped | Gary L Ellis | [Read More](https://medium.com/p/d8896aebf030) |
-| Tue, 23 Dec 2025 17:55:24 GMT | Independent Vendor Shops on the Dark Web: How They Work | Tor BBB | [Read More](https://medium.com/p/b17933422b5d) |
-| Tue, 23 Dec 2025 17:47:21 GMT | The Cryptography Concept Journey — OTP (One Time Pad) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/33ed7e29e7a4) |
