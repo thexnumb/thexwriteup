@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 04:40:03 GMT | Ketika Mobil Listrik Harus Waspada: Review Paper LLM-Powered Threat Intelligence untuk EV | nur.afandi | [Read More](https://medium.com/p/45a6bbcdb739) |
+| Wed, 24 Dec 2025 04:39:16 GMT | Rooting the Dev Machine (TCM Security) — Step-by-Step Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/5eb702c56eb6) |
+| Wed, 24 Dec 2025 04:38:36 GMT | 4 Deep Recon Techniques | Abhirup Konwar | [Read More](https://medium.com/p/563f5fb154df) |
+| Wed, 24 Dec 2025 04:30:45 GMT | AI/ML Security Engg. Roadmap | Rishav anand | [Read More](https://medium.com/p/18ba5a4f69bc) |
+| Wed, 24 Dec 2025 04:29:11 GMT | Kubernetes 1.35 Enhances Resource Scaling, AI Workloads | Valentin Podkamennyi | [Read More](https://medium.com/p/5e196fb7ca31) |
+| Wed, 24 Dec 2025 04:19:48 GMT | Detecting Web Attacks — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/465200d3d147) |
+| Wed, 24 Dec 2025 04:17:24 GMT | Windows Logging for SOC — Tryhackme Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/25767837b90a) |
+| Wed, 24 Dec 2025 04:11:24 GMT | Why Vendor-Neutral Security Recommendations Matter | Securegap.io | [Read More](https://medium.com/p/0b552a175a5a) |
 | Wed, 24 Dec 2025 03:43:03 GMT | Tải Last Z Survival Shooter Mod APK V1.250.689 (Menu, Vô Hạn Tiền) | GOCMOD | [Read More](https://medium.com/p/f73316933d0c) |
 | Wed, 24 Dec 2025 03:41:21 GMT | SEO, AEO, GEO, and LLMO Explained: The Complete Guide to Modern Search Optimization | Nilesh Solanki | [Read More](https://medium.com/p/d4b26f706af8) |
 | Wed, 24 Dec 2025 03:37:21 GMT | Merry Christmas from the SOCFortress team! | SOCFortress | [Read More](https://medium.com/p/b6fc37bc05aa) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Dec 2025 17:38:27 GMT | Cybersecurity Isn’t Just an IT Issue — It’s a Leadership Challenge | Digital Defense | [Read More](https://medium.com/p/fb4f4471ddb0) |
 | Tue, 23 Dec 2025 17:37:11 GMT | Free life | Sakhi Writes | [Read More](https://medium.com/p/59f0e726183f) |
 | Tue, 23 Dec 2025 17:22:56 GMT | The Complete Frida Automation Script for OWASP Mobile Security Testing (Part 2) | Raj Prasad Kuiri | [Read More](https://medium.com/p/d8021d564223) |
-| Tue, 23 Dec 2025 17:08:24 GMT | When Privacy Rules Start Shaping Market Power In Apps | Geoffrey Wenger | [Read More](https://medium.com/p/e6281cf08d7a) |
-| Tue, 23 Dec 2025 17:08:16 GMT | Why VPN Use Can Create Security Problems | Geoffrey Wenger | [Read More](https://medium.com/p/62091b8778df) |
-| Tue, 23 Dec 2025 17:07:23 GMT | Exploiting Timing-Based Username Enumeration and Credential Brute-Force with IP Rotation | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/20d0beaee629) |
-| Tue, 23 Dec 2025 17:05:10 GMT | Sax LLP Data Breach Highlights Ongoing Risks to Professional Services Firms | Legal Thoughts | [Read More](https://medium.com/p/0cd416d50965) |
-| Tue, 23 Dec 2025 17:03:32 GMT | Advent of Cyber 2025 - Day 23: AWS Security — S3cret Santa | D4m.sh | [Read More](https://medium.com/p/e3ad42a44022) |
-| Tue, 23 Dec 2025 17:02:02 GMT | The Ledger Never Lies: A Comprehensive Review of Bitcoin Forensics | Satyam | [Read More](https://medium.com/p/6e352fd57883) |
-| Tue, 23 Dec 2025 16:46:29 GMT | This Bug Was “Low Severity” — Until I Chained It Into Total Data Exposure | Iski | [Read More](https://medium.com/p/8816e25e427b) |
-| Tue, 23 Dec 2025 16:43:20 GMT | The top 5 digital threats you need to know | Creepus | [Read More](https://medium.com/p/01322386050a) |
