@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 15:18:37 GMT | How AI Is Changing Cybersecurity Forever—for Both Good and Evil | Adnan | [Read More](https://medium.com/p/ebdd58926750) |
+| Wed, 24 Dec 2025 15:12:31 GMT | You Probably Have Leaked Credentials and You Would Not Know Until It Is Too Late | Alexandre Vandamme | [Read More](https://medium.com/p/613691d8898a) |
+| Wed, 24 Dec 2025 15:11:11 GMT | Red Team: Siber Güvenliğin Rahatsız Eden Gerçeği
+Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903444f) |
+| Wed, 24 Dec 2025 15:02:30 GMT | Cyber Briefing: 2025.12.24 | CyberMaterial | [Read More](https://medium.com/p/31c159bf40a9) |
+| Wed, 24 Dec 2025 15:02:28 GMT | Hacking the Connected Car: Part 4 — Securing the Fleet | Federico Barsanti | [Read More](https://medium.com/p/076d016e9050) |
+| Wed, 24 Dec 2025 14:57:33 GMT | I will operate penetration testing and vulnerability assessments | Mahbubul Haque | [Read More](https://medium.com/p/fbe0f8a39ce5) |
+| Wed, 24 Dec 2025 14:50:14 GMT | Top 3 ISO 27001 Mistakes Startups Make — and How to Fix Them | Eguen Jazaniah Femi | [Read More](https://medium.com/p/e249f70224c0) |
+| Wed, 24 Dec 2025 14:48:52 GMT | How Long Does It Take to Become a Pharmacy Tech? A Complete Guide | Motherlandlove | [Read More](https://medium.com/p/08cbd84626ec) |
+| Wed, 24 Dec 2025 14:42:21 GMT | Why SentryPC Is the №1 Choice for Parents in 2025–2026 (Complete Guide) | Paul Meyer | [Read More](https://medium.com/p/8277fb62bcfc) |
+| Wed, 24 Dec 2025 14:41:57 GMT | A Year of Red Team Training: Building Methodology and Mindset on Realistic Enterprise Networks | adib | [Read More](https://medium.com/p/9a0f888e19ec) |
+| Wed, 24 Dec 2025 14:40:28 GMT | Chinese and Indian Takeover in IT Markets in EU and North America. | Adham Ahmed Kabeel | [Read More](https://medium.com/p/6fae02789a64) |
+| Wed, 24 Dec 2025 14:39:04 GMT | Syllaby is changing the game for content creators | Piotr Macai | [Read More](https://medium.com/p/031d3e93a50c) |
+| Wed, 24 Dec 2025 14:37:52 GMT | Reverse Engineering a TP-Link Router: Getting Root Access via UART Protocol | AL QUDRI | [Read More](https://medium.com/p/670dfb8b5dae) |
+| Wed, 24 Dec 2025 14:35:35 GMT | Target Discrimination: Why AITX’s “Software Pivot” Offers Asymmetric Upside in the OTC | Paul D Pantera | [Read More](https://medium.com/p/b0c106f58448) |
+| Wed, 24 Dec 2025 14:35:27 GMT | Understanding Networking Protocols: The Backbone of the Internet | Bilal Nasir | [Read More](https://medium.com/p/e94a3644b8c8) |
 | Wed, 24 Dec 2025 14:33:26 GMT | How to Wake Your PC From Anywhere Using Wake on LAN on Android | George Salib | [Read More](https://medium.com/p/f2a4c7c0533f) |
 | Wed, 24 Dec 2025 14:32:20 GMT | Linux Security Habit #11: Freeze the System State Before You Investigate or Fix Anything | Faruk Ahmed | [Read More](https://medium.com/p/43fe6889dc8d) |
 | Wed, 24 Dec 2025 14:32:20 GMT | The Poison in the Pipeline: Why AI Training Data Is Your Biggest Security Blind Spot | Nwosu Rosemary | [Read More](https://medium.com/p/434dee3a6043) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 08:42:05 GMT | Login/Verification Challenge Loops: Mobile vs Residential Proxies | ChainPancle | [Read More](https://medium.com/p/317000cd1eee) |
 | Wed, 24 Dec 2025 08:39:00 GMT | Why I Write About ISO 27001, Risk, and Practical Information Security | Eguen Jazaniah Femi | [Read More](https://medium.com/p/a457293fa9c8) |
 | Wed, 24 Dec 2025 08:37:48 GMT | The SME Cybersecurity Reality in India: Too Many Tools, Too Little Protection | CyBelt | [Read More](https://medium.com/p/5e8f31eb4596) |
-| Wed, 24 Dec 2025 08:37:46 GMT | Containerization Setup and Hands-On Practice on Kali Linux | Rabbiyatabassum | [Read More](https://medium.com/p/a7e28ab2499d) |
-| Wed, 24 Dec 2025 08:34:50 GMT | I Broke My AI Model So You Don’t Have To: Testing LLM Jailbreak Resistance with Garak | Sarthakvyadav | [Read More](https://medium.com/p/a30ef9b9a9e5) |
-| Wed, 24 Dec 2025 08:33:58 GMT | The Underhyped Cybersecurity Tools & Tips You Actually Need (And Everyone Ignores) | TheCyberAryan | [Read More](https://medium.com/p/5a069db4e68d) |
-| Wed, 24 Dec 2025 08:30:17 GMT | The Daily Tech Digest: 24 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6bf20e41c57c) |
-| Wed, 24 Dec 2025 08:27:47 GMT | Why WhatsApp Banned 72 Lakh Indian Accounts Last Month | Muhaideen Nausar | [Read More](https://medium.com/p/bb45044d243a) |
-| Wed, 24 Dec 2025 08:25:26 GMT | BenFen × TX-SHIELD Privacy Payment_ The First Native Stablecoin–Driven Payment Protocol with Full… | BenFen | [Read More](https://medium.com/p/9eff01a6d6ad) |
-| Wed, 24 Dec 2025 08:23:45 GMT | Agent of the Week: The Cybersecurity Agent | Andreas Braun | [Read More](https://medium.com/p/4eb33498aa6e) |
-| Wed, 24 Dec 2025 08:23:41 GMT | Siber Güvenlik İçin Ağ Topolojisi Temelleri Eğitimi — 02 | Hamdi Bekir Yılmaz | [Read More](https://medium.com/p/f985eed819a4) |
-| Wed, 24 Dec 2025 08:23:37 GMT | 5 VPN Mistakes That Put Your Security at Risk
- — and how to avoid them | NoProx | [Read More](https://medium.com/p/0b871084afe0) |
-| Wed, 24 Dec 2025 08:20:36 GMT | Why you should not ignore cloud computing nowadays? | Pranav soni | [Read More](https://medium.com/p/54c5d20619c7) |
-| Wed, 24 Dec 2025 08:13:12 GMT | Understanding MFA, its attack surface, and leading MFA providers for 2026 | Omkar Deo | [Read More](https://medium.com/p/8525d4cdfafc) |
-| Wed, 24 Dec 2025 08:13:08 GMT | Professional IT Hardware Solutions in Dubai for Modern Businesses | PLEXUS PRIMING IT TRADING & SECURITY INSTALLATION | [Read More](https://medium.com/p/0b60c195a979) |
-| Wed, 24 Dec 2025 08:07:57 GMT | Wrap Up of 2025 | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/89a6534ae8b7) |
-| Wed, 24 Dec 2025 08:06:25 GMT | Why Fraud Is a Customer Experience Problem, Not Just a Security Issue | Fraudlabs Pro | [Read More](https://medium.com/p/d3e0c66a3745) |
-| Wed, 24 Dec 2025 08:02:26 GMT | [Part 19] Adversarial AI: When Hackers Attack the Algorithms | Cyberkech | [Read More](https://medium.com/p/7d858045c2b5) |
