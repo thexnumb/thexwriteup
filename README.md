@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 22:26:51 GMT | She Lost Everything After Divorce — The Heartbreaking Truth About Financial Dependence | Riva Smith | [Read More](https://medium.com/p/5f13b6c986ce) |
+| Wed, 24 Dec 2025 22:24:34 GMT | How to Conduct an AI Impact Assessment (Without Losing Your Mind) | Cyber-AppSec | [Read More](https://medium.com/p/434ccfa189a3) |
+| Wed, 24 Dec 2025 22:20:39 GMT | Günlük Kullanıcı İçin Gerçekten Güvenli Bir Tarayıcı Deneyimi Mümkün mü? | Özgür Karataş | [Read More](https://medium.com/p/0427561ea9ea) |
+| Wed, 24 Dec 2025 22:14:22 GMT | Understanding Web Sessions: A Beginner’s Guide to How Websites Remember You | EnTech | [Read More](https://medium.com/p/c6f470864e3f) |
 | Wed, 24 Dec 2025 22:05:36 GMT | Tips Scaling DevSecOps to Infinity Repos | thedevsecopshandbook | [Read More](https://medium.com/p/a4b52a6800aa) |
 | Wed, 24 Dec 2025 22:03:16 GMT | FortiGate ile Kurumsal Güvenliğe Genel Bir Bakış | Muhammed Emin Berberoğlu | [Read More](https://medium.com/p/3200d4cc97fa) |
 | Wed, 24 Dec 2025 22:02:45 GMT | How Attackers Turn Your AI Into an Injection Engine: XSS, SQL, and RCE via LLMs | Suchitra Malimbada | [Read More](https://medium.com/p/004662357df8) |
@@ -109,8 +113,3 @@ E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https:
 | Wed, 24 Dec 2025 15:27:52 GMT | Securing Containerized Applications: A Defense-in-Depth Approach with Real-World Examples | Sudhir Mohanty (Devops & Test Automation Engineer) | [Read More](https://medium.com/p/fb697be811e0) |
 | Wed, 24 Dec 2025 15:24:49 GMT | Excited to announce BugHQ — An all-in-one platform for security researchers! | BBHunterpk | [Read More](https://medium.com/p/7d7cdc172377) |
 | Wed, 24 Dec 2025 15:18:37 GMT | How AI Is Changing Cybersecurity Forever—for Both Good and Evil | Adnan | [Read More](https://medium.com/p/ebdd58926750) |
-| Wed, 24 Dec 2025 15:12:31 GMT | You Probably Have Leaked Credentials and You Would Not Know Until It Is Too Late | Alexandre Vandamme | [Read More](https://medium.com/p/613691d8898a) |
-| Wed, 24 Dec 2025 15:11:11 GMT | Red Team: Siber Güvenliğin Rahatsız Eden Gerçeği
-Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903444f) |
-| Wed, 24 Dec 2025 15:08:59 GMT | Boost Your Career with Med Tech Certification Online: A Complete Guide | Motherlandlove | [Read More](https://medium.com/p/6f0fa530ab6b) |
-| Wed, 24 Dec 2025 15:02:30 GMT | Cyber Briefing: 2025.12.24 | CyberMaterial | [Read More](https://medium.com/p/31c159bf40a9) |
