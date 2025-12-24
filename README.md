@@ -12,11 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 19:36:22 GMT | CSI: Remote Desktops & Invisible Artifacts — A Forensic Love Story | Fatima Zakir | [Read More](https://medium.com/p/08ac0e438e73) |
+| Wed, 24 Dec 2025 19:23:28 GMT | Top Most Common Penetration Testing Interview Questions: A “No-Robots” Guide to Acing the Role | The Daily Cyber News | [Read More](https://medium.com/p/7dc9a468d2de) |
+| Wed, 24 Dec 2025 19:22:09 GMT | Squashing a Critical SQL Injection in Our Chatbot API | Harshitha Reddy | [Read More](https://medium.com/p/9c1587464a91) |
+| Wed, 24 Dec 2025 19:13:56 GMT | Advent of Cyber 2025 —  Complete Writeup | Mahir | [Read More](https://medium.com/p/7a5548a02b1c) |
 | Wed, 24 Dec 2025 19:07:01 GMT | The Art of Discovery: Mastering Web Crawlers in Bug Bounty & Pentesting | Omar Ait Ben Iyche | [Read More](https://medium.com/p/2972c8518fb5) |
 | Wed, 24 Dec 2025 19:01:49 GMT | The Beast Nobody Signed Up For: AI Security and the Potential Exodus Nobody’s Measuring | Lizzy J. | [Read More](https://medium.com/p/e43d58c5fa40) |
 | Wed, 24 Dec 2025 19:00:12 GMT | Why the Future of Security Operations Belongs to Explainable AI | Graylog | [Read More](https://medium.com/p/9836c6a93a86) |
 | Wed, 24 Dec 2025 18:57:23 GMT | Understanding Broken Object Level Authorization (BOLA) | Chihurumnanya Ruth Godwin | [Read More](https://medium.com/p/3a7a0ee1d516) |
 | Wed, 24 Dec 2025 18:55:00 GMT | Wireshark for Beginners: How to Actually Read Traffic (Without Drowning) | Richard Dosumu | [Read More](https://medium.com/p/73a0dbe51abd) |
+| Wed, 24 Dec 2025 18:54:18 GMT | Deepfakes dhe Dezinformimi në Epokën e Inteligjencës Artificiale | Agnesa | [Read More](https://medium.com/p/6f7e8c8fc96b) |
 | Wed, 24 Dec 2025 18:48:16 GMT | Dixcover Everything | Federico Lucero | [Read More](https://medium.com/p/7a5e8017f554) |
 | Wed, 24 Dec 2025 18:46:48 GMT | Skip 4 years on campus — build a global tech career faster Thinking about a traditional 4-year IT… | Abdullah Shakeel | [Read More](https://medium.com/p/2b421d0fba01) |
 | Wed, 24 Dec 2025 18:44:50 GMT | Can Mobile Apps Be Vulnerable to CSRF? Simple Explanation | Raj Prasad Kuiri | [Read More](https://medium.com/p/82501a1c55f5) |
@@ -108,8 +113,3 @@ Herkes savunmadan bahseder. | Zümra | [Read More](https://medium.com/p/9379c903
 | Wed, 24 Dec 2025 14:12:16 GMT | PortSwigger Web Security Academy — Lab Write‑Up 5 | 0xM3d0din | [Read More](https://medium.com/p/72b8389cd531) |
 | Wed, 24 Dec 2025 14:10:02 GMT | A Sign of Courage | Subhadeep Ghosh | [Read More](https://medium.com/p/28a806d54a1c) |
 | Wed, 24 Dec 2025 14:09:33 GMT | My Bug Bounty Methodology After 100 + Valid Submissions | Rajankumarbarik | [Read More](https://medium.com/p/9c15c5415dab) |
-| Wed, 24 Dec 2025 14:04:29 GMT | Cybersecurity Career: Why Experience Isn’t Enough in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/1ed386c5081c) |
-| Wed, 24 Dec 2025 14:00:06 GMT | Industrial Security Is Not Just Cyber | Fatma Erturk | [Read More](https://medium.com/p/8822d8ced1f1) |
-| Wed, 24 Dec 2025 13:59:05 GMT | เรียนรู้การทำ Penetration Testing ด้วยตัวเอง — EP#03 | MisterB | [Read More](https://medium.com/p/d4ece923327d) |
-| Wed, 24 Dec 2025 13:53:23 GMT | WebRAT Malware Exploits GitHub Trust: Cybercriminals Weaponize Fake Vulnerability Exploits | Technijian | [Read More](https://medium.com/p/6abc026ff24a) |
-| Wed, 24 Dec 2025 13:50:22 GMT | Bitcoin Attacks: A Chronological Analysis of Threats, Exploits, and Mitigation Strategies | Satyam | [Read More](https://medium.com/p/3a1cc48635a0) |
