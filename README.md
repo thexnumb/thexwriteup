@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Dec 2025 10:12:42 GMT | Linux Fundamentals | TheNotorious | [Read More](https://medium.com/p/01f9017af0e7) |
+| Wed, 24 Dec 2025 10:00:47 GMT | Stop Making Your Managers Log Into Salesforce -☕ The “Coffee-Break” Approval - A Salesforce ↔… | SivaSwathi | [Read More](https://medium.com/p/7610780c0abe) |
+| Wed, 24 Dec 2025 09:55:08 GMT | 10 Things Every Programmer Must Do Before Launching a Website | Ali.Yurie | [Read More](https://medium.com/p/78d868ec5e9e) |
+| Wed, 24 Dec 2025 09:53:16 GMT | c Solutions India: The Importance of Professional Security Consultancy in a Changing… | Ciss India | [Read More](https://medium.com/p/7b779a9a7b75) |
+| Wed, 24 Dec 2025 09:52:16 GMT | Identity Comes Before Kubernetes | Salwan Mohamed | [Read More](https://medium.com/p/667d5e760990) |
+| Wed, 24 Dec 2025 09:52:10 GMT | Security alarm installation electrician in Auckland - A1 Electricals | A1 Electrical | [Read More](https://medium.com/p/9becc72abcd1) |
+| Wed, 24 Dec 2025 09:51:35 GMT | In the Cloud, Identity Is the Exploit | Surya Teja | [Read More](https://medium.com/p/0cb980785e2e) |
+| Wed, 24 Dec 2025 09:42:46 GMT | Top Data Center Services Provider in India - Colocation Services | Samvaskaran | [Read More](https://medium.com/p/3542d6534cd2) |
+| Wed, 24 Dec 2025 09:41:06 GMT | … | Project Genesis | [Read More](https://medium.com/p/8219cacc3566) |
 | Wed, 24 Dec 2025 09:25:20 GMT | What Makes the Best Courses In Information Technology Different From the Rest? | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/7f40c41cce80) |
 | Wed, 24 Dec 2025 09:16:29 GMT | Zero Trust Yaklaşımı Gerçekten Ne Kadar Uygulanabilir? | Furkan Ünlü | [Read More](https://medium.com/p/df79acdfcb60) |
 | Wed, 24 Dec 2025 09:12:58 GMT | Web Security Services in 2025: Protecting Digital Assets in an Evolving Threat Landscape | Devarshi Acharya | [Read More](https://medium.com/p/437226f3f9da) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 03:23:30 GMT | Tải Back Alley Tales Apk Mod (Việt Hóa) v2.21 | genzvnmod | [Read More](https://medium.com/p/b2b1c3eeed89) |
 | Wed, 24 Dec 2025 03:17:57 GMT | Stealing Domain Controller Credentials (ESC8): HackTheBox Windows Attacks & Defense Skills… | Cybersecurity Simplified | [Read More](https://medium.com/p/38544b469cd1) |
 | Wed, 24 Dec 2025 03:14:41 GMT | The Invisible Thread: Why Hacking and Sales are Actually the Same Game | Oybek Boltabayev | [Read More](https://medium.com/p/221c1f7c0c46) |
-| Wed, 24 Dec 2025 03:13:23 GMT | NAS ile Active Directory (AD) İlişkisi | Arda Derya | [Read More](https://medium.com/p/8685d9617f5f) |
-| Wed, 24 Dec 2025 03:12:41 GMT | ️‍♂️ ReconKit I Built This Recon Tool Because Manual Recon Was Killing My Time ⚙️ | Purushotham.R | [Read More](https://medium.com/p/ff2d1a4e3606) |
-| Wed, 24 Dec 2025 03:11:42 GMT | Tải Gacha Nox Mod Apk v1.1.0 Mới Nhất Cho Android | Game4u | [Read More](https://medium.com/p/960c847558b7) |
-| Wed, 24 Dec 2025 03:08:58 GMT | The EPOCH of Cybernetic Teams | Dr. Vasileios Ioannidis | [Read More](https://medium.com/p/5d1f621ce3df) |
-| Wed, 24 Dec 2025 03:04:21 GMT | How to Master OAuth 2.0 | Suraj Bhandari | [Read More](https://medium.com/p/1b4ea11363a9) |
-| Wed, 24 Dec 2025 02:59:54 GMT | Tải Hack Knives Crash Mod APK (Full Tiền, Kim Cương) v1.0.49 | Bandisharecx | [Read More](https://medium.com/p/c0577d3bc2ac) |
-| Wed, 24 Dec 2025 02:57:30 GMT | Computer Network For Hackers: Learn How Data Moves | blackey07 | [Read More](https://medium.com/p/12010a8a01cc) |
-| Wed, 24 Dec 2025 02:55:04 GMT | TryHackMe: tomghost Writeup | cbev | [Read More](https://medium.com/p/fcd8eb29092b) |
-| Wed, 24 Dec 2025 02:48:15 GMT | Tải Plants vs Zombies Fusion Mod Apk V3.0.1 Cho Android | Apkpuredev | [Read More](https://medium.com/p/3f1b1778489a) |
