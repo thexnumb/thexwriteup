@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 04:33:03 GMT | What Makes the Best Courses In Information Technology Different From the Rest? | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/53dba1cdc8c9) |
+| Thu, 25 Dec 2025 04:32:43 GMT | 5 Row-Level Security Recipes for Personalized Retrieval | Quellin | [Read More](https://medium.com/p/2d43890830da) |
+| Thu, 25 Dec 2025 04:21:01 GMT | Tải BarbarQ Mod Apk (Menu, Vô Hạn Tiền) v1.0.1811 Mới Nhất | Game4u | [Read More](https://medium.com/p/6d09f64fc784) |
+| Thu, 25 Dec 2025 04:10:35 GMT | TryHackMe: Year of the Fox Writeup | cbev | [Read More](https://medium.com/p/e0ea4b53efe5) |
+| Thu, 25 Dec 2025 04:10:01 GMT | Tải Hack Truckers of Europe 3 Mod APK (Full Tiền) v0.5.59 | Bandisharecx | [Read More](https://medium.com/p/b392e07ede3b) |
+| Thu, 25 Dec 2025 04:01:46 GMT | Prisoners of Temperament: Philosophy or Self-Deception? | Adnan Mangi | [Read More](https://medium.com/p/ff839a750357) |
+| Thu, 25 Dec 2025 04:01:12 GMT | Cryptography Explained: The Backbone Of Internet Security | Bipin Budhathoki | [Read More](https://medium.com/p/59eeb3fd25f3) |
+| Thu, 25 Dec 2025 03:48:25 GMT | Top 8 On-Site IT Support Company in Riverside | Managed IT Services | [Read More](https://medium.com/p/182c3076150f) |
+| Thu, 25 Dec 2025 03:44:32 GMT | Tải Clash Of Clans Mod APK (Vô Hạn Tiền, Kim Cương, Vô Hạn Lính) V18.0.5 | Apkpuredev | [Read More](https://medium.com/p/5d79ca0eb1bf) |
+| Thu, 25 Dec 2025 03:32:23 GMT | Inside the Network: How Compromised RDP Access Led to a Lynx Ransomware Attack | Deven Chhajed | [Read More](https://medium.com/p/3c589cfb114e) |
 | Thu, 25 Dec 2025 03:16:38 GMT | Identity Management 101: A Developer’s Guide to WSO2 Identity Server & Asgardeo | Udeepa Gallage | [Read More](https://medium.com/p/38441c66b116) |
 | Thu, 25 Dec 2025 02:48:26 GMT | Christmas Eve meditation, 2025 | James Moore | [Read More](https://medium.com/p/eef7cd56f703) |
 | Thu, 25 Dec 2025 02:46:52 GMT | Installing My Own Email Server Using hMailServer to Practice Phishing and Email Security | Johnny Meintel | [Read More](https://medium.com/p/ba6c6f178d33) |
@@ -103,13 +113,3 @@ E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https:
 | Wed, 24 Dec 2025 17:22:45 GMT | Pharmacy Tech Practice Questions: Essential Guide for Exam Success | Motherlandlove | [Read More](https://medium.com/p/9c97f33fe97b) |
 | Wed, 24 Dec 2025 17:18:11 GMT | Advent of Cyber 2025 Day 24 - TryHackMe - Exploitation with cURL - Hoperation Eggsploit - WriteUp | Axoloth | [Read More](https://medium.com/p/c9e2afd3c26c) |
 | Wed, 24 Dec 2025 17:15:11 GMT | ISO 27001: Turning Information Security from Intention into Practice | Nikhilmokal | [Read More](https://medium.com/p/0cadf6e325bf) |
-| Wed, 24 Dec 2025 17:13:32 GMT | What Is API Security, and Why Does It Matter to Everyone? | Chihurumnanya Ruth Godwin | [Read More](https://medium.com/p/4d3e3d946a32) |
-| Wed, 24 Dec 2025 17:08:02 GMT | I Built Malware in a Controlled Lab — And It Took Over a Windows System in Seconds | Zahidul Islam Ratul | [Read More](https://medium.com/p/f644f59a3d65) |
-| Wed, 24 Dec 2025 17:05:28 GMT | University CTF 2025 Write-up: Feel My Terror | Taufiqurrahman Yudhi Atmadja | [Read More](https://medium.com/p/845348da6e11) |
-| Wed, 24 Dec 2025 17:05:01 GMT | Advent of Cyber 2025 - All Days - DAY 1–24 (complete) | D4m.sh | [Read More](https://medium.com/p/ed358e420ee4) |
-| Wed, 24 Dec 2025 17:02:14 GMT | Free Mail Forwarding: How to Effortlessly Protect Your Email (and Why You Should Start Today) | Extencil | [Read More](https://medium.com/p/4a928c2368a5) |
-| Wed, 24 Dec 2025 16:50:35 GMT | Protect yourself: How hackers are stealing telegram accounts. | Writings | [Read More](https://medium.com/p/af5b93fb85aa) |
-| Wed, 24 Dec 2025 16:48:32 GMT | How a Simple Email Can Put an Entire Organization at Risk | Digital Defense | [Read More](https://medium.com/p/406db6a50d65) |
-| Wed, 24 Dec 2025 16:45:54 GMT | NUS MComp (InfoSec) Course Review AY25/26 S1 | Justin Ng | [Read More](https://medium.com/p/97eb2a6d3079) |
-| Wed, 24 Dec 2025 16:44:11 GMT | cURL Hoperation Eggsploit Day 24 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/d1ef735e5012) |
-| Wed, 24 Dec 2025 16:43:31 GMT | Abuse Azure Logic App Automation : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/8a032b53710c) |
