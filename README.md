@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 20:24:39 GMT | The Ransomware Paradox: Why Cybercriminals Demand Bitcoin Over Monero Despite Superior Anonymity | Ilhan Hakan Ökcesiz | [Read More](https://medium.com/p/6097ce93c774) |
+| Thu, 25 Dec 2025 20:20:23 GMT | Libaray program tersemubunyi | Ego oktafanda | [Read More](https://medium.com/p/98d00543d5a9) |
+| Thu, 25 Dec 2025 20:17:48 GMT | TryHackMe Writeup: Chocolate Factory | Berkay AĞGÜL | [Read More](https://medium.com/p/55491c5c7f69) |
 | Thu, 25 Dec 2025 20:04:33 GMT | The Love I Lost While Waiting for the Perfect Moment | Banhisekha | [Read More](https://medium.com/p/7918b28c9c4d) |
 | Thu, 25 Dec 2025 19:49:37 GMT | Learning WireGuard: Why Simple Systems Are the Best Place to Start | Niveshpritmani | [Read More](https://medium.com/p/6d9781c83967) |
 | Thu, 25 Dec 2025 19:42:11 GMT | What Else LLM Can Speak? | restdone | [Read More](https://medium.com/p/b38d3e442c38) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 13:22:45 GMT | How to Escalate an IDOR From Admin to Internal | Codi | [Read More](https://medium.com/p/9d080aa2f4f4) |
 | Thu, 25 Dec 2025 13:21:47 GMT | Maximizing ROI with the Ultimate Security & Defense Exhibitor List | Event Exhibitors Data | [Read More](https://medium.com/p/f7a03398b7e7) |
 | Thu, 25 Dec 2025 13:16:33 GMT | Wanting to Be Seen Without Asking | Nikhilesh N | [Read More](https://medium.com/p/3e733893796e) |
-| Thu, 25 Dec 2025 13:14:02 GMT | Automation Is Hard Until You Try n8n | MouhibMahadbi | [Read More](https://medium.com/p/0c173b118f52) |
-| Thu, 25 Dec 2025 13:11:24 GMT | Advent of Cyber — Day 1: Linux CLI — Shells Bells | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/e71d63e73cf0) |
-| Thu, 25 Dec 2025 13:09:28 GMT | Vet Techs Explained: What Do Vet Techs Do & Career Guide | Motherlandlove | [Read More](https://medium.com/p/1883384e2c5e) |
