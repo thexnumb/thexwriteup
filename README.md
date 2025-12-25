@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 10:46:30 GMT | From 400 Bad Request to XSS Pop Up | Muhammad Shehroz | [Read More](https://medium.com/p/c9e7a3844b4d) |
+| Thu, 25 Dec 2025 10:38:46 GMT | You Can Pay Now or Pay Later: The Hidden Cost of Inaction — The Cost of Doing Nothing in… | Fook Hwa Tan | [Read More](https://medium.com/p/5af97b8d01cb) |
+| Thu, 25 Dec 2025 10:37:32 GMT | Are We a Fit? | Fook Hwa Tan | [Read More](https://medium.com/p/a36ea4d34f0e) |
+| Thu, 25 Dec 2025 10:29:39 GMT | Christmas Sale on Cybersecurity Resources — Up to 90% OFF | Rocky | [Read More](https://medium.com/p/b519f33b4e0f) |
+| Thu, 25 Dec 2025 10:20:44 GMT | Imposter Syndrome in IT: Why We All Feel Stupid in Front of the Terminal | Axoloth | [Read More](https://medium.com/p/6d847bcdcef5) |
+| Thu, 25 Dec 2025 10:18:18 GMT | Holiday Season Cyber Threats | AllSafeCloud | [Read More](https://medium.com/p/70dfea38f198) |
+| Thu, 25 Dec 2025 10:13:16 GMT | ด่วน! ช่องโหว่ n8n Workflow Automation Platform รีบแก้ไขทันที! | ThaiCERT By NCSA | [Read More](https://medium.com/p/ff84f3a4260e) |
+| Thu, 25 Dec 2025 10:11:55 GMT | ประจำวันพฤหัสบดีที่ 25 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/efaa0d066a40) |
 | Thu, 25 Dec 2025 10:08:18 GMT | C4m_Ma5k: A Shell script for identifying IP segments with potential surveillance cameras. | Мартин. | [Read More](https://medium.com/p/04b1f27781c5) |
 | Thu, 25 Dec 2025 10:06:37 GMT | World of Hacking Beyond Myths | Divin | [Read More](https://medium.com/p/bb27a01ad23c) |
 | Thu, 25 Dec 2025 10:06:18 GMT | Hotcoin Labs Welcomes Block Security Arena — Building the Security Layer Web3 Actually Needs | Hotcoin Labs | [Read More](https://medium.com/p/3431db32608c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 01:20:38 GMT | TryHackMe: Year of the Owl Writeup | cbev | [Read More](https://medium.com/p/d6366bfbbdbe) |
 | Thu, 25 Dec 2025 01:17:03 GMT | Bearing Witness | Ninth Life | [Read More](https://medium.com/p/c89596e260a1) |
 | Thu, 25 Dec 2025 01:14:04 GMT | Subscription Bypass Leading to Full Access to Paid Features | Hossam Hamada | [Read More](https://medium.com/p/7c3a1bf6487c) |
-| Thu, 25 Dec 2025 01:13:40 GMT | CISSP Study Notes: All 8 Domains Explained | Cybergilly | [Read More](https://medium.com/p/59fbf0475e53) |
-| Thu, 25 Dec 2025 00:47:15 GMT | Subdomain Takeover Explained: Complete Step-by-Step Guide (Recon to Exploit) | Zabed Ullah Poyel | [Read More](https://medium.com/p/5fc9c8029cbb) |
-| Thu, 25 Dec 2025 00:45:27 GMT | The Dangers Behind Exposed Google API Keys: A Test, Experience and Lessons Learned | Albertstive | [Read More](https://medium.com/p/d425a6b9fcc6) |
-| Wed, 24 Dec 2025 23:55:11 GMT | Web Developer Bukan Malas — Mereka Terjebak Bug dan Technical Debt | Fathurrahman Al Hafiz | [Read More](https://medium.com/p/40db80be02a2) |
-| Wed, 24 Dec 2025 23:43:32 GMT | Friends or just Faces | Thomas Crane | [Read More](https://medium.com/p/f85377fac602) |
-| Wed, 24 Dec 2025 23:40:41 GMT | PE Dateien & Malware — Einstieg #1 | Nick Vidovic | [Read More](https://medium.com/p/7f8fe4576d85) |
-| Wed, 24 Dec 2025 23:35:53 GMT | Hacking Juice Shop: From Recon to Admin Access in 48 Hours | Mohamed Magdy | [Read More](https://medium.com/p/49c24c9f41f4) |
-| Wed, 24 Dec 2025 23:34:25 GMT | Digital Footprints: The Internet Knows More Than You Think | Shruthilaya | [Read More](https://medium.com/p/e5db5d15ff85) |
