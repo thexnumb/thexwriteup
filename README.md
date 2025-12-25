@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 13:22:45 GMT | How to Escalate an IDOR From Admin to Internal | Codi | [Read More](https://medium.com/p/9d080aa2f4f4) |
+| Thu, 25 Dec 2025 13:21:47 GMT | Maximizing ROI with the Ultimate Security & Defense Exhibitor List | Event Exhibitors Data | [Read More](https://medium.com/p/f7a03398b7e7) |
+| Thu, 25 Dec 2025 13:16:33 GMT | Wanting to Be Seen Without Asking | Nikhilesh N | [Read More](https://medium.com/p/3e733893796e) |
+| Thu, 25 Dec 2025 13:14:02 GMT | Automation Is Hard Until You Try n8n | MouhibMahadbi | [Read More](https://medium.com/p/0c173b118f52) |
+| Thu, 25 Dec 2025 13:11:24 GMT | Advent of Cyber — Day 1: Linux CLI — Shells Bells | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/e71d63e73cf0) |
+| Thu, 25 Dec 2025 13:09:28 GMT | Vet Techs Explained: What Do Vet Techs Do & Career Guide | Motherlandlove | [Read More](https://medium.com/p/1883384e2c5e) |
+| Thu, 25 Dec 2025 13:08:56 GMT | Web Security Essentials — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/588fc904012d) |
+| Thu, 25 Dec 2025 13:06:35 GMT | DNS Tunneling Analysis | Esra Kayhan | [Read More](https://medium.com/p/df3b3ebc7cbb) |
+| Thu, 25 Dec 2025 12:38:13 GMT | Dual Enroll Ivy Tech: Complete Guide for Indiana High School Students | Motherlandlove | [Read More](https://medium.com/p/5474a256d40e) |
 | Thu, 25 Dec 2025 12:33:56 GMT | How Threat Intelligence Helps Identify Malware Campaigns: Lessons from Oski’s Lab | Fouad Kamildeen-Aransi | [Read More](https://medium.com/p/2dad28419c6e) |
 | Thu, 25 Dec 2025 12:29:59 GMT | ISO 27001 Isn’t Paperwork — It’s Readiness | Eguen Jazaniah Femi | [Read More](https://medium.com/p/2047fa1fa59e) |
 | Thu, 25 Dec 2025 12:29:29 GMT | Securing Your Backend: Never Bind Request Data Directly to Database Models | Aransiola Ayodele | [Read More](https://medium.com/p/12f93eada588) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 07:32:38 GMT | 10 Multisig SafeOps Practices for Calm Deploy Days | Quaxel | [Read More](https://medium.com/p/60fa1f2c7fa2) |
 | Thu, 25 Dec 2025 07:32:38 GMT | 7 Notebook Governance Moves for Safe SQL at Scale | Hash Block | [Read More](https://medium.com/p/fe5434617a47) |
 | Thu, 25 Dec 2025 07:30:45 GMT | What breaks trust in authentication UX | Anton Minin Baranovskii | [Read More](https://medium.com/p/daf6cb3fef72) |
-| Thu, 25 Dec 2025 07:21:52 GMT | Tải Kingdom Guard Mod V1.0.552 (One Hit, Full Tiền, Menu) | GOCMOD | [Read More](https://medium.com/p/8fe028eeea6b) |
-| Thu, 25 Dec 2025 07:19:49 GMT | Day 24 — Security Observability: Detection, Audit Logs, Threat Signals & Incident Correlation | Vinoth Subbiah | [Read More](https://medium.com/p/39712cb6da6e) |
-| Thu, 25 Dec 2025 07:14:43 GMT | WhatsApp Leaks When You’re Online, Even If You Turn It Off | Shubhamkhatang | [Read More](https://medium.com/p/2aa0af18af5d) |
-| Thu, 25 Dec 2025 07:10:53 GMT | How to Create a Kali Linux VM Using QEMU / KVM on Kali Linux (virt-manager) | Oscar Yanez Feijoo | [Read More](https://medium.com/p/07103352d523) |
-| Thu, 25 Dec 2025 07:08:47 GMT | Mastering Active Recon Techniques in Information Gathering | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/5c39fc33d34a) |
-| Thu, 25 Dec 2025 07:07:17 GMT | Hash functions ultimately rest on the integrity of their developers. | SORA SS256 Satoshi is SHA-256 | [Read More](https://medium.com/p/1a15276e29df) |
-| Thu, 25 Dec 2025 07:01:27 GMT | Home & Business Security Systems - Alarm Guard Security Inc | Alarm Guard Security | [Read More](https://medium.com/p/874abf899751) |
-| Thu, 25 Dec 2025 07:00:31 GMT | AI-Driven ZIP Password Recovery with HexStrike-AI and Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/b8fc5c475ebc) |
-| Thu, 25 Dec 2025 06:57:59 GMT | 40 Bash One-Liners Every Hacker Should Know: Master Essential Command-Line Skills for Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/01c32fb29eea) |
