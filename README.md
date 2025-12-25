@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 17:05:23 GMT | *"The House That Breathed"* | Sakhi Writes | [Read More](https://medium.com/p/857b5eaf5715) |
+| Thu, 25 Dec 2025 17:04:56 GMT | Analyzing Network Packets with Wireshark | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/b1c812af4b4c) |
+| Thu, 25 Dec 2025 17:02:19 GMT | LE Baby Step 3: Stack Overflow 2 | BenGabay | [Read More](https://medium.com/p/5b1c13dca8cb) |
+| Thu, 25 Dec 2025 17:00:26 GMT | AWS Advent Calendar 2025 — Days 11–15 | Ihor Sasovets | [Read More](https://medium.com/p/580c06c65b59) |
+| Thu, 25 Dec 2025 16:57:12 GMT | Fake MAS Windows Activation Domain Used to Spread PowerShell Malware | Technijian | [Read More](https://medium.com/p/27deb86018b2) |
+| Thu, 25 Dec 2025 16:53:02 GMT | RAZOR TRYHACKME ACTIVE DIRECTORY | MrKouk | [Read More](https://medium.com/p/d862ed563b07) |
 | Thu, 25 Dec 2025 16:50:32 GMT | Horizontal Privilege Escalation via IDOR: Viewing, Editing and Deleting | Parth Narula | [Read More](https://medium.com/p/b10936ad4eb1) |
+| Thu, 25 Dec 2025 16:48:40 GMT | Why Your Azure Resources Need Private DNS (and How to Set it Up). | Anish Kumar Anal | [Read More](https://medium.com/p/bf42704b8221) |
+| Thu, 25 Dec 2025 16:45:24 GMT | SOC Alert Triaging- Tinsel Triage Day 10 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/3aaefb521a74) |
+| Thu, 25 Dec 2025 16:44:55 GMT | Try Hack Me- The Cod Caper (The Caping of Cod) Walkthrough | PulseEinher | [Read More](https://medium.com/p/aa18489236e4) |
 | Thu, 25 Dec 2025 16:43:39 GMT | How Bug Bounty Programs Became a Corporate Illusion of Security | Liam | [Read More](https://medium.com/p/43f7088e8b8d) |
 | Thu, 25 Dec 2025 16:38:33 GMT | Subnet Mask — Alt Ağ Maskesi Nedir? | Onur Öztürk | [Read More](https://medium.com/p/4d1e6e45f8f7) |
 | Thu, 25 Dec 2025 16:37:09 GMT | Why Your Threat Model Needs More PASTA? | Aastha Thakker | [Read More](https://medium.com/p/93d4ccacd194) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 11:06:45 GMT | How to Choose a Reliable Dahua Authorized Dealer for Professional CCTV Projects | Tavan CCTV | [Read More](https://medium.com/p/fd04471fc28b) |
 | Thu, 25 Dec 2025 11:06:33 GMT | Day 22: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/b47b8099e82e) |
 | Thu, 25 Dec 2025 11:06:13 GMT | Day 21: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/6d519081dbb8) |
-| Thu, 25 Dec 2025 11:05:42 GMT | MITRE ATT&CK | Abdul Guliyev | [Read More](https://medium.com/p/482018b84ead) |
-| Thu, 25 Dec 2025 11:04:24 GMT | Why We Believe the Future of Identity Belongs to Biometrics — But Not Just Any Biometrics | Biometric.Vision | [Read More](https://medium.com/p/0bf3cc100cd1) |
-| Thu, 25 Dec 2025 11:00:03 GMT | The Most Common WordPress Attacks (And How You Can Actually Prevent Them) | Swapnil S. | [Read More](https://medium.com/p/2cf3d94fe067) |
-| Thu, 25 Dec 2025 10:59:34 GMT | ServiceNow’s $7.75B Acquisition of Armis | Chandramouli Subraveti | [Read More](https://medium.com/p/55614af915d9) |
-| Thu, 25 Dec 2025 10:59:05 GMT | Optimistic Hacker Gaius was confirmed as the best cryptocurrency and the best method for recovering… | Józef Stanislaw | [Read More](https://medium.com/p/ec82664d429a) |
-| Thu, 25 Dec 2025 10:57:40 GMT | Cloud Security Services: Building Resilient and Trustworthy Cloud Environments | Devarshi Acharya | [Read More](https://medium.com/p/469c7f7a88de) |
-| Thu, 25 Dec 2025 10:54:01 GMT | Zero Trust Architecture: Redefining Enterprise Cybersecurity in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/326439529cb6) |
-| Thu, 25 Dec 2025 10:46:30 GMT | From 400 Bad Request to XSS Pop Up | Muhammad Shehroz | [Read More](https://medium.com/p/c9e7a3844b4d) |
-| Thu, 25 Dec 2025 10:46:01 GMT | The Ultimate SQL Injection Guide: From Zero to PhD Level | BugHunter’s Journal | [Read More](https://medium.com/p/25622b2e168c) |
