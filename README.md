@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 23:22:46 GMT | Unmasking a Fresh “Econt” Phishing Campaign: A Technical Deep-Dive | devmihaylov | [Read More](https://medium.com/p/b01f040ec4a6) |
 | Thu, 25 Dec 2025 23:11:05 GMT | THM AOC 2025 Day 17 CyberChef — Hoperation Save McSkidy | Kody | [Read More](https://medium.com/p/e88854cd4558) |
 | Thu, 25 Dec 2025 23:00:33 GMT | Broken Access Control in a very simple way | YYY_420 | [Read More](https://medium.com/p/e4ce3f2b5111) |
 | Thu, 25 Dec 2025 23:00:25 GMT | Daily Security Tips Series | Amira | [Read More](https://medium.com/p/c769dbdd53cf) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 14:25:22 GMT | Securing Your CRM: How VPC Endpoints for DynamoDB Eliminate Public Internet Exposure | Osman ALP | [Read More](https://medium.com/p/3ff243bf26de) |
 | Thu, 25 Dec 2025 14:25:08 GMT | How to Find P1 Bugs using Google in your Target — (Part-3) | RivuDon | [Read More](https://medium.com/p/92080292f4ac) |
 | Thu, 25 Dec 2025 14:22:44 GMT | ‍☠️ Top Free Tools That Can Make You $1000/Month in Bug Bounty | Vipul Sonule | [Read More](https://medium.com/p/a6a8c21564c2) |
-| Thu, 25 Dec 2025 14:20:36 GMT | How I found IDOR on IIT Kanpur & bypassed the payment system | StvRoot | [Read More](https://medium.com/p/4917d07a3573) |
