@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 20:04:33 GMT | The Love I Lost While Waiting for the Perfect Moment | Banhisekha | [Read More](https://medium.com/p/7918b28c9c4d) |
+| Thu, 25 Dec 2025 19:49:37 GMT | Learning WireGuard: Why Simple Systems Are the Best Place to Start | Niveshpritmani | [Read More](https://medium.com/p/6d9781c83967) |
+| Thu, 25 Dec 2025 19:42:11 GMT | What Else LLM Can Speak? | restdone | [Read More](https://medium.com/p/b38d3e442c38) |
+| Thu, 25 Dec 2025 19:41:16 GMT | Getting Started with Azure Penetration Testing: | Tharindu Damith | [Read More](https://medium.com/p/defc313445c9) |
+| Thu, 25 Dec 2025 19:39:16 GMT | Breaking Blind SQL Injection (DVWA — Easy) | Sanjivani Dobhal | [Read More](https://medium.com/p/09fe314ece71) |
 | Thu, 25 Dec 2025 19:21:10 GMT | Monero (XMR): Finansal Gizliliğin Kalesi mi, Yoksa Dijital Gölge mi? | 5MinTech - DEUYBS | [Read More](https://medium.com/p/85bfb30d8a94) |
 | Thu, 25 Dec 2025 19:19:52 GMT | MY PROM DRESS | Venessa | [Read More](https://medium.com/p/b964457cd87c) |
 | Thu, 25 Dec 2025 19:19:04 GMT | L’informationnel et l’IA à l’heure de la guerre cognitive | Pierre Gueydier | [Read More](https://medium.com/p/9d41f3d7b118) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 13:14:02 GMT | Automation Is Hard Until You Try n8n | MouhibMahadbi | [Read More](https://medium.com/p/0c173b118f52) |
 | Thu, 25 Dec 2025 13:11:24 GMT | Advent of Cyber — Day 1: Linux CLI — Shells Bells | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/e71d63e73cf0) |
 | Thu, 25 Dec 2025 13:09:28 GMT | Vet Techs Explained: What Do Vet Techs Do & Career Guide | Motherlandlove | [Read More](https://medium.com/p/1883384e2c5e) |
-| Thu, 25 Dec 2025 13:08:56 GMT | Web Security Essentials — TryhackMe Walkthrough | Paul koumedzro | [Read More](https://medium.com/p/588fc904012d) |
-| Thu, 25 Dec 2025 13:06:35 GMT | DNS Tunneling Analysis | Esra Kayhan | [Read More](https://medium.com/p/df3b3ebc7cbb) |
-| Thu, 25 Dec 2025 12:38:13 GMT | Dual Enroll Ivy Tech: Complete Guide for Indiana High School Students | Motherlandlove | [Read More](https://medium.com/p/5474a256d40e) |
-| Thu, 25 Dec 2025 12:33:56 GMT | How Threat Intelligence Helps Identify Malware Campaigns: Lessons from Oski’s Lab | Fouad Kamildeen-Aransi | [Read More](https://medium.com/p/2dad28419c6e) |
-| Thu, 25 Dec 2025 12:29:59 GMT | ISO 27001 Isn’t Paperwork — It’s Readiness | Eguen Jazaniah Femi | [Read More](https://medium.com/p/2047fa1fa59e) |
