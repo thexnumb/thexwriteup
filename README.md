@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 09:35:48 GMT | Why API Security is More Critical Than Web Security in Today’s Digital Landscape | Vitali Brunovski | [Read More](https://medium.com/p/fba74f3f7c21) |
+| Thu, 25 Dec 2025 09:32:18 GMT | The One Thing Nobody Tells You About OSCP+… | RedTeam Chronicle | [Read More](https://medium.com/p/38ca3b5a9e58) |
+| Thu, 25 Dec 2025 09:25:04 GMT | From Missing Rate Limiting to Account Takeover (ATO) | Omar Ahmed Abdelslam | [Read More](https://medium.com/p/efdddb1de5df) |
+| Thu, 25 Dec 2025 09:13:26 GMT | Cybersecurity Risk Management: Why Every Business Needs a Real Plan, Not Just Tools | Gauri Pandey | [Read More](https://medium.com/p/4c2020849b32) |
 | Thu, 25 Dec 2025 09:08:53 GMT | Support & Account Recovery Security Checklist (B2B SaaS) | Anton Minin Baranovskii | [Read More](https://medium.com/p/707690a3ccf1) |
 | Thu, 25 Dec 2025 09:07:42 GMT | What is mTLS (Mutual TLS) and How It Works | Vitali Brunovski | [Read More](https://medium.com/p/dbf1de3f5a62) |
 | Thu, 25 Dec 2025 09:07:08 GMT | TCP ve UDP Nedir? Aralarındaki Farklar | Arda Derya | [Read More](https://medium.com/p/7335cc68e0b7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 22:26:51 GMT | She Lost Everything After Divorce — The Heartbreaking Truth About Financial Dependence | Riva Smith | [Read More](https://medium.com/p/5f13b6c986ce) |
 | Wed, 24 Dec 2025 22:24:34 GMT | How to Conduct an AI Impact Assessment (Without Losing Your Mind) | Cyber-AppSec | [Read More](https://medium.com/p/434ccfa189a3) |
 | Wed, 24 Dec 2025 22:20:39 GMT | Günlük Kullanıcı İçin Gerçekten Güvenli Bir Tarayıcı Deneyimi Mümkün mü? | Özgür Karataş | [Read More](https://medium.com/p/0427561ea9ea) |
-| Wed, 24 Dec 2025 22:17:09 GMT | Gemini CLI Beyond the Basics: Choosing the Right MCP Authentication | minherz | [Read More](https://medium.com/p/b29f65eba61c) |
-| Wed, 24 Dec 2025 22:14:22 GMT | Understanding Web Sessions: A Beginner’s Guide to How Websites Remember You | EnTech | [Read More](https://medium.com/p/c6f470864e3f) |
-| Wed, 24 Dec 2025 22:05:36 GMT | Tips Scaling DevSecOps to Infinity Repos | thedevsecopshandbook | [Read More](https://medium.com/p/a4b52a6800aa) |
-| Wed, 24 Dec 2025 22:03:16 GMT | FortiGate ile Kurumsal Güvenliğe Genel Bir Bakış | Muhammed Emin Berberoğlu | [Read More](https://medium.com/p/3200d4cc97fa) |
