@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 14:39:07 GMT | How I Found a $5,500 Bug Using Just Reconnaissance | Codi | [Read More](https://medium.com/p/2768fdba5ff2) |
+| Thu, 25 Dec 2025 14:34:27 GMT | CrowdStrike Wasn’t a Bug. It Was the Business Model | Adonis | [Read More](https://medium.com/p/89317be4cfea) |
+| Thu, 25 Dec 2025 14:25:22 GMT | Securing Your CRM: How VPC Endpoints for DynamoDB Eliminate Public Internet Exposure | Osman ALP | [Read More](https://medium.com/p/3ff243bf26de) |
+| Thu, 25 Dec 2025 14:25:08 GMT | How to Find P1 Bugs using Google in your Target — (Part-3) | RivuDon | [Read More](https://medium.com/p/92080292f4ac) |
+| Thu, 25 Dec 2025 14:22:44 GMT | ‍☠️ Top Free Tools That Can Make You $1000/Month in Bug Bounty | Vipul Sonule | [Read More](https://medium.com/p/a6a8c21564c2) |
 | Thu, 25 Dec 2025 14:20:36 GMT | How I found IDOR on IIT Kanpur & bypassed the payment system | StvRoot | [Read More](https://medium.com/p/4917d07a3573) |
+| Thu, 25 Dec 2025 14:16:35 GMT | Penetration Testing: Your Digital Security Reality Check | Faysal Ahmed | [Read More](https://medium.com/p/9f8739b4863d) |
+| Thu, 25 Dec 2025 14:16:16 GMT | n8n: CVE-2025–68613 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/b6c06e5fd3cc) |
 | Thu, 25 Dec 2025 14:15:47 GMT | PortSwigger Web Security Academy — Lab Write‑Up 6 | 0xM3d0din | [Read More](https://medium.com/p/728b277df26e) |
 | Thu, 25 Dec 2025 14:12:28 GMT | Exposed Pipelines: Rooting HTB Builder via CVE-2024-23897 | Nmullenski | [Read More](https://medium.com/p/18b185b3d080) |
 | Thu, 25 Dec 2025 14:01:34 GMT | Sensitive Data Exposure: The Silent Bug That Pays Big | Monika sharma | [Read More](https://medium.com/p/ce280b0ebea4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 08:45:18 GMT | Cyber Security | Amirhaseeb738 | [Read More](https://medium.com/p/049a8bccb301) |
 | Thu, 25 Dec 2025 08:44:23 GMT | I’m Still Me | amelie:) | [Read More](https://medium.com/p/03038a644ffa) |
 | Thu, 25 Dec 2025 08:38:19 GMT | Best Proxy for YouTube in 2026: Rotation, Stability, Setup | LedgerQuartz | [Read More](https://medium.com/p/e0384ab2b277) |
-| Thu, 25 Dec 2025 08:37:08 GMT | Deploying Wazuh and connecting Windows 11 Pro agent | Shaheer Khalid | [Read More](https://medium.com/p/51aff396a51b) |
-| Thu, 25 Dec 2025 08:35:37 GMT | Unpacking n8n RCE CVE-2025–68613 | Motasem Hamdan | [Read More](https://medium.com/p/39e4f3417358) |
-| Thu, 25 Dec 2025 08:34:44 GMT | The Daily Tech Digest: 25 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/002639d4f77e) |
-| Thu, 25 Dec 2025 08:34:39 GMT | Cyber Security Checklist for Pakistani Businesses (2026 Guide) | Bisma SEO Expert | [Read More](https://medium.com/p/01fc5c40c0a1) |
-| Thu, 25 Dec 2025 08:33:43 GMT | OverTheWire Bandit: A Practical Walkthrough for Beginners | Omer Bawazir | [Read More](https://medium.com/p/5833de20357e) |
-| Thu, 25 Dec 2025 08:21:07 GMT | 7 Urgent Fixes for WatchGuard Firebox CVE-2025–14733 | Pentest_Testing_Corp | [Read More](https://medium.com/p/8a2095086b96) |
-| Thu, 25 Dec 2025 08:19:09 GMT | How to Block AI Bot on Websites? | Smit Pipaliya | [Read More](https://medium.com/p/6a30e7fc34fa) |
