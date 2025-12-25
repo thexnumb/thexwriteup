@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 01:41:13 GMT | Pods & Containers: The Living Units of a Kubernetes Cluster | Srikanta Sahu | [Read More](https://medium.com/p/984a30ead9cf) |
+| Thu, 25 Dec 2025 01:39:52 GMT | Kubernetes in Motion: Meet the “Doers” of Your Cluster | Srikanta Sahu | [Read More](https://medium.com/p/846c1603aa4f) |
+| Thu, 25 Dec 2025 01:32:37 GMT | 10 Latency-Safe Guardrails That Won’t Slow You Down | Velorum | [Read More](https://medium.com/p/0769d2318b98) |
+| Thu, 25 Dec 2025 01:32:37 GMT | The DB Write Button Is a Loaded Gun | Syntal | [Read More](https://medium.com/p/36f6b0da805a) |
+| Thu, 25 Dec 2025 01:32:37 GMT | 5 Web3 Referral Systems That Don’t Spawn Sybil Armies | Quaxel | [Read More](https://medium.com/p/fd45fd7dbdb7) |
+| Thu, 25 Dec 2025 01:20:38 GMT | TryHackMe: Year of the Owl Writeup | cbev | [Read More](https://medium.com/p/d6366bfbbdbe) |
+| Thu, 25 Dec 2025 01:17:03 GMT | Bearing Witness | Ninth Life | [Read More](https://medium.com/p/c89596e260a1) |
+| Thu, 25 Dec 2025 01:14:04 GMT | Subscription Bypass Leading to Full Access to Paid Features | Hossam Hamada | [Read More](https://medium.com/p/7c3a1bf6487c) |
+| Thu, 25 Dec 2025 01:13:40 GMT | CISSP Study Notes: All 8 Domains Explained | Cybergilly | [Read More](https://medium.com/p/59fbf0475e53) |
+| Thu, 25 Dec 2025 00:47:15 GMT | Subdomain Takeover Explained: Complete Step-by-Step Guide (Recon to Exploit) | Zabed Ullah Poyel | [Read More](https://medium.com/p/5fc9c8029cbb) |
+| Thu, 25 Dec 2025 00:45:27 GMT | The Dangers Behind Exposed Google API Keys: A Test, Experience and Lessons Learned | Albertstive | [Read More](https://medium.com/p/d425a6b9fcc6) |
+| Wed, 24 Dec 2025 23:43:32 GMT | Friends or just Faces | Thomas Crane | [Read More](https://medium.com/p/f85377fac602) |
+| Wed, 24 Dec 2025 23:40:41 GMT | PE Dateien & Malware — Einstieg #1 | Nick Vidovic | [Read More](https://medium.com/p/7f8fe4576d85) |
 | Wed, 24 Dec 2025 23:35:53 GMT | Hacking Juice Shop: From Recon to Admin Access in 48 Hours | Mohamed Magdy | [Read More](https://medium.com/p/49c24c9f41f4) |
 | Wed, 24 Dec 2025 23:34:25 GMT | Digital Footprints: The Internet Knows More Than You Think | Shruthilaya | [Read More](https://medium.com/p/e5db5d15ff85) |
 | Wed, 24 Dec 2025 23:20:20 GMT | Before CloudNetX Had a Name | Sec Guy | [Read More](https://medium.com/p/eeff28852b50) |
@@ -100,16 +113,3 @@ E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https:
 | Wed, 24 Dec 2025 16:22:57 GMT | Hybrid Design Patterns: Strategy + Command (That Most People Don’t Know) | Jitin Kayyala | [Read More](https://medium.com/p/eea4748ed064) |
 | Wed, 24 Dec 2025 16:20:53 GMT | Stanford : une IA de hacking surpasse 9 experts sur 10 à moindre coût | Marc Barbezat | [Read More](https://medium.com/p/178d30fcb1bf) |
 | Wed, 24 Dec 2025 16:20:47 GMT | Cybersecurity: How AI Is Transforming Digital Defense into a High-Growth Global Opportunity | Ravi Prasanth | [Read More](https://medium.com/p/987fbfd02e68) |
-| Wed, 24 Dec 2025 16:20:31 GMT | Day 142 — Behemoth Level-2 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/87bc7da16a52) |
-| Wed, 24 Dec 2025 16:11:29 GMT | C2 Detection — Command & Carol - AoC 2025 Day — 22 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/a679c6417cc6) |
-| Wed, 24 Dec 2025 16:10:04 GMT | How to Securely Expose a Single API Endpoint Using Nginx as a Reverse Proxy | Chilat Sergiu | [Read More](https://medium.com/p/119c495ddc79) |
-| Wed, 24 Dec 2025 16:02:22 GMT | FastAPI Security Headers That Don’t Slow You Down | Nexumo | [Read More](https://medium.com/p/7c8ac864a5ee) |
-| Wed, 24 Dec 2025 15:58:23 GMT | Building a Human-in-the-Loop Security Automation with Jira, LLMs, and AWS WAF | Anurag | [Read More](https://medium.com/p/525647ea0cb1) |
-| Wed, 24 Dec 2025 15:51:40 GMT | When the Attack Is Already in Your Browser: The New Reality of Malicious Extensions (and How to… | Germano Costi | [Read More](https://medium.com/p/ebdbdd3e725a) |
-| Wed, 24 Dec 2025 15:48:56 GMT | Milvus Permissions Deep Dive: Building Your Security Fortress Against “Delete Database, Run Away” | JIN | [Read More](https://medium.com/p/487633567b16) |
-| Wed, 24 Dec 2025 15:47:53 GMT | IPTABLES (Linux Firewall)—Complete Practical Guide | Tushar jadhav | [Read More](https://medium.com/p/d469b3111070) |
-| Wed, 24 Dec 2025 15:46:41 GMT | You Will Have Been Warned | Fortress Protocol | [Read More](https://medium.com/p/3266d6f24c3e) |
-| Wed, 24 Dec 2025 15:45:36 GMT | Why AWS tagging is mandatory? | Rayhshtat | [Read More](https://medium.com/p/8bbc11e316e7) |
-| Wed, 24 Dec 2025 15:45:03 GMT | AI System Security: The New Frontier for Bug Bounty Hunters - Google, Anthropic & Samsung’s 2025… | BBHunterpk | [Read More](https://medium.com/p/66ce553dfa90) |
-| Wed, 24 Dec 2025 15:40:31 GMT | What Happens During an HTTPS Connection (And Why It Matters) | Codeandcontext | [Read More](https://medium.com/p/685d3ce34c2c) |
-| Wed, 24 Dec 2025 15:39:58 GMT | Welcome to Phish N’ Chips | Soumya Bhattacharjee | [Read More](https://medium.com/p/5c5b04ab38f4) |
