@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 19:02:03 GMT | A Compliance Calendar to Navigate Deadlines with Confidence & Clarity | Linda A. Ivri | [Read More](https://medium.com/p/d5c7bfaec654) |
+| Thu, 25 Dec 2025 18:59:37 GMT | Why Smart Configurations Are Key to Implementing Least Privilege | Linda A. Ivri | [Read More](https://medium.com/p/de0a8c6730d8) |
+| Thu, 25 Dec 2025 18:53:10 GMT | The End of the “Write & Pray” Era in SIEM: Detection as Code and Purple Team Validation | Ali Sefer | [Read More](https://medium.com/p/83023300f5e5) |
+| Thu, 25 Dec 2025 18:42:26 GMT | n8n RCE 101: Analyzing CVE-2025–68613 | Lior Ben Moha | [Read More](https://medium.com/p/74ce8ac0ef4b) |
+| Thu, 25 Dec 2025 18:42:06 GMT | Modern Industrial Protocols: PROFINET, EtherNet/IP, OPC-UA, and IEC 61850 | urjasec | [Read More](https://medium.com/p/9bea660d9c1d) |
+| Thu, 25 Dec 2025 18:36:49 GMT | The Backdoor We Built Ourselves | Erik Cota-Robles | [Read More](https://medium.com/p/250ea893b71d) |
+| Thu, 25 Dec 2025 18:34:13 GMT | Easy Peasy : Challenge WriteUp TryHackMe | theOrthodox | [Read More](https://medium.com/p/13c72583ece9) |
 | Thu, 25 Dec 2025 18:30:26 GMT | Easy Peasy : Challenge WriteUp TryHackMe | theOrthodox | [Read More](https://medium.com/p/6c0043d79558) |
 | Thu, 25 Dec 2025 18:28:35 GMT | Network Nedir? Temel Ağ Türleri ve Topolojiler (Siber Güvenlik Serisi — 1) | Berra Meryem | [Read More](https://medium.com/p/b04d525845cd) |
 | Thu, 25 Dec 2025 18:27:53 GMT | Hybrid Design Patterns:Factory+Strategy(That Most People Don’t Know) | Jitin Kayyala | [Read More](https://medium.com/p/4bc4bb3993f5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 12:29:29 GMT | Securing Your Backend: Never Bind Request Data Directly to Database Models | Aransiola Ayodele | [Read More](https://medium.com/p/12f93eada588) |
 | Thu, 25 Dec 2025 12:23:52 GMT | How a Simple LFI Turned Into Full Root RCE | Af4himi | [Read More](https://medium.com/p/b8da5c71b4b3) |
 | Thu, 25 Dec 2025 12:23:26 GMT | How Being Slow Helped the Scan Win | Fateyaly | [Read More](https://medium.com/p/31d9d90a77fd) |
-| Thu, 25 Dec 2025 12:23:15 GMT | AWS Security — S3cret Santa - AoC 2025 Day - 23 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/c62c3c6ad790) |
-| Thu, 25 Dec 2025 12:18:53 GMT | Why Prompts Are Not Security: A Case for Runtime Execution Boundaries in AI Agents | ziling-failcore | [Read More](https://medium.com/p/16846ac4023a) |
-| Thu, 25 Dec 2025 12:13:18 GMT | My First Advent of Cyber: A Comprehensive Review | Citadel Cybersec | [Read More](https://medium.com/p/a3d3372d96d0) |
-| Thu, 25 Dec 2025 12:12:26 GMT | CEH v13 Syllabus Explained: New Modules & Tools | Joanhermann | [Read More](https://medium.com/p/15045ffdc6e5) |
-| Thu, 25 Dec 2025 12:12:10 GMT | What Do Surgical Techs Do? Roles, Duties, Skills & Career Guide | Motherlandlove | [Read More](https://medium.com/p/516b2e967de5) |
-| Thu, 25 Dec 2025 12:11:44 GMT | Walkthrough — Setup OpenID SSO between Auth0 and Appian | Tony Marziano | [Read More](https://medium.com/p/02e504a59f85) |
-| Thu, 25 Dec 2025 12:08:49 GMT | Cyber Threats Are Smarter Than Ever — Is Your Business Ready to Manage the Risk? | Zalak Panchal | [Read More](https://medium.com/p/473595c70092) |
