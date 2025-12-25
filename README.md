@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 09:08:53 GMT | Support & Account Recovery Security Checklist (B2B SaaS) | Anton Minin Baranovskii | [Read More](https://medium.com/p/707690a3ccf1) |
+| Thu, 25 Dec 2025 09:07:42 GMT | What is mTLS (Mutual TLS) and How It Works | Vitali Brunovski | [Read More](https://medium.com/p/dbf1de3f5a62) |
+| Thu, 25 Dec 2025 09:07:08 GMT | TCP ve UDP Nedir? Aralarındaki Farklar | Arda Derya | [Read More](https://medium.com/p/7335cc68e0b7) |
+| Thu, 25 Dec 2025 09:00:23 GMT | CloudFront VPC Origins: The Ultimate Guide to True Zero-Trust Architecture on AWS | Sudha Subramaniam | [Read More](https://medium.com/p/527acf790c07) |
+| Thu, 25 Dec 2025 08:56:14 GMT | The smartphone landscape in 2025 is no longer just about hardware; it’s about intelligent… | pulsebangladesh | [Read More](https://medium.com/p/fc53f1c7e587) |
+| Thu, 25 Dec 2025 08:54:26 GMT | Why Security Consulting Services Are Essential for Modern Businesses in India | Ciss India | [Read More](https://medium.com/p/6fc0eaddfcff) |
+| Thu, 25 Dec 2025 08:52:56 GMT | HexStrike-AI: A Force Multiplier for Red Teams — and a Dangerous Shift in the Threat Landscape | Andrey Pautov | [Read More](https://medium.com/p/3e1d4e86f3ae) |
+| Thu, 25 Dec 2025 08:47:43 GMT | Managed IT Services for Irvine Businesses in 2025 | Johan Sullivan | [Read More](https://medium.com/p/5f4e2b353a9a) |
+| Thu, 25 Dec 2025 08:45:18 GMT | Cyber Security | Amirhaseeb738 | [Read More](https://medium.com/p/049a8bccb301) |
+| Thu, 25 Dec 2025 08:44:23 GMT | I’m Still Me | amelie:) | [Read More](https://medium.com/p/03038a644ffa) |
+| Thu, 25 Dec 2025 08:38:19 GMT | Best Proxy for YouTube in 2026: Rotation, Stability, Setup | LedgerQuartz | [Read More](https://medium.com/p/e0384ab2b277) |
+| Thu, 25 Dec 2025 08:37:08 GMT | Deploying Wazuh and connecting Windows 11 Pro agent | Shaheer Khalid | [Read More](https://medium.com/p/51aff396a51b) |
+| Thu, 25 Dec 2025 08:35:37 GMT | Unpacking n8n RCE CVE-2025–68613 | Motasem Hamdan | [Read More](https://medium.com/p/39e4f3417358) |
+| Thu, 25 Dec 2025 08:34:44 GMT | The Daily Tech Digest: 25 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/002639d4f77e) |
+| Thu, 25 Dec 2025 08:34:39 GMT | Cyber Security Checklist for Pakistani Businesses (2026 Guide) | Bisma SEO Expert | [Read More](https://medium.com/p/01fc5c40c0a1) |
+| Thu, 25 Dec 2025 08:33:43 GMT | OverTheWire Bandit: A Practical Walkthrough for Beginners | Omer Bawazir | [Read More](https://medium.com/p/5833de20357e) |
 | Thu, 25 Dec 2025 08:21:07 GMT | 7 Urgent Fixes for WatchGuard Firebox CVE-2025–14733 | Pentest_Testing_Corp | [Read More](https://medium.com/p/8a2095086b96) |
 | Thu, 25 Dec 2025 08:19:09 GMT | How to Block AI Bot on Websites? | Smit Pipaliya | [Read More](https://medium.com/p/6a30e7fc34fa) |
 | Thu, 25 Dec 2025 08:16:13 GMT | Holiday Season Cyber Threats | DarkBarrier | [Read More](https://medium.com/p/44ac34ba2491) |
@@ -39,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 07:00:31 GMT | AI-Driven ZIP Password Recovery with HexStrike-AI and Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/b8fc5c475ebc) |
 | Thu, 25 Dec 2025 06:57:59 GMT | 40 Bash One-Liners Every Hacker Should Know: Master Essential Command-Line Skills for Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/01c32fb29eea) |
 | Thu, 25 Dec 2025 06:48:44 GMT | Home Security System: Protecting What Matters Most | Alarm Guard Security | [Read More](https://medium.com/p/1c9aff7978a1) |
+| Thu, 25 Dec 2025 06:35:30 GMT | 2025 CVE Wrap-up and 2026 Trend | Park Sehun | [Read More](https://medium.com/p/8ac084e127e1) |
 | Thu, 25 Dec 2025 06:34:03 GMT | PTaaS (Penetration Testing as a Service) — Blacklock Security Limited | Black Lock | [Read More](https://medium.com/p/7ad0387721dd) |
 | Thu, 25 Dec 2025 06:13:32 GMT | Applying the OODA Loop to modern threat hunting | Nima Bargestan | [Read More](https://medium.com/p/7013a4625e0c) |
 | Thu, 25 Dec 2025 06:04:44 GMT | Cybersecurity’s Hidden Growth Engine | BeamSec | [Read More](https://medium.com/p/f982946412e4) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 22:14:22 GMT | Understanding Web Sessions: A Beginner’s Guide to How Websites Remember You | EnTech | [Read More](https://medium.com/p/c6f470864e3f) |
 | Wed, 24 Dec 2025 22:05:36 GMT | Tips Scaling DevSecOps to Infinity Repos | thedevsecopshandbook | [Read More](https://medium.com/p/a4b52a6800aa) |
 | Wed, 24 Dec 2025 22:03:16 GMT | FortiGate ile Kurumsal Güvenliğe Genel Bir Bakış | Muhammed Emin Berberoğlu | [Read More](https://medium.com/p/3200d4cc97fa) |
-| Wed, 24 Dec 2025 22:02:45 GMT | How Attackers Turn Your AI Into an Injection Engine: XSS, SQL, and RCE via LLMs | Suchitra Malimbada | [Read More](https://medium.com/p/004662357df8) |
-| Wed, 24 Dec 2025 21:52:57 GMT | The SOC Access Paradox: When Your Security Team Becomes the Risk | Steve Anderson | [Read More](https://medium.com/p/584a70ebc8d3) |
-| Wed, 24 Dec 2025 21:49:09 GMT | One Request, Ten Times: How I Broke Admin Access with a Race Condition | 0xMoussa | [Read More](https://medium.com/p/05c56b072118) |
-| Wed, 24 Dec 2025 21:48:04 GMT | 技术确保了旅行证件的安全。 这就是为什么许多人需要英国生物识别护照，以确保他们的身份符合当代标准。
-E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https://medium.com/p/574b6a15822f) |
-| Wed, 24 Dec 2025 21:46:03 GMT | Title:Steganography‑Based Malware Delivery Analysis | Mustafaxstr0ike | [Read More](https://medium.com/p/7ad0c15986ec) |
-| Wed, 24 Dec 2025 21:24:19 GMT | Building a Secure Malware Analysis Lab: A Complete Guide to FLARE-VM, REMnux, and INetSim… | Aisha B. B | [Read More](https://medium.com/p/e99c6752e668) |
-| Wed, 24 Dec 2025 21:14:02 GMT | Stop Using process.env: Why Your TypeScript Apps Need an Environmental Contract | Santosh Jugjali | [Read More](https://medium.com/p/12ada314ddc3) |
-| Wed, 24 Dec 2025 21:06:50 GMT | How to Become a Smart Contract Bug Hunter and Get Paid in 2026 | PMartin | [Read More](https://medium.com/p/e7c39a825d29) |
-| Wed, 24 Dec 2025 20:59:17 GMT | The Infrastructure Trap: Why the US is Stuck on “Modems” While India Surfs on Light | Prateek Sharma | [Read More](https://medium.com/p/cfe206292aa9) |
-| Wed, 24 Dec 2025 20:57:54 GMT | Tenderat e AKSHI-t: Pengmarrje, kërcënime dhe ndikim politik | shteg.org | [Read More](https://medium.com/p/c0c44d2a06f2) |
-| Wed, 24 Dec 2025 20:51:25 GMT | Beyond the Upload Button: My Journey Through File Upload Vulnerabilities | M. Mustafa Hussaini | [Read More](https://medium.com/p/4c941b5fa57d) |
-| Wed, 24 Dec 2025 20:28:00 GMT | The Day I Found a Google Sheets API Key Hidden in Plain Sight — Inside a Public JavaScript File | Anshubind | [Read More](https://medium.com/p/45795be4f51c) |
-| Wed, 24 Dec 2025 20:27:57 GMT | CompTIA Certifications changed my life | GhostInject | [Read More](https://medium.com/p/547f5188fe4a) |
-| Wed, 24 Dec 2025 20:27:31 GMT | The Night I Discovered a Production Server Hiding Behind an Exposed IP — And Why It Mattered… | Anshubind | [Read More](https://medium.com/p/e0f3009cdd51) |
-| Wed, 24 Dec 2025 20:13:45 GMT | Building A Fake Company Database And Employee Login Portal to Practice Data Exfiltration | Johnny Meintel | [Read More](https://medium.com/p/59c0421218f9) |
-| Wed, 24 Dec 2025 19:45:03 GMT | Spotify Allegedly Scraped: A 300TB Music Archive Sparks Global Debate | wandy iskwanto | [Read More](https://medium.com/p/1d04bb0b60a7) |
-| Wed, 24 Dec 2025 19:36:22 GMT | CSI: Remote Desktops & Invisible Artifacts — A Forensic Love Story | Fatima Zakir | [Read More](https://medium.com/p/08ac0e438e73) |
