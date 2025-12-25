@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 07:40:57 GMT | From CMD to PowerShell: Building My Personal Windows Cybersecurity Command Reference | Oscar Yanez Feijoo | [Read More](https://medium.com/p/82bd4616f9b8) |
+| Thu, 25 Dec 2025 07:38:00 GMT | LinkedIn Proxies for Business (2026): Use Cases, Checklist, and a Safer Setup | CoinOdyssey | [Read More](https://medium.com/p/2ca95197ec6e) |
+| Thu, 25 Dec 2025 07:32:38 GMT | 10 Multisig SafeOps Practices for Calm Deploy Days | Quaxel | [Read More](https://medium.com/p/60fa1f2c7fa2) |
+| Thu, 25 Dec 2025 07:32:38 GMT | 7 Notebook Governance Moves for Safe SQL at Scale | Hash Block | [Read More](https://medium.com/p/fe5434617a47) |
+| Thu, 25 Dec 2025 07:30:45 GMT | What breaks trust in authentication UX | Anton Minin Baranovskii | [Read More](https://medium.com/p/daf6cb3fef72) |
+| Thu, 25 Dec 2025 07:21:52 GMT | Tải Kingdom Guard Mod V1.0.552 (One Hit, Full Tiền, Menu) | GOCMOD | [Read More](https://medium.com/p/8fe028eeea6b) |
+| Thu, 25 Dec 2025 07:19:49 GMT | Day 24 — Security Observability: Detection, Audit Logs, Threat Signals & Incident Correlation | Vinoth Subbiah | [Read More](https://medium.com/p/39712cb6da6e) |
 | Thu, 25 Dec 2025 07:14:43 GMT | WhatsApp Leaks When You’re Online, Even If You Turn It Off | Shubhamkhatang | [Read More](https://medium.com/p/2aa0af18af5d) |
+| Thu, 25 Dec 2025 07:10:53 GMT | How to Create a Kali Linux VM Using QEMU / KVM on Kali Linux (virt-manager) | Oscar Yanez Feijoo | [Read More](https://medium.com/p/07103352d523) |
 | Thu, 25 Dec 2025 07:08:47 GMT | Mastering Active Recon Techniques in Information Gathering | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/5c39fc33d34a) |
 | Thu, 25 Dec 2025 07:07:17 GMT | Hash functions ultimately rest on the integrity of their developers. | SORA SS256 Satoshi is SHA-256 | [Read More](https://medium.com/p/1a15276e29df) |
 | Thu, 25 Dec 2025 07:01:27 GMT | Home & Business Security Systems - Alarm Guard Security Inc | Alarm Guard Security | [Read More](https://medium.com/p/874abf899751) |
@@ -105,11 +113,3 @@ E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https:
 | Wed, 24 Dec 2025 18:48:16 GMT | Dixcover Everything | Federico Lucero | [Read More](https://medium.com/p/7a5e8017f554) |
 | Wed, 24 Dec 2025 18:46:48 GMT | Skip 4 years on campus — build a global tech career faster Thinking about a traditional 4-year IT… | Abdullah Shakeel | [Read More](https://medium.com/p/2b421d0fba01) |
 | Wed, 24 Dec 2025 18:44:50 GMT | Can Mobile Apps Be Vulnerable to CSRF? Simple Explanation | Raj Prasad Kuiri | [Read More](https://medium.com/p/82501a1c55f5) |
-| Wed, 24 Dec 2025 18:43:49 GMT | Volatility Plugins — Plugin window.modscan, ,window.modules Let’s Talk About it | Dean | [Read More](https://medium.com/p/2349a5ee359c) |
-| Wed, 24 Dec 2025 18:38:50 GMT | I Am Ashamed To Be A Man | Chris McCumskey | [Read More](https://medium.com/p/35effae20f2a) |
-| Wed, 24 Dec 2025 18:34:22 GMT | Exploitation with cURL — Hoperation Eggsploit ~Last room of Aod-2025 | Mann24> | [Read More](https://medium.com/p/cbce77e8d045) |
-| Wed, 24 Dec 2025 18:33:41 GMT | Google Dorks for Bug Bounty | aimaster | [Read More](https://medium.com/p/d1596fafbe39) |
-| Wed, 24 Dec 2025 18:32:21 GMT | Back to the Gym — Analyzing Malicious PCAPs | Security Posture | [Read More](https://medium.com/p/a58180f485d3) |
-| Wed, 24 Dec 2025 18:25:55 GMT | This is a script to lock off webview from its default spyware functions to more locked down mode | William Ashley | [Read More](https://medium.com/p/50b275b2ac49) |
-| Wed, 24 Dec 2025 18:23:19 GMT | The Space Between Wanting | Novita Eka Lestari | [Read More](https://medium.com/p/d2697d5f36a6) |
-| Wed, 24 Dec 2025 18:18:46 GMT | Practical Phone Security Without Sacrificing Speed | Geoffrey Wenger | [Read More](https://medium.com/p/308fd41c83f7) |
