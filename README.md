@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 15:31:19 GMT | Escalate GCP privileges with Implicit Delegation : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/1c8cd68b1581) |
+| Thu, 25 Dec 2025 15:24:20 GMT | Looking Beyond Bugs: Finding Design Flaws in Modern Applications | Afi0pchik | [Read More](https://medium.com/p/d42dae47775f) |
+| Thu, 25 Dec 2025 15:23:00 GMT | Information, Reality, and Human Thought | James Kreis | [Read More](https://medium.com/p/4f84f754c3d5) |
+| Thu, 25 Dec 2025 15:21:30 GMT | ZeroID: Reclaiming Privacy in Web Authentication with Zero-Knowledge Proofs | Omar Ait Ben Iyche | [Read More](https://medium.com/p/fcfe8c455907) |
+| Thu, 25 Dec 2025 15:18:24 GMT | OSINT for Law Enforcement | Abdul Mubin | [Read More](https://medium.com/p/73dee05e6336) |
 | Thu, 25 Dec 2025 15:07:34 GMT | Governance by Legal State System | Marcelo Filho | [Read More](https://medium.com/p/b632cea64c00) |
 | Thu, 25 Dec 2025 15:06:28 GMT | Bug Bounty Isn’t About Tools — It’s About Thinking Like the App | Iski | [Read More](https://medium.com/p/43b553f1786b) |
 | Thu, 25 Dec 2025 14:59:24 GMT | Attack Surface: How to See What Hackers See | Aj | [Read More](https://medium.com/p/26c23002a5a7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 09:35:48 GMT | Why API Security is More Critical Than Web Security in Today’s Digital Landscape | Vitali Brunovski | [Read More](https://medium.com/p/fba74f3f7c21) |
 | Thu, 25 Dec 2025 09:32:18 GMT | The One Thing Nobody Tells You About OSCP+… | RedTeam Chronicle | [Read More](https://medium.com/p/38ca3b5a9e58) |
 | Thu, 25 Dec 2025 09:25:04 GMT | From Missing Rate Limiting to Account Takeover (ATO) | Omar Ahmed Abdelslam | [Read More](https://medium.com/p/efdddb1de5df) |
-| Thu, 25 Dec 2025 09:13:26 GMT | Cybersecurity Risk Management: Why Every Business Needs a Real Plan, Not Just Tools | Gauri Pandey | [Read More](https://medium.com/p/4c2020849b32) |
-| Thu, 25 Dec 2025 09:08:53 GMT | Support & Account Recovery Security Checklist (B2B SaaS) | Anton Minin Baranovskii | [Read More](https://medium.com/p/707690a3ccf1) |
-| Thu, 25 Dec 2025 09:07:42 GMT | What is mTLS (Mutual TLS) and How It Works | Vitali Brunovski | [Read More](https://medium.com/p/dbf1de3f5a62) |
-| Thu, 25 Dec 2025 09:07:08 GMT | TCP ve UDP Nedir? Aralarındaki Farklar | Arda Derya | [Read More](https://medium.com/p/7335cc68e0b7) |
-| Thu, 25 Dec 2025 09:00:23 GMT | CloudFront VPC Origins: The Ultimate Guide to True Zero-Trust Architecture on AWS | Sudha Subramaniam | [Read More](https://medium.com/p/527acf790c07) |
