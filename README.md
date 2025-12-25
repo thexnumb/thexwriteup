@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 12:33:56 GMT | How Threat Intelligence Helps Identify Malware Campaigns: Lessons from Oski’s Lab | Fouad Kamildeen-Aransi | [Read More](https://medium.com/p/2dad28419c6e) |
+| Thu, 25 Dec 2025 12:29:59 GMT | ISO 27001 Isn’t Paperwork — It’s Readiness | Eguen Jazaniah Femi | [Read More](https://medium.com/p/2047fa1fa59e) |
+| Thu, 25 Dec 2025 12:29:29 GMT | Securing Your Backend: Never Bind Request Data Directly to Database Models | Aransiola Ayodele | [Read More](https://medium.com/p/12f93eada588) |
+| Thu, 25 Dec 2025 12:23:52 GMT | How a Simple LFI Turned Into Full Root RCE | Af4himi | [Read More](https://medium.com/p/b8da5c71b4b3) |
+| Thu, 25 Dec 2025 12:23:26 GMT | How Being Slow Helped the Scan Win | Fateyaly | [Read More](https://medium.com/p/31d9d90a77fd) |
+| Thu, 25 Dec 2025 12:23:15 GMT | AWS Security — S3cret Santa - AoC 2025 Day - 23 - By Mynk | Mayank Shukla | [Read More](https://medium.com/p/c62c3c6ad790) |
+| Thu, 25 Dec 2025 12:18:53 GMT | Why Prompts Are Not Security: A Case for Runtime Execution Boundaries in AI Agents | ziling-failcore | [Read More](https://medium.com/p/16846ac4023a) |
+| Thu, 25 Dec 2025 12:13:18 GMT | My First Advent of Cyber: A Comprehensive Review | Citadel Cybersec | [Read More](https://medium.com/p/a3d3372d96d0) |
+| Thu, 25 Dec 2025 12:12:26 GMT | CEH v13 Syllabus Explained: New Modules & Tools | Joanhermann | [Read More](https://medium.com/p/15045ffdc6e5) |
+| Thu, 25 Dec 2025 12:12:10 GMT | What Do Surgical Techs Do? Roles, Duties, Skills & Career Guide | Motherlandlove | [Read More](https://medium.com/p/516b2e967de5) |
+| Thu, 25 Dec 2025 12:11:44 GMT | Walkthrough — Setup OpenID SSO between Auth0 and Appian | Tony Marziano | [Read More](https://medium.com/p/02e504a59f85) |
+| Thu, 25 Dec 2025 12:08:49 GMT | Cyber Threats Are Smarter Than Ever — Is Your Business Ready to Manage the Risk? | Zalak Panchal | [Read More](https://medium.com/p/473595c70092) |
+| Thu, 25 Dec 2025 12:07:44 GMT | Where Masks Come Off | Cassius Ember | [Read More](https://medium.com/p/55558ee0a7b6) |
+| Thu, 25 Dec 2025 12:07:44 GMT | Claim $DORK » DORK Airdrop — Eligibility & Claim Info — [December 2025] | 0x0.ai AI Smart Contract Auditor | [Read More](https://medium.com/p/484c1c1b4d29) |
+| Thu, 25 Dec 2025 12:02:21 GMT | Writeup for picoCTF challenge “WebDecode” | Walter Moar | [Read More](https://medium.com/p/777385ded4ea) |
+| Thu, 25 Dec 2025 11:55:05 GMT | DockerLabs Writeup — Ekisese (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/cce7115ed49d) |
+| Thu, 25 Dec 2025 11:53:56 GMT | My Best 5 Dev Tools I Use With Antigravity IDE :- KYLO, Nia, e.t.c… | Leon Musk | [Read More](https://medium.com/p/037ea4b73703) |
+| Thu, 25 Dec 2025 11:41:17 GMT | Cybersecurity Risk Management: The Silent Business Threat You Can’t Afford to Overlook | Jason Hayes | [Read More](https://medium.com/p/0f75eb35ba43) |
+| Thu, 25 Dec 2025 11:35:10 GMT | On getting to know myself, slowly. | Meivi | [Read More](https://medium.com/p/f44f167936c8) |
+| Thu, 25 Dec 2025 11:33:45 GMT | #Why I Built ReqGuard: Real-Time Defense for Your Node.js Supply Chain | Santosh Jugjali | [Read More](https://medium.com/p/a4c69164daab) |
 | Thu, 25 Dec 2025 11:25:45 GMT | CAPTCHA Accessibility Alternatives That Work | Nurali ATMACA | [Read More](https://medium.com/p/9dae38333e68) |
 | Thu, 25 Dec 2025 11:17:34 GMT | PortSwigger: Command Injection otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/7630679ec4d6) |
 | Thu, 25 Dec 2025 11:14:14 GMT | “Knocking on the Door: Understanding Active Information Gathering in Cybersecurity” | Habibi | [Read More](https://medium.com/p/0030d5e6f7ed) |
@@ -43,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 10:06:37 GMT | World of Hacking Beyond Myths | Divin | [Read More](https://medium.com/p/bb27a01ad23c) |
 | Thu, 25 Dec 2025 10:06:18 GMT | Hotcoin Labs Welcomes Block Security Arena — Building the Security Layer Web3 Actually Needs | Hotcoin Labs | [Read More](https://medium.com/p/3431db32608c) |
 | Thu, 25 Dec 2025 10:05:20 GMT | Strengthening Ecommerce Website Security During #BoxingDaySales with Queue-Fair.com | Mike Lowe | [Read More](https://medium.com/p/997503d9643d) |
+| Thu, 25 Dec 2025 09:50:28 GMT | n8n: CVE-2025–68613 | Saiaditya | [Read More](https://medium.com/p/45fc370262f7) |
 | Thu, 25 Dec 2025 09:43:36 GMT | How to Make Yourself Nearly Unsearchable on Facebook, Instagram, and X (2025 Privacy Guide) | Stefa Groves | [Read More](https://medium.com/p/6ab993a10a28) |
 | Thu, 25 Dec 2025 09:42:25 GMT | Reddit Proxies 2026: Static vs Rotating for Multi-Profiles | ChainEclipse | [Read More](https://medium.com/p/18fe1b2635c9) |
 | Thu, 25 Dec 2025 09:35:48 GMT | Why API Security is More Critical Than Web Security in Today’s Digital Landscape | Vitali Brunovski | [Read More](https://medium.com/p/fba74f3f7c21) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 07:01:27 GMT | Home & Business Security Systems - Alarm Guard Security Inc | Alarm Guard Security | [Read More](https://medium.com/p/874abf899751) |
 | Thu, 25 Dec 2025 07:00:31 GMT | AI-Driven ZIP Password Recovery with HexStrike-AI and Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/b8fc5c475ebc) |
 | Thu, 25 Dec 2025 06:57:59 GMT | 40 Bash One-Liners Every Hacker Should Know: Master Essential Command-Line Skills for Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/01c32fb29eea) |
-| Thu, 25 Dec 2025 06:48:44 GMT | Home Security System: Protecting What Matters Most | Alarm Guard Security | [Read More](https://medium.com/p/1c9aff7978a1) |
-| Thu, 25 Dec 2025 06:35:30 GMT | 2025 CVE Wrap-up and 2026 Trend | Park Sehun | [Read More](https://medium.com/p/8ac084e127e1) |
-| Thu, 25 Dec 2025 06:34:03 GMT | PTaaS (Penetration Testing as a Service) — Blacklock Security Limited | Black Lock | [Read More](https://medium.com/p/7ad0387721dd) |
-| Thu, 25 Dec 2025 06:13:32 GMT | Applying the OODA Loop to modern threat hunting | Nima Bargestan | [Read More](https://medium.com/p/7013a4625e0c) |
-| Thu, 25 Dec 2025 06:04:44 GMT | Cybersecurity’s Hidden Growth Engine | BeamSec | [Read More](https://medium.com/p/f982946412e4) |
-| Thu, 25 Dec 2025 06:00:15 GMT | I Join a Cult (of sorts). | Danno | [Read More](https://medium.com/p/f5c7b7559c3d) |
-| Thu, 25 Dec 2025 05:52:31 GMT | React2Shell: The “Log4j Moment” for Frontend Development? | Deepak Naik | [Read More](https://medium.com/p/92318304b6db) |
-| Thu, 25 Dec 2025 05:02:22 GMT | Data Breaches Are Getting Smarter — Is Your Cloud Security Smarter Too? | F9 Infotech | [Read More](https://medium.com/p/a9ceb3284a7c) |
-| Thu, 25 Dec 2025 04:48:28 GMT | Exploitation with cURL — Hoperation Eggsploit | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/b049708dd025) |
-| Thu, 25 Dec 2025 04:35:15 GMT | ฉลองคริสต์มาสใน Terminal… ขอบคุณ MongoDB สำหรับช่องโหว่ RCE | DevCore Lab | [Read More](https://medium.com/p/1d99f7f1f534) |
-| Thu, 25 Dec 2025 04:35:13 GMT | Tải Dynamons World Hack (Full Tiền, Kim Cương, Pokemon) V1.11.88 | genzvnmod | [Read More](https://medium.com/p/a2aef7952218) |
-| Thu, 25 Dec 2025 04:33:03 GMT | What Makes the Best Courses In Information Technology Different From the Rest? | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/53dba1cdc8c9) |
-| Thu, 25 Dec 2025 04:32:43 GMT | 5 Row-Level Security Recipes for Personalized Retrieval | Quellin | [Read More](https://medium.com/p/2d43890830da) |
-| Thu, 25 Dec 2025 04:32:43 GMT | Detecting C# injection through unmanaged PowerShell session | k1ndlov3r | [Read More](https://medium.com/p/f69af9447c1d) |
-| Thu, 25 Dec 2025 04:21:01 GMT | Tải BarbarQ Mod Apk (Menu, Vô Hạn Tiền) v1.0.1811 Mới Nhất | Game4u | [Read More](https://medium.com/p/6d09f64fc784) |
-| Thu, 25 Dec 2025 04:20:07 GMT | Top 8 On-Site IT Support Company in Riverside | Managed IT Services | [Read More](https://medium.com/p/1cbb4b9e7f9c) |
-| Thu, 25 Dec 2025 04:10:35 GMT | TryHackMe: Year of the Fox Writeup | cbev | [Read More](https://medium.com/p/e0ea4b53efe5) |
-| Thu, 25 Dec 2025 04:10:01 GMT | Tải Hack Truckers of Europe 3 Mod APK (Full Tiền) v0.5.59 | Bandisharecx | [Read More](https://medium.com/p/b392e07ede3b) |
-| Thu, 25 Dec 2025 04:01:46 GMT | Prisoners of Temperament: Philosophy or Self-Deception? | Adnan Mangi | [Read More](https://medium.com/p/ff839a750357) |
-| Thu, 25 Dec 2025 04:01:12 GMT | Cryptography Explained: The Backbone Of Internet Security | Bipin Budhathoki | [Read More](https://medium.com/p/59eeb3fd25f3) |
-| Thu, 25 Dec 2025 03:48:25 GMT | Top 8 On-Site IT Support Company in Riverside | Managed IT Services | [Read More](https://medium.com/p/182c3076150f) |
