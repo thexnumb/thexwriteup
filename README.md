@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 15:07:34 GMT | Governance by Legal State System | Marcelo Filho | [Read More](https://medium.com/p/b632cea64c00) |
+| Thu, 25 Dec 2025 15:06:28 GMT | Bug Bounty Isn’t About Tools — It’s About Thinking Like the App | Iski | [Read More](https://medium.com/p/43b553f1786b) |
+| Thu, 25 Dec 2025 14:59:24 GMT | Attack Surface: How to See What Hackers See | Aj | [Read More](https://medium.com/p/26c23002a5a7) |
+| Thu, 25 Dec 2025 14:55:08 GMT | More About Active Information Gathering | Lutsvia | [Read More](https://medium.com/p/ac8c8e5a1245) |
+| Thu, 25 Dec 2025 14:53:54 GMT | n8n: CVE-2025–68613 — TryHackMe Walkthrough | farshad moradi shahrbabak | [Read More](https://medium.com/p/bcbffc941217) |
+| Thu, 25 Dec 2025 14:52:39 GMT | From a Free TryHackMe Subscription to a Free OSCP Certification | Pak Cyberbot | [Read More](https://medium.com/p/b4002c230f54) |
 | Thu, 25 Dec 2025 14:39:07 GMT | How I Found a $5,500 Bug Using Just Reconnaissance | Codi | [Read More](https://medium.com/p/2768fdba5ff2) |
 | Thu, 25 Dec 2025 14:34:27 GMT | CrowdStrike Wasn’t a Bug. It Was the Business Model | Adonis | [Read More](https://medium.com/p/89317be4cfea) |
+| Thu, 25 Dec 2025 14:32:20 GMT | Understanding Network Basics: A Beginner’s Guide to Networking Principles | Vignesh R | [Read More](https://medium.com/p/6d1b2d0bfd0b) |
 | Thu, 25 Dec 2025 14:25:22 GMT | Securing Your CRM: How VPC Endpoints for DynamoDB Eliminate Public Internet Exposure | Osman ALP | [Read More](https://medium.com/p/3ff243bf26de) |
 | Thu, 25 Dec 2025 14:25:08 GMT | How to Find P1 Bugs using Google in your Target — (Part-3) | RivuDon | [Read More](https://medium.com/p/92080292f4ac) |
 | Thu, 25 Dec 2025 14:22:44 GMT | ‍☠️ Top Free Tools That Can Make You $1000/Month in Bug Bounty | Vipul Sonule | [Read More](https://medium.com/p/a6a8c21564c2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 09:07:42 GMT | What is mTLS (Mutual TLS) and How It Works | Vitali Brunovski | [Read More](https://medium.com/p/dbf1de3f5a62) |
 | Thu, 25 Dec 2025 09:07:08 GMT | TCP ve UDP Nedir? Aralarındaki Farklar | Arda Derya | [Read More](https://medium.com/p/7335cc68e0b7) |
 | Thu, 25 Dec 2025 09:00:23 GMT | CloudFront VPC Origins: The Ultimate Guide to True Zero-Trust Architecture on AWS | Sudha Subramaniam | [Read More](https://medium.com/p/527acf790c07) |
-| Thu, 25 Dec 2025 08:56:14 GMT | The smartphone landscape in 2025 is no longer just about hardware; it’s about intelligent… | pulsebangladesh | [Read More](https://medium.com/p/fc53f1c7e587) |
-| Thu, 25 Dec 2025 08:54:26 GMT | Why Security Consulting Services Are Essential for Modern Businesses in India | Ciss India | [Read More](https://medium.com/p/6fc0eaddfcff) |
-| Thu, 25 Dec 2025 08:52:56 GMT | HexStrike-AI: A Force Multiplier for Red Teams — and a Dangerous Shift in the Threat Landscape | Andrey Pautov | [Read More](https://medium.com/p/3e1d4e86f3ae) |
-| Thu, 25 Dec 2025 08:47:43 GMT | Managed IT Services for Irvine Businesses in 2025 | Johan Sullivan | [Read More](https://medium.com/p/5f4e2b353a9a) |
-| Thu, 25 Dec 2025 08:45:18 GMT | Cyber Security | Amirhaseeb738 | [Read More](https://medium.com/p/049a8bccb301) |
-| Thu, 25 Dec 2025 08:44:23 GMT | I’m Still Me | amelie:) | [Read More](https://medium.com/p/03038a644ffa) |
-| Thu, 25 Dec 2025 08:38:19 GMT | Best Proxy for YouTube in 2026: Rotation, Stability, Setup | LedgerQuartz | [Read More](https://medium.com/p/e0384ab2b277) |
