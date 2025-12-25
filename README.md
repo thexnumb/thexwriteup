@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 19:21:10 GMT | Monero (XMR): Finansal Gizliliğin Kalesi mi, Yoksa Dijital Gölge mi? | 5MinTech - DEUYBS | [Read More](https://medium.com/p/85bfb30d8a94) |
+| Thu, 25 Dec 2025 19:19:52 GMT | MY PROM DRESS | Venessa | [Read More](https://medium.com/p/b964457cd87c) |
+| Thu, 25 Dec 2025 19:19:04 GMT | L’informationnel et l’IA à l’heure de la guerre cognitive | Pierre Gueydier | [Read More](https://medium.com/p/9d41f3d7b118) |
 | Thu, 25 Dec 2025 19:02:03 GMT | A Compliance Calendar to Navigate Deadlines with Confidence & Clarity | Linda A. Ivri | [Read More](https://medium.com/p/d5c7bfaec654) |
 | Thu, 25 Dec 2025 18:59:37 GMT | Why Smart Configurations Are Key to Implementing Least Privilege | Linda A. Ivri | [Read More](https://medium.com/p/de0a8c6730d8) |
 | Thu, 25 Dec 2025 18:53:10 GMT | The End of the “Write & Pray” Era in SIEM: Detection as Code and Purple Team Validation | Ali Sefer | [Read More](https://medium.com/p/83023300f5e5) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 12:38:13 GMT | Dual Enroll Ivy Tech: Complete Guide for Indiana High School Students | Motherlandlove | [Read More](https://medium.com/p/5474a256d40e) |
 | Thu, 25 Dec 2025 12:33:56 GMT | How Threat Intelligence Helps Identify Malware Campaigns: Lessons from Oski’s Lab | Fouad Kamildeen-Aransi | [Read More](https://medium.com/p/2dad28419c6e) |
 | Thu, 25 Dec 2025 12:29:59 GMT | ISO 27001 Isn’t Paperwork — It’s Readiness | Eguen Jazaniah Femi | [Read More](https://medium.com/p/2047fa1fa59e) |
-| Thu, 25 Dec 2025 12:29:29 GMT | Securing Your Backend: Never Bind Request Data Directly to Database Models | Aransiola Ayodele | [Read More](https://medium.com/p/12f93eada588) |
-| Thu, 25 Dec 2025 12:23:52 GMT | How a Simple LFI Turned Into Full Root RCE | Af4himi | [Read More](https://medium.com/p/b8da5c71b4b3) |
-| Thu, 25 Dec 2025 12:23:26 GMT | How Being Slow Helped the Scan Win | Fateyaly | [Read More](https://medium.com/p/31d9d90a77fd) |
