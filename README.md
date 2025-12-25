@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 22:12:28 GMT | ENS Is Not “The New DNS.” It Is a Parallel Naming Layer, and That Changes Security. | Enrique Somoza | [Read More](https://medium.com/p/d0d5a7824e97) |
+| Thu, 25 Dec 2025 22:09:35 GMT | The Windows Concept Journey — PowerShell Remoting | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e91e336dd6d7) |
+| Thu, 25 Dec 2025 21:48:43 GMT | TryHackMe Cyborg Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/e92f644231e5) |
+| Thu, 25 Dec 2025 21:37:46 GMT | The First SOC Shift Is a Lie (and What Actually Makes You Effective) | Kyler Kent CISSP | [Read More](https://medium.com/p/f13bab06f261) |
 | Thu, 25 Dec 2025 21:33:57 GMT | Altoro Mutual (demo.testfire.net)Mein Pentest Walkthrough | Spookz | [Read More](https://medium.com/p/9d25425383f1) |
 | Thu, 25 Dec 2025 21:12:02 GMT | Cyber Security — Frameworks for Systematically Stress-Testing AI Models Against Malicious… | Ankushguptamcd | [Read More](https://medium.com/p/0abab742ac84) |
 | Thu, 25 Dec 2025 20:52:21 GMT | How To Run Untrusted Code. | Alex Tatulchenkov | [Read More](https://medium.com/p/d0a26a2abf20) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 13:56:03 GMT | Avoid These 5 Bug Bounty Mistakes or Get Banned! | Shahzaib | [Read More](https://medium.com/p/b274fa78f7e9) |
 | Thu, 25 Dec 2025 13:52:21 GMT | ⚡ Zero to Root: The Ultimate Guide to Hack The Box Driver | Nmullenski | [Read More](https://medium.com/p/d7f5da295946) |
 | Thu, 25 Dec 2025 13:47:11 GMT | Secure Email for Business: The Minimum Security Settings You Should Enable (No Fluff) | Alexey Bulygin | [Read More](https://medium.com/p/f21432631be1) |
-| Thu, 25 Dec 2025 13:42:43 GMT | Network Cybersecurity or Networking in Cybersecurity | Caio Tobias | [Read More](https://medium.com/p/ee278fcc015b) |
-| Thu, 25 Dec 2025 13:39:04 GMT | On the Intensity of China’s Reaction | Toru Shimada | [Read More](https://medium.com/p/45267c4de827) |
-| Thu, 25 Dec 2025 13:35:00 GMT | How Long Do Security Cameras Record in Schools? (Complete Guide) | Criminology Expert | [Read More](https://medium.com/p/222480b5bbdc) |
-| Thu, 25 Dec 2025 13:33:27 GMT | Fix a slow laptop and boost speed easily | seventy one | [Read More](https://medium.com/p/abe99979ddfb) |
