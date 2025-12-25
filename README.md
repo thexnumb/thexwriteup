@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 17:30:02 GMT | What Browser Location Access Really Exposes: An Educational Security Perspective | Abhayal | [Read More](https://medium.com/p/82537cb74fa0) |
+| Thu, 25 Dec 2025 17:23:44 GMT | Why Real Hackers Avoid Perfect Architectures | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/739d6f86c6bd) |
+| Thu, 25 Dec 2025 17:23:16 GMT | Stored SVG JavaScript Execution, Redirects & Phishing — Bug Bounty $$$ | Abdelfattah Elsabagh | [Read More](https://medium.com/p/efa249798048) |
+| Thu, 25 Dec 2025 17:18:13 GMT | From Breaking Scripts to Understanding Systems: My Early Lessons in Cybersecurity | Sujhal Gurav | [Read More](https://medium.com/p/6860ee017231) |
+| Thu, 25 Dec 2025 17:16:58 GMT | SOC 2 and HIPAA Compliance: IT Controls Every SMB Must Have in 2026 | Technijian | [Read More](https://medium.com/p/830bfe6eb985) |
+| Thu, 25 Dec 2025 17:16:00 GMT | AWS Advent Calendar 2025 — Days 16–20 | Ihor Sasovets | [Read More](https://medium.com/p/8dca030c6fea) |
 | Thu, 25 Dec 2025 17:05:23 GMT | *"The House That Breathed"* | Sakhi Writes | [Read More](https://medium.com/p/857b5eaf5715) |
 | Thu, 25 Dec 2025 17:04:56 GMT | Analyzing Network Packets with Wireshark | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/b1c812af4b4c) |
 | Thu, 25 Dec 2025 17:02:19 GMT | LE Baby Step 3: Stack Overflow 2 | BenGabay | [Read More](https://medium.com/p/5b1c13dca8cb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 11:25:45 GMT | CAPTCHA Accessibility Alternatives That Work | Nurali ATMACA | [Read More](https://medium.com/p/9dae38333e68) |
 | Thu, 25 Dec 2025 11:17:34 GMT | PortSwigger: Command Injection otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/7630679ec4d6) |
 | Thu, 25 Dec 2025 11:14:14 GMT | “Knocking on the Door: Understanding Active Information Gathering in Cybersecurity” | Habibi | [Read More](https://medium.com/p/0030d5e6f7ed) |
-| Thu, 25 Dec 2025 11:10:06 GMT | QUIC Changed the Internet — Now Defenders Must Change Too | bluesec club | [Read More](https://medium.com/p/3178e779a1d6) |
-| Thu, 25 Dec 2025 11:09:49 GMT | I Thought I Was Afraid of Failing, But I Was Really Afraid of Everything That Came With It | Svceelliest | [Read More](https://medium.com/p/0e4c9c4bc42d) |
-| Thu, 25 Dec 2025 11:07:12 GMT | Residential Security in Houston | Security Houston | [Read More](https://medium.com/p/49de918d4aa2) |
-| Thu, 25 Dec 2025 11:06:45 GMT | How to Choose a Reliable Dahua Authorized Dealer for Professional CCTV Projects | Tavan CCTV | [Read More](https://medium.com/p/fd04471fc28b) |
-| Thu, 25 Dec 2025 11:06:33 GMT | Day 22: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/b47b8099e82e) |
-| Thu, 25 Dec 2025 11:06:13 GMT | Day 21: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/6d519081dbb8) |
