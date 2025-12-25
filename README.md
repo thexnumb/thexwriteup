@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 03:16:38 GMT | Identity Management 101: A Developer’s Guide to WSO2 Identity Server & Asgardeo | Udeepa Gallage | [Read More](https://medium.com/p/38441c66b116) |
+| Thu, 25 Dec 2025 02:48:26 GMT | Christmas Eve meditation, 2025 | James Moore | [Read More](https://medium.com/p/eef7cd56f703) |
+| Thu, 25 Dec 2025 02:46:52 GMT | Installing My Own Email Server Using hMailServer to Practice Phishing and Email Security | Johnny Meintel | [Read More](https://medium.com/p/ba6c6f178d33) |
+| Thu, 25 Dec 2025 02:36:51 GMT | Getting Started with Shodan: The Google of IoT Devices | Cybeague Technologies | [Read More](https://medium.com/p/9c3fb12bc8af) |
+| Thu, 25 Dec 2025 02:35:16 GMT | Netcraft: Uncovering Website Secrets Made Simple | Cybeague Technologies | [Read More](https://medium.com/p/30016fe65d85) |
+| Thu, 25 Dec 2025 02:24:46 GMT | 隱形炸彈：一封「重設密碼」信如何偷走你的帳號 | p1x06u9 | [Read More](https://medium.com/p/bf3d1c28aa5d) |
+| Thu, 25 Dec 2025 02:23:16 GMT | 16TB 外洩核彈：當 Lead Gen 變成駭客的 LLM 彈藥庫 | p1x06u9 | [Read More](https://medium.com/p/f842231f0eb6) |
+| Thu, 25 Dec 2025 02:05:12 GMT | H | Beta | [Read More](https://medium.com/p/af3a82185e43) |
+| Thu, 25 Dec 2025 01:53:21 GMT | Thoughts about email verification process in web applications | Wsxcxx | [Read More](https://medium.com/p/4d4cba4c57d6) |
 | Thu, 25 Dec 2025 01:41:13 GMT | Pods & Containers: The Living Units of a Kubernetes Cluster | Srikanta Sahu | [Read More](https://medium.com/p/984a30ead9cf) |
 | Thu, 25 Dec 2025 01:39:52 GMT | Kubernetes in Motion: Meet the “Doers” of Your Cluster | Srikanta Sahu | [Read More](https://medium.com/p/846c1603aa4f) |
 | Thu, 25 Dec 2025 01:32:37 GMT | 10 Latency-Safe Guardrails That Won’t Slow You Down | Velorum | [Read More](https://medium.com/p/0769d2318b98) |
@@ -23,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 01:13:40 GMT | CISSP Study Notes: All 8 Domains Explained | Cybergilly | [Read More](https://medium.com/p/59fbf0475e53) |
 | Thu, 25 Dec 2025 00:47:15 GMT | Subdomain Takeover Explained: Complete Step-by-Step Guide (Recon to Exploit) | Zabed Ullah Poyel | [Read More](https://medium.com/p/5fc9c8029cbb) |
 | Thu, 25 Dec 2025 00:45:27 GMT | The Dangers Behind Exposed Google API Keys: A Test, Experience and Lessons Learned | Albertstive | [Read More](https://medium.com/p/d425a6b9fcc6) |
+| Wed, 24 Dec 2025 23:55:11 GMT | Web Developer Bukan Malas — Mereka Terjebak Bug dan Technical Debt | Fathurrahman Al Hafiz | [Read More](https://medium.com/p/40db80be02a2) |
 | Wed, 24 Dec 2025 23:43:32 GMT | Friends or just Faces | Thomas Crane | [Read More](https://medium.com/p/f85377fac602) |
 | Wed, 24 Dec 2025 23:40:41 GMT | PE Dateien & Malware — Einstieg #1 | Nick Vidovic | [Read More](https://medium.com/p/7f8fe4576d85) |
 | Wed, 24 Dec 2025 23:35:53 GMT | Hacking Juice Shop: From Recon to Admin Access in 48 Hours | Mohamed Magdy | [Read More](https://medium.com/p/49c24c9f41f4) |
@@ -103,13 +113,3 @@ E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https:
 | Wed, 24 Dec 2025 16:45:54 GMT | NUS MComp (InfoSec) Course Review AY25/26 S1 | Justin Ng | [Read More](https://medium.com/p/97eb2a6d3079) |
 | Wed, 24 Dec 2025 16:44:11 GMT | cURL Hoperation Eggsploit Day 24 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/d1ef735e5012) |
 | Wed, 24 Dec 2025 16:43:31 GMT | Abuse Azure Logic App Automation : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/8a032b53710c) |
-| Wed, 24 Dec 2025 16:42:10 GMT | Decision-Making Authority of an IT Leader | Çağrı ÇİMENCİ | [Read More](https://medium.com/p/2e36ca458423) |
-| Wed, 24 Dec 2025 16:42:04 GMT | What happens when Instagram changes its digital architecture? | 1eonor | [Read More](https://medium.com/p/b1f698f6703d) |
-| Wed, 24 Dec 2025 16:38:35 GMT | An AI Just Became the #1 Hacker on HackerOne. Here’s Why You Should Pay Attention | Abdullah Javeed | [Read More](https://medium.com/p/3747ca58aba5) |
-| Wed, 24 Dec 2025 16:38:09 GMT | Advent of Cyber 2025 - Day 24: Exploitation with cURL — Hoperation Eggsploit | D4m.sh | [Read More](https://medium.com/p/a55b7ce6e381) |
-| Wed, 24 Dec 2025 16:33:26 GMT | Windows API İstismarı: Malware Geliştiricilerinin En Çok Kullandığı 61 Kritik Fonksiyon | Melih Yusuf Ercan | [Read More](https://medium.com/p/862526c90801) |
-| Wed, 24 Dec 2025 16:33:10 GMT | C2 Detection - Command & Carol · Advent of Cyber 2025 - Day 22 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/beeee1606cd5) |
-| Wed, 24 Dec 2025 16:32:05 GMT | Leveraging Splunk SIEM to Detect DoS Attacks | Citadel Cybersec | [Read More](https://medium.com/p/957069bf2682) |
-| Wed, 24 Dec 2025 16:22:57 GMT | Hybrid Design Patterns: Strategy + Command (That Most People Don’t Know) | Jitin Kayyala | [Read More](https://medium.com/p/eea4748ed064) |
-| Wed, 24 Dec 2025 16:20:53 GMT | Stanford : une IA de hacking surpasse 9 experts sur 10 à moindre coût | Marc Barbezat | [Read More](https://medium.com/p/178d30fcb1bf) |
-| Wed, 24 Dec 2025 16:20:47 GMT | Cybersecurity: How AI Is Transforming Digital Defense into a High-Growth Global Opportunity | Ravi Prasanth | [Read More](https://medium.com/p/987fbfd02e68) |
