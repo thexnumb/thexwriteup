@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 23:11:05 GMT | THM AOC 2025 Day 17 CyberChef — Hoperation Save McSkidy | Kody | [Read More](https://medium.com/p/e88854cd4558) |
+| Thu, 25 Dec 2025 23:00:33 GMT | Broken Access Control in a very simple way | YYY_420 | [Read More](https://medium.com/p/e4ce3f2b5111) |
+| Thu, 25 Dec 2025 23:00:25 GMT | Daily Security Tips Series | Amira | [Read More](https://medium.com/p/c769dbdd53cf) |
+| Thu, 25 Dec 2025 22:44:12 GMT | Building an AI SOC Analyst Agent with Splunk MCP, LangChain, and LangGraph | Omar Santos | [Read More](https://medium.com/p/22847005eaf1) |
+| Thu, 25 Dec 2025 22:37:59 GMT | DNS’ten WAF’a: İnternetin Milisaniyelik Serüveni | Zeynep Yalçın | [Read More](https://medium.com/p/a44f268212f2) |
 | Thu, 25 Dec 2025 22:34:55 GMT | Raising Privacy-Smart Kids In A Connected World | Geoffrey Wenger | [Read More](https://medium.com/p/650abe9caa35) |
 | Thu, 25 Dec 2025 22:34:48 GMT | Social Media Safety When Everything You Post Stays Forever | Geoffrey Wenger | [Read More](https://medium.com/p/468e1609bd7f) |
+| Thu, 25 Dec 2025 22:31:19 GMT | Personal journey for passing AWS Cloud Practitioner (CLF-C02)‍ | Stefano Sirtori | [Read More](https://medium.com/p/ccc77004b49c) |
 | Thu, 25 Dec 2025 22:29:32 GMT | Why Everything You Type into ChatGPT Can Be Easily Retrieved | Delanoe Pirard | [Read More](https://medium.com/p/7580e348b42d) |
 | Thu, 25 Dec 2025 22:12:28 GMT | ENS Is Not “The New DNS.” It Is a Parallel Naming Layer, and That Changes Security. | Enrique Somoza | [Read More](https://medium.com/p/d0d5a7824e97) |
 | Thu, 25 Dec 2025 22:09:35 GMT | The Windows Concept Journey — PowerShell Remoting | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e91e336dd6d7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 14:25:08 GMT | How to Find P1 Bugs using Google in your Target — (Part-3) | RivuDon | [Read More](https://medium.com/p/92080292f4ac) |
 | Thu, 25 Dec 2025 14:22:44 GMT | ‍☠️ Top Free Tools That Can Make You $1000/Month in Bug Bounty | Vipul Sonule | [Read More](https://medium.com/p/a6a8c21564c2) |
 | Thu, 25 Dec 2025 14:20:36 GMT | How I found IDOR on IIT Kanpur & bypassed the payment system | StvRoot | [Read More](https://medium.com/p/4917d07a3573) |
-| Thu, 25 Dec 2025 14:16:35 GMT | Penetration Testing: Your Digital Security Reality Check | Faysal Ahmed | [Read More](https://medium.com/p/9f8739b4863d) |
-| Thu, 25 Dec 2025 14:16:16 GMT | n8n: CVE-2025–68613 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/b6c06e5fd3cc) |
-| Thu, 25 Dec 2025 14:15:47 GMT | PortSwigger Web Security Academy — Lab Write‑Up 6 | 0xM3d0din | [Read More](https://medium.com/p/728b277df26e) |
-| Thu, 25 Dec 2025 14:12:28 GMT | Exposed Pipelines: Rooting HTB Builder via CVE-2024-23897 | Nmullenski | [Read More](https://medium.com/p/18b185b3d080) |
-| Thu, 25 Dec 2025 14:01:34 GMT | Sensitive Data Exposure: The Silent Bug That Pays Big | Monika sharma | [Read More](https://medium.com/p/ce280b0ebea4) |
-| Thu, 25 Dec 2025 13:59:51 GMT | OffSec PG: Billyboss (Windows, Hard) | G3XAR | [Read More](https://medium.com/p/eaeb1764c426) |
