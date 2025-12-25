@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 14:20:36 GMT | How I found IDOR on IIT Kanpur & bypassed the payment system | StvRoot | [Read More](https://medium.com/p/4917d07a3573) |
+| Thu, 25 Dec 2025 14:15:47 GMT | PortSwigger Web Security Academy — Lab Write‑Up 6 | 0xM3d0din | [Read More](https://medium.com/p/728b277df26e) |
+| Thu, 25 Dec 2025 14:12:28 GMT | Exposed Pipelines: Rooting HTB Builder via CVE-2024-23897 | Nmullenski | [Read More](https://medium.com/p/18b185b3d080) |
+| Thu, 25 Dec 2025 14:01:34 GMT | Sensitive Data Exposure: The Silent Bug That Pays Big | Monika sharma | [Read More](https://medium.com/p/ce280b0ebea4) |
+| Thu, 25 Dec 2025 13:59:51 GMT | OffSec PG: Billyboss (Windows, Hard) | G3XAR | [Read More](https://medium.com/p/eaeb1764c426) |
+| Thu, 25 Dec 2025 13:56:03 GMT | Avoid These 5 Bug Bounty Mistakes or Get Banned! | Shahzaib | [Read More](https://medium.com/p/b274fa78f7e9) |
+| Thu, 25 Dec 2025 13:52:21 GMT | ⚡ Zero to Root: The Ultimate Guide to Hack The Box Driver | Nmullenski | [Read More](https://medium.com/p/d7f5da295946) |
+| Thu, 25 Dec 2025 13:47:11 GMT | Secure Email for Business: The Minimum Security Settings You Should Enable (No Fluff) | Alexey Bulygin | [Read More](https://medium.com/p/f21432631be1) |
+| Thu, 25 Dec 2025 13:42:43 GMT | Network Cybersecurity or Networking in Cybersecurity | Caio Tobias | [Read More](https://medium.com/p/ee278fcc015b) |
+| Thu, 25 Dec 2025 13:39:04 GMT | On the Intensity of China’s Reaction | Toru Shimada | [Read More](https://medium.com/p/45267c4de827) |
+| Thu, 25 Dec 2025 13:35:00 GMT | How Long Do Security Cameras Record in Schools? (Complete Guide) | Criminology Expert | [Read More](https://medium.com/p/222480b5bbdc) |
+| Thu, 25 Dec 2025 13:33:27 GMT | Fix a slow laptop and boost speed easily | seventy one | [Read More](https://medium.com/p/abe99979ddfb) |
+| Thu, 25 Dec 2025 13:33:18 GMT | Beyond Trust: Why Mathematics is the Only Foundation for Modern Finance | Gideon Cohen | [Read More](https://medium.com/p/1988dcf78a1b) |
+| Thu, 25 Dec 2025 13:32:21 GMT | The Hidden Linux Timer That Quietly Breaks Servers (Most Admins Never Check This) | Faruk Ahmed | [Read More](https://medium.com/p/3688634ce359) |
+| Thu, 25 Dec 2025 13:27:02 GMT | Angular : Where can we store our Secret keys, IV etc? In Frontend ? | Piyali Das | [Read More](https://medium.com/p/b6c11090b4c3) |
 | Thu, 25 Dec 2025 13:22:45 GMT | How to Escalate an IDOR From Admin to Internal | Codi | [Read More](https://medium.com/p/9d080aa2f4f4) |
 | Thu, 25 Dec 2025 13:21:47 GMT | Maximizing ROI with the Ultimate Security & Defense Exhibitor List | Event Exhibitors Data | [Read More](https://medium.com/p/f7a03398b7e7) |
 | Thu, 25 Dec 2025 13:16:33 GMT | Wanting to Be Seen Without Asking | Nikhilesh N | [Read More](https://medium.com/p/3e733893796e) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 08:33:43 GMT | OverTheWire Bandit: A Practical Walkthrough for Beginners | Omer Bawazir | [Read More](https://medium.com/p/5833de20357e) |
 | Thu, 25 Dec 2025 08:21:07 GMT | 7 Urgent Fixes for WatchGuard Firebox CVE-2025–14733 | Pentest_Testing_Corp | [Read More](https://medium.com/p/8a2095086b96) |
 | Thu, 25 Dec 2025 08:19:09 GMT | How to Block AI Bot on Websites? | Smit Pipaliya | [Read More](https://medium.com/p/6a30e7fc34fa) |
-| Thu, 25 Dec 2025 08:16:13 GMT | Holiday Season Cyber Threats | DarkBarrier | [Read More](https://medium.com/p/44ac34ba2491) |
-| Thu, 25 Dec 2025 08:14:15 GMT | AI Adoption Is Creating Security Debt Nobody Is Pricing In | Naveen C | [Read More](https://medium.com/p/6173fd20ee2a) |
-| Thu, 25 Dec 2025 08:11:25 GMT | The Bug Attack from King Kong (2005) Will Traumatize Me Forever | Emy Quinn | [Read More](https://medium.com/p/7e7160b5c02b) |
-| Thu, 25 Dec 2025 08:06:48 GMT | NP FormShield — 26% OFF | Needs Plugin | [Read More](https://medium.com/p/f7e3e8f314ae) |
-| Thu, 25 Dec 2025 08:04:01 GMT | Automated URL Scanning in Secure Email Gateways (SEG) and Business Logic Conflicts | Sevban Dönmez | [Read More](https://medium.com/p/63c70b16d043) |
-| Thu, 25 Dec 2025 08:01:39 GMT | Password-Protected Link Shortener — Only Free Option in 2025 | Qagezuwi | [Read More](https://medium.com/p/4ab7068d7bde) |
-| Thu, 25 Dec 2025 07:57:54 GMT | Title: Why Linux is a Better Choice for Security-Minded Users in 2025 | Ssolosssolo | [Read More](https://medium.com/p/e3024b20a7cf) |
-| Thu, 25 Dec 2025 07:57:18 GMT | Title: Windows Security in 2025: A Wake-Up Call for Users and Administrators | Ssolosssolo | [Read More](https://medium.com/p/44eca014ec19) |
-| Thu, 25 Dec 2025 07:57:17 GMT | We Skipped Backend Engineering and Trusted a BaaS. It Worked Until It Didn’t | Henry J M | [Read More](https://medium.com/p/f1529954cf61) |
-| Thu, 25 Dec 2025 07:48:13 GMT | The Shield Against React2Shell: How WAF Rules Protect Against CVE-2025–55182 RCE | SecureSlate | [Read More](https://medium.com/p/7716000bc375) |
-| Thu, 25 Dec 2025 07:40:57 GMT | From CMD to PowerShell: Building My Personal Windows Cybersecurity Command Reference | Oscar Yanez Feijoo | [Read More](https://medium.com/p/82bd4616f9b8) |
-| Thu, 25 Dec 2025 07:38:00 GMT | LinkedIn Proxies for Business (2026): Use Cases, Checklist, and a Safer Setup | CoinOdyssey | [Read More](https://medium.com/p/2ca95197ec6e) |
-| Thu, 25 Dec 2025 07:32:38 GMT | 10 Multisig SafeOps Practices for Calm Deploy Days | Quaxel | [Read More](https://medium.com/p/60fa1f2c7fa2) |
-| Thu, 25 Dec 2025 07:32:38 GMT | 7 Notebook Governance Moves for Safe SQL at Scale | Hash Block | [Read More](https://medium.com/p/fe5434617a47) |
-| Thu, 25 Dec 2025 07:30:45 GMT | What breaks trust in authentication UX | Anton Minin Baranovskii | [Read More](https://medium.com/p/daf6cb3fef72) |
