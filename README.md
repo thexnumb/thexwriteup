@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 10:08:18 GMT | C4m_Ma5k: A Shell script for identifying IP segments with potential surveillance cameras. | Мартин. | [Read More](https://medium.com/p/04b1f27781c5) |
+| Thu, 25 Dec 2025 10:06:37 GMT | World of Hacking Beyond Myths | Divin | [Read More](https://medium.com/p/bb27a01ad23c) |
+| Thu, 25 Dec 2025 10:06:18 GMT | Hotcoin Labs Welcomes Block Security Arena — Building the Security Layer Web3 Actually Needs | Hotcoin Labs | [Read More](https://medium.com/p/3431db32608c) |
+| Thu, 25 Dec 2025 10:05:20 GMT | Strengthening Ecommerce Website Security During #BoxingDaySales with Queue-Fair.com | Mike Lowe | [Read More](https://medium.com/p/997503d9643d) |
+| Thu, 25 Dec 2025 09:43:36 GMT | How to Make Yourself Nearly Unsearchable on Facebook, Instagram, and X (2025 Privacy Guide) | Stefa Groves | [Read More](https://medium.com/p/6ab993a10a28) |
+| Thu, 25 Dec 2025 09:42:25 GMT | Reddit Proxies 2026: Static vs Rotating for Multi-Profiles | ChainEclipse | [Read More](https://medium.com/p/18fe1b2635c9) |
 | Thu, 25 Dec 2025 09:35:48 GMT | Why API Security is More Critical Than Web Security in Today’s Digital Landscape | Vitali Brunovski | [Read More](https://medium.com/p/fba74f3f7c21) |
 | Thu, 25 Dec 2025 09:32:18 GMT | The One Thing Nobody Tells You About OSCP+… | RedTeam Chronicle | [Read More](https://medium.com/p/38ca3b5a9e58) |
 | Thu, 25 Dec 2025 09:25:04 GMT | From Missing Rate Limiting to Account Takeover (ATO) | Omar Ahmed Abdelslam | [Read More](https://medium.com/p/efdddb1de5df) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Dec 2025 23:40:41 GMT | PE Dateien & Malware — Einstieg #1 | Nick Vidovic | [Read More](https://medium.com/p/7f8fe4576d85) |
 | Wed, 24 Dec 2025 23:35:53 GMT | Hacking Juice Shop: From Recon to Admin Access in 48 Hours | Mohamed Magdy | [Read More](https://medium.com/p/49c24c9f41f4) |
 | Wed, 24 Dec 2025 23:34:25 GMT | Digital Footprints: The Internet Knows More Than You Think | Shruthilaya | [Read More](https://medium.com/p/e5db5d15ff85) |
-| Wed, 24 Dec 2025 23:20:20 GMT | Before CloudNetX Had a Name | Sec Guy | [Read More](https://medium.com/p/eeff28852b50) |
-| Wed, 24 Dec 2025 23:08:40 GMT | OpenAI says prompt injection attacks “long-term security challenge” | Abstract Mind | [Read More](https://medium.com/p/62be5b316fd9) |
-| Wed, 24 Dec 2025 23:02:55 GMT | The React “Flight” Risk: Understanding CVE-2025–55182 and the Next.js Exploits | CyberSecurity | [Read More](https://medium.com/p/74fb8ab1f627) |
-| Wed, 24 Dec 2025 22:26:51 GMT | She Lost Everything After Divorce — The Heartbreaking Truth About Financial Dependence | Riva Smith | [Read More](https://medium.com/p/5f13b6c986ce) |
-| Wed, 24 Dec 2025 22:24:34 GMT | How to Conduct an AI Impact Assessment (Without Losing Your Mind) | Cyber-AppSec | [Read More](https://medium.com/p/434ccfa189a3) |
-| Wed, 24 Dec 2025 22:20:39 GMT | Günlük Kullanıcı İçin Gerçekten Güvenli Bir Tarayıcı Deneyimi Mümkün mü? | Özgür Karataş | [Read More](https://medium.com/p/0427561ea9ea) |
