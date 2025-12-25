@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 11:10:06 GMT | QUIC Changed the Internet — Now Defenders Must Change Too | bluesec club | [Read More](https://medium.com/p/3178e779a1d6) |
+| Thu, 25 Dec 2025 11:09:49 GMT | I Thought I Was Afraid of Failing, But I Was Really Afraid of Everything That Came With It | Svceelliest | [Read More](https://medium.com/p/0e4c9c4bc42d) |
+| Thu, 25 Dec 2025 11:07:12 GMT | Residential Security in Houston | Security Houston | [Read More](https://medium.com/p/49de918d4aa2) |
+| Thu, 25 Dec 2025 11:06:45 GMT | How to Choose a Reliable Dahua Authorized Dealer for Professional CCTV Projects | Tavan CCTV | [Read More](https://medium.com/p/fd04471fc28b) |
+| Thu, 25 Dec 2025 11:06:33 GMT | Day 22: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/b47b8099e82e) |
+| Thu, 25 Dec 2025 11:06:13 GMT | Day 21: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/6d519081dbb8) |
+| Thu, 25 Dec 2025 11:05:42 GMT | MITRE ATT&CK | Abdul Guliyev | [Read More](https://medium.com/p/482018b84ead) |
+| Thu, 25 Dec 2025 11:04:24 GMT | Why We Believe the Future of Identity Belongs to Biometrics — But Not Just Any Biometrics | Biometric.Vision | [Read More](https://medium.com/p/0bf3cc100cd1) |
+| Thu, 25 Dec 2025 11:00:03 GMT | The Most Common WordPress Attacks (And How You Can Actually Prevent Them) | Swapnil S. | [Read More](https://medium.com/p/2cf3d94fe067) |
+| Thu, 25 Dec 2025 10:59:34 GMT | ServiceNow’s $7.75B Acquisition of Armis | Chandramouli Subraveti | [Read More](https://medium.com/p/55614af915d9) |
+| Thu, 25 Dec 2025 10:59:05 GMT | Optimistic Hacker Gaius was confirmed as the best cryptocurrency and the best method for recovering… | Józef Stanislaw | [Read More](https://medium.com/p/ec82664d429a) |
+| Thu, 25 Dec 2025 10:57:40 GMT | Cloud Security Services: Building Resilient and Trustworthy Cloud Environments | Devarshi Acharya | [Read More](https://medium.com/p/469c7f7a88de) |
+| Thu, 25 Dec 2025 10:54:01 GMT | Zero Trust Architecture: Redefining Enterprise Cybersecurity in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/326439529cb6) |
 | Thu, 25 Dec 2025 10:46:30 GMT | From 400 Bad Request to XSS Pop Up | Muhammad Shehroz | [Read More](https://medium.com/p/c9e7a3844b4d) |
+| Thu, 25 Dec 2025 10:46:01 GMT | The Ultimate SQL Injection Guide: From Zero to PhD Level | BugHunter’s Journal | [Read More](https://medium.com/p/25622b2e168c) |
+| Thu, 25 Dec 2025 10:44:42 GMT | Unarmed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/586f657e41fc) |
+| Thu, 25 Dec 2025 10:43:56 GMT | From Trading Forex to Finding My First Bounty | Dagmawi | [Read More](https://medium.com/p/c4837a2b95e0) |
 | Thu, 25 Dec 2025 10:38:46 GMT | You Can Pay Now or Pay Later: The Hidden Cost of Inaction — The Cost of Doing Nothing in… | Fook Hwa Tan | [Read More](https://medium.com/p/5af97b8d01cb) |
 | Thu, 25 Dec 2025 10:37:32 GMT | Are We a Fit? | Fook Hwa Tan | [Read More](https://medium.com/p/a36ea4d34f0e) |
 | Thu, 25 Dec 2025 10:29:39 GMT | Christmas Sale on Cybersecurity Resources — Up to 90% OFF | Rocky | [Read More](https://medium.com/p/b519f33b4e0f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 03:44:32 GMT | Tải Clash Of Clans Mod APK (Vô Hạn Tiền, Kim Cương, Vô Hạn Lính) V18.0.5 | Apkpuredev | [Read More](https://medium.com/p/5d79ca0eb1bf) |
 | Thu, 25 Dec 2025 03:32:23 GMT | Inside the Network: How Compromised RDP Access Led to a Lynx Ransomware Attack | Deven Chhajed | [Read More](https://medium.com/p/3c589cfb114e) |
 | Thu, 25 Dec 2025 03:16:38 GMT | Identity Management 101: A Developer’s Guide to WSO2 Identity Server & Asgardeo | Udeepa Gallage | [Read More](https://medium.com/p/38441c66b116) |
-| Thu, 25 Dec 2025 02:48:26 GMT | Christmas Eve meditation, 2025 | James Moore | [Read More](https://medium.com/p/eef7cd56f703) |
-| Thu, 25 Dec 2025 02:46:52 GMT | Installing My Own Email Server Using hMailServer to Practice Phishing and Email Security | Johnny Meintel | [Read More](https://medium.com/p/ba6c6f178d33) |
-| Thu, 25 Dec 2025 02:36:51 GMT | Getting Started with Shodan: The Google of IoT Devices | Cybeague Technologies | [Read More](https://medium.com/p/9c3fb12bc8af) |
-| Thu, 25 Dec 2025 02:35:16 GMT | Netcraft: Uncovering Website Secrets Made Simple | Cybeague Technologies | [Read More](https://medium.com/p/30016fe65d85) |
-| Thu, 25 Dec 2025 02:24:46 GMT | 隱形炸彈：一封「重設密碼」信如何偷走你的帳號 | p1x06u9 | [Read More](https://medium.com/p/bf3d1c28aa5d) |
-| Thu, 25 Dec 2025 02:23:16 GMT | 16TB 外洩核彈：當 Lead Gen 變成駭客的 LLM 彈藥庫 | p1x06u9 | [Read More](https://medium.com/p/f842231f0eb6) |
-| Thu, 25 Dec 2025 02:05:12 GMT | H | Beta | [Read More](https://medium.com/p/af3a82185e43) |
-| Thu, 25 Dec 2025 01:53:21 GMT | Thoughts about email verification process in web applications | Wsxcxx | [Read More](https://medium.com/p/4d4cba4c57d6) |
-| Thu, 25 Dec 2025 01:41:13 GMT | Pods & Containers: The Living Units of a Kubernetes Cluster | Srikanta Sahu | [Read More](https://medium.com/p/984a30ead9cf) |
-| Thu, 25 Dec 2025 01:39:52 GMT | Kubernetes in Motion: Meet the “Doers” of Your Cluster | Srikanta Sahu | [Read More](https://medium.com/p/846c1603aa4f) |
-| Thu, 25 Dec 2025 01:32:37 GMT | 10 Latency-Safe Guardrails That Won’t Slow You Down | Velorum | [Read More](https://medium.com/p/0769d2318b98) |
-| Thu, 25 Dec 2025 01:32:37 GMT | The DB Write Button Is a Loaded Gun | Syntal | [Read More](https://medium.com/p/36f6b0da805a) |
-| Thu, 25 Dec 2025 01:32:37 GMT | 5 Web3 Referral Systems That Don’t Spawn Sybil Armies | Quaxel | [Read More](https://medium.com/p/fd45fd7dbdb7) |
-| Thu, 25 Dec 2025 01:20:38 GMT | TryHackMe: Year of the Owl Writeup | cbev | [Read More](https://medium.com/p/d6366bfbbdbe) |
-| Thu, 25 Dec 2025 01:17:03 GMT | Bearing Witness | Ninth Life | [Read More](https://medium.com/p/c89596e260a1) |
-| Thu, 25 Dec 2025 01:14:04 GMT | Subscription Bypass Leading to Full Access to Paid Features | Hossam Hamada | [Read More](https://medium.com/p/7c3a1bf6487c) |
