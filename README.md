@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 21:12:02 GMT | Cyber Security — Frameworks for Systematically Stress-Testing AI Models Against Malicious… | Ankushguptamcd | [Read More](https://medium.com/p/0abab742ac84) |
+| Thu, 25 Dec 2025 20:52:21 GMT | How To Run Untrusted Code. | Alex Tatulchenkov | [Read More](https://medium.com/p/d0a26a2abf20) |
+| Thu, 25 Dec 2025 20:48:10 GMT | Teaching AI to Think Like a Security Guard: Zero Trust That Actually Learns | Hemangi | [Read More](https://medium.com/p/788294d51afd) |
+| Thu, 25 Dec 2025 20:44:15 GMT | This Is What Happens When You Expose a System to the Internet | Dentisystems | [Read More](https://medium.com/p/f5bcc897f35a) |
+| Thu, 25 Dec 2025 20:37:38 GMT | The Push for Space Mining: How Corporations Are Securing the Nation’s Future Through Robots, Suited… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/6b1de2b64d9e) |
 | Thu, 25 Dec 2025 20:24:39 GMT | The Ransomware Paradox: Why Cybercriminals Demand Bitcoin Over Monero Despite Superior Anonymity | Ilhan Hakan Ökcesiz | [Read More](https://medium.com/p/6097ce93c774) |
 | Thu, 25 Dec 2025 20:20:23 GMT | Libaray program tersemubunyi | Ego oktafanda | [Read More](https://medium.com/p/98d00543d5a9) |
 | Thu, 25 Dec 2025 20:17:48 GMT | TryHackMe Writeup: Chocolate Factory | Berkay AĞGÜL | [Read More](https://medium.com/p/55491c5c7f69) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 13:35:00 GMT | How Long Do Security Cameras Record in Schools? (Complete Guide) | Criminology Expert | [Read More](https://medium.com/p/222480b5bbdc) |
 | Thu, 25 Dec 2025 13:33:27 GMT | Fix a slow laptop and boost speed easily | seventy one | [Read More](https://medium.com/p/abe99979ddfb) |
 | Thu, 25 Dec 2025 13:33:18 GMT | Beyond Trust: Why Mathematics is the Only Foundation for Modern Finance | Gideon Cohen | [Read More](https://medium.com/p/1988dcf78a1b) |
-| Thu, 25 Dec 2025 13:32:21 GMT | The Hidden Linux Timer That Quietly Breaks Servers (Most Admins Never Check This) | Faruk Ahmed | [Read More](https://medium.com/p/3688634ce359) |
-| Thu, 25 Dec 2025 13:27:02 GMT | Angular : Where can we store our Secret keys, IV etc? In Frontend ? | Piyali Das | [Read More](https://medium.com/p/b6c11090b4c3) |
-| Thu, 25 Dec 2025 13:22:45 GMT | How to Escalate an IDOR From Admin to Internal | Codi | [Read More](https://medium.com/p/9d080aa2f4f4) |
-| Thu, 25 Dec 2025 13:21:47 GMT | Maximizing ROI with the Ultimate Security & Defense Exhibitor List | Event Exhibitors Data | [Read More](https://medium.com/p/f7a03398b7e7) |
-| Thu, 25 Dec 2025 13:16:33 GMT | Wanting to Be Seen Without Asking | Nikhilesh N | [Read More](https://medium.com/p/3e733893796e) |
