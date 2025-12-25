@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 16:50:32 GMT | Horizontal Privilege Escalation via IDOR: Viewing, Editing and Deleting | Parth Narula | [Read More](https://medium.com/p/b10936ad4eb1) |
+| Thu, 25 Dec 2025 16:43:39 GMT | How Bug Bounty Programs Became a Corporate Illusion of Security | Liam | [Read More](https://medium.com/p/43f7088e8b8d) |
+| Thu, 25 Dec 2025 16:38:33 GMT | Subnet Mask — Alt Ağ Maskesi Nedir? | Onur Öztürk | [Read More](https://medium.com/p/4d1e6e45f8f7) |
+| Thu, 25 Dec 2025 16:37:09 GMT | Why Your Threat Model Needs More PASTA? | Aastha Thakker | [Read More](https://medium.com/p/93d4ccacd194) |
+| Thu, 25 Dec 2025 16:36:37 GMT | The Threat Plane | Brian Curry | [Read More](https://medium.com/p/fe4fd447de30) |
+| Thu, 25 Dec 2025 16:31:49 GMT | How Banks Actually Do Password + MFA | Piyali Das | [Read More](https://medium.com/p/1ffb8b99b07c) |
+| Thu, 25 Dec 2025 16:31:17 GMT | We Replaced Curiosity With Dashboards | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/a59128510749) |
+| Thu, 25 Dec 2025 16:29:08 GMT | SQL Injection (SQLi) From Zero to Advanced | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/bf5c1c93f524) |
+| Thu, 25 Dec 2025 16:21:15 GMT | IDS and IPS Configuration Using Suricata | Salmanul Faris | [Read More](https://medium.com/p/577093e59ee3) |
 | Thu, 25 Dec 2025 16:16:11 GMT | Why Real Hackers Avoid Perfect Architectures | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/384be583ff17) |
 | Thu, 25 Dec 2025 16:02:13 GMT | PortSwigger Web Security Academy — CSRF Lab 2 Write-Up | Mann24> | [Read More](https://medium.com/p/4b14b90af2dd) |
 | Thu, 25 Dec 2025 16:01:34 GMT | Understanding SOP, CORS & Preflight Requests | hackerdevil | [Read More](https://medium.com/p/58411228ebe0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 10:54:01 GMT | Zero Trust Architecture: Redefining Enterprise Cybersecurity in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/326439529cb6) |
 | Thu, 25 Dec 2025 10:46:30 GMT | From 400 Bad Request to XSS Pop Up | Muhammad Shehroz | [Read More](https://medium.com/p/c9e7a3844b4d) |
 | Thu, 25 Dec 2025 10:46:01 GMT | The Ultimate SQL Injection Guide: From Zero to PhD Level | BugHunter’s Journal | [Read More](https://medium.com/p/25622b2e168c) |
-| Thu, 25 Dec 2025 10:44:42 GMT | Unarmed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/586f657e41fc) |
-| Thu, 25 Dec 2025 10:43:56 GMT | From Trading Forex to Finding My First Bounty | Dagmawi | [Read More](https://medium.com/p/c4837a2b95e0) |
-| Thu, 25 Dec 2025 10:38:46 GMT | You Can Pay Now or Pay Later: The Hidden Cost of Inaction — The Cost of Doing Nothing in… | Fook Hwa Tan | [Read More](https://medium.com/p/5af97b8d01cb) |
-| Thu, 25 Dec 2025 10:37:32 GMT | Are We a Fit? | Fook Hwa Tan | [Read More](https://medium.com/p/a36ea4d34f0e) |
-| Thu, 25 Dec 2025 10:29:39 GMT | Christmas Sale on Cybersecurity Resources — Up to 90% OFF | Rocky | [Read More](https://medium.com/p/b519f33b4e0f) |
-| Thu, 25 Dec 2025 10:20:44 GMT | Imposter Syndrome in IT: Why We All Feel Stupid in Front of the Terminal | Axoloth | [Read More](https://medium.com/p/6d847bcdcef5) |
-| Thu, 25 Dec 2025 10:18:18 GMT | Holiday Season Cyber Threats | AllSafeCloud | [Read More](https://medium.com/p/70dfea38f198) |
-| Thu, 25 Dec 2025 10:13:16 GMT | ด่วน! ช่องโหว่ n8n Workflow Automation Platform รีบแก้ไขทันที! | ThaiCERT By NCSA | [Read More](https://medium.com/p/ff84f3a4260e) |
-| Thu, 25 Dec 2025 10:11:55 GMT | ประจำวันพฤหัสบดีที่ 25 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/efaa0d066a40) |
