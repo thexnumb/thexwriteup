@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 06:13:32 GMT | Applying the OODA Loop to modern threat hunting | Nima Bargestan | [Read More](https://medium.com/p/7013a4625e0c) |
+| Thu, 25 Dec 2025 06:04:44 GMT | Cybersecurity’s Hidden Growth Engine | BeamSec | [Read More](https://medium.com/p/f982946412e4) |
+| Thu, 25 Dec 2025 06:00:15 GMT | I Join a Cult (of sorts). | Danno | [Read More](https://medium.com/p/f5c7b7559c3d) |
+| Thu, 25 Dec 2025 05:52:31 GMT | React2Shell: The “Log4j Moment” for Frontend Development? | Deepak Naik | [Read More](https://medium.com/p/92318304b6db) |
 | Thu, 25 Dec 2025 05:02:22 GMT | Data Breaches Are Getting Smarter — Is Your Cloud Security Smarter Too? | F9 Infotech | [Read More](https://medium.com/p/a9ceb3284a7c) |
 | Thu, 25 Dec 2025 04:48:28 GMT | Exploitation with cURL — Hoperation Eggsploit | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/b049708dd025) |
 | Thu, 25 Dec 2025 04:35:15 GMT | ฉลองคริสต์มาสใน Terminal… ขอบคุณ MongoDB สำหรับช่องโหว่ RCE | DevCore Lab | [Read More](https://medium.com/p/1d99f7f1f534) |
@@ -109,7 +113,3 @@ E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https:
 | Wed, 24 Dec 2025 17:49:48 GMT | Siber Güvenliğin Merkezi Sinir Sistemi: SIEM | Çınar Genç | [Read More](https://medium.com/p/7bd269f8613e) |
 | Wed, 24 Dec 2025 17:49:39 GMT | 5 AI-Powered Cybersecurity Tools That Saved My Job in 2025 (+ How to Use Them) | Zahra Bibi | [Read More](https://medium.com/p/b587925d9372) |
 | Wed, 24 Dec 2025 17:49:34 GMT | “Bug Bounty Bootcamp #4: How to Find and Target Anything on the Internet (IP Addresses Explained)” | Aman Sharma | [Read More](https://medium.com/p/7ff37422cc74) |
-| Wed, 24 Dec 2025 17:49:26 GMT | When Vulnerability Management Turns into Incident Response | Katlyn Gallo | [Read More](https://medium.com/p/6b67dc8b3084) |
-| Wed, 24 Dec 2025 17:45:58 GMT | Understanding CVEs: A Complete Guide to Bug Hunting and Reporting | SACHIN PV | [Read More](https://medium.com/p/63f470b885f5) |
-| Wed, 24 Dec 2025 17:36:36 GMT | What Failing the CPTS Taught Me About Real-World Pentesting | SilentExploit | [Read More](https://medium.com/p/b4403f0c98f8) |
-| Wed, 24 Dec 2025 17:33:05 GMT | When AI Takes Away The Bottom Rung of the Job Ladder | Helen Patton | [Read More](https://medium.com/p/a2f95a95dbc7) |
