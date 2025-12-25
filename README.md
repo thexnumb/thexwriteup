@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 07:14:43 GMT | WhatsApp Leaks When You’re Online, Even If You Turn It Off | Shubhamkhatang | [Read More](https://medium.com/p/2aa0af18af5d) |
+| Thu, 25 Dec 2025 07:08:47 GMT | Mastering Active Recon Techniques in Information Gathering | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/5c39fc33d34a) |
+| Thu, 25 Dec 2025 07:07:17 GMT | Hash functions ultimately rest on the integrity of their developers. | SORA SS256 Satoshi is SHA-256 | [Read More](https://medium.com/p/1a15276e29df) |
+| Thu, 25 Dec 2025 07:01:27 GMT | Home & Business Security Systems - Alarm Guard Security Inc | Alarm Guard Security | [Read More](https://medium.com/p/874abf899751) |
+| Thu, 25 Dec 2025 07:00:31 GMT | AI-Driven ZIP Password Recovery with HexStrike-AI and Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/b8fc5c475ebc) |
+| Thu, 25 Dec 2025 06:57:59 GMT | 40 Bash One-Liners Every Hacker Should Know: Master Essential Command-Line Skills for Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/01c32fb29eea) |
+| Thu, 25 Dec 2025 06:48:44 GMT | Home Security System: Protecting What Matters Most | Alarm Guard Security | [Read More](https://medium.com/p/1c9aff7978a1) |
+| Thu, 25 Dec 2025 06:34:03 GMT | PTaaS (Penetration Testing as a Service) — Blacklock Security Limited | Black Lock | [Read More](https://medium.com/p/7ad0387721dd) |
 | Thu, 25 Dec 2025 06:13:32 GMT | Applying the OODA Loop to modern threat hunting | Nima Bargestan | [Read More](https://medium.com/p/7013a4625e0c) |
 | Thu, 25 Dec 2025 06:04:44 GMT | Cybersecurity’s Hidden Growth Engine | BeamSec | [Read More](https://medium.com/p/f982946412e4) |
 | Thu, 25 Dec 2025 06:00:15 GMT | I Join a Cult (of sorts). | Danno | [Read More](https://medium.com/p/f5c7b7559c3d) |
@@ -105,11 +113,3 @@ E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https:
 | Wed, 24 Dec 2025 18:25:55 GMT | This is a script to lock off webview from its default spyware functions to more locked down mode | William Ashley | [Read More](https://medium.com/p/50b275b2ac49) |
 | Wed, 24 Dec 2025 18:23:19 GMT | The Space Between Wanting | Novita Eka Lestari | [Read More](https://medium.com/p/d2697d5f36a6) |
 | Wed, 24 Dec 2025 18:18:46 GMT | Practical Phone Security Without Sacrificing Speed | Geoffrey Wenger | [Read More](https://medium.com/p/308fd41c83f7) |
-| Wed, 24 Dec 2025 18:18:40 GMT | When AI Convenience Starts Undermining Human Skill | Geoffrey Wenger | [Read More](https://medium.com/p/4ab19a21443e) |
-| Wed, 24 Dec 2025 18:16:34 GMT | Autonomous Hacks 2026 (Offline): Where Bold Minds Leave the Crowd Behind | Harsh Mistry | [Read More](https://medium.com/p/4abb8edd32fb) |
-| Wed, 24 Dec 2025 18:12:31 GMT | TryHackMe Writeup: ColddBox Easy | Berkay AĞGÜL | [Read More](https://medium.com/p/679309b4bac7) |
-| Wed, 24 Dec 2025 18:06:01 GMT | Hunting the Unseen: My Journey with Blind XSS (Case Studies) | Samet Yiğit | [Read More](https://medium.com/p/abf1c8c8fac9) |
-| Wed, 24 Dec 2025 17:59:48 GMT | LISP vs BGP EVPN in Campus Fabrics: It’s Not About Better, It’s About Fit | Anas | [Read More](https://medium.com/p/fc1320f04b7c) |
-| Wed, 24 Dec 2025 17:49:48 GMT | Siber Güvenliğin Merkezi Sinir Sistemi: SIEM | Çınar Genç | [Read More](https://medium.com/p/7bd269f8613e) |
-| Wed, 24 Dec 2025 17:49:39 GMT | 5 AI-Powered Cybersecurity Tools That Saved My Job in 2025 (+ How to Use Them) | Zahra Bibi | [Read More](https://medium.com/p/b587925d9372) |
-| Wed, 24 Dec 2025 17:49:34 GMT | “Bug Bounty Bootcamp #4: How to Find and Target Anything on the Internet (IP Addresses Explained)” | Aman Sharma | [Read More](https://medium.com/p/7ff37422cc74) |
