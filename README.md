@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 21:33:57 GMT | Altoro Mutual (demo.testfire.net)Mein Pentest Walkthrough | Spookz | [Read More](https://medium.com/p/9d25425383f1) |
 | Thu, 25 Dec 2025 21:12:02 GMT | Cyber Security — Frameworks for Systematically Stress-Testing AI Models Against Malicious… | Ankushguptamcd | [Read More](https://medium.com/p/0abab742ac84) |
 | Thu, 25 Dec 2025 20:52:21 GMT | How To Run Untrusted Code. | Alex Tatulchenkov | [Read More](https://medium.com/p/d0a26a2abf20) |
 | Thu, 25 Dec 2025 20:48:10 GMT | Teaching AI to Think Like a Security Guard: Zero Trust That Actually Learns | Hemangi | [Read More](https://medium.com/p/788294d51afd) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 13:39:04 GMT | On the Intensity of China’s Reaction | Toru Shimada | [Read More](https://medium.com/p/45267c4de827) |
 | Thu, 25 Dec 2025 13:35:00 GMT | How Long Do Security Cameras Record in Schools? (Complete Guide) | Criminology Expert | [Read More](https://medium.com/p/222480b5bbdc) |
 | Thu, 25 Dec 2025 13:33:27 GMT | Fix a slow laptop and boost speed easily | seventy one | [Read More](https://medium.com/p/abe99979ddfb) |
-| Thu, 25 Dec 2025 13:33:18 GMT | Beyond Trust: Why Mathematics is the Only Foundation for Modern Finance | Gideon Cohen | [Read More](https://medium.com/p/1988dcf78a1b) |
