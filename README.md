@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 05:02:22 GMT | Data Breaches Are Getting Smarter — Is Your Cloud Security Smarter Too? | F9 Infotech | [Read More](https://medium.com/p/a9ceb3284a7c) |
+| Thu, 25 Dec 2025 04:48:28 GMT | Exploitation with cURL — Hoperation Eggsploit | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/b049708dd025) |
+| Thu, 25 Dec 2025 04:35:13 GMT | Tải Dynamons World Hack (Full Tiền, Kim Cương, Pokemon) V1.11.88 | genzvnmod | [Read More](https://medium.com/p/a2aef7952218) |
 | Thu, 25 Dec 2025 04:33:03 GMT | What Makes the Best Courses In Information Technology Different From the Rest? | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/53dba1cdc8c9) |
 | Thu, 25 Dec 2025 04:32:43 GMT | 5 Row-Level Security Recipes for Personalized Retrieval | Quellin | [Read More](https://medium.com/p/2d43890830da) |
+| Thu, 25 Dec 2025 04:32:43 GMT | Detecting C# injection through unmanaged PowerShell session | k1ndlov3r | [Read More](https://medium.com/p/f69af9447c1d) |
 | Thu, 25 Dec 2025 04:21:01 GMT | Tải BarbarQ Mod Apk (Menu, Vô Hạn Tiền) v1.0.1811 Mới Nhất | Game4u | [Read More](https://medium.com/p/6d09f64fc784) |
 | Thu, 25 Dec 2025 04:10:35 GMT | TryHackMe: Year of the Fox Writeup | cbev | [Read More](https://medium.com/p/e0ea4b53efe5) |
 | Thu, 25 Dec 2025 04:10:01 GMT | Tải Hack Truckers of Europe 3 Mod APK (Full Tiền) v0.5.59 | Bandisharecx | [Read More](https://medium.com/p/b392e07ede3b) |
@@ -109,7 +113,3 @@ E-Mail-Adresse……experttdocx@gmail.com | Penhousepanafri | [Read More](https:
 | Wed, 24 Dec 2025 17:33:05 GMT | When AI Takes Away The Bottom Rung of the Job Ladder | Helen Patton | [Read More](https://medium.com/p/a2f95a95dbc7) |
 | Wed, 24 Dec 2025 17:29:57 GMT | Securing the Road Ahead: OT Cybersecurity in Modern Transport Infrastructure | Rob Campbell | [Read More](https://medium.com/p/20235b6169fb) |
 | Wed, 24 Dec 2025 17:28:29 GMT | Evil‑Bat is a real‑time human (live body) detection and activity logging tool based on remote …… | Мартин. | [Read More](https://medium.com/p/b347d535db03) |
-| Wed, 24 Dec 2025 17:24:43 GMT | Exploitation with cURL — Hoperation Eggsploit - Try Hack Me Walkthrough | Fazal | [Read More](https://medium.com/p/35afec32ee9b) |
-| Wed, 24 Dec 2025 17:22:45 GMT | Pharmacy Tech Practice Questions: Essential Guide for Exam Success | Motherlandlove | [Read More](https://medium.com/p/9c97f33fe97b) |
-| Wed, 24 Dec 2025 17:18:11 GMT | Advent of Cyber 2025 Day 24 - TryHackMe - Exploitation with cURL - Hoperation Eggsploit - WriteUp | Axoloth | [Read More](https://medium.com/p/c9e2afd3c26c) |
-| Wed, 24 Dec 2025 17:15:11 GMT | ISO 27001: Turning Information Security from Intention into Practice | Nikhilmokal | [Read More](https://medium.com/p/0cadf6e325bf) |
