@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 16:16:11 GMT | Why Real Hackers Avoid Perfect Architectures | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/384be583ff17) |
+| Thu, 25 Dec 2025 16:02:13 GMT | PortSwigger Web Security Academy — CSRF Lab 2 Write-Up | Mann24> | [Read More](https://medium.com/p/4b14b90af2dd) |
+| Thu, 25 Dec 2025 16:01:34 GMT | Understanding SOP, CORS & Preflight Requests | hackerdevil | [Read More](https://medium.com/p/58411228ebe0) |
+| Thu, 25 Dec 2025 15:59:46 GMT | The Paranoia Engine: Understanding SELinux and AVC Denials in Android | Mohamedtahadawoud | [Read More](https://medium.com/p/3207e566fedf) |
+| Thu, 25 Dec 2025 15:55:07 GMT | n8n RCE : CVE-2025–68613 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/ba713f682e56) |
+| Thu, 25 Dec 2025 15:46:41 GMT | Understanding CVE-2025-68613: A Critical n8n Vulnerability Triggering RCE | Andis Paudel | [Read More](https://medium.com/p/6e59c2936f65) |
+| Thu, 25 Dec 2025 15:46:19 GMT | CrowdStrike vs Microsoft Defender: Who Leads EDR/XDR Into 2026? | Wes Young | [Read More](https://medium.com/p/7d4803b2da24) |
+| Thu, 25 Dec 2025 15:46:18 GMT | When Browsers Decide for You | Decentr | [Read More](https://medium.com/p/1746405c40da) |
+| Thu, 25 Dec 2025 15:46:10 GMT | BUG Airdrop Guide — Claim Tokens Now!  [December 2025] | cboegm43 | [Read More](https://medium.com/p/9dc8136ba01b) |
+| Thu, 25 Dec 2025 15:36:30 GMT | Burp Suite Web Trafiğinin Hakimi Olmak! OS Command Injection ️‍♂️️ | Onur Altuğ | [Read More](https://medium.com/p/898e985d8afe) |
 | Thu, 25 Dec 2025 15:31:19 GMT | Escalate GCP privileges with Implicit Delegation : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/1c8cd68b1581) |
 | Thu, 25 Dec 2025 15:24:20 GMT | Looking Beyond Bugs: Finding Design Flaws in Modern Applications | Afi0pchik | [Read More](https://medium.com/p/d42dae47775f) |
 | Thu, 25 Dec 2025 15:23:00 GMT | Information, Reality, and Human Thought | James Kreis | [Read More](https://medium.com/p/4f84f754c3d5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 10:18:18 GMT | Holiday Season Cyber Threats | AllSafeCloud | [Read More](https://medium.com/p/70dfea38f198) |
 | Thu, 25 Dec 2025 10:13:16 GMT | ด่วน! ช่องโหว่ n8n Workflow Automation Platform รีบแก้ไขทันที! | ThaiCERT By NCSA | [Read More](https://medium.com/p/ff84f3a4260e) |
 | Thu, 25 Dec 2025 10:11:55 GMT | ประจำวันพฤหัสบดีที่ 25 ธันวาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/efaa0d066a40) |
-| Thu, 25 Dec 2025 10:08:18 GMT | C4m_Ma5k: A Shell script for identifying IP segments with potential surveillance cameras. | Мартин. | [Read More](https://medium.com/p/04b1f27781c5) |
-| Thu, 25 Dec 2025 10:06:37 GMT | World of Hacking Beyond Myths | Divin | [Read More](https://medium.com/p/bb27a01ad23c) |
-| Thu, 25 Dec 2025 10:06:18 GMT | Hotcoin Labs Welcomes Block Security Arena — Building the Security Layer Web3 Actually Needs | Hotcoin Labs | [Read More](https://medium.com/p/3431db32608c) |
-| Thu, 25 Dec 2025 10:05:20 GMT | Strengthening Ecommerce Website Security During #BoxingDaySales with Queue-Fair.com | Mike Lowe | [Read More](https://medium.com/p/997503d9643d) |
-| Thu, 25 Dec 2025 09:50:28 GMT | n8n: CVE-2025–68613 | Saiaditya | [Read More](https://medium.com/p/45fc370262f7) |
-| Thu, 25 Dec 2025 09:43:36 GMT | How to Make Yourself Nearly Unsearchable on Facebook, Instagram, and X (2025 Privacy Guide) | Stefa Groves | [Read More](https://medium.com/p/6ab993a10a28) |
-| Thu, 25 Dec 2025 09:42:25 GMT | Reddit Proxies 2026: Static vs Rotating for Multi-Profiles | ChainEclipse | [Read More](https://medium.com/p/18fe1b2635c9) |
-| Thu, 25 Dec 2025 09:35:48 GMT | Why API Security is More Critical Than Web Security in Today’s Digital Landscape | Vitali Brunovski | [Read More](https://medium.com/p/fba74f3f7c21) |
-| Thu, 25 Dec 2025 09:32:18 GMT | The One Thing Nobody Tells You About OSCP+… | RedTeam Chronicle | [Read More](https://medium.com/p/38ca3b5a9e58) |
-| Thu, 25 Dec 2025 09:25:04 GMT | From Missing Rate Limiting to Account Takeover (ATO) | Omar Ahmed Abdelslam | [Read More](https://medium.com/p/efdddb1de5df) |
