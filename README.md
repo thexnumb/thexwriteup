@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 11:25:45 GMT | CAPTCHA Accessibility Alternatives That Work | Nurali ATMACA | [Read More](https://medium.com/p/9dae38333e68) |
+| Thu, 25 Dec 2025 11:17:34 GMT | PortSwigger: Command Injection otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/7630679ec4d6) |
+| Thu, 25 Dec 2025 11:14:14 GMT | “Knocking on the Door: Understanding Active Information Gathering in Cybersecurity” | Habibi | [Read More](https://medium.com/p/0030d5e6f7ed) |
 | Thu, 25 Dec 2025 11:10:06 GMT | QUIC Changed the Internet — Now Defenders Must Change Too | bluesec club | [Read More](https://medium.com/p/3178e779a1d6) |
 | Thu, 25 Dec 2025 11:09:49 GMT | I Thought I Was Afraid of Failing, But I Was Really Afraid of Everything That Came With It | Svceelliest | [Read More](https://medium.com/p/0e4c9c4bc42d) |
 | Thu, 25 Dec 2025 11:07:12 GMT | Residential Security in Houston | Security Houston | [Read More](https://medium.com/p/49de918d4aa2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 04:01:46 GMT | Prisoners of Temperament: Philosophy or Self-Deception? | Adnan Mangi | [Read More](https://medium.com/p/ff839a750357) |
 | Thu, 25 Dec 2025 04:01:12 GMT | Cryptography Explained: The Backbone Of Internet Security | Bipin Budhathoki | [Read More](https://medium.com/p/59eeb3fd25f3) |
 | Thu, 25 Dec 2025 03:48:25 GMT | Top 8 On-Site IT Support Company in Riverside | Managed IT Services | [Read More](https://medium.com/p/182c3076150f) |
-| Thu, 25 Dec 2025 03:44:32 GMT | Tải Clash Of Clans Mod APK (Vô Hạn Tiền, Kim Cương, Vô Hạn Lính) V18.0.5 | Apkpuredev | [Read More](https://medium.com/p/5d79ca0eb1bf) |
-| Thu, 25 Dec 2025 03:32:23 GMT | Inside the Network: How Compromised RDP Access Led to a Lynx Ransomware Attack | Deven Chhajed | [Read More](https://medium.com/p/3c589cfb114e) |
-| Thu, 25 Dec 2025 03:16:38 GMT | Identity Management 101: A Developer’s Guide to WSO2 Identity Server & Asgardeo | Udeepa Gallage | [Read More](https://medium.com/p/38441c66b116) |
