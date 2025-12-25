@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 18:30:26 GMT | Easy Peasy : Challenge WriteUp TryHackMe | theOrthodox | [Read More](https://medium.com/p/6c0043d79558) |
+| Thu, 25 Dec 2025 18:28:35 GMT | Network Nedir? Temel Ağ Türleri ve Topolojiler (Siber Güvenlik Serisi — 1) | Berra Meryem | [Read More](https://medium.com/p/b04d525845cd) |
+| Thu, 25 Dec 2025 18:27:53 GMT | Hybrid Design Patterns:Factory+Strategy(That Most People Don’t Know) | Jitin Kayyala | [Read More](https://medium.com/p/4bc4bb3993f5) |
+| Thu, 25 Dec 2025 18:18:34 GMT | AI-Driven Industrial Surveillance: Boosting Safety and Efficiency in Smart Factories | Dolon Ghosh | [Read More](https://medium.com/p/11c4cfd10dd0) |
+| Thu, 25 Dec 2025 18:17:52 GMT | AI in Cloud Security: Identifying Breaches Before They Spread | Sabit Chandwale | [Read More](https://medium.com/p/c5a3cb220d8b) |
+| Thu, 25 Dec 2025 18:16:05 GMT | Client-Side Surveillance: why hiding is getting impossible. | Aras Darweesh | [Read More](https://medium.com/p/f3eead7e4626) |
+| Thu, 25 Dec 2025 18:14:45 GMT | How to Turn On Windows Defender in Windows 7 - Scan & Remove Virus Easily | MrGoodb | [Read More](https://medium.com/p/6afb789986e4) |
+| Thu, 25 Dec 2025 18:12:24 GMT | AI Cybersecurity Attacks Exposed | Shailendra Kumar | [Read More](https://medium.com/p/00d9022483a1) |
+| Thu, 25 Dec 2025 18:10:54 GMT | Social Engineering and Ethical Hacking | Alejandra Pacheco | [Read More](https://medium.com/p/805c1bcf0bb0) |
+| Thu, 25 Dec 2025 17:56:04 GMT | Why Cybersecurity Is No Longer Optional in Our Daily Digital Life | Alolika Ghosh | [Read More](https://medium.com/p/60a36d261bf8) |
+| Thu, 25 Dec 2025 17:48:09 GMT | THE FORAGE JOB SIMULATION: HOW I INVESTIGATED MY FIRST CYBERSECURITY BREACH | Hannat Adebola Salawu | [Read More](https://medium.com/p/71a4cd10c3e2) |
 | Thu, 25 Dec 2025 17:30:02 GMT | What Browser Location Access Really Exposes: An Educational Security Perspective | Abhayal | [Read More](https://medium.com/p/82537cb74fa0) |
 | Thu, 25 Dec 2025 17:23:44 GMT | Why Real Hackers Avoid Perfect Architectures | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/739d6f86c6bd) |
 | Thu, 25 Dec 2025 17:23:16 GMT | Stored SVG JavaScript Execution, Redirects & Phishing — Bug Bounty $$$ | Abdelfattah Elsabagh | [Read More](https://medium.com/p/efa249798048) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 12:12:10 GMT | What Do Surgical Techs Do? Roles, Duties, Skills & Career Guide | Motherlandlove | [Read More](https://medium.com/p/516b2e967de5) |
 | Thu, 25 Dec 2025 12:11:44 GMT | Walkthrough — Setup OpenID SSO between Auth0 and Appian | Tony Marziano | [Read More](https://medium.com/p/02e504a59f85) |
 | Thu, 25 Dec 2025 12:08:49 GMT | Cyber Threats Are Smarter Than Ever — Is Your Business Ready to Manage the Risk? | Zalak Panchal | [Read More](https://medium.com/p/473595c70092) |
-| Thu, 25 Dec 2025 12:07:44 GMT | Where Masks Come Off | Cassius Ember | [Read More](https://medium.com/p/55558ee0a7b6) |
-| Thu, 25 Dec 2025 12:07:44 GMT | Claim $DORK » DORK Airdrop — Eligibility & Claim Info — [December 2025] | 0x0.ai AI Smart Contract Auditor | [Read More](https://medium.com/p/484c1c1b4d29) |
-| Thu, 25 Dec 2025 12:02:21 GMT | Writeup for picoCTF challenge “WebDecode” | Walter Moar | [Read More](https://medium.com/p/777385ded4ea) |
-| Thu, 25 Dec 2025 11:55:05 GMT | DockerLabs Writeup — Ekisese (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/cce7115ed49d) |
-| Thu, 25 Dec 2025 11:53:56 GMT | My Best 5 Dev Tools I Use With Antigravity IDE :- KYLO, Nia, e.t.c… | Leon Musk | [Read More](https://medium.com/p/037ea4b73703) |
-| Thu, 25 Dec 2025 11:41:17 GMT | Cybersecurity Risk Management: The Silent Business Threat You Can’t Afford to Overlook | Jason Hayes | [Read More](https://medium.com/p/0f75eb35ba43) |
-| Thu, 25 Dec 2025 11:35:10 GMT | On getting to know myself, slowly. | Meivi | [Read More](https://medium.com/p/f44f167936c8) |
-| Thu, 25 Dec 2025 11:33:45 GMT | #Why I Built ReqGuard: Real-Time Defense for Your Node.js Supply Chain | Santosh Jugjali | [Read More](https://medium.com/p/a4c69164daab) |
-| Thu, 25 Dec 2025 11:25:45 GMT | CAPTCHA Accessibility Alternatives That Work | Nurali ATMACA | [Read More](https://medium.com/p/9dae38333e68) |
-| Thu, 25 Dec 2025 11:17:34 GMT | PortSwigger: Command Injection otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/7630679ec4d6) |
-| Thu, 25 Dec 2025 11:14:14 GMT | “Knocking on the Door: Understanding Active Information Gathering in Cybersecurity” | Habibi | [Read More](https://medium.com/p/0030d5e6f7ed) |
