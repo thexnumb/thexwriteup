@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Dec 2025 22:34:55 GMT | Raising Privacy-Smart Kids In A Connected World | Geoffrey Wenger | [Read More](https://medium.com/p/650abe9caa35) |
+| Thu, 25 Dec 2025 22:34:48 GMT | Social Media Safety When Everything You Post Stays Forever | Geoffrey Wenger | [Read More](https://medium.com/p/468e1609bd7f) |
+| Thu, 25 Dec 2025 22:29:32 GMT | Why Everything You Type into ChatGPT Can Be Easily Retrieved | Delanoe Pirard | [Read More](https://medium.com/p/7580e348b42d) |
 | Thu, 25 Dec 2025 22:12:28 GMT | ENS Is Not “The New DNS.” It Is a Parallel Naming Layer, and That Changes Security. | Enrique Somoza | [Read More](https://medium.com/p/d0d5a7824e97) |
 | Thu, 25 Dec 2025 22:09:35 GMT | The Windows Concept Journey — PowerShell Remoting | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e91e336dd6d7) |
 | Thu, 25 Dec 2025 21:48:43 GMT | TryHackMe Cyborg Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/e92f644231e5) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 14:12:28 GMT | Exposed Pipelines: Rooting HTB Builder via CVE-2024-23897 | Nmullenski | [Read More](https://medium.com/p/18b185b3d080) |
 | Thu, 25 Dec 2025 14:01:34 GMT | Sensitive Data Exposure: The Silent Bug That Pays Big | Monika sharma | [Read More](https://medium.com/p/ce280b0ebea4) |
 | Thu, 25 Dec 2025 13:59:51 GMT | OffSec PG: Billyboss (Windows, Hard) | G3XAR | [Read More](https://medium.com/p/eaeb1764c426) |
-| Thu, 25 Dec 2025 13:56:03 GMT | Avoid These 5 Bug Bounty Mistakes or Get Banned! | Shahzaib | [Read More](https://medium.com/p/b274fa78f7e9) |
-| Thu, 25 Dec 2025 13:52:21 GMT | ⚡ Zero to Root: The Ultimate Guide to Hack The Box Driver | Nmullenski | [Read More](https://medium.com/p/d7f5da295946) |
-| Thu, 25 Dec 2025 13:47:11 GMT | Secure Email for Business: The Minimum Security Settings You Should Enable (No Fluff) | Alexey Bulygin | [Read More](https://medium.com/p/f21432631be1) |
