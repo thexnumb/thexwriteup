@@ -12,11 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 18:41:12 GMT | Cybersecurity Checklist for Small Businesses (Practical & Actionable) | Security-in-a-Box | [Read More](https://medium.com/p/087048960f08) |
+| Fri, 26 Dec 2025 18:36:07 GMT | What Is Product Security? (Explained Like You’re Talking to a Friend ☕) | Ayan bhowal | [Read More](https://medium.com/p/185293dd1836) |
+| Fri, 26 Dec 2025 18:32:16 GMT | Smol — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/e6531ff428eb) |
 | Fri, 26 Dec 2025 18:20:52 GMT | Where to Legally Hire Ethical Hackers: A Comprehensive Guide | Christopher William | [Read More](https://medium.com/p/ca9eef3d5e75) |
 | Fri, 26 Dec 2025 18:13:41 GMT | Industry Sectors that Employ Security Guards | Ultraprotectsecurity | [Read More](https://medium.com/p/2d19697b9e25) |
 | Fri, 26 Dec 2025 18:03:56 GMT | THE WOMAN WHO HID THE HYENA | Cyril Effiong | [Read More](https://medium.com/p/a5bb9b1497c3) |
 | Fri, 26 Dec 2025 18:02:28 GMT | Unpacking Santa Stealer — A Stealer Rebranded from BlueLine Stealer | Maurice Fielenbach | [Read More](https://medium.com/p/e74f429ce11d) |
 | Fri, 26 Dec 2025 18:01:08 GMT | Breaking the Android Play Integrity Trust Model | Joseph James (JJ) | [Read More](https://medium.com/p/9dafc9ab08d4) |
+| Fri, 26 Dec 2025 18:00:43 GMT | Cyber-Resilience 2025: NHS Digital Threat Intelligence Brief | Being Gaituri | [Read More](https://medium.com/p/bddd12d6505f) |
 | Fri, 26 Dec 2025 18:00:23 GMT | Parrot OS 7.0 Launches With AI-Focused Pentesting and a Full System Rewrite | Chetan Seripally | [Read More](https://medium.com/p/de1b604cca67) |
 | Fri, 26 Dec 2025 17:54:56 GMT | The History of Darknet Markets: From Silk Road to Decentralization | Tor BBB | [Read More](https://medium.com/p/48dcf1f66715) |
 | Fri, 26 Dec 2025 17:41:46 GMT | “The Shoe Seller and the Barefoot Boy”
@@ -109,7 +113,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 11:50:22 GMT | A founder lost $1 million in pipeline last year.Why Enterprise Deals Keep Dying in Security Review. | Yogeshwar Tanwar | [Read More](https://medium.com/p/91eef7d2280d) |
 | Fri, 26 Dec 2025 11:45:24 GMT | Password Managers: Why You Need One More Than Ever | Little_Sun4lower | [Read More](https://medium.com/p/a13fa467dba6) |
 | Fri, 26 Dec 2025 11:44:56 GMT | How Long Does It Take to Become an X-Ray Technician? Full Timeline Guide | Motherlandlove | [Read More](https://medium.com/p/dbdbd352b5e2) |
-| Fri, 26 Dec 2025 11:41:10 GMT | IT Services Manchester That Actually Support Your Business | wearegekko | [Read More](https://medium.com/p/489c49376c39) |
-| Fri, 26 Dec 2025 11:39:18 GMT | Life after Passwords | ThinkSimple | [Read More](https://medium.com/p/ea478cd21a3f) |
-| Fri, 26 Dec 2025 11:36:59 GMT | Why AI Bubble Narratives Keep Winning, Even When the Technology Keeps Working | Aravind Sakthivel | [Read More](https://medium.com/p/1d9b939e335d) |
-| Fri, 26 Dec 2025 11:34:54 GMT | How Security Guard Services Improve Customer Confidence and Trust | NY NightLife Security | [Read More](https://medium.com/p/f7a684a64760) |
