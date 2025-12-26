@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 11:04:06 GMT | Configure your first virtual router(pfSense)- simulate attack with virtual machines. | Mohamed Aamir Khan | [Read More](https://medium.com/p/85c5a7caff46) |
+| Fri, 26 Dec 2025 11:03:57 GMT | HexStrike + Gemini vs. HackerAI: “Ops Copilot” vs. “Chatbot with Tools” | Andrey Pautov | [Read More](https://medium.com/p/1d799845410b) |
+| Fri, 26 Dec 2025 11:00:33 GMT | Best Year-End Cybersecurity Deals for Beginners and Advanced Learners | cyber security Updates | [Read More](https://medium.com/p/79c79bf76eba) |
+| Fri, 26 Dec 2025 10:53:45 GMT | Which Technology Protects VOIP Against Eavesdropping? Explained for Businesses | Creative IT Solutions | [Read More](https://medium.com/p/b0a194afff68) |
+| Fri, 26 Dec 2025 10:51:02 GMT | Why Copilot Does NOT Break SharePoint Security - Bad Architecture Does | Aakash Rahsi | [Read More](https://medium.com/p/4ce29c022892) |
+| Fri, 26 Dec 2025 10:50:19 GMT | Limits of Existing Cryptographic Technologies (MPC/Multi-Sig) and “Endpoint Vulnerabilities” | Satelite | [Read More](https://medium.com/p/0fcb11dffb37) |
+| Fri, 26 Dec 2025 10:48:43 GMT | Threat Hunting with Osquery Manager | Nesrine Cherrabi | [Read More](https://medium.com/p/2a32818e735a) |
+| Fri, 26 Dec 2025 10:43:17 GMT | How Cyber Attacks Really Begin: What Every Internet User Should Know | Alolika Ghosh | [Read More](https://medium.com/p/cf4be51e1153) |
 | Fri, 26 Dec 2025 10:43:08 GMT | Linux’ta Dosya İzinleri ve Yetkilendirme | g.o. | [Read More](https://medium.com/p/7d6141a1981a) |
+| Fri, 26 Dec 2025 10:42:22 GMT | 24 Hour Lock Out Solutions — Fast, Reliable Access Support Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/fc56bb44b83c) |
+| Fri, 26 Dec 2025 10:41:30 GMT | GitOps | Ammon Schiffer | [Read More](https://medium.com/p/21f7382655e3) |
 | Fri, 26 Dec 2025 10:36:56 GMT | The largest science and technology festival in Asia, TechFest 2025, was successfully hosted at IIT… | Crawsec | [Read More](https://medium.com/p/3f40f98126a4) |
 | Fri, 26 Dec 2025 10:32:20 GMT | ️‍♂️ Rootkit Malware Explained: The Invisible Threat Hiding Deep Inside Your System | Natarajan C K | [Read More](https://medium.com/p/dd82d6a43629) |
 | Fri, 26 Dec 2025 10:31:56 GMT | What Is Included in a Cyber Security Course Syllabus? | Shubham Saini | [Read More](https://medium.com/p/b0b183a7e94f) |
@@ -103,13 +113,3 @@ Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
 | Fri, 26 Dec 2025 04:29:42 GMT | Cybersecurity Risk Management: A Strategic Imperative for Modern Enterprises | Priyansh Shah | [Read More](https://medium.com/p/af6670e3685c) |
 | Fri, 26 Dec 2025 04:25:04 GMT | The Windows Event IDs Every Cybersecurity Professional Must Know | Raymond Ebonine | [Read More](https://medium.com/p/5003c9543a89) |
 | Fri, 26 Dec 2025 04:21:37 GMT | WebSocket Misconfiguration Leading to DOM Manipulation and Denial of Service in a Web Chat… | Waleed Osama | [Read More](https://medium.com/p/c8a0c8c30a19) |
-| Fri, 26 Dec 2025 04:16:32 GMT | ️‍♂️ OSINT Using AI Vision: Extracting Secrets From Screenshots | Vipul Sonule | [Read More](https://medium.com/p/8ecc4c303a3f) |
-| Fri, 26 Dec 2025 04:10:13 GMT | Stop Doing This While Debugging — It’s a Data Breach Waiting to Happen | AshokReddy | [Read More](https://medium.com/p/feb70757bcef) |
-| Fri, 26 Dec 2025 03:51:12 GMT | Your AI just went rogue. Do you have a kill switch, or just a prayer? | Akash Dolas | [Read More](https://medium.com/p/00a5119b10c1) |
-| Fri, 26 Dec 2025 03:49:47 GMT | AI Tools for Cybersecurity in 2025 | Abdul Majid Jamil | [Read More](https://medium.com/p/6ee1b870da07) |
-| Fri, 26 Dec 2025 03:44:08 GMT | Snapchat Proxy Guide (2026): Choose, Test, and Run Multiple Accounts Reliably | CryptoMirth | [Read More](https://medium.com/p/c25cbf7a3d95) |
-| Fri, 26 Dec 2025 03:40:35 GMT | The Complete Guide to Penetration Testing Careers: Your Roadmap From Zero to Security Expert in… | Sajidur Rahman | [Read More](https://medium.com/p/44b966903494) |
-| Fri, 26 Dec 2025 03:32:41 GMT | When a Movie Download Becomes a Malware Trap: Inside the Fake Torrent Threat | Deven Chhajed | [Read More](https://medium.com/p/9d1873687c05) |
-| Fri, 26 Dec 2025 03:32:18 GMT | Cybersecurity Basics Everyone Should Know! | Raksha Thimmaiah | [Read More](https://medium.com/p/d67a48cfcd2f) |
-| Fri, 26 Dec 2025 03:29:54 GMT | Google Dorks: Hacking Google Like a Pro (The Safe Way!) | Cybeague Technologies | [Read More](https://medium.com/p/2c7ed18bb3cc) |
-| Fri, 26 Dec 2025 03:28:24 GMT | Unlocking the Power of Shodan: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/ef7b39f2882a) |
