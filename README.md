@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 16:09:18 GMT | The Real Shape of OAuth 2.0: What the Standard Defines, What It Doesn’t, and Why Confusion Persists | Ayoub Abedallhameed | [Read More](https://medium.com/p/4d0860f06a47) |
+| Fri, 26 Dec 2025 16:05:54 GMT | AI in 2025: The Cybersecurity Imperative for Mandatory Governance | Ehsan | [Read More](https://medium.com/p/e18332d44592) |
+| Fri, 26 Dec 2025 16:05:13 GMT | The Ghost in the Machine: Why AI Website Builders Are Still Vulnerable to Disposable Emails | Akshay Jadhav | [Read More](https://medium.com/p/c859933d2831) |
+| Fri, 26 Dec 2025 16:04:13 GMT | Day 16: The Platform That Sees Everything | Mahimagarg | [Read More](https://medium.com/p/6f72daeece45) |
+| Fri, 26 Dec 2025 16:04:13 GMT | El auge y oscuro panorama del Infostealer como servicio | Tiziano Mass | [Read More](https://medium.com/p/ff85d6d41fe8) |
+| Fri, 26 Dec 2025 16:02:30 GMT | Mastering Firewall Protection: Your First Line of Defense in Cybersecurity | Negro Med | [Read More](https://medium.com/p/368bfe310bb2) |
+| Fri, 26 Dec 2025 16:02:16 GMT | Christmas Strikes, Civic Space, and Nigeria’s Place at the G20. | Emitomo Tobi Nimisire | [Read More](https://medium.com/p/c2a5d0c752e2) |
+| Fri, 26 Dec 2025 16:01:48 GMT | WAF: Introduction Walkthrough - TryHackMe | Nizam Uddin | [Read More](https://medium.com/p/1423d4d4b2a5) |
+| Fri, 26 Dec 2025 15:54:23 GMT | Forgotten VM Walkthrough | Spookz | [Read More](https://medium.com/p/94d9b2e23a66) |
+| Fri, 26 Dec 2025 15:48:54 GMT | Why Android Users in the USA Are Switching to Free VPN Apps in 2026 | Mandolmanju | [Read More](https://medium.com/p/1f95f805f5aa) |
 | Fri, 26 Dec 2025 15:40:31 GMT | Soul Hygiene | é | [Read More](https://medium.com/p/fc6ba35a4f5f) |
 | Fri, 26 Dec 2025 15:35:09 GMT | China’s Great Leap Forward: Entering the 10G Era and the Rise of “Neural” Smart Cities | Carmine Dalise | [Read More](https://medium.com/p/397622a833b2) |
 | Fri, 26 Dec 2025 15:33:21 GMT | The Corix Partners Friday Reading List — December 26, 2025 | JC Gaillard | [Read More](https://medium.com/p/f6836e630cdd) |
@@ -28,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 14:58:56 GMT | Skip the long wait — start your cyber career faster Paying rising fees and waiting years to finish… | Furqan Ahmad | [Read More](https://medium.com/p/d53362565e9a) |
 | Fri, 26 Dec 2025 14:56:10 GMT | Business Scam Survival Kit: A Simple Guide for SMEs and Scale-Ups | Evistia | [Read More](https://medium.com/p/c96a6e272506) |
 | Fri, 26 Dec 2025 14:54:54 GMT | Your Company’s Logins Are Probably Leaked Already. Here’s How to Check in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/af7bfa445dcb) |
+| Fri, 26 Dec 2025 14:44:15 GMT | Using Neo C2 Framework to run BOFs & Assemblies | stillbigjosh | [Read More](https://medium.com/p/fb4392a6b81c) |
 | Fri, 26 Dec 2025 14:42:59 GMT | Fortinet Warns of Active Exploitation: The FortiOS SSL VPN 2FA Bypass You Should Recheck Today… | Germano Costi | [Read More](https://medium.com/p/cfbca3debd0f) |
 | Fri, 26 Dec 2025 14:31:01 GMT | Cybersecurity and how >Sometimes< Eastern Europeans Know Shit About Fuck | Dorian Kray | [Read More](https://medium.com/p/c1e111337849) |
 | Fri, 26 Dec 2025 14:20:57 GMT | PG practice Zipper — Security Lessons | Balaji_21 | [Read More](https://medium.com/p/d6a7c7eedd63) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 10:42:22 GMT | 24 Hour Lock Out Solutions — Fast, Reliable Access Support Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/fc56bb44b83c) |
 | Fri, 26 Dec 2025 10:41:30 GMT | GitOps | Ammon Schiffer | [Read More](https://medium.com/p/21f7382655e3) |
 | Fri, 26 Dec 2025 10:36:56 GMT | The largest science and technology festival in Asia, TechFest 2025, was successfully hosted at IIT… | Crawsec | [Read More](https://medium.com/p/3f40f98126a4) |
-| Fri, 26 Dec 2025 10:32:20 GMT | ️‍♂️ Rootkit Malware Explained: The Invisible Threat Hiding Deep Inside Your System | Natarajan C K | [Read More](https://medium.com/p/dd82d6a43629) |
-| Fri, 26 Dec 2025 10:31:56 GMT | What Is Included in a Cyber Security Course Syllabus? | Shubham Saini | [Read More](https://medium.com/p/b0b183a7e94f) |
-| Fri, 26 Dec 2025 10:28:24 GMT | NEWSLETTER: Lessons to Carry Forward on the Journey of Life | Nitin Garg | [Read More](https://medium.com/p/0f9df4a9deb5) |
-| Fri, 26 Dec 2025 10:24:11 GMT | Solving CTF Challenges with Local AI Models | Yousof Nahya | [Read More](https://medium.com/p/3d7f7b8dcad0) |
-| Fri, 26 Dec 2025 10:23:11 GMT | ด่วน! แจ้งเตือนกรณีช่องโหว่ในแพลตฟอร์มสร้างการทำงานอัตโนมัติ (Workflow Automation Platform) n8n | ThaiCERT By NCSA | [Read More](https://medium.com/p/609fec1d7bfc) |
-| Fri, 26 Dec 2025 10:22:20 GMT | The Daily Tech Digest: 26 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/946572632a01) |
-| Fri, 26 Dec 2025 10:20:38 GMT | How Cybersecurity Consulting Firms Customise Security for Your Business | SmartCLOUD Australia | [Read More](https://medium.com/p/ccf6972acc67) |
-| Fri, 26 Dec 2025 10:16:21 GMT | Kullanıcı ve Grup Yönetimi (User & Group Management) | g.o. | [Read More](https://medium.com/p/bf7b9f99ecc7) |
-| Fri, 26 Dec 2025 10:14:42 GMT | Web Application Penetration Testing for Secure Systems | Application Security Master | [Read More](https://medium.com/p/8e2cecad0c03) |
-| Fri, 26 Dec 2025 10:06:56 GMT | Coding, Sleep, and Cognitive Integrity | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/821c75b8e28a) |
-| Fri, 26 Dec 2025 10:04:29 GMT | Why Cybersecurity Has Become Cyber‑Insecurity in 2025. | Campo Sette | [Read More](https://medium.com/p/744c536aabfb) |
