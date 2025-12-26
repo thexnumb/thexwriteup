@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 03:51:12 GMT | Your AI just went rogue. Do you have a kill switch, or just a prayer? | Akash Dolas | [Read More](https://medium.com/p/00a5119b10c1) |
+| Fri, 26 Dec 2025 03:49:47 GMT | AI Tools for Cybersecurity in 2025 | Abdul Majid Jamil | [Read More](https://medium.com/p/6ee1b870da07) |
+| Fri, 26 Dec 2025 03:44:08 GMT | Snapchat Proxy Guide (2026): Choose, Test, and Run Multiple Accounts Reliably | CryptoMirth | [Read More](https://medium.com/p/c25cbf7a3d95) |
+| Fri, 26 Dec 2025 03:40:35 GMT | The Complete Guide to Penetration Testing Careers: Your Roadmap From Zero to Security Expert in… | Sajidur Rahman | [Read More](https://medium.com/p/44b966903494) |
+| Fri, 26 Dec 2025 03:32:41 GMT | When a Movie Download Becomes a Malware Trap: Inside the Fake Torrent Threat | Deven Chhajed | [Read More](https://medium.com/p/9d1873687c05) |
+| Fri, 26 Dec 2025 03:32:18 GMT | Cybersecurity Basics Everyone Should Know! | Raksha Thimmaiah | [Read More](https://medium.com/p/d67a48cfcd2f) |
+| Fri, 26 Dec 2025 03:29:54 GMT | Google Dorks: Hacking Google Like a Pro (The Safe Way!) | Cybeague Technologies | [Read More](https://medium.com/p/2c7ed18bb3cc) |
+| Fri, 26 Dec 2025 03:28:24 GMT | Unlocking the Power of Shodan: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/ef7b39f2882a) |
 | Fri, 26 Dec 2025 03:16:43 GMT | 40+ Women: Stop These 3 Money Habits Killing Your Future Happiness | Rebecca Brown | [Read More](https://medium.com/p/a3cc56d76669) |
 | Fri, 26 Dec 2025 02:44:42 GMT | Ukraine’s Bold 20-Point Peace Plan: A Step Toward Lasting Security and Sovereignty | Vonnie E James™ | [Read More](https://medium.com/p/617cbe134621) |
 | Fri, 26 Dec 2025 02:35:56 GMT | Routers, IP Addresses, and Enumeration: A Beginner-Friendly Guide to Ethical Hacking | blackey07 | [Read More](https://medium.com/p/2b2cd62c40df) |
@@ -26,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 01:12:21 GMT | Recontextualizing Security+: From Certification to ISMS Practice | Chenyang Zhai | [Read More](https://medium.com/p/7e5cc9823bf4) |
 | Fri, 26 Dec 2025 01:05:49 GMT | You Will Never See Me Break | KV | [Read More](https://medium.com/p/2a201d3f444d) |
 | Fri, 26 Dec 2025 01:04:29 GMT | Title: Architecting the Digital Future of Iraq: The Journey of Aryan Ali and Aryan Tech | Aryan Tech | [Read More](https://medium.com/p/3dce467e7210) |
+| Fri, 26 Dec 2025 00:56:08 GMT | NEEDS AWARENESS! | Jason Scott Oruska | [Read More](https://medium.com/p/59084b74fd3e) |
 | Fri, 26 Dec 2025 00:33:19 GMT | Google Dork and OSINT: Discovering Exposed Systems Through Search Engines | isaergisi | [Read More](https://medium.com/p/40a5719c21db) |
 | Fri, 26 Dec 2025 00:15:18 GMT | The Pressure Release: Bleeding the Lines of the Soul | The Rear View by Murtaza | [Read More](https://medium.com/p/cb6fde60c056) |
 | Fri, 26 Dec 2025 00:09:23 GMT | Digital Ethiopia 2030: Building Skyscrapers on Quicksand? | Abebebe Diro (PhD) | [Read More](https://medium.com/p/b7b62b5d733c) |
@@ -54,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 20:24:39 GMT | The Ransomware Paradox: Why Cybercriminals Demand Bitcoin Over Monero Despite Superior Anonymity | Ilhan Hakan Ökcesiz | [Read More](https://medium.com/p/6097ce93c774) |
 | Thu, 25 Dec 2025 20:20:23 GMT | Libaray program tersemubunyi | Ego oktafanda | [Read More](https://medium.com/p/98d00543d5a9) |
 | Thu, 25 Dec 2025 20:17:48 GMT | TryHackMe Writeup: Chocolate Factory | Berkay AĞGÜL | [Read More](https://medium.com/p/55491c5c7f69) |
+| Thu, 25 Dec 2025 20:15:32 GMT | Investigation into MSP Data Breach | Hadiramr | [Read More](https://medium.com/p/57e0ceb86aca) |
 | Thu, 25 Dec 2025 20:04:33 GMT | The Love I Lost While Waiting for the Perfect Moment | Banhisekha | [Read More](https://medium.com/p/7918b28c9c4d) |
 | Thu, 25 Dec 2025 19:49:37 GMT | Learning WireGuard: Why Simple Systems Are the Best Place to Start | Niveshpritmani | [Read More](https://medium.com/p/6d9781c83967) |
 | Thu, 25 Dec 2025 19:42:11 GMT | What Else LLM Can Speak? | restdone | [Read More](https://medium.com/p/b38d3e442c38) |
@@ -69,6 +79,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 18:42:06 GMT | Modern Industrial Protocols: PROFINET, EtherNet/IP, OPC-UA, and IEC 61850 | urjasec | [Read More](https://medium.com/p/9bea660d9c1d) |
 | Thu, 25 Dec 2025 18:36:49 GMT | The Backdoor We Built Ourselves | Erik Cota-Robles | [Read More](https://medium.com/p/250ea893b71d) |
 | Thu, 25 Dec 2025 18:34:13 GMT | Easy Peasy : Challenge WriteUp TryHackMe | theOrthodox | [Read More](https://medium.com/p/13c72583ece9) |
+| Thu, 25 Dec 2025 18:32:13 GMT | Django + HTMX File Uploads: Drag-Drop, Progress Bars, and Async Processing Pipelines | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/230a2694dabb) |
 | Thu, 25 Dec 2025 18:30:26 GMT | Easy Peasy : Challenge WriteUp TryHackMe | theOrthodox | [Read More](https://medium.com/p/6c0043d79558) |
 | Thu, 25 Dec 2025 18:28:35 GMT | Network Nedir? Temel Ağ Türleri ve Topolojiler (Siber Güvenlik Serisi — 1) | Berra Meryem | [Read More](https://medium.com/p/b04d525845cd) |
 | Thu, 25 Dec 2025 18:27:53 GMT | Hybrid Design Patterns:Factory+Strategy(That Most People Don’t Know) | Jitin Kayyala | [Read More](https://medium.com/p/4bc4bb3993f5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 16:37:09 GMT | Why Your Threat Model Needs More PASTA? | Aastha Thakker | [Read More](https://medium.com/p/93d4ccacd194) |
 | Thu, 25 Dec 2025 16:36:37 GMT | The Threat Plane | Brian Curry | [Read More](https://medium.com/p/fe4fd447de30) |
 | Thu, 25 Dec 2025 16:31:49 GMT | How Banks Actually Do Password + MFA | Piyali Das | [Read More](https://medium.com/p/1ffb8b99b07c) |
-| Thu, 25 Dec 2025 16:31:17 GMT | We Replaced Curiosity With Dashboards | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/a59128510749) |
-| Thu, 25 Dec 2025 16:29:08 GMT | SQL Injection (SQLi) From Zero to Advanced | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/bf5c1c93f524) |
-| Thu, 25 Dec 2025 16:21:15 GMT | IDS and IPS Configuration Using Suricata | Salmanul Faris | [Read More](https://medium.com/p/577093e59ee3) |
-| Thu, 25 Dec 2025 16:16:11 GMT | Why Real Hackers Avoid Perfect Architectures | Splicer Scorn: Lugubrious, Loquatious, Volatile... | [Read More](https://medium.com/p/384be583ff17) |
-| Thu, 25 Dec 2025 16:02:13 GMT | PortSwigger Web Security Academy — CSRF Lab 2 Write-Up | Mann24> | [Read More](https://medium.com/p/4b14b90af2dd) |
-| Thu, 25 Dec 2025 16:01:34 GMT | Understanding SOP, CORS & Preflight Requests | hackerdevil | [Read More](https://medium.com/p/58411228ebe0) |
-| Thu, 25 Dec 2025 15:59:46 GMT | The Paranoia Engine: Understanding SELinux and AVC Denials in Android | Mohamedtahadawoud | [Read More](https://medium.com/p/3207e566fedf) |
-| Thu, 25 Dec 2025 15:55:07 GMT | n8n RCE : CVE-2025–68613 · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/ba713f682e56) |
-| Thu, 25 Dec 2025 15:46:41 GMT | Understanding CVE-2025-68613: A Critical n8n Vulnerability Triggering RCE | Andis Paudel | [Read More](https://medium.com/p/6e59c2936f65) |
-| Thu, 25 Dec 2025 15:46:19 GMT | CrowdStrike vs Microsoft Defender: Who Leads EDR/XDR Into 2026? | Wes Young | [Read More](https://medium.com/p/7d4803b2da24) |
-| Thu, 25 Dec 2025 15:46:18 GMT | When Browsers Decide for You | Decentr | [Read More](https://medium.com/p/1746405c40da) |
