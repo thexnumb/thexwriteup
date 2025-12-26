@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 14:31:01 GMT | Cybersecurity and how >Sometimes< Eastern Europeans Know Shit About Fuck | Dorian Kray | [Read More](https://medium.com/p/c1e111337849) |
+| Fri, 26 Dec 2025 14:20:57 GMT | PG practice Zipper — Security Lessons | Balaji_21 | [Read More](https://medium.com/p/d6a7c7eedd63) |
+| Fri, 26 Dec 2025 14:19:24 GMT | Try Hack Me- Year of the Rabbit Walkthrough | PulseEinher | [Read More](https://medium.com/p/5659846df74c) |
 | Fri, 26 Dec 2025 14:15:48 GMT | PortSwigger Web Security Academy — Lab Write‑Up 7 | 0xM3d0din | [Read More](https://medium.com/p/c5d4ec755083) |
 | Fri, 26 Dec 2025 14:10:44 GMT | Applying Reinforcement Learning to Cybersecurity — My First Thoughts on K-Armed Bandits & HTB —… | Hariharan@Blog:~$ | [Read More](https://medium.com/p/2e4244777afe) |
 | Fri, 26 Dec 2025 14:02:23 GMT | 7 Wallet Permission Designs Users Don’t Auto-Approve | Vectorlane | [Read More](https://medium.com/p/910754bbfb47) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 09:15:31 GMT | HTB: BabyTwo — Medium Writeup | Maxwell Ferreira | [Read More](https://medium.com/p/aafb739f27b3) |
 | Fri, 26 Dec 2025 09:14:53 GMT | HackSmarter: ShareThePain | Persecure | [Read More](https://medium.com/p/a069d69fa5eb) |
 | Fri, 26 Dec 2025 09:09:46 GMT | WordPress Under Siege: Why 90,000 Daily Attacks Mean Your Site Needs Professional Protection Now | Abdul Mubin | [Read More](https://medium.com/p/4f634c60bbd0) |
-| Fri, 26 Dec 2025 09:09:16 GMT | React2Shell — React Server Components RCE CVE-2025–55182 | Zabed Ullah Poyel | [Read More](https://medium.com/p/6cc782503c5e) |
-| Fri, 26 Dec 2025 09:06:24 GMT | CVE-2025–68613: Critical RCE di Platform Otomasi n8n (CVSS 9.9) | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/22fcd96142be) |
-| Fri, 26 Dec 2025 09:04:49 GMT | Personal Browsing Gone Wild: XSS + IDOR in the Same Spot | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/6ab3e0ea6190) |
