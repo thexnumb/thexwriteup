@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 05:31:47 GMT | Cyber Security Books | Abdul Majid Jamil | [Read More](https://medium.com/p/302400fddb67) |
 | Fri, 26 Dec 2025 05:16:52 GMT | Securing a Kenyan SACCO from Zero [Part 5 of 6] | Munaniadeno | [Read More](https://medium.com/p/e6ed92b28dc2) |
 | Fri, 26 Dec 2025 05:13:15 GMT | The Infinite Jukebox: Inside the 300TB Heist That Archived Spotify | Rakibul Hasan Sagor | [Read More](https://medium.com/p/47bf508b5ca1) |
 | Fri, 26 Dec 2025 05:09:31 GMT | Cybersecurity for Critical Infrastructure Is Not an IT Problem — It’s a National Risk
@@ -112,4 +113,3 @@ Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
 | Thu, 25 Dec 2025 17:16:58 GMT | SOC 2 and HIPAA Compliance: IT Controls Every SMB Must Have in 2026 | Technijian | [Read More](https://medium.com/p/830bfe6eb985) |
 | Thu, 25 Dec 2025 17:16:00 GMT | AWS Advent Calendar 2025 — Days 16–20 | Ihor Sasovets | [Read More](https://medium.com/p/8dca030c6fea) |
 | Thu, 25 Dec 2025 17:05:23 GMT | *"The House That Breathed"* | Sakhi Writes | [Read More](https://medium.com/p/857b5eaf5715) |
-| Thu, 25 Dec 2025 17:04:56 GMT | Analyzing Network Packets with Wireshark | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/b1c812af4b4c) |
