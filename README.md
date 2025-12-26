@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 22:14:41 GMT | Reverse Engineering a Multi-Phase Malicious Delivery Sequence | M4lB3nder | [Read More](https://medium.com/p/756e22d54d7a) |
+| Fri, 26 Dec 2025 21:55:11 GMT | Quantifying Surprise: A Conceptual Introduction to Information Theory | Alireza Kafi | [Read More](https://medium.com/p/bc85e0d2ecf0) |
+| Fri, 26 Dec 2025 21:53:16 GMT | How I Found a SQL Injection in a VDP Program | ell0guvn0r | [Read More](https://medium.com/p/8291816ed281) |
+| Fri, 26 Dec 2025 21:49:04 GMT | The 2026 AI Compliance Checklist: Protecting Your Business from Shadow AI and Data Leaks | Mr.Incognito | [Read More](https://medium.com/p/ca8c4e6e757e) |
 | Fri, 26 Dec 2025 21:29:55 GMT | GitHub CI/CD: Action Jackson (Infinity Labs) — Write-up | Mudiuth | [Read More](https://medium.com/p/7a76eeba5f71) |
 | Fri, 26 Dec 2025 21:29:26 GMT | Designing Behavioral Rules for EDR: When There Is No Signature, Intelligence Speaks ️ | Esra Kayhan | [Read More](https://medium.com/p/6616042f441d) |
 | Fri, 26 Dec 2025 21:27:40 GMT | Managed IT Services in West Palm Beach Are About One Thing. Reducing Business Risk. | CompuWork | [Read More](https://medium.com/p/a04cdd16be33) |
@@ -27,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 20:04:31 GMT | Your Website Isn’t Vulnerable — Your Workflow Is ⚙️ | Ali.Yurie | [Read More](https://medium.com/p/fbdb21e422dd) |
 | Fri, 26 Dec 2025 19:56:47 GMT | From “First-Sight” to “Third-Sight” | Chier Hu | [Read More](https://medium.com/p/d8f5365e73cb) |
 | Fri, 26 Dec 2025 19:53:21 GMT | How an AWS Cognito Misconfiguration Led to Full Organization Account Compromise | a-shams | [Read More](https://medium.com/p/5c9f6983e1a4) |
+| Fri, 26 Dec 2025 19:48:56 GMT | Deepfakes and Coffee Break Discussions to Avoid | Adarsh asati | [Read More](https://medium.com/p/f044f72e0871) |
 | Fri, 26 Dec 2025 19:42:43 GMT | Title | Abdulrahman Haggam | [Read More](https://medium.com/p/b8ba976f7569) |
 | Fri, 26 Dec 2025 19:32:12 GMT | The Iran–US–Israel System | PYURA ANSHUMAN | [Read More](https://medium.com/p/59ead2240ab3) |
 | Fri, 26 Dec 2025 19:32:01 GMT | App Store Screenshots made easy | Štěpán Šanda | [Read More](https://medium.com/p/547fd3ec8534) |
@@ -42,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 18:00:43 GMT | Cyber-Resilience 2025: NHS Digital Threat Intelligence Brief | Being Gaituri | [Read More](https://medium.com/p/bddd12d6505f) |
 | Fri, 26 Dec 2025 18:00:23 GMT | Parrot OS 7.0 Launches With AI-Focused Pentesting and a Full System Rewrite | Chetan Seripally | [Read More](https://medium.com/p/de1b604cca67) |
 | Fri, 26 Dec 2025 17:54:56 GMT | The History of Darknet Markets: From Silk Road to Decentralization | Tor BBB | [Read More](https://medium.com/p/48dcf1f66715) |
+| Fri, 26 Dec 2025 17:53:37 GMT | Les enjeux RSE du métier de l’informatique (2) | Irene AMEDJI | [Read More](https://medium.com/p/ad9575d9bb0a) |
 | Fri, 26 Dec 2025 17:41:46 GMT | “The Shoe Seller and the Barefoot Boy”
 On one of the streets of New York, there was a man who sold… | Sakhi Writes | [Read More](https://medium.com/p/49773e16f3f4) |
 | Fri, 26 Dec 2025 17:40:19 GMT | The Only Place I Felt Seen Just Banned Me | Ritik | [Read More](https://medium.com/p/b71021008871) |
@@ -107,9 +113,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 13:16:01 GMT | Premier Manned Guarding: Ensuring Reliable Security for Offices, Factories, and Sites | RAXA Techno Security Solutions | [Read More](https://medium.com/p/f442301cbc6a) |
 | Fri, 26 Dec 2025 13:15:20 GMT | What Broke First When Our Traffic Doubled Overnight | CodeTalks | [Read More](https://medium.com/p/817400bf127d) |
 | Fri, 26 Dec 2025 13:10:22 GMT | TryHackMe - n8n: CVE-2025-68613 - WriteUp | Axoloth | [Read More](https://medium.com/p/6412d7096d4c) |
-| Fri, 26 Dec 2025 13:08:18 GMT | Install & Use Volatility 3 for Memory Forensics | 0xRahuL | [Read More](https://medium.com/p/4fa813b0fab1) |
-| Fri, 26 Dec 2025 13:04:44 GMT | n8n: CVE-2025–68613 - TryHackMe | Md Amjad | [Read More](https://medium.com/p/0fcbe6bd0868) |
-| Fri, 26 Dec 2025 13:02:13 GMT | NGINX Ingress: The End of an Era | Prasad Wani | [Read More](https://medium.com/p/718e0d4191c9) |
-| Fri, 26 Dec 2025 12:49:09 GMT | Breaking The Registration Flow : A Pre-account Takeover Vulnerability | Fuzzyy Duck | [Read More](https://medium.com/p/6cd95414148a) |
-| Fri, 26 Dec 2025 12:46:39 GMT | I Exploited n8n vulnerability CVE:2025–68316 tryhackme walkthrough | Mainekhacker | [Read More](https://medium.com/p/060d3831736c) |
-| Fri, 26 Dec 2025 12:46:17 GMT | Will AI Make Leaders Obsolete or Finally Make Them Matter More? | Aravind Sakthivel | [Read More](https://medium.com/p/370bb11db009) |
