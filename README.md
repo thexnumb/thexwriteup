@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 16:27:10 GMT | Yük Dengeleyici ve Ters Proxy Karşılaştırması | Salih Buğra Duzelt | [Read More](https://medium.com/p/0a778ffa914d) |
+| Fri, 26 Dec 2025 16:20:23 GMT | Esai: Konvergensi ‘Media’ Tanpa Batas | Muhammad Farid Al Qadr | [Read More](https://medium.com/p/28cddbea031d) |
 | Fri, 26 Dec 2025 16:09:18 GMT | The Real Shape of OAuth 2.0: What the Standard Defines, What It Doesn’t, and Why Confusion Persists | Ayoub Abedallhameed | [Read More](https://medium.com/p/4d0860f06a47) |
 | Fri, 26 Dec 2025 16:05:54 GMT | AI in 2025: The Cybersecurity Imperative for Mandatory Governance | Ehsan | [Read More](https://medium.com/p/e18332d44592) |
 | Fri, 26 Dec 2025 16:05:13 GMT | The Ghost in the Machine: Why AI Website Builders Are Still Vulnerable to Disposable Emails | Akshay Jadhav | [Read More](https://medium.com/p/c859933d2831) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 10:43:17 GMT | How Cyber Attacks Really Begin: What Every Internet User Should Know | Alolika Ghosh | [Read More](https://medium.com/p/cf4be51e1153) |
 | Fri, 26 Dec 2025 10:43:08 GMT | Linux’ta Dosya İzinleri ve Yetkilendirme | g.o. | [Read More](https://medium.com/p/7d6141a1981a) |
 | Fri, 26 Dec 2025 10:42:22 GMT | 24 Hour Lock Out Solutions — Fast, Reliable Access Support Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/fc56bb44b83c) |
-| Fri, 26 Dec 2025 10:41:30 GMT | GitOps | Ammon Schiffer | [Read More](https://medium.com/p/21f7382655e3) |
-| Fri, 26 Dec 2025 10:36:56 GMT | The largest science and technology festival in Asia, TechFest 2025, was successfully hosted at IIT… | Crawsec | [Read More](https://medium.com/p/3f40f98126a4) |
