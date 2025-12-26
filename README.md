@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 21:09:15 GMT | The Future of Libraries: Intellectual Havens for Lost Youth? | Rich Crawford | [Read More](https://medium.com/p/091726aa1eec) |
+| Fri, 26 Dec 2025 20:47:30 GMT | How Cybercrime, Fintech, and Banks Are Reshaping Financial Security | OluwapelumiOyerinde | [Read More](https://medium.com/p/017cb9b4a008) |
+| Fri, 26 Dec 2025 20:45:06 GMT | Multi-Cloud DevOps with Generative AI | InsureTech Skills | [Read More](https://medium.com/p/8835ed853ba4) |
+| Fri, 26 Dec 2025 20:44:38 GMT | Revealing the fix to contract immutability using Upgradability. | Noble Nyuiela Kuadugah | [Read More](https://medium.com/p/98db5db95bed) |
 | Fri, 26 Dec 2025 20:26:14 GMT | How a Single Forgotten DNS Record Can Turn a Trusted Domain into a Gambling Site | Ashutosh Anand | [Read More](https://medium.com/p/8ca2d094175b) |
 | Fri, 26 Dec 2025 20:11:33 GMT | SaaS Sprawl — Why Employees Create Invisible Attack Paths | JSOC IT BLOG | [Read More](https://medium.com/p/4a8d5e4de37c) |
 | Fri, 26 Dec 2025 20:04:31 GMT | Your Website Isn’t Vulnerable — Your Workflow Is ⚙️ | Ali.Yurie | [Read More](https://medium.com/p/fbdb21e422dd) |
@@ -109,7 +113,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 12:40:54 GMT | How Wi-Fi Attacks Work: Understanding Wireless Threats | TheCyberNirvana | [Read More](https://medium.com/p/417a18f64f0d) |
 | Fri, 26 Dec 2025 12:27:25 GMT | Top Cybersecurity Threats to Watch in 2026 (And How to Stay Safe) | ThinkSimple | [Read More](https://medium.com/p/1ee7842b5745) |
 | Fri, 26 Dec 2025 12:25:17 GMT | ❤️ Kaspersky: The Antivirus I Keep Coming Back To ️ | Pramodh Casanova | [Read More](https://medium.com/p/1f4e59fd473f) |
-| Fri, 26 Dec 2025 12:24:50 GMT | IDEsaster: AI IDE Vulnerabilities Exploitation Guide 2025 | BBHunterpk | [Read More](https://medium.com/p/837a19376e58) |
-| Fri, 26 Dec 2025 12:16:40 GMT | Return to Sender: Auditing Printer Vulnerabilities in Active Directory | Nmullenski | [Read More](https://medium.com/p/5a93160be99d) |
-| Fri, 26 Dec 2025 12:12:40 GMT | Former Punjab IG Amar Singh Chahal Passes Away Amid Investigation Into ₹8.10 Crore Cyber Fraud | Himanshu Bhatt | [Read More](https://medium.com/p/92dd09cc9b60) |
-| Fri, 26 Dec 2025 12:11:22 GMT | How to Know If a Crypto Website Is Legit or a Scam (Step-by-Step Guide) | mehamed48 | [Read More](https://medium.com/p/d674924869d2) |
