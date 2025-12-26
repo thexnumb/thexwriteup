@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 09:18:27 GMT | Living Apart Together: Why This Modern Trend is the Secret to Healthy Romance Over 50 | Anna7904 | [Read More](https://medium.com/p/3615582e9438) |
+| Fri, 26 Dec 2025 09:15:31 GMT | HTB: BabyTwo — Medium Writeup | Maxwell Ferreira | [Read More](https://medium.com/p/aafb739f27b3) |
+| Fri, 26 Dec 2025 09:14:53 GMT | HackSmarter: ShareThePain | Persecure | [Read More](https://medium.com/p/a069d69fa5eb) |
+| Fri, 26 Dec 2025 09:09:46 GMT | WordPress Under Siege: Why 90,000 Daily Attacks Mean Your Site Needs Professional Protection Now | Abdul Mubin | [Read More](https://medium.com/p/4f634c60bbd0) |
+| Fri, 26 Dec 2025 09:04:49 GMT | Personal Browsing Gone Wild: XSS + IDOR in the Same Spot | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/6ab3e0ea6190) |
+| Fri, 26 Dec 2025 09:03:25 GMT | TryHackMe Compiled: Reverse Engineering a Tricky scanf Check | Ziya Shalbuzov | [Read More](https://medium.com/p/f587e29c394a) |
+| Fri, 26 Dec 2025 09:01:17 GMT | Fast, Reliable Protection Powered by Antivirus for Mac | Siyanoav | [Read More](https://medium.com/p/227c755c06c4) |
+| Fri, 26 Dec 2025 09:00:27 GMT | End User Activity in Business and the Information Technology Sector | Prince moradiya | [Read More](https://medium.com/p/3ea89f56a9fe) |
+| Fri, 26 Dec 2025 08:55:43 GMT | Top Security Service Provider in India: Delivering Advanced Security Solutions India Can Trust | Ciss India | [Read More](https://medium.com/p/1cd8cde8b05c) |
+| Fri, 26 Dec 2025 08:53:35 GMT | How We Built a Massive Online Game in Just One Night! | Suhas Dissanayake | [Read More](https://medium.com/p/24555b16487a) |
+| Fri, 26 Dec 2025 08:48:43 GMT | You study 3 hours a day and still feel like you’re not moving forward? | Denny Roger | [Read More](https://medium.com/p/da04b6dae753) |
+| Fri, 26 Dec 2025 08:47:09 GMT | May I Have This Dance | Michael | [Read More](https://medium.com/p/58b428ccf497) |
+| Fri, 26 Dec 2025 08:46:38 GMT | HTB: HackNet — Rompiendo Django | 3z-p0wn | [Read More](https://medium.com/p/0a032d8b3ca7) |
+| Fri, 26 Dec 2025 08:29:40 GMT | Common Tools Used by Ethical Hackers | Dkvilas | [Read More](https://medium.com/p/fbaac07ac2bb) |
 | Fri, 26 Dec 2025 08:15:05 GMT | Technical Debt Audit: Is Your Magento Site Held Together by “Quick Fixes”? | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/0bb05ac880f8) |
 | Fri, 26 Dec 2025 08:14:48 GMT | Mistakes I Made While Learning Cyber Security in 2025 (And What Finally Put Me on the Right Path) | JetkingChandigarh | [Read More](https://medium.com/p/dd49fd235261) |
 | Fri, 26 Dec 2025 08:13:28 GMT | Server-Side Request Forgery (SSRF): Detection, Impact, and Defense Bypass Techniques | Lakshay Nimwal | [Read More](https://medium.com/p/71787fe52db1) |
@@ -99,17 +113,3 @@ Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
 | Thu, 25 Dec 2025 22:34:55 GMT | Raising Privacy-Smart Kids In A Connected World | Geoffrey Wenger | [Read More](https://medium.com/p/650abe9caa35) |
 | Thu, 25 Dec 2025 22:34:48 GMT | Social Media Safety When Everything You Post Stays Forever | Geoffrey Wenger | [Read More](https://medium.com/p/468e1609bd7f) |
 | Thu, 25 Dec 2025 22:31:19 GMT | Personal journey for passing AWS Cloud Practitioner (CLF-C02)‍ | Stefano Sirtori | [Read More](https://medium.com/p/ccc77004b49c) |
-| Thu, 25 Dec 2025 22:29:32 GMT | Why Everything You Type into ChatGPT Can Be Easily Retrieved | Delanoe Pirard | [Read More](https://medium.com/p/7580e348b42d) |
-| Thu, 25 Dec 2025 22:12:28 GMT | ENS Is Not “The New DNS.” It Is a Parallel Naming Layer, and That Changes Security. | Enrique Somoza | [Read More](https://medium.com/p/d0d5a7824e97) |
-| Thu, 25 Dec 2025 22:09:35 GMT | The Windows Concept Journey — PowerShell Remoting | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e91e336dd6d7) |
-| Thu, 25 Dec 2025 21:48:43 GMT | TryHackMe Cyborg Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/e92f644231e5) |
-| Thu, 25 Dec 2025 21:37:46 GMT | The First SOC Shift Is a Lie (and What Actually Makes You Effective) | Kyler Kent CISSP | [Read More](https://medium.com/p/f13bab06f261) |
-| Thu, 25 Dec 2025 21:33:57 GMT | Altoro Mutual (demo.testfire.net)Mein Pentest Walkthrough | Spookz | [Read More](https://medium.com/p/9d25425383f1) |
-| Thu, 25 Dec 2025 21:12:02 GMT | Cyber Security — Frameworks for Systematically Stress-Testing AI Models Against Malicious… | Ankushguptamcd | [Read More](https://medium.com/p/0abab742ac84) |
-| Thu, 25 Dec 2025 20:52:21 GMT | How To Run Untrusted Code. | Alex Tatulchenkov | [Read More](https://medium.com/p/d0a26a2abf20) |
-| Thu, 25 Dec 2025 20:48:10 GMT | Teaching AI to Think Like a Security Guard: Zero Trust That Actually Learns | Hemangi | [Read More](https://medium.com/p/788294d51afd) |
-| Thu, 25 Dec 2025 20:44:15 GMT | This Is What Happens When You Expose a System to the Internet | Dentisystems | [Read More](https://medium.com/p/f5bcc897f35a) |
-| Thu, 25 Dec 2025 20:37:38 GMT | The Push for Space Mining: How Corporations Are Securing the Nation’s Future Through Robots, Suited… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/6b1de2b64d9e) |
-| Thu, 25 Dec 2025 20:24:39 GMT | The Ransomware Paradox: Why Cybercriminals Demand Bitcoin Over Monero Despite Superior Anonymity | Ilhan Hakan Ökcesiz | [Read More](https://medium.com/p/6097ce93c774) |
-| Thu, 25 Dec 2025 20:20:23 GMT | Libaray program tersemubunyi | Ego oktafanda | [Read More](https://medium.com/p/98d00543d5a9) |
-| Thu, 25 Dec 2025 20:17:48 GMT | TryHackMe Writeup: Chocolate Factory | Berkay AĞGÜL | [Read More](https://medium.com/p/55491c5c7f69) |
