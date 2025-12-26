@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 21:29:55 GMT | GitHub CI/CD: Action Jackson (Infinity Labs) — Write-up | Mudiuth | [Read More](https://medium.com/p/7a76eeba5f71) |
+| Fri, 26 Dec 2025 21:29:26 GMT | Designing Behavioral Rules for EDR: When There Is No Signature, Intelligence Speaks ️ | Esra Kayhan | [Read More](https://medium.com/p/6616042f441d) |
+| Fri, 26 Dec 2025 21:27:40 GMT | Managed IT Services in West Palm Beach Are About One Thing. Reducing Business Risk. | CompuWork | [Read More](https://medium.com/p/a04cdd16be33) |
+| Fri, 26 Dec 2025 21:22:48 GMT | DIY Security Hacks | C. L. Nichols, Author | [Read More](https://medium.com/p/13623bf34e04) |
+| Fri, 26 Dec 2025 21:22:47 GMT | Writing Custom Parsers in SIEM: The Art of Truly Understanding Logs | Esra Kayhan | [Read More](https://medium.com/p/caf92e936153) |
+| Fri, 26 Dec 2025 21:15:43 GMT | Northpole Data Breach | northpolesysadmin | [Read More](https://medium.com/p/1a972490b685) |
 | Fri, 26 Dec 2025 21:09:15 GMT | The Future of Libraries: Intellectual Havens for Lost Youth? | Rich Crawford | [Read More](https://medium.com/p/091726aa1eec) |
 | Fri, 26 Dec 2025 20:47:30 GMT | How Cybercrime, Fintech, and Banks Are Reshaping Financial Security | OluwapelumiOyerinde | [Read More](https://medium.com/p/017cb9b4a008) |
 | Fri, 26 Dec 2025 20:45:06 GMT | Multi-Cloud DevOps with Generative AI | InsureTech Skills | [Read More](https://medium.com/p/8835ed853ba4) |
@@ -107,9 +113,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 12:49:09 GMT | Breaking The Registration Flow : A Pre-account Takeover Vulnerability | Fuzzyy Duck | [Read More](https://medium.com/p/6cd95414148a) |
 | Fri, 26 Dec 2025 12:46:39 GMT | I Exploited n8n vulnerability CVE:2025–68316 tryhackme walkthrough | Mainekhacker | [Read More](https://medium.com/p/060d3831736c) |
 | Fri, 26 Dec 2025 12:46:17 GMT | Will AI Make Leaders Obsolete or Finally Make Them Matter More? | Aravind Sakthivel | [Read More](https://medium.com/p/370bb11db009) |
-| Fri, 26 Dec 2025 12:46:08 GMT | The “Invisible Security Debt” No One Is Tracking — And Why Your Next Breach Will Come From It | Divyesh Jagad | [Read More](https://medium.com/p/6e432ab23251) |
-| Fri, 26 Dec 2025 12:44:37 GMT | Mail Gateways: Architecture, Functions, and Strategic Importance | Meravytes | [Read More](https://medium.com/p/d52f600a5a8c) |
-| Fri, 26 Dec 2025 12:43:55 GMT | ADB (Android Debug Bridge) — The Ultimate Cheat Sheet for Developers | Zaid Bin Ahmad | [Read More](https://medium.com/p/d3af4863fa81) |
-| Fri, 26 Dec 2025 12:40:54 GMT | How Wi-Fi Attacks Work: Understanding Wireless Threats | TheCyberNirvana | [Read More](https://medium.com/p/417a18f64f0d) |
-| Fri, 26 Dec 2025 12:27:25 GMT | Top Cybersecurity Threats to Watch in 2026 (And How to Stay Safe) | ThinkSimple | [Read More](https://medium.com/p/1ee7842b5745) |
-| Fri, 26 Dec 2025 12:25:17 GMT | ❤️ Kaspersky: The Antivirus I Keep Coming Back To ️ | Pramodh Casanova | [Read More](https://medium.com/p/1f4e59fd473f) |
