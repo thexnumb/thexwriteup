@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 03:16:43 GMT | 40+ Women: Stop These 3 Money Habits Killing Your Future Happiness | Rebecca Brown | [Read More](https://medium.com/p/a3cc56d76669) |
+| Fri, 26 Dec 2025 02:44:42 GMT | Ukraine’s Bold 20-Point Peace Plan: A Step Toward Lasting Security and Sovereignty | Vonnie E James™ | [Read More](https://medium.com/p/617cbe134621) |
+| Fri, 26 Dec 2025 02:35:56 GMT | Routers, IP Addresses, and Enumeration: A Beginner-Friendly Guide to Ethical Hacking | blackey07 | [Read More](https://medium.com/p/2b2cd62c40df) |
+| Fri, 26 Dec 2025 02:07:29 GMT | Cybersecurity in Banking System | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/299e5badd29b) |
+| Fri, 26 Dec 2025 02:04:57 GMT | Running GlusterFS in Kubernetes Without Privileged Containers: A Security Team’s Dream | Vigneshvar A S | [Read More](https://medium.com/p/ea872c4d8624) |
+| Fri, 26 Dec 2025 02:04:55 GMT | Cicada — Active Directory Lab Write-Up! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/0c848859cce9) |
+| Fri, 26 Dec 2025 01:59:44 GMT | MT-RJ Connector | Hardeep Kaur | [Read More](https://medium.com/p/63241456b4f8) |
+| Fri, 26 Dec 2025 01:56:41 GMT | “Son Sells Old Home for New, Mother’s Dying Words Reveal Hidden Fortune, Family in Tears” | kate spider | [Read More](https://medium.com/p/50874d44c9a1) |
+| Fri, 26 Dec 2025 01:47:10 GMT | Natal de 1994: IP Spoofing e o nascimento de um mito | Giuliano Cardozo | [Read More](https://medium.com/p/3b2184cfdbe5) |
 | Fri, 26 Dec 2025 01:42:19 GMT | I Blocked Them, But They Could Still See Me: A Simple Privacy Logic Flaw | default_0x | [Read More](https://medium.com/p/110486963182) |
 | Fri, 26 Dec 2025 01:38:29 GMT | Exploiting WebSocket Information Disclosure to Achieve Account Deletion (IDOR) | Waleed Osama | [Read More](https://medium.com/p/cc5e180632b3) |
 | Fri, 26 Dec 2025 01:12:21 GMT | Recontextualizing Security+: From Certification to ISMS Practice | Chenyang Zhai | [Read More](https://medium.com/p/7e5cc9823bf4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 15:46:41 GMT | Understanding CVE-2025-68613: A Critical n8n Vulnerability Triggering RCE | Andis Paudel | [Read More](https://medium.com/p/6e59c2936f65) |
 | Thu, 25 Dec 2025 15:46:19 GMT | CrowdStrike vs Microsoft Defender: Who Leads EDR/XDR Into 2026? | Wes Young | [Read More](https://medium.com/p/7d4803b2da24) |
 | Thu, 25 Dec 2025 15:46:18 GMT | When Browsers Decide for You | Decentr | [Read More](https://medium.com/p/1746405c40da) |
-| Thu, 25 Dec 2025 15:46:10 GMT | BUG Airdrop Guide — Claim Tokens Now!  [December 2025] | cboegm43 | [Read More](https://medium.com/p/9dc8136ba01b) |
-| Thu, 25 Dec 2025 15:36:30 GMT | Burp Suite Web Trafiğinin Hakimi Olmak! OS Command Injection ️‍♂️️ | Onur Altuğ | [Read More](https://medium.com/p/898e985d8afe) |
-| Thu, 25 Dec 2025 15:31:19 GMT | Escalate GCP privileges with Implicit Delegation : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/1c8cd68b1581) |
-| Thu, 25 Dec 2025 15:24:20 GMT | Looking Beyond Bugs: Finding Design Flaws in Modern Applications | Afi0pchik | [Read More](https://medium.com/p/d42dae47775f) |
-| Thu, 25 Dec 2025 15:23:00 GMT | Information, Reality, and Human Thought | James Kreis | [Read More](https://medium.com/p/4f84f754c3d5) |
-| Thu, 25 Dec 2025 15:21:30 GMT | ZeroID: Reclaiming Privacy in Web Authentication with Zero-Knowledge Proofs | Omar Ait Ben Iyche | [Read More](https://medium.com/p/fcfe8c455907) |
-| Thu, 25 Dec 2025 15:18:24 GMT | OSINT for Law Enforcement | Abdul Mubin | [Read More](https://medium.com/p/73dee05e6336) |
-| Thu, 25 Dec 2025 15:07:34 GMT | Governance by Legal State System | Marcelo Filho | [Read More](https://medium.com/p/b632cea64c00) |
-| Thu, 25 Dec 2025 15:06:28 GMT | Bug Bounty Isn’t About Tools — It’s About Thinking Like the App | Iski | [Read More](https://medium.com/p/43b553f1786b) |
