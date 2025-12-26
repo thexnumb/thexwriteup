@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 07:07:06 GMT | Network Security Certification with Practical Labs | Manisha Chaudhary | [Read More](https://medium.com/p/121de469a3a2) |
+| Fri, 26 Dec 2025 07:05:48 GMT | n8n: CVE-2025–68613 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/f85e65222493) |
+| Fri, 26 Dec 2025 06:57:38 GMT | PortSwigger - SSRF with whitelist-based input filter | Marvin | [Read More](https://medium.com/p/7d28b27883ea) |
+| Fri, 26 Dec 2025 06:52:57 GMT | Top 10 Backup Abuse Techniques for Privilege Escalation: Learn How Real Attacks Happen | Very Lazy Tech | [Read More](https://medium.com/p/d52af154fb78) |
+| Fri, 26 Dec 2025 06:49:24 GMT | CSRF, Cookies, and Bearer Tokens: What to Use, When, and Why Most Apps Get It Wrong | Rifat | [Read More](https://medium.com/p/76ddd791946b) |
+| Fri, 26 Dec 2025 06:38:48 GMT | Information Technology coursesInformation Technology courses | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/71850f96e16f) |
+| Fri, 26 Dec 2025 06:37:31 GMT | QUALIFI Level 5 Diploma in Cyber Security | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/b0f0b2f29c23) |
 | Fri, 26 Dec 2025 06:34:19 GMT | TryHackMe Cryptography Basics Walkthrough | Ufuk Yaman | [Read More](https://medium.com/p/d6497ddee075) |
 | Fri, 26 Dec 2025 06:34:10 GMT | How I Would Learn Cybersecurity If I Had to Start All Over Today | Motasem Hamdan | [Read More](https://medium.com/p/3e9aae0e0157) |
 | Fri, 26 Dec 2025 06:33:46 GMT | Tải Hack 99 Night In The Forest APK + Script (Auto Win, Kill Aura) v2.702 | Apkpuredev | [Read More](https://medium.com/p/497f5fb23920) |
@@ -106,10 +113,3 @@ Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
 | Thu, 25 Dec 2025 18:42:06 GMT | Modern Industrial Protocols: PROFINET, EtherNet/IP, OPC-UA, and IEC 61850 | urjasec | [Read More](https://medium.com/p/9bea660d9c1d) |
 | Thu, 25 Dec 2025 18:36:49 GMT | The Backdoor We Built Ourselves | Erik Cota-Robles | [Read More](https://medium.com/p/250ea893b71d) |
 | Thu, 25 Dec 2025 18:34:13 GMT | Easy Peasy : Challenge WriteUp TryHackMe | theOrthodox | [Read More](https://medium.com/p/13c72583ece9) |
-| Thu, 25 Dec 2025 18:32:13 GMT | Django + HTMX File Uploads: Drag-Drop, Progress Bars, and Async Processing Pipelines | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/230a2694dabb) |
-| Thu, 25 Dec 2025 18:30:26 GMT | Easy Peasy : Challenge WriteUp TryHackMe | theOrthodox | [Read More](https://medium.com/p/6c0043d79558) |
-| Thu, 25 Dec 2025 18:28:35 GMT | Network Nedir? Temel Ağ Türleri ve Topolojiler (Siber Güvenlik Serisi — 1) | Berra Meryem | [Read More](https://medium.com/p/b04d525845cd) |
-| Thu, 25 Dec 2025 18:27:53 GMT | Hybrid Design Patterns:Factory+Strategy(That Most People Don’t Know) | Jitin Kayyala | [Read More](https://medium.com/p/4bc4bb3993f5) |
-| Thu, 25 Dec 2025 18:18:34 GMT | AI-Driven Industrial Surveillance: Boosting Safety and Efficiency in Smart Factories | Dolon Ghosh | [Read More](https://medium.com/p/11c4cfd10dd0) |
-| Thu, 25 Dec 2025 18:17:52 GMT | AI in Cloud Security: Identifying Breaches Before They Spread | Sabit Chandwale | [Read More](https://medium.com/p/c5a3cb220d8b) |
-| Thu, 25 Dec 2025 18:16:05 GMT | Client-Side Surveillance: why hiding is getting impossible. | Aras Darweesh | [Read More](https://medium.com/p/f3eead7e4626) |
