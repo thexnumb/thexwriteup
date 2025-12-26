@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 19:32:12 GMT | The Iran–US–Israel System | PYURA ANSHUMAN | [Read More](https://medium.com/p/59ead2240ab3) |
+| Fri, 26 Dec 2025 19:18:43 GMT | When OTP Forgets Who You Are | Viratavi | [Read More](https://medium.com/p/998e564597d2) |
 | Fri, 26 Dec 2025 18:41:12 GMT | Cybersecurity Checklist for Small Businesses (Practical & Actionable) | Security-in-a-Box | [Read More](https://medium.com/p/087048960f08) |
 | Fri, 26 Dec 2025 18:36:07 GMT | What Is Product Security? (Explained Like You’re Talking to a Friend ☕) | Ayan bhowal | [Read More](https://medium.com/p/185293dd1836) |
 | Fri, 26 Dec 2025 18:32:16 GMT | Smol — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/e6531ff428eb) |
@@ -111,5 +113,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 11:56:19 GMT | What Healing Looks Like When No One Is Watching | Inspire: Viva La Vida | [Read More](https://medium.com/p/f95f3da81af3) |
 | Fri, 26 Dec 2025 11:55:34 GMT | The Night My Instagram Got Hacked: A Wake-Up Call | Devarshi Acharya | [Read More](https://medium.com/p/326451d8faa1) |
 | Fri, 26 Dec 2025 11:50:22 GMT | A founder lost $1 million in pipeline last year.Why Enterprise Deals Keep Dying in Security Review. | Yogeshwar Tanwar | [Read More](https://medium.com/p/91eef7d2280d) |
-| Fri, 26 Dec 2025 11:45:24 GMT | Password Managers: Why You Need One More Than Ever | Little_Sun4lower | [Read More](https://medium.com/p/a13fa467dba6) |
-| Fri, 26 Dec 2025 11:44:56 GMT | How Long Does It Take to Become an X-Ray Technician? Full Timeline Guide | Motherlandlove | [Read More](https://medium.com/p/dbdbd352b5e2) |
