@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 09:38:54 GMT | Startup Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/854a4cf87d83) |
+| Fri, 26 Dec 2025 09:32:21 GMT | TCP Challenges — Part 4: Uncompress Me! - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/675528bad4e8) |
+| Fri, 26 Dec 2025 09:28:19 GMT | Hack Smarter AD Challenge Lab: BuildingMagic | Milos Skalusevic | [Read More](https://medium.com/p/5c9e77887b05) |
+| Fri, 26 Dec 2025 09:25:49 GMT | The Architecture of Illusion: Why the Search for Late-Life Romance Can Lead to the “Pig-Butchering”… | Anna7904 | [Read More](https://medium.com/p/67bef1562850) |
+| Fri, 26 Dec 2025 09:24:21 GMT | Project Title: Gaining Root Access on Metasploitable2 Using Metasploit | Mujahid Hasan | [Read More](https://medium.com/p/9f29e37c2e99) |
+| Fri, 26 Dec 2025 09:21:57 GMT | Stop Creating New Passwords. Just Click “Sign in with Google.”? | Maleeshavidurath | [Read More](https://medium.com/p/03134ae3dbc6) |
 | Fri, 26 Dec 2025 09:18:27 GMT | Living Apart Together: Why This Modern Trend is the Secret to Healthy Romance Over 50 | Anna7904 | [Read More](https://medium.com/p/3615582e9438) |
 | Fri, 26 Dec 2025 09:15:31 GMT | HTB: BabyTwo — Medium Writeup | Maxwell Ferreira | [Read More](https://medium.com/p/aafb739f27b3) |
 | Fri, 26 Dec 2025 09:14:53 GMT | HackSmarter: ShareThePain | Persecure | [Read More](https://medium.com/p/a069d69fa5eb) |
@@ -107,9 +113,3 @@ Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
 | Thu, 25 Dec 2025 23:22:46 GMT | Unmasking a Fresh “Econt” Phishing Campaign: A Technical Deep-Dive | devmihaylov | [Read More](https://medium.com/p/b01f040ec4a6) |
 | Thu, 25 Dec 2025 23:11:05 GMT | THM AOC 2025 Day 17 CyberChef — Hoperation Save McSkidy | Kody | [Read More](https://medium.com/p/e88854cd4558) |
 | Thu, 25 Dec 2025 23:00:33 GMT | Broken Access Control in a very simple way | YYY_420 | [Read More](https://medium.com/p/e4ce3f2b5111) |
-| Thu, 25 Dec 2025 23:00:25 GMT | Daily Security Tips Series | Amira | [Read More](https://medium.com/p/c769dbdd53cf) |
-| Thu, 25 Dec 2025 22:44:12 GMT | Building an AI SOC Analyst Agent with Splunk MCP, LangChain, and LangGraph | Omar Santos | [Read More](https://medium.com/p/22847005eaf1) |
-| Thu, 25 Dec 2025 22:37:59 GMT | DNS’ten WAF’a: İnternetin Milisaniyelik Serüveni | Zeynep Yalçın | [Read More](https://medium.com/p/a44f268212f2) |
-| Thu, 25 Dec 2025 22:34:55 GMT | Raising Privacy-Smart Kids In A Connected World | Geoffrey Wenger | [Read More](https://medium.com/p/650abe9caa35) |
-| Thu, 25 Dec 2025 22:34:48 GMT | Social Media Safety When Everything You Post Stays Forever | Geoffrey Wenger | [Read More](https://medium.com/p/468e1609bd7f) |
-| Thu, 25 Dec 2025 22:31:19 GMT | Personal journey for passing AWS Cloud Practitioner (CLF-C02)‍ | Stefano Sirtori | [Read More](https://medium.com/p/ccc77004b49c) |
