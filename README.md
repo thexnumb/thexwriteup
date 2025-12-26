@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 11:36:59 GMT | Why AI Bubble Narratives Keep Winning, Even When the Technology Keeps Working | Aravind Sakthivel | [Read More](https://medium.com/p/1d9b939e335d) |
+| Fri, 26 Dec 2025 11:34:54 GMT | How Security Guard Services Improve Customer Confidence and Trust | NY NightLife Security | [Read More](https://medium.com/p/f7a684a64760) |
+| Fri, 26 Dec 2025 11:32:24 GMT | Tech Ethics Through a Professional Lens | HAMZA NASEEM | [Read More](https://medium.com/p/3275dd7368c3) |
+| Fri, 26 Dec 2025 11:29:38 GMT | “Low Volume” Trap: Why I Hate Trading During Holidays | MayaKovic | [Read More](https://medium.com/p/b8d694729460) |
+| Fri, 26 Dec 2025 11:28:09 GMT | JUF launches ‘Live Secure Chicago’- Michael Zaransky [Chicago, IL] | Michael Zaransky | [Read More](https://medium.com/p/962bbdee42e0) |
+| Fri, 26 Dec 2025 11:22:18 GMT | Life felt easier when i was certain | Rahul Gupta | [Read More](https://medium.com/p/1a818e710d16) |
+| Fri, 26 Dec 2025 11:18:51 GMT | Cybersecurity Risk Assessment Training for IT Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/9ada065eb441) |
+| Fri, 26 Dec 2025 11:16:39 GMT | I Audited My Chrome Extensions and Realized How Easy Silent Data Theft Has Become | Muhammad Hassan Ali | [Read More](https://medium.com/p/c749bd65d832) |
+| Fri, 26 Dec 2025 11:13:38 GMT | Breaking Down Cross-Site Scripting (XSS) Using DVWA | Mohamed Lebbie | [Read More](https://medium.com/p/09e4c648fa4f) |
+| Fri, 26 Dec 2025 11:09:36 GMT | Understanding SYN Flooding Attack | Jimitpatel | [Read More](https://medium.com/p/2388ba328aca) |
 | Fri, 26 Dec 2025 11:04:06 GMT | Configure your first virtual router(pfSense)- simulate attack with virtual machines. | Mohamed Aamir Khan | [Read More](https://medium.com/p/85c5a7caff46) |
 | Fri, 26 Dec 2025 11:03:57 GMT | HexStrike + Gemini vs. HackerAI: “Ops Copilot” vs. “Chatbot with Tools” | Andrey Pautov | [Read More](https://medium.com/p/1d799845410b) |
 | Fri, 26 Dec 2025 11:00:33 GMT | Best Year-End Cybersecurity Deals for Beginners and Advanced Learners | cyber security Updates | [Read More](https://medium.com/p/79c79bf76eba) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 05:40:02 GMT | I Completed Advent of Cyber 2025 — Here’s a Day-by-Day Cybersecurity Playbook (24 Labs) | Fazal | [Read More](https://medium.com/p/249ac01f16bc) |
 | Fri, 26 Dec 2025 05:31:47 GMT | Cyber Security Books | Abdul Majid Jamil | [Read More](https://medium.com/p/302400fddb67) |
 | Fri, 26 Dec 2025 05:16:52 GMT | Securing a Kenyan SACCO from Zero [Part 5 of 6] | Munaniadeno | [Read More](https://medium.com/p/e6ed92b28dc2) |
-| Fri, 26 Dec 2025 05:13:15 GMT | The Infinite Jukebox: Inside the 300TB Heist That Archived Spotify | Rakibul Hasan Sagor | [Read More](https://medium.com/p/47bf508b5ca1) |
-| Fri, 26 Dec 2025 05:09:31 GMT | Cybersecurity for Critical Infrastructure Is Not an IT Problem — It’s a National Risk
-Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
-| Fri, 26 Dec 2025 05:02:23 GMT | The Human Element in Cybersecurity: Building a Security-First Culture | F9 Infotech | [Read More](https://medium.com/p/b30bc80284c3) |
-| Fri, 26 Dec 2025 05:01:39 GMT | Building a Canada–Nigeria Innovation Bridge: The Legacy of Anslem Eromobor and Altium360 | Anslem Eromobor | [Read More](https://medium.com/p/86b40d78aaaa) |
-| Fri, 26 Dec 2025 04:47:04 GMT | How to Manage Multiple Pinterest Accounts Safely (2026 Guide) | HashRipple | [Read More](https://medium.com/p/5c0010ade25b) |
-| Fri, 26 Dec 2025 04:42:35 GMT | DMZ (Demilitarized Zone) Explained from the Internet | Chandra Shekar S | [Read More](https://medium.com/p/76c454e74a8a) |
-| Fri, 26 Dec 2025 04:33:34 GMT | Vibrant Living in the Digital Age: Why Digital Safety Is the New Secret to Longevity & the Silver… | All About Seniors | [Read More](https://medium.com/p/a4cd06c17f1e) |
-| Fri, 26 Dec 2025 04:29:42 GMT | Cybersecurity Risk Management: A Strategic Imperative for Modern Enterprises | Priyansh Shah | [Read More](https://medium.com/p/af6670e3685c) |
-| Fri, 26 Dec 2025 04:25:04 GMT | The Windows Event IDs Every Cybersecurity Professional Must Know | Raymond Ebonine | [Read More](https://medium.com/p/5003c9543a89) |
-| Fri, 26 Dec 2025 04:21:37 GMT | WebSocket Misconfiguration Leading to DOM Manipulation and Denial of Service in a Web Chat… | Waleed Osama | [Read More](https://medium.com/p/c8a0c8c30a19) |
