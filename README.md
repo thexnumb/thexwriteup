@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 10:20:38 GMT | How Cybersecurity Consulting Firms Customise Security for Your Business | SmartCLOUD Australia | [Read More](https://medium.com/p/ccf6972acc67) |
+| Fri, 26 Dec 2025 10:16:21 GMT | Kullanıcı ve Grup Yönetimi (User & Group Management) | g.o. | [Read More](https://medium.com/p/bf7b9f99ecc7) |
+| Fri, 26 Dec 2025 10:14:42 GMT | Web Application Penetration Testing for Secure Systems | Application Security Master | [Read More](https://medium.com/p/8e2cecad0c03) |
+| Fri, 26 Dec 2025 10:06:56 GMT | Coding, Sleep, and Cognitive Integrity | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/821c75b8e28a) |
+| Fri, 26 Dec 2025 10:04:29 GMT | Why Cybersecurity Has Become Cyber‑Insecurity in 2025. | Campo Sette | [Read More](https://medium.com/p/744c536aabfb) |
+| Fri, 26 Dec 2025 10:02:40 GMT | What is BOLA? Explained in Simple Terms | Vitali Brunovski | [Read More](https://medium.com/p/752eba663b02) |
+| Fri, 26 Dec 2025 09:58:40 GMT | Most Useful Linux commands. EveryOne should know. | Bilal Nasir | [Read More](https://medium.com/p/e700d82e5eac) |
+| Fri, 26 Dec 2025 09:57:55 GMT | Why Enterprises Need Privileged Access Management (PAM) for Admin Accounts | Deependrasingh kushvaha | [Read More](https://medium.com/p/b1b57e0ba9d7) |
+| Fri, 26 Dec 2025 09:55:47 GMT | A Day in the Life of a SOC Analyst Aspirant. | Avani Bhoot | [Read More](https://medium.com/p/3044b0d183b5) |
+| Fri, 26 Dec 2025 09:54:28 GMT | The Death of Cold Storage: Why Gideon Cohen Says MPC Is the Only Way Forward | Gideon Cohen | [Read More](https://medium.com/p/7bc8ab51d358) |
+| Fri, 26 Dec 2025 09:53:29 GMT | When AI Fabricates Institutional Malice: Creating Conspiracy theories and Hallucinated Government… | Berend Watchus | [Read More](https://medium.com/p/38dd3ab5216d) |
+| Fri, 26 Dec 2025 09:52:21 GMT | BMW’s Roundel Screws to Vendor Tentacles: The Art of Making Customers Captive | Namir Sagheenanajar | [Read More](https://medium.com/p/1b966f37c83c) |
+| Fri, 26 Dec 2025 09:48:33 GMT | Wifi hackingHow Hackers Use Evil Limiter for Full WiFi Control | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/fae100751d90) |
 | Fri, 26 Dec 2025 09:38:54 GMT | Startup Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/854a4cf87d83) |
+| Fri, 26 Dec 2025 09:37:26 GMT | Basic Kali Linux Commands Every Cyber Security Student Should Know | Namratamali | [Read More](https://medium.com/p/6af2fed94746) |
 | Fri, 26 Dec 2025 09:32:21 GMT | TCP Challenges — Part 4: Uncompress Me! - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/675528bad4e8) |
 | Fri, 26 Dec 2025 09:28:19 GMT | Hack Smarter AD Challenge Lab: BuildingMagic | Milos Skalusevic | [Read More](https://medium.com/p/5c9e77887b05) |
 | Fri, 26 Dec 2025 09:25:49 GMT | The Architecture of Illusion: Why the Search for Late-Life Romance Can Lead to the “Pig-Butchering”… | Anna7904 | [Read More](https://medium.com/p/67bef1562850) |
@@ -28,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 09:00:27 GMT | End User Activity in Business and the Information Technology Sector | Prince moradiya | [Read More](https://medium.com/p/3ea89f56a9fe) |
 | Fri, 26 Dec 2025 08:55:43 GMT | Top Security Service Provider in India: Delivering Advanced Security Solutions India Can Trust | Ciss India | [Read More](https://medium.com/p/1cd8cde8b05c) |
 | Fri, 26 Dec 2025 08:53:35 GMT | How We Built a Massive Online Game in Just One Night! | Suhas Dissanayake | [Read More](https://medium.com/p/24555b16487a) |
+| Fri, 26 Dec 2025 08:49:33 GMT | What Practices You Should Use When Choosing a Password. | Ali Hamza | [Read More](https://medium.com/p/b4d0d17ab75b) |
 | Fri, 26 Dec 2025 08:48:43 GMT | You study 3 hours a day and still feel like you’re not moving forward? | Denny Roger | [Read More](https://medium.com/p/da04b6dae753) |
 | Fri, 26 Dec 2025 08:47:09 GMT | May I Have This Dance | Michael | [Read More](https://medium.com/p/58b428ccf497) |
 | Fri, 26 Dec 2025 08:46:38 GMT | HTB: HackNet — Rompiendo Django | 3z-p0wn | [Read More](https://medium.com/p/0a032d8b3ca7) |
@@ -98,18 +113,3 @@ Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
 | Fri, 26 Dec 2025 02:04:55 GMT | Cicada — Active Directory Lab Write-Up! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/0c848859cce9) |
 | Fri, 26 Dec 2025 01:59:44 GMT | MT-RJ Connector | Hardeep Kaur | [Read More](https://medium.com/p/63241456b4f8) |
 | Fri, 26 Dec 2025 01:56:41 GMT | “Son Sells Old Home for New, Mother’s Dying Words Reveal Hidden Fortune, Family in Tears” | kate spider | [Read More](https://medium.com/p/50874d44c9a1) |
-| Fri, 26 Dec 2025 01:47:10 GMT | Natal de 1994: IP Spoofing e o nascimento de um mito | Giuliano Cardozo | [Read More](https://medium.com/p/3b2184cfdbe5) |
-| Fri, 26 Dec 2025 01:42:19 GMT | I Blocked Them, But They Could Still See Me: A Simple Privacy Logic Flaw | default_0x | [Read More](https://medium.com/p/110486963182) |
-| Fri, 26 Dec 2025 01:38:29 GMT | Exploiting WebSocket Information Disclosure to Achieve Account Deletion (IDOR) | Waleed Osama | [Read More](https://medium.com/p/cc5e180632b3) |
-| Fri, 26 Dec 2025 01:12:21 GMT | Recontextualizing Security+: From Certification to ISMS Practice | Chenyang Zhai | [Read More](https://medium.com/p/7e5cc9823bf4) |
-| Fri, 26 Dec 2025 01:05:49 GMT | You Will Never See Me Break | KV | [Read More](https://medium.com/p/2a201d3f444d) |
-| Fri, 26 Dec 2025 01:04:29 GMT | Title: Architecting the Digital Future of Iraq: The Journey of Aryan Ali and Aryan Tech | Aryan Tech | [Read More](https://medium.com/p/3dce467e7210) |
-| Fri, 26 Dec 2025 00:56:08 GMT | NEEDS AWARENESS! | Jason Scott Oruska | [Read More](https://medium.com/p/59084b74fd3e) |
-| Fri, 26 Dec 2025 00:33:19 GMT | Google Dork and OSINT: Discovering Exposed Systems Through Search Engines | isaergisi | [Read More](https://medium.com/p/40a5719c21db) |
-| Fri, 26 Dec 2025 00:15:18 GMT | The Pressure Release: Bleeding the Lines of the Soul | The Rear View by Murtaza | [Read More](https://medium.com/p/cb6fde60c056) |
-| Fri, 26 Dec 2025 00:09:23 GMT | Digital Ethiopia 2030: Building Skyscrapers on Quicksand? | Abebebe Diro (PhD) | [Read More](https://medium.com/p/b7b62b5d733c) |
-| Fri, 26 Dec 2025 00:02:24 GMT | Tcpdump: Your Command-Line Packet Sniffing Superpower | Cybersecurity Simplified | [Read More](https://medium.com/p/86e35e0ecac0) |
-| Thu, 25 Dec 2025 23:51:31 GMT | Why Vulnerability Severity Is Not Risk: Inside Modern Vulnerability Management | Matthewguadron | [Read More](https://medium.com/p/641475d0d858) |
-| Thu, 25 Dec 2025 23:22:46 GMT | Unmasking a Fresh “Econt” Phishing Campaign: A Technical Deep-Dive | devmihaylov | [Read More](https://medium.com/p/b01f040ec4a6) |
-| Thu, 25 Dec 2025 23:11:05 GMT | THM AOC 2025 Day 17 CyberChef — Hoperation Save McSkidy | Kody | [Read More](https://medium.com/p/e88854cd4558) |
-| Thu, 25 Dec 2025 23:00:33 GMT | Broken Access Control in a very simple way | YYY_420 | [Read More](https://medium.com/p/e4ce3f2b5111) |
