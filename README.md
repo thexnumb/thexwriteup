@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 05:16:52 GMT | Securing a Kenyan SACCO from Zero [Part 5 of 6] | Munaniadeno | [Read More](https://medium.com/p/e6ed92b28dc2) |
+| Fri, 26 Dec 2025 05:13:15 GMT | The Infinite Jukebox: Inside the 300TB Heist That Archived Spotify | Rakibul Hasan Sagor | [Read More](https://medium.com/p/47bf508b5ca1) |
+| Fri, 26 Dec 2025 05:09:31 GMT | Cybersecurity for Critical Infrastructure Is Not an IT Problem — It’s a National Risk
+Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
+| Fri, 26 Dec 2025 05:02:23 GMT | The Human Element in Cybersecurity: Building a Security-First Culture | F9 Infotech | [Read More](https://medium.com/p/b30bc80284c3) |
+| Fri, 26 Dec 2025 05:01:39 GMT | Building a Canada–Nigeria Innovation Bridge: The Legacy of Anslem Eromobor and Altium360 | Anslem Eromobor | [Read More](https://medium.com/p/86b40d78aaaa) |
 | Fri, 26 Dec 2025 04:47:04 GMT | How to Manage Multiple Pinterest Accounts Safely (2026 Guide) | HashRipple | [Read More](https://medium.com/p/5c0010ade25b) |
 | Fri, 26 Dec 2025 04:42:35 GMT | DMZ (Demilitarized Zone) Explained from the Internet | Chandra Shekar S | [Read More](https://medium.com/p/76c454e74a8a) |
 | Fri, 26 Dec 2025 04:33:34 GMT | Vibrant Living in the Digital Age: Why Digital Safety Is the New Secret to Longevity & the Silver… | All About Seniors | [Read More](https://medium.com/p/a4cd06c17f1e) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 17:16:00 GMT | AWS Advent Calendar 2025 — Days 16–20 | Ihor Sasovets | [Read More](https://medium.com/p/8dca030c6fea) |
 | Thu, 25 Dec 2025 17:05:23 GMT | *"The House That Breathed"* | Sakhi Writes | [Read More](https://medium.com/p/857b5eaf5715) |
 | Thu, 25 Dec 2025 17:04:56 GMT | Analyzing Network Packets with Wireshark | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/b1c812af4b4c) |
-| Thu, 25 Dec 2025 17:02:19 GMT | LE Baby Step 3: Stack Overflow 2 | BenGabay | [Read More](https://medium.com/p/5b1c13dca8cb) |
-| Thu, 25 Dec 2025 17:00:26 GMT | AWS Advent Calendar 2025 — Days 11–15 | Ihor Sasovets | [Read More](https://medium.com/p/580c06c65b59) |
-| Thu, 25 Dec 2025 16:57:12 GMT | Fake MAS Windows Activation Domain Used to Spread PowerShell Malware | Technijian | [Read More](https://medium.com/p/27deb86018b2) |
-| Thu, 25 Dec 2025 16:53:02 GMT | RAZOR TRYHACKME ACTIVE DIRECTORY | MrKouk | [Read More](https://medium.com/p/d862ed563b07) |
-| Thu, 25 Dec 2025 16:50:32 GMT | Horizontal Privilege Escalation via IDOR: Viewing, Editing and Deleting | Parth Narula | [Read More](https://medium.com/p/b10936ad4eb1) |
