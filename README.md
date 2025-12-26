@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 13:23:44 GMT | Severe n8n Security Bug (CVSS 9.9) Opens the Door to Remote Code Execution on Thousands of Systems | Rohit.nex | [Read More](https://medium.com/p/b462ea3e486e) |
+| Fri, 26 Dec 2025 13:16:01 GMT | Premier Manned Guarding: Ensuring Reliable Security for Offices, Factories, and Sites | RAXA Techno Security Solutions | [Read More](https://medium.com/p/f442301cbc6a) |
+| Fri, 26 Dec 2025 13:15:20 GMT | What Broke First When Our Traffic Doubled Overnight | CodeTalks | [Read More](https://medium.com/p/817400bf127d) |
+| Fri, 26 Dec 2025 13:10:22 GMT | TryHackMe - n8n: CVE-2025-68613 - WriteUp | Axoloth | [Read More](https://medium.com/p/6412d7096d4c) |
+| Fri, 26 Dec 2025 13:08:18 GMT | Install & Use Volatility 3 for Memory Forensics | 0xRahuL | [Read More](https://medium.com/p/4fa813b0fab1) |
+| Fri, 26 Dec 2025 13:04:44 GMT | n8n: CVE-2025–68613 - TryHackMe | Md Amjad | [Read More](https://medium.com/p/0fcbe6bd0868) |
+| Fri, 26 Dec 2025 13:02:13 GMT | NGINX Ingress: The End of an Era | Prasad Wani | [Read More](https://medium.com/p/718e0d4191c9) |
+| Fri, 26 Dec 2025 12:49:09 GMT | Breaking The Registration Flow : A Pre-account Takeover Vulnerability | Fuzzyy Duck | [Read More](https://medium.com/p/6cd95414148a) |
+| Fri, 26 Dec 2025 12:46:39 GMT | I Exploited n8n vulnerability CVE:2025–68316 tryhackme walkthrough | Mainekhacker | [Read More](https://medium.com/p/060d3831736c) |
 | Fri, 26 Dec 2025 12:46:17 GMT | Will AI Make Leaders Obsolete or Finally Make Them Matter More? | Aravind Sakthivel | [Read More](https://medium.com/p/370bb11db009) |
 | Fri, 26 Dec 2025 12:46:08 GMT | The “Invisible Security Debt” No One Is Tracking — And Why Your Next Breach Will Come From It | Divyesh Jagad | [Read More](https://medium.com/p/6e432ab23251) |
+| Fri, 26 Dec 2025 12:44:37 GMT | Mail Gateways: Architecture, Functions, and Strategic Importance | Meravytes | [Read More](https://medium.com/p/d52f600a5a8c) |
+| Fri, 26 Dec 2025 12:43:55 GMT | ADB (Android Debug Bridge) — The Ultimate Cheat Sheet for Developers | Zaid Bin Ahmad | [Read More](https://medium.com/p/d3af4863fa81) |
+| Fri, 26 Dec 2025 12:40:54 GMT | How Wi-Fi Attacks Work: Understanding Wireless Threats | TheCyberNirvana | [Read More](https://medium.com/p/417a18f64f0d) |
 | Fri, 26 Dec 2025 12:27:25 GMT | Top Cybersecurity Threats to Watch in 2026 (And How to Stay Safe) | ThinkSimple | [Read More](https://medium.com/p/1ee7842b5745) |
 | Fri, 26 Dec 2025 12:25:17 GMT | ❤️ Kaspersky: The Antivirus I Keep Coming Back To ️ | Pramodh Casanova | [Read More](https://medium.com/p/1f4e59fd473f) |
 | Fri, 26 Dec 2025 12:24:50 GMT | IDEsaster: AI IDE Vulnerabilities Exploitation Guide 2025 | BBHunterpk | [Read More](https://medium.com/p/837a19376e58) |
@@ -83,6 +95,8 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 09:15:31 GMT | HTB: BabyTwo — Medium Writeup | Maxwell Ferreira | [Read More](https://medium.com/p/aafb739f27b3) |
 | Fri, 26 Dec 2025 09:14:53 GMT | HackSmarter: ShareThePain | Persecure | [Read More](https://medium.com/p/a069d69fa5eb) |
 | Fri, 26 Dec 2025 09:09:46 GMT | WordPress Under Siege: Why 90,000 Daily Attacks Mean Your Site Needs Professional Protection Now | Abdul Mubin | [Read More](https://medium.com/p/4f634c60bbd0) |
+| Fri, 26 Dec 2025 09:09:16 GMT | React2Shell — React Server Components RCE CVE-2025–55182 | Zabed Ullah Poyel | [Read More](https://medium.com/p/6cc782503c5e) |
+| Fri, 26 Dec 2025 09:06:24 GMT | CVE-2025–68613: Critical RCE di Platform Otomasi n8n (CVSS 9.9) | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/22fcd96142be) |
 | Fri, 26 Dec 2025 09:04:49 GMT | Personal Browsing Gone Wild: XSS + IDOR in the Same Spot | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/6ab3e0ea6190) |
 | Fri, 26 Dec 2025 09:03:25 GMT | TryHackMe Compiled: Reverse Engineering a Tricky scanf Check | Ziya Shalbuzov | [Read More](https://medium.com/p/f587e29c394a) |
 | Fri, 26 Dec 2025 09:01:17 GMT | Fast, Reliable Protection Powered by Antivirus for Mac | Siyanoav | [Read More](https://medium.com/p/227c755c06c4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 08:14:48 GMT | Mistakes I Made While Learning Cyber Security in 2025 (And What Finally Put Me on the Right Path) | JetkingChandigarh | [Read More](https://medium.com/p/dd49fd235261) |
 | Fri, 26 Dec 2025 08:13:28 GMT | Server-Side Request Forgery (SSRF): Detection, Impact, and Defense Bypass Techniques | Lakshay Nimwal | [Read More](https://medium.com/p/71787fe52db1) |
 | Fri, 26 Dec 2025 08:03:42 GMT | GitOps Is Not a Tool — It’s an Operating Model | Nitin Bharadwaj | [Read More](https://medium.com/p/a521ceed448f) |
-| Fri, 26 Dec 2025 07:54:44 GMT | Scam Bukan Soal Teknologi, Tapi Psikologi: 5 Teknik Social Engineering yang Harus Kamu Tahu | Naufal Arya Putra Setiawan | [Read More](https://medium.com/p/d1397bd9a5e0) |
-| Fri, 26 Dec 2025 07:50:19 GMT | n8n Expression Injection RCE — CVE-2025–68613 Walkthrough (TryHackMe) | Mshikha | [Read More](https://medium.com/p/72e3b282198e) |
-| Fri, 26 Dec 2025 07:47:08 GMT | Prioritizing Transparency: How SQHWYD Tackles Impersonation Risks | SQHWYD | [Read More](https://medium.com/p/a6eb85777a76) |
-| Fri, 26 Dec 2025 07:36:14 GMT | World-Class Mobile Patrol Services in Edmonton & Alberta | Hirasarfraz | [Read More](https://medium.com/p/dd85f4ab3723) |
-| Fri, 26 Dec 2025 07:34:51 GMT | Linux Basic Commands List & Uses | Kashif shah | [Read More](https://medium.com/p/7e692469eaaf) |
-| Fri, 26 Dec 2025 07:31:56 GMT | 24 Hour Commercial Locksmith — Keeping Your Business Secure Around the Clock | The Lock Specialist Ltd | [Read More](https://medium.com/p/7f30abcc759c) |
-| Fri, 26 Dec 2025 07:28:51 GMT | Tải Clash of Clans Mod APK V18.0.5 (Vô Hạn Tiền, Gems) | GOCMOD | [Read More](https://medium.com/p/165b0515761e) |
-| Fri, 26 Dec 2025 07:27:52 GMT | Chain Link Fence A Strategic Security Solution for Saudi Arabia Expanding Infrastructure | Hitechfence | [Read More](https://medium.com/p/a3e73a9ce83f) |
-| Fri, 26 Dec 2025 07:22:12 GMT | Third-Party Risk Management: A Critical Pillar of Modern Cybersecurity | vanguardtec | [Read More](https://medium.com/p/c39872e8d9a3) |
-| Fri, 26 Dec 2025 07:21:51 GMT | The 10 Salesforce Permissions That Quietly Destroy Trust and Data | Yatin Kalra | [Read More](https://medium.com/p/c1577bf39a0f) |
-| Fri, 26 Dec 2025 07:19:55 GMT | GitHub’da sahte güvenlik açığı exploitleri üzerinden yayılan WebRAT zararlı yazılımı | Enes Malik Kalkan | [Read More](https://medium.com/p/185c15c306e7) |
-| Fri, 26 Dec 2025 07:18:41 GMT | Why Access Control Systems Are Essential for Modern Offices and Campuses | MSV INFOSOLUTIONS | [Read More](https://medium.com/p/8296b315323d) |
-| Fri, 26 Dec 2025 07:07:06 GMT | Network Security Certification with Practical Labs | Manisha Chaudhary | [Read More](https://medium.com/p/121de469a3a2) |
-| Fri, 26 Dec 2025 07:05:48 GMT | n8n: CVE-2025–68613 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/f85e65222493) |
