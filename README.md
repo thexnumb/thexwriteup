@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 08:15:05 GMT | Technical Debt Audit: Is Your Magento Site Held Together by “Quick Fixes”? | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/0bb05ac880f8) |
+| Fri, 26 Dec 2025 08:14:48 GMT | Mistakes I Made While Learning Cyber Security in 2025 (And What Finally Put Me on the Right Path) | JetkingChandigarh | [Read More](https://medium.com/p/dd49fd235261) |
+| Fri, 26 Dec 2025 08:13:28 GMT | Server-Side Request Forgery (SSRF): Detection, Impact, and Defense Bypass Techniques | Lakshay Nimwal | [Read More](https://medium.com/p/71787fe52db1) |
+| Fri, 26 Dec 2025 08:03:42 GMT | GitOps Is Not a Tool — It’s an Operating Model | Nitin Bharadwaj | [Read More](https://medium.com/p/a521ceed448f) |
+| Fri, 26 Dec 2025 07:54:44 GMT | Scam Bukan Soal Teknologi, Tapi Psikologi: 5 Teknik Social Engineering yang Harus Kamu Tahu | Naufal Arya Putra Setiawan | [Read More](https://medium.com/p/d1397bd9a5e0) |
+| Fri, 26 Dec 2025 07:50:19 GMT | n8n Expression Injection RCE — CVE-2025–68613 Walkthrough (TryHackMe) | Mshikha | [Read More](https://medium.com/p/72e3b282198e) |
+| Fri, 26 Dec 2025 07:47:08 GMT | Prioritizing Transparency: How SQHWYD Tackles Impersonation Risks | SQHWYD | [Read More](https://medium.com/p/a6eb85777a76) |
 | Fri, 26 Dec 2025 07:36:14 GMT | World-Class Mobile Patrol Services in Edmonton & Alberta | Hirasarfraz | [Read More](https://medium.com/p/dd85f4ab3723) |
+| Fri, 26 Dec 2025 07:34:51 GMT | Linux Basic Commands List & Uses | Kashif shah | [Read More](https://medium.com/p/7e692469eaaf) |
 | Fri, 26 Dec 2025 07:31:56 GMT | 24 Hour Commercial Locksmith — Keeping Your Business Secure Around the Clock | The Lock Specialist Ltd | [Read More](https://medium.com/p/7f30abcc759c) |
 | Fri, 26 Dec 2025 07:28:51 GMT | Tải Clash of Clans Mod APK V18.0.5 (Vô Hạn Tiền, Gems) | GOCMOD | [Read More](https://medium.com/p/165b0515761e) |
 | Fri, 26 Dec 2025 07:27:52 GMT | Chain Link Fence A Strategic Security Solution for Saudi Arabia Expanding Infrastructure | Hitechfence | [Read More](https://medium.com/p/a3e73a9ce83f) |
@@ -105,11 +113,3 @@ Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
 | Thu, 25 Dec 2025 20:24:39 GMT | The Ransomware Paradox: Why Cybercriminals Demand Bitcoin Over Monero Despite Superior Anonymity | Ilhan Hakan Ökcesiz | [Read More](https://medium.com/p/6097ce93c774) |
 | Thu, 25 Dec 2025 20:20:23 GMT | Libaray program tersemubunyi | Ego oktafanda | [Read More](https://medium.com/p/98d00543d5a9) |
 | Thu, 25 Dec 2025 20:17:48 GMT | TryHackMe Writeup: Chocolate Factory | Berkay AĞGÜL | [Read More](https://medium.com/p/55491c5c7f69) |
-| Thu, 25 Dec 2025 20:15:32 GMT | Investigation into MSP Data Breach | Hadiramr | [Read More](https://medium.com/p/57e0ceb86aca) |
-| Thu, 25 Dec 2025 20:04:33 GMT | The Love I Lost While Waiting for the Perfect Moment | Banhisekha | [Read More](https://medium.com/p/7918b28c9c4d) |
-| Thu, 25 Dec 2025 19:49:37 GMT | Learning WireGuard: Why Simple Systems Are the Best Place to Start | Niveshpritmani | [Read More](https://medium.com/p/6d9781c83967) |
-| Thu, 25 Dec 2025 19:42:11 GMT | What Else LLM Can Speak? | restdone | [Read More](https://medium.com/p/b38d3e442c38) |
-| Thu, 25 Dec 2025 19:41:16 GMT | Getting Started with Azure Penetration Testing: | Tharindu Damith | [Read More](https://medium.com/p/defc313445c9) |
-| Thu, 25 Dec 2025 19:39:16 GMT | Breaking Blind SQL Injection (DVWA — Easy) | Sanjivani Dobhal | [Read More](https://medium.com/p/09fe314ece71) |
-| Thu, 25 Dec 2025 19:21:10 GMT | Monero (XMR): Finansal Gizliliğin Kalesi mi, Yoksa Dijital Gölge mi? | 5MinTech - DEUYBS | [Read More](https://medium.com/p/85bfb30d8a94) |
-| Thu, 25 Dec 2025 19:19:52 GMT | MY PROM DRESS | Venessa | [Read More](https://medium.com/p/b964457cd87c) |
