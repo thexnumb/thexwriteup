@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 17:29:32 GMT | Title | Abdulrahmanhijam | [Read More](https://medium.com/p/642678bb6f4d) |
+| Fri, 26 Dec 2025 17:26:39 GMT | Day 24: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/dc4c01a1fa58) |
+| Fri, 26 Dec 2025 17:25:31 GMT | Skip the 4-year wait: start cloud cyber security now | Muhdsalym | [Read More](https://medium.com/p/cf05943fe77e) |
+| Fri, 26 Dec 2025 17:16:37 GMT | What Exactly Asset Monitoring Software Does? | Tokentimer | [Read More](https://medium.com/p/7cf2b2203e29) |
 | Fri, 26 Dec 2025 17:10:54 GMT | Volatility Plugins — Plugin windows.drivermodule, windows.svcdiff Let’s Talk About it | Dean | [Read More](https://medium.com/p/647602aaf1c0) |
 | Fri, 26 Dec 2025 17:02:06 GMT | Understanding Hacking, Virtual Machines, Linux, and Networking: | Ashlin Mariya | [Read More](https://medium.com/p/c360f8467a60) |
 | Fri, 26 Dec 2025 16:54:36 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/7a5c020904a2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 11:09:36 GMT | Understanding SYN Flooding Attack | Jimitpatel | [Read More](https://medium.com/p/2388ba328aca) |
 | Fri, 26 Dec 2025 11:04:06 GMT | Configure your first virtual router(pfSense)- simulate attack with virtual machines. | Mohamed Aamir Khan | [Read More](https://medium.com/p/85c5a7caff46) |
 | Fri, 26 Dec 2025 11:03:57 GMT | HexStrike + Gemini vs. HackerAI: “Ops Copilot” vs. “Chatbot with Tools” | Andrey Pautov | [Read More](https://medium.com/p/1d799845410b) |
-| Fri, 26 Dec 2025 11:00:33 GMT | Best Year-End Cybersecurity Deals for Beginners and Advanced Learners | cyber security Updates | [Read More](https://medium.com/p/79c79bf76eba) |
-| Fri, 26 Dec 2025 10:53:45 GMT | Which Technology Protects VOIP Against Eavesdropping? Explained for Businesses | Creative IT Solutions | [Read More](https://medium.com/p/b0a194afff68) |
-| Fri, 26 Dec 2025 10:51:02 GMT | Why Copilot Does NOT Break SharePoint Security - Bad Architecture Does | Aakash Rahsi | [Read More](https://medium.com/p/4ce29c022892) |
-| Fri, 26 Dec 2025 10:50:19 GMT | Limits of Existing Cryptographic Technologies (MPC/Multi-Sig) and “Endpoint Vulnerabilities” | Satelite | [Read More](https://medium.com/p/0fcb11dffb37) |
