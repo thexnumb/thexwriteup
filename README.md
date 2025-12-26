@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 01:42:19 GMT | I Blocked Them, But They Could Still See Me: A Simple Privacy Logic Flaw | default_0x | [Read More](https://medium.com/p/110486963182) |
+| Fri, 26 Dec 2025 01:38:29 GMT | Exploiting WebSocket Information Disclosure to Achieve Account Deletion (IDOR) | Waleed Osama | [Read More](https://medium.com/p/cc5e180632b3) |
+| Fri, 26 Dec 2025 01:12:21 GMT | Recontextualizing Security+: From Certification to ISMS Practice | Chenyang Zhai | [Read More](https://medium.com/p/7e5cc9823bf4) |
+| Fri, 26 Dec 2025 01:05:49 GMT | You Will Never See Me Break | KV | [Read More](https://medium.com/p/2a201d3f444d) |
+| Fri, 26 Dec 2025 01:04:29 GMT | Title: Architecting the Digital Future of Iraq: The Journey of Aryan Ali and Aryan Tech | Aryan Tech | [Read More](https://medium.com/p/3dce467e7210) |
+| Fri, 26 Dec 2025 00:33:19 GMT | Google Dork and OSINT: Discovering Exposed Systems Through Search Engines | isaergisi | [Read More](https://medium.com/p/40a5719c21db) |
+| Fri, 26 Dec 2025 00:15:18 GMT | The Pressure Release: Bleeding the Lines of the Soul | The Rear View by Murtaza | [Read More](https://medium.com/p/cb6fde60c056) |
+| Fri, 26 Dec 2025 00:09:23 GMT | Digital Ethiopia 2030: Building Skyscrapers on Quicksand? | Abebebe Diro (PhD) | [Read More](https://medium.com/p/b7b62b5d733c) |
+| Fri, 26 Dec 2025 00:02:24 GMT | Tcpdump: Your Command-Line Packet Sniffing Superpower | Cybersecurity Simplified | [Read More](https://medium.com/p/86e35e0ecac0) |
+| Thu, 25 Dec 2025 23:51:31 GMT | Why Vulnerability Severity Is Not Risk: Inside Modern Vulnerability Management | Matthewguadron | [Read More](https://medium.com/p/641475d0d858) |
 | Thu, 25 Dec 2025 23:22:46 GMT | Unmasking a Fresh “Econt” Phishing Campaign: A Technical Deep-Dive | devmihaylov | [Read More](https://medium.com/p/b01f040ec4a6) |
 | Thu, 25 Dec 2025 23:11:05 GMT | THM AOC 2025 Day 17 CyberChef — Hoperation Save McSkidy | Kody | [Read More](https://medium.com/p/e88854cd4558) |
 | Thu, 25 Dec 2025 23:00:33 GMT | Broken Access Control in a very simple way | YYY_420 | [Read More](https://medium.com/p/e4ce3f2b5111) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 15:18:24 GMT | OSINT for Law Enforcement | Abdul Mubin | [Read More](https://medium.com/p/73dee05e6336) |
 | Thu, 25 Dec 2025 15:07:34 GMT | Governance by Legal State System | Marcelo Filho | [Read More](https://medium.com/p/b632cea64c00) |
 | Thu, 25 Dec 2025 15:06:28 GMT | Bug Bounty Isn’t About Tools — It’s About Thinking Like the App | Iski | [Read More](https://medium.com/p/43b553f1786b) |
-| Thu, 25 Dec 2025 14:59:24 GMT | Attack Surface: How to See What Hackers See | Aj | [Read More](https://medium.com/p/26c23002a5a7) |
-| Thu, 25 Dec 2025 14:55:08 GMT | More About Active Information Gathering | Lutsvia | [Read More](https://medium.com/p/ac8c8e5a1245) |
-| Thu, 25 Dec 2025 14:53:54 GMT | n8n: CVE-2025–68613 — TryHackMe Walkthrough | farshad moradi shahrbabak | [Read More](https://medium.com/p/bcbffc941217) |
-| Thu, 25 Dec 2025 14:52:39 GMT | From a Free TryHackMe Subscription to a Free OSCP Certification | Pak Cyberbot | [Read More](https://medium.com/p/b4002c230f54) |
-| Thu, 25 Dec 2025 14:39:07 GMT | How I Found a $5,500 Bug Using Just Reconnaissance | Codi | [Read More](https://medium.com/p/2768fdba5ff2) |
-| Thu, 25 Dec 2025 14:34:27 GMT | CrowdStrike Wasn’t a Bug. It Was the Business Model | Adonis | [Read More](https://medium.com/p/89317be4cfea) |
-| Thu, 25 Dec 2025 14:32:20 GMT | Understanding Network Basics: A Beginner’s Guide to Networking Principles | Vignesh R | [Read More](https://medium.com/p/6d1b2d0bfd0b) |
-| Thu, 25 Dec 2025 14:25:22 GMT | Securing Your CRM: How VPC Endpoints for DynamoDB Eliminate Public Internet Exposure | Osman ALP | [Read More](https://medium.com/p/3ff243bf26de) |
-| Thu, 25 Dec 2025 14:25:08 GMT | How to Find P1 Bugs using Google in your Target — (Part-3) | RivuDon | [Read More](https://medium.com/p/92080292f4ac) |
-| Thu, 25 Dec 2025 14:22:44 GMT | ‍☠️ Top Free Tools That Can Make You $1000/Month in Bug Bounty | Vipul Sonule | [Read More](https://medium.com/p/a6a8c21564c2) |
