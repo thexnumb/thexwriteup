@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 10:43:08 GMT | Linux’ta Dosya İzinleri ve Yetkilendirme | g.o. | [Read More](https://medium.com/p/7d6141a1981a) |
+| Fri, 26 Dec 2025 10:36:56 GMT | The largest science and technology festival in Asia, TechFest 2025, was successfully hosted at IIT… | Crawsec | [Read More](https://medium.com/p/3f40f98126a4) |
+| Fri, 26 Dec 2025 10:32:20 GMT | ️‍♂️ Rootkit Malware Explained: The Invisible Threat Hiding Deep Inside Your System | Natarajan C K | [Read More](https://medium.com/p/dd82d6a43629) |
+| Fri, 26 Dec 2025 10:31:56 GMT | What Is Included in a Cyber Security Course Syllabus? | Shubham Saini | [Read More](https://medium.com/p/b0b183a7e94f) |
+| Fri, 26 Dec 2025 10:28:24 GMT | NEWSLETTER: Lessons to Carry Forward on the Journey of Life | Nitin Garg | [Read More](https://medium.com/p/0f9df4a9deb5) |
+| Fri, 26 Dec 2025 10:24:11 GMT | Solving CTF Challenges with Local AI Models | Yousof Nahya | [Read More](https://medium.com/p/3d7f7b8dcad0) |
+| Fri, 26 Dec 2025 10:23:11 GMT | ด่วน! แจ้งเตือนกรณีช่องโหว่ในแพลตฟอร์มสร้างการทำงานอัตโนมัติ (Workflow Automation Platform) n8n | ThaiCERT By NCSA | [Read More](https://medium.com/p/609fec1d7bfc) |
+| Fri, 26 Dec 2025 10:22:20 GMT | The Daily Tech Digest: 26 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/946572632a01) |
 | Fri, 26 Dec 2025 10:20:38 GMT | How Cybersecurity Consulting Firms Customise Security for Your Business | SmartCLOUD Australia | [Read More](https://medium.com/p/ccf6972acc67) |
 | Fri, 26 Dec 2025 10:16:21 GMT | Kullanıcı ve Grup Yönetimi (User & Group Management) | g.o. | [Read More](https://medium.com/p/bf7b9f99ecc7) |
 | Fri, 26 Dec 2025 10:14:42 GMT | Web Application Penetration Testing for Secure Systems | Application Security Master | [Read More](https://medium.com/p/8e2cecad0c03) |
@@ -105,11 +113,3 @@ Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
 | Fri, 26 Dec 2025 03:32:18 GMT | Cybersecurity Basics Everyone Should Know! | Raksha Thimmaiah | [Read More](https://medium.com/p/d67a48cfcd2f) |
 | Fri, 26 Dec 2025 03:29:54 GMT | Google Dorks: Hacking Google Like a Pro (The Safe Way!) | Cybeague Technologies | [Read More](https://medium.com/p/2c7ed18bb3cc) |
 | Fri, 26 Dec 2025 03:28:24 GMT | Unlocking the Power of Shodan: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/ef7b39f2882a) |
-| Fri, 26 Dec 2025 03:16:43 GMT | 40+ Women: Stop These 3 Money Habits Killing Your Future Happiness | Rebecca Brown | [Read More](https://medium.com/p/a3cc56d76669) |
-| Fri, 26 Dec 2025 02:44:42 GMT | Ukraine’s Bold 20-Point Peace Plan: A Step Toward Lasting Security and Sovereignty | Vonnie E James™ | [Read More](https://medium.com/p/617cbe134621) |
-| Fri, 26 Dec 2025 02:35:56 GMT | Routers, IP Addresses, and Enumeration: A Beginner-Friendly Guide to Ethical Hacking | blackey07 | [Read More](https://medium.com/p/2b2cd62c40df) |
-| Fri, 26 Dec 2025 02:07:29 GMT | Cybersecurity in Banking System | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/299e5badd29b) |
-| Fri, 26 Dec 2025 02:04:57 GMT | Running GlusterFS in Kubernetes Without Privileged Containers: A Security Team’s Dream | Vigneshvar A S | [Read More](https://medium.com/p/ea872c4d8624) |
-| Fri, 26 Dec 2025 02:04:55 GMT | Cicada — Active Directory Lab Write-Up! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/0c848859cce9) |
-| Fri, 26 Dec 2025 01:59:44 GMT | MT-RJ Connector | Hardeep Kaur | [Read More](https://medium.com/p/63241456b4f8) |
-| Fri, 26 Dec 2025 01:56:41 GMT | “Son Sells Old Home for New, Mother’s Dying Words Reveal Hidden Fortune, Family in Tears” | kate spider | [Read More](https://medium.com/p/50874d44c9a1) |
