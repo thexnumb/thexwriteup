@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 14:15:48 GMT | PortSwigger Web Security Academy — Lab Write‑Up 7 | 0xM3d0din | [Read More](https://medium.com/p/c5d4ec755083) |
+| Fri, 26 Dec 2025 14:10:44 GMT | Applying Reinforcement Learning to Cybersecurity — My First Thoughts on K-Armed Bandits & HTB —… | Hariharan@Blog:~$ | [Read More](https://medium.com/p/2e4244777afe) |
+| Fri, 26 Dec 2025 14:02:23 GMT | 7 Wallet Permission Designs Users Don’t Auto-Approve | Vectorlane | [Read More](https://medium.com/p/910754bbfb47) |
+| Fri, 26 Dec 2025 14:00:29 GMT | Set Up Email on My Domain: Troubleshooting When Login Works but Mail Doesn’t (Checklist) | Alexey Bulygin | [Read More](https://medium.com/p/e0ad4c313e7b) |
+| Fri, 26 Dec 2025 13:56:54 GMT | Digital Trust: How PGP, Hashing, and Digital Signatures Really Work | Manubhav Sharma | [Read More](https://medium.com/p/9e70daa27547) |
+| Fri, 26 Dec 2025 13:54:08 GMT | Create Email With Your Domain: Step-by-Step Business Email Setup (MX → Login → Send/Receive) | Alexey Bulygin | [Read More](https://medium.com/p/5d8cf4a6ad26) |
+| Fri, 26 Dec 2025 13:47:36 GMT | Cybersecurity in 2025: Evolved threat landscape, GenAI, Converged market & Quantum rise | AKLI ILIAS | [Read More](https://medium.com/p/386b1e9e331e) |
+| Fri, 26 Dec 2025 13:46:50 GMT | VulnHub: Symfonos:2 — (oscp-4) | Hexshubz | [Read More](https://medium.com/p/69f3487c7700) |
+| Fri, 26 Dec 2025 13:46:22 GMT | Tracing the Immutable: Advanced Methodologies for Cross-Chain Cryptocurrency Investigations | Satyam | [Read More](https://medium.com/p/c4773776094a) |
+| Fri, 26 Dec 2025 13:45:25 GMT | I Didn’t Hack You. You Posted Everything. | Yash Katiyara | [Read More](https://medium.com/p/4d6bae509815) |
+| Fri, 26 Dec 2025 13:42:00 GMT | “Bug Bounty Bootcamp #6: Ports & Services — Finding the Open Doors on Your Target’s Server” | Aman Sharma | [Read More](https://medium.com/p/df790b558643) |
+| Fri, 26 Dec 2025 13:40:18 GMT | Automating Incident Response with Microsoft Sentinel & Defender XDR | Konstantinos Lianos | [Read More](https://medium.com/p/f68769c645c7) |
+| Fri, 26 Dec 2025 13:32:28 GMT | 7 Privacy Boundaries Users Can Feel (and Trust) | Hash Block | [Read More](https://medium.com/p/3d9a2f0cec9a) |
+| Fri, 26 Dec 2025 13:29:44 GMT | ICÉWIN ICON | ICÉWIN CRYPTOTÁITÀN | [Read More](https://medium.com/p/15012d5f332e) |
 | Fri, 26 Dec 2025 13:23:44 GMT | Severe n8n Security Bug (CVSS 9.9) Opens the Door to Remote Code Execution on Thousands of Systems | Rohit.nex | [Read More](https://medium.com/p/b462ea3e486e) |
 | Fri, 26 Dec 2025 13:16:01 GMT | Premier Manned Guarding: Ensuring Reliable Security for Offices, Factories, and Sites | RAXA Techno Security Solutions | [Read More](https://medium.com/p/f442301cbc6a) |
 | Fri, 26 Dec 2025 13:15:20 GMT | What Broke First When Our Traffic Doubled Overnight | CodeTalks | [Read More](https://medium.com/p/817400bf127d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 09:09:16 GMT | React2Shell — React Server Components RCE CVE-2025–55182 | Zabed Ullah Poyel | [Read More](https://medium.com/p/6cc782503c5e) |
 | Fri, 26 Dec 2025 09:06:24 GMT | CVE-2025–68613: Critical RCE di Platform Otomasi n8n (CVSS 9.9) | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/22fcd96142be) |
 | Fri, 26 Dec 2025 09:04:49 GMT | Personal Browsing Gone Wild: XSS + IDOR in the Same Spot | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/6ab3e0ea6190) |
-| Fri, 26 Dec 2025 09:03:25 GMT | TryHackMe Compiled: Reverse Engineering a Tricky scanf Check | Ziya Shalbuzov | [Read More](https://medium.com/p/f587e29c394a) |
-| Fri, 26 Dec 2025 09:01:17 GMT | Fast, Reliable Protection Powered by Antivirus for Mac | Siyanoav | [Read More](https://medium.com/p/227c755c06c4) |
-| Fri, 26 Dec 2025 09:00:27 GMT | End User Activity in Business and the Information Technology Sector | Prince moradiya | [Read More](https://medium.com/p/3ea89f56a9fe) |
-| Fri, 26 Dec 2025 08:55:43 GMT | Top Security Service Provider in India: Delivering Advanced Security Solutions India Can Trust | Ciss India | [Read More](https://medium.com/p/1cd8cde8b05c) |
-| Fri, 26 Dec 2025 08:53:35 GMT | How We Built a Massive Online Game in Just One Night! | Suhas Dissanayake | [Read More](https://medium.com/p/24555b16487a) |
-| Fri, 26 Dec 2025 08:49:33 GMT | What Practices You Should Use When Choosing a Password. | Ali Hamza | [Read More](https://medium.com/p/b4d0d17ab75b) |
-| Fri, 26 Dec 2025 08:48:43 GMT | You study 3 hours a day and still feel like you’re not moving forward? | Denny Roger | [Read More](https://medium.com/p/da04b6dae753) |
-| Fri, 26 Dec 2025 08:47:09 GMT | May I Have This Dance | Michael | [Read More](https://medium.com/p/58b428ccf497) |
-| Fri, 26 Dec 2025 08:46:38 GMT | HTB: HackNet — Rompiendo Django | 3z-p0wn | [Read More](https://medium.com/p/0a032d8b3ca7) |
-| Fri, 26 Dec 2025 08:29:40 GMT | Common Tools Used by Ethical Hackers | Dkvilas | [Read More](https://medium.com/p/fbaac07ac2bb) |
-| Fri, 26 Dec 2025 08:15:05 GMT | Technical Debt Audit: Is Your Magento Site Held Together by “Quick Fixes”? | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/0bb05ac880f8) |
-| Fri, 26 Dec 2025 08:14:48 GMT | Mistakes I Made While Learning Cyber Security in 2025 (And What Finally Put Me on the Right Path) | JetkingChandigarh | [Read More](https://medium.com/p/dd49fd235261) |
-| Fri, 26 Dec 2025 08:13:28 GMT | Server-Side Request Forgery (SSRF): Detection, Impact, and Defense Bypass Techniques | Lakshay Nimwal | [Read More](https://medium.com/p/71787fe52db1) |
-| Fri, 26 Dec 2025 08:03:42 GMT | GitOps Is Not a Tool — It’s an Operating Model | Nitin Bharadwaj | [Read More](https://medium.com/p/a521ceed448f) |
