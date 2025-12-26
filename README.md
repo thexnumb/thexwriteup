@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 15:11:19 GMT | Alarm Security Guard Company Houston | Security Houston | [Read More](https://medium.com/p/23ddb2d1da99) |
+| Fri, 26 Dec 2025 15:08:59 GMT | Breach in the Cloud : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/f097a6871400) |
+| Fri, 26 Dec 2025 15:07:01 GMT | Detecting Living-off-the-Land Evasion: Why net1 Enumeration Still Leaves a Trace | David O'Neill | [Read More](https://medium.com/p/382d34f8f16f) |
+| Fri, 26 Dec 2025 14:59:49 GMT | Breaking Out with ../: A Simple Guide to Path Traversal Bugs | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/fafbc2508496) |
+| Fri, 26 Dec 2025 14:59:46 GMT | De .asar a Bytecode | FeCeSociety | [Read More](https://medium.com/p/4f62fc52d80a) |
+| Fri, 26 Dec 2025 14:58:59 GMT | Perspectives on Networking | azrecon_ | [Read More](https://medium.com/p/3613709c410a) |
+| Fri, 26 Dec 2025 14:58:56 GMT | Skip the long wait — start your cyber career faster Paying rising fees and waiting years to finish… | Furqan Ahmad | [Read More](https://medium.com/p/d53362565e9a) |
+| Fri, 26 Dec 2025 14:56:10 GMT | Business Scam Survival Kit: A Simple Guide for SMEs and Scale-Ups | Evistia | [Read More](https://medium.com/p/c96a6e272506) |
+| Fri, 26 Dec 2025 14:54:54 GMT | Your Company’s Logins Are Probably Leaked Already. Here’s How to Check in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/af7bfa445dcb) |
+| Fri, 26 Dec 2025 14:42:59 GMT | Fortinet Warns of Active Exploitation: The FortiOS SSL VPN 2FA Bypass You Should Recheck Today… | Germano Costi | [Read More](https://medium.com/p/cfbca3debd0f) |
 | Fri, 26 Dec 2025 14:31:01 GMT | Cybersecurity and how >Sometimes< Eastern Europeans Know Shit About Fuck | Dorian Kray | [Read More](https://medium.com/p/c1e111337849) |
 | Fri, 26 Dec 2025 14:20:57 GMT | PG practice Zipper — Security Lessons | Balaji_21 | [Read More](https://medium.com/p/d6a7c7eedd63) |
 | Fri, 26 Dec 2025 14:19:24 GMT | Try Hack Me- Year of the Rabbit Walkthrough | PulseEinher | [Read More](https://medium.com/p/5659846df74c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 09:52:21 GMT | BMW’s Roundel Screws to Vendor Tentacles: The Art of Making Customers Captive | Namir Sagheenanajar | [Read More](https://medium.com/p/1b966f37c83c) |
 | Fri, 26 Dec 2025 09:48:33 GMT | Wifi hackingHow Hackers Use Evil Limiter for Full WiFi Control | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/fae100751d90) |
 | Fri, 26 Dec 2025 09:38:54 GMT | Startup Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/854a4cf87d83) |
-| Fri, 26 Dec 2025 09:37:26 GMT | Basic Kali Linux Commands Every Cyber Security Student Should Know | Namratamali | [Read More](https://medium.com/p/6af2fed94746) |
-| Fri, 26 Dec 2025 09:32:21 GMT | TCP Challenges — Part 4: Uncompress Me! - Root-Me Write-up | iIyas | [Read More](https://medium.com/p/675528bad4e8) |
-| Fri, 26 Dec 2025 09:28:19 GMT | Hack Smarter AD Challenge Lab: BuildingMagic | Milos Skalusevic | [Read More](https://medium.com/p/5c9e77887b05) |
-| Fri, 26 Dec 2025 09:25:49 GMT | The Architecture of Illusion: Why the Search for Late-Life Romance Can Lead to the “Pig-Butchering”… | Anna7904 | [Read More](https://medium.com/p/67bef1562850) |
-| Fri, 26 Dec 2025 09:24:21 GMT | Project Title: Gaining Root Access on Metasploitable2 Using Metasploit | Mujahid Hasan | [Read More](https://medium.com/p/9f29e37c2e99) |
-| Fri, 26 Dec 2025 09:21:57 GMT | Stop Creating New Passwords. Just Click “Sign in with Google.”? | Maleeshavidurath | [Read More](https://medium.com/p/03134ae3dbc6) |
-| Fri, 26 Dec 2025 09:18:27 GMT | Living Apart Together: Why This Modern Trend is the Secret to Healthy Romance Over 50 | Anna7904 | [Read More](https://medium.com/p/3615582e9438) |
-| Fri, 26 Dec 2025 09:15:31 GMT | HTB: BabyTwo — Medium Writeup | Maxwell Ferreira | [Read More](https://medium.com/p/aafb739f27b3) |
-| Fri, 26 Dec 2025 09:14:53 GMT | HackSmarter: ShareThePain | Persecure | [Read More](https://medium.com/p/a069d69fa5eb) |
-| Fri, 26 Dec 2025 09:09:46 GMT | WordPress Under Siege: Why 90,000 Daily Attacks Mean Your Site Needs Professional Protection Now | Abdul Mubin | [Read More](https://medium.com/p/4f634c60bbd0) |
