@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 22:54:56 GMT | Learning Cybersecurity Through the Air: My Journey Into Wireless Pentesting | Michael Preston | [Read More](https://medium.com/p/345dd3684fd3) |
+| Fri, 26 Dec 2025 22:54:17 GMT | Why Independent Security Assurance Is Becoming One of the Most Powerful Differentiators in… | Mindset | [Read More](https://medium.com/p/f9eb4354f5e6) |
+| Fri, 26 Dec 2025 22:52:38 GMT | Why Most People Fail at Personal Growth (And How You Can Avoid the Same Traps) | Jason Hood | [Read More](https://medium.com/p/2919f53e33da) |
 | Fri, 26 Dec 2025 22:30:05 GMT | Governing digital infrastructure without understanding It: a strategic vulnerability | Hayat Outahar | [Read More](https://medium.com/p/d48de646010c) |
 | Fri, 26 Dec 2025 22:23:14 GMT | Penetration test report for legacy HackTheBox machines | akili | [Read More](https://medium.com/p/7c4f501d621a) |
 | Fri, 26 Dec 2025 22:14:41 GMT | Reverse Engineering a Multi-Phase Malicious Delivery Sequence | M4lB3nder | [Read More](https://medium.com/p/756e22d54d7a) |
@@ -110,6 +113,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 13:42:00 GMT | “Bug Bounty Bootcamp #6: Ports & Services — Finding the Open Doors on Your Target’s Server” | Aman Sharma | [Read More](https://medium.com/p/df790b558643) |
 | Fri, 26 Dec 2025 13:40:18 GMT | Automating Incident Response with Microsoft Sentinel & Defender XDR | Konstantinos Lianos | [Read More](https://medium.com/p/f68769c645c7) |
 | Fri, 26 Dec 2025 13:32:28 GMT | 7 Privacy Boundaries Users Can Feel (and Trust) | Hash Block | [Read More](https://medium.com/p/3d9a2f0cec9a) |
-| Fri, 26 Dec 2025 13:29:44 GMT | ICÉWIN ICON | ICÉWIN CRYPTOTÁITÀN | [Read More](https://medium.com/p/15012d5f332e) |
-| Fri, 26 Dec 2025 13:23:44 GMT | Severe n8n Security Bug (CVSS 9.9) Opens the Door to Remote Code Execution on Thousands of Systems | Rohit.nex | [Read More](https://medium.com/p/b462ea3e486e) |
-| Fri, 26 Dec 2025 13:16:01 GMT | Premier Manned Guarding: Ensuring Reliable Security for Offices, Factories, and Sites | RAXA Techno Security Solutions | [Read More](https://medium.com/p/f442301cbc6a) |
