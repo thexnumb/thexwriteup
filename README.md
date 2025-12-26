@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 07:36:14 GMT | World-Class Mobile Patrol Services in Edmonton & Alberta | Hirasarfraz | [Read More](https://medium.com/p/dd85f4ab3723) |
+| Fri, 26 Dec 2025 07:31:56 GMT | 24 Hour Commercial Locksmith — Keeping Your Business Secure Around the Clock | The Lock Specialist Ltd | [Read More](https://medium.com/p/7f30abcc759c) |
+| Fri, 26 Dec 2025 07:28:51 GMT | Tải Clash of Clans Mod APK V18.0.5 (Vô Hạn Tiền, Gems) | GOCMOD | [Read More](https://medium.com/p/165b0515761e) |
+| Fri, 26 Dec 2025 07:27:52 GMT | Chain Link Fence A Strategic Security Solution for Saudi Arabia Expanding Infrastructure | Hitechfence | [Read More](https://medium.com/p/a3e73a9ce83f) |
+| Fri, 26 Dec 2025 07:22:12 GMT | Third-Party Risk Management: A Critical Pillar of Modern Cybersecurity | vanguardtec | [Read More](https://medium.com/p/c39872e8d9a3) |
+| Fri, 26 Dec 2025 07:21:51 GMT | The 10 Salesforce Permissions That Quietly Destroy Trust and Data | Yatin Kalra | [Read More](https://medium.com/p/c1577bf39a0f) |
+| Fri, 26 Dec 2025 07:19:55 GMT | GitHub’da sahte güvenlik açığı exploitleri üzerinden yayılan WebRAT zararlı yazılımı | Enes Malik Kalkan | [Read More](https://medium.com/p/185c15c306e7) |
+| Fri, 26 Dec 2025 07:18:41 GMT | Why Access Control Systems Are Essential for Modern Offices and Campuses | MSV INFOSOLUTIONS | [Read More](https://medium.com/p/8296b315323d) |
 | Fri, 26 Dec 2025 07:07:06 GMT | Network Security Certification with Practical Labs | Manisha Chaudhary | [Read More](https://medium.com/p/121de469a3a2) |
 | Fri, 26 Dec 2025 07:05:48 GMT | n8n: CVE-2025–68613 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/f85e65222493) |
 | Fri, 26 Dec 2025 06:57:38 GMT | PortSwigger - SSRF with whitelist-based input filter | Marvin | [Read More](https://medium.com/p/7d28b27883ea) |
@@ -105,11 +113,3 @@ Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
 | Thu, 25 Dec 2025 19:39:16 GMT | Breaking Blind SQL Injection (DVWA — Easy) | Sanjivani Dobhal | [Read More](https://medium.com/p/09fe314ece71) |
 | Thu, 25 Dec 2025 19:21:10 GMT | Monero (XMR): Finansal Gizliliğin Kalesi mi, Yoksa Dijital Gölge mi? | 5MinTech - DEUYBS | [Read More](https://medium.com/p/85bfb30d8a94) |
 | Thu, 25 Dec 2025 19:19:52 GMT | MY PROM DRESS | Venessa | [Read More](https://medium.com/p/b964457cd87c) |
-| Thu, 25 Dec 2025 19:19:04 GMT | L’informationnel et l’IA à l’heure de la guerre cognitive | Pierre Gueydier | [Read More](https://medium.com/p/9d41f3d7b118) |
-| Thu, 25 Dec 2025 19:02:03 GMT | A Compliance Calendar to Navigate Deadlines with Confidence & Clarity | Linda A. Ivri | [Read More](https://medium.com/p/d5c7bfaec654) |
-| Thu, 25 Dec 2025 18:59:37 GMT | Why Smart Configurations Are Key to Implementing Least Privilege | Linda A. Ivri | [Read More](https://medium.com/p/de0a8c6730d8) |
-| Thu, 25 Dec 2025 18:53:10 GMT | The End of the “Write & Pray” Era in SIEM: Detection as Code and Purple Team Validation | Ali Sefer | [Read More](https://medium.com/p/83023300f5e5) |
-| Thu, 25 Dec 2025 18:42:26 GMT | n8n RCE 101: Analyzing CVE-2025–68613 | Lior Ben Moha | [Read More](https://medium.com/p/74ce8ac0ef4b) |
-| Thu, 25 Dec 2025 18:42:06 GMT | Modern Industrial Protocols: PROFINET, EtherNet/IP, OPC-UA, and IEC 61850 | urjasec | [Read More](https://medium.com/p/9bea660d9c1d) |
-| Thu, 25 Dec 2025 18:36:49 GMT | The Backdoor We Built Ourselves | Erik Cota-Robles | [Read More](https://medium.com/p/250ea893b71d) |
-| Thu, 25 Dec 2025 18:34:13 GMT | Easy Peasy : Challenge WriteUp TryHackMe | theOrthodox | [Read More](https://medium.com/p/13c72583ece9) |
