@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 15:40:31 GMT | Soul Hygiene | é | [Read More](https://medium.com/p/fc6ba35a4f5f) |
+| Fri, 26 Dec 2025 15:35:09 GMT | China’s Great Leap Forward: Entering the 10G Era and the Rise of “Neural” Smart Cities | Carmine Dalise | [Read More](https://medium.com/p/397622a833b2) |
+| Fri, 26 Dec 2025 15:33:21 GMT | The Corix Partners Friday Reading List — December 26, 2025 | JC Gaillard | [Read More](https://medium.com/p/f6836e630cdd) |
+| Fri, 26 Dec 2025 15:32:05 GMT | Understanding DDoS Attacks: How They Work and How to Stay Protected | Syedkhuzemaaligilani | [Read More](https://medium.com/p/d87ac5601c82) |
+| Fri, 26 Dec 2025 15:31:20 GMT | Real Story: रिया, एक Deepfake और ‘NetRaksha’ का चक्रव्यूह | Varia | [Read More](https://medium.com/p/32799a49704e) |
+| Fri, 26 Dec 2025 15:27:54 GMT | Top 10 Cybersecurity Threats to Watch in 2026 | Syedkhuzemaaligilani | [Read More](https://medium.com/p/efdc3f4357f8) |
+| Fri, 26 Dec 2025 15:26:41 GMT | Commercial Security in Houston | Security Houston | [Read More](https://medium.com/p/88318d5e06a4) |
 | Fri, 26 Dec 2025 15:11:19 GMT | Alarm Security Guard Company Houston | Security Houston | [Read More](https://medium.com/p/23ddb2d1da99) |
 | Fri, 26 Dec 2025 15:08:59 GMT | Breach in the Cloud : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/f097a6871400) |
 | Fri, 26 Dec 2025 15:07:01 GMT | Detecting Living-off-the-Land Evasion: Why net1 Enumeration Still Leaves a Trace | David O'Neill | [Read More](https://medium.com/p/382d34f8f16f) |
@@ -24,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 14:42:59 GMT | Fortinet Warns of Active Exploitation: The FortiOS SSL VPN 2FA Bypass You Should Recheck Today… | Germano Costi | [Read More](https://medium.com/p/cfbca3debd0f) |
 | Fri, 26 Dec 2025 14:31:01 GMT | Cybersecurity and how >Sometimes< Eastern Europeans Know Shit About Fuck | Dorian Kray | [Read More](https://medium.com/p/c1e111337849) |
 | Fri, 26 Dec 2025 14:20:57 GMT | PG practice Zipper — Security Lessons | Balaji_21 | [Read More](https://medium.com/p/d6a7c7eedd63) |
+| Fri, 26 Dec 2025 14:19:27 GMT | Bypassing PHP disable_functions via `LD_PRELOAD` Injection | Orion | [Read More](https://medium.com/p/cc74c5be4868) |
 | Fri, 26 Dec 2025 14:19:24 GMT | Try Hack Me- Year of the Rabbit Walkthrough | PulseEinher | [Read More](https://medium.com/p/5659846df74c) |
 | Fri, 26 Dec 2025 14:15:48 GMT | PortSwigger Web Security Academy — Lab Write‑Up 7 | 0xM3d0din | [Read More](https://medium.com/p/c5d4ec755083) |
 | Fri, 26 Dec 2025 14:10:44 GMT | Applying Reinforcement Learning to Cybersecurity — My First Thoughts on K-Armed Bandits & HTB —… | Hariharan@Blog:~$ | [Read More](https://medium.com/p/2e4244777afe) |
@@ -61,6 +69,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 12:11:22 GMT | How to Know If a Crypto Website Is Legit or a Scam (Step-by-Step Guide) | mehamed48 | [Read More](https://medium.com/p/d674924869d2) |
 | Fri, 26 Dec 2025 12:07:10 GMT | The Christmas Heist: A Deep Dive into the $7M Trust Wallet Browser Extension Hack | METAKEY | [Read More](https://medium.com/p/971cab48d55d) |
 | Fri, 26 Dec 2025 12:05:22 GMT | How a Typical Crypto Scam Works (Step by Step) | mehamed48 | [Read More](https://medium.com/p/1e715cec53ab) |
+| Fri, 26 Dec 2025 11:57:00 GMT | SSRF Nedir | Esma Bilir | [Read More](https://medium.com/p/e1984d120655) |
 | Fri, 26 Dec 2025 11:56:22 GMT | What Cyber Attacks Look Like Before They Make the News | Digital Defense | [Read More](https://medium.com/p/99f4ae853648) |
 | Fri, 26 Dec 2025 11:56:19 GMT | What Healing Looks Like When No One Is Watching | Inspire: Viva La Vida | [Read More](https://medium.com/p/f95f3da81af3) |
 | Fri, 26 Dec 2025 11:55:34 GMT | The Night My Instagram Got Hacked: A Wake-Up Call | Devarshi Acharya | [Read More](https://medium.com/p/326451d8faa1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 10:14:42 GMT | Web Application Penetration Testing for Secure Systems | Application Security Master | [Read More](https://medium.com/p/8e2cecad0c03) |
 | Fri, 26 Dec 2025 10:06:56 GMT | Coding, Sleep, and Cognitive Integrity | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/821c75b8e28a) |
 | Fri, 26 Dec 2025 10:04:29 GMT | Why Cybersecurity Has Become Cyber‑Insecurity in 2025. | Campo Sette | [Read More](https://medium.com/p/744c536aabfb) |
-| Fri, 26 Dec 2025 10:02:40 GMT | What is BOLA? Explained in Simple Terms | Vitali Brunovski | [Read More](https://medium.com/p/752eba663b02) |
-| Fri, 26 Dec 2025 09:58:40 GMT | Most Useful Linux commands. EveryOne should know. | Bilal Nasir | [Read More](https://medium.com/p/e700d82e5eac) |
-| Fri, 26 Dec 2025 09:57:55 GMT | Why Enterprises Need Privileged Access Management (PAM) for Admin Accounts | Deependrasingh kushvaha | [Read More](https://medium.com/p/b1b57e0ba9d7) |
-| Fri, 26 Dec 2025 09:55:47 GMT | A Day in the Life of a SOC Analyst Aspirant. | Avani Bhoot | [Read More](https://medium.com/p/3044b0d183b5) |
-| Fri, 26 Dec 2025 09:54:28 GMT | The Death of Cold Storage: Why Gideon Cohen Says MPC Is the Only Way Forward | Gideon Cohen | [Read More](https://medium.com/p/7bc8ab51d358) |
-| Fri, 26 Dec 2025 09:53:29 GMT | When AI Fabricates Institutional Malice: Creating Conspiracy theories and Hallucinated Government… | Berend Watchus | [Read More](https://medium.com/p/38dd3ab5216d) |
-| Fri, 26 Dec 2025 09:52:21 GMT | BMW’s Roundel Screws to Vendor Tentacles: The Art of Making Customers Captive | Namir Sagheenanajar | [Read More](https://medium.com/p/1b966f37c83c) |
-| Fri, 26 Dec 2025 09:48:33 GMT | Wifi hackingHow Hackers Use Evil Limiter for Full WiFi Control | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/fae100751d90) |
-| Fri, 26 Dec 2025 09:38:54 GMT | Startup Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/854a4cf87d83) |
