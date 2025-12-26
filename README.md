@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 22:30:05 GMT | Governing digital infrastructure without understanding It: a strategic vulnerability | Hayat Outahar | [Read More](https://medium.com/p/d48de646010c) |
+| Fri, 26 Dec 2025 22:23:14 GMT | Penetration test report for legacy HackTheBox machines | akili | [Read More](https://medium.com/p/7c4f501d621a) |
 | Fri, 26 Dec 2025 22:14:41 GMT | Reverse Engineering a Multi-Phase Malicious Delivery Sequence | M4lB3nder | [Read More](https://medium.com/p/756e22d54d7a) |
 | Fri, 26 Dec 2025 21:55:11 GMT | Quantifying Surprise: A Conceptual Introduction to Information Theory | Alireza Kafi | [Read More](https://medium.com/p/bc85e0d2ecf0) |
 | Fri, 26 Dec 2025 21:53:16 GMT | How I Found a SQL Injection in a VDP Program | ell0guvn0r | [Read More](https://medium.com/p/8291816ed281) |
@@ -111,5 +113,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 13:29:44 GMT | ICÉWIN ICON | ICÉWIN CRYPTOTÁITÀN | [Read More](https://medium.com/p/15012d5f332e) |
 | Fri, 26 Dec 2025 13:23:44 GMT | Severe n8n Security Bug (CVSS 9.9) Opens the Door to Remote Code Execution on Thousands of Systems | Rohit.nex | [Read More](https://medium.com/p/b462ea3e486e) |
 | Fri, 26 Dec 2025 13:16:01 GMT | Premier Manned Guarding: Ensuring Reliable Security for Offices, Factories, and Sites | RAXA Techno Security Solutions | [Read More](https://medium.com/p/f442301cbc6a) |
-| Fri, 26 Dec 2025 13:15:20 GMT | What Broke First When Our Traffic Doubled Overnight | CodeTalks | [Read More](https://medium.com/p/817400bf127d) |
-| Fri, 26 Dec 2025 13:10:22 GMT | TryHackMe - n8n: CVE-2025-68613 - WriteUp | Axoloth | [Read More](https://medium.com/p/6412d7096d4c) |
