@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 06:34:19 GMT | TryHackMe Cryptography Basics Walkthrough | Ufuk Yaman | [Read More](https://medium.com/p/d6497ddee075) |
+| Fri, 26 Dec 2025 06:34:10 GMT | How I Would Learn Cybersecurity If I Had to Start All Over Today | Motasem Hamdan | [Read More](https://medium.com/p/3e9aae0e0157) |
+| Fri, 26 Dec 2025 06:33:46 GMT | Tải Hack 99 Night In The Forest APK + Script (Auto Win, Kill Aura) v2.702 | Apkpuredev | [Read More](https://medium.com/p/497f5fb23920) |
+| Fri, 26 Dec 2025 06:23:21 GMT | SERP Data Collection in 2026: A Compliance-First Guide | ChainEclipse | [Read More](https://medium.com/p/156b7bae5266) |
+| Fri, 26 Dec 2025 06:19:46 GMT | Mastering the Request Class Improvements and Modern HTTP Handling with Symfony 7.4 | Matt Mochalkin | [Read More](https://medium.com/p/8d6c1f6cff1e) |
+| Fri, 26 Dec 2025 06:15:50 GMT | OverTheWire Bandit (Day 01): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/4296b98923b2) |
+| Fri, 26 Dec 2025 06:15:19 GMT | Pentester Olmak mı, SOC Analyst Olmak mı? Kimse Sana Gerçeği Söylemiyor | Mustafa ERTAN | [Read More](https://medium.com/p/093de48a3137) |
+| Fri, 26 Dec 2025 06:09:49 GMT | Protecting UAE’s Critical Data Infrastructure from Modern Threats | Tek Zeba | [Read More](https://medium.com/p/d186d3cf5e0a) |
+| Fri, 26 Dec 2025 06:02:36 GMT | Hardcoded Credential (in Current Code): CustomRegex — SSC Fortify Security Findings Analysis — Part… | Okan Yurt | [Read More](https://medium.com/p/89f56db6c13c) |
+| Fri, 26 Dec 2025 05:56:50 GMT | Quantum Computing Explained: What It Actually Means for Your Future | Shujaatali Badami | [Read More](https://medium.com/p/835cac653901) |
+| Fri, 26 Dec 2025 05:49:25 GMT | The Dark Side of Crypto Security: What No One Tells You | Bobby Andrews | [Read More](https://medium.com/p/bb28261e45ad) |
+| Fri, 26 Dec 2025 05:40:02 GMT | I Completed Advent of Cyber 2025 — Here’s a Day-by-Day Cybersecurity Playbook (24 Labs) | Fazal | [Read More](https://medium.com/p/249ac01f16bc) |
 | Fri, 26 Dec 2025 05:31:47 GMT | Cyber Security Books | Abdul Majid Jamil | [Read More](https://medium.com/p/302400fddb67) |
 | Fri, 26 Dec 2025 05:16:52 GMT | Securing a Kenyan SACCO from Zero [Part 5 of 6] | Munaniadeno | [Read More](https://medium.com/p/e6ed92b28dc2) |
 | Fri, 26 Dec 2025 05:13:15 GMT | The Infinite Jukebox: Inside the 300TB Heist That Archived Spotify | Rakibul Hasan Sagor | [Read More](https://medium.com/p/47bf508b5ca1) |
@@ -101,15 +113,3 @@ Most… | Ankit rai | [Read More](https://medium.com/p/2f85d4254fa0) |
 | Thu, 25 Dec 2025 18:18:34 GMT | AI-Driven Industrial Surveillance: Boosting Safety and Efficiency in Smart Factories | Dolon Ghosh | [Read More](https://medium.com/p/11c4cfd10dd0) |
 | Thu, 25 Dec 2025 18:17:52 GMT | AI in Cloud Security: Identifying Breaches Before They Spread | Sabit Chandwale | [Read More](https://medium.com/p/c5a3cb220d8b) |
 | Thu, 25 Dec 2025 18:16:05 GMT | Client-Side Surveillance: why hiding is getting impossible. | Aras Darweesh | [Read More](https://medium.com/p/f3eead7e4626) |
-| Thu, 25 Dec 2025 18:14:45 GMT | How to Turn On Windows Defender in Windows 7 - Scan & Remove Virus Easily | MrGoodb | [Read More](https://medium.com/p/6afb789986e4) |
-| Thu, 25 Dec 2025 18:12:24 GMT | AI Cybersecurity Attacks Exposed | Shailendra Kumar | [Read More](https://medium.com/p/00d9022483a1) |
-| Thu, 25 Dec 2025 18:10:54 GMT | Social Engineering and Ethical Hacking | Alejandra Pacheco | [Read More](https://medium.com/p/805c1bcf0bb0) |
-| Thu, 25 Dec 2025 17:56:04 GMT | Why Cybersecurity Is No Longer Optional in Our Daily Digital Life | Alolika Ghosh | [Read More](https://medium.com/p/60a36d261bf8) |
-| Thu, 25 Dec 2025 17:48:09 GMT | THE FORAGE JOB SIMULATION: HOW I INVESTIGATED MY FIRST CYBERSECURITY BREACH | Hannat Adebola Salawu | [Read More](https://medium.com/p/71a4cd10c3e2) |
-| Thu, 25 Dec 2025 17:30:02 GMT | What Browser Location Access Really Exposes: An Educational Security Perspective | Abhayal | [Read More](https://medium.com/p/82537cb74fa0) |
-| Thu, 25 Dec 2025 17:23:44 GMT | Why Real Hackers Avoid Perfect Architectures | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/739d6f86c6bd) |
-| Thu, 25 Dec 2025 17:23:16 GMT | Stored SVG JavaScript Execution, Redirects & Phishing — Bug Bounty $$$ | Abdelfattah Elsabagh | [Read More](https://medium.com/p/efa249798048) |
-| Thu, 25 Dec 2025 17:18:13 GMT | From Breaking Scripts to Understanding Systems: My Early Lessons in Cybersecurity | Sujhal Gurav | [Read More](https://medium.com/p/6860ee017231) |
-| Thu, 25 Dec 2025 17:16:58 GMT | SOC 2 and HIPAA Compliance: IT Controls Every SMB Must Have in 2026 | Technijian | [Read More](https://medium.com/p/830bfe6eb985) |
-| Thu, 25 Dec 2025 17:16:00 GMT | AWS Advent Calendar 2025 — Days 16–20 | Ihor Sasovets | [Read More](https://medium.com/p/8dca030c6fea) |
-| Thu, 25 Dec 2025 17:05:23 GMT | *"The House That Breathed"* | Sakhi Writes | [Read More](https://medium.com/p/857b5eaf5715) |
