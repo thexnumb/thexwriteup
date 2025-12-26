@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 18:20:52 GMT | Where to Legally Hire Ethical Hackers: A Comprehensive Guide | Christopher William | [Read More](https://medium.com/p/ca9eef3d5e75) |
+| Fri, 26 Dec 2025 18:13:41 GMT | Industry Sectors that Employ Security Guards | Ultraprotectsecurity | [Read More](https://medium.com/p/2d19697b9e25) |
+| Fri, 26 Dec 2025 18:03:56 GMT | THE WOMAN WHO HID THE HYENA | Cyril Effiong | [Read More](https://medium.com/p/a5bb9b1497c3) |
+| Fri, 26 Dec 2025 18:02:28 GMT | Unpacking Santa Stealer — A Stealer Rebranded from BlueLine Stealer | Maurice Fielenbach | [Read More](https://medium.com/p/e74f429ce11d) |
+| Fri, 26 Dec 2025 18:01:08 GMT | Breaking the Android Play Integrity Trust Model | Joseph James (JJ) | [Read More](https://medium.com/p/9dafc9ab08d4) |
+| Fri, 26 Dec 2025 18:00:23 GMT | Parrot OS 7.0 Launches With AI-Focused Pentesting and a Full System Rewrite | Chetan Seripally | [Read More](https://medium.com/p/de1b604cca67) |
+| Fri, 26 Dec 2025 17:54:56 GMT | The History of Darknet Markets: From Silk Road to Decentralization | Tor BBB | [Read More](https://medium.com/p/48dcf1f66715) |
+| Fri, 26 Dec 2025 17:41:46 GMT | “The Shoe Seller and the Barefoot Boy”
+On one of the streets of New York, there was a man who sold… | Sakhi Writes | [Read More](https://medium.com/p/49773e16f3f4) |
+| Fri, 26 Dec 2025 17:40:19 GMT | The Only Place I Felt Seen Just Banned Me | Ritik | [Read More](https://medium.com/p/b71021008871) |
+| Fri, 26 Dec 2025 17:33:31 GMT | From Bottleneck to Builder: How Founders Create Freedom, Scale, and Teams That Win | Business Leaders of America Podcast | [Read More](https://medium.com/p/7383b3901c14) |
+| Fri, 26 Dec 2025 17:30:56 GMT | Why Android Users in the USA Are Switching to Free VPN Apps in 2026 | Mandolmanju | [Read More](https://medium.com/p/6f69270fc2d1) |
 | Fri, 26 Dec 2025 17:29:32 GMT | Title | Abdulrahmanhijam | [Read More](https://medium.com/p/642678bb6f4d) |
 | Fri, 26 Dec 2025 17:26:39 GMT | Day 24: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/dc4c01a1fa58) |
 | Fri, 26 Dec 2025 17:25:31 GMT | Skip the 4-year wait: start cloud cyber security now | Muhdsalym | [Read More](https://medium.com/p/cf05943fe77e) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 11:39:18 GMT | Life after Passwords | ThinkSimple | [Read More](https://medium.com/p/ea478cd21a3f) |
 | Fri, 26 Dec 2025 11:36:59 GMT | Why AI Bubble Narratives Keep Winning, Even When the Technology Keeps Working | Aravind Sakthivel | [Read More](https://medium.com/p/1d9b939e335d) |
 | Fri, 26 Dec 2025 11:34:54 GMT | How Security Guard Services Improve Customer Confidence and Trust | NY NightLife Security | [Read More](https://medium.com/p/f7a684a64760) |
-| Fri, 26 Dec 2025 11:32:24 GMT | Tech Ethics Through a Professional Lens | HAMZA NASEEM | [Read More](https://medium.com/p/3275dd7368c3) |
-| Fri, 26 Dec 2025 11:29:38 GMT | “Low Volume” Trap: Why I Hate Trading During Holidays | MayaKovic | [Read More](https://medium.com/p/b8d694729460) |
-| Fri, 26 Dec 2025 11:28:09 GMT | JUF launches ‘Live Secure Chicago’- Michael Zaransky [Chicago, IL] | Michael Zaransky | [Read More](https://medium.com/p/962bbdee42e0) |
-| Fri, 26 Dec 2025 11:27:15 GMT | Do You Need a Degree to Be a Pharmacy Tech? Complete Beginner Guide | Motherlandlove | [Read More](https://medium.com/p/40a8a68fda76) |
-| Fri, 26 Dec 2025 11:22:18 GMT | Life felt easier when i was certain | Rahul Gupta | [Read More](https://medium.com/p/1a818e710d16) |
-| Fri, 26 Dec 2025 11:18:51 GMT | Cybersecurity Risk Assessment Training for IT Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/9ada065eb441) |
-| Fri, 26 Dec 2025 11:16:39 GMT | I Audited My Chrome Extensions and Realized How Easy Silent Data Theft Has Become | Muhammad Hassan Ali | [Read More](https://medium.com/p/c749bd65d832) |
-| Fri, 26 Dec 2025 11:13:38 GMT | Breaking Down Cross-Site Scripting (XSS) Using DVWA | Mohamed Lebbie | [Read More](https://medium.com/p/09e4c648fa4f) |
-| Fri, 26 Dec 2025 11:09:36 GMT | Understanding SYN Flooding Attack | Jimitpatel | [Read More](https://medium.com/p/2388ba328aca) |
-| Fri, 26 Dec 2025 11:04:06 GMT | Configure your first virtual router(pfSense)- simulate attack with virtual machines. | Mohamed Aamir Khan | [Read More](https://medium.com/p/85c5a7caff46) |
-| Fri, 26 Dec 2025 11:03:57 GMT | HexStrike + Gemini vs. HackerAI: “Ops Copilot” vs. “Chatbot with Tools” | Andrey Pautov | [Read More](https://medium.com/p/1d799845410b) |
