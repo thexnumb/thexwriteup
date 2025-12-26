@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 04:47:04 GMT | How to Manage Multiple Pinterest Accounts Safely (2026 Guide) | HashRipple | [Read More](https://medium.com/p/5c0010ade25b) |
+| Fri, 26 Dec 2025 04:42:35 GMT | DMZ (Demilitarized Zone) Explained from the Internet | Chandra Shekar S | [Read More](https://medium.com/p/76c454e74a8a) |
+| Fri, 26 Dec 2025 04:33:34 GMT | Vibrant Living in the Digital Age: Why Digital Safety Is the New Secret to Longevity & the Silver… | All About Seniors | [Read More](https://medium.com/p/a4cd06c17f1e) |
+| Fri, 26 Dec 2025 04:29:42 GMT | Cybersecurity Risk Management: A Strategic Imperative for Modern Enterprises | Priyansh Shah | [Read More](https://medium.com/p/af6670e3685c) |
+| Fri, 26 Dec 2025 04:25:04 GMT | The Windows Event IDs Every Cybersecurity Professional Must Know | Raymond Ebonine | [Read More](https://medium.com/p/5003c9543a89) |
+| Fri, 26 Dec 2025 04:21:37 GMT | WebSocket Misconfiguration Leading to DOM Manipulation and Denial of Service in a Web Chat… | Waleed Osama | [Read More](https://medium.com/p/c8a0c8c30a19) |
+| Fri, 26 Dec 2025 04:16:32 GMT | ️‍♂️ OSINT Using AI Vision: Extracting Secrets From Screenshots | Vipul Sonule | [Read More](https://medium.com/p/8ecc4c303a3f) |
+| Fri, 26 Dec 2025 04:10:13 GMT | Stop Doing This While Debugging — It’s a Data Breach Waiting to Happen | AshokReddy | [Read More](https://medium.com/p/feb70757bcef) |
 | Fri, 26 Dec 2025 03:51:12 GMT | Your AI just went rogue. Do you have a kill switch, or just a prayer? | Akash Dolas | [Read More](https://medium.com/p/00a5119b10c1) |
 | Fri, 26 Dec 2025 03:49:47 GMT | AI Tools for Cybersecurity in 2025 | Abdul Majid Jamil | [Read More](https://medium.com/p/6ee1b870da07) |
 | Fri, 26 Dec 2025 03:44:08 GMT | Snapchat Proxy Guide (2026): Choose, Test, and Run Multiple Accounts Reliably | CryptoMirth | [Read More](https://medium.com/p/c25cbf7a3d95) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Dec 2025 16:57:12 GMT | Fake MAS Windows Activation Domain Used to Spread PowerShell Malware | Technijian | [Read More](https://medium.com/p/27deb86018b2) |
 | Thu, 25 Dec 2025 16:53:02 GMT | RAZOR TRYHACKME ACTIVE DIRECTORY | MrKouk | [Read More](https://medium.com/p/d862ed563b07) |
 | Thu, 25 Dec 2025 16:50:32 GMT | Horizontal Privilege Escalation via IDOR: Viewing, Editing and Deleting | Parth Narula | [Read More](https://medium.com/p/b10936ad4eb1) |
-| Thu, 25 Dec 2025 16:48:40 GMT | Why Your Azure Resources Need Private DNS (and How to Set it Up). | Anish Kumar Anal | [Read More](https://medium.com/p/bf42704b8221) |
-| Thu, 25 Dec 2025 16:45:24 GMT | SOC Alert Triaging- Tinsel Triage Day 10 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/3aaefb521a74) |
-| Thu, 25 Dec 2025 16:44:55 GMT | Try Hack Me- The Cod Caper (The Caping of Cod) Walkthrough | PulseEinher | [Read More](https://medium.com/p/aa18489236e4) |
-| Thu, 25 Dec 2025 16:43:39 GMT | How Bug Bounty Programs Became a Corporate Illusion of Security | Liam | [Read More](https://medium.com/p/43f7088e8b8d) |
-| Thu, 25 Dec 2025 16:38:33 GMT | Subnet Mask — Alt Ağ Maskesi Nedir? | Onur Öztürk | [Read More](https://medium.com/p/4d1e6e45f8f7) |
-| Thu, 25 Dec 2025 16:37:09 GMT | Why Your Threat Model Needs More PASTA? | Aastha Thakker | [Read More](https://medium.com/p/93d4ccacd194) |
-| Thu, 25 Dec 2025 16:36:37 GMT | The Threat Plane | Brian Curry | [Read More](https://medium.com/p/fe4fd447de30) |
-| Thu, 25 Dec 2025 16:31:49 GMT | How Banks Actually Do Password + MFA | Piyali Das | [Read More](https://medium.com/p/1ffb8b99b07c) |
