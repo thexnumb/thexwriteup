@@ -12,11 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 12:46:17 GMT | Will AI Make Leaders Obsolete or Finally Make Them Matter More? | Aravind Sakthivel | [Read More](https://medium.com/p/370bb11db009) |
+| Fri, 26 Dec 2025 12:46:08 GMT | The “Invisible Security Debt” No One Is Tracking — And Why Your Next Breach Will Come From It | Divyesh Jagad | [Read More](https://medium.com/p/6e432ab23251) |
+| Fri, 26 Dec 2025 12:27:25 GMT | Top Cybersecurity Threats to Watch in 2026 (And How to Stay Safe) | ThinkSimple | [Read More](https://medium.com/p/1ee7842b5745) |
+| Fri, 26 Dec 2025 12:25:17 GMT | ❤️ Kaspersky: The Antivirus I Keep Coming Back To ️ | Pramodh Casanova | [Read More](https://medium.com/p/1f4e59fd473f) |
+| Fri, 26 Dec 2025 12:24:50 GMT | IDEsaster: AI IDE Vulnerabilities Exploitation Guide 2025 | BBHunterpk | [Read More](https://medium.com/p/837a19376e58) |
+| Fri, 26 Dec 2025 12:16:40 GMT | Return to Sender: Auditing Printer Vulnerabilities in Active Directory | Nmullenski | [Read More](https://medium.com/p/5a93160be99d) |
+| Fri, 26 Dec 2025 12:12:40 GMT | Former Punjab IG Amar Singh Chahal Passes Away Amid Investigation Into ₹8.10 Crore Cyber Fraud | Himanshu Bhatt | [Read More](https://medium.com/p/92dd09cc9b60) |
+| Fri, 26 Dec 2025 12:11:22 GMT | How to Know If a Crypto Website Is Legit or a Scam (Step-by-Step Guide) | mehamed48 | [Read More](https://medium.com/p/d674924869d2) |
+| Fri, 26 Dec 2025 12:07:10 GMT | The Christmas Heist: A Deep Dive into the $7M Trust Wallet Browser Extension Hack | METAKEY | [Read More](https://medium.com/p/971cab48d55d) |
+| Fri, 26 Dec 2025 12:05:22 GMT | How a Typical Crypto Scam Works (Step by Step) | mehamed48 | [Read More](https://medium.com/p/1e715cec53ab) |
+| Fri, 26 Dec 2025 11:56:22 GMT | What Cyber Attacks Look Like Before They Make the News | Digital Defense | [Read More](https://medium.com/p/99f4ae853648) |
+| Fri, 26 Dec 2025 11:56:19 GMT | What Healing Looks Like When No One Is Watching | Inspire: Viva La Vida | [Read More](https://medium.com/p/f95f3da81af3) |
+| Fri, 26 Dec 2025 11:55:34 GMT | The Night My Instagram Got Hacked: A Wake-Up Call | Devarshi Acharya | [Read More](https://medium.com/p/326451d8faa1) |
+| Fri, 26 Dec 2025 11:50:22 GMT | A founder lost $1 million in pipeline last year.Why Enterprise Deals Keep Dying in Security Review. | Yogeshwar Tanwar | [Read More](https://medium.com/p/91eef7d2280d) |
+| Fri, 26 Dec 2025 11:45:24 GMT | Password Managers: Why You Need One More Than Ever | Little_Sun4lower | [Read More](https://medium.com/p/a13fa467dba6) |
+| Fri, 26 Dec 2025 11:44:56 GMT | How Long Does It Take to Become an X-Ray Technician? Full Timeline Guide | Motherlandlove | [Read More](https://medium.com/p/dbdbd352b5e2) |
+| Fri, 26 Dec 2025 11:41:10 GMT | IT Services Manchester That Actually Support Your Business | wearegekko | [Read More](https://medium.com/p/489c49376c39) |
+| Fri, 26 Dec 2025 11:39:18 GMT | Life after Passwords | ThinkSimple | [Read More](https://medium.com/p/ea478cd21a3f) |
 | Fri, 26 Dec 2025 11:36:59 GMT | Why AI Bubble Narratives Keep Winning, Even When the Technology Keeps Working | Aravind Sakthivel | [Read More](https://medium.com/p/1d9b939e335d) |
 | Fri, 26 Dec 2025 11:34:54 GMT | How Security Guard Services Improve Customer Confidence and Trust | NY NightLife Security | [Read More](https://medium.com/p/f7a684a64760) |
 | Fri, 26 Dec 2025 11:32:24 GMT | Tech Ethics Through a Professional Lens | HAMZA NASEEM | [Read More](https://medium.com/p/3275dd7368c3) |
 | Fri, 26 Dec 2025 11:29:38 GMT | “Low Volume” Trap: Why I Hate Trading During Holidays | MayaKovic | [Read More](https://medium.com/p/b8d694729460) |
 | Fri, 26 Dec 2025 11:28:09 GMT | JUF launches ‘Live Secure Chicago’- Michael Zaransky [Chicago, IL] | Michael Zaransky | [Read More](https://medium.com/p/962bbdee42e0) |
+| Fri, 26 Dec 2025 11:27:15 GMT | Do You Need a Degree to Be a Pharmacy Tech? Complete Beginner Guide | Motherlandlove | [Read More](https://medium.com/p/40a8a68fda76) |
 | Fri, 26 Dec 2025 11:22:18 GMT | Life felt easier when i was certain | Rahul Gupta | [Read More](https://medium.com/p/1a818e710d16) |
 | Fri, 26 Dec 2025 11:18:51 GMT | Cybersecurity Risk Assessment Training for IT Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/9ada065eb441) |
 | Fri, 26 Dec 2025 11:16:39 GMT | I Audited My Chrome Extensions and Realized How Easy Silent Data Theft Has Become | Muhammad Hassan Ali | [Read More](https://medium.com/p/c749bd65d832) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 07:18:41 GMT | Why Access Control Systems Are Essential for Modern Offices and Campuses | MSV INFOSOLUTIONS | [Read More](https://medium.com/p/8296b315323d) |
 | Fri, 26 Dec 2025 07:07:06 GMT | Network Security Certification with Practical Labs | Manisha Chaudhary | [Read More](https://medium.com/p/121de469a3a2) |
 | Fri, 26 Dec 2025 07:05:48 GMT | n8n: CVE-2025–68613 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/f85e65222493) |
-| Fri, 26 Dec 2025 06:57:38 GMT | PortSwigger - SSRF with whitelist-based input filter | Marvin | [Read More](https://medium.com/p/7d28b27883ea) |
-| Fri, 26 Dec 2025 06:52:57 GMT | Top 10 Backup Abuse Techniques for Privilege Escalation: Learn How Real Attacks Happen | Very Lazy Tech | [Read More](https://medium.com/p/d52af154fb78) |
-| Fri, 26 Dec 2025 06:49:24 GMT | CSRF, Cookies, and Bearer Tokens: What to Use, When, and Why Most Apps Get It Wrong | Rifat | [Read More](https://medium.com/p/76ddd791946b) |
-| Fri, 26 Dec 2025 06:38:48 GMT | Information Technology coursesInformation Technology courses | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/71850f96e16f) |
-| Fri, 26 Dec 2025 06:37:31 GMT | QUALIFI Level 5 Diploma in Cyber Security | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/b0f0b2f29c23) |
-| Fri, 26 Dec 2025 06:34:19 GMT | TryHackMe Cryptography Basics Walkthrough | Ufuk Yaman | [Read More](https://medium.com/p/d6497ddee075) |
-| Fri, 26 Dec 2025 06:34:10 GMT | How I Would Learn Cybersecurity If I Had to Start All Over Today | Motasem Hamdan | [Read More](https://medium.com/p/3e9aae0e0157) |
-| Fri, 26 Dec 2025 06:33:46 GMT | Tải Hack 99 Night In The Forest APK + Script (Auto Win, Kill Aura) v2.702 | Apkpuredev | [Read More](https://medium.com/p/497f5fb23920) |
-| Fri, 26 Dec 2025 06:23:21 GMT | SERP Data Collection in 2026: A Compliance-First Guide | ChainEclipse | [Read More](https://medium.com/p/156b7bae5266) |
-| Fri, 26 Dec 2025 06:19:46 GMT | Mastering the Request Class Improvements and Modern HTTP Handling with Symfony 7.4 | Matt Mochalkin | [Read More](https://medium.com/p/8d6c1f6cff1e) |
-| Fri, 26 Dec 2025 06:15:50 GMT | OverTheWire Bandit (Day 01): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/4296b98923b2) |
-| Fri, 26 Dec 2025 06:15:19 GMT | Pentester Olmak mı, SOC Analyst Olmak mı? Kimse Sana Gerçeği Söylemiyor | Mustafa ERTAN | [Read More](https://medium.com/p/093de48a3137) |
-| Fri, 26 Dec 2025 06:09:49 GMT | Protecting UAE’s Critical Data Infrastructure from Modern Threats | Tek Zeba | [Read More](https://medium.com/p/d186d3cf5e0a) |
-| Fri, 26 Dec 2025 06:02:36 GMT | Hardcoded Credential (in Current Code): CustomRegex — SSC Fortify Security Findings Analysis — Part… | Okan Yurt | [Read More](https://medium.com/p/89f56db6c13c) |
-| Fri, 26 Dec 2025 05:56:50 GMT | Quantum Computing Explained: What It Actually Means for Your Future | Shujaatali Badami | [Read More](https://medium.com/p/835cac653901) |
-| Fri, 26 Dec 2025 05:49:25 GMT | The Dark Side of Crypto Security: What No One Tells You | Bobby Andrews | [Read More](https://medium.com/p/bb28261e45ad) |
-| Fri, 26 Dec 2025 05:40:02 GMT | I Completed Advent of Cyber 2025 — Here’s a Day-by-Day Cybersecurity Playbook (24 Labs) | Fazal | [Read More](https://medium.com/p/249ac01f16bc) |
-| Fri, 26 Dec 2025 05:31:47 GMT | Cyber Security Books | Abdul Majid Jamil | [Read More](https://medium.com/p/302400fddb67) |
-| Fri, 26 Dec 2025 05:16:52 GMT | Securing a Kenyan SACCO from Zero [Part 5 of 6] | Munaniadeno | [Read More](https://medium.com/p/e6ed92b28dc2) |
