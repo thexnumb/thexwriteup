@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 17:10:54 GMT | Volatility Plugins — Plugin windows.drivermodule, windows.svcdiff Let’s Talk About it | Dean | [Read More](https://medium.com/p/647602aaf1c0) |
+| Fri, 26 Dec 2025 17:02:06 GMT | Understanding Hacking, Virtual Machines, Linux, and Networking: | Ashlin Mariya | [Read More](https://medium.com/p/c360f8467a60) |
+| Fri, 26 Dec 2025 16:54:36 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/7a5c020904a2) |
+| Fri, 26 Dec 2025 16:51:33 GMT | One Misplaced Header, Thousands of Leaked Sessions: A Bug Bounty Story | Iski | [Read More](https://medium.com/p/140e6a0f881d) |
 | Fri, 26 Dec 2025 16:27:10 GMT | Yük Dengeleyici ve Ters Proxy Karşılaştırması | Salih Buğra Duzelt | [Read More](https://medium.com/p/0a778ffa914d) |
 | Fri, 26 Dec 2025 16:20:23 GMT | Esai: Konvergensi ‘Media’ Tanpa Batas | Muhammad Farid Al Qadr | [Read More](https://medium.com/p/28cddbea031d) |
 | Fri, 26 Dec 2025 16:09:18 GMT | The Real Shape of OAuth 2.0: What the Standard Defines, What It Doesn’t, and Why Confusion Persists | Ayoub Abedallhameed | [Read More](https://medium.com/p/4d0860f06a47) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Dec 2025 10:53:45 GMT | Which Technology Protects VOIP Against Eavesdropping? Explained for Businesses | Creative IT Solutions | [Read More](https://medium.com/p/b0a194afff68) |
 | Fri, 26 Dec 2025 10:51:02 GMT | Why Copilot Does NOT Break SharePoint Security - Bad Architecture Does | Aakash Rahsi | [Read More](https://medium.com/p/4ce29c022892) |
 | Fri, 26 Dec 2025 10:50:19 GMT | Limits of Existing Cryptographic Technologies (MPC/Multi-Sig) and “Endpoint Vulnerabilities” | Satelite | [Read More](https://medium.com/p/0fcb11dffb37) |
-| Fri, 26 Dec 2025 10:48:43 GMT | Threat Hunting with Osquery Manager | Nesrine Cherrabi | [Read More](https://medium.com/p/2a32818e735a) |
-| Fri, 26 Dec 2025 10:43:17 GMT | How Cyber Attacks Really Begin: What Every Internet User Should Know | Alolika Ghosh | [Read More](https://medium.com/p/cf4be51e1153) |
-| Fri, 26 Dec 2025 10:43:08 GMT | Linux’ta Dosya İzinleri ve Yetkilendirme | g.o. | [Read More](https://medium.com/p/7d6141a1981a) |
-| Fri, 26 Dec 2025 10:42:22 GMT | 24 Hour Lock Out Solutions — Fast, Reliable Access Support Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/fc56bb44b83c) |
