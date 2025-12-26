@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Dec 2025 20:26:14 GMT | How a Single Forgotten DNS Record Can Turn a Trusted Domain into a Gambling Site | Ashutosh Anand | [Read More](https://medium.com/p/8ca2d094175b) |
 | Fri, 26 Dec 2025 20:11:33 GMT | SaaS Sprawl — Why Employees Create Invisible Attack Paths | JSOC IT BLOG | [Read More](https://medium.com/p/4a8d5e4de37c) |
 | Fri, 26 Dec 2025 20:04:31 GMT | Your Website Isn’t Vulnerable — Your Workflow Is ⚙️ | Ali.Yurie | [Read More](https://medium.com/p/fbdb21e422dd) |
 | Fri, 26 Dec 2025 19:56:47 GMT | From “First-Sight” to “Third-Sight” | Chier Hu | [Read More](https://medium.com/p/d8f5365e73cb) |
@@ -112,4 +113,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 12:16:40 GMT | Return to Sender: Auditing Printer Vulnerabilities in Active Directory | Nmullenski | [Read More](https://medium.com/p/5a93160be99d) |
 | Fri, 26 Dec 2025 12:12:40 GMT | Former Punjab IG Amar Singh Chahal Passes Away Amid Investigation Into ₹8.10 Crore Cyber Fraud | Himanshu Bhatt | [Read More](https://medium.com/p/92dd09cc9b60) |
 | Fri, 26 Dec 2025 12:11:22 GMT | How to Know If a Crypto Website Is Legit or a Scam (Step-by-Step Guide) | mehamed48 | [Read More](https://medium.com/p/d674924869d2) |
-| Fri, 26 Dec 2025 12:07:10 GMT | The Christmas Heist: A Deep Dive into the $7M Trust Wallet Browser Extension Hack | METAKEY | [Read More](https://medium.com/p/971cab48d55d) |
