@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 11:33:01 GMT | Difference Between Cyber Security and Information Security (2026 Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/8c6067f20878) |
 | Sat, 27 Dec 2025 11:18:11 GMT | Reflected XSS using Google Dorking on webmail application powered by IceWarp Server | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/aea90b17d1f4) |
 | Sat, 27 Dec 2025 11:10:56 GMT | Best cyber security institute in Bangalore | Cyberlancer | [Read More](https://medium.com/p/adc6aa9871af) |
 | Sat, 27 Dec 2025 11:06:41 GMT | You Were Never Hard to Love — They Just Didn’t Know How | Inspire: Viva La Vida | [Read More](https://medium.com/p/d08a1ce3677a) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 03:04:47 GMT | What Businesses Often Overlook When Planning UPS Protection | Avery Collins - Power & UPS Systems | [Read More](https://medium.com/p/416a59609a85) |
 | Sat, 27 Dec 2025 03:00:01 GMT | Grokipedia and the Illusion of the Alternative | Joseph Pierre Navratil | [Read More](https://medium.com/p/815aa26f9357) |
 | Sat, 27 Dec 2025 02:53:20 GMT | El “Caballo de Troya” de la IA: Comprendiendo el Prompt Injection y sus vectores de ataque | Methodwhite | [Read More](https://medium.com/p/2a09d0167f0e) |
-| Sat, 27 Dec 2025 02:38:44 GMT | How I Built a Digital Honeypot to Catch Algorithmic Stalkers in Action | Daretoexpose | [Read More](https://medium.com/p/80fcd70f56bb) |
