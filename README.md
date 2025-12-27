@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 04:43:17 GMT | $100 bounty — XSS & Input Validation | StvRoot | [Read More](https://medium.com/p/1ccfb35c5e1f) |
+| Sat, 27 Dec 2025 04:38:04 GMT | Unlocking the Power of hping: Advanced Flooding & Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/50960fdd36b3) |
+| Sat, 27 Dec 2025 04:36:54 GMT | Getting Started with hping: The Fast Lane to Packet Crafting | Cybeague Technologies | [Read More](https://medium.com/p/6e4e3b5717be) |
+| Sat, 27 Dec 2025 04:35:32 GMT | From Login Form to Root Access: Chaining SQLi & SSTI for Total Compromise | Nmullenski | [Read More](https://medium.com/p/11c77f0d3539) |
+| Sat, 27 Dec 2025 04:33:55 GMT | Digital Scams in India Are Exploding — and We’re Still Not Prepared | All About Seniors | [Read More](https://medium.com/p/c1537708026d) |
+| Sat, 27 Dec 2025 04:31:10 GMT | The 7 Guardian Designs That Keep DAOs From Drifting | Bhagya Rana | [Read More](https://medium.com/p/3cf4dd70ec5d) |
+| Sat, 27 Dec 2025 04:31:03 GMT | 7 DeFi Guardrails That Save You From Your Own Clicks | Quellin | [Read More](https://medium.com/p/52bdbe54b2c0) |
+| Sat, 27 Dec 2025 04:26:36 GMT | The Role of Professional Software Setup in Preventing Data Breaches | Ask IT Support | [Read More](https://medium.com/p/9fe2348f1394) |
+| Sat, 27 Dec 2025 04:20:47 GMT | Networking Basics in Ubuntu / Debian | Jairaj R | [Read More](https://medium.com/p/4dc954ea8bc8) |
+| Sat, 27 Dec 2025 04:19:19 GMT | Securing Agentic AI in Enterprise Applications: Why Traditional AppSec Models Are No Longer Enough | Bala Thripura Akasam | [Read More](https://medium.com/p/b380b432cf9b) |
+| Sat, 27 Dec 2025 04:17:53 GMT | The Hidden Risk: Why Node.js 18 is No Longer Safe | seoys | [Read More](https://medium.com/p/cff03cb8b7b7) |
+| Sat, 27 Dec 2025 04:13:46 GMT | Technology 2026: The Year AI Takes Control | Shetty21me | [Read More](https://medium.com/p/b98b31de7436) |
+| Sat, 27 Dec 2025 04:10:53 GMT | Why Node.js Versions Matter for Your Business | seoys | [Read More](https://medium.com/p/9e0bfde25b4b) |
+| Sat, 27 Dec 2025 04:02:18 GMT | 125 Podcasts from Thinkers360 Thought Leaders You Should Listen To in 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/a21171147be9) |
 | Sat, 27 Dec 2025 03:53:51 GMT | How Modern Malware Exploits Elliptic Curve Cryptography | Pietro D. Makowski | [Read More](https://medium.com/p/d2ce44ffb871) |
 | Sat, 27 Dec 2025 03:49:15 GMT | Más allá del Deep Learning tradicional: Arquitectura y Funcionamiento de las Spiking Neural… | Methodwhite | [Read More](https://medium.com/p/9c0fffd1cd0b) |
 | Sat, 27 Dec 2025 03:32:48 GMT | Passkeys: Practical Lessons | Pawan Jaiswal | [Read More](https://medium.com/p/efee9c5420ff) |
@@ -100,17 +114,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 16:02:30 GMT | Mastering Firewall Protection: Your First Line of Defense in Cybersecurity | Negro Med | [Read More](https://medium.com/p/368bfe310bb2) |
 | Fri, 26 Dec 2025 16:02:16 GMT | Christmas Strikes, Civic Space, and Nigeria’s Place at the G20. | Emitomo Tobi Nimisire | [Read More](https://medium.com/p/c2a5d0c752e2) |
 | Fri, 26 Dec 2025 16:01:48 GMT | WAF: Introduction Walkthrough - TryHackMe | Nizam Uddin | [Read More](https://medium.com/p/1423d4d4b2a5) |
-| Fri, 26 Dec 2025 15:54:23 GMT | Forgotten VM Walkthrough | Spookz | [Read More](https://medium.com/p/94d9b2e23a66) |
-| Fri, 26 Dec 2025 15:48:54 GMT | Why Android Users in the USA Are Switching to Free VPN Apps in 2026 | Mandolmanju | [Read More](https://medium.com/p/1f95f805f5aa) |
-| Fri, 26 Dec 2025 15:40:31 GMT | Soul Hygiene | é | [Read More](https://medium.com/p/fc6ba35a4f5f) |
-| Fri, 26 Dec 2025 15:35:09 GMT | China’s Great Leap Forward: Entering the 10G Era and the Rise of “Neural” Smart Cities | Carmine Dalise | [Read More](https://medium.com/p/397622a833b2) |
-| Fri, 26 Dec 2025 15:33:21 GMT | The Corix Partners Friday Reading List — December 26, 2025 | JC Gaillard | [Read More](https://medium.com/p/f6836e630cdd) |
-| Fri, 26 Dec 2025 15:32:05 GMT | Understanding DDoS Attacks: How They Work and How to Stay Protected | Syedkhuzemaaligilani | [Read More](https://medium.com/p/d87ac5601c82) |
-| Fri, 26 Dec 2025 15:31:20 GMT | Real Story: रिया, एक Deepfake और ‘NetRaksha’ का चक्रव्यूह | Varia | [Read More](https://medium.com/p/32799a49704e) |
-| Fri, 26 Dec 2025 15:27:54 GMT | Top 10 Cybersecurity Threats to Watch in 2026 | Syedkhuzemaaligilani | [Read More](https://medium.com/p/efdc3f4357f8) |
-| Fri, 26 Dec 2025 15:26:41 GMT | Commercial Security in Houston | Security Houston | [Read More](https://medium.com/p/88318d5e06a4) |
-| Fri, 26 Dec 2025 15:11:19 GMT | Alarm Security Guard Company Houston | Security Houston | [Read More](https://medium.com/p/23ddb2d1da99) |
-| Fri, 26 Dec 2025 15:08:59 GMT | Breach in the Cloud : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/f097a6871400) |
-| Fri, 26 Dec 2025 15:07:01 GMT | Detecting Living-off-the-Land Evasion: Why net1 Enumeration Still Leaves a Trace | David O'Neill | [Read More](https://medium.com/p/382d34f8f16f) |
-| Fri, 26 Dec 2025 14:59:49 GMT | Breaking Out with ../: A Simple Guide to Path Traversal Bugs | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/fafbc2508496) |
-| Fri, 26 Dec 2025 14:59:46 GMT | De .asar a Bytecode | FeCeSociety | [Read More](https://medium.com/p/4f62fc52d80a) |
