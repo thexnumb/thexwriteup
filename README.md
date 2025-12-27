@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 03:53:51 GMT | How Modern Malware Exploits Elliptic Curve Cryptography | Pietro D. Makowski | [Read More](https://medium.com/p/d2ce44ffb871) |
+| Sat, 27 Dec 2025 03:49:15 GMT | Más allá del Deep Learning tradicional: Arquitectura y Funcionamiento de las Spiking Neural… | Methodwhite | [Read More](https://medium.com/p/9c0fffd1cd0b) |
+| Sat, 27 Dec 2025 03:32:48 GMT | Passkeys: Practical Lessons | Pawan Jaiswal | [Read More](https://medium.com/p/efee9c5420ff) |
+| Sat, 27 Dec 2025 03:32:23 GMT | LokiBot Revisited: How Image-Based Steganography Enables Stealthy Delivery | Deven Chhajed | [Read More](https://medium.com/p/31372f206268) |
 | Sat, 27 Dec 2025 03:04:47 GMT | What Businesses Often Overlook When Planning UPS Protection | Avery Collins - Power & UPS Systems | [Read More](https://medium.com/p/416a59609a85) |
 | Sat, 27 Dec 2025 03:00:01 GMT | Grokipedia and the Illusion of the Alternative | Joseph Pierre Navratil | [Read More](https://medium.com/p/815aa26f9357) |
 | Sat, 27 Dec 2025 02:53:20 GMT | El “Caballo de Troya” de la IA: Comprendiendo el Prompt Injection y sus vectores de ataque | Methodwhite | [Read More](https://medium.com/p/2a09d0167f0e) |
@@ -110,7 +114,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 15:07:01 GMT | Detecting Living-off-the-Land Evasion: Why net1 Enumeration Still Leaves a Trace | David O'Neill | [Read More](https://medium.com/p/382d34f8f16f) |
 | Fri, 26 Dec 2025 14:59:49 GMT | Breaking Out with ../: A Simple Guide to Path Traversal Bugs | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/fafbc2508496) |
 | Fri, 26 Dec 2025 14:59:46 GMT | De .asar a Bytecode | FeCeSociety | [Read More](https://medium.com/p/4f62fc52d80a) |
-| Fri, 26 Dec 2025 14:58:59 GMT | Perspectives on Networking | azrecon_ | [Read More](https://medium.com/p/3613709c410a) |
-| Fri, 26 Dec 2025 14:58:56 GMT | Skip the long wait — start your cyber career faster Paying rising fees and waiting years to finish… | Furqan Ahmad | [Read More](https://medium.com/p/d53362565e9a) |
-| Fri, 26 Dec 2025 14:56:10 GMT | Business Scam Survival Kit: A Simple Guide for SMEs and Scale-Ups | Evistia | [Read More](https://medium.com/p/c96a6e272506) |
-| Fri, 26 Dec 2025 14:54:54 GMT | Your Company’s Logins Are Probably Leaked Already. Here’s How to Check in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/af7bfa445dcb) |
