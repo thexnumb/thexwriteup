@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 12:19:32 GMT | DockerLabs — Puzzle [Write-Up] | APS88 | [Read More](https://medium.com/p/8124f5a38966) |
+| Sat, 27 Dec 2025 12:17:47 GMT | Phase-Locked Minds | James Kreis | [Read More](https://medium.com/p/9455099a6394) |
+| Sat, 27 Dec 2025 12:17:14 GMT | Practical JWT Mastery in .NET | Compile & Conquer | [Read More](https://medium.com/p/5bbab173a2ea) |
+| Sat, 27 Dec 2025 12:10:17 GMT | How to Make Money with Cybersecurity (In Simple Terms) | Zunair Usmani | [Read More](https://medium.com/p/55342695a9f1) |
+| Sat, 27 Dec 2025 12:06:57 GMT | Using Compliance Policy for macOS in Microsoft Intune | mdm.how | [Read More](https://medium.com/p/c94a38de2e10) |
+| Sat, 27 Dec 2025 11:59:16 GMT | Account Takeover via IDOR | Samet Yiğit | [Read More](https://medium.com/p/71b24946bdf7) |
+| Sat, 27 Dec 2025 11:56:18 GMT | Leadership Development Plan | Tose Omera | [Read More](https://medium.com/p/825adb967737) |
+| Sat, 27 Dec 2025 11:42:22 GMT | Door Lock Service — Expert Locksmith Solutions Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/0f18452d0b6b) |
+| Sat, 27 Dec 2025 11:41:51 GMT | 24hr Emergency Locksmith — Fast & Reliable London Locksmith Services | The Lock Specialist Ltd | [Read More](https://medium.com/p/aac4fff43712) |
 | Sat, 27 Dec 2025 11:33:01 GMT | Difference Between Cyber Security and Information Security (2026 Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/8c6067f20878) |
 | Sat, 27 Dec 2025 11:18:11 GMT | Reflected XSS using Google Dorking on webmail application powered by IceWarp Server | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/aea90b17d1f4) |
 | Sat, 27 Dec 2025 11:10:56 GMT | Best cyber security institute in Bangalore | Cyberlancer | [Read More](https://medium.com/p/adc6aa9871af) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 04:17:53 GMT | The Hidden Risk: Why Node.js 18 is No Longer Safe | seoys | [Read More](https://medium.com/p/cff03cb8b7b7) |
 | Sat, 27 Dec 2025 04:13:46 GMT | Technology 2026: The Year AI Takes Control | Shetty21me | [Read More](https://medium.com/p/b98b31de7436) |
 | Sat, 27 Dec 2025 04:10:53 GMT | Why Node.js Versions Matter for Your Business | seoys | [Read More](https://medium.com/p/9e0bfde25b4b) |
-| Sat, 27 Dec 2025 04:09:10 GMT | 2026 短網址服務比較 | Vaga | [Read More](https://medium.com/p/ea5ee22da542) |
-| Sat, 27 Dec 2025 04:02:18 GMT | 125 Podcasts from Thinkers360 Thought Leaders You Should Listen To in 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/a21171147be9) |
-| Sat, 27 Dec 2025 03:53:51 GMT | How Modern Malware Exploits Elliptic Curve Cryptography | Pietro D. Makowski | [Read More](https://medium.com/p/d2ce44ffb871) |
-| Sat, 27 Dec 2025 03:49:15 GMT | Más allá del Deep Learning tradicional: Arquitectura y Funcionamiento de las Spiking Neural… | Methodwhite | [Read More](https://medium.com/p/9c0fffd1cd0b) |
-| Sat, 27 Dec 2025 03:32:48 GMT | Passkeys: Practical Lessons | Pawan Jaiswal | [Read More](https://medium.com/p/efee9c5420ff) |
-| Sat, 27 Dec 2025 03:32:23 GMT | LokiBot Revisited: How Image-Based Steganography Enables Stealthy Delivery | Deven Chhajed | [Read More](https://medium.com/p/31372f206268) |
-| Sat, 27 Dec 2025 03:04:47 GMT | What Businesses Often Overlook When Planning UPS Protection | Avery Collins - Power & UPS Systems | [Read More](https://medium.com/p/416a59609a85) |
-| Sat, 27 Dec 2025 03:00:01 GMT | Grokipedia and the Illusion of the Alternative | Joseph Pierre Navratil | [Read More](https://medium.com/p/815aa26f9357) |
-| Sat, 27 Dec 2025 02:53:20 GMT | El “Caballo de Troya” de la IA: Comprendiendo el Prompt Injection y sus vectores de ataque | Methodwhite | [Read More](https://medium.com/p/2a09d0167f0e) |
