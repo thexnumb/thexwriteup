@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 13:15:51 GMT | Ledger data breach / hack Saturday 27th December 2025 | Ledger | [Read More](https://medium.com/p/45968eeadaff) |
+| Sat, 27 Dec 2025 13:14:38 GMT | Mastering Linux Isolation: A Practical Guide to Namespaces and cgroups | Sumit Sah | [Read More](https://medium.com/p/5cd39c82fe3d) |
+| Sat, 27 Dec 2025 13:14:07 GMT | Best Ethical Hacking Training in Noida - Ducat India | Kesari Srivastava | [Read More](https://medium.com/p/ac060ceecfe7) |
+| Sat, 27 Dec 2025 13:13:38 GMT | Best Ethical Hacking Training in Noida - Ducat India | Divyanka Singh | [Read More](https://medium.com/p/60a0af7629ff) |
+| Sat, 27 Dec 2025 13:13:38 GMT | Best Ethical Hacking Training in Noida - Ducat India | Abhishek Kumar | [Read More](https://medium.com/p/6139cdf5a26e) |
+| Sat, 27 Dec 2025 13:13:33 GMT | Best Ethical Hacking Training in Noida - Ducat India | Sunny Ranjan | [Read More](https://medium.com/p/140dd2d29d79) |
+| Sat, 27 Dec 2025 13:10:11 GMT | OverTheWire Bandit (Day 02): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/89b6f60230ca) |
+| Sat, 27 Dec 2025 13:03:08 GMT | Stop Paying for Software: The Ultimate Guide to Free Student Perks (2026 Edition) | Jhaxce | [Read More](https://medium.com/p/d1b050d1f8b8) |
+| Sat, 27 Dec 2025 13:02:24 GMT | Nigeria, Trump and the convenient fiction of a religious war | Paolo Calvi | [Read More](https://medium.com/p/db440c0e7503) |
+| Sat, 27 Dec 2025 13:02:24 GMT | Interactive Guide: Mastering Linux with OverTheWire Bandit (Level 0–5) | Sivanesan M | [Read More](https://medium.com/p/13832f11deb9) |
+| Sat, 27 Dec 2025 12:59:51 GMT | Lab: Stored DOM XSS | KRY | [Read More](https://medium.com/p/f9741b8d793a) |
+| Sat, 27 Dec 2025 12:56:38 GMT | Lab: Reflected DOM XSS | KRY | [Read More](https://medium.com/p/f8d536c0ece6) |
+| Sat, 27 Dec 2025 12:54:18 GMT | Why Scaling Horizontally Makes Bugs Worse | Lakshika | [Read More](https://medium.com/p/e8436f0522ec) |
+| Sat, 27 Dec 2025 12:49:39 GMT | FortiToken Kullanımı ve Çok Faktörlü Kimlik Doğrulamanın Önemi | Elif ASKAY | [Read More](https://medium.com/p/c400e82669f1) |
+| Sat, 27 Dec 2025 12:43:15 GMT | Technology 2026 Smarter Machines Faster World | Shetty21me | [Read More](https://medium.com/p/f8127c6831cd) |
+| Sat, 27 Dec 2025 12:37:10 GMT | NIST & MITRE: $20 Million AI Cybersecurity Initiative | Information For Technologies | [Read More](https://medium.com/p/a4c421feb053) |
+| Sat, 27 Dec 2025 12:34:14 GMT | # Week 2: Creating a Mobile Security Hub (NetHunter + Termux) | scriptpy | [Read More](https://medium.com/p/d9ba608a2e20) |
 | Sat, 27 Dec 2025 12:19:32 GMT | DockerLabs — Puzzle [Write-Up] | APS88 | [Read More](https://medium.com/p/8124f5a38966) |
 | Sat, 27 Dec 2025 12:17:47 GMT | Phase-Locked Minds | James Kreis | [Read More](https://medium.com/p/9455099a6394) |
 | Sat, 27 Dec 2025 12:17:14 GMT | Practical JWT Mastery in .NET | Compile & Conquer | [Read More](https://medium.com/p/5bbab173a2ea) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 05:18:23 GMT | ️ In the Security Business, Trust Is Built Before the First Patrol | Qbit Technologies | [Read More](https://medium.com/p/a9987e795920) |
 | Sat, 27 Dec 2025 05:15:23 GMT | Reverse Engineering — Injection Series Part 3 (Blue Team Labs Online) | Jagadishtripathy | [Read More](https://medium.com/p/78181ebaa163) |
 | Sat, 27 Dec 2025 05:10:26 GMT | The Ultimate Guide to Capture The Flag (CTF)​ | Janhvee Laad | [Read More](https://medium.com/p/36493fbbd012) |
-| Sat, 27 Dec 2025 05:02:27 GMT | 5 Key Steps to a Successful Cloud Migration Strategy in 2025 | F9 Infotech | [Read More](https://medium.com/p/6e2238d4c702) |
-| Sat, 27 Dec 2025 04:57:22 GMT | 2025: The Road We Crossed — Fear, Change, and the Future (part 1) | Dinesh Kumar | [Read More](https://medium.com/p/280ded73d5f7) |
-| Sat, 27 Dec 2025 04:55:02 GMT | cyber security course in Kochi | Jahanashabas | [Read More](https://medium.com/p/afc3150f1213) |
-| Sat, 27 Dec 2025 04:51:25 GMT | Starter Templates vulnerability (CVE-2025–13065) is a critical vulnerability that has been… | Muhammad Waqas | [Read More](https://medium.com/p/70bb49fb2ded) |
-| Sat, 27 Dec 2025 04:43:17 GMT | $100 bounty — XSS & Input Validation | StvRoot | [Read More](https://medium.com/p/1ccfb35c5e1f) |
-| Sat, 27 Dec 2025 04:38:04 GMT | Unlocking the Power of hping: Advanced Flooding & Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/50960fdd36b3) |
-| Sat, 27 Dec 2025 04:36:54 GMT | Getting Started with hping: The Fast Lane to Packet Crafting | Cybeague Technologies | [Read More](https://medium.com/p/6e4e3b5717be) |
-| Sat, 27 Dec 2025 04:35:32 GMT | From Login Form to Root Access: Chaining SQLi & SSTI for Total Compromise | Nmullenski | [Read More](https://medium.com/p/11c77f0d3539) |
-| Sat, 27 Dec 2025 04:33:55 GMT | Digital Scams in India Are Exploding — and We’re Still Not Prepared | All About Seniors | [Read More](https://medium.com/p/c1537708026d) |
-| Sat, 27 Dec 2025 04:31:10 GMT | The 7 Guardian Designs That Keep DAOs From Drifting | Bhagya Rana | [Read More](https://medium.com/p/3cf4dd70ec5d) |
-| Sat, 27 Dec 2025 04:31:03 GMT | 7 DeFi Guardrails That Save You From Your Own Clicks | Quellin | [Read More](https://medium.com/p/52bdbe54b2c0) |
-| Sat, 27 Dec 2025 04:26:36 GMT | The Role of Professional Software Setup in Preventing Data Breaches | Ask IT Support | [Read More](https://medium.com/p/9fe2348f1394) |
-| Sat, 27 Dec 2025 04:20:47 GMT | Networking Basics in Ubuntu / Debian | Jairaj R | [Read More](https://medium.com/p/4dc954ea8bc8) |
-| Sat, 27 Dec 2025 04:19:19 GMT | Securing Agentic AI in Enterprise Applications: Why Traditional AppSec Models Are No Longer Enough | Bala Thripura Akasam | [Read More](https://medium.com/p/b380b432cf9b) |
-| Sat, 27 Dec 2025 04:17:53 GMT | The Hidden Risk: Why Node.js 18 is No Longer Safe | seoys | [Read More](https://medium.com/p/cff03cb8b7b7) |
-| Sat, 27 Dec 2025 04:13:46 GMT | Technology 2026: The Year AI Takes Control | Shetty21me | [Read More](https://medium.com/p/b98b31de7436) |
-| Sat, 27 Dec 2025 04:10:53 GMT | Why Node.js Versions Matter for Your Business | seoys | [Read More](https://medium.com/p/9e0bfde25b4b) |
