@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 07:32:22 GMT | 10 Solana Dev Habits That Prevent Incidents | Duckweave | [Read More](https://medium.com/p/8ad27f40deec) |
+| Sat, 27 Dec 2025 07:32:11 GMT | Cyber Attacks in 2025: The Year Digital Trust Was Put on Trial | Vijay Kumar Gupta | [Read More](https://medium.com/p/be564ec8ad97) |
+| Sat, 27 Dec 2025 07:28:19 GMT | SQL injection in Prepare statement | 0xz3d | [Read More](https://medium.com/p/a1014172dec7) |
+| Sat, 27 Dec 2025 07:25:37 GMT | Satcom Sleuthing: Using MODAT to Fingerprint Marine Communication Systems | hacker_might | [Read More](https://medium.com/p/36adfd24d8f3) |
+| Sat, 27 Dec 2025 07:17:21 GMT | Cyber Security Is Broken — Not Because of Hackers, But Because of How We Train | Ankit rai | [Read More](https://medium.com/p/1518e3770a00) |
 | Sat, 27 Dec 2025 07:07:06 GMT | Xiaomi 17 Ultra: Leica-Powered Cameras Dengan 200MP Telephoto, Master Zoom Ring & Snapdragon 8… | 77go - Best Online Casino Malaysia | [Read More](https://medium.com/p/6ca51d3f61d4) |
 | Sat, 27 Dec 2025 07:06:28 GMT | Steel Gate Manufacturer Near Me | Harichand Steel | [Read More](https://medium.com/p/33f52ad1fe70) |
 | Sat, 27 Dec 2025 07:06:06 GMT | Simple Ways to Protect Yourself Online | TechConnectPro | [Read More](https://medium.com/p/d3b5a6476747) |
@@ -108,8 +113,3 @@ A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Re
 | Fri, 26 Dec 2025 19:42:43 GMT | Title | Abdulrahman Haggam | [Read More](https://medium.com/p/b8ba976f7569) |
 | Fri, 26 Dec 2025 19:32:12 GMT | The Iran–US–Israel System | PYURA ANSHUMAN | [Read More](https://medium.com/p/59ead2240ab3) |
 | Fri, 26 Dec 2025 19:32:01 GMT | App Store Screenshots made easy | Štěpán Šanda | [Read More](https://medium.com/p/547fd3ec8534) |
-| Fri, 26 Dec 2025 19:18:43 GMT | When OTP Forgets Who You Are | Viratavi | [Read More](https://medium.com/p/998e564597d2) |
-| Fri, 26 Dec 2025 18:41:12 GMT | Cybersecurity Checklist for Small Businesses (Practical & Actionable) | Security-in-a-Box | [Read More](https://medium.com/p/087048960f08) |
-| Fri, 26 Dec 2025 18:36:07 GMT | What Is Product Security? (Explained Like You’re Talking to a Friend ☕) | Ayan bhowal | [Read More](https://medium.com/p/185293dd1836) |
-| Fri, 26 Dec 2025 18:32:16 GMT | Smol — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/e6531ff428eb) |
-| Fri, 26 Dec 2025 18:20:52 GMT | Where to Legally Hire Ethical Hackers: A Comprehensive Guide | Christopher William | [Read More](https://medium.com/p/ca9eef3d5e75) |
