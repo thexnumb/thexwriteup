@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 20:16:50 GMT | From Open Redirect to Credential Theft: A Login Flow Story | SabNa | [Read More](https://medium.com/p/79f7a8de2720) |
+| Sat, 27 Dec 2025 20:15:08 GMT | Between Us | amélie | [Read More](https://medium.com/p/7c18337df5ce) |
+| Sat, 27 Dec 2025 20:05:59 GMT | GitHub’a Yanlışlıkla Şifre Atmaya Son: .NET User Secrets Kullanım Rehberi | Berkant Karaca | [Read More](https://medium.com/p/b75b7c019752) |
+| Sat, 27 Dec 2025 20:05:32 GMT | Yang Code Review — AI-Powered Secure Code Review for GitHub Actions | Le Thanh Phuc (Lee) | [Read More](https://medium.com/p/068f7eb3c9c6) |
+| Sat, 27 Dec 2025 20:00:58 GMT | The Human Firewall: What My Journey Through Techrise 2.0 Taught Me About Cybersecurity. | Sarah K Chukwukadibia | [Read More](https://medium.com/p/39f4e72af9b0) |
+| Sat, 27 Dec 2025 19:58:22 GMT | Infinity Learning lab: KeyMaster — Decoding S3 Secrets — Writeup | Hubert | [Read More](https://medium.com/p/90eb3b4d920a) |
+| Sat, 27 Dec 2025 19:56:25 GMT | VS Code + GitHub Copilot for Penetration Testing Complete Guide | Adnane Arharbi, Eng | [Read More](https://medium.com/p/b312b3aeb018) |
+| Sat, 27 Dec 2025 19:51:03 GMT | VPNs, Security, and Privacy: What You Need to Know | Gus Woltmann | [Read More](https://medium.com/p/781baa8cece3) |
+| Sat, 27 Dec 2025 19:47:42 GMT | Inside the Hacker Toolkit: Devices That Shape Modern Cybersecurity | Mert Baykal | [Read More](https://medium.com/p/184d7d04e623) |
 | Sat, 27 Dec 2025 19:26:11 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobalserver | [Read More](https://medium.com/p/1f5fac88a6ac) |
 | Sat, 27 Dec 2025 19:26:09 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobalagency Manager | [Read More](https://medium.com/p/99097044aec3) |
 | Sat, 27 Dec 2025 19:26:07 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobaldirector | [Read More](https://medium.com/p/9276499d0ba8) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 13:13:38 GMT | Best Ethical Hacking Training in Noida - Ducat India | Abhishek Kumar | [Read More](https://medium.com/p/6139cdf5a26e) |
 | Sat, 27 Dec 2025 13:13:33 GMT | Best Ethical Hacking Training in Noida - Ducat India | Sunny Ranjan | [Read More](https://medium.com/p/140dd2d29d79) |
 | Sat, 27 Dec 2025 13:10:11 GMT | OverTheWire Bandit (Day 02): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/89b6f60230ca) |
-| Sat, 27 Dec 2025 13:03:08 GMT | Stop Paying for Software: The Ultimate Guide to Free Student Perks (2026 Edition) | Jhaxce | [Read More](https://medium.com/p/d1b050d1f8b8) |
-| Sat, 27 Dec 2025 13:02:24 GMT | Nigeria, Trump and the convenient fiction of a religious war | Paolo Calvi | [Read More](https://medium.com/p/db440c0e7503) |
-| Sat, 27 Dec 2025 13:02:24 GMT | Interactive Guide: Mastering Linux with OverTheWire Bandit (Level 0–5) | Sivanesan M | [Read More](https://medium.com/p/13832f11deb9) |
-| Sat, 27 Dec 2025 12:59:51 GMT | Lab: Stored DOM XSS | KRY | [Read More](https://medium.com/p/f9741b8d793a) |
-| Sat, 27 Dec 2025 12:56:38 GMT | Lab: Reflected DOM XSS | KRY | [Read More](https://medium.com/p/f8d536c0ece6) |
-| Sat, 27 Dec 2025 12:54:18 GMT | Why Scaling Horizontally Makes Bugs Worse | Lakshika | [Read More](https://medium.com/p/e8436f0522ec) |
-| Sat, 27 Dec 2025 12:49:39 GMT | FortiToken Kullanımı ve Çok Faktörlü Kimlik Doğrulamanın Önemi | Elif ASKAY | [Read More](https://medium.com/p/c400e82669f1) |
-| Sat, 27 Dec 2025 12:43:15 GMT | Technology 2026 Smarter Machines Faster World | Shetty21me | [Read More](https://medium.com/p/f8127c6831cd) |
-| Sat, 27 Dec 2025 12:37:10 GMT | NIST & MITRE: $20 Million AI Cybersecurity Initiative | Information For Technologies | [Read More](https://medium.com/p/a4c421feb053) |
