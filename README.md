@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 03:04:47 GMT | What Businesses Often Overlook When Planning UPS Protection | Avery Collins - Power & UPS Systems | [Read More](https://medium.com/p/416a59609a85) |
+| Sat, 27 Dec 2025 03:00:01 GMT | Grokipedia and the Illusion of the Alternative | Joseph Pierre Navratil | [Read More](https://medium.com/p/815aa26f9357) |
+| Sat, 27 Dec 2025 02:53:20 GMT | El “Caballo de Troya” de la IA: Comprendiendo el Prompt Injection y sus vectores de ataque | Methodwhite | [Read More](https://medium.com/p/2a09d0167f0e) |
+| Sat, 27 Dec 2025 02:38:44 GMT | How I Built a Digital Honeypot to Catch Algorithmic Stalkers in Action | Daretoexpose | [Read More](https://medium.com/p/80fcd70f56bb) |
+| Sat, 27 Dec 2025 02:28:56 GMT | Securing Your JSON Files | Nala Hamer | [Read More](https://medium.com/p/0104ab464660) |
+| Sat, 27 Dec 2025 02:02:59 GMT | 2025: The Year They Tried to Erase Me
+A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Read More](https://medium.com/p/24215ceb9f3f) |
 | Sat, 27 Dec 2025 01:44:20 GMT | Mastering Active Information Gathering: A Comprehensive Analysis of Digital Infrastructure Security | Diva Rizky Alfitrah | [Read More](https://medium.com/p/09ff9015ff6b) |
 | Sat, 27 Dec 2025 01:30:32 GMT | South Korea’s Digital Paradox: 4 Surprising Truths Behind the Tech Powerhouse | Abdullah Zulkifli | [Read More](https://medium.com/p/f2f219983979) |
 | Sat, 27 Dec 2025 01:20:09 GMT | Fortify Your Digital Fortress: Steps to Guard Against Cyber Threats in 2025 | Daniel Noel Guillen | [Read More](https://medium.com/p/a86f7d944dbf) |
@@ -107,9 +114,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 14:58:56 GMT | Skip the long wait — start your cyber career faster Paying rising fees and waiting years to finish… | Furqan Ahmad | [Read More](https://medium.com/p/d53362565e9a) |
 | Fri, 26 Dec 2025 14:56:10 GMT | Business Scam Survival Kit: A Simple Guide for SMEs and Scale-Ups | Evistia | [Read More](https://medium.com/p/c96a6e272506) |
 | Fri, 26 Dec 2025 14:54:54 GMT | Your Company’s Logins Are Probably Leaked Already. Here’s How to Check in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/af7bfa445dcb) |
-| Fri, 26 Dec 2025 14:44:15 GMT | Using Neo C2 Framework to run BOFs & Assemblies | stillbigjosh | [Read More](https://medium.com/p/fb4392a6b81c) |
-| Fri, 26 Dec 2025 14:42:59 GMT | Fortinet Warns of Active Exploitation: The FortiOS SSL VPN 2FA Bypass You Should Recheck Today… | Germano Costi | [Read More](https://medium.com/p/cfbca3debd0f) |
-| Fri, 26 Dec 2025 14:31:01 GMT | Cybersecurity and how >Sometimes< Eastern Europeans Know Shit About Fuck | Dorian Kray | [Read More](https://medium.com/p/c1e111337849) |
-| Fri, 26 Dec 2025 14:20:57 GMT | PG practice Zipper — Security Lessons | Balaji_21 | [Read More](https://medium.com/p/d6a7c7eedd63) |
-| Fri, 26 Dec 2025 14:19:27 GMT | Bypassing PHP disable_functions via `LD_PRELOAD` Injection | Orion | [Read More](https://medium.com/p/cc74c5be4868) |
-| Fri, 26 Dec 2025 14:19:24 GMT | Try Hack Me- Year of the Rabbit Walkthrough | PulseEinher | [Read More](https://medium.com/p/5659846df74c) |
