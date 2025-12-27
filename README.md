@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 09:31:06 GMT | GhostPairing: Social Engineering Attack | Himanshu Bhatt | [Read More](https://medium.com/p/bda1026b4a15) |
+| Sat, 27 Dec 2025 09:21:00 GMT | REALITY doesn’t disappear just because you feel uncomfortable, no, you either face it or… | Richking | [Read More](https://medium.com/p/b149aac5109d) |
+| Sat, 27 Dec 2025 09:16:42 GMT | The Cryptography Journey — Self Signed Certificate | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c7b3992abfdb) |
 | Sat, 27 Dec 2025 09:13:54 GMT | Email Spoofing - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/bc24171846f7) |
 | Sat, 27 Dec 2025 09:12:51 GMT | Cybersecurity in OT Is Not a Product, It’s a Process | Fatma Erturk | [Read More](https://medium.com/p/679e533992d1) |
 | Sat, 27 Dec 2025 09:10:20 GMT | Empty LinkedIn, Ignored Resume: The Real SOC Game | Denny Roger | [Read More](https://medium.com/p/765bb9c6f99f) |
@@ -110,6 +113,3 @@ A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Re
 | Fri, 26 Dec 2025 23:38:18 GMT | Un-Needing Beasts | Dr Frances J Armstrong | [Read More](https://medium.com/p/02b02c153d38) |
 | Fri, 26 Dec 2025 23:32:39 GMT | A STORY OF REVIVAL | Jennifer Achusome | [Read More](https://medium.com/p/c518c814a968) |
 | Fri, 26 Dec 2025 22:54:56 GMT | Learning Cybersecurity Through the Air: My Journey Into Wireless Pentesting | Michael Preston | [Read More](https://medium.com/p/345dd3684fd3) |
-| Fri, 26 Dec 2025 22:54:17 GMT | Why Independent Security Assurance Is Becoming One of the Most Powerful Differentiators in… | Mindset | [Read More](https://medium.com/p/f9eb4354f5e6) |
-| Fri, 26 Dec 2025 22:52:38 GMT | Why Most People Fail at Personal Growth (And How You Can Avoid the Same Traps) | Jason Hood | [Read More](https://medium.com/p/2919f53e33da) |
-| Fri, 26 Dec 2025 22:30:05 GMT | Governing digital infrastructure without understanding It: a strategic vulnerability | Hayat Outahar | [Read More](https://medium.com/p/d48de646010c) |
