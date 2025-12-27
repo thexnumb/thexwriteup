@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 22:32:25 GMT | Windows Internals | TheNotorious | [Read More](https://medium.com/p/55b213061918) |
 | Sat, 27 Dec 2025 22:09:31 GMT | The Cloud Blind Spots That Keep Burning DFIR Teams | Elias Gray | [Read More](https://medium.com/p/7a702b872b36) |
 | Sat, 27 Dec 2025 22:08:55 GMT | Multi-step Automation for SOAR: An Automated Journey from Alert to Response | Esra Kayhan | [Read More](https://medium.com/p/37e1c409bf05) |
 | Sat, 27 Dec 2025 22:08:11 GMT | Advanced WAF Rule Engine Management: The Thin Line Between Security and Usability ️️ | Esra Kayhan | [Read More](https://medium.com/p/6c717607743e) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 14:27:02 GMT | What Happens When You Run a Vulnerability Scan? | Shoaib Mohammad Ankon | [Read More](https://medium.com/p/aeb7a3fc3b9e) |
 | Sat, 27 Dec 2025 14:22:57 GMT | MCP-Audit — a free open-source tool from APIsec Inc.(Video Explanation) | Somnath Adhikary | [Read More](https://medium.com/p/6797cffe3896) |
 | Sat, 27 Dec 2025 14:22:33 GMT | Day 0 — Starting My SOC Analyst Journey | Harvinder Singh | [Read More](https://medium.com/p/5d5b910e4551) |
-| Sat, 27 Dec 2025 14:22:25 GMT | Common Crypto Scams You Should Know About | Miller  H. (Blockchain Analysis) | [Read More](https://medium.com/p/6cb72b3fb633) |
