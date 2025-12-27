@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 17:07:55 GMT | How to Test Network Connectivity in Linux - Beginner Guide | Shahzaib | [Read More](https://medium.com/p/34d2d57bf502) |
+| Sat, 27 Dec 2025 17:07:16 GMT | Transfer files from a Local Host to a Private VM in OCI VCN using Bastion Port Forwarding | Hasnain Electricwala | [Read More](https://medium.com/p/0e24f9cdcf01) |
+| Sat, 27 Dec 2025 16:59:59 GMT | 信任的代價：你的 LINE 安裝檔，可能是駭客的後門 | p1x06u9 | [Read More](https://medium.com/p/0d4de2066b41) |
+| Sat, 27 Dec 2025 16:59:46 GMT | Trust Wallet Chrome Extension Breach: A Supply Chain Failure That Drained Millions and Redefined… | Chetan Seripally | [Read More](https://medium.com/p/0a80ed60933b) |
+| Sat, 27 Dec 2025 16:48:17 GMT | Introducing: Ξμν — the Informational Curvature Tensor | Ernesto Eduardo Dobarganes | [Read More](https://medium.com/p/cc56ed6102e0) |
+| Sat, 27 Dec 2025 16:47:18 GMT | Try Hack Me- Smag Grotto Walkthrough | PulseEinher | [Read More](https://medium.com/p/e69523e67317) |
 | Sat, 27 Dec 2025 16:41:07 GMT | Patch Management Explained: What It Is, Why It Matters, and Why IT Teams Struggle With It | SarathKumar | [Read More](https://medium.com/p/981c77b46df3) |
 | Sat, 27 Dec 2025 16:40:19 GMT | From Nobody to Admin: A Short, Practical Guide to Privilege Escalation .. | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/b6749f3ec9a7) |
 | Sat, 27 Dec 2025 16:34:31 GMT | Block — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/929c23df934c) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 11:00:33 GMT | [OSCP]code , code ,code machine | Ander | [Read More](https://medium.com/p/bcc4ab24bb9f) |
 | Sat, 27 Dec 2025 10:57:03 GMT | Smart Outdoor Security Camera Mounting Ideas to Avoid Blind Spots | Criminology Expert | [Read More](https://medium.com/p/7c7e35a87b53) |
 | Sat, 27 Dec 2025 10:53:55 GMT | Securing Your Web Authentication: A Practical Guide to DPoP in Web Apps | Ahsan Mubariz | [Read More](https://medium.com/p/07b20c90c1d9) |
-| Sat, 27 Dec 2025 10:46:40 GMT | Secure Your Belgian Company: Seamless itsme® Integration for Laravel 12 | Martin L | [Read More](https://medium.com/p/da53a9b4fb24) |
-| Sat, 27 Dec 2025 10:44:56 GMT | 20 PostgreSQL Security Tips | Oz | [Read More](https://medium.com/p/9da03310dd74) |
-| Sat, 27 Dec 2025 10:32:21 GMT | HTML Applications (HTA): The Double-Edged Sword in Windows Security | Dhanush N | [Read More](https://medium.com/p/86fbb68690d4) |
-| Sat, 27 Dec 2025 10:32:11 GMT | Driving Digital Growth with MLM Software Solutions in Karachi | Jonney9 | [Read More](https://medium.com/p/accad7ef9eb4) |
-| Sat, 27 Dec 2025 10:20:25 GMT | The Model Context Protocol (MCP): Giving Your AI the Keys to the House (and Praying It Doesn’t… | Krish Agarwal | [Read More](https://medium.com/p/35b5bd46cc13) |
-| Sat, 27 Dec 2025 10:19:41 GMT | The Rise of Closed Platforms: How Big Tech Is Killing Digital Freedom | Dmitry Yarygin | [Read More](https://medium.com/p/671eded5a8f0) |
