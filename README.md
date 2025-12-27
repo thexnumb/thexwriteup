@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 21:35:13 GMT | DevSecOps in the Age of LLMs: You’re Not Secure Just Because You Have AI | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/33495f28d76d) |
+| Sat, 27 Dec 2025 21:19:47 GMT | How I Bypassed App PIN Lock and Root Detection Using Hooking | Raj Prasad Kuiri | [Read More](https://medium.com/p/15c5294df50c) |
+| Sat, 27 Dec 2025 21:19:30 GMT | ICS/Modbus — Claus for Concern Advent of Cyber Tryhackme Writeup | Mainekhacker | [Read More](https://medium.com/p/53c8f9a041dd) |
+| Sat, 27 Dec 2025 21:19:14 GMT | How a QR Code Cyberattack Crippled a Small Business in 2025 | Noel | [Read More](https://medium.com/p/1804c1d3adf6) |
+| Sat, 27 Dec 2025 21:17:46 GMT | Cybersecurity in 2026 - Simple Guide for Staying Safe | CyberSecurity | [Read More](https://medium.com/p/2b1aae065f0c) |
 | Sat, 27 Dec 2025 21:06:40 GMT | How I Found a Critical RCE Flaw in a Popular JS Sandbox | Codi | [Read More](https://medium.com/p/8dd924325c6e) |
 | Sat, 27 Dec 2025 21:05:15 GMT | The Reconnaissance Masterclass: Advanced Information Gathering for Modern Cybersecurity | N0aziXss | [Read More](https://medium.com/p/a310eeda53bb) |
 | Sat, 27 Dec 2025 21:04:13 GMT | Securing and Hardening an Enterprise Branch Office Network | Iheanyichukwu Onyebuchi Okoronkwo | [Read More](https://medium.com/p/327f93c9f9e4) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 14:09:18 GMT | PortSwigger: File Upload Vulnerabilities otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/3c541976891b) |
 | Sat, 27 Dec 2025 14:05:01 GMT | Why Firefox Extensions Are the Next Big Bug Bounty Target: Vulnerabilities, Exploits, and Rewards. | The Notorious F.Y.I.H | [Read More](https://medium.com/p/7a3fded89128) |
 | Sat, 27 Dec 2025 13:58:21 GMT | The Azure Mistakes I Would Have Avoided If I’d Read This Sooner | Vikas Rastogi | [Read More](https://medium.com/p/8948b1e66eff) |
-| Sat, 27 Dec 2025 13:52:23 GMT | RETRO- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/fdfbac6eb1dc) |
-| Sat, 27 Dec 2025 13:44:38 GMT | Model Context Protocol Framework: The Operating System AI Agents Were Missing | Mark Bridges | [Read More](https://medium.com/p/d576c48c6cfd) |
-| Sat, 27 Dec 2025 13:44:20 GMT | When the Pager Goes Off at 3 AM: What Incident Response Can Learn from the Back of an Ambulance and… | Mat Cyb3rF0x Fuchs | [Read More](https://medium.com/p/9f224eca8537) |
-| Sat, 27 Dec 2025 13:43:13 GMT | How to Configure mTLS in Spring Boot: An Enterprise-Ready Guide | Anand Jeyaseelan | [Read More](https://medium.com/p/d7fe09dbfb83) |
-| Sat, 27 Dec 2025 13:41:51 GMT | Mobile Forensics Challenge: Breaking an Encrypted Gallery Vault | Simone Licitra | [Read More](https://medium.com/p/c3d819f2af4d) |
