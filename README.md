@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 11:18:11 GMT | Reflected XSS using Google Dorking on webmail application powered by IceWarp Server | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/aea90b17d1f4) |
+| Sat, 27 Dec 2025 11:10:56 GMT | Best cyber security institute in Bangalore | Cyberlancer | [Read More](https://medium.com/p/adc6aa9871af) |
+| Sat, 27 Dec 2025 11:06:41 GMT | You Were Never Hard to Love — They Just Didn’t Know How | Inspire: Viva La Vida | [Read More](https://medium.com/p/d08a1ce3677a) |
+| Sat, 27 Dec 2025 11:00:33 GMT | [OSCP]code , code ,code machine | Ander | [Read More](https://medium.com/p/bcc4ab24bb9f) |
+| Sat, 27 Dec 2025 10:57:03 GMT | Smart Outdoor Security Camera Mounting Ideas to Avoid Blind Spots | Criminology Expert | [Read More](https://medium.com/p/7c7e35a87b53) |
+| Sat, 27 Dec 2025 10:53:55 GMT | Securing Your Web Authentication: A Practical Guide to DPoP in Web Apps | Ahsan Mubariz | [Read More](https://medium.com/p/07b20c90c1d9) |
+| Sat, 27 Dec 2025 10:46:40 GMT | Secure Your Belgian Company: Seamless itsme® Integration for Laravel 12 | Martin L | [Read More](https://medium.com/p/da53a9b4fb24) |
+| Sat, 27 Dec 2025 10:44:56 GMT | 20 PostgreSQL Security Tips | Oz | [Read More](https://medium.com/p/9da03310dd74) |
 | Sat, 27 Dec 2025 10:32:21 GMT | HTML Applications (HTA): The Double-Edged Sword in Windows Security | Dhanush N | [Read More](https://medium.com/p/86fbb68690d4) |
 | Sat, 27 Dec 2025 10:32:11 GMT | Driving Digital Growth with MLM Software Solutions in Karachi | Jonney9 | [Read More](https://medium.com/p/accad7ef9eb4) |
 | Sat, 27 Dec 2025 10:20:25 GMT | The Model Context Protocol (MCP): Giving Your AI the Keys to the House (and Praying It Doesn’t… | Krish Agarwal | [Read More](https://medium.com/p/35b5bd46cc13) |
@@ -104,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 03:00:01 GMT | Grokipedia and the Illusion of the Alternative | Joseph Pierre Navratil | [Read More](https://medium.com/p/815aa26f9357) |
 | Sat, 27 Dec 2025 02:53:20 GMT | El “Caballo de Troya” de la IA: Comprendiendo el Prompt Injection y sus vectores de ataque | Methodwhite | [Read More](https://medium.com/p/2a09d0167f0e) |
 | Sat, 27 Dec 2025 02:38:44 GMT | How I Built a Digital Honeypot to Catch Algorithmic Stalkers in Action | Daretoexpose | [Read More](https://medium.com/p/80fcd70f56bb) |
-| Sat, 27 Dec 2025 02:28:56 GMT | Securing Your JSON Files | Nala Hamer | [Read More](https://medium.com/p/0104ab464660) |
-| Sat, 27 Dec 2025 02:02:59 GMT | 2025: The Year They Tried to Erase Me
-A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Read More](https://medium.com/p/24215ceb9f3f) |
-| Sat, 27 Dec 2025 01:44:20 GMT | Mastering Active Information Gathering: A Comprehensive Analysis of Digital Infrastructure Security | Diva Rizky Alfitrah | [Read More](https://medium.com/p/09ff9015ff6b) |
-| Sat, 27 Dec 2025 01:30:32 GMT | South Korea’s Digital Paradox: 4 Surprising Truths Behind the Tech Powerhouse | Abdullah Zulkifli | [Read More](https://medium.com/p/f2f219983979) |
-| Sat, 27 Dec 2025 01:20:09 GMT | Fortify Your Digital Fortress: Steps to Guard Against Cyber Threats in 2025 | Daniel Noel Guillen | [Read More](https://medium.com/p/a86f7d944dbf) |
-| Sat, 27 Dec 2025 01:12:37 GMT | $1,500 Bounty: Image Upload Led to Full SSRF & LFI at Rockstar Games | Monika sharma | [Read More](https://medium.com/p/6a757e704bd1) |
-| Sat, 27 Dec 2025 01:02:25 GMT | Tcpdump Fundamentals: Hands-On LabWalkthrough | Cybersecurity Simplified | [Read More](https://medium.com/p/1126c10e6963) |
-| Sat, 27 Dec 2025 00:52:29 GMT | Security in Databases: How to Stop Treating Your Data Like an Open Bar | revoq | [Read More](https://medium.com/p/c98c9bc4f92e) |
