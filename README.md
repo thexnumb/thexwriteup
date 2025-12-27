@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 21:06:40 GMT | How I Found a Critical RCE Flaw in a Popular JS Sandbox | Codi | [Read More](https://medium.com/p/8dd924325c6e) |
+| Sat, 27 Dec 2025 21:05:15 GMT | The Reconnaissance Masterclass: Advanced Information Gathering for Modern Cybersecurity | N0aziXss | [Read More](https://medium.com/p/a310eeda53bb) |
+| Sat, 27 Dec 2025 21:04:13 GMT | Securing and Hardening an Enterprise Branch Office Network | Iheanyichukwu Onyebuchi Okoronkwo | [Read More](https://medium.com/p/327f93c9f9e4) |
+| Sat, 27 Dec 2025 21:03:21 GMT | PROTOCOLO DURANTE v4.1: The End of Algorithmic Anarchy | Gonzalo Emir | [Read More](https://medium.com/p/b19cf749d828) |
+| Sat, 27 Dec 2025 20:45:30 GMT | The Hidden Attack Surface in AI Coding Assistants: What Security Teams Are Missing | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/11f0c62b1a46) |
+| Sat, 27 Dec 2025 20:43:51 GMT | Integration wazuh & fortigae | Yasmine kechid | [Read More](https://medium.com/p/bb20e41bc587) |
 | Sat, 27 Dec 2025 20:39:08 GMT | Hack The Box — PhishNet | Harjot Singh | [Read More](https://medium.com/p/674fb686fa68) |
 | Sat, 27 Dec 2025 20:31:36 GMT | Stop Changing Your Passwords Every 90 Days. Do This Instead. | Mohanad Khaled | [Read More](https://medium.com/p/ad24fc4af52e) |
 | Sat, 27 Dec 2025 20:22:18 GMT | User & Access Control Hardening | bradOSv1 | [Read More](https://medium.com/p/af8a9a8701ff) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 13:44:20 GMT | When the Pager Goes Off at 3 AM: What Incident Response Can Learn from the Back of an Ambulance and… | Mat Cyb3rF0x Fuchs | [Read More](https://medium.com/p/9f224eca8537) |
 | Sat, 27 Dec 2025 13:43:13 GMT | How to Configure mTLS in Spring Boot: An Enterprise-Ready Guide | Anand Jeyaseelan | [Read More](https://medium.com/p/d7fe09dbfb83) |
 | Sat, 27 Dec 2025 13:41:51 GMT | Mobile Forensics Challenge: Breaking an Encrypted Gallery Vault | Simone Licitra | [Read More](https://medium.com/p/c3d819f2af4d) |
-| Sat, 27 Dec 2025 13:31:36 GMT | n8n: CVE-2025–68613 - writeup | D4m.sh | [Read More](https://medium.com/p/2f4d69b2b05f) |
-| Sat, 27 Dec 2025 13:25:13 GMT | A Comprehensive Guide to Ethical Hacking | The Trusted Hacker | [Read More](https://medium.com/p/d006c4ef19bd) |
-| Sat, 27 Dec 2025 13:17:43 GMT | eBPF-CipherTrace: Cryptographic Visibility for the Quantum Era | Satyam Dubey | [Read More](https://medium.com/p/1ca83782054b) |
-| Sat, 27 Dec 2025 13:15:51 GMT | Ledger data breach / hack Saturday 27th December 2025 | Ledger | [Read More](https://medium.com/p/45968eeadaff) |
-| Sat, 27 Dec 2025 13:14:38 GMT | Mastering Linux Isolation: A Practical Guide to Namespaces and cgroups | Sumit Sah | [Read More](https://medium.com/p/5cd39c82fe3d) |
-| Sat, 27 Dec 2025 13:14:07 GMT | Best Ethical Hacking Training in Noida - Ducat India | Kesari Srivastava | [Read More](https://medium.com/p/ac060ceecfe7) |
