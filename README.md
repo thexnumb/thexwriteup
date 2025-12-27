@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 08:40:30 GMT | Your Laptop Is a Trojan Horse: 4 Ways Hackers Can Attack a Network From the Inside | Youssef Mohammed | [Read More](https://medium.com/p/5c31c4e82e22) |
+| Sat, 27 Dec 2025 08:36:42 GMT | Top AI Security Insights — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/483af91a14f5) |
+| Sat, 27 Dec 2025 08:26:27 GMT | AWS Advent Calendar 2025 — Days 21–25 | Ihor Sasovets | [Read More](https://medium.com/p/c56c42043360) |
 | Sat, 27 Dec 2025 08:19:34 GMT | I Tested a Website the Legal Way — and Learned Why Most Security Problems Go Unnoticed | Ali.Yurie | [Read More](https://medium.com/p/ad1330e9808a) |
 | Sat, 27 Dec 2025 08:11:31 GMT | Why Prompt Injection Will Remain an Unsolved Problem in AI Security | David SEHYEON Baek | [Read More](https://medium.com/p/61a324e4ca76) |
 | Sat, 27 Dec 2025 08:00:33 GMT | API Pentesting with Cloudflare . | Rishav anand | [Read More](https://medium.com/p/1f52368fb3e4) |
@@ -110,6 +113,3 @@ A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Re
 | Fri, 26 Dec 2025 21:29:26 GMT | Designing Behavioral Rules for EDR: When There Is No Signature, Intelligence Speaks ️ | Esra Kayhan | [Read More](https://medium.com/p/6616042f441d) |
 | Fri, 26 Dec 2025 21:27:40 GMT | Managed IT Services in West Palm Beach Are About One Thing. Reducing Business Risk. | CompuWork | [Read More](https://medium.com/p/a04cdd16be33) |
 | Fri, 26 Dec 2025 21:22:48 GMT | DIY Security Hacks | C. L. Nichols, Author | [Read More](https://medium.com/p/13623bf34e04) |
-| Fri, 26 Dec 2025 21:22:47 GMT | Writing Custom Parsers in SIEM: The Art of Truly Understanding Logs | Esra Kayhan | [Read More](https://medium.com/p/caf92e936153) |
-| Fri, 26 Dec 2025 21:15:43 GMT | Northpole Data Breach | northpolesysadmin | [Read More](https://medium.com/p/1a972490b685) |
-| Fri, 26 Dec 2025 21:09:15 GMT | The Future of Libraries: Intellectual Havens for Lost Youth? | Rich Crawford | [Read More](https://medium.com/p/091726aa1eec) |
