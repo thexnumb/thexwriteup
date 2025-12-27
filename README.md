@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 14:18:13 GMT | PortSwigger Web Security Academy — Lab Write‑Up 8 | 0xM3d0din | [Read More](https://medium.com/p/41438213f732) |
+| Sat, 27 Dec 2025 14:09:18 GMT | PortSwigger: File Upload Vulnerabilities otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/3c541976891b) |
+| Sat, 27 Dec 2025 14:05:01 GMT | Why Firefox Extensions Are the Next Big Bug Bounty Target: Vulnerabilities, Exploits, and Rewards. | The Notorious F.Y.I.H | [Read More](https://medium.com/p/7a3fded89128) |
+| Sat, 27 Dec 2025 13:58:21 GMT | The Azure Mistakes I Would Have Avoided If I’d Read This Sooner | Vikas Rastogi | [Read More](https://medium.com/p/8948b1e66eff) |
+| Sat, 27 Dec 2025 13:52:23 GMT | RETRO- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/fdfbac6eb1dc) |
+| Sat, 27 Dec 2025 13:44:38 GMT | Model Context Protocol Framework: The Operating System AI Agents Were Missing | Mark Bridges | [Read More](https://medium.com/p/d576c48c6cfd) |
 | Sat, 27 Dec 2025 13:44:20 GMT | When the Pager Goes Off at 3 AM: What Incident Response Can Learn from the Back of an Ambulance and… | Mat Cyb3rF0x Fuchs | [Read More](https://medium.com/p/9f224eca8537) |
 | Sat, 27 Dec 2025 13:43:13 GMT | How to Configure mTLS in Spring Boot: An Enterprise-Ready Guide | Anand Jeyaseelan | [Read More](https://medium.com/p/d7fe09dbfb83) |
 | Sat, 27 Dec 2025 13:41:51 GMT | Mobile Forensics Challenge: Breaking an Encrypted Gallery Vault | Simone Licitra | [Read More](https://medium.com/p/c3d819f2af4d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 06:34:36 GMT | DAST Automation Using BurpSuite MCP | Xcheater | [Read More](https://medium.com/p/923b6c0101e1) |
 | Sat, 27 Dec 2025 06:34:13 GMT | My Tech Journey: From Fake Hacking Dreams to Real Skills | blackey07 | [Read More](https://medium.com/p/580523dd73fb) |
 | Sat, 27 Dec 2025 06:30:44 GMT | Advanced WAF Evasion via DOM Reconstruction | JD | [Read More](https://medium.com/p/c24b7f93a152) |
-| Sat, 27 Dec 2025 06:27:41 GMT | Lesson Learned — SOC Level 1: Alert Triage | Khyrihutchins | [Read More](https://medium.com/p/aeb3a46a13b7) |
-| Sat, 27 Dec 2025 06:25:43 GMT | Why Good Web Hosting Protection Is No Longer Optional | Swapnil S. | [Read More](https://medium.com/p/eac8888f3ab3) |
-| Sat, 27 Dec 2025 06:22:03 GMT | Lesson learned — SOC Metrics and Objectives | Khyrihutchins | [Read More](https://medium.com/p/65c35458887c) |
-| Sat, 27 Dec 2025 06:05:25 GMT | Flipkart Proxies 2026: Seller vs Monitoring Setup | CryptoWisp | [Read More](https://medium.com/p/2ce2273f3000) |
-| Sat, 27 Dec 2025 05:56:56 GMT | TryHackMe: Chocolate Factory | cbev | [Read More](https://medium.com/p/01ce03bc01da) |
-| Sat, 27 Dec 2025 05:45:58 GMT | DDoS Isn’t a Hack. It’s a Traffic Problem. | Tara Prasad Routray | [Read More](https://medium.com/p/6a6c2da5f164) |
