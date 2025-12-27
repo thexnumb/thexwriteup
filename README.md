@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 05:43:01 GMT | Why Most Bug Bounty Advice Sounds Smart — but Quietly Fails in Real Life | Er Dhaval Ramani | [Read More](https://medium.com/p/7aed1e55288a) |
+| Sat, 27 Dec 2025 05:38:53 GMT | How I Solved All Challenges in the CloudSEK Hiring CTF (Round 1): A Complete Walkthrough | Zer0Figure | [Read More](https://medium.com/p/7d75a9b84c28) |
+| Sat, 27 Dec 2025 05:27:27 GMT | I Let An AI Pentester: Shannon, On My Vulnerable Go App — Here’s What Happened | Bhavishyaagg | [Read More](https://medium.com/p/9878b15c687b) |
+| Sat, 27 Dec 2025 05:18:23 GMT | ️ In the Security Business, Trust Is Built Before the First Patrol | Qbit Technologies | [Read More](https://medium.com/p/a9987e795920) |
+| Sat, 27 Dec 2025 05:15:23 GMT | Reverse Engineering — Injection Series Part 3 (Blue Team Labs Online) | Jagadishtripathy | [Read More](https://medium.com/p/78181ebaa163) |
 | Sat, 27 Dec 2025 05:10:26 GMT | The Ultimate Guide to Capture The Flag (CTF)​ | Janhvee Laad | [Read More](https://medium.com/p/36493fbbd012) |
 | Sat, 27 Dec 2025 05:02:27 GMT | 5 Key Steps to a Successful Cloud Migration Strategy in 2025 | F9 Infotech | [Read More](https://medium.com/p/6e2238d4c702) |
 | Sat, 27 Dec 2025 04:57:22 GMT | 2025: The Road We Crossed — Fear, Change, and the Future (part 1) | Dinesh Kumar | [Read More](https://medium.com/p/280ded73d5f7) |
@@ -109,8 +114,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 17:16:37 GMT | What Exactly Asset Monitoring Software Does? | Tokentimer | [Read More](https://medium.com/p/7cf2b2203e29) |
 | Fri, 26 Dec 2025 17:10:54 GMT | Volatility Plugins — Plugin windows.drivermodule, windows.svcdiff Let’s Talk About it | Dean | [Read More](https://medium.com/p/647602aaf1c0) |
 | Fri, 26 Dec 2025 17:02:06 GMT | Understanding Hacking, Virtual Machines, Linux, and Networking: | Ashlin Mariya | [Read More](https://medium.com/p/c360f8467a60) |
-| Fri, 26 Dec 2025 16:54:36 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/7a5c020904a2) |
-| Fri, 26 Dec 2025 16:51:33 GMT | One Misplaced Header, Thousands of Leaked Sessions: A Bug Bounty Story | Iski | [Read More](https://medium.com/p/140e6a0f881d) |
-| Fri, 26 Dec 2025 16:27:10 GMT | Yük Dengeleyici ve Ters Proxy Karşılaştırması | Salih Buğra Duzelt | [Read More](https://medium.com/p/0a778ffa914d) |
-| Fri, 26 Dec 2025 16:20:23 GMT | Esai: Konvergensi ‘Media’ Tanpa Batas | Muhammad Farid Al Qadr | [Read More](https://medium.com/p/28cddbea031d) |
-| Fri, 26 Dec 2025 16:09:18 GMT | The Real Shape of OAuth 2.0: What the Standard Defines, What It Doesn’t, and Why Confusion Persists | Ayoub Abedallhameed | [Read More](https://medium.com/p/4d0860f06a47) |
