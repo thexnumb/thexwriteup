@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 09:13:54 GMT | Email Spoofing - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/bc24171846f7) |
+| Sat, 27 Dec 2025 09:12:51 GMT | Cybersecurity in OT Is Not a Product, It’s a Process | Fatma Erturk | [Read More](https://medium.com/p/679e533992d1) |
+| Sat, 27 Dec 2025 09:10:20 GMT | Empty LinkedIn, Ignored Resume: The Real SOC Game | Denny Roger | [Read More](https://medium.com/p/765bb9c6f99f) |
+| Sat, 27 Dec 2025 09:05:55 GMT | Mac Antivirus for WhatsApp Security Against Hacks and Spyware | Siyanoav | [Read More](https://medium.com/p/69ceb30d1b5f) |
+| Sat, 27 Dec 2025 09:02:25 GMT | Why “No Breach Found” Doesn’t Mean You’re Safe (And What to Check Instead) | Alexandre Vandamme | [Read More](https://medium.com/p/550c90b9f618) |
+| Sat, 27 Dec 2025 09:00:14 GMT | Techniques to Understand Spring Authorization Server Authentication — from Browser Redirects to… | Anh Trần Tuấn | [Read More](https://medium.com/p/88e8b4349e94) |
+| Sat, 27 Dec 2025 08:59:21 GMT | How Much Does a Data Breach Actually Cost a Small Business | Beri Contraster | [Read More](https://medium.com/p/264e1450af30) |
+| Sat, 27 Dec 2025 08:56:20 GMT | Citrix Breakout: HackTheBox Windows Privilege Escalation File Transfer Walkthrough | Jorgepatrickrubio | [Read More](https://medium.com/p/12d5cf8b3651) |
+| Sat, 27 Dec 2025 08:52:08 GMT | Cybersecurity in 2026: Top Threats, Trends Protection Guide | RUCHITHA ARUMURI | [Read More](https://medium.com/p/029d288f3c56) |
 | Sat, 27 Dec 2025 08:40:30 GMT | Your Laptop Is a Trojan Horse: 4 Ways Hackers Can Attack a Network From the Inside | Youssef Mohammed | [Read More](https://medium.com/p/5c31c4e82e22) |
 | Sat, 27 Dec 2025 08:36:42 GMT | Top AI Security Insights — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/483af91a14f5) |
 | Sat, 27 Dec 2025 08:26:27 GMT | AWS Advent Calendar 2025 — Days 21–25 | Ihor Sasovets | [Read More](https://medium.com/p/c56c42043360) |
@@ -104,12 +113,3 @@ A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Re
 | Fri, 26 Dec 2025 22:54:17 GMT | Why Independent Security Assurance Is Becoming One of the Most Powerful Differentiators in… | Mindset | [Read More](https://medium.com/p/f9eb4354f5e6) |
 | Fri, 26 Dec 2025 22:52:38 GMT | Why Most People Fail at Personal Growth (And How You Can Avoid the Same Traps) | Jason Hood | [Read More](https://medium.com/p/2919f53e33da) |
 | Fri, 26 Dec 2025 22:30:05 GMT | Governing digital infrastructure without understanding It: a strategic vulnerability | Hayat Outahar | [Read More](https://medium.com/p/d48de646010c) |
-| Fri, 26 Dec 2025 22:23:14 GMT | Penetration test report for legacy HackTheBox machines | akili | [Read More](https://medium.com/p/7c4f501d621a) |
-| Fri, 26 Dec 2025 22:14:41 GMT | Reverse Engineering a Multi-Phase Malicious Delivery Sequence | M4lB3nder | [Read More](https://medium.com/p/756e22d54d7a) |
-| Fri, 26 Dec 2025 21:55:11 GMT | Quantifying Surprise: A Conceptual Introduction to Information Theory | Alireza Kafi | [Read More](https://medium.com/p/bc85e0d2ecf0) |
-| Fri, 26 Dec 2025 21:53:16 GMT | How I Found a SQL Injection in a VDP Program | ell0guvn0r | [Read More](https://medium.com/p/8291816ed281) |
-| Fri, 26 Dec 2025 21:49:04 GMT | The 2026 AI Compliance Checklist: Protecting Your Business from Shadow AI and Data Leaks | Mr.Incognito | [Read More](https://medium.com/p/ca8c4e6e757e) |
-| Fri, 26 Dec 2025 21:29:55 GMT | GitHub CI/CD: Action Jackson (Infinity Labs) — Write-up | Mudiuth | [Read More](https://medium.com/p/7a76eeba5f71) |
-| Fri, 26 Dec 2025 21:29:26 GMT | Designing Behavioral Rules for EDR: When There Is No Signature, Intelligence Speaks ️ | Esra Kayhan | [Read More](https://medium.com/p/6616042f441d) |
-| Fri, 26 Dec 2025 21:27:40 GMT | Managed IT Services in West Palm Beach Are About One Thing. Reducing Business Risk. | CompuWork | [Read More](https://medium.com/p/a04cdd16be33) |
-| Fri, 26 Dec 2025 21:22:48 GMT | DIY Security Hacks | C. L. Nichols, Author | [Read More](https://medium.com/p/13623bf34e04) |
