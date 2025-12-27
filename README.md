@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 15:35:18 GMT | When “Sign in with Google” Signed Me Into Someone Else’s Account | Sabna | [Read More](https://medium.com/p/cb29134328f3) |
+| Sat, 27 Dec 2025 15:20:21 GMT | Ransomware Remediation: An Incident Response and Detection Engineer’s Perspective | David O'Neill | [Read More](https://medium.com/p/7b1debe81753) |
+| Sat, 27 Dec 2025 15:16:54 GMT | 46元引爆的資安核彈：解密遠通電收 ETC 釣魚郵件背後的「隱形殺手鍊」與防禦死角 | p1x06u9 | [Read More](https://medium.com/p/7675e38aea32) |
 | Sat, 27 Dec 2025 15:15:04 GMT | Strong Random Password Generator - Password Generator - Wordpress Password Generator | Sandeep Sharma | [Read More](https://medium.com/p/0f0c3d68940c) |
 | Sat, 27 Dec 2025 15:14:24 GMT | What Hacking Does To A Human Being | Calvaryhasarrived | [Read More](https://medium.com/p/5e0d4f28fd3b) |
+| Sat, 27 Dec 2025 15:13:58 GMT | Fuzz Testing Smart Contracts with Echidna: A Practical Guide to Finding Vulnerabilities | Régis | [Read More](https://medium.com/p/e98bb8da1408) |
 | Sat, 27 Dec 2025 15:06:01 GMT | Why FAIR Framework Fails for AI | Nate Gibson | [Read More](https://medium.com/p/46e4a003ba5f) |
 | Sat, 27 Dec 2025 15:03:25 GMT | Biohacking for Bug Hunters: Improving Productivity | Afi0pchik | [Read More](https://medium.com/p/82eb841ee125) |
 | Sat, 27 Dec 2025 15:02:36 GMT | My $0 Path to SOC Analyst: The Day I Started Learning Splunk (Week 3) | Ayush Kumbhar | [Read More](https://medium.com/p/b0c9d99efab8) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 08:19:34 GMT | I Tested a Website the Legal Way — and Learned Why Most Security Problems Go Unnoticed | Ali.Yurie | [Read More](https://medium.com/p/ad1330e9808a) |
 | Sat, 27 Dec 2025 08:11:31 GMT | Why Prompt Injection Will Remain an Unsolved Problem in AI Security | David SEHYEON Baek | [Read More](https://medium.com/p/61a324e4ca76) |
 | Sat, 27 Dec 2025 08:00:33 GMT | API Pentesting with Cloudflare . | Rishav anand | [Read More](https://medium.com/p/1f52368fb3e4) |
-| Sat, 27 Dec 2025 08:00:18 GMT | Day 2-Regex Resources for Security Engineers: Best Courses, Tools & Practice Sites | NineTales | [Read More](https://medium.com/p/f6bd82132ec2) |
-| Sat, 27 Dec 2025 07:55:56 GMT | What’s Next in AI in 2026: 5 Things That Will Shock Almost Everyone | Nafisa Nazneen Choudhury | [Read More](https://medium.com/p/76cffdf631a5) |
-| Sat, 27 Dec 2025 07:53:36 GMT | DOM XSS Using Web Messages and Javascript URL (window.postMessage → innerHTML Sink) | Aditya Bhatt | [Read More](https://medium.com/p/e5db2a0f1bfe) |
-| Sat, 27 Dec 2025 07:51:18 GMT | How to Identify, Prevent, and Handle YouTube Bot Attacks on Live Streams: A Complete Guide for… | Prem Kumar | [Read More](https://medium.com/p/9e6b12253f9b) |
