@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 05:10:26 GMT | The Ultimate Guide to Capture The Flag (CTF)​ | Janhvee Laad | [Read More](https://medium.com/p/36493fbbd012) |
+| Sat, 27 Dec 2025 05:02:27 GMT | 5 Key Steps to a Successful Cloud Migration Strategy in 2025 | F9 Infotech | [Read More](https://medium.com/p/6e2238d4c702) |
+| Sat, 27 Dec 2025 04:57:22 GMT | 2025: The Road We Crossed — Fear, Change, and the Future (part 1) | Dinesh Kumar | [Read More](https://medium.com/p/280ded73d5f7) |
+| Sat, 27 Dec 2025 04:55:02 GMT | cyber security course in Kochi | Jahanashabas | [Read More](https://medium.com/p/afc3150f1213) |
+| Sat, 27 Dec 2025 04:51:25 GMT | Starter Templates vulnerability (CVE-2025–13065) is a critical vulnerability that has been… | Muhammad Waqas | [Read More](https://medium.com/p/70bb49fb2ded) |
 | Sat, 27 Dec 2025 04:43:17 GMT | $100 bounty — XSS & Input Validation | StvRoot | [Read More](https://medium.com/p/1ccfb35c5e1f) |
 | Sat, 27 Dec 2025 04:38:04 GMT | Unlocking the Power of hping: Advanced Flooding & Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/50960fdd36b3) |
 | Sat, 27 Dec 2025 04:36:54 GMT | Getting Started with hping: The Fast Lane to Packet Crafting | Cybeague Technologies | [Read More](https://medium.com/p/6e4e3b5717be) |
@@ -25,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 04:17:53 GMT | The Hidden Risk: Why Node.js 18 is No Longer Safe | seoys | [Read More](https://medium.com/p/cff03cb8b7b7) |
 | Sat, 27 Dec 2025 04:13:46 GMT | Technology 2026: The Year AI Takes Control | Shetty21me | [Read More](https://medium.com/p/b98b31de7436) |
 | Sat, 27 Dec 2025 04:10:53 GMT | Why Node.js Versions Matter for Your Business | seoys | [Read More](https://medium.com/p/9e0bfde25b4b) |
+| Sat, 27 Dec 2025 04:09:10 GMT | 2026 短網址服務比較 | Vaga | [Read More](https://medium.com/p/ea5ee22da542) |
 | Sat, 27 Dec 2025 04:02:18 GMT | 125 Podcasts from Thinkers360 Thought Leaders You Should Listen To in 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/a21171147be9) |
 | Sat, 27 Dec 2025 03:53:51 GMT | How Modern Malware Exploits Elliptic Curve Cryptography | Pietro D. Makowski | [Read More](https://medium.com/p/d2ce44ffb871) |
 | Sat, 27 Dec 2025 03:49:15 GMT | Más allá del Deep Learning tradicional: Arquitectura y Funcionamiento de las Spiking Neural… | Methodwhite | [Read More](https://medium.com/p/9c0fffd1cd0b) |
@@ -43,6 +49,7 @@ A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Re
 | Sat, 27 Dec 2025 01:12:37 GMT | $1,500 Bounty: Image Upload Led to Full SSRF & LFI at Rockstar Games | Monika sharma | [Read More](https://medium.com/p/6a757e704bd1) |
 | Sat, 27 Dec 2025 01:02:25 GMT | Tcpdump Fundamentals: Hands-On LabWalkthrough | Cybersecurity Simplified | [Read More](https://medium.com/p/1126c10e6963) |
 | Sat, 27 Dec 2025 00:52:29 GMT | Security in Databases: How to Stop Treating Your Data Like an Open Bar | revoq | [Read More](https://medium.com/p/c98c9bc4f92e) |
+| Sat, 27 Dec 2025 00:50:22 GMT | Let’s Practice Digital Security! | Hanna Alyssa Bermejo | [Read More](https://medium.com/p/154b2d169997) |
 | Sat, 27 Dec 2025 00:37:41 GMT | DC-1 Walkthrough | Aris Arisyi | [Read More](https://medium.com/p/4c1c64f17332) |
 | Sat, 27 Dec 2025 00:32:46 GMT | Your Digital Defense Guide: Practical Security for Everyday Life | IT4B - Ram Wisdom Nacis | [Read More](https://medium.com/p/bbe2a1d0ff10) |
 | Sat, 27 Dec 2025 00:02:22 GMT | Phishing Attacks: How to Spot and Prevent This Growing Cyber Threat | Negro Med | [Read More](https://medium.com/p/7d9fc45e3478) |
@@ -107,10 +114,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 16:27:10 GMT | Yük Dengeleyici ve Ters Proxy Karşılaştırması | Salih Buğra Duzelt | [Read More](https://medium.com/p/0a778ffa914d) |
 | Fri, 26 Dec 2025 16:20:23 GMT | Esai: Konvergensi ‘Media’ Tanpa Batas | Muhammad Farid Al Qadr | [Read More](https://medium.com/p/28cddbea031d) |
 | Fri, 26 Dec 2025 16:09:18 GMT | The Real Shape of OAuth 2.0: What the Standard Defines, What It Doesn’t, and Why Confusion Persists | Ayoub Abedallhameed | [Read More](https://medium.com/p/4d0860f06a47) |
-| Fri, 26 Dec 2025 16:05:54 GMT | AI in 2025: The Cybersecurity Imperative for Mandatory Governance | Ehsan | [Read More](https://medium.com/p/e18332d44592) |
-| Fri, 26 Dec 2025 16:05:13 GMT | The Ghost in the Machine: Why AI Website Builders Are Still Vulnerable to Disposable Emails | Akshay Jadhav | [Read More](https://medium.com/p/c859933d2831) |
-| Fri, 26 Dec 2025 16:04:13 GMT | Day 16: The Platform That Sees Everything | Mahimagarg | [Read More](https://medium.com/p/6f72daeece45) |
-| Fri, 26 Dec 2025 16:04:13 GMT | El auge y oscuro panorama del Infostealer como servicio | Tiziano Mass | [Read More](https://medium.com/p/ff85d6d41fe8) |
-| Fri, 26 Dec 2025 16:02:30 GMT | Mastering Firewall Protection: Your First Line of Defense in Cybersecurity | Negro Med | [Read More](https://medium.com/p/368bfe310bb2) |
-| Fri, 26 Dec 2025 16:02:16 GMT | Christmas Strikes, Civic Space, and Nigeria’s Place at the G20. | Emitomo Tobi Nimisire | [Read More](https://medium.com/p/c2a5d0c752e2) |
-| Fri, 26 Dec 2025 16:01:48 GMT | WAF: Introduction Walkthrough - TryHackMe | Nizam Uddin | [Read More](https://medium.com/p/1423d4d4b2a5) |
