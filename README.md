@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 18:03:54 GMT | 5 NDR Challenges You Need to Solve Before 2026 | NetWitness | [Read More](https://medium.com/p/8709f53be8c8) |
+| Sat, 27 Dec 2025 17:42:19 GMT | Monitoring Website Content with Playwright and Nagios | Firat Gulec | [Read More](https://medium.com/p/4842075a1f96) |
+| Sat, 27 Dec 2025 17:41:43 GMT | Keycloak + Spring: Um guia prático para proteger suas APIs | Ronyeri Marinho | [Read More](https://medium.com/p/f8bb3c991bb1) |
+| Sat, 27 Dec 2025 17:40:28 GMT | FFUF - I got information disclosure using ffuf tool | Rahul | [Read More](https://medium.com/p/25aa2d647e12) |
 | Sat, 27 Dec 2025 17:35:57 GMT | TryHackme Skynet Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/3b8599bcc1bb) |
 | Sat, 27 Dec 2025 17:34:14 GMT | TryHackMe - MD2PDF Writeup | 7s26Simon | [Read More](https://medium.com/p/1f9342e0b042) |
+| Sat, 27 Dec 2025 17:34:10 GMT | CloudSEK CTF Writeup | Aryan Sharma | [Read More](https://medium.com/p/cfdaf6462b99) |
 | Sat, 27 Dec 2025 17:24:32 GMT | Why Retries Create More Bugs Than They Fix (Spring Boot Reality Check) | CodeTalks | [Read More](https://medium.com/p/73fb3496bdb6) |
 | Sat, 27 Dec 2025 17:07:55 GMT | How to Test Network Connectivity in Linux - Beginner Guide | Shahzaib | [Read More](https://medium.com/p/34d2d57bf502) |
 | Sat, 27 Dec 2025 17:07:16 GMT | Transfer files from a Local Host to a Private VM in OCI VCN using Bastion Port Forwarding | Hasnain Electricwala | [Read More](https://medium.com/p/0e24f9cdcf01) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 11:56:18 GMT | Leadership Development Plan | Tose Omera | [Read More](https://medium.com/p/825adb967737) |
 | Sat, 27 Dec 2025 11:42:22 GMT | Door Lock Service — Expert Locksmith Solutions Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/0f18452d0b6b) |
 | Sat, 27 Dec 2025 11:41:51 GMT | 24hr Emergency Locksmith — Fast & Reliable London Locksmith Services | The Lock Specialist Ltd | [Read More](https://medium.com/p/aac4fff43712) |
-| Sat, 27 Dec 2025 11:39:26 GMT | Exploiting an Exposed MongoDB Instance with MongoBleed. A Local Lab Walkthrough | Macaroniwdcheese | [Read More](https://medium.com/p/985829b4890a) |
-| Sat, 27 Dec 2025 11:33:01 GMT | Difference Between Cyber Security and Information Security (2026 Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/8c6067f20878) |
-| Sat, 27 Dec 2025 11:18:11 GMT | Reflected XSS using Google Dorking on webmail application powered by IceWarp Server | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/aea90b17d1f4) |
-| Sat, 27 Dec 2025 11:10:56 GMT | Best cyber security institute in Bangalore | Cyberlancer | [Read More](https://medium.com/p/adc6aa9871af) |
-| Sat, 27 Dec 2025 11:06:41 GMT | You Were Never Hard to Love — They Just Didn’t Know How | Inspire: Viva La Vida | [Read More](https://medium.com/p/d08a1ce3677a) |
