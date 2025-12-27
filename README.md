@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 19:05:36 GMT | Access Methods and Credential Hunting in Azure | Tharindu Damith | [Read More](https://medium.com/p/267b1c80d703) |
+| Sat, 27 Dec 2025 18:57:33 GMT | How Europe lost IT leadership | Steph L. | [Read More](https://medium.com/p/f4b25742ef32) |
+| Sat, 27 Dec 2025 18:52:08 GMT | CloudSek Hiring CTF Round-1(6th December 2025) | Chiakiichan | [Read More](https://medium.com/p/9f226a6a9a30) |
+| Sat, 27 Dec 2025 18:47:38 GMT | AD Hardening : AD CS (ESC1) Zafiyetini Kapatma | HİLAL ŞAHİN | [Read More](https://medium.com/p/6d9f789c75d1) |
+| Sat, 27 Dec 2025 18:42:07 GMT | Vademecum —Diffie-Hellman | Stefano Bassetto | [Read More](https://medium.com/p/a24a254e471e) |
 | Sat, 27 Dec 2025 18:03:54 GMT | 5 NDR Challenges You Need to Solve Before 2026 | NetWitness | [Read More](https://medium.com/p/8709f53be8c8) |
 | Sat, 27 Dec 2025 17:42:19 GMT | Monitoring Website Content with Playwright and Nagios | Firat Gulec | [Read More](https://medium.com/p/4842075a1f96) |
 | Sat, 27 Dec 2025 17:41:43 GMT | Keycloak + Spring: Um guia prático para proteger suas APIs | Ronyeri Marinho | [Read More](https://medium.com/p/f8bb3c991bb1) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 12:17:47 GMT | Phase-Locked Minds | James Kreis | [Read More](https://medium.com/p/9455099a6394) |
 | Sat, 27 Dec 2025 12:17:14 GMT | Practical JWT Mastery in .NET | Compile & Conquer | [Read More](https://medium.com/p/5bbab173a2ea) |
 | Sat, 27 Dec 2025 12:10:17 GMT | How to Make Money with Cybersecurity (In Simple Terms) | Zunair Usmani | [Read More](https://medium.com/p/55342695a9f1) |
-| Sat, 27 Dec 2025 12:06:57 GMT | Using Compliance Policy for macOS in Microsoft Intune | mdm.how | [Read More](https://medium.com/p/c94a38de2e10) |
-| Sat, 27 Dec 2025 11:59:16 GMT | Account Takeover via IDOR | Samet Yiğit | [Read More](https://medium.com/p/71b24946bdf7) |
-| Sat, 27 Dec 2025 11:56:18 GMT | Leadership Development Plan | Tose Omera | [Read More](https://medium.com/p/825adb967737) |
-| Sat, 27 Dec 2025 11:42:22 GMT | Door Lock Service — Expert Locksmith Solutions Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/0f18452d0b6b) |
-| Sat, 27 Dec 2025 11:41:51 GMT | 24hr Emergency Locksmith — Fast & Reliable London Locksmith Services | The Lock Specialist Ltd | [Read More](https://medium.com/p/aac4fff43712) |
