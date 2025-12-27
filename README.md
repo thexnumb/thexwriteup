@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 06:25:43 GMT | Why Good Web Hosting Protection Is No Longer Optional | Swapnil S. | [Read More](https://medium.com/p/eac8888f3ab3) |
+| Sat, 27 Dec 2025 06:22:03 GMT | Lesson learned — SOC Metrics and Objectives | Khyrihutchins | [Read More](https://medium.com/p/65c35458887c) |
+| Sat, 27 Dec 2025 06:05:25 GMT | Flipkart Proxies 2026: Seller vs Monitoring Setup | CryptoWisp | [Read More](https://medium.com/p/2ce2273f3000) |
+| Sat, 27 Dec 2025 05:56:56 GMT | TryHackMe: Chocolate Factory | cbev | [Read More](https://medium.com/p/01ce03bc01da) |
+| Sat, 27 Dec 2025 05:45:58 GMT | DDoS Isn’t a Hack. It’s a Traffic Problem. | Tara Prasad Routray | [Read More](https://medium.com/p/6a6c2da5f164) |
 | Sat, 27 Dec 2025 05:43:01 GMT | Why Most Bug Bounty Advice Sounds Smart — but Quietly Fails in Real Life | Er Dhaval Ramani | [Read More](https://medium.com/p/7aed1e55288a) |
 | Sat, 27 Dec 2025 05:38:53 GMT | How I Solved All Challenges in the CloudSEK Hiring CTF (Round 1): A Complete Walkthrough | Zer0Figure | [Read More](https://medium.com/p/7d75a9b84c28) |
 | Sat, 27 Dec 2025 05:27:27 GMT | I Let An AI Pentester: Shannon, On My Vulnerable Go App — Here’s What Happened | Bhavishyaagg | [Read More](https://medium.com/p/9878b15c687b) |
@@ -109,8 +114,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 17:33:31 GMT | From Bottleneck to Builder: How Founders Create Freedom, Scale, and Teams That Win | Business Leaders of America Podcast | [Read More](https://medium.com/p/7383b3901c14) |
 | Fri, 26 Dec 2025 17:30:56 GMT | Why Android Users in the USA Are Switching to Free VPN Apps in 2026 | Mandolmanju | [Read More](https://medium.com/p/6f69270fc2d1) |
 | Fri, 26 Dec 2025 17:29:32 GMT | Title | Abdulrahmanhijam | [Read More](https://medium.com/p/642678bb6f4d) |
-| Fri, 26 Dec 2025 17:26:39 GMT | Day 24: Advent of Cyber 2025 — TryHackMe | ms.chalo_cy | [Read More](https://medium.com/p/dc4c01a1fa58) |
-| Fri, 26 Dec 2025 17:25:31 GMT | Skip the 4-year wait: start cloud cyber security now | Muhdsalym | [Read More](https://medium.com/p/cf05943fe77e) |
-| Fri, 26 Dec 2025 17:16:37 GMT | What Exactly Asset Monitoring Software Does? | Tokentimer | [Read More](https://medium.com/p/7cf2b2203e29) |
-| Fri, 26 Dec 2025 17:10:54 GMT | Volatility Plugins — Plugin windows.drivermodule, windows.svcdiff Let’s Talk About it | Dean | [Read More](https://medium.com/p/647602aaf1c0) |
-| Fri, 26 Dec 2025 17:02:06 GMT | Understanding Hacking, Virtual Machines, Linux, and Networking: | Ashlin Mariya | [Read More](https://medium.com/p/c360f8467a60) |
