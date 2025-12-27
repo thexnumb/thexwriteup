@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 01:44:20 GMT | Mastering Active Information Gathering: A Comprehensive Analysis of Digital Infrastructure Security | Diva Rizky Alfitrah | [Read More](https://medium.com/p/09ff9015ff6b) |
+| Sat, 27 Dec 2025 01:30:32 GMT | South Korea’s Digital Paradox: 4 Surprising Truths Behind the Tech Powerhouse | Abdullah Zulkifli | [Read More](https://medium.com/p/f2f219983979) |
+| Sat, 27 Dec 2025 01:20:09 GMT | Fortify Your Digital Fortress: Steps to Guard Against Cyber Threats in 2025 | Daniel Noel Guillen | [Read More](https://medium.com/p/a86f7d944dbf) |
+| Sat, 27 Dec 2025 01:12:37 GMT | $1,500 Bounty: Image Upload Led to Full SSRF & LFI at Rockstar Games | Monika sharma | [Read More](https://medium.com/p/6a757e704bd1) |
+| Sat, 27 Dec 2025 01:02:25 GMT | Tcpdump Fundamentals: Hands-On LabWalkthrough | Cybersecurity Simplified | [Read More](https://medium.com/p/1126c10e6963) |
+| Sat, 27 Dec 2025 00:52:29 GMT | Security in Databases: How to Stop Treating Your Data Like an Open Bar | revoq | [Read More](https://medium.com/p/c98c9bc4f92e) |
+| Sat, 27 Dec 2025 00:37:41 GMT | DC-1 Walkthrough | Aris Arisyi | [Read More](https://medium.com/p/4c1c64f17332) |
+| Sat, 27 Dec 2025 00:32:46 GMT | Your Digital Defense Guide: Practical Security for Everyday Life | IT4B - Ram Wisdom Nacis | [Read More](https://medium.com/p/bbe2a1d0ff10) |
+| Sat, 27 Dec 2025 00:02:22 GMT | Phishing Attacks: How to Spot and Prevent This Growing Cyber Threat | Negro Med | [Read More](https://medium.com/p/7d9fc45e3478) |
+| Fri, 26 Dec 2025 23:54:36 GMT | React2Shell, presented by LLMs -Gemini vs Claude vs GPT vs Grok | Kai Ni | [Read More](https://medium.com/p/427cda439eca) |
+| Fri, 26 Dec 2025 23:48:17 GMT | Understanding Cross-Site Scripting (XSS) Through Hands-On Practice | Isaac Edzie | [Read More](https://medium.com/p/c7e5ff53afd6) |
+| Fri, 26 Dec 2025 23:38:18 GMT | Un-Needing Beasts | Dr Frances J Armstrong | [Read More](https://medium.com/p/02b02c153d38) |
+| Fri, 26 Dec 2025 23:32:39 GMT | A STORY OF REVIVAL | Jennifer Achusome | [Read More](https://medium.com/p/c518c814a968) |
 | Fri, 26 Dec 2025 22:54:56 GMT | Learning Cybersecurity Through the Air: My Journey Into Wireless Pentesting | Michael Preston | [Read More](https://medium.com/p/345dd3684fd3) |
 | Fri, 26 Dec 2025 22:54:17 GMT | Why Independent Security Assurance Is Becoming One of the Most Powerful Differentiators in… | Mindset | [Read More](https://medium.com/p/f9eb4354f5e6) |
 | Fri, 26 Dec 2025 22:52:38 GMT | Why Most People Fail at Personal Growth (And How You Can Avoid the Same Traps) | Jason Hood | [Read More](https://medium.com/p/2919f53e33da) |
@@ -100,16 +113,3 @@ On one of the streets of New York, there was a man who sold… | Sakhi Writes | 
 | Fri, 26 Dec 2025 14:20:57 GMT | PG practice Zipper — Security Lessons | Balaji_21 | [Read More](https://medium.com/p/d6a7c7eedd63) |
 | Fri, 26 Dec 2025 14:19:27 GMT | Bypassing PHP disable_functions via `LD_PRELOAD` Injection | Orion | [Read More](https://medium.com/p/cc74c5be4868) |
 | Fri, 26 Dec 2025 14:19:24 GMT | Try Hack Me- Year of the Rabbit Walkthrough | PulseEinher | [Read More](https://medium.com/p/5659846df74c) |
-| Fri, 26 Dec 2025 14:15:48 GMT | PortSwigger Web Security Academy — Lab Write‑Up 7 | 0xM3d0din | [Read More](https://medium.com/p/c5d4ec755083) |
-| Fri, 26 Dec 2025 14:10:44 GMT | Applying Reinforcement Learning to Cybersecurity — My First Thoughts on K-Armed Bandits & HTB —… | Hariharan@Blog:~$ | [Read More](https://medium.com/p/2e4244777afe) |
-| Fri, 26 Dec 2025 14:02:23 GMT | 7 Wallet Permission Designs Users Don’t Auto-Approve | Vectorlane | [Read More](https://medium.com/p/910754bbfb47) |
-| Fri, 26 Dec 2025 14:00:29 GMT | Set Up Email on My Domain: Troubleshooting When Login Works but Mail Doesn’t (Checklist) | Alexey Bulygin | [Read More](https://medium.com/p/e0ad4c313e7b) |
-| Fri, 26 Dec 2025 13:56:54 GMT | Digital Trust: How PGP, Hashing, and Digital Signatures Really Work | Manubhav Sharma | [Read More](https://medium.com/p/9e70daa27547) |
-| Fri, 26 Dec 2025 13:54:08 GMT | Create Email With Your Domain: Step-by-Step Business Email Setup (MX → Login → Send/Receive) | Alexey Bulygin | [Read More](https://medium.com/p/5d8cf4a6ad26) |
-| Fri, 26 Dec 2025 13:47:36 GMT | Cybersecurity in 2025: Evolved threat landscape, GenAI, Converged market & Quantum rise | AKLI ILIAS | [Read More](https://medium.com/p/386b1e9e331e) |
-| Fri, 26 Dec 2025 13:46:50 GMT | VulnHub: Symfonos:2 — (oscp-4) | Hexshubz | [Read More](https://medium.com/p/69f3487c7700) |
-| Fri, 26 Dec 2025 13:46:22 GMT | Tracing the Immutable: Advanced Methodologies for Cross-Chain Cryptocurrency Investigations | Satyam | [Read More](https://medium.com/p/c4773776094a) |
-| Fri, 26 Dec 2025 13:45:25 GMT | I Didn’t Hack You. You Posted Everything. | Yash Katiyara | [Read More](https://medium.com/p/4d6bae509815) |
-| Fri, 26 Dec 2025 13:42:00 GMT | “Bug Bounty Bootcamp #6: Ports & Services — Finding the Open Doors on Your Target’s Server” | Aman Sharma | [Read More](https://medium.com/p/df790b558643) |
-| Fri, 26 Dec 2025 13:40:18 GMT | Automating Incident Response with Microsoft Sentinel & Defender XDR | Konstantinos Lianos | [Read More](https://medium.com/p/f68769c645c7) |
-| Fri, 26 Dec 2025 13:32:28 GMT | 7 Privacy Boundaries Users Can Feel (and Trust) | Hash Block | [Read More](https://medium.com/p/3d9a2f0cec9a) |
