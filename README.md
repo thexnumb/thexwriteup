@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 20:39:08 GMT | Hack The Box — PhishNet | Harjot Singh | [Read More](https://medium.com/p/674fb686fa68) |
+| Sat, 27 Dec 2025 20:31:36 GMT | Stop Changing Your Passwords Every 90 Days. Do This Instead. | Mohanad Khaled | [Read More](https://medium.com/p/ad24fc4af52e) |
+| Sat, 27 Dec 2025 20:22:18 GMT | User & Access Control Hardening | bradOSv1 | [Read More](https://medium.com/p/af8a9a8701ff) |
+| Sat, 27 Dec 2025 20:18:46 GMT | AI As Societal Critical Infrastructure | Graham dePenros | [Read More](https://medium.com/p/1bb79f353f17) |
 | Sat, 27 Dec 2025 20:16:50 GMT | From Open Redirect to Credential Theft: A Login Flow Story | SabNa | [Read More](https://medium.com/p/79f7a8de2720) |
 | Sat, 27 Dec 2025 20:15:08 GMT | Between Us | amélie | [Read More](https://medium.com/p/7c18337df5ce) |
 | Sat, 27 Dec 2025 20:05:59 GMT | GitHub’a Yanlışlıkla Şifre Atmaya Son: .NET User Secrets Kullanım Rehberi | Berkant Karaca | [Read More](https://medium.com/p/b75b7c019752) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 13:15:51 GMT | Ledger data breach / hack Saturday 27th December 2025 | Ledger | [Read More](https://medium.com/p/45968eeadaff) |
 | Sat, 27 Dec 2025 13:14:38 GMT | Mastering Linux Isolation: A Practical Guide to Namespaces and cgroups | Sumit Sah | [Read More](https://medium.com/p/5cd39c82fe3d) |
 | Sat, 27 Dec 2025 13:14:07 GMT | Best Ethical Hacking Training in Noida - Ducat India | Kesari Srivastava | [Read More](https://medium.com/p/ac060ceecfe7) |
-| Sat, 27 Dec 2025 13:13:38 GMT | Best Ethical Hacking Training in Noida - Ducat India | Divyanka Singh | [Read More](https://medium.com/p/60a0af7629ff) |
-| Sat, 27 Dec 2025 13:13:38 GMT | Best Ethical Hacking Training in Noida - Ducat India | Abhishek Kumar | [Read More](https://medium.com/p/6139cdf5a26e) |
-| Sat, 27 Dec 2025 13:13:33 GMT | Best Ethical Hacking Training in Noida - Ducat India | Sunny Ranjan | [Read More](https://medium.com/p/140dd2d29d79) |
-| Sat, 27 Dec 2025 13:10:11 GMT | OverTheWire Bandit (Day 02): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/89b6f60230ca) |
