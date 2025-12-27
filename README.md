@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 16:41:07 GMT | Patch Management Explained: What It Is, Why It Matters, and Why IT Teams Struggle With It | SarathKumar | [Read More](https://medium.com/p/981c77b46df3) |
+| Sat, 27 Dec 2025 16:40:19 GMT | From Nobody to Admin: A Short, Practical Guide to Privilege Escalation .. | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/b6749f3ec9a7) |
+| Sat, 27 Dec 2025 16:34:31 GMT | Block — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/929c23df934c) |
+| Sat, 27 Dec 2025 16:31:33 GMT | Practical Identity Protection That Actually Works Today | Geoffrey Wenger | [Read More](https://medium.com/p/6cb4ab212156) |
+| Sat, 27 Dec 2025 16:31:29 GMT | Everyday Online Safety Without Becoming A Security Expert | Geoffrey Wenger | [Read More](https://medium.com/p/98b1ab9e26f0) |
+| Sat, 27 Dec 2025 16:27:31 GMT | Beyond the Click: Building and Analyzing a Phishing Simulation Lab in Kali Linux(VM) | Attah Sosah | [Read More](https://medium.com/p/af52916a7e64) |
+| Sat, 27 Dec 2025 16:27:14 GMT | What Happens After HTTPS? How Secure Connections Really work Work | Codeandcontext | [Read More](https://medium.com/p/6603609b7ed7) |
+| Sat, 27 Dec 2025 16:26:10 GMT | AI & LLM Security Explained Simply : Every Major Attack ⚠️ and How We Fix It ️ | Venkatkumar (VK) | [Read More](https://medium.com/p/be75cd91ac1b) |
 | Sat, 27 Dec 2025 16:21:00 GMT | Relevant — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/6fb78151619f) |
+| Sat, 27 Dec 2025 16:18:12 GMT | Mastering Passive Recon in Information Gathering | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/c5af6e02a952) |
 | Sat, 27 Dec 2025 16:11:55 GMT | Ethical Hacker Career Switch Stories | Girish Dhamane | [Read More](https://medium.com/p/477cc544be50) |
 | Sat, 27 Dec 2025 16:08:26 GMT | FortiGate Firewall Politikalarının Anatomisi | Batuhan KURU | [Read More](https://medium.com/p/718576387d04) |
 | Sat, 27 Dec 2025 16:08:01 GMT | I Hacked My Own Flutter App: What I Found Shocked Me | Pinki Singh | [Read More](https://medium.com/p/0abc0ce0beaa) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 10:32:11 GMT | Driving Digital Growth with MLM Software Solutions in Karachi | Jonney9 | [Read More](https://medium.com/p/accad7ef9eb4) |
 | Sat, 27 Dec 2025 10:20:25 GMT | The Model Context Protocol (MCP): Giving Your AI the Keys to the House (and Praying It Doesn’t… | Krish Agarwal | [Read More](https://medium.com/p/35b5bd46cc13) |
 | Sat, 27 Dec 2025 10:19:41 GMT | The Rise of Closed Platforms: How Big Tech Is Killing Digital Freedom | Dmitry Yarygin | [Read More](https://medium.com/p/671eded5a8f0) |
-| Sat, 27 Dec 2025 10:01:43 GMT | Ban Pan Security System 3.0 | Shivam Raj | [Read More](https://medium.com/p/49d8f8b38b98) |
-| Sat, 27 Dec 2025 09:56:53 GMT | How Cybersecurity Professionals Can Increase Their Income in 2026 (Not Their Salary) | Taimur Ijlal | [Read More](https://medium.com/p/e37c2410c012) |
-| Sat, 27 Dec 2025 09:52:47 GMT | Hidden_in_plainsight — PicoCTF Writeup | 3who-am1 | [Read More](https://medium.com/p/80d126073c6c) |
-| Sat, 27 Dec 2025 09:42:02 GMT | Breaking Blind SQL Injection (DVWA — Medium) | Sanjivani Dobhal | [Read More](https://medium.com/p/97a48e863eda) |
-| Sat, 27 Dec 2025 09:31:06 GMT | GhostPairing: Social Engineering Attack | Himanshu Bhatt | [Read More](https://medium.com/p/bda1026b4a15) |
-| Sat, 27 Dec 2025 09:30:24 GMT | CompTIA CySA+ at WGU: D483 Security Operations | Irene A. Gil | [Read More](https://medium.com/p/1f77b6153f9d) |
-| Sat, 27 Dec 2025 09:21:00 GMT | REALITY doesn’t disappear just because you feel uncomfortable, no, you either face it or… | Richking | [Read More](https://medium.com/p/b149aac5109d) |
-| Sat, 27 Dec 2025 09:16:42 GMT | The Cryptography Journey — Self Signed Certificate | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c7b3992abfdb) |
-| Sat, 27 Dec 2025 09:13:54 GMT | Email Spoofing - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/bc24171846f7) |
