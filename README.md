@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 10:01:43 GMT | Ban Pan Security System 3.0 | Shivam Raj | [Read More](https://medium.com/p/49d8f8b38b98) |
+| Sat, 27 Dec 2025 09:56:53 GMT | How Cybersecurity Professionals Can Increase Their Income in 2026 (Not Their Salary) | Taimur Ijlal | [Read More](https://medium.com/p/e37c2410c012) |
+| Sat, 27 Dec 2025 09:52:47 GMT | Hidden_in_plainsight — PicoCTF Writeup | 3who-am1 | [Read More](https://medium.com/p/80d126073c6c) |
+| Sat, 27 Dec 2025 09:42:02 GMT | Breaking Blind SQL Injection (DVWA — Medium) | Sanjivani Dobhal | [Read More](https://medium.com/p/97a48e863eda) |
 | Sat, 27 Dec 2025 09:31:06 GMT | GhostPairing: Social Engineering Attack | Himanshu Bhatt | [Read More](https://medium.com/p/bda1026b4a15) |
+| Sat, 27 Dec 2025 09:30:24 GMT | CompTIA CySA+ at WGU: D483 Security Operations | Irene A. Gil | [Read More](https://medium.com/p/1f77b6153f9d) |
 | Sat, 27 Dec 2025 09:21:00 GMT | REALITY doesn’t disappear just because you feel uncomfortable, no, you either face it or… | Richking | [Read More](https://medium.com/p/b149aac5109d) |
 | Sat, 27 Dec 2025 09:16:42 GMT | The Cryptography Journey — Self Signed Certificate | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c7b3992abfdb) |
 | Sat, 27 Dec 2025 09:13:54 GMT | Email Spoofing - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/bc24171846f7) |
@@ -108,8 +113,3 @@ A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Re
 | Sat, 27 Dec 2025 00:37:41 GMT | DC-1 Walkthrough | Aris Arisyi | [Read More](https://medium.com/p/4c1c64f17332) |
 | Sat, 27 Dec 2025 00:32:46 GMT | Your Digital Defense Guide: Practical Security for Everyday Life | IT4B - Ram Wisdom Nacis | [Read More](https://medium.com/p/bbe2a1d0ff10) |
 | Sat, 27 Dec 2025 00:02:22 GMT | Phishing Attacks: How to Spot and Prevent This Growing Cyber Threat | Negro Med | [Read More](https://medium.com/p/7d9fc45e3478) |
-| Fri, 26 Dec 2025 23:54:36 GMT | React2Shell, presented by LLMs -Gemini vs Claude vs GPT vs Grok | Kai Ni | [Read More](https://medium.com/p/427cda439eca) |
-| Fri, 26 Dec 2025 23:48:17 GMT | Understanding Cross-Site Scripting (XSS) Through Hands-On Practice | Isaac Edzie | [Read More](https://medium.com/p/c7e5ff53afd6) |
-| Fri, 26 Dec 2025 23:38:18 GMT | Un-Needing Beasts | Dr Frances J Armstrong | [Read More](https://medium.com/p/02b02c153d38) |
-| Fri, 26 Dec 2025 23:32:39 GMT | A STORY OF REVIVAL | Jennifer Achusome | [Read More](https://medium.com/p/c518c814a968) |
-| Fri, 26 Dec 2025 22:54:56 GMT | Learning Cybersecurity Through the Air: My Journey Into Wireless Pentesting | Michael Preston | [Read More](https://medium.com/p/345dd3684fd3) |
