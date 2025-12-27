@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 23:03:05 GMT | Hack Smarter AD Challenge Lab: Arasaka | Milos Skalusevic | [Read More](https://medium.com/p/04c156abe434) |
+| Sat, 27 Dec 2025 22:57:35 GMT | Performing CSRF Exploits over GraphQL APIs | Bash Overflow | [Read More](https://medium.com/p/945764a0160b) |
+| Sat, 27 Dec 2025 22:52:22 GMT | MongoBleed (CVE‑2025‑14847): A Pre‑Auth MongoDB Memory Leak You Can Hunt at Scale | Black1hp | [Read More](https://medium.com/p/c8faa00f2bdd) |
+| Sat, 27 Dec 2025 22:45:56 GMT | 2025: The Year Cybersecurity Lost the War Against Machines (And No One Noticed) | Michelle G Andrade | [Read More](https://medium.com/p/dc7459003f98) |
 | Sat, 27 Dec 2025 22:32:25 GMT | Windows Internals | TheNotorious | [Read More](https://medium.com/p/55b213061918) |
 | Sat, 27 Dec 2025 22:09:31 GMT | The Cloud Blind Spots That Keep Burning DFIR Teams | Elias Gray | [Read More](https://medium.com/p/7a702b872b36) |
 | Sat, 27 Dec 2025 22:08:55 GMT | Multi-step Automation for SOAR: An Automated Journey from Alert to Response | Esra Kayhan | [Read More](https://medium.com/p/37e1c409bf05) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 14:50:41 GMT | Mastering Active Directory: A Complete Guide to Common Attributes | Abduhalim Beknazarov | [Read More](https://medium.com/p/042a35cbbd72) |
 | Sat, 27 Dec 2025 14:47:12 GMT | How to hire Ethical Hacker | Polina Maranovic | [Read More](https://medium.com/p/fda94a1cc76f) |
 | Sat, 27 Dec 2025 14:35:10 GMT | IPC using the Windows Clipboard | S12 - 0x12Dark Development | [Read More](https://medium.com/p/4d9359859534) |
-| Sat, 27 Dec 2025 14:35:00 GMT | Secure VPN: Why Online Privacy Is No Longer Optional in 2026 | Darenzepeda | [Read More](https://medium.com/p/e73d30dd5973) |
-| Sat, 27 Dec 2025 14:27:02 GMT | What Happens When You Run a Vulnerability Scan? | Shoaib Mohammad Ankon | [Read More](https://medium.com/p/aeb7a3fc3b9e) |
-| Sat, 27 Dec 2025 14:22:57 GMT | MCP-Audit — a free open-source tool from APIsec Inc.(Video Explanation) | Somnath Adhikary | [Read More](https://medium.com/p/6797cffe3896) |
-| Sat, 27 Dec 2025 14:22:33 GMT | Day 0 — Starting My SOC Analyst Journey | Harvinder Singh | [Read More](https://medium.com/p/5d5b910e4551) |
