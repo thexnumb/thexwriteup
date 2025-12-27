@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 10:32:21 GMT | HTML Applications (HTA): The Double-Edged Sword in Windows Security | Dhanush N | [Read More](https://medium.com/p/86fbb68690d4) |
+| Sat, 27 Dec 2025 10:32:11 GMT | Driving Digital Growth with MLM Software Solutions in Karachi | Jonney9 | [Read More](https://medium.com/p/accad7ef9eb4) |
+| Sat, 27 Dec 2025 10:20:25 GMT | The Model Context Protocol (MCP): Giving Your AI the Keys to the House (and Praying It Doesn’t… | Krish Agarwal | [Read More](https://medium.com/p/35b5bd46cc13) |
+| Sat, 27 Dec 2025 10:19:41 GMT | The Rise of Closed Platforms: How Big Tech Is Killing Digital Freedom | Dmitry Yarygin | [Read More](https://medium.com/p/671eded5a8f0) |
 | Sat, 27 Dec 2025 10:01:43 GMT | Ban Pan Security System 3.0 | Shivam Raj | [Read More](https://medium.com/p/49d8f8b38b98) |
 | Sat, 27 Dec 2025 09:56:53 GMT | How Cybersecurity Professionals Can Increase Their Income in 2026 (Not Their Salary) | Taimur Ijlal | [Read More](https://medium.com/p/e37c2410c012) |
 | Sat, 27 Dec 2025 09:52:47 GMT | Hidden_in_plainsight — PicoCTF Writeup | 3who-am1 | [Read More](https://medium.com/p/80d126073c6c) |
@@ -109,7 +113,3 @@ A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Re
 | Sat, 27 Dec 2025 01:12:37 GMT | $1,500 Bounty: Image Upload Led to Full SSRF & LFI at Rockstar Games | Monika sharma | [Read More](https://medium.com/p/6a757e704bd1) |
 | Sat, 27 Dec 2025 01:02:25 GMT | Tcpdump Fundamentals: Hands-On LabWalkthrough | Cybersecurity Simplified | [Read More](https://medium.com/p/1126c10e6963) |
 | Sat, 27 Dec 2025 00:52:29 GMT | Security in Databases: How to Stop Treating Your Data Like an Open Bar | revoq | [Read More](https://medium.com/p/c98c9bc4f92e) |
-| Sat, 27 Dec 2025 00:50:22 GMT | Let’s Practice Digital Security! | Hanna Alyssa Bermejo | [Read More](https://medium.com/p/154b2d169997) |
-| Sat, 27 Dec 2025 00:37:41 GMT | DC-1 Walkthrough | Aris Arisyi | [Read More](https://medium.com/p/4c1c64f17332) |
-| Sat, 27 Dec 2025 00:32:46 GMT | Your Digital Defense Guide: Practical Security for Everyday Life | IT4B - Ram Wisdom Nacis | [Read More](https://medium.com/p/bbe2a1d0ff10) |
-| Sat, 27 Dec 2025 00:02:22 GMT | Phishing Attacks: How to Spot and Prevent This Growing Cyber Threat | Negro Med | [Read More](https://medium.com/p/7d9fc45e3478) |
