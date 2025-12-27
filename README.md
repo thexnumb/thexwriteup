@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 22:09:31 GMT | The Cloud Blind Spots That Keep Burning DFIR Teams | Elias Gray | [Read More](https://medium.com/p/7a702b872b36) |
+| Sat, 27 Dec 2025 22:08:55 GMT | Multi-step Automation for SOAR: An Automated Journey from Alert to Response | Esra Kayhan | [Read More](https://medium.com/p/37e1c409bf05) |
+| Sat, 27 Dec 2025 22:08:11 GMT | Advanced WAF Rule Engine Management: The Thin Line Between Security and Usability ️️ | Esra Kayhan | [Read More](https://medium.com/p/6c717607743e) |
+| Sat, 27 Dec 2025 21:56:24 GMT | Loss of Intent as a Failure Mode in OWASPs Agentic AI Risks (2026) | Parminder Singh | [Read More](https://medium.com/p/135a9053a595) |
+| Sat, 27 Dec 2025 21:51:29 GMT | Are You Ready for the 2026 OT Cyber Compliance Wave? | Muhammad Ali Khan | [Read More](https://medium.com/p/ddd0f05c092e) |
 | Sat, 27 Dec 2025 21:35:13 GMT | DevSecOps in the Age of LLMs: You’re Not Secure Just Because You Have AI | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/33495f28d76d) |
 | Sat, 27 Dec 2025 21:19:47 GMT | How I Bypassed App PIN Lock and Root Detection Using Hooking | Raj Prasad Kuiri | [Read More](https://medium.com/p/15c5294df50c) |
 | Sat, 27 Dec 2025 21:19:30 GMT | ICS/Modbus — Claus for Concern Advent of Cyber Tryhackme Writeup | Mainekhacker | [Read More](https://medium.com/p/53c8f9a041dd) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 14:22:57 GMT | MCP-Audit — a free open-source tool from APIsec Inc.(Video Explanation) | Somnath Adhikary | [Read More](https://medium.com/p/6797cffe3896) |
 | Sat, 27 Dec 2025 14:22:33 GMT | Day 0 — Starting My SOC Analyst Journey | Harvinder Singh | [Read More](https://medium.com/p/5d5b910e4551) |
 | Sat, 27 Dec 2025 14:22:25 GMT | Common Crypto Scams You Should Know About | Miller  H. (Blockchain Analysis) | [Read More](https://medium.com/p/6cb72b3fb633) |
-| Sat, 27 Dec 2025 14:21:05 GMT | I Pursue so I can understand | nimrah z. | [Read More](https://medium.com/p/17ba4ec1db16) |
-| Sat, 27 Dec 2025 14:18:13 GMT | PortSwigger Web Security Academy — Lab Write‑Up 8 | 0xM3d0din | [Read More](https://medium.com/p/41438213f732) |
-| Sat, 27 Dec 2025 14:09:18 GMT | PortSwigger: File Upload Vulnerabilities otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/3c541976891b) |
-| Sat, 27 Dec 2025 14:05:01 GMT | Why Firefox Extensions Are the Next Big Bug Bounty Target: Vulnerabilities, Exploits, and Rewards. | The Notorious F.Y.I.H | [Read More](https://medium.com/p/7a3fded89128) |
-| Sat, 27 Dec 2025 13:58:21 GMT | The Azure Mistakes I Would Have Avoided If I’d Read This Sooner | Vikas Rastogi | [Read More](https://medium.com/p/8948b1e66eff) |
