@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 16:21:00 GMT | Relevant — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/6fb78151619f) |
+| Sat, 27 Dec 2025 16:11:55 GMT | Ethical Hacker Career Switch Stories | Girish Dhamane | [Read More](https://medium.com/p/477cc544be50) |
+| Sat, 27 Dec 2025 16:08:26 GMT | FortiGate Firewall Politikalarının Anatomisi | Batuhan KURU | [Read More](https://medium.com/p/718576387d04) |
+| Sat, 27 Dec 2025 16:08:01 GMT | I Hacked My Own Flutter App: What I Found Shocked Me | Pinki Singh | [Read More](https://medium.com/p/0abc0ce0beaa) |
+| Sat, 27 Dec 2025 16:05:55 GMT | No Cybersecurity Model Can Work Without Real National Sovereignty | Medjue Gore | [Read More](https://medium.com/p/e9006d3ab568) |
+| Sat, 27 Dec 2025 16:04:41 GMT | The Epstein Files: Here We Go Again with Broken Redactions | OluwapelumiOyerinde | [Read More](https://medium.com/p/eed4cd85f211) |
+| Sat, 27 Dec 2025 16:02:27 GMT | Your Phone Isn’t Eavesdropping. It’s Just Better at Being You Than You Are… | Usamah Moin | [Read More](https://medium.com/p/5b3f3150ed28) |
+| Sat, 27 Dec 2025 15:59:13 GMT | K8s-Auth-Report: Don’t Fly Blind with Kubernetes Permissions | Omar Din | [Read More](https://medium.com/p/af8d4e16f3c9) |
+| Sat, 27 Dec 2025 15:56:18 GMT | The Top 10 Security Settings Every Apple User Should Enable in 2026 | Configr Technologies | [Read More](https://medium.com/p/e7ce6af79231) |
+| Sat, 27 Dec 2025 15:53:06 GMT | Why Bubble Sort is the Algorithm We Love to Forget | Night Thinker | [Read More](https://medium.com/p/53f51835ef11) |
+| Sat, 27 Dec 2025 15:52:05 GMT | Understanding SQL Injection Through Hands-On Practice (DVWA) | Maria Sagwa | [Read More](https://medium.com/p/d074bd50f4af) |
+| Sat, 27 Dec 2025 15:52:00 GMT | Access Control Vulnerabilities in Smart Contracts | Vinaysati | [Read More](https://medium.com/p/3b474e0c47ea) |
+| Sat, 27 Dec 2025 15:39:46 GMT | Weekend special Episode 5: A Glitch in Paris. | Shobha Pai | [Read More](https://medium.com/p/3726d96187f6) |
 | Sat, 27 Dec 2025 15:35:18 GMT | When “Sign in with Google” Signed Me Into Someone Else’s Account | Sabna | [Read More](https://medium.com/p/cb29134328f3) |
+| Sat, 27 Dec 2025 15:32:22 GMT | History Leading to the TCP/IP Model | azrecon_ | [Read More](https://medium.com/p/157e06ac50d0) |
 | Sat, 27 Dec 2025 15:20:21 GMT | Ransomware Remediation: An Incident Response and Detection Engineer’s Perspective | David O'Neill | [Read More](https://medium.com/p/7b1debe81753) |
 | Sat, 27 Dec 2025 15:16:54 GMT | 46元引爆的資安核彈：解密遠通電收 ETC 釣魚郵件背後的「隱形殺手鍊」與防禦死角 | p1x06u9 | [Read More](https://medium.com/p/7675e38aea32) |
 | Sat, 27 Dec 2025 15:15:04 GMT | Strong Random Password Generator - Password Generator - Wordpress Password Generator | Sandeep Sharma | [Read More](https://medium.com/p/0f0c3d68940c) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 09:21:00 GMT | REALITY doesn’t disappear just because you feel uncomfortable, no, you either face it or… | Richking | [Read More](https://medium.com/p/b149aac5109d) |
 | Sat, 27 Dec 2025 09:16:42 GMT | The Cryptography Journey — Self Signed Certificate | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c7b3992abfdb) |
 | Sat, 27 Dec 2025 09:13:54 GMT | Email Spoofing - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/bc24171846f7) |
-| Sat, 27 Dec 2025 09:12:51 GMT | Cybersecurity in OT Is Not a Product, It’s a Process | Fatma Erturk | [Read More](https://medium.com/p/679e533992d1) |
-| Sat, 27 Dec 2025 09:10:20 GMT | Empty LinkedIn, Ignored Resume: The Real SOC Game | Denny Roger | [Read More](https://medium.com/p/765bb9c6f99f) |
-| Sat, 27 Dec 2025 09:05:55 GMT | Mac Antivirus for WhatsApp Security Against Hacks and Spyware | Siyanoav | [Read More](https://medium.com/p/69ceb30d1b5f) |
-| Sat, 27 Dec 2025 09:02:25 GMT | Why “No Breach Found” Doesn’t Mean You’re Safe (And What to Check Instead) | Alexandre Vandamme | [Read More](https://medium.com/p/550c90b9f618) |
-| Sat, 27 Dec 2025 09:00:14 GMT | Techniques to Understand Spring Authorization Server Authentication — from Browser Redirects to… | Anh Trần Tuấn | [Read More](https://medium.com/p/88e8b4349e94) |
-| Sat, 27 Dec 2025 08:59:21 GMT | How Much Does a Data Breach Actually Cost a Small Business | Beri Contraster | [Read More](https://medium.com/p/264e1450af30) |
-| Sat, 27 Dec 2025 08:56:20 GMT | Citrix Breakout: HackTheBox Windows Privilege Escalation File Transfer Walkthrough | Jorgepatrickrubio | [Read More](https://medium.com/p/12d5cf8b3651) |
-| Sat, 27 Dec 2025 08:52:08 GMT | Cybersecurity in 2026: Top Threats, Trends Protection Guide | RUCHITHA ARUMURI | [Read More](https://medium.com/p/029d288f3c56) |
-| Sat, 27 Dec 2025 08:40:30 GMT | Your Laptop Is a Trojan Horse: 4 Ways Hackers Can Attack a Network From the Inside | Youssef Mohammed | [Read More](https://medium.com/p/5c31c4e82e22) |
-| Sat, 27 Dec 2025 08:36:42 GMT | Top AI Security Insights — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/483af91a14f5) |
-| Sat, 27 Dec 2025 08:26:27 GMT | AWS Advent Calendar 2025 — Days 21–25 | Ihor Sasovets | [Read More](https://medium.com/p/c56c42043360) |
-| Sat, 27 Dec 2025 08:19:34 GMT | I Tested a Website the Legal Way — and Learned Why Most Security Problems Go Unnoticed | Ali.Yurie | [Read More](https://medium.com/p/ad1330e9808a) |
-| Sat, 27 Dec 2025 08:11:31 GMT | Why Prompt Injection Will Remain an Unsolved Problem in AI Security | David SEHYEON Baek | [Read More](https://medium.com/p/61a324e4ca76) |
-| Sat, 27 Dec 2025 08:00:33 GMT | API Pentesting with Cloudflare . | Rishav anand | [Read More](https://medium.com/p/1f52368fb3e4) |
