@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 08:19:34 GMT | I Tested a Website the Legal Way — and Learned Why Most Security Problems Go Unnoticed | Ali.Yurie | [Read More](https://medium.com/p/ad1330e9808a) |
+| Sat, 27 Dec 2025 08:11:31 GMT | Why Prompt Injection Will Remain an Unsolved Problem in AI Security | David SEHYEON Baek | [Read More](https://medium.com/p/61a324e4ca76) |
+| Sat, 27 Dec 2025 08:00:33 GMT | API Pentesting with Cloudflare . | Rishav anand | [Read More](https://medium.com/p/1f52368fb3e4) |
+| Sat, 27 Dec 2025 08:00:18 GMT | Day 2-Regex Resources for Security Engineers: Best Courses, Tools & Practice Sites | NineTales | [Read More](https://medium.com/p/f6bd82132ec2) |
+| Sat, 27 Dec 2025 07:55:56 GMT | What’s Next in AI in 2026: 5 Things That Will Shock Almost Everyone | Nafisa Nazneen Choudhury | [Read More](https://medium.com/p/76cffdf631a5) |
+| Sat, 27 Dec 2025 07:53:36 GMT | DOM XSS Using Web Messages and Javascript URL (window.postMessage → innerHTML Sink) | Aditya Bhatt | [Read More](https://medium.com/p/e5db2a0f1bfe) |
+| Sat, 27 Dec 2025 07:51:18 GMT | How to Identify, Prevent, and Handle YouTube Bot Attacks on Live Streams: A Complete Guide for… | Prem Kumar | [Read More](https://medium.com/p/9e6b12253f9b) |
+| Sat, 27 Dec 2025 07:50:33 GMT | What Is Cyber Security? A Beginner’s Guide (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/2c5beb2ded89) |
+| Sat, 27 Dec 2025 07:46:07 GMT | ️ Cybersecurity Fundamentals — VulnOS Path Walkthrough (Part 1) | Aditya Bhatt | [Read More](https://medium.com/p/38787f89a9da) |
+| Sat, 27 Dec 2025 07:45:42 GMT | Phishing Simulation: Turning Employees into the First Line of Cyber Defense | Zefai Insights | [Read More](https://medium.com/p/06d1f033c6c5) |
+| Sat, 27 Dec 2025 07:44:16 GMT | Can Bookmarking a Website or Installing an Extension Drain Your Crypto Wallet? | Byte Hawk | [Read More](https://medium.com/p/7e9ad9183aac) |
+| Sat, 27 Dec 2025 07:39:23 GMT | Day 2 — Learning Regex the Security Engineer Way: Finding Patterns That Actually Matter | NineTales | [Read More](https://medium.com/p/af75b55ee83b) |
 | Sat, 27 Dec 2025 07:32:22 GMT | 10 Solana Dev Habits That Prevent Incidents | Duckweave | [Read More](https://medium.com/p/8ad27f40deec) |
 | Sat, 27 Dec 2025 07:32:11 GMT | Cyber Attacks in 2025: The Year Digital Trust Was Put on Trial | Vijay Kumar Gupta | [Read More](https://medium.com/p/be564ec8ad97) |
 | Sat, 27 Dec 2025 07:28:19 GMT | SQL injection in Prepare statement | 0xz3d | [Read More](https://medium.com/p/a1014172dec7) |
@@ -101,15 +113,3 @@ A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Re
 | Fri, 26 Dec 2025 21:22:47 GMT | Writing Custom Parsers in SIEM: The Art of Truly Understanding Logs | Esra Kayhan | [Read More](https://medium.com/p/caf92e936153) |
 | Fri, 26 Dec 2025 21:15:43 GMT | Northpole Data Breach | northpolesysadmin | [Read More](https://medium.com/p/1a972490b685) |
 | Fri, 26 Dec 2025 21:09:15 GMT | The Future of Libraries: Intellectual Havens for Lost Youth? | Rich Crawford | [Read More](https://medium.com/p/091726aa1eec) |
-| Fri, 26 Dec 2025 20:47:30 GMT | How Cybercrime, Fintech, and Banks Are Reshaping Financial Security | OluwapelumiOyerinde | [Read More](https://medium.com/p/017cb9b4a008) |
-| Fri, 26 Dec 2025 20:45:06 GMT | Multi-Cloud DevOps with Generative AI | InsureTech Skills | [Read More](https://medium.com/p/8835ed853ba4) |
-| Fri, 26 Dec 2025 20:44:38 GMT | Revealing the fix to contract immutability using Upgradability. | Noble Nyuiela Kuadugah | [Read More](https://medium.com/p/98db5db95bed) |
-| Fri, 26 Dec 2025 20:26:14 GMT | How a Single Forgotten DNS Record Can Turn a Trusted Domain into a Gambling Site | Ashutosh Anand | [Read More](https://medium.com/p/8ca2d094175b) |
-| Fri, 26 Dec 2025 20:11:33 GMT | SaaS Sprawl — Why Employees Create Invisible Attack Paths | JSOC IT BLOG | [Read More](https://medium.com/p/4a8d5e4de37c) |
-| Fri, 26 Dec 2025 20:04:31 GMT | Your Website Isn’t Vulnerable — Your Workflow Is ⚙️ | Ali.Yurie | [Read More](https://medium.com/p/fbdb21e422dd) |
-| Fri, 26 Dec 2025 19:56:47 GMT | From “First-Sight” to “Third-Sight” | Chier Hu | [Read More](https://medium.com/p/d8f5365e73cb) |
-| Fri, 26 Dec 2025 19:53:21 GMT | How an AWS Cognito Misconfiguration Led to Full Organization Account Compromise | a-shams | [Read More](https://medium.com/p/5c9f6983e1a4) |
-| Fri, 26 Dec 2025 19:48:56 GMT | Deepfakes and Coffee Break Discussions to Avoid | Adarsh asati | [Read More](https://medium.com/p/f044f72e0871) |
-| Fri, 26 Dec 2025 19:42:43 GMT | Title | Abdulrahman Haggam | [Read More](https://medium.com/p/b8ba976f7569) |
-| Fri, 26 Dec 2025 19:32:12 GMT | The Iran–US–Israel System | PYURA ANSHUMAN | [Read More](https://medium.com/p/59ead2240ab3) |
-| Fri, 26 Dec 2025 19:32:01 GMT | App Store Screenshots made easy | Štěpán Šanda | [Read More](https://medium.com/p/547fd3ec8534) |
