@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 07:07:06 GMT | Xiaomi 17 Ultra: Leica-Powered Cameras Dengan 200MP Telephoto, Master Zoom Ring & Snapdragon 8… | 77go - Best Online Casino Malaysia | [Read More](https://medium.com/p/6ca51d3f61d4) |
+| Sat, 27 Dec 2025 07:06:28 GMT | Steel Gate Manufacturer Near Me | Harichand Steel | [Read More](https://medium.com/p/33f52ad1fe70) |
+| Sat, 27 Dec 2025 07:06:06 GMT | Simple Ways to Protect Yourself Online | TechConnectPro | [Read More](https://medium.com/p/d3b5a6476747) |
+| Sat, 27 Dec 2025 07:05:48 GMT | AI Agent Readiness: A Practical Guide | John Williams | [Read More](https://medium.com/p/226116226e88) |
+| Sat, 27 Dec 2025 07:03:13 GMT | Regulatory Technology (RegTech) Integration in Enterprise Security Operations | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/2ff3a4f1a67c) |
+| Sat, 27 Dec 2025 06:57:06 GMT | I Was Hunting Bugs — The Cache Was Hunting Users Instead | Iski | [Read More](https://medium.com/p/1350057031e5) |
+| Sat, 27 Dec 2025 06:52:18 GMT | Subdomain to Internal Pivoting: 10 Techniques Every Ethical Hacker Should Master | Very Lazy Tech | [Read More](https://medium.com/p/5900c278dab7) |
+| Sat, 27 Dec 2025 06:43:20 GMT | Day 17: The Platform That Knows When to Wake You Up | Mahimagarg | [Read More](https://medium.com/p/155eeca28572) |
+| Sat, 27 Dec 2025 06:39:59 GMT | Effective Hospital Security: Safeguarding Health and Safety with Barzo Security Services | Travel time | [Read More](https://medium.com/p/7ca19bbdddf6) |
+| Sat, 27 Dec 2025 06:34:36 GMT | DAST Automation Using BurpSuite MCP | Xcheater | [Read More](https://medium.com/p/923b6c0101e1) |
+| Sat, 27 Dec 2025 06:34:13 GMT | My Tech Journey: From Fake Hacking Dreams to Real Skills | blackey07 | [Read More](https://medium.com/p/580523dd73fb) |
+| Sat, 27 Dec 2025 06:30:44 GMT | Advanced WAF Evasion via DOM Reconstruction | JD | [Read More](https://medium.com/p/c24b7f93a152) |
+| Sat, 27 Dec 2025 06:27:41 GMT | Lesson Learned — SOC Level 1: Alert Triage | Khyrihutchins | [Read More](https://medium.com/p/aeb3a46a13b7) |
 | Sat, 27 Dec 2025 06:25:43 GMT | Why Good Web Hosting Protection Is No Longer Optional | Swapnil S. | [Read More](https://medium.com/p/eac8888f3ab3) |
 | Sat, 27 Dec 2025 06:22:03 GMT | Lesson learned — SOC Metrics and Objectives | Khyrihutchins | [Read More](https://medium.com/p/65c35458887c) |
 | Sat, 27 Dec 2025 06:05:25 GMT | Flipkart Proxies 2026: Seller vs Monitoring Setup | CryptoWisp | [Read More](https://medium.com/p/2ce2273f3000) |
@@ -100,17 +113,3 @@ A Year-End Reflection on Survival, Faith, and Finding Help in… | Krystal | [Re
 | Fri, 26 Dec 2025 18:36:07 GMT | What Is Product Security? (Explained Like You’re Talking to a Friend ☕) | Ayan bhowal | [Read More](https://medium.com/p/185293dd1836) |
 | Fri, 26 Dec 2025 18:32:16 GMT | Smol — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/e6531ff428eb) |
 | Fri, 26 Dec 2025 18:20:52 GMT | Where to Legally Hire Ethical Hackers: A Comprehensive Guide | Christopher William | [Read More](https://medium.com/p/ca9eef3d5e75) |
-| Fri, 26 Dec 2025 18:13:41 GMT | Industry Sectors that Employ Security Guards | Ultraprotectsecurity | [Read More](https://medium.com/p/2d19697b9e25) |
-| Fri, 26 Dec 2025 18:03:56 GMT | THE WOMAN WHO HID THE HYENA | Cyril Effiong | [Read More](https://medium.com/p/a5bb9b1497c3) |
-| Fri, 26 Dec 2025 18:02:28 GMT | Unpacking Santa Stealer — A Stealer Rebranded from BlueLine Stealer | Maurice Fielenbach | [Read More](https://medium.com/p/e74f429ce11d) |
-| Fri, 26 Dec 2025 18:01:08 GMT | Breaking the Android Play Integrity Trust Model | Joseph James (JJ) | [Read More](https://medium.com/p/9dafc9ab08d4) |
-| Fri, 26 Dec 2025 18:00:43 GMT | Cyber-Resilience 2025: NHS Digital Threat Intelligence Brief | Being Gaituri | [Read More](https://medium.com/p/bddd12d6505f) |
-| Fri, 26 Dec 2025 18:00:23 GMT | Parrot OS 7.0 Launches With AI-Focused Pentesting and a Full System Rewrite | Chetan Seripally | [Read More](https://medium.com/p/de1b604cca67) |
-| Fri, 26 Dec 2025 17:54:56 GMT | The History of Darknet Markets: From Silk Road to Decentralization | Tor BBB | [Read More](https://medium.com/p/48dcf1f66715) |
-| Fri, 26 Dec 2025 17:53:37 GMT | Les enjeux RSE du métier de l’informatique (2) | Irene AMEDJI | [Read More](https://medium.com/p/ad9575d9bb0a) |
-| Fri, 26 Dec 2025 17:41:46 GMT | “The Shoe Seller and the Barefoot Boy”
-On one of the streets of New York, there was a man who sold… | Sakhi Writes | [Read More](https://medium.com/p/49773e16f3f4) |
-| Fri, 26 Dec 2025 17:40:19 GMT | The Only Place I Felt Seen Just Banned Me | Ritik | [Read More](https://medium.com/p/b71021008871) |
-| Fri, 26 Dec 2025 17:33:31 GMT | From Bottleneck to Builder: How Founders Create Freedom, Scale, and Teams That Win | Business Leaders of America Podcast | [Read More](https://medium.com/p/7383b3901c14) |
-| Fri, 26 Dec 2025 17:30:56 GMT | Why Android Users in the USA Are Switching to Free VPN Apps in 2026 | Mandolmanju | [Read More](https://medium.com/p/6f69270fc2d1) |
-| Fri, 26 Dec 2025 17:29:32 GMT | Title | Abdulrahmanhijam | [Read More](https://medium.com/p/642678bb6f4d) |
