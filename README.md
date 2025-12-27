@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 15:15:04 GMT | Strong Random Password Generator - Password Generator - Wordpress Password Generator | Sandeep Sharma | [Read More](https://medium.com/p/0f0c3d68940c) |
+| Sat, 27 Dec 2025 15:14:24 GMT | What Hacking Does To A Human Being | Calvaryhasarrived | [Read More](https://medium.com/p/5e0d4f28fd3b) |
+| Sat, 27 Dec 2025 15:06:01 GMT | Why FAIR Framework Fails for AI | Nate Gibson | [Read More](https://medium.com/p/46e4a003ba5f) |
+| Sat, 27 Dec 2025 15:03:25 GMT | Biohacking for Bug Hunters: Improving Productivity | Afi0pchik | [Read More](https://medium.com/p/82eb841ee125) |
+| Sat, 27 Dec 2025 15:02:36 GMT | My $0 Path to SOC Analyst: The Day I Started Learning Splunk (Week 3) | Ayush Kumbhar | [Read More](https://medium.com/p/b0c9d99efab8) |
+| Sat, 27 Dec 2025 15:02:26 GMT | The New Collapse of Consumer Computing: Centralization, AI, and the Emerging GRC Crisis | Brian Haman, PhD | [Read More](https://medium.com/p/992fecd14356) |
+| Sat, 27 Dec 2025 15:01:34 GMT | Breaking the Team: A Deep Dive into Multi-Stage Linux Exploitation | Justin Jude Cabodil | [Read More](https://medium.com/p/bd53b681c40c) |
+| Sat, 27 Dec 2025 14:57:33 GMT | How a Cyber Security Course in Kochi Helps You Understand Ethical Hacking | Anaynams | [Read More](https://medium.com/p/d6617d0ddcdd) |
+| Sat, 27 Dec 2025 14:56:36 GMT | Day 0 — Starting My SOC Analyst Journey | Faizan Nazir | [Read More](https://medium.com/p/54b4178b63ac) |
+| Sat, 27 Dec 2025 14:56:01 GMT | Building a Cryptographic Dead Man’s Switch with Next.js and Cloudflare Workers | Teycir | [Read More](https://medium.com/p/34f1f6400218) |
+| Sat, 27 Dec 2025 14:52:21 GMT | ❌ Never click on unknown or suspicious links
+❌ Don’t trust “Free Offer” messages in your Facebook… | Ethical Hacker | [Read More](https://medium.com/p/9f06c11fe999) |
+| Sat, 27 Dec 2025 14:51:34 GMT | “Bug Bounty Bootcamp #7: Deconstructing Websites — How the Client-Server Conversation Creates Your… | Aman Sharma | [Read More](https://medium.com/p/6c7f45f1ae00) |
+| Sat, 27 Dec 2025 14:50:41 GMT | Mastering Active Directory: A Complete Guide to Common Attributes | Abduhalim Beknazarov | [Read More](https://medium.com/p/042a35cbbd72) |
+| Sat, 27 Dec 2025 14:47:12 GMT | How to hire Ethical Hacker | Polina Maranovic | [Read More](https://medium.com/p/fda94a1cc76f) |
+| Sat, 27 Dec 2025 14:35:10 GMT | IPC using the Windows Clipboard | S12 - 0x12Dark Development | [Read More](https://medium.com/p/4d9359859534) |
 | Sat, 27 Dec 2025 14:35:00 GMT | Secure VPN: Why Online Privacy Is No Longer Optional in 2026 | Darenzepeda | [Read More](https://medium.com/p/e73d30dd5973) |
 | Sat, 27 Dec 2025 14:27:02 GMT | What Happens When You Run a Vulnerability Scan? | Shoaib Mohammad Ankon | [Read More](https://medium.com/p/aeb7a3fc3b9e) |
 | Sat, 27 Dec 2025 14:22:57 GMT | MCP-Audit — a free open-source tool from APIsec Inc.(Video Explanation) | Somnath Adhikary | [Read More](https://medium.com/p/6797cffe3896) |
@@ -97,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 07:55:56 GMT | What’s Next in AI in 2026: 5 Things That Will Shock Almost Everyone | Nafisa Nazneen Choudhury | [Read More](https://medium.com/p/76cffdf631a5) |
 | Sat, 27 Dec 2025 07:53:36 GMT | DOM XSS Using Web Messages and Javascript URL (window.postMessage → innerHTML Sink) | Aditya Bhatt | [Read More](https://medium.com/p/e5db2a0f1bfe) |
 | Sat, 27 Dec 2025 07:51:18 GMT | How to Identify, Prevent, and Handle YouTube Bot Attacks on Live Streams: A Complete Guide for… | Prem Kumar | [Read More](https://medium.com/p/9e6b12253f9b) |
-| Sat, 27 Dec 2025 07:50:33 GMT | What Is Cyber Security? A Beginner’s Guide (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/2c5beb2ded89) |
-| Sat, 27 Dec 2025 07:46:07 GMT | ️ Cybersecurity Fundamentals — VulnOS Path Walkthrough (Part 1) | Aditya Bhatt | [Read More](https://medium.com/p/38787f89a9da) |
-| Sat, 27 Dec 2025 07:45:42 GMT | Phishing Simulation: Turning Employees into the First Line of Cyber Defense | Zefai Insights | [Read More](https://medium.com/p/06d1f033c6c5) |
-| Sat, 27 Dec 2025 07:44:16 GMT | Can Bookmarking a Website or Installing an Extension Drain Your Crypto Wallet? | Byte Hawk | [Read More](https://medium.com/p/7e9ad9183aac) |
-| Sat, 27 Dec 2025 07:39:23 GMT | Day 2 — Learning Regex the Security Engineer Way: Finding Patterns That Actually Matter | NineTales | [Read More](https://medium.com/p/af75b55ee83b) |
-| Sat, 27 Dec 2025 07:32:22 GMT | 10 Solana Dev Habits That Prevent Incidents | Duckweave | [Read More](https://medium.com/p/8ad27f40deec) |
-| Sat, 27 Dec 2025 07:32:11 GMT | Cyber Attacks in 2025: The Year Digital Trust Was Put on Trial | Vijay Kumar Gupta | [Read More](https://medium.com/p/be564ec8ad97) |
-| Sat, 27 Dec 2025 07:28:19 GMT | SQL injection in Prepare statement | 0xz3d | [Read More](https://medium.com/p/a1014172dec7) |
-| Sat, 27 Dec 2025 07:25:37 GMT | Satcom Sleuthing: Using MODAT to Fingerprint Marine Communication Systems | hacker_might | [Read More](https://medium.com/p/36adfd24d8f3) |
-| Sat, 27 Dec 2025 07:17:21 GMT | Cyber Security Is Broken — Not Because of Hackers, But Because of How We Train | Ankit rai | [Read More](https://medium.com/p/1518e3770a00) |
-| Sat, 27 Dec 2025 07:07:06 GMT | Xiaomi 17 Ultra: Leica-Powered Cameras Dengan 200MP Telephoto, Master Zoom Ring & Snapdragon 8… | 77go - Best Online Casino Malaysia | [Read More](https://medium.com/p/6ca51d3f61d4) |
-| Sat, 27 Dec 2025 07:06:28 GMT | Steel Gate Manufacturer Near Me | Harichand Steel | [Read More](https://medium.com/p/33f52ad1fe70) |
-| Sat, 27 Dec 2025 07:06:06 GMT | Simple Ways to Protect Yourself Online | TechConnectPro | [Read More](https://medium.com/p/d3b5a6476747) |
-| Sat, 27 Dec 2025 07:05:48 GMT | AI Agent Readiness: A Practical Guide | John Williams | [Read More](https://medium.com/p/226116226e88) |
-| Sat, 27 Dec 2025 07:03:13 GMT | Regulatory Technology (RegTech) Integration in Enterprise Security Operations | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/2ff3a4f1a67c) |
