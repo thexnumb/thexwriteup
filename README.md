@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 19:26:11 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobalserver | [Read More](https://medium.com/p/1f5fac88a6ac) |
+| Sat, 27 Dec 2025 19:26:09 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobalagency Manager | [Read More](https://medium.com/p/99097044aec3) |
+| Sat, 27 Dec 2025 19:26:07 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobaldirector | [Read More](https://medium.com/p/9276499d0ba8) |
+| Sat, 27 Dec 2025 19:26:06 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobalagency Ceo | [Read More](https://medium.com/p/4d9bc5844c6e) |
+| Sat, 27 Dec 2025 19:21:24 GMT | H.E.I.X. GLOBAL AGENCY | H.E.I.X. Global Agency | [Read More](https://medium.com/p/efe5a2eb8d00) |
 | Sat, 27 Dec 2025 19:05:36 GMT | Access Methods and Credential Hunting in Azure | Tharindu Damith | [Read More](https://medium.com/p/267b1c80d703) |
 | Sat, 27 Dec 2025 18:57:33 GMT | How Europe lost IT leadership | Steph L. | [Read More](https://medium.com/p/f4b25742ef32) |
 | Sat, 27 Dec 2025 18:52:08 GMT | CloudSek Hiring CTF Round-1(6th December 2025) | Chiakiichan | [Read More](https://medium.com/p/9f226a6a9a30) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 12:49:39 GMT | FortiToken Kullanımı ve Çok Faktörlü Kimlik Doğrulamanın Önemi | Elif ASKAY | [Read More](https://medium.com/p/c400e82669f1) |
 | Sat, 27 Dec 2025 12:43:15 GMT | Technology 2026 Smarter Machines Faster World | Shetty21me | [Read More](https://medium.com/p/f8127c6831cd) |
 | Sat, 27 Dec 2025 12:37:10 GMT | NIST & MITRE: $20 Million AI Cybersecurity Initiative | Information For Technologies | [Read More](https://medium.com/p/a4c421feb053) |
-| Sat, 27 Dec 2025 12:34:14 GMT | # Week 2: Creating a Mobile Security Hub (NetHunter + Termux) | scriptpy | [Read More](https://medium.com/p/d9ba608a2e20) |
-| Sat, 27 Dec 2025 12:19:32 GMT | DockerLabs — Puzzle [Write-Up] | APS88 | [Read More](https://medium.com/p/8124f5a38966) |
-| Sat, 27 Dec 2025 12:17:47 GMT | Phase-Locked Minds | James Kreis | [Read More](https://medium.com/p/9455099a6394) |
-| Sat, 27 Dec 2025 12:17:14 GMT | Practical JWT Mastery in .NET | Compile & Conquer | [Read More](https://medium.com/p/5bbab173a2ea) |
-| Sat, 27 Dec 2025 12:10:17 GMT | How to Make Money with Cybersecurity (In Simple Terms) | Zunair Usmani | [Read More](https://medium.com/p/55342695a9f1) |
