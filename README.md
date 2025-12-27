@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 14:35:00 GMT | Secure VPN: Why Online Privacy Is No Longer Optional in 2026 | Darenzepeda | [Read More](https://medium.com/p/e73d30dd5973) |
+| Sat, 27 Dec 2025 14:27:02 GMT | What Happens When You Run a Vulnerability Scan? | Shoaib Mohammad Ankon | [Read More](https://medium.com/p/aeb7a3fc3b9e) |
+| Sat, 27 Dec 2025 14:22:57 GMT | MCP-Audit — a free open-source tool from APIsec Inc.(Video Explanation) | Somnath Adhikary | [Read More](https://medium.com/p/6797cffe3896) |
+| Sat, 27 Dec 2025 14:22:33 GMT | Day 0 — Starting My SOC Analyst Journey | Harvinder Singh | [Read More](https://medium.com/p/5d5b910e4551) |
+| Sat, 27 Dec 2025 14:22:25 GMT | Common Crypto Scams You Should Know About | Miller  H. (Blockchain Analysis) | [Read More](https://medium.com/p/6cb72b3fb633) |
+| Sat, 27 Dec 2025 14:21:05 GMT | I Pursue so I can understand | nimrah z. | [Read More](https://medium.com/p/17ba4ec1db16) |
 | Sat, 27 Dec 2025 14:18:13 GMT | PortSwigger Web Security Academy — Lab Write‑Up 8 | 0xM3d0din | [Read More](https://medium.com/p/41438213f732) |
 | Sat, 27 Dec 2025 14:09:18 GMT | PortSwigger: File Upload Vulnerabilities otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/3c541976891b) |
 | Sat, 27 Dec 2025 14:05:01 GMT | Why Firefox Extensions Are the Next Big Bug Bounty Target: Vulnerabilities, Exploits, and Rewards. | The Notorious F.Y.I.H | [Read More](https://medium.com/p/7a3fded89128) |
@@ -50,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 11:56:18 GMT | Leadership Development Plan | Tose Omera | [Read More](https://medium.com/p/825adb967737) |
 | Sat, 27 Dec 2025 11:42:22 GMT | Door Lock Service — Expert Locksmith Solutions Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/0f18452d0b6b) |
 | Sat, 27 Dec 2025 11:41:51 GMT | 24hr Emergency Locksmith — Fast & Reliable London Locksmith Services | The Lock Specialist Ltd | [Read More](https://medium.com/p/aac4fff43712) |
+| Sat, 27 Dec 2025 11:39:26 GMT | Exploiting an Exposed MongoDB Instance with MongoBleed. A Local Lab Walkthrough | Macaroniwdcheese | [Read More](https://medium.com/p/985829b4890a) |
 | Sat, 27 Dec 2025 11:33:01 GMT | Difference Between Cyber Security and Information Security (2026 Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/8c6067f20878) |
 | Sat, 27 Dec 2025 11:18:11 GMT | Reflected XSS using Google Dorking on webmail application powered by IceWarp Server | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/aea90b17d1f4) |
 | Sat, 27 Dec 2025 11:10:56 GMT | Best cyber security institute in Bangalore | Cyberlancer | [Read More](https://medium.com/p/adc6aa9871af) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 07:06:06 GMT | Simple Ways to Protect Yourself Online | TechConnectPro | [Read More](https://medium.com/p/d3b5a6476747) |
 | Sat, 27 Dec 2025 07:05:48 GMT | AI Agent Readiness: A Practical Guide | John Williams | [Read More](https://medium.com/p/226116226e88) |
 | Sat, 27 Dec 2025 07:03:13 GMT | Regulatory Technology (RegTech) Integration in Enterprise Security Operations | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/2ff3a4f1a67c) |
-| Sat, 27 Dec 2025 06:57:06 GMT | I Was Hunting Bugs — The Cache Was Hunting Users Instead | Iski | [Read More](https://medium.com/p/1350057031e5) |
-| Sat, 27 Dec 2025 06:52:18 GMT | Subdomain to Internal Pivoting: 10 Techniques Every Ethical Hacker Should Master | Very Lazy Tech | [Read More](https://medium.com/p/5900c278dab7) |
-| Sat, 27 Dec 2025 06:43:20 GMT | Day 17: The Platform That Knows When to Wake You Up | Mahimagarg | [Read More](https://medium.com/p/155eeca28572) |
-| Sat, 27 Dec 2025 06:39:59 GMT | Effective Hospital Security: Safeguarding Health and Safety with Barzo Security Services | Travel time | [Read More](https://medium.com/p/7ca19bbdddf6) |
-| Sat, 27 Dec 2025 06:34:36 GMT | DAST Automation Using BurpSuite MCP | Xcheater | [Read More](https://medium.com/p/923b6c0101e1) |
-| Sat, 27 Dec 2025 06:34:13 GMT | My Tech Journey: From Fake Hacking Dreams to Real Skills | blackey07 | [Read More](https://medium.com/p/580523dd73fb) |
-| Sat, 27 Dec 2025 06:30:44 GMT | Advanced WAF Evasion via DOM Reconstruction | JD | [Read More](https://medium.com/p/c24b7f93a152) |
