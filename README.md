@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 13:44:20 GMT | When the Pager Goes Off at 3 AM: What Incident Response Can Learn from the Back of an Ambulance and… | Mat Cyb3rF0x Fuchs | [Read More](https://medium.com/p/9f224eca8537) |
+| Sat, 27 Dec 2025 13:43:13 GMT | How to Configure mTLS in Spring Boot: An Enterprise-Ready Guide | Anand Jeyaseelan | [Read More](https://medium.com/p/d7fe09dbfb83) |
+| Sat, 27 Dec 2025 13:41:51 GMT | Mobile Forensics Challenge: Breaking an Encrypted Gallery Vault | Simone Licitra | [Read More](https://medium.com/p/c3d819f2af4d) |
+| Sat, 27 Dec 2025 13:31:36 GMT | n8n: CVE-2025–68613 - writeup | D4m.sh | [Read More](https://medium.com/p/2f4d69b2b05f) |
+| Sat, 27 Dec 2025 13:25:13 GMT | A Comprehensive Guide to Ethical Hacking | The Trusted Hacker | [Read More](https://medium.com/p/d006c4ef19bd) |
+| Sat, 27 Dec 2025 13:17:43 GMT | eBPF-CipherTrace: Cryptographic Visibility for the Quantum Era | Satyam Dubey | [Read More](https://medium.com/p/1ca83782054b) |
 | Sat, 27 Dec 2025 13:15:51 GMT | Ledger data breach / hack Saturday 27th December 2025 | Ledger | [Read More](https://medium.com/p/45968eeadaff) |
 | Sat, 27 Dec 2025 13:14:38 GMT | Mastering Linux Isolation: A Practical Guide to Namespaces and cgroups | Sumit Sah | [Read More](https://medium.com/p/5cd39c82fe3d) |
 | Sat, 27 Dec 2025 13:14:07 GMT | Best Ethical Hacking Training in Noida - Ducat India | Kesari Srivastava | [Read More](https://medium.com/p/ac060ceecfe7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 06:05:25 GMT | Flipkart Proxies 2026: Seller vs Monitoring Setup | CryptoWisp | [Read More](https://medium.com/p/2ce2273f3000) |
 | Sat, 27 Dec 2025 05:56:56 GMT | TryHackMe: Chocolate Factory | cbev | [Read More](https://medium.com/p/01ce03bc01da) |
 | Sat, 27 Dec 2025 05:45:58 GMT | DDoS Isn’t a Hack. It’s a Traffic Problem. | Tara Prasad Routray | [Read More](https://medium.com/p/6a6c2da5f164) |
-| Sat, 27 Dec 2025 05:43:01 GMT | Why Most Bug Bounty Advice Sounds Smart — but Quietly Fails in Real Life | Er Dhaval Ramani | [Read More](https://medium.com/p/7aed1e55288a) |
-| Sat, 27 Dec 2025 05:38:53 GMT | How I Solved All Challenges in the CloudSEK Hiring CTF (Round 1): A Complete Walkthrough | Zer0Figure | [Read More](https://medium.com/p/7d75a9b84c28) |
-| Sat, 27 Dec 2025 05:27:27 GMT | I Let An AI Pentester: Shannon, On My Vulnerable Go App — Here’s What Happened | Bhavishyaagg | [Read More](https://medium.com/p/9878b15c687b) |
-| Sat, 27 Dec 2025 05:18:23 GMT | ️ In the Security Business, Trust Is Built Before the First Patrol | Qbit Technologies | [Read More](https://medium.com/p/a9987e795920) |
-| Sat, 27 Dec 2025 05:15:23 GMT | Reverse Engineering — Injection Series Part 3 (Blue Team Labs Online) | Jagadishtripathy | [Read More](https://medium.com/p/78181ebaa163) |
-| Sat, 27 Dec 2025 05:10:26 GMT | The Ultimate Guide to Capture The Flag (CTF)​ | Janhvee Laad | [Read More](https://medium.com/p/36493fbbd012) |
