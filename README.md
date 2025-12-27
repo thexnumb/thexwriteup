@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Dec 2025 17:35:57 GMT | TryHackme Skynet Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/3b8599bcc1bb) |
+| Sat, 27 Dec 2025 17:34:14 GMT | TryHackMe - MD2PDF Writeup | 7s26Simon | [Read More](https://medium.com/p/1f9342e0b042) |
+| Sat, 27 Dec 2025 17:24:32 GMT | Why Retries Create More Bugs Than They Fix (Spring Boot Reality Check) | CodeTalks | [Read More](https://medium.com/p/73fb3496bdb6) |
 | Sat, 27 Dec 2025 17:07:55 GMT | How to Test Network Connectivity in Linux - Beginner Guide | Shahzaib | [Read More](https://medium.com/p/34d2d57bf502) |
 | Sat, 27 Dec 2025 17:07:16 GMT | Transfer files from a Local Host to a Private VM in OCI VCN using Bastion Port Forwarding | Hasnain Electricwala | [Read More](https://medium.com/p/0e24f9cdcf01) |
 | Sat, 27 Dec 2025 16:59:59 GMT | 信任的代價：你的 LINE 安裝檔，可能是駭客的後門 | p1x06u9 | [Read More](https://medium.com/p/0d4de2066b41) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 11:18:11 GMT | Reflected XSS using Google Dorking on webmail application powered by IceWarp Server | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/aea90b17d1f4) |
 | Sat, 27 Dec 2025 11:10:56 GMT | Best cyber security institute in Bangalore | Cyberlancer | [Read More](https://medium.com/p/adc6aa9871af) |
 | Sat, 27 Dec 2025 11:06:41 GMT | You Were Never Hard to Love — They Just Didn’t Know How | Inspire: Viva La Vida | [Read More](https://medium.com/p/d08a1ce3677a) |
-| Sat, 27 Dec 2025 11:00:33 GMT | [OSCP]code , code ,code machine | Ander | [Read More](https://medium.com/p/bcc4ab24bb9f) |
-| Sat, 27 Dec 2025 10:57:03 GMT | Smart Outdoor Security Camera Mounting Ideas to Avoid Blind Spots | Criminology Expert | [Read More](https://medium.com/p/7c7e35a87b53) |
-| Sat, 27 Dec 2025 10:53:55 GMT | Securing Your Web Authentication: A Practical Guide to DPoP in Web Apps | Ahsan Mubariz | [Read More](https://medium.com/p/07b20c90c1d9) |
