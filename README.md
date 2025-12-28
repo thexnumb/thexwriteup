@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 20:17:35 GMT | NMAP: The GOAT of Reconnaissance | Cybersensus | [Read More](https://medium.com/p/853222fd3000) |
+| Sun, 28 Dec 2025 19:59:51 GMT | When Should a Pre-Teen Get a Smartphone? Pros, Cons, and Guidelines | Edwin Odoyo | [Read More](https://medium.com/p/2f36d55f29ad) |
+| Sun, 28 Dec 2025 19:55:52 GMT | How to Access 404 files of any server | Muhammad Haider Tallal | [Read More](https://medium.com/p/1fa1dfeec028) |
+| Sun, 28 Dec 2025 19:53:36 GMT | imToken Activity Report: December 2025 | imToken Persian Community | [Read More](https://medium.com/p/e23918d2e7d5) |
+| Sun, 28 Dec 2025 19:47:55 GMT | When the Bees Came for My Business: Unmasking Enterprise-Level Surveillance on Personal Devices | Krystal | [Read More](https://medium.com/p/96317520c2ea) |
+| Sun, 28 Dec 2025 19:47:12 GMT | Stop Putting Sensitive Data Into ChatGPT — Here’s the Safer Way I Use AI in 2025 | Satyam Pathania | [Read More](https://medium.com/p/c11edd853a17) |
+| Sun, 28 Dec 2025 19:47:01 GMT | Dedicated Server: The Backbone of High-Performance & Secure Hosting | Tenbyte cloud | [Read More](https://medium.com/p/23f8b1bbcb1a) |
+| Sun, 28 Dec 2025 19:44:52 GMT | Security Scanning is Easy. Triage is the Nightmare. | Kay Adelaja | [Read More](https://medium.com/p/60f7600da3b2) |
+| Sun, 28 Dec 2025 19:40:52 GMT | Kapıdaki Güvenlik Görevlisi: Tarayıcı vs. Sunucu | Cyber Web | [Read More](https://medium.com/p/c9b7075bc699) |
 | Sun, 28 Dec 2025 19:31:30 GMT | Crypto-Agility | Aykut Mert Pekdemir | [Read More](https://medium.com/p/53dc9c7f451e) |
 | Sun, 28 Dec 2025 19:22:10 GMT | imToken Activity Report: Desember 2025 | imToken Persian Community | [Read More](https://medium.com/p/7ea88aeb6e65) |
 | Sun, 28 Dec 2025 19:05:24 GMT | USA Cloud VPS Hosting with Unmetered Bandwidth, Introducing GigaNodes’ New USA VPS Lineup | GigaNodes | [Read More](https://medium.com/p/68db2c6e60f3) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 11:07:32 GMT | Web Security Essentials: A Backend Developer’s Quick Guide | Alabi Temitope David | [Read More](https://medium.com/p/8ace9f071ed9) |
 | Sun, 28 Dec 2025 11:07:20 GMT | Why Security Architecture is Fundamentally a Graph Problem | Levente Simon | [Read More](https://medium.com/p/5f4b58307a3a) |
 | Sun, 28 Dec 2025 11:06:24 GMT | How I Built a Malware Simulation to Understand Cyber Traps in the Real World!! | Shrimanth Tripathy | [Read More](https://medium.com/p/53ca5d51f0a9) |
-| Sun, 28 Dec 2025 11:01:15 GMT | Ethical Hacking Certification Guide | Manisha Chaudhary | [Read More](https://medium.com/p/530e1bcfd4c7) |
-| Sun, 28 Dec 2025 10:58:41 GMT | Low Budget Patrolling Services Houston | Security Houston | [Read More](https://medium.com/p/c274caeb976b) |
-| Sun, 28 Dec 2025 10:57:22 GMT | When “Protecting Civilians” Becomes a Political Weapon | Malaysia Post | [Read More](https://medium.com/p/8bf44a90c604) |
-| Sun, 28 Dec 2025 10:57:03 GMT | Shopify Proxies: A Practical Guide for Monitoring, Testing, and Data Collection | BlockSphinx | [Read More](https://medium.com/p/7398800c5d61) |
-| Sun, 28 Dec 2025 10:56:36 GMT | OSINT4Fun: Advent of OSINT 2025 (Day 1 - Day 4) | David Varghese | [Read More](https://medium.com/p/0ef1675cee8a) |
-| Sun, 28 Dec 2025 10:53:06 GMT | Technology Learning for Kids | Shamsabi | [Read More](https://medium.com/p/b5e2a69268df) |
-| Sun, 28 Dec 2025 10:32:39 GMT | RFC 1918 Explained: Why Private IP Addresses Are Everywhere in Modern Networks | Natarajan C K | [Read More](https://medium.com/p/9ac3a940db71) |
-| Sun, 28 Dec 2025 10:32:39 GMT | No internship, 4 months to graduate: my SOC prep plan | Nithishkumar R | [Read More](https://medium.com/p/8bb020fddc10) |
-| Sun, 28 Dec 2025 10:31:58 GMT | Do Random 100 Websites Have Authentication Security? | karincayiyen | [Read More](https://medium.com/p/0fe28c4190c1) |
