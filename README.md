@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 09:02:26 GMT | Stop Account Takeovers Before They Happen: Catch Leaked Logins Early (In Plain English) | Alexandre Vandamme | [Read More](https://medium.com/p/0e50ebc4f983) |
+| Sun, 28 Dec 2025 09:01:18 GMT | Cybersecurity Services for Complete Digital Protection | zynextro | [Read More](https://medium.com/p/f02c99bd8e73) |
+| Sun, 28 Dec 2025 09:00:16 GMT | Techniques to persist and retrieve client_id in Spring Security’s RequestCache during OAuth… | Anh Trần Tuấn | [Read More](https://medium.com/p/df7f87c47deb) |
+| Sun, 28 Dec 2025 08:58:58 GMT | Bilkul bhai 
+Neeche FINAL version de raha hoon — copy-paste ready,
+Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a93bf836cb6) |
+| Sun, 28 Dec 2025 08:55:29 GMT | The Dark Side of Bug Bounty - Truth Behind the Screenshots | Rajankumarbarik | [Read More](https://medium.com/p/f08cb71734ba) |
 | Sun, 28 Dec 2025 08:41:56 GMT | Remote code execution via web shell upload | Muhammad Zain | [Read More](https://medium.com/p/d75b55d4601b) |
 | Sun, 28 Dec 2025 08:33:59 GMT | How I Got a CyberSecurity Internship at Airtel | ikaris | [Read More](https://medium.com/p/e075a80ff74e) |
 | Sun, 28 Dec 2025 08:32:53 GMT | Beyond the Filter: How to Build Your Child’s “Human Firewall” ️ | Cyber-Savvy Community | [Read More](https://medium.com/p/5794da3f278f) |
@@ -109,8 +116,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sat, 27 Dec 2025 21:56:24 GMT | Loss of Intent as a Failure Mode in OWASPs Agentic AI Risks (2026) | Parminder Singh | [Read More](https://medium.com/p/135a9053a595) |
 | Sat, 27 Dec 2025 21:51:29 GMT | Are You Ready for the 2026 OT Cyber Compliance Wave? | Muhammad Ali Khan | [Read More](https://medium.com/p/ddd0f05c092e) |
 | Sat, 27 Dec 2025 21:35:13 GMT | DevSecOps in the Age of LLMs: You’re Not Secure Just Because You Have AI | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/33495f28d76d) |
-| Sat, 27 Dec 2025 21:19:47 GMT | How I Bypassed App PIN Lock and Root Detection Using Hooking | Raj Prasad Kuiri | [Read More](https://medium.com/p/15c5294df50c) |
-| Sat, 27 Dec 2025 21:19:30 GMT | ICS/Modbus — Claus for Concern Advent of Cyber Tryhackme Writeup | Mainekhacker | [Read More](https://medium.com/p/53c8f9a041dd) |
-| Sat, 27 Dec 2025 21:19:14 GMT | How a QR Code Cyberattack Crippled a Small Business in 2025 | Noel | [Read More](https://medium.com/p/1804c1d3adf6) |
-| Sat, 27 Dec 2025 21:17:46 GMT | Cybersecurity in 2026 - Simple Guide for Staying Safe | CyberSecurity | [Read More](https://medium.com/p/2b1aae065f0c) |
-| Sat, 27 Dec 2025 21:06:40 GMT | How I Found a Critical RCE Flaw in a Popular JS Sandbox | Codi | [Read More](https://medium.com/p/8dd924325c6e) |
