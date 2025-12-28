@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 01:44:26 GMT | Finding My First P3 Bug at NASA in My First Week of Bug Hunting | Sai Jayanth | [Read More](https://medium.com/p/00e60a2ed4fd) |
+| Sun, 28 Dec 2025 01:28:51 GMT | Why We Tell Strangers What We Hide From Friends | Bella Smith ⭐ | [Read More](https://medium.com/p/8bddd15522ca) |
+| Sun, 28 Dec 2025 01:09:56 GMT | MITRE ATT&CK | Asgar Mammadov | [Read More](https://medium.com/p/f61a876508b3) |
+| Sun, 28 Dec 2025 01:01:59 GMT | PicoCTF Writeup — Operation Orchid | flix | [Read More](https://medium.com/p/c389cd3a76fd) |
+| Sun, 28 Dec 2025 01:01:26 GMT | PicoCTF Writeup — Sleuthkit Apprentice | flix | [Read More](https://medium.com/p/da5c48c60e6e) |
+| Sun, 28 Dec 2025 00:35:06 GMT | Love, Unscheduled | AO Rhodes | [Read More](https://medium.com/p/9b09f6ea464a) |
+| Sun, 28 Dec 2025 00:28:48 GMT | “Two Steps Ahead of Hackers: The Power of 2FA” | Mike McGowan | [Read More](https://medium.com/p/2a674d14516b) |
+| Sun, 28 Dec 2025 00:02:42 GMT | Ransomware: The Hidden Danger of Cyber Extortion and How to Defend Against It | Negro Med | [Read More](https://medium.com/p/fd5105a6a4ba) |
+| Sat, 27 Dec 2025 23:57:59 GMT | TryHackMe SOC Level 1: Wireshark Traffic Analysis & HTTPS Decryption Walkthrough(Task 8–9–10–11) | Eren Ergen | [Read More](https://medium.com/p/2f61549323c1) |
+| Sat, 27 Dec 2025 23:57:58 GMT | Completion | Seth J | [Read More](https://medium.com/p/03e38ed0bae0) |
+| Sat, 27 Dec 2025 23:55:34 GMT | Voyager: la expedición que no debía volver | Un Pedacito de Conocimiento | [Read More](https://medium.com/p/0204b0627c02) |
+| Sat, 27 Dec 2025 23:52:46 GMT | The Cost of a Bug When the Data Is Permanent | Tyreek Haynes | [Read More](https://medium.com/p/7df0ea2ab55c) |
+| Sat, 27 Dec 2025 23:51:36 GMT | YesWeHack Dojo 46: Ghost Whisper Challenge Solution | Rawansaeed | [Read More](https://medium.com/p/cb5e592f378b) |
+| Sat, 27 Dec 2025 23:47:28 GMT | Looking Back on 2025: The Milestones That Defined a Year of Intentional Growth | Stan4Chainz | [Read More](https://medium.com/p/f7c3608451c5) |
+| Sat, 27 Dec 2025 23:43:01 GMT | I Took 9 Days off from Writing and Here’s What it Taught Me | Vanshika Choudhary | [Read More](https://medium.com/p/dc434cc48092) |
+| Sat, 27 Dec 2025 23:42:12 GMT | TryHackMe Walkthrough — Startup | Rootseekerx0x | [Read More](https://medium.com/p/f97a69960d49) |
+| Sat, 27 Dec 2025 23:39:18 GMT | AI-Generated Deepfake Scandals You Didn’t Hear About | ThinkSimple | [Read More](https://medium.com/p/9b57553a0104) |
+| Sat, 27 Dec 2025 23:39:11 GMT | How I’m Securing My Digital Footprint in 2026 (And How You Can Too) | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/59f92f7a98a0) |
 | Sat, 27 Dec 2025 23:03:05 GMT | Hack Smarter AD Challenge Lab: Arasaka | Milos Skalusevic | [Read More](https://medium.com/p/04c156abe434) |
 | Sat, 27 Dec 2025 22:57:35 GMT | Performing CSRF Exploits over GraphQL APIs | Bash Overflow | [Read More](https://medium.com/p/945764a0160b) |
 | Sat, 27 Dec 2025 22:52:22 GMT | MongoBleed (CVE‑2025‑14847): A Pre‑Auth MongoDB Memory Leak You Can Hunt at Scale | Black1hp | [Read More](https://medium.com/p/c8faa00f2bdd) |
@@ -94,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 15:39:46 GMT | Weekend special Episode 5: A Glitch in Paris. | Shobha Pai | [Read More](https://medium.com/p/3726d96187f6) |
 | Sat, 27 Dec 2025 15:35:18 GMT | When “Sign in with Google” Signed Me Into Someone Else’s Account | Sabna | [Read More](https://medium.com/p/cb29134328f3) |
 | Sat, 27 Dec 2025 15:32:22 GMT | History Leading to the TCP/IP Model | azrecon_ | [Read More](https://medium.com/p/157e06ac50d0) |
-| Sat, 27 Dec 2025 15:20:21 GMT | Ransomware Remediation: An Incident Response and Detection Engineer’s Perspective | David O'Neill | [Read More](https://medium.com/p/7b1debe81753) |
-| Sat, 27 Dec 2025 15:16:54 GMT | 46元引爆的資安核彈：解密遠通電收 ETC 釣魚郵件背後的「隱形殺手鍊」與防禦死角 | p1x06u9 | [Read More](https://medium.com/p/7675e38aea32) |
-| Sat, 27 Dec 2025 15:15:04 GMT | Strong Random Password Generator - Password Generator - Wordpress Password Generator | Sandeep Sharma | [Read More](https://medium.com/p/0f0c3d68940c) |
-| Sat, 27 Dec 2025 15:14:24 GMT | What Hacking Does To A Human Being | Calvaryhasarrived | [Read More](https://medium.com/p/5e0d4f28fd3b) |
-| Sat, 27 Dec 2025 15:13:58 GMT | Fuzz Testing Smart Contracts with Echidna: A Practical Guide to Finding Vulnerabilities | Régis | [Read More](https://medium.com/p/e98bb8da1408) |
-| Sat, 27 Dec 2025 15:06:01 GMT | Why FAIR Framework Fails for AI | Nate Gibson | [Read More](https://medium.com/p/46e4a003ba5f) |
-| Sat, 27 Dec 2025 15:03:25 GMT | Biohacking for Bug Hunters: Improving Productivity | Afi0pchik | [Read More](https://medium.com/p/82eb841ee125) |
-| Sat, 27 Dec 2025 15:02:36 GMT | My $0 Path to SOC Analyst: The Day I Started Learning Splunk (Week 3) | Ayush Kumbhar | [Read More](https://medium.com/p/b0c9d99efab8) |
-| Sat, 27 Dec 2025 15:02:26 GMT | The New Collapse of Consumer Computing: Centralization, AI, and the Emerging GRC Crisis | Brian Haman, PhD | [Read More](https://medium.com/p/992fecd14356) |
-| Sat, 27 Dec 2025 15:01:34 GMT | Breaking the Team: A Deep Dive into Multi-Stage Linux Exploitation | Justin Jude Cabodil | [Read More](https://medium.com/p/bd53b681c40c) |
-| Sat, 27 Dec 2025 14:57:33 GMT | How a Cyber Security Course in Kochi Helps You Understand Ethical Hacking | Anaynams | [Read More](https://medium.com/p/d6617d0ddcdd) |
-| Sat, 27 Dec 2025 14:56:36 GMT | Day 0 — Starting My SOC Analyst Journey | Faizan Nazir | [Read More](https://medium.com/p/54b4178b63ac) |
-| Sat, 27 Dec 2025 14:56:01 GMT | Building a Cryptographic Dead Man’s Switch with Next.js and Cloudflare Workers | Teycir | [Read More](https://medium.com/p/34f1f6400218) |
-| Sat, 27 Dec 2025 14:52:21 GMT | ❌ Never click on unknown or suspicious links
-❌ Don’t trust “Free Offer” messages in your Facebook… | Ethical Hacker | [Read More](https://medium.com/p/9f06c11fe999) |
-| Sat, 27 Dec 2025 14:51:34 GMT | “Bug Bounty Bootcamp #7: Deconstructing Websites — How the Client-Server Conversation Creates Your… | Aman Sharma | [Read More](https://medium.com/p/6c7f45f1ae00) |
-| Sat, 27 Dec 2025 14:50:41 GMT | Mastering Active Directory: A Complete Guide to Common Attributes | Abduhalim Beknazarov | [Read More](https://medium.com/p/042a35cbbd72) |
-| Sat, 27 Dec 2025 14:47:12 GMT | How to hire Ethical Hacker | Polina Maranovic | [Read More](https://medium.com/p/fda94a1cc76f) |
-| Sat, 27 Dec 2025 14:35:10 GMT | IPC using the Windows Clipboard | S12 - 0x12Dark Development | [Read More](https://medium.com/p/4d9359859534) |
