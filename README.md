@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 15:19:40 GMT | Bypassing Windows Defender during Christmas 2025: Shellcode loader with Alternate Data Stream | thoms | [Read More](https://medium.com/p/be8a0b36bd72) |
+| Sun, 28 Dec 2025 15:18:08 GMT | Scanning for Web Vulnerabilities with Nikto: A Hands-On Lab Experience | Edwin Atali | [Read More](https://medium.com/p/1a16235dd046) |
+| Sun, 28 Dec 2025 15:07:34 GMT | The Dark Side of Working in a SOC: A Day in My Life as a SOC Analyst | NineTales | [Read More](https://medium.com/p/658e2c386e3d) |
+| Sun, 28 Dec 2025 14:59:55 GMT | Wireless Security: The Invisible Battlefield in Your Pocket | Satyam Singh | [Read More](https://medium.com/p/12f14313447e) |
+| Sun, 28 Dec 2025 14:53:28 GMT | Why Database TLS Matters When Your Server and Database Are Separated | YRAV | [Read More](https://medium.com/p/5b8c8c45ef69) |
 | Sun, 28 Dec 2025 14:37:23 GMT | SentryPC Features Explained: Unlocking Full Monitoring & Screen Time Control for Parents… | Paul Meyer | [Read More](https://medium.com/p/767b6b97d085) |
+| Sun, 28 Dec 2025 14:35:20 GMT | Bandit Level 6 → 7: Stop Searching, Start Finding | Sivanesan M | [Read More](https://medium.com/p/5a764923c0f1) |
 | Sun, 28 Dec 2025 14:26:05 GMT | Dhananjay is the owner and creator of CyberWiseHub, a digital platform focused on ethical hacking… | Dhananjay Singh Netam | [Read More](https://medium.com/p/705ff5db17c0) |
 | Sun, 28 Dec 2025 14:19:49 GMT | A Smart and Cost-Effective Approach to Modern Surveillance Systems | Tavan CCTV | [Read More](https://medium.com/p/4303dd68b180) |
 | Sun, 28 Dec 2025 14:15:39 GMT | Featured Chrome Extensions Are Reading Your AI Chats Before You See Them (10 Mins Fix) | Mohamed Bakry | [Read More](https://medium.com/p/1762c2a31061) |
@@ -109,10 +115,3 @@ Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a9
 | Sun, 28 Dec 2025 07:20:50 GMT | Analyzing a LinkedIn Phishing Attempt | CyberSum | [Read More](https://medium.com/p/5c71d9cf86df) |
 | Sun, 28 Dec 2025 07:15:43 GMT | [LetsDefend Write-up] AS-REP Challenge | Chicken0248 | [Read More](https://medium.com/p/9cc923f7b80e) |
 | Sun, 28 Dec 2025 07:12:51 GMT | [LetsDefend Write-up]Golden Ticket | Chicken0248 | [Read More](https://medium.com/p/f082971a17ce) |
-| Sun, 28 Dec 2025 07:09:35 GMT | One Misplaced Header, Thousands of Leaked Sessions: A Bug Bounty Story | Iski | [Read More](https://medium.com/p/9cc0ee4b3e38) |
-| Sun, 28 Dec 2025 07:07:00 GMT | No platform fluff, no hidden formatting. | Balasubramaniam GD | [Read More](https://medium.com/p/480721fc20bd) |
-| Sun, 28 Dec 2025 07:05:53 GMT | Is IRSA Obsolete? EKS Pod Identity Quietly Rewrote IAM for Kubernetes | Sanath Waghela | [Read More](https://medium.com/p/9cf686567ad0) |
-| Sun, 28 Dec 2025 07:04:05 GMT | The Art of Tracking Without a Trace: Mastering Passive Information Gathering in Penetration Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/e7a16e164592) |
-| Sun, 28 Dec 2025 06:59:42 GMT | “Why Cybersecurity Training Without Real Incidents Is a Waste of Time”
-Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/834670449266) |
-| Sun, 28 Dec 2025 06:59:29 GMT | Basic Cyber Security: Digital Threats Are Closer Than We Think | Siti Azizah | [Read More](https://medium.com/p/b9e4e7aa3660) |
