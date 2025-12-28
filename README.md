@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 13:15:00 GMT | LLM Poisoning: When AI Learns the Wrong Lessons | LifeInDrafts | [Read More](https://medium.com/p/3958dc961d7f) |
+| Sun, 28 Dec 2025 13:09:38 GMT | Turkey’s Transformation in NATO Relations: A New Era Begins | Ebru | [Read More](https://medium.com/p/5a29f23b7943) |
+| Sun, 28 Dec 2025 13:05:11 GMT | Free Web Encryption: 10 Years of Let’s Encrypt | Can Artuc | [Read More](https://medium.com/p/e93a13c63f3b) |
+| Sun, 28 Dec 2025 13:00:30 GMT | TLS vs End-to-End API Encryption: How It Works, Why, and When It Matters | Afolabi Paul | [Read More](https://medium.com/p/47b864ed6c8d) |
+| Sun, 28 Dec 2025 12:58:32 GMT | Ring Indoor Cam Plus — Honest Review | Mohamed Hossam | [Read More](https://medium.com/p/383cb5b08dec) |
+| Sun, 28 Dec 2025 12:44:09 GMT | Noël, un Flipper Zero et un robot piraté : replay attack en 30 secondes | RAPATT | [Read More](https://medium.com/p/5642b9c4d5a4) |
 | Sun, 28 Dec 2025 12:35:06 GMT | Web Uygulama Güvenliği: Bir Seçenek Değil, Zorunluluk | Nazlı Şam | [Read More](https://medium.com/p/32b6ed46ad76) |
 | Sun, 28 Dec 2025 12:31:20 GMT | The Zoo
  Inside the Malware Archive Built for Defenders | ghostyjoe | [Read More](https://medium.com/p/0048cc7a81bd) |
@@ -46,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 10:15:40 GMT | Cross-Site Scripting (XSS) - Vulnerability | AJ GUIN | [Read More](https://medium.com/p/ba11a5e6fcdb) |
 | Sun, 28 Dec 2025 10:15:10 GMT | Cybersecurity Risk Analysis | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/ac9c9e3f8162) |
 | Sun, 28 Dec 2025 10:14:07 GMT | Cybersecurity Trends and Threats in 2026 | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/897ca4171e43) |
+| Sun, 28 Dec 2025 10:05:55 GMT | SecPlayground — BloodyXmas 2025 CTF Write-up [Web Application Secuirty] by dekcart_i | d3kc4rt_1 | [Read More](https://medium.com/p/b7665750686f) |
 | Sun, 28 Dec 2025 10:05:07 GMT | Best Facebook Proxies for 2026: Types, Use Cases, and a Safer Selection Checklist | CryptoTether | [Read More](https://medium.com/p/8d608b009bfa) |
 | Sun, 28 Dec 2025 10:02:27 GMT | Nigeria Can Bomb Abroad but Cannot Protect Its Own People | Chizindu Morris | [Read More](https://medium.com/p/90c262fd7ec1) |
 | Sun, 28 Dec 2025 09:45:37 GMT | Kafka | Supriti | [Read More](https://medium.com/p/b91d1709a05b) |
@@ -109,11 +116,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sun, 28 Dec 2025 05:43:10 GMT | Review CMPen — Android | B13ss3d | [Read More](https://medium.com/p/3f89bcae168a) |
 | Sun, 28 Dec 2025 05:39:27 GMT | Otomobil ve Elektrikli Araçlar Hacklenebilir mi? | Mustafa YILMAZ | [Read More](https://medium.com/p/1b2bf80d4d1d) |
 | Sun, 28 Dec 2025 05:35:34 GMT | Understanding Ransomware Protection and Its Components | Digital Duffer | [Read More](https://medium.com/p/fdebddb1b113) |
-| Sun, 28 Dec 2025 05:34:40 GMT | Best Ransomware Protection | Digital Duffer | [Read More](https://medium.com/p/cbf4a4e9e229) |
-| Sun, 28 Dec 2025 05:31:35 GMT | GPU is the New Kernel: Modern Android Exploit Chains and Defensive Hardening | Andreas | [Read More](https://medium.com/p/90d342697b82) |
-| Sun, 28 Dec 2025 05:17:37 GMT | The Rise of Ransomware: Prevention and Response Strategies | Syed Khuzema Ali | [Read More](https://medium.com/p/6ab74e189f83) |
-| Sun, 28 Dec 2025 04:56:45 GMT | Why Zero Trust Networking Is Killing API Keys | Cloud Shark | [Read More](https://medium.com/p/ad4e485023ad) |
-| Sun, 28 Dec 2025 04:48:15 GMT | Most Security Breaches Aren’t Hacks — They’re Architecture Decisions | Fortune Linus | [Read More](https://medium.com/p/3dc48da11ab5) |
-| Sun, 28 Dec 2025 04:44:34 GMT | مكتب المحامي الشرعي أحمد عوض الجراح
-تمثيل قانوني شرعي ثابت في الأردن (عمان – إربد – الزرقاء)، بخبرة… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://medium.com/p/adc1bbf7e2f1) |
-| Sun, 28 Dec 2025 04:43:34 GMT | Unlocking the Power of Netdiscover: Advanced Recon Techniques for Pentesters | Cybeague Technologies | [Read More](https://medium.com/p/f02dd76b84ca) |
