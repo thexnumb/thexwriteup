@@ -12,10 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 07:09:35 GMT | One Misplaced Header, Thousands of Leaked Sessions: A Bug Bounty Story | Iski | [Read More](https://medium.com/p/9cc0ee4b3e38) |
+| Sun, 28 Dec 2025 07:05:53 GMT | Is IRSA Obsolete? EKS Pod Identity Quietly Rewrote IAM for Kubernetes | Sanath Waghela | [Read More](https://medium.com/p/9cf686567ad0) |
+| Sun, 28 Dec 2025 07:04:05 GMT | The Art of Tracking Without a Trace: Mastering Passive Information Gathering in Penetration Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/e7a16e164592) |
+| Sun, 28 Dec 2025 06:59:42 GMT | “Why Cybersecurity Training Without Real Incidents Is a Waste of Time”
+Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/834670449266) |
+| Sun, 28 Dec 2025 06:59:29 GMT | Basic Cyber Security: Digital Threats Are Closer Than We Think | Siti Azizah | [Read More](https://medium.com/p/b9e4e7aa3660) |
+| Sun, 28 Dec 2025 06:53:32 GMT | Perfect Bug Report Toolkit: 10 Templates for Fast Triages Every Hacker Needs | Very Lazy Tech | [Read More](https://medium.com/p/30e0dc1b4e7f) |
+| Sun, 28 Dec 2025 06:53:22 GMT | A Phased Roadmap for Implementing Cyber Insurance in Iran | Armin Mehraeen | [Read More](https://medium.com/p/bc82d2dfcd39) |
+| Sun, 28 Dec 2025 06:40:34 GMT | List of top-rated books recommended by ethical hacking experts in 2026 | cyber security Updates | [Read More](https://medium.com/p/4583444d6858) |
+| Sun, 28 Dec 2025 06:25:42 GMT | From Monitoring to Intelligence: The Role of AI in Preventing Industrial Accidents | Dolon Ghosh | [Read More](https://medium.com/p/6361f2edae13) |
 | Sun, 28 Dec 2025 06:23:00 GMT | From “Website Not Accessible” to Critical Error-Based SQLi | Chos3n(haris) | [Read More](https://medium.com/p/483cda463a10) |
 | Sun, 28 Dec 2025 06:20:47 GMT | Linux PrivEsc: Stop Looking for Kernel Exploits and Check Your Permissions | Amrit Sinha | [Read More](https://medium.com/p/dcbdc0df236e) |
 | Sun, 28 Dec 2025 05:46:27 GMT | Abuse of Trusted Cloud Infrastructure in a DocuSign Impersonation Campaign | CipherX9F Security | [Read More](https://medium.com/p/0bfe61838a0a) |
 | Sun, 28 Dec 2025 05:43:10 GMT | Review CMPen — Android | B13ss3d | [Read More](https://medium.com/p/3f89bcae168a) |
+| Sun, 28 Dec 2025 05:39:27 GMT | Otomobil ve Elektrikli Araçlar Hacklenebilir mi? | Mustafa YILMAZ | [Read More](https://medium.com/p/1b2bf80d4d1d) |
 | Sun, 28 Dec 2025 05:35:34 GMT | Understanding Ransomware Protection and Its Components | Digital Duffer | [Read More](https://medium.com/p/fdebddb1b113) |
 | Sun, 28 Dec 2025 05:34:40 GMT | Best Ransomware Protection | Digital Duffer | [Read More](https://medium.com/p/cbf4a4e9e229) |
 | Sun, 28 Dec 2025 05:31:35 GMT | GPU is the New Kernel: Modern Android Exploit Chains and Defensive Hardening | Andreas | [Read More](https://medium.com/p/90d342697b82) |
@@ -103,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 18:47:38 GMT | AD Hardening : AD CS (ESC1) Zafiyetini Kapatma | HİLAL ŞAHİN | [Read More](https://medium.com/p/6d9f789c75d1) |
 | Sat, 27 Dec 2025 18:42:07 GMT | Vademecum —Diffie-Hellman | Stefano Bassetto | [Read More](https://medium.com/p/a24a254e471e) |
 | Sat, 27 Dec 2025 18:03:54 GMT | 5 NDR Challenges You Need to Solve Before 2026 | NetWitness | [Read More](https://medium.com/p/8709f53be8c8) |
-| Sat, 27 Dec 2025 17:42:19 GMT | Monitoring Website Content with Playwright and Nagios | Firat Gulec | [Read More](https://medium.com/p/4842075a1f96) |
-| Sat, 27 Dec 2025 17:41:43 GMT | Keycloak + Spring: Um guia prático para proteger suas APIs | Ronyeri Marinho | [Read More](https://medium.com/p/f8bb3c991bb1) |
-| Sat, 27 Dec 2025 17:40:28 GMT | FFUF - I got information disclosure using ffuf tool | Rahul | [Read More](https://medium.com/p/25aa2d647e12) |
-| Sat, 27 Dec 2025 17:35:57 GMT | TryHackme Skynet Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/3b8599bcc1bb) |
-| Sat, 27 Dec 2025 17:34:14 GMT | TryHackMe - MD2PDF Writeup | 7s26Simon | [Read More](https://medium.com/p/1f9342e0b042) |
-| Sat, 27 Dec 2025 17:34:10 GMT | CloudSEK CTF Writeup | Aryan Sharma | [Read More](https://medium.com/p/cfdaf6462b99) |
-| Sat, 27 Dec 2025 17:24:32 GMT | Why Retries Create More Bugs Than They Fix (Spring Boot Reality Check) | CodeTalks | [Read More](https://medium.com/p/73fb3496bdb6) |
-| Sat, 27 Dec 2025 17:07:55 GMT | How to Test Network Connectivity in Linux - Beginner Guide | Shahzaib | [Read More](https://medium.com/p/34d2d57bf502) |
-| Sat, 27 Dec 2025 17:07:16 GMT | Transfer files from a Local Host to a Private VM in OCI VCN using Bastion Port Forwarding | Hasnain Electricwala | [Read More](https://medium.com/p/0e24f9cdcf01) |
-| Sat, 27 Dec 2025 16:59:59 GMT | 信任的代價：你的 LINE 安裝檔，可能是駭客的後門 | p1x06u9 | [Read More](https://medium.com/p/0d4de2066b41) |
