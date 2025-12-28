@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 17:12:28 GMT | Agentic AI Threats Push Businesses To Strengthen Managed IT Services in Springfield, MO | PCnet | [Read More](https://medium.com/p/e0f747ff4cf5) |
+| Sun, 28 Dec 2025 17:05:56 GMT | Info Disclosure Bugs: Bug Bounty Beginner Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/36e3ea47f317) |
+| Sun, 28 Dec 2025 17:04:26 GMT | “Passive Information Gathering: The Art of Gathering Information Without Touching the Target… | Habibi | [Read More](https://medium.com/p/770a109c5b19) |
+| Sun, 28 Dec 2025 17:03:50 GMT | Try Hack Me- Source Walkthrough | PulseEinher | [Read More](https://medium.com/p/605772942e31) |
+| Sun, 28 Dec 2025 17:03:40 GMT | Moonwines and the Secret Conversations of the Internet | Moonwines | [Read More](https://medium.com/p/c7e6e5bae2cc) |
+| Sun, 28 Dec 2025 16:50:31 GMT | “Passive Information Gathering: The Art of Gathering Information Without Touching the Target… | Habibi Sinar | [Read More](https://medium.com/p/a6763d90b5db) |
 | Sun, 28 Dec 2025 16:42:18 GMT | Day 146 — Behemoth Level-3 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/d83b945138c5) |
 | Sun, 28 Dec 2025 16:38:34 GMT | Forest Guards and the Perils of Ungoverned Power | Ojudubabafemi | [Read More](https://medium.com/p/531710eb9809) |
 | Sun, 28 Dec 2025 16:35:16 GMT | When Courage Whispers | Hatomi | [Read More](https://medium.com/p/01b9e2f49712) |
@@ -109,9 +115,3 @@ Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a9
 | Sun, 28 Dec 2025 08:32:53 GMT | Beyond the Filter: How to Build Your Child’s “Human Firewall” ️ | Cyber-Savvy Community | [Read More](https://medium.com/p/5794da3f278f) |
 | Sun, 28 Dec 2025 08:32:13 GMT | Fiber Optic Load Balancing | Sachit Joe Almeida | [Read More](https://medium.com/p/3588effc709e) |
 | Sun, 28 Dec 2025 08:31:24 GMT | Security Is Too Expensive? Here’s the Math That Proves Otherwise | CybeCloud | [Read More](https://medium.com/p/8744d62b9020) |
-| Sun, 28 Dec 2025 08:29:41 GMT | Network Hacking Dari Nol #1 | Levithan | [Read More](https://medium.com/p/a4af2efc9b56) |
-| Sun, 28 Dec 2025 08:29:02 GMT | The Illusion of Client-Side Security | Pwnr | [Read More](https://medium.com/p/ceaf7b4dc3e5) |
-| Sun, 28 Dec 2025 08:28:43 GMT | How I’d Rebuild My SOC Career from Zero in the AI Era | Denny Roger | [Read More](https://medium.com/p/ce3e57fd8b93) |
-| Sun, 28 Dec 2025 08:23:37 GMT | Setting Up OpenEDR with ELK Integration | Panagiotis Fiskilis | [Read More](https://medium.com/p/feeffa1e891b) |
-| Sun, 28 Dec 2025 08:20:09 GMT | React2Shell (CVE-2025–55182) Security Alert: Critical RCE in React and Next.js | Ankit | [Read More](https://medium.com/p/ef006356376e) |
-| Sun, 28 Dec 2025 08:13:44 GMT | Subzy Tool | bangfusk | [Read More](https://medium.com/p/c6f762bcbfb3) |
