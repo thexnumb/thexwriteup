@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 06:23:00 GMT | From “Website Not Accessible” to Critical Error-Based SQLi | Chos3n(haris) | [Read More](https://medium.com/p/483cda463a10) |
+| Sun, 28 Dec 2025 06:20:47 GMT | Linux PrivEsc: Stop Looking for Kernel Exploits and Check Your Permissions | Amrit Sinha | [Read More](https://medium.com/p/dcbdc0df236e) |
+| Sun, 28 Dec 2025 05:46:27 GMT | Abuse of Trusted Cloud Infrastructure in a DocuSign Impersonation Campaign | CipherX9F Security | [Read More](https://medium.com/p/0bfe61838a0a) |
+| Sun, 28 Dec 2025 05:43:10 GMT | Review CMPen — Android | B13ss3d | [Read More](https://medium.com/p/3f89bcae168a) |
 | Sun, 28 Dec 2025 05:35:34 GMT | Understanding Ransomware Protection and Its Components | Digital Duffer | [Read More](https://medium.com/p/fdebddb1b113) |
 | Sun, 28 Dec 2025 05:34:40 GMT | Best Ransomware Protection | Digital Duffer | [Read More](https://medium.com/p/cbf4a4e9e229) |
 | Sun, 28 Dec 2025 05:31:35 GMT | GPU is the New Kernel: Modern Android Exploit Chains and Defensive Hardening | Andreas | [Read More](https://medium.com/p/90d342697b82) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 17:07:55 GMT | How to Test Network Connectivity in Linux - Beginner Guide | Shahzaib | [Read More](https://medium.com/p/34d2d57bf502) |
 | Sat, 27 Dec 2025 17:07:16 GMT | Transfer files from a Local Host to a Private VM in OCI VCN using Bastion Port Forwarding | Hasnain Electricwala | [Read More](https://medium.com/p/0e24f9cdcf01) |
 | Sat, 27 Dec 2025 16:59:59 GMT | 信任的代價：你的 LINE 安裝檔，可能是駭客的後門 | p1x06u9 | [Read More](https://medium.com/p/0d4de2066b41) |
-| Sat, 27 Dec 2025 16:59:46 GMT | Trust Wallet Chrome Extension Breach: A Supply Chain Failure That Drained Millions and Redefined… | Chetan Seripally | [Read More](https://medium.com/p/0a80ed60933b) |
-| Sat, 27 Dec 2025 16:48:17 GMT | Introducing: Ξμν — the Informational Curvature Tensor | Ernesto Eduardo Dobarganes | [Read More](https://medium.com/p/cc56ed6102e0) |
-| Sat, 27 Dec 2025 16:47:18 GMT | Try Hack Me- Smag Grotto Walkthrough | PulseEinher | [Read More](https://medium.com/p/e69523e67317) |
-| Sat, 27 Dec 2025 16:41:07 GMT | Patch Management Explained: What It Is, Why It Matters, and Why IT Teams Struggle With It | SarathKumar | [Read More](https://medium.com/p/981c77b46df3) |
