@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 20:29:01 GMT | Understanding PII and Initial Discovery Techniques (Part 1/3) | Cybersecplayground | [Read More](https://medium.com/p/417cfac5b050) |
+| Sun, 28 Dec 2025 20:26:59 GMT | Your Phone’s OS Is a Data Policy. These Are the Alternatives. | BiyteLüm | [Read More](https://medium.com/p/412310014b1e) |
+| Sun, 28 Dec 2025 20:20:44 GMT | El costo oculto de la IA | Regina N. Molares | [Read More](https://medium.com/p/1e5881af1fd5) |
 | Sun, 28 Dec 2025 20:17:35 GMT | NMAP: The GOAT of Reconnaissance | Cybersensus | [Read More](https://medium.com/p/853222fd3000) |
 | Sun, 28 Dec 2025 19:59:51 GMT | When Should a Pre-Teen Get a Smartphone? Pros, Cons, and Guidelines | Edwin Odoyo | [Read More](https://medium.com/p/2f36d55f29ad) |
 | Sun, 28 Dec 2025 19:55:52 GMT | How to Access 404 files of any server | Muhammad Haider Tallal | [Read More](https://medium.com/p/1fa1dfeec028) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 11:18:39 GMT | Cyber Security Course | Molletibalu | [Read More](https://medium.com/p/143571a036a5) |
 | Sun, 28 Dec 2025 11:17:15 GMT | Women Who Sing Softly in a World That Forces Us to Harden | Franc.megan | [Read More](https://medium.com/p/3e13cb018313) |
 | Sun, 28 Dec 2025 11:09:07 GMT | Hack The Box: SolidState Walkthrough | Techie-stronaut | [Read More](https://medium.com/p/ecc6ca8a270c) |
-| Sun, 28 Dec 2025 11:07:32 GMT | Web Security Essentials: A Backend Developer’s Quick Guide | Alabi Temitope David | [Read More](https://medium.com/p/8ace9f071ed9) |
-| Sun, 28 Dec 2025 11:07:20 GMT | Why Security Architecture is Fundamentally a Graph Problem | Levente Simon | [Read More](https://medium.com/p/5f4b58307a3a) |
-| Sun, 28 Dec 2025 11:06:24 GMT | How I Built a Malware Simulation to Understand Cyber Traps in the Real World!! | Shrimanth Tripathy | [Read More](https://medium.com/p/53ca5d51f0a9) |
