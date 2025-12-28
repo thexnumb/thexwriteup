@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 08:41:56 GMT | Remote code execution via web shell upload | Muhammad Zain | [Read More](https://medium.com/p/d75b55d4601b) |
+| Sun, 28 Dec 2025 08:33:59 GMT | How I Got a CyberSecurity Internship at Airtel | ikaris | [Read More](https://medium.com/p/e075a80ff74e) |
+| Sun, 28 Dec 2025 08:32:53 GMT | Beyond the Filter: How to Build Your Child’s “Human Firewall” ️ | Cyber-Savvy Community | [Read More](https://medium.com/p/5794da3f278f) |
+| Sun, 28 Dec 2025 08:32:13 GMT | Fiber Optic Load Balancing | Sachit Joe Almeida | [Read More](https://medium.com/p/3588effc709e) |
+| Sun, 28 Dec 2025 08:31:24 GMT | Security Is Too Expensive? Here’s the Math That Proves Otherwise | CybeCloud | [Read More](https://medium.com/p/8744d62b9020) |
+| Sun, 28 Dec 2025 08:29:41 GMT | Network Hacking Dari Nol #1 | Levithan | [Read More](https://medium.com/p/a4af2efc9b56) |
 | Sun, 28 Dec 2025 08:29:02 GMT | The Illusion of Client-Side Security | Pwnr | [Read More](https://medium.com/p/ceaf7b4dc3e5) |
+| Sun, 28 Dec 2025 08:28:43 GMT | How I’d Rebuild My SOC Career from Zero in the AI Era | Denny Roger | [Read More](https://medium.com/p/ce3e57fd8b93) |
+| Sun, 28 Dec 2025 08:23:37 GMT | Setting Up OpenEDR with ELK Integration | Panagiotis Fiskilis | [Read More](https://medium.com/p/feeffa1e891b) |
 | Sun, 28 Dec 2025 08:20:09 GMT | React2Shell (CVE-2025–55182) Security Alert: Critical RCE in React and Next.js | Ankit | [Read More](https://medium.com/p/ef006356376e) |
 | Sun, 28 Dec 2025 08:12:36 GMT | Passkeys and the Quiet Erosion of Digital Sovereignty | Gayan Karunarathna | [Read More](https://medium.com/p/b4efd37f18d2) |
 | Sun, 28 Dec 2025 08:12:12 GMT | The QR Code Trap: How I Forced a Major Brand to Host My Phishing Links (And Why It Got Rejected) | Zer0Figure | [Read More](https://medium.com/p/47aa2d0c2991) |
@@ -106,11 +114,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sat, 27 Dec 2025 21:19:14 GMT | How a QR Code Cyberattack Crippled a Small Business in 2025 | Noel | [Read More](https://medium.com/p/1804c1d3adf6) |
 | Sat, 27 Dec 2025 21:17:46 GMT | Cybersecurity in 2026 - Simple Guide for Staying Safe | CyberSecurity | [Read More](https://medium.com/p/2b1aae065f0c) |
 | Sat, 27 Dec 2025 21:06:40 GMT | How I Found a Critical RCE Flaw in a Popular JS Sandbox | Codi | [Read More](https://medium.com/p/8dd924325c6e) |
-| Sat, 27 Dec 2025 21:05:15 GMT | The Reconnaissance Masterclass: Advanced Information Gathering for Modern Cybersecurity | N0aziXss | [Read More](https://medium.com/p/a310eeda53bb) |
-| Sat, 27 Dec 2025 21:04:13 GMT | Securing and Hardening an Enterprise Branch Office Network | Iheanyichukwu Onyebuchi Okoronkwo | [Read More](https://medium.com/p/327f93c9f9e4) |
-| Sat, 27 Dec 2025 21:03:21 GMT | PROTOCOLO DURANTE v4.1: The End of Algorithmic Anarchy | Gonzalo Emir | [Read More](https://medium.com/p/b19cf749d828) |
-| Sat, 27 Dec 2025 20:45:30 GMT | The Hidden Attack Surface in AI Coding Assistants: What Security Teams Are Missing | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/11f0c62b1a46) |
-| Sat, 27 Dec 2025 20:43:51 GMT | Integration wazuh & fortigae | Yasmine kechid | [Read More](https://medium.com/p/bb20e41bc587) |
-| Sat, 27 Dec 2025 20:39:08 GMT | Hack The Box — PhishNet | Harjot Singh | [Read More](https://medium.com/p/674fb686fa68) |
-| Sat, 27 Dec 2025 20:31:36 GMT | Stop Changing Your Passwords Every 90 Days. Do This Instead. | Mohanad Khaled | [Read More](https://medium.com/p/ad24fc4af52e) |
-| Sat, 27 Dec 2025 20:22:18 GMT | User & Access Control Hardening | bradOSv1 | [Read More](https://medium.com/p/af8a9a8701ff) |
