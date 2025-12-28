@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 05:35:34 GMT | Understanding Ransomware Protection and Its Components | Digital Duffer | [Read More](https://medium.com/p/fdebddb1b113) |
+| Sun, 28 Dec 2025 05:34:40 GMT | Best Ransomware Protection | Digital Duffer | [Read More](https://medium.com/p/cbf4a4e9e229) |
+| Sun, 28 Dec 2025 05:31:35 GMT | GPU is the New Kernel: Modern Android Exploit Chains and Defensive Hardening | Andreas | [Read More](https://medium.com/p/90d342697b82) |
 | Sun, 28 Dec 2025 05:17:37 GMT | The Rise of Ransomware: Prevention and Response Strategies | Syed Khuzema Ali | [Read More](https://medium.com/p/6ab74e189f83) |
 | Sun, 28 Dec 2025 04:56:45 GMT | Why Zero Trust Networking Is Killing API Keys | Cloud Shark | [Read More](https://medium.com/p/ad4e485023ad) |
 | Sun, 28 Dec 2025 04:48:15 GMT | Most Security Breaches Aren’t Hacks — They’re Architecture Decisions | Fortune Linus | [Read More](https://medium.com/p/3dc48da11ab5) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 16:48:17 GMT | Introducing: Ξμν — the Informational Curvature Tensor | Ernesto Eduardo Dobarganes | [Read More](https://medium.com/p/cc56ed6102e0) |
 | Sat, 27 Dec 2025 16:47:18 GMT | Try Hack Me- Smag Grotto Walkthrough | PulseEinher | [Read More](https://medium.com/p/e69523e67317) |
 | Sat, 27 Dec 2025 16:41:07 GMT | Patch Management Explained: What It Is, Why It Matters, and Why IT Teams Struggle With It | SarathKumar | [Read More](https://medium.com/p/981c77b46df3) |
-| Sat, 27 Dec 2025 16:40:19 GMT | From Nobody to Admin: A Short, Practical Guide to Privilege Escalation .. | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/b6749f3ec9a7) |
-| Sat, 27 Dec 2025 16:34:31 GMT | Block — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/929c23df934c) |
-| Sat, 27 Dec 2025 16:31:33 GMT | Practical Identity Protection That Actually Works Today | Geoffrey Wenger | [Read More](https://medium.com/p/6cb4ab212156) |
