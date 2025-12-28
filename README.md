@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 05:17:37 GMT | The Rise of Ransomware: Prevention and Response Strategies | Syed Khuzema Ali | [Read More](https://medium.com/p/6ab74e189f83) |
+| Sun, 28 Dec 2025 04:56:45 GMT | Why Zero Trust Networking Is Killing API Keys | Cloud Shark | [Read More](https://medium.com/p/ad4e485023ad) |
+| Sun, 28 Dec 2025 04:48:15 GMT | Most Security Breaches Aren’t Hacks — They’re Architecture Decisions | Fortune Linus | [Read More](https://medium.com/p/3dc48da11ab5) |
+| Sun, 28 Dec 2025 04:44:34 GMT | مكتب المحامي الشرعي أحمد عوض الجراح
+تمثيل قانوني شرعي ثابت في الأردن (عمان – إربد – الزرقاء)، بخبرة… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://medium.com/p/adc1bbf7e2f1) |
 | Sun, 28 Dec 2025 04:43:34 GMT | Unlocking the Power of Netdiscover: Advanced Recon Techniques for Pentesters | Cybeague Technologies | [Read More](https://medium.com/p/f02dd76b84ca) |
 | Sun, 28 Dec 2025 04:42:41 GMT | Getting Started with Netdiscover: The Fast Lane to Network Scanning | Cybeague Technologies | [Read More](https://medium.com/p/485497965805) |
 | Sun, 28 Dec 2025 04:38:06 GMT | CEHv12: Evading IDS, Firewalls, and Honeypots (Practised) (Module 12) | Aditya Kumar | [Read More](https://medium.com/p/acfb8a820b9b) |
@@ -49,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 22:57:35 GMT | Performing CSRF Exploits over GraphQL APIs | Bash Overflow | [Read More](https://medium.com/p/945764a0160b) |
 | Sat, 27 Dec 2025 22:52:22 GMT | MongoBleed (CVE‑2025‑14847): A Pre‑Auth MongoDB Memory Leak You Can Hunt at Scale | Black1hp | [Read More](https://medium.com/p/c8faa00f2bdd) |
 | Sat, 27 Dec 2025 22:45:56 GMT | 2025: The Year Cybersecurity Lost the War Against Machines (And No One Noticed) | Michelle G Andrade | [Read More](https://medium.com/p/dc7459003f98) |
+| Sat, 27 Dec 2025 22:36:41 GMT | CodePartTwo HTB Walkthrough | Death Esther | [Read More](https://medium.com/p/000dcf2a261d) |
 | Sat, 27 Dec 2025 22:32:25 GMT | Windows Internals | TheNotorious | [Read More](https://medium.com/p/55b213061918) |
 | Sat, 27 Dec 2025 22:09:31 GMT | The Cloud Blind Spots That Keep Burning DFIR Teams | Elias Gray | [Read More](https://medium.com/p/7a702b872b36) |
 | Sat, 27 Dec 2025 22:08:55 GMT | Multi-step Automation for SOAR: An Automated Journey from Alert to Response | Esra Kayhan | [Read More](https://medium.com/p/37e1c409bf05) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 16:40:19 GMT | From Nobody to Admin: A Short, Practical Guide to Privilege Escalation .. | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/b6749f3ec9a7) |
 | Sat, 27 Dec 2025 16:34:31 GMT | Block — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/929c23df934c) |
 | Sat, 27 Dec 2025 16:31:33 GMT | Practical Identity Protection That Actually Works Today | Geoffrey Wenger | [Read More](https://medium.com/p/6cb4ab212156) |
-| Sat, 27 Dec 2025 16:31:29 GMT | Everyday Online Safety Without Becoming A Security Expert | Geoffrey Wenger | [Read More](https://medium.com/p/98b1ab9e26f0) |
-| Sat, 27 Dec 2025 16:27:31 GMT | Beyond the Click: Building and Analyzing a Phishing Simulation Lab in Kali Linux(VM) | Attah Sosah | [Read More](https://medium.com/p/af52916a7e64) |
-| Sat, 27 Dec 2025 16:27:14 GMT | What Happens After HTTPS? How Secure Connections Really work Work | Codeandcontext | [Read More](https://medium.com/p/6603609b7ed7) |
-| Sat, 27 Dec 2025 16:26:10 GMT | AI & LLM Security Explained Simply : Every Major Attack ⚠️ and How We Fix It ️ | Venkatkumar (VK) | [Read More](https://medium.com/p/be75cd91ac1b) |
-| Sat, 27 Dec 2025 16:21:00 GMT | Relevant — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/6fb78151619f) |
