@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 11:09:07 GMT | Hack The Box: SolidState Walkthrough | Techie-stronaut | [Read More](https://medium.com/p/ecc6ca8a270c) |
+| Sun, 28 Dec 2025 11:07:32 GMT | Web Security Essentials: A Backend Developer’s Quick Guide | Alabi Temitope David | [Read More](https://medium.com/p/8ace9f071ed9) |
+| Sun, 28 Dec 2025 11:07:20 GMT | Why Security Architecture is Fundamentally a Graph Problem | Levente Simon | [Read More](https://medium.com/p/5f4b58307a3a) |
+| Sun, 28 Dec 2025 11:06:24 GMT | How I Built a Malware Simulation to Understand Cyber Traps in the Real World!! | Shrimanth Tripathy | [Read More](https://medium.com/p/53ca5d51f0a9) |
+| Sun, 28 Dec 2025 11:01:15 GMT | Ethical Hacking Certification Guide | Manisha Chaudhary | [Read More](https://medium.com/p/530e1bcfd4c7) |
+| Sun, 28 Dec 2025 10:58:41 GMT | Low Budget Patrolling Services Houston | Security Houston | [Read More](https://medium.com/p/c274caeb976b) |
+| Sun, 28 Dec 2025 10:57:22 GMT | When “Protecting Civilians” Becomes a Political Weapon | Malaysia Post | [Read More](https://medium.com/p/8bf44a90c604) |
+| Sun, 28 Dec 2025 10:57:03 GMT | Shopify Proxies: A Practical Guide for Monitoring, Testing, and Data Collection | BlockSphinx | [Read More](https://medium.com/p/7398800c5d61) |
+| Sun, 28 Dec 2025 10:56:36 GMT | OSINT4Fun: Advent of OSINT 2025 (Day 1 - Day 4) | David Varghese | [Read More](https://medium.com/p/0ef1675cee8a) |
+| Sun, 28 Dec 2025 10:53:06 GMT | Technology Learning for Kids | Shamsabi | [Read More](https://medium.com/p/b5e2a69268df) |
 | Sun, 28 Dec 2025 10:32:39 GMT | RFC 1918 Explained: Why Private IP Addresses Are Everywhere in Modern Networks | Natarajan C K | [Read More](https://medium.com/p/9ac3a940db71) |
 | Sun, 28 Dec 2025 10:32:39 GMT | No internship, 4 months to graduate: my SOC prep plan | Nithishkumar R | [Read More](https://medium.com/p/8bb020fddc10) |
 | Sun, 28 Dec 2025 10:31:58 GMT | Do Random 100 Websites Have Authentication Security? | karincayiyen | [Read More](https://medium.com/p/0fe28c4190c1) |
@@ -106,13 +116,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sun, 28 Dec 2025 01:58:44 GMT | Yours | Bionca | [Read More](https://medium.com/p/a8f10217b48b) |
 | Sun, 28 Dec 2025 01:44:26 GMT | Finding My First P3 Bug at NASA in My First Week of Bug Hunting | Sai Jayanth | [Read More](https://medium.com/p/00e60a2ed4fd) |
 | Sun, 28 Dec 2025 01:28:51 GMT | Why We Tell Strangers What We Hide From Friends | Bella Smith ⭐ | [Read More](https://medium.com/p/8bddd15522ca) |
-| Sun, 28 Dec 2025 01:09:56 GMT | MITRE ATT&CK | Asgar Mammadov | [Read More](https://medium.com/p/f61a876508b3) |
-| Sun, 28 Dec 2025 01:01:59 GMT | PicoCTF Writeup — Operation Orchid | flix | [Read More](https://medium.com/p/c389cd3a76fd) |
-| Sun, 28 Dec 2025 01:01:26 GMT | PicoCTF Writeup — Sleuthkit Apprentice | flix | [Read More](https://medium.com/p/da5c48c60e6e) |
-| Sun, 28 Dec 2025 00:35:06 GMT | Love, Unscheduled | AO Rhodes | [Read More](https://medium.com/p/9b09f6ea464a) |
-| Sun, 28 Dec 2025 00:28:48 GMT | “Two Steps Ahead of Hackers: The Power of 2FA” | Mike McGowan | [Read More](https://medium.com/p/2a674d14516b) |
-| Sun, 28 Dec 2025 00:02:42 GMT | Ransomware: The Hidden Danger of Cyber Extortion and How to Defend Against It | Negro Med | [Read More](https://medium.com/p/fd5105a6a4ba) |
-| Sat, 27 Dec 2025 23:57:59 GMT | TryHackMe SOC Level 1: Wireshark Traffic Analysis & HTTPS Decryption Walkthrough(Task 8–9–10–11) | Eren Ergen | [Read More](https://medium.com/p/2f61549323c1) |
-| Sat, 27 Dec 2025 23:57:58 GMT | Completion | Seth J | [Read More](https://medium.com/p/03e38ed0bae0) |
-| Sat, 27 Dec 2025 23:55:34 GMT | Voyager: la expedición que no debía volver | Un Pedacito de Conocimiento | [Read More](https://medium.com/p/0204b0627c02) |
-| Sat, 27 Dec 2025 23:52:46 GMT | The Cost of a Bug When the Data Is Permanent | Tyreek Haynes | [Read More](https://medium.com/p/7df0ea2ab55c) |
