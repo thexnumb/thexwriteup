@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 10:32:39 GMT | RFC 1918 Explained: Why Private IP Addresses Are Everywhere in Modern Networks | Natarajan C K | [Read More](https://medium.com/p/9ac3a940db71) |
+| Sun, 28 Dec 2025 10:32:39 GMT | No internship, 4 months to graduate: my SOC prep plan | Nithishkumar R | [Read More](https://medium.com/p/8bb020fddc10) |
+| Sun, 28 Dec 2025 10:31:58 GMT | Do Random 100 Websites Have Authentication Security? | karincayiyen | [Read More](https://medium.com/p/0fe28c4190c1) |
+| Sun, 28 Dec 2025 10:21:40 GMT | Behavior-Based Abuse Detection in PHP Without IP Blocking | Asian Digital Hub | [Read More](https://medium.com/p/9dc8765567f9) |
 | Sun, 28 Dec 2025 10:15:40 GMT | Cross-Site Scripting (XSS) - Vulnerability | AJ GUIN | [Read More](https://medium.com/p/ba11a5e6fcdb) |
+| Sun, 28 Dec 2025 10:15:10 GMT | Cybersecurity Risk Analysis | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/ac9c9e3f8162) |
+| Sun, 28 Dec 2025 10:14:07 GMT | Cybersecurity Trends and Threats in 2026 | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/897ca4171e43) |
 | Sun, 28 Dec 2025 10:05:07 GMT | Best Facebook Proxies for 2026: Types, Use Cases, and a Safer Selection Checklist | CryptoTether | [Read More](https://medium.com/p/8d608b009bfa) |
 | Sun, 28 Dec 2025 10:02:27 GMT | Nigeria Can Bomb Abroad but Cannot Protect Its Own People | Chizindu Morris | [Read More](https://medium.com/p/90c262fd7ec1) |
 | Sun, 28 Dec 2025 09:45:37 GMT | Kafka | Supriti | [Read More](https://medium.com/p/b91d1709a05b) |
@@ -110,9 +116,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sat, 27 Dec 2025 23:57:58 GMT | Completion | Seth J | [Read More](https://medium.com/p/03e38ed0bae0) |
 | Sat, 27 Dec 2025 23:55:34 GMT | Voyager: la expedición que no debía volver | Un Pedacito de Conocimiento | [Read More](https://medium.com/p/0204b0627c02) |
 | Sat, 27 Dec 2025 23:52:46 GMT | The Cost of a Bug When the Data Is Permanent | Tyreek Haynes | [Read More](https://medium.com/p/7df0ea2ab55c) |
-| Sat, 27 Dec 2025 23:51:36 GMT | YesWeHack Dojo 46: Ghost Whisper Challenge Solution | Rawansaeed | [Read More](https://medium.com/p/cb5e592f378b) |
-| Sat, 27 Dec 2025 23:47:28 GMT | Looking Back on 2025: The Milestones That Defined a Year of Intentional Growth | Stan4Chainz | [Read More](https://medium.com/p/f7c3608451c5) |
-| Sat, 27 Dec 2025 23:43:01 GMT | I Took 9 Days off from Writing and Here’s What it Taught Me | Vanshika Choudhary | [Read More](https://medium.com/p/dc434cc48092) |
-| Sat, 27 Dec 2025 23:42:12 GMT | TryHackMe Walkthrough — Startup | Rootseekerx0x | [Read More](https://medium.com/p/f97a69960d49) |
-| Sat, 27 Dec 2025 23:39:18 GMT | AI-Generated Deepfake Scandals You Didn’t Hear About | ThinkSimple | [Read More](https://medium.com/p/9b57553a0104) |
-| Sat, 27 Dec 2025 23:39:11 GMT | How I’m Securing My Digital Footprint in 2026 (And How You Can Too) | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/59f92f7a98a0) |
