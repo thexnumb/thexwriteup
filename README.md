@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 08:29:02 GMT | The Illusion of Client-Side Security | Pwnr | [Read More](https://medium.com/p/ceaf7b4dc3e5) |
+| Sun, 28 Dec 2025 08:20:09 GMT | React2Shell (CVE-2025–55182) Security Alert: Critical RCE in React and Next.js | Ankit | [Read More](https://medium.com/p/ef006356376e) |
+| Sun, 28 Dec 2025 08:12:36 GMT | Passkeys and the Quiet Erosion of Digital Sovereignty | Gayan Karunarathna | [Read More](https://medium.com/p/b4efd37f18d2) |
+| Sun, 28 Dec 2025 08:12:12 GMT | The QR Code Trap: How I Forced a Major Brand to Host My Phishing Links (And Why It Got Rejected) | Zer0Figure | [Read More](https://medium.com/p/47aa2d0c2991) |
+| Sun, 28 Dec 2025 08:09:57 GMT | The day our logins started failing: a calm framework for ISP static vs rotating residential | Gabriele Wayner | [Read More](https://medium.com/p/a4901473e075) |
+| Sun, 28 Dec 2025 08:07:18 GMT | TryHackMe - Nmap Live Host Discovery WriteUp | Trnty | [Read More](https://medium.com/p/2d43ba27dbb4) |
+| Sun, 28 Dec 2025 08:05:50 GMT | New Web Feature gone wrong - SQL-Injection | Charon19d | [Read More](https://medium.com/p/3fcd07ff65f2) |
+| Sun, 28 Dec 2025 08:04:20 GMT | DHRUV64: How India Built Its Indigenous 64-Bit Dual-Core Processor | Ajaymaurya | [Read More](https://medium.com/p/dd87dcb3031c) |
+| Sun, 28 Dec 2025 08:03:50 GMT | Remote Function Stomping Injection | Athis SN | [Read More](https://medium.com/p/78bef4c96030) |
+| Sun, 28 Dec 2025 07:58:10 GMT | AI vs Cybersecurity: An Arms Race With No Finish Line | Muhammad Faheem | [Read More](https://medium.com/p/251517dfb10f) |
+| Sun, 28 Dec 2025 07:57:55 GMT | Why Learning Quantum Computing NOW Feels Like Buying Bitcoin in 2012 | Mr. Richie Gunawan | [Read More](https://medium.com/p/90d2875b65e5) |
+| Sun, 28 Dec 2025 07:42:42 GMT | NC3 2025 CTF – BOOT2ROOT- SantaShield 1, 2 & 3 Write-Up | Eibe | [Read More](https://medium.com/p/134bb89c6952) |
+| Sun, 28 Dec 2025 07:38:14 GMT | Cyber Attacks in 2025: The Year Digital Trust Was Put on Trial | EINITIAL24 | [Read More](https://medium.com/p/601838cd6c5e) |
 | Sun, 28 Dec 2025 07:35:54 GMT | TryHackMe: Year of the Dog Writeup | cbev | [Read More](https://medium.com/p/a7c80df6c45d) |
 | Sun, 28 Dec 2025 07:27:02 GMT | After the Palmyra Attack, Syria’s Unlikely Partnership With the U.S. Hangs in the Balance | Rahala Insights | [Read More](https://medium.com/p/73d37950e96a) |
 | Sun, 28 Dec 2025 07:23:58 GMT | How HIT Leaders Balance Cyber & Business Continuity Risks | Linda A. Ivri | [Read More](https://medium.com/p/6064b6782cd2) |
@@ -101,16 +114,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sat, 27 Dec 2025 20:39:08 GMT | Hack The Box — PhishNet | Harjot Singh | [Read More](https://medium.com/p/674fb686fa68) |
 | Sat, 27 Dec 2025 20:31:36 GMT | Stop Changing Your Passwords Every 90 Days. Do This Instead. | Mohanad Khaled | [Read More](https://medium.com/p/ad24fc4af52e) |
 | Sat, 27 Dec 2025 20:22:18 GMT | User & Access Control Hardening | bradOSv1 | [Read More](https://medium.com/p/af8a9a8701ff) |
-| Sat, 27 Dec 2025 20:18:46 GMT | AI As Societal Critical Infrastructure | Graham dePenros | [Read More](https://medium.com/p/1bb79f353f17) |
-| Sat, 27 Dec 2025 20:16:50 GMT | From Open Redirect to Credential Theft: A Login Flow Story | SabNa | [Read More](https://medium.com/p/79f7a8de2720) |
-| Sat, 27 Dec 2025 20:15:08 GMT | Between Us | amélie | [Read More](https://medium.com/p/7c18337df5ce) |
-| Sat, 27 Dec 2025 20:05:59 GMT | GitHub’a Yanlışlıkla Şifre Atmaya Son: .NET User Secrets Kullanım Rehberi | Berkant Karaca | [Read More](https://medium.com/p/b75b7c019752) |
-| Sat, 27 Dec 2025 20:05:32 GMT | Yang Code Review — AI-Powered Secure Code Review for GitHub Actions | Le Thanh Phuc (Lee) | [Read More](https://medium.com/p/068f7eb3c9c6) |
-| Sat, 27 Dec 2025 20:00:58 GMT | The Human Firewall: What My Journey Through Techrise 2.0 Taught Me About Cybersecurity. | Sarah K Chukwukadibia | [Read More](https://medium.com/p/39f4e72af9b0) |
-| Sat, 27 Dec 2025 19:58:22 GMT | Infinity Learning lab: KeyMaster — Decoding S3 Secrets — Writeup | Hubert | [Read More](https://medium.com/p/90eb3b4d920a) |
-| Sat, 27 Dec 2025 19:56:25 GMT | VS Code + GitHub Copilot for Penetration Testing Complete Guide | Adnane Arharbi, Eng | [Read More](https://medium.com/p/b312b3aeb018) |
-| Sat, 27 Dec 2025 19:51:03 GMT | VPNs, Security, and Privacy: What You Need to Know | Gus Woltmann | [Read More](https://medium.com/p/781baa8cece3) |
-| Sat, 27 Dec 2025 19:47:42 GMT | Inside the Hacker Toolkit: Devices That Shape Modern Cybersecurity | Mert Baykal | [Read More](https://medium.com/p/184d7d04e623) |
-| Sat, 27 Dec 2025 19:26:11 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobalserver | [Read More](https://medium.com/p/1f5fac88a6ac) |
-| Sat, 27 Dec 2025 19:26:09 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobalagency Manager | [Read More](https://medium.com/p/99097044aec3) |
-| Sat, 27 Dec 2025 19:26:07 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobaldirector | [Read More](https://medium.com/p/9276499d0ba8) |
