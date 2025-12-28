@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 11:28:10 GMT | Ligolo-ng: VPN-Style Tunneling for Pentesters | ghostyjoe | [Read More](https://medium.com/p/24730bdea5d2) |
+| Sun, 28 Dec 2025 11:18:39 GMT | Cyber Security Course | Molletibalu | [Read More](https://medium.com/p/143571a036a5) |
+| Sun, 28 Dec 2025 11:17:15 GMT | Women Who Sing Softly in a World That Forces Us to Harden | Franc.megan | [Read More](https://medium.com/p/3e13cb018313) |
 | Sun, 28 Dec 2025 11:09:07 GMT | Hack The Box: SolidState Walkthrough | Techie-stronaut | [Read More](https://medium.com/p/ecc6ca8a270c) |
 | Sun, 28 Dec 2025 11:07:32 GMT | Web Security Essentials: A Backend Developer’s Quick Guide | Alabi Temitope David | [Read More](https://medium.com/p/8ace9f071ed9) |
 | Sun, 28 Dec 2025 11:07:20 GMT | Why Security Architecture is Fundamentally a Graph Problem | Levente Simon | [Read More](https://medium.com/p/5f4b58307a3a) |
@@ -113,6 +116,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sun, 28 Dec 2025 02:16:54 GMT | [SECPlayground Bloody XMas CTF 2025] Pentest Write-ups | BXDMAN | [Read More](https://medium.com/p/825cd8dfedc4) |
 | Sun, 28 Dec 2025 02:07:57 GMT | How to be notified when lengthy command-line tasks are completed? | Allan Zeidler | [Read More](https://medium.com/p/c94108780b1f) |
 | Sun, 28 Dec 2025 02:06:45 GMT | Driving Digital Empowerment Through Cybersecurity Innovation in Insurance : A Comprehensive Guide… | Chetan Ratnawat | [Read More](https://medium.com/p/7f7e5edc678f) |
-| Sun, 28 Dec 2025 01:58:44 GMT | Yours | Bionca | [Read More](https://medium.com/p/a8f10217b48b) |
-| Sun, 28 Dec 2025 01:44:26 GMT | Finding My First P3 Bug at NASA in My First Week of Bug Hunting | Sai Jayanth | [Read More](https://medium.com/p/00e60a2ed4fd) |
-| Sun, 28 Dec 2025 01:28:51 GMT | Why We Tell Strangers What We Hide From Friends | Bella Smith ⭐ | [Read More](https://medium.com/p/8bddd15522ca) |
