@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 10:15:40 GMT | Cross-Site Scripting (XSS) - Vulnerability | AJ GUIN | [Read More](https://medium.com/p/ba11a5e6fcdb) |
+| Sun, 28 Dec 2025 10:05:07 GMT | Best Facebook Proxies for 2026: Types, Use Cases, and a Safer Selection Checklist | CryptoTether | [Read More](https://medium.com/p/8d608b009bfa) |
+| Sun, 28 Dec 2025 10:02:27 GMT | Nigeria Can Bomb Abroad but Cannot Protect Its Own People | Chizindu Morris | [Read More](https://medium.com/p/90c262fd7ec1) |
+| Sun, 28 Dec 2025 09:45:37 GMT | Kafka | Supriti | [Read More](https://medium.com/p/b91d1709a05b) |
+| Sun, 28 Dec 2025 09:42:36 GMT | ️ Twenty Days in the Void: How I Compromised NASA and Earned a Recognition Letter | Vaibhav Kubade | [Read More](https://medium.com/p/d44cd66a7cb5) |
 | Sun, 28 Dec 2025 09:34:22 GMT | What Is Cybersecurity and Why It Is Critical in Today’s World | Stealth0x0f | [Read More](https://medium.com/p/5fc8d777c59a) |
 | Sun, 28 Dec 2025 09:32:22 GMT | The Biggest Mistake 90% of OSCP Learners Make… | RedTeam Chronicle | [Read More](https://medium.com/p/c674edafbc00) |
 | Sun, 28 Dec 2025 09:26:17 GMT | You Don’t Understand the OSI Model (And It’s Not Your Fault) | Krish Gupta | [Read More](https://medium.com/p/c033bfa55ab1) |
@@ -111,8 +116,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sat, 27 Dec 2025 23:42:12 GMT | TryHackMe Walkthrough — Startup | Rootseekerx0x | [Read More](https://medium.com/p/f97a69960d49) |
 | Sat, 27 Dec 2025 23:39:18 GMT | AI-Generated Deepfake Scandals You Didn’t Hear About | ThinkSimple | [Read More](https://medium.com/p/9b57553a0104) |
 | Sat, 27 Dec 2025 23:39:11 GMT | How I’m Securing My Digital Footprint in 2026 (And How You Can Too) | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/59f92f7a98a0) |
-| Sat, 27 Dec 2025 23:03:05 GMT | Hack Smarter AD Challenge Lab: Arasaka | Milos Skalusevic | [Read More](https://medium.com/p/04c156abe434) |
-| Sat, 27 Dec 2025 22:57:35 GMT | Performing CSRF Exploits over GraphQL APIs | Bash Overflow | [Read More](https://medium.com/p/945764a0160b) |
-| Sat, 27 Dec 2025 22:52:22 GMT | MongoBleed (CVE‑2025‑14847): A Pre‑Auth MongoDB Memory Leak You Can Hunt at Scale | Black1hp | [Read More](https://medium.com/p/c8faa00f2bdd) |
-| Sat, 27 Dec 2025 22:45:56 GMT | 2025: The Year Cybersecurity Lost the War Against Machines (And No One Noticed) | Michelle G Andrade | [Read More](https://medium.com/p/dc7459003f98) |
-| Sat, 27 Dec 2025 22:36:41 GMT | CodePartTwo HTB Walkthrough | Death Esther | [Read More](https://medium.com/p/000dcf2a261d) |
