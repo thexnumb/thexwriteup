@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 21:27:22 GMT | CyberTalents — Evil Rick writeup | Abdelrahman Zourob | [Read More](https://medium.com/p/9fe581720b27) |
+| Sun, 28 Dec 2025 21:24:53 GMT | The Cost of Being the Person Everyone Calls During a Crisis: Invisible Battle Scars of the Human… | Santhosh Adiga U | [Read More](https://medium.com/p/719499f117fa) |
+| Sun, 28 Dec 2025 21:24:41 GMT | Google SOC | Mmohammadsalman | [Read More](https://medium.com/p/4effba7fa7d3) |
+| Sun, 28 Dec 2025 21:21:39 GMT | Linux’ta Ağ Yönetimi | g.o. | [Read More](https://medium.com/p/58d3da1558c7) |
 | Sun, 28 Dec 2025 21:16:22 GMT | How to Start Bug Bounty Hunting | Codi | [Read More](https://medium.com/p/9492949f3e4f) |
 | Sun, 28 Dec 2025 21:15:47 GMT | DEATHcon 2025 | Jake Boyd | [Read More](https://medium.com/p/449bd392100d) |
 | Sun, 28 Dec 2025 21:00:38 GMT | Lessons Learnt After Publishing a Half-Baked First Novel | Anoop Vijayan | [Read More](https://medium.com/p/41db38c078d4) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 12:28:09 GMT | Ağ Güvenliğinin Temelleri: FortiGate ile Firewall Policy Oluşturma | Hira Ekin Sürcan | [Read More](https://medium.com/p/4266cb5104ab) |
 | Sun, 28 Dec 2025 12:27:17 GMT | Cracking the ZIP — A Digital Forensics Challenge | Siphiwe | [Read More](https://medium.com/p/331ededa11a0) |
 | Sun, 28 Dec 2025 12:14:44 GMT | Biggest Live Hacking Event of the Year(15000$+) | Anonymous Traiger | [Read More](https://medium.com/p/5e63a1357e27) |
-| Sun, 28 Dec 2025 12:05:00 GMT | Tokopedia Proxies (2026): How to Choose, Configure, and Stay Stable for Research & Operations | ChainWhisper | [Read More](https://medium.com/p/48270850b337) |
-| Sun, 28 Dec 2025 12:02:40 GMT | RAG Doesn’t Neutralize Prompt Injection. It Multiplies It. | AhmedAbdelmenem | [Read More](https://medium.com/p/329c91b2e5a3) |
-| Sun, 28 Dec 2025 11:57:25 GMT | Five Signs Your Computer Might Be Hacked — And How to Check It Today (2026 Edition) | Sam Writes Security | [Read More](https://medium.com/p/1a2afd8a172d) |
-| Sun, 28 Dec 2025 11:46:12 GMT | Scope, Legality, and Ethical Hacking: | HASSAN JAHANGEER | [Read More](https://medium.com/p/383aaaa5d140) |
