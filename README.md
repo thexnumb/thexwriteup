@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 19:31:30 GMT | Crypto-Agility | Aykut Mert Pekdemir | [Read More](https://medium.com/p/53dc9c7f451e) |
+| Sun, 28 Dec 2025 19:22:10 GMT | imToken Activity Report: Desember 2025 | imToken Persian Community | [Read More](https://medium.com/p/7ea88aeb6e65) |
+| Sun, 28 Dec 2025 19:05:24 GMT | USA Cloud VPS Hosting with Unmetered Bandwidth, Introducing GigaNodes’ New USA VPS Lineup | GigaNodes | [Read More](https://medium.com/p/68db2c6e60f3) |
 | Sun, 28 Dec 2025 18:59:18 GMT | Google Appspot XSS CTF Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/1c0f32dfd30a) |
 | Sun, 28 Dec 2025 18:54:54 GMT | Your Website Isn’t Weak — Your Decisions Are | Ali.Yurie | [Read More](https://medium.com/p/d20dea69a241) |
 | Sun, 28 Dec 2025 18:54:13 GMT | The Lie of Democratization | Nicholas Armstrong | [Read More](https://medium.com/p/9e6c2cb5386e) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 10:32:39 GMT | RFC 1918 Explained: Why Private IP Addresses Are Everywhere in Modern Networks | Natarajan C K | [Read More](https://medium.com/p/9ac3a940db71) |
 | Sun, 28 Dec 2025 10:32:39 GMT | No internship, 4 months to graduate: my SOC prep plan | Nithishkumar R | [Read More](https://medium.com/p/8bb020fddc10) |
 | Sun, 28 Dec 2025 10:31:58 GMT | Do Random 100 Websites Have Authentication Security? | karincayiyen | [Read More](https://medium.com/p/0fe28c4190c1) |
-| Sun, 28 Dec 2025 10:21:40 GMT | Behavior-Based Abuse Detection in PHP Without IP Blocking | Asian Digital Hub | [Read More](https://medium.com/p/9dc8765567f9) |
-| Sun, 28 Dec 2025 10:15:40 GMT | Cross-Site Scripting (XSS) - Vulnerability | AJ GUIN | [Read More](https://medium.com/p/ba11a5e6fcdb) |
-| Sun, 28 Dec 2025 10:15:10 GMT | Cybersecurity Risk Analysis | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/ac9c9e3f8162) |
