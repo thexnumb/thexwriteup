@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 16:42:18 GMT | Day 146 — Behemoth Level-3 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/d83b945138c5) |
+| Sun, 28 Dec 2025 16:38:34 GMT | Forest Guards and the Perils of Ungoverned Power | Ojudubabafemi | [Read More](https://medium.com/p/531710eb9809) |
+| Sun, 28 Dec 2025 16:35:16 GMT | When Courage Whispers | Hatomi | [Read More](https://medium.com/p/01b9e2f49712) |
+| Sun, 28 Dec 2025 16:29:11 GMT | Understanding Lumera Protocol: Infrastructure for AI, Data, and Web3 Applications | Aisharimii | [Read More](https://medium.com/p/41c559cc6b9f) |
+| Sun, 28 Dec 2025 16:29:01 GMT | SSH vs SSL/TLS — Lessons I Learned While Studying Cybersecurity and Solving Labs | Gajanan | [Read More](https://medium.com/p/026ba83941b1) |
+| Sun, 28 Dec 2025 16:28:53 GMT | The Spotify 300 TB Data Leak | Shubham Naliyapara | [Read More](https://medium.com/p/cd7b89cf35bc) |
 | Sun, 28 Dec 2025 16:20:39 GMT | Enumeration Is Everything — But Not for the Reason You Think | Kenneth Solomon | [Read More](https://medium.com/p/0936cce7f76a) |
 | Sun, 28 Dec 2025 16:15:11 GMT | Practical Malware Analysis | Saksham Bhattarai | [Read More](https://medium.com/p/486d59a67a8b) |
 | Sun, 28 Dec 2025 16:14:32 GMT | Build Your Own Cybersecurity Lab Using Infrastructure as Code (IaC) with Terraform and Ansible | The InfoSec Guy | [Read More](https://medium.com/p/e33adb83bdf0) |
@@ -109,9 +115,3 @@ Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a9
 | Sun, 28 Dec 2025 08:23:37 GMT | Setting Up OpenEDR with ELK Integration | Panagiotis Fiskilis | [Read More](https://medium.com/p/feeffa1e891b) |
 | Sun, 28 Dec 2025 08:20:09 GMT | React2Shell (CVE-2025–55182) Security Alert: Critical RCE in React and Next.js | Ankit | [Read More](https://medium.com/p/ef006356376e) |
 | Sun, 28 Dec 2025 08:13:44 GMT | Subzy Tool | bangfusk | [Read More](https://medium.com/p/c6f762bcbfb3) |
-| Sun, 28 Dec 2025 08:12:36 GMT | Passkeys and the Quiet Erosion of Digital Sovereignty | Gayan Karunarathna | [Read More](https://medium.com/p/b4efd37f18d2) |
-| Sun, 28 Dec 2025 08:12:12 GMT | The QR Code Trap: How I Forced a Major Brand to Host My Phishing Links (And Why It Got Rejected) | Zer0Figure | [Read More](https://medium.com/p/47aa2d0c2991) |
-| Sun, 28 Dec 2025 08:09:57 GMT | The day our logins started failing: a calm framework for ISP static vs rotating residential | Gabriele Wayner | [Read More](https://medium.com/p/a4901473e075) |
-| Sun, 28 Dec 2025 08:07:18 GMT | TryHackMe - Nmap Live Host Discovery WriteUp | Trnty | [Read More](https://medium.com/p/2d43ba27dbb4) |
-| Sun, 28 Dec 2025 08:05:50 GMT | New Web Feature gone wrong - SQL-Injection | Charon19d | [Read More](https://medium.com/p/3fcd07ff65f2) |
-| Sun, 28 Dec 2025 08:04:20 GMT | DHRUV64: How India Built Its Indigenous 64-Bit Dual-Core Processor | Ajaymaurya | [Read More](https://medium.com/p/dd87dcb3031c) |
