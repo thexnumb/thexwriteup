@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 22:13:52 GMT | Nikto Lab: 3 Web Security Lessons Every Hacker Needs | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/b57a44e6819d) |
+| Sun, 28 Dec 2025 22:12:20 GMT | Domain Admin Her Yerde: Siber Saldırganların En Sevdiği Senaryo ve Tier Model Çözümü | Mustafa Gokalp Mutlu | [Read More](https://medium.com/p/85a695d5faca) |
+| Sun, 28 Dec 2025 22:07:41 GMT | Why Eastern Europe Builds the World’s Best Cybersecurity ️ | Pramodh Casanova | [Read More](https://medium.com/p/a3139f913fe0) |
+| Sun, 28 Dec 2025 21:55:29 GMT | Malware Reverse Engineering Infrastructure | bl77rd | [Read More](https://medium.com/p/11b97407dc1f) |
+| Sun, 28 Dec 2025 21:50:19 GMT | From Reverse DNS to Super Admin: How I Earned $7,500 Finding an Exposed Admin Panel | Ahmed Ghadban | [Read More](https://medium.com/p/22500c65fe27) |
 | Sun, 28 Dec 2025 21:27:22 GMT | CyberTalents — Evil Rick writeup | Abdelrahman Zourob | [Read More](https://medium.com/p/9fe581720b27) |
 | Sun, 28 Dec 2025 21:24:53 GMT | The Cost of Being the Person Everyone Calls During a Crisis: Invisible Battle Scars of the Human… | Santhosh Adiga U | [Read More](https://medium.com/p/719499f117fa) |
 | Sun, 28 Dec 2025 21:24:41 GMT | Google SOC | Mmohammadsalman | [Read More](https://medium.com/p/4effba7fa7d3) |
@@ -107,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 13:00:30 GMT | TLS vs End-to-End API Encryption: How It Works, Why, and When It Matters | Afolabi Paul | [Read More](https://medium.com/p/47b864ed6c8d) |
 | Sun, 28 Dec 2025 12:58:32 GMT | Ring Indoor Cam Plus — Honest Review | Mohamed Hossam | [Read More](https://medium.com/p/383cb5b08dec) |
 | Sun, 28 Dec 2025 12:44:09 GMT | Noël, un Flipper Zero et un robot piraté : replay attack en 30 secondes | RAPATT | [Read More](https://medium.com/p/5642b9c4d5a4) |
-| Sun, 28 Dec 2025 12:35:06 GMT | Web Uygulama Güvenliği: Bir Seçenek Değil, Zorunluluk | Nazlı Şam | [Read More](https://medium.com/p/32b6ed46ad76) |
-| Sun, 28 Dec 2025 12:31:20 GMT | The Zoo
- Inside the Malware Archive Built for Defenders | ghostyjoe | [Read More](https://medium.com/p/0048cc7a81bd) |
-| Sun, 28 Dec 2025 12:28:09 GMT | Ağ Güvenliğinin Temelleri: FortiGate ile Firewall Policy Oluşturma | Hira Ekin Sürcan | [Read More](https://medium.com/p/4266cb5104ab) |
-| Sun, 28 Dec 2025 12:27:17 GMT | Cracking the ZIP — A Digital Forensics Challenge | Siphiwe | [Read More](https://medium.com/p/331ededa11a0) |
-| Sun, 28 Dec 2025 12:14:44 GMT | Biggest Live Hacking Event of the Year(15000$+) | Anonymous Traiger | [Read More](https://medium.com/p/5e63a1357e27) |
