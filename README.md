@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 07:35:54 GMT | TryHackMe: Year of the Dog Writeup | cbev | [Read More](https://medium.com/p/a7c80df6c45d) |
+| Sun, 28 Dec 2025 07:27:02 GMT | After the Palmyra Attack, Syria’s Unlikely Partnership With the U.S. Hangs in the Balance | Rahala Insights | [Read More](https://medium.com/p/73d37950e96a) |
+| Sun, 28 Dec 2025 07:23:58 GMT | How HIT Leaders Balance Cyber & Business Continuity Risks | Linda A. Ivri | [Read More](https://medium.com/p/6064b6782cd2) |
+| Sun, 28 Dec 2025 07:23:00 GMT | From Hacker to CEO: Tal Kollender’s Mission to Secure Configurations | Linda A. Ivri | [Read More](https://medium.com/p/15006f5c0f1c) |
+| Sun, 28 Dec 2025 07:20:50 GMT | Analyzing a LinkedIn Phishing Attempt | CyberSum | [Read More](https://medium.com/p/5c71d9cf86df) |
+| Sun, 28 Dec 2025 07:15:43 GMT | [LetsDefend Write-up] AS-REP Challenge | Chicken0248 | [Read More](https://medium.com/p/9cc923f7b80e) |
+| Sun, 28 Dec 2025 07:12:51 GMT | [LetsDefend Write-up]Golden Ticket | Chicken0248 | [Read More](https://medium.com/p/f082971a17ce) |
 | Sun, 28 Dec 2025 07:09:35 GMT | One Misplaced Header, Thousands of Leaked Sessions: A Bug Bounty Story | Iski | [Read More](https://medium.com/p/9cc0ee4b3e38) |
+| Sun, 28 Dec 2025 07:07:00 GMT | No platform fluff, no hidden formatting. | Balasubramaniam GD | [Read More](https://medium.com/p/480721fc20bd) |
 | Sun, 28 Dec 2025 07:05:53 GMT | Is IRSA Obsolete? EKS Pod Identity Quietly Rewrote IAM for Kubernetes | Sanath Waghela | [Read More](https://medium.com/p/9cf686567ad0) |
 | Sun, 28 Dec 2025 07:04:05 GMT | The Art of Tracking Without a Trace: Mastering Passive Information Gathering in Penetration Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/e7a16e164592) |
 | Sun, 28 Dec 2025 06:59:42 GMT | “Why Cybersecurity Training Without Real Incidents Is a Waste of Time”
@@ -106,11 +114,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sat, 27 Dec 2025 19:26:11 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobalserver | [Read More](https://medium.com/p/1f5fac88a6ac) |
 | Sat, 27 Dec 2025 19:26:09 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobalagency Manager | [Read More](https://medium.com/p/99097044aec3) |
 | Sat, 27 Dec 2025 19:26:07 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobaldirector | [Read More](https://medium.com/p/9276499d0ba8) |
-| Sat, 27 Dec 2025 19:26:06 GMT | H.E.I.X. GLOBAL AGENCY | Heixglobalagency Ceo | [Read More](https://medium.com/p/4d9bc5844c6e) |
-| Sat, 27 Dec 2025 19:21:24 GMT | H.E.I.X. GLOBAL AGENCY | H.E.I.X. Global Agency | [Read More](https://medium.com/p/efe5a2eb8d00) |
-| Sat, 27 Dec 2025 19:05:36 GMT | Access Methods and Credential Hunting in Azure | Tharindu Damith | [Read More](https://medium.com/p/267b1c80d703) |
-| Sat, 27 Dec 2025 18:57:33 GMT | How Europe lost IT leadership | Steph L. | [Read More](https://medium.com/p/f4b25742ef32) |
-| Sat, 27 Dec 2025 18:52:08 GMT | CloudSek Hiring CTF Round-1(6th December 2025) | Chiakiichan | [Read More](https://medium.com/p/9f226a6a9a30) |
-| Sat, 27 Dec 2025 18:47:38 GMT | AD Hardening : AD CS (ESC1) Zafiyetini Kapatma | HİLAL ŞAHİN | [Read More](https://medium.com/p/6d9f789c75d1) |
-| Sat, 27 Dec 2025 18:42:07 GMT | Vademecum —Diffie-Hellman | Stefano Bassetto | [Read More](https://medium.com/p/a24a254e471e) |
-| Sat, 27 Dec 2025 18:03:54 GMT | 5 NDR Challenges You Need to Solve Before 2026 | NetWitness | [Read More](https://medium.com/p/8709f53be8c8) |
