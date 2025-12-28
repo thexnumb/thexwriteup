@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 17:39:49 GMT | AWS IAM Enumeration mit Pacu Walkthrough | Spookz | [Read More](https://medium.com/p/739efdf9ea78) |
+| Sun, 28 Dec 2025 17:31:29 GMT | OSINT Challenge-Geo-location Exercise #001 | SHUBHAM | [Read More](https://medium.com/p/dea3d16bb2fe) |
+| Sun, 28 Dec 2025 17:20:35 GMT | Active Directory Lab and attacks — From Beginner to Intermediate | Nashra | [Read More](https://medium.com/p/d3234deb7c2d) |
 | Sun, 28 Dec 2025 17:12:28 GMT | Agentic AI Threats Push Businesses To Strengthen Managed IT Services in Springfield, MO | PCnet | [Read More](https://medium.com/p/e0f747ff4cf5) |
 | Sun, 28 Dec 2025 17:05:56 GMT | Info Disclosure Bugs: Bug Bounty Beginner Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/36e3ea47f317) |
 | Sun, 28 Dec 2025 17:04:26 GMT | “Passive Information Gathering: The Art of Gathering Information Without Touching the Target… | Habibi | [Read More](https://medium.com/p/770a109c5b19) |
@@ -112,6 +115,3 @@ Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a9
 | Sun, 28 Dec 2025 08:55:29 GMT | The Dark Side of Bug Bounty - Truth Behind the Screenshots | Rajankumarbarik | [Read More](https://medium.com/p/f08cb71734ba) |
 | Sun, 28 Dec 2025 08:41:56 GMT | Remote code execution via web shell upload | Muhammad Zain | [Read More](https://medium.com/p/d75b55d4601b) |
 | Sun, 28 Dec 2025 08:33:59 GMT | How I Got a CyberSecurity Internship at Airtel | ikaris | [Read More](https://medium.com/p/e075a80ff74e) |
-| Sun, 28 Dec 2025 08:32:53 GMT | Beyond the Filter: How to Build Your Child’s “Human Firewall” ️ | Cyber-Savvy Community | [Read More](https://medium.com/p/5794da3f278f) |
-| Sun, 28 Dec 2025 08:32:13 GMT | Fiber Optic Load Balancing | Sachit Joe Almeida | [Read More](https://medium.com/p/3588effc709e) |
-| Sun, 28 Dec 2025 08:31:24 GMT | Security Is Too Expensive? Here’s the Math That Proves Otherwise | CybeCloud | [Read More](https://medium.com/p/8744d62b9020) |
