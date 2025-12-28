@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 14:08:05 GMT | Yemeksepeti hack’inin izini sürmek | Alp Börü | [Read More](https://medium.com/p/75b3cf196a4a) |
+| Sun, 28 Dec 2025 14:04:43 GMT | Beyond the Blocklist: Configurable Safety Pipelines for Modern Content Systems — A ZeroGPU Usecase | Maddy | [Read More](https://medium.com/p/1a61d484783e) |
+| Sun, 28 Dec 2025 13:59:29 GMT | How Security Guard Presence Helps Reduce Insurance Claims for Brampton Businesses | Diligent Security Services | [Read More](https://medium.com/p/428bd9c8dbb9) |
+| Sun, 28 Dec 2025 13:51:20 GMT | R8/ProGuard in Expo: The Complete Guide to Code Minification | codsod | [Read More](https://medium.com/p/45d5aa2a23c5) |
+| Sun, 28 Dec 2025 13:37:49 GMT | More About Passive Information Gathering | Lutsvia | [Read More](https://medium.com/p/1497604b1d55) |
+| Sun, 28 Dec 2025 13:32:21 GMT | Your Website Might Be Leaking Its Source Code (.git Explained) | D3athCod3 | [Read More](https://medium.com/p/3b32faf033d0) |
 | Sun, 28 Dec 2025 13:15:00 GMT | LLM Poisoning: When AI Learns the Wrong Lessons | LifeInDrafts | [Read More](https://medium.com/p/3958dc961d7f) |
 | Sun, 28 Dec 2025 13:09:38 GMT | Turkey’s Transformation in NATO Relations: A New Era Begins | Ebru | [Read More](https://medium.com/p/5a29f23b7943) |
 | Sun, 28 Dec 2025 13:05:11 GMT | Free Web Encryption: 10 Years of Let’s Encrypt | Can Artuc | [Read More](https://medium.com/p/e93a13c63f3b) |
@@ -110,9 +116,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sun, 28 Dec 2025 06:53:22 GMT | A Phased Roadmap for Implementing Cyber Insurance in Iran | Armin Mehraeen | [Read More](https://medium.com/p/bc82d2dfcd39) |
 | Sun, 28 Dec 2025 06:40:34 GMT | List of top-rated books recommended by ethical hacking experts in 2026 | cyber security Updates | [Read More](https://medium.com/p/4583444d6858) |
 | Sun, 28 Dec 2025 06:25:42 GMT | From Monitoring to Intelligence: The Role of AI in Preventing Industrial Accidents | Dolon Ghosh | [Read More](https://medium.com/p/6361f2edae13) |
-| Sun, 28 Dec 2025 06:23:00 GMT | From “Website Not Accessible” to Critical Error-Based SQLi | Chos3n(haris) | [Read More](https://medium.com/p/483cda463a10) |
-| Sun, 28 Dec 2025 06:20:47 GMT | Linux PrivEsc: Stop Looking for Kernel Exploits and Check Your Permissions | Amrit Sinha | [Read More](https://medium.com/p/dcbdc0df236e) |
-| Sun, 28 Dec 2025 05:46:27 GMT | Abuse of Trusted Cloud Infrastructure in a DocuSign Impersonation Campaign | CipherX9F Security | [Read More](https://medium.com/p/0bfe61838a0a) |
-| Sun, 28 Dec 2025 05:43:10 GMT | Review CMPen — Android | B13ss3d | [Read More](https://medium.com/p/3f89bcae168a) |
-| Sun, 28 Dec 2025 05:39:27 GMT | Otomobil ve Elektrikli Araçlar Hacklenebilir mi? | Mustafa YILMAZ | [Read More](https://medium.com/p/1b2bf80d4d1d) |
-| Sun, 28 Dec 2025 05:35:34 GMT | Understanding Ransomware Protection and Its Components | Digital Duffer | [Read More](https://medium.com/p/fdebddb1b113) |
