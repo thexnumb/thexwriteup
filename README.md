@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 16:20:39 GMT | Enumeration Is Everything — But Not for the Reason You Think | Kenneth Solomon | [Read More](https://medium.com/p/0936cce7f76a) |
+| Sun, 28 Dec 2025 16:15:11 GMT | Practical Malware Analysis | Saksham Bhattarai | [Read More](https://medium.com/p/486d59a67a8b) |
+| Sun, 28 Dec 2025 16:14:32 GMT | Build Your Own Cybersecurity Lab Using Infrastructure as Code (IaC) with Terraform and Ansible | The InfoSec Guy | [Read More](https://medium.com/p/e33adb83bdf0) |
+| Sun, 28 Dec 2025 16:06:01 GMT | SOC 2 Type I vs Type II: Interview Questions and Key Differences | Muhammad Akhtar | [Read More](https://medium.com/p/072a2d6fd254) |
+| Sun, 28 Dec 2025 16:03:54 GMT | Cap HTB Room | Mudiuth | [Read More](https://medium.com/p/e3349551d132) |
+| Sun, 28 Dec 2025 15:51:05 GMT | I Cut SOC Response Time by 97%: Here’s the AI Automation Stack That Did It | Neetrox | [Read More](https://medium.com/p/a6b8f43022e3) |
+| Sun, 28 Dec 2025 15:47:45 GMT | Top AI Security Videos — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/fddb36eb2811) |
+| Sun, 28 Dec 2025 15:41:35 GMT | Template Method + Decorator: The Underrated Combo That Makes Your Code Bulletproof | Jitin Kayyala | [Read More](https://medium.com/p/c69ad55e7478) |
+| Sun, 28 Dec 2025 15:39:33 GMT | Soulmate: Falling in Love with a Full System Compromise (HTB Walkthrough) | Aravind | [Read More](https://medium.com/p/5b3b4896a90a) |
 | Sun, 28 Dec 2025 15:32:23 GMT | Overview of the TCP/IP Networking Model | azrecon_ | [Read More](https://medium.com/p/48b916e8c72b) |
 | Sun, 28 Dec 2025 15:27:25 GMT | Amazon Reports 1,800 North Korean Hacker Applications for Remote IT Jobs.. | Krono | [Read More](https://medium.com/p/f9dce6d40196) |
 | Sun, 28 Dec 2025 15:19:40 GMT | Bypassing Windows Defender during Christmas 2025: Shellcode loader with Alternate Data Stream | thoms | [Read More](https://medium.com/p/be8a0b36bd72) |
@@ -106,12 +115,3 @@ Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a9
 | Sun, 28 Dec 2025 08:07:18 GMT | TryHackMe - Nmap Live Host Discovery WriteUp | Trnty | [Read More](https://medium.com/p/2d43ba27dbb4) |
 | Sun, 28 Dec 2025 08:05:50 GMT | New Web Feature gone wrong - SQL-Injection | Charon19d | [Read More](https://medium.com/p/3fcd07ff65f2) |
 | Sun, 28 Dec 2025 08:04:20 GMT | DHRUV64: How India Built Its Indigenous 64-Bit Dual-Core Processor | Ajaymaurya | [Read More](https://medium.com/p/dd87dcb3031c) |
-| Sun, 28 Dec 2025 08:03:50 GMT | Remote Function Stomping Injection | Athis SN | [Read More](https://medium.com/p/78bef4c96030) |
-| Sun, 28 Dec 2025 07:58:10 GMT | AI vs Cybersecurity: An Arms Race With No Finish Line | Muhammad Faheem | [Read More](https://medium.com/p/251517dfb10f) |
-| Sun, 28 Dec 2025 07:57:55 GMT | Why Learning Quantum Computing NOW Feels Like Buying Bitcoin in 2012 | Mr. Richie Gunawan | [Read More](https://medium.com/p/90d2875b65e5) |
-| Sun, 28 Dec 2025 07:42:42 GMT | NC3 2025 CTF – BOOT2ROOT- SantaShield 1, 2 & 3 Write-Up | Eibe | [Read More](https://medium.com/p/134bb89c6952) |
-| Sun, 28 Dec 2025 07:38:14 GMT | Cyber Attacks in 2025: The Year Digital Trust Was Put on Trial | EINITIAL24 | [Read More](https://medium.com/p/601838cd6c5e) |
-| Sun, 28 Dec 2025 07:35:54 GMT | TryHackMe: Year of the Dog Writeup | cbev | [Read More](https://medium.com/p/a7c80df6c45d) |
-| Sun, 28 Dec 2025 07:27:02 GMT | After the Palmyra Attack, Syria’s Unlikely Partnership With the U.S. Hangs in the Balance | Rahala Insights | [Read More](https://medium.com/p/73d37950e96a) |
-| Sun, 28 Dec 2025 07:23:58 GMT | How HIT Leaders Balance Cyber & Business Continuity Risks | Linda A. Ivri | [Read More](https://medium.com/p/6064b6782cd2) |
-| Sun, 28 Dec 2025 07:23:00 GMT | From Hacker to CEO: Tal Kollender’s Mission to Secure Configurations | Linda A. Ivri | [Read More](https://medium.com/p/15006f5c0f1c) |
