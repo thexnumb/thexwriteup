@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 04:43:34 GMT | Unlocking the Power of Netdiscover: Advanced Recon Techniques for Pentesters | Cybeague Technologies | [Read More](https://medium.com/p/f02dd76b84ca) |
+| Sun, 28 Dec 2025 04:42:41 GMT | Getting Started with Netdiscover: The Fast Lane to Network Scanning | Cybeague Technologies | [Read More](https://medium.com/p/485497965805) |
+| Sun, 28 Dec 2025 04:38:06 GMT | CEHv12: Evading IDS, Firewalls, and Honeypots (Practised) (Module 12) | Aditya Kumar | [Read More](https://medium.com/p/acfb8a820b9b) |
+| Sun, 28 Dec 2025 04:24:03 GMT | Port Taramasından CVE Sömürüsüne: Metodolojik Bir Sızma Testi Analizi | isaergisi | [Read More](https://medium.com/p/e0f32abdfffc) |
+| Sun, 28 Dec 2025 04:02:25 GMT | Poland’s Minefields: The End of Europe’s Post-Cold War Illusion | The Political Nexus | [Read More](https://medium.com/p/1ab56ad20ce4) |
+| Sun, 28 Dec 2025 03:55:55 GMT | HTB CAPE Exam: An Honest, No-Hype Review from a Pentester’s Perspective 2025 | Rio Darmawan | [Read More](https://medium.com/p/2c63dd08b8c4) |
 | Sun, 28 Dec 2025 03:32:49 GMT | Blogger website में post rank kaise karen Hindi 2026 | Jayantipagi | [Read More](https://medium.com/p/a02c31ceb3ed) |
 | Sun, 28 Dec 2025 03:32:23 GMT | ShadowRay 2.0: How an Unauthenticated AI Framework Became a Global Botnet | Deven Chhajed | [Read More](https://medium.com/p/34b9f05681f3) |
 | Sun, 28 Dec 2025 03:02:27 GMT | The Gunslinger’s Manual: Metasploit and the Weight of the Tool | Samina Perveen | [Read More](https://medium.com/p/b5cc2e6db105) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 16:27:14 GMT | What Happens After HTTPS? How Secure Connections Really work Work | Codeandcontext | [Read More](https://medium.com/p/6603609b7ed7) |
 | Sat, 27 Dec 2025 16:26:10 GMT | AI & LLM Security Explained Simply : Every Major Attack ⚠️ and How We Fix It ️ | Venkatkumar (VK) | [Read More](https://medium.com/p/be75cd91ac1b) |
 | Sat, 27 Dec 2025 16:21:00 GMT | Relevant — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/6fb78151619f) |
-| Sat, 27 Dec 2025 16:18:12 GMT | Mastering Passive Recon in Information Gathering | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/c5af6e02a952) |
-| Sat, 27 Dec 2025 16:11:55 GMT | Ethical Hacker Career Switch Stories | Girish Dhamane | [Read More](https://medium.com/p/477cc544be50) |
-| Sat, 27 Dec 2025 16:08:26 GMT | FortiGate Firewall Politikalarının Anatomisi | Batuhan KURU | [Read More](https://medium.com/p/718576387d04) |
-| Sat, 27 Dec 2025 16:08:01 GMT | I Hacked My Own Flutter App: What I Found Shocked Me | Pinki Singh | [Read More](https://medium.com/p/0abc0ce0beaa) |
-| Sat, 27 Dec 2025 16:05:55 GMT | No Cybersecurity Model Can Work Without Real National Sovereignty | Medjue Gore | [Read More](https://medium.com/p/e9006d3ab568) |
-| Sat, 27 Dec 2025 16:04:41 GMT | The Epstein Files: Here We Go Again with Broken Redactions | OluwapelumiOyerinde | [Read More](https://medium.com/p/eed4cd85f211) |
