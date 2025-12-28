@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 22:34:59 GMT | [CyberSec] AI Solutions Comparison for Security Operations (SOC) | Pietro Romano / SecBeret | [Read More](https://medium.com/p/53d83874f610) |
+| Sun, 28 Dec 2025 22:34:51 GMT | Thread Name Calling Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/ed5514d3873f) |
+| Sun, 28 Dec 2025 22:33:58 GMT | Baby  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/3cdf8a830b7d) |
+| Sun, 28 Dec 2025 22:32:41 GMT | Anti-Malware Sandboxing Analysis | Esra Kayhan | [Read More](https://medium.com/p/119ba3ef76fa) |
+| Sun, 28 Dec 2025 22:32:22 GMT | Vulnerability Scan False-Positive Management | Esra Kayhan | [Read More](https://medium.com/p/18dfc6c7b0ad) |
 | Sun, 28 Dec 2025 22:13:52 GMT | Nikto Lab: 3 Web Security Lessons Every Hacker Needs | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/b57a44e6819d) |
 | Sun, 28 Dec 2025 22:12:20 GMT | Domain Admin Her Yerde: Siber Saldırganların En Sevdiği Senaryo ve Tier Model Çözümü | Mustafa Gokalp Mutlu | [Read More](https://medium.com/p/85a695d5faca) |
 | Sun, 28 Dec 2025 22:07:41 GMT | Why Eastern Europe Builds the World’s Best Cybersecurity ️ | Pramodh Casanova | [Read More](https://medium.com/p/a3139f913fe0) |
 | Sun, 28 Dec 2025 21:55:29 GMT | Malware Reverse Engineering Infrastructure | bl77rd | [Read More](https://medium.com/p/11b97407dc1f) |
+| Sun, 28 Dec 2025 21:50:46 GMT | Reflexiones del 2025 y novedades de cara al 2026 | Tiziano Mass | [Read More](https://medium.com/p/d74d122dd696) |
 | Sun, 28 Dec 2025 21:50:19 GMT | From Reverse DNS to Super Admin: How I Earned $7,500 Finding an Exposed Admin Panel | Ahmed Ghadban | [Read More](https://medium.com/p/22500c65fe27) |
 | Sun, 28 Dec 2025 21:27:22 GMT | CyberTalents — Evil Rick writeup | Abdelrahman Zourob | [Read More](https://medium.com/p/9fe581720b27) |
 | Sun, 28 Dec 2025 21:24:53 GMT | The Cost of Being the Person Everyone Calls During a Crisis: Invisible Battle Scars of the Human… | Santhosh Adiga U | [Read More](https://medium.com/p/719499f117fa) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 13:51:20 GMT | R8/ProGuard in Expo: The Complete Guide to Code Minification | codsod | [Read More](https://medium.com/p/45d5aa2a23c5) |
 | Sun, 28 Dec 2025 13:37:49 GMT | More About Passive Information Gathering | Lutsvia | [Read More](https://medium.com/p/1497604b1d55) |
 | Sun, 28 Dec 2025 13:32:21 GMT | Your Website Might Be Leaking Its Source Code (.git Explained) | D3athCod3 | [Read More](https://medium.com/p/3b32faf033d0) |
-| Sun, 28 Dec 2025 13:15:00 GMT | LLM Poisoning: When AI Learns the Wrong Lessons | LifeInDrafts | [Read More](https://medium.com/p/3958dc961d7f) |
-| Sun, 28 Dec 2025 13:09:38 GMT | Turkey’s Transformation in NATO Relations: A New Era Begins | Ebru | [Read More](https://medium.com/p/5a29f23b7943) |
-| Sun, 28 Dec 2025 13:05:11 GMT | Free Web Encryption: 10 Years of Let’s Encrypt | Can Artuc | [Read More](https://medium.com/p/e93a13c63f3b) |
-| Sun, 28 Dec 2025 13:00:30 GMT | TLS vs End-to-End API Encryption: How It Works, Why, and When It Matters | Afolabi Paul | [Read More](https://medium.com/p/47b864ed6c8d) |
-| Sun, 28 Dec 2025 12:58:32 GMT | Ring Indoor Cam Plus — Honest Review | Mohamed Hossam | [Read More](https://medium.com/p/383cb5b08dec) |
-| Sun, 28 Dec 2025 12:44:09 GMT | Noël, un Flipper Zero et un robot piraté : replay attack en 30 secondes | RAPATT | [Read More](https://medium.com/p/5642b9c4d5a4) |
