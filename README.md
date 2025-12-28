@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 18:59:18 GMT | Google Appspot XSS CTF Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/1c0f32dfd30a) |
+| Sun, 28 Dec 2025 18:54:54 GMT | Your Website Isn’t Weak — Your Decisions Are | Ali.Yurie | [Read More](https://medium.com/p/d20dea69a241) |
+| Sun, 28 Dec 2025 18:54:13 GMT | The Lie of Democratization | Nicholas Armstrong | [Read More](https://medium.com/p/9e6c2cb5386e) |
+| Sun, 28 Dec 2025 18:53:53 GMT | Would You Accept Total Surveillance if Crime Disappeared? | Andreea Benu | [Read More](https://medium.com/p/6c23f7a56174) |
+| Sun, 28 Dec 2025 18:48:50 GMT | I Secured a Website Without Touching the Code — Here’s What Most Owners Miss ️ | Ali.Yurie | [Read More](https://medium.com/p/04bff0c308da) |
+| Sun, 28 Dec 2025 18:45:20 GMT | The macOS Concept Journey — File System Domains | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/487d78220fa1) |
+| Sun, 28 Dec 2025 18:36:48 GMT | Rooftops and Rabbit Holes: A Day of Extremes | JAN: Just Another Number | [Read More](https://medium.com/p/937d4393b7c5) |
+| Sun, 28 Dec 2025 18:33:57 GMT | AI Tools & Productivity in Higher Education: Enhancing Teaching, Learning, and Research in the 21st… | Ismat Ara Shama | [Read More](https://medium.com/p/efcf5e31a52f) |
+| Sun, 28 Dec 2025 18:32:04 GMT | Extend Your Computer’s Life Without New Hardware | Geoffrey Wenger | [Read More](https://medium.com/p/1927a704f991) |
 | Sun, 28 Dec 2025 18:22:25 GMT | From Information to Intelligence: How IT Quietly Changed Meaning | Raja | [Read More](https://medium.com/p/720e91c622f1) |
+| Sun, 28 Dec 2025 18:18:38 GMT | SOC Analyst Case Study: Dissecting a “419” Phishing Attack | Omar Ait Ben Iyche | [Read More](https://medium.com/p/0e432006c2ec) |
 | Sun, 28 Dec 2025 18:18:27 GMT | USOM Zararlı Bağlantı Listesi Entegrasyonu — FortiGate Firewall | Batuhan KURU | [Read More](https://medium.com/p/2237546f2365) |
 | Sun, 28 Dec 2025 18:14:18 GMT | How to poison an AI model? | Annie Richter | [Read More](https://medium.com/p/28e5f3a001c7) |
 | Sun, 28 Dec 2025 18:11:16 GMT | Faster, Smarter Security: How Real-Time Tracking Innovations Are Saving Seconds and Lives | Teona | [Read More](https://medium.com/p/311623e651fc) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 10:21:40 GMT | Behavior-Based Abuse Detection in PHP Without IP Blocking | Asian Digital Hub | [Read More](https://medium.com/p/9dc8765567f9) |
 | Sun, 28 Dec 2025 10:15:40 GMT | Cross-Site Scripting (XSS) - Vulnerability | AJ GUIN | [Read More](https://medium.com/p/ba11a5e6fcdb) |
 | Sun, 28 Dec 2025 10:15:10 GMT | Cybersecurity Risk Analysis | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/ac9c9e3f8162) |
-| Sun, 28 Dec 2025 10:14:07 GMT | Cybersecurity Trends and Threats in 2026 | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/897ca4171e43) |
-| Sun, 28 Dec 2025 10:05:55 GMT | SecPlayground — BloodyXmas 2025 CTF Write-up [Web Application Secuirty] by dekcart_i | d3kc4rt_1 | [Read More](https://medium.com/p/b7665750686f) |
-| Sun, 28 Dec 2025 10:05:07 GMT | Best Facebook Proxies for 2026: Types, Use Cases, and a Safer Selection Checklist | CryptoTether | [Read More](https://medium.com/p/8d608b009bfa) |
-| Sun, 28 Dec 2025 10:02:27 GMT | Nigeria Can Bomb Abroad but Cannot Protect Its Own People | Chizindu Morris | [Read More](https://medium.com/p/90c262fd7ec1) |
-| Sun, 28 Dec 2025 09:45:37 GMT | Kafka | Supriti | [Read More](https://medium.com/p/b91d1709a05b) |
-| Sun, 28 Dec 2025 09:42:36 GMT | ️ Twenty Days in the Void: How I Compromised NASA and Earned a Recognition Letter | Vaibhav Kubade | [Read More](https://medium.com/p/d44cd66a7cb5) |
-| Sun, 28 Dec 2025 09:34:22 GMT | What Is Cybersecurity and Why It Is Critical in Today’s World | Stealth0x0f | [Read More](https://medium.com/p/5fc8d777c59a) |
-| Sun, 28 Dec 2025 09:32:22 GMT | The Biggest Mistake 90% of OSCP Learners Make… | RedTeam Chronicle | [Read More](https://medium.com/p/c674edafbc00) |
-| Sun, 28 Dec 2025 09:26:17 GMT | You Don’t Understand the OSI Model (And It’s Not Your Fault) | Krish Gupta | [Read More](https://medium.com/p/c033bfa55ab1) |
-| Sun, 28 Dec 2025 09:18:44 GMT | Web shell upload via Content-Type restriction bypass | Muhammad Zain | [Read More](https://medium.com/p/e210c3ecae43) |
