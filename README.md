@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 09:34:22 GMT | What Is Cybersecurity and Why It Is Critical in Today’s World | Stealth0x0f | [Read More](https://medium.com/p/5fc8d777c59a) |
+| Sun, 28 Dec 2025 09:32:22 GMT | The Biggest Mistake 90% of OSCP Learners Make… | RedTeam Chronicle | [Read More](https://medium.com/p/c674edafbc00) |
+| Sun, 28 Dec 2025 09:26:17 GMT | You Don’t Understand the OSI Model (And It’s Not Your Fault) | Krish Gupta | [Read More](https://medium.com/p/c033bfa55ab1) |
+| Sun, 28 Dec 2025 09:18:44 GMT | Web shell upload via Content-Type restriction bypass | Muhammad Zain | [Read More](https://medium.com/p/e210c3ecae43) |
+| Sun, 28 Dec 2025 09:11:34 GMT | PortSwigger Web Security Academy — CSRF Lab 3 Write-Up | Mann24> | [Read More](https://medium.com/p/a5675a64c057) |
+| Sun, 28 Dec 2025 09:10:04 GMT | Cybersecurity in 2026 Is Not What You Think (Hard Truths) | Taimur Ijlal | [Read More](https://medium.com/p/93102257e709) |
 | Sun, 28 Dec 2025 09:02:26 GMT | Stop Account Takeovers Before They Happen: Catch Leaked Logins Early (In Plain English) | Alexandre Vandamme | [Read More](https://medium.com/p/0e50ebc4f983) |
 | Sun, 28 Dec 2025 09:01:18 GMT | Cybersecurity Services for Complete Digital Protection | zynextro | [Read More](https://medium.com/p/f02c99bd8e73) |
 | Sun, 28 Dec 2025 09:00:16 GMT | Techniques to persist and retrieve client_id in Spring Security’s RequestCache during OAuth… | Anh Trần Tuấn | [Read More](https://medium.com/p/df7f87c47deb) |
+| Sun, 28 Dec 2025 08:59:59 GMT | FortiGate en Production — Partie 1 : Architecture à Trois Zones et Politiques de Sécurité | Yasmine kechid | [Read More](https://medium.com/p/c984c07ef922) |
 | Sun, 28 Dec 2025 08:58:58 GMT | Bilkul bhai 
 Neeche FINAL version de raha hoon — copy-paste ready,
 Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a93bf836cb6) |
@@ -109,10 +116,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sat, 27 Dec 2025 22:52:22 GMT | MongoBleed (CVE‑2025‑14847): A Pre‑Auth MongoDB Memory Leak You Can Hunt at Scale | Black1hp | [Read More](https://medium.com/p/c8faa00f2bdd) |
 | Sat, 27 Dec 2025 22:45:56 GMT | 2025: The Year Cybersecurity Lost the War Against Machines (And No One Noticed) | Michelle G Andrade | [Read More](https://medium.com/p/dc7459003f98) |
 | Sat, 27 Dec 2025 22:36:41 GMT | CodePartTwo HTB Walkthrough | Death Esther | [Read More](https://medium.com/p/000dcf2a261d) |
-| Sat, 27 Dec 2025 22:32:25 GMT | Windows Internals | TheNotorious | [Read More](https://medium.com/p/55b213061918) |
-| Sat, 27 Dec 2025 22:09:31 GMT | The Cloud Blind Spots That Keep Burning DFIR Teams | Elias Gray | [Read More](https://medium.com/p/7a702b872b36) |
-| Sat, 27 Dec 2025 22:08:55 GMT | Multi-step Automation for SOAR: An Automated Journey from Alert to Response | Esra Kayhan | [Read More](https://medium.com/p/37e1c409bf05) |
-| Sat, 27 Dec 2025 22:08:11 GMT | Advanced WAF Rule Engine Management: The Thin Line Between Security and Usability ️️ | Esra Kayhan | [Read More](https://medium.com/p/6c717607743e) |
-| Sat, 27 Dec 2025 21:56:24 GMT | Loss of Intent as a Failure Mode in OWASPs Agentic AI Risks (2026) | Parminder Singh | [Read More](https://medium.com/p/135a9053a595) |
-| Sat, 27 Dec 2025 21:51:29 GMT | Are You Ready for the 2026 OT Cyber Compliance Wave? | Muhammad Ali Khan | [Read More](https://medium.com/p/ddd0f05c092e) |
-| Sat, 27 Dec 2025 21:35:13 GMT | DevSecOps in the Age of LLMs: You’re Not Secure Just Because You Have AI | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/33495f28d76d) |
