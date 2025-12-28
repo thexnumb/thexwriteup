@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 03:32:49 GMT | Blogger website में post rank kaise karen Hindi 2026 | Jayantipagi | [Read More](https://medium.com/p/a02c31ceb3ed) |
+| Sun, 28 Dec 2025 03:32:23 GMT | ShadowRay 2.0: How an Unauthenticated AI Framework Became a Global Botnet | Deven Chhajed | [Read More](https://medium.com/p/34b9f05681f3) |
+| Sun, 28 Dec 2025 03:02:27 GMT | The Gunslinger’s Manual: Metasploit and the Weight of the Tool | Samina Perveen | [Read More](https://medium.com/p/b5cc2e6db105) |
+| Sun, 28 Dec 2025 02:29:36 GMT | I Pay Too Much For Website Hosting (And It’s Not ONLY About the Money) | Cheryl Abram | [Read More](https://medium.com/p/942726c1df03) |
+| Sun, 28 Dec 2025 02:23:39 GMT | Root and run NodeJS on a Pixel 3XL | Asbed Boymoushakian | [Read More](https://medium.com/p/1416c6e4e6e3) |
+| Sun, 28 Dec 2025 02:16:54 GMT | [SECPlayground Bloody XMas CTF 2025] Pentest Write-ups | BXDMAN | [Read More](https://medium.com/p/825cd8dfedc4) |
+| Sun, 28 Dec 2025 02:07:57 GMT | How to be notified when lengthy command-line tasks are completed? | Allan Zeidler | [Read More](https://medium.com/p/c94108780b1f) |
+| Sun, 28 Dec 2025 02:06:45 GMT | Driving Digital Empowerment Through Cybersecurity Innovation in Insurance : A Comprehensive Guide… | Chetan Ratnawat | [Read More](https://medium.com/p/7f7e5edc678f) |
+| Sun, 28 Dec 2025 01:58:44 GMT | Yours | Bionca | [Read More](https://medium.com/p/a8f10217b48b) |
 | Sun, 28 Dec 2025 01:44:26 GMT | Finding My First P3 Bug at NASA in My First Week of Bug Hunting | Sai Jayanth | [Read More](https://medium.com/p/00e60a2ed4fd) |
 | Sun, 28 Dec 2025 01:28:51 GMT | Why We Tell Strangers What We Hide From Friends | Bella Smith ⭐ | [Read More](https://medium.com/p/8bddd15522ca) |
 | Sun, 28 Dec 2025 01:09:56 GMT | MITRE ATT&CK | Asgar Mammadov | [Read More](https://medium.com/p/f61a876508b3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Dec 2025 16:08:01 GMT | I Hacked My Own Flutter App: What I Found Shocked Me | Pinki Singh | [Read More](https://medium.com/p/0abc0ce0beaa) |
 | Sat, 27 Dec 2025 16:05:55 GMT | No Cybersecurity Model Can Work Without Real National Sovereignty | Medjue Gore | [Read More](https://medium.com/p/e9006d3ab568) |
 | Sat, 27 Dec 2025 16:04:41 GMT | The Epstein Files: Here We Go Again with Broken Redactions | OluwapelumiOyerinde | [Read More](https://medium.com/p/eed4cd85f211) |
-| Sat, 27 Dec 2025 16:02:27 GMT | Your Phone Isn’t Eavesdropping. It’s Just Better at Being You Than You Are… | Usamah Moin | [Read More](https://medium.com/p/5b3f3150ed28) |
-| Sat, 27 Dec 2025 15:59:13 GMT | K8s-Auth-Report: Don’t Fly Blind with Kubernetes Permissions | Omar Din | [Read More](https://medium.com/p/af8d4e16f3c9) |
-| Sat, 27 Dec 2025 15:56:18 GMT | The Top 10 Security Settings Every Apple User Should Enable in 2026 | Configr Technologies | [Read More](https://medium.com/p/e7ce6af79231) |
-| Sat, 27 Dec 2025 15:53:06 GMT | Why Bubble Sort is the Algorithm We Love to Forget | Night Thinker | [Read More](https://medium.com/p/53f51835ef11) |
-| Sat, 27 Dec 2025 15:52:05 GMT | Understanding SQL Injection Through Hands-On Practice (DVWA) | Maria Sagwa | [Read More](https://medium.com/p/d074bd50f4af) |
-| Sat, 27 Dec 2025 15:52:00 GMT | Access Control Vulnerabilities in Smart Contracts | Vinaysati | [Read More](https://medium.com/p/3b474e0c47ea) |
-| Sat, 27 Dec 2025 15:39:46 GMT | Weekend special Episode 5: A Glitch in Paris. | Shobha Pai | [Read More](https://medium.com/p/3726d96187f6) |
-| Sat, 27 Dec 2025 15:35:18 GMT | When “Sign in with Google” Signed Me Into Someone Else’s Account | Sabna | [Read More](https://medium.com/p/cb29134328f3) |
-| Sat, 27 Dec 2025 15:32:22 GMT | History Leading to the TCP/IP Model | azrecon_ | [Read More](https://medium.com/p/157e06ac50d0) |
