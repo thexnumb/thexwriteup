@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 23:33:32 GMT | Why Your Browser VPN is a Security Risk (And How dVPNs are Changing the Game) | Affryn Kalya | [Read More](https://medium.com/p/c8e114438640) |
+| Sun, 28 Dec 2025 23:28:53 GMT | Kariyerinin Başında Birinden eWPT İncelemesi | Tuba ÜNSAL | [Read More](https://medium.com/p/dac53d609c8b) |
+| Sun, 28 Dec 2025 23:22:21 GMT | How Do We Prove Self-Driving Cars Are Safe? The Verification Challenge | Shujaatali Badami | [Read More](https://medium.com/p/e8411d3290bb) |
+| Sun, 28 Dec 2025 23:17:13 GMT | Απόφαση-Βόμβα: Πώς το Πρωτοδικείο Αθηνών Υποχρεώνει τις Τράπεζες να Πληρώσουν τα Θύματα Phishing… | Georgios Perrakis | [Read More](https://medium.com/p/90ac86178dc4) |
 | Sun, 28 Dec 2025 23:02:16 GMT | i never realized how much darkness lived in this story i once called elation | odyssey of silence | [Read More](https://medium.com/p/014b8458c03c) |
 | Sun, 28 Dec 2025 22:51:23 GMT | Why I spent my evenings building Blink while my kids were asleep | Yusufkhanjee | [Read More](https://medium.com/p/7a464832cfec) |
 | Sun, 28 Dec 2025 22:50:38 GMT | DotnetFastMCP: From ‘Fast Lane’ to ‘Secure Lane’ with Authentication | Gagan Bajaj | [Read More](https://medium.com/p/670c3223230e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 14:59:55 GMT | Wireless Security: The Invisible Battlefield in Your Pocket | Satyam Singh | [Read More](https://medium.com/p/12f14313447e) |
 | Sun, 28 Dec 2025 14:53:28 GMT | Why Database TLS Matters When Your Server and Database Are Separated | YRAV | [Read More](https://medium.com/p/5b8c8c45ef69) |
 | Sun, 28 Dec 2025 14:37:23 GMT | SentryPC Features Explained: Unlocking Full Monitoring & Screen Time Control for Parents… | Paul Meyer | [Read More](https://medium.com/p/767b6b97d085) |
-| Sun, 28 Dec 2025 14:35:20 GMT | Bandit Level 6 → 7: Stop Searching, Start Finding | Sivanesan M | [Read More](https://medium.com/p/5a764923c0f1) |
-| Sun, 28 Dec 2025 14:26:05 GMT | Dhananjay is the owner and creator of CyberWiseHub, a digital platform focused on ethical hacking… | Dhananjay Singh Netam | [Read More](https://medium.com/p/705ff5db17c0) |
-| Sun, 28 Dec 2025 14:19:49 GMT | A Smart and Cost-Effective Approach to Modern Surveillance Systems | Tavan CCTV | [Read More](https://medium.com/p/4303dd68b180) |
-| Sun, 28 Dec 2025 14:15:39 GMT | Featured Chrome Extensions Are Reading Your AI Chats Before You See Them (10 Mins Fix) | Mohamed Bakry | [Read More](https://medium.com/p/1762c2a31061) |
