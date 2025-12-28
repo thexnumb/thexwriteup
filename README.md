@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 23:02:16 GMT | i never realized how much darkness lived in this story i once called elation | odyssey of silence | [Read More](https://medium.com/p/014b8458c03c) |
+| Sun, 28 Dec 2025 22:51:23 GMT | Why I spent my evenings building Blink while my kids were asleep | Yusufkhanjee | [Read More](https://medium.com/p/7a464832cfec) |
+| Sun, 28 Dec 2025 22:50:38 GMT | DotnetFastMCP: From ‘Fast Lane’ to ‘Secure Lane’ with Authentication | Gagan Bajaj | [Read More](https://medium.com/p/670c3223230e) |
+| Sun, 28 Dec 2025 22:42:39 GMT | Host Header Injection in Password Reset Function Leading to Account Takeover and Blind SSRF | Mahmoud Gamal | [Read More](https://medium.com/p/b63ed248b93a) |
+| Sun, 28 Dec 2025 22:42:19 GMT | Why IT Managed Services in Fontana Start Every Security Plan with a Network Assessment | Zeta Sky | [Read More](https://medium.com/p/c5227553c621) |
+| Sun, 28 Dec 2025 22:38:43 GMT | What I Wish I Understood Before Starting a Master’s in Cybersecurity | Abhang Mandwale | [Read More](https://medium.com/p/3edec20d428e) |
 | Sun, 28 Dec 2025 22:34:59 GMT | [CyberSec] AI Solutions Comparison for Security Operations (SOC) | Pietro Romano / SecBeret | [Read More](https://medium.com/p/53d83874f610) |
 | Sun, 28 Dec 2025 22:34:51 GMT | Thread Name Calling Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/ed5514d3873f) |
 | Sun, 28 Dec 2025 22:33:58 GMT | Baby  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/3cdf8a830b7d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 14:26:05 GMT | Dhananjay is the owner and creator of CyberWiseHub, a digital platform focused on ethical hacking… | Dhananjay Singh Netam | [Read More](https://medium.com/p/705ff5db17c0) |
 | Sun, 28 Dec 2025 14:19:49 GMT | A Smart and Cost-Effective Approach to Modern Surveillance Systems | Tavan CCTV | [Read More](https://medium.com/p/4303dd68b180) |
 | Sun, 28 Dec 2025 14:15:39 GMT | Featured Chrome Extensions Are Reading Your AI Chats Before You See Them (10 Mins Fix) | Mohamed Bakry | [Read More](https://medium.com/p/1762c2a31061) |
-| Sun, 28 Dec 2025 14:08:05 GMT | Yemeksepeti hack’inin izini sürmek | Alp Börü | [Read More](https://medium.com/p/75b3cf196a4a) |
-| Sun, 28 Dec 2025 14:04:43 GMT | Beyond the Blocklist: Configurable Safety Pipelines for Modern Content Systems — A ZeroGPU Usecase | Maddy | [Read More](https://medium.com/p/1a61d484783e) |
-| Sun, 28 Dec 2025 13:59:29 GMT | How Security Guard Presence Helps Reduce Insurance Claims for Brampton Businesses | Diligent Security Services | [Read More](https://medium.com/p/428bd9c8dbb9) |
-| Sun, 28 Dec 2025 13:51:20 GMT | R8/ProGuard in Expo: The Complete Guide to Code Minification | codsod | [Read More](https://medium.com/p/45d5aa2a23c5) |
-| Sun, 28 Dec 2025 13:37:49 GMT | More About Passive Information Gathering | Lutsvia | [Read More](https://medium.com/p/1497604b1d55) |
-| Sun, 28 Dec 2025 13:32:21 GMT | Your Website Might Be Leaking Its Source Code (.git Explained) | D3athCod3 | [Read More](https://medium.com/p/3b32faf033d0) |
