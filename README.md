@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 15:32:23 GMT | Overview of the TCP/IP Networking Model | azrecon_ | [Read More](https://medium.com/p/48b916e8c72b) |
+| Sun, 28 Dec 2025 15:27:25 GMT | Amazon Reports 1,800 North Korean Hacker Applications for Remote IT Jobs.. | Krono | [Read More](https://medium.com/p/f9dce6d40196) |
 | Sun, 28 Dec 2025 15:19:40 GMT | Bypassing Windows Defender during Christmas 2025: Shellcode loader with Alternate Data Stream | thoms | [Read More](https://medium.com/p/be8a0b36bd72) |
 | Sun, 28 Dec 2025 15:18:08 GMT | Scanning for Web Vulnerabilities with Nikto: A Hands-On Lab Experience | Edwin Atali | [Read More](https://medium.com/p/1a16235dd046) |
 | Sun, 28 Dec 2025 15:07:34 GMT | The Dark Side of Working in a SOC: A Day in My Life as a SOC Analyst | NineTales | [Read More](https://medium.com/p/658e2c386e3d) |
@@ -97,6 +99,7 @@ Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a9
 | Sun, 28 Dec 2025 08:28:43 GMT | How I’d Rebuild My SOC Career from Zero in the AI Era | Denny Roger | [Read More](https://medium.com/p/ce3e57fd8b93) |
 | Sun, 28 Dec 2025 08:23:37 GMT | Setting Up OpenEDR with ELK Integration | Panagiotis Fiskilis | [Read More](https://medium.com/p/feeffa1e891b) |
 | Sun, 28 Dec 2025 08:20:09 GMT | React2Shell (CVE-2025–55182) Security Alert: Critical RCE in React and Next.js | Ankit | [Read More](https://medium.com/p/ef006356376e) |
+| Sun, 28 Dec 2025 08:13:44 GMT | Subzy Tool | bangfusk | [Read More](https://medium.com/p/c6f762bcbfb3) |
 | Sun, 28 Dec 2025 08:12:36 GMT | Passkeys and the Quiet Erosion of Digital Sovereignty | Gayan Karunarathna | [Read More](https://medium.com/p/b4efd37f18d2) |
 | Sun, 28 Dec 2025 08:12:12 GMT | The QR Code Trap: How I Forced a Major Brand to Host My Phishing Links (And Why It Got Rejected) | Zer0Figure | [Read More](https://medium.com/p/47aa2d0c2991) |
 | Sun, 28 Dec 2025 08:09:57 GMT | The day our logins started failing: a calm framework for ISP static vs rotating residential | Gabriele Wayner | [Read More](https://medium.com/p/a4901473e075) |
@@ -112,6 +115,3 @@ Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a9
 | Sun, 28 Dec 2025 07:27:02 GMT | After the Palmyra Attack, Syria’s Unlikely Partnership With the U.S. Hangs in the Balance | Rahala Insights | [Read More](https://medium.com/p/73d37950e96a) |
 | Sun, 28 Dec 2025 07:23:58 GMT | How HIT Leaders Balance Cyber & Business Continuity Risks | Linda A. Ivri | [Read More](https://medium.com/p/6064b6782cd2) |
 | Sun, 28 Dec 2025 07:23:00 GMT | From Hacker to CEO: Tal Kollender’s Mission to Secure Configurations | Linda A. Ivri | [Read More](https://medium.com/p/15006f5c0f1c) |
-| Sun, 28 Dec 2025 07:20:50 GMT | Analyzing a LinkedIn Phishing Attempt | CyberSum | [Read More](https://medium.com/p/5c71d9cf86df) |
-| Sun, 28 Dec 2025 07:15:43 GMT | [LetsDefend Write-up] AS-REP Challenge | Chicken0248 | [Read More](https://medium.com/p/9cc923f7b80e) |
-| Sun, 28 Dec 2025 07:12:51 GMT | [LetsDefend Write-up]Golden Ticket | Chicken0248 | [Read More](https://medium.com/p/f082971a17ce) |
