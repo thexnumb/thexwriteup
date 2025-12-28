@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 14:37:23 GMT | SentryPC Features Explained: Unlocking Full Monitoring & Screen Time Control for Parents… | Paul Meyer | [Read More](https://medium.com/p/767b6b97d085) |
+| Sun, 28 Dec 2025 14:26:05 GMT | Dhananjay is the owner and creator of CyberWiseHub, a digital platform focused on ethical hacking… | Dhananjay Singh Netam | [Read More](https://medium.com/p/705ff5db17c0) |
+| Sun, 28 Dec 2025 14:19:49 GMT | A Smart and Cost-Effective Approach to Modern Surveillance Systems | Tavan CCTV | [Read More](https://medium.com/p/4303dd68b180) |
+| Sun, 28 Dec 2025 14:15:39 GMT | Featured Chrome Extensions Are Reading Your AI Chats Before You See Them (10 Mins Fix) | Mohamed Bakry | [Read More](https://medium.com/p/1762c2a31061) |
 | Sun, 28 Dec 2025 14:08:05 GMT | Yemeksepeti hack’inin izini sürmek | Alp Börü | [Read More](https://medium.com/p/75b3cf196a4a) |
 | Sun, 28 Dec 2025 14:04:43 GMT | Beyond the Blocklist: Configurable Safety Pipelines for Modern Content Systems — A ZeroGPU Usecase | Maddy | [Read More](https://medium.com/p/1a61d484783e) |
 | Sun, 28 Dec 2025 13:59:29 GMT | How Security Guard Presence Helps Reduce Insurance Claims for Brampton Businesses | Diligent Security Services | [Read More](https://medium.com/p/428bd9c8dbb9) |
@@ -112,7 +116,3 @@ Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a9
 | Sun, 28 Dec 2025 06:59:42 GMT | “Why Cybersecurity Training Without Real Incidents Is a Waste of Time”
 Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/834670449266) |
 | Sun, 28 Dec 2025 06:59:29 GMT | Basic Cyber Security: Digital Threats Are Closer Than We Think | Siti Azizah | [Read More](https://medium.com/p/b9e4e7aa3660) |
-| Sun, 28 Dec 2025 06:53:32 GMT | Perfect Bug Report Toolkit: 10 Templates for Fast Triages Every Hacker Needs | Very Lazy Tech | [Read More](https://medium.com/p/30e0dc1b4e7f) |
-| Sun, 28 Dec 2025 06:53:22 GMT | A Phased Roadmap for Implementing Cyber Insurance in Iran | Armin Mehraeen | [Read More](https://medium.com/p/bc82d2dfcd39) |
-| Sun, 28 Dec 2025 06:40:34 GMT | List of top-rated books recommended by ethical hacking experts in 2026 | cyber security Updates | [Read More](https://medium.com/p/4583444d6858) |
-| Sun, 28 Dec 2025 06:25:42 GMT | From Monitoring to Intelligence: The Role of AI in Preventing Industrial Accidents | Dolon Ghosh | [Read More](https://medium.com/p/6361f2edae13) |
