@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 12:35:06 GMT | Web Uygulama Güvenliği: Bir Seçenek Değil, Zorunluluk | Nazlı Şam | [Read More](https://medium.com/p/32b6ed46ad76) |
+| Sun, 28 Dec 2025 12:31:20 GMT | The Zoo
+ Inside the Malware Archive Built for Defenders | ghostyjoe | [Read More](https://medium.com/p/0048cc7a81bd) |
+| Sun, 28 Dec 2025 12:28:09 GMT | Ağ Güvenliğinin Temelleri: FortiGate ile Firewall Policy Oluşturma | Hira Ekin Sürcan | [Read More](https://medium.com/p/4266cb5104ab) |
+| Sun, 28 Dec 2025 12:27:17 GMT | Cracking the ZIP — A Digital Forensics Challenge | Siphiwe | [Read More](https://medium.com/p/331ededa11a0) |
+| Sun, 28 Dec 2025 12:14:44 GMT | Biggest Live Hacking Event of the Year(15000$+) | Anonymous Traiger | [Read More](https://medium.com/p/5e63a1357e27) |
+| Sun, 28 Dec 2025 12:05:00 GMT | Tokopedia Proxies (2026): How to Choose, Configure, and Stay Stable for Research & Operations | ChainWhisper | [Read More](https://medium.com/p/48270850b337) |
+| Sun, 28 Dec 2025 12:02:40 GMT | RAG Doesn’t Neutralize Prompt Injection. It Multiplies It. | AhmedAbdelmenem | [Read More](https://medium.com/p/329c91b2e5a3) |
+| Sun, 28 Dec 2025 11:57:25 GMT | Five Signs Your Computer Might Be Hacked — And How to Check It Today (2026 Edition) | Sam Writes Security | [Read More](https://medium.com/p/1a2afd8a172d) |
+| Sun, 28 Dec 2025 11:46:12 GMT | Scope, Legality, and Ethical Hacking: | HASSAN JAHANGEER | [Read More](https://medium.com/p/383aaaa5d140) |
+| Sun, 28 Dec 2025 11:36:50 GMT | How to Become an Ethical Hacker in 2025: Your Complete Career Roadmap | Zunair Usmani | [Read More](https://medium.com/p/34b968c989fa) |
+| Sun, 28 Dec 2025 11:34:51 GMT | Cyber Threat Analysis and Response Training | Manisha Chaudhary | [Read More](https://medium.com/p/580fe4afc91e) |
+| Sun, 28 Dec 2025 11:33:34 GMT | The Anatomy of a Data Breach: What Happens When Your Vault App Gets Hacked | Karol Burdziński | [Read More](https://medium.com/p/c9326f793d0c) |
+| Sun, 28 Dec 2025 11:31:32 GMT | Event Security in Houston | Security Houston | [Read More](https://medium.com/p/0b3384fc89d9) |
 | Sun, 28 Dec 2025 11:28:10 GMT | Ligolo-ng: VPN-Style Tunneling for Pentesters | ghostyjoe | [Read More](https://medium.com/p/24730bdea5d2) |
 | Sun, 28 Dec 2025 11:18:39 GMT | Cyber Security Course | Molletibalu | [Read More](https://medium.com/p/143571a036a5) |
 | Sun, 28 Dec 2025 11:17:15 GMT | Women Who Sing Softly in a World That Forces Us to Harden | Franc.megan | [Read More](https://medium.com/p/3e13cb018313) |
@@ -103,16 +117,3 @@ Most cybersecurity trainings… | Ankit rai | [Read More](https://medium.com/p/8
 | Sun, 28 Dec 2025 04:44:34 GMT | مكتب المحامي الشرعي أحمد عوض الجراح
 تمثيل قانوني شرعي ثابت في الأردن (عمان – إربد – الزرقاء)، بخبرة… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://medium.com/p/adc1bbf7e2f1) |
 | Sun, 28 Dec 2025 04:43:34 GMT | Unlocking the Power of Netdiscover: Advanced Recon Techniques for Pentesters | Cybeague Technologies | [Read More](https://medium.com/p/f02dd76b84ca) |
-| Sun, 28 Dec 2025 04:42:41 GMT | Getting Started with Netdiscover: The Fast Lane to Network Scanning | Cybeague Technologies | [Read More](https://medium.com/p/485497965805) |
-| Sun, 28 Dec 2025 04:38:06 GMT | CEHv12: Evading IDS, Firewalls, and Honeypots (Practised) (Module 12) | Aditya Kumar | [Read More](https://medium.com/p/acfb8a820b9b) |
-| Sun, 28 Dec 2025 04:24:03 GMT | Port Taramasından CVE Sömürüsüne: Metodolojik Bir Sızma Testi Analizi | isaergisi | [Read More](https://medium.com/p/e0f32abdfffc) |
-| Sun, 28 Dec 2025 04:02:25 GMT | Poland’s Minefields: The End of Europe’s Post-Cold War Illusion | The Political Nexus | [Read More](https://medium.com/p/1ab56ad20ce4) |
-| Sun, 28 Dec 2025 03:55:55 GMT | HTB CAPE Exam: An Honest, No-Hype Review from a Pentester’s Perspective 2025 | Rio Darmawan | [Read More](https://medium.com/p/2c63dd08b8c4) |
-| Sun, 28 Dec 2025 03:32:49 GMT | Blogger website में post rank kaise karen Hindi 2026 | Jayantipagi | [Read More](https://medium.com/p/a02c31ceb3ed) |
-| Sun, 28 Dec 2025 03:32:23 GMT | ShadowRay 2.0: How an Unauthenticated AI Framework Became a Global Botnet | Deven Chhajed | [Read More](https://medium.com/p/34b9f05681f3) |
-| Sun, 28 Dec 2025 03:02:27 GMT | The Gunslinger’s Manual: Metasploit and the Weight of the Tool | Samina Perveen | [Read More](https://medium.com/p/b5cc2e6db105) |
-| Sun, 28 Dec 2025 02:29:36 GMT | I Pay Too Much For Website Hosting (And It’s Not ONLY About the Money) | Cheryl Abram | [Read More](https://medium.com/p/942726c1df03) |
-| Sun, 28 Dec 2025 02:23:39 GMT | Root and run NodeJS on a Pixel 3XL | Asbed Boymoushakian | [Read More](https://medium.com/p/1416c6e4e6e3) |
-| Sun, 28 Dec 2025 02:16:54 GMT | [SECPlayground Bloody XMas CTF 2025] Pentest Write-ups | BXDMAN | [Read More](https://medium.com/p/825cd8dfedc4) |
-| Sun, 28 Dec 2025 02:07:57 GMT | How to be notified when lengthy command-line tasks are completed? | Allan Zeidler | [Read More](https://medium.com/p/c94108780b1f) |
-| Sun, 28 Dec 2025 02:06:45 GMT | Driving Digital Empowerment Through Cybersecurity Innovation in Insurance : A Comprehensive Guide… | Chetan Ratnawat | [Read More](https://medium.com/p/7f7e5edc678f) |
