@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Dec 2025 18:22:25 GMT | From Information to Intelligence: How IT Quietly Changed Meaning | Raja | [Read More](https://medium.com/p/720e91c622f1) |
+| Sun, 28 Dec 2025 18:18:27 GMT | USOM Zararlı Bağlantı Listesi Entegrasyonu — FortiGate Firewall | Batuhan KURU | [Read More](https://medium.com/p/2237546f2365) |
+| Sun, 28 Dec 2025 18:14:18 GMT | How to poison an AI model? | Annie Richter | [Read More](https://medium.com/p/28e5f3a001c7) |
+| Sun, 28 Dec 2025 18:11:16 GMT | Faster, Smarter Security: How Real-Time Tracking Innovations Are Saving Seconds and Lives | Teona | [Read More](https://medium.com/p/311623e651fc) |
+| Sun, 28 Dec 2025 18:07:42 GMT | Building SOC-Dashboard | Welart | [Read More](https://medium.com/p/8097490dfb92) |
+| Sun, 28 Dec 2025 18:07:27 GMT | How hackers steal your saved password from your browser | Arpan Pramanik | [Read More](https://medium.com/p/896466b64c07) |
+| Sun, 28 Dec 2025 18:05:02 GMT | I Was Done With Bug Bounty Until This Single Bug Changed Everything | Mohaseen | [Read More](https://medium.com/p/d5bfb65aa974) |
+| Sun, 28 Dec 2025 18:01:15 GMT | The Day I Learned That Security Isn’t About Fear—It’s About Responsibility | Mubashir | [Read More](https://medium.com/p/e649d4df9cda) |
+| Sun, 28 Dec 2025 17:52:16 GMT | Hi, I’m Tonmoy, a Professional Cybersecurity Expert & Certified Ethical Hacker with years of… | Ethical Hacker | [Read More](https://medium.com/p/84a87f76b1f9) |
 | Sun, 28 Dec 2025 17:39:49 GMT | AWS IAM Enumeration mit Pacu Walkthrough | Spookz | [Read More](https://medium.com/p/739efdf9ea78) |
 | Sun, 28 Dec 2025 17:31:29 GMT | OSINT Challenge-Geo-location Exercise #001 | SHUBHAM | [Read More](https://medium.com/p/dea3d16bb2fe) |
+| Sun, 28 Dec 2025 17:29:15 GMT | Your car used to be simple: engine, wheels, keys. | Charles Dennis | [Read More](https://medium.com/p/fa2d0d660d45) |
 | Sun, 28 Dec 2025 17:20:35 GMT | Active Directory Lab and attacks — From Beginner to Intermediate | Nashra | [Read More](https://medium.com/p/d3234deb7c2d) |
 | Sun, 28 Dec 2025 17:12:28 GMT | Agentic AI Threats Push Businesses To Strengthen Managed IT Services in Springfield, MO | PCnet | [Read More](https://medium.com/p/e0f747ff4cf5) |
 | Sun, 28 Dec 2025 17:05:56 GMT | Info Disclosure Bugs: Bug Bounty Beginner Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/36e3ea47f317) |
@@ -103,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 09:32:22 GMT | The Biggest Mistake 90% of OSCP Learners Make… | RedTeam Chronicle | [Read More](https://medium.com/p/c674edafbc00) |
 | Sun, 28 Dec 2025 09:26:17 GMT | You Don’t Understand the OSI Model (And It’s Not Your Fault) | Krish Gupta | [Read More](https://medium.com/p/c033bfa55ab1) |
 | Sun, 28 Dec 2025 09:18:44 GMT | Web shell upload via Content-Type restriction bypass | Muhammad Zain | [Read More](https://medium.com/p/e210c3ecae43) |
-| Sun, 28 Dec 2025 09:11:34 GMT | PortSwigger Web Security Academy — CSRF Lab 3 Write-Up | Mann24> | [Read More](https://medium.com/p/a5675a64c057) |
-| Sun, 28 Dec 2025 09:10:04 GMT | Cybersecurity in 2026 Is Not What You Think (Hard Truths) | Taimur Ijlal | [Read More](https://medium.com/p/93102257e709) |
-| Sun, 28 Dec 2025 09:02:26 GMT | Stop Account Takeovers Before They Happen: Catch Leaked Logins Early (In Plain English) | Alexandre Vandamme | [Read More](https://medium.com/p/0e50ebc4f983) |
-| Sun, 28 Dec 2025 09:01:18 GMT | Cybersecurity Services for Complete Digital Protection | zynextro | [Read More](https://medium.com/p/f02c99bd8e73) |
-| Sun, 28 Dec 2025 09:00:16 GMT | Techniques to persist and retrieve client_id in Spring Security’s RequestCache during OAuth… | Anh Trần Tuấn | [Read More](https://medium.com/p/df7f87c47deb) |
-| Sun, 28 Dec 2025 08:59:59 GMT | FortiGate en Production — Partie 1 : Architecture à Trois Zones et Politiques de Sécurité | Yasmine kechid | [Read More](https://medium.com/p/c984c07ef922) |
-| Sun, 28 Dec 2025 08:58:58 GMT | Bilkul bhai 
-Neeche FINAL version de raha hoon — copy-paste ready,
-Medium ke liye perfectly… | Krish Gupta | [Read More](https://medium.com/p/2a93bf836cb6) |
-| Sun, 28 Dec 2025 08:55:29 GMT | The Dark Side of Bug Bounty - Truth Behind the Screenshots | Rajankumarbarik | [Read More](https://medium.com/p/f08cb71734ba) |
-| Sun, 28 Dec 2025 08:41:56 GMT | Remote code execution via web shell upload | Muhammad Zain | [Read More](https://medium.com/p/d75b55d4601b) |
-| Sun, 28 Dec 2025 08:33:59 GMT | How I Got a CyberSecurity Internship at Airtel | ikaris | [Read More](https://medium.com/p/e075a80ff74e) |
