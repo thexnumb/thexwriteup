@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 18:27:52 GMT | Understanding the insecure deserialization vulnerability | hackerdevil | [Read More](https://medium.com/p/9e95f3d7723a) |
+| Mon, 29 Dec 2025 18:24:18 GMT | How I Got My First Bounty | Adhamkhairy | [Read More](https://medium.com/p/70cd498b9fc5) |
+| Mon, 29 Dec 2025 18:22:28 GMT | When Cybersecurity Stops Being About Defense and Starts Being About Truth | Daretoexpose | [Read More](https://medium.com/p/853aa6087253) |
+| Mon, 29 Dec 2025 18:09:08 GMT | Numb, Lil Bug | Artika’s | [Read More](https://medium.com/p/88bfdd26d130) |
+| Mon, 29 Dec 2025 18:02:14 GMT | Try Hack Me- Break Out the Cage Walkthrough | PulseEinher | [Read More](https://medium.com/p/cee2bed69948) |
+| Mon, 29 Dec 2025 17:52:16 GMT | The Voyage: 12 Days of Digital Physics | Chris Perkins | [Read More](https://medium.com/p/724ca6f63b44) |
 | Mon, 29 Dec 2025 17:41:34 GMT | Using Programmatic Access in Snowflake | Jon Roberts | [Read More](https://medium.com/p/cd5224165bd8) |
 | Mon, 29 Dec 2025 17:35:15 GMT | Exploit SQL injection using sqlmap | Shyam Kumar | [Read More](https://medium.com/p/5c8667fe867d) |
 | Mon, 29 Dec 2025 17:34:04 GMT | Technical Report | German Aquino | [Read More](https://medium.com/p/0c4e9c937b27) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 12:01:13 GMT | Best Click to Call Service in Vietnam | Ashutosh Mallik | [Read More](https://medium.com/p/dcfc5540c781) |
 | Mon, 29 Dec 2025 12:00:41 GMT | Hackers Rob. Security Reads the Manual. | Scott Сarrig | [Read More](https://medium.com/p/7e7f25c2a5fa) |
 | Mon, 29 Dec 2025 11:48:47 GMT | Comprehensive Security Protection Across Canada | Grdsnscrt | [Read More](https://medium.com/p/05ea63ee1a08) |
-| Mon, 29 Dec 2025 11:36:02 GMT | The Quiet Revolution: Why Cheap Reseller Hosting Is Powering 2026’s Digital Startups? | Janet Watson | [Read More](https://medium.com/p/ff1af08acc72) |
-| Mon, 29 Dec 2025 11:33:28 GMT | How Electronic Security Solutions Are Shaping Total Security Solutions for Modern Businesses | Ciss India | [Read More](https://medium.com/p/cbccacef49d1) |
-| Mon, 29 Dec 2025 11:33:17 GMT | How Scientists Are Using Light Particles to Send Uncrackable Messages | Jan Skopal | [Read More](https://medium.com/p/59f4e0fae7f9) |
-| Mon, 29 Dec 2025 11:31:16 GMT | Microsoft Office 365 MFA Setup: What Admins Need to Know | NAKIVO | [Read More](https://medium.com/p/cb16f223e07f) |
-| Mon, 29 Dec 2025 11:26:23 GMT | Mau777 Login Link Alternatif Terbaru 2025: Akses Mudah ke Slot Gacor Anti Rungkad | Surakarta XXV | [Read More](https://medium.com/p/77c6b25211f1) |
-| Mon, 29 Dec 2025 11:24:52 GMT | Security Lab Simulation Project Part 18: Following Brute Force Playbook | Jenny | [Read More](https://medium.com/p/df9f2654988b) |
