@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 19:09:04 GMT | How i found Sensitive Data Exposure in NASA Vulnerable Disclosure Program | hihipro | [Read More](https://medium.com/p/70139bd47ecb) |
+| Mon, 29 Dec 2025 18:37:22 GMT | December 29, 2025 | Austin Laughter | [Read More](https://medium.com/p/6eedd2ce60a1) |
+| Mon, 29 Dec 2025 18:35:17 GMT | The Story of MongoBleed : When Trusting the Client Went Wrong | Rajat Yadav | [Read More](https://medium.com/p/05b29543ee10) |
+| Mon, 29 Dec 2025 18:31:50 GMT | Running HexStrike AI with a Local Ollama Backend (WSL + Kali) | Mukarram Ali | [Read More](https://medium.com/p/7f30f32cb5af) |
 | Mon, 29 Dec 2025 18:27:52 GMT | Understanding the insecure deserialization vulnerability | hackerdevil | [Read More](https://medium.com/p/9e95f3d7723a) |
 | Mon, 29 Dec 2025 18:24:18 GMT | How I Got My First Bounty | Adhamkhairy | [Read More](https://medium.com/p/70cd498b9fc5) |
 | Mon, 29 Dec 2025 18:22:28 GMT | When Cybersecurity Stops Being About Defense and Starts Being About Truth | Daretoexpose | [Read More](https://medium.com/p/853aa6087253) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 12:02:24 GMT | BLUE Team | Mmohammadsalman | [Read More](https://medium.com/p/e3e0d3b2e492) |
 | Mon, 29 Dec 2025 12:02:24 GMT | Understanding CWE-290: Authentication Bypass by Spoofing | Walter Moar | [Read More](https://medium.com/p/00f17741f5df) |
 | Mon, 29 Dec 2025 12:02:08 GMT | From Subtle IDOR to Full Account Takeover (Including Admin Access) | Amit Dutta | [Read More](https://medium.com/p/43b468c5542b) |
-| Mon, 29 Dec 2025 12:02:04 GMT | CEHv12: Hacking Web Applications (Practised) (Module 14) | Aditya Kumar | [Read More](https://medium.com/p/7968737bb2cb) |
-| Mon, 29 Dec 2025 12:01:13 GMT | Best Click to Call Service in Vietnam | Ashutosh Mallik | [Read More](https://medium.com/p/dcfc5540c781) |
-| Mon, 29 Dec 2025 12:00:41 GMT | Hackers Rob. Security Reads the Manual. | Scott Сarrig | [Read More](https://medium.com/p/7e7f25c2a5fa) |
-| Mon, 29 Dec 2025 11:48:47 GMT | Comprehensive Security Protection Across Canada | Grdsnscrt | [Read More](https://medium.com/p/05ea63ee1a08) |
