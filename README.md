@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 12:47:00 GMT | picoCTF Trickster Walkthrough: Exploiting a PNG-Only Image Processing Web App | Debashish Sadhu | [Read More](https://medium.com/p/f47deb173c78) |
+| Mon, 29 Dec 2025 12:41:28 GMT | [LetsDefend Write-up] TinyTurla Backdoor | Chicken0248 | [Read More](https://medium.com/p/ba61da6972a1) |
+| Mon, 29 Dec 2025 12:40:48 GMT | Captured in Love | Alizabeth Amelia Rose | [Read More](https://medium.com/p/53c4fa1a7665) |
+| Mon, 29 Dec 2025 12:39:11 GMT | Why people born in the ’80s and ’90s have better cybersecurity instincts | Mahbubul Haque | [Read More](https://medium.com/p/e5ffb42506db) |
+| Mon, 29 Dec 2025 12:37:23 GMT | I Stopped Switching Between 20 Tools After Discovering This Platform | cybrNK | [Read More](https://medium.com/p/0c838c8282a7) |
+| Mon, 29 Dec 2025 12:35:03 GMT | Importance of Data Security in MLM and Direct Selling Software in 2026 | shailaja.sankalp | [Read More](https://medium.com/p/6871d9793184) |
+| Mon, 29 Dec 2025 12:33:16 GMT | Day 147 — Behemoth Level-4 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/31ede4243bd8) |
+| Mon, 29 Dec 2025 12:30:57 GMT | What Arch Linux Forces You to Learn | MouhibMahadbi | [Read More](https://medium.com/p/18050ada86f0) |
+| Mon, 29 Dec 2025 12:24:04 GMT | 2026 Will Be the Year AI Has to Prove ROI in Cybersecurity | Graylog | [Read More](https://medium.com/p/f4ced57ae0b4) |
+| Mon, 29 Dec 2025 12:07:36 GMT | CEHv12: SQL Injectio(Practised) (Module 15) | Aditya Kumar | [Read More](https://medium.com/p/1f06f45acf8f) |
+| Mon, 29 Dec 2025 12:03:42 GMT | Cyber Process Hazard Analysis (CPHA) Services for OT and Process Safety | Arista Cyber | [Read More](https://medium.com/p/d4859e28e19e) |
+| Mon, 29 Dec 2025 12:02:24 GMT | BLUE Team | Mmohammadsalman | [Read More](https://medium.com/p/e3e0d3b2e492) |
+| Mon, 29 Dec 2025 12:02:24 GMT | Understanding CWE-290: Authentication Bypass by Spoofing | Walter Moar | [Read More](https://medium.com/p/00f17741f5df) |
+| Mon, 29 Dec 2025 12:02:08 GMT | From Subtle IDOR to Full Account Takeover (Including Admin Access) | Amit Dutta | [Read More](https://medium.com/p/43b468c5542b) |
+| Mon, 29 Dec 2025 12:02:04 GMT | CEHv12: Hacking Web Applications (Practised) (Module 14) | Aditya Kumar | [Read More](https://medium.com/p/7968737bb2cb) |
+| Mon, 29 Dec 2025 12:01:13 GMT | Best Click to Call Service in Vietnam | Ashutosh Mallik | [Read More](https://medium.com/p/dcfc5540c781) |
+| Mon, 29 Dec 2025 12:00:41 GMT | Hackers Rob. Security Reads the Manual. | Scott Сarrig | [Read More](https://medium.com/p/7e7f25c2a5fa) |
+| Mon, 29 Dec 2025 11:48:47 GMT | Comprehensive Security Protection Across Canada | Grdsnscrt | [Read More](https://medium.com/p/05ea63ee1a08) |
+| Mon, 29 Dec 2025 11:36:02 GMT | The Quiet Revolution: Why Cheap Reseller Hosting Is Powering 2026’s Digital Startups? | Janet Watson | [Read More](https://medium.com/p/ff1af08acc72) |
+| Mon, 29 Dec 2025 11:33:28 GMT | How Electronic Security Solutions Are Shaping Total Security Solutions for Modern Businesses | Ciss India | [Read More](https://medium.com/p/cbccacef49d1) |
+| Mon, 29 Dec 2025 11:33:17 GMT | How Scientists Are Using Light Particles to Send Uncrackable Messages | Jan Skopal | [Read More](https://medium.com/p/59f4e0fae7f9) |
+| Mon, 29 Dec 2025 11:31:16 GMT | Microsoft Office 365 MFA Setup: What Admins Need to Know | NAKIVO | [Read More](https://medium.com/p/cb16f223e07f) |
 | Mon, 29 Dec 2025 11:26:23 GMT | Mau777 Login Link Alternatif Terbaru 2025: Akses Mudah ke Slot Gacor Anti Rungkad | Surakarta XXV | [Read More](https://medium.com/p/77c6b25211f1) |
 | Mon, 29 Dec 2025 11:24:52 GMT | Security Lab Simulation Project Part 18: Following Brute Force Playbook | Jenny | [Read More](https://medium.com/p/df9f2654988b) |
 | Mon, 29 Dec 2025 11:24:51 GMT | From Kerala to Global Cybersecurity: How Akash PS Founded AaveTech Using AI-Driven Ethical Hacking | Akash PS - Elite Ethical Hacker | [Read More](https://medium.com/p/de12d2b34698) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 07:46:45 GMT | FortiGate en Production — Partie 2 : Haute Disponibilité (HA) | Yasmine kechid | [Read More](https://medium.com/p/a4267cfc0b20) |
 | Mon, 29 Dec 2025 07:46:34 GMT | How secure is secure for a home-lab? | Sudhi | [Read More](https://medium.com/p/d7111594d900) |
 | Mon, 29 Dec 2025 07:43:49 GMT | How to Use Python venv (Virtual Environments) the Right Way | Jared Douville | [Read More](https://medium.com/p/9da0b56efa9a) |
-| Mon, 29 Dec 2025 07:39:00 GMT | Best Managed IT Infrastructure Services for Scalable Business Operations | Samvaskaran | [Read More](https://medium.com/p/414f58e20767) |
-| Mon, 29 Dec 2025 07:37:44 GMT | Beyond the Green Checkmark: Why Your Security Audit Is Probably Lying to You | Hui Zhu | [Read More](https://medium.com/p/66b34c6c84aa) |
-| Mon, 29 Dec 2025 07:37:09 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/6929bfbaf0da) |
-| Mon, 29 Dec 2025 07:36:45 GMT | How Our Next.js Development Agency Solved Multi-Tenant SaaS Complexity | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/42098b6b6518) |
-| Mon, 29 Dec 2025 07:33:31 GMT | I Thought SQL Injection Was a Myth — Until I Found One | Vignesh | [Read More](https://medium.com/p/1866b6f94de5) |
-| Mon, 29 Dec 2025 07:21:28 GMT | Why the Dark Web Is My Recon Tool — Not My Marketplace ️‍♂️ | Iski | [Read More](https://medium.com/p/1e33479115ef) |
-| Mon, 29 Dec 2025 07:20:19 GMT | By 2026, The Biggest Risk Won’t Be Malware | HackersPrey | [Read More](https://medium.com/p/71b430bc256d) |
-| Mon, 29 Dec 2025 07:13:26 GMT | Amazon Kiro Enterprise Security Integration: Getting Started with AWS IAM Identity Center and… | Kuro Huang | [Read More](https://medium.com/p/b39782221648) |
-| Mon, 29 Dec 2025 07:13:14 GMT | SIEM Triage and Incident Correlation in Microsoft Sentinel and Microsoft Defender | Debis | [Read More](https://medium.com/p/42e042fabeb1) |
-| Mon, 29 Dec 2025 07:12:02 GMT | WhatsApp Security Made Simple with Mac Antivirus | Siyanoav | [Read More](https://medium.com/p/703854462342) |
-| Mon, 29 Dec 2025 07:05:38 GMT | Python library for JWT security testing | Amira | [Read More](https://medium.com/p/d29569e15d46) |
-| Mon, 29 Dec 2025 07:03:18 GMT | Germany’s IT Job Market Outlook Across Entry, Mid, and Senior Roles | gyan guide | [Read More](https://medium.com/p/d6e7633a920a) |
-| Mon, 29 Dec 2025 07:01:50 GMT | AI-Driven PDF Password Recovery with HexStrike-AI and Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/cfa7eb0fae91) |
-| Mon, 29 Dec 2025 06:59:34 GMT | Best Free Online Cybersecurity Courses with Certificates in 2026 | Ayza Anam | [Read More](https://medium.com/p/6304b7a3f36a) |
-| Mon, 29 Dec 2025 06:57:32 GMT | Why Energy is the Foundation of AI-Powered Cybersecurity in an Era of Explosive AI-Driven Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/4493a8fc2b8b) |
-| Mon, 29 Dec 2025 06:56:58 GMT | Week 5 SOC Analyst Internship | Adeleke Theophilus O | [Read More](https://medium.com/p/f07cf052e4cb) |
-| Mon, 29 Dec 2025 06:55:16 GMT | Red Team Reporting Toolkit (10 Templates & Tools): Master Professional Pentest Reports Step-by-Step | Very Lazy Tech | [Read More](https://medium.com/p/658a5db7941d) |
-| Mon, 29 Dec 2025 06:40:06 GMT | The Last Call | Sakhi Writes | [Read More](https://medium.com/p/bd9ed5b35917) |
-| Mon, 29 Dec 2025 06:37:43 GMT | Cybersecurity Consulting and Services That Strengthen Modern Business Security - CyberSecOp | Michael J Weber | [Read More](https://medium.com/p/7ebc8f95c1d0) |
-| Mon, 29 Dec 2025 06:35:15 GMT | 10 Best Enterprise Content Management Software Platforms Compared | Quadrant IT Services | [Read More](https://medium.com/p/6fc35cab1b48) |
-| Mon, 29 Dec 2025 06:33:46 GMT | Unarmed Security Services in Las Vegas - Palisade Defense | Palisade Defense | [Read More](https://medium.com/p/ecfca143e29a) |
-| Mon, 29 Dec 2025 06:32:53 GMT | What Is Cybersecurity? A Beginner-Friendly Introduction | Eternity Ocean University | [Read More](https://medium.com/p/84e84bbf12be) |
