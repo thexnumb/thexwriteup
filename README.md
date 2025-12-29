@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 13:24:09 GMT | Practical ways to mitigate SSRF attacks | AT | [Read More](https://medium.com/p/586b013499fb) |
+| Mon, 29 Dec 2025 13:17:27 GMT | How AI is Redefining the “Watchful Eye” at Work? | Himanshu Chaudhary | [Read More](https://medium.com/p/4f5d41eced18) |
+| Mon, 29 Dec 2025 13:04:42 GMT | 5 Cybersecurity Habits Every Remote Worker Needs in 2025 | Fareehasial | [Read More](https://medium.com/p/450f621b7c87) |
+| Mon, 29 Dec 2025 13:02:33 GMT | How I Implemented WhatsApp OTP Verification in a REST API (Step-by-Step Guide) | AngsCode | [Read More](https://medium.com/p/5f40893b024c) |
+| Mon, 29 Dec 2025 13:02:25 GMT | AI Didn’t Change This Week. The Rules Around It Did. | A D | [Read More](https://medium.com/p/d3147ca62bb1) |
+| Mon, 29 Dec 2025 13:02:25 GMT | Linux Security Habit #12: I Always Check Kernel Timers Before Trusting System Stability | Faruk Ahmed | [Read More](https://medium.com/p/535eeab48972) |
+| Mon, 29 Dec 2025 13:02:25 GMT | [AD攻防] NTLM Relay 攻擊 | 陳禹璿 | [Read More](https://medium.com/p/1d89d1e14781) |
+| Mon, 29 Dec 2025 12:57:06 GMT | CyberHeroes TryHackMe Walkthrough | Syed Ali Bin Mohammad | [Read More](https://medium.com/p/bc029ca7949f) |
+| Mon, 29 Dec 2025 12:55:12 GMT | Learning Web Application Security with DVWA and OWASP ZAP | Claudius Thompson | [Read More](https://medium.com/p/f9f714b3cb22) |
+| Mon, 29 Dec 2025 12:53:08 GMT | Secure CI/CD Pipeline: Github Actions, AWS, EC2 | Sanjna Chaturvedi | [Read More](https://medium.com/p/78d9da19af0a) |
+| Mon, 29 Dec 2025 12:52:19 GMT | The Emerging Threat of Idea Leakage | David at SenTeGuard | [Read More](https://medium.com/p/766074e61093) |
 | Mon, 29 Dec 2025 12:47:00 GMT | picoCTF Trickster Walkthrough: Exploiting a PNG-Only Image Processing Web App | Debashish Sadhu | [Read More](https://medium.com/p/f47deb173c78) |
+| Mon, 29 Dec 2025 12:46:42 GMT | Why Use char[] Instead of String for Passwords | Namrata | [Read More](https://medium.com/p/6451dcd8892a) |
+| Mon, 29 Dec 2025 12:42:44 GMT | mejoreTop empresas de pentesting en México — Guía actualizada | Selspy - Trending products for dropshipping | [Read More](https://medium.com/p/007755fd7ad2) |
 | Mon, 29 Dec 2025 12:41:28 GMT | [LetsDefend Write-up] TinyTurla Backdoor | Chicken0248 | [Read More](https://medium.com/p/ba61da6972a1) |
 | Mon, 29 Dec 2025 12:40:48 GMT | Captured in Love | Alizabeth Amelia Rose | [Read More](https://medium.com/p/53c4fa1a7665) |
 | Mon, 29 Dec 2025 12:39:11 GMT | Why people born in the ’80s and ’90s have better cybersecurity instincts | Mahbubul Haque | [Read More](https://medium.com/p/e5ffb42506db) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 08:39:32 GMT | Schnorr Nonce Generation: When "Random" is (and isn’t) a Vulnerability | Lucas Amorim | [Read More](https://medium.com/p/b79d33676c0b) |
 | Mon, 29 Dec 2025 08:39:30 GMT | Search Source-Offline Source Code Method (picoCTF Write-Up) | xrabbit | [Read More](https://medium.com/p/4781f87d64f1) |
 | Mon, 29 Dec 2025 08:39:03 GMT | A Secure OAuth 2.0–Based | Satish Alturu | [Read More](https://medium.com/p/ce3e9505e545) |
-| Mon, 29 Dec 2025 08:23:32 GMT | On Vulnerability, Fear, and the Power We Think We’ve Lost | Adefunke Adeniyi | [Read More](https://medium.com/p/489dffb280e3) |
-| Mon, 29 Dec 2025 08:22:16 GMT | Identity as a Service (IDaaS) Market Size, Share, and Growth Forecast | Michel mathew | [Read More](https://medium.com/p/d57a6f5aad80) |
-| Mon, 29 Dec 2025 08:17:53 GMT | Incident Response Services That Protect Your Business from Cyber Threats - CyberSecOp | Michael J Weber | [Read More](https://medium.com/p/df733aea5019) |
-| Mon, 29 Dec 2025 08:12:47 GMT | 2026 Best HR & Workflow Software & People Management Tool | Charles | [Read More](https://medium.com/p/e73cb852d757) |
-| Mon, 29 Dec 2025 08:01:31 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/588ea70dd078) |
-| Mon, 29 Dec 2025 08:01:19 GMT | I Watched a 45-Person Company Waste $12,000 Because They Trusted Norton’s “Small Business” Label | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/acecc7f4b107) |
-| Mon, 29 Dec 2025 07:58:08 GMT | Why Location Intelligence is the Missing Piece in Your Zero Trust Strategy | Sasmita Maharana | [Read More](https://medium.com/p/e7406bab563a) |
-| Mon, 29 Dec 2025 07:56:02 GMT | Which Information Technology Course Has the Best Scope in 2026? | postgraduateguru | [Read More](https://medium.com/p/cec8f3b3981d) |
-| Mon, 29 Dec 2025 07:55:30 GMT | WELCOME TO ETHIXBIT –DHANANJAY NETAM - ETHICAL HACKING & CYBERSECURITY GUIDES | Ethixbit | [Read More](https://medium.com/p/1bed160816ca) |
-| Mon, 29 Dec 2025 07:48:31 GMT | Persistent XSS via Document Upload | Saud Ahmad | [Read More](https://medium.com/p/119cb7e83b5a) |
-| Mon, 29 Dec 2025 07:46:45 GMT | FortiGate en Production — Partie 2 : Haute Disponibilité (HA) | Yasmine kechid | [Read More](https://medium.com/p/a4267cfc0b20) |
-| Mon, 29 Dec 2025 07:46:34 GMT | How secure is secure for a home-lab? | Sudhi | [Read More](https://medium.com/p/d7111594d900) |
-| Mon, 29 Dec 2025 07:43:49 GMT | How to Use Python venv (Virtual Environments) the Right Way | Jared Douville | [Read More](https://medium.com/p/9da0b56efa9a) |
