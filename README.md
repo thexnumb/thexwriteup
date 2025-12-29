@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 06:37:43 GMT | Cybersecurity Consulting and Services That Strengthen Modern Business Security - CyberSecOp | Michael J Weber | [Read More](https://medium.com/p/7ebc8f95c1d0) |
+| Mon, 29 Dec 2025 06:33:46 GMT | Unarmed Security Services in Las Vegas - Palisade Defense | Palisade Defense | [Read More](https://medium.com/p/ecfca143e29a) |
+| Mon, 29 Dec 2025 06:32:53 GMT | What Is Cybersecurity? A Beginner-Friendly Introduction | Eternity Ocean University | [Read More](https://medium.com/p/84e84bbf12be) |
+| Mon, 29 Dec 2025 06:21:21 GMT | How to Enable DNS over HTTPS on Firefox Android to Block Adult Content ? | Stack Architect | [Read More](https://medium.com/p/26aa48867307) |
+| Mon, 29 Dec 2025 06:14:48 GMT | Turning Public Map Data into OSINT Datasets Using NirGeoScrapper | TheCyberNirvana | [Read More](https://medium.com/p/df06b7fb210d) |
+| Mon, 29 Dec 2025 06:13:19 GMT | From IT to SOC: It’s Not a Tool Change. It’s a Mindset Change | Denny Roger | [Read More](https://medium.com/p/3a3fe50b0ed4) |
+| Mon, 29 Dec 2025 06:09:48 GMT | CMPen Review: How I Earned the Certified Mobile Pentester (Android) with Merit | B13ss3d | [Read More](https://medium.com/p/a68363c330eb) |
+| Mon, 29 Dec 2025 06:07:07 GMT | $2,400 Bounty: for Discovering Critical DoS Vulnerability in Rack (CVE-2022–30122) | Monika sharma | [Read More](https://medium.com/p/26b8f0d9e484) |
+| Mon, 29 Dec 2025 06:05:17 GMT | SQLi → RCE: Exploiting PostgreSQLi | Raj Prasad Kuiri | [Read More](https://medium.com/p/f5bb81d24630) |
+| Mon, 29 Dec 2025 06:03:07 GMT | The Internet Is Leaking Secrets in Public Repos | Vipul Sonule | [Read More](https://medium.com/p/0b4f5bc32f87) |
+| Mon, 29 Dec 2025 06:02:23 GMT | AWS re: Invent 2025: Security Session Notes | Sena Yakut | [Read More](https://medium.com/p/fa2c9f62ed4b) |
+| Mon, 29 Dec 2025 06:01:31 GMT | Ashen Lepus and the ASHTAG Malware Suite: Inside a Modern Militant Cyber Campaign | Tech Security | [Read More](https://medium.com/p/c97bb7153ef5) |
+| Mon, 29 Dec 2025 06:01:02 GMT | How Cybersecurity Managed Services Protect Modern Businesses | Techfacto Global Services | [Read More](https://medium.com/p/a2e48f18789b) |
+| Mon, 29 Dec 2025 06:00:07 GMT | Google CTF 2024 Writeup | Kushagra Ojha | [Read More](https://medium.com/p/ba5dfa69d595) |
+| Mon, 29 Dec 2025 05:58:55 GMT | Why Small Websites Are the New Bug Bounty Goldmine | Vipul Sonule | [Read More](https://medium.com/p/4d9c0bfced91) |
+| Mon, 29 Dec 2025 05:48:41 GMT | a leap | whynotmore | [Read More](https://medium.com/p/1640b891b43b) |
+| Mon, 29 Dec 2025 05:32:42 GMT | Unlock Smooth, Stress-Free Hosting with the Most Affordable Plans of 2026 | Mary Thomas | [Read More](https://medium.com/p/b386f33adde9) |
 | Mon, 29 Dec 2025 05:25:45 GMT | WatchGuard Firebox Under Fire: CVE-2025–14733 and What It Really Means for the Perimeter | CyberSecurity | [Read More](https://medium.com/p/e15a482f0d2e) |
 | Mon, 29 Dec 2025 05:22:19 GMT | CISSP Domain 3: Security Engineering - Complete Study Notes ( Part 1 ) | Pushpak Sharma | [Read More](https://medium.com/p/f8649c26cb83) |
 | Mon, 29 Dec 2025 05:18:12 GMT | Digital Threat Intelligence Management (DTIM) Market Growth Accelerates as Enterprises Prioritize… | Gauri Kale | [Read More](https://medium.com/p/93b19ccf1a35) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 19:40:52 GMT | Kapıdaki Güvenlik Görevlisi: Tarayıcı vs. Sunucu | Cyber Web | [Read More](https://medium.com/p/c9b7075bc699) |
 | Sun, 28 Dec 2025 19:31:30 GMT | Crypto-Agility | Aykut Mert Pekdemir | [Read More](https://medium.com/p/53dc9c7f451e) |
 | Sun, 28 Dec 2025 19:22:10 GMT | imToken Activity Report: Desember 2025 | imToken Persian Community | [Read More](https://medium.com/p/7ea88aeb6e65) |
-| Sun, 28 Dec 2025 19:05:24 GMT | USA Cloud VPS Hosting with Unmetered Bandwidth, Introducing GigaNodes’ New USA VPS Lineup | GigaNodes | [Read More](https://medium.com/p/68db2c6e60f3) |
-| Sun, 28 Dec 2025 18:59:18 GMT | Google Appspot XSS CTF Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/1c0f32dfd30a) |
-| Sun, 28 Dec 2025 18:54:54 GMT | Your Website Isn’t Weak — Your Decisions Are | Ali.Yurie | [Read More](https://medium.com/p/d20dea69a241) |
-| Sun, 28 Dec 2025 18:54:13 GMT | The Lie of Democratization | Nicholas Armstrong | [Read More](https://medium.com/p/9e6c2cb5386e) |
-| Sun, 28 Dec 2025 18:53:53 GMT | Would You Accept Total Surveillance if Crime Disappeared? | Andreea Benu | [Read More](https://medium.com/p/6c23f7a56174) |
-| Sun, 28 Dec 2025 18:48:50 GMT | I Secured a Website Without Touching the Code — Here’s What Most Owners Miss ️ | Ali.Yurie | [Read More](https://medium.com/p/04bff0c308da) |
-| Sun, 28 Dec 2025 18:45:20 GMT | The macOS Concept Journey — File System Domains | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/487d78220fa1) |
-| Sun, 28 Dec 2025 18:36:48 GMT | Rooftops and Rabbit Holes: A Day of Extremes | JAN: Just Another Number | [Read More](https://medium.com/p/937d4393b7c5) |
-| Sun, 28 Dec 2025 18:33:57 GMT | AI Tools & Productivity in Higher Education: Enhancing Teaching, Learning, and Research in the 21st… | Ismat Ara Shama | [Read More](https://medium.com/p/efcf5e31a52f) |
-| Sun, 28 Dec 2025 18:32:04 GMT | Extend Your Computer’s Life Without New Hardware | Geoffrey Wenger | [Read More](https://medium.com/p/1927a704f991) |
-| Sun, 28 Dec 2025 18:22:25 GMT | From Information to Intelligence: How IT Quietly Changed Meaning | Raja | [Read More](https://medium.com/p/720e91c622f1) |
-| Sun, 28 Dec 2025 18:18:38 GMT | SOC Analyst Case Study: Dissecting a “419” Phishing Attack | Omar Ait Ben Iyche | [Read More](https://medium.com/p/0e432006c2ec) |
-| Sun, 28 Dec 2025 18:18:27 GMT | USOM Zararlı Bağlantı Listesi Entegrasyonu — FortiGate Firewall | Batuhan KURU | [Read More](https://medium.com/p/2237546f2365) |
-| Sun, 28 Dec 2025 18:14:18 GMT | How to poison an AI model? | Annie Richter | [Read More](https://medium.com/p/28e5f3a001c7) |
-| Sun, 28 Dec 2025 18:11:16 GMT | Faster, Smarter Security: How Real-Time Tracking Innovations Are Saving Seconds and Lives | Teona | [Read More](https://medium.com/p/311623e651fc) |
-| Sun, 28 Dec 2025 18:07:42 GMT | Building SOC-Dashboard | Welart | [Read More](https://medium.com/p/8097490dfb92) |
-| Sun, 28 Dec 2025 18:07:27 GMT | How hackers steal your saved password from your browser | Arpan Pramanik | [Read More](https://medium.com/p/896466b64c07) |
