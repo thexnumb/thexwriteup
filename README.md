@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 14:19:48 GMT | Automated Gates in Singapore Borders: Passengers are Human or Data? | Mohamed Reyas | [Read More](https://medium.com/p/d94006fc9c40) |
+| Mon, 29 Dec 2025 14:01:00 GMT | Inside Out 2: Glued to the Phone — Exploring the Emotional Impact of Technology | Motherlandlove | [Read More](https://medium.com/p/ec69561c0004) |
+| Mon, 29 Dec 2025 13:59:09 GMT | PWN101 — TryHackMe | SilentHex | [Read More](https://medium.com/p/83102338dc0f) |
+| Mon, 29 Dec 2025 13:50:17 GMT | HACK THE BOX — Active | Alleyezonme | [Read More](https://medium.com/p/1a848140eb34) |
+| Mon, 29 Dec 2025 13:40:38 GMT | The Architecture of Forgetting | SheWrites | [Read More](https://medium.com/p/eb1552133c80) |
+| Mon, 29 Dec 2025 13:39:26 GMT | Audit Your Arch Linux System with Lynis | 0x77 | [Read More](https://medium.com/p/be9cb988d4aa) |
 | Mon, 29 Dec 2025 13:24:09 GMT | Practical ways to mitigate SSRF attacks | AT | [Read More](https://medium.com/p/586b013499fb) |
 | Mon, 29 Dec 2025 13:17:27 GMT | How AI is Redefining the “Watchful Eye” at Work? | Himanshu Chaudhary | [Read More](https://medium.com/p/4f5d41eced18) |
 | Mon, 29 Dec 2025 13:04:42 GMT | 5 Cybersecurity Habits Every Remote Worker Needs in 2025 | Fareehasial | [Read More](https://medium.com/p/450f621b7c87) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 09:15:59 GMT | AI-Driven Office Documents Password Recovery with HexStrike-AI and Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/3c8bb7deb82d) |
 | Mon, 29 Dec 2025 09:15:25 GMT | .NET File Operation Security Vulnerabilities — SSC Fortify Security Findings Analysis — Part 2 | Okan Yurt | [Read More](https://medium.com/p/de431f0f5dfe) |
 | Mon, 29 Dec 2025 09:11:04 GMT | Bounty Hacker — TryHackMe Walkthrough | Jacob Macdonnell | [Read More](https://medium.com/p/981bb9b8ed66) |
-| Mon, 29 Dec 2025 09:04:26 GMT | Automate SSRF Hunting Like a Pro: From Discovery to Escalation | Ashiqur Rahman Emon | [Read More](https://medium.com/p/fbd0e7cdc246) |
-| Mon, 29 Dec 2025 09:00:21 GMT | SecurityFilterChain vs. | Anh Trần Tuấn | [Read More](https://medium.com/p/33555e231ec0) |
-| Mon, 29 Dec 2025 08:59:05 GMT | My Server & Backup “Hardening” Checklist: What to Have, What to Avoid, and Why It Matters in 2025 | Zefai Insights | [Read More](https://medium.com/p/433769b04a19) |
-| Mon, 29 Dec 2025 08:39:32 GMT | Schnorr Nonce Generation: When "Random" is (and isn’t) a Vulnerability | Lucas Amorim | [Read More](https://medium.com/p/b79d33676c0b) |
-| Mon, 29 Dec 2025 08:39:30 GMT | Search Source-Offline Source Code Method (picoCTF Write-Up) | xrabbit | [Read More](https://medium.com/p/4781f87d64f1) |
-| Mon, 29 Dec 2025 08:39:03 GMT | A Secure OAuth 2.0–Based | Satish Alturu | [Read More](https://medium.com/p/ce3e9505e545) |
