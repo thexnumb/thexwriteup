@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 22:31:02 GMT | PortSwigger Academy Lab: Information disclosure on debug page | VISCID | [Read More](https://medium.com/p/f4e5c142f1ce) |
+| Mon, 29 Dec 2025 22:29:21 GMT | Risk Registers Don’t Reduce Risk. Decisions Do. | Neviar Rawlinson, MBA | [Read More](https://medium.com/p/c26ec4b87739) |
+| Mon, 29 Dec 2025 22:24:40 GMT | Year-End Security Audit for PHP Apps: The Checklist I Actually Use Before Shipping Another Release | Ann R. | [Read More](https://medium.com/p/3bba13f627a6) |
 | Mon, 29 Dec 2025 22:20:48 GMT | How to not get hacked | Vikash Bajaj | [Read More](https://medium.com/p/1bf47a793190) |
+| Mon, 29 Dec 2025 22:17:21 GMT | When Macs Feel Slow, Maintenance Is Usually the Missing Fix | Geoffrey Wenger | [Read More](https://medium.com/p/a070dff07192) |
 | Mon, 29 Dec 2025 22:16:13 GMT | The Genesis of Information | Ilexa Yardley | [Read More](https://medium.com/p/0b685c19b1bf) |
+| Mon, 29 Dec 2025 22:14:10 GMT | How Compromised IAM Credentials Fueled a Massive AWS Crypto Mining Campaign | Yashasvi Sharma | [Read More](https://medium.com/p/8a3163af6db0) |
 | Mon, 29 Dec 2025 22:07:32 GMT | Why Your DevOps Team Needs KAITO (And How It’ll Save Your Sanity) | thenotorious runner | [Read More](https://medium.com/p/4a4665977088) |
 | Mon, 29 Dec 2025 21:41:20 GMT | TryHackMe Writeup: Cyborg | Berkay AĞGÜL | [Read More](https://medium.com/p/2d10b5b79296) |
 | Mon, 29 Dec 2025 21:22:40 GMT | Real Windows Maintenance Without Subscriptions Or Gimmicks | Geoffrey Wenger | [Read More](https://medium.com/p/392a1fa91e6d) |
@@ -30,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 20:31:36 GMT | Inside a Phishing Campaign: Understanding Attacker Strategy with GoPhish (Part 3) | Cyber Timi | [Read More](https://medium.com/p/ea8064a673eb) |
 | Mon, 29 Dec 2025 20:21:31 GMT | Hello everyone . | Nirmalabhusal | [Read More](https://medium.com/p/84f76eec6d3c) |
 | Mon, 29 Dec 2025 20:20:42 GMT | Global Ransomware Raid: How International Authorities Dismantle Cybercrime Networks | Tor BBB | [Read More](https://medium.com/p/137806aa4b71) |
+| Mon, 29 Dec 2025 20:17:33 GMT | PortSwigger Academy Lab: Information disclosure in error messages | VISCID | [Read More](https://medium.com/p/018ddfc87947) |
 | Mon, 29 Dec 2025 20:16:49 GMT | Why Your AI Strategy Will Fail Without a “Governance-First” Mindset | Mike Czarnecki | [Read More](https://medium.com/p/e7365829dbd1) |
 | Mon, 29 Dec 2025 20:15:21 GMT | Vulnerability Management: Beyond the Definition | Sourabh Grover | [Read More](https://medium.com/p/5dbb3f77da73) |
 | Mon, 29 Dec 2025 20:15:16 GMT | The Ratel Manifesto: Security is no longer a passive game | Fabio Meyer | [Read More](https://medium.com/p/567c5b84384a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 14:47:10 GMT | The Role of Incident Responders in a Cyber Crisis | Ferdi Edogawa | [Read More](https://medium.com/p/e939d0bda2d9) |
 | Mon, 29 Dec 2025 14:41:49 GMT | How to Find Top Cybersecurity Talent in India: A Strategic Staffing Guide for On-Site and Remote… | CyberAube Technologies | [Read More](https://medium.com/p/a50981082e0e) |
 | Mon, 29 Dec 2025 14:34:47 GMT | Beyond the Checkbox: Implementing Real Zero Trust with Microsoft Entra ID (A Financial Sector Case… | JoaoP. | [Read More](https://medium.com/p/b4fb70a0d748) |
-| Mon, 29 Dec 2025 14:28:43 GMT | Introduction to Wazuh Part 1: Environment Setup and Malware Detection | Allen Ace | [Read More](https://medium.com/p/beba7daa0e23) |
-| Mon, 29 Dec 2025 14:27:12 GMT | Blue Team Level 1 (BTL1) Review | Cyd Tseng | [Read More](https://medium.com/p/9a614f3f57df) |
-| Mon, 29 Dec 2025 14:21:09 GMT | DockerLabs Writeup — Puzzle (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3b1ea05072a0) |
-| Mon, 29 Dec 2025 14:20:58 GMT | VULNHUB HACKFEST2016: QUAOAR | Rin_xinFabrelab | [Read More](https://medium.com/p/cce6b42f8a4a) |
-| Mon, 29 Dec 2025 14:20:55 GMT | [LetsDefend Write-up] PowerShell Keylogger | Chicken0248 | [Read More](https://medium.com/p/cee3496873d7) |
-| Mon, 29 Dec 2025 14:19:48 GMT | Automated Gates in Singapore Borders: Passengers are Human or Data? | Mohamed Reyas | [Read More](https://medium.com/p/d94006fc9c40) |
