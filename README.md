@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 07:43:49 GMT | How to Use Python venv (Virtual Environments) the Right Way | Jared Douville | [Read More](https://medium.com/p/9da0b56efa9a) |
+| Mon, 29 Dec 2025 07:39:00 GMT | Best Managed IT Infrastructure Services for Scalable Business Operations | Samvaskaran | [Read More](https://medium.com/p/414f58e20767) |
+| Mon, 29 Dec 2025 07:37:44 GMT | Beyond the Green Checkmark: Why Your Security Audit Is Probably Lying to You | Hui Zhu | [Read More](https://medium.com/p/66b34c6c84aa) |
+| Mon, 29 Dec 2025 07:37:09 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/6929bfbaf0da) |
+| Mon, 29 Dec 2025 07:36:45 GMT | How Our Next.js Development Agency Solved Multi-Tenant SaaS Complexity | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/42098b6b6518) |
+| Mon, 29 Dec 2025 07:33:31 GMT | I Thought SQL Injection Was a Myth — Until I Found One | Vignesh | [Read More](https://medium.com/p/1866b6f94de5) |
 | Mon, 29 Dec 2025 07:21:28 GMT | Why the Dark Web Is My Recon Tool — Not My Marketplace ️‍♂️ | Iski | [Read More](https://medium.com/p/1e33479115ef) |
+| Mon, 29 Dec 2025 07:20:19 GMT | By 2026, The Biggest Risk Won’t Be Malware | HackersPrey | [Read More](https://medium.com/p/71b430bc256d) |
+| Mon, 29 Dec 2025 07:13:26 GMT | Amazon Kiro Enterprise Security Integration: Getting Started with AWS IAM Identity Center and… | Kuro Huang | [Read More](https://medium.com/p/b39782221648) |
 | Mon, 29 Dec 2025 07:13:14 GMT | SIEM Triage and Incident Correlation in Microsoft Sentinel and Microsoft Defender | Debis | [Read More](https://medium.com/p/42e042fabeb1) |
 | Mon, 29 Dec 2025 07:12:02 GMT | WhatsApp Security Made Simple with Mac Antivirus | Siyanoav | [Read More](https://medium.com/p/703854462342) |
 | Mon, 29 Dec 2025 07:05:38 GMT | Python library for JWT security testing | Amira | [Read More](https://medium.com/p/d29569e15d46) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 21:21:39 GMT | Linux’ta Ağ Yönetimi | g.o. | [Read More](https://medium.com/p/58d3da1558c7) |
 | Sun, 28 Dec 2025 21:16:22 GMT | How to Start Bug Bounty Hunting | Codi | [Read More](https://medium.com/p/9492949f3e4f) |
 | Sun, 28 Dec 2025 21:15:47 GMT | DEATHcon 2025 | Jake Boyd | [Read More](https://medium.com/p/449bd392100d) |
-| Sun, 28 Dec 2025 21:00:38 GMT | Lessons Learnt After Publishing a Half-Baked First Novel | Anoop Vijayan | [Read More](https://medium.com/p/41db38c078d4) |
-| Sun, 28 Dec 2025 20:48:42 GMT | Agentic AI vs ICS & OT Cybersecurity | Muhammad Ali Khan | [Read More](https://medium.com/p/90a97cf3138a) |
-| Sun, 28 Dec 2025 20:46:20 GMT | The Door That Knows Who You Are | John Tischler | [Read More](https://medium.com/p/4b653da80a78) |
-| Sun, 28 Dec 2025 20:40:32 GMT | Linux’ta Süreç (Process) Yönetimi | g.o. | [Read More](https://medium.com/p/adff002c5aae) |
-| Sun, 28 Dec 2025 20:35:56 GMT | eMAPT Review: How I Got Certified in Mobile Pentesting | B13ss3d | [Read More](https://medium.com/p/e48d438499b6) |
-| Sun, 28 Dec 2025 20:35:22 GMT | Mastering Web Security | KENNETH DAVID | [Read More](https://medium.com/p/32279e7b1bb7) |
-| Sun, 28 Dec 2025 20:29:01 GMT | Understanding PII and Initial Discovery Techniques (Part 1/3) | Cybersecplayground | [Read More](https://medium.com/p/417cfac5b050) |
-| Sun, 28 Dec 2025 20:26:59 GMT | Your Phone’s OS Is a Data Policy. These Are the Alternatives. | BiyteLüm | [Read More](https://medium.com/p/412310014b1e) |
