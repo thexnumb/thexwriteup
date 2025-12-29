@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 11:04:55 GMT | Moving Forward with Memory Analysis: From Volatility to MemProcFS Part 1 | Dean | [Read More](https://medium.com/p/a28df61de30b) |
+| Mon, 29 Dec 2025 11:02:16 GMT | CVE‑2025‑14847: Unauthenticated Memory Disclosure in MongoDB’s zlib Decompression Pipeline | gm0 | [Read More](https://medium.com/p/67e88e831f9d) |
+| Mon, 29 Dec 2025 10:58:50 GMT | The Phone Call That Taught Me Everything | Myra Jarenga | [Read More](https://medium.com/p/f4c03d02fa9a) |
+| Mon, 29 Dec 2025 10:58:30 GMT | Cyber Security Management Explained in Simple Terms for Students | Kartik Reddy | [Read More](https://medium.com/p/34fb6324bb19) |
+| Mon, 29 Dec 2025 10:57:45 GMT | RST TI Report Digest: 29 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/51b9964da5e6) |
+| Mon, 29 Dec 2025 10:54:51 GMT | The New Era of SEO: Upgraded with AEO & GEO | Pranali | [Read More](https://medium.com/p/afc9eb1d080e) |
 | Mon, 29 Dec 2025 10:45:33 GMT | BloodCat & Evil-Bat: The Global Camera Killer Duo | Мартин. | [Read More](https://medium.com/p/8af7122d0651) |
 | Mon, 29 Dec 2025 10:43:44 GMT | The 2026 Security Thesis: Why “Defensive” Code is Dead | Gideon Cohen | [Read More](https://medium.com/p/60db29228fdd) |
 | Mon, 29 Dec 2025 10:38:37 GMT | How Cl0p Hackers Earned $500M+ by Hacking Supply Chains | Motasem Hamdan | [Read More](https://medium.com/p/77bd658bdb48) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 06:05:17 GMT | SQLi → RCE: Exploiting PostgreSQLi | Raj Prasad Kuiri | [Read More](https://medium.com/p/f5bb81d24630) |
 | Mon, 29 Dec 2025 06:03:07 GMT | The Internet Is Leaking Secrets in Public Repos | Vipul Sonule | [Read More](https://medium.com/p/0b4f5bc32f87) |
 | Mon, 29 Dec 2025 06:02:23 GMT | AWS re: Invent 2025: Security Session Notes | Sena Yakut | [Read More](https://medium.com/p/fa2c9f62ed4b) |
-| Mon, 29 Dec 2025 06:01:31 GMT | Ashen Lepus and the ASHTAG Malware Suite: Inside a Modern Militant Cyber Campaign | Tech Security | [Read More](https://medium.com/p/c97bb7153ef5) |
-| Mon, 29 Dec 2025 06:01:02 GMT | How Cybersecurity Managed Services Protect Modern Businesses | Techfacto Global Services | [Read More](https://medium.com/p/a2e48f18789b) |
-| Mon, 29 Dec 2025 06:00:07 GMT | Google CTF 2024 Writeup | Kushagra Ojha | [Read More](https://medium.com/p/ba5dfa69d595) |
-| Mon, 29 Dec 2025 05:58:55 GMT | Why Small Websites Are the New Bug Bounty Goldmine | Vipul Sonule | [Read More](https://medium.com/p/4d9c0bfced91) |
-| Mon, 29 Dec 2025 05:48:41 GMT | a leap | whynotmore | [Read More](https://medium.com/p/1640b891b43b) |
-| Mon, 29 Dec 2025 05:32:42 GMT | Unlock Smooth, Stress-Free Hosting with the Most Affordable Plans of 2026 | Mary Thomas | [Read More](https://medium.com/p/b386f33adde9) |
