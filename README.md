@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 14:34:47 GMT | Beyond the Checkbox: Implementing Real Zero Trust with Microsoft Entra ID (A Financial Sector Case… | JoaoP. | [Read More](https://medium.com/p/b4fb70a0d748) |
+| Mon, 29 Dec 2025 14:28:43 GMT | Introduction to Wazuh Part 1: Environment Setup and Malware Detection | Allen Ace | [Read More](https://medium.com/p/beba7daa0e23) |
+| Mon, 29 Dec 2025 14:27:12 GMT | Blue Team Level 1 (BTL1) Review | Cyd Tseng | [Read More](https://medium.com/p/9a614f3f57df) |
+| Mon, 29 Dec 2025 14:21:09 GMT | DockerLabs Writeup — Puzzle (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3b1ea05072a0) |
+| Mon, 29 Dec 2025 14:20:58 GMT | VULNHUB HACKFEST2016: QUAOAR | Rin_xinFabrelab | [Read More](https://medium.com/p/cce6b42f8a4a) |
+| Mon, 29 Dec 2025 14:20:55 GMT | [LetsDefend Write-up] PowerShell Keylogger | Chicken0248 | [Read More](https://medium.com/p/cee3496873d7) |
 | Mon, 29 Dec 2025 14:19:48 GMT | Automated Gates in Singapore Borders: Passengers are Human or Data? | Mohamed Reyas | [Read More](https://medium.com/p/d94006fc9c40) |
 | Mon, 29 Dec 2025 14:01:00 GMT | Inside Out 2: Glued to the Phone — Exploring the Emotional Impact of Technology | Motherlandlove | [Read More](https://medium.com/p/ec69561c0004) |
 | Mon, 29 Dec 2025 13:59:09 GMT | PWN101 — TryHackMe | SilentHex | [Read More](https://medium.com/p/83102338dc0f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 09:22:23 GMT | How Agile Has Effectively Ruined Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/466eb1ef3cf9) |
 | Mon, 29 Dec 2025 09:21:15 GMT | AI-Driven Privacy Attacks — When Anonymization Becomes Meaningless | David SEHYEON Baek | [Read More](https://medium.com/p/1d043b34ba12) |
 | Mon, 29 Dec 2025 09:21:15 GMT | Ethical hacking training in Hyderabad | APEC EDU | [Read More](https://medium.com/p/b3656dc6f397) |
-| Mon, 29 Dec 2025 09:20:15 GMT | HackTheBox Sherlocks — Caught Writeup | Mark@Saber | [Read More](https://medium.com/p/6d7d550b250e) |
-| Mon, 29 Dec 2025 09:19:02 GMT | CertiK Lists Scopuly on Skynet - A Major Step for Security & Transparency in Stellar DeFi | Scopuly | [Read More](https://medium.com/p/0ad15e35741b) |
-| Mon, 29 Dec 2025 09:16:28 GMT | Top 10 Vulnerability Management Tools | Kartiksharma | [Read More](https://medium.com/p/06907c31864a) |
-| Mon, 29 Dec 2025 09:15:59 GMT | AI-Driven Office Documents Password Recovery with HexStrike-AI and Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/3c8bb7deb82d) |
-| Mon, 29 Dec 2025 09:15:25 GMT | .NET File Operation Security Vulnerabilities — SSC Fortify Security Findings Analysis — Part 2 | Okan Yurt | [Read More](https://medium.com/p/de431f0f5dfe) |
-| Mon, 29 Dec 2025 09:11:04 GMT | Bounty Hacker — TryHackMe Walkthrough | Jacob Macdonnell | [Read More](https://medium.com/p/981bb9b8ed66) |
