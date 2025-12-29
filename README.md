@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 16:25:32 GMT | A Christmas Week Chaos | O. J. Okpabi | [Read More](https://medium.com/p/3611fce8b4db) |
 | Mon, 29 Dec 2025 16:18:04 GMT | Unlocking Linux Process Power: Part3 From Jobs to Limits: Owning Process Behavior | MR.7 | [Read More](https://medium.com/p/5ae909d2f842) |
 | Mon, 29 Dec 2025 16:05:57 GMT | Salt: What it Means in Web3 Security | Munirat Mohammed | [Read More](https://medium.com/p/9af88705a0d4) |
 | Mon, 29 Dec 2025 16:01:42 GMT | The Silence Of Romania’s Water Online | O. J. Okpabi | [Read More](https://medium.com/p/a565086caca0) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 10:43:44 GMT | The 2026 Security Thesis: Why “Defensive” Code is Dead | Gideon Cohen | [Read More](https://medium.com/p/60db29228fdd) |
 | Mon, 29 Dec 2025 10:38:37 GMT | How Cl0p Hackers Earned $500M+ by Hacking Supply Chains | Motasem Hamdan | [Read More](https://medium.com/p/77bd658bdb48) |
 | Mon, 29 Dec 2025 10:34:19 GMT | The Difference Between Feeling Secure and Being Secure | Digital Defense | [Read More](https://medium.com/p/c2ae9206b3b5) |
-| Mon, 29 Dec 2025 10:34:17 GMT | From Pranks to Profits: How Malware Evolved Into a Billion-Dollar Crime Industry | Yua Mikanana | [Read More](https://medium.com/p/c8806ca1dd6f) |
