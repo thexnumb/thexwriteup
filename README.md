@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 17:41:34 GMT | Using Programmatic Access in Snowflake | Jon Roberts | [Read More](https://medium.com/p/cd5224165bd8) |
+| Mon, 29 Dec 2025 17:35:15 GMT | Exploit SQL injection using sqlmap | Shyam Kumar | [Read More](https://medium.com/p/5c8667fe867d) |
+| Mon, 29 Dec 2025 17:34:04 GMT | Technical Report | German Aquino | [Read More](https://medium.com/p/0c4e9c937b27) |
+| Mon, 29 Dec 2025 17:32:08 GMT | Reading Production Android Code for the First Time: A Security Researcher’s Perspective | Tyreek Haynes | [Read More](https://medium.com/p/7cadaf893252) |
+| Mon, 29 Dec 2025 17:30:26 GMT | Cloud Backup vs Cloud Disaster Recovery: Key Differences Businesses Must Understand in 2026 | Techridge Solutions | [Read More](https://medium.com/p/e906e60efd58) |
+| Mon, 29 Dec 2025 17:23:08 GMT | Android Security Best Practices | Luan Ramos | [Read More](https://medium.com/p/6ba16576c3c5) |
+| Mon, 29 Dec 2025 17:19:37 GMT | Best Budget Outdoor PTZ Camera: Smart Security Without Breaking the Bank | Narjis Arshad | [Read More](https://medium.com/p/18fd4166ffad) |
+| Mon, 29 Dec 2025 17:13:30 GMT | Supply Chain Abuse: How npm Packages Became Phishing Infrastructure | Chetan Seripally | [Read More](https://medium.com/p/5c7d3139dbda) |
 | Mon, 29 Dec 2025 17:06:48 GMT | #14- Kali Linux - Exfiltration:  Moving Data Out Quietly | SDNTechForum | [Read More](https://medium.com/p/d4ebb9c3b44f) |
 | Mon, 29 Dec 2025 17:05:33 GMT | Why Modern Businesses Must Move Beyond Shared Passwords | Dr. Shashi Karhail | [Read More](https://medium.com/p/0c3acf1f4c34) |
 | Mon, 29 Dec 2025 17:04:48 GMT | From Code to Exploit: My Journey to Earning the Hackviser CAPT Certification | Gokhan Can | [Read More](https://medium.com/p/2bd2f00c3217) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 11:31:16 GMT | Microsoft Office 365 MFA Setup: What Admins Need to Know | NAKIVO | [Read More](https://medium.com/p/cb16f223e07f) |
 | Mon, 29 Dec 2025 11:26:23 GMT | Mau777 Login Link Alternatif Terbaru 2025: Akses Mudah ke Slot Gacor Anti Rungkad | Surakarta XXV | [Read More](https://medium.com/p/77c6b25211f1) |
 | Mon, 29 Dec 2025 11:24:52 GMT | Security Lab Simulation Project Part 18: Following Brute Force Playbook | Jenny | [Read More](https://medium.com/p/df9f2654988b) |
-| Mon, 29 Dec 2025 11:24:51 GMT | From Kerala to Global Cybersecurity: How Akash PS Founded AaveTech Using AI-Driven Ethical Hacking | Akash PS - Elite Ethical Hacker | [Read More](https://medium.com/p/de12d2b34698) |
-| Mon, 29 Dec 2025 11:21:02 GMT | The Concrete Vault Era: Why DeFi Is Growing Up | MORPAT | [Read More](https://medium.com/p/2514628d1440) |
-| Mon, 29 Dec 2025 11:19:19 GMT | Secure, Fast, Affordable: The Hosting Triangle Every WordPress Site Must Masters | Andy | [Read More](https://medium.com/p/4591e4215166) |
-| Mon, 29 Dec 2025 11:18:31 GMT | Operational Technology (OT) Cyber Training Programs: A Practical Guide for Industrial Teams | Arista Cyber | [Read More](https://medium.com/p/5c8b88698a21) |
-| Mon, 29 Dec 2025 11:17:47 GMT | The Architecture Tax: Why Security, Scalability, and Stability Can’t Be Retrofitted | Krishna Kumar Akurathi | [Read More](https://medium.com/p/b01b3042a882) |
-| Mon, 29 Dec 2025 11:12:24 GMT | The Prayers We Whisper But Never Post | Inspire: Viva La Vida | [Read More](https://medium.com/p/c636e585e0b3) |
-| Mon, 29 Dec 2025 11:04:55 GMT | Moving Forward with Memory Analysis: From Volatility to MemProcFS Part 1 | Dean | [Read More](https://medium.com/p/a28df61de30b) |
-| Mon, 29 Dec 2025 11:02:16 GMT | CVE‑2025‑14847: Unauthenticated Memory Disclosure in MongoDB’s zlib Decompression Pipeline | gm0 | [Read More](https://medium.com/p/67e88e831f9d) |
