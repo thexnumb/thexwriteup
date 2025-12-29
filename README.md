@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 20:21:31 GMT | Hello everyone . | Nirmalabhusal | [Read More](https://medium.com/p/84f76eec6d3c) |
+| Mon, 29 Dec 2025 20:20:42 GMT | Global Ransomware Raid: How International Authorities Dismantle Cybercrime Networks | Tor BBB | [Read More](https://medium.com/p/137806aa4b71) |
+| Mon, 29 Dec 2025 20:16:49 GMT | Why Your AI Strategy Will Fail Without a “Governance-First” Mindset | Mike Czarnecki | [Read More](https://medium.com/p/e7365829dbd1) |
+| Mon, 29 Dec 2025 20:15:21 GMT | Vulnerability Management: Beyond the Definition | Sourabh Grover | [Read More](https://medium.com/p/5dbb3f77da73) |
+| Mon, 29 Dec 2025 20:15:16 GMT | The Ratel Manifesto: Security is no longer a passive game | Fabio Meyer | [Read More](https://medium.com/p/567c5b84384a) |
+| Mon, 29 Dec 2025 20:13:23 GMT | Agents that can’t delete your database | George Fahmy | [Read More](https://medium.com/p/0a694362f8a3) |
+| Mon, 29 Dec 2025 20:02:20 GMT | Stop Leaking Secrets: Linux Security Checks Every DevOps Engineer Should Know | Arun Malve | [Read More](https://medium.com/p/cc5264fdea7f) |
+| Mon, 29 Dec 2025 19:55:38 GMT | picoCTF 2025 -Quantum Scrambler (Reverse Engineering Walkthrough) | Gregory Kovalchuk | [Read More](https://medium.com/p/f7380d11b0bf) |
+| Mon, 29 Dec 2025 19:55:18 GMT | HTTP Security Headers in Cybersecurity Explained | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/6632bcfa8f53) |
+| Mon, 29 Dec 2025 19:54:50 GMT | Modern ICT Academy System at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/5e3ab3a024da) |
+| Mon, 29 Dec 2025 19:49:30 GMT | December 2025 Cyber Threat Brief: When Security Tools Become the Target | Jay Simmons | [Read More](https://medium.com/p/e0c5d9bc85a7) |
+| Mon, 29 Dec 2025 19:49:09 GMT | Agentic AI as a New Failure Mode in ICS/OT | Muhammad Ali Khan | [Read More](https://medium.com/p/96d7f74dfee2) |
+| Mon, 29 Dec 2025 19:48:57 GMT | TRUSTED CRYPTO RECOVERY SERVICE - RECOVER YOUR FUNDS WITH NO UPFRONT PAYMENT. | Lawrenceaugust | [Read More](https://medium.com/p/b1901a862cf1) |
+| Mon, 29 Dec 2025 19:39:29 GMT | Deepfakes in 2026: Protecting Your Identity from AI-Generated Fraud | Marcellinus Prevailer | [Read More](https://medium.com/p/21339861a519) |
 | Mon, 29 Dec 2025 19:30:03 GMT | Hunting for live malware with URLScan | Ryan Murphy | [Read More](https://medium.com/p/de5085573f64) |
+| Mon, 29 Dec 2025 19:28:02 GMT | Villager For Pentesting | Adrian Romanov | [Read More](https://medium.com/p/2033eded8ed4) |
 | Mon, 29 Dec 2025 19:09:04 GMT | How i found Sensitive Data Exposure in NASA Vulnerable Disclosure Program | hihipro | [Read More](https://medium.com/p/70139bd47ecb) |
 | Mon, 29 Dec 2025 18:37:22 GMT | December 29, 2025 | Austin Laughter | [Read More](https://medium.com/p/6eedd2ce60a1) |
 | Mon, 29 Dec 2025 18:35:17 GMT | The Story of MongoBleed : When Trusting the Client Went Wrong | Rajat Yadav | [Read More](https://medium.com/p/05b29543ee10) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 12:55:12 GMT | Learning Web Application Security with DVWA and OWASP ZAP | Claudius Thompson | [Read More](https://medium.com/p/f9f714b3cb22) |
 | Mon, 29 Dec 2025 12:53:08 GMT | Secure CI/CD Pipeline: Github Actions, AWS, EC2 | Sanjna Chaturvedi | [Read More](https://medium.com/p/78d9da19af0a) |
 | Mon, 29 Dec 2025 12:52:19 GMT | The Emerging Threat of Idea Leakage | David at SenTeGuard | [Read More](https://medium.com/p/766074e61093) |
-| Mon, 29 Dec 2025 12:47:00 GMT | picoCTF Trickster Walkthrough: Exploiting a PNG-Only Image Processing Web App | Debashish Sadhu | [Read More](https://medium.com/p/f47deb173c78) |
-| Mon, 29 Dec 2025 12:46:42 GMT | Why Use char[] Instead of String for Passwords | Namrata | [Read More](https://medium.com/p/6451dcd8892a) |
-| Mon, 29 Dec 2025 12:42:44 GMT | mejoreTop empresas de pentesting en México — Guía actualizada | Selspy - Trending products for dropshipping | [Read More](https://medium.com/p/007755fd7ad2) |
-| Mon, 29 Dec 2025 12:41:28 GMT | [LetsDefend Write-up] TinyTurla Backdoor | Chicken0248 | [Read More](https://medium.com/p/ba61da6972a1) |
-| Mon, 29 Dec 2025 12:40:48 GMT | Captured in Love | Alizabeth Amelia Rose | [Read More](https://medium.com/p/53c4fa1a7665) |
-| Mon, 29 Dec 2025 12:39:11 GMT | Why people born in the ’80s and ’90s have better cybersecurity instincts | Mahbubul Haque | [Read More](https://medium.com/p/e5ffb42506db) |
-| Mon, 29 Dec 2025 12:37:23 GMT | I Stopped Switching Between 20 Tools After Discovering This Platform | cybrNK | [Read More](https://medium.com/p/0c838c8282a7) |
-| Mon, 29 Dec 2025 12:35:03 GMT | Importance of Data Security in MLM and Direct Selling Software in 2026 | shailaja.sankalp | [Read More](https://medium.com/p/6871d9793184) |
-| Mon, 29 Dec 2025 12:33:16 GMT | Day 147 — Behemoth Level-4 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/31ede4243bd8) |
-| Mon, 29 Dec 2025 12:30:57 GMT | What Arch Linux Forces You to Learn | MouhibMahadbi | [Read More](https://medium.com/p/18050ada86f0) |
-| Mon, 29 Dec 2025 12:24:04 GMT | 2026 Will Be the Year AI Has to Prove ROI in Cybersecurity | Graylog | [Read More](https://medium.com/p/f4ced57ae0b4) |
-| Mon, 29 Dec 2025 12:07:36 GMT | CEHv12: SQL Injectio(Practised) (Module 15) | Aditya Kumar | [Read More](https://medium.com/p/1f06f45acf8f) |
-| Mon, 29 Dec 2025 12:03:42 GMT | Cyber Process Hazard Analysis (CPHA) Services for OT and Process Safety | Arista Cyber | [Read More](https://medium.com/p/d4859e28e19e) |
-| Mon, 29 Dec 2025 12:02:24 GMT | BLUE Team | Mmohammadsalman | [Read More](https://medium.com/p/e3e0d3b2e492) |
-| Mon, 29 Dec 2025 12:02:24 GMT | Understanding CWE-290: Authentication Bypass by Spoofing | Walter Moar | [Read More](https://medium.com/p/00f17741f5df) |
