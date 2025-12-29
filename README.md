@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 21:12:53 GMT | MongoBleed : The Tale of MongDB error | Shikhar Sinha | [Read More](https://medium.com/p/595a39095dc6) |
+| Mon, 29 Dec 2025 21:12:27 GMT | Growing up in the hacking underground before DOS, IRC, and phreaking went mainstream | Sam Gabsi | [Read More](https://medium.com/p/edb3ce11633f) |
+| Mon, 29 Dec 2025 21:12:25 GMT | Custom AI, Demystified: A Practical Guide for Decision Makers. | Sukanya P | [Read More](https://medium.com/p/6c1d65cc277a) |
+| Mon, 29 Dec 2025 21:09:58 GMT | Fortifying the Defense Line: I Completed the Turkcell Geleceği Yazanlar “Cyber Security Analyst”… | Gokhan Can | [Read More](https://medium.com/p/ff13dd8bb35b) |
+| Mon, 29 Dec 2025 21:02:23 GMT | Static Malware Analysis 101 on Kali Linux (VM): Metasploit Setup, xxd, Endianness, and PE Triage | The Commoness | [Read More](https://medium.com/p/f4db8cc1d7db) |
+| Mon, 29 Dec 2025 20:59:08 GMT | Advent of Cyber Day 3: Splunk Basics — Did You SIEM? | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/307c05baad59) |
+| Mon, 29 Dec 2025 20:58:30 GMT | Finding bugs in an ancient release of GNU zebra from a crusty second-hand router | Rastislonge | [Read More](https://medium.com/p/cb4c608ad8de) |
 | Mon, 29 Dec 2025 20:43:03 GMT | Hackeado por ser “Eficiente”☠️ (Parte 1) | Saulo Briceño Wong | [Read More](https://medium.com/p/ac542bf9c3d3) |
 | Mon, 29 Dec 2025 20:35:14 GMT | Margus Reinsalu | margus reinsalu | [Read More](https://medium.com/p/578a38a4cc81) |
 | Mon, 29 Dec 2025 20:31:36 GMT | Inside a Phishing Campaign: Understanding Attacker Strategy with GoPhish (Part 3) | Cyber Timi | [Read More](https://medium.com/p/ea8064a673eb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 13:40:38 GMT | The Architecture of Forgetting | SheWrites | [Read More](https://medium.com/p/eb1552133c80) |
 | Mon, 29 Dec 2025 13:39:26 GMT | Audit Your Arch Linux System with Lynis | 0x77 | [Read More](https://medium.com/p/be9cb988d4aa) |
 | Mon, 29 Dec 2025 13:24:09 GMT | Practical ways to mitigate SSRF attacks | AT | [Read More](https://medium.com/p/586b013499fb) |
-| Mon, 29 Dec 2025 13:17:27 GMT | How AI is Redefining the “Watchful Eye” at Work? | Himanshu Chaudhary | [Read More](https://medium.com/p/4f5d41eced18) |
-| Mon, 29 Dec 2025 13:04:42 GMT | 5 Cybersecurity Habits Every Remote Worker Needs in 2025 | Fareehasial | [Read More](https://medium.com/p/450f621b7c87) |
-| Mon, 29 Dec 2025 13:02:33 GMT | How I Implemented WhatsApp OTP Verification in a REST API (Step-by-Step Guide) | AngsCode | [Read More](https://medium.com/p/5f40893b024c) |
-| Mon, 29 Dec 2025 13:02:25 GMT | AI Didn’t Change This Week. The Rules Around It Did. | A D | [Read More](https://medium.com/p/d3147ca62bb1) |
-| Mon, 29 Dec 2025 13:02:25 GMT | Linux Security Habit #12: I Always Check Kernel Timers Before Trusting System Stability | Faruk Ahmed | [Read More](https://medium.com/p/535eeab48972) |
-| Mon, 29 Dec 2025 13:02:25 GMT | [AD攻防] NTLM Relay 攻擊 | 陳禹璿 | [Read More](https://medium.com/p/1d89d1e14781) |
-| Mon, 29 Dec 2025 12:57:06 GMT | CyberHeroes TryHackMe Walkthrough | Syed Ali Bin Mohammad | [Read More](https://medium.com/p/bc029ca7949f) |
