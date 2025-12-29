@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 19:30:03 GMT | Hunting for live malware with URLScan | Ryan Murphy | [Read More](https://medium.com/p/de5085573f64) |
 | Mon, 29 Dec 2025 19:09:04 GMT | How i found Sensitive Data Exposure in NASA Vulnerable Disclosure Program | hihipro | [Read More](https://medium.com/p/70139bd47ecb) |
 | Mon, 29 Dec 2025 18:37:22 GMT | December 29, 2025 | Austin Laughter | [Read More](https://medium.com/p/6eedd2ce60a1) |
 | Mon, 29 Dec 2025 18:35:17 GMT | The Story of MongoBleed : When Trusting the Client Went Wrong | Rajat Yadav | [Read More](https://medium.com/p/05b29543ee10) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 12:03:42 GMT | Cyber Process Hazard Analysis (CPHA) Services for OT and Process Safety | Arista Cyber | [Read More](https://medium.com/p/d4859e28e19e) |
 | Mon, 29 Dec 2025 12:02:24 GMT | BLUE Team | Mmohammadsalman | [Read More](https://medium.com/p/e3e0d3b2e492) |
 | Mon, 29 Dec 2025 12:02:24 GMT | Understanding CWE-290: Authentication Bypass by Spoofing | Walter Moar | [Read More](https://medium.com/p/00f17741f5df) |
-| Mon, 29 Dec 2025 12:02:08 GMT | From Subtle IDOR to Full Account Takeover (Including Admin Access) | Amit Dutta | [Read More](https://medium.com/p/43b468c5542b) |
