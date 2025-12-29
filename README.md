@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 07:21:28 GMT | Why the Dark Web Is My Recon Tool — Not My Marketplace ️‍♂️ | Iski | [Read More](https://medium.com/p/1e33479115ef) |
+| Mon, 29 Dec 2025 07:13:14 GMT | SIEM Triage and Incident Correlation in Microsoft Sentinel and Microsoft Defender | Debis | [Read More](https://medium.com/p/42e042fabeb1) |
+| Mon, 29 Dec 2025 07:12:02 GMT | WhatsApp Security Made Simple with Mac Antivirus | Siyanoav | [Read More](https://medium.com/p/703854462342) |
+| Mon, 29 Dec 2025 07:05:38 GMT | Python library for JWT security testing | Amira | [Read More](https://medium.com/p/d29569e15d46) |
+| Mon, 29 Dec 2025 07:03:18 GMT | Germany’s IT Job Market Outlook Across Entry, Mid, and Senior Roles | gyan guide | [Read More](https://medium.com/p/d6e7633a920a) |
+| Mon, 29 Dec 2025 07:01:50 GMT | AI-Driven PDF Password Recovery with HexStrike-AI and Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/cfa7eb0fae91) |
+| Mon, 29 Dec 2025 06:59:34 GMT | Best Free Online Cybersecurity Courses with Certificates in 2026 | Ayza Anam | [Read More](https://medium.com/p/6304b7a3f36a) |
+| Mon, 29 Dec 2025 06:57:32 GMT | Why Energy is the Foundation of AI-Powered Cybersecurity in an Era of Explosive AI-Driven Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/4493a8fc2b8b) |
+| Mon, 29 Dec 2025 06:56:58 GMT | Week 5 SOC Analyst Internship | Adeleke Theophilus O | [Read More](https://medium.com/p/f07cf052e4cb) |
+| Mon, 29 Dec 2025 06:55:16 GMT | Red Team Reporting Toolkit (10 Templates & Tools): Master Professional Pentest Reports Step-by-Step | Very Lazy Tech | [Read More](https://medium.com/p/658a5db7941d) |
+| Mon, 29 Dec 2025 06:40:06 GMT | The Last Call | Sakhi Writes | [Read More](https://medium.com/p/bd9ed5b35917) |
 | Mon, 29 Dec 2025 06:37:43 GMT | Cybersecurity Consulting and Services That Strengthen Modern Business Security - CyberSecOp | Michael J Weber | [Read More](https://medium.com/p/7ebc8f95c1d0) |
+| Mon, 29 Dec 2025 06:35:15 GMT | 10 Best Enterprise Content Management Software Platforms Compared | Quadrant IT Services | [Read More](https://medium.com/p/6fc35cab1b48) |
 | Mon, 29 Dec 2025 06:33:46 GMT | Unarmed Security Services in Las Vegas - Palisade Defense | Palisade Defense | [Read More](https://medium.com/p/ecfca143e29a) |
 | Mon, 29 Dec 2025 06:32:53 GMT | What Is Cybersecurity? A Beginner-Friendly Introduction | Eternity Ocean University | [Read More](https://medium.com/p/84e84bbf12be) |
 | Mon, 29 Dec 2025 06:21:21 GMT | How to Enable DNS over HTTPS on Firefox Android to Block Adult Content ? | Stack Architect | [Read More](https://medium.com/p/26aa48867307) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 20:35:22 GMT | Mastering Web Security | KENNETH DAVID | [Read More](https://medium.com/p/32279e7b1bb7) |
 | Sun, 28 Dec 2025 20:29:01 GMT | Understanding PII and Initial Discovery Techniques (Part 1/3) | Cybersecplayground | [Read More](https://medium.com/p/417cfac5b050) |
 | Sun, 28 Dec 2025 20:26:59 GMT | Your Phone’s OS Is a Data Policy. These Are the Alternatives. | BiyteLüm | [Read More](https://medium.com/p/412310014b1e) |
-| Sun, 28 Dec 2025 20:20:44 GMT | El costo oculto de la IA | Regina N. Molares | [Read More](https://medium.com/p/1e5881af1fd5) |
-| Sun, 28 Dec 2025 20:17:35 GMT | NMAP: The GOAT of Reconnaissance | Cybersensus | [Read More](https://medium.com/p/853222fd3000) |
-| Sun, 28 Dec 2025 19:59:51 GMT | When Should a Pre-Teen Get a Smartphone? Pros, Cons, and Guidelines | Edwin Odoyo | [Read More](https://medium.com/p/2f36d55f29ad) |
-| Sun, 28 Dec 2025 19:55:52 GMT | How to Access 404 files of any server | Muhammad Haider Tallal | [Read More](https://medium.com/p/1fa1dfeec028) |
-| Sun, 28 Dec 2025 19:53:36 GMT | imToken Activity Report: December 2025 | imToken Persian Community | [Read More](https://medium.com/p/e23918d2e7d5) |
-| Sun, 28 Dec 2025 19:47:55 GMT | When the Bees Came for My Business: Unmasking Enterprise-Level Surveillance on Personal Devices | Krystal | [Read More](https://medium.com/p/96317520c2ea) |
-| Sun, 28 Dec 2025 19:47:12 GMT | Stop Putting Sensitive Data Into ChatGPT — Here’s the Safer Way I Use AI in 2025 | Satyam Pathania | [Read More](https://medium.com/p/c11edd853a17) |
-| Sun, 28 Dec 2025 19:47:01 GMT | Dedicated Server: The Backbone of High-Performance & Secure Hosting | Tenbyte cloud | [Read More](https://medium.com/p/23f8b1bbcb1a) |
-| Sun, 28 Dec 2025 19:44:52 GMT | Security Scanning is Easy. Triage is the Nightmare. | Kay Adelaja | [Read More](https://medium.com/p/60f7600da3b2) |
-| Sun, 28 Dec 2025 19:40:52 GMT | Kapıdaki Güvenlik Görevlisi: Tarayıcı vs. Sunucu | Cyber Web | [Read More](https://medium.com/p/c9b7075bc699) |
-| Sun, 28 Dec 2025 19:31:30 GMT | Crypto-Agility | Aykut Mert Pekdemir | [Read More](https://medium.com/p/53dc9c7f451e) |
-| Sun, 28 Dec 2025 19:22:10 GMT | imToken Activity Report: Desember 2025 | imToken Persian Community | [Read More](https://medium.com/p/7ea88aeb6e65) |
