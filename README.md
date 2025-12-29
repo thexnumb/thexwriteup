@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 22:20:48 GMT | How to not get hacked | Vikash Bajaj | [Read More](https://medium.com/p/1bf47a793190) |
+| Mon, 29 Dec 2025 22:16:13 GMT | The Genesis of Information | Ilexa Yardley | [Read More](https://medium.com/p/0b685c19b1bf) |
+| Mon, 29 Dec 2025 22:07:32 GMT | Why Your DevOps Team Needs KAITO (And How It’ll Save Your Sanity) | thenotorious runner | [Read More](https://medium.com/p/4a4665977088) |
+| Mon, 29 Dec 2025 21:41:20 GMT | TryHackMe Writeup: Cyborg | Berkay AĞGÜL | [Read More](https://medium.com/p/2d10b5b79296) |
 | Mon, 29 Dec 2025 21:22:40 GMT | Real Windows Maintenance Without Subscriptions Or Gimmicks | Geoffrey Wenger | [Read More](https://medium.com/p/392a1fa91e6d) |
 | Mon, 29 Dec 2025 21:21:44 GMT | Why CyberSolutions (436A) Is Not the SaaS IPO You Think | Japan IPO Analyze | [Read More](https://medium.com/p/2fa08077b320) |
 | Mon, 29 Dec 2025 21:12:53 GMT | MongoBleed : The Tale of MongDB error | Shikhar Sinha | [Read More](https://medium.com/p/595a39095dc6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 14:20:58 GMT | VULNHUB HACKFEST2016: QUAOAR | Rin_xinFabrelab | [Read More](https://medium.com/p/cce6b42f8a4a) |
 | Mon, 29 Dec 2025 14:20:55 GMT | [LetsDefend Write-up] PowerShell Keylogger | Chicken0248 | [Read More](https://medium.com/p/cee3496873d7) |
 | Mon, 29 Dec 2025 14:19:48 GMT | Automated Gates in Singapore Borders: Passengers are Human or Data? | Mohamed Reyas | [Read More](https://medium.com/p/d94006fc9c40) |
-| Mon, 29 Dec 2025 14:01:00 GMT | Inside Out 2: Glued to the Phone — Exploring the Emotional Impact of Technology | Motherlandlove | [Read More](https://medium.com/p/ec69561c0004) |
-| Mon, 29 Dec 2025 13:59:09 GMT | PWN101 — TryHackMe | SilentHex | [Read More](https://medium.com/p/83102338dc0f) |
-| Mon, 29 Dec 2025 13:50:17 GMT | HACK THE BOX — Active | Alleyezonme | [Read More](https://medium.com/p/1a848140eb34) |
-| Mon, 29 Dec 2025 13:40:38 GMT | The Architecture of Forgetting | SheWrites | [Read More](https://medium.com/p/eb1552133c80) |
