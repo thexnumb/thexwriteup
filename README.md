@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 21:22:40 GMT | Real Windows Maintenance Without Subscriptions Or Gimmicks | Geoffrey Wenger | [Read More](https://medium.com/p/392a1fa91e6d) |
+| Mon, 29 Dec 2025 21:21:44 GMT | Why CyberSolutions (436A) Is Not the SaaS IPO You Think | Japan IPO Analyze | [Read More](https://medium.com/p/2fa08077b320) |
 | Mon, 29 Dec 2025 21:12:53 GMT | MongoBleed : The Tale of MongDB error | Shikhar Sinha | [Read More](https://medium.com/p/595a39095dc6) |
 | Mon, 29 Dec 2025 21:12:27 GMT | Growing up in the hacking underground before DOS, IRC, and phreaking went mainstream | Sam Gabsi | [Read More](https://medium.com/p/edb3ce11633f) |
 | Mon, 29 Dec 2025 21:12:25 GMT | Custom AI, Demystified: A Practical Guide for Decision Makers. | Sukanya P | [Read More](https://medium.com/p/6c1d65cc277a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 13:59:09 GMT | PWN101 — TryHackMe | SilentHex | [Read More](https://medium.com/p/83102338dc0f) |
 | Mon, 29 Dec 2025 13:50:17 GMT | HACK THE BOX — Active | Alleyezonme | [Read More](https://medium.com/p/1a848140eb34) |
 | Mon, 29 Dec 2025 13:40:38 GMT | The Architecture of Forgetting | SheWrites | [Read More](https://medium.com/p/eb1552133c80) |
-| Mon, 29 Dec 2025 13:39:26 GMT | Audit Your Arch Linux System with Lynis | 0x77 | [Read More](https://medium.com/p/be9cb988d4aa) |
-| Mon, 29 Dec 2025 13:24:09 GMT | Practical ways to mitigate SSRF attacks | AT | [Read More](https://medium.com/p/586b013499fb) |
