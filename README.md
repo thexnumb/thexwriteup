@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 10:23:43 GMT | # Top 4 Most Common Web Vulnerabilities Every Beginner Should Master (P1–P4) | Abdulbar | [Read More](https://medium.com/p/d12ba935519e) |
+| Mon, 29 Dec 2025 10:22:16 GMT | Why Cyber Threat Intelligence Is No Longer Optional for SOC and OT Engineers for Airports Security… | Wedd Bukhari | [Read More](https://medium.com/p/f08a2375f099) |
+| Mon, 29 Dec 2025 10:17:09 GMT | HTB_AD Enumeration & Attacks — Skills Assessment Part II | Omar Al-Qawasmi | [Read More](https://medium.com/p/3b8c3595ae04) |
+| Mon, 29 Dec 2025 10:16:58 GMT | CAPenX: An AppSec Exam That Forces You to Think Like a Pentester | Kishan Chak | [Read More](https://medium.com/p/7fce83f81403) |
+| Mon, 29 Dec 2025 10:14:19 GMT | How I Built a Home Lab for Under $0: A Beginner’s Guide | Laaguidi Yassine | [Read More](https://medium.com/p/4dcea9eae91d) |
+| Mon, 29 Dec 2025 10:13:00 GMT | Why Insider Risk Management Is Critical in a Cloud-First Security Strategy | Rakeshved | [Read More](https://medium.com/p/f624e73e4326) |
+| Mon, 29 Dec 2025 10:11:52 GMT | How Network Vulnerability Scanners Detect Hidden Attack Surfaces? | Rachna Tripathi | [Read More](https://medium.com/p/f4a224ec9b6d) |
+| Mon, 29 Dec 2025 10:11:32 GMT | UPI Payment Scams in India: Small Mistakes That Lead to Big Losses | Ankit rai | [Read More](https://medium.com/p/5de439b65e63) |
+| Mon, 29 Dec 2025 10:09:34 GMT | API Key vs OAuth vs mTLS — When to Use What | Suraj Bhandari | [Read More](https://medium.com/p/93e3e37f3200) |
+| Mon, 29 Dec 2025 10:06:08 GMT | You Do Not Need to Be Technical to Learn Agentic AI Security In 2026 — Part 1 | Taimur Ijlal | [Read More](https://medium.com/p/76f73329cdcc) |
+| Mon, 29 Dec 2025 10:05:44 GMT | SECPlayground Bloody Xmas2025 - Forensics Write-UP | pipe2bot | [Read More](https://medium.com/p/8b779b6b3a85) |
+| Mon, 29 Dec 2025 10:05:07 GMT | MongoBleed Security Crisis: Protecting Your Database Infrastructure from CVE-2025–14847 | Technijian | [Read More](https://medium.com/p/4f9ad71d9d91) |
+| Mon, 29 Dec 2025 10:02:54 GMT | Prompt Injection: LLM Güvenliğinin En Büyük Tehdidi | Ahmet Bozkurt | [Read More](https://medium.com/p/ef7202031cde) |
+| Mon, 29 Dec 2025 09:57:14 GMT | Token-Efficient RAG: Using Query Intent to Reduce Cost Without Losing Accuracy | Varun Setia | [Read More](https://medium.com/p/07adacf7c563) |
+| Mon, 29 Dec 2025 09:54:07 GMT | Cheap but Unbreakable: The VPS Hosting Setup Built for Speed and Security | Ann Taylor | [Read More](https://medium.com/p/e7bfa0540e70) |
+| Mon, 29 Dec 2025 09:50:36 GMT | Your ChatGPT History Might Be Exposed: How to Audit Your Privacy in 10 Minutes | Tamzidul Haque | [Read More](https://medium.com/p/8f9a00e40e58) |
+| Mon, 29 Dec 2025 09:49:54 GMT | A Silly Developer Mistake: From User to Super Admin in One Hidden Parameter | Lokesh Soni | [Read More](https://medium.com/p/4c79767e2caf) |
+| Mon, 29 Dec 2025 09:47:59 GMT | HTB_AD Enumeration & Attacks — Skills Assessment Part I | Omar Al-Qawasmi | [Read More](https://medium.com/p/04c4437e2547) |
+| Mon, 29 Dec 2025 09:46:46 GMT | How AI Pentesting identifies attack paths humans often miss? | Meerab Khan | [Read More](https://medium.com/p/12149cd6ac79) |
+| Mon, 29 Dec 2025 09:44:43 GMT | The “Pay-to-Play” Withdrawal Scam: A Structural Analysis | Sterling Vance | [Read More](https://medium.com/p/99f9cb11167e) |
+| Mon, 29 Dec 2025 09:38:59 GMT | Is Your Identity Security Broken? This Will Fix It | Redfox Security | [Read More](https://medium.com/p/de8ad9512d79) |
+| Mon, 29 Dec 2025 09:32:08 GMT | Cold Data Explosion and Glass-Based Archival Storage with Femtosecond Lasers. | Jelaletdin Çarymuhammedow | [Read More](https://medium.com/p/0c9bf9e8dd9a) |
 | Mon, 29 Dec 2025 09:26:51 GMT | Ice Pi — Harnessing the Raw Hacking Power of a Raspberry Pi and Kali Linux | Toshith | [Read More](https://medium.com/p/ca658b40660e) |
 | Mon, 29 Dec 2025 09:26:48 GMT | Expert Remote IT Support Services for Sydney Firms | Any network | [Read More](https://medium.com/p/91e512837729) |
 | Mon, 29 Dec 2025 09:25:59 GMT | Zuri Njoku Aligning Information Technology with Business Strategy | Zuri Njoku | [Read More](https://medium.com/p/32c5dcb350d1) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 04:54:57 GMT | Unlocking the Power of ARPscan: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/9b6b6fc6c1c5) |
 | Mon, 29 Dec 2025 04:53:47 GMT | Getting Started with ARPscan: The Fast Lane to Network Discovery | Cybeague Technologies | [Read More](https://medium.com/p/b8207ba38748) |
 | Mon, 29 Dec 2025 04:39:32 GMT | Mencari Celah XSS Secara Otomatis dengan PwnXSS | Ginda Sundara | [Read More](https://medium.com/p/ea7f5ad741f2) |
-| Mon, 29 Dec 2025 04:37:16 GMT | The Myth of the Trusted Internal Network | Travis Ray Caverhill | [Read More](https://medium.com/p/de28bd14fe92) |
-| Mon, 29 Dec 2025 04:32:35 GMT | The Warren Buffett Method: How to Calculate Intrinsic Value Step-by-Step | Chiro Adsmedia | [Read More](https://medium.com/p/9aaf074167b7) |
-| Mon, 29 Dec 2025 04:32:28 GMT | APIs, Scrapers, and the Art of Reliable Data Pipelines: Engineering CVE Intelligence That Doesn’t… | Shubh Gupta | [Read More](https://medium.com/p/499acb588ed8) |
-| Mon, 29 Dec 2025 04:32:28 GMT | 7 Cross-Program Security Mistakes That Hide Until Audit | Nexumo | [Read More](https://medium.com/p/5748e98b27d6) |
-| Mon, 29 Dec 2025 04:13:50 GMT | Your Hospital’s MFA Is a Lie: How Session Hijacking Bypasses “Zero Trust” Daily | Travis Ray Caverhill | [Read More](https://medium.com/p/7241cb650dae) |
-| Mon, 29 Dec 2025 04:09:55 GMT | How I Paid from$99 college fees to $0.5- Price Tampering vulnerability | Algo Demo | [Read More](https://medium.com/p/344196b802b5) |
-| Mon, 29 Dec 2025 04:06:10 GMT | Information Disclosure Menggunakan Dirsearch | Agil Jibrin | [Read More](https://medium.com/p/4aed847b8910) |
-| Mon, 29 Dec 2025 03:52:05 GMT | ️ How I Earned $$$ by Exploiting an XML-RPC SSRF in a WordPress Site | Algo Demo | [Read More](https://medium.com/p/1d5822f0bd50) |
-| Mon, 29 Dec 2025 03:35:19 GMT | A critical vulnerability in MongoDB, named MongoBleed (CVE-2025–14847) | Md Shoriful Islam Ashiq | [Read More](https://medium.com/p/1c582e87e5ae) |
-| Mon, 29 Dec 2025 03:34:58 GMT | HTB Academy — File Upload Attacks: A Walkthrough of the Challenges (Part 1) | BotsiCat | [Read More](https://medium.com/p/3a4386afb2a7) |
-| Mon, 29 Dec 2025 03:32:41 GMT | When Old Tools Break New Defenses: Inside the ClickFix Abuse of finger.exe | Deven Chhajed | [Read More](https://medium.com/p/6a05db14ecd0) |
-| Mon, 29 Dec 2025 03:28:41 GMT | Is Your AI Strategy Secure? The 4 Unseen Risks Every Leader Must Manage | Raul Leite | [Read More](https://medium.com/p/7c697e7d8cea) |
-| Mon, 29 Dec 2025 03:24:59 GMT | Enhancing Threat Detection and Response in Enterprises using AI | Farrukh Khanzada | [Read More](https://medium.com/p/3676c10ef841) |
-| Mon, 29 Dec 2025 03:09:11 GMT | I Cleared the Azure Fundamentals (AZ-900) Exam — Here’s My Honest Experience & What You Actually… | Pooja Borade | [Read More](https://medium.com/p/ae8ecc25d9d3) |
-| Mon, 29 Dec 2025 03:08:36 GMT | Practical JWT Mastery in .NET | Compile & Conquer | [Read More](https://medium.com/p/5a7c94becf17) |
-| Mon, 29 Dec 2025 02:43:27 GMT | [Ethernaut] 8. Vault | Jiseop Shin | [Read More](https://medium.com/p/9484a3a316b0) |
-| Mon, 29 Dec 2025 02:36:42 GMT | Proving Grounds - Access | jniket | [Read More](https://medium.com/p/1153d117b966) |
-| Mon, 29 Dec 2025 02:14:56 GMT | Anti-Forensic Techniques to Cover Your Tracks, Part 3 | z3r0trust | [Read More](https://medium.com/p/9e4ed388640c) |
-| Mon, 29 Dec 2025 01:56:49 GMT | One Liners Cheat sheet For Bug bounty Hunter | Mainekhacker | [Read More](https://medium.com/p/46295c8be568) |
-| Mon, 29 Dec 2025 01:27:06 GMT | WhatsApp Scammers Use Fake New Year Greetings to Steal Data | DevaDas Writer | [Read More](https://medium.com/p/c07f8da137f9) |
-| Mon, 29 Dec 2025 00:56:01 GMT | 63-Year-Old Chairman Marries 38-Year-Old: “I Married for Love, Age Doesn’t Matter” | Beverly Green | [Read More](https://medium.com/p/b5780ac072d1) |
-| Mon, 29 Dec 2025 00:47:56 GMT | Nano Banana is insane!!! | Bassam Tantawi | [Read More](https://medium.com/p/39b405f868bc) |
