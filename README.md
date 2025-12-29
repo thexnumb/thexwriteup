@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 08:23:32 GMT | On Vulnerability, Fear, and the Power We Think We’ve Lost | Adefunke Adeniyi | [Read More](https://medium.com/p/489dffb280e3) |
+| Mon, 29 Dec 2025 08:22:16 GMT | Identity as a Service (IDaaS) Market Size, Share, and Growth Forecast | Michel mathew | [Read More](https://medium.com/p/d57a6f5aad80) |
+| Mon, 29 Dec 2025 08:17:53 GMT | Incident Response Services That Protect Your Business from Cyber Threats - CyberSecOp | Michael J Weber | [Read More](https://medium.com/p/df733aea5019) |
+| Mon, 29 Dec 2025 08:12:47 GMT | 2026 Best HR & Workflow Software & People Management Tool | Charles | [Read More](https://medium.com/p/e73cb852d757) |
+| Mon, 29 Dec 2025 08:01:31 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/588ea70dd078) |
+| Mon, 29 Dec 2025 08:01:19 GMT | I Watched a 45-Person Company Waste $12,000 Because They Trusted Norton’s “Small Business” Label | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/acecc7f4b107) |
+| Mon, 29 Dec 2025 07:58:08 GMT | Why Location Intelligence is the Missing Piece in Your Zero Trust Strategy | Sasmita Maharana | [Read More](https://medium.com/p/e7406bab563a) |
+| Mon, 29 Dec 2025 07:56:02 GMT | Which Information Technology Course Has the Best Scope in 2026? | postgraduateguru | [Read More](https://medium.com/p/cec8f3b3981d) |
+| Mon, 29 Dec 2025 07:55:30 GMT | WELCOME TO ETHIXBIT –DHANANJAY NETAM - ETHICAL HACKING & CYBERSECURITY GUIDES | Ethixbit | [Read More](https://medium.com/p/1bed160816ca) |
+| Mon, 29 Dec 2025 07:48:31 GMT | Persistent XSS via Document Upload | Saud Ahmad | [Read More](https://medium.com/p/119cb7e83b5a) |
+| Mon, 29 Dec 2025 07:46:45 GMT | FortiGate en Production — Partie 2 : Haute Disponibilité (HA) | Yasmine kechid | [Read More](https://medium.com/p/a4267cfc0b20) |
+| Mon, 29 Dec 2025 07:46:34 GMT | How secure is secure for a home-lab? | Sudhi | [Read More](https://medium.com/p/d7111594d900) |
 | Mon, 29 Dec 2025 07:43:49 GMT | How to Use Python venv (Virtual Environments) the Right Way | Jared Douville | [Read More](https://medium.com/p/9da0b56efa9a) |
 | Mon, 29 Dec 2025 07:39:00 GMT | Best Managed IT Infrastructure Services for Scalable Business Operations | Samvaskaran | [Read More](https://medium.com/p/414f58e20767) |
 | Mon, 29 Dec 2025 07:37:44 GMT | Beyond the Green Checkmark: Why Your Security Audit Is Probably Lying to You | Hui Zhu | [Read More](https://medium.com/p/66b34c6c84aa) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 22:33:58 GMT | Baby  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/3cdf8a830b7d) |
 | Sun, 28 Dec 2025 22:32:41 GMT | Anti-Malware Sandboxing Analysis | Esra Kayhan | [Read More](https://medium.com/p/119ba3ef76fa) |
 | Sun, 28 Dec 2025 22:32:22 GMT | Vulnerability Scan False-Positive Management | Esra Kayhan | [Read More](https://medium.com/p/18dfc6c7b0ad) |
-| Sun, 28 Dec 2025 22:13:52 GMT | Nikto Lab: 3 Web Security Lessons Every Hacker Needs | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/b57a44e6819d) |
-| Sun, 28 Dec 2025 22:12:20 GMT | Domain Admin Her Yerde: Siber Saldırganların En Sevdiği Senaryo ve Tier Model Çözümü | Mustafa Gokalp Mutlu | [Read More](https://medium.com/p/85a695d5faca) |
-| Sun, 28 Dec 2025 22:07:41 GMT | Why Eastern Europe Builds the World’s Best Cybersecurity ️ | Pramodh Casanova | [Read More](https://medium.com/p/a3139f913fe0) |
-| Sun, 28 Dec 2025 21:55:29 GMT | Malware Reverse Engineering Infrastructure | bl77rd | [Read More](https://medium.com/p/11b97407dc1f) |
-| Sun, 28 Dec 2025 21:50:46 GMT | Reflexiones del 2025 y novedades de cara al 2026 | Tiziano Mass | [Read More](https://medium.com/p/d74d122dd696) |
-| Sun, 28 Dec 2025 21:50:19 GMT | From Reverse DNS to Super Admin: How I Earned $7,500 Finding an Exposed Admin Panel | Ahmed Ghadban | [Read More](https://medium.com/p/22500c65fe27) |
-| Sun, 28 Dec 2025 21:27:22 GMT | CyberTalents — Evil Rick writeup | Abdelrahman Zourob | [Read More](https://medium.com/p/9fe581720b27) |
-| Sun, 28 Dec 2025 21:24:53 GMT | The Cost of Being the Person Everyone Calls During a Crisis: Invisible Battle Scars of the Human… | Santhosh Adiga U | [Read More](https://medium.com/p/719499f117fa) |
-| Sun, 28 Dec 2025 21:24:41 GMT | Google SOC | Mmohammadsalman | [Read More](https://medium.com/p/4effba7fa7d3) |
-| Sun, 28 Dec 2025 21:21:39 GMT | Linux’ta Ağ Yönetimi | g.o. | [Read More](https://medium.com/p/58d3da1558c7) |
-| Sun, 28 Dec 2025 21:16:22 GMT | How to Start Bug Bounty Hunting | Codi | [Read More](https://medium.com/p/9492949f3e4f) |
-| Sun, 28 Dec 2025 21:15:47 GMT | DEATHcon 2025 | Jake Boyd | [Read More](https://medium.com/p/449bd392100d) |
