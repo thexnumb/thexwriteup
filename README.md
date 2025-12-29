@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 03:52:05 GMT | ️ How I Earned $$$ by Exploiting an XML-RPC SSRF in a WordPress Site | Algo Demo | [Read More](https://medium.com/p/1d5822f0bd50) |
+| Mon, 29 Dec 2025 03:35:19 GMT | A critical vulnerability in MongoDB, named MongoBleed (CVE-2025–14847) | Md Shoriful Islam Ashiq | [Read More](https://medium.com/p/1c582e87e5ae) |
+| Mon, 29 Dec 2025 03:34:58 GMT | HTB Academy — File Upload Attacks: A Walkthrough of the Challenges (Part 1) | BotsiCat | [Read More](https://medium.com/p/3a4386afb2a7) |
+| Mon, 29 Dec 2025 03:32:41 GMT | When Old Tools Break New Defenses: Inside the ClickFix Abuse of finger.exe | Deven Chhajed | [Read More](https://medium.com/p/6a05db14ecd0) |
+| Mon, 29 Dec 2025 03:28:41 GMT | Is Your AI Strategy Secure? The 4 Unseen Risks Every Leader Must Manage | Raul Leite | [Read More](https://medium.com/p/7c697e7d8cea) |
+| Mon, 29 Dec 2025 03:24:59 GMT | Enhancing Threat Detection and Response in Enterprises using AI | Farrukh Khanzada | [Read More](https://medium.com/p/3676c10ef841) |
+| Mon, 29 Dec 2025 03:09:11 GMT | I Cleared the Azure Fundamentals (AZ-900) Exam — Here’s My Honest Experience & What You Actually… | Pooja Borade | [Read More](https://medium.com/p/ae8ecc25d9d3) |
+| Mon, 29 Dec 2025 03:08:36 GMT | Practical JWT Mastery in .NET | Compile & Conquer | [Read More](https://medium.com/p/5a7c94becf17) |
+| Mon, 29 Dec 2025 02:43:27 GMT | [Ethernaut] 8. Vault | Jiseop Shin | [Read More](https://medium.com/p/9484a3a316b0) |
+| Mon, 29 Dec 2025 02:36:42 GMT | Proving Grounds - Access | jniket | [Read More](https://medium.com/p/1153d117b966) |
+| Mon, 29 Dec 2025 02:14:56 GMT | Anti-Forensic Techniques to Cover Your Tracks, Part 3 | z3r0trust | [Read More](https://medium.com/p/9e4ed388640c) |
+| Mon, 29 Dec 2025 01:56:49 GMT | One Liners Cheat sheet For Bug bounty Hunter | Mainekhacker | [Read More](https://medium.com/p/46295c8be568) |
 | Mon, 29 Dec 2025 01:27:06 GMT | WhatsApp Scammers Use Fake New Year Greetings to Steal Data | DevaDas Writer | [Read More](https://medium.com/p/c07f8da137f9) |
 | Mon, 29 Dec 2025 00:56:01 GMT | 63-Year-Old Chairman Marries 38-Year-Old: “I Married for Love, Age Doesn’t Matter” | Beverly Green | [Read More](https://medium.com/p/b5780ac072d1) |
 | Mon, 29 Dec 2025 00:47:56 GMT | Nano Banana is insane!!! | Bassam Tantawi | [Read More](https://medium.com/p/39b405f868bc) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 16:35:16 GMT | When Courage Whispers | Hatomi | [Read More](https://medium.com/p/01b9e2f49712) |
 | Sun, 28 Dec 2025 16:29:11 GMT | Understanding Lumera Protocol: Infrastructure for AI, Data, and Web3 Applications | Aisharimii | [Read More](https://medium.com/p/41c559cc6b9f) |
 | Sun, 28 Dec 2025 16:29:01 GMT | SSH vs SSL/TLS — Lessons I Learned While Studying Cybersecurity and Solving Labs | Gajanan | [Read More](https://medium.com/p/026ba83941b1) |
-| Sun, 28 Dec 2025 16:28:53 GMT | The Spotify 300 TB Data Leak | Shubham Naliyapara | [Read More](https://medium.com/p/cd7b89cf35bc) |
-| Sun, 28 Dec 2025 16:20:39 GMT | Enumeration Is Everything — But Not for the Reason You Think | Kenneth Solomon | [Read More](https://medium.com/p/0936cce7f76a) |
-| Sun, 28 Dec 2025 16:15:11 GMT | Practical Malware Analysis | Saksham Bhattarai | [Read More](https://medium.com/p/486d59a67a8b) |
-| Sun, 28 Dec 2025 16:14:32 GMT | Build Your Own Cybersecurity Lab Using Infrastructure as Code (IaC) with Terraform and Ansible | The InfoSec Guy | [Read More](https://medium.com/p/e33adb83bdf0) |
-| Sun, 28 Dec 2025 16:06:01 GMT | SOC 2 Type I vs Type II: Interview Questions and Key Differences | Muhammad Akhtar | [Read More](https://medium.com/p/072a2d6fd254) |
-| Sun, 28 Dec 2025 16:03:54 GMT | Cap HTB Room | Mudiuth | [Read More](https://medium.com/p/e3349551d132) |
-| Sun, 28 Dec 2025 15:51:05 GMT | I Cut SOC Response Time by 97%: Here’s the AI Automation Stack That Did It | Neetrox | [Read More](https://medium.com/p/a6b8f43022e3) |
-| Sun, 28 Dec 2025 15:47:45 GMT | Top AI Security Videos — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/fddb36eb2811) |
-| Sun, 28 Dec 2025 15:41:35 GMT | Template Method + Decorator: The Underrated Combo That Makes Your Code Bulletproof | Jitin Kayyala | [Read More](https://medium.com/p/c69ad55e7478) |
-| Sun, 28 Dec 2025 15:39:33 GMT | Soulmate: Falling in Love with a Full System Compromise (HTB Walkthrough) | Aravind | [Read More](https://medium.com/p/5b3b4896a90a) |
-| Sun, 28 Dec 2025 15:32:23 GMT | Overview of the TCP/IP Networking Model | azrecon_ | [Read More](https://medium.com/p/48b916e8c72b) |
-| Sun, 28 Dec 2025 15:27:25 GMT | Amazon Reports 1,800 North Korean Hacker Applications for Remote IT Jobs.. | Krono | [Read More](https://medium.com/p/f9dce6d40196) |
