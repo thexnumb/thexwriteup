@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 16:18:04 GMT | Unlocking Linux Process Power: Part3 From Jobs to Limits: Owning Process Behavior | MR.7 | [Read More](https://medium.com/p/5ae909d2f842) |
+| Mon, 29 Dec 2025 16:05:57 GMT | Salt: What it Means in Web3 Security | Munirat Mohammed | [Read More](https://medium.com/p/9af88705a0d4) |
+| Mon, 29 Dec 2025 16:01:42 GMT | The Silence Of Romania’s Water Online | O. J. Okpabi | [Read More](https://medium.com/p/a565086caca0) |
+| Mon, 29 Dec 2025 15:59:23 GMT | Zero Trust Was a Buzzword. In 2026, It’s Just “Security” | Abhijith Soman | [Read More](https://medium.com/p/72217dcfb88f) |
+| Mon, 29 Dec 2025 15:58:24 GMT | Practical JWT Mastery in .NET | Compile & Conquer | [Read More](https://medium.com/p/050b11a5fab2) |
+| Mon, 29 Dec 2025 15:55:05 GMT | How to Program a Ford Key Fob: DIY Guide & When to Call a Pro | Sure Lock & Key LLC | [Read More](https://medium.com/p/36fb4e44b35f) |
+| Mon, 29 Dec 2025 15:53:53 GMT | How Cybersecurity Works Explained for Business Leaders | ManagedIT_Expert | [Read More](https://medium.com/p/1ccfa6fffbb6) |
+| Mon, 29 Dec 2025 15:50:34 GMT | Finding Broken Access Control in Multi-Tenant Systems | Afi0pchik | [Read More](https://medium.com/p/2fa95ee0dfa6) |
+| Mon, 29 Dec 2025 15:49:38 GMT | The Cybersecurity Habits I’m Taking Into 2026 | Sam Writes Security | [Read More](https://medium.com/p/33d10b7d650f) |
+| Mon, 29 Dec 2025 15:42:31 GMT | Consistency Over Chaos: A 360-Day Bug Hunting Experiment | Rizwan_siddiqui | [Read More](https://medium.com/p/50d43381ef4d) |
+| Mon, 29 Dec 2025 15:41:39 GMT | Advanced IP Tracing Techniques: A Technical Deep Dive for Threat Hunters | Brian Curry | [Read More](https://medium.com/p/74dae72326bd) |
 | Mon, 29 Dec 2025 15:36:35 GMT | How I Phished a Toy Factory: A Write-up for THM's Merry Clickmas Room | Spiritsimba | [Read More](https://medium.com/p/4b1c82a3d868) |
 | Mon, 29 Dec 2025 15:36:01 GMT | Sam Altman Tackles Dangers of AI with New Role | M.Huzaifa Rizwan | [Read More](https://medium.com/p/7b0ee05e7c12) |
 | Mon, 29 Dec 2025 15:34:34 GMT | MongoBleed in the Wild: Technical Analysis and Impact of CVE-2025–14847 | RealSec.io | [Read More](https://medium.com/p/f9359bf07fdd) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 10:38:37 GMT | How Cl0p Hackers Earned $500M+ by Hacking Supply Chains | Motasem Hamdan | [Read More](https://medium.com/p/77bd658bdb48) |
 | Mon, 29 Dec 2025 10:34:19 GMT | The Difference Between Feeling Secure and Being Secure | Digital Defense | [Read More](https://medium.com/p/c2ae9206b3b5) |
 | Mon, 29 Dec 2025 10:34:17 GMT | From Pranks to Profits: How Malware Evolved Into a Billion-Dollar Crime Industry | Yua Mikanana | [Read More](https://medium.com/p/c8806ca1dd6f) |
-| Mon, 29 Dec 2025 10:29:43 GMT | Geme Wallet: A Practical Approach to Non-Custodial Crypto Management | Zekanem King | [Read More](https://medium.com/p/346f021155d1) |
-| Mon, 29 Dec 2025 10:28:50 GMT | Dangers of vibecoding | Kiitan | [Read More](https://medium.com/p/c761d1853402) |
-| Mon, 29 Dec 2025 10:26:48 GMT | SOC Services in Saudi Arabia: 24/7 Threat Monitoring & Incident Response | Prakash Factosecure | [Read More](https://medium.com/p/f6fc5d87eed6) |
-| Mon, 29 Dec 2025 10:23:43 GMT | # Top 4 Most Common Web Vulnerabilities Every Beginner Should Master (P1–P4) | Abdulbar | [Read More](https://medium.com/p/d12ba935519e) |
-| Mon, 29 Dec 2025 10:22:16 GMT | Why Cyber Threat Intelligence Is No Longer Optional for SOC and OT Engineers for Airports Security… | Wedd Bukhari | [Read More](https://medium.com/p/f08a2375f099) |
-| Mon, 29 Dec 2025 10:18:45 GMT | Australia Proxies in 2026: How to Choose Reliable Australian IPs | ChainFable | [Read More](https://medium.com/p/4f17aba20d5f) |
-| Mon, 29 Dec 2025 10:17:18 GMT | The Daily Tech Digest: 29 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e8cb561f4964) |
-| Mon, 29 Dec 2025 10:17:09 GMT | HTB_AD Enumeration & Attacks — Skills Assessment Part II | Omar Al-Qawasmi | [Read More](https://medium.com/p/3b8c3595ae04) |
-| Mon, 29 Dec 2025 10:16:58 GMT | CAPenX: An AppSec Exam That Forces You to Think Like a Pentester | Kishan Chak | [Read More](https://medium.com/p/7fce83f81403) |
-| Mon, 29 Dec 2025 10:14:19 GMT | How I Built a Home Lab for Under $0: A Beginner’s Guide | Laaguidi Yassine | [Read More](https://medium.com/p/4dcea9eae91d) |
-| Mon, 29 Dec 2025 10:13:00 GMT | Why Insider Risk Management Is Critical in a Cloud-First Security Strategy | Rakeshved | [Read More](https://medium.com/p/f624e73e4326) |
