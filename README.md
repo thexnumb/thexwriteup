@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 05:25:45 GMT | WatchGuard Firebox Under Fire: CVE-2025–14733 and What It Really Means for the Perimeter | CyberSecurity | [Read More](https://medium.com/p/e15a482f0d2e) |
+| Mon, 29 Dec 2025 05:22:19 GMT | CISSP Domain 3: Security Engineering - Complete Study Notes ( Part 1 ) | Pushpak Sharma | [Read More](https://medium.com/p/f8649c26cb83) |
+| Mon, 29 Dec 2025 05:18:12 GMT | Digital Threat Intelligence Management (DTIM) Market Growth Accelerates as Enterprises Prioritize… | Gauri Kale | [Read More](https://medium.com/p/93b19ccf1a35) |
+| Mon, 29 Dec 2025 05:16:10 GMT | V2X Cybersecurity Market Outlook and Growth Analysis | Vijay Mishra | [Read More](https://medium.com/p/7a613febf2b8) |
+| Mon, 29 Dec 2025 05:16:06 GMT | Beyond the Search Box: Why OSINT Is Everything Googling Isn’t | Naveen Jc | [Read More](https://medium.com/p/a7ade5ee5c52) |
+| Mon, 29 Dec 2025 05:15:31 GMT | Malware Analysis — ShinySpider Ransomware | Karim Walid | [Read More](https://medium.com/p/d2c09e8501ae) |
+| Mon, 29 Dec 2025 05:12:49 GMT | The New Malaysia Cyber Security Act 2024: What Every Business Needs to Know | Naveen Jc | [Read More](https://medium.com/p/cf183bd1d539) |
+| Mon, 29 Dec 2025 05:10:57 GMT | Monitor Bug Bounty Targets in Real Time Using Certificate Transparency Logs | Unknown | [Read More](https://medium.com/p/247caa34d0f9) |
+| Mon, 29 Dec 2025 04:54:57 GMT | Unlocking the Power of ARPscan: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/9b6b6fc6c1c5) |
+| Mon, 29 Dec 2025 04:53:47 GMT | Getting Started with ARPscan: The Fast Lane to Network Discovery | Cybeague Technologies | [Read More](https://medium.com/p/b8207ba38748) |
 | Mon, 29 Dec 2025 04:39:32 GMT | Mencari Celah XSS Secara Otomatis dengan PwnXSS | Ginda Sundara | [Read More](https://medium.com/p/ea7f5ad741f2) |
 | Mon, 29 Dec 2025 04:37:16 GMT | The Myth of the Trusted Internal Network | Travis Ray Caverhill | [Read More](https://medium.com/p/de28bd14fe92) |
 | Mon, 29 Dec 2025 04:32:35 GMT | The Warren Buffett Method: How to Calculate Intrinsic Value Step-by-Step | Chiro Adsmedia | [Read More](https://medium.com/p/9aaf074167b7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 18:11:16 GMT | Faster, Smarter Security: How Real-Time Tracking Innovations Are Saving Seconds and Lives | Teona | [Read More](https://medium.com/p/311623e651fc) |
 | Sun, 28 Dec 2025 18:07:42 GMT | Building SOC-Dashboard | Welart | [Read More](https://medium.com/p/8097490dfb92) |
 | Sun, 28 Dec 2025 18:07:27 GMT | How hackers steal your saved password from your browser | Arpan Pramanik | [Read More](https://medium.com/p/896466b64c07) |
-| Sun, 28 Dec 2025 18:05:02 GMT | I Was Done With Bug Bounty Until This Single Bug Changed Everything | Mohaseen | [Read More](https://medium.com/p/d5bfb65aa974) |
-| Sun, 28 Dec 2025 18:01:15 GMT | The Day I Learned That Security Isn’t About Fear—It’s About Responsibility | Mubashir | [Read More](https://medium.com/p/e649d4df9cda) |
-| Sun, 28 Dec 2025 17:52:16 GMT | Hi, I’m Tonmoy, a Professional Cybersecurity Expert & Certified Ethical Hacker with years of… | Ethical Hacker | [Read More](https://medium.com/p/84a87f76b1f9) |
-| Sun, 28 Dec 2025 17:39:49 GMT | AWS IAM Enumeration mit Pacu Walkthrough | Spookz | [Read More](https://medium.com/p/739efdf9ea78) |
-| Sun, 28 Dec 2025 17:31:29 GMT | OSINT Challenge-Geo-location Exercise #001 | SHUBHAM | [Read More](https://medium.com/p/dea3d16bb2fe) |
-| Sun, 28 Dec 2025 17:29:15 GMT | Your car used to be simple: engine, wheels, keys. | Charles Dennis | [Read More](https://medium.com/p/fa2d0d660d45) |
-| Sun, 28 Dec 2025 17:20:35 GMT | Active Directory Lab and attacks — From Beginner to Intermediate | Nashra | [Read More](https://medium.com/p/d3234deb7c2d) |
-| Sun, 28 Dec 2025 17:12:28 GMT | Agentic AI Threats Push Businesses To Strengthen Managed IT Services in Springfield, MO | PCnet | [Read More](https://medium.com/p/e0f747ff4cf5) |
-| Sun, 28 Dec 2025 17:05:56 GMT | Info Disclosure Bugs: Bug Bounty Beginner Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/36e3ea47f317) |
-| Sun, 28 Dec 2025 17:04:26 GMT | “Passive Information Gathering: The Art of Gathering Information Without Touching the Target… | Habibi | [Read More](https://medium.com/p/770a109c5b19) |
