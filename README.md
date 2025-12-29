@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 15:36:35 GMT | How I Phished a Toy Factory: A Write-up for THM's Merry Clickmas Room | Spiritsimba | [Read More](https://medium.com/p/4b1c82a3d868) |
+| Mon, 29 Dec 2025 15:36:01 GMT | Sam Altman Tackles Dangers of AI with New Role | M.Huzaifa Rizwan | [Read More](https://medium.com/p/7b0ee05e7c12) |
+| Mon, 29 Dec 2025 15:34:34 GMT | MongoBleed in the Wild: Technical Analysis and Impact of CVE-2025–14847 | RealSec.io | [Read More](https://medium.com/p/f9359bf07fdd) |
+| Mon, 29 Dec 2025 15:32:48 GMT | HackTheBox SecretPictures WriteUp | omertugrulbayram | [Read More](https://medium.com/p/d23c67308a86) |
+| Mon, 29 Dec 2025 15:29:41 GMT | AI Security and Governance: Enabling Responsible AI Use in the Enterprise | David O'Neill | [Read More](https://medium.com/p/581f0bc735b8) |
+| Mon, 29 Dec 2025 15:27:09 GMT | OverTheWire Bandit (Day 03): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/4502d7e88042) |
+| Mon, 29 Dec 2025 15:24:39 GMT | The Keys to the Kingdom: An Advanced Look at Remote Code Execution (RCE) | Yassin Salah | [Read More](https://medium.com/p/14f882dd1c8a) |
+| Mon, 29 Dec 2025 15:23:11 GMT | The Deadliest Vulnerabilities of 2025: The CVEs That Were Actually Exploited | Richard Dosumu | [Read More](https://medium.com/p/5d4e80cde4ab) |
+| Mon, 29 Dec 2025 15:20:57 GMT | The Bit: How Yes/No Questions Explain Everything | Hawra hanif | [Read More](https://medium.com/p/e20a719add0b) |
 | Mon, 29 Dec 2025 15:20:01 GMT | China Attacks Thirty American Firms In Bizarre New Cyber Hack | Linda Caroll | [Read More](https://medium.com/p/5b13080a4769) |
 | Mon, 29 Dec 2025 15:16:59 GMT | The Role of HTTPS, Tokens, and Secure APIs in Modern Digital Products | Farhan Nasir | [Read More](https://medium.com/p/1c281892092a) |
 | Mon, 29 Dec 2025 15:07:58 GMT | Why Linux Distros Are Perfect for New Users in 2026 | Sam Writes Security | [Read More](https://medium.com/p/1f3378e84e23) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 10:16:58 GMT | CAPenX: An AppSec Exam That Forces You to Think Like a Pentester | Kishan Chak | [Read More](https://medium.com/p/7fce83f81403) |
 | Mon, 29 Dec 2025 10:14:19 GMT | How I Built a Home Lab for Under $0: A Beginner’s Guide | Laaguidi Yassine | [Read More](https://medium.com/p/4dcea9eae91d) |
 | Mon, 29 Dec 2025 10:13:00 GMT | Why Insider Risk Management Is Critical in a Cloud-First Security Strategy | Rakeshved | [Read More](https://medium.com/p/f624e73e4326) |
-| Mon, 29 Dec 2025 10:11:52 GMT | How Network Vulnerability Scanners Detect Hidden Attack Surfaces? | Rachna Tripathi | [Read More](https://medium.com/p/f4a224ec9b6d) |
-| Mon, 29 Dec 2025 10:11:32 GMT | UPI Payment Scams in India: Small Mistakes That Lead to Big Losses | Ankit rai | [Read More](https://medium.com/p/5de439b65e63) |
-| Mon, 29 Dec 2025 10:09:34 GMT | API Key vs OAuth vs mTLS — When to Use What | Suraj Bhandari | [Read More](https://medium.com/p/93e3e37f3200) |
-| Mon, 29 Dec 2025 10:06:08 GMT | You Do Not Need to Be Technical to Learn Agentic AI Security In 2026 — Part 1 | Taimur Ijlal | [Read More](https://medium.com/p/76f73329cdcc) |
-| Mon, 29 Dec 2025 10:05:44 GMT | SECPlayground Bloody Xmas2025 - Forensics Write-UP | pipe2bot | [Read More](https://medium.com/p/8b779b6b3a85) |
-| Mon, 29 Dec 2025 10:05:07 GMT | MongoBleed Security Crisis: Protecting Your Database Infrastructure from CVE-2025–14847 | Technijian | [Read More](https://medium.com/p/4f9ad71d9d91) |
-| Mon, 29 Dec 2025 10:02:54 GMT | Prompt Injection: LLM Güvenliğinin En Büyük Tehdidi | Ahmet Bozkurt | [Read More](https://medium.com/p/ef7202031cde) |
-| Mon, 29 Dec 2025 09:57:14 GMT | Token-Efficient RAG: Using Query Intent to Reduce Cost Without Losing Accuracy | Varun Setia | [Read More](https://medium.com/p/07adacf7c563) |
-| Mon, 29 Dec 2025 09:54:07 GMT | Cheap but Unbreakable: The VPS Hosting Setup Built for Speed and Security | Ann Taylor | [Read More](https://medium.com/p/e7bfa0540e70) |
