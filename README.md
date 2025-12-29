@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 23:39:23 GMT | “He Loved Her For His Life — And betrayed Her Being Her Enemy” | SYED WASTI | [Read More](https://medium.com/p/2011203fb986) |
+| Mon, 29 Dec 2025 23:14:04 GMT | Deep Dive Into CVE-2025–55182: Understanding React Server Components RCE | Ashimsapkota | [Read More](https://medium.com/p/9bca719907f3) |
 | Mon, 29 Dec 2025 23:07:11 GMT | CISSP Domain 3: Security Engineering - Complete Study Notes (Part 2) | Pushpak Sharma | [Read More](https://medium.com/p/b397e87aaab0) |
 | Mon, 29 Dec 2025 22:59:23 GMT | DGSI–Palantir: when analytical sovereignty becomes strategic dependence | Hayat Outahar | [Read More](https://medium.com/p/0d1218ee763b) |
 | Mon, 29 Dec 2025 22:43:14 GMT | Thoughts On CloudFormation in 2025 | Teri Radichel | [Read More](https://medium.com/p/36b7f88fdf05) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 14:55:56 GMT | Encryption by default: Managing SSL generation in Kubernetes | Sergio Rua | [Read More](https://medium.com/p/641332a941df) |
 | Mon, 29 Dec 2025 14:55:56 GMT | Profesyonel Bir Pentester Gibi Çalışmak(script -nlog.log) | Mert Baykal | [Read More](https://medium.com/p/366f24a9262d) |
 | Mon, 29 Dec 2025 14:50:43 GMT | Lab: Reflected XSS into HTML context with all tags blocked except custom ones | KRY | [Read More](https://medium.com/p/bade322903de) |
-| Mon, 29 Dec 2025 14:48:22 GMT | Lab: Reflected XSS into HTML context with most tags and attributes blocked | KRY | [Read More](https://medium.com/p/55f97ceac9e7) |
-| Mon, 29 Dec 2025 14:48:14 GMT | Why Mixed Files Are One of the Most Dangerous Credit Bureau Errors | Consumer Attorneys PLLC | [Read More](https://medium.com/p/3ab8b90994bb) |
