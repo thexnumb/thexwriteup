@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 20:43:03 GMT | Hackeado por ser “Eficiente”☠️ (Parte 1) | Saulo Briceño Wong | [Read More](https://medium.com/p/ac542bf9c3d3) |
+| Mon, 29 Dec 2025 20:35:14 GMT | Margus Reinsalu | margus reinsalu | [Read More](https://medium.com/p/578a38a4cc81) |
+| Mon, 29 Dec 2025 20:31:36 GMT | Inside a Phishing Campaign: Understanding Attacker Strategy with GoPhish (Part 3) | Cyber Timi | [Read More](https://medium.com/p/ea8064a673eb) |
 | Mon, 29 Dec 2025 20:21:31 GMT | Hello everyone . | Nirmalabhusal | [Read More](https://medium.com/p/84f76eec6d3c) |
 | Mon, 29 Dec 2025 20:20:42 GMT | Global Ransomware Raid: How International Authorities Dismantle Cybercrime Networks | Tor BBB | [Read More](https://medium.com/p/137806aa4b71) |
 | Mon, 29 Dec 2025 20:16:49 GMT | Why Your AI Strategy Will Fail Without a “Governance-First” Mindset | Mike Czarnecki | [Read More](https://medium.com/p/e7365829dbd1) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 13:02:25 GMT | Linux Security Habit #12: I Always Check Kernel Timers Before Trusting System Stability | Faruk Ahmed | [Read More](https://medium.com/p/535eeab48972) |
 | Mon, 29 Dec 2025 13:02:25 GMT | [AD攻防] NTLM Relay 攻擊 | 陳禹璿 | [Read More](https://medium.com/p/1d89d1e14781) |
 | Mon, 29 Dec 2025 12:57:06 GMT | CyberHeroes TryHackMe Walkthrough | Syed Ali Bin Mohammad | [Read More](https://medium.com/p/bc029ca7949f) |
-| Mon, 29 Dec 2025 12:55:12 GMT | Learning Web Application Security with DVWA and OWASP ZAP | Claudius Thompson | [Read More](https://medium.com/p/f9f714b3cb22) |
-| Mon, 29 Dec 2025 12:53:08 GMT | Secure CI/CD Pipeline: Github Actions, AWS, EC2 | Sanjna Chaturvedi | [Read More](https://medium.com/p/78d9da19af0a) |
-| Mon, 29 Dec 2025 12:52:19 GMT | The Emerging Threat of Idea Leakage | David at SenTeGuard | [Read More](https://medium.com/p/766074e61093) |
