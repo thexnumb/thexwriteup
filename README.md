@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 23:07:11 GMT | CISSP Domain 3: Security Engineering - Complete Study Notes (Part 2) | Pushpak Sharma | [Read More](https://medium.com/p/b397e87aaab0) |
+| Mon, 29 Dec 2025 22:59:23 GMT | DGSI–Palantir: when analytical sovereignty becomes strategic dependence | Hayat Outahar | [Read More](https://medium.com/p/0d1218ee763b) |
+| Mon, 29 Dec 2025 22:43:14 GMT | Thoughts On CloudFormation in 2025 | Teri Radichel | [Read More](https://medium.com/p/36b7f88fdf05) |
+| Mon, 29 Dec 2025 22:42:41 GMT | Configure it Out with AWS AgentCore and Kiro | Mary Becken | [Read More](https://medium.com/p/5a68119b1b55) |
 | Mon, 29 Dec 2025 22:31:02 GMT | PortSwigger Academy Lab: Information disclosure on debug page | VISCID | [Read More](https://medium.com/p/f4e5c142f1ce) |
 | Mon, 29 Dec 2025 22:29:21 GMT | Risk Registers Don’t Reduce Risk. Decisions Do. | Neviar Rawlinson, MBA | [Read More](https://medium.com/p/c26ec4b87739) |
 | Mon, 29 Dec 2025 22:24:40 GMT | Year-End Security Audit for PHP Apps: The Checklist I Actually Use Before Shipping Another Release | Ann R. | [Read More](https://medium.com/p/3bba13f627a6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 14:50:43 GMT | Lab: Reflected XSS into HTML context with all tags blocked except custom ones | KRY | [Read More](https://medium.com/p/bade322903de) |
 | Mon, 29 Dec 2025 14:48:22 GMT | Lab: Reflected XSS into HTML context with most tags and attributes blocked | KRY | [Read More](https://medium.com/p/55f97ceac9e7) |
 | Mon, 29 Dec 2025 14:48:14 GMT | Why Mixed Files Are One of the Most Dangerous Credit Bureau Errors | Consumer Attorneys PLLC | [Read More](https://medium.com/p/3ab8b90994bb) |
-| Mon, 29 Dec 2025 14:47:35 GMT | SentryPC Setup Guide: Start Monitoring in Minutes (Step-by-Step) | Paul Meyer | [Read More](https://medium.com/p/8e2188330552) |
-| Mon, 29 Dec 2025 14:47:10 GMT | The Role of Incident Responders in a Cyber Crisis | Ferdi Edogawa | [Read More](https://medium.com/p/e939d0bda2d9) |
-| Mon, 29 Dec 2025 14:41:49 GMT | How to Find Top Cybersecurity Talent in India: A Strategic Staffing Guide for On-Site and Remote… | CyberAube Technologies | [Read More](https://medium.com/p/a50981082e0e) |
-| Mon, 29 Dec 2025 14:34:47 GMT | Beyond the Checkbox: Implementing Real Zero Trust with Microsoft Entra ID (A Financial Sector Case… | JoaoP. | [Read More](https://medium.com/p/b4fb70a0d748) |
