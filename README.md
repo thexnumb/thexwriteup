@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 09:26:51 GMT | Ice Pi — Harnessing the Raw Hacking Power of a Raspberry Pi and Kali Linux | Toshith | [Read More](https://medium.com/p/ca658b40660e) |
+| Mon, 29 Dec 2025 09:26:48 GMT | Expert Remote IT Support Services for Sydney Firms | Any network | [Read More](https://medium.com/p/91e512837729) |
+| Mon, 29 Dec 2025 09:25:59 GMT | Zuri Njoku Aligning Information Technology with Business Strategy | Zuri Njoku | [Read More](https://medium.com/p/32c5dcb350d1) |
+| Mon, 29 Dec 2025 09:22:23 GMT | How Agile Has Effectively Ruined Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/466eb1ef3cf9) |
+| Mon, 29 Dec 2025 09:21:15 GMT | AI-Driven Privacy Attacks — When Anonymization Becomes Meaningless | David SEHYEON Baek | [Read More](https://medium.com/p/1d043b34ba12) |
+| Mon, 29 Dec 2025 09:21:15 GMT | Ethical hacking training in Hyderabad | APEC EDU | [Read More](https://medium.com/p/b3656dc6f397) |
+| Mon, 29 Dec 2025 09:20:15 GMT | HackTheBox Sherlocks — Caught Writeup | Mark@Saber | [Read More](https://medium.com/p/6d7d550b250e) |
+| Mon, 29 Dec 2025 09:19:02 GMT | CertiK Lists Scopuly on Skynet - A Major Step for Security & Transparency in Stellar DeFi | Scopuly | [Read More](https://medium.com/p/0ad15e35741b) |
+| Mon, 29 Dec 2025 09:16:28 GMT | Top 10 Vulnerability Management Tools | Kartiksharma | [Read More](https://medium.com/p/06907c31864a) |
+| Mon, 29 Dec 2025 09:15:59 GMT | AI-Driven Office Documents Password Recovery with HexStrike-AI and Gemini-CLI | Andrey Pautov | [Read More](https://medium.com/p/3c8bb7deb82d) |
+| Mon, 29 Dec 2025 09:15:25 GMT | .NET File Operation Security Vulnerabilities — SSC Fortify Security Findings Analysis — Part 2 | Okan Yurt | [Read More](https://medium.com/p/de431f0f5dfe) |
+| Mon, 29 Dec 2025 09:11:04 GMT | Bounty Hacker — TryHackMe Walkthrough | Jacob Macdonnell | [Read More](https://medium.com/p/981bb9b8ed66) |
+| Mon, 29 Dec 2025 09:04:26 GMT | Automate SSRF Hunting Like a Pro: From Discovery to Escalation | Ashiqur Rahman Emon | [Read More](https://medium.com/p/fbd0e7cdc246) |
+| Mon, 29 Dec 2025 09:00:21 GMT | SecurityFilterChain vs. | Anh Trần Tuấn | [Read More](https://medium.com/p/33555e231ec0) |
+| Mon, 29 Dec 2025 08:59:05 GMT | My Server & Backup “Hardening” Checklist: What to Have, What to Avoid, and Why It Matters in 2025 | Zefai Insights | [Read More](https://medium.com/p/433769b04a19) |
+| Mon, 29 Dec 2025 08:39:32 GMT | Schnorr Nonce Generation: When "Random" is (and isn’t) a Vulnerability | Lucas Amorim | [Read More](https://medium.com/p/b79d33676c0b) |
+| Mon, 29 Dec 2025 08:39:30 GMT | Search Source-Offline Source Code Method (picoCTF Write-Up) | xrabbit | [Read More](https://medium.com/p/4781f87d64f1) |
+| Mon, 29 Dec 2025 08:39:03 GMT | A Secure OAuth 2.0–Based | Satish Alturu | [Read More](https://medium.com/p/ce3e9505e545) |
 | Mon, 29 Dec 2025 08:23:32 GMT | On Vulnerability, Fear, and the Power We Think We’ve Lost | Adefunke Adeniyi | [Read More](https://medium.com/p/489dffb280e3) |
 | Mon, 29 Dec 2025 08:22:16 GMT | Identity as a Service (IDaaS) Market Size, Share, and Growth Forecast | Michel mathew | [Read More](https://medium.com/p/d57a6f5aad80) |
 | Mon, 29 Dec 2025 08:17:53 GMT | Incident Response Services That Protect Your Business from Cyber Threats - CyberSecOp | Michael J Weber | [Read More](https://medium.com/p/df733aea5019) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 01:27:06 GMT | WhatsApp Scammers Use Fake New Year Greetings to Steal Data | DevaDas Writer | [Read More](https://medium.com/p/c07f8da137f9) |
 | Mon, 29 Dec 2025 00:56:01 GMT | 63-Year-Old Chairman Marries 38-Year-Old: “I Married for Love, Age Doesn’t Matter” | Beverly Green | [Read More](https://medium.com/p/b5780ac072d1) |
 | Mon, 29 Dec 2025 00:47:56 GMT | Nano Banana is insane!!! | Bassam Tantawi | [Read More](https://medium.com/p/39b405f868bc) |
-| Sun, 28 Dec 2025 23:55:18 GMT | My AI Assistant Bypassed My Git Commit Blocker | Anand Rathnas | [Read More](https://medium.com/p/5d42509f37c3) |
-| Sun, 28 Dec 2025 23:46:10 GMT | The ABC Strategy: Architecting the Future of Private AI Business Intelligence in 2026 & Beyond | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/175f9dfeed62) |
-| Sun, 28 Dec 2025 23:45:38 GMT | React Server RCE: How a Single HTTP Request Can Compromise Cloud Infrastructure | PressMind Labs | [Read More](https://medium.com/p/f7e3047f3b91) |
-| Sun, 28 Dec 2025 23:33:32 GMT | Why Your Browser VPN is a Security Risk (And How dVPNs are Changing the Game) | Affryn Kalya | [Read More](https://medium.com/p/c8e114438640) |
-| Sun, 28 Dec 2025 23:28:53 GMT | Kariyerinin Başında Birinden eWPT İncelemesi | Tuba ÜNSAL | [Read More](https://medium.com/p/dac53d609c8b) |
-| Sun, 28 Dec 2025 23:22:21 GMT | How Do We Prove Self-Driving Cars Are Safe? The Verification Challenge | Shujaatali Badami | [Read More](https://medium.com/p/e8411d3290bb) |
-| Sun, 28 Dec 2025 23:17:13 GMT | Απόφαση-Βόμβα: Πώς το Πρωτοδικείο Αθηνών Υποχρεώνει τις Τράπεζες να Πληρώσουν τα Θύματα Phishing… | Georgios Perrakis | [Read More](https://medium.com/p/90ac86178dc4) |
-| Sun, 28 Dec 2025 23:02:16 GMT | i never realized how much darkness lived in this story i once called elation | odyssey of silence | [Read More](https://medium.com/p/014b8458c03c) |
-| Sun, 28 Dec 2025 22:51:23 GMT | Why I spent my evenings building Blink while my kids were asleep | Yusufkhanjee | [Read More](https://medium.com/p/7a464832cfec) |
-| Sun, 28 Dec 2025 22:50:38 GMT | DotnetFastMCP: From ‘Fast Lane’ to ‘Secure Lane’ with Authentication | Gagan Bajaj | [Read More](https://medium.com/p/670c3223230e) |
-| Sun, 28 Dec 2025 22:42:39 GMT | Host Header Injection in Password Reset Function Leading to Account Takeover and Blind SSRF | Mahmoud Gamal | [Read More](https://medium.com/p/b63ed248b93a) |
-| Sun, 28 Dec 2025 22:42:19 GMT | Why IT Managed Services in Fontana Start Every Security Plan with a Network Assessment | Zeta Sky | [Read More](https://medium.com/p/c5227553c621) |
-| Sun, 28 Dec 2025 22:38:43 GMT | What I Wish I Understood Before Starting a Master’s in Cybersecurity | Abhang Mandwale | [Read More](https://medium.com/p/3edec20d428e) |
-| Sun, 28 Dec 2025 22:34:59 GMT | [CyberSec] AI Solutions Comparison for Security Operations (SOC) | Pietro Romano / SecBeret | [Read More](https://medium.com/p/53d83874f610) |
-| Sun, 28 Dec 2025 22:34:51 GMT | Thread Name Calling Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/ed5514d3873f) |
-| Sun, 28 Dec 2025 22:33:58 GMT | Baby  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/3cdf8a830b7d) |
-| Sun, 28 Dec 2025 22:32:41 GMT | Anti-Malware Sandboxing Analysis | Esra Kayhan | [Read More](https://medium.com/p/119ba3ef76fa) |
-| Sun, 28 Dec 2025 22:32:22 GMT | Vulnerability Scan False-Positive Management | Esra Kayhan | [Read More](https://medium.com/p/18dfc6c7b0ad) |
