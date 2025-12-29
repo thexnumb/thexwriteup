@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 15:20:01 GMT | China Attacks Thirty American Firms In Bizarre New Cyber Hack | Linda Caroll | [Read More](https://medium.com/p/5b13080a4769) |
+| Mon, 29 Dec 2025 15:16:59 GMT | The Role of HTTPS, Tokens, and Secure APIs in Modern Digital Products | Farhan Nasir | [Read More](https://medium.com/p/1c281892092a) |
+| Mon, 29 Dec 2025 15:07:58 GMT | Why Linux Distros Are Perfect for New Users in 2026 | Sam Writes Security | [Read More](https://medium.com/p/1f3378e84e23) |
+| Mon, 29 Dec 2025 15:06:01 GMT | Cyber Briefing: 2025.12.29 | CyberMaterial | [Read More](https://medium.com/p/ab1e61605725) |
+| Mon, 29 Dec 2025 15:05:31 GMT | Inside the Architecture of ds-7732nxi-k4: | Tavan CCTV | [Read More](https://medium.com/p/7d6501bc4ee2) |
+| Mon, 29 Dec 2025 14:59:43 GMT | Working Like a Professional Pentester (script -f mlog.log) | Mert Baykal | [Read More](https://medium.com/p/4c80435882d9) |
+| Mon, 29 Dec 2025 14:55:56 GMT | Encryption by default: Managing SSL generation in Kubernetes | Sergio Rua | [Read More](https://medium.com/p/641332a941df) |
+| Mon, 29 Dec 2025 14:55:56 GMT | Profesyonel Bir Pentester Gibi Çalışmak(script -nlog.log) | Mert Baykal | [Read More](https://medium.com/p/366f24a9262d) |
+| Mon, 29 Dec 2025 14:50:43 GMT | Lab: Reflected XSS into HTML context with all tags blocked except custom ones | KRY | [Read More](https://medium.com/p/bade322903de) |
+| Mon, 29 Dec 2025 14:48:22 GMT | Lab: Reflected XSS into HTML context with most tags and attributes blocked | KRY | [Read More](https://medium.com/p/55f97ceac9e7) |
+| Mon, 29 Dec 2025 14:48:14 GMT | Why Mixed Files Are One of the Most Dangerous Credit Bureau Errors | Consumer Attorneys PLLC | [Read More](https://medium.com/p/3ab8b90994bb) |
+| Mon, 29 Dec 2025 14:47:35 GMT | SentryPC Setup Guide: Start Monitoring in Minutes (Step-by-Step) | Paul Meyer | [Read More](https://medium.com/p/8e2188330552) |
+| Mon, 29 Dec 2025 14:47:10 GMT | The Role of Incident Responders in a Cyber Crisis | Ferdi Edogawa | [Read More](https://medium.com/p/e939d0bda2d9) |
+| Mon, 29 Dec 2025 14:41:49 GMT | How to Find Top Cybersecurity Talent in India: A Strategic Staffing Guide for On-Site and Remote… | CyberAube Technologies | [Read More](https://medium.com/p/a50981082e0e) |
 | Mon, 29 Dec 2025 14:34:47 GMT | Beyond the Checkbox: Implementing Real Zero Trust with Microsoft Entra ID (A Financial Sector Case… | JoaoP. | [Read More](https://medium.com/p/b4fb70a0d748) |
 | Mon, 29 Dec 2025 14:28:43 GMT | Introduction to Wazuh Part 1: Environment Setup and Malware Detection | Allen Ace | [Read More](https://medium.com/p/beba7daa0e23) |
 | Mon, 29 Dec 2025 14:27:12 GMT | Blue Team Level 1 (BTL1) Review | Cyd Tseng | [Read More](https://medium.com/p/9a614f3f57df) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 10:02:54 GMT | Prompt Injection: LLM Güvenliğinin En Büyük Tehdidi | Ahmet Bozkurt | [Read More](https://medium.com/p/ef7202031cde) |
 | Mon, 29 Dec 2025 09:57:14 GMT | Token-Efficient RAG: Using Query Intent to Reduce Cost Without Losing Accuracy | Varun Setia | [Read More](https://medium.com/p/07adacf7c563) |
 | Mon, 29 Dec 2025 09:54:07 GMT | Cheap but Unbreakable: The VPS Hosting Setup Built for Speed and Security | Ann Taylor | [Read More](https://medium.com/p/e7bfa0540e70) |
-| Mon, 29 Dec 2025 09:50:36 GMT | Your ChatGPT History Might Be Exposed: How to Audit Your Privacy in 10 Minutes | Tamzidul Haque | [Read More](https://medium.com/p/8f9a00e40e58) |
-| Mon, 29 Dec 2025 09:49:54 GMT | A Silly Developer Mistake: From User to Super Admin in One Hidden Parameter | Lokesh Soni | [Read More](https://medium.com/p/4c79767e2caf) |
-| Mon, 29 Dec 2025 09:47:59 GMT | HTB_AD Enumeration & Attacks — Skills Assessment Part I | Omar Al-Qawasmi | [Read More](https://medium.com/p/04c4437e2547) |
-| Mon, 29 Dec 2025 09:46:46 GMT | How AI Pentesting identifies attack paths humans often miss? | Meerab Khan | [Read More](https://medium.com/p/12149cd6ac79) |
-| Mon, 29 Dec 2025 09:44:43 GMT | The “Pay-to-Play” Withdrawal Scam: A Structural Analysis | Sterling Vance | [Read More](https://medium.com/p/99f9cb11167e) |
-| Mon, 29 Dec 2025 09:38:59 GMT | Is Your Identity Security Broken? This Will Fix It | Redfox Security | [Read More](https://medium.com/p/de8ad9512d79) |
-| Mon, 29 Dec 2025 09:32:08 GMT | Cold Data Explosion and Glass-Based Archival Storage with Femtosecond Lasers. | Jelaletdin Çarymuhammedow | [Read More](https://medium.com/p/0c9bf9e8dd9a) |
-| Mon, 29 Dec 2025 09:29:29 GMT | Basic Terminology dan Konsepnya- Network Hacking Dari Nol #2 | Levithan | [Read More](https://medium.com/p/d95e18017756) |
-| Mon, 29 Dec 2025 09:26:51 GMT | Ice Pi — Harnessing the Raw Hacking Power of a Raspberry Pi and Kali Linux | Toshith | [Read More](https://medium.com/p/ca658b40660e) |
-| Mon, 29 Dec 2025 09:26:48 GMT | Expert Remote IT Support Services for Sydney Firms | Any network | [Read More](https://medium.com/p/91e512837729) |
-| Mon, 29 Dec 2025 09:25:59 GMT | Zuri Njoku Aligning Information Technology with Business Strategy | Zuri Njoku | [Read More](https://medium.com/p/32c5dcb350d1) |
-| Mon, 29 Dec 2025 09:22:23 GMT | How Agile Has Effectively Ruined Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/466eb1ef3cf9) |
-| Mon, 29 Dec 2025 09:21:15 GMT | AI-Driven Privacy Attacks — When Anonymization Becomes Meaningless | David SEHYEON Baek | [Read More](https://medium.com/p/1d043b34ba12) |
-| Mon, 29 Dec 2025 09:21:15 GMT | Ethical hacking training in Hyderabad | APEC EDU | [Read More](https://medium.com/p/b3656dc6f397) |
