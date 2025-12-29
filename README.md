@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 11:26:23 GMT | Mau777 Login Link Alternatif Terbaru 2025: Akses Mudah ke Slot Gacor Anti Rungkad | Surakarta XXV | [Read More](https://medium.com/p/77c6b25211f1) |
+| Mon, 29 Dec 2025 11:24:52 GMT | Security Lab Simulation Project Part 18: Following Brute Force Playbook | Jenny | [Read More](https://medium.com/p/df9f2654988b) |
+| Mon, 29 Dec 2025 11:24:51 GMT | From Kerala to Global Cybersecurity: How Akash PS Founded AaveTech Using AI-Driven Ethical Hacking | Akash PS - Elite Ethical Hacker | [Read More](https://medium.com/p/de12d2b34698) |
+| Mon, 29 Dec 2025 11:21:02 GMT | The Concrete Vault Era: Why DeFi Is Growing Up | MORPAT | [Read More](https://medium.com/p/2514628d1440) |
+| Mon, 29 Dec 2025 11:19:19 GMT | Secure, Fast, Affordable: The Hosting Triangle Every WordPress Site Must Masters | Andy | [Read More](https://medium.com/p/4591e4215166) |
+| Mon, 29 Dec 2025 11:18:31 GMT | Operational Technology (OT) Cyber Training Programs: A Practical Guide for Industrial Teams | Arista Cyber | [Read More](https://medium.com/p/5c8b88698a21) |
+| Mon, 29 Dec 2025 11:17:47 GMT | The Architecture Tax: Why Security, Scalability, and Stability Can’t Be Retrofitted | Krishna Kumar Akurathi | [Read More](https://medium.com/p/b01b3042a882) |
+| Mon, 29 Dec 2025 11:12:24 GMT | The Prayers We Whisper But Never Post | Inspire: Viva La Vida | [Read More](https://medium.com/p/c636e585e0b3) |
 | Mon, 29 Dec 2025 11:04:55 GMT | Moving Forward with Memory Analysis: From Volatility to MemProcFS Part 1 | Dean | [Read More](https://medium.com/p/a28df61de30b) |
 | Mon, 29 Dec 2025 11:02:16 GMT | CVE‑2025‑14847: Unauthenticated Memory Disclosure in MongoDB’s zlib Decompression Pipeline | gm0 | [Read More](https://medium.com/p/67e88e831f9d) |
 | Mon, 29 Dec 2025 10:58:50 GMT | The Phone Call That Taught Me Everything | Myra Jarenga | [Read More](https://medium.com/p/f4c03d02fa9a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 06:35:15 GMT | 10 Best Enterprise Content Management Software Platforms Compared | Quadrant IT Services | [Read More](https://medium.com/p/6fc35cab1b48) |
 | Mon, 29 Dec 2025 06:33:46 GMT | Unarmed Security Services in Las Vegas - Palisade Defense | Palisade Defense | [Read More](https://medium.com/p/ecfca143e29a) |
 | Mon, 29 Dec 2025 06:32:53 GMT | What Is Cybersecurity? A Beginner-Friendly Introduction | Eternity Ocean University | [Read More](https://medium.com/p/84e84bbf12be) |
-| Mon, 29 Dec 2025 06:21:21 GMT | How to Enable DNS over HTTPS on Firefox Android to Block Adult Content ? | Stack Architect | [Read More](https://medium.com/p/26aa48867307) |
-| Mon, 29 Dec 2025 06:14:48 GMT | Turning Public Map Data into OSINT Datasets Using NirGeoScrapper | TheCyberNirvana | [Read More](https://medium.com/p/df06b7fb210d) |
-| Mon, 29 Dec 2025 06:13:19 GMT | From IT to SOC: It’s Not a Tool Change. It’s a Mindset Change | Denny Roger | [Read More](https://medium.com/p/3a3fe50b0ed4) |
-| Mon, 29 Dec 2025 06:09:48 GMT | CMPen Review: How I Earned the Certified Mobile Pentester (Android) with Merit | B13ss3d | [Read More](https://medium.com/p/a68363c330eb) |
-| Mon, 29 Dec 2025 06:07:07 GMT | $2,400 Bounty: for Discovering Critical DoS Vulnerability in Rack (CVE-2022–30122) | Monika sharma | [Read More](https://medium.com/p/26b8f0d9e484) |
-| Mon, 29 Dec 2025 06:05:17 GMT | SQLi → RCE: Exploiting PostgreSQLi | Raj Prasad Kuiri | [Read More](https://medium.com/p/f5bb81d24630) |
-| Mon, 29 Dec 2025 06:03:07 GMT | The Internet Is Leaking Secrets in Public Repos | Vipul Sonule | [Read More](https://medium.com/p/0b4f5bc32f87) |
-| Mon, 29 Dec 2025 06:02:23 GMT | AWS re: Invent 2025: Security Session Notes | Sena Yakut | [Read More](https://medium.com/p/fa2c9f62ed4b) |
