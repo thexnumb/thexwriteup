@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 04:39:32 GMT | Mencari Celah XSS Secara Otomatis dengan PwnXSS | Ginda Sundara | [Read More](https://medium.com/p/ea7f5ad741f2) |
+| Mon, 29 Dec 2025 04:37:16 GMT | The Myth of the Trusted Internal Network | Travis Ray Caverhill | [Read More](https://medium.com/p/de28bd14fe92) |
+| Mon, 29 Dec 2025 04:32:35 GMT | The Warren Buffett Method: How to Calculate Intrinsic Value Step-by-Step | Chiro Adsmedia | [Read More](https://medium.com/p/9aaf074167b7) |
+| Mon, 29 Dec 2025 04:32:28 GMT | APIs, Scrapers, and the Art of Reliable Data Pipelines: Engineering CVE Intelligence That Doesn’t… | Shubh Gupta | [Read More](https://medium.com/p/499acb588ed8) |
+| Mon, 29 Dec 2025 04:32:28 GMT | 7 Cross-Program Security Mistakes That Hide Until Audit | Nexumo | [Read More](https://medium.com/p/5748e98b27d6) |
+| Mon, 29 Dec 2025 04:13:50 GMT | Your Hospital’s MFA Is a Lie: How Session Hijacking Bypasses “Zero Trust” Daily | Travis Ray Caverhill | [Read More](https://medium.com/p/7241cb650dae) |
+| Mon, 29 Dec 2025 04:09:55 GMT | How I Paid from$99 college fees to $0.5- Price Tampering vulnerability | Algo Demo | [Read More](https://medium.com/p/344196b802b5) |
+| Mon, 29 Dec 2025 04:06:10 GMT | Information Disclosure Menggunakan Dirsearch | Agil Jibrin | [Read More](https://medium.com/p/4aed847b8910) |
 | Mon, 29 Dec 2025 03:52:05 GMT | ️ How I Earned $$$ by Exploiting an XML-RPC SSRF in a WordPress Site | Algo Demo | [Read More](https://medium.com/p/1d5822f0bd50) |
 | Mon, 29 Dec 2025 03:35:19 GMT | A critical vulnerability in MongoDB, named MongoBleed (CVE-2025–14847) | Md Shoriful Islam Ashiq | [Read More](https://medium.com/p/1c582e87e5ae) |
 | Mon, 29 Dec 2025 03:34:58 GMT | HTB Academy — File Upload Attacks: A Walkthrough of the Challenges (Part 1) | BotsiCat | [Read More](https://medium.com/p/3a4386afb2a7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 17:12:28 GMT | Agentic AI Threats Push Businesses To Strengthen Managed IT Services in Springfield, MO | PCnet | [Read More](https://medium.com/p/e0f747ff4cf5) |
 | Sun, 28 Dec 2025 17:05:56 GMT | Info Disclosure Bugs: Bug Bounty Beginner Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/36e3ea47f317) |
 | Sun, 28 Dec 2025 17:04:26 GMT | “Passive Information Gathering: The Art of Gathering Information Without Touching the Target… | Habibi | [Read More](https://medium.com/p/770a109c5b19) |
-| Sun, 28 Dec 2025 17:03:50 GMT | Try Hack Me- Source Walkthrough | PulseEinher | [Read More](https://medium.com/p/605772942e31) |
-| Sun, 28 Dec 2025 17:03:40 GMT | Moonwines and the Secret Conversations of the Internet | Moonwines | [Read More](https://medium.com/p/c7e6e5bae2cc) |
-| Sun, 28 Dec 2025 16:50:31 GMT | “Passive Information Gathering: The Art of Gathering Information Without Touching the Target… | Habibi Sinar | [Read More](https://medium.com/p/a6763d90b5db) |
-| Sun, 28 Dec 2025 16:42:18 GMT | Day 146 — Behemoth Level-3 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/d83b945138c5) |
-| Sun, 28 Dec 2025 16:38:34 GMT | Forest Guards and the Perils of Ungoverned Power | Ojudubabafemi | [Read More](https://medium.com/p/531710eb9809) |
-| Sun, 28 Dec 2025 16:35:16 GMT | When Courage Whispers | Hatomi | [Read More](https://medium.com/p/01b9e2f49712) |
-| Sun, 28 Dec 2025 16:29:11 GMT | Understanding Lumera Protocol: Infrastructure for AI, Data, and Web3 Applications | Aisharimii | [Read More](https://medium.com/p/41c559cc6b9f) |
-| Sun, 28 Dec 2025 16:29:01 GMT | SSH vs SSL/TLS — Lessons I Learned While Studying Cybersecurity and Solving Labs | Gajanan | [Read More](https://medium.com/p/026ba83941b1) |
