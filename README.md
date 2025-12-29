@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 17:06:48 GMT | #14- Kali Linux - Exfiltration:  Moving Data Out Quietly | SDNTechForum | [Read More](https://medium.com/p/d4ebb9c3b44f) |
+| Mon, 29 Dec 2025 17:05:33 GMT | Why Modern Businesses Must Move Beyond Shared Passwords | Dr. Shashi Karhail | [Read More](https://medium.com/p/0c3acf1f4c34) |
+| Mon, 29 Dec 2025 17:04:48 GMT | From Code to Exploit: My Journey to Earning the Hackviser CAPT Certification | Gokhan Can | [Read More](https://medium.com/p/2bd2f00c3217) |
+| Mon, 29 Dec 2025 16:59:44 GMT | The Windows Concept Journey — Server Core | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6d5b32a2311b) |
+| Mon, 29 Dec 2025 16:56:28 GMT | Django 6.0 Security Upgrades: CSP, Async Auth, and OWASP Fixes for SaaS (Hands-On Guide) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/20ec3ca6c323) |
+| Mon, 29 Dec 2025 16:56:25 GMT | New Year Won’t Change Your Career. You Will. | Denny Roger | [Read More](https://medium.com/p/2b7ea8dd6890) |
+| Mon, 29 Dec 2025 16:56:12 GMT | How A Misconfigured Password Reset Link Led to Full Account Takeover | Abhishek Kumar | [Read More](https://medium.com/p/47dc0cfd967d) |
+| Mon, 29 Dec 2025 16:44:26 GMT | Understanding SSRF: The Hidden Server Vulnerability | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/3efd491f98c7) |
 | Mon, 29 Dec 2025 16:25:32 GMT | A Christmas Week Chaos | O. J. Okpabi | [Read More](https://medium.com/p/3611fce8b4db) |
 | Mon, 29 Dec 2025 16:18:04 GMT | Unlocking Linux Process Power: Part3 From Jobs to Limits: Owning Process Behavior | MR.7 | [Read More](https://medium.com/p/5ae909d2f842) |
 | Mon, 29 Dec 2025 16:05:57 GMT | Salt: What it Means in Web3 Security | Munirat Mohammed | [Read More](https://medium.com/p/9af88705a0d4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 11:12:24 GMT | The Prayers We Whisper But Never Post | Inspire: Viva La Vida | [Read More](https://medium.com/p/c636e585e0b3) |
 | Mon, 29 Dec 2025 11:04:55 GMT | Moving Forward with Memory Analysis: From Volatility to MemProcFS Part 1 | Dean | [Read More](https://medium.com/p/a28df61de30b) |
 | Mon, 29 Dec 2025 11:02:16 GMT | CVE‑2025‑14847: Unauthenticated Memory Disclosure in MongoDB’s zlib Decompression Pipeline | gm0 | [Read More](https://medium.com/p/67e88e831f9d) |
-| Mon, 29 Dec 2025 10:58:50 GMT | The Phone Call That Taught Me Everything | Myra Jarenga | [Read More](https://medium.com/p/f4c03d02fa9a) |
-| Mon, 29 Dec 2025 10:58:30 GMT | Cyber Security Management Explained in Simple Terms for Students | Kartik Reddy | [Read More](https://medium.com/p/34fb6324bb19) |
-| Mon, 29 Dec 2025 10:57:45 GMT | RST TI Report Digest: 29 Dec 2025 | RST Cloud | [Read More](https://medium.com/p/51b9964da5e6) |
-| Mon, 29 Dec 2025 10:54:51 GMT | The New Era of SEO: Upgraded with AEO & GEO | Pranali | [Read More](https://medium.com/p/afc9eb1d080e) |
-| Mon, 29 Dec 2025 10:45:33 GMT | BloodCat & Evil-Bat: The Global Camera Killer Duo | Мартин. | [Read More](https://medium.com/p/8af7122d0651) |
-| Mon, 29 Dec 2025 10:43:44 GMT | The 2026 Security Thesis: Why “Defensive” Code is Dead | Gideon Cohen | [Read More](https://medium.com/p/60db29228fdd) |
-| Mon, 29 Dec 2025 10:38:37 GMT | How Cl0p Hackers Earned $500M+ by Hacking Supply Chains | Motasem Hamdan | [Read More](https://medium.com/p/77bd658bdb48) |
-| Mon, 29 Dec 2025 10:34:19 GMT | The Difference Between Feeling Secure and Being Secure | Digital Defense | [Read More](https://medium.com/p/c2ae9206b3b5) |
