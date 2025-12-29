@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 01:27:06 GMT | WhatsApp Scammers Use Fake New Year Greetings to Steal Data | DevaDas Writer | [Read More](https://medium.com/p/c07f8da137f9) |
+| Mon, 29 Dec 2025 00:56:01 GMT | 63-Year-Old Chairman Marries 38-Year-Old: “I Married for Love, Age Doesn’t Matter” | Beverly Green | [Read More](https://medium.com/p/b5780ac072d1) |
+| Mon, 29 Dec 2025 00:47:56 GMT | Nano Banana is insane!!! | Bassam Tantawi | [Read More](https://medium.com/p/39b405f868bc) |
+| Sun, 28 Dec 2025 23:55:18 GMT | My AI Assistant Bypassed My Git Commit Blocker | Anand Rathnas | [Read More](https://medium.com/p/5d42509f37c3) |
+| Sun, 28 Dec 2025 23:46:10 GMT | The ABC Strategy: Architecting the Future of Private AI Business Intelligence in 2026 & Beyond | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/175f9dfeed62) |
+| Sun, 28 Dec 2025 23:45:38 GMT | React Server RCE: How a Single HTTP Request Can Compromise Cloud Infrastructure | PressMind Labs | [Read More](https://medium.com/p/f7e3047f3b91) |
 | Sun, 28 Dec 2025 23:33:32 GMT | Why Your Browser VPN is a Security Risk (And How dVPNs are Changing the Game) | Affryn Kalya | [Read More](https://medium.com/p/c8e114438640) |
 | Sun, 28 Dec 2025 23:28:53 GMT | Kariyerinin Başında Birinden eWPT İncelemesi | Tuba ÜNSAL | [Read More](https://medium.com/p/dac53d609c8b) |
 | Sun, 28 Dec 2025 23:22:21 GMT | How Do We Prove Self-Driving Cars Are Safe? The Verification Challenge | Shujaatali Badami | [Read More](https://medium.com/p/e8411d3290bb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Dec 2025 15:39:33 GMT | Soulmate: Falling in Love with a Full System Compromise (HTB Walkthrough) | Aravind | [Read More](https://medium.com/p/5b3b4896a90a) |
 | Sun, 28 Dec 2025 15:32:23 GMT | Overview of the TCP/IP Networking Model | azrecon_ | [Read More](https://medium.com/p/48b916e8c72b) |
 | Sun, 28 Dec 2025 15:27:25 GMT | Amazon Reports 1,800 North Korean Hacker Applications for Remote IT Jobs.. | Krono | [Read More](https://medium.com/p/f9dce6d40196) |
-| Sun, 28 Dec 2025 15:19:40 GMT | Bypassing Windows Defender during Christmas 2025: Shellcode loader with Alternate Data Stream | thoms | [Read More](https://medium.com/p/be8a0b36bd72) |
-| Sun, 28 Dec 2025 15:18:08 GMT | Scanning for Web Vulnerabilities with Nikto: A Hands-On Lab Experience | Edwin Atali | [Read More](https://medium.com/p/1a16235dd046) |
-| Sun, 28 Dec 2025 15:07:34 GMT | The Dark Side of Working in a SOC: A Day in My Life as a SOC Analyst | NineTales | [Read More](https://medium.com/p/658e2c386e3d) |
-| Sun, 28 Dec 2025 14:59:55 GMT | Wireless Security: The Invisible Battlefield in Your Pocket | Satyam Singh | [Read More](https://medium.com/p/12f14313447e) |
-| Sun, 28 Dec 2025 14:53:28 GMT | Why Database TLS Matters When Your Server and Database Are Separated | YRAV | [Read More](https://medium.com/p/5b8c8c45ef69) |
-| Sun, 28 Dec 2025 14:37:23 GMT | SentryPC Features Explained: Unlocking Full Monitoring & Screen Time Control for Parents… | Paul Meyer | [Read More](https://medium.com/p/767b6b97d085) |
