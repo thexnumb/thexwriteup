@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Dec 2025 10:45:33 GMT | BloodCat & Evil-Bat: The Global Camera Killer Duo | Мартин. | [Read More](https://medium.com/p/8af7122d0651) |
+| Mon, 29 Dec 2025 10:43:44 GMT | The 2026 Security Thesis: Why “Defensive” Code is Dead | Gideon Cohen | [Read More](https://medium.com/p/60db29228fdd) |
+| Mon, 29 Dec 2025 10:38:37 GMT | How Cl0p Hackers Earned $500M+ by Hacking Supply Chains | Motasem Hamdan | [Read More](https://medium.com/p/77bd658bdb48) |
+| Mon, 29 Dec 2025 10:34:19 GMT | The Difference Between Feeling Secure and Being Secure | Digital Defense | [Read More](https://medium.com/p/c2ae9206b3b5) |
+| Mon, 29 Dec 2025 10:34:17 GMT | From Pranks to Profits: How Malware Evolved Into a Billion-Dollar Crime Industry | Yua Mikanana | [Read More](https://medium.com/p/c8806ca1dd6f) |
+| Mon, 29 Dec 2025 10:29:43 GMT | Geme Wallet: A Practical Approach to Non-Custodial Crypto Management | Zekanem King | [Read More](https://medium.com/p/346f021155d1) |
+| Mon, 29 Dec 2025 10:28:50 GMT | Dangers of vibecoding | Kiitan | [Read More](https://medium.com/p/c761d1853402) |
+| Mon, 29 Dec 2025 10:26:48 GMT | SOC Services in Saudi Arabia: 24/7 Threat Monitoring & Incident Response | Prakash Factosecure | [Read More](https://medium.com/p/f6fc5d87eed6) |
 | Mon, 29 Dec 2025 10:23:43 GMT | # Top 4 Most Common Web Vulnerabilities Every Beginner Should Master (P1–P4) | Abdulbar | [Read More](https://medium.com/p/d12ba935519e) |
 | Mon, 29 Dec 2025 10:22:16 GMT | Why Cyber Threat Intelligence Is No Longer Optional for SOC and OT Engineers for Airports Security… | Wedd Bukhari | [Read More](https://medium.com/p/f08a2375f099) |
+| Mon, 29 Dec 2025 10:18:45 GMT | Australia Proxies in 2026: How to Choose Reliable Australian IPs | ChainFable | [Read More](https://medium.com/p/4f17aba20d5f) |
+| Mon, 29 Dec 2025 10:17:18 GMT | The Daily Tech Digest: 29 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e8cb561f4964) |
 | Mon, 29 Dec 2025 10:17:09 GMT | HTB_AD Enumeration & Attacks — Skills Assessment Part II | Omar Al-Qawasmi | [Read More](https://medium.com/p/3b8c3595ae04) |
 | Mon, 29 Dec 2025 10:16:58 GMT | CAPenX: An AppSec Exam That Forces You to Think Like a Pentester | Kishan Chak | [Read More](https://medium.com/p/7fce83f81403) |
 | Mon, 29 Dec 2025 10:14:19 GMT | How I Built a Home Lab for Under $0: A Beginner’s Guide | Laaguidi Yassine | [Read More](https://medium.com/p/4dcea9eae91d) |
@@ -34,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 09:44:43 GMT | The “Pay-to-Play” Withdrawal Scam: A Structural Analysis | Sterling Vance | [Read More](https://medium.com/p/99f9cb11167e) |
 | Mon, 29 Dec 2025 09:38:59 GMT | Is Your Identity Security Broken? This Will Fix It | Redfox Security | [Read More](https://medium.com/p/de8ad9512d79) |
 | Mon, 29 Dec 2025 09:32:08 GMT | Cold Data Explosion and Glass-Based Archival Storage with Femtosecond Lasers. | Jelaletdin Çarymuhammedow | [Read More](https://medium.com/p/0c9bf9e8dd9a) |
+| Mon, 29 Dec 2025 09:29:29 GMT | Basic Terminology dan Konsepnya- Network Hacking Dari Nol #2 | Levithan | [Read More](https://medium.com/p/d95e18017756) |
 | Mon, 29 Dec 2025 09:26:51 GMT | Ice Pi — Harnessing the Raw Hacking Power of a Raspberry Pi and Kali Linux | Toshith | [Read More](https://medium.com/p/ca658b40660e) |
 | Mon, 29 Dec 2025 09:26:48 GMT | Expert Remote IT Support Services for Sydney Firms | Any network | [Read More](https://medium.com/p/91e512837729) |
 | Mon, 29 Dec 2025 09:25:59 GMT | Zuri Njoku Aligning Information Technology with Business Strategy | Zuri Njoku | [Read More](https://medium.com/p/32c5dcb350d1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 05:58:55 GMT | Why Small Websites Are the New Bug Bounty Goldmine | Vipul Sonule | [Read More](https://medium.com/p/4d9c0bfced91) |
 | Mon, 29 Dec 2025 05:48:41 GMT | a leap | whynotmore | [Read More](https://medium.com/p/1640b891b43b) |
 | Mon, 29 Dec 2025 05:32:42 GMT | Unlock Smooth, Stress-Free Hosting with the Most Affordable Plans of 2026 | Mary Thomas | [Read More](https://medium.com/p/b386f33adde9) |
-| Mon, 29 Dec 2025 05:25:45 GMT | WatchGuard Firebox Under Fire: CVE-2025–14733 and What It Really Means for the Perimeter | CyberSecurity | [Read More](https://medium.com/p/e15a482f0d2e) |
-| Mon, 29 Dec 2025 05:22:19 GMT | CISSP Domain 3: Security Engineering - Complete Study Notes ( Part 1 ) | Pushpak Sharma | [Read More](https://medium.com/p/f8649c26cb83) |
-| Mon, 29 Dec 2025 05:18:12 GMT | Digital Threat Intelligence Management (DTIM) Market Growth Accelerates as Enterprises Prioritize… | Gauri Kale | [Read More](https://medium.com/p/93b19ccf1a35) |
-| Mon, 29 Dec 2025 05:16:10 GMT | V2X Cybersecurity Market Outlook and Growth Analysis | Vijay Mishra | [Read More](https://medium.com/p/7a613febf2b8) |
-| Mon, 29 Dec 2025 05:16:06 GMT | Beyond the Search Box: Why OSINT Is Everything Googling Isn’t | Naveen Jc | [Read More](https://medium.com/p/a7ade5ee5c52) |
-| Mon, 29 Dec 2025 05:15:31 GMT | Malware Analysis — ShinySpider Ransomware | Karim Walid | [Read More](https://medium.com/p/d2c09e8501ae) |
-| Mon, 29 Dec 2025 05:12:49 GMT | The New Malaysia Cyber Security Act 2024: What Every Business Needs to Know | Naveen Jc | [Read More](https://medium.com/p/cf183bd1d539) |
-| Mon, 29 Dec 2025 05:10:57 GMT | Monitor Bug Bounty Targets in Real Time Using Certificate Transparency Logs | Unknown | [Read More](https://medium.com/p/247caa34d0f9) |
-| Mon, 29 Dec 2025 04:54:57 GMT | Unlocking the Power of ARPscan: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/9b6b6fc6c1c5) |
-| Mon, 29 Dec 2025 04:53:47 GMT | Getting Started with ARPscan: The Fast Lane to Network Discovery | Cybeague Technologies | [Read More](https://medium.com/p/b8207ba38748) |
-| Mon, 29 Dec 2025 04:39:32 GMT | Mencari Celah XSS Secara Otomatis dengan PwnXSS | Ginda Sundara | [Read More](https://medium.com/p/ea7f5ad741f2) |
