@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 13:36:18 GMT | PortSwigger Web Security Academy — 2FA Simple Bypass (Lab Write-Up) | Mann24> | [Read More](https://medium.com/p/a6df50c47915) |
+| Tue, 30 Dec 2025 13:28:49 GMT | ️ Incident Response Report: Data Exfiltration via Backdoor | Genet Shibru | [Read More](https://medium.com/p/f9bcb4b04b2d) |
+| Tue, 30 Dec 2025 13:20:59 GMT | CompTIA Security+ Certification Guide for Cybersecurity Career | Trainotrack Solutions | [Read More](https://medium.com/p/13205dd78c4c) |
+| Tue, 30 Dec 2025 13:20:00 GMT | Transforming Tomorrow: The Internet of Things (IoT) Security Market Accelerates Innovation and… | Raj Nayak | [Read More](https://medium.com/p/44cd6f700ab8) |
+| Tue, 30 Dec 2025 13:16:35 GMT | What Happens After a Company Fails a Security Assessment | Digital Defense | [Read More](https://medium.com/p/851882d3e834) |
+| Tue, 30 Dec 2025 13:16:26 GMT | Staying Safe While you Earn Online | Learn With Hatty | [Read More](https://medium.com/p/4dd71e5b4fea) |
+| Tue, 30 Dec 2025 13:09:42 GMT | Grieving Someone Who’s Still Alive: The Pain We Don’t Talk About | WordsbyBano | [Read More](https://medium.com/p/587b98360589) |
+| Tue, 30 Dec 2025 13:07:37 GMT | Ethereum’s Cryptography in a Post-Quantum World | Dany A. Darghouth -  داني  دارغوث | [Read More](https://medium.com/p/896d7a17ad87) |
+| Tue, 30 Dec 2025 13:06:39 GMT | Your Infrastructure Just Got Smarter: Building a Digital Immune System That Actually Works | Ravi | [Read More](https://medium.com/p/049f98802e2a) |
+| Tue, 30 Dec 2025 13:04:47 GMT | Reinstate Amazon Listing After ASIN Suspension Fast | Sellerpickle | [Read More](https://medium.com/p/a7674168eb5a) |
+| Tue, 30 Dec 2025 13:04:20 GMT | Understanding ABAC (Attribute-Based Access Control): Fine-Grained Security Explained | Ayoub Taouam | [Read More](https://medium.com/p/bf7f8d9d60b6) |
+| Tue, 30 Dec 2025 13:02:27 GMT | The One Log Order Most Linux Investigations Get Wrong | Faruk Ahmed | [Read More](https://medium.com/p/8c92469ab081) |
+| Tue, 30 Dec 2025 12:46:41 GMT | introducing ShadowVendor | Stew Alexander | [Read More](https://medium.com/p/1ef800f17876) |
+| Tue, 30 Dec 2025 12:46:34 GMT | How Much Do Security Services Cost in London | Ninjaseo | [Read More](https://medium.com/p/1f9b0822ed73) |
 | Tue, 30 Dec 2025 12:37:14 GMT | Introduction to Wazuh Part 2 | Allen Ace | [Read More](https://medium.com/p/9a3a77bd9b02) |
+| Tue, 30 Dec 2025 12:34:33 GMT | “Verified Online Trader” on Instagram? Read This Before You Invest | Prasoon Jadon | [Read More](https://medium.com/p/b789500f2cb6) |
 | Tue, 30 Dec 2025 12:33:13 GMT | The Commoditization of AI Is Creating New Risk in Cybersecurity | Graylog | [Read More](https://medium.com/p/b287a024d990) |
 | Tue, 30 Dec 2025 12:32:24 GMT | -- :   … | TM SQUARE | [Read More](https://medium.com/p/adeb0e9645dd) |
 | Tue, 30 Dec 2025 12:31:39 GMT | Security Lab Simulation Project Part 19: Following Endpoint Malware Detection Playbook | Jenny | [Read More](https://medium.com/p/aec7b7d7c26f) |
@@ -98,18 +113,3 @@ it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://
 | Tue, 30 Dec 2025 08:14:50 GMT | Learning Wi-Fi Security with the Evil Twin Attack | Sahilshaikh | [Read More](https://medium.com/p/124ab2081aad) |
 | Tue, 30 Dec 2025 08:08:57 GMT | How GRC Teams Can Implement AI for Better Risk Management | SecureSlate | [Read More](https://medium.com/p/df6325bfef94) |
 | Tue, 30 Dec 2025 08:08:54 GMT | Technical Assessment: DIVEXA Security Architecture and Protocol Analysis | Certification Flow Laboratories | [Read More](https://medium.com/p/6a6109b6be34) |
-| Tue, 30 Dec 2025 08:06:30 GMT | Product Management (PM) insights December 30, 2025, s focus on deep AI integration, Product-Led… | Ravikant Vishwakarma | [Read More](https://medium.com/p/8e613bf9b30f) |
-| Tue, 30 Dec 2025 08:00:23 GMT | Nmap Scans That Make Network Admins Lose Sleep (And How to Not Be That Person) | Naveen Jc | [Read More](https://medium.com/p/95769a78dc33) |
-| Tue, 30 Dec 2025 07:58:04 GMT | The Silent Trauma of Cleaning Up Other People’s Security Mistakes | Santhosh Adiga U | [Read More](https://medium.com/p/ee5584edec8c) |
-| Tue, 30 Dec 2025 07:50:27 GMT | Understanding JWT: What It Is and Why It’s Used | Narmadha | [Read More](https://medium.com/p/dc413958029b) |
-| Tue, 30 Dec 2025 07:45:20 GMT | “What Really Happens After a Data Breach And Why You Shouldn’t Ignore Security Alerts” | Grace Chukwunta | [Read More](https://medium.com/p/1e00da6f59e5) |
-| Tue, 30 Dec 2025 07:07:23 GMT | New Year Wishes Can Turn Into Cyber Traps: Beware of Fake APKs & Malicious Links | Ankit rai | [Read More](https://medium.com/p/367bdf5b6b2f) |
-| Tue, 30 Dec 2025 07:07:15 GMT | How Enterprise-Grade Security Is Changing Modern MLM Software | shailaja.sankalp | [Read More](https://medium.com/p/473a2320c136) |
-| Tue, 30 Dec 2025 07:06:27 GMT | DNS IN DETAIL — TRYHACKME | 0xNeko | [Read More](https://medium.com/p/020199f7562b) |
-| Tue, 30 Dec 2025 07:05:42 GMT | Stop Letting Your Web App Panic Offline: A Friendly Guide to Service Workers | Jitin Kayyala | [Read More](https://medium.com/p/108aab594380) |
-| Tue, 30 Dec 2025 07:03:58 GMT | A Non-MDM MDM: Certificate-Based Wi-Fi Without Device Management | Sudhi | [Read More](https://medium.com/p/d4b55f9cdb2b) |
-| Tue, 30 Dec 2025 07:03:50 GMT | Why Office Automation Is No Longer Optional for Modern Workplaces | Edgeincontroluae | [Read More](https://medium.com/p/bef4990ee872) |
-| Tue, 30 Dec 2025 07:02:26 GMT | Cyber Tips for Safe Holiday Travel | Adept Networks | [Read More](https://medium.com/p/577249b6e552) |
-| Tue, 30 Dec 2025 06:59:17 GMT | 15 Tools to Chain CORS, JSONP & XSS for Account Takeover: Master Your Pentesting Game | Very Lazy Tech | [Read More](https://medium.com/p/23a9ac9524ad) |
-| Tue, 30 Dec 2025 06:57:59 GMT | Defend Digital Infrastructure with Ethical Hacking Expertise — Certified Ethical Hacking… | Adhiraj Kasabe | [Read More](https://medium.com/p/57487be20499) |
-| Tue, 30 Dec 2025 06:57:50 GMT | LetsDefend SOC Walkthrough: Investigating the ToolShell SharePoint Zero-Day (CVE-2025–53770) | Raiven Ruetas | [Read More](https://medium.com/p/fecebfeb217c) |
