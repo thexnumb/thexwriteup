@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 03:33:27 GMT | TryHackMe: Year of the Pig Writeup | cbev | [Read More](https://medium.com/p/ec579dfbefe9) |
+| Tue, 30 Dec 2025 03:15:07 GMT | I Spent 2 Hours Debugging a 403 error from WSL to Burpsuite MCP, The Fix Was Stupidly Simple | Barengsinau | [Read More](https://medium.com/p/e24cb5044880) |
+| Tue, 30 Dec 2025 03:12:22 GMT | From Theory to Practice: How Reading About AI Inspired My Projects | Aj | [Read More](https://medium.com/p/dbaea0ba5858) |
+| Tue, 30 Dec 2025 03:09:15 GMT | 針對 TSMC 2nm 暨東京威力科創營業秘密外流事件之個案評估報告 | p1x06u9 | [Read More](https://medium.com/p/1c32fd0b9cba) |
+| Tue, 30 Dec 2025 03:08:20 GMT | Who Is Stealing Your Crypto Assets? — 2025 Web3 User Security and Risk Trends Report | GoPlus Security | [Read More](https://medium.com/p/1deb46dac16c) |
+| Tue, 30 Dec 2025 03:00:52 GMT | Computer Security “Playbook” | Hector Orellana Reyes | [Read More](https://medium.com/p/6ff8d1e8f8e1) |
+| Tue, 30 Dec 2025 02:32:21 GMT | Every Bug Bounty Hunter Starts with the OWASP Top 10 | Jugal Patel | [Read More](https://medium.com/p/d2bf16842f42) |
+| Tue, 30 Dec 2025 01:59:29 GMT | Custom Web Portal Starter Kit: Implementing UI Auth Services | Chris Putnam | [Read More](https://medium.com/p/e449e4c7e8e9) |
+| Tue, 30 Dec 2025 01:58:17 GMT | Why Catchy Radio Ads Stay in Your Head and Make a Difference | Chiro Adsmedia | [Read More](https://medium.com/p/d5aa4462f6ad) |
+| Tue, 30 Dec 2025 01:55:17 GMT | Why Is ServiceNow Spending $7.75 Billion on Armis? | Raviteja Mureboina | [Read More](https://medium.com/p/b0f7976f59a9) |
 | Tue, 30 Dec 2025 01:32:26 GMT | Beyond the “Black Box”: Why Governance is the Only Way to Deploy AI Safely | Eude Tech | [Read More](https://medium.com/p/7d37fc0fd626) |
 | Tue, 30 Dec 2025 01:21:19 GMT | API Keys, Tokens & Secrets: How They Leak and How Developers can Avoid it | Veronica Peter | [Read More](https://medium.com/p/37c458f16774) |
 | Tue, 30 Dec 2025 01:04:01 GMT | Understanding Broken Object Level Authorization (BOLA): What It Is, How It Happens, and How to… | Veronica Peter | [Read More](https://medium.com/p/52e6236e072c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 15:58:24 GMT | Practical JWT Mastery in .NET | Compile & Conquer | [Read More](https://medium.com/p/050b11a5fab2) |
 | Mon, 29 Dec 2025 15:55:05 GMT | How to Program a Ford Key Fob: DIY Guide & When to Call a Pro | Sure Lock & Key LLC | [Read More](https://medium.com/p/36fb4e44b35f) |
 | Mon, 29 Dec 2025 15:53:53 GMT | How Cybersecurity Works Explained for Business Leaders | ManagedIT_Expert | [Read More](https://medium.com/p/1ccfa6fffbb6) |
-| Mon, 29 Dec 2025 15:50:34 GMT | Finding Broken Access Control in Multi-Tenant Systems | Afi0pchik | [Read More](https://medium.com/p/2fa95ee0dfa6) |
-| Mon, 29 Dec 2025 15:49:38 GMT | The Cybersecurity Habits I’m Taking Into 2026 | Sam Writes Security | [Read More](https://medium.com/p/33d10b7d650f) |
-| Mon, 29 Dec 2025 15:42:31 GMT | Consistency Over Chaos: A 360-Day Bug Hunting Experiment | Rizwan_siddiqui | [Read More](https://medium.com/p/50d43381ef4d) |
-| Mon, 29 Dec 2025 15:41:39 GMT | Advanced IP Tracing Techniques: A Technical Deep Dive for Threat Hunters | Brian Curry | [Read More](https://medium.com/p/74dae72326bd) |
-| Mon, 29 Dec 2025 15:36:35 GMT | How I Phished a Toy Factory: A Write-up for THM's Merry Clickmas Room | Spiritsimba | [Read More](https://medium.com/p/4b1c82a3d868) |
-| Mon, 29 Dec 2025 15:36:01 GMT | Sam Altman Tackles Dangers of AI with New Role | M.Huzaifa Rizwan | [Read More](https://medium.com/p/7b0ee05e7c12) |
-| Mon, 29 Dec 2025 15:34:34 GMT | MongoBleed in the Wild: Technical Analysis and Impact of CVE-2025–14847 | RealSec.io | [Read More](https://medium.com/p/f9359bf07fdd) |
-| Mon, 29 Dec 2025 15:32:48 GMT | HackTheBox SecretPictures WriteUp | omertugrulbayram | [Read More](https://medium.com/p/d23c67308a86) |
-| Mon, 29 Dec 2025 15:29:41 GMT | AI Security and Governance: Enabling Responsible AI Use in the Enterprise | David O'Neill | [Read More](https://medium.com/p/581f0bc735b8) |
-| Mon, 29 Dec 2025 15:27:09 GMT | OverTheWire Bandit (Day 03): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/4502d7e88042) |
