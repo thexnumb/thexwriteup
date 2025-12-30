@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 14:18:50 GMT | Security-First Azure Cloud Migration with Zero Trust and CIS Benchmarks | Cheena | [Read More](https://medium.com/p/109752b2edfe) |
+| Tue, 30 Dec 2025 14:11:21 GMT | Splunk Setting up a SOC Lab | Dawid Kowalski | [Read More](https://medium.com/p/202f040f004c) |
+| Tue, 30 Dec 2025 14:08:32 GMT | Hardware-Based Security: How to Protect AI at the Edge | Altan Baysal | [Read More](https://medium.com/p/5516a7cdda12) |
+| Tue, 30 Dec 2025 14:04:03 GMT | Why Environmental Noise Makes Voice Assistants Vulnerable | Altan Baysal | [Read More](https://medium.com/p/91412829cf68) |
+| Tue, 30 Dec 2025 14:02:27 GMT | Cybersecurity Services Every Fullerton Business Needs: Protecting Your Company From Local and… | Xonicwave support | [Read More](https://medium.com/p/106761244910) |
+| Tue, 30 Dec 2025 14:02:26 GMT | How To Fix a Bent Garage Door: Expert Repair Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/a6b18f69471f) |
+| Tue, 30 Dec 2025 13:55:38 GMT | CVE-2025–68613: The Critical n8n Vulnerability Threatening 103,000+ Automation Platforms | Dhanush N | [Read More](https://medium.com/p/d1aca3cc9d07) |
+| Tue, 30 Dec 2025 13:52:54 GMT | The New Reality of Blockchain Theft: Why Crypto Crime Keeps Winning — and What the Industry Must… | Axellegay | [Read More](https://medium.com/p/7f2100ebf2da) |
+| Tue, 30 Dec 2025 13:52:48 GMT | Cybersecurity Threats to Watch in 2026 | Biometric.Vision | [Read More](https://medium.com/p/5c363b1ac8bc) |
+| Tue, 30 Dec 2025 13:48:39 GMT | China Attacks Thirty American Firms in a Bizarre New Cyber Hack | Khadijafalaksher | [Read More](https://medium.com/p/deb27e196862) |
+| Tue, 30 Dec 2025 13:48:16 GMT | Siber Güvenlik Nedir? Dijital Dünyanın Çağdaş Koruması | İlayda | [Read More](https://medium.com/p/0d7f9dafa264) |
 | Tue, 30 Dec 2025 13:36:18 GMT | PortSwigger Web Security Academy — 2FA Simple Bypass (Lab Write-Up) | Mann24> | [Read More](https://medium.com/p/a6df50c47915) |
+| Tue, 30 Dec 2025 13:32:46 GMT | Broken Access Control Vulnerability: Beginner-Friendly P4 Bug That Paid ₹15,000 | Rajankumarbarik | [Read More](https://medium.com/p/1cca0e53f5ff) |
+| Tue, 30 Dec 2025 13:31:47 GMT | Softness Belongs in Feminism | Calya Fajrian | [Read More](https://medium.com/p/d509b91c1683) |
 | Tue, 30 Dec 2025 13:28:49 GMT | ️ Incident Response Report: Data Exfiltration via Backdoor | Genet Shibru | [Read More](https://medium.com/p/f9bcb4b04b2d) |
 | Tue, 30 Dec 2025 13:20:59 GMT | CompTIA Security+ Certification Guide for Cybersecurity Career | Trainotrack Solutions | [Read More](https://medium.com/p/13205dd78c4c) |
 | Tue, 30 Dec 2025 13:20:00 GMT | Transforming Tomorrow: The Internet of Things (IoT) Security Market Accelerates Innovation and… | Raj Nayak | [Read More](https://medium.com/p/44cd6f700ab8) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 08:58:13 GMT | Jealousy is not proof of love;
 it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://medium.com/p/21e4933ec234) |
 | Tue, 30 Dec 2025 08:52:41 GMT | How Encryption Strategies Safeguard Critical Business Data | Rahman Iqbal | [Read More](https://medium.com/p/6168ee17881e) |
-| Tue, 30 Dec 2025 08:44:58 GMT | Insecure Deserialization → RCE | Raj Prasad Kuiri | [Read More](https://medium.com/p/b457eed0e2f9) |
-| Tue, 30 Dec 2025 08:41:19 GMT | How to Implement JWT Authentication in Spring Boot (Step-by-Step Guide) | Shivam Chandra | [Read More](https://medium.com/p/9f94d3ffae6d) |
-| Tue, 30 Dec 2025 08:32:23 GMT | The Crisis: Navigating the Storm When the Perimeter Fails | Cyber-Savvy Community | [Read More](https://medium.com/p/06271f4d80d7) |
-| Tue, 30 Dec 2025 08:22:33 GMT | Detecting Brute-Force Attacks in Real Time: Inside a SOC Analyst’s SIEM Workflow | Little_Sun4lower | [Read More](https://medium.com/p/a8dfea4f199c) |
-| Tue, 30 Dec 2025 08:22:14 GMT | Implementing JWT Authentication with Access & Refresh Tokens in Spring Boot | Narmadha | [Read More](https://medium.com/p/f2111ad6d8f1) |
-| Tue, 30 Dec 2025 08:20:06 GMT | I Switched My Passwords Over to Proton Pass | Red | [Read More](https://medium.com/p/96e48191ebdd) |
-| Tue, 30 Dec 2025 08:19:54 GMT | Introducing MCP Guard: The Hosted Security Layer for Your MCP Servers | Pritahir | [Read More](https://medium.com/p/d68cef40c078) |
-| Tue, 30 Dec 2025 08:16:50 GMT | Securing a Kenyan SACCO from Zero [Part 6 of 6] | Munaniadeno | [Read More](https://medium.com/p/7aa270255950) |
-| Tue, 30 Dec 2025 08:15:44 GMT | Patch Management vs Vulnerability Management: Where Most Teams Get It Wrong | SarathKumar | [Read More](https://medium.com/p/0caf38149f57) |
-| Tue, 30 Dec 2025 08:14:58 GMT | WhatsApp Security on Mac and Mobile Powered by Mac Antivirus | Siyanoav | [Read More](https://medium.com/p/a4b5c75c5e7f) |
-| Tue, 30 Dec 2025 08:14:50 GMT | Learning Wi-Fi Security with the Evil Twin Attack | Sahilshaikh | [Read More](https://medium.com/p/124ab2081aad) |
-| Tue, 30 Dec 2025 08:08:57 GMT | How GRC Teams Can Implement AI for Better Risk Management | SecureSlate | [Read More](https://medium.com/p/df6325bfef94) |
-| Tue, 30 Dec 2025 08:08:54 GMT | Technical Assessment: DIVEXA Security Architecture and Protocol Analysis | Certification Flow Laboratories | [Read More](https://medium.com/p/6a6109b6be34) |
