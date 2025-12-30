@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 04:29:58 GMT | Guardians at the Gate: Security, Sovereignty, and Silent Vigilance | FAISAL IBNA FARUK | [Read More](https://medium.com/p/4bd9fc476fa5) |
+| Tue, 30 Dec 2025 04:13:28 GMT | Building a Cybersecurity Lab in AWS | Charles Christiansen | [Read More](https://medium.com/p/de07290d6e43) |
+| Tue, 30 Dec 2025 04:10:42 GMT | IIW & AIW 2025: Identity at the Edge of the Agentic Web | Sachin Mamoru | [Read More](https://medium.com/p/a78fb649ff2c) |
+| Tue, 30 Dec 2025 04:10:25 GMT | Inside Authenticate 2025: Sessions, Signals, and the Future of Digital Identity | Sachin Mamoru | [Read More](https://medium.com/p/ac5710afcb31) |
+| Tue, 30 Dec 2025 04:03:15 GMT | MongoBleed Explained: How a Subtle Memory Bug Exposed MongoDB for Nearly 8 Years | FutureStack Academy | [Read More](https://medium.com/p/7b11b7fe947d) |
+| Tue, 30 Dec 2025 04:01:22 GMT | When Optimization Becomes Exposure | Keri Tietjen Smith | [Read More](https://medium.com/p/59cea417c727) |
+| Tue, 30 Dec 2025 03:57:53 GMT | Network and Communications Security: A Beginner’s Guide | Manubhav Sharma | [Read More](https://medium.com/p/6697af87b965) |
+| Tue, 30 Dec 2025 03:56:09 GMT | JONES: A Framework for Identity-Preserving Decision-Making in LLM-Based Agents | Vinícius Negrão | [Read More](https://medium.com/p/37d0802d02f5) |
+| Tue, 30 Dec 2025 03:45:13 GMT | Zero-Trust Password Storage:A Secure Approach to Storing User Passwords | farshad moradi shahrbabak | [Read More](https://medium.com/p/11cb14b3d01e) |
+| Tue, 30 Dec 2025 03:39:27 GMT | Tuesday Morning Threat Report: Dec 30, 2025 | Mark Maguire | [Read More](https://medium.com/p/47d49a3dbd00) |
 | Tue, 30 Dec 2025 03:33:27 GMT | TryHackMe: Year of the Pig Writeup | cbev | [Read More](https://medium.com/p/ec579dfbefe9) |
+| Tue, 30 Dec 2025 03:32:24 GMT | SantaStealer: Inside a New Malware-as-a-Service Infostealer | Deven Chhajed | [Read More](https://medium.com/p/7c1961429a91) |
 | Tue, 30 Dec 2025 03:15:07 GMT | I Spent 2 Hours Debugging a 403 error from WSL to Burpsuite MCP, The Fix Was Stupidly Simple | Barengsinau | [Read More](https://medium.com/p/e24cb5044880) |
 | Tue, 30 Dec 2025 03:12:22 GMT | From Theory to Practice: How Reading About AI Inspired My Projects | Aj | [Read More](https://medium.com/p/dbaea0ba5858) |
 | Tue, 30 Dec 2025 03:09:15 GMT | 針對 TSMC 2nm 暨東京威力科創營業秘密外流事件之個案評估報告 | p1x06u9 | [Read More](https://medium.com/p/1c32fd0b9cba) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 17:04:48 GMT | From Code to Exploit: My Journey to Earning the Hackviser CAPT Certification | Gokhan Can | [Read More](https://medium.com/p/2bd2f00c3217) |
 | Mon, 29 Dec 2025 16:59:44 GMT | The Windows Concept Journey — Server Core | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6d5b32a2311b) |
 | Mon, 29 Dec 2025 16:56:28 GMT | Django 6.0 Security Upgrades: CSP, Async Auth, and OWASP Fixes for SaaS (Hands-On Guide) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/20ec3ca6c323) |
-| Mon, 29 Dec 2025 16:56:25 GMT | New Year Won’t Change Your Career. You Will. | Denny Roger | [Read More](https://medium.com/p/2b7ea8dd6890) |
-| Mon, 29 Dec 2025 16:56:12 GMT | How A Misconfigured Password Reset Link Led to Full Account Takeover | Abhishek Kumar | [Read More](https://medium.com/p/47dc0cfd967d) |
-| Mon, 29 Dec 2025 16:44:26 GMT | Understanding SSRF: The Hidden Server Vulnerability | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/3efd491f98c7) |
-| Mon, 29 Dec 2025 16:25:32 GMT | A Christmas Week Chaos | O. J. Okpabi | [Read More](https://medium.com/p/3611fce8b4db) |
-| Mon, 29 Dec 2025 16:18:04 GMT | Unlocking Linux Process Power: Part3 From Jobs to Limits: Owning Process Behavior | MR.7 | [Read More](https://medium.com/p/5ae909d2f842) |
-| Mon, 29 Dec 2025 16:05:57 GMT | Salt: What it Means in Web3 Security | Munirat Mohammed | [Read More](https://medium.com/p/9af88705a0d4) |
-| Mon, 29 Dec 2025 16:01:42 GMT | The Silence Of Romania’s Water Online | O. J. Okpabi | [Read More](https://medium.com/p/a565086caca0) |
-| Mon, 29 Dec 2025 15:59:23 GMT | Zero Trust Was a Buzzword. In 2026, It’s Just “Security” | Abhijith Soman | [Read More](https://medium.com/p/72217dcfb88f) |
-| Mon, 29 Dec 2025 15:58:24 GMT | Practical JWT Mastery in .NET | Compile & Conquer | [Read More](https://medium.com/p/050b11a5fab2) |
-| Mon, 29 Dec 2025 15:55:05 GMT | How to Program a Ford Key Fob: DIY Guide & When to Call a Pro | Sure Lock & Key LLC | [Read More](https://medium.com/p/36fb4e44b35f) |
-| Mon, 29 Dec 2025 15:53:53 GMT | How Cybersecurity Works Explained for Business Leaders | ManagedIT_Expert | [Read More](https://medium.com/p/1ccfa6fffbb6) |
