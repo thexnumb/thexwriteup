@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 05:04:35 GMT | Advent of Cyber 2025 - All 24 Days Completed! | Debmalya Mondal⚡ | [Read More](https://medium.com/p/7f60d750fc7e) |
+| Tue, 30 Dec 2025 05:02:27 GMT | Migrating to the Cloud: AWS vs Azure vs GCP — Which One Fits Your Business? | F9 Infotech | [Read More](https://medium.com/p/877c7e7c5a61) |
+| Tue, 30 Dec 2025 04:57:39 GMT | Unlocking the Power of Nmap: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/d668a7ef661e) |
+| Tue, 30 Dec 2025 04:56:53 GMT | Getting Started with Nmap: The Fast Lane to Cybersecurity Scanning | Cybeague Technologies | [Read More](https://medium.com/p/f4f65c2933ea) |
+| Tue, 30 Dec 2025 04:53:39 GMT | I Almost “Just Sent the Docs to an LLM API”… Then I Remembered I Like Sleeping at Night | Amith KS | [Read More](https://medium.com/p/506df0d90620) |
+| Tue, 30 Dec 2025 04:50:10 GMT | TVM Offenso Hackers Academy | Haseeb Dotin | [Read More](https://medium.com/p/9a9053d4ec3b) |
+| Tue, 30 Dec 2025 04:50:08 GMT | Inside the OSI Model: Where Security Really Lives !!!! | Jatin  yadav | [Read More](https://medium.com/p/d6a067cb3d03) |
+| Tue, 30 Dec 2025 04:49:22 GMT | Dark Hue of Blue Almost Purple-The Plaza | E.Y. Hevi | [Read More](https://medium.com/p/f8265cb585dc) |
+| Tue, 30 Dec 2025 04:32:49 GMT | Automation Is a Liability Without Guardrails | Shubh Gupta | [Read More](https://medium.com/p/bdd4e5ca496c) |
 | Tue, 30 Dec 2025 04:29:58 GMT | Guardians at the Gate: Security, Sovereignty, and Silent Vigilance | FAISAL IBNA FARUK | [Read More](https://medium.com/p/4bd9fc476fa5) |
 | Tue, 30 Dec 2025 04:13:28 GMT | Building a Cybersecurity Lab in AWS | Charles Christiansen | [Read More](https://medium.com/p/de07290d6e43) |
 | Tue, 30 Dec 2025 04:10:42 GMT | IIW & AIW 2025: Identity at the Edge of the Agentic Web | Sachin Mamoru | [Read More](https://medium.com/p/a78fb649ff2c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 17:35:15 GMT | Exploit SQL injection using sqlmap | Shyam Kumar | [Read More](https://medium.com/p/5c8667fe867d) |
 | Mon, 29 Dec 2025 17:34:04 GMT | Technical Report | German Aquino | [Read More](https://medium.com/p/0c4e9c937b27) |
 | Mon, 29 Dec 2025 17:32:08 GMT | Reading Production Android Code for the First Time: A Security Researcher’s Perspective | Tyreek Haynes | [Read More](https://medium.com/p/7cadaf893252) |
-| Mon, 29 Dec 2025 17:30:26 GMT | Cloud Backup vs Cloud Disaster Recovery: Key Differences Businesses Must Understand in 2026 | Techridge Solutions | [Read More](https://medium.com/p/e906e60efd58) |
-| Mon, 29 Dec 2025 17:23:08 GMT | Android Security Best Practices | Luan Ramos | [Read More](https://medium.com/p/6ba16576c3c5) |
-| Mon, 29 Dec 2025 17:19:37 GMT | Best Budget Outdoor PTZ Camera: Smart Security Without Breaking the Bank | Narjis Arshad | [Read More](https://medium.com/p/18fd4166ffad) |
-| Mon, 29 Dec 2025 17:13:30 GMT | Supply Chain Abuse: How npm Packages Became Phishing Infrastructure | Chetan Seripally | [Read More](https://medium.com/p/5c7d3139dbda) |
-| Mon, 29 Dec 2025 17:06:48 GMT | #14- Kali Linux - Exfiltration:  Moving Data Out Quietly | SDNTechForum | [Read More](https://medium.com/p/d4ebb9c3b44f) |
-| Mon, 29 Dec 2025 17:05:33 GMT | Why Modern Businesses Must Move Beyond Shared Passwords | Dr. Shashi Karhail | [Read More](https://medium.com/p/0c3acf1f4c34) |
-| Mon, 29 Dec 2025 17:04:48 GMT | From Code to Exploit: My Journey to Earning the Hackviser CAPT Certification | Gokhan Can | [Read More](https://medium.com/p/2bd2f00c3217) |
-| Mon, 29 Dec 2025 16:59:44 GMT | The Windows Concept Journey — Server Core | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6d5b32a2311b) |
-| Mon, 29 Dec 2025 16:56:28 GMT | Django 6.0 Security Upgrades: CSP, Async Auth, and OWASP Fixes for SaaS (Hands-On Guide) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/20ec3ca6c323) |
