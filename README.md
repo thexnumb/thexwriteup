@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 11:05:31 GMT | Accelerating the Audit: Introducing Auditmos Security Skills for Claude Code | Auditmos | [Read More](https://medium.com/p/771418c4f60f) |
+| Tue, 30 Dec 2025 11:05:04 GMT | Install TheHive 5 on Ubuntu (End-to-End Incident Response Lab) | 0xRahuL | [Read More](https://medium.com/p/4a875c259a0f) |
+| Tue, 30 Dec 2025 11:04:13 GMT | “Best Home Workout Plan for Busy Office Workers in India” | Sameksh Raut | [Read More](https://medium.com/p/1cae3109a0a7) |
+| Tue, 30 Dec 2025 11:01:57 GMT | Why wp_kses_post Removes <time> (and How to Fix It Safely) | Yusuf Biberoğlu | [Read More](https://medium.com/p/dfc3c8c72436) |
+| Tue, 30 Dec 2025 11:01:36 GMT | Why Convenience Is the Biggest Enemy of Online Security | Ali Hamza | [Read More](https://medium.com/p/831ff16feb01) |
+| Tue, 30 Dec 2025 11:00:16 GMT | From Ranchi to the United Nations: How Major Vineet Carried Jharkhand to the World Stage | Amit Modi | [Read More](https://medium.com/p/6748ede2a408) |
+| Tue, 30 Dec 2025 10:57:07 GMT | ✍️ Why Web AI Agents Are More Vulnerable Than Standalone LLMs — And How We Should Actually Fix It | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/4a4a2df2cd37) |
+| Tue, 30 Dec 2025 10:55:58 GMT | The Silent Kill Chain: Firmware-Level Attacks and the Illusion of Cybersecurity | Rawi | [Read More](https://medium.com/p/f977561b24e6) |
+| Tue, 30 Dec 2025 10:48:15 GMT | WHY I STARTED CYBERSECURITY? | Pratik kumar | [Read More](https://medium.com/p/b9d84089f009) |
+| Tue, 30 Dec 2025 10:44:21 GMT | How to Protect Yourself From Ransomware Attacks: Best Practices | TrustRacer | [Read More](https://medium.com/p/db3b329fa06e) |
 | Tue, 30 Dec 2025 10:40:11 GMT | The Vulnerability Hangover: Why Sharing Your Truth Hurts Before It Heals | Leonard Tillerman | [Read More](https://medium.com/p/6f3e84bda605) |
 | Tue, 30 Dec 2025 10:39:44 GMT | How Cyber Security Services Stop Phishing, Ransomware, and Zero-Day Attacks | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/f4c6fb119db0) |
 | Tue, 30 Dec 2025 10:37:26 GMT | Why BS Cyber Security Helps Students Stand Out in IT Fields | Multanusp | [Read More](https://medium.com/p/b57a6e6f5b45) |
@@ -50,6 +60,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 09:02:23 GMT | Reduce Support Tickets Fast: Detect Compromised Customer Accounts Before Users Complain | Alexandre Vandamme | [Read More](https://medium.com/p/4bc8daf22b3f) |
 | Tue, 30 Dec 2025 09:00:50 GMT | Bugs in the Wild West: Top 10 C and C++ errors of 2025 | Unicorn Developer | [Read More](https://medium.com/p/d74fed688108) |
 | Tue, 30 Dec 2025 09:00:27 GMT | Career Growth | Zeeshan Punjwani | [Read More](https://medium.com/p/b565ba78c851) |
+| Tue, 30 Dec 2025 08:59:02 GMT | Data Demons: The hidden risk in modern data breaches | Sam.KL | [Read More](https://medium.com/p/02c3264f5439) |
 | Tue, 30 Dec 2025 08:58:13 GMT | Jealousy is not proof of love;
 it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://medium.com/p/21e4933ec234) |
 | Tue, 30 Dec 2025 08:52:41 GMT | How Encryption Strategies Safeguard Critical Business Data | Rahman Iqbal | [Read More](https://medium.com/p/6168ee17881e) |
@@ -102,14 +113,3 @@ it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://
 | Tue, 30 Dec 2025 05:53:20 GMT | How to Safeguard Your Investments from Scams - Sawaal Karo - World Investor Week 2025 | Kshitijm | [Read More](https://medium.com/p/9f85190deca9) |
 | Tue, 30 Dec 2025 05:50:25 GMT | Disaster Recovery Planning Services Charlotte - IT Firm | IT Firm | [Read More](https://medium.com/p/e143f1baf78b) |
 | Tue, 30 Dec 2025 05:47:43 GMT | CCIR, PIR, and FFIR in Cyber Threat Intelligence | Nima Bargestan | [Read More](https://medium.com/p/3fdb38dcfaf3) |
-| Tue, 30 Dec 2025 05:46:50 GMT | You Think You’re Anonymous Online. Hackers Know You’re Not | Jayson Morale | [Read More](https://medium.com/p/1bd50038a307) |
-| Tue, 30 Dec 2025 05:41:59 GMT | Вы думаете, что анонимны в интернете. Хакеры знают, что это не так | Ziko0507 _ | [Read More](https://medium.com/p/9abd5b8f2dac) |
-| Tue, 30 Dec 2025 05:32:24 GMT | If you use Login with Facebook or Google — Read THIS! | Vijeetdeliwala | [Read More](https://medium.com/p/880dfbc24a27) |
-| Tue, 30 Dec 2025 05:32:24 GMT | Why 2026 Is the Best Time Ever to Get into Data Science and AI | Sam Khattak | [Read More](https://medium.com/p/3c2d666107af) |
-| Tue, 30 Dec 2025 05:31:47 GMT | MongoDB the Right Way: From First Login to Enterprise-Grade Operations | Salman ahmed noor | [Read More](https://medium.com/p/df4dcd9177ee) |
-| Tue, 30 Dec 2025 05:28:47 GMT | Certified Authority for Enterprise Risk Mitigation | Kadhijahafiya | [Read More](https://medium.com/p/9c950110ae56) |
-| Tue, 30 Dec 2025 05:28:20 GMT | What Is Shadow AI? The Emerging Cybersecurity Risk of Unauthorized AI Use at Work | Lakshita Gulliya | [Read More](https://medium.com/p/e291c9949399) |
-| Tue, 30 Dec 2025 05:04:35 GMT | Advent of Cyber 2025 - All 24 Days Completed! | Debmalya Mondal⚡ | [Read More](https://medium.com/p/7f60d750fc7e) |
-| Tue, 30 Dec 2025 05:02:27 GMT | Migrating to the Cloud: AWS vs Azure vs GCP — Which One Fits Your Business? | F9 Infotech | [Read More](https://medium.com/p/877c7e7c5a61) |
-| Tue, 30 Dec 2025 04:57:39 GMT | Unlocking the Power of Nmap: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/d668a7ef661e) |
-| Tue, 30 Dec 2025 04:56:53 GMT | Getting Started with Nmap: The Fast Lane to Cybersecurity Scanning | Cybeague Technologies | [Read More](https://medium.com/p/f4f65c2933ea) |
