@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 20:23:12 GMT | Vulnerability Management (ASSESS): The Phase Where People Are Dying and We Decide Who Gets Hope | Sourabh Grover | [Read More](https://medium.com/p/3dd9f9f42b0e) |
+| Tue, 30 Dec 2025 19:56:18 GMT | Sensitive Information Disclosure via Publicly Accessible .user.ini at indrive | Kareem Husein Abdelhameed | [Read More](https://medium.com/p/51b83f9a90f4) |
+| Tue, 30 Dec 2025 19:50:23 GMT | Facebook Credential Phishing Campaign Delivered via Gmail Infrastructure | Ahmad A Abdulla | [Read More](https://medium.com/p/2cea917c3aea) |
+| Tue, 30 Dec 2025 19:47:48 GMT | Understanding Access Control Models: DAC, MAC, RBAC, ABAC | Damir Kolobaric | [Read More](https://medium.com/p/7852e67701ab) |
+| Tue, 30 Dec 2025 19:44:19 GMT | A Markov Babble Generator | Ben Santora | [Read More](https://medium.com/p/ab3f789e8216) |
+| Tue, 30 Dec 2025 19:44:13 GMT | Basic Pentesting no TryHackMe | Matheus Viana | [Read More](https://medium.com/p/4d095eed4d95) |
+| Tue, 30 Dec 2025 19:42:23 GMT | Zero-Trust Security Powered by AI Analytics: The Future of Cyber Defense | Sabit Chandwale | [Read More](https://medium.com/p/6c824969fa07) |
+| Tue, 30 Dec 2025 19:37:07 GMT | Cloud Security — Important terms (Part-1) | Soumya Sri | [Read More](https://medium.com/p/f8a08d783515) |
+| Tue, 30 Dec 2025 19:34:56 GMT | CTF Write-Up : Hack the Scammer CTF 2025 (Scenario 2 Part 5 — Geo Guesser 2) | Reonomu | [Read More](https://medium.com/p/ea4e4707e24f) |
+| Tue, 30 Dec 2025 19:34:53 GMT | What Really Happens When You Download a Movie on a Streaming App | Vamsi K Palle | [Read More](https://medium.com/p/a448c5b10d39) |
 | Tue, 30 Dec 2025 19:30:34 GMT | Hybrid Cloud Security Challenges and Solutions Businesses Must Prepare for in 2026 | Techridge Solutions | [Read More](https://medium.com/p/8a645cb1275c) |
+| Tue, 30 Dec 2025 19:16:42 GMT | CTF Write-Up : Hack the Scammer CTF 2025 (Scenario 2 Part 1 — Reuse Meme) | Reonomu | [Read More](https://medium.com/p/4edcc3b3a066) |
 | Tue, 30 Dec 2025 19:15:52 GMT | Anatomy of a Security Audit: Dissecting JWTs and Sessions for Critical Logic Flaws | Ian Zammit | [Read More](https://medium.com/p/97ec579eb489) |
 | Tue, 30 Dec 2025 19:12:02 GMT | What the OpenAI API / Mixpanel Incident Really Teaches Us About API Security | AserSec | [Read More](https://medium.com/p/59f10f91cc43) |
 | Tue, 30 Dec 2025 19:09:25 GMT | Introduction to OT Cybersecurity | Maxi | [Read More](https://medium.com/p/99d028f606da) |
@@ -102,14 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 14:29:41 GMT | OverTheWire Bandit (Day 04): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/8dc06ee37a98) |
 | Tue, 30 Dec 2025 14:28:46 GMT | IRS Phone Number to Talk to a Live Person: Complete Guide to Getting Assistance | Motherlandlove | [Read More](https://medium.com/p/27e192bd8242) |
 | Tue, 30 Dec 2025 14:26:26 GMT | SRE & Security Lessons from the 2025 Trenches | Rajat Gupta | [Read More](https://medium.com/p/8ea01b0c03a8) |
-| Tue, 30 Dec 2025 14:18:50 GMT | Security-First Azure Cloud Migration with Zero Trust and CIS Benchmarks | Cheena | [Read More](https://medium.com/p/109752b2edfe) |
-| Tue, 30 Dec 2025 14:11:21 GMT | Splunk Setting up a SOC Lab | Dawid Kowalski | [Read More](https://medium.com/p/202f040f004c) |
-| Tue, 30 Dec 2025 14:08:32 GMT | Hardware-Based Security: How to Protect AI at the Edge | Altan Baysal | [Read More](https://medium.com/p/5516a7cdda12) |
-| Tue, 30 Dec 2025 14:04:03 GMT | Why Environmental Noise Makes Voice Assistants Vulnerable | Altan Baysal | [Read More](https://medium.com/p/91412829cf68) |
-| Tue, 30 Dec 2025 14:02:27 GMT | Cybersecurity Services Every Fullerton Business Needs: Protecting Your Company From Local and… | Xonicwave support | [Read More](https://medium.com/p/106761244910) |
-| Tue, 30 Dec 2025 14:02:26 GMT | How To Fix a Bent Garage Door: Expert Repair Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/a6b18f69471f) |
-| Tue, 30 Dec 2025 13:55:38 GMT | CVE-2025–68613: The Critical n8n Vulnerability Threatening 103,000+ Automation Platforms | Dhanush N | [Read More](https://medium.com/p/d1aca3cc9d07) |
-| Tue, 30 Dec 2025 13:52:54 GMT | The New Reality of Blockchain Theft: Why Crypto Crime Keeps Winning — and What the Industry Must… | Axellegay | [Read More](https://medium.com/p/7f2100ebf2da) |
-| Tue, 30 Dec 2025 13:52:48 GMT | Cybersecurity Threats to Watch in 2026 | Biometric.Vision | [Read More](https://medium.com/p/5c363b1ac8bc) |
-| Tue, 30 Dec 2025 13:48:39 GMT | China Attacks Thirty American Firms in a Bizarre New Cyber Hack | Khadijafalaksher | [Read More](https://medium.com/p/deb27e196862) |
-| Tue, 30 Dec 2025 13:48:16 GMT | Siber Güvenlik Nedir? Dijital Dünyanın Çağdaş Koruması | İlayda | [Read More](https://medium.com/p/0d7f9dafa264) |
