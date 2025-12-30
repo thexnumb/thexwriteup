@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 10:13:34 GMT | Idle Timeout (Oturum Zaman Aşımı) Nedir? | Arda Derya | [Read More](https://medium.com/p/e2469b4f7e57) |
+| Tue, 30 Dec 2025 10:06:41 GMT | Top Cyber Security Services in Nigeria for Data Protection and Compliance | Prakash Factosecure | [Read More](https://medium.com/p/65853194ac0d) |
+| Tue, 30 Dec 2025 10:01:23 GMT | CARTE Review: My Journey to Becoming an Azure Red Team Expert | Tiger3080 | [Read More](https://medium.com/p/ce396409438a) |
+| Tue, 30 Dec 2025 10:00:06 GMT | Why Investing Money in an IT Product Launch Matters | Prince moradiya | [Read More](https://medium.com/p/278999bbc954) |
+| Tue, 30 Dec 2025 09:59:38 GMT | Cybersecurity Guidelines for Humanoid Robotics | Sandeep Chakravartty | [Read More](https://medium.com/p/fdaea6c1a246) |
+| Tue, 30 Dec 2025 09:58:48 GMT | MongoBleed (CVE-2025–14847): How One Missing Line of Code Exposed 213,000 Databases | Dhanush N | [Read More](https://medium.com/p/7845105836a6) |
+| Tue, 30 Dec 2025 09:57:40 GMT | Win The Loop. Win The Battle. | Redfox Security | [Read More](https://medium.com/p/87d0bbc77444) |
+| Tue, 30 Dec 2025 09:57:21 GMT | Blog — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/bebd34243545) |
+| Tue, 30 Dec 2025 09:53:58 GMT | When AI Becomes the Hacker: The Rise of AI-Powered Phishing Attacks | Mohd Rabiul Alam | [Read More](https://medium.com/p/d2c3df372f86) |
+| Tue, 30 Dec 2025 09:53:45 GMT | Machine Learning Approaches for Detecting Suspicious Blockchain Transactions | Satyam | [Read More](https://medium.com/p/0927c0308ab0) |
+| Tue, 30 Dec 2025 09:52:26 GMT | Enhancing Security with AI Security Monitoring Solutions in Real Time | Dolon Ghosh | [Read More](https://medium.com/p/f627d66ee578) |
+| Tue, 30 Dec 2025 09:48:47 GMT | Your 99% Accurate AI Model is a Liability. Here’s Why. | Motasem Hamdan | [Read More](https://medium.com/p/9b896436bf71) |
+| Tue, 30 Dec 2025 09:45:11 GMT | Beyond the Interface: An Analysis of CZR Exchange and Digital Asset Safety Standards | INTBITINC | [Read More](https://medium.com/p/e7abecc94d5e) |
 | Tue, 30 Dec 2025 09:44:12 GMT | How AI Agents Become Insider Threats — and the Quantum Future | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d501cd13185a) |
 | Tue, 30 Dec 2025 09:43:51 GMT | AI Code Security: How to Balance Speed & Risk in the New Software Era | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/55604365522c) |
+| Tue, 30 Dec 2025 09:37:16 GMT | Relevance ≠ Authorization — What Changes Once Access Control Enters | inkme | [Read More](https://medium.com/p/fba5f454d986) |
 | Tue, 30 Dec 2025 09:36:22 GMT | How I Found an SSRF on a University Website as a Beginner | Bhushan Patil | [Read More](https://medium.com/p/b5334e9d60d1) |
 | Tue, 30 Dec 2025 09:36:20 GMT | Why Most Data Breaches Are Preventable: A Developer’s Guide | Silversky Technology | [Read More](https://medium.com/p/9b3a69c4af02) |
 | Tue, 30 Dec 2025 09:26:21 GMT | Building a Secure 3-Tier Architecture in Google Cloud | Bleu Boy | [Read More](https://medium.com/p/dcae6b8c77f1) |
@@ -99,17 +113,3 @@ it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://
 | Tue, 30 Dec 2025 04:10:42 GMT | IIW & AIW 2025: Identity at the Edge of the Agentic Web | Sachin Mamoru | [Read More](https://medium.com/p/a78fb649ff2c) |
 | Tue, 30 Dec 2025 04:10:25 GMT | Inside Authenticate 2025: Sessions, Signals, and the Future of Digital Identity | Sachin Mamoru | [Read More](https://medium.com/p/ac5710afcb31) |
 | Tue, 30 Dec 2025 04:03:15 GMT | MongoBleed Explained: How a Subtle Memory Bug Exposed MongoDB for Nearly 8 Years | FutureStack Academy | [Read More](https://medium.com/p/7b11b7fe947d) |
-| Tue, 30 Dec 2025 04:01:22 GMT | When Optimization Becomes Exposure | Keri Tietjen Smith | [Read More](https://medium.com/p/59cea417c727) |
-| Tue, 30 Dec 2025 03:57:53 GMT | Network and Communications Security: A Beginner’s Guide | Manubhav Sharma | [Read More](https://medium.com/p/6697af87b965) |
-| Tue, 30 Dec 2025 03:56:09 GMT | JONES: A Framework for Identity-Preserving Decision-Making in LLM-Based Agents | Vinícius Negrão | [Read More](https://medium.com/p/37d0802d02f5) |
-| Tue, 30 Dec 2025 03:45:13 GMT | Zero-Trust Password Storage:A Secure Approach to Storing User Passwords | farshad moradi shahrbabak | [Read More](https://medium.com/p/11cb14b3d01e) |
-| Tue, 30 Dec 2025 03:39:27 GMT | Tuesday Morning Threat Report: Dec 30, 2025 | Mark Maguire | [Read More](https://medium.com/p/47d49a3dbd00) |
-| Tue, 30 Dec 2025 03:33:27 GMT | TryHackMe: Year of the Pig Writeup | cbev | [Read More](https://medium.com/p/ec579dfbefe9) |
-| Tue, 30 Dec 2025 03:32:24 GMT | SantaStealer: Inside a New Malware-as-a-Service Infostealer | Deven Chhajed | [Read More](https://medium.com/p/7c1961429a91) |
-| Tue, 30 Dec 2025 03:15:07 GMT | I Spent 2 Hours Debugging a 403 error from WSL to Burpsuite MCP, The Fix Was Stupidly Simple | Barengsinau | [Read More](https://medium.com/p/e24cb5044880) |
-| Tue, 30 Dec 2025 03:12:22 GMT | From Theory to Practice: How Reading About AI Inspired My Projects | Aj | [Read More](https://medium.com/p/dbaea0ba5858) |
-| Tue, 30 Dec 2025 03:09:15 GMT | 針對 TSMC 2nm 暨東京威力科創營業秘密外流事件之個案評估報告 | p1x06u9 | [Read More](https://medium.com/p/1c32fd0b9cba) |
-| Tue, 30 Dec 2025 03:08:20 GMT | Who Is Stealing Your Crypto Assets? — 2025 Web3 User Security and Risk Trends Report | GoPlus Security | [Read More](https://medium.com/p/1deb46dac16c) |
-| Tue, 30 Dec 2025 03:00:52 GMT | Computer Security “Playbook” | Hector Orellana Reyes | [Read More](https://medium.com/p/6ff8d1e8f8e1) |
-| Tue, 30 Dec 2025 02:32:21 GMT | Every Bug Bounty Hunter Starts with the OWASP Top 10 | Jugal Patel | [Read More](https://medium.com/p/d2bf16842f42) |
-| Tue, 30 Dec 2025 01:59:29 GMT | Custom Web Portal Starter Kit: Implementing UI Auth Services | Chris Putnam | [Read More](https://medium.com/p/e449e4c7e8e9) |
