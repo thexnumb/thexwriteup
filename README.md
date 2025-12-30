@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 23:32:27 GMT | Guardrails Over Gates: A Smarter Way to Enable Security Without Slowing DevOps | Ravi Rajput | [Read More](https://medium.com/p/aabd4605bbc2) |
 | Tue, 30 Dec 2025 23:13:27 GMT | ICS/OT Vendor Management-The Risk No One Owns | Muhammad Ali Khan | [Read More](https://medium.com/p/c9e0b9841775) |
 | Tue, 30 Dec 2025 23:06:29 GMT | The HTTP Request–Response Lifecycle | Martin Simonyan | [Read More](https://medium.com/p/b9c8cb7c4b61) |
 | Tue, 30 Dec 2025 23:01:42 GMT | Agent Skills: Governing Coding Agents Before They Govern Us | Dave Patten | [Read More](https://medium.com/p/f458c6d0eace) |
@@ -33,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 21:31:21 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobalagency Manager | [Read More](https://medium.com/p/1fbfa587ccec) |
 | Tue, 30 Dec 2025 21:31:09 GMT | A Hidden Line of Text Can Hijack an AI. No Clicks, No Malware, Just Words. | AhmedAbdelmenem | [Read More](https://medium.com/p/308d26473f9f) |
 | Tue, 30 Dec 2025 21:30:53 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobaldirector | [Read More](https://medium.com/p/66c2600d6996) |
+| Tue, 30 Dec 2025 21:30:22 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobalagency Ceo | [Read More](https://medium.com/p/89fab87fa297) |
 | Tue, 30 Dec 2025 21:29:56 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | H.E.I.X. Global Agency | [Read More](https://medium.com/p/795e53487c13) |
 | Tue, 30 Dec 2025 21:25:27 GMT | What Is a Dark Web Data Leak and Why It Matters | Tor BBB | [Read More](https://medium.com/p/045a199fd611) |
 | Tue, 30 Dec 2025 21:19:42 GMT | Tutorials Teach Muscle Memory. Labs Teach You How to Hack. | Derek Johnston | [Read More](https://medium.com/p/e47b101046c8) |
@@ -111,5 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 16:26:39 GMT | SpiderFoot | Manas Mahato | [Read More](https://medium.com/p/a126c17ec9b4) |
 | Tue, 30 Dec 2025 16:26:26 GMT | I Couldn’t Find the Tool I Needed for Web Security Testing — So I Built It | Alareqi | [Read More](https://medium.com/p/52a0cef69687) |
 | Tue, 30 Dec 2025 16:24:46 GMT | Blocks for the Year: A review | Greg Heffner | [Read More](https://medium.com/p/e28e55f030e4) |
-| Tue, 30 Dec 2025 16:23:37 GMT | Setting Up The Lab - Network Hacking Dari Nol #3 | Levithan | [Read More](https://medium.com/p/278c38776f93) |
-| Tue, 30 Dec 2025 16:15:58 GMT | How to Demonstrate Prompt Injection on Unsecured LLM APIs: A Technical Deep Dive | Sarthakvyadav | [Read More](https://medium.com/p/9289be7e152a) |
