@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 09:22:40 GMT | TryHackMe: DecryptifyWriteup | cbev | [Read More](https://medium.com/p/501276513164) |
+| Tue, 30 Dec 2025 09:17:51 GMT | The Global Data Center Market and Its Role in Powering the Digital Economy | Vijay Mishra | [Read More](https://medium.com/p/5544bf9b51ce) |
+| Tue, 30 Dec 2025 09:13:10 GMT | How Apps “Understand” You Without Reading Your Mind | harsh_singh | [Read More](https://medium.com/p/4936dd41f0e3) |
+| Tue, 30 Dec 2025 09:10:54 GMT | PROJECT89 Token Migration Is LIVE. Holders Must Upgrade Before the Old Contract Becomes Worthless | JJeremyallairee | [Read More](https://medium.com/p/67ff2ee10190) |
+| Tue, 30 Dec 2025 09:04:49 GMT | Building My Hybrid Security Lab (Part 5): Implementing Hybrid Identity with Microsoft Entra Connect | Florence Nwizugbe | [Read More](https://medium.com/p/f9730c36fdfe) |
+| Tue, 30 Dec 2025 09:02:23 GMT | Reduce Support Tickets Fast: Detect Compromised Customer Accounts Before Users Complain | Alexandre Vandamme | [Read More](https://medium.com/p/4bc8daf22b3f) |
+| Tue, 30 Dec 2025 09:00:50 GMT | Bugs in the Wild West: Top 10 C and C++ errors of 2025 | Unicorn Developer | [Read More](https://medium.com/p/d74fed688108) |
+| Tue, 30 Dec 2025 09:00:27 GMT | Career Growth | Zeeshan Punjwani | [Read More](https://medium.com/p/b565ba78c851) |
+| Tue, 30 Dec 2025 08:58:13 GMT | Jealousy is not proof of love;
+it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://medium.com/p/21e4933ec234) |
+| Tue, 30 Dec 2025 08:52:41 GMT | How Encryption Strategies Safeguard Critical Business Data | Rahman Iqbal | [Read More](https://medium.com/p/6168ee17881e) |
+| Tue, 30 Dec 2025 08:44:58 GMT | Insecure Deserialization → RCE | Raj Prasad Kuiri | [Read More](https://medium.com/p/b457eed0e2f9) |
+| Tue, 30 Dec 2025 08:41:19 GMT | How to Implement JWT Authentication in Spring Boot (Step-by-Step Guide) | Shivam Chandra | [Read More](https://medium.com/p/9f94d3ffae6d) |
+| Tue, 30 Dec 2025 08:32:23 GMT | The Crisis: Navigating the Storm When the Perimeter Fails | Cyber-Savvy Community | [Read More](https://medium.com/p/06271f4d80d7) |
 | Tue, 30 Dec 2025 08:22:33 GMT | Detecting Brute-Force Attacks in Real Time: Inside a SOC Analyst’s SIEM Workflow | Little_Sun4lower | [Read More](https://medium.com/p/a8dfea4f199c) |
 | Tue, 30 Dec 2025 08:22:14 GMT | Implementing JWT Authentication with Access & Refresh Tokens in Spring Boot | Narmadha | [Read More](https://medium.com/p/f2111ad6d8f1) |
 | Tue, 30 Dec 2025 08:20:06 GMT | I Switched My Passwords Over to Proton Pass | Red | [Read More](https://medium.com/p/96e48191ebdd) |
@@ -99,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 01:21:19 GMT | API Keys, Tokens & Secrets: How They Leak and How Developers can Avoid it | Veronica Peter | [Read More](https://medium.com/p/37c458f16774) |
 | Tue, 30 Dec 2025 01:04:01 GMT | Understanding Broken Object Level Authorization (BOLA): What It Is, How It Happens, and How to… | Veronica Peter | [Read More](https://medium.com/p/52e6236e072c) |
 | Tue, 30 Dec 2025 00:57:23 GMT | Advanced Mobile App Security: Protecting Code, Integrity, and User Trust | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/eaf603d1a2d4) |
-| Tue, 30 Dec 2025 00:57:14 GMT | Cybersecurity 101: AI | Hector Orellana Reyes | [Read More](https://medium.com/p/64778a11d8ff) |
-| Tue, 30 Dec 2025 00:43:41 GMT | Building a Secure Malware Lab & Dissecting WannaCry: From ISO to IOCs | Eren Ergen | [Read More](https://medium.com/p/8666320cf0e9) |
-| Tue, 30 Dec 2025 00:23:22 GMT | System Monitoring & Research Update — Live Documentation Page | goge loab | [Read More](https://medium.com/p/6af0a93ef9c4) |
-| Tue, 30 Dec 2025 00:17:29 GMT | IDOR in Account Update Endpoint | v7l3nt1m | [Read More](https://medium.com/p/236de7352bbc) |
-| Tue, 30 Dec 2025 00:11:39 GMT | When a Compression Tool Becomes an Entry Point: Patching WinRAR CVEs from a SOC Perspective | Pablo Echeverria | [Read More](https://medium.com/p/ddeba897c3e8) |
-| Tue, 30 Dec 2025 00:03:58 GMT | 2025 Retrospective: When AI Became Infrastructure and What Computer Engineering Holds for 2026 | Marcos Roberto Moraes | [Read More](https://medium.com/p/2ab05fe6f014) |
-| Tue, 30 Dec 2025 00:02:46 GMT | Droid-Warden CTF by INE : How I Finished First Under Pressure | The.Flying.Wolf | [Read More](https://medium.com/p/6caad8b21155) |
-| Mon, 29 Dec 2025 23:47:56 GMT | Ahead of Planning: Contingency Plan in Action | Hector Orellana Reyes | [Read More](https://medium.com/p/62fd18d828a6) |
-| Mon, 29 Dec 2025 23:39:23 GMT | “He Loved Her For His Life — And betrayed Her Being Her Enemy” | SYED WASTI | [Read More](https://medium.com/p/2011203fb986) |
-| Mon, 29 Dec 2025 23:14:04 GMT | Deep Dive Into CVE-2025–55182: Understanding React Server Components RCE | Ashimsapkota | [Read More](https://medium.com/p/9bca719907f3) |
-| Mon, 29 Dec 2025 23:07:11 GMT | CISSP Domain 3: Security Engineering - Complete Study Notes (Part 2) | Pushpak Sharma | [Read More](https://medium.com/p/b397e87aaab0) |
-| Mon, 29 Dec 2025 22:59:23 GMT | DGSI–Palantir: when analytical sovereignty becomes strategic dependence | Hayat Outahar | [Read More](https://medium.com/p/0d1218ee763b) |
-| Mon, 29 Dec 2025 22:43:14 GMT | Thoughts On CloudFormation in 2025 | Teri Radichel | [Read More](https://medium.com/p/36b7f88fdf05) |
