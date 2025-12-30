@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 19:15:52 GMT | Anatomy of a Security Audit: Dissecting JWTs and Sessions for Critical Logic Flaws | Ian Zammit | [Read More](https://medium.com/p/97ec579eb489) |
+| Tue, 30 Dec 2025 19:12:02 GMT | What the OpenAI API / Mixpanel Incident Really Teaches Us About API Security | AserSec | [Read More](https://medium.com/p/59f10f91cc43) |
+| Tue, 30 Dec 2025 19:09:25 GMT | Introduction to OT Cybersecurity | Maxi | [Read More](https://medium.com/p/99d028f606da) |
+| Tue, 30 Dec 2025 18:59:29 GMT | Le “bug de l’an 2000” n’a pas échoué, il a été vaincu | Séв(aѕтιen) L. ⚠ | [Read More](https://medium.com/p/8c30eb7fc499) |
+| Tue, 30 Dec 2025 18:58:35 GMT | Vulnhub: Looz 1 Walkthrough | Luke Gearty | [Read More](https://medium.com/p/aed337a8b0fc) |
+| Tue, 30 Dec 2025 18:42:23 GMT | AI-Augmented Penetration Testing: The Future of Cybersecurity | Mark Puckett | [Read More](https://medium.com/p/0391be3d6d77) |
+| Tue, 30 Dec 2025 18:39:56 GMT | How I Built a Private AI Headhunter to Automate My Job Search | João Dias | [Read More](https://medium.com/p/3e44618a884c) |
+| Tue, 30 Dec 2025 18:36:19 GMT | Mapping Phishing Link Analysis to MITTRE ATT@CK. | Kishwar Khatri | [Read More](https://medium.com/p/4b1316b9f825) |
+| Tue, 30 Dec 2025 18:35:16 GMT | A Beginner-Friendly Guide to API Authentication and Authorization: Lessons from Real-World APIs | Madalitso Cheyo | [Read More](https://medium.com/p/d7bc996424fd) |
+| Tue, 30 Dec 2025 18:35:10 GMT | Web3TradingHub Beginner to Advance | Web3 Trading Hub | [Read More](https://medium.com/p/fe756bf30fc5) |
+| Tue, 30 Dec 2025 18:32:56 GMT | MongoDB Is Leaking Server Memory — Authentication Doesn’t Matter Anymore | Tara Prasad Routray | [Read More](https://medium.com/p/f117e511c9b6) |
 | Tue, 30 Dec 2025 18:10:28 GMT | My Last 2025 Goal | Alicia | [Read More](https://medium.com/p/56eb4508476b) |
 | Tue, 30 Dec 2025 18:09:50 GMT | Why I Obsess Over Cybersecurity: A Student’s Perspective on the Digital Wild West | HEKKO | [Read More](https://medium.com/p/78240092d5df) |
 | Tue, 30 Dec 2025 18:05:17 GMT | Why Building Your Own Cybersecurity Lab Teaches More Than Following Playlists | Muhammad Kashif | [Read More](https://medium.com/p/1079e92c5e5e) |
@@ -102,14 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 13:48:39 GMT | China Attacks Thirty American Firms in a Bizarre New Cyber Hack | Khadijafalaksher | [Read More](https://medium.com/p/deb27e196862) |
 | Tue, 30 Dec 2025 13:48:16 GMT | Siber Güvenlik Nedir? Dijital Dünyanın Çağdaş Koruması | İlayda | [Read More](https://medium.com/p/0d7f9dafa264) |
 | Tue, 30 Dec 2025 13:37:13 GMT | Epstein Files Explained: What the Newly Released Documents Really Show | Big Five | [Read More](https://medium.com/p/922ed93e7897) |
-| Tue, 30 Dec 2025 13:36:18 GMT | PortSwigger Web Security Academy — 2FA Simple Bypass (Lab Write-Up) | Mann24> | [Read More](https://medium.com/p/a6df50c47915) |
-| Tue, 30 Dec 2025 13:32:46 GMT | Broken Access Control Vulnerability: Beginner-Friendly P4 Bug That Paid ₹15,000 | Rajankumarbarik | [Read More](https://medium.com/p/1cca0e53f5ff) |
-| Tue, 30 Dec 2025 13:31:47 GMT | Softness Belongs in Feminism | Calya Fajrian | [Read More](https://medium.com/p/d509b91c1683) |
-| Tue, 30 Dec 2025 13:28:49 GMT | ️ Incident Response Report: Data Exfiltration via Backdoor | Genet Shibru | [Read More](https://medium.com/p/f9bcb4b04b2d) |
-| Tue, 30 Dec 2025 13:20:59 GMT | CompTIA Security+ Certification Guide for Cybersecurity Career | Trainotrack Solutions | [Read More](https://medium.com/p/13205dd78c4c) |
-| Tue, 30 Dec 2025 13:20:00 GMT | Transforming Tomorrow: The Internet of Things (IoT) Security Market Accelerates Innovation and… | Raj Nayak | [Read More](https://medium.com/p/44cd6f700ab8) |
-| Tue, 30 Dec 2025 13:16:35 GMT | What Happens After a Company Fails a Security Assessment | Digital Defense | [Read More](https://medium.com/p/851882d3e834) |
-| Tue, 30 Dec 2025 13:16:26 GMT | Staying Safe While you Earn Online | Learn With Hatty | [Read More](https://medium.com/p/4dd71e5b4fea) |
-| Tue, 30 Dec 2025 13:09:42 GMT | Grieving Someone Who’s Still Alive: The Pain We Don’t Talk About | WordsbyBano | [Read More](https://medium.com/p/587b98360589) |
-| Tue, 30 Dec 2025 13:07:37 GMT | Ethereum’s Cryptography in a Post-Quantum World | Dany A. Darghouth -  داني  دارغوث | [Read More](https://medium.com/p/896d7a17ad87) |
-| Tue, 30 Dec 2025 13:06:39 GMT | Your Infrastructure Just Got Smarter: Building a Digital Immune System That Actually Works | Ravi | [Read More](https://medium.com/p/049f98802e2a) |
