@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 22:05:22 GMT | Advent of Cyber — Day 4: AI in Security — Old saint Nick | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/fe6bcb0e159b) |
+| Tue, 30 Dec 2025 22:04:18 GMT | You Gon’ Learn Today: Layemor Malware Analysis II | grepStrength | [Read More](https://medium.com/p/86bb4a0328f7) |
+| Tue, 30 Dec 2025 21:58:21 GMT | Your Excel Risk Matrix is Lying to You about Kubernetes Security. | Julian Koehn | [Read More](https://medium.com/p/8ccde081442b) |
+| Tue, 30 Dec 2025 21:40:28 GMT | What Really Happens When You Connect to Public WiFi | Aj | [Read More](https://medium.com/p/a1f101661cd9) |
+| Tue, 30 Dec 2025 21:40:10 GMT | I’m going to be a Hacker | Shahzaib | [Read More](https://medium.com/p/f060feff6cb3) |
+| Tue, 30 Dec 2025 21:39:29 GMT | Pentesting | Daniel Scragg | [Read More](https://medium.com/p/e66c3670857c) |
+| Tue, 30 Dec 2025 21:39:23 GMT | Top Security Challenges Faced by Businesses in Camarillo | Onpointpetrol | [Read More](https://medium.com/p/96ab7239ea2a) |
 | Tue, 30 Dec 2025 21:31:21 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobalagency Manager | [Read More](https://medium.com/p/1fbfa587ccec) |
 | Tue, 30 Dec 2025 21:31:09 GMT | A Hidden Line of Text Can Hijack an AI. No Clicks, No Malware, Just Words. | AhmedAbdelmenem | [Read More](https://medium.com/p/308d26473f9f) |
 | Tue, 30 Dec 2025 21:30:53 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobaldirector | [Read More](https://medium.com/p/66c2600d6996) |
@@ -106,10 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 15:56:41 GMT | 5 Best Smart Thermostats for Home in 2025 | Narjis Arshad | [Read More](https://medium.com/p/b83afc3f6ffe) |
 | Tue, 30 Dec 2025 15:54:14 GMT | CEHv12: Hacking Mobile Platforms (Practised) (Module 17) | Aditya Kumar | [Read More](https://medium.com/p/f4fbc8b5c308) |
 | Tue, 30 Dec 2025 15:50:49 GMT | The Silent Bug That Lived for 8 Years | Sushila Devi | [Read More](https://medium.com/p/9ced766636f2) |
-| Tue, 30 Dec 2025 15:46:48 GMT | Token Factory: The 5 Costliest US Breaches of 2025 | Wes Young | [Read More](https://medium.com/p/4cf1a19d5688) |
-| Tue, 30 Dec 2025 15:38:23 GMT | SMBs: The Achilles’ Heel of the World | Cybersensus | [Read More](https://medium.com/p/329d3fb62aa5) |
-| Tue, 30 Dec 2025 15:35:10 GMT | I Didn’t Break the App — I Let Its Logic Break Itself | Iski | [Read More](https://medium.com/p/9cd22096111c) |
-| Tue, 30 Dec 2025 15:33:11 GMT | Overly Permissive GPO Abuse: From WriteDACL to Local Admin via NTLM Relay & GPOddity | Eray Yavuz | [Read More](https://medium.com/p/7a1862486f88) |
-| Tue, 30 Dec 2025 15:30:04 GMT | Windows Services - Methods and Mitigation - Persistence Techniques - Part 3 | Satvik Hatulkar | [Read More](https://medium.com/p/79bad2b5f459) |
-| Tue, 30 Dec 2025 15:21:17 GMT | I Thought I Had to Be Strong — Until I Finally Asked for Help | Vanessa Gemicibasi | [Read More](https://medium.com/p/e6a9c5a49d3e) |
-| Tue, 30 Dec 2025 15:19:11 GMT | Why and how I set up a home NAS server | Konrad Brodzik | [Read More](https://medium.com/p/5f66d660aede) |
