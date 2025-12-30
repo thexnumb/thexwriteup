@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 09:44:12 GMT | How AI Agents Become Insider Threats — and the Quantum Future | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d501cd13185a) |
+| Tue, 30 Dec 2025 09:43:51 GMT | AI Code Security: How to Balance Speed & Risk in the New Software Era | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/55604365522c) |
+| Tue, 30 Dec 2025 09:36:22 GMT | How I Found an SSRF on a University Website as a Beginner | Bhushan Patil | [Read More](https://medium.com/p/b5334e9d60d1) |
+| Tue, 30 Dec 2025 09:36:20 GMT | Why Most Data Breaches Are Preventable: A Developer’s Guide | Silversky Technology | [Read More](https://medium.com/p/9b3a69c4af02) |
+| Tue, 30 Dec 2025 09:26:21 GMT | Building a Secure 3-Tier Architecture in Google Cloud | Bleu Boy | [Read More](https://medium.com/p/dcae6b8c77f1) |
+| Tue, 30 Dec 2025 09:26:10 GMT | How Workplace Automation Drives Productivity and Business Growth | Rasna Rasin | [Read More](https://medium.com/p/086f878e53af) |
 | Tue, 30 Dec 2025 09:22:40 GMT | TryHackMe: DecryptifyWriteup | cbev | [Read More](https://medium.com/p/501276513164) |
 | Tue, 30 Dec 2025 09:17:51 GMT | The Global Data Center Market and Its Role in Powering the Digital Economy | Vijay Mishra | [Read More](https://medium.com/p/5544bf9b51ce) |
 | Tue, 30 Dec 2025 09:13:10 GMT | How Apps “Understand” You Without Reading Your Mind | harsh_singh | [Read More](https://medium.com/p/4936dd41f0e3) |
@@ -107,9 +113,3 @@ it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://
 | Tue, 30 Dec 2025 03:00:52 GMT | Computer Security “Playbook” | Hector Orellana Reyes | [Read More](https://medium.com/p/6ff8d1e8f8e1) |
 | Tue, 30 Dec 2025 02:32:21 GMT | Every Bug Bounty Hunter Starts with the OWASP Top 10 | Jugal Patel | [Read More](https://medium.com/p/d2bf16842f42) |
 | Tue, 30 Dec 2025 01:59:29 GMT | Custom Web Portal Starter Kit: Implementing UI Auth Services | Chris Putnam | [Read More](https://medium.com/p/e449e4c7e8e9) |
-| Tue, 30 Dec 2025 01:58:17 GMT | Why Catchy Radio Ads Stay in Your Head and Make a Difference | Chiro Adsmedia | [Read More](https://medium.com/p/d5aa4462f6ad) |
-| Tue, 30 Dec 2025 01:55:17 GMT | Why Is ServiceNow Spending $7.75 Billion on Armis? | Raviteja Mureboina | [Read More](https://medium.com/p/b0f7976f59a9) |
-| Tue, 30 Dec 2025 01:32:26 GMT | Beyond the “Black Box”: Why Governance is the Only Way to Deploy AI Safely | Eude Tech | [Read More](https://medium.com/p/7d37fc0fd626) |
-| Tue, 30 Dec 2025 01:21:19 GMT | API Keys, Tokens & Secrets: How They Leak and How Developers can Avoid it | Veronica Peter | [Read More](https://medium.com/p/37c458f16774) |
-| Tue, 30 Dec 2025 01:04:01 GMT | Understanding Broken Object Level Authorization (BOLA): What It Is, How It Happens, and How to… | Veronica Peter | [Read More](https://medium.com/p/52e6236e072c) |
-| Tue, 30 Dec 2025 00:57:23 GMT | Advanced Mobile App Security: Protecting Code, Integrity, and User Trust | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/eaf603d1a2d4) |
