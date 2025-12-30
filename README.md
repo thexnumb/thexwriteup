@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 15:35:10 GMT | I Didn’t Break the App — I Let Its Logic Break Itself | Iski | [Read More](https://medium.com/p/9cd22096111c) |
+| Tue, 30 Dec 2025 15:33:11 GMT | Overly Permissive GPO Abuse: From WriteDACL to Local Admin via NTLM Relay & GPOddity | Eray Yavuz | [Read More](https://medium.com/p/7a1862486f88) |
+| Tue, 30 Dec 2025 15:30:04 GMT | Windows Services - Methods and Mitigation - Persistence Techniques - Part 3 | Satvik Hatulkar | [Read More](https://medium.com/p/79bad2b5f459) |
+| Tue, 30 Dec 2025 15:21:17 GMT | I Thought I Had to Be Strong — Until I Finally Asked for Help | Vanessa Gemicibasi | [Read More](https://medium.com/p/e6a9c5a49d3e) |
+| Tue, 30 Dec 2025 15:19:11 GMT | Why and how I set up a home NAS server | Konrad Brodzik | [Read More](https://medium.com/p/5f66d660aede) |
 | Tue, 30 Dec 2025 15:06:01 GMT | 10 Signs You’re About to Be Scammed (And How to Escape) — Part 2 | Clickwise Nigeria | [Read More](https://medium.com/p/5590dcde232d) |
 | Tue, 30 Dec 2025 15:05:50 GMT | WhitelistVideo | Tasha AI DIR | [Read More](https://medium.com/p/1f86f5ba9419) |
 | Tue, 30 Dec 2025 15:03:44 GMT | Pentesting México: la estrategia clave para proteger empresas frente a ciberataques | Selspy - Trending products for dropshipping | [Read More](https://medium.com/p/6833f4488180) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 10:06:41 GMT | Top Cyber Security Services in Nigeria for Data Protection and Compliance | Prakash Factosecure | [Read More](https://medium.com/p/65853194ac0d) |
 | Tue, 30 Dec 2025 10:01:23 GMT | CARTE Review: My Journey to Becoming an Azure Red Team Expert | Tiger3080 | [Read More](https://medium.com/p/ce396409438a) |
 | Tue, 30 Dec 2025 10:00:06 GMT | Why Investing Money in an IT Product Launch Matters | Prince moradiya | [Read More](https://medium.com/p/278999bbc954) |
-| Tue, 30 Dec 2025 09:59:38 GMT | Cybersecurity Guidelines for Humanoid Robotics | Sandeep Chakravartty | [Read More](https://medium.com/p/fdaea6c1a246) |
-| Tue, 30 Dec 2025 09:58:48 GMT | MongoBleed (CVE-2025–14847): How One Missing Line of Code Exposed 213,000 Databases | Dhanush N | [Read More](https://medium.com/p/7845105836a6) |
-| Tue, 30 Dec 2025 09:57:40 GMT | Win The Loop. Win The Battle. | Redfox Security | [Read More](https://medium.com/p/87d0bbc77444) |
-| Tue, 30 Dec 2025 09:57:21 GMT | Blog — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/bebd34243545) |
-| Tue, 30 Dec 2025 09:53:58 GMT | When AI Becomes the Hacker: The Rise of AI-Powered Phishing Attacks | Mohd Rabiul Alam | [Read More](https://medium.com/p/d2c3df372f86) |
