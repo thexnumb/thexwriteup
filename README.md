@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 05:46:50 GMT | You Think You’re Anonymous Online. Hackers Know You’re Not | Jayson Morale | [Read More](https://medium.com/p/1bd50038a307) |
+| Tue, 30 Dec 2025 05:41:59 GMT | Вы думаете, что анонимны в интернете. Хакеры знают, что это не так | Ziko0507 _ | [Read More](https://medium.com/p/9abd5b8f2dac) |
+| Tue, 30 Dec 2025 05:32:24 GMT | If you use Login with Facebook or Google — Read THIS! | Vijeetdeliwala | [Read More](https://medium.com/p/880dfbc24a27) |
+| Tue, 30 Dec 2025 05:32:24 GMT | Why 2026 Is the Best Time Ever to Get into Data Science and AI | Sam Khattak | [Read More](https://medium.com/p/3c2d666107af) |
+| Tue, 30 Dec 2025 05:31:47 GMT | MongoDB the Right Way: From First Login to Enterprise-Grade Operations | Salman ahmed noor | [Read More](https://medium.com/p/df4dcd9177ee) |
+| Tue, 30 Dec 2025 05:28:47 GMT | Certified Authority for Enterprise Risk Mitigation | Kadhijahafiya | [Read More](https://medium.com/p/9c950110ae56) |
+| Tue, 30 Dec 2025 05:28:20 GMT | What Is Shadow AI? The Emerging Cybersecurity Risk of Unauthorized AI Use at Work | Lakshita Gulliya | [Read More](https://medium.com/p/e291c9949399) |
 | Tue, 30 Dec 2025 05:04:35 GMT | Advent of Cyber 2025 - All 24 Days Completed! | Debmalya Mondal⚡ | [Read More](https://medium.com/p/7f60d750fc7e) |
 | Tue, 30 Dec 2025 05:02:27 GMT | Migrating to the Cloud: AWS vs Azure vs GCP — Which One Fits Your Business? | F9 Infotech | [Read More](https://medium.com/p/877c7e7c5a61) |
 | Tue, 30 Dec 2025 04:57:39 GMT | Unlocking the Power of Nmap: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/d668a7ef661e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 18:27:52 GMT | Understanding the insecure deserialization vulnerability | hackerdevil | [Read More](https://medium.com/p/9e95f3d7723a) |
 | Mon, 29 Dec 2025 18:24:18 GMT | How I Got My First Bounty | Adhamkhairy | [Read More](https://medium.com/p/70cd498b9fc5) |
 | Mon, 29 Dec 2025 18:22:28 GMT | When Cybersecurity Stops Being About Defense and Starts Being About Truth | Daretoexpose | [Read More](https://medium.com/p/853aa6087253) |
-| Mon, 29 Dec 2025 18:09:08 GMT | Numb, Lil Bug | Artika’s | [Read More](https://medium.com/p/88bfdd26d130) |
-| Mon, 29 Dec 2025 18:02:14 GMT | Try Hack Me- Break Out the Cage Walkthrough | PulseEinher | [Read More](https://medium.com/p/cee2bed69948) |
-| Mon, 29 Dec 2025 17:52:16 GMT | The Voyage: 12 Days of Digital Physics | Chris Perkins | [Read More](https://medium.com/p/724ca6f63b44) |
-| Mon, 29 Dec 2025 17:41:34 GMT | Using Programmatic Access in Snowflake | Jon Roberts | [Read More](https://medium.com/p/cd5224165bd8) |
-| Mon, 29 Dec 2025 17:35:15 GMT | Exploit SQL injection using sqlmap | Shyam Kumar | [Read More](https://medium.com/p/5c8667fe867d) |
-| Mon, 29 Dec 2025 17:34:04 GMT | Technical Report | German Aquino | [Read More](https://medium.com/p/0c4e9c937b27) |
-| Mon, 29 Dec 2025 17:32:08 GMT | Reading Production Android Code for the First Time: A Security Researcher’s Perspective | Tyreek Haynes | [Read More](https://medium.com/p/7cadaf893252) |
