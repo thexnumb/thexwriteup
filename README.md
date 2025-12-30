@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 15:06:01 GMT | 10 Signs You’re About to Be Scammed (And How to Escape) — Part 2 | Clickwise Nigeria | [Read More](https://medium.com/p/5590dcde232d) |
+| Tue, 30 Dec 2025 15:05:50 GMT | WhitelistVideo | Tasha AI DIR | [Read More](https://medium.com/p/1f86f5ba9419) |
+| Tue, 30 Dec 2025 15:03:44 GMT | Pentesting México: la estrategia clave para proteger empresas frente a ciberataques | Selspy - Trending products for dropshipping | [Read More](https://medium.com/p/6833f4488180) |
+| Tue, 30 Dec 2025 15:02:35 GMT | 10 Signs You’re About to Be Scammed (And How to Escape) — Part 1 | Clickwise Nigeria | [Read More](https://medium.com/p/833352a3a453) |
+| Tue, 30 Dec 2025 15:02:29 GMT | Cyber Briefing: 2025.12.30 | CyberMaterial | [Read More](https://medium.com/p/0c212daabb58) |
+| Tue, 30 Dec 2025 15:00:09 GMT | GROK’s x.AI — Valuable Feedback | QEE | [Read More](https://medium.com/p/a19d9b1937b1) |
+| Tue, 30 Dec 2025 14:58:09 GMT | GPTBot and the Bandwidth Problem No One Talks About | Mohamad Mahmood | [Read More](https://medium.com/p/3919393d721d) |
+| Tue, 30 Dec 2025 14:55:33 GMT | A Critical Vulnerability in n8n Exposes the Hidden Risks of Automation at Scale | LEROBITcast | [Read More](https://medium.com/p/faa6a1ca108e) |
+| Tue, 30 Dec 2025 14:52:39 GMT | Learning C++ for Malware Development Course | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d16f9fb2e65c) |
+| Tue, 30 Dec 2025 14:51:45 GMT | IBM Guardium v12.x (C1000–197): How to Crack the Exam? An Admin’s Field Notes | Adam Frąckowiak | [Read More](https://medium.com/p/2896610af0c3) |
+| Tue, 30 Dec 2025 14:47:52 GMT | 2025 Cybersecurity Retrospective: The Year the Edge Collapsed | pravin jha | [Read More](https://medium.com/p/b62b42951c20) |
 | Tue, 30 Dec 2025 14:42:27 GMT | Waiting | NRWillick | [Read More](https://medium.com/p/e35d6e9c749f) |
 | Tue, 30 Dec 2025 14:39:22 GMT | Solving a Cybersecurity Case with Excel — My Second Week with Excel | Aditi V | [Read More](https://medium.com/p/f96050c082ef) |
 | Tue, 30 Dec 2025 14:36:14 GMT | Peach Fuzzer Tutorial - Lab 1 | Abhirup Konwar | [Read More](https://medium.com/p/a9b4852885da) |
@@ -19,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 14:33:19 GMT | Shifting AI Safety Paradigms: Blue Team | QEE | [Read More](https://medium.com/p/5eb64d4902e7) |
 | Tue, 30 Dec 2025 14:30:12 GMT | Protecting Sensitive Data Using Envelope Encryption | İbrahim Gündüz | [Read More](https://medium.com/p/95cef1623e64) |
 | Tue, 30 Dec 2025 14:29:41 GMT | OverTheWire Bandit (Day 04): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/8dc06ee37a98) |
+| Tue, 30 Dec 2025 14:28:46 GMT | IRS Phone Number to Talk to a Live Person: Complete Guide to Getting Assistance | Motherlandlove | [Read More](https://medium.com/p/27e192bd8242) |
 | Tue, 30 Dec 2025 14:26:26 GMT | SRE & Security Lessons from the 2025 Trenches | Rajat Gupta | [Read More](https://medium.com/p/8ea01b0c03a8) |
 | Tue, 30 Dec 2025 14:18:50 GMT | Security-First Azure Cloud Migration with Zero Trust and CIS Benchmarks | Cheena | [Read More](https://medium.com/p/109752b2edfe) |
 | Tue, 30 Dec 2025 14:11:21 GMT | Splunk Setting up a SOC Lab | Dawid Kowalski | [Read More](https://medium.com/p/202f040f004c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 09:57:40 GMT | Win The Loop. Win The Battle. | Redfox Security | [Read More](https://medium.com/p/87d0bbc77444) |
 | Tue, 30 Dec 2025 09:57:21 GMT | Blog — Write-Up (TryHackMe) | ManuM0re | [Read More](https://medium.com/p/bebd34243545) |
 | Tue, 30 Dec 2025 09:53:58 GMT | When AI Becomes the Hacker: The Rise of AI-Powered Phishing Attacks | Mohd Rabiul Alam | [Read More](https://medium.com/p/d2c3df372f86) |
-| Tue, 30 Dec 2025 09:53:45 GMT | Machine Learning Approaches for Detecting Suspicious Blockchain Transactions | Satyam | [Read More](https://medium.com/p/0927c0308ab0) |
-| Tue, 30 Dec 2025 09:52:26 GMT | Enhancing Security with AI Security Monitoring Solutions in Real Time | Dolon Ghosh | [Read More](https://medium.com/p/f627d66ee578) |
-| Tue, 30 Dec 2025 09:48:47 GMT | Your 99% Accurate AI Model is a Liability. Here’s Why. | Motasem Hamdan | [Read More](https://medium.com/p/9b896436bf71) |
-| Tue, 30 Dec 2025 09:45:11 GMT | Beyond the Interface: An Analysis of CZR Exchange and Digital Asset Safety Standards | INTBITINC | [Read More](https://medium.com/p/e7abecc94d5e) |
-| Tue, 30 Dec 2025 09:44:12 GMT | How AI Agents Become Insider Threats — and the Quantum Future | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d501cd13185a) |
-| Tue, 30 Dec 2025 09:43:51 GMT | AI Code Security: How to Balance Speed & Risk in the New Software Era | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/55604365522c) |
-| Tue, 30 Dec 2025 09:37:16 GMT | Relevance ≠ Authorization — What Changes Once Access Control Enters | inkme | [Read More](https://medium.com/p/fba5f454d986) |
-| Tue, 30 Dec 2025 09:36:22 GMT | How I Found an SSRF on a University Website as a Beginner | Bhushan Patil | [Read More](https://medium.com/p/b5334e9d60d1) |
-| Tue, 30 Dec 2025 09:36:20 GMT | Why Most Data Breaches Are Preventable: A Developer’s Guide | Silversky Technology | [Read More](https://medium.com/p/9b3a69c4af02) |
-| Tue, 30 Dec 2025 09:26:21 GMT | Building a Secure 3-Tier Architecture in Google Cloud | Bleu Boy | [Read More](https://medium.com/p/dcae6b8c77f1) |
-| Tue, 30 Dec 2025 09:26:10 GMT | How Workplace Automation Drives Productivity and Business Growth | Rasna Rasin | [Read More](https://medium.com/p/086f878e53af) |
-| Tue, 30 Dec 2025 09:22:40 GMT | TryHackMe: DecryptifyWriteup | cbev | [Read More](https://medium.com/p/501276513164) |
