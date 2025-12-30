@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 08:22:33 GMT | Detecting Brute-Force Attacks in Real Time: Inside a SOC Analyst’s SIEM Workflow | Little_Sun4lower | [Read More](https://medium.com/p/a8dfea4f199c) |
+| Tue, 30 Dec 2025 08:22:14 GMT | Implementing JWT Authentication with Access & Refresh Tokens in Spring Boot | Narmadha | [Read More](https://medium.com/p/f2111ad6d8f1) |
+| Tue, 30 Dec 2025 08:20:06 GMT | I Switched My Passwords Over to Proton Pass | Red | [Read More](https://medium.com/p/96e48191ebdd) |
+| Tue, 30 Dec 2025 08:19:54 GMT | Introducing MCP Guard: The Hosted Security Layer for Your MCP Servers | Pritahir | [Read More](https://medium.com/p/d68cef40c078) |
+| Tue, 30 Dec 2025 08:16:50 GMT | Securing a Kenyan SACCO from Zero [Part 6 of 6] | Munaniadeno | [Read More](https://medium.com/p/7aa270255950) |
+| Tue, 30 Dec 2025 08:15:44 GMT | Patch Management vs Vulnerability Management: Where Most Teams Get It Wrong | SarathKumar | [Read More](https://medium.com/p/0caf38149f57) |
+| Tue, 30 Dec 2025 08:14:58 GMT | WhatsApp Security on Mac and Mobile Powered by Mac Antivirus | Siyanoav | [Read More](https://medium.com/p/a4b5c75c5e7f) |
+| Tue, 30 Dec 2025 08:14:50 GMT | Learning Wi-Fi Security with the Evil Twin Attack | Sahilshaikh | [Read More](https://medium.com/p/124ab2081aad) |
+| Tue, 30 Dec 2025 08:08:57 GMT | How GRC Teams Can Implement AI for Better Risk Management | SecureSlate | [Read More](https://medium.com/p/df6325bfef94) |
+| Tue, 30 Dec 2025 08:08:54 GMT | Technical Assessment: DIVEXA Security Architecture and Protocol Analysis | Certification Flow Laboratories | [Read More](https://medium.com/p/6a6109b6be34) |
+| Tue, 30 Dec 2025 08:06:30 GMT | Product Management (PM) insights December 30, 2025, s focus on deep AI integration, Product-Led… | Ravikant Vishwakarma | [Read More](https://medium.com/p/8e613bf9b30f) |
+| Tue, 30 Dec 2025 08:00:23 GMT | Nmap Scans That Make Network Admins Lose Sleep (And How to Not Be That Person) | Naveen Jc | [Read More](https://medium.com/p/95769a78dc33) |
+| Tue, 30 Dec 2025 07:58:04 GMT | The Silent Trauma of Cleaning Up Other People’s Security Mistakes | Santhosh Adiga U | [Read More](https://medium.com/p/ee5584edec8c) |
+| Tue, 30 Dec 2025 07:50:27 GMT | Understanding JWT: What It Is and Why It’s Used | Narmadha | [Read More](https://medium.com/p/dc413958029b) |
+| Tue, 30 Dec 2025 07:45:20 GMT | “What Really Happens After a Data Breach And Why You Shouldn’t Ignore Security Alerts” | Grace Chukwunta | [Read More](https://medium.com/p/1e00da6f59e5) |
 | Tue, 30 Dec 2025 07:07:23 GMT | New Year Wishes Can Turn Into Cyber Traps: Beware of Fake APKs & Malicious Links | Ankit rai | [Read More](https://medium.com/p/367bdf5b6b2f) |
 | Tue, 30 Dec 2025 07:07:15 GMT | How Enterprise-Grade Security Is Changing Modern MLM Software | shailaja.sankalp | [Read More](https://medium.com/p/473a2320c136) |
 | Tue, 30 Dec 2025 07:06:27 GMT | DNS IN DETAIL — TRYHACKME | 0xNeko | [Read More](https://medium.com/p/020199f7562b) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 23:07:11 GMT | CISSP Domain 3: Security Engineering - Complete Study Notes (Part 2) | Pushpak Sharma | [Read More](https://medium.com/p/b397e87aaab0) |
 | Mon, 29 Dec 2025 22:59:23 GMT | DGSI–Palantir: when analytical sovereignty becomes strategic dependence | Hayat Outahar | [Read More](https://medium.com/p/0d1218ee763b) |
 | Mon, 29 Dec 2025 22:43:14 GMT | Thoughts On CloudFormation in 2025 | Teri Radichel | [Read More](https://medium.com/p/36b7f88fdf05) |
-| Mon, 29 Dec 2025 22:42:41 GMT | Configure it Out with AWS AgentCore and Kiro | Mary Becken | [Read More](https://medium.com/p/5a68119b1b55) |
-| Mon, 29 Dec 2025 22:31:02 GMT | PortSwigger Academy Lab: Information disclosure on debug page | VISCID | [Read More](https://medium.com/p/f4e5c142f1ce) |
-| Mon, 29 Dec 2025 22:29:21 GMT | Risk Registers Don’t Reduce Risk. Decisions Do. | Neviar Rawlinson, MBA | [Read More](https://medium.com/p/c26ec4b87739) |
-| Mon, 29 Dec 2025 22:24:40 GMT | Year-End Security Audit for PHP Apps: The Checklist I Actually Use Before Shipping Another Release | Ann R. | [Read More](https://medium.com/p/3bba13f627a6) |
-| Mon, 29 Dec 2025 22:20:48 GMT | How to not get hacked | Vikash Bajaj | [Read More](https://medium.com/p/1bf47a793190) |
-| Mon, 29 Dec 2025 22:17:21 GMT | When Macs Feel Slow, Maintenance Is Usually the Missing Fix | Geoffrey Wenger | [Read More](https://medium.com/p/a070dff07192) |
-| Mon, 29 Dec 2025 22:16:13 GMT | The Genesis of Information | Ilexa Yardley | [Read More](https://medium.com/p/0b685c19b1bf) |
-| Mon, 29 Dec 2025 22:14:10 GMT | How Compromised IAM Credentials Fueled a Massive AWS Crypto Mining Campaign | Yashasvi Sharma | [Read More](https://medium.com/p/8a3163af6db0) |
-| Mon, 29 Dec 2025 22:07:32 GMT | Why Your DevOps Team Needs KAITO (And How It’ll Save Your Sanity) | thenotorious runner | [Read More](https://medium.com/p/4a4665977088) |
-| Mon, 29 Dec 2025 21:41:20 GMT | TryHackMe Writeup: Cyborg | Berkay AĞGÜL | [Read More](https://medium.com/p/2d10b5b79296) |
-| Mon, 29 Dec 2025 21:22:40 GMT | Real Windows Maintenance Without Subscriptions Or Gimmicks | Geoffrey Wenger | [Read More](https://medium.com/p/392a1fa91e6d) |
-| Mon, 29 Dec 2025 21:21:44 GMT | Why CyberSolutions (436A) Is Not the SaaS IPO You Think | Japan IPO Analyze | [Read More](https://medium.com/p/2fa08077b320) |
-| Mon, 29 Dec 2025 21:12:53 GMT | MongoBleed : The Tale of MongDB error | Shikhar Sinha | [Read More](https://medium.com/p/595a39095dc6) |
-| Mon, 29 Dec 2025 21:12:27 GMT | Growing up in the hacking underground before DOS, IRC, and phreaking went mainstream | Sam Gabsi | [Read More](https://medium.com/p/edb3ce11633f) |
-| Mon, 29 Dec 2025 21:12:25 GMT | Custom AI, Demystified: A Practical Guide for Decision Makers. | Sukanya P | [Read More](https://medium.com/p/6c1d65cc277a) |
