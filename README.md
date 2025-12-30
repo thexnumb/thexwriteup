@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 21:15:56 GMT | Основи на Linux за хакери, част 0: Първи стъпки с Kali Linux | Hristo Hristov | [Read More](https://medium.com/p/eccc4f765f05) |
+| Tue, 30 Dec 2025 20:58:04 GMT | When Cybersecurity Isn’t Enough: A Small Business Owner’s Nightmare | Krystal | [Read More](https://medium.com/p/ca1b98b62ffe) |
+| Tue, 30 Dec 2025 20:55:09 GMT | Humble Image Security Tracking with Syft & Grype under the hood | Sergei Ovchinnikov | [Read More](https://medium.com/p/76120e917029) |
+| Tue, 30 Dec 2025 20:54:23 GMT | Part 10: Drone Approval & Deployment. RMF, CMMC and ITAR. | Pipeline | [Read More](https://medium.com/p/803b261d5eb4) |
+| Tue, 30 Dec 2025 20:50:09 GMT | Nmap: Solving The Problems Nobody Talks About | 2No0b4YoU | [Read More](https://medium.com/p/b7e48bd395ea) |
+| Tue, 30 Dec 2025 20:37:30 GMT | Nice question. Clean profile. How meta question turn chats into recon pipelines. | Irina Y | [Read More](https://medium.com/p/1033c9797ae1) |
 | Tue, 30 Dec 2025 20:35:48 GMT | Basic SSRF against another back-end system | Muhammad Zain | [Read More](https://medium.com/p/35db514b2fe3) |
 | Tue, 30 Dec 2025 20:32:37 GMT | The Phishing Pond — TryHackMe - Walkthrough | Frhn.Isml | [Read More](https://medium.com/p/c50341f9f09b) |
 | Tue, 30 Dec 2025 20:26:24 GMT | I Tried to Recover My WhatsApp Chats Using Digital Forensics, and as a Beginner, It Was One of the… | Dhruv Dawar | [Read More](https://medium.com/p/f67776f5b62c) |
@@ -107,9 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 14:55:33 GMT | A Critical Vulnerability in n8n Exposes the Hidden Risks of Automation at Scale | LEROBITcast | [Read More](https://medium.com/p/faa6a1ca108e) |
 | Tue, 30 Dec 2025 14:52:39 GMT | Learning C++ for Malware Development Course | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d16f9fb2e65c) |
 | Tue, 30 Dec 2025 14:51:45 GMT | IBM Guardium v12.x (C1000–197): How to Crack the Exam? An Admin’s Field Notes | Adam Frąckowiak | [Read More](https://medium.com/p/2896610af0c3) |
-| Tue, 30 Dec 2025 14:47:52 GMT | 2025 Cybersecurity Retrospective: The Year the Edge Collapsed | pravin jha | [Read More](https://medium.com/p/b62b42951c20) |
-| Tue, 30 Dec 2025 14:42:27 GMT | Waiting | NRWillick | [Read More](https://medium.com/p/e35d6e9c749f) |
-| Tue, 30 Dec 2025 14:39:22 GMT | Solving a Cybersecurity Case with Excel — My Second Week with Excel | Aditi V | [Read More](https://medium.com/p/f96050c082ef) |
-| Tue, 30 Dec 2025 14:36:14 GMT | Peach Fuzzer Tutorial - Lab 1 | Abhirup Konwar | [Read More](https://medium.com/p/a9b4852885da) |
-| Tue, 30 Dec 2025 14:33:37 GMT | DDoS Isn’t a “Security Issue” Anymore — It’s a Visibility and Revenue Threat for Digital Brands | Vibha Sharma | [Read More](https://medium.com/p/a75a9310621b) |
-| Tue, 30 Dec 2025 14:33:19 GMT | Shifting AI Safety Paradigms: Blue Team | QEE | [Read More](https://medium.com/p/5eb64d4902e7) |
