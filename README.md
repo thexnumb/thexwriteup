@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 20:35:48 GMT | Basic SSRF against another back-end system | Muhammad Zain | [Read More](https://medium.com/p/35db514b2fe3) |
+| Tue, 30 Dec 2025 20:32:37 GMT | The Phishing Pond — TryHackMe - Walkthrough | Frhn.Isml | [Read More](https://medium.com/p/c50341f9f09b) |
+| Tue, 30 Dec 2025 20:26:24 GMT | I Tried to Recover My WhatsApp Chats Using Digital Forensics, and as a Beginner, It Was One of the… | Dhruv Dawar | [Read More](https://medium.com/p/f67776f5b62c) |
 | Tue, 30 Dec 2025 20:23:12 GMT | Vulnerability Management (ASSESS): The Phase Where People Are Dying and We Decide Who Gets Hope | Sourabh Grover | [Read More](https://medium.com/p/3dd9f9f42b0e) |
+| Tue, 30 Dec 2025 20:20:04 GMT | Building Your First AI-Powered Security Tool: A Practical Guide to Learning AI and Cybersecurity | Bharat Kothari | [Read More](https://medium.com/p/d7e58ee3199d) |
 | Tue, 30 Dec 2025 19:56:18 GMT | Sensitive Information Disclosure via Publicly Accessible .user.ini at indrive | Kareem Husein Abdelhameed | [Read More](https://medium.com/p/51b83f9a90f4) |
 | Tue, 30 Dec 2025 19:50:23 GMT | Facebook Credential Phishing Campaign Delivered via Gmail Infrastructure | Ahmad A Abdulla | [Read More](https://medium.com/p/2cea917c3aea) |
 | Tue, 30 Dec 2025 19:47:48 GMT | Understanding Access Control Models: DAC, MAC, RBAC, ABAC | Damir Kolobaric | [Read More](https://medium.com/p/7852e67701ab) |
@@ -109,7 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 14:36:14 GMT | Peach Fuzzer Tutorial - Lab 1 | Abhirup Konwar | [Read More](https://medium.com/p/a9b4852885da) |
 | Tue, 30 Dec 2025 14:33:37 GMT | DDoS Isn’t a “Security Issue” Anymore — It’s a Visibility and Revenue Threat for Digital Brands | Vibha Sharma | [Read More](https://medium.com/p/a75a9310621b) |
 | Tue, 30 Dec 2025 14:33:19 GMT | Shifting AI Safety Paradigms: Blue Team | QEE | [Read More](https://medium.com/p/5eb64d4902e7) |
-| Tue, 30 Dec 2025 14:30:12 GMT | Protecting Sensitive Data Using Envelope Encryption | İbrahim Gündüz | [Read More](https://medium.com/p/95cef1623e64) |
-| Tue, 30 Dec 2025 14:29:41 GMT | OverTheWire Bandit (Day 04): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/8dc06ee37a98) |
-| Tue, 30 Dec 2025 14:28:46 GMT | IRS Phone Number to Talk to a Live Person: Complete Guide to Getting Assistance | Motherlandlove | [Read More](https://medium.com/p/27e192bd8242) |
-| Tue, 30 Dec 2025 14:26:26 GMT | SRE & Security Lessons from the 2025 Trenches | Rajat Gupta | [Read More](https://medium.com/p/8ea01b0c03a8) |
