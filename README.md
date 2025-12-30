@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 11:33:15 GMT | CVE-2025–32463 —  sudo critical vulnerability and privilege escalation — I didn’t know that | Michael Harms | [Read More](https://medium.com/p/b96361d501c9) |
+| Tue, 30 Dec 2025 11:26:38 GMT | Wrapping Up 2025: Lessons from the Cloud and the People in It | Alaa Rahimi | [Read More](https://medium.com/p/5d72f9fb58b9) |
+| Tue, 30 Dec 2025 11:24:24 GMT | The Daily Tech Digest: 30 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/42309d816432) |
+| Tue, 30 Dec 2025 11:22:09 GMT | Certificate Scanning Explained: Key to Modern Cybersecurity Strategy | MilesBrown | [Read More](https://medium.com/p/c3db2c61b197) |
+| Tue, 30 Dec 2025 11:21:32 GMT | Beyond Configuration: Building an “Intent-Based” DAST Scanner with GenAI and OWASP ZAP | Ashish Saha | [Read More](https://medium.com/p/28370bcee176) |
+| Tue, 30 Dec 2025 11:21:19 GMT | TryHackMe :- The Phishing Pond Walkthrough | Virendra Kumar | [Read More](https://medium.com/p/abe8ac5e56e3) |
+| Tue, 30 Dec 2025 11:17:10 GMT | 5 Red Flags in Phishing Emails Your Team Misses | Compciti | [Read More](https://medium.com/p/106544fad102) |
+| Tue, 30 Dec 2025 11:14:06 GMT | Claim Check Architecture | Varun Setia | [Read More](https://medium.com/p/4e622663af56) |
 | Tue, 30 Dec 2025 11:05:31 GMT | Accelerating the Audit: Introducing Auditmos Security Skills for Claude Code | Auditmos | [Read More](https://medium.com/p/771418c4f60f) |
 | Tue, 30 Dec 2025 11:05:04 GMT | Install TheHive 5 on Ubuntu (End-to-End Incident Response Lab) | 0xRahuL | [Read More](https://medium.com/p/4a875c259a0f) |
 | Tue, 30 Dec 2025 11:04:13 GMT | “Best Home Workout Plan for Busy Office Workers in India” | Sameksh Raut | [Read More](https://medium.com/p/1cae3109a0a7) |
@@ -105,11 +113,3 @@ it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://
 | Tue, 30 Dec 2025 06:23:32 GMT | Hamas: Understanding the Palestinian Islamist Movement | Gk | [Read More](https://medium.com/p/ad86d39170d8) |
 | Tue, 30 Dec 2025 06:17:55 GMT | The Most Popular Tech Careers After COVID: What Defined Demand in 2021 | Vbeyond Corporation | [Read More](https://medium.com/p/4725885a5340) |
 | Tue, 30 Dec 2025 06:17:32 GMT | Bug‑Bounty‑Ready Kali Linux Setup WSL | Yamin Rasel | [Read More](https://medium.com/p/e476f38438cd) |
-| Tue, 30 Dec 2025 06:13:32 GMT | How Security Testing Services Support Compliance for Enterprise & Regulated Industries | Saniawilkinson | [Read More](https://medium.com/p/9c28c482f704) |
-| Tue, 30 Dec 2025 06:07:47 GMT | SSTI Exploit Chain: From Error Leaks to File Deletion | M. Mustafa Hussaini | [Read More](https://medium.com/p/b76b89b67dfc) |
-| Tue, 30 Dec 2025 06:05:59 GMT | The Illusion of Security: How I Bypassed CAPTCHA to Enumerate Users (and Why It Was a Duplicate) | Zer0Figure | [Read More](https://medium.com/p/010d8b96f5d4) |
-| Tue, 30 Dec 2025 06:03:34 GMT | Free Cybersecurity Tools for Beginners | Sharif Hassan | [Read More](https://medium.com/p/9e060b0c3051) |
-| Tue, 30 Dec 2025 05:54:00 GMT | Leading AI Development Company Across Multiple Industries | Arunsinghh | [Read More](https://medium.com/p/c0123f454131) |
-| Tue, 30 Dec 2025 05:53:20 GMT | How to Safeguard Your Investments from Scams - Sawaal Karo - World Investor Week 2025 | Kshitijm | [Read More](https://medium.com/p/9f85190deca9) |
-| Tue, 30 Dec 2025 05:50:25 GMT | Disaster Recovery Planning Services Charlotte - IT Firm | IT Firm | [Read More](https://medium.com/p/e143f1baf78b) |
-| Tue, 30 Dec 2025 05:47:43 GMT | CCIR, PIR, and FFIR in Cyber Threat Intelligence | Nima Bargestan | [Read More](https://medium.com/p/3fdb38dcfaf3) |
