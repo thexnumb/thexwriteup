@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 18:10:28 GMT | My Last 2025 Goal | Alicia | [Read More](https://medium.com/p/56eb4508476b) |
+| Tue, 30 Dec 2025 18:09:50 GMT | Why I Obsess Over Cybersecurity: A Student’s Perspective on the Digital Wild West | HEKKO | [Read More](https://medium.com/p/78240092d5df) |
+| Tue, 30 Dec 2025 18:05:17 GMT | Why Building Your Own Cybersecurity Lab Teaches More Than Following Playlists | Muhammad Kashif | [Read More](https://medium.com/p/1079e92c5e5e) |
+| Tue, 30 Dec 2025 18:05:00 GMT | A Quantum War Starts Now | enterlifeonline | [Read More](https://medium.com/p/f51b77530186) |
+| Tue, 30 Dec 2025 18:04:06 GMT | Security in Bounties, Treasury Spending and Rewards Distribution | Polkadot Anti-Scam Team | [Read More](https://medium.com/p/62363e3529ec) |
+| Tue, 30 Dec 2025 18:03:35 GMT | Bringing MISP Threat Intel into Claude Desktop with an MCP Server | Yash Patel | [Read More](https://medium.com/p/ecad756922b4) |
+| Tue, 30 Dec 2025 17:58:30 GMT | Monitored Security Cameras in Denver: A Smarter Way to Protect Your Property | Overwatch Technologies | [Read More](https://medium.com/p/09cb459f32e1) |
+| Tue, 30 Dec 2025 17:58:29 GMT | Why Your Investigation Is Only As Good As Your OPSEC. | Aras Darweesh | [Read More](https://medium.com/p/b2d3a5eaf03d) |
+| Tue, 30 Dec 2025 17:56:46 GMT | Try Hack Me- Wonderland Walkthrough | PulseEinher | [Read More](https://medium.com/p/450340f63acc) |
+| Tue, 30 Dec 2025 17:54:14 GMT | Why GRC Fails in Silence
+What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More](https://medium.com/p/349269d73f3d) |
+| Tue, 30 Dec 2025 17:52:27 GMT | Robot Süpürgem Beni İzliyor mu? Evdeki “Casusu” Ararken Güneş Enerjisi Santrali Bulmak! | Ömer Faruk YAZICI | [Read More](https://medium.com/p/6f10fd77fd36) |
+| Tue, 30 Dec 2025 17:41:48 GMT | Threat Hunting Diary: Trazando la infraestructura C2 de AsyncRAT (Campaña Xoilac) | FeCeSociety | [Read More](https://medium.com/p/0ee441baedab) |
 | Tue, 30 Dec 2025 17:39:27 GMT | SAST / DAST Integration Pipeline | Esra Kayhan | [Read More](https://medium.com/p/3d60fedb34a8) |
+| Tue, 30 Dec 2025 17:37:51 GMT | The Fog Between Then and Now | Tabiya Overhand | [Read More](https://medium.com/p/f99949ed898c) |
 | Tue, 30 Dec 2025 17:37:46 GMT | Cybersecurity Unlocked: Episode 8— The Cast of Characters (Threat Actors) | Yash Kitey | [Read More](https://medium.com/p/46ff5f017307) |
 | Tue, 30 Dec 2025 17:36:02 GMT | The Cryptography Concept Journey — Merkle’s Puzzles | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bb085c67f4e0) |
 | Tue, 30 Dec 2025 17:26:59 GMT | Deploying a Private, High-Performance VPN Server on AWS EC2 using SoftEther | Ajay Uppu | [Read More](https://medium.com/p/dcbe361169ec) |
@@ -99,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 13:09:42 GMT | Grieving Someone Who’s Still Alive: The Pain We Don’t Talk About | WordsbyBano | [Read More](https://medium.com/p/587b98360589) |
 | Tue, 30 Dec 2025 13:07:37 GMT | Ethereum’s Cryptography in a Post-Quantum World | Dany A. Darghouth -  داني  دارغوث | [Read More](https://medium.com/p/896d7a17ad87) |
 | Tue, 30 Dec 2025 13:06:39 GMT | Your Infrastructure Just Got Smarter: Building a Digital Immune System That Actually Works | Ravi | [Read More](https://medium.com/p/049f98802e2a) |
-| Tue, 30 Dec 2025 13:04:47 GMT | Reinstate Amazon Listing After ASIN Suspension Fast | Sellerpickle | [Read More](https://medium.com/p/a7674168eb5a) |
-| Tue, 30 Dec 2025 13:04:20 GMT | Understanding ABAC (Attribute-Based Access Control): Fine-Grained Security Explained | Ayoub Taouam | [Read More](https://medium.com/p/bf7f8d9d60b6) |
-| Tue, 30 Dec 2025 13:02:27 GMT | The One Log Order Most Linux Investigations Get Wrong | Faruk Ahmed | [Read More](https://medium.com/p/8c92469ab081) |
-| Tue, 30 Dec 2025 12:46:41 GMT | introducing ShadowVendor | Stew Alexander | [Read More](https://medium.com/p/1ef800f17876) |
-| Tue, 30 Dec 2025 12:46:34 GMT | How Much Do Security Services Cost in London | Ninjaseo | [Read More](https://medium.com/p/1f9b0822ed73) |
-| Tue, 30 Dec 2025 12:37:14 GMT | Introduction to Wazuh Part 2 | Allen Ace | [Read More](https://medium.com/p/9a3a77bd9b02) |
-| Tue, 30 Dec 2025 12:34:33 GMT | “Verified Online Trader” on Instagram? Read This Before You Invest | Prasoon Jadon | [Read More](https://medium.com/p/b789500f2cb6) |
-| Tue, 30 Dec 2025 12:33:13 GMT | The Commoditization of AI Is Creating New Risk in Cybersecurity | Graylog | [Read More](https://medium.com/p/b287a024d990) |
-| Tue, 30 Dec 2025 12:32:24 GMT | -- :   … | TM SQUARE | [Read More](https://medium.com/p/adeb0e9645dd) |
-| Tue, 30 Dec 2025 12:31:39 GMT | Security Lab Simulation Project Part 19: Following Endpoint Malware Detection Playbook | Jenny | [Read More](https://medium.com/p/aec7b7d7c26f) |
-| Tue, 30 Dec 2025 12:14:56 GMT | File Uploads in React with Node.js and Multer Backend | Didin Jamaludin | [Read More](https://medium.com/p/d003399509c8) |
-| Tue, 30 Dec 2025 12:11:42 GMT | The Agency Threat Model: What Breaks When AI Systems Act Autonomously | Naveen C | [Read More](https://medium.com/p/14d67834f37e) |
-| Tue, 30 Dec 2025 12:07:04 GMT | Chicken Road Game: A Rising Online Scam | Himanshu Bhatt | [Read More](https://medium.com/p/1fc55a6cb797) |
