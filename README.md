@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 17:19:24 GMT | From Zero to Secure — Hardening a Windows 10 Workstation | Secured By Sebastion | [Read More](https://medium.com/p/c5cc8a2939ae) |
+| Tue, 30 Dec 2025 17:16:23 GMT | Managing Cyber Risk in a World of Digital Change: Heraclitus’s Lessons on Impermanence | Brian Haman, PhD | [Read More](https://medium.com/p/972fb5440dd8) |
+| Tue, 30 Dec 2025 17:13:25 GMT | Cyber Security Foundation Series — Computer Networking Part -01 | Kamal Kishor Mahto | [Read More](https://medium.com/p/bbbdac41fecc) |
+| Tue, 30 Dec 2025 17:10:30 GMT | Got the Next.js Security Alert? Complete Breakdown of CVE-2025–66478 | Jyoti Joshi | [Read More](https://medium.com/p/8640d422bffd) |
+| Tue, 30 Dec 2025 17:06:55 GMT | Why Hackers Don’t Break Systems—People Do | Mubashir | [Read More](https://medium.com/p/f5898fbc4d36) |
+| Tue, 30 Dec 2025 17:06:35 GMT | Day 148 — Behemoth Level-5 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/95706ff3b2e1) |
+| Tue, 30 Dec 2025 16:53:32 GMT | Breaking Free from the Monolith: How I Refactored JADX-AI-MCP Into Modular Sanity | Jafar Pathan | [Read More](https://medium.com/p/83408ce2c761) |
+| Tue, 30 Dec 2025 16:53:00 GMT | A Simple Checklist That Improved My Bug Hunting Results | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/2db9bbc67803) |
+| Tue, 30 Dec 2025 16:49:45 GMT | Cybersecurity: Why Digital Safety Is No Longer Optional | Sneha | [Read More](https://medium.com/p/7d17b9966fc3) |
+| Tue, 30 Dec 2025 16:39:31 GMT | Endpoint Investigation Made Easier with SOCFORTRESS CoPilot and Velociraptor | SOCFortress | [Read More](https://medium.com/p/5827c81729d2) |
+| Tue, 30 Dec 2025 16:35:07 GMT | The Utter Nightmare of Social Media Platforms. And the Worst Is Still Ahead. | KC Goundiam | [Read More](https://medium.com/p/fd52dbfadcf3) |
+| Tue, 30 Dec 2025 16:29:20 GMT | Bandit Level 7 to 8: The Art of Text Searching and Filtering | Sivanesan M | [Read More](https://medium.com/p/18f41ed63a99) |
+| Tue, 30 Dec 2025 16:26:39 GMT | SpiderFoot | Manas Mahato | [Read More](https://medium.com/p/a126c17ec9b4) |
+| Tue, 30 Dec 2025 16:26:26 GMT | I Couldn’t Find the Tool I Needed for Web Security Testing — So I Built It | Alareqi | [Read More](https://medium.com/p/52a0cef69687) |
+| Tue, 30 Dec 2025 16:24:46 GMT | Blocks for the Year: A review | Greg Heffner | [Read More](https://medium.com/p/e28e55f030e4) |
 | Tue, 30 Dec 2025 16:23:37 GMT | Setting Up The Lab - Network Hacking Dari Nol #3 | Levithan | [Read More](https://medium.com/p/278c38776f93) |
 | Tue, 30 Dec 2025 16:15:58 GMT | How to Demonstrate Prompt Injection on Unsecured LLM APIs: A Technical Deep Dive | Sarthakvyadav | [Read More](https://medium.com/p/9289be7e152a) |
 | Tue, 30 Dec 2025 16:13:09 GMT | Thinking Like an Attacker A Technical Perspective on Web Security Research | Jawad Momani | [Read More](https://medium.com/p/e5091704b53a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 11:38:48 GMT | Simple protection against complex attacks | Progsky | [Read More](https://medium.com/p/799f40e0f213) |
 | Tue, 30 Dec 2025 11:33:15 GMT | CVE-2025–32463 —  sudo critical vulnerability and privilege escalation — I didn’t know that | Michael Harms | [Read More](https://medium.com/p/b96361d501c9) |
 | Tue, 30 Dec 2025 11:28:01 GMT | AI Alert Triage: From Manual Bottlenecks to Intelligent SOC Automation | Mallikarjunan Krishnan | [Read More](https://medium.com/p/8e600ff82489) |
-| Tue, 30 Dec 2025 11:26:38 GMT | Wrapping Up 2025: Lessons from the Cloud and the People in It | Alaa Rahimi | [Read More](https://medium.com/p/5d72f9fb58b9) |
-| Tue, 30 Dec 2025 11:24:24 GMT | The Daily Tech Digest: 30 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/42309d816432) |
-| Tue, 30 Dec 2025 11:22:09 GMT | Certificate Scanning Explained: Key to Modern Cybersecurity Strategy | MilesBrown | [Read More](https://medium.com/p/c3db2c61b197) |
-| Tue, 30 Dec 2025 11:21:32 GMT | Beyond Configuration: Building an “Intent-Based” DAST Scanner with GenAI and OWASP ZAP | Ashish Saha | [Read More](https://medium.com/p/28370bcee176) |
-| Tue, 30 Dec 2025 11:21:19 GMT | TryHackMe :- The Phishing Pond Walkthrough | Virendra Kumar | [Read More](https://medium.com/p/abe8ac5e56e3) |
-| Tue, 30 Dec 2025 11:17:10 GMT | 5 Red Flags in Phishing Emails Your Team Misses | Compciti | [Read More](https://medium.com/p/106544fad102) |
-| Tue, 30 Dec 2025 11:14:06 GMT | Claim Check Architecture | Varun Setia | [Read More](https://medium.com/p/4e622663af56) |
-| Tue, 30 Dec 2025 11:05:31 GMT | Accelerating the Audit: Introducing Auditmos Security Skills for Claude Code | Auditmos | [Read More](https://medium.com/p/771418c4f60f) |
-| Tue, 30 Dec 2025 11:05:04 GMT | Install TheHive 5 on Ubuntu (End-to-End Incident Response Lab) | 0xRahuL | [Read More](https://medium.com/p/4a875c259a0f) |
-| Tue, 30 Dec 2025 11:04:13 GMT | “Best Home Workout Plan for Busy Office Workers in India” | Sameksh Raut | [Read More](https://medium.com/p/1cae3109a0a7) |
-| Tue, 30 Dec 2025 11:01:57 GMT | Why wp_kses_post Removes <time> (and How to Fix It Safely) | Yusuf Biberoğlu | [Read More](https://medium.com/p/dfc3c8c72436) |
-| Tue, 30 Dec 2025 11:01:36 GMT | Why Convenience Is the Biggest Enemy of Online Security | Ali Hamza | [Read More](https://medium.com/p/831ff16feb01) |
-| Tue, 30 Dec 2025 11:00:16 GMT | From Ranchi to the United Nations: How Major Vineet Carried Jharkhand to the World Stage | Amit Modi | [Read More](https://medium.com/p/6748ede2a408) |
-| Tue, 30 Dec 2025 10:57:07 GMT | ✍️ Why Web AI Agents Are More Vulnerable Than Standalone LLMs — And How We Should Actually Fix It | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/4a4a2df2cd37) |
-| Tue, 30 Dec 2025 10:55:58 GMT | The Silent Kill Chain: Firmware-Level Attacks and the Illusion of Cybersecurity | Rawi | [Read More](https://medium.com/p/f977561b24e6) |
