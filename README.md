@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 22:40:29 GMT | “Embracing Vulnerability” | Binte Habib | [Read More](https://medium.com/p/69037bd23ccc) |
+| Tue, 30 Dec 2025 22:18:36 GMT | AI, Privacy, and the Execution Sovereignty Problem | Heyyprashanth | [Read More](https://medium.com/p/45e1c1871f97) |
 | Tue, 30 Dec 2025 22:05:22 GMT | Advent of Cyber — Day 4: AI in Security — Old saint Nick | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/fe6bcb0e159b) |
 | Tue, 30 Dec 2025 22:04:18 GMT | You Gon’ Learn Today: Layemor Malware Analysis II | grepStrength | [Read More](https://medium.com/p/86bb4a0328f7) |
 | Tue, 30 Dec 2025 21:58:21 GMT | Your Excel Risk Matrix is Lying to You about Kubernetes Security. | Julian Koehn | [Read More](https://medium.com/p/8ccde081442b) |
@@ -22,6 +24,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 21:31:21 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobalagency Manager | [Read More](https://medium.com/p/1fbfa587ccec) |
 | Tue, 30 Dec 2025 21:31:09 GMT | A Hidden Line of Text Can Hijack an AI. No Clicks, No Malware, Just Words. | AhmedAbdelmenem | [Read More](https://medium.com/p/308d26473f9f) |
 | Tue, 30 Dec 2025 21:30:53 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobaldirector | [Read More](https://medium.com/p/66c2600d6996) |
+| Tue, 30 Dec 2025 21:29:56 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | H.E.I.X. Global Agency | [Read More](https://medium.com/p/795e53487c13) |
 | Tue, 30 Dec 2025 21:25:27 GMT | What Is a Dark Web Data Leak and Why It Matters | Tor BBB | [Read More](https://medium.com/p/045a199fd611) |
 | Tue, 30 Dec 2025 21:19:42 GMT | Tutorials Teach Muscle Memory. Labs Teach You How to Hack. | Derek Johnston | [Read More](https://medium.com/p/e47b101046c8) |
 | Tue, 30 Dec 2025 21:16:43 GMT | Part 1 — Where to? | Mehmet K | [Read More](https://medium.com/p/7faf5868a07d) |
@@ -110,6 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 16:01:17 GMT | Mastering Spooftooph: Bluetooth Spoofing on Kali (Full Lab Guide) | Manas Mahato | [Read More](https://medium.com/p/9f5f969e6b36) |
 | Tue, 30 Dec 2025 16:00:55 GMT | The Silent Weapon (Part 2): Real AI Workflows Bug Bounty Hunters Actually Use | ghostyjoe | [Read More](https://medium.com/p/9b7b2d8fd26e) |
 | Tue, 30 Dec 2025 15:59:41 GMT | Why Cloud-Based Access Control Systems Are the Key to Efficient Enterprise Security | Tony Brooks | [Read More](https://medium.com/p/a78f007d5f1d) |
-| Tue, 30 Dec 2025 15:56:41 GMT | 5 Best Smart Thermostats for Home in 2025 | Narjis Arshad | [Read More](https://medium.com/p/b83afc3f6ffe) |
-| Tue, 30 Dec 2025 15:54:14 GMT | CEHv12: Hacking Mobile Platforms (Practised) (Module 17) | Aditya Kumar | [Read More](https://medium.com/p/f4fbc8b5c308) |
-| Tue, 30 Dec 2025 15:50:49 GMT | The Silent Bug That Lived for 8 Years | Sushila Devi | [Read More](https://medium.com/p/9ced766636f2) |
