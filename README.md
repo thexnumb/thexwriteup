@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 12:37:14 GMT | Introduction to Wazuh Part 2 | Allen Ace | [Read More](https://medium.com/p/9a3a77bd9b02) |
+| Tue, 30 Dec 2025 12:33:13 GMT | The Commoditization of AI Is Creating New Risk in Cybersecurity | Graylog | [Read More](https://medium.com/p/b287a024d990) |
+| Tue, 30 Dec 2025 12:32:24 GMT | -- :   … | TM SQUARE | [Read More](https://medium.com/p/adeb0e9645dd) |
+| Tue, 30 Dec 2025 12:31:39 GMT | Security Lab Simulation Project Part 19: Following Endpoint Malware Detection Playbook | Jenny | [Read More](https://medium.com/p/aec7b7d7c26f) |
+| Tue, 30 Dec 2025 12:11:42 GMT | The Agency Threat Model: What Breaks When AI Systems Act Autonomously | Naveen C | [Read More](https://medium.com/p/14d67834f37e) |
+| Tue, 30 Dec 2025 12:07:04 GMT | Chicken Road Game: A Rising Online Scam | Himanshu Bhatt | [Read More](https://medium.com/p/1fc55a6cb797) |
+| Tue, 30 Dec 2025 12:06:28 GMT | How Bug Bounty Hunters Are Quietly Using AI to Work Smarter | ghostyjoe | [Read More](https://medium.com/p/5264db2a78dc) |
+| Tue, 30 Dec 2025 12:02:23 GMT | The Metadata Problem: How Your Documents Reveal Your Identity, Infrastructure, and Projects | Ingvar Pavlovich | [Read More](https://medium.com/p/d9dd0ea41efb) |
+| Tue, 30 Dec 2025 11:57:28 GMT | OT Best OT Cyber Security Services to Defend Industrial Operations in 2026 | Arista Cyber | [Read More](https://medium.com/p/e6cc1ade36be) |
+| Tue, 30 Dec 2025 11:50:49 GMT | AI in Cybersecurity: From Reactive Defense to Predictive Protection | Alolika Ghosh | [Read More](https://medium.com/p/2545040610a1) |
+| Tue, 30 Dec 2025 11:49:27 GMT | Why the GCC EdTech Market Is Rapidly Expanding | John ryan | [Read More](https://medium.com/p/1454744dc650) |
+| Tue, 30 Dec 2025 11:38:48 GMT | Simple protection against complex attacks | Progsky | [Read More](https://medium.com/p/799f40e0f213) |
 | Tue, 30 Dec 2025 11:33:15 GMT | CVE-2025–32463 —  sudo critical vulnerability and privilege escalation — I didn’t know that | Michael Harms | [Read More](https://medium.com/p/b96361d501c9) |
+| Tue, 30 Dec 2025 11:28:01 GMT | AI Alert Triage: From Manual Bottlenecks to Intelligent SOC Automation | Mallikarjunan Krishnan | [Read More](https://medium.com/p/8e600ff82489) |
 | Tue, 30 Dec 2025 11:26:38 GMT | Wrapping Up 2025: Lessons from the Cloud and the People in It | Alaa Rahimi | [Read More](https://medium.com/p/5d72f9fb58b9) |
 | Tue, 30 Dec 2025 11:24:24 GMT | The Daily Tech Digest: 30 December 2025 | Souren Stepanyan | [Read More](https://medium.com/p/42309d816432) |
 | Tue, 30 Dec 2025 11:22:09 GMT | Certificate Scanning Explained: Key to Modern Cybersecurity Strategy | MilesBrown | [Read More](https://medium.com/p/c3db2c61b197) |
@@ -100,16 +113,3 @@ it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://
 | Tue, 30 Dec 2025 06:59:17 GMT | 15 Tools to Chain CORS, JSONP & XSS for Account Takeover: Master Your Pentesting Game | Very Lazy Tech | [Read More](https://medium.com/p/23a9ac9524ad) |
 | Tue, 30 Dec 2025 06:57:59 GMT | Defend Digital Infrastructure with Ethical Hacking Expertise — Certified Ethical Hacking… | Adhiraj Kasabe | [Read More](https://medium.com/p/57487be20499) |
 | Tue, 30 Dec 2025 06:57:50 GMT | LetsDefend SOC Walkthrough: Investigating the ToolShell SharePoint Zero-Day (CVE-2025–53770) | Raiven Ruetas | [Read More](https://medium.com/p/fecebfeb217c) |
-| Tue, 30 Dec 2025 06:57:50 GMT | Information Tech Will Destroy Us: A Warning from 375 BC | Dan R. Green | [Read More](https://medium.com/p/a2d63a35c74b) |
-| Tue, 30 Dec 2025 06:54:18 GMT | What is an ip (internet protocol ) ? | Vishalraj | [Read More](https://medium.com/p/724560937ed1) |
-| Tue, 30 Dec 2025 06:51:27 GMT | I Kept My Database on My Own Server While the UI Lived Abroad — Here’s Why | Damla Yaşar | [Read More](https://medium.com/p/d606b10a6060) |
-| Tue, 30 Dec 2025 06:38:58 GMT | How AI-Generated Child Exploitation Is Exploding into 2026 & What To Do | SudoChef | [Read More](https://medium.com/p/dc1158fb9357) |
-| Tue, 30 Dec 2025 06:36:49 GMT | The Hidden Cost of Data Breaches: Why 2026 Will Be the Year of Cyber Resilience | Avlix Group | [Read More](https://medium.com/p/cb60cf4a3ff9) |
-| Tue, 30 Dec 2025 06:35:42 GMT | From Zero to SOC Analyst: How I Used Free TryHackMe Walkthroughs to Land My First Cybersecurity Job… | Narayan Regmi | [Read More](https://medium.com/p/b6d6fcb2ce92) |
-| Tue, 30 Dec 2025 06:35:10 GMT | What’s the Difference Between Video Surveillance and Sensor Systems? | Marcela John | [Read More](https://medium.com/p/b57425a18efc) |
-| Tue, 30 Dec 2025 06:31:49 GMT | Firewalls and Network Security in Sharjah — Complete Business Protection | costtocost | [Read More](https://medium.com/p/70e9a4ca88f6) |
-| Tue, 30 Dec 2025 06:28:29 GMT | Open Me Up | Words by Egypt | [Read More](https://medium.com/p/fd3fe58c3c73) |
-| Tue, 30 Dec 2025 06:26:27 GMT | An Engineering Playbook for Building Trustworthy AI Agents | Raghunandan Gupta | [Read More](https://medium.com/p/e226639547fc) |
-| Tue, 30 Dec 2025 06:23:32 GMT | Hamas: Understanding the Palestinian Islamist Movement | Gk | [Read More](https://medium.com/p/ad86d39170d8) |
-| Tue, 30 Dec 2025 06:17:55 GMT | The Most Popular Tech Careers After COVID: What Defined Demand in 2021 | Vbeyond Corporation | [Read More](https://medium.com/p/4725885a5340) |
-| Tue, 30 Dec 2025 06:17:32 GMT | Bug‑Bounty‑Ready Kali Linux Setup WSL | Yamin Rasel | [Read More](https://medium.com/p/e476f38438cd) |
