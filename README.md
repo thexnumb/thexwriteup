@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 14:42:27 GMT | Waiting | NRWillick | [Read More](https://medium.com/p/e35d6e9c749f) |
+| Tue, 30 Dec 2025 14:39:22 GMT | Solving a Cybersecurity Case with Excel — My Second Week with Excel | Aditi V | [Read More](https://medium.com/p/f96050c082ef) |
+| Tue, 30 Dec 2025 14:36:14 GMT | Peach Fuzzer Tutorial - Lab 1 | Abhirup Konwar | [Read More](https://medium.com/p/a9b4852885da) |
+| Tue, 30 Dec 2025 14:33:37 GMT | DDoS Isn’t a “Security Issue” Anymore — It’s a Visibility and Revenue Threat for Digital Brands | Vibha Sharma | [Read More](https://medium.com/p/a75a9310621b) |
+| Tue, 30 Dec 2025 14:33:19 GMT | Shifting AI Safety Paradigms: Blue Team | QEE | [Read More](https://medium.com/p/5eb64d4902e7) |
+| Tue, 30 Dec 2025 14:30:12 GMT | Protecting Sensitive Data Using Envelope Encryption | İbrahim Gündüz | [Read More](https://medium.com/p/95cef1623e64) |
+| Tue, 30 Dec 2025 14:29:41 GMT | OverTheWire Bandit (Day 04): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/8dc06ee37a98) |
+| Tue, 30 Dec 2025 14:26:26 GMT | SRE & Security Lessons from the 2025 Trenches | Rajat Gupta | [Read More](https://medium.com/p/8ea01b0c03a8) |
 | Tue, 30 Dec 2025 14:18:50 GMT | Security-First Azure Cloud Migration with Zero Trust and CIS Benchmarks | Cheena | [Read More](https://medium.com/p/109752b2edfe) |
 | Tue, 30 Dec 2025 14:11:21 GMT | Splunk Setting up a SOC Lab | Dawid Kowalski | [Read More](https://medium.com/p/202f040f004c) |
 | Tue, 30 Dec 2025 14:08:32 GMT | Hardware-Based Security: How to Protect AI at the Edge | Altan Baysal | [Read More](https://medium.com/p/5516a7cdda12) |
@@ -23,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 13:52:48 GMT | Cybersecurity Threats to Watch in 2026 | Biometric.Vision | [Read More](https://medium.com/p/5c363b1ac8bc) |
 | Tue, 30 Dec 2025 13:48:39 GMT | China Attacks Thirty American Firms in a Bizarre New Cyber Hack | Khadijafalaksher | [Read More](https://medium.com/p/deb27e196862) |
 | Tue, 30 Dec 2025 13:48:16 GMT | Siber Güvenlik Nedir? Dijital Dünyanın Çağdaş Koruması | İlayda | [Read More](https://medium.com/p/0d7f9dafa264) |
+| Tue, 30 Dec 2025 13:37:13 GMT | Epstein Files Explained: What the Newly Released Documents Really Show | Big Five | [Read More](https://medium.com/p/922ed93e7897) |
 | Tue, 30 Dec 2025 13:36:18 GMT | PortSwigger Web Security Academy — 2FA Simple Bypass (Lab Write-Up) | Mann24> | [Read More](https://medium.com/p/a6df50c47915) |
 | Tue, 30 Dec 2025 13:32:46 GMT | Broken Access Control Vulnerability: Beginner-Friendly P4 Bug That Paid ₹15,000 | Rajankumarbarik | [Read More](https://medium.com/p/1cca0e53f5ff) |
 | Tue, 30 Dec 2025 13:31:47 GMT | Softness Belongs in Feminism | Calya Fajrian | [Read More](https://medium.com/p/d509b91c1683) |
@@ -44,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 12:33:13 GMT | The Commoditization of AI Is Creating New Risk in Cybersecurity | Graylog | [Read More](https://medium.com/p/b287a024d990) |
 | Tue, 30 Dec 2025 12:32:24 GMT | -- :   … | TM SQUARE | [Read More](https://medium.com/p/adeb0e9645dd) |
 | Tue, 30 Dec 2025 12:31:39 GMT | Security Lab Simulation Project Part 19: Following Endpoint Malware Detection Playbook | Jenny | [Read More](https://medium.com/p/aec7b7d7c26f) |
+| Tue, 30 Dec 2025 12:14:56 GMT | File Uploads in React with Node.js and Multer Backend | Didin Jamaludin | [Read More](https://medium.com/p/d003399509c8) |
 | Tue, 30 Dec 2025 12:11:42 GMT | The Agency Threat Model: What Breaks When AI Systems Act Autonomously | Naveen C | [Read More](https://medium.com/p/14d67834f37e) |
 | Tue, 30 Dec 2025 12:07:04 GMT | Chicken Road Game: A Rising Online Scam | Himanshu Bhatt | [Read More](https://medium.com/p/1fc55a6cb797) |
 | Tue, 30 Dec 2025 12:06:28 GMT | How Bug Bounty Hunters Are Quietly Using AI to Work Smarter | ghostyjoe | [Read More](https://medium.com/p/5264db2a78dc) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 09:26:21 GMT | Building a Secure 3-Tier Architecture in Google Cloud | Bleu Boy | [Read More](https://medium.com/p/dcae6b8c77f1) |
 | Tue, 30 Dec 2025 09:26:10 GMT | How Workplace Automation Drives Productivity and Business Growth | Rasna Rasin | [Read More](https://medium.com/p/086f878e53af) |
 | Tue, 30 Dec 2025 09:22:40 GMT | TryHackMe: DecryptifyWriteup | cbev | [Read More](https://medium.com/p/501276513164) |
-| Tue, 30 Dec 2025 09:17:51 GMT | The Global Data Center Market and Its Role in Powering the Digital Economy | Vijay Mishra | [Read More](https://medium.com/p/5544bf9b51ce) |
-| Tue, 30 Dec 2025 09:13:10 GMT | How Apps “Understand” You Without Reading Your Mind | harsh_singh | [Read More](https://medium.com/p/4936dd41f0e3) |
-| Tue, 30 Dec 2025 09:10:54 GMT | PROJECT89 Token Migration Is LIVE. Holders Must Upgrade Before the Old Contract Becomes Worthless | JJeremyallairee | [Read More](https://medium.com/p/67ff2ee10190) |
-| Tue, 30 Dec 2025 09:04:49 GMT | Building My Hybrid Security Lab (Part 5): Implementing Hybrid Identity with Microsoft Entra Connect | Florence Nwizugbe | [Read More](https://medium.com/p/f9730c36fdfe) |
-| Tue, 30 Dec 2025 09:02:23 GMT | Reduce Support Tickets Fast: Detect Compromised Customer Accounts Before Users Complain | Alexandre Vandamme | [Read More](https://medium.com/p/4bc8daf22b3f) |
-| Tue, 30 Dec 2025 09:00:50 GMT | Bugs in the Wild West: Top 10 C and C++ errors of 2025 | Unicorn Developer | [Read More](https://medium.com/p/d74fed688108) |
-| Tue, 30 Dec 2025 09:00:27 GMT | Career Growth | Zeeshan Punjwani | [Read More](https://medium.com/p/b565ba78c851) |
-| Tue, 30 Dec 2025 08:59:02 GMT | Data Demons: The hidden risk in modern data breaches | Sam.KL | [Read More](https://medium.com/p/02c3264f5439) |
-| Tue, 30 Dec 2025 08:58:13 GMT | Jealousy is not proof of love;
-it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://medium.com/p/21e4933ec234) |
-| Tue, 30 Dec 2025 08:52:41 GMT | How Encryption Strategies Safeguard Critical Business Data | Rahman Iqbal | [Read More](https://medium.com/p/6168ee17881e) |
